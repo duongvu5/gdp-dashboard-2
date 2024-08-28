@@ -143,7 +143,7 @@ def main():
     source = 'league_dict.json'
     shutil.copy(source, league_dict_path)
     st.title("Player Comparison Radar Chart")
-    
+    # 
     # Load league dictionary
     with open('config/league_dict.json', 'r') as f:
         league_dict = json.load(f)
