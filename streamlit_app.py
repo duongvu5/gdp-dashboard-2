@@ -136,7 +136,7 @@ def main():
     st.title("Player Comparison Radar Chart")
     
     # Load league dictionary
-    with open('league_dict.json', 'r') as f:
+    with open('config/league_dict.json', 'r') as f:
         league_dict = json.load(f)
     
     # Create a mapping from league names to keys
