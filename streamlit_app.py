@@ -141,7 +141,7 @@ def main():
     # Ensure the directory exists
     os.makedirs(config_dir, exist_ok=True)
     source = 'league_dict.json'
-    shutil.move(source, league_dict_path)
+    shutil.copy(source, league_dict_path)
     st.title("Player Comparison Radar Chart")
     
     # Load league dictionary
