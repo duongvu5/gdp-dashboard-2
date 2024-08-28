@@ -9,6 +9,8 @@ import numpy as np
 import pandas as pd
 import streamlit as st
 import json
+import os
+import shutil
 
 def get_available_leagues():
     """Print available leagues."""
@@ -133,6 +135,13 @@ def compare_players_and_create_radar(merged_df, player1, player2, selected_param
     create_radar_chart(selected_params, low, high, lower_is_better, player1_values, player2_values, player1, player2, team1_name, team2_name)
 
 def main():
+    fbrefdata_dir = os.getenv('FBREFDATA_DIR', os.path.expanduser('~/fbrefdata'))
+    config_dir = os.path.join(fbrefdata_dir, 'config')
+    league_dict_path = os.path.join(config_dir, 'league_dict.json')
+    # Ensure the directory exists
+    os.makedirs(config_dir, exist_ok=True)
+    source = 'league_dict.json'
+    shutil.move(source, league_dict_path)
     st.title("Player Comparison Radar Chart")
     
     # Load league dictionary
