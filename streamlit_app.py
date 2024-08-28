@@ -172,37 +172,193 @@ def main():
     player1 = st.selectbox("Select the first player", players)
     player2 = st.selectbox("Select the second player", players)
     
+    # param_mapping = {
+    #     "Goals": ['Performance', 'Gls'],
+    #     "Assists": ['Performance', 'Ast'],
+    #     "Goals + Assists": ['Performance', 'G+A'],
+    #     "Non-Penalty Goals": ['Performance', 'G-PK'],
+    #     "Assists": ['Performance', 'Ast'],
+    #     "Penalty Goals": ['Performance', 'PK'],
+    #     'Penalty kick Attempts': ['Performance', 'PKatt'],
+
+    #     "xG": ['Expected', 'xG'],
+    #     "npxG": ['Expected', 'npxG'],
+    #     "xAG": ['Expected', 'xAG'],
+    #     "Key Passes": ['KP'],
+    #     "Through Balls": ['Pass Types', 'TB'],
+    #     "Progressive Passes": ['PrgP'],
+    #     "Shot-Creating Actions": ['SCA', 'SCA'],
+    #     "Goal-Creating Actions": ['GCA', 'GCA'],
+    #     "Carries": ['Carries', 'Carries'],
+    #     "Touches In Attacking 1/3": ['Touches', 'Att 3rd'],
+    #     "Miscontrol": ['Carries', 'Mis'],
+    #     "Dispossessed": ['Carries', 'Dis'],
+        
+    #     "Shots": ['Standard', 'Sh'],
+    #     "Progressive Carries": ['Carries', 'PrgC'],
+    #     "Progressive Pass Received": ['Receiving', 'PrgR'],
+    #     "Successful Take-ons": ['Take-Ons', 'Succ'],
+    #     "Successful Take-on %": ['Take-Ons', 'Succ%']
+    # }
     param_mapping = {
         "Goals": ['Performance', 'Gls'],
         "Assists": ['Performance', 'Ast'],
         "Goals + Assists": ['Performance', 'G+A'],
         "Non-Penalty Goals": ['Performance', 'G-PK'],
-        "Assists": ['Performance', 'Ast'],
         "Penalty Goals": ['Performance', 'PK'],
         'Penalty kick Attempts': ['Performance', 'PKatt'],
+        "Yellow Cards": ['Performance', 'CrdY'],
+        "Red Cards": ['Performance', 'CrdR'],
 
         "xG": ['Expected', 'xG'],
         "npxG": ['Expected', 'npxG'],
         "xAG": ['Expected', 'xAG'],
-        "Key Passes": ['KP'],
+        "npxG+xAG": ['Expected', 'npxG+xAG'],
+
+        "Progressive Carries": ['Progression', 'PrgC'],
+        "Progressive Pass": ['Progression', 'PrgP'],
+        "Progressive Pass Received": ['Progression', 'PrgR'],
+        "Goals/90": ["Per 90 Minutes", "Gls"],
+        "Assists/90": ["Per 90 Minutes", "Ast"],
+        "Goals+Assists/90": ["Per 90 Minutes", "G+A"],
+        "Non-Penalty Goals/90": ["Per 90 Minutes", "G-PK"],
+        "Non-Penalty Goals + Assists/90": ["Per 90 Minutes", "G+A-PK"],
+        "xG/90": ["Per 90 Minutes", "xG"],
+        "xAG/90": ["Per 90 Minutes", "xAG"],
+        "xG+xAG/90": ["Per 90 Minutes", "xG+xAG"],
+        "npxG/90": ["Per 90 Minutes", "npxG"],
+        "npxG+xAG/90": ["Per 90 Minutes", "npxG+xAG"],
+
+        "Key Passes": ['KP', ''],
         "Through Balls": ['Pass Types', 'TB'],
-        "Progressive Passes": ['PrgP'],
         "Shot-Creating Actions": ['SCA', 'SCA'],
         "Goal-Creating Actions": ['GCA', 'GCA'],
-        "Carries": ['Carries', 'Carries'],
         "Touches In Attacking 1/3": ['Touches', 'Att 3rd'],
         "Miscontrol": ['Carries', 'Mis'],
         "Dispossessed": ['Carries', 'Dis'],
-        
+
         "Shots": ['Standard', 'Sh'],
-        "Progressive Carries": ['Carries', 'PrgC'],
-        "Progressive Pass Received": ['Receiving', 'PrgR'],
-        "Successful Take-ons": ['Take-Ons', 'Succ'],
-        "Successful Take-on %": ['Take-Ons', 'Succ%']
+        "Shots on Target": ['Standard', 'SoT'],
+        "Shots on Target %": ['Standard', 'SoT%'],
+        "Shots/90": ['Standard', 'Sh/90'],
+        "Shots on Target/90": ['Standard', 'SoT/90'],
+        "Goals per Shot": ['Standard', 'G/Sh'],
+        "Goals per Shot on Target": ['Standard', 'G/SoT'],
+        "Shot Distance": ['Standard', 'Dist'],
+        "Free Kick Goals": ['Standard', 'FK'],
+        "Penalty Attempts": ['Standard', 'PKatt'],
+
+        "Total Passes Completed": ['Total', 'Cmp'],
+        "Total Passes Attempted": ['Total', 'Att'],
+        "Total Pass Completion %": ['Total', 'Cmp%'],
+        "Total Pass Distance": ['Total', 'TotDist'],
+        "Progressive Pass Distance": ['Total', 'PrgDist'],
+
+        "Short Passes Completed": ['Short', 'Cmp'],
+        "Short Passes Attempted": ['Short', 'Att'],
+        "Short Pass Completion %": ['Short', 'Cmp%'],
+
+        "Medium Passes Completed": ['Medium', 'Cmp'],
+        "Medium Passes Attempted": ['Medium', 'Att'],
+        "Medium Pass Completion %": ['Medium', 'Cmp%'],
+
+        "Long Passes Completed": ['Long', 'Cmp'],
+        "Long Passes Attempted": ['Long', 'Att'],
+        "Long Pass Completion %": ['Long', 'Cmp%'],
+
+        "Expected Assists": ['Expected', 'xA'],
+        "Assists minus xAG": ['Expected', 'A-xAG'],
+
+        "Passes into Final Third": ['1/3', ''],
+        "Passes into Penalty Area": ['PPA', ''],
+        "Crosses into Penalty Area": ['CrsPA', ''],
+
+        "Live Passes": ['Pass Types', 'Live'],
+        "Dead Passes": ['Pass Types', 'Dead'],
+        "Free Kick Passes": ['Pass Types', 'FK'],
+        "Switches": ['Pass Types', 'Sw'],
+        "Crosses": ['Pass Types', 'Crs'],
+        "Throw-ins": ['Pass Types', 'TI'],
+        "Corner Kicks": ['Pass Types', 'CK'],
+
+        "In-swinging Corners": ['Corner Kicks', 'In'],
+        "Out-swinging Corners": ['Corner Kicks', 'Out'],
+        "Straight Corners": ['Corner Kicks', 'Str'],
+
+        "Passes Completed": ['Outcomes', 'Cmp'],
+        "Passes Offside": ['Outcomes', 'Off'],
+        "Passes Blocked": ['Outcomes', 'Blocks'],
+
+        "Shot-Creating Actions per 90": ['SCA', 'SCA90'],
+        "SCA from Live Passes": ['SCA Types', 'PassLive'],
+        "SCA from Dead Passes": ['SCA Types', 'PassDead'],
+        "SCA from Take-Ons": ['SCA Types', 'TO'],
+        "SCA from Shots": ['SCA Types', 'Sh'],
+        "SCA from Fouls Drawn": ['SCA Types', 'Fld'],
+        "SCA from Defensive Actions": ['SCA Types', 'Def'],
+
+        "Goal-Creating Actions per 90": ['GCA', 'GCA90'],
+        "GCA from Live Passes": ['GCA Types', 'PassLive'],
+        "GCA from Dead Passes": ['GCA Types', 'PassDead'],
+        "GCA from Take-Ons": ['GCA Types', 'TO'],
+        "GCA from Shots": ['GCA Types', 'Sh'],
+        "GCA from Fouls Drawn": ['GCA Types', 'Fld'],
+        "GCA from Defensive Actions": ['GCA Types', 'Def'],
+
+        "Tackles": ['Tackles', 'Tkl'],
+        "Tackles Won": ['Tackles', 'TklW'],
+        "Tackles in Defensive Third": ['Tackles', 'Def 3rd'],
+        "Tackles in Midfield Third": ['Tackles', 'Mid 3rd'],
+        "Tackles in Attacking Third": ['Tackles', 'Att 3rd'],
+
+        "Challenges": ['Challenges', 'Tkl'],
+        "Challenges Attempted": ['Challenges', 'Att'],
+        "Challenge Success %": ['Challenges', 'Tkl%'],
+        "Challenges Lost": ['Challenges', 'Lost'],
+
+        "Blocks": ['Blocks', 'Blocks'],
+        "Shots Blocked": ['Blocks', 'Sh'],
+        "Passes Blocked": ['Blocks', 'Pass'],
+
+        "Interceptions": ['Int', ''],
+        "Tackles + Interceptions": ['Tkl+Int', ''],
+        "Clearances": ['Clr', ''],
+        "Errors": ['Err', ''],
+
+        "Touches": ['Touches', 'Touches'],
+        "Touches in Defensive Penalty Area": ['Touches', 'Def Pen'],
+        "Touches in Defensive Third": ['Touches', 'Def 3rd'],
+        "Touches in Midfield Third": ['Touches', 'Mid 3rd'],
+        "Touches in Attacking Third": ['Touches', 'Att 3rd'],
+        "Touches in Attacking Penalty Area": ['Touches', 'Att Pen'],
+        "Live-Ball Touches": ['Touches', 'Live'],
+
+        "Take-Ons Attempted": ['Take-Ons', 'Att'],
+        "Successful Take-Ons": ['Take-Ons', 'Succ'],
+        "Successful Take-On %": ['Take-Ons', 'Succ%'],
+        "Take-Ons Tkl": ['Take-Ons', 'Tkld'],
+        "Take-Ons Tkl %": ['Take-Ons', 'Tkld%'],
+
+        "Carries": ['Carries', 'Carries'],
+        "Total Carry Distance": ['Carries', 'TotDist'],
+        "Progressive Carry Distance": ['Carries', 'PrgDist'],
+        "Carries into Final Third": ['Carries', '1/3'],
+        "Carries into Penalty Area": ['Carries', 'CPA'],
+
+        "Passes Received": ['Receiving', 'Rec'],
+        "Progressive Passes Received": ['Receiving', 'PrgR'],
+
+        "Penalty Kicks Won": ['Performance_df7', 'PKwon'],
+        "Penalty Kicks Conceded": ['Performance_df7', 'PKcon'],
+        "Own Goals": ['Performance_df7', 'OG'],
+        "Recoveries": ['Performance_df7', 'Recov'],
+
+        "Aerial Duels Won": ['Aerial Duels', 'Won'],
+        "Aerial Duels Lost": ['Aerial Duels', 'Lost'],
+        "Aerial Duels Won %": ['Aerial Duels', 'Won%']
     }
-    
     params = list(param_mapping.keys())
-    selected_params = st.multiselect("Select parameters to compare", params, default=params[:5])
+    selected_params = st.multiselect("Select parameters to compare (make sure to choose 3 or more parameters)", params, default=params[:5])
     
     lower_is_better_options = st.multiselect("Select parameters where lower is better", params, default=['Miscontrol', 'Dispossessed'])
     
