@@ -664,9 +664,7 @@ def main():
         dest_item = os.path.join(fbrefdata_dir, item)
         
         if os.path.isdir(source_item):
-            if os.path.exists(dest_item):
-                shutil.rmtree(dest_item)
-            shutil.copytree(source_item, dest_item)
+            shutil.copytree(source_item, dest_item, dirs_exist_ok=True)
         else:
             shutil.copy2(source_item, dest_item)
     
