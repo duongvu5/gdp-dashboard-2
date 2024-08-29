@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+97220da2,Armando Broja,18,ALB,FW,20-123,77,1,0,0,0,1,1,0,0,19,0,0,2,0.6,0.6,0.0,1,0,3,9,33.3,1,10,4,2,1,Southampton,2022-01-11 Southampton-Brentford,ENG-EPL,21-22,0859817d
+68c720b5,Adam Armstrong,9,ENG,FW,24-335,13,0,0,0,0,1,1,0,0,12,0,1,0,0.0,0.0,0.0,0,0,7,8,87.5,0,11,0,0,0,Southampton,2022-01-11 Southampton-Brentford,ENG-EPL,21-22,0859817d
+ab651565,Nathan Redmond,11,ENG,FW,27-311,64,0,0,0,0,0,0,0,0,34,0,0,0,0.0,0.0,0.0,3,0,21,29,72.4,4,22,0,1,0,Southampton,2022-01-11 Southampton-Brentford,ENG-EPL,21-22,0859817d
+f2bf1b0f,Che Adams,10,SCO,FW,25-182,26,1,0,0,0,1,1,0,0,9,0,0,1,0.2,0.2,0.0,0,0,3,5,60.0,0,4,1,0,0,Southampton,2022-01-11 Southampton-Brentford,ENG-EPL,21-22,0859817d
+11ff3d56,Ibrahima Diallo,27,FRA,CM,22-309,90,0,1,0,0,2,1,0,0,62,3,1,2,0.0,0.0,0.3,4,1,42,48,87.5,7,42,6,2,2,Southampton,2022-01-11 Southampton-Brentford,ENG-EPL,21-22,0859817d
+4b511457,Oriol Romeu,6,ESP,CM,30-109,90,0,1,0,0,2,0,0,0,74,3,1,0,0.2,0.2,0.7,5,2,51,64,79.7,3,40,3,2,0,Southampton,2022-01-11 Southampton-Brentford,ENG-EPL,21-22,0859817d
+3515d404,James Ward-Prowse,8,ENG,"CM,WB",27-071,90,0,1,0,0,1,0,0,0,76,3,5,4,0.0,0.0,0.2,3,1,49,63,77.8,3,40,1,2,1,Southampton,2022-01-11 Southampton-Brentford,ENG-EPL,21-22,0859817d
+6dfd8f05,Romain Perraud,15,FRA,WB,24-111,90,0,0,0,0,2,1,0,0,40,0,1,2,0.1,0.1,0.0,0,0,19,30,63.3,2,17,1,0,0,Southampton,2022-01-11 Southampton-Brentford,ENG-EPL,21-22,0859817d
+f1e94cd6,Nathan Tella,23,NGA,WB,22-190,69,0,0,0,0,1,0,0,0,28,1,0,0,0.0,0.0,0.0,0,0,12,22,54.5,3,19,2,3,3,Southampton,2022-01-11 Southampton-Brentford,ENG-EPL,21-22,0859817d
+97333cf5,Stuart Armstrong,17,SCO,"WB,CM",29-287,21,0,0,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.0,0,0,8,10,80.0,0,7,0,1,1,Southampton,2022-01-11 Southampton-Brentford,ENG-EPL,21-22,0859817d
+0b33f6ad,Mohammed Salisu,22,GHA,CB,22-269,90,0,0,0,0,0,0,0,0,65,5,2,1,0.0,0.0,0.0,3,1,39,52,75.0,4,29,0,0,0,Southampton,2022-01-11 Southampton-Brentford,ENG-EPL,21-22,0859817d
+b5bf1770,Lyanco,4,BRA,CB,24-344,90,0,0,0,0,0,0,0,0,43,1,1,1,0.0,0.0,0.0,0,0,19,32,59.4,1,22,0,0,0,Southampton,2022-01-11 Southampton-Brentford,ENG-EPL,21-22,0859817d
+4115ce4e,Jan Bednarek,35,POL,CB,25-274,90,1,0,0,0,1,1,0,0,55,0,4,1,0.2,0.2,0.0,1,0,33,44,75.0,0,22,0,0,0,Southampton,2022-01-11 Southampton-Brentford,ENG-EPL,21-22,0859817d
+c3e39f12,Fraser Forster,44,ENG,GK,33-300,90,0,0,0,0,0,0,0,0,31,0,0,0,0.0,0.0,0.0,0,0,10,27,37.0,0,11,0,0,0,Southampton,2022-01-11 Southampton-Brentford,ENG-EPL,21-22,0859817d
+e09f279b,Ivan Toney,17,ENG,FW,25-301,90,0,0,0,0,2,1,1,0,44,0,0,2,0.2,0.2,0.0,1,0,10,22,45.5,5,23,0,3,1,Brentford,2022-01-11 Southampton-Brentford,ENG-EPL,21-22,0859817d
+6afaebf2,Bryan Mbeumo,19,CMR,FW,22-157,90,0,1,0,0,1,1,0,0,26,1,0,1,0.2,0.2,0.1,1,1,9,17,52.9,3,22,2,1,1,Brentford,2022-01-11 Southampton-Brentford,ENG-EPL,21-22,0859817d
+2886c9b5,Shandon Baptiste,26,GRN,CM,23-278,55,0,0,0,0,0,0,0,0,26,1,2,0,0.0,0.0,0.0,1,0,13,18,72.2,2,17,1,2,1,Brentford,2022-01-11 Southampton-Brentford,ENG-EPL,21-22,0859817d
+2500cef9,Yoane Wissa,11,COD,CM,25-130,35,0,0,0,0,0,0,0,0,12,0,1,0,0.0,0.0,0.0,0,0,4,7,57.1,0,4,1,2,0,Brentford,2022-01-11 Southampton-Brentford,ENG-EPL,21-22,0859817d
+df0a4c90,Christian Nørgaard,6,DEN,CM,27-307,90,0,0,0,0,0,0,0,0,80,1,0,3,0.0,0.0,0.0,0,0,54,70,77.1,6,41,1,1,1,Brentford,2022-01-11 Southampton-Brentford,ENG-EPL,21-22,0859817d
+8449d35e,Vitaly Janelt,27,GER,"CM,CB",23-246,90,1,0,0,0,2,2,0,0,61,3,0,0,0.1,0.1,0.0,1,0,38,50,76.0,6,37,1,2,2,Brentford,2022-01-11 Southampton-Brentford,ENG-EPL,21-22,0859817d
+1137759d,Sergi Canós,7,ESP,WB,24-343,75,0,0,0,0,0,0,0,0,26,2,1,0,0.0,0.0,0.0,0,0,12,21,57.1,0,20,1,0,0,Brentford,2022-01-11 Southampton-Brentford,ENG-EPL,21-22,0859817d
+7e003182,Finley Stevens,36,WAL,WB,18-276,15,0,0,0,0,0,0,0,0,9,3,0,0,0.0,0.0,0.1,1,0,5,7,71.4,2,5,0,0,0,Brentford,2022-01-11 Southampton-Brentford,ENG-EPL,21-22,0859817d
+57c94db2,Mads Roerslev,30,DEN,WB,22-201,90,0,0,0,0,0,0,0,0,43,0,2,0,0.0,0.0,0.0,1,1,22,31,71.0,1,24,0,2,1,Brentford,2022-01-11 Southampton-Brentford,ENG-EPL,21-22,0859817d
+e541326e,Ethan Pinnock,5,JAM,CB,28-227,67,0,0,0,0,0,0,0,0,66,0,1,3,0.0,0.0,0.0,0,0,41,54,75.9,3,32,2,2,1,Brentford,2022-01-11 Southampton-Brentford,ENG-EPL,21-22,0859817d
+0f134faf,Mathias Jensen,8,DEN,"CM,CB",26-010,23,0,0,0,0,0,0,0,0,17,1,0,0,0.0,0.0,0.2,1,0,10,17,58.8,3,8,0,1,1,Brentford,2022-01-11 Southampton-Brentford,ENG-EPL,21-22,0859817d
+172e52d8,Pontus Jansson,18,SWE,CB,30-332,90,0,0,0,0,0,0,0,0,59,1,0,1,0.0,0.0,0.0,0,0,48,54,88.9,1,36,0,0,0,Brentford,2022-01-11 Southampton-Brentford,ENG-EPL,21-22,0859817d
+a8c0acb7,Kristoffer Ajer,20,NOR,CB,23-269,90,0,0,0,0,0,0,0,0,69,2,0,0,0.0,0.0,0.0,1,0,45,61,73.8,3,34,0,1,1,Brentford,2022-01-11 Southampton-Brentford,ENG-EPL,21-22,0859817d
+f127d782,Álvaro Fernández,40,ESP,GK,23-273,90,0,0,0,0,0,0,0,0,48,0,0,0,0.0,0.0,0.0,0,0,34,46,73.9,0,31,0,0,0,Brentford,2022-01-11 Southampton-Brentford,ENG-EPL,21-22,0859817d

@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+5eae500a,Romelu Lukaku,9,BEL,FW,28-255,90,0,0,0,0,3,1,0,0,26,0,0,0,0.5,0.5,0.0,2,0,13,20,65.0,0,16,3,0,0,Chelsea,2022-01-23 Chelsea-Tottenham,ENG-EPL,21-22,29e164e3
+15f3ec41,Callum Hudson-Odoi,20,ENG,LW,21-077,86,0,1,0,0,1,0,0,0,52,1,0,0,0.2,0.2,0.1,6,3,37,42,88.1,2,47,5,5,3,Chelsea,2022-01-23 Chelsea-Tottenham,ENG-EPL,21-22,29e164e3
+f4290206,Marcos Alonso,3,ESP,WB,31-026,4,0,0,0,0,0,0,0,0,9,0,1,0,0.0,0.0,0.0,0,0,6,6,100.0,0,5,0,2,0,Chelsea,2022-01-23 Chelsea-Tottenham,ENG-EPL,21-22,29e164e3
+6622454d,Hakim Ziyech,22,MAR,"RW,AM",28-310,89,1,0,0,0,5,4,0,0,86,4,1,1,0.1,0.1,0.3,5,0,46,73,63.0,12,67,5,3,2,Chelsea,2022-01-23 Chelsea-Tottenham,ENG-EPL,21-22,29e164e3
+c14bc029,Saúl Ñíguez,17,ESP,DM,27-063,1,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,0,0,Chelsea,2022-01-23 Chelsea-Tottenham,ENG-EPL,21-22,29e164e3
+79c0821a,Mateo Kovačić,8,CRO,"LM,DM,CM",27-262,90,0,0,0,0,0,0,0,0,62,2,1,1,0.0,0.0,0.2,5,0,45,55,81.8,8,44,2,1,1,Chelsea,2022-01-23 Chelsea-Tottenham,ENG-EPL,21-22,29e164e3
+45db685d,Jorginho,5,ITA,CM,30-034,72,0,0,0,0,0,0,1,0,56,3,4,0,0.0,0.0,0.0,2,0,44,51,86.3,8,44,0,0,0,Chelsea,2022-01-23 Chelsea-Tottenham,ENG-EPL,21-22,29e164e3
+b9fbae28,N'Golo Kanté,7,FRA,"CM,DM",30-300,18,0,0,0,0,0,0,0,0,25,1,0,0,0.0,0.0,0.0,0,0,15,21,71.4,0,15,1,1,0,Chelsea,2022-01-23 Chelsea-Tottenham,ENG-EPL,21-22,29e164e3
+9674002f,Mason Mount,19,ENG,"RM,FW,AM",23-013,90,0,1,0,0,3,1,0,0,52,1,0,1,0.1,0.1,0.5,6,1,33,40,82.5,5,36,5,1,0,Chelsea,2022-01-23 Chelsea-Tottenham,ENG-EPL,21-22,29e164e3
+4315f30d,Malang Sarr,31,FRA,"LB,CB",23-000,90,0,0,0,0,0,0,0,0,77,0,0,1,0.0,0.0,0.0,1,0,70,75,93.3,7,66,0,0,0,Chelsea,2022-01-23 Chelsea-Tottenham,ENG-EPL,21-22,29e164e3
+86e7deaf,Thiago Silva,6,BRA,CB,37-123,90,1,0,0,0,3,1,1,0,80,0,1,0,0.2,0.2,0.0,0,0,73,76,96.1,2,66,0,0,0,Chelsea,2022-01-23 Chelsea-Tottenham,ENG-EPL,21-22,29e164e3
+18b896d6,Antonio Rüdiger,2,GER,CB,28-326,90,0,0,0,0,0,0,0,0,85,0,2,0,0.0,0.0,0.0,0,0,72,78,92.3,2,63,0,0,0,Chelsea,2022-01-23 Chelsea-Tottenham,ENG-EPL,21-22,29e164e3
+53cad200,César Azpilicueta,28,ESP,"RB,WB",32-148,90,0,0,0,0,0,0,0,0,96,3,0,2,0.0,0.0,0.1,2,0,77,91,84.6,12,61,2,0,0,Chelsea,2022-01-23 Chelsea-Tottenham,ENG-EPL,21-22,29e164e3
+28d596a0,Kepa Arrizabalaga,1,ESP,GK,27-112,90,0,0,0,0,0,0,0,0,30,0,0,0,0.0,0.0,0.0,0,0,25,29,86.2,0,25,0,0,0,Chelsea,2022-01-23 Chelsea-Tottenham,ENG-EPL,21-22,29e164e3
+a29b1131,Steven Bergwijn,23,NED,"FW,LW,AM",24-107,90,0,0,0,0,2,1,0,0,26,0,0,0,0.3,0.3,0.0,1,0,10,13,76.9,2,18,3,4,3,Tottenham Hotspur,2022-01-23 Chelsea-Tottenham,ENG-EPL,21-22,29e164e3
+21a66f6a,Harry Kane,10,ENG,FW,28-179,90,0,0,0,0,1,1,0,0,32,0,0,1,0.0,0.0,0.2,3,0,13,20,65.0,1,22,2,2,1,Tottenham Hotspur,2022-01-23 Chelsea-Tottenham,ENG-EPL,21-22,29e164e3
+6aa3e78b,Ryan Sessegnon,19,ENG,LM,21-250,55,0,0,0,0,1,0,0,0,18,1,1,2,0.1,0.1,0.0,0,0,4,8,50.0,0,8,1,1,0,Tottenham Hotspur,2022-01-23 Chelsea-Tottenham,ENG-EPL,21-22,29e164e3
+2b622f01,Lucas Moura,27,BRA,"RW,LW",29-163,35,0,0,0,0,0,0,0,0,22,1,0,0,0.0,0.0,0.0,0,0,16,20,80.0,4,14,1,0,0,Tottenham Hotspur,2022-01-23 Chelsea-Tottenham,ENG-EPL,21-22,29e164e3
+8b04d6c1,Pierre Højbjerg,5,DEN,"CM,LM,DM",26-171,90,0,0,0,0,0,0,0,0,52,3,3,2,0.0,0.0,0.1,2,0,32,41,78.0,6,19,1,0,0,Tottenham Hotspur,2022-01-23 Chelsea-Tottenham,ENG-EPL,21-22,29e164e3
+2f7acede,Harry Winks,8,ENG,CM,25-355,88,0,0,0,0,1,1,0,0,49,0,4,0,0.1,0.1,0.0,2,0,33,41,80.5,2,28,1,3,2,Tottenham Hotspur,2022-01-23 Chelsea-Tottenham,ENG-EPL,21-22,29e164e3
+7b5ab7f2,Bryan Gil,11,ESP,RW,20-346,2,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,1,0,0,0,Tottenham Hotspur,2022-01-23 Chelsea-Tottenham,ENG-EPL,21-22,29e164e3
+d557d734,Matt Doherty,2,IRL,"RM,RB",30-007,90,0,0,0,0,1,0,0,0,34,4,0,1,0.0,0.0,0.0,0,0,18,24,75.0,0,18,1,1,0,Tottenham Hotspur,2022-01-23 Chelsea-Tottenham,ENG-EPL,21-22,29e164e3
+44781702,Ben Davies,33,WAL,LB,28-274,90,0,0,0,0,0,0,0,0,52,1,1,4,0.0,0.0,0.0,1,0,24,42,57.1,2,16,0,0,0,Tottenham Hotspur,2022-01-23 Chelsea-Tottenham,ENG-EPL,21-22,29e164e3
+da7b447d,Davinson Sánchez,6,COL,CB,25-225,90,0,0,0,0,0,0,0,0,59,2,3,1,0.0,0.0,0.0,0,0,40,46,87.0,0,28,0,1,1,Tottenham Hotspur,2022-01-23 Chelsea-Tottenham,ENG-EPL,21-22,29e164e3
+ac861941,Eric Dier,15,ENG,CB,28-008,90,0,0,0,0,0,0,0,0,57,0,0,2,0.0,0.0,0.0,0,0,44,53,83.0,4,31,0,1,1,Tottenham Hotspur,2022-01-23 Chelsea-Tottenham,ENG-EPL,21-22,29e164e3
+e9971f2d,Japhet Tanganga,25,ENG,RB,22-298,55,0,0,0,0,0,0,1,0,21,1,0,1,0.0,0.0,0.0,0,0,11,14,78.6,0,1,0,0,0,Tottenham Hotspur,2022-01-23 Chelsea-Tottenham,ENG-EPL,21-22,29e164e3
+6250083a,Oliver Skipp,29,ENG,"RM,DM",21-129,35,0,0,0,0,0,0,0,0,28,1,0,2,0.0,0.0,0.2,3,0,21,24,87.5,6,13,3,0,0,Tottenham Hotspur,2022-01-23 Chelsea-Tottenham,ENG-EPL,21-22,29e164e3
+8f62b6ee,Hugo Lloris,1,FRA,GK,35-028,90,0,0,0,0,0,0,0,0,30,0,0,0,0.0,0.0,0.0,0,0,22,26,84.6,0,10,0,0,0,Tottenham Hotspur,2022-01-23 Chelsea-Tottenham,ENG-EPL,21-22,29e164e3

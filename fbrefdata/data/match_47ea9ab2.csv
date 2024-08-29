@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+9dbb75ca,Alexandre Lacazette,9,FRA,FW,30-289,87,1,0,1,1,3,1,0,0,28,0,0,0,1.1,0.3,0.0,3,0,17,19,89.5,0,8,0,0,0,Arsenal,2022-03-13 Arsenal-Leicester City,ENG-EPL,21-22,47ea9ab2
+a53649b7,Eddie Nketiah,30,ENG,FW,22-287,3,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,1,1,0,1,0,Arsenal,2022-03-13 Arsenal-Leicester City,ENG-EPL,21-22,47ea9ab2
+48a5a5d6,Gabriel Martinelli,35,BRA,LW,20-268,77,0,1,0,0,2,1,0,0,27,0,1,1,0.1,0.1,0.4,4,1,13,16,81.3,1,20,6,3,2,Arsenal,2022-03-13 Arsenal-Leicester City,ENG-EPL,21-22,47ea9ab2
+17695062,Emile Smith Rowe,10,ENG,LW,21-228,13,0,0,0,0,1,1,0,0,7,0,0,1,0.1,0.1,0.0,1,0,4,4,100.0,0,3,0,0,0,Arsenal,2022-03-13 Arsenal-Leicester City,ENG-EPL,21-22,47ea9ab2
+bc7dc64d,Bukayo Saka,7,ENG,RW,20-189,84,0,0,0,0,5,1,0,0,52,4,2,1,0.3,0.3,0.1,4,0,20,27,74.1,2,34,4,6,0,Arsenal,2022-03-13 Arsenal-Leicester City,ENG-EPL,21-22,47ea9ab2
+57e3f0c7,Nicolas Pépé,19,CIV,RW,26-288,6,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,0,0,Arsenal,2022-03-13 Arsenal-Leicester City,ENG-EPL,21-22,47ea9ab2
+79300479,Martin Ødegaard,8,NOR,AM,23-086,90,0,0,0,0,0,0,0,0,63,3,1,0,0.0,0.0,0.3,8,0,45,58,77.6,11,45,2,2,1,Arsenal,2022-03-13 Arsenal-Leicester City,ENG-EPL,21-22,47ea9ab2
+e61b8aee,Granit Xhaka,34,SUI,DM,29-167,90,0,0,0,0,3,0,0,0,55,1,0,0,0.1,0.1,0.4,7,1,44,49,89.8,6,28,3,1,1,Arsenal,2022-03-13 Arsenal-Leicester City,ENG-EPL,21-22,47ea9ab2
+529f49ab,Thomas Partey,5,GHA,DM,28-273,90,1,0,0,0,3,1,0,0,58,4,2,2,1.0,1.0,0.0,4,1,38,46,82.6,2,22,0,0,0,Arsenal,2022-03-13 Arsenal-Leicester City,ENG-EPL,21-22,47ea9ab2
+fce2302c,Kieran Tierney,3,SCO,LB,24-281,90,0,0,0,0,0,0,0,0,57,0,1,1,0.0,0.0,0.2,3,0,42,51,82.4,5,36,7,3,2,Arsenal,2022-03-13 Arsenal-Leicester City,ENG-EPL,21-22,47ea9ab2
+67ac5bb8,Gabriel Magalhães,6,BRA,CB,24-084,90,0,0,0,0,0,0,0,0,70,1,1,1,0.0,0.0,0.0,0,0,60,63,95.2,4,47,0,0,0,Arsenal,2022-03-13 Arsenal-Leicester City,ENG-EPL,21-22,47ea9ab2
+35e413f1,Ben White,4,ENG,CB,24-156,90,0,0,0,0,2,1,0,0,90,2,3,0,0.3,0.3,0.0,2,0,70,78,89.7,4,51,2,0,0,Arsenal,2022-03-13 Arsenal-Leicester City,ENG-EPL,21-22,47ea9ab2
+839c14e1,Cédric Soares,17,POR,RB,30-194,90,0,0,0,0,1,0,0,0,68,0,0,2,0.1,0.1,0.0,1,0,51,61,83.6,3,35,0,1,0,Arsenal,2022-03-13 Arsenal-Leicester City,ENG-EPL,21-22,47ea9ab2
+466fb2c5,Aaron Ramsdale,32,ENG,GK,23-303,90,0,0,0,0,0,0,0,0,41,0,0,0,0.0,0.0,0.0,0,0,28,38,73.7,0,30,0,0,0,Arsenal,2022-03-13 Arsenal-Leicester City,ENG-EPL,21-22,47ea9ab2
+c92e1a31,Kelechi Iheanacho,14,NGA,FW,25-161,73,0,0,0,0,1,1,1,0,29,0,0,1,0.0,0.0,0.0,1,0,16,20,80.0,0,17,1,1,0,Leicester City,2022-03-13 Arsenal-Leicester City,ENG-EPL,21-22,47ea9ab2
+ca45605e,Patson Daka,29,ZAM,FW,23-155,17,0,0,0,0,0,0,1,0,3,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,4,0,0,0,Leicester City,2022-03-13 Arsenal-Leicester City,ENG-EPL,21-22,47ea9ab2
+3ea50f67,Harvey Barnes,7,ENG,LW,24-094,90,0,0,0,0,2,2,0,0,41,0,0,0,0.2,0.2,0.0,0,0,23,32,71.9,5,32,4,2,0,Leicester City,2022-03-13 Arsenal-Leicester City,ENG-EPL,21-22,47ea9ab2
+b827d5b3,Marc Albrighton,11,ENG,RW,32-115,90,0,0,0,0,1,0,0,0,54,1,0,0,0.1,0.1,0.1,3,0,36,49,73.5,3,34,2,0,0,Leicester City,2022-03-13 Arsenal-Leicester City,ENG-EPL,21-22,47ea9ab2
+ee38d9c5,James Maddison,10,ENG,AM,25-110,90,0,0,0,0,0,0,0,0,63,2,1,0,0.0,0.0,0.1,2,0,48,54,88.9,8,46,1,1,0,Leicester City,2022-03-13 Arsenal-Leicester City,ENG-EPL,21-22,47ea9ab2
+5c74c0f5,Kiernan Dewsbury-Hall,22,ENG,DM,23-188,90,0,0,0,0,1,0,0,0,69,2,2,2,0.0,0.0,0.1,3,0,43,56,76.8,3,41,2,0,0,Leicester City,2022-03-13 Arsenal-Leicester City,ENG-EPL,21-22,47ea9ab2
+1598599e,Nampalys Mendy,24,SEN,DM,29-263,60,0,0,0,0,0,0,0,0,35,2,1,2,0.0,0.0,0.0,0,0,29,30,96.7,0,27,0,0,0,Leicester City,2022-03-13 Arsenal-Leicester City,ENG-EPL,21-22,47ea9ab2
+6b47c5db,Wilfred Ndidi,25,NGA,DM,25-087,30,0,0,0,0,0,0,0,0,37,5,1,2,0.0,0.0,0.0,1,0,23,26,88.5,2,23,0,0,0,Leicester City,2022-03-13 Arsenal-Leicester City,ENG-EPL,21-22,47ea9ab2
+fc027d02,Luke Thomas,33,ENG,LB,20-276,90,0,0,0,0,0,0,0,0,96,5,2,2,0.0,0.0,0.0,0,0,66,84,78.6,6,60,1,0,0,Leicester City,2022-03-13 Arsenal-Leicester City,ENG-EPL,21-22,47ea9ab2
+21166ff4,Çağlar Söyüncü,4,TUR,CB,25-294,90,0,0,0,0,1,0,1,0,92,0,1,3,0.0,0.0,0.0,0,0,79,87,90.8,1,79,0,0,0,Leicester City,2022-03-13 Arsenal-Leicester City,ENG-EPL,21-22,47ea9ab2
+1a4ef233,Daniel Amartey,18,GHA,CB,27-082,90,0,0,0,0,0,0,0,0,71,0,1,2,0.0,0.0,0.0,1,0,67,68,98.5,0,55,1,0,0,Leicester City,2022-03-13 Arsenal-Leicester City,ENG-EPL,21-22,47ea9ab2
+75a72a99,Ricardo Pereira,21,POR,RB,28-158,60,0,0,0,0,0,0,0,0,51,0,1,0,0.0,0.0,0.0,0,0,41,45,91.1,2,34,0,0,0,Leicester City,2022-03-13 Arsenal-Leicester City,ENG-EPL,21-22,47ea9ab2
+fb614c44,James Justin,2,ENG,RB,24-018,30,0,0,0,0,0,0,0,0,22,0,0,0,0.0,0.0,0.0,0,0,21,21,100.0,4,18,0,0,0,Leicester City,2022-03-13 Arsenal-Leicester City,ENG-EPL,21-22,47ea9ab2
+53af52f3,Kasper Schmeichel,1,DEN,GK,35-128,90,0,0,0,0,0,0,0,0,38,0,0,0,0.0,0.0,0.0,0,0,27,33,81.8,0,20,0,0,0,Leicester City,2022-03-13 Arsenal-Leicester City,ENG-EPL,21-22,47ea9ab2

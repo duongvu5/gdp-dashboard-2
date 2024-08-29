@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+dea698d9,Cristiano Ronaldo,7,POR,FW,36-328,89,1,1,0,0,7,1,0,0,45,1,0,1,1.9,1.9,0.1,2,1,22,34,64.7,3,19,5,0,0,Manchester United,2021-12-30 Manchester Utd-Burnley,ENG-EPL,21-22,bbfa96c9
+b853e0ad,Fred,17,BRA,FW,28-300,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Manchester United,2021-12-30 Manchester Utd-Burnley,ENG-EPL,21-22,bbfa96c9
+527f063d,Edinson Cavani,21,URU,FW,34-319,90,0,0,0,0,1,0,0,0,25,0,0,0,0.1,0.1,0.1,1,0,17,21,81.0,3,11,0,1,1,Manchester United,2021-12-30 Manchester Utd-Burnley,ENG-EPL,21-22,bbfa96c9
+dbf053da,Jadon Sancho,25,ENG,AM,21-280,90,0,0,0,0,1,0,0,0,61,2,0,1,0.1,0.1,0.0,4,0,46,51,90.2,6,38,7,3,0,Manchester United,2021-12-30 Manchester Utd-Burnley,ENG-EPL,21-22,bbfa96c9
+58eee997,Mason Greenwood,11,ENG,AM,20-090,80,0,0,0,0,4,2,0,0,52,1,0,0,0.2,0.2,0.2,6,1,31,43,72.1,2,36,4,2,2,Manchester United,2021-12-30 Manchester Utd-Burnley,ENG-EPL,21-22,bbfa96c9
+d9565625,Diogo Dalot,20,POR,AM,22-287,10,0,0,0,0,0,0,0,0,14,0,0,0,0.0,0.0,0.0,1,0,7,14,50.0,1,9,3,0,0,Manchester United,2021-12-30 Manchester Utd-Burnley,ENG-EPL,21-22,bbfa96c9
+eb7822d7,Nemanja Matić,31,SRB,DM,33-151,90,0,0,0,0,0,0,0,0,62,0,0,0,0.0,0.0,0.0,2,0,51,57,89.5,6,40,0,0,0,Manchester United,2021-12-30 Manchester Utd-Burnley,ENG-EPL,21-22,bbfa96c9
+d93c2511,Scott McTominay,39,SCO,DM,25-022,90,1,0,0,0,3,3,0,0,69,0,1,0,0.1,0.1,0.2,5,1,43,57,75.4,8,46,0,1,1,Manchester United,2021-12-30 Manchester Utd-Burnley,ENG-EPL,21-22,bbfa96c9
+9c94165b,Luke Shaw,23,ENG,LB,26-171,90,0,0,0,0,2,0,0,0,83,2,1,1,0.1,0.1,0.7,7,0,56,75,74.7,6,44,4,0,0,Manchester United,2021-12-30 Manchester Utd-Burnley,ENG-EPL,21-22,bbfa96c9
+d8931174,Harry Maguire,5,ENG,CB,28-300,90,0,0,0,0,0,0,0,0,52,0,1,0,0.0,0.0,0.0,2,0,35,46,76.1,3,25,0,0,0,Manchester United,2021-12-30 Manchester Utd-Burnley,ENG-EPL,21-22,bbfa96c9
+a1232f4e,Eric Bailly,3,CIV,CB,27-262,65,0,0,0,0,0,0,0,0,42,2,2,2,0.0,0.0,0.0,1,0,27,34,79.4,2,20,0,0,0,Manchester United,2021-12-30 Manchester Utd-Burnley,ENG-EPL,21-22,bbfa96c9
+9f8e9423,Raphaël Varane,19,FRA,CB,28-249,25,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,0,0,7,9,77.8,0,2,0,0,0,Manchester United,2021-12-30 Manchester Utd-Burnley,ENG-EPL,21-22,bbfa96c9
+9e525177,Aaron Wan-Bissaka,29,ENG,RB,24-034,90,0,0,0,0,0,0,0,0,79,0,0,2,0.0,0.0,0.0,3,0,52,65,80.0,3,37,0,2,2,Manchester United,2021-12-30 Manchester Utd-Burnley,ENG-EPL,21-22,bbfa96c9
+7ba6d84e,David de Gea,1,ESP,GK,31-053,90,0,0,0,0,0,0,0,0,29,0,0,0,0.0,0.0,0.0,0,0,10,29,34.5,0,15,0,0,0,Manchester United,2021-12-30 Manchester Utd-Burnley,ENG-EPL,21-22,bbfa96c9
+4e9a0555,Chris Wood,9,NZL,FW,30-023,90,0,0,0,0,3,1,0,0,21,1,0,0,0.3,0.3,0.2,1,0,12,17,70.6,0,9,1,0,0,Burnley,2021-12-30 Manchester Utd-Burnley,ENG-EPL,21-22,bbfa96c9
+2ff964a0,Aaron Lennon,17,ENG,FW,34-258,73,1,0,0,0,2,1,0,0,27,6,0,3,0.2,0.2,0.0,2,1,11,14,78.6,2,16,3,2,1,Burnley,2021-12-30 Manchester Utd-Burnley,ENG-EPL,21-22,bbfa96c9
+0d4ceb32,Matěj Vydra,27,CZE,FW,29-243,17,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,3,4,75.0,0,3,0,0,0,Burnley,2021-12-30 Manchester Utd-Burnley,ENG-EPL,21-22,bbfa96c9
+f72293fc,Jóhann Berg Guðmundsson,7,ISL,LM,31-064,90,0,0,0,0,1,0,0,0,40,1,2,0,0.2,0.2,0.0,1,0,10,25,40.0,1,23,3,0,0,Burnley,2021-12-30 Manchester Utd-Burnley,ENG-EPL,21-22,bbfa96c9
+74e12f1e,Jack Cork,4,ENG,CM,32-188,57,0,0,0,0,0,0,0,0,22,0,1,1,0.0,0.0,0.0,0,0,13,16,81.3,1,10,1,0,0,Burnley,2021-12-30 Manchester Utd-Burnley,ENG-EPL,21-22,bbfa96c9
+653ee42d,Dale Stephens,16,ENG,CM,32-201,33,0,0,0,0,0,0,0,0,20,1,0,2,0.0,0.0,0.0,0,0,12,15,80.0,1,8,0,0,0,Burnley,2021-12-30 Manchester Utd-Burnley,ENG-EPL,21-22,bbfa96c9
+495945ef,Ashley Westwood,18,ENG,CM,31-273,90,0,0,0,0,0,0,0,0,66,0,0,0,0.0,0.0,0.4,2,0,54,61,88.5,8,46,1,0,0,Burnley,2021-12-30 Manchester Utd-Burnley,ENG-EPL,21-22,bbfa96c9
+fc15fb84,Dwight McNeil,11,ENG,RM,22-038,83,0,0,0,0,1,0,0,0,47,2,2,2,0.0,0.0,0.0,2,0,26,33,78.8,4,33,3,1,0,Burnley,2021-12-30 Manchester Utd-Burnley,ENG-EPL,21-22,bbfa96c9
+1ef37668,Erik Pieters,23,NED,RM,33-145,7,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,5,0,0,0,Burnley,2021-12-30 Manchester Utd-Burnley,ENG-EPL,21-22,bbfa96c9
+cc2d7ad5,Charlie Taylor,3,ENG,LB,28-103,90,0,0,0,0,0,0,0,0,51,0,0,1,0.0,0.0,0.0,1,1,29,43,67.4,2,24,1,0,0,Burnley,2021-12-30 Manchester Utd-Burnley,ENG-EPL,21-22,bbfa96c9
+8df7a2fb,Ben Mee,6,ENG,CB,32-100,90,0,0,0,0,1,0,0,0,61,0,0,2,0.2,0.2,0.0,0,0,38,46,82.6,1,33,1,0,0,Burnley,2021-12-30 Manchester Utd-Burnley,ENG-EPL,21-22,bbfa96c9
+15ea812b,James Tarkowski,5,ENG,CB,29-041,90,0,0,0,0,2,1,0,0,57,1,1,3,0.3,0.3,0.0,0,0,30,40,75.0,4,29,0,0,0,Burnley,2021-12-30 Manchester Utd-Burnley,ENG-EPL,21-22,bbfa96c9
+9a9c05db,Matthew Lowton,2,ENG,RB,32-204,90,0,0,0,0,0,0,0,0,58,2,2,0,0.0,0.0,0.2,4,0,37,48,77.1,3,39,1,2,0,Burnley,2021-12-30 Manchester Utd-Burnley,ENG-EPL,21-22,bbfa96c9
+76eca7e2,Wayne Hennessey,13,WAL,GK,34-340,90,0,0,0,0,0,0,0,0,36,0,0,0,0.0,0.0,0.2,3,0,18,33,54.5,0,16,0,0,0,Burnley,2021-12-30 Manchester Utd-Burnley,ENG-EPL,21-22,bbfa96c9
