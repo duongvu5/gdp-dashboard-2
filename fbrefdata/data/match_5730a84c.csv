@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+ed1e53f3,Phil Foden,47,ENG,FW,21-200,90,1,1,0,0,6,1,0,0,72,0,1,0,0.4,0.4,0.3,9,2,54,63,85.7,8,61,4,4,3,Manchester City,2021-12-14 Manchester City-Leeds United,ENG-EPL,21-22,5730a84c
+b0b4fd3e,Jack Grealish,10,ENG,LW,26-095,90,1,0,0,0,3,2,0,0,58,0,1,0,0.3,0.3,0.0,8,2,41,43,95.3,2,41,6,6,4,Manchester City,2021-12-14 Manchester City-Leeds United,ENG-EPL,21-22,5730a84c
+892d5bb1,Riyad Mahrez,26,ALG,RW,30-296,90,1,1,0,0,5,3,0,0,60,0,2,3,0.4,0.4,0.9,5,1,36,46,78.3,4,48,6,8,5,Manchester City,2021-12-14 Manchester City-Leeds United,ENG-EPL,21-22,5730a84c
+e46012d4,Kevin De Bruyne,17,BEL,AM,30-169,90,2,0,0,0,9,4,0,0,73,2,1,0,0.7,0.7,0.5,9,0,46,60,76.7,9,49,2,2,2,Manchester City,2021-12-14 Manchester City-Leeds United,ENG-EPL,21-22,5730a84c
+3eb22ec9,Bernardo Silva,20,POR,DM,27-126,45,0,0,0,0,1,0,0,0,39,2,0,0,0.3,0.3,0.0,4,1,33,35,94.3,2,30,0,2,1,Manchester City,2021-12-14 Manchester City-Leeds United,ENG-EPL,21-22,5730a84c
+819b3158,İlkay Gündoğan,8,GER,DM,31-051,45,0,2,0,0,2,1,0,0,36,0,0,0,0.5,0.5,0.1,3,2,29,32,90.6,2,28,1,1,0,Manchester City,2021-12-14 Manchester City-Leeds United,ENG-EPL,21-22,5730a84c
+6434f10d,Rodri,16,ESP,DM,25-175,55,0,1,0,0,0,0,0,0,41,1,0,1,0.0,0.0,0.4,4,1,32,32,100.0,7,30,4,2,0,Manchester City,2021-12-14 Manchester City-Leeds United,ENG-EPL,21-22,5730a84c
+101da2b5,Fernandinho,25,BRA,DM,36-224,35,0,0,0,0,0,0,0,0,21,0,1,2,0.0,0.0,0.1,3,0,13,17,76.5,3,13,1,0,0,Manchester City,2021-12-14 Manchester City-Leeds United,ENG-EPL,21-22,5730a84c
+51cf8561,Oleksandr Zinchenko,11,UKR,LB,24-364,90,0,0,0,0,0,0,0,0,64,4,1,3,0.0,0.0,0.0,2,0,38,47,80.9,3,32,3,3,2,Manchester City,2021-12-14 Manchester City-Leeds United,ENG-EPL,21-22,5730a84c
+119b9a8e,Aymeric Laporte,14,ESP,CB,27-201,90,0,0,0,0,2,1,0,0,107,2,0,2,0.1,0.1,0.0,2,0,93,98,94.9,7,82,4,1,0,Manchester City,2021-12-14 Manchester City-Leeds United,ENG-EPL,21-22,5730a84c
+31c69ef1,Rúben Dias,3,POR,CB,24-214,64,0,0,0,0,0,0,1,0,67,0,0,1,0.0,0.0,0.0,0,0,62,64,96.9,7,51,2,0,0,Manchester City,2021-12-14 Manchester City-Leeds United,ENG-EPL,21-22,5730a84c
+eaeca114,Nathan Aké,6,NED,CB,26-299,26,1,0,0,0,1,1,0,0,39,0,0,1,0.1,0.1,0.0,0,0,34,34,100.0,3,34,1,1,0,Manchester City,2021-12-14 Manchester City-Leeds United,ENG-EPL,21-22,5730a84c
+5eecec3d,John Stones,5,ENG,RB,27-200,90,1,0,0,0,2,2,0,0,36,1,2,0,0.3,0.3,0.0,2,1,24,27,88.9,2,16,1,1,0,Manchester City,2021-12-14 Manchester City-Leeds United,ENG-EPL,21-22,5730a84c
+3bb7b8b4,Ederson,31,BRA,GK,28-119,90,0,0,0,0,0,0,0,0,42,0,0,0,0.0,0.0,0.0,0,0,42,42,100.0,0,34,0,0,0,Manchester City,2021-12-14 Manchester City-Leeds United,ENG-EPL,21-22,5730a84c
+c931d9f9,Daniel James,20,WAL,FW,24-034,45,0,0,0,0,0,0,0,0,12,0,0,0,0.0,0.0,0.0,0,0,7,10,70.0,0,3,0,0,0,Leeds United,2021-12-14 Manchester City-Leeds United,ENG-EPL,21-22,5730a84c
+01962d0d,Joe Gelhardt,30,ENG,FW,19-224,45,0,0,0,0,0,0,0,0,13,1,0,0,0.0,0.0,0.0,0,0,8,9,88.9,1,8,0,2,1,Leeds United,2021-12-14 Manchester City-Leeds United,ENG-EPL,21-22,5730a84c
+aa849a12,Jack Harrison,22,ENG,LW,25-024,90,0,0,0,0,2,1,0,0,27,0,0,1,0.1,0.1,0.0,1,0,14,19,73.7,4,15,4,0,0,Leeds United,2021-12-14 Manchester City-Leeds United,ENG-EPL,21-22,5730a84c
+3423f250,Raphinha,10,BRA,RW,25-000,90,0,0,0,0,0,0,0,0,45,2,1,2,0.0,0.0,0.0,0,0,17,28,60.7,1,23,0,2,1,Leeds United,2021-12-14 Manchester City-Leeds United,ENG-EPL,21-22,5730a84c
+6c17e046,Tyler Roberts,11,WAL,AM,22-336,90,0,0,0,0,1,1,0,0,35,2,1,1,0.1,0.1,0.0,3,0,21,24,87.5,1,16,3,2,2,Leeds United,2021-12-14 Manchester City-Leeds United,ENG-EPL,21-22,5730a84c
+9f1938ab,Adam Forshaw,4,ENG,DM,30-067,90,0,0,0,0,1,1,0,0,35,1,2,0,0.0,0.0,0.0,1,0,27,31,87.1,0,20,0,0,0,Leeds United,2021-12-14 Manchester City-Leeds United,ENG-EPL,21-22,5730a84c
+67ca8566,Stuart Dallas,15,NIR,"DM,RB,LB",30-239,90,0,0,0,0,1,0,0,0,48,5,0,0,0.1,0.1,0.0,0,0,31,41,75.6,2,25,2,2,1,Leeds United,2021-12-14 Manchester City-Leeds United,ENG-EPL,21-22,5730a84c
+24f59bb2,Junior Firpo,3,DOM,LB,25-114,72,0,0,0,0,0,0,1,0,27,0,0,0,0.0,0.0,0.1,3,0,19,23,82.6,1,16,1,1,1,Leeds United,2021-12-14 Manchester City-Leeds United,ENG-EPL,21-22,5730a84c
+e0d1510a,Cody Drameh,37,ENG,RB,20-006,18,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,1,0,6,8,75.0,1,5,1,0,0,Leeds United,2021-12-14 Manchester City-Leeds United,ENG-EPL,21-22,5730a84c
+bba30585,Diego Llorente,14,ESP,CB,28-120,90,0,0,0,0,0,0,0,0,49,0,1,2,0.0,0.0,0.0,0,0,40,44,90.9,2,35,0,0,0,Leeds United,2021-12-14 Manchester City-Leeds United,ENG-EPL,21-22,5730a84c
+420d7c7d,Luke Ayling,2,ENG,CB,30-111,90,0,0,0,0,0,0,0,0,62,1,1,4,0.0,0.0,0.1,1,0,45,54,83.3,1,42,0,1,1,Leeds United,2021-12-14 Manchester City-Leeds United,ENG-EPL,21-22,5730a84c
+8d03ca5a,Jamie Shackleton,46,ENG,RB,22-067,37,0,0,0,0,0,0,0,0,14,1,0,3,0.0,0.0,0.0,0,0,10,10,100.0,1,5,0,0,0,Leeds United,2021-12-14 Manchester City-Leeds United,ENG-EPL,21-22,5730a84c
+282679b4,Mateusz Klich,43,POL,DM,31-184,53,0,0,0,0,1,0,0,0,31,2,1,1,0.0,0.0,0.0,1,0,19,23,82.6,3,17,2,1,1,Leeds United,2021-12-14 Manchester City-Leeds United,ENG-EPL,21-22,5730a84c
+6b625ac2,Illan Meslier,1,FRA,GK,21-287,90,0,0,0,0,0,0,0,0,49,0,0,0,0.0,0.0,0.0,1,0,32,44,72.7,0,25,0,0,0,Leeds United,2021-12-14 Manchester City-Leeds United,ENG-EPL,21-22,5730a84c

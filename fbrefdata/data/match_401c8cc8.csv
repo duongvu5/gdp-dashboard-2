@@ -1,0 +1,29 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+9dbb75ca,Alexandre Lacazette,9,FRA,FW,30-267,83,0,1,0,0,3,0,0,0,23,1,0,0,0.2,0.2,0.2,4,1,8,13,61.5,3,13,2,1,0,Arsenal,2022-02-19 Arsenal-Brentford,ENG-EPL,21-22,401c8cc8
+a53649b7,Eddie Nketiah,30,ENG,FW,22-265,7,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,1,0,0,0,Arsenal,2022-02-19 Arsenal-Brentford,ENG-EPL,21-22,401c8cc8
+17695062,Emile Smith Rowe,10,ENG,LW,21-206,74,1,0,0,0,2,1,0,0,57,1,1,1,0.1,0.1,0.0,1,0,35,47,74.5,5,37,7,2,2,Arsenal,2022-02-19 Arsenal-Brentford,ENG-EPL,21-22,401c8cc8
+57e3f0c7,Nicolas Pépé,19,CIV,"RW,LW",26-266,16,0,0,0,0,1,0,0,0,15,0,1,0,0.2,0.2,0.0,0,0,12,12,100.0,0,11,0,1,1,Arsenal,2022-02-19 Arsenal-Brentford,ENG-EPL,21-22,401c8cc8
+bc7dc64d,Bukayo Saka,7,ENG,"RW,LW",20-167,90,1,0,0,0,6,3,0,0,61,2,0,0,0.3,0.3,0.1,5,1,37,49,75.5,3,31,4,0,0,Arsenal,2022-02-19 Arsenal-Brentford,ENG-EPL,21-22,401c8cc8
+79300479,Martin Ødegaard,8,NOR,AM,23-064,90,0,0,0,0,3,1,0,0,84,1,0,0,0.6,0.6,0.0,7,0,64,76,84.2,13,57,3,3,2,Arsenal,2022-02-19 Arsenal-Brentford,ENG-EPL,21-22,401c8cc8
+e61b8aee,Granit Xhaka,34,SUI,DM,29-145,90,0,0,0,0,0,0,0,0,73,2,1,1,0.0,0.0,0.1,6,0,57,65,87.7,9,47,4,2,1,Arsenal,2022-02-19 Arsenal-Brentford,ENG-EPL,21-22,401c8cc8
+529f49ab,Thomas Partey,5,GHA,DM,28-251,90,0,1,0,0,5,1,0,0,67,3,0,1,0.2,0.2,0.1,5,1,51,57,89.5,4,31,1,1,1,Arsenal,2022-02-19 Arsenal-Brentford,ENG-EPL,21-22,401c8cc8
+fce2302c,Kieran Tierney,3,SCO,LB,24-259,90,0,0,0,0,1,0,0,0,92,1,2,0,0.0,0.0,0.0,3,0,66,82,80.5,6,47,3,2,0,Arsenal,2022-02-19 Arsenal-Brentford,ENG-EPL,21-22,401c8cc8
+67ac5bb8,Gabriel Magalhães,6,BRA,CB,24-062,90,0,0,0,0,0,0,1,0,63,3,0,2,0.0,0.0,0.0,0,0,50,57,87.7,0,36,0,0,0,Arsenal,2022-02-19 Arsenal-Brentford,ENG-EPL,21-22,401c8cc8
+35e413f1,Ben White,4,ENG,CB,24-134,90,0,0,0,0,2,1,0,0,55,0,1,1,0.1,0.1,0.3,1,0,40,48,83.3,2,37,0,0,0,Arsenal,2022-02-19 Arsenal-Brentford,ENG-EPL,21-22,401c8cc8
+839c14e1,Cédric Soares,17,POR,RB,30-172,90,0,0,0,0,1,0,0,0,97,0,2,1,0.0,0.0,0.1,4,0,70,92,76.1,14,54,1,0,0,Arsenal,2022-02-19 Arsenal-Brentford,ENG-EPL,21-22,401c8cc8
+466fb2c5,Aaron Ramsdale,32,ENG,GK,23-281,90,0,0,0,0,0,0,0,0,38,0,0,0,0.0,0.0,0.0,0,0,25,38,65.8,0,31,0,0,0,Arsenal,2022-02-19 Arsenal-Brentford,ENG-EPL,21-22,401c8cc8
+2500cef9,Yoane Wissa,11,COD,FW,25-169,90,0,0,0,0,2,1,0,0,30,2,0,2,0.1,0.1,0.0,0,0,13,19,68.4,4,18,1,2,1,Brentford,2022-02-19 Arsenal-Brentford,ENG-EPL,21-22,401c8cc8
+6afaebf2,Bryan Mbeumo,19,CMR,FW,22-196,90,0,0,0,0,1,0,0,0,32,0,1,1,0.1,0.1,0.0,1,0,12,22,54.5,0,19,3,0,0,Brentford,2022-02-19 Arsenal-Brentford,ENG-EPL,21-22,401c8cc8
+0f134faf,Mathias Jensen,8,DEN,CM,26-049,43,0,0,0,0,0,0,0,0,14,0,1,1,0.0,0.0,0.0,1,0,4,9,44.4,0,6,0,0,0,Brentford,2022-02-19 Arsenal-Brentford,ENG-EPL,21-22,401c8cc8
+8449d35e,Vitaly Janelt,27,GER,CM,23-285,47,0,0,0,0,1,0,0,0,21,0,0,0,0.1,0.1,0.0,2,1,13,17,76.5,2,16,0,1,1,Brentford,2022-02-19 Arsenal-Brentford,ENG-EPL,21-22,401c8cc8
+df0a4c90,Christian Nørgaard,6,DEN,CM,27-346,90,1,0,0,0,2,1,0,0,46,3,2,2,0.5,0.5,0.0,1,0,28,32,87.5,3,27,1,1,0,Brentford,2022-02-19 Arsenal-Brentford,ENG-EPL,21-22,401c8cc8
+60344e4f,Josh Dasilva,10,ENG,CM,23-119,67,0,0,0,0,0,0,0,0,26,1,0,1,0.0,0.0,0.1,2,0,11,14,78.6,3,16,1,2,1,Brentford,2022-02-19 Arsenal-Brentford,ENG-EPL,21-22,401c8cc8
+2886c9b5,Shandon Baptiste,26,GRN,CM,23-317,23,0,0,0,0,0,0,0,0,15,0,1,0,0.0,0.0,0.0,1,0,11,13,84.6,2,10,0,1,1,Brentford,2022-02-19 Arsenal-Brentford,ENG-EPL,21-22,401c8cc8
+8a3c1dc7,Rico Henry,3,ENG,WB,24-226,90,0,0,0,0,0,0,0,0,31,2,0,1,0.0,0.0,0.0,0,0,14,18,77.8,0,20,1,0,0,Brentford,2022-02-19 Arsenal-Brentford,ENG-EPL,21-22,401c8cc8
+1137759d,Sergi Canós,7,ESP,WB,25-017,83,0,0,0,0,0,0,0,0,38,4,0,1,0.0,0.0,0.0,0,0,15,27,55.6,1,18,0,3,1,Brentford,2022-02-19 Arsenal-Brentford,ENG-EPL,21-22,401c8cc8
+f7b1d4e0,Saman Ghoddos,14,IRN,WB,28-166,7,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,1,0,0,4,0.0,0,3,0,0,0,Brentford,2022-02-19 Arsenal-Brentford,ENG-EPL,21-22,401c8cc8
+e541326e,Ethan Pinnock,5,JAM,CB,28-266,90,0,0,0,0,0,0,0,0,61,0,3,2,0.0,0.0,0.0,0,0,32,42,76.2,0,28,0,0,0,Brentford,2022-02-19 Arsenal-Brentford,ENG-EPL,21-22,401c8cc8
+172e52d8,Pontus Jansson,18,SWE,CB,31-006,90,0,0,0,0,0,0,1,0,40,0,1,4,0.0,0.0,0.0,0,0,21,25,84.0,0,16,0,0,0,Brentford,2022-02-19 Arsenal-Brentford,ENG-EPL,21-22,401c8cc8
+a8c0acb7,Kristoffer Ajer,20,NOR,CB,23-308,90,0,1,0,0,0,0,0,0,61,2,3,1,0.0,0.0,0.5,0,0,30,41,73.2,3,30,0,1,1,Brentford,2022-02-19 Arsenal-Brentford,ENG-EPL,21-22,401c8cc8
+98ea5115,David Raya,1,ESP,GK,26-157,90,0,0,0,0,0,0,0,0,45,0,0,0,0.0,0.0,0.0,0,0,30,43,69.8,0,29,0,0,0,Brentford,2022-02-19 Arsenal-Brentford,ENG-EPL,21-22,401c8cc8

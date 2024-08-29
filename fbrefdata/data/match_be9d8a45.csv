@@ -1,0 +1,29 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+1fb1c435,Rodrigo,19,ESP,FW,30-210,90,0,0,0,0,2,0,0,0,29,0,0,0,0.1,0.1,0.3,3,0,10,19,52.6,3,16,0,0,0,Leeds United,2021-10-02 Leeds United-Watford,ENG-EPL,21-22,be9d8a45
+c931d9f9,Daniel James,20,WAL,LM,23-326,90,0,0,0,0,2,0,0,0,30,0,0,1,0.1,0.1,0.0,3,0,9,20,45.0,3,21,3,4,0,Leeds United,2021-10-02 Leeds United-Watford,ENG-EPL,21-22,be9d8a45
+282679b4,Mateusz Klich,43,POL,CM,31-111,89,0,0,0,0,2,1,0,0,54,1,0,0,0.1,0.1,0.2,7,1,32,46,69.6,6,34,4,1,0,Leeds United,2021-10-02 Leeds United-Watford,ENG-EPL,21-22,be9d8a45
+f4d296e4,Pascal Struijk,21,NED,CM,22-052,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Leeds United,2021-10-02 Leeds United-Watford,ENG-EPL,21-22,be9d8a45
+67ca8566,Stuart Dallas,15,NIR,CM,30-166,77,0,0,0,0,5,1,0,0,51,2,0,2,0.5,0.5,0.1,5,0,29,38,76.3,8,29,2,0,0,Leeds United,2021-10-02 Leeds United-Watford,ENG-EPL,21-22,be9d8a45
+6c17e046,Tyler Roberts,11,WAL,CM,22-263,13,0,0,0,0,2,0,0,0,12,0,0,0,0.1,0.1,0.0,1,0,3,6,50.0,0,6,2,1,0,Leeds United,2021-10-02 Leeds United-Watford,ENG-EPL,21-22,be9d8a45
+3423f250,Raphinha,10,BRA,RM,24-292,90,0,0,0,0,5,0,0,0,62,1,0,2,0.4,0.4,0.1,4,1,21,42,50.0,5,36,3,8,4,Leeds United,2021-10-02 Leeds United-Watford,ENG-EPL,21-22,be9d8a45
+4f565d77,Kalvin Phillips,23,ENG,DM,25-304,90,0,0,0,0,0,0,0,0,73,2,0,0,0.0,0.0,0.0,0,0,56,70,80.0,11,33,0,1,1,Leeds United,2021-10-02 Leeds United-Watford,ENG-EPL,21-22,be9d8a45
+24f59bb2,Junior Firpo,3,DOM,LB,25-041,90,0,0,0,0,0,0,0,0,70,1,1,2,0.0,0.0,0.1,5,0,50,58,86.2,8,36,3,1,1,Leeds United,2021-10-02 Leeds United-Watford,ENG-EPL,21-22,be9d8a45
+dc64b8b3,Liam Cooper,6,SCO,CB,30-033,90,0,0,0,0,0,0,0,0,77,1,1,2,0.0,0.0,0.0,2,0,64,71,90.1,4,54,0,1,1,Leeds United,2021-10-02 Leeds United-Watford,ENG-EPL,21-22,be9d8a45
+bba30585,Diego Llorente,14,ESP,CB,28-047,90,1,0,0,0,1,1,0,0,74,2,1,0,0.2,0.2,0.0,0,0,60,67,89.6,3,56,1,0,0,Leeds United,2021-10-02 Leeds United-Watford,ENG-EPL,21-22,be9d8a45
+8d03ca5a,Jamie Shackleton,46,ENG,RB,21-359,90,0,0,0,0,1,0,0,0,89,4,0,0,0.0,0.0,0.0,3,0,63,74,85.1,5,47,1,3,2,Leeds United,2021-10-02 Leeds United-Watford,ENG-EPL,21-22,be9d8a45
+6b625ac2,Illan Meslier,1,FRA,GK,21-214,90,0,0,0,0,0,0,0,0,37,0,0,0,0.0,0.0,0.0,0,0,34,36,94.4,0,18,0,0,0,Leeds United,2021-10-02 Leeds United-Watford,ENG-EPL,21-22,be9d8a45
+43458538,Joshua King,7,NOR,FW,29-260,44,0,0,0,0,0,0,0,0,15,0,0,0,0.0,0.0,0.0,0,0,2,6,33.3,0,7,1,1,0,Watford,2021-10-02 Leeds United-Watford,ENG-EPL,21-22,be9d8a45
+1770bd68,Ken Sema,12,SWE,"LM,FW,LW",28-002,46,0,0,0,0,0,0,0,0,15,1,0,0,0.0,0.0,0.0,0,0,7,11,63.6,1,9,1,2,0,Watford,2021-10-02 Leeds United-Watford,ENG-EPL,21-22,be9d8a45
+2c44a35d,Emmanuel Dennis,25,NGA,"LW,FW",23-321,90,0,0,0,0,1,1,1,0,28,1,0,2,0.1,0.1,0.1,2,0,10,15,66.7,1,7,0,1,0,Watford,2021-10-02 Leeds United-Watford,ENG-EPL,21-22,be9d8a45
+bfdb33aa,Ismaila Sarr,23,SEN,"RW,RM",23-219,90,0,0,0,0,1,0,1,0,31,1,0,1,0.0,0.0,0.0,0,0,12,17,70.6,1,17,3,1,0,Watford,2021-10-02 Leeds United-Watford,ENG-EPL,21-22,be9d8a45
+17d45fb2,Ozan Tufan,18,TUR,AM,26-193,58,0,0,0,0,1,0,0,0,18,0,0,0,0.1,0.1,0.0,0,0,9,12,75.0,3,6,0,0,0,Watford,2021-10-02 Leeds United-Watford,ENG-EPL,21-22,be9d8a45
+e8832875,João Pedro,10,BRA,"FW,AM",20-006,32,0,0,0,0,1,0,0,0,13,0,0,0,0.0,0.0,0.0,0,0,5,7,71.4,1,10,0,1,0,Watford,2021-10-02 Leeds United-Watford,ENG-EPL,21-22,be9d8a45
+2acd49b9,Moussa Sissoko,19,FRA,"DM,CM",32-047,90,0,0,0,0,0,0,0,0,39,1,1,2,0.0,0.0,0.0,1,0,19,26,73.1,3,16,0,0,0,Watford,2021-10-02 Leeds United-Watford,ENG-EPL,21-22,be9d8a45
+5aaef9ef,Juraj Kucka,33,SVK,"DM,CM",34-218,90,0,0,0,0,1,0,0,0,38,6,0,2,0.0,0.0,0.0,0,0,16,22,72.7,4,14,0,1,0,Watford,2021-10-02 Leeds United-Watford,ENG-EPL,21-22,be9d8a45
+89d10e53,Danny Rose,3,ENG,LB,31-092,90,0,0,0,0,0,0,0,0,49,6,0,1,0.0,0.0,0.0,0,0,18,37,48.6,3,17,1,3,1,Watford,2021-10-02 Leeds United-Watford,ENG-EPL,21-22,be9d8a45
+0f933743,Francisco Sierralta,31,CHI,CB,24-149,67,0,0,0,0,0,0,0,0,30,0,1,2,0.0,0.0,0.0,0,0,9,20,45.0,1,12,1,2,2,Watford,2021-10-02 Leeds United-Watford,ENG-EPL,21-22,be9d8a45
+914ab9a1,Christian Kabasele,27,BEL,CB,30-220,23,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,3,6,50.0,0,4,0,0,0,Watford,2021-10-02 Leeds United-Watford,ENG-EPL,21-22,be9d8a45
+7ed4921e,William Troost-Ekong,5,NGA,CB,28-031,90,0,0,0,0,0,0,0,0,46,1,0,4,0.0,0.0,0.1,2,0,20,35,57.1,4,23,3,0,0,Watford,2021-10-02 Leeds United-Watford,ENG-EPL,21-22,be9d8a45
+e5d01ecf,Kiko Femenía,21,ESP,RB,30-242,90,0,0,0,0,0,0,1,0,44,3,1,3,0.0,0.0,0.0,1,0,24,33,72.7,3,15,0,0,0,Watford,2021-10-02 Leeds United-Watford,ENG-EPL,21-22,be9d8a45
+d0b3ceb9,Ben Foster,1,ENG,GK,38-182,90,0,0,0,0,0,0,0,0,42,0,0,0,0.0,0.0,0.0,0,0,28,39,71.8,0,17,0,0,0,Watford,2021-10-02 Leeds United-Watford,ENG-EPL,21-22,be9d8a45

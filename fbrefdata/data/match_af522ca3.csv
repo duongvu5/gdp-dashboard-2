@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+b0b4fd3e,Jack Grealish,10,ENG,"FW,AM",26-225,90,0,0,0,0,2,1,0,0,45,3,0,0,0.2,0.2,0.0,3,0,32,36,88.9,2,37,4,0,0,Manchester City,2022-04-23 Manchester City-Watford,ENG-EPL,21-22,af522ca3
+b400bde0,Raheem Sterling,7,ENG,"LW,FW",27-136,90,0,0,0,0,1,0,0,0,36,1,0,0,0.3,0.3,0.0,2,0,22,24,91.7,2,26,3,5,3,Manchester City,2022-04-23 Manchester City-Watford,ENG-EPL,21-22,af522ca3
+b66315ae,Gabriel Jesus,9,BRA,"RW,LW",25-020,90,4,1,1,1,5,3,0,0,60,2,3,0,2.5,1.7,0.4,9,5,38,44,86.4,4,35,4,2,1,Manchester City,2022-04-23 Manchester City-Watford,ENG-EPL,21-22,af522ca3
+e46012d4,Kevin De Bruyne,17,BEL,AM,30-299,56,0,2,0,0,1,0,0,0,42,1,0,1,0.0,0.0,0.8,5,2,21,38,55.3,3,19,3,2,2,Manchester City,2022-04-23 Manchester City-Watford,ENG-EPL,21-22,af522ca3
+819b3158,İlkay Gündoğan,8,GER,"DM,AM",31-181,34,0,0,0,0,0,0,0,0,41,1,1,0,0.0,0.0,0.2,4,0,36,38,94.7,8,27,3,0,0,Manchester City,2022-04-23 Manchester City-Watford,ENG-EPL,21-22,af522ca3
+6434f10d,Rodri,16,ESP,DM,25-305,70,1,0,0,0,3,1,0,0,78,2,0,2,0.2,0.2,0.0,3,0,64,68,94.1,9,43,1,0,0,Manchester City,2022-04-23 Manchester City-Watford,ENG-EPL,21-22,af522ca3
+892d5bb1,Riyad Mahrez,26,ALG,RW,31-061,20,0,0,0,0,1,0,0,0,14,0,0,0,0.2,0.2,0.1,1,0,10,11,90.9,0,9,1,0,0,Manchester City,2022-04-23 Manchester City-Watford,ENG-EPL,21-22,af522ca3
+101da2b5,Fernandinho,25,BRA,DM,36-354,90,0,0,0,0,3,1,0,0,81,4,2,1,0.1,0.1,0.2,3,0,58,71,81.7,11,54,2,1,1,Manchester City,2022-04-23 Manchester City-Watford,ENG-EPL,21-22,af522ca3
+51cf8561,Oleksandr Zinchenko,11,UKR,LB,25-129,90,0,1,0,0,0,0,0,0,86,3,0,2,0.0,0.0,0.8,2,1,67,78,85.9,5,53,1,1,1,Manchester City,2022-04-23 Manchester City-Watford,ENG-EPL,21-22,af522ca3
+119b9a8e,Aymeric Laporte,14,ESP,CB,27-331,62,0,0,0,0,0,0,0,0,72,1,0,0,0.0,0.0,0.2,0,0,61,67,91.0,7,51,3,0,0,Manchester City,2022-04-23 Manchester City-Watford,ENG-EPL,21-22,af522ca3
+eaeca114,Nathan Aké,6,NED,CB,27-064,28,0,0,0,0,0,0,0,0,30,1,0,0,0.0,0.0,0.0,0,0,27,29,93.1,1,23,0,0,0,Manchester City,2022-04-23 Manchester City-Watford,ENG-EPL,21-22,af522ca3
+31c69ef1,Rúben Dias,3,POR,CB,24-344,90,0,0,0,0,2,0,0,0,119,1,1,0,0.2,0.2,0.1,2,0,104,111,93.7,6,89,1,0,0,Manchester City,2022-04-23 Manchester City-Watford,ENG-EPL,21-22,af522ca3
+bd6351cd,João Cancelo,27,POR,RB,27-331,90,0,0,0,0,2,1,1,0,112,5,0,0,0.1,0.1,0.0,4,2,79,99,79.8,7,67,0,2,0,Manchester City,2022-04-23 Manchester City-Watford,ENG-EPL,21-22,af522ca3
+3bb7b8b4,Ederson,31,BRA,GK,28-249,90,0,0,0,0,0,0,0,0,25,0,0,0,0.0,0.0,0.0,0,0,22,24,91.7,0,16,0,0,0,Manchester City,2022-04-23 Manchester City-Watford,ENG-EPL,21-22,af522ca3
+43458538,Joshua King,7,NOR,FW,30-098,90,0,0,0,0,0,0,0,0,27,0,0,2,0.0,0.0,0.0,1,1,15,17,88.2,1,10,0,1,0,Watford,2022-04-23 Manchester City-Watford,ENG-EPL,21-22,af522ca3
+2c44a35d,Emmanuel Dennis,25,NGA,LW,24-159,90,0,1,0,0,1,1,0,0,40,2,2,1,0.3,0.3,0.1,4,1,13,19,68.4,1,26,4,13,5,Watford,2022-04-23 Manchester City-Watford,ENG-EPL,21-22,af522ca3
+bfdb33aa,Ismaila Sarr,23,SEN,RW,24-057,67,0,0,0,0,1,0,0,0,17,1,0,0,0.0,0.0,0.0,0,0,8,11,72.7,2,13,2,0,0,Watford,2022-04-23 Manchester City-Watford,ENG-EPL,21-22,af522ca3
+e8832875,João Pedro,10,BRA,RW,20-209,23,0,0,0,0,1,0,0,0,12,0,1,0,0.0,0.0,0.0,0,0,7,9,77.8,1,11,0,2,2,Watford,2022-04-23 Manchester City-Watford,ENG-EPL,21-22,af522ca3
+6cdd8245,Tom Cleverley,8,ENG,LM,32-254,90,0,0,0,0,0,0,0,0,18,2,1,1,0.0,0.0,0.0,0,0,10,13,76.9,1,14,0,0,0,Watford,2022-04-23 Manchester City-Watford,ENG-EPL,21-22,af522ca3
+e1df6989,Imran Louza,6,MAR,CM,22-357,74,0,0,0,0,0,0,0,0,37,2,2,2,0.0,0.0,0.3,2,0,19,26,73.1,1,15,0,2,0,Watford,2022-04-23 Manchester City-Watford,ENG-EPL,21-22,af522ca3
+f99b71de,Edo Kayembe,39,COD,CM,23-324,16,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,8,8,100.0,1,7,0,0,0,Watford,2022-04-23 Manchester City-Watford,ENG-EPL,21-22,af522ca3
+2acd49b9,Moussa Sissoko,19,FRA,RM,32-250,90,0,0,0,0,1,0,0,0,39,2,2,0,0.0,0.0,0.0,0,0,23,29,79.3,1,25,2,3,3,Watford,2022-04-23 Manchester City-Watford,ENG-EPL,21-22,af522ca3
+19a12bed,Hassane Kamara,14,CIV,LB,28-049,90,1,0,0,0,1,1,0,0,41,1,4,0,0.1,0.1,0.0,0,0,19,33,57.6,1,29,0,3,2,Watford,2022-04-23 Manchester City-Watford,ENG-EPL,21-22,af522ca3
+92b4758e,Samir Santos,22,BRA,CB,27-139,67,0,0,0,0,0,0,0,0,33,0,2,0,0.0,0.0,0.0,0,0,22,28,78.6,0,15,0,0,0,Watford,2022-04-23 Manchester City-Watford,ENG-EPL,21-22,af522ca3
+89e4b358,Craig Cathcart,15,NIR,CB,33-076,23,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,4,4,100.0,0,3,0,1,0,Watford,2022-04-23 Manchester City-Watford,ENG-EPL,21-22,af522ca3
+914ab9a1,Christian Kabasele,27,BEL,CB,31-058,90,0,0,0,0,0,0,0,0,28,0,2,2,0.0,0.0,0.0,0,0,14,18,77.8,2,14,0,0,0,Watford,2022-04-23 Manchester City-Watford,ENG-EPL,21-22,af522ca3
+3631ad41,Jeremy Ngakia,2,ENG,RB,21-228,90,0,0,0,0,0,0,0,0,43,1,0,4,0.0,0.0,0.0,2,0,21,28,75.0,0,20,2,1,0,Watford,2022-04-23 Manchester City-Watford,ENG-EPL,21-22,af522ca3
+d0b3ceb9,Ben Foster,1,ENG,GK,39-020,90,0,0,0,0,0,0,0,0,31,0,0,0,0.0,0.0,0.0,0,0,11,26,42.3,0,16,0,0,0,Watford,2022-04-23 Manchester City-Watford,ENG-EPL,21-22,af522ca3

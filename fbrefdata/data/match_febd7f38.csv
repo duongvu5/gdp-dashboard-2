@@ -1,0 +1,29 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+ed1e53f3,Phil Foden,47,ENG,FW,21-232,87,0,0,0,0,1,0,0,0,46,0,1,0,0.1,0.1,0.1,1,0,26,41,63.4,2,26,1,3,3,Manchester City,2022-01-15 Manchester City-Chelsea,ENG-EPL,21-22,febd7f38
+b66315ae,Gabriel Jesus,9,BRA,FW,24-287,3,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,2,0,0,0,Manchester City,2022-01-15 Manchester City-Chelsea,ENG-EPL,21-22,febd7f38
+b0b4fd3e,Jack Grealish,10,ENG,LW,26-127,90,0,0,0,0,2,2,0,0,41,1,0,1,0.6,0.6,0.1,4,0,25,30,83.3,2,32,5,4,3,Manchester City,2022-01-15 Manchester City-Chelsea,ENG-EPL,21-22,febd7f38
+b400bde0,Raheem Sterling,7,ENG,RW,27-038,90,0,0,0,0,1,0,0,0,36,0,0,0,0.1,0.1,0.2,4,0,24,30,80.0,1,32,4,5,2,Manchester City,2022-01-15 Manchester City-Chelsea,ENG-EPL,21-22,febd7f38
+e46012d4,Kevin De Bruyne,17,BEL,AM,30-201,83,1,0,0,0,4,3,0,0,56,2,0,4,0.2,0.2,0.6,4,1,26,40,65.0,0,29,3,6,4,Manchester City,2022-01-15 Manchester City-Chelsea,ENG-EPL,21-22,febd7f38
+819b3158,İlkay Gündoğan,8,GER,LM,31-083,7,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,5,6,83.3,1,4,1,2,2,Manchester City,2022-01-15 Manchester City-Chelsea,ENG-EPL,21-22,febd7f38
+6434f10d,Rodri,16,ESP,"DM,CM",25-207,90,0,0,0,0,1,0,0,0,78,1,0,0,0.0,0.0,0.0,2,0,67,74,90.5,6,55,1,0,0,Manchester City,2022-01-15 Manchester City-Chelsea,ENG-EPL,21-22,febd7f38
+3eb22ec9,Bernardo Silva,20,POR,"DM,RM",27-158,90,0,0,0,0,0,0,0,0,69,3,1,1,0.0,0.0,0.0,1,0,46,54,85.2,1,41,4,3,1,Manchester City,2022-01-15 Manchester City-Chelsea,ENG-EPL,21-22,febd7f38
+bd6351cd,João Cancelo,27,POR,LB,27-233,90,0,1,0,0,1,0,0,0,88,0,0,1,0.0,0.0,0.0,3,1,67,82,81.7,9,60,2,2,1,Manchester City,2022-01-15 Manchester City-Chelsea,ENG-EPL,21-22,febd7f38
+119b9a8e,Aymeric Laporte,14,ESP,CB,27-233,90,0,0,0,0,0,0,0,0,88,0,1,2,0.0,0.0,0.0,1,0,77,83,92.8,5,66,1,0,0,Manchester City,2022-01-15 Manchester City-Chelsea,ENG-EPL,21-22,febd7f38
+5eecec3d,John Stones,5,ENG,CB,27-232,90,0,0,0,0,1,1,0,0,84,0,0,0,0.1,0.1,0.0,0,0,72,80,90.0,3,60,1,0,0,Manchester City,2022-01-15 Manchester City-Chelsea,ENG-EPL,21-22,febd7f38
+86dd77d1,Kyle Walker,2,ENG,RB,31-232,90,0,0,0,0,0,0,0,0,74,1,0,0,0.0,0.0,0.0,1,0,59,69,85.5,3,47,3,0,0,Manchester City,2022-01-15 Manchester City-Chelsea,ENG-EPL,21-22,febd7f38
+3bb7b8b4,Ederson,31,BRA,GK,28-151,90,0,0,0,0,0,0,0,0,37,0,0,0,0.0,0.0,0.0,0,0,32,35,91.4,0,19,0,0,0,Manchester City,2022-01-15 Manchester City-Chelsea,ENG-EPL,21-22,febd7f38
+5eae500a,Romelu Lukaku,9,BEL,FW,28-247,90,0,0,0,0,1,1,0,0,20,0,0,1,0.1,0.1,0.0,1,0,7,13,53.8,0,14,1,0,0,Chelsea,2022-01-15 Manchester City-Chelsea,ENG-EPL,21-22,febd7f38
+6622454d,Hakim Ziyech,22,MAR,AM,28-302,68,0,0,0,0,1,0,0,0,20,0,1,1,0.1,0.1,0.0,0,0,12,16,75.0,2,15,2,1,0,Chelsea,2022-01-15 Manchester City-Chelsea,ENG-EPL,21-22,febd7f38
+15f3ec41,Callum Hudson-Odoi,20,ENG,"LM,AM",21-069,22,0,0,0,0,0,0,0,0,13,0,0,0,0.0,0.0,0.0,0,0,11,14,78.6,1,10,0,0,0,Chelsea,2022-01-15 Manchester City-Chelsea,ENG-EPL,21-22,febd7f38
+1bf33a9a,Christian Pulisic,10,USA,AM,23-119,68,0,0,0,0,0,0,0,0,25,0,0,2,0.0,0.0,0.0,1,0,16,20,80.0,0,16,5,1,1,Chelsea,2022-01-15 Manchester City-Chelsea,ENG-EPL,21-22,febd7f38
+49fe9070,Timo Werner,11,GER,"RM,AM",25-315,22,0,0,0,0,1,0,0,0,9,0,0,0,0.1,0.1,0.0,0,0,5,7,71.4,1,7,1,0,0,Chelsea,2022-01-15 Manchester City-Chelsea,ENG-EPL,21-22,febd7f38
+79c0821a,Mateo Kovačić,8,CRO,CM,27-254,90,0,0,0,0,0,0,1,0,66,4,1,0,0.0,0.0,0.1,2,0,55,61,90.2,4,43,0,3,3,Chelsea,2022-01-15 Manchester City-Chelsea,ENG-EPL,21-22,febd7f38
+b9fbae28,N'Golo Kanté,7,FRA,CM,30-292,90,0,0,0,0,0,0,0,0,57,5,1,0,0.0,0.0,0.0,0,0,43,48,89.6,4,39,0,1,0,Chelsea,2022-01-15 Manchester City-Chelsea,ENG-EPL,21-22,febd7f38
+f4290206,Marcos Alonso,3,ESP,WB,31-018,80,0,0,0,0,1,0,1,0,61,3,1,0,0.0,0.0,0.0,1,0,40,47,85.1,2,36,0,1,0,Chelsea,2022-01-15 Manchester City-Chelsea,ENG-EPL,21-22,febd7f38
+9674002f,Mason Mount,19,ENG,FW,23-005,10,0,0,0,0,0,0,0,0,8,1,0,0,0.0,0.0,0.0,0,0,4,6,66.7,1,4,2,1,1,Chelsea,2022-01-15 Manchester City-Chelsea,ENG-EPL,21-22,febd7f38
+53cad200,César Azpilicueta,28,ESP,"WB,RB",32-140,90,0,0,0,0,0,0,0,0,69,5,0,2,0.0,0.0,0.1,2,0,42,50,84.0,4,31,1,2,2,Chelsea,2022-01-15 Manchester City-Chelsea,ENG-EPL,21-22,febd7f38
+4315f30d,Malang Sarr,31,FRA,"CB,LB",22-357,90,0,0,0,0,0,0,0,0,87,3,4,1,0.0,0.0,0.0,0,0,61,71,85.9,4,47,0,0,0,Chelsea,2022-01-15 Manchester City-Chelsea,ENG-EPL,21-22,febd7f38
+86e7deaf,Thiago Silva,6,BRA,CB,37-115,90,0,0,0,0,0,0,0,0,57,0,3,4,0.0,0.0,0.0,0,0,40,44,90.9,2,36,0,0,0,Chelsea,2022-01-15 Manchester City-Chelsea,ENG-EPL,21-22,febd7f38
+18b896d6,Antonio Rüdiger,2,GER,CB,28-318,90,0,0,0,0,0,0,0,0,65,1,0,0,0.0,0.0,0.0,0,0,47,55,85.5,2,44,1,0,0,Chelsea,2022-01-15 Manchester City-Chelsea,ENG-EPL,21-22,febd7f38
+28d596a0,Kepa Arrizabalaga,1,ESP,GK,27-104,90,0,0,0,0,0,0,0,0,47,0,0,0,0.0,0.0,0.0,0,0,27,43,62.8,0,28,0,0,0,Chelsea,2022-01-15 Manchester City-Chelsea,ENG-EPL,21-22,febd7f38
