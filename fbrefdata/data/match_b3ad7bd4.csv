@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+21a66f6a,Harry Kane,10,ENG,FW,29-254,90,1,0,0,0,3,1,0,0,28,2,0,2,0.2,0.2,0.2,6,0,9,14,64.3,5,16,0,3,2,Tottenham Hotspur,2023-04-08 Tottenham-Brighton,ENG-EPL,22-23,b3ad7bd4
+92e7e919,Son Heung-min,7,KOR,AM,30-274,90,1,0,0,0,1,1,0,0,28,0,1,1,0.0,0.0,0.1,3,1,14,18,77.8,4,19,3,3,0,Tottenham Hotspur,2023-04-08 Tottenham-Brighton,ENG-EPL,22-23,b3ad7bd4
+df3cda47,Dejan Kulusevski,21,SWE,AM,22-348,77,0,0,0,0,1,0,0,0,31,0,2,1,0.0,0.0,0.0,1,0,14,20,70.0,3,20,4,6,3,Tottenham Hotspur,2023-04-08 Tottenham-Brighton,ENG-EPL,22-23,b3ad7bd4
+f08490a6,Arnaut Danjuma,16,NED,AM,26-067,13,0,0,0,0,0,0,0,0,2,1,0,0,0.0,0.0,0.0,0,0,0,0,,0,1,0,0,0,Tottenham Hotspur,2023-04-08 Tottenham-Brighton,ENG-EPL,22-23,b3ad7bd4
+6250083a,Oliver Skipp,4,ENG,CM,22-204,87,0,0,0,0,0,0,0,0,39,0,0,1,0.0,0.0,0.0,1,0,25,32,78.1,3,28,0,2,1,Tottenham Hotspur,2023-04-08 Tottenham-Brighton,ENG-EPL,22-23,b3ad7bd4
+feb5d972,Pape Matar Sarr,29,SEN,CM,20-206,3,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,0,0,0,0,Tottenham Hotspur,2023-04-08 Tottenham-Brighton,ENG-EPL,22-23,b3ad7bd4
+8b04d6c1,Pierre Højbjerg,5,DEN,CM,27-246,90,0,1,0,0,1,0,1,0,55,3,0,1,0.1,0.1,0.1,2,1,39,44,88.6,6,33,1,1,0,Tottenham Hotspur,2023-04-08 Tottenham-Brighton,ENG-EPL,22-23,b3ad7bd4
+6fe90922,Ivan Perišić,14,CRO,WB,34-065,89,0,1,0,0,1,1,1,0,46,3,0,5,0.2,0.2,0.3,3,1,18,29,62.1,4,10,1,1,0,Tottenham Hotspur,2023-04-08 Tottenham-Brighton,ENG-EPL,22-23,b3ad7bd4
+e9971f2d,Japhet Tanganga,25,ENG,WB,24-008,1,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,0,0,0,0,Tottenham Hotspur,2023-04-08 Tottenham-Brighton,ENG-EPL,22-23,b3ad7bd4
+27d0a506,Pedro Porro,23,ESP,WB,23-207,90,0,0,0,0,2,0,0,0,38,3,1,1,0.3,0.3,0.0,2,1,16,23,69.6,0,18,0,3,0,Tottenham Hotspur,2023-04-08 Tottenham-Brighton,ENG-EPL,22-23,b3ad7bd4
+4f28a6ff,Clément Lenglet,34,FRA,CB,27-295,90,0,0,0,0,0,0,0,0,47,2,1,3,0.0,0.0,0.0,0,0,31,35,88.6,1,20,0,2,2,Tottenham Hotspur,2023-04-08 Tottenham-Brighton,ENG-EPL,22-23,b3ad7bd4
+ac861941,Eric Dier,15,ENG,CB,29-083,90,0,0,0,0,0,0,0,0,58,0,2,2,0.0,0.0,0.0,0,0,37,46,80.4,1,39,0,0,0,Tottenham Hotspur,2023-04-08 Tottenham-Brighton,ENG-EPL,22-23,b3ad7bd4
+a3d94a58,Cristian Romero,17,ARG,CB,24-346,90,0,0,0,0,0,0,1,0,44,3,0,6,0.0,0.0,0.0,0,0,27,32,84.4,1,15,0,0,0,Tottenham Hotspur,2023-04-08 Tottenham-Brighton,ENG-EPL,22-23,b3ad7bd4
+8f62b6ee,Hugo Lloris,1,FRA,GK,36-103,90,0,0,0,0,0,0,0,0,35,0,0,0,0.0,0.0,0.0,0,0,16,33,48.5,0,14,0,0,0,Tottenham Hotspur,2023-04-08 Tottenham-Brighton,ENG-EPL,22-23,b3ad7bd4
+ce5143da,Danny Welbeck,18,ENG,FW,32-133,65,0,0,0,0,2,0,0,0,34,1,0,0,0.2,0.2,0.1,2,0,14,21,66.7,2,9,0,3,1,Brighton & Hove Albion,2023-04-08 Tottenham-Brighton,ENG-EPL,22-23,b3ad7bd4
+4596da74,Evan Ferguson,28,IRL,FW,18-171,25,0,0,0,0,1,0,0,0,10,0,0,0,0.1,0.1,0.0,1,0,6,6,100.0,1,4,0,0,0,Brighton & Hove Albion,2023-04-08 Tottenham-Brighton,ENG-EPL,22-23,b3ad7bd4
+74618572,Kaoru Mitoma,22,JPN,LW,25-323,90,0,0,0,0,3,0,0,0,44,1,0,2,0.7,0.7,0.1,1,0,21,31,67.7,3,32,3,2,1,Brighton & Hove Albion,2023-04-08 Tottenham-Brighton,ENG-EPL,22-23,b3ad7bd4
+bb5fbd2b,Solly March,7,ENG,RW,28-262,90,0,1,0,0,1,0,0,0,51,0,0,1,0.1,0.1,0.9,10,1,34,42,81.0,5,30,2,4,2,Brighton & Hove Albion,2023-04-08 Tottenham-Brighton,ENG-EPL,22-23,b3ad7bd4
+83d074ff,Alexis Mac Allister,10,ARG,AM,24-105,90,0,0,0,0,4,2,0,0,59,2,0,0,0.1,0.1,0.1,4,0,36,47,76.6,5,29,4,2,1,Brighton & Hove Albion,2023-04-08 Tottenham-Brighton,ENG-EPL,22-23,b3ad7bd4
+16264a81,Moisés Caicedo,25,ECU,DM,21-157,90,0,0,0,0,1,1,0,0,68,3,2,2,0.0,0.0,0.0,4,0,53,60,88.3,6,33,1,2,2,Brighton & Hove Albion,2023-04-08 Tottenham-Brighton,ENG-EPL,22-23,b3ad7bd4
+8aec0537,Pascal Groß,13,GER,DM,31-297,90,0,0,0,0,1,0,1,0,93,2,0,0,0.0,0.0,0.1,6,1,79,88,89.8,13,53,3,1,0,Brighton & Hove Albion,2023-04-08 Tottenham-Brighton,ENG-EPL,22-23,b3ad7bd4
+d38fdf53,Pervis Estupiñán,30,ECU,LB,25-077,90,0,0,0,0,0,0,0,0,71,2,1,0,0.0,0.0,0.1,1,0,54,64,84.4,5,40,2,1,1,Brighton & Hove Albion,2023-04-08 Tottenham-Brighton,ENG-EPL,22-23,b3ad7bd4
+700783e7,Levi Colwill,6,ENG,CB,20-041,68,0,0,0,0,0,0,0,0,60,0,0,0,0.0,0.0,0.0,0,0,49,55,89.1,5,31,1,0,0,Brighton & Hove Albion,2023-04-08 Tottenham-Brighton,ENG-EPL,22-23,b3ad7bd4
+c40b6180,Adam Webster,4,ENG,CB,28-094,22,0,0,0,0,0,0,0,0,27,2,1,1,0.0,0.0,0.0,0,0,19,22,86.4,3,10,1,0,0,Brighton & Hove Albion,2023-04-08 Tottenham-Brighton,ENG-EPL,22-23,b3ad7bd4
+282f75f3,Lewis Dunk,5,ENG,CB,31-138,90,1,0,0,0,2,1,0,0,77,1,0,1,0.2,0.2,0.0,1,0,64,71,90.1,8,29,0,0,0,Brighton & Hove Albion,2023-04-08 Tottenham-Brighton,ENG-EPL,22-23,b3ad7bd4
+dad4b285,Joël Veltman,34,NED,RB,31-083,84,0,0,0,0,1,0,0,0,58,3,0,0,0.0,0.0,0.0,2,0,47,52,90.4,7,28,1,0,0,Brighton & Hove Albion,2023-04-08 Tottenham-Brighton,ENG-EPL,22-23,b3ad7bd4
+9cfbad36,Julio Enciso,20,PAR,RB,19-075,6,0,0,0,0,1,0,0,0,5,1,0,0,0.1,0.1,0.0,0,0,3,3,100.0,0,1,0,0,0,Brighton & Hove Albion,2023-04-08 Tottenham-Brighton,ENG-EPL,22-23,b3ad7bd4
+28300a16,Jason Steele,23,ENG,GK,32-233,90,0,0,0,0,0,0,0,0,36,0,0,0,0.0,0.0,0.0,0,0,32,35,91.4,0,25,0,0,0,Brighton & Hove Albion,2023-04-08 Tottenham-Brighton,ENG-EPL,22-23,b3ad7bd4

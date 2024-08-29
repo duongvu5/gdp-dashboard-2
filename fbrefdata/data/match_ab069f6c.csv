@@ -1,0 +1,29 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+73d9bdc7,Peter Crouch,25,ENG,FW,37-095,66,0,0,0,0,0,0,0,0,38,0,0,0,0.0,0.0,0.1,1,0,19,32,59.4,3,24,0,1,0,Stoke City,2018-05-05 Stoke City-Crystal Palace,ENG-EPL,17-18,ab069f6c
+98be0d02,Ramadan Sobhi,32,EGY,"WB,LW",21-102,24,0,0,0,0,0,0,0,0,15,1,0,0,0.0,0.0,0.0,2,0,1,9,11.1,0,7,2,4,3,Stoke City,2018-05-05 Stoke City-Crystal Palace,ENG-EPL,17-18,ab069f6c
+7f4f3e49,Mame Biram Diouf,18,SEN,FW,30-140,90,0,0,0,0,2,1,0,0,28,1,0,2,0.1,0.1,0.0,0,0,6,18,33.3,0,15,0,1,0,Stoke City,2018-05-05 Stoke City-Crystal Palace,ENG-EPL,17-18,ab069f6c
+cfe6238d,Moritz Bauer,2,AUT,"LM,WB,RW",26-100,90,0,0,0,0,0,0,1,0,26,2,0,0,0.0,0.0,0.1,2,0,9,19,47.4,1,14,3,1,1,Stoke City,2018-05-05 Stoke City-Crystal Palace,ENG-EPL,17-18,ab069f6c
+960acc0a,Badou Ndiaye,27,SEN,"CM,DM",27-190,90,0,0,0,0,0,0,1,0,36,3,0,1,0.0,0.0,0.0,0,0,20,29,69.0,6,15,0,0,0,Stoke City,2018-05-05 Stoke City-Crystal Palace,ENG-EPL,17-18,ab069f6c
+9feb8f24,Joe Allen,4,WAL,"CM,DM",28-052,90,0,0,0,0,1,0,0,0,46,4,1,2,0.2,0.2,0.0,1,0,24,29,82.8,1,23,1,0,0,Stoke City,2018-05-05 Stoke City-Crystal Palace,ENG-EPL,17-18,ab069f6c
+6421ec64,Xherdan Shaqiri,22,SUI,"RM,AM",26-207,90,1,0,0,0,1,1,1,0,36,2,0,0,0.1,0.1,0.3,4,1,19,25,76.0,6,22,1,3,2,Stoke City,2018-05-05 Stoke City-Crystal Palace,ENG-EPL,17-18,ab069f6c
+1ef37668,Erik Pieters,3,NED,"LB,CB",29-271,90,0,0,0,0,0,0,1,0,50,3,1,3,0.0,0.0,0.0,1,0,28,40,70.0,5,23,0,0,0,Stoke City,2018-05-05 Stoke City-Crystal Palace,ENG-EPL,17-18,ab069f6c
+ce4246f5,Kurt Zouma,6,FRA,CB,23-190,90,0,0,0,0,1,0,0,0,41,0,2,2,0.0,0.0,0.0,1,0,26,31,83.9,1,19,1,1,1,Stoke City,2018-05-05 Stoke City-Crystal Palace,ENG-EPL,17-18,ab069f6c
+285a3d44,Ryan Shawcross,17,ENG,CB,30-213,90,0,0,0,0,2,0,0,0,42,0,3,1,0.1,0.1,0.0,0,0,14,21,66.7,2,8,0,0,0,Stoke City,2018-05-05 Stoke City-Crystal Palace,ENG-EPL,17-18,ab069f6c
+8cceca90,Glen Johnson,8,ENG,RB,33-255,76,0,0,0,0,0,0,1,0,31,1,1,2,0.0,0.0,0.0,0,0,14,23,60.9,3,15,0,1,1,Stoke City,2018-05-05 Stoke City-Crystal Palace,ENG-EPL,17-18,ab069f6c
+38aefb74,Tyrese Campbell,40,ENG,FW,18-128,14,0,0,0,0,0,0,0,0,5,1,0,0,0.0,0.0,0.0,0,0,1,5,20.0,1,3,0,0,0,Stoke City,2018-05-05 Stoke City-Crystal Palace,ENG-EPL,17-18,ab069f6c
+cc70a1d5,Jack Butland,1,ENG,GK,25-056,90,0,0,0,0,0,0,0,0,37,0,0,0,0.0,0.0,0.0,1,0,22,37,59.5,0,12,0,0,0,Stoke City,2018-05-05 Stoke City-Crystal Palace,ENG-EPL,17-18,ab069f6c
+b2bc3b1f,Wilfried Zaha,11,CIV,FW,25-176,90,0,0,0,0,3,0,0,0,41,0,0,0,0.2,0.2,0.2,9,1,25,32,78.1,10,37,5,5,4,Crystal Palace,2018-05-05 Stoke City-Crystal Palace,ENG-EPL,17-18,ab069f6c
+b28bbd58,Andros Townsend,10,ENG,"FW,RM",26-293,87,0,0,0,0,1,0,0,0,44,0,0,0,0.0,0.0,0.1,4,0,29,41,70.7,0,35,10,2,2,Crystal Palace,2018-05-05 Stoke City-Crystal Palace,ENG-EPL,17-18,ab069f6c
+3312f911,Jeffrey Schlupp,15,GHA,LM,25-133,3,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,0,0,Crystal Palace,2018-05-05 Stoke City-Crystal Palace,ENG-EPL,17-18,ab069f6c
+e97fd090,Ruben Loftus-Cheek,8,ENG,"LM,RM",22-102,90,0,1,0,0,2,0,0,0,59,0,4,1,0.1,0.1,0.4,4,1,30,39,76.9,8,37,2,8,6,Crystal Palace,2018-05-05 Stoke City-Crystal Palace,ENG-EPL,17-18,ab069f6c
+2ce2508a,Luka Milivojević,4,SRB,CM,27-028,90,0,0,0,0,2,0,1,0,78,2,1,3,0.1,0.1,0.0,2,0,51,65,78.5,5,34,0,3,2,Crystal Palace,2018-05-05 Stoke City-Crystal Palace,ENG-EPL,17-18,ab069f6c
+ad7b19ef,Yohan Cabaye,7,FRA,CM,32-111,62,0,0,0,0,1,0,0,0,37,1,1,1,0.0,0.0,0.0,2,0,25,33,75.8,2,21,0,0,0,Crystal Palace,2018-05-05 Stoke City-Crystal Palace,ENG-EPL,17-18,ab069f6c
+ab070c55,Christian Benteke,17,BEL,FW,27-153,28,0,0,0,0,1,0,0,0,15,0,0,0,0.1,0.1,0.0,0,0,5,8,62.5,2,10,2,3,1,Crystal Palace,2018-05-05 Stoke City-Crystal Palace,ENG-EPL,17-18,ab069f6c
+cee31595,James McArthur,18,SCO,"RM,CM",30-210,90,1,0,0,0,1,1,0,0,47,1,0,0,0.4,0.4,0.0,3,0,29,38,76.3,5,30,1,2,1,Crystal Palace,2018-05-05 Stoke City-Crystal Palace,ENG-EPL,17-18,ab069f6c
+5f09991f,Patrick van Aanholt,3,NED,LB,27-249,90,1,0,0,0,2,1,0,0,67,0,1,0,0.3,0.3,0.0,0,0,41,58,70.7,0,28,2,2,2,Crystal Palace,2018-05-05 Stoke City-Crystal Palace,ENG-EPL,17-18,ab069f6c
+87935cf3,Mamadou Sakho,12,FRA,CB,28-081,90,0,0,0,0,0,0,0,0,60,1,2,0,0.0,0.0,0.0,0,0,38,48,79.2,5,32,0,0,0,Crystal Palace,2018-05-05 Stoke City-Crystal Palace,ENG-EPL,17-18,ab069f6c
+e7ca0439,James Tomkins,5,ENG,CB,29-037,90,0,0,0,0,0,0,1,0,39,0,1,0,0.0,0.0,0.0,0,0,21,25,84.0,0,12,0,0,0,Crystal Palace,2018-05-05 Stoke City-Crystal Palace,ENG-EPL,17-18,ab069f6c
+8a7ff278,Joel Ward,2,ENG,RB,28-188,39,0,0,0,0,0,0,0,0,19,0,0,1,0.0,0.0,0.0,0,0,14,17,82.4,4,7,0,0,0,Crystal Palace,2018-05-05 Stoke City-Crystal Palace,ENG-EPL,17-18,ab069f6c
+d7492450,Martin Kelly,34,ENG,RB,28-008,51,0,0,0,0,0,0,0,0,32,2,1,2,0.0,0.0,0.0,0,0,17,25,68.0,1,13,2,0,0,Crystal Palace,2018-05-05 Stoke City-Crystal Palace,ENG-EPL,17-18,ab069f6c
+76eca7e2,Wayne Hennessey,13,WAL,GK,31-101,90,0,0,0,0,0,0,0,0,25,0,0,0,0.0,0.0,0.0,0,0,11,24,45.8,0,12,0,0,0,Crystal Palace,2018-05-05 Stoke City-Crystal Palace,ENG-EPL,17-18,ab069f6c

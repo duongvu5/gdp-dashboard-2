@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+b66315ae,Gabriel Jesus,33,BRA,FW,21-218,90,3,0,2,2,4,2,0,0,27,0,1,1,2.2,0.6,0.1,4,1,13,16,81.3,3,17,1,0,0,Manchester City,2018-11-07 Manchester City-Shakhtar,UCL,18-19,c7df13a4
+b400bde0,Raheem Sterling,7,ENG,LW,23-334,90,1,0,0,0,1,1,0,0,57,1,0,0,0.1,0.1,0.5,7,3,37,48,77.1,4,40,7,3,2,Manchester City,2018-11-07 Manchester City-Shakhtar,UCL,18-19,c7df13a4
+892d5bb1,Riyad Mahrez,26,ALG,RW,27-259,90,1,2,0,0,3,1,0,0,84,1,1,1,0.2,0.2,0.8,5,3,60,75,80.0,8,71,6,2,1,Manchester City,2018-11-07 Manchester City-Shakhtar,UCL,18-19,c7df13a4
+e2716bd0,David Silva,21,ESP,LM,32-303,72,1,0,0,0,2,1,0,0,68,0,0,1,0.8,0.8,0.0,2,1,45,62,72.6,6,49,4,3,3,Manchester City,2018-11-07 Manchester City-Shakhtar,UCL,18-19,c7df13a4
+819b3158,İlkay Gündoğan,8,GER,LM,28-014,18,0,1,0,0,0,0,0,0,13,0,0,0,0.0,0.0,0.1,1,1,13,13,100.0,1,5,0,0,0,Manchester City,2018-11-07 Manchester City-Shakhtar,UCL,18-19,c7df13a4
+101da2b5,Fernandinho,25,BRA,CM,33-187,75,0,0,0,0,0,0,0,0,55,2,2,1,0.0,0.0,0.0,3,1,47,49,95.9,9,36,1,1,1,Manchester City,2018-11-07 Manchester City-Shakhtar,UCL,18-19,c7df13a4
+111c3236,Fabian Delph,18,ENG,CM,28-351,15,0,0,0,0,0,0,0,0,17,0,0,1,0.0,0.0,0.0,0,0,13,14,92.9,0,13,0,1,0,Manchester City,2018-11-07 Manchester City-Shakhtar,UCL,18-19,c7df13a4
+3eb22ec9,Bernardo Silva,20,POR,RM,24-089,90,0,0,0,0,2,1,0,0,59,2,0,1,0.1,0.1,0.0,4,2,46,51,90.2,5,45,2,3,2,Manchester City,2018-11-07 Manchester City-Shakhtar,UCL,18-19,c7df13a4
+51cf8561,Oleksandr Zinchenko,35,UKR,LB,21-327,90,0,0,0,0,1,0,0,0,113,2,2,1,0.0,0.0,0.1,1,0,98,104,94.2,15,75,1,1,1,Manchester City,2018-11-07 Manchester City-Shakhtar,UCL,18-19,c7df13a4
+119b9a8e,Aymeric Laporte,14,ESP,CB,24-164,90,0,0,0,0,0,0,0,0,99,0,0,2,0.0,0.0,0.0,0,0,90,95,94.7,9,77,0,0,0,Manchester City,2018-11-07 Manchester City-Shakhtar,UCL,18-19,c7df13a4
+5eecec3d,John Stones,5,ENG,CB,24-163,90,0,0,0,0,0,0,0,0,126,1,3,0,0.0,0.0,0.0,0,0,118,122,96.7,6,108,0,1,1,Manchester City,2018-11-07 Manchester City-Shakhtar,UCL,18-19,c7df13a4
+86dd77d1,Kyle Walker,2,ENG,RB,28-163,60,0,0,0,0,0,0,0,0,73,0,1,1,0.0,0.0,0.0,0,0,65,71,91.5,1,51,0,0,0,Manchester City,2018-11-07 Manchester City-Shakhtar,UCL,18-19,c7df13a4
+94b2001f,Danilo,3,BRA,RB,27-115,30,0,0,0,0,0,0,0,0,31,0,0,1,0.0,0.0,0.0,0,0,27,28,96.4,3,25,1,0,0,Manchester City,2018-11-07 Manchester City-Shakhtar,UCL,18-19,c7df13a4
+3bb7b8b4,Ederson,31,BRA,GK,25-082,90,0,0,0,0,0,0,0,0,21,0,0,0,0.0,0.0,0.0,0,0,20,20,100.0,0,13,0,0,0,Manchester City,2018-11-07 Manchester City-Shakhtar,UCL,18-19,c7df13a4
+c43e5e7e,Júnior Moraes,10,UKR,FW,31-217,62,0,0,0,0,1,1,0,0,16,0,1,1,0.1,0.1,0.0,0,0,11,13,84.6,1,11,0,0,0,Shakhtar Donetsk,2018-11-07 Manchester City-Shakhtar,UCL,18-19,c7df13a4
+d3272fba,Olarenwaju Kayode,8,NGA,FW,25-183,28,0,0,0,0,1,0,0,0,13,1,2,0,0.0,0.0,0.0,0,0,6,8,75.0,0,5,0,0,0,Shakhtar Donetsk,2018-11-07 Manchester City-Shakhtar,UCL,18-19,c7df13a4
+24b98f95,Serhiy Bolbat,50,UKR,LW,25-147,90,0,0,0,0,1,0,0,0,27,1,0,0,0.1,0.1,0.0,2,0,20,24,83.3,0,21,2,1,0,Shakhtar Donetsk,2018-11-07 Manchester City-Shakhtar,UCL,18-19,c7df13a4
+9d60028d,Viktor Kovalenko,74,UKR,"RW,AM",22-266,90,0,0,0,0,1,0,0,0,44,0,1,0,0.0,0.0,0.1,1,0,35,40,87.5,1,31,3,0,0,Shakhtar Donetsk,2018-11-07 Manchester City-Shakhtar,UCL,18-19,c7df13a4
+7272a72a,Taison,7,BRA,AM,30-298,76,0,0,0,0,1,0,0,0,50,1,0,0,0.0,0.0,0.0,2,0,36,41,87.8,7,44,8,1,1,Shakhtar Donetsk,2018-11-07 Manchester City-Shakhtar,UCL,18-19,c7df13a4
+3984a078,Wellington Nem,23,BRA,"RW,AM",26-274,14,0,0,0,0,0,0,0,0,9,1,0,0,0.0,0.0,0.0,0,0,7,8,87.5,0,7,0,0,0,Shakhtar Donetsk,2018-11-07 Manchester City-Shakhtar,UCL,18-19,c7df13a4
+ee3519f5,Taras Stepanenko,6,UKR,DM,29-091,90,0,0,0,0,0,0,0,0,54,2,4,1,0.0,0.0,0.0,1,0,41,47,87.2,1,29,1,0,0,Shakhtar Donetsk,2018-11-07 Manchester City-Shakhtar,UCL,18-19,c7df13a4
+005ca692,Maycon,27,BRA,DM,21-115,76,0,0,0,0,0,0,0,0,44,1,4,1,0.0,0.0,0.0,1,0,36,40,90.0,3,27,0,0,0,Shakhtar Donetsk,2018-11-07 Manchester City-Shakhtar,UCL,18-19,c7df13a4
+00672021,Alan Patrick,21,BRA,DM,27-178,14,0,0,0,0,0,0,0,0,10,0,1,0,0.0,0.0,0.0,2,0,10,10,100.0,2,11,0,0,0,Shakhtar Donetsk,2018-11-07 Manchester City-Shakhtar,UCL,18-19,c7df13a4
+cf182add,Ismaily,31,BRA,LB,28-300,90,0,0,0,0,0,0,0,0,47,1,1,2,0.0,0.0,0.0,0,0,31,39,79.5,1,33,1,2,1,Shakhtar Donetsk,2018-11-07 Manchester City-Shakhtar,UCL,18-19,c7df13a4
+47fd5136,Yaroslav Rakitskiy,44,UKR,CB,29-096,90,0,0,0,0,1,1,0,0,56,0,1,1,0.1,0.1,0.1,2,0,36,49,73.5,0,33,0,0,0,Shakhtar Donetsk,2018-11-07 Manchester City-Shakhtar,UCL,18-19,c7df13a4
+292a652a,Serhiy Kryvtsov,4,UKR,CB,27-237,90,0,0,0,0,0,0,0,0,69,0,2,2,0.0,0.0,0.0,1,0,48,60,80.0,1,47,0,1,1,Shakhtar Donetsk,2018-11-07 Manchester City-Shakhtar,UCL,18-19,c7df13a4
+1adcf39e,Mykola Matviyenko,22,UKR,RB,22-189,90,0,0,0,0,2,0,0,0,75,1,3,1,0.1,0.1,0.1,4,0,52,61,85.2,2,48,2,3,2,Shakhtar Donetsk,2018-11-07 Manchester City-Shakhtar,UCL,18-19,c7df13a4
+34c3b935,Andriy Pyatov,30,UKR,GK,34-132,90,0,0,0,0,0,0,0,0,37,0,0,0,0.0,0.0,0.0,0,0,25,35,71.4,0,22,0,0,0,Shakhtar Donetsk,2018-11-07 Manchester City-Shakhtar,UCL,18-19,c7df13a4

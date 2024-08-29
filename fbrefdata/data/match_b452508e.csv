@@ -1,0 +1,31 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+8b529245,Carlos Vinícius,30,BRA,FW,27-336,90,0,0,0,0,2,2,0,0,32,0,0,0,0.2,0.2,0.0,0,0,9,20,45.0,1,18,0,0,0,Fulham,2023-02-24 Fulham-Wolves,ENG-EPL,22-23,b452508e
+8b9ebd03,Willian,20,BRA,LW,34-199,82,0,0,0,0,0,0,0,0,33,1,1,0,0.0,0.0,0.0,4,0,13,21,61.9,0,22,2,6,1,Fulham,2023-02-24 Fulham-Wolves,ENG-EPL,22-23,b452508e
+c6dc9ecd,Harry Wilson,8,WAL,LW,25-339,8,0,0,0,0,0,0,0,0,6,0,1,0,0.0,0.0,0.0,1,0,3,5,60.0,1,6,0,1,1,Fulham,2023-02-24 Fulham-Wolves,ENG-EPL,22-23,b452508e
+0f7533cd,Bobby Reid,14,JAM,RW,30-022,45,0,0,0,0,0,0,0,0,26,1,1,0,0.0,0.0,0.1,3,0,15,22,68.2,0,14,2,3,2,Fulham,2023-02-24 Fulham-Wolves,ENG-EPL,22-23,b452508e
+886f9aac,Manor Solomon,11,ISR,RW,23-215,45,1,0,0,0,1,1,0,0,26,1,1,0,0.0,0.0,0.0,1,0,16,20,80.0,2,19,3,2,1,Fulham,2023-02-24 Fulham-Wolves,ENG-EPL,22-23,b452508e
+6639e500,Andreas Pereira,18,BRA,AM,27-054,90,0,0,0,0,2,1,1,0,37,1,0,1,0.1,0.1,0.0,3,0,18,30,60.0,7,22,1,1,1,Fulham,2023-02-24 Fulham-Wolves,ENG-EPL,22-23,b452508e
+a78ff07f,João Palhinha,26,POR,DM,27-230,90,0,0,0,0,2,1,1,0,56,3,1,1,0.0,0.0,0.0,1,0,40,45,88.9,6,25,0,0,0,Fulham,2023-02-24 Fulham-Wolves,ENG-EPL,22-23,b452508e
+803ae100,Harrison Reed,6,ENG,DM,28-028,45,0,0,0,0,0,0,0,0,36,3,0,1,0.0,0.0,0.0,1,0,29,31,93.5,4,17,1,0,0,Fulham,2023-02-24 Fulham-Wolves,ENG-EPL,22-23,b452508e
+c6e8cf1f,Saša Lukić,28,SRB,DM,26-195,45,0,0,0,0,1,0,0,0,34,2,1,0,0.0,0.0,0.0,2,1,27,29,93.1,2,18,1,2,2,Fulham,2023-02-24 Fulham-Wolves,ENG-EPL,22-23,b452508e
+289601e6,Antonee Robinson,33,USA,LB,25-200,90,0,1,0,0,0,0,0,0,68,2,2,1,0.0,0.0,0.0,1,1,44,58,75.9,3,31,2,0,0,Fulham,2023-02-24 Fulham-Wolves,ENG-EPL,22-23,b452508e
+28b40c9c,Tim Ream,13,USA,CB,35-142,90,0,0,0,0,0,0,0,0,81,0,2,1,0.0,0.0,0.0,0,0,63,70,90.0,9,38,1,1,1,Fulham,2023-02-24 Fulham-Wolves,ENG-EPL,22-23,b452508e
+a712ca2b,Issa Diop,31,FRA,CB,26-046,90,0,0,0,0,0,0,0,0,61,2,4,1,0.0,0.0,0.0,0,0,43,51,84.3,2,29,0,0,0,Fulham,2023-02-24 Fulham-Wolves,ENG-EPL,22-23,b452508e
+77d7c96f,Kenny Tete,2,NED,RB,27-138,90,0,0,0,0,2,0,0,0,80,4,0,3,0.1,0.1,0.2,2,0,47,64,73.4,4,29,3,0,0,Fulham,2023-02-24 Fulham-Wolves,ENG-EPL,22-23,b452508e
+2628fd2b,Bernd Leno,17,GER,GK,30-357,90,0,0,0,0,0,0,0,0,40,0,0,0,0.0,0.0,0.0,0,0,27,39,69.2,0,15,0,0,0,Fulham,2023-02-24 Fulham-Wolves,ENG-EPL,22-23,b452508e
+dc62b55d,Matheus Cunha,12,BRA,FW,23-273,59,0,0,0,0,1,0,0,0,23,3,1,2,0.0,0.0,0.0,1,0,8,13,61.5,1,11,1,1,0,Wolverhampton Wanderers,2023-02-24 Fulham-Wolves,ENG-EPL,22-23,b452508e
+9a28eba4,Adama Traoré,37,ESP,"RW,FW",27-030,31,0,0,0,0,0,0,0,0,15,1,1,0,0.0,0.0,0.0,0,0,8,11,72.7,0,8,0,2,1,Wolverhampton Wanderers,2023-02-24 Fulham-Wolves,ENG-EPL,22-23,b452508e
+b561db50,Raúl Jiménez,9,MEX,FW,31-295,83,0,1,0,0,1,0,0,0,36,2,0,0,0.1,0.1,0.2,3,1,19,28,67.9,2,19,0,2,1,Wolverhampton Wanderers,2023-02-24 Fulham-Wolves,ENG-EPL,22-23,b452508e
+a190d597,Diego Costa,29,ESP,FW,34-140,7,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,1,0,0,0,Wolverhampton Wanderers,2023-02-24 Fulham-Wolves,ENG-EPL,22-23,b452508e
+e6af02e0,Matheus Nunes,27,POR,LM,24-181,75,0,0,0,0,0,0,0,0,39,1,1,1,0.0,0.0,0.1,3,1,22,28,78.6,3,21,0,2,0,Wolverhampton Wanderers,2023-02-24 Fulham-Wolves,ENG-EPL,22-23,b452508e
+7fcc71d8,Daniel Podence,10,POR,LW,27-126,15,0,0,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.0,0,0,5,9,55.6,1,6,0,0,0,Wolverhampton Wanderers,2023-02-24 Fulham-Wolves,ENG-EPL,22-23,b452508e
+2b471f99,Mario Lemina,5,GAB,CM,29-176,90,0,0,0,0,1,0,0,0,54,2,1,0,0.0,0.0,0.0,0,0,39,46,84.8,4,28,2,1,1,Wolverhampton Wanderers,2023-02-24 Fulham-Wolves,ENG-EPL,22-23,b452508e
+44bfb6c5,Rúben Neves,8,POR,"CM,RM",25-348,90,0,0,0,0,1,0,0,0,71,2,0,2,0.1,0.1,0.2,3,0,49,62,79.0,7,31,0,2,2,Wolverhampton Wanderers,2023-02-24 Fulham-Wolves,ENG-EPL,22-23,b452508e
+9744ff80,Pablo Sarabia,21,ESP,RM,30-289,75,1,0,0,0,2,2,0,0,38,3,0,1,0.3,0.3,0.1,3,0,23,27,85.2,4,20,1,0,0,Wolverhampton Wanderers,2023-02-24 Fulham-Wolves,ENG-EPL,22-23,b452508e
+f5a00fa4,João Moutinho,28,POR,LM,36-169,15,0,0,0,0,0,0,0,0,12,0,0,0,0.0,0.0,0.0,0,0,9,10,90.0,1,2,0,0,0,Wolverhampton Wanderers,2023-02-24 Fulham-Wolves,ENG-EPL,22-23,b452508e
+bfc3b3a0,Hugo Bueno,64,ESP,LB,20-159,90,0,0,0,0,0,0,0,0,68,1,1,1,0.0,0.0,0.0,1,0,45,61,73.8,3,25,5,6,3,Wolverhampton Wanderers,2023-02-24 Fulham-Wolves,ENG-EPL,22-23,b452508e
+d0f72bf1,Max Kilman,23,ENG,CB,25-277,90,0,0,0,0,1,0,0,0,41,0,1,1,0.2,0.2,0.0,0,0,23,35,65.7,2,22,1,3,3,Wolverhampton Wanderers,2023-02-24 Fulham-Wolves,ENG-EPL,22-23,b452508e
+3e9e06cb,Craig Dawson,15,ENG,CB,32-294,90,0,0,0,0,1,0,0,0,74,1,2,2,0.1,0.1,0.0,0,0,50,67,74.6,0,35,0,0,0,Wolverhampton Wanderers,2023-02-24 Fulham-Wolves,ENG-EPL,22-23,b452508e
+d04b94db,Nélson Semedo,22,POR,RB,29-100,90,0,0,0,0,0,0,0,0,72,3,2,0,0.0,0.0,0.2,1,0,48,55,87.3,3,28,0,7,4,Wolverhampton Wanderers,2023-02-24 Fulham-Wolves,ENG-EPL,22-23,b452508e
+903b6e8b,José Sá,1,POR,GK,30-038,90,0,0,0,0,0,0,0,0,34,0,0,0,0.0,0.0,0.0,0,0,20,31,64.5,0,19,0,0,0,Wolverhampton Wanderers,2023-02-24 Fulham-Wolves,ENG-EPL,22-23,b452508e

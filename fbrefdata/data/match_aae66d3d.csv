@@ -1,0 +1,32 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+21a66f6a,Harry Kane,10,ENG,FW,29-206,90,0,1,0,0,3,0,0,0,43,0,0,0,0.2,0.2,0.7,4,1,18,27,66.7,5,34,0,3,2,Tottenham Hotspur,2023-02-19 Tottenham-West Ham,ENG-EPL,22-23,aae66d3d
+fa031b34,Richarlison,9,BRA,AM,25-285,67,0,0,0,0,2,2,0,0,22,3,0,0,0.3,0.3,0.0,2,0,9,14,64.3,1,13,2,1,0,Tottenham Hotspur,2023-02-19 Tottenham-West Ham,ENG-EPL,22-23,aae66d3d
+92e7e919,Son Heung-min,7,KOR,AM,30-226,23,1,0,0,0,1,1,0,0,12,0,0,1,0.5,0.5,0.1,2,0,8,9,88.9,2,11,3,1,1,Tottenham Hotspur,2023-02-19 Tottenham-West Ham,ENG-EPL,22-23,aae66d3d
+df3cda47,Dejan Kulusevski,21,SWE,AM,22-300,89,0,0,0,0,2,1,0,0,57,4,0,1,0.1,0.1,0.2,6,0,32,44,72.7,2,43,5,2,0,Tottenham Hotspur,2023-02-19 Tottenham-West Ham,ENG-EPL,22-23,aae66d3d
+2b622f01,Lucas Moura,27,BRA,AM,30-190,1,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,1,1,0,0,0,Tottenham Hotspur,2023-02-19 Tottenham-West Ham,ENG-EPL,22-23,aae66d3d
+8b04d6c1,Pierre Højbjerg,5,DEN,CM,27-198,90,0,0,0,0,2,1,0,0,93,1,0,0,0.1,0.1,0.0,1,1,76,81,93.8,9,64,0,0,0,Tottenham Hotspur,2023-02-19 Tottenham-West Ham,ENG-EPL,22-23,aae66d3d
+6250083a,Oliver Skipp,4,ENG,CM,22-156,89,0,0,0,0,1,0,1,0,69,4,1,2,0.1,0.1,0.0,3,0,49,56,87.5,6,47,2,2,1,Tottenham Hotspur,2023-02-19 Tottenham-West Ham,ENG-EPL,22-23,aae66d3d
+feb5d972,Pape Matar Sarr,29,SEN,CM,20-158,1,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,3,3,100.0,0,2,0,0,0,Tottenham Hotspur,2023-02-19 Tottenham-West Ham,ENG-EPL,22-23,aae66d3d
+44781702,Ben Davies,33,WAL,"WB,CB",29-301,90,0,1,0,0,1,0,0,0,52,0,0,2,0.0,0.0,0.3,2,1,24,38,63.2,2,23,2,1,0,Tottenham Hotspur,2023-02-19 Tottenham-West Ham,ENG-EPL,22-23,aae66d3d
+df8b52a5,Emerson,12,BRA,WB,24-036,90,1,0,0,0,2,1,0,0,64,2,0,3,0.3,0.3,0.1,3,0,45,50,90.0,6,43,4,2,0,Tottenham Hotspur,2023-02-19 Tottenham-West Ham,ENG-EPL,22-23,aae66d3d
+4f28a6ff,Clément Lenglet,34,FRA,CB,27-247,77,0,0,0,0,1,0,0,0,80,0,1,1,0.0,0.0,0.0,0,0,56,75,74.7,5,60,1,0,0,Tottenham Hotspur,2023-02-19 Tottenham-West Ham,ENG-EPL,22-23,aae66d3d
+6fe90922,Ivan Perišić,14,CRO,WB,34-017,13,0,0,0,0,0,0,1,0,9,1,0,0,0.0,0.0,0.0,0,0,5,6,83.3,1,5,0,0,0,Tottenham Hotspur,2023-02-19 Tottenham-West Ham,ENG-EPL,22-23,aae66d3d
+ac861941,Eric Dier,15,ENG,CB,29-035,90,0,0,0,0,0,0,0,0,89,1,2,1,0.0,0.0,0.0,1,0,70,80,87.5,4,61,1,0,0,Tottenham Hotspur,2023-02-19 Tottenham-West Ham,ENG-EPL,22-23,aae66d3d
+a3d94a58,Cristian Romero,17,ARG,CB,24-298,90,0,0,0,0,1,0,0,0,87,3,4,1,0.0,0.0,0.0,2,0,63,71,88.7,8,57,2,2,1,Tottenham Hotspur,2023-02-19 Tottenham-West Ham,ENG-EPL,22-23,aae66d3d
+c3e39f12,Fraser Forster,20,ENG,GK,34-339,90,0,0,0,0,0,0,0,0,26,0,0,0,0.0,0.0,0.0,0,0,19,25,76.0,0,15,0,0,0,Tottenham Hotspur,2023-02-19 Tottenham-West Ham,ENG-EPL,22-23,aae66d3d
+ac05f970,Michail Antonio,9,JAM,FW,32-328,71,0,0,0,0,0,0,1,0,24,1,0,0,0.0,0.0,0.1,0,0,9,15,60.0,1,15,1,1,1,West Ham United,2023-02-19 Tottenham-West Ham,ENG-EPL,22-23,aae66d3d
+07802f7f,Danny Ings,18,ENG,FW,30-211,19,0,0,0,0,1,0,0,0,5,1,0,0,0.1,0.1,0.0,0,0,2,2,100.0,0,1,0,0,0,West Ham United,2023-02-19 Tottenham-West Ham,ENG-EPL,22-23,aae66d3d
+79c84d1c,Jarrod Bowen,20,ENG,"AM,RW",26-061,90,0,0,0,0,2,1,0,0,31,1,1,2,0.1,0.1,0.2,4,0,12,19,63.2,1,18,3,4,2,West Ham United,2023-02-19 Tottenham-West Ham,ENG-EPL,22-23,aae66d3d
+69fdb896,Flynn Downes,12,ENG,AM,24-030,71,0,0,0,0,0,0,0,0,26,1,0,0,0.0,0.0,0.0,0,0,20,23,87.0,0,11,0,0,0,West Ham United,2023-02-19 Tottenham-West Ham,ENG-EPL,22-23,aae66d3d
+5a04fd92,Saïd Benrahma,22,ALG,"LW,AM",27-193,19,0,0,0,0,2,0,0,0,13,0,0,0,0.2,0.2,0.0,0,0,7,8,87.5,3,9,1,2,0,West Ham United,2023-02-19 Tottenham-West Ham,ENG-EPL,22-23,aae66d3d
+1c7012b8,Declan Rice,41,ENG,"CM,DM",24-036,90,0,0,0,0,0,0,0,0,84,0,2,1,0.0,0.0,0.0,0,0,65,76,85.5,8,41,5,5,3,West Ham United,2023-02-19 Tottenham-West Ham,ENG-EPL,22-23,aae66d3d
+6613c819,Tomáš Souček,28,CZE,"CM,DM",27-357,90,0,0,0,0,1,0,0,0,48,3,4,3,0.1,0.1,0.1,2,0,23,34,67.6,5,14,1,1,0,West Ham United,2023-02-19 Tottenham-West Ham,ENG-EPL,22-23,aae66d3d
+e0bc6fdc,Emerson Palmieri,33,ITA,WB,28-200,80,0,0,0,0,0,0,0,0,45,0,1,0,0.0,0.0,0.0,0,0,31,37,83.8,1,21,0,2,1,West Ham United,2023-02-19 Tottenham-West Ham,ENG-EPL,22-23,aae66d3d
+82927de4,Pablo Fornals,8,ESP,AM,26-362,10,0,0,0,0,0,0,0,0,14,3,0,0,0.0,0.0,0.0,0,0,6,10,60.0,0,2,0,0,0,West Ham United,2023-02-19 Tottenham-West Ham,ENG-EPL,22-23,aae66d3d
+fdf3cb77,Vladimír Coufal,5,CZE,"WB,RB",30-181,90,0,0,0,0,0,0,0,0,77,3,1,1,0.0,0.0,0.0,1,0,35,69,50.7,8,38,3,2,1,West Ham United,2023-02-19 Tottenham-West Ham,ENG-EPL,22-23,aae66d3d
+288e1e13,Nayef Aguerd,27,MAR,CB,26-326,90,0,0,0,0,0,0,0,0,52,0,2,1,0.0,0.0,0.0,1,0,31,45,68.9,4,23,0,1,1,West Ham United,2023-02-19 Tottenham-West Ham,ENG-EPL,22-23,aae66d3d
+74b2cd7e,Angelo Ogbonna,21,ITA,CB,34-272,80,0,0,0,0,0,0,0,0,32,1,1,1,0.0,0.0,0.0,1,0,21,25,84.0,1,13,0,0,0,West Ham United,2023-02-19 Tottenham-West Ham,ENG-EPL,22-23,aae66d3d
+9319781b,Ben Johnson,2,ENG,LB,23-026,10,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,0,0,7,9,77.8,0,10,0,0,0,West Ham United,2023-02-19 Tottenham-West Ham,ENG-EPL,22-23,aae66d3d
+51dbeea9,Thilo Kehrer,24,GER,CB,26-151,90,0,0,0,0,0,0,0,0,61,4,1,2,0.0,0.0,0.0,0,0,42,49,85.7,0,22,0,1,1,West Ham United,2023-02-19 Tottenham-West Ham,ENG-EPL,22-23,aae66d3d
+9328b835,Łukasz Fabiański,1,POL,GK,37-307,90,0,0,0,0,0,0,0,0,27,0,0,0,0.0,0.0,0.0,0,0,10,24,41.7,0,10,0,0,0,West Ham United,2023-02-19 Tottenham-West Ham,ENG-EPL,22-23,aae66d3d
