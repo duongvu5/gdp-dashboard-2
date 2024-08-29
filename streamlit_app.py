@@ -665,7 +665,7 @@ def main():
         
         if os.path.isdir(source_item):
             if os.path.exists(dest_item):
-                shutil.rmtree(dest_item)
+                shutil.rmtree(dest_item, ignore_errors=True)
             shutil.copytree(source_item, dest_item, dirs_exist_ok=True)
         else:
             shutil.copy2(source_item, dest_item)
