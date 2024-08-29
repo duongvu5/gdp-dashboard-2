@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+4e9a0555,Chris Wood,11,NZL,"FW,RW",25-311,90,1,0,0,0,2,2,1,0,27,0,0,1,0.4,0.4,0.1,4,0,16,20,80.0,2,18,0,1,0,Burnley,2017-10-14 Burnley-West Ham,ENG-EPL,17-18,1cf63700
+989d5705,Jeff Hendrick,13,IRL,FW,25-256,45,0,0,0,0,1,0,0,0,32,0,0,0,0.0,0.0,0.0,1,0,21,26,80.8,0,25,0,2,1,Burnley,2017-10-14 Burnley-West Ham,ENG-EPL,17-18,1cf63700
+1d6ac165,Sam Vokes,9,WAL,FW,27-358,45,0,0,0,0,1,0,0,0,17,0,0,0,0.1,0.1,0.0,2,0,3,10,30.0,0,5,0,0,0,Burnley,2017-10-14 Burnley-West Ham,ENG-EPL,17-18,1cf63700
+b1313ec4,Scott Arfield,37,CAN,LM,28-347,45,0,0,0,0,2,1,0,0,18,0,1,0,0.1,0.1,0.0,2,0,8,13,61.5,1,14,0,1,1,Burnley,2017-10-14 Burnley-West Ham,ENG-EPL,17-18,1cf63700
+f72293fc,Jóhann Berg Guðmundsson,17,ISL,RM,26-352,45,0,1,0,0,3,0,0,0,23,0,0,0,0.1,0.1,0.3,3,1,16,20,80.0,3,13,1,0,0,Burnley,2017-10-14 Burnley-West Ham,ENG-EPL,17-18,1cf63700
+73489527,Steven Defour,16,BEL,"CM,LM",29-182,90,0,0,0,0,4,1,1,0,84,0,1,0,0.2,0.2,0.2,8,1,62,74,83.8,16,63,7,3,2,Burnley,2017-10-14 Burnley-West Ham,ENG-EPL,17-18,1cf63700
+74e12f1e,Jack Cork,4,ENG,CM,28-111,90,0,0,0,0,2,0,0,0,75,2,0,0,0.1,0.1,0.0,3,0,58,69,84.1,8,44,4,2,2,Burnley,2017-10-14 Burnley-West Ham,ENG-EPL,17-18,1cf63700
+96bb8cc2,Robbie Brady,12,IRL,"RM,LM,LB",25-273,90,0,0,0,0,3,0,0,0,66,4,0,2,0.1,0.1,0.1,8,0,39,54,72.2,10,39,4,3,3,Burnley,2017-10-14 Burnley-West Ham,ENG-EPL,17-18,1cf63700
+3831b9fe,Stephen Ward,23,IRL,LB,32-055,80,0,0,0,0,0,0,0,0,72,2,1,1,0.0,0.0,0.0,0,0,50,62,80.6,2,37,3,0,0,Burnley,2017-10-14 Burnley-West Ham,ENG-EPL,17-18,1cf63700
+2691c772,Ashley Barnes,10,ENG,LW,27-349,10,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,2,4,50.0,0,1,1,0,0,Burnley,2017-10-14 Burnley-West Ham,ENG-EPL,17-18,1cf63700
+8df7a2fb,Ben Mee,6,ENG,CB,28-023,90,0,0,0,0,1,0,0,0,57,3,1,0,0.1,0.1,0.0,1,0,38,47,80.9,4,29,0,0,0,Burnley,2017-10-14 Burnley-West Ham,ENG-EPL,17-18,1cf63700
+15ea812b,James Tarkowski,5,ENG,CB,24-329,90,0,0,0,0,0,0,0,0,53,1,2,1,0.0,0.0,0.1,4,0,36,45,80.0,5,27,1,0,0,Burnley,2017-10-14 Burnley-West Ham,ENG-EPL,17-18,1cf63700
+9a9c05db,Matthew Lowton,2,ENG,RB,28-127,90,0,0,0,0,1,1,0,0,39,0,0,0,0.0,0.0,0.0,1,0,25,35,71.4,4,18,2,0,0,Burnley,2017-10-14 Burnley-West Ham,ENG-EPL,17-18,1cf63700
+4b40d9ca,Nick Pope,29,ENG,GK,25-178,90,0,0,0,0,0,0,0,0,31,0,0,0,0.0,0.0,0.0,0,0,20,30,66.7,0,19,0,0,0,Burnley,2017-10-14 Burnley-West Ham,ENG-EPL,17-18,1cf63700
+189cee7b,Javier Hernández,17,MEX,FW,29-135,74,0,0,0,0,0,0,0,0,25,0,1,0,0.0,0.0,0.1,3,0,17,21,81.0,5,18,1,1,0,West Ham United,2017-10-14 Burnley-West Ham,ENG-EPL,17-18,1cf63700
+57c433c8,Diafra Sakho,15,SEN,FW,27-294,16,0,0,0,0,0,0,0,0,11,1,0,0,0.0,0.0,0.0,0,0,3,6,50.0,0,5,0,1,0,West Ham United,2017-10-14 Burnley-West Ham,ENG-EPL,17-18,1cf63700
+b581987a,Andy Carroll,9,ENG,FW,28-281,26,0,0,0,0,0,0,2,1,9,0,0,0,0.0,0.0,0.0,0,0,2,6,33.3,0,3,0,1,0,West Ham United,2017-10-14 Burnley-West Ham,ENG-EPL,17-18,1cf63700
+00459419,Marko Arnautović,7,AUT,LM,28-178,45,0,0,0,0,0,0,0,0,13,1,0,0,0.0,0.0,0.0,1,0,6,10,60.0,2,7,1,0,0,West Ham United,2017-10-14 Burnley-West Ham,ENG-EPL,17-18,1cf63700
+ba1e04b3,Pedro Obiang,14,EQG,"CM,LM",25-201,45,0,0,0,0,2,1,1,0,29,2,0,1,0.1,0.1,0.0,2,0,15,22,68.2,3,13,1,2,2,West Ham United,2017-10-14 Burnley-West Ham,ENG-EPL,17-18,1cf63700
+8d3c902d,Cheikhou Kouyaté,8,SEN,CM,27-297,90,0,0,0,0,0,0,0,0,35,2,1,1,0.0,0.0,0.0,0,0,19,26,73.1,0,9,0,1,1,West Ham United,2017-10-14 Burnley-West Ham,ENG-EPL,17-18,1cf63700
+26f6dca8,Manuel Lanzini,10,ARG,"CM,LM",24-241,87,0,0,0,0,2,1,0,0,45,0,2,1,0.1,0.1,0.1,4,0,29,35,82.9,2,26,2,1,0,West Ham United,2017-10-14 Burnley-West Ham,ENG-EPL,17-18,1cf63700
+57df7a11,Arthur Masuaku,26,COD,LM,23-341,3,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,1,0,0,0,West Ham United,2017-10-14 Burnley-West Ham,ENG-EPL,17-18,1cf63700
+ac05f970,Michail Antonio,30,JAM,RM,27-200,90,1,0,0,0,4,4,0,0,43,0,1,0,0.8,0.8,0.0,1,1,15,25,60.0,2,26,2,6,3,West Ham United,2017-10-14 Burnley-West Ham,ENG-EPL,17-18,1cf63700
+4f974391,Aaron Cresswell,3,ENG,LB,27-303,90,0,0,0,0,0,0,0,0,39,0,1,0,0.0,0.0,0.0,1,0,19,33,57.6,3,17,1,0,0,West Ham United,2017-10-14 Burnley-West Ham,ENG-EPL,17-18,1cf63700
+562eed5c,Winston Reid,2,NZL,CB,29-103,90,0,0,0,0,0,0,1,0,39,0,2,0,0.0,0.0,0.0,0,0,23,28,82.1,3,19,0,0,0,West Ham United,2017-10-14 Burnley-West Ham,ENG-EPL,17-18,1cf63700
+90f87966,José Fonte,4,POR,CB,33-296,90,0,0,0,0,0,0,0,0,42,1,3,3,0.0,0.0,0.0,0,0,16,23,69.6,0,11,0,0,0,West Ham United,2017-10-14 Burnley-West Ham,ENG-EPL,17-18,1cf63700
+6813ac34,Pablo Zabaleta,5,ARG,RB,32-271,90,0,0,0,0,0,0,0,0,46,1,2,2,0.0,0.0,0.0,0,0,21,32,65.6,3,9,0,0,0,West Ham United,2017-10-14 Burnley-West Ham,ENG-EPL,17-18,1cf63700
+cb4f24c6,Joe Hart,25,ENG,GK,30-178,90,0,1,0,0,0,0,0,0,50,1,0,0,0.0,0.0,0.7,1,1,18,48,37.5,0,17,0,0,0,West Ham United,2017-10-14 Burnley-West Ham,ENG-EPL,17-18,1cf63700

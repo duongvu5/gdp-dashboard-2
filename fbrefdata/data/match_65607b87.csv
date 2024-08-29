@@ -1,0 +1,28 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+9dbb75ca,Alexandre Lacazette,9,FRA,FW,26-237,90,1,0,0,0,5,3,0,0,49,3,0,1,0.8,0.8,0.1,4,0,30,35,85.7,1,28,1,2,1,Arsenal,2018-01-20 Arsenal-Crystal Palace,ENG-EPL,17-18,65607b87
+6ca5ec4b,Alex Iwobi,17,NGA,LM,21-262,81,1,0,0,0,4,4,0,0,77,2,1,1,1.0,1.0,0.0,2,1,53,64,82.8,8,49,5,1,1,Arsenal,2018-01-20 Arsenal-Crystal Palace,ENG-EPL,17-18,65607b87
+3935e52e,Sead Kolašinac,31,BIH,LM,24-214,9,0,0,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.0,1,0,8,10,80.0,1,9,1,0,0,Arsenal,2018-01-20 Arsenal-Crystal Palace,ENG-EPL,17-18,65607b87
+e61b8aee,Granit Xhaka,29,SUI,CM,25-115,90,0,1,0,0,2,0,0,0,92,2,0,1,0.1,0.1,0.2,7,2,68,85,80.0,8,57,2,0,0,Arsenal,2018-01-20 Arsenal-Crystal Palace,ENG-EPL,17-18,65607b87
+9c318325,Jack Wilshere,10,ENG,CM,26-019,90,0,0,0,0,0,0,0,0,73,0,0,0,0.0,0.0,0.5,2,0,55,67,82.1,10,57,2,5,4,Arsenal,2018-01-20 Arsenal-Crystal Palace,ENG-EPL,17-18,65607b87
+16380240,Mesut Özil,11,GER,RM,29-097,71,0,1,0,0,1,0,0,0,65,0,0,2,0.0,0.0,0.5,6,2,48,58,82.8,9,36,4,2,2,Arsenal,2018-01-20 Arsenal-Crystal Palace,ENG-EPL,17-18,65607b87
+c5bdb6e3,Reiss Nelson,61,ENG,CM,18-041,19,0,0,0,0,0,0,0,0,19,3,0,1,0.0,0.0,0.0,0,0,12,12,100.0,0,13,0,1,0,Arsenal,2018-01-20 Arsenal-Crystal Palace,ENG-EPL,17-18,65607b87
+47a34c4f,Mohamed Elneny,35,EGY,DM,25-193,90,0,0,0,0,1,1,0,0,105,1,1,1,0.0,0.0,0.0,0,0,94,98,95.9,5,80,0,1,1,Arsenal,2018-01-20 Arsenal-Crystal Palace,ENG-EPL,17-18,65607b87
+d4cb83cc,Nacho Monreal,18,ESP,LB,31-328,33,1,2,0,0,1,1,0,0,37,1,0,0,0.2,0.2,1.4,3,2,30,33,90.9,5,18,0,0,0,Arsenal,2018-01-20 Arsenal-Crystal Palace,ENG-EPL,17-18,65607b87
+e3a5814e,Ainsley Maitland-Niles,30,ENG,LB,20-144,57,0,0,0,0,0,0,0,0,44,2,2,0,0.0,0.0,0.0,0,0,39,41,95.1,0,25,0,0,0,Arsenal,2018-01-20 Arsenal-Crystal Palace,ENG-EPL,17-18,65607b87
+3f2d59fe,Shkodran Mustafi,20,GER,CB,25-278,90,0,0,0,0,0,0,0,0,91,2,1,0,0.0,0.0,0.0,0,0,69,77,89.6,2,55,0,0,0,Arsenal,2018-01-20 Arsenal-Crystal Palace,ENG-EPL,17-18,65607b87
+f5efb153,Laurent Koscielny,6,FRA,CB,32-132,90,1,0,0,0,1,1,0,0,97,2,3,2,0.8,0.8,0.0,0,0,68,78,87.2,4,61,0,0,0,Arsenal,2018-01-20 Arsenal-Crystal Palace,ENG-EPL,17-18,65607b87
+f874dd44,Héctor Bellerín,24,ESP,RB,22-307,90,0,0,0,0,1,0,0,0,80,1,1,2,0.0,0.0,0.1,5,0,59,65,90.8,4,52,6,4,4,Arsenal,2018-01-20 Arsenal-Crystal Palace,ENG-EPL,17-18,65607b87
+71672fa0,Petr Čech,33,CZE,GK,35-245,90,0,0,0,0,0,0,0,0,35,0,0,0,0.0,0.0,0.0,0,0,28,32,87.5,0,17,0,0,0,Arsenal,2018-01-20 Arsenal-Crystal Palace,ENG-EPL,17-18,65607b87
+381d7d54,Bakary Sako,26,MLI,FW,29-269,90,0,0,0,0,2,1,0,0,38,2,1,0,0.1,0.1,0.2,2,0,20,30,66.7,0,23,7,2,0,Crystal Palace,2018-01-20 Arsenal-Crystal Palace,ENG-EPL,17-18,65607b87
+ab070c55,Christian Benteke,17,BEL,FW,27-048,90,0,1,0,0,1,1,0,0,41,0,1,1,0.2,0.2,0.3,4,1,21,32,65.6,2,10,0,0,0,Crystal Palace,2018-01-20 Arsenal-Crystal Palace,ENG-EPL,17-18,65607b87
+cee31595,James McArthur,18,SCO,LM,30-105,90,0,0,0,0,0,0,0,0,48,1,3,2,0.0,0.0,0.1,2,0,37,40,92.5,3,26,0,0,0,Crystal Palace,2018-01-20 Arsenal-Crystal Palace,ENG-EPL,17-18,65607b87
+2ce2508a,Luka Milivojević,4,SRB,CM,26-288,90,1,0,0,0,1,1,0,0,67,0,4,0,0.1,0.1,0.0,1,0,51,60,85.0,8,40,1,1,0,Crystal Palace,2018-01-20 Arsenal-Crystal Palace,ENG-EPL,17-18,65607b87
+ad7b19ef,Yohan Cabaye,7,FRA,CM,32-006,89,0,0,0,0,0,0,0,0,79,5,3,3,0.0,0.0,0.0,4,1,52,66,78.8,6,28,1,0,0,Crystal Palace,2018-01-20 Arsenal-Crystal Palace,ENG-EPL,17-18,65607b87
+7a1f2c08,Jaïro Riedewald,44,NED,FW,21-133,1,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,3,3,100.0,0,1,0,0,0,Crystal Palace,2018-01-20 Arsenal-Crystal Palace,ENG-EPL,17-18,65607b87
+b2bc3b1f,Wilfried Zaha,11,CIV,RM,25-071,90,0,0,0,0,1,1,0,0,51,1,1,2,0.0,0.0,0.0,0,0,22,30,73.3,3,42,5,6,2,Crystal Palace,2018-01-20 Arsenal-Crystal Palace,ENG-EPL,17-18,65607b87
+5f09991f,Patrick van Aanholt,3,NED,LB,27-144,90,0,0,0,0,1,0,0,0,67,1,1,1,0.0,0.0,0.0,0,0,47,60,78.3,8,41,1,0,0,Crystal Palace,2018-01-20 Arsenal-Crystal Palace,ENG-EPL,17-18,65607b87
+e7ca0439,James Tomkins,5,ENG,CB,28-297,90,0,0,0,0,1,0,0,0,53,4,7,3,0.0,0.0,0.0,0,0,33,35,94.3,2,16,0,0,0,Crystal Palace,2018-01-20 Arsenal-Crystal Palace,ENG-EPL,17-18,65607b87
+d7492450,Martin Kelly,34,ENG,CB,27-268,90,0,0,0,0,1,1,0,0,44,0,1,2,0.2,0.2,0.0,1,0,29,33,87.9,3,21,0,0,0,Crystal Palace,2018-01-20 Arsenal-Crystal Palace,ENG-EPL,17-18,65607b87
+a9142dc3,Timothy Fosu-Mensah,24,NED,RB,20-018,90,0,0,0,0,1,0,0,0,60,1,4,1,0.0,0.0,0.0,0,0,28,43,65.1,3,20,2,1,1,Crystal Palace,2018-01-20 Arsenal-Crystal Palace,ENG-EPL,17-18,65607b87
+76eca7e2,Wayne Hennessey,13,WAL,GK,30-361,90,0,0,0,0,0,0,0,0,23,0,0,0,0.0,0.0,0.0,1,0,11,18,61.1,0,7,0,0,0,Crystal Palace,2018-01-20 Arsenal-Crystal Palace,ENG-EPL,17-18,65607b87

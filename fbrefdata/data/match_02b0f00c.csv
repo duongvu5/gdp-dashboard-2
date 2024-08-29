@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+82e34b69,Troy Deeney,9,ENG,FW,29-247,90,1,0,0,0,1,1,0,0,38,1,1,1,0.3,0.3,0.0,1,0,15,28,53.6,5,19,0,0,0,Watford,2018-03-03 Watford-West Brom,ENG-EPL,17-18,02b0f00c
+fa031b34,Richarlison,11,BRA,LW,20-297,53,0,0,0,0,2,0,0,0,26,2,0,1,0.2,0.2,0.0,2,0,8,12,66.7,0,15,3,2,0,Watford,2018-03-03 Watford-West Brom,ENG-EPL,17-18,02b0f00c
+601ef102,Stefano Okaka,33,ITA,FW,28-206,37,0,0,0,0,1,0,0,0,19,0,0,0,0.1,0.1,0.0,1,0,12,16,75.0,1,15,0,2,1,Watford,2018-03-03 Watford-West Brom,ENG-EPL,17-18,02b0f00c
+7527558b,André Carrillo,28,PER,"RW,RM",26-262,65,0,0,0,0,2,0,0,0,35,1,0,1,0.1,0.1,0.1,4,0,19,27,70.4,3,21,1,1,1,Watford,2018-03-03 Watford-West Brom,ENG-EPL,17-18,02b0f00c
+a0666d3e,Will Hughes,19,ENG,RM,22-320,25,0,1,0,0,1,1,0,0,11,1,0,0,0.0,0.0,0.3,2,2,5,8,62.5,2,9,1,1,1,Watford,2018-03-03 Watford-West Brom,ENG-EPL,17-18,02b0f00c
+75f2c59f,Roberto Pereyra,37,ARG,"AM,LM",27-055,90,0,0,0,0,2,0,0,0,43,0,0,1,0.1,0.1,0.3,2,0,24,30,80.0,2,27,3,4,2,Watford,2018-03-03 Watford-West Brom,ENG-EPL,17-18,02b0f00c
+5acc4a10,Étienne Capoue,29,FRA,"DM,CM",29-235,90,0,0,0,0,0,0,1,0,73,0,1,1,0.0,0.0,0.0,1,0,51,64,79.7,3,35,1,6,5,Watford,2018-03-03 Watford-West Brom,ENG-EPL,17-18,02b0f00c
+02b29014,Abdoulaye Doucouré,16,MLI,"DM,CM",25-061,90,0,0,0,0,1,0,0,0,70,2,0,2,0.0,0.0,0.1,2,0,44,61,72.1,9,41,3,2,2,Watford,2018-03-03 Watford-West Brom,ENG-EPL,17-18,02b0f00c
+12aa7661,José Holebas,25,GRE,LB,33-249,89,0,0,0,0,1,0,0,0,80,1,3,0,0.0,0.0,0.3,5,0,38,64,59.4,2,28,0,2,0,Watford,2018-03-03 Watford-West Brom,ENG-EPL,17-18,02b0f00c
+356a9a62,Miguel Britos,3,URU,LB,32-229,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Watford,2018-03-03 Watford-West Brom,ENG-EPL,17-18,02b0f00c
+8aa5f52c,Adrian Mariappa,6,JAM,CB,31-151,90,0,0,0,0,1,0,1,0,55,3,1,1,0.1,0.1,0.0,1,0,33,39,84.6,5,28,0,0,0,Watford,2018-03-03 Watford-West Brom,ENG-EPL,17-18,02b0f00c
+f5e6d08d,Sebastian Prödl,5,AUT,CB,30-255,90,0,0,0,0,1,0,0,0,45,1,2,1,0.1,0.1,0.0,0,0,25,35,71.4,3,17,0,0,0,Watford,2018-03-03 Watford-West Brom,ENG-EPL,17-18,02b0f00c
+45da6694,Daryl Janmaat,2,NED,RB,28-224,90,0,0,0,0,2,1,0,0,44,0,0,1,0.3,0.3,0.0,2,0,21,35,60.0,2,20,1,0,0,Watford,2018-03-03 Watford-West Brom,ENG-EPL,17-18,02b0f00c
+85b011bb,Orestis Karnezis,30,GRE,GK,32-235,90,0,0,0,0,0,0,0,0,40,0,0,0,0.0,0.0,0.0,0,0,15,36,41.7,0,21,0,0,0,Watford,2018-03-03 Watford-West Brom,ENG-EPL,17-18,02b0f00c
+b318a643,Salomón Rondón,9,VEN,FW,28-168,90,0,0,0,0,5,2,0,0,39,0,1,1,0.7,0.7,0.0,2,0,11,24,45.8,0,24,2,1,1,West Bromwich Albion,2018-03-03 Watford-West Brom,ENG-EPL,17-18,02b0f00c
+4ab53cdb,Jay Rodriguez,19,ENG,"LW,FW",28-217,86,0,0,0,0,2,0,0,0,32,2,1,1,0.2,0.2,0.3,2,0,12,16,75.0,1,18,1,3,2,West Bromwich Albion,2018-03-03 Watford-West Brom,ENG-EPL,17-18,02b0f00c
+f631c17f,Oliver Burke,17,SCO,AM,20-330,4,0,0,0,0,0,0,0,0,5,1,0,0,0.0,0.0,0.0,0,0,3,4,75.0,0,2,0,0,0,West Bromwich Albion,2018-03-03 Watford-West Brom,ENG-EPL,17-18,02b0f00c
+7bb5f40e,Matt Phillips,10,SCO,"RW,RM",26-355,90,0,0,0,0,0,0,0,0,42,1,2,2,0.0,0.0,0.3,4,0,17,30,56.7,2,23,7,2,1,West Bromwich Albion,2018-03-03 Watford-West Brom,ENG-EPL,17-18,02b0f00c
+ec7e6ad1,Chris Brunt,11,NIR,"LM,DM,CM",33-079,90,0,0,0,0,1,0,0,0,56,2,1,3,0.1,0.1,0.0,1,0,27,45,60.0,4,22,0,2,2,West Bromwich Albion,2018-03-03 Watford-West Brom,ENG-EPL,17-18,02b0f00c
+b98570d1,Jake Livermore,8,ENG,CM,28-109,86,0,0,0,0,0,0,0,0,47,3,1,1,0.0,0.0,0.0,1,0,30,38,78.9,4,26,0,1,0,West Bromwich Albion,2018-03-03 Watford-West Brom,ENG-EPL,17-18,02b0f00c
+bd8a7d05,Sam Field,28,ENG,DM,19-299,4,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,2,0,0,0,West Bromwich Albion,2018-03-03 Watford-West Brom,ENG-EPL,17-18,02b0f00c
+580d52dd,Grzegorz Krychowiak,20,POL,RM,28-033,80,0,0,0,0,1,0,0,0,50,2,0,1,0.1,0.1,0.0,3,0,32,43,74.4,8,23,0,0,0,West Bromwich Albion,2018-03-03 Watford-West Brom,ENG-EPL,17-18,02b0f00c
+53538b39,James McClean,14,IRL,"LW,LM",28-315,10,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,0,3,0.0,0,2,1,0,0,West Bromwich Albion,2018-03-03 Watford-West Brom,ENG-EPL,17-18,02b0f00c
+46ee5234,Kieran Gibbs,3,ENG,LB,28-158,90,0,0,0,0,0,0,0,0,45,0,2,2,0.0,0.0,0.3,1,0,25,39,64.1,2,17,2,0,0,West Bromwich Albion,2018-03-03 Watford-West Brom,ENG-EPL,17-18,02b0f00c
+f8fcd2a5,Jonny Evans,6,NIR,CB,30-059,90,0,0,0,0,0,0,0,0,56,1,2,0,0.0,0.0,0.0,0,0,27,38,71.1,0,23,1,0,0,West Bromwich Albion,2018-03-03 Watford-West Brom,ENG-EPL,17-18,02b0f00c
+5540c9dc,Ahmed Hegazi,26,EGY,CB,27-037,90,0,0,0,0,0,0,0,0,44,2,1,0,0.0,0.0,0.0,0,0,15,31,48.4,1,18,0,0,0,West Bromwich Albion,2018-03-03 Watford-West Brom,ENG-EPL,17-18,02b0f00c
+3e9e06cb,Craig Dawson,25,ENG,RB,27-301,90,0,0,0,0,0,0,0,0,78,3,3,2,0.0,0.0,0.0,0,0,42,61,68.9,4,20,0,1,1,West Bromwich Albion,2018-03-03 Watford-West Brom,ENG-EPL,17-18,02b0f00c
+d0b3ceb9,Ben Foster,1,ENG,GK,34-334,90,0,0,0,0,0,0,0,0,34,0,0,0,0.0,0.0,0.0,0,0,17,32,53.1,0,14,0,0,0,West Bromwich Albion,2018-03-03 Watford-West Brom,ENG-EPL,17-18,02b0f00c

@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+ffec9769,Islam Slimani,19,ALG,FW,29-197,90,1,0,0,0,2,2,0,0,63,0,0,1,0.5,0.5,0.0,3,2,35,49,71.4,3,43,4,5,3,Leicester City,2018-01-01 Leicester City-Huddersfield,ENG-EPL,17-18,55099119
+68796d61,Shinji Okazaki,20,JPN,FW,31-260,90,0,0,0,0,1,0,0,0,43,0,0,1,0.1,0.1,0.0,2,1,28,31,90.3,0,28,1,7,4,Leicester City,2018-01-01 Leicester City-Huddersfield,ENG-EPL,17-18,55099119
+b827d5b3,Marc Albrighton,11,ENG,LM,28-044,90,1,1,0,0,1,1,0,0,56,1,2,1,0.5,0.5,0.2,5,1,24,41,58.5,4,36,4,9,2,Leicester City,2018-01-01 Leicester City-Huddersfield,ENG-EPL,17-18,55099119
+ebd0a048,Matty James,22,ENG,CM,26-163,85,0,0,0,0,0,0,0,0,59,1,0,2,0.0,0.0,0.0,0,0,48,55,87.3,3,32,0,1,1,Leicester City,2018-01-01 Leicester City-Huddersfield,ENG-EPL,17-18,55099119
+d6f88a1d,Adrien Silva,14,POR,CM,28-292,5,0,0,0,0,0,0,0,0,8,1,0,0,0.0,0.0,0.0,0,0,6,6,100.0,1,5,0,0,0,Leicester City,2018-01-01 Leicester City-Huddersfield,ENG-EPL,17-18,55099119
+6b47c5db,Wilfred Ndidi,25,NGA,CM,21-016,90,0,0,0,0,2,0,0,0,72,4,0,1,0.1,0.1,0.0,1,0,52,59,88.1,10,40,3,1,0,Leicester City,2018-01-01 Leicester City-Huddersfield,ENG-EPL,17-18,55099119
+892d5bb1,Riyad Mahrez,26,ALG,RM,26-314,76,1,1,0,0,1,1,0,0,54,2,1,1,0.1,0.1,0.5,2,1,36,48,75.0,8,34,3,6,4,Leicester City,2018-01-01 Leicester City-Huddersfield,ENG-EPL,17-18,55099119
+4468ec10,Demarai Gray,7,JAM,RM,21-187,14,0,0,0,0,1,1,0,0,14,0,0,0,0.0,0.0,0.1,1,0,7,12,58.3,0,8,0,1,0,Leicester City,2018-01-01 Leicester City-Huddersfield,ENG-EPL,17-18,55099119
+a67a09fb,Christian Fuchs,28,AUT,LB,31-269,90,0,0,0,0,2,0,0,0,80,2,3,2,0.0,0.0,0.2,4,1,54,70,77.1,1,31,1,0,0,Leicester City,2018-01-01 Leicester City-Huddersfield,ENG-EPL,17-18,55099119
+d8931174,Harry Maguire,15,ENG,CB,24-302,90,0,0,0,0,1,0,0,0,56,3,0,1,0.0,0.0,0.0,0,0,32,42,76.2,2,23,0,2,2,Leicester City,2018-01-01 Leicester City-Huddersfield,ENG-EPL,17-18,55099119
+80c31c97,Wes Morgan,5,JAM,CB,33-345,27,0,0,0,0,0,0,1,0,12,0,0,0,0.0,0.0,0.0,0,0,8,10,80.0,1,4,0,0,0,Leicester City,2018-01-01 Leicester City-Huddersfield,ENG-EPL,17-18,55099119
+6fd8a334,Aleksandar Dragović,16,AUT,CB,26-301,63,0,0,0,0,0,0,0,0,27,0,2,1,0.0,0.0,0.0,0,0,17,20,85.0,0,14,0,0,0,Leicester City,2018-01-01 Leicester City-Huddersfield,ENG-EPL,17-18,55099119
+1a4ef233,Daniel Amartey,18,GHA,RB,23-011,90,0,0,0,0,0,0,0,0,69,0,0,1,0.0,0.0,0.0,0,0,49,60,81.7,2,29,0,0,0,Leicester City,2018-01-01 Leicester City-Huddersfield,ENG-EPL,17-18,55099119
+53af52f3,Kasper Schmeichel,1,DEN,GK,31-057,90,0,0,0,0,0,0,0,0,37,0,0,0,0.0,0.0,0.0,0,0,24,37,64.9,0,18,0,0,0,Leicester City,2018-01-01 Leicester City-Huddersfield,ENG-EPL,17-18,55099119
+19ba6c6d,Steve Mounié,24,BEN,FW,23-094,90,0,0,0,0,0,0,0,0,39,0,2,1,0.0,0.0,0.1,2,0,19,30,63.3,3,17,0,0,0,Huddersfield Town,2018-01-01 Leicester City-Huddersfield,ENG-EPL,17-18,55099119
+c5f13182,Joe Lolley,18,ENG,LW,25-129,58,0,0,0,0,0,0,0,0,27,0,1,0,0.0,0.0,0.0,0,0,14,18,77.8,3,18,0,2,0,Huddersfield Town,2018-01-01 Leicester City-Huddersfield,ENG-EPL,17-18,55099119
+19b8b0b9,Collin Quaner,23,GER,"RW,WB",26-197,32,0,0,0,0,1,0,0,0,12,2,0,0,0.0,0.0,0.0,1,0,7,8,87.5,0,8,1,0,0,Huddersfield Town,2018-01-01 Leicester City-Huddersfield,ENG-EPL,17-18,55099119
+1931bde9,Rajiv van La Parra,17,NED,"RW,LW,WB,AM",26-211,90,0,0,0,0,0,0,0,0,53,3,0,1,0.0,0.0,0.0,1,0,31,44,70.5,5,33,5,6,6,Huddersfield Town,2018-01-01 Leicester City-Huddersfield,ENG-EPL,17-18,55099119
+67d23ab0,Tom Ince,22,ENG,"AM,WB",25-336,90,0,0,0,0,1,0,0,0,57,1,0,1,0.0,0.0,0.0,4,0,36,45,80.0,4,28,2,3,1,Huddersfield Town,2018-01-01 Leicester City-Huddersfield,ENG-EPL,17-18,55099119
+47b7e3af,Aaron Mooy,10,AUS,"DM,CM",27-108,90,0,0,0,0,1,0,0,0,69,5,1,2,0.0,0.0,0.0,1,0,46,58,79.3,7,28,1,2,2,Huddersfield Town,2018-01-01 Leicester City-Huddersfield,ENG-EPL,17-18,55099119
+ec9a28ce,Danny Williams,19,USA,"DM,CM",28-299,90,0,0,0,0,1,0,0,0,61,2,3,0,0.1,0.1,0.0,0,0,44,47,93.6,2,35,0,1,1,Huddersfield Town,2018-01-01 Leicester City-Huddersfield,ENG-EPL,17-18,55099119
+c6896eab,Chris Löwe,15,GER,LB,28-260,75,0,0,0,0,1,1,0,0,65,6,0,0,0.0,0.0,0.0,0,0,36,54,66.7,4,24,3,0,0,Huddersfield Town,2018-01-01 Leicester City-Huddersfield,ENG-EPL,17-18,55099119
+f15a50e8,Scott Malone,3,ENG,"CB,LB",26-282,15,0,0,0,0,0,0,1,0,11,1,1,2,0.0,0.0,0.0,0,0,4,5,80.0,0,2,1,0,0,Huddersfield Town,2018-01-01 Leicester City-Huddersfield,ENG-EPL,17-18,55099119
+8ae9869d,Christopher Schindler,26,GER,CB,27-247,90,0,0,0,0,0,0,0,0,75,3,7,0,0.0,0.0,0.0,0,0,44,53,83.0,4,28,0,1,1,Huddersfield Town,2018-01-01 Leicester City-Huddersfield,ENG-EPL,17-18,55099119
+0db5d2c8,Mathias Jørgensen,25,DEN,CB,27-253,90,0,0,0,0,1,0,0,0,57,1,1,0,0.1,0.1,0.0,0,0,31,39,79.5,4,20,0,0,0,Huddersfield Town,2018-01-01 Leicester City-Huddersfield,ENG-EPL,17-18,55099119
+e9208654,Tommy Smith,2,ENG,RB,25-262,81,0,0,0,0,0,0,0,0,64,5,0,2,0.0,0.0,0.1,3,0,43,53,81.1,5,22,2,0,0,Huddersfield Town,2018-01-01 Leicester City-Huddersfield,ENG-EPL,17-18,55099119
+aa5859cb,Laurent Depoitre,20,BEL,"FW,RB",29-025,9,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,1,0,0,0,Huddersfield Town,2018-01-01 Leicester City-Huddersfield,ENG-EPL,17-18,55099119
+939bc634,Jonas Lössl,1,DEN,GK,28-334,90,0,0,0,0,0,0,0,0,41,0,0,0,0.0,0.0,0.0,0,0,30,41,73.2,0,23,0,0,0,Huddersfield Town,2018-01-01 Leicester City-Huddersfield,ENG-EPL,17-18,55099119

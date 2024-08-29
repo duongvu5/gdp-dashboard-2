@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+9dbb75ca,Alexandre Lacazette,9,FRA,FW,26-188,90,1,0,0,0,7,4,0,0,54,2,0,2,3.0,3.0,0.1,10,0,21,36,58.3,1,36,1,5,4,Arsenal,2017-12-02 Arsenal-Manchester Utd,ENG-EPL,17-18,baa538cc
+2c0f8e9e,Alexis Sánchez,7,CHI,"LW,AM",28-348,90,0,0,0,0,5,2,1,0,84,0,0,0,1.0,1.0,0.3,12,1,47,73,64.4,15,62,6,0,0,Arsenal,2017-12-02 Arsenal-Manchester Utd,ENG-EPL,17-18,baa538cc
+16380240,Mesut Özil,11,GER,"AM,CM",29-048,90,0,0,0,0,3,1,0,0,123,0,0,0,0.2,0.2,0.3,10,0,98,118,83.1,27,97,13,4,2,Arsenal,2017-12-02 Arsenal-Manchester Utd,ENG-EPL,17-18,baa538cc
+e61b8aee,Granit Xhaka,29,SUI,"DM,CM",25-066,69,0,0,0,0,2,0,0,0,68,5,0,2,0.1,0.1,0.8,3,0,54,61,88.5,12,45,1,0,0,Arsenal,2017-12-02 Arsenal-Manchester Utd,ENG-EPL,17-18,baa538cc
+ce5143da,Danny Welbeck,23,ENG,"WB,RW",27-006,21,0,0,0,0,2,1,0,0,18,0,0,0,0.1,0.1,0.0,2,0,15,16,93.8,3,14,0,1,1,Arsenal,2017-12-02 Arsenal-Manchester Utd,ENG-EPL,17-18,baa538cc
+ef619b0b,Aaron Ramsey,8,WAL,"DM,CM",26-341,90,0,1,0,0,5,1,0,0,88,1,1,0,0.3,0.3,0.8,6,1,71,82,86.6,8,68,8,1,1,Arsenal,2017-12-02 Arsenal-Manchester Utd,ENG-EPL,17-18,baa538cc
+3935e52e,Sead Kolašinac,31,BIH,"LB,WB",24-165,75,0,0,0,0,1,1,0,0,58,3,1,0,0.0,0.0,0.0,3,0,41,51,80.4,5,29,0,0,0,Arsenal,2017-12-02 Arsenal-Manchester Utd,ENG-EPL,17-18,baa538cc
+16ceb862,Olivier Giroud,12,FRA,FW,31-063,15,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,1,6,16.7,0,3,0,0,0,Arsenal,2017-12-02 Arsenal-Manchester Utd,ENG-EPL,17-18,baa538cc
+f874dd44,Héctor Bellerín,24,ESP,"RB,CB,WB",22-258,90,0,0,0,0,1,1,1,0,65,1,0,0,0.0,0.0,0.0,3,0,57,61,93.4,7,42,0,0,0,Arsenal,2017-12-02 Arsenal-Manchester Utd,ENG-EPL,17-18,baa538cc
+d4cb83cc,Nacho Monreal,18,ESP,CB,31-279,90,0,0,0,0,1,1,0,0,72,3,1,2,0.0,0.0,0.1,1,0,59,65,90.8,7,51,3,0,0,Arsenal,2017-12-02 Arsenal-Manchester Utd,ENG-EPL,17-18,baa538cc
+3f2d59fe,Shkodran Mustafi,20,GER,CB,25-229,14,0,0,0,0,0,0,0,0,7,0,1,0,0.0,0.0,0.0,0,0,3,6,50.0,0,5,0,0,0,Arsenal,2017-12-02 Arsenal-Manchester Utd,ENG-EPL,17-18,baa538cc
+6ca5ec4b,Alex Iwobi,17,NGA,"RW,WB,DM",21-213,76,0,0,0,0,6,2,0,0,65,1,0,2,0.5,0.5,0.5,8,0,48,55,87.3,10,51,7,1,1,Arsenal,2017-12-02 Arsenal-Manchester Utd,ENG-EPL,17-18,baa538cc
+f5efb153,Laurent Koscielny,6,FRA,CB,32-083,90,0,0,0,0,0,0,1,0,74,2,1,2,0.0,0.0,0.2,2,0,59,64,92.2,5,48,3,0,0,Arsenal,2017-12-02 Arsenal-Manchester Utd,ENG-EPL,17-18,baa538cc
+71672fa0,Petr Čech,33,CZE,GK,35-196,90,0,0,0,0,0,0,0,0,25,0,0,0,0.0,0.0,0.0,0,0,20,23,87.0,0,16,0,0,0,Arsenal,2017-12-02 Arsenal-Manchester Utd,ENG-EPL,17-18,baa538cc
+8b788c01,Anthony Martial,11,FRA,FW,21-362,66,0,1,0,0,1,0,0,0,29,0,1,0,0.2,0.2,0.7,3,1,19,21,90.5,4,22,2,5,2,Manchester United,2017-12-02 Arsenal-Manchester Utd,ENG-EPL,17-18,baa538cc
+436a9dd0,Ander Herrera,21,ESP,RM,28-110,24,0,0,0,0,0,0,1,0,18,1,1,3,0.0,0.0,0.0,0,0,4,9,44.4,0,7,0,0,0,Manchester United,2017-12-02 Arsenal-Manchester Utd,ENG-EPL,17-18,baa538cc
+5eae500a,Romelu Lukaku,9,BEL,FW,24-203,90,0,0,0,0,0,0,0,0,37,0,0,1,0.0,0.0,0.0,2,1,14,25,56.0,2,19,2,3,3,Manchester United,2017-12-02 Arsenal-Manchester Utd,ENG-EPL,17-18,baa538cc
+810e3c74,Jesse Lingard,14,ENG,"AM,LM",24-352,75,2,0,0,0,3,3,0,0,30,3,0,1,1.5,1.5,0.0,2,0,15,18,83.3,1,14,5,0,0,Manchester United,2017-12-02 Arsenal-Manchester Utd,ENG-EPL,17-18,baa538cc
+96e0490d,Matteo Darmian,36,ITA,LB,28-000,15,0,0,0,0,0,0,0,0,2,0,0,1,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Manchester United,2017-12-02 Arsenal-Manchester Utd,ENG-EPL,17-18,baa538cc
+eb7822d7,Nemanja Matić,31,SRB,CM,29-123,90,0,0,0,0,1,0,0,0,49,4,3,3,0.0,0.0,0.0,0,0,18,26,69.2,1,10,0,0,0,Manchester United,2017-12-02 Arsenal-Manchester Utd,ENG-EPL,17-18,baa538cc
+867239d3,Paul Pogba,6,FRA,CM,24-262,73,0,2,0,0,1,0,0,1,35,2,1,1,0.1,0.1,0.9,3,3,18,22,81.8,4,17,4,2,1,Manchester United,2017-12-02 Arsenal-Manchester Utd,ENG-EPL,17-18,baa538cc
+be927d03,Ashley Young,18,ENG,"WB,LM,LB",32-146,89,0,0,0,0,1,0,0,0,44,2,3,3,0.0,0.0,0.1,2,0,16,25,64.0,0,19,3,1,0,Manchester United,2017-12-02 Arsenal-Manchester Utd,ENG-EPL,17-18,baa538cc
+a1d5bd30,Marcus Rashford,19,ENG,LM,20-032,1,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Manchester United,2017-12-02 Arsenal-Manchester Utd,ENG-EPL,17-18,baa538cc
+08aa17d0,Antonio Valencia,25,ECU,"WB,RB",32-120,90,1,0,0,0,1,1,0,0,42,1,1,2,0.1,0.1,0.0,2,1,21,26,80.8,0,15,3,3,1,Manchester United,2017-12-02 Arsenal-Manchester Utd,ENG-EPL,17-18,baa538cc
+e0991c04,Marcos Rojo,5,ARG,CB,27-257,90,0,0,0,0,0,0,1,0,37,0,2,2,0.0,0.0,0.0,0,0,9,17,52.9,0,10,0,0,0,Manchester United,2017-12-02 Arsenal-Manchester Utd,ENG-EPL,17-18,baa538cc
+b6964eb6,Chris Smalling,12,ENG,CB,28-010,90,0,0,0,0,0,0,0,0,24,1,2,0,0.0,0.0,0.0,0,0,7,11,63.6,0,5,0,0,0,Manchester United,2017-12-02 Arsenal-Manchester Utd,ENG-EPL,17-18,baa538cc
+f5deef4c,Victor Lindelöf,2,SWE,CB,23-138,90,0,0,0,0,0,0,0,0,26,1,0,6,0.0,0.0,0.0,0,0,9,11,81.8,0,5,0,0,0,Manchester United,2017-12-02 Arsenal-Manchester Utd,ENG-EPL,17-18,baa538cc
+7ba6d84e,David de Gea,1,ESP,GK,27-025,90,0,0,0,0,0,0,0,0,40,0,0,0,0.0,0.0,0.0,0,0,10,29,34.5,0,6,0,0,0,Manchester United,2017-12-02 Arsenal-Manchester Utd,ENG-EPL,17-18,baa538cc

@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+f63cda26,Gonçalo Ramos,88,POR,FW,21-127,86,0,0,0,0,2,1,0,0,27,4,0,2,0.2,0.2,0.3,2,0,10,13,76.9,1,10,0,2,0,Benfica,2022-10-25 Benfica-Juventus,UCL,22-23,13a5d7c1
+4f1e6a0b,David Neres,7,BRA,AM,25-236,4,0,0,0,0,1,0,0,0,6,0,0,0,0.4,0.4,0.0,0,0,3,3,100.0,0,2,0,1,0,Benfica,2022-10-25 Benfica-Juventus,UCL,22-23,13a5d7c1
+f0677ed7,Fredrik Aursnes,8,NOR,LW,26-319,90,0,0,0,0,1,0,0,0,48,3,0,2,0.2,0.2,0.0,3,1,30,35,85.7,6,22,2,3,1,Benfica,2022-10-25 Benfica-Juventus,UCL,22-23,13a5d7c1
+f0021247,João Mário,20,POR,RW,29-279,89,1,1,1,1,0,0,0,0,41,0,0,0,0.8,0.0,0.8,4,2,31,36,86.1,3,28,3,1,1,Benfica,2022-10-25 Benfica-Juventus,UCL,22-23,13a5d7c1
+262e5a82,Chiquinho,22,POR,RW,27-098,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Benfica,2022-10-25 Benfica-Juventus,UCL,22-23,13a5d7c1
+70cf63ca,Rafa Silva,27,POR,AM,29-161,86,2,0,0,0,6,2,0,0,51,2,0,1,1.5,1.5,0.2,7,1,34,38,89.5,8,29,6,3,2,Benfica,2022-10-25 Benfica-Juventus,UCL,22-23,13a5d7c1
+4567a0b4,Petar Musa,33,CRO,FW,24-235,4,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,1,0,1,2,50.0,1,1,0,0,0,Benfica,2022-10-25 Benfica-Juventus,UCL,22-23,13a5d7c1
+5ff4ab71,Enzo Fernández,13,ARG,DM,21-281,90,0,1,0,0,3,1,1,0,86,3,1,0,0.1,0.1,0.2,3,1,64,75,85.3,7,46,0,1,0,Benfica,2022-10-25 Benfica-Juventus,UCL,22-23,13a5d7c1
+881cd6be,Florentino Luís,61,POR,DM,23-067,90,0,0,0,0,0,0,0,0,47,1,3,0,0.0,0.0,0.0,1,0,36,39,92.3,2,25,0,0,0,Benfica,2022-10-25 Benfica-Juventus,UCL,22-23,13a5d7c1
+b1f4086c,Álex Grimaldo,3,ESP,LB,27-035,90,0,1,0,0,0,0,0,0,88,4,1,0,0.0,0.0,0.3,2,1,66,78,84.6,4,49,1,3,0,Benfica,2022-10-25 Benfica-Juventus,UCL,22-23,13a5d7c1
+0d267745,Nicolás Otamendi,30,ARG,CB,34-255,90,0,0,0,0,0,0,0,0,64,1,1,0,0.0,0.0,0.0,1,0,52,57,91.2,0,44,0,0,0,Benfica,2022-10-25 Benfica-Juventus,UCL,22-23,13a5d7c1
+8f0435c7,António Silva,66,POR,CB,18-360,90,1,0,0,0,1,1,0,0,68,2,3,1,0.1,0.1,0.0,0,0,49,54,90.7,0,42,2,0,0,Benfica,2022-10-25 Benfica-Juventus,UCL,22-23,13a5d7c1
+78f21137,Alexander Bah,6,DEN,RB,24-320,80,0,0,0,0,0,0,0,0,75,0,7,2,0.0,0.0,0.4,3,0,46,62,74.2,1,30,1,4,2,Benfica,2022-10-25 Benfica-Juventus,UCL,22-23,13a5d7c1
+1338e42b,Gilberto,2,BRA,RB,29-232,10,0,0,0,0,0,0,0,0,8,0,1,0,0.0,0.0,0.0,0,0,3,7,42.9,0,2,0,0,0,Benfica,2022-10-25 Benfica-Juventus,UCL,22-23,13a5d7c1
+03df04ff,Odisseas Vlachodimos,99,GRE,GK,28-182,90,0,0,0,0,0,0,0,0,38,0,0,0,0.0,0.0,0.0,0,0,22,35,62.9,0,23,0,0,0,Benfica,2022-10-25 Benfica-Juventus,UCL,22-23,13a5d7c1
+3d50bcdb,Moise Kean,18,ITA,FW,22-239,45,1,0,0,0,2,1,0,0,7,0,0,0,1.1,1.1,0.0,0,0,2,4,50.0,0,2,0,0,0,Juventus,2022-10-25 Benfica-Juventus,UCL,22-23,13a5d7c1
+85613cf0,Arkadiusz Milik,14,POL,FW,28-239,45,1,0,0,0,2,1,0,0,12,0,0,0,0.1,0.1,0.0,1,0,6,9,66.7,0,9,0,0,0,Juventus,2022-10-25 Benfica-Juventus,UCL,22-23,13a5d7c1
+79443529,Dušan Vlahović,9,SRB,FW,22-270,69,0,1,0,0,3,1,0,0,25,0,0,1,1.1,1.1,0.9,2,1,12,18,66.7,0,9,0,0,0,Juventus,2022-10-25 Benfica-Juventus,UCL,22-23,13a5d7c1
+c13ddd3e,Matìas Soulé,30,ARG,FW,19-193,21,0,0,0,0,2,0,0,0,6,0,0,0,0.4,0.4,0.0,2,1,3,3,100.0,0,6,1,2,1,Juventus,2022-10-25 Benfica-Juventus,UCL,22-23,13a5d7c1
+8794e251,Adrien Rabiot,25,FRA,CM,27-205,90,0,0,0,0,0,0,0,0,44,2,0,1,0.0,0.0,0.0,1,0,26,32,81.3,2,21,2,1,1,Juventus,2022-10-25 Benfica-Juventus,UCL,22-23,13a5d7c1
+a8a874f1,Manuel Locatelli,5,ITA,CM,24-290,90,0,0,0,0,1,0,0,0,62,2,0,3,0.0,0.0,0.0,3,0,44,52,84.6,9,28,0,1,1,Juventus,2022-10-25 Benfica-Juventus,UCL,22-23,13a5d7c1
+01c3aff5,Weston McKennie,8,USA,"CM,WB",24-058,90,1,0,0,0,2,1,0,0,47,0,2,3,0.4,0.4,0.0,1,0,30,37,81.1,4,24,3,2,1,Juventus,2022-10-25 Benfica-Juventus,UCL,22-23,13a5d7c1
+b1cd37e6,Filip Kostić,17,SRB,WB,29-358,69,0,0,0,0,0,0,0,0,40,1,0,1,0.0,0.0,0.6,5,0,22,37,59.5,2,22,6,1,1,Juventus,2022-10-25 Benfica-Juventus,UCL,22-23,13a5d7c1
+ba492306,Samuel Iling-Junior,43,ENG,WB,19-021,21,0,1,0,0,0,0,0,0,10,0,1,0,0.0,0.0,0.2,2,1,4,8,50.0,1,5,2,0,0,Juventus,2022-10-25 Benfica-Juventus,UCL,22-23,13a5d7c1
+0ab1f153,Juan Cuadrado,11,COL,WB,34-152,59,0,0,0,0,0,0,0,0,46,2,1,3,0.0,0.0,0.0,0,0,27,32,84.4,2,22,3,4,1,Juventus,2022-10-25 Benfica-Juventus,UCL,22-23,13a5d7c1
+34693494,Fabio Miretti,20,ITA,CM,19-083,31,0,0,0,0,0,0,0,0,14,1,0,0,0.0,0.0,0.0,0,0,6,13,46.2,2,8,0,0,0,Juventus,2022-10-25 Benfica-Juventus,UCL,22-23,13a5d7c1
+94b2001f,Danilo,6,BRA,CB,31-102,90,0,0,0,0,1,0,1,0,74,2,2,0,0.2,0.2,0.5,2,0,61,65,93.8,7,36,0,1,0,Juventus,2022-10-25 Benfica-Juventus,UCL,22-23,13a5d7c1
+52ec54d0,Leonardo Bonucci,19,ITA,CB,35-177,59,0,0,0,0,0,0,0,0,49,1,0,0,0.0,0.0,0.0,0,0,37,46,80.4,1,23,0,0,0,Juventus,2022-10-25 Benfica-Juventus,UCL,22-23,13a5d7c1
+0d82903c,Alex Sandro,12,BRA,CB,31-272,31,0,0,0,0,0,0,0,0,25,0,0,1,0.0,0.0,0.0,2,1,19,22,86.4,4,13,0,0,0,Juventus,2022-10-25 Benfica-Juventus,UCL,22-23,13a5d7c1
+18dd3219,Federico Gatti,15,ITA,CB,24-123,90,0,0,0,0,0,0,0,0,54,0,1,2,0.0,0.0,0.0,1,0,36,41,87.8,2,24,1,3,2,Juventus,2022-10-25 Benfica-Juventus,UCL,22-23,13a5d7c1
+01b8a2b2,Wojciech Szczęsny,1,POL,GK,32-190,90,0,0,0,0,0,0,0,0,36,0,0,0,0.0,0.0,0.0,0,0,27,33,81.8,0,24,0,0,0,Juventus,2022-10-25 Benfica-Juventus,UCL,22-23,13a5d7c1

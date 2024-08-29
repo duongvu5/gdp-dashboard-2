@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+4c370d81,Roberto Firmino,9,BRA,"FW,LW",26-012,86,0,0,0,0,4,1,0,0,49,2,0,0,0.2,0.2,0.4,9,0,23,38,60.5,3,34,4,4,4,Liverpool,2017-10-14 Liverpool-Manchester Utd,ENG-EPL,17-18,d7dce737
+e77dc3b2,Dominic Solanke,29,ENG,LW,20-030,4,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,1,0,0,0,Liverpool,2017-10-14 Liverpool-Manchester Utd,ENG-EPL,17-18,d7dce737
+0ef89a37,Philippe Coutinho,10,BRA,LW,25-124,78,0,0,0,0,2,0,0,0,59,1,0,0,0.1,0.1,0.1,3,0,33,51,64.7,8,38,10,6,4,Liverpool,2017-10-14 Liverpool-Manchester Utd,ENG-EPL,17-18,d7dce737
+1b7ec703,Daniel Sturridge,15,ENG,FW,28-043,12,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,1,0,0,0,Liverpool,2017-10-14 Liverpool-Manchester Utd,ENG-EPL,17-18,d7dce737
+e342ad68,Mohamed Salah,11,EGY,RW,25-121,77,0,0,0,0,4,1,0,0,38,0,0,0,0.2,0.2,0.1,4,0,21,25,84.0,2,27,4,11,8,Liverpool,2017-10-14 Liverpool-Manchester Utd,ENG-EPL,17-18,d7dce737
+38c7feef,Alex Oxlade-Chamberlain,21,ENG,RW,24-060,13,0,0,0,0,0,0,0,0,13,0,0,0,0.0,0.0,0.2,2,0,8,13,61.5,0,6,2,1,1,Liverpool,2017-10-14 Liverpool-Manchester Utd,ENG-EPL,17-18,d7dce737
+a65ce836,Emre Can,23,GER,LM,23-275,90,0,0,0,0,1,0,0,0,66,4,1,1,0.5,0.5,0.0,2,0,53,58,91.4,1,41,6,1,1,Liverpool,2017-10-14 Liverpool-Manchester Utd,ENG-EPL,17-18,d7dce737
+935e6b8f,Jordan Henderson,14,ENG,CM,27-119,90,0,0,0,0,0,0,0,0,112,1,1,2,0.0,0.0,0.1,7,0,94,106,88.7,14,68,2,0,0,Liverpool,2017-10-14 Liverpool-Manchester Utd,ENG-EPL,17-18,d7dce737
+eb58eef0,Georginio Wijnaldum,5,NED,RM,26-337,90,0,0,0,0,3,2,0,0,63,1,0,1,0.2,0.2,0.0,4,0,47,54,87.0,12,38,4,3,3,Liverpool,2017-10-14 Liverpool-Manchester Utd,ENG-EPL,17-18,d7dce737
+11b9265b,Alberto Moreno,18,ESP,LB,25-101,90,0,0,0,0,0,0,0,0,79,3,1,1,0.0,0.0,0.0,1,0,55,71,77.5,4,28,1,0,0,Liverpool,2017-10-14 Liverpool-Manchester Utd,ENG-EPL,17-18,d7dce737
+1a2935f6,Dejan Lovren,6,CRO,CB,28-101,90,0,0,0,0,1,0,0,0,91,2,1,0,0.1,0.1,0.0,0,0,69,76,90.8,0,50,2,0,0,Liverpool,2017-10-14 Liverpool-Manchester Utd,ENG-EPL,17-18,d7dce737
+b217ef29,Joël Matip,32,CMR,CB,26-067,90,0,0,0,0,3,1,0,0,84,0,0,3,0.3,0.3,0.0,1,0,69,74,93.2,3,54,3,1,1,Liverpool,2017-10-14 Liverpool-Manchester Utd,ENG-EPL,17-18,d7dce737
+7a11550b,Joe Gomez,12,ENG,RB,20-144,90,0,0,0,0,1,0,0,0,61,3,3,0,0.0,0.0,0.5,3,0,36,49,73.5,4,13,1,0,0,Liverpool,2017-10-14 Liverpool-Manchester Utd,ENG-EPL,17-18,d7dce737
+d436eb94,Simon Mignolet,22,BEL,GK,29-222,90,0,0,0,0,0,0,0,0,28,0,0,0,0.0,0.0,0.0,0,0,24,27,88.9,0,11,0,0,0,Liverpool,2017-10-14 Liverpool-Manchester Utd,ENG-EPL,17-18,d7dce737
+5eae500a,Romelu Lukaku,9,BEL,FW,24-154,90,0,0,0,0,1,1,0,0,19,0,0,0,0.1,0.1,0.0,2,0,7,12,58.3,1,9,2,2,1,Manchester United,2017-10-14 Liverpool-Manchester Utd,ENG-EPL,17-18,d7dce737
+8b788c01,Anthony Martial,11,FRA,LW,21-313,64,0,0,0,0,1,0,0,0,27,0,0,1,0.0,0.0,0.1,1,0,13,20,65.0,0,16,2,3,2,Manchester United,2017-10-14 Liverpool-Manchester Utd,ENG-EPL,17-18,d7dce737
+a1d5bd30,Marcus Rashford,19,ENG,LW,19-348,26,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,0,2,0.0,0,4,0,1,0,Manchester United,2017-10-14 Liverpool-Manchester Utd,ENG-EPL,17-18,d7dce737
+be927d03,Ashley Young,18,ENG,RW,32-097,89,0,0,0,0,1,0,1,0,38,0,1,0,0.1,0.1,0.0,1,0,15,25,60.0,0,17,1,3,1,Manchester United,2017-10-14 Liverpool-Manchester Utd,ENG-EPL,17-18,d7dce737
+f5deef4c,Victor Lindelöf,2,SWE,RW,23-089,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Manchester United,2017-10-14 Liverpool-Manchester Utd,ENG-EPL,17-18,d7dce737
+dd0daf32,Henrikh Mkhitaryan,22,ARM,AM,28-266,62,0,0,0,0,1,0,0,0,39,0,2,0,0.0,0.0,0.0,2,0,23,32,71.9,2,12,1,2,1,Manchester United,2017-10-14 Liverpool-Manchester Utd,ENG-EPL,17-18,d7dce737
+810e3c74,Jesse Lingard,14,ENG,AM,24-303,28,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,6,7,85.7,0,2,0,0,0,Manchester United,2017-10-14 Liverpool-Manchester Utd,ENG-EPL,17-18,d7dce737
+eb7822d7,Nemanja Matić,31,SRB,DM,29-074,90,0,0,0,0,1,0,0,0,69,2,1,2,0.0,0.0,0.0,0,0,49,58,84.5,4,35,1,3,2,Manchester United,2017-10-14 Liverpool-Manchester Utd,ENG-EPL,17-18,d7dce737
+436a9dd0,Ander Herrera,21,ESP,DM,28-061,90,0,0,0,0,0,0,0,0,65,8,2,2,0.0,0.0,0.0,1,0,42,54,77.8,5,21,0,1,1,Manchester United,2017-10-14 Liverpool-Manchester Utd,ENG-EPL,17-18,d7dce737
+96e0490d,Matteo Darmian,36,ITA,LB,27-316,90,0,0,0,0,1,0,0,0,51,6,2,1,0.0,0.0,0.0,0,0,23,32,71.9,4,10,0,0,0,Manchester United,2017-10-14 Liverpool-Manchester Utd,ENG-EPL,17-18,d7dce737
+def899bd,Phil Jones,4,ENG,CB,25-235,90,0,0,0,0,0,0,0,0,57,1,4,3,0.0,0.0,0.0,0,0,38,44,86.4,1,27,0,0,0,Manchester United,2017-10-14 Liverpool-Manchester Utd,ENG-EPL,17-18,d7dce737
+b6964eb6,Chris Smalling,12,ENG,CB,27-326,90,0,0,0,0,0,0,1,0,37,2,0,1,0.0,0.0,0.0,0,0,23,23,100.0,0,14,0,0,0,Manchester United,2017-10-14 Liverpool-Manchester Utd,ENG-EPL,17-18,d7dce737
+08aa17d0,Antonio Valencia,25,ECU,RB,32-071,90,0,0,0,0,0,0,0,0,56,2,0,1,0.0,0.0,0.0,1,0,32,44,72.7,1,21,2,2,2,Manchester United,2017-10-14 Liverpool-Manchester Utd,ENG-EPL,17-18,d7dce737
+7ba6d84e,David de Gea,1,ESP,GK,26-341,90,0,0,0,0,0,0,0,0,42,0,0,0,0.0,0.0,0.0,0,0,16,41,39.0,0,20,0,0,0,Manchester United,2017-10-14 Liverpool-Manchester Utd,ENG-EPL,17-18,d7dce737

@@ -1,0 +1,32 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+d70ce98e,Lionel Messi,30,ARG,FW,34-166,90,2,0,1,1,4,2,0,0,83,0,0,0,1.2,0.4,1.0,6,1,65,74,87.8,18,60,8,3,2,Paris Saint-Germain,2021-12-07 Paris S-G-Club Brugge,UCL,21-22,0e09d997
+42fd9c7f,Kylian Mbappé,7,FRA,LW,22-352,82,2,1,0,0,5,3,1,0,51,0,0,0,1.2,1.2,0.4,7,4,34,40,85.0,2,30,8,6,5,Paris Saint-Germain,2021-12-07 Paris S-G-Club Brugge,UCL,21-22,0e09d997
+43b78598,Mauro Icardi,9,ARG,LW,28-291,8,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.1,1,0,3,4,75.0,0,1,0,0,0,Paris Saint-Germain,2021-12-07 Paris S-G-Club Brugge,UCL,21-22,0e09d997
+19cda00b,Ángel Di María,11,ARG,RW,33-296,70,0,1,0,0,3,2,0,0,69,1,0,1,0.6,0.6,1.0,5,1,45,55,81.8,5,45,3,0,0,Paris Saint-Germain,2021-12-07 Paris S-G-Club Brugge,UCL,21-22,0e09d997
+436a9dd0,Ander Herrera,21,ESP,RW,32-115,20,0,0,0,0,1,0,0,0,20,1,0,0,0.0,0.0,0.0,2,0,16,17,94.1,5,8,0,0,0,Paris Saint-Germain,2021-12-07 Paris S-G-Club Brugge,UCL,21-22,0e09d997
+72c812f3,Idrissa Gana Gueye,27,SEN,LM,32-072,70,0,0,0,0,1,0,0,0,57,3,0,1,0.1,0.1,0.1,3,0,42,48,87.5,1,26,1,1,1,Paris Saint-Germain,2021-12-07 Paris S-G-Club Brugge,UCL,21-22,0e09d997
+dff153a4,Leandro Paredes,8,ARG,LM,27-161,20,0,0,0,0,0,0,0,0,30,0,0,0,0.0,0.0,0.0,0,0,27,30,90.0,0,15,0,0,0,Paris Saint-Germain,2021-12-07 Paris S-G-Club Brugge,UCL,21-22,0e09d997
+1467af0d,Marco Verratti,6,ITA,CM,29-032,83,0,0,0,0,0,0,0,0,99,4,2,2,0.0,0.0,0.0,4,1,79,89,88.8,6,50,1,1,1,Paris Saint-Germain,2021-12-07 Paris S-G-Club Brugge,UCL,21-22,0e09d997
+95bb6ddc,Junior Dina Ebimbe,28,FRA,CM,21-016,7,0,0,0,0,1,0,0,0,11,0,0,0,0.1,0.1,0.0,1,0,9,9,100.0,1,8,1,0,0,Paris Saint-Germain,2021-12-07 Paris S-G-Club Brugge,UCL,21-22,0e09d997
+eb58eef0,Georginio Wijnaldum,18,NED,RM,31-026,90,0,0,0,0,1,1,0,0,44,0,0,1,0.5,0.5,0.0,0,0,32,35,91.4,1,26,1,2,1,Paris Saint-Germain,2021-12-07 Paris S-G-Club Brugge,UCL,21-22,0e09d997
+f20e4cc9,Nuno Mendes,25,POR,LB,19-171,48,0,0,0,0,0,0,0,0,34,2,1,0,0.0,0.0,0.0,1,1,19,30,63.3,1,16,0,0,0,Paris Saint-Germain,2021-12-07 Paris S-G-Club Brugge,UCL,21-22,0e09d997
+51dbeea9,Thilo Kehrer,24,GER,LB,25-077,42,0,0,0,0,0,0,1,0,22,0,0,1,0.0,0.0,0.0,0,0,13,15,86.7,1,9,0,0,0,Paris Saint-Germain,2021-12-07 Paris S-G-Club Brugge,UCL,21-22,0e09d997
+fc62f087,Abdou Diallo,22,SEN,CB,25-217,90,0,0,0,0,0,0,0,0,99,2,4,2,0.0,0.0,0.0,0,0,73,83,88.0,5,69,0,0,0,Paris Saint-Germain,2021-12-07 Paris S-G-Club Brugge,UCL,21-22,0e09d997
+d5f2f82b,Marquinhos,5,BRA,CB,27-207,90,0,0,0,0,0,0,0,0,79,0,1,2,0.0,0.0,0.1,1,0,69,70,98.6,0,42,0,0,0,Paris Saint-Germain,2021-12-07 Paris S-G-Club Brugge,UCL,21-22,0e09d997
+e42d61c7,Achraf Hakimi,2,MAR,RB,23-033,90,0,0,0,0,0,0,0,0,63,0,0,2,0.0,0.0,0.0,1,0,53,59,89.8,4,36,1,2,1,Paris Saint-Germain,2021-12-07 Paris S-G-Club Brugge,UCL,21-22,0e09d997
+08f5afaa,Gianluigi Donnarumma,50,ITA,GK,22-285,90,0,0,0,0,0,0,0,0,36,0,0,0,0.0,0.0,0.0,0,0,30,33,90.9,0,20,0,0,0,Paris Saint-Germain,2021-12-07 Paris S-G-Club Brugge,UCL,21-22,0e09d997
+2ef7c612,Charles De Ketelaere,90,BEL,FW,20-272,90,0,0,0,0,3,2,0,0,35,1,0,0,0.2,0.2,0.0,1,0,23,28,82.1,6,19,0,1,0,Club Brugge,2021-12-07 Paris S-G-Club Brugge,UCL,21-22,0e09d997
+8e034340,Noa Lang,10,NED,LW,22-173,90,0,1,0,0,1,1,1,0,74,1,3,1,0.0,0.0,0.3,6,1,41,66,62.1,12,53,8,5,4,Club Brugge,2021-12-07 Paris S-G-Club Brugge,UCL,21-22,0e09d997
+2f33776f,Cisse Sandra,98,BEL,RW,17-356,55,0,0,0,0,1,1,0,0,24,0,0,1,0.3,0.3,0.0,0,0,10,16,62.5,0,15,0,0,0,Club Brugge,2021-12-07 Paris S-G-Club Brugge,UCL,21-22,0e09d997
+2bf50b37,Ignace Van Der Brempt,28,BEL,RW,19-250,35,0,0,0,0,0,0,0,0,20,3,1,0,0.0,0.0,0.0,3,0,8,17,47.1,1,11,2,1,1,Club Brugge,2021-12-07 Paris S-G-Club Brugge,UCL,21-22,0e09d997
+392a7aea,Hans Vanaken,20,BEL,AM,29-105,90,0,0,0,0,1,0,0,0,67,0,1,2,0.0,0.0,0.3,6,1,53,60,88.3,14,39,1,1,1,Club Brugge,2021-12-07 Paris S-G-Club Brugge,UCL,21-22,0e09d997
+8ce30c57,Éder Álvarez Balanta,3,COL,DM,28-282,68,0,0,0,0,0,0,0,0,43,1,2,1,0.0,0.0,0.0,1,0,27,33,81.8,2,17,0,1,0,Club Brugge,2021-12-07 Paris S-G-Club Brugge,UCL,21-22,0e09d997
+e75129bd,Noah Mbamba,72,BEL,DM,16-336,22,0,0,0,0,0,0,0,0,13,1,2,1,0.0,0.0,0.0,0,0,4,6,66.7,0,4,0,0,0,Club Brugge,2021-12-07 Paris S-G-Club Brugge,UCL,21-22,0e09d997
+733e7ad8,Mats Rits,26,BEL,DM,28-142,68,1,0,0,0,5,2,0,0,35,1,0,0,0.3,0.3,0.0,3,0,24,27,88.9,3,14,0,0,0,Club Brugge,2021-12-07 Paris S-G-Club Brugge,UCL,21-22,0e09d997
+c24544c7,Ruud Vormer,25,NED,DM,33-210,22,0,0,0,0,2,0,0,0,24,0,1,0,0.1,0.1,0.0,1,0,17,21,81.0,2,10,1,1,1,Club Brugge,2021-12-07 Paris S-G-Club Brugge,UCL,21-22,0e09d997
+54f5ce34,Federico Ricca,18,URU,LB,27-006,90,0,0,0,0,1,0,0,0,41,3,0,1,0.0,0.0,0.0,1,0,24,33,72.7,3,21,1,1,1,Club Brugge,2021-12-07 Paris S-G-Club Brugge,UCL,21-22,0e09d997
+61590953,Stanley N'Soki,4,FRA,CB,22-242,90,0,0,0,0,0,0,0,0,52,1,2,0,0.0,0.0,0.0,1,0,43,47,91.5,6,30,1,1,1,Club Brugge,2021-12-07 Paris S-G-Club Brugge,UCL,21-22,0e09d997
+ffed43e3,Jack Hendry,5,SCO,CB,26-214,90,0,0,0,0,0,0,0,0,35,1,0,3,0.0,0.0,0.0,0,0,27,28,96.4,2,15,0,0,0,Club Brugge,2021-12-07 Paris S-G-Club Brugge,UCL,21-22,0e09d997
+55abe554,Clinton Mata,77,ANG,RB,29-030,90,0,0,0,0,1,0,0,0,65,2,1,1,0.0,0.0,0.2,3,0,44,58,75.9,2,38,3,1,1,Club Brugge,2021-12-07 Paris S-G-Club Brugge,UCL,21-22,0e09d997
+d436eb94,Simon Mignolet,22,BEL,GK,33-276,90,0,0,0,0,0,0,0,0,32,0,0,0,0.0,0.0,0.0,0,0,24,25,96.0,0,17,0,0,0,Club Brugge,2021-12-07 Paris S-G-Club Brugge,UCL,21-22,0e09d997

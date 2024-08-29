@@ -1,0 +1,29 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+21a66f6a,Harry Kane,10,ENG,FW,24-197,90,1,0,0,0,4,2,0,0,29,1,0,1,0.9,0.9,0.0,2,0,14,19,73.7,5,20,1,2,0,Tottenham Hotspur,2018-02-10 Tottenham-Arsenal,ENG-EPL,17-18,9be2b4a6
+92e7e919,Son Heung-min,7,KOR,LW,25-217,69,0,0,0,0,2,0,0,0,50,0,0,1,0.1,0.1,0.0,3,0,28,40,70.0,4,35,7,7,4,Tottenham Hotspur,2018-02-10 Tottenham-Arsenal,ENG-EPL,17-18,9be2b4a6
+abe66106,Érik Lamela,11,ARG,"RM,RW",25-343,21,0,0,0,0,2,1,1,0,9,0,0,1,0.5,0.5,0.5,3,0,5,6,83.3,3,5,1,0,0,Tottenham Hotspur,2018-02-10 Tottenham-Arsenal,ENG-EPL,17-18,9be2b4a6
+980522ec,Christian Eriksen,23,DEN,"RW,LM,LW",25-361,90,0,0,0,0,2,2,0,0,59,2,0,2,0.1,0.1,0.7,7,0,36,51,70.6,3,34,3,0,0,Tottenham Hotspur,2018-02-10 Tottenham-Arsenal,ENG-EPL,17-18,9be2b4a6
+cea4ee8f,Dele Alli,20,ENG,"AM,FW",21-305,84,0,0,0,0,1,0,0,0,43,4,0,2,0.4,0.4,0.5,4,0,20,32,62.5,4,26,6,5,3,Tottenham Hotspur,2018-02-10 Tottenham-Arsenal,ENG-EPL,17-18,9be2b4a6
+e0900238,Victor Wanyama,12,KEN,"CM,FW",26-230,6,0,0,0,0,0,0,0,0,3,0,1,0,0.0,0.0,0.0,0,0,1,2,50.0,0,1,0,1,1,Tottenham Hotspur,2018-02-10 Tottenham-Arsenal,ENG-EPL,17-18,9be2b4a6
+f7ee69fb,Mousa Dembélé,19,BEL,"DM,CM",30-209,90,0,0,0,0,1,0,0,0,63,1,0,1,0.0,0.0,0.1,2,1,57,59,96.6,16,45,8,4,4,Tottenham Hotspur,2018-02-10 Tottenham-Arsenal,ENG-EPL,17-18,9be2b4a6
+ac861941,Eric Dier,15,ENG,"DM,CM",24-026,90,0,0,0,0,3,0,1,0,81,3,3,0,0.3,0.3,0.2,1,0,54,68,79.4,10,45,3,1,1,Tottenham Hotspur,2018-02-10 Tottenham-Arsenal,ENG-EPL,17-18,9be2b4a6
+44781702,Ben Davies,33,WAL,LB,24-292,90,0,1,0,0,0,0,0,0,68,1,1,1,0.0,0.0,0.3,1,1,50,64,78.1,8,38,5,0,0,Tottenham Hotspur,2018-02-10 Tottenham-Arsenal,ENG-EPL,17-18,9be2b4a6
+ba23a904,Jan Vertonghen,5,BEL,CB,30-292,90,0,0,0,0,1,0,0,0,80,1,0,0,0.1,0.1,0.1,2,0,59,66,89.4,4,39,1,0,0,Tottenham Hotspur,2018-02-10 Tottenham-Arsenal,ENG-EPL,17-18,9be2b4a6
+da7b447d,Davinson Sánchez,6,COL,CB,21-243,90,0,0,0,0,1,0,0,0,70,1,1,3,0.0,0.0,0.0,0,0,53,59,89.8,1,44,0,0,0,Tottenham Hotspur,2018-02-10 Tottenham-Arsenal,ENG-EPL,17-18,9be2b4a6
+21512407,Kieran Trippier,2,ENG,RB,27-144,90,0,0,0,0,1,1,0,0,60,0,1,1,0.3,0.3,0.1,4,0,38,54,70.4,4,26,1,3,3,Tottenham Hotspur,2018-02-10 Tottenham-Arsenal,ENG-EPL,17-18,9be2b4a6
+8f62b6ee,Hugo Lloris,1,FRA,GK,31-046,90,0,0,0,0,0,0,0,0,35,0,0,0,0.0,0.0,0.0,0,0,25,33,75.8,0,18,0,0,0,Tottenham Hotspur,2018-02-10 Tottenham-Arsenal,ENG-EPL,17-18,9be2b4a6
+d5dd5f1f,Pierre-Emerick Aubameyang,14,GAB,"FW,LW",28-237,90,0,0,0,0,0,0,0,0,22,0,1,0,0.0,0.0,0.0,0,0,11,21,52.4,1,10,3,0,0,Arsenal,2018-02-10 Tottenham-Arsenal,ENG-EPL,17-18,9be2b4a6
+dd0daf32,Henrikh Mkhitaryan,7,ARM,LW,29-020,64,0,0,0,0,0,0,0,0,31,1,1,1,0.0,0.0,0.0,2,0,20,25,80.0,2,26,1,0,0,Arsenal,2018-02-10 Tottenham-Arsenal,ENG-EPL,17-18,9be2b4a6
+9dbb75ca,Alexandre Lacazette,9,FRA,FW,26-258,26,0,0,0,0,2,0,0,0,7,0,0,0,0.4,0.4,0.0,0,0,3,3,100.0,0,7,0,0,0,Arsenal,2018-02-10 Tottenham-Arsenal,ENG-EPL,17-18,9be2b4a6
+16380240,Mesut Özil,11,GER,"RW,LM",29-118,90,0,0,0,0,1,0,0,0,61,1,1,1,0.1,0.1,0.1,3,0,41,53,77.4,7,46,5,3,2,Arsenal,2018-02-10 Tottenham-Arsenal,ENG-EPL,17-18,9be2b4a6
+e61b8aee,Granit Xhaka,29,SUI,"LM,CM",25-136,85,0,0,0,0,0,0,0,0,78,2,2,0,0.0,0.0,0.0,1,0,60,66,90.9,5,47,0,0,0,Arsenal,2018-02-10 Tottenham-Arsenal,ENG-EPL,17-18,9be2b4a6
+ce5143da,Danny Welbeck,23,ENG,RW,27-076,5,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,2,0,3,4,75.0,0,3,0,0,0,Arsenal,2018-02-10 Tottenham-Arsenal,ENG-EPL,17-18,9be2b4a6
+47a34c4f,Mohamed Elneny,35,EGY,CM,25-214,64,0,0,0,0,0,0,0,0,38,0,0,2,0.0,0.0,0.0,0,0,28,34,82.4,0,24,0,0,0,Arsenal,2018-02-10 Tottenham-Arsenal,ENG-EPL,17-18,9be2b4a6
+6ca5ec4b,Alex Iwobi,17,NGA,"LM,RM",21-283,26,0,0,0,0,0,0,0,0,22,0,0,0,0.0,0.0,0.3,1,0,18,21,85.7,1,20,4,1,0,Arsenal,2018-02-10 Tottenham-Arsenal,ENG-EPL,17-18,9be2b4a6
+9c318325,Jack Wilshere,10,ENG,"RM,CM",26-040,90,0,0,0,0,2,1,0,0,46,1,0,0,0.1,0.1,0.0,0,0,27,35,77.1,1,33,1,5,4,Arsenal,2018-02-10 Tottenham-Arsenal,ENG-EPL,17-18,9be2b4a6
+d4cb83cc,Nacho Monreal,18,ESP,LB,31-349,90,0,0,0,0,0,0,0,0,53,2,1,2,0.0,0.0,0.0,0,0,35,45,77.8,3,40,1,0,0,Arsenal,2018-02-10 Tottenham-Arsenal,ENG-EPL,17-18,9be2b4a6
+f5efb153,Laurent Koscielny,6,FRA,CB,32-153,90,0,0,0,0,0,0,0,0,61,1,1,0,0.0,0.0,0.0,0,0,48,53,90.6,4,35,0,0,0,Arsenal,2018-02-10 Tottenham-Arsenal,ENG-EPL,17-18,9be2b4a6
+3f2d59fe,Shkodran Mustafi,20,GER,CB,25-299,90,0,0,0,0,0,0,1,0,89,1,4,2,0.0,0.0,0.0,2,0,63,78,80.8,7,53,3,0,0,Arsenal,2018-02-10 Tottenham-Arsenal,ENG-EPL,17-18,9be2b4a6
+f874dd44,Héctor Bellerín,24,ESP,RB,22-328,90,0,0,0,0,1,0,0,0,78,3,0,2,0.0,0.0,0.1,1,0,49,60,81.7,1,41,2,2,1,Arsenal,2018-02-10 Tottenham-Arsenal,ENG-EPL,17-18,9be2b4a6
+71672fa0,Petr Čech,33,CZE,GK,35-266,90,0,0,0,0,0,0,0,0,56,0,0,0,0.0,0.0,0.0,0,0,32,51,62.7,0,31,0,1,1,Arsenal,2018-02-10 Tottenham-Arsenal,ENG-EPL,17-18,9be2b4a6

@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+5eae500a,Romelu Lukaku,9,BEL,FW,24-140,90,1,0,0,0,4,1,0,0,31,1,0,0,0.9,0.9,0.1,4,0,14,25,56.0,2,13,0,0,0,Manchester United,2017-09-30 Manchester Utd-Crystal Palace,ENG-EPL,17-18,a720cc9e
+a1d5bd30,Marcus Rashford,19,ENG,LW,19-334,71,0,2,0,0,2,1,0,0,27,0,0,0,0.1,0.1,0.9,5,3,14,19,73.7,0,16,4,7,3,Manchester United,2017-09-30 Manchester Utd-Crystal Palace,ENG-EPL,17-18,a720cc9e
+8b788c01,Anthony Martial,11,FRA,LW,21-299,19,0,1,0,0,1,1,0,0,16,0,1,0,0.3,0.3,0.5,2,1,8,10,80.0,1,12,1,1,1,Manchester United,2017-09-30 Manchester Utd-Crystal Palace,ENG-EPL,17-18,a720cc9e
+29733c72,Juan Mata,8,ESP,RW,29-155,76,1,0,0,0,1,1,0,0,45,0,0,1,0.3,0.3,0.1,4,0,37,42,88.1,7,25,1,0,0,Manchester United,2017-09-30 Manchester Utd-Crystal Palace,ENG-EPL,17-18,a720cc9e
+436a9dd0,Ander Herrera,21,ESP,RM,28-047,14,0,0,0,0,0,0,0,0,17,1,0,1,0.0,0.0,0.3,2,1,14,16,87.5,2,5,1,0,0,Manchester United,2017-09-30 Manchester Utd-Crystal Palace,ENG-EPL,17-18,a720cc9e
+dd0daf32,Henrikh Mkhitaryan,22,ARM,AM,28-252,65,0,0,0,0,1,0,0,0,39,2,0,0,0.0,0.0,0.1,4,0,19,32,59.4,2,19,5,2,1,Manchester United,2017-09-30 Manchester Utd-Crystal Palace,ENG-EPL,17-18,a720cc9e
+810e3c74,Jesse Lingard,14,ENG,"RW,AM",24-289,25,0,0,0,0,1,0,0,0,15,3,0,2,0.1,0.1,0.0,0,0,8,8,100.0,1,7,0,0,0,Manchester United,2017-09-30 Manchester Utd-Crystal Palace,ENG-EPL,17-18,a720cc9e
+eb7822d7,Nemanja Matić,31,SRB,"DM,CM",29-060,90,0,0,0,0,1,0,0,0,86,0,1,1,0.0,0.0,0.0,5,1,65,80,81.3,8,49,3,3,2,Manchester United,2017-09-30 Manchester Utd-Crystal Palace,ENG-EPL,17-18,a720cc9e
+87575fd9,Marouane Fellaini,27,BEL,"DM,LM",29-312,90,2,0,0,0,2,2,0,0,67,4,2,1,1.0,1.0,0.0,2,0,48,53,90.6,2,40,0,2,1,Manchester United,2017-09-30 Manchester Utd-Crystal Palace,ENG-EPL,17-18,a720cc9e
+be927d03,Ashley Young,18,ENG,LB,32-083,90,0,1,0,0,1,1,0,0,75,2,1,1,0.0,0.0,0.4,3,2,56,67,83.6,4,37,4,3,2,Manchester United,2017-09-30 Manchester Utd-Crystal Palace,ENG-EPL,17-18,a720cc9e
+def899bd,Phil Jones,4,ENG,CB,25-221,90,0,0,0,0,0,0,0,0,84,1,3,1,0.0,0.0,0.0,0,0,68,74,91.9,3,44,0,2,1,Manchester United,2017-09-30 Manchester Utd-Crystal Palace,ENG-EPL,17-18,a720cc9e
+b6964eb6,Chris Smalling,12,ENG,CB,27-312,90,0,0,0,0,2,0,0,0,79,0,3,1,0.1,0.1,0.0,0,0,61,67,91.0,0,43,1,0,0,Manchester United,2017-09-30 Manchester Utd-Crystal Palace,ENG-EPL,17-18,a720cc9e
+08aa17d0,Antonio Valencia,25,ECU,RB,32-057,90,0,0,0,0,2,0,0,0,91,3,0,3,0.1,0.1,0.0,1,0,71,78,91.0,4,50,1,2,1,Manchester United,2017-09-30 Manchester Utd-Crystal Palace,ENG-EPL,17-18,a720cc9e
+7ba6d84e,David de Gea,1,ESP,GK,26-327,90,0,0,0,0,0,0,0,0,41,0,0,0,0.0,0.0,0.0,0,0,22,40,55.0,0,13,0,0,0,Manchester United,2017-09-30 Manchester Utd-Crystal Palace,ENG-EPL,17-18,a720cc9e
+381d7d54,Bakary Sako,26,MLI,FW,29-157,73,0,0,0,0,2,1,0,0,24,0,0,1,0.1,0.1,0.1,3,0,10,16,62.5,1,22,1,2,2,Crystal Palace,2017-09-30 Manchester Utd-Crystal Palace,ENG-EPL,17-18,a720cc9e
+da2b8db3,Freddie Ladapo,19,ENG,FW,24-241,17,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,5,9,55.6,0,8,1,0,0,Crystal Palace,2017-09-30 Manchester Utd-Crystal Palace,ENG-EPL,17-18,a720cc9e
+3312f911,Jeffrey Schlupp,15,GHA,LW,24-281,67,0,0,0,0,2,0,0,0,31,1,0,2,0.1,0.1,0.0,1,0,12,18,66.7,1,21,2,1,1,Crystal Palace,2017-09-30 Manchester Utd-Crystal Palace,ENG-EPL,17-18,a720cc9e
+cee31595,James McArthur,18,SCO,LW,29-358,23,0,0,0,0,0,0,0,0,12,1,0,1,0.0,0.0,0.0,0,0,5,9,55.6,0,7,1,0,0,Crystal Palace,2017-09-30 Manchester Utd-Crystal Palace,ENG-EPL,17-18,a720cc9e
+b28bbd58,Andros Townsend,10,ENG,RW,26-076,90,0,0,0,0,0,0,0,0,57,4,2,3,0.0,0.0,0.0,2,0,32,42,76.2,2,42,6,5,4,Crystal Palace,2017-09-30 Manchester Utd-Crystal Palace,ENG-EPL,17-18,a720cc9e
+fd3f57ce,Jason Puncheon,42,ENG,LM,31-104,68,0,0,0,0,0,0,0,0,39,2,0,1,0.0,0.0,0.0,1,0,28,35,80.0,2,23,0,0,0,Crystal Palace,2017-09-30 Manchester Utd-Crystal Palace,ENG-EPL,17-18,a720cc9e
+7a1f2c08,Jaïro Riedewald,44,NED,RW,21-021,22,0,0,0,0,0,0,0,0,13,0,1,0,0.0,0.0,0.0,0,0,11,11,100.0,1,8,1,1,1,Crystal Palace,2017-09-30 Manchester Utd-Crystal Palace,ENG-EPL,17-18,a720cc9e
+2ce2508a,Luka Milivojević,4,SRB,CM,26-176,90,0,0,0,0,0,0,0,0,59,3,2,3,0.0,0.0,0.0,1,0,44,48,91.7,2,35,0,1,1,Crystal Palace,2017-09-30 Manchester Utd-Crystal Palace,ENG-EPL,17-18,a720cc9e
+ad7b19ef,Yohan Cabaye,7,FRA,RM,31-259,90,0,0,0,0,1,0,0,0,64,2,1,1,0.0,0.0,0.2,2,0,40,54,74.1,6,38,1,0,0,Crystal Palace,2017-09-30 Manchester Utd-Crystal Palace,ENG-EPL,17-18,a720cc9e
+5f09991f,Patrick van Aanholt,3,NED,LB,27-032,90,0,0,0,0,0,0,0,0,49,3,0,0,0.0,0.0,0.0,0,0,30,41,73.2,2,31,4,0,0,Crystal Palace,2017-09-30 Manchester Utd-Crystal Palace,ENG-EPL,17-18,a720cc9e
+210d9ecb,Damien Delaney,27,IRL,CB,36-072,90,0,0,0,0,0,0,0,0,55,2,3,4,0.0,0.0,0.0,0,0,30,37,81.1,0,32,0,1,1,Crystal Palace,2017-09-30 Manchester Utd-Crystal Palace,ENG-EPL,17-18,a720cc9e
+87935cf3,Mamadou Sakho,12,FRA,CB,27-229,90,0,0,0,0,1,0,0,0,43,1,2,1,0.1,0.1,0.0,0,0,26,30,86.7,0,19,0,0,0,Crystal Palace,2017-09-30 Manchester Utd-Crystal Palace,ENG-EPL,17-18,a720cc9e
+8a7ff278,Joel Ward,2,ENG,RB,27-336,90,0,0,0,0,0,0,0,0,50,1,2,1,0.0,0.0,0.1,2,0,32,42,76.2,2,27,0,0,0,Crystal Palace,2017-09-30 Manchester Utd-Crystal Palace,ENG-EPL,17-18,a720cc9e
+76eca7e2,Wayne Hennessey,13,WAL,GK,30-249,90,0,0,0,0,0,0,0,0,31,0,1,0,0.0,0.0,0.0,0,0,15,29,51.7,0,16,0,0,0,Crystal Palace,2017-09-30 Manchester Utd-Crystal Palace,ENG-EPL,17-18,a720cc9e

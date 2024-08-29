@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+b62878a5,Mohammed Kudus,20,GHA,FW,22-036,87,1,1,0,0,2,1,0,0,39,0,1,1,0.1,0.1,0.1,2,0,27,27,100.0,1,21,1,6,5,Ajax,2022-09-07 Ajax-Rangers,UCL,22-23,4f096324
+4c184730,Brian Brobbey,9,NED,FW,20-218,3,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Ajax,2022-09-07 Ajax-Rangers,UCL,22-23,4f096324
+a29b1131,Steven Bergwijn,7,NED,LW,24-334,80,1,0,0,0,3,2,0,0,47,0,0,0,0.5,0.5,0.1,3,1,35,38,92.1,3,32,1,6,4,Ajax,2022-09-07 Ajax-Rangers,UCL,22-23,4f096324
+a08b974a,Lucas Ocampos,11,ARG,RW,28-058,10,0,0,0,0,1,1,0,0,13,0,1,0,0.1,0.1,0.0,0,0,9,10,90.0,0,5,0,0,0,Ajax,2022-09-07 Ajax-Rangers,UCL,22-23,4f096324
+2475dcc6,Dušan Tadić,10,SRB,"RW,LW",33-291,90,0,0,0,0,2,1,0,0,67,2,0,1,0.2,0.2,0.4,4,1,46,58,79.3,9,35,3,4,3,Ajax,2022-09-07 Ajax-Rangers,UCL,22-23,4f096324
+ad9b2747,Kenneth Taylor,8,NED,LM,20-114,90,0,0,0,0,1,1,0,0,69,0,1,0,0.0,0.0,0.5,5,1,52,62,83.9,12,39,3,2,1,Ajax,2022-09-07 Ajax-Rangers,UCL,22-23,4f096324
+8b3ab7ad,Edson Álvarez,4,MEX,CM,24-318,87,1,0,0,0,3,1,0,0,103,2,1,0,0.3,0.3,0.0,0,0,86,96,89.6,3,66,1,0,0,Ajax,2022-09-07 Ajax-Rangers,UCL,22-23,4f096324
+c8d1c3a5,Jorge Eduardo Sánchez,19,MEX,CM,24-271,3,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,5,5,100.0,0,4,0,0,0,Ajax,2022-09-07 Ajax-Rangers,UCL,22-23,4f096324
+713c144a,Steven Berghuis,23,NED,RM,30-262,80,1,1,0,0,2,1,0,0,77,3,1,1,0.1,0.1,0.3,5,1,54,68,79.4,8,46,2,1,0,Ajax,2022-09-07 Ajax-Rangers,UCL,22-23,4f096324
+15fd5593,Davy Klaassen,6,NED,RM,29-198,10,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,6,7,85.7,1,3,0,1,0,Ajax,2022-09-07 Ajax-Rangers,UCL,22-23,4f096324
+691bef82,Daley Blind,17,NED,LB,32-182,80,0,0,0,0,0,0,0,0,103,3,2,0,0.0,0.0,0.1,5,1,84,93,90.3,10,46,0,1,0,Ajax,2022-09-07 Ajax-Rangers,UCL,22-23,4f096324
+ca002b1a,Youri Baas,25,NED,LB,19-174,10,0,0,0,0,0,0,0,0,12,1,0,0,0.0,0.0,0.0,0,0,10,11,90.9,0,4,0,0,0,Ajax,2022-09-07 Ajax-Rangers,UCL,22-23,4f096324
+a36524bf,Calvin Bassey,3,NGA,CB,22-250,90,0,0,0,0,0,0,0,0,149,0,1,0,0.0,0.0,0.1,2,1,141,145,97.2,9,104,1,2,1,Ajax,2022-09-07 Ajax-Rangers,UCL,22-23,4f096324
+41034650,Jurriën Timber,2,NED,CB,21-082,90,0,0,0,0,1,0,0,0,151,2,0,3,0.3,0.3,0.0,1,1,137,143,95.8,12,95,4,1,1,Ajax,2022-09-07 Ajax-Rangers,UCL,22-23,4f096324
+c5cbbcff,Devyne Rensch,15,NED,RB,19-232,90,0,0,0,0,2,1,0,0,56,1,1,1,0.5,0.5,0.0,2,0,45,49,91.8,3,33,2,0,0,Ajax,2022-09-07 Ajax-Rangers,UCL,22-23,4f096324
+3392603d,Remko Pasveer,22,NED,GK,38-303,90,0,0,0,0,0,0,0,0,33,0,0,0,0.0,0.0,0.0,0,0,29,33,87.9,0,21,0,0,0,Ajax,2022-09-07 Ajax-Rangers,UCL,22-23,4f096324
+bfde3de5,Antonio Čolak,9,CRO,FW,28-355,90,0,0,0,0,1,0,0,0,22,0,0,0,0.0,0.0,0.0,0,0,9,15,60.0,0,8,0,0,0,Rangers,2022-09-07 Ajax-Rangers,UCL,22-23,4f096324
+316de854,Ryan Kent,14,ENG,"LM,LW",25-300,90,0,0,0,0,2,1,0,0,23,1,0,0,0.1,0.1,0.0,0,0,11,14,78.6,1,20,1,2,1,Rangers,2022-09-07 Ajax-Rangers,UCL,22-23,4f096324
+e9b0ccaf,Scott Wright,23,SCO,RW,25-030,45,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,1,3,33.3,0,3,0,0,0,Rangers,2022-09-07 Ajax-Rangers,UCL,22-23,4f096324
+33144cc5,Rabbi Matondo,17,WAL,RM,21-363,45,0,0,0,0,0,0,0,0,11,0,1,0,0.0,0.0,0.0,1,0,4,6,66.7,0,7,2,1,0,Rangers,2022-09-07 Ajax-Rangers,UCL,22-23,4f096324
+a5420709,Malik Tillman,71,USA,AM,20-102,45,0,0,0,0,0,0,0,0,12,1,0,0,0.0,0.0,0.0,2,0,4,6,66.7,0,6,1,2,1,Rangers,2022-09-07 Ajax-Rangers,UCL,22-23,4f096324
+d97cccc9,Ryan Jack,8,SCO,CM,30-192,45,0,0,0,0,0,0,1,0,13,0,1,1,0.0,0.0,0.0,0,0,9,11,81.8,0,7,0,1,1,Rangers,2022-09-07 Ajax-Rangers,UCL,22-23,4f096324
+0df2b165,John Lundstram,4,ENG,"CB,DM",28-201,90,0,0,0,0,0,0,0,0,47,0,1,1,0.0,0.0,0.0,0,0,35,40,87.5,0,30,0,1,1,Rangers,2022-09-07 Ajax-Rangers,UCL,22-23,4f096324
+4da9191b,Glen Kamara,18,FIN,"DM,CM",26-314,77,0,0,0,0,0,0,0,0,25,0,2,1,0.0,0.0,0.0,0,0,12,13,92.3,0,10,1,0,0,Rangers,2022-09-07 Ajax-Rangers,UCL,22-23,4f096324
+cf15bbb1,Steven Davis,10,NIR,CM,37-249,13,0,0,0,0,0,0,0,0,6,1,0,0,0.0,0.0,0.0,1,0,5,5,100.0,0,2,0,0,0,Rangers,2022-09-07 Ajax-Rangers,UCL,22-23,4f096324
+712dd708,Borna Barišić,31,CRO,LB,29-301,90,0,0,0,0,0,0,0,0,44,4,3,1,0.0,0.0,0.0,1,0,30,37,81.1,0,22,1,1,0,Rangers,2022-09-07 Ajax-Rangers,UCL,22-23,4f096324
+dccd127f,James Sands,19,USA,CB,22-063,90,0,0,0,0,1,0,0,0,44,0,2,1,0.0,0.0,0.0,0,0,30,40,75.0,1,33,0,0,0,Rangers,2022-09-07 Ajax-Rangers,UCL,22-23,4f096324
+56f6f826,Connor Goldson,6,ENG,CB,29-263,90,0,0,0,0,0,0,0,0,39,0,1,2,0.0,0.0,0.0,0,0,25,34,73.5,1,26,0,0,0,Rangers,2022-09-07 Ajax-Rangers,UCL,22-23,4f096324
+be765073,James Tavernier,2,ENG,RB,30-311,45,0,0,0,0,0,0,0,0,23,2,1,0,0.0,0.0,0.0,0,0,10,17,58.8,1,10,0,1,0,Rangers,2022-09-07 Ajax-Rangers,UCL,22-23,4f096324
+82c615f8,Leon King,38,SCO,RB,18-236,45,0,0,0,0,0,0,0,0,28,3,2,1,0.0,0.0,0.0,0,0,14,20,70.0,3,14,0,1,1,Rangers,2022-09-07 Ajax-Rangers,UCL,22-23,4f096324
+3b0108d6,Jon McLaughlin,33,SCO,GK,34-363,90,0,0,0,0,0,0,0,0,34,0,0,0,0.0,0.0,0.0,0,0,21,31,67.7,0,18,0,0,0,Rangers,2022-09-07 Ajax-Rangers,UCL,22-23,4f096324

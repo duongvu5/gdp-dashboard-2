@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+4d034881,Sergio Agüero,10,ARG,FW,29-214,90,1,0,0,0,5,3,0,0,45,0,0,1,1.0,1.0,0.0,0,0,28,32,87.5,1,33,5,7,3,Manchester City,2018-01-02 Manchester City-Watford,ENG-EPL,17-18,1def0427
+2b114be3,Leroy Sané,19,GER,LW,21-356,90,0,1,0,0,2,0,0,0,65,0,0,0,0.1,0.1,0.6,9,1,46,57,80.7,3,51,3,3,2,Manchester City,2018-01-02 Manchester City-Watford,ENG-EPL,17-18,1def0427
+b400bde0,Raheem Sterling,7,ENG,RW,23-025,90,1,0,0,0,4,2,0,0,61,2,0,3,0.6,0.6,0.1,6,1,39,46,84.8,5,41,1,5,2,Manchester City,2018-01-02 Manchester City-Watford,ENG-EPL,17-18,1def0427
+e2716bd0,David Silva,21,ESP,LM,31-359,90,0,0,0,0,1,0,1,0,109,1,1,1,0.1,0.1,0.0,4,1,86,103,83.5,14,77,9,1,1,Manchester City,2018-01-02 Manchester City-Watford,ENG-EPL,17-18,1def0427
+101da2b5,Fernandinho,25,BRA,CM,32-243,70,0,0,0,0,0,0,0,0,123,2,0,1,0.0,0.0,0.0,1,0,111,118,94.1,13,73,1,1,1,Manchester City,2018-01-02 Manchester City-Watford,ENG-EPL,17-18,1def0427
+c204f844,Yaya Touré,42,CIV,CM,34-234,20,0,0,0,0,0,0,0,0,42,0,0,0,0.0,0.0,0.0,1,0,37,40,92.5,5,30,1,0,0,Manchester City,2018-01-02 Manchester City-Watford,ENG-EPL,17-18,1def0427
+e46012d4,Kevin De Bruyne,17,BEL,RM,26-188,78,0,0,0,0,4,1,0,0,77,3,0,0,0.2,0.2,0.6,10,1,54,70,77.1,6,47,6,1,1,Manchester City,2018-01-02 Manchester City-Watford,ENG-EPL,17-18,1def0427
+3eb22ec9,Bernardo Silva,20,POR,RM,23-145,12,0,0,0,0,0,0,0,0,11,0,0,1,0.0,0.0,0.1,1,0,9,10,90.0,3,8,0,0,0,Manchester City,2018-01-02 Manchester City-Watford,ENG-EPL,17-18,1def0427
+111c3236,Fabian Delph,18,ENG,LB,28-042,90,0,0,0,0,0,0,0,0,120,6,2,2,0.0,0.0,0.0,2,0,101,108,93.5,8,78,3,3,2,Manchester City,2018-01-02 Manchester City-Watford,ENG-EPL,17-18,1def0427
+0d267745,Nicolás Otamendi,30,ARG,CB,29-324,90,0,0,0,0,0,0,0,0,120,0,2,0,0.0,0.0,0.0,0,0,111,116,95.7,11,99,3,0,0,Manchester City,2018-01-02 Manchester City-Watford,ENG-EPL,17-18,1def0427
+5eecec3d,John Stones,5,ENG,CB,23-219,66,0,0,0,0,2,1,0,0,79,0,1,0,0.3,0.3,0.0,0,0,71,74,95.9,2,56,2,0,0,Manchester City,2018-01-02 Manchester City-Watford,ENG-EPL,17-18,1def0427
+94b2001f,Danilo,3,BRA,CB,26-171,24,0,0,0,0,0,0,0,0,25,0,0,1,0.0,0.0,0.0,0,0,24,24,100.0,0,19,0,0,0,Manchester City,2018-01-02 Manchester City-Watford,ENG-EPL,17-18,1def0427
+86dd77d1,Kyle Walker,2,ENG,RB,27-219,90,0,0,0,0,0,0,0,0,70,0,1,0,0.0,0.0,0.0,0,0,59,64,92.2,4,45,4,6,4,Manchester City,2018-01-02 Manchester City-Watford,ENG-EPL,17-18,1def0427
+3bb7b8b4,Ederson,31,BRA,GK,24-138,90,0,0,0,0,0,0,0,0,39,0,0,0,0.0,0.0,0.0,0,0,34,37,91.9,0,21,0,0,0,Manchester City,2018-01-02 Manchester City-Watford,ENG-EPL,17-18,1def0427
+c24dba2a,Andre Gray,18,JAM,FW,26-190,90,1,0,0,0,3,3,0,0,19,0,1,2,0.8,0.8,0.1,1,0,8,11,72.7,0,10,1,0,0,Watford,2018-01-02 Manchester City-Watford,ENG-EPL,17-18,1def0427
+7527558b,André Carrillo,28,PER,"LW,LM",26-202,90,0,1,0,0,1,1,0,0,36,2,0,1,0.1,0.1,0.7,4,2,17,27,63.0,0,29,3,5,5,Watford,2018-01-02 Manchester City-Watford,ENG-EPL,17-18,1def0427
+fa031b34,Richarlison,11,BRA,RW,20-237,81,0,0,0,0,0,0,0,0,28,3,1,0,0.0,0.0,0.0,1,0,13,20,65.0,1,24,2,2,1,Watford,2018-01-02 Manchester City-Watford,ENG-EPL,17-18,1def0427
+1695c659,Jerome Sinclair,17,ENG,"RM,RW",21-104,9,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,2,0,3,1,Watford,2018-01-02 Manchester City-Watford,ENG-EPL,17-18,1def0427
+5acc4a10,Étienne Capoue,29,FRA,AM,29-175,60,0,0,0,0,0,0,0,0,23,2,2,0,0.0,0.0,0.1,1,0,16,19,84.2,4,14,0,0,0,Watford,2018-01-02 Manchester City-Watford,ENG-EPL,17-18,1def0427
+6cdd8245,Tom Cleverley,8,ENG,CM,28-143,30,0,0,0,0,0,0,0,0,13,1,1,0,0.0,0.0,0.0,0,0,9,10,90.0,0,7,0,0,0,Watford,2018-01-02 Manchester City-Watford,ENG-EPL,17-18,1def0427
+02b29014,Abdoulaye Doucouré,16,MLI,DM,25-001,90,0,0,0,0,2,0,0,0,54,5,3,4,0.1,0.1,0.0,2,0,31,37,83.8,4,29,2,0,0,Watford,2018-01-02 Manchester City-Watford,ENG-EPL,17-18,1def0427
+df540668,Ben Watson,23,ENG,DM,32-177,60,0,0,0,0,0,0,0,0,20,1,1,1,0.0,0.0,0.0,1,0,10,15,66.7,1,6,0,0,0,Watford,2018-01-02 Manchester City-Watford,ENG-EPL,17-18,1def0427
+75f2c59f,Roberto Pereyra,37,ARG,CM,26-360,30,0,0,0,0,0,0,1,0,16,1,0,0,0.0,0.0,0.0,0,0,12,13,92.3,2,11,1,0,0,Watford,2018-01-02 Manchester City-Watford,ENG-EPL,17-18,1def0427
+8abd0c03,Marvin Zeegelaar,22,NED,LB,27-143,90,0,0,0,0,0,0,0,0,48,3,1,1,0.0,0.0,0.0,0,0,22,35,62.9,2,15,0,1,1,Watford,2018-01-02 Manchester City-Watford,ENG-EPL,17-18,1def0427
+914ab9a1,Christian Kabasele,27,BEL,CB,26-312,90,0,0,0,0,0,0,0,0,27,1,0,3,0.0,0.0,0.1,1,0,13,20,65.0,2,12,0,0,0,Watford,2018-01-02 Manchester City-Watford,ENG-EPL,17-18,1def0427
+a440d8ca,Molla Wagué,13,MLI,CB,26-315,90,0,0,0,0,0,0,0,0,26,2,3,0,0.0,0.0,0.0,0,0,13,18,72.2,0,12,0,0,0,Watford,2018-01-02 Manchester City-Watford,ENG-EPL,17-18,1def0427
+45da6694,Daryl Janmaat,2,NED,RB,28-164,90,0,0,0,0,1,0,0,0,48,4,5,0,0.0,0.0,0.0,0,0,26,36,72.2,1,20,2,0,0,Watford,2018-01-02 Manchester City-Watford,ENG-EPL,17-18,1def0427
+d596e193,Heurelho Gomes,1,BRA,GK,36-321,90,0,0,0,0,0,0,0,0,32,0,0,0,0.0,0.0,0.0,0,0,10,29,34.5,0,14,0,0,0,Watford,2018-01-02 Manchester City-Watford,ENG-EPL,17-18,1def0427
