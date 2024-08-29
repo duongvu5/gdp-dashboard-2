@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+8b788c01,Anthony Martial,9,FRA,FW,24-304,27,0,0,0,0,0,0,0,1,14,0,0,1,0.0,0.0,0.0,1,1,8,11,72.7,1,13,3,0,0,Manchester United,2020-10-04 Manchester Utd-Tottenham,ENG-EPL,20-21,cded7e69
+a1d5bd30,Marcus Rashford,10,ENG,LW,22-339,90,0,0,0,0,0,0,0,0,34,0,1,0,0.0,0.0,0.0,1,0,22,28,78.6,2,21,3,3,2,Manchester United,2020-10-04 Manchester Utd-Tottenham,ENG-EPL,20-21,cded7e69
+58eee997,Mason Greenwood,11,ENG,RW,19-003,67,0,0,0,0,3,1,0,0,28,0,1,0,0.1,0.1,0.0,0,0,15,20,75.0,1,20,1,3,2,Manchester United,2020-10-04 Manchester Utd-Tottenham,ENG-EPL,20-21,cded7e69
+50dc94ce,Donny van de Beek,34,NED,RW,23-169,23,0,0,0,0,0,0,0,0,14,1,0,0,0.0,0.0,0.0,0,0,10,11,90.9,0,10,1,0,0,Manchester United,2020-10-04 Manchester Utd-Tottenham,ENG-EPL,20-21,cded7e69
+507c7bdf,Bruno Fernandes,18,POR,AM,26-026,45,1,0,1,1,0,0,0,0,37,0,0,0,0.8,0.0,0.0,2,1,24,34,70.6,5,26,1,2,1,Manchester United,2020-10-04 Manchester Utd-Tottenham,ENG-EPL,20-21,cded7e69
+b853e0ad,Fred,17,BRA,AM,27-213,45,0,0,0,0,0,0,0,0,33,2,0,2,0.0,0.0,0.0,0,0,21,28,75.0,4,22,1,2,2,Manchester United,2020-10-04 Manchester Utd-Tottenham,ENG-EPL,20-21,cded7e69
+867239d3,Paul Pogba,6,FRA,DM,27-203,90,0,0,0,0,1,0,0,0,67,4,2,0,0.1,0.1,0.0,1,0,42,51,82.4,4,49,3,5,3,Manchester United,2020-10-04 Manchester Utd-Tottenham,ENG-EPL,20-21,cded7e69
+eb7822d7,Nemanja Matić,31,SRB,DM,32-064,45,0,0,0,0,0,0,0,0,39,0,0,1,0.0,0.0,0.0,1,0,33,37,89.2,1,31,1,0,0,Manchester United,2020-10-04 Manchester Utd-Tottenham,ENG-EPL,20-21,cded7e69
+d93c2511,Scott McTominay,39,SCO,DM,23-301,45,0,0,0,0,0,0,0,0,34,3,2,2,0.0,0.0,0.0,0,0,23,24,95.8,1,23,0,4,3,Manchester United,2020-10-04 Manchester Utd-Tottenham,ENG-EPL,20-21,cded7e69
+9c94165b,Luke Shaw,23,ENG,LB,25-084,90,0,0,0,0,0,0,1,0,53,0,2,1,0.0,0.0,0.1,2,0,32,43,74.4,0,33,0,3,2,Manchester United,2020-10-04 Manchester Utd-Tottenham,ENG-EPL,20-21,cded7e69
+d8931174,Harry Maguire,5,ENG,CB,27-213,90,0,0,0,0,0,0,0,0,56,0,1,0,0.0,0.0,0.0,0,0,44,54,81.5,2,38,1,0,0,Manchester United,2020-10-04 Manchester Utd-Tottenham,ENG-EPL,20-21,cded7e69
+a1232f4e,Eric Bailly,3,CIV,CB,26-175,90,0,0,0,0,0,0,1,0,46,0,1,4,0.0,0.0,0.0,0,0,30,35,85.7,3,26,0,1,1,Manchester United,2020-10-04 Manchester Utd-Tottenham,ENG-EPL,20-21,cded7e69
+9e525177,Aaron Wan-Bissaka,29,ENG,RB,22-313,90,0,0,0,0,0,0,0,0,64,5,1,4,0.0,0.0,0.0,0,0,46,52,88.5,0,33,3,1,1,Manchester United,2020-10-04 Manchester Utd-Tottenham,ENG-EPL,20-21,cded7e69
+7ba6d84e,David de Gea,1,ESP,GK,29-332,90,0,0,0,0,0,0,0,0,26,0,0,0,0.0,0.0,0.0,0,0,21,22,95.5,0,14,0,0,0,Manchester United,2020-10-04 Manchester Utd-Tottenham,ENG-EPL,20-21,cded7e69
+21a66f6a,Harry Kane,10,ENG,FW,27-068,90,2,1,1,1,6,2,0,0,38,0,1,1,1.4,0.6,0.2,6,2,23,28,82.1,7,24,2,1,0,Tottenham Hotspur,2020-10-04 Manchester Utd-Tottenham,ENG-EPL,20-21,cded7e69
+92e7e919,Son Heung-min,7,KOR,LW,28-088,72,2,1,0,0,2,2,0,0,41,0,0,2,0.4,0.4,0.6,6,1,34,35,97.1,4,18,1,0,0,Tottenham Hotspur,2020-10-04 Manchester Utd-Tottenham,ENG-EPL,20-21,cded7e69
+44781702,Ben Davies,33,WAL,LB,27-163,18,0,0,0,0,0,0,0,0,29,1,0,0,0.0,0.0,0.0,2,2,21,24,87.5,2,13,2,1,1,Tottenham Hotspur,2020-10-04 Manchester Utd-Tottenham,ENG-EPL,20-21,cded7e69
+abe66106,Érik Lamela,11,ARG,RW,28-214,45,0,0,0,0,2,0,1,0,24,2,1,0,0.1,0.1,0.0,2,0,12,16,75.0,1,12,2,4,4,Tottenham Hotspur,2020-10-04 Manchester Utd-Tottenham,ENG-EPL,20-21,cded7e69
+2b622f01,Lucas Moura,27,BRA,RW,28-052,45,0,0,0,0,0,0,0,0,19,0,2,0,0.0,0.0,0.0,2,1,10,14,71.4,0,4,0,1,0,Tottenham Hotspur,2020-10-04 Manchester Utd-Tottenham,ENG-EPL,20-21,cded7e69
+5cdddffa,Tanguy Ndombele,28,FRA,LM,23-281,68,1,0,0,0,3,1,0,0,66,3,2,3,0.6,0.6,0.0,3,0,43,49,87.8,4,34,3,3,2,Tottenham Hotspur,2020-10-04 Manchester Utd-Tottenham,ENG-EPL,20-21,cded7e69
+cea4ee8f,Dele Alli,20,ENG,LM,24-176,22,0,0,0,0,1,0,0,0,24,1,0,0,0.1,0.1,0.0,0,0,19,22,86.4,1,13,0,0,0,Tottenham Hotspur,2020-10-04 Manchester Utd-Tottenham,ENG-EPL,20-21,cded7e69
+8b04d6c1,Pierre Højbjerg,5,DEN,CM,25-060,90,0,1,0,0,1,0,0,0,112,3,2,0,0.0,0.0,0.3,4,1,98,104,94.2,7,73,0,0,0,Tottenham Hotspur,2020-10-04 Manchester Utd-Tottenham,ENG-EPL,20-21,cded7e69
+2acd49b9,Moussa Sissoko,17,FRA,RM,31-049,90,0,0,0,0,0,0,0,0,77,3,2,0,0.0,0.0,0.0,3,2,66,67,98.5,3,41,0,1,1,Tottenham Hotspur,2020-10-04 Manchester Utd-Tottenham,ENG-EPL,20-21,cded7e69
+3353737a,Sergio Reguilón,3,ESP,"LB,LW",23-293,90,0,0,0,0,2,0,0,0,91,3,0,4,0.1,0.1,0.5,5,0,58,74,78.4,4,46,1,3,2,Tottenham Hotspur,2020-10-04 Manchester Utd-Tottenham,ENG-EPL,20-21,cded7e69
+ac861941,Eric Dier,15,ENG,CB,26-263,90,0,0,0,0,0,0,0,0,89,0,0,1,0.0,0.0,0.0,0,0,81,84,96.4,1,63,0,0,0,Tottenham Hotspur,2020-10-04 Manchester Utd-Tottenham,ENG-EPL,20-21,cded7e69
+da7b447d,Davinson Sánchez,6,COL,CB,24-114,90,0,0,0,0,1,0,0,0,98,3,0,2,0.4,0.4,0.0,1,0,82,87,94.3,3,63,0,0,0,Tottenham Hotspur,2020-10-04 Manchester Utd-Tottenham,ENG-EPL,20-21,cded7e69
+5c2b4f07,Serge Aurier,24,CIV,RB,27-285,90,1,1,0,0,3,2,0,0,85,4,2,0,0.4,0.4,0.3,3,0,60,71,84.5,7,44,5,1,1,Tottenham Hotspur,2020-10-04 Manchester Utd-Tottenham,ENG-EPL,20-21,cded7e69
+8f62b6ee,Hugo Lloris,1,FRA,GK,33-283,90,0,0,0,0,0,0,0,0,25,0,0,0,0.0,0.0,0.0,0,0,19,24,79.2,0,14,0,0,0,Tottenham Hotspur,2020-10-04 Manchester Utd-Tottenham,ENG-EPL,20-21,cded7e69

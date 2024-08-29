@@ -1,0 +1,28 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+e342ad68,Mohamed Salah,11,EGY,"FW,RW",28-131,90,0,0,0,0,4,1,0,0,51,1,0,0,0.8,0.8,0.1,6,0,33,39,84.6,1,39,6,5,2,Liverpool,2020-10-24 Liverpool-Sheffield Utd,ENG-EPL,20-21,0bc8d984
+c691bfe2,Sadio Mané,10,SEN,LW,28-197,90,0,1,0,0,3,1,0,0,41,1,0,0,0.3,0.3,0.3,4,2,17,26,65.4,1,29,5,3,2,Liverpool,2020-10-24 Liverpool-Sheffield Utd,ENG-EPL,20-21,0bc8d984
+178ae8f8,Diogo Jota,20,POR,RW,23-325,82,1,0,0,0,1,1,0,0,49,0,0,1,0.3,0.3,0.0,2,0,31,40,77.5,3,35,3,5,3,Liverpool,2020-10-24 Liverpool-Sheffield Utd,ENG-EPL,20-21,0bc8d984
+2f90f6b8,James Milner,7,ENG,LM,34-294,8,0,0,0,0,0,0,0,0,5,0,0,1,0.0,0.0,0.0,0,0,1,1,100.0,0,2,0,0,0,Liverpool,2020-10-24 Liverpool-Sheffield Utd,ENG-EPL,20-21,0bc8d984
+4c370d81,Roberto Firmino,9,BRA,AM,29-022,82,1,0,0,0,3,1,0,0,41,0,0,1,0.9,0.9,0.0,1,0,34,35,97.1,4,23,1,2,2,Liverpool,2020-10-24 Liverpool-Sheffield Utd,ENG-EPL,20-21,0bc8d984
+f833a830,Takumi Minamino,18,JPN,FW,25-282,8,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,2,6,33.3,0,4,0,0,0,Liverpool,2020-10-24 Liverpool-Sheffield Utd,ENG-EPL,20-21,0bc8d984
+eb58eef0,Georginio Wijnaldum,5,NED,"DM,RM",29-348,90,0,0,0,0,2,0,0,0,76,1,1,1,0.1,0.1,0.5,2,0,59,63,93.7,0,51,1,2,1,Liverpool,2020-10-24 Liverpool-Sheffield Utd,ENG-EPL,20-21,0bc8d984
+935e6b8f,Jordan Henderson,14,ENG,"DM,CM",30-129,90,0,0,0,0,1,0,0,0,110,1,3,1,0.1,0.1,0.3,3,0,88,98,89.8,15,82,2,0,0,Liverpool,2020-10-24 Liverpool-Sheffield Utd,ENG-EPL,20-21,0bc8d984
+2e4f5f03,Andrew Robertson,26,SCO,LB,26-227,90,0,0,0,0,1,0,0,0,100,1,0,3,0.0,0.0,0.1,3,1,71,90,78.9,3,67,2,1,1,Liverpool,2020-10-24 Liverpool-Sheffield Utd,ENG-EPL,20-21,0bc8d984
+7a11550b,Joe Gomez,12,ENG,CB,23-154,90,0,0,0,0,0,0,0,0,104,1,2,1,0.0,0.0,0.0,1,0,85,90,94.4,11,74,0,0,0,Liverpool,2020-10-24 Liverpool-Sheffield Utd,ENG-EPL,20-21,0bc8d984
+7f3b388c,Fabinho,3,BRA,CB,27-001,90,0,0,0,0,1,0,0,0,101,1,0,3,0.0,0.0,0.0,1,0,75,87,86.2,2,61,0,0,0,Liverpool,2020-10-24 Liverpool-Sheffield Utd,ENG-EPL,20-21,0bc8d984
+cd1acf9d,Trent Alexander-Arnold,66,ENG,RB,22-017,90,0,0,0,0,1,1,0,0,119,0,0,0,0.0,0.0,0.3,7,0,90,115,78.3,12,87,3,1,1,Liverpool,2020-10-24 Liverpool-Sheffield Utd,ENG-EPL,20-21,0bc8d984
+7a2e46a8,Alisson,1,BRA,GK,28-022,90,0,0,0,0,0,0,0,0,38,0,0,0,0.0,0.0,0.0,1,0,25,34,73.5,0,18,0,0,0,Liverpool,2020-10-24 Liverpool-Sheffield Utd,ENG-EPL,20-21,0bc8d984
+30e81a88,Rhian Brewster,24,ENG,FW,20-206,53,0,0,0,0,0,0,0,0,18,0,0,1,0.0,0.0,0.0,2,0,8,11,72.7,0,8,0,1,0,Sheffield United,2020-10-24 Liverpool-Sheffield Utd,ENG-EPL,20-21,0bc8d984
+f631c17f,Oliver Burke,14,SCO,FW,23-200,37,0,0,0,0,2,0,0,0,11,0,0,2,0.1,0.1,0.0,1,0,3,4,75.0,0,7,1,1,1,Sheffield United,2020-10-24 Liverpool-Sheffield Utd,ENG-EPL,20-21,0bc8d984
+78b8ac63,Oliver McBurnie,9,SCO,FW,24-142,90,0,0,0,0,1,0,0,0,50,1,0,0,0.3,0.3,0.1,3,1,23,38,60.5,0,12,1,0,0,Sheffield United,2020-10-24 Liverpool-Sheffield Utd,ENG-EPL,20-21,0bc8d984
+0df2b165,John Lundstram,7,ENG,CM,26-249,75,0,0,0,0,0,0,1,0,52,1,0,1,0.0,0.0,0.0,3,1,34,43,79.1,2,19,1,0,0,Sheffield United,2020-10-24 Liverpool-Sheffield Utd,ENG-EPL,20-21,0bc8d984
+dbe56a33,David McGoldrick,17,IRL,AM,32-330,15,0,0,0,0,1,0,0,0,18,0,0,0,0.0,0.0,0.0,1,0,9,13,69.2,0,5,1,0,0,Sheffield United,2020-10-24 Liverpool-Sheffield Utd,ENG-EPL,20-21,0bc8d984
+10b9fa99,Ethan Ampadu,22,WAL,CM,20-040,90,0,0,0,0,1,0,0,0,55,3,2,2,0.0,0.0,0.3,2,0,41,46,89.1,10,26,0,2,2,Sheffield United,2020-10-24 Liverpool-Sheffield Utd,ENG-EPL,20-21,0bc8d984
+d0b6129f,Sander Berge,8,NOR,CM,22-253,90,1,0,1,1,1,0,1,0,52,2,0,2,0.8,0.0,0.1,2,0,36,42,85.7,2,27,2,2,2,Sheffield United,2020-10-24 Liverpool-Sheffield Utd,ENG-EPL,20-21,0bc8d984
+79bc4c45,Ben Osborn,23,ENG,WB,26-080,90,0,0,0,0,1,1,0,0,67,3,0,2,0.1,0.1,0.0,1,0,43,59,72.9,7,38,2,1,1,Sheffield United,2020-10-24 Liverpool-Sheffield Utd,ENG-EPL,20-21,0bc8d984
+394854c4,George Baldock,2,GRE,WB,27-229,90,0,0,0,0,1,0,0,0,50,2,0,2,0.1,0.1,0.1,4,0,23,41,56.1,3,21,4,3,3,Sheffield United,2020-10-24 Liverpool-Sheffield Utd,ENG-EPL,20-21,0bc8d984
+17d4507a,Enda Stevens,3,IRL,CB,30-107,90,0,0,0,0,2,0,1,0,76,4,0,3,0.1,0.1,0.1,3,0,44,55,80.0,7,23,2,0,0,Sheffield United,2020-10-24 Liverpool-Sheffield Utd,ENG-EPL,20-21,0bc8d984
+debe38a0,John Egan,12,IRL,CB,28-004,90,0,0,0,0,1,0,0,0,45,3,1,3,0.0,0.0,0.0,2,0,26,32,81.3,4,15,0,0,0,Sheffield United,2020-10-24 Liverpool-Sheffield Utd,ENG-EPL,20-21,0bc8d984
+1aa84968,Chris Basham,6,ENG,CB,32-096,90,0,0,0,0,1,0,0,0,55,3,1,2,0.1,0.1,0.0,1,0,27,36,75.0,4,14,1,0,0,Sheffield United,2020-10-24 Liverpool-Sheffield Utd,ENG-EPL,20-21,0bc8d984
+466fb2c5,Aaron Ramsdale,1,ENG,GK,22-163,90,0,0,0,0,0,0,0,0,28,0,0,0,0.0,0.0,0.0,1,0,12,26,46.2,0,11,0,0,0,Sheffield United,2020-10-24 Liverpool-Sheffield Utd,ENG-EPL,20-21,0bc8d984

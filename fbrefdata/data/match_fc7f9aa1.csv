@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+21a66f6a,Harry Kane,10,ENG,FW,27-047,90,0,0,0,0,2,1,0,0,25,0,0,1,0.2,0.2,0.4,2,0,9,17,52.9,3,11,0,2,1,Tottenham Hotspur,2020-09-13 Tottenham-Everton,ENG-EPL,20-21,fc7f9aa1
+92e7e919,Son Heung-min,7,KOR,"LW,FW",28-067,90,0,0,0,0,2,1,0,0,37,1,0,0,0.1,0.1,0.5,4,0,21,30,70.0,1,20,5,0,0,Tottenham Hotspur,2020-09-13 Tottenham-Everton,ENG-EPL,20-21,fc7f9aa1
+2b622f01,Lucas Moura,27,BRA,"AM,RW",28-031,90,0,0,0,0,2,1,0,0,48,0,1,1,0.1,0.1,0.0,2,0,28,38,73.7,2,30,1,2,0,Tottenham Hotspur,2020-09-13 Tottenham-Everton,ENG-EPL,20-21,fc7f9aa1
+cea4ee8f,Dele Alli,20,ENG,AM,24-155,45,0,0,0,0,1,1,0,0,22,1,0,0,0.4,0.4,0.0,2,0,13,17,76.5,2,15,2,0,0,Tottenham Hotspur,2020-09-13 Tottenham-Everton,ENG-EPL,20-21,fc7f9aa1
+2acd49b9,Moussa Sissoko,17,FRA,"RB,DM,RW",31-028,45,0,0,0,0,0,0,0,0,39,1,0,0,0.0,0.0,0.0,1,0,30,38,78.9,3,13,2,1,1,Tottenham Hotspur,2020-09-13 Tottenham-Everton,ENG-EPL,20-21,fc7f9aa1
+2f7acede,Harry Winks,8,ENG,DM,24-224,59,0,0,0,0,0,0,0,0,55,0,0,1,0.0,0.0,0.0,0,0,46,53,86.8,1,33,0,0,0,Tottenham Hotspur,2020-09-13 Tottenham-Everton,ENG-EPL,20-21,fc7f9aa1
+a29b1131,Steven Bergwijn,23,NED,AM,22-341,31,0,0,0,0,0,0,0,0,19,0,0,1,0.0,0.0,0.0,1,0,16,17,94.1,1,12,1,0,0,Tottenham Hotspur,2020-09-13 Tottenham-Everton,ENG-EPL,20-21,fc7f9aa1
+8b04d6c1,Pierre Højbjerg,5,DEN,DM,25-039,90,0,0,0,0,0,0,1,0,89,4,0,1,0.0,0.0,0.0,1,0,73,80,91.3,7,40,0,0,0,Tottenham Hotspur,2020-09-13 Tottenham-Everton,ENG-EPL,20-21,fc7f9aa1
+44781702,Ben Davies,33,WAL,LB,27-142,90,0,0,0,0,1,0,0,0,85,1,1,1,0.1,0.1,0.1,2,0,62,78,79.5,7,40,2,0,0,Tottenham Hotspur,2020-09-13 Tottenham-Everton,ENG-EPL,20-21,fc7f9aa1
+ac861941,Eric Dier,15,ENG,CB,26-242,90,0,0,0,0,0,0,0,0,75,0,1,0,0.0,0.0,0.0,0,0,60,67,89.6,4,52,1,0,0,Tottenham Hotspur,2020-09-13 Tottenham-Everton,ENG-EPL,20-21,fc7f9aa1
+f7d50789,Toby Alderweireld,4,BEL,CB,31-195,90,0,0,0,0,0,0,0,0,85,0,1,4,0.0,0.0,0.1,1,0,68,79,86.1,5,58,0,1,1,Tottenham Hotspur,2020-09-13 Tottenham-Everton,ENG-EPL,20-21,fc7f9aa1
+d557d734,Matt Doherty,2,IRL,RB,28-241,75,0,0,0,0,1,1,0,0,66,1,0,2,0.3,0.3,0.0,2,0,45,54,83.3,6,34,2,2,2,Tottenham Hotspur,2020-09-13 Tottenham-Everton,ENG-EPL,20-21,fc7f9aa1
+5cdddffa,Tanguy Ndombele,28,FRA,DM,23-260,15,0,0,0,0,0,0,0,0,20,0,0,0,0.0,0.0,0.0,0,0,15,19,78.9,3,14,1,0,0,Tottenham Hotspur,2020-09-13 Tottenham-Everton,ENG-EPL,20-21,fc7f9aa1
+8f62b6ee,Hugo Lloris,1,FRA,GK,33-262,90,0,0,0,0,0,0,0,0,30,0,0,0,0.0,0.0,0.0,0,0,28,30,93.3,0,14,0,0,0,Tottenham Hotspur,2020-09-13 Tottenham-Everton,ENG-EPL,20-21,fc7f9aa1
+59e6e5bf,Dominic Calvert-Lewin,9,ENG,FW,23-181,88,1,0,0,0,2,2,0,0,19,0,0,1,0.2,0.2,0.1,2,0,13,15,86.7,2,10,2,1,1,Everton,2020-09-13 Tottenham-Everton,ENG-EPL,20-21,fc7f9aa1
+3d50bcdb,Moise Kean,27,ITA,"LM,FW",20-198,2,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,2,0,1,0,Everton,2020-09-13 Tottenham-Everton,ENG-EPL,20-21,fc7f9aa1
+fa031b34,Richarlison,7,BRA,"LW,FW",23-126,90,0,0,0,0,7,1,0,0,62,5,1,2,0.7,0.7,0.0,6,1,33,42,78.6,2,55,9,11,11,Everton,2020-09-13 Tottenham-Everton,ENG-EPL,20-21,fc7f9aa1
+715bf047,James Rodríguez,19,COL,RW,29-063,89,0,0,0,0,3,0,0,0,70,2,3,1,0.2,0.2,0.4,6,0,47,57,82.5,9,47,1,2,2,Everton,2020-09-13 Tottenham-Everton,ENG-EPL,20-21,fc7f9aa1
+9228b07c,Tom Davies,26,ENG,RM,22-075,1,0,0,0,0,0,0,0,0,2,0,2,0,0.0,0.0,0.0,0,0,0,1,0.0,0,1,0,0,0,Everton,2020-09-13 Tottenham-Everton,ENG-EPL,20-21,fc7f9aa1
+1961b2aa,André Gomes,21,POR,LM,27-045,67,0,0,0,0,1,0,0,0,46,0,0,0,0.1,0.1,0.0,2,0,37,40,92.5,5,32,2,1,1,Everton,2020-09-13 Tottenham-Everton,ENG-EPL,20-21,fc7f9aa1
+76dd1480,Gylfi Sigurðsson,10,ISL,"LM,CM",31-005,23,0,0,0,0,0,0,0,0,15,1,1,0,0.0,0.0,0.0,1,0,9,13,69.2,0,10,0,0,0,Everton,2020-09-13 Tottenham-Everton,ENG-EPL,20-21,fc7f9aa1
+cc700722,Allan,6,BRA,"CM,DM",29-249,90,0,0,0,0,0,0,0,0,69,4,2,0,0.0,0.0,0.0,1,0,46,56,82.1,6,38,1,1,1,Everton,2020-09-13 Tottenham-Everton,ENG-EPL,20-21,fc7f9aa1
+02b29014,Abdoulaye Doucouré,16,MLI,"RM,CM",27-256,90,0,0,0,0,0,0,0,0,64,2,2,0,0.0,0.0,0.2,6,0,48,57,84.2,1,37,1,2,2,Everton,2020-09-13 Tottenham-Everton,ENG-EPL,20-21,fc7f9aa1
+1b84dbe1,Lucas Digne,12,FRA,LB,27-055,90,0,1,0,0,0,0,0,0,88,3,2,2,0.0,0.0,0.1,2,1,63,77,81.8,5,43,0,0,0,Everton,2020-09-13 Tottenham-Everton,ENG-EPL,20-21,fc7f9aa1
+c5b7c315,Michael Keane,5,ENG,CB,27-246,90,0,0,0,0,0,0,0,0,73,1,2,0,0.0,0.0,0.0,1,0,57,61,93.4,1,49,0,0,0,Everton,2020-09-13 Tottenham-Everton,ENG-EPL,20-21,fc7f9aa1
+6d5701f2,Yerry Mina,13,COL,CB,25-356,90,0,0,0,0,1,0,0,0,69,0,3,2,0.0,0.0,0.0,0,0,52,57,91.2,2,42,0,0,0,Everton,2020-09-13 Tottenham-Everton,ENG-EPL,20-21,fc7f9aa1
+0420d84f,Séamus Coleman,23,IRL,RB,31-338,90,0,0,0,0,1,1,0,0,65,1,1,2,0.0,0.0,0.0,3,0,45,51,88.2,3,36,0,1,0,Everton,2020-09-13 Tottenham-Everton,ENG-EPL,20-21,fc7f9aa1
+4806ec67,Jordan Pickford,1,ENG,GK,26-190,90,0,0,0,0,0,0,0,0,39,0,0,0,0.0,0.0,0.0,0,0,20,37,54.1,0,21,0,0,0,Everton,2020-09-13 Tottenham-Everton,ENG-EPL,20-21,fc7f9aa1

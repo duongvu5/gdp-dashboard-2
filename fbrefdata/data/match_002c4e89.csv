@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+21a66f6a,Harry Kane,10,ENG,FW,27-061,90,0,1,0,0,8,5,0,0,35,0,0,1,1.4,1.4,0.6,5,1,15,19,78.9,4,15,2,1,1,Tottenham Hotspur,2020-09-27 Tottenham-Newcastle Utd,ENG-EPL,20-21,002c4e89
+92e7e919,Son Heung-min,7,KOR,LW,28-081,45,0,0,0,0,2,0,0,0,23,0,1,0,0.1,0.1,0.2,4,1,16,20,80.0,2,13,3,1,1,Tottenham Hotspur,2020-09-27 Tottenham-Newcastle Utd,ENG-EPL,20-21,002c4e89
+a29b1131,Steven Bergwijn,23,NED,LW,22-355,45,0,0,0,0,1,1,0,0,32,2,0,0,0.1,0.1,0.2,4,0,25,28,89.3,0,16,2,1,1,Tottenham Hotspur,2020-09-27 Tottenham-Newcastle Utd,ENG-EPL,20-21,002c4e89
+2b622f01,Lucas Moura,27,BRA,RW,28-045,78,1,0,0,0,3,2,0,0,59,0,0,0,0.7,0.7,0.1,2,0,35,48,72.9,2,27,1,3,2,Tottenham Hotspur,2020-09-27 Tottenham-Newcastle Utd,ENG-EPL,20-21,002c4e89
+abe66106,Érik Lamela,11,ARG,RW,28-207,12,0,0,0,0,1,1,0,0,9,0,0,0,0.1,0.1,0.0,1,0,9,9,100.0,1,4,1,0,0,Tottenham Hotspur,2020-09-27 Tottenham-Newcastle Utd,ENG-EPL,20-21,002c4e89
+d7553721,Giovani Lo Celso,18,ARG,AM,24-171,76,0,0,0,0,4,3,0,0,68,0,0,1,0.2,0.2,0.1,6,0,44,57,77.2,8,34,1,2,1,Tottenham Hotspur,2020-09-27 Tottenham-Newcastle Utd,ENG-EPL,20-21,002c4e89
+5cdddffa,Tanguy Ndombele,28,FRA,AM,23-274,14,0,0,0,0,0,0,0,0,21,0,0,0,0.0,0.0,0.0,1,0,17,19,89.5,1,11,0,1,1,Tottenham Hotspur,2020-09-27 Tottenham-Newcastle Utd,ENG-EPL,20-21,002c4e89
+2f7acede,Harry Winks,8,ENG,DM,24-238,90,0,0,0,0,0,0,1,0,100,3,0,1,0.0,0.0,0.0,1,0,90,94,95.7,6,61,1,0,0,Tottenham Hotspur,2020-09-27 Tottenham-Newcastle Utd,ENG-EPL,20-21,002c4e89
+8b04d6c1,Pierre Højbjerg,5,DEN,DM,25-053,90,0,0,0,0,1,0,0,0,121,1,1,0,0.0,0.0,0.3,5,0,96,109,88.1,8,60,2,1,0,Tottenham Hotspur,2020-09-27 Tottenham-Newcastle Utd,ENG-EPL,20-21,002c4e89
+44781702,Ben Davies,33,WAL,LB,27-156,90,0,0,0,0,0,0,0,0,64,2,0,0,0.0,0.0,0.0,0,0,47,57,82.5,1,28,0,0,0,Tottenham Hotspur,2020-09-27 Tottenham-Newcastle Utd,ENG-EPL,20-21,002c4e89
+ac861941,Eric Dier,15,ENG,CB,26-256,90,0,0,0,0,1,0,0,0,74,0,1,1,0.1,0.1,0.0,2,0,62,65,95.4,4,43,0,0,0,Tottenham Hotspur,2020-09-27 Tottenham-Newcastle Utd,ENG-EPL,20-21,002c4e89
+da7b447d,Davinson Sánchez,6,COL,CB,24-107,90,0,0,0,0,2,0,0,0,71,1,3,0,0.3,0.3,0.0,0,0,56,63,88.9,1,38,1,0,0,Tottenham Hotspur,2020-09-27 Tottenham-Newcastle Utd,ENG-EPL,20-21,002c4e89
+d557d734,Matt Doherty,2,IRL,RB,28-255,90,0,0,0,0,0,0,0,0,97,1,2,1,0.0,0.0,0.1,4,0,69,81,85.2,6,55,3,3,1,Tottenham Hotspur,2020-09-27 Tottenham-Newcastle Utd,ENG-EPL,20-21,002c4e89
+8f62b6ee,Hugo Lloris,1,FRA,GK,33-276,90,0,0,0,0,0,0,0,0,14,0,0,0,0.0,0.0,0.0,0,0,10,13,76.9,0,5,0,0,0,Tottenham Hotspur,2020-09-27 Tottenham-Newcastle Utd,ENG-EPL,20-21,002c4e89
+c596fcb0,Callum Wilson,13,ENG,FW,28-213,90,1,0,1,1,0,0,0,0,11,0,0,0,0.8,0.0,0.0,0,0,4,7,57.1,0,6,1,0,0,Newcastle United,2020-09-27 Tottenham-Newcastle Utd,ENG-EPL,20-21,002c4e89
+c17bfb65,Joelinton,9,BRA,LM,24-044,90,0,0,0,0,0,0,1,0,40,1,0,2,0.0,0.0,0.0,1,0,25,29,86.2,1,21,0,3,2,Newcastle United,2020-09-27 Tottenham-Newcastle Utd,ENG-EPL,20-21,002c4e89
+989d5705,Jeff Hendrick,16,IRL,"CM,RM",28-240,73,0,0,0,0,1,0,0,0,26,1,3,0,0.1,0.1,0.0,1,0,18,20,90.0,1,18,0,0,0,Newcastle United,2020-09-27 Tottenham-Newcastle Utd,ENG-EPL,20-21,002c4e89
+de112b84,Jacob Murphy,23,ENG,RM,25-216,17,0,0,0,0,0,0,0,0,11,2,0,0,0.0,0.0,0.0,0,0,5,6,83.3,1,9,0,2,1,Newcastle United,2020-09-27 Tottenham-Newcastle Utd,ENG-EPL,20-21,002c4e89
+3727dd3c,Jonjo Shelvey,8,ENG,CM,28-213,90,0,0,0,0,1,0,1,0,44,2,1,0,0.1,0.1,0.0,2,1,26,38,68.4,1,28,0,2,2,Newcastle United,2020-09-27 Tottenham-Newcastle Utd,ENG-EPL,20-21,002c4e89
+862a1c15,Miguel Almirón,24,PAR,"RM,FW",26-230,76,0,0,0,0,1,0,0,0,41,4,1,0,0.0,0.0,0.1,3,0,23,31,74.2,1,23,0,1,1,Newcastle United,2020-09-27 Tottenham-Newcastle Utd,ENG-EPL,20-21,002c4e89
+b581987a,Andy Carroll,7,ENG,FW,31-265,14,0,0,0,0,1,0,0,0,10,0,0,0,0.0,0.0,0.0,1,0,5,8,62.5,1,3,0,0,0,Newcastle United,2020-09-27 Tottenham-Newcastle Utd,ENG-EPL,20-21,002c4e89
+71ef519e,Matt Ritchie,11,SCO,LB,31-017,68,0,0,0,0,1,0,0,0,45,0,0,1,0.0,0.0,0.1,2,0,25,36,69.4,3,24,0,1,0,Newcastle United,2020-09-27 Tottenham-Newcastle Utd,ENG-EPL,20-21,002c4e89
+efb9215a,Jamal Lewis,15,NIR,LB,22-246,22,0,0,0,0,0,0,1,0,6,0,0,0,0.0,0.0,0.0,0,0,3,6,50.0,0,4,0,0,0,Newcastle United,2020-09-27 Tottenham-Newcastle Utd,ENG-EPL,20-21,002c4e89
+f25b010f,Federico Fernández,18,ARG,CB,31-219,90,0,0,0,0,0,0,0,0,46,2,1,4,0.0,0.0,0.0,0,0,28,35,80.0,2,24,0,0,0,Newcastle United,2020-09-27 Tottenham-Newcastle Utd,ENG-EPL,20-21,002c4e89
+450ab6fc,Jamaal Lascelles,6,ENG,CB,26-321,90,0,0,0,0,0,0,0,0,43,1,1,1,0.0,0.0,0.0,0,0,21,26,80.8,0,16,0,0,0,Newcastle United,2020-09-27 Tottenham-Newcastle Utd,ENG-EPL,20-21,002c4e89
+c951a6df,Isaac Hayden,14,ENG,"CB,CM",25-189,90,0,0,0,0,0,0,1,0,50,3,1,1,0.0,0.0,0.0,0,0,32,36,88.9,0,24,0,0,0,Newcastle United,2020-09-27 Tottenham-Newcastle Utd,ENG-EPL,20-21,002c4e89
+758dd7f0,Javier Manquillo,19,ESP,RB,26-145,90,0,0,0,0,0,0,0,0,50,0,2,0,0.0,0.0,0.0,1,0,30,44,68.2,2,27,1,0,0,Newcastle United,2020-09-27 Tottenham-Newcastle Utd,ENG-EPL,20-21,002c4e89
+cde3309f,Karl Darlow,26,ENG,GK,29-355,90,0,0,0,0,0,0,0,0,42,0,0,0,0.0,0.0,0.0,0,0,19,34,55.9,0,20,0,0,0,Newcastle United,2020-09-27 Tottenham-Newcastle Utd,ENG-EPL,20-21,002c4e89

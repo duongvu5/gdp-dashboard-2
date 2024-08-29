@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+87f7500e,Karlan Grant,29,ENG,FW,23-102,60,0,0,0,0,0,0,0,0,17,0,0,0,0.0,0.0,0.0,0,0,7,10,70.0,1,4,1,0,0,West Bromwich Albion,2020-12-29 West Brom-Leeds United,ENG-EPL,20-21,21f2b720
+b04ee927,Matheus Pereira,12,POR,AM,24-238,30,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,2,4,50.0,0,1,0,0,0,West Bromwich Albion,2020-12-29 West Brom-Leeds United,ENG-EPL,20-21,21f2b720
+f522d7ec,Grady Diangana,11,COD,"LM,RM,AM,FW",22-254,72,0,0,0,0,1,1,0,0,33,1,2,0,0.4,0.4,0.0,1,0,19,25,76.0,0,12,0,2,1,West Bromwich Albion,2020-12-29 West Brom-Leeds United,ENG-EPL,20-21,21f2b720
+c2dfedeb,Filip Krovinović,17,CRO,FW,25-122,18,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,3,4,75.0,0,3,0,0,0,West Bromwich Albion,2020-12-29 West Brom-Leeds United,ENG-EPL,20-21,21f2b720
+c2731c10,Conor Gallagher,18,ENG,CM,20-327,90,0,0,0,0,0,0,0,0,44,3,1,3,0.0,0.0,0.0,0,0,22,31,71.0,4,16,3,1,0,West Bromwich Albion,2020-12-29 West Brom-Leeds United,ENG-EPL,20-21,21f2b720
+7bb5f40e,Matt Phillips,10,SCO,CM,29-291,45,0,0,0,0,0,0,0,0,18,0,0,0,0.0,0.0,0.0,0,0,7,14,50.0,0,5,0,0,0,West Bromwich Albion,2020-12-29 West Brom-Leeds United,ENG-EPL,20-21,21f2b720
+85f8571a,Branislav Ivanović,20,SRB,CB,36-311,45,0,0,0,0,0,0,0,0,14,1,1,3,0.0,0.0,0.0,0,0,6,7,85.7,0,5,0,0,0,West Bromwich Albion,2020-12-29 West Brom-Leeds United,ENG-EPL,20-21,21f2b720
+e75750a3,Callum Robinson,7,IRL,"FW,RM,LM",25-331,90,0,0,0,0,2,0,0,0,33,0,0,0,0.1,0.1,0.0,1,0,11,25,44.0,1,18,3,2,2,West Bromwich Albion,2020-12-29 West Brom-Leeds United,ENG-EPL,20-21,21f2b720
+77bb1522,Romaine Sawyers,19,SKN,"CM,DM",29-057,90,0,0,0,0,0,0,0,0,39,1,0,2,0.0,0.0,0.0,0,0,21,31,67.7,2,18,1,0,0,West Bromwich Albion,2020-12-29 West Brom-Leeds United,ENG-EPL,20-21,21f2b720
+af341b88,Lee Peltier,22,ENG,"WB,LB",34-018,90,0,0,0,0,0,0,0,0,30,3,1,0,0.0,0.0,0.0,2,0,14,22,63.6,3,12,0,0,0,West Bromwich Albion,2020-12-29 West Brom-Leeds United,ENG-EPL,20-21,21f2b720
+1d042188,Dara O'Shea,27,IRL,CB,21-300,90,0,0,0,0,0,0,0,0,32,0,2,0,0.0,0.0,0.0,0,0,15,21,71.4,2,6,1,0,0,West Bromwich Albion,2020-12-29 West Brom-Leeds United,ENG-EPL,20-21,21f2b720
+d6192210,Semi Ajayi,6,NGA,CB,27-050,90,0,0,0,0,0,0,0,0,31,1,0,2,0.0,0.0,0.0,0,0,13,23,56.5,1,10,1,0,0,West Bromwich Albion,2020-12-29 West Brom-Leeds United,ENG-EPL,20-21,21f2b720
+3ec9195b,Darnell Furlong,2,ENG,"WB,RB",25-059,90,0,0,0,0,1,0,0,0,41,0,4,1,0.1,0.1,0.0,0,0,18,31,58.1,2,8,0,0,0,West Bromwich Albion,2020-12-29 West Brom-Leeds United,ENG-EPL,20-21,21f2b720
+9e5708be,Sam Johnstone,1,ENG,GK,27-279,90,0,0,0,0,0,0,0,0,30,0,0,0,0.0,0.0,0.0,0,0,13,29,44.8,0,15,0,0,0,West Bromwich Albion,2020-12-29 West Brom-Leeds United,ENG-EPL,20-21,21f2b720
+93feac6e,Patrick Bamford,9,ENG,FW,27-115,90,0,1,0,0,4,0,0,0,21,1,0,0,0.4,0.4,0.3,2,2,8,11,72.7,1,13,2,1,0,Leeds United,2020-12-29 West Brom-Leeds United,ENG-EPL,20-21,21f2b720
+aa849a12,Jack Harrison,22,ENG,LM,24-039,90,1,0,0,0,3,1,0,0,49,1,2,0,0.4,0.4,0.3,4,1,28,38,73.7,2,36,1,2,1,Leeds United,2020-12-29 West Brom-Leeds United,ENG-EPL,20-21,21f2b720
+282679b4,Mateusz Klich,43,POL,CM,30-199,57,0,1,0,0,0,0,0,0,64,0,0,1,0.0,0.0,0.1,4,1,50,61,82.0,10,50,0,1,1,Leeds United,2020-12-29 West Brom-Leeds United,ENG-EPL,20-21,21f2b720
+8d03ca5a,Jamie Shackleton,46,ENG,CM,21-082,33,0,0,0,0,0,0,0,0,19,2,1,0,0.0,0.0,0.0,1,1,14,16,87.5,0,12,0,0,0,Leeds United,2020-12-29 West Brom-Leeds United,ENG-EPL,20-21,21f2b720
+1fb1c435,Rodrigo,20,ESP,CM,29-298,69,1,0,0,0,2,1,0,0,60,2,0,1,0.1,0.1,0.1,4,0,44,53,83.0,7,44,1,2,1,Leeds United,2020-12-29 West Brom-Leeds United,ENG-EPL,20-21,21f2b720
+c0398aca,Pablo Hernández,19,ESP,CM,35-262,21,0,0,0,0,0,0,0,0,20,0,0,0,0.0,0.0,0.0,1,0,17,18,94.4,4,16,2,2,2,Leeds United,2020-12-29 West Brom-Leeds United,ENG-EPL,20-21,21f2b720
+3423f250,Raphinha,18,BRA,RM,24-015,80,1,0,0,0,2,2,0,0,52,0,0,1,0.1,0.1,0.0,0,0,33,45,73.3,6,36,5,2,0,Leeds United,2020-12-29 West Brom-Leeds United,ENG-EPL,20-21,21f2b720
+f13d02a6,Hélder Costa,17,ANG,RM,26-352,10,0,0,0,0,0,0,0,0,7,1,0,0,0.0,0.0,0.0,0,0,2,5,40.0,0,5,1,0,0,Leeds United,2020-12-29 West Brom-Leeds United,ENG-EPL,20-21,21f2b720
+4f565d77,Kalvin Phillips,23,ENG,DM,25-027,90,0,0,0,0,1,1,0,0,95,2,1,1,0.0,0.0,0.2,4,0,77,86,89.5,8,59,0,3,2,Leeds United,2020-12-29 West Brom-Leeds United,ENG-EPL,20-21,21f2b720
+1a7fcf39,Ezgjan Alioski,10,MKD,LB,28-321,90,1,0,0,0,1,1,1,0,106,1,1,0,0.0,0.0,0.0,1,0,89,102,87.3,12,79,4,2,2,Leeds United,2020-12-29 West Brom-Leeds United,ENG-EPL,20-21,21f2b720
+f4d296e4,Pascal Struijk,21,NED,CB,21-140,90,0,0,0,0,0,0,0,0,124,2,1,0,0.0,0.0,0.0,0,0,110,116,94.8,5,95,0,0,0,Leeds United,2020-12-29 West Brom-Leeds United,ENG-EPL,20-21,21f2b720
+420d7c7d,Luke Ayling,2,ENG,CB,29-126,90,0,0,0,0,1,0,0,0,136,0,0,1,0.2,0.2,0.0,0,0,115,128,89.8,4,106,5,4,4,Leeds United,2020-12-29 West Brom-Leeds United,ENG-EPL,20-21,21f2b720
+67ca8566,Stuart Dallas,15,NIR,RB,29-254,90,0,1,0,0,0,0,0,0,104,1,0,0,0.0,0.0,0.1,6,2,89,98,90.8,7,79,7,1,1,Leeds United,2020-12-29 West Brom-Leeds United,ENG-EPL,20-21,21f2b720
+6b625ac2,Illan Meslier,1,FRA,GK,20-302,90,0,0,0,0,0,0,0,0,41,0,0,0,0.0,0.0,0.0,0,0,32,38,84.2,0,26,0,0,0,Leeds United,2020-12-29 West Brom-Leeds United,ENG-EPL,20-21,21f2b720

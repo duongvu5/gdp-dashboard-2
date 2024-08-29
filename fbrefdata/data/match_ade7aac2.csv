@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+93feac6e,Patrick Bamford,9,ENG,FW,27-133,90,0,0,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.1,1,0,4,7,57.1,1,5,0,0,0,Leeds United,2021-01-16 Leeds United-Brighton,ENG-EPL,20-21,ade7aac2
+3423f250,Raphinha,18,BRA,LM,24-033,74,0,0,0,0,0,0,0,0,39,1,0,1,0.0,0.0,0.1,3,0,22,32,68.8,4,28,1,6,5,Leeds United,2021-01-16 Leeds United-Brighton,ENG-EPL,20-21,ade7aac2
+55b4f1d6,Ian Poveda,7,ENG,RM,20-342,16,0,0,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.0,0,0,7,10,70.0,1,11,2,1,1,Leeds United,2021-01-16 Leeds United-Brighton,ENG-EPL,20-21,ade7aac2
+282679b4,Mateusz Klich,43,POL,"CM,DM",30-217,90,0,0,0,0,2,0,0,0,67,0,0,0,0.1,0.1,0.0,2,0,42,58,72.4,7,44,7,3,3,Leeds United,2021-01-16 Leeds United-Brighton,ENG-EPL,20-21,ade7aac2
+1fb1c435,Rodrigo,20,ESP,CM,29-316,61,0,0,0,0,0,0,0,0,19,1,0,0,0.0,0.0,0.0,0,0,11,16,68.8,0,13,0,1,1,Leeds United,2021-01-16 Leeds United-Brighton,ENG-EPL,20-21,ade7aac2
+6c17e046,Tyler Roberts,11,WAL,CM,22-004,29,0,0,0,0,2,1,0,0,17,0,0,1,0.1,0.1,0.0,2,0,9,13,69.2,1,14,3,2,2,Leeds United,2021-01-16 Leeds United-Brighton,ENG-EPL,20-21,ade7aac2
+aa849a12,Jack Harrison,22,ENG,"RM,LM",24-057,90,0,0,0,0,2,0,0,0,60,1,1,2,0.1,0.1,0.0,0,0,31,48,64.6,4,38,2,4,3,Leeds United,2021-01-16 Leeds United-Brighton,ENG-EPL,20-21,ade7aac2
+f4d296e4,Pascal Struijk,21,NED,"DM,CB",21-158,90,0,0,0,0,0,0,0,0,72,4,2,1,0.0,0.0,0.0,0,0,51,63,81.0,5,34,0,0,0,Leeds United,2021-01-16 Leeds United-Brighton,ENG-EPL,20-21,ade7aac2
+1a7fcf39,Ezgjan Alioski,10,MKD,LB,28-339,66,0,0,0,0,0,0,0,0,79,3,0,0,0.0,0.0,0.0,1,0,56,71,78.9,4,50,0,0,0,Leeds United,2021-01-16 Leeds United-Brighton,ENG-EPL,20-21,ade7aac2
+c0398aca,Pablo Hernández,19,ESP,CM,35-280,24,0,0,0,0,0,0,0,0,25,0,0,0,0.0,0.0,0.0,1,0,17,25,68.0,6,16,2,1,1,Leeds United,2021-01-16 Leeds United-Brighton,ENG-EPL,20-21,ade7aac2
+dc64b8b3,Liam Cooper,6,SCO,CB,29-139,90,0,0,0,0,1,1,0,0,120,1,6,1,0.1,0.1,0.0,0,0,95,106,89.6,9,84,1,0,0,Leeds United,2021-01-16 Leeds United-Brighton,ENG-EPL,20-21,ade7aac2
+420d7c7d,Luke Ayling,2,ENG,"CB,RB",29-144,90,0,0,0,0,0,0,1,0,120,1,0,2,0.0,0.0,0.1,1,0,89,105,84.8,6,86,3,2,2,Leeds United,2021-01-16 Leeds United-Brighton,ENG-EPL,20-21,ade7aac2
+67ca8566,Stuart Dallas,15,NIR,"RB,LB",29-272,90,0,0,0,0,0,0,0,0,79,1,1,0,0.0,0.0,0.0,0,0,66,76,86.8,6,56,3,0,0,Leeds United,2021-01-16 Leeds United-Brighton,ENG-EPL,20-21,ade7aac2
+58bc7d18,Kiko Casilla,13,ESP,GK,34-106,90,0,0,0,0,0,0,0,0,34,0,0,0,0.0,0.0,0.0,0,0,33,34,97.1,0,16,0,0,0,Leeds United,2021-01-16 Leeds United-Brighton,ENG-EPL,20-21,ade7aac2
+4bcf39f6,Neal Maupay,9,FRA,FW,24-155,80,1,0,0,0,2,1,0,0,25,0,0,2,0.7,0.7,0.1,2,0,17,19,89.5,1,16,2,1,1,Brighton & Hove Albion,2021-01-16 Leeds United-Brighton,ENG-EPL,20-21,ade7aac2
+fdd85f94,Davy Pröpper,24,NED,RM,29-136,10,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,1,3,1,1,1,Brighton & Hove Albion,2021-01-16 Leeds United-Brighton,ENG-EPL,20-21,ade7aac2
+83d074ff,Alexis Mac Allister,10,ARG,AM,22-023,61,0,1,0,0,0,0,0,0,24,0,0,1,0.0,0.0,0.7,2,1,16,22,72.7,2,16,1,1,0,Brighton & Hove Albion,2021-01-16 Leeds United-Brighton,ENG-EPL,20-21,ade7aac2
+6c203af0,Yves Bissouma,8,MLI,CM,24-139,29,0,0,0,0,0,0,0,0,13,0,1,1,0.0,0.0,0.0,0,0,7,10,70.0,1,6,0,0,0,Brighton & Hove Albion,2021-01-16 Leeds United-Brighton,ENG-EPL,20-21,ade7aac2
+38ceb24a,Leandro Trossard,11,BEL,"AM,RM",26-043,72,0,0,0,0,1,0,0,0,31,1,0,0,0.1,0.1,0.0,1,1,18,24,75.0,2,19,4,4,2,Brighton & Hove Albion,2021-01-16 Leeds United-Brighton,ENG-EPL,20-21,ade7aac2
+4d0eb7d2,Percy Tau,22,RSA,"FW,RM",26-248,18,0,0,0,0,0,0,0,0,10,0,0,1,0.0,0.0,0.0,0,0,2,4,50.0,0,5,0,0,0,Brighton & Hove Albion,2021-01-16 Leeds United-Brighton,ENG-EPL,20-21,ade7aac2
+8aec0537,Pascal Groß,13,GER,"CM,LM",29-215,90,0,0,0,0,0,0,0,0,43,4,0,0,0.0,0.0,0.0,2,0,23,38,60.5,1,20,0,1,0,Brighton & Hove Albion,2021-01-16 Leeds United-Brighton,ENG-EPL,20-21,ade7aac2
+35e413f1,Ben White,3,ENG,CM,23-100,90,0,0,0,0,2,0,0,0,32,0,1,3,0.1,0.1,0.0,3,0,17,21,81.0,1,11,3,3,2,Brighton & Hove Albion,2021-01-16 Leeds United-Brighton,ENG-EPL,20-21,ade7aac2
+bb5fbd2b,Solly March,20,ENG,"WB,LB",26-180,90,0,0,0,0,0,0,0,0,36,2,1,0,0.0,0.0,0.0,2,0,16,29,55.2,4,11,0,0,0,Brighton & Hove Albion,2021-01-16 Leeds United-Brighton,ENG-EPL,20-21,ade7aac2
+dad4b285,Joël Veltman,34,NED,"WB,RB",29-001,90,0,0,0,0,0,0,0,0,54,3,3,2,0.0,0.0,0.0,0,0,28,37,75.7,2,20,3,2,2,Brighton & Hove Albion,2021-01-16 Leeds United-Brighton,ENG-EPL,20-21,ade7aac2
+b2d31e83,Dan Burn,33,ENG,CB,28-252,90,0,0,0,0,1,0,0,0,55,0,2,0,0.5,0.5,0.0,0,0,22,47,46.8,1,19,1,0,0,Brighton & Hove Albion,2021-01-16 Leeds United-Brighton,ENG-EPL,20-21,ade7aac2
+282f75f3,Lewis Dunk,5,ENG,CB,29-056,90,0,0,0,0,0,0,0,0,41,0,2,2,0.0,0.0,0.5,1,0,27,31,87.1,1,13,0,0,0,Brighton & Hove Albion,2021-01-16 Leeds United-Brighton,ENG-EPL,20-21,ade7aac2
+c40b6180,Adam Webster,4,ENG,CB,26-012,90,0,0,0,0,1,1,1,0,41,0,3,0,0.0,0.0,0.0,0,0,16,26,61.5,5,19,1,1,1,Brighton & Hove Albion,2021-01-16 Leeds United-Brighton,ENG-EPL,20-21,ade7aac2
+6a713852,Robert Sánchez,26,ESP,GK,23-059,90,0,0,0,0,0,0,0,0,37,0,0,0,0.0,0.0,0.0,0,0,19,37,51.4,0,15,0,0,0,Brighton & Hove Albion,2021-01-16 Leeds United-Brighton,ENG-EPL,20-21,ade7aac2

@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+21a66f6a,Harry Kane,10,ENG,FW,27-082,90,2,1,0,0,6,3,0,0,64,2,0,4,0.6,0.6,0.4,4,2,34,44,77.3,5,39,5,1,1,Tottenham Hotspur,2020-10-18 Tottenham-West Ham,ENG-EPL,20-21,17f0eec9
+92e7e919,Son Heung-min,7,KOR,LW,28-102,79,1,1,0,0,2,2,0,0,47,0,0,1,0.6,0.6,0.1,5,2,25,37,67.6,4,28,4,4,2,Tottenham Hotspur,2020-10-18 Tottenham-West Ham,ENG-EPL,20-21,17f0eec9
+2b622f01,Lucas Moura,27,BRA,LW,28-066,11,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,1,0,0,0,Tottenham Hotspur,2020-10-18 Tottenham-West Ham,ENG-EPL,20-21,17f0eec9
+a29b1131,Steven Bergwijn,23,NED,RW,23-010,71,0,0,0,0,1,0,0,0,29,0,1,0,0.0,0.0,0.0,2,0,16,19,84.2,1,21,3,4,1,Tottenham Hotspur,2020-10-18 Tottenham-West Ham,ENG-EPL,20-21,17f0eec9
+a58bb1e1,Gareth Bale,9,WAL,RW,31-094,19,0,0,0,0,2,1,0,0,10,0,0,0,0.4,0.4,0.0,1,0,3,7,42.9,0,3,1,2,1,Tottenham Hotspur,2020-10-18 Tottenham-West Ham,ENG-EPL,20-21,17f0eec9
+5cdddffa,Tanguy Ndombele,28,FRA,AM,23-295,72,0,0,0,0,0,0,0,0,58,2,0,2,0.0,0.0,0.0,2,1,40,47,85.1,4,34,2,2,2,Tottenham Hotspur,2020-10-18 Tottenham-West Ham,ENG-EPL,20-21,17f0eec9
+2f7acede,Harry Winks,8,ENG,CM,24-259,18,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,0,0,6,8,75.0,0,5,0,0,0,Tottenham Hotspur,2020-10-18 Tottenham-West Ham,ENG-EPL,20-21,17f0eec9
+8b04d6c1,Pierre Højbjerg,5,DEN,"DM,LM",25-074,90,0,0,0,0,0,0,0,0,85,2,0,0,0.0,0.0,0.0,2,0,69,77,89.6,5,59,0,1,0,Tottenham Hotspur,2020-10-18 Tottenham-West Ham,ENG-EPL,20-21,17f0eec9
+2acd49b9,Moussa Sissoko,17,FRA,"DM,RM",31-063,90,0,0,0,0,0,0,0,0,57,5,2,2,0.0,0.0,0.0,1,0,42,46,91.3,3,35,1,1,1,Tottenham Hotspur,2020-10-18 Tottenham-West Ham,ENG-EPL,20-21,17f0eec9
+3353737a,Sergio Reguilón,3,ESP,LB,23-307,90,0,1,0,0,0,0,0,0,68,1,2,1,0.0,0.0,0.4,2,1,46,58,79.3,2,39,3,1,0,Tottenham Hotspur,2020-10-18 Tottenham-West Ham,ENG-EPL,20-21,17f0eec9
+da7b447d,Davinson Sánchez,6,COL,CB,24-128,90,0,0,0,0,0,0,0,0,71,2,0,1,0.0,0.0,0.0,0,0,47,57,82.5,1,43,0,0,0,Tottenham Hotspur,2020-10-18 Tottenham-West Ham,ENG-EPL,20-21,17f0eec9
+f7d50789,Toby Alderweireld,4,BEL,CB,31-230,90,0,0,0,0,0,0,0,0,60,7,0,0,0.0,0.0,0.0,1,0,38,47,80.9,1,34,0,0,0,Tottenham Hotspur,2020-10-18 Tottenham-West Ham,ENG-EPL,20-21,17f0eec9
+5c2b4f07,Serge Aurier,24,CIV,RB,27-299,90,0,0,0,0,0,0,0,0,78,4,2,3,0.0,0.0,0.6,2,0,40,54,74.1,2,37,1,2,2,Tottenham Hotspur,2020-10-18 Tottenham-West Ham,ENG-EPL,20-21,17f0eec9
+8f62b6ee,Hugo Lloris,1,FRA,GK,33-297,90,0,0,0,0,0,0,0,0,36,0,0,0,0.0,0.0,0.0,0,0,28,36,77.8,0,17,0,0,0,Tottenham Hotspur,2020-10-18 Tottenham-West Ham,ENG-EPL,20-21,17f0eec9
+ac05f970,Michail Antonio,30,JAM,FW,30-204,76,0,0,0,0,2,0,1,0,26,1,0,3,0.6,0.6,0.1,5,0,10,15,66.7,1,18,2,8,5,West Ham United,2020-10-18 Tottenham-West Ham,ENG-EPL,20-21,17f0eec9
+849c826a,Andriy Yarmolenko,7,UKR,"FW,RM",30-361,14,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,3,3,100.0,0,2,1,0,0,West Ham United,2020-10-18 Tottenham-West Ham,ENG-EPL,20-21,17f0eec9
+82927de4,Pablo Fornals,18,ESP,LM,24-239,76,0,0,0,0,2,1,0,0,36,0,0,0,0.8,0.8,0.0,1,0,25,33,75.8,4,16,0,2,1,West Ham United,2020-10-18 Tottenham-West Ham,ENG-EPL,20-21,17f0eec9
+26f6dca8,Manuel Lanzini,10,ARG,"LM,FW",27-246,14,1,0,0,0,1,1,1,0,13,1,0,1,0.0,0.0,0.0,1,1,6,8,75.0,2,8,1,0,0,West Ham United,2020-10-18 Tottenham-West Ham,ENG-EPL,20-21,17f0eec9
+1c7012b8,Declan Rice,41,ENG,CM,21-278,90,0,0,0,0,0,0,0,0,78,1,2,1,0.0,0.0,0.0,1,0,51,67,76.1,7,48,3,0,0,West Ham United,2020-10-18 Tottenham-West Ham,ENG-EPL,20-21,17f0eec9
+6613c819,Tomáš Souček,28,CZE,CM,25-234,90,0,0,0,0,2,1,1,0,50,1,0,2,0.1,0.1,0.1,2,0,30,40,75.0,6,20,1,0,0,West Ham United,2020-10-18 Tottenham-West Ham,ENG-EPL,20-21,17f0eec9
+79c84d1c,Jarrod Bowen,20,ENG,"RM,FW",23-303,90,0,0,0,0,1,0,0,0,39,0,0,1,0.1,0.1,0.1,4,0,23,32,71.9,3,22,3,1,0,West Ham United,2020-10-18 Tottenham-West Ham,ENG-EPL,20-21,17f0eec9
+57df7a11,Arthur Masuaku,26,COD,LB,26-346,89,0,0,0,0,2,0,1,0,96,1,0,2,0.1,0.1,0.0,4,0,66,83,79.5,13,52,3,6,5,West Ham United,2020-10-18 Tottenham-West Ham,ENG-EPL,20-21,17f0eec9
+9f4647e9,Robert Snodgrass,11,SCO,LM,33-041,1,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,1,1,2,2,100.0,0,2,0,0,0,West Ham United,2020-10-18 Tottenham-West Ham,ENG-EPL,20-21,17f0eec9
+4f974391,Aaron Cresswell,3,ENG,"CB,LB",30-308,90,0,1,0,0,1,0,0,0,82,3,0,0,0.1,0.1,0.2,4,1,58,74,78.4,4,39,0,1,0,West Ham United,2020-10-18 Tottenham-West Ham,ENG-EPL,20-21,17f0eec9
+74b2cd7e,Angelo Ogbonna,21,ITA,CB,32-148,90,0,0,0,0,0,0,1,0,58,1,1,1,0.0,0.0,0.6,2,1,40,51,78.4,3,25,0,0,0,West Ham United,2020-10-18 Tottenham-West Ham,ENG-EPL,20-21,17f0eec9
+3626f7d9,Fabián Balbuena,4,PAR,CB,29-056,90,1,0,0,0,1,1,0,0,56,1,1,2,0.1,0.1,0.0,0,0,39,50,78.0,2,25,0,0,0,West Ham United,2020-10-18 Tottenham-West Ham,ENG-EPL,20-21,17f0eec9
+fdf3cb77,Vladimír Coufal,5,CZE,RB,28-057,90,0,0,0,0,1,0,0,0,56,4,1,1,0.1,0.1,0.0,0,0,32,46,69.6,6,22,3,0,0,West Ham United,2020-10-18 Tottenham-West Ham,ENG-EPL,20-21,17f0eec9
+9328b835,Łukasz Fabiański,1,POL,GK,35-183,90,0,0,0,0,0,0,0,0,25,0,0,0,0.0,0.0,0.0,0,0,23,23,100.0,0,14,0,0,0,West Ham United,2020-10-18 Tottenham-West Ham,ENG-EPL,20-21,17f0eec9

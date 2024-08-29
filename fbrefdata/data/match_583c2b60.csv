@@ -1,0 +1,29 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+93feac6e,Patrick Bamford,9,ENG,FW,27-014,69,1,1,0,0,1,1,0,0,17,0,0,0,0.1,0.1,0.1,2,2,10,11,90.9,2,7,2,1,1,Leeds United,2020-09-19 Leeds United-Fulham,ENG-EPL,20-21,583c2b60
+1a7fcf39,Ezgjan Alioski,10,MKD,CM,28-220,21,0,0,0,0,1,1,0,0,17,1,1,0,0.1,0.1,0.0,2,0,9,12,75.0,0,14,0,0,0,Leeds United,2020-09-19 Leeds United-Fulham,ENG-EPL,20-21,583c2b60
+aa849a12,Jack Harrison,22,ENG,LM,23-304,90,0,0,0,0,2,0,0,0,32,1,1,0,0.1,0.1,0.0,1,1,16,24,66.7,2,23,0,1,0,Leeds United,2020-09-19 Leeds United-Fulham,ENG-EPL,20-21,583c2b60
+282679b4,Mateusz Klich,43,POL,CM,30-098,90,1,1,1,1,0,0,1,0,71,2,3,0,0.8,0.0,0.1,2,2,45,64,70.3,6,38,2,1,0,Leeds United,2020-09-19 Leeds United-Fulham,ENG-EPL,20-21,583c2b60
+1fb1c435,Rodrigo,20,ESP,CM,29-197,45,0,0,0,0,0,0,0,0,21,0,0,0,0.0,0.0,0.0,0,0,12,19,63.2,0,16,1,1,1,Leeds United,2020-09-19 Leeds United-Fulham,ENG-EPL,20-21,583c2b60
+6c17e046,Tyler Roberts,11,WAL,"CM,FW",21-251,45,0,0,0,0,1,1,0,0,23,0,0,0,0.0,0.0,0.1,4,0,13,16,81.3,1,17,0,2,2,Leeds United,2020-09-19 Leeds United-Fulham,ENG-EPL,20-21,583c2b60
+f13d02a6,Hélder Costa,17,ANG,RM,26-251,90,2,0,0,0,2,2,0,0,49,1,0,1,0.1,0.1,0.0,0,0,25,35,71.4,6,32,2,4,2,Leeds United,2020-09-19 Leeds United-Fulham,ENG-EPL,20-21,583c2b60
+4f565d77,Kalvin Phillips,23,ENG,DM,24-292,90,0,0,0,0,0,0,0,0,66,6,1,2,0.0,0.0,0.2,2,0,34,50,68.0,4,29,0,0,0,Leeds United,2020-09-19 Leeds United-Fulham,ENG-EPL,20-21,583c2b60
+67ca8566,Stuart Dallas,15,NIR,LB,29-153,90,0,0,0,0,0,0,0,0,70,5,2,1,0.0,0.0,0.0,0,0,40,58,69.0,5,38,4,2,2,Leeds United,2020-09-19 Leeds United-Fulham,ENG-EPL,20-21,583c2b60
+dc64b8b3,Liam Cooper,6,SCO,CB,29-020,90,0,0,0,0,0,0,0,0,55,0,2,1,0.0,0.0,0.0,1,1,40,51,78.4,3,27,1,1,1,Leeds United,2020-09-19 Leeds United-Fulham,ENG-EPL,20-21,583c2b60
+ea6bc03a,Robin Koch,5,GER,CB,24-064,90,0,0,0,0,2,1,0,0,54,2,0,2,0.2,0.2,0.0,0,0,38,47,80.9,1,29,0,0,0,Leeds United,2020-09-19 Leeds United-Fulham,ENG-EPL,20-21,583c2b60
+420d7c7d,Luke Ayling,2,ENG,RB,29-025,90,0,0,0,0,0,0,0,0,85,4,0,0,0.0,0.0,0.0,0,0,56,76,73.7,3,42,2,4,3,Leeds United,2020-09-19 Leeds United-Fulham,ENG-EPL,20-21,583c2b60
+6b625ac2,Illan Meslier,1,FRA,GK,20-201,90,0,0,0,0,0,0,0,0,41,0,0,0,0.0,0.0,0.0,2,0,35,40,87.5,0,27,0,0,0,Leeds United,2020-09-19 Leeds United-Fulham,ENG-EPL,20-21,583c2b60
+3925dbd6,Aleksandar Mitrović,9,SRB,FW,26-003,90,2,0,1,1,5,3,1,0,54,0,0,1,1.3,0.5,0.0,3,1,23,36,63.9,1,32,0,1,0,Fulham,2020-09-19 Leeds United-Fulham,ENG-EPL,20-21,583c2b60
+979b811d,Ivan Cavaleiro,17,POR,LW,26-337,90,0,0,0,0,0,0,0,0,53,1,2,3,0.0,0.0,0.1,4,1,24,35,68.6,3,30,1,3,2,Fulham,2020-09-19 Leeds United-Fulham,ENG-EPL,20-21,583c2b60
+4047c976,Aboubakar Kamara,47,MTN,RW,25-196,57,0,0,0,0,0,0,0,0,25,0,0,1,0.0,0.0,0.0,0,0,14,22,63.6,0,24,2,1,1,Fulham,2020-09-19 Leeds United-Fulham,ENG-EPL,20-21,583c2b60
+18b999f4,Neeskens Kebano,7,COD,RW,28-193,33,0,0,0,0,1,0,0,0,17,0,0,2,0.0,0.0,0.0,0,0,5,8,62.5,0,9,1,3,1,Fulham,2020-09-19 Leeds United-Fulham,ENG-EPL,20-21,583c2b60
+6612cd8c,Josh Onomah,25,ENG,AM,23-145,57,0,0,0,0,0,0,0,0,27,2,0,0,0.0,0.0,0.0,1,0,20,22,90.9,3,20,1,0,0,Fulham,2020-09-19 Leeds United-Fulham,ENG-EPL,20-21,583c2b60
+0f7533cd,Bobby Reid,14,JAM,AM,27-230,33,1,0,0,0,1,1,0,0,13,0,0,0,0.2,0.2,0.0,0,0,6,9,66.7,2,11,1,3,2,Fulham,2020-09-19 Leeds United-Fulham,ENG-EPL,20-21,583c2b60
+803ae100,Harrison Reed,21,ENG,DM,25-236,69,0,0,0,0,2,1,0,0,60,0,3,2,0.0,0.0,0.0,1,0,46,49,93.9,5,43,3,1,1,Fulham,2020-09-19 Leeds United-Fulham,ENG-EPL,20-21,583c2b60
+2b471f99,Mario Lemina,18,GAB,DM,27-018,21,0,0,0,0,0,0,0,0,10,1,1,0,0.0,0.0,0.0,0,0,4,7,57.1,1,7,1,0,0,Fulham,2020-09-19 Leeds United-Fulham,ENG-EPL,20-21,583c2b60
+6bb2c084,Andre-Frank Zambo Anguissa,29,CMR,DM,24-308,90,0,1,0,0,1,0,0,0,75,4,3,4,0.0,0.0,0.3,6,2,47,56,83.9,6,45,3,11,8,Fulham,2020-09-19 Leeds United-Fulham,ENG-EPL,20-21,583c2b60
+af69e7f0,Joe Bryan,23,ENG,LB,27-002,90,0,0,0,0,1,0,0,0,59,5,2,1,0.0,0.0,0.0,2,1,31,42,73.8,1,32,1,3,3,Fulham,2020-09-19 Leeds United-Fulham,ENG-EPL,20-21,583c2b60
+f7750aa0,Denis Odoi,4,GHA,CB,32-115,90,0,0,0,0,1,0,0,0,61,1,1,2,0.0,0.0,0.0,0,0,46,54,85.2,3,44,5,0,0,Fulham,2020-09-19 Leeds United-Fulham,ENG-EPL,20-21,583c2b60
+5f1a2f31,Michael Hector,3,JAM,CB,28-062,90,0,0,0,0,1,0,0,0,69,1,0,0,0.1,0.1,0.0,3,0,51,63,81.0,7,43,0,2,2,Fulham,2020-09-19 Leeds United-Fulham,ENG-EPL,20-21,583c2b60
+77d7c96f,Kenny Tete,2,NED,RB,24-346,90,0,1,0,0,0,0,1,0,52,3,4,0,0.0,0.0,0.4,2,1,31,40,77.5,3,23,1,1,0,Fulham,2020-09-19 Leeds United-Fulham,ENG-EPL,20-21,583c2b60
+2f965a72,Alphonse Areola,1,FRA,GK,27-205,90,0,0,0,0,0,0,0,0,40,0,0,0,0.0,0.0,0.0,0,0,32,37,86.5,0,31,0,0,0,Fulham,2020-09-19 Leeds United-Fulham,ENG-EPL,20-21,583c2b60
