@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+e7aa9d7c,Fábio Silva,17,POR,FW,18-308,90,0,1,0,0,3,0,0,0,35,0,1,0,0.2,0.2,0.1,2,0,16,22,72.7,0,20,0,2,0,Wolverhampton Wanderers,2021-05-23 Wolves-Manchester Utd,ENG-EPL,20-21,2c081c94
+9a28eba4,Adama Traoré,37,ESP,FW,25-118,26,0,0,0,0,2,0,0,0,16,0,0,1,0.1,0.1,0.1,2,0,5,7,71.4,0,11,5,5,3,Wolverhampton Wanderers,2021-05-23 Wolves-Manchester Utd,ENG-EPL,20-21,2c081c94
+d87e2cae,Willian José,12,BRA,FW,29-181,64,0,0,0,0,1,1,0,0,22,0,1,0,0.2,0.2,0.0,0,0,13,18,72.2,1,11,0,0,0,Wolverhampton Wanderers,2021-05-23 Wolves-Manchester Utd,ENG-EPL,20-21,2c081c94
+f5a00fa4,João Moutinho,28,POR,CM,34-257,90,0,0,0,0,0,0,0,0,78,2,1,2,0.0,0.0,0.1,6,1,57,69,82.6,10,44,1,0,0,Wolverhampton Wanderers,2021-05-23 Wolves-Manchester Utd,ENG-EPL,20-21,2c081c94
+44bfb6c5,Rúben Neves,8,POR,CM,24-071,90,0,0,0,0,2,0,0,0,98,5,0,2,0.1,0.1,0.1,2,0,74,86,86.0,11,68,0,2,0,Wolverhampton Wanderers,2021-05-23 Wolves-Manchester Utd,ENG-EPL,20-21,2c081c94
+5a7301ae,Leander Dendoncker,32,BEL,CM,26-038,59,0,0,0,0,0,0,1,0,30,0,0,0,0.0,0.0,0.0,2,1,28,30,93.3,6,20,0,0,0,Wolverhampton Wanderers,2021-05-23 Wolves-Manchester Utd,ENG-EPL,20-21,2c081c94
+32f60ed8,Morgan Gibbs-White,18,ENG,CM,21-116,31,0,0,0,0,2,1,1,0,36,2,0,0,0.1,0.1,0.0,2,0,19,27,70.4,4,28,3,3,3,Wolverhampton Wanderers,2021-05-23 Wolves-Manchester Utd,ENG-EPL,20-21,2c081c94
+9b398aea,Rayan Aït-Nouri,3,ALG,WB,19-351,82,0,0,0,0,1,1,1,0,58,2,0,0,0.0,0.0,0.0,0,0,37,48,77.1,1,33,3,5,2,Wolverhampton Wanderers,2021-05-23 Wolves-Manchester Utd,ENG-EPL,20-21,2c081c94
+9ae9eaea,Fernando Marçal,5,BRA,WB,32-093,8,0,0,0,0,0,0,0,0,15,2,0,1,0.0,0.0,0.0,1,0,8,12,66.7,0,9,0,0,0,Wolverhampton Wanderers,2021-05-23 Wolves-Manchester Utd,ENG-EPL,20-21,2c081c94
+d04b94db,Nélson Semedo,22,POR,WB,27-188,90,1,0,0,0,1,1,0,0,74,1,0,0,0.1,0.1,0.2,3,0,61,69,88.4,5,52,2,5,4,Wolverhampton Wanderers,2021-05-23 Wolves-Manchester Utd,ENG-EPL,20-21,2c081c94
+a4ac4b8f,Willy Boly,15,CIV,CB,30-109,90,0,0,0,0,1,0,1,0,69,2,3,0,0.0,0.0,0.0,0,0,55,61,90.2,2,46,0,0,0,Wolverhampton Wanderers,2021-05-23 Wolves-Manchester Utd,ENG-EPL,20-21,2c081c94
+2928dca2,Conor Coady,16,ENG,CB,28-087,90,0,0,0,0,0,0,0,0,88,0,0,1,0.0,0.0,0.0,1,0,79,85,92.9,3,66,0,0,0,Wolverhampton Wanderers,2021-05-23 Wolves-Manchester Utd,ENG-EPL,20-21,2c081c94
+9fbbcf39,Romain Saïss,27,MAR,CB,31-058,90,0,0,0,0,1,0,0,0,90,3,4,0,0.1,0.1,0.0,3,0,71,80,88.8,8,56,1,1,0,Wolverhampton Wanderers,2021-05-23 Wolves-Manchester Utd,ENG-EPL,20-21,2c081c94
+79b0d6a0,Rui Patrício,11,POR,GK,33-097,90,0,0,0,0,0,0,0,0,14,0,0,0,0.0,0.0,0.0,0,0,11,12,91.7,0,5,0,0,0,Wolverhampton Wanderers,2021-05-23 Wolves-Manchester Utd,ENG-EPL,20-21,2c081c94
+9dc96f10,Amad Diallo,19,CIV,FW,18-316,81,0,0,0,0,1,1,0,0,55,2,0,0,0.0,0.0,0.4,2,0,37,41,90.2,7,47,7,6,2,Manchester United,2021-05-23 Wolves-Manchester Utd,ENG-EPL,20-21,2c081c94
+00f0482f,Shola Shoretire,74,ENG,FW,17-110,9,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,3,0,0,0,Manchester United,2021-05-23 Wolves-Manchester Utd,ENG-EPL,20-21,2c081c94
+c931d9f9,Daniel James,21,WAL,LW,23-194,89,0,1,0,0,1,0,0,0,28,1,0,2,0.4,0.4,0.5,2,1,14,18,77.8,2,21,2,2,0,Manchester United,2021-05-23 Wolves-Manchester Utd,ENG-EPL,20-21,2c081c94
+b2ee9d2c,Will Fish,48,ENG,LW,18-095,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Manchester United,2021-05-23 Wolves-Manchester Utd,ENG-EPL,20-21,2c081c94
+2fba6108,Anthony Elanga,56,SWE,RW,19-026,90,1,0,0,0,2,1,0,0,53,4,1,0,0.4,0.4,0.0,2,0,27,33,81.8,2,40,0,5,2,Manchester United,2021-05-23 Wolves-Manchester Utd,ENG-EPL,20-21,2c081c94
+29733c72,Juan Mata,8,ESP,AM,33-025,81,1,0,1,1,0,0,0,0,59,0,2,0,0.8,0.0,0.0,1,0,46,52,88.5,3,50,4,0,0,Manchester United,2021-05-23 Wolves-Manchester Utd,ENG-EPL,20-21,2c081c94
+ca22ccb0,Hannibal Mejbri,46,TUN,LM,18-122,9,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,3,3,100.0,1,5,0,3,1,Manchester United,2021-05-23 Wolves-Manchester Utd,ENG-EPL,20-21,2c081c94
+eb7822d7,Nemanja Matić,31,SRB,"DM,CM",32-295,90,0,0,0,0,0,0,0,0,75,2,0,2,0.0,0.0,0.2,3,1,57,66,86.4,3,55,2,0,0,Manchester United,2021-05-23 Wolves-Manchester Utd,ENG-EPL,20-21,2c081c94
+50dc94ce,Donny van de Beek,34,NED,"DM,RM",24-035,90,0,0,0,0,1,0,0,0,62,2,2,1,0.0,0.0,0.0,1,1,44,49,89.8,4,44,1,2,1,Manchester United,2021-05-23 Wolves-Manchester Utd,ENG-EPL,20-21,2c081c94
+e73c9bb2,Alex Telles,27,BRA,LB,28-159,90,0,0,0,0,1,0,0,0,66,1,5,0,0.0,0.0,0.1,3,1,45,53,84.9,5,37,2,1,0,Manchester United,2021-05-23 Wolves-Manchester Utd,ENG-EPL,20-21,2c081c94
+2baec6ce,Axel Tuanzebe,38,COD,CB,23-190,90,0,0,0,0,0,0,0,0,40,2,1,2,0.0,0.0,0.0,0,0,22,25,88.0,0,22,0,0,0,Manchester United,2021-05-23 Wolves-Manchester Utd,ENG-EPL,20-21,2c081c94
+a1232f4e,Eric Bailly,3,CIV,CB,27-041,90,0,0,0,0,1,0,0,0,42,0,2,0,0.1,0.1,0.0,1,0,28,31,90.3,1,26,0,1,1,Manchester United,2021-05-23 Wolves-Manchester Utd,ENG-EPL,20-21,2c081c94
+5e74d6c8,Brandon Williams,33,ENG,RB,20-262,90,0,0,0,0,1,1,0,0,83,0,1,1,0.2,0.2,0.0,1,0,57,67,85.1,4,56,2,2,0,Manchester United,2021-05-23 Wolves-Manchester Utd,ENG-EPL,20-21,2c081c94
+e5a76dfe,Dean Henderson,26,ENG,GK,24-072,90,0,0,0,0,0,0,1,0,30,0,0,0,0.0,0.0,0.0,0,0,22,30,73.3,0,19,0,0,0,Manchester United,2021-05-23 Wolves-Manchester Utd,ENG-EPL,20-21,2c081c94

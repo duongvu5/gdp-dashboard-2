@@ -1,0 +1,29 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+87f7500e,Karlan Grant,29,ENG,FW,23-031,72,0,0,0,0,1,0,0,0,23,0,0,0,0.1,0.1,0.1,1,0,11,16,68.8,0,6,1,0,0,West Bromwich Albion,2020-10-19 West Brom-Burnley,ENG-EPL,20-21,13f3ae88
+e75750a3,Callum Robinson,7,IRL,FW,25-260,18,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,1,3,33.3,0,4,0,1,0,West Bromwich Albion,2020-10-19 West Brom-Burnley,ENG-EPL,20-21,13f3ae88
+f522d7ec,Grady Diangana,11,COD,LM,22-183,90,0,0,0,0,1,1,0,0,40,1,0,0,0.0,0.0,0.0,4,0,24,32,75.0,1,31,3,3,1,West Bromwich Albion,2020-10-19 West Brom-Burnley,ENG-EPL,20-21,13f3ae88
+c2dfedeb,Filip Krovinović,17,CRO,CM,25-051,78,0,0,0,0,1,0,0,0,66,2,0,0,0.0,0.0,0.0,2,0,55,63,87.3,6,36,0,0,0,West Bromwich Albion,2020-10-19 West Brom-Burnley,ENG-EPL,20-21,13f3ae88
+77bb1522,Romaine Sawyers,19,SKN,CM,28-352,12,0,0,0,0,1,0,0,0,10,0,0,0,0.0,0.0,0.0,0,0,5,7,71.4,1,3,0,1,0,West Bromwich Albion,2020-10-19 West Brom-Burnley,ENG-EPL,20-21,13f3ae88
+c2731c10,Conor Gallagher,18,ENG,CM,20-256,90,0,0,0,0,1,0,0,0,51,4,0,1,0.0,0.0,0.1,2,0,36,41,87.8,6,24,0,1,0,West Bromwich Albion,2020-10-19 West Brom-Burnley,ENG-EPL,20-21,13f3ae88
+b04ee927,Matheus Pereira,12,POR,RM,24-167,87,0,0,0,0,3,2,0,0,58,0,0,2,0.1,0.1,0.3,7,0,37,48,77.1,5,25,3,0,0,West Bromwich Albion,2020-10-19 West Brom-Burnley,ENG-EPL,20-21,13f3ae88
+7bb5f40e,Matt Phillips,10,SCO,RM,29-220,3,0,0,0,0,0,0,1,0,4,0,0,1,0.0,0.0,0.0,0,0,2,2,100.0,0,2,1,0,0,West Bromwich Albion,2020-10-19 West Brom-Burnley,ENG-EPL,20-21,13f3ae88
+b98570d1,Jake Livermore,8,ENG,DM,30-340,90,0,0,0,0,0,0,1,0,46,2,1,0,0.0,0.0,0.0,0,0,34,41,82.9,3,22,0,0,0,West Bromwich Albion,2020-10-19 West Brom-Burnley,ENG-EPL,20-21,13f3ae88
+4dc4f138,Conor Townsend,14,ENG,LB,27-229,90,0,0,0,0,1,1,0,0,72,1,0,1,0.0,0.0,0.1,2,0,54,69,78.3,3,30,1,0,0,West Bromwich Albion,2020-10-19 West Brom-Burnley,ENG-EPL,20-21,13f3ae88
+5540c9dc,Ahmed Hegazi,26,EGY,CB,29-268,90,0,0,0,0,0,0,0,0,70,0,1,2,0.0,0.0,0.0,1,0,38,57,66.7,2,28,0,0,0,West Bromwich Albion,2020-10-19 West Brom-Burnley,ENG-EPL,20-21,13f3ae88
+85f8571a,Branislav Ivanović,20,SRB,CB,36-240,90,0,0,0,0,3,1,0,0,65,1,1,0,0.4,0.4,0.0,1,0,34,48,70.8,0,14,0,0,0,West Bromwich Albion,2020-10-19 West Brom-Burnley,ENG-EPL,20-21,13f3ae88
+3ec9195b,Darnell Furlong,2,ENG,RB,24-354,90,0,0,0,0,1,1,0,0,79,3,3,0,0.1,0.1,0.0,2,0,41,69,59.4,3,34,3,1,1,West Bromwich Albion,2020-10-19 West Brom-Burnley,ENG-EPL,20-21,13f3ae88
+9e5708be,Sam Johnstone,1,ENG,GK,27-208,90,0,0,0,0,0,0,0,0,45,0,0,0,0.0,0.0,0.0,0,0,24,42,57.1,0,23,0,0,0,West Bromwich Albion,2020-10-19 West Brom-Burnley,ENG-EPL,20-21,13f3ae88
+4e9a0555,Chris Wood,9,NZL,FW,28-317,90,0,0,0,0,3,0,0,0,30,0,0,0,0.7,0.7,0.0,0,0,13,20,65.0,0,20,0,0,0,Burnley,2020-10-19 West Brom-Burnley,ENG-EPL,20-21,13f3ae88
+2691c772,Ashley Barnes,10,ENG,FW,30-355,76,0,0,0,0,3,3,0,0,20,0,0,0,0.2,0.2,0.1,4,0,9,14,64.3,1,9,0,0,0,Burnley,2020-10-19 West Brom-Burnley,ENG-EPL,20-21,13f3ae88
+4ab53cdb,Jay Rodriguez,19,ENG,FW,31-082,14,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,2,0,0,0,Burnley,2020-10-19 West Brom-Burnley,ENG-EPL,20-21,13f3ae88
+fc15fb84,Dwight McNeil,11,ENG,LM,20-332,90,0,0,0,0,1,0,0,0,55,2,0,2,0.1,0.1,0.1,5,0,25,47,53.2,3,30,8,6,6,Burnley,2020-10-19 West Brom-Burnley,ENG-EPL,20-21,13f3ae88
+47369df8,Josh Brownhill,8,ENG,CM,24-305,90,0,0,0,0,0,0,0,0,53,2,1,0,0.0,0.0,0.0,3,0,30,44,68.2,3,18,0,1,1,Burnley,2020-10-19 West Brom-Burnley,ENG-EPL,20-21,13f3ae88
+495945ef,Ashley Westwood,18,ENG,CM,30-201,90,0,0,0,0,0,0,1,0,59,0,0,2,0.0,0.0,0.3,2,0,40,55,72.7,2,16,0,0,0,Burnley,2020-10-19 West Brom-Burnley,ENG-EPL,20-21,13f3ae88
+f72293fc,Jóhann Berg Guðmundsson,7,ISL,RM,29-358,68,0,0,0,0,1,1,0,0,23,0,1,0,0.1,0.1,0.1,1,0,11,18,61.1,1,8,1,1,0,Burnley,2020-10-19 West Brom-Burnley,ENG-EPL,20-21,13f3ae88
+96bb8cc2,Robbie Brady,12,IRL,RM,28-279,22,0,0,0,0,0,0,0,0,16,0,0,1,0.0,0.0,0.0,0,0,10,14,71.4,0,7,0,0,0,Burnley,2020-10-19 West Brom-Burnley,ENG-EPL,20-21,13f3ae88
+cc2d7ad5,Charlie Taylor,3,ENG,LB,27-031,90,0,0,0,0,0,0,1,0,68,1,1,1,0.0,0.0,0.0,0,0,37,58,63.8,5,23,2,1,0,Burnley,2020-10-19 West Brom-Burnley,ENG-EPL,20-21,13f3ae88
+15ea812b,James Tarkowski,5,ENG,CB,27-335,90,0,0,0,0,1,0,0,0,42,4,0,2,0.1,0.1,0.1,1,0,22,31,71.0,2,11,0,0,0,Burnley,2020-10-19 West Brom-Burnley,ENG-EPL,20-21,13f3ae88
+5a4280b1,Kevin Long,28,IRL,CB,30-062,90,0,0,0,0,0,0,0,0,33,2,0,0,0.0,0.0,0.0,0,0,22,31,71.0,3,11,0,0,0,Burnley,2020-10-19 West Brom-Burnley,ENG-EPL,20-21,13f3ae88
+1ef37668,Erik Pieters,23,NED,RB,32-073,90,0,0,0,0,0,0,0,0,54,2,3,2,0.0,0.0,0.0,0,0,32,44,72.7,0,13,0,3,2,Burnley,2020-10-19 West Brom-Burnley,ENG-EPL,20-21,13f3ae88
+4b40d9ca,Nick Pope,1,ENG,GK,28-183,90,0,0,0,0,0,0,0,0,40,0,0,0,0.0,0.0,0.0,0,0,21,34,61.8,0,18,0,0,0,Burnley,2020-10-19 West Brom-Burnley,ENG-EPL,20-21,13f3ae88

@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+b561db50,Raúl Jiménez,9,MEX,FW,29-173,90,1,0,0,0,6,2,0,0,46,0,2,2,0.3,0.3,0.1,4,0,30,35,85.7,4,25,2,2,1,Wolverhampton Wanderers,2020-10-25 Wolves-Newcastle Utd,ENG-EPL,20-21,76661e3c
+7fcc71d8,Daniel Podence,10,POR,LW,25-004,67,0,0,0,0,3,1,0,0,47,0,1,0,0.1,0.1,0.1,3,0,28,39,71.8,2,32,1,7,5,Wolverhampton Wanderers,2020-10-25 Wolves-Newcastle Utd,ENG-EPL,20-21,76661e3c
+9a28eba4,Adama Traoré,37,ESP,LW,24-274,23,0,0,0,0,0,0,0,0,12,1,0,1,0.0,0.0,0.0,1,0,5,9,55.6,0,11,4,0,0,Wolverhampton Wanderers,2020-10-25 Wolves-Newcastle Utd,ENG-EPL,20-21,76661e3c
+7ba2eaa9,Pedro Neto,7,POR,RW,20-230,90,0,0,0,0,4,0,0,0,74,1,1,1,0.2,0.2,0.1,8,2,52,64,81.3,3,58,6,7,4,Wolverhampton Wanderers,2020-10-25 Wolves-Newcastle Utd,ENG-EPL,20-21,76661e3c
+9fbbcf39,Romain Saïss,27,MAR,LM,30-213,67,0,0,0,0,0,0,0,0,81,2,1,1,0.0,0.0,0.0,1,0,61,73,83.6,8,57,4,0,0,Wolverhampton Wanderers,2020-10-25 Wolves-Newcastle Utd,ENG-EPL,20-21,76661e3c
+9ae9eaea,Fernando Marçal,5,BRA,LM,31-249,23,0,0,0,0,1,0,0,0,21,0,0,0,0.0,0.0,0.1,1,0,14,17,82.4,1,16,1,1,1,Wolverhampton Wanderers,2020-10-25 Wolves-Newcastle Utd,ENG-EPL,20-21,76661e3c
+44bfb6c5,Rúben Neves,8,POR,CM,23-226,82,0,0,0,0,2,0,0,0,102,2,1,0,0.0,0.0,0.1,3,0,83,91,91.2,8,76,2,1,0,Wolverhampton Wanderers,2020-10-25 Wolves-Newcastle Utd,ENG-EPL,20-21,76661e3c
+f5a00fa4,João Moutinho,28,POR,CM,34-047,8,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,6,6,100.0,0,5,0,0,0,Wolverhampton Wanderers,2020-10-25 Wolves-Newcastle Utd,ENG-EPL,20-21,76661e3c
+5a7301ae,Leander Dendoncker,32,BEL,CM,25-193,90,0,0,0,0,0,0,0,0,54,1,0,2,0.0,0.0,0.0,3,0,48,49,98.0,7,34,0,0,0,Wolverhampton Wanderers,2020-10-25 Wolves-Newcastle Utd,ENG-EPL,20-21,76661e3c
+d04b94db,Nélson Semedo,22,POR,RM,26-344,90,0,0,0,0,0,0,0,0,94,2,1,0,0.0,0.0,0.1,4,0,70,81,86.4,8,68,7,10,5,Wolverhampton Wanderers,2020-10-25 Wolves-Newcastle Utd,ENG-EPL,20-21,76661e3c
+d0f72bf1,Max Kilman,49,ENG,CB,23-155,90,0,0,0,0,0,0,0,0,96,1,0,1,0.0,0.0,0.0,1,0,87,89,97.8,7,71,3,1,0,Wolverhampton Wanderers,2020-10-25 Wolves-Newcastle Utd,ENG-EPL,20-21,76661e3c
+2928dca2,Conor Coady,16,ENG,CB,27-243,90,0,0,0,0,0,0,0,0,101,0,1,1,0.0,0.0,0.0,0,0,93,98,94.9,5,79,0,0,0,Wolverhampton Wanderers,2020-10-25 Wolves-Newcastle Utd,ENG-EPL,20-21,76661e3c
+a4ac4b8f,Willy Boly,15,CIV,CB,29-265,90,0,0,0,0,0,0,0,0,85,1,0,1,0.0,0.0,0.0,0,0,73,79,92.4,6,67,0,0,0,Wolverhampton Wanderers,2020-10-25 Wolves-Newcastle Utd,ENG-EPL,20-21,76661e3c
+79b0d6a0,Rui Patrício,11,POR,GK,32-253,90,0,0,0,0,0,0,0,0,15,0,0,0,0.0,0.0,0.0,0,0,14,15,93.3,0,10,0,0,0,Wolverhampton Wanderers,2020-10-25 Wolves-Newcastle Utd,ENG-EPL,20-21,76661e3c
+2b16cb1a,Allan Saint-Maximin,10,FRA,FW,23-227,78,0,0,0,0,1,1,0,0,32,4,1,1,0.0,0.0,0.0,3,0,17,22,77.3,5,24,3,5,4,Newcastle United,2020-10-25 Wolves-Newcastle Utd,ENG-EPL,20-21,76661e3c
+a2b105e0,Sean Longstaff,36,ENG,CM,22-361,12,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,0,0,8,8,100.0,2,6,0,1,1,Newcastle United,2020-10-25 Wolves-Newcastle Utd,ENG-EPL,20-21,76661e3c
+c596fcb0,Callum Wilson,13,ENG,FW,28-241,90,0,0,0,0,1,0,0,0,23,1,0,0,0.0,0.0,0.1,3,1,10,14,71.4,2,11,1,0,0,Newcastle United,2020-10-25 Wolves-Newcastle Utd,ENG-EPL,20-21,76661e3c
+862a1c15,Miguel Almirón,24,PAR,"CM,RM",26-258,90,0,0,0,0,1,0,1,0,60,8,2,3,0.1,0.1,0.0,0,0,34,42,81.0,4,32,2,3,3,Newcastle United,2020-10-25 Wolves-Newcastle Utd,ENG-EPL,20-21,76661e3c
+989d5705,Jeff Hendrick,16,IRL,CM,28-268,90,0,0,0,0,1,0,0,0,56,0,3,2,0.0,0.0,0.0,2,1,42,47,89.4,3,33,0,1,0,Newcastle United,2020-10-25 Wolves-Newcastle Utd,ENG-EPL,20-21,76661e3c
+d56543a0,Ryan Fraser,21,SCO,CM,26-244,77,0,0,0,0,0,0,0,0,29,2,0,0,0.0,0.0,0.0,0,0,18,27,66.7,0,16,1,0,0,Newcastle United,2020-10-25 Wolves-Newcastle Utd,ENG-EPL,20-21,76661e3c
+c17bfb65,Joelinton,9,BRA,"FW,LM",24-072,13,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,3,7,42.9,0,2,0,1,1,Newcastle United,2020-10-25 Wolves-Newcastle Utd,ENG-EPL,20-21,76661e3c
+efb9215a,Jamal Lewis,15,NIR,LB,22-274,90,0,0,0,0,0,0,0,0,58,4,0,2,0.0,0.0,0.0,0,0,35,45,77.8,0,32,3,2,1,Newcastle United,2020-10-25 Wolves-Newcastle Utd,ENG-EPL,20-21,76661e3c
+f25b010f,Federico Fernández,18,ARG,CB,31-247,90,0,0,0,0,0,0,0,0,64,2,0,1,0.0,0.0,0.0,0,0,52,58,89.7,2,38,0,0,0,Newcastle United,2020-10-25 Wolves-Newcastle Utd,ENG-EPL,20-21,76661e3c
+450ab6fc,Jamaal Lascelles,6,ENG,CB,26-349,87,0,0,0,0,0,0,0,0,49,0,0,1,0.0,0.0,0.0,0,0,37,42,88.1,0,26,0,0,0,Newcastle United,2020-10-25 Wolves-Newcastle Utd,ENG-EPL,20-21,76661e3c
+b581987a,Andy Carroll,7,ENG,FW,31-293,3,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,0,0,0,0,Newcastle United,2020-10-25 Wolves-Newcastle Utd,ENG-EPL,20-21,76661e3c
+c8aa95da,Fabian Schär,5,SUI,CB,28-310,90,0,0,0,0,0,0,0,0,64,1,0,2,0.0,0.0,0.0,0,0,49,59,83.1,3,41,0,0,0,Newcastle United,2020-10-25 Wolves-Newcastle Utd,ENG-EPL,20-21,76661e3c
+de112b84,Jacob Murphy,23,ENG,RB,25-244,90,1,0,0,0,1,1,0,0,42,1,1,0,0.1,0.1,0.0,1,0,26,36,72.2,4,18,1,3,2,Newcastle United,2020-10-25 Wolves-Newcastle Utd,ENG-EPL,20-21,76661e3c
+cde3309f,Karl Darlow,26,ENG,GK,30-017,90,0,0,0,0,0,0,0,0,28,0,0,0,0.0,0.0,0.0,0,0,17,27,63.0,0,12,0,0,0,Newcastle United,2020-10-25 Wolves-Newcastle Utd,ENG-EPL,20-21,76661e3c

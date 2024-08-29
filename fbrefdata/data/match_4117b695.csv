@@ -1,0 +1,29 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+1ecb65be,Theo Walcott,32,ENG,FW,31-235,87,0,1,0,0,3,0,0,0,50,2,0,1,0.1,0.1,0.1,3,2,24,29,82.8,0,24,2,5,3,Southampton,2020-11-06 Southampton-Newcastle Utd,ENG-EPL,20-21,4117b695
+9f472354,Shane Long,7,IRL,FW,33-289,3,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,1,0,1,2,50.0,0,0,0,0,0,Southampton,2020-11-06 Southampton-Newcastle Utd,ENG-EPL,20-21,4117b695
+f2bf1b0f,Che Adams,10,SCO,FW,24-116,90,1,0,0,0,4,3,0,0,40,0,0,0,0.2,0.2,0.0,0,0,20,28,71.4,2,19,1,1,1,Southampton,2020-11-06 Southampton-Newcastle Utd,ENG-EPL,20-21,4117b695
+254147d4,Moussa Djenepo,12,MLI,LM,22-144,73,0,0,0,0,1,0,0,0,45,7,1,2,0.1,0.1,0.1,2,0,22,31,71.0,1,23,3,1,1,Southampton,2020-11-06 Southampton-Newcastle Utd,ENG-EPL,20-21,4117b695
+ab651565,Nathan Redmond,11,ENG,LM,26-245,17,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,3,3,100.0,1,3,0,0,0,Southampton,2020-11-06 Southampton-Newcastle Utd,ENG-EPL,20-21,4117b695
+3515d404,James Ward-Prowse,8,ENG,CM,26-005,90,0,0,0,0,0,0,0,0,98,5,1,2,0.0,0.0,0.1,7,0,73,87,83.9,8,46,2,0,0,Southampton,2020-11-06 Southampton-Newcastle Utd,ENG-EPL,20-21,4117b695
+4b511457,Oriol Romeu,6,ESP,CM,29-043,90,0,0,0,0,2,1,1,0,79,6,2,0,0.1,0.1,0.1,6,0,61,69,88.4,5,29,0,0,0,Southampton,2020-11-06 Southampton-Newcastle Utd,ENG-EPL,20-21,4117b695
+97333cf5,Stuart Armstrong,17,SCO,RM,28-221,90,1,0,0,0,2,2,0,0,53,3,4,0,0.1,0.1,0.0,4,2,28,40,70.0,0,37,3,4,2,Southampton,2020-11-06 Southampton-Newcastle Utd,ENG-EPL,20-21,4117b695
+6adbc307,Jack Stephens,5,ENG,LB,26-284,90,0,0,0,0,0,0,0,0,95,2,0,0,0.0,0.0,0.1,2,0,77,93,82.8,2,42,3,0,0,Southampton,2020-11-06 Southampton-Newcastle Utd,ENG-EPL,20-21,4117b695
+1900032e,Jannik Vestergaard,4,DEN,CB,28-095,90,0,0,0,0,0,0,0,0,82,3,0,1,0.0,0.0,0.1,1,0,66,77,85.7,1,49,0,0,0,Southampton,2020-11-06 Southampton-Newcastle Utd,ENG-EPL,20-21,4117b695
+4115ce4e,Jan Bednarek,35,POL,CB,24-208,90,0,0,0,0,2,1,0,0,66,1,2,1,0.2,0.2,0.0,0,0,45,57,78.9,0,32,0,0,0,Southampton,2020-11-06 Southampton-Newcastle Utd,ENG-EPL,20-21,4117b695
+984a5a64,Kyle Walker-Peters,2,ENG,RB,23-207,90,0,0,0,0,1,0,0,0,67,3,2,1,0.0,0.0,0.0,1,0,49,56,87.5,2,32,3,2,2,Southampton,2020-11-06 Southampton-Newcastle Utd,ENG-EPL,20-21,4117b695
+36c2ca73,Alex McCarthy,1,ENG,GK,30-339,90,0,0,0,0,0,0,0,0,33,0,0,0,0.0,0.0,0.0,0,0,22,32,68.8,0,20,0,0,0,Southampton,2020-11-06 Southampton-Newcastle Utd,ENG-EPL,20-21,4117b695
+2b16cb1a,Allan Saint-Maximin,10,FRA,"FW,LM",23-239,90,0,0,0,0,0,0,0,0,38,1,0,0,0.0,0.0,0.0,1,0,19,25,76.0,6,28,5,10,4,Newcastle United,2020-11-06 Southampton-Newcastle Utd,ENG-EPL,20-21,4117b695
+c596fcb0,Callum Wilson,13,ENG,FW,28-253,77,0,0,0,0,0,0,0,0,20,1,1,2,0.0,0.0,0.0,0,0,4,8,50.0,0,13,1,1,0,Newcastle United,2020-11-06 Southampton-Newcastle Utd,ENG-EPL,20-21,4117b695
+b581987a,Andy Carroll,7,ENG,FW,31-305,13,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,4,5,80.0,1,3,0,0,0,Newcastle United,2020-11-06 Southampton-Newcastle Utd,ENG-EPL,20-21,4117b695
+862a1c15,Miguel Almirón,24,PAR,"CM,FW",26-270,90,0,0,0,0,0,0,0,0,34,2,2,1,0.0,0.0,0.0,1,0,17,22,77.3,4,22,0,6,1,Newcastle United,2020-11-06 Southampton-Newcastle Utd,ENG-EPL,20-21,4117b695
+989d5705,Jeff Hendrick,16,IRL,CM,28-280,60,0,0,0,0,0,0,0,0,25,0,0,0,0.0,0.0,0.0,0,0,17,23,73.9,3,19,0,1,0,Newcastle United,2020-11-06 Southampton-Newcastle Utd,ENG-EPL,20-21,4117b695
+c0027d2d,Matthew Longstaff,4,ENG,"CM,AM",20-230,30,0,0,0,0,0,0,0,0,19,0,1,1,0.0,0.0,0.0,1,0,10,15,66.7,1,7,0,0,0,Newcastle United,2020-11-06 Southampton-Newcastle Utd,ENG-EPL,20-21,4117b695
+a2b105e0,Sean Longstaff,36,ENG,"CM,DM",23-007,90,0,0,0,0,1,1,1,0,51,0,0,3,0.1,0.1,0.1,1,0,27,39,69.2,3,26,0,2,0,Newcastle United,2020-11-06 Southampton-Newcastle Utd,ENG-EPL,20-21,4117b695
+efb9215a,Jamal Lewis,15,NIR,LB,22-286,90,0,0,0,0,0,0,0,0,47,2,0,1,0.0,0.0,0.1,2,0,35,42,83.3,1,35,0,1,1,Newcastle United,2020-11-06 Southampton-Newcastle Utd,ENG-EPL,20-21,4117b695
+f25b010f,Federico Fernández,18,ARG,CB,31-259,90,0,0,0,0,0,0,1,0,64,3,1,3,0.0,0.0,0.0,0,0,45,55,81.8,2,40,0,0,0,Newcastle United,2020-11-06 Southampton-Newcastle Utd,ENG-EPL,20-21,4117b695
+450ab6fc,Jamaal Lascelles,6,ENG,CB,26-361,90,0,0,0,0,1,0,0,0,58,0,2,2,0.1,0.1,0.0,0,0,40,49,81.6,0,38,0,0,0,Newcastle United,2020-11-06 Southampton-Newcastle Utd,ENG-EPL,20-21,4117b695
+c8aa95da,Fabian Schär,5,SUI,"CB,RB",28-322,90,0,0,0,0,0,0,0,0,66,3,3,2,0.0,0.0,0.0,0,0,44,53,83.0,4,41,0,1,1,Newcastle United,2020-11-06 Southampton-Newcastle Utd,ENG-EPL,20-21,4117b695
+de112b84,Jacob Murphy,23,ENG,RB,25-256,78,0,0,0,0,1,0,0,0,34,1,0,2,0.1,0.1,0.0,0,0,15,23,65.2,1,21,2,6,2,Newcastle United,2020-11-06 Southampton-Newcastle Utd,ENG-EPL,20-21,4117b695
+c17bfb65,Joelinton,9,BRA,RM,24-084,12,0,0,0,0,1,1,0,0,7,0,0,0,0.0,0.0,0.0,0,0,5,6,83.3,0,5,0,0,0,Newcastle United,2020-11-06 Southampton-Newcastle Utd,ENG-EPL,20-21,4117b695
+cde3309f,Karl Darlow,26,ENG,GK,30-029,90,0,0,0,0,0,0,0,0,35,0,0,0,0.0,0.0,0.0,0,0,12,29,41.4,0,15,0,0,0,Newcastle United,2020-11-06 Southampton-Newcastle Utd,ENG-EPL,20-21,4117b695

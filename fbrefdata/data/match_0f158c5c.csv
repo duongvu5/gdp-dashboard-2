@@ -1,0 +1,29 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+2691c772,Ashley Barnes,10,ENG,"FW,LM",31-001,72,0,0,0,0,2,0,0,0,24,0,0,1,0.4,0.4,0.0,2,0,14,17,82.4,1,16,1,0,0,Burnley,2020-10-31 Burnley-Chelsea,ENG-EPL,20-21,0f158c5c
+96bb8cc2,Robbie Brady,12,IRL,RM,28-291,18,0,0,0,0,0,0,0,0,18,1,0,2,0.0,0.0,0.0,1,0,7,11,63.6,1,10,0,1,0,Burnley,2020-10-31 Burnley-Chelsea,ENG-EPL,20-21,0f158c5c
+4e9a0555,Chris Wood,9,NZL,FW,28-329,90,0,0,0,0,0,0,0,0,18,0,0,0,0.0,0.0,0.0,0,0,8,14,57.1,0,11,0,0,0,Burnley,2020-10-31 Burnley-Chelsea,ENG-EPL,20-21,0f158c5c
+fc15fb84,Dwight McNeil,11,ENG,"LM,FW",20-344,90,0,0,0,0,0,0,0,0,46,1,0,0,0.0,0.0,0.0,0,0,27,35,77.1,3,34,0,4,3,Burnley,2020-10-31 Burnley-Chelsea,ENG-EPL,20-21,0f158c5c
+653ee42d,Dale Stephens,16,ENG,CM,31-141,45,0,0,0,0,0,0,0,0,17,1,2,0,0.0,0.0,0.0,0,0,6,11,54.5,1,10,0,0,0,Burnley,2020-10-31 Burnley-Chelsea,ENG-EPL,20-21,0f158c5c
+4ab53cdb,Jay Rodriguez,19,ENG,"RM,FW",31-094,45,0,0,0,0,1,0,0,0,15,0,0,2,0.0,0.0,0.0,2,0,9,11,81.8,0,8,0,3,2,Burnley,2020-10-31 Burnley-Chelsea,ENG-EPL,20-21,0f158c5c
+495945ef,Ashley Westwood,18,ENG,CM,30-213,90,0,0,0,0,0,0,0,0,72,2,0,0,0.0,0.0,0.0,1,0,54,67,80.6,6,43,1,0,0,Burnley,2020-10-31 Burnley-Chelsea,ENG-EPL,20-21,0f158c5c
+47369df8,Josh Brownhill,8,ENG,"CM,RM",24-317,90,0,0,0,0,0,0,0,0,59,1,3,1,0.0,0.0,0.0,1,0,47,54,87.0,3,32,2,0,0,Burnley,2020-10-31 Burnley-Chelsea,ENG-EPL,20-21,0f158c5c
+cc2d7ad5,Charlie Taylor,3,ENG,LB,27-043,90,0,0,0,0,0,0,0,0,45,2,1,1,0.0,0.0,0.0,0,0,19,37,51.4,1,17,3,0,0,Burnley,2020-10-31 Burnley-Chelsea,ENG-EPL,20-21,0f158c5c
+15ea812b,James Tarkowski,5,ENG,CB,27-347,90,0,0,0,0,1,0,0,0,45,2,0,2,0.0,0.0,0.0,0,0,27,35,77.1,3,18,0,0,0,Burnley,2020-10-31 Burnley-Chelsea,ENG-EPL,20-21,0f158c5c
+5a4280b1,Kevin Long,28,IRL,CB,30-074,90,0,0,0,0,0,0,1,0,43,1,1,1,0.0,0.0,0.0,0,0,29,35,82.9,1,24,0,0,0,Burnley,2020-10-31 Burnley-Chelsea,ENG-EPL,20-21,0f158c5c
+9a9c05db,Matthew Lowton,2,ENG,RB,31-144,90,0,0,0,0,1,0,0,0,71,2,0,0,0.0,0.0,0.4,2,0,46,63,73.0,6,32,1,1,1,Burnley,2020-10-31 Burnley-Chelsea,ENG-EPL,20-21,0f158c5c
+4b40d9ca,Nick Pope,1,ENG,GK,28-195,90,0,0,0,0,0,0,0,0,33,0,1,0,0.0,0.0,0.0,0,0,18,32,56.3,0,14,0,0,0,Burnley,2020-10-31 Burnley-Chelsea,ENG-EPL,20-21,0f158c5c
+f586779e,Tammy Abraham,9,ENG,FW,23-029,76,0,1,0,0,2,1,0,0,31,0,0,0,0.1,0.1,0.1,2,1,19,24,79.2,2,15,0,0,0,Chelsea,2020-10-31 Burnley-Chelsea,ENG-EPL,20-21,0f158c5c
+16ceb862,Olivier Giroud,18,FRA,FW,34-031,14,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,1,0,5,6,83.3,0,1,0,0,0,Chelsea,2020-10-31 Burnley-Chelsea,ENG-EPL,20-21,0f158c5c
+49fe9070,Timo Werner,11,GER,LW,24-239,90,1,0,0,0,2,2,0,0,51,0,0,0,0.3,0.3,0.1,5,1,35,39,89.7,2,38,1,3,1,Chelsea,2020-10-31 Burnley-Chelsea,ENG-EPL,20-21,0f158c5c
+6622454d,Hakim Ziyech,22,MAR,RW,27-226,72,1,1,0,0,1,1,0,0,62,0,2,0,0.1,0.1,0.2,3,1,41,52,78.8,7,33,0,1,0,Chelsea,2020-10-31 Burnley-Chelsea,ENG-EPL,20-21,0f158c5c
+15f3ec41,Callum Hudson-Odoi,20,ENG,RW,19-359,18,0,0,0,0,0,0,0,0,9,1,1,0,0.0,0.0,0.0,2,0,7,7,100.0,0,7,1,0,0,Chelsea,2020-10-31 Burnley-Chelsea,ENG-EPL,20-21,0f158c5c
+9674002f,Mason Mount,19,ENG,LM,21-295,90,0,1,0,0,3,2,0,0,97,3,1,1,0.1,0.1,0.2,2,0,74,83,89.2,12,52,1,1,1,Chelsea,2020-10-31 Burnley-Chelsea,ENG-EPL,20-21,0f158c5c
+b9fbae28,N'Golo Kanté,7,FRA,"CM,RM",29-216,90,0,0,0,0,1,0,0,0,103,3,2,0,0.0,0.0,0.0,2,0,88,93,94.6,6,58,1,1,0,Chelsea,2020-10-31 Burnley-Chelsea,ENG-EPL,20-21,0f158c5c
+fed7cb61,Kai Havertz,29,GER,RM,21-142,85,0,0,0,0,1,1,0,0,75,1,0,2,0.0,0.0,0.0,3,0,62,69,89.9,9,46,4,3,3,Chelsea,2020-10-31 Burnley-Chelsea,ENG-EPL,20-21,0f158c5c
+45db685d,Jorginho,5,ITA,CM,28-316,5,0,0,0,0,0,0,0,0,5,0,0,2,0.0,0.0,0.0,0,0,2,4,50.0,0,1,0,0,0,Chelsea,2020-10-31 Burnley-Chelsea,ENG-EPL,20-21,0f158c5c
+d2424d1b,Ben Chilwell,21,ENG,LB,23-315,90,0,0,0,0,0,0,0,0,95,2,0,0,0.0,0.0,0.0,0,0,69,87,79.3,1,58,6,1,1,Chelsea,2020-10-31 Burnley-Chelsea,ENG-EPL,20-21,0f158c5c
+86e7deaf,Thiago Silva,6,BRA,CB,36-039,90,0,0,0,0,1,1,0,0,106,1,0,2,0.0,0.0,0.0,1,0,90,97,92.8,4,62,0,0,0,Chelsea,2020-10-31 Burnley-Chelsea,ENG-EPL,20-21,0f158c5c
+ce4246f5,Kurt Zouma,15,FRA,CB,26-004,90,1,0,0,0,1,1,0,0,63,1,0,0,0.1,0.1,0.0,0,0,49,55,89.1,0,38,1,0,0,Chelsea,2020-10-31 Burnley-Chelsea,ENG-EPL,20-21,0f158c5c
+1265a93a,Reece James,24,ENG,RB,20-328,90,0,0,0,0,2,0,0,0,87,1,0,1,0.1,0.1,0.0,3,1,66,81,81.5,8,52,8,2,2,Chelsea,2020-10-31 Burnley-Chelsea,ENG-EPL,20-21,0f158c5c
+33887998,Edouard Mendy,16,SEN,GK,28-244,90,0,0,0,0,0,0,0,0,37,0,0,0,0.0,0.0,0.0,0,0,25,37,67.6,0,15,0,0,0,Chelsea,2020-10-31 Burnley-Chelsea,ENG-EPL,20-21,0f158c5c

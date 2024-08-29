@@ -1,0 +1,29 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+b66315ae,Gabriel Jesus,9,BRA,FW,23-239,90,0,1,0,0,2,0,0,0,28,0,0,2,0.1,0.1,0.2,5,2,15,18,83.3,1,17,3,4,2,Manchester City,2020-11-28 Manchester City-Burnley,ENG-EPL,20-21,2069ffbc
+9e1035f8,Ferrán Torres,21,ESP,LW,20-273,66,1,0,0,0,2,1,0,0,23,0,0,1,0.2,0.2,0.1,3,1,15,16,93.8,4,14,2,1,0,Manchester City,2020-11-28 Manchester City-Burnley,ENG-EPL,20-21,2069ffbc
+ed1e53f3,Phil Foden,47,ENG,LW,20-184,24,0,1,0,0,1,0,0,0,9,0,0,0,0.1,0.1,0.3,1,1,5,6,83.3,0,6,2,1,0,Manchester City,2020-11-28 Manchester City-Burnley,ENG-EPL,20-21,2069ffbc
+892d5bb1,Riyad Mahrez,26,ALG,RW,29-281,90,3,0,0,0,5,3,0,0,68,1,1,1,1.0,1.0,0.3,8,2,44,52,84.6,3,38,3,3,1,Manchester City,2020-11-28 Manchester City-Burnley,ENG-EPL,20-21,2069ffbc
+e46012d4,Kevin De Bruyne,17,BEL,AM,29-153,90,0,2,0,0,3,1,0,0,75,2,0,0,0.1,0.1,0.4,9,4,49,63,77.8,12,40,6,3,2,Manchester City,2020-11-28 Manchester City-Burnley,ENG-EPL,20-21,2069ffbc
+819b3158,İlkay Gündoğan,8,GER,DM,30-035,90,0,0,0,0,1,0,0,0,99,2,0,1,0.0,0.0,0.1,5,0,84,91,92.3,11,51,1,0,0,Manchester City,2020-11-28 Manchester City-Burnley,ENG-EPL,20-21,2069ffbc
+6434f10d,Rodri,16,ESP,DM,24-159,45,0,0,0,0,0,0,0,0,64,0,0,0,0.0,0.0,0.0,1,0,57,60,95.0,6,38,1,1,1,Manchester City,2020-11-28 Manchester City-Burnley,ENG-EPL,20-21,2069ffbc
+101da2b5,Fernandinho,25,BRA,DM,35-208,45,0,0,0,0,1,0,0,0,44,1,0,0,0.1,0.1,0.0,2,0,36,41,87.8,4,23,2,0,0,Manchester City,2020-11-28 Manchester City-Burnley,ENG-EPL,20-21,2069ffbc
+5271c8f1,Benjamin Mendy,22,FRA,LB,26-134,90,1,0,0,0,1,1,0,0,91,0,0,2,0.1,0.1,0.0,0,0,64,81,79.0,3,52,0,3,2,Manchester City,2020-11-28 Manchester City-Burnley,ENG-EPL,20-21,2069ffbc
+31c69ef1,Rúben Dias,3,POR,CB,23-198,69,0,0,0,0,1,0,0,0,78,1,0,1,0.1,0.1,0.0,1,0,61,69,88.4,6,46,0,0,0,Manchester City,2020-11-28 Manchester City-Burnley,ENG-EPL,20-21,2069ffbc
+2bed3eab,Eric García,50,ESP,CB,19-324,21,0,0,0,0,0,0,0,0,26,0,0,1,0.0,0.0,0.0,0,0,20,22,90.9,0,17,0,0,0,Manchester City,2020-11-28 Manchester City-Burnley,ENG-EPL,20-21,2069ffbc
+5eecec3d,John Stones,5,ENG,CB,26-184,90,0,0,0,0,1,0,0,0,110,0,2,1,0.0,0.0,0.0,1,0,94,97,96.9,8,76,0,0,0,Manchester City,2020-11-28 Manchester City-Burnley,ENG-EPL,20-21,2069ffbc
+86dd77d1,Kyle Walker,2,ENG,RB,30-184,90,0,1,0,0,1,0,0,0,109,0,1,0,0.0,0.0,0.2,1,0,87,101,86.1,4,66,2,1,0,Manchester City,2020-11-28 Manchester City-Burnley,ENG-EPL,20-21,2069ffbc
+3bb7b8b4,Ederson,31,BRA,GK,27-103,90,0,0,0,0,0,0,0,0,34,0,0,0,0.0,0.0,0.0,0,0,29,33,87.9,0,18,0,0,0,Manchester City,2020-11-28 Manchester City-Burnley,ENG-EPL,20-21,2069ffbc
+4e9a0555,Chris Wood,9,NZL,FW,28-357,66,0,0,0,0,0,0,0,0,15,0,0,0,0.0,0.0,0.0,0,0,7,13,53.8,0,4,0,0,0,Burnley,2020-11-28 Manchester City-Burnley,ENG-EPL,20-21,2069ffbc
+1ef37668,Erik Pieters,23,NED,RM,32-113,24,0,0,0,0,0,0,0,0,14,2,0,2,0.0,0.0,0.0,2,0,10,10,100.0,0,7,0,0,0,Burnley,2020-11-28 Manchester City-Burnley,ENG-EPL,20-21,2069ffbc
+fc15fb84,Dwight McNeil,11,ENG,"LM,FW",21-006,90,0,0,0,0,2,0,0,0,50,2,0,0,0.1,0.1,0.0,1,0,29,39,74.4,0,31,2,5,4,Burnley,2020-11-28 Manchester City-Burnley,ENG-EPL,20-21,2069ffbc
+2691c772,Ashley Barnes,10,ENG,"FW,LM",31-029,80,0,0,0,0,3,0,0,0,23,1,0,1,0.1,0.1,0.0,0,0,6,10,60.0,1,10,1,0,0,Burnley,2020-11-28 Manchester City-Burnley,ENG-EPL,20-21,2069ffbc
+0d4ceb32,Matěj Vydra,27,CZE,FW,28-211,10,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,2,0,0,0,Burnley,2020-11-28 Manchester City-Burnley,ENG-EPL,20-21,2069ffbc
+bf3aeb61,Josh Benson,41,ENG,CM,20-359,90,0,0,0,0,2,0,0,0,40,2,3,0,0.2,0.2,0.0,1,0,28,31,90.3,1,20,0,2,2,Burnley,2020-11-28 Manchester City-Burnley,ENG-EPL,20-21,2069ffbc
+495945ef,Ashley Westwood,18,ENG,CM,30-241,90,0,0,0,0,0,0,0,0,72,0,0,0,0.0,0.0,0.2,7,0,48,67,71.6,6,39,1,1,0,Burnley,2020-11-28 Manchester City-Burnley,ENG-EPL,20-21,2069ffbc
+4ab53cdb,Jay Rodriguez,19,ENG,"RM,FW",31-122,90,0,0,0,0,1,1,0,0,22,1,0,1,0.1,0.1,0.0,2,0,12,14,85.7,1,9,1,2,0,Burnley,2020-11-28 Manchester City-Burnley,ENG-EPL,20-21,2069ffbc
+cc2d7ad5,Charlie Taylor,3,ENG,LB,27-071,90,0,0,0,0,0,0,0,0,51,2,3,1,0.0,0.0,0.0,1,0,27,40,67.5,2,29,1,2,1,Burnley,2020-11-28 Manchester City-Burnley,ENG-EPL,20-21,2069ffbc
+8df7a2fb,Ben Mee,6,ENG,CB,31-068,90,0,0,0,0,0,0,0,0,39,1,2,1,0.0,0.0,0.0,0,0,22,31,71.0,0,28,0,0,0,Burnley,2020-11-28 Manchester City-Burnley,ENG-EPL,20-21,2069ffbc
+15ea812b,James Tarkowski,5,ENG,CB,28-009,90,0,0,0,0,1,0,0,0,37,2,3,2,0.1,0.1,0.0,0,0,17,25,68.0,3,18,0,0,0,Burnley,2020-11-28 Manchester City-Burnley,ENG-EPL,20-21,2069ffbc
+9a9c05db,Matthew Lowton,2,ENG,RB,31-172,90,0,0,0,0,0,0,0,0,47,1,1,3,0.0,0.0,0.0,0,0,27,39,69.2,0,20,4,0,0,Burnley,2020-11-28 Manchester City-Burnley,ENG-EPL,20-21,2069ffbc
+4879f8cb,Bailey Peacock-Farrell,15,NIR,GK,24-030,90,0,0,0,0,0,0,0,0,34,0,0,0,0.0,0.0,0.0,1,0,13,33,39.4,0,12,0,0,0,Burnley,2020-11-28 Manchester City-Burnley,ENG-EPL,20-21,2069ffbc

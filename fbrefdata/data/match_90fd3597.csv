@@ -1,0 +1,28 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+9dbb75ca,Alexandre Lacazette,9,FRA,FW,29-164,64,0,0,0,0,1,0,0,0,14,0,0,1,0.2,0.2,0.0,0,0,6,9,66.7,0,4,0,1,0,Arsenal,2020-11-08 Arsenal-Aston Villa,ENG-EPL,20-21,90fd3597
+a53649b7,Eddie Nketiah,30,ENG,FW,21-162,26,0,0,0,0,1,0,0,0,11,0,0,0,0.2,0.2,0.1,2,0,8,8,100.0,0,5,0,2,1,Arsenal,2020-11-08 Arsenal-Aston Villa,ENG-EPL,20-21,90fd3597
+d5dd5f1f,Pierre-Emerick Aubameyang,14,GAB,LW,31-143,90,0,0,0,0,0,0,0,0,38,0,0,3,0.0,0.0,0.2,3,0,22,31,71.0,1,25,2,0,0,Arsenal,2020-11-08 Arsenal-Aston Villa,ENG-EPL,20-21,90fd3597
+8b9ebd03,Willian,12,BRA,RW,32-091,64,0,0,0,0,2,0,0,0,40,2,0,0,0.1,0.1,0.0,4,0,28,34,82.4,1,22,3,1,1,Arsenal,2020-11-08 Arsenal-Aston Villa,ENG-EPL,20-21,90fd3597
+57e3f0c7,Nicolas Pépé,19,CIV,RW,25-163,26,0,0,0,0,2,1,0,0,17,0,0,0,0.1,0.1,0.0,0,0,6,13,46.2,0,14,4,1,1,Arsenal,2020-11-08 Arsenal-Aston Villa,ENG-EPL,20-21,90fd3597
+bc7dc64d,Bukayo Saka,7,ENG,LM,19-064,90,0,0,0,0,0,0,0,0,43,1,0,2,0.0,0.0,0.0,2,0,26,36,72.2,6,33,4,0,0,Arsenal,2020-11-08 Arsenal-Aston Villa,ENG-EPL,20-21,90fd3597
+47a34c4f,Mohamed Elneny,25,EGY,CM,28-120,90,0,0,0,0,1,0,0,0,66,0,0,1,0.0,0.0,0.0,2,0,58,61,95.1,7,50,1,1,0,Arsenal,2020-11-08 Arsenal-Aston Villa,ENG-EPL,20-21,90fd3597
+529f49ab,Thomas Partey,18,GHA,CM,27-148,45,0,0,0,0,2,1,0,0,42,1,1,0,0.6,0.6,0.0,1,0,29,36,80.6,5,29,2,2,2,Arsenal,2020-11-08 Arsenal-Aston Villa,ENG-EPL,20-21,90fd3597
+c0617e2b,Dani Ceballos,8,ESP,CM,24-093,45,0,0,0,0,1,0,0,0,42,2,0,2,0.0,0.0,0.0,3,0,27,33,81.8,3,31,2,3,1,Arsenal,2020-11-08 Arsenal-Aston Villa,ENG-EPL,20-21,90fd3597
+f874dd44,Héctor Bellerín,2,ESP,RM,25-234,90,0,0,0,0,1,0,0,0,76,0,2,2,0.0,0.0,0.0,2,0,53,64,82.8,8,44,3,2,1,Arsenal,2020-11-08 Arsenal-Aston Villa,ENG-EPL,20-21,90fd3597
+fce2302c,Kieran Tierney,3,SCO,CB,23-156,90,0,0,0,0,1,0,0,0,99,0,0,2,0.0,0.0,0.2,3,0,72,91,79.1,3,68,4,2,1,Arsenal,2020-11-08 Arsenal-Aston Villa,ENG-EPL,20-21,90fd3597
+67ac5bb8,Gabriel Magalhães,6,BRA,CB,22-325,90,0,0,0,0,0,0,0,0,92,0,4,2,0.0,0.0,0.0,0,0,65,82,79.3,2,65,1,0,0,Arsenal,2020-11-08 Arsenal-Aston Villa,ENG-EPL,20-21,90fd3597
+d79a8c87,Rob Holding,16,ENG,CB,25-049,90,0,0,0,0,1,0,0,0,72,1,1,2,0.1,0.1,0.0,0,0,58,65,89.2,7,52,1,0,0,Arsenal,2020-11-08 Arsenal-Aston Villa,ENG-EPL,20-21,90fd3597
+2628fd2b,Bernd Leno,1,GER,GK,28-249,90,0,0,0,0,0,0,0,0,27,0,0,0,0.0,0.0,0.0,0,0,23,25,92.0,0,17,0,0,0,Arsenal,2020-11-08 Arsenal-Aston Villa,ENG-EPL,20-21,90fd3597
+aed3a70f,Ollie Watkins,11,ENG,FW,24-314,90,2,0,0,0,3,2,0,0,40,1,0,0,1.1,1.1,0.0,0,0,19,30,63.3,1,24,4,3,3,Aston Villa,2020-11-08 Arsenal-Aston Villa,ENG-EPL,20-21,90fd3597
+b0b4fd3e,Jack Grealish,10,ENG,LW,25-059,90,0,1,0,0,5,1,0,0,44,0,1,0,0.3,0.3,0.4,4,1,27,33,81.8,5,32,9,3,2,Aston Villa,2020-11-08 Arsenal-Aston Villa,ENG-EPL,20-21,90fd3597
+3ae14ed1,Trézéguet,17,EGY,RW,26-038,87,0,0,0,0,2,1,0,0,44,6,1,2,0.1,0.1,0.0,1,0,23,28,82.1,5,16,4,1,0,Aston Villa,2020-11-08 Arsenal-Aston Villa,ENG-EPL,20-21,90fd3597
+ffa90327,Anwar El Ghazi,21,NED,RW,25-189,3,0,0,0,0,0,0,0,0,3,1,0,0,0.0,0.0,0.0,0,0,1,2,50.0,1,0,0,0,0,Aston Villa,2020-11-08 Arsenal-Aston Villa,ENG-EPL,20-21,90fd3597
+3a24769f,Ross Barkley,20,ENG,AM,26-339,90,0,1,0,0,4,1,0,0,65,0,0,0,0.2,0.2,1.0,8,1,39,51,76.5,9,35,2,3,3,Aston Villa,2020-11-08 Arsenal-Aston Villa,ENG-EPL,20-21,90fd3597
+90f91999,John McGinn,7,SCO,DM,26-021,90,0,0,0,0,0,0,0,0,39,1,0,0,0.0,0.0,0.2,4,0,28,35,80.0,2,19,1,4,4,Aston Villa,2020-11-08 Arsenal-Aston Villa,ENG-EPL,20-21,90fd3597
+6f7d826d,Douglas Luiz,6,BRA,DM,22-183,90,0,0,0,0,0,0,0,0,41,0,0,2,0.0,0.0,0.1,6,1,29,33,87.9,4,15,2,1,0,Aston Villa,2020-11-08 Arsenal-Aston Villa,ENG-EPL,20-21,90fd3597
+e514ab62,Matt Targett,18,ENG,LB,25-051,90,0,0,0,0,0,0,0,0,58,1,1,0,0.0,0.0,0.0,1,0,38,50,76.0,5,27,0,0,0,Aston Villa,2020-11-08 Arsenal-Aston Villa,ENG-EPL,20-21,90fd3597
+8397a50c,Tyrone Mings,5,ENG,CB,27-240,90,0,0,0,0,0,0,0,0,44,1,2,1,0.0,0.0,0.0,1,0,28,36,77.8,2,22,0,0,0,Aston Villa,2020-11-08 Arsenal-Aston Villa,ENG-EPL,20-21,90fd3597
+0313a347,Ezri Konsa,4,ENG,CB,23-016,90,0,0,0,0,1,0,0,0,38,0,0,0,0.0,0.0,0.0,0,0,26,30,86.7,1,16,0,0,0,Aston Villa,2020-11-08 Arsenal-Aston Villa,ENG-EPL,20-21,90fd3597
+2389cdc2,Matty Cash,2,POL,RB,23-093,90,0,0,0,0,0,0,0,0,57,3,3,2,0.0,0.0,0.0,0,0,31,39,79.5,3,18,0,0,0,Aston Villa,2020-11-08 Arsenal-Aston Villa,ENG-EPL,20-21,90fd3597
+7956236f,Emiliano Martínez,26,ARG,GK,28-067,90,0,0,0,0,0,0,0,0,44,0,0,0,0.0,0.0,0.0,1,1,23,41,56.1,0,23,0,0,0,Aston Villa,2020-11-08 Arsenal-Aston Villa,ENG-EPL,20-21,90fd3597

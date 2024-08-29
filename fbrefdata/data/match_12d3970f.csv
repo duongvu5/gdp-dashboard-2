@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+b66315ae,Gabriel Jesus,9,BRA,"FW,RW",24-050,73,1,0,0,0,3,2,0,0,42,0,0,0,0.6,0.6,0.1,3,1,32,36,88.9,1,28,4,2,2,Manchester City,2021-05-23 Manchester City-Everton,ENG-EPL,20-21,12d3970f
+9e1035f8,Ferrán Torres,21,ESP,RW,21-083,17,0,0,0,0,0,0,0,0,12,1,0,0,0.0,0.0,0.0,0,0,10,11,90.9,0,9,0,0,0,Manchester City,2021-05-23 Manchester City-Everton,ENG-EPL,20-21,12d3970f
+b400bde0,Raheem Sterling,7,ENG,LW,26-166,90,0,1,0,0,2,1,1,0,52,0,1,0,0.3,0.3,0.6,5,2,43,48,89.6,1,38,5,0,0,Manchester City,2021-05-23 Manchester City-Everton,ENG-EPL,20-21,12d3970f
+892d5bb1,Riyad Mahrez,26,ALG,RW,30-091,64,0,1,0,0,2,0,0,0,42,0,0,0,0.1,0.1,0.2,5,1,32,36,88.9,1,30,0,1,1,Manchester City,2021-05-23 Manchester City-Everton,ENG-EPL,20-21,12d3970f
+4d034881,Sergio Agüero,10,ARG,FW,32-355,26,2,0,0,0,4,4,0,0,22,0,0,0,0.6,0.6,0.0,3,1,13,15,86.7,2,7,1,2,2,Manchester City,2021-05-23 Manchester City-Everton,ENG-EPL,20-21,12d3970f
+ed1e53f3,Phil Foden,47,ENG,LM,20-360,55,1,0,0,0,2,1,0,0,49,0,1,1,0.5,0.5,0.0,5,1,30,36,83.3,3,31,4,2,2,Manchester City,2021-05-23 Manchester City-Everton,ENG-EPL,20-21,12d3970f
+6434f10d,Rodri,16,ESP,CM,24-335,35,0,0,0,0,1,0,0,0,48,1,2,0,0.1,0.1,0.0,1,1,44,44,100.0,2,33,0,1,1,Manchester City,2021-05-23 Manchester City-Everton,ENG-EPL,20-21,12d3970f
+101da2b5,Fernandinho,25,BRA,"CM,RM",36-019,90,0,2,0,0,1,0,0,0,82,2,3,1,0.1,0.1,0.6,5,2,67,71,94.4,6,51,0,3,1,Manchester City,2021-05-23 Manchester City-Everton,ENG-EPL,20-21,12d3970f
+e46012d4,Kevin De Bruyne,17,BEL,"RM,LM",29-329,90,1,1,0,0,2,2,0,0,77,0,0,0,0.1,0.1,1.0,10,1,50,65,76.9,13,52,5,6,6,Manchester City,2021-05-23 Manchester City-Everton,ENG-EPL,20-21,12d3970f
+51cf8561,Oleksandr Zinchenko,11,UKR,LB,24-159,90,0,0,0,0,2,0,0,0,105,1,1,0,0.1,0.1,0.0,1,0,85,98,86.7,7,69,2,0,0,Manchester City,2021-05-23 Manchester City-Everton,ENG-EPL,20-21,12d3970f
+31c69ef1,Rúben Dias,3,POR,CB,24-009,90,0,0,0,0,1,1,1,0,104,1,1,1,0.0,0.0,0.0,0,0,90,96,93.8,4,69,1,0,0,Manchester City,2021-05-23 Manchester City-Everton,ENG-EPL,20-21,12d3970f
+5eecec3d,John Stones,5,ENG,CB,26-360,90,0,0,0,0,1,0,0,0,100,2,0,2,0.1,0.1,0.0,2,0,88,90,97.8,3,76,0,1,1,Manchester City,2021-05-23 Manchester City-Everton,ENG-EPL,20-21,12d3970f
+86dd77d1,Kyle Walker,2,ENG,RB,30-360,90,0,0,0,0,0,0,0,0,86,1,0,1,0.0,0.0,0.0,1,0,74,80,92.5,3,58,3,2,1,Manchester City,2021-05-23 Manchester City-Everton,ENG-EPL,20-21,12d3970f
+3bb7b8b4,Ederson,31,BRA,GK,27-279,90,0,0,0,0,0,0,0,0,38,1,0,0,0.0,0.0,0.0,0,0,30,33,90.9,0,27,0,0,0,Manchester City,2021-05-23 Manchester City-Everton,ENG-EPL,20-21,12d3970f
+fa031b34,Richarlison,7,BRA,FW,24-013,77,0,0,0,0,3,0,1,0,19,1,0,0,0.2,0.1,0.0,3,0,5,9,55.6,0,11,1,2,1,Everton,2021-05-23 Manchester City-Everton,ENG-EPL,20-21,12d3970f
+f5b281e7,Niels Nkounkou,18,FRA,LW,20-203,13,0,0,0,0,0,0,0,0,7,0,0,1,0.0,0.0,0.0,0,0,3,5,60.0,1,4,2,1,1,Everton,2021-05-23 Manchester City-Everton,ENG-EPL,20-21,12d3970f
+59e6e5bf,Dominic Calvert-Lewin,9,ENG,FW,24-068,90,0,0,0,0,1,1,0,0,34,0,0,0,0.1,0.1,0.0,1,0,19,23,82.6,0,24,3,3,1,Everton,2021-05-23 Manchester City-Everton,ENG-EPL,20-21,12d3970f
+76dd1480,Gylfi Sigurðsson,10,ISL,AM,31-257,58,0,0,0,1,2,1,0,0,29,0,0,0,0.8,0.1,0.1,2,0,15,25,60.0,3,18,1,1,0,Everton,2021-05-23 Manchester City-Everton,ENG-EPL,20-21,12d3970f
+ab4b3e35,Bernard,20,BRA,AM,28-257,32,0,0,0,0,0,0,0,0,13,0,1,0,0.0,0.0,0.0,0,0,10,11,90.9,1,12,1,0,0,Everton,2021-05-23 Manchester City-Everton,ENG-EPL,20-21,12d3970f
+9228b07c,Tom Davies,26,ENG,"LM,DM",22-327,90,0,0,0,0,0,0,0,0,44,1,2,1,0.0,0.0,0.0,0,0,33,39,84.6,2,30,2,0,0,Everton,2021-05-23 Manchester City-Everton,ENG-EPL,20-21,12d3970f
+cc700722,Allan,6,BRA,"CM,DM",30-135,90,0,0,0,0,0,0,0,0,43,4,0,0,0.0,0.0,0.1,3,0,28,37,75.7,5,28,2,3,3,Everton,2021-05-23 Manchester City-Everton,ENG-EPL,20-21,12d3970f
+02b29014,Abdoulaye Doucouré,16,MLI,RM,28-142,56,0,0,0,0,0,0,0,0,21,2,2,0,0.0,0.0,0.0,2,0,12,17,70.6,1,14,0,2,0,Everton,2021-05-23 Manchester City-Everton,ENG-EPL,20-21,12d3970f
+6ca5ec4b,Alex Iwobi,17,NGA,"RM,RW",25-020,34,0,0,0,0,0,0,0,0,13,0,0,0,0.0,0.0,0.0,0,0,11,13,84.6,3,9,2,0,0,Everton,2021-05-23 Manchester City-Everton,ENG-EPL,20-21,12d3970f
+1b84dbe1,Lucas Digne,12,FRA,LB,27-307,90,0,0,0,0,1,0,0,0,40,1,1,1,0.0,0.0,0.0,0,0,23,31,74.2,0,18,2,4,4,Everton,2021-05-23 Manchester City-Everton,ENG-EPL,20-21,12d3970f
+9f7c837d,Ben Godfrey,22,ENG,"RB,CB",23-128,90,0,0,0,0,0,0,0,0,47,1,1,1,0.0,0.0,0.0,0,0,29,36,80.6,1,31,2,0,0,Everton,2021-05-23 Manchester City-Everton,ENG-EPL,20-21,12d3970f
+c5b7c315,Michael Keane,5,ENG,CB,28-132,90,0,0,0,0,0,0,0,0,62,0,2,4,0.0,0.0,0.0,1,0,46,52,88.5,1,45,0,1,0,Everton,2021-05-23 Manchester City-Everton,ENG-EPL,20-21,12d3970f
+d0042ab9,Mason Holgate,4,ENG,"CB,RB",24-213,90,0,0,0,0,0,0,1,0,47,2,0,0,0.0,0.0,0.0,1,0,34,40,85.0,0,27,0,1,1,Everton,2021-05-23 Manchester City-Everton,ENG-EPL,20-21,12d3970f
+4806ec67,Jordan Pickford,1,ENG,GK,27-077,90,0,0,0,0,0,0,0,0,39,0,1,0,0.0,0.0,0.0,0,0,19,33,57.6,0,19,0,0,0,Everton,2021-05-23 Manchester City-Everton,ENG-EPL,20-21,12d3970f
