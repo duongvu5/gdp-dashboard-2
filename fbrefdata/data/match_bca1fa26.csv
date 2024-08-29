@@ -1,0 +1,29 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+21a66f6a,Harry Kane,10,ENG,FW,24-050,90,0,0,0,0,4,2,0,0,31,0,0,0,0.1,0.1,0.0,1,0,17,22,77.3,2,18,2,2,0,Tottenham Hotspur,2017-09-16 Tottenham-Swansea City,ENG-EPL,17-18,bca1fa26
+cea4ee8f,Dele Alli,20,ENG,"AM,FW",21-158,90,0,0,0,0,3,0,0,0,65,0,1,0,0.2,0.2,0.2,5,0,43,51,84.3,3,46,1,4,1,Tottenham Hotspur,2017-09-16 Tottenham-Swansea City,ENG-EPL,17-18,bca1fa26
+980522ec,Christian Eriksen,23,DEN,"CM,DM",25-214,90,0,0,0,0,2,1,0,0,123,1,0,1,0.1,0.1,0.2,9,0,93,117,79.5,10,78,3,1,1,Tottenham Hotspur,2017-09-16 Tottenham-Swansea City,ENG-EPL,17-18,bca1fa26
+ac861941,Eric Dier,15,ENG,"CM,DM",23-244,90,0,0,0,0,2,0,0,0,99,3,1,0,0.1,0.1,0.0,1,0,83,93,89.2,13,61,2,0,0,Tottenham Hotspur,2017-09-16 Tottenham-Swansea City,ENG-EPL,17-18,bca1fa26
+2acd49b9,Moussa Sissoko,17,FRA,"DM,WB",28-031,62,0,0,0,0,1,0,0,0,51,0,1,0,0.0,0.0,0.1,5,0,43,48,89.6,7,33,2,0,0,Tottenham Hotspur,2017-09-16 Tottenham-Swansea City,ENG-EPL,17-18,bca1fa26
+5c2b4f07,Serge Aurier,24,CIV,WB,24-266,28,0,0,0,0,1,0,0,0,42,2,0,1,0.1,0.1,0.0,2,0,27,37,73.0,2,20,2,0,0,Tottenham Hotspur,2017-09-16 Tottenham-Swansea City,ENG-EPL,17-18,bca1fa26
+92e7e919,Son Heung-min,7,KOR,"WB,AM",25-070,73,0,0,0,0,7,4,0,0,60,2,0,2,0.4,0.4,0.2,11,0,38,43,88.4,3,36,2,5,2,Tottenham Hotspur,2017-09-16 Tottenham-Swansea City,ENG-EPL,17-18,bca1fa26
+82dbf623,Fernando Llorente,18,ESP,AM,32-202,17,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,1,5,20.0,1,1,0,0,0,Tottenham Hotspur,2017-09-16 Tottenham-Swansea City,ENG-EPL,17-18,bca1fa26
+21512407,Kieran Trippier,2,ENG,WB,26-362,90,0,0,0,0,2,0,0,0,88,0,0,1,0.0,0.0,0.1,4,0,67,82,81.7,4,45,1,2,1,Tottenham Hotspur,2017-09-16 Tottenham-Swansea City,ENG-EPL,17-18,bca1fa26
+ba23a904,Jan Vertonghen,5,BEL,CB,30-145,90,0,0,0,0,3,1,0,0,148,0,1,1,0.1,0.1,0.0,7,0,123,136,90.4,22,87,8,2,2,Tottenham Hotspur,2017-09-16 Tottenham-Swansea City,ENG-EPL,17-18,bca1fa26
+da7b447d,Davinson Sánchez,6,COL,CB,21-096,90,0,0,0,0,0,0,0,0,84,3,0,1,0.0,0.0,0.0,1,0,73,78,93.6,1,49,0,0,0,Tottenham Hotspur,2017-09-16 Tottenham-Swansea City,ENG-EPL,17-18,bca1fa26
+f7d50789,Toby Alderweireld,4,BEL,CB,28-198,90,0,0,0,0,1,0,1,0,100,3,0,0,0.1,0.1,0.1,5,0,81,93,87.1,21,66,4,0,0,Tottenham Hotspur,2017-09-16 Tottenham-Swansea City,ENG-EPL,17-18,bca1fa26
+8f62b6ee,Hugo Lloris,1,FRA,GK,30-264,90,0,0,0,0,0,0,0,0,28,0,0,0,0.0,0.0,0.0,0,0,24,28,85.7,0,15,0,0,0,Tottenham Hotspur,2017-09-16 Tottenham-Swansea City,ENG-EPL,17-18,bca1fa26
+f586779e,Tammy Abraham,10,ENG,FW,19-349,71,0,0,0,0,0,0,0,0,26,1,0,1,0.0,0.0,0.0,0,0,6,12,50.0,0,13,1,5,3,Swansea City,2017-09-16 Tottenham-Swansea City,ENG-EPL,17-18,bca1fa26
+61abe9b6,Wilfried Bony,2,CIV,FW,28-280,19,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,0,0,5,9,55.6,1,4,0,0,0,Swansea City,2017-09-16 Tottenham-Swansea City,ENG-EPL,17-18,bca1fa26
+da052c14,Jordan Ayew,18,GHA,"FW,LW",26-005,90,0,0,0,0,1,0,0,0,27,2,1,0,0.0,0.0,0.0,1,0,12,14,85.7,0,19,1,0,0,Swansea City,2017-09-16 Tottenham-Swansea City,ENG-EPL,17-18,bca1fa26
+5a1900a4,Tom Carroll,14,ENG,CM,25-111,90,0,0,0,0,1,0,1,0,45,0,1,1,0.0,0.0,0.1,2,0,19,36,52.8,3,23,0,0,0,Swansea City,2017-09-16 Tottenham-Swansea City,ENG-EPL,17-18,bca1fa26
+987718f5,Sam Clucas,17,ENG,CM,26-356,90,0,0,0,0,1,0,0,0,28,5,1,2,0.0,0.0,0.0,0,0,15,18,83.3,2,10,0,0,0,Swansea City,2017-09-16 Tottenham-Swansea City,ENG-EPL,17-18,bca1fa26
+032f894e,Renato Sanches,35,POR,CM,20-029,57,0,0,0,0,0,0,0,0,22,1,2,0,0.0,0.0,0.0,0,0,13,17,76.5,0,17,1,6,5,Swansea City,2017-09-16 Tottenham-Swansea City,ENG-EPL,17-18,bca1fa26
+3cefa66a,Leroy Fer,8,NED,CM,27-254,33,0,0,0,0,0,0,0,0,7,1,1,1,0.0,0.0,0.0,0,0,2,3,66.7,0,4,0,1,1,Swansea City,2017-09-16 Tottenham-Swansea City,ENG-EPL,17-18,bca1fa26
+2f72f79e,Martin Olsson,16,SWE,"WB,LB",29-122,90,0,0,0,0,0,0,0,0,33,0,0,0,0.0,0.0,0.0,1,0,17,23,73.9,2,10,0,0,0,Swansea City,2017-09-16 Tottenham-Swansea City,ENG-EPL,17-18,bca1fa26
+e860c42f,Kyle Naughton,26,ENG,"WB,RB",28-303,90,0,0,0,0,0,0,0,0,37,5,2,0,0.0,0.0,0.0,0,0,16,27,59.3,3,12,0,1,1,Swansea City,2017-09-16 Tottenham-Swansea City,ENG-EPL,17-18,bca1fa26
+d368feb8,Alfie Mawson,6,ENG,CB,23-240,90,0,0,0,0,0,0,0,0,32,0,0,1,0.0,0.0,0.0,0,0,18,20,90.0,0,13,1,0,0,Swansea City,2017-09-16 Tottenham-Swansea City,ENG-EPL,17-18,bca1fa26
+f25b010f,Federico Fernández,33,ARG,CB,28-207,90,0,0,0,0,0,0,0,0,36,1,0,2,0.0,0.0,0.0,0,0,11,14,78.6,2,7,0,0,0,Swansea City,2017-09-16 Tottenham-Swansea City,ENG-EPL,17-18,bca1fa26
+25f50295,Mike van der Hoorn,5,NED,CB,24-336,84,0,0,0,0,1,0,1,0,43,1,0,1,0.1,0.1,0.0,0,0,22,36,61.1,0,20,0,0,0,Swansea City,2017-09-16 Tottenham-Swansea City,ENG-EPL,17-18,bca1fa26
+1d387eee,Wayne Routledge,15,ENG,RW,32-252,6,0,0,0,0,0,0,1,0,4,0,0,0,0.0,0.0,0.0,0,0,1,3,33.3,0,1,0,0,0,Swansea City,2017-09-16 Tottenham-Swansea City,ENG-EPL,17-18,bca1fa26
+9328b835,Łukasz Fabiański,1,POL,GK,32-151,90,0,0,0,0,0,0,0,0,51,0,0,0,0.0,0.0,0.0,0,0,19,45,42.2,0,18,0,0,0,Swansea City,2017-09-16 Tottenham-Swansea City,ENG-EPL,17-18,bca1fa26

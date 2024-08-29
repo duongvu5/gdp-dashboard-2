@@ -1,0 +1,31 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+d70ce98e,Lionel Messi,30,ARG,FW,34-236,90,0,0,0,1,7,1,0,0,92,0,0,0,1.1,0.3,0.4,6,0,64,80,80.0,9,60,13,7,5,Paris Saint-Germain,2022-02-15 Paris S-G-Real Madrid,UCL,21-22,59e6b28f
+42fd9c7f,Kylian Mbappé,7,FRA,"LW,RW",23-057,90,1,0,0,0,7,4,0,0,62,0,1,1,0.5,0.5,0.0,9,2,40,49,81.6,7,41,12,6,4,Paris Saint-Germain,2022-02-15 Paris S-G-Real Madrid,UCL,21-22,59e6b28f
+19cda00b,Ángel Di María,11,ARG,RW,34-001,71,0,0,0,0,3,0,0,0,59,2,0,2,0.2,0.2,0.0,1,0,41,46,89.1,2,26,1,3,0,Paris Saint-Germain,2022-02-15 Paris S-G-Real Madrid,UCL,21-22,59e6b28f
+69384e5d,Neymar,10,BRA,LW,30-010,19,0,1,0,0,0,0,0,0,14,0,0,0,0.0,0.0,0.1,1,0,8,12,66.7,1,11,1,2,0,Paris Saint-Germain,2022-02-15 Paris S-G-Real Madrid,UCL,21-22,59e6b28f
+1467af0d,Marco Verratti,6,ITA,LM,29-102,90,0,0,0,0,0,0,1,0,112,3,1,0,0.0,0.0,0.3,11,0,96,104,92.3,8,70,4,3,3,Paris Saint-Germain,2022-02-15 Paris S-G-Real Madrid,UCL,21-22,59e6b28f
+dff153a4,Leandro Paredes,8,ARG,CM,27-231,90,0,0,0,0,0,0,1,0,120,1,3,2,0.0,0.0,0.0,2,0,107,114,93.9,7,60,0,0,0,Paris Saint-Germain,2022-02-15 Paris S-G-Real Madrid,UCL,21-22,59e6b28f
+8fd9996f,Danilo Pereira,15,POR,RM,30-159,86,0,0,0,0,1,0,1,0,58,0,0,0,0.1,0.1,0.0,0,0,52,56,92.9,1,36,0,1,1,Paris Saint-Germain,2022-02-15 Paris S-G-Real Madrid,UCL,21-22,59e6b28f
+72c812f3,Idrissa Gana Gueye,27,SEN,RM,32-142,4,0,0,0,0,1,1,0,0,7,0,1,0,0.0,0.0,0.0,1,0,3,5,60.0,0,5,1,1,1,Paris Saint-Germain,2022-02-15 Paris S-G-Real Madrid,UCL,21-22,59e6b28f
+f20e4cc9,Nuno Mendes,25,POR,LB,19-241,90,0,0,0,0,1,1,0,0,70,5,0,3,0.0,0.0,0.0,4,0,47,59,79.7,5,38,2,2,2,Paris Saint-Germain,2022-02-15 Paris S-G-Real Madrid,UCL,21-22,59e6b28f
+aef6e670,Presnel Kimpembe,3,FRA,CB,26-186,90,0,0,0,0,0,0,1,0,67,0,0,0,0.0,0.0,0.0,0,0,63,65,96.9,3,45,1,0,0,Paris Saint-Germain,2022-02-15 Paris S-G-Real Madrid,UCL,21-22,59e6b28f
+d5f2f82b,Marquinhos,5,BRA,CB,27-277,90,0,0,0,0,0,0,0,0,59,0,0,1,0.0,0.0,0.0,0,0,54,56,96.4,3,39,1,0,0,Paris Saint-Germain,2022-02-15 Paris S-G-Real Madrid,UCL,21-22,59e6b28f
+e42d61c7,Achraf Hakimi,2,MAR,RB,23-103,90,0,0,0,0,0,0,0,0,57,4,0,2,0.0,0.0,0.1,4,0,43,48,89.6,2,27,4,4,2,Paris Saint-Germain,2022-02-15 Paris S-G-Real Madrid,UCL,21-22,59e6b28f
+08f5afaa,Gianluigi Donnarumma,50,ITA,GK,22-355,90,0,0,0,0,0,0,0,0,14,0,0,0,0.0,0.0,0.0,0,0,13,14,92.9,0,8,0,0,0,Paris Saint-Germain,2022-02-15 Paris S-G-Real Madrid,UCL,21-22,59e6b28f
+70d74ece,Karim Benzema,9,FRA,FW,34-058,86,0,0,0,0,0,0,0,0,37,0,0,0,0.0,0.0,0.0,0,0,25,32,78.1,3,24,1,1,1,Real Madrid,2022-02-15 Paris S-G-Real Madrid,UCL,21-22,59e6b28f
+a58bb1e1,Gareth Bale,18,WAL,FW,32-214,4,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,1,0,0,0,0,Real Madrid,2022-02-15 Paris S-G-Real Madrid,UCL,21-22,59e6b28f
+7111d552,Vinicius Júnior,20,BRA,LW,21-218,81,0,0,0,0,0,0,0,0,30,2,0,1,0.0,0.0,0.0,1,0,14,19,73.7,0,25,1,4,1,Real Madrid,2022-02-15 Paris S-G-Real Madrid,UCL,21-22,59e6b28f
+a39bb753,Eden Hazard,7,BEL,LW,31-039,9,0,0,0,0,0,0,0,0,10,0,0,1,0.0,0.0,0.0,0,0,6,8,75.0,0,3,0,0,0,Real Madrid,2022-02-15 Paris S-G-Real Madrid,UCL,21-22,59e6b28f
+45af8a54,Marco Asensio,11,ESP,RW,26-025,71,0,0,0,0,0,0,0,0,33,1,0,0,0.0,0.0,0.0,0,0,20,26,76.9,2,18,0,2,0,Real Madrid,2022-02-15 Paris S-G-Real Madrid,UCL,21-22,59e6b28f
+8f5e92a6,Rodrygo,21,BRA,RW,21-037,19,0,0,0,0,1,0,1,0,14,0,1,0,0.1,0.1,0.0,0,0,9,11,81.8,0,8,1,0,0,Real Madrid,2022-02-15 Paris S-G-Real Madrid,UCL,21-22,59e6b28f
+6ce1f46f,Toni Kroos,8,GER,LM,32-042,90,0,0,0,0,1,0,0,0,87,2,0,4,0.0,0.0,0.0,2,0,73,82,89.0,7,54,1,1,1,Real Madrid,2022-02-15 Paris S-G-Real Madrid,UCL,21-22,59e6b28f
+4d224fe8,Casemiro,14,BRA,CM,29-357,90,0,0,0,0,1,0,1,0,72,4,1,2,0.0,0.0,0.0,0,0,54,61,88.5,5,35,0,2,1,Real Madrid,2022-02-15 Paris S-G-Real Madrid,UCL,21-22,59e6b28f
+6025fab1,Luka Modrić,10,CRO,RM,36-159,81,0,0,0,0,0,0,0,0,61,3,3,1,0.0,0.0,0.0,0,0,46,50,92.0,4,40,4,0,0,Real Madrid,2022-02-15 Paris S-G-Real Madrid,UCL,21-22,59e6b28f
+0959c2a2,Federico Valverde,15,URU,RM,23-208,9,0,0,0,0,0,0,0,0,10,1,0,1,0.0,0.0,0.0,0,0,7,9,77.8,0,7,1,1,1,Real Madrid,2022-02-15 Paris S-G-Real Madrid,UCL,21-22,59e6b28f
+3cefcaef,Ferland Mendy,23,FRA,LB,26-252,90,0,0,0,0,0,0,1,0,52,0,0,1,0.0,0.0,0.0,0,0,38,40,95.0,0,29,0,4,1,Real Madrid,2022-02-15 Paris S-G-Real Madrid,UCL,21-22,59e6b28f
+05439de2,David Alaba,4,AUT,CB,29-236,90,0,0,0,0,0,0,0,0,58,0,4,1,0.0,0.0,0.0,0,0,43,50,86.0,1,32,1,1,1,Real Madrid,2022-02-15 Paris S-G-Real Madrid,UCL,21-22,59e6b28f
+2784f898,Éder Militão,3,BRA,CB,24-028,90,0,0,0,0,0,0,1,0,68,4,1,3,0.0,0.0,0.0,0,0,41,51,80.4,1,27,2,1,1,Real Madrid,2022-02-15 Paris S-G-Real Madrid,UCL,21-22,59e6b28f
+4958bfb2,Dani Carvajal,2,ESP,RB,30-035,71,0,0,0,0,0,0,0,0,55,3,1,1,0.0,0.0,0.0,0,0,38,46,82.6,0,29,0,0,0,Real Madrid,2022-02-15 Paris S-G-Real Madrid,UCL,21-22,59e6b28f
+fd51b456,Lucas Vázquez,17,ESP,RB,30-229,19,0,0,0,0,0,0,0,0,17,0,0,0,0.0,0.0,0.1,0,0,11,12,91.7,0,5,0,2,1,Real Madrid,2022-02-15 Paris S-G-Real Madrid,UCL,21-22,59e6b28f
+1840e36d,Thibaut Courtois,1,BEL,GK,29-280,90,0,0,0,0,0,0,0,0,40,0,0,0,0.0,0.0,0.0,0,0,28,35,80.0,0,26,0,0,0,Real Madrid,2022-02-15 Paris S-G-Real Madrid,UCL,21-22,59e6b28f

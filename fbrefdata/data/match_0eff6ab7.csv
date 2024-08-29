@@ -1,0 +1,31 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+9e1035f8,Ferrán Torres,7,ESP,"FW,LW",23-238,90,1,1,0,0,2,1,1,0,32,0,0,0,0.2,0.2,0.1,5,1,18,25,72.0,3,16,1,2,0,Barcelona,2023-10-25 Barcelona-Shakhtar,UCL,23-24,0eff6ab7
+8aafd64f,João Félix,14,POR,LW,23-349,74,0,0,0,0,2,1,0,0,36,1,0,0,0.1,0.1,0.0,1,0,19,26,73.1,3,24,2,3,0,Barcelona,2023-10-25 Barcelona-Shakhtar,UCL,23-24,0eff6ab7
+d3d774cc,Marc Guiu,38,ESP,FW,17-294,16,0,0,0,0,1,0,0,0,8,0,0,1,0.1,0.1,0.0,0,0,0,1,0.0,0,2,0,0,0,Barcelona,2023-10-25 Barcelona-Shakhtar,UCL,23-24,0eff6ab7
+82ec26c1,Lamine Yamal,27,ESP,RW,16-104,90,0,0,0,0,5,0,0,0,63,0,0,3,0.3,0.3,0.1,3,0,36,49,73.5,3,41,6,9,5,Barcelona,2023-10-25 Barcelona-Shakhtar,UCL,23-24,0eff6ab7
+819b3158,İlkay Gündoğan,22,GER,LM,33-001,90,0,0,0,0,0,0,0,0,69,0,0,2,0.0,0.0,1.2,7,0,55,64,85.9,4,43,2,2,1,Barcelona,2023-10-25 Barcelona-Shakhtar,UCL,23-24,0eff6ab7
+4b511457,Oriol Romeu,18,ESP,CM,32-031,90,0,0,0,0,1,0,0,0,46,1,0,1,0.1,0.1,0.5,1,0,36,40,90.0,2,22,1,2,1,Barcelona,2023-10-25 Barcelona-Shakhtar,UCL,23-24,0eff6ab7
+c1fe5f0b,Fermin López,32,ESP,RM,20-167,81,1,1,0,0,5,2,0,0,60,1,0,2,1.6,1.6,0.2,6,1,37,45,82.2,8,30,2,7,3,Barcelona,2023-10-25 Barcelona-Shakhtar,UCL,23-24,0eff6ab7
+2ef08833,Marc Casado,30,ESP,RM,20-041,9,0,0,0,0,0,0,0,0,7,0,0,2,0.0,0.0,0.0,0,0,3,5,60.0,1,5,0,0,0,Barcelona,2023-10-25 Barcelona-Shakhtar,UCL,23-24,0eff6ab7
+f4290206,Marcos Alonso,17,ESP,LB,32-301,69,0,0,0,0,1,1,0,0,56,0,1,1,0.0,0.0,0.0,1,0,40,46,87.0,3,27,1,3,0,Barcelona,2023-10-25 Barcelona-Shakhtar,UCL,23-24,0eff6ab7
+5ccc9672,Alejandro Balde,3,ESP,LB,20-007,21,0,0,0,0,0,0,1,0,12,0,0,0,0.0,0.0,0.0,1,0,7,10,70.0,1,7,2,3,1,Barcelona,2023-10-25 Barcelona-Shakhtar,UCL,23-24,0eff6ab7
+3fc45c73,Iñigo Martínez,5,ESP,CB,32-161,81,0,0,0,0,0,0,0,0,69,0,1,0,0.0,0.0,0.0,1,1,61,67,91.0,13,52,6,0,0,Barcelona,2023-10-25 Barcelona-Shakhtar,UCL,23-24,0eff6ab7
+1cb49278,Andreas Christensen,15,DEN,CB,27-198,9,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,2,0,0,0,Barcelona,2023-10-25 Barcelona-Shakhtar,UCL,23-24,0eff6ab7
+2bef2bca,Ronald Araújo,4,URU,CB,24-232,90,0,0,0,0,1,0,0,0,82,0,0,4,0.0,0.0,0.0,2,0,62,73,84.9,3,55,0,0,0,Barcelona,2023-10-25 Barcelona-Shakhtar,UCL,23-24,0eff6ab7
+bd6351cd,João Cancelo,2,POR,RB,29-151,90,0,0,0,0,1,1,0,0,98,0,2,3,0.1,0.1,0.1,4,0,69,83,83.1,6,50,2,8,3,Barcelona,2023-10-25 Barcelona-Shakhtar,UCL,23-24,0eff6ab7
+6f51e382,Marc-André ter Stegen,1,GER,GK,31-178,90,0,0,0,0,0,0,0,0,29,0,0,0,0.0,0.0,0.0,1,0,26,28,92.9,0,19,0,0,0,Barcelona,2023-10-25 Barcelona-Shakhtar,UCL,23-24,0eff6ab7
+03998238,Danylo Sikan,14,UKR,FW,22-192,69,0,0,0,0,0,0,0,0,30,2,0,2,0.0,0.0,0.0,0,0,16,20,80.0,1,12,1,2,2,Shakhtar Donetsk,2023-10-25 Barcelona-Shakhtar,UCL,23-24,0eff6ab7
+136958ad,Kevin Kelsy,18,VEN,FW,19-090,21,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,1,0,2,2,100.0,0,3,0,0,0,Shakhtar Donetsk,2023-10-25 Barcelona-Shakhtar,UCL,23-24,0eff6ab7
+47420f02,Dmytro Kryskiv,8,UKR,LW,23-019,62,0,0,0,0,0,0,1,0,28,0,0,1,0.0,0.0,0.0,1,0,20,23,87.0,0,23,3,0,0,Shakhtar Donetsk,2023-10-25 Barcelona-Shakhtar,UCL,23-24,0eff6ab7
+e095928e,Newerton,39,BRA,LW,18-144,28,0,0,0,0,1,0,0,0,8,1,0,0,0.0,0.0,0.0,0,0,3,4,75.0,2,5,1,2,2,Shakhtar Donetsk,2023-10-25 Barcelona-Shakhtar,UCL,23-24,0eff6ab7
+adfbe1f5,Oleksandr Zubkov,11,UKR,RW,27-083,90,0,0,0,0,1,0,0,0,38,1,0,0,0.0,0.0,0.0,2,0,23,33,69.7,2,29,5,1,1,Shakhtar Donetsk,2023-10-25 Barcelona-Shakhtar,UCL,23-24,0eff6ab7
+a793f5a8,Heorhiy Sudakov,10,UKR,"AM,DM",21-054,90,1,0,0,0,2,1,0,0,58,1,0,1,0.4,0.4,0.1,6,1,40,52,76.9,7,47,4,2,2,Shakhtar Donetsk,2023-10-25 Barcelona-Shakhtar,UCL,23-24,0eff6ab7
+ee3519f5,Taras Stepanenko,6,UKR,DM,34-078,89,0,0,0,0,3,0,0,0,64,5,1,2,0.3,0.3,0.0,2,0,41,49,83.7,5,39,2,0,0,Shakhtar Donetsk,2023-10-25 Barcelona-Shakhtar,UCL,23-24,0eff6ab7
+d874b374,Eguinaldo,7,BRA,AM,19-077,1,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,1,0,0,0,Shakhtar Donetsk,2023-10-25 Barcelona-Shakhtar,UCL,23-24,0eff6ab7
+415568b5,Artem Bondarenko,21,UKR,DM,23-065,90,0,0,0,0,2,0,0,0,69,3,1,3,0.1,0.1,0.0,2,0,50,54,92.6,2,51,1,0,0,Shakhtar Donetsk,2023-10-25 Barcelona-Shakhtar,UCL,23-24,0eff6ab7
+dd95af65,Irakli Azarov,16,GEO,LB,21-246,90,0,1,0,0,2,0,0,0,62,2,0,1,0.0,0.0,0.6,2,1,44,54,81.5,1,39,1,0,0,Shakhtar Donetsk,2023-10-25 Barcelona-Shakhtar,UCL,23-24,0eff6ab7
+1adcf39e,Mykola Matviyenko,22,UKR,CB,27-176,90,0,0,0,0,0,0,0,0,85,3,0,3,0.0,0.0,0.0,0,0,60,71,84.5,1,55,0,0,0,Shakhtar Donetsk,2023-10-25 Barcelona-Shakhtar,UCL,23-24,0eff6ab7
+7713c72a,Valerii Bondar,5,UKR,CB,24-240,90,0,0,0,0,0,0,1,0,58,3,3,2,0.0,0.0,0.0,0,0,38,42,90.5,1,33,0,0,0,Shakhtar Donetsk,2023-10-25 Barcelona-Shakhtar,UCL,23-24,0eff6ab7
+aee634bf,Yukhym Konoplia,26,UKR,RB,24-060,90,0,0,0,0,0,0,1,0,43,6,1,2,0.0,0.0,0.2,2,0,20,28,71.4,1,24,0,1,1,Shakhtar Donetsk,2023-10-25 Barcelona-Shakhtar,UCL,23-24,0eff6ab7
+0e09dd0d,Dmytro Riznyk,31,UKR,GK,24-268,90,0,0,0,0,0,0,0,0,41,0,0,0,0.0,0.0,0.0,0,0,30,38,78.9,0,24,0,0,0,Shakhtar Donetsk,2023-10-25 Barcelona-Shakhtar,UCL,23-24,0eff6ab7

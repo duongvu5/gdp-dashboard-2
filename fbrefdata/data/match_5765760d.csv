@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+9dbb75ca,Alexandre Lacazette,9,FRA,FW,26-185,45,1,0,0,0,2,1,0,0,25,1,0,0,0.3,0.3,0.0,2,1,15,20,75.0,2,11,1,2,1,Arsenal,2017-11-29 Arsenal-Huddersfield,ENG-EPL,17-18,5765760d
+16ceb862,Olivier Giroud,12,FRA,FW,31-060,45,2,0,0,0,6,2,0,0,17,0,0,0,1.9,1.9,0.0,4,0,10,10,100.0,1,6,0,1,1,Arsenal,2017-11-29 Arsenal-Huddersfield,ENG-EPL,17-18,5765760d
+2c0f8e9e,Alexis Sánchez,7,CHI,AM,28-345,72,1,0,0,0,3,1,0,0,43,0,0,0,0.2,0.2,0.1,5,2,27,36,75.0,7,26,1,2,2,Arsenal,2017-11-29 Arsenal-Huddersfield,ENG-EPL,17-18,5765760d
+ce5143da,Danny Welbeck,23,ENG,AM,27-003,18,0,0,0,0,0,0,0,0,11,1,0,0,0.0,0.0,0.0,2,0,8,10,80.0,0,7,0,0,0,Arsenal,2017-11-29 Arsenal-Huddersfield,ENG-EPL,17-18,5765760d
+16380240,Mesut Özil,11,GER,AM,29-045,90,1,2,0,0,2,1,0,0,111,0,1,0,0.5,0.5,0.6,8,2,86,104,82.7,17,50,2,3,1,Arsenal,2017-11-29 Arsenal-Huddersfield,ENG-EPL,17-18,5765760d
+e61b8aee,Granit Xhaka,29,SUI,CM,25-063,90,0,0,0,0,4,1,0,0,137,3,0,0,0.1,0.1,0.1,4,2,115,127,90.6,19,72,2,1,1,Arsenal,2017-11-29 Arsenal-Huddersfield,ENG-EPL,17-18,5765760d
+ef619b0b,Aaron Ramsey,8,WAL,CM,26-338,72,0,2,0,0,1,0,0,0,65,1,1,1,0.0,0.0,1.2,3,2,46,57,80.7,9,40,0,1,0,Arsenal,2017-11-29 Arsenal-Huddersfield,ENG-EPL,17-18,5765760d
+9c318325,Jack Wilshere,10,ENG,CM,25-332,18,0,0,0,0,0,0,0,0,25,0,0,1,0.0,0.0,0.0,2,0,19,23,82.6,4,16,2,0,0,Arsenal,2017-11-29 Arsenal-Huddersfield,ENG-EPL,17-18,5765760d
+3935e52e,Sead Kolašinac,31,BIH,WB,24-162,90,0,1,0,0,2,0,0,0,59,2,0,1,0.9,0.9,0.8,4,1,37,53,69.8,2,19,3,0,0,Arsenal,2017-11-29 Arsenal-Huddersfield,ENG-EPL,17-18,5765760d
+f874dd44,Héctor Bellerín,24,ESP,WB,22-255,90,0,0,0,0,0,0,0,0,64,1,1,2,0.0,0.0,0.2,2,0,52,58,89.7,4,24,2,1,0,Arsenal,2017-11-29 Arsenal-Huddersfield,ENG-EPL,17-18,5765760d
+d4cb83cc,Nacho Monreal,18,ESP,CB,31-276,90,0,0,0,0,1,0,0,0,109,5,2,1,0.1,0.1,0.0,1,0,92,100,92.0,8,55,1,1,1,Arsenal,2017-11-29 Arsenal-Huddersfield,ENG-EPL,17-18,5765760d
+3f2d59fe,Shkodran Mustafi,20,GER,CB,25-226,90,0,0,0,0,0,0,0,0,122,4,7,0,0.0,0.0,0.0,1,0,99,107,92.5,5,57,0,0,0,Arsenal,2017-11-29 Arsenal-Huddersfield,ENG-EPL,17-18,5765760d
+f5efb153,Laurent Koscielny,6,FRA,CB,32-080,90,0,0,0,0,0,0,0,0,117,1,3,1,0.0,0.0,0.0,1,0,102,110,92.7,4,56,0,0,0,Arsenal,2017-11-29 Arsenal-Huddersfield,ENG-EPL,17-18,5765760d
+71672fa0,Petr Čech,33,CZE,GK,35-193,90,0,0,0,0,0,0,0,0,35,0,0,0,0.0,0.0,0.0,0,0,31,33,93.9,0,17,0,0,0,Arsenal,2017-11-29 Arsenal-Huddersfield,ENG-EPL,17-18,5765760d
+19ba6c6d,Steve Mounié,24,BEN,FW,23-061,73,0,0,0,0,2,2,0,0,36,0,0,0,0.1,0.1,0.1,3,0,17,28,60.7,2,20,1,1,1,Huddersfield Town,2017-11-29 Arsenal-Huddersfield,ENG-EPL,17-18,5765760d
+aa5859cb,Laurent Depoitre,20,BEL,FW,28-357,17,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,1,0,5,7,71.4,2,3,0,0,0,Huddersfield Town,2017-11-29 Arsenal-Huddersfield,ENG-EPL,17-18,5765760d
+5bddccc9,Elias Kachunga,9,COD,AM,25-221,90,0,0,0,0,0,0,0,0,26,2,1,1,0.0,0.0,0.1,2,0,10,16,62.5,2,20,2,2,1,Huddersfield Town,2017-11-29 Arsenal-Huddersfield,ENG-EPL,17-18,5765760d
+19b8b0b9,Collin Quaner,23,GER,AM,26-164,90,0,0,0,0,2,1,0,0,33,0,0,0,0.2,0.2,0.0,4,0,15,18,83.3,3,21,2,4,2,Huddersfield Town,2017-11-29 Arsenal-Huddersfield,ENG-EPL,17-18,5765760d
+9306d5ea,Jonathan Hogg,6,ENG,CM,28-358,77,0,0,0,0,0,0,0,0,50,4,1,0,0.0,0.0,0.1,1,0,38,42,90.5,2,24,3,2,1,Huddersfield Town,2017-11-29 Arsenal-Huddersfield,ENG-EPL,17-18,5765760d
+a32204c9,Dean Whitehead,4,ENG,CM,35-312,13,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,4,4,100.0,0,2,0,0,0,Huddersfield Town,2017-11-29 Arsenal-Huddersfield,ENG-EPL,17-18,5765760d
+47b7e3af,Aaron Mooy,10,AUS,CM,27-075,73,0,0,0,0,0,0,1,0,58,0,0,1,0.0,0.0,0.0,1,0,41,50,82.0,4,29,1,0,0,Huddersfield Town,2017-11-29 Arsenal-Huddersfield,ENG-EPL,17-18,5765760d
+ec9a28ce,Danny Williams,19,USA,CM,28-266,17,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,4,5,80.0,0,3,0,0,0,Huddersfield Town,2017-11-29 Arsenal-Huddersfield,ENG-EPL,17-18,5765760d
+c6896eab,Chris Löwe,15,GER,WB,28-227,90,0,0,0,0,1,0,0,0,51,2,2,1,0.1,0.1,0.1,1,0,31,42,73.8,7,27,2,0,0,Huddersfield Town,2017-11-29 Arsenal-Huddersfield,ENG-EPL,17-18,5765760d
+9aa186b2,Florent Hadergjonaj,33,KVX,WB,23-121,90,0,0,0,0,0,0,0,0,48,0,1,0,0.0,0.0,0.0,0,0,27,43,62.8,1,11,0,0,0,Huddersfield Town,2017-11-29 Arsenal-Huddersfield,ENG-EPL,17-18,5765760d
+9e53837d,Martin Cranie,14,ENG,CB,31-064,90,0,0,0,0,0,0,0,0,42,1,0,3,0.0,0.0,0.0,0,0,26,34,76.5,0,15,0,1,1,Huddersfield Town,2017-11-29 Arsenal-Huddersfield,ENG-EPL,17-18,5765760d
+8ae9869d,Christopher Schindler,26,GER,CB,27-214,90,0,0,0,0,1,0,0,0,50,2,5,3,0.0,0.0,0.0,1,0,22,28,78.6,0,12,0,0,0,Huddersfield Town,2017-11-29 Arsenal-Huddersfield,ENG-EPL,17-18,5765760d
+0db5d2c8,Mathias Jørgensen,25,DEN,CB,27-220,90,0,0,0,0,1,0,0,0,46,2,5,1,0.1,0.1,0.0,0,0,21,28,75.0,0,14,1,0,0,Huddersfield Town,2017-11-29 Arsenal-Huddersfield,ENG-EPL,17-18,5765760d
+939bc634,Jonas Lössl,1,DEN,GK,28-301,90,0,0,0,0,0,0,0,0,30,0,0,0,0.0,0.0,0.0,0,0,21,30,70.0,0,16,0,1,1,Huddersfield Town,2017-11-29 Arsenal-Huddersfield,ENG-EPL,17-18,5765760d

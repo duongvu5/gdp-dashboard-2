@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+d5dd5f1f,Pierre-Emerick Aubameyang,9,GAB,FW,33-109,64,1,0,0,0,1,1,0,0,21,0,0,1,0.4,0.4,0.0,1,0,13,18,72.2,0,10,0,0,0,Chelsea,2022-10-05 Chelsea-Milan,UCL,22-23,012a9877
+c2731c10,Conor Gallagher,23,ENG,AM,22-241,26,0,0,0,0,0,0,0,0,16,1,0,0,0.0,0.0,0.0,0,0,13,13,100.0,0,10,0,1,0,Chelsea,2022-10-05 Chelsea-Milan,UCL,22-23,012a9877
+9674002f,Mason Mount,19,ENG,AM,23-268,73,0,0,0,0,2,1,0,0,46,0,0,2,0.2,0.2,0.2,4,1,29,36,80.6,5,26,1,3,3,Chelsea,2022-10-05 Chelsea-Milan,UCL,22-23,012a9877
+fed7cb61,Kai Havertz,29,GER,AM,23-116,17,0,0,0,0,0,0,0,0,14,0,0,0,0.0,0.0,0.0,0,0,13,14,92.9,1,8,0,0,0,Chelsea,2022-10-05 Chelsea-Milan,UCL,22-23,012a9877
+b400bde0,Raheem Sterling,17,ENG,"AM,FW",27-301,73,0,1,0,0,0,0,0,0,47,1,0,0,0.0,0.0,0.2,2,1,30,38,78.9,4,31,2,1,0,Chelsea,2022-10-05 Chelsea-Milan,UCL,22-23,012a9877
+97220da2,Armando Broja,18,ALB,FW,21-025,17,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,0,0,5,6,83.3,0,8,0,1,0,Chelsea,2022-10-05 Chelsea-Milan,UCL,22-23,012a9877
+79c0821a,Mateo Kovačić,8,CRO,CM,28-152,64,0,0,0,0,0,0,1,0,54,1,2,2,0.0,0.0,0.0,1,0,40,49,81.6,5,34,1,0,0,Chelsea,2022-10-05 Chelsea-Milan,UCL,22-23,012a9877
+45db685d,Jorginho,5,ITA,CM,30-289,26,0,0,0,0,0,0,0,0,31,0,1,0,0.0,0.0,0.0,0,0,28,30,93.3,0,18,0,1,1,Chelsea,2022-10-05 Chelsea-Milan,UCL,22-23,012a9877
+e97fd090,Ruben Loftus-Cheek,12,ENG,CM,26-255,90,0,1,0,0,0,0,0,0,63,2,4,1,0.0,0.0,0.2,0,0,40,47,85.1,6,40,1,5,2,Chelsea,2022-10-05 Chelsea-Milan,UCL,22-23,012a9877
+d2424d1b,Ben Chilwell,21,ENG,WB,25-288,90,0,0,0,0,0,0,0,0,75,3,0,1,0.0,0.0,0.1,3,1,52,63,82.5,1,47,1,4,2,Chelsea,2022-10-05 Chelsea-Milan,UCL,22-23,012a9877
+1265a93a,Reece James,24,ENG,WB,22-301,90,1,1,0,0,1,1,0,0,94,3,0,2,0.2,0.2,0.5,3,1,65,79,82.3,3,54,3,3,2,Chelsea,2022-10-05 Chelsea-Milan,UCL,22-23,012a9877
+da974c7b,Kalidou Koulibaly,26,SEN,CB,31-107,90,0,0,0,0,0,0,0,0,69,1,0,6,0.0,0.0,0.0,0,0,46,55,83.6,4,44,2,0,0,Chelsea,2022-10-05 Chelsea-Milan,UCL,22-23,012a9877
+86e7deaf,Thiago Silva,6,BRA,CB,38-013,90,0,0,0,0,3,2,1,0,53,1,2,0,0.1,0.1,0.0,3,1,35,42,83.3,1,28,0,0,0,Chelsea,2022-10-05 Chelsea-Milan,UCL,22-23,012a9877
+132a82f1,Wesley Fofana,33,FRA,CB,21-292,37,1,0,0,0,2,1,0,0,18,1,0,1,0.3,0.3,0.0,0,0,12,12,100.0,0,9,0,0,0,Chelsea,2022-10-05 Chelsea-Milan,UCL,22-23,012a9877
+5515376c,Trevoh Chalobah,14,ENG,CB,23-092,53,0,0,0,0,1,0,0,0,27,1,2,0,0.0,0.0,0.0,0,0,16,20,80.0,1,13,0,0,0,Chelsea,2022-10-05 Chelsea-Milan,UCL,22-23,012a9877
+28d596a0,Kepa Arrizabalaga,1,ESP,GK,28-002,90,0,0,0,0,0,0,0,0,26,0,0,0,0.0,0.0,0.0,0,0,13,25,52.0,0,14,0,0,0,Chelsea,2022-10-05 Chelsea-Milan,UCL,22-23,012a9877
+16ceb862,Olivier Giroud,9,FRA,FW,36-005,71,0,0,0,0,0,0,0,0,20,1,1,1,0.0,0.0,0.0,0,0,9,14,64.3,2,5,0,0,0,Milan,2022-10-05 Chelsea-Milan,UCL,22-23,012a9877
+43a166b4,Divock Origi,27,BEL,FW,27-170,19,0,0,0,0,1,0,0,0,5,0,0,0,0.1,0.1,0.0,0,0,1,3,33.3,0,3,0,0,0,Milan,2022-10-05 Chelsea-Milan,UCL,22-23,012a9877
+20730eae,Rafael Leão,17,POR,LW,23-117,71,0,0,0,0,0,0,0,0,24,0,0,1,0.0,0.0,0.1,2,0,11,17,64.7,1,22,3,6,3,Milan,2022-10-05 Chelsea-Milan,UCL,22-23,012a9877
+407feb71,Brahim Díaz,10,MAR,"RW,LW",23-063,19,0,0,0,0,0,0,0,0,14,0,0,0,0.0,0.0,0.0,0,0,7,9,77.8,0,13,0,5,3,Milan,2022-10-05 Chelsea-Milan,UCL,22-23,012a9877
+817c6964,Rade Krunić,33,BIH,RW,28-363,64,0,0,0,0,1,0,1,0,31,0,0,0,0.2,0.2,0.0,0,0,17,26,65.4,1,22,0,1,0,Milan,2022-10-05 Chelsea-Milan,UCL,22-23,012a9877
+c235e803,Matteo Gabbia,46,ITA,"CB,RW",22-349,26,0,0,0,0,0,0,0,0,27,1,0,1,0.0,0.0,0.0,0,0,20,23,87.0,0,20,0,0,0,Milan,2022-10-05 Chelsea-Milan,UCL,22-23,012a9877
+2ef7c612,Charles De Ketelaere,90,BEL,AM,21-209,64,0,0,0,0,1,1,0,0,41,1,1,1,0.1,0.1,0.0,1,0,18,30,60.0,2,25,1,1,0,Milan,2022-10-05 Chelsea-Milan,UCL,22-23,012a9877
+536cebe5,Ante Rebić,12,CRO,"LW,AM",29-014,26,0,0,0,0,0,0,0,0,11,1,0,0,0.0,0.0,0.0,0,0,6,7,85.7,0,6,0,0,0,Milan,2022-10-05 Chelsea-Milan,UCL,22-23,012a9877
+0db169ae,Sandro Tonali,8,ITA,"DM,CM",22-150,90,0,0,0,0,0,0,0,0,57,0,0,0,0.0,0.0,0.0,1,0,38,52,73.1,6,38,2,0,0,Milan,2022-10-05 Chelsea-Milan,UCL,22-23,012a9877
+db092d3b,Ismaël Bennacer,4,ALG,DM,24-308,71,0,0,0,0,0,0,0,0,61,5,0,2,0.0,0.0,0.0,1,0,40,50,80.0,2,39,0,1,1,Milan,2022-10-05 Chelsea-Milan,UCL,22-23,012a9877
+55a1cac2,Tommaso Pobega,32,ITA,CM,23-082,19,0,0,0,0,0,0,0,0,15,1,0,0,0.0,0.0,0.0,0,0,11,13,84.6,0,10,0,0,0,Milan,2022-10-05 Chelsea-Milan,UCL,22-23,012a9877
+f449640d,Fodé Ballo-Touré,5,SEN,"LB,LM",25-275,90,0,0,0,0,0,0,1,0,63,2,4,2,0.0,0.0,0.0,0,0,48,52,92.3,0,43,1,2,1,Milan,2022-10-05 Chelsea-Milan,UCL,22-23,012a9877
+7edfbb8a,Fikayo Tomori,23,ENG,CB,24-290,90,0,0,0,0,1,0,1,0,86,1,0,1,0.0,0.0,0.0,1,0,60,74,81.1,5,60,4,0,0,Milan,2022-10-05 Chelsea-Milan,UCL,22-23,012a9877
+85f7d1be,Pierre Kalulu,20,FRA,CB,22-122,90,0,0,0,0,0,0,0,0,89,2,2,3,0.0,0.0,0.0,0,0,69,77,89.6,5,67,1,0,0,Milan,2022-10-05 Chelsea-Milan,UCL,22-23,012a9877
+5976f83e,Sergiño Dest,21,USA,"RB,RM",21-336,90,0,0,0,0,0,0,0,0,46,1,0,0,0.0,0.0,0.1,1,0,29,38,76.3,1,30,1,4,0,Milan,2022-10-05 Chelsea-Milan,UCL,22-23,012a9877
+b056e3da,Ciprian Tătărușanu,1,ROU,GK,36-238,90,0,0,0,0,0,0,0,0,40,0,0,0,0.0,0.0,0.0,0,0,32,37,86.5,0,28,0,0,0,Milan,2022-10-05 Chelsea-Milan,UCL,22-23,012a9877

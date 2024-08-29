@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+e2ae54db,Hákon Arnar Haraldsson,30,ISL,FW,19-206,90,1,0,0,0,2,2,0,0,42,1,0,0,0.4,0.4,0.0,2,0,29,36,80.6,3,25,3,2,2,FC Copenhagen,2022-11-02 FC Copenhagen-Dortmund,UCL,22-23,0ad599c2
+06a1d642,Mohammed Daramy,15,DEN,LW,20-299,78,0,0,0,0,0,0,0,0,54,0,1,1,0.0,0.0,0.4,11,0,32,38,84.2,6,35,11,10,3,FC Copenhagen,2022-11-02 FC Copenhagen-Dortmund,UCL,22-23,0ad599c2
+d0b8e745,Orri Steinn Óskarsson,18,ISL,LW,18-065,12,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,1,0,2,5,40.0,0,4,0,0,0,FC Copenhagen,2022-11-02 FC Copenhagen-Dortmund,UCL,22-23,0ad599c2
+88ce7ddc,Roony Bardghji,40,SWE,RW,16-352,69,0,0,0,0,3,1,0,0,25,0,0,0,0.3,0.3,0.0,0,0,11,17,64.7,1,18,1,4,2,FC Copenhagen,2022-11-02 FC Copenhagen-Dortmund,UCL,22-23,0ad599c2
+c16c4e3b,Ísak Jóhannesson,8,ISL,RW,19-224,21,0,0,0,0,2,1,0,0,9,0,0,1,0.2,0.2,0.0,2,0,5,6,83.3,1,3,1,0,0,FC Copenhagen,2022-11-02 FC Copenhagen-Dortmund,UCL,22-23,0ad599c2
+b3a712de,Viktor Claesson,7,SWE,LM,30-304,69,0,1,0,0,5,3,0,0,64,3,1,1,0.3,0.3,0.4,8,1,45,49,91.8,8,23,2,0,0,FC Copenhagen,2022-11-02 FC Copenhagen-Dortmund,UCL,22-23,0ad599c2
+762179d9,Rasmus Falk,33,DEN,LM,30-291,21,0,0,0,0,1,0,0,0,18,0,1,0,0.1,0.1,0.0,2,0,15,15,100.0,1,10,2,0,0,FC Copenhagen,2022-11-02 FC Copenhagen-Dortmund,UCL,22-23,0ad599c2
+b9beb6c5,William Clem,36,DEN,"CM,RM",18-135,90,0,0,0,0,2,0,0,0,49,2,2,2,0.1,0.1,0.0,3,0,33,39,84.6,3,24,0,0,0,FC Copenhagen,2022-11-02 FC Copenhagen-Dortmund,UCL,22-23,0ad599c2
+1b82f8df,Lukas Lerager,12,DEN,"RM,CM",29-113,90,0,0,0,0,3,1,1,0,57,2,8,1,0.3,0.3,0.1,1,0,28,37,75.7,5,16,0,1,0,FC Copenhagen,2022-11-02 FC Copenhagen-Dortmund,UCL,22-23,0ad599c2
+c8829a58,Christian Sørensen,6,DEN,LB,30-088,57,0,0,0,0,1,0,0,0,56,1,2,0,0.0,0.0,0.2,4,0,33,49,67.3,5,28,4,1,0,FC Copenhagen,2022-11-02 FC Copenhagen-Dortmund,UCL,22-23,0ad599c2
+505486d6,Victor Bernth Kristiansen,34,DEN,LB,19-321,33,0,0,0,0,0,0,0,0,23,3,0,0,0.0,0.0,0.1,3,0,13,17,76.5,0,9,2,0,0,FC Copenhagen,2022-11-02 FC Copenhagen-Dortmund,UCL,22-23,0ad599c2
+cd1629bc,Valdemar Jensen,27,DEN,CB,19-158,90,0,0,0,0,1,0,0,0,54,1,2,3,0.0,0.0,0.0,0,0,35,41,85.4,3,20,0,0,0,FC Copenhagen,2022-11-02 FC Copenhagen-Dortmund,UCL,22-23,0ad599c2
+08990838,Denis Vavro,3,SVK,CB,26-206,90,0,0,0,0,2,1,1,0,58,1,1,3,0.1,0.1,0.0,0,0,42,49,85.7,1,24,0,0,0,FC Copenhagen,2022-11-02 FC Copenhagen-Dortmund,UCL,22-23,0ad599c2
+f179ee11,Kevin Diks,2,NED,RB,26-027,78,0,0,0,0,0,0,0,0,54,4,2,2,0.0,0.0,0.0,0,0,30,42,71.4,4,22,1,0,0,FC Copenhagen,2022-11-02 FC Copenhagen-Dortmund,UCL,22-23,0ad599c2
+213f0daf,Elias Jelert,19,DEN,RB,19-143,12,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,2,0,7,8,87.5,1,5,2,0,0,FC Copenhagen,2022-11-02 FC Copenhagen-Dortmund,UCL,22-23,0ad599c2
+62182b1d,Kamil Grabara,1,POL,GK,23-298,90,0,0,0,0,0,0,0,0,35,0,0,0,0.0,0.0,0.0,0,0,27,35,77.1,0,18,0,0,0,FC Copenhagen,2022-11-02 FC Copenhagen-Dortmund,UCL,22-23,0ad599c2
+34e4343c,Anthony Modeste,20,FRA,FW,34-202,90,0,0,0,0,2,0,1,0,16,0,0,4,0.2,0.2,0.0,1,0,4,6,66.7,0,8,0,0,0,Dortmund,2022-11-02 FC Copenhagen-Dortmund,UCL,22-23,0ad599c2
+7fa4e703,Gio Reyna,7,USA,LW,19-354,62,0,0,0,0,1,0,0,0,34,1,0,0,0.0,0.0,0.3,4,0,16,24,66.7,5,19,2,4,1,Dortmund,2022-11-02 FC Copenhagen-Dortmund,UCL,22-23,0ad599c2
+a167537f,Julian Brandt,19,GER,DM,26-184,28,0,0,0,0,1,0,0,0,25,1,0,0,0.0,0.0,0.1,2,0,16,22,72.7,2,17,1,1,1,Dortmund,2022-11-02 FC Copenhagen-Dortmund,UCL,22-23,0ad599c2
+501055d8,Karim Adeyemi,27,GER,RW,20-288,90,0,0,0,0,2,0,0,0,39,0,0,1,0.1,0.1,0.3,2,0,21,27,77.8,3,29,5,6,3,Dortmund,2022-11-02 FC Copenhagen-Dortmund,UCL,22-23,0ad599c2
+116c35df,Donyell Malen,21,NED,"AM,LW",23-297,90,0,0,0,0,3,0,0,0,35,0,0,0,0.6,0.6,0.0,3,0,18,23,78.3,5,30,2,3,1,Dortmund,2022-11-02 FC Copenhagen-Dortmund,UCL,22-23,0ad599c2
+15413fa5,Salih Özcan,6,TUR,DM,24-295,62,0,0,0,0,0,0,0,0,70,1,3,0,0.0,0.0,0.0,0,0,53,61,86.9,1,50,1,1,1,Dortmund,2022-11-02 FC Copenhagen-Dortmund,UCL,22-23,0ad599c2
+6ce43701,Youssoufa Moukoko,18,GER,AM,17-347,28,0,0,0,0,2,0,0,0,13,0,0,0,0.1,0.1,0.1,1,0,8,8,100.0,4,6,0,0,0,Dortmund,2022-11-02 FC Copenhagen-Dortmund,UCL,22-23,0ad599c2
+a65ce836,Emre Can,23,GER,DM,28-294,90,0,0,0,0,1,0,1,0,75,3,1,3,0.0,0.0,0.0,1,1,54,64,84.4,9,52,2,0,0,Dortmund,2022-11-02 FC Copenhagen-Dortmund,UCL,22-23,0ad599c2
+50871bcc,Thorgan Hazard,10,BEL,LB,29-218,71,1,0,0,0,1,1,0,0,52,1,3,1,0.1,0.1,0.2,3,0,29,42,69.0,1,29,1,0,0,Dortmund,2022-11-02 FC Copenhagen-Dortmund,UCL,22-23,0ad599c2
+9dff291c,Soumaïla Coulibaly,44,FRA,LB,19-019,19,0,0,0,0,0,0,0,0,18,0,1,0,0.0,0.0,0.0,1,0,14,15,93.3,3,12,1,0,0,Dortmund,2022-11-02 FC Copenhagen-Dortmund,UCL,22-23,0ad599c2
+34e12499,Nico Schlotterbeck,4,GER,CB,22-336,90,0,0,0,0,0,0,0,0,110,1,0,1,0.0,0.0,0.1,2,0,95,104,91.3,6,89,2,0,0,Dortmund,2022-11-02 FC Copenhagen-Dortmund,UCL,22-23,0ad599c2
+05d548d8,Mats Hummels,15,GER,CB,33-321,45,0,0,0,0,0,0,0,0,64,2,0,1,0.0,0.0,0.0,0,0,50,56,89.3,6,47,1,0,0,Dortmund,2022-11-02 FC Copenhagen-Dortmund,UCL,22-23,0ad599c2
+e33c06cf,Niklas Süle,25,GER,CB,27-060,45,0,0,0,0,0,0,0,0,61,0,1,0,0.0,0.0,0.0,0,0,49,57,86.0,1,51,2,0,0,Dortmund,2022-11-02 FC Copenhagen-Dortmund,UCL,22-23,0ad599c2
+5c899683,Felix Passlack,30,GER,RB,24-157,90,0,1,0,0,0,0,0,0,80,3,0,2,0.0,0.0,0.0,4,1,57,69,82.6,8,45,3,4,1,Dortmund,2022-11-02 FC Copenhagen-Dortmund,UCL,22-23,0ad599c2
+cd59b9df,Gregor Kobel,1,SUI,GK,24-331,45,0,0,0,0,0,0,0,0,36,0,0,0,0.0,0.0,0.0,0,0,25,33,75.8,0,32,0,0,0,Dortmund,2022-11-02 FC Copenhagen-Dortmund,UCL,22-23,0ad599c2
+b56dd813,Alexander Meyer,33,GER,GK,31-203,45,0,0,0,0,0,0,0,0,34,0,0,0,0.0,0.0,0.0,0,0,30,33,90.9,0,22,0,0,0,Dortmund,2022-11-02 FC Copenhagen-Dortmund,UCL,22-23,0ad599c2

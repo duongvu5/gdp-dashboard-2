@@ -1,0 +1,27 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+d5dd5f1f,Pierre-Emerick Aubameyang,14,GAB,FW,28-256,90,0,0,0,1,1,0,0,0,27,0,0,0,0.8,0.0,0.1,1,0,12,23,52.2,0,19,1,2,2,Arsenal,2018-03-01 Arsenal-Manchester City,ENG-EPL,17-18,7a4e4ce6
+ce5143da,Danny Welbeck,23,ENG,LW,27-095,90,0,0,0,0,1,0,0,0,38,3,3,3,0.2,0.2,0.0,2,0,15,21,71.4,2,23,1,3,2,Arsenal,2018-03-01 Arsenal-Manchester City,ENG-EPL,17-18,7a4e4ce6
+dd0daf32,Henrikh Mkhitaryan,7,ARM,RW,29-039,90,0,0,0,0,2,1,0,0,66,4,0,6,0.1,0.1,0.2,2,0,32,46,69.6,3,37,1,6,1,Arsenal,2018-03-01 Arsenal-Manchester City,ENG-EPL,17-18,7a4e4ce6
+16380240,Mesut Özil,11,GER,AM,29-137,90,0,0,0,0,1,0,0,0,70,0,0,0,0.1,0.1,0.1,3,0,47,63,74.6,6,51,1,0,0,Arsenal,2018-03-01 Arsenal-Manchester City,ENG-EPL,17-18,7a4e4ce6
+e61b8aee,Granit Xhaka,29,SUI,DM,25-155,90,0,0,0,0,2,2,0,0,87,6,2,2,0.1,0.1,0.0,0,0,64,76,84.2,6,52,0,0,0,Arsenal,2018-03-01 Arsenal-Manchester City,ENG-EPL,17-18,7a4e4ce6
+ef619b0b,Aaron Ramsey,8,WAL,DM,27-065,90,0,0,0,0,2,1,0,0,57,0,0,1,0.1,0.1,0.0,5,0,42,51,82.4,5,41,2,2,2,Arsenal,2018-03-01 Arsenal-Manchester City,ENG-EPL,17-18,7a4e4ce6
+3935e52e,Sead Kolašinac,31,BIH,LB,24-254,90,0,0,0,0,0,0,1,0,75,2,4,1,0.0,0.0,0.0,1,0,49,66,74.2,5,34,1,1,1,Arsenal,2018-03-01 Arsenal-Manchester City,ENG-EPL,17-18,7a4e4ce6
+f5efb153,Laurent Koscielny,6,FRA,CB,32-172,90,0,0,0,0,0,0,0,0,77,2,2,3,0.0,0.0,0.0,0,0,60,67,89.6,7,41,1,0,0,Arsenal,2018-03-01 Arsenal-Manchester City,ENG-EPL,17-18,7a4e4ce6
+3f2d59fe,Shkodran Mustafi,20,GER,CB,25-318,90,0,0,0,0,0,0,0,0,79,5,1,0,0.0,0.0,0.0,1,0,55,72,76.4,3,46,0,0,0,Arsenal,2018-03-01 Arsenal-Manchester City,ENG-EPL,17-18,7a4e4ce6
+f874dd44,Héctor Bellerín,24,ESP,RB,22-347,90,0,0,0,0,0,0,0,0,68,2,1,1,0.0,0.0,0.1,3,0,51,61,83.6,7,36,1,1,1,Arsenal,2018-03-01 Arsenal-Manchester City,ENG-EPL,17-18,7a4e4ce6
+71672fa0,Petr Čech,33,CZE,GK,35-285,90,0,0,0,0,0,0,0,0,40,0,0,0,0.0,0.0,0.0,0,0,27,39,69.2,0,27,0,0,0,Arsenal,2018-03-01 Arsenal-Manchester City,ENG-EPL,17-18,7a4e4ce6
+4d034881,Sergio Agüero,10,ARG,FW,29-272,81,0,1,0,0,4,2,0,0,43,1,0,0,0.7,0.7,0.3,1,1,28,35,80.0,2,31,6,6,5,Manchester City,2018-03-01 Arsenal-Manchester City,ENG-EPL,17-18,7a4e4ce6
+c204f844,Yaya Touré,42,CIV,"CM,FW",34-292,9,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,9,9,100.0,0,7,0,0,0,Manchester City,2018-03-01 Arsenal-Manchester City,ENG-EPL,17-18,7a4e4ce6
+2b114be3,Leroy Sané,19,GER,"LW,LM",22-049,90,1,1,0,0,1,1,0,0,48,0,0,0,0.4,0.4,0.0,3,3,34,36,94.4,3,40,2,9,6,Manchester City,2018-03-01 Arsenal-Manchester City,ENG-EPL,17-18,7a4e4ce6
+3eb22ec9,Bernardo Silva,20,POR,"RW,RM",23-203,90,1,0,0,0,1,1,0,0,54,3,3,3,0.0,0.0,0.0,2,0,29,39,74.4,2,36,3,2,2,Manchester City,2018-03-01 Arsenal-Manchester City,ENG-EPL,17-18,7a4e4ce6
+e2716bd0,David Silva,21,ESP,LM,32-052,86,1,0,0,0,1,1,0,0,65,0,0,2,0.3,0.3,0.0,1,0,46,58,79.3,4,46,2,1,1,Manchester City,2018-03-01 Arsenal-Manchester City,ENG-EPL,17-18,7a4e4ce6
+b66315ae,Gabriel Jesus,33,BRA,FW,20-332,4,0,0,0,0,1,0,0,0,4,0,0,0,0.0,0.0,0.0,1,0,1,2,50.0,0,2,0,0,0,Manchester City,2018-03-01 Arsenal-Manchester City,ENG-EPL,17-18,7a4e4ce6
+819b3158,İlkay Gündoğan,8,GER,CM,27-128,90,0,0,0,0,0,0,0,0,82,0,3,1,0.0,0.0,0.1,1,0,67,73,91.8,4,47,0,3,2,Manchester City,2018-03-01 Arsenal-Manchester City,ENG-EPL,17-18,7a4e4ce6
+e46012d4,Kevin De Bruyne,17,BEL,"RM,FW",26-246,90,0,0,0,0,1,0,0,0,82,1,5,3,0.0,0.0,0.6,4,1,53,68,77.9,6,51,3,4,2,Manchester City,2018-03-01 Arsenal-Manchester City,ENG-EPL,17-18,7a4e4ce6
+94b2001f,Danilo,3,BRA,"LB,RB",26-229,90,0,0,0,0,0,0,0,0,78,1,0,1,0.0,0.0,0.0,0,0,62,69,89.9,4,38,3,1,1,Manchester City,2018-03-01 Arsenal-Manchester City,ENG-EPL,17-18,7a4e4ce6
+0d267745,Nicolás Otamendi,30,ARG,CB,30-017,90,0,0,0,0,0,0,1,0,93,2,1,2,0.0,0.0,0.0,0,0,67,78,85.9,1,48,0,1,1,Manchester City,2018-03-01 Arsenal-Manchester City,ENG-EPL,17-18,7a4e4ce6
+d2bff301,Vincent Kompany,4,BEL,CB,31-325,90,0,0,0,0,0,0,0,0,105,1,2,0,0.0,0.0,0.0,0,0,82,95,86.3,3,59,1,0,0,Manchester City,2018-03-01 Arsenal-Manchester City,ENG-EPL,17-18,7a4e4ce6
+86dd77d1,Kyle Walker,2,ENG,RB,27-277,71,0,1,0,0,0,0,0,0,70,1,1,0,0.0,0.0,0.4,1,1,52,64,81.3,1,39,0,1,1,Manchester City,2018-03-01 Arsenal-Manchester City,ENG-EPL,17-18,7a4e4ce6
+51cf8561,Oleksandr Zinchenko,35,UKR,LB,21-076,19,0,0,0,0,0,0,0,0,33,1,0,0,0.0,0.0,0.0,1,0,27,30,90.0,0,17,0,0,0,Manchester City,2018-03-01 Arsenal-Manchester City,ENG-EPL,17-18,7a4e4ce6
+3bb7b8b4,Ederson,31,BRA,GK,24-196,90,0,0,0,0,0,0,0,0,34,0,0,0,0.0,0.0,0.0,0,0,27,31,87.1,0,18,0,0,0,Manchester City,2018-03-01 Arsenal-Manchester City,ENG-EPL,17-18,7a4e4ce6

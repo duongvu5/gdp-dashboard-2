@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+5eae500a,Romelu Lukaku,9,BEL,FW,24-351,49,0,0,0,0,1,0,0,0,15,0,1,0,0.1,0.1,0.3,2,0,7,11,63.6,1,11,1,1,0,Manchester United,2018-04-29 Manchester Utd-Arsenal,ENG-EPL,17-18,5b587217
+a1d5bd30,Marcus Rashford,19,ENG,FW,20-180,41,0,0,0,0,0,0,0,0,9,0,0,2,0.0,0.0,0.0,0,0,3,4,75.0,1,4,0,2,1,Manchester United,2018-04-29 Manchester Utd-Arsenal,ENG-EPL,17-18,5b587217
+2c0f8e9e,Alexis Sánchez,7,CHI,"LW,RW",29-131,90,0,0,0,0,1,0,0,0,63,2,3,0,0.3,0.3,0.1,6,1,42,54,77.8,5,42,1,2,0,Manchester United,2018-04-29 Manchester Utd-Arsenal,ENG-EPL,17-18,5b587217
+810e3c74,Jesse Lingard,14,ENG,RW,25-135,63,0,0,0,0,2,0,0,0,42,0,0,0,0.1,0.1,0.0,3,0,31,35,88.6,4,26,2,0,0,Manchester United,2018-04-29 Manchester Utd-Arsenal,ENG-EPL,17-18,5b587217
+87575fd9,Marouane Fellaini,27,BEL,RM,30-158,27,1,0,0,0,3,1,0,0,17,1,0,1,0.4,0.4,0.0,0,0,7,9,77.8,2,8,0,0,0,Manchester United,2018-04-29 Manchester Utd-Arsenal,ENG-EPL,17-18,5b587217
+867239d3,Paul Pogba,6,FRA,LM,25-045,90,1,0,0,0,4,1,0,0,79,3,0,0,0.9,0.9,0.1,3,0,54,65,83.1,8,53,4,6,4,Manchester United,2018-04-29 Manchester Utd-Arsenal,ENG-EPL,17-18,5b587217
+eb7822d7,Nemanja Matić,31,SRB,CM,29-271,90,0,0,0,0,1,0,0,0,101,2,1,0,0.0,0.0,0.1,2,0,91,97,93.8,10,73,6,3,2,Manchester United,2018-04-29 Manchester Utd-Arsenal,ENG-EPL,17-18,5b587217
+436a9dd0,Ander Herrera,21,ESP,RM,28-258,63,0,0,0,0,0,0,0,0,82,3,2,1,0.0,0.0,0.0,0,0,65,73,89.0,9,48,0,0,0,Manchester United,2018-04-29 Manchester Utd-Arsenal,ENG-EPL,17-18,5b587217
+8b788c01,Anthony Martial,11,FRA,LW,22-145,27,0,0,0,0,1,0,0,0,25,0,0,0,0.0,0.0,0.3,2,0,13,19,68.4,2,20,5,4,2,Manchester United,2018-04-29 Manchester Utd-Arsenal,ENG-EPL,17-18,5b587217
+be927d03,Ashley Young,18,ENG,LB,32-294,90,0,1,0,0,1,0,0,0,83,2,1,0,0.0,0.0,0.1,3,1,62,75,82.7,3,47,5,1,0,Manchester United,2018-04-29 Manchester Utd-Arsenal,ENG-EPL,17-18,5b587217
+f5deef4c,Victor Lindelöf,2,SWE,CB,23-286,90,0,0,0,0,1,0,0,0,79,2,0,0,0.0,0.0,0.0,1,1,67,70,95.7,4,55,1,1,1,Manchester United,2018-04-29 Manchester Utd-Arsenal,ENG-EPL,17-18,5b587217
+b6964eb6,Chris Smalling,12,ENG,CB,28-158,90,0,0,0,0,0,0,0,0,59,0,1,1,0.0,0.0,0.0,0,0,49,54,90.7,1,38,0,0,0,Manchester United,2018-04-29 Manchester Utd-Arsenal,ENG-EPL,17-18,5b587217
+08aa17d0,Antonio Valencia,25,ECU,RB,32-268,90,0,0,0,0,1,0,0,0,88,1,4,0,0.0,0.0,0.0,2,0,68,84,81.0,7,52,6,1,0,Manchester United,2018-04-29 Manchester Utd-Arsenal,ENG-EPL,17-18,5b587217
+7ba6d84e,David de Gea,1,ESP,GK,27-173,90,0,0,0,0,0,0,0,0,25,0,0,0,0.0,0.0,0.0,0,0,20,25,80.0,0,15,0,0,0,Manchester United,2018-04-29 Manchester Utd-Arsenal,ENG-EPL,17-18,5b587217
+d5dd5f1f,Pierre-Emerick Aubameyang,14,GAB,FW,28-315,90,0,0,0,0,1,1,0,0,30,0,0,0,0.2,0.2,0.0,1,0,17,25,68.0,0,16,1,0,0,Arsenal,2018-04-29 Manchester Utd-Arsenal,ENG-EPL,17-18,5b587217
+c5bdb6e3,Reiss Nelson,61,ENG,LW,18-140,63,0,0,0,0,2,0,0,0,31,0,1,1,0.1,0.1,0.0,2,0,19,22,86.4,3,22,3,2,1,Arsenal,2018-04-29 Manchester Utd-Arsenal,ENG-EPL,17-18,5b587217
+ce5143da,Danny Welbeck,23,ENG,LW,27-154,27,0,0,0,0,1,1,0,0,18,5,0,0,0.0,0.0,0.0,0,0,5,8,62.5,0,12,0,1,0,Arsenal,2018-04-29 Manchester Utd-Arsenal,ENG-EPL,17-18,5b587217
+dd0daf32,Henrikh Mkhitaryan,7,ARM,RW,29-098,75,1,0,0,0,3,1,0,0,45,2,0,1,0.1,0.1,0.1,1,0,25,35,71.4,3,39,3,3,3,Arsenal,2018-04-29 Manchester Utd-Arsenal,ENG-EPL,17-18,5b587217
+a3b03921,Joe Willock,69,ENG,LM,18-252,15,0,0,0,0,0,0,0,0,10,0,0,2,0.0,0.0,0.0,0,0,3,5,60.0,0,4,1,0,0,Arsenal,2018-04-29 Manchester Utd-Arsenal,ENG-EPL,17-18,5b587217
+6ca5ec4b,Alex Iwobi,17,NGA,"AM,RW",21-361,90,0,0,0,0,0,0,0,0,51,2,0,1,0.0,0.0,0.0,1,0,42,46,91.3,6,40,3,3,2,Arsenal,2018-04-29 Manchester Utd-Arsenal,ENG-EPL,17-18,5b587217
+e61b8aee,Granit Xhaka,29,SUI,"DM,CM",25-214,90,0,1,0,0,0,0,1,0,90,4,2,0,0.0,0.0,0.1,5,2,72,81,88.9,10,63,4,1,1,Arsenal,2018-04-29 Manchester Utd-Arsenal,ENG-EPL,17-18,5b587217
+e3a5814e,Ainsley Maitland-Niles,30,ENG,"DM,RM",20-243,90,0,0,0,0,1,0,0,0,52,3,0,3,0.1,0.1,0.1,2,0,35,38,92.1,5,36,4,3,2,Arsenal,2018-04-29 Manchester Utd-Arsenal,ENG-EPL,17-18,5b587217
+3935e52e,Sead Kolašinac,31,BIH,LB,24-313,63,0,0,0,0,0,0,0,0,50,5,1,0,0.0,0.0,0.0,0,0,32,43,74.4,3,25,1,0,0,Arsenal,2018-04-29 Manchester Utd-Arsenal,ENG-EPL,17-18,5b587217
+d4cb83cc,Nacho Monreal,18,ESP,LB,32-062,27,0,0,0,0,0,0,0,0,14,0,0,0,0.0,0.0,0.0,0,0,8,9,88.9,0,7,2,1,1,Arsenal,2018-04-29 Manchester Utd-Arsenal,ENG-EPL,17-18,5b587217
+00963611,Konstantinos Mavropanos,27,GRE,CB,20-139,90,0,0,0,0,0,0,0,0,47,1,3,3,0.0,0.0,0.0,0,0,34,37,91.9,2,27,1,1,1,Arsenal,2018-04-29 Manchester Utd-Arsenal,ENG-EPL,17-18,5b587217
+dc6f5bdd,Calum Chambers,21,ENG,CB,23-099,90,0,0,0,0,0,0,0,0,69,3,3,2,0.0,0.0,0.0,0,0,35,49,71.4,2,42,0,1,1,Arsenal,2018-04-29 Manchester Utd-Arsenal,ENG-EPL,17-18,5b587217
+f874dd44,Héctor Bellerín,24,ESP,RB,23-041,90,0,0,0,0,0,0,0,0,66,3,3,5,0.0,0.0,0.2,2,0,41,49,83.7,2,28,1,1,1,Arsenal,2018-04-29 Manchester Utd-Arsenal,ENG-EPL,17-18,5b587217
+82b1198a,David Ospina,13,COL,GK,29-241,90,0,0,0,0,0,0,0,0,20,0,0,0,0.0,0.0,0.0,0,0,13,20,65.0,0,10,0,0,0,Arsenal,2018-04-29 Manchester Utd-Arsenal,ENG-EPL,17-18,5b587217

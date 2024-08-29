@@ -1,0 +1,29 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+4d034881,Sergio Agüero,10,ARG,FW,29-180,90,0,0,0,0,3,0,0,0,32,0,1,1,0.2,0.2,0.3,5,0,17,21,81.0,3,21,3,2,2,Manchester City,2017-11-29 Manchester City-Southampton,ENG-EPL,17-18,cb554100
+b66315ae,Gabriel Jesus,33,BRA,LW,20-240,73,0,0,0,0,4,3,0,0,59,5,1,1,0.4,0.4,0.0,5,1,30,46,65.2,1,36,0,0,0,Manchester City,2017-11-29 Manchester City-Southampton,ENG-EPL,17-18,cb554100
+e2716bd0,David Silva,21,ESP,LW,31-325,17,0,0,0,0,0,0,0,0,19,0,0,0,0.0,0.0,0.0,2,0,12,19,63.2,5,14,1,0,0,Manchester City,2017-11-29 Manchester City-Southampton,ENG-EPL,17-18,cb554100
+b400bde0,Raheem Sterling,7,ENG,RW,22-356,90,1,0,0,0,2,2,0,0,48,0,0,0,0.1,0.1,0.0,6,1,37,44,84.1,1,42,3,0,0,Manchester City,2017-11-29 Manchester City-Southampton,ENG-EPL,17-18,cb554100
+819b3158,İlkay Gündoğan,8,GER,LM,27-036,79,0,0,0,0,3,0,0,0,76,3,2,0,0.1,0.1,0.0,6,0,53,65,81.5,5,54,2,2,1,Manchester City,2017-11-29 Manchester City-Southampton,ENG-EPL,17-18,cb554100
+3eb22ec9,Bernardo Silva,20,POR,LM,23-111,11,0,0,0,0,0,0,0,0,14,1,0,0,0.0,0.0,0.0,0,0,6,9,66.7,0,10,2,2,1,Manchester City,2017-11-29 Manchester City-Southampton,ENG-EPL,17-18,cb554100
+101da2b5,Fernandinho,25,BRA,CM,32-209,90,0,0,0,0,4,2,0,0,115,3,0,1,0.1,0.1,0.0,3,0,89,101,88.1,13,77,4,0,0,Manchester City,2017-11-29 Manchester City-Southampton,ENG-EPL,17-18,cb554100
+e46012d4,Kevin De Bruyne,17,BEL,RM,26-154,90,1,1,0,0,5,3,0,0,112,0,0,1,0.1,0.1,0.6,12,2,72,101,71.3,16,80,8,1,1,Manchester City,2017-11-29 Manchester City-Southampton,ENG-EPL,17-18,cb554100
+111c3236,Fabian Delph,18,ENG,LB,28-008,90,0,0,0,0,1,1,0,0,127,1,0,3,0.0,0.0,0.0,5,0,110,120,91.7,7,87,2,0,0,Manchester City,2017-11-29 Manchester City-Southampton,ENG-EPL,17-18,cb554100
+0d267745,Nicolás Otamendi,30,ARG,CB,29-290,90,0,0,0,0,2,1,0,0,120,0,2,0,0.3,0.3,0.1,2,0,100,108,92.6,10,86,6,1,0,Manchester City,2017-11-29 Manchester City-Southampton,ENG-EPL,17-18,cb554100
+d2bff301,Vincent Kompany,4,BEL,CB,31-233,90,0,0,0,0,0,0,1,0,82,0,2,1,0.0,0.0,0.0,1,0,67,72,93.1,5,54,6,2,2,Manchester City,2017-11-29 Manchester City-Southampton,ENG-EPL,17-18,cb554100
+86dd77d1,Kyle Walker,2,ENG,RB,27-185,90,0,0,0,0,2,0,0,0,118,3,1,3,0.0,0.0,0.0,2,0,90,107,84.1,6,71,7,0,0,Manchester City,2017-11-29 Manchester City-Southampton,ENG-EPL,17-18,cb554100
+3bb7b8b4,Ederson,31,BRA,GK,24-104,90,0,0,0,0,0,0,0,0,23,0,0,0,0.0,0.0,0.0,0,0,21,22,95.5,0,13,0,0,0,Manchester City,2017-11-29 Manchester City-Southampton,ENG-EPL,17-18,cb554100
+9f472354,Shane Long,7,IRL,FW,30-311,82,0,0,0,0,1,0,1,0,25,2,1,0,0.1,0.1,0.0,1,0,9,16,56.3,1,12,1,0,0,Southampton,2017-11-29 Manchester City-Southampton,ENG-EPL,17-18,cb554100
+8d228291,Charlie Austin,10,ENG,FW,28-147,8,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,1,0,0,0,Southampton,2017-11-29 Manchester City-Southampton,ENG-EPL,17-18,cb554100
+ab651565,Nathan Redmond,22,ENG,"LM,CM,LW",23-268,90,0,0,0,0,0,0,0,0,37,0,0,1,0.0,0.0,0.3,3,0,23,32,71.9,0,16,0,2,0,Southampton,2017-11-29 Manchester City-Southampton,ENG-EPL,17-18,cb554100
+2b471f99,Mario Lemina,18,GAB,CM,24-089,90,0,0,0,0,1,1,0,0,40,3,5,2,0.1,0.1,0.0,1,0,17,26,65.4,0,16,1,5,5,Southampton,2017-11-29 Manchester City-Southampton,ENG-EPL,17-18,cb554100
+4b511457,Oriol Romeu,14,ESP,CM,26-066,90,1,0,0,0,1,1,0,0,40,2,4,6,0.4,0.4,0.0,0,0,15,20,75.0,4,14,0,1,0,Southampton,2017-11-29 Manchester City-Southampton,ENG-EPL,17-18,cb554100
+8b04d6c1,Pierre Højbjerg,23,DEN,RM,22-116,63,0,0,0,0,0,0,0,0,40,2,4,6,0.0,0.0,0.0,1,0,16,21,76.2,0,14,0,1,0,Southampton,2017-11-29 Manchester City-Southampton,ENG-EPL,17-18,cb554100
+b0c71810,Sofiane Boufal,19,MAR,"RW,RM",24-073,27,0,1,0,0,0,0,0,0,9,1,0,1,0.0,0.0,0.4,2,2,2,5,40.0,0,4,0,4,3,Southampton,2017-11-29 Manchester City-Southampton,ENG-EPL,17-18,cb554100
+01226327,Ryan Bertrand,21,ENG,LB,28-116,90,0,0,0,0,0,0,0,0,39,0,0,3,0.0,0.0,0.1,3,0,16,27,59.3,1,13,1,2,1,Southampton,2017-11-29 Manchester City-Southampton,ENG-EPL,17-18,cb554100
+875898c7,Wesley Hoedt,6,NED,CB,23-268,90,0,0,0,0,2,0,0,0,43,2,2,1,0.3,0.3,0.0,1,0,13,29,44.8,1,16,0,0,0,Southampton,2017-11-29 Manchester City-Southampton,ENG-EPL,17-18,cb554100
+e06683ca,Virgil van Dijk,17,NED,"CB,CM",26-144,90,0,0,0,0,1,0,0,0,35,1,3,1,0.1,0.1,0.3,1,0,15,24,62.5,1,15,0,0,0,Southampton,2017-11-29 Manchester City-Southampton,ENG-EPL,17-18,cb554100
+caffaf5a,Maya Yoshida,3,JPN,"CB,RB",29-097,90,0,0,0,0,1,0,0,0,42,0,3,2,0.3,0.3,0.3,1,0,20,29,69.0,0,18,0,0,0,Southampton,2017-11-29 Manchester City-Southampton,ENG-EPL,17-18,cb554100
+839c14e1,Cédric Soares,2,POR,RB,26-090,86,0,0,0,0,0,0,0,0,30,2,1,0,0.0,0.0,0.0,0,0,9,22,40.9,0,14,0,0,0,Southampton,2017-11-29 Manchester City-Southampton,ENG-EPL,17-18,cb554100
+b27b49b4,Sam McQueen,38,ENG,LW,22-296,4,0,0,0,0,0,0,0,0,7,0,1,0,0.0,0.0,0.0,0,0,4,5,80.0,0,2,0,0,0,Southampton,2017-11-29 Manchester City-Southampton,ENG-EPL,17-18,cb554100
+c3e39f12,Fraser Forster,44,ENG,GK,29-257,90,0,0,0,0,0,0,0,0,42,0,0,0,0.0,0.0,0.0,0,0,9,35,25.7,0,10,0,0,0,Southampton,2017-11-29 Manchester City-Southampton,ENG-EPL,17-18,cb554100

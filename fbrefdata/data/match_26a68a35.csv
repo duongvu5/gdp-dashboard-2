@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+f833a830,Takumi Minamino,18,JPN,"FW,RW",25-285,59,0,0,0,0,1,0,0,0,27,1,0,3,0.0,0.0,0.0,0,0,15,18,83.3,1,16,0,0,0,Liverpool,2020-10-27 Liverpool-Midtjylland,UCL,20-21,26a68a35
+e342ad68,Mohamed Salah,11,EGY,RW,28-134,31,1,0,1,1,1,0,0,0,9,0,0,0,0.8,0.1,0.0,2,1,1,4,25.0,0,6,2,1,1,Liverpool,2020-10-27 Liverpool-Midtjylland,UCL,20-21,26a68a35
+43a166b4,Divock Origi,27,BEL,"LW,FW",25-192,59,0,0,0,0,0,0,0,0,29,0,0,0,0.0,0.0,0.0,0,0,15,17,88.2,0,16,1,2,1,Liverpool,2020-10-27 Liverpool-Midtjylland,UCL,20-21,26a68a35
+c691bfe2,Sadio Mané,10,SEN,LW,28-200,31,0,0,0,0,0,0,0,0,12,0,0,0,0.0,0.0,0.0,0,0,10,11,90.9,0,12,1,1,1,Liverpool,2020-10-27 Liverpool-Midtjylland,UCL,20-21,26a68a35
+178ae8f8,Diogo Jota,20,POR,"RW,FW,LW",23-328,80,1,0,0,0,2,1,0,0,38,2,1,0,0.8,0.8,0.0,1,0,23,28,82.1,3,23,2,3,3,Liverpool,2020-10-27 Liverpool-Midtjylland,UCL,20-21,26a68a35
+4c370d81,Roberto Firmino,9,BRA,FW,29-025,10,0,0,0,0,1,0,0,0,10,0,0,1,0.4,0.4,0.0,0,0,4,5,80.0,0,7,0,1,0,Liverpool,2020-10-27 Liverpool-Midtjylland,UCL,20-21,26a68a35
+2f90f6b8,James Milner,7,ENG,LM,34-297,90,0,0,0,0,1,0,1,0,55,3,2,2,0.1,0.1,0.0,2,0,34,42,81.0,6,33,0,3,0,Liverpool,2020-10-27 Liverpool-Midtjylland,UCL,20-21,26a68a35
+935e6b8f,Jordan Henderson,14,ENG,CM,30-132,45,0,0,0,0,1,0,0,0,44,0,0,0,0.1,0.1,0.0,1,0,37,41,90.2,5,35,0,0,0,Liverpool,2020-10-27 Liverpool-Midtjylland,UCL,20-21,26a68a35
+eb58eef0,Georginio Wijnaldum,5,NED,CM,29-351,45,0,0,0,0,0,0,0,0,27,0,1,0,0.0,0.0,0.0,0,0,23,25,92.0,4,18,1,2,2,Liverpool,2020-10-27 Liverpool-Midtjylland,UCL,20-21,26a68a35
+6421ec64,Xherdan Shaqiri,23,SUI,RM,29-017,90,0,0,0,0,0,0,0,0,60,0,2,5,0.0,0.0,0.1,3,1,36,43,83.7,7,35,1,1,1,Liverpool,2020-10-27 Liverpool-Midtjylland,UCL,20-21,26a68a35
+2e4f5f03,Andrew Robertson,26,SCO,LB,26-230,90,0,0,0,0,1,0,0,0,93,1,1,0,0.0,0.0,0.1,2,0,77,88,87.5,7,60,4,2,2,Liverpool,2020-10-27 Liverpool-Midtjylland,UCL,20-21,26a68a35
+7a11550b,Joe Gomez,12,ENG,CB,23-157,90,0,0,0,0,0,0,0,0,105,2,0,0,0.0,0.0,0.0,0,0,86,98,87.8,5,82,2,0,0,Liverpool,2020-10-27 Liverpool-Midtjylland,UCL,20-21,26a68a35
+7f3b388c,Fabinho,3,BRA,CB,27-004,29,0,0,0,0,0,0,0,0,29,0,0,0,0.0,0.0,0.0,0,0,27,29,93.1,0,23,0,0,0,Liverpool,2020-10-27 Liverpool-Midtjylland,UCL,20-21,26a68a35
+012c975a,Rhys Williams,46,ENG,CB,19-267,61,0,0,0,0,0,0,0,0,60,1,1,0,0.0,0.0,0.0,0,0,49,57,86.0,1,46,0,0,0,Liverpool,2020-10-27 Liverpool-Midtjylland,UCL,20-21,26a68a35
+cd1acf9d,Trent Alexander-Arnold,66,ENG,RB,22-020,90,0,1,0,0,0,0,0,0,113,2,0,0,0.0,0.0,1.2,5,2,79,106,74.5,6,82,2,1,1,Liverpool,2020-10-27 Liverpool-Midtjylland,UCL,20-21,26a68a35
+7a2e46a8,Alisson,1,BRA,GK,28-025,90,0,0,0,0,0,0,0,0,43,0,0,0,0.0,0.0,0.0,0,0,32,41,78.0,0,24,0,0,0,Liverpool,2020-10-27 Liverpool-Midtjylland,UCL,20-21,26a68a35
+d29202c2,Sory Kaba,9,GUI,FW,25-091,80,0,0,0,0,0,0,0,0,27,2,0,1,0.0,0.0,0.0,0,0,12,16,75.0,0,11,1,1,0,Midtjylland,2020-10-27 Liverpool-Midtjylland,UCL,20-21,26a68a35
+83e1f40e,Luca Pfeiffer,33,GER,FW,24-068,10,0,0,0,0,1,0,0,0,7,0,0,0,0.1,0.1,0.0,0,0,3,6,50.0,0,2,0,0,0,Midtjylland,2020-10-27 Liverpool-Midtjylland,UCL,20-21,26a68a35
+922da988,Awer Mabil,11,AUS,LW,25-042,65,0,0,0,0,0,0,0,0,21,0,1,1,0.0,0.0,0.0,0,0,11,19,57.9,1,16,4,1,1,Midtjylland,2020-10-27 Liverpool-Midtjylland,UCL,20-21,26a68a35
+0a721e85,Mikael Anderson,34,ISL,LW,22-118,25,0,0,0,0,0,0,0,0,15,0,0,0,0.0,0.0,0.7,1,0,9,11,81.8,1,7,1,0,0,Midtjylland,2020-10-27 Liverpool-Midtjylland,UCL,20-21,26a68a35
+c6486b01,Anders Dreyer,36,DEN,RW,22-178,90,0,0,0,0,2,1,0,0,31,0,1,0,1.1,1.1,0.0,2,0,19,26,73.1,3,19,3,4,2,Midtjylland,2020-10-27 Liverpool-Midtjylland,UCL,20-21,26a68a35
+fd9c4805,Pione Sisto,7,DEN,AM,25-266,71,0,0,0,0,0,0,0,0,25,2,0,0,0.0,0.0,0.0,0,0,13,20,65.0,0,10,1,1,0,Midtjylland,2020-10-27 Liverpool-Midtjylland,UCL,20-21,26a68a35
+4352d221,Evander,10,BRA,"DM,AM",22-140,19,0,0,0,0,2,0,0,0,15,1,0,0,0.1,0.1,0.0,1,0,8,12,66.7,0,9,1,1,1,Midtjylland,2020-10-27 Liverpool-Midtjylland,UCL,20-21,26a68a35
+2944f86f,Frank Onyeka,38,NGA,"DM,AM",22-300,90,0,0,0,0,0,0,1,0,40,4,3,0,0.0,0.0,0.1,1,0,22,25,88.0,1,16,0,0,0,Midtjylland,2020-10-27 Liverpool-Midtjylland,UCL,20-21,26a68a35
+928a4a61,Jens Cajuste,40,SWE,DM,21-078,80,0,0,0,0,0,0,1,0,43,3,2,5,0.0,0.0,0.0,0,0,17,27,63.0,2,18,0,3,3,Midtjylland,2020-10-27 Liverpool-Midtjylland,UCL,20-21,26a68a35
+8690eef7,Bozhidar Kraev,15,BUL,DM,23-126,10,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,2,1,0,0,Midtjylland,2020-10-27 Liverpool-Midtjylland,UCL,20-21,26a68a35
+f3fa599d,Paulinho,29,BRA,LB,25-298,90,0,0,0,0,0,0,1,0,47,0,0,0,0.0,0.0,0.0,1,0,23,41,56.1,2,17,2,2,1,Midtjylland,2020-10-27 Liverpool-Midtjylland,UCL,20-21,26a68a35
+b0c7a51d,Alexander Scholz,14,DEN,CB,28-003,90,0,0,0,0,0,0,1,0,58,1,0,0,0.0,0.0,0.4,1,0,45,51,88.2,3,27,0,1,1,Midtjylland,2020-10-27 Liverpool-Midtjylland,UCL,20-21,26a68a35
+9614b550,Erik Sviatchenko,28,DEN,CB,29-023,90,0,0,0,0,0,0,0,0,52,1,1,1,0.0,0.0,0.0,1,0,35,44,79.5,2,23,0,0,0,Midtjylland,2020-10-27 Liverpool-Midtjylland,UCL,20-21,26a68a35
+b5f66351,Joel Andersson,6,SWE,RB,23-351,90,0,0,0,0,0,0,0,0,57,1,1,0,0.0,0.0,0.1,1,0,35,50,70.0,3,24,2,1,1,Midtjylland,2020-10-27 Liverpool-Midtjylland,UCL,20-21,26a68a35
+63e905bc,Mikkel Andersen,31,DEN,GK,31-315,90,0,0,0,0,0,0,0,0,42,0,0,0,0.0,0.0,0.0,0,0,26,41,63.4,0,22,0,0,0,Midtjylland,2020-10-27 Liverpool-Midtjylland,UCL,20-21,26a68a35

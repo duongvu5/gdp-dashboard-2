@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+82e34b69,Troy Deeney,9,ENG,FW,29-275,90,0,0,0,0,3,1,0,0,45,1,0,1,0.1,0.1,0.0,1,0,18,34,52.9,7,19,1,3,2,Watford,2018-03-31 Watford-Bournemouth,ENG-EPL,17-18,fe2d2f2c
+75f2c59f,Roberto Pereyra,37,ARG,"LW,LM",27-083,90,1,0,0,0,2,1,0,0,48,0,1,1,0.1,0.1,0.0,1,1,28,32,87.5,3,35,2,5,1,Watford,2018-03-31 Watford-Bournemouth,ENG-EPL,17-18,fe2d2f2c
+e5d01ecf,Kiko Femenía,21,ESP,"RW,RM",27-057,80,1,0,0,0,2,1,0,0,36,1,1,1,0.1,0.1,0.1,3,1,27,32,84.4,4,27,3,0,0,Watford,2018-03-31 Watford-Bournemouth,ENG-EPL,17-18,fe2d2f2c
+fa031b34,Richarlison,11,BRA,RM,20-325,10,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,1,0,5,8,62.5,1,5,2,1,1,Watford,2018-03-31 Watford-Bournemouth,ENG-EPL,17-18,fe2d2f2c
+a0666d3e,Will Hughes,19,ENG,AM,22-348,74,0,1,0,0,2,0,0,0,54,4,3,2,0.1,0.1,0.2,8,1,34,40,85.0,7,31,3,1,1,Watford,2018-03-31 Watford-Bournemouth,ENG-EPL,17-18,fe2d2f2c
+601ef102,Stefano Okaka,33,ITA,FW,28-234,16,0,0,0,0,0,0,1,0,7,0,0,0,0.0,0.0,0.0,0,0,3,6,50.0,0,7,0,0,0,Watford,2018-03-31 Watford-Bournemouth,ENG-EPL,17-18,fe2d2f2c
+5acc4a10,Étienne Capoue,29,FRA,"DM,CM",29-263,90,0,0,0,0,2,0,0,0,47,2,3,0,0.1,0.1,0.0,2,0,27,38,71.1,6,23,0,1,1,Watford,2018-03-31 Watford-Bournemouth,ENG-EPL,17-18,fe2d2f2c
+02b29014,Abdoulaye Doucouré,16,MLI,"DM,CM",25-089,90,0,0,0,0,1,0,1,0,68,2,2,1,0.0,0.0,0.0,1,0,52,60,86.7,7,40,2,0,0,Watford,2018-03-31 Watford-Bournemouth,ENG-EPL,17-18,fe2d2f2c
+12aa7661,José Holebas,25,GRE,LB,33-277,90,0,1,0,0,3,1,1,0,73,1,2,1,0.1,0.1,0.1,3,1,32,61,52.5,7,24,2,3,1,Watford,2018-03-31 Watford-Bournemouth,ENG-EPL,17-18,fe2d2f2c
+8aa5f52c,Adrian Mariappa,6,JAM,CB,31-179,90,0,0,0,0,0,0,0,0,49,2,1,2,0.0,0.0,0.0,0,0,30,42,71.4,3,25,0,0,0,Watford,2018-03-31 Watford-Bournemouth,ENG-EPL,17-18,fe2d2f2c
+f5e6d08d,Sebastian Prödl,5,AUT,CB,30-283,63,0,0,0,0,0,0,1,0,30,1,0,3,0.0,0.0,0.0,0,0,19,23,82.6,0,15,0,0,0,Watford,2018-03-31 Watford-Bournemouth,ENG-EPL,17-18,fe2d2f2c
+89e4b358,Craig Cathcart,15,NIR,CB,29-053,27,0,0,0,0,0,0,0,0,10,1,0,0,0.0,0.0,0.0,0,0,7,8,87.5,2,6,0,1,0,Watford,2018-03-31 Watford-Bournemouth,ENG-EPL,17-18,fe2d2f2c
+45da6694,Daryl Janmaat,2,NED,RB,28-252,90,0,0,0,0,1,1,0,0,65,3,1,0,0.1,0.1,0.0,2,0,41,57,71.9,6,34,2,2,2,Watford,2018-03-31 Watford-Bournemouth,ENG-EPL,17-18,fe2d2f2c
+85b011bb,Orestis Karnezis,30,GRE,GK,32-263,90,0,0,0,0,0,0,0,0,34,0,0,0,0.0,0.0,0.0,0,0,19,31,61.3,0,19,0,0,0,Watford,2018-03-31 Watford-Bournemouth,ENG-EPL,17-18,fe2d2f2c
+c596fcb0,Callum Wilson,13,ENG,FW,26-032,80,0,0,0,0,0,0,0,0,18,1,0,0,0.0,0.0,0.0,1,0,8,12,66.7,1,12,0,0,0,Bournemouth,2018-03-31 Watford-Bournemouth,ENG-EPL,17-18,fe2d2f2c
+7d41b619,Andrew Surman,6,ENG,"CM,FW",31-223,10,0,0,0,0,1,1,0,0,9,0,1,0,0.0,0.0,0.0,0,0,6,6,100.0,1,3,0,1,1,Bournemouth,2018-03-31 Watford-Bournemouth,ENG-EPL,17-18,fe2d2f2c
+43458538,Joshua King,17,NOR,"FW,CM",26-075,90,1,0,1,1,1,0,0,0,42,3,1,0,0.8,0.0,0.0,5,0,14,21,66.7,1,22,2,7,4,Bournemouth,2018-03-31 Watford-Bournemouth,ENG-EPL,17-18,fe2d2f2c
+6992791d,Junior Stanislas,19,ENG,LM,28-125,44,0,0,0,0,2,2,0,0,22,0,0,4,0.1,0.1,0.1,3,1,9,13,69.2,1,10,1,2,1,Bournemouth,2018-03-31 Watford-Bournemouth,ENG-EPL,17-18,fe2d2f2c
+9aacb284,Marc Pugh,7,ENG,"LM,RB",30-363,46,0,0,0,0,0,0,0,0,27,1,0,1,0.0,0.0,0.0,1,0,15,22,68.2,2,10,0,1,0,Bournemouth,2018-03-31 Watford-Bournemouth,ENG-EPL,17-18,fe2d2f2c
+7fec31a0,Dan Gosling,4,ENG,CM,28-058,90,0,0,0,0,0,0,0,0,69,5,3,0,0.0,0.0,0.0,2,0,46,56,82.1,3,22,0,0,0,Bournemouth,2018-03-31 Watford-Bournemouth,ENG-EPL,17-18,fe2d2f2c
+2afc7272,Lewis Cook,16,ENG,CM,21-056,90,0,0,0,0,2,0,0,0,51,3,0,1,0.0,0.0,0.0,0,0,33,42,78.6,5,27,1,3,2,Bournemouth,2018-03-31 Watford-Bournemouth,ENG-EPL,17-18,fe2d2f2c
+9f736ed2,Jordon Ibe,33,ENG,RM,22-113,66,0,0,0,0,2,1,0,0,33,0,0,0,0.1,0.1,0.1,3,0,17,24,70.8,4,20,2,1,0,Bournemouth,2018-03-31 Watford-Bournemouth,ENG-EPL,17-18,fe2d2f2c
+f1e8372d,Jermain Defoe,18,ENG,"FW,RM",35-175,24,1,0,0,0,2,1,0,0,9,0,0,0,0.5,0.5,0.0,0,0,2,4,50.0,1,6,0,1,0,Bournemouth,2018-03-31 Watford-Bournemouth,ENG-EPL,17-18,fe2d2f2c
+9d107085,Charlie Daniels,11,ENG,"LB,CB",31-205,90,0,0,0,0,0,0,0,0,62,1,0,1,0.0,0.0,0.0,3,0,45,54,83.3,4,29,1,1,0,Bournemouth,2018-03-31 Watford-Bournemouth,ENG-EPL,17-18,fe2d2f2c
+eaeca114,Nathan Aké,5,NED,CB,23-041,90,0,1,0,0,1,0,0,0,60,1,0,1,0.1,0.1,0.4,2,1,44,52,84.6,4,34,0,0,0,Bournemouth,2018-03-31 Watford-Bournemouth,ENG-EPL,17-18,fe2d2f2c
+3e5e4e63,Steve Cook,3,ENG,CB,26-346,90,0,0,0,0,1,0,0,0,74,1,1,3,0.1,0.1,0.0,1,0,48,59,81.4,4,26,1,0,0,Bournemouth,2018-03-31 Watford-Bournemouth,ENG-EPL,17-18,fe2d2f2c
+d56543a0,Ryan Fraser,24,SCO,"RB,LB",24-035,90,0,0,0,0,0,0,0,0,82,4,1,3,0.0,0.0,0.1,2,0,46,67,68.7,4,31,7,1,1,Bournemouth,2018-03-31 Watford-Bournemouth,ENG-EPL,17-18,fe2d2f2c
+7b4de647,Asmir Begović,27,BIH,GK,30-284,90,0,0,0,0,0,0,0,0,42,0,0,0,0.0,0.0,0.0,1,1,29,41,70.7,0,19,0,0,0,Bournemouth,2018-03-31 Watford-Bournemouth,ENG-EPL,17-18,fe2d2f2c

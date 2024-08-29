@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+833fb62e,Sandro Ramírez,9,ESP,FW,22-062,45,0,0,0,0,2,0,0,0,21,0,0,0,0.2,0.2,0.0,1,0,10,16,62.5,2,13,0,1,1,Everton,2017-09-09 Everton-Tottenham,ENG-EPL,17-18,2a7d4892
+59e6e5bf,Dominic Calvert-Lewin,29,ENG,FW,20-177,45,0,0,0,0,2,1,0,0,15,1,0,0,0.2,0.2,0.0,1,0,5,9,55.6,0,6,0,0,0,Everton,2017-09-09 Everton-Tottenham,ENG-EPL,17-18,2a7d4892
+76dd1480,Gylfi Sigurðsson,18,ISL,LW,28-001,90,0,0,0,0,4,0,0,0,50,1,0,2,0.3,0.3,0.0,4,0,31,37,83.8,4,21,0,2,1,Everton,2017-09-09 Everton-Tottenham,ENG-EPL,17-18,2a7d4892
+15fd5593,Davy Klaassen,20,NED,RW,24-200,45,0,0,0,0,0,0,0,0,18,0,1,0,0.0,0.0,0.0,1,0,12,15,80.0,2,8,0,0,0,Everton,2017-09-09 Everton-Tottenham,ENG-EPL,17-18,2a7d4892
+9228b07c,Tom Davies,26,ENG,"LM,RW",19-071,45,0,0,0,0,0,0,0,0,28,1,0,0,0.0,0.0,0.0,0,0,16,23,69.6,2,15,1,0,0,Everton,2017-09-09 Everton-Tottenham,ENG-EPL,17-18,2a7d4892
+f07be45a,Wayne Rooney,10,ENG,"RW,AM",31-320,90,0,0,0,0,2,0,1,0,50,1,0,0,0.3,0.3,0.2,4,0,29,40,72.5,6,22,0,0,0,Everton,2017-09-09 Everton-Tottenham,ENG-EPL,17-18,2a7d4892
+72c812f3,Idrissa Gana Gueye,17,SEN,"DM,RM",27-348,79,0,0,0,0,1,0,1,0,49,4,4,2,0.0,0.0,0.0,1,0,36,38,94.7,4,27,0,0,0,Everton,2017-09-09 Everton-Tottenham,ENG-EPL,17-18,2a7d4892
+aa8e289e,Nikola Vlašić,27,CRO,RM,19-340,11,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,0,0,6,9,66.7,1,8,0,0,0,Everton,2017-09-09 Everton-Tottenham,ENG-EPL,17-18,2a7d4892
+51b41c5c,Morgan Schneiderlin,2,FRA,"CM,DM",27-305,90,0,0,0,0,0,0,0,0,60,4,6,1,0.0,0.0,0.0,0,0,39,46,84.8,5,25,0,0,0,Everton,2017-09-09 Everton-Tottenham,ENG-EPL,17-18,2a7d4892
+b18095b6,Leighton Baines,3,ENG,LB,32-272,90,0,0,0,0,0,0,0,0,82,0,0,0,0.0,0.0,0.3,5,0,57,73,78.1,4,38,2,5,3,Everton,2017-09-09 Everton-Tottenham,ENG-EPL,17-18,2a7d4892
+a498e276,Ashley Williams,5,WAL,CB,33-017,90,0,0,0,0,0,0,1,0,66,2,2,1,0.0,0.0,0.0,0,0,50,58,86.2,1,37,0,0,0,Everton,2017-09-09 Everton-Tottenham,ENG-EPL,17-18,2a7d4892
+c5b7c315,Michael Keane,4,ENG,CB,24-241,90,0,0,0,0,1,0,0,0,57,1,0,2,0.0,0.0,0.0,1,0,38,45,84.4,1,22,0,1,1,Everton,2017-09-09 Everton-Tottenham,ENG-EPL,17-18,2a7d4892
+22551915,Cuco Martina,15,CUW,RB,27-349,90,0,0,0,0,0,0,0,0,75,2,2,0,0.0,0.0,0.3,4,0,50,65,76.9,7,34,3,0,0,Everton,2017-09-09 Everton-Tottenham,ENG-EPL,17-18,2a7d4892
+4806ec67,Jordan Pickford,1,ENG,GK,23-186,90,0,0,0,0,0,0,0,0,48,0,0,0,0.0,0.0,0.0,0,0,22,45,48.9,0,22,0,0,0,Everton,2017-09-09 Everton-Tottenham,ENG-EPL,17-18,2a7d4892
+21a66f6a,Harry Kane,10,ENG,FW,24-043,84,2,0,0,0,4,3,0,0,31,0,0,0,0.5,0.5,0.1,3,1,13,23,56.5,1,19,1,4,2,Tottenham Hotspur,2017-09-09 Everton-Tottenham,ENG-EPL,17-18,2a7d4892
+92e7e919,Son Heung-min,7,KOR,FW,25-063,6,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,1,0,4,4,100.0,0,3,1,0,0,Tottenham Hotspur,2017-09-09 Everton-Tottenham,ENG-EPL,17-18,2a7d4892
+cea4ee8f,Dele Alli,20,ENG,FW,21-151,90,0,0,0,0,2,0,0,0,44,1,3,1,0.1,0.1,0.1,3,0,24,31,77.4,3,31,3,4,1,Tottenham Hotspur,2017-09-09 Everton-Tottenham,ENG-EPL,17-18,2a7d4892
+980522ec,Christian Eriksen,23,DEN,DM,25-207,70,1,0,0,0,5,2,0,0,55,0,0,1,0.8,0.8,0.0,2,0,36,46,78.3,5,31,3,2,2,Tottenham Hotspur,2017-09-09 Everton-Tottenham,ENG-EPL,17-18,2a7d4892
+f7ee69fb,Mousa Dembélé,19,BEL,DM,30-055,20,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,0,0,Tottenham Hotspur,2017-09-09 Everton-Tottenham,ENG-EPL,17-18,2a7d4892
+ac861941,Eric Dier,15,ENG,DM,23-237,90,0,0,0,0,0,0,0,0,49,2,2,1,0.0,0.0,0.0,1,0,38,41,92.7,5,15,0,1,0,Tottenham Hotspur,2017-09-09 Everton-Tottenham,ENG-EPL,17-18,2a7d4892
+2acd49b9,Moussa Sissoko,17,FRA,DM,28-024,77,0,0,0,0,2,0,0,0,38,2,1,0,0.4,0.4,0.0,2,0,22,29,75.9,1,19,2,2,1,Tottenham Hotspur,2017-09-09 Everton-Tottenham,ENG-EPL,17-18,2a7d4892
+2f7acede,Harry Winks,29,ENG,DM,21-219,13,0,0,0,0,0,0,0,0,12,0,1,2,0.0,0.0,0.0,0,0,5,6,83.3,0,4,0,1,1,Tottenham Hotspur,2017-09-09 Everton-Tottenham,ENG-EPL,17-18,2a7d4892
+44781702,Ben Davies,33,WAL,WB,24-138,90,0,1,0,0,1,1,0,0,82,1,0,4,0.1,0.1,0.5,7,2,50,71,70.4,8,36,6,0,0,Tottenham Hotspur,2017-09-09 Everton-Tottenham,ENG-EPL,17-18,2a7d4892
+21512407,Kieran Trippier,2,ENG,WB,26-355,90,0,1,0,0,0,0,0,0,77,2,0,4,0.0,0.0,0.3,2,1,50,68,73.5,6,22,0,0,0,Tottenham Hotspur,2017-09-09 Everton-Tottenham,ENG-EPL,17-18,2a7d4892
+ba23a904,Jan Vertonghen,5,BEL,CB,30-138,90,0,0,0,0,0,0,0,0,75,4,1,1,0.0,0.0,0.0,2,1,54,63,85.7,5,26,1,1,1,Tottenham Hotspur,2017-09-09 Everton-Tottenham,ENG-EPL,17-18,2a7d4892
+da7b447d,Davinson Sánchez,6,COL,CB,21-089,90,0,0,0,0,0,0,0,0,52,0,3,1,0.0,0.0,0.0,1,0,35,39,89.7,1,24,0,0,0,Tottenham Hotspur,2017-09-09 Everton-Tottenham,ENG-EPL,17-18,2a7d4892
+f7d50789,Toby Alderweireld,4,BEL,CB,28-191,90,0,0,0,0,1,0,1,0,64,1,0,2,0.0,0.0,0.0,1,0,40,50,80.0,4,29,0,2,2,Tottenham Hotspur,2017-09-09 Everton-Tottenham,ENG-EPL,17-18,2a7d4892
+8f62b6ee,Hugo Lloris,1,FRA,GK,30-257,90,0,0,0,0,0,0,0,0,35,0,0,0,0.0,0.0,0.0,1,0,23,35,65.7,0,17,0,0,0,Tottenham Hotspur,2017-09-09 Everton-Tottenham,ENG-EPL,17-18,2a7d4892

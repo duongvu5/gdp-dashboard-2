@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+f63cda26,Gonçalo Ramos,88,POR,FW,21-260,90,2,1,0,0,5,3,0,0,24,2,1,0,1.1,1.1,0.2,4,3,9,13,69.2,3,15,1,3,3,Benfica,2023-03-07 Benfica-Club Brugge,UCL,22-23,e09ec959
+f0677ed7,Fredrik Aursnes,8,NOR,"LW,DM",27-087,90,0,0,0,0,1,0,0,0,71,0,2,1,0.1,0.1,0.0,4,1,52,61,85.2,5,55,1,1,0,Benfica,2023-03-07 Benfica-Club Brugge,UCL,22-23,e09ec959
+f0021247,João Mário,20,POR,RW,30-047,73,1,1,1,1,3,0,0,0,41,2,1,2,1.3,0.6,0.4,5,1,26,29,89.7,2,32,0,0,0,Benfica,2023-03-07 Benfica-Club Brugge,UCL,22-23,e09ec959
+c2a15a27,João Neves,87,POR,RW,18-161,17,0,1,0,0,0,0,0,0,28,0,0,0,0.0,0.0,0.1,1,1,25,27,92.6,2,26,0,0,0,Benfica,2023-03-07 Benfica-Club Brugge,UCL,22-23,e09ec959
+70cf63ca,Rafa Silva,27,POR,AM,29-294,90,1,0,0,0,3,1,0,0,57,0,0,1,0.3,0.3,0.0,6,2,44,47,93.6,2,49,2,6,4,Benfica,2023-03-07 Benfica-Club Brugge,UCL,22-23,e09ec959
+262e5a82,Chiquinho,22,POR,DM,27-231,62,0,0,0,0,1,0,0,0,59,0,0,1,0.0,0.0,0.1,3,0,46,54,85.2,8,47,1,0,0,Benfica,2023-03-07 Benfica-Club Brugge,UCL,22-23,e09ec959
+4f1e6a0b,David Neres,7,BRA,LW,26-004,28,1,0,0,0,1,1,0,0,16,0,0,0,0.1,0.1,0.2,0,0,10,14,71.4,0,16,0,0,0,Benfica,2023-03-07 Benfica-Club Brugge,UCL,22-23,e09ec959
+881cd6be,Florentino Luís,61,POR,DM,23-200,90,0,0,0,0,1,0,0,0,75,3,2,0,0.2,0.2,0.0,2,0,61,63,96.8,4,60,0,0,0,Benfica,2023-03-07 Benfica-Club Brugge,UCL,22-23,e09ec959
+b1f4086c,Álex Grimaldo,3,ESP,LB,27-168,90,0,1,0,0,4,1,0,0,81,2,0,2,0.2,0.2,1.2,6,1,63,70,90.0,3,65,1,2,0,Benfica,2023-03-07 Benfica-Club Brugge,UCL,22-23,e09ec959
+0d267745,Nicolás Otamendi,30,ARG,CB,35-023,73,0,0,0,0,0,0,1,0,74,1,1,1,0.0,0.0,0.0,1,0,66,70,94.3,6,65,1,0,0,Benfica,2023-03-07 Benfica-Club Brugge,UCL,22-23,e09ec959
+0f41e2ee,Morato,91,BRA,CB,21-250,17,0,0,0,0,0,0,0,0,21,0,0,1,0.0,0.0,0.0,0,0,19,20,95.0,1,20,0,0,0,Benfica,2023-03-07 Benfica-Club Brugge,UCL,22-23,e09ec959
+8f0435c7,António Silva,66,POR,CB,19-128,87,0,0,0,0,0,0,0,0,87,1,0,1,0.0,0.0,0.0,0,0,80,80,100.0,3,74,0,1,1,Benfica,2023-03-07 Benfica-Club Brugge,UCL,22-23,e09ec959
+5eaf85b5,Lucas Veríssimo,4,BRA,CB,27-248,3,0,0,0,0,0,0,0,0,4,0,0,1,0.0,0.0,0.0,0,0,2,2,100.0,0,2,0,0,0,Benfica,2023-03-07 Benfica-Club Brugge,UCL,22-23,e09ec959
+78f21137,Alexander Bah,6,DEN,RB,25-088,62,0,0,0,0,0,0,0,0,61,2,2,1,0.0,0.0,0.0,2,0,39,57,68.4,3,46,2,0,0,Benfica,2023-03-07 Benfica-Club Brugge,UCL,22-23,e09ec959
+1338e42b,Gilberto,2,BRA,RB,30-000,28,0,0,0,0,0,0,0,0,36,0,3,0,0.0,0.0,0.0,2,1,26,31,83.9,3,29,2,2,0,Benfica,2023-03-07 Benfica-Club Brugge,UCL,22-23,e09ec959
+03df04ff,Odisseas Vlachodimos,99,GRE,GK,28-315,90,0,0,0,0,0,0,0,0,19,0,0,0,0.0,0.0,0.0,0,0,18,18,100.0,0,12,0,0,0,Benfica,2023-03-07 Benfica-Club Brugge,UCL,22-23,e09ec959
+8e034340,Noa Lang,10,NED,FW,23-263,44,0,0,0,0,0,0,1,0,26,0,0,0,0.0,0.0,0.0,1,0,14,22,63.6,2,20,3,3,2,Club Brugge,2023-03-07 Benfica-Club Brugge,UCL,22-23,e09ec959
+751a0fb5,Raphael Onyedika,15,NGA,CM,21-322,46,0,0,0,0,1,0,0,0,29,0,0,0,0.0,0.0,0.0,1,0,26,27,96.3,2,24,1,1,1,Club Brugge,2023-03-07 Benfica-Club Brugge,UCL,22-23,e09ec959
+cb641b9d,Roman Yaremchuk,70,UKR,FW,27-100,61,0,0,0,0,1,0,1,0,19,0,0,1,0.2,0.2,0.0,0,0,12,16,75.0,0,14,0,1,0,Club Brugge,2023-03-07 Benfica-Club Brugge,UCL,22-23,e09ec959
+2a9f6b4d,Ferran Jutglà,9,ESP,FW,24-034,29,0,0,0,0,2,1,0,0,9,0,0,0,0.1,0.1,0.0,1,0,6,6,100.0,0,5,1,2,2,Club Brugge,2023-03-07 Benfica-Club Brugge,UCL,22-23,e09ec959
+392a7aea,Hans Vanaken,20,BEL,"CM,FW",30-195,73,0,0,0,0,3,0,0,0,47,0,0,0,0.2,0.2,0.0,3,0,35,41,85.4,3,40,1,0,0,Club Brugge,2023-03-07 Benfica-Club Brugge,UCL,22-23,e09ec959
+733e7ad8,Mats Rits,26,BEL,CM,29-232,17,0,0,0,0,0,0,0,0,6,1,0,0,0.0,0.0,0.0,0,0,5,5,100.0,0,4,0,0,0,Club Brugge,2023-03-07 Benfica-Club Brugge,UCL,22-23,e09ec959
+f6a90edd,Casper Nielsen,27,DEN,CM,28-312,90,0,0,0,0,3,0,0,0,38,2,1,2,0.2,0.2,0.1,5,1,21,29,72.4,3,25,0,0,0,Club Brugge,2023-03-07 Benfica-Club Brugge,UCL,22-23,e09ec959
+3aca6420,Tajon Buchanan,17,CAN,"CM,WB",24-027,90,0,1,0,0,2,0,0,0,28,1,0,0,0.0,0.0,0.1,4,1,14,20,70.0,2,20,4,2,0,Club Brugge,2023-03-07 Benfica-Club Brugge,UCL,22-23,e09ec959
+95f5aae8,Bjorn Meijer,14,NED,WB,19-354,90,1,0,0,0,1,1,1,0,58,0,2,5,0.1,0.1,0.3,6,0,38,47,80.9,3,36,3,2,1,Club Brugge,2023-03-07 Benfica-Club Brugge,UCL,22-23,e09ec959
+74b7375f,Kamal Sowah,19,GHA,"WB,CM",23-057,74,0,0,0,0,0,0,0,0,35,3,0,0,0.0,0.0,0.1,1,0,24,30,80.0,0,25,0,3,2,Club Brugge,2023-03-07 Benfica-Club Brugge,UCL,22-23,e09ec959
+4ab12002,Antonio Nusa,32,NOR,FW,17-324,16,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,1,0,1,1,100.0,0,2,0,2,1,Club Brugge,2023-03-07 Benfica-Club Brugge,UCL,22-23,e09ec959
+29c91632,Abakar Sylla,94,CIV,CB,20-072,90,0,0,0,0,0,0,1,0,58,1,3,0,0.0,0.0,0.0,0,0,41,48,85.4,1,46,0,1,1,Club Brugge,2023-03-07 Benfica-Club Brugge,UCL,22-23,e09ec959
+0a6dbbf7,Brandon Mechele,44,BEL,CB,30-038,90,0,0,0,0,0,0,0,0,63,1,1,1,0.0,0.0,0.0,0,0,47,55,85.5,0,45,0,0,0,Club Brugge,2023-03-07 Benfica-Club Brugge,UCL,22-23,e09ec959
+55abe554,Clinton Mata,77,ANG,CB,30-120,61,0,0,0,0,0,0,0,0,53,0,1,0,0.0,0.0,0.0,0,0,35,46,76.1,3,39,0,1,1,Club Brugge,2023-03-07 Benfica-Club Brugge,UCL,22-23,e09ec959
+f7750aa0,Denis Odoi,6,GHA,CB,34-284,29,0,0,0,0,0,0,0,0,19,0,0,0,0.0,0.0,0.0,0,0,15,18,83.3,2,16,0,1,1,Club Brugge,2023-03-07 Benfica-Club Brugge,UCL,22-23,e09ec959
+d436eb94,Simon Mignolet,22,BEL,GK,35-001,90,0,0,0,0,0,0,0,0,37,0,0,0,0.0,0.0,0.0,0,0,27,35,77.1,0,22,0,0,0,Club Brugge,2023-03-07 Benfica-Club Brugge,UCL,22-23,e09ec959

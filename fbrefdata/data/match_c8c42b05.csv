@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+9dbb75ca,Alexandre Lacazette,9,FRA,FW,26-343,71,1,1,0,0,2,1,0,0,32,1,1,0,0.5,0.5,1.2,6,1,20,25,80.0,4,25,4,0,0,Arsenal,2018-05-06 Arsenal-Burnley,ENG-EPL,17-18,c8c42b05
+ce5143da,Danny Welbeck,23,ENG,FW,27-161,19,0,0,0,0,1,0,0,0,11,1,0,0,0.0,0.0,0.0,0,0,6,8,75.0,0,5,0,0,0,Arsenal,2018-05-06 Arsenal-Burnley,ENG-EPL,17-18,c8c42b05
+d5dd5f1f,Pierre-Emerick Aubameyang,14,GAB,LW,28-322,90,2,1,0,0,2,2,0,0,56,0,1,3,1.4,1.4,0.2,3,1,31,46,67.4,2,37,8,2,2,Arsenal,2018-05-06 Arsenal-Burnley,ENG-EPL,17-18,c8c42b05
+dd0daf32,Henrikh Mkhitaryan,7,ARM,RW,29-105,90,0,0,0,0,3,1,0,0,81,2,0,1,0.1,0.1,0.1,4,0,59,70,84.3,9,53,8,3,3,Arsenal,2018-05-06 Arsenal-Burnley,ENG-EPL,17-18,c8c42b05
+9c318325,Jack Wilshere,10,ENG,LM,26-125,71,0,1,0,0,1,0,0,0,60,0,0,0,0.1,0.1,0.1,3,2,51,56,91.1,10,47,4,2,2,Arsenal,2018-05-06 Arsenal-Burnley,ENG-EPL,17-18,c8c42b05
+ef619b0b,Aaron Ramsey,8,WAL,LM,27-131,19,0,0,0,0,1,1,0,0,20,1,1,0,0.1,0.1,0.0,2,1,16,18,88.9,3,16,0,1,1,Arsenal,2018-05-06 Arsenal-Burnley,ENG-EPL,17-18,c8c42b05
+e61b8aee,Granit Xhaka,29,SUI,CM,25-221,90,0,0,0,0,0,0,0,0,98,2,0,1,0.0,0.0,0.0,2,0,87,92,94.6,12,68,0,0,0,Arsenal,2018-05-06 Arsenal-Burnley,ENG-EPL,17-18,c8c42b05
+6ca5ec4b,Alex Iwobi,17,NGA,RM,22-003,90,1,0,0,0,3,2,0,0,100,1,2,1,0.1,0.1,0.1,4,2,84,91,92.3,11,75,6,2,2,Arsenal,2018-05-06 Arsenal-Burnley,ENG-EPL,17-18,c8c42b05
+3935e52e,Sead Kolašinac,31,BIH,LB,24-320,90,1,0,0,0,2,1,0,0,77,0,1,3,0.1,0.1,0.0,2,0,58,68,85.3,1,46,2,2,1,Arsenal,2018-05-06 Arsenal-Burnley,ENG-EPL,17-18,c8c42b05
+00963611,Konstantinos Mavropanos,27,GRE,CB,20-146,90,0,0,0,0,0,0,0,0,68,0,3,1,0.0,0.0,0.0,0,0,49,56,87.5,3,37,0,0,0,Arsenal,2018-05-06 Arsenal-Burnley,ENG-EPL,17-18,c8c42b05
+dc6f5bdd,Calum Chambers,21,ENG,CB,23-106,76,0,0,0,0,0,0,0,0,61,2,3,0,0.0,0.0,0.0,1,0,51,54,94.4,3,48,1,1,1,Arsenal,2018-05-06 Arsenal-Burnley,ENG-EPL,17-18,c8c42b05
+5be28712,Per Mertesacker,4,GER,CB,33-219,14,0,0,0,0,0,0,0,0,16,0,1,1,0.0,0.0,0.0,0,0,13,13,100.0,0,10,0,0,0,Arsenal,2018-05-06 Arsenal-Burnley,ENG-EPL,17-18,c8c42b05
+f874dd44,Héctor Bellerín,24,ESP,RB,23-048,90,0,2,0,0,1,0,0,0,77,2,0,0,0.0,0.0,0.9,2,2,62,68,91.2,7,46,3,0,0,Arsenal,2018-05-06 Arsenal-Burnley,ENG-EPL,17-18,c8c42b05
+71672fa0,Petr Čech,33,CZE,GK,35-351,90,0,0,0,0,0,0,0,0,35,0,0,0,0.0,0.0,0.0,0,0,26,33,78.8,0,19,0,0,0,Arsenal,2018-05-06 Arsenal-Burnley,ENG-EPL,17-18,c8c42b05
+2691c772,Ashley Barnes,10,ENG,FW,28-188,21,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,2,4,50.0,0,6,0,0,0,Burnley,2018-05-06 Arsenal-Burnley,ENG-EPL,17-18,c8c42b05
+1d6ac165,Sam Vokes,9,WAL,FW,28-197,69,0,0,0,0,1,1,0,0,19,0,0,0,0.1,0.1,0.0,0,0,6,14,42.9,0,11,0,0,0,Burnley,2018-05-06 Arsenal-Burnley,ENG-EPL,17-18,c8c42b05
+989d5705,Jeff Hendrick,13,IRL,"FW,LM",26-095,90,0,0,0,0,2,0,0,0,47,0,1,1,0.1,0.1,0.1,3,0,37,40,92.5,6,29,0,3,2,Burnley,2018-05-06 Arsenal-Burnley,ENG-EPL,17-18,c8c42b05
+f72293fc,Jóhann Berg Guðmundsson,17,ISL,"LM,RM",27-191,88,0,0,0,0,1,1,0,0,41,0,0,1,0.0,0.0,0.1,4,0,28,37,75.7,1,24,3,2,2,Burnley,2018-05-06 Arsenal-Burnley,ENG-EPL,17-18,c8c42b05
+b070482d,Nahki Wells,21,BER,"FW,RM",27-339,2,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Burnley,2018-05-06 Arsenal-Burnley,ENG-EPL,17-18,c8c42b05
+495945ef,Ashley Westwood,18,ENG,CM,28-035,90,0,0,0,0,0,0,0,0,49,2,2,0,0.0,0.0,0.0,0,0,40,44,90.9,7,33,0,1,1,Burnley,2018-05-06 Arsenal-Burnley,ENG-EPL,17-18,c8c42b05
+74e12f1e,Jack Cork,4,ENG,CM,28-315,90,0,0,0,0,0,0,0,0,55,1,0,0,0.0,0.0,0.0,2,0,45,52,86.5,6,36,3,1,1,Burnley,2018-05-06 Arsenal-Burnley,ENG-EPL,17-18,c8c42b05
+2ff964a0,Aaron Lennon,25,ENG,RM,31-020,70,0,0,0,0,0,0,0,0,23,2,2,0,0.0,0.0,0.0,0,0,8,12,66.7,1,14,1,0,0,Burnley,2018-05-06 Arsenal-Burnley,ENG-EPL,17-18,c8c42b05
+76c131da,Georges-Kévin N'Koudou,7,CMR,"FW,RM",23-082,20,0,0,0,0,0,0,0,0,16,0,0,0,0.0,0.0,0.0,0,0,10,13,76.9,1,12,1,4,2,Burnley,2018-05-06 Arsenal-Burnley,ENG-EPL,17-18,c8c42b05
+3831b9fe,Stephen Ward,23,IRL,LB,32-259,90,0,0,0,0,0,0,0,0,46,0,1,2,0.0,0.0,0.0,0,0,31,33,93.9,1,25,1,0,0,Burnley,2018-05-06 Arsenal-Burnley,ENG-EPL,17-18,c8c42b05
+15ea812b,James Tarkowski,5,ENG,CB,25-168,90,0,0,0,0,0,0,1,0,48,1,5,3,0.0,0.0,0.0,0,0,33,36,91.7,0,30,0,0,0,Burnley,2018-05-06 Arsenal-Burnley,ENG-EPL,17-18,c8c42b05
+5a4280b1,Kevin Long,28,IRL,CB,27-261,90,0,0,0,0,2,0,0,0,54,2,1,1,0.1,0.1,0.0,0,0,34,41,82.9,4,31,0,0,0,Burnley,2018-05-06 Arsenal-Burnley,ENG-EPL,17-18,c8c42b05
+9a9c05db,Matthew Lowton,2,ENG,RB,28-331,90,0,0,0,0,0,0,0,0,63,3,5,0,0.0,0.0,0.0,0,0,28,51,54.9,3,25,1,1,1,Burnley,2018-05-06 Arsenal-Burnley,ENG-EPL,17-18,c8c42b05
+4b40d9ca,Nick Pope,29,ENG,GK,26-017,90,0,0,0,0,0,0,0,0,30,0,0,0,0.0,0.0,0.0,0,0,13,29,44.8,0,13,0,0,0,Burnley,2018-05-06 Arsenal-Burnley,ENG-EPL,17-18,c8c42b05

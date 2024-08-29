@@ -1,0 +1,31 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+be47b750,Simon Banza,23,COD,FW,27-072,66,0,1,0,0,2,1,0,0,15,0,0,1,0.2,0.2,0.1,2,1,4,8,50.0,1,10,1,2,1,Braga,2023-10-24 Braga-Real Madrid,UCL,23-24,ba0599dd
+6cbf8d0d,Abel Ruiz,9,ESP,FW,23-269,24,0,0,0,0,1,0,0,0,5,0,0,0,0.1,0.1,0.0,0,0,3,4,75.0,1,3,0,0,0,Braga,2023-10-24 Braga-Real Madrid,UCL,23-24,ba0599dd
+45c29ae7,Álvaro djaló,14,ESP,LW,24-069,90,1,0,0,0,1,1,0,0,37,2,0,0,0.1,0.1,0.4,5,0,15,20,75.0,3,26,3,5,2,Braga,2023-10-24 Braga-Real Madrid,UCL,23-24,ba0599dd
+6603fed7,Ricardo Horta,21,POR,RW,29-039,90,0,0,0,0,6,1,0,0,50,1,1,0,0.4,0.4,0.1,4,0,39,41,95.1,5,39,0,1,1,Braga,2023-10-24 Braga-Real Madrid,UCL,23-24,ba0599dd
+fc3697dd,Rodrigo Zalazar,16,URU,AM,24-073,90,0,0,0,0,1,0,0,0,69,3,0,3,0.0,0.0,0.5,6,0,49,57,86.0,6,43,1,3,2,Braga,2023-10-24 Braga-Real Madrid,UCL,23-24,ba0599dd
+cd6a1a59,Almoatasem Al Musrati,8,LBY,DM,27-201,77,0,0,0,0,2,0,0,0,78,2,0,1,0.1,0.1,0.0,1,0,61,71,85.9,10,61,1,1,0,Braga,2023-10-24 Braga-Real Madrid,UCL,23-24,ba0599dd
+f5a00fa4,João Moutinho,28,POR,DM,37-046,13,0,0,0,0,1,0,0,0,24,0,0,0,0.1,0.1,0.0,2,0,22,22,100.0,4,18,3,2,2,Braga,2023-10-24 Braga-Real Madrid,UCL,23-24,ba0599dd
+adc77724,Vitor Carvalho,18,BRA,DM,26-150,65,0,0,0,0,1,0,0,0,51,1,0,0,0.1,0.1,0.0,2,0,48,48,100.0,1,42,0,1,0,Braga,2023-10-24 Braga-Real Madrid,UCL,23-24,ba0599dd
+5caa62a7,Bruma,7,POR,DM,29-000,25,0,0,0,0,0,0,0,0,16,0,0,0,0.0,0.0,0.0,1,0,16,16,100.0,2,15,2,0,0,Braga,2023-10-24 Braga-Real Madrid,UCL,23-24,ba0599dd
+9d7d5334,Cristian Borja,26,COL,LB,30-248,90,0,0,0,0,0,0,0,0,51,2,0,1,0.0,0.0,0.1,3,0,40,45,88.9,3,38,3,0,0,Braga,2023-10-24 Braga-Real Madrid,UCL,23-24,ba0599dd
+8eef18aa,Sikou Niakaté,4,MLI,CB,24-106,90,0,0,0,0,0,0,0,0,60,2,0,0,0.0,0.0,0.0,0,0,44,50,88.0,5,40,0,0,0,Braga,2023-10-24 Braga-Real Madrid,UCL,23-24,ba0599dd
+760fd987,Serdar Saatçı,5,TUR,CB,20-252,90,0,0,0,0,0,0,0,0,55,5,1,0,0.0,0.0,0.0,0,0,42,45,93.3,1,31,0,0,0,Braga,2023-10-24 Braga-Real Madrid,UCL,23-24,ba0599dd
+f882b0a1,Joe Mendes,17,SWE,RB,20-297,72,0,0,0,0,0,0,0,0,40,1,0,0,0.0,0.0,0.1,3,1,27,37,73.0,2,31,9,1,0,Braga,2023-10-24 Braga-Real Madrid,UCL,23-24,ba0599dd
+26a2dc36,Diogo Fonseca,47,POR,RB,21-197,18,0,0,0,0,1,0,0,0,27,0,0,0,0.4,0.4,0.0,0,0,12,25,48.0,0,18,1,0,0,Braga,2023-10-24 Braga-Real Madrid,UCL,23-24,ba0599dd
+ef3909cd,Matheus,1,BRA,GK,31-097,90,0,0,0,0,0,0,0,0,34,0,0,0,0.0,0.0,0.0,0,0,26,32,81.3,0,21,0,0,0,Braga,2023-10-24 Braga-Real Madrid,UCL,23-24,ba0599dd
+7111d552,Vinicius Júnior,7,BRA,FW,23-104,90,0,1,0,0,2,1,0,0,44,0,0,0,0.1,0.1,0.1,3,2,26,32,81.3,4,39,9,10,4,Real Madrid,2023-10-24 Braga-Real Madrid,UCL,23-24,ba0599dd
+8f5e92a6,Rodrygo,11,BRA,FW,22-288,70,1,0,0,0,2,1,0,0,27,0,0,0,0.4,0.4,0.0,1,1,15,16,93.8,1,17,1,3,0,Real Madrid,2023-10-24 Braga-Real Madrid,UCL,23-24,ba0599dd
+4f255115,Aurélien Tchouaméni,18,FRA,CM,23-270,20,0,0,0,0,0,0,0,0,11,0,1,0,0.0,0.0,0.0,0,0,7,10,70.0,1,5,0,0,0,Real Madrid,2023-10-24 Braga-Real Madrid,UCL,23-24,ba0599dd
+57d88cf9,Jude Bellingham,5,ENG,"AM,FW",20-117,88,1,0,0,0,3,2,0,0,63,1,2,2,0.2,0.2,0.0,2,0,41,52,78.8,8,54,4,0,0,Real Madrid,2023-10-24 Braga-Real Madrid,UCL,23-24,ba0599dd
+fd51b456,Lucas Vázquez,17,ESP,FW,32-115,2,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Real Madrid,2023-10-24 Braga-Real Madrid,UCL,23-24,ba0599dd
+6025fab1,Luka Modrić,10,CRO,"LM,AM",38-045,90,0,0,0,0,0,0,0,0,83,0,0,0,0.0,0.0,0.2,9,0,75,78,96.2,6,71,1,2,1,Real Madrid,2023-10-24 Braga-Real Madrid,UCL,23-24,ba0599dd
+7b9c2d84,Eduardo Camavinga,12,FRA,"CM,LM",20-348,90,0,0,0,0,2,1,1,0,85,7,1,4,0.1,0.1,0.0,1,0,61,65,93.8,8,67,1,3,1,Real Madrid,2023-10-24 Braga-Real Madrid,UCL,23-24,ba0599dd
+0959c2a2,Federico Valverde,15,URU,RM,25-094,90,0,0,0,0,1,0,0,0,52,0,2,0,0.0,0.0,0.0,4,0,45,49,91.8,6,46,4,0,0,Real Madrid,2023-10-24 Braga-Real Madrid,UCL,23-24,ba0599dd
+7226539b,Fran Garcia,20,ESP,LB,24-071,74,0,0,0,0,0,0,0,0,66,0,0,0,0.0,0.0,0.1,1,0,53,59,89.8,5,48,6,1,1,Real Madrid,2023-10-24 Braga-Real Madrid,UCL,23-24,ba0599dd
+3cefcaef,Ferland Mendy,23,FRA,LB,28-138,16,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,1,0,0,0,Real Madrid,2023-10-24 Braga-Real Madrid,UCL,23-24,ba0599dd
+2946f9a1,Nacho,6,ESP,CB,33-279,90,0,0,0,0,0,0,1,0,73,0,0,1,0.0,0.0,0.0,1,1,61,63,96.8,1,52,0,0,0,Real Madrid,2023-10-24 Braga-Real Madrid,UCL,23-24,ba0599dd
+18b896d6,Antonio Rüdiger,22,GER,CB,30-235,90,0,0,0,0,2,1,0,0,70,0,0,1,0.1,0.1,0.0,0,0,58,64,90.6,2,56,0,0,0,Real Madrid,2023-10-24 Braga-Real Madrid,UCL,23-24,ba0599dd
+4958bfb2,Dani Carvajal,2,ESP,RB,31-286,90,0,0,0,0,1,0,0,0,55,4,0,0,0.1,0.1,0.1,1,0,38,47,80.9,0,37,1,0,0,Real Madrid,2023-10-24 Braga-Real Madrid,UCL,23-24,ba0599dd
+28d596a0,Kepa Arrizabalaga,25,ESP,GK,29-021,90,0,0,0,0,0,0,0,0,38,0,0,0,0.0,0.0,0.0,0,0,32,37,86.5,0,23,0,0,0,Real Madrid,2023-10-24 Braga-Real Madrid,UCL,23-24,ba0599dd

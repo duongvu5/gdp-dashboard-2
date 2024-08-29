@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+2c0f8e9e,Alexis Sánchez,70,CHI,FW,33-317,90,0,0,0,0,4,1,0,0,46,1,0,0,0.3,0.3,0.0,2,0,32,38,84.2,4,40,1,0,0,Marseille,2022-11-01 Marseille-Tottenham,UCL,22-23,02a888e6
+e7d59f4f,Amine Harit,77,MAR,AM,25-136,90,0,0,0,0,2,0,0,0,76,0,0,1,0.1,0.1,0.2,6,1,53,67,79.1,8,60,6,4,2,Marseille,2022-11-01 Marseille-Tottenham,UCL,22-23,02a888e6
+5ea8ef20,Mattéo Guendouzi,6,FRA,AM,23-201,90,0,0,0,0,0,0,0,0,78,2,0,0,0.0,0.0,0.0,2,0,60,70,85.7,9,64,8,0,0,Marseille,2022-11-01 Marseille-Tottenham,UCL,22-23,02a888e6
+4a56052c,Jordan Veretout,27,FRA,CM,29-245,72,0,1,0,0,1,1,0,0,81,2,1,0,0.0,0.0,0.4,5,1,68,76,89.5,8,67,2,1,0,Marseille,2022-11-01 Marseille-Tottenham,UCL,22-23,02a888e6
+1880614f,Cengiz Ünder,17,TUR,CM,25-110,18,0,0,0,0,2,1,0,0,11,0,0,0,0.1,0.1,0.4,3,0,7,7,100.0,1,9,2,0,0,Marseille,2022-11-01 Marseille-Tottenham,UCL,22-23,02a888e6
+ed45c4a5,Valentin Rongier,21,FRA,CM,27-329,82,0,0,0,0,0,0,0,0,91,3,2,0,0.0,0.0,0.0,1,0,77,84,91.7,7,76,5,2,2,Marseille,2022-11-01 Marseille-Tottenham,UCL,22-23,02a888e6
+eeba07f8,Luis Javier Suárez,11,COL,CM,24-334,8,0,0,0,0,2,0,0,0,7,0,0,0,0.1,0.1,0.0,0,0,1,4,25.0,0,4,0,0,0,Marseille,2022-11-01 Marseille-Tottenham,UCL,22-23,02a888e6
+a65c844b,Nuno Tavares,30,POR,WB,22-279,90,0,0,0,0,1,0,0,0,83,0,0,1,0.1,0.1,0.1,5,0,56,73,76.7,6,69,8,6,2,Marseille,2022-11-01 Marseille-Tottenham,UCL,22-23,02a888e6
+5219ab4a,Jonathan Clauss,7,FRA,WB,30-037,72,0,0,0,0,1,0,0,0,41,0,0,0,0.0,0.0,0.0,0,0,28,37,75.7,1,32,1,2,1,Marseille,2022-11-01 Marseille-Tottenham,UCL,22-23,02a888e6
+c066d1a5,Issa Kaboré,29,BFA,WB,21-173,18,0,0,0,0,0,0,0,0,17,0,0,0,0.0,0.0,0.0,1,0,10,11,90.9,0,9,0,2,0,Marseille,2022-11-01 Marseille-Tottenham,UCL,22-23,02a888e6
+7c3ed041,Leonardo Balerdi,5,ARG,CB,23-279,90,0,0,0,0,0,0,1,0,92,0,5,0,0.0,0.0,0.0,0,0,75,82,91.5,9,69,1,1,0,Marseille,2022-11-01 Marseille-Tottenham,UCL,22-23,02a888e6
+a1232f4e,Eric Bailly,3,CIV,CB,28-203,9,0,0,0,0,0,0,0,0,11,1,0,0,0.0,0.0,0.0,0,0,10,10,100.0,1,9,0,0,0,Marseille,2022-11-01 Marseille-Tottenham,UCL,22-23,02a888e6
+41eebdf5,Samuel Gigot,4,FRA,CB,29-020,63,0,0,0,0,1,0,0,0,60,0,2,0,0.3,0.3,0.0,0,0,52,56,92.9,2,51,0,0,0,Marseille,2022-11-01 Marseille-Tottenham,UCL,22-23,02a888e6
+3935e52e,Sead Kolašinac,23,BIH,CB,29-134,18,0,0,0,0,1,0,0,0,14,0,0,0,0.3,0.3,0.0,1,0,10,12,83.3,2,11,1,0,0,Marseille,2022-11-01 Marseille-Tottenham,UCL,22-23,02a888e6
+e76cb9cc,Chancel Mbemba,99,COD,CB,28-085,90,1,0,0,0,1,1,0,0,81,2,0,1,0.1,0.1,0.0,0,0,59,70,84.3,6,68,2,0,0,Marseille,2022-11-01 Marseille-Tottenham,UCL,22-23,02a888e6
+20b9f052,Pau López,16,ESP,GK,27-323,90,0,0,0,0,0,0,0,0,36,0,0,0,0.0,0.0,0.0,0,0,26,33,78.8,0,25,0,0,0,Marseille,2022-11-01 Marseille-Tottenham,UCL,22-23,02a888e6
+21a66f6a,Harry Kane,10,ENG,FW,29-096,90,0,1,0,0,2,1,0,0,37,1,0,1,0.1,0.1,0.1,4,2,18,26,69.2,6,28,2,3,1,Tottenham Hotspur,2022-11-01 Marseille-Tottenham,UCL,22-23,02a888e6
+92e7e919,Son Heung-min,7,KOR,LW,30-116,28,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,1,3,33.3,0,4,0,0,0,Tottenham Hotspur,2022-11-01 Marseille-Tottenham,UCL,22-23,02a888e6
+6c203af0,Yves Bissouma,38,MLI,CM,26-063,62,0,0,0,0,0,0,0,0,58,1,1,2,0.0,0.0,0.0,0,0,43,48,89.6,4,45,0,0,0,Tottenham Hotspur,2022-11-01 Marseille-Tottenham,UCL,22-23,02a888e6
+2b622f01,Lucas Moura,27,BRA,"RW,FW",30-080,89,0,0,0,0,0,0,0,0,28,2,0,0,0.0,0.0,0.1,1,0,11,19,57.9,1,19,2,3,1,Tottenham Hotspur,2022-11-01 Marseille-Tottenham,UCL,22-23,02a888e6
+7b5ab7f2,Bryan Gil,11,ESP,FW,21-263,1,0,0,0,0,0,0,0,0,2,0,0,1,0.0,0.0,0.0,0,0,0,0,,0,1,0,0,0,Tottenham Hotspur,2022-11-01 Marseille-Tottenham,UCL,22-23,02a888e6
+6fe90922,Ivan Perišić,14,CRO,"LM,RM,WB",33-272,90,0,1,0,0,0,0,0,0,45,4,2,2,0.0,0.0,0.3,3,1,22,33,66.7,0,19,2,2,1,Tottenham Hotspur,2022-11-01 Marseille-Tottenham,UCL,22-23,02a888e6
+3b8674e6,Rodrigo Bentancur,30,URU,"LW,CM",25-129,83,0,0,0,0,0,0,0,0,47,2,0,0,0.0,0.0,0.1,2,0,34,40,85.0,5,38,2,1,1,Tottenham Hotspur,2022-11-01 Marseille-Tottenham,UCL,22-23,02a888e6
+6250083a,Oliver Skipp,4,ENG,CM,22-046,7,0,0,0,0,0,0,0,0,7,0,1,1,0.0,0.0,0.0,0,0,5,6,83.3,1,6,1,0,0,Tottenham Hotspur,2022-11-01 Marseille-Tottenham,UCL,22-23,02a888e6
+8b04d6c1,Pierre Højbjerg,5,DEN,CM,27-088,90,1,0,0,0,3,1,1,0,60,0,5,0,0.3,0.3,0.0,0,0,40,46,87.0,1,47,2,1,0,Tottenham Hotspur,2022-11-01 Marseille-Tottenham,UCL,22-23,02a888e6
+6aa3e78b,Ryan Sessegnon,19,ENG,"RM,LM",22-167,45,0,0,0,0,0,0,0,0,18,1,0,1,0.0,0.0,0.0,1,0,7,11,63.6,0,6,0,0,0,Tottenham Hotspur,2022-11-01 Marseille-Tottenham,UCL,22-23,02a888e6
+df8b52a5,Emerson,12,BRA,"RM,WB",23-291,45,0,0,0,0,0,0,0,0,34,1,1,0,0.0,0.0,0.0,0,0,20,24,83.3,0,20,3,2,1,Tottenham Hotspur,2022-11-01 Marseille-Tottenham,UCL,22-23,02a888e6
+44781702,Ben Davies,33,WAL,CB,29-191,90,0,0,0,0,0,0,0,0,48,1,3,0,0.0,0.0,0.0,0,0,33,39,84.6,1,30,0,0,0,Tottenham Hotspur,2022-11-01 Marseille-Tottenham,UCL,22-23,02a888e6
+4f28a6ff,Clément Lenglet,34,FRA,CB,27-137,90,1,0,0,0,1,1,1,0,54,4,0,1,0.2,0.2,0.0,0,0,31,41,75.6,1,39,0,0,0,Tottenham Hotspur,2022-11-01 Marseille-Tottenham,UCL,22-23,02a888e6
+ac861941,Eric Dier,15,ENG,CB,28-290,90,0,0,0,0,1,0,0,0,60,2,1,0,0.1,0.1,0.0,0,0,43,50,86.0,2,38,1,0,0,Tottenham Hotspur,2022-11-01 Marseille-Tottenham,UCL,22-23,02a888e6
+8f62b6ee,Hugo Lloris,1,FRA,GK,35-310,90,0,0,0,0,0,0,0,0,33,0,0,0,0.0,0.0,0.0,0,0,24,31,77.4,0,19,0,0,0,Tottenham Hotspur,2022-11-01 Marseille-Tottenham,UCL,22-23,02a888e6

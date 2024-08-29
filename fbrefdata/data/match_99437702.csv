@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+a62c16d0,Paulinho,21,POR,FW,28-359,59,1,0,0,0,4,2,0,0,17,1,0,0,0.7,0.7,0.0,2,0,5,11,45.5,2,9,0,1,1,Sporting CP,2021-11-03 Sporting CP-Beşiktaş,UCL,21-22,99437702
+a6ee4f55,Nuno Santos,11,POR,AM,26-263,31,0,0,0,0,1,0,0,0,12,0,0,0,0.1,0.1,0.0,1,0,9,10,90.0,0,8,1,0,0,Sporting CP,2021-11-03 Sporting CP-Beşiktaş,UCL,21-22,99437702
+c275947b,Pedro Gonçalves,28,POR,AM,23-128,71,2,0,1,1,2,1,0,0,33,3,0,1,0.9,0.1,0.1,6,1,12,19,63.2,2,13,2,3,1,Sporting CP,2021-11-03 Sporting CP-Beşiktaş,UCL,21-22,99437702
+e34e086c,Jovane Cabral,10,CPV,AM,23-142,19,0,0,0,0,0,0,0,0,15,0,1,0,0.0,0.0,0.4,1,0,10,11,90.9,0,10,0,1,0,Sporting CP,2021-11-03 Sporting CP-Beşiktaş,UCL,21-22,99437702
+9744ff80,Pablo Sarabia,17,ESP,"AM,FW",29-176,90,1,0,0,0,1,1,0,0,39,0,0,1,0.3,0.3,0.8,6,0,24,32,75.0,2,24,3,1,1,Sporting CP,2021-11-03 Sporting CP-Beşiktaş,UCL,21-22,99437702
+e6af02e0,Matheus Nunes,8,POR,CM,23-068,59,0,1,0,0,1,1,0,0,37,2,0,1,0.0,0.0,0.1,4,3,21,28,75.0,3,16,2,0,0,Sporting CP,2021-11-03 Sporting CP-Beşiktaş,UCL,21-22,99437702
+0c152537,Daniel Bragança,68,POR,CM,22-160,31,0,0,0,0,2,1,0,0,22,3,0,0,0.5,0.5,0.0,1,0,13,14,92.9,0,13,0,1,1,Sporting CP,2021-11-03 Sporting CP-Beşiktaş,UCL,21-22,99437702
+a78ff07f,João Palhinha,6,POR,CM,26-117,90,0,0,0,0,0,0,0,0,63,5,2,1,0.0,0.0,0.0,0,0,47,52,90.4,7,27,0,2,2,Sporting CP,2021-11-03 Sporting CP-Beşiktaş,UCL,21-22,99437702
+ae1159bf,Matheus Reis,2,BRA,WB,26-258,71,0,0,0,0,0,0,0,0,39,1,0,1,0.0,0.0,0.0,0,0,24,32,75.0,3,14,2,1,0,Sporting CP,2021-11-03 Sporting CP-Beşiktaş,UCL,21-22,99437702
+b937e490,Rúben Vinagre,16,POR,WB,22-208,19,0,0,0,0,0,0,0,0,10,0,0,1,0.0,0.0,0.0,0,0,6,9,66.7,0,5,1,0,0,Sporting CP,2021-11-03 Sporting CP-Beşiktaş,UCL,21-22,99437702
+27d0a506,Pedro Porro,24,ESP,WB,22-051,16,0,0,0,0,0,0,0,0,17,0,0,0,0.0,0.0,0.0,0,0,9,16,56.3,2,8,0,1,0,Sporting CP,2021-11-03 Sporting CP-Beşiktaş,UCL,21-22,99437702
+12dcbdcc,Ricardo Esgaio,47,POR,WB,28-171,74,0,1,0,0,1,0,0,0,57,2,1,2,0.1,0.1,0.1,3,1,32,42,76.2,6,24,0,0,0,Sporting CP,2021-11-03 Sporting CP-Beşiktaş,UCL,21-22,99437702
+89151b16,Zouhair Feddal,3,MAR,CB,32-306,90,0,0,0,0,0,0,0,0,93,1,1,1,0.0,0.0,0.0,1,1,72,82,87.8,3,46,1,0,0,Sporting CP,2021-11-03 Sporting CP-Beşiktaş,UCL,21-22,99437702
+1fbbfbde,Sebastián Coates,4,URU,CB,31-027,90,0,0,0,0,1,0,0,0,85,1,1,4,0.0,0.0,0.0,1,1,64,74,86.5,2,39,0,0,0,Sporting CP,2021-11-03 Sporting CP-Beşiktaş,UCL,21-22,99437702
+33651873,Gonçalo Inácio,25,POR,CB,20-070,90,0,0,0,0,0,0,0,0,91,3,2,1,0.0,0.0,0.0,2,1,71,81,87.7,6,54,3,0,0,Sporting CP,2021-11-03 Sporting CP-Beşiktaş,UCL,21-22,99437702
+65d62814,Antonio Adán,1,ESP,GK,34-174,90,0,0,0,0,0,0,0,0,41,0,0,0,0.0,0.0,0.0,0,0,31,39,79.5,0,24,0,0,0,Sporting CP,2021-11-03 Sporting CP-Beşiktaş,UCL,21-22,99437702
+8f0f2230,Kenan Karaman,28,TUR,FW,27-243,90,0,0,0,0,1,0,0,0,36,0,0,0,0.0,0.0,0.0,2,0,18,26,69.2,1,17,2,7,5,Beşiktaş,2021-11-03 Sporting CP-Beşiktaş,UCL,21-22,99437702
+e7af9060,Cyle Larin,17,CAN,LW,26-200,60,0,0,0,0,3,1,1,0,30,3,0,0,0.3,0.3,0.0,2,0,12,17,70.6,0,14,1,2,1,Beşiktaş,2021-11-03 Sporting CP-Beşiktaş,UCL,21-22,99437702
+b797f558,Can Bozdogan,12,GER,LM,20-212,22,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.5,1,0,8,10,80.0,0,7,1,0,0,Beşiktaş,2021-11-03 Sporting CP-Beşiktaş,UCL,21-22,99437702
+d8c679be,Oğuzhan Özyakup,10,TUR,LM,29-041,8,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,0,0,Beşiktaş,2021-11-03 Sporting CP-Beşiktaş,UCL,21-22,99437702
+dc3a9a0d,Rachid Ghezzal,18,ALG,"RW,RM",29-178,77,0,0,0,0,3,1,0,0,34,0,2,0,0.6,0.6,0.1,2,0,13,27,48.1,2,22,4,1,1,Beşiktaş,2021-11-03 Sporting CP-Beşiktaş,UCL,21-22,99437702
+51960957,Gökhan Töre,11,TUR,RM,29-287,13,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,0,0,0,0,Beşiktaş,2021-11-03 Sporting CP-Beşiktaş,UCL,21-22,99437702
+f1b55719,Atiba Hutchinson,13,CAN,"LM,DM",38-268,60,0,0,0,0,2,2,0,0,32,0,0,0,0.1,0.1,0.1,3,0,19,25,76.0,0,15,0,1,0,Beşiktaş,2021-11-03 Sporting CP-Beşiktaş,UCL,21-22,99437702
+fe154b26,Salih Uçan,8,TUR,CM,27-301,30,0,0,0,0,0,0,0,0,19,1,1,0,0.0,0.0,0.1,1,0,16,18,88.9,2,8,0,2,2,Beşiktaş,2021-11-03 Sporting CP-Beşiktaş,UCL,21-22,99437702
+f93c876b,Mehmet Topal,14,TUR,"CB,CM",35-245,90,0,0,0,0,2,0,0,0,51,0,1,1,0.1,0.1,0.0,1,0,37,42,88.1,8,23,0,0,0,Beşiktaş,2021-11-03 Sporting CP-Beşiktaş,UCL,21-22,99437702
+fb6530de,Josef de Souza,5,BRA,"RM,DM",32-265,89,0,0,0,0,1,0,2,1,50,2,3,1,0.0,0.0,0.0,2,0,29,40,72.5,3,20,2,2,1,Beşiktaş,2021-11-03 Sporting CP-Beşiktaş,UCL,21-22,99437702
+94721522,Rıdvan Yılmaz,3,TUR,LB,20-166,90,0,0,0,0,0,0,0,0,73,4,3,4,0.0,0.0,0.0,3,0,42,57,73.7,1,31,2,2,1,Beşiktaş,2021-11-03 Sporting CP-Beşiktaş,UCL,21-22,99437702
+3e96f3e7,Francisco Montero,4,ESP,CB,22-293,45,0,0,0,0,0,0,0,0,31,1,1,3,0.0,0.0,0.0,0,0,19,23,82.6,0,19,0,1,0,Beşiktaş,2021-11-03 Sporting CP-Beşiktaş,UCL,21-22,99437702
+ae530c73,Alex Teixeira,90,BRA,"CM,AM",31-301,45,0,0,0,0,0,0,0,0,18,0,1,0,0.0,0.0,0.0,0,0,10,13,76.9,3,9,2,5,4,Beşiktaş,2021-11-03 Sporting CP-Beşiktaş,UCL,21-22,99437702
+292f1130,Welinton,23,BRA,CB,32-207,90,0,0,0,0,0,0,0,0,50,4,0,2,0.0,0.0,0.0,0,0,28,41,68.3,4,21,2,1,0,Beşiktaş,2021-11-03 Sporting CP-Beşiktaş,UCL,21-22,99437702
+2f7af524,Necip Uysal,20,TUR,RB,30-283,90,0,0,0,0,0,0,0,0,40,1,3,0,0.0,0.0,0.0,3,0,23,34,67.6,1,10,0,2,0,Beşiktaş,2021-11-03 Sporting CP-Beşiktaş,UCL,21-22,99437702
+52b3c895,Ersin Destanoğlu,30,TUR,GK,20-306,90,0,0,0,0,0,0,0,0,31,0,0,0,0.0,0.0,0.0,0,0,13,26,50.0,0,13,0,0,0,Beşiktaş,2021-11-03 Sporting CP-Beşiktaş,UCL,21-22,99437702

@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+e58a03c6,Dwight Gayle,9,ENG,FW,27-053,90,1,1,0,0,4,1,0,0,37,2,1,1,0.2,0.2,0.5,0,0,16,25,64.0,2,22,0,5,3,Newcastle United,2017-12-09 Newcastle Utd-Leicester City,ENG-EPL,17-18,14f71230
+6265208f,Joselu,21,ESP,FW,27-257,87,1,0,0,0,2,1,0,0,38,2,0,1,0.5,0.5,0.1,1,0,20,31,64.5,3,20,0,1,0,Newcastle United,2017-12-09 Newcastle Utd-Leicester City,ENG-EPL,17-18,14f71230
+3925dbd6,Aleksandar Mitrović,45,SRB,FW,23-084,3,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,0,0,Newcastle United,2017-12-09 Newcastle Utd-Leicester City,ENG-EPL,17-18,14f71230
+de112b84,Jacob Murphy,7,ENG,LM,22-288,70,0,0,0,0,2,1,0,0,31,0,0,1,0.1,0.1,0.0,1,1,14,23,60.9,5,22,3,3,1,Newcastle United,2017-12-09 Newcastle Utd-Leicester City,ENG-EPL,17-18,14f71230
+819aa8e7,Ayoze Pérez,17,ESP,LM,24-133,20,0,0,0,0,0,0,0,0,15,3,0,0,0.0,0.0,0.0,0,0,5,8,62.5,2,8,1,2,1,Newcastle United,2017-12-09 Newcastle Utd-Leicester City,ENG-EPL,17-18,14f71230
+d080ed5e,Mikel Merino,23,ESP,CM,21-170,90,0,1,0,0,1,0,0,0,66,7,4,4,0.1,0.1,0.1,7,3,40,47,85.1,4,28,1,1,0,Newcastle United,2017-12-09 Newcastle Utd-Leicester City,ENG-EPL,17-18,14f71230
+c951a6df,Isaac Hayden,14,ENG,CM,22-262,90,0,0,0,0,0,0,1,0,42,1,0,2,0.0,0.0,0.0,0,0,19,29,65.5,2,17,0,2,0,Newcastle United,2017-12-09 Newcastle Utd-Leicester City,ENG-EPL,17-18,14f71230
+71ef519e,Matt Ritchie,11,SCO,RM,28-090,63,0,0,0,0,1,1,0,0,38,0,3,1,0.1,0.1,0.1,3,0,16,31,51.6,0,19,0,1,1,Newcastle United,2017-12-09 Newcastle Utd-Leicester City,ENG-EPL,17-18,14f71230
+8816329f,Christian Atsu,30,GHA,RM,25-333,27,0,0,0,0,0,0,0,0,13,1,0,0,0.0,0.0,0.1,1,0,7,10,70.0,3,8,0,3,2,Newcastle United,2017-12-09 Newcastle Utd-Leicester City,ENG-EPL,17-18,14f71230
+758dd7f0,Javier Manquillo,19,ESP,LB,23-218,90,0,0,0,0,0,0,0,0,47,2,1,0,0.0,0.0,0.0,1,0,29,41,70.7,3,19,2,1,0,Newcastle United,2017-12-09 Newcastle Utd-Leicester City,ENG-EPL,17-18,14f71230
+2b91cf8e,Ciaran Clark,2,IRL,CB,28-074,90,0,0,0,0,0,0,0,0,42,0,0,1,0.0,0.0,0.0,0,0,25,35,71.4,2,20,1,0,0,Newcastle United,2017-12-09 Newcastle Utd-Leicester City,ENG-EPL,17-18,14f71230
+6eaed4eb,Florian Lejeune,20,FRA,CB,26-203,90,0,0,0,0,0,0,1,0,47,1,1,0,0.0,0.0,0.0,1,0,21,36,58.3,2,20,0,0,0,Newcastle United,2017-12-09 Newcastle Utd-Leicester City,ENG-EPL,17-18,14f71230
+ae0a7ddf,DeAndre Yedlin,22,USA,RB,24-153,90,0,0,0,0,0,0,0,0,40,2,0,3,0.0,0.0,0.0,0,0,23,31,74.2,2,18,3,1,1,Newcastle United,2017-12-09 Newcastle Utd-Leicester City,ENG-EPL,17-18,14f71230
+cde3309f,Karl Darlow,26,ENG,GK,27-062,90,0,0,0,0,0,0,0,0,29,0,0,0,0.0,0.0,0.0,1,0,14,25,56.0,0,12,0,0,0,Newcastle United,2017-12-09 Newcastle Utd-Leicester City,ENG-EPL,17-18,14f71230
+45963054,Jamie Vardy,9,ENG,FW,30-332,89,0,0,0,0,1,0,0,0,21,1,0,2,0.0,0.0,0.0,1,0,7,12,58.3,0,10,1,3,1,Leicester City,2017-12-09 Newcastle Utd-Leicester City,ENG-EPL,17-18,14f71230
+eed56f6c,Leonardo Ulloa,23,ARG,FW,31-136,1,0,0,0,0,0,0,0,0,9,1,0,0,0.0,0.0,0.0,0,0,5,6,83.3,0,10,0,3,3,Leicester City,2017-12-09 Newcastle Utd-Leicester City,ENG-EPL,17-18,14f71230
+4468ec10,Demarai Gray,7,JAM,FW,21-164,72,1,0,0,0,4,2,1,0,47,0,0,0,0.1,0.1,0.1,2,0,36,42,85.7,1,36,4,3,3,Leicester City,2017-12-09 Newcastle Utd-Leicester City,ENG-EPL,17-18,14f71230
+68796d61,Shinji Okazaki,20,JPN,FW,31-237,18,0,0,0,0,0,0,0,0,12,1,0,0,0.0,0.0,0.0,2,0,6,8,75.0,0,5,0,0,0,Leicester City,2017-12-09 Newcastle Utd-Leicester City,ENG-EPL,17-18,14f71230
+b827d5b3,Marc Albrighton,11,ENG,"LM,RB",28-021,90,0,1,0,0,1,1,0,0,76,0,0,0,0.0,0.0,0.1,4,1,53,70,75.7,5,45,4,6,4,Leicester City,2017-12-09 Newcastle Utd-Leicester City,ENG-EPL,17-18,14f71230
+ad1ffcfd,Vicente Iborra,21,ESP,CM,29-327,90,0,0,0,0,0,0,0,0,75,2,0,0,0.0,0.0,0.0,2,0,59,71,83.1,5,38,0,1,0,Leicester City,2017-12-09 Newcastle Utd-Leicester City,ENG-EPL,17-18,14f71230
+6b47c5db,Wilfred Ndidi,25,NGA,CM,20-358,90,0,1,0,0,2,0,0,0,96,6,3,3,0.1,0.1,0.1,2,1,58,75,77.3,3,38,2,2,2,Leicester City,2017-12-09 Newcastle Utd-Leicester City,ENG-EPL,17-18,14f71230
+892d5bb1,Riyad Mahrez,26,ALG,RM,26-291,88,1,0,0,0,2,2,0,0,56,0,1,0,0.1,0.1,0.1,6,1,38,50,76.0,7,35,2,1,1,Leicester City,2017-12-09 Newcastle Utd-Leicester City,ENG-EPL,17-18,14f71230
+a67a09fb,Christian Fuchs,28,AUT,"CM,RM",31-246,2,0,0,0,0,0,0,0,0,9,0,0,1,0.0,0.0,0.0,0,0,5,8,62.5,0,2,0,0,0,Leicester City,2017-12-09 Newcastle Utd-Leicester City,ENG-EPL,17-18,14f71230
+d2424d1b,Ben Chilwell,3,ENG,LB,20-353,90,0,0,0,0,1,0,0,0,90,1,1,2,0.0,0.0,0.0,3,0,61,73,83.6,9,45,4,2,2,Leicester City,2017-12-09 Newcastle Utd-Leicester City,ENG-EPL,17-18,14f71230
+d8931174,Harry Maguire,15,ENG,CB,24-279,90,0,0,0,0,0,0,0,0,66,4,1,0,0.0,0.0,0.0,3,0,46,57,80.7,6,35,2,4,4,Leicester City,2017-12-09 Newcastle Utd-Leicester City,ENG-EPL,17-18,14f71230
+80c31c97,Wes Morgan,5,JAM,CB,33-322,90,0,0,0,0,0,0,0,0,39,1,0,1,0.0,0.0,0.0,0,0,32,33,97.0,0,23,0,1,1,Leicester City,2017-12-09 Newcastle Utd-Leicester City,ENG-EPL,17-18,14f71230
+3201b03d,Danny Simpson,2,ENG,"RB,CB",30-339,90,0,0,0,0,2,0,0,0,72,3,0,1,0.1,0.1,0.0,0,0,43,61,70.5,1,34,0,0,0,Leicester City,2017-12-09 Newcastle Utd-Leicester City,ENG-EPL,17-18,14f71230
+53af52f3,Kasper Schmeichel,1,DEN,GK,31-034,90,0,0,0,0,0,0,0,0,36,0,0,0,0.0,0.0,0.0,0,0,19,35,54.3,0,16,0,1,1,Leicester City,2017-12-09 Newcastle Utd-Leicester City,ENG-EPL,17-18,14f71230
