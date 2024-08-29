@@ -1,0 +1,32 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+4d77b365,Darwin Núñez,9,URU,"FW,LW",22-285,90,1,0,0,0,3,1,0,0,43,0,0,1,0.6,0.6,0.1,2,0,12,24,50.0,1,20,4,4,4,Benfica,2022-04-05 Benfica-Liverpool,UCL,21-22,85c3c6a1
+b1cbc666,Everton Soares,7,BRA,LW,26-014,81,0,0,0,0,3,2,0,0,40,5,0,4,0.3,0.3,0.2,1,0,12,18,66.7,2,18,3,6,3,Benfica,2022-04-05 Benfica-Liverpool,UCL,21-22,85c3c6a1
+cb641b9d,Roman Yaremchuk,15,UKR,FW,26-129,9,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,0,0,Benfica,2022-04-05 Benfica-Liverpool,UCL,21-22,85c3c6a1
+70cf63ca,Rafa Silva,27,POR,RW,28-323,90,0,1,0,0,1,0,0,0,26,0,1,0,0.1,0.1,0.6,2,1,11,15,73.3,1,20,4,3,0,Benfica,2022-04-05 Benfica-Liverpool,UCL,21-22,85c3c6a1
+f63cda26,Gonçalo Ramos,88,POR,AM,20-289,86,0,0,0,0,0,0,0,0,41,1,1,2,0.0,0.0,0.2,1,0,24,31,77.4,3,19,1,1,1,Benfica,2022-04-05 Benfica-Liverpool,UCL,21-22,85c3c6a1
+f0021247,João Mário,20,POR,AM,29-076,4,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,1,0,0,0,Benfica,2022-04-05 Benfica-Liverpool,UCL,21-22,85c3c6a1
+47dc80f5,Adel Taarabt,49,MAR,DM,32-316,69,0,0,0,0,0,0,1,0,36,0,0,0,0.0,0.0,0.1,3,0,25,30,83.3,3,14,2,3,1,Benfica,2022-04-05 Benfica-Liverpool,UCL,21-22,85c3c6a1
+5cec2c74,Soualiho Meïté,11,FRA,DM,28-019,21,0,0,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.0,0,0,7,8,87.5,1,4,0,0,0,Benfica,2022-04-05 Benfica-Liverpool,UCL,21-22,85c3c6a1
+346d51d9,Julian Weigl,28,GER,DM,26-209,90,0,0,0,0,1,0,0,0,57,2,1,1,0.0,0.0,0.0,2,0,42,47,89.4,3,30,0,1,1,Benfica,2022-04-05 Benfica-Liverpool,UCL,21-22,85c3c6a1
+b1f4086c,Álex Grimaldo,3,ESP,LB,26-197,90,0,0,0,0,0,0,0,0,62,6,1,1,0.0,0.0,0.0,3,0,34,53,64.2,3,23,0,0,0,Benfica,2022-04-05 Benfica-Liverpool,UCL,21-22,85c3c6a1
+ba23a904,Jan Vertonghen,5,BEL,CB,34-346,90,0,0,0,0,0,0,0,0,69,1,2,2,0.0,0.0,0.0,1,0,47,59,79.7,4,35,1,0,0,Benfica,2022-04-05 Benfica-Liverpool,UCL,21-22,85c3c6a1
+0d267745,Nicolás Otamendi,30,ARG,CB,34-052,90,0,0,0,0,1,0,0,0,62,2,0,3,0.2,0.2,0.0,1,0,35,40,87.5,3,29,0,0,0,Benfica,2022-04-05 Benfica-Liverpool,UCL,21-22,85c3c6a1
+1338e42b,Gilberto,2,BRA,RB,29-029,90,0,0,0,0,0,0,0,0,66,6,2,0,0.0,0.0,0.0,0,0,35,51,68.6,3,28,2,9,7,Benfica,2022-04-05 Benfica-Liverpool,UCL,21-22,85c3c6a1
+03df04ff,Odisseas Vlachodimos,99,GRE,GK,27-344,90,0,0,0,0,0,0,0,0,48,0,0,0,0.0,0.0,0.0,0,0,27,44,61.4,0,27,0,0,0,Benfica,2022-04-05 Benfica-Liverpool,UCL,21-22,85c3c6a1
+c691bfe2,Sadio Mané,10,SEN,FW,29-360,60,1,0,0,0,1,1,0,0,36,1,0,0,0.7,0.7,0.5,2,0,15,25,60.0,3,24,4,1,0,Liverpool,2022-04-05 Benfica-Liverpool,UCL,21-22,85c3c6a1
+4c370d81,Roberto Firmino,9,BRA,FW,30-185,30,0,0,0,0,1,0,0,0,31,3,1,1,0.0,0.0,0.0,0,0,21,23,91.3,2,13,2,2,0,Liverpool,2022-04-05 Benfica-Liverpool,UCL,21-22,85c3c6a1
+4a1a9578,Luis Díaz,23,COL,LW,25-082,90,1,1,0,0,4,2,0,0,51,1,0,1,1.0,1.0,0.7,4,2,36,40,90.0,4,35,4,6,3,Liverpool,2022-04-05 Benfica-Liverpool,UCL,21-22,85c3c6a1
+e342ad68,Mohamed Salah,11,EGY,RW,29-294,60,0,0,0,0,2,2,0,0,48,0,0,0,0.9,0.9,0.2,3,0,23,32,71.9,4,31,3,5,2,Liverpool,2022-04-05 Benfica-Liverpool,UCL,21-22,85c3c6a1
+178ae8f8,Diogo Jota,20,POR,RW,25-122,30,0,0,0,0,2,1,0,0,28,0,1,0,0.4,0.4,0.0,1,0,18,22,81.8,0,16,1,2,2,Liverpool,2022-04-05 Benfica-Liverpool,UCL,21-22,85c3c6a1
+77e84962,Thiago Alcántara,6,ESP,LM,30-359,60,0,0,0,0,1,0,1,0,84,2,1,1,0.0,0.0,0.0,2,0,66,72,91.7,9,48,3,3,1,Liverpool,2022-04-05 Benfica-Liverpool,UCL,21-22,85c3c6a1
+935e6b8f,Jordan Henderson,14,ENG,RM,31-292,30,0,0,0,0,0,0,0,0,44,0,1,0,0.0,0.0,0.4,4,0,31,41,75.6,3,23,1,2,0,Liverpool,2022-04-05 Benfica-Liverpool,UCL,21-22,85c3c6a1
+7f3b388c,Fabinho,3,BRA,CM,28-164,90,0,0,0,0,0,0,0,0,90,3,1,2,0.0,0.0,0.1,2,0,73,81,90.1,8,42,1,1,1,Liverpool,2022-04-05 Benfica-Liverpool,UCL,21-22,85c3c6a1
+f25c8e3a,Naby Keïta,8,GUI,"RM,LM",27-054,88,0,1,0,0,4,1,0,0,99,5,1,1,0.6,0.6,0.2,5,1,72,79,91.1,10,53,5,4,3,Liverpool,2022-04-05 Benfica-Liverpool,UCL,21-22,85c3c6a1
+2f90f6b8,James Milner,7,ENG,LM,36-091,2,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,1,0,0,0,Liverpool,2022-04-05 Benfica-Liverpool,UCL,21-22,85c3c6a1
+2e4f5f03,Andrew Robertson,26,SCO,LB,28-025,90,0,1,0,0,0,0,0,0,81,1,1,1,0.0,0.0,0.2,3,1,60,76,78.9,6,38,3,0,0,Liverpool,2022-04-05 Benfica-Liverpool,UCL,21-22,85c3c6a1
+e06683ca,Virgil van Dijk,4,NED,CB,30-271,90,0,0,0,0,0,0,0,0,95,2,1,0,0.0,0.0,0.0,1,0,85,89,95.5,11,44,0,1,1,Liverpool,2022-04-05 Benfica-Liverpool,UCL,21-22,85c3c6a1
+5ed9b537,Ibrahima Konaté,5,FRA,CB,22-315,90,1,0,0,0,1,1,0,0,104,2,1,1,0.1,0.1,0.0,1,0,85,94,90.4,8,61,1,1,0,Liverpool,2022-04-05 Benfica-Liverpool,UCL,21-22,85c3c6a1
+cd1acf9d,Trent Alexander-Arnold,66,ENG,RB,23-180,88,0,0,0,0,1,0,0,0,87,1,1,0,0.0,0.0,0.8,3,1,62,76,81.6,9,41,0,1,0,Liverpool,2022-04-05 Benfica-Liverpool,UCL,21-22,85c3c6a1
+7a11550b,Joe Gomez,12,ENG,RB,24-317,2,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,1,3,33.3,0,3,1,0,0,Liverpool,2022-04-05 Benfica-Liverpool,UCL,21-22,85c3c6a1
+7a2e46a8,Alisson,1,BRA,GK,29-185,90,0,0,0,0,0,0,0,0,29,0,0,0,0.0,0.0,0.0,0,0,25,27,92.6,0,15,0,1,1,Liverpool,2022-04-05 Benfica-Liverpool,UCL,21-22,85c3c6a1

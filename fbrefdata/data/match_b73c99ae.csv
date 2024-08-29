@@ -1,0 +1,32 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+3bb7f478,Edin Džeko,9,BIH,FW,37-060,65,0,0,0,0,1,1,0,0,29,1,0,1,0.1,0.1,0.1,3,0,13,19,68.4,2,16,1,1,0,Internazionale,2023-05-16 Inter-Milan,UCL,22-23,b73c99ae
+5eae500a,Romelu Lukaku,90,BEL,FW,30-003,25,0,1,0,0,1,1,0,0,15,0,0,0,0.1,0.1,0.3,4,1,9,11,81.8,2,6,1,2,1,Internazionale,2023-05-16 Inter-Milan,UCL,22-23,b73c99ae
+f7036e1c,Lautaro Martínez,10,ARG,FW,25-267,83,1,0,0,0,5,2,1,0,31,0,0,0,0.4,0.4,0.1,6,1,9,12,75.0,3,22,2,5,2,Internazionale,2023-05-16 Inter-Milan,UCL,22-23,b73c99ae
+45b9b619,Joaquín Correa,11,ARG,FW,28-276,7,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.1,1,0,3,3,100.0,0,2,0,1,0,Internazionale,2023-05-16 Inter-Milan,UCL,22-23,b73c99ae
+dd0daf32,Henrikh Mkhitaryan,22,ARM,CM,34-115,43,0,0,0,0,2,0,0,0,26,2,0,0,0.1,0.1,0.1,2,0,14,18,77.8,3,16,1,0,0,Internazionale,2023-05-16 Inter-Milan,UCL,22-23,b73c99ae
+33b8d077,Marcelo Brozović,77,CRO,CM,30-181,47,0,0,0,0,0,0,0,0,26,0,3,0,0.0,0.0,0.0,0,0,18,21,85.7,1,13,0,0,0,Internazionale,2023-05-16 Inter-Milan,UCL,22-23,b73c99ae
+cd0fa27b,Hakan Çalhanoğlu,20,TUR,CM,29-097,90,0,0,0,0,0,0,0,0,59,1,0,0,0.0,0.0,0.1,4,0,43,52,82.7,4,41,0,3,2,Internazionale,2023-05-16 Inter-Milan,UCL,22-23,b73c99ae
+6928979a,Nicolò Barella,23,ITA,CM,26-098,83,0,0,0,0,1,0,1,0,38,2,0,0,0.1,0.1,0.1,3,0,23,28,82.1,1,27,2,2,1,Internazionale,2023-05-16 Inter-Milan,UCL,22-23,b73c99ae
+ce30bfc8,Roberto Gagliardini,5,ITA,CM,29-039,7,0,0,0,0,0,0,0,0,4,0,0,1,0.0,0.0,0.0,1,0,3,3,100.0,0,1,0,0,0,Internazionale,2023-05-16 Inter-Milan,UCL,22-23,b73c99ae
+970b8574,Federico Dimarco,32,ITA,WB,25-187,65,0,0,0,0,1,0,0,0,51,2,1,0,0.1,0.1,0.0,0,0,27,42,64.3,3,32,2,2,0,Internazionale,2023-05-16 Inter-Milan,UCL,22-23,b73c99ae
+2d970560,Robin Gosens,8,GER,WB,28-315,25,0,0,0,0,0,0,0,0,14,1,1,0,0.0,0.0,0.0,0,0,7,9,77.8,0,6,1,0,0,Internazionale,2023-05-16 Inter-Milan,UCL,22-23,b73c99ae
+481c9ece,Denzel Dumfries,2,NED,WB,27-028,90,0,0,0,0,0,0,0,0,30,1,1,0,0.0,0.0,0.0,0,0,15,25,60.0,2,14,1,0,0,Internazionale,2023-05-16 Inter-Milan,UCL,22-23,b73c99ae
+75b86fb3,Alessandro Bastoni,95,ITA,CB,24-033,90,0,0,0,0,2,0,0,0,54,2,0,0,0.1,0.1,0.0,0,0,37,47,78.7,5,24,0,0,0,Internazionale,2023-05-16 Inter-Milan,UCL,22-23,b73c99ae
+b96b595c,Francesco Acerbi,15,ITA,CB,35-095,90,0,0,0,0,2,0,0,0,46,2,0,1,0.1,0.1,0.0,0,0,24,32,75.0,1,23,2,0,0,Internazionale,2023-05-16 Inter-Milan,UCL,22-23,b73c99ae
+96e0490d,Matteo Darmian,36,ITA,CB,33-165,90,0,0,0,0,0,0,0,0,26,1,1,0,0.0,0.0,0.0,0,0,19,20,95.0,0,15,0,0,0,Internazionale,2023-05-16 Inter-Milan,UCL,22-23,b73c99ae
+e9c0c1b2,André Onana,24,CMR,GK,27-044,90,0,0,0,0,0,0,0,0,27,0,0,0,0.0,0.0,0.0,0,0,19,26,73.1,0,24,0,0,0,Internazionale,2023-05-16 Inter-Milan,UCL,22-23,b73c99ae
+16ceb862,Olivier Giroud,9,FRA,FW,36-228,90,0,0,0,0,1,0,0,0,28,1,0,1,0.1,0.1,0.0,0,0,11,21,52.4,1,10,0,0,0,Milan,2023-05-16 Inter-Milan,UCL,22-23,b73c99ae
+20730eae,Rafael Leão,17,POR,LW,23-340,90,0,0,0,0,1,0,0,0,28,1,0,0,0.1,0.1,0.0,1,0,13,22,59.1,0,20,2,2,2,Milan,2023-05-16 Inter-Milan,UCL,22-23,b73c99ae
+f49c4ae9,Junior Messias,30,BRA,RW,32-003,75,0,0,0,0,0,0,0,0,30,0,0,0,0.0,0.0,0.0,0,0,17,25,68.0,2,22,2,3,0,Milan,2023-05-16 Inter-Milan,UCL,22-23,b73c99ae
+ee251371,Alexis Saelemaekers,56,BEL,RW,23-323,15,0,0,0,0,0,0,0,0,7,1,0,0,0.0,0.0,0.0,0,0,2,4,50.0,0,4,0,1,0,Milan,2023-05-16 Inter-Milan,UCL,22-23,b73c99ae
+407feb71,Brahim Díaz,10,MAR,AM,23-286,75,0,0,0,0,2,1,0,0,41,0,0,1,0.3,0.3,0.0,3,0,28,29,96.6,1,31,2,8,2,Milan,2023-05-16 Inter-Milan,UCL,22-23,b73c99ae
+43a166b4,Divock Origi,27,BEL,AM,28-028,15,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,3,1,0,0,Milan,2023-05-16 Inter-Milan,UCL,22-23,b73c99ae
+0db169ae,Sandro Tonali,8,ITA,DM,23-008,90,0,0,0,0,0,0,1,0,48,0,0,1,0.0,0.0,0.4,4,0,26,40,65.0,4,29,2,3,2,Milan,2023-05-16 Inter-Milan,UCL,22-23,b73c99ae
+817c6964,Rade Krunić,33,BIH,DM,29-221,90,0,0,0,0,0,0,1,0,62,5,1,3,0.0,0.0,0.0,0,0,53,56,94.6,7,33,3,1,1,Milan,2023-05-16 Inter-Milan,UCL,22-23,b73c99ae
+d4c9725f,Theo Hernández,19,FRA,LB,25-222,90,0,0,0,0,1,0,0,0,56,3,1,1,0.0,0.0,0.1,2,0,37,45,82.2,3,34,4,1,0,Milan,2023-05-16 Inter-Milan,UCL,22-23,b73c99ae
+7edfbb8a,Fikayo Tomori,23,ENG,CB,25-148,90,0,0,0,0,0,0,1,0,61,3,2,1,0.0,0.0,0.0,0,0,44,54,81.5,4,34,3,0,0,Milan,2023-05-16 Inter-Milan,UCL,22-23,b73c99ae
+ff5ea0bf,Malick Thiaw,28,GER,CB,21-281,63,0,0,0,0,0,0,1,0,52,1,1,1,0.0,0.0,0.0,0,0,41,44,93.2,2,30,0,0,0,Milan,2023-05-16 Inter-Milan,UCL,22-23,b73c99ae
+85f7d1be,Pierre Kalulu,20,FRA,CB,22-345,27,0,0,0,0,0,0,0,0,18,0,1,1,0.0,0.0,0.0,0,0,11,14,78.6,1,13,1,1,1,Milan,2023-05-16 Inter-Milan,UCL,22-23,b73c99ae
+2146785a,Davide Calabria,2,ITA,RB,26-161,90,0,0,0,0,0,0,0,0,89,2,2,0,0.0,0.0,0.0,0,0,69,79,87.3,6,53,3,0,0,Milan,2023-05-16 Inter-Milan,UCL,22-23,b73c99ae
+fcb38f57,Mike Maignan,16,FRA,GK,27-317,90,0,0,0,0,0,0,0,0,39,0,0,0,0.0,0.0,0.0,0,0,28,35,80.0,0,17,0,0,0,Milan,2023-05-16 Inter-Milan,UCL,22-23,b73c99ae

@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+4d034881,Sergio Agüero,10,ARG,FW,32-141,67,1,0,1,1,0,0,0,0,13,1,0,2,0.8,0.0,0.0,1,0,3,6,50.0,0,5,1,0,0,Manchester City,2020-10-21 Manchester City-Porto,UCL,20-21,27966ef3
+9e1035f8,Ferrán Torres,21,ESP,LW,20-235,23,1,0,0,0,1,1,0,0,12,0,1,1,0.1,0.1,0.0,1,1,7,8,87.5,2,10,1,3,3,Manchester City,2020-10-21 Manchester City-Porto,UCL,20-21,27966ef3
+b400bde0,Raheem Sterling,7,ENG,"LW,FW",25-318,90,0,0,0,0,0,0,0,0,35,2,1,1,0.0,0.0,0.3,3,1,23,26,88.5,2,19,1,2,1,Manchester City,2020-10-21 Manchester City-Porto,UCL,20-21,27966ef3
+892d5bb1,Riyad Mahrez,26,ALG,RW,29-243,90,0,0,0,0,2,1,0,0,54,2,0,0,0.3,0.3,0.0,2,1,37,48,77.1,5,31,4,1,0,Manchester City,2020-10-21 Manchester City-Porto,UCL,20-21,27966ef3
+819b3158,İlkay Gündoğan,8,GER,LM,29-363,67,1,0,0,0,3,2,0,0,49,0,0,0,0.2,0.2,0.0,4,2,35,42,83.3,3,28,0,2,1,Manchester City,2020-10-21 Manchester City-Porto,UCL,20-21,27966ef3
+ed1e53f3,Phil Foden,47,ENG,LM,20-146,23,0,1,0,0,0,0,0,0,16,1,0,0,0.0,0.0,0.1,1,1,12,14,85.7,1,9,0,0,0,Manchester City,2020-10-21 Manchester City-Porto,UCL,20-21,27966ef3
+6434f10d,Rodri,16,ESP,CM,24-121,84,0,0,0,0,2,1,0,0,70,3,0,0,0.1,0.1,0.0,0,0,56,63,88.9,3,40,0,2,2,Manchester City,2020-10-21 Manchester City-Porto,UCL,20-21,27966ef3
+101da2b5,Fernandinho,25,BRA,CM,35-170,5,0,0,0,0,0,0,1,0,2,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,0,0,0,0,Manchester City,2020-10-21 Manchester City-Porto,UCL,20-21,27966ef3
+5eecec3d,John Stones,5,ENG,CM,26-146,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Manchester City,2020-10-21 Manchester City-Porto,UCL,20-21,27966ef3
+3eb22ec9,Bernardo Silva,20,POR,RM,26-072,90,0,0,0,0,0,0,1,0,37,2,1,0,0.0,0.0,0.1,2,0,24,31,77.4,2,24,3,1,1,Manchester City,2020-10-21 Manchester City-Porto,UCL,20-21,27966ef3
+bd6351cd,João Cancelo,27,POR,LB,26-147,90,0,0,0,0,0,0,1,0,90,2,0,0,0.0,0.0,0.0,0,0,63,82,76.8,4,55,3,3,2,Manchester City,2020-10-21 Manchester City-Porto,UCL,20-21,27966ef3
+2bed3eab,Eric García,50,ESP,CB,19-286,90,0,0,0,0,0,0,1,0,116,0,1,0,0.0,0.0,0.0,0,0,102,109,93.6,14,93,0,0,0,Manchester City,2020-10-21 Manchester City-Porto,UCL,20-21,27966ef3
+31c69ef1,Rúben Dias,3,POR,CB,23-160,90,0,0,0,0,0,0,0,0,116,2,2,1,0.0,0.0,0.0,0,0,103,110,93.6,7,96,0,0,0,Manchester City,2020-10-21 Manchester City-Porto,UCL,20-21,27966ef3
+86dd77d1,Kyle Walker,2,ENG,RB,30-146,90,0,0,0,0,0,0,1,0,94,3,1,0,0.0,0.0,0.0,1,0,76,87,87.4,2,47,2,1,1,Manchester City,2020-10-21 Manchester City-Porto,UCL,20-21,27966ef3
+3bb7b8b4,Ederson,31,BRA,GK,27-065,90,0,0,0,0,0,0,0,0,38,0,0,0,0.0,0.0,0.0,0,0,31,38,81.6,0,23,0,0,0,Manchester City,2020-10-21 Manchester City-Porto,UCL,20-21,27966ef3
+05a84d52,Moussa Marega,11,MLI,"FW,RM",29-190,90,0,0,0,0,2,0,0,0,27,0,0,0,0.1,0.1,0.0,0,0,8,14,57.1,1,19,0,0,0,Porto,2020-10-21 Manchester City-Porto,UCL,20-21,27966ef3
+4a1a9578,Luis Díaz,7,COL,LM,23-282,54,1,0,0,0,2,1,0,0,25,0,1,1,0.1,0.1,0.1,2,1,10,11,90.9,1,18,4,4,1,Porto,2020-10-21 Manchester City-Porto,UCL,20-21,27966ef3
+e27fdbca,Wilson Manafá,18,POR,LM,26-090,36,0,0,0,0,0,0,0,0,28,1,0,0,0.0,0.0,0.0,0,0,19,25,76.0,1,18,1,1,1,Porto,2020-10-21 Manchester City-Porto,UCL,20-21,27966ef3
+b997c3de,Mateus Uribe,8,COL,CM,29-214,90,0,1,0,0,1,0,0,0,39,4,2,0,0.0,0.0,0.1,2,1,27,32,84.4,2,24,0,0,0,Porto,2020-10-21 Manchester City-Porto,UCL,20-21,27966ef3
+947e036f,Sérgio Oliveira,27,POR,"CM,DM",28-141,90,0,0,0,0,0,0,0,0,33,0,0,0,0.0,0.0,0.0,1,0,22,31,71.0,2,13,0,1,1,Porto,2020-10-21 Manchester City-Porto,UCL,20-21,27966ef3
+6412cc03,Fabio Vieira,50,POR,RM,20-144,76,0,0,0,0,0,0,0,0,22,1,0,1,0.0,0.0,0.0,1,0,14,17,82.4,1,18,0,2,2,Porto,2020-10-21 Manchester City-Porto,UCL,20-21,27966ef3
+4c2a5d34,Mehdi Taremi,9,IRN,"FW,RM",28-095,14,0,0,0,0,0,0,0,0,3,0,1,0,0.0,0.0,0.0,0,0,2,2,100.0,0,2,0,0,0,Porto,2020-10-21 Manchester City-Porto,UCL,20-21,27966ef3
+24051310,Zaidu Sanusi,12,NGA,LB,23-130,76,0,0,0,0,1,1,0,0,38,1,1,0,0.0,0.0,0.0,2,0,21,30,70.0,4,20,1,0,0,Porto,2020-10-21 Manchester City-Porto,UCL,20-21,27966ef3
+be60b6f4,Shoya Nakajima,10,JPN,"CM,LB",26-059,14,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,4,6,66.7,2,8,0,1,0,Porto,2020-10-21 Manchester City-Porto,UCL,20-21,27966ef3
+4315f30d,Malang Sarr,32,FRA,CB,21-272,79,0,0,0,0,0,0,0,0,29,1,0,1,0.0,0.0,0.0,0,0,19,22,86.4,0,16,0,0,0,Porto,2020-10-21 Manchester City-Porto,UCL,20-21,27966ef3
+6f3cc2fe,Evanilson,30,BRA,"LB,CB",21-015,11,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,3,3,100.0,0,4,0,0,0,Porto,2020-10-21 Manchester City-Porto,UCL,20-21,27966ef3
+c906ce0f,Pepe,3,POR,CB,37-238,90,0,0,0,0,0,0,1,0,40,0,0,1,0.0,0.0,0.0,0,0,23,32,71.9,1,21,0,0,0,Porto,2020-10-21 Manchester City-Porto,UCL,20-21,27966ef3
+e76cb9cc,Chancel Mbemba,19,COD,CB,26-074,90,0,0,0,0,0,0,0,0,43,1,2,1,0.0,0.0,0.0,0,0,26,33,78.8,0,27,0,1,1,Porto,2020-10-21 Manchester City-Porto,UCL,20-21,27966ef3
+fb938d24,Jesús Corona,17,MEX,RB,27-289,76,0,0,0,0,0,0,0,0,37,2,4,2,0.0,0.0,0.0,0,0,20,25,80.0,2,20,2,2,0,Porto,2020-10-21 Manchester City-Porto,UCL,20-21,27966ef3
+d9b9b71a,Eulânio Ângelo Chipela Gomes,31,GNB,RB,26-157,14,0,0,0,0,0,0,0,0,9,0,0,1,0.0,0.0,0.0,0,0,3,7,42.9,0,5,0,0,0,Porto,2020-10-21 Manchester City-Porto,UCL,20-21,27966ef3
+853b7c48,Agustín Marchesín,1,ARG,GK,32-219,90,0,0,0,0,0,0,0,0,35,1,0,0,0.0,0.0,0.0,0,0,15,30,50.0,0,18,0,0,0,Porto,2020-10-21 Manchester City-Porto,UCL,20-21,27966ef3
