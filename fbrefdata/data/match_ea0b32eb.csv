@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+4c370d81,Roberto Firmino,9,BRA,"FW,AM",27-180,90,1,0,0,0,2,1,0,0,38,3,0,0,0.4,0.4,0.2,3,0,17,28,60.7,1,22,0,2,0,Liverpool,2019-03-31 Liverpool-Tottenham,ENG-EPL,18-19,ea0b32eb
+c691bfe2,Sadio Mané,10,SEN,"LW,RW",26-355,90,0,0,0,0,2,0,0,0,40,1,2,1,0.1,0.1,0.0,2,0,20,26,76.9,2,32,2,3,0,Liverpool,2019-03-31 Liverpool-Tottenham,ENG-EPL,18-19,ea0b32eb
+e342ad68,Mohamed Salah,11,EGY,"RW,FW",26-289,89,0,0,0,0,5,1,0,0,29,0,0,1,0.3,0.3,0.0,4,0,12,17,70.6,1,23,4,2,0,Liverpool,2019-03-31 Liverpool-Tottenham,ENG-EPL,18-19,ea0b32eb
+1a2935f6,Dejan Lovren,6,CRO,"CB,FW",29-269,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Liverpool,2019-03-31 Liverpool-Tottenham,ENG-EPL,18-19,ea0b32eb
+2f90f6b8,James Milner,7,ENG,LM,33-086,76,0,0,0,0,0,0,0,0,58,2,0,0,0.0,0.0,0.2,5,0,41,52,78.8,6,40,1,1,1,Liverpool,2019-03-31 Liverpool-Tottenham,ENG-EPL,18-19,ea0b32eb
+7f3b388c,Fabinho,3,BRA,"DM,CM",25-159,14,0,0,0,0,0,0,0,0,13,1,0,1,0.0,0.0,0.0,1,0,7,10,70.0,1,2,0,0,0,Liverpool,2019-03-31 Liverpool-Tottenham,ENG-EPL,18-19,ea0b32eb
+935e6b8f,Jordan Henderson,14,ENG,CM,28-287,76,0,0,0,0,1,0,0,0,57,2,2,3,0.0,0.0,0.0,2,0,38,47,80.9,3,34,0,0,0,Liverpool,2019-03-31 Liverpool-Tottenham,ENG-EPL,18-19,ea0b32eb
+43a166b4,Divock Origi,27,BEL,"LW,LM",23-347,14,0,0,0,0,1,0,0,0,10,0,0,0,0.1,0.1,0.0,0,0,3,6,50.0,0,6,0,2,1,Liverpool,2019-03-31 Liverpool-Tottenham,ENG-EPL,18-19,ea0b32eb
+eb58eef0,Georginio Wijnaldum,5,NED,"RM,DM",28-140,90,0,0,0,0,0,0,0,0,45,2,2,2,0.0,0.0,0.1,2,0,27,32,84.4,5,25,0,1,0,Liverpool,2019-03-31 Liverpool-Tottenham,ENG-EPL,18-19,ea0b32eb
+2e4f5f03,Andrew Robertson,26,SCO,LB,25-020,90,0,1,0,0,0,0,0,0,87,1,1,2,0.0,0.0,0.3,3,1,64,80,80.0,10,56,7,2,1,Liverpool,2019-03-31 Liverpool-Tottenham,ENG-EPL,18-19,ea0b32eb
+e06683ca,Virgil van Dijk,4,NED,CB,27-266,90,0,0,0,0,1,0,0,0,63,0,1,1,0.1,0.1,0.0,0,0,46,52,88.5,2,33,1,1,0,Liverpool,2019-03-31 Liverpool-Tottenham,ENG-EPL,18-19,ea0b32eb
+b217ef29,Joël Matip,32,CMR,CB,27-235,90,0,0,0,0,0,0,0,0,46,1,0,0,0.0,0.0,0.0,0,0,30,40,75.0,1,27,0,0,0,Liverpool,2019-03-31 Liverpool-Tottenham,ENG-EPL,18-19,ea0b32eb
+cd1acf9d,Trent Alexander-Arnold,66,ENG,RB,20-175,90,0,0,0,0,2,1,0,0,88,5,0,0,0.1,0.1,0.1,4,0,56,73,76.7,6,38,2,2,1,Liverpool,2019-03-31 Liverpool-Tottenham,ENG-EPL,18-19,ea0b32eb
+7a2e46a8,Alisson,13,BRA,GK,26-180,90,0,0,0,0,0,0,0,0,41,0,0,0,0.0,0.0,0.0,0,0,30,37,81.1,0,20,0,0,0,Liverpool,2019-03-31 Liverpool-Tottenham,ENG-EPL,18-19,ea0b32eb
+2b622f01,Lucas Moura,27,BRA,"FW,AM",26-230,81,1,0,0,0,3,1,1,0,42,2,1,0,0.4,0.4,0.0,2,0,23,31,74.2,1,20,5,8,4,Tottenham Hotspur,2019-03-31 Liverpool-Tottenham,ENG-EPL,18-19,ea0b32eb
+44781702,Ben Davies,33,WAL,LB,25-341,9,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,3,3,100.0,0,2,0,0,0,Tottenham Hotspur,2019-03-31 Liverpool-Tottenham,ENG-EPL,18-19,ea0b32eb
+21a66f6a,Harry Kane,10,ENG,FW,25-246,90,0,0,0,0,2,1,0,0,27,0,0,1,0.1,0.1,0.0,4,0,15,18,83.3,2,20,1,1,0,Tottenham Hotspur,2019-03-31 Liverpool-Tottenham,ENG-EPL,18-19,ea0b32eb
+89d10e53,Danny Rose,3,ENG,"LW,LB",28-272,90,0,0,0,0,0,0,0,0,58,2,1,0,0.0,0.0,0.0,0,0,33,49,67.3,5,34,7,6,3,Tottenham Hotspur,2019-03-31 Liverpool-Tottenham,ENG-EPL,18-19,ea0b32eb
+21512407,Kieran Trippier,2,ENG,"RB,RW",28-193,90,0,0,0,0,0,0,0,0,77,5,0,6,0.0,0.0,0.0,3,1,39,58,67.2,6,36,3,1,1,Tottenham Hotspur,2019-03-31 Liverpool-Tottenham,ENG-EPL,18-19,ea0b32eb
+cea4ee8f,Dele Alli,20,ENG,"DM,CM",22-354,90,0,0,0,0,2,0,0,0,65,1,1,2,0.1,0.1,0.0,1,0,46,54,85.2,4,36,2,3,1,Tottenham Hotspur,2019-03-31 Liverpool-Tottenham,ENG-EPL,18-19,ea0b32eb
+980522ec,Christian Eriksen,23,DEN,"RW,CM",27-045,89,0,1,0,0,2,0,0,0,53,0,2,1,0.1,0.1,0.5,5,1,32,45,71.1,7,35,4,0,0,Tottenham Hotspur,2019-03-31 Liverpool-Tottenham,ENG-EPL,18-19,ea0b32eb
+82dbf623,Fernando Llorente,18,ESP,RW,34-033,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Tottenham Hotspur,2019-03-31 Liverpool-Tottenham,ENG-EPL,18-19,ea0b32eb
+2acd49b9,Moussa Sissoko,17,FRA,DM,29-227,90,0,0,0,0,2,0,0,0,50,2,0,0,0.1,0.1,0.0,2,0,39,45,86.7,1,34,3,0,0,Tottenham Hotspur,2019-03-31 Liverpool-Tottenham,ENG-EPL,18-19,ea0b32eb
+ba23a904,Jan Vertonghen,5,BEL,"CB,LB",31-341,90,0,0,0,0,0,0,0,0,64,2,1,1,0.0,0.0,0.0,0,0,45,55,81.8,2,38,0,0,0,Tottenham Hotspur,2019-03-31 Liverpool-Tottenham,ENG-EPL,18-19,ea0b32eb
+da7b447d,Davinson Sánchez,6,COL,CB,22-292,68,0,0,0,0,0,0,0,0,66,0,2,1,0.0,0.0,0.0,0,0,51,54,94.4,0,44,0,0,0,Tottenham Hotspur,2019-03-31 Liverpool-Tottenham,ENG-EPL,18-19,ea0b32eb
+92e7e919,Son Heung-min,7,KOR,"AM,LW",26-266,22,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.1,2,0,6,6,100.0,0,5,1,0,0,Tottenham Hotspur,2019-03-31 Liverpool-Tottenham,ENG-EPL,18-19,ea0b32eb
+f7d50789,Toby Alderweireld,4,BEL,CB,30-029,90,0,0,0,0,0,0,0,0,77,2,0,1,0.0,0.0,0.0,1,0,56,66,84.8,0,53,0,0,0,Tottenham Hotspur,2019-03-31 Liverpool-Tottenham,ENG-EPL,18-19,ea0b32eb
+8f62b6ee,Hugo Lloris,1,FRA,GK,32-095,90,0,0,0,0,0,0,0,0,49,0,0,0,0.0,0.0,0.0,0,0,32,47,68.1,0,21,0,0,0,Tottenham Hotspur,2019-03-31 Liverpool-Tottenham,ENG-EPL,18-19,ea0b32eb

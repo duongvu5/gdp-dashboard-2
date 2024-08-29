@@ -1,0 +1,29 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+4d034881,Sergio Agüero,10,ARG,FW,30-105,53,0,1,0,0,5,1,0,0,19,0,0,0,0.4,0.4,0.9,3,1,9,11,81.8,1,8,1,0,0,Manchester City,2018-09-15 Manchester City-Fulham,ENG-EPL,18-19,2e19378a
+b66315ae,Gabriel Jesus,33,BRA,FW,21-165,37,0,0,0,0,3,1,0,0,14,0,0,3,0.8,0.8,0.3,1,0,5,6,83.3,0,9,1,0,0,Manchester City,2018-09-15 Manchester City-Fulham,ENG-EPL,18-19,2e19378a
+2b114be3,Leroy Sané,19,GER,LW,22-247,90,1,0,0,0,2,2,0,0,69,1,0,0,0.6,0.6,0.1,5,0,53,63,84.1,8,55,5,2,1,Manchester City,2018-09-15 Manchester City-Fulham,ENG-EPL,18-19,2e19378a
+b400bde0,Raheem Sterling,7,ENG,RW,23-281,73,1,0,0,0,5,3,0,0,53,0,1,1,1.5,1.5,0.4,8,1,31,40,77.5,1,44,7,3,2,Manchester City,2018-09-15 Manchester City-Fulham,ENG-EPL,18-19,2e19378a
+892d5bb1,Riyad Mahrez,26,ALG,RW,27-206,17,0,0,0,0,2,0,0,0,22,1,0,0,0.1,0.1,0.0,2,0,16,18,88.9,0,19,1,2,1,Manchester City,2018-09-15 Manchester City-Fulham,ENG-EPL,18-19,2e19378a
+e2716bd0,David Silva,21,ESP,LM,32-250,90,1,0,0,0,1,1,0,0,97,2,2,0,0.8,0.8,0.6,5,1,79,91,86.8,10,65,3,2,2,Manchester City,2018-09-15 Manchester City-Fulham,ENG-EPL,18-19,2e19378a
+101da2b5,Fernandinho,25,BRA,"CM,RB",33-134,90,0,1,0,0,1,0,0,0,81,2,1,0,0.0,0.0,0.7,9,2,61,74,82.4,8,56,4,1,1,Manchester City,2018-09-15 Manchester City-Fulham,ENG-EPL,18-19,2e19378a
+3eb22ec9,Bernardo Silva,20,POR,RM,24-036,90,0,0,0,0,4,1,0,0,75,0,0,3,0.5,0.5,0.8,9,0,53,61,86.9,7,56,5,3,2,Manchester City,2018-09-15 Manchester City-Fulham,ENG-EPL,18-19,2e19378a
+111c3236,Fabian Delph,18,ENG,LB,28-298,66,0,0,0,0,0,0,0,0,76,2,3,1,0.0,0.0,0.0,0,0,58,64,90.6,4,55,7,4,4,Manchester City,2018-09-15 Manchester City-Fulham,ENG-EPL,18-19,2e19378a
+819b3158,İlkay Gündoğan,8,GER,CM,27-326,24,0,0,0,0,1,0,0,0,50,1,0,0,0.0,0.0,0.0,1,0,46,46,100.0,2,31,2,0,0,Manchester City,2018-09-15 Manchester City-Fulham,ENG-EPL,18-19,2e19378a
+119b9a8e,Aymeric Laporte,14,ESP,CB,24-111,90,0,0,0,0,1,0,0,0,102,1,0,0,0.0,0.0,0.1,2,0,92,97,94.8,8,84,1,0,0,Manchester City,2018-09-15 Manchester City-Fulham,ENG-EPL,18-19,2e19378a
+0d267745,Nicolás Otamendi,30,ARG,CB,30-215,90,0,0,0,0,2,0,0,0,106,4,1,0,0.1,0.1,0.0,0,0,85,95,89.5,5,76,1,0,0,Manchester City,2018-09-15 Manchester City-Fulham,ENG-EPL,18-19,2e19378a
+86dd77d1,Kyle Walker,2,ENG,"RB,LB",28-110,90,0,0,0,0,1,0,0,0,108,2,4,1,0.0,0.0,0.0,2,0,85,93,91.4,8,70,2,0,0,Manchester City,2018-09-15 Manchester City-Fulham,ENG-EPL,18-19,2e19378a
+3bb7b8b4,Ederson,31,BRA,GK,25-029,90,0,0,0,0,0,0,0,0,26,0,0,0,0.0,0.0,0.0,2,0,23,23,100.0,0,16,0,0,0,Manchester City,2018-09-15 Manchester City-Fulham,ENG-EPL,18-19,2e19378a
+3925dbd6,Aleksandar Mitrović,9,SRB,FW,23-364,90,0,0,0,0,2,1,0,0,33,0,0,1,0.1,0.1,0.0,1,0,18,23,78.3,1,13,0,0,0,Fulham,2018-09-15 Manchester City-Fulham,ENG-EPL,18-19,2e19378a
+ecbb3fdf,André Schürrle,14,GER,LW,27-313,90,0,0,0,0,5,2,0,0,38,1,0,0,0.1,0.1,0.0,0,0,20,28,71.4,4,23,2,4,3,Fulham,2018-09-15 Manchester City-Fulham,ENG-EPL,18-19,2e19378a
+2513a588,Luciano Vietto,19,ARG,RW,24-284,68,0,0,0,0,0,0,0,0,27,1,1,2,0.0,0.0,0.1,2,0,16,19,84.2,1,22,2,3,0,Fulham,2018-09-15 Manchester City-Fulham,ENG-EPL,18-19,2e19378a
+fd5888a0,Floyd Ayité,11,TOG,RW,29-274,22,0,0,0,0,2,0,0,0,15,0,0,1,0.1,0.1,0.0,2,0,11,11,100.0,3,9,1,1,0,Fulham,2018-09-15 Manchester City-Fulham,ENG-EPL,18-19,2e19378a
+a48da055,Stefan Johansen,8,NOR,LM,27-250,90,0,0,0,0,0,0,0,0,57,5,3,1,0.0,0.0,0.0,1,0,41,47,87.2,5,30,2,0,0,Fulham,2018-09-15 Manchester City-Fulham,ENG-EPL,18-19,2e19378a
+71a08f97,Kevin McDonald,6,SCO,CM,29-315,90,0,0,0,0,0,0,0,0,56,1,1,1,0.0,0.0,0.0,2,0,40,48,83.3,4,26,1,0,0,Fulham,2018-09-15 Manchester City-Fulham,ENG-EPL,18-19,2e19378a
+10efd0e1,Jean Seri,24,CIV,RM,27-058,55,0,0,0,0,0,0,0,0,34,3,3,3,0.0,0.0,0.0,1,0,21,27,77.8,4,14,1,0,0,Fulham,2018-09-15 Manchester City-Fulham,ENG-EPL,18-19,2e19378a
+6bb2c084,Andre-Frank Zambo Anguissa,29,CMR,RM,22-303,35,0,0,0,0,0,0,0,0,26,0,1,2,0.0,0.0,0.0,1,0,18,21,85.7,5,20,3,3,3,Fulham,2018-09-15 Manchester City-Fulham,ENG-EPL,18-19,2e19378a
+6aa3e78b,Ryan Sessegnon,3,ENG,LB,18-120,90,0,0,0,0,0,0,0,0,51,0,0,1,0.0,0.0,0.1,3,0,31,44,70.5,0,24,1,1,0,Fulham,2018-09-15 Manchester City-Fulham,ENG-EPL,18-19,2e19378a
+d368feb8,Alfie Mawson,26,ENG,CB,24-239,90,0,0,0,0,0,0,0,0,48,0,2,4,0.0,0.0,0.0,0,0,29,35,82.9,3,28,0,0,0,Fulham,2018-09-15 Manchester City-Fulham,ENG-EPL,18-19,2e19378a
+f7750aa0,Denis Odoi,4,GHA,CB,30-111,90,0,0,0,0,0,0,0,0,53,1,2,5,0.0,0.0,0.0,0,0,36,42,85.7,0,28,0,0,0,Fulham,2018-09-15 Manchester City-Fulham,ENG-EPL,18-19,2e19378a
+7eb67dad,Cyrus Christie,22,IRL,RB,25-350,90,0,0,0,0,0,0,0,0,60,2,3,2,0.0,0.0,0.1,3,0,38,49,77.6,2,30,3,3,2,Fulham,2018-09-15 Manchester City-Fulham,ENG-EPL,18-19,2e19378a
+0d85a4e8,Marcus Bettinelli,1,ENG,GK,26-114,90,0,0,0,0,0,0,0,0,43,0,0,0,0.0,0.0,0.0,0,0,20,38,52.6,0,18,0,0,0,Fulham,2018-09-15 Manchester City-Fulham,ENG-EPL,18-19,2e19378a

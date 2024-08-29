@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+21a66f6a,Harry Kane,10,ENG,FW,25-021,88,1,0,0,0,4,2,0,0,37,0,0,0,1.0,1.0,0.1,5,1,19,22,86.4,3,28,2,5,3,Tottenham Hotspur,2018-08-18 Tottenham-Fulham,ENG-EPL,18-19,aa8f0365
+2f7acede,Harry Winks,8,ENG,RM,22-197,2,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,3,3,100.0,0,2,0,0,0,Tottenham Hotspur,2018-08-18 Tottenham-Fulham,ENG-EPL,18-19,aa8f0365
+2b622f01,Lucas Moura,27,BRA,FW,26-005,90,1,0,0,0,2,1,0,0,48,4,2,0,0.5,0.5,0.0,2,1,29,38,76.3,4,28,2,4,2,Tottenham Hotspur,2018-08-18 Tottenham-Fulham,ENG-EPL,18-19,aa8f0365
+44781702,Ben Davies,33,WAL,"LW,LB",25-116,90,0,0,0,0,4,1,0,0,69,1,1,1,0.2,0.2,0.8,5,0,48,59,81.4,4,37,3,0,0,Tottenham Hotspur,2018-08-18 Tottenham-Fulham,ENG-EPL,18-19,aa8f0365
+21512407,Kieran Trippier,2,ENG,"RW,RB",27-333,90,1,0,0,0,2,1,0,0,93,0,1,0,0.1,0.1,0.1,6,1,69,88,78.4,9,56,4,0,0,Tottenham Hotspur,2018-08-18 Tottenham-Fulham,ENG-EPL,18-19,aa8f0365
+cea4ee8f,Dele Alli,20,ENG,"CM,LM,AM",22-129,90,0,0,0,0,3,3,0,0,79,2,3,0,0.2,0.2,0.1,5,1,55,66,83.3,8,57,0,0,0,Tottenham Hotspur,2018-08-18 Tottenham-Fulham,ENG-EPL,18-19,aa8f0365
+980522ec,Christian Eriksen,23,DEN,"CM,RM,AM",26-185,90,0,0,0,0,5,1,0,0,85,0,1,0,0.3,0.3,0.0,5,0,61,72,84.7,13,53,5,3,1,Tottenham Hotspur,2018-08-18 Tottenham-Fulham,ENG-EPL,18-19,aa8f0365
+ac861941,Eric Dier,15,ENG,DM,24-215,72,0,0,0,0,0,0,0,0,58,0,3,0,0.0,0.0,0.5,4,0,51,55,92.7,9,37,0,0,0,Tottenham Hotspur,2018-08-18 Tottenham-Fulham,ENG-EPL,18-19,aa8f0365
+abe66106,Érik Lamela,11,ARG,"AM,FW",26-167,18,0,1,0,0,2,2,0,0,14,0,0,1,0.7,0.7,0.1,3,1,9,10,90.0,2,8,2,0,0,Tottenham Hotspur,2018-08-18 Tottenham-Fulham,ENG-EPL,18-19,aa8f0365
+ba23a904,Jan Vertonghen,5,BEL,CB,31-116,90,0,0,0,0,1,0,0,0,96,2,1,0,0.0,0.0,0.0,1,1,86,92,93.5,8,72,1,0,0,Tottenham Hotspur,2018-08-18 Tottenham-Fulham,ENG-EPL,18-19,aa8f0365
+da7b447d,Davinson Sánchez,6,COL,CB,22-067,62,0,0,0,0,0,0,0,0,43,2,0,2,0.0,0.0,0.0,0,0,33,36,91.7,1,29,0,0,0,Tottenham Hotspur,2018-08-18 Tottenham-Fulham,ENG-EPL,18-19,aa8f0365
+f7ee69fb,Mousa Dembélé,19,BEL,DM,31-033,28,0,0,0,0,0,0,0,0,27,0,0,0,0.0,0.0,0.0,3,0,25,27,92.6,2,20,1,0,0,Tottenham Hotspur,2018-08-18 Tottenham-Fulham,ENG-EPL,18-19,aa8f0365
+f7d50789,Toby Alderweireld,4,BEL,CB,29-169,90,0,0,0,0,2,0,0,0,88,1,0,0,0.1,0.1,0.0,0,0,73,81,90.1,9,75,1,0,0,Tottenham Hotspur,2018-08-18 Tottenham-Fulham,ENG-EPL,18-19,aa8f0365
+8f62b6ee,Hugo Lloris,1,FRA,GK,31-235,90,0,0,0,0,0,0,0,0,40,0,0,0,0.0,0.0,0.0,0,0,31,37,83.8,0,21,0,0,0,Tottenham Hotspur,2018-08-18 Tottenham-Fulham,ENG-EPL,18-19,aa8f0365
+3925dbd6,Aleksandar Mitrović,9,SRB,FW,23-336,90,1,0,0,0,4,1,0,0,35,0,0,2,1.0,1.0,0.0,2,0,18,28,64.3,3,12,0,0,0,Fulham,2018-08-18 Tottenham-Fulham,ENG-EPL,18-19,aa8f0365
+4047c976,Aboubakar Kamara,47,MTN,LW,23-164,87,0,0,0,0,0,0,0,0,43,1,0,1,0.0,0.0,0.4,5,0,24,36,66.7,1,21,3,0,0,Fulham,2018-08-18 Tottenham-Fulham,ENG-EPL,18-19,aa8f0365
+ecbb3fdf,André Schürrle,14,GER,LW,27-285,3,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,1,1,1,1,Fulham,2018-08-18 Tottenham-Fulham,ENG-EPL,18-19,aa8f0365
+6aa3e78b,Ryan Sessegnon,3,ENG,RW,18-092,90,0,1,0,0,2,1,0,0,18,0,0,0,0.4,0.4,0.6,2,1,12,15,80.0,1,12,1,2,1,Fulham,2018-08-18 Tottenham-Fulham,ENG-EPL,18-19,aa8f0365
+10efd0e1,Jean Seri,24,CIV,LM,27-030,90,0,0,0,0,0,0,0,0,70,0,2,3,0.0,0.0,0.3,3,0,53,61,86.9,6,24,1,1,1,Fulham,2018-08-18 Tottenham-Fulham,ENG-EPL,18-19,aa8f0365
+6bb2c084,Andre-Frank Zambo Anguissa,29,CMR,CM,22-275,90,0,0,0,0,0,0,0,0,64,4,2,1,0.0,0.0,0.0,1,0,46,49,93.9,3,27,1,4,4,Fulham,2018-08-18 Tottenham-Fulham,ENG-EPL,18-19,aa8f0365
+a8748947,Tom Cairney,10,SCO,RM,27-210,72,0,0,0,0,2,1,0,0,54,1,0,0,0.1,0.1,0.2,3,0,42,48,87.5,4,28,2,2,2,Fulham,2018-08-18 Tottenham-Fulham,ENG-EPL,18-19,aa8f0365
+a48da055,Stefan Johansen,8,NOR,RM,27-222,18,0,0,0,0,0,0,0,0,15,0,0,0,0.0,0.0,0.0,0,0,12,13,92.3,2,9,1,0,0,Fulham,2018-08-18 Tottenham-Fulham,ENG-EPL,18-19,aa8f0365
+af69e7f0,Joe Bryan,23,ENG,LB,24-335,84,0,0,0,0,1,0,0,0,50,1,1,0,0.0,0.0,0.1,3,1,31,40,77.5,4,27,6,0,0,Fulham,2018-08-18 Tottenham-Fulham,ENG-EPL,18-19,aa8f0365
+7eb67dad,Cyrus Christie,22,IRL,LB,25-322,6,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,0,0,0,0,Fulham,2018-08-18 Tottenham-Fulham,ENG-EPL,18-19,aa8f0365
+321a71a7,Maxime Le Marchand,20,FRA,CB,28-311,90,0,0,0,0,0,0,0,0,63,2,2,2,0.0,0.0,0.0,0,0,35,42,83.3,2,18,0,0,0,Fulham,2018-08-18 Tottenham-Fulham,ENG-EPL,18-19,aa8f0365
+dc6f5bdd,Calum Chambers,5,ENG,CB,23-210,90,0,0,0,0,0,0,0,0,58,1,3,1,0.0,0.0,0.0,0,0,29,40,72.5,3,22,0,0,0,Fulham,2018-08-18 Tottenham-Fulham,ENG-EPL,18-19,aa8f0365
+a9142dc3,Timothy Fosu-Mensah,21,NED,RB,20-228,90,0,0,0,0,1,0,0,0,61,2,0,0,0.0,0.0,0.0,0,0,49,55,89.1,3,32,2,2,2,Fulham,2018-08-18 Tottenham-Fulham,ENG-EPL,18-19,aa8f0365
+af245161,Fabricio,31,ESP,GK,30-230,90,0,0,0,0,0,0,0,0,43,1,0,0,0.0,0.0,0.0,0,0,22,33,66.7,0,15,0,0,0,Fulham,2018-08-18 Tottenham-Fulham,ENG-EPL,18-19,aa8f0365

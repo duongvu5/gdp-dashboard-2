@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+c596fcb0,Callum Wilson,13,ENG,FW,26-235,90,0,0,0,0,1,0,1,0,18,0,0,0,0.1,0.1,0.5,3,0,7,12,58.3,2,16,2,0,0,Bournemouth,2018-10-20 Bournemouth-Southampton,ENG-EPL,18-19,1027bc75
+43458538,Joshua King,17,NOR,FW,26-278,84,0,0,0,0,3,0,0,0,29,1,0,0,0.6,0.6,0.0,1,0,16,20,80.0,1,24,4,0,0,Bournemouth,2018-10-20 Bournemouth-Southampton,ENG-EPL,18-19,1027bc75
+7fec31a0,Dan Gosling,4,ENG,RM,28-261,6,0,0,0,0,1,0,0,0,6,1,0,0,0.1,0.1,0.0,0,0,1,4,25.0,0,2,0,0,0,Bournemouth,2018-10-20 Bournemouth-Southampton,ENG-EPL,18-19,1027bc75
+d56543a0,Ryan Fraser,24,SCO,"LM,RM",24-238,76,0,0,0,0,0,0,0,0,37,0,0,1,0.0,0.0,0.0,1,0,20,29,69.0,2,27,3,0,0,Bournemouth,2018-10-20 Bournemouth-Southampton,ENG-EPL,18-19,1027bc75
+9f736ed2,Jordon Ibe,10,ENG,"RW,RM",22-316,14,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,4,1,2,1,Bournemouth,2018-10-20 Bournemouth-Southampton,ENG-EPL,18-19,1027bc75
+2afc7272,Lewis Cook,16,ENG,"CM,LM",21-259,90,0,0,0,0,1,0,0,0,65,1,0,0,0.1,0.1,0.0,0,0,44,59,74.6,10,46,1,4,3,Bournemouth,2018-10-20 Bournemouth-Southampton,ENG-EPL,18-19,1027bc75
+9b5ce51a,Jefferson Lerma,8,COL,CM,23-360,90,0,0,0,0,1,1,0,0,72,1,0,3,0.1,0.1,0.0,2,0,49,62,79.0,3,52,0,2,2,Bournemouth,2018-10-20 Bournemouth-Southampton,ENG-EPL,18-19,1027bc75
+dc4cae05,David Brooks,20,WAL,RM,21-104,58,0,0,0,0,1,0,0,0,27,0,0,1,0.0,0.0,0.0,0,0,14,20,70.0,2,18,0,2,1,Bournemouth,2018-10-20 Bournemouth-Southampton,ENG-EPL,18-19,1027bc75
+6992791d,Junior Stanislas,19,ENG,"LM,LW",28-328,32,0,0,0,0,0,0,0,0,15,0,0,0,0.0,0.0,0.1,2,0,5,13,38.5,2,8,2,1,0,Bournemouth,2018-10-20 Bournemouth-Southampton,ENG-EPL,18-19,1027bc75
+20b104bc,Adam Smith,15,ENG,LB,27-174,90,0,0,0,0,0,0,0,0,72,4,2,0,0.0,0.0,0.0,2,0,37,48,77.1,5,37,3,7,0,Bournemouth,2018-10-20 Bournemouth-Southampton,ENG-EPL,18-19,1027bc75
+eaeca114,Nathan Aké,5,NED,CB,23-244,90,0,0,0,0,1,1,0,0,85,0,0,1,0.0,0.0,0.0,0,0,61,75,81.3,3,56,1,0,0,Bournemouth,2018-10-20 Bournemouth-Southampton,ENG-EPL,18-19,1027bc75
+3e5e4e63,Steve Cook,3,ENG,CB,27-184,90,0,0,0,0,0,0,0,0,75,0,2,0,0.0,0.0,0.0,0,0,49,64,76.6,5,51,0,0,0,Bournemouth,2018-10-20 Bournemouth-Southampton,ENG-EPL,18-19,1027bc75
+1e0b6a73,Simon Francis,2,ENG,RB,33-246,90,0,0,0,0,0,0,0,0,85,1,1,1,0.0,0.0,0.1,3,0,51,78,65.4,2,48,0,0,0,Bournemouth,2018-10-20 Bournemouth-Southampton,ENG-EPL,18-19,1027bc75
+7b4de647,Asmir Begović,27,BIH,GK,31-122,90,0,0,0,0,0,0,0,0,39,0,0,0,0.0,0.0,0.0,0,0,31,37,83.8,0,25,0,0,0,Bournemouth,2018-10-20 Bournemouth-Southampton,ENG-EPL,18-19,1027bc75
+8d228291,Charlie Austin,10,ENG,FW,29-107,77,0,0,0,0,0,0,0,0,25,1,0,3,0.0,0.0,0.0,1,0,7,15,46.7,0,6,0,1,1,Southampton,2018-10-20 Bournemouth-Southampton,ENG-EPL,18-19,1027bc75
+9f472354,Shane Long,7,IRL,FW,31-271,13,0,0,0,0,1,1,0,0,14,0,0,0,0.1,0.1,0.0,0,0,4,6,66.7,0,5,0,0,0,Southampton,2018-10-20 Bournemouth-Southampton,ENG-EPL,18-19,1027bc75
+07802f7f,Danny Ings,9,ENG,FW,26-089,78,0,0,0,0,1,1,0,0,19,1,0,1,0.0,0.0,0.0,0,0,6,13,46.2,1,8,1,0,0,Southampton,2018-10-20 Bournemouth-Southampton,ENG-EPL,18-19,1027bc75
+8f866fe8,Manolo Gabbiadini,20,ITA,FW,26-328,12,0,0,0,0,1,0,0,0,9,0,0,0,0.3,0.3,0.0,0,0,3,5,60.0,0,2,1,0,0,Southampton,2018-10-20 Bournemouth-Southampton,ENG-EPL,18-19,1027bc75
+ab651565,Nathan Redmond,22,ENG,"RM,LM",24-228,90,0,0,0,0,1,0,0,0,61,2,0,4,0.0,0.0,0.3,3,0,24,43,55.8,5,30,3,6,1,Southampton,2018-10-20 Bournemouth-Southampton,ENG-EPL,18-19,1027bc75
+8b04d6c1,Pierre Højbjerg,23,DEN,CM,23-076,90,0,0,0,0,3,2,0,0,77,6,3,0,0.1,0.1,0.0,2,0,47,62,75.8,7,37,1,0,0,Southampton,2018-10-20 Bournemouth-Southampton,ENG-EPL,18-19,1027bc75
+2b471f99,Mario Lemina,18,GAB,CM,25-049,65,0,0,0,0,1,0,1,0,35,5,3,1,0.0,0.0,0.0,1,0,20,24,83.3,1,13,1,0,0,Southampton,2018-10-20 Bournemouth-Southampton,ENG-EPL,18-19,1027bc75
+97333cf5,Stuart Armstrong,17,SCO,CM,26-204,25,0,0,0,0,0,0,0,0,12,1,0,0,0.0,0.0,0.0,0,0,9,10,90.0,2,6,0,0,0,Southampton,2018-10-20 Bournemouth-Southampton,ENG-EPL,18-19,1027bc75
+68dc0dac,Mohamed Elyounoussi,11,NOR,"LM,RM",24-077,90,0,0,0,0,0,0,0,0,23,0,0,0,0.0,0.0,0.1,2,0,13,18,72.2,3,12,0,0,0,Southampton,2018-10-20 Bournemouth-Southampton,ENG-EPL,18-19,1027bc75
+01226327,Ryan Bertrand,21,ENG,LB,29-076,90,0,0,0,0,0,0,1,0,44,1,2,1,0.0,0.0,0.0,0,0,30,37,81.1,2,17,0,0,0,Southampton,2018-10-20 Bournemouth-Southampton,ENG-EPL,18-19,1027bc75
+875898c7,Wesley Hoedt,6,NED,CB,24-228,90,0,0,0,0,0,0,0,0,57,0,2,2,0.0,0.0,0.0,0,0,28,41,68.3,3,16,1,0,0,Southampton,2018-10-20 Bournemouth-Southampton,ENG-EPL,18-19,1027bc75
+6adbc307,Jack Stephens,5,ENG,CB,24-266,90,0,0,0,0,0,0,0,0,34,0,0,0,0.0,0.0,0.0,0,0,23,29,79.3,1,20,0,0,0,Southampton,2018-10-20 Bournemouth-Southampton,ENG-EPL,18-19,1027bc75
+839c14e1,Cédric Soares,2,POR,RB,27-050,90,0,0,0,0,0,0,0,0,59,1,4,0,0.0,0.0,0.0,2,0,35,50,70.0,2,18,3,1,1,Southampton,2018-10-20 Bournemouth-Southampton,ENG-EPL,18-19,1027bc75
+36c2ca73,Alex McCarthy,1,ENG,GK,28-321,90,0,0,0,0,0,0,0,0,31,0,0,0,0.0,0.0,0.0,0,0,15,31,48.4,0,15,0,0,0,Southampton,2018-10-20 Bournemouth-Southampton,ENG-EPL,18-19,1027bc75

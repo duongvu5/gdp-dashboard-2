@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+d5dd5f1f,Pierre-Emerick Aubameyang,14,GAB,"FW,RW",29-254,70,1,0,0,0,4,1,0,0,28,0,0,1,0.9,0.9,0.3,2,1,13,19,68.4,1,16,3,1,1,Arsenal,2019-02-27 Arsenal-Bournemouth,ENG-EPL,18-19,59600e66
+12c50af5,Denis Suárez,22,ESP,RW,25-052,20,0,0,0,0,0,0,0,0,22,1,0,0,0.0,0.0,0.0,0,0,13,15,86.7,0,14,2,3,1,Arsenal,2019-02-27 Arsenal-Bournemouth,ENG-EPL,18-19,59600e66
+dd0daf32,Henrikh Mkhitaryan,7,ARM,"AM,RW",30-037,63,1,2,0,0,1,1,0,0,50,1,0,1,0.3,0.3,1.0,7,3,34,40,85.0,8,34,2,2,0,Arsenal,2019-02-27 Arsenal-Bournemouth,ENG-EPL,18-19,59600e66
+9dbb75ca,Alexandre Lacazette,9,FRA,FW,27-275,27,1,0,0,0,2,2,0,0,12,0,0,0,0.2,0.2,0.0,0,0,5,5,100.0,0,6,1,1,1,Arsenal,2019-02-27 Arsenal-Bournemouth,ENG-EPL,18-19,59600e66
+16380240,Mesut Özil,10,GER,AM,30-135,90,1,1,0,0,2,1,0,0,81,1,1,0,0.6,0.6,0.6,8,2,67,74,90.5,8,55,3,2,1,Arsenal,2019-02-27 Arsenal-Bournemouth,ENG-EPL,18-19,59600e66
+5ea8ef20,Mattéo Guendouzi,29,FRA,"CM,DM",19-319,90,0,0,0,0,3,1,0,0,105,0,0,2,0.1,0.1,0.1,3,1,85,97,87.6,7,70,5,0,0,Arsenal,2019-02-27 Arsenal-Bournemouth,ENG-EPL,18-19,59600e66
+52611641,Lucas Torreira,11,URU,"CM,DM",23-016,90,0,0,0,0,1,0,1,0,70,1,1,2,0.0,0.0,0.0,1,1,53,64,82.8,2,41,2,0,0,Arsenal,2019-02-27 Arsenal-Bournemouth,ENG-EPL,18-19,59600e66
+3935e52e,Sead Kolašinac,31,BIH,WB,25-252,56,0,1,0,0,1,0,0,0,52,0,0,0,0.0,0.0,0.3,5,2,46,51,90.2,3,26,3,1,1,Arsenal,2019-02-27 Arsenal-Bournemouth,ENG-EPL,18-19,59600e66
+6ca5ec4b,Alex Iwobi,17,NGA,LW,22-300,34,0,0,0,0,1,0,0,0,23,0,0,1,0.1,0.1,0.0,3,0,18,19,94.7,1,15,2,0,0,Arsenal,2019-02-27 Arsenal-Bournemouth,ENG-EPL,18-19,59600e66
+874125a3,Carl Jenkinson,25,ENG,"WB,RB",27-019,90,0,0,0,0,0,0,0,0,67,2,0,2,0.0,0.0,0.0,1,0,47,59,79.7,6,27,1,0,0,Arsenal,2019-02-27 Arsenal-Bournemouth,ENG-EPL,18-19,59600e66
+d4cb83cc,Nacho Monreal,18,ESP,"CB,LB",33-001,90,0,0,0,0,0,0,0,0,92,0,2,3,0.0,0.0,0.0,0,0,75,83,90.4,5,45,2,0,0,Arsenal,2019-02-27 Arsenal-Bournemouth,ENG-EPL,18-19,59600e66
+f5efb153,Laurent Koscielny,6,FRA,CB,33-170,90,1,0,0,0,1,1,0,0,80,1,4,1,0.2,0.2,0.0,0,0,65,70,92.9,0,48,0,0,0,Arsenal,2019-02-27 Arsenal-Bournemouth,ENG-EPL,18-19,59600e66
+b682dcf6,Sokratis Papastathopoulos,5,GRE,CB,30-263,90,0,0,0,0,0,0,1,0,72,0,0,2,0.0,0.0,0.0,0,0,59,66,89.4,0,37,0,0,0,Arsenal,2019-02-27 Arsenal-Bournemouth,ENG-EPL,18-19,59600e66
+2628fd2b,Bernd Leno,19,GER,GK,26-360,90,0,0,0,0,0,0,0,0,34,0,0,0,0.0,0.0,0.0,0,0,26,32,81.3,0,15,0,0,0,Arsenal,2019-02-27 Arsenal-Bournemouth,ENG-EPL,18-19,59600e66
+d9cfca3d,Lys Mousset,9,FRA,FW,23-019,90,1,0,0,0,1,1,0,0,33,1,1,0,0.3,0.3,0.0,2,0,16,20,80.0,2,17,0,0,0,Bournemouth,2019-02-27 Arsenal-Bournemouth,ENG-EPL,18-19,59600e66
+43458538,Joshua King,17,NOR,"FW,AM",27-043,90,0,0,0,0,3,1,1,0,39,4,1,2,0.2,0.2,0.1,4,0,19,26,73.1,2,28,3,4,3,Bournemouth,2019-02-27 Arsenal-Bournemouth,ENG-EPL,18-19,59600e66
+d56543a0,Ryan Fraser,24,SCO,"LM,AM",25-003,79,0,0,0,0,2,2,0,0,35,1,0,1,0.1,0.1,0.0,3,0,22,28,78.6,0,23,2,0,0,Bournemouth,2019-02-27 Arsenal-Bournemouth,ENG-EPL,18-19,59600e66
+b017b770,Sam Surridge,44,ENG,AM,20-214,11,0,0,0,0,1,0,0,0,5,1,0,0,0.1,0.1,0.0,1,0,2,3,66.7,0,5,0,0,0,Bournemouth,2019-02-27 Arsenal-Bournemouth,ENG-EPL,18-19,59600e66
+7d41b619,Andrew Surman,6,ENG,CM,32-191,90,0,0,0,0,0,0,0,0,67,1,2,2,0.0,0.0,0.0,2,0,49,58,84.5,5,31,1,0,0,Bournemouth,2019-02-27 Arsenal-Bournemouth,ENG-EPL,18-19,59600e66
+7fec31a0,Dan Gosling,4,ENG,CM,29-026,90,0,1,0,0,3,1,0,0,51,3,0,3,0.1,0.1,0.3,3,2,30,40,75.0,4,34,0,3,2,Bournemouth,2019-02-27 Arsenal-Bournemouth,ENG-EPL,18-19,59600e66
+9f736ed2,Jordon Ibe,10,ENG,RM,23-081,55,0,0,0,0,1,0,0,0,16,0,0,0,0.1,0.1,0.0,0,0,9,11,81.8,1,17,4,0,0,Bournemouth,2019-02-27 Arsenal-Bournemouth,ENG-EPL,18-19,59600e66
+9d107085,Charlie Daniels,11,ENG,CB,32-173,35,0,0,0,0,1,0,1,0,17,0,0,0,0.0,0.0,0.0,1,0,13,15,86.7,0,13,0,1,0,Bournemouth,2019-02-27 Arsenal-Bournemouth,ENG-EPL,18-19,59600e66
+20b104bc,Adam Smith,15,ENG,"LB,WB",27-304,69,0,0,0,0,0,0,0,0,52,3,2,1,0.0,0.0,0.1,2,0,30,34,88.2,4,26,2,1,1,Bournemouth,2019-02-27 Arsenal-Bournemouth,ENG-EPL,18-19,59600e66
+d9ba39fc,Diego Rico,21,ESP,WB,26-004,21,0,0,0,0,1,0,0,0,21,0,0,2,0.1,0.1,0.0,3,0,10,17,58.8,3,7,1,0,0,Bournemouth,2019-02-27 Arsenal-Bournemouth,ENG-EPL,18-19,59600e66
+eaeca114,Nathan Aké,5,NED,CB,24-009,90,0,0,0,0,0,0,0,0,36,0,0,1,0.0,0.0,0.0,0,0,25,31,80.6,1,20,0,0,0,Bournemouth,2019-02-27 Arsenal-Bournemouth,ENG-EPL,18-19,59600e66
+fed96827,Chris Mepham,33,WAL,CB,21-114,90,0,0,0,0,0,0,0,0,46,0,1,4,0.0,0.0,0.0,0,0,31,36,86.1,2,28,1,0,0,Bournemouth,2019-02-27 Arsenal-Bournemouth,ENG-EPL,18-19,59600e66
+0442183b,Nathaniel Clyne,23,ENG,"RB,WB",27-328,90,0,0,0,0,0,0,0,0,50,2,0,1,0.0,0.0,0.1,1,0,34,44,77.3,2,27,1,0,0,Bournemouth,2019-02-27 Arsenal-Bournemouth,ENG-EPL,18-19,59600e66
+34ccf6fa,Artur Boruc,1,POL,GK,39-007,90,0,0,0,0,0,0,0,0,24,0,0,0,0.0,0.0,0.0,1,0,11,22,50.0,0,13,0,0,0,Bournemouth,2019-02-27 Arsenal-Bournemouth,ENG-EPL,18-19,59600e66

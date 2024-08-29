@@ -1,0 +1,29 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+9dbb75ca,Alexandre Lacazette,9,FRA,FW,27-159,90,1,0,0,0,4,2,1,0,32,1,1,0,0.7,0.7,0.1,1,0,17,21,81.0,1,27,0,1,0,Arsenal,2018-11-03 Arsenal-Liverpool,ENG-EPL,18-19,09767606
+d5dd5f1f,Pierre-Emerick Aubameyang,14,GAB,LW,29-138,72,0,0,0,0,3,0,0,0,21,0,0,1,0.2,0.2,0.2,2,0,6,12,50.0,1,16,2,0,0,Arsenal,2018-11-03 Arsenal-Liverpool,ENG-EPL,18-19,09767606
+ef619b0b,Aaron Ramsey,8,WAL,AM,27-312,18,0,0,0,0,0,0,0,0,12,0,0,0,0.0,0.0,0.0,0,0,11,12,91.7,1,11,0,0,0,Arsenal,2018-11-03 Arsenal-Liverpool,ENG-EPL,18-19,09767606
+dd0daf32,Henrikh Mkhitaryan,7,ARM,RW,29-286,67,0,0,0,0,1,0,0,0,50,1,0,1,0.2,0.2,0.1,3,0,27,40,67.5,2,33,3,2,0,Arsenal,2018-11-03 Arsenal-Liverpool,ENG-EPL,18-19,09767606
+6ca5ec4b,Alex Iwobi,17,NGA,"LB,LW,RW",22-184,23,0,1,0,0,0,0,0,0,28,0,0,3,0.0,0.0,0.1,2,1,18,24,75.0,5,17,1,2,2,Arsenal,2018-11-03 Arsenal-Liverpool,ENG-EPL,18-19,09767606
+16380240,Mesut Özil,10,GER,"AM,RW",30-019,90,0,0,0,0,0,0,0,0,53,0,0,1,0.0,0.0,0.3,5,0,40,49,81.6,7,47,3,2,1,Arsenal,2018-11-03 Arsenal-Liverpool,ENG-EPL,18-19,09767606
+e61b8aee,Granit Xhaka,34,SUI,DM,26-037,90,0,0,0,0,1,1,0,0,117,5,2,0,0.0,0.0,0.1,4,0,88,106,83.0,18,83,1,0,0,Arsenal,2018-11-03 Arsenal-Liverpool,ENG-EPL,18-19,09767606
+52611641,Lucas Torreira,11,URU,DM,22-265,90,0,0,0,0,1,1,0,0,72,2,1,1,0.0,0.0,0.0,2,1,57,64,89.1,5,55,0,1,1,Arsenal,2018-11-03 Arsenal-Liverpool,ENG-EPL,18-19,09767606
+3935e52e,Sead Kolašinac,31,BIH,LB,25-136,80,0,0,0,0,0,0,0,0,61,2,0,0,0.0,0.0,0.5,4,0,42,52,80.8,2,35,5,0,0,Arsenal,2018-11-03 Arsenal-Liverpool,ENG-EPL,18-19,09767606
+ce5143da,Danny Welbeck,23,ENG,LW,27-342,10,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,2,4,50.0,0,5,1,1,0,Arsenal,2018-11-03 Arsenal-Liverpool,ENG-EPL,18-19,09767606
+d79a8c87,Rob Holding,16,ENG,CB,23-044,90,0,0,0,0,0,0,0,0,96,4,2,0,0.0,0.0,0.0,0,0,74,81,91.4,2,75,2,0,0,Arsenal,2018-11-03 Arsenal-Liverpool,ENG-EPL,18-19,09767606
+3f2d59fe,Shkodran Mustafi,20,GER,CB,26-200,90,0,0,0,0,0,0,0,0,101,4,5,2,0.0,0.0,0.0,0,0,75,81,92.6,11,74,1,0,0,Arsenal,2018-11-03 Arsenal-Liverpool,ENG-EPL,18-19,09767606
+f874dd44,Héctor Bellerín,2,ESP,RB,23-229,90,0,0,0,0,2,0,0,0,75,1,1,2,0.1,0.1,0.0,1,0,53,64,82.8,5,50,4,2,1,Arsenal,2018-11-03 Arsenal-Liverpool,ENG-EPL,18-19,09767606
+2628fd2b,Bernd Leno,19,GER,GK,26-244,90,0,0,0,0,0,0,0,0,37,0,0,0,0.0,0.0,0.0,0,0,29,33,87.9,0,23,0,0,0,Arsenal,2018-11-03 Arsenal-Liverpool,ENG-EPL,18-19,09767606
+4c370d81,Roberto Firmino,9,BRA,FW,27-032,79,0,0,0,0,3,0,0,0,29,0,0,1,0.4,0.4,0.0,1,0,15,20,75.0,1,22,0,3,0,Liverpool,2018-11-03 Arsenal-Liverpool,ENG-EPL,18-19,09767606
+6421ec64,Xherdan Shaqiri,23,SUI,FW,27-024,11,0,0,0,0,0,0,0,0,4,1,0,0,0.0,0.0,0.1,1,0,1,3,33.3,0,2,1,0,0,Liverpool,2018-11-03 Arsenal-Liverpool,ENG-EPL,18-19,09767606
+c691bfe2,Sadio Mané,10,SEN,"LM,LW",26-207,90,0,0,0,0,1,0,0,0,34,1,0,1,0.1,0.1,0.0,2,0,15,24,62.5,2,25,2,5,3,Liverpool,2018-11-03 Arsenal-Liverpool,ENG-EPL,18-19,09767606
+e342ad68,Mohamed Salah,11,EGY,"FW,RW",26-141,89,0,0,0,0,3,0,0,0,40,0,0,0,0.1,0.1,0.6,5,0,21,29,72.4,2,29,6,5,4,Liverpool,2018-11-03 Arsenal-Liverpool,ENG-EPL,18-19,09767606
+b217ef29,Joël Matip,32,CMR,DM,27-087,1,0,0,0,0,0,0,0,0,1,1,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Liverpool,2018-11-03 Arsenal-Liverpool,ENG-EPL,18-19,09767606
+2f90f6b8,James Milner,7,ENG,"RM,LM",32-303,90,1,0,0,0,1,1,0,0,57,3,2,3,0.1,0.1,0.1,5,0,30,42,71.4,3,30,1,0,0,Liverpool,2018-11-03 Arsenal-Liverpool,ENG-EPL,18-19,09767606
+7f3b388c,Fabinho,3,BRA,CM,25-011,90,0,0,0,0,0,0,1,0,43,3,2,4,0.0,0.0,0.0,2,0,21,26,80.8,2,17,1,0,0,Liverpool,2018-11-03 Arsenal-Liverpool,ENG-EPL,18-19,09767606
+eb58eef0,Georginio Wijnaldum,5,NED,"CM,RM",27-357,90,0,0,0,0,1,0,0,0,31,0,2,0,0.1,0.1,0.0,1,0,25,28,89.3,1,22,0,1,1,Liverpool,2018-11-03 Arsenal-Liverpool,ENG-EPL,18-19,09767606
+2e4f5f03,Andrew Robertson,26,SCO,LB,24-237,90,0,0,0,0,1,1,0,0,80,1,0,1,0.0,0.0,0.0,1,1,51,73,69.9,4,50,4,1,1,Liverpool,2018-11-03 Arsenal-Liverpool,ENG-EPL,18-19,09767606
+e06683ca,Virgil van Dijk,4,NED,CB,27-118,90,0,0,0,0,3,2,0,0,50,1,1,2,0.6,0.6,0.0,1,1,34,36,94.4,1,31,0,1,1,Liverpool,2018-11-03 Arsenal-Liverpool,ENG-EPL,18-19,09767606
+7a11550b,Joe Gomez,12,ENG,CB,21-164,90,0,0,0,0,0,0,0,0,51,0,1,1,0.0,0.0,0.0,1,0,34,41,82.9,2,34,0,0,0,Liverpool,2018-11-03 Arsenal-Liverpool,ENG-EPL,18-19,09767606
+cd1acf9d,Trent Alexander-Arnold,66,ENG,RB,20-027,90,0,0,0,0,0,0,0,0,68,2,0,1,0.0,0.0,0.4,5,0,31,52,59.6,6,36,1,4,3,Liverpool,2018-11-03 Arsenal-Liverpool,ENG-EPL,18-19,09767606
+7a2e46a8,Alisson,13,BRA,GK,26-032,90,0,0,0,0,0,0,0,0,33,0,0,0,0.0,0.0,0.0,0,0,25,31,80.6,0,16,0,0,0,Liverpool,2018-11-03 Arsenal-Liverpool,ENG-EPL,18-19,09767606

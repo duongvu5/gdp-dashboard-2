@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+d5dd5f1f,Pierre-Emerick Aubameyang,14,GAB,FW,29-321,90,1,0,1,1,4,2,0,0,38,0,0,1,1.5,0.7,0.1,2,0,19,27,70.4,3,26,6,5,3,Arsenal,2019-05-05 Arsenal-Brighton,ENG-EPL,18-19,0fdf10d7
+9dbb75ca,Alexandre Lacazette,9,FRA,FW,27-342,90,0,0,0,0,7,1,0,0,47,2,0,1,0.6,0.6,0.0,5,0,19,28,67.9,2,25,3,8,4,Arsenal,2019-05-05 Arsenal-Brighton,ENG-EPL,18-19,0fdf10d7
+16380240,Mesut Özil,10,GER,AM,30-202,90,0,0,0,0,0,0,0,0,69,0,0,0,0.0,0.0,0.2,7,0,57,66,86.4,12,44,7,3,3,Arsenal,2019-05-05 Arsenal-Brighton,ENG-EPL,18-19,0fdf10d7
+dd0daf32,Henrikh Mkhitaryan,7,ARM,LM,30-104,76,0,0,0,0,2,1,0,0,60,0,1,0,0.1,0.1,0.3,5,0,45,52,86.5,6,33,6,1,1,Arsenal,2019-05-05 Arsenal-Brighton,ENG-EPL,18-19,0fdf10d7
+5ea8ef20,Mattéo Guendouzi,29,FRA,CM,20-021,14,0,0,0,0,0,0,1,0,20,0,0,2,0.0,0.0,0.0,2,0,13,18,72.2,5,11,3,0,0,Arsenal,2019-05-05 Arsenal-Brighton,ENG-EPL,18-19,0fdf10d7
+e61b8aee,Granit Xhaka,34,SUI,CM,26-220,76,0,0,0,0,2,0,1,0,112,2,0,1,0.1,0.1,0.2,7,0,85,106,80.2,17,50,3,0,0,Arsenal,2019-05-05 Arsenal-Brighton,ENG-EPL,18-19,0fdf10d7
+6ca5ec4b,Alex Iwobi,17,NGA,WB,23-002,14,0,0,0,0,0,0,0,0,17,0,0,0,0.0,0.0,0.1,1,0,6,16,37.5,1,13,5,1,0,Arsenal,2019-05-05 Arsenal-Brighton,ENG-EPL,18-19,0fdf10d7
+52611641,Lucas Torreira,11,URU,"RM,CM",23-083,90,0,0,0,0,2,0,0,0,65,2,2,0,0.0,0.0,0.0,2,0,48,51,94.1,9,39,4,0,0,Arsenal,2019-05-05 Arsenal-Brighton,ENG-EPL,18-19,0fdf10d7
+d4cb83cc,Nacho Monreal,18,ESP,"LB,CB",33-068,90,0,0,0,0,0,0,0,0,62,0,2,0,0.0,0.0,0.0,4,2,44,54,81.5,5,24,1,2,2,Arsenal,2019-05-05 Arsenal-Brighton,ENG-EPL,18-19,0fdf10d7
+b682dcf6,Sokratis Papastathopoulos,5,GRE,CB,30-330,90,0,0,0,0,0,0,1,0,76,3,1,1,0.0,0.0,0.0,1,0,59,64,92.2,3,36,0,1,1,Arsenal,2019-05-05 Arsenal-Brighton,ENG-EPL,18-19,0fdf10d7
+3f2d59fe,Shkodran Mustafi,20,GER,CB,27-018,90,0,0,0,0,2,2,1,0,84,1,0,1,0.1,0.1,0.0,1,0,62,72,86.1,9,42,6,2,1,Arsenal,2019-05-05 Arsenal-Brighton,ENG-EPL,18-19,0fdf10d7
+99b1d0e6,Stephan Lichtsteiner,12,SUI,RB,35-109,76,0,0,0,0,0,0,1,0,51,1,2,0,0.0,0.0,0.0,0,0,36,45,80.0,3,22,2,0,0,Arsenal,2019-05-05 Arsenal-Brighton,ENG-EPL,18-19,0fdf10d7
+3935e52e,Sead Kolašinac,31,BIH,WB,25-319,14,0,0,0,0,0,0,0,0,11,0,1,0,0.0,0.0,0.0,1,0,8,10,80.0,0,3,1,0,0,Arsenal,2019-05-05 Arsenal-Brighton,ENG-EPL,18-19,0fdf10d7
+2628fd2b,Bernd Leno,19,GER,GK,27-062,90,0,0,0,0,0,0,0,0,29,0,0,0,0.0,0.0,0.0,0,0,22,27,81.5,2,13,0,0,0,Arsenal,2019-05-05 Arsenal-Brighton,ENG-EPL,18-19,0fdf10d7
+f2f29dda,Glenn Murray,17,ENG,FW,35-222,77,1,0,1,1,2,1,0,0,21,0,0,0,0.9,0.1,0.1,1,0,6,16,37.5,0,10,1,0,0,Brighton & Hove Albion,2019-05-05 Arsenal-Brighton,ENG-EPL,18-19,0fdf10d7
+dc008610,Florin Andone,10,ROU,FW,26-024,13,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,1,3,33.3,0,6,1,3,1,Brighton & Hove Albion,2019-05-05 Arsenal-Brighton,ENG-EPL,18-19,0fdf10d7
+bb5fbd2b,Solly March,20,ENG,LW,24-289,90,0,0,0,0,3,2,0,0,42,2,0,1,0.5,0.5,0.1,4,1,14,28,50.0,1,29,5,0,0,Brighton & Hove Albion,2019-05-05 Arsenal-Brighton,ENG-EPL,18-19,0fdf10d7
+08452314,Alireza Jahanbakhsh,16,IRN,RW,25-267,45,0,0,0,0,0,0,0,0,16,0,0,0,0.0,0.0,0.1,1,0,6,8,75.0,0,10,0,1,0,Brighton & Hove Albion,2019-05-05 Arsenal-Brighton,ENG-EPL,18-19,0fdf10d7
+6c679c6d,Anthony Knockaert,11,FRA,RW,27-166,45,0,0,0,0,1,1,0,0,18,0,3,0,0.0,0.0,0.0,1,0,5,11,45.5,2,10,2,0,0,Brighton & Hove Albion,2019-05-05 Arsenal-Brighton,ENG-EPL,18-19,0fdf10d7
+6c203af0,Yves Bissouma,8,MLI,CM,22-248,90,0,0,0,0,1,0,0,0,51,3,1,3,0.0,0.0,0.1,5,0,21,28,75.0,5,27,4,6,5,Brighton & Hove Albion,2019-05-05 Arsenal-Brighton,ENG-EPL,18-19,0fdf10d7
+653ee42d,Dale Stephens,6,ENG,CM,29-327,90,0,0,0,0,0,0,0,0,44,4,2,1,0.0,0.0,0.0,1,0,27,30,90.0,1,16,0,1,1,Brighton & Hove Albion,2019-05-05 Arsenal-Brighton,ENG-EPL,18-19,0fdf10d7
+8aec0537,Pascal Groß,13,GER,CM,27-324,89,0,0,0,0,2,0,1,0,37,1,0,1,0.6,0.6,0.4,3,0,22,28,78.6,4,21,0,0,0,Brighton & Hove Albion,2019-05-05 Arsenal-Brighton,ENG-EPL,18-19,0fdf10d7
+26679cdf,Beram Kayal,7,ISR,CM,31-003,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Brighton & Hove Albion,2019-05-05 Arsenal-Brighton,ENG-EPL,18-19,0fdf10d7
+17370b95,Bernardo,30,BRA,LB,23-356,90,0,0,0,0,1,0,0,0,54,5,1,1,0.0,0.0,0.0,0,0,24,39,61.5,7,23,5,0,0,Brighton & Hove Albion,2019-05-05 Arsenal-Brighton,ENG-EPL,18-19,0fdf10d7
+282f75f3,Lewis Dunk,5,ENG,CB,27-165,90,0,0,0,0,0,0,1,0,21,1,2,2,0.0,0.0,0.0,0,0,6,8,75.0,0,4,0,0,0,Brighton & Hove Albion,2019-05-05 Arsenal-Brighton,ENG-EPL,18-19,0fdf10d7
+7314bba4,Shane Duffy,4,IRL,CB,27-124,90,0,0,0,0,0,0,0,0,46,5,1,5,0.0,0.0,0.0,2,0,17,21,81.0,0,16,0,0,0,Brighton & Hove Albion,2019-05-05 Arsenal-Brighton,ENG-EPL,18-19,0fdf10d7
+78803d03,Bruno,2,ESP,RB,38-216,90,0,0,0,0,0,0,0,0,37,1,0,1,0.0,0.0,0.0,0,0,24,29,82.8,0,20,0,0,0,Brighton & Hove Albion,2019-05-05 Arsenal-Brighton,ENG-EPL,18-19,0fdf10d7
+4535e4bb,Mathew Ryan,1,AUS,GK,27-027,90,0,0,0,0,0,0,0,0,33,0,0,0,0.0,0.0,0.0,0,0,16,28,57.1,0,13,0,0,0,Brighton & Hove Albion,2019-05-05 Arsenal-Brighton,ENG-EPL,18-19,0fdf10d7
