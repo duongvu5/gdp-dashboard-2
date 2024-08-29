@@ -1,0 +1,29 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+0d4ceb32,Matěj Vydra,27,CZE,FW,28-055,90,0,0,0,0,2,1,0,0,20,0,0,0,0.2,0.2,0.1,2,0,10,13,76.9,0,15,1,3,1,Burnley,2020-06-25 Burnley-Watford,ENG-EPL,19-20,965fbb94
+4ab53cdb,Jay Rodriguez,19,ENG,FW,30-332,80,1,0,0,0,4,3,0,0,33,1,0,0,0.4,0.4,0.0,3,0,16,21,76.2,1,18,2,2,0,Burnley,2020-06-25 Burnley-Watford,ENG-EPL,19-20,965fbb94
+1ef37668,Erik Pieters,23,NED,LM,31-323,10,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,0,0,4,9,44.4,0,6,0,0,0,Burnley,2020-06-25 Burnley-Watford,ENG-EPL,19-20,965fbb94
+fc15fb84,Dwight McNeil,11,ENG,"LM,FW",20-216,90,0,1,0,0,1,0,1,0,65,0,1,5,0.0,0.0,0.3,2,1,41,53,77.4,7,39,3,2,1,Burnley,2020-06-25 Burnley-Watford,ENG-EPL,19-20,965fbb94
+74e12f1e,Jack Cork,4,ENG,CM,31-000,90,0,0,0,0,0,0,0,0,48,1,3,0,0.0,0.0,0.0,1,0,34,42,81.0,2,24,0,0,0,Burnley,2020-06-25 Burnley-Watford,ENG-EPL,19-20,965fbb94
+495945ef,Ashley Westwood,18,ENG,CM,30-085,90,0,0,0,0,0,0,0,0,75,0,0,0,0.0,0.0,0.2,2,0,56,69,81.2,5,46,0,2,0,Burnley,2020-06-25 Burnley-Watford,ENG-EPL,19-20,965fbb94
+47369df8,Josh Brownhill,8,ENG,RM,24-189,90,0,0,0,0,2,0,0,0,44,1,2,0,0.3,0.3,0.0,1,1,23,33,69.7,3,16,0,1,1,Burnley,2020-06-25 Burnley-Watford,ENG-EPL,19-20,965fbb94
+cc2d7ad5,Charlie Taylor,3,ENG,LB,26-281,90,0,0,0,0,0,0,0,0,60,3,2,1,0.0,0.0,0.0,0,0,33,46,71.7,3,20,2,0,0,Burnley,2020-06-25 Burnley-Watford,ENG-EPL,19-20,965fbb94
+8df7a2fb,Ben Mee,6,ENG,CB,30-278,90,0,0,0,0,0,0,0,0,63,1,0,0,0.0,0.0,0.1,1,0,33,47,70.2,0,35,1,0,0,Burnley,2020-06-25 Burnley-Watford,ENG-EPL,19-20,965fbb94
+15ea812b,James Tarkowski,5,ENG,CB,27-219,90,0,0,0,0,0,0,0,0,60,2,1,0,0.0,0.0,0.0,1,0,33,52,63.5,2,21,0,0,0,Burnley,2020-06-25 Burnley-Watford,ENG-EPL,19-20,965fbb94
+9a9c05db,Matthew Lowton,2,ENG,RB,31-016,90,0,0,0,0,0,0,0,0,61,2,1,0,0.0,0.0,0.0,1,0,32,48,66.7,1,29,0,2,1,Burnley,2020-06-25 Burnley-Watford,ENG-EPL,19-20,965fbb94
+4b40d9ca,Nick Pope,1,ENG,GK,28-067,90,0,0,0,0,0,0,0,0,38,0,0,0,0.0,0.0,0.0,0,0,16,35,45.7,0,25,0,0,0,Burnley,2020-06-25 Burnley-Watford,ENG-EPL,19-20,965fbb94
+ce5143da,Danny Welbeck,10,ENG,"LM,FW",29-212,90,0,0,0,0,0,0,0,0,26,2,0,2,0.0,0.0,0.0,0,0,16,20,80.0,0,18,0,1,0,Watford,2020-06-25 Burnley-Watford,ENG-EPL,19-20,965fbb94
+82e34b69,Troy Deeney,9,ENG,FW,31-362,84,0,0,0,0,1,0,0,0,29,1,0,1,0.1,0.1,0.0,5,0,9,24,37.5,2,13,0,0,0,Watford,2020-06-25 Burnley-Watford,ENG-EPL,19-20,965fbb94
+c24dba2a,Andre Gray,18,JAM,FW,28-365,6,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,0,0,0,0,Watford,2020-06-25 Burnley-Watford,ENG-EPL,19-20,965fbb94
+6cdd8245,Tom Cleverley,8,ENG,LM,30-318,45,0,0,0,0,0,0,0,0,17,0,0,0,0.0,0.0,0.1,1,0,12,19,63.2,0,6,0,0,0,Watford,2020-06-25 Burnley-Watford,ENG-EPL,19-20,965fbb94
+02b29014,Abdoulaye Doucouré,16,MLI,FW,27-176,45,0,0,0,0,0,0,0,0,25,0,0,0,0.0,0.0,0.0,1,0,18,24,75.0,4,12,0,1,1,Watford,2020-06-25 Burnley-Watford,ENG-EPL,19-20,965fbb94
+5acc4a10,Étienne Capoue,29,FRA,CM,31-350,90,0,0,0,0,1,0,0,0,54,2,1,1,0.1,0.1,0.3,3,0,29,44,65.9,4,16,1,0,0,Watford,2020-06-25 Burnley-Watford,ENG-EPL,19-20,965fbb94
+a0666d3e,Will Hughes,19,ENG,CM,25-069,82,0,0,0,0,2,0,0,0,37,4,0,0,0.1,0.1,0.0,1,0,17,27,63.0,0,13,0,0,0,Watford,2020-06-25 Burnley-Watford,ENG-EPL,19-20,965fbb94
+422862ea,Nathaniel Chalobah,14,ENG,CM,25-196,8,0,0,0,0,0,0,0,0,4,1,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,3,0,0,0,Watford,2020-06-25 Burnley-Watford,ENG-EPL,19-20,965fbb94
+bfdb33aa,Ismaila Sarr,23,SEN,RM,22-121,90,0,0,0,0,0,0,0,0,22,1,1,0,0.0,0.0,0.0,1,0,11,18,61.1,2,17,2,2,1,Watford,2020-06-25 Burnley-Watford,ENG-EPL,19-20,965fbb94
+de0f152c,Adam Masina,11,MAR,LB,26-175,90,0,0,0,0,2,0,0,0,75,2,1,0,0.2,0.2,0.0,1,0,27,61,44.3,5,26,0,1,0,Watford,2020-06-25 Burnley-Watford,ENG-EPL,19-20,965fbb94
+3e9e06cb,Craig Dawson,4,ENG,CB,30-050,90,0,0,0,0,3,2,0,0,37,1,1,1,0.2,0.2,0.0,0,0,18,25,72.0,1,12,1,0,0,Watford,2020-06-25 Burnley-Watford,ENG-EPL,19-20,965fbb94
+914ab9a1,Christian Kabasele,27,BEL,CB,29-122,45,0,0,0,0,0,0,0,0,15,0,0,0,0.0,0.0,0.0,0,0,7,12,58.3,0,2,0,0,0,Watford,2020-06-25 Burnley-Watford,ENG-EPL,19-20,965fbb94
+89e4b358,Craig Cathcart,15,NIR,CB,31-140,45,0,0,0,0,1,1,0,0,22,0,0,0,0.1,0.1,0.0,0,0,12,21,57.1,0,9,0,0,0,Watford,2020-06-25 Burnley-Watford,ENG-EPL,19-20,965fbb94
+e5d01ecf,Kiko Femenía,21,ESP,RB,29-144,90,0,0,0,0,0,0,0,0,70,2,0,1,0.0,0.0,0.0,1,0,46,67,68.7,5,30,4,2,2,Watford,2020-06-25 Burnley-Watford,ENG-EPL,19-20,965fbb94
+d0b3ceb9,Ben Foster,26,ENG,GK,37-083,90,0,0,0,0,0,0,0,0,34,0,0,0,0.0,0.0,0.0,0,0,11,32,34.4,0,19,0,0,0,Watford,2020-06-25 Burnley-Watford,ENG-EPL,19-20,965fbb94

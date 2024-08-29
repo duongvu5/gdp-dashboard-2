@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+ba115a40,Sébastien Haller,22,CIV,FW,25-070,90,1,0,0,0,4,2,0,0,51,3,0,1,1.0,1.0,0.0,1,0,23,37,62.2,2,22,3,3,2,West Ham United,2019-08-31 West Ham-Norwich City,ENG-EPL,19-20,164148a8
+9f1893b9,Felipe Anderson,8,BRA,"LM,LW",26-138,87,0,0,0,0,3,1,0,0,82,3,1,1,0.1,0.1,0.2,9,1,59,72,81.9,10,61,11,8,7,West Ham United,2019-08-31 West Ham-Norwich City,ENG-EPL,19-20,164148a8
+82927de4,Pablo Fornals,18,ESP,LW,23-190,3,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,1,0,5,5,100.0,1,4,1,1,1,West Ham United,2019-08-31 West Ham-Norwich City,ENG-EPL,19-20,164148a8
+26f6dca8,Manuel Lanzini,10,ARG,"CM,AM",26-197,90,0,0,0,0,4,1,0,0,68,0,2,0,0.4,0.4,0.1,8,0,49,57,86.0,3,37,5,6,5,West Ham United,2019-08-31 West Ham-Norwich City,ENG-EPL,19-20,164148a8
+ff527768,Mark Noble,16,ENG,CM,32-115,84,0,0,0,0,0,0,0,0,64,5,0,0,0.0,0.0,0.0,3,0,47,56,83.9,7,40,2,3,2,West Ham United,2019-08-31 West Ham-Norwich City,ENG-EPL,19-20,164148a8
+50b51fac,Carlos Sánchez,15,COL,DM,33-206,6,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,6,6,100.0,1,4,0,0,0,West Ham United,2019-08-31 West Ham-Norwich City,ENG-EPL,19-20,164148a8
+849c826a,Andriy Yarmolenko,7,UKR,RM,29-312,70,1,0,0,0,3,1,0,0,37,1,0,0,0.2,0.2,0.1,4,2,26,28,92.9,1,26,3,1,1,West Ham United,2019-08-31 West Ham-Norwich City,ENG-EPL,19-20,164148a8
+9f4647e9,Robert Snodgrass,11,SCO,"RM,RW",31-358,20,0,0,0,0,1,1,1,0,22,0,0,0,0.1,0.1,0.0,2,0,15,19,78.9,2,12,2,1,0,West Ham United,2019-08-31 West Ham-Norwich City,ENG-EPL,19-20,164148a8
+1c7012b8,Declan Rice,41,ENG,DM,20-229,90,0,0,0,0,1,0,0,0,43,5,3,1,0.0,0.0,0.0,1,0,29,33,87.9,2,22,1,1,1,West Ham United,2019-08-31 West Ham-Norwich City,ENG-EPL,19-20,164148a8
+57df7a11,Arthur Masuaku,26,COD,LB,25-297,90,0,1,0,0,0,0,0,0,75,6,2,2,0.0,0.0,0.8,2,1,54,60,90.0,3,39,3,3,2,West Ham United,2019-08-31 West Ham-Norwich City,ENG-EPL,19-20,164148a8
+74b2cd7e,Angelo Ogbonna,21,ITA,CB,31-100,90,0,0,0,0,0,0,0,0,32,4,0,0,0.0,0.0,0.0,0,0,20,26,76.9,0,18,0,0,0,West Ham United,2019-08-31 West Ham-Norwich City,ENG-EPL,19-20,164148a8
+a712ca2b,Issa Diop,23,FRA,CB,22-234,90,0,0,0,0,2,1,0,0,42,0,2,2,0.2,0.2,0.0,1,0,27,31,87.1,4,24,0,1,1,West Ham United,2019-08-31 West Ham-Norwich City,ENG-EPL,19-20,164148a8
+c067631c,Ryan Fredericks,24,ENG,RB,26-325,90,0,0,0,0,0,0,1,0,55,2,1,0,0.0,0.0,0.1,1,0,31,47,66.0,4,24,6,0,0,West Ham United,2019-08-31 West Ham-Norwich City,ENG-EPL,19-20,164148a8
+9328b835,Łukasz Fabiański,1,POL,GK,34-135,90,0,0,0,0,0,0,0,0,31,0,0,0,0.0,0.0,0.0,0,0,25,31,80.6,0,13,0,0,0,West Ham United,2019-08-31 West Ham-Norwich City,ENG-EPL,19-20,164148a8
+0745b37d,Teemu Pukki,22,FIN,FW,29-155,90,0,0,0,0,2,2,0,0,12,2,0,0,0.1,0.1,0.0,1,0,6,8,75.0,1,8,1,1,1,Norwich City,2019-08-31 West Ham-Norwich City,ENG-EPL,19-20,164148a8
+f63d8a4b,Todd Cantwell,14,ENG,LW,21-185,77,0,0,0,0,2,0,0,0,39,1,1,0,0.6,0.6,0.0,0,0,25,32,78.1,3,30,2,2,2,Norwich City,2019-08-31 West Ham-Norwich City,ENG-EPL,19-20,164148a8
+471f16b3,Kenny McLean,23,SCO,WB,27-235,13,0,0,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.6,2,0,9,10,90.0,1,9,0,1,1,Norwich City,2019-08-31 West Ham-Norwich City,ENG-EPL,19-20,164148a8
+66b76d44,Emi Buendía,17,ARG,"RW,AM",22-249,90,0,0,0,0,0,0,0,0,82,0,1,5,0.0,0.0,0.0,2,0,50,67,74.6,8,52,1,3,2,Norwich City,2019-08-31 West Ham-Norwich City,ENG-EPL,19-20,164148a8
+b606638c,Marco Stiepermann,18,GER,AM,28-203,76,0,0,0,0,2,1,0,0,38,3,0,0,0.1,0.1,0.0,0,0,23,29,79.3,2,29,3,2,1,Norwich City,2019-08-31 West Ham-Norwich City,ENG-EPL,19-20,164148a8
+15ea94de,Josip Drmić,20,SUI,FW,27-023,14,0,0,0,0,1,0,0,0,9,1,0,0,0.5,0.5,0.0,0,0,5,6,83.3,0,4,0,0,0,Norwich City,2019-08-31 West Ham-Norwich City,ENG-EPL,19-20,164148a8
+9460aaed,Moritz Leitner,10,GER,"DM,CM",26-266,90,0,0,0,0,0,0,0,0,106,2,1,4,0.0,0.0,0.0,1,0,76,93,81.7,12,71,5,1,1,Norwich City,2019-08-31 West Ham-Norwich City,ENG-EPL,19-20,164148a8
+552aa16c,Tom Trybull,19,GER,"DM,CM",26-175,90,0,0,0,0,0,0,0,0,80,3,1,0,0.0,0.0,0.0,1,0,68,70,97.1,4,53,1,0,0,Norwich City,2019-08-31 West Ham-Norwich City,ENG-EPL,19-20,164148a8
+efb9215a,Jamal Lewis,12,NIR,"LB,CB",21-218,90,0,0,0,0,0,0,0,0,72,1,1,0,0.0,0.0,0.0,4,0,51,59,86.4,5,43,7,7,5,Norwich City,2019-08-31 West Ham-Norwich City,ENG-EPL,19-20,164148a8
+9f7c837d,Ben Godfrey,4,ENG,CB,21-228,90,0,0,0,0,0,0,0,0,70,0,1,1,0.0,0.0,0.0,0,0,61,64,95.3,2,48,1,0,0,Norwich City,2019-08-31 West Ham-Norwich City,ENG-EPL,19-20,164148a8
+2d5f03bf,Christoph Zimmermann,6,GER,CB,26-231,35,0,0,0,0,0,0,0,0,20,0,0,1,0.0,0.0,0.0,0,0,15,18,83.3,2,15,1,0,0,Norwich City,2019-08-31 West Ham-Norwich City,ENG-EPL,19-20,164148a8
+9260926b,Ibrahim Amadou,24,FRA,CB,26-147,55,0,0,0,0,0,0,0,0,25,0,1,2,0.0,0.0,0.0,0,0,19,21,90.5,1,18,0,0,0,Norwich City,2019-08-31 West Ham-Norwich City,ENG-EPL,19-20,164148a8
+774cf58b,Max Aarons,2,ENG,"RB,WB",19-239,90,0,0,0,0,1,0,1,0,57,1,0,0,0.0,0.0,0.6,2,0,33,43,76.7,0,38,2,10,6,Norwich City,2019-08-31 West Ham-Norwich City,ENG-EPL,19-20,164148a8
+f23f9d20,Tim Krul,1,NED,GK,31-150,90,0,0,0,0,0,0,0,0,32,0,0,0,0.0,0.0,0.0,0,0,21,27,77.8,0,17,0,0,0,Norwich City,2019-08-31 West Ham-Norwich City,ENG-EPL,19-20,164148a8

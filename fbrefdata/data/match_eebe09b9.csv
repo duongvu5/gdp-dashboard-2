@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+21a66f6a,Harry Kane,10,ENG,FW,26-151,90,1,0,0,0,4,2,0,0,38,2,0,0,0.3,0.3,0.1,2,1,13,22,59.1,3,27,2,5,3,Tottenham Hotspur,2019-12-26 Tottenham-Brighton,ENG-EPL,19-20,eebe09b9
+cea4ee8f,Dele Alli,20,ENG,AM,23-259,90,1,0,0,0,2,2,0,0,62,0,1,1,0.2,0.2,0.1,3,0,33,52,63.5,6,42,4,2,1,Tottenham Hotspur,2019-12-26 Tottenham-Brighton,ENG-EPL,19-20,eebe09b9
+2b622f01,Lucas Moura,27,BRA,"AM,WB",27-135,75,0,0,0,0,3,0,1,0,51,4,0,2,0.1,0.1,0.0,2,0,21,33,63.6,2,36,3,4,2,Tottenham Hotspur,2019-12-26 Tottenham-Brighton,ENG-EPL,19-20,eebe09b9
+ac861941,Eric Dier,15,ENG,DM,25-345,15,0,0,0,0,0,0,0,0,6,0,3,0,0.0,0.0,0.0,2,0,3,3,100.0,1,3,0,0,0,Tottenham Hotspur,2019-12-26 Tottenham-Brighton,ENG-EPL,19-20,eebe09b9
+2acd49b9,Moussa Sissoko,17,FRA,"CM,DM",30-132,90,0,0,0,0,1,1,1,0,55,2,1,1,0.2,0.2,0.1,2,0,36,43,83.7,3,39,2,3,1,Tottenham Hotspur,2019-12-26 Tottenham-Brighton,ENG-EPL,19-20,eebe09b9
+2f7acede,Harry Winks,8,ENG,CM,23-327,67,0,0,0,0,0,0,1,0,80,2,3,1,0.0,0.0,0.0,0,0,62,73,84.9,7,63,2,1,1,Tottenham Hotspur,2019-12-26 Tottenham-Brighton,ENG-EPL,19-20,eebe09b9
+980522ec,Christian Eriksen,23,DEN,"LW,CM",27-315,23,0,0,0,0,1,0,0,0,22,0,0,0,0.1,0.1,0.0,1,1,15,19,78.9,1,14,1,0,0,Tottenham Hotspur,2019-12-26 Tottenham-Brighton,ENG-EPL,19-20,eebe09b9
+6aa3e78b,Ryan Sessegnon,19,ENG,WB,19-222,55,0,0,0,0,0,0,0,0,20,0,0,0,0.0,0.0,0.0,0,0,14,20,70.0,0,14,0,0,0,Tottenham Hotspur,2019-12-26 Tottenham-Brighton,ENG-EPL,19-20,eebe09b9
+d7553721,Giovani Lo Celso,18,ARG,"AM,RW",23-261,35,0,0,0,0,0,0,0,0,28,1,0,1,0.0,0.0,0.0,0,0,15,20,75.0,3,18,2,3,1,Tottenham Hotspur,2019-12-26 Tottenham-Brighton,ENG-EPL,19-20,eebe09b9
+5c2b4f07,Serge Aurier,24,CIV,"WB,RB",27-002,90,0,1,0,0,0,0,0,0,61,3,1,2,0.0,0.0,0.1,2,1,37,48,77.1,3,25,1,4,2,Tottenham Hotspur,2019-12-26 Tottenham-Brighton,ENG-EPL,19-20,eebe09b9
+ba23a904,Jan Vertonghen,5,BEL,"CB,LB",32-246,90,0,0,0,0,0,0,0,0,84,4,0,1,0.0,0.0,0.2,1,0,61,73,83.6,3,57,1,1,0,Tottenham Hotspur,2019-12-26 Tottenham-Brighton,ENG-EPL,19-20,eebe09b9
+f7d50789,Toby Alderweireld,4,BEL,CB,30-299,90,0,0,0,0,0,0,0,0,70,0,1,0,0.0,0.0,0.0,1,0,51,63,81.0,2,51,0,0,0,Tottenham Hotspur,2019-12-26 Tottenham-Brighton,ENG-EPL,19-20,eebe09b9
+da7b447d,Davinson Sánchez,6,COL,CB,23-197,90,0,0,0,0,0,0,1,0,56,1,2,2,0.0,0.0,0.0,0,0,41,50,82.0,1,43,0,0,0,Tottenham Hotspur,2019-12-26 Tottenham-Brighton,ENG-EPL,19-20,eebe09b9
+63d17038,Paulo Gazzaniga,22,ARG,GK,27-358,90,0,0,0,0,0,0,0,0,22,0,0,0,0.0,0.0,0.0,0,0,14,20,70.0,0,11,0,0,0,Tottenham Hotspur,2019-12-26 Tottenham-Brighton,ENG-EPL,19-20,eebe09b9
+27c01749,Aaron Connolly,44,IRL,FW,19-332,67,0,0,0,0,1,0,0,0,15,0,0,0,0.4,0.4,0.0,2,0,6,9,66.7,1,11,0,0,0,Brighton & Hove Albion,2019-12-26 Tottenham-Brighton,ENG-EPL,19-20,eebe09b9
+4bcf39f6,Neal Maupay,7,FRA,FW,23-134,23,0,0,0,0,0,0,0,0,6,0,0,1,0.0,0.0,0.0,0,0,5,5,100.0,0,3,0,0,0,Brighton & Hove Albion,2019-12-26 Tottenham-Brighton,ENG-EPL,19-20,eebe09b9
+47b7e3af,Aaron Mooy,18,AUS,"AM,LM,RM",29-102,90,0,0,0,0,2,0,0,0,53,0,0,2,0.1,0.1,0.0,3,0,27,40,67.5,7,39,4,6,5,Brighton & Hove Albion,2019-12-26 Tottenham-Brighton,ENG-EPL,19-20,eebe09b9
+8aec0537,Pascal Groß,13,GER,AM,28-194,90,0,1,0,0,3,2,1,0,59,0,1,3,0.2,0.2,0.3,5,1,32,46,69.6,5,34,1,2,0,Brighton & Hove Albion,2019-12-26 Tottenham-Brighton,ENG-EPL,19-20,eebe09b9
+653ee42d,Dale Stephens,6,ENG,CM,30-197,90,0,0,0,0,1,0,0,0,66,5,5,0,0.0,0.0,0.0,1,0,40,48,83.3,5,30,0,1,0,Brighton & Hove Albion,2019-12-26 Tottenham-Brighton,ENG-EPL,19-20,eebe09b9
+ad1f61f3,Steven Alzate,46,COL,"CM,RB,LM",21-109,90,0,0,0,0,2,1,0,0,51,3,0,2,0.1,0.1,0.0,4,0,32,40,80.0,6,33,0,5,4,Brighton & Hove Albion,2019-12-26 Tottenham-Brighton,ENG-EPL,19-20,eebe09b9
+17370b95,Bernardo,30,BRA,WB,24-226,75,0,0,0,0,1,1,0,0,52,6,1,0,0.0,0.0,0.4,2,0,22,35,62.9,4,21,1,1,1,Brighton & Hove Albion,2019-12-26 Tottenham-Brighton,ENG-EPL,19-20,eebe09b9
+38ceb24a,Leandro Trossard,11,BEL,AM,25-022,15,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,1,0,6,8,75.0,1,7,0,0,0,Brighton & Hove Albion,2019-12-26 Tottenham-Brighton,ENG-EPL,19-20,eebe09b9
+a6e316c1,Ezequiel Schelotto,21,ITA,"WB,RB",30-217,82,0,0,0,0,0,0,0,0,43,1,1,1,0.0,0.0,0.0,2,1,26,32,81.3,1,22,3,2,2,Brighton & Hove Albion,2019-12-26 Tottenham-Brighton,ENG-EPL,19-20,eebe09b9
+6c203af0,Yves Bissouma,8,MLI,RM,23-118,8,0,0,0,0,0,0,0,0,7,1,0,0,0.0,0.0,0.0,0,0,5,7,71.4,1,7,1,2,2,Brighton & Hove Albion,2019-12-26 Tottenham-Brighton,ENG-EPL,19-20,eebe09b9
+b2d31e83,Dan Burn,33,ENG,"CB,LB",27-231,90,0,0,0,0,0,0,1,0,60,1,1,4,0.0,0.0,0.0,0,0,29,43,67.4,4,27,3,2,1,Brighton & Hove Albion,2019-12-26 Tottenham-Brighton,ENG-EPL,19-20,eebe09b9
+7314bba4,Shane Duffy,4,IRL,CB,27-359,90,0,0,0,0,0,0,0,0,62,4,2,2,0.0,0.0,0.0,0,0,41,48,85.4,0,27,0,0,0,Brighton & Hove Albion,2019-12-26 Tottenham-Brighton,ENG-EPL,19-20,eebe09b9
+c40b6180,Adam Webster,15,ENG,CB,24-356,90,1,0,0,0,1,1,0,0,73,2,3,2,0.2,0.2,0.0,0,0,58,62,93.5,4,42,2,2,2,Brighton & Hove Albion,2019-12-26 Tottenham-Brighton,ENG-EPL,19-20,eebe09b9
+4535e4bb,Mathew Ryan,1,AUS,GK,27-262,90,0,0,0,0,0,0,0,0,36,0,0,0,0.0,0.0,0.0,0,0,28,34,82.4,0,23,0,0,0,Brighton & Hove Albion,2019-12-26 Tottenham-Brighton,ENG-EPL,19-20,eebe09b9

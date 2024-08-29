@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+21a66f6a,Harry Kane,10,ENG,FW,26-013,90,2,0,0,0,8,2,0,0,34,1,0,0,0.9,0.9,0.1,2,0,17,23,73.9,3,23,3,1,0,Tottenham Hotspur,2019-08-10 Tottenham-Aston Villa,ENG-EPL,19-20,404ee5d3
+2b622f01,Lucas Moura,27,BRA,"FW,RW",26-362,90,0,1,0,0,3,1,0,0,45,1,0,2,0.3,0.3,0.3,10,2,31,35,88.6,1,33,7,4,1,Tottenham Hotspur,2019-08-10 Tottenham-Aston Villa,ENG-EPL,19-20,404ee5d3
+abe66106,Érik Lamela,11,ARG,"AM,LW,LM",27-159,87,0,0,0,0,4,0,1,0,63,3,0,1,0.2,0.2,0.1,7,1,37,50,74.0,3,38,4,3,2,Tottenham Hotspur,2019-08-10 Tottenham-Aston Villa,ENG-EPL,19-20,404ee5d3
+76c131da,Georges-Kévin N'Koudou,14,CMR,LW,24-178,3,0,0,0,0,1,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,1,1,0,0,Tottenham Hotspur,2019-08-10 Tottenham-Aston Villa,ENG-EPL,19-20,404ee5d3
+2acd49b9,Moussa Sissoko,17,FRA,"LM,DM,RM",29-359,90,0,1,0,0,4,0,0,0,78,1,0,1,0.4,0.4,0.0,6,2,54,65,83.1,5,62,9,5,3,Tottenham Hotspur,2019-08-10 Tottenham-Aston Villa,ENG-EPL,19-20,404ee5d3
+2f7acede,Harry Winks,8,ENG,CM,23-189,63,0,0,0,0,1,0,0,0,86,1,0,0,0.0,0.0,0.1,3,0,80,83,96.4,11,69,5,3,1,Tottenham Hotspur,2019-08-10 Tottenham-Aston Villa,ENG-EPL,19-20,404ee5d3
+980522ec,Christian Eriksen,23,DEN,AM,27-177,27,0,0,0,0,3,1,0,0,37,0,1,1,0.2,0.2,0.3,4,0,20,32,62.5,6,25,5,0,0,Tottenham Hotspur,2019-08-10 Tottenham-Aston Villa,ENG-EPL,19-20,404ee5d3
+5cdddffa,Tanguy Ndombele,28,FRA,"RM,DM,CM",22-225,89,1,0,0,0,2,1,0,0,67,3,1,1,0.0,0.0,0.2,3,0,47,57,82.5,7,51,2,0,0,Tottenham Hotspur,2019-08-10 Tottenham-Aston Villa,ENG-EPL,19-20,404ee5d3
+6250083a,Oliver Skipp,29,ENG,DM,18-328,1,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,0,0,0,0,Tottenham Hotspur,2019-08-10 Tottenham-Aston Villa,ENG-EPL,19-20,404ee5d3
+89d10e53,Danny Rose,3,ENG,LB,29-039,90,0,0,0,0,0,0,0,0,68,2,0,1,0.0,0.0,0.3,4,0,50,59,84.7,14,41,3,6,2,Tottenham Hotspur,2019-08-10 Tottenham-Aston Villa,ENG-EPL,19-20,404ee5d3
+da7b447d,Davinson Sánchez,6,COL,CB,23-059,90,0,0,0,0,2,1,0,0,72,1,1,0,0.3,0.3,0.0,1,0,59,64,92.2,2,55,1,0,0,Tottenham Hotspur,2019-08-10 Tottenham-Aston Villa,ENG-EPL,19-20,404ee5d3
+f7d50789,Toby Alderweireld,4,BEL,CB,30-161,90,0,0,0,0,2,0,0,0,90,1,1,1,0.1,0.1,0.1,2,0,75,83,90.4,8,69,1,0,0,Tottenham Hotspur,2019-08-10 Tottenham-Aston Villa,ENG-EPL,19-20,404ee5d3
+984a5a64,Kyle Walker-Peters,16,ENG,RB,22-119,90,0,0,0,0,1,0,0,0,97,3,1,1,0.0,0.0,0.0,5,0,75,89,84.3,11,66,4,3,2,Tottenham Hotspur,2019-08-10 Tottenham-Aston Villa,ENG-EPL,19-20,404ee5d3
+8f62b6ee,Hugo Lloris,1,FRA,GK,32-227,90,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,0,0,10,10,100.0,0,7,0,0,0,Tottenham Hotspur,2019-08-10 Tottenham-Aston Villa,ENG-EPL,19-20,404ee5d3
+bfae110f,Wesley Moraes,9,BRA,FW,22-257,73,0,0,0,0,1,1,0,0,17,1,0,0,0.0,0.0,0.0,0,0,8,10,80.0,0,11,0,0,0,Aston Villa,2019-08-10 Tottenham-Aston Villa,ENG-EPL,19-20,404ee5d3
+ecf44e09,Jonathan Kodjia,26,CIV,FW,29-292,17,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,3,4,75.0,0,0,0,0,0,Aston Villa,2019-08-10 Tottenham-Aston Villa,ENG-EPL,19-20,404ee5d3
+ffa90327,Anwar El Ghazi,21,NED,LM,24-099,90,0,0,0,0,2,1,0,0,34,0,1,0,0.0,0.0,0.0,0,0,13,23,56.5,2,18,1,1,0,Aston Villa,2019-08-10 Tottenham-Aston Villa,ENG-EPL,19-20,404ee5d3
+b0b4fd3e,Jack Grealish,10,ENG,CM,23-334,90,0,0,0,0,0,0,0,0,44,4,0,3,0.0,0.0,0.1,4,1,30,32,93.8,4,29,2,1,1,Aston Villa,2019-08-10 Tottenham-Aston Villa,ENG-EPL,19-20,404ee5d3
+90f91999,John McGinn,7,SCO,CM,24-296,90,1,0,0,0,2,1,0,0,26,8,1,1,0.4,0.4,0.1,1,0,6,10,60.0,1,10,0,0,0,Aston Villa,2019-08-10 Tottenham-Aston Villa,ENG-EPL,19-20,404ee5d3
+3ae14ed1,Trézéguet,17,EGY,RM,24-313,58,0,0,0,0,2,1,0,0,27,3,0,1,0.2,0.2,0.0,1,0,9,13,69.2,1,16,1,3,1,Aston Villa,2019-08-10 Tottenham-Aston Villa,ENG-EPL,19-20,404ee5d3
+9f351459,Jota,23,ESP,RM,28-055,32,0,0,0,0,0,0,0,0,9,1,0,0,0.0,0.0,0.0,0,0,5,6,83.3,1,5,1,0,0,Aston Villa,2019-08-10 Tottenham-Aston Villa,ENG-EPL,19-20,404ee5d3
+fcab00a0,Conor Hourihane,14,IRL,DM,28-189,81,0,0,0,0,0,0,0,0,39,3,2,2,0.0,0.0,0.0,2,0,22,26,84.6,1,15,0,1,1,Aston Villa,2019-08-10 Tottenham-Aston Villa,ENG-EPL,19-20,404ee5d3
+6f7d826d,Douglas Luiz,6,BRA,DM,21-093,9,0,0,0,0,0,0,0,0,9,0,0,2,0.0,0.0,0.0,0,0,5,5,100.0,0,4,0,1,0,Aston Villa,2019-08-10 Tottenham-Aston Villa,ENG-EPL,19-20,404ee5d3
+c2f9d19f,Neil Taylor,3,WAL,LB,30-184,90,0,0,0,0,0,0,0,0,46,4,1,1,0.0,0.0,0.0,0,0,29,34,85.3,3,13,0,0,0,Aston Villa,2019-08-10 Tottenham-Aston Villa,ENG-EPL,19-20,404ee5d3
+8397a50c,Tyrone Mings,40,ENG,CB,26-150,90,0,1,0,0,0,0,0,0,52,0,2,5,0.0,0.0,0.3,1,1,21,26,80.8,0,17,0,0,0,Aston Villa,2019-08-10 Tottenham-Aston Villa,ENG-EPL,19-20,404ee5d3
+4fdf1fd9,Björn Engels,22,BEL,CB,24-329,90,0,0,0,0,0,0,0,0,28,2,1,2,0.0,0.0,0.0,0,0,15,17,88.2,1,11,0,1,1,Aston Villa,2019-08-10 Tottenham-Aston Villa,ENG-EPL,19-20,404ee5d3
+615ef733,Ahmed Elmohamady,27,EGY,RB,31-335,90,0,0,0,0,0,0,0,0,47,3,1,1,0.0,0.0,0.0,0,0,29,36,80.6,3,20,1,0,0,Aston Villa,2019-08-10 Tottenham-Aston Villa,ENG-EPL,19-20,404ee5d3
+a6de6361,Tom Heaton,1,ENG,GK,33-117,90,0,0,0,0,0,0,0,0,38,0,0,0,0.0,0.0,0.0,0,0,19,35,54.3,0,14,0,0,0,Aston Villa,2019-08-10 Tottenham-Aston Villa,ENG-EPL,19-20,404ee5d3

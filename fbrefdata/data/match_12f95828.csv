@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+9dbb75ca,Alexandre Lacazette,9,FRA,FW,29-048,57,1,1,0,0,1,1,0,0,18,3,0,0,0.5,0.5,0.3,2,2,10,12,83.3,2,13,1,2,2,Arsenal,2020-07-15 Arsenal-Liverpool,ENG-EPL,19-20,12f95828
+a3b03921,Joe Willock,28,ENG,"CM,FW",20-330,33,0,0,0,0,1,0,0,0,13,2,0,1,0.1,0.1,0.0,0,0,3,6,50.0,1,4,0,2,0,Arsenal,2020-07-15 Arsenal-Liverpool,ENG-EPL,19-20,12f95828
+57e3f0c7,Nicolas Pépé,19,CIV,"LW,FW,CM",25-047,90,0,0,0,0,0,0,0,0,19,0,0,0,0.0,0.0,0.0,0,0,6,11,54.5,0,14,1,6,2,Arsenal,2020-07-15 Arsenal-Liverpool,ENG-EPL,19-20,12f95828
+c5bdb6e3,Reiss Nelson,24,ENG,RW,20-218,57,1,0,0,0,1,1,0,0,15,2,0,0,0.3,0.3,0.0,0,0,7,10,70.0,2,8,0,1,0,Arsenal,2020-07-15 Arsenal-Liverpool,ENG-EPL,19-20,12f95828
+d5dd5f1f,Pierre-Emerick Aubameyang,14,GAB,FW,31-027,33,0,0,0,0,0,0,0,0,13,1,0,0,0.0,0.0,0.1,1,0,5,11,45.5,2,2,0,0,0,Arsenal,2020-07-15 Arsenal-Liverpool,ENG-EPL,19-20,12f95828
+bc7dc64d,Bukayo Saka,77,ENG,"LM,LB",18-314,84,0,0,0,0,0,0,0,0,24,0,1,0,0.0,0.0,0.0,0,0,14,21,66.7,1,19,1,0,0,Arsenal,2020-07-15 Arsenal-Liverpool,ENG-EPL,19-20,12f95828
+3935e52e,Sead Kolašinac,31,BIH,LB,27-025,6,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,1,0,3,3,100.0,0,1,0,0,0,Arsenal,2020-07-15 Arsenal-Liverpool,ENG-EPL,19-20,12f95828
+e61b8aee,Granit Xhaka,34,SUI,CM,27-292,90,0,0,0,0,0,0,1,0,45,2,3,3,0.0,0.0,0.0,0,0,25,31,80.6,1,18,1,2,2,Arsenal,2020-07-15 Arsenal-Liverpool,ENG-EPL,19-20,12f95828
+52611641,Lucas Torreira,11,URU,CM,24-155,56,0,0,0,0,0,0,1,0,29,1,1,3,0.0,0.0,0.0,0,0,19,24,79.2,2,15,0,1,0,Arsenal,2020-07-15 Arsenal-Liverpool,ENG-EPL,19-20,12f95828
+c0617e2b,Dani Ceballos,8,ESP,CM,23-343,34,0,0,0,0,0,0,1,0,18,2,0,1,0.0,0.0,0.0,0,0,4,10,40.0,0,9,0,0,0,Arsenal,2020-07-15 Arsenal-Liverpool,ENG-EPL,19-20,12f95828
+839c14e1,Cédric Soares,17,POR,"RM,RB",28-319,75,0,0,0,0,0,0,0,0,37,2,1,1,0.0,0.0,0.0,0,0,14,24,58.3,0,13,0,0,0,Arsenal,2020-07-15 Arsenal-Liverpool,ENG-EPL,19-20,12f95828
+e3a5814e,Ainsley Maitland-Niles,15,ENG,RB,22-321,15,0,0,0,0,0,0,0,0,9,1,0,0,0.0,0.0,0.0,0,0,3,5,60.0,0,1,0,0,0,Arsenal,2020-07-15 Arsenal-Liverpool,ENG-EPL,19-20,12f95828
+fce2302c,Kieran Tierney,3,SCO,CB,23-040,90,0,0,0,0,0,0,0,0,50,2,2,2,0.0,0.0,0.0,0,0,21,40,52.5,2,23,1,0,0,Arsenal,2020-07-15 Arsenal-Liverpool,ENG-EPL,19-20,12f95828
+c0e27d1a,David Luiz,23,BRA,CB,33-084,90,0,0,0,0,0,0,0,0,46,1,0,2,0.0,0.0,0.0,0,0,24,33,72.7,0,22,0,0,0,Arsenal,2020-07-15 Arsenal-Liverpool,ENG-EPL,19-20,12f95828
+d79a8c87,Rob Holding,16,ENG,CB,24-299,90,0,0,0,0,0,0,0,0,41,2,0,2,0.0,0.0,0.0,0,0,16,27,59.3,0,19,0,1,1,Arsenal,2020-07-15 Arsenal-Liverpool,ENG-EPL,19-20,12f95828
+7956236f,Emiliano Martínez,26,ARG,GK,27-317,90,0,0,0,0,0,0,0,0,49,0,0,0,0.0,0.0,0.0,0,0,26,47,55.3,0,28,0,0,0,Arsenal,2020-07-15 Arsenal-Liverpool,ENG-EPL,19-20,12f95828
+4c370d81,Roberto Firmino,9,BRA,FW,28-287,60,0,0,0,0,0,0,0,0,30,1,0,2,0.0,0.0,0.1,5,1,21,26,80.8,3,19,1,0,0,Liverpool,2020-07-15 Arsenal-Liverpool,ENG-EPL,19-20,12f95828
+f833a830,Takumi Minamino,18,JPN,"FW,RW",25-181,30,0,0,0,0,2,0,0,0,20,0,0,0,0.1,0.1,0.0,0,0,11,13,84.6,1,13,0,3,1,Liverpool,2020-07-15 Arsenal-Liverpool,ENG-EPL,19-20,12f95828
+c691bfe2,Sadio Mané,10,SEN,LW,28-096,90,1,0,0,0,6,2,0,0,57,1,1,1,0.8,0.8,0.4,6,0,30,42,71.4,4,50,11,4,2,Liverpool,2020-07-15 Arsenal-Liverpool,ENG-EPL,19-20,12f95828
+e342ad68,Mohamed Salah,11,EGY,RW,28-030,82,0,0,0,0,4,2,0,0,24,1,0,0,0.7,0.7,0.0,3,0,10,14,71.4,1,15,0,2,1,Liverpool,2020-07-15 Arsenal-Liverpool,ENG-EPL,19-20,12f95828
+43a166b4,Divock Origi,27,BEL,FW,25-088,8,0,0,0,0,0,0,0,0,4,1,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,3,0,3,2,Liverpool,2020-07-15 Arsenal-Liverpool,ENG-EPL,19-20,12f95828
+eb58eef0,Georginio Wijnaldum,5,NED,LM,29-247,82,0,0,0,0,2,0,0,0,51,2,0,0,0.1,0.1,0.1,6,0,44,46,95.7,4,26,1,1,1,Liverpool,2020-07-15 Arsenal-Liverpool,ENG-EPL,19-20,12f95828
+6421ec64,Xherdan Shaqiri,23,SUI,RM,28-279,8,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,2,0,6,8,75.0,0,4,0,0,0,Liverpool,2020-07-15 Arsenal-Liverpool,ENG-EPL,19-20,12f95828
+7f3b388c,Fabinho,3,BRA,CM,26-266,90,0,0,0,0,0,0,0,0,74,2,3,2,0.0,0.0,0.0,1,0,55,63,87.3,5,41,1,1,1,Liverpool,2020-07-15 Arsenal-Liverpool,ENG-EPL,19-20,12f95828
+38c7feef,Alex Oxlade-Chamberlain,15,ENG,RM,26-335,60,0,0,0,0,2,1,0,0,44,1,2,0,0.1,0.1,0.0,0,0,25,35,71.4,5,26,2,1,0,Liverpool,2020-07-15 Arsenal-Liverpool,ENG-EPL,19-20,12f95828
+f25c8e3a,Naby Keïta,8,GUI,"RM,LM",25-156,30,0,0,0,0,1,1,0,0,34,1,0,1,0.0,0.0,0.0,3,0,26,31,83.9,1,23,3,3,3,Liverpool,2020-07-15 Arsenal-Liverpool,ENG-EPL,19-20,12f95828
+2e4f5f03,Andrew Robertson,26,SCO,LB,26-126,90,0,1,0,0,3,0,0,0,126,1,2,0,0.2,0.2,0.7,10,1,95,118,80.5,18,81,8,1,0,Liverpool,2020-07-15 Arsenal-Liverpool,ENG-EPL,19-20,12f95828
+e06683ca,Virgil van Dijk,4,NED,CB,29-007,90,0,0,0,0,2,1,0,0,95,0,0,0,0.1,0.1,0.0,0,0,85,92,92.4,8,62,1,0,0,Liverpool,2020-07-15 Arsenal-Liverpool,ENG-EPL,19-20,12f95828
+7a11550b,Joe Gomez,12,ENG,CB,23-053,90,0,0,0,0,0,0,0,0,88,1,1,0,0.0,0.0,0.0,2,0,67,83,80.7,6,54,2,1,0,Liverpool,2020-07-15 Arsenal-Liverpool,ENG-EPL,19-20,12f95828
+cd1acf9d,Trent Alexander-Arnold,66,ENG,RB,21-282,90,0,0,0,0,2,1,1,0,90,0,1,0,0.1,0.1,0.3,5,0,65,86,75.6,10,47,3,0,0,Liverpool,2020-07-15 Arsenal-Liverpool,ENG-EPL,19-20,12f95828
+7a2e46a8,Alisson,1,BRA,GK,27-287,90,0,0,0,0,0,0,0,0,27,0,0,0,0.0,0.0,0.0,0,0,24,27,88.9,1,16,0,0,0,Liverpool,2020-07-15 Arsenal-Liverpool,ENG-EPL,19-20,12f95828

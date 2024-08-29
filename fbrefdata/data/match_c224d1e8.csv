@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+21a66f6a,Harry Kane,10,ENG,FW,26-028,90,0,0,0,0,1,0,0,0,21,0,0,0,0.1,0.1,0.0,0,0,11,18,61.1,2,19,2,1,1,Tottenham Hotspur,2019-08-25 Tottenham-Newcastle Utd,ENG-EPL,19-20,c224d1e8
+92e7e919,Son Heung-min,7,KOR,"LW,RW",27-048,90,0,0,0,0,6,2,0,0,76,0,0,1,0.2,0.2,0.1,5,0,53,59,89.8,4,56,2,5,2,Tottenham Hotspur,2019-08-25 Tottenham-Newcastle Utd,ENG-EPL,19-20,c224d1e8
+2b622f01,Lucas Moura,27,BRA,"AM,RW",27-012,90,0,0,0,0,5,0,0,0,45,0,1,1,0.6,0.6,0.0,2,0,27,31,87.1,5,31,1,2,2,Tottenham Hotspur,2019-08-25 Tottenham-Newcastle Utd,ENG-EPL,19-20,c224d1e8
+abe66106,Érik Lamela,11,ARG,"AM,LW",27-174,61,0,0,0,0,1,0,0,0,46,1,0,0,0.1,0.1,0.0,1,0,28,40,70.0,1,35,0,2,1,Tottenham Hotspur,2019-08-25 Tottenham-Newcastle Utd,ENG-EPL,19-20,c224d1e8
+d7553721,Giovani Lo Celso,18,ARG,RW,23-138,29,0,0,0,0,1,0,0,0,19,0,0,0,0.0,0.0,0.1,5,0,16,18,88.9,0,16,0,0,0,Tottenham Hotspur,2019-08-25 Tottenham-Newcastle Utd,ENG-EPL,19-20,c224d1e8
+2f7acede,Harry Winks,8,ENG,DM,23-204,90,0,0,0,0,0,0,1,0,141,3,0,1,0.0,0.0,0.0,3,0,127,136,93.4,19,119,6,3,3,Tottenham Hotspur,2019-08-25 Tottenham-Newcastle Utd,ENG-EPL,19-20,c224d1e8
+2acd49b9,Moussa Sissoko,17,FRA,"DM,RB",30-009,90,0,0,0,0,0,0,0,0,110,0,0,0,0.0,0.0,0.5,4,0,98,103,95.1,10,79,4,1,1,Tottenham Hotspur,2019-08-25 Tottenham-Newcastle Utd,ENG-EPL,19-20,c224d1e8
+89d10e53,Danny Rose,3,ENG,LB,29-054,87,0,0,0,0,0,0,1,0,111,1,2,2,0.0,0.0,0.0,2,0,85,106,80.2,11,79,3,1,1,Tottenham Hotspur,2019-08-25 Tottenham-Newcastle Utd,ENG-EPL,19-20,c224d1e8
+44781702,Ben Davies,33,WAL,LB,26-123,3,0,0,0,0,1,0,0,0,12,0,0,0,0.0,0.0,0.0,0,0,8,11,72.7,0,12,3,0,0,Tottenham Hotspur,2019-08-25 Tottenham-Newcastle Utd,ENG-EPL,19-20,c224d1e8
+da7b447d,Davinson Sánchez,6,COL,CB,23-074,90,0,0,0,0,0,0,0,0,78,2,2,0,0.0,0.0,0.0,0,0,64,71,90.1,4,59,1,0,0,Tottenham Hotspur,2019-08-25 Tottenham-Newcastle Utd,ENG-EPL,19-20,c224d1e8
+f7d50789,Toby Alderweireld,4,BEL,CB,30-176,90,0,0,0,0,0,0,0,0,101,2,1,0,0.0,0.0,0.0,2,0,87,98,88.8,9,78,6,0,0,Tottenham Hotspur,2019-08-25 Tottenham-Newcastle Utd,ENG-EPL,19-20,c224d1e8
+984a5a64,Kyle Walker-Peters,16,ENG,RB,22-134,61,0,0,0,0,0,0,0,0,75,1,1,1,0.0,0.0,0.0,1,0,59,69,85.5,3,60,4,2,1,Tottenham Hotspur,2019-08-25 Tottenham-Newcastle Utd,ENG-EPL,19-20,c224d1e8
+980522ec,Christian Eriksen,23,DEN,DM,27-192,29,0,0,0,0,2,0,0,0,52,0,0,0,0.0,0.0,0.1,6,0,40,47,85.1,9,45,5,0,0,Tottenham Hotspur,2019-08-25 Tottenham-Newcastle Utd,ENG-EPL,19-20,c224d1e8
+8f62b6ee,Hugo Lloris,1,FRA,GK,32-242,90,0,0,0,0,0,0,0,0,23,0,0,0,0.0,0.0,0.0,0,0,21,21,100.0,0,17,0,0,0,Tottenham Hotspur,2019-08-25 Tottenham-Newcastle Utd,ENG-EPL,19-20,c224d1e8
+c17bfb65,Joelinton,9,BRA,FW,23-011,87,1,0,0,0,2,2,1,0,37,0,0,0,0.5,0.5,0.1,3,0,23,26,88.5,1,21,0,1,0,Newcastle United,2019-08-25 Tottenham-Newcastle Utd,ENG-EPL,19-20,c224d1e8
+5343eb4e,Yoshinori Mutō,13,JPN,FW,27-041,3,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,2,0,1,0,Newcastle United,2019-08-25 Tottenham-Newcastle Utd,ENG-EPL,19-20,c224d1e8
+2b16cb1a,Allan Saint-Maximin,10,FRA,LM,22-166,16,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,2,0,0,0,Newcastle United,2019-08-25 Tottenham-Newcastle Utd,ENG-EPL,19-20,c224d1e8
+8816329f,Christian Atsu,30,GHA,LM,27-227,74,0,1,0,0,0,0,0,0,33,1,0,4,0.0,0.0,0.6,4,1,19,22,86.4,3,20,5,5,2,Newcastle United,2019-08-25 Tottenham-Newcastle Utd,ENG-EPL,19-20,c224d1e8
+a2b105e0,Sean Longstaff,36,ENG,CM,21-299,90,0,0,0,0,1,1,0,0,22,2,0,0,0.0,0.0,0.0,0,0,8,14,57.1,1,10,1,0,0,Newcastle United,2019-08-25 Tottenham-Newcastle Utd,ENG-EPL,19-20,c224d1e8
+c951a6df,Isaac Hayden,14,ENG,CM,24-156,90,0,0,0,0,1,0,0,0,21,3,1,2,0.0,0.0,0.0,0,0,10,12,83.3,1,5,0,0,0,Newcastle United,2019-08-25 Tottenham-Newcastle Utd,ENG-EPL,19-20,c224d1e8
+862a1c15,Miguel Almirón,24,PAR,RM,25-196,90,0,0,0,0,2,0,0,0,38,1,2,2,0.2,0.2,0.0,2,0,11,17,64.7,1,27,3,1,0,Newcastle United,2019-08-25 Tottenham-Newcastle Utd,ENG-EPL,19-20,c224d1e8
+71ef519e,Matt Ritchie,11,SCO,LB,29-349,90,0,0,0,0,0,0,1,0,48,1,0,2,0.0,0.0,0.1,5,1,33,41,80.5,0,23,0,1,1,Newcastle United,2019-08-25 Tottenham-Newcastle Utd,ENG-EPL,19-20,c224d1e8
+3fe6bd8c,Paul Dummett,3,WAL,CB,27-333,90,0,0,0,0,0,0,0,0,27,1,2,0,0.0,0.0,0.0,0,0,9,12,75.0,0,6,0,0,0,Newcastle United,2019-08-25 Tottenham-Newcastle Utd,ENG-EPL,19-20,c224d1e8
+450ab6fc,Jamaal Lascelles,6,ENG,CB,25-287,81,0,0,0,0,1,0,0,0,25,0,3,1,0.0,0.0,0.0,0,0,7,9,77.8,0,7,0,0,0,Newcastle United,2019-08-25 Tottenham-Newcastle Utd,ENG-EPL,19-20,c224d1e8
+f25b010f,Federico Fernández,18,ARG,CB,30-185,9,0,0,0,0,0,0,0,0,5,0,0,1,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Newcastle United,2019-08-25 Tottenham-Newcastle Utd,ENG-EPL,19-20,c224d1e8
+c8aa95da,Fabian Schär,5,SUI,CB,27-248,90,0,0,0,0,1,0,0,0,36,4,2,4,0.0,0.0,0.0,2,0,13,17,76.5,0,14,0,0,0,Newcastle United,2019-08-25 Tottenham-Newcastle Utd,ENG-EPL,19-20,c224d1e8
+77cf6852,Emil Krafth,17,SWE,RB,25-023,90,0,0,0,0,0,0,0,0,39,2,0,1,0.0,0.0,0.0,0,0,18,23,78.3,0,10,0,0,0,Newcastle United,2019-08-25 Tottenham-Newcastle Utd,ENG-EPL,19-20,c224d1e8
+3a949a25,Martin Dúbravka,1,SVK,GK,30-222,90,0,0,0,0,0,0,0,0,26,0,1,0,0.0,0.0,0.0,0,0,7,23,30.4,0,10,0,0,0,Newcastle United,2019-08-25 Tottenham-Newcastle Utd,ENG-EPL,19-20,c224d1e8

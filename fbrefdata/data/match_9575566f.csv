@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+d5dd5f1f,Pierre-Emerick Aubameyang,14,GAB,FW,30-110,90,0,0,0,0,4,1,0,0,31,0,0,0,0.7,0.7,0.1,2,1,14,19,73.7,4,18,0,0,0,Arsenal,2019-10-06 Arsenal-Bournemouth,ENG-EPL,19-20,9575566f
+bc7dc64d,Bukayo Saka,77,ENG,"LW,RW",18-031,82,0,0,0,0,1,0,0,0,40,3,0,2,0.1,0.1,0.1,7,0,17,24,70.8,4,24,3,5,3,Arsenal,2019-10-06 Arsenal-Bournemouth,ENG-EPL,19-20,9575566f
+52611641,Lucas Torreira,11,URU,RW,23-237,8,0,0,0,0,0,0,0,0,10,1,0,0,0.0,0.0,0.0,0,0,5,8,62.5,0,2,0,0,0,Arsenal,2019-10-06 Arsenal-Bournemouth,ENG-EPL,19-20,9575566f
+57e3f0c7,Nicolas Pépé,19,CIV,RW,24-130,62,0,1,0,0,1,0,0,0,27,1,0,1,0.1,0.1,0.1,2,1,11,18,61.1,1,16,0,3,2,Arsenal,2019-10-06 Arsenal-Bournemouth,ENG-EPL,19-20,9575566f
+48a5a5d6,Gabriel Martinelli,35,BRA,"LW,RW",18-110,28,0,0,0,0,1,0,1,0,16,4,0,2,0.0,0.0,0.0,0,0,4,7,57.1,1,9,3,2,0,Arsenal,2019-10-06 Arsenal-Bournemouth,ENG-EPL,19-20,9575566f
+c0617e2b,Dani Ceballos,8,ESP,AM,23-060,74,0,0,0,0,0,0,0,0,53,0,0,0,0.0,0.0,0.2,4,0,38,50,76.0,13,32,1,2,2,Arsenal,2019-10-06 Arsenal-Bournemouth,ENG-EPL,19-20,9575566f
+a3b03921,Joe Willock,28,ENG,AM,20-047,16,0,0,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.0,1,0,7,9,77.8,3,5,0,0,0,Arsenal,2019-10-06 Arsenal-Bournemouth,ENG-EPL,19-20,9575566f
+e61b8aee,Granit Xhaka,34,SUI,DM,27-009,90,0,0,0,0,0,0,0,0,70,2,0,0,0.0,0.0,0.0,0,0,52,61,85.2,7,33,2,0,0,Arsenal,2019-10-06 Arsenal-Bournemouth,ENG-EPL,19-20,9575566f
+5ea8ef20,Mattéo Guendouzi,29,FRA,DM,20-175,90,0,0,0,0,1,0,0,0,66,2,0,1,0.0,0.0,0.1,2,0,42,53,79.2,6,29,5,3,3,Arsenal,2019-10-06 Arsenal-Bournemouth,ENG-EPL,19-20,9575566f
+3935e52e,Sead Kolašinac,31,BIH,LB,26-108,90,0,0,0,0,0,0,0,0,59,3,0,1,0.0,0.0,0.0,0,0,42,53,79.2,6,19,2,1,1,Arsenal,2019-10-06 Arsenal-Bournemouth,ENG-EPL,19-20,9575566f
+c0e27d1a,David Luiz,23,BRA,CB,32-167,90,1,0,0,0,1,1,0,0,50,1,3,0,0.1,0.1,0.0,0,0,32,43,74.4,1,33,0,0,0,Arsenal,2019-10-06 Arsenal-Bournemouth,ENG-EPL,19-20,9575566f
+b682dcf6,Sokratis Papastathopoulos,5,GRE,CB,31-119,90,0,0,0,0,0,0,0,0,62,2,3,2,0.0,0.0,0.0,1,0,36,49,73.5,1,38,0,0,0,Arsenal,2019-10-06 Arsenal-Bournemouth,ENG-EPL,19-20,9575566f
+dc6f5bdd,Calum Chambers,21,ENG,RB,24-259,90,0,0,0,0,3,0,0,0,87,4,2,1,0.2,0.2,0.6,1,0,47,68,69.1,2,29,1,1,1,Arsenal,2019-10-06 Arsenal-Bournemouth,ENG-EPL,19-20,9575566f
+2628fd2b,Bernd Leno,1,GER,GK,27-216,90,0,0,0,0,0,0,0,0,36,0,0,0,0.0,0.0,0.0,0,0,17,35,48.6,0,17,0,0,0,Arsenal,2019-10-06 Arsenal-Bournemouth,ENG-EPL,19-20,9575566f
+c596fcb0,Callum Wilson,13,ENG,FW,27-221,90,0,0,0,0,1,1,0,0,27,1,0,1,0.0,0.0,0.0,1,0,11,19,57.9,2,10,2,2,2,Bournemouth,2019-10-06 Arsenal-Bournemouth,ENG-EPL,19-20,9575566f
+e77dc3b2,Dominic Solanke,9,ENG,FW,22-022,62,0,0,0,0,1,0,0,0,27,0,0,0,0.1,0.1,0.0,3,0,12,17,70.6,2,16,1,3,1,Bournemouth,2019-10-06 Arsenal-Bournemouth,ENG-EPL,19-20,9575566f
+d56543a0,Ryan Fraser,24,SCO,"RM,LM",25-224,28,0,0,0,0,1,0,0,0,21,1,1,0,0.0,0.0,0.1,4,0,11,16,68.8,3,12,2,1,1,Bournemouth,2019-10-06 Arsenal-Bournemouth,ENG-EPL,19-20,9575566f
+43458538,Joshua King,7,NOR,"LM,FW",27-264,90,0,0,0,0,1,0,0,0,41,0,1,4,0.0,0.0,0.0,2,0,16,22,72.7,2,19,1,3,3,Bournemouth,2019-10-06 Arsenal-Bournemouth,ENG-EPL,19-20,9575566f
+d328a254,Philip Billing,29,DEN,CM,23-117,90,0,0,0,0,1,0,1,0,74,2,1,5,0.0,0.0,0.0,1,0,45,54,83.3,4,33,1,4,3,Bournemouth,2019-10-06 Arsenal-Bournemouth,ENG-EPL,19-20,9575566f
+9b5ce51a,Jefferson Lerma,8,COL,CM,24-346,90,0,0,0,0,2,0,0,0,63,0,2,0,0.1,0.1,0.0,1,0,47,52,90.4,7,29,0,2,2,Bournemouth,2019-10-06 Arsenal-Bournemouth,ENG-EPL,19-20,9575566f
+c6dc9ecd,Harry Wilson,22,WAL,RM,22-198,78,0,0,0,0,0,0,0,0,29,0,1,2,0.0,0.0,0.1,1,0,19,21,90.5,5,15,0,1,1,Bournemouth,2019-10-06 Arsenal-Bournemouth,ENG-EPL,19-20,9575566f
+f08490a6,Arnaut Danjuma,14,NED,LM,22-248,12,0,0,0,0,1,0,0,0,9,0,1,1,0.0,0.0,0.0,0,0,2,6,33.3,0,5,0,0,0,Bournemouth,2019-10-06 Arsenal-Bournemouth,ENG-EPL,19-20,9575566f
+d9ba39fc,Diego Rico,21,ESP,LB,26-225,90,0,0,0,0,0,0,0,0,85,2,4,0,0.0,0.0,0.2,4,0,36,65,55.4,9,34,2,1,0,Bournemouth,2019-10-06 Arsenal-Bournemouth,ENG-EPL,19-20,9575566f
+eaeca114,Nathan Aké,5,NED,CB,24-230,90,0,0,0,0,0,0,0,0,63,1,1,1,0.0,0.0,0.0,1,0,42,49,85.7,5,29,0,0,0,Bournemouth,2019-10-06 Arsenal-Bournemouth,ENG-EPL,19-20,9575566f
+3e5e4e63,Steve Cook,3,ENG,CB,28-170,90,0,0,0,0,1,0,0,0,61,1,3,2,0.1,0.1,0.0,0,0,38,48,79.2,2,22,0,0,0,Bournemouth,2019-10-06 Arsenal-Bournemouth,ENG-EPL,19-20,9575566f
+558807c0,Jack Stacey,17,ENG,RB,23-183,78,0,0,0,0,1,1,1,0,48,5,3,0,0.1,0.1,0.0,0,0,25,33,75.8,1,22,1,2,1,Bournemouth,2019-10-06 Arsenal-Bournemouth,ENG-EPL,19-20,9575566f
+1e0b6a73,Simon Francis,2,ENG,RB,34-232,12,0,0,0,0,0,0,0,0,19,1,1,1,0.0,0.0,0.0,0,0,9,11,81.8,0,4,0,0,0,Bournemouth,2019-10-06 Arsenal-Bournemouth,ENG-EPL,19-20,9575566f
+466fb2c5,Aaron Ramsdale,12,ENG,GK,21-145,90,0,0,0,0,0,0,0,0,29,0,0,0,0.0,0.0,0.0,0,0,20,28,71.4,0,13,0,0,0,Bournemouth,2019-10-06 Arsenal-Bournemouth,ENG-EPL,19-20,9575566f

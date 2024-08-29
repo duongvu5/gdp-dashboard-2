@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+21a66f6a,Harry Kane,10,ENG,FW,26-083,90,0,0,0,0,3,0,0,0,24,1,1,1,0.1,0.1,0.0,0,0,10,14,71.4,2,19,2,1,1,Tottenham Hotspur,2019-10-19 Tottenham-Watford,ENG-EPL,19-20,4df24be7
+cea4ee8f,Dele Alli,20,ENG,AM,23-191,90,1,0,0,0,2,2,1,0,74,1,2,3,0.6,0.6,0.1,4,0,43,53,81.1,6,52,2,5,3,Tottenham Hotspur,2019-10-19 Tottenham-Watford,ENG-EPL,19-20,4df24be7
+2b622f01,Lucas Moura,27,BRA,"AM,FW",27-067,62,0,0,0,0,2,0,0,0,28,1,0,0,0.1,0.1,0.0,2,0,16,20,80.0,3,15,2,2,2,Tottenham Hotspur,2019-10-19 Tottenham-Watford,ENG-EPL,19-20,4df24be7
+abe66106,Érik Lamela,11,ARG,"AM,FW",27-229,28,0,0,0,0,1,0,0,0,34,1,0,0,0.1,0.1,0.1,3,1,17,31,54.8,3,20,3,1,0,Tottenham Hotspur,2019-10-19 Tottenham-Watford,ENG-EPL,19-20,4df24be7
+2f7acede,Harry Winks,8,ENG,"CM,DM",23-259,69,0,0,0,0,0,0,0,0,87,1,4,0,0.0,0.0,0.0,3,0,69,77,89.6,13,63,2,0,0,Tottenham Hotspur,2019-10-19 Tottenham-Watford,ENG-EPL,19-20,4df24be7
+5cdddffa,Tanguy Ndombele,28,FRA,DM,22-295,21,0,0,0,0,1,0,0,0,13,1,0,0,0.1,0.1,0.0,2,0,9,9,100.0,2,11,0,0,0,Tottenham Hotspur,2019-10-19 Tottenham-Watford,ENG-EPL,19-20,4df24be7
+2acd49b9,Moussa Sissoko,17,FRA,"DM,CM",30-064,90,0,0,0,0,1,0,1,0,82,1,1,0,0.0,0.0,0.1,2,0,65,69,94.2,6,54,0,1,0,Tottenham Hotspur,2019-10-19 Tottenham-Watford,ENG-EPL,19-20,4df24be7
+89d10e53,Danny Rose,3,ENG,"LB,WB",29-109,90,0,0,0,0,0,0,1,0,76,1,0,1,0.0,0.0,0.0,1,0,55,71,77.5,8,55,3,2,2,Tottenham Hotspur,2019-10-19 Tottenham-Watford,ENG-EPL,19-20,4df24be7
+5c2b4f07,Serge Aurier,24,CIV,"RB,WB",26-299,90,0,0,0,0,1,0,0,0,87,2,1,1,0.0,0.0,0.1,4,1,54,77,70.1,5,49,4,2,1,Tottenham Hotspur,2019-10-19 Tottenham-Watford,ENG-EPL,19-20,4df24be7
+ba23a904,Jan Vertonghen,5,BEL,CB,32-178,90,0,0,0,0,0,0,0,0,112,0,0,0,0.0,0.0,0.0,0,0,97,111,87.4,4,87,4,1,1,Tottenham Hotspur,2019-10-19 Tottenham-Watford,ENG-EPL,19-20,4df24be7
+da7b447d,Davinson Sánchez,6,COL,CB,23-129,45,0,0,0,0,0,0,1,0,66,0,1,2,0.0,0.0,0.0,0,0,59,63,93.7,4,53,0,0,0,Tottenham Hotspur,2019-10-19 Tottenham-Watford,ENG-EPL,19-20,4df24be7
+92e7e919,Son Heung-min,7,KOR,"AM,FW",27-103,45,0,0,0,0,1,0,0,0,33,0,0,0,0.0,0.0,0.0,0,0,21,24,87.5,3,21,3,4,2,Tottenham Hotspur,2019-10-19 Tottenham-Watford,ENG-EPL,19-20,4df24be7
+f7d50789,Toby Alderweireld,4,BEL,CB,30-231,90,0,0,0,0,0,0,0,0,128,1,1,1,0.0,0.0,0.1,2,0,97,122,79.5,10,94,1,0,0,Tottenham Hotspur,2019-10-19 Tottenham-Watford,ENG-EPL,19-20,4df24be7
+63d17038,Paulo Gazzaniga,22,ARG,GK,27-290,90,0,0,0,0,0,0,0,0,21,0,0,0,0.0,0.0,0.0,0,0,17,21,81.0,0,15,0,0,0,Tottenham Hotspur,2019-10-19 Tottenham-Watford,ENG-EPL,19-20,4df24be7
+75f2c59f,Roberto Pereyra,37,ARG,FW,28-285,83,0,0,0,0,1,0,1,0,45,0,1,1,0.1,0.1,0.1,4,0,30,38,78.9,2,35,3,1,1,Watford,2019-10-19 Tottenham-Watford,ENG-EPL,19-20,4df24be7
+a0666d3e,Will Hughes,19,ENG,FW,24-185,7,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,1,0,0,0,Watford,2019-10-19 Tottenham-Watford,ENG-EPL,19-20,4df24be7
+ce5143da,Danny Welbeck,10,ENG,FW,28-327,3,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,2,1,0,0,Watford,2019-10-19 Tottenham-Watford,ENG-EPL,19-20,4df24be7
+39583cfd,Gerard Deulofeu,7,ESP,FW,25-220,87,0,0,0,0,3,1,0,0,31,1,0,0,0.2,0.2,0.1,2,0,23,25,92.0,1,22,3,2,2,Watford,2019-10-19 Tottenham-Watford,ENG-EPL,19-20,4df24be7
+02b29014,Abdoulaye Doucouré,16,MLI,CM,26-291,90,1,0,0,0,2,1,0,0,54,4,1,1,0.3,0.3,0.1,5,0,25,38,65.8,4,30,2,6,4,Watford,2019-10-19 Tottenham-Watford,ENG-EPL,19-20,4df24be7
+422862ea,Nathaniel Chalobah,14,ENG,CM,24-311,90,0,0,0,0,0,0,0,0,43,0,2,2,0.0,0.0,0.0,0,0,19,32,59.4,1,14,0,0,0,Watford,2019-10-19 Tottenham-Watford,ENG-EPL,19-20,4df24be7
+6cdd8245,Tom Cleverley,8,ENG,CM,30-068,90,0,0,0,0,0,0,0,0,48,4,4,1,0.0,0.0,0.0,0,0,23,33,69.7,2,23,1,2,2,Watford,2019-10-19 Tottenham-Watford,ENG-EPL,19-20,4df24be7
+12aa7661,José Holebas,25,GRE,LB,35-114,90,0,0,0,0,0,0,1,0,38,1,0,1,0.0,0.0,0.0,0,0,19,31,61.3,3,13,2,2,2,Watford,2019-10-19 Tottenham-Watford,ENG-EPL,19-20,4df24be7
+89e4b358,Craig Cathcart,15,NIR,CB,30-255,90,0,0,0,0,0,0,0,0,34,0,0,0,0.0,0.0,0.0,1,1,18,24,75.0,0,15,0,0,0,Watford,2019-10-19 Tottenham-Watford,ENG-EPL,19-20,4df24be7
+3e9e06cb,Craig Dawson,4,ENG,CB,29-166,90,0,0,0,0,0,0,0,0,41,2,1,3,0.0,0.0,0.0,0,0,15,21,71.4,0,12,0,0,0,Watford,2019-10-19 Tottenham-Watford,ENG-EPL,19-20,4df24be7
+914ab9a1,Christian Kabasele,27,BEL,CB,28-237,90,0,0,0,0,0,0,0,0,42,5,3,0,0.0,0.0,0.0,0,0,14,18,77.8,3,12,0,1,1,Watford,2019-10-19 Tottenham-Watford,ENG-EPL,19-20,4df24be7
+45da6694,Daryl Janmaat,2,NED,RB,30-089,70,0,1,0,0,1,0,0,0,37,1,2,0,0.1,0.1,0.2,1,1,22,31,71.0,3,20,3,1,1,Watford,2019-10-19 Tottenham-Watford,ENG-EPL,19-20,4df24be7
+e5d01ecf,Kiko Femenía,21,ESP,RB,28-259,20,0,0,0,0,0,0,1,0,10,2,0,0,0.0,0.0,0.0,0,0,3,5,60.0,0,4,0,0,0,Watford,2019-10-19 Tottenham-Watford,ENG-EPL,19-20,4df24be7
+d0b3ceb9,Ben Foster,26,ENG,GK,36-199,90,0,0,0,0,0,0,0,0,42,0,0,0,0.0,0.0,0.0,0,0,9,39,23.1,0,21,0,1,1,Watford,2019-10-19 Tottenham-Watford,ENG-EPL,19-20,4df24be7

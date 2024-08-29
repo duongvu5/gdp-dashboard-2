@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+4c370d81,Roberto Firmino,9,BRA,FW,28-025,89,0,0,0,0,4,3,0,0,36,3,0,0,0.8,0.8,0.1,3,0,19,24,79.2,3,21,0,0,0,Liverpool,2019-10-27 Liverpool-Tottenham,ENG-EPL,19-20,16f28685
+43a166b4,Divock Origi,27,BEL,FW,24-192,1,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,1,0,0,0,Liverpool,2019-10-27 Liverpool-Tottenham,ENG-EPL,19-20,16f28685
+c691bfe2,Sadio Mané,10,SEN,"LW,FW",27-200,90,0,0,0,0,2,0,0,0,47,3,0,0,0.3,0.3,0.1,6,1,27,33,81.8,2,35,2,2,1,Liverpool,2019-10-27 Liverpool-Tottenham,ENG-EPL,19-20,16f28685
+e342ad68,Mohamed Salah,11,EGY,RW,27-134,84,1,0,1,1,6,4,0,0,31,0,0,0,1.1,0.3,0.1,4,0,18,19,94.7,3,25,1,4,1,Liverpool,2019-10-27 Liverpool-Tottenham,ENG-EPL,19-20,16f28685
+7a11550b,Joe Gomez,12,ENG,RB,22-157,6,0,0,0,0,0,0,0,0,5,0,1,0,0.0,0.0,0.0,0,0,2,2,100.0,1,1,0,0,0,Liverpool,2019-10-27 Liverpool-Tottenham,ENG-EPL,19-20,16f28685
+eb58eef0,Georginio Wijnaldum,5,NED,LM,28-350,76,0,0,0,0,1,1,0,0,43,1,1,1,0.1,0.1,0.0,0,0,36,38,94.7,1,34,0,0,0,Liverpool,2019-10-27 Liverpool-Tottenham,ENG-EPL,19-20,16f28685
+2f90f6b8,James Milner,7,ENG,LM,33-296,14,0,0,0,0,0,0,1,0,2,1,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,2,0,0,0,Liverpool,2019-10-27 Liverpool-Tottenham,ENG-EPL,19-20,16f28685
+7f3b388c,Fabinho,3,BRA,CM,26-004,90,0,0,0,0,1,0,0,0,106,4,3,3,0.0,0.0,0.1,5,1,80,92,87.0,15,69,1,1,0,Liverpool,2019-10-27 Liverpool-Tottenham,ENG-EPL,19-20,16f28685
+935e6b8f,Jordan Henderson,14,ENG,"RM,CM",29-132,90,1,0,0,0,1,1,0,0,75,2,1,2,0.1,0.1,0.1,1,0,37,62,59.7,6,43,4,3,2,Liverpool,2019-10-27 Liverpool-Tottenham,ENG-EPL,19-20,16f28685
+2e4f5f03,Andrew Robertson,26,SCO,LB,25-230,90,0,0,0,0,1,0,0,0,86,2,2,1,0.0,0.0,0.5,7,1,65,77,84.4,9,58,9,2,2,Liverpool,2019-10-27 Liverpool-Tottenham,ENG-EPL,19-20,16f28685
+e06683ca,Virgil van Dijk,4,NED,CB,28-111,90,0,0,0,0,1,1,0,0,91,1,1,0,0.1,0.1,0.0,1,0,76,87,87.4,6,71,1,0,0,Liverpool,2019-10-27 Liverpool-Tottenham,ENG-EPL,19-20,16f28685
+1a2935f6,Dejan Lovren,6,CRO,CB,30-114,90,0,0,0,0,1,1,1,0,113,1,1,1,0.0,0.0,0.0,1,0,84,102,82.4,10,73,3,0,0,Liverpool,2019-10-27 Liverpool-Tottenham,ENG-EPL,19-20,16f28685
+cd1acf9d,Trent Alexander-Arnold,66,ENG,"RB,RM",21-020,90,0,0,0,0,2,1,1,0,129,2,2,2,0.1,0.1,0.8,10,0,87,115,75.7,10,89,5,5,0,Liverpool,2019-10-27 Liverpool-Tottenham,ENG-EPL,19-20,16f28685
+7a2e46a8,Alisson,1,BRA,GK,27-025,90,0,0,0,0,0,0,0,0,37,0,0,0,0.0,0.0,0.0,0,0,29,37,78.4,0,23,0,0,0,Liverpool,2019-10-27 Liverpool-Tottenham,ENG-EPL,19-20,16f28685
+21a66f6a,Harry Kane,10,ENG,FW,26-091,90,1,0,0,0,1,1,0,0,24,0,0,1,0.5,0.5,0.0,2,0,9,13,69.2,2,12,0,0,0,Tottenham Hotspur,2019-10-27 Liverpool-Tottenham,ENG-EPL,19-20,16f28685
+92e7e919,Son Heung-min,7,KOR,"LW,AM",27-111,90,0,0,0,0,5,1,0,0,39,2,1,2,0.5,0.5,0.0,4,1,18,23,78.3,1,23,4,4,2,Tottenham Hotspur,2019-10-27 Liverpool-Tottenham,ENG-EPL,19-20,16f28685
+980522ec,Christian Eriksen,23,DEN,RW,27-255,87,0,0,0,0,1,0,0,0,35,0,0,0,0.0,0.0,0.0,1,0,17,30,56.7,2,19,1,0,0,Tottenham Hotspur,2019-10-27 Liverpool-Tottenham,ENG-EPL,19-20,16f28685
+d7553721,Giovani Lo Celso,18,ARG,DM,23-201,3,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,1,0,5,5,100.0,0,6,0,0,0,Tottenham Hotspur,2019-10-27 Liverpool-Tottenham,ENG-EPL,19-20,16f28685
+cea4ee8f,Dele Alli,20,ENG,"LM,LW",23-199,90,0,0,0,0,1,0,0,0,46,4,1,6,0.0,0.0,0.0,0,0,23,34,67.6,0,27,2,3,1,Tottenham Hotspur,2019-10-27 Liverpool-Tottenham,ENG-EPL,19-20,16f28685
+2f7acede,Harry Winks,8,ENG,CM,23-267,62,0,0,0,0,0,0,0,0,35,0,1,0,0.0,0.0,0.0,0,0,18,26,69.2,0,15,0,2,0,Tottenham Hotspur,2019-10-27 Liverpool-Tottenham,ENG-EPL,19-20,16f28685
+5cdddffa,Tanguy Ndombele,28,FRA,"RM,DM",22-303,28,0,0,0,0,1,1,1,0,18,0,0,1,0.0,0.0,0.1,2,0,10,15,66.7,5,9,0,0,0,Tottenham Hotspur,2019-10-27 Liverpool-Tottenham,ENG-EPL,19-20,16f28685
+2acd49b9,Moussa Sissoko,17,FRA,"RM,CM,RB",30-072,90,0,0,0,0,0,0,1,0,43,1,0,0,0.0,0.0,0.0,1,0,25,34,73.5,1,19,4,4,4,Tottenham Hotspur,2019-10-27 Liverpool-Tottenham,ENG-EPL,19-20,16f28685
+89d10e53,Danny Rose,3,ENG,LB,29-117,90,0,0,0,0,1,0,1,0,55,4,2,2,0.1,0.1,0.1,4,0,20,37,54.1,5,23,0,0,0,Tottenham Hotspur,2019-10-27 Liverpool-Tottenham,ENG-EPL,19-20,16f28685
+da7b447d,Davinson Sánchez,6,COL,CB,23-137,90,0,0,0,0,0,0,0,0,44,2,2,3,0.0,0.0,0.0,2,0,22,28,78.6,2,17,0,0,0,Tottenham Hotspur,2019-10-27 Liverpool-Tottenham,ENG-EPL,19-20,16f28685
+f7d50789,Toby Alderweireld,4,BEL,CB,30-239,90,0,0,0,0,1,1,0,0,47,0,2,2,0.0,0.0,0.0,2,0,20,28,71.4,0,18,0,0,0,Tottenham Hotspur,2019-10-27 Liverpool-Tottenham,ENG-EPL,19-20,16f28685
+5c2b4f07,Serge Aurier,24,CIV,RB,26-307,83,0,0,0,0,0,0,0,0,41,2,1,0,0.0,0.0,0.0,1,0,20,33,60.6,1,16,0,0,0,Tottenham Hotspur,2019-10-27 Liverpool-Tottenham,ENG-EPL,19-20,16f28685
+2b622f01,Lucas Moura,27,BRA,"RW,RB,AM",27-075,7,0,0,0,0,0,0,0,0,4,1,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,3,0,0,0,Tottenham Hotspur,2019-10-27 Liverpool-Tottenham,ENG-EPL,19-20,16f28685
+63d17038,Paulo Gazzaniga,22,ARG,GK,27-298,90,0,0,0,0,0,0,0,0,39,0,0,0,0.0,0.0,0.3,1,0,16,33,48.5,0,22,0,0,0,Tottenham Hotspur,2019-10-27 Liverpool-Tottenham,ENG-EPL,19-20,16f28685
