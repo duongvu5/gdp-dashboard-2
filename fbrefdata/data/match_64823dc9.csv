@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+a1d5bd30,Marcus Rashford,10,ENG,"FW,LW",25-209,76,0,0,0,0,6,2,0,0,30,1,0,0,0.8,0.8,0.0,2,0,19,22,86.4,5,17,3,1,1,Manchester United,2023-05-28 Manchester Utd-Fulham,ENG-EPL,22-23,64823dc9
+c4e87b8b,Wout Weghorst,27,NED,CM,30-294,14,0,0,0,0,1,0,0,0,9,0,0,0,0.2,0.2,0.0,1,0,4,5,80.0,0,2,0,3,1,Manchester United,2023-05-28 Manchester Utd-Fulham,ENG-EPL,22-23,64823dc9
+7aa8adfe,Alejandro Garnacho,49,ARG,LW,18-331,66,0,0,0,0,4,1,0,0,33,2,1,0,0.4,0.4,0.0,3,0,19,23,82.6,3,28,0,2,0,Manchester United,2023-05-28 Manchester Utd-Fulham,ENG-EPL,22-23,64823dc9
+8b788c01,Anthony Martial,9,FRA,"FW,LW",27-174,24,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,1,0,2,3,66.7,2,5,0,0,0,Manchester United,2023-05-28 Manchester Utd-Fulham,ENG-EPL,22-23,64823dc9
+dbf053da,Jadon Sancho,25,ENG,"RW,LW",23-064,90,1,0,0,0,2,1,0,0,49,0,0,4,0.6,0.6,0.3,5,0,30,34,88.2,4,25,4,6,3,Manchester United,2023-05-28 Manchester Utd-Fulham,ENG-EPL,22-23,64823dc9
+507c7bdf,Bruno Fernandes,8,POR,"AM,CM,RW",28-262,83,1,0,0,0,3,2,0,0,55,1,1,0,0.7,0.7,0.4,6,0,28,48,58.3,5,23,4,1,0,Manchester United,2023-05-28 Manchester Utd-Fulham,ENG-EPL,22-23,64823dc9
+ac7e7b1c,Facundo Pellistri,28,URU,RW,21-159,7,0,0,0,0,0,0,0,0,5,1,0,0,0.0,0.0,0.0,0,0,3,3,100.0,1,3,1,2,2,Manchester United,2023-05-28 Manchester Utd-Fulham,ENG-EPL,22-23,64823dc9
+b853e0ad,Fred,17,BRA,DM,30-084,65,0,1,0,0,0,0,0,0,61,4,1,0,0.0,0.0,0.8,8,1,42,51,82.4,6,29,1,5,1,Manchester United,2023-05-28 Manchester Utd-Fulham,ENG-EPL,22-23,64823dc9
+980522ec,Christian Eriksen,14,DEN,"CM,DM",31-103,25,0,0,0,0,0,0,0,0,16,1,0,0,0.0,0.0,0.0,1,0,14,16,87.5,4,6,1,0,0,Manchester United,2023-05-28 Manchester Utd-Fulham,ENG-EPL,22-23,64823dc9
+4d224fe8,Casemiro,18,BRA,DM,31-094,66,0,0,0,0,3,1,0,0,55,1,0,1,0.1,0.1,0.4,6,1,40,50,80.0,6,26,1,1,1,Manchester United,2023-05-28 Manchester Utd-Fulham,ENG-EPL,22-23,64823dc9
+d93c2511,Scott McTominay,39,SCO,"CM,DM",26-171,24,0,0,0,0,0,0,1,0,19,0,1,1,0.0,0.0,0.0,0,0,11,14,78.6,1,7,0,0,0,Manchester United,2023-05-28 Manchester Utd-Fulham,ENG-EPL,22-23,64823dc9
+6b6c793c,Tyrell Malacia,12,NED,LB,23-284,90,0,0,0,0,0,0,0,0,56,4,3,0,0.0,0.0,0.2,3,0,47,49,95.9,3,24,0,0,0,Manchester United,2023-05-28 Manchester Utd-Fulham,ENG-EPL,22-23,64823dc9
+f5deef4c,Victor Lindelöf,2,SWE,CB,28-315,90,0,0,0,0,0,0,0,0,71,2,2,1,0.0,0.0,0.0,1,0,60,63,95.2,4,39,0,0,0,Manchester United,2023-05-28 Manchester Utd-Fulham,ENG-EPL,22-23,64823dc9
+d8931174,Harry Maguire,5,ENG,CB,30-084,90,0,0,0,0,1,0,0,0,71,1,3,1,0.0,0.0,0.0,0,0,50,61,82.0,1,38,0,0,0,Manchester United,2023-05-28 Manchester Utd-Fulham,ENG-EPL,22-23,64823dc9
+d9565625,Diogo Dalot,20,POR,RB,24-071,90,0,0,0,0,1,1,0,0,52,1,2,1,0.0,0.0,0.0,2,0,36,44,81.8,0,25,1,0,0,Manchester United,2023-05-28 Manchester Utd-Fulham,ENG-EPL,22-23,64823dc9
+7ba6d84e,David de Gea,1,ESP,GK,32-202,90,0,0,0,0,0,0,0,0,33,0,0,0,0.0,0.0,0.0,0,0,23,30,76.7,0,13,0,0,0,Manchester United,2023-05-28 Manchester Utd-Fulham,ENG-EPL,22-23,64823dc9
+3925dbd6,Aleksandar Mitrović,9,SRB,FW,28-254,79,0,0,0,1,2,0,1,0,27,0,0,1,1.2,0.4,0.2,1,0,8,16,50.0,0,11,2,1,0,Fulham,2023-05-28 Manchester Utd-Fulham,ENG-EPL,22-23,64823dc9
+8b529245,Carlos Vinícius,30,BRA,FW,28-064,11,0,0,0,0,0,0,0,0,7,0,0,1,0.0,0.0,0.0,0,0,1,3,33.3,0,5,1,1,0,Fulham,2023-05-28 Manchester Utd-Fulham,ENG-EPL,22-23,64823dc9
+8b9ebd03,Willian,20,BRA,"LW,AM",34-292,90,0,1,0,0,0,0,0,0,43,0,0,0,0.0,0.0,0.2,6,2,30,37,81.1,3,24,1,2,1,Fulham,2023-05-28 Manchester Utd-Fulham,ENG-EPL,22-23,64823dc9
+c6dc9ecd,Harry Wilson,8,WAL,RW,26-067,65,0,0,0,0,1,0,0,0,27,2,0,1,0.0,0.0,0.0,1,0,14,18,77.8,1,17,1,1,0,Fulham,2023-05-28 Manchester Utd-Fulham,ENG-EPL,22-23,64823dc9
+886f9aac,Manor Solomon,11,ISR,"LW,RW",23-308,25,0,0,0,0,2,1,0,0,14,0,1,0,0.1,0.1,0.1,1,0,10,11,90.9,0,11,1,0,0,Fulham,2023-05-28 Manchester Utd-Fulham,ENG-EPL,22-23,64823dc9
+a8748947,Tom Cairney,10,SCO,AM,32-128,79,0,0,0,0,2,0,0,0,39,0,0,1,0.3,0.3,0.0,3,0,27,31,87.1,6,20,3,3,1,Fulham,2023-05-28 Manchester Utd-Fulham,ENG-EPL,22-23,64823dc9
+c931d9f9,Daniel James,21,WAL,RW,25-199,11,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,3,3,100.0,0,4,2,1,1,Fulham,2023-05-28 Manchester Utd-Fulham,ENG-EPL,22-23,64823dc9
+a78ff07f,João Palhinha,26,POR,DM,27-323,90,0,0,0,0,0,0,1,0,47,3,3,1,0.0,0.0,0.0,1,0,26,33,78.8,0,16,0,1,0,Fulham,2023-05-28 Manchester Utd-Fulham,ENG-EPL,22-23,64823dc9
+c6e8cf1f,Saša Lukić,28,SRB,DM,26-288,65,0,0,0,0,1,0,0,0,24,0,1,1,0.0,0.0,0.0,0,0,18,19,94.7,2,14,2,1,1,Fulham,2023-05-28 Manchester Utd-Fulham,ENG-EPL,22-23,64823dc9
+803ae100,Harrison Reed,6,ENG,DM,28-121,25,0,0,0,0,0,0,0,0,26,0,0,0,0.0,0.0,0.1,1,0,21,25,84.0,1,10,0,0,0,Fulham,2023-05-28 Manchester Utd-Fulham,ENG-EPL,22-23,64823dc9
+289601e6,Antonee Robinson,33,USA,LB,25-293,90,0,0,0,0,0,0,0,0,62,3,1,1,0.0,0.0,0.0,2,0,38,52,73.1,4,36,6,2,1,Fulham,2023-05-28 Manchester Utd-Fulham,ENG-EPL,22-23,64823dc9
+a712ca2b,Issa Diop,31,FRA,CB,26-139,90,0,0,0,0,0,0,0,0,76,2,0,1,0.0,0.0,0.4,1,0,60,64,93.8,3,50,1,1,1,Fulham,2023-05-28 Manchester Utd-Fulham,ENG-EPL,22-23,64823dc9
+c81d773d,Tosin Adarabioyo,4,ENG,CB,25-246,90,0,0,0,0,0,0,0,0,66,3,2,2,0.0,0.0,0.0,0,0,49,57,86.0,3,35,0,0,0,Fulham,2023-05-28 Manchester Utd-Fulham,ENG-EPL,22-23,64823dc9
+77d7c96f,Kenny Tete,2,NED,RB,27-231,90,1,0,0,0,1,1,0,0,61,2,3,3,0.1,0.1,0.0,2,0,37,44,84.1,1,31,3,3,1,Fulham,2023-05-28 Manchester Utd-Fulham,ENG-EPL,22-23,64823dc9
+2628fd2b,Bernd Leno,17,GER,GK,31-085,90,0,0,0,0,0,0,0,0,51,0,0,0,0.0,0.0,0.0,0,0,39,47,83.0,0,32,0,0,0,Fulham,2023-05-28 Manchester Utd-Fulham,ENG-EPL,22-23,64823dc9
