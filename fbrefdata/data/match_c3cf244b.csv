@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+fed7cb61,Kai Havertz,29,GER,"FW,LM",23-237,90,0,0,0,0,3,0,0,0,38,1,0,0,0.7,0.7,0.0,0,0,20,23,87.0,1,21,1,1,0,Chelsea,2023-02-03 Chelsea-Fulham,ENG-EPL,22-23,c3cf244b
+049a888d,Mykhailo Mudryk,15,UKR,LW,22-029,45,0,0,0,0,0,0,0,0,18,1,0,0,0.0,0.0,0.0,0,0,11,16,68.8,2,12,1,0,0,Chelsea,2023-02-03 Chelsea-Fulham,ENG-EPL,22-23,c3cf244b
+bf34eebd,Noni Madueke,31,ENG,"RW,LW",20-330,45,0,0,0,0,0,0,0,0,36,1,0,2,0.0,0.0,0.1,1,0,21,30,70.0,4,24,3,3,2,Chelsea,2023-02-03 Chelsea-Fulham,ENG-EPL,22-23,c3cf244b
+6622454d,Hakim Ziyech,22,MAR,RW,29-321,59,0,0,0,0,1,0,0,0,44,2,0,1,0.1,0.1,0.2,1,0,22,37,59.5,3,26,1,3,1,Chelsea,2023-02-03 Chelsea-Fulham,ENG-EPL,22-23,c3cf244b
+b400bde0,Raheem Sterling,17,ENG,LW,28-057,31,0,0,0,0,1,1,0,0,18,1,0,1,0.1,0.1,0.0,1,0,9,10,90.0,1,15,2,2,1,Chelsea,2023-02-03 Chelsea-Fulham,ENG-EPL,22-23,c3cf244b
+9674002f,Mason Mount,19,ENG,LM,24-024,74,0,0,0,0,2,0,0,0,39,1,1,1,0.1,0.1,0.0,2,0,24,31,77.4,1,22,1,0,0,Chelsea,2023-02-03 Chelsea-Fulham,ENG-EPL,22-23,c3cf244b
+e82900ef,David Datro Fofana,27,CIV,"FW,LM",20-043,16,0,0,0,0,1,0,0,0,9,1,0,0,0.2,0.2,0.0,2,0,1,2,50.0,0,2,0,3,2,Chelsea,2023-02-03 Chelsea-Fulham,ENG-EPL,22-23,c3cf244b
+5ff4ab71,Enzo Fernández,5,ARG,CM,22-017,90,0,0,0,0,1,0,0,0,93,6,2,4,0.0,0.0,0.1,2,0,64,75,85.3,7,49,1,0,0,Chelsea,2023-02-03 Chelsea-Fulham,ENG-EPL,22-23,c3cf244b
+c2731c10,Conor Gallagher,23,ENG,RM,22-362,90,0,0,0,0,1,0,1,0,66,2,1,2,0.0,0.0,0.3,1,0,43,52,82.7,8,39,3,3,1,Chelsea,2023-02-03 Chelsea-Fulham,ENG-EPL,22-23,c3cf244b
+1daec722,Marc Cucurella,32,ESP,LB,24-196,83,0,0,0,0,0,0,0,0,84,5,0,1,0.0,0.0,0.0,1,0,60,72,83.3,5,41,2,1,0,Chelsea,2023-02-03 Chelsea-Fulham,ENG-EPL,22-23,c3cf244b
+d2424d1b,Ben Chilwell,21,ENG,LB,26-044,7,0,0,0,0,0,0,0,0,13,0,0,1,0.0,0.0,0.1,2,0,10,12,83.3,0,7,0,0,0,Chelsea,2023-02-03 Chelsea-Fulham,ENG-EPL,22-23,c3cf244b
+06df8256,Benoît Badiashile,4,FRA,CB,21-314,90,0,0,0,0,1,0,0,0,121,1,2,0,0.1,0.1,0.1,2,0,101,112,90.2,5,86,3,0,0,Chelsea,2023-02-03 Chelsea-Fulham,ENG-EPL,22-23,c3cf244b
+86e7deaf,Thiago Silva,6,BRA,CB,38-134,90,0,0,0,0,1,1,0,0,120,0,2,1,0.1,0.1,0.0,0,0,98,109,89.9,9,86,2,0,0,Chelsea,2023-02-03 Chelsea-Fulham,ENG-EPL,22-23,c3cf244b
+1265a93a,Reece James,24,ENG,RB,23-057,59,0,0,0,0,0,0,0,0,65,1,0,0,0.0,0.0,0.0,0,0,51,62,82.3,10,42,2,0,0,Chelsea,2023-02-03 Chelsea-Fulham,ENG-EPL,22-23,c3cf244b
+53cad200,César Azpilicueta,28,ESP,RB,33-159,31,0,0,0,0,0,0,0,0,24,1,1,0,0.0,0.0,0.0,0,0,16,19,84.2,1,9,0,1,0,Chelsea,2023-02-03 Chelsea-Fulham,ENG-EPL,22-23,c3cf244b
+28d596a0,Kepa Arrizabalaga,1,ESP,GK,28-123,90,0,0,0,0,0,0,0,0,48,0,0,0,0.0,0.0,0.0,0,0,45,47,95.7,0,28,0,0,0,Chelsea,2023-02-03 Chelsea-Fulham,ENG-EPL,22-23,c3cf244b
+3925dbd6,Aleksandar Mitrović,9,SRB,FW,28-140,89,0,0,0,0,1,1,0,0,38,0,1,0,0.0,0.0,0.0,2,0,13,27,48.1,3,25,1,1,1,Fulham,2023-02-03 Chelsea-Fulham,ENG-EPL,22-23,c3cf244b
+8b529245,Carlos Vinícius,30,BRA,FW,27-315,1,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,1,0,0,0,Fulham,2023-02-03 Chelsea-Fulham,ENG-EPL,22-23,c3cf244b
+8b9ebd03,Willian,20,BRA,LW,34-178,74,0,0,0,0,1,1,0,0,27,3,0,0,0.1,0.1,0.2,5,0,12,15,80.0,2,19,3,7,6,Fulham,2023-02-03 Chelsea-Fulham,ENG-EPL,22-23,c3cf244b
+c6dc9ecd,Harry Wilson,8,WAL,RW,25-318,16,0,0,0,0,0,0,1,0,12,4,0,0,0.0,0.0,0.0,0,0,7,7,100.0,2,6,0,0,0,Fulham,2023-02-03 Chelsea-Fulham,ENG-EPL,22-23,c3cf244b
+0f7533cd,Bobby Reid,14,JAM,RW,30-001,74,0,0,0,0,2,1,1,0,44,1,0,0,0.2,0.2,0.0,0,0,23,32,71.9,3,35,3,6,2,Fulham,2023-02-03 Chelsea-Fulham,ENG-EPL,22-23,c3cf244b
+886f9aac,Manor Solomon,11,ISR,LW,23-194,16,0,0,0,0,0,0,0,0,6,1,1,0,0.0,0.0,0.0,1,0,3,3,100.0,0,5,0,2,1,Fulham,2023-02-03 Chelsea-Fulham,ENG-EPL,22-23,c3cf244b
+6639e500,Andreas Pereira,18,BRA,AM,27-033,89,0,0,0,0,2,1,1,0,33,0,0,1,0.2,0.2,0.0,0,0,17,27,63.0,3,17,1,2,0,Fulham,2023-02-03 Chelsea-Fulham,ENG-EPL,22-23,c3cf244b
+41e7ef1c,Layvin Kurzawa,3,FRA,AM,30-152,1,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Fulham,2023-02-03 Chelsea-Fulham,ENG-EPL,22-23,c3cf244b
+a78ff07f,João Palhinha,26,POR,DM,27-209,90,0,0,0,0,3,0,1,0,40,4,4,0,0.1,0.1,0.2,3,0,16,23,69.6,6,18,0,3,1,Fulham,2023-02-03 Chelsea-Fulham,ENG-EPL,22-23,c3cf244b
+803ae100,Harrison Reed,6,ENG,DM,28-007,89,0,0,0,0,0,0,0,0,47,0,1,1,0.0,0.0,0.0,2,0,23,35,65.7,2,21,2,1,1,Fulham,2023-02-03 Chelsea-Fulham,ENG-EPL,22-23,c3cf244b
+a8748947,Tom Cairney,10,SCO,DM,32-014,1,0,0,0,0,1,0,0,0,3,1,0,0,0.0,0.0,0.0,1,0,0,1,0.0,0,0,0,0,0,Fulham,2023-02-03 Chelsea-Fulham,ENG-EPL,22-23,c3cf244b
+289601e6,Antonee Robinson,33,USA,LB,25-179,90,0,0,0,0,0,0,0,0,37,2,5,0,0.0,0.0,0.0,0,0,17,27,63.0,1,19,1,2,0,Fulham,2023-02-03 Chelsea-Fulham,ENG-EPL,22-23,c3cf244b
+28b40c9c,Tim Ream,13,USA,CB,35-121,90,0,0,0,0,0,0,0,0,49,1,3,2,0.0,0.0,0.0,0,0,31,38,81.6,4,25,0,0,0,Fulham,2023-02-03 Chelsea-Fulham,ENG-EPL,22-23,c3cf244b
+a712ca2b,Issa Diop,31,FRA,CB,26-025,90,0,0,0,0,0,0,0,0,48,1,1,2,0.0,0.0,0.0,0,0,26,36,72.2,1,23,0,0,0,Fulham,2023-02-03 Chelsea-Fulham,ENG-EPL,22-23,c3cf244b
+77d7c96f,Kenny Tete,2,NED,RB,27-117,90,0,0,0,0,0,0,0,0,61,1,3,0,0.0,0.0,0.1,2,0,31,50,62.0,2,28,3,2,2,Fulham,2023-02-03 Chelsea-Fulham,ENG-EPL,22-23,c3cf244b
+2628fd2b,Bernd Leno,17,GER,GK,30-336,90,0,0,0,0,0,0,0,0,37,0,0,0,0.0,0.0,0.0,0,0,30,37,81.1,0,24,0,0,0,Fulham,2023-02-03 Chelsea-Fulham,ENG-EPL,22-23,c3cf244b

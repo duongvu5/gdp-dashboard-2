@@ -1,0 +1,29 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+c596fcb0,Callum Wilson,9,ENG,FW,30-175,69,1,0,0,0,4,2,0,0,18,0,1,0,0.8,0.8,0.0,0,0,9,13,69.2,0,9,1,0,0,Newcastle United,2022-08-21 Newcastle Utd-Manchester City,ENG-EPL,22-23,b513d9fe
+4e9a0555,Chris Wood,20,NZL,FW,30-257,21,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,0,0,7,9,77.8,1,4,1,0,0,Newcastle United,2022-08-21 Newcastle Utd-Manchester City,ENG-EPL,22-23,b513d9fe
+2b16cb1a,Allan Saint-Maximin,10,FRA,LW,25-162,90,0,2,0,0,3,1,0,0,34,0,0,0,0.2,0.2,1.0,8,4,15,23,65.2,7,23,9,7,5,Newcastle United,2022-08-21 Newcastle Utd-Manchester City,ENG-EPL,22-23,b513d9fe
+862a1c15,Miguel Almirón,24,PAR,RW,28-192,82,1,0,0,0,3,1,0,0,27,0,0,0,0.7,0.7,0.1,1,0,14,20,70.0,5,11,0,2,0,Newcastle United,2022-08-21 Newcastle Utd-Manchester City,ENG-EPL,22-23,b513d9fe
+de112b84,Jacob Murphy,23,ENG,RW,27-178,8,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,1,0,0,0,Newcastle United,2022-08-21 Newcastle Utd-Manchester City,ENG-EPL,22-23,b513d9fe
+c17bfb65,Joelinton,7,BRA,LM,26-007,90,0,0,0,0,0,0,1,0,39,3,3,2,0.0,0.0,0.0,4,0,23,27,85.2,4,12,1,2,2,Newcastle United,2022-08-21 Newcastle Utd-Manchester City,ENG-EPL,22-23,b513d9fe
+82518f62,Bruno Guimarães,39,BRA,CM,24-278,90,0,0,0,0,0,0,1,0,49,4,1,6,0.0,0.0,0.1,3,1,26,31,83.9,7,26,0,0,0,Newcastle United,2022-08-21 Newcastle Utd-Manchester City,ENG-EPL,22-23,b513d9fe
+a3b03921,Joe Willock,28,ENG,RM,23-001,69,0,0,0,0,0,0,0,0,27,2,0,1,0.0,0.0,0.0,1,0,14,22,63.6,0,7,4,2,2,Newcastle United,2022-08-21 Newcastle Utd-Manchester City,ENG-EPL,22-23,b513d9fe
+a2b105e0,Sean Longstaff,36,ENG,RM,24-295,21,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,3,5,60.0,0,2,0,0,0,Newcastle United,2022-08-21 Newcastle Utd-Manchester City,ENG-EPL,22-23,b513d9fe
+b2d31e83,Dan Burn,33,ENG,LB,30-104,89,0,0,0,0,0,0,0,0,34,2,1,0,0.0,0.0,0.0,1,0,18,25,72.0,1,4,0,1,0,Newcastle United,2022-08-21 Newcastle Utd-Manchester City,ENG-EPL,22-23,b513d9fe
+77cf6852,Emil Krafth,17,SWE,LB,28-019,1,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Newcastle United,2022-08-21 Newcastle Utd-Manchester City,ENG-EPL,22-23,b513d9fe
+ccce7025,Sven Botman,4,NED,CB,22-221,90,0,0,0,0,1,0,0,0,39,0,1,1,0.0,0.0,0.5,1,0,23,31,74.2,0,12,0,0,0,Newcastle United,2022-08-21 Newcastle Utd-Manchester City,ENG-EPL,22-23,b513d9fe
+c8aa95da,Fabian Schär,5,SUI,CB,30-244,90,0,0,0,0,0,0,1,0,51,2,5,2,0.0,0.0,0.0,1,0,15,34,44.1,1,14,0,0,0,Newcastle United,2022-08-21 Newcastle Utd-Manchester City,ENG-EPL,22-23,b513d9fe
+21512407,Kieran Trippier,2,ENG,RB,31-336,90,1,0,0,0,1,1,1,0,44,0,1,3,0.1,0.1,0.0,2,0,23,35,65.7,3,10,1,0,0,Newcastle United,2022-08-21 Newcastle Utd-Manchester City,ENG-EPL,22-23,b513d9fe
+4b40d9ca,Nick Pope,22,ENG,GK,30-124,90,0,0,0,0,0,0,0,0,35,0,0,0,0.0,0.0,0.0,0,0,14,28,50.0,0,15,0,0,0,Newcastle United,2022-08-21 Newcastle Utd-Manchester City,ENG-EPL,22-23,b513d9fe
+1f44ac21,Erling Haaland,9,NOR,FW,22-031,90,1,0,0,0,4,3,0,0,27,0,0,0,0.7,0.7,0.2,4,0,13,18,72.2,2,17,1,4,3,Manchester City,2022-08-21 Newcastle Utd-Manchester City,ENG-EPL,22-23,b513d9fe
+ed1e53f3,Phil Foden,47,ENG,LW,22-085,90,0,0,0,0,2,1,0,0,68,1,0,1,0.1,0.1,0.1,4,0,47,60,78.3,4,47,5,2,0,Manchester City,2022-08-21 Newcastle Utd-Manchester City,ENG-EPL,22-23,b513d9fe
+3eb22ec9,Bernardo Silva,20,POR,RW,28-011,90,1,1,0,0,2,1,0,0,50,2,0,0,0.3,0.3,0.2,6,2,33,38,86.8,5,24,4,3,1,Manchester City,2022-08-21 Newcastle Utd-Manchester City,ENG-EPL,22-23,b513d9fe
+819b3158,İlkay Gündoğan,8,GER,LM,31-301,90,1,0,0,0,3,1,0,0,64,1,3,1,0.3,0.3,0.2,6,1,40,49,81.6,8,32,4,2,1,Manchester City,2022-08-21 Newcastle Utd-Manchester City,ENG-EPL,22-23,b513d9fe
+6434f10d,Rodri,16,ESP,CM,26-060,90,0,1,0,0,4,1,0,0,139,1,0,1,0.1,0.1,0.1,5,2,108,120,90.0,7,64,0,0,0,Manchester City,2022-08-21 Newcastle Utd-Manchester City,ENG-EPL,22-23,b513d9fe
+e46012d4,Kevin De Bruyne,17,BEL,RM,31-054,90,0,1,0,0,3,2,0,0,55,3,0,0,0.3,0.3,0.8,7,1,28,44,63.6,7,25,4,3,1,Manchester City,2022-08-21 Newcastle Utd-Manchester City,ENG-EPL,22-23,b513d9fe
+bd6351cd,João Cancelo,7,POR,LB,28-086,90,0,0,0,0,1,0,1,0,103,0,1,2,0.0,0.0,0.0,4,0,80,95,84.2,13,52,5,4,3,Manchester City,2022-08-21 Newcastle Utd-Manchester City,ENG-EPL,22-23,b513d9fe
+eaeca114,Nathan Aké,6,NED,CB,27-184,20,0,0,0,0,0,0,0,0,20,0,0,0,0.0,0.0,0.0,1,0,18,20,90.0,0,9,0,0,0,Manchester City,2022-08-21 Newcastle Utd-Manchester City,ENG-EPL,22-23,b513d9fe
+31c69ef1,Rúben Dias,3,POR,CB,25-099,70,0,0,0,0,2,1,0,0,69,0,1,1,0.3,0.3,0.1,2,0,57,62,91.9,4,40,1,1,1,Manchester City,2022-08-21 Newcastle Utd-Manchester City,ENG-EPL,22-23,b513d9fe
+5eecec3d,John Stones,5,ENG,CB,28-085,90,0,0,0,0,0,0,1,0,55,0,0,0,0.0,0.0,0.0,0,0,50,53,94.3,2,30,0,0,0,Manchester City,2022-08-21 Newcastle Utd-Manchester City,ENG-EPL,22-23,b513d9fe
+86dd77d1,Kyle Walker,2,ENG,RB,32-085,90,0,0,0,0,0,0,0,0,66,1,0,0,0.0,0.0,0.0,1,0,46,62,74.2,8,26,2,4,3,Manchester City,2022-08-21 Newcastle Utd-Manchester City,ENG-EPL,22-23,b513d9fe
+3bb7b8b4,Ederson,31,BRA,GK,29-004,90,0,0,0,0,0,0,0,0,40,0,0,0,0.0,0.0,0.0,0,0,34,39,87.2,0,28,0,0,0,Manchester City,2022-08-21 Newcastle Utd-Manchester City,ENG-EPL,22-23,b513d9fe

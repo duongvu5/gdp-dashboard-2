@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+4d77b365,Darwin Núñez,27,URU,FW,23-127,90,0,0,0,0,4,2,0,0,38,0,0,1,0.3,0.3,0.4,6,0,21,28,75.0,3,23,4,2,0,Liverpool,2022-10-29 Liverpool-Leeds United,ENG-EPL,22-23,b5b1e744
+e342ad68,Mohamed Salah,11,EGY,FW,30-136,90,1,0,0,0,7,3,0,0,48,0,0,0,0.8,0.8,0.2,7,1,22,32,68.8,4,31,2,7,2,Liverpool,2022-10-29 Liverpool-Leeds United,ENG-EPL,22-23,b5b1e744
+4c370d81,Roberto Firmino,9,BRA,AM,31-027,90,0,0,0,0,3,3,0,0,49,0,2,5,0.3,0.3,0.2,5,0,20,28,71.4,4,21,1,3,2,Liverpool,2022-10-29 Liverpool-Leeds United,ENG-EPL,22-23,b5b1e744
+77e84962,Thiago Alcántara,6,ESP,LM,31-201,90,0,0,0,0,0,0,0,0,95,7,1,2,0.0,0.0,0.1,3,0,65,79,82.3,8,42,2,3,3,Liverpool,2022-10-29 Liverpool-Leeds United,ENG-EPL,22-23,b5b1e744
+b9e1436c,Harvey Elliott,19,ENG,RM,19-208,59,0,0,0,0,1,0,0,0,44,0,0,2,0.0,0.0,0.0,0,0,24,35,68.6,1,23,2,1,0,Liverpool,2022-10-29 Liverpool-Leeds United,ENG-EPL,22-23,b5b1e744
+4fb9c88f,Curtis Jones,17,ENG,RM,21-272,31,0,0,0,0,2,0,0,0,25,1,0,0,0.1,0.1,0.1,5,0,11,19,57.9,4,14,4,1,1,Liverpool,2022-10-29 Liverpool-Leeds United,ENG-EPL,22-23,b5b1e744
+7f3b388c,Fabinho,3,BRA,DM,29-006,59,0,0,0,0,0,0,0,0,65,2,3,4,0.0,0.0,0.0,0,0,43,50,86.0,8,30,0,1,0,Liverpool,2022-10-29 Liverpool-Leeds United,ENG-EPL,22-23,b5b1e744
+935e6b8f,Jordan Henderson,14,ENG,DM,32-134,31,0,0,0,0,2,1,0,0,38,0,1,2,0.1,0.1,0.0,0,0,26,33,78.8,6,17,0,0,0,Liverpool,2022-10-29 Liverpool-Leeds United,ENG-EPL,22-23,b5b1e744
+2e4f5f03,Andrew Robertson,26,SCO,LB,28-232,90,0,1,0,0,1,1,0,0,111,0,0,0,0.1,0.1,0.6,8,1,86,105,81.9,9,46,5,3,3,Liverpool,2022-10-29 Liverpool-Leeds United,ENG-EPL,22-23,b5b1e744
+e06683ca,Virgil van Dijk,4,NED,CB,31-113,90,0,0,0,0,1,0,0,0,85,1,1,0,0.0,0.0,0.0,0,0,65,71,91.5,4,50,0,0,0,Liverpool,2022-10-29 Liverpool-Leeds United,ENG-EPL,22-23,b5b1e744
+7a11550b,Joe Gomez,2,ENG,CB,25-159,90,0,0,0,0,1,0,0,0,131,2,0,1,0.0,0.0,0.0,1,0,100,124,80.6,16,82,0,1,1,Liverpool,2022-10-29 Liverpool-Leeds United,ENG-EPL,22-23,b5b1e744
+cd1acf9d,Trent Alexander-Arnold,66,ENG,RB,24-022,78,0,0,0,0,0,0,0,0,96,4,1,0,0.0,0.0,0.1,3,0,63,86,73.3,9,40,0,1,0,Liverpool,2022-10-29 Liverpool-Leeds United,ENG-EPL,22-23,b5b1e744
+2f90f6b8,James Milner,7,ENG,RB,36-298,12,0,0,0,0,0,0,0,0,17,0,0,0,0.0,0.0,0.0,2,0,8,14,57.1,3,10,0,1,0,Liverpool,2022-10-29 Liverpool-Leeds United,ENG-EPL,22-23,b5b1e744
+7a2e46a8,Alisson,1,BRA,GK,30-027,90,0,0,0,0,0,0,0,0,42,0,0,0,0.0,0.0,0.0,0,0,37,41,90.2,0,30,0,0,0,Liverpool,2022-10-29 Liverpool-Leeds United,ENG-EPL,22-23,b5b1e744
+1fb1c435,Rodrigo,19,ESP,FW,31-237,51,1,0,0,0,2,2,0,0,24,0,0,0,1.0,1.0,0.2,3,0,13,20,65.0,1,17,2,0,0,Leeds United,2022-10-29 Liverpool-Leeds United,ENG-EPL,22-23,b5b1e744
+93feac6e,Patrick Bamford,9,ENG,FW,29-054,39,0,1,0,0,1,1,0,0,14,0,0,0,0.1,0.1,0.1,0,0,5,8,62.5,0,7,0,0,0,Leeds United,2022-10-29 Liverpool-Leeds United,ENG-EPL,22-23,b5b1e744
+df04eb4b,Crysencio Summerville,10,NED,"LW,RW",20-364,89,1,0,0,0,2,1,1,0,45,2,0,2,0.1,0.1,0.0,4,0,19,30,63.3,3,22,3,2,1,Leeds United,2022-10-29 Liverpool-Leeds United,ENG-EPL,22-23,b5b1e744
+420d7c7d,Luke Ayling,2,ENG,CB,31-065,1,0,0,0,0,0,0,0,0,4,0,1,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Leeds United,2022-10-29 Liverpool-Leeds United,ENG-EPL,22-23,b5b1e744
+aa849a12,Jack Harrison,11,ENG,RW,25-343,71,0,0,0,0,3,1,0,0,43,0,0,4,0.2,0.2,0.1,1,0,13,21,61.9,2,19,6,4,0,Leeds United,2022-10-29 Liverpool-Leeds United,ENG-EPL,22-23,b5b1e744
+75fdd638,Wilfried Gnonto,29,ITA,"LW,LM",18-358,19,0,0,0,0,0,0,0,0,11,2,0,0,0.0,0.0,0.0,1,1,4,6,66.7,0,4,1,1,1,Leeds United,2022-10-29 Liverpool-Leeds United,ENG-EPL,22-23,b5b1e744
+5bc43860,Brenden Aaronson,7,USA,"AM,CM",22-007,90,0,0,0,0,2,0,0,0,47,2,0,3,0.2,0.2,0.2,5,0,20,28,71.4,3,25,1,4,1,Leeds United,2022-10-29 Liverpool-Leeds United,ENG-EPL,22-23,b5b1e744
+da27e268,Marc Roca,8,ESP,"DM,CM",25-337,90,0,0,0,0,1,1,0,0,38,2,2,1,0.0,0.0,0.0,2,0,17,29,58.6,3,11,1,0,0,Leeds United,2022-10-29 Liverpool-Leeds United,ENG-EPL,22-23,b5b1e744
+2b09d998,Tyler Adams,12,USA,"DM,RM",23-257,90,0,0,0,0,0,0,0,0,57,3,2,1,0.0,0.0,0.0,2,1,32,45,71.1,8,21,0,0,0,Leeds United,2022-10-29 Liverpool-Leeds United,ENG-EPL,22-23,b5b1e744
+f4d296e4,Pascal Struijk,21,NED,LB,23-079,90,0,0,0,0,1,0,0,0,55,4,1,1,0.0,0.0,0.1,3,0,29,41,70.7,5,14,1,1,1,Leeds United,2022-10-29 Liverpool-Leeds United,ENG-EPL,22-23,b5b1e744
+dc64b8b3,Liam Cooper,6,SCO,CB,31-060,90,0,0,0,0,0,0,0,0,35,2,1,0,0.0,0.0,0.0,1,0,12,20,60.0,4,4,0,0,0,Leeds United,2022-10-29 Liverpool-Leeds United,ENG-EPL,22-23,b5b1e744
+ea6bc03a,Robin Koch,5,GER,CB,26-104,90,0,0,0,0,0,0,0,0,39,2,1,7,0.0,0.0,0.0,0,0,15,21,71.4,1,9,0,0,0,Leeds United,2022-10-29 Liverpool-Leeds United,ENG-EPL,22-23,b5b1e744
+39769cff,Rasmus Kristensen,25,DEN,RB,25-110,90,0,0,0,0,2,0,0,0,73,1,2,0,0.1,0.1,0.2,3,0,41,60,68.3,1,27,1,0,0,Leeds United,2022-10-29 Liverpool-Leeds United,ENG-EPL,22-23,b5b1e744
+6b625ac2,Illan Meslier,1,FRA,GK,22-241,90,0,0,0,0,0,0,0,0,37,1,0,0,0.0,0.0,0.0,0,0,4,29,13.8,0,16,0,0,0,Leeds United,2022-10-29 Liverpool-Leeds United,ENG-EPL,22-23,b5b1e744
