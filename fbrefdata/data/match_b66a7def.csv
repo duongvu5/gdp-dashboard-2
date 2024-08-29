@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+f84a807c,Lyle Foster,17,RSA,FW,22-358,80,1,0,0,0,1,1,0,0,19,1,0,0,0.1,0.1,0.0,0,0,10,14,71.4,0,12,3,0,0,Burnley,2023-08-27 Burnley-Aston Villa,ENG-EPL,23-24,b66a7def
+4ab53cdb,Jay Rodriguez,9,ENG,FW,34-029,10,0,0,0,0,2,0,0,0,4,0,0,0,0.5,0.5,0.0,0,0,1,2,50.0,0,2,0,0,0,Burnley,2023-08-27 Burnley-Aston Villa,ENG-EPL,23-24,b66a7def
+2ee5b0c9,Zeki Amdouni,25,SUI,"FW,AM",22-266,80,0,0,0,0,2,0,0,0,25,1,0,1,0.1,0.1,0.0,1,0,15,16,93.8,3,13,1,3,1,Burnley,2023-08-27 Burnley-Aston Villa,ENG-EPL,23-24,b66a7def
+4e204552,Jacob Bruun Larsen,34,DEN,WB,24-342,10,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,7,8,87.5,0,6,0,0,0,Burnley,2023-08-27 Burnley-Aston Villa,ENG-EPL,23-24,b66a7def
+fc076f78,Luca Koleosho,30,ITA,LM,18-346,67,0,0,0,0,2,0,0,0,40,1,0,0,0.0,0.0,0.0,3,0,24,34,70.6,4,31,6,6,3,Burnley,2023-08-27 Burnley-Aston Villa,ENG-EPL,23-24,b66a7def
+ab651565,Nathan Redmond,15,ENG,"AM,WB",29-174,23,0,0,0,0,0,0,0,0,15,1,0,0,0.0,0.0,0.0,0,0,8,12,66.7,0,8,2,0,0,Burnley,2023-08-27 Burnley-Aston Villa,ENG-EPL,23-24,b66a7def
+d0b6129f,Sander Berge,16,NOR,CM,25-194,67,0,0,0,0,0,0,1,0,34,1,0,0,0.0,0.0,0.0,1,0,25,27,92.6,0,22,0,1,0,Burnley,2023-08-27 Burnley-Aston Villa,ENG-EPL,23-24,b66a7def
+e1618c22,Aaron Ramsey,21,ENG,FW,20-218,23,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,4,5,80.0,1,5,0,0,0,Burnley,2023-08-27 Burnley-Aston Villa,ENG-EPL,23-24,b66a7def
+f6d7d690,Josh Cullen,24,IRL,CM,27-142,90,0,0,0,0,0,0,1,0,84,2,1,1,0.0,0.0,0.3,2,0,63,78,80.8,4,62,0,1,0,Burnley,2023-08-27 Burnley-Aston Villa,ENG-EPL,23-24,b66a7def
+d7f99582,Benson Manuel,10,ANG,RM,26-152,45,0,0,0,0,0,0,0,0,16,1,0,0,0.0,0.0,0.0,0,0,9,13,69.2,0,13,0,2,2,Burnley,2023-08-27 Burnley-Aston Villa,ENG-EPL,23-24,b66a7def
+f72293fc,Jóhann Berg Guðmundsson,7,ISL,"WB,RM",32-304,45,0,1,0,0,0,0,0,0,37,0,1,0,0.0,0.0,0.2,4,1,28,34,82.4,5,25,0,1,1,Burnley,2023-08-27 Burnley-Aston Villa,ENG-EPL,23-24,b66a7def
+b737f944,Hannes Delcroix,44,BEL,"CB,LB",24-180,90,0,0,0,0,2,1,0,0,101,0,3,0,0.1,0.1,0.1,3,0,86,92,93.5,6,77,0,0,0,Burnley,2023-08-27 Burnley-Aston Villa,ENG-EPL,23-24,b66a7def
+1d042188,Dara O'Shea,2,IRL,CB,24-176,90,0,0,0,0,0,0,0,0,121,1,4,2,0.0,0.0,0.0,1,0,102,109,93.6,6,93,1,0,0,Burnley,2023-08-27 Burnley-Aston Villa,ENG-EPL,23-24,b66a7def
+93e08bce,Ameen Al-Dakhil,28,BEL,"CB,RB",21-174,90,0,0,0,0,0,0,0,0,86,0,1,0,0.0,0.0,0.0,0,0,72,83,86.7,8,71,2,1,1,Burnley,2023-08-27 Burnley-Aston Villa,ENG-EPL,23-24,b66a7def
+24fae784,Connor Roberts,14,WAL,"RB,CM,LB",27-338,90,0,0,0,0,0,0,0,0,87,1,1,2,0.0,0.0,0.0,1,1,74,82,90.2,9,71,0,0,0,Burnley,2023-08-27 Burnley-Aston Villa,ENG-EPL,23-24,b66a7def
+259fea27,James Trafford,1,ENG,GK,20-321,90,0,0,0,0,0,0,0,0,29,0,0,0,0.0,0.0,0.0,0,0,25,27,92.6,1,17,0,0,0,Burnley,2023-08-27 Burnley-Aston Villa,ENG-EPL,23-24,b66a7def
+aed3a70f,Ollie Watkins,11,ENG,FW,27-240,85,0,1,0,0,5,2,0,0,30,0,0,0,0.9,0.9,0.9,4,1,15,20,75.0,0,15,2,1,0,Aston Villa,2023-08-27 Burnley-Aston Villa,ENG-EPL,23-24,b66a7def
+414184f7,Jhon Durán,24,COL,FW,19-257,5,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,1,1,0,0,Aston Villa,2023-08-27 Burnley-Aston Villa,ENG-EPL,23-24,b66a7def
+90f91999,John McGinn,7,SCO,AM,28-313,90,0,0,0,0,0,0,0,0,43,1,0,1,0.0,0.0,0.3,4,1,30,38,78.9,8,21,1,3,2,Aston Villa,2023-08-27 Burnley-Aston Villa,ENG-EPL,23-24,b66a7def
+aeed5c06,Moussa Diaby,19,FRA,AM,24-051,72,1,1,0,0,2,1,0,0,32,0,0,0,0.2,0.2,0.7,2,1,22,25,88.0,1,15,2,1,1,Aston Villa,2023-08-27 Burnley-Aston Villa,ENG-EPL,23-24,b66a7def
+9907b1c8,Nicolò Zaniolo,22,ITA,AM,24-056,18,0,0,0,0,2,0,0,0,13,0,0,1,0.2,0.2,0.0,2,0,8,9,88.9,1,10,1,1,0,Aston Villa,2023-08-27 Burnley-Aston Villa,ENG-EPL,23-24,b66a7def
+6f7d826d,Douglas Luiz,6,BRA,CM,25-110,85,0,0,0,0,0,0,0,0,57,1,0,1,0.0,0.0,0.2,3,0,39,51,76.5,3,25,4,0,0,Aston Villa,2023-08-27 Burnley-Aston Villa,ENG-EPL,23-24,b66a7def
+56f7a928,Youri Tielemans,8,BEL,CM,26-112,5,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,0,0,Aston Villa,2023-08-27 Burnley-Aston Villa,ENG-EPL,23-24,b66a7def
+cc77354e,Boubacar Kamara,44,FRA,CM,23-277,90,0,0,0,0,0,0,0,0,66,3,1,1,0.0,0.0,0.3,2,0,54,59,91.5,5,36,1,2,2,Aston Villa,2023-08-27 Burnley-Aston Villa,ENG-EPL,23-24,b66a7def
+1b84dbe1,Lucas Digne,12,FRA,WB,30-038,80,0,1,0,0,0,0,0,0,35,0,2,0,0.0,0.0,0.1,2,1,23,30,76.7,3,14,1,1,0,Aston Villa,2023-08-27 Burnley-Aston Villa,ENG-EPL,23-24,b66a7def
+c47541e0,Bertrand Traoré,9,BFA,WB,27-355,10,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,2,0,0,0,Aston Villa,2023-08-27 Burnley-Aston Villa,ENG-EPL,23-24,b66a7def
+2389cdc2,Matty Cash,2,POL,WB,26-020,90,2,0,0,0,6,3,0,0,52,3,0,0,1.3,1.3,0.0,4,1,28,35,80.0,2,33,3,2,2,Aston Villa,2023-08-27 Burnley-Aston Villa,ENG-EPL,23-24,b66a7def
+532e1e4f,Pau Torres,14,ESP,CB,26-223,90,0,0,0,0,0,0,0,0,52,1,0,1,0.0,0.0,0.0,1,0,44,47,93.6,1,30,0,1,1,Aston Villa,2023-08-27 Burnley-Aston Villa,ENG-EPL,23-24,b66a7def
+b4a014b1,Diego Carlos,3,BRA,CB,30-165,90,0,0,0,0,1,0,0,0,80,2,2,0,0.1,0.1,0.0,0,0,53,69,76.8,2,45,0,2,1,Aston Villa,2023-08-27 Burnley-Aston Villa,ENG-EPL,23-24,b66a7def
+0313a347,Ezri Konsa,4,ENG,CB,25-308,90,0,0,0,0,0,0,0,0,64,4,1,1,0.0,0.0,0.0,0,0,46,52,88.5,2,25,1,1,1,Aston Villa,2023-08-27 Burnley-Aston Villa,ENG-EPL,23-24,b66a7def
+e7ee38c3,Robin Olsen,25,SWE,GK,33-231,90,0,0,0,0,0,0,0,0,39,0,0,0,0.0,0.0,0.0,0,0,30,39,76.9,0,24,0,0,0,Aston Villa,2023-08-27 Burnley-Aston Villa,ENG-EPL,23-24,b66a7def

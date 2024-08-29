@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+8e92be30,Alexander Isak,14,SWE,FW,24-233,67,0,0,0,0,1,1,0,0,13,0,0,0,0.2,0.2,0.0,0,0,7,10,70.0,0,8,1,2,1,Newcastle United,2024-05-11 Newcastle Utd-Brighton,ENG-EPL,23-24,6dbd7d72
+3ea50f67,Harvey Barnes,15,ENG,FW,26-154,23,0,0,0,0,2,1,1,0,10,0,1,0,0.2,0.2,0.0,0,0,2,4,50.0,0,6,1,1,0,Newcastle United,2024-05-11 Newcastle Utd-Brighton,ENG-EPL,23-24,6dbd7d72
+2bd83368,Anthony Gordon,10,ENG,LW,23-077,90,0,0,0,0,2,0,0,0,53,1,0,0,0.2,0.2,0.4,9,1,31,46,67.4,4,37,4,6,4,Newcastle United,2024-05-11 Newcastle Utd-Brighton,ENG-EPL,23-24,6dbd7d72
+de112b84,Jacob Murphy,23,ENG,RW,29-077,67,0,0,0,0,2,2,0,0,40,0,0,1,0.1,0.1,0.1,2,0,24,35,68.6,1,29,0,0,0,Newcastle United,2024-05-11 Newcastle Utd-Brighton,ENG-EPL,23-24,6dbd7d72
+862a1c15,Miguel Almirón,24,PAR,RW,30-091,23,0,0,0,0,1,1,1,0,16,0,0,0,0.1,0.1,0.0,1,0,11,11,100.0,3,12,1,1,0,Newcastle United,2024-05-11 Newcastle Utd-Brighton,ENG-EPL,23-24,6dbd7d72
+de31038e,Elliot Anderson,32,SCO,LM,21-187,90,0,1,0,0,2,0,0,0,69,1,1,1,0.1,0.1,0.9,5,1,47,56,83.9,5,49,5,9,6,Newcastle United,2024-05-11 Newcastle Utd-Brighton,ENG-EPL,23-24,6dbd7d72
+82518f62,Bruno Guimarães,39,BRA,CM,26-177,90,0,0,0,0,1,0,0,0,87,3,1,1,0.0,0.0,0.3,7,0,61,77,79.2,11,71,2,1,1,Newcastle United,2024-05-11 Newcastle Utd-Brighton,ENG-EPL,23-24,6dbd7d72
+a2b105e0,Sean Longstaff,36,ENG,RM,26-194,67,1,0,0,0,3,2,0,0,31,0,0,1,1.1,1.1,0.2,1,0,20,25,80.0,5,23,2,0,0,Newcastle United,2024-05-11 Newcastle Utd-Brighton,ENG-EPL,23-24,6dbd7d72
+c17bfb65,Joelinton,7,BRA,RM,27-271,23,0,0,0,0,0,0,0,0,22,1,0,1,0.0,0.0,0.1,2,0,15,19,78.9,0,12,2,0,0,Newcastle United,2024-05-11 Newcastle Utd-Brighton,ENG-EPL,23-24,6dbd7d72
+da011f18,Lewis Hall,20,ENG,LB,19-246,89,0,0,0,0,3,0,1,0,85,0,2,3,0.1,0.1,0.0,2,0,67,74,90.5,8,62,2,2,1,Newcastle United,2024-05-11 Newcastle Utd-Brighton,ENG-EPL,23-24,6dbd7d72
+21512407,Kieran Trippier,2,ENG,LB,33-235,1,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,4,4,100.0,1,4,0,0,0,Newcastle United,2024-05-11 Newcastle Utd-Brighton,ENG-EPL,23-24,6dbd7d72
+b2d31e83,Dan Burn,33,ENG,CB,32-002,90,0,0,0,0,1,0,0,0,79,1,0,4,0.2,0.2,0.0,1,0,64,71,90.1,3,53,0,0,0,Newcastle United,2024-05-11 Newcastle Utd-Brighton,ENG-EPL,23-24,6dbd7d72
+77cf6852,Emil Krafth,17,SWE,CB,29-283,90,0,0,0,0,0,0,0,0,87,1,2,0,0.0,0.0,0.0,1,0,71,82,86.6,1,58,0,0,0,Newcastle United,2024-05-11 Newcastle Utd-Brighton,ENG-EPL,23-24,6dbd7d72
+afed6722,Valentino Livramento,21,ENG,RB,21-181,90,0,0,0,0,0,0,0,0,91,0,2,1,0.0,0.0,0.0,2,0,70,82,85.4,12,64,5,1,1,Newcastle United,2024-05-11 Newcastle Utd-Brighton,ENG-EPL,23-24,6dbd7d72
+3a949a25,Martin Dúbravka,1,SVK,GK,35-117,90,0,0,0,0,0,0,0,0,27,0,0,0,0.0,0.0,0.0,0,0,25,27,92.6,0,18,0,0,0,Newcastle United,2024-05-11 Newcastle Utd-Brighton,ENG-EPL,23-24,6dbd7d72
+ce5143da,Danny Welbeck,18,ENG,FW,33-167,90,0,0,0,0,2,1,1,0,39,2,0,0,0.6,0.6,0.0,4,1,24,28,85.7,2,32,1,2,1,Brighton & Hove Albion,2024-05-11 Newcastle Utd-Brighton,ENG-EPL,23-24,6dbd7d72
+4dcec659,Simon Adingra,24,CIV,LW,22-131,86,0,0,0,0,2,0,0,0,52,4,1,4,0.1,0.1,0.1,6,0,29,33,87.9,2,32,5,3,2,Brighton & Hove Albion,2024-05-11 Newcastle Utd-Brighton,ENG-EPL,23-24,6dbd7d72
+65c3efa2,Odeluga Offiah,42,ENG,LW,21-198,4,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,3,5,60.0,1,3,1,1,1,Brighton & Hove Albion,2024-05-11 Newcastle Utd-Brighton,ENG-EPL,23-24,6dbd7d72
+468a7a91,Facundo Buonanotte,40,ARG,RW,19-140,66,0,0,0,0,1,0,0,0,32,3,0,2,0.1,0.1,0.0,0,0,18,19,94.7,3,17,2,0,0,Brighton & Hove Albion,2024-05-11 Newcastle Utd-Brighton,ENG-EPL,23-24,6dbd7d72
+4c5835e6,Benicio Boaitey,47,ENG,RW,20-123,24,0,0,0,0,1,0,1,0,9,0,0,1,0.0,0.0,0.1,2,0,4,6,66.7,1,7,1,0,0,Brighton & Hove Albion,2024-05-11 Newcastle Utd-Brighton,ENG-EPL,23-24,6dbd7d72
+9cfbad36,Julio Enciso,10,PAR,AM,20-109,66,0,0,0,0,5,2,1,0,42,1,0,2,0.3,0.3,0.6,4,0,23,31,74.2,3,34,6,2,2,Brighton & Hove Albion,2024-05-11 Newcastle Utd-Brighton,ENG-EPL,23-24,6dbd7d72
+f230bc30,Jakub Moder,15,POL,AM,25-034,24,0,0,0,0,0,0,0,0,26,1,0,0,0.0,0.0,0.0,1,0,15,19,78.9,2,15,0,2,1,Brighton & Hove Albion,2024-05-11 Newcastle Utd-Brighton,ENG-EPL,23-24,6dbd7d72
+df10e27c,Billy Gilmour,11,SCO,DM,22-335,86,0,0,0,0,1,0,1,0,75,2,2,1,0.1,0.1,0.0,1,0,63,70,90.0,4,52,2,0,0,Brighton & Hove Albion,2024-05-11 Newcastle Utd-Brighton,ENG-EPL,23-24,6dbd7d72
+a1390d2f,Carlos Baleba,20,CMR,DM,20-129,4,0,0,0,0,0,0,0,0,6,0,0,2,0.0,0.0,0.0,0,0,1,3,33.3,0,1,0,0,0,Brighton & Hove Albion,2024-05-11 Newcastle Utd-Brighton,ENG-EPL,23-24,6dbd7d72
+8aec0537,Pascal Groß,13,GER,DM,32-331,90,0,0,0,0,1,0,0,0,74,1,0,2,0.0,0.0,0.2,6,0,56,63,88.9,5,52,3,0,0,Brighton & Hove Albion,2024-05-11 Newcastle Utd-Brighton,ENG-EPL,23-24,6dbd7d72
+a4e85758,Igor,3,BRA,LB,26-094,90,0,0,0,0,0,0,0,0,65,2,0,1,0.0,0.0,0.0,1,0,52,56,92.9,0,36,1,0,0,Brighton & Hove Albion,2024-05-11 Newcastle Utd-Brighton,ENG-EPL,23-24,6dbd7d72
+282f75f3,Lewis Dunk,5,ENG,CB,32-172,90,0,0,0,0,1,0,0,0,49,1,0,1,0.0,0.0,0.0,0,0,36,40,90.0,1,20,0,0,0,Brighton & Hove Albion,2024-05-11 Newcastle Utd-Brighton,ENG-EPL,23-24,6dbd7d72
+c40b6180,Adam Webster,4,ENG,CB,29-128,90,0,0,0,0,0,0,0,0,49,0,1,3,0.0,0.0,0.0,0,0,29,37,78.4,3,24,0,0,0,Brighton & Hove Albion,2024-05-11 Newcastle Utd-Brighton,ENG-EPL,23-24,6dbd7d72
+dad4b285,Joël Veltman,34,NED,RB,32-117,39,1,0,0,0,1,1,0,0,11,2,1,0,0.2,0.2,0.0,0,0,2,6,33.3,1,5,0,0,0,Brighton & Hove Albion,2024-05-11 Newcastle Utd-Brighton,ENG-EPL,23-24,6dbd7d72
+f4e433d4,Tariq Lamptey,2,GHA,RB,23-224,51,0,0,0,0,0,0,0,0,27,3,1,1,0.0,0.0,0.0,0,0,18,20,90.0,1,11,0,1,0,Brighton & Hove Albion,2024-05-11 Newcastle Utd-Brighton,ENG-EPL,23-24,6dbd7d72
+cf134113,Bart Verbruggen,1,NED,GK,21-267,90,0,0,0,0,0,0,0,0,48,0,0,0,0.0,0.0,0.0,0,0,21,42,50.0,0,39,0,0,0,Brighton & Hove Albion,2024-05-11 Newcastle Utd-Brighton,ENG-EPL,23-24,6dbd7d72

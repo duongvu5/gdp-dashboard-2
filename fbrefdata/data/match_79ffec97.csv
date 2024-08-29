@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+fa031b34,Richarlison,9,BRA,FW,26-266,90,1,0,0,0,4,2,0,0,42,2,1,3,0.5,0.5,0.0,1,0,19,24,79.2,2,27,3,0,0,Tottenham Hotspur,2024-01-31 Tottenham-Brentford,ENG-EPL,23-24,79ffec97
+49fe9070,Timo Werner,16,GER,LW,27-331,89,0,1,0,0,3,1,0,0,63,2,0,1,0.2,0.2,1.0,4,1,40,53,75.5,3,52,9,2,1,Tottenham Hotspur,2024-01-31 Tottenham-Brentford,ENG-EPL,23-24,79ffec97
+5e4d9b48,Jamie Donley,63,ENG,RW,19-028,1,0,0,0,0,0,0,1,0,3,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,1,0,1,0,Tottenham Hotspur,2024-01-31 Tottenham-Brentford,ENG-EPL,23-24,79ffec97
+df3cda47,Dejan Kulusevski,21,SWE,"RW,AM",23-281,90,0,0,0,0,2,0,1,0,55,2,0,0,0.2,0.2,0.2,7,1,29,39,74.4,4,41,5,3,1,Tottenham Hotspur,2024-01-31 Tottenham-Brentford,ENG-EPL,23-24,79ffec97
+ee38d9c5,James Maddison,10,ENG,AM,27-069,87,0,0,0,0,4,0,0,0,102,3,1,2,0.3,0.3,0.1,8,1,75,86,87.2,12,84,3,2,2,Tottenham Hotspur,2024-01-31 Tottenham-Brentford,ENG-EPL,23-24,79ffec97
+620922ed,Radu Drăgușin,6,ROU,DM,21-362,3,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,0,0,0,0,Tottenham Hotspur,2024-01-31 Tottenham-Brentford,ENG-EPL,23-24,79ffec97
+3b8674e6,Rodrigo Bentancur,30,URU,DM,26-220,45,0,0,0,0,0,0,0,0,50,0,1,0,0.0,0.0,0.0,1,0,39,46,84.8,4,40,2,1,1,Tottenham Hotspur,2024-01-31 Tottenham-Brentford,ENG-EPL,23-24,79ffec97
+0cd31129,Brennan Johnson,22,WAL,"DM,LW,RW",22-253,45,1,0,0,0,1,1,0,0,23,1,0,1,0.9,0.9,0.2,2,0,13,13,100.0,1,15,0,0,0,Tottenham Hotspur,2024-01-31 Tottenham-Brentford,ENG-EPL,23-24,79ffec97
+6250083a,Oliver Skipp,4,ENG,DM,23-137,45,0,0,0,0,1,0,0,0,30,2,0,0,0.2,0.2,0.0,0,0,24,25,96.0,3,18,1,0,0,Tottenham Hotspur,2024-01-31 Tottenham-Brentford,ENG-EPL,23-24,79ffec97
+8b04d6c1,Pierre Højbjerg,5,DEN,DM,28-179,45,0,0,0,0,0,0,0,0,45,2,1,0,0.0,0.0,0.0,2,0,30,39,76.9,2,34,1,1,0,Tottenham Hotspur,2024-01-31 Tottenham-Brentford,ENG-EPL,23-24,79ffec97
+7cd520e8,Destiny Udogie,38,ITA,LB,21-064,90,1,0,0,0,2,1,0,0,106,2,2,1,0.6,0.6,0.2,5,1,70,83,84.3,10,71,6,2,1,Tottenham Hotspur,2024-01-31 Tottenham-Brentford,ENG-EPL,23-24,79ffec97
+8fe2a392,Micky van de Ven,37,NED,CB,22-287,90,0,0,0,0,0,0,0,0,65,2,1,1,0.0,0.0,0.0,0,0,55,56,98.2,6,42,0,2,1,Tottenham Hotspur,2024-01-31 Tottenham-Brentford,ENG-EPL,23-24,79ffec97
+a3d94a58,Cristian Romero,17,ARG,CB,25-279,90,0,0,0,0,0,0,0,0,88,2,2,1,0.0,0.0,0.0,2,0,70,80,87.5,6,52,2,1,1,Tottenham Hotspur,2024-01-31 Tottenham-Brentford,ENG-EPL,23-24,79ffec97
+27d0a506,Pedro Porro,23,ESP,RB,24-140,90,0,0,0,0,2,0,0,0,97,3,0,1,0.1,0.1,0.0,1,0,61,81,75.3,9,63,4,1,0,Tottenham Hotspur,2024-01-31 Tottenham-Brentford,ENG-EPL,23-24,79ffec97
+77d6fd4d,Guglielmo Vicario,13,ITA,GK,27-116,90,0,0,0,0,0,0,0,0,33,0,0,0,0.0,0.0,0.0,0,0,21,30,70.0,0,24,0,0,0,Tottenham Hotspur,2024-01-31 Tottenham-Brentford,ENG-EPL,23-24,79ffec97
+e09f279b,Ivan Toney,17,ENG,FW,27-321,90,1,0,0,0,5,3,0,0,30,3,0,0,1.1,1.1,0.0,3,1,13,23,56.5,1,20,5,1,1,Brentford,2024-01-31 Tottenham-Brentford,ENG-EPL,23-24,79ffec97
+4bcf39f6,Neal Maupay,7,FRA,FW,27-170,90,1,0,0,0,1,1,1,0,34,0,1,1,0.2,0.2,0.4,2,0,13,22,59.1,5,20,1,2,0,Brentford,2024-01-31 Tottenham-Brentford,ENG-EPL,23-24,79ffec97
+8449d35e,Vitaly Janelt,27,GER,CM,25-266,87,0,0,0,0,0,0,0,0,28,1,2,1,0.0,0.0,0.0,0,0,14,19,73.7,1,18,1,1,0,Brentford,2024-01-31 Tottenham-Brentford,ENG-EPL,23-24,79ffec97
+2886c9b5,Shandon Baptiste,26,GRN,CM,25-298,3,0,0,0,0,1,1,0,0,4,0,0,1,0.2,0.2,0.0,0,0,1,1,100.0,1,1,1,0,0,Brentford,2024-01-31 Tottenham-Brentford,ENG-EPL,23-24,79ffec97
+df0a4c90,Christian Nørgaard,6,DEN,CM,29-327,90,0,0,0,0,0,0,1,0,54,3,7,3,0.0,0.0,0.1,3,0,31,39,79.5,6,26,0,0,0,Brentford,2024-01-31 Tottenham-Brentford,ENG-EPL,23-24,79ffec97
+0f134faf,Mathias Jensen,8,DEN,CM,28-030,56,0,0,0,0,0,0,0,0,38,3,3,0,0.0,0.0,0.1,3,0,16,26,61.5,1,14,1,2,1,Brentford,2024-01-31 Tottenham-Brentford,ENG-EPL,23-24,79ffec97
+907a5d7c,Yehor Yarmoliuk,33,UKR,CM,19-336,34,0,0,0,0,0,0,1,0,14,0,0,1,0.0,0.0,0.0,1,0,8,11,72.7,5,7,0,1,0,Brentford,2024-01-31 Tottenham-Brentford,ENG-EPL,23-24,79ffec97
+41f08ac8,Keane Lewis-Potter,23,ENG,WB,22-343,87,0,0,0,0,0,0,0,0,32,1,0,0,0.0,0.0,0.0,1,0,16,23,69.6,2,19,2,3,1,Brentford,2024-01-31 Tottenham-Brentford,ENG-EPL,23-24,79ffec97
+215f3907,Mikkel Damsgaard,24,DEN,WB,23-212,3,0,0,0,0,0,0,0,0,5,1,0,0,0.0,0.0,0.0,0,0,0,3,0.0,0,1,0,0,0,Brentford,2024-01-31 Tottenham-Brentford,ENG-EPL,23-24,79ffec97
+57c94db2,Mads Roerslev,30,DEN,WB,24-221,77,0,0,0,0,0,0,0,0,30,1,1,2,0.0,0.0,0.0,0,0,10,19,52.6,1,10,1,4,0,Brentford,2024-01-31 Tottenham-Brentford,ENG-EPL,23-24,79ffec97
+60344e4f,Josh Dasilva,10,ENG,WB,25-100,13,0,0,0,0,0,0,0,0,17,1,0,0,0.0,0.0,0.2,1,0,6,13,46.2,2,11,2,3,1,Brentford,2024-01-31 Tottenham-Brentford,ENG-EPL,23-24,79ffec97
+8df7a2fb,Ben Mee,16,ENG,CB,34-132,90,0,0,0,0,1,0,0,0,45,4,1,3,0.1,0.1,0.0,0,0,17,28,60.7,5,9,1,0,0,Brentford,2024-01-31 Tottenham-Brentford,ENG-EPL,23-24,79ffec97
+e541326e,Ethan Pinnock,5,JAM,CB,30-247,90,0,0,0,0,1,0,0,0,40,1,1,4,0.1,0.1,0.0,0,0,17,25,68.0,2,19,1,0,0,Brentford,2024-01-31 Tottenham-Brentford,ENG-EPL,23-24,79ffec97
+a8c19eb8,Nathan Collins,22,IRL,CB,22-276,77,0,0,0,0,0,0,0,0,35,0,1,2,0.0,0.0,0.0,0,0,16,22,72.7,1,15,0,1,1,Brentford,2024-01-31 Tottenham-Brentford,ENG-EPL,23-24,79ffec97
+a8c0acb7,Kristoffer Ajer,20,NOR,CB,25-289,13,0,0,0,0,0,0,0,0,13,0,0,1,0.0,0.0,0.0,0,0,7,10,70.0,2,5,1,0,0,Brentford,2024-01-31 Tottenham-Brentford,ENG-EPL,23-24,79ffec97
+a92ab7be,Mark Flekken,1,NED,GK,30-232,90,0,0,0,0,0,0,0,0,37,0,0,0,0.0,0.0,0.0,0,0,18,35,51.4,0,19,0,0,0,Brentford,2024-01-31 Tottenham-Brentford,ENG-EPL,23-24,79ffec97
