@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+8e92be30,Alexander Isak,14,SWE,FW,24-191,90,2,1,2,2,2,0,1,0,39,0,0,3,1.9,0.3,0.6,3,1,25,30,83.3,10,25,3,0,0,Newcastle United,2024-03-30 Newcastle Utd-West Ham,ENG-EPL,23-24,10600f89
+2bd83368,Anthony Gordon,10,ENG,"LW,RW",23-035,89,0,1,0,0,6,1,2,1,55,1,0,0,0.3,0.3,0.3,7,4,33,43,76.7,3,44,9,0,0,Newcastle United,2024-03-30 Newcastle Utd-West Ham,ENG-EPL,23-24,10600f89
+de112b84,Jacob Murphy,23,ENG,"RW,RB",29-035,90,0,0,0,0,2,0,0,0,70,2,1,1,0.1,0.1,0.4,8,0,42,59,71.2,9,47,4,1,1,Newcastle United,2024-03-30 Newcastle Utd-West Ham,ENG-EPL,23-24,10600f89
+a3b03921,Joe Willock,28,ENG,LM,24-223,56,0,0,0,0,3,1,0,0,26,2,0,1,0.2,0.2,0.1,2,0,16,19,84.2,2,19,3,3,2,Newcastle United,2024-03-30 Newcastle Utd-West Ham,ENG-EPL,23-24,10600f89
+de31038e,Elliot Anderson,32,SCO,LM,21-145,34,0,0,0,0,0,0,0,0,31,2,1,0,0.0,0.0,0.0,2,0,20,26,76.9,3,20,4,1,1,Newcastle United,2024-03-30 Newcastle Utd-West Ham,ENG-EPL,23-24,10600f89
+82518f62,Bruno Guimarães,39,BRA,CM,26-135,90,0,0,0,0,3,0,0,0,90,6,0,0,0.3,0.3,0.1,10,1,67,77,87.0,18,75,2,3,1,Newcastle United,2024-03-30 Newcastle Utd-West Ham,ENG-EPL,23-24,10600f89
+a2b105e0,Sean Longstaff,36,ENG,RM,26-152,90,0,0,0,0,2,1,0,0,58,2,2,2,0.4,0.4,0.0,5,0,39,45,86.7,7,38,1,0,0,Newcastle United,2024-03-30 Newcastle Utd-West Ham,ENG-EPL,23-24,10600f89
+b2d31e83,Dan Burn,33,ENG,"CB,LB",31-326,90,0,0,0,0,0,0,0,0,71,1,2,1,0.0,0.0,0.0,0,0,51,65,78.5,0,45,0,1,1,Newcastle United,2024-03-30 Newcastle Utd-West Ham,ENG-EPL,23-24,10600f89
+c8aa95da,Fabian Schär,5,SUI,CB,32-101,90,0,0,0,0,0,0,0,0,68,1,2,1,0.0,0.0,0.0,2,1,45,59,76.3,4,42,2,0,0,Newcastle United,2024-03-30 Newcastle Utd-West Ham,ENG-EPL,23-24,10600f89
+450ab6fc,Jamaal Lascelles,6,ENG,CB,30-140,16,0,0,0,0,0,0,0,0,4,0,1,0,0.0,0.0,0.0,0,0,1,3,33.3,0,3,0,0,0,Newcastle United,2024-03-30 Newcastle Utd-West Ham,ENG-EPL,23-24,10600f89
+77cf6852,Emil Krafth,17,SWE,RB,29-241,40,0,0,0,0,0,0,0,0,26,1,0,2,0.0,0.0,0.0,0,0,17,23,73.9,1,16,1,0,0,Newcastle United,2024-03-30 Newcastle Utd-West Ham,ENG-EPL,23-24,10600f89
+da011f18,Lewis Hall,20,ENG,LB,19-204,34,0,0,0,0,0,0,0,0,31,3,1,1,0.0,0.0,0.0,0,0,19,25,76.0,1,16,2,0,0,Newcastle United,2024-03-30 Newcastle Utd-West Ham,ENG-EPL,23-24,10600f89
+afed6722,Valentino Livramento,21,ENG,"LB,RB",21-139,56,0,0,0,0,0,0,0,0,45,2,0,1,0.0,0.0,0.0,3,0,34,41,82.9,2,30,1,1,1,Newcastle United,2024-03-30 Newcastle Utd-West Ham,ENG-EPL,23-24,10600f89
+862a1c15,Miguel Almirón,24,PAR,"RW,LB",30-049,10,0,0,0,0,0,0,0,0,9,1,0,0,0.0,0.0,0.6,2,0,7,8,87.5,0,4,0,0,0,Newcastle United,2024-03-30 Newcastle Utd-West Ham,ENG-EPL,23-24,10600f89
+3ea50f67,Harvey Barnes,15,ENG,LW,26-112,24,2,0,0,0,4,4,0,0,13,0,0,0,1.0,1.0,0.0,3,1,6,7,85.7,2,9,1,1,1,Newcastle United,2024-03-30 Newcastle Utd-West Ham,ENG-EPL,23-24,10600f89
+3a949a25,Martin Dúbravka,1,SVK,GK,35-075,90,0,0,0,0,0,0,0,0,29,0,0,0,0.0,0.0,0.0,0,0,24,28,85.7,0,19,0,0,0,Newcastle United,2024-03-30 Newcastle Utd-West Ham,ENG-EPL,23-24,10600f89
+ac05f970,Michail Antonio,9,JAM,FW,34-002,68,1,0,0,0,2,1,0,0,21,0,0,0,0.5,0.5,0.0,1,0,11,14,78.6,3,12,2,3,2,West Ham United,2024-03-30 Newcastle Utd-West Ham,ENG-EPL,23-24,10600f89
+4f565d77,Kalvin Phillips,11,ENG,"FW,DM",28-119,22,0,0,0,0,0,0,0,0,13,1,0,1,0.0,0.0,0.0,0,0,5,10,50.0,1,3,0,0,0,West Ham United,2024-03-30 Newcastle Utd-West Ham,ENG-EPL,23-24,10600f89
+b62878a5,Mohammed Kudus,14,GHA,LW,23-241,90,1,1,0,0,3,1,0,0,54,5,0,0,0.3,0.3,0.4,4,3,28,35,80.0,2,34,3,13,6,West Ham United,2024-03-30 Newcastle Utd-West Ham,ENG-EPL,23-24,10600f89
+79c84d1c,Jarrod Bowen,20,ENG,RW,27-101,90,1,1,0,0,3,2,0,0,40,3,0,2,0.3,0.3,0.2,0,0,13,23,56.5,0,16,2,5,1,West Ham United,2024-03-30 Newcastle Utd-West Ham,ENG-EPL,23-24,10600f89
+9b6f7fd5,Lucas Paquetá,10,BRA,AM,26-216,90,0,1,0,0,1,0,0,0,59,2,1,0,0.1,0.1,0.5,5,2,37,50,74.0,4,24,1,1,1,West Ham United,2024-03-30 Newcastle Utd-West Ham,ENG-EPL,23-24,10600f89
+6613c819,Tomáš Souček,28,CZE,DM,29-032,90,0,0,0,0,1,0,1,0,49,4,1,3,0.2,0.2,0.2,2,0,24,35,68.6,4,10,1,0,0,West Ham United,2024-03-30 Newcastle Utd-West Ham,ENG-EPL,23-24,10600f89
+3515d404,James Ward-Prowse,7,ENG,DM,29-150,82,0,0,0,0,0,0,0,0,34,2,1,0,0.0,0.0,0.0,2,1,25,28,89.3,4,11,0,0,0,West Ham United,2024-03-30 Newcastle Utd-West Ham,ENG-EPL,23-24,10600f89
+9319781b,Ben Johnson,2,ENG,"DM,RB",24-066,8,0,0,0,0,0,0,0,0,12,1,0,0,0.0,0.0,0.0,1,0,4,7,57.1,0,3,2,1,1,West Ham United,2024-03-30 Newcastle Utd-West Ham,ENG-EPL,23-24,10600f89
+e0bc6fdc,Emerson Palmieri,33,ITA,LB,29-240,90,0,0,0,0,0,0,0,0,60,1,1,2,0.0,0.0,0.0,0,0,37,46,80.4,5,19,2,2,1,West Ham United,2024-03-30 Newcastle Utd-West Ham,ENG-EPL,23-24,10600f89
+ce4246f5,Kurt Zouma,4,FRA,CB,29-155,90,0,0,0,0,0,0,0,0,39,1,0,1,0.0,0.0,0.1,0,0,21,31,67.7,1,19,0,0,0,West Ham United,2024-03-30 Newcastle Utd-West Ham,ENG-EPL,23-24,10600f89
+00963611,Konstantinos Mavropanos,15,GRE,CB,26-110,90,0,0,0,0,0,0,0,0,40,1,2,2,0.0,0.0,0.0,0,0,18,28,64.3,3,17,0,1,1,West Ham United,2024-03-30 Newcastle Utd-West Ham,ENG-EPL,23-24,10600f89
+fdf3cb77,Vladimír Coufal,5,CZE,RB,31-221,89,0,0,0,0,0,0,0,0,38,0,0,1,0.0,0.0,0.0,1,0,24,35,68.6,2,8,0,0,0,West Ham United,2024-03-30 Newcastle Utd-West Ham,ENG-EPL,23-24,10600f89
+07802f7f,Danny Ings,18,ENG,"FW,RB",31-251,1,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,2,0,0,0,West Ham United,2024-03-30 Newcastle Utd-West Ham,ENG-EPL,23-24,10600f89
+2f965a72,Alphonse Areola,23,FRA,GK,31-032,45,0,0,0,0,0,0,0,0,18,0,0,0,0.0,0.0,0.0,0,0,7,16,43.8,0,8,0,0,0,West Ham United,2024-03-30 Newcastle Utd-West Ham,ENG-EPL,23-24,10600f89
+9328b835,Łukasz Fabiański,1,POL,GK,38-347,45,0,0,0,0,0,0,0,0,23,0,0,0,0.0,0.0,0.0,1,0,11,20,55.0,0,10,0,0,0,West Ham United,2024-03-30 Newcastle Utd-West Ham,ENG-EPL,23-24,10600f89

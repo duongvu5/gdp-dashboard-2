@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+9c36ed83,Nicolas Jackson,15,SEN,FW,22-334,90,0,0,0,0,4,1,0,0,34,0,0,1,0.3,0.3,0.1,3,0,17,25,68.0,1,21,5,5,4,Chelsea,2024-05-19 Chelsea-Bournemouth,ENG-EPL,23-24,7c034003
+b400bde0,Raheem Sterling,7,ENG,LW,29-163,63,1,0,0,0,2,1,0,0,38,1,0,1,0.2,0.2,0.2,5,1,21,25,84.0,4,22,4,7,3,Chelsea,2024-05-19 Chelsea-Bournemouth,ENG-EPL,23-24,7c034003
+7c56da38,Christopher Nkunku,18,FRA,LW,26-187,27,0,0,0,0,2,1,0,0,25,0,0,0,0.1,0.1,0.0,1,0,17,19,89.5,5,15,1,1,0,Chelsea,2024-05-19 Chelsea-Bournemouth,ENG-EPL,23-24,7c034003
+bf34eebd,Noni Madueke,11,ENG,RW,22-070,63,0,0,0,0,1,0,0,0,28,1,0,0,0.1,0.1,0.0,3,0,19,21,90.5,4,20,3,4,2,Chelsea,2024-05-19 Chelsea-Bournemouth,ENG-EPL,23-24,7c034003
+d56b9520,Malo Gusto,27,FRA,RW,21-000,27,0,0,0,0,1,1,1,0,22,2,0,0,0.0,0.0,0.0,1,0,15,18,83.3,1,11,1,0,0,Chelsea,2024-05-19 Chelsea-Bournemouth,ENG-EPL,23-24,7c034003
+dc7f8a28,Cole Palmer,20,ENG,AM,22-013,88,0,1,0,0,3,0,0,0,49,1,1,0,0.2,0.2,0.4,6,1,28,37,75.7,6,30,5,5,2,Chelsea,2024-05-19 Chelsea-Bournemouth,ENG-EPL,23-24,7c034003
+fb920f3a,Cesare Casadei,31,ITA,AM,21-130,2,0,0,0,0,0,0,0,0,9,3,0,0,0.0,0.0,0.0,1,0,4,5,80.0,1,2,0,0,0,Chelsea,2024-05-19 Chelsea-Bournemouth,ENG-EPL,23-24,7c034003
+c2731c10,Conor Gallagher,23,ENG,DM,24-103,90,0,0,0,0,2,1,0,0,68,1,1,2,0.3,0.3,0.0,2,0,52,57,91.2,3,27,1,5,5,Chelsea,2024-05-19 Chelsea-Bournemouth,ENG-EPL,23-24,7c034003
+16264a81,Moisés Caicedo,25,ECU,DM,22-199,63,1,0,0,0,1,1,0,0,64,6,3,2,0.0,0.0,0.1,1,0,44,52,84.6,3,24,1,3,1,Chelsea,2024-05-19 Chelsea-Bournemouth,ENG-EPL,23-24,7c034003
+1df4a109,Lesley Ugochukwu,16,FRA,DM,20-054,27,0,0,0,0,0,0,0,0,18,2,0,1,0.0,0.0,0.1,2,0,14,16,87.5,2,8,2,0,0,Chelsea,2024-05-19 Chelsea-Bournemouth,ENG-EPL,23-24,7c034003
+1daec722,Marc Cucurella,3,ESP,LB,25-302,90,0,0,0,0,0,0,1,0,77,6,1,1,0.0,0.0,0.0,2,0,53,61,86.9,2,32,1,2,1,Chelsea,2024-05-19 Chelsea-Bournemouth,ENG-EPL,23-24,7c034003
+06df8256,Benoît Badiashile,5,FRA,CB,23-054,90,0,0,0,0,0,0,0,0,76,1,0,1,0.0,0.0,0.0,1,0,55,63,87.3,2,33,1,0,0,Chelsea,2024-05-19 Chelsea-Bournemouth,ENG-EPL,23-24,7c034003
+86e7deaf,Thiago Silva,6,BRA,CB,39-240,90,0,0,0,0,0,0,0,0,66,0,1,0,0.0,0.0,0.0,0,0,52,58,89.7,4,29,0,0,0,Chelsea,2024-05-19 Chelsea-Bournemouth,ENG-EPL,23-24,7c034003
+5515376c,Trevoh Chalobah,14,ENG,RB,24-319,90,0,0,0,0,0,0,0,0,66,1,2,1,0.0,0.0,0.0,0,0,50,58,86.2,1,30,1,1,0,Chelsea,2024-05-19 Chelsea-Bournemouth,ENG-EPL,23-24,7c034003
+0cf321c8,Đorđe Petrović,28,SRB,GK,24-224,90,0,0,0,0,0,0,0,0,55,0,0,0,0.0,0.0,0.0,0,0,38,53,71.7,0,23,0,0,0,Chelsea,2024-05-19 Chelsea-Bournemouth,ENG-EPL,23-24,7c034003
+f8eca1b6,Enes Ünal,26,TUR,FW,27-009,68,0,0,0,0,4,1,0,0,21,0,0,1,0.7,0.7,0.2,1,0,8,11,72.7,1,11,1,0,0,Bournemouth,2024-05-19 Chelsea-Bournemouth,ENG-EPL,23-24,7c034003
+d328a254,Philip Billing,29,DEN,AM,27-343,22,0,0,0,0,1,0,0,0,13,1,0,2,0.0,0.0,0.0,1,0,4,7,57.1,1,4,1,0,0,Bournemouth,2024-05-19 Chelsea-Bournemouth,ENG-EPL,23-24,7c034003
+5c0da4a4,Marcus Tavernier,16,ENG,LW,25-058,58,0,0,0,0,2,1,0,0,39,3,0,1,0.1,0.1,0.3,8,0,28,30,93.3,2,23,2,0,0,Bournemouth,2024-05-19 Chelsea-Bournemouth,ENG-EPL,23-24,7c034003
+2f9e4435,Dango Ouattara,11,BFA,RW,22-098,32,0,0,0,0,3,2,0,0,22,2,0,0,0.2,0.2,0.0,3,0,7,10,70.0,1,11,1,5,1,Bournemouth,2024-05-19 Chelsea-Bournemouth,ENG-EPL,23-24,7c034003
+efd2ec23,Antoine Semenyo,24,GHA,"RW,LW",24-133,90,0,0,0,0,3,1,1,0,54,2,0,2,0.2,0.2,0.2,4,0,27,36,75.0,4,34,6,7,5,Bournemouth,2024-05-19 Chelsea-Bournemouth,ENG-EPL,23-24,7c034003
+4c3a6744,Justin Kluivert,19,NED,AM,25-014,58,0,0,0,0,2,0,0,0,16,1,0,0,0.1,0.1,0.0,1,0,7,7,100.0,0,10,0,2,0,Bournemouth,2024-05-19 Chelsea-Bournemouth,ENG-EPL,23-24,7c034003
+e77dc3b2,Dominic Solanke,9,ENG,"FW,AM",26-248,32,0,0,0,0,2,0,0,0,6,0,0,0,0.5,0.5,0.0,0,0,0,1,0.0,0,3,0,1,0,Bournemouth,2024-05-19 Chelsea-Bournemouth,ENG-EPL,23-24,7c034003
+26ce2263,Ryan Christie,10,SCO,DM,29-087,90,0,0,0,0,3,0,0,0,52,4,2,0,0.4,0.4,0.0,3,0,26,35,74.3,5,25,1,3,0,Bournemouth,2024-05-19 Chelsea-Bournemouth,ENG-EPL,23-24,7c034003
+2afc7272,Lewis Cook,4,ENG,"DM,RB",27-106,90,0,0,0,0,1,0,0,0,48,1,3,0,0.0,0.0,0.5,3,0,35,42,83.3,4,31,2,0,0,Bournemouth,2024-05-19 Chelsea-Bournemouth,ENG-EPL,23-24,7c034003
+0ad53bdc,Milos Kerkez,3,HUN,LB,20-194,90,0,0,0,0,0,0,1,0,34,1,1,0,0.0,0.0,0.2,2,0,20,27,74.1,0,18,2,2,0,Bournemouth,2024-05-19 Chelsea-Bournemouth,ENG-EPL,23-24,7c034003
+35141f4c,Marcos Senesi,25,ARG,CB,27-009,83,0,0,0,0,1,0,1,0,64,6,3,3,0.1,0.1,0.1,7,0,33,46,71.7,7,34,2,0,0,Bournemouth,2024-05-19 Chelsea-Bournemouth,ENG-EPL,23-24,7c034003
+f31def1e,Lloyd Kelly,5,ENG,CB,25-226,7,0,0,0,0,0,0,0,0,8,0,0,1,0.0,0.0,0.0,0,0,4,7,57.1,0,5,0,0,0,Bournemouth,2024-05-19 Chelsea-Bournemouth,ENG-EPL,23-24,7c034003
+88968486,Illia Zabarnyi,27,UKR,CB,21-261,90,0,0,0,0,0,0,0,0,50,1,1,3,0.0,0.0,0.0,2,0,33,39,84.6,3,35,0,1,1,Bournemouth,2024-05-19 Chelsea-Bournemouth,ENG-EPL,23-24,7c034003
+774cf58b,Max Aarons,37,ENG,RB,24-136,69,0,0,0,0,0,0,0,0,32,0,2,0,0.0,0.0,0.0,2,0,21,24,87.5,1,13,0,2,1,Bournemouth,2024-05-19 Chelsea-Bournemouth,ENG-EPL,23-24,7c034003
+104d0bb8,Alex Scott,14,ENG,DM,20-272,21,0,0,0,0,0,0,0,0,18,0,0,0,0.0,0.0,0.0,0,0,13,17,76.5,1,10,0,0,0,Bournemouth,2024-05-19 Chelsea-Bournemouth,ENG-EPL,23-24,7c034003
+a9dc785c,Neto,1,BRA,GK,34-305,90,0,0,0,0,0,0,0,0,30,0,0,0,0.0,0.0,0.0,0,0,23,27,85.2,0,15,0,0,0,Bournemouth,2024-05-19 Chelsea-Bournemouth,ENG-EPL,23-24,7c034003

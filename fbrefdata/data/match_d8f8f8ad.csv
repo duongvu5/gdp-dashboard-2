@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+38ceb24a,Leandro Trossard,19,BEL,FW,28-265,45,0,0,0,0,0,0,0,0,25,0,0,1,0.0,0.0,0.7,6,0,15,21,71.4,1,14,1,0,0,Arsenal,2023-08-26 Arsenal-Fulham,ENG-EPL,23-24,d8f8f8ad
+a53649b7,Eddie Nketiah,14,ENG,FW,24-088,45,1,0,0,0,4,1,0,0,19,0,0,0,0.4,0.4,0.0,0,0,10,12,83.3,1,10,0,1,0,Arsenal,2023-08-26 Arsenal-Fulham,ENG-EPL,23-24,d8f8f8ad
+48a5a5d6,Gabriel Martinelli,11,BRA,LW,22-069,90,0,0,0,0,4,3,0,0,61,0,0,1,0.5,0.5,0.0,3,1,42,52,80.8,7,40,3,2,1,Arsenal,2023-08-26 Arsenal-Fulham,ENG-EPL,23-24,d8f8f8ad
+bc7dc64d,Bukayo Saka,7,ENG,RW,21-355,90,1,0,1,1,2,1,0,0,86,2,0,4,1.4,0.6,0.5,5,1,52,67,77.6,4,52,6,10,6,Arsenal,2023-08-26 Arsenal-Fulham,ENG-EPL,23-24,d8f8f8ad
+fed7cb61,Kai Havertz,29,GER,LM,24-076,55,0,0,0,0,1,0,0,0,27,2,0,0,0.3,0.3,0.3,2,0,20,23,87.0,5,9,1,0,0,Arsenal,2023-08-26 Arsenal-Fulham,ENG-EPL,23-24,d8f8f8ad
+6412cc03,Fabio Vieira,21,POR,LM,23-088,35,0,1,0,0,1,1,0,0,27,0,0,0,0.0,0.0,0.3,3,1,16,21,76.2,5,19,3,3,1,Arsenal,2023-08-26 Arsenal-Fulham,ENG-EPL,23-24,d8f8f8ad
+1c7012b8,Declan Rice,41,ENG,CM,24-224,89,0,0,0,0,0,0,0,0,79,5,2,0,0.0,0.0,0.0,2,0,68,71,95.8,9,45,0,0,0,Arsenal,2023-08-26 Arsenal-Fulham,ENG-EPL,23-24,d8f8f8ad
+b66315ae,Gabriel Jesus,9,BRA,CM,26-145,1,0,0,0,0,1,1,0,0,5,0,0,0,0.1,0.1,0.0,1,0,1,2,50.0,0,1,0,1,0,Arsenal,2023-08-26 Arsenal-Fulham,ENG-EPL,23-24,d8f8f8ad
+79300479,Martin Ødegaard,8,NOR,RM,24-252,83,0,0,0,0,3,2,0,0,60,2,0,2,0.1,0.1,0.0,2,0,45,51,88.2,6,38,3,5,3,Arsenal,2023-08-26 Arsenal-Fulham,ENG-EPL,23-24,d8f8f8ad
+45db685d,Jorginho,20,ITA,RM,31-249,7,0,0,0,0,0,0,0,0,19,0,0,0,0.0,0.0,0.0,1,0,18,19,94.7,7,12,2,0,0,Arsenal,2023-08-26 Arsenal-Fulham,ENG-EPL,23-24,d8f8f8ad
+dc3e663e,Jakub Kiwior,15,POL,"LB,CB",23-192,90,0,0,0,0,1,0,0,0,75,2,0,3,0.4,0.4,0.0,0,0,54,65,83.1,8,32,0,0,0,Arsenal,2023-08-26 Arsenal-Fulham,ENG-EPL,23-24,d8f8f8ad
+972aeb2a,William Saliba,2,FRA,CB,22-155,90,0,0,0,0,1,0,0,0,104,0,2,1,0.0,0.0,0.0,1,0,91,96,94.8,12,55,1,1,0,Arsenal,2023-08-26 Arsenal-Fulham,ENG-EPL,23-24,d8f8f8ad
+35e413f1,Ben White,4,ENG,"CB,RB",25-322,90,0,0,0,0,0,0,0,0,108,0,0,1,0.0,0.0,0.1,5,0,87,99,87.9,9,61,3,1,0,Arsenal,2023-08-26 Arsenal-Fulham,ENG-EPL,23-24,d8f8f8ad
+529f49ab,Thomas Partey,5,GHA,RB,30-074,55,0,0,0,0,0,0,0,0,70,1,1,0,0.0,0.0,0.0,1,0,60,67,89.6,11,41,3,5,4,Arsenal,2023-08-26 Arsenal-Fulham,ENG-EPL,23-24,d8f8f8ad
+51cf8561,Oleksandr Zinchenko,35,UKR,LB,26-254,35,0,0,0,0,0,0,0,0,45,0,1,1,0.0,0.0,0.1,2,0,34,41,82.9,7,21,2,1,0,Arsenal,2023-08-26 Arsenal-Fulham,ENG-EPL,23-24,d8f8f8ad
+466fb2c5,Aaron Ramsdale,1,ENG,GK,25-104,90,0,0,0,0,0,0,0,0,35,0,0,0,0.0,0.0,0.0,0,0,31,34,91.2,1,20,0,0,0,Arsenal,2023-08-26 Arsenal-Fulham,ENG-EPL,23-24,d8f8f8ad
+b561db50,Raúl Jiménez,7,MEX,FW,32-113,90,0,0,0,0,2,0,1,0,40,3,0,3,0.1,0.1,0.0,1,0,12,23,52.2,2,10,0,0,0,Fulham,2023-08-26 Arsenal-Fulham,ENG-EPL,23-24,d8f8f8ad
+0f7533cd,Bobby Reid,14,JAM,LW,30-205,88,0,0,0,0,0,0,0,0,26,0,0,1,0.0,0.0,0.1,1,0,11,20,55.0,2,18,3,2,0,Fulham,2023-08-26 Arsenal-Fulham,ENG-EPL,23-24,d8f8f8ad
+c81d773d,Tosin Adarabioyo,4,ENG,CB,25-336,2,0,0,0,0,0,0,0,0,5,0,0,1,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Fulham,2023-08-26 Arsenal-Fulham,ENG-EPL,23-24,d8f8f8ad
+c6dc9ecd,Harry Wilson,8,WAL,RW,26-157,70,0,0,0,0,1,0,0,0,23,0,0,2,0.0,0.0,0.0,2,0,13,16,81.3,1,11,0,1,0,Fulham,2023-08-26 Arsenal-Fulham,ENG-EPL,23-24,d8f8f8ad
+9a28eba4,Adama Traoré,11,ESP,"RW,CM",27-213,20,0,0,0,0,1,1,0,0,7,0,0,0,0.2,0.2,0.0,0,0,1,2,50.0,0,5,1,1,0,Fulham,2023-08-26 Arsenal-Fulham,ENG-EPL,23-24,d8f8f8ad
+6639e500,Andreas Pereira,18,BRA,LM,27-237,62,1,0,0,0,1,1,0,0,16,0,0,0,0.0,0.0,0.0,1,0,8,12,66.7,0,9,0,0,0,Fulham,2023-08-26 Arsenal-Fulham,ENG-EPL,23-24,d8f8f8ad
+a8748947,Tom Cairney,10,SCO,"LM,CM",32-218,28,0,0,0,0,0,0,0,0,13,0,0,0,0.0,0.0,0.0,0,0,10,13,76.9,0,8,1,1,1,Fulham,2023-08-26 Arsenal-Fulham,ENG-EPL,23-24,d8f8f8ad
+a78ff07f,João Palhinha,26,POR,"CM,CB",28-048,90,1,0,0,0,2,1,0,0,48,6,1,2,0.1,0.1,0.0,0,0,27,33,81.8,1,19,0,0,0,Fulham,2023-08-26 Arsenal-Fulham,ENG-EPL,23-24,d8f8f8ad
+c6e8cf1f,Saša Lukić,28,SRB,RM,27-013,69,0,0,0,0,1,0,1,0,22,2,1,0,0.0,0.0,0.0,2,0,12,14,85.7,2,4,0,1,0,Fulham,2023-08-26 Arsenal-Fulham,ENG-EPL,23-24,d8f8f8ad
+803ae100,Harrison Reed,6,ENG,"RM,CM",28-211,21,0,1,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.1,1,1,4,7,57.1,0,2,0,0,0,Fulham,2023-08-26 Arsenal-Fulham,ENG-EPL,23-24,d8f8f8ad
+289601e6,Antonee Robinson,33,USA,LB,26-018,90,0,0,0,0,0,0,0,0,40,3,0,1,0.0,0.0,0.2,1,0,19,30,63.3,3,15,2,0,0,Fulham,2023-08-26 Arsenal-Fulham,ENG-EPL,23-24,d8f8f8ad
+a36524bf,Calvin Bassey,3,NGA,CB,23-238,82,0,0,0,0,0,0,2,1,44,1,2,0,0.0,0.0,0.0,0,0,21,35,60.0,0,23,0,1,0,Fulham,2023-08-26 Arsenal-Fulham,ENG-EPL,23-24,d8f8f8ad
+a712ca2b,Issa Diop,31,FRA,CB,26-229,90,0,0,0,0,0,0,0,0,43,0,1,2,0.0,0.0,0.0,0,0,25,28,89.3,2,20,0,0,0,Fulham,2023-08-26 Arsenal-Fulham,ENG-EPL,23-24,d8f8f8ad
+77d7c96f,Kenny Tete,2,NED,RB,27-321,90,0,0,0,0,0,0,1,0,33,3,1,0,0.0,0.0,0.0,0,0,17,22,77.3,1,7,1,0,0,Fulham,2023-08-26 Arsenal-Fulham,ENG-EPL,23-24,d8f8f8ad
+2628fd2b,Bernd Leno,17,GER,GK,31-175,90,0,0,0,0,0,0,0,0,48,0,0,0,0.0,0.0,0.0,0,0,31,44,70.5,0,29,0,0,0,Fulham,2023-08-26 Arsenal-Fulham,ENG-EPL,23-24,d8f8f8ad

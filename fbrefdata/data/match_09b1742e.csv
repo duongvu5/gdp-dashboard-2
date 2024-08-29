@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+178ae8f8,Diogo Jota,20,POR,FW,27-265,71,0,1,0,0,4,0,0,0,22,1,0,0,0.6,0.6,0.7,3,1,13,15,86.7,1,16,2,1,0,Liverpool,2024-08-25 Liverpool-Brentford,ENG-EPL,24-25,09b1742e
+4d77b365,Darwin Núñez,9,URU,FW,25-062,19,0,0,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.0,0,0,8,8,100.0,1,4,0,0,0,Liverpool,2024-08-25 Liverpool-Brentford,ENG-EPL,24-25,09b1742e
+4a1a9578,Luis Díaz,7,COL,LW,27-225,71,1,1,0,0,3,2,0,0,37,3,0,0,0.7,0.7,0.7,7,1,28,28,100.0,4,29,3,6,1,Liverpool,2024-08-25 Liverpool-Brentford,ENG-EPL,24-25,09b1742e
+1971591f,Cody Gakpo,18,NED,LW,25-110,19,0,0,0,0,1,0,0,0,10,1,0,0,0.0,0.0,0.0,1,0,6,8,75.0,1,8,0,1,1,Liverpool,2024-08-25 Liverpool-Brentford,ENG-EPL,24-25,09b1742e
+e342ad68,Mohamed Salah,11,EGY,RW,32-071,82,1,0,0,0,3,2,0,0,46,1,0,0,0.5,0.5,0.0,3,0,30,35,85.7,10,40,6,2,2,Liverpool,2024-08-25 Liverpool-Brentford,ENG-EPL,24-25,09b1742e
+b9e1436c,Harvey Elliott,19,ENG,RW,21-143,8,0,0,0,0,0,0,0,0,14,0,0,0,0.0,0.0,0.0,0,0,12,14,85.7,0,10,1,0,0,Liverpool,2024-08-25 Liverpool-Brentford,ENG-EPL,24-25,09b1742e
+934e1968,Dominik Szoboszlai,8,HUN,AM,23-305,90,0,0,0,0,1,0,1,0,78,0,0,5,0.1,0.1,0.2,5,0,62,65,95.4,5,50,4,0,0,Liverpool,2024-08-25 Liverpool-Brentford,ENG-EPL,24-25,09b1742e
+83d074ff,Alexis Mac Allister,10,ARG,DM,25-245,90,0,0,0,0,0,0,0,0,61,2,2,4,0.0,0.0,0.2,4,1,43,49,87.8,5,41,0,1,0,Liverpool,2024-08-25 Liverpool-Brentford,ENG-EPL,24-25,09b1742e
+b8e740fb,Ryan Gravenberch,38,NED,DM,22-101,89,0,0,0,0,0,0,1,0,89,3,3,2,0.0,0.0,0.0,1,0,71,76,93.4,6,60,1,2,1,Liverpool,2024-08-25 Liverpool-Brentford,ENG-EPL,24-25,09b1742e
+c149016b,Wataru Endo,3,JPN,DM,31-198,1,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,0,0,Liverpool,2024-08-25 Liverpool-Brentford,ENG-EPL,24-25,09b1742e
+2e4f5f03,Andrew Robertson,26,SCO,LB,30-167,90,0,0,0,0,2,2,0,0,85,1,0,0,0.3,0.3,0.2,5,0,69,80,86.3,7,52,3,1,1,Liverpool,2024-08-25 Liverpool-Brentford,ENG-EPL,24-25,09b1742e
+e06683ca,Virgil van Dijk,4,NED,CB,33-048,90,0,0,0,0,1,1,0,0,69,1,1,0,0.0,0.0,0.0,0,0,60,63,95.2,4,46,0,0,0,Liverpool,2024-08-25 Liverpool-Brentford,ENG-EPL,24-25,09b1742e
+5ed9b537,Ibrahima Konaté,5,FRA,CB,25-092,90,0,0,0,0,2,1,0,0,86,2,0,2,0.2,0.2,0.0,0,0,73,76,96.1,6,70,1,0,0,Liverpool,2024-08-25 Liverpool-Brentford,ENG-EPL,24-25,09b1742e
+cd1acf9d,Trent Alexander-Arnold,66,ENG,RB,25-323,71,0,0,0,0,2,0,0,0,71,2,0,1,0.1,0.1,0.6,6,0,46,62,74.2,8,40,3,2,2,Liverpool,2024-08-25 Liverpool-Brentford,ENG-EPL,24-25,09b1742e
+bbd67769,Conor Bradley,84,NIR,RB,21-047,19,0,0,0,0,0,0,0,0,23,0,1,0,0.0,0.0,0.0,0,0,20,21,95.2,1,18,1,0,0,Liverpool,2024-08-25 Liverpool-Brentford,ENG-EPL,24-25,09b1742e
+7a2e46a8,Alisson,1,BRA,GK,31-328,90,0,0,0,0,0,0,0,0,38,0,0,0,0.0,0.0,0.0,0,0,29,37,78.4,0,29,0,0,0,Liverpool,2024-08-25 Liverpool-Brentford,ENG-EPL,24-25,09b1742e
+2500cef9,Yoane Wissa,11,COD,FW,27-357,72,0,0,0,0,0,0,0,0,18,0,1,0,0.0,0.0,0.0,1,0,12,14,85.7,1,14,2,1,0,Brentford,2024-08-25 Liverpool-Brentford,ENG-EPL,24-25,09b1742e
+52afb588,Kevin Schade,7,GER,FW,22-272,18,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,2,4,50.0,0,5,0,0,0,Brentford,2024-08-25 Liverpool-Brentford,ENG-EPL,24-25,09b1742e
+6afaebf2,Bryan Mbeumo,19,CMR,FW,25-018,90,0,0,0,0,1,0,1,0,33,1,0,0,0.0,0.0,0.2,3,0,16,20,80.0,2,16,4,4,1,Brentford,2024-08-25 Liverpool-Brentford,ENG-EPL,24-25,09b1742e
+41f08ac8,Keane Lewis-Potter,23,ENG,LM,23-185,65,0,0,0,0,2,1,0,0,27,1,0,0,0.1,0.1,0.0,2,0,14,20,70.0,2,17,0,4,1,Brentford,2024-08-25 Liverpool-Brentford,ENG-EPL,24-25,09b1742e
+215f3907,Mikkel Damsgaard,24,DEN,RM,24-053,25,0,0,0,0,0,0,0,0,16,0,0,2,0.0,0.0,0.0,0,0,9,14,64.3,2,11,0,2,1,Brentford,2024-08-25 Liverpool-Brentford,ENG-EPL,24-25,09b1742e
+8449d35e,Vitaly Janelt,27,GER,CM,26-107,72,0,0,0,0,0,0,0,0,23,1,0,1,0.0,0.0,0.0,1,0,16,20,80.0,4,10,0,1,0,Brentford,2024-08-25 Liverpool-Brentford,ENG-EPL,24-25,09b1742e
+2944f86f,Frank Onyeka,15,NGA,CM,26-237,18,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,5,6,83.3,1,5,0,0,0,Brentford,2024-08-25 Liverpool-Brentford,ENG-EPL,24-25,09b1742e
+df0a4c90,Christian Nørgaard,6,DEN,CM,30-168,90,0,0,0,0,1,0,1,0,50,4,1,0,0.2,0.2,0.0,1,0,34,37,91.9,1,23,1,0,0,Brentford,2024-08-25 Liverpool-Brentford,ENG-EPL,24-25,09b1742e
+0f134faf,Mathias Jensen,8,DEN,RM,28-237,65,0,0,0,0,1,0,1,0,24,0,0,0,0.0,0.0,0.2,2,0,13,20,65.0,2,13,0,2,1,Brentford,2024-08-25 Liverpool-Brentford,ENG-EPL,24-25,09b1742e
+966e28d0,Fabio Carvalho,14,POR,LM,21-361,25,0,0,0,0,0,0,0,0,13,0,0,1,0.0,0.0,0.0,0,0,7,9,77.8,1,9,2,1,0,Brentford,2024-08-25 Liverpool-Brentford,ENG-EPL,24-25,09b1742e
+a8c0acb7,Kristoffer Ajer,20,NOR,LB,26-130,90,0,0,0,0,0,0,0,0,52,1,0,0,0.0,0.0,0.0,2,0,35,43,81.4,5,24,1,1,0,Brentford,2024-08-25 Liverpool-Brentford,ENG-EPL,24-25,09b1742e
+e541326e,Ethan Pinnock,5,JAM,CB,31-088,90,0,0,0,0,0,0,0,0,45,1,2,1,0.0,0.0,0.0,0,0,34,39,87.2,0,28,0,0,0,Brentford,2024-08-25 Liverpool-Brentford,ENG-EPL,24-25,09b1742e
+a8c19eb8,Nathan Collins,22,IRL,CB,23-117,90,0,0,0,0,2,1,0,0,65,0,1,6,0.2,0.2,0.0,2,0,48,54,88.9,2,37,0,1,1,Brentford,2024-08-25 Liverpool-Brentford,ENG-EPL,24-25,09b1742e
+57c94db2,Mads Roerslev,30,DEN,RB,25-062,90,0,0,0,0,1,0,0,0,54,1,0,0,0.0,0.0,0.0,1,0,36,45,80.0,3,32,1,5,1,Brentford,2024-08-25 Liverpool-Brentford,ENG-EPL,24-25,09b1742e
+a92ab7be,Mark Flekken,1,NED,GK,31-073,90,0,0,0,0,0,0,0,0,58,0,0,0,0.0,0.0,0.0,0,0,41,54,75.9,0,38,0,0,0,Brentford,2024-08-25 Liverpool-Brentford,ENG-EPL,24-25,09b1742e

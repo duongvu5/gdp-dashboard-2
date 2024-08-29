@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+e09f279b,Ivan Toney,17,ENG,FW,28-064,90,0,1,0,0,4,2,1,0,33,1,0,1,0.6,0.6,0.0,2,1,14,20,70.0,2,20,1,2,1,Brentford,2024-05-19 Brentford-Newcastle Utd,ENG-EPL,23-24,546e1a3d
+2500cef9,Yoane Wissa,11,COD,"LW,AM",27-259,83,1,1,0,0,4,1,1,0,28,0,0,1,0.3,0.3,0.2,1,1,14,19,73.7,1,23,1,2,0,Brentford,2024-05-19 Brentford-Newcastle Utd,ENG-EPL,23-24,546e1a3d
+907a5d7c,Yehor Yarmoliuk,33,UKR,AM,20-079,7,0,0,0,0,1,1,0,0,9,0,0,0,0.0,0.0,0.0,0,0,5,6,83.3,0,8,1,2,1,Brentford,2024-05-19 Brentford-Newcastle Utd,ENG-EPL,23-24,546e1a3d
+6afaebf2,Bryan Mbeumo,19,CMR,"RW,WB",24-286,90,0,0,0,0,0,0,0,0,46,1,0,2,0.0,0.0,0.4,3,0,21,32,65.6,5,27,3,7,2,Brentford,2024-05-19 Brentford-Newcastle Utd,ENG-EPL,23-24,546e1a3d
+8449d35e,Vitaly Janelt,27,GER,LM,26-009,73,1,0,0,0,1,1,0,0,46,1,0,2,0.2,0.2,0.1,1,0,32,38,84.2,3,27,0,0,0,Brentford,2024-05-19 Brentford-Newcastle Utd,ENG-EPL,23-24,546e1a3d
+52afb588,Kevin Schade,9,GER,WB,22-174,17,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,1,0,6,9,66.7,0,6,0,0,0,Brentford,2024-05-19 Brentford-Newcastle Utd,ENG-EPL,23-24,546e1a3d
+df0a4c90,Christian Nørgaard,6,DEN,CM,30-070,90,0,0,0,0,0,0,0,0,85,2,1,2,0.0,0.0,0.1,3,0,73,79,92.4,5,48,1,0,0,Brentford,2024-05-19 Brentford-Newcastle Utd,ENG-EPL,23-24,546e1a3d
+0f134faf,Mathias Jensen,8,DEN,RM,28-139,63,0,0,0,0,0,0,1,0,44,1,2,1,0.0,0.0,0.0,1,1,27,37,73.0,6,23,0,2,1,Brentford,2024-05-19 Brentford-Newcastle Utd,ENG-EPL,23-24,546e1a3d
+215f3907,Mikkel Damsgaard,24,DEN,"CM,RM",23-321,27,0,0,0,0,0,0,0,0,20,0,0,1,0.0,0.0,0.0,1,0,15,18,83.3,2,15,1,0,0,Brentford,2024-05-19 Brentford-Newcastle Utd,ENG-EPL,23-24,546e1a3d
+3353737a,Sergio Reguilón,12,ESP,LB,27-155,73,0,0,0,0,0,0,0,0,58,2,0,2,0.0,0.0,0.1,2,0,36,49,73.5,3,25,5,2,1,Brentford,2024-05-19 Brentford-Newcastle Utd,ENG-EPL,23-24,546e1a3d
+4bcf39f6,Neal Maupay,7,FRA,AM,27-279,17,0,0,0,0,0,0,1,0,7,0,0,1,0.0,0.0,0.0,0,0,5,6,83.3,1,4,1,1,0,Brentford,2024-05-19 Brentford-Newcastle Utd,ENG-EPL,23-24,546e1a3d
+e541326e,Ethan Pinnock,5,JAM,CB,30-356,90,0,0,0,0,0,0,0,0,53,0,2,2,0.0,0.0,0.0,0,0,44,46,95.7,1,32,0,0,0,Brentford,2024-05-19 Brentford-Newcastle Utd,ENG-EPL,23-24,546e1a3d
+0db5d2c8,Mathias Jørgensen,13,DEN,CB,34-026,90,0,0,0,0,0,0,0,0,74,2,0,0,0.0,0.0,0.1,2,0,61,71,85.9,7,41,1,0,0,Brentford,2024-05-19 Brentford-Newcastle Utd,ENG-EPL,23-24,546e1a3d
+57c94db2,Mads Roerslev,30,DEN,RB,24-330,62,0,0,0,0,0,0,0,0,37,2,0,0,0.0,0.0,0.1,2,0,28,32,87.5,2,19,1,0,0,Brentford,2024-05-19 Brentford-Newcastle Utd,ENG-EPL,23-24,546e1a3d
+f7b1d4e0,Saman Ghoddos,14,IRN,"CB,RB",30-256,28,0,0,0,0,0,0,0,0,15,2,0,0,0.0,0.0,0.0,0,0,10,12,83.3,3,8,1,0,0,Brentford,2024-05-19 Brentford-Newcastle Utd,ENG-EPL,23-24,546e1a3d
+a92ab7be,Mark Flekken,1,NED,GK,30-341,90,0,0,0,0,0,0,0,0,42,0,0,0,0.0,0.0,0.0,1,1,32,40,80.0,0,23,0,0,0,Brentford,2024-05-19 Brentford-Newcastle Utd,ENG-EPL,23-24,546e1a3d
+8e92be30,Alexander Isak,14,SWE,FW,24-241,80,1,1,0,0,4,3,0,0,37,0,1,1,0.9,0.9,1.2,4,2,17,22,77.3,1,21,3,4,1,Newcastle United,2024-05-19 Brentford-Newcastle Utd,ENG-EPL,23-24,546e1a3d
+c596fcb0,Callum Wilson,9,ENG,FW,32-082,10,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,2,4,50.0,0,5,0,1,1,Newcastle United,2024-05-19 Brentford-Newcastle Utd,ENG-EPL,23-24,546e1a3d
+3ea50f67,Harvey Barnes,15,ENG,LW,26-162,67,1,0,0,0,1,1,0,0,28,0,1,1,0.5,0.5,0.0,2,0,15,21,71.4,2,25,2,1,1,Newcastle United,2024-05-19 Brentford-Newcastle Utd,ENG-EPL,23-24,546e1a3d
+de31038e,Elliot Anderson,32,SCO,"LM,LW",21-195,23,0,0,0,0,0,0,0,0,19,2,0,3,0.0,0.0,0.0,0,0,8,9,88.9,2,13,0,3,0,Newcastle United,2024-05-19 Brentford-Newcastle Utd,ENG-EPL,23-24,546e1a3d
+de112b84,Jacob Murphy,23,ENG,RW,29-085,67,1,0,0,0,4,2,0,0,35,1,0,1,0.7,0.7,0.0,2,2,16,28,57.1,1,27,2,0,0,Newcastle United,2024-05-19 Brentford-Newcastle Utd,ENG-EPL,23-24,546e1a3d
+862a1c15,Miguel Almirón,24,PAR,"RM,RW",30-099,23,0,0,0,0,0,0,0,0,14,0,0,1,0.0,0.0,0.0,0,0,12,12,100.0,0,12,0,2,2,Newcastle United,2024-05-19 Brentford-Newcastle Utd,ENG-EPL,23-24,546e1a3d
+c17bfb65,Joelinton,7,BRA,LM,27-279,80,0,0,0,0,1,0,1,0,49,4,1,0,0.6,0.6,0.2,2,0,37,41,90.2,5,31,6,0,0,Newcastle United,2024-05-19 Brentford-Newcastle Utd,ENG-EPL,23-24,546e1a3d
+21512407,Kieran Trippier,2,ENG,RB,33-243,10,0,0,0,0,0,0,0,0,12,0,0,1,0.0,0.0,0.0,0,0,10,11,90.9,0,9,0,0,0,Newcastle United,2024-05-19 Brentford-Newcastle Utd,ENG-EPL,23-24,546e1a3d
+82518f62,Bruno Guimarães,39,BRA,CM,26-185,90,1,2,0,0,1,1,0,0,77,1,1,0,0.7,0.7,0.7,5,2,59,71,83.1,10,69,5,2,1,Newcastle United,2024-05-19 Brentford-Newcastle Utd,ENG-EPL,23-24,546e1a3d
+a2b105e0,Sean Longstaff,36,ENG,"RM,CM",26-202,90,0,0,0,0,0,0,0,0,37,1,2,0,0.0,0.0,0.0,0,0,25,32,78.1,3,23,2,4,3,Newcastle United,2024-05-19 Brentford-Newcastle Utd,ENG-EPL,23-24,546e1a3d
+da011f18,Lewis Hall,20,ENG,LB,19-254,90,0,0,0,0,0,0,0,0,67,4,1,0,0.0,0.0,0.0,4,1,47,57,82.5,1,36,4,4,3,Newcastle United,2024-05-19 Brentford-Newcastle Utd,ENG-EPL,23-24,546e1a3d
+b2d31e83,Dan Burn,33,ENG,CB,32-010,90,0,0,0,0,0,0,1,0,37,0,1,0,0.0,0.0,0.0,0,0,25,28,89.3,0,23,1,0,0,Newcastle United,2024-05-19 Brentford-Newcastle Utd,ENG-EPL,23-24,546e1a3d
+c8aa95da,Fabian Schär,5,SUI,CB,32-151,89,0,0,0,0,1,0,0,0,41,1,0,1,0.1,0.1,0.0,1,0,26,34,76.5,4,26,0,1,1,Newcastle United,2024-05-19 Brentford-Newcastle Utd,ENG-EPL,23-24,546e1a3d
+3fe6bd8c,Paul Dummett,3,WAL,CB,32-236,1,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,0,0,Newcastle United,2024-05-19 Brentford-Newcastle Utd,ENG-EPL,23-24,546e1a3d
+77cf6852,Emil Krafth,17,SWE,"RB,CB",29-291,90,0,0,0,0,0,0,1,0,46,0,0,0,0.0,0.0,0.0,2,0,36,43,83.7,1,29,2,1,0,Newcastle United,2024-05-19 Brentford-Newcastle Utd,ENG-EPL,23-24,546e1a3d
+4b40d9ca,Nick Pope,22,ENG,GK,32-030,90,0,0,0,0,0,0,1,0,34,0,0,0,0.0,0.0,0.0,0,0,18,32,56.3,0,18,0,0,0,Newcastle United,2024-05-19 Brentford-Newcastle Utd,ENG-EPL,23-24,546e1a3d

@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+1f44ac21,Erling Haaland,9,NOR,FW,23-204,90,2,0,0,0,4,2,0,0,22,0,0,0,0.7,0.7,0.1,3,1,12,13,92.3,1,12,1,3,2,Manchester City,2024-02-10 Manchester City-Everton,ENG-EPL,23-24,00ea7906
+fffea3e5,Jeremy Doku,11,BEL,LM,21-259,86,0,0,0,0,1,0,0,0,74,1,0,1,0.1,0.1,0.2,4,0,47,61,77.0,2,57,14,8,5,Manchester City,2024-02-10 Manchester City-Everton,ENG-EPL,23-24,00ea7906
+b0b4fd3e,Jack Grealish,10,ENG,LM,28-153,4,0,0,0,0,0,0,0,0,17,0,0,0,0.0,0.0,0.1,1,0,17,17,100.0,1,18,3,0,0,Manchester City,2024-02-10 Manchester City-Everton,ENG-EPL,23-24,00ea7906
+15ab5a2b,Julián Álvarez,19,ARG,CM,24-010,76,0,0,0,0,2,0,0,0,45,2,0,0,0.1,0.1,0.1,2,0,25,33,75.8,1,27,1,3,1,Manchester City,2024-02-10 Manchester City-Everton,ENG-EPL,23-24,00ea7906
+3eb22ec9,Bernardo Silva,20,POR,CM,29-184,14,0,0,0,0,0,0,0,0,18,2,0,0,0.0,0.0,0.0,0,0,16,17,94.1,0,13,1,1,1,Manchester City,2024-02-10 Manchester City-Everton,ENG-EPL,23-24,00ea7906
+e6af02e0,Matheus Nunes,27,POR,CM,25-167,56,0,0,0,0,0,0,0,0,40,0,0,0,0.0,0.0,0.0,2,0,26,35,74.3,5,28,3,4,1,Manchester City,2024-02-10 Manchester City-Everton,ENG-EPL,23-24,00ea7906
+e46012d4,Kevin De Bruyne,17,BEL,CM,32-227,34,0,1,0,0,1,0,0,0,33,1,0,0,0.2,0.2,0.5,3,1,21,29,72.4,1,23,2,1,0,Manchester City,2024-02-10 Manchester City-Everton,ENG-EPL,23-24,00ea7906
+ed1e53f3,Phil Foden,47,ENG,RM,23-258,90,0,0,0,0,4,1,0,0,73,1,0,1,0.2,0.2,0.0,2,0,55,62,88.7,5,55,3,3,1,Manchester City,2024-02-10 Manchester City-Everton,ENG-EPL,23-24,00ea7906
+6434f10d,Rodri,16,ESP,DM,27-233,90,0,0,0,0,1,0,0,0,107,2,2,1,0.0,0.0,0.1,5,0,88,98,89.8,9,65,2,1,0,Manchester City,2024-02-10 Manchester City-Everton,ENG-EPL,23-24,00ea7906
+89ac64a6,Manuel Akanji,25,SUI,"CB,LB",28-206,56,0,0,0,0,1,0,0,0,69,0,1,1,0.2,0.2,0.0,1,0,52,58,89.7,2,43,0,1,0,Manchester City,2024-02-10 Manchester City-Everton,ENG-EPL,23-24,00ea7906
+86dd77d1,Kyle Walker,2,ENG,RB,33-258,34,0,0,0,0,0,0,0,0,41,0,0,0,0.0,0.0,0.2,2,0,33,40,82.5,1,31,1,0,0,Manchester City,2024-02-10 Manchester City-Everton,ENG-EPL,23-24,00ea7906
+eaeca114,Nathan Aké,6,NED,"LB,CB",28-357,90,0,1,0,0,2,0,0,0,126,2,0,1,0.1,0.1,0.0,4,0,109,121,90.1,8,74,2,0,0,Manchester City,2024-02-10 Manchester City-Everton,ENG-EPL,23-24,00ea7906
+31c69ef1,Rúben Dias,3,POR,CB,26-272,90,0,0,0,0,3,0,0,0,105,1,1,0,0.1,0.1,0.0,2,1,95,97,97.9,5,79,0,0,0,Manchester City,2024-02-10 Manchester City-Everton,ENG-EPL,23-24,00ea7906
+5eecec3d,John Stones,5,ENG,"RB,CB",29-258,90,0,0,0,0,0,0,0,0,102,0,2,0,0.0,0.0,0.0,4,0,92,96,95.8,11,77,2,0,0,Manchester City,2024-02-10 Manchester City-Everton,ENG-EPL,23-24,00ea7906
+3bb7b8b4,Ederson,31,BRA,GK,30-177,90,0,0,0,0,0,0,0,0,55,0,0,0,0.0,0.0,0.0,0,0,52,52,100.0,0,46,0,0,0,Manchester City,2024-02-10 Manchester City-Everton,ENG-EPL,23-24,00ea7906
+59e6e5bf,Dominic Calvert-Lewin,9,ENG,FW,26-331,77,0,0,0,0,2,0,0,0,25,0,0,2,0.1,0.1,0.0,0,0,5,17,29.4,0,12,0,1,0,Everton,2024-02-10 Manchester City-Everton,ENG-EPL,23-24,00ea7906
+ed5c0319,Beto,14,GNB,FW,26-010,13,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,0,0,0,0,Everton,2024-02-10 Manchester City-Everton,ENG-EPL,23-24,00ea7906
+fc15fb84,Dwight McNeil,7,ENG,LW,24-080,87,0,0,0,0,1,0,0,0,36,1,0,3,0.0,0.0,0.2,1,0,27,29,93.1,2,21,2,1,1,Everton,2024-02-10 Manchester City-Everton,ENG-EPL,23-24,00ea7906
+e814e1cf,Lewis Dobbin,61,ENG,LW,21-038,3,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,1,3,33.3,0,4,0,2,0,Everton,2024-02-10 Manchester City-Everton,ENG-EPL,23-24,00ea7906
+be927d03,Ashley Young,18,ENG,RW,38-216,77,0,0,0,0,0,0,0,0,22,1,1,0,0.0,0.0,0.0,0,0,6,13,46.2,1,12,2,2,0,Everton,2024-02-10 Manchester City-Everton,ENG-EPL,23-24,00ea7906
+828657ff,Amadou Onana,8,BEL,"DM,RW",22-178,13,0,0,0,0,0,0,0,0,15,0,0,0,0.0,0.0,0.0,0,0,14,15,93.3,0,9,0,0,0,Everton,2024-02-10 Manchester City-Everton,ENG-EPL,23-24,00ea7906
+aa849a12,Jack Harrison,11,ENG,"AM,RW",27-082,90,0,0,0,0,1,0,0,0,22,0,2,1,0.0,0.0,0.0,1,0,13,18,72.2,2,12,2,2,1,Everton,2024-02-10 Manchester City-Everton,ENG-EPL,23-24,00ea7906
+4e015693,James Garner,37,ENG,DM,22-334,90,0,0,0,0,0,0,1,0,38,5,2,1,0.0,0.0,0.0,2,0,21,24,87.5,2,12,0,1,1,Everton,2024-02-10 Manchester City-Everton,ENG-EPL,23-24,00ea7906
+72c812f3,Idrissa Gana Gueye,27,SEN,DM,34-137,88,0,0,0,0,0,0,1,0,32,6,1,0,0.0,0.0,0.0,3,0,17,19,89.5,0,16,0,2,0,Everton,2024-02-10 Manchester City-Everton,ENG-EPL,23-24,00ea7906
+890f108d,Youssef Chermiti,28,POR,AM,19-262,2,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Everton,2024-02-10 Manchester City-Everton,ENG-EPL,23-24,00ea7906
+30d4a2e5,Vitaliy Mykolenko,19,UKR,LB,24-257,90,0,0,0,0,0,0,0,0,45,0,0,0,0.0,0.0,0.0,0,0,31,37,83.8,1,23,0,2,2,Everton,2024-02-10 Manchester City-Everton,ENG-EPL,23-24,00ea7906
+c1949191,Jarrad Branthwaite,32,ENG,CB,21-228,90,0,0,0,0,0,0,0,0,48,4,0,2,0.0,0.0,0.0,0,0,28,36,77.8,1,25,0,1,1,Everton,2024-02-10 Manchester City-Everton,ENG-EPL,23-24,00ea7906
+15ea812b,James Tarkowski,6,ENG,CB,31-083,90,0,0,0,0,0,0,0,0,55,1,1,3,0.0,0.0,0.0,0,0,33,38,86.8,1,24,0,2,1,Everton,2024-02-10 Manchester City-Everton,ENG-EPL,23-24,00ea7906
+9f7c837d,Ben Godfrey,22,ENG,RB,26-026,55,0,0,0,0,1,1,0,0,27,1,0,2,0.2,0.2,0.0,0,0,9,16,56.3,0,2,0,0,0,Everton,2024-02-10 Manchester City-Everton,ENG-EPL,23-24,00ea7906
+0420d84f,Séamus Coleman,23,IRL,RB,35-122,35,0,0,0,0,0,0,0,0,22,2,1,0,0.0,0.0,0.0,0,0,9,15,60.0,2,10,0,0,0,Everton,2024-02-10 Manchester City-Everton,ENG-EPL,23-24,00ea7906
+4806ec67,Jordan Pickford,1,ENG,GK,29-340,90,0,0,0,0,0,0,0,0,45,0,0,0,0.0,0.0,0.0,0,0,29,45,64.4,0,32,0,0,0,Everton,2024-02-10 Manchester City-Everton,ENG-EPL,23-24,00ea7906
