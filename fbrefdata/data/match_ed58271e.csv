@@ -1,0 +1,28 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+b66315ae,Gabriel Jesus,9,BRA,FW,22-273,90,2,0,0,0,8,4,0,0,42,1,0,2,1.1,1.1,0.1,4,0,21,27,77.8,0,26,3,2,2,Manchester City,2020-01-01 Manchester City-Everton,ENG-EPL,19-20,ed58271e
+ed1e53f3,Phil Foden,47,ENG,AM,19-218,82,0,0,0,0,1,1,0,0,47,2,1,1,0.0,0.0,0.1,4,1,34,36,94.4,2,40,4,3,2,Manchester City,2020-01-01 Manchester City-Everton,ENG-EPL,19-20,ed58271e
+e2716bd0,David Silva,21,ESP,AM,33-358,8,0,0,0,0,0,0,0,0,15,0,0,1,0.0,0.0,0.0,0,0,13,13,100.0,0,10,0,0,0,Manchester City,2020-01-01 Manchester City-Everton,ENG-EPL,19-20,ed58271e
+892d5bb1,Riyad Mahrez,26,ALG,AM,28-314,89,0,1,0,0,4,1,0,0,66,0,1,1,0.3,0.3,0.6,6,1,41,50,82.0,3,45,5,3,1,Manchester City,2020-01-01 Manchester City-Everton,ENG-EPL,19-20,ed58271e
+b400bde0,Raheem Sterling,7,ENG,AM,25-024,1,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,0,0,Manchester City,2020-01-01 Manchester City-Everton,ENG-EPL,19-20,ed58271e
+819b3158,İlkay Gündoğan,8,GER,CM,29-069,90,0,1,0,0,1,1,0,0,115,0,3,1,0.0,0.0,0.1,4,1,98,103,95.1,9,74,3,2,0,Manchester City,2020-01-01 Manchester City-Everton,ENG-EPL,19-20,ed58271e
+e46012d4,Kevin De Bruyne,17,BEL,CM,28-187,90,0,0,0,0,1,0,0,0,110,0,2,1,0.0,0.0,0.1,4,0,78,100,78.0,8,75,1,2,2,Manchester City,2020-01-01 Manchester City-Everton,ENG-EPL,19-20,ed58271e
+5271c8f1,Benjamin Mendy,22,FRA,WB,25-168,90,0,0,0,0,0,0,0,0,89,1,1,1,0.0,0.0,0.2,4,1,73,86,84.9,3,68,3,1,1,Manchester City,2020-01-01 Manchester City-Everton,ENG-EPL,19-20,ed58271e
+bd6351cd,João Cancelo,27,POR,WB,25-219,90,0,0,0,0,0,0,0,0,76,1,1,0,0.0,0.0,0.2,4,0,59,67,88.1,6,57,3,0,0,Manchester City,2020-01-01 Manchester City-Everton,ENG-EPL,19-20,ed58271e
+2bed3eab,Eric García,50,ESP,CB,18-357,90,0,0,0,0,0,0,0,0,112,0,4,1,0.0,0.0,0.0,0,0,97,103,94.2,8,96,1,1,1,Manchester City,2020-01-01 Manchester City-Everton,ENG-EPL,19-20,ed58271e
+101da2b5,Fernandinho,25,BRA,CB,34-242,90,0,0,0,0,1,0,0,0,100,5,1,1,0.1,0.1,0.0,1,0,80,87,92.0,4,73,0,0,0,Manchester City,2020-01-01 Manchester City-Everton,ENG-EPL,19-20,ed58271e
+6434f10d,Rodri,16,ESP,CB,23-193,90,0,0,0,0,0,0,0,0,108,0,2,0,0.0,0.0,0.0,0,0,99,105,94.3,8,96,1,0,0,Manchester City,2020-01-01 Manchester City-Everton,ENG-EPL,19-20,ed58271e
+10072610,Claudio Bravo,1,CHI,GK,36-263,90,0,0,0,0,0,0,0,0,31,0,0,0,0.0,0.0,0.0,0,0,25,29,86.2,0,20,0,1,1,Manchester City,2020-01-01 Manchester City-Everton,ENG-EPL,19-20,ed58271e
+59e6e5bf,Dominic Calvert-Lewin,9,ENG,FW,22-291,90,0,0,0,0,1,0,1,0,23,0,0,0,0.1,0.1,0.0,0,0,8,17,47.1,1,12,1,1,1,Everton,2020-01-01 Manchester City-Everton,ENG-EPL,19-20,ed58271e
+fa031b34,Richarlison,7,BRA,"FW,LW",22-236,90,1,0,0,0,1,1,0,0,29,1,1,1,0.7,0.7,0.0,0,0,11,21,52.4,1,18,0,2,0,Everton,2020-01-01 Manchester City-Everton,ENG-EPL,19-20,ed58271e
+9228b07c,Tom Davies,26,ENG,"CM,DM",21-185,90,0,0,0,0,1,0,1,0,41,1,3,0,0.0,0.0,0.0,2,0,24,31,77.4,3,23,0,1,1,Everton,2020-01-01 Manchester City-Everton,ENG-EPL,19-20,ed58271e
+111c3236,Fabian Delph,8,ENG,"CM,DM",30-041,90,0,0,0,0,0,0,1,0,42,1,0,2,0.0,0.0,0.0,1,0,29,36,80.6,1,23,0,2,2,Everton,2020-01-01 Manchester City-Everton,ENG-EPL,19-20,ed58271e
+76dd1480,Gylfi Sigurðsson,10,ISL,"CM,AM",30-115,65,0,0,0,0,0,0,0,0,33,1,2,0,0.0,0.0,0.2,3,0,22,27,81.5,2,16,0,0,0,Everton,2020-01-01 Manchester City-Everton,ENG-EPL,19-20,ed58271e
+3d50bcdb,Moise Kean,27,ITA,AM,19-307,25,0,0,0,0,1,0,0,0,5,0,0,0,0.1,0.1,0.0,0,0,3,4,75.0,0,4,1,2,2,Everton,2020-01-01 Manchester City-Everton,ENG-EPL,19-20,ed58271e
+1b84dbe1,Lucas Digne,12,FRA,"WB,LB",26-165,90,0,0,0,0,0,0,0,0,43,1,1,1,0.0,0.0,0.0,1,0,25,36,69.4,2,16,0,1,1,Everton,2020-01-01 Manchester City-Everton,ENG-EPL,19-20,ed58271e
+4c5b714f,Djibril Sidibé,19,FRA,"WB,RB",27-156,90,0,0,0,0,0,0,0,0,57,5,2,1,0.0,0.0,0.1,2,0,38,45,84.4,2,32,2,3,1,Everton,2020-01-01 Manchester City-Everton,ENG-EPL,19-20,ed58271e
+d0042ab9,Mason Holgate,2,ENG,CB,23-071,90,0,0,0,0,0,0,0,0,48,1,1,2,0.0,0.0,0.0,0,0,34,40,85.0,1,30,1,0,0,Everton,2020-01-01 Manchester City-Everton,ENG-EPL,19-20,ed58271e
+6d5701f2,Yerry Mina,13,COL,CB,25-100,90,0,0,0,0,1,0,1,0,80,1,2,0,0.1,0.1,0.0,0,0,62,71,87.3,1,59,0,0,0,Everton,2020-01-01 Manchester City-Everton,ENG-EPL,19-20,ed58271e
+0420d84f,Séamus Coleman,23,IRL,CB,31-082,58,0,0,0,0,1,1,0,0,52,2,1,0,0.1,0.1,0.0,0,0,38,44,86.4,2,41,1,3,2,Everton,2020-01-01 Manchester City-Everton,ENG-EPL,19-20,ed58271e
+1ecb65be,Theo Walcott,11,ENG,RW,30-291,32,0,0,0,0,1,0,0,0,16,0,0,0,0.0,0.0,0.0,1,1,7,14,50.0,0,10,0,0,0,Everton,2020-01-01 Manchester City-Everton,ENG-EPL,19-20,ed58271e
+4806ec67,Jordan Pickford,1,ENG,GK,25-300,90,0,0,0,0,0,0,0,0,56,0,1,0,0.0,0.0,0.0,0,0,35,51,68.6,0,39,0,0,0,Everton,2020-01-01 Manchester City-Everton,ENG-EPL,19-20,ed58271e

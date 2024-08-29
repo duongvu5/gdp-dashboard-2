@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+21a66f6a,Harry Kane,10,ENG,FW,26-062,90,1,0,0,0,3,1,0,0,40,0,0,0,0.5,0.5,0.0,1,0,14,24,58.3,4,25,3,2,1,Tottenham Hotspur,2019-09-28 Tottenham-Southampton,ENG-EPL,19-20,23ec5db0
+92e7e919,Son Heung-min,7,KOR,"LW,LM",27-082,63,0,1,0,0,1,1,0,0,37,4,0,1,0.0,0.0,0.2,6,2,13,20,65.0,2,24,4,9,3,Tottenham Hotspur,2019-09-28 Tottenham-Southampton,ENG-EPL,19-20,23ec5db0
+abe66106,Érik Lamela,11,ARG,LM,27-208,27,0,0,0,0,0,0,0,0,20,2,1,0,0.0,0.0,0.1,2,0,14,15,93.3,3,15,2,1,1,Tottenham Hotspur,2019-09-28 Tottenham-Southampton,ENG-EPL,19-20,23ec5db0
+2acd49b9,Moussa Sissoko,17,FRA,"RB,RW",30-043,90,0,0,0,0,0,0,0,0,60,2,0,1,0.0,0.0,0.0,1,1,32,41,78.0,3,33,5,2,0,Tottenham Hotspur,2019-09-28 Tottenham-Southampton,ENG-EPL,19-20,23ec5db0
+980522ec,Christian Eriksen,23,DEN,"RM,AM",27-226,90,0,1,0,0,1,0,0,0,46,1,2,0,0.1,0.1,0.7,3,1,27,37,73.0,4,28,2,0,0,Tottenham Hotspur,2019-09-28 Tottenham-Southampton,ENG-EPL,19-20,23ec5db0
+5cdddffa,Tanguy Ndombele,28,FRA,"CM,DM",22-274,77,1,0,0,0,2,1,0,0,44,4,1,1,0.2,0.2,0.0,3,0,23,28,82.1,2,27,1,5,1,Tottenham Hotspur,2019-09-28 Tottenham-Southampton,ENG-EPL,19-20,23ec5db0
+ac861941,Eric Dier,15,ENG,CM,25-256,13,0,0,0,0,1,1,0,0,7,0,0,0,0.2,0.2,0.0,0,0,2,6,33.3,0,2,0,0,0,Tottenham Hotspur,2019-09-28 Tottenham-Southampton,ENG-EPL,19-20,23ec5db0
+2f7acede,Harry Winks,8,ENG,"CM,DM",23-238,89,0,0,0,0,1,0,0,0,50,4,2,1,0.0,0.0,0.0,0,0,39,43,90.7,5,34,1,1,1,Tottenham Hotspur,2019-09-28 Tottenham-Southampton,ENG-EPL,19-20,23ec5db0
+e0900238,Victor Wanyama,12,KEN,CM,28-095,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Tottenham Hotspur,2019-09-28 Tottenham-Southampton,ENG-EPL,19-20,23ec5db0
+89d10e53,Danny Rose,3,ENG,LB,29-088,90,0,0,0,0,0,0,0,0,60,2,1,2,0.0,0.0,0.0,1,0,35,49,71.4,5,30,4,4,3,Tottenham Hotspur,2019-09-28 Tottenham-Southampton,ENG-EPL,19-20,23ec5db0
+ba23a904,Jan Vertonghen,5,BEL,CB,32-157,90,0,0,0,0,0,0,0,0,46,1,3,1,0.0,0.0,0.0,0,0,34,35,97.1,2,28,0,0,0,Tottenham Hotspur,2019-09-28 Tottenham-Southampton,ENG-EPL,19-20,23ec5db0
+f7d50789,Toby Alderweireld,4,BEL,CB,30-210,90,0,0,0,0,0,0,0,0,55,0,0,2,0.0,0.0,0.0,0,0,35,46,76.1,1,31,1,0,0,Tottenham Hotspur,2019-09-28 Tottenham-Southampton,ENG-EPL,19-20,23ec5db0
+5c2b4f07,Serge Aurier,24,CIV,RB,26-278,30,0,0,0,0,0,0,2,1,29,3,1,0,0.0,0.0,0.0,0,0,18,24,75.0,0,16,0,1,1,Tottenham Hotspur,2019-09-28 Tottenham-Southampton,ENG-EPL,19-20,23ec5db0
+8f62b6ee,Hugo Lloris,1,FRA,GK,32-276,90,0,0,0,0,0,0,0,0,39,0,0,0,0.0,0.0,0.0,0,0,24,36,66.7,0,24,0,0,0,Tottenham Hotspur,2019-09-28 Tottenham-Southampton,ENG-EPL,19-20,23ec5db0
+07802f7f,Danny Ings,9,ENG,FW,27-067,82,1,0,0,0,2,1,0,0,21,4,1,0,0.9,0.9,0.0,2,1,8,11,72.7,1,7,0,0,0,Southampton,2019-09-28 Tottenham-Southampton,ENG-EPL,19-20,23ec5db0
+caa1a7f0,Michael Obafemi,20,IRL,FW,19-084,8,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,1,0,0,0,Southampton,2019-09-28 Tottenham-Southampton,ENG-EPL,19-20,23ec5db0
+ab651565,Nathan Redmond,22,ENG,"FW,LW,AM",25-206,90,0,0,0,0,4,0,0,0,63,1,0,0,0.2,0.2,0.1,3,0,40,51,78.4,4,45,6,1,0,Southampton,2019-09-28 Tottenham-Southampton,ENG-EPL,19-20,23ec5db0
+b0c71810,Sofiane Boufal,19,MAR,"AM,WB,RW",26-011,87,0,0,0,0,1,1,0,0,60,0,0,2,0.0,0.0,0.1,4,0,25,38,65.8,5,48,5,8,3,Southampton,2019-09-28 Tottenham-Southampton,ENG-EPL,19-20,23ec5db0
+9f472354,Shane Long,7,IRL,FW,32-249,3,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,1,0,0,0,Southampton,2019-09-28 Tottenham-Southampton,ENG-EPL,19-20,23ec5db0
+8b04d6c1,Pierre Højbjerg,23,DEN,"CM,DM",24-054,90,0,0,0,0,3,1,0,0,90,1,0,2,0.1,0.1,0.0,3,0,74,81,91.4,21,50,1,2,1,Southampton,2019-09-28 Tottenham-Southampton,ENG-EPL,19-20,23ec5db0
+4b511457,Oriol Romeu,14,ESP,"CM,DM",28-004,90,0,0,0,0,0,0,0,0,83,2,2,0,0.0,0.0,0.0,1,0,70,78,89.7,11,47,2,2,2,Southampton,2019-09-28 Tottenham-Southampton,ENG-EPL,19-20,23ec5db0
+01226327,Ryan Bertrand,21,ENG,"WB,LB",30-054,90,0,0,0,0,0,0,0,0,88,2,3,0,0.0,0.0,0.2,4,0,59,76,77.6,4,46,7,1,0,Southampton,2019-09-28 Tottenham-Southampton,ENG-EPL,19-20,23ec5db0
+3515d404,James Ward-Prowse,16,ENG,"WB,CM,RB",24-331,90,0,0,0,0,1,1,0,0,63,3,0,1,0.1,0.1,0.1,4,0,45,55,81.8,5,27,0,0,0,Southampton,2019-09-28 Tottenham-Southampton,ENG-EPL,19-20,23ec5db0
+1900032e,Jannik Vestergaard,4,DEN,CB,27-056,78,0,0,0,0,0,0,0,0,59,2,0,0,0.0,0.0,0.1,2,0,49,56,87.5,10,33,0,0,0,Southampton,2019-09-28 Tottenham-Southampton,ENG-EPL,19-20,23ec5db0
+97333cf5,Stuart Armstrong,17,SCO,AM,27-182,12,0,0,0,0,1,1,0,0,11,0,0,1,0.0,0.0,0.0,0,0,7,7,100.0,0,7,1,0,0,Southampton,2019-09-28 Tottenham-Southampton,ENG-EPL,19-20,23ec5db0
+caffaf5a,Maya Yoshida,3,JPN,CB,31-035,90,0,0,0,0,2,1,1,0,71,3,1,0,0.3,0.3,0.0,1,0,51,57,89.5,3,36,1,0,0,Southampton,2019-09-28 Tottenham-Southampton,ENG-EPL,19-20,23ec5db0
+4115ce4e,Jan Bednarek,35,POL,CB,23-169,90,0,0,0,0,0,0,1,0,55,6,4,1,0.0,0.0,0.0,0,0,33,43,76.7,2,17,0,0,0,Southampton,2019-09-28 Tottenham-Southampton,ENG-EPL,19-20,23ec5db0
+e082af5b,Angus Gunn,28,SCO,GK,23-249,90,0,0,0,0,0,0,0,0,16,0,0,0,0.0,0.0,0.0,0,0,12,15,80.0,0,8,0,0,0,Southampton,2019-09-28 Tottenham-Southampton,ENG-EPL,19-20,23ec5db0

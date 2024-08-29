@@ -1,0 +1,31 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+21a66f6a,Harry Kane,10,ENG,FW,26-327,90,0,0,0,0,1,0,0,0,34,1,0,0,0.0,0.0,0.0,2,0,15,26,57.7,5,22,0,1,0,Tottenham Hotspur,2020-06-19 Tottenham-Manchester Utd,ENG-EPL,19-20,973a441a
+92e7e919,Son Heung-min,7,KOR,"LW,FW",27-347,90,0,0,0,0,4,2,0,0,59,2,4,2,0.2,0.2,0.0,1,0,24,36,66.7,2,32,0,5,4,Tottenham Hotspur,2020-06-19 Tottenham-Manchester Utd,ENG-EPL,19-20,973a441a
+a29b1131,Steven Bergwijn,23,NED,RW,22-255,69,1,0,0,0,1,1,0,0,31,1,0,1,0.1,0.1,0.1,2,0,18,21,85.7,0,19,2,2,1,Tottenham Hotspur,2020-06-19 Tottenham-Manchester Utd,ENG-EPL,19-20,973a441a
+d7553721,Giovani Lo Celso,18,ARG,"RM,RW",24-071,21,0,0,0,0,0,0,0,0,16,3,0,0,0.0,0.0,0.0,3,0,9,12,75.0,3,10,0,0,0,Tottenham Hotspur,2020-06-19 Tottenham-Manchester Utd,ENG-EPL,19-20,973a441a
+abe66106,Érik Lamela,11,ARG,AM,28-107,69,0,0,0,0,0,0,0,0,29,1,2,1,0.0,0.0,0.0,3,0,17,25,68.0,1,20,4,4,3,Tottenham Hotspur,2020-06-19 Tottenham-Manchester Utd,ENG-EPL,19-20,973a441a
+e2dde94c,Gedson Fernandes,30,POR,"LM,AM",21-162,21,0,0,0,0,1,0,0,0,16,0,0,0,0.0,0.0,0.0,1,0,5,8,62.5,1,12,1,4,0,Tottenham Hotspur,2020-06-19 Tottenham-Manchester Utd,ENG-EPL,19-20,973a441a
+2f7acede,Harry Winks,8,ENG,"DM,CM",24-138,90,0,0,0,0,1,0,0,0,60,1,1,0,0.0,0.0,0.1,2,0,44,55,80.0,5,34,1,0,0,Tottenham Hotspur,2020-06-19 Tottenham-Manchester Utd,ENG-EPL,19-20,973a441a
+2acd49b9,Moussa Sissoko,17,FRA,"DM,CM",30-308,90,0,0,0,0,0,0,0,0,37,3,3,0,0.0,0.0,0.0,0,0,24,30,80.0,3,16,0,1,0,Tottenham Hotspur,2020-06-19 Tottenham-Manchester Utd,ENG-EPL,19-20,973a441a
+44781702,Ben Davies,33,WAL,LB,27-056,90,0,0,0,0,0,0,0,0,68,0,1,0,0.0,0.0,0.0,0,0,45,59,76.3,4,33,1,2,1,Tottenham Hotspur,2020-06-19 Tottenham-Manchester Utd,ENG-EPL,19-20,973a441a
+ac861941,Eric Dier,15,ENG,CB,26-156,90,0,0,0,0,0,0,0,0,43,0,0,1,0.0,0.0,0.0,0,0,26,32,81.3,0,20,0,0,0,Tottenham Hotspur,2020-06-19 Tottenham-Manchester Utd,ENG-EPL,19-20,973a441a
+da7b447d,Davinson Sánchez,6,COL,CB,24-007,90,0,0,0,0,1,0,0,0,38,1,0,1,0.1,0.1,0.0,0,0,22,26,84.6,1,18,0,1,1,Tottenham Hotspur,2020-06-19 Tottenham-Manchester Utd,ENG-EPL,19-20,973a441a
+5c2b4f07,Serge Aurier,24,CIV,RB,27-178,90,0,1,0,0,1,0,0,0,63,1,1,2,0.0,0.0,0.1,4,1,33,50,66.0,4,35,1,1,0,Tottenham Hotspur,2020-06-19 Tottenham-Manchester Utd,ENG-EPL,19-20,973a441a
+8f62b6ee,Hugo Lloris,1,FRA,GK,33-176,90,0,0,0,0,0,0,0,0,32,0,0,0,0.0,0.0,0.0,0,0,13,28,46.4,0,14,0,0,0,Tottenham Hotspur,2020-06-19 Tottenham-Manchester Utd,ENG-EPL,19-20,973a441a
+8b788c01,Anthony Martial,9,FRA,FW,24-197,77,0,0,0,0,2,1,0,0,16,0,0,0,0.4,0.4,0.0,1,0,10,12,83.3,0,14,0,1,1,Manchester United,2020-06-19 Tottenham-Manchester Utd,ENG-EPL,19-20,973a441a
+03622183,Odion Ighalo,25,NGA,FW,31-003,13,0,0,0,0,0,0,0,0,2,1,0,0,0.0,0.0,0.0,1,0,1,1,100.0,0,1,0,0,0,Manchester United,2020-06-19 Tottenham-Manchester Utd,ENG-EPL,19-20,973a441a
+a1d5bd30,Marcus Rashford,10,ENG,LW,22-232,90,0,0,0,0,2,1,0,0,44,0,0,1,0.3,0.3,0.0,2,0,22,32,68.8,2,28,2,1,0,Manchester United,2020-06-19 Tottenham-Manchester Utd,ENG-EPL,19-20,973a441a
+c931d9f9,Daniel James,21,WAL,RW,22-222,61,0,0,0,0,0,0,1,0,28,0,0,2,0.0,0.0,0.0,2,0,14,22,63.6,3,22,2,0,0,Manchester United,2020-06-19 Tottenham-Manchester Utd,ENG-EPL,19-20,973a441a
+58eee997,Mason Greenwood,26,ENG,RW,18-262,29,0,0,0,0,1,0,0,0,16,1,0,0,0.0,0.0,0.0,0,0,11,12,91.7,0,11,2,2,1,Manchester United,2020-06-19 Tottenham-Manchester Utd,ENG-EPL,19-20,973a441a
+507c7bdf,Bruno Fernandes,18,POR,AM,25-285,90,1,0,1,1,4,2,0,0,85,2,2,0,0.9,0.1,0.3,3,0,42,69,60.9,11,42,0,3,2,Manchester United,2020-06-19 Tottenham-Manchester Utd,ENG-EPL,19-20,973a441a
+b853e0ad,Fred,17,BRA,DM,27-106,62,0,0,0,0,1,1,0,0,59,3,1,1,0.0,0.0,0.0,1,0,45,49,91.8,5,36,0,0,0,Manchester United,2020-06-19 Tottenham-Manchester Utd,ENG-EPL,19-20,973a441a
+867239d3,Paul Pogba,6,FRA,DM,27-096,28,0,0,0,0,1,0,0,0,25,1,0,2,0.0,0.0,0.0,3,2,18,19,94.7,2,16,2,2,2,Manchester United,2020-06-19 Tottenham-Manchester Utd,ENG-EPL,19-20,973a441a
+d93c2511,Scott McTominay,39,SCO,"DM,CB",23-194,88,0,0,0,0,0,0,0,0,72,2,2,3,0.0,0.0,0.0,2,0,50,60,83.3,10,44,1,1,1,Manchester United,2020-06-19 Tottenham-Manchester Utd,ENG-EPL,19-20,973a441a
+a1232f4e,Eric Bailly,3,CIV,CB,26-068,2,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,3,4,75.0,0,3,0,0,0,Manchester United,2020-06-19 Tottenham-Manchester Utd,ENG-EPL,19-20,973a441a
+9c94165b,Luke Shaw,23,ENG,LB,24-343,90,0,0,0,0,0,0,0,0,67,0,3,1,0.0,0.0,0.1,5,0,47,57,82.5,8,39,4,6,4,Manchester United,2020-06-19 Tottenham-Manchester Utd,ENG-EPL,19-20,973a441a
+d8931174,Harry Maguire,5,ENG,CB,27-106,90,0,0,0,0,0,0,0,0,115,1,5,0,0.0,0.0,0.0,0,0,93,100,93.0,14,74,8,0,0,Manchester United,2020-06-19 Tottenham-Manchester Utd,ENG-EPL,19-20,973a441a
+f5deef4c,Victor Lindelöf,2,SWE,CB,25-338,77,0,0,0,0,0,0,0,0,80,0,0,0,0.0,0.0,0.0,0,0,63,76,82.9,0,56,0,0,0,Manchester United,2020-06-19 Tottenham-Manchester Utd,ENG-EPL,19-20,973a441a
+eb7822d7,Nemanja Matić,31,SRB,DM,31-323,13,0,0,0,0,0,0,0,0,13,1,0,0,0.0,0.0,0.0,2,0,9,10,90.0,3,7,1,1,1,Manchester United,2020-06-19 Tottenham-Manchester Utd,ENG-EPL,19-20,973a441a
+9e525177,Aaron Wan-Bissaka,29,ENG,RB,22-206,90,0,0,0,0,0,0,0,0,96,4,2,1,0.0,0.0,0.0,1,0,64,86,74.4,4,54,3,2,2,Manchester United,2020-06-19 Tottenham-Manchester Utd,ENG-EPL,19-20,973a441a
+7ba6d84e,David de Gea,1,ESP,GK,29-225,90,0,0,0,0,0,0,0,0,22,0,0,0,0.0,0.0,0.0,0,0,18,20,90.0,0,6,0,0,0,Manchester United,2020-06-19 Tottenham-Manchester Utd,ENG-EPL,19-20,973a441a

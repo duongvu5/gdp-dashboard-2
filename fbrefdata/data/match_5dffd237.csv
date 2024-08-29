@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+b66315ae,Gabriel Jesus,9,BRA,FW,23-090,57,0,0,0,0,2,1,0,0,17,0,0,1,0.1,0.1,0.0,2,1,3,10,30.0,0,13,3,2,1,Manchester City,2020-07-02 Manchester City-Liverpool,ENG-EPL,19-20,5dffd237
+892d5bb1,Riyad Mahrez,26,ALG,"RW,FW",29-132,33,0,0,0,0,1,0,0,0,13,0,0,0,0.2,0.2,0.2,3,0,8,10,80.0,2,11,2,1,1,Manchester City,2020-07-02 Manchester City-Liverpool,ENG-EPL,19-20,5dffd237
+b400bde0,Raheem Sterling,7,ENG,"LW,FW",25-207,78,1,0,0,0,3,1,0,0,24,1,1,0,0.7,0.7,0.0,2,1,11,15,73.3,2,17,2,3,2,Manchester City,2020-07-02 Manchester City-Liverpool,ENG-EPL,19-20,5dffd237
+3eb22ec9,Bernardo Silva,20,POR,"LW,FW",25-327,12,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,5,6,83.3,0,6,0,0,0,Manchester City,2020-07-02 Manchester City-Liverpool,ENG-EPL,19-20,5dffd237
+ed1e53f3,Phil Foden,47,ENG,"RW,LW,FW",20-035,90,1,1,0,0,4,2,0,0,41,1,0,0,0.4,0.4,0.3,4,2,25,32,78.1,2,28,3,2,1,Manchester City,2020-07-02 Manchester City-Liverpool,ENG-EPL,19-20,5dffd237
+e46012d4,Kevin De Bruyne,17,BEL,AM,29-004,90,1,1,1,1,3,0,0,0,40,1,0,0,1.0,0.2,1.0,7,1,19,28,67.9,6,22,4,2,1,Manchester City,2020-07-02 Manchester City-Liverpool,ENG-EPL,19-20,5dffd237
+6434f10d,Rodri,16,ESP,DM,24-010,90,0,0,0,0,0,0,0,0,87,1,2,1,0.0,0.0,0.1,3,0,75,77,97.4,9,53,1,1,1,Manchester City,2020-07-02 Manchester City-Liverpool,ENG-EPL,19-20,5dffd237
+819b3158,İlkay Gündoğan,8,GER,DM,29-252,90,0,0,0,0,0,0,0,0,74,1,0,0,0.0,0.0,0.0,1,0,62,71,87.3,6,43,1,0,0,Manchester City,2020-07-02 Manchester City-Liverpool,ENG-EPL,19-20,5dffd237
+5271c8f1,Benjamin Mendy,22,FRA,LB,25-351,90,0,0,0,0,0,0,1,0,74,2,1,1,0.0,0.0,0.1,3,1,55,68,80.9,4,37,4,1,1,Manchester City,2020-07-02 Manchester City-Liverpool,ENG-EPL,19-20,5dffd237
+119b9a8e,Aymeric Laporte,14,ESP,CB,26-036,78,0,0,0,0,0,0,0,0,62,1,2,3,0.0,0.0,0.0,0,0,46,52,88.5,1,38,0,0,0,Manchester City,2020-07-02 Manchester City-Liverpool,ENG-EPL,19-20,5dffd237
+0d267745,Nicolás Otamendi,30,ARG,CB,32-141,12,0,0,0,0,0,0,0,0,9,0,0,1,0.0,0.0,0.0,0,0,5,6,83.3,0,4,0,0,0,Manchester City,2020-07-02 Manchester City-Liverpool,ENG-EPL,19-20,5dffd237
+2bed3eab,Eric García,50,ESP,CB,19-175,90,0,0,0,0,0,0,0,0,65,1,1,0,0.0,0.0,0.0,0,0,48,57,84.2,1,41,0,1,1,Manchester City,2020-07-02 Manchester City-Liverpool,ENG-EPL,19-20,5dffd237
+86dd77d1,Kyle Walker,2,ENG,RB,30-035,72,0,0,0,0,0,0,1,0,49,1,0,0,0.0,0.0,0.0,0,0,37,45,82.2,2,27,3,0,0,Manchester City,2020-07-02 Manchester City-Liverpool,ENG-EPL,19-20,5dffd237
+bd6351cd,João Cancelo,27,POR,RB,26-036,18,0,0,0,0,0,0,0,0,9,0,0,1,0.0,0.0,0.0,1,0,5,8,62.5,1,6,1,0,0,Manchester City,2020-07-02 Manchester City-Liverpool,ENG-EPL,19-20,5dffd237
+3bb7b8b4,Ederson,31,BRA,GK,26-320,90,0,0,0,0,0,0,0,0,55,0,1,0,0.0,0.0,0.0,0,0,41,52,78.8,0,41,0,0,0,Manchester City,2020-07-02 Manchester City-Liverpool,ENG-EPL,19-20,5dffd237
+4c370d81,Roberto Firmino,9,BRA,FW,28-274,61,0,0,0,0,2,1,0,0,25,0,0,3,0.3,0.3,0.1,2,0,14,16,87.5,3,9,0,2,1,Liverpool,2020-07-02 Manchester City-Liverpool,ENG-EPL,19-20,5dffd237
+43a166b4,Divock Origi,27,BEL,FW,25-075,29,0,0,0,0,1,0,0,0,9,0,0,1,0.1,0.1,0.1,1,0,4,5,80.0,0,7,0,1,0,Liverpool,2020-07-02 Manchester City-Liverpool,ENG-EPL,19-20,5dffd237
+c691bfe2,Sadio Mané,10,SEN,LW,28-083,84,0,0,0,0,2,0,0,0,32,1,0,1,0.3,0.3,0.1,3,0,16,24,66.7,1,25,4,1,1,Liverpool,2020-07-02 Manchester City-Liverpool,ENG-EPL,19-20,5dffd237
+f833a830,Takumi Minamino,18,JPN,LW,25-168,6,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,0,0,Liverpool,2020-07-02 Manchester City-Liverpool,ENG-EPL,19-20,5dffd237
+e342ad68,Mohamed Salah,11,EGY,RW,28-017,90,0,0,0,0,4,2,0,0,29,0,0,0,0.2,0.2,0.1,5,0,17,22,77.3,4,21,3,0,0,Liverpool,2020-07-02 Manchester City-Liverpool,ENG-EPL,19-20,5dffd237
+eb58eef0,Georginio Wijnaldum,5,NED,LM,29-234,61,0,0,0,0,0,0,0,0,28,1,1,0,0.0,0.0,0.0,0,0,20,25,80.0,1,17,0,0,0,Liverpool,2020-07-02 Manchester City-Liverpool,ENG-EPL,19-20,5dffd237
+f25c8e3a,Naby Keïta,8,GUI,LM,25-143,29,0,0,0,0,0,0,0,0,31,0,1,0,0.0,0.0,0.0,0,0,28,31,90.3,4,24,4,1,1,Liverpool,2020-07-02 Manchester City-Liverpool,ENG-EPL,19-20,5dffd237
+7f3b388c,Fabinho,3,BRA,"CB,CM",26-253,90,0,0,0,0,0,0,0,0,86,1,2,2,0.0,0.0,0.0,0,0,67,76,88.2,3,52,0,1,1,Liverpool,2020-07-02 Manchester City-Liverpool,ENG-EPL,19-20,5dffd237
+935e6b8f,Jordan Henderson,14,ENG,"CM,RM",30-015,90,0,0,0,0,0,0,1,0,82,3,2,0,0.0,0.0,0.0,3,0,68,74,91.9,5,47,1,0,0,Liverpool,2020-07-02 Manchester City-Liverpool,ENG-EPL,19-20,5dffd237
+2e4f5f03,Andrew Robertson,26,SCO,LB,26-113,90,0,0,0,0,0,0,0,0,61,1,1,1,0.0,0.0,0.0,1,0,44,56,78.6,2,37,1,0,0,Liverpool,2020-07-02 Manchester City-Liverpool,ENG-EPL,19-20,5dffd237
+e06683ca,Virgil van Dijk,4,NED,CB,28-360,90,0,0,0,0,0,0,0,0,77,0,3,1,0.0,0.0,0.0,2,0,60,70,85.7,2,49,0,0,0,Liverpool,2020-07-02 Manchester City-Liverpool,ENG-EPL,19-20,5dffd237
+7a11550b,Joe Gomez,12,ENG,CB,23-040,45,0,0,0,0,0,0,1,0,58,1,0,0,0.0,0.0,0.0,0,0,49,57,86.0,2,51,0,0,0,Liverpool,2020-07-02 Manchester City-Liverpool,ENG-EPL,19-20,5dffd237
+38c7feef,Alex Oxlade-Chamberlain,15,ENG,RM,26-322,45,0,0,0,0,1,0,0,0,27,0,0,1,0.0,0.0,0.0,0,0,16,20,80.0,4,19,4,2,1,Liverpool,2020-07-02 Manchester City-Liverpool,ENG-EPL,19-20,5dffd237
+cd1acf9d,Trent Alexander-Arnold,66,ENG,RB,21-269,75,0,0,0,0,1,0,0,0,72,5,3,1,0.1,0.1,0.2,2,0,47,60,78.3,5,40,1,1,0,Liverpool,2020-07-02 Manchester City-Liverpool,ENG-EPL,19-20,5dffd237
+dd323728,Neco Williams,76,WAL,RB,19-080,15,0,0,0,0,0,0,0,0,26,0,2,0,0.0,0.0,0.0,1,0,19,26,73.1,0,12,0,0,0,Liverpool,2020-07-02 Manchester City-Liverpool,ENG-EPL,19-20,5dffd237
+7a2e46a8,Alisson,1,BRA,GK,27-274,90,0,0,0,0,0,0,0,0,34,0,0,0,0.0,0.0,0.0,0,0,28,33,84.8,0,16,0,0,0,Liverpool,2020-07-02 Manchester City-Liverpool,ENG-EPL,19-20,5dffd237

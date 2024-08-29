@@ -1,0 +1,29 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+8b788c01,Anthony Martial,9,FRA,FW,24-010,90,0,0,0,0,1,0,0,0,30,0,0,0,0.0,0.0,0.0,6,0,20,23,87.0,3,24,1,2,1,Manchester United,2019-12-15 Manchester Utd-Everton,ENG-EPL,19-20,240ac5ad
+a1d5bd30,Marcus Rashford,10,ENG,"LW,FW",22-045,90,0,0,0,0,6,3,0,0,44,1,0,0,0.3,0.3,0.0,2,0,17,25,68.0,3,25,4,6,2,Manchester United,2019-12-15 Manchester Utd-Everton,ENG-EPL,19-20,240ac5ad
+c931d9f9,Daniel James,21,WAL,"RW,LM",22-035,85,0,1,0,0,5,2,0,0,42,1,0,1,0.2,0.2,0.1,7,1,22,30,73.3,4,25,4,1,1,Manchester United,2019-12-15 Manchester Utd-Everton,ENG-EPL,19-20,240ac5ad
+29733c72,Juan Mata,8,ESP,AM,31-231,5,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,1,0,6,8,75.0,1,4,0,0,0,Manchester United,2019-12-15 Manchester Utd-Everton,ENG-EPL,19-20,240ac5ad
+810e3c74,Jesse Lingard,14,ENG,AM,27-000,64,0,0,0,0,1,0,0,0,39,0,0,1,0.5,0.5,0.1,3,0,24,28,85.7,4,13,0,1,0,Manchester United,2019-12-15 Manchester Utd-Everton,ENG-EPL,19-20,240ac5ad
+58eee997,Mason Greenwood,26,ENG,"RM,RW,AM",18-075,26,1,0,0,0,1,1,0,0,10,0,0,0,0.0,0.0,0.0,2,1,8,9,88.9,1,8,1,0,0,Manchester United,2019-12-15 Manchester Utd-Everton,ENG-EPL,19-20,240ac5ad
+b853e0ad,Fred,17,BRA,"DM,CM",26-285,90,0,0,0,0,2,0,0,0,110,1,1,2,0.1,0.1,0.1,8,0,78,94,83.0,13,68,1,5,4,Manchester United,2019-12-15 Manchester Utd-Everton,ENG-EPL,19-20,240ac5ad
+d93c2511,Scott McTominay,39,SCO,"DM,CM",23-007,90,0,0,0,0,3,0,0,0,69,3,2,0,0.1,0.1,0.2,8,0,41,55,74.5,9,44,1,3,2,Manchester United,2019-12-15 Manchester Utd-Everton,ENG-EPL,19-20,240ac5ad
+9c94165b,Luke Shaw,23,ENG,LB,24-156,90,0,0,0,0,2,2,0,0,93,1,1,1,0.1,0.1,0.0,3,0,66,80,82.5,11,47,1,1,0,Manchester United,2019-12-15 Manchester Utd-Everton,ENG-EPL,19-20,240ac5ad
+d8931174,Harry Maguire,5,ENG,CB,26-285,90,0,0,0,0,2,0,0,0,96,1,1,0,0.1,0.1,0.0,1,0,72,85,84.7,6,61,6,0,0,Manchester United,2019-12-15 Manchester Utd-Everton,ENG-EPL,19-20,240ac5ad
+f5deef4c,Victor Lindelöf,2,SWE,CB,25-151,90,0,0,0,0,1,0,1,0,78,0,0,1,0.0,0.0,0.1,1,0,58,70,82.9,4,57,1,0,0,Manchester United,2019-12-15 Manchester Utd-Everton,ENG-EPL,19-20,240ac5ad
+9e525177,Aaron Wan-Bissaka,29,ENG,RB,22-019,90,0,0,0,0,0,0,0,0,76,6,2,0,0.0,0.0,0.0,3,0,56,65,86.2,8,39,2,4,3,Manchester United,2019-12-15 Manchester Utd-Everton,ENG-EPL,19-20,240ac5ad
+7ba6d84e,David de Gea,1,ESP,GK,29-038,90,0,0,0,0,0,0,0,0,25,0,0,0,0.0,0.0,0.0,0,0,22,23,95.7,0,12,0,0,0,Manchester United,2019-12-15 Manchester Utd-Everton,ENG-EPL,19-20,240ac5ad
+59e6e5bf,Dominic Calvert-Lewin,9,ENG,"FW,RM",22-274,90,0,0,0,0,3,1,0,0,37,0,0,0,0.1,0.1,0.0,3,0,13,22,59.1,4,19,0,2,1,Everton,2019-12-15 Manchester Utd-Everton,ENG-EPL,19-20,240ac5ad
+fa031b34,Richarlison,7,BRA,"FW,LM",22-219,90,0,0,0,0,0,0,1,0,42,2,0,1,0.0,0.0,0.0,4,0,18,22,81.8,0,29,4,8,2,Everton,2019-12-15 Manchester Utd-Everton,ENG-EPL,19-20,240ac5ad
+ab4b3e35,Bernard,20,BRA,LM,27-098,69,0,0,0,0,1,0,0,0,37,3,2,0,0.0,0.0,0.0,1,0,21,28,75.0,2,25,3,1,0,Everton,2019-12-15 Manchester Utd-Everton,ENG-EPL,19-20,240ac5ad
+3d50bcdb,Moise Kean,27,ITA,"FW,LM",19-290,19,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,1,4,25.0,1,6,2,0,0,Everton,2019-12-15 Manchester Utd-Everton,ENG-EPL,19-20,240ac5ad
+af721f98,Oumar Niasse,29,SEN,FW,29-241,2,0,0,0,0,0,0,0,0,4,2,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,0,0,Everton,2019-12-15 Manchester Utd-Everton,ENG-EPL,19-20,240ac5ad
+d0042ab9,Mason Holgate,2,ENG,"CM,DM",23-054,90,0,0,0,0,2,1,0,0,39,1,1,3,0.1,0.1,0.0,0,0,17,23,73.9,0,15,0,1,1,Everton,2019-12-15 Manchester Utd-Everton,ENG-EPL,19-20,240ac5ad
+9228b07c,Tom Davies,26,ENG,CM,21-168,90,0,0,0,0,0,0,1,0,38,1,4,1,0.0,0.0,0.0,1,0,18,27,66.7,6,16,0,0,0,Everton,2019-12-15 Manchester Utd-Everton,ENG-EPL,19-20,240ac5ad
+6ca5ec4b,Alex Iwobi,17,NGA,"RM,CM",23-226,90,0,0,0,0,1,1,0,0,39,4,0,1,0.0,0.0,0.0,1,0,15,27,55.6,2,23,4,1,0,Everton,2019-12-15 Manchester Utd-Everton,ENG-EPL,19-20,240ac5ad
+1b84dbe1,Lucas Digne,12,FRA,LB,26-148,24,0,0,0,0,0,0,0,0,10,0,1,0,0.0,0.0,0.1,1,0,7,10,70.0,1,6,0,0,0,Everton,2019-12-15 Manchester Utd-Everton,ENG-EPL,19-20,240ac5ad
+b18095b6,Leighton Baines,3,ENG,LB,35-004,66,0,0,0,0,1,0,0,0,46,0,1,0,0.1,0.1,0.0,1,0,30,36,83.3,3,17,0,0,0,Everton,2019-12-15 Manchester Utd-Everton,ENG-EPL,19-20,240ac5ad
+6d5701f2,Yerry Mina,13,COL,CB,25-083,90,0,0,0,0,0,0,0,0,31,1,0,2,0.0,0.0,0.0,0,0,12,18,66.7,0,14,0,0,0,Everton,2019-12-15 Manchester Utd-Everton,ENG-EPL,19-20,240ac5ad
+c5b7c315,Michael Keane,5,ENG,CB,26-338,90,0,0,0,0,0,0,0,0,33,2,1,0,0.0,0.0,0.0,1,0,14,23,60.9,2,13,0,0,0,Everton,2019-12-15 Manchester Utd-Everton,ENG-EPL,19-20,240ac5ad
+0420d84f,Séamus Coleman,23,IRL,RB,31-065,90,0,0,0,0,0,0,0,0,38,5,2,1,0.0,0.0,0.0,0,0,18,27,66.7,4,9,0,0,0,Everton,2019-12-15 Manchester Utd-Everton,ENG-EPL,19-20,240ac5ad
+4806ec67,Jordan Pickford,1,ENG,GK,25-283,90,0,0,0,0,0,0,0,0,40,0,0,0,0.0,0.0,0.0,0,0,11,37,29.7,0,19,0,0,0,Everton,2019-12-15 Manchester Utd-Everton,ENG-EPL,19-20,240ac5ad

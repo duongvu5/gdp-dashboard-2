@@ -1,0 +1,32 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+9dbb75ca,Alexandre Lacazette,9,FRA,FW,29-040,70,0,0,0,0,2,2,0,0,31,0,1,1,0.3,0.3,0.1,4,0,16,22,72.7,3,22,0,2,0,Arsenal,2020-07-07 Arsenal-Leicester City,ENG-EPL,19-20,a26b0a22
+a53649b7,Eddie Nketiah,30,ENG,FW,21-038,4,0,0,0,0,0,0,0,1,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Arsenal,2020-07-07 Arsenal-Leicester City,ENG-EPL,19-20,a26b0a22
+d5dd5f1f,Pierre-Emerick Aubameyang,14,GAB,"LW,FW",31-019,89,1,0,0,0,2,1,0,0,35,0,0,1,0.4,0.4,0.0,2,0,18,25,72.0,3,25,2,0,0,Arsenal,2020-07-07 Arsenal-Leicester City,ENG-EPL,19-20,a26b0a22
+e3a5814e,Ainsley Maitland-Niles,15,ENG,CM,22-313,1,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,1,2,0,0,0,Arsenal,2020-07-07 Arsenal-Leicester City,ENG-EPL,19-20,a26b0a22
+bc7dc64d,Bukayo Saka,77,ENG,RW,18-306,70,0,1,0,0,1,1,0,0,30,0,1,1,0.1,0.1,0.5,4,1,14,20,70.0,3,21,1,4,1,Arsenal,2020-07-07 Arsenal-Leicester City,ENG-EPL,19-20,a26b0a22
+a3b03921,Joe Willock,28,ENG,"CM,RW,FW",20-322,20,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,2,4,50.0,0,5,0,1,0,Arsenal,2020-07-07 Arsenal-Leicester City,ENG-EPL,19-20,a26b0a22
+fce2302c,Kieran Tierney,3,SCO,"LM,LB",23-032,90,0,0,0,0,1,1,0,0,48,1,1,0,0.0,0.0,0.0,0,0,28,44,63.6,5,28,3,2,2,Arsenal,2020-07-07 Arsenal-Leicester City,ENG-EPL,19-20,a26b0a22
+e61b8aee,Granit Xhaka,34,SUI,CM,27-284,90,0,0,0,0,0,0,0,0,52,0,1,1,0.0,0.0,0.0,3,0,34,44,77.3,5,40,0,1,0,Arsenal,2020-07-07 Arsenal-Leicester City,ENG-EPL,19-20,a26b0a22
+c0617e2b,Dani Ceballos,8,ESP,CM,23-335,79,0,0,0,0,1,0,0,0,66,1,3,3,0.0,0.0,0.1,4,1,34,50,68.0,7,41,2,2,2,Arsenal,2020-07-07 Arsenal-Leicester City,ENG-EPL,19-20,a26b0a22
+52611641,Lucas Torreira,11,URU,CM,24-147,11,0,0,0,0,0,0,0,0,7,0,2,0,0.0,0.0,0.0,0,0,3,5,60.0,1,3,0,1,0,Arsenal,2020-07-07 Arsenal-Leicester City,ENG-EPL,19-20,a26b0a22
+f874dd44,Héctor Bellerín,2,ESP,"RM,RB",25-110,90,0,0,0,0,1,1,0,0,51,0,0,0,0.1,0.1,0.3,1,0,35,45,77.8,5,24,4,2,1,Arsenal,2020-07-07 Arsenal-Leicester City,ENG-EPL,19-20,a26b0a22
+3935e52e,Sead Kolašinac,31,BIH,CB,27-017,90,0,0,0,0,0,0,0,0,34,0,3,0,0.0,0.0,0.0,0,0,19,27,70.4,2,21,1,0,0,Arsenal,2020-07-07 Arsenal-Leicester City,ENG-EPL,19-20,a26b0a22
+c0e27d1a,David Luiz,23,BRA,CB,33-076,90,0,0,0,0,2,1,0,0,52,1,2,1,0.1,0.1,0.0,1,0,27,40,67.5,1,26,0,0,0,Arsenal,2020-07-07 Arsenal-Leicester City,ENG-EPL,19-20,a26b0a22
+3f2d59fe,Shkodran Mustafi,20,GER,CB,28-081,90,0,0,0,0,1,0,1,0,35,3,2,0,0.0,0.0,0.0,0,0,11,26,42.3,1,14,0,0,0,Arsenal,2020-07-07 Arsenal-Leicester City,ENG-EPL,19-20,a26b0a22
+7956236f,Emiliano Martínez,26,ARG,GK,27-309,90,0,0,0,0,0,0,0,0,29,0,0,0,0.0,0.0,0.0,0,0,14,27,51.9,0,21,0,0,0,Arsenal,2020-07-07 Arsenal-Leicester City,ENG-EPL,19-20,a26b0a22
+45963054,Jamie Vardy,9,ENG,FW,33-178,90,1,0,0,0,3,2,0,0,18,0,0,1,0.5,0.5,0.1,2,0,6,9,66.7,0,8,1,0,0,Leicester City,2020-07-07 Arsenal-Leicester City,ENG-EPL,19-20,a26b0a22
+819aa8e7,Ayoze Pérez,17,ESP,"LW,FW,RW",26-344,90,0,0,0,0,0,0,0,0,58,2,0,1,0.0,0.0,0.1,5,0,39,47,83.0,5,35,1,3,2,Leicester City,2020-07-07 Arsenal-Leicester City,ENG-EPL,19-20,a26b0a22
+c92e1a31,Kelechi Iheanacho,14,NGA,RW,23-278,58,0,0,0,0,3,2,0,0,21,1,1,1,0.1,0.1,0.0,0,0,5,8,62.5,0,14,1,0,0,Leicester City,2020-07-07 Arsenal-Leicester City,ENG-EPL,19-20,a26b0a22
+3ea50f67,Harvey Barnes,15,ENG,"LM,LW",22-211,32,0,0,0,0,2,1,0,0,23,1,0,0,0.1,0.1,0.0,1,0,13,16,81.3,1,14,0,0,0,Leicester City,2020-07-07 Arsenal-Leicester City,ENG-EPL,19-20,a26b0a22
+b827d5b3,Marc Albrighton,11,ENG,LM,30-232,58,0,0,0,0,0,0,0,0,41,1,2,2,0.0,0.0,0.1,3,0,26,34,76.5,3,13,2,1,0,Leicester City,2020-07-07 Arsenal-Leicester City,ENG-EPL,19-20,a26b0a22
+a67a09fb,Christian Fuchs,28,AUT,"LB,LM",34-091,32,0,0,0,0,0,0,0,0,37,0,1,0,0.0,0.0,0.0,0,0,28,35,80.0,2,22,0,0,0,Leicester City,2020-07-07 Arsenal-Leicester City,ENG-EPL,19-20,a26b0a22
+56f7a928,Youri Tielemans,8,BEL,CM,23-061,90,0,0,0,0,0,0,0,0,92,2,1,2,0.0,0.0,0.1,4,0,68,85,80.0,4,49,1,0,0,Leicester City,2020-07-07 Arsenal-Leicester City,ENG-EPL,19-20,a26b0a22
+6b47c5db,Wilfred Ndidi,25,NGA,CM,23-204,81,0,0,0,0,1,0,0,0,53,3,0,2,0.0,0.0,0.0,1,0,35,45,77.8,1,20,0,0,0,Leicester City,2020-07-07 Arsenal-Leicester City,ENG-EPL,19-20,a26b0a22
+86695068,Dennis Praet,26,BEL,CM,26-054,9,0,0,0,0,1,0,0,0,15,0,0,0,0.1,0.1,0.0,1,1,9,13,69.2,0,7,1,0,0,Leicester City,2020-07-07 Arsenal-Leicester City,ENG-EPL,19-20,a26b0a22
+fb614c44,James Justin,2,ENG,"RM,RB",22-135,90,0,0,0,0,2,0,0,0,63,4,0,3,0.1,0.1,0.1,3,0,39,47,83.0,4,29,5,1,1,Leicester City,2020-07-07 Arsenal-Leicester City,ENG-EPL,19-20,a26b0a22
+21166ff4,Çağlar Söyüncü,4,TUR,CB,24-045,90,0,0,0,0,0,0,0,0,110,2,2,0,0.0,0.0,0.0,4,0,92,104,88.5,10,57,2,0,0,Leicester City,2020-07-07 Arsenal-Leicester City,ENG-EPL,19-20,a26b0a22
+f8fcd2a5,Jonny Evans,6,NIR,CB,32-186,90,0,0,0,0,0,0,0,0,61,1,1,0,0.0,0.0,0.0,0,0,49,54,90.7,4,25,1,1,1,Leicester City,2020-07-07 Arsenal-Leicester City,ENG-EPL,19-20,a26b0a22
+0bad4516,Ryan Bennett,29,ENG,CB,30-123,75,0,0,0,0,0,0,0,0,46,0,0,0,0.0,0.0,0.0,0,0,34,45,75.6,2,15,0,0,0,Leicester City,2020-07-07 Arsenal-Leicester City,ENG-EPL,19-20,a26b0a22
+4468ec10,Demarai Gray,7,JAM,RM,24-009,15,0,1,0,0,0,0,0,0,22,0,0,0,0.0,0.0,0.5,2,1,14,20,70.0,1,15,0,0,0,Leicester City,2020-07-07 Arsenal-Leicester City,ENG-EPL,19-20,a26b0a22
+53af52f3,Kasper Schmeichel,1,DEN,GK,33-245,90,0,0,0,0,1,0,0,0,46,0,0,0,0.0,0.0,0.0,0,0,32,41,78.0,0,22,0,0,0,Leicester City,2020-07-07 Arsenal-Leicester City,ENG-EPL,19-20,a26b0a22

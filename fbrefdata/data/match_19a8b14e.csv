@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+d5dd5f1f,Pierre-Emerick Aubameyang,14,GAB,"FW,LW,RW",30-158,90,0,0,0,0,2,1,0,0,35,1,1,2,0.4,0.4,0.0,4,2,17,24,70.8,2,19,2,2,0,Arsenal,2019-11-23 Arsenal-Southampton,ENG-EPL,19-20,19a8b14e
+9dbb75ca,Alexandre Lacazette,9,FRA,FW,28-179,90,2,0,0,0,2,2,1,0,40,1,1,3,0.8,0.8,0.1,3,0,17,26,65.4,4,20,5,7,4,Arsenal,2019-11-23 Arsenal-Southampton,ENG-EPL,19-20,19a8b14e
+16380240,Mesut Özil,10,GER,AM,31-039,90,0,0,0,0,1,1,0,0,61,2,0,0,0.1,0.1,0.3,8,0,38,56,67.9,7,36,0,3,3,Arsenal,2019-11-23 Arsenal-Southampton,ENG-EPL,19-20,19a8b14e
+5ea8ef20,Mattéo Guendouzi,29,FRA,"DM,CM",20-223,90,0,0,0,0,0,0,1,0,87,4,4,1,0.0,0.0,0.1,2,0,62,70,88.6,17,53,5,4,3,Arsenal,2019-11-23 Arsenal-Southampton,ENG-EPL,19-20,19a8b14e
+52611641,Lucas Torreira,11,URU,"CM,DM",23-285,82,0,0,0,0,1,0,1,0,62,2,4,0,0.1,0.1,0.1,1,0,40,49,81.6,2,34,1,1,1,Arsenal,2019-11-23 Arsenal-Southampton,ENG-EPL,19-20,19a8b14e
+a3b03921,Joe Willock,28,ENG,LM,20-095,8,0,0,0,0,1,1,0,0,9,1,0,1,0.1,0.1,0.0,1,0,4,5,80.0,1,5,0,0,0,Arsenal,2019-11-23 Arsenal-Southampton,ENG-EPL,19-20,19a8b14e
+fce2302c,Kieran Tierney,3,SCO,"WB,LB,CB",22-171,90,0,0,0,0,1,0,1,0,69,1,1,3,0.1,0.1,0.2,2,0,41,56,73.2,3,35,4,1,1,Arsenal,2019-11-23 Arsenal-Southampton,ENG-EPL,19-20,19a8b14e
+f874dd44,Héctor Bellerín,2,ESP,"WB,RB",24-249,82,0,0,0,0,0,0,0,0,63,3,1,1,0.0,0.0,0.0,0,0,41,54,75.9,2,30,1,3,2,Arsenal,2019-11-23 Arsenal-Southampton,ENG-EPL,19-20,19a8b14e
+48a5a5d6,Gabriel Martinelli,35,BRA,LW,18-158,8,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,3,2,1,1,Arsenal,2019-11-23 Arsenal-Southampton,ENG-EPL,19-20,19a8b14e
+b682dcf6,Sokratis Papastathopoulos,5,GRE,CB,31-167,90,0,0,0,0,2,0,1,0,60,2,1,1,0.1,0.1,0.0,0,0,45,52,86.5,3,39,0,2,2,Arsenal,2019-11-23 Arsenal-Southampton,ENG-EPL,19-20,19a8b14e
+c0e27d1a,David Luiz,23,BRA,CB,32-215,90,0,0,0,0,1,0,0,0,69,4,2,1,0.1,0.1,0.0,1,1,51,57,89.5,6,44,0,1,1,Arsenal,2019-11-23 Arsenal-Southampton,ENG-EPL,19-20,19a8b14e
+dc6f5bdd,Calum Chambers,21,ENG,CB,24-307,45,0,0,0,0,0,0,0,0,49,1,0,0,0.0,0.0,0.0,0,0,42,47,89.4,4,30,1,0,0,Arsenal,2019-11-23 Arsenal-Southampton,ENG-EPL,19-20,19a8b14e
+57e3f0c7,Nicolas Pépé,19,CIV,"RW,RM",24-178,45,0,0,0,0,1,0,1,0,30,3,0,1,0.1,0.1,0.0,0,0,17,18,94.4,0,19,1,5,2,Arsenal,2019-11-23 Arsenal-Southampton,ENG-EPL,19-20,19a8b14e
+2628fd2b,Bernd Leno,1,GER,GK,27-264,90,0,0,0,0,0,0,0,0,34,0,0,0,0.0,0.0,0.0,0,0,25,31,80.6,0,12,0,0,0,Arsenal,2019-11-23 Arsenal-Southampton,ENG-EPL,19-20,19a8b14e
+07802f7f,Danny Ings,9,ENG,FW,27-123,72,1,0,0,0,3,1,1,0,24,1,0,0,0.2,0.2,0.1,2,0,9,14,64.3,2,14,2,2,0,Southampton,2019-11-23 Arsenal-Southampton,ENG-EPL,19-20,19a8b14e
+9f472354,Shane Long,7,IRL,FW,32-305,18,0,0,0,0,0,0,0,0,14,0,0,1,0.0,0.0,0.2,2,0,8,10,80.0,2,8,0,0,0,Southampton,2019-11-23 Arsenal-Southampton,ENG-EPL,19-20,19a8b14e
+caa1a7f0,Michael Obafemi,20,IRL,FW,19-140,75,0,0,0,0,1,0,0,0,20,0,1,0,0.1,0.1,0.1,6,0,14,15,93.3,0,13,2,1,1,Southampton,2019-11-23 Arsenal-Southampton,ENG-EPL,19-20,19a8b14e
+254147d4,Moussa Djenepo,12,MLI,FW,21-161,15,0,0,0,0,2,0,0,0,16,1,0,1,0.7,0.7,0.0,2,0,7,9,77.8,3,11,0,4,4,Southampton,2019-11-23 Arsenal-Southampton,ENG-EPL,19-20,19a8b14e
+ab651565,Nathan Redmond,22,ENG,LM,25-262,90,0,0,0,0,3,1,0,0,47,3,0,3,0.1,0.1,0.3,6,1,20,31,64.5,4,31,7,5,3,Southampton,2019-11-23 Arsenal-Southampton,ENG-EPL,19-20,19a8b14e
+8b04d6c1,Pierre Højbjerg,23,DEN,CM,24-110,90,0,0,0,0,3,0,0,0,62,3,6,2,0.2,0.2,0.1,4,0,35,40,87.5,7,31,3,2,1,Southampton,2019-11-23 Arsenal-Southampton,ENG-EPL,19-20,19a8b14e
+3515d404,James Ward-Prowse,16,ENG,CM,25-022,90,1,0,0,1,3,2,0,0,63,2,1,0,0.9,0.0,0.2,6,1,38,54,70.4,5,24,0,0,0,Southampton,2019-11-23 Arsenal-Southampton,ENG-EPL,19-20,19a8b14e
+97333cf5,Stuart Armstrong,17,SCO,RM,27-238,85,0,0,0,0,2,0,0,0,35,1,0,1,0.1,0.1,0.0,1,0,18,25,72.0,1,16,1,2,1,Southampton,2019-11-23 Arsenal-Southampton,ENG-EPL,19-20,19a8b14e
+b0c71810,Sofiane Boufal,19,MAR,RM,26-067,5,0,0,0,0,2,0,0,0,12,1,0,0,0.2,0.2,0.4,2,0,4,4,100.0,1,10,2,5,3,Southampton,2019-11-23 Arsenal-Southampton,ENG-EPL,19-20,19a8b14e
+01226327,Ryan Bertrand,21,ENG,LB,30-110,90,0,1,0,0,0,0,1,0,52,3,2,1,0.0,0.0,0.1,2,1,33,44,75.0,3,18,2,0,0,Southampton,2019-11-23 Arsenal-Southampton,ENG-EPL,19-20,19a8b14e
+4115ce4e,Jan Bednarek,35,POL,CB,23-225,90,0,0,0,0,0,0,0,0,32,0,4,0,0.0,0.0,0.0,0,0,16,19,84.2,1,4,0,0,0,Southampton,2019-11-23 Arsenal-Southampton,ENG-EPL,19-20,19a8b14e
+6adbc307,Jack Stephens,5,ENG,CB,25-300,90,0,0,0,0,0,0,0,0,33,1,0,2,0.0,0.0,0.0,1,0,14,21,66.7,3,13,0,0,0,Southampton,2019-11-23 Arsenal-Southampton,ENG-EPL,19-20,19a8b14e
+839c14e1,Cédric Soares,2,POR,RB,28-084,90,0,0,0,0,1,0,0,0,52,2,2,1,0.0,0.0,0.0,0,0,27,40,67.5,3,20,0,0,0,Southampton,2019-11-23 Arsenal-Southampton,ENG-EPL,19-20,19a8b14e
+36c2ca73,Alex McCarthy,1,ENG,GK,29-355,90,0,0,0,0,0,0,0,0,31,0,0,0,0.0,0.0,0.0,0,0,15,28,53.6,0,17,0,0,0,Southampton,2019-11-23 Arsenal-Southampton,ENG-EPL,19-20,19a8b14e

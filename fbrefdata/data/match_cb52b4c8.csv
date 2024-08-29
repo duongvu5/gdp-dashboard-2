@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+9dbb75ca,Alexandre Lacazette,9,FRA,FW,29-034,75,0,0,0,0,2,1,0,0,28,3,1,0,0.3,0.3,0.0,1,0,16,17,94.1,2,20,1,1,0,Arsenal,2020-07-01 Arsenal-Norwich City,ENG-EPL,19-20,cb52b4c8
+a53649b7,Eddie Nketiah,30,ENG,FW,21-032,15,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,3,0,5,7,71.4,2,8,1,1,1,Arsenal,2020-07-01 Arsenal-Norwich City,ENG-EPL,19-20,cb52b4c8
+d5dd5f1f,Pierre-Emerick Aubameyang,14,GAB,LW,31-013,81,2,1,0,0,4,4,0,0,31,1,0,2,0.6,0.6,0.2,3,2,15,23,65.2,3,17,2,0,0,Arsenal,2020-07-01 Arsenal-Norwich City,ENG-EPL,19-20,cb52b4c8
+57e3f0c7,Nicolas Pépé,19,CIV,LW,25-033,9,0,0,0,0,1,0,0,0,6,1,0,1,0.1,0.1,0.0,0,0,3,3,100.0,1,2,1,1,0,Arsenal,2020-07-01 Arsenal-Norwich City,ENG-EPL,19-20,cb52b4c8
+c5bdb6e3,Reiss Nelson,24,ENG,RW,20-204,57,0,0,0,0,0,0,0,0,21,0,0,0,0.0,0.0,0.2,3,0,17,18,94.4,1,18,0,2,1,Arsenal,2020-07-01 Arsenal-Norwich City,ENG-EPL,19-20,cb52b4c8
+a3b03921,Joe Willock,28,ENG,RW,20-316,33,0,0,0,0,2,0,0,0,22,0,0,2,0.1,0.1,0.0,1,0,13,17,76.5,1,16,2,1,1,Arsenal,2020-07-01 Arsenal-Norwich City,ENG-EPL,19-20,cb52b4c8
+fce2302c,Kieran Tierney,3,SCO,LM,23-026,90,0,0,0,0,0,0,0,0,44,0,1,0,0.0,0.0,0.0,1,1,28,39,71.8,4,27,4,1,1,Arsenal,2020-07-01 Arsenal-Norwich City,ENG-EPL,19-20,cb52b4c8
+e61b8aee,Granit Xhaka,34,SUI,CM,27-278,90,1,0,0,0,2,1,0,0,64,0,1,2,0.3,0.3,0.0,3,0,49,52,94.2,6,37,2,0,0,Arsenal,2020-07-01 Arsenal-Norwich City,ENG-EPL,19-20,cb52b4c8
+c0617e2b,Dani Ceballos,8,ESP,CM,23-329,90,0,0,0,0,0,0,0,0,75,1,4,1,0.0,0.0,0.3,4,0,61,68,89.7,10,51,4,4,2,Arsenal,2020-07-01 Arsenal-Norwich City,ENG-EPL,19-20,cb52b4c8
+f874dd44,Héctor Bellerín,2,ESP,RM,25-104,76,0,0,0,0,0,0,0,0,45,2,2,0,0.0,0.0,0.0,0,0,33,38,86.8,3,27,3,1,1,Arsenal,2020-07-01 Arsenal-Norwich City,ENG-EPL,19-20,cb52b4c8
+839c14e1,Cédric Soares,17,POR,RM,28-305,14,1,0,0,0,1,1,0,0,15,3,1,0,0.0,0.0,0.0,2,2,7,11,63.6,3,2,0,0,0,Arsenal,2020-07-01 Arsenal-Norwich City,ENG-EPL,19-20,cb52b4c8
+3935e52e,Sead Kolašinac,31,BIH,CB,27-011,90,0,0,0,0,0,0,0,0,73,1,3,0,0.0,0.0,0.0,0,0,59,68,86.8,5,46,2,0,0,Arsenal,2020-07-01 Arsenal-Norwich City,ENG-EPL,19-20,cb52b4c8
+c0e27d1a,David Luiz,23,BRA,CB,33-070,90,0,0,0,0,1,1,0,0,64,0,0,1,0.0,0.0,0.0,0,0,50,56,89.3,3,41,0,0,0,Arsenal,2020-07-01 Arsenal-Norwich City,ENG-EPL,19-20,cb52b4c8
+3f2d59fe,Shkodran Mustafi,20,GER,CB,28-075,45,0,0,0,0,0,0,0,0,52,0,0,0,0.0,0.0,0.0,0,0,39,51,76.5,5,37,0,0,0,Arsenal,2020-07-01 Arsenal-Norwich City,ENG-EPL,19-20,cb52b4c8
+d79a8c87,Rob Holding,16,ENG,CB,24-285,45,0,0,0,0,0,0,0,0,19,0,0,1,0.0,0.0,0.0,0,0,10,13,76.9,1,8,0,0,0,Arsenal,2020-07-01 Arsenal-Norwich City,ENG-EPL,19-20,cb52b4c8
+7956236f,Emiliano Martínez,26,ARG,GK,27-303,90,0,0,0,0,0,0,1,0,23,0,0,0,0.0,0.0,0.0,0,0,13,22,59.1,0,10,0,0,0,Arsenal,2020-07-01 Arsenal-Norwich City,ENG-EPL,19-20,cb52b4c8
+0745b37d,Teemu Pukki,22,FIN,FW,30-094,45,0,0,0,0,0,0,0,0,12,0,0,0,0.0,0.0,0.0,1,0,10,10,100.0,0,5,0,0,0,Norwich City,2020-07-01 Arsenal-Norwich City,ENG-EPL,19-20,cb52b4c8
+15ea94de,Josip Drmić,20,SUI,FW,27-328,45,0,0,0,0,1,0,0,0,23,0,0,0,0.0,0.0,0.0,1,0,11,17,64.7,0,11,0,1,0,Norwich City,2020-07-01 Arsenal-Norwich City,ENG-EPL,19-20,cb52b4c8
+f63d8a4b,Todd Cantwell,14,ENG,"LM,AM",22-125,74,0,0,0,0,1,0,0,0,41,1,0,2,0.0,0.0,0.0,1,0,29,36,80.6,2,24,0,0,0,Norwich City,2020-07-01 Arsenal-Norwich City,ENG-EPL,19-20,cb52b4c8
+b606638c,Marco Stiepermann,18,GER,AM,29-143,16,0,0,0,0,0,0,1,0,4,0,0,0,0.0,0.0,0.0,0,0,0,3,0.0,0,2,0,0,0,Norwich City,2020-07-01 Arsenal-Norwich City,ENG-EPL,19-20,cb52b4c8
+471f16b3,Kenny McLean,23,SCO,CM,28-175,90,0,0,0,0,1,1,1,0,66,0,0,1,0.1,0.1,0.0,1,0,53,62,85.5,2,42,0,1,1,Norwich City,2020-07-01 Arsenal-Norwich City,ENG-EPL,19-20,cb52b4c8
+3faa1780,Lukas Rupp,7,GER,CM,29-175,74,0,0,0,0,0,0,1,0,44,2,0,1,0.0,0.0,0.0,1,0,26,37,70.3,2,28,2,0,0,Norwich City,2020-07-01 Arsenal-Norwich City,ENG-EPL,19-20,cb52b4c8
+16fa6881,Mario Vrančić,8,BIH,CM,31-039,16,0,0,0,0,0,0,1,0,11,1,0,1,0.0,0.0,0.0,0,0,5,9,55.6,1,6,1,1,1,Norwich City,2020-07-01 Arsenal-Norwich City,ENG-EPL,19-20,cb52b4c8
+66b76d44,Emi Buendía,17,ARG,RM,23-189,45,0,0,0,0,1,0,0,0,23,2,0,0,0.0,0.0,0.0,1,0,12,16,75.0,1,13,0,0,0,Norwich City,2020-07-01 Arsenal-Norwich City,ENG-EPL,19-20,cb52b4c8
+007b39a5,Onel Hernández,11,CUB,WB,27-151,45,0,0,0,0,1,0,0,0,19,2,0,2,0.0,0.0,0.0,3,0,10,10,100.0,1,10,1,2,2,Norwich City,2020-07-01 Arsenal-Norwich City,ENG-EPL,19-20,cb52b4c8
+552aa16c,Tom Trybull,19,GER,DM,27-114,45,0,0,0,0,0,0,0,0,18,2,1,0,0.0,0.0,0.0,1,0,10,13,76.9,0,7,0,0,0,Norwich City,2020-07-01 Arsenal-Norwich City,ENG-EPL,19-20,cb52b4c8
+291e3ec3,Adam Idah,35,IRL,FW,19-141,45,0,0,0,0,1,1,0,0,17,0,0,2,0.0,0.0,0.0,1,0,10,13,76.9,1,8,0,0,0,Norwich City,2020-07-01 Arsenal-Norwich City,ENG-EPL,19-20,cb52b4c8
+efb9215a,Jamal Lewis,12,NIR,"CB,LB",22-158,90,0,0,0,0,0,0,0,0,57,5,2,0,0.0,0.0,0.0,1,0,35,47,74.5,1,31,2,2,1,Norwich City,2020-07-01 Arsenal-Norwich City,ENG-EPL,19-20,cb52b4c8
+75566759,Alexander Tettey,27,NOR,CB,34-088,90,0,0,0,0,0,0,0,0,66,1,1,1,0.0,0.0,0.0,0,0,48,54,88.9,1,39,0,1,1,Norwich City,2020-07-01 Arsenal-Norwich City,ENG-EPL,19-20,cb52b4c8
+9f7c837d,Ben Godfrey,4,ENG,CB,22-168,90,0,0,0,0,2,0,0,0,72,2,0,0,0.0,0.0,0.0,1,0,57,65,87.7,3,38,0,1,1,Norwich City,2020-07-01 Arsenal-Norwich City,ENG-EPL,19-20,cb52b4c8
+774cf58b,Max Aarons,2,ENG,"WB,RB",20-179,90,0,0,0,0,0,0,0,0,33,1,0,0,0.0,0.0,0.0,0,0,20,28,71.4,1,20,3,2,2,Norwich City,2020-07-01 Arsenal-Norwich City,ENG-EPL,19-20,cb52b4c8
+f23f9d20,Tim Krul,1,NED,GK,32-089,90,0,0,0,0,0,0,0,0,60,0,0,0,0.0,0.0,0.0,0,0,41,57,71.9,0,34,0,1,0,Norwich City,2020-07-01 Arsenal-Norwich City,ENG-EPL,19-20,cb52b4c8
