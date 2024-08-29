@@ -1,0 +1,29 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+4d034881,Sergio Agüero,10,ARG,FW,30-319,90,1,1,0,0,4,2,0,0,45,2,0,0,0.6,0.6,0.1,5,2,20,25,80.0,3,30,3,8,5,Manchester City,2019-04-17 Manchester City-Tottenham,UCL,18-19,5a2a056f
+b400bde0,Raheem Sterling,7,ENG,LW,24-130,90,2,0,0,0,3,3,0,0,46,1,1,0,0.5,0.5,0.1,2,0,29,34,85.3,4,32,1,1,0,Manchester City,2019-04-17 Manchester City-Tottenham,UCL,18-19,5a2a056f
+3eb22ec9,Bernardo Silva,20,POR,RW,24-250,90,1,0,0,0,4,1,0,0,65,5,2,0,0.6,0.6,0.0,6,1,41,51,80.4,8,41,5,4,3,Manchester City,2019-04-17 Manchester City-Tottenham,UCL,18-19,5a2a056f
+e2716bd0,David Silva,21,ESP,LM,33-099,62,0,0,0,0,2,0,0,0,33,1,0,0,0.1,0.1,0.1,2,1,20,28,71.4,3,21,0,0,0,Manchester City,2019-04-17 Manchester City-Tottenham,UCL,18-19,5a2a056f
+101da2b5,Fernandinho,25,BRA,CM,33-348,28,0,0,0,0,0,0,0,0,27,2,0,1,0.0,0.0,0.0,2,0,20,23,87.0,9,17,2,0,0,Manchester City,2019-04-17 Manchester City-Tottenham,UCL,18-19,5a2a056f
+819b3158,İlkay Gündoğan,8,GER,"CM,LM",28-175,90,0,0,0,0,3,0,0,0,76,1,2,1,0.5,0.5,0.1,4,0,61,69,88.4,13,47,2,0,0,Manchester City,2019-04-17 Manchester City-Tottenham,UCL,18-19,5a2a056f
+e46012d4,Kevin De Bruyne,17,BEL,RM,27-293,90,0,3,0,0,3,2,0,0,57,2,0,2,0.2,0.2,0.9,8,4,34,46,73.9,4,31,4,3,3,Manchester City,2019-04-17 Manchester City-Tottenham,UCL,18-19,5a2a056f
+5271c8f1,Benjamin Mendy,22,FRA,LB,24-274,83,0,0,0,0,0,0,0,0,77,2,0,0,0.0,0.0,0.0,1,0,63,71,88.7,8,53,3,0,0,Manchester City,2019-04-17 Manchester City-Tottenham,UCL,18-19,5a2a056f
+2b114be3,Leroy Sané,19,GER,LB,23-096,7,0,0,0,0,0,0,0,0,13,0,0,1,0.0,0.0,0.5,2,0,7,8,87.5,0,7,1,3,1,Manchester City,2019-04-17 Manchester City-Tottenham,UCL,18-19,5a2a056f
+119b9a8e,Aymeric Laporte,14,ESP,CB,24-325,90,0,0,0,0,0,0,0,0,98,2,2,0,0.0,0.0,0.0,0,0,81,90,90.0,16,69,2,0,0,Manchester City,2019-04-17 Manchester City-Tottenham,UCL,18-19,5a2a056f
+d2bff301,Vincent Kompany,4,BEL,CB,33-007,90,0,0,0,0,0,0,0,0,96,2,1,1,0.0,0.0,0.0,2,0,83,88,94.3,3,56,0,0,0,Manchester City,2019-04-17 Manchester City-Tottenham,UCL,18-19,5a2a056f
+86dd77d1,Kyle Walker,2,ENG,RB,28-324,90,0,0,0,0,1,0,0,0,80,1,0,1,0.0,0.0,0.1,3,0,66,74,89.2,14,56,6,1,1,Manchester City,2019-04-17 Manchester City-Tottenham,UCL,18-19,5a2a056f
+3bb7b8b4,Ederson,31,BRA,GK,25-243,90,0,0,0,0,0,0,0,0,35,0,0,0,0.0,0.0,0.0,0,0,26,32,81.3,0,19,0,0,0,Manchester City,2019-04-17 Manchester City-Tottenham,UCL,18-19,5a2a056f
+2b622f01,Lucas Moura,27,BRA,"FW,LW",26-247,81,0,0,0,0,0,0,0,0,20,0,0,0,0.0,0.0,0.0,4,3,13,16,81.3,2,14,2,3,2,Tottenham Hotspur,2019-04-17 Manchester City-Tottenham,UCL,18-19,5a2a056f
+44781702,Ben Davies,33,WAL,LB,25-358,9,0,0,0,0,0,0,0,0,7,1,0,0,0.0,0.0,0.1,1,0,3,4,75.0,1,3,0,0,0,Tottenham Hotspur,2019-04-17 Manchester City-Tottenham,UCL,18-19,5a2a056f
+92e7e919,Son Heung-min,7,KOR,"RW,FW,RM,LW,LM",26-283,90,2,0,0,0,5,3,1,0,40,3,0,1,0.3,0.3,0.1,2,1,18,22,81.8,2,27,2,2,1,Tottenham Hotspur,2019-04-17 Manchester City-Tottenham,UCL,18-19,5a2a056f
+980522ec,Christian Eriksen,23,DEN,"AM,LM,RW,RM",27-062,90,0,1,0,0,4,2,0,0,48,0,0,2,0.1,0.1,0.1,4,1,25,37,67.6,5,34,2,1,1,Tottenham Hotspur,2019-04-17 Manchester City-Tottenham,UCL,18-19,5a2a056f
+cea4ee8f,Dele Alli,20,ENG,"DM,CM,LM,AM",23-006,90,0,0,0,0,0,0,0,0,50,0,2,0,0.0,0.0,0.1,3,0,31,40,77.5,2,28,1,2,0,Tottenham Hotspur,2019-04-17 Manchester City-Tottenham,UCL,18-19,5a2a056f
+2acd49b9,Moussa Sissoko,17,FRA,"RM,DM",29-244,40,0,0,0,0,0,0,1,0,14,0,1,0,0.0,0.0,0.0,0,0,12,12,100.0,2,12,1,1,1,Tottenham Hotspur,2019-04-17 Manchester City-Tottenham,UCL,18-19,5a2a056f
+82dbf623,Fernando Llorente,18,ESP,FW,34-050,50,1,0,0,0,2,2,0,0,21,0,0,0,0.3,0.3,0.0,1,0,6,12,50.0,0,12,0,2,2,Tottenham Hotspur,2019-04-17 Manchester City-Tottenham,UCL,18-19,5a2a056f
+e0900238,Victor Wanyama,12,KEN,"DM,CM",27-296,90,0,0,0,0,0,0,1,0,38,4,2,2,0.0,0.0,0.0,2,0,24,28,85.7,2,20,0,1,1,Tottenham Hotspur,2019-04-17 Manchester City-Tottenham,UCL,18-19,5a2a056f
+89d10e53,Danny Rose,3,ENG,"LB,LW",28-289,89,0,0,0,0,0,0,1,0,44,0,2,1,0.0,0.0,0.0,0,0,29,38,76.3,2,28,4,2,1,Tottenham Hotspur,2019-04-17 Manchester City-Tottenham,UCL,18-19,5a2a056f
+da7b447d,Davinson Sánchez,6,COL,CB,22-309,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Tottenham Hotspur,2019-04-17 Manchester City-Tottenham,UCL,18-19,5a2a056f
+ba23a904,Jan Vertonghen,5,BEL,CB,31-358,90,0,0,0,0,0,0,0,0,46,5,1,0,0.0,0.0,0.0,1,0,30,37,81.1,0,26,0,0,0,Tottenham Hotspur,2019-04-17 Manchester City-Tottenham,UCL,18-19,5a2a056f
+f7d50789,Toby Alderweireld,4,BEL,CB,30-046,90,0,0,0,0,0,0,0,0,40,1,0,2,0.0,0.0,0.0,0,0,21,28,75.0,2,18,0,0,0,Tottenham Hotspur,2019-04-17 Manchester City-Tottenham,UCL,18-19,5a2a056f
+21512407,Kieran Trippier,2,ENG,RB,28-210,90,0,1,0,0,0,0,0,0,46,3,1,2,0.0,0.0,0.3,1,0,23,35,65.7,4,19,0,0,0,Tottenham Hotspur,2019-04-17 Manchester City-Tottenham,UCL,18-19,5a2a056f
+8f62b6ee,Hugo Lloris,1,FRA,GK,32-112,90,0,0,0,0,0,0,0,0,34,0,0,0,0.0,0.0,0.0,0,0,20,32,62.5,0,14,0,0,0,Tottenham Hotspur,2019-04-17 Manchester City-Tottenham,UCL,18-19,5a2a056f

@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+a45eac1f,Haris Seferović,14,SUI,FW,26-293,90,0,0,0,0,5,2,0,0,33,0,0,0,0.6,0.6,0.4,3,0,13,25,52.0,1,17,1,2,2,Benfica,2018-12-12 Benfica-AEK Athens,UCL,18-19,376f382b
+8aafd64f,João Félix,79,POR,"LW,LM",19-032,76,0,0,0,0,1,1,0,0,43,2,0,1,0.1,0.1,0.1,1,0,22,30,73.3,3,26,2,3,0,Benfica,2018-12-12 Benfica-AEK Athens,UCL,18-19,376f382b
+58a160e1,Nicolás Castillo,30,CHI,RW,25-301,14,0,0,0,0,1,0,0,0,5,0,0,0,0.1,0.1,0.0,1,0,1,2,50.0,0,3,0,0,0,Benfica,2018-12-12 Benfica-AEK Athens,UCL,18-19,376f382b
+70cf63ca,Rafa Silva,27,POR,RW,25-209,34,0,0,0,0,0,0,0,0,12,0,1,0,0.0,0.0,0.0,2,0,10,12,83.3,3,7,5,0,0,Benfica,2018-12-12 Benfica-AEK Athens,UCL,18-19,376f382b
+321f83a2,Andrija Živković,17,SRB,"RW,LM",22-154,56,0,0,0,0,2,1,0,0,37,0,1,2,0.1,0.1,0.4,4,0,25,33,75.8,2,18,3,2,2,Benfica,2018-12-12 Benfica-AEK Athens,UCL,18-19,376f382b
+96094cbc,Pizzi,21,POR,LM,29-067,58,0,0,0,0,0,0,0,0,66,0,0,0,0.0,0.0,0.3,4,0,50,65,76.9,8,39,2,3,2,Benfica,2018-12-12 Benfica-AEK Athens,UCL,18-19,376f382b
+5e1028e5,Franco Cervi,11,ARG,LW,24-200,32,0,0,0,0,1,0,0,0,27,2,0,3,0.1,0.1,0.1,2,0,19,21,90.5,3,10,0,1,1,Benfica,2018-12-12 Benfica-AEK Athens,UCL,18-19,376f382b
+07750704,Alfa Semedo,16,GNB,CM,21-104,90,0,0,0,0,2,0,0,0,71,2,4,3,0.1,0.1,0.0,0,0,48,56,85.7,4,34,1,3,3,Benfica,2018-12-12 Benfica-AEK Athens,UCL,18-19,376f382b
+e2dde94c,Gedson Fernandes,83,POR,RM,19-337,90,0,0,0,0,3,1,0,0,49,2,0,2,0.4,0.4,0.0,5,2,26,34,76.5,2,23,1,3,2,Benfica,2018-12-12 Benfica-AEK Athens,UCL,18-19,376f382b
+b1f4086c,Álex Grimaldo,3,ESP,LB,23-083,90,1,0,0,0,5,3,0,0,106,5,1,1,0.3,0.3,0.0,8,0,79,92,85.9,14,54,5,4,3,Benfica,2018-12-12 Benfica-AEK Athens,UCL,18-19,376f382b
+ce9e8024,Jardel,33,BRA,CB,32-258,90,0,0,0,0,2,0,0,0,65,2,1,0,0.1,0.1,0.0,1,0,56,59,94.9,5,41,0,0,0,Benfica,2018-12-12 Benfica-AEK Athens,UCL,18-19,376f382b
+31c69ef1,Rúben Dias,6,POR,CB,21-212,90,0,0,0,0,1,0,1,0,76,2,1,1,0.1,0.1,0.0,1,0,62,67,92.5,6,43,1,0,0,Benfica,2018-12-12 Benfica-AEK Athens,UCL,18-19,376f382b
+67b3d74b,André Almeida,34,POR,RB,28-093,90,0,0,0,0,0,0,0,0,80,2,2,3,0.0,0.0,0.0,3,0,51,64,79.7,10,38,4,2,0,Benfica,2018-12-12 Benfica-AEK Athens,UCL,18-19,376f382b
+03df04ff,Odisseas Vlachodimos,99,GRE,GK,24-230,90,0,0,0,0,0,0,0,0,19,0,0,0,0.0,0.0,0.0,0,0,17,18,94.4,0,8,0,0,0,Benfica,2018-12-12 Benfica-AEK Athens,UCL,18-19,376f382b
+ccbbe661,Ezequiel Ponce,22,ARG,FW,21-258,90,0,0,0,0,1,0,0,0,37,0,1,0,0.1,0.1,0.1,2,0,21,25,84.0,1,24,2,2,1,AEK Athens,2018-12-12 Benfica-AEK Athens,UCL,18-19,376f382b
+d49f3e6b,Lucas Boyé,31,ARG,LW,22-287,67,0,0,0,0,0,0,0,0,21,2,0,0,0.0,0.0,0.0,1,0,6,14,42.9,0,13,2,2,1,AEK Athens,2018-12-12 Benfica-AEK Athens,UCL,18-19,376f382b
+88a9ea33,Petros Mantalos,20,GRE,"LW,CM,LM",27-103,23,0,0,0,0,1,0,0,0,22,1,0,2,0.1,0.1,0.0,2,0,13,15,86.7,2,14,1,2,2,AEK Athens,2018-12-12 Benfica-AEK Athens,UCL,18-19,376f382b
+dab0da1c,Viktor Klonaridis,17,BEL,RW,26-137,60,0,0,0,0,1,0,0,0,23,1,1,0,0.0,0.0,0.0,0,0,10,14,71.4,1,17,1,5,1,AEK Athens,2018-12-12 Benfica-AEK Athens,UCL,18-19,376f382b
+fe2d2289,Giannis Gianniotas,11,GRE,"RW,LM,LW",25-227,30,0,0,0,0,0,0,0,0,18,0,0,0,0.0,0.0,0.1,2,0,6,13,46.2,1,8,2,2,2,AEK Athens,2018-12-12 Benfica-AEK Athens,UCL,18-19,376f382b
+6941883f,Erik Morán,39,ESP,LM,27-201,76,0,0,0,0,1,0,0,0,40,2,1,0,0.1,0.1,0.1,2,0,19,30,63.3,2,14,0,0,0,AEK Athens,2018-12-12 Benfica-AEK Athens,UCL,18-19,376f382b
+b4825073,Rodrigo Galo Brito,12,BRA,"LM,RM,RW",32-084,14,0,0,0,0,0,0,0,0,7,2,0,0,0.0,0.0,0.0,0,0,5,6,83.3,0,4,0,0,0,AEK Athens,2018-12-12 Benfica-AEK Athens,UCL,18-19,376f382b
+69960ac3,Uroš Ćosić,15,SRB,CM,26-049,90,0,0,0,0,1,0,0,0,55,0,1,0,0.1,0.1,0.0,1,0,36,46,78.3,5,42,1,1,0,AEK Athens,2018-12-12 Benfica-AEK Athens,UCL,18-19,376f382b
+a8327abd,Konstantinos Galanopoulos,25,GRE,RM,20-349,86,0,0,0,0,1,0,2,1,24,2,2,0,0.0,0.0,0.0,0,0,14,17,82.4,1,13,1,1,1,AEK Athens,2018-12-12 Benfica-AEK Athens,UCL,18-19,376f382b
+497228f9,Niklas Hult,23,SWE,LB,28-302,90,0,0,0,0,0,0,1,0,65,1,3,0,0.0,0.0,0.1,1,0,46,59,78.0,1,38,1,0,0,AEK Athens,2018-12-12 Benfica-AEK Athens,UCL,18-19,376f382b
+b20f5a66,Dmytro Chygrynskiy,19,UKR,CB,32-035,90,0,0,0,0,0,0,0,0,53,1,5,2,0.0,0.0,0.0,0,0,40,41,97.6,4,29,0,0,0,AEK Athens,2018-12-12 Benfica-AEK Athens,UCL,18-19,376f382b
+3b9858f5,Marios Oikonomou,4,GRE,CB,26-067,90,0,0,0,0,0,0,0,0,44,2,3,0,0.0,0.0,0.0,1,0,32,35,91.4,2,29,0,0,0,AEK Athens,2018-12-12 Benfica-AEK Athens,UCL,18-19,376f382b
+50ccf47d,Michalis Bakakis,2,GRE,RB,27-269,90,0,0,0,0,0,0,0,0,69,4,3,0,0.0,0.0,0.0,0,0,32,49,65.3,6,26,3,4,2,AEK Athens,2018-12-12 Benfica-AEK Athens,UCL,18-19,376f382b
+c2e41cfb,Vasilios Barkas,1,GRE,GK,24-196,90,0,0,0,0,0,0,0,0,40,0,0,0,0.0,0.0,0.0,0,0,20,38,52.6,0,18,0,0,0,AEK Athens,2018-12-12 Benfica-AEK Athens,UCL,18-19,376f382b

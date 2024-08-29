@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+dea698d9,Cristiano Ronaldo,7,POR,FW,34-070,90,1,0,0,0,6,1,1,0,47,1,2,0,0.5,0.5,0.1,5,0,24,35,68.6,2,29,3,3,2,Juventus,2019-04-16 Juventus-Ajax,UCL,18-19,07c5bd3b
+e0921a4f,Paulo Dybala,10,ARG,FW,25-152,45,0,0,0,0,1,1,0,0,24,2,0,1,0.0,0.0,0.0,1,0,11,12,91.7,0,12,1,2,1,Juventus,2019-04-16 Juventus-Ajax,UCL,18-19,07c5bd3b
+3d50bcdb,Moise Kean,18,ITA,FW,19-047,45,0,0,0,0,2,0,0,0,8,0,0,0,0.1,0.1,0.0,0,0,4,5,80.0,0,9,1,2,2,Juventus,2019-04-16 Juventus-Ajax,UCL,18-19,07c5bd3b
+c0cddebe,Blaise Matuidi,14,FRA,LM,32-007,90,0,0,0,0,0,0,0,0,49,2,1,3,0.0,0.0,0.0,2,0,21,34,61.8,0,21,3,2,1,Juventus,2019-04-16 Juventus-Ajax,UCL,18-19,07c5bd3b
+ad6df2d5,Miralem Pjanić,5,BIH,CM,29-014,90,0,1,0,0,1,1,0,0,73,1,3,1,0.0,0.0,0.5,8,1,51,63,81.0,8,27,2,1,1,Juventus,2019-04-16 Juventus-Ajax,UCL,18-19,07c5bd3b
+a65ce836,Emre Can,23,GER,"AM,CM",25-094,90,0,0,0,0,1,0,1,0,49,2,2,2,0.1,0.1,0.0,2,0,31,37,83.8,5,25,4,3,3,Juventus,2019-04-16 Juventus-Ajax,UCL,18-19,07c5bd3b
+ee93c1a9,Federico Bernardeschi,33,ITA,RM,25-059,79,0,0,0,0,1,0,0,0,32,0,1,2,0.0,0.0,0.0,1,1,13,20,65.0,2,16,1,4,2,Juventus,2019-04-16 Juventus-Ajax,UCL,18-19,07c5bd3b
+3b8674e6,Rodrigo Bentancur,30,URU,RM,21-295,11,0,0,0,0,0,0,0,0,14,0,1,1,0.0,0.0,0.0,0,0,5,11,45.5,0,5,1,1,1,Juventus,2019-04-16 Juventus-Ajax,UCL,18-19,07c5bd3b
+0d82903c,Alex Sandro,12,BRA,LB,28-080,90,0,0,0,0,0,0,0,0,81,6,4,2,0.0,0.0,0.0,2,0,54,68,79.4,6,34,2,1,1,Juventus,2019-04-16 Juventus-Ajax,UCL,18-19,07c5bd3b
+14b8fcdf,Daniele Rugani,24,ITA,CB,24-261,90,0,0,0,0,0,0,0,0,42,0,2,1,0.0,0.0,0.0,0,0,29,36,80.6,2,16,0,1,1,Juventus,2019-04-16 Juventus-Ajax,UCL,18-19,07c5bd3b
+52ec54d0,Leonardo Bonucci,19,ITA,CB,31-350,90,0,0,0,0,0,0,0,0,59,2,2,1,0.0,0.0,0.0,0,0,39,52,75.0,3,23,0,0,0,Juventus,2019-04-16 Juventus-Ajax,UCL,18-19,07c5bd3b
+ae4e2852,Mattia De Sciglio,2,ITA,RB,26-178,63,0,0,0,0,1,0,0,0,39,2,2,0,0.0,0.0,0.0,1,0,29,33,87.9,6,10,2,2,1,Juventus,2019-04-16 Juventus-Ajax,UCL,18-19,07c5bd3b
+bd6351cd,João Cancelo,20,POR,RB,24-324,27,0,0,0,0,0,0,0,0,28,0,0,1,0.0,0.0,0.1,1,0,13,24,54.2,2,14,3,0,0,Juventus,2019-04-16 Juventus-Ajax,UCL,18-19,07c5bd3b
+01b8a2b2,Wojciech Szczęsny,1,POL,GK,28-363,90,0,0,0,0,0,0,0,0,34,0,0,0,0.0,0.0,0.0,0,0,20,34,58.8,0,13,0,0,0,Juventus,2019-04-16 Juventus-Ajax,UCL,18-19,07c5bd3b
+2475dcc6,Dušan Tadić,10,SRB,FW,30-147,90,0,0,0,0,0,0,0,0,42,2,0,2,0.0,0.0,0.1,3,0,22,29,75.9,5,19,2,1,0,Ajax,2019-04-16 Juventus-Ajax,UCL,18-19,07c5bd3b
+4f1e6a0b,David Neres,7,BRA,"LW,RW",22-044,90,0,0,0,0,2,0,0,0,47,0,1,2,0.7,0.7,0.0,4,0,21,28,75.0,2,26,5,6,1,Ajax,2019-04-16 Juventus-Ajax,UCL,18-19,07c5bd3b
+6622454d,Hakim Ziyech,22,MAR,"RW,LW",26-028,87,0,1,0,0,3,1,0,0,60,4,0,2,0.4,0.4,1.0,5,1,33,47,70.2,4,32,4,3,1,Ajax,2019-04-16 Juventus-Ajax,UCL,18-19,07c5bd3b
+5042e5c2,Klaas-Jan Huntelaar,9,NED,LW,35-247,3,0,0,0,0,0,0,0,0,2,0,1,0,0.0,0.0,0.0,0,0,0,1,0.0,0,1,0,0,0,Ajax,2019-04-16 Juventus-Ajax,UCL,18-19,07c5bd3b
+50dc94ce,Donny van de Beek,6,NED,AM,21-363,90,1,0,0,0,4,2,0,0,45,3,1,2,0.9,0.9,0.3,4,1,21,29,72.4,3,18,2,4,1,Ajax,2019-04-16 Juventus-Ajax,UCL,18-19,07c5bd3b
+1bacc518,Frenkie de Jong,21,NED,DM,21-339,90,0,0,0,0,0,0,0,0,64,1,1,0,0.0,0.0,0.0,1,0,49,57,86.0,8,36,0,1,1,Ajax,2019-04-16 Juventus-Ajax,UCL,18-19,07c5bd3b
+c3a8bcd8,Lasse Schöne,20,DEN,DM,32-324,90,0,1,0,0,2,0,0,0,56,0,2,0,0.1,0.1,0.1,5,1,44,49,89.8,5,25,1,1,0,Ajax,2019-04-16 Juventus-Ajax,UCL,18-19,07c5bd3b
+b74277a0,Noussair Mazraoui,12,MAR,LB,21-153,10,0,0,0,0,0,0,0,0,3,1,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,0,0,Ajax,2019-04-16 Juventus-Ajax,UCL,18-19,07c5bd3b
+73000a79,Daley Sinkgraven,8,NED,LB,23-286,71,0,0,0,0,0,0,0,0,45,1,0,1,0.0,0.0,0.0,0,0,25,37,67.6,0,20,0,1,1,Ajax,2019-04-16 Juventus-Ajax,UCL,18-19,07c5bd3b
+01a49bd2,Lisandro Magallán,16,ARG,CB,25-201,9,0,0,0,0,0,0,0,0,1,1,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Ajax,2019-04-16 Juventus-Ajax,UCL,18-19,07c5bd3b
+691bef82,Daley Blind,17,NED,"CB,LB",29-038,90,0,0,0,0,1,0,0,0,61,2,0,3,0.0,0.0,0.0,0,0,32,48,66.7,5,22,1,0,0,Ajax,2019-04-16 Juventus-Ajax,UCL,18-19,07c5bd3b
+d6e53a3a,Matthijs de Ligt,4,NED,CB,19-247,90,1,0,0,0,2,1,0,0,51,1,1,1,0.1,0.1,0.0,0,0,23,35,65.7,1,18,0,0,0,Ajax,2019-04-16 Juventus-Ajax,UCL,18-19,07c5bd3b
+dad4b285,Joël Veltman,3,NED,RB,27-091,90,0,0,0,0,0,0,0,0,71,5,2,1,0.0,0.0,0.0,1,0,39,56,69.6,3,20,1,3,1,Ajax,2019-04-16 Juventus-Ajax,UCL,18-19,07c5bd3b
+e9c0c1b2,André Onana,24,CMR,GK,23-014,90,0,0,0,0,0,0,0,0,31,0,0,0,0.0,0.0,0.0,0,0,14,31,45.2,0,13,0,0,0,Ajax,2019-04-16 Juventus-Ajax,UCL,18-19,07c5bd3b

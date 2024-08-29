@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+16ceb862,Olivier Giroud,9,FRA,FW,37-134,79,0,0,0,0,1,1,0,0,28,1,0,0,0.3,0.3,0.0,3,1,12,17,70.6,0,14,0,0,0,Milan,2024-02-11 Milan-Napoli,ITA-SERIA_A,23-24,07524327
+4d8cd038,Luka Jović,15,SRB,FW,26-050,11,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,1,4,25.0,1,3,0,0,0,Milan,2024-02-11 Milan-Napoli,ITA-SERIA_A,23-24,07524327
+20730eae,Rafael Leão,10,POR,"LW,FW",24-246,90,0,1,0,0,3,1,0,0,43,2,0,0,0.1,0.1,0.3,1,1,25,34,73.5,8,31,5,4,2,Milan,2024-02-11 Milan-Napoli,ITA-SERIA_A,23-24,07524327
+1bf33a9a,Christian Pulisic,11,USA,RW,25-146,80,0,0,0,0,1,0,0,0,31,1,1,0,0.0,0.0,0.0,1,0,17,23,73.9,1,19,2,2,0,Milan,2024-02-11 Milan-Napoli,ITA-SERIA_A,23-24,07524327
+faa13947,Alejandro Jiménez,74,ESP,LB,18-279,10,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,4,4,100.0,0,1,0,0,0,Milan,2024-02-11 Milan-Napoli,ITA-SERIA_A,23-24,07524327
+e97fd090,Ruben Loftus-Cheek,8,ENG,"AM,CM",28-019,90,0,0,0,0,0,0,0,0,43,1,1,2,0.0,0.0,0.0,2,0,24,33,72.7,2,20,3,2,1,Milan,2024-02-11 Milan-Napoli,ITA-SERIA_A,23-24,07524327
+db092d3b,Ismaël Bennacer,4,ALG,DM,26-072,64,0,0,0,0,1,0,0,0,62,3,2,0,0.1,0.1,0.0,2,0,42,50,84.0,2,33,2,3,2,Milan,2024-02-11 Milan-Napoli,ITA-SERIA_A,23-24,07524327
+b51b1b9c,Yunus Musah,80,USA,"CM,DM",21-074,26,0,0,0,0,0,0,0,0,7,0,0,1,0.0,0.0,0.1,1,0,5,5,100.0,2,4,0,0,0,Milan,2024-02-11 Milan-Napoli,ITA-SERIA_A,23-24,07524327
+26777636,Yacine Adli,7,FRA,"DM,CM",23-197,90,0,0,0,0,0,0,0,0,71,1,1,3,0.0,0.0,0.1,3,0,47,56,83.9,5,33,1,1,0,Milan,2024-02-11 Milan-Napoli,ITA-SERIA_A,23-24,07524327
+d4c9725f,Theo Hernández,19,FRA,"LB,CB",26-128,90,1,0,0,0,2,2,1,0,66,4,1,0,0.4,0.4,0.0,2,0,45,57,78.9,3,37,2,2,0,Milan,2024-02-11 Milan-Napoli,ITA-SERIA_A,23-24,07524327
+c235e803,Matteo Gabbia,46,ITA,CB,24-113,90,0,0,0,0,1,1,0,0,42,3,0,1,0.0,0.0,0.0,1,0,28,32,87.5,0,17,0,0,0,Milan,2024-02-11 Milan-Napoli,ITA-SERIA_A,23-24,07524327
+8b8a56ce,Simon Kjær,24,DEN,CB,34-322,65,0,0,0,0,0,0,0,0,42,2,0,1,0.0,0.0,0.0,0,0,30,35,85.7,2,19,0,0,0,Milan,2024-02-11 Milan-Napoli,ITA-SERIA_A,23-24,07524327
+c9fc39ce,Jan-Carlo Simic,82,SRB,CB,18-285,25,0,0,0,0,0,0,0,0,7,0,0,1,0.0,0.0,0.0,0,0,4,5,80.0,0,3,0,0,0,Milan,2024-02-11 Milan-Napoli,ITA-SERIA_A,23-24,07524327
+2146785a,Davide Calabria,2,ITA,RB,27-067,36,0,0,0,0,0,0,0,0,24,1,0,0,0.0,0.0,0.0,0,0,18,21,85.7,1,13,2,1,0,Milan,2024-02-11 Milan-Napoli,ITA-SERIA_A,23-24,07524327
+e288d4b3,Alessandro Florenzi,42,ITA,RB,32-337,54,0,0,0,0,1,1,0,0,26,2,1,0,0.0,0.0,0.0,2,0,14,19,73.7,3,5,0,0,0,Milan,2024-02-11 Milan-Napoli,ITA-SERIA_A,23-24,07524327
+fcb38f57,Mike Maignan,16,FRA,GK,28-223,90,0,0,0,0,0,0,0,0,38,0,0,0,0.0,0.0,0.0,0,0,20,37,54.1,0,23,0,0,0,Milan,2024-02-11 Milan-Napoli,ITA-SERIA_A,23-24,07524327
+343c0d52,Giovanni Simeone,18,ARG,FW,28-221,54,0,0,0,0,2,0,0,0,23,2,1,0,0.3,0.3,0.0,1,0,8,12,66.7,1,14,0,2,1,Napoli,2024-02-11 Milan-Napoli,ITA-SERIA_A,23-24,07524327
+6e058f06,Giacomo Raspadori,81,ITA,FW,23-358,36,0,0,0,0,0,0,0,0,15,1,0,0,0.0,0.0,0.0,1,0,10,14,71.4,2,11,0,0,0,Napoli,2024-02-11 Milan-Napoli,ITA-SERIA_A,23-24,07524327
+dea88efd,Khvicha Kvaratskhelia,77,GEO,FW,22-364,90,0,0,0,0,1,1,0,0,47,4,0,1,0.0,0.0,0.3,3,0,33,37,89.2,1,38,8,6,3,Napoli,2024-02-11 Milan-Napoli,ITA-SERIA_A,23-24,07524327
+a5296e55,Piotr Zieliński,20,POL,DM,29-267,75,0,0,0,0,0,0,0,0,52,1,0,2,0.0,0.0,0.0,1,0,43,47,91.5,3,32,0,0,0,Napoli,2024-02-11 Milan-Napoli,ITA-SERIA_A,23-24,07524327
+37dc1a48,Jesper Lindstrøm,29,DEN,DM,23-347,15,0,0,0,0,1,0,0,0,12,0,0,0,0.0,0.0,0.0,3,0,6,9,66.7,1,9,2,1,1,Napoli,2024-02-11 Milan-Napoli,ITA-SERIA_A,23-24,07524327
+e1cbb531,Stanislav Lobotka,68,SVK,DM,29-078,90,0,0,0,0,0,0,0,0,77,2,0,0,0.0,0.0,0.1,3,0,68,71,95.8,6,49,1,0,0,Napoli,2024-02-11 Milan-Napoli,ITA-SERIA_A,23-24,07524327
+6bb2c084,Andre-Frank Zambo Anguissa,99,CMR,DM,28-087,90,0,0,0,0,1,0,0,0,77,2,1,4,0.0,0.0,0.0,2,0,54,65,83.1,9,48,2,1,0,Napoli,2024-02-11 Milan-Napoli,ITA-SERIA_A,23-24,07524327
+eb0ec070,Pasquale Mazzocchi,30,ITA,WB,28-199,75,0,0,0,0,1,0,0,0,62,1,0,0,0.0,0.0,0.0,0,0,38,52,73.1,3,40,4,7,2,Napoli,2024-02-11 Milan-Napoli,ITA-SERIA_A,23-24,07524327
+41c12f75,Mathías Olivera,17,URU,WB,26-103,15,0,0,0,0,0,0,0,0,14,1,0,0,0.0,0.0,0.0,2,0,11,11,100.0,2,8,0,0,0,Napoli,2024-02-11 Milan-Napoli,ITA-SERIA_A,23-24,07524327
+230a2fac,Giovanni Di Lorenzo,22,ITA,WB,30-191,90,0,0,0,0,1,1,0,0,79,0,1,0,0.1,0.1,0.0,3,0,62,74,83.8,5,51,3,2,0,Napoli,2024-02-11 Milan-Napoli,ITA-SERIA_A,23-24,07524327
+79083382,Juan Jesus,5,BRA,CB,32-246,88,0,0,0,0,0,0,1,0,68,1,0,0,0.0,0.0,0.0,0,0,56,63,88.9,3,44,0,0,0,Napoli,2024-02-11 Milan-Napoli,ITA-SERIA_A,23-24,07524327
+2b8360f1,Cyril Ngonge,26,BEL,CB,23-261,2,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,3,0,1,0,Napoli,2024-02-11 Milan-Napoli,ITA-SERIA_A,23-24,07524327
+4b3e1a38,Amir Rrahmani,13,KVX,CB,29-352,90,0,0,0,0,1,0,0,0,80,1,2,1,0.0,0.0,0.0,1,0,67,71,94.4,4,52,0,1,0,Napoli,2024-02-11 Milan-Napoli,ITA-SERIA_A,23-24,07524327
+b35a7399,Leo Skiri Østigård,55,NOR,CB,24-075,45,0,0,0,0,0,0,0,0,30,0,2,0,0.0,0.0,0.0,0,0,22,27,81.5,0,16,0,0,0,Napoli,2024-02-11 Milan-Napoli,ITA-SERIA_A,23-24,07524327
+5e861944,Matteo Politano,21,ITA,CB,30-192,45,0,0,0,0,4,0,0,0,39,1,0,0,0.2,0.2,0.0,1,0,23,30,76.7,6,28,5,1,0,Napoli,2024-02-11 Milan-Napoli,ITA-SERIA_A,23-24,07524327
+f0f7f62f,Pierluigi Gollini,95,ITA,GK,28-330,90,0,0,0,0,0,0,0,0,36,0,0,0,0.0,0.0,0.0,0,0,29,33,87.9,0,18,0,0,0,Napoli,2024-02-11 Milan-Napoli,ITA-SERIA_A,23-24,07524327

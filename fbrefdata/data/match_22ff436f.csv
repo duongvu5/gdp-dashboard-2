@@ -1,0 +1,29 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+dea698d9,Cristiano Ronaldo,7,POR,FW,33-019,90,2,0,0,0,8,4,0,0,52,0,1,0,0.7,0.7,0.1,6,1,33,40,82.5,7,37,7,2,1,Real Madrid,2018-02-24 Real Madrid-Alavés,ESP-LALIGA,17-18,22ff436f
+70d74ece,Karim Benzema,9,FRA,FW,30-067,90,1,2,1,1,3,0,0,0,58,1,0,4,1.2,0.5,0.7,11,3,42,46,91.3,8,37,5,3,3,Real Madrid,2018-02-24 Real Madrid-Alavés,ESP-LALIGA,17-18,22ff436f
+a58bb1e1,Gareth Bale,11,WAL,LM,28-223,90,1,0,0,0,3,1,0,0,72,1,2,0,0.4,0.4,0.2,5,2,43,55,78.2,9,57,5,9,7,Real Madrid,2018-02-24 Real Madrid-Alavés,ESP-LALIGA,17-18,22ff436f
+79c0821a,Mateo Kovačić,23,CRO,CM,23-294,72,0,0,0,0,2,0,0,0,72,3,0,1,0.1,0.1,0.1,3,0,56,61,91.8,13,52,3,5,5,Real Madrid,2018-02-24 Real Madrid-Alavés,ESP-LALIGA,17-18,22ff436f
+c0617e2b,Dani Ceballos,24,ESP,CM,21-201,18,0,0,0,0,0,0,0,0,25,0,0,0,0.0,0.0,0.0,1,0,24,24,100.0,4,18,1,1,1,Real Madrid,2018-02-24 Real Madrid-Alavés,ESP-LALIGA,17-18,22ff436f
+4d224fe8,Casemiro,14,BRA,CM,26-001,79,0,0,0,0,2,0,0,0,69,2,5,2,0.0,0.0,0.0,2,0,48,57,84.2,4,45,1,1,0,Real Madrid,2018-02-24 Real Madrid-Alavés,ESP-LALIGA,17-18,22ff436f
+02c15616,Marcos Llorente,18,ESP,CM,23-025,11,0,0,0,0,0,0,1,0,11,0,0,0,0.0,0.0,0.0,0,0,10,11,90.9,1,9,0,0,0,Real Madrid,2018-02-24 Real Madrid-Alavés,ESP-LALIGA,17-18,22ff436f
+fd51b456,Lucas Vázquez,17,ESP,RM,26-238,90,0,1,0,0,3,2,0,0,67,1,0,0,0.1,0.1,0.5,5,1,44,62,71.0,5,40,3,3,2,Real Madrid,2018-02-24 Real Madrid-Alavés,ESP-LALIGA,17-18,22ff436f
+d4c9725f,Theo Hernández,15,FRA,LB,20-141,90,0,0,0,0,2,2,0,0,66,3,0,0,0.2,0.2,0.4,11,0,51,56,91.1,5,38,3,7,5,Real Madrid,2018-02-24 Real Madrid-Alavés,ESP-LALIGA,17-18,22ff436f
+2946f9a1,Nacho,6,ESP,CB,28-037,90,0,0,0,0,0,0,0,0,62,2,4,0,0.0,0.0,0.0,0,0,51,57,89.5,3,29,0,0,0,Real Madrid,2018-02-24 Real Madrid-Alavés,ESP-LALIGA,17-18,22ff436f
+9f8e9423,Raphaël Varane,5,FRA,CB,24-305,90,0,0,0,0,0,0,0,0,73,2,1,0,0.0,0.0,0.0,0,0,58,64,90.6,5,47,0,2,1,Real Madrid,2018-02-24 Real Madrid-Alavés,ESP-LALIGA,17-18,22ff436f
+4958bfb2,Dani Carvajal,2,ESP,RB,26-044,90,0,0,0,0,0,0,0,0,81,3,2,2,0.0,0.0,0.0,3,1,63,70,90.0,5,48,3,4,4,Real Madrid,2018-02-24 Real Madrid-Alavés,ESP-LALIGA,17-18,22ff436f
+ecada4fc,Keylor Navas,1,CRC,GK,31-071,90,0,0,0,0,0,0,0,0,32,0,0,0,0.0,0.0,0.0,0,0,29,30,96.7,0,12,0,0,0,Real Madrid,2018-02-24 Real Madrid-Alavés,ESP-LALIGA,17-18,22ff436f
+19b776e9,Rubén Sobrino,7,ESP,FW,25-268,90,0,0,0,0,2,1,1,0,45,4,1,4,0.2,0.2,0.0,1,0,26,30,86.7,3,20,0,1,1,Alavés,2018-02-24 Real Madrid-Alavés,ESP-LALIGA,17-18,22ff436f
+99bebd12,John Guidetti,10,SWE,FW,25-315,73,0,0,0,0,3,1,0,0,25,3,0,0,0.1,0.1,0.1,4,0,12,16,75.0,1,13,1,1,1,Alavés,2018-02-24 Real Madrid-Alavés,ESP-LALIGA,17-18,22ff436f
+45e304c8,Burgui,14,ESP,FW,24-118,17,0,0,0,0,0,0,0,0,14,0,0,0,0.0,0.0,0.0,2,0,12,13,92.3,2,9,0,1,1,Alavés,2018-02-24 Real Madrid-Alavés,ESP-LALIGA,17-18,22ff436f
+63f04c6c,Alfonso Pedraza,17,ESP,LM,21-321,61,0,0,0,0,1,1,0,0,26,2,1,0,0.0,0.0,0.0,1,0,9,16,56.3,3,18,2,2,0,Alavés,2018-02-24 Real Madrid-Alavés,ESP-LALIGA,17-18,22ff436f
+9d2a3d5f,Ibai Gómez,11,ESP,LM,28-105,29,0,0,0,0,1,0,0,0,23,0,0,0,0.0,0.0,0.0,2,0,15,19,78.9,1,19,2,1,1,Alavés,2018-02-24 Real Madrid-Alavés,ESP-LALIGA,17-18,22ff436f
+87882adc,Daniel Torres,16,COL,CM,28-101,90,0,0,0,0,0,0,0,0,56,4,2,1,0.0,0.0,0.0,1,0,43,46,93.5,11,30,0,1,1,Alavés,2018-02-24 Real Madrid-Alavés,ESP-LALIGA,17-18,22ff436f
+05a4465d,Manu García,19,ESP,CM,31-304,62,0,0,0,0,0,0,0,0,30,2,1,0,0.0,0.0,0.1,2,0,19,23,82.6,3,22,0,0,0,Alavés,2018-02-24 Real Madrid-Alavés,ESP-LALIGA,17-18,22ff436f
+31223bcf,Álvaro Medrán,23,ESP,CM,23-346,28,0,0,0,0,0,0,0,0,27,1,1,0,0.0,0.0,0.0,0,0,20,22,90.9,2,23,0,2,1,Alavés,2018-02-24 Real Madrid-Alavés,ESP-LALIGA,17-18,22ff436f
+e1cea3f7,Hernán Pérez,21,PAR,RM,28-364,90,0,0,0,0,3,1,1,0,65,5,0,0,0.1,0.1,0.2,4,0,38,54,70.4,5,40,5,1,1,Alavés,2018-02-24 Real Madrid-Alavés,ESP-LALIGA,17-18,22ff436f
+1fe0492d,Rubén Duarte,3,ESP,LB,22-129,90,0,0,0,0,0,0,0,0,50,2,1,2,0.0,0.0,0.0,1,0,34,40,85.0,10,23,3,0,0,Alavés,2018-02-24 Real Madrid-Alavés,ESP-LALIGA,17-18,22ff436f
+fd47b4f2,Rodrigo Ely,12,BRA,CB,24-113,90,0,0,0,0,0,0,0,0,29,2,2,0,0.0,0.0,0.0,0,0,12,18,66.7,0,5,0,0,0,Alavés,2018-02-24 Real Madrid-Alavés,ESP-LALIGA,17-18,22ff436f
+b7c99b9b,Víctor Laguardia,5,ESP,CB,28-111,90,0,0,0,0,0,0,0,0,24,0,1,1,0.0,0.0,0.0,1,0,12,18,66.7,0,8,0,0,0,Alavés,2018-02-24 Real Madrid-Alavés,ESP-LALIGA,17-18,22ff436f
+db0cd1ae,Alexis,4,ESP,RB,32-204,90,0,0,0,0,1,1,0,0,35,2,1,1,0.1,0.1,0.0,0,0,14,23,60.9,0,14,1,0,0,Alavés,2018-02-24 Real Madrid-Alavés,ESP-LALIGA,17-18,22ff436f
+97852360,Fernando Pacheco,1,ESP,GK,25-282,90,0,0,0,0,0,0,0,0,36,0,0,1,0.0,0.0,0.0,0,0,15,30,50.0,0,11,0,0,0,Alavés,2018-02-24 Real Madrid-Alavés,ESP-LALIGA,17-18,22ff436f

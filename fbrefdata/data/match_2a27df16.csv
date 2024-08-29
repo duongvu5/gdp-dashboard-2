@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+148e136f,Rémy Cabella,7,FRA,FW,30-261,84,0,0,0,0,2,1,0,0,51,4,0,0,0.6,0.6,0.0,2,0,34,42,81.0,12,35,6,4,3,Krasnodar,2020-11-24 Krasnodar-Sevilla,UCL,20-21,2a27df16
+9ddb85e8,Daniil Utkin,47,RUS,FW,21-043,6,0,0,0,0,0,0,0,0,4,0,0,1,0.0,0.0,0.0,0,0,2,3,66.7,0,2,0,0,0,Krasnodar,2020-11-24 Krasnodar-Sevilla,UCL,20-21,2a27df16
+b39bf63f,Marcus Berg,33,SWE,FW,34-099,66,0,0,0,0,0,0,0,0,30,1,1,1,0.0,0.0,0.0,1,1,11,19,57.9,1,21,0,1,1,Krasnodar,2020-11-24 Krasnodar-Sevilla,UCL,20-21,2a27df16
+30643ce2,Ari,9,RUS,FW,34-349,24,0,0,0,0,1,0,0,0,17,0,0,0,0.1,0.1,0.1,2,0,7,14,50.0,1,10,1,1,1,Krasnodar,2020-11-24 Krasnodar-Sevilla,UCL,20-21,2a27df16
+b3a712de,Viktor Claesson,16,SWE,LM,28-327,83,0,0,0,0,1,1,0,0,33,1,2,1,0.1,0.1,0.1,2,0,15,23,65.2,3,18,0,1,1,Krasnodar,2020-11-24 Krasnodar-Sevilla,UCL,20-21,2a27df16
+15975a3c,Yevgeni Chernov,18,RUS,LM,28-032,7,0,0,0,0,0,0,0,0,7,0,1,0,0.0,0.0,0.0,0,0,2,4,50.0,0,0,0,0,0,Krasnodar,2020-11-24 Krasnodar-Sevilla,UCL,20-21,2a27df16
+fa73ccc7,Kristoffer Olsson,14,SWE,CM,25-147,66,0,1,0,0,0,0,0,0,41,1,1,2,0.0,0.0,0.1,2,1,28,33,84.8,6,29,1,1,0,Krasnodar,2020-11-24 Krasnodar-Sevilla,UCL,20-21,2a27df16
+c7069d87,Tonny Vilhena,52,NED,CM,25-326,24,0,0,0,0,1,0,0,0,14,1,1,0,0.1,0.1,0.0,0,0,7,9,77.8,0,9,1,1,1,Krasnodar,2020-11-24 Krasnodar-Sevilla,UCL,20-21,2a27df16
+ecb68eea,Yuri Gazinskiy,8,RUS,CM,31-127,90,0,0,0,0,0,0,0,0,52,2,7,1,0.0,0.0,0.1,3,0,34,42,81.0,5,30,0,0,0,Krasnodar,2020-11-24 Krasnodar-Sevilla,UCL,20-21,2a27df16
+d94653be,Magomed-Shapi Suleymanov,93,RUS,RM,20-344,45,0,0,0,0,1,0,1,0,25,2,0,1,0.1,0.1,0.1,2,0,12,18,66.7,1,18,1,1,0,Krasnodar,2020-11-24 Krasnodar-Sevilla,UCL,20-21,2a27df16
+5da33b33,Wanderson,10,BRA,RM,26-048,45,1,0,0,0,1,1,0,0,24,1,0,0,0.1,0.1,0.0,0,0,10,19,52.6,1,11,2,1,1,Krasnodar,2020-11-24 Krasnodar-Sevilla,UCL,20-21,2a27df16
+8a1d7b51,Cristian Ramírez,6,ECU,LB,26-104,90,0,0,0,0,3,0,0,0,69,3,2,1,0.1,0.1,0.0,1,0,41,53,77.4,3,37,1,4,4,Krasnodar,2020-11-24 Krasnodar-Sevilla,UCL,20-21,2a27df16
+a9be27f2,Kaio Pantaleão,31,BRA,CB,25-077,90,0,0,0,0,0,0,0,0,47,0,2,4,0.0,0.0,0.0,0,0,28,37,75.7,1,28,0,0,0,Krasnodar,2020-11-24 Krasnodar-Sevilla,UCL,20-21,2a27df16
+675b0427,Alyaksandr Martynovich,4,BLR,CB,33-090,90,0,0,0,0,1,0,0,0,43,1,3,1,0.1,0.1,0.0,0,0,24,32,75.0,1,27,0,0,0,Krasnodar,2020-11-24 Krasnodar-Sevilla,UCL,20-21,2a27df16
+76d5857d,Igor Smolnikov,28,RUS,RB,32-108,90,0,0,0,0,0,0,0,0,58,3,2,2,0.0,0.0,0.1,4,0,35,45,77.8,6,28,4,0,0,Krasnodar,2020-11-24 Krasnodar-Sevilla,UCL,20-21,2a27df16
+8b3d765f,Yevgeni Gorodov,1,RUS,GK,34-347,90,0,0,0,0,0,0,0,0,37,0,0,0,0.0,0.0,0.0,0,0,21,35,60.0,0,16,0,0,0,Krasnodar,2020-11-24 Krasnodar-Sevilla,UCL,20-21,2a27df16
+abb3bb95,Luuk de Jong,9,NED,FW,30-089,71,0,0,0,0,2,0,0,0,29,0,0,1,0.5,0.5,0.0,1,0,15,22,68.2,0,13,1,1,1,Sevilla,2020-11-24 Krasnodar-Sevilla,UCL,20-21,2a27df16
+04e17fd5,Youssef En-Nesyri,15,MAR,FW,23-176,19,0,0,0,0,1,1,0,0,9,0,0,0,0.0,0.0,0.1,3,0,4,5,80.0,1,8,3,0,0,Sevilla,2020-11-24 Krasnodar-Sevilla,UCL,20-21,2a27df16
+8696bc90,Munir El Haddadi,11,MAR,FW,25-084,90,1,0,0,0,9,2,0,0,57,3,0,0,0.5,0.5,0.1,5,1,41,43,95.3,3,36,6,2,2,Sevilla,2020-11-24 Krasnodar-Sevilla,UCL,20-21,2a27df16
+89f951b5,Ivan Rakitić,10,CRO,CM,32-259,60,1,0,0,0,1,1,0,0,57,1,0,1,0.0,0.0,0.1,3,0,42,50,84.0,5,33,1,3,2,Sevilla,2020-11-24 Krasnodar-Sevilla,UCL,20-21,2a27df16
+58a9a4d9,Óliver Torres,21,ESP,CM,26-014,30,0,0,0,0,1,1,0,0,40,0,1,0,0.0,0.0,0.3,7,0,31,36,86.1,6,25,5,1,0,Sevilla,2020-11-24 Krasnodar-Sevilla,UCL,20-21,2a27df16
+41f32541,Fernando,25,BRA,CM,33-122,90,0,0,0,0,1,0,0,0,78,0,3,2,0.0,0.0,0.0,1,0,56,66,84.8,3,25,3,3,1,Sevilla,2020-11-24 Krasnodar-Sevilla,UCL,20-21,2a27df16
+19709006,Óscar Rodríguez Arnaiz,14,ESP,CM,22-149,52,0,0,0,0,1,0,0,0,35,1,0,3,0.0,0.0,0.1,1,0,21,27,77.8,1,15,1,0,0,Sevilla,2020-11-24 Krasnodar-Sevilla,UCL,20-21,2a27df16
+2a0c8ba4,Joan Jordán,8,ESP,CM,26-141,38,0,0,0,0,1,0,1,0,42,0,2,1,0.0,0.0,0.2,6,0,34,37,91.9,3,21,0,2,1,Sevilla,2020-11-24 Krasnodar-Sevilla,UCL,20-21,2a27df16
+b0616e3d,Sergio Escudero,18,ESP,LB,31-083,60,0,0,0,0,0,0,0,0,42,1,2,0,0.0,0.0,0.0,1,0,33,38,86.8,1,24,1,0,0,Sevilla,2020-11-24 Krasnodar-Sevilla,UCL,20-21,2a27df16
+3376a776,Karim Rekik,4,NED,LB,25-358,30,0,0,0,0,0,0,0,0,31,1,1,0,0.0,0.0,0.0,1,0,15,24,62.5,1,10,0,0,0,Sevilla,2020-11-24 Krasnodar-Sevilla,UCL,20-21,2a27df16
+b4a014b1,Diego Carlos,20,BRA,CB,27-254,90,0,0,0,0,2,0,0,0,88,0,1,2,0.1,0.1,0.0,1,0,63,72,87.5,3,51,0,0,0,Sevilla,2020-11-24 Krasnodar-Sevilla,UCL,20-21,2a27df16
+0076ab7f,Nemanja Gudelj,6,SRB,CB,29-008,90,0,0,0,0,0,0,0,0,78,0,1,4,0.0,0.0,0.0,2,0,63,69,91.3,2,45,0,1,1,Sevilla,2020-11-24 Krasnodar-Sevilla,UCL,20-21,2a27df16
+4d1666ff,Jules Koundé,12,FRA,CB,22-012,90,0,0,0,0,2,2,0,0,67,1,0,2,0.1,0.1,0.0,3,0,45,55,81.8,4,33,2,1,0,Sevilla,2020-11-24 Krasnodar-Sevilla,UCL,20-21,2a27df16
+a08b974a,Lucas Ocampos,5,ARG,RB,26-136,71,0,0,0,0,0,0,0,0,55,0,2,3,0.0,0.0,0.1,1,0,26,43,60.5,1,22,5,1,1,Sevilla,2020-11-24 Krasnodar-Sevilla,UCL,20-21,2a27df16
+34caa4b3,Oussama Idrissi,23,MAR,RB,24-272,19,0,0,0,0,2,1,0,0,22,0,0,0,0.2,0.2,0.0,1,0,13,15,86.7,1,14,3,0,0,Sevilla,2020-11-24 Krasnodar-Sevilla,UCL,20-21,2a27df16
+7b456af7,Tomáš Vaclík,1,CZE,GK,31-240,90,0,0,0,0,0,0,0,0,25,0,0,0,0.0,0.0,0.0,0,0,17,25,68.0,0,9,0,0,0,Sevilla,2020-11-24 Krasnodar-Sevilla,UCL,20-21,2a27df16

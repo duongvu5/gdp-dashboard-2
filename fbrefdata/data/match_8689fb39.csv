@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+f553b2b3,Jørgen Strand Larsen,18,NOR,FW,23-188,72,0,0,0,0,2,0,0,0,30,0,0,1,0.3,0.3,0.0,2,0,11,19,57.9,1,22,2,1,1,Celta Vigo,2023-08-13 Celta Vigo-Osasuna,ESP-LALIGA,23-24,8689fb39
+35a6e5c7,Gabriel Veiga,24,ESP,FW,21-078,18,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,3,5,60.0,0,6,0,1,0,Celta Vigo,2023-08-13 Celta Vigo-Osasuna,ESP-LALIGA,23-24,8689fb39
+7dcf86f6,Iago Aspas,10,ESP,FW,36-012,81,0,0,0,0,5,0,0,0,33,0,0,1,0.4,0.4,0.2,5,0,21,24,87.5,5,24,0,2,2,Celta Vigo,2023-08-13 Celta Vigo-Osasuna,ESP-LALIGA,23-24,8689fb39
+184fe4b2,Williot Swedberg,19,SWE,FW,19-193,9,0,0,0,0,1,0,0,0,5,0,0,0,0.1,0.1,0.0,0,0,2,4,50.0,1,5,0,1,1,Celta Vigo,2023-08-13 Celta Vigo-Osasuna,ESP-LALIGA,23-24,8689fb39
+b2bd0f6c,Jonathan Bamba,17,CIV,LM,27-140,90,0,0,0,0,1,0,0,0,59,0,0,1,0.1,0.1,0.0,2,0,33,46,71.7,3,41,5,7,4,Celta Vigo,2023-08-13 Celta Vigo-Osasuna,ESP-LALIGA,23-24,8689fb39
+3aa74860,Hugo Sotelo,30,ESP,CM,19-237,80,0,0,0,0,0,0,0,0,49,4,0,1,0.0,0.0,0.0,2,0,35,43,81.4,3,31,1,1,1,Celta Vigo,2023-08-13 Celta Vigo-Osasuna,ESP-LALIGA,23-24,8689fb39
+e9241b40,Luca de la Torre,14,USA,CM,25-082,10,0,0,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.0,0,0,7,10,70.0,3,6,1,0,0,Celta Vigo,2023-08-13 Celta Vigo-Osasuna,ESP-LALIGA,23-24,8689fb39
+ed5c5fa3,Fran Beltrán,8,ESP,CM,24-191,90,0,0,0,0,1,0,0,0,53,2,2,1,0.1,0.1,0.0,3,0,37,46,80.4,9,34,1,2,1,Celta Vigo,2023-08-13 Celta Vigo-Osasuna,ESP-LALIGA,23-24,8689fb39
+a8f21b9f,Carles Pérez,7,ESP,RM,25-178,62,0,0,0,0,0,0,0,0,20,0,1,2,0.0,0.0,0.1,3,0,9,14,64.3,0,16,2,1,0,Celta Vigo,2023-08-13 Celta Vigo-Osasuna,ESP-LALIGA,23-24,8689fb39
+958d67bb,Miguel Rodríguez,29,ESP,RM,20-106,28,0,0,0,0,1,0,0,0,13,0,1,0,0.0,0.0,0.1,1,0,5,9,55.6,1,12,1,2,1,Celta Vigo,2023-08-13 Celta Vigo-Osasuna,ESP-LALIGA,23-24,8689fb39
+5e1028e5,Franco Cervi,11,ARG,LB,29-079,80,0,0,0,0,0,0,0,0,73,1,2,3,0.0,0.0,0.2,1,0,53,66,80.3,6,36,2,0,0,Celta Vigo,2023-08-13 Celta Vigo-Osasuna,ESP-LALIGA,23-24,8689fb39
+ffacd3d5,Manu Sánchez,23,ESP,LB,22-354,10,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,3,5,60.0,0,2,2,0,0,Celta Vigo,2023-08-13 Celta Vigo-Osasuna,ESP-LALIGA,23-24,8689fb39
+be170419,Unai Núñez,4,ESP,CB,26-195,90,0,0,0,0,0,0,1,0,79,1,1,2,0.0,0.0,0.0,0,0,59,70,84.3,4,46,0,0,0,Celta Vigo,2023-08-13 Celta Vigo-Osasuna,ESP-LALIGA,23-24,8689fb39
+18abe173,Joseph Aidoo,15,GHA,CB,27-318,90,0,0,0,0,0,0,0,0,81,0,2,0,0.0,0.0,0.1,1,0,59,71,83.1,4,52,0,0,0,Celta Vigo,2023-08-13 Celta Vigo-Osasuna,ESP-LALIGA,23-24,8689fb39
+056269d7,Óscar Mingueza,3,ESP,RB,24-092,90,0,0,0,0,0,0,0,0,72,0,2,2,0.0,0.0,0.1,2,0,51,69,73.9,5,35,3,0,0,Celta Vigo,2023-08-13 Celta Vigo-Osasuna,ESP-LALIGA,23-24,8689fb39
+cde52ef5,Iván Villar,13,ESP,GK,26-035,90,0,0,0,0,0,0,0,0,32,0,0,0,0.0,0.0,0.0,0,0,26,30,86.7,0,15,0,0,0,Celta Vigo,2023-08-13 Celta Vigo-Osasuna,ESP-LALIGA,23-24,8689fb39
+8f3565b3,Ante Budimir,17,CRO,FW,32-022,78,0,0,0,0,3,1,0,0,27,2,0,1,0.4,0.4,0.0,1,1,10,16,62.5,2,8,0,0,0,Osasuna,2023-08-13 Celta Vigo-Osasuna,ESP-LALIGA,23-24,8689fb39
+253a06b9,Ezequiel Ávila,9,ARG,FW,29-188,12,0,0,0,0,0,0,0,0,6,0,0,1,0.0,0.0,0.0,0,0,3,4,75.0,2,2,0,1,0,Osasuna,2023-08-13 Celta Vigo-Osasuna,ESP-LALIGA,23-24,8689fb39
+5a626448,Moi Gómez,16,ESP,LW,29-051,90,1,0,0,0,1,1,0,0,47,2,0,0,0.2,0.2,0.0,3,0,39,44,88.6,4,33,2,0,0,Osasuna,2023-08-13 Celta Vigo-Osasuna,ESP-LALIGA,23-24,8689fb39
+5c96b017,Rubén García,14,ESP,RW,30-030,66,1,0,0,0,2,2,0,0,38,0,0,3,0.2,0.2,0.1,5,0,19,30,63.3,4,22,1,2,1,Osasuna,2023-08-13 Celta Vigo-Osasuna,ESP-LALIGA,23-24,8689fb39
+3701906c,Pablo Ibáñez,19,ESP,"RM,RW",24-327,24,0,0,0,0,1,1,0,0,9,0,0,0,0.0,0.0,0.0,0,0,6,8,75.0,2,8,0,0,0,Osasuna,2023-08-13 Celta Vigo-Osasuna,ESP-LALIGA,23-24,8689fb39
+7c363088,Aimar Oroz,10,ESP,LM,21-259,78,0,0,0,0,0,0,0,0,45,0,1,0,0.0,0.0,0.0,1,0,32,43,74.4,3,39,3,1,1,Osasuna,2023-08-13 Celta Vigo-Osasuna,ESP-LALIGA,23-24,8689fb39
+94e01ec6,Jesús Areso,12,ESP,LM,24-042,12,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,1,4,25.0,0,2,0,0,0,Osasuna,2023-08-13 Celta Vigo-Osasuna,ESP-LALIGA,23-24,8689fb39
+0e4fef6e,Lucas Torró,6,ESP,CM,29-025,89,0,0,0,0,1,0,1,0,44,0,1,0,0.0,0.0,0.0,0,0,36,41,87.8,0,30,0,0,0,Osasuna,2023-08-13 Celta Vigo-Osasuna,ESP-LALIGA,23-24,8689fb39
+175ece4c,Iker Muñoz,34,ESP,CM,20-281,1,0,0,0,0,0,0,0,0,2,0,1,0,0.0,0.0,0.0,0,0,1,1,100.0,1,2,0,0,0,Osasuna,2023-08-13 Celta Vigo-Osasuna,ESP-LALIGA,23-24,8689fb39
+9939e168,Jon Moncayola,7,ESP,"RM,RW",25-092,89,0,0,0,0,0,0,0,0,42,1,1,1,0.0,0.0,0.3,1,0,21,35,60.0,3,27,1,1,1,Osasuna,2023-08-13 Celta Vigo-Osasuna,ESP-LALIGA,23-24,8689fb39
+46e07328,José Arnaiz,20,ESP,RW,28-120,1,0,0,0,0,0,0,0,0,4,0,0,1,0.0,0.0,0.0,0,0,0,1,0.0,0,0,0,0,0,Osasuna,2023-08-13 Celta Vigo-Osasuna,ESP-LALIGA,23-24,8689fb39
+608f2092,Johan Mojica,22,COL,LB,30-357,90,0,0,0,0,0,0,0,0,77,3,3,0,0.0,0.0,0.0,1,0,43,61,70.5,4,34,0,0,0,Osasuna,2023-08-13 Celta Vigo-Osasuna,ESP-LALIGA,23-24,8689fb39
+3e42f707,David García,5,ESP,CB,29-180,90,0,0,0,0,1,0,0,0,52,3,1,2,0.0,0.0,0.0,0,0,36,41,87.8,3,26,0,0,0,Osasuna,2023-08-13 Celta Vigo-Osasuna,ESP-LALIGA,23-24,8689fb39
+274ab13c,Catena,24,ESP,CB,28-289,90,0,0,0,0,1,0,0,0,51,1,2,2,0.1,0.1,0.1,0,0,30,40,75.0,0,24,0,0,0,Osasuna,2023-08-13 Celta Vigo-Osasuna,ESP-LALIGA,23-24,8689fb39
+1f079188,Rubén Peña,15,ESP,RB,32-026,90,0,0,0,0,1,0,0,0,73,6,4,0,0.1,0.1,0.1,5,1,41,56,73.2,4,35,6,4,2,Osasuna,2023-08-13 Celta Vigo-Osasuna,ESP-LALIGA,23-24,8689fb39
+a4995f48,Sergio Herrera,1,ESP,GK,30-069,90,0,0,0,0,0,0,0,0,44,0,0,0,0.0,0.0,0.0,0,0,26,43,60.5,0,20,0,0,0,Osasuna,2023-08-13 Celta Vigo-Osasuna,ESP-LALIGA,23-24,8689fb39

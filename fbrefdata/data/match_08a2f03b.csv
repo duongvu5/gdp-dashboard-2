@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+0630eb63,Nemanja Radonjić,7,SRB,FW,24-255,77,0,0,0,0,1,1,0,0,26,0,0,0,0.0,0.0,0.0,1,0,13,19,68.4,0,20,2,4,2,Marseille,2020-10-27 Marseille-Manchester City,UCL,20-21,08a2f03b
+bef0a7ac,Darío Benedetto,9,ARG,FW,30-163,13,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,3,5,60.0,0,5,0,0,0,Marseille,2020-10-27 Marseille-Manchester City,UCL,20-21,08a2f03b
+2b9fdeea,Florian Thauvin,26,FRA,FW,27-275,77,0,0,0,0,1,1,0,0,23,2,0,0,0.0,0.0,0.0,0,0,10,15,66.7,2,15,1,1,1,Marseille,2020-10-27 Marseille-Manchester City,UCL,20-21,08a2f03b
+58ae47b2,Dimitri Payet,10,FRA,FW,33-212,13,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,0,0,6,8,75.0,0,8,1,0,0,Marseille,2020-10-27 Marseille-Manchester City,UCL,20-21,08a2f03b
+5722eced,Mickaël Cuisance,17,FRA,CM,21-072,84,0,0,0,0,0,0,0,0,53,4,1,1,0.0,0.0,0.0,1,0,31,42,73.8,7,35,2,0,0,Marseille,2020-10-27 Marseille-Manchester City,UCL,20-21,08a2f03b
+7155e3e1,Pape Gueye,22,SEN,CM,21-277,6,0,0,0,0,0,0,0,0,12,0,0,0,0.0,0.0,0.0,0,0,10,11,90.9,0,11,0,1,1,Marseille,2020-10-27 Marseille-Manchester City,UCL,20-21,08a2f03b
+cc77354e,Boubacar Kamara,4,FRA,CM,20-339,90,0,0,0,0,0,0,0,0,68,2,2,1,0.0,0.0,0.0,0,0,54,59,91.5,2,54,1,1,0,Marseille,2020-10-27 Marseille-Manchester City,UCL,20-21,08a2f03b
+ed45c4a5,Valentin Rongier,21,FRA,CM,25-325,63,0,0,0,0,0,0,0,0,47,3,3,0,0.0,0.0,0.0,1,0,30,36,83.3,2,35,2,0,0,Marseille,2020-10-27 Marseille-Manchester City,UCL,20-21,08a2f03b
+6e7f1353,Morgan Sanson,8,FRA,CM,26-070,27,0,0,0,0,0,0,0,0,13,1,0,0,0.0,0.0,0.0,0,0,10,12,83.3,1,11,0,0,0,Marseille,2020-10-27 Marseille-Manchester City,UCL,20-21,08a2f03b
+22721b88,Jordan Amavi,18,FRA,LB,26-232,90,0,0,0,0,0,0,1,0,50,1,2,1,0.0,0.0,0.0,0,0,36,44,81.8,0,35,1,0,0,Marseille,2020-10-27 Marseille-Manchester City,UCL,20-21,08a2f03b
+94f8d10c,Duje Ćaleta-Car,15,CRO,CB,24-040,90,0,0,0,0,0,0,1,0,52,2,1,0,0.0,0.0,0.0,0,0,39,45,86.7,0,39,0,0,0,Marseille,2020-10-27 Marseille-Manchester City,UCL,20-21,08a2f03b
+42dcf26d,Álvaro González,3,ESP,CB,30-293,90,0,0,0,0,0,0,0,0,57,3,1,1,0.0,0.0,0.0,1,0,44,50,88.0,2,39,0,0,0,Marseille,2020-10-27 Marseille-Manchester City,UCL,20-21,08a2f03b
+7c3ed041,Leonardo Balerdi,5,ARG,CB,21-275,90,0,0,0,0,0,0,0,0,58,0,2,1,0.0,0.0,0.0,0,0,48,53,90.6,1,46,0,0,0,Marseille,2020-10-27 Marseille-Manchester City,UCL,20-21,08a2f03b
+d63e2912,Hiroki Sakai,2,JPN,RB,30-198,90,0,0,0,0,0,0,0,0,45,2,3,0,0.0,0.0,0.0,0,0,32,38,84.2,1,26,0,2,2,Marseille,2020-10-27 Marseille-Manchester City,UCL,20-21,08a2f03b
+1d2d5cc8,Steve Mandanda,30,FRA,GK,35-213,90,0,0,0,0,0,0,0,0,45,0,0,0,0.0,0.0,0.0,0,0,27,44,61.4,0,33,0,0,0,Marseille,2020-10-27 Marseille-Manchester City,UCL,20-21,08a2f03b
+9e1035f8,Ferrán Torres,21,ESP,FW,20-241,76,1,0,0,0,1,1,0,0,18,0,0,0,0.5,0.5,0.1,1,0,9,10,90.0,1,10,0,3,2,Manchester City,2020-10-27 Marseille-Manchester City,UCL,20-21,08a2f03b
+892d5bb1,Riyad Mahrez,26,ALG,"FW,RW",29-249,14,0,0,0,0,0,0,0,0,17,0,0,0,0.0,0.0,0.0,1,1,14,16,87.5,1,14,1,0,0,Manchester City,2020-10-27 Marseille-Manchester City,UCL,20-21,08a2f03b
+ed1e53f3,Phil Foden,47,ENG,"LW,RM",20-152,90,0,0,0,0,1,1,0,0,76,0,1,1,0.0,0.0,0.0,1,1,60,70,85.7,3,54,5,2,1,Manchester City,2020-10-27 Marseille-Manchester City,UCL,20-21,08a2f03b
+b400bde0,Raheem Sterling,7,ENG,"RW,FW",25-324,90,1,1,0,0,1,1,0,0,45,2,0,0,0.7,0.7,0.6,3,1,32,35,91.4,2,27,2,4,2,Manchester City,2020-10-27 Marseille-Manchester City,UCL,20-21,08a2f03b
+e46012d4,Kevin De Bruyne,17,BEL,"LM,RM",29-121,81,0,2,0,0,2,0,0,0,77,2,0,0,0.1,0.1,1.2,3,2,52,71,73.2,6,52,1,2,1,Manchester City,2020-10-27 Marseille-Manchester City,UCL,20-21,08a2f03b
+dc7f8a28,Cole Palmer,80,ENG,LW,18-174,9,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,5,5,100.0,0,4,0,0,0,Manchester City,2020-10-27 Marseille-Manchester City,UCL,20-21,08a2f03b
+6434f10d,Rodri,16,ESP,CM,24-127,90,0,0,0,0,0,0,0,0,109,2,0,2,0.0,0.0,0.0,1,0,94,103,91.3,4,72,1,0,0,Manchester City,2020-10-27 Marseille-Manchester City,UCL,20-21,08a2f03b
+819b3158,İlkay Gündoğan,8,GER,"RM,LM",30-003,77,1,0,0,0,1,1,0,0,68,2,0,1,0.5,0.5,0.0,2,0,55,63,87.3,8,54,1,0,0,Manchester City,2020-10-27 Marseille-Manchester City,UCL,20-21,08a2f03b
+3eb22ec9,Bernardo Silva,20,POR,LM,26-078,13,0,0,0,0,0,0,0,0,23,0,0,1,0.0,0.0,0.0,0,0,21,22,95.5,2,16,1,0,0,Manchester City,2020-10-27 Marseille-Manchester City,UCL,20-21,08a2f03b
+51cf8561,Oleksandr Zinchenko,11,UKR,LB,23-317,67,0,0,0,0,1,0,0,0,111,0,0,0,0.1,0.1,0.0,0,0,88,101,87.1,6,76,5,0,0,Manchester City,2020-10-27 Marseille-Manchester City,UCL,20-21,08a2f03b
+bd6351cd,João Cancelo,27,POR,LB,26-153,23,0,0,0,0,0,0,0,0,41,0,0,1,0.0,0.0,0.0,0,0,34,36,94.4,3,29,0,5,1,Manchester City,2020-10-27 Marseille-Manchester City,UCL,20-21,08a2f03b
+119b9a8e,Aymeric Laporte,14,ESP,CB,26-153,76,0,0,0,0,0,0,1,0,100,0,1,0,0.0,0.0,0.0,0,0,89,96,92.7,11,78,0,0,0,Manchester City,2020-10-27 Marseille-Manchester City,UCL,20-21,08a2f03b
+5eecec3d,John Stones,5,ENG,CB,26-152,14,0,0,0,0,0,0,0,0,17,0,0,0,0.0,0.0,0.0,0,0,17,17,100.0,0,13,0,0,0,Manchester City,2020-10-27 Marseille-Manchester City,UCL,20-21,08a2f03b
+31c69ef1,Rúben Dias,3,POR,CB,23-166,90,0,0,0,0,1,0,0,0,106,0,2,0,0.1,0.1,0.0,1,0,98,99,99.0,7,80,0,0,0,Manchester City,2020-10-27 Marseille-Manchester City,UCL,20-21,08a2f03b
+86dd77d1,Kyle Walker,2,ENG,RB,30-152,90,0,0,0,0,0,0,0,0,111,2,0,0,0.0,0.0,0.0,0,0,101,104,97.1,8,69,1,1,0,Manchester City,2020-10-27 Marseille-Manchester City,UCL,20-21,08a2f03b
+3bb7b8b4,Ederson,31,BRA,GK,27-071,90,0,0,0,0,0,0,0,0,22,0,0,0,0.0,0.0,0.0,0,0,19,21,90.5,0,15,0,0,0,Manchester City,2020-10-27 Marseille-Manchester City,UCL,20-21,08a2f03b

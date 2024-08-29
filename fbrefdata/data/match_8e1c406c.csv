@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+d70ce98e,Lionel Messi,10,ARG,FW,30-218,90,1,0,0,0,6,6,0,0,73,0,0,0,0.4,0.4,0.5,6,0,42,61,68.9,7,57,7,7,5,Barcelona,2018-01-28 Barcelona-Alavés,ESP-LALIGA,17-18,8e1c406c
+a6154613,Luis Suárez,9,URU,FW,31-004,90,1,0,0,0,4,3,0,0,44,0,0,0,0.5,0.5,0.0,3,1,25,35,71.4,0,28,1,2,0,Barcelona,2018-01-28 Barcelona-Alavés,ESP-LALIGA,17-18,8e1c406c
+cfd65a29,Andrés Iniesta,8,ESP,LM,33-262,90,0,1,0,0,1,0,0,0,111,2,0,2,0.0,0.0,0.1,5,2,83,103,80.6,21,85,8,5,5,Barcelona,2018-01-28 Barcelona-Alavés,ESP-LALIGA,17-18,8e1c406c
+89f951b5,Ivan Rakitić,4,CRO,CM,29-324,90,0,0,0,0,0,0,0,0,106,2,5,1,0.0,0.0,0.0,1,0,87,99,87.9,12,77,1,2,2,Barcelona,2018-01-28 Barcelona-Alavés,ESP-LALIGA,17-18,8e1c406c
+bb7337cc,Paulinho,15,BRA,CM,29-187,90,0,0,0,0,4,3,0,0,73,1,0,0,1.0,1.0,0.0,3,0,57,67,85.1,11,56,3,0,0,Barcelona,2018-01-28 Barcelona-Alavés,ESP-LALIGA,17-18,8e1c406c
+0ef89a37,Philippe Coutinho,14,BRA,RM,25-230,65,0,0,0,0,1,0,0,0,70,1,1,0,0.0,0.0,0.0,2,0,49,58,84.5,4,56,5,5,1,Barcelona,2018-01-28 Barcelona-Alavés,ESP-LALIGA,17-18,8e1c406c
+a7a9d95a,Paco Alcácer,17,ESP,RM,24-151,25,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.1,2,1,3,4,75.0,1,6,1,0,0,Barcelona,2018-01-28 Barcelona-Alavés,ESP-LALIGA,17-18,8e1c406c
+1b84dbe1,Lucas Digne,19,FRA,LB,24-192,51,0,0,0,0,1,0,0,0,57,1,4,0,0.0,0.0,0.0,1,0,45,50,90.0,1,31,1,0,0,Barcelona,2018-01-28 Barcelona-Alavés,ESP-LALIGA,17-18,8e1c406c
+4601e194,Jordi Alba,18,ESP,LB,28-313,39,0,0,0,0,0,0,0,0,47,1,1,0,0.0,0.0,0.0,1,0,37,45,82.2,4,29,3,0,0,Barcelona,2018-01-28 Barcelona-Alavés,ESP-LALIGA,17-18,8e1c406c
+3eed9821,Samuel Umtiti,23,FRA,CB,24-075,90,0,0,0,0,0,0,0,0,74,0,3,2,0.0,0.0,0.0,0,0,62,67,92.5,8,55,3,0,0,Barcelona,2018-01-28 Barcelona-Alavés,ESP-LALIGA,17-18,8e1c406c
+adfc9123,Gerard Piqué,3,ESP,CB,30-360,90,0,0,0,0,0,0,0,0,76,0,0,1,0.0,0.0,0.7,1,0,67,74,90.5,7,61,2,0,0,Barcelona,2018-01-28 Barcelona-Alavés,ESP-LALIGA,17-18,8e1c406c
+d04b94db,Nélson Semedo,2,POR,RB,24-073,51,0,0,0,0,0,0,0,0,61,2,1,0,0.0,0.0,0.0,1,0,53,58,91.4,2,40,2,0,0,Barcelona,2018-01-28 Barcelona-Alavés,ESP-LALIGA,17-18,8e1c406c
+335fa267,Sergi Roberto,20,ESP,RB,25-355,39,0,0,0,0,1,0,0,0,37,4,0,0,0.0,0.0,0.0,4,0,27,31,87.1,1,24,2,1,1,Barcelona,2018-01-28 Barcelona-Alavés,ESP-LALIGA,17-18,8e1c406c
+6f51e382,Marc-André ter Stegen,1,GER,GK,25-273,90,0,0,0,0,0,0,0,0,25,0,0,0,0.0,0.0,0.0,0,0,22,24,91.7,0,17,0,0,0,Barcelona,2018-01-28 Barcelona-Alavés,ESP-LALIGA,17-18,8e1c406c
+19b776e9,Rubén Sobrino,7,ESP,FW,25-241,90,0,0,0,0,2,2,0,0,28,1,0,1,0.2,0.2,0.0,1,0,15,21,71.4,0,13,2,2,2,Alavés,2018-01-28 Barcelona-Alavés,ESP-LALIGA,17-18,8e1c406c
+99bebd12,John Guidetti,10,SWE,FW,25-288,74,1,0,0,0,1,1,0,0,32,0,1,1,0.5,0.5,0.1,2,0,15,26,57.7,2,8,1,1,1,Alavés,2018-01-28 Barcelona-Alavés,ESP-LALIGA,17-18,8e1c406c
+8696bc90,Munir El Haddadi,24,MAR,FW,22-149,16,0,0,0,0,1,0,0,0,9,0,0,0,0.1,0.1,0.0,0,0,3,5,60.0,0,7,0,0,0,Alavés,2018-01-28 Barcelona-Alavés,ESP-LALIGA,17-18,8e1c406c
+9d2a3d5f,Ibai Gómez,11,ESP,"LM,RM",28-078,90,0,1,0,0,1,1,0,0,37,1,0,1,0.1,0.1,0.5,3,1,21,27,77.8,3,19,1,7,3,Alavés,2018-01-28 Barcelona-Alavés,ESP-LALIGA,17-18,8e1c406c
+999908af,Wakaso,22,GHA,CM,27-187,90,0,0,0,0,0,0,1,0,37,4,6,2,0.0,0.0,0.0,0,0,10,17,58.8,2,7,0,0,0,Alavés,2018-01-28 Barcelona-Alavés,ESP-LALIGA,17-18,8e1c406c
+31223bcf,Álvaro Medrán,23,ESP,CM,23-319,90,0,0,0,0,1,0,0,0,30,4,2,0,0.0,0.0,0.0,0,0,18,22,81.8,1,14,1,1,1,Alavés,2018-01-28 Barcelona-Alavés,ESP-LALIGA,17-18,8e1c406c
+e1cea3f7,Hernán Pérez,21,PAR,RM,28-337,62,0,0,0,0,0,0,0,0,28,0,0,2,0.0,0.0,0.1,1,0,10,17,58.8,2,11,1,4,2,Alavés,2018-01-28 Barcelona-Alavés,ESP-LALIGA,17-18,8e1c406c
+63f04c6c,Alfonso Pedraza,17,ESP,"LM,LB",21-294,28,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,5,8,62.5,1,2,1,1,0,Alavés,2018-01-28 Barcelona-Alavés,ESP-LALIGA,17-18,8e1c406c
+1fe0492d,Rubén Duarte,3,ESP,LB,22-102,88,0,0,0,0,1,0,1,0,34,4,1,3,0.1,0.1,0.0,2,0,9,16,56.3,0,8,1,0,0,Alavés,2018-01-28 Barcelona-Alavés,ESP-LALIGA,17-18,8e1c406c
+ed79b7d3,Ermedin Demirović,29,BIH,"LB,FW",19-309,2,0,0,0,0,0,0,0,0,3,0,0,1,0.0,0.0,0.0,0,0,0,2,0.0,0,0,0,0,0,Alavés,2018-01-28 Barcelona-Alavés,ESP-LALIGA,17-18,8e1c406c
+d9764034,Guillermo Maripán,6,CHI,CB,23-267,90,0,0,0,0,0,0,0,0,19,3,2,0,0.0,0.0,0.0,1,1,2,4,50.0,1,2,0,0,0,Alavés,2018-01-28 Barcelona-Alavés,ESP-LALIGA,17-18,8e1c406c
+b7c99b9b,Víctor Laguardia,5,ESP,CB,28-084,90,0,0,0,0,0,0,0,0,30,3,4,4,0.0,0.0,0.0,0,0,8,11,72.7,0,4,0,0,0,Alavés,2018-01-28 Barcelona-Alavés,ESP-LALIGA,17-18,8e1c406c
+db0cd1ae,Alexis,4,ESP,RB,32-177,90,0,0,0,0,0,0,0,0,36,0,5,1,0.0,0.0,0.0,1,0,12,23,52.2,1,5,0,0,0,Alavés,2018-01-28 Barcelona-Alavés,ESP-LALIGA,17-18,8e1c406c
+97852360,Fernando Pacheco,1,ESP,GK,25-255,90,0,0,0,0,0,0,0,0,39,0,0,0,0.0,0.0,0.0,0,0,10,34,29.4,0,13,0,0,0,Alavés,2018-01-28 Barcelona-Alavés,ESP-LALIGA,17-18,8e1c406c

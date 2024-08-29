@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+ed5c0319,Beto,9,GNB,FW,25-201,74,0,0,0,0,0,0,0,0,17,1,0,0,0.0,0.0,0.3,6,0,10,11,90.9,2,15,0,3,2,Udinese,2023-08-20 Udinese-Juventus,ITA-SERIA_A,23-24,8b6e8a62
+83c06f3a,Lorenzo Lucca,17,ITA,FW,22-344,16,0,0,0,0,1,1,0,0,5,0,0,0,0.1,0.1,0.0,0,0,3,3,100.0,0,2,0,0,0,Udinese,2023-08-20 Udinese-Juventus,ITA-SERIA_A,23-24,8b6e8a62
+2b9fdeea,Florian Thauvin,26,FRA,FW,30-206,65,0,0,0,0,3,1,0,0,29,0,0,0,0.1,0.1,0.0,1,0,15,20,75.0,1,19,3,2,1,Udinese,2023-08-20 Udinese-Juventus,ITA-SERIA_A,23-24,8b6e8a62
+f573a8bf,Isaac Success,7,NGA,FW,27-225,25,0,0,0,0,1,0,0,0,9,1,0,0,0.3,0.3,0.0,1,0,4,5,80.0,0,8,0,0,0,Udinese,2023-08-20 Udinese-Juventus,ITA-SERIA_A,23-24,8b6e8a62
+966eea58,Sandi Lovrić,4,SVN,CM,25-145,90,0,0,0,0,4,1,0,0,60,0,0,1,0.2,0.2,0.4,8,0,44,49,89.8,1,38,3,4,0,Udinese,2023-08-20 Udinese-Juventus,ITA-SERIA_A,23-24,8b6e8a62
+26db8853,Walace,11,BRA,CM,28-138,90,0,0,0,0,3,0,0,0,68,0,1,2,0.1,0.1,0.0,3,0,53,59,89.8,10,54,7,1,0,Udinese,2023-08-20 Udinese-Juventus,ITA-SERIA_A,23-24,8b6e8a62
+968a1c2f,Oier Zarraga,6,ESP,CM,24-228,45,0,0,0,0,1,0,0,0,17,0,0,0,0.1,0.1,0.0,1,0,12,14,85.7,2,13,2,0,0,Udinese,2023-08-20 Udinese-Juventus,ITA-SERIA_A,23-24,8b6e8a62
+217c93a1,Lazar Samardzic,24,SRB,CM,21-177,45,0,0,0,0,2,1,0,0,36,0,0,0,0.1,0.1,0.1,6,0,23,29,79.3,1,28,1,3,1,Udinese,2023-08-20 Udinese-Juventus,ITA-SERIA_A,23-24,8b6e8a62
+19a12bed,Hassane Kamara,12,CIV,WB,29-168,45,0,0,0,0,1,0,0,0,25,1,2,0,0.0,0.0,0.0,0,0,15,18,83.3,3,16,2,2,1,Udinese,2023-08-20 Udinese-Juventus,ITA-SERIA_A,23-24,8b6e8a62
+e8271ad9,Jordan Zemura,33,ZIM,WB,23-279,45,0,0,0,0,0,0,0,0,16,0,0,0,0.0,0.0,0.0,0,0,10,13,76.9,1,11,2,1,0,Udinese,2023-08-20 Udinese-Juventus,ITA-SERIA_A,23-24,8b6e8a62
+dbfa4f16,Festy Ebosele,2,IRL,WB,21-018,56,0,0,0,0,1,0,0,0,23,2,0,0,0.0,0.0,0.0,3,0,12,17,70.6,2,15,5,4,2,Udinese,2023-08-20 Udinese-Juventus,ITA-SERIA_A,23-24,8b6e8a62
+fb37a645,João Ferreira,13,POR,WB,22-151,34,0,0,0,0,0,0,0,0,23,1,0,1,0.0,0.0,0.0,0,0,18,19,94.7,1,14,0,1,0,Udinese,2023-08-20 Udinese-Juventus,ITA-SERIA_A,23-24,8b6e8a62
+914ab9a1,Christian Kabasele,27,BEL,CB,32-177,90,0,0,0,0,0,0,1,0,70,0,1,3,0.0,0.0,0.0,2,0,51,62,82.3,3,43,2,0,0,Udinese,2023-08-20 Udinese-Juventus,ITA-SERIA_A,23-24,8b6e8a62
+6fdac234,Jaka Bijol,29,SVN,CB,24-196,90,0,0,0,0,0,0,0,0,73,1,0,1,0.0,0.0,0.0,0,0,60,67,89.6,7,56,1,0,0,Udinese,2023-08-20 Udinese-Juventus,ITA-SERIA_A,23-24,8b6e8a62
+f7c491f1,Nehuén Pérez,18,ARG,CB,23-057,90,0,0,0,0,1,1,0,0,80,4,3,1,0.1,0.1,0.0,3,0,55,70,78.6,6,59,4,1,0,Udinese,2023-08-20 Udinese-Juventus,ITA-SERIA_A,23-24,8b6e8a62
+0d422df7,Marco Silvestri,1,ITA,GK,32-171,90,0,0,0,0,0,0,0,0,26,0,0,0,0.0,0.0,0.0,0,0,21,23,91.3,0,14,0,0,0,Udinese,2023-08-20 Udinese-Juventus,ITA-SERIA_A,23-24,8b6e8a62
+79443529,Dušan Vlahović,9,SRB,FW,23-204,84,1,1,1,1,0,0,0,0,20,0,0,0,0.8,0.0,0.1,2,1,11,17,64.7,1,15,2,0,0,Juventus,2023-08-20 Udinese-Juventus,ITA-SERIA_A,23-24,8b6e8a62
+d8cda243,Kenan Yıldız,15,TUR,FW,18-108,6,0,0,0,0,0,0,0,0,5,1,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,3,0,2,1,Juventus,2023-08-20 Udinese-Juventus,ITA-SERIA_A,23-24,8b6e8a62
+b0f7e36c,Federico Chiesa,7,ITA,FW,25-299,76,1,0,0,0,2,1,0,0,35,0,0,0,0.1,0.1,0.0,2,1,14,25,56.0,1,25,4,4,1,Juventus,2023-08-20 Udinese-Juventus,ITA-SERIA_A,23-24,8b6e8a62
+85613cf0,Arkadiusz Milik,14,POL,FW,29-173,14,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,5,6,83.3,0,8,0,0,0,Juventus,2023-08-20 Udinese-Juventus,ITA-SERIA_A,23-24,8b6e8a62
+247ed022,Andrea Cambiaso,27,ITA,LW,23-181,69,0,1,0,0,2,1,0,0,47,2,0,0,0.1,0.1,0.8,3,1,39,41,95.1,3,34,2,1,0,Juventus,2023-08-20 Udinese-Juventus,ITA-SERIA_A,23-24,8b6e8a62
+ba492306,Samuel Iling-Junior,17,ENG,LW,19-320,21,0,0,0,0,1,0,0,0,11,1,0,1,0.1,0.1,0.0,0,0,5,7,71.4,1,4,0,0,0,Juventus,2023-08-20 Udinese-Juventus,ITA-SERIA_A,23-24,8b6e8a62
+8eec784d,Timothy Weah,22,USA,RW,23-179,45,0,0,0,0,0,0,0,0,18,2,0,1,0.0,0.0,0.0,0,0,10,13,76.9,1,8,1,0,0,Juventus,2023-08-20 Udinese-Juventus,ITA-SERIA_A,23-24,8b6e8a62
+01c3aff5,Weston McKennie,16,USA,RW,24-357,45,0,0,0,0,0,0,0,0,23,3,0,0,0.0,0.0,0.1,1,0,11,16,68.8,0,10,1,0,0,Juventus,2023-08-20 Udinese-Juventus,ITA-SERIA_A,23-24,8b6e8a62
+8794e251,Adrien Rabiot,25,FRA,CM,28-139,90,1,0,0,0,1,1,0,0,60,4,2,3,0.8,0.8,0.0,1,0,38,44,86.4,2,32,2,4,3,Juventus,2023-08-20 Udinese-Juventus,ITA-SERIA_A,23-24,8b6e8a62
+34693494,Fabio Miretti,20,ITA,CM,20-017,45,0,0,0,0,1,0,0,0,30,2,0,1,0.0,0.0,0.0,3,1,17,23,73.9,0,21,2,3,1,Juventus,2023-08-20 Udinese-Juventus,ITA-SERIA_A,23-24,8b6e8a62
+366be751,Nicolò Fagioli,21,ITA,CM,22-189,45,0,0,0,0,0,0,0,0,18,0,0,0,0.0,0.0,0.0,1,0,17,18,94.4,4,14,1,1,0,Juventus,2023-08-20 Udinese-Juventus,ITA-SERIA_A,23-24,8b6e8a62
+a8a874f1,Manuel Locatelli,5,ITA,DM,25-224,90,0,0,0,0,0,0,1,0,60,3,0,3,0.0,0.0,0.0,0,0,43,52,82.7,0,32,1,2,2,Juventus,2023-08-20 Udinese-Juventus,ITA-SERIA_A,23-24,8b6e8a62
+0d82903c,Alex Sandro,12,BRA,CB,32-206,90,0,0,0,0,1,0,1,0,83,0,1,0,0.0,0.0,0.0,0,0,67,78,85.9,3,51,2,1,0,Juventus,2023-08-20 Udinese-Juventus,ITA-SERIA_A,23-24,8b6e8a62
+5fd5ed86,Gleison Bremer,3,BRA,CB,26-155,90,0,0,0,0,0,0,0,0,73,0,1,1,0.0,0.0,0.0,0,0,54,63,85.7,0,42,0,0,0,Juventus,2023-08-20 Udinese-Juventus,ITA-SERIA_A,23-24,8b6e8a62
+94b2001f,Danilo,6,BRA,CB,32-036,90,0,0,0,0,0,0,1,0,73,3,1,1,0.0,0.0,0.0,1,0,51,61,83.6,3,41,0,1,1,Juventus,2023-08-20 Udinese-Juventus,ITA-SERIA_A,23-24,8b6e8a62
+01b8a2b2,Wojciech Szczęsny,1,POL,GK,33-124,90,0,0,0,0,0,0,0,0,41,0,0,0,0.0,0.0,0.0,0,0,28,37,75.7,0,21,0,0,0,Juventus,2023-08-20 Udinese-Juventus,ITA-SERIA_A,23-24,8b6e8a62

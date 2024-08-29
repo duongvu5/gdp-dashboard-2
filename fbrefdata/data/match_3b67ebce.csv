@@ -1,0 +1,28 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+5eae500a,Romelu Lukaku,9,BEL,FW,25-142,90,0,0,0,0,4,2,1,0,29,1,0,0,0.3,0.3,0.0,2,0,15,19,78.9,3,23,2,3,1,Manchester United,2018-10-02 Manchester Utd-Valencia,UCL,18-19,3b67ebce
+a1d5bd30,Marcus Rashford,10,ENG,"LW,RW",20-336,90,0,0,0,0,6,1,0,0,58,3,0,1,0.3,0.3,0.0,1,0,27,43,62.8,2,30,4,3,2,Manchester United,2018-10-02 Manchester Utd-Valencia,UCL,18-19,3b67ebce
+2c0f8e9e,Alexis Sánchez,7,CHI,RW,29-287,75,0,0,0,0,2,0,0,0,58,1,0,3,0.1,0.1,0.1,5,0,28,46,60.9,6,39,5,5,2,Manchester United,2018-10-02 Manchester Utd-Valencia,UCL,18-19,3b67ebce
+8b788c01,Anthony Martial,11,FRA,LW,22-301,15,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,1,0,7,9,77.8,1,9,1,1,0,Manchester United,2018-10-02 Manchester Utd-Valencia,UCL,18-19,3b67ebce
+867239d3,Paul Pogba,6,FRA,LM,25-201,90,0,0,0,0,2,1,0,0,75,0,1,2,0.1,0.1,0.2,8,0,52,67,77.6,9,47,3,2,1,Manchester United,2018-10-02 Manchester Utd-Valencia,UCL,18-19,3b67ebce
+eb7822d7,Nemanja Matić,31,SRB,CM,30-062,90,0,0,0,0,0,0,0,0,78,2,0,2,0.0,0.0,0.0,3,0,61,73,83.6,6,54,3,0,0,Manchester United,2018-10-02 Manchester Utd-Valencia,UCL,18-19,3b67ebce
+87575fd9,Marouane Fellaini,27,BEL,RM,30-314,90,0,0,0,0,1,0,0,0,53,4,2,2,0.1,0.1,0.0,1,0,36,40,90.0,6,21,0,0,0,Manchester United,2018-10-02 Manchester Utd-Valencia,UCL,18-19,3b67ebce
+9c94165b,Luke Shaw,23,ENG,LB,23-082,90,0,0,0,0,1,0,0,0,77,1,2,3,0.1,0.1,0.1,6,0,60,67,89.6,9,32,0,1,0,Manchester United,2018-10-02 Manchester Utd-Valencia,UCL,18-19,3b67ebce
+b6964eb6,Chris Smalling,12,ENG,CB,28-314,90,0,0,0,0,1,0,0,0,61,1,1,0,0.0,0.0,0.0,1,0,45,51,88.2,1,34,0,0,0,Manchester United,2018-10-02 Manchester Utd-Valencia,UCL,18-19,3b67ebce
+a1232f4e,Eric Bailly,3,CIV,CB,24-173,90,0,0,0,0,1,0,0,0,59,1,2,1,0.0,0.0,0.0,0,0,42,45,93.3,1,37,0,0,0,Manchester United,2018-10-02 Manchester Utd-Valencia,UCL,18-19,3b67ebce
+08aa17d0,Antonio Valencia,25,ECU,RB,33-059,90,0,0,0,0,0,0,0,0,74,2,4,1,0.0,0.0,0.0,2,0,58,66,87.9,7,34,2,0,0,Manchester United,2018-10-02 Manchester Utd-Valencia,UCL,18-19,3b67ebce
+7ba6d84e,David de Gea,1,ESP,GK,27-329,90,0,0,0,0,0,0,0,0,16,0,0,0,0.0,0.0,0.0,0,0,10,16,62.5,0,7,0,0,0,Manchester United,2018-10-02 Manchester Utd-Valencia,UCL,18-19,3b67ebce
+2973d8ff,Michy Batshuayi,23,BEL,FW,25-000,72,0,0,0,0,1,0,0,0,50,2,0,1,0.1,0.1,0.0,3,0,31,37,83.8,5,31,2,2,1,Valencia,2018-10-02 Manchester Utd-Valencia,UCL,18-19,3b67ebce
+42276181,Kévin Gameiro,9,FRA,FW,31-146,18,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,2,4,50.0,0,3,1,1,0,Valencia,2018-10-02 Manchester Utd-Valencia,UCL,18-19,3b67ebce
+1fb1c435,Rodrigo,19,ESP,FW,27-210,90,0,0,0,0,0,0,1,0,48,0,0,1,0.0,0.0,0.3,4,0,32,39,82.1,6,42,4,1,0,Valencia,2018-10-02 Manchester Utd-Valencia,UCL,18-19,3b67ebce
+e6bc67d7,Gonçalo Guedes,7,POR,LM,21-307,81,0,0,0,0,6,1,0,0,49,0,2,1,0.3,0.3,0.0,1,0,28,36,77.8,9,32,6,1,0,Valencia,2018-10-02 Manchester Utd-Valencia,UCL,18-19,3b67ebce
+0ac94a23,Denis Cheryshev,11,RUS,LM,27-280,9,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,2,4,50.0,1,2,0,0,0,Valencia,2018-10-02 Manchester Utd-Valencia,UCL,18-19,3b67ebce
+cce181df,Geoffrey Kondogbia,6,CTA,CM,25-229,90,0,0,0,0,0,0,1,0,90,4,5,3,0.0,0.0,0.0,1,0,60,71,84.5,5,49,0,2,1,Valencia,2018-10-02 Manchester Utd-Valencia,UCL,18-19,3b67ebce
+7460ca0d,Daniel Parejo,10,ESP,CM,29-169,90,0,0,0,0,1,0,1,0,86,2,0,2,0.0,0.0,0.0,0,0,74,82,90.2,6,52,0,0,0,Valencia,2018-10-02 Manchester Utd-Valencia,UCL,18-19,3b67ebce
+a6951bf8,Francis Coquelin,17,FRA,RM,27-142,77,0,0,0,0,0,0,1,0,32,0,3,1,0.0,0.0,0.0,2,0,20,27,74.1,2,22,1,0,0,Valencia,2018-10-02 Manchester Utd-Valencia,UCL,18-19,3b67ebce
+fed17f5a,Carlos Soler,8,ESP,RM,21-273,13,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,0,0,7,9,77.8,1,6,1,1,1,Valencia,2018-10-02 Manchester Utd-Valencia,UCL,18-19,3b67ebce
+b05e2dbd,José Luis Gayà,14,ESP,LB,23-130,90,0,0,0,0,0,0,1,0,58,4,4,0,0.0,0.0,0.0,0,0,32,45,71.1,3,23,1,1,1,Valencia,2018-10-02 Manchester Utd-Valencia,UCL,18-19,3b67ebce
+b7ca5c51,Gabriel Paulista,5,BRA,CB,27-310,90,0,0,0,0,0,0,0,0,48,4,1,1,0.0,0.0,0.0,0,0,33,38,86.8,1,23,1,0,0,Valencia,2018-10-02 Manchester Utd-Valencia,UCL,18-19,3b67ebce
+ac3fb1be,Ezequiel Garay,24,ARG,CB,31-357,90,0,0,0,0,0,0,0,0,62,1,5,4,0.0,0.0,0.0,0,0,38,45,84.4,3,26,0,0,0,Valencia,2018-10-02 Manchester Utd-Valencia,UCL,18-19,3b67ebce
+32c0491f,Cristiano Piccini,21,ITA,RB,26-006,90,0,0,0,0,0,0,1,0,51,4,2,1,0.0,0.0,0.0,2,0,28,37,75.7,0,23,2,2,1,Valencia,2018-10-02 Manchester Utd-Valencia,UCL,18-19,3b67ebce
+a9dc785c,Neto,13,BRA,GK,29-075,90,0,0,0,0,0,0,0,0,20,0,0,0,0.0,0.0,0.0,0,0,11,17,64.7,0,7,0,0,0,Valencia,2018-10-02 Manchester Utd-Valencia,UCL,18-19,3b67ebce

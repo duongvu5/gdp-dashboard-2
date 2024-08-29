@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+ea0ff634,Valère Germain,28,FRA,FW,30-222,58,0,0,0,0,2,1,0,0,18,1,0,0,0.1,0.1,0.1,3,0,11,15,73.3,0,7,0,0,0,Marseille,2020-11-25 Marseille-Porto,UCL,20-21,6e4b5348
+bef0a7ac,Darío Benedetto,9,ARG,FW,30-192,32,0,0,0,0,3,0,0,0,12,0,0,0,0.5,0.5,0.0,1,0,5,7,71.4,2,9,1,1,1,Marseille,2020-11-25 Marseille-Porto,UCL,20-21,6e4b5348
+f36d5624,Luis Henrique,11,BRA,LW,18-347,58,0,0,0,0,0,0,0,0,20,1,0,0,0.0,0.0,0.0,0,0,11,14,78.6,1,14,1,5,2,Marseille,2020-11-25 Marseille-Porto,UCL,20-21,6e4b5348
+58ae47b2,Dimitri Payet,10,FRA,LW,33-241,32,0,0,0,0,0,0,1,0,35,0,0,0,0.0,0.0,0.7,6,0,23,33,69.7,2,24,1,0,0,Marseille,2020-11-25 Marseille-Porto,UCL,20-21,6e4b5348
+2b9fdeea,Florian Thauvin,26,FRA,RW,27-304,77,0,0,0,0,0,0,1,0,45,0,1,1,0.0,0.0,0.1,4,0,23,36,63.9,3,25,1,5,3,Marseille,2020-11-25 Marseille-Porto,UCL,20-21,6e4b5348
+414e1f69,Marley Aké,23,FRA,RW,19-325,13,0,0,0,0,1,0,0,0,5,0,0,1,0.5,0.5,0.0,0,0,2,3,66.7,0,5,0,0,0,Marseille,2020-11-25 Marseille-Porto,UCL,20-21,6e4b5348
+6e7f1353,Morgan Sanson,8,FRA,AM,26-099,77,0,0,0,0,2,1,1,0,31,2,0,0,0.1,0.1,0.0,1,0,21,25,84.0,3,23,2,3,2,Marseille,2020-11-25 Marseille-Porto,UCL,20-21,6e4b5348
+4b6960d2,Yuto Nagatomo,25,JPN,"RB,AM",34-074,13,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,5,5,100.0,1,4,1,0,0,Marseille,2020-11-25 Marseille-Porto,UCL,20-21,6e4b5348
+cc77354e,Boubacar Kamara,4,FRA,DM,21-002,58,0,0,0,0,1,0,1,0,39,3,1,0,0.0,0.0,0.0,0,0,19,30,63.3,4,22,1,1,0,Marseille,2020-11-25 Marseille-Porto,UCL,20-21,6e4b5348
+5722eced,Mickaël Cuisance,17,FRA,DM,21-101,32,0,0,0,0,0,0,0,0,27,0,0,0,0.0,0.0,0.3,2,0,20,25,80.0,3,17,0,3,2,Marseille,2020-11-25 Marseille-Porto,UCL,20-21,6e4b5348
+ed45c4a5,Valentin Rongier,21,FRA,DM,25-354,90,0,0,0,0,1,0,0,0,73,1,4,0,0.0,0.0,0.0,1,0,59,64,92.2,9,49,4,5,5,Marseille,2020-11-25 Marseille-Porto,UCL,20-21,6e4b5348
+22721b88,Jordan Amavi,18,FRA,LB,26-261,90,0,0,0,0,0,0,0,0,87,2,4,0,0.0,0.0,0.1,3,0,60,73,82.2,2,42,1,1,0,Marseille,2020-11-25 Marseille-Porto,UCL,20-21,6e4b5348
+7c3ed041,Leonardo Balerdi,5,ARG,CB,21-304,69,0,0,0,0,0,0,2,1,63,1,2,1,0.0,0.0,0.0,0,0,50,56,89.3,2,38,0,0,0,Marseille,2020-11-25 Marseille-Porto,UCL,20-21,6e4b5348
+42dcf26d,Álvaro González,3,ESP,CB,30-322,90,0,0,0,0,1,0,0,0,74,0,1,0,0.1,0.1,0.0,0,0,57,70,81.4,3,55,1,0,0,Marseille,2020-11-25 Marseille-Porto,UCL,20-21,6e4b5348
+d63e2912,Hiroki Sakai,2,JPN,"RB,CB",30-227,90,0,0,0,0,0,0,0,0,52,2,0,2,0.0,0.0,0.0,0,0,41,44,93.2,1,33,1,1,0,Marseille,2020-11-25 Marseille-Porto,UCL,20-21,6e4b5348
+1d2d5cc8,Steve Mandanda,30,FRA,GK,35-242,90,0,0,0,0,0,0,0,0,32,0,0,0,0.0,0.0,0.0,0,0,27,29,93.1,0,17,0,0,0,Marseille,2020-11-25 Marseille-Porto,UCL,20-21,6e4b5348
+4a1a9578,Luis Díaz,7,COL,FW,23-317,78,0,0,0,0,0,0,0,0,24,2,0,0,0.0,0.0,0.0,0,0,15,20,75.0,1,14,1,2,2,Porto,2020-11-25 Marseille-Porto,UCL,20-21,6e4b5348
+be60b6f4,Shoya Nakajima,10,JPN,"LM,FW",26-094,12,0,0,0,0,0,0,0,0,6,0,0,1,0.0,0.0,0.0,0,0,4,5,80.0,3,5,1,0,0,Porto,2020-11-25 Marseille-Porto,UCL,20-21,6e4b5348
+05a84d52,Moussa Marega,11,MLI,FW,29-225,78,0,0,0,0,2,0,0,0,15,1,0,0,0.3,0.3,0.0,2,1,7,8,87.5,0,16,0,0,0,Porto,2020-11-25 Marseille-Porto,UCL,20-21,6e4b5348
+82a39b66,João Mário Lopes,23,POR,"RM,FW",20-327,12,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,5,7,71.4,2,6,1,1,1,Porto,2020-11-25 Marseille-Porto,UCL,20-21,6e4b5348
+28b1f3ce,Otávio,25,POR,"LM,CM",25-290,90,0,0,0,0,0,0,0,0,67,4,0,1,0.0,0.0,0.3,2,0,42,52,80.8,4,47,3,3,2,Porto,2020-11-25 Marseille-Porto,UCL,20-21,6e4b5348
+8b8e759d,Marko Grujić,16,SRB,CM,24-226,66,0,0,0,0,1,0,2,1,31,1,1,1,0.1,0.1,0.1,3,0,23,25,92.0,2,16,0,0,0,Porto,2020-11-25 Marseille-Porto,UCL,20-21,6e4b5348
+947e036f,Sérgio Oliveira,27,POR,CM,28-176,89,1,0,1,1,0,0,1,0,69,0,0,3,0.8,0.0,0.1,3,0,52,63,82.5,5,36,1,3,2,Porto,2020-11-25 Marseille-Porto,UCL,20-21,6e4b5348
+bcfc4473,Mamadou Loum,6,SEN,CM,23-331,1,0,0,0,0,0,0,0,0,4,1,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,2,0,0,0,Porto,2020-11-25 Marseille-Porto,UCL,20-21,6e4b5348
+fb938d24,Jesús Corona,17,MEX,RM,27-324,77,0,0,0,0,0,0,0,0,31,1,1,3,0.0,0.0,0.0,1,1,17,19,89.5,2,19,1,2,1,Porto,2020-11-25 Marseille-Porto,UCL,20-21,6e4b5348
+4c2a5d34,Mehdi Taremi,9,IRN,"FW,RM",28-130,13,0,0,0,0,1,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,2,0,0,0,Porto,2020-11-25 Marseille-Porto,UCL,20-21,6e4b5348
+24051310,Zaidu Sanusi,12,NGA,LB,23-165,90,1,0,0,0,4,3,0,0,61,3,6,0,0.9,0.9,0.0,1,1,27,43,62.8,1,29,3,1,1,Porto,2020-11-25 Marseille-Porto,UCL,20-21,6e4b5348
+4315f30d,Malang Sarr,32,FRA,CB,21-307,90,0,0,0,0,0,0,0,0,51,0,2,1,0.0,0.0,0.0,0,0,40,47,85.1,0,40,0,0,0,Porto,2020-11-25 Marseille-Porto,UCL,20-21,6e4b5348
+e76cb9cc,Chancel Mbemba,19,COD,CB,26-109,90,0,0,0,0,0,0,0,0,45,1,0,2,0.0,0.0,0.0,0,0,29,35,82.9,2,27,1,2,1,Porto,2020-11-25 Marseille-Porto,UCL,20-21,6e4b5348
+e27fdbca,Wilson Manafá,18,POR,RB,26-125,90,0,0,0,0,0,0,0,0,49,0,0,1,0.0,0.0,0.1,2,0,39,43,90.7,2,29,2,3,3,Porto,2020-11-25 Marseille-Porto,UCL,20-21,6e4b5348
+853b7c48,Agustín Marchesín,1,ARG,GK,32-254,90,0,0,0,0,0,0,0,0,39,0,0,0,0.0,0.0,0.0,0,0,21,38,55.3,0,28,0,0,0,Porto,2020-11-25 Marseille-Porto,UCL,20-21,6e4b5348

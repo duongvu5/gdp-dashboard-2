@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+a6154613,Luis Suárez,9,URU,FW,31-018,90,0,0,0,0,3,1,0,0,35,0,0,1,0.6,0.6,0.1,1,0,16,26,61.5,3,16,2,4,1,Barcelona,2018-02-11 Barcelona-Getafe,ESP-LALIGA,17-18,22bd07eb
+d70ce98e,Lionel Messi,10,ARG,FW,30-232,90,0,0,0,0,4,2,0,0,69,0,0,0,0.1,0.1,0.1,7,0,48,62,77.4,16,52,4,5,4,Barcelona,2018-02-11 Barcelona-Getafe,ESP-LALIGA,17-18,22bd07eb
+0ef89a37,Philippe Coutinho,14,BRA,LM,25-244,61,0,0,0,0,2,2,0,0,48,1,0,1,0.0,0.0,0.0,1,0,30,39,76.9,3,31,0,4,2,Barcelona,2018-02-11 Barcelona-Getafe,ESP-LALIGA,17-18,22bd07eb
+cfd65a29,Andrés Iniesta,8,ESP,LM,33-276,29,0,0,0,0,0,0,0,0,28,1,0,0,0.0,0.0,0.0,0,0,17,26,65.4,2,18,1,1,1,Barcelona,2018-02-11 Barcelona-Getafe,ESP-LALIGA,17-18,22bd07eb
+5ab0ea87,Sergio Busquets,5,ESP,CM,29-210,81,0,0,0,0,0,0,1,0,100,2,0,1,0.0,0.0,0.1,3,0,80,95,84.2,3,65,1,0,0,Barcelona,2018-02-11 Barcelona-Getafe,ESP-LALIGA,17-18,22bd07eb
+bb7337cc,Paulinho,15,BRA,CM,29-201,9,0,0,0,0,0,0,0,0,9,0,1,0,0.0,0.0,0.0,1,0,8,9,88.9,2,4,0,0,0,Barcelona,2018-02-11 Barcelona-Getafe,ESP-LALIGA,17-18,22bd07eb
+89f951b5,Ivan Rakitić,4,CRO,CM,29-338,90,0,0,0,0,0,0,0,0,99,2,0,0,0.0,0.0,0.0,2,0,89,96,92.7,9,64,1,0,0,Barcelona,2018-02-11 Barcelona-Getafe,ESP-LALIGA,17-18,22bd07eb
+a7a9d95a,Paco Alcácer,17,ESP,RM,24-165,62,0,0,0,0,0,0,0,0,38,0,1,0,0.0,0.0,0.4,1,0,31,35,88.6,1,19,0,0,0,Barcelona,2018-02-11 Barcelona-Getafe,ESP-LALIGA,17-18,22bd07eb
+b19db005,Ousmane Dembélé,11,FRA,RM,20-272,28,0,0,0,0,0,0,0,0,29,0,0,0,0.0,0.0,0.2,3,0,18,26,69.2,3,25,5,2,1,Barcelona,2018-02-11 Barcelona-Getafe,ESP-LALIGA,17-18,22bd07eb
+4601e194,Jordi Alba,18,ESP,LB,28-327,90,0,0,0,0,0,0,0,0,101,1,3,2,0.0,0.0,0.0,3,0,74,93,79.6,5,70,3,0,0,Barcelona,2018-02-11 Barcelona-Getafe,ESP-LALIGA,17-18,22bd07eb
+1b84dbe1,Lucas Digne,19,FRA,CB,24-206,90,0,0,0,0,0,0,0,0,104,3,1,0,0.0,0.0,0.0,1,0,96,100,96.0,11,71,9,1,1,Barcelona,2018-02-11 Barcelona-Getafe,ESP-LALIGA,17-18,22bd07eb
+6d5701f2,Yerry Mina,24,COL,CB,23-141,90,0,0,0,0,3,1,1,0,95,3,2,1,0.3,0.3,0.0,0,0,79,84,94.0,4,70,5,0,0,Barcelona,2018-02-11 Barcelona-Getafe,ESP-LALIGA,17-18,22bd07eb
+335fa267,Sergi Roberto,20,ESP,RB,26-004,90,0,0,0,0,0,0,0,0,111,0,2,0,0.0,0.0,0.0,0,0,91,101,90.1,7,71,6,5,3,Barcelona,2018-02-11 Barcelona-Getafe,ESP-LALIGA,17-18,22bd07eb
+6f51e382,Marc-André ter Stegen,1,GER,GK,25-287,90,0,0,0,0,0,0,0,0,39,0,0,0,0.0,0.0,0.0,0,0,34,36,94.4,0,18,0,1,1,Barcelona,2018-02-11 Barcelona-Getafe,ESP-LALIGA,17-18,22bd07eb
+8cfc2f69,Ángel Rodríguez,9,ESP,FW,30-291,77,0,0,0,0,2,0,0,0,18,2,0,1,0.1,0.1,0.1,3,0,9,11,81.8,2,13,2,2,2,Getafe,2018-02-11 Barcelona-Getafe,ESP-LALIGA,17-18,22bd07eb
+148d4105,Mathieu Flamini,8,FRA,FW,33-341,13,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,0,0,0,0,Getafe,2018-02-11 Barcelona-Getafe,ESP-LALIGA,17-18,22bd07eb
+d2ac648c,Gaku Shibasaki,10,JPN,"FW,LM",25-259,87,0,0,0,0,1,0,0,0,29,0,0,0,0.0,0.0,0.1,3,0,18,24,75.0,2,21,0,2,2,Getafe,2018-02-11 Barcelona-Getafe,ESP-LALIGA,17-18,22bd07eb
+69cbc8b6,Leandro Cabrera,6,URU,LM,26-239,3,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Getafe,2018-02-11 Barcelona-Getafe,ESP-LALIGA,17-18,22bd07eb
+f3b1d9a2,Amath,23,SEN,"LM,FW",21-210,84,0,0,0,0,1,0,0,0,27,1,1,0,0.1,0.1,0.0,2,0,9,17,52.9,0,20,0,3,2,Getafe,2018-02-11 Barcelona-Getafe,ESP-LALIGA,17-18,22bd07eb
+43f71e77,Jorge Molina,19,ESP,FW,35-295,6,0,0,0,0,0,0,0,0,4,1,0,0,0.0,0.0,0.0,1,0,1,1,100.0,0,4,0,2,0,Getafe,2018-02-11 Barcelona-Getafe,ESP-LALIGA,17-18,22bd07eb
+79135368,Fayçal Fajr,21,MAR,CM,29-194,90,0,0,0,0,1,0,0,0,45,5,2,0,0.0,0.0,0.0,1,0,25,36,69.4,1,12,0,0,0,Getafe,2018-02-11 Barcelona-Getafe,ESP-LALIGA,17-18,22bd07eb
+58afe001,Mauro Arambarri,18,URU,CM,22-134,90,0,0,0,0,1,0,1,0,24,1,4,1,0.0,0.0,0.0,0,0,10,19,52.6,0,18,0,1,1,Getafe,2018-02-11 Barcelona-Getafe,ESP-LALIGA,17-18,22bd07eb
+8e010ff4,Francisco Portillo,12,ESP,RM,27-243,90,0,0,0,0,0,0,0,0,30,0,2,1,0.0,0.0,0.0,2,0,14,20,70.0,4,18,0,3,1,Getafe,2018-02-11 Barcelona-Getafe,ESP-LALIGA,17-18,22bd07eb
+3e4f735d,Vitorino Antunes,3,POR,LB,30-316,90,0,0,0,0,2,1,1,0,40,3,1,5,0.1,0.1,0.1,3,0,12,27,44.4,0,14,1,0,0,Getafe,2018-02-11 Barcelona-Getafe,ESP-LALIGA,17-18,22bd07eb
+f11fe861,Bruno González,4,ESP,CB,27-263,90,0,0,0,0,0,0,0,0,23,2,2,2,0.0,0.0,0.0,1,0,5,7,71.4,0,5,0,0,0,Getafe,2018-02-11 Barcelona-Getafe,ESP-LALIGA,17-18,22bd07eb
+a4971d84,Djené,2,TOG,CB,26-042,90,0,0,0,0,2,0,0,0,25,2,5,1,0.1,0.1,0.0,0,0,6,9,66.7,2,2,0,0,0,Getafe,2018-02-11 Barcelona-Getafe,ESP-LALIGA,17-18,22bd07eb
+ba5004e1,Damián Suárez,22,URU,RB,29-290,90,0,0,0,0,0,0,0,0,35,2,3,2,0.0,0.0,0.0,1,0,14,24,58.3,3,10,0,3,1,Getafe,2018-02-11 Barcelona-Getafe,ESP-LALIGA,17-18,22bd07eb
+ab13a5aa,Vicente Guaita,13,ESP,GK,31-032,90,0,0,0,0,0,0,1,0,34,0,0,0,0.0,0.0,0.0,0,0,6,30,20.0,0,14,0,0,0,Getafe,2018-02-11 Barcelona-Getafe,ESP-LALIGA,17-18,22bd07eb

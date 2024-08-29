@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+cbbfa2e7,Fyodor Smolov,9,RUS,FW,30-133,90,0,0,0,0,3,1,0,0,29,0,1,0,0.4,0.4,0.0,2,1,17,20,85.0,0,19,2,1,0,Celta Vigo,2020-06-21 Celta Vigo-Alavés,ESP-LALIGA,19-20,105ec758
+12c50af5,Denis Suárez,6,ESP,"LW,LM",26-167,90,0,2,0,0,3,2,0,0,84,2,0,0,0.2,0.2,0.2,6,3,57,73,78.1,10,66,8,4,3,Celta Vigo,2020-06-21 Celta Vigo-Alavés,ESP-LALIGA,19-20,105ec758
+7dcf86f6,Iago Aspas,10,ESP,RW,32-325,64,1,0,1,1,0,0,0,0,47,0,1,0,0.8,0.0,0.2,4,0,31,38,81.6,3,36,3,2,1,Celta Vigo,2020-06-21 Celta Vigo-Alavés,ESP-LALIGA,19-20,105ec758
+c9e39d91,Brais Méndez,23,ESP,RM,23-166,26,0,0,0,0,0,0,0,0,27,0,0,0,0.0,0.0,0.0,0,0,21,22,95.5,3,22,2,4,0,Celta Vigo,2020-06-21 Celta Vigo-Alavés,ESP-LALIGA,19-20,105ec758
+0c2ac3cb,Rafinha,12,BRA,LM,27-130,45,2,0,0,0,2,2,0,0,41,2,1,1,0.1,0.1,0.0,2,1,28,33,84.8,3,29,1,4,3,Celta Vigo,2020-06-21 Celta Vigo-Alavés,ESP-LALIGA,19-20,105ec758
+b2d0ec1b,Nolito,3,ESP,"LW,LM",33-250,45,1,1,1,1,0,0,0,0,43,1,0,0,0.8,0.0,0.4,3,1,29,38,76.3,6,28,2,2,2,Celta Vigo,2020-06-21 Celta Vigo-Alavés,ESP-LALIGA,19-20,105ec758
+e49ce451,Okay Yokuşlu,5,TUR,CM,26-104,45,0,0,0,0,3,1,1,0,29,3,0,0,0.3,0.3,0.3,2,1,18,20,90.0,0,15,0,0,0,Celta Vigo,2020-06-21 Celta Vigo-Alavés,ESP-LALIGA,19-20,105ec758
+605873e1,Filip Bradarić,14,CRO,CM,28-162,45,0,0,0,0,0,0,0,0,49,1,0,0,0.0,0.0,0.0,0,0,41,45,91.1,4,34,0,2,1,Celta Vigo,2020-06-21 Celta Vigo-Alavés,ESP-LALIGA,19-20,105ec758
+ed5c5fa3,Fran Beltrán,8,ESP,RM,21-139,63,0,0,0,0,0,0,0,0,29,0,0,0,0.0,0.0,0.1,0,0,21,25,84.0,1,20,0,0,0,Celta Vigo,2020-06-21 Celta Vigo-Alavés,ESP-LALIGA,19-20,105ec758
+0b90bb97,Santi Mina,22,ESP,RW,24-197,27,1,0,0,0,1,1,0,0,14,0,0,0,0.4,0.4,0.0,0,0,10,11,90.9,0,8,0,0,0,Celta Vigo,2020-06-21 Celta Vigo-Alavés,ESP-LALIGA,19-20,105ec758
+4cee5954,Lucas Olaza,15,URU,LB,25-336,90,0,0,0,0,0,0,0,0,66,0,0,1,0.0,0.0,0.2,3,0,58,63,92.1,4,49,4,1,1,Celta Vigo,2020-06-21 Celta Vigo-Alavés,ESP-LALIGA,19-20,105ec758
+27a013f7,Néstor Araujo,4,MEX,CB,28-297,90,0,0,0,0,0,0,0,0,81,1,0,0,0.0,0.0,0.0,1,1,78,78,100.0,5,65,0,0,0,Celta Vigo,2020-06-21 Celta Vigo-Alavés,ESP-LALIGA,19-20,105ec758
+b233e8e4,Jeison Murillo,21,COL,CB,28-025,71,1,0,0,0,1,1,0,0,74,0,0,0,0.1,0.1,0.0,1,0,64,70,91.4,0,50,0,0,0,Celta Vigo,2020-06-21 Celta Vigo-Alavés,ESP-LALIGA,19-20,105ec758
+18abe173,Joseph Aidoo,18,GHA,CB,24-266,19,0,0,0,0,0,0,0,0,17,0,1,0,0.0,0.0,0.0,0,0,13,15,86.7,0,13,0,0,0,Celta Vigo,2020-06-21 Celta Vigo-Alavés,ESP-LALIGA,19-20,105ec758
+ee923664,Kevin Vázquez,20,ESP,RB,27-090,90,0,0,0,0,0,0,0,0,67,3,1,0,0.0,0.0,0.0,4,3,51,58,87.9,5,36,4,3,1,Celta Vigo,2020-06-21 Celta Vigo-Alavés,ESP-LALIGA,19-20,105ec758
+967f34d3,Rubén Blanco,13,ESP,GK,24-332,90,0,0,0,0,0,0,0,0,20,0,0,0,0.0,0.0,0.0,0,0,16,18,88.9,0,9,0,0,0,Celta Vigo,2020-06-21 Celta Vigo-Alavés,ESP-LALIGA,19-20,105ec758
+6265208f,Joselu,9,ESP,FW,30-086,58,0,0,0,0,2,1,0,0,22,0,0,0,0.1,0.1,0.0,1,0,10,17,58.8,1,15,0,1,0,Alavés,2020-06-21 Celta Vigo-Alavés,ESP-LALIGA,19-20,105ec758
+f631c17f,Oliver Burke,24,SCO,FW,23-075,32,0,0,0,0,1,1,0,0,9,0,0,1,0.1,0.1,0.0,0,0,3,6,50.0,0,4,0,0,0,Alavés,2020-06-21 Celta Vigo-Alavés,ESP-LALIGA,19-20,105ec758
+a300ac7e,Lucas Pérez,7,ESP,FW,31-285,45,0,0,0,0,0,0,1,0,11,1,0,0,0.0,0.0,0.0,1,0,6,10,60.0,0,6,0,0,0,Alavés,2020-06-21 Celta Vigo-Alavés,ESP-LALIGA,19-20,105ec758
+f20fce1b,Paulino,32,ESP,FW,22-360,45,0,0,0,0,0,0,0,0,15,0,0,1,0.0,0.0,0.0,0,0,6,11,54.5,0,12,1,1,1,Alavés,2020-06-21 Celta Vigo-Alavés,ESP-LALIGA,19-20,105ec758
+aed746df,Édgar Méndez,16,ESP,LM,30-171,82,0,0,0,0,1,0,0,0,22,1,0,0,0.0,0.0,0.1,3,0,10,13,76.9,3,19,2,2,2,Alavés,2020-06-21 Celta Vigo-Alavés,ESP-LALIGA,19-20,105ec758
+eb3dd471,Luis Rioja,11,ESP,LM,26-249,8,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,3,4,75.0,1,4,1,2,1,Alavés,2020-06-21 Celta Vigo-Alavés,ESP-LALIGA,19-20,105ec758
+29b61deb,Pere Pons,20,ESP,CM,27-122,90,0,0,0,0,0,0,0,0,28,5,2,0,0.0,0.0,0.0,0,0,15,22,68.2,1,15,0,1,0,Alavés,2020-06-21 Celta Vigo-Alavés,ESP-LALIGA,19-20,105ec758
+874d7a32,Ljubomir Fejsa,15,SRB,CM,31-312,90,0,0,0,0,0,0,0,0,37,1,0,1,0.0,0.0,0.0,0,0,26,30,86.7,1,19,0,0,0,Alavés,2020-06-21 Celta Vigo-Alavés,ESP-LALIGA,19-20,105ec758
+1b40049a,Borja Sainz,29,ESP,RM,19-141,30,0,0,0,0,0,0,0,0,12,0,0,1,0.0,0.0,0.0,0,0,5,6,83.3,1,9,0,2,0,Alavés,2020-06-21 Celta Vigo-Alavés,ESP-LALIGA,19-20,105ec758
+8db394aa,Ximo Navarro,23,ESP,"RB,RM",30-150,60,0,0,0,0,0,0,0,0,25,0,2,0,0.0,0.0,0.0,0,0,13,17,76.5,1,15,0,0,0,Alavés,2020-06-21 Celta Vigo-Alavés,ESP-LALIGA,19-20,105ec758
+e9ada8cf,Javi López,28,ESP,LB,18-088,90,0,0,0,0,0,0,0,0,47,6,1,1,0.0,0.0,0.0,0,0,18,30,60.0,2,14,1,3,2,Alavés,2020-06-21 Celta Vigo-Alavés,ESP-LALIGA,19-20,105ec758
+01a49bd2,Lisandro Magallán,6,ARG,CB,26-268,90,0,0,0,0,0,0,0,0,37,6,2,0,0.0,0.0,0.1,1,0,17,24,70.8,4,15,1,0,0,Alavés,2020-06-21 Celta Vigo-Alavés,ESP-LALIGA,19-20,105ec758
+b7c99b9b,Víctor Laguardia,5,ESP,CB,30-229,45,0,0,0,0,0,0,0,0,12,0,1,0,0.0,0.0,0.0,0,0,8,9,88.9,1,5,0,0,0,Alavés,2020-06-21 Celta Vigo-Alavés,ESP-LALIGA,19-20,105ec758
+fd47b4f2,Rodrigo Ely,4,BRA,CB,26-231,45,0,0,0,0,0,0,0,0,17,1,0,1,0.0,0.0,0.0,1,0,10,13,76.9,1,8,0,1,1,Alavés,2020-06-21 Celta Vigo-Alavés,ESP-LALIGA,19-20,105ec758
+355c883a,Martin Agirregabiria,21,ESP,RB,24-042,26,0,0,0,0,0,0,0,1,14,1,2,0,0.0,0.0,0.0,0,0,5,9,55.6,0,4,0,1,0,Alavés,2020-06-21 Celta Vigo-Alavés,ESP-LALIGA,19-20,105ec758
+ba3ca78f,Roberto,13,ESP,GK,34-132,90,0,0,0,0,0,0,0,0,26,0,0,0,0.0,0.0,0.0,1,0,11,20,55.0,0,11,0,0,0,Alavés,2020-06-21 Celta Vigo-Alavés,ESP-LALIGA,19-20,105ec758

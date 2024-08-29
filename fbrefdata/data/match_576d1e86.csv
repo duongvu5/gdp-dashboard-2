@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+d3de9af0,Duván Zapata,91,COL,FW,32-336,83,0,0,0,0,2,0,0,0,37,1,0,1,0.2,0.2,0.0,2,0,11,18,61.1,0,23,2,5,1,Torino,2024-03-02 Torino-Fiorentina,ITA-SERIA_A,23-24,576d1e86
+a44d3a3c,Pietro Pellegri,11,ITA,FW,22-351,7,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,1,3,33.3,0,3,0,0,0,Torino,2024-03-02 Torino-Fiorentina,ITA-SERIA_A,23-24,576d1e86
+0a447501,Antonio Sanabria,9,PAR,FW,27-364,45,0,0,0,0,1,0,0,0,17,0,0,0,0.2,0.2,0.0,0,0,9,12,75.0,1,10,0,1,0,Torino,2024-03-02 Torino-Fiorentina,ITA-SERIA_A,23-24,576d1e86
+548bd0de,Gvidas Gineitis,66,LTU,CM,19-322,45,0,0,0,0,1,0,0,0,17,0,0,1,0.1,0.1,0.1,3,0,9,14,64.3,2,5,1,1,1,Torino,2024-03-02 Torino-Fiorentina,ITA-SERIA_A,23-24,576d1e86
+aa8e289e,Nikola Vlašić,16,CRO,AM,26-150,90,0,0,0,0,1,1,0,0,32,0,1,1,0.1,0.1,0.0,3,0,22,22,100.0,4,15,1,1,0,Torino,2024-03-02 Torino-Fiorentina,ITA-SERIA_A,23-24,576d1e86
+bb376bed,Ivan Ilić,8,SRB,CM,22-351,8,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,1,0,0,0,Torino,2024-03-02 Torino-Fiorentina,ITA-SERIA_A,23-24,576d1e86
+9823be92,Samuele Ricci,28,ITA,CM,22-194,36,0,0,0,0,0,0,2,1,19,0,0,0,0.0,0.0,0.2,2,0,13,16,81.3,1,10,0,0,0,Torino,2024-03-02 Torino-Fiorentina,ITA-SERIA_A,23-24,576d1e86
+d023d70f,Karol Linetty,77,POL,CM,29-029,86,0,0,0,0,0,0,0,0,22,3,1,1,0.0,0.0,0.0,0,0,10,14,71.4,0,6,0,1,0,Torino,2024-03-02 Torino-Fiorentina,ITA-SERIA_A,23-24,576d1e86
+645dffbf,Saba Sazonov,15,GEO,CM,22-030,4,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Torino,2024-03-02 Torino-Fiorentina,ITA-SERIA_A,23-24,576d1e86
+7f78ad23,Ricardo Rodríguez,13,SUI,WB,31-190,90,0,0,0,0,1,0,0,0,19,0,0,1,0.0,0.0,0.0,1,0,12,15,80.0,1,11,0,0,0,Torino,2024-03-02 Torino-Fiorentina,ITA-SERIA_A,23-24,576d1e86
+e3756e72,Raoul Bellanova,19,ITA,WB,23-290,90,0,0,0,0,1,1,0,0,40,0,0,2,0.1,0.1,0.1,1,0,23,30,76.7,2,24,5,3,1,Torino,2024-03-02 Torino-Fiorentina,ITA-SERIA_A,23-24,576d1e86
+de0f152c,Adam Masina,5,MAR,CB,30-060,90,0,0,0,0,1,0,0,0,43,0,0,3,0.0,0.0,0.1,1,0,26,36,72.2,2,28,0,0,0,Torino,2024-03-02 Torino-Fiorentina,ITA-SERIA_A,23-24,576d1e86
+4ae67f27,Alessandro Buongiorno,4,ITA,CB,24-270,90,0,0,0,0,0,0,0,0,29,2,2,0,0.0,0.0,0.0,0,0,11,16,68.8,1,10,0,0,0,Torino,2024-03-02 Torino-Fiorentina,ITA-SERIA_A,23-24,576d1e86
+933d3b51,Koffi Djidji,26,CIV,CB,31-093,90,0,0,0,0,0,0,0,0,37,3,0,3,0.0,0.0,0.0,0,0,25,27,92.6,0,22,0,0,0,Torino,2024-03-02 Torino-Fiorentina,ITA-SERIA_A,23-24,576d1e86
+9fa26bc2,Vanja Milinković-Savić,32,SRB,GK,27-011,90,0,0,0,0,0,0,0,0,50,0,0,0,0.0,0.0,0.0,0,0,21,48,43.8,0,24,0,0,0,Torino,2024-03-02 Torino-Fiorentina,ITA-SERIA_A,23-24,576d1e86
+d705ba44,Andrea Belotti,20,ITA,FW,30-073,90,0,0,0,0,3,0,0,0,30,2,0,1,0.2,0.2,0.0,1,0,13,17,76.5,3,13,0,1,0,Fiorentina,2024-03-02 Torino-Fiorentina,ITA-SERIA_A,23-24,576d1e86
+94816803,Riccardo Sottil,7,ITA,LW,24-273,67,0,0,0,0,1,0,0,0,24,0,0,0,0.1,0.1,0.0,2,0,18,21,85.7,2,20,2,0,0,Fiorentina,2024-03-02 Torino-Fiorentina,ITA-SERIA_A,23-24,576d1e86
+42eaa028,Jonathan Ikone,11,FRA,"LW,LM",25-305,23,0,0,0,0,0,0,0,0,12,0,0,0,0.0,0.0,0.0,3,0,9,12,75.0,1,9,1,1,1,Fiorentina,2024-03-02 Torino-Fiorentina,ITA-SERIA_A,23-24,576d1e86
+2374aaca,Nicolás González,10,ARG,"RW,RM",25-331,90,0,0,0,0,4,2,0,0,41,0,0,1,0.2,0.2,0.1,4,0,22,32,68.8,8,33,3,3,2,Fiorentina,2024-03-02 Torino-Fiorentina,ITA-SERIA_A,23-24,576d1e86
+482d2bc3,Lucas Beltrán,9,ARG,AM,22-339,45,0,0,0,0,0,0,1,0,13,1,1,0,0.0,0.0,0.0,0,0,9,11,81.8,2,8,0,0,0,Fiorentina,2024-03-02 Torino-Fiorentina,ITA-SERIA_A,23-24,576d1e86
+01efac19,Antonín Barák,72,CZE,"AM,CM",29-090,45,0,0,0,0,2,0,1,0,25,1,0,0,0.1,0.1,0.1,3,0,20,20,100.0,2,20,1,0,0,Fiorentina,2024-03-02 Torino-Fiorentina,ITA-SERIA_A,23-24,576d1e86
+48b3dd60,Arthur Melo,6,BRA,DM,27-203,45,0,0,0,0,0,0,1,0,26,0,0,0,0.0,0.0,0.0,0,0,22,27,81.5,3,25,0,0,0,Fiorentina,2024-03-02 Torino-Fiorentina,ITA-SERIA_A,23-24,576d1e86
+20094685,Maxime Lopez,8,FRA,"DM,CM",26-089,45,0,0,0,0,0,0,0,0,62,1,0,0,0.0,0.0,0.1,3,0,58,61,95.1,4,53,3,0,0,Fiorentina,2024-03-02 Torino-Fiorentina,ITA-SERIA_A,23-24,576d1e86
+d995ed27,Giacomo Bonaventura,5,ITA,DM,34-193,84,0,0,0,0,2,1,0,0,38,6,0,0,0.1,0.1,0.0,3,0,23,30,76.7,4,26,5,1,1,Fiorentina,2024-03-02 Torino-Fiorentina,ITA-SERIA_A,23-24,576d1e86
+a4948e67,M'Bala Nzola,18,ANG,FW,27-197,6,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.1,1,0,2,3,66.7,0,4,0,0,0,Fiorentina,2024-03-02 Torino-Fiorentina,ITA-SERIA_A,23-24,576d1e86
+9e1577aa,Cristiano Biraghi,3,ITA,LB,31-183,90,0,0,0,0,0,0,0,0,60,2,0,2,0.0,0.0,0.2,3,0,41,54,75.9,0,34,0,0,0,Fiorentina,2024-03-02 Torino-Fiorentina,ITA-SERIA_A,23-24,576d1e86
+8c63fae5,Luca Ranieri,16,ITA,CB,24-314,53,0,0,0,0,0,0,1,0,35,0,0,0,0.0,0.0,0.0,0,0,27,32,84.4,6,26,2,0,0,Fiorentina,2024-03-02 Torino-Fiorentina,ITA-SERIA_A,23-24,576d1e86
+c7259b83,Rolando Mandragora,38,ITA,CB,26-247,37,0,0,0,0,1,0,0,0,37,0,0,0,0.0,0.0,0.1,1,0,28,33,84.8,2,23,1,0,0,Fiorentina,2024-03-02 Torino-Fiorentina,ITA-SERIA_A,23-24,576d1e86
+bee704fc,Nikola Milenković,4,SRB,CB,26-142,90,0,0,0,0,0,0,0,0,78,1,2,0,0.0,0.0,0.0,0,0,62,72,86.1,2,51,2,0,0,Fiorentina,2024-03-02 Torino-Fiorentina,ITA-SERIA_A,23-24,576d1e86
+e19660a8,Michael Kayode,33,ITA,RB,19-236,90,0,0,0,0,1,0,0,0,47,1,0,0,0.0,0.0,0.0,1,0,33,43,76.7,2,33,2,0,0,Fiorentina,2024-03-02 Torino-Fiorentina,ITA-SERIA_A,23-24,576d1e86
+e1b0a70d,Pietro Terracciano,1,ITA,GK,33-360,90,0,0,0,0,0,0,0,0,39,0,0,0,0.0,0.0,0.0,0,0,27,37,73.0,0,21,0,0,0,Fiorentina,2024-03-02 Torino-Fiorentina,ITA-SERIA_A,23-24,576d1e86

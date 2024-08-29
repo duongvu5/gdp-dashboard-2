@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+8c90fd7a,Victor Osimhen,9,NGA,FW,25-065,90,0,0,0,1,0,0,0,0,18,0,0,0,0.8,0.0,0.0,3,1,5,9,55.6,0,11,0,1,0,Napoli,2024-03-03 Napoli-Juventus,ITA-SERIA_A,23-24,51db492f
+dea88efd,Khvicha Kvaratskhelia,77,GEO,LW,23-020,89,1,0,0,0,3,2,0,0,58,0,0,0,0.2,0.2,0.0,3,0,38,43,88.4,4,43,4,4,2,Napoli,2024-03-03 Napoli-Juventus,ITA-SERIA_A,23-24,51db492f
+37dc1a48,Jesper Lindstrøm,29,DEN,LW,24-003,1,0,0,0,0,0,0,0,0,2,0,0,1,0.0,0.0,0.0,0,0,1,1,100.0,0,0,0,0,0,Napoli,2024-03-03 Napoli-Juventus,ITA-SERIA_A,23-24,51db492f
+5e861944,Matteo Politano,21,ITA,RW,30-213,64,0,0,0,0,2,1,0,0,50,2,0,0,0.2,0.2,0.0,4,1,35,44,79.5,3,38,5,0,0,Napoli,2024-03-03 Napoli-Juventus,ITA-SERIA_A,23-24,51db492f
+6e058f06,Giacomo Raspadori,81,ITA,RW,24-014,26,1,0,0,0,1,1,0,0,15,1,0,0,0.6,0.0,0.0,1,0,10,13,76.9,0,12,0,0,0,Napoli,2024-03-03 Napoli-Juventus,ITA-SERIA_A,23-24,51db492f
+570bb4b9,Hamed Junior Traorè,8,CIV,LM,24-016,64,0,0,0,0,2,1,1,0,48,0,1,2,0.1,0.1,0.4,3,0,31,39,79.5,4,33,4,2,1,Napoli,2024-03-03 Napoli-Juventus,ITA-SERIA_A,23-24,51db492f
+a5296e55,Piotr Zieliński,20,POL,LM,29-288,26,0,0,0,0,0,0,0,0,19,0,0,0,0.0,0.0,0.0,0,0,17,19,89.5,0,10,1,0,0,Napoli,2024-03-03 Napoli-Juventus,ITA-SERIA_A,23-24,51db492f
+e1cbb531,Stanislav Lobotka,68,SVK,CM,29-099,90,0,0,0,0,0,0,0,0,74,3,0,1,0.0,0.0,0.0,0,0,60,65,92.3,3,47,1,0,0,Napoli,2024-03-03 Napoli-Juventus,ITA-SERIA_A,23-24,51db492f
+6bb2c084,Andre-Frank Zambo Anguissa,99,CMR,RM,28-108,90,0,0,0,0,2,1,0,0,71,0,0,3,0.6,0.6,0.1,4,0,52,60,86.7,7,43,1,2,0,Napoli,2024-03-03 Napoli-Juventus,ITA-SERIA_A,23-24,51db492f
+41c12f75,Mathías Olivera,17,URU,LB,26-124,90,0,0,0,0,1,0,0,0,89,0,2,1,0.1,0.1,0.0,2,0,75,83,90.4,5,59,1,0,0,Napoli,2024-03-03 Napoli-Juventus,ITA-SERIA_A,23-24,51db492f
+79083382,Juan Jesus,5,BRA,CB,32-267,90,0,0,0,0,0,0,0,0,77,2,1,1,0.0,0.0,0.0,0,0,62,71,87.3,3,47,0,0,0,Napoli,2024-03-03 Napoli-Juventus,ITA-SERIA_A,23-24,51db492f
+4b3e1a38,Amir Rrahmani,13,KVX,CB,30-008,64,0,0,0,0,0,0,0,0,79,1,2,1,0.0,0.0,0.0,0,0,70,73,95.9,4,57,0,0,0,Napoli,2024-03-03 Napoli-Juventus,ITA-SERIA_A,23-24,51db492f
+b35a7399,Leo Skiri Østigård,55,NOR,CB,24-096,26,0,0,0,0,0,0,0,0,17,0,0,0,0.0,0.0,0.0,0,0,16,17,94.1,2,11,0,0,0,Napoli,2024-03-03 Napoli-Juventus,ITA-SERIA_A,23-24,51db492f
+230a2fac,Giovanni Di Lorenzo,22,ITA,RB,30-212,90,0,0,0,0,2,0,0,0,126,2,2,2,0.2,0.2,0.2,5,1,96,110,87.3,11,80,1,3,0,Napoli,2024-03-03 Napoli-Juventus,ITA-SERIA_A,23-24,51db492f
+9413b19f,Alex Meret,1,ITA,GK,26-347,90,0,0,0,0,0,0,0,0,48,0,0,0,0.0,0.0,0.0,0,0,40,48,83.3,0,35,0,0,0,Napoli,2024-03-03 Napoli-Juventus,ITA-SERIA_A,23-24,51db492f
+b0f7e36c,Federico Chiesa,7,ITA,"FW,RM",26-130,90,1,0,0,0,3,1,0,0,27,0,0,2,0.1,0.1,0.5,8,1,15,20,75.0,4,17,4,1,1,Juventus,2024-03-03 Napoli-Juventus,ITA-SERIA_A,23-24,51db492f
+79443529,Dušan Vlahović,9,SRB,FW,24-035,90,0,0,0,0,6,1,1,0,27,1,0,0,0.6,0.6,0.1,3,0,9,16,56.3,1,17,1,3,2,Juventus,2024-03-03 Napoli-Juventus,ITA-SERIA_A,23-24,51db492f
+34693494,Fabio Miretti,20,ITA,CM,20-213,75,0,0,0,0,1,0,0,0,38,2,0,2,0.0,0.0,0.1,5,0,19,24,79.2,3,17,2,3,3,Juventus,2024-03-03 Napoli-Juventus,ITA-SERIA_A,23-24,51db492f
+23d73767,Joseph Nonge,47,BEL,CM,18-293,14,0,0,0,0,0,0,1,0,3,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,1,2,1,1,0,Juventus,2024-03-03 Napoli-Juventus,ITA-SERIA_A,23-24,51db492f
+94b2001f,Danilo,6,BRA,RB,32-232,1,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,1,0,0,0,Juventus,2024-03-03 Napoli-Juventus,ITA-SERIA_A,23-24,51db492f
+a8a874f1,Manuel Locatelli,5,ITA,"CM,DM",26-055,90,0,0,0,0,1,0,0,0,44,2,2,1,0.1,0.1,0.2,3,0,33,36,91.7,4,21,0,1,0,Juventus,2024-03-03 Napoli-Juventus,ITA-SERIA_A,23-24,51db492f
+4abac767,Carlos Alcaraz,26,ARG,CM,21-094,89,0,1,0,0,2,1,0,0,30,1,1,1,0.1,0.1,0.0,1,1,16,21,76.2,3,17,0,1,1,Juventus,2024-03-03 Napoli-Juventus,ITA-SERIA_A,23-24,51db492f
+85613cf0,Arkadiusz Milik,14,POL,"FW,CM",30-004,1,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,0,0,Juventus,2024-03-03 Napoli-Juventus,ITA-SERIA_A,23-24,51db492f
+ba492306,Samuel Iling-Junior,17,ENG,WB,20-151,75,0,0,0,0,2,1,0,0,33,1,1,2,0.2,0.2,0.0,1,0,15,20,75.0,2,15,2,4,2,Juventus,2024-03-03 Napoli-Juventus,ITA-SERIA_A,23-24,51db492f
+d8cda243,Kenan Yıldız,15,TUR,"WB,CM",18-304,15,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.3,2,0,5,7,71.4,1,5,1,1,0,Juventus,2024-03-03 Napoli-Juventus,ITA-SERIA_A,23-24,51db492f
+247ed022,Andrea Cambiaso,27,ITA,WB,24-012,65,0,0,0,0,1,0,1,0,32,0,2,0,0.2,0.2,0.1,3,0,22,27,81.5,2,16,1,0,0,Juventus,2024-03-03 Napoli-Juventus,ITA-SERIA_A,23-24,51db492f
+8eec784d,Timothy Weah,22,USA,"WB,LM",24-010,25,0,0,0,0,0,0,0,0,10,1,0,1,0.0,0.0,0.0,0,0,7,7,100.0,1,1,0,0,0,Juventus,2024-03-03 Napoli-Juventus,ITA-SERIA_A,23-24,51db492f
+0d82903c,Alex Sandro,12,BRA,"CB,LB",33-037,90,0,0,0,0,1,0,0,0,43,3,1,2,0.1,0.1,0.0,2,0,25,34,73.5,4,23,1,0,0,Juventus,2024-03-03 Napoli-Juventus,ITA-SERIA_A,23-24,51db492f
+5fd5ed86,Gleison Bremer,3,BRA,CB,26-351,90,0,0,0,0,0,0,1,0,38,1,0,1,0.0,0.0,0.1,1,0,18,29,62.1,2,10,0,0,0,Juventus,2024-03-03 Napoli-Juventus,ITA-SERIA_A,23-24,51db492f
+14b8fcdf,Daniele Rugani,24,ITA,CB,29-218,90,0,0,0,0,1,0,0,0,31,2,0,0,0.3,0.3,0.3,1,0,18,25,72.0,0,12,0,0,0,Juventus,2024-03-03 Napoli-Juventus,ITA-SERIA_A,23-24,51db492f
+01b8a2b2,Wojciech Szczęsny,1,POL,GK,33-320,90,0,0,0,0,0,0,0,0,30,0,0,0,0.0,0.0,0.0,0,0,14,26,53.8,0,16,0,0,0,Juventus,2024-03-03 Napoli-Juventus,ITA-SERIA_A,23-24,51db492f

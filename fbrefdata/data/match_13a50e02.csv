@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+2ef7c612,Charles De Ketelaere,17,BEL,FW,22-205,81,0,0,0,0,1,0,0,0,33,0,0,0,0.0,0.0,0.0,2,0,18,25,72.0,1,30,5,6,5,Atalanta,2023-10-01 Atalanta-Juventus,ITA-SERIA_A,23-24,13a50e02
+e599253a,Mario Pašalić,8,CRO,AM,28-234,9,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,1,3,33.3,0,3,0,1,1,Atalanta,2023-10-01 Atalanta-Juventus,ITA-SERIA_A,23-24,13a50e02
+a26fb8aa,Teun Koopmeiners,7,NED,"AM,FW",25-215,90,0,0,0,0,3,0,0,0,57,2,0,0,0.4,0.4,0.0,3,0,37,49,75.5,6,37,2,0,0,Atalanta,2023-10-01 Atalanta-Juventus,ITA-SERIA_A,23-24,13a50e02
+7c104bb7,Ademola Lookman,11,NGA,AM,25-346,64,0,0,0,0,1,0,0,0,32,0,0,1,0.0,0.0,0.0,1,0,21,27,77.8,2,21,0,2,0,Atalanta,2023-10-01 Atalanta-Juventus,ITA-SERIA_A,23-24,13a50e02
+eb2fe5b6,Luis Muriel,9,COL,AM,32-168,26,0,0,0,0,2,2,0,0,22,0,0,0,0.1,0.1,0.2,6,0,11,16,68.8,1,15,2,0,0,Atalanta,2023-10-01 Atalanta-Juventus,ITA-SERIA_A,23-24,13a50e02
+2a1beb34,Marten de Roon,15,NED,CM,32-186,90,0,0,0,0,0,0,0,0,75,6,0,0,0.0,0.0,0.1,4,0,63,65,96.9,6,56,2,0,0,Atalanta,2023-10-01 Atalanta-Juventus,ITA-SERIA_A,23-24,13a50e02
+a9202def,Éderson,13,BRA,CM,24-086,90,0,0,0,0,4,0,0,0,73,1,1,0,0.2,0.2,0.0,3,0,57,64,89.1,9,56,3,2,2,Atalanta,2023-10-01 Atalanta-Juventus,ITA-SERIA_A,23-24,13a50e02
+ae9898c5,Matteo Ruggeri,22,ITA,WB,21-082,85,0,0,0,0,0,0,0,0,65,0,1,4,0.0,0.0,0.1,1,0,46,56,82.1,4,39,3,0,0,Atalanta,2023-10-01 Atalanta-Juventus,ITA-SERIA_A,23-24,13a50e02
+a8567629,Mitchel Bakker,20,NED,WB,23-103,5,0,0,0,0,0,0,0,0,6,1,0,0,0.0,0.0,0.1,1,0,3,4,75.0,1,4,1,0,0,Atalanta,2023-10-01 Atalanta-Juventus,ITA-SERIA_A,23-24,13a50e02
+7fe90ccd,Davide Zappacosta,77,ITA,WB,31-112,81,0,0,0,0,2,0,0,0,56,1,0,0,0.3,0.3,0.0,1,0,46,51,90.2,0,34,2,1,0,Atalanta,2023-10-01 Atalanta-Juventus,ITA-SERIA_A,23-24,13a50e02
+c2357b65,Emil Holm,3,SWE,WB,23-141,9,0,0,0,0,0,0,1,0,6,0,0,0,0.0,0.0,0.0,0,0,1,4,25.0,0,4,1,4,3,Atalanta,2023-10-01 Atalanta-Juventus,ITA-SERIA_A,23-24,13a50e02
+1e9aa637,Giorgio Scalvini,42,ITA,CB,19-294,64,0,0,0,0,0,0,0,0,58,3,2,1,0.0,0.0,0.0,2,0,43,50,86.0,3,42,3,1,1,Atalanta,2023-10-01 Atalanta-Juventus,ITA-SERIA_A,23-24,13a50e02
+3935e52e,Sead Kolašinac,23,BIH,CB,30-103,26,0,0,0,0,1,0,0,0,19,0,0,0,0.1,0.1,0.0,1,0,14,18,77.8,1,14,0,0,0,Atalanta,2023-10-01 Atalanta-Juventus,ITA-SERIA_A,23-24,13a50e02
+6eee05f1,Berat Djimsiti,19,ALB,CB,30-224,90,0,0,0,0,1,0,0,0,73,1,2,0,0.1,0.1,0.0,1,0,61,64,95.3,0,54,0,0,0,Atalanta,2023-10-01 Atalanta-Juventus,ITA-SERIA_A,23-24,13a50e02
+c56dc39e,Rafael Tolói,2,ITA,CB,32-356,90,0,0,0,0,0,0,0,0,80,2,1,0,0.0,0.0,0.0,0,0,62,72,86.1,7,60,3,1,1,Atalanta,2023-10-01 Atalanta-Juventus,ITA-SERIA_A,23-24,13a50e02
+a111cf41,Juan Musso,1,ARG,GK,29-148,90,0,0,0,0,0,0,0,0,26,0,0,0,0.0,0.0,0.0,0,0,18,24,75.0,0,19,0,0,0,Atalanta,2023-10-01 Atalanta-Juventus,ITA-SERIA_A,23-24,13a50e02
+b0f7e36c,Federico Chiesa,7,ITA,FW,25-341,90,0,0,0,0,3,1,0,0,38,0,0,0,0.1,0.1,0.0,4,0,21,26,80.8,2,26,1,6,2,Juventus,2023-10-01 Atalanta-Juventus,ITA-SERIA_A,23-24,13a50e02
+3d50bcdb,Moise Kean,18,ITA,FW,23-215,74,0,0,0,0,1,1,0,0,20,1,0,0,0.0,0.0,0.0,1,0,5,9,55.6,0,10,1,4,1,Juventus,2023-10-01 Atalanta-Juventus,ITA-SERIA_A,23-24,13a50e02
+d8cda243,Kenan Yıldız,15,TUR,FW,18-150,16,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,3,5,60.0,0,5,0,0,0,Juventus,2023-10-01 Atalanta-Juventus,ITA-SERIA_A,23-24,13a50e02
+247ed022,Andrea Cambiaso,27,ITA,LW,23-223,67,0,0,0,0,0,0,0,0,48,1,0,2,0.0,0.0,0.0,1,0,38,43,88.4,1,25,1,0,0,Juventus,2023-10-01 Atalanta-Juventus,ITA-SERIA_A,23-24,13a50e02
+b1cd37e6,Filip Kostić,11,SRB,LW,30-334,23,0,0,0,0,0,0,0,0,23,1,0,0,0.0,0.0,0.0,0,0,15,20,75.0,5,14,1,1,0,Juventus,2023-10-01 Atalanta-Juventus,ITA-SERIA_A,23-24,13a50e02
+01c3aff5,Weston McKennie,16,USA,RW,25-034,83,0,0,0,0,0,0,0,0,53,1,1,1,0.0,0.0,0.0,0,0,34,44,77.3,1,27,1,0,0,Juventus,2023-10-01 Atalanta-Juventus,ITA-SERIA_A,23-24,13a50e02
+8eec784d,Timothy Weah,22,USA,RW,23-221,7,0,0,0,0,0,0,0,0,6,0,0,1,0.0,0.0,0.0,0,0,4,6,66.7,0,5,0,0,0,Juventus,2023-10-01 Atalanta-Juventus,ITA-SERIA_A,23-24,13a50e02
+8794e251,Adrien Rabiot,25,FRA,CM,28-181,90,0,0,0,0,0,0,1,0,41,0,1,2,0.0,0.0,0.0,1,0,24,30,80.0,1,24,0,4,3,Juventus,2023-10-01 Atalanta-Juventus,ITA-SERIA_A,23-24,13a50e02
+366be751,Nicolò Fagioli,21,ITA,CM,22-231,67,0,0,0,0,1,1,0,0,42,1,1,1,0.1,0.1,0.0,0,0,32,37,86.5,2,24,2,0,0,Juventus,2023-10-01 Atalanta-Juventus,ITA-SERIA_A,23-24,13a50e02
+34693494,Fabio Miretti,20,ITA,CM,20-059,23,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,0,0,7,8,87.5,1,8,0,2,0,Juventus,2023-10-01 Atalanta-Juventus,ITA-SERIA_A,23-24,13a50e02
+a8a874f1,Manuel Locatelli,5,ITA,DM,25-266,90,0,0,0,0,0,0,0,0,72,0,1,0,0.0,0.0,0.0,1,0,63,69,91.3,5,47,0,0,0,Juventus,2023-10-01 Atalanta-Juventus,ITA-SERIA_A,23-24,13a50e02
+94b2001f,Danilo,6,BRA,CB,32-078,90,0,0,0,0,0,0,1,0,76,2,1,2,0.0,0.0,0.0,0,0,60,67,89.6,2,37,0,0,0,Juventus,2023-10-01 Atalanta-Juventus,ITA-SERIA_A,23-24,13a50e02
+5fd5ed86,Gleison Bremer,3,BRA,CB,26-197,83,0,0,0,0,0,0,0,0,79,1,1,1,0.0,0.0,0.0,0,0,61,69,88.4,2,50,0,0,0,Juventus,2023-10-01 Atalanta-Juventus,ITA-SERIA_A,23-24,13a50e02
+14b8fcdf,Daniele Rugani,24,ITA,CB,29-064,7,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,2,0,0,0,Juventus,2023-10-01 Atalanta-Juventus,ITA-SERIA_A,23-24,13a50e02
+18dd3219,Federico Gatti,4,ITA,CB,25-099,90,0,0,0,0,0,0,0,0,66,1,0,1,0.0,0.0,0.0,0,0,47,56,83.9,2,41,2,1,0,Juventus,2023-10-01 Atalanta-Juventus,ITA-SERIA_A,23-24,13a50e02
+01b8a2b2,Wojciech Szczęsny,1,POL,GK,33-166,90,0,0,0,0,0,0,0,0,52,0,0,0,0.0,0.0,0.0,0,0,46,50,92.0,0,34,0,0,0,Juventus,2023-10-01 Atalanta-Juventus,ITA-SERIA_A,23-24,13a50e02

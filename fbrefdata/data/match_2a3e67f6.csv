@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+8f696594,Memphis,9,NED,"FW,LW",27-246,90,1,1,1,1,2,0,0,0,54,0,0,0,0.9,0.1,0.2,6,1,32,44,72.7,4,26,3,8,6,Barcelona,2021-10-17 Barcelona-Valencia,ESP-LALIGA,21-22,2a3e67f6
+0ba976e4,Ansu Fati,10,ESP,LW,18-351,58,1,0,0,0,3,2,0,0,44,0,1,1,0.2,0.2,0.0,2,2,21,30,70.0,2,21,3,2,0,Barcelona,2021-10-17 Barcelona-Valencia,ESP-LALIGA,21-22,2a3e67f6
+0ef89a37,Philippe Coutinho,14,BRA,"LW,RW",29-127,32,1,0,0,0,3,1,0,0,29,0,1,0,0.6,0.6,0.3,2,0,17,22,77.3,4,21,2,0,0,Barcelona,2021-10-17 Barcelona-Valencia,ESP-LALIGA,21-22,2a3e67f6
+5976f83e,Sergiño Dest,2,USA,RW,20-348,86,0,1,0,0,0,0,0,0,45,1,0,3,0.0,0.0,0.4,4,1,31,36,86.1,5,27,2,5,4,Barcelona,2021-10-17 Barcelona-Valencia,ESP-LALIGA,21-22,2a3e67f6
+4d034881,Sergio Agüero,19,ARG,FW,33-137,4,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,1,2,1,0,0,Barcelona,2021-10-17 Barcelona-Valencia,ESP-LALIGA,21-22,2a3e67f6
+19cae58d,Gavi,30,ESP,LM,17-073,70,0,0,0,0,0,0,1,0,37,0,0,1,0.0,0.0,0.0,1,0,32,35,91.4,6,25,2,0,0,Barcelona,2021-10-17 Barcelona-Valencia,ESP-LALIGA,21-22,2a3e67f6
+2c56a792,Nicolás González,28,ESP,LM,19-287,20,0,0,0,0,0,0,0,0,11,1,0,0,0.0,0.0,0.0,0,0,9,9,100.0,0,5,1,0,0,Barcelona,2021-10-17 Barcelona-Valencia,ESP-LALIGA,21-22,2a3e67f6
+5ab0ea87,Sergio Busquets,5,ESP,CM,33-093,90,0,0,0,0,0,0,1,0,70,3,1,0,0.0,0.0,0.0,2,0,58,62,93.5,10,34,0,2,2,Barcelona,2021-10-17 Barcelona-Valencia,ESP-LALIGA,21-22,2a3e67f6
+1bacc518,Frenkie de Jong,21,NED,RM,24-158,90,0,0,0,0,1,1,0,0,57,1,0,0,0.3,0.3,0.0,2,0,42,47,89.4,4,34,6,4,4,Barcelona,2021-10-17 Barcelona-Valencia,ESP-LALIGA,21-22,2a3e67f6
+4601e194,Jordi Alba,18,ESP,LB,32-210,90,0,0,0,0,2,0,0,0,108,2,1,0,0.1,0.1,0.1,3,1,76,90,84.4,13,45,0,3,0,Barcelona,2021-10-17 Barcelona-Valencia,ESP-LALIGA,21-22,2a3e67f6
+2bed3eab,Eric García,24,ESP,CB,20-281,90,0,0,0,0,0,0,0,0,63,0,2,1,0.0,0.0,0.0,0,0,55,59,93.2,2,42,0,0,0,Barcelona,2021-10-17 Barcelona-Valencia,ESP-LALIGA,21-22,2a3e67f6
+adfc9123,Gerard Piqué,3,ESP,CB,34-257,90,0,0,0,0,0,0,0,0,53,0,0,1,0.0,0.0,0.0,0,0,45,48,93.8,1,28,0,0,0,Barcelona,2021-10-17 Barcelona-Valencia,ESP-LALIGA,21-22,2a3e67f6
+335fa267,Sergi Roberto,20,ESP,RB,29-252,70,0,0,0,0,0,0,0,0,43,3,0,0,0.0,0.0,0.0,0,0,36,38,94.7,2,21,1,0,0,Barcelona,2021-10-17 Barcelona-Valencia,ESP-LALIGA,21-22,2a3e67f6
+056269d7,Óscar Mingueza,22,ESP,RB,22-157,20,0,0,0,0,0,0,0,0,19,0,1,0,0.0,0.0,0.0,0,0,14,18,77.8,1,12,0,0,0,Barcelona,2021-10-17 Barcelona-Valencia,ESP-LALIGA,21-22,2a3e67f6
+6f51e382,Marc-André ter Stegen,1,GER,GK,29-170,90,0,0,0,0,0,0,0,0,38,0,1,0,0.0,0.0,0.0,0,0,31,36,86.1,0,24,0,0,0,Barcelona,2021-10-17 Barcelona-Valencia,ESP-LALIGA,21-22,2a3e67f6
+4c2e9442,Maxi Gómez,9,URU,FW,25-064,85,0,0,0,0,2,0,1,0,29,0,0,0,0.1,0.1,0.0,1,0,11,19,57.9,1,14,2,1,0,Valencia,2021-10-17 Barcelona-Valencia,ESP-LALIGA,21-22,2a3e67f6
+0bc4e720,Manu Vallejo,21,ESP,FW,24-245,5,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,1,0,0,0,Valencia,2021-10-17 Barcelona-Valencia,ESP-LALIGA,21-22,2a3e67f6
+e6bc67d7,Gonçalo Guedes,7,POR,"LM,LW",24-322,74,0,0,0,0,4,2,0,0,29,1,0,0,0.2,0.2,0.1,4,0,15,20,75.0,4,28,3,3,3,Valencia,2021-10-17 Barcelona-Valencia,ESP-LALIGA,21-22,2a3e67f6
+0ac94a23,Denis Cheryshev,17,RUS,LM,30-295,16,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Valencia,2021-10-17 Barcelona-Valencia,ESP-LALIGA,21-22,2a3e67f6
+d83bbc54,Daniel Wass,18,DEN,"CM,RB,DM",32-139,90,0,0,0,0,0,0,0,0,49,1,1,0,0.0,0.0,0.0,2,0,33,42,78.6,3,27,0,1,1,Valencia,2021-10-17 Barcelona-Valencia,ESP-LALIGA,21-22,2a3e67f6
+fed17f5a,Carlos Soler,10,ESP,"CM,RM,RW",24-288,90,0,0,0,0,2,0,0,0,34,3,1,0,0.2,0.2,0.0,2,0,17,25,68.0,3,22,2,2,0,Valencia,2021-10-17 Barcelona-Valencia,ESP-LALIGA,21-22,2a3e67f6
+37e103f8,Hugo Duro,19,ESP,RM,21-341,58,0,0,0,0,0,0,0,0,22,0,1,1,0.0,0.0,0.1,1,0,12,17,70.6,0,10,0,0,0,Valencia,2021-10-17 Barcelona-Valencia,ESP-LALIGA,21-22,2a3e67f6
+ae86d473,Marcos André,22,BRA,"FW,AM,RM",24-362,32,0,0,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.0,1,0,5,9,55.6,0,8,0,0,0,Valencia,2021-10-17 Barcelona-Valencia,ESP-LALIGA,21-22,2a3e67f6
+f7c12fbf,Hugo Guillamón,6,ESP,"DM,CM",21-259,85,0,0,0,0,0,0,0,0,53,1,0,0,0.0,0.0,0.0,4,1,39,46,84.8,2,31,0,1,1,Valencia,2021-10-17 Barcelona-Valencia,ESP-LALIGA,21-22,2a3e67f6
+f13d02a6,Hélder Costa,11,ANG,"RM,CM",27-278,5,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,1,2,1,0,0,Valencia,2021-10-17 Barcelona-Valencia,ESP-LALIGA,21-22,2a3e67f6
+b05e2dbd,José Luis Gayà,14,ESP,LB,26-145,90,1,0,0,0,1,1,1,0,52,2,3,1,0.0,0.0,0.0,1,0,35,42,83.3,2,19,0,0,0,Valencia,2021-10-17 Barcelona-Valencia,ESP-LALIGA,21-22,2a3e67f6
+d2110326,Mouctar Diakhaby,12,GUI,CB,24-302,90,0,0,0,0,0,0,0,0,53,2,4,4,0.0,0.0,0.0,0,0,36,39,92.3,4,32,3,0,0,Valencia,2021-10-17 Barcelona-Valencia,ESP-LALIGA,21-22,2a3e67f6
+b7ca5c51,Gabriel Paulista,5,BRA,CB,30-325,90,0,0,0,0,0,0,0,0,63,3,3,1,0.0,0.0,0.0,2,1,43,47,91.5,3,35,1,0,0,Valencia,2021-10-17 Barcelona-Valencia,ESP-LALIGA,21-22,2a3e67f6
+45e17712,Dimitri Foulquier,20,FRA,RB,28-208,74,0,0,0,0,0,0,1,0,42,2,1,0,0.0,0.0,0.0,0,0,23,35,65.7,2,22,3,3,1,Valencia,2021-10-17 Barcelona-Valencia,ESP-LALIGA,21-22,2a3e67f6
+b51b1b9c,Yunus Musah,4,USA,CM,18-322,16,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,3,6,50.0,1,2,2,4,3,Valencia,2021-10-17 Barcelona-Valencia,ESP-LALIGA,21-22,2a3e67f6
+04ac8285,Jasper Cillessen,13,NED,GK,32-178,90,0,0,0,0,0,0,0,0,38,0,1,0,0.0,0.0,0.0,0,0,23,33,69.7,0,20,0,0,0,Valencia,2021-10-17 Barcelona-Valencia,ESP-LALIGA,21-22,2a3e67f6

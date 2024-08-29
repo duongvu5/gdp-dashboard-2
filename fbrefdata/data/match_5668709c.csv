@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+819aa8e7,Ayoze Pérez,10,ESP,FW,30-064,71,0,0,0,0,2,1,1,0,16,1,0,0,0.2,0.2,0.4,2,0,6,12,50.0,3,12,1,0,0,Real Betis,2023-10-01 Betis-Valencia,ESP-LALIGA,23-24,5668709c
+75645f0e,Borja Iglesias,9,ESP,FW,30-257,19,0,0,0,0,0,0,0,0,5,0,1,0,0.0,0.0,0.1,1,0,3,4,75.0,1,4,1,0,0,Real Betis,2023-10-01 Betis-Valencia,ESP-LALIGA,23-24,5668709c
+85bed4ee,Rodri,17,ESP,"LW,RW",23-138,90,0,0,0,0,1,0,0,0,57,0,1,1,0.3,0.3,0.0,2,0,43,47,91.5,7,37,3,3,1,Real Betis,2023-10-01 Betis-Valencia,ESP-LALIGA,23-24,5668709c
+8ae7d0ec,Assane Diao,38,ESP,RW,18-024,71,1,0,0,0,1,1,0,0,46,3,0,1,0.3,0.3,0.1,1,0,29,33,87.9,3,34,3,8,3,Real Betis,2023-10-01 Betis-Valencia,ESP-LALIGA,23-24,5668709c
+bed68338,Abde Ezzalzouli,7,MAR,LW,21-288,19,1,0,0,0,2,1,0,0,13,0,0,1,0.2,0.2,0.2,2,1,6,6,100.0,1,9,2,2,1,Real Betis,2023-10-01 Betis-Valencia,ESP-LALIGA,23-24,5668709c
+a0b4bb3e,Isco,22,ESP,AM,31-163,61,0,1,0,0,3,2,0,0,46,0,0,1,0.1,0.1,0.3,6,2,29,37,78.4,7,25,2,2,2,Real Betis,2023-10-01 Betis-Valencia,ESP-LALIGA,23-24,5668709c
+dee86451,William Carvalho,14,POR,AM,31-177,29,0,1,0,0,0,0,0,0,28,0,0,0,0.0,0.0,0.1,2,1,20,26,76.9,1,18,2,2,1,Real Betis,2023-10-01 Betis-Valencia,ESP-LALIGA,23-24,5668709c
+da27e268,Marc Roca,21,ESP,DM,26-309,90,1,1,0,0,3,2,0,0,63,1,0,1,0.3,0.3,0.3,2,0,45,54,83.3,4,41,0,1,0,Real Betis,2023-10-01 Betis-Valencia,ESP-LALIGA,23-24,5668709c
+34e393f2,Guido Rodríguez,5,ARG,DM,29-172,87,0,0,0,0,1,0,0,0,52,0,1,0,0.0,0.0,0.0,0,0,40,45,88.9,2,24,0,0,0,Real Betis,2023-10-01 Betis-Valencia,ESP-LALIGA,23-24,5668709c
+94acdd4e,Sergi Altimira,27,ESP,DM,22-037,3,0,0,0,0,0,0,0,0,6,0,0,1,0.0,0.0,0.0,0,0,3,3,100.0,1,2,0,0,0,Real Betis,2023-10-01 Betis-Valencia,ESP-LALIGA,23-24,5668709c
+ead61f73,Juan Miranda,3,ESP,LB,23-255,90,0,0,0,0,0,0,0,0,56,1,0,0,0.0,0.0,0.0,0,0,38,46,82.6,5,32,0,1,0,Real Betis,2023-10-01 Betis-Valencia,ESP-LALIGA,23-24,5668709c
+b742cc0d,Marc Bartra,15,ESP,CB,32-259,45,0,0,0,0,1,0,0,0,48,0,1,0,0.1,0.1,0.0,2,1,37,43,86.0,1,37,0,0,0,Real Betis,2023-10-01 Betis-Valencia,ESP-LALIGA,23-24,5668709c
+b3b9b8b8,Chadi Riad,28,MAR,CB,20-106,45,0,0,0,0,0,0,0,0,29,2,0,0,0.0,0.0,0.0,0,0,19,21,90.5,2,16,0,0,0,Real Betis,2023-10-01 Betis-Valencia,ESP-LALIGA,23-24,5668709c
+8c725b43,Germán Pezzella,6,ARG,CB,32-096,90,0,0,0,0,1,0,1,0,79,4,0,1,0.1,0.1,0.1,3,0,65,69,94.2,6,54,0,1,1,Real Betis,2023-10-01 Betis-Valencia,ESP-LALIGA,23-24,5668709c
+f874dd44,Héctor Bellerín,2,ESP,RB,28-196,90,0,0,0,0,0,0,0,0,72,1,0,0,0.0,0.0,0.1,1,0,48,63,76.2,3,41,1,4,2,Real Betis,2023-10-01 Betis-Valencia,ESP-LALIGA,23-24,5668709c
+10072610,Claudio Bravo,1,CHI,GK,40-171,90,0,0,0,0,0,0,0,0,36,0,0,0,0.0,0.0,0.0,0,0,28,35,80.0,0,24,0,0,0,Real Betis,2023-10-01 Betis-Valencia,ESP-LALIGA,23-24,5668709c
+cb641b9d,Roman Yaremchuk,17,UKR,FW,27-308,45,0,0,0,0,0,0,0,0,18,0,0,0,0.0,0.0,0.1,1,0,13,15,86.7,2,4,0,1,0,Valencia,2023-10-01 Betis-Valencia,ESP-LALIGA,23-24,5668709c
+37e103f8,Hugo Duro,9,ESP,FW,23-325,45,0,0,0,0,1,0,0,0,20,0,0,1,0.2,0.2,0.0,0,0,11,14,78.6,0,14,2,2,1,Valencia,2023-10-01 Betis-Valencia,ESP-LALIGA,23-24,5668709c
+f33b6ee6,Pablo Gozalbez,27,ESP,LW,22-154,45,0,0,0,0,1,0,0,0,17,1,0,0,0.0,0.0,0.0,0,0,8,13,61.5,0,10,0,1,0,Valencia,2023-10-01 Betis-Valencia,ESP-LALIGA,23-24,5668709c
+c487901c,Diego López,16,ESP,LW,21-141,45,0,0,0,0,0,0,0,0,27,3,0,0,0.0,0.0,0.3,6,0,16,23,69.6,0,14,3,1,1,Valencia,2023-10-01 Betis-Valencia,ESP-LALIGA,23-24,5668709c
+3d79a68c,Francisco Perez,23,ESP,RW,21-022,76,0,0,0,0,1,0,0,0,24,1,0,0,0.1,0.1,0.0,0,0,11,14,78.6,0,14,1,3,0,Valencia,2023-10-01 Betis-Valencia,ESP-LALIGA,23-24,5668709c
+d709cd5c,Mario Dominguez,36,ESP,RW,19-233,14,0,0,0,0,3,1,0,0,9,0,0,0,0.2,0.2,0.0,0,0,4,5,80.0,1,3,0,0,0,Valencia,2023-10-01 Betis-Valencia,ESP-LALIGA,23-24,5668709c
+e6697917,Domingos André Ribeiro Almeida,10,POR,AM,23-124,67,0,0,0,0,0,0,0,0,34,1,0,0,0.0,0.0,0.0,0,0,27,32,84.4,3,22,4,2,2,Valencia,2023-10-01 Betis-Valencia,ESP-LALIGA,23-24,5668709c
+f7c12fbf,Hugo Guillamón,6,ESP,AM,23-243,23,0,0,0,0,0,0,0,0,19,1,0,0,0.0,0.0,0.0,1,0,14,18,77.8,5,12,0,0,0,Valencia,2023-10-01 Betis-Valencia,ESP-LALIGA,23-24,5668709c
+3828f130,Javier Guerra,8,ESP,DM,20-273,90,0,0,0,0,0,0,0,0,43,0,0,1,0.0,0.0,0.0,2,0,20,31,64.5,2,21,1,3,1,Valencia,2023-10-01 Betis-Valencia,ESP-LALIGA,23-24,5668709c
+27dc1378,José Luis García Vayá,18,ESP,DM,25-051,85,0,0,0,0,1,1,0,0,64,2,1,2,0.0,0.0,0.0,1,0,45,55,81.8,7,26,2,0,0,Valencia,2023-10-01 Betis-Valencia,ESP-LALIGA,23-24,5668709c
+2cfb6e88,Hugo González,30,ESP,DM,20-236,5,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.2,3,0,3,3,100.0,0,3,0,0,0,Valencia,2023-10-01 Betis-Valencia,ESP-LALIGA,23-24,5668709c
+9a93efc9,Cenk Özkacar,15,TUR,LB,22-360,90,0,0,0,0,0,0,1,0,50,4,1,0,0.0,0.0,0.0,3,0,34,45,75.6,3,16,1,0,0,Valencia,2023-10-01 Betis-Valencia,ESP-LALIGA,23-24,5668709c
+b7ca5c51,Gabriel Paulista,5,BRA,CB,32-309,90,0,0,0,0,2,0,1,0,63,0,2,2,0.2,0.2,0.0,0,0,47,53,88.7,0,32,0,0,0,Valencia,2023-10-01 Betis-Valencia,ESP-LALIGA,23-24,5668709c
+d2110326,Mouctar Diakhaby,4,GUI,CB,26-286,90,0,0,0,0,0,0,0,0,59,3,0,2,0.0,0.0,0.0,0,0,40,46,87.0,0,30,1,0,0,Valencia,2023-10-01 Betis-Valencia,ESP-LALIGA,23-24,5668709c
+dc1ce4f5,Cristhian Mosquera,3,ESP,RB,19-096,90,0,0,0,0,0,0,0,0,55,2,1,0,0.0,0.0,0.0,0,0,39,47,83.0,1,20,0,1,1,Valencia,2023-10-01 Betis-Valencia,ESP-LALIGA,23-24,5668709c
+d4b73232,Giorgi Mamardashvili,25,GEO,GK,23-002,90,0,0,0,0,0,0,0,0,30,1,0,0,0.0,0.0,0.0,0,0,15,27,55.6,0,18,0,0,0,Valencia,2023-10-01 Betis-Valencia,ESP-LALIGA,23-24,5668709c
