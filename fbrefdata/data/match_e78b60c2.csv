@@ -1,0 +1,32 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+fed7cb61,Kai Havertz,29,GER,"FW,AM",22-299,90,1,0,0,0,6,2,0,0,55,0,0,2,0.4,0.4,0.1,6,0,34,40,85.0,6,31,4,2,1,Chelsea,2022-04-06 Chelsea-Real Madrid,UCL,21-22,e78b60c2
+1bf33a9a,Christian Pulisic,10,USA,"AM,LW",23-200,63,0,0,0,0,2,0,0,0,39,0,1,1,0.1,0.1,0.0,2,0,26,33,78.8,1,25,3,2,1,Chelsea,2022-04-06 Chelsea-Real Madrid,UCL,21-22,e78b60c2
+e97fd090,Ruben Loftus-Cheek,12,ENG,DM,26-073,27,0,0,0,0,0,0,0,0,42,2,0,1,0.0,0.0,0.1,5,0,31,33,93.9,2,27,3,3,2,Chelsea,2022-04-06 Chelsea-Real Madrid,UCL,21-22,e78b60c2
+9674002f,Mason Mount,19,ENG,"AM,LW,RM",23-086,90,0,0,0,0,3,0,0,0,40,2,0,1,0.1,0.1,0.1,2,0,22,31,71.0,5,17,2,1,1,Chelsea,2022-04-06 Chelsea-Real Madrid,UCL,21-22,e78b60c2
+45db685d,Jorginho,5,ITA,CM,30-107,63,0,1,0,0,0,0,0,0,82,1,0,1,0.0,0.0,0.3,4,1,70,78,89.7,5,44,3,2,2,Chelsea,2022-04-06 Chelsea-Real Madrid,UCL,21-22,e78b60c2
+5eae500a,Romelu Lukaku,9,BEL,FW,28-328,27,0,0,0,0,2,0,0,0,4,0,0,0,0.4,0.4,0.1,1,0,2,2,100.0,0,1,0,0,0,Chelsea,2022-04-06 Chelsea-Real Madrid,UCL,21-22,e78b60c2
+b9fbae28,N'Golo Kanté,7,FRA,CM,31-008,45,0,0,0,0,1,0,0,0,21,0,0,1,0.0,0.0,0.1,1,0,15,18,83.3,3,11,1,0,0,Chelsea,2022-04-06 Chelsea-Real Madrid,UCL,21-22,e78b60c2
+6622454d,Hakim Ziyech,22,MAR,RW,29-018,45,0,0,0,0,1,0,0,0,31,1,0,0,0.1,0.1,0.0,1,0,19,25,76.0,1,12,0,1,0,Chelsea,2022-04-06 Chelsea-Real Madrid,UCL,21-22,e78b60c2
+53cad200,César Azpilicueta,28,ESP,"LB,WB",32-221,90,0,0,0,0,1,1,0,0,71,1,0,2,0.0,0.0,0.0,0,0,53,64,82.8,1,26,0,1,1,Chelsea,2022-04-06 Chelsea-Real Madrid,UCL,21-22,e78b60c2
+1265a93a,Reece James,24,ENG,"RB,WB",22-119,90,0,0,0,0,3,2,0,0,74,1,1,0,0.1,0.1,0.2,3,1,55,65,84.6,4,46,2,3,2,Chelsea,2022-04-06 Chelsea-Real Madrid,UCL,21-22,e78b60c2
+18b896d6,Antonio Rüdiger,2,GER,CB,29-034,90,0,0,0,0,0,0,1,0,97,0,1,0,0.0,0.0,0.0,2,0,87,92,94.6,10,66,4,1,0,Chelsea,2022-04-06 Chelsea-Real Madrid,UCL,21-22,e78b60c2
+86e7deaf,Thiago Silva,6,BRA,CB,37-196,90,0,0,0,0,1,0,0,0,71,2,2,1,0.1,0.1,0.0,3,0,62,65,95.4,6,40,1,0,0,Chelsea,2022-04-06 Chelsea-Real Madrid,UCL,21-22,e78b60c2
+1cb49278,Andreas Christensen,4,DEN,CB,25-361,45,0,0,0,0,0,0,0,0,26,0,0,0,0.0,0.0,0.0,0,0,24,25,96.0,3,16,0,0,0,Chelsea,2022-04-06 Chelsea-Real Madrid,UCL,21-22,e78b60c2
+79c0821a,Mateo Kovačić,8,CRO,"DM,LM",27-335,45,0,0,0,0,0,0,0,0,60,1,0,1,0.0,0.0,0.1,4,0,50,55,90.9,9,38,4,1,1,Chelsea,2022-04-06 Chelsea-Real Madrid,UCL,21-22,e78b60c2
+33887998,Edouard Mendy,16,SEN,GK,30-036,90,0,0,0,0,0,0,0,0,27,0,0,0,0.0,0.0,0.0,0,0,25,26,96.2,0,17,0,0,0,Chelsea,2022-04-06 Chelsea-Real Madrid,UCL,21-22,e78b60c2
+70d74ece,Karim Benzema,9,FRA,FW,34-108,85,3,0,0,0,4,3,0,0,50,0,0,2,1.3,1.3,0.0,4,1,40,45,88.9,6,28,4,0,0,Real Madrid,2022-04-06 Chelsea-Real Madrid,UCL,21-22,e78b60c2
+a58bb1e1,Gareth Bale,18,WAL,FW,32-264,5,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,1,0,0,0,Real Madrid,2022-04-06 Chelsea-Real Madrid,UCL,21-22,e78b60c2
+7111d552,Vinicius Júnior,20,BRA,LW,21-268,90,0,1,0,0,1,0,0,0,24,1,0,0,0.3,0.3,0.1,1,1,13,17,76.5,0,20,2,2,1,Real Madrid,2022-04-06 Chelsea-Real Madrid,UCL,21-22,e78b60c2
+0959c2a2,Federico Valverde,15,URU,RW,23-258,85,0,0,0,0,0,0,0,0,45,3,1,3,0.0,0.0,0.4,3,1,27,32,84.4,2,21,2,3,1,Real Madrid,2022-04-06 Chelsea-Real Madrid,UCL,21-22,e78b60c2
+c0617e2b,Dani Ceballos,19,ESP,RW,25-242,5,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,1,1,0,0,0,Real Madrid,2022-04-06 Chelsea-Real Madrid,UCL,21-22,e78b60c2
+6ce1f46f,Toni Kroos,8,GER,LM,32-092,73,0,0,0,0,0,0,0,0,46,3,0,0,0.0,0.0,0.1,1,0,38,43,88.4,3,25,0,0,0,Real Madrid,2022-04-06 Chelsea-Real Madrid,UCL,21-22,e78b60c2
+7b9c2d84,Eduardo Camavinga,25,FRA,LM,19-147,17,0,0,0,0,0,0,0,0,3,1,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,1,0,0,0,Real Madrid,2022-04-06 Chelsea-Real Madrid,UCL,21-22,e78b60c2
+4d224fe8,Casemiro,14,BRA,CM,30-042,90,0,0,0,0,0,0,0,0,57,3,3,1,0.0,0.0,0.0,1,0,33,43,76.7,2,32,2,1,1,Real Madrid,2022-04-06 Chelsea-Real Madrid,UCL,21-22,e78b60c2
+6025fab1,Luka Modrić,10,CRO,RM,36-209,90,0,1,0,0,0,0,0,0,64,0,2,0,0.0,0.0,0.1,2,1,47,58,81.0,7,35,1,1,0,Real Madrid,2022-04-06 Chelsea-Real Madrid,UCL,21-22,e78b60c2
+3cefcaef,Ferland Mendy,23,FRA,LB,26-302,90,0,0,0,0,0,0,0,0,50,3,1,2,0.0,0.0,0.0,1,0,34,39,87.2,1,14,0,4,4,Real Madrid,2022-04-06 Chelsea-Real Madrid,UCL,21-22,e78b60c2
+05439de2,David Alaba,4,AUT,CB,29-286,90,0,0,0,0,0,0,0,0,53,2,1,1,0.0,0.0,0.0,0,0,45,49,91.8,1,40,1,0,0,Real Madrid,2022-04-06 Chelsea-Real Madrid,UCL,21-22,e78b60c2
+2784f898,Éder Militão,3,BRA,CB,24-078,63,0,0,0,0,2,1,1,0,52,1,1,1,0.1,0.1,0.0,0,0,36,45,80.0,0,33,0,0,0,Real Madrid,2022-04-06 Chelsea-Real Madrid,UCL,21-22,e78b60c2
+2946f9a1,Nacho,6,ESP,CB,32-078,27,0,0,0,0,0,0,0,0,13,0,0,1,0.0,0.0,0.0,0,0,7,11,63.6,0,7,2,0,0,Real Madrid,2022-04-06 Chelsea-Real Madrid,UCL,21-22,e78b60c2
+4958bfb2,Dani Carvajal,2,ESP,RB,30-085,90,0,0,0,0,1,1,0,0,68,0,0,3,0.2,0.2,0.0,0,0,50,55,90.9,2,32,0,1,1,Real Madrid,2022-04-06 Chelsea-Real Madrid,UCL,21-22,e78b60c2
+1840e36d,Thibaut Courtois,1,BEL,GK,29-330,90,0,0,0,0,0,0,0,0,53,0,0,0,0.0,0.0,0.0,0,0,34,49,69.4,0,39,0,0,0,Real Madrid,2022-04-06 Chelsea-Real Madrid,UCL,21-22,e78b60c2

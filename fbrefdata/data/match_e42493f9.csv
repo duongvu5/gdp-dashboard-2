@@ -1,0 +1,32 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+21a66f6a,Harry Kane,10,ENG,FW,29-079,89,1,0,1,1,6,3,0,0,33,1,0,0,1.2,0.4,0.2,8,2,15,19,78.9,4,21,4,5,2,Tottenham Hotspur,2022-10-15 Tottenham-Everton,ENG-EPL,22-23,e42493f9
+2b622f01,Lucas Moura,27,BRA,FW,30-063,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Tottenham Hotspur,2022-10-15 Tottenham-Everton,ENG-EPL,22-23,e42493f9
+92e7e919,Son Heung-min,7,KOR,"AM,FW",30-099,90,0,0,0,0,4,1,0,0,51,0,0,1,0.3,0.3,0.1,7,0,30,38,78.9,0,24,4,1,1,Tottenham Hotspur,2022-10-15 Tottenham-Everton,ENG-EPL,22-23,e42493f9
+fa031b34,Richarlison,9,BRA,AM,25-158,51,0,0,0,0,3,0,0,0,18,1,0,0,0.3,0.3,0.0,1,0,5,9,55.6,0,12,1,0,0,Tottenham Hotspur,2022-10-15 Tottenham-Everton,ENG-EPL,22-23,e42493f9
+6c203af0,Yves Bissouma,38,MLI,CM,26-046,39,0,0,0,0,0,0,0,0,30,1,0,1,0.0,0.0,0.1,4,0,28,28,100.0,3,25,0,1,0,Tottenham Hotspur,2022-10-15 Tottenham-Everton,ENG-EPL,22-23,e42493f9
+3b8674e6,Rodrigo Bentancur,30,URU,CM,25-112,89,0,1,0,0,0,0,1,0,64,0,0,0,0.0,0.0,0.1,2,1,53,61,86.9,4,46,1,0,0,Tottenham Hotspur,2022-10-15 Tottenham-Everton,ENG-EPL,22-23,e42493f9
+6250083a,Oliver Skipp,4,ENG,CM,22-029,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Tottenham Hotspur,2022-10-15 Tottenham-Everton,ENG-EPL,22-23,e42493f9
+8b04d6c1,Pierre Højbjerg,5,DEN,CM,27-071,90,1,0,0,0,2,1,0,0,73,0,0,0,0.1,0.1,0.0,1,0,59,69,85.5,8,44,1,0,0,Tottenham Hotspur,2022-10-15 Tottenham-Everton,ENG-EPL,22-23,e42493f9
+6fe90922,Ivan Perišić,14,CRO,"WB,LB",33-255,90,0,0,0,0,1,0,0,0,75,1,1,0,0.1,0.1,0.4,6,0,48,66,72.7,3,36,4,1,0,Tottenham Hotspur,2022-10-15 Tottenham-Everton,ENG-EPL,22-23,e42493f9
+d557d734,Matt Doherty,2,IRL,"WB,RB",30-272,89,0,0,0,0,2,1,0,0,76,2,0,0,0.1,0.1,0.0,2,1,59,67,88.1,2,34,1,3,0,Tottenham Hotspur,2022-10-15 Tottenham-Everton,ENG-EPL,22-23,e42493f9
+9bc9a519,Djed Spence,24,ENG,RB,22-067,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Tottenham Hotspur,2022-10-15 Tottenham-Everton,ENG-EPL,22-23,e42493f9
+44781702,Ben Davies,33,WAL,CB,29-174,90,0,0,0,0,0,0,0,0,84,0,0,0,0.0,0.0,0.3,4,0,78,84,92.9,12,60,2,0,0,Tottenham Hotspur,2022-10-15 Tottenham-Everton,ENG-EPL,22-23,e42493f9
+ac861941,Eric Dier,15,ENG,CB,28-273,90,0,0,0,0,1,0,0,0,93,0,0,0,0.1,0.1,0.0,2,0,84,91,92.3,2,70,0,0,0,Tottenham Hotspur,2022-10-15 Tottenham-Everton,ENG-EPL,22-23,e42493f9
+a3d94a58,Cristian Romero,17,ARG,CB,24-171,86,0,0,0,0,1,0,0,0,86,2,1,0,0.0,0.0,0.1,3,0,68,77,88.3,9,55,4,0,0,Tottenham Hotspur,2022-10-15 Tottenham-Everton,ENG-EPL,22-23,e42493f9
+da7b447d,Davinson Sánchez,6,COL,CB,26-125,4,0,0,0,0,0,0,0,0,5,0,1,0,0.0,0.0,0.0,0,0,3,3,100.0,0,1,0,0,0,Tottenham Hotspur,2022-10-15 Tottenham-Everton,ENG-EPL,22-23,e42493f9
+8f62b6ee,Hugo Lloris,1,FRA,GK,35-293,90,0,0,0,0,0,0,0,0,20,0,0,0,0.0,0.0,0.0,1,0,18,20,90.0,0,11,0,0,0,Tottenham Hotspur,2022-10-15 Tottenham-Everton,ENG-EPL,22-23,e42493f9
+4bcf39f6,Neal Maupay,20,FRA,FW,26-062,65,0,0,0,0,0,0,1,0,13,0,0,0,0.0,0.0,0.0,1,0,9,11,81.8,0,10,0,0,0,Everton,2022-10-15 Tottenham-Everton,ENG-EPL,22-23,e42493f9
+59e6e5bf,Dominic Calvert-Lewin,9,ENG,FW,25-213,25,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,2,4,50.0,0,0,0,0,0,Everton,2022-10-15 Tottenham-Everton,ENG-EPL,22-23,e42493f9
+4468ec10,Demarai Gray,11,JAM,"FW,CM",26-109,90,0,0,0,0,1,0,0,0,31,0,0,1,0.1,0.1,0.0,0,0,20,23,87.0,0,24,1,2,0,Everton,2022-10-15 Tottenham-Everton,ENG-EPL,22-23,e42493f9
+828657ff,Amadou Onana,8,BEL,CM,21-060,90,0,0,0,0,1,0,0,0,39,3,0,0,0.2,0.2,0.0,0,0,20,27,74.1,1,20,1,4,2,Everton,2022-10-15 Tottenham-Everton,ENG-EPL,22-23,e42493f9
+72c812f3,Idrissa Gana Gueye,27,SEN,CM,33-019,80,0,0,0,0,0,0,1,0,45,0,2,2,0.0,0.0,0.0,2,0,35,37,94.6,0,30,0,0,0,Everton,2022-10-15 Tottenham-Everton,ENG-EPL,22-23,e42493f9
+b318a643,Salomón Rondón,33,VEN,FW,33-029,10,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,2,0,0,0,Everton,2022-10-15 Tottenham-Everton,ENG-EPL,22-23,e42493f9
+6ca5ec4b,Alex Iwobi,17,NGA,"CM,RB",26-165,90,0,0,0,0,0,0,0,0,31,1,0,0,0.0,0.0,0.0,0,0,24,28,85.7,0,25,1,2,1,Everton,2022-10-15 Tottenham-Everton,ENG-EPL,22-23,e42493f9
+fc15fb84,Dwight McNeil,7,ENG,LB,22-327,90,0,0,0,0,0,0,1,0,54,5,0,4,0.0,0.0,0.1,1,0,24,34,70.6,3,27,3,3,1,Everton,2022-10-15 Tottenham-Everton,ENG-EPL,22-23,e42493f9
+30d4a2e5,Vitaliy Mykolenko,19,UKR,CB,23-139,90,0,0,0,0,0,0,1,0,56,0,2,3,0.0,0.0,0.0,0,0,44,48,91.7,1,40,1,0,0,Everton,2022-10-15 Tottenham-Everton,ENG-EPL,22-23,e42493f9
+2928dca2,Conor Coady,30,ENG,CB,29-232,90,0,0,0,0,0,0,0,0,66,2,0,2,0.0,0.0,0.1,1,0,54,60,90.0,0,51,0,0,0,Everton,2022-10-15 Tottenham-Everton,ENG-EPL,22-23,e42493f9
+15ea812b,James Tarkowski,2,ENG,CB,29-330,90,0,0,0,0,1,0,0,0,73,3,0,6,0.1,0.1,0.0,0,0,46,56,82.1,2,39,0,0,0,Everton,2022-10-15 Tottenham-Everton,ENG-EPL,22-23,e42493f9
+0420d84f,Séamus Coleman,23,IRL,RB,34-004,66,0,0,0,0,1,0,0,0,25,0,1,0,0.0,0.0,0.0,1,0,12,18,66.7,2,9,1,0,0,Everton,2022-10-15 Tottenham-Everton,ENG-EPL,22-23,e42493f9
+4e015693,James Garner,37,ENG,CM,21-216,24,0,0,0,0,0,0,0,0,14,1,1,2,0.0,0.0,0.0,0,0,9,10,90.0,2,9,0,0,0,Everton,2022-10-15 Tottenham-Everton,ENG-EPL,22-23,e42493f9
+4806ec67,Jordan Pickford,1,ENG,GK,28-222,90,0,0,0,0,0,0,0,0,39,0,0,0,0.0,0.0,0.0,0,0,16,34,47.1,0,21,0,0,0,Everton,2022-10-15 Tottenham-Everton,ENG-EPL,22-23,e42493f9

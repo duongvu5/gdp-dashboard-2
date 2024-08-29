@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+44e07fac,Chris Ramos,16,ESP,FW,26-228,76,1,0,0,0,4,1,1,0,26,3,1,1,0.8,0.8,0.1,3,1,5,9,55.6,1,13,0,3,0,Cádiz,2023-09-01 Cádiz-Villarreal,ESP-LALIGA,23-24,eb5232b2
+aa677a35,Álex Fernández,8,ESP,FW,30-321,14,0,0,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.0,0,0,9,11,81.8,2,6,1,0,0,Cádiz,2023-09-01 Cádiz-Villarreal,ESP-LALIGA,23-24,eb5232b2
+0ae4e09a,Roger Martí,21,ESP,FW,32-241,89,0,0,0,0,3,0,0,0,27,1,0,2,0.2,0.2,0.0,0,0,9,15,60.0,0,18,2,1,1,Cádiz,2023-09-01 Cádiz-Villarreal,ESP-LALIGA,23-24,eb5232b2
+63b0ca6b,Álvaro Negredo,9,ESP,FW,38-012,1,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,1,0,2,2,100.0,0,1,0,0,0,Cádiz,2023-09-01 Cádiz-Villarreal,ESP-LALIGA,23-24,eb5232b2
+ed6ea4d9,Darwin Machís,18,VEN,LM,30-206,77,2,0,1,1,4,1,0,0,46,2,0,1,0.8,0.1,0.0,4,1,25,36,69.4,5,27,2,1,0,Cádiz,2023-09-01 Cádiz-Villarreal,ESP-LALIGA,23-24,eb5232b2
+4c2e9442,Maxi Gómez,25,URU,LM,27-018,13,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,2,5,40.0,0,6,0,0,0,Cádiz,2023-09-01 Cádiz-Villarreal,ESP-LALIGA,23-24,eb5232b2
+3f79a1c8,Gonzalo Escalante,17,ARG,CM,30-158,90,0,1,0,0,1,0,0,0,31,2,2,1,0.1,0.1,0.0,2,1,18,22,81.8,1,11,0,0,0,Cádiz,2023-09-01 Cádiz-Villarreal,ESP-LALIGA,23-24,eb5232b2
+036bba5f,Rubén Alcaraz,4,ESP,CM,32-123,89,0,0,0,0,3,1,1,0,49,2,2,3,0.1,0.1,0.0,6,2,32,38,84.2,8,24,1,0,0,Cádiz,2023-09-01 Cádiz-Villarreal,ESP-LALIGA,23-24,eb5232b2
+6f4c734d,José Mari,6,ESP,CM,35-269,1,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,1,0,5,5,100.0,0,3,0,0,0,Cádiz,2023-09-01 Cádiz-Villarreal,ESP-LALIGA,23-24,eb5232b2
+3d7e48ce,Iván Alejo,11,ESP,RM,28-203,56,0,0,0,0,0,0,1,0,21,0,0,1,0.0,0.0,0.0,2,0,10,18,55.6,2,12,2,1,1,Cádiz,2023-09-01 Cádiz-Villarreal,ESP-LALIGA,23-24,eb5232b2
+19b776e9,Rubén Sobrino,7,ESP,RM,31-092,34,0,0,0,0,1,0,0,0,16,2,1,0,0.0,0.0,0.0,0,0,10,11,90.9,1,9,1,0,0,Cádiz,2023-09-01 Cádiz-Villarreal,ESP-LALIGA,23-24,eb5232b2
+9a76c2e9,Javi Hernández,15,ESP,LB,25-122,90,0,0,0,0,1,0,0,0,51,0,1,0,0.0,0.0,0.1,2,0,30,42,71.4,2,20,1,0,0,Cádiz,2023-09-01 Cádiz-Villarreal,ESP-LALIGA,23-24,eb5232b2
+72a84002,Fali,3,ESP,CB,30-020,90,0,0,0,0,0,0,1,0,39,1,0,2,0.0,0.0,0.0,1,0,22,33,66.7,2,16,0,0,0,Cádiz,2023-09-01 Cádiz-Villarreal,ESP-LALIGA,23-24,eb5232b2
+02d2c436,Luis Hernández,23,ESP,CB,34-140,90,0,0,0,0,0,0,1,0,42,1,0,0,0.0,0.0,0.0,4,0,31,39,79.5,4,17,0,0,0,Cádiz,2023-09-01 Cádiz-Villarreal,ESP-LALIGA,23-24,eb5232b2
+c4b888df,Isaac Carcelen,20,ESP,RB,30-131,90,0,0,0,0,0,0,0,0,46,4,0,0,0.0,0.0,0.0,1,0,27,35,77.1,2,18,0,1,1,Cádiz,2023-09-01 Cádiz-Villarreal,ESP-LALIGA,23-24,eb5232b2
+6c4776b1,Jeremías Ledesma,1,ARG,GK,30-200,90,0,0,0,0,0,0,0,0,27,0,0,0,0.0,0.0,0.0,0,0,14,26,53.8,0,11,0,0,0,Cádiz,2023-09-01 Cádiz-Villarreal,ESP-LALIGA,23-24,eb5232b2
+e92cd3f7,Alexander Sørloth,11,NOR,FW,27-270,26,1,0,0,0,1,1,0,0,6,0,0,0,0.1,0.1,0.0,1,1,4,4,100.0,0,4,0,1,1,Villarreal,2023-09-01 Cádiz-Villarreal,ESP-LALIGA,23-24,eb5232b2
+4a478107,José Luis Morales,15,ESP,FW,36-040,64,0,0,0,0,1,0,0,0,18,0,0,2,0.0,0.0,0.0,1,0,9,11,81.8,0,10,1,3,1,Villarreal,2023-09-01 Cádiz-Villarreal,ESP-LALIGA,23-24,eb5232b2
+540ec57b,Yeremi Pino,21,ESP,LW,20-316,67,0,0,0,0,0,0,0,0,36,0,1,0,0.0,0.0,0.0,1,0,21,27,77.8,0,29,1,2,1,Villarreal,2023-09-01 Cádiz-Villarreal,ESP-LALIGA,23-24,eb5232b2
+57827369,Ben Brereton,9,CHI,LW,24-136,23,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,4,6,66.7,2,6,0,1,0,Villarreal,2023-09-01 Cádiz-Villarreal,ESP-LALIGA,23-24,eb5232b2
+81f0781e,Gerard Moreno,7,ESP,RW,31-147,82,0,0,0,0,2,0,0,0,58,0,0,2,0.1,0.1,0.0,2,0,42,48,87.5,8,38,1,4,0,Villarreal,2023-09-01 Cádiz-Villarreal,ESP-LALIGA,23-24,eb5232b2
+5acc4a10,Étienne Capoue,6,FRA,RW,35-052,8,0,0,0,0,0,0,0,0,6,1,0,0,0.0,0.0,0.0,0,0,3,5,60.0,0,7,0,1,0,Villarreal,2023-09-01 Cádiz-Villarreal,ESP-LALIGA,23-24,eb5232b2
+518f2234,Alex Baena,16,ESP,LM,22-043,67,0,0,0,0,2,1,1,0,57,0,0,1,0.1,0.1,0.0,2,0,38,50,76.0,5,40,1,2,1,Villarreal,2023-09-01 Cádiz-Villarreal,ESP-LALIGA,23-24,eb5232b2
+5ae499d0,Santi Comesaña,4,ESP,LM,26-331,23,0,0,0,0,0,0,1,0,18,2,0,0,0.0,0.0,0.0,0,0,11,13,84.6,1,12,0,2,2,Villarreal,2023-09-01 Cádiz-Villarreal,ESP-LALIGA,23-24,eb5232b2
+12c50af5,Denis Suárez,22,ESP,CM,29-238,90,0,0,0,0,0,0,0,0,68,0,0,2,0.0,0.0,0.0,5,0,48,54,88.9,8,30,0,3,1,Villarreal,2023-09-01 Cádiz-Villarreal,ESP-LALIGA,23-24,eb5232b2
+f36016a5,Ramón Terrats,20,ESP,RM,22-318,82,0,0,0,0,0,0,0,0,50,0,0,0,0.0,0.0,0.0,0,0,37,45,82.2,5,28,2,6,3,Villarreal,2023-09-01 Cádiz-Villarreal,ESP-LALIGA,23-24,eb5232b2
+e5d01ecf,Kiko Femenía,17,ESP,RM,32-211,8,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,6,6,100.0,0,2,0,0,0,Villarreal,2023-09-01 Cádiz-Villarreal,ESP-LALIGA,23-24,eb5232b2
+63f04c6c,Alfonso Pedraza,24,ESP,LB,27-145,21,0,0,0,0,0,0,0,1,13,0,0,1,0.0,0.0,0.0,0,0,8,10,80.0,1,7,0,0,0,Villarreal,2023-09-01 Cádiz-Villarreal,ESP-LALIGA,23-24,eb5232b2
+0abc51f2,Jorge Cuenca,5,ESP,CB,23-288,90,0,0,0,0,0,0,1,0,75,3,0,3,0.0,0.0,0.0,0,0,48,56,85.7,5,31,0,0,0,Villarreal,2023-09-01 Cádiz-Villarreal,ESP-LALIGA,23-24,eb5232b2
+4bd414c1,Raúl Albiol,3,ESP,CB,37-362,90,0,0,0,0,0,0,1,0,54,0,0,2,0.0,0.0,0.0,0,0,41,48,85.4,1,30,1,0,0,Villarreal,2023-09-01 Cádiz-Villarreal,ESP-LALIGA,23-24,eb5232b2
+6c7762c3,Juan Foyth,8,ARG,RB,25-232,90,0,0,0,0,1,1,0,0,70,2,2,4,0.0,0.0,0.0,0,0,41,54,75.9,4,36,3,3,2,Villarreal,2023-09-01 Cádiz-Villarreal,ESP-LALIGA,23-24,eb5232b2
+0107757e,Filip Jørgensen,13,DEN,GK,21-138,90,0,0,0,0,0,0,0,0,31,0,0,0,0.0,0.0,0.0,0,0,24,29,82.8,0,25,0,0,0,Villarreal,2023-09-01 Cádiz-Villarreal,ESP-LALIGA,23-24,eb5232b2

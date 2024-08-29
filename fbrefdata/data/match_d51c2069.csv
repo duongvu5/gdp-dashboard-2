@@ -1,0 +1,29 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+9dbb75ca,Alexandre Lacazette,9,FRA,FW,27-124,90,0,1,0,0,4,0,0,0,44,2,1,2,0.7,0.7,0.4,4,1,18,30,60.0,3,26,0,4,1,Arsenal,2018-09-29 Arsenal-Watford,ENG-EPL,18-19,d51c2069
+d5dd5f1f,Pierre-Emerick Aubameyang,14,GAB,"LW,RW",29-103,76,0,0,0,0,0,0,0,0,24,0,0,0,0.0,0.0,0.3,1,0,12,17,70.6,4,18,3,3,1,Arsenal,2018-09-29 Arsenal-Watford,ENG-EPL,18-19,d51c2069
+ce5143da,Danny Welbeck,23,ENG,"LW,RW",27-307,14,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,1,0,4,6,66.7,2,6,0,1,0,Arsenal,2018-09-29 Arsenal-Watford,ENG-EPL,18-19,d51c2069
+16380240,Mesut Özil,10,GER,"RW,AM",29-349,90,1,0,0,0,1,1,0,0,67,0,0,0,0.4,0.4,0.0,3,0,58,65,89.2,14,61,4,0,0,Arsenal,2018-09-29 Arsenal-Watford,ENG-EPL,18-19,d51c2069
+ef619b0b,Aaron Ramsey,8,WAL,AM,27-277,62,0,0,0,0,0,0,0,0,24,2,0,0,0.0,0.0,0.0,0,0,16,20,80.0,2,21,0,1,0,Arsenal,2018-09-29 Arsenal-Watford,ENG-EPL,18-19,d51c2069
+6ca5ec4b,Alex Iwobi,17,NGA,"RW,LW",22-149,28,0,0,0,0,1,0,0,0,24,0,0,1,0.0,0.0,0.0,1,1,12,18,66.7,3,16,2,2,1,Arsenal,2018-09-29 Arsenal-Watford,ENG-EPL,18-19,d51c2069
+e61b8aee,Granit Xhaka,34,SUI,DM,26-002,90,0,0,0,0,1,1,0,0,115,2,0,4,0.0,0.0,0.2,2,0,84,99,84.8,7,80,2,1,1,Arsenal,2018-09-29 Arsenal-Watford,ENG-EPL,18-19,d51c2069
+52611641,Lucas Torreira,11,URU,DM,22-230,90,0,0,0,0,0,0,1,0,80,3,1,1,0.0,0.0,0.0,2,0,60,69,87.0,9,60,1,0,0,Arsenal,2018-09-29 Arsenal-Watford,ENG-EPL,18-19,d51c2069
+d4cb83cc,Nacho Monreal,18,ESP,LB,32-215,90,0,0,0,0,1,0,0,0,85,1,0,1,0.0,0.0,0.0,1,0,60,75,80.0,2,52,3,1,1,Arsenal,2018-09-29 Arsenal-Watford,ENG-EPL,18-19,d51c2069
+d79a8c87,Rob Holding,16,ENG,CB,23-009,90,0,0,0,0,0,0,0,0,54,0,3,1,0.0,0.0,0.0,0,0,40,45,88.9,1,33,0,1,1,Arsenal,2018-09-29 Arsenal-Watford,ENG-EPL,18-19,d51c2069
+3f2d59fe,Shkodran Mustafi,20,GER,CB,26-165,90,0,0,0,0,1,0,1,0,63,0,2,1,0.2,0.2,0.0,0,0,40,53,75.5,1,35,0,0,0,Arsenal,2018-09-29 Arsenal-Watford,ENG-EPL,18-19,d51c2069
+f874dd44,Héctor Bellerín,2,ESP,RB,23-194,90,0,0,0,0,0,0,0,0,58,0,0,2,0.0,0.0,0.0,1,0,41,50,82.0,4,39,6,1,1,Arsenal,2018-09-29 Arsenal-Watford,ENG-EPL,18-19,d51c2069
+71672fa0,Petr Čech,1,CZE,GK,36-132,44,0,0,0,0,0,0,0,0,24,0,0,0,0.0,0.0,0.0,0,0,11,22,50.0,0,13,0,0,0,Arsenal,2018-09-29 Arsenal-Watford,ENG-EPL,18-19,d51c2069
+2628fd2b,Bernd Leno,19,GER,GK,26-209,46,0,0,0,0,0,0,0,0,23,0,0,0,0.0,0.0,0.0,0,0,14,20,70.0,0,10,0,0,0,Arsenal,2018-09-29 Arsenal-Watford,ENG-EPL,18-19,d51c2069
+82e34b69,Troy Deeney,9,ENG,FW,30-092,90,0,0,0,0,2,2,1,0,31,1,0,2,0.7,0.7,1.0,5,0,11,19,57.9,5,11,1,0,0,Watford,2018-09-29 Arsenal-Watford,ENG-EPL,18-19,d51c2069
+c24dba2a,Andre Gray,18,JAM,FW,27-095,71,0,0,0,0,1,1,0,0,16,0,1,0,0.4,0.4,0.0,1,0,4,8,50.0,1,11,0,1,0,Watford,2018-09-29 Arsenal-Watford,ENG-EPL,18-19,d51c2069
+f573a8bf,Isaac Success,10,NGA,FW,22-265,19,0,0,0,0,2,0,0,0,6,0,0,0,0.6,0.6,0.0,1,0,3,3,100.0,0,7,1,1,0,Watford,2018-09-29 Arsenal-Watford,ENG-EPL,18-19,d51c2069
+75f2c59f,Roberto Pereyra,37,ARG,AM,27-265,90,0,0,0,0,2,0,0,0,44,0,0,1,0.1,0.1,0.0,5,0,24,36,66.7,1,33,2,3,3,Watford,2018-09-29 Arsenal-Watford,ENG-EPL,18-19,d51c2069
+a0666d3e,Will Hughes,19,ENG,AM,23-165,90,0,0,0,0,1,0,0,0,41,4,2,1,0.1,0.1,0.0,2,0,16,25,64.0,4,24,1,4,3,Watford,2018-09-29 Arsenal-Watford,ENG-EPL,18-19,d51c2069
+5acc4a10,Étienne Capoue,29,FRA,DM,30-080,90,0,0,0,0,1,0,0,0,51,2,5,1,0.0,0.0,0.0,1,0,28,35,80.0,2,19,0,1,0,Watford,2018-09-29 Arsenal-Watford,ENG-EPL,18-19,d51c2069
+02b29014,Abdoulaye Doucouré,16,MLI,DM,25-271,90,0,0,0,0,3,0,1,0,56,3,1,0,0.4,0.4,0.0,2,0,32,42,76.2,8,29,2,1,1,Watford,2018-09-29 Arsenal-Watford,ENG-EPL,18-19,d51c2069
+12aa7661,José Holebas,25,GRE,LB,34-094,90,0,0,0,0,0,0,0,0,61,0,2,1,0.0,0.0,0.7,6,0,34,55,61.8,6,24,4,1,1,Watford,2018-09-29 Arsenal-Watford,ENG-EPL,18-19,d51c2069
+914ab9a1,Christian Kabasele,27,BEL,CB,27-217,90,0,0,0,0,1,1,0,0,37,3,3,1,0.3,0.3,0.6,1,0,13,21,61.9,1,11,0,0,0,Watford,2018-09-29 Arsenal-Watford,ENG-EPL,18-19,d51c2069
+89e4b358,Craig Cathcart,15,NIR,CB,29-235,90,0,0,0,0,1,1,0,0,39,3,0,0,0.5,0.5,0.0,0,0,23,33,69.7,2,18,0,0,0,Watford,2018-09-29 Arsenal-Watford,ENG-EPL,18-19,d51c2069
+c2846353,Marc Navarro,23,ESP,RB,23-089,83,0,0,0,0,0,0,0,0,42,4,0,0,0.0,0.0,0.0,0,0,23,33,69.7,0,14,1,0,0,Watford,2018-09-29 Arsenal-Watford,ENG-EPL,18-19,d51c2069
+e5d01ecf,Kiko Femenía,21,ESP,RB,27-239,7,0,0,0,0,0,0,0,0,8,0,1,0,0.0,0.0,0.0,0,0,4,7,57.1,1,4,1,0,0,Watford,2018-09-29 Arsenal-Watford,ENG-EPL,18-19,d51c2069
+d0b3ceb9,Ben Foster,26,ENG,GK,35-179,90,0,0,0,0,0,0,0,0,31,0,0,0,0.0,0.0,0.0,0,0,13,29,44.8,0,13,0,0,0,Watford,2018-09-29 Arsenal-Watford,ENG-EPL,18-19,d51c2069

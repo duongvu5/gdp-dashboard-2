@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+dea698d9,Cristiano Ronaldo,7,POR,FW,32-307,75,2,0,1,1,4,2,0,0,36,0,1,0,1.5,0.7,0.1,5,2,23,27,85.2,3,25,4,0,0,Real Madrid,2017-12-09 Real Madrid-Sevilla,ESP-LALIGA,17-18,cba3fd96
+a0b4bb3e,Isco,22,ESP,FW,25-232,15,0,0,0,0,1,0,0,0,40,0,0,0,0.0,0.0,0.0,2,0,34,36,94.4,6,29,1,2,0,Real Madrid,2017-12-09 Real Madrid-Sevilla,ESP-LALIGA,17-18,cba3fd96
+70d74ece,Karim Benzema,9,FRA,FW,29-355,90,0,1,0,0,3,0,0,0,34,1,0,0,0.4,0.4,0.3,6,1,26,30,86.7,4,24,1,2,2,Real Madrid,2017-12-09 Real Madrid-Sevilla,ESP-LALIGA,17-18,cba3fd96
+45af8a54,Marco Asensio,20,ESP,LM,21-322,90,0,1,0,0,2,0,0,0,88,2,0,2,0.0,0.0,0.6,9,1,75,82,91.5,11,70,6,1,1,Real Madrid,2017-12-09 Real Madrid-Sevilla,ESP-LALIGA,17-18,cba3fd96
+6025fab1,Luka Modrić,10,CRO,CM,32-091,70,0,0,0,0,1,1,0,0,68,1,2,0,0.0,0.0,0.0,2,1,60,66,90.9,7,59,3,3,3,Real Madrid,2017-12-09 Real Madrid-Sevilla,ESP-LALIGA,17-18,cba3fd96
+c0617e2b,Dani Ceballos,24,ESP,CM,21-124,20,0,0,0,0,1,0,0,0,37,1,0,0,0.0,0.0,0.0,1,0,35,35,100.0,4,30,0,1,1,Real Madrid,2017-12-09 Real Madrid-Sevilla,ESP-LALIGA,17-18,cba3fd96
+6ce1f46f,Toni Kroos,8,GER,CM,27-339,62,1,0,0,0,2,1,0,0,67,2,0,0,0.4,0.4,0.1,4,1,57,63,90.5,8,41,3,1,1,Real Madrid,2017-12-09 Real Madrid-Sevilla,ESP-LALIGA,17-18,cba3fd96
+02c15616,Marcos Llorente,18,ESP,CM,22-313,28,0,0,0,0,1,0,0,0,39,0,0,0,0.1,0.1,0.0,1,0,33,36,91.7,4,27,2,1,1,Real Madrid,2017-12-09 Real Madrid-Sevilla,ESP-LALIGA,17-18,cba3fd96
+fd51b456,Lucas Vázquez,17,ESP,RM,26-161,90,0,1,0,0,2,1,0,0,68,3,0,2,0.1,0.1,0.7,5,2,54,60,90.0,4,48,3,1,0,Real Madrid,2017-12-09 Real Madrid-Sevilla,ESP-LALIGA,17-18,cba3fd96
+603116a7,Marcelo,12,BRA,LB,29-211,90,0,0,0,0,1,0,0,0,79,1,1,3,0.1,0.1,0.3,3,0,59,71,83.1,7,46,3,3,1,Real Madrid,2017-12-09 Real Madrid-Sevilla,ESP-LALIGA,17-18,cba3fd96
+2946f9a1,Nacho,6,ESP,CB,27-325,90,1,0,0,0,1,1,0,0,64,1,5,3,0.4,0.4,0.0,1,0,48,50,96.0,0,36,1,0,0,Real Madrid,2017-12-09 Real Madrid-Sevilla,ESP-LALIGA,17-18,cba3fd96
+c2111b45,Jesús Vallejo,3,ESP,CB,20-338,90,0,0,0,0,0,0,0,0,54,1,4,0,0.0,0.0,0.0,0,0,44,49,89.8,0,36,1,1,1,Real Madrid,2017-12-09 Real Madrid-Sevilla,ESP-LALIGA,17-18,cba3fd96
+e42d61c7,Achraf Hakimi,19,MAR,RB,19-035,90,1,0,0,0,1,1,0,0,65,5,2,1,0.2,0.2,0.0,1,0,46,55,83.6,0,35,2,2,0,Real Madrid,2017-12-09 Real Madrid-Sevilla,ESP-LALIGA,17-18,cba3fd96
+ecada4fc,Keylor Navas,1,CRC,GK,30-359,90,0,0,0,0,0,0,0,0,36,0,0,0,0.0,0.0,0.0,0,0,30,36,83.3,0,25,0,0,0,Real Madrid,2017-12-09 Real Madrid-Sevilla,ESP-LALIGA,17-18,cba3fd96
+eb2fe5b6,Luis Muriel,20,COL,FW,26-237,90,0,0,0,0,2,2,0,0,40,0,0,2,0.1,0.1,0.0,1,0,22,29,75.9,4,23,3,1,0,Sevilla,2017-12-09 Real Madrid-Sevilla,ESP-LALIGA,17-18,cba3fd96
+b2d0ec1b,Nolito,24,ESP,LW,31-055,56,0,0,0,0,2,1,0,0,27,2,1,1,0.1,0.1,0.0,3,0,14,21,66.7,4,15,0,1,1,Sevilla,2017-12-09 Real Madrid-Sevilla,ESP-LALIGA,17-18,cba3fd96
+9744ff80,Pablo Sarabia,17,ESP,LW,25-212,34,0,0,0,0,1,0,0,0,22,2,0,0,0.0,0.0,0.0,1,0,16,17,94.1,1,21,0,1,1,Sevilla,2017-12-09 Real Madrid-Sevilla,ESP-LALIGA,17-18,cba3fd96
+3f10bd22,Jesús Navas,16,ESP,RW,32-018,90,0,0,0,0,1,0,1,0,47,1,1,0,0.0,0.0,0.2,4,0,30,43,69.8,4,39,7,3,2,Sevilla,2017-12-09 Real Madrid-Sevilla,ESP-LALIGA,17-18,cba3fd96
+467bae22,Franco Vázquez,22,ARG,LM,28-290,70,0,0,0,0,0,0,0,0,39,1,0,0,0.0,0.0,0.1,3,0,28,35,80.0,1,25,2,0,0,Sevilla,2017-12-09 Real Madrid-Sevilla,ESP-LALIGA,17-18,cba3fd96
+294450ba,Johannes Geis,12,GER,LM,24-114,20,0,0,0,0,0,0,0,0,8,1,0,1,0.0,0.0,0.0,0,0,5,5,100.0,0,3,0,0,0,Sevilla,2017-12-09 Real Madrid-Sevilla,ESP-LALIGA,17-18,cba3fd96
+faec2ec4,Guido Pizarro,14,ARG,CM,27-286,90,0,0,0,0,1,0,0,0,77,3,3,2,0.0,0.0,0.0,0,0,63,66,95.5,4,54,0,0,0,Sevilla,2017-12-09 Real Madrid-Sevilla,ESP-LALIGA,17-18,cba3fd96
+fa937f7a,Éver Banega,10,ARG,RM,29-163,80,0,0,0,0,1,0,1,0,103,1,1,0,0.0,0.0,0.1,3,0,90,95,94.7,17,84,3,3,3,Sevilla,2017-12-09 Real Madrid-Sevilla,ESP-LALIGA,17-18,cba3fd96
+1c8dc17d,Michael Krohn-Dehli,7,DEN,RM,34-186,10,0,0,0,0,0,0,0,0,5,0,1,0,0.0,0.0,0.0,0,0,2,3,66.7,0,2,0,0,0,Sevilla,2017-12-09 Real Madrid-Sevilla,ESP-LALIGA,17-18,cba3fd96
+5b5724d2,Lionel Carole,3,FRA,LB,26-241,90,0,0,0,0,1,0,0,0,55,0,0,1,0.0,0.0,0.0,0,0,36,45,80.0,2,31,2,2,1,Sevilla,2017-12-09 Real Madrid-Sevilla,ESP-LALIGA,17-18,cba3fd96
+4f28a6ff,Clément Lenglet,5,FRA,CB,22-175,90,0,0,0,0,0,0,0,0,44,0,0,1,0.0,0.0,0.0,0,0,37,38,97.4,1,18,1,1,1,Sevilla,2017-12-09 Real Madrid-Sevilla,ESP-LALIGA,17-18,cba3fd96
+8b8a56ce,Simon Kjær,4,DEN,CB,28-258,90,0,0,0,0,1,0,0,0,35,5,2,1,0.1,0.1,0.0,1,0,21,21,100.0,1,15,0,0,0,Sevilla,2017-12-09 Real Madrid-Sevilla,ESP-LALIGA,17-18,cba3fd96
+bf97c188,Gabriel Mercado,25,ARG,RB,30-266,90,0,0,0,0,0,0,0,0,58,2,2,1,0.0,0.0,0.0,1,0,37,48,77.1,5,24,0,0,0,Sevilla,2017-12-09 Real Madrid-Sevilla,ESP-LALIGA,17-18,cba3fd96
+5f0241b2,Sergio Rico,1,ESP,GK,24-099,90,0,0,0,0,0,0,0,0,27,1,0,0,0.0,0.0,0.0,0,0,18,22,81.8,0,7,0,0,0,Sevilla,2017-12-09 Real Madrid-Sevilla,ESP-LALIGA,17-18,cba3fd96

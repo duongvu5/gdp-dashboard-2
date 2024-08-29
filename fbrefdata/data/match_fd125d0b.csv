@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+45963054,Jamie Vardy,9,ENG,"FW,RW",30-311,90,0,0,0,0,0,0,0,0,12,1,0,1,0.0,0.0,0.0,1,0,4,9,44.4,0,5,1,3,2,Leicester City,2017-11-18 Leicester City-Manchester City,ENG-EPL,17-18,fd125d0b
+b827d5b3,Marc Albrighton,11,ENG,"FW,RM",28-000,66,0,0,0,0,0,0,0,0,33,2,0,1,0.0,0.0,0.0,1,0,15,25,60.0,3,17,0,1,0,Leicester City,2017-11-18 Leicester City-Manchester City,ENG-EPL,17-18,fd125d0b
+c92e1a31,Kelechi Iheanacho,8,NGA,"LM,LW",21-046,24,0,0,0,0,0,0,0,0,7,0,0,1,0.0,0.0,0.0,0,0,4,6,66.7,0,5,0,0,0,Leicester City,2017-11-18 Leicester City-Manchester City,ENG-EPL,17-18,fd125d0b
+4468ec10,Demarai Gray,7,JAM,"LM,RM",21-143,90,0,0,0,0,0,0,0,0,27,0,0,1,0.0,0.0,0.0,0,0,15,20,75.0,1,14,2,1,1,Leicester City,2017-11-18 Leicester City-Manchester City,ENG-EPL,17-18,fd125d0b
+ad1ffcfd,Vicente Iborra,21,ESP,CM,29-306,82,0,0,0,0,0,0,0,0,38,1,2,1,0.0,0.0,0.0,0,0,17,29,58.6,2,16,1,2,2,Leicester City,2017-11-18 Leicester City-Manchester City,ENG-EPL,17-18,fd125d0b
+68796d61,Shinji Okazaki,20,JPN,LM,31-216,8,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,0,2,0.0,0,1,0,0,0,Leicester City,2017-11-18 Leicester City-Manchester City,ENG-EPL,17-18,fd125d0b
+6b47c5db,Wilfred Ndidi,25,NGA,CM,20-337,90,0,0,0,0,1,0,0,0,46,3,2,3,0.0,0.0,0.0,0,0,26,36,72.2,4,11,1,1,1,Leicester City,2017-11-18 Leicester City-Manchester City,ENG-EPL,17-18,fd125d0b
+892d5bb1,Riyad Mahrez,26,ALG,"RM,FW",26-270,82,0,0,0,0,0,0,0,0,37,1,2,1,0.0,0.0,0.0,1,0,20,27,74.1,2,22,3,6,3,Leicester City,2017-11-18 Leicester City-Manchester City,ENG-EPL,17-18,fd125d0b
+ffec9769,Islam Slimani,19,ALG,FW,29-153,8,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,0,0,0,0,Leicester City,2017-11-18 Leicester City-Manchester City,ENG-EPL,17-18,fd125d0b
+a67a09fb,Christian Fuchs,28,AUT,LB,31-225,90,0,0,0,0,0,0,0,0,39,1,2,0,0.0,0.0,0.0,1,0,24,32,75.0,0,18,0,1,1,Leicester City,2017-11-18 Leicester City-Manchester City,ENG-EPL,17-18,fd125d0b
+d8931174,Harry Maguire,15,ENG,CB,24-258,90,0,0,0,0,1,0,1,0,35,2,2,0,0.1,0.1,0.0,0,0,16,26,61.5,1,12,0,0,0,Leicester City,2017-11-18 Leicester City-Manchester City,ENG-EPL,17-18,fd125d0b
+80c31c97,Wes Morgan,5,JAM,CB,33-301,90,0,0,0,0,0,0,0,0,23,0,1,2,0.0,0.0,0.0,0,0,14,15,93.3,1,8,0,0,0,Leicester City,2017-11-18 Leicester City-Manchester City,ENG-EPL,17-18,fd125d0b
+3201b03d,Danny Simpson,2,ENG,RB,30-318,90,0,0,0,0,0,0,0,0,51,0,1,4,0.0,0.0,0.0,0,0,30,40,75.0,3,13,0,0,0,Leicester City,2017-11-18 Leicester City-Manchester City,ENG-EPL,17-18,fd125d0b
+53af52f3,Kasper Schmeichel,1,DEN,GK,31-013,90,0,0,0,0,0,0,0,0,35,0,0,0,0.0,0.0,0.0,0,0,12,30,40.0,0,8,0,0,0,Leicester City,2017-11-18 Leicester City-Manchester City,ENG-EPL,17-18,fd125d0b
+b66315ae,Gabriel Jesus,33,BRA,FW,20-229,90,1,0,0,0,2,2,0,0,37,0,0,1,1.3,1.3,0.0,1,0,25,29,86.2,2,28,1,0,0,Manchester City,2017-11-18 Leicester City-Manchester City,ENG-EPL,17-18,fd125d0b
+2b114be3,Leroy Sané,19,GER,LW,21-311,90,0,1,0,0,0,0,0,0,66,1,0,2,0.0,0.0,0.2,5,1,41,60,68.3,1,44,10,5,5,Manchester City,2017-11-18 Leicester City-Manchester City,ENG-EPL,17-18,fd125d0b
+b400bde0,Raheem Sterling,7,ENG,RW,22-345,83,0,0,0,0,1,0,0,0,43,1,0,0,0.0,0.0,0.1,3,1,29,35,82.9,3,34,4,4,3,Manchester City,2017-11-18 Leicester City-Manchester City,ENG-EPL,17-18,fd125d0b
+3eb22ec9,Bernardo Silva,20,POR,RW,23-100,7,0,0,0,0,0,0,0,0,13,0,0,0,0.0,0.0,0.0,1,0,11,12,91.7,0,10,1,0,0,Manchester City,2017-11-18 Leicester City-Manchester City,ENG-EPL,17-18,fd125d0b
+e2716bd0,David Silva,21,ESP,LM,31-314,90,0,1,0,0,5,1,0,0,103,1,0,1,0.3,0.3,0.7,3,1,80,92,87.0,13,78,5,2,2,Manchester City,2017-11-18 Leicester City-Manchester City,ENG-EPL,17-18,fd125d0b
+101da2b5,Fernandinho,25,BRA,CM,32-198,90,0,0,0,0,0,0,0,0,114,4,1,3,0.0,0.0,0.0,0,0,93,104,89.4,10,71,1,1,1,Manchester City,2017-11-18 Leicester City-Manchester City,ENG-EPL,17-18,fd125d0b
+e46012d4,Kevin De Bruyne,17,BEL,RM,26-143,88,1,0,0,0,2,1,0,0,105,0,0,1,0.1,0.1,0.0,3,1,81,96,84.4,15,72,6,2,0,Manchester City,2017-11-18 Leicester City-Manchester City,ENG-EPL,17-18,fd125d0b
+819b3158,İlkay Gündoğan,8,GER,RM,27-025,2,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,6,6,100.0,0,5,0,0,0,Manchester City,2017-11-18 Leicester City-Manchester City,ENG-EPL,17-18,fd125d0b
+111c3236,Fabian Delph,18,ENG,LB,27-362,90,0,0,0,0,1,0,0,0,108,5,6,0,0.0,0.0,0.0,4,0,85,91,93.4,7,66,3,2,2,Manchester City,2017-11-18 Leicester City-Manchester City,ENG-EPL,17-18,fd125d0b
+d2bff301,Vincent Kompany,4,BEL,CB,31-222,90,0,0,0,0,0,0,1,0,90,0,0,1,0.0,0.0,0.1,1,0,80,84,95.2,3,62,0,0,0,Manchester City,2017-11-18 Leicester City-Manchester City,ENG-EPL,17-18,fd125d0b
+5eecec3d,John Stones,5,ENG,CB,23-174,30,0,0,0,0,0,0,0,0,29,0,1,0,0.0,0.0,0.0,0,0,27,28,96.4,3,22,0,0,0,Manchester City,2017-11-18 Leicester City-Manchester City,ENG-EPL,17-18,fd125d0b
+f520049f,Eliaquim Mangala,15,FRA,CB,26-278,60,0,0,0,0,1,0,0,0,61,0,0,0,0.1,0.1,0.0,0,0,53,57,93.0,3,46,1,0,0,Manchester City,2017-11-18 Leicester City-Manchester City,ENG-EPL,17-18,fd125d0b
+86dd77d1,Kyle Walker,2,ENG,RB,27-174,90,0,0,0,0,0,0,0,0,102,1,1,0,0.0,0.0,0.6,2,0,88,95,92.6,8,54,0,0,0,Manchester City,2017-11-18 Leicester City-Manchester City,ENG-EPL,17-18,fd125d0b
+3bb7b8b4,Ederson,31,BRA,GK,24-093,90,0,0,0,0,0,0,0,0,34,0,0,0,0.0,0.0,0.0,0,0,25,31,80.6,0,13,0,0,0,Manchester City,2017-11-18 Leicester City-Manchester City,ENG-EPL,17-18,fd125d0b

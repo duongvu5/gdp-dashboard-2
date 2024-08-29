@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+70d74ece,Karim Benzema,9,FRA,FW,31-315,69,1,2,1,1,4,1,0,0,42,0,0,1,1.2,0.4,1.2,5,2,25,29,86.2,5,23,3,1,0,Real Madrid,2019-10-30 Real Madrid-Leganés,ESP-LALIGA,19-20,c833dc1e
+4d8cd038,Luka Jović,18,SRB,FW,21-311,21,1,0,0,0,3,2,0,0,12,0,0,0,0.8,0.8,0.0,1,0,8,8,100.0,3,6,1,0,0,Real Madrid,2019-10-30 Real Madrid-Leganés,ESP-LALIGA,19-20,c833dc1e
+a39bb753,Eden Hazard,7,BEL,LW,28-296,90,0,0,0,0,0,0,0,0,52,1,0,0,0.0,0.0,0.1,6,2,32,39,82.1,2,42,10,9,7,Real Madrid,2019-10-30 Real Madrid-Leganés,ESP-LALIGA,19-20,c833dc1e
+8f5e92a6,Rodrygo,27,BRA,RW,18-294,90,1,0,0,0,3,1,0,0,69,0,4,1,0.8,0.8,0.5,4,0,46,58,79.3,2,50,6,3,1,Real Madrid,2019-10-30 Real Madrid-Leganés,ESP-LALIGA,19-20,c833dc1e
+6ce1f46f,Toni Kroos,8,GER,LM,29-299,61,1,0,0,0,3,2,0,0,77,2,0,1,0.6,0.6,0.0,3,0,65,72,90.3,11,48,1,0,0,Real Madrid,2019-10-30 Real Madrid-Leganés,ESP-LALIGA,19-20,c833dc1e
+6025fab1,Luka Modrić,10,CRO,"RM,LM",34-051,29,0,0,0,0,1,0,0,0,25,2,0,0,0.1,0.1,0.1,4,2,21,22,95.5,3,18,1,0,0,Real Madrid,2019-10-30 Real Madrid-Leganés,ESP-LALIGA,19-20,c833dc1e
+4d224fe8,Casemiro,14,BRA,CM,27-249,90,0,0,0,0,1,0,0,0,82,10,1,0,0.0,0.0,0.0,4,1,55,66,83.3,7,31,0,0,0,Real Madrid,2019-10-30 Real Madrid-Leganés,ESP-LALIGA,19-20,c833dc1e
+0959c2a2,Federico Valverde,15,URU,RM,21-100,74,0,0,0,0,1,0,0,0,58,2,1,0,0.5,0.5,0.0,2,0,45,49,91.8,4,31,1,1,0,Real Madrid,2019-10-30 Real Madrid-Leganés,ESP-LALIGA,19-20,c833dc1e
+a0b4bb3e,Isco,22,ESP,"LM,RM",27-192,16,0,0,0,0,1,1,0,0,16,0,0,0,0.0,0.0,0.0,2,0,12,14,85.7,3,11,1,1,1,Real Madrid,2019-10-30 Real Madrid-Leganés,ESP-LALIGA,19-20,c833dc1e
+603116a7,Marcelo,12,BRA,LB,31-171,90,0,0,0,0,2,2,1,0,89,0,0,1,0.1,0.1,0.0,4,2,72,85,84.7,15,58,4,2,1,Real Madrid,2019-10-30 Real Madrid-Leganés,ESP-LALIGA,19-20,c833dc1e
+08511d65,Sergio Ramos,4,ESP,CB,33-214,90,1,0,1,1,0,0,0,0,62,0,3,0,0.8,0.0,0.0,0,0,46,52,88.5,2,33,0,0,0,Real Madrid,2019-10-30 Real Madrid-Leganés,ESP-LALIGA,19-20,c833dc1e
+9f8e9423,Raphaël Varane,5,FRA,CB,26-188,90,0,0,0,0,1,0,0,0,69,1,0,1,0.1,0.1,0.0,1,0,50,62,80.6,2,37,0,0,0,Real Madrid,2019-10-30 Real Madrid-Leganés,ESP-LALIGA,19-20,c833dc1e
+4958bfb2,Dani Carvajal,2,ESP,RB,27-292,90,0,1,0,0,0,0,0,0,89,0,2,1,0.0,0.0,0.8,6,1,73,81,90.1,8,57,5,0,0,Real Madrid,2019-10-30 Real Madrid-Leganés,ESP-LALIGA,19-20,c833dc1e
+1840e36d,Thibaut Courtois,13,BEL,GK,27-172,90,0,0,0,0,0,0,0,0,30,0,0,0,0.0,0.0,0.0,0,0,27,29,93.1,0,15,0,0,0,Real Madrid,2019-10-30 Real Madrid-Leganés,ESP-LALIGA,19-20,c833dc1e
+04e17fd5,Youssef En-Nesyri,26,MAR,FW,22-151,90,0,0,0,0,2,0,0,0,32,1,0,3,0.1,0.1,0.0,0,0,11,18,61.1,1,14,1,5,3,Leganés,2019-10-30 Real Madrid-Leganés,ESP-LALIGA,19-20,c833dc1e
+f1bed920,Kévin Rodrigues,24,POR,LW,25-239,55,0,0,0,0,0,0,0,0,21,0,0,2,0.0,0.0,0.0,1,0,10,15,66.7,1,10,0,0,0,Leganés,2019-10-30 Real Madrid-Leganés,ESP-LALIGA,19-20,c833dc1e
+54073b28,Recio,8,ESP,AM,28-292,35,0,0,0,0,0,0,0,0,35,0,0,0,0.0,0.0,0.0,2,0,32,32,100.0,3,28,2,2,2,Leganés,2019-10-30 Real Madrid-Leganés,ESP-LALIGA,19-20,c833dc1e
+fd771f95,Martin Braithwaite,7,DEN,"RW,LW",28-147,90,0,0,0,0,1,1,0,0,38,0,0,0,0.1,0.1,0.1,2,0,22,31,71.0,2,30,3,5,3,Leganés,2019-10-30 Real Madrid-Leganés,ESP-LALIGA,19-20,c833dc1e
+19709006,Óscar Rodríguez Arnaiz,27,ESP,"AM,LW",21-124,65,0,0,0,0,1,1,0,0,39,1,1,0,0.0,0.0,0.1,1,0,27,34,79.4,5,31,5,2,1,Leganés,2019-10-30 Real Madrid-Leganés,ESP-LALIGA,19-20,c833dc1e
+a55d8df5,Aitor Ruibal,19,ESP,RW,23-222,25,0,0,0,0,0,0,1,0,15,3,0,0,0.0,0.0,0.0,1,0,9,11,81.8,4,12,1,3,2,Leganés,2019-10-30 Real Madrid-Leganés,ESP-LALIGA,19-20,c833dc1e
+8ef81d2d,Cristian Rivera,14,ESP,DM,22-113,90,0,0,0,0,0,0,1,0,48,0,2,2,0.0,0.0,0.1,1,0,37,40,92.5,6,36,0,2,1,Leganés,2019-10-30 Real Madrid-Leganés,ESP-LALIGA,19-20,c833dc1e
+70d8e84c,Chidozie Awaziem,12,NGA,DM,22-302,90,0,0,0,0,0,0,0,0,45,1,0,1,0.0,0.0,0.0,1,0,35,39,89.7,5,29,0,2,2,Leganés,2019-10-30 Real Madrid-Leganés,ESP-LALIGA,19-20,c833dc1e
+f2308b33,Jonathan Silva,5,ARG,LB,25-123,90,0,0,0,0,1,1,1,0,76,0,2,0,0.1,0.1,0.0,0,0,53,70,75.7,7,26,3,1,1,Leganés,2019-10-30 Real Madrid-Leganés,ESP-LALIGA,19-20,c833dc1e
+0f0aa5b4,Kenneth Omeruo,4,NGA,CB,26-013,90,0,0,0,0,0,0,0,0,54,3,1,2,0.0,0.0,0.0,0,0,35,43,81.4,4,32,0,0,0,Leganés,2019-10-30 Real Madrid-Leganés,ESP-LALIGA,19-20,c833dc1e
+a03c82b2,Rodrigo Tarín,15,ESP,CB,23-117,90,0,0,0,0,0,0,0,0,34,3,1,1,0.0,0.0,0.0,0,0,18,21,85.7,0,12,0,0,0,Leganés,2019-10-30 Real Madrid-Leganés,ESP-LALIGA,19-20,c833dc1e
+f3112790,Unai Bustinza,3,ESP,RB,27-270,71,0,0,0,0,0,0,1,0,37,2,3,1,0.0,0.0,0.0,0,0,19,28,67.9,1,23,1,0,0,Leganés,2019-10-30 Real Madrid-Leganés,ESP-LALIGA,19-20,c833dc1e
+81069528,Roberto Rosales,16,VEN,RB,30-344,19,0,0,0,0,0,0,0,0,15,0,0,1,0.0,0.0,0.1,1,0,11,14,78.6,3,9,1,1,1,Leganés,2019-10-30 Real Madrid-Leganés,ESP-LALIGA,19-20,c833dc1e
+5512b1a9,Juan Soriano,13,ESP,GK,22-068,90,0,0,0,0,0,0,1,0,36,0,0,0,0.0,0.0,0.0,0,0,14,29,48.3,0,15,0,0,0,Leganés,2019-10-30 Real Madrid-Leganés,ESP-LALIGA,19-20,c833dc1e

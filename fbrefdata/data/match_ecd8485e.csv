@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+bdf7b97d,Fernando Torres,9,ESP,FW,34-047,90,0,0,0,0,1,0,0,0,26,0,0,0,0.1,0.1,0.0,0,0,8,16,50.0,1,10,0,3,1,Atlético Madrid,2018-05-06 Atlético Madrid-Espanyol,ESP-LALIGA,17-18,ecd8485e
+42276181,Kévin Gameiro,21,FRA,"FW,LW",30-362,90,0,0,0,0,1,0,0,0,26,2,0,0,0.3,0.3,0.1,1,0,16,20,80.0,1,16,0,2,2,Atlético Madrid,2018-05-06 Atlético Madrid-Espanyol,ESP-LALIGA,17-18,ecd8485e
+e4ed2628,Filipe Luís,3,BRA,LW,32-270,64,0,0,0,0,0,0,0,0,47,3,4,1,0.0,0.0,0.0,0,0,26,38,68.4,2,32,2,3,2,Atlético Madrid,2018-05-06 Atlético Madrid-Espanyol,ESP-LALIGA,17-18,ecd8485e
+65d750b5,Gabi,14,ESP,"RM,LW",34-300,26,0,0,0,0,1,0,0,0,20,0,0,0,0.0,0.0,0.0,2,0,14,19,73.7,1,15,0,0,0,Atlético Madrid,2018-05-06 Atlético Madrid-Espanyol,ESP-LALIGA,17-18,ecd8485e
+46a8347f,Šime Vrsaljko,16,CRO,"RW,RB",26-116,90,0,0,0,0,0,0,0,0,72,3,0,1,0.0,0.0,0.2,2,0,41,63,65.1,3,49,7,3,1,Atlético Madrid,2018-05-06 Atlético Madrid-Espanyol,ESP-LALIGA,17-18,ecd8485e
+55126f3b,Koke,6,ESP,CM,26-118,45,0,0,0,0,0,0,0,0,58,2,0,0,0.0,0.0,0.1,1,0,49,54,90.7,4,46,0,0,0,Atlético Madrid,2018-05-06 Atlético Madrid-Espanyol,ESP-LALIGA,17-18,ecd8485e
+c14bc029,Saúl Ñíguez,8,ESP,"CM,LM",23-166,45,0,0,0,0,0,0,0,0,23,1,0,3,0.0,0.0,0.0,0,0,16,17,94.1,6,15,3,2,2,Atlético Madrid,2018-05-06 Atlético Madrid-Espanyol,ESP-LALIGA,17-18,ecd8485e
+db750822,Vitolo,23,ESP,CM,28-185,25,0,0,0,0,1,0,0,0,15,0,0,0,0.1,0.1,0.0,1,0,9,12,75.0,1,15,1,1,1,Atlético Madrid,2018-05-06 Atlético Madrid-Espanyol,ESP-LALIGA,17-18,ecd8485e
+22df75d8,Arona Sané,37,SEN,"CM,RW",22-319,65,0,0,0,0,1,1,0,0,21,1,0,1,0.0,0.0,0.0,1,0,10,15,66.7,2,18,1,2,0,Atlético Madrid,2018-05-06 Atlético Madrid-Espanyol,ESP-LALIGA,17-18,ecd8485e
+529f49ab,Thomas Partey,5,GHA,"DM,CM",24-327,90,0,0,0,0,0,0,0,0,70,3,1,2,0.0,0.0,0.0,1,0,51,59,86.4,6,47,0,3,1,Atlético Madrid,2018-05-06 Atlético Madrid-Espanyol,ESP-LALIGA,17-18,ecd8485e
+c3ee18ef,Lucas Hernández,19,FRA,"CB,LB",22-081,90,0,0,0,0,2,1,0,0,72,6,3,2,0.1,0.1,0.0,2,0,44,53,83.0,5,43,2,3,3,Atlético Madrid,2018-05-06 Atlético Madrid-Espanyol,ESP-LALIGA,17-18,ecd8485e
+f0da930c,José María Giménez,24,URU,CB,23-106,90,0,0,0,0,2,1,1,0,67,4,2,3,0.1,0.1,0.1,0,0,46,52,88.5,1,43,0,1,1,Atlético Madrid,2018-05-06 Atlético Madrid-Espanyol,ESP-LALIGA,17-18,ecd8485e
+f6ac68c1,Stefan Savić,15,MNE,CB,27-118,90,0,0,0,0,0,0,0,0,69,1,0,3,0.0,0.0,0.0,0,0,52,65,80.0,9,55,3,0,0,Atlético Madrid,2018-05-06 Atlético Madrid-Espanyol,ESP-LALIGA,17-18,ecd8485e
+ee8508c0,Jan Oblak,13,SVN,GK,25-119,90,0,0,0,0,0,0,0,0,24,0,0,0,0.0,0.0,0.0,0,0,18,21,85.7,0,10,0,0,0,Atlético Madrid,2018-05-06 Atlético Madrid-Espanyol,ESP-LALIGA,17-18,ecd8485e
+35f6db55,Léo Baptistão,11,BRA,FW,25-253,90,1,0,0,0,4,3,0,0,42,1,0,3,0.5,0.5,0.0,3,0,18,26,69.2,0,30,3,6,3,Espanyol,2018-05-06 Atlético Madrid-Espanyol,ESP-LALIGA,17-18,ecd8485e
+81f0781e,Gerard Moreno,7,ESP,FW,26-029,82,0,0,0,0,3,2,0,0,63,1,0,2,0.2,0.2,0.4,6,1,40,50,80.0,3,39,4,6,4,Espanyol,2018-05-06 Atlético Madrid-Espanyol,ESP-LALIGA,17-18,ecd8485e
+71d4e271,José Manuel Jurado,10,ESP,FW,31-311,8,0,0,0,0,1,0,0,0,11,0,0,0,0.1,0.1,0.0,0,0,9,9,100.0,2,11,1,0,0,Espanyol,2018-05-06 Atlético Madrid-Espanyol,ESP-LALIGA,17-18,ecd8485e
+379652be,Óscar Melendo,14,ESP,LM,20-256,77,0,1,0,0,1,0,1,0,35,0,0,0,0.1,0.1,0.1,3,1,26,33,78.8,2,26,1,1,0,Espanyol,2018-05-06 Atlético Madrid-Espanyol,ESP-LALIGA,17-18,ecd8485e
+2bee98fd,Sergio García,9,ESP,LM,34-331,13,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.1,2,0,5,7,71.4,1,5,1,0,0,Espanyol,2018-05-06 Atlético Madrid-Espanyol,ESP-LALIGA,17-18,ecd8485e
+50b51fac,Carlos Sánchez,8,COL,CM,32-089,90,0,0,0,0,0,0,0,0,59,3,2,1,0.0,0.0,0.0,1,0,47,52,90.4,3,42,0,1,1,Espanyol,2018-05-06 Atlético Madrid-Espanyol,ESP-LALIGA,17-18,ecd8485e
+070a3904,Sergi Darder,25,ESP,CM,24-135,72,0,0,0,0,1,0,0,0,58,1,1,0,0.0,0.0,0.1,3,0,43,54,79.6,4,44,3,0,0,Espanyol,2018-05-06 Atlético Madrid-Espanyol,ESP-LALIGA,17-18,ecd8485e
+da27e268,Marc Roca,21,ESP,CM,21-161,18,0,0,0,0,1,0,0,0,19,0,0,0,0.0,0.0,0.0,1,0,16,17,94.1,0,14,0,0,0,Espanyol,2018-05-06 Atlético Madrid-Espanyol,ESP-LALIGA,17-18,ecd8485e
+ad4d0985,Víctor Sánchez,4,ESP,RM,30-240,90,0,0,0,0,1,0,0,0,65,0,2,1,0.0,0.0,0.0,0,0,43,59,72.9,2,48,1,1,0,Espanyol,2018-05-06 Atlético Madrid-Espanyol,ESP-LALIGA,17-18,ecd8485e
+bad38a94,Dídac Vilà,12,ESP,LB,28-331,90,0,0,0,0,1,0,1,0,77,5,3,1,0.0,0.0,0.0,2,0,49,60,81.7,5,47,6,2,1,Espanyol,2018-05-06 Atlético Madrid-Espanyol,ESP-LALIGA,17-18,ecd8485e
+a2609621,Naldo,5,BRA,CB,29-254,90,0,0,0,0,0,0,0,0,59,2,2,0,0.0,0.0,0.0,1,0,43,48,89.6,1,37,0,1,1,Espanyol,2018-05-06 Atlético Madrid-Espanyol,ESP-LALIGA,17-18,ecd8485e
+f03f284b,David López,15,ESP,CB,28-209,90,0,0,0,0,0,0,0,0,84,2,1,1,0.0,0.0,0.0,1,0,67,73,91.8,3,57,0,0,0,Espanyol,2018-05-06 Atlético Madrid-Espanyol,ESP-LALIGA,17-18,ecd8485e
+ffad706e,Javi López,16,ESP,RB,32-105,90,0,0,0,0,1,0,0,0,109,2,1,1,0.0,0.0,0.0,4,0,89,98,90.8,13,66,1,5,2,Espanyol,2018-05-06 Atlético Madrid-Espanyol,ESP-LALIGA,17-18,ecd8485e
+20b9f052,Pau López,1,ESP,GK,23-144,90,0,0,0,0,0,0,1,0,35,0,0,0,0.0,0.0,0.0,0,0,24,33,72.7,0,21,0,0,0,Espanyol,2018-05-06 Atlético Madrid-Espanyol,ESP-LALIGA,17-18,ecd8485e

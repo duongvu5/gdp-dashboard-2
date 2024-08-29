@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+5bd72174,Francesco Caputo,9,ITA,FW,36-112,90,1,0,1,1,1,1,0,0,21,1,0,0,0.8,0.0,0.1,2,0,14,16,87.5,1,11,0,0,0,Empoli,2023-11-26 Empoli-Sassuolo,ITA-SERIA_A,23-24,ff49299b
+b6a1cdf9,Matteo Cancellieri,20,ITA,LW,21-287,70,0,1,0,0,1,0,0,0,26,1,0,1,0.1,0.1,0.0,0,0,13,19,68.4,0,14,3,4,1,Empoli,2023-11-26 Empoli-Sassuolo,ITA-SERIA_A,23-24,ff49299b
+801831fe,Daniel Maldini,27,ITA,LW,22-046,20,0,0,0,0,0,0,0,0,15,0,0,1,0.0,0.0,0.0,0,0,6,7,85.7,2,8,0,4,0,Empoli,2023-11-26 Empoli-Sassuolo,ITA-SERIA_A,23-24,ff49299b
+91ff775f,Nicolò Cambiaghi,28,ITA,RW,22-333,78,0,0,0,0,1,0,0,0,35,1,0,0,0.0,0.0,0.0,6,1,18,29,62.1,4,25,3,2,0,Empoli,2023-11-26 Empoli-Sassuolo,ITA-SERIA_A,23-24,ff49299b
+d7d32194,Mattia Destro,23,ITA,RW,32-251,12,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.2,0,0,2,2,100.0,0,1,0,0,0,Empoli,2023-11-26 Empoli-Sassuolo,ITA-SERIA_A,23-24,ff49299b
+4c8845f7,Youssef Maleh,29,MAR,LM,25-096,78,0,0,0,0,0,0,1,0,32,2,1,0,0.0,0.0,0.0,0,0,13,22,59.1,2,8,0,0,0,Empoli,2023-11-26 Empoli-Sassuolo,ITA-SERIA_A,23-24,ff49299b
+f9758dae,Emmanuel Gyasi,11,GHA,LM,29-319,12,0,0,0,0,1,1,1,0,7,0,0,1,0.2,0.2,0.0,1,0,3,3,100.0,0,5,0,0,0,Empoli,2023-11-26 Empoli-Sassuolo,ITA-SERIA_A,23-24,ff49299b
+d9ebed1c,Filippo Ranocchia,22,ITA,CM,22-196,69,0,0,0,0,1,1,0,0,35,0,1,2,0.0,0.0,0.0,0,0,15,27,55.6,3,18,0,1,1,Empoli,2023-11-26 Empoli-Sassuolo,ITA-SERIA_A,23-24,ff49299b
+6cc97b6a,Alberto Grassi,5,ITA,CM,28-264,21,0,0,0,0,0,0,1,0,11,0,0,0,0.0,0.0,0.0,2,0,7,10,70.0,1,5,1,0,0,Empoli,2023-11-26 Empoli-Sassuolo,ITA-SERIA_A,23-24,ff49299b
+06b08c45,Jacopo Fazzini,21,ITA,RM,20-255,69,1,0,0,0,1,1,1,0,32,3,0,0,0.1,0.1,0.0,2,0,23,26,88.5,1,15,1,0,0,Empoli,2023-11-26 Empoli-Sassuolo,ITA-SERIA_A,23-24,ff49299b
+9d60028d,Viktor Kovalenko,8,UKR,RM,27-285,21,0,0,0,0,2,1,0,0,17,1,0,1,0.1,0.1,0.0,0,0,7,10,70.0,0,6,0,0,0,Empoli,2023-11-26 Empoli-Sassuolo,ITA-SERIA_A,23-24,ff49299b
+dd86e8e4,Liberato Cacace,13,NZL,LB,23-060,90,0,0,0,0,0,0,0,0,50,3,0,2,0.0,0.0,0.0,2,0,30,40,75.0,1,22,1,3,2,Empoli,2023-11-26 Empoli-Sassuolo,ITA-SERIA_A,23-24,ff49299b
+997fff07,Sebastiano Luperto,33,ITA,CB,27-081,90,0,0,0,0,2,1,0,0,73,0,0,3,0.0,0.0,0.0,1,0,52,63,82.5,2,49,0,0,0,Empoli,2023-11-26 Empoli-Sassuolo,ITA-SERIA_A,23-24,ff49299b
+6b635f5c,Ardian Ismajli,34,ALB,CB,27-057,90,0,0,0,0,0,0,0,0,68,0,1,0,0.0,0.0,0.0,0,0,50,57,87.7,1,43,0,0,0,Empoli,2023-11-26 Empoli-Sassuolo,ITA-SERIA_A,23-24,ff49299b
+61b3978f,Bartosz Bereszyński,19,POL,RB,31-137,90,0,0,0,0,0,0,0,0,61,5,3,0,0.0,0.0,0.0,1,0,37,46,80.4,3,25,0,0,0,Empoli,2023-11-26 Empoli-Sassuolo,ITA-SERIA_A,23-24,ff49299b
+ee833569,Etrit Berisha,99,ALB,GK,34-261,90,0,0,0,0,0,0,0,0,39,0,0,0,0.0,0.0,0.0,0,0,22,34,64.7,0,21,0,0,0,Empoli,2023-11-26 Empoli-Sassuolo,ITA-SERIA_A,23-24,ff49299b
+08aa9cd1,Andrea Pinamonti,9,ITA,FW,24-191,77,1,0,0,0,2,1,0,0,29,0,0,1,0.2,0.2,0.0,2,1,12,18,66.7,2,14,0,1,0,Sassuolo,2023-11-26 Empoli-Sassuolo,ITA-SERIA_A,23-24,ff49299b
+30297946,Samuele Mulattieri,8,ITA,FW,23-050,13,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,3,5,60.0,0,2,0,0,0,Sassuolo,2023-11-26 Empoli-Sassuolo,ITA-SERIA_A,23-24,ff49299b
+2d22cea7,Armand Lauriente,45,FRA,LW,24-357,77,0,0,0,0,0,0,0,0,38,2,1,0,0.0,0.0,0.3,4,0,17,27,63.0,3,28,4,8,3,Sassuolo,2023-11-26 Empoli-Sassuolo,ITA-SERIA_A,23-24,ff49299b
+130a7a3f,Samu Castillejo,20,ESP,LW,28-312,13,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,1,0,7,7,100.0,1,7,1,0,0,Sassuolo,2023-11-26 Empoli-Sassuolo,ITA-SERIA_A,23-24,ff49299b
+53a0e358,Domenico Berardi,10,ITA,RW,29-117,89,2,0,1,1,6,3,1,0,54,2,1,3,1.3,0.5,0.0,2,0,25,41,61.0,4,35,3,1,0,Sassuolo,2023-11-26 Empoli-Sassuolo,ITA-SERIA_A,23-24,ff49299b
+596cc50e,Marcus Pedersen,3,NOR,RW,23-133,1,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,1,0,0,0,0,Sassuolo,2023-11-26 Empoli-Sassuolo,ITA-SERIA_A,23-24,ff49299b
+76ff8d0d,Kristian Thorstvedt,42,NOR,AM,24-258,78,0,0,0,0,2,1,0,0,32,0,0,0,0.1,0.1,0.0,4,0,14,23,60.9,2,14,0,2,1,Sassuolo,2023-11-26 Empoli-Sassuolo,ITA-SERIA_A,23-24,ff49299b
+f42d6c13,Nedim Bajrami,11,ALB,AM,24-271,12,0,0,0,0,3,1,0,0,8,0,0,0,0.1,0.1,0.0,2,1,4,4,100.0,1,4,0,0,0,Sassuolo,2023-11-26 Empoli-Sassuolo,ITA-SERIA_A,23-24,ff49299b
+a2d9f138,Matheus Henrique,7,BRA,DM,25-342,90,1,0,0,0,2,2,1,0,50,1,0,0,0.3,0.3,0.0,5,0,31,41,75.6,7,34,0,3,1,Sassuolo,2023-11-26 Empoli-Sassuolo,ITA-SERIA_A,23-24,ff49299b
+85f7ed25,Daniel Boloca,24,ROU,DM,24-339,90,0,0,0,0,0,0,0,0,56,5,0,0,0.0,0.0,0.0,3,2,45,50,90.0,6,31,0,0,0,Sassuolo,2023-11-26 Empoli-Sassuolo,ITA-SERIA_A,23-24,ff49299b
+75438a9a,Mattia Viti,21,ITA,LB,21-306,54,0,0,0,0,0,0,0,0,31,0,1,1,0.0,0.0,0.0,1,0,18,25,72.0,3,13,0,0,0,Sassuolo,2023-11-26 Empoli-Sassuolo,ITA-SERIA_A,23-24,ff49299b
+08eb3b58,Matías Viña,17,URU,LB,26-017,36,0,1,0,0,0,0,0,0,24,0,0,0,0.0,0.0,0.1,2,1,16,22,72.7,2,13,1,0,0,Sassuolo,2023-11-26 Empoli-Sassuolo,ITA-SERIA_A,23-24,ff49299b
+0fee6bda,Martin Erlic,5,CRO,CB,25-306,90,0,0,0,0,0,0,0,0,52,2,2,0,0.0,0.0,0.0,1,1,33,42,78.6,0,26,0,0,0,Sassuolo,2023-11-26 Empoli-Sassuolo,ITA-SERIA_A,23-24,ff49299b
+a378a02a,Ruan,44,BRA,CB,24-172,90,0,0,0,0,1,0,0,0,43,1,0,0,0.3,0.3,0.0,0,0,29,33,87.9,0,19,0,1,0,Sassuolo,2023-11-26 Empoli-Sassuolo,ITA-SERIA_A,23-24,ff49299b
+a96e5dc0,Jeremy Toljan,22,GER,RB,29-110,90,0,1,0,0,0,0,0,0,51,1,0,2,0.0,0.0,0.3,3,2,35,48,72.9,3,26,0,3,2,Sassuolo,2023-11-26 Empoli-Sassuolo,ITA-SERIA_A,23-24,ff49299b
+8cabdc1e,Andrea Consigli,47,ITA,GK,36-303,90,0,0,0,0,0,0,0,0,41,0,0,0,0.0,0.0,0.0,0,0,25,36,69.4,0,22,0,0,0,Sassuolo,2023-11-26 Empoli-Sassuolo,ITA-SERIA_A,23-24,ff49299b
