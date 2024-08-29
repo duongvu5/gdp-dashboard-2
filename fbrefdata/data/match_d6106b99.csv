@@ -1,0 +1,32 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+8d78e732,Robert Lewandowski,9,POL,FW,35-163,90,0,0,0,0,3,0,0,0,28,0,0,0,0.2,0.2,0.0,0,0,15,22,68.2,0,15,1,2,2,Barcelona,2024-01-31 Barcelona-Osasuna,ESP-LALIGA,23-24,d6106b99
+9e1035f8,Ferrán Torres,7,ESP,LW,23-336,6,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,2,0,0,0,Barcelona,2024-01-31 Barcelona-Osasuna,ESP-LALIGA,23-24,d6106b99
+c1fe5f0b,Fermin López,16,ESP,LW,20-265,55,0,0,0,0,3,1,0,0,35,1,0,0,0.1,0.1,0.1,3,0,22,24,91.7,2,25,0,0,0,Barcelona,2024-01-31 Barcelona-Osasuna,ESP-LALIGA,23-24,d6106b99
+cb00f1e6,Vitor Roque,19,BRA,LW,18-337,29,1,0,0,0,2,1,0,0,13,0,0,0,0.3,0.3,0.0,0,0,6,7,85.7,0,6,0,1,1,Barcelona,2024-01-31 Barcelona-Osasuna,ESP-LALIGA,23-24,d6106b99
+82ec26c1,Lamine Yamal,27,ESP,RW,16-202,90,0,0,0,0,3,2,0,0,50,2,1,4,0.6,0.6,0.4,6,0,32,37,86.5,2,33,3,10,3,Barcelona,2024-01-31 Barcelona-Osasuna,ESP-LALIGA,23-24,d6106b99
+1bacc518,Frenkie de Jong,21,NED,"DM,LM",26-264,90,0,0,0,0,0,0,0,0,103,2,1,1,0.0,0.0,0.1,5,1,89,96,92.7,10,68,5,0,0,Barcelona,2024-01-31 Barcelona-Osasuna,ESP-LALIGA,23-24,d6106b99
+0d9b2d31,Pedri,8,ESP,"DM,CM",21-067,76,0,0,0,0,0,0,1,0,71,2,1,3,0.0,0.0,0.0,1,0,56,62,90.3,4,43,0,0,0,Barcelona,2024-01-31 Barcelona-Osasuna,ESP-LALIGA,23-24,d6106b99
+4b511457,Oriol Romeu,18,ESP,DM,32-129,14,0,0,0,0,0,0,0,0,16,1,1,0,0.0,0.0,0.0,1,0,14,15,93.3,3,13,1,0,0,Barcelona,2024-01-31 Barcelona-Osasuna,ESP-LALIGA,23-24,d6106b99
+819b3158,İlkay Gündoğan,22,GER,"AM,RM",33-099,90,0,0,0,0,2,0,0,0,49,0,0,1,0.4,0.4,0.4,8,0,29,41,70.7,4,25,1,2,1,Barcelona,2024-01-31 Barcelona-Osasuna,ESP-LALIGA,23-24,d6106b99
+bd6351cd,João Cancelo,2,POR,LB,29-249,90,0,1,0,0,1,0,0,0,94,0,1,0,0.0,0.0,0.3,3,1,62,80,77.5,3,59,5,1,0,Barcelona,2024-01-31 Barcelona-Osasuna,ESP-LALIGA,23-24,d6106b99
+cc7888f3,Pau Cubarsí,33,ESP,CB,17-009,90,0,0,0,0,0,0,0,0,96,2,1,0,0.0,0.0,0.0,0,0,79,91,86.8,6,70,2,0,0,Barcelona,2024-01-31 Barcelona-Osasuna,ESP-LALIGA,23-24,d6106b99
+2bef2bca,Ronald Araújo,4,URU,CB,24-330,90,0,0,0,0,0,0,0,0,78,1,0,0,0.0,0.0,0.0,0,0,66,70,94.3,3,61,0,0,0,Barcelona,2024-01-31 Barcelona-Osasuna,ESP-LALIGA,23-24,d6106b99
+4d1666ff,Jules Koundé,23,FRA,RB,25-080,90,0,0,0,0,2,0,0,0,106,1,2,2,0.2,0.2,0.0,1,0,91,97,93.8,6,75,2,0,0,Barcelona,2024-01-31 Barcelona-Osasuna,ESP-LALIGA,23-24,d6106b99
+cc1c5035,Iñaki Peña,13,ESP,GK,24-335,90,0,0,0,0,0,0,0,0,33,0,0,0,0.0,0.0,0.0,0,0,29,32,90.6,0,24,0,0,0,Barcelona,2024-01-31 Barcelona-Osasuna,ESP-LALIGA,23-24,d6106b99
+46e07328,José Arnaiz,20,ESP,FW,28-291,67,0,0,0,0,0,0,0,0,18,1,0,0,0.0,0.0,0.2,3,0,11,15,73.3,4,7,2,2,2,Osasuna,2024-01-31 Barcelona-Osasuna,ESP-LALIGA,23-24,d6106b99
+18f0a9f0,Raúl,23,ESP,FW,23-089,23,0,0,0,0,2,0,0,0,11,0,0,0,0.2,0.2,0.0,0,0,4,7,57.1,1,9,1,1,0,Osasuna,2024-01-31 Barcelona-Osasuna,ESP-LALIGA,23-24,d6106b99
+8f3565b3,Ante Budimir,17,CRO,FW,32-193,67,0,0,0,0,1,0,0,0,23,2,0,0,0.3,0.3,0.0,0,0,7,14,50.0,2,9,0,1,0,Osasuna,2024-01-31 Barcelona-Osasuna,ESP-LALIGA,23-24,d6106b99
+5c96b017,Rubén García,14,ESP,FW,30-201,23,0,0,0,0,1,0,0,0,24,0,0,0,0.0,0.0,0.3,5,0,17,21,81.0,4,14,0,0,0,Osasuna,2024-01-31 Barcelona-Osasuna,ESP-LALIGA,23-24,d6106b99
+7c363088,Aimar Oroz,10,ESP,CM,22-065,67,0,0,0,0,0,0,0,0,32,0,0,0,0.0,0.0,0.0,0,0,19,26,73.1,0,16,0,0,0,Osasuna,2024-01-31 Barcelona-Osasuna,ESP-LALIGA,23-24,d6106b99
+4accb7e0,Darko Brašanac,8,SRB,CM,31-353,23,0,0,0,0,0,0,0,0,7,0,0,1,0.0,0.0,0.0,1,0,4,6,66.7,0,3,1,0,0,Osasuna,2024-01-31 Barcelona-Osasuna,ESP-LALIGA,23-24,d6106b99
+0e4fef6e,Lucas Torró,6,ESP,CM,29-196,82,0,0,0,0,1,0,0,0,25,0,1,0,0.1,0.1,0.3,2,0,16,18,88.9,2,11,0,0,0,Osasuna,2024-01-31 Barcelona-Osasuna,ESP-LALIGA,23-24,d6106b99
+3701906c,Pablo Ibáñez,19,ESP,CM,25-133,8,0,0,0,0,1,0,0,0,6,0,0,0,0.1,0.1,0.0,1,0,4,4,100.0,1,3,0,0,0,Osasuna,2024-01-31 Barcelona-Osasuna,ESP-LALIGA,23-24,d6106b99
+9939e168,Jon Moncayola,7,ESP,CM,25-263,82,0,0,0,0,1,1,0,0,32,2,2,1,0.0,0.0,0.0,0,0,20,27,74.1,2,13,0,0,0,Osasuna,2024-01-31 Barcelona-Osasuna,ESP-LALIGA,23-24,d6106b99
+aad53e64,Kike Barja,11,ESP,CM,26-305,8,0,0,0,0,1,0,0,0,3,1,0,0,0.1,0.1,0.0,0,0,0,1,0.0,0,1,1,0,0,Osasuna,2024-01-31 Barcelona-Osasuna,ESP-LALIGA,23-24,d6106b99
+608f2092,Johan Mojica,22,COL,LB,31-163,90,0,0,0,0,0,0,0,0,42,1,1,0,0.0,0.0,0.0,0,0,19,35,54.3,1,22,2,0,0,Osasuna,2024-01-31 Barcelona-Osasuna,ESP-LALIGA,23-24,d6106b99
+e19c989c,Jorge Herrando,28,ESP,CB,22-337,90,0,0,0,0,0,0,0,0,31,3,1,1,0.0,0.0,0.0,0,0,15,21,71.4,0,10,0,0,0,Osasuna,2024-01-31 Barcelona-Osasuna,ESP-LALIGA,23-24,d6106b99
+3e42f707,David García,5,ESP,CB,29-351,90,0,0,0,0,1,0,0,0,42,1,0,5,0.1,0.1,0.0,1,0,26,31,83.9,3,16,0,0,0,Osasuna,2024-01-31 Barcelona-Osasuna,ESP-LALIGA,23-24,d6106b99
+4a633cfe,Unai García,4,ESP,CB,31-362,66,0,0,0,0,0,0,2,1,30,2,3,1,0.0,0.0,0.0,0,0,16,23,69.6,1,12,0,0,0,Osasuna,2024-01-31 Barcelona-Osasuna,ESP-LALIGA,23-24,d6106b99
+94e01ec6,Jesús Areso,12,ESP,RB,24-213,90,0,0,0,0,0,0,0,0,51,1,0,4,0.0,0.0,0.1,2,0,31,42,73.8,3,19,1,1,1,Osasuna,2024-01-31 Barcelona-Osasuna,ESP-LALIGA,23-24,d6106b99
+a01c3d54,Aitor Fernández,13,ESP,GK,32-273,90,0,0,0,0,0,0,0,0,36,0,0,0,0.0,0.0,0.0,0,0,21,32,65.6,0,17,0,0,0,Osasuna,2024-01-31 Barcelona-Osasuna,ESP-LALIGA,23-24,d6106b99

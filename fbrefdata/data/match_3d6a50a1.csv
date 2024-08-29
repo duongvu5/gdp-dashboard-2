@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+66116290,Radamel Falcao,9,COL,FW,32-304,63,0,0,0,0,3,0,1,0,24,0,0,1,0.1,0.1,0.0,1,0,11,13,84.6,1,19,0,1,1,Monaco,2018-12-11 Monaco-Dortmund,UCL,18-19,3d6a50a1
+d8b97bb3,Moussa Sylla,34,MLI,FW,19-016,27,0,0,0,0,0,0,0,0,11,0,1,0,0.0,0.0,0.0,0,0,4,5,80.0,2,8,0,0,0,Monaco,2018-12-11 Monaco-Dortmund,UCL,18-19,3d6a50a1
+19053e31,Sofiane Diop,36,FRA,LM,18-185,90,0,0,0,0,0,0,1,0,41,2,0,1,0.0,0.0,0.0,1,0,18,26,69.2,1,34,4,7,1,Monaco,2018-12-11 Monaco-Dortmund,UCL,18-19,3d6a50a1
+eba1e557,Han-Noah Massengo,42,FRA,CM,17-157,68,0,0,0,0,0,0,0,0,28,1,1,0,0.0,0.0,0.0,0,0,17,22,77.3,2,25,2,2,0,Monaco,2018-12-11 Monaco-Dortmund,UCL,18-19,3d6a50a1
+7d9397f8,Khéphren Thuram,45,FRA,CM,17-260,22,0,0,0,0,0,0,0,0,21,3,0,0,0.0,0.0,0.0,0,0,11,13,84.6,2,16,0,0,0,Monaco,2018-12-11 Monaco-Dortmund,UCL,18-19,3d6a50a1
+56f7a928,Youri Tielemans,8,BEL,CM,21-218,90,0,0,0,0,1,0,1,0,57,1,1,3,0.0,0.0,0.4,2,0,34,45,75.6,5,36,3,1,0,Monaco,2018-12-11 Monaco-Dortmund,UCL,18-19,3d6a50a1
+0a89e877,Benjamin Henrichs,39,GER,RM,21-291,90,0,0,0,0,0,0,0,0,41,0,0,1,0.0,0.0,0.0,2,0,26,36,72.2,4,38,7,1,0,Monaco,2018-12-11 Monaco-Dortmund,UCL,18-19,3d6a50a1
+c46fa34c,Youssef Aït Bennasser,15,MAR,DM,22-157,90,0,0,0,0,0,0,0,0,76,3,0,0,0.0,0.0,0.0,0,0,52,62,83.9,2,52,1,0,0,Monaco,2018-12-11 Monaco-Dortmund,UCL,18-19,3d6a50a1
+bd4f5f94,Andrea Raggi,24,ITA,"LB,RB",34-170,90,0,0,0,0,1,0,1,0,57,1,1,2,0.1,0.1,0.0,1,0,40,51,78.4,5,32,2,1,1,Monaco,2018-12-11 Monaco-Dortmund,UCL,18-19,3d6a50a1
+06df8256,Benoît Badiashile,32,FRA,CB,17-260,90,0,0,0,0,0,0,0,0,79,1,0,2,0.0,0.0,0.1,0,0,66,71,93.0,5,63,1,1,1,Monaco,2018-12-11 Monaco-Dortmund,UCL,18-19,3d6a50a1
+c6056d58,Kamil Glik,25,POL,CB,30-311,90,0,0,0,0,1,0,0,0,67,5,0,0,0.4,0.4,0.0,1,0,51,57,89.5,0,49,1,1,1,Monaco,2018-12-11 Monaco-Dortmund,UCL,18-19,3d6a50a1
+de40e38c,Giulian Biancone,46,FRA,RB,18-255,77,0,0,0,0,0,0,0,0,49,1,1,1,0.0,0.0,0.0,1,0,30,42,71.4,5,34,2,0,0,Monaco,2018-12-11 Monaco-Dortmund,UCL,18-19,3d6a50a1
+7fb301af,Julien Serrano,21,FRA,LB,20-301,13,0,0,0,0,0,0,0,0,14,0,0,0,0.0,0.0,0.0,0,0,12,14,85.7,2,10,0,0,0,Monaco,2018-12-11 Monaco-Dortmund,UCL,18-19,3d6a50a1
+b7e7937d,Diego Benaglio,16,SUI,GK,35-094,90,0,0,0,0,0,0,0,0,35,0,0,0,0.0,0.0,0.0,0,0,33,33,100.0,0,17,0,0,0,Monaco,2018-12-11 Monaco-Dortmund,UCL,18-19,3d6a50a1
+061e8e23,Maximilian Philipp,20,GER,FW,24-285,78,0,1,0,0,3,0,0,0,46,2,1,1,0.2,0.2,0.9,5,1,26,33,78.8,5,32,1,4,3,Dortmund,2018-12-11 Monaco-Dortmund,UCL,18-19,3d6a50a1
+a7a9d95a,Paco Alcácer,9,ESP,FW,25-103,12,0,1,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.4,1,1,4,5,80.0,0,3,0,1,0,Dortmund,2018-12-11 Monaco-Dortmund,UCL,18-19,3d6a50a1
+048a1cbc,Raphaël Guerreiro,13,POR,LW,24-354,89,2,0,0,0,4,2,0,0,99,1,4,1,1.3,1.3,1.0,4,0,80,85,94.1,10,76,5,1,0,Dortmund,2018-12-11 Monaco-Dortmund,UCL,18-19,3d6a50a1
+01e5f06e,Sergio Gómez,17,ESP,LW,18-098,1,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,3,3,100.0,1,3,0,0,0,Dortmund,2018-12-11 Monaco-Dortmund,UCL,18-19,3d6a50a1
+1bf33a9a,Christian Pulisic,22,USA,RW,20-084,90,0,0,0,0,0,0,0,0,66,1,0,0,0.0,0.0,0.0,3,1,42,55,76.4,5,49,9,5,2,Dortmund,2018-12-11 Monaco-Dortmund,UCL,18-19,3d6a50a1
+9efa1d25,Mario Götze,10,GER,AM,26-191,90,0,0,0,0,1,0,0,0,70,4,1,0,0.1,0.1,0.0,2,0,50,57,87.7,6,47,4,3,2,Dortmund,2018-12-11 Monaco-Dortmund,UCL,18-19,3d6a50a1
+db4ed67b,Mahmoud Dahoud,19,GER,DM,22-344,75,0,0,0,0,1,0,1,0,87,0,2,2,0.0,0.0,0.1,2,0,65,75,86.7,5,69,0,0,0,Dortmund,2018-12-11 Monaco-Dortmund,UCL,18-19,3d6a50a1
+fa661778,Marius Wolf,27,GER,DM,23-198,15,0,0,0,0,0,0,0,0,8,1,1,0,0.0,0.0,0.0,0,0,4,6,66.7,0,6,1,0,0,Dortmund,2018-12-11 Monaco-Dortmund,UCL,18-19,3d6a50a1
+346d51d9,Julian Weigl,33,GER,DM,23-094,90,0,0,0,0,0,0,1,0,98,8,0,0,0.0,0.0,0.0,0,0,76,86,88.4,4,69,2,1,1,Dortmund,2018-12-11 Monaco-Dortmund,UCL,18-19,3d6a50a1
+89565ac5,Marcel Schmelzer,29,GER,LB,30-323,90,0,0,0,0,2,1,0,0,108,2,1,2,0.1,0.1,0.0,4,1,84,95,88.4,7,73,8,1,0,Dortmund,2018-12-11 Monaco-Dortmund,UCL,18-19,3d6a50a1
+fc62f087,Abdou Diallo,4,SEN,CB,22-221,90,0,0,0,0,1,0,0,0,83,1,0,0,0.6,0.6,0.0,0,0,69,75,92.0,0,65,1,0,0,Dortmund,2018-12-11 Monaco-Dortmund,UCL,18-19,3d6a50a1
+c5fd13e9,Ömer Toprak,36,TUR,CB,29-143,90,0,0,0,0,2,1,0,0,91,3,1,1,0.3,0.3,0.0,1,0,73,76,96.1,5,71,0,0,0,Dortmund,2018-12-11 Monaco-Dortmund,UCL,18-19,3d6a50a1
+e42d61c7,Achraf Hakimi,5,MAR,RB,20-037,90,0,0,0,0,0,0,0,0,120,4,2,3,0.0,0.0,0.1,3,0,94,111,84.7,5,90,5,3,2,Dortmund,2018-12-11 Monaco-Dortmund,UCL,18-19,3d6a50a1
+2e7ff968,Marwin Hitz,35,SUI,GK,31-084,90,0,0,0,0,0,0,0,0,32,0,0,0,0.0,0.0,0.0,0,0,28,31,90.3,0,23,0,0,0,Dortmund,2018-12-11 Monaco-Dortmund,UCL,18-19,3d6a50a1

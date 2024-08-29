@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+d5dd5f1f,Pierre-Emerick Aubameyang,25,GAB,FW,32-268,72,1,0,0,0,4,2,0,0,28,1,0,0,1.0,1.0,0.0,1,1,18,21,85.7,0,18,3,0,0,Barcelona,2022-03-13 Barcelona-Osasuna,ESP-LALIGA,21-22,34cda9be
+8f696594,Memphis,9,NED,FW,28-028,18,0,0,0,0,2,1,0,0,16,0,0,0,0.4,0.4,0.0,0,0,11,12,91.7,2,7,0,1,0,Barcelona,2022-03-13 Barcelona-Osasuna,ESP-LALIGA,21-22,34cda9be
+9e1035f8,Ferrán Torres,19,ESP,LW,22-012,79,2,0,1,1,5,1,0,0,63,1,1,0,1.5,0.7,0.0,2,0,41,49,83.7,0,46,4,1,0,Barcelona,2022-03-13 Barcelona-Osasuna,ESP-LALIGA,21-22,34cda9be
+fd771f95,Martin Braithwaite,12,DEN,LW,30-281,11,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,3,3,100.0,0,4,0,0,0,Barcelona,2022-03-13 Barcelona-Osasuna,ESP-LALIGA,21-22,34cda9be
+b19db005,Ousmane Dembélé,7,FRA,RW,24-302,90,0,2,0,0,4,1,0,0,90,3,0,1,0.3,0.3,1.1,9,2,62,78,79.5,6,67,9,2,2,Barcelona,2022-03-13 Barcelona-Osasuna,ESP-LALIGA,21-22,34cda9be
+19cae58d,Gavi,30,ESP,LM,17-220,90,0,0,0,0,0,0,0,0,91,3,3,1,0.0,0.0,0.1,5,1,72,77,93.5,6,66,1,6,5,Barcelona,2022-03-13 Barcelona-Osasuna,ESP-LALIGA,21-22,34cda9be
+5ab0ea87,Sergio Busquets,5,ESP,CM,33-240,90,0,0,0,0,1,0,0,0,95,3,1,2,0.0,0.0,0.1,4,0,75,85,88.2,7,40,0,1,0,Barcelona,2022-03-13 Barcelona-Osasuna,ESP-LALIGA,21-22,34cda9be
+0d9b2d31,Pedri,16,ESP,RM,19-108,72,0,0,0,0,2,0,0,0,68,1,1,0,0.1,0.1,0.1,6,1,55,61,90.2,6,46,2,1,1,Barcelona,2022-03-13 Barcelona-Osasuna,ESP-LALIGA,21-22,34cda9be
+f090a37a,Riqui Puig,6,ESP,RM,22-212,18,1,0,0,0,2,2,0,0,33,1,0,0,0.4,0.4,0.0,2,2,26,29,89.7,2,25,0,2,1,Barcelona,2022-03-13 Barcelona-Osasuna,ESP-LALIGA,21-22,34cda9be
+4601e194,Jordi Alba,18,ESP,LB,32-357,78,0,0,0,0,2,1,0,0,141,1,0,0,0.0,0.0,0.0,2,0,124,134,92.5,18,90,0,1,0,Barcelona,2022-03-13 Barcelona-Osasuna,ESP-LALIGA,21-22,34cda9be
+056269d7,Óscar Mingueza,22,ESP,LB,22-304,12,0,0,0,0,0,0,0,0,17,2,0,0,0.0,0.0,0.0,0,0,14,14,100.0,0,9,1,1,1,Barcelona,2022-03-13 Barcelona-Osasuna,ESP-LALIGA,21-22,34cda9be
+2bed3eab,Eric García,24,ESP,CB,21-063,90,0,0,0,0,0,0,0,0,115,0,0,0,0.0,0.0,0.0,2,0,110,114,96.5,5,93,2,0,0,Barcelona,2022-03-13 Barcelona-Osasuna,ESP-LALIGA,21-22,34cda9be
+adfc9123,Gerard Piqué,3,ESP,CB,35-039,61,0,0,0,0,0,0,0,0,69,0,0,0,0.0,0.0,0.0,0,0,65,68,95.6,5,49,1,1,1,Barcelona,2022-03-13 Barcelona-Osasuna,ESP-LALIGA,21-22,34cda9be
+4f28a6ff,Clément Lenglet,15,FRA,CB,26-269,29,0,0,0,0,0,0,0,0,33,0,1,0,0.0,0.0,0.0,0,0,29,31,93.5,0,24,0,0,0,Barcelona,2022-03-13 Barcelona-Osasuna,ESP-LALIGA,21-22,34cda9be
+c9e99e49,Dani Alves,8,BRA,RB,38-311,90,0,0,0,0,1,0,0,0,117,2,1,0,0.0,0.0,0.8,6,1,99,113,87.6,14,76,5,0,0,Barcelona,2022-03-13 Barcelona-Osasuna,ESP-LALIGA,21-22,34cda9be
+6f51e382,Marc-André ter Stegen,1,GER,GK,29-317,90,0,0,0,0,0,0,0,0,32,0,0,0,0.0,0.0,0.0,0,0,30,31,96.8,0,17,0,0,0,Barcelona,2022-03-13 Barcelona-Osasuna,ESP-LALIGA,21-22,34cda9be
+e897d8ba,Kiké,18,ESP,FW,32-108,90,0,0,0,0,0,0,0,0,27,0,0,0,0.0,0.0,0.0,1,0,15,23,65.2,1,12,0,0,0,Osasuna,2022-03-13 Barcelona-Osasuna,ESP-LALIGA,21-22,34cda9be
+3672b352,Javi Martínez,28,ESP,"FW,CM",22-081,72,0,0,0,0,1,1,0,0,41,2,0,0,0.1,0.1,0.0,0,0,27,33,81.8,1,24,4,1,1,Osasuna,2022-03-13 Barcelona-Osasuna,ESP-LALIGA,21-22,34cda9be
+4accb7e0,Darko Brašanac,8,SRB,CM,30-029,18,0,0,0,0,0,0,1,0,8,0,0,0,0.0,0.0,0.0,0,0,6,6,100.0,0,2,0,0,0,Osasuna,2022-03-13 Barcelona-Osasuna,ESP-LALIGA,21-22,34cda9be
+5c96b017,Rubén García,14,ESP,LM,28-242,45,0,0,0,0,1,1,0,0,19,1,1,0,0.0,0.0,0.0,0,0,9,13,69.2,0,14,0,1,0,Osasuna,2022-03-13 Barcelona-Osasuna,ESP-LALIGA,21-22,34cda9be
+d733aa38,Roberto Torres,10,ESP,CM,33-006,45,0,0,0,0,1,0,0,0,24,1,0,1,0.0,0.0,0.0,0,0,17,19,89.5,2,10,0,0,0,Osasuna,2022-03-13 Barcelona-Osasuna,ESP-LALIGA,21-22,34cda9be
+0e4fef6e,Lucas Torró,24,ESP,CM,27-237,45,0,0,0,0,0,0,0,0,20,0,1,1,0.0,0.0,0.0,1,0,10,15,66.7,1,8,0,0,0,Osasuna,2022-03-13 Barcelona-Osasuna,ESP-LALIGA,21-22,34cda9be
+4a633cfe,Unai García,4,ESP,CB,30-038,45,0,0,0,0,0,0,1,0,29,1,3,4,0.0,0.0,0.0,0,0,12,15,80.0,0,10,1,1,1,Osasuna,2022-03-13 Barcelona-Osasuna,ESP-LALIGA,21-22,34cda9be
+9939e168,Jon Moncayola,7,ESP,CM,23-304,90,0,0,0,0,0,0,0,0,51,1,0,0,0.0,0.0,0.0,1,0,37,45,82.2,2,34,2,0,0,Osasuna,2022-03-13 Barcelona-Osasuna,ESP-LALIGA,21-22,34cda9be
+50cbc806,Iker Benito,33,ESP,"RM,FW",19-215,66,0,0,0,0,1,1,0,0,21,0,0,0,0.0,0.0,0.0,1,0,9,13,69.2,2,15,0,3,1,Osasuna,2022-03-13 Barcelona-Osasuna,ESP-LALIGA,21-22,34cda9be
+8f3565b3,Ante Budimir,17,CRO,FW,30-234,24,0,0,0,0,0,0,0,0,5,0,1,0,0.0,0.0,0.0,0,0,1,2,50.0,0,7,0,0,0,Osasuna,2022-03-13 Barcelona-Osasuna,ESP-LALIGA,21-22,34cda9be
+3024e383,José Ángel,16,ESP,LB,32-189,90,0,0,0,0,0,0,0,0,41,0,0,0,0.0,0.0,0.0,0,0,31,37,83.8,3,19,1,1,1,Osasuna,2022-03-13 Barcelona-Osasuna,ESP-LALIGA,21-22,34cda9be
+a56da3ba,Juan Cruz Armada,3,ESP,CB,29-228,90,0,0,0,0,0,0,0,0,43,3,1,2,0.0,0.0,0.0,1,0,26,32,81.3,1,20,0,1,0,Osasuna,2022-03-13 Barcelona-Osasuna,ESP-LALIGA,21-22,34cda9be
+3e42f707,David García,5,ESP,CB,28-027,45,0,0,0,0,0,0,1,0,24,1,2,1,0.0,0.0,0.0,0,0,14,15,93.3,0,11,0,0,0,Osasuna,2022-03-13 Barcelona-Osasuna,ESP-LALIGA,21-22,34cda9be
+132ac341,Aridane Hernández,23,ESP,CB,32-355,45,0,0,0,0,0,0,0,0,21,2,1,1,0.0,0.0,0.0,0,0,13,17,76.5,0,12,0,0,0,Osasuna,2022-03-13 Barcelona-Osasuna,ESP-LALIGA,21-22,34cda9be
+3a9c4b7b,Nacho Vidal,2,ESP,RB,27-048,90,0,0,0,0,0,0,1,0,46,4,2,1,0.0,0.0,0.0,0,0,25,33,75.8,0,21,0,1,1,Osasuna,2022-03-13 Barcelona-Osasuna,ESP-LALIGA,21-22,34cda9be
+a4995f48,Sergio Herrera,1,ESP,GK,28-281,90,0,0,0,0,0,0,0,0,45,0,0,0,0.0,0.0,0.0,0,0,23,42,54.8,0,23,0,0,0,Osasuna,2022-03-13 Barcelona-Osasuna,ESP-LALIGA,21-22,34cda9be

@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+70d74ece,Karim Benzema,9,FRA,FW,32-188,82,0,0,0,0,3,2,0,0,32,2,0,0,0.2,0.2,0.4,3,0,21,26,80.8,4,23,2,0,0,Real Madrid,2020-06-24 Real Madrid-Mallorca,ESP-LALIGA,19-20,7dbd513e
+5c4dc0ff,Mariano,24,DOM,FW,26-328,8,0,0,0,0,1,0,0,0,4,0,0,0,0.1,0.1,0.0,0,0,1,3,33.3,0,2,0,0,0,Real Madrid,2020-06-24 Real Madrid-Mallorca,ESP-LALIGA,19-20,7dbd513e
+7111d552,Vinicius Júnior,25,BRA,LW,19-348,82,1,0,0,0,3,1,0,0,51,3,1,0,0.8,0.8,0.1,5,0,31,38,81.6,5,36,5,4,2,Real Madrid,2020-06-24 Real Madrid-Mallorca,ESP-LALIGA,19-20,7dbd513e
+407feb71,Brahim Díaz,21,MAR,LW,20-326,8,0,0,0,0,1,1,0,0,9,0,0,0,0.0,0.0,0.0,0,0,5,7,71.4,0,4,0,1,0,Real Madrid,2020-06-24 Real Madrid-Mallorca,ESP-LALIGA,19-20,7dbd513e
+a58bb1e1,Gareth Bale,11,WAL,RW,30-344,70,0,0,0,0,3,1,0,0,40,2,0,0,0.2,0.2,0.0,1,0,25,33,75.8,1,20,2,2,1,Real Madrid,2020-06-24 Real Madrid-Mallorca,ESP-LALIGA,19-20,7dbd513e
+a0b4bb3e,Isco,22,ESP,RM,28-064,20,0,0,0,0,0,0,0,0,16,0,1,0,0.0,0.0,0.0,0,0,13,14,92.9,2,12,1,0,0,Real Madrid,2020-06-24 Real Madrid-Mallorca,ESP-LALIGA,19-20,7dbd513e
+a39bb753,Eden Hazard,7,BEL,AM,29-169,61,0,0,0,0,1,0,0,0,28,1,0,1,0.0,0.0,0.1,1,0,19,21,90.5,4,17,2,1,1,Real Madrid,2020-06-24 Real Madrid-Mallorca,ESP-LALIGA,19-20,7dbd513e
+6ce1f46f,Toni Kroos,8,GER,LM,30-172,29,0,0,0,0,0,0,1,0,26,1,0,0,0.0,0.0,0.0,2,0,23,27,85.2,1,18,1,1,1,Real Madrid,2020-06-24 Real Madrid-Mallorca,ESP-LALIGA,19-20,7dbd513e
+6025fab1,Luka Modrić,10,CRO,"DM,RM",34-289,70,0,1,0,0,0,0,1,0,53,2,1,0,0.0,0.0,0.4,5,1,42,48,87.5,4,32,1,2,2,Real Madrid,2020-06-24 Real Madrid-Mallorca,ESP-LALIGA,19-20,7dbd513e
+45af8a54,Marco Asensio,20,ESP,RW,24-155,20,0,0,0,0,0,0,0,0,12,0,0,1,0.0,0.0,0.1,1,0,10,11,90.9,3,7,1,0,0,Real Madrid,2020-06-24 Real Madrid-Mallorca,ESP-LALIGA,19-20,7dbd513e
+0959c2a2,Federico Valverde,15,URU,"DM,CM",21-338,90,0,0,0,0,0,0,0,0,50,2,0,1,0.0,0.0,0.1,3,1,43,46,93.5,3,18,1,1,1,Real Madrid,2020-06-24 Real Madrid-Mallorca,ESP-LALIGA,19-20,7dbd513e
+3cefcaef,Ferland Mendy,23,FRA,LB,25-016,90,0,0,0,0,0,0,1,0,57,2,0,0,0.0,0.0,0.1,1,0,46,51,90.2,1,28,3,1,1,Real Madrid,2020-06-24 Real Madrid-Mallorca,ESP-LALIGA,19-20,7dbd513e
+08511d65,Sergio Ramos,4,ESP,CB,34-086,90,1,0,0,0,1,1,1,0,72,1,2,0,0.1,0.1,0.0,0,0,58,63,92.1,0,32,0,0,0,Real Madrid,2020-06-24 Real Madrid-Mallorca,ESP-LALIGA,19-20,7dbd513e
+9f8e9423,Raphaël Varane,5,FRA,CB,27-060,90,0,0,0,0,0,0,0,0,80,0,2,1,0.0,0.0,0.0,0,0,63,71,88.7,0,48,0,1,0,Real Madrid,2020-06-24 Real Madrid-Mallorca,ESP-LALIGA,19-20,7dbd513e
+4958bfb2,Dani Carvajal,2,ESP,RB,28-165,90,0,0,0,0,1,0,0,0,70,1,0,2,0.0,0.0,0.0,2,0,52,62,83.9,4,32,0,0,0,Real Madrid,2020-06-24 Real Madrid-Mallorca,ESP-LALIGA,19-20,7dbd513e
+1840e36d,Thibaut Courtois,13,BEL,GK,28-044,90,0,0,0,0,0,0,0,0,33,0,1,0,0.0,0.0,0.0,0,0,27,31,87.1,0,17,0,0,0,Real Madrid,2020-06-24 Real Madrid-Mallorca,ESP-LALIGA,19-20,7dbd513e
+16aa3654,Takefusa Kubo,26,JPN,"RM,FW",19-020,90,0,0,0,0,3,0,0,0,56,0,0,1,0.1,0.1,0.1,6,0,37,41,90.2,6,45,3,8,5,Mallorca,2020-06-24 Real Madrid-Mallorca,ESP-LALIGA,19-20,7dbd513e
+8f3565b3,Ante Budimir,22,CRO,FW,28-338,60,0,0,0,0,2,2,1,0,24,1,0,0,0.1,0.1,0.0,0,0,10,17,58.8,0,8,0,1,1,Mallorca,2020-06-24 Real Madrid-Mallorca,ESP-LALIGA,19-20,7dbd513e
+71b47ab9,Cucho,29,COL,FW,21-065,30,0,0,0,0,1,0,0,0,14,1,0,1,0.1,0.1,0.0,0,0,7,10,70.0,0,8,2,1,0,Mallorca,2020-06-24 Real Madrid-Mallorca,ESP-LALIGA,19-20,7dbd513e
+38126309,Aleix Febas,23,ESP,CM,24-143,60,0,0,0,0,0,0,0,0,29,1,0,0,0.0,0.0,0.0,1,0,25,27,92.6,1,26,1,0,0,Mallorca,2020-06-24 Real Madrid-Mallorca,ESP-LALIGA,19-20,7dbd513e
+75bd85ea,Salva Sevilla,8,ESP,CM,36-098,30,0,0,0,0,0,0,0,0,18,1,1,0,0.0,0.0,0.0,1,0,14,16,87.5,4,14,0,0,0,Mallorca,2020-06-24 Real Madrid-Mallorca,ESP-LALIGA,19-20,7dbd513e
+bfd381b3,Iddrisu Baba,12,GHA,"CM,DM",24-154,82,0,0,0,0,1,1,0,0,49,2,1,0,0.0,0.0,0.0,1,0,38,48,79.2,2,36,0,2,2,Mallorca,2020-06-24 Real Madrid-Mallorca,ESP-LALIGA,19-20,7dbd513e
+ca6edaa0,Luka Romero,41,ARG,FW,15-219,8,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,2,0,0,0,Mallorca,2020-06-24 Real Madrid-Mallorca,ESP-LALIGA,19-20,7dbd513e
+70f8e0bd,Dani Rodríguez,14,ESP,CM,32-018,90,0,0,0,0,0,0,0,0,59,2,2,2,0.0,0.0,0.2,5,0,42,49,85.7,9,39,4,3,2,Mallorca,2020-06-24 Real Madrid-Mallorca,ESP-LALIGA,19-20,7dbd513e
+360d70f8,Lago Junior,11,CIV,"WB,LM",29-176,69,0,0,0,0,1,0,0,0,37,3,0,1,0.1,0.1,0.1,2,0,20,30,66.7,0,26,5,3,2,Mallorca,2020-06-24 Real Madrid-Mallorca,ESP-LALIGA,19-20,7dbd513e
+bb4a42be,Yannis Salibur,16,FRA,LM,29-152,21,0,0,0,0,1,0,0,0,10,0,0,0,0.0,0.0,0.0,0,0,8,9,88.9,0,6,0,0,0,Mallorca,2020-06-24 Real Madrid-Mallorca,ESP-LALIGA,19-20,7dbd513e
+3c16d927,Alejandro Pozo Pozo,7,ESP,"RB,WB",21-123,90,0,0,0,0,0,0,0,0,52,1,1,3,0.0,0.0,0.0,1,0,41,47,87.2,3,26,6,0,0,Mallorca,2020-06-24 Real Madrid-Mallorca,ESP-LALIGA,19-20,7dbd513e
+a35134ae,Aleksandar Sedlar,20,SRB,CB,28-194,90,0,0,0,0,1,1,0,0,55,2,1,2,0.1,0.1,0.0,1,0,45,49,91.8,4,34,0,2,2,Mallorca,2020-06-24 Real Madrid-Mallorca,ESP-LALIGA,19-20,7dbd513e
+b857bd29,Antonio Raillo,21,ESP,CB,28-260,90,0,0,0,0,0,0,0,0,36,1,0,0,0.0,0.0,0.0,1,0,31,32,96.9,2,23,0,0,0,Mallorca,2020-06-24 Real Madrid-Mallorca,ESP-LALIGA,19-20,7dbd513e
+f2c6ac01,Martin Valjent,24,SVK,CB,24-196,60,0,0,0,0,0,0,0,0,36,0,0,3,0.0,0.0,0.0,0,0,28,31,90.3,2,18,0,0,0,Mallorca,2020-06-24 Real Madrid-Mallorca,ESP-LALIGA,19-20,7dbd513e
+2e3406ae,Fran Gámez,15,ESP,LB,28-333,30,0,0,0,0,1,0,0,0,12,0,0,0,0.0,0.0,0.0,1,0,10,10,100.0,1,8,1,1,1,Mallorca,2020-06-24 Real Madrid-Mallorca,ESP-LALIGA,19-20,7dbd513e
+605eb473,Manolo Reina,1,ESP,GK,35-084,90,0,0,0,0,0,0,0,0,31,0,0,0,0.0,0.0,0.0,0,0,18,28,64.3,0,13,0,0,0,Mallorca,2020-06-24 Real Madrid-Mallorca,ESP-LALIGA,19-20,7dbd513e

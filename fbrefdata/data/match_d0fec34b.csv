@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+df69b544,Antoine Griezmann,7,FRA,FW,32-201,90,1,0,1,1,3,0,1,0,40,1,1,1,1.3,0.7,0.2,6,1,23,31,74.2,4,27,0,0,0,Atlético Madrid,2023-10-08 Atlético Madrid-Real Sociedad,ESP-LALIGA,23-24,d0fec34b
+129af0db,Álvaro Morata,19,ESP,FW,30-350,90,0,0,0,0,3,1,0,0,33,2,0,0,0.2,0.2,0.1,3,0,15,19,78.9,3,17,0,2,2,Atlético Madrid,2023-10-08 Atlético Madrid-Real Sociedad,ESP-LALIGA,23-24,d0fec34b
+162efffd,Rodrigo De Paul,5,ARG,CM,29-137,71,0,0,0,0,3,1,0,0,41,2,0,3,0.2,0.2,0.3,1,0,23,27,85.2,2,26,0,5,3,Atlético Madrid,2023-10-08 Atlético Madrid-Real Sociedad,ESP-LALIGA,23-24,d0fec34b
+c14bc029,Saúl Ñíguez,8,ESP,CM,28-321,19,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,1,0,0,0,Atlético Madrid,2023-10-08 Atlético Madrid-Real Sociedad,ESP-LALIGA,23-24,d0fec34b
+55126f3b,Koke,6,ESP,CM,31-273,90,0,1,0,0,0,0,1,0,52,1,0,1,0.0,0.0,0.4,2,1,39,47,83.0,3,37,0,1,0,Atlético Madrid,2023-10-08 Atlético Madrid-Real Sociedad,ESP-LALIGA,23-24,d0fec34b
+02c15616,Marcos Llorente,14,ESP,CM,28-251,71,0,0,0,0,1,0,0,0,22,1,0,1,0.0,0.0,0.1,1,0,10,18,55.6,0,15,1,1,1,Atlético Madrid,2023-10-08 Atlético Madrid-Real Sociedad,ESP-LALIGA,23-24,d0fec34b
+65154df0,Rodrigo Riquelme,25,ESP,CM,23-189,19,0,0,0,0,1,1,0,0,5,0,0,0,0.1,0.1,0.0,1,0,2,2,100.0,0,3,0,0,0,Atlético Madrid,2023-10-08 Atlético Madrid-Real Sociedad,ESP-LALIGA,23-24,d0fec34b
+2a295d33,Samuel Lino,12,BRA,WB,23-289,78,1,0,0,0,1,1,0,0,38,2,0,2,0.2,0.2,0.0,2,0,22,29,75.9,1,26,2,1,0,Atlético Madrid,2023-10-08 Atlético Madrid-Real Sociedad,ESP-LALIGA,23-24,d0fec34b
+a4b00319,Javi Galán,17,ESP,WB,28-323,12,0,0,0,0,0,0,1,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Atlético Madrid,2023-10-08 Atlético Madrid-Real Sociedad,ESP-LALIGA,23-24,d0fec34b
+23610943,Nahuel Molina,16,ARG,WB,25-185,90,0,0,0,0,0,0,0,0,62,4,0,2,0.0,0.0,0.0,3,0,30,49,61.2,2,29,1,2,1,Atlético Madrid,2023-10-08 Atlético Madrid-Real Sociedad,ESP-LALIGA,23-24,d0fec34b
+555f3a0b,Mario Hermoso,22,ESP,CB,28-112,90,0,0,0,0,0,0,0,0,56,1,2,2,0.0,0.0,0.0,3,1,30,45,66.7,1,25,1,1,1,Atlético Madrid,2023-10-08 Atlético Madrid-Real Sociedad,ESP-LALIGA,23-24,d0fec34b
+5dfc6ad5,Axel Witsel,20,BEL,CB,34-269,90,0,0,0,0,1,0,0,0,35,0,2,0,0.2,0.2,0.0,0,0,23,28,82.1,0,13,0,0,0,Atlético Madrid,2023-10-08 Atlético Madrid-Real Sociedad,ESP-LALIGA,23-24,d0fec34b
+53cad200,César Azpilicueta,3,ESP,CB,34-041,78,0,0,0,0,0,0,0,0,53,0,2,1,0.0,0.0,0.2,1,0,34,46,73.9,2,30,1,0,0,Atlético Madrid,2023-10-08 Atlético Madrid-Real Sociedad,ESP-LALIGA,23-24,d0fec34b
+f6ac68c1,Stefan Savić,15,MNE,CB,32-273,12,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,4,6,66.7,1,4,0,0,0,Atlético Madrid,2023-10-08 Atlético Madrid-Real Sociedad,ESP-LALIGA,23-24,d0fec34b
+ee8508c0,Jan Oblak,13,SVN,GK,30-274,90,0,0,0,0,0,0,0,0,20,0,0,0,0.0,0.0,0.0,0,0,13,20,65.0,0,14,0,1,1,Atlético Madrid,2023-10-08 Atlético Madrid-Real Sociedad,ESP-LALIGA,23-24,d0fec34b
+8c3c640c,Mikel Oyarzabal,10,ESP,"FW,RW",26-170,89,1,0,0,0,4,2,0,0,29,2,1,2,1.0,1.0,0.0,1,0,15,17,88.2,2,18,1,1,1,Real Sociedad,2023-10-08 Atlético Madrid-Real Sociedad,ESP-LALIGA,23-24,d0fec34b
+686cbe7d,Umar Sadiq,19,NGA,"LW,RW",26-248,1,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,1,0,Real Sociedad,2023-10-08 Atlético Madrid-Real Sociedad,ESP-LALIGA,23-24,d0fec34b
+200e89e1,Ander Barrenetxea,7,ESP,LW,21-285,89,0,0,0,0,0,0,0,0,55,1,0,1,0.0,0.0,0.0,3,0,31,39,79.5,0,45,3,5,4,Real Sociedad,2023-10-08 Atlético Madrid-Real Sociedad,ESP-LALIGA,23-24,d0fec34b
+3effaa34,André Silva,21,POR,RW,27-336,1,0,0,0,0,1,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,2,0,1,0,Real Sociedad,2023-10-08 Atlético Madrid-Real Sociedad,ESP-LALIGA,23-24,d0fec34b
+16aa3654,Takefusa Kubo,14,JPN,RW,22-126,64,0,0,0,0,1,0,0,0,37,2,0,0,0.0,0.0,0.4,2,0,21,25,84.0,3,27,1,4,1,Real Sociedad,2023-10-08 Atlético Madrid-Real Sociedad,ESP-LALIGA,23-24,d0fec34b
+e08647d6,Carlos Fernández,9,ESP,FW,27-139,26,0,1,0,0,0,0,1,0,5,1,0,0,0.0,0.0,0.5,1,1,1,3,33.3,1,3,1,0,0,Real Sociedad,2023-10-08 Atlético Madrid-Real Sociedad,ESP-LALIGA,23-24,d0fec34b
+d080ed5e,Mikel Merino,8,ESP,LM,27-108,64,0,0,0,0,0,0,0,0,50,5,0,3,0.0,0.0,0.0,2,0,28,36,77.8,3,35,2,0,0,Real Sociedad,2023-10-08 Atlético Madrid-Real Sociedad,ESP-LALIGA,23-24,d0fec34b
+7f14ec2a,Arsen Zakharyan,12,RUS,"LM,CM",20-135,26,0,0,0,0,1,0,0,0,19,0,0,0,0.0,0.0,0.0,2,1,12,16,75.0,2,14,0,0,0,Real Sociedad,2023-10-08 Atlético Madrid-Real Sociedad,ESP-LALIGA,23-24,d0fec34b
+3ee0dd59,Martín Zubimendi,4,ESP,"CM,CB",24-248,90,0,0,0,0,1,0,0,0,65,3,0,0,0.0,0.0,0.0,2,0,50,58,86.2,5,41,1,0,0,Real Sociedad,2023-10-08 Atlético Madrid-Real Sociedad,ESP-LALIGA,23-24,d0fec34b
+c9e39d91,Brais Méndez,23,ESP,"RM,CM",26-274,90,0,0,0,0,4,2,0,0,63,1,0,0,0.1,0.1,0.1,5,0,47,54,87.0,9,55,2,2,0,Real Sociedad,2023-10-08 Atlético Madrid-Real Sociedad,ESP-LALIGA,23-24,d0fec34b
+228b0d9d,Aihen Muñoz,3,ESP,"LB,LM",26-053,90,0,0,0,0,1,0,0,0,89,0,2,3,0.0,0.0,0.0,2,0,66,81,81.5,5,55,2,2,2,Real Sociedad,2023-10-08 Atlético Madrid-Real Sociedad,ESP-LALIGA,23-24,d0fec34b
+9a64e67e,Robin Le Normand,24,ESP,CB,26-331,64,0,0,0,0,0,0,1,0,72,1,1,2,0.0,0.0,0.0,1,0,58,63,92.1,7,55,3,0,0,Real Sociedad,2023-10-08 Atlético Madrid-Real Sociedad,ESP-LALIGA,23-24,d0fec34b
+44150beb,Jon Pacheco,20,ESP,CB,22-273,26,0,0,0,0,0,0,0,0,24,0,0,2,0.0,0.0,0.0,0,0,22,22,100.0,2,16,0,0,0,Real Sociedad,2023-10-08 Atlético Madrid-Real Sociedad,ESP-LALIGA,23-24,d0fec34b
+5c7845f6,Igor Zubeldia,5,ESP,CB,26-192,90,0,0,0,0,0,0,0,0,78,0,0,0,0.0,0.0,0.0,0,0,64,72,88.9,2,60,0,0,0,Real Sociedad,2023-10-08 Atlético Madrid-Real Sociedad,ESP-LALIGA,23-24,d0fec34b
+a4b1028a,Hamari Traoré,18,MLI,"RB,RM",31-254,90,0,0,0,0,0,0,1,0,91,2,1,2,0.0,0.0,0.0,2,0,75,88,85.2,7,71,6,0,0,Real Sociedad,2023-10-08 Atlético Madrid-Real Sociedad,ESP-LALIGA,23-24,d0fec34b
+374ee424,Álex Remiro,1,ESP,GK,28-198,90,0,0,0,0,0,0,0,0,32,0,0,0,0.0,0.0,0.0,0,0,22,29,75.9,0,21,0,0,0,Real Sociedad,2023-10-08 Atlético Madrid-Real Sociedad,ESP-LALIGA,23-24,d0fec34b

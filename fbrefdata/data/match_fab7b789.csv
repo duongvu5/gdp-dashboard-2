@@ -1,0 +1,31 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+c4b8bcf4,Charles,19,BRA,FW,36-082,77,0,0,0,0,1,0,1,0,18,1,1,1,0.0,0.0,0.1,4,0,10,13,76.9,0,12,0,0,0,Eibar,2020-06-25 Eibar-Valencia,ESP-LALIGA,19-20,fab7b789
+bb4b1242,Sergi Enrich,9,ESP,FW,30-120,13,0,0,0,0,1,1,1,0,9,0,0,1,0.1,0.1,0.0,1,0,2,7,28.6,0,3,0,0,0,Eibar,2020-06-25 Eibar-Valencia,ESP-LALIGA,19-20,fab7b789
+e897d8ba,Kiké,17,ESP,FW,30-213,89,0,0,0,0,2,0,0,0,32,0,0,1,0.1,0.1,0.0,3,0,11,23,47.8,2,20,1,0,0,Eibar,2020-06-25 Eibar-Valencia,ESP-LALIGA,19-20,fab7b789
+88d91621,Sergio Álvarez,6,ESP,FW,28-154,1,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Eibar,2020-06-25 Eibar-Valencia,ESP-LALIGA,19-20,fab7b789
+c90977db,Fabián Orellana,14,CHI,LM,34-150,90,0,0,0,0,1,1,1,0,51,1,0,0,0.0,0.0,0.1,4,0,32,43,74.4,6,35,4,7,3,Eibar,2020-06-25 Eibar-Valencia,ESP-LALIGA,19-20,fab7b789
+3f79a1c8,Gonzalo Escalante,5,ARG,CM,27-090,90,0,0,0,0,0,0,1,0,34,0,3,4,0.0,0.0,0.0,0,0,16,21,76.2,3,10,0,0,0,Eibar,2020-06-25 Eibar-Valencia,ESP-LALIGA,19-20,fab7b789
+283c7121,Edu Expósito,10,ESP,CM,23-329,90,0,0,0,0,2,0,0,0,35,3,1,1,0.0,0.0,0.1,2,0,18,24,75.0,2,13,1,0,0,Eibar,2020-06-25 Eibar-Valencia,ESP-LALIGA,19-20,fab7b789
+d66b9872,Pedro León,21,ESP,RM,33-214,78,0,0,0,0,2,0,0,0,26,1,0,1,0.1,0.1,0.1,2,0,10,22,45.5,2,8,0,1,1,Eibar,2020-06-25 Eibar-Valencia,ESP-LALIGA,19-20,fab7b789
+3c05c659,Sebastián Cristóforo,18,URU,RM,26-307,12,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,2,4,50.0,0,2,0,0,0,Eibar,2020-06-25 Eibar-Valencia,ESP-LALIGA,19-20,fab7b789
+3024e383,José Ángel,15,ESP,LB,30-294,90,0,0,0,0,1,1,0,0,66,2,3,0,0.0,0.0,0.0,4,0,34,53,64.2,5,25,1,1,1,Eibar,2020-06-25 Eibar-Valencia,ESP-LALIGA,19-20,fab7b789
+697295b1,Pedro Bigas,3,ESP,CB,29-284,90,0,0,0,0,0,0,0,0,26,0,4,0,0.0,0.0,0.0,0,0,9,17,52.9,2,5,0,0,0,Eibar,2020-06-25 Eibar-Valencia,ESP-LALIGA,19-20,fab7b789
+a8fbae1d,Paulo Oliveira,12,POR,CB,28-169,90,0,0,0,0,1,1,0,0,28,0,2,0,0.1,0.1,0.0,0,0,9,19,47.4,1,6,0,0,0,Eibar,2020-06-25 Eibar-Valencia,ESP-LALIGA,19-20,fab7b789
+46bd3a5b,Rober Correa,20,ESP,RB,27-279,90,0,0,0,0,3,1,0,0,34,0,4,1,0.1,0.1,0.0,2,0,8,21,38.1,2,11,0,0,0,Eibar,2020-06-25 Eibar-Valencia,ESP-LALIGA,19-20,fab7b789
+ac295d9e,Marko Dmitrović,1,SRB,GK,28-153,90,0,0,0,0,0,0,0,0,33,0,1,0,0.0,0.0,0.0,2,0,15,30,50.0,0,18,0,0,0,Eibar,2020-06-25 Eibar-Valencia,ESP-LALIGA,19-20,fab7b789
+1fb1c435,Rodrigo,19,ESP,"FW,AM,RM",29-111,90,0,0,0,0,1,0,0,0,20,0,0,0,0.1,0.1,0.0,1,0,7,13,53.8,4,13,1,1,0,Valencia,2020-06-25 Eibar-Valencia,ESP-LALIGA,19-20,fab7b789
+fed17f5a,Carlos Soler,8,ESP,LW,23-175,45,0,0,0,0,0,0,0,0,19,0,0,0,0.0,0.0,0.0,0,0,13,17,76.5,2,12,1,0,0,Valencia,2020-06-25 Eibar-Valencia,ESP-LALIGA,19-20,fab7b789
+42276181,Kévin Gameiro,9,FRA,FW,33-047,45,0,0,0,0,0,0,0,0,15,1,0,0,0.0,0.0,0.1,2,0,11,14,78.6,0,6,1,0,0,Valencia,2020-06-25 Eibar-Valencia,ESP-LALIGA,19-20,fab7b789
+9e1035f8,Ferrán Torres,20,ESP,RW,20-117,83,0,0,0,0,1,0,0,0,42,0,0,0,0.0,0.0,0.1,6,0,20,33,60.6,5,24,4,7,4,Valencia,2020-06-25 Eibar-Valencia,ESP-LALIGA,19-20,fab7b789
+4c2e9442,Maxi Gómez,22,URU,FW,23-316,7,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,2,4,50.0,1,0,0,0,0,Valencia,2020-06-25 Eibar-Valencia,ESP-LALIGA,19-20,fab7b789
+e6bc67d7,Gonçalo Guedes,7,POR,"AM,LW",23-209,61,0,0,0,0,0,0,0,0,34,1,0,2,0.0,0.0,0.0,0,0,20,30,66.7,3,21,3,0,0,Valencia,2020-06-25 Eibar-Valencia,ESP-LALIGA,19-20,fab7b789
+0ac94a23,Denis Cheryshev,11,RUS,"LW,LM",29-182,29,0,0,0,0,2,0,0,0,13,0,1,1,0.1,0.1,0.1,1,0,4,7,57.1,0,8,1,1,0,Valencia,2020-06-25 Eibar-Valencia,ESP-LALIGA,19-20,fab7b789
+cce181df,Geoffrey Kondogbia,6,CTA,"DM,CM",27-131,90,0,0,0,0,0,0,0,0,65,3,1,0,0.0,0.0,0.0,1,0,45,54,83.3,3,35,0,0,0,Valencia,2020-06-25 Eibar-Valencia,ESP-LALIGA,19-20,fab7b789
+7460ca0d,Daniel Parejo,10,ESP,"DM,CM",31-070,90,0,0,0,0,0,0,0,0,77,1,0,0,0.0,0.0,0.0,0,0,58,75,77.3,1,42,1,0,0,Valencia,2020-06-25 Eibar-Valencia,ESP-LALIGA,19-20,fab7b789
+b05e2dbd,José Luis Gayà,14,ESP,LB,25-031,90,0,0,0,0,1,0,0,0,65,0,0,2,0.1,0.1,0.1,2,0,43,56,76.8,5,32,2,2,1,Valencia,2020-06-25 Eibar-Valencia,ESP-LALIGA,19-20,fab7b789
+f520049f,Eliaquim Mangala,4,FRA,CB,29-133,88,0,0,0,0,0,0,2,1,56,0,2,2,0.0,0.0,0.0,0,0,38,42,90.5,1,24,0,0,0,Valencia,2020-06-25 Eibar-Valencia,ESP-LALIGA,19-20,fab7b789
+b7ca5c51,Gabriel Paulista,5,BRA,CB,29-212,90,0,0,0,0,0,0,0,0,87,0,2,1,0.0,0.0,0.0,0,0,67,79,84.8,2,45,1,0,0,Valencia,2020-06-25 Eibar-Valencia,ESP-LALIGA,19-20,fab7b789
+d83bbc54,Daniel Wass,18,DEN,RB,31-025,61,0,0,0,0,0,0,0,0,72,3,1,0,0.0,0.0,0.0,1,0,48,63,76.2,0,29,1,0,0,Valencia,2020-06-25 Eibar-Valencia,ESP-LALIGA,19-20,fab7b789
+e288d4b3,Alessandro Florenzi,25,ITA,RB,29-106,29,0,0,0,0,2,0,0,0,30,0,1,0,0.1,0.1,0.0,0,0,19,28,67.9,2,11,0,0,0,Valencia,2020-06-25 Eibar-Valencia,ESP-LALIGA,19-20,fab7b789
+04ac8285,Jasper Cillessen,13,NED,GK,31-064,90,0,0,0,0,0,0,0,0,55,0,0,0,0.0,0.0,0.0,0,0,31,53,58.5,0,29,0,0,0,Valencia,2020-06-25 Eibar-Valencia,ESP-LALIGA,19-20,fab7b789

@@ -1,0 +1,31 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+70d74ece,Karim Benzema,9,FRA,FW,32-182,90,2,0,0,0,3,2,0,0,59,1,0,1,0.5,0.5,0.8,6,1,38,48,79.2,5,50,4,6,5,Real Madrid,2020-06-18 Real Madrid-Valencia,ESP-LALIGA,19-20,816aff90
+a39bb753,Eden Hazard,7,BEL,LW,29-163,81,0,1,0,0,4,3,0,0,73,0,1,0,0.7,0.7,0.4,5,1,53,60,88.3,5,67,8,5,3,Real Madrid,2020-06-18 Real Madrid-Valencia,ESP-LALIGA,19-20,816aff90
+7111d552,Vinicius Júnior,25,BRA,LW,19-342,9,0,0,0,0,0,0,0,0,9,1,0,0,0.0,0.0,0.0,0,0,6,8,75.0,0,8,2,0,0,Real Madrid,2020-06-18 Real Madrid-Valencia,ESP-LALIGA,19-20,816aff90
+0959c2a2,Federico Valverde,15,URU,RW,21-332,73,0,0,0,0,1,1,0,0,49,0,0,0,0.0,0.0,0.0,2,0,40,46,87.0,7,45,0,0,0,Real Madrid,2020-06-18 Real Madrid-Valencia,ESP-LALIGA,19-20,816aff90
+45af8a54,Marco Asensio,20,ESP,RW,24-149,17,1,1,0,0,1,1,0,0,19,1,0,0,0.1,0.1,0.1,1,1,16,17,94.1,1,13,0,1,1,Real Madrid,2020-06-18 Real Madrid-Valencia,ESP-LALIGA,19-20,816aff90
+6ce1f46f,Toni Kroos,8,GER,LM,30-166,90,0,0,0,0,5,3,0,0,125,3,1,1,0.2,0.2,0.1,4,0,103,113,91.2,10,104,3,1,1,Real Madrid,2020-06-18 Real Madrid-Valencia,ESP-LALIGA,19-20,816aff90
+4d224fe8,Casemiro,14,BRA,CM,28-116,90,0,0,0,0,2,2,0,0,100,2,0,0,0.1,0.1,0.0,3,0,88,95,92.6,11,87,0,1,1,Real Madrid,2020-06-18 Real Madrid-Valencia,ESP-LALIGA,19-20,816aff90
+6025fab1,Luka Modrić,10,CRO,RM,34-283,90,0,0,0,0,1,1,0,0,89,2,1,0,0.0,0.0,0.1,4,1,74,84,88.1,19,81,3,0,0,Real Madrid,2020-06-18 Real Madrid-Valencia,ESP-LALIGA,19-20,816aff90
+3cefcaef,Ferland Mendy,23,FRA,LB,25-010,90,0,1,0,0,0,0,0,0,74,2,1,0,0.0,0.0,0.1,2,2,61,67,91.0,5,54,4,2,1,Real Madrid,2020-06-18 Real Madrid-Valencia,ESP-LALIGA,19-20,816aff90
+08511d65,Sergio Ramos,4,ESP,CB,34-080,90,0,0,0,0,0,0,0,0,72,0,4,1,0.0,0.0,0.0,3,0,58,65,89.2,7,55,1,3,3,Real Madrid,2020-06-18 Real Madrid-Valencia,ESP-LALIGA,19-20,816aff90
+9f8e9423,Raphaël Varane,5,FRA,CB,27-054,90,0,0,0,0,0,0,0,0,35,0,2,0,0.0,0.0,0.0,0,0,31,33,93.9,2,27,0,0,0,Real Madrid,2020-06-18 Real Madrid-Valencia,ESP-LALIGA,19-20,816aff90
+4958bfb2,Dani Carvajal,2,ESP,RB,28-159,90,0,0,0,0,2,1,0,0,102,0,1,3,0.1,0.1,0.0,4,0,78,89,87.6,7,86,6,5,1,Real Madrid,2020-06-18 Real Madrid-Valencia,ESP-LALIGA,19-20,816aff90
+1840e36d,Thibaut Courtois,13,BEL,GK,28-038,90,0,0,0,0,0,0,0,0,25,0,1,0,0.0,0.0,0.0,0,0,16,20,80.0,0,15,0,0,0,Real Madrid,2020-06-18 Real Madrid-Valencia,ESP-LALIGA,19-20,816aff90
+4c2e9442,Maxi Gómez,22,URU,FW,23-309,59,0,0,0,0,0,0,0,0,15,1,0,0,0.0,0.0,0.1,2,0,7,11,63.6,1,13,0,0,0,Valencia,2020-06-18 Real Madrid-Valencia,ESP-LALIGA,19-20,816aff90
+42276181,Kévin Gameiro,9,FRA,FW,33-040,31,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,7,9,77.8,1,7,1,0,0,Valencia,2020-06-18 Real Madrid-Valencia,ESP-LALIGA,19-20,816aff90
+1fb1c435,Rodrigo,19,ESP,FW,29-104,75,0,0,0,0,1,1,0,0,28,0,0,1,0.1,0.1,0.1,1,0,14,23,60.9,1,21,3,1,0,Valencia,2020-06-18 Real Madrid-Valencia,ESP-LALIGA,19-20,816aff90
+8455ad90,Lee Kang-in,16,KOR,FW,19-120,13,0,0,0,0,0,0,0,1,3,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,2,0,0,0,Valencia,2020-06-18 Real Madrid-Valencia,ESP-LALIGA,19-20,816aff90
+fed17f5a,Carlos Soler,8,ESP,LM,23-168,68,0,0,0,0,1,0,0,0,29,2,0,1,0.0,0.0,0.0,1,0,20,24,83.3,0,20,0,0,0,Valencia,2020-06-18 Real Madrid-Valencia,ESP-LALIGA,19-20,816aff90
+0ac94a23,Denis Cheryshev,11,RUS,LM,29-175,22,0,0,0,0,0,0,0,0,8,2,0,1,0.0,0.0,0.0,0,0,3,4,75.0,1,3,0,0,0,Valencia,2020-06-18 Real Madrid-Valencia,ESP-LALIGA,19-20,816aff90
+cce181df,Geoffrey Kondogbia,6,CTA,CM,27-124,90,0,0,0,0,1,1,0,0,66,4,5,0,0.0,0.0,0.0,0,0,52,56,92.9,1,46,0,2,1,Valencia,2020-06-18 Real Madrid-Valencia,ESP-LALIGA,19-20,816aff90
+7460ca0d,Daniel Parejo,10,ESP,CM,31-063,68,0,0,0,0,0,0,0,0,53,0,0,1,0.0,0.0,0.0,2,0,40,49,81.6,4,39,0,2,1,Valencia,2020-06-18 Real Madrid-Valencia,ESP-LALIGA,19-20,816aff90
+a6951bf8,Francis Coquelin,17,FRA,CM,29-036,22,0,0,0,0,0,0,0,0,15,0,0,0,0.0,0.0,0.0,0,0,11,13,84.6,2,11,1,2,2,Valencia,2020-06-18 Real Madrid-Valencia,ESP-LALIGA,19-20,816aff90
+9e1035f8,Ferrán Torres,20,ESP,RM,20-110,58,0,0,0,0,1,0,0,0,24,0,0,0,0.1,0.1,0.0,2,0,12,16,75.0,1,19,2,2,1,Valencia,2020-06-18 Real Madrid-Valencia,ESP-LALIGA,19-20,816aff90
+e6bc67d7,Gonçalo Guedes,7,POR,RM,23-202,32,0,0,0,0,0,0,0,0,9,0,1,2,0.0,0.0,0.0,0,0,4,5,80.0,1,7,0,1,0,Valencia,2020-06-18 Real Madrid-Valencia,ESP-LALIGA,19-20,816aff90
+b05e2dbd,José Luis Gayà,14,ESP,LB,25-024,90,0,0,0,0,0,0,1,0,44,0,1,1,0.0,0.0,0.0,0,0,35,39,89.7,4,31,3,3,2,Valencia,2020-06-18 Real Madrid-Valencia,ESP-LALIGA,19-20,816aff90
+f520049f,Eliaquim Mangala,4,FRA,CB,29-126,90,0,0,0,0,0,0,0,0,55,0,1,1,0.0,0.0,0.0,0,0,44,46,95.7,1,36,0,0,0,Valencia,2020-06-18 Real Madrid-Valencia,ESP-LALIGA,19-20,816aff90
+f7c12fbf,Hugo Guillamón,33,ESP,CB,20-139,90,0,0,0,0,0,0,1,0,65,5,1,1,0.0,0.0,0.0,0,0,36,47,76.6,2,43,0,2,0,Valencia,2020-06-18 Real Madrid-Valencia,ESP-LALIGA,19-20,816aff90
+d83bbc54,Daniel Wass,18,DEN,RB,31-018,90,0,0,0,0,0,0,0,0,59,1,2,0,0.0,0.0,0.0,0,0,31,50,62.0,2,36,4,0,0,Valencia,2020-06-18 Real Madrid-Valencia,ESP-LALIGA,19-20,816aff90
+04ac8285,Jasper Cillessen,13,NED,GK,31-057,90,0,0,0,0,0,0,0,0,54,0,0,0,0.0,0.0,0.0,0,0,39,49,79.6,0,35,0,0,0,Valencia,2020-06-18 Real Madrid-Valencia,ESP-LALIGA,19-20,816aff90

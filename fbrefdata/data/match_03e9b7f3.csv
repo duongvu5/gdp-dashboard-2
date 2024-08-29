@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+d3aaad90,Stephan El Shaarawy,92,ITA,FW,30-309,70,0,0,0,0,2,1,0,0,27,0,0,0,0.1,0.1,0.0,1,0,20,24,83.3,0,18,1,1,1,Roma,2023-09-01 Roma-Milan,ITA-SERIA_A,23-24,03e9b7f3
+5eae500a,Romelu Lukaku,90,BEL,FW,30-111,20,0,0,0,0,1,0,1,0,9,0,0,0,0.0,0.0,0.0,0,0,5,8,62.5,1,6,0,0,0,Roma,2023-09-01 Roma-Milan,ITA-SERIA_A,23-24,03e9b7f3
+d705ba44,Andrea Belotti,11,ITA,FW,29-255,90,0,0,0,0,0,0,0,0,30,1,0,1,0.0,0.0,0.0,2,0,17,22,77.3,1,18,0,0,0,Roma,2023-09-01 Roma-Milan,ITA-SERIA_A,23-24,03e9b7f3
+a5db0bec,Houssem Aouar,22,ALG,CM,25-063,30,0,0,0,0,0,0,0,0,11,0,1,1,0.0,0.0,0.0,0,0,6,8,75.0,0,6,1,0,0,Roma,2023-09-01 Roma-Milan,ITA-SERIA_A,23-24,03e9b7f3
+4a5a45c7,Lorenzo Pellegrini,7,ITA,CM,27-074,60,0,0,0,0,1,0,0,0,25,0,0,0,0.0,0.0,0.1,2,0,14,20,70.0,4,12,0,1,0,Roma,2023-09-01 Roma-Milan,ITA-SERIA_A,23-24,03e9b7f3
+dff153a4,Leandro Paredes,16,ARG,CM,29-064,69,0,0,0,0,2,0,1,0,46,2,0,0,0.0,0.0,0.0,3,0,34,40,85.0,3,25,0,0,0,Roma,2023-09-01 Roma-Milan,ITA-SERIA_A,23-24,03e9b7f3
+ae94a6c5,Edoardo Bove,52,ITA,CM,21-108,21,0,1,0,0,1,0,0,0,17,1,0,1,0.4,0.4,0.0,1,1,12,13,92.3,2,9,0,1,0,Roma,2023-09-01 Roma-Milan,ITA-SERIA_A,23-24,03e9b7f3
+16657b95,Bryan Cristante,4,ITA,CM,28-182,90,0,0,0,0,2,0,0,0,61,0,1,0,0.0,0.0,0.1,4,0,45,55,81.8,8,38,1,3,3,Roma,2023-09-01 Roma-Milan,ITA-SERIA_A,23-24,03e9b7f3
+45191c29,Nicola Zalewski,59,POL,WB,21-221,90,0,0,0,0,1,0,0,0,64,3,1,3,0.0,0.0,0.0,2,0,38,54,70.4,1,30,7,5,2,Roma,2023-09-01 Roma-Milan,ITA-SERIA_A,23-24,03e9b7f3
+31a62dc7,Zeki Çelik,19,TUR,WB,26-196,69,0,0,0,0,0,0,0,0,38,1,1,0,0.0,0.0,0.0,0,0,27,33,81.8,3,20,0,0,0,Roma,2023-09-01 Roma-Milan,ITA-SERIA_A,23-24,03e9b7f3
+3626daea,Leonardo Spinazzola,37,ITA,WB,30-160,21,1,0,0,0,2,1,0,0,19,0,0,0,0.1,0.1,0.0,3,1,13,16,81.3,2,17,7,1,1,Roma,2023-09-01 Roma-Milan,ITA-SERIA_A,23-24,03e9b7f3
+bba30585,Diego Llorente,14,ESP,CB,30-016,90,0,0,0,0,0,0,0,0,50,2,1,1,0.0,0.0,0.0,1,0,38,47,80.9,4,27,2,0,0,Roma,2023-09-01 Roma-Milan,ITA-SERIA_A,23-24,03e9b7f3
+b6964eb6,Chris Smalling,6,ENG,CB,33-283,90,0,0,0,0,0,0,0,0,52,0,2,1,0.0,0.0,0.4,0,0,41,46,89.1,8,26,0,1,0,Roma,2023-09-01 Roma-Milan,ITA-SERIA_A,23-24,03e9b7f3
+5aa53281,Gianluca Mancini,23,ITA,CB,27-137,78,0,0,0,0,0,0,0,0,36,2,1,2,0.0,0.0,0.0,0,0,22,30,73.3,1,19,0,0,0,Roma,2023-09-01 Roma-Milan,ITA-SERIA_A,23-24,03e9b7f3
+b5b9bde7,Riccardo Pagano,60,ITA,CB,18-277,12,0,0,0,0,1,0,0,0,11,0,0,0,0.1,0.1,0.0,4,0,9,9,100.0,2,7,0,1,1,Roma,2023-09-01 Roma-Milan,ITA-SERIA_A,23-24,03e9b7f3
+79b0d6a0,Rui Patrício,1,POR,GK,35-198,90,0,0,0,0,0,0,0,0,17,0,0,0,0.0,0.0,0.0,0,0,14,15,93.3,0,9,0,0,0,Roma,2023-09-01 Roma-Milan,ITA-SERIA_A,23-24,03e9b7f3
+16ceb862,Olivier Giroud,9,FRA,FW,36-336,69,1,0,1,1,0,0,0,0,17,0,0,0,0.8,0.0,0.1,1,0,11,15,73.3,2,5,0,0,0,Milan,2023-09-01 Roma-Milan,ITA-SERIA_A,23-24,03e9b7f3
+55a1cac2,Tommaso Pobega,32,ITA,DM,24-048,21,0,0,0,0,0,0,0,0,15,1,1,2,0.0,0.0,0.0,0,0,8,8,100.0,1,2,0,1,0,Milan,2023-09-01 Roma-Milan,ITA-SERIA_A,23-24,03e9b7f3
+20730eae,Rafael Leão,10,POR,LW,24-083,75,1,0,0,0,2,1,0,0,31,1,0,2,0.3,0.3,0.2,4,0,17,21,81.0,4,21,5,7,3,Milan,2023-09-01 Roma-Milan,ITA-SERIA_A,23-24,03e9b7f3
+ca607d59,Noah Okafor,17,SUI,LW,23-100,15,0,0,0,0,0,0,1,0,6,0,0,0,0.0,0.0,0.0,0,0,1,3,33.3,1,7,2,1,1,Milan,2023-09-01 Roma-Milan,ITA-SERIA_A,23-24,03e9b7f3
+1bf33a9a,Christian Pulisic,11,USA,RW,24-348,75,0,0,0,0,1,1,0,0,26,0,0,1,0.1,0.1,0.1,3,0,20,22,90.9,2,18,2,2,0,Milan,2023-09-01 Roma-Milan,ITA-SERIA_A,23-24,03e9b7f3
+b8a642fc,Samuel Chukwueze,21,NGA,RW,24-102,15,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,4,5,80.0,0,4,1,0,0,Milan,2023-09-01 Roma-Milan,ITA-SERIA_A,23-24,03e9b7f3
+afb61630,Tijjani Reijnders,14,NED,"AM,DM",25-034,90,0,0,0,0,2,1,0,0,54,0,0,2,0.2,0.2,0.0,1,1,34,42,81.0,4,25,1,1,1,Milan,2023-09-01 Roma-Milan,ITA-SERIA_A,23-24,03e9b7f3
+817c6964,Rade Krunić,33,BIH,DM,29-329,90,0,0,0,0,0,0,0,0,81,1,2,0,0.0,0.0,0.0,0,0,69,72,95.8,3,37,0,0,0,Milan,2023-09-01 Roma-Milan,ITA-SERIA_A,23-24,03e9b7f3
+e97fd090,Ruben Loftus-Cheek,8,ENG,DM,27-221,64,0,0,0,0,2,0,1,0,35,0,1,1,0.2,0.2,0.0,3,2,17,24,70.8,3,20,3,2,1,Milan,2023-09-01 Roma-Milan,ITA-SERIA_A,23-24,03e9b7f3
+85f7d1be,Pierre Kalulu,20,FRA,CB,23-088,26,0,0,0,0,0,0,0,0,10,0,0,1,0.0,0.0,0.0,0,0,7,9,77.8,0,7,0,0,0,Milan,2023-09-01 Roma-Milan,ITA-SERIA_A,23-24,03e9b7f3
+d4c9725f,Theo Hernández,19,FRA,LB,25-330,90,0,0,0,0,0,0,0,0,91,0,0,2,0.0,0.0,0.0,1,0,73,85,85.9,4,58,3,1,0,Milan,2023-09-01 Roma-Milan,ITA-SERIA_A,23-24,03e9b7f3
+7edfbb8a,Fikayo Tomori,23,ENG,CB,25-256,60,0,0,0,0,1,0,2,1,86,0,2,0,0.1,0.1,0.0,0,0,80,82,97.6,0,57,0,0,0,Milan,2023-09-01 Roma-Milan,ITA-SERIA_A,23-24,03e9b7f3
+ff5ea0bf,Malick Thiaw,28,GER,CB,22-024,90,0,0,0,0,0,0,0,0,70,1,1,2,0.0,0.0,0.0,1,0,58,63,92.1,4,40,2,0,0,Milan,2023-09-01 Roma-Milan,ITA-SERIA_A,23-24,03e9b7f3
+2146785a,Davide Calabria,2,ITA,RB,26-269,90,0,1,0,0,0,0,0,0,61,2,1,2,0.0,0.0,0.3,1,1,44,50,88.0,2,26,1,0,0,Milan,2023-09-01 Roma-Milan,ITA-SERIA_A,23-24,03e9b7f3
+fcb38f57,Mike Maignan,16,FRA,GK,28-060,90,0,0,0,0,0,0,0,0,70,0,0,0,0.0,0.0,0.0,0,0,51,68,75.0,0,34,0,0,0,Milan,2023-09-01 Roma-Milan,ITA-SERIA_A,23-24,03e9b7f3

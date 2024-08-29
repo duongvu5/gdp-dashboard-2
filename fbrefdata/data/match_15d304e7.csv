@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+f553b2b3,Jørgen Strand Larsen,18,NOR,FW,24-099,72,0,0,0,0,2,1,0,0,24,0,0,1,0.3,0.3,0.0,2,0,11,17,64.7,0,14,1,1,0,Celta Vigo,2024-05-15 Celta Vigo-Athletic Club,ESP-LALIGA,23-24,15d304e7
+853ca71c,Anastasios Douvikas,12,GRE,FW,24-287,18,0,0,0,0,0,0,0,0,8,1,0,0,0.0,0.0,0.0,0,0,2,6,33.3,0,4,0,0,0,Celta Vigo,2024-05-15 Celta Vigo-Athletic Club,ESP-LALIGA,23-24,15d304e7
+184fe4b2,Williot Swedberg,19,SWE,LW,20-104,76,1,0,0,0,2,1,0,0,33,0,0,4,0.2,0.2,0.1,1,0,17,22,77.3,2,24,1,3,1,Celta Vigo,2024-05-15 Celta Vigo-Athletic Club,ESP-LALIGA,23-24,15d304e7
+5e1028e5,Franco Cervi,11,ARG,LW,29-355,14,0,0,0,0,0,0,1,0,7,1,2,0,0.0,0.0,0.0,0,0,3,6,50.0,0,5,0,0,0,Celta Vigo,2024-05-15 Celta Vigo-Athletic Club,ESP-LALIGA,23-24,15d304e7
+b2bd0f6c,Jonathan Bamba,17,CIV,RW,28-050,45,0,0,0,0,0,0,0,0,22,0,0,0,0.0,0.0,0.0,2,0,10,18,55.6,1,20,4,2,1,Celta Vigo,2024-05-15 Celta Vigo-Athletic Club,ESP-LALIGA,23-24,15d304e7
+7dcf86f6,Iago Aspas,10,ESP,RW,36-288,45,0,0,0,0,0,0,0,0,24,1,1,1,0.0,0.0,0.1,5,1,16,21,76.2,6,18,3,1,1,Celta Vigo,2024-05-15 Celta Vigo-Athletic Club,ESP-LALIGA,23-24,15d304e7
+ffacd3d5,Manu Sánchez,23,ESP,LM,23-265,45,0,0,0,0,0,0,0,0,26,2,1,0,0.0,0.0,0.0,1,0,14,19,73.7,1,13,1,0,0,Celta Vigo,2024-05-15 Celta Vigo-Athletic Club,ESP-LALIGA,23-24,15d304e7
+6f392eb8,Hugo Álvarez,33,ESP,"LM,RM",20-318,45,1,1,0,0,2,1,0,0,45,1,0,0,0.1,0.1,0.1,2,2,31,37,83.8,1,27,4,5,2,Celta Vigo,2024-05-15 Celta Vigo-Athletic Club,ESP-LALIGA,23-24,15d304e7
+ed5c5fa3,Fran Beltrán,8,ESP,CM,25-102,90,0,0,0,0,1,0,0,0,49,4,0,0,0.0,0.0,0.0,0,0,34,36,94.4,3,20,0,2,0,Celta Vigo,2024-05-15 Celta Vigo-Athletic Club,ESP-LALIGA,23-24,15d304e7
+22371dee,Damián Rodríguez,34,ESP,CM,21-059,90,0,1,0,0,0,0,0,0,70,3,0,0,0.0,0.0,0.2,4,1,62,68,91.2,5,39,1,0,0,Celta Vigo,2024-05-15 Celta Vigo-Athletic Club,ESP-LALIGA,23-24,15d304e7
+a8f21b9f,Carles Pérez,7,ESP,RM,26-089,45,0,0,0,0,2,1,0,0,31,1,0,1,0.1,0.1,0.0,0,0,14,22,63.6,1,20,3,2,0,Celta Vigo,2024-05-15 Celta Vigo-Athletic Club,ESP-LALIGA,23-24,15d304e7
+056269d7,Óscar Mingueza,3,ESP,"RM,CB",25-002,45,0,0,0,0,0,0,0,0,41,3,0,1,0.0,0.0,0.2,1,0,26,35,74.3,3,25,0,2,1,Celta Vigo,2024-05-15 Celta Vigo-Athletic Club,ESP-LALIGA,23-24,15d304e7
+3521abfe,Carlos Dominguez,28,ESP,CB,23-094,90,0,0,0,0,1,0,0,0,88,3,1,1,0.1,0.1,0.0,0,0,53,75,70.7,6,49,0,0,0,Celta Vigo,2024-05-15 Celta Vigo-Athletic Club,ESP-LALIGA,23-24,15d304e7
+5cfec13d,Carl Starfelt,2,SWE,CB,28-349,90,0,0,0,0,0,0,1,0,78,2,1,1,0.0,0.0,0.0,1,0,64,70,91.4,0,45,0,0,0,Celta Vigo,2024-05-15 Celta Vigo-Athletic Club,ESP-LALIGA,23-24,15d304e7
+758dd7f0,Javier Manquillo,22,ESP,"CB,LM",30-010,90,0,0,0,0,0,0,0,0,91,0,1,1,0.0,0.0,0.0,1,0,74,86,86.0,4,54,0,0,0,Celta Vigo,2024-05-15 Celta Vigo-Athletic Club,ESP-LALIGA,23-24,15d304e7
+cde52ef5,Iván Villar,13,ESP,GK,26-311,90,0,0,0,0,0,0,0,0,28,0,0,0,0.0,0.0,0.0,0,0,22,27,81.5,0,14,0,0,0,Celta Vigo,2024-05-15 Celta Vigo-Athletic Club,ESP-LALIGA,23-24,15d304e7
+57be54ec,Asier Villalibre,20,ESP,FW,26-228,61,0,0,0,0,1,0,0,0,13,0,0,0,0.0,0.0,0.0,0,0,7,9,77.8,0,8,0,2,2,Athletic Club,2024-05-15 Celta Vigo-Athletic Club,ESP-LALIGA,23-24,15d304e7
+6a99e0b1,Iñaki Williams,9,GHA,"RW,FW",29-335,29,0,0,0,0,0,0,0,0,15,0,0,2,0.0,0.0,0.0,0,0,8,13,61.5,1,6,1,1,1,Athletic Club,2024-05-15 Celta Vigo-Athletic Club,ESP-LALIGA,23-24,15d304e7
+dc1c2fce,Álex Berenguer,7,ESP,LW,28-316,90,1,0,0,0,2,1,0,0,46,1,0,0,0.1,0.1,0.1,4,1,29,35,82.9,2,27,4,5,1,Athletic Club,2024-05-15 Celta Vigo-Athletic Club,ESP-LALIGA,23-24,15d304e7
+a461f098,Adu Ares,23,ESP,RW,22-216,61,0,0,0,0,1,0,0,0,32,1,0,0,0.0,0.0,0.0,0,0,20,23,87.0,0,17,3,7,4,Athletic Club,2024-05-15 Celta Vigo-Athletic Club,ESP-LALIGA,23-24,15d304e7
+b418dbd4,Raúl García,22,ESP,"FW,RW",37-309,29,0,0,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.0,0,0,9,9,100.0,2,4,0,2,1,Athletic Club,2024-05-15 Celta Vigo-Athletic Club,ESP-LALIGA,23-24,15d304e7
+37db6cae,Unai Gómez,30,ESP,"AM,LM",20-356,90,0,0,0,0,2,1,0,0,36,1,1,2,0.1,0.1,0.0,3,0,23,26,88.5,2,20,1,4,1,Athletic Club,2024-05-15 Celta Vigo-Athletic Club,ESP-LALIGA,23-24,15d304e7
+1f60244a,Beñat Prados,24,ESP,DM,23-097,74,0,0,0,0,0,0,0,0,48,3,2,1,0.0,0.0,0.0,3,0,27,39,69.2,2,20,2,0,0,Athletic Club,2024-05-15 Celta Vigo-Athletic Club,ESP-LALIGA,23-24,15d304e7
+91f7631f,Iñigo Ruiz de Galarreta,16,ESP,RM,30-283,16,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,6,7,85.7,1,5,0,0,0,Athletic Club,2024-05-15 Celta Vigo-Athletic Club,ESP-LALIGA,23-24,15d304e7
+240d3a0b,Dani García,14,ESP,DM,33-357,74,0,0,0,0,0,0,0,0,45,2,0,1,0.0,0.0,0.0,0,0,32,39,82.1,5,15,0,0,0,Athletic Club,2024-05-15 Celta Vigo-Athletic Club,ESP-LALIGA,23-24,15d304e7
+b0fce72c,Mikel Vesga,6,ESP,CM,30-360,16,0,0,0,0,1,0,0,0,17,0,0,0,0.1,0.1,0.0,0,0,10,15,66.7,0,8,0,0,0,Athletic Club,2024-05-15 Celta Vigo-Athletic Club,ESP-LALIGA,23-24,15d304e7
+9e095d72,Imanol,19,ESP,LB,23-342,90,0,0,0,0,0,0,0,0,65,2,1,0,0.0,0.0,0.0,0,0,44,58,75.9,4,30,1,0,0,Athletic Club,2024-05-15 Celta Vigo-Athletic Club,ESP-LALIGA,23-24,15d304e7
+b906757a,Aitor Paredes,4,ESP,CB,24-016,90,0,0,0,0,0,0,0,0,70,1,2,2,0.0,0.0,0.0,0,0,47,58,81.0,2,41,0,0,0,Athletic Club,2024-05-15 Celta Vigo-Athletic Club,ESP-LALIGA,23-24,15d304e7
+3ecc11d8,Yeray Álvarez,5,ESP,CB,29-112,90,0,0,0,0,0,0,0,0,61,2,0,1,0.0,0.0,0.0,0,0,45,57,78.9,2,27,0,0,0,Athletic Club,2024-05-15 Celta Vigo-Athletic Club,ESP-LALIGA,23-24,15d304e7
+59b7d823,Iñigo Lekue,15,ESP,RB,31-011,90,0,0,0,0,0,0,0,0,72,4,1,1,0.0,0.0,0.0,2,1,50,60,83.3,6,34,1,3,0,Athletic Club,2024-05-15 Celta Vigo-Athletic Club,ESP-LALIGA,23-24,15d304e7
+5dcf3e90,Unai Simón,1,ESP,GK,26-339,61,0,0,0,0,0,0,0,0,33,0,0,0,0.0,0.0,0.0,1,0,14,33,42.4,0,21,0,0,0,Athletic Club,2024-05-15 Celta Vigo-Athletic Club,ESP-LALIGA,23-24,15d304e7
+a2c1a8d3,Julen Agirrezabala,13,ESP,GK,23-141,29,0,0,0,0,0,0,0,0,15,0,0,0,0.0,0.0,0.0,0,0,7,14,50.0,0,8,0,0,0,Athletic Club,2024-05-15 Celta Vigo-Athletic Club,ESP-LALIGA,23-24,15d304e7

@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+79443529,Dušan Vlahović,9,SRB,FW,23-273,81,0,0,0,0,5,1,0,0,26,0,0,0,0.4,0.4,0.1,4,0,12,15,80.0,1,16,0,0,0,Juventus,2023-10-28 Juventus-Hellas Verona,ITA-SERIA_A,23-24,0c01fc2f
+85613cf0,Arkadiusz Milik,14,POL,FW,29-242,9,0,0,0,0,2,0,0,0,10,0,0,0,0.2,0.2,0.6,3,1,6,7,85.7,1,5,0,0,0,Juventus,2023-10-28 Juventus-Hellas Verona,ITA-SERIA_A,23-24,0c01fc2f
+3d50bcdb,Moise Kean,18,ITA,FW,23-242,61,0,0,0,0,5,1,1,0,18,0,0,0,0.8,0.8,0.0,3,0,6,9,66.7,0,16,2,4,3,Juventus,2023-10-28 Juventus-Hellas Verona,ITA-SERIA_A,23-24,0c01fc2f
+b0f7e36c,Federico Chiesa,7,ITA,"FW,RW",26-003,29,0,0,0,0,3,1,0,0,20,0,0,0,0.5,0.5,0.0,2,0,9,15,60.0,1,15,3,0,0,Juventus,2023-10-28 Juventus-Hellas Verona,ITA-SERIA_A,23-24,0c01fc2f
+8794e251,Adrien Rabiot,25,FRA,"CM,LM",28-208,90,0,0,0,0,2,0,0,0,57,2,2,0,0.1,0.1,0.0,5,0,36,46,78.3,7,42,4,0,0,Juventus,2023-10-28 Juventus-Hellas Verona,ITA-SERIA_A,23-24,0c01fc2f
+a8a874f1,Manuel Locatelli,5,ITA,CM,25-293,90,0,0,0,0,2,0,0,0,84,0,1,0,0.1,0.1,0.1,7,0,66,78,84.6,17,59,2,1,1,Juventus,2023-10-28 Juventus-Hellas Verona,ITA-SERIA_A,23-24,0c01fc2f
+01c3aff5,Weston McKennie,16,USA,"CM,WB,RB",25-061,90,0,0,0,0,0,0,0,0,43,1,0,0,0.0,0.0,0.5,6,0,32,38,84.2,5,27,3,3,0,Juventus,2023-10-28 Juventus-Hellas Verona,ITA-SERIA_A,23-24,0c01fc2f
+b1cd37e6,Filip Kostić,11,SRB,WB,30-361,61,0,0,0,0,0,0,0,0,46,0,0,1,0.0,0.0,1.0,6,0,33,42,78.6,8,31,2,0,0,Juventus,2023-10-28 Juventus-Hellas Verona,ITA-SERIA_A,23-24,0c01fc2f
+247ed022,Andrea Cambiaso,27,ITA,"WB,LB",23-250,29,1,0,0,0,1,1,1,0,23,1,0,0,0.7,0.7,0.1,4,0,15,18,83.3,0,14,2,1,1,Juventus,2023-10-28 Juventus-Hellas Verona,ITA-SERIA_A,23-24,0c01fc2f
+8eec784d,Timothy Weah,22,USA,WB,23-248,45,0,0,0,0,2,0,0,0,32,2,0,1,0.1,0.1,0.0,2,0,21,23,91.3,0,19,0,1,1,Juventus,2023-10-28 Juventus-Hellas Verona,ITA-SERIA_A,23-24,0c01fc2f
+34693494,Fabio Miretti,20,ITA,"CM,RM",20-086,45,0,0,0,0,4,1,0,0,33,1,0,0,0.1,0.1,0.1,8,0,18,23,78.3,3,23,1,8,6,Juventus,2023-10-28 Juventus-Hellas Verona,ITA-SERIA_A,23-24,0c01fc2f
+14b8fcdf,Daniele Rugani,24,ITA,CB,29-091,86,0,0,0,0,0,0,1,0,55,0,1,1,0.0,0.0,0.0,1,0,46,49,93.9,6,42,1,0,0,Juventus,2023-10-28 Juventus-Hellas Verona,ITA-SERIA_A,23-24,0c01fc2f
+d8cda243,Kenan Yıldız,15,TUR,LW,18-177,4,0,0,0,0,1,0,0,0,1,0,0,0,0.5,0.5,0.0,0,0,0,0,,0,1,0,0,0,Juventus,2023-10-28 Juventus-Hellas Verona,ITA-SERIA_A,23-24,0c01fc2f
+5fd5ed86,Gleison Bremer,3,BRA,CB,26-224,90,0,0,0,0,0,0,0,0,99,0,3,0,0.0,0.0,0.0,1,0,80,90,88.9,8,76,0,0,0,Juventus,2023-10-28 Juventus-Hellas Verona,ITA-SERIA_A,23-24,0c01fc2f
+18dd3219,Federico Gatti,4,ITA,CB,25-126,90,0,0,0,0,3,0,0,0,78,2,1,0,0.1,0.1,0.1,2,0,63,69,91.3,8,62,1,1,0,Juventus,2023-10-28 Juventus-Hellas Verona,ITA-SERIA_A,23-24,0c01fc2f
+01b8a2b2,Wojciech Szczęsny,1,POL,GK,33-193,90,0,0,0,0,0,0,0,0,24,0,0,0,0.0,0.0,0.0,0,0,21,22,95.5,0,11,0,0,0,Juventus,2023-10-28 Juventus-Hellas Verona,ITA-SERIA_A,23-24,0c01fc2f
+405f6586,Milan Đurić,11,BIH,FW,33-159,90,0,0,0,0,1,0,1,0,35,0,0,0,0.1,0.1,0.0,4,0,19,28,67.9,1,22,1,1,0,Hellas Verona,2023-10-28 Juventus-Hellas Verona,ITA-SERIA_A,23-24,0c01fc2f
+bf57eaab,Federico Bonazzoli,99,ITA,FW,26-160,83,0,0,0,0,2,1,0,0,37,1,2,0,0.1,0.1,0.0,2,0,22,27,81.5,2,23,0,0,0,Hellas Verona,2023-10-28 Juventus-Hellas Verona,ITA-SERIA_A,23-24,0c01fc2f
+b3325a30,Suat Serdar,25,GER,FW,26-200,7,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,0,0,Hellas Verona,2023-10-28 Juventus-Hellas Verona,ITA-SERIA_A,23-24,0c01fc2f
+79ca3e23,Ondrej Duda,33,SVK,AM,28-327,90,0,0,0,0,0,0,0,0,48,2,1,3,0.0,0.0,0.1,2,0,32,40,80.0,2,28,2,2,1,Hellas Verona,2023-10-28 Juventus-Hellas Verona,ITA-SERIA_A,23-24,0c01fc2f
+b85bf253,Martin Hongla,18,CMR,CM,25-226,72,0,0,0,0,0,0,0,0,53,3,0,2,0.0,0.0,0.0,1,0,41,44,93.2,6,33,1,0,0,Hellas Verona,2023-10-28 Juventus-Hellas Verona,ITA-SERIA_A,23-24,0c01fc2f
+83fe71b8,Tomáš Suslov,31,SVK,CM,21-143,18,0,0,0,0,0,0,0,0,13,0,0,0,0.0,0.0,0.0,0,0,10,11,90.9,0,10,1,3,2,Hellas Verona,2023-10-28 Juventus-Hellas Verona,ITA-SERIA_A,23-24,0c01fc2f
+c391a179,Michael Folorunsho,90,ITA,CM,25-263,90,0,0,0,0,1,0,1,0,39,1,1,2,0.0,0.0,0.0,0,0,23,31,74.2,1,24,2,1,0,Hellas Verona,2023-10-28 Juventus-Hellas Verona,ITA-SERIA_A,23-24,0c01fc2f
+2f69d881,Josh Doig,3,SCO,WB,21-163,72,0,0,0,0,0,0,0,0,42,3,0,1,0.0,0.0,0.0,2,0,22,32,68.8,0,24,0,2,0,Hellas Verona,2023-10-28 Juventus-Hellas Verona,ITA-SERIA_A,23-24,0c01fc2f
+5128bde4,Darko Lazović,8,SRB,WB,33-043,18,0,0,0,0,1,0,0,0,11,0,0,0,0.0,0.0,0.0,0,0,8,10,80.0,1,8,1,0,0,Hellas Verona,2023-10-28 Juventus-Hellas Verona,ITA-SERIA_A,23-24,0c01fc2f
+aae9d04a,Davide Faraoni,5,ITA,WB,32-003,72,0,0,0,0,0,0,0,0,38,1,1,3,0.0,0.0,0.0,1,0,29,31,93.5,5,18,0,0,0,Hellas Verona,2023-10-28 Juventus-Hellas Verona,ITA-SERIA_A,23-24,0c01fc2f
+aeca7743,Jackson Tchatchoua,38,CMR,WB,22-044,18,0,0,0,0,0,0,0,0,15,0,1,0,0.0,0.0,0.0,0,0,9,14,64.3,0,7,1,0,0,Hellas Verona,2023-10-28 Juventus-Hellas Verona,ITA-SERIA_A,23-24,0c01fc2f
+5cbb5ad6,Filippo Terracciano,24,ITA,CB,20-262,89,0,0,0,0,0,0,0,0,75,0,2,3,0.0,0.0,0.1,1,0,56,64,87.5,1,56,3,1,0,Hellas Verona,2023-10-28 Juventus-Hellas Verona,ITA-SERIA_A,23-24,0c01fc2f
+22ae86f9,Diego Coppola,42,ITA,CB,19-304,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Hellas Verona,2023-10-28 Juventus-Hellas Verona,ITA-SERIA_A,23-24,0c01fc2f
+16bb656a,Paweł Dawidowicz,27,POL,CB,28-161,90,0,0,0,0,0,0,0,0,62,2,1,0,0.0,0.0,0.0,0,0,48,50,96.0,0,40,0,0,0,Hellas Verona,2023-10-28 Juventus-Hellas Verona,ITA-SERIA_A,23-24,0c01fc2f
+cce9f582,Giangiacomo Magnani,23,ITA,CB,28-024,90,0,0,0,0,2,0,0,0,45,1,2,2,0.1,0.1,0.0,0,0,31,35,88.6,0,26,0,0,0,Hellas Verona,2023-10-28 Juventus-Hellas Verona,ITA-SERIA_A,23-24,0c01fc2f
+c1d95617,Lorenzo Montipò,1,ITA,GK,27-250,90,0,0,0,0,0,0,0,0,41,0,0,0,0.0,0.0,0.0,0,0,18,38,47.4,0,16,0,0,0,Hellas Verona,2023-10-28 Juventus-Hellas Verona,ITA-SERIA_A,23-24,0c01fc2f

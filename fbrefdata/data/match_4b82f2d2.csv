@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+df69b544,Antoine Griezmann,17,FRA,FW,29-087,90,0,0,0,0,2,0,0,0,20,0,1,0,0.1,0.1,0.0,0,0,15,16,93.8,0,15,0,0,0,Barcelona,2020-06-16 Barcelona-Leganés,ESP-LALIGA,19-20,4b82f2d2
+0ba976e4,Ansu Fati,31,ESP,LW,17-229,53,1,0,0,0,1,1,0,0,44,0,0,1,0.1,0.1,0.0,0,0,30,34,88.2,1,40,3,7,4,Barcelona,2020-06-16 Barcelona-Leganés,ESP-LALIGA,19-20,4b82f2d2
+a6154613,Luis Suárez,9,URU,LW,33-144,37,0,0,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.0,0,0,6,7,85.7,0,5,0,0,0,Barcelona,2020-06-16 Barcelona-Leganés,ESP-LALIGA,19-20,4b82f2d2
+d70ce98e,Lionel Messi,10,ARG,RW,32-358,90,1,0,1,1,2,1,0,0,102,1,0,1,0.9,0.1,0.0,7,2,63,84,75.0,6,65,4,8,5,Barcelona,2020-06-16 Barcelona-Leganés,ESP-LALIGA,19-20,4b82f2d2
+48b3dd60,Arthur Melo,8,BRA,LM,23-309,72,0,0,0,0,0,0,0,0,79,1,1,0,0.0,0.0,0.0,2,0,68,74,91.9,4,58,2,2,2,Barcelona,2020-06-16 Barcelona-Leganés,ESP-LALIGA,19-20,4b82f2d2
+f090a37a,Riqui Puig,28,ESP,LM,20-308,18,0,0,0,0,2,2,1,0,15,2,0,0,0.3,0.3,0.0,2,0,10,11,90.9,1,10,2,0,0,Barcelona,2020-06-16 Barcelona-Leganés,ESP-LALIGA,19-20,4b82f2d2
+5ab0ea87,Sergio Busquets,5,ESP,CM,31-336,62,0,0,0,0,0,0,0,0,77,1,0,0,0.0,0.0,0.0,0,0,69,74,93.2,6,53,0,1,1,Barcelona,2020-06-16 Barcelona-Leganés,ESP-LALIGA,19-20,4b82f2d2
+67cdbc0e,Arturo Vidal,22,CHI,CM,33-025,28,0,0,0,0,0,0,0,0,34,3,0,1,0.0,0.0,0.3,2,0,26,30,86.7,3,23,2,0,0,Barcelona,2020-06-16 Barcelona-Leganés,ESP-LALIGA,19-20,4b82f2d2
+89f951b5,Ivan Rakitić,4,CRO,RM,32-098,90,0,0,0,0,1,0,1,0,93,3,1,1,0.1,0.1,0.2,3,0,79,85,92.9,5,51,1,1,1,Barcelona,2020-06-16 Barcelona-Leganés,ESP-LALIGA,19-20,4b82f2d2
+24f59bb2,Junior Firpo,24,DOM,LB,23-299,90,0,1,0,0,0,0,1,0,115,2,2,1,0.0,0.0,0.1,3,2,97,108,89.8,10,84,7,2,1,Barcelona,2020-06-16 Barcelona-Leganés,ESP-LALIGA,19-20,4b82f2d2
+4f28a6ff,Clément Lenglet,15,FRA,CB,24-365,90,0,0,0,0,1,0,1,0,133,1,0,1,0.1,0.1,0.0,0,0,124,128,96.9,7,108,0,0,0,Barcelona,2020-06-16 Barcelona-Leganés,ESP-LALIGA,19-20,4b82f2d2
+adfc9123,Gerard Piqué,3,ESP,CB,33-135,72,0,0,0,0,0,0,0,0,97,0,1,0,0.0,0.0,0.0,0,0,87,91,95.6,6,70,0,0,0,Barcelona,2020-06-16 Barcelona-Leganés,ESP-LALIGA,19-20,4b82f2d2
+3eed9821,Samuel Umtiti,23,FRA,CB,26-215,18,0,0,0,0,0,0,1,0,21,0,1,0,0.0,0.0,0.0,0,0,19,21,90.5,1,16,0,0,0,Barcelona,2020-06-16 Barcelona-Leganés,ESP-LALIGA,19-20,4b82f2d2
+335fa267,Sergi Roberto,20,ESP,RB,28-130,52,0,0,0,0,0,0,0,0,68,0,1,0,0.0,0.0,0.1,1,0,59,65,90.8,0,38,1,0,0,Barcelona,2020-06-16 Barcelona-Leganés,ESP-LALIGA,19-20,4b82f2d2
+d04b94db,Nélson Semedo,2,POR,RB,26-213,38,0,0,0,0,0,0,0,0,25,0,0,0,0.0,0.0,0.0,0,0,23,24,95.8,0,12,0,1,0,Barcelona,2020-06-16 Barcelona-Leganés,ESP-LALIGA,19-20,4b82f2d2
+6f51e382,Marc-André ter Stegen,1,GER,GK,28-047,90,0,0,0,0,0,0,0,0,41,0,0,0,0.0,0.0,0.0,0,0,38,40,95.0,0,24,0,0,0,Barcelona,2020-06-16 Barcelona-Leganés,ESP-LALIGA,19-20,4b82f2d2
+b35db3f6,Miguel Ángel Guerrero,9,ESP,FW,29-340,70,0,0,0,0,2,0,0,0,14,0,1,0,0.6,0.6,0.0,0,0,10,10,100.0,0,5,0,0,0,Leganés,2020-06-16 Barcelona-Leganés,ESP-LALIGA,19-20,4b82f2d2
+8f898ba8,Guido Carrillo,18,ARG,FW,29-022,20,0,0,0,0,1,0,0,0,15,0,0,0,0.1,0.1,0.0,2,0,10,12,83.3,1,6,0,0,0,Leganés,2020-06-16 Barcelona-Leganés,ESP-LALIGA,19-20,4b82f2d2
+aec0fb6f,Javier Eraso,17,ESP,FW,30-086,62,0,0,0,0,0,0,0,0,19,0,0,1,0.0,0.0,0.0,1,0,10,12,83.3,0,8,2,1,0,Leganés,2020-06-16 Barcelona-Leganés,ESP-LALIGA,19-20,4b82f2d2
+9260926b,Ibrahim Amadou,23,FRA,FW,27-071,28,0,0,0,0,0,0,0,0,19,0,4,0,0.0,0.0,0.0,0,0,8,11,72.7,0,9,0,0,0,Leganés,2020-06-16 Barcelona-Leganés,ESP-LALIGA,19-20,4b82f2d2
+54073b28,Recio,8,ESP,CM,29-157,84,0,0,0,0,2,0,0,0,34,3,1,0,0.1,0.1,0.0,2,0,24,26,92.3,1,18,1,0,0,Leganés,2020-06-16 Barcelona-Leganés,ESP-LALIGA,19-20,4b82f2d2
+7b5ab7f2,Bryan Gil,26,ESP,CM,19-126,6,0,0,0,0,0,0,0,0,6,1,0,0,0.0,0.0,0.0,0,0,3,4,75.0,1,4,1,0,0,Leganés,2020-06-16 Barcelona-Leganés,ESP-LALIGA,19-20,4b82f2d2
+3c7bc9bd,Rubén Pérez,21,ESP,CM,31-051,90,0,0,0,0,0,0,1,0,60,3,5,1,0.0,0.0,0.0,1,0,37,46,80.4,3,29,0,5,2,Leganés,2020-06-16 Barcelona-Leganés,ESP-LALIGA,19-20,4b82f2d2
+7c4243d4,Roque Mesa,6,ESP,CM,31-009,45,0,0,0,0,0,0,0,0,11,4,0,0,0.0,0.0,0.4,1,0,6,6,100.0,2,7,0,0,0,Leganés,2020-06-16 Barcelona-Leganés,ESP-LALIGA,19-20,4b82f2d2
+5d5219b1,Roger Assalé,20,CIV,CM,26-216,45,0,0,0,0,1,1,0,0,17,1,0,0,0.0,0.0,0.1,1,0,10,12,83.3,1,9,2,0,0,Leganés,2020-06-16 Barcelona-Leganés,ESP-LALIGA,19-20,4b82f2d2
+f2308b33,Jonathan Silva,5,ARG,LB,25-353,70,0,0,0,0,0,0,0,0,34,1,2,0,0.0,0.0,0.0,0,0,19,28,67.9,1,17,0,1,0,Leganés,2020-06-16 Barcelona-Leganés,ESP-LALIGA,19-20,4b82f2d2
+f1bed920,Kévin Rodrigues,24,POR,LB,26-103,20,0,0,0,0,0,0,0,0,22,2,2,0,0.0,0.0,0.1,3,0,12,16,75.0,0,6,0,1,0,Leganés,2020-06-16 Barcelona-Leganés,ESP-LALIGA,19-20,4b82f2d2
+f3112790,Unai Bustinza,3,ESP,CB,28-135,90,0,0,0,0,0,0,1,0,35,2,1,1,0.0,0.0,0.1,1,0,15,29,51.7,1,9,0,0,0,Leganés,2020-06-16 Barcelona-Leganés,ESP-LALIGA,19-20,4b82f2d2
+a03c82b2,Rodrigo Tarín,15,ESP,CB,23-347,90,0,0,0,0,0,0,0,0,20,0,2,0,0.0,0.0,0.0,0,0,12,18,66.7,0,5,0,0,0,Leganés,2020-06-16 Barcelona-Leganés,ESP-LALIGA,19-20,4b82f2d2
+70d8e84c,Chidozie Awaziem,12,NGA,CB,23-167,90,0,0,0,0,0,0,1,0,29,2,0,1,0.0,0.0,0.0,0,0,16,21,76.2,0,11,0,1,0,Leganés,2020-06-16 Barcelona-Leganés,ESP-LALIGA,19-20,4b82f2d2
+a55d8df5,Aitor Ruibal,19,ESP,RB,24-086,90,0,0,0,0,0,0,0,0,42,3,1,2,0.0,0.0,0.0,0,0,20,31,64.5,2,20,3,1,1,Leganés,2020-06-16 Barcelona-Leganés,ESP-LALIGA,19-20,4b82f2d2
+75751c99,Iván Cuéllar,1,ESP,GK,36-020,90,0,0,0,0,0,0,0,0,24,0,0,0,0.0,0.0,0.0,0,0,10,21,47.6,0,7,0,0,0,Leganés,2020-06-16 Barcelona-Leganés,ESP-LALIGA,19-20,4b82f2d2

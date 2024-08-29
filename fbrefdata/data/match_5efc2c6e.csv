@@ -1,0 +1,31 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+8f3565b3,Ante Budimir,22,CRO,FW,28-353,89,0,0,0,0,1,0,0,0,31,1,1,0,0.1,0.1,0.0,4,1,14,19,73.7,1,14,0,2,0,Mallorca,2020-07-09 Mallorca-Levante,ESP-LALIGA,19-20,5efc2c6e
+4207e578,Pablo Chavarría,19,ARG,FW,32-189,1,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,3,0,0,0,Mallorca,2020-07-09 Mallorca-Levante,ESP-LALIGA,19-20,5efc2c6e
+70f8e0bd,Dani Rodríguez,14,ESP,"FW,LM,RM",32-033,90,0,0,0,0,3,0,1,0,43,2,2,1,0.2,0.2,0.1,5,0,23,31,74.2,5,27,2,3,3,Mallorca,2020-07-09 Mallorca-Levante,ESP-LALIGA,19-20,5efc2c6e
+71b47ab9,Cucho,29,COL,LM,21-080,73,1,0,0,0,4,1,0,0,43,0,1,0,0.2,0.2,0.1,2,0,20,28,71.4,4,37,5,3,2,Mallorca,2020-07-09 Mallorca-Levante,ESP-LALIGA,19-20,5efc2c6e
+38126309,Aleix Febas,23,ESP,"FW,LM",24-158,17,0,0,0,0,0,0,0,0,14,1,0,1,0.0,0.0,0.0,1,0,8,9,88.9,0,9,1,2,2,Mallorca,2020-07-09 Mallorca-Levante,ESP-LALIGA,19-20,5efc2c6e
+75bd85ea,Salva Sevilla,8,ESP,CM,36-113,90,0,0,0,0,3,1,0,0,48,1,1,0,0.2,0.2,0.1,4,1,38,41,92.7,5,17,3,0,0,Mallorca,2020-07-09 Mallorca-Levante,ESP-LALIGA,19-20,5efc2c6e
+bfd381b3,Iddrisu Baba,12,GHA,CM,24-169,90,0,0,0,0,0,0,0,0,35,1,1,1,0.0,0.0,0.0,0,0,24,29,82.8,5,21,1,3,3,Mallorca,2020-07-09 Mallorca-Levante,ESP-LALIGA,19-20,5efc2c6e
+16aa3654,Takefusa Kubo,26,JPN,RM,19-035,85,1,0,0,0,3,3,1,0,34,1,0,1,0.5,0.5,0.2,4,0,16,21,76.2,3,25,7,3,2,Mallorca,2020-07-09 Mallorca-Levante,ESP-LALIGA,19-20,5efc2c6e
+360d70f8,Lago Junior,11,CIV,"LM,RM",29-191,5,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,1,2,0,0,0,Mallorca,2020-07-09 Mallorca-Levante,ESP-LALIGA,19-20,5efc2c6e
+2e3406ae,Fran Gámez,15,ESP,LB,28-348,90,0,0,0,0,1,0,0,0,51,3,0,1,0.0,0.0,0.0,3,0,31,43,72.1,6,29,2,3,2,Mallorca,2020-07-09 Mallorca-Levante,ESP-LALIGA,19-20,5efc2c6e
+b857bd29,Antonio Raillo,21,ESP,CB,28-275,90,0,0,0,0,0,0,1,0,42,1,0,3,0.0,0.0,0.1,0,0,26,32,81.3,1,24,0,0,0,Mallorca,2020-07-09 Mallorca-Levante,ESP-LALIGA,19-20,5efc2c6e
+f2c6ac01,Martin Valjent,24,SVK,CB,24-211,90,0,0,0,0,0,0,0,0,56,0,2,5,0.0,0.0,0.0,0,0,35,43,81.4,1,28,2,0,0,Mallorca,2020-07-09 Mallorca-Levante,ESP-LALIGA,19-20,5efc2c6e
+3c16d927,Alejandro Pozo Pozo,7,ESP,RB,21-138,90,0,1,0,0,0,0,0,0,58,2,0,1,0.0,0.0,0.2,4,1,34,47,72.3,2,29,1,3,2,Mallorca,2020-07-09 Mallorca-Levante,ESP-LALIGA,19-20,5efc2c6e
+605eb473,Manolo Reina,1,ESP,GK,35-099,90,0,0,0,0,0,0,0,0,40,0,0,0,0.0,0.0,0.0,0,0,29,39,74.4,0,22,0,0,0,Mallorca,2020-07-09 Mallorca-Levante,ESP-LALIGA,19-20,5efc2c6e
+4a478107,José Luis Morales,11,ESP,FW,32-352,63,0,0,0,0,2,0,0,0,20,0,0,0,0.1,0.1,0.0,1,0,11,15,73.3,2,15,2,1,1,Levante,2020-07-09 Mallorca-Levante,ESP-LALIGA,19-20,5efc2c6e
+64e8ed6d,Borja Mayoral,21,ESP,FW,23-095,27,0,0,0,0,3,1,0,0,15,0,0,0,0.3,0.3,0.0,1,0,9,11,81.8,0,12,2,0,0,Levante,2020-07-09 Mallorca-Levante,ESP-LALIGA,19-20,5efc2c6e
+0ae4e09a,Roger Martí,9,ESP,FW,29-188,77,0,0,0,0,2,0,0,0,16,1,0,1,0.4,0.4,0.0,1,0,4,8,50.0,2,12,1,0,0,Levante,2020-07-09 Mallorca-Levante,ESP-LALIGA,19-20,5efc2c6e
+ecd8c01e,Rubén Rochina,16,ESP,"FW,RM",29-108,13,0,0,0,0,2,0,0,0,12,0,0,0,0.0,0.0,0.2,1,0,5,10,50.0,1,11,0,0,0,Levante,2020-07-09 Mallorca-Levante,ESP-LALIGA,19-20,5efc2c6e
+61220da2,José Campaña,24,ESP,"LM,CM",27-039,90,0,0,0,0,2,1,0,0,77,0,1,1,0.1,0.1,0.0,2,0,45,65,69.2,9,58,2,2,1,Levante,2020-07-09 Mallorca-Levante,ESP-LALIGA,19-20,5efc2c6e
+3902e91b,Gonzalo Melero,22,ESP,CM,26-189,77,0,0,0,0,0,0,0,0,34,2,0,0,0.0,0.0,0.0,0,0,28,30,93.3,2,26,0,1,1,Levante,2020-07-09 Mallorca-Levante,ESP-LALIGA,19-20,5efc2c6e
+0a0cc13c,Sergio León,7,ESP,"CM,FW",31-185,13,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,3,0,0,0,Levante,2020-07-09 Mallorca-Levante,ESP-LALIGA,19-20,5efc2c6e
+b5dd3469,Nemanja Radoja,5,SRB,CM,27-154,63,0,0,0,0,0,0,0,0,41,2,0,0,0.0,0.0,0.0,0,0,30,35,85.7,2,31,0,1,1,Levante,2020-07-09 Mallorca-Levante,ESP-LALIGA,19-20,5efc2c6e
+2327c29e,Hernâni Fortes,8,POR,LM,28-324,27,0,0,0,0,0,0,1,0,19,0,0,0,0.0,0.0,0.3,3,0,7,12,58.3,2,15,2,1,0,Levante,2020-07-09 Mallorca-Levante,ESP-LALIGA,19-20,5efc2c6e
+cac2537b,Enis Bardhi,10,MKD,"RM,CM",25-007,90,0,0,0,0,2,0,0,0,49,2,0,1,0.1,0.1,0.2,5,0,32,40,80.0,8,38,4,2,2,Levante,2020-07-09 Mallorca-Levante,ESP-LALIGA,19-20,5efc2c6e
+d4ef9ac5,Toño,3,ESP,LB,30-245,90,0,0,0,0,0,0,0,0,75,1,2,1,0.0,0.0,0.1,3,0,48,64,75.0,6,53,3,1,0,Levante,2020-07-09 Mallorca-Levante,ESP-LALIGA,19-20,5efc2c6e
+c67cd65c,Rúben Vezo,14,POR,CB,26-075,90,0,0,0,0,0,0,0,0,57,3,3,0,0.0,0.0,0.0,2,0,41,50,82.0,3,37,1,0,0,Levante,2020-07-09 Mallorca-Levante,ESP-LALIGA,19-20,5efc2c6e
+c00097d2,Rober,4,ESP,CB,25-144,90,0,0,0,0,0,0,0,0,51,3,2,0,0.0,0.0,0.0,3,0,40,47,85.1,3,38,3,1,1,Levante,2020-07-09 Mallorca-Levante,ESP-LALIGA,19-20,5efc2c6e
+6d8f8441,Coke,23,ESP,RB,33-074,90,0,0,0,0,1,0,0,0,62,3,2,1,0.1,0.1,0.1,5,0,41,50,82.0,3,29,7,3,1,Levante,2020-07-09 Mallorca-Levante,ESP-LALIGA,19-20,5efc2c6e
+a01c3d54,Aitor Fernández,13,ESP,GK,29-067,90,0,0,0,0,0,0,0,0,30,0,0,0,0.0,0.0,0.0,0,0,21,27,77.8,0,7,0,0,0,Levante,2020-07-09 Mallorca-Levante,ESP-LALIGA,19-20,5efc2c6e

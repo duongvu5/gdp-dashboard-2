@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+7111d552,Vinicius Júnior,7,BRA,FW,23-193,90,1,0,0,0,2,2,0,0,62,0,0,0,0.3,0.3,0.3,7,0,32,47,68.1,7,51,13,10,3,Real Madrid,2024-01-21 Real Madrid-Almería,ESP-LALIGA,23-24,044f7144
+8f5e92a6,Rodrygo,11,BRA,FW,23-012,45,0,0,0,0,1,0,0,0,35,1,0,0,0.0,0.0,0.0,2,0,21,25,84.0,4,24,1,2,1,Real Madrid,2024-01-21 Real Madrid-Almería,ESP-LALIGA,23-24,044f7144
+6265208f,Joselu,14,ESP,FW,33-300,45,0,0,0,0,3,2,0,0,10,0,0,0,0.3,0.3,0.0,1,1,3,5,60.0,0,3,0,0,0,Real Madrid,2024-01-21 Real Madrid-Almería,ESP-LALIGA,23-24,044f7144
+57d88cf9,Jude Bellingham,5,ENG,AM,20-206,90,1,1,1,1,2,0,1,0,62,0,1,1,1.0,0.2,0.4,2,1,41,52,78.8,6,44,5,2,1,Real Madrid,2024-01-21 Real Madrid-Almería,ESP-LALIGA,23-24,044f7144
+6ce1f46f,Toni Kroos,8,GER,LM,34-017,81,0,0,0,0,2,0,0,0,95,1,0,1,0.0,0.0,0.1,7,0,75,91,82.4,22,67,3,0,0,Real Madrid,2024-01-21 Real Madrid-Almería,ESP-LALIGA,23-24,044f7144
+7b9c2d84,Eduardo Camavinga,12,FRA,LM,21-072,9,0,0,0,0,0,0,1,0,20,1,1,0,0.0,0.0,0.0,0,0,13,17,76.5,2,11,2,2,1,Real Madrid,2024-01-21 Real Madrid-Almería,ESP-LALIGA,23-24,044f7144
+4f255115,Aurélien Tchouaméni,18,FRA,CM,23-359,90,0,1,0,0,3,0,0,0,92,0,2,2,0.2,0.2,0.1,1,1,73,82,89.0,9,65,1,1,0,Real Madrid,2024-01-21 Real Madrid-Almería,ESP-LALIGA,23-24,044f7144
+0959c2a2,Federico Valverde,15,URU,RM,25-183,69,0,0,0,0,1,0,0,0,62,2,1,0,0.0,0.0,0.0,1,0,47,54,87.0,7,36,2,3,2,Real Madrid,2024-01-21 Real Madrid-Almería,ESP-LALIGA,23-24,044f7144
+c0617e2b,Dani Ceballos,19,ESP,RM,27-167,21,0,0,0,0,1,0,0,0,15,0,0,0,0.1,0.1,0.0,0,0,11,13,84.6,2,11,1,0,0,Real Madrid,2024-01-21 Real Madrid-Almería,ESP-LALIGA,23-24,044f7144
+3cefcaef,Ferland Mendy,23,FRA,LB,28-227,45,0,0,0,0,0,0,0,0,61,0,1,0,0.0,0.0,0.0,1,0,52,57,91.2,9,43,2,2,1,Real Madrid,2024-01-21 Real Madrid-Almería,ESP-LALIGA,23-24,044f7144
+7226539b,Fran Garcia,20,ESP,LB,24-160,45,0,0,0,0,0,0,0,0,25,0,1,0,0.0,0.0,0.2,3,0,17,21,81.0,4,17,1,1,0,Real Madrid,2024-01-21 Real Madrid-Almería,ESP-LALIGA,23-24,044f7144
+2946f9a1,Nacho,6,ESP,CB,34-003,45,0,0,0,0,0,0,0,0,51,0,1,0,0.0,0.0,0.0,0,0,44,49,89.8,4,38,0,0,0,Real Madrid,2024-01-21 Real Madrid-Almería,ESP-LALIGA,23-24,044f7144
+407feb71,Brahim Díaz,21,MAR,CB,24-171,45,0,0,0,0,1,0,0,0,23,1,0,0,0.0,0.0,0.2,5,1,14,18,77.8,3,21,1,1,1,Real Madrid,2024-01-21 Real Madrid-Almería,ESP-LALIGA,23-24,044f7144
+18b896d6,Antonio Rüdiger,22,GER,CB,30-324,90,0,0,0,0,0,0,0,0,74,0,0,1,0.0,0.0,0.0,0,0,63,72,87.5,7,43,0,0,0,Real Madrid,2024-01-21 Real Madrid-Almería,ESP-LALIGA,23-24,044f7144
+4958bfb2,Dani Carvajal,2,ESP,RB,32-010,90,1,0,0,0,1,1,1,0,80,2,2,2,0.3,0.3,0.1,2,1,57,72,79.2,3,47,5,0,0,Real Madrid,2024-01-21 Real Madrid-Almería,ESP-LALIGA,23-24,044f7144
+28d596a0,Kepa Arrizabalaga,25,ESP,GK,29-110,90,0,0,0,0,0,0,0,0,31,0,0,0,0.0,0.0,0.0,0,0,29,31,93.5,0,18,0,0,0,Real Madrid,2024-01-21 Real Madrid-Almería,ESP-LALIGA,23-24,044f7144
+1fda2b14,Marko Milovanović,29,SRB,FW,20-170,69,0,0,0,0,0,0,0,0,21,2,0,0,0.0,0.0,0.0,2,0,11,13,84.6,0,16,0,0,0,Almería,2024-01-21 Real Madrid-Almería,ESP-LALIGA,23-24,044f7144
+eeba07f8,Luis Javier Suárez,9,COL,FW,26-050,21,0,0,0,0,0,0,1,0,3,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,3,0,0,0,Almería,2024-01-21 Real Madrid-Almería,ESP-LALIGA,23-24,044f7144
+cc9256ef,Largie Ramazani,7,BEL,LM,22-328,76,1,0,0,0,2,1,1,0,14,0,1,0,0.5,0.5,0.0,2,0,4,8,50.0,1,9,0,2,1,Almería,2024-01-21 Real Madrid-Almería,ESP-LALIGA,23-24,044f7144
+db8f0eba,Adri Embarba,10,ESP,LM,31-259,14,0,0,0,0,1,0,0,0,15,1,0,0,0.0,0.0,0.0,1,0,6,11,54.5,1,7,1,2,1,Almería,2024-01-21 Real Madrid-Almería,ESP-LALIGA,23-24,044f7144
+a8981944,Lucas Robertone,5,ARG,CM,26-309,84,0,1,0,0,0,0,0,0,34,4,2,1,0.0,0.0,0.4,1,1,12,19,63.2,4,15,1,1,1,Almería,2024-01-21 Real Madrid-Almería,ESP-LALIGA,23-24,044f7144
+3902e91b,Gonzalo Melero,11,ESP,CM,30-019,6,0,0,0,0,0,0,0,0,6,1,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,3,0,0,0,Almería,2024-01-21 Real Madrid-Almería,ESP-LALIGA,23-24,044f7144
+64c14d49,Dion Lopy,6,SEN,CM,21-353,90,0,0,0,0,1,0,1,0,41,4,0,2,0.1,0.1,0.0,1,0,21,26,80.8,7,22,1,3,1,Almería,2024-01-21 Real Madrid-Almería,ESP-LALIGA,23-24,044f7144
+1e465e70,Sergio Arribas,19,ESP,RM,22-113,76,0,0,0,0,2,0,0,0,16,1,1,0,0.2,0.2,0.2,3,1,7,10,70.0,0,7,2,0,0,Almería,2024-01-21 Real Madrid-Almería,ESP-LALIGA,23-24,044f7144
+86ff856b,Lázaro,14,BRA,RM,21-315,14,0,0,0,0,0,0,0,0,10,1,0,1,0.0,0.0,0.0,1,0,5,7,71.4,1,5,0,0,0,Almería,2024-01-21 Real Madrid-Almería,ESP-LALIGA,23-24,044f7144
+06efa9dc,Sergio Akieme,15,ESP,LB,26-036,90,0,0,0,0,1,0,0,0,37,2,0,1,0.0,0.0,0.2,1,0,21,28,75.0,1,18,0,1,0,Almería,2024-01-21 Real Madrid-Almería,ESP-LALIGA,23-24,044f7144
+2475cf9b,Chumi,21,ESP,CB,24-325,90,0,0,0,0,1,0,0,0,36,1,2,0,0.0,0.0,0.0,0,0,15,20,75.0,0,12,0,0,0,Almería,2024-01-21 Real Madrid-Almería,ESP-LALIGA,23-24,044f7144
+49d028db,Édgar González,3,ESP,CB,26-295,90,1,0,0,0,1,1,1,0,38,0,0,3,0.0,0.0,0.0,1,0,14,22,63.6,0,9,0,0,0,Almería,2024-01-21 Real Madrid-Almería,ESP-LALIGA,23-24,044f7144
+55634fb8,Kaiky,2,BRA,CB,20-009,90,0,0,0,0,0,0,0,0,28,1,0,2,0.0,0.0,0.0,1,0,12,16,75.0,0,10,1,1,1,Almería,2024-01-21 Real Madrid-Almería,ESP-LALIGA,23-24,044f7144
+365113c0,Marc Pubill,18,ESP,RB,20-215,69,0,0,0,0,1,0,0,0,31,6,1,0,0.0,0.0,0.0,1,0,12,16,75.0,1,11,1,1,0,Almería,2024-01-21 Real Madrid-Almería,ESP-LALIGA,23-24,044f7144
+3c16d927,Alejandro Pozo Pozo,17,ESP,RB,24-333,21,0,0,0,0,0,0,1,0,17,3,1,1,0.0,0.0,0.0,1,0,8,11,72.7,3,2,1,0,0,Almería,2024-01-21 Real Madrid-Almería,ESP-LALIGA,23-24,044f7144
+3318286e,Luís Maximiano,25,POR,GK,25-016,90,0,0,0,0,0,0,0,0,47,0,0,0,0.0,0.0,0.0,0,0,12,45,26.7,0,19,0,0,0,Almería,2024-01-21 Real Madrid-Almería,ESP-LALIGA,23-24,044f7144

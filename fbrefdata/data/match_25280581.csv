@@ -1,0 +1,29 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+1f44ac21,Erling Haaland,9,NOR,FW,20-267,90,0,0,0,0,1,0,0,0,24,0,0,0,0.0,0.0,0.1,1,0,17,17,100.0,1,9,1,2,0,Dortmund,2021-04-14 Dortmund-Manchester City,UCL,20-21,25280581
+36a3ff67,Marco Reus,11,GER,"LW,RM,AM",31-318,90,0,0,0,0,1,0,0,0,46,2,0,2,0.1,0.1,0.1,3,0,29,36,80.6,4,24,2,1,0,Dortmund,2021-04-14 Dortmund-Manchester City,UCL,20-21,25280581
+19a967ab,Ansgar Knauff,36,GER,RW,19-094,67,0,0,0,0,0,0,0,0,20,1,0,0,0.0,0.0,0.0,0,0,8,14,57.1,0,9,1,0,0,Dortmund,2021-04-14 Dortmund-Manchester City,UCL,20-21,25280581
+7fa4e703,Gio Reyna,32,USA,"CM,RW",18-152,23,0,0,0,0,0,0,0,0,12,0,0,0,0.0,0.0,0.0,0,0,8,10,80.0,0,9,0,1,0,Dortmund,2021-04-14 Dortmund-Manchester City,UCL,20-21,25280581
+db4ed67b,Mahmoud Dahoud,8,GER,LM,25-103,75,0,0,0,0,4,1,0,0,42,2,1,3,0.2,0.2,0.1,2,1,17,25,68.0,4,20,1,2,2,Dortmund,2021-04-14 Dortmund-Manchester City,UCL,20-21,25280581
+50871bcc,Thorgan Hazard,10,BEL,LW,28-016,15,0,0,0,0,0,0,0,0,13,0,0,0,0.0,0.0,0.0,1,0,10,12,83.3,3,5,0,1,1,Dortmund,2021-04-14 Dortmund-Manchester City,UCL,20-21,25280581
+a65ce836,Emre Can,23,GER,"CM,CB,DM",27-092,90,0,0,0,0,1,0,0,0,50,2,1,2,0.0,0.0,0.0,4,0,33,40,82.5,0,34,1,3,2,Dortmund,2021-04-14 Dortmund-Manchester City,UCL,20-21,25280581
+57d88cf9,Jude Bellingham,22,ENG,"RM,DM",17-289,79,1,0,0,0,1,1,1,0,40,2,0,3,0.1,0.1,0.0,1,0,22,29,75.9,4,24,1,1,0,Dortmund,2021-04-14 Dortmund-Manchester City,UCL,20-21,25280581
+a167537f,Julian Brandt,19,GER,CM,24-347,11,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,0,0,7,10,70.0,1,9,0,1,1,Dortmund,2021-04-14 Dortmund-Manchester City,UCL,20-21,25280581
+048a1cbc,Raphaël Guerreiro,13,POR,"LB,LM",27-113,90,0,0,0,0,0,0,0,0,54,1,1,2,0.0,0.0,0.1,1,0,44,50,88.0,3,36,2,2,1,Dortmund,2021-04-14 Dortmund-Manchester City,UCL,20-21,25280581
+05d548d8,Mats Hummels,15,GER,CB,32-119,90,0,0,0,0,1,0,0,0,82,0,1,2,0.0,0.0,0.0,0,0,64,74,86.5,2,65,1,0,0,Dortmund,2021-04-14 Dortmund-Manchester City,UCL,20-21,25280581
+89ac64a6,Manuel Akanji,16,SUI,CB,25-269,90,0,0,0,0,1,1,0,0,89,0,0,1,0.1,0.1,0.0,1,0,71,78,91.0,3,64,0,1,0,Dortmund,2021-04-14 Dortmund-Manchester City,UCL,20-21,25280581
+5fd5e542,Mateu Morey,2,ESP,RB,21-043,80,0,0,0,0,0,0,0,0,43,2,2,1,0.0,0.0,0.0,0,0,26,32,81.3,1,23,0,0,0,Dortmund,2021-04-14 Dortmund-Manchester City,UCL,20-21,25280581
+6b8887c2,Steffen Tigges,27,GER,RW,22-257,10,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,1,1,0,0,0,Dortmund,2021-04-14 Dortmund-Manchester City,UCL,20-21,25280581
+2e7ff968,Marwin Hitz,35,SUI,GK,33-208,90,0,0,0,0,0,0,0,0,48,1,0,0,0.0,0.0,0.0,0,0,36,42,85.7,0,27,0,0,0,Dortmund,2021-04-14 Dortmund-Manchester City,UCL,20-21,25280581
+e46012d4,Kevin De Bruyne,17,BEL,FW,29-290,90,0,0,0,0,5,1,0,0,86,2,0,2,0.5,0.5,0.0,6,0,60,76,78.9,10,36,7,5,5,Manchester City,2021-04-14 Dortmund-Manchester City,UCL,20-21,25280581
+ed1e53f3,Phil Foden,47,ENG,LW,20-321,90,1,0,0,0,1,1,0,0,68,3,1,2,0.0,0.0,0.5,5,1,49,55,89.1,6,34,5,4,2,Manchester City,2021-04-14 Dortmund-Manchester City,UCL,20-21,25280581
+892d5bb1,Riyad Mahrez,26,ALG,RW,30-052,87,1,0,1,1,3,0,0,0,51,3,0,1,1.3,0.5,0.1,9,1,31,38,81.6,1,20,2,4,2,Manchester City,2021-04-14 Dortmund-Manchester City,UCL,20-21,25280581
+b400bde0,Raheem Sterling,7,ENG,RW,26-127,3,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,2,1,0,0,Manchester City,2021-04-14 Dortmund-Manchester City,UCL,20-21,25280581
+819b3158,İlkay Gündoğan,8,GER,LM,30-172,90,0,0,0,0,1,0,0,0,115,1,2,1,0.0,0.0,0.3,1,0,96,104,92.3,9,57,2,4,3,Manchester City,2021-04-14 Dortmund-Manchester City,UCL,20-21,25280581
+6434f10d,Rodri,16,ESP,CM,24-296,90,0,0,0,0,1,0,0,0,94,0,3,1,0.1,0.1,0.0,2,0,82,89,92.1,4,37,1,1,1,Manchester City,2021-04-14 Dortmund-Manchester City,UCL,20-21,25280581
+3eb22ec9,Bernardo Silva,20,POR,RM,26-247,90,0,1,0,0,1,0,0,0,51,2,1,0,0.3,0.3,0.1,3,1,36,42,85.7,5,28,3,4,1,Manchester City,2021-04-14 Dortmund-Manchester City,UCL,20-21,25280581
+51cf8561,Oleksandr Zinchenko,11,UKR,LB,24-120,90,0,0,0,0,2,2,0,0,115,0,2,1,0.2,0.2,0.0,0,0,89,102,87.3,4,52,1,0,0,Manchester City,2021-04-14 Dortmund-Manchester City,UCL,20-21,25280581
+31c69ef1,Rúben Dias,3,POR,CB,23-335,90,0,0,0,0,0,0,0,0,93,1,2,2,0.0,0.0,0.0,0,0,79,83,95.2,6,53,1,0,0,Manchester City,2021-04-14 Dortmund-Manchester City,UCL,20-21,25280581
+5eecec3d,John Stones,5,ENG,CB,26-321,90,0,0,0,0,1,0,0,0,79,1,4,1,0.1,0.1,0.0,1,0,70,71,98.6,2,52,1,0,0,Manchester City,2021-04-14 Dortmund-Manchester City,UCL,20-21,25280581
+86dd77d1,Kyle Walker,2,ENG,RB,30-321,90,0,0,0,0,1,0,0,0,63,1,1,1,0.0,0.0,0.0,0,0,46,56,82.1,1,26,2,0,0,Manchester City,2021-04-14 Dortmund-Manchester City,UCL,20-21,25280581
+3bb7b8b4,Ederson,31,BRA,GK,27-240,90,0,0,0,0,0,0,0,0,25,0,0,0,0.0,0.0,0.0,0,0,21,25,84.0,0,18,0,0,0,Manchester City,2021-04-14 Dortmund-Manchester City,UCL,20-21,25280581

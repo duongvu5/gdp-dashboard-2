@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+7dcf86f6,Iago Aspas,10,ESP,"FW,RW",36-180,90,0,0,0,0,2,0,0,0,52,0,0,0,0.2,0.2,0.1,5,0,29,45,64.4,5,33,1,3,1,Celta Vigo,2024-01-28 Celta Vigo-Girona,ESP-LALIGA,23-24,898ad853
+f553b2b3,Jørgen Strand Larsen,18,NOR,LW,23-356,90,0,0,0,0,2,1,0,0,33,2,0,1,0.1,0.1,0.0,2,0,13,17,76.5,3,15,2,3,1,Celta Vigo,2024-01-28 Celta Vigo-Girona,ESP-LALIGA,23-24,898ad853
+853ca71c,Anastasios Douvikas,12,GRE,"RW,FW",24-179,90,0,0,0,0,1,1,0,0,18,0,0,1,0.1,0.1,0.1,1,0,7,12,58.3,1,12,0,2,0,Celta Vigo,2024-01-28 Celta Vigo-Girona,ESP-LALIGA,23-24,898ad853
+ffacd3d5,Manu Sánchez,23,ESP,LM,23-157,65,0,0,0,0,0,0,0,0,39,1,0,3,0.0,0.0,0.1,3,0,22,26,84.6,2,18,3,2,1,Celta Vigo,2024-01-28 Celta Vigo-Girona,ESP-LALIGA,23-24,898ad853
+ea0aa7e0,Mihailo Ristić,21,SRB,"LB,LM",28-089,25,0,0,0,0,1,1,0,0,25,2,0,0,0.0,0.0,0.0,0,0,14,21,66.7,2,10,2,0,0,Celta Vigo,2024-01-28 Celta Vigo-Girona,ESP-LALIGA,23-24,898ad853
+e9241b40,Luca de la Torre,14,USA,CM,25-250,65,0,0,0,0,2,1,0,0,30,6,2,0,0.1,0.1,0.0,0,0,13,19,68.4,2,13,0,0,0,Celta Vigo,2024-01-28 Celta Vigo-Girona,ESP-LALIGA,23-24,898ad853
+b4819112,Jailson Siqueira,16,BRA,"LM,CM",28-143,25,0,0,0,0,0,0,1,0,10,1,0,0,0.0,0.0,0.0,0,0,7,9,77.8,0,5,0,1,0,Celta Vigo,2024-01-28 Celta Vigo-Girona,ESP-LALIGA,23-24,898ad853
+34269bdf,Renato Tapia,5,PER,CM,28-184,77,0,0,0,0,0,0,0,0,41,0,2,0,0.0,0.0,0.0,1,0,27,35,77.1,6,29,0,3,2,Celta Vigo,2024-01-28 Celta Vigo-Girona,ESP-LALIGA,23-24,898ad853
+958d67bb,Miguel Rodríguez,29,ESP,RM,20-274,13,0,0,0,0,0,0,0,0,11,0,0,1,0.0,0.0,0.0,0,0,5,6,83.3,1,10,0,3,2,Celta Vigo,2024-01-28 Celta Vigo-Girona,ESP-LALIGA,23-24,898ad853
+056269d7,Óscar Mingueza,3,ESP,"RM,RB",24-260,90,0,0,0,0,1,1,0,0,58,0,1,1,0.0,0.0,0.1,1,0,34,51,66.7,5,33,4,0,0,Celta Vigo,2024-01-28 Celta Vigo-Girona,ESP-LALIGA,23-24,898ad853
+3521abfe,Carlos Dominguez,28,ESP,CB,22-351,90,0,0,0,0,0,0,0,0,68,3,2,1,0.0,0.0,0.0,2,0,42,54,77.8,4,37,1,1,1,Celta Vigo,2024-01-28 Celta Vigo-Girona,ESP-LALIGA,23-24,898ad853
+5cfec13d,Carl Starfelt,2,SWE,CB,28-241,77,0,0,0,0,1,0,0,0,37,1,1,0,0.1,0.1,0.0,0,0,28,31,90.3,0,23,0,0,0,Celta Vigo,2024-01-28 Celta Vigo-Girona,ESP-LALIGA,23-24,898ad853
+daa2eab3,Carlos Dotor,6,ESP,CM,22-319,13,0,0,0,0,0,0,0,0,11,0,0,1,0.0,0.0,0.0,0,0,9,9,100.0,1,5,0,0,0,Celta Vigo,2024-01-28 Celta Vigo-Girona,ESP-LALIGA,23-24,898ad853
+be170419,Unai Núñez,4,ESP,CB,26-363,90,0,0,0,0,0,0,0,0,62,5,1,1,0.0,0.0,0.0,1,0,36,51,70.6,4,30,0,1,1,Celta Vigo,2024-01-28 Celta Vigo-Girona,ESP-LALIGA,23-24,898ad853
+ab13a5aa,Vicente Guaita,25,ESP,GK,37-018,90,0,0,0,0,0,0,0,0,26,0,0,0,0.0,0.0,0.0,0,0,17,23,73.9,0,16,0,0,0,Celta Vigo,2024-01-28 Celta Vigo-Girona,ESP-LALIGA,23-24,898ad853
+5b847bb0,Artem Dovbyk,9,UKR,FW,26-221,90,0,0,0,0,2,2,0,0,18,0,0,1,0.1,0.1,0.2,3,0,8,10,80.0,2,15,0,1,1,Girona,2024-01-28 Celta Vigo-Girona,ESP-LALIGA,23-24,898ad853
+fe6e7156,Sávio,16,BRA,"LW,RW",19-293,90,0,0,0,0,1,0,0,0,39,2,1,0,0.0,0.0,0.1,4,1,21,27,77.8,4,33,5,9,5,Girona,2024-01-28 Celta Vigo-Girona,ESP-LALIGA,23-24,898ad853
+f7e87032,Viktor Tsyhankov,8,UKR,RW,26-074,82,0,0,0,0,2,0,0,0,50,2,1,1,0.2,0.2,0.0,4,0,26,37,70.3,0,28,2,4,2,Girona,2024-01-28 Celta Vigo-Girona,ESP-LALIGA,23-24,898ad853
+4acd733a,Valery Fernández,11,ESP,LW,24-066,8,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,3,0,0,0,Girona,2024-01-28 Celta Vigo-Girona,ESP-LALIGA,23-24,898ad853
+1bda5842,Portu,24,ESP,AM,31-252,68,1,0,0,0,1,1,0,0,32,2,0,0,0.3,0.3,0.0,1,0,17,23,73.9,1,20,0,3,2,Girona,2024-01-28 Celta Vigo-Girona,ESP-LALIGA,23-24,898ad853
+ae48c5cb,Iván Martín,23,ESP,AM,24-348,22,0,0,0,0,0,0,0,0,15,1,0,0,0.0,0.0,0.0,1,0,12,13,92.3,0,7,0,1,1,Girona,2024-01-28 Celta Vigo-Girona,ESP-LALIGA,23-24,898ad853
+a10361d2,Aleix García,14,ESP,DM,26-214,90,0,0,0,0,2,1,0,0,104,1,0,2,0.1,0.1,0.1,4,0,85,97,87.6,4,58,3,1,0,Girona,2024-01-28 Celta Vigo-Girona,ESP-LALIGA,23-24,898ad853
+5083a734,Yangel Herrera,21,VEN,DM,26-014,90,0,0,0,0,3,1,0,0,79,4,2,1,0.1,0.1,0.0,1,0,51,61,83.6,7,38,1,1,0,Girona,2024-01-28 Celta Vigo-Girona,ESP-LALIGA,23-24,898ad853
+7e98cff1,Miguel Gutiérrez,3,ESP,LB,22-185,90,0,1,0,0,1,0,0,0,67,0,1,0,0.0,0.0,0.3,2,1,45,58,77.6,7,41,3,1,1,Girona,2024-01-28 Celta Vigo-Girona,ESP-LALIGA,23-24,898ad853
+691bef82,Daley Blind,17,NED,CB,33-325,90,0,0,0,0,1,1,1,0,93,2,2,2,0.1,0.1,0.0,0,0,72,81,88.9,1,58,0,1,1,Girona,2024-01-28 Celta Vigo-Girona,ESP-LALIGA,23-24,898ad853
+c3e66ffe,Arnau Martinez,4,ESP,CB,20-278,90,0,0,0,0,0,0,0,0,77,1,2,0,0.0,0.0,0.0,3,0,58,66,87.9,3,48,0,0,0,Girona,2024-01-28 Celta Vigo-Girona,ESP-LALIGA,23-24,898ad853
+1944818c,Yan Couto,20,BRA,RB,21-239,90,0,0,0,0,2,0,0,0,106,2,0,0,0.1,0.1,0.0,3,0,76,94,80.9,6,71,9,10,7,Girona,2024-01-28 Celta Vigo-Girona,ESP-LALIGA,23-24,898ad853
+63d17038,Paulo Gazzaniga,13,ARG,GK,32-026,90,0,0,0,0,0,0,0,0,45,1,0,0,0.0,0.0,0.0,0,0,36,42,85.7,0,24,0,0,0,Girona,2024-01-28 Celta Vigo-Girona,ESP-LALIGA,23-24,898ad853

@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+c43e5e7e,Júnior Moraes,10,UKR,FW,31-252,90,1,0,0,0,2,1,0,0,31,1,1,1,0.4,0.4,0.0,0,0,14,21,66.7,0,18,1,1,1,Shakhtar Donetsk,2018-12-12 Shakhtar-Lyon,UCL,18-19,08489c7c
+7272a72a,Taison,7,BRA,LW,30-333,90,0,0,0,0,0,0,0,0,80,2,0,0,0.0,0.0,0.0,0,0,59,71,83.1,9,64,6,4,2,Shakhtar Donetsk,2018-12-12 Shakhtar-Lyon,UCL,18-19,08489c7c
+9139bb12,Marlos,11,UKR,RW,30-188,86,0,0,0,0,1,0,0,0,58,1,1,1,0.0,0.0,0.0,2,1,47,52,90.4,4,46,3,3,2,Shakhtar Donetsk,2018-12-12 Shakhtar-Lyon,UCL,18-19,08489c7c
+24b98f95,Serhiy Bolbat,50,UKR,RW,25-182,4,0,0,0,0,0,0,1,0,5,0,1,0,0.0,0.0,0.0,0,0,3,4,75.0,1,2,0,0,0,Shakhtar Donetsk,2018-12-12 Shakhtar-Lyon,UCL,18-19,08489c7c
+9d60028d,Viktor Kovalenko,74,UKR,AM,22-301,82,0,0,0,0,0,0,0,0,26,1,0,0,0.0,0.0,0.0,0,0,18,24,75.0,0,19,3,0,0,Shakhtar Donetsk,2018-12-12 Shakhtar-Lyon,UCL,18-19,08489c7c
+d3272fba,Olarenwaju Kayode,8,NGA,AM,25-218,8,0,0,0,0,2,0,0,0,3,0,0,0,0.1,0.1,0.0,0,0,0,1,0.0,0,2,0,0,0,Shakhtar Donetsk,2018-12-12 Shakhtar-Lyon,UCL,18-19,08489c7c
+ee3519f5,Taras Stepanenko,6,UKR,DM,29-126,90,0,0,0,0,0,0,0,0,64,1,0,1,0.0,0.0,0.0,2,0,51,60,85.0,7,43,1,0,0,Shakhtar Donetsk,2018-12-12 Shakhtar-Lyon,UCL,18-19,08489c7c
+005ca692,Maycon,27,BRA,DM,21-150,90,0,0,0,0,0,0,0,0,65,2,2,1,0.0,0.0,0.6,1,0,47,54,87.0,5,44,1,0,0,Shakhtar Donetsk,2018-12-12 Shakhtar-Lyon,UCL,18-19,08489c7c
+cf182add,Ismaily,31,BRA,LB,28-335,90,0,1,0,0,1,1,0,0,94,5,2,3,0.6,0.6,0.4,2,1,56,73,76.7,1,53,3,3,0,Shakhtar Donetsk,2018-12-12 Shakhtar-Lyon,UCL,18-19,08489c7c
+862fa9fb,Davit Khocholava,5,GEO,CB,25-307,45,0,0,0,0,0,0,0,0,45,0,0,1,0.0,0.0,0.0,0,0,34,40,85.0,0,28,0,0,0,Shakhtar Donetsk,2018-12-12 Shakhtar-Lyon,UCL,18-19,08489c7c
+8a7a5ad7,Bohdan Butko,2,UKR,RB,27-333,45,0,0,0,0,0,0,0,0,39,0,1,1,0.0,0.0,0.0,0,0,26,31,83.9,1,20,1,3,0,Shakhtar Donetsk,2018-12-12 Shakhtar-Lyon,UCL,18-19,08489c7c
+292a652a,Serhiy Kryvtsov,4,UKR,CB,27-272,90,0,0,0,0,0,0,0,0,65,2,3,0,0.0,0.0,0.0,1,0,45,57,78.9,0,42,0,0,0,Shakhtar Donetsk,2018-12-12 Shakhtar-Lyon,UCL,18-19,08489c7c
+1adcf39e,Mykola Matviyenko,22,UKR,"CB,RB",22-224,90,0,0,0,0,0,0,0,0,65,2,1,1,0.0,0.0,0.0,1,0,49,56,87.5,2,36,0,0,0,Shakhtar Donetsk,2018-12-12 Shakhtar-Lyon,UCL,18-19,08489c7c
+34c3b935,Andriy Pyatov,30,UKR,GK,34-167,90,0,0,0,0,0,0,0,0,48,0,0,0,0.0,0.0,0.0,0,0,29,45,64.4,0,24,0,0,0,Shakhtar Donetsk,2018-12-12 Shakhtar-Lyon,UCL,18-19,08489c7c
+8f696594,Memphis,11,NED,FW,24-302,79,0,1,0,0,2,1,0,0,34,0,0,0,0.1,0.1,0.2,3,1,22,28,78.6,2,17,3,3,0,Lyon,2018-12-12 Shakhtar-Lyon,UCL,18-19,08489c7c
+e7986081,Moussa Dembélé,9,FRA,FW,22-153,11,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,0,2,0.0,0,2,0,1,0,Lyon,2018-12-12 Shakhtar-Lyon,UCL,18-19,08489c7c
+c47541e0,Bertrand Traoré,10,BFA,FW,23-097,71,0,0,0,0,3,2,0,0,43,3,1,2,0.6,0.6,0.2,4,0,26,28,92.9,6,26,4,3,2,Lyon,2018-12-12 Shakhtar-Lyon,UCL,18-19,08489c7c
+5cdddffa,Tanguy Ndombele,28,FRA,"DM,CM",21-349,19,0,0,0,0,0,0,0,0,5,0,1,0,0.0,0.0,0.0,0,0,2,2,100.0,0,2,0,1,0,Lyon,2018-12-12 Shakhtar-Lyon,UCL,18-19,08489c7c
+bece776f,Nabil Fekir,18,FRA,"AM,FW",25-147,88,1,0,0,0,6,3,1,0,47,1,0,3,0.3,0.3,0.2,7,0,28,33,84.8,5,30,5,3,3,Lyon,2018-12-12 Shakhtar-Lyon,UCL,18-19,08489c7c
+ff0ab48c,Leo Dubois,14,FRA,RM,24-089,2,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,0,2,0.0,0,1,1,0,0,Lyon,2018-12-12 Shakhtar-Lyon,UCL,18-19,08489c7c
+a5db0bec,Houssem Aouar,8,ALG,"CM,DM,LM",20-165,90,0,0,0,0,2,0,0,0,61,3,2,1,0.1,0.1,0.6,4,0,38,44,86.4,5,35,1,5,5,Lyon,2018-12-12 Shakhtar-Lyon,UCL,18-19,08489c7c
+71ec39ef,Lucas Tousart,29,FRA,"CM,DM",21-227,90,0,0,0,0,0,0,0,0,49,6,1,3,0.0,0.0,0.0,0,0,23,32,71.9,1,19,1,0,0,Lyon,2018-12-12 Shakhtar-Lyon,UCL,18-19,08489c7c
+3cefcaef,Ferland Mendy,22,FRA,"WB,LB",23-187,90,0,0,0,0,2,0,0,0,68,1,1,1,0.1,0.1,0.0,2,0,47,59,79.7,3,43,1,1,1,Lyon,2018-12-12 Shakhtar-Lyon,UCL,18-19,08489c7c
+77d7c96f,Kenny Tete,23,NED,"WB,RB",23-064,90,0,0,0,0,1,0,0,0,84,11,3,3,0.1,0.1,0.0,4,1,47,64,73.4,9,28,4,1,1,Lyon,2018-12-12 Shakhtar-Lyon,UCL,18-19,08489c7c
+9ae9eaea,Fernando Marçal,20,BRA,CB,29-296,90,0,0,0,0,0,0,1,0,72,1,2,0,0.0,0.0,0.0,1,0,63,69,91.3,5,47,1,0,0,Lyon,2018-12-12 Shakhtar-Lyon,UCL,18-19,08489c7c
+e3d0b0c4,Marcelo,6,BRA,CB,31-206,90,0,0,0,0,1,0,0,0,87,0,2,0,0.1,0.1,0.0,0,0,70,79,88.6,3,61,0,0,0,Lyon,2018-12-12 Shakhtar-Lyon,UCL,18-19,08489c7c
+47af88b8,Jason Denayer,5,BEL,CB,23-167,90,0,0,0,0,0,0,0,0,78,1,1,3,0.0,0.0,0.0,1,0,58,64,90.6,2,43,1,1,1,Lyon,2018-12-12 Shakhtar-Lyon,UCL,18-19,08489c7c
+f00de885,Anthony Lopes,1,POR,GK,28-072,90,0,0,0,0,0,0,0,0,23,0,0,0,0.0,0.0,0.0,0,0,14,21,66.7,0,9,0,0,0,Lyon,2018-12-12 Shakhtar-Lyon,UCL,18-19,08489c7c

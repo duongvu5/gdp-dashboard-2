@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+08aa9cd1,Andrea Pinamonti,9,ITA,FW,24-136,60,0,0,0,0,3,1,0,0,18,0,0,0,0.1,0.1,0.0,0,0,8,13,61.5,0,10,0,0,0,Sassuolo,2023-10-02 Sassuolo-Monza,ITA-SERIA_A,23-24,13b84a7a
+30297946,Samuele Mulattieri,8,ITA,FW,22-360,30,0,0,0,0,2,1,0,0,7,0,0,0,0.2,0.2,0.0,0,0,3,4,75.0,0,5,0,0,0,Sassuolo,2023-10-02 Sassuolo-Monza,ITA-SERIA_A,23-24,13b84a7a
+2d22cea7,Armand Lauriente,45,FRA,LW,24-302,90,0,0,0,0,4,2,0,0,40,0,0,2,0.6,0.6,0.1,4,0,21,33,63.6,5,28,5,2,2,Sassuolo,2023-10-02 Sassuolo-Monza,ITA-SERIA_A,23-24,13b84a7a
+53a0e358,Domenico Berardi,10,ITA,RW,29-062,90,0,0,0,0,4,2,0,0,52,1,1,0,0.2,0.2,0.4,8,0,28,41,68.3,4,33,4,1,1,Sassuolo,2023-10-02 Sassuolo-Monza,ITA-SERIA_A,23-24,13b84a7a
+76ff8d0d,Kristian Thorstvedt,42,NOR,AM,24-203,45,0,0,0,0,2,0,0,0,22,0,1,2,0.1,0.1,0.2,4,0,13,17,76.5,3,12,2,0,0,Sassuolo,2023-10-02 Sassuolo-Monza,ITA-SERIA_A,23-24,13b84a7a
+f42d6c13,Nedim Bajrami,11,ALB,"AM,LM",24-216,45,0,0,0,0,1,0,0,0,19,0,0,0,0.1,0.1,0.2,1,0,14,16,87.5,4,15,1,1,0,Sassuolo,2023-10-02 Sassuolo-Monza,ITA-SERIA_A,23-24,13b84a7a
+a2d9f138,Matheus Henrique,7,BRA,DM,25-287,81,0,0,0,0,0,0,0,0,32,0,0,1,0.0,0.0,0.0,3,0,25,26,96.2,0,21,1,2,1,Sassuolo,2023-10-02 Sassuolo-Monza,ITA-SERIA_A,23-24,13b84a7a
+130a7a3f,Samu Castillejo,20,ESP,RM,28-257,9,0,0,0,0,0,0,0,0,10,0,0,1,0.0,0.0,0.0,0,0,8,8,100.0,2,9,1,0,0,Sassuolo,2023-10-02 Sassuolo-Monza,ITA-SERIA_A,23-24,13b84a7a
+85f7ed25,Daniel Boloca,24,ROU,"DM,CM",24-284,90,0,0,0,0,1,0,0,0,45,0,0,1,0.0,0.0,0.0,4,0,34,37,91.9,5,27,1,3,3,Sassuolo,2023-10-02 Sassuolo-Monza,ITA-SERIA_A,23-24,13b84a7a
+08eb3b58,Matías Viña,17,URU,LB,25-327,60,0,0,0,0,0,0,0,0,46,4,0,0,0.0,0.0,0.2,4,0,32,40,80.0,5,31,3,2,0,Sassuolo,2023-10-02 Sassuolo-Monza,ITA-SERIA_A,23-24,13b84a7a
+596cc50e,Marcus Pedersen,3,NOR,LB,23-078,30,0,0,0,0,0,0,0,0,23,3,0,2,0.0,0.0,0.0,1,0,17,20,85.0,2,13,2,0,0,Sassuolo,2023-10-02 Sassuolo-Monza,ITA-SERIA_A,23-24,13b84a7a
+a378a02a,Ruan,44,BRA,CB,24-117,68,0,0,0,0,0,0,0,0,31,1,1,3,0.0,0.0,0.0,0,0,23,23,100.0,0,14,0,0,0,Sassuolo,2023-10-02 Sassuolo-Monza,ITA-SERIA_A,23-24,13b84a7a
+8650af85,Gian Marco Ferrari,13,ITA,CB,31-229,22,0,0,0,0,1,1,0,0,26,0,0,1,0.0,0.0,0.0,1,0,18,22,81.8,2,13,0,0,0,Sassuolo,2023-10-02 Sassuolo-Monza,ITA-SERIA_A,23-24,13b84a7a
+0fee6bda,Martin Erlic,5,CRO,CB,25-251,90,0,0,0,0,1,0,0,0,51,2,0,1,0.0,0.0,0.0,3,0,37,43,86.0,4,31,1,0,0,Sassuolo,2023-10-02 Sassuolo-Monza,ITA-SERIA_A,23-24,13b84a7a
+a96e5dc0,Jeremy Toljan,22,GER,RB,29-055,90,0,0,0,0,0,0,0,0,48,1,0,0,0.0,0.0,0.2,2,0,36,41,87.8,2,31,0,1,0,Sassuolo,2023-10-02 Sassuolo-Monza,ITA-SERIA_A,23-24,13b84a7a
+8cabdc1e,Andrea Consigli,47,ITA,GK,36-248,90,0,0,0,0,0,0,0,0,39,0,0,0,0.0,0.0,0.0,0,0,31,35,88.6,0,21,0,0,0,Sassuolo,2023-10-02 Sassuolo-Monza,ITA-SERIA_A,23-24,13b84a7a
+04df29a5,Lorenzo Colombo,9,ITA,FW,21-208,90,1,0,0,0,3,2,0,0,32,1,0,1,0.6,0.6,0.0,4,2,16,21,76.2,1,22,1,2,2,Monza,2023-10-02 Sassuolo-Monza,ITA-SERIA_A,23-24,13b84a7a
+efc9e31f,Dany Mota,47,POR,LW,25-153,70,0,0,0,0,1,0,0,0,33,0,0,0,0.4,0.4,0.0,0,0,21,30,70.0,3,23,7,0,0,Monza,2023-10-02 Sassuolo-Monza,ITA-SERIA_A,23-24,13b84a7a
+a14d0ab0,Samuele Vignato,80,ITA,LW,19-220,20,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,4,6,66.7,2,8,0,0,0,Monza,2023-10-02 Sassuolo-Monza,ITA-SERIA_A,23-24,13b84a7a
+6499048c,Andrea Colpani,28,ITA,RW,24-144,70,0,0,0,0,0,0,0,0,31,0,0,0,0.0,0.0,0.5,3,0,19,27,70.4,5,25,6,2,1,Monza,2023-10-02 Sassuolo-Monza,ITA-SERIA_A,23-24,13b84a7a
+204ac005,Samuele Birindelli,19,ITA,RM,24-075,20,0,0,0,0,1,0,0,0,18,0,0,1,0.1,0.1,0.0,0,0,10,12,83.3,0,12,0,3,1,Monza,2023-10-02 Sassuolo-Monza,ITA-SERIA_A,23-24,13b84a7a
+0a483542,Giorgos Kyriakopoulos,77,GRE,LM,27-239,75,0,0,0,0,1,0,0,0,45,0,1,0,0.1,0.1,0.0,2,0,33,38,86.8,2,37,4,4,2,Monza,2023-10-02 Sassuolo-Monza,ITA-SERIA_A,23-24,13b84a7a
+6e4df551,Papu Gómez,17,ARG,RW,35-229,15,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,2,0,4,6,66.7,1,3,0,0,0,Monza,2023-10-02 Sassuolo-Monza,ITA-SERIA_A,23-24,13b84a7a
+ce30bfc8,Roberto Gagliardini,6,ITA,CM,29-178,90,0,0,0,0,3,0,0,0,59,0,1,1,0.1,0.1,0.0,1,0,45,46,97.8,7,37,0,1,1,Monza,2023-10-02 Sassuolo-Monza,ITA-SERIA_A,23-24,13b84a7a
+780e3631,Matteo Pessina,32,ITA,CM,26-164,52,0,0,0,0,0,0,0,0,39,2,0,0,0.0,0.0,0.0,2,0,33,36,91.7,3,31,0,0,0,Monza,2023-10-02 Sassuolo-Monza,ITA-SERIA_A,23-24,13b84a7a
+7afb1573,Pepín,7,EQG,CM,27-049,38,0,0,0,0,0,0,0,0,28,1,0,2,0.0,0.0,0.0,1,0,24,24,100.0,2,22,0,0,0,Monza,2023-10-02 Sassuolo-Monza,ITA-SERIA_A,23-24,13b84a7a
+5de3866c,Patrick Ciurria,84,ITA,"RM,LM,RW",28-235,90,0,0,0,0,4,2,0,0,69,0,2,0,0.1,0.1,0.3,5,0,49,58,84.5,9,46,10,3,2,Monza,2023-10-02 Sassuolo-Monza,ITA-SERIA_A,23-24,13b84a7a
+f7e2af2c,Andrea Carboni,44,ITA,CB,22-240,52,0,0,0,0,0,0,0,0,44,3,0,1,0.0,0.0,0.0,0,0,34,39,87.2,2,31,0,0,0,Monza,2023-10-02 Sassuolo-Monza,ITA-SERIA_A,23-24,13b84a7a
+44eb9093,Danilo D'Ambrosio,33,ITA,CB,35-023,38,0,0,0,0,0,0,0,0,36,1,0,0,0.0,0.0,0.0,0,0,26,33,78.8,1,29,0,0,0,Monza,2023-10-02 Sassuolo-Monza,ITA-SERIA_A,23-24,13b84a7a
+aa54ec6f,Pablo Marí,22,ESP,CB,30-032,90,0,0,0,0,0,0,0,0,61,4,1,2,0.0,0.0,0.1,2,0,44,51,86.3,1,40,0,0,0,Monza,2023-10-02 Sassuolo-Monza,ITA-SERIA_A,23-24,13b84a7a
+226008f1,Luca Caldirola,5,ITA,CB,32-243,90,0,1,0,0,0,0,0,0,71,0,2,1,0.0,0.0,0.5,0,0,62,67,92.5,0,56,0,0,0,Monza,2023-10-02 Sassuolo-Monza,ITA-SERIA_A,23-24,13b84a7a
+4e0c8d66,Michele Di Gregorio,16,ITA,GK,26-067,90,0,0,0,0,0,0,0,0,53,0,0,0,0.0,0.0,0.0,0,0,45,48,93.8,0,36,0,1,1,Monza,2023-10-02 Sassuolo-Monza,ITA-SERIA_A,23-24,13b84a7a

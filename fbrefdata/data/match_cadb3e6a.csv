@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+129af0db,Álvaro Morata,19,ESP,FW,31-020,87,0,0,0,0,6,1,0,0,21,0,0,1,0.9,0.9,0.1,4,1,8,11,72.7,0,14,0,2,1,Atlético Madrid,2023-11-12 Atlético Madrid-Villarreal,ESP-LALIGA,23-24,cadb3e6a
+21166ff4,Çağlar Söyüncü,4,TUR,CB,27-173,3,0,0,0,0,0,0,0,0,4,0,0,1,0.0,0.0,0.0,0,0,2,3,66.7,0,3,0,0,0,Atlético Madrid,2023-11-12 Atlético Madrid-Villarreal,ESP-LALIGA,23-24,cadb3e6a
+df69b544,Antoine Griezmann,7,FRA,FW,32-236,90,1,1,0,0,2,2,0,0,58,0,1,0,1.0,1.0,0.6,4,1,38,47,80.9,5,38,3,1,0,Atlético Madrid,2023-11-12 Atlético Madrid-Villarreal,ESP-LALIGA,23-24,cadb3e6a
+c14bc029,Saúl Ñíguez,8,ESP,CM,28-356,45,0,0,0,0,2,1,0,0,27,2,0,1,0.4,0.4,0.0,3,0,12,17,70.6,2,18,1,0,0,Atlético Madrid,2023-11-12 Atlético Madrid-Villarreal,ESP-LALIGA,23-24,cadb3e6a
+02c15616,Marcos Llorente,14,ESP,"CM,WB",28-286,45,0,1,0,0,0,0,0,0,36,0,1,0,0.0,0.0,1.6,3,1,31,34,91.2,5,29,1,0,0,Atlético Madrid,2023-11-12 Atlético Madrid-Villarreal,ESP-LALIGA,23-24,cadb3e6a
+55126f3b,Koke,6,ESP,CM,31-308,90,0,0,0,0,2,0,0,0,103,1,1,1,0.1,0.1,0.1,4,1,90,99,90.9,17,84,1,1,1,Atlético Madrid,2023-11-12 Atlético Madrid-Villarreal,ESP-LALIGA,23-24,cadb3e6a
+162efffd,Rodrigo De Paul,5,ARG,CM,29-172,64,0,0,0,0,2,1,0,0,71,1,0,1,0.0,0.0,0.2,4,0,53,63,84.1,9,56,4,0,0,Atlético Madrid,2023-11-12 Atlético Madrid-Villarreal,ESP-LALIGA,23-24,cadb3e6a
+01eb744d,Ángel Correa,10,ARG,"CM,FW",28-248,26,0,0,0,0,0,0,0,0,16,0,0,0,0.0,0.0,0.1,1,0,10,14,71.4,1,11,1,3,2,Atlético Madrid,2023-11-12 Atlético Madrid-Villarreal,ESP-LALIGA,23-24,cadb3e6a
+65154df0,Rodrigo Riquelme,25,ESP,WB,23-224,64,0,0,0,0,5,2,0,0,47,0,1,2,0.2,0.2,0.0,6,1,22,32,68.8,3,29,5,5,2,Atlético Madrid,2023-11-12 Atlético Madrid-Villarreal,ESP-LALIGA,23-24,cadb3e6a
+2a295d33,Samuel Lino,12,BRA,"WB,CM",23-324,26,1,0,0,0,3,2,0,0,22,0,0,1,0.6,0.6,0.0,1,0,13,17,76.5,1,16,5,1,0,Atlético Madrid,2023-11-12 Atlético Madrid-Villarreal,ESP-LALIGA,23-24,cadb3e6a
+23610943,Nahuel Molina,16,ARG,WB,25-220,69,0,0,0,0,0,0,0,0,59,0,0,0,0.0,0.0,0.3,3,0,48,58,82.8,4,49,3,0,0,Atlético Madrid,2023-11-12 Atlético Madrid-Villarreal,ESP-LALIGA,23-24,cadb3e6a
+45736cec,Pablo Barrios,24,ESP,CM,20-150,21,0,1,0,0,0,0,0,0,19,0,0,0,0.0,0.0,0.5,2,1,16,17,94.1,3,14,1,0,0,Atlético Madrid,2023-11-12 Atlético Madrid-Villarreal,ESP-LALIGA,23-24,cadb3e6a
+555f3a0b,Mario Hermoso,22,ESP,"CB,WB",28-147,90,0,0,0,0,1,0,0,0,90,2,0,1,0.0,0.0,0.1,3,0,78,82,95.1,18,66,3,1,0,Atlético Madrid,2023-11-12 Atlético Madrid-Villarreal,ESP-LALIGA,23-24,cadb3e6a
+f0da930c,José María Giménez,2,URU,CB,28-296,90,0,0,0,0,1,0,0,0,54,1,1,0,0.1,0.1,0.0,1,0,36,47,76.6,1,29,0,0,0,Atlético Madrid,2023-11-12 Atlético Madrid-Villarreal,ESP-LALIGA,23-24,cadb3e6a
+5dfc6ad5,Axel Witsel,20,BEL,CB,34-304,90,1,0,0,0,1,1,0,0,58,0,0,2,0.5,0.5,0.0,2,0,47,51,92.2,9,44,5,0,0,Atlético Madrid,2023-11-12 Atlético Madrid-Villarreal,ESP-LALIGA,23-24,cadb3e6a
+ee8508c0,Jan Oblak,13,SVN,GK,30-309,90,0,0,0,0,0,0,0,0,21,0,0,0,0.0,0.0,0.0,0,0,13,16,81.3,0,8,0,0,0,Atlético Madrid,2023-11-12 Atlético Madrid-Villarreal,ESP-LALIGA,23-24,cadb3e6a
+e92cd3f7,Alexander Sørloth,11,NOR,FW,27-342,35,0,0,0,0,2,2,0,0,8,0,0,0,0.3,0.3,0.0,1,1,1,2,50.0,0,4,2,0,0,Villarreal,2023-11-12 Atlético Madrid-Villarreal,ESP-LALIGA,23-24,cadb3e6a
+f36016a5,Ramón Terrats,20,ESP,"RM,FW",23-025,55,0,0,0,0,1,1,0,0,22,0,0,0,0.1,0.1,0.1,3,0,13,19,68.4,1,12,0,0,0,Villarreal,2023-11-12 Atlético Madrid-Villarreal,ESP-LALIGA,23-24,cadb3e6a
+81f0781e,Gerard Moreno,7,ESP,FW,31-219,90,1,0,0,0,3,2,0,0,68,2,1,2,0.3,0.3,0.1,5,0,45,55,81.8,3,35,3,4,4,Villarreal,2023-11-12 Atlético Madrid-Villarreal,ESP-LALIGA,23-24,cadb3e6a
+518f2234,Alex Baena,16,ESP,LM,22-115,73,0,0,0,0,1,1,0,0,54,0,0,0,0.0,0.0,0.3,5,0,42,47,89.4,5,37,4,1,0,Villarreal,2023-11-12 Atlético Madrid-Villarreal,ESP-LALIGA,23-24,cadb3e6a
+23cbf863,Carlos Romero,37,ESP,"LB,LM",22-014,17,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,6,6,100.0,1,4,0,0,0,Villarreal,2023-11-12 Atlético Madrid-Villarreal,ESP-LALIGA,23-24,cadb3e6a
+7460ca0d,Daniel Parejo,10,ESP,CM,34-210,90,0,0,0,0,0,0,0,0,78,1,1,0,0.0,0.0,0.2,3,0,71,75,94.7,4,48,1,2,2,Villarreal,2023-11-12 Atlético Madrid-Villarreal,ESP-LALIGA,23-24,cadb3e6a
+5acc4a10,Étienne Capoue,6,FRA,CM,35-124,90,0,0,0,0,1,0,1,0,67,1,0,4,0.0,0.0,0.0,2,0,47,50,94.0,2,38,1,2,0,Villarreal,2023-11-12 Atlético Madrid-Villarreal,ESP-LALIGA,23-24,cadb3e6a
+540ec57b,Yeremi Pino,21,ESP,RM,21-023,45,0,0,0,0,1,1,0,0,29,5,0,3,0.1,0.1,0.0,0,0,13,16,81.3,0,10,1,2,2,Villarreal,2023-11-12 Atlético Madrid-Villarreal,ESP-LALIGA,23-24,cadb3e6a
+b8bd60fe,Ilias Akhomach,27,MAR,"FW,LM",19-210,45,0,0,0,0,0,0,1,0,25,0,1,0,0.0,0.0,0.1,1,0,16,19,84.2,1,18,0,3,2,Villarreal,2023-11-12 Atlético Madrid-Villarreal,ESP-LALIGA,23-24,cadb3e6a
+11b9265b,Alberto Moreno,18,ESP,LB,31-130,82,0,0,0,0,1,0,0,0,42,0,1,1,0.0,0.0,0.0,0,0,33,38,86.8,1,22,2,0,0,Villarreal,2023-11-12 Atlético Madrid-Villarreal,ESP-LALIGA,23-24,cadb3e6a
+57827369,Ben Brereton,9,CHI,FW,24-208,8,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,0,0,0,0,Villarreal,2023-11-12 Atlético Madrid-Villarreal,ESP-LALIGA,23-24,cadb3e6a
+0abc51f2,Jorge Cuenca,5,ESP,CB,23-360,90,0,0,0,0,1,0,0,0,86,1,1,0,0.1,0.1,0.0,0,0,70,76,92.1,2,54,0,1,0,Villarreal,2023-11-12 Atlético Madrid-Villarreal,ESP-LALIGA,23-24,cadb3e6a
+4bd414c1,Raúl Albiol,3,ESP,CB,38-069,90,0,0,0,0,0,0,0,0,73,0,0,2,0.0,0.0,0.0,0,0,53,59,89.8,0,38,0,0,0,Villarreal,2023-11-12 Atlético Madrid-Villarreal,ESP-LALIGA,23-24,cadb3e6a
+757a3431,Adrià Altimira,26,ESP,RB,22-229,90,0,0,0,0,0,0,0,0,90,1,0,0,0.0,0.0,0.0,1,0,73,82,89.0,3,46,2,4,3,Villarreal,2023-11-12 Atlético Madrid-Villarreal,ESP-LALIGA,23-24,cadb3e6a
+0107757e,Filip Jørgensen,13,DEN,GK,21-210,90,0,0,0,0,0,0,0,0,70,0,0,0,0.0,0.0,0.0,0,0,53,67,79.1,0,48,0,0,0,Villarreal,2023-11-12 Atlético Madrid-Villarreal,ESP-LALIGA,23-24,cadb3e6a

@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+8f5e92a6,Rodrygo,11,BRA,FW,23-082,80,2,0,0,0,2,2,0,0,36,1,1,0,0.6,0.6,0.2,3,1,19,24,79.2,3,21,5,6,2,Real Madrid,2024-03-31 Real Madrid-Athletic Club,ESP-LALIGA,23-24,cb8f8470
+6025fab1,Luka Modrić,10,CRO,FW,38-204,10,0,0,0,0,0,0,0,0,13,1,1,0,0.0,0.0,0.0,0,0,8,11,72.7,1,6,0,0,0,Real Madrid,2024-03-31 Real Madrid-Athletic Club,ESP-LALIGA,23-24,cb8f8470
+407feb71,Brahim Díaz,21,MAR,FW,24-241,71,0,1,0,0,3,0,0,0,34,0,0,1,0.4,0.4,0.1,3,1,18,24,75.0,4,25,5,4,1,Real Madrid,2024-03-31 Real Madrid-Athletic Club,ESP-LALIGA,23-24,cb8f8470
+6265208f,Joselu,14,ESP,FW,34-004,19,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,3,0,0,0,Real Madrid,2024-03-31 Real Madrid-Athletic Club,ESP-LALIGA,23-24,cb8f8470
+57d88cf9,Jude Bellingham,5,ENG,AM,20-276,90,0,1,0,0,1,0,0,0,77,1,1,4,0.0,0.0,0.6,2,1,58,64,90.6,8,35,4,2,0,Real Madrid,2024-03-31 Real Madrid-Athletic Club,ESP-LALIGA,23-24,cb8f8470
+0959c2a2,Federico Valverde,15,URU,AM,25-253,80,0,0,0,0,1,1,0,0,54,0,1,2,0.0,0.0,0.1,2,0,37,46,80.4,5,24,1,2,2,Real Madrid,2024-03-31 Real Madrid-Athletic Club,ESP-LALIGA,23-24,cb8f8470
+fd51b456,Lucas Vázquez,17,ESP,AM,32-274,10,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,3,3,100.0,0,2,0,0,0,Real Madrid,2024-03-31 Real Madrid-Athletic Club,ESP-LALIGA,23-24,cb8f8470
+6ce1f46f,Toni Kroos,8,GER,DM,34-087,80,0,0,0,0,1,1,0,0,84,2,0,0,0.0,0.0,0.0,1,0,73,81,90.1,6,46,0,1,1,Real Madrid,2024-03-31 Real Madrid-Athletic Club,ESP-LALIGA,23-24,cb8f8470
+7b9c2d84,Eduardo Camavinga,12,FRA,DM,21-142,10,0,0,0,0,0,0,0,0,15,0,0,0,0.0,0.0,0.0,0,0,11,13,84.6,0,9,0,2,2,Real Madrid,2024-03-31 Real Madrid-Athletic Club,ESP-LALIGA,23-24,cb8f8470
+4f255115,Aurélien Tchouaméni,18,FRA,DM,24-064,90,0,0,0,0,1,0,1,0,87,2,3,1,0.0,0.0,0.0,1,1,68,77,88.3,2,40,0,0,0,Real Madrid,2024-03-31 Real Madrid-Athletic Club,ESP-LALIGA,23-24,cb8f8470
+3cefcaef,Ferland Mendy,23,FRA,LB,28-297,90,0,0,0,0,0,0,0,0,69,1,1,1,0.0,0.0,0.0,0,0,58,61,95.1,1,24,1,0,0,Real Madrid,2024-03-31 Real Madrid-Athletic Club,ESP-LALIGA,23-24,cb8f8470
+2946f9a1,Nacho,6,ESP,CB,34-073,90,0,0,0,0,0,0,1,0,86,0,1,0,0.0,0.0,0.0,0,0,75,82,91.5,1,31,0,1,0,Real Madrid,2024-03-31 Real Madrid-Athletic Club,ESP-LALIGA,23-24,cb8f8470
+18b896d6,Antonio Rüdiger,22,GER,CB,31-028,90,0,0,0,0,0,0,0,0,89,0,1,0,0.0,0.0,0.0,0,0,76,82,92.7,3,49,0,1,0,Real Madrid,2024-03-31 Real Madrid-Athletic Club,ESP-LALIGA,23-24,cb8f8470
+4958bfb2,Dani Carvajal,2,ESP,RB,32-080,89,0,0,0,0,0,0,0,0,74,1,1,0,0.0,0.0,0.0,3,0,55,64,85.9,5,35,2,1,0,Real Madrid,2024-03-31 Real Madrid-Athletic Club,ESP-LALIGA,23-24,cb8f8470
+2784f898,Éder Militão,3,BRA,RB,26-073,1,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,4,4,100.0,0,2,0,0,0,Real Madrid,2024-03-31 Real Madrid-Athletic Club,ESP-LALIGA,23-24,cb8f8470
+3061e1ec,Andriy Lunin,13,UKR,GK,25-049,90,0,0,0,0,0,0,0,0,46,0,0,0,0.0,0.0,0.0,0,0,36,44,81.8,0,21,0,0,0,Real Madrid,2024-03-31 Real Madrid-Athletic Club,ESP-LALIGA,23-24,cb8f8470
+6b5ea2f4,Gorka Guruzeta,12,ESP,FW,27-201,57,0,0,0,0,1,1,0,0,23,3,0,3,0.0,0.0,0.0,1,0,10,14,71.4,0,12,1,1,1,Athletic Club,2024-03-31 Real Madrid-Athletic Club,ESP-LALIGA,23-24,cb8f8470
+a461f098,Adu Ares,23,ESP,RW,22-171,33,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,6,7,85.7,1,8,1,1,1,Athletic Club,2024-03-31 Real Madrid-Athletic Club,ESP-LALIGA,23-24,cb8f8470
+dc1c2fce,Álex Berenguer,7,ESP,LW,28-271,90,0,0,0,0,0,0,0,0,44,6,1,2,0.0,0.0,0.1,3,0,18,29,62.1,2,21,2,1,0,Athletic Club,2024-03-31 Real Madrid-Athletic Club,ESP-LALIGA,23-24,cb8f8470
+6a99e0b1,Iñaki Williams,9,GHA,"RW,FW",29-290,90,0,0,0,0,6,2,0,0,30,0,0,1,0.2,0.2,0.0,1,0,16,20,80.0,3,22,8,1,0,Athletic Club,2024-03-31 Real Madrid-Athletic Club,ESP-LALIGA,23-24,cb8f8470
+bdb624a3,Oihan Sancet,8,ESP,AM,23-341,75,0,0,0,0,0,0,0,0,46,0,1,0,0.0,0.0,0.1,3,0,31,37,83.8,3,37,4,2,2,Athletic Club,2024-03-31 Real Madrid-Athletic Club,ESP-LALIGA,23-24,cb8f8470
+c05dfb74,Iker Muniain,10,ESP,AM,31-103,15,0,0,0,0,0,0,0,0,15,0,0,0,0.0,0.0,0.0,1,0,13,14,92.9,1,9,0,0,0,Athletic Club,2024-03-31 Real Madrid-Athletic Club,ESP-LALIGA,23-24,cb8f8470
+1f60244a,Beñat Prados,24,ESP,DM,23-052,56,0,0,0,0,0,0,0,0,40,4,4,1,0.0,0.0,0.0,1,0,30,33,90.9,4,20,4,1,1,Athletic Club,2024-03-31 Real Madrid-Athletic Club,ESP-LALIGA,23-24,cb8f8470
+91f7631f,Iñigo Ruiz de Galarreta,16,ESP,DM,30-238,34,0,0,0,0,0,0,1,0,24,0,0,0,0.0,0.0,0.0,0,0,22,24,91.7,3,16,0,1,1,Athletic Club,2024-03-31 Real Madrid-Athletic Club,ESP-LALIGA,23-24,cb8f8470
+b0fce72c,Mikel Vesga,6,ESP,DM,30-315,90,0,0,0,0,0,0,0,0,59,3,2,3,0.0,0.0,0.0,1,0,39,50,78.0,3,39,1,1,0,Athletic Club,2024-03-31 Real Madrid-Athletic Club,ESP-LALIGA,23-24,cb8f8470
+59b7d823,Iñigo Lekue,15,ESP,"LB,RB",30-332,90,0,0,0,0,0,0,0,0,61,1,1,1,0.0,0.0,0.0,0,0,41,53,77.4,3,40,2,2,1,Athletic Club,2024-03-31 Real Madrid-Athletic Club,ESP-LALIGA,23-24,cb8f8470
+b906757a,Aitor Paredes,4,ESP,CB,23-337,90,0,0,0,0,0,0,0,0,58,1,2,0,0.0,0.0,0.0,0,0,44,54,81.5,3,42,0,1,1,Athletic Club,2024-03-31 Real Madrid-Athletic Club,ESP-LALIGA,23-24,cb8f8470
+3ecc11d8,Yeray Álvarez,5,ESP,CB,29-067,24,0,0,0,0,0,0,0,0,24,1,0,0,0.0,0.0,0.0,0,0,20,23,87.0,1,18,1,0,0,Athletic Club,2024-03-31 Real Madrid-Athletic Club,ESP-LALIGA,23-24,cb8f8470
+ab7bf91d,Daniel Vivian,3,ESP,CB,24-260,66,0,0,0,0,0,0,0,0,37,2,1,0,0.0,0.0,0.0,0,0,28,33,84.8,0,28,0,0,0,Athletic Club,2024-03-31 Real Madrid-Athletic Club,ESP-LALIGA,23-24,cb8f8470
+9f323c71,Óscar de Marcos,18,ESP,RB,34-352,56,0,0,0,0,0,0,0,0,37,0,0,0,0.0,0.0,0.0,0,0,27,35,77.1,4,25,1,0,0,Athletic Club,2024-03-31 Real Madrid-Athletic Club,ESP-LALIGA,23-24,cb8f8470
+b6e50615,Yuri Berchiche,17,ESP,LB,34-050,34,0,0,0,0,0,0,0,0,28,3,0,0,0.0,0.0,0.0,1,0,20,22,90.9,4,16,1,0,0,Athletic Club,2024-03-31 Real Madrid-Athletic Club,ESP-LALIGA,23-24,cb8f8470
+a2c1a8d3,Julen Agirrezabala,13,ESP,GK,23-096,90,0,0,0,0,0,0,0,0,38,0,0,0,0.0,0.0,0.0,0,0,26,37,70.3,0,23,0,0,0,Athletic Club,2024-03-31 Real Madrid-Athletic Club,ESP-LALIGA,23-24,cb8f8470

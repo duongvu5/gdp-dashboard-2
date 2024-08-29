@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+8790f988,Gianluca Scamacca,90,ITA,FW,24-294,78,0,0,0,0,4,3,0,0,33,2,0,0,0.3,0.3,0.0,0,0,13,17,76.5,1,23,0,2,1,Atalanta,2023-10-22 Atalanta-Genoa,ITA-SERIA_A,23-24,045aca2a
+eb2fe5b6,Luis Muriel,9,COL,FW,32-189,12,0,0,0,0,0,0,0,0,8,0,1,0,0.0,0.0,0.0,0,0,4,5,80.0,0,3,0,0,0,Atalanta,2023-10-22 Atalanta-Genoa,ITA-SERIA_A,23-24,045aca2a
+7c104bb7,Ademola Lookman,11,NGA,LW,26-002,78,1,0,0,0,4,3,1,0,58,0,0,2,0.6,0.6,0.1,5,1,38,45,84.4,8,42,2,4,0,Atalanta,2023-10-22 Atalanta-Genoa,ITA-SERIA_A,23-24,045aca2a
+e599253a,Mario Pašalić,8,CRO,LW,28-255,12,0,1,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.1,1,1,2,3,66.7,0,3,1,0,0,Atalanta,2023-10-22 Atalanta-Genoa,ITA-SERIA_A,23-24,045aca2a
+2ef7c612,Charles De Ketelaere,17,BEL,RW,22-226,45,0,0,0,0,1,0,0,0,37,0,0,0,0.1,0.1,0.0,2,0,27,33,81.8,5,28,1,1,0,Atalanta,2023-10-22 Atalanta-Genoa,ITA-SERIA_A,23-24,045aca2a
+a9aa0d1d,Aleksei Miranchuk,59,RUS,RW,28-005,45,0,0,0,0,0,0,0,0,27,0,0,0,0.0,0.0,0.2,3,0,19,26,73.1,1,18,0,0,0,Atalanta,2023-10-22 Atalanta-Genoa,ITA-SERIA_A,23-24,045aca2a
+ae9898c5,Matteo Ruggeri,22,ITA,LM,21-103,88,0,0,0,0,0,0,0,0,60,1,0,1,0.0,0.0,0.1,5,0,49,57,86.0,2,31,0,0,0,Atalanta,2023-10-22 Atalanta-Genoa,ITA-SERIA_A,23-24,045aca2a
+3935e52e,Sead Kolašinac,23,BIH,LM,30-124,2,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,2,0,0,0,Atalanta,2023-10-22 Atalanta-Genoa,ITA-SERIA_A,23-24,045aca2a
+a9202def,Éderson,13,BRA,CM,24-107,90,1,0,0,0,1,1,0,0,88,1,2,2,0.1,0.1,0.2,5,1,64,74,86.5,8,66,4,2,1,Atalanta,2023-10-22 Atalanta-Genoa,ITA-SERIA_A,23-24,045aca2a
+2a1beb34,Marten de Roon,15,NED,CM,32-207,90,0,0,0,0,1,1,0,0,89,2,3,3,0.0,0.0,0.0,0,0,63,76,82.9,6,56,3,1,0,Atalanta,2023-10-22 Atalanta-Genoa,ITA-SERIA_A,23-24,045aca2a
+7fe90ccd,Davide Zappacosta,77,ITA,RM,31-133,89,0,0,0,0,0,0,1,0,63,0,0,2,0.0,0.0,0.0,1,0,52,54,96.3,3,43,2,3,0,Atalanta,2023-10-22 Atalanta-Genoa,ITA-SERIA_A,23-24,045aca2a
+3b333ac3,Hans Hateboer,33,NED,RM,29-286,1,0,0,0,0,0,0,1,0,2,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,2,0,0,0,Atalanta,2023-10-22 Atalanta-Genoa,ITA-SERIA_A,23-24,045aca2a
+1e9aa637,Giorgio Scalvini,42,ITA,CB,19-315,90,0,0,0,0,2,0,0,0,72,1,2,3,0.1,0.1,0.0,0,0,51,63,81.0,4,46,3,0,0,Atalanta,2023-10-22 Atalanta-Genoa,ITA-SERIA_A,23-24,045aca2a
+6eee05f1,Berat Djimsiti,19,ALB,CB,30-245,90,0,0,0,0,0,0,0,0,59,3,2,0,0.0,0.0,0.0,0,0,42,48,87.5,3,30,0,0,0,Atalanta,2023-10-22 Atalanta-Genoa,ITA-SERIA_A,23-24,045aca2a
+c56dc39e,Rafael Tolói,2,ITA,CB,33-012,90,0,0,0,0,0,0,1,0,63,0,1,0,0.0,0.0,0.0,1,0,45,54,83.3,3,42,2,1,0,Atalanta,2023-10-22 Atalanta-Genoa,ITA-SERIA_A,23-24,045aca2a
+8ec56e62,Marco Carnesecchi,29,ITA,GK,23-113,90,0,0,0,0,0,0,0,0,32,0,0,0,0.0,0.0,0.0,0,0,13,29,44.8,0,14,0,0,0,Atalanta,2023-10-22 Atalanta-Genoa,ITA-SERIA_A,23-24,045aca2a
+7afbd2c3,Caleb Ekuban,18,GHA,FW,29-213,89,0,0,0,0,1,0,0,0,33,0,0,2,0.0,0.0,0.0,4,0,15,21,71.4,1,20,0,1,0,Genoa,2023-10-22 Atalanta-Genoa,ITA-SERIA_A,23-24,045aca2a
+6841f107,Alessandro Vogliacco,14,ITA,FW,25-038,1,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,4,6,66.7,0,3,0,0,0,Genoa,2023-10-22 Atalanta-Genoa,ITA-SERIA_A,23-24,045aca2a
+b79858d5,Albert Guðmundsson,11,ISL,FW,26-129,90,0,0,0,0,3,1,1,0,54,0,0,0,0.2,0.2,0.2,6,0,32,44,72.7,4,30,1,3,1,Genoa,2023-10-22 Atalanta-Genoa,ITA-SERIA_A,23-24,045aca2a
+48d5bd33,Ruslan Malinovskyi,17,UKR,CM,30-171,82,0,0,0,0,4,1,0,0,48,5,0,1,0.1,0.1,0.0,3,0,34,38,89.5,0,25,1,4,3,Genoa,2023-10-22 Atalanta-Genoa,ITA-SERIA_A,23-24,045aca2a
+c23c8e0d,George Pușcaș,37,ROU,CM,27-197,8,0,0,0,0,2,1,0,0,8,0,0,0,0.3,0.3,0.0,0,0,3,6,50.0,0,3,0,0,0,Genoa,2023-10-22 Atalanta-Genoa,ITA-SERIA_A,23-24,045aca2a
+f4d60499,Morten Frendrup,32,DEN,CM,22-198,90,0,0,0,0,0,0,0,0,68,8,2,0,0.0,0.0,0.2,5,0,42,52,80.8,6,30,1,0,0,Genoa,2023-10-22 Atalanta-Genoa,ITA-SERIA_A,23-24,045aca2a
+d1b49282,Morten Thorsby,2,NOR,CM,27-170,82,0,0,0,0,0,0,0,0,32,0,0,0,0.0,0.0,0.0,1,0,19,30,63.3,3,13,0,0,0,Genoa,2023-10-22 Atalanta-Genoa,ITA-SERIA_A,23-24,045aca2a
+dd403465,Pablo Galdames Millán,99,CHI,CM,26-296,8,0,0,0,0,0,0,0,0,21,0,0,0,0.0,0.0,0.0,0,0,19,20,95.0,4,7,0,0,0,Genoa,2023-10-22 Atalanta-Genoa,ITA-SERIA_A,23-24,045aca2a
+c8d7131c,Ridgeciano Haps,55,SUR,WB,30-132,90,0,0,0,0,2,0,0,0,33,0,0,0,0.1,0.1,0.0,1,0,21,28,75.0,2,15,1,1,0,Genoa,2023-10-22 Atalanta-Genoa,ITA-SERIA_A,23-24,045aca2a
+0ccac09c,Stefano Sabelli,20,ITA,WB,30-282,86,0,0,0,0,0,0,0,0,53,2,2,2,0.0,0.0,0.2,4,0,26,41,63.4,3,17,1,2,0,Genoa,2023-10-22 Atalanta-Genoa,ITA-SERIA_A,23-24,045aca2a
+6411925d,Seydou Fini,40,ITA,WB,17-142,4,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,2,0,0,0,Genoa,2023-10-22 Atalanta-Genoa,ITA-SERIA_A,23-24,045aca2a
+5eaed77a,Johan Vásquez,22,MEX,CB,25-000,90,0,0,0,0,0,0,0,0,65,3,2,4,0.0,0.0,0.0,1,0,39,47,83.0,3,22,2,2,0,Genoa,2023-10-22 Atalanta-Genoa,ITA-SERIA_A,23-24,045aca2a
+0821331c,Mattia Bani,13,ITA,CB,29-316,90,0,0,0,0,1,1,1,0,53,1,0,0,0.2,0.2,0.0,1,0,35,45,77.8,1,14,1,1,1,Genoa,2023-10-22 Atalanta-Genoa,ITA-SERIA_A,23-24,045aca2a
+620922ed,Radu Drăgușin,5,ROU,CB,21-261,90,0,0,0,0,2,0,0,0,39,1,0,1,0.1,0.1,0.1,3,0,24,32,75.0,5,13,1,0,0,Genoa,2023-10-22 Atalanta-Genoa,ITA-SERIA_A,23-24,045aca2a
+5f9970a0,Nicola Leali,16,ITA,GK,30-247,90,0,0,0,0,0,0,0,0,49,0,0,0,0.0,0.0,0.0,0,0,25,45,55.6,0,30,0,0,0,Genoa,2023-10-22 Atalanta-Genoa,ITA-SERIA_A,23-24,045aca2a

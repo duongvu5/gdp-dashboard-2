@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+0545a08e,Walid Cheddira,70,MAR,FW,25-216,81,0,0,0,0,0,0,0,0,29,0,0,1,0.0,0.0,0.1,2,0,19,25,76.0,0,15,2,1,0,Frosinone,2023-08-26 Frosinone-Atalanta,ITA-SERIA_A,23-24,0b355cdd
+1d45fd81,Marvin Cuni,11,ALB,FW,22-047,9,0,0,0,0,0,0,0,0,11,1,0,0,0.0,0.0,0.0,0,0,1,5,20.0,0,5,0,1,0,Frosinone,2023-08-26 Frosinone-Atalanta,ITA-SERIA_A,23-24,0b355cdd
+dfd24c07,Jaime Báez,7,URU,LW,28-123,59,0,0,0,0,2,1,0,0,27,0,1,0,0.0,0.0,0.0,1,0,14,22,63.6,5,19,1,3,2,Frosinone,2023-08-26 Frosinone-Atalanta,ITA-SERIA_A,23-24,0b355cdd
+1ceeae3e,Luca Garritano,16,ITA,LW,29-196,31,0,0,0,0,4,1,0,0,18,1,0,2,0.1,0.1,0.1,2,0,6,11,54.5,0,10,1,1,0,Frosinone,2023-08-26 Frosinone-Atalanta,ITA-SERIA_A,23-24,0b355cdd
+986693ed,Francesco Gelli,14,ITA,RW,26-315,90,0,0,0,0,1,0,0,0,44,1,2,0,0.0,0.0,0.0,1,0,23,28,82.1,3,29,4,3,1,Frosinone,2023-08-26 Frosinone-Atalanta,ITA-SERIA_A,23-24,0b355cdd
+65fd099c,Abdou Harroui,21,NED,AM,25-225,81,1,0,0,0,2,1,0,0,34,0,2,2,0.1,0.1,0.1,3,0,20,23,87.0,2,20,2,2,1,Frosinone,2023-08-26 Frosinone-Atalanta,ITA-SERIA_A,23-24,0b355cdd
+9b3099d6,Przemysław Szymiński,25,POL,AM,29-063,9,0,0,0,0,0,0,0,0,3,0,0,1,0.0,0.0,0.0,0,0,1,2,50.0,0,1,0,0,0,Frosinone,2023-08-26 Frosinone-Atalanta,ITA-SERIA_A,23-24,0b355cdd
+6caffe81,Enzo Barrenechea,45,ARG,DM,22-096,73,0,0,0,0,0,0,1,0,45,0,2,1,0.0,0.0,0.0,2,0,33,38,86.8,3,23,1,1,1,Frosinone,2023-08-26 Frosinone-Atalanta,ITA-SERIA_A,23-24,0b355cdd
+dfd56738,Marco Brescianini,4,ITA,DM,23-218,17,0,0,0,0,1,0,0,0,8,0,0,0,0.0,0.0,0.0,1,0,6,7,85.7,0,6,0,1,1,Frosinone,2023-08-26 Frosinone-Atalanta,ITA-SERIA_A,23-24,0b355cdd
+dc61b402,Luca Mazzitelli,36,ITA,DM,27-284,90,0,0,0,0,2,1,0,0,60,1,1,3,0.1,0.1,0.0,2,0,29,43,67.4,7,30,1,0,0,Frosinone,2023-08-26 Frosinone-Atalanta,ITA-SERIA_A,23-24,0b355cdd
+91d0fabf,Riccardo Marchizza,3,ITA,LB,25-153,90,0,1,0,0,0,0,0,0,41,1,2,2,0.0,0.0,0.1,2,1,21,29,72.4,3,16,0,2,1,Frosinone,2023-08-26 Frosinone-Atalanta,ITA-SERIA_A,23-24,0b355cdd
+09899de8,Simone Romagnoli,6,ITA,CB,33-198,90,0,1,0,0,0,0,0,0,46,2,0,1,0.0,0.0,0.3,0,0,30,38,78.9,1,15,0,0,0,Frosinone,2023-08-26 Frosinone-Atalanta,ITA-SERIA_A,23-24,0b355cdd
+31b252fc,Ilario Monterisi,30,ITA,CB,21-250,90,1,0,0,0,1,1,0,0,60,2,1,1,0.3,0.3,0.0,1,0,31,47,66.0,2,22,0,0,0,Frosinone,2023-08-26 Frosinone-Atalanta,ITA-SERIA_A,23-24,0b355cdd
+68b7e72e,Anthony Oyono,22,GAB,RB,22-136,90,0,0,0,0,0,0,0,0,68,4,4,0,0.0,0.0,0.0,3,2,43,54,79.6,2,20,0,1,1,Frosinone,2023-08-26 Frosinone-Atalanta,ITA-SERIA_A,23-24,0b355cdd
+efdeaff3,Michele Cerofolini,31,ITA,GK,24-234,90,0,0,0,0,0,0,0,0,34,0,0,0,0.0,0.0,0.0,0,0,16,32,50.0,0,23,0,0,0,Frosinone,2023-08-26 Frosinone-Atalanta,ITA-SERIA_A,23-24,0b355cdd
+d3de9af0,Duván Zapata,91,COL,FW,32-147,67,1,0,0,0,3,1,0,0,42,0,0,0,0.2,0.2,0.0,2,0,24,31,77.4,2,29,1,2,1,Atalanta,2023-08-26 Frosinone-Atalanta,ITA-SERIA_A,23-24,0b355cdd
+8790f988,Gianluca Scamacca,90,ITA,FW,24-237,23,0,0,0,0,3,0,0,0,8,0,0,0,0.3,0.3,0.4,2,0,3,5,60.0,0,7,2,0,0,Atalanta,2023-08-26 Frosinone-Atalanta,ITA-SERIA_A,23-24,0b355cdd
+7c104bb7,Ademola Lookman,11,NGA,FW,25-310,45,0,0,0,0,0,0,1,0,8,0,0,0,0.0,0.0,0.0,2,0,5,7,71.4,0,6,1,0,0,Atalanta,2023-08-26 Frosinone-Atalanta,ITA-SERIA_A,23-24,0b355cdd
+2ef7c612,Charles De Ketelaere,17,BEL,"FW,CM",22-169,45,0,0,0,0,1,1,0,0,29,2,0,0,0.0,0.0,0.0,3,0,15,21,71.4,4,16,2,3,1,Atalanta,2023-08-26 Frosinone-Atalanta,ITA-SERIA_A,23-24,0b355cdd
+a26fb8aa,Teun Koopmeiners,7,NED,AM,25-179,90,0,0,0,0,4,2,0,0,74,0,0,0,0.3,0.3,0.3,6,0,47,64,73.4,10,52,7,1,1,Atalanta,2023-08-26 Frosinone-Atalanta,ITA-SERIA_A,23-24,0b355cdd
+a9202def,Éderson,13,BRA,CM,24-050,90,0,1,0,0,0,0,0,0,94,2,3,2,0.0,0.0,0.1,5,1,72,84,85.7,16,74,2,2,1,Atalanta,2023-08-26 Frosinone-Atalanta,ITA-SERIA_A,23-24,0b355cdd
+2a1beb34,Marten de Roon,15,NED,"CM,CB",32-150,90,0,0,0,0,0,0,1,0,81,2,0,1,0.0,0.0,0.0,1,0,65,76,85.5,12,61,3,0,0,Atalanta,2023-08-26 Frosinone-Atalanta,ITA-SERIA_A,23-24,0b355cdd
+ae9898c5,Matteo Ruggeri,22,ITA,WB,21-046,79,0,0,0,0,0,0,0,0,78,1,1,4,0.0,0.0,0.0,2,1,58,70,82.9,11,47,1,1,0,Atalanta,2023-08-26 Frosinone-Atalanta,ITA-SERIA_A,23-24,0b355cdd
+a8567629,Mitchel Bakker,20,NED,WB,23-067,11,0,0,0,0,0,0,0,0,18,0,0,0,0.0,0.0,0.0,0,0,12,18,66.7,1,12,2,1,0,Atalanta,2023-08-26 Frosinone-Atalanta,ITA-SERIA_A,23-24,0b355cdd
+7fe90ccd,Davide Zappacosta,77,ITA,WB,31-076,45,0,0,0,0,4,0,0,0,18,0,0,0,0.4,0.4,0.0,0,0,8,11,72.7,1,9,1,0,0,Atalanta,2023-08-26 Frosinone-Atalanta,ITA-SERIA_A,23-24,0b355cdd
+82598b71,Nadir Zortea,21,ITA,WB,24-068,45,0,0,0,0,1,0,0,0,30,2,0,0,0.0,0.0,0.0,4,0,21,25,84.0,3,24,2,3,1,Atalanta,2023-08-26 Frosinone-Atalanta,ITA-SERIA_A,23-24,0b355cdd
+3935e52e,Sead Kolašinac,23,BIH,CB,30-067,90,0,0,0,0,1,1,0,0,100,2,2,2,0.0,0.0,0.2,3,0,75,89,84.3,3,69,2,0,0,Atalanta,2023-08-26 Frosinone-Atalanta,ITA-SERIA_A,23-24,0b355cdd
+6eee05f1,Berat Djimsiti,19,ALB,CB,30-188,74,0,0,0,0,0,0,0,0,65,0,1,4,0.0,0.0,0.0,0,0,50,57,87.7,2,42,0,0,0,Atalanta,2023-08-26 Frosinone-Atalanta,ITA-SERIA_A,23-24,0b355cdd
+eb2fe5b6,Luis Muriel,9,COL,FW,32-132,16,0,0,0,0,0,0,0,0,15,0,0,0,0.0,0.0,0.1,3,0,11,14,78.6,2,10,1,1,0,Atalanta,2023-08-26 Frosinone-Atalanta,ITA-SERIA_A,23-24,0b355cdd
+1e9aa637,Giorgio Scalvini,42,ITA,CB,19-258,90,0,0,0,0,1,1,0,0,89,5,2,0,0.4,0.4,0.0,1,0,68,78,87.2,2,64,2,1,1,Atalanta,2023-08-26 Frosinone-Atalanta,ITA-SERIA_A,23-24,0b355cdd
+a111cf41,Juan Musso,1,ARG,GK,29-112,90,0,0,0,0,0,0,0,0,36,0,0,0,0.0,0.0,0.0,0,0,25,35,71.4,0,25,0,0,0,Atalanta,2023-08-26 Frosinone-Atalanta,ITA-SERIA_A,23-24,0b355cdd

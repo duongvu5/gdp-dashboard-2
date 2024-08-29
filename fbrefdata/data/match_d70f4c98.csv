@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+f7036e1c,Lautaro Martínez,10,ARG,"FW,LW",23-109,84,0,0,0,0,5,1,0,0,19,0,1,0,0.3,0.3,0.0,2,0,4,7,57.1,3,7,0,1,1,Internazionale,2020-12-09 Inter-Shakhtar,UCL,20-21,d70f4c98
+980522ec,Christian Eriksen,24,DEN,LW,28-299,6,0,0,0,0,2,1,0,0,8,0,0,0,0.1,0.1,0.3,3,0,4,6,66.7,1,1,0,0,0,Internazionale,2020-12-09 Inter-Shakhtar,UCL,20-21,d70f4c98
+5eae500a,Romelu Lukaku,9,BEL,FW,27-210,90,0,0,0,0,3,2,0,0,26,0,0,0,0.2,0.2,0.1,4,0,11,17,64.7,1,11,2,6,4,Internazionale,2020-12-09 Inter-Shakhtar,UCL,20-21,d70f4c98
+ce30bfc8,Roberto Gagliardini,5,ITA,CM,26-246,74,0,0,0,0,2,0,1,0,36,2,0,0,0.1,0.1,0.0,2,0,23,28,82.1,3,17,2,0,0,Internazionale,2020-12-09 Inter-Shakhtar,UCL,20-21,d70f4c98
+2c0f8e9e,Alexis Sánchez,7,CHI,RW,31-356,16,0,0,0,0,2,0,0,0,13,1,0,1,0.3,0.3,0.0,2,0,6,9,66.7,4,8,0,0,0,Internazionale,2020-12-09 Inter-Shakhtar,UCL,20-21,d70f4c98
+33b8d077,Marcelo Brozović,77,CRO,CM,28-023,90,0,0,0,0,1,0,1,0,92,2,1,4,0.0,0.0,0.2,4,0,67,85,78.8,10,47,0,0,0,Internazionale,2020-12-09 Inter-Shakhtar,UCL,20-21,d70f4c98
+6928979a,Nicolò Barella,23,ITA,CM,23-306,90,0,0,0,0,0,0,0,0,62,3,2,1,0.0,0.0,0.2,2,0,38,56,67.9,9,29,2,0,0,Internazionale,2020-12-09 Inter-Shakhtar,UCL,20-21,d70f4c98
+be927d03,Ashley Young,15,ENG,WB,35-153,67,0,0,0,0,1,0,0,0,40,1,0,0,0.0,0.0,0.0,3,0,22,37,59.5,2,25,1,1,1,Internazionale,2020-12-09 Inter-Shakhtar,UCL,20-21,d70f4c98
+6fe90922,Ivan Perišić,14,CRO,"LM,WB",31-311,23,0,0,0,0,0,0,0,0,23,0,0,0,0.0,0.0,0.0,1,0,12,21,57.1,0,11,1,1,1,Internazionale,2020-12-09 Inter-Shakhtar,UCL,20-21,d70f4c98
+e42d61c7,Achraf Hakimi,2,MAR,"WB,RM",22-035,84,0,0,0,0,0,0,1,0,65,1,0,3,0.0,0.0,0.0,2,0,42,55,76.4,5,25,1,3,1,Internazionale,2020-12-09 Inter-Shakhtar,UCL,20-21,d70f4c98
+44eb9093,Danilo D'Ambrosio,33,ITA,CB,32-091,6,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,1,0,7,8,87.5,0,5,0,0,0,Internazionale,2020-12-09 Inter-Shakhtar,UCL,20-21,d70f4c98
+75b86fb3,Alessandro Bastoni,95,ITA,CB,21-240,84,0,0,0,0,1,0,0,0,90,0,1,0,0.0,0.0,0.1,2,0,77,85,90.6,14,62,6,1,1,Internazionale,2020-12-09 Inter-Shakhtar,UCL,20-21,d70f4c98
+96e0490d,Matteo Darmian,36,ITA,RM,31-007,6,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,2,5,40.0,0,1,0,0,0,Internazionale,2020-12-09 Inter-Shakhtar,UCL,20-21,d70f4c98
+d0d8dd44,Stefan de Vrij,6,NED,CB,28-308,90,0,0,0,0,1,0,0,0,100,0,3,0,0.1,0.1,0.0,2,0,91,93,97.8,4,68,0,1,1,Internazionale,2020-12-09 Inter-Shakhtar,UCL,20-21,d70f4c98
+30f5ffa9,Milan Škriniar,37,SVK,CB,25-302,90,0,0,0,0,2,0,0,0,103,3,0,1,0.1,0.1,0.0,5,0,86,95,90.5,14,62,0,1,1,Internazionale,2020-12-09 Inter-Shakhtar,UCL,20-21,d70f4c98
+74419746,Samir Handanović,1,SVN,GK,36-148,90,0,0,0,0,0,0,0,0,20,0,0,0,0.0,0.0,0.0,0,0,17,19,89.5,0,7,0,0,0,Internazionale,2020-12-09 Inter-Shakhtar,UCL,20-21,d70f4c98
+7272a72a,Taison,7,BRA,FW,32-331,85,0,0,0,0,2,1,0,0,62,2,0,2,0.1,0.1,0.0,1,0,39,46,84.8,3,39,6,4,3,Shakhtar Donetsk,2020-12-09 Inter-Shakhtar,UCL,20-21,d70f4c98
+85686f86,Dentinho,9,BRA,FW,31-325,5,0,0,0,0,0,0,0,0,2,0,1,0,0.0,0.0,0.0,0,0,0,0,,0,2,0,0,0,Shakhtar Donetsk,2020-12-09 Inter-Shakhtar,UCL,20-21,d70f4c98
+7120a04d,Tetê,14,BRA,FW,20-298,64,0,0,0,0,1,1,0,0,8,0,0,0,0.1,0.1,0.0,2,0,5,5,100.0,2,4,2,2,2,Shakhtar Donetsk,2020-12-09 Inter-Shakhtar,UCL,20-21,d70f4c98
+886f9aac,Manor Solomon,19,ISR,FW,21-138,26,0,0,0,0,1,0,0,0,18,0,0,1,0.1,0.1,0.0,2,0,13,13,100.0,0,13,4,3,3,Shakhtar Donetsk,2020-12-09 Inter-Shakhtar,UCL,20-21,d70f4c98
+005ca692,Maycon,27,BRA,CM,23-147,90,0,0,0,0,1,0,0,0,71,1,2,0,0.1,0.1,0.0,1,0,46,52,88.5,4,37,0,0,0,Shakhtar Donetsk,2020-12-09 Inter-Shakhtar,UCL,20-21,d70f4c98
+9d60028d,Viktor Kovalenko,20,UKR,CM,24-299,90,0,0,0,0,1,0,0,0,27,0,0,0,0.0,0.0,0.2,2,0,24,25,96.0,2,17,1,0,0,Shakhtar Donetsk,2020-12-09 Inter-Shakhtar,UCL,20-21,d70f4c98
+9139bb12,Marlos,11,UKR,CM,32-185,63,0,0,0,0,0,0,0,0,24,0,0,0,0.0,0.0,0.0,0,0,20,22,90.9,1,17,0,0,0,Shakhtar Donetsk,2020-12-09 Inter-Shakhtar,UCL,20-21,d70f4c98
+00672021,Alan Patrick,21,BRA,CM,29-210,27,0,0,0,0,0,0,0,0,19,0,0,0,0.0,0.0,0.0,0,0,16,16,100.0,0,13,0,0,0,Shakhtar Donetsk,2020-12-09 Inter-Shakhtar,UCL,20-21,d70f4c98
+1adcf39e,Mykola Matviyenko,22,UKR,LB,24-221,90,0,0,0,0,0,0,0,0,46,2,4,0,0.0,0.0,0.0,1,0,24,34,70.6,3,25,0,2,1,Shakhtar Donetsk,2020-12-09 Inter-Shakhtar,UCL,20-21,d70f4c98
+d4f034db,Vitão,49,BRA,CB,20-311,35,0,0,0,0,0,0,1,0,36,0,2,0,0.0,0.0,0.0,0,0,20,28,71.4,2,22,0,0,0,Shakhtar Donetsk,2020-12-09 Inter-Shakhtar,UCL,20-21,d70f4c98
+862fa9fb,Davit Khocholava,5,GEO,CB,27-305,55,0,0,0,0,0,0,0,0,43,0,4,2,0.0,0.0,0.0,0,0,25,29,86.2,0,24,0,0,0,Shakhtar Donetsk,2020-12-09 Inter-Shakhtar,UCL,20-21,d70f4c98
+ee3519f5,Taras Stepanenko,6,UKR,CB,31-123,90,0,0,0,0,0,0,0,0,71,1,0,1,0.0,0.0,0.0,2,0,53,61,86.9,3,43,0,0,0,Shakhtar Donetsk,2020-12-09 Inter-Shakhtar,UCL,20-21,d70f4c98
+7713c72a,Valerii Bondar,77,UKR,CB,21-286,90,0,0,0,0,0,0,0,0,66,1,2,3,0.0,0.0,0.0,0,0,39,51,76.5,1,38,1,0,0,Shakhtar Donetsk,2020-12-09 Inter-Shakhtar,UCL,20-21,d70f4c98
+b5f7d10b,Dodô,2,BRA,RB,22-022,90,0,0,0,0,1,1,0,0,52,1,0,1,0.0,0.0,0.0,0,0,36,44,81.8,1,32,0,1,1,Shakhtar Donetsk,2020-12-09 Inter-Shakhtar,UCL,20-21,d70f4c98
+41f0b196,Anatolii Trubin,81,UKR,GK,19-130,90,0,0,0,0,0,0,1,0,47,0,0,0,0.0,0.0,0.0,0,0,24,45,53.3,0,17,0,0,0,Shakhtar Donetsk,2020-12-09 Inter-Shakhtar,UCL,20-21,d70f4c98

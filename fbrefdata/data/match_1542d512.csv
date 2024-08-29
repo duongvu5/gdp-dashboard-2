@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+70d74ece,Karim Benzema,9,FRA,FW,34-111,73,0,0,0,0,4,0,0,0,53,0,0,0,0.2,0.2,0.1,4,0,37,47,78.7,10,37,1,1,1,Real Madrid,2022-04-09 Real Madrid-Getafe,ESP-LALIGA,21-22,1542d512
+a58bb1e1,Gareth Bale,18,WAL,FW,32-267,17,0,0,0,0,2,1,0,0,8,0,0,0,0.0,0.0,0.0,0,0,4,5,80.0,0,5,0,0,0,Real Madrid,2022-04-09 Real Madrid-Getafe,ESP-LALIGA,21-22,1542d512
+7111d552,Vinicius Júnior,20,BRA,LW,21-271,82,0,1,0,0,2,2,0,0,46,2,0,1,0.1,0.1,0.7,10,1,34,40,85.0,5,40,11,5,4,Real Madrid,2022-04-09 Real Madrid-Getafe,ESP-LALIGA,21-22,1542d512
+45af8a54,Marco Asensio,11,ESP,LW,26-078,8,0,0,0,0,1,0,0,0,4,0,0,0,0.0,0.0,0.0,2,0,3,3,100.0,1,2,0,0,0,Real Madrid,2022-04-09 Real Madrid-Getafe,ESP-LALIGA,21-22,1542d512
+8f5e92a6,Rodrygo,21,BRA,RW,21-090,90,0,1,0,0,2,0,0,0,65,1,0,0,0.0,0.0,0.2,7,1,47,54,87.0,4,46,3,4,2,Real Madrid,2022-04-09 Real Madrid-Getafe,ESP-LALIGA,21-22,1542d512
+7b9c2d84,Eduardo Camavinga,25,FRA,LM,19-150,90,0,0,0,0,1,0,0,0,85,0,5,2,0.0,0.0,0.0,6,1,68,73,93.2,9,54,1,1,1,Real Madrid,2022-04-09 Real Madrid-Getafe,ESP-LALIGA,21-22,1542d512
+4d224fe8,Casemiro,14,BRA,CM,30-045,74,1,0,0,0,2,1,1,0,74,0,1,0,0.8,0.8,0.0,2,0,60,67,89.6,6,40,0,0,0,Real Madrid,2022-04-09 Real Madrid-Getafe,ESP-LALIGA,21-22,1542d512
+c0617e2b,Dani Ceballos,19,ESP,CM,25-245,16,0,0,0,0,0,0,0,0,24,0,0,1,0.0,0.0,0.0,0,0,22,22,100.0,6,18,0,1,0,Real Madrid,2022-04-09 Real Madrid-Getafe,ESP-LALIGA,21-22,1542d512
+0959c2a2,Federico Valverde,15,URU,RM,23-261,90,0,0,0,0,2,1,1,0,82,1,1,1,0.1,0.1,0.1,6,0,66,73,90.4,10,41,5,1,0,Real Madrid,2022-04-09 Real Madrid-Getafe,ESP-LALIGA,21-22,1542d512
+603116a7,Marcelo,12,BRA,LB,33-332,90,0,0,0,0,4,2,0,0,106,1,0,2,0.1,0.1,0.1,2,0,77,94,81.9,9,61,2,1,1,Real Madrid,2022-04-09 Real Madrid-Getafe,ESP-LALIGA,21-22,1542d512
+05439de2,David Alaba,4,AUT,CB,29-289,85,0,0,0,0,1,0,0,0,97,0,0,2,0.0,0.0,0.0,3,0,83,91,91.2,6,61,0,0,0,Real Madrid,2022-04-09 Real Madrid-Getafe,ESP-LALIGA,21-22,1542d512
+2946f9a1,Nacho,6,ESP,CB,32-081,5,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,4,4,100.0,0,4,0,0,0,Real Madrid,2022-04-09 Real Madrid-Getafe,ESP-LALIGA,21-22,1542d512
+2784f898,Éder Militão,3,BRA,CB,24-081,90,0,0,0,0,3,0,0,0,85,2,1,0,0.1,0.1,0.0,1,0,75,78,96.2,4,53,0,0,0,Real Madrid,2022-04-09 Real Madrid-Getafe,ESP-LALIGA,21-22,1542d512
+fd51b456,Lucas Vázquez,17,ESP,RB,30-282,90,1,0,0,0,2,1,0,0,114,2,0,1,0.2,0.2,0.2,4,1,91,105,86.7,8,70,4,0,0,Real Madrid,2022-04-09 Real Madrid-Getafe,ESP-LALIGA,21-22,1542d512
+1840e36d,Thibaut Courtois,1,BEL,GK,29-333,90,0,0,0,0,0,0,0,0,23,0,0,0,0.0,0.0,0.0,0,0,19,23,82.6,0,15,0,0,0,Real Madrid,2022-04-09 Real Madrid-Getafe,ESP-LALIGA,21-22,1542d512
+64e8ed6d,Borja Mayoral,25,ESP,FW,25-004,45,0,0,0,0,0,0,0,0,12,0,0,1,0.0,0.0,0.0,0,0,3,8,37.5,0,4,0,0,0,Getafe,2022-04-09 Real Madrid-Getafe,ESP-LALIGA,21-22,1542d512
+833fb62e,Sandro Ramírez,12,ESP,FW,26-274,45,0,0,0,0,2,0,0,0,21,0,0,1,0.0,0.0,0.0,3,0,10,15,66.7,1,11,1,0,0,Getafe,2022-04-09 Real Madrid-Getafe,ESP-LALIGA,21-22,1542d512
+f8eca1b6,Enes Ünal,10,TUR,FW,24-334,90,0,0,0,0,1,0,0,0,28,0,1,2,0.0,0.0,0.0,1,0,9,17,52.9,1,15,0,1,0,Getafe,2022-04-09 Real Madrid-Getafe,ESP-LALIGA,21-22,1542d512
+6c811eb7,Carles Aleñá,11,ESP,CM,24-094,45,0,0,0,0,1,0,0,0,24,2,0,0,0.0,0.0,0.0,1,0,10,15,66.7,0,12,0,2,1,Getafe,2022-04-09 Real Madrid-Getafe,ESP-LALIGA,21-22,1542d512
+19709006,Óscar Rodríguez Arnaiz,24,ESP,CM,23-285,45,0,0,0,0,0,0,0,0,28,0,0,0,0.0,0.0,0.0,1,0,20,28,71.4,3,22,0,0,0,Getafe,2022-04-09 Real Madrid-Getafe,ESP-LALIGA,21-22,1542d512
+bdc74a8f,Gonzalo Villar,6,ESP,CM,24-017,73,0,0,0,0,0,0,0,0,49,2,1,2,0.0,0.0,0.0,0,0,38,42,90.5,1,30,1,1,1,Getafe,2022-04-09 Real Madrid-Getafe,ESP-LALIGA,21-22,1542d512
+881cd6be,Florentino Luís,5,POR,CM,22-233,17,0,0,0,0,0,0,0,0,7,3,0,0,0.0,0.0,0.0,0,0,2,4,50.0,0,4,0,1,0,Getafe,2022-04-09 Real Madrid-Getafe,ESP-LALIGA,21-22,1542d512
+00b28772,Nemanja Maksimović,20,SRB,CM,27-073,85,0,0,0,0,0,0,0,0,36,1,4,2,0.0,0.0,0.0,1,0,18,24,75.0,0,20,1,0,0,Getafe,2022-04-09 Real Madrid-Getafe,ESP-LALIGA,21-22,1542d512
+e49ce451,Okay Yokuşlu,19,TUR,CM,28-031,5,0,0,0,0,1,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,2,0,1,1,Getafe,2022-04-09 Real Madrid-Getafe,ESP-LALIGA,21-22,1542d512
+41c12f75,Mathías Olivera,17,URU,LB,24-160,90,0,0,0,0,1,0,1,0,57,0,1,1,0.2,0.2,0.0,2,0,30,42,71.4,2,22,1,1,0,Getafe,2022-04-09 Real Madrid-Getafe,ESP-LALIGA,21-22,1542d512
+0abc51f2,Jorge Cuenca,15,ESP,CB,22-143,81,0,0,0,0,1,0,0,0,38,0,0,4,0.0,0.0,0.0,0,0,23,32,71.9,3,24,0,0,0,Getafe,2022-04-09 Real Madrid-Getafe,ESP-LALIGA,21-22,1542d512
+e7ab4179,Erick Cabaco,3,URU,CB,26-355,9,0,0,0,0,1,0,0,0,8,0,0,1,0.1,0.1,0.0,2,0,4,5,80.0,0,3,0,0,0,Getafe,2022-04-09 Real Madrid-Getafe,ESP-LALIGA,21-22,1542d512
+e6777e6b,Stefan Mitrović,23,SRB,CB,31-322,90,0,0,0,0,0,0,0,0,29,0,0,3,0.0,0.0,0.0,2,0,19,21,90.5,1,12,0,0,0,Getafe,2022-04-09 Real Madrid-Getafe,ESP-LALIGA,21-22,1542d512
+a4971d84,Djené,2,TOG,CB,30-099,90,0,0,0,0,0,0,1,0,35,1,0,4,0.0,0.0,0.0,0,0,23,27,85.2,0,25,0,1,1,Getafe,2022-04-09 Real Madrid-Getafe,ESP-LALIGA,21-22,1542d512
+ba5004e1,Damián Suárez,22,URU,RB,33-347,90,0,0,0,0,0,0,0,0,52,1,4,5,0.0,0.0,0.1,2,0,30,42,71.4,3,19,1,1,0,Getafe,2022-04-09 Real Madrid-Getafe,ESP-LALIGA,21-22,1542d512
+8f8c6934,David Soria,13,ESP,GK,29-005,90,0,0,0,0,0,0,0,0,44,0,0,0,0.0,0.0,0.0,0,0,25,42,59.5,0,21,0,0,0,Getafe,2022-04-09 Real Madrid-Getafe,ESP-LALIGA,21-22,1542d512

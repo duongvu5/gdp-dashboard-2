@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+d70ce98e,Lionel Messi,10,ARG,FW,30-087,90,4,0,1,1,7,6,0,0,58,0,0,0,1.8,1.1,0.0,5,4,32,41,78.0,13,42,10,7,4,Barcelona,2017-09-19 Barcelona-Eibar,ESP-LALIGA,17-18,136d34cd
+12c50af5,Denis Suárez,6,ESP,LW,23-256,90,1,1,0,0,1,1,0,0,47,0,0,0,0.2,0.2,0.1,1,1,37,42,88.1,1,36,2,2,1,Barcelona,2017-09-19 Barcelona-Eibar,ESP-LALIGA,17-18,136d34cd
+39583cfd,Gerard Deulofeu,16,ESP,RW,23-190,74,0,0,0,0,0,0,0,0,49,3,1,1,0.0,0.0,0.1,2,0,26,38,68.4,1,35,3,6,2,Barcelona,2017-09-19 Barcelona-Eibar,ESP-LALIGA,17-18,136d34cd
+04965583,Aleix Vidal,22,ESP,RW,28-029,16,0,1,0,0,0,0,0,0,12,1,0,1,0.0,0.0,0.4,1,1,7,9,77.8,1,6,0,0,0,Barcelona,2017-09-19 Barcelona-Eibar,ESP-LALIGA,17-18,136d34cd
+cfd65a29,Andrés Iniesta,8,ESP,LM,33-131,62,0,0,0,0,0,0,0,0,43,0,0,0,0.0,0.0,0.0,3,2,37,41,90.2,8,30,2,1,1,Barcelona,2017-09-19 Barcelona-Eibar,ESP-LALIGA,17-18,136d34cd
+335fa267,Sergi Roberto,20,ESP,LM,25-224,28,0,0,0,0,0,0,0,0,16,0,0,0,0.0,0.0,0.0,2,0,14,16,87.5,1,14,2,2,2,Barcelona,2017-09-19 Barcelona-Eibar,ESP-LALIGA,17-18,136d34cd
+5ab0ea87,Sergio Busquets,5,ESP,CM,29-065,64,0,1,0,0,0,0,0,0,40,2,0,1,0.0,0.0,0.0,1,1,35,39,89.7,3,21,0,0,0,Barcelona,2017-09-19 Barcelona-Eibar,ESP-LALIGA,17-18,136d34cd
+89f951b5,Ivan Rakitić,4,CRO,CM,29-193,26,0,0,0,0,0,0,0,0,20,1,1,0,0.0,0.0,0.0,0,0,13,17,76.5,1,7,1,0,0,Barcelona,2017-09-19 Barcelona-Eibar,ESP-LALIGA,17-18,136d34cd
+bb7337cc,Paulinho,15,BRA,RM,29-056,90,1,1,0,0,1,1,0,0,52,1,1,0,0.1,0.1,0.4,2,1,38,41,92.7,7,33,2,4,2,Barcelona,2017-09-19 Barcelona-Eibar,ESP-LALIGA,17-18,136d34cd
+1b84dbe1,Lucas Digne,19,FRA,LB,24-061,90,0,0,0,0,1,1,0,0,79,3,1,2,0.3,0.3,0.0,1,0,55,67,82.1,1,34,3,1,1,Barcelona,2017-09-19 Barcelona-Eibar,ESP-LALIGA,17-18,136d34cd
+5070881b,Javier Mascherano,14,ARG,CB,33-103,90,0,0,0,0,0,0,0,0,91,1,4,2,0.0,0.0,0.1,1,0,71,80,88.8,3,61,1,0,0,Barcelona,2017-09-19 Barcelona-Eibar,ESP-LALIGA,17-18,136d34cd
+adfc9123,Gerard Piqué,3,ESP,CB,30-229,90,0,0,0,0,0,0,0,0,97,1,1,1,0.0,0.0,0.3,1,0,77,92,83.7,2,62,0,2,2,Barcelona,2017-09-19 Barcelona-Eibar,ESP-LALIGA,17-18,136d34cd
+d04b94db,Nélson Semedo,2,POR,RB,23-307,90,0,0,0,0,0,0,0,0,79,3,0,1,0.0,0.0,0.0,1,1,60,70,85.7,6,52,9,5,4,Barcelona,2017-09-19 Barcelona-Eibar,ESP-LALIGA,17-18,136d34cd
+6f51e382,Marc-André ter Stegen,1,GER,GK,25-142,90,0,0,0,0,0,0,0,0,55,0,0,0,0.0,0.0,0.0,0,0,46,52,88.5,0,35,0,0,0,Barcelona,2017-09-19 Barcelona-Eibar,ESP-LALIGA,17-18,136d34cd
+bb4b1242,Sergi Enrich,9,ESP,FW,27-205,71,1,0,0,0,3,2,0,0,28,0,0,0,0.9,0.9,0.0,2,0,16,23,69.6,0,14,1,1,1,Eibar,2017-09-19 Barcelona-Eibar,ESP-LALIGA,17-18,136d34cd
+c4b8bcf4,Charles,19,BRA,FW,33-168,19,0,0,0,0,1,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,4,7,57.1,0,3,0,0,0,Eibar,2017-09-19 Barcelona-Eibar,ESP-LALIGA,17-18,136d34cd
+61bd33d0,Takashi Inui,8,JPN,LW,29-109,90,0,0,0,0,4,1,0,0,44,1,0,1,0.2,0.2,0.0,2,1,31,37,83.8,3,30,6,1,0,Eibar,2017-09-19 Barcelona-Eibar,ESP-LALIGA,17-18,136d34cd
+37f1cf47,Ander Capa,7,ESP,RW,25-223,64,0,0,0,0,0,0,1,0,21,1,1,0,0.0,0.0,0.0,0,0,12,16,75.0,1,13,0,3,0,Eibar,2017-09-19 Barcelona-Eibar,ESP-LALIGA,17-18,136d34cd
+1f079188,Rubén Peña,11,ESP,RW,26-063,26,0,0,0,0,2,0,0,0,12,0,0,1,0.1,0.1,0.0,2,0,7,7,100.0,0,10,2,3,2,Eibar,2017-09-19 Barcelona-Eibar,ESP-LALIGA,17-18,136d34cd
+2a0c8ba4,Joan Jordán,24,ESP,AM,23-075,90,0,0,0,0,0,0,0,0,45,2,0,1,0.0,0.0,0.1,4,0,29,38,76.3,3,25,1,2,1,Eibar,2017-09-19 Barcelona-Eibar,ESP-LALIGA,17-18,136d34cd
+3f79a1c8,Gonzalo Escalante,5,ARG,DM,24-176,90,0,0,0,0,2,1,0,0,44,3,2,3,0.1,0.1,0.1,4,0,22,30,73.3,4,24,1,1,1,Eibar,2017-09-19 Barcelona-Eibar,ESP-LALIGA,17-18,136d34cd
+240d3a0b,Dani García,14,ESP,DM,27-118,76,0,0,0,0,0,0,0,0,52,3,1,2,0.0,0.0,0.0,0,0,38,46,82.6,3,37,1,0,0,Eibar,2017-09-19 Barcelona-Eibar,ESP-LALIGA,17-18,136d34cd
+8ef81d2d,Cristian Rivera,6,ESP,DM,20-072,14,0,0,0,0,0,0,0,0,15,2,2,0,0.0,0.0,0.0,1,0,10,12,83.3,1,9,0,0,0,Eibar,2017-09-19 Barcelona-Eibar,ESP-LALIGA,17-18,136d34cd
+de7d40d6,David Juncà,23,ESP,LB,23-307,90,0,1,0,0,0,0,0,0,49,4,1,0,0.0,0.0,0.8,3,1,33,43,76.7,6,34,3,1,0,Eibar,2017-09-19 Barcelona-Eibar,ESP-LALIGA,17-18,136d34cd
+960fb42d,Álex Gálvez,3,ESP,CB,28-105,90,0,0,0,0,0,0,1,0,44,3,4,1,0.0,0.0,0.0,0,0,31,34,91.2,1,26,0,0,0,Eibar,2017-09-19 Barcelona-Eibar,ESP-LALIGA,17-18,136d34cd
+a8fbae1d,Paulo Oliveira,12,POR,CB,25-254,90,0,0,0,0,0,0,0,0,46,2,2,0,0.0,0.0,0.0,1,0,33,38,86.8,3,31,1,0,0,Eibar,2017-09-19 Barcelona-Eibar,ESP-LALIGA,17-18,136d34cd
+850c0a0d,Anaitz Arbilla,18,ESP,RB,30-127,90,0,0,0,0,1,0,0,0,71,1,4,1,0.0,0.0,0.0,2,0,44,58,75.9,8,36,1,1,1,Eibar,2017-09-19 Barcelona-Eibar,ESP-LALIGA,17-18,136d34cd
+ac295d9e,Marko Dmitrović,25,SRB,GK,25-238,90,0,0,0,0,0,0,0,0,30,1,0,0,0.0,0.0,0.0,0,0,9,25,36.0,0,13,0,1,1,Eibar,2017-09-19 Barcelona-Eibar,ESP-LALIGA,17-18,136d34cd

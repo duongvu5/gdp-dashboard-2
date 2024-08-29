@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+a6154613,Luis Suárez,9,URU,FW,34-217,69,1,0,0,0,1,1,1,0,22,0,0,0,0.4,0.4,0.0,0,0,12,15,80.0,0,11,1,3,0,Atlético Madrid,2021-08-29 Atlético Madrid-Villarreal,ESP-LALIGA,21-22,ac93ead3
+c14bc029,Saúl Ñíguez,8,ESP,FW,26-281,21,0,0,0,0,1,0,0,0,11,0,0,0,0.1,0.1,0.0,0,0,6,10,60.0,0,5,0,0,0,Atlético Madrid,2021-08-29 Atlético Madrid-Villarreal,ESP-LALIGA,21-22,ac93ead3
+01eb744d,Ángel Correa,10,ARG,FW,26-173,90,0,1,0,0,4,0,1,0,43,1,0,2,0.2,0.2,0.5,8,1,19,27,70.4,3,25,4,4,2,Atlético Madrid,2021-08-29 Atlético Madrid-Villarreal,ESP-LALIGA,21-22,ac93ead3
+de39485a,Yannick Carrasco,21,BEL,LW,27-359,69,0,0,0,0,2,0,0,0,41,0,1,1,0.1,0.1,0.0,2,0,25,31,80.6,4,23,5,3,1,Atlético Madrid,2021-08-29 Atlético Madrid-Villarreal,ESP-LALIGA,21-22,ac93ead3
+162efffd,Rodrigo De Paul,5,ARG,LW,27-097,21,0,0,0,0,1,0,1,0,20,0,0,2,0.0,0.0,0.0,3,0,11,16,68.8,1,10,1,0,0,Atlético Madrid,2021-08-29 Atlético Madrid-Villarreal,ESP-LALIGA,21-22,ac93ead3
+21512407,Kieran Trippier,23,ENG,RW,30-344,90,0,0,0,0,2,0,0,0,76,1,1,1,0.1,0.1,0.0,7,0,54,66,81.8,7,52,3,1,1,Atlético Madrid,2021-08-29 Atlético Madrid-Villarreal,ESP-LALIGA,21-22,ac93ead3
+4dbd0916,Thomas Lemar,11,FRA,CM,25-290,79,0,0,0,0,2,1,1,0,55,0,0,0,0.6,0.6,0.1,7,0,38,48,79.2,8,26,1,3,1,Atlético Madrid,2021-08-29 Atlético Madrid-Villarreal,ESP-LALIGA,21-22,ac93ead3
+dc62b55d,Matheus Cunha,19,BRA,CM,22-094,11,0,0,0,0,0,0,0,0,5,1,0,0,0.0,0.0,0.0,0,0,4,4,100.0,0,3,0,0,0,Atlético Madrid,2021-08-29 Atlético Madrid-Villarreal,ESP-LALIGA,21-22,ac93ead3
+02c15616,Marcos Llorente,14,ESP,CM,26-211,90,0,0,0,0,2,0,0,0,59,2,1,2,0.1,0.1,0.2,7,1,35,45,77.8,5,33,7,3,3,Atlético Madrid,2021-08-29 Atlético Madrid-Villarreal,ESP-LALIGA,21-22,ac93ead3
+55126f3b,Koke,6,ESP,DM,29-233,90,0,0,0,0,2,1,0,0,75,2,0,0,0.0,0.0,0.0,3,0,58,69,84.1,12,44,1,0,0,Atlético Madrid,2021-08-29 Atlético Madrid-Villarreal,ESP-LALIGA,21-22,ac93ead3
+555f3a0b,Mario Hermoso,22,ESP,CB,26-072,79,0,0,0,0,1,0,1,0,46,4,2,0,0.0,0.0,0.0,2,0,35,37,94.6,5,14,2,1,0,Atlético Madrid,2021-08-29 Atlético Madrid-Villarreal,ESP-LALIGA,21-22,ac93ead3
+cce181df,Geoffrey Kondogbia,4,CTA,CB,28-195,11,0,0,0,0,1,0,0,0,11,1,1,0,0.0,0.0,0.0,0,0,6,8,75.0,0,6,0,0,0,Atlético Madrid,2021-08-29 Atlético Madrid-Villarreal,ESP-LALIGA,21-22,ac93ead3
+f0da930c,José María Giménez,2,URU,CB,26-221,87,0,0,0,0,3,0,0,0,42,0,1,0,0.0,0.0,0.0,0,0,32,35,91.4,2,25,0,0,0,Atlético Madrid,2021-08-29 Atlético Madrid-Villarreal,ESP-LALIGA,21-22,ac93ead3
+ed9f7cfe,Renan Lodi,12,BRA,CB,23-143,3,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,3,4,75.0,0,2,1,0,0,Atlético Madrid,2021-08-29 Atlético Madrid-Villarreal,ESP-LALIGA,21-22,ac93ead3
+f6ac68c1,Stefan Savić,15,MNE,CB,30-233,90,0,0,0,0,1,0,0,0,57,0,0,0,0.0,0.0,0.0,0,0,43,51,84.3,6,36,3,0,0,Atlético Madrid,2021-08-29 Atlético Madrid-Villarreal,ESP-LALIGA,21-22,ac93ead3
+ee8508c0,Jan Oblak,13,SVN,GK,28-234,90,0,0,0,0,0,0,0,0,14,0,0,0,0.0,0.0,0.0,0,0,13,14,92.9,0,10,0,0,0,Atlético Madrid,2021-08-29 Atlético Madrid-Villarreal,ESP-LALIGA,21-22,ac93ead3
+244bc2c8,Boulaye Dia,16,SEN,FW,24-286,62,0,0,0,0,0,0,0,0,13,2,0,0,0.0,0.0,0.0,0,0,8,10,80.0,1,7,1,0,0,Villarreal,2021-08-29 Atlético Madrid-Villarreal,ESP-LALIGA,21-22,ac93ead3
+a6951bf8,Francis Coquelin,19,FRA,CM,30-108,28,0,0,0,0,0,0,0,0,13,1,0,2,0.0,0.0,0.0,0,0,4,7,57.1,0,6,0,0,0,Villarreal,2021-08-29 Atlético Madrid-Villarreal,ESP-LALIGA,21-22,ac93ead3
+81f0781e,Gerard Moreno,7,ESP,FW,29-144,90,0,0,0,0,0,0,1,0,38,2,0,1,0.0,0.0,0.0,0,0,22,29,75.9,3,29,1,4,1,Villarreal,2021-08-29 Atlético Madrid-Villarreal,ESP-LALIGA,21-22,ac93ead3
+11b9265b,Alberto Moreno,18,ESP,LM,29-055,62,0,0,0,0,0,0,0,0,48,1,4,0,0.0,0.0,0.0,0,0,31,39,79.5,4,33,1,0,0,Villarreal,2021-08-29 Atlético Madrid-Villarreal,ESP-LALIGA,21-22,ac93ead3
+63f04c6c,Alfonso Pedraza,24,ESP,LB,25-142,28,0,0,0,0,0,0,0,0,18,0,0,1,0.0,0.0,0.0,0,0,9,15,60.0,0,10,1,1,0,Villarreal,2021-08-29 Atlético Madrid-Villarreal,ESP-LALIGA,21-22,ac93ead3
+5acc4a10,Étienne Capoue,6,FRA,CM,33-049,90,0,0,0,0,0,0,0,0,70,3,2,1,0.0,0.0,0.0,0,0,49,57,86.0,3,49,1,3,2,Villarreal,2021-08-29 Atlético Madrid-Villarreal,ESP-LALIGA,21-22,ac93ead3
+963829d0,Manu Trigueros,14,ESP,"CM,LM",29-316,90,1,0,0,0,1,1,0,0,65,3,2,0,0.1,0.1,0.0,0,0,49,58,84.5,6,54,0,0,0,Villarreal,2021-08-29 Atlético Madrid-Villarreal,ESP-LALIGA,21-22,ac93ead3
+540ec57b,Yeremi Pino,30,ESP,RM,18-313,79,0,2,0,0,0,0,0,0,44,4,0,1,0.0,0.0,0.3,3,3,25,29,86.2,2,32,1,7,4,Villarreal,2021-08-29 Atlético Madrid-Villarreal,ESP-LALIGA,21-22,ac93ead3
+fb5d47b3,Mario Gaspar,2,ESP,RM,30-278,11,0,0,0,0,0,0,0,0,5,0,1,0,0.0,0.0,0.0,0,0,3,4,75.0,0,3,0,0,0,Villarreal,2021-08-29 Atlético Madrid-Villarreal,ESP-LALIGA,21-22,ac93ead3
+d38fdf53,Pervis Estupiñán,12,ECU,LB,23-220,62,0,0,0,0,0,0,0,0,40,0,1,0,0.0,0.0,0.0,0,0,23,31,74.2,0,22,0,2,0,Villarreal,2021-08-29 Atlético Madrid-Villarreal,ESP-LALIGA,21-22,ac93ead3
+f08490a6,Arnaut Danjuma,15,NED,FW,24-210,28,1,0,0,0,1,1,0,0,5,0,1,0,0.2,0.2,0.0,0,0,2,3,66.7,1,5,0,0,0,Villarreal,2021-08-29 Atlético Madrid-Villarreal,ESP-LALIGA,21-22,ac93ead3
+fbd6378b,Aïssa Mandi,22,ALG,CB,29-311,90,0,0,0,0,0,0,0,0,63,0,2,4,0.0,0.0,0.0,0,0,50,53,94.3,1,38,0,0,0,Villarreal,2021-08-29 Atlético Madrid-Villarreal,ESP-LALIGA,21-22,ac93ead3
+4bd414c1,Raúl Albiol,3,ESP,CB,35-359,90,0,0,0,0,0,0,0,0,70,3,0,1,0.0,0.0,0.0,0,0,52,58,89.7,4,50,1,0,0,Villarreal,2021-08-29 Atlético Madrid-Villarreal,ESP-LALIGA,21-22,ac93ead3
+6c7762c3,Juan Foyth,8,ARG,RB,23-229,90,0,0,0,0,0,0,0,0,75,5,2,0,0.0,0.0,0.0,0,0,51,60,85.0,3,48,3,0,0,Villarreal,2021-08-29 Atlético Madrid-Villarreal,ESP-LALIGA,21-22,ac93ead3
+625c144a,Gerónimo Rulli,13,ARG,GK,29-101,90,0,0,0,0,0,0,1,0,49,0,0,0,0.0,0.0,0.0,1,1,34,46,73.9,0,21,0,0,0,Villarreal,2021-08-29 Atlético Madrid-Villarreal,ESP-LALIGA,21-22,ac93ead3

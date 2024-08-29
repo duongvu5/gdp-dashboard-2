@@ -1,0 +1,29 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+81f0781e,Gerard Moreno,7,ESP,FW,25-326,90,1,0,0,0,5,3,0,0,49,2,1,1,0.5,0.5,0.1,5,1,27,33,81.8,3,35,0,4,2,Espanyol,2018-02-27 Espanyol-Real Madrid,ESP-LALIGA,17-18,86d52519
+2bee98fd,Sergio García,9,ESP,FW,34-263,90,0,1,0,0,5,3,0,0,42,1,1,0,0.2,0.2,0.2,8,1,20,30,66.7,5,35,2,1,1,Espanyol,2018-02-27 Espanyol-Real Madrid,ESP-LALIGA,17-18,86d52519
+48e89655,Pablo Piatti,19,ARG,LM,28-333,78,0,0,0,0,1,0,0,0,43,3,0,1,0.1,0.1,0.1,5,0,21,31,67.7,1,25,2,5,3,Espanyol,2018-02-27 Espanyol-Real Madrid,ESP-LALIGA,17-18,86d52519
+35f6db55,Léo Baptistão,11,BRA,LM,25-185,12,0,0,0,0,0,0,0,0,11,0,0,1,0.0,0.0,0.0,0,0,2,6,33.3,0,8,0,1,1,Espanyol,2018-02-27 Espanyol-Real Madrid,ESP-LALIGA,17-18,86d52519
+ad4d0985,Víctor Sánchez,4,ESP,CM,30-172,69,0,0,0,0,1,1,0,0,44,3,2,1,0.0,0.0,0.0,0,0,20,30,66.7,2,21,0,1,1,Espanyol,2018-02-27 Espanyol-Real Madrid,ESP-LALIGA,17-18,86d52519
+1b17ed86,Esteban Granero,23,ESP,CM,30-240,21,0,0,0,0,0,0,0,0,16,2,0,0,0.0,0.0,0.0,1,0,11,13,84.6,1,10,0,0,0,Espanyol,2018-02-27 Espanyol-Real Madrid,ESP-LALIGA,17-18,86d52519
+50b51fac,Carlos Sánchez,8,COL,CM,32-021,90,0,0,0,0,1,0,0,0,59,1,2,1,0.0,0.0,0.3,3,0,40,51,78.4,3,30,0,2,2,Espanyol,2018-02-27 Espanyol-Real Madrid,ESP-LALIGA,17-18,86d52519
+070a3904,Sergi Darder,25,ESP,RM,24-067,90,0,0,0,0,2,0,0,0,54,2,3,4,0.0,0.0,0.0,1,0,31,38,81.6,3,31,0,0,0,Espanyol,2018-02-27 Espanyol-Real Madrid,ESP-LALIGA,17-18,86d52519
+2f3e911a,Aarón Martín,3,ESP,LB,20-311,90,0,0,0,0,0,0,1,0,53,2,0,1,0.0,0.0,0.1,3,0,34,42,81.0,5,29,3,3,3,Espanyol,2018-02-27 Espanyol-Real Madrid,ESP-LALIGA,17-18,86d52519
+aa0ac32d,Óscar Duarte,6,CRC,CB,28-269,90,0,0,0,0,1,0,0,0,35,1,0,1,0.1,0.1,0.0,0,0,25,26,96.2,3,18,0,0,0,Espanyol,2018-02-27 Espanyol-Real Madrid,ESP-LALIGA,17-18,86d52519
+f03f284b,David López,15,ESP,CB,28-141,90,0,0,0,0,0,0,0,0,52,1,1,1,0.0,0.0,0.1,2,0,38,44,86.4,3,30,0,0,0,Espanyol,2018-02-27 Espanyol-Real Madrid,ESP-LALIGA,17-18,86d52519
+c2846353,Marc Navarro,2,ESP,RB,22-240,90,0,0,0,0,0,0,0,0,55,0,2,0,0.0,0.0,0.0,2,0,31,40,77.5,2,29,0,3,1,Espanyol,2018-02-27 Espanyol-Real Madrid,ESP-LALIGA,17-18,86d52519
+73683fa9,Diego López,13,ESP,GK,36-116,90,0,0,0,0,0,0,0,0,31,0,0,0,0.0,0.0,0.0,0,0,13,29,44.8,0,15,0,0,0,Espanyol,2018-02-27 Espanyol-Real Madrid,ESP-LALIGA,17-18,86d52519
+a58bb1e1,Gareth Bale,11,WAL,FW,28-226,80,0,0,0,0,5,2,1,0,31,0,0,0,0.8,0.8,0.0,3,0,15,21,71.4,1,21,2,2,2,Real Madrid,2018-02-27 Espanyol-Real Madrid,ESP-LALIGA,17-18,86d52519
+c0617e2b,Dani Ceballos,24,ESP,"FW,CM",21-204,10,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,5,5,100.0,1,3,0,0,0,Real Madrid,2018-02-27 Espanyol-Real Madrid,ESP-LALIGA,17-18,86d52519
+45af8a54,Marco Asensio,20,ESP,"LW,LM",22-037,90,0,0,0,0,0,0,0,0,71,2,0,4,0.0,0.0,0.2,8,0,47,59,79.7,7,57,6,2,1,Real Madrid,2018-02-27 Espanyol-Real Madrid,ESP-LALIGA,17-18,86d52519
+fd51b456,Lucas Vázquez,17,ESP,"RW,RM",26-241,90,0,0,0,0,0,0,0,0,55,2,0,3,0.0,0.0,0.0,0,0,29,41,70.7,9,40,1,6,4,Real Madrid,2018-02-27 Espanyol-Real Madrid,ESP-LALIGA,17-18,86d52519
+a0b4bb3e,Isco,22,ESP,AM,25-312,68,0,0,0,0,2,1,0,0,68,1,0,0,0.1,0.1,0.1,5,0,48,62,77.4,3,55,3,3,1,Real Madrid,2018-02-27 Espanyol-Real Madrid,ESP-LALIGA,17-18,86d52519
+70d74ece,Karim Benzema,9,FRA,"AM,FW",30-070,22,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,0,0,5,9,55.6,1,7,0,1,0,Real Madrid,2018-02-27 Espanyol-Real Madrid,ESP-LALIGA,17-18,86d52519
+79c0821a,Mateo Kovačić,23,CRO,DM,23-297,88,0,0,0,0,1,1,0,0,76,8,1,0,0.0,0.0,0.0,3,0,59,64,92.2,9,60,1,6,6,Real Madrid,2018-02-27 Espanyol-Real Madrid,ESP-LALIGA,17-18,86d52519
+64e8ed6d,Borja Mayoral,21,ESP,"FW,DM",20-328,2,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,0,0,0,0,Real Madrid,2018-02-27 Espanyol-Real Madrid,ESP-LALIGA,17-18,86d52519
+02c15616,Marcos Llorente,18,ESP,"DM,CM",23-028,90,0,0,0,0,2,0,0,0,66,6,0,0,0.1,0.1,0.0,0,0,52,59,88.1,9,47,0,0,0,Real Madrid,2018-02-27 Espanyol-Real Madrid,ESP-LALIGA,17-18,86d52519
+2946f9a1,Nacho,6,ESP,LB,28-040,90,0,0,0,0,0,0,0,0,74,2,1,1,0.0,0.0,0.0,0,0,58,68,85.3,7,49,1,0,0,Real Madrid,2018-02-27 Espanyol-Real Madrid,ESP-LALIGA,17-18,86d52519
+08511d65,Sergio Ramos,4,ESP,CB,31-334,90,0,0,0,0,0,0,0,0,102,3,0,3,0.0,0.0,0.0,0,0,73,89,82.0,3,69,0,0,0,Real Madrid,2018-02-27 Espanyol-Real Madrid,ESP-LALIGA,17-18,86d52519
+9f8e9423,Raphaël Varane,5,FRA,CB,24-308,90,0,0,0,0,1,0,0,0,81,1,1,0,0.1,0.1,0.0,0,0,60,69,87.0,3,54,0,0,0,Real Madrid,2018-02-27 Espanyol-Real Madrid,ESP-LALIGA,17-18,86d52519
+e42d61c7,Achraf Hakimi,19,MAR,RB,19-115,90,0,0,0,0,1,1,0,0,82,1,3,2,0.0,0.0,0.0,2,0,54,71,76.1,7,60,2,5,5,Real Madrid,2018-02-27 Espanyol-Real Madrid,ESP-LALIGA,17-18,86d52519
+ecada4fc,Keylor Navas,1,CRC,GK,31-074,90,0,0,0,0,0,0,0,0,35,0,0,0,0.0,0.0,0.0,0,0,25,34,73.5,0,22,0,0,0,Real Madrid,2018-02-27 Espanyol-Real Madrid,ESP-LALIGA,17-18,86d52519

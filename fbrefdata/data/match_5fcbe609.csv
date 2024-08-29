@@ -1,0 +1,31 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+a6154613,Luis Suárez,9,URU,FW,33-166,81,1,0,0,0,3,1,0,0,25,0,0,0,0.6,0.6,0.0,3,0,15,21,71.4,1,15,0,0,0,Barcelona,2020-07-08 Barcelona-Espanyol,ESP-LALIGA,19-20,5fcbe609
+fd771f95,Martin Braithwaite,19,DEN,FW,29-033,9,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,4,0,0,0,Barcelona,2020-07-08 Barcelona-Espanyol,ESP-LALIGA,19-20,5fcbe609
+df69b544,Antoine Griezmann,17,FRA,"FW,RM",29-109,70,0,0,0,0,1,0,0,0,47,0,0,1,0.0,0.0,0.1,3,0,37,43,86.0,2,38,1,1,1,Barcelona,2020-07-08 Barcelona-Espanyol,ESP-LALIGA,19-20,5fcbe609
+67cdbc0e,Arturo Vidal,22,CHI,RM,33-047,20,0,0,0,0,0,0,0,0,18,0,0,1,0.0,0.0,0.0,0,0,16,17,94.1,1,12,0,0,0,Barcelona,2020-07-08 Barcelona-Espanyol,ESP-LALIGA,19-20,5fcbe609
+d70ce98e,Lionel Messi,10,ARG,"FW,AM",33-014,90,0,0,0,0,4,1,0,0,99,0,0,0,0.3,0.3,0.0,5,1,77,93,82.8,14,79,11,7,5,Barcelona,2020-07-08 Barcelona-Espanyol,ESP-LALIGA,19-20,5fcbe609
+335fa267,Sergi Roberto,20,ESP,"RB,LM",28-152,90,0,0,0,0,0,0,0,0,112,1,1,3,0.0,0.0,0.2,3,0,98,102,96.1,7,77,5,3,3,Barcelona,2020-07-08 Barcelona-Espanyol,ESP-LALIGA,19-20,5fcbe609
+5ab0ea87,Sergio Busquets,5,ESP,"CM,DM",31-358,90,0,0,0,0,0,0,0,0,103,3,0,1,0.0,0.0,0.0,1,0,87,98,88.8,4,72,2,1,1,Barcelona,2020-07-08 Barcelona-Espanyol,ESP-LALIGA,19-20,5fcbe609
+89f951b5,Ivan Rakitić,4,CRO,"RM,CM,LM",32-120,89,0,0,0,0,0,0,0,0,118,2,1,0,0.0,0.0,0.1,1,0,103,114,90.4,7,81,1,0,0,Barcelona,2020-07-08 Barcelona-Espanyol,ESP-LALIGA,19-20,5fcbe609
+2bef2bca,Ronald Araújo,33,URU,LM,21-123,1,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,0,0,0,0,Barcelona,2020-07-08 Barcelona-Espanyol,ESP-LALIGA,19-20,5fcbe609
+4601e194,Jordi Alba,18,ESP,LB,31-109,90,0,0,0,0,0,0,0,0,132,1,1,0,0.0,0.0,0.0,1,0,106,123,86.2,6,93,2,2,0,Barcelona,2020-07-08 Barcelona-Espanyol,ESP-LALIGA,19-20,5fcbe609
+4f28a6ff,Clément Lenglet,15,FRA,CB,25-021,90,0,0,0,0,0,0,0,0,99,3,1,1,0.0,0.0,0.0,0,0,88,92,95.7,3,75,4,0,0,Barcelona,2020-07-08 Barcelona-Espanyol,ESP-LALIGA,19-20,5fcbe609
+adfc9123,Gerard Piqué,3,ESP,CB,33-157,90,0,0,0,0,1,0,0,0,69,0,1,1,0.1,0.1,0.0,0,0,56,60,93.3,2,38,0,0,0,Barcelona,2020-07-08 Barcelona-Espanyol,ESP-LALIGA,19-20,5fcbe609
+d04b94db,Nélson Semedo,2,POR,RB,26-235,45,0,0,0,0,0,0,0,0,52,0,0,0,0.0,0.0,0.0,0,0,45,49,91.8,0,34,0,0,0,Barcelona,2020-07-08 Barcelona-Espanyol,ESP-LALIGA,19-20,5fcbe609
+0ba976e4,Ansu Fati,31,ESP,LM,17-251,4,0,0,0,0,0,0,0,1,1,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,1,0,0,0,Barcelona,2020-07-08 Barcelona-Espanyol,ESP-LALIGA,19-20,5fcbe609
+6f51e382,Marc-André ter Stegen,1,GER,GK,28-069,90,0,0,0,0,0,0,0,0,39,0,0,0,0.0,0.0,0.0,0,0,32,36,88.9,0,18,0,0,0,Barcelona,2020-07-08 Barcelona-Espanyol,ESP-LALIGA,19-20,5fcbe609
+02ef8778,Raúl de Tomás,11,ESP,FW,25-265,90,0,0,0,0,2,1,1,0,43,1,2,4,0.1,0.1,0.1,4,0,19,27,70.4,2,25,2,3,2,Espanyol,2020-07-08 Barcelona-Espanyol,ESP-LALIGA,19-20,5fcbe609
+db8f0eba,Adri Embarba,23,ESP,FW,28-062,73,0,0,0,0,2,1,0,0,35,2,0,1,0.4,0.4,0.0,0,0,9,21,42.9,0,25,3,4,1,Espanyol,2020-07-08 Barcelona-Espanyol,ESP-LALIGA,19-20,5fcbe609
+06983922,Víctor Campuzano,31,ESP,FW,23-038,17,0,0,0,0,1,0,0,0,3,0,0,0,0.1,0.1,0.0,2,0,2,2,100.0,0,3,2,0,0,Espanyol,2020-07-08 Barcelona-Espanyol,ESP-LALIGA,19-20,5fcbe609
+da27e268,Marc Roca,21,ESP,"CM,LM",23-225,85,0,0,0,0,2,0,0,0,35,1,1,0,0.1,0.1,0.4,3,0,25,27,92.6,4,22,0,0,0,Espanyol,2020-07-08 Barcelona-Espanyol,ESP-LALIGA,19-20,5fcbe609
+e3fabb0a,Wu Lei,7,CHN,LM,28-232,5,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,1,2,0,1,0,Espanyol,2020-07-08 Barcelona-Espanyol,ESP-LALIGA,19-20,5fcbe609
+f03f284b,David López,15,ESP,"DM,CM",30-273,90,0,0,0,0,0,0,1,0,36,2,1,0,0.0,0.0,0.1,3,0,28,30,93.3,2,26,0,1,1,Espanyol,2020-07-08 Barcelona-Espanyol,ESP-LALIGA,19-20,5fcbe609
+ea610f00,Pol Lozano,26,ESP,CM,20-276,52,0,0,0,0,0,0,0,1,23,1,0,1,0.0,0.0,0.0,0,0,18,20,90.0,1,13,1,0,0,Espanyol,2020-07-08 Barcelona-Espanyol,ESP-LALIGA,19-20,5fcbe609
+bad38a94,Dídac Vilà,17,ESP,LB,31-029,90,0,0,0,0,1,0,0,0,36,1,2,1,0.1,0.1,0.1,1,0,17,28,60.7,1,18,2,0,0,Espanyol,2020-07-08 Barcelona-Espanyol,ESP-LALIGA,19-20,5fcbe609
+69cbc8b6,Leandro Cabrera,18,URU,CB,29-021,90,0,0,0,0,0,0,0,0,40,1,1,1,0.0,0.0,0.0,1,0,15,32,46.9,1,22,1,0,0,Espanyol,2020-07-08 Barcelona-Espanyol,ESP-LALIGA,19-20,5fcbe609
+4242011c,Bernardo Espinosa,20,COL,CB,30-363,90,0,0,0,0,1,0,0,0,28,1,1,1,0.1,0.1,0.0,0,0,10,14,71.4,1,11,0,0,0,Espanyol,2020-07-08 Barcelona-Espanyol,ESP-LALIGA,19-20,5fcbe609
+41b3069f,Fernando Calero,24,ESP,CB,24-298,65,0,0,0,0,0,0,0,0,26,1,1,2,0.0,0.0,0.0,0,0,19,21,90.5,1,16,0,0,0,Espanyol,2020-07-08 Barcelona-Espanyol,ESP-LALIGA,19-20,5fcbe609
+070a3904,Sergi Darder,10,ESP,"RM,CB",26-199,25,0,0,0,0,2,0,0,0,11,2,0,0,0.1,0.1,0.0,2,0,5,6,83.3,1,4,0,0,0,Espanyol,2020-07-08 Barcelona-Espanyol,ESP-LALIGA,19-20,5fcbe609
+b7de5bad,Victor Gomez,34,ESP,RB,20-098,90,0,0,0,0,0,0,0,0,49,1,2,1,0.0,0.0,0.1,3,0,30,41,73.2,1,30,1,0,0,Espanyol,2020-07-08 Barcelona-Espanyol,ESP-LALIGA,19-20,5fcbe609
+73683fa9,Diego López,13,ESP,GK,38-248,90,0,0,0,0,0,0,0,0,30,0,0,0,0.0,0.0,0.0,0,0,13,28,46.4,0,14,0,0,0,Espanyol,2020-07-08 Barcelona-Espanyol,ESP-LALIGA,19-20,5fcbe609

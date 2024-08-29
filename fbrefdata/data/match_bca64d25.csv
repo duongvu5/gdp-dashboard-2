@@ -1,0 +1,38 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+83c06f3a,Lorenzo Lucca,17,ITA,FW,23-228,90,0,0,0,0,3,2,0,0,21,0,0,1,0.1,0.1,0.0,0,0,7,11,63.6,1,13,1,0,0,Udinese,2024-04-25 Udinese-Roma,ITA-SERIA_A,23-24,bca64d25
+75f2c59f,Roberto Pereyra,37,ARG,"AM,FW",33-109,90,1,0,0,0,3,1,0,0,32,1,1,0,0.4,0.4,0.0,3,1,19,25,76.0,5,21,3,1,0,Udinese,2024-04-25 Udinese-Roma,ITA-SERIA_A,23-24,bca64d25
+217c93a1,Lazar Samardzic,24,SRB,"AM,DM",22-061,90,0,0,0,0,1,0,0,0,46,0,1,0,0.0,0.0,0.2,5,0,27,38,71.1,3,25,4,2,1,Udinese,2024-04-25 Udinese-Roma,ITA-SERIA_A,23-24,bca64d25
+bdbff2b5,Martín Payero,32,ARG,"CM,DM",25-227,90,0,0,0,0,0,0,1,0,44,4,0,1,0.0,0.0,0.0,2,0,25,31,80.6,4,23,2,3,0,Udinese,2024-04-25 Udinese-Roma,ITA-SERIA_A,23-24,bca64d25
+26db8853,Walace,11,BRA,"CM,DM",29-021,90,0,0,0,0,0,0,0,0,43,2,0,2,0.0,0.0,0.0,1,0,22,32,68.8,1,13,0,0,0,Udinese,2024-04-25 Udinese-Roma,ITA-SERIA_A,23-24,bca64d25
+19a12bed,Hassane Kamara,12,CIV,WB,30-051,69,0,0,0,0,0,0,1,0,30,1,1,0,0.0,0.0,0.0,2,0,12,18,66.7,3,15,2,4,3,Udinese,2024-04-25 Udinese-Roma,ITA-SERIA_A,23-24,bca64d25
+e8271ad9,Jordan Zemura,33,ZIM,WB,24-163,21,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.1,1,0,6,8,75.0,2,4,0,0,0,Udinese,2024-04-25 Udinese-Roma,ITA-SERIA_A,23-24,bca64d25
+76b2817e,Kingsley Ehizibue,19,NED,WB,28-336,69,0,0,0,0,1,0,0,0,24,2,0,1,0.0,0.0,0.0,2,0,10,13,76.9,0,10,1,0,0,Udinese,2024-04-25 Udinese-Roma,ITA-SERIA_A,23-24,bca64d25
+fb37a645,João Ferreira,13,POR,WB,23-034,21,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,0,0,6,8,75.0,0,3,0,0,0,Udinese,2024-04-25 Udinese-Roma,ITA-SERIA_A,23-24,bca64d25
+fadf9a05,Thomas Kristensen,31,DEN,CB,22-099,90,0,0,0,0,0,0,0,0,42,0,1,3,0.0,0.0,0.0,0,0,18,27,66.7,0,16,0,0,0,Udinese,2024-04-25 Udinese-Roma,ITA-SERIA_A,23-24,bca64d25
+6fdac234,Jaka Bijol,29,SVN,CB,25-080,90,0,0,0,0,1,0,1,0,35,3,4,4,0.1,0.1,0.0,0,0,13,19,68.4,1,12,0,0,0,Udinese,2024-04-25 Udinese-Roma,ITA-SERIA_A,23-24,bca64d25
+f7c491f1,Nehuén Pérez,18,ARG,CB,23-306,89,0,0,0,0,0,0,0,0,46,5,2,5,0.0,0.0,0.0,0,0,23,29,79.3,1,17,0,0,0,Udinese,2024-04-25 Udinese-Roma,ITA-SERIA_A,23-24,bca64d25
+914ab9a1,Christian Kabasele,27,BEL,CB,33-061,1,0,0,0,0,0,0,0,0,1,0,0,1,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Udinese,2024-04-25 Udinese-Roma,ITA-SERIA_A,23-24,bca64d25
+ab5c36dd,Maduka Okoye,40,NGA,GK,24-241,90,0,0,0,0,0,0,0,0,31,0,0,0,0.0,0.0,0.0,0,0,14,29,48.3,0,20,0,0,0,Udinese,2024-04-25 Udinese-Roma,ITA-SERIA_A,23-24,bca64d25
+5eae500a,Romelu Lukaku,90,BEL,FW,30-348,71,1,0,0,0,4,1,0,0,30,2,0,0,0.5,0.5,0.0,1,0,13,18,72.2,1,13,1,0,0,Roma,2024-04-25 Udinese-Roma,ITA-SERIA_A,23-24,bca64d25
+f586779e,Tammy Abraham,9,ENG,FW,26-206,19,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,2,2,0,1,0,Roma,2024-04-25 Udinese-Roma,ITA-SERIA_A,23-24,bca64d25
+102e2599,Tommaso Baldanzi,35,ITA,FW,21-033,71,0,0,0,0,3,1,1,0,47,2,0,0,0.2,0.2,0.0,3,0,35,40,87.5,5,25,4,1,1,Roma,2024-04-25 Udinese-Roma,ITA-SERIA_A,23-24,bca64d25
+10549b49,Sardar Azmoun,17,IRN,AM,29-115,19,0,0,0,0,1,1,0,0,5,0,0,2,0.1,0.1,0.0,1,0,1,3,33.3,1,2,0,0,0,Roma,2024-04-25 Udinese-Roma,ITA-SERIA_A,23-24,bca64d25
+a5db0bec,Houssem Aouar,22,ALG,DM,25-300,52,0,0,0,0,1,0,0,0,38,0,0,0,0.1,0.1,0.0,0,0,28,34,82.4,2,21,0,1,1,Roma,2024-04-25 Udinese-Roma,ITA-SERIA_A,23-24,bca64d25
+e0921a4f,Paulo Dybala,21,ARG,"RW,DM",30-162,38,0,1,0,0,2,0,0,0,27,0,0,0,0.2,0.2,0.3,5,1,17,21,81.0,2,17,1,3,1,Roma,2024-04-25 Udinese-Roma,ITA-SERIA_A,23-24,bca64d25
+dff153a4,Leandro Paredes,16,ARG,DM,29-301,71,0,0,0,0,2,1,0,0,108,1,1,0,0.0,0.0,0.0,1,0,95,104,91.3,9,58,1,0,0,Roma,2024-04-25 Udinese-Roma,ITA-SERIA_A,23-24,bca64d25
+4a5a45c7,Lorenzo Pellegrini,7,ITA,DM,27-311,19,0,0,0,0,3,0,0,0,13,1,1,0,0.1,0.1,0.0,1,1,6,8,75.0,2,8,1,1,1,Roma,2024-04-25 Udinese-Roma,ITA-SERIA_A,23-24,bca64d25
+16657b95,Bryan Cristante,4,ITA,DM,29-053,90,1,1,0,0,3,1,0,0,89,2,1,2,0.3,0.3,0.3,3,1,61,78,78.2,8,49,3,0,0,Roma,2024-04-25 Udinese-Roma,ITA-SERIA_A,23-24,bca64d25
+30941e96,Angeliño,69,ESP,"WB,LW",27-112,90,0,0,0,0,0,0,0,0,87,2,1,1,0.0,0.0,0.2,2,0,56,76,73.7,10,45,1,3,0,Roma,2024-04-25 Udinese-Roma,ITA-SERIA_A,23-24,bca64d25
+45191c29,Nicola Zalewski,59,POL,WB,22-093,71,0,0,0,0,0,0,0,0,38,2,0,0,0.0,0.0,0.1,5,0,30,35,85.7,2,17,2,2,1,Roma,2024-04-25 Udinese-Roma,ITA-SERIA_A,23-24,bca64d25
+b6964eb6,Chris Smalling,6,ENG,CB,34-155,16,0,0,0,0,0,0,0,0,17,0,0,0,0.0,0.0,0.0,1,0,12,16,75.0,0,12,0,0,0,Roma,2024-04-25 Udinese-Roma,ITA-SERIA_A,23-24,bca64d25
+bba30585,Diego Llorente,14,ESP,CB,30-253,,0,0,0,0,0,0,0,0,60,1,0,0,0.0,0.0,0.0,1,1,48,55,87.3,3,25,1,0,0,Roma,2024-04-25 Udinese-Roma,ITA-SERIA_A,23-24,bca64d25
+5aa53281,Gianluca Mancini,23,ITA,CB,28-008,19,0,0,0,0,0,0,0,0,31,0,0,1,0.0,0.0,0.0,1,0,23,28,82.1,2,22,0,0,0,Roma,2024-04-25 Udinese-Roma,ITA-SERIA_A,23-24,bca64d25
+441197b8,Obite N'Dicka,5,CIV,CB,24-249,71,0,0,0,0,0,0,0,0,77,1,1,0,0.0,0.0,0.0,1,0,68,72,94.4,7,46,3,0,0,Roma,2024-04-25 Udinese-Roma,ITA-SERIA_A,23-24,bca64d25
+3626daea,Leonardo Spinazzola,37,ITA,LB,31-031,19,0,0,0,0,0,0,0,0,22,0,0,0,0.0,0.0,0.0,0,0,18,21,85.7,2,15,2,1,1,Roma,2024-04-25 Udinese-Roma,ITA-SERIA_A,23-24,bca64d25
+87278bce,Dean Huijsen,3,ESP,CB,19-011,52,0,0,0,0,0,0,0,0,81,2,0,0,0.0,0.0,0.0,0,0,71,77,92.2,4,42,0,0,0,Roma,2024-04-25 Udinese-Roma,ITA-SERIA_A,23-24,bca64d25
+9f84febe,Rick Karsdorp,2,NED,"RB,CB",29-074,37,0,0,0,0,0,0,1,0,25,0,0,1,0.0,0.0,0.0,1,0,19,21,90.5,1,12,0,2,1,Roma,2024-04-25 Udinese-Roma,ITA-SERIA_A,23-24,bca64d25
+d3aaad90,Stephan El Shaarawy,92,ITA,RB,31-181,1,0,0,0,0,0,0,0,0,3,0,1,0,0.0,0.0,0.0,0,0,2,2,100.0,0,3,0,0,0,Roma,2024-04-25 Udinese-Roma,ITA-SERIA_A,23-24,bca64d25
+bba30585,Diego Llorente,14,ESP,CB,30-253,,0,0,0,0,0,0,0,0,60,1,0,0,0.0,0.0,0.0,1,1,48,55,87.3,3,25,1,0,0,Roma,2024-04-25 Udinese-Roma,ITA-SERIA_A,23-24,bca64d25
+5aa53281,Gianluca Mancini,23,ITA,CB,28-008,19,0,0,0,0,0,0,0,0,31,0,0,1,0.0,0.0,0.0,1,0,23,28,82.1,2,22,0,0,0,Roma,2024-04-25 Udinese-Roma,ITA-SERIA_A,23-24,bca64d25
+bcf5058a,Mile Svilar,99,SRB,GK,24-242,90,0,0,0,0,0,0,0,0,24,0,0,0,0.0,0.0,0.0,0,0,22,22,100.0,0,13,0,0,0,Roma,2024-04-25 Udinese-Roma,ITA-SERIA_A,23-24,bca64d25

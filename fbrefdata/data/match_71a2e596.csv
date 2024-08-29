@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+5d4f7d61,Patrik Schick,14,CZE,FW,22-307,90,0,0,0,0,3,2,0,0,26,1,0,0,0.6,0.6,0.0,5,0,12,16,75.0,1,12,0,2,1,Roma,2018-11-27 Roma-Real Madrid,UCL,18-19,71a2e596
+d3aaad90,Stephan El Shaarawy,92,ITA,LW,26-031,21,0,0,0,0,0,0,0,0,8,0,1,0,0.0,0.0,0.0,0,0,6,7,85.7,0,9,0,1,1,Roma,2018-11-27 Roma-Real Madrid,UCL,18-19,71a2e596
+4c3a6744,Justin Kluivert,34,NED,LW,19-206,69,0,0,0,0,2,1,0,0,26,1,0,1,0.1,0.1,0.0,0,0,9,14,64.3,0,15,3,2,1,Roma,2018-11-27 Roma-Real Madrid,UCL,18-19,71a2e596
+1880614f,Cengiz Ünder,17,TUR,"RW,AM",21-136,90,0,0,0,0,1,0,0,0,44,0,0,0,0.6,0.6,0.1,2,0,19,37,51.4,7,28,1,3,1,Roma,2018-11-27 Roma-Real Madrid,UCL,18-19,71a2e596
+9907b1c8,Nicolò Zaniolo,22,ITA,AM,19-148,68,0,0,0,0,1,0,1,0,25,2,0,2,0.1,0.1,1.3,3,0,15,18,83.3,1,11,0,2,2,Roma,2018-11-27 Roma-Real Madrid,UCL,18-19,71a2e596
+9f84febe,Rick Karsdorp,2,NED,RB,23-289,22,0,0,0,0,0,0,0,0,19,1,1,0,0.0,0.0,0.0,1,0,13,17,76.5,1,9,1,0,0,Roma,2018-11-27 Roma-Real Madrid,UCL,18-19,71a2e596
+c7526c18,Steven Nzonzi,42,FRA,DM,29-347,63,0,0,0,0,1,0,0,0,39,3,0,1,0.0,0.0,0.0,2,0,27,33,81.8,5,23,0,0,0,Roma,2018-11-27 Roma-Real Madrid,UCL,18-19,71a2e596
+2d3f7367,Ante Ćorić,19,CRO,DM,21-227,27,0,0,0,0,1,0,0,0,15,0,0,0,0.0,0.0,0.0,0,0,11,13,84.6,2,9,0,0,0,Roma,2018-11-27 Roma-Real Madrid,UCL,18-19,71a2e596
+16657b95,Bryan Cristante,4,ITA,DM,23-269,90,0,0,0,0,0,0,0,0,53,1,3,3,0.0,0.0,0.1,4,0,36,44,81.8,6,37,1,0,0,Roma,2018-11-27 Roma-Real Madrid,UCL,18-19,71a2e596
+eda40760,Aleksandar Kolarov,11,SRB,LB,33-017,90,0,0,0,0,5,2,0,0,75,2,0,0,0.2,0.2,0.1,3,0,45,64,70.3,2,43,5,3,2,Roma,2018-11-27 Roma-Real Madrid,UCL,18-19,71a2e596
+4e358a2d,Federico Fazio,20,ARG,CB,31-255,90,0,0,0,0,2,0,0,0,63,3,2,2,0.7,0.7,0.0,3,0,41,51,80.4,3,33,0,0,0,Roma,2018-11-27 Roma-Real Madrid,UCL,18-19,71a2e596
+c707411f,Kostas Manolas,44,GRE,CB,27-166,90,0,0,0,0,0,0,0,0,46,0,1,1,0.0,0.0,0.0,0,0,37,38,97.4,2,31,1,0,0,Roma,2018-11-27 Roma-Real Madrid,UCL,18-19,71a2e596
+e288d4b3,Alessandro Florenzi,24,ITA,"RB,RW",27-261,90,0,0,0,0,1,0,0,0,58,2,2,0,0.0,0.0,0.1,3,0,38,48,79.2,6,28,2,3,1,Roma,2018-11-27 Roma-Real Madrid,UCL,18-19,71a2e596
+e7ee38c3,Robin Olsen,1,SWE,GK,28-323,90,0,0,0,0,0,0,0,0,47,0,0,0,0.0,0.0,0.0,1,0,36,45,80.0,0,22,0,0,0,Roma,2018-11-27 Roma-Real Madrid,UCL,18-19,71a2e596
+70d74ece,Karim Benzema,9,FRA,FW,30-343,76,0,1,0,0,1,1,0,0,41,0,0,0,0.1,0.1,0.8,2,1,30,35,85.7,5,26,2,4,4,Real Madrid,2018-11-27 Roma-Real Madrid,UCL,18-19,71a2e596
+5c4dc0ff,Mariano,7,DOM,FW,25-118,14,0,0,0,0,0,0,0,0,6,0,0,1,0.0,0.0,0.0,0,0,3,3,100.0,1,4,0,0,0,Real Madrid,2018-11-27 Roma-Real Madrid,UCL,18-19,71a2e596
+a58bb1e1,Gareth Bale,11,WAL,LW,29-134,83,1,0,0,0,2,2,0,0,63,1,0,0,0.5,0.5,0.1,4,1,44,51,86.3,3,40,5,2,1,Real Madrid,2018-11-27 Roma-Real Madrid,UCL,18-19,71a2e596
+45af8a54,Marco Asensio,20,ESP,LW,22-310,7,0,0,0,0,0,0,0,0,8,0,1,0,0.0,0.0,0.1,1,0,6,6,100.0,1,5,3,2,2,Real Madrid,2018-11-27 Roma-Real Madrid,UCL,18-19,71a2e596
+fd51b456,Lucas Vázquez,17,ESP,RW,27-149,90,1,0,0,0,1,1,0,0,55,2,0,0,0.8,0.8,0.1,2,0,33,44,75.0,6,37,8,0,0,Real Madrid,2018-11-27 Roma-Real Madrid,UCL,18-19,71a2e596
+6ce1f46f,Toni Kroos,8,GER,LM,28-327,90,0,0,0,0,1,1,0,0,91,3,2,3,0.0,0.0,0.2,6,0,69,81,85.2,10,53,6,0,0,Real Madrid,2018-11-27 Roma-Real Madrid,UCL,18-19,71a2e596
+02c15616,Marcos Llorente,18,ESP,CM,23-301,90,0,0,0,0,1,0,0,0,60,1,1,0,0.0,0.0,0.0,0,0,51,56,91.1,3,23,2,2,2,Real Madrid,2018-11-27 Roma-Real Madrid,UCL,18-19,71a2e596
+6025fab1,Luka Modrić,10,CRO,RM,33-079,79,0,0,0,0,2,1,1,0,66,0,1,1,0.1,0.1,0.0,0,0,56,61,91.8,7,50,1,2,2,Real Madrid,2018-11-27 Roma-Real Madrid,UCL,18-19,71a2e596
+0959c2a2,Federico Valverde,15,URU,RM,20-128,11,0,0,0,0,1,0,0,0,11,0,0,1,0.1,0.1,0.0,1,0,8,8,100.0,1,4,0,0,0,Real Madrid,2018-11-27 Roma-Real Madrid,UCL,18-19,71a2e596
+603116a7,Marcelo,12,BRA,LB,30-199,90,0,0,0,0,1,1,0,0,78,1,0,3,0.1,0.1,0.4,3,0,57,70,81.4,13,44,3,1,1,Real Madrid,2018-11-27 Roma-Real Madrid,UCL,18-19,71a2e596
+08511d65,Sergio Ramos,4,ESP,CB,32-242,90,0,0,0,0,0,0,0,0,77,2,4,1,0.0,0.0,0.0,0,0,54,63,85.7,1,37,0,0,0,Real Madrid,2018-11-27 Roma-Real Madrid,UCL,18-19,71a2e596
+9f8e9423,Raphaël Varane,5,FRA,CB,25-216,90,0,0,0,0,1,0,1,0,58,0,1,1,0.0,0.0,0.0,0,0,43,48,89.6,1,27,0,0,0,Real Madrid,2018-11-27 Roma-Real Madrid,UCL,18-19,71a2e596
+4958bfb2,Dani Carvajal,2,ESP,RB,26-320,90,0,0,0,0,0,0,0,0,76,2,1,2,0.0,0.0,0.0,0,0,48,65,73.8,2,30,1,0,0,Real Madrid,2018-11-27 Roma-Real Madrid,UCL,18-19,71a2e596
+1840e36d,Thibaut Courtois,25,BEL,GK,26-200,90,0,0,0,0,0,0,0,0,48,0,0,0,0.0,0.0,0.0,0,0,35,46,76.1,0,26,0,0,0,Real Madrid,2018-11-27 Roma-Real Madrid,UCL,18-19,71a2e596

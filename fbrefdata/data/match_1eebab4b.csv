@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+0b90bb97,Santi Mina,22,ESP,FW,25-363,90,0,0,0,0,3,1,0,0,41,2,0,1,0.3,0.3,0.2,0,0,15,24,62.5,1,21,1,0,0,Celta Vigo,2021-12-05 Celta Vigo-Valencia,ESP-LALIGA,21-22,1eebab4b
+7dcf86f6,Iago Aspas,10,ESP,FW,34-126,15,1,0,0,0,1,1,1,0,5,0,0,0,0.2,0.2,0.0,0,0,1,3,33.3,0,2,1,0,0,Celta Vigo,2021-12-05 Celta Vigo-Valencia,ESP-LALIGA,21-22,1eebab4b
+34269bdf,Renato Tapia,14,PER,DM,26-130,75,0,0,0,0,1,0,0,0,71,2,1,0,0.0,0.0,0.1,2,0,50,56,89.3,5,35,0,2,0,Celta Vigo,2021-12-05 Celta Vigo-Valencia,ESP-LALIGA,21-22,1eebab4b
+5e1028e5,Franco Cervi,11,ARG,LM,27-193,57,0,0,0,0,0,0,0,0,49,2,0,0,0.0,0.0,0.1,3,0,27,37,73.0,4,26,0,3,0,Celta Vigo,2021-12-05 Celta Vigo-Valencia,ESP-LALIGA,21-22,1eebab4b
+3ca6106c,Augusto Solari,21,ARG,RM,29-336,33,0,0,0,0,0,0,0,0,25,0,0,1,0.0,0.0,0.0,1,0,15,18,83.3,2,15,1,1,0,Celta Vigo,2021-12-05 Celta Vigo-Valencia,ESP-LALIGA,21-22,1eebab4b
+12c50af5,Denis Suárez,6,ESP,CM,27-333,90,0,0,0,0,2,0,0,0,95,2,0,0,0.1,0.1,0.1,8,0,64,86,74.4,12,63,6,6,3,Celta Vigo,2021-12-05 Celta Vigo-Valencia,ESP-LALIGA,21-22,1eebab4b
+c9e39d91,Brais Méndez,23,ESP,"FW,RM",24-332,90,0,1,0,0,3,2,0,0,41,1,0,0,0.3,0.3,0.2,1,1,24,32,75.0,1,23,0,0,0,Celta Vigo,2021-12-05 Celta Vigo-Valencia,ESP-LALIGA,21-22,1eebab4b
+ed5c5fa3,Fran Beltrán,8,ESP,"RM,DM",22-305,56,0,0,0,0,0,0,1,0,34,2,0,0,0.0,0.0,0.0,0,0,22,31,71.0,2,24,0,1,1,Celta Vigo,2021-12-05 Celta Vigo-Valencia,ESP-LALIGA,21-22,1eebab4b
+b2d0ec1b,Nolito,9,ESP,LM,35-051,34,0,0,0,0,0,0,1,0,19,1,0,0,0.0,0.0,0.0,1,0,8,14,57.1,2,12,0,1,1,Celta Vigo,2021-12-05 Celta Vigo-Valencia,ESP-LALIGA,21-22,1eebab4b
+a4b00319,Javi Galán,17,ESP,LB,27-016,90,0,0,0,0,0,0,0,0,79,2,3,3,0.0,0.0,0.0,3,0,44,62,71.0,2,49,6,4,3,Celta Vigo,2021-12-05 Celta Vigo-Valencia,ESP-LALIGA,21-22,1eebab4b
+27a013f7,Néstor Araujo,4,MEX,CB,30-098,73,0,0,0,0,1,1,0,0,46,1,1,0,0.0,0.0,0.0,0,0,39,43,90.7,3,28,2,1,1,Celta Vigo,2021-12-05 Celta Vigo-Valencia,ESP-LALIGA,21-22,1eebab4b
+b233e8e4,Jeison Murillo,24,COL,CB,29-192,17,0,0,0,0,0,0,0,0,15,0,0,0,0.0,0.0,0.0,0,0,13,14,92.9,2,12,1,0,0,Celta Vigo,2021-12-05 Celta Vigo-Valencia,ESP-LALIGA,21-22,1eebab4b
+18abe173,Joseph Aidoo,15,GHA,CB,26-067,90,0,0,0,0,0,0,0,0,73,1,2,0,0.0,0.0,0.0,0,0,53,62,85.5,10,47,1,0,0,Celta Vigo,2021-12-05 Celta Vigo-Valencia,ESP-LALIGA,21-22,1eebab4b
+ee923664,Kevin Vázquez,20,ESP,RB,28-257,90,0,0,0,0,0,0,0,0,73,3,3,0,0.0,0.0,0.0,0,0,47,59,79.7,2,35,0,1,1,Celta Vigo,2021-12-05 Celta Vigo-Valencia,ESP-LALIGA,21-22,1eebab4b
+b6160ad0,Matías Dituro,1,ARG,GK,34-211,90,0,0,0,0,0,0,0,0,50,0,0,0,0.0,0.0,0.0,1,0,27,49,55.1,0,25,0,0,0,Celta Vigo,2021-12-05 Celta Vigo-Valencia,ESP-LALIGA,21-22,1eebab4b
+4c2e9442,Maxi Gómez,9,URU,FW,25-113,82,1,0,0,0,2,1,1,0,23,0,0,1,0.7,0.7,0.0,4,1,10,15,66.7,0,11,0,1,1,Valencia,2021-12-05 Celta Vigo-Valencia,ESP-LALIGA,21-22,1eebab4b
+ae86d473,Marcos André,22,BRA,FW,25-046,8,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.1,1,0,4,5,80.0,1,3,1,1,1,Valencia,2021-12-05 Celta Vigo-Valencia,ESP-LALIGA,21-22,1eebab4b
+37e103f8,Hugo Duro,19,ESP,LW,22-025,83,1,0,0,0,1,1,0,0,33,3,0,1,0.4,0.4,0.0,1,1,6,11,54.5,1,15,0,1,1,Valencia,2021-12-05 Celta Vigo-Valencia,ESP-LALIGA,21-22,1eebab4b
+b51b1b9c,Yunus Musah,4,USA,LW,19-006,7,0,0,0,0,0,0,0,0,3,0,1,0,0.0,0.0,0.0,0,0,1,1,100.0,0,0,0,0,0,Valencia,2021-12-05 Celta Vigo-Valencia,ESP-LALIGA,21-22,1eebab4b
+f13d02a6,Hélder Costa,11,ANG,RW,27-327,82,0,0,0,0,1,1,0,0,28,1,0,0,0.0,0.0,0.2,1,0,8,14,57.1,2,17,2,6,1,Valencia,2021-12-05 Celta Vigo-Valencia,ESP-LALIGA,21-22,1eebab4b
+e6bc67d7,Gonçalo Guedes,7,POR,RW,25-006,8,0,0,0,0,0,0,0,0,6,1,0,0,0.0,0.0,0.0,0,0,2,4,50.0,0,4,0,0,0,Valencia,2021-12-05 Celta Vigo-Valencia,ESP-LALIGA,21-22,1eebab4b
+3a58d075,Koba Koindredi,27,FRA,CM,20-039,51,0,0,0,0,0,0,0,0,18,1,0,0,0.0,0.0,0.0,1,0,6,9,66.7,0,8,0,1,0,Valencia,2021-12-05 Celta Vigo-Valencia,ESP-LALIGA,21-22,1eebab4b
+faed84db,Uroš Račić,8,SRB,CM,23-263,39,0,0,0,0,1,0,0,0,26,1,0,1,0.1,0.1,0.0,0,0,11,18,61.1,1,8,0,0,0,Valencia,2021-12-05 Celta Vigo-Valencia,ESP-LALIGA,21-22,1eebab4b
+d83bbc54,Daniel Wass,18,DEN,CM,32-188,90,0,0,0,0,1,1,0,0,50,4,1,3,0.0,0.0,0.0,0,0,22,37,59.5,3,15,1,0,0,Valencia,2021-12-05 Celta Vigo-Valencia,ESP-LALIGA,21-22,1eebab4b
+fed17f5a,Carlos Soler,10,ESP,CM,24-337,90,0,0,0,0,1,0,0,0,46,0,0,1,0.1,0.1,0.1,3,0,20,31,64.5,2,21,1,3,2,Valencia,2021-12-05 Celta Vigo-Valencia,ESP-LALIGA,21-22,1eebab4b
+b05e2dbd,José Luis Gayà,14,ESP,LB,26-194,90,0,1,0,0,1,1,1,0,48,1,0,2,0.1,0.1,0.6,3,1,23,40,57.5,2,19,4,2,2,Valencia,2021-12-05 Celta Vigo-Valencia,ESP-LALIGA,21-22,1eebab4b
+bb08bce9,Omar Alderete,15,PAR,CB,24-344,90,0,0,0,0,0,0,0,0,50,2,2,0,0.0,0.0,0.0,0,0,10,33,30.3,1,9,0,1,1,Valencia,2021-12-05 Celta Vigo-Valencia,ESP-LALIGA,21-22,1eebab4b
+f7c12fbf,Hugo Guillamón,6,ESP,CB,21-308,90,0,0,0,0,0,0,0,0,35,0,2,1,0.0,0.0,0.0,0,0,17,27,63.0,1,13,0,1,0,Valencia,2021-12-05 Celta Vigo-Valencia,ESP-LALIGA,21-22,1eebab4b
+32c0491f,Cristiano Piccini,24,ITA,RB,29-070,72,0,0,0,0,0,0,0,0,44,4,1,0,0.0,0.0,0.0,0,0,21,35,60.0,2,16,2,1,1,Valencia,2021-12-05 Celta Vigo-Valencia,ESP-LALIGA,21-22,1eebab4b
+8e088e04,Toni Lato,3,ESP,RB,24-014,18,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,4,5,80.0,0,1,0,0,0,Valencia,2021-12-05 Celta Vigo-Valencia,ESP-LALIGA,21-22,1eebab4b
+04ac8285,Jasper Cillessen,13,NED,GK,32-227,90,0,0,0,0,0,0,0,0,23,0,0,0,0.0,0.0,0.0,0,0,11,22,50.0,0,9,0,0,0,Valencia,2021-12-05 Celta Vigo-Valencia,ESP-LALIGA,21-22,1eebab4b
