@@ -1,0 +1,29 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+4d034881,Sergio Agüero,10,ARG,FW,30-246,80,3,0,0,0,4,4,0,0,40,2,0,1,2.0,2.0,0.0,4,1,25,27,92.6,2,29,2,2,1,Manchester City,2019-02-03 Manchester City-Arsenal,ENG-EPL,18-19,dba05e48
+b66315ae,Gabriel Jesus,33,BRA,FW,21-306,10,0,0,0,0,1,1,0,0,6,0,0,1,0.1,0.1,0.0,0,0,1,2,50.0,1,4,1,0,0,Manchester City,2019-02-03 Manchester City-Arsenal,ENG-EPL,18-19,dba05e48
+b400bde0,Raheem Sterling,7,ENG,LW,24-057,90,0,1,0,0,3,1,0,0,64,2,0,6,0.1,0.1,1.7,6,2,41,50,82.0,4,44,7,5,5,Manchester City,2019-02-03 Manchester City-Arsenal,ENG-EPL,18-19,dba05e48
+3eb22ec9,Bernardo Silva,20,POR,"RW,RM",24-177,90,0,0,0,0,2,1,0,0,75,1,1,1,0.1,0.1,0.2,4,0,56,69,81.2,7,59,8,2,2,Manchester City,2019-02-03 Manchester City-Arsenal,ENG-EPL,18-19,dba05e48
+e2716bd0,David Silva,21,ESP,LM,33-026,90,0,0,0,0,2,1,0,0,68,2,0,1,0.1,0.1,0.2,5,0,52,62,83.9,9,52,8,6,4,Manchester City,2019-02-03 Manchester City-Arsenal,ENG-EPL,18-19,dba05e48
+819b3158,İlkay Gündoğan,8,GER,CM,28-102,90,0,0,0,0,0,0,1,0,79,1,3,1,0.0,0.0,0.0,1,1,55,72,76.4,7,49,1,1,1,Manchester City,2019-02-03 Manchester City-Arsenal,ENG-EPL,18-19,dba05e48
+e46012d4,Kevin De Bruyne,17,BEL,RM,27-220,87,0,0,0,0,5,3,0,0,60,0,0,1,0.3,0.3,0.0,3,0,32,48,66.7,3,42,2,6,4,Manchester City,2019-02-03 Manchester City-Arsenal,ENG-EPL,18-19,dba05e48
+892d5bb1,Riyad Mahrez,26,ALG,RW,27-347,3,0,0,0,0,1,0,0,0,9,0,1,0,0.0,0.0,0.0,0,0,5,5,100.0,1,5,0,0,0,Manchester City,2019-02-03 Manchester City-Arsenal,ENG-EPL,18-19,dba05e48
+119b9a8e,Aymeric Laporte,14,ESP,LB,24-252,90,0,1,0,0,0,0,0,0,100,2,2,1,0.0,0.0,0.3,2,1,82,90,91.1,13,71,4,0,0,Manchester City,2019-02-03 Manchester City-Arsenal,ENG-EPL,18-19,dba05e48
+0d267745,Nicolás Otamendi,30,ARG,CB,30-356,90,0,0,0,0,1,1,0,0,83,1,1,1,0.1,0.1,0.0,1,0,64,69,92.8,3,62,1,1,1,Manchester City,2019-02-03 Manchester City-Arsenal,ENG-EPL,18-19,dba05e48
+101da2b5,Fernandinho,25,BRA,CB,33-275,90,0,0,0,0,0,0,0,0,64,2,0,0,0.0,0.0,0.0,2,0,50,58,86.2,6,48,0,1,1,Manchester City,2019-02-03 Manchester City-Arsenal,ENG-EPL,18-19,dba05e48
+86dd77d1,Kyle Walker,2,ENG,RB,28-251,90,0,0,0,0,0,0,0,0,95,0,2,0,0.0,0.0,0.0,3,0,82,89,92.1,13,65,4,1,0,Manchester City,2019-02-03 Manchester City-Arsenal,ENG-EPL,18-19,dba05e48
+3bb7b8b4,Ederson,31,BRA,GK,25-170,90,0,0,0,0,0,0,0,0,21,0,0,0,0.0,0.0,0.0,0,0,17,19,89.5,0,14,0,0,0,Manchester City,2019-02-03 Manchester City-Arsenal,ENG-EPL,18-19,dba05e48
+d5dd5f1f,Pierre-Emerick Aubameyang,14,GAB,FW,29-230,90,0,0,0,0,1,0,0,0,35,1,1,1,0.0,0.0,0.0,0,0,21,28,75.0,1,18,3,2,2,Arsenal,2019-02-03 Manchester City-Arsenal,ENG-EPL,18-19,dba05e48
+9dbb75ca,Alexandre Lacazette,9,FRA,FW,27-251,90,0,0,0,0,0,0,0,0,34,0,3,2,0.0,0.0,0.1,1,0,17,29,58.6,1,14,2,1,1,Arsenal,2019-02-03 Manchester City-Arsenal,ENG-EPL,18-19,dba05e48
+3935e52e,Sead Kolašinac,31,BIH,LM,25-228,65,0,0,0,0,1,1,0,0,27,1,0,0,0.0,0.0,0.0,0,0,10,21,47.6,1,8,0,0,0,Arsenal,2019-02-03 Manchester City-Arsenal,ENG-EPL,18-19,dba05e48
+12c50af5,Denis Suárez,22,ESP,RM,25-028,25,0,0,0,0,0,0,0,0,17,0,0,0,0.0,0.0,0.0,0,0,10,11,90.9,0,11,0,4,1,Arsenal,2019-02-03 Manchester City-Arsenal,ENG-EPL,18-19,dba05e48
+5ea8ef20,Mattéo Guendouzi,29,FRA,"CM,LM",19-295,90,0,0,0,0,0,0,0,0,67,1,1,1,0.0,0.0,0.0,1,0,53,58,91.4,7,50,4,2,2,Arsenal,2019-02-03 Manchester City-Arsenal,ENG-EPL,18-19,dba05e48
+52611641,Lucas Torreira,11,URU,"CM,DM",22-357,90,0,0,0,0,1,0,1,0,64,1,3,2,0.1,0.1,0.0,2,1,45,53,84.9,3,42,1,1,0,Arsenal,2019-02-03 Manchester City-Arsenal,ENG-EPL,18-19,dba05e48
+6ca5ec4b,Alex Iwobi,17,NGA,RM,22-276,65,0,0,0,0,0,0,0,0,23,1,1,0,0.0,0.0,0.0,0,0,15,19,78.9,2,15,2,2,2,Arsenal,2019-02-03 Manchester City-Arsenal,ENG-EPL,18-19,dba05e48
+ef619b0b,Aaron Ramsey,8,WAL,AM,28-039,25,0,0,0,0,0,0,0,0,20,0,0,0,0.0,0.0,0.0,0,0,17,19,89.5,1,14,1,0,0,Arsenal,2019-02-03 Manchester City-Arsenal,ENG-EPL,18-19,dba05e48
+d4cb83cc,Nacho Monreal,18,ESP,LB,32-342,90,0,1,0,0,0,0,0,0,61,0,2,1,0.0,0.0,0.5,3,1,43,51,84.3,3,25,2,1,1,Arsenal,2019-02-03 Manchester City-Arsenal,ENG-EPL,18-19,dba05e48
+f5efb153,Laurent Koscielny,6,FRA,CB,33-146,90,1,0,0,0,1,1,0,0,49,1,2,3,0.5,0.5,0.0,0,0,32,36,88.9,3,23,0,0,0,Arsenal,2019-02-03 Manchester City-Arsenal,ENG-EPL,18-19,dba05e48
+3f2d59fe,Shkodran Mustafi,20,GER,CB,26-292,78,0,0,0,0,0,0,0,0,53,1,2,1,0.0,0.0,0.0,0,0,33,46,71.7,1,28,0,0,0,Arsenal,2019-02-03 Manchester City-Arsenal,ENG-EPL,18-19,dba05e48
+00963611,Konstantinos Mavropanos,27,GRE,CB,21-054,12,0,0,0,0,0,0,0,0,9,0,1,0,0.0,0.0,0.0,0,0,5,8,62.5,0,6,0,1,1,Arsenal,2019-02-03 Manchester City-Arsenal,ENG-EPL,18-19,dba05e48
+99b1d0e6,Stephan Lichtsteiner,12,SUI,RB,35-018,90,0,0,0,0,0,0,0,0,49,2,0,0,0.0,0.0,0.0,0,0,28,42,66.7,1,12,0,0,0,Arsenal,2019-02-03 Manchester City-Arsenal,ENG-EPL,18-19,dba05e48
+2628fd2b,Bernd Leno,19,GER,GK,26-336,90,0,0,0,0,0,0,0,0,51,0,0,0,0.0,0.0,0.0,0,0,31,44,70.5,0,22,0,0,0,Arsenal,2019-02-03 Manchester City-Arsenal,ENG-EPL,18-19,dba05e48

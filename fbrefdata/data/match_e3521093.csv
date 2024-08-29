@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+43458538,Joshua King,7,NOR,FW,29-288,90,0,0,0,0,2,0,0,0,26,1,0,0,0.1,0.1,0.8,5,0,9,14,64.3,4,19,0,2,1,Watford,2021-10-30 Watford-Southampton,ENG-EPL,21-22,e3521093
+e8832875,João Pedro,10,BRA,"AM,FW",20-034,45,0,0,0,0,0,0,1,0,23,0,1,1,0.0,0.0,0.1,1,0,11,16,68.8,3,10,1,0,0,Watford,2021-10-30 Watford-Southampton,ENG-EPL,21-22,e3521093
+6cdd8245,Tom Cleverley,8,ENG,AM,32-079,45,0,0,0,0,0,0,0,0,23,1,1,1,0.0,0.0,0.0,1,0,12,20,60.0,1,6,0,0,0,Watford,2021-10-30 Watford-Southampton,ENG-EPL,21-22,e3521093
+71b47ab9,Cucho,29,COL,"LW,LM",22-193,45,0,0,0,0,1,1,0,0,20,1,0,0,0.1,0.1,0.0,0,0,7,14,50.0,2,9,0,1,0,Watford,2021-10-30 Watford-Southampton,ENG-EPL,21-22,e3521093
+1770bd68,Ken Sema,12,SWE,"LW,LM",28-030,45,0,0,0,0,0,0,0,0,16,1,0,1,0.0,0.0,0.0,0,0,4,10,40.0,0,7,1,1,0,Watford,2021-10-30 Watford-Southampton,ENG-EPL,21-22,e3521093
+5aaef9ef,Juraj Kucka,33,SVK,"DM,CM,RB",34-246,90,0,0,0,0,3,1,1,0,49,1,0,1,0.1,0.1,0.0,2,0,22,41,53.7,5,22,1,2,2,Watford,2021-10-30 Watford-Southampton,ENG-EPL,21-22,e3521093
+2acd49b9,Moussa Sissoko,19,FRA,"DM,CM",32-075,90,0,0,0,0,0,0,0,0,45,3,4,1,0.0,0.0,0.0,3,0,30,36,83.3,5,21,2,4,4,Watford,2021-10-30 Watford-Southampton,ENG-EPL,21-22,e3521093
+bfdb33aa,Ismaila Sarr,23,SEN,"RW,RM",23-247,90,0,0,0,0,2,0,0,0,44,2,2,0,0.2,0.2,0.0,1,0,11,23,47.8,0,28,4,2,0,Watford,2021-10-30 Watford-Southampton,ENG-EPL,21-22,e3521093
+de0f152c,Adam Masina,11,MAR,LB,27-301,90,0,0,0,0,1,0,0,0,56,2,2,1,0.0,0.0,0.0,1,0,22,41,53.7,4,20,0,2,2,Watford,2021-10-30 Watford-Southampton,ENG-EPL,21-22,e3521093
+89e4b358,Craig Cathcart,15,NIR,CB,32-266,90,0,0,0,0,0,0,0,0,45,0,2,4,0.0,0.0,0.0,0,0,24,30,80.0,2,15,0,0,0,Watford,2021-10-30 Watford-Southampton,ENG-EPL,21-22,e3521093
+7ed4921e,William Troost-Ekong,5,NGA,CB,28-059,90,0,0,0,0,0,0,0,0,36,1,0,1,0.0,0.0,0.0,1,0,18,29,62.1,2,16,0,0,0,Watford,2021-10-30 Watford-Southampton,ENG-EPL,21-22,e3521093
+3631ad41,Jeremy Ngakia,2,ENG,RB,21-053,81,0,0,0,0,0,0,0,0,43,2,0,2,0.0,0.0,0.0,0,0,29,36,80.6,5,15,1,2,1,Watford,2021-10-30 Watford-Southampton,ENG-EPL,21-22,e3521093
+eeb6551f,Ashley Fletcher,17,ENG,FW,26-028,9,0,0,0,0,1,1,0,0,2,0,0,0,0.6,0.6,0.0,1,0,0,1,0.0,0,1,0,0,0,Watford,2021-10-30 Watford-Southampton,ENG-EPL,21-22,e3521093
+d0b3ceb9,Ben Foster,1,ENG,GK,38-210,90,0,0,0,0,0,0,0,0,40,0,0,0,0.0,0.0,0.0,2,0,21,40,52.5,0,24,0,0,0,Watford,2021-10-30 Watford-Southampton,ENG-EPL,21-22,e3521093
+f2bf1b0f,Che Adams,10,SCO,FW,25-109,90,1,0,0,0,2,1,0,0,32,0,0,1,0.6,0.6,0.1,0,0,10,20,50.0,0,14,1,0,0,Southampton,2021-10-30 Watford-Southampton,ENG-EPL,21-22,e3521093
+68c720b5,Adam Armstrong,9,ENG,"FW,RM",24-262,90,0,1,0,0,6,0,0,0,31,0,0,0,0.9,0.9,0.6,3,1,13,22,59.1,5,15,2,3,1,Southampton,2021-10-30 Watford-Southampton,ENG-EPL,21-22,e3521093
+ab651565,Nathan Redmond,11,ENG,LM,27-238,90,0,0,0,0,1,0,0,0,51,1,1,3,0.0,0.0,0.2,3,0,24,40,60.0,8,29,5,2,1,Southampton,2021-10-30 Watford-Southampton,ENG-EPL,21-22,e3521093
+4b511457,Oriol Romeu,6,ESP,CM,30-036,89,0,0,0,0,1,0,0,0,66,1,1,0,0.1,0.1,0.1,4,0,46,60,76.7,7,27,1,0,0,Southampton,2021-10-30 Watford-Southampton,ENG-EPL,21-22,e3521093
+b5bf1770,Lyanco,4,BRA,CB,24-271,1,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,0,0,0,0,Southampton,2021-10-30 Watford-Southampton,ENG-EPL,21-22,e3521093
+3515d404,James Ward-Prowse,8,ENG,CM,26-363,79,0,0,0,0,0,0,1,0,71,2,1,0,0.0,0.0,0.1,3,0,50,66,75.8,9,22,0,0,0,Southampton,2021-10-30 Watford-Southampton,ENG-EPL,21-22,e3521093
+11ff3d56,Ibrahima Diallo,27,FRA,CM,22-236,11,0,0,0,0,0,0,0,0,8,1,0,0,0.0,0.0,0.0,0,0,2,5,40.0,0,3,0,0,0,Southampton,2021-10-30 Watford-Southampton,ENG-EPL,21-22,e3521093
+68dc0dac,Mohamed Elyounoussi,24,NOR,RM,27-087,69,0,0,0,0,1,0,0,0,27,2,1,1,0.0,0.0,0.1,1,0,11,20,55.0,2,10,0,2,1,Southampton,2021-10-30 Watford-Southampton,ENG-EPL,21-22,e3521093
+97333cf5,Stuart Armstrong,17,SCO,"RM,CM",29-214,21,0,0,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.0,0,0,3,10,30.0,1,5,2,0,0,Southampton,2021-10-30 Watford-Southampton,ENG-EPL,21-22,e3521093
+984a5a64,Kyle Walker-Peters,2,ENG,LB,24-200,90,0,0,0,0,0,0,0,0,62,0,0,1,0.0,0.0,0.5,4,0,45,52,86.5,11,26,5,2,2,Southampton,2021-10-30 Watford-Southampton,ENG-EPL,21-22,e3521093
+0b33f6ad,Mohammed Salisu,22,GHA,CB,22-196,90,0,0,0,0,0,0,1,0,91,4,3,0,0.0,0.0,0.0,3,1,60,77,77.9,6,41,1,0,0,Southampton,2021-10-30 Watford-Southampton,ENG-EPL,21-22,e3521093
+4115ce4e,Jan Bednarek,35,POL,CB,25-201,90,0,0,0,0,1,0,0,0,87,1,3,0,0.1,0.1,0.0,0,0,66,78,84.6,1,44,0,0,0,Southampton,2021-10-30 Watford-Southampton,ENG-EPL,21-22,e3521093
+afed6722,Valentino Livramento,21,ENG,RB,18-352,90,0,0,0,0,0,0,0,0,52,3,2,0,0.0,0.0,0.0,0,0,27,40,67.5,1,25,4,5,2,Southampton,2021-10-30 Watford-Southampton,ENG-EPL,21-22,e3521093
+36c2ca73,Alex McCarthy,1,ENG,GK,31-331,90,0,0,0,0,0,0,0,0,41,0,0,0,0.0,0.0,0.0,0,0,32,40,80.0,0,18,0,0,0,Southampton,2021-10-30 Watford-Southampton,ENG-EPL,21-22,e3521093

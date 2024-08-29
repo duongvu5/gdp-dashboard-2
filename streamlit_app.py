@@ -608,7 +608,7 @@ def player_season_compare():
             "Passes Blocked": ['Blocks', 'Pass'],
             "Interceptions": ['Int'],
             "Tackles + Interceptions": ['Tkl+Int'],
-            "Clearances": ['Clr', ''],
+            "Clearances": ['Clr'],
             "Errors": ['Err'],
             "Touches": ['Touches', 'Touches'],
             "Touches in Defensive Penalty Area": ['Touches', 'Def Pen'],
