@@ -1,0 +1,29 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+c24dba2a,Andre Gray,18,JAM,FW,27-293,90,0,0,0,0,2,0,0,0,24,0,0,1,0.5,0.5,0.0,2,0,4,11,36.4,0,17,2,1,1,Watford,2019-04-15 Watford-Arsenal,ENG-EPL,18-19,b3f8966d
+82e34b69,Troy Deeney,9,ENG,FW,30-290,10,0,0,0,0,0,0,0,1,8,0,0,0,0.0,0.0,0.0,2,0,4,8,50.0,0,2,0,0,0,Watford,2019-04-15 Watford-Arsenal,ENG-EPL,18-19,b3f8966d
+02b29014,Abdoulaye Doucouré,16,MLI,"CM,RM",26-104,90,0,0,0,0,0,0,0,0,56,1,0,2,0.0,0.0,0.0,2,0,37,49,75.5,2,40,0,4,2,Watford,2019-04-15 Watford-Arsenal,ENG-EPL,18-19,b3f8966d
+5acc4a10,Étienne Capoue,29,FRA,CM,30-278,90,0,0,0,0,1,1,1,0,65,2,1,1,0.1,0.1,0.0,2,0,46,56,82.1,8,36,1,1,1,Watford,2019-04-15 Watford-Arsenal,ENG-EPL,18-19,b3f8966d
+a0666d3e,Will Hughes,19,ENG,"LM,CM",23-363,90,0,0,0,0,4,0,1,0,53,1,3,4,0.2,0.2,0.0,5,0,32,36,88.9,2,23,1,0,0,Watford,2019-04-15 Watford-Arsenal,ENG-EPL,18-19,b3f8966d
+de0f152c,Adam Masina,11,MAR,"LB,WB",25-103,85,0,0,0,0,1,0,0,0,43,4,0,1,0.0,0.0,0.0,1,0,23,32,71.9,0,17,0,0,0,Watford,2019-04-15 Watford-Arsenal,ENG-EPL,18-19,b3f8966d
+1770bd68,Ken Sema,12,SWE,LB,25-197,5,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,2,1,1,0,Watford,2019-04-15 Watford-Arsenal,ENG-EPL,18-19,b3f8966d
+e5d01ecf,Kiko Femenía,21,ESP,"RM,WB",28-072,58,0,0,0,0,0,0,0,0,38,2,1,2,0.0,0.0,0.0,1,0,14,29,48.3,0,22,2,1,0,Watford,2019-04-15 Watford-Arsenal,ENG-EPL,18-19,b3f8966d
+f573a8bf,Isaac Success,10,NGA,FW,23-098,32,0,0,0,0,0,0,0,0,16,0,0,0,0.0,0.0,0.5,2,0,9,14,64.3,4,12,1,1,1,Watford,2019-04-15 Watford-Arsenal,ENG-EPL,18-19,b3f8966d
+89e4b358,Craig Cathcart,15,NIR,CB,30-068,90,0,0,0,0,1,1,0,0,47,1,2,2,0.1,0.1,0.0,0,0,28,35,80.0,2,18,1,0,0,Watford,2019-04-15 Watford-Arsenal,ENG-EPL,18-19,b3f8966d
+914ab9a1,Christian Kabasele,27,BEL,CB,28-050,90,0,0,0,0,1,0,0,0,28,0,3,3,0.0,0.0,0.1,0,0,10,15,66.7,1,12,0,0,0,Watford,2019-04-15 Watford-Arsenal,ENG-EPL,18-19,b3f8966d
+45da6694,Daryl Janmaat,2,NED,"RB,CB",29-267,90,0,0,0,0,1,0,0,0,62,2,3,2,0.0,0.0,0.1,1,0,36,47,76.6,3,29,3,2,2,Watford,2019-04-15 Watford-Arsenal,ENG-EPL,18-19,b3f8966d
+d0b3ceb9,Ben Foster,26,ENG,GK,36-012,90,0,0,0,0,0,0,0,0,38,0,0,0,0.0,0.0,0.0,0,0,9,36,25.0,0,18,0,0,0,Watford,2019-04-15 Watford-Arsenal,ENG-EPL,18-19,b3f8966d
+d5dd5f1f,Pierre-Emerick Aubameyang,14,GAB,FW,29-301,90,1,0,0,0,5,1,0,0,31,0,0,1,1.2,1.2,0.0,0,0,15,22,68.2,2,11,4,1,1,Arsenal,2019-04-15 Watford-Arsenal,ENG-EPL,18-19,b3f8966d
+6ca5ec4b,Alex Iwobi,17,NGA,"LW,WB",22-347,90,0,0,0,0,3,1,0,0,82,3,0,0,0.2,0.2,1.0,14,0,58,67,86.6,13,50,8,3,1,Arsenal,2019-04-15 Watford-Arsenal,ENG-EPL,18-19,b3f8966d
+dd0daf32,Henrikh Mkhitaryan,7,ARM,"RW,WB",30-084,90,0,0,0,0,4,1,0,0,66,1,1,3,0.7,0.7,0.6,4,0,38,51,74.5,2,30,2,0,0,Arsenal,2019-04-15 Watford-Arsenal,ENG-EPL,18-19,b3f8966d
+ef619b0b,Aaron Ramsey,8,WAL,"AM,DM",28-110,67,0,0,0,0,3,0,0,0,75,2,0,0,0.1,0.1,0.1,5,0,60,66,90.9,8,42,4,1,0,Arsenal,2019-04-15 Watford-Arsenal,ENG-EPL,18-19,b3f8966d
+e3a5814e,Ainsley Maitland-Niles,15,ENG,RB,21-229,23,0,0,0,0,0,0,0,0,20,1,0,1,0.0,0.0,0.0,0,0,15,17,88.2,3,11,2,0,0,Arsenal,2019-04-15 Watford-Arsenal,ENG-EPL,18-19,b3f8966d
+e61b8aee,Granit Xhaka,34,SUI,"DM,CM",26-200,90,0,0,0,0,2,2,0,0,112,0,0,0,0.1,0.1,0.1,3,0,89,102,87.3,8,62,2,0,0,Arsenal,2019-04-15 Watford-Arsenal,ENG-EPL,18-19,b3f8966d
+52611641,Lucas Torreira,11,URU,DM,23-063,45,0,0,0,0,0,0,0,0,39,0,1,3,0.0,0.0,0.1,2,0,30,33,90.9,3,22,0,1,0,Arsenal,2019-04-15 Watford-Arsenal,ENG-EPL,18-19,b3f8966d
+16380240,Mesut Özil,10,GER,AM,30-182,45,0,0,0,0,1,0,0,0,28,0,0,0,0.1,0.1,0.1,3,0,21,24,87.5,1,18,4,1,0,Arsenal,2019-04-15 Watford-Arsenal,ENG-EPL,18-19,b3f8966d
+d4cb83cc,Nacho Monreal,18,ESP,"LB,CB",33-048,90,0,0,0,0,0,0,0,0,87,2,1,0,0.0,0.0,0.1,1,0,68,80,85.0,8,43,2,0,0,Arsenal,2019-04-15 Watford-Arsenal,ENG-EPL,18-19,b3f8966d
+f5efb153,Laurent Koscielny,6,FRA,CB,33-217,90,0,0,0,0,0,0,0,0,69,1,3,2,0.0,0.0,0.0,0,0,55,57,96.5,1,37,1,0,0,Arsenal,2019-04-15 Watford-Arsenal,ENG-EPL,18-19,b3f8966d
+00963611,Konstantinos Mavropanos,27,GRE,CB,21-125,58,0,0,0,0,0,0,0,0,56,0,4,1,0.0,0.0,0.0,0,0,45,47,95.7,1,30,0,0,0,Arsenal,2019-04-15 Watford-Arsenal,ENG-EPL,18-19,b3f8966d
+5ea8ef20,Mattéo Guendouzi,29,FRA,"DM,CM",20-001,32,0,0,0,0,0,0,0,0,31,0,1,1,0.0,0.0,0.0,1,0,23,28,82.1,1,19,1,2,1,Arsenal,2019-04-15 Watford-Arsenal,ENG-EPL,18-19,b3f8966d
+3f2d59fe,Shkodran Mustafi,20,GER,"RB,CB",26-363,90,0,0,0,0,1,0,0,0,84,2,4,0,0.0,0.0,0.0,1,0,53,68,77.9,5,38,1,0,0,Arsenal,2019-04-15 Watford-Arsenal,ENG-EPL,18-19,b3f8966d
+2628fd2b,Bernd Leno,19,GER,GK,27-042,90,0,0,0,0,0,0,0,0,31,0,0,0,0.0,0.0,0.0,0,0,21,28,75.0,0,15,0,0,0,Arsenal,2019-04-15 Watford-Arsenal,ENG-EPL,18-19,b3f8966d

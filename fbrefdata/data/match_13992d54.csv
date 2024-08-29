@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+136958ad,Kevin Kelsy,18,VEN,FW,19-054,64,1,0,0,0,1,1,0,0,15,1,0,0,0.1,0.1,0.0,0,0,9,9,100.0,1,10,0,0,0,Shakhtar Donetsk,2023-09-19 Shakhtar-Porto,UCL,23-24,13992d54
+415568b5,Artem Bondarenko,21,UKR,RM,23-029,26,0,0,0,0,0,0,0,0,23,0,1,0,0.0,0.0,0.0,1,0,19,23,82.6,0,22,0,0,0,Shakhtar Donetsk,2023-09-19 Shakhtar-Porto,UCL,23-24,13992d54
+03998238,Danylo Sikan,14,UKR,"LW,FW",22-156,80,0,0,0,0,0,0,1,0,21,1,0,0,0.0,0.0,0.0,1,0,11,16,68.8,2,17,2,4,1,Shakhtar Donetsk,2023-09-19 Shakhtar-Porto,UCL,23-24,13992d54
+d874b374,Eguinaldo,7,BRA,FW,19-041,10,0,0,0,0,1,0,0,0,5,1,0,0,0.0,0.0,0.0,1,0,1,2,50.0,0,3,0,1,0,Shakhtar Donetsk,2023-09-19 Shakhtar-Porto,UCL,23-24,13992d54
+adfbe1f5,Oleksandr Zubkov,11,UKR,RW,27-047,90,0,0,0,0,3,2,0,0,39,3,1,0,0.1,0.1,0.0,2,1,18,30,60.0,2,27,4,4,3,Shakhtar Donetsk,2023-09-19 Shakhtar-Porto,UCL,23-24,13992d54
+a793f5a8,Heorhiy Sudakov,10,UKR,LM,21-018,90,0,0,0,0,3,0,0,0,48,0,1,0,0.2,0.2,0.1,3,0,33,39,84.6,6,39,2,3,0,Shakhtar Donetsk,2023-09-19 Shakhtar-Porto,UCL,23-24,13992d54
+ee3519f5,Taras Stepanenko,6,UKR,CM,34-042,64,0,0,0,0,0,0,1,0,24,1,1,0,0.0,0.0,0.0,0,0,18,19,94.7,0,16,0,0,0,Shakhtar Donetsk,2023-09-19 Shakhtar-Porto,UCL,23-24,13992d54
+b0395623,Oleksii Kashchuk,90,UKR,LW,23-082,26,0,0,0,0,0,0,0,0,11,0,0,1,0.0,0.0,0.0,1,0,8,8,100.0,0,9,1,0,0,Shakhtar Donetsk,2023-09-19 Shakhtar-Porto,UCL,23-24,13992d54
+ed45a7d7,Yehor Nazaryna,29,UKR,"RM,CM",26-071,90,0,0,0,0,1,1,0,0,51,0,1,1,0.0,0.0,0.2,2,0,40,42,95.2,6,37,0,0,0,Shakhtar Donetsk,2023-09-19 Shakhtar-Porto,UCL,23-24,13992d54
+c632fa35,Novatus Dismas,25,TAN,"LB,CB",21-017,90,0,0,0,0,0,0,0,0,59,1,3,0,0.0,0.0,0.0,1,0,46,53,86.8,1,37,0,0,0,Shakhtar Donetsk,2023-09-19 Shakhtar-Porto,UCL,23-24,13992d54
+47fd5136,Yaroslav Rakitskiy,44,UKR,CB,34-047,90,0,0,0,0,0,0,0,0,78,0,0,0,0.0,0.0,0.0,1,0,64,75,85.3,1,65,0,1,0,Shakhtar Donetsk,2023-09-19 Shakhtar-Porto,UCL,23-24,13992d54
+0f422610,Stav Lemkin,3,ISR,CB,20-170,64,0,0,0,0,0,0,0,0,59,1,0,0,0.0,0.0,0.0,0,0,52,56,92.9,2,50,0,0,0,Shakhtar Donetsk,2023-09-19 Shakhtar-Porto,UCL,23-24,13992d54
+dd95af65,Irakli Azarov,16,GEO,LB,21-210,26,0,0,0,0,0,0,0,0,30,1,0,0,0.0,0.0,0.0,2,0,26,26,100.0,6,20,2,0,0,Shakhtar Donetsk,2023-09-19 Shakhtar-Porto,UCL,23-24,13992d54
+aee634bf,Yukhym Konoplia,26,UKR,RB,24-024,75,0,1,0,0,0,0,1,0,46,0,3,0,0.0,0.0,0.1,3,1,36,42,85.7,2,33,0,0,0,Shakhtar Donetsk,2023-09-19 Shakhtar-Porto,UCL,23-24,13992d54
+50f9bec6,Giorgi Gocholeishvili,13,GEO,RB,22-217,15,0,0,0,0,0,0,0,0,13,1,0,0,0.0,0.0,0.0,0,0,11,12,91.7,0,11,0,0,0,Shakhtar Donetsk,2023-09-19 Shakhtar-Porto,UCL,23-24,13992d54
+0e09dd0d,Dmytro Riznyk,31,UKR,GK,24-232,90,0,0,0,0,0,0,0,0,43,1,0,0,0.0,0.0,0.0,0,0,33,36,91.7,0,33,0,0,0,Shakhtar Donetsk,2023-09-19 Shakhtar-Porto,UCL,23-24,13992d54
+4c2a5d34,Mehdi Taremi,9,IRN,FW,31-063,90,1,0,0,0,4,2,0,0,36,1,0,2,0.9,0.9,0.1,1,0,16,22,72.7,1,26,0,1,0,Porto,2023-09-19 Shakhtar-Porto,UCL,23-24,13992d54
+5b3d1a7a,Galeno,13,BRA,LW,25-332,89,2,1,0,0,3,3,0,0,40,0,3,0,0.6,0.6,0.5,6,3,23,26,88.5,2,29,3,5,3,Porto,2023-09-19 Shakhtar-Porto,UCL,23-24,13992d54
+5ef3d210,Francisco Conceição,10,POR,"RW,LW",20-279,1,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,3,3,100.0,0,2,0,0,0,Porto,2023-09-19 Shakhtar-Porto,UCL,23-24,13992d54
+86df4d6b,André Franco,20,POR,RW,25-160,81,0,0,0,0,2,2,0,0,56,3,0,1,0.1,0.1,0.3,3,1,40,48,83.3,4,44,1,0,0,Porto,2023-09-19 Shakhtar-Porto,UCL,23-24,13992d54
+4d1c4a5d,Gonçalo Borges,70,POR,"RW,LW",22-174,9,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,4,4,100.0,0,8,0,0,0,Porto,2023-09-19 Shakhtar-Porto,UCL,23-24,13992d54
+90ba7fa6,Ivan Jaime Pajuelo,17,ESP,AM,22-358,72,0,0,0,0,1,1,0,0,35,6,0,0,0.0,0.0,0.1,3,0,22,26,84.6,3,24,2,0,0,Porto,2023-09-19 Shakhtar-Porto,UCL,23-24,13992d54
+2c56a792,Nicolás González,16,ESP,AM,21-259,18,0,0,0,0,0,0,0,0,10,3,0,0,0.0,0.0,0.1,1,0,6,6,100.0,0,4,0,0,0,Porto,2023-09-19 Shakhtar-Porto,UCL,23-24,13992d54
+577efaec,Stephen Eustáquio,6,CAN,DM,26-272,90,0,0,0,0,2,1,0,0,59,3,2,0,0.1,0.1,0.1,2,0,48,52,92.3,1,41,0,0,0,Porto,2023-09-19 Shakhtar-Porto,UCL,23-24,13992d54
+9ffb2ce6,Alan Varela,22,ARG,DM,22-077,90,0,0,0,0,1,0,0,0,42,0,0,0,0.0,0.0,0.0,1,0,33,36,91.7,3,30,0,0,0,Porto,2023-09-19 Shakhtar-Porto,UCL,23-24,13992d54
+24051310,Zaidu Sanusi,12,NGA,LB,26-098,45,0,0,0,0,0,0,0,0,23,1,2,0,0.0,0.0,0.0,0,0,14,20,70.0,0,17,0,1,1,Porto,2023-09-19 Shakhtar-Porto,UCL,23-24,13992d54
+f9acca3a,Wendell,18,BRA,LB,30-061,45,0,0,0,0,0,0,0,0,47,0,0,2,0.0,0.0,0.0,1,0,39,41,95.1,3,35,2,3,1,Porto,2023-09-19 Shakhtar-Porto,UCL,23-24,13992d54
+3ce20eda,David Carmo,4,ANG,CB,24-062,90,0,0,0,0,0,0,1,0,87,1,0,0,0.0,0.0,0.0,0,0,75,82,91.5,7,73,0,0,0,Porto,2023-09-19 Shakhtar-Porto,UCL,23-24,13992d54
+c906ce0f,Pepe,3,POR,CB,40-205,90,0,0,0,0,0,0,0,0,112,4,1,2,0.0,0.0,0.0,0,0,98,104,94.2,3,95,1,0,0,Porto,2023-09-19 Shakhtar-Porto,UCL,23-24,13992d54
+82a39b66,João Mário Lopes,23,POR,RB,23-259,72,0,0,0,0,0,0,1,0,44,1,0,0,0.0,0.0,0.1,5,0,32,38,84.2,4,33,2,5,4,Porto,2023-09-19 Shakhtar-Porto,UCL,23-24,13992d54
+c8d1c3a5,Jorge Eduardo Sánchez,15,MEX,RB,25-283,18,0,0,0,0,0,0,0,0,17,0,0,0,0.0,0.0,0.0,1,0,11,14,78.6,0,10,0,0,0,Porto,2023-09-19 Shakhtar-Porto,UCL,23-24,13992d54
+93fffbcf,Diogo Costa,99,POR,GK,24-000,90,0,0,0,0,0,0,0,0,43,0,0,0,0.0,0.0,0.0,0,0,40,40,100.0,0,36,0,0,0,Porto,2023-09-19 Shakhtar-Porto,UCL,23-24,13992d54

@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+9a104dee,Cenk Tosun,14,TUR,FW,27-086,90,0,0,0,0,2,0,0,0,21,0,0,2,0.3,0.3,0.0,2,0,10,15,66.7,0,16,1,0,0,Everton,2018-09-01 Everton-Huddersfield,ENG-EPL,18-19,a3a1e07f
+59e6e5bf,Dominic Calvert-Lewin,29,ENG,"LW,LM",21-169,90,1,0,0,0,3,1,0,0,37,2,1,1,0.3,0.3,0.0,0,0,11,20,55.0,0,23,3,2,0,Everton,2018-09-01 Everton-Huddersfield,ENG-EPL,18-19,a3a1e07f
+1ecb65be,Theo Walcott,11,ENG,RW,29-169,56,0,0,0,0,2,0,0,0,26,0,0,1,0.1,0.1,0.1,3,0,14,20,70.0,1,21,0,3,1,Everton,2018-09-01 Everton-Huddersfield,ENG-EPL,18-19,a3a1e07f
+7c104bb7,Ademola Lookman,31,NGA,"RM,RW",20-316,34,0,0,0,0,0,0,0,0,18,1,0,0,0.0,0.0,0.0,0,0,11,13,84.6,2,17,1,1,0,Everton,2018-09-01 Everton-Huddersfield,ENG-EPL,18-19,a3a1e07f
+76dd1480,Gylfi Sigurðsson,10,ISL,AM,28-358,75,0,0,0,0,0,0,0,0,27,2,1,3,0.0,0.0,0.1,2,0,10,16,62.5,0,14,0,0,0,Everton,2018-09-01 Everton-Huddersfield,ENG-EPL,18-19,a3a1e07f
+af721f98,Oumar Niasse,19,SEN,"FW,AM",28-136,15,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.2,1,0,2,4,50.0,1,6,0,2,0,Everton,2018-09-01 Everton-Huddersfield,ENG-EPL,18-19,a3a1e07f
+51b41c5c,Morgan Schneiderlin,18,FRA,"DM,CM",28-297,90,0,0,0,0,0,0,1,0,84,2,2,0,0.0,0.0,0.0,2,0,69,74,93.2,10,62,2,0,0,Everton,2018-09-01 Everton-Huddersfield,ENG-EPL,18-19,a3a1e07f
+9228b07c,Tom Davies,26,ENG,"DM,CM",20-063,90,0,0,0,0,0,0,1,0,66,2,0,1,0.0,0.0,0.0,2,0,52,59,88.1,4,47,2,0,0,Everton,2018-09-01 Everton-Huddersfield,ENG-EPL,18-19,a3a1e07f
+1b84dbe1,Lucas Digne,12,FRA,LB,25-043,75,0,1,0,0,0,0,0,0,65,0,0,2,0.0,0.0,0.3,3,1,47,60,78.3,5,38,2,2,1,Everton,2018-09-01 Everton-Huddersfield,ENG-EPL,18-19,a3a1e07f
+b18095b6,Leighton Baines,3,ENG,LB,33-264,15,0,0,0,0,0,0,0,0,15,0,0,0,0.0,0.0,0.1,2,0,12,15,80.0,3,8,0,0,0,Everton,2018-09-01 Everton-Huddersfield,ENG-EPL,18-19,a3a1e07f
+ce4246f5,Kurt Zouma,5,FRA,CB,23-309,90,0,0,0,0,2,0,0,0,78,0,1,0,0.1,0.1,0.0,1,1,62,69,89.9,9,53,1,0,0,Everton,2018-09-01 Everton-Huddersfield,ENG-EPL,18-19,a3a1e07f
+d0042ab9,Mason Holgate,2,ENG,CB,21-314,90,0,0,0,0,0,0,1,0,78,2,1,1,0.0,0.0,0.0,1,0,55,63,87.3,13,49,1,1,1,Everton,2018-09-01 Everton-Huddersfield,ENG-EPL,18-19,a3a1e07f
+0420d84f,Séamus Coleman,23,IRL,RB,29-325,90,0,0,0,0,2,0,0,0,72,4,2,0,0.1,0.1,0.0,1,0,41,57,71.9,0,39,2,0,0,Everton,2018-09-01 Everton-Huddersfield,ENG-EPL,18-19,a3a1e07f
+4806ec67,Jordan Pickford,1,ENG,GK,24-178,90,0,0,0,0,0,0,0,0,28,0,0,0,0.0,0.0,0.0,0,0,15,28,53.6,0,15,0,0,0,Everton,2018-09-01 Everton-Huddersfield,ENG-EPL,18-19,a3a1e07f
+19ba6c6d,Steve Mounié,24,BEN,FW,23-337,89,0,0,0,0,3,3,0,0,46,4,0,0,0.1,0.1,0.1,2,0,17,27,63.0,1,23,0,0,0,Huddersfield Town,2018-09-01 Everton-Huddersfield,ENG-EPL,18-19,a3a1e07f
+aa5859cb,Laurent Depoitre,20,BEL,FW,29-268,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Huddersfield Town,2018-09-01 Everton-Huddersfield,ENG-EPL,18-19,a3a1e07f
+1931bde9,Rajiv van La Parra,17,NED,LM,27-089,90,0,0,0,0,1,0,0,0,40,3,1,0,0.1,0.1,0.1,2,0,21,25,84.0,1,29,3,4,1,Huddersfield Town,2018-09-01 Everton-Huddersfield,ENG-EPL,18-19,a3a1e07f
+d328a254,Philip Billing,8,DEN,CM,22-082,90,1,0,0,0,2,1,1,0,75,5,3,3,0.1,0.1,0.0,3,0,35,55,63.6,4,25,3,2,2,Huddersfield Town,2018-09-01 Everton-Huddersfield,ENG-EPL,18-19,a3a1e07f
+47b7e3af,Aaron Mooy,10,AUS,CM,27-351,90,0,0,0,0,2,1,0,0,57,4,3,0,0.1,0.1,0.0,2,1,38,44,86.4,4,30,0,1,1,Huddersfield Town,2018-09-01 Everton-Huddersfield,ENG-EPL,18-19,a3a1e07f
+65585e3a,Adama Diakhaby,11,FRA,RM,22-058,59,0,0,0,0,0,0,0,0,15,1,0,1,0.0,0.0,0.0,0,0,6,12,50.0,0,13,2,3,2,Huddersfield Town,2018-09-01 Everton-Huddersfield,ENG-EPL,18-19,a3a1e07f
+5bddccc9,Elias Kachunga,9,COD,RM,26-132,31,0,0,0,0,1,1,0,0,12,1,0,0,0.0,0.0,0.0,0,0,8,9,88.9,1,7,2,0,0,Huddersfield Town,2018-09-01 Everton-Huddersfield,ENG-EPL,18-19,a3a1e07f
+c6896eab,Chris Löwe,15,GER,LB,29-138,90,0,0,0,0,0,0,0,0,54,1,2,0,0.0,0.0,0.0,1,1,33,47,70.2,1,15,0,0,0,Huddersfield Town,2018-09-01 Everton-Huddersfield,ENG-EPL,18-19,a3a1e07f
+1f9a3a04,Terence Kongolo,5,NED,CB,24-199,90,0,0,0,0,0,0,0,0,53,0,7,0,0.0,0.0,0.1,1,0,30,39,76.9,0,25,0,1,1,Huddersfield Town,2018-09-01 Everton-Huddersfield,ENG-EPL,18-19,a3a1e07f
+8ae9869d,Christopher Schindler,26,GER,CB,28-125,90,0,0,0,0,0,0,0,0,34,0,0,1,0.0,0.0,0.0,0,0,25,31,80.6,1,11,0,0,0,Huddersfield Town,2018-09-01 Everton-Huddersfield,ENG-EPL,18-19,a3a1e07f
+0db5d2c8,Mathias Jørgensen,25,DEN,CB,28-131,90,0,0,0,0,0,0,1,0,41,6,1,0,0.0,0.0,0.0,0,0,23,30,76.7,1,17,0,0,0,Huddersfield Town,2018-09-01 Everton-Huddersfield,ENG-EPL,18-19,a3a1e07f
+9aa186b2,Florent Hadergjonaj,33,KVX,RB,24-032,75,0,0,0,0,0,0,1,0,30,2,0,0,0.0,0.0,0.0,1,0,13,24,54.2,3,17,2,1,0,Huddersfield Town,2018-09-01 Everton-Huddersfield,ENG-EPL,18-19,a3a1e07f
+cf623c78,Erik Durm,37,GER,RB,26-112,15,0,0,0,0,0,0,0,0,16,3,0,0,0.0,0.0,0.0,0,0,2,12,16.7,0,3,1,0,0,Huddersfield Town,2018-09-01 Everton-Huddersfield,ENG-EPL,18-19,a3a1e07f
+939bc634,Jonas Lössl,1,DEN,GK,29-212,90,0,0,0,0,0,0,0,0,33,0,0,0,0.0,0.0,0.0,1,0,21,33,63.6,0,12,0,0,0,Huddersfield Town,2018-09-01 Everton-Huddersfield,ENG-EPL,18-19,a3a1e07f

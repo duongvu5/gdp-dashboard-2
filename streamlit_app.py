@@ -410,7 +410,7 @@ def player_season_compare():
             "npxG/90": ["Per 90 Minutes", "npxG"],
             "npxG+xAG/90": ["Per 90 Minutes", "npxG+xAG"],
 
-            "Key Passes": ['KP', ''],
+            "Key Passes": ['KP'],
             "Through Balls": ['Pass Types', 'TB'],
             "Shot-Creating Actions": ['SCA', 'SCA'],
             "Goal-Creating Actions": ['GCA', 'GCA'],
@@ -450,9 +450,9 @@ def player_season_compare():
             "Expected Assists": ['Expected', 'xA'],
             "Assists minus xAG": ['Expected', 'A-xAG'],
 
-            "Passes into Final Third": ['1/3', ''],
-            "Passes into Penalty Area": ['PPA', ''],
-            "Crosses into Penalty Area": ['CrsPA', ''],
+            "Passes into Final Third": ['1/3'],
+            "Passes into Penalty Area": ['PPA'],
+            "Crosses into Penalty Area": ['CrsPA'],
 
             "Live Passes": ['Pass Types', 'Live'],
             "Dead Passes": ['Pass Types', 'Dead'],
@@ -501,10 +501,10 @@ def player_season_compare():
             "Shots Blocked": ['Blocks', 'Sh'],
             "Passes Blocked": ['Blocks', 'Pass'],
 
-            "Interceptions": ['Int', ''],
-            "Tackles + Interceptions": ['Tkl+Int', ''],
-            "Clearances": ['Clr', ''],
-            "Errors": ['Err', ''],
+            "Interceptions": ['Int'],
+            "Tackles + Interceptions": ['Tkl+Int'],
+            "Clearances": ['Clr'],
+            "Errors": ['Err'],
 
             "Touches": ['Touches', 'Touches'],
             "Touches in Defensive Penalty Area": ['Touches', 'Def Pen'],
@@ -664,7 +664,9 @@ def main():
         dest_item = os.path.join(fbrefdata_dir, item)
         
         if os.path.isdir(source_item):
-            shutil.copytree(source_item, dest_item, dirs_exist_ok=True)
+            if os.path.exists(dest_item):
+                shutil.rmtree(dest_item)
+            shutil.copytree(source_item, dest_item)
         else:
             shutil.copy2(source_item, dest_item)
     

@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+4d034881,Sergio Agüero,10,ARG,FW,30-215,90,1,0,0,0,3,2,0,0,38,1,0,1,0.4,0.4,0.0,0,0,20,24,83.3,3,27,4,2,0,Manchester City,2019-01-03 Manchester City-Liverpool,ENG-EPL,18-19,22b630df
+2b114be3,Leroy Sané,19,GER,LW,22-357,90,1,0,0,0,1,1,0,0,58,2,1,2,0.1,0.1,0.0,1,0,29,46,63.0,3,43,6,4,2,Manchester City,2019-01-03 Manchester City-Liverpool,ENG-EPL,18-19,22b630df
+b400bde0,Raheem Sterling,7,ENG,RW,24-026,90,0,1,0,0,1,0,0,0,51,1,2,0,0.1,0.1,0.6,5,1,28,38,73.7,2,35,3,9,3,Manchester City,2019-01-03 Manchester City-Liverpool,ENG-EPL,18-19,22b630df
+e2716bd0,David Silva,21,ESP,LM,32-360,64,0,0,0,0,1,0,0,0,40,0,1,2,0.1,0.1,0.0,0,0,23,36,63.9,2,24,0,0,0,Manchester City,2019-01-03 Manchester City-Liverpool,ENG-EPL,18-19,22b630df
+819b3158,İlkay Gündoğan,8,GER,DM,28-071,26,0,0,0,0,0,0,0,0,18,0,2,1,0.0,0.0,0.0,0,0,10,13,76.9,0,4,0,0,0,Manchester City,2019-01-03 Manchester City-Liverpool,ENG-EPL,18-19,22b630df
+101da2b5,Fernandinho,25,BRA,"CM,DM",33-244,90,0,0,0,0,1,0,0,0,71,4,1,0,0.0,0.0,0.0,2,1,40,56,71.4,7,28,1,0,0,Manchester City,2019-01-03 Manchester City-Liverpool,ENG-EPL,18-19,22b630df
+3eb22ec9,Bernardo Silva,20,POR,"RM,AM",24-146,90,0,1,0,0,1,1,1,0,71,3,4,1,0.4,0.4,0.1,3,1,47,57,82.5,2,40,2,4,2,Manchester City,2019-01-03 Manchester City-Liverpool,ENG-EPL,18-19,22b630df
+119b9a8e,Aymeric Laporte,14,ESP,LB,24-221,85,0,0,0,0,0,0,1,0,67,0,1,0,0.0,0.0,0.0,0,0,46,62,74.2,5,40,2,1,0,Manchester City,2019-01-03 Manchester City-Liverpool,ENG-EPL,18-19,22b630df
+86dd77d1,Kyle Walker,2,ENG,"RB,LB",28-220,5,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Manchester City,2019-01-03 Manchester City-Liverpool,ENG-EPL,18-19,22b630df
+d2bff301,Vincent Kompany,4,BEL,CB,32-268,87,0,0,0,0,0,0,1,0,88,2,1,0,0.0,0.0,0.0,0,0,71,79,89.9,4,65,0,0,0,Manchester City,2019-01-03 Manchester City-Liverpool,ENG-EPL,18-19,22b630df
+0d267745,Nicolás Otamendi,30,ARG,CB,30-325,3,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Manchester City,2019-01-03 Manchester City-Liverpool,ENG-EPL,18-19,22b630df
+5eecec3d,John Stones,5,ENG,CB,24-220,90,0,0,0,0,0,0,0,0,109,0,0,1,0.0,0.0,0.0,0,0,94,99,94.9,5,83,0,0,0,Manchester City,2019-01-03 Manchester City-Liverpool,ENG-EPL,18-19,22b630df
+94b2001f,Danilo,3,BRA,"RB,LB",27-172,90,0,0,0,0,1,0,0,0,73,1,1,0,0.0,0.0,0.0,2,1,51,66,77.3,6,39,1,1,1,Manchester City,2019-01-03 Manchester City-Liverpool,ENG-EPL,18-19,22b630df
+3bb7b8b4,Ederson,31,BRA,GK,25-139,90,0,0,0,0,0,0,1,0,45,0,0,0,0.0,0.0,0.0,0,0,34,41,82.9,0,29,0,0,0,Manchester City,2019-01-03 Manchester City-Liverpool,ENG-EPL,18-19,22b630df
+4c370d81,Roberto Firmino,9,BRA,"FW,AM,LW",27-093,90,1,0,0,0,2,2,0,0,41,1,0,1,0.8,0.8,0.0,3,0,22,32,68.8,1,23,0,2,2,Liverpool,2019-01-03 Manchester City-Liverpool,ENG-EPL,18-19,22b630df
+c691bfe2,Sadio Mané,10,SEN,"LW,RW",26-268,76,0,0,0,0,2,1,0,0,26,1,1,0,0.4,0.4,0.0,2,0,14,18,77.8,0,24,2,0,0,Liverpool,2019-01-03 Manchester City-Liverpool,ENG-EPL,18-19,22b630df
+6421ec64,Xherdan Shaqiri,23,SUI,RW,27-085,14,0,0,0,0,0,0,0,0,20,0,0,0,0.0,0.0,0.0,0,0,16,20,80.0,2,16,0,0,0,Liverpool,2019-01-03 Manchester City-Liverpool,ENG-EPL,18-19,22b630df
+e342ad68,Mohamed Salah,11,EGY,"RW,FW",26-202,90,0,0,0,0,1,1,0,0,28,0,1,0,0.1,0.1,0.4,3,0,14,20,70.0,1,24,0,3,1,Liverpool,2019-01-03 Manchester City-Liverpool,ENG-EPL,18-19,22b630df
+2f90f6b8,James Milner,7,ENG,LM,32-364,56,0,0,0,0,0,0,0,0,42,1,1,3,0.0,0.0,0.0,0,0,25,33,75.8,4,29,0,1,1,Liverpool,2019-01-03 Manchester City-Liverpool,ENG-EPL,18-19,22b630df
+7f3b388c,Fabinho,3,BRA,DM,25-072,34,0,0,0,0,0,0,0,0,36,1,0,0,0.0,0.0,0.0,0,0,26,33,78.8,2,26,1,2,1,Liverpool,2019-01-03 Manchester City-Liverpool,ENG-EPL,18-19,22b630df
+935e6b8f,Jordan Henderson,14,ENG,"CM,DM",28-200,90,0,0,0,0,0,0,0,0,80,3,0,5,0.0,0.0,0.1,1,0,61,70,87.1,3,56,0,0,0,Liverpool,2019-01-03 Manchester City-Liverpool,ENG-EPL,18-19,22b630df
+eb58eef0,Georginio Wijnaldum,5,NED,"RM,LW",28-053,85,0,0,0,0,1,0,1,0,50,2,0,0,0.1,0.1,0.0,1,0,34,41,82.9,3,34,1,4,3,Liverpool,2019-01-03 Manchester City-Liverpool,ENG-EPL,18-19,22b630df
+1b7ec703,Daniel Sturridge,15,ENG,AM,29-124,5,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,2,0,1,1,Liverpool,2019-01-03 Manchester City-Liverpool,ENG-EPL,18-19,22b630df
+2e4f5f03,Andrew Robertson,26,SCO,LB,24-298,90,0,1,0,0,0,0,0,0,71,4,1,1,0.0,0.0,0.8,1,1,51,65,78.5,5,54,2,1,1,Liverpool,2019-01-03 Manchester City-Liverpool,ENG-EPL,18-19,22b630df
+e06683ca,Virgil van Dijk,4,NED,CB,27-179,90,0,0,0,0,0,0,0,0,76,2,2,1,0.0,0.0,0.0,0,0,50,61,82.0,3,51,0,0,0,Liverpool,2019-01-03 Manchester City-Liverpool,ENG-EPL,18-19,22b630df
+1a2935f6,Dejan Lovren,6,CRO,CB,29-182,90,0,0,0,0,0,0,1,0,89,1,1,0,0.0,0.0,0.0,0,0,64,82,78.0,3,55,0,0,0,Liverpool,2019-01-03 Manchester City-Liverpool,ENG-EPL,18-19,22b630df
+cd1acf9d,Trent Alexander-Arnold,66,ENG,RB,20-088,90,0,0,0,0,1,0,0,0,101,2,3,1,0.0,0.0,0.1,2,1,68,94,72.3,5,54,3,1,1,Liverpool,2019-01-03 Manchester City-Liverpool,ENG-EPL,18-19,22b630df
+7a2e46a8,Alisson,13,BRA,GK,26-093,90,0,0,0,0,0,0,0,0,63,0,0,0,0.0,0.0,0.0,0,0,49,60,81.7,0,46,1,0,0,Liverpool,2019-01-03 Manchester City-Liverpool,ENG-EPL,18-19,22b630df

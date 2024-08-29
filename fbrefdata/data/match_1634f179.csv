@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+82e34b69,Troy Deeney,9,ENG,FW,30-180,90,0,0,0,0,2,0,0,0,36,1,1,3,0.4,0.4,0.0,1,0,17,26,65.4,2,8,0,1,1,Watford,2018-12-26 Watford-Chelsea,ENG-EPL,18-19,1634f179
+39583cfd,Gerard Deulofeu,7,ESP,"FW,RW",24-288,81,0,0,0,0,0,0,0,0,28,0,2,0,0.0,0.0,0.2,5,1,16,21,76.2,4,24,1,1,0,Watford,2018-12-26 Watford-Chelsea,ENG-EPL,18-19,1634f179
+f573a8bf,Isaac Success,10,NGA,FW,22-353,9,0,0,0,0,1,0,0,0,5,0,0,0,0.1,0.1,0.0,0,0,1,2,50.0,0,3,1,0,0,Watford,2018-12-26 Watford-Chelsea,ENG-EPL,18-19,1634f179
+75f2c59f,Roberto Pereyra,37,ARG,"AM,LW",27-353,90,1,0,0,0,1,1,0,0,46,1,0,0,0.0,0.0,0.1,2,0,36,39,92.3,2,35,4,4,1,Watford,2018-12-26 Watford-Chelsea,ENG-EPL,18-19,1634f179
+1770bd68,Ken Sema,12,SWE,AM,25-087,66,0,0,0,0,0,0,0,0,34,1,1,0,0.0,0.0,0.0,1,0,16,23,69.6,1,25,2,2,2,Watford,2018-12-26 Watford-Chelsea,ENG-EPL,18-19,1634f179
+41fb0f4e,Domingos Quina,20,POR,AM,19-038,24,0,0,0,0,0,0,0,0,15,1,0,1,0.0,0.0,0.0,1,0,10,12,83.3,0,12,1,0,0,Watford,2018-12-26 Watford-Chelsea,ENG-EPL,18-19,1634f179
+5acc4a10,Étienne Capoue,29,FRA,DM,30-168,90,0,0,0,0,0,0,0,0,70,1,3,3,0.0,0.0,0.0,0,0,50,58,86.2,3,46,2,2,2,Watford,2018-12-26 Watford-Chelsea,ENG-EPL,18-19,1634f179
+02b29014,Abdoulaye Doucouré,16,MLI,DM,25-359,90,0,0,0,0,5,1,0,0,47,2,0,1,0.7,0.7,0.3,4,0,27,31,87.1,6,27,3,2,2,Watford,2018-12-26 Watford-Chelsea,ENG-EPL,18-19,1634f179
+12aa7661,José Holebas,25,GRE,LB,34-182,90,0,1,0,0,0,0,0,0,51,3,0,0,0.0,0.0,0.1,3,1,32,45,71.1,2,21,0,0,0,Watford,2018-12-26 Watford-Chelsea,ENG-EPL,18-19,1634f179
+89e4b358,Craig Cathcart,15,NIR,CB,29-323,90,0,0,0,0,0,0,0,0,47,2,1,1,0.0,0.0,0.0,0,0,34,40,85.0,4,27,0,1,1,Watford,2018-12-26 Watford-Chelsea,ENG-EPL,18-19,1634f179
+914ab9a1,Christian Kabasele,27,BEL,CB,27-305,15,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,4,5,80.0,0,5,0,0,0,Watford,2018-12-26 Watford-Chelsea,ENG-EPL,18-19,1634f179
+8aa5f52c,Adrian Mariappa,6,JAM,CB,32-084,75,0,0,0,0,1,0,0,0,32,5,0,1,0.0,0.0,0.0,1,0,21,24,87.5,1,16,0,0,0,Watford,2018-12-26 Watford-Chelsea,ENG-EPL,18-19,1634f179
+e5d01ecf,Kiko Femenía,21,ESP,RB,27-327,90,0,0,0,0,0,0,0,0,65,1,4,0,0.0,0.0,0.0,1,0,44,56,78.6,3,34,4,1,1,Watford,2018-12-26 Watford-Chelsea,ENG-EPL,18-19,1634f179
+d0b3ceb9,Ben Foster,26,ENG,GK,35-267,90,0,0,0,0,1,0,1,0,42,0,0,0,0.0,0.0,0.0,0,0,14,37,37.8,0,20,0,0,0,Watford,2018-12-26 Watford-Chelsea,ENG-EPL,18-19,1634f179
+a39bb753,Eden Hazard,10,BEL,FW,27-353,90,2,0,1,1,2,2,0,0,67,0,0,0,1.4,0.6,0.2,4,2,40,50,80.0,7,57,7,8,6,Chelsea,2018-12-26 Watford-Chelsea,ENG-EPL,18-19,1634f179
+8b9ebd03,Willian,22,BRA,"LW,RW",30-139,90,0,0,0,0,3,1,0,0,85,4,0,0,0.2,0.2,0.2,5,0,58,67,86.6,9,42,4,6,3,Chelsea,2018-12-26 Watford-Chelsea,ENG-EPL,18-19,1634f179
+3ca7254a,Pedro,11,ESP,RW,31-151,42,0,0,0,0,1,0,0,0,38,1,0,0,0.0,0.0,0.0,1,0,26,30,86.7,5,21,3,1,0,Chelsea,2018-12-26 Watford-Chelsea,ENG-EPL,18-19,1634f179
+15f3ec41,Callum Hudson-Odoi,20,ENG,"RW,LW",18-049,42,0,0,0,0,0,0,0,0,24,0,0,0,0.0,0.0,0.0,0,0,16,21,76.2,1,18,1,1,1,Chelsea,2018-12-26 Watford-Chelsea,ENG-EPL,18-19,1634f179
+e0bc6fdc,Emerson Palmieri,33,ITA,LW,24-145,6,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,1,0,2,2,100.0,0,1,0,0,0,Chelsea,2018-12-26 Watford-Chelsea,ENG-EPL,18-19,1634f179
+79c0821a,Mateo Kovačić,17,CRO,LM,24-234,79,0,1,0,0,0,0,0,0,79,1,0,1,0.0,0.0,0.6,3,1,68,74,91.9,6,49,4,1,1,Chelsea,2018-12-26 Watford-Chelsea,ENG-EPL,18-19,1634f179
+3a24769f,Ross Barkley,8,ENG,LM,25-021,11,0,0,0,0,0,0,0,0,14,0,0,0,0.0,0.0,0.0,1,0,11,14,78.6,2,10,0,1,1,Chelsea,2018-12-26 Watford-Chelsea,ENG-EPL,18-19,1634f179
+45db685d,Jorginho,5,ITA,CM,27-006,90,0,0,0,0,1,0,0,0,101,2,0,2,0.0,0.0,0.0,1,1,84,93,90.3,8,57,0,1,1,Chelsea,2018-12-26 Watford-Chelsea,ENG-EPL,18-19,1634f179
+b9fbae28,N'Golo Kanté,7,FRA,RM,27-272,90,0,0,0,0,1,0,0,0,62,3,1,2,0.1,0.1,0.0,1,0,43,50,86.0,5,33,4,3,2,Chelsea,2018-12-26 Watford-Chelsea,ENG-EPL,18-19,1634f179
+f4290206,Marcos Alonso,3,ESP,LB,27-363,90,0,0,0,0,0,0,0,0,95,0,0,0,0.0,0.0,0.1,2,0,80,91,87.9,5,53,2,2,1,Chelsea,2018-12-26 Watford-Chelsea,ENG-EPL,18-19,1634f179
+c0e27d1a,David Luiz,30,BRA,CB,31-248,90,0,0,0,0,0,0,0,0,96,0,1,1,0.0,0.0,0.0,1,0,78,87,89.7,7,67,0,2,2,Chelsea,2018-12-26 Watford-Chelsea,ENG-EPL,18-19,1634f179
+18b896d6,Antonio Rüdiger,2,GER,CB,25-298,90,0,0,0,0,1,0,0,0,76,0,1,0,0.1,0.1,0.0,0,0,61,69,88.4,5,48,0,0,0,Chelsea,2018-12-26 Watford-Chelsea,ENG-EPL,18-19,1634f179
+53cad200,César Azpilicueta,28,ESP,RB,29-120,90,0,0,0,0,0,0,0,0,91,1,0,2,0.0,0.0,0.0,0,0,70,81,86.4,4,48,2,1,0,Chelsea,2018-12-26 Watford-Chelsea,ENG-EPL,18-19,1634f179
+28d596a0,Kepa Arrizabalaga,1,ESP,GK,24-084,90,0,0,0,0,0,0,0,0,35,0,0,0,0.0,0.0,0.0,0,0,28,34,82.4,0,22,0,0,0,Chelsea,2018-12-26 Watford-Chelsea,ENG-EPL,18-19,1634f179

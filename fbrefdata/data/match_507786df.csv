@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+4d034881,Sergio Agüero,10,ARG,FW,30-140,65,1,0,0,0,6,3,0,0,31,1,0,0,1.8,1.8,0.0,4,1,19,22,86.4,2,23,2,0,0,Manchester City,2018-10-20 Manchester City-Burnley,ENG-EPL,18-19,507786df
+b66315ae,Gabriel Jesus,33,BRA,FW,21-200,25,0,0,0,0,1,1,0,0,13,1,0,0,0.3,0.3,0.0,2,1,3,8,37.5,2,10,0,1,0,Manchester City,2018-10-20 Manchester City-Burnley,ENG-EPL,18-19,507786df
+2b114be3,Leroy Sané,19,GER,LW,22-282,90,1,0,0,0,3,1,1,0,50,2,0,0,0.5,0.5,0.2,5,3,25,37,67.6,7,40,2,5,2,Manchester City,2018-10-20 Manchester City-Burnley,ENG-EPL,18-19,507786df
+892d5bb1,Riyad Mahrez,26,ALG,RW,27-241,90,1,0,0,0,4,2,0,0,95,2,0,1,0.3,0.3,0.9,6,0,70,82,85.4,11,70,6,2,2,Manchester City,2018-10-20 Manchester City-Burnley,ENG-EPL,18-19,507786df
+e2716bd0,David Silva,21,ESP,LM,32-285,74,0,2,0,0,4,1,0,0,65,1,1,3,0.6,0.6,0.8,8,2,46,59,78.0,5,48,6,0,0,Manchester City,2018-10-20 Manchester City-Burnley,ENG-EPL,18-19,507786df
+ed1e53f3,Phil Foden,47,ENG,LM,18-145,16,0,0,0,0,1,0,0,0,17,0,0,0,0.1,0.1,0.3,1,0,13,15,86.7,2,16,1,0,0,Manchester City,2018-10-20 Manchester City-Burnley,ENG-EPL,18-19,507786df
+101da2b5,Fernandinho,25,BRA,CM,33-169,90,1,1,0,0,1,1,0,0,91,2,2,1,0.0,0.0,0.0,3,2,79,84,94.0,14,75,3,0,0,Manchester City,2018-10-20 Manchester City-Burnley,ENG-EPL,18-19,507786df
+3eb22ec9,Bernardo Silva,20,POR,RM,24-071,57,1,0,0,0,3,1,0,0,29,1,0,0,0.5,0.5,0.3,2,0,17,23,73.9,2,20,2,2,0,Manchester City,2018-10-20 Manchester City-Burnley,ENG-EPL,18-19,507786df
+e46012d4,Kevin De Bruyne,17,BEL,RM,27-114,33,0,0,0,0,1,0,0,0,35,0,0,0,0.0,0.0,0.1,1,0,25,30,83.3,4,28,2,1,0,Manchester City,2018-10-20 Manchester City-Burnley,ENG-EPL,18-19,507786df
+5271c8f1,Benjamin Mendy,22,FRA,LB,24-095,90,0,1,0,0,0,0,0,0,66,0,0,0,0.0,0.0,0.5,4,1,54,62,87.1,5,48,3,1,1,Manchester City,2018-10-20 Manchester City-Burnley,ENG-EPL,18-19,507786df
+119b9a8e,Aymeric Laporte,14,ESP,CB,24-146,90,0,0,0,0,0,0,0,0,87,3,1,0,0.0,0.0,0.0,3,0,77,82,93.9,6,69,1,0,0,Manchester City,2018-10-20 Manchester City-Burnley,ENG-EPL,18-19,507786df
+d2bff301,Vincent Kompany,4,BEL,CB,32-193,90,0,0,0,0,0,0,1,0,94,1,3,1,0.0,0.0,0.0,1,0,78,85,91.8,1,56,1,0,0,Manchester City,2018-10-20 Manchester City-Burnley,ENG-EPL,18-19,507786df
+5eecec3d,John Stones,5,ENG,RB,24-145,90,0,0,0,0,0,0,0,0,88,1,0,1,0.0,0.0,0.1,4,0,78,84,92.9,8,59,2,0,0,Manchester City,2018-10-20 Manchester City-Burnley,ENG-EPL,18-19,507786df
+3bb7b8b4,Ederson,31,BRA,GK,25-064,90,0,0,0,0,0,0,0,0,44,0,0,0,0.0,0.0,0.0,0,0,37,43,86.0,0,30,0,0,0,Manchester City,2018-10-20 Manchester City-Burnley,ENG-EPL,18-19,507786df
+1d6ac165,Sam Vokes,9,WAL,FW,28-364,68,0,0,0,0,2,0,0,0,24,0,0,0,0.2,0.2,0.0,0,0,10,17,58.8,1,7,0,0,0,Burnley,2018-10-20 Manchester City-Burnley,ENG-EPL,18-19,507786df
+4e9a0555,Chris Wood,11,NZL,FW,26-317,22,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,2,5,40.0,0,0,0,0,0,Burnley,2018-10-20 Manchester City-Burnley,ENG-EPL,18-19,507786df
+989d5705,Jeff Hendrick,13,IRL,"FW,LM",26-262,90,0,0,0,0,1,0,1,0,40,0,0,0,0.1,0.1,0.0,1,0,29,31,93.5,3,31,1,4,1,Burnley,2018-10-20 Manchester City-Burnley,ENG-EPL,18-19,507786df
+2ff964a0,Aaron Lennon,25,ENG,LM,31-187,68,0,0,0,0,1,0,0,0,17,0,0,0,0.0,0.0,0.0,1,0,12,15,80.0,1,9,1,0,0,Burnley,2018-10-20 Manchester City-Burnley,ENG-EPL,18-19,507786df
+495945ef,Ashley Westwood,18,ENG,CM,28-202,22,0,0,0,0,0,0,0,0,15,1,1,0,0.0,0.0,0.0,0,0,8,11,72.7,0,5,0,0,0,Burnley,2018-10-20 Manchester City-Burnley,ENG-EPL,18-19,507786df
+74e12f1e,Jack Cork,4,ENG,"CM,FW",29-117,90,0,0,0,0,0,0,1,0,38,2,0,1,0.0,0.0,0.0,3,0,29,31,93.5,5,17,0,2,2,Burnley,2018-10-20 Manchester City-Burnley,ENG-EPL,18-19,507786df
+73489527,Steven Defour,16,BEL,CM,30-188,74,0,0,0,0,0,0,0,0,38,3,1,1,0.0,0.0,0.0,1,0,24,33,72.7,2,15,1,0,0,Burnley,2018-10-20 Manchester City-Burnley,ENG-EPL,18-19,507786df
+2691c772,Ashley Barnes,10,ENG,FW,28-355,16,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,0,0,7,10,70.0,0,3,1,0,0,Burnley,2018-10-20 Manchester City-Burnley,ENG-EPL,18-19,507786df
+f72293fc,Jóhann Berg Guðmundsson,7,ISL,RM,27-358,90,0,0,0,0,1,0,0,0,33,1,4,1,0.0,0.0,0.2,2,0,12,19,63.2,0,20,2,1,0,Burnley,2018-10-20 Manchester City-Burnley,ENG-EPL,18-19,507786df
+cc2d7ad5,Charlie Taylor,3,ENG,LB,25-032,90,0,0,0,0,0,0,0,0,50,1,1,3,0.0,0.0,0.0,0,0,31,41,75.6,0,18,2,0,0,Burnley,2018-10-20 Manchester City-Burnley,ENG-EPL,18-19,507786df
+8df7a2fb,Ben Mee,6,ENG,CB,29-029,90,0,0,0,0,0,0,0,0,35,0,1,2,0.0,0.0,0.0,0,0,22,29,75.9,1,12,0,0,0,Burnley,2018-10-20 Manchester City-Burnley,ENG-EPL,18-19,507786df
+15ea812b,James Tarkowski,5,ENG,CB,25-335,90,0,0,0,0,0,0,0,0,44,2,2,5,0.0,0.0,0.0,0,0,20,27,74.1,2,16,0,0,0,Burnley,2018-10-20 Manchester City-Burnley,ENG-EPL,18-19,507786df
+9a9c05db,Matthew Lowton,2,ENG,RB,29-133,90,0,0,0,0,0,0,0,0,40,2,2,3,0.0,0.0,0.0,1,0,22,29,75.9,0,9,1,1,0,Burnley,2018-10-20 Manchester City-Burnley,ENG-EPL,18-19,507786df
+cb4f24c6,Joe Hart,20,ENG,GK,31-184,90,0,0,0,0,0,0,0,0,35,0,0,0,0.0,0.0,0.0,0,0,18,31,58.1,0,8,0,0,0,Burnley,2018-10-20 Manchester City-Burnley,ENG-EPL,18-19,507786df
