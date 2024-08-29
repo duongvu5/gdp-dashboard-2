@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+8d78e732,Robert Lewandowski,9,POL,FW,33-234,90,1,0,0,0,2,1,1,0,25,1,0,0,0.1,0.1,0.0,2,0,13,19,68.4,2,25,2,0,0,Bayern Munich,2022-04-12 Bayern Munich-Villarreal,UCL,21-22,173ffe68
+042e8a49,Kingsley Coman,11,FRA,LW,25-303,90,0,0,0,0,3,0,0,0,69,0,1,1,0.1,0.1,0.2,8,0,42,57,73.7,8,56,6,9,6,Bayern Munich,2022-04-12 Bayern Munich-Villarreal,UCL,21-22,173ffe68
+2b114be3,Leroy Sané,10,GER,RW,26-091,90,0,0,0,0,4,0,0,0,81,2,1,0,0.1,0.1,0.4,8,0,54,66,81.8,3,55,3,3,2,Bayern Munich,2022-04-12 Bayern Munich-Villarreal,UCL,21-22,173ffe68
+2c0558b8,Jamal Musiala,42,GER,CM,19-045,81,0,0,0,0,2,1,0,0,29,0,0,1,0.1,0.1,0.0,1,0,13,20,65.0,1,18,2,1,0,Bayern Munich,2022-04-12 Bayern Munich-Villarreal,UCL,21-22,173ffe68
+88e357ef,Serge Gnabry,7,GER,CM,26-272,9,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Bayern Munich,2022-04-12 Bayern Munich-Villarreal,UCL,21-22,173ffe68
+3c6089ab,Thomas Müller,25,GER,CM,32-211,89,0,1,0,0,3,1,0,0,30,1,1,1,0.5,0.5,0.1,3,1,17,24,70.8,2,19,0,1,1,Bayern Munich,2022-04-12 Bayern Munich-Villarreal,UCL,21-22,173ffe68
+0e6bc38c,Eric Maxim Choupo-Moting,13,CMR,"FW,CM",33-020,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Bayern Munich,2022-04-12 Bayern Munich-Villarreal,UCL,21-22,173ffe68
+cc86b9a3,Leon Goretzka,8,GER,"DM,CM",27-065,90,0,0,0,0,4,0,0,0,77,3,1,0,0.3,0.3,0.2,4,1,57,63,90.5,12,43,1,0,0,Bayern Munich,2022-04-12 Bayern Munich-Villarreal,UCL,21-22,173ffe68
+49296448,Joshua Kimmich,6,GER,DM,27-063,90,0,0,0,0,0,0,0,0,88,0,2,1,0.0,0.0,0.2,4,0,65,84,77.4,17,56,2,2,2,Bayern Munich,2022-04-12 Bayern Munich-Villarreal,UCL,21-22,173ffe68
+c3ee18ef,Lucas Hernández,21,FRA,LB,26-057,86,0,0,0,0,3,1,0,0,98,2,1,0,0.1,0.1,0.0,1,0,77,90,85.6,22,82,7,0,0,Bayern Munich,2022-04-12 Bayern Munich-Villarreal,UCL,21-22,173ffe68
+d781d855,Alphonso Davies,19,CAN,"CB,LB",21-161,4,0,0,0,0,0,0,0,0,5,1,0,0,0.0,0.0,0.0,0,0,4,4,100.0,0,4,0,0,0,Bayern Munich,2022-04-12 Bayern Munich-Villarreal,UCL,21-22,173ffe68
+d248cd8f,Dayot Upamecano,2,FRA,CB,23-167,90,0,0,0,0,1,0,0,0,113,3,2,1,0.1,0.1,0.0,2,0,95,105,90.5,19,87,5,0,0,Bayern Munich,2022-04-12 Bayern Munich-Villarreal,UCL,21-22,173ffe68
+45a03961,Benjamin Pavard,5,FRA,"RB,CB",26-015,90,0,0,0,0,1,0,0,0,103,3,1,1,0.0,0.0,0.1,5,0,78,93,83.9,18,63,4,1,0,Bayern Munich,2022-04-12 Bayern Munich-Villarreal,UCL,21-22,173ffe68
+8778c910,Manuel Neuer,1,GER,GK,36-016,90,0,0,0,0,0,0,0,0,24,0,0,0,0.0,0.0,0.0,1,0,23,24,95.8,2,15,0,0,0,Bayern Munich,2022-04-12 Bayern Munich-Villarreal,UCL,21-22,173ffe68
+f08490a6,Arnaut Danjuma,15,NED,FW,25-071,83,0,0,0,0,1,0,0,0,22,1,0,1,0.1,0.1,0.0,2,0,8,14,57.1,0,12,1,4,2,Villarreal,2022-04-12 Bayern Munich-Villarreal,UCL,21-22,173ffe68
+63f04c6c,Alfonso Pedraza,24,ESP,LM,26-003,7,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,2,0,0,0,Villarreal,2022-04-12 Bayern Munich-Villarreal,UCL,21-22,173ffe68
+81f0781e,Gerard Moreno,7,ESP,FW,30-005,90,0,1,0,0,2,0,0,0,34,4,0,0,0.1,0.1,0.6,2,1,9,21,42.9,3,18,0,0,0,Villarreal,2022-04-12 Bayern Munich-Villarreal,UCL,21-22,173ffe68
+a6951bf8,Francis Coquelin,19,FRA,LM,30-334,83,0,0,0,0,0,0,0,0,32,0,2,3,0.0,0.0,0.0,0,0,16,19,84.2,3,14,2,3,2,Villarreal,2022-04-12 Bayern Munich-Villarreal,UCL,21-22,173ffe68
+b8a642fc,Samuel Chukwueze,11,NGA,"FW,LM",22-325,7,1,0,0,0,1,1,0,0,3,0,0,0,0.5,0.5,0.0,0,0,0,1,0.0,0,3,1,1,0,Villarreal,2022-04-12 Bayern Munich-Villarreal,UCL,21-22,173ffe68
+7460ca0d,Daniel Parejo,5,ESP,CM,32-361,89,0,0,0,0,0,0,0,0,42,0,1,0,0.0,0.0,0.0,1,0,32,39,82.1,4,21,1,0,0,Villarreal,2022-04-12 Bayern Munich-Villarreal,UCL,21-22,173ffe68
+5c2b4f07,Serge Aurier,25,CIV,RB,29-109,1,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,0,0,Villarreal,2022-04-12 Bayern Munich-Villarreal,UCL,21-22,173ffe68
+5acc4a10,Étienne Capoue,6,FRA,CM,33-275,90,0,0,0,0,0,0,0,0,33,2,2,0,0.0,0.0,0.0,1,0,13,16,81.3,3,14,1,3,1,Villarreal,2022-04-12 Bayern Munich-Villarreal,UCL,21-22,173ffe68
+d7553721,Giovani Lo Celso,17,ARG,RM,26-003,90,0,0,0,0,0,0,1,0,31,1,0,0,0.0,0.0,0.1,2,1,15,22,68.2,7,20,6,2,2,Villarreal,2022-04-12 Bayern Munich-Villarreal,UCL,21-22,173ffe68
+d38fdf53,Pervis Estupiñán,12,ECU,LB,24-081,90,0,0,0,0,0,0,0,0,51,3,1,3,0.0,0.0,0.0,0,0,26,33,78.8,1,12,0,1,0,Villarreal,2022-04-12 Bayern Munich-Villarreal,UCL,21-22,173ffe68
+532e1e4f,Pau Torres,4,ESP,CB,25-086,90,0,0,0,0,0,0,0,0,38,0,0,1,0.0,0.0,0.0,0,0,23,30,76.7,1,16,0,2,2,Villarreal,2022-04-12 Bayern Munich-Villarreal,UCL,21-22,173ffe68
+4bd414c1,Raúl Albiol,3,ESP,CB,36-220,90,0,0,0,0,0,0,0,0,43,0,1,2,0.0,0.0,0.0,0,0,21,28,75.0,0,23,0,0,0,Villarreal,2022-04-12 Bayern Munich-Villarreal,UCL,21-22,173ffe68
+6c7762c3,Juan Foyth,8,ARG,RB,24-090,90,0,0,0,0,0,0,1,0,45,4,1,1,0.0,0.0,0.0,0,0,22,33,66.7,1,21,0,1,1,Villarreal,2022-04-12 Bayern Munich-Villarreal,UCL,21-22,173ffe68
+625c144a,Gerónimo Rulli,13,ARG,GK,29-327,90,0,0,0,0,0,0,0,0,53,0,0,1,0.0,0.0,0.0,0,0,27,51,52.9,0,24,0,0,0,Villarreal,2022-04-12 Bayern Munich-Villarreal,UCL,21-22,173ffe68
