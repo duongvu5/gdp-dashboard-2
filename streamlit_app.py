@@ -376,7 +376,7 @@ def player_season_compare():
     fbref = initialize_fbref(selected_league_key, season)
 
     # User selects the type of comparison
-    comparison_type = st.radio("Choose comparison type", ('Normal Footballer', 'Goalkeeper'))
+    comparison_type = st.radio("Choose comparison type", ('Outfielder', 'Goalkeeper'))
 
     if comparison_type == 'Normal Footballer':
         stats_list, _, _ = get_stats_lists()
