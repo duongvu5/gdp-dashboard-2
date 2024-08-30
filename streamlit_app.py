@@ -11,6 +11,7 @@ import streamlit as st
 import json
 import os
 import shutil
+import subprocess
 from goalkeeper_comparision import get_stats_lists_gk, read_and_filter_stats_gk
 
 def get_available_leagues():
