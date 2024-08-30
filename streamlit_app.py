@@ -348,7 +348,7 @@ def player_match_compare():
     selected_game2 = st.selectbox("Select the match for the second player", games)
 
     params = list(param_mapping.keys())
-    selected_params = st.multiselect("Select parameters to compare", params, default=params[:5])
+    selected_params = st.multiselect("Select parameters to compare (make sure to choose 3 or more parameters)", params, default=params[:5])
 
     lower_is_better_options = st.multiselect("Select parameters where lower is better", params)
 
@@ -643,7 +643,7 @@ def player_season_compare():
     player2 = st.selectbox("Select the second player", players)
     
     params = list(param_mapping.keys())
-    selected_params = st.multiselect("Select parameters to compare", params, default=params[:5])
+    selected_params = st.multiselect("Select parameters to compare (make sure to choose 3 or more parameters)", params, default=params[:5])
     
     lower_is_better_options = st.multiselect("Select parameters where lower is better", params)
     
