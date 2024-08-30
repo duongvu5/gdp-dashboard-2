@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+dea698d9,Cristiano Ronaldo,7,POR,"FW,LW",35-184,90,2,0,1,1,8,2,0,0,43,0,0,0,1.5,0.7,0.3,5,0,27,32,84.4,5,29,5,0,0,Juventus,2020-08-07 Juventus-Lyon,UCL,19-20,f163b571
+8a08491a,Gonzalo Higuaín,21,ARG,FW,32-241,90,0,0,0,0,3,2,0,0,19,0,0,0,0.4,0.4,0.0,2,0,12,15,80.0,1,14,0,0,0,Juventus,2020-08-07 Juventus-Lyon,UCL,19-20,f163b571
+8794e251,Adrien Rabiot,25,FRA,LM,25-126,90,0,0,0,0,0,0,0,0,48,3,1,0,0.0,0.0,0.1,3,0,29,41,70.7,2,37,3,2,0,Juventus,2020-08-07 Juventus-Lyon,UCL,19-20,f163b571
+ad6df2d5,Miralem Pjanić,5,BIH,CM,30-127,59,0,0,0,0,1,0,0,0,51,3,1,0,0.1,0.1,0.0,4,2,41,46,89.1,6,22,2,0,0,Juventus,2020-08-07 Juventus-Lyon,UCL,19-20,f163b571
+ef619b0b,Aaron Ramsey,8,WAL,"RM,CM",29-225,31,0,0,0,0,0,0,0,0,15,1,0,0,0.0,0.0,0.0,0,0,12,12,100.0,0,10,0,0,0,Juventus,2020-08-07 Juventus-Lyon,UCL,19-20,f163b571
+3b8674e6,Rodrigo Bentancur,30,URU,CM,23-043,90,0,0,0,0,0,0,1,0,65,2,1,2,0.0,0.0,0.0,3,0,48,55,87.3,4,44,1,1,0,Juventus,2020-08-07 Juventus-Lyon,UCL,19-20,f163b571
+ee93c1a9,Federico Bernardeschi,33,ITA,RM,26-173,70,0,1,0,0,1,0,0,0,31,0,0,0,0.6,0.6,0.3,4,1,19,26,73.1,0,22,2,3,3,Juventus,2020-08-07 Juventus-Lyon,UCL,19-20,f163b571
+e0921a4f,Paulo Dybala,10,ARG,RW,26-266,13,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.1,1,0,7,7,100.0,0,5,0,1,1,Juventus,2020-08-07 Juventus-Lyon,UCL,19-20,f163b571
+f5ba8903,Marco Olivieri,35,ITA,RW,21-038,7,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,2,0,0,0,Juventus,2020-08-07 Juventus-Lyon,UCL,19-20,f163b571
+0d82903c,Alex Sandro,12,BRA,LB,29-194,90,0,0,0,0,1,0,0,0,93,1,2,0,0.0,0.0,0.4,4,0,62,84,73.8,9,69,8,4,3,Juventus,2020-08-07 Juventus-Lyon,UCL,19-20,f163b571
+52ec54d0,Leonardo Bonucci,19,ITA,CB,33-098,90,0,0,0,0,1,0,0,0,94,1,4,2,0.3,0.3,0.0,1,0,75,85,88.2,10,63,0,0,0,Juventus,2020-08-07 Juventus-Lyon,UCL,19-20,f163b571
+d6e53a3a,Matthijs de Ligt,4,NED,CB,20-361,90,0,0,0,0,0,0,0,0,72,1,2,1,0.0,0.0,0.0,1,0,64,65,98.5,8,46,0,0,0,Juventus,2020-08-07 Juventus-Lyon,UCL,19-20,f163b571
+0ab1f153,Juan Cuadrado,16,COL,RB,32-073,69,0,0,0,0,0,0,1,0,80,0,1,0,0.0,0.0,0.0,1,0,65,78,83.3,11,51,0,0,0,Juventus,2020-08-07 Juventus-Lyon,UCL,19-20,f163b571
+94b2001f,Danilo,13,BRA,RB,29-023,21,0,0,0,0,0,0,0,0,27,0,0,0,0.0,0.0,0.0,1,0,19,24,79.2,4,11,0,0,0,Juventus,2020-08-07 Juventus-Lyon,UCL,19-20,f163b571
+01b8a2b2,Wojciech Szczęsny,1,POL,GK,30-111,90,0,0,0,0,0,0,0,0,25,0,0,0,0.0,0.0,0.0,0,0,20,21,95.2,0,14,0,0,0,Juventus,2020-08-07 Juventus-Lyon,UCL,19-20,f163b571
+5ceba7fc,Karl Toko Ekambi,21,CMR,FW,27-328,66,0,0,0,0,0,0,0,0,13,0,0,0,0.0,0.0,0.0,1,0,9,12,75.0,1,10,2,1,0,Lyon,2020-08-07 Juventus-Lyon,UCL,19-20,f163b571
+d504b3e1,Jeff Reine-Adélaïde,17,FRA,FW,22-203,24,0,0,0,0,0,0,0,0,13,0,0,0,0.0,0.0,0.0,1,0,9,10,90.0,2,12,2,0,0,Lyon,2020-08-07 Juventus-Lyon,UCL,19-20,f163b571
+8f696594,Memphis,11,NED,FW,26-176,66,1,0,1,1,0,0,1,0,27,0,0,1,0.8,0.0,0.0,0,0,16,23,69.6,4,15,1,1,0,Lyon,2020-08-07 Juventus-Lyon,UCL,19-20,f163b571
+e7986081,Moussa Dembélé,9,FRA,FW,24-026,24,0,0,0,0,2,1,0,0,13,0,0,2,0.1,0.1,0.0,0,0,4,7,57.1,1,8,0,1,0,Lyon,2020-08-07 Juventus-Lyon,UCL,19-20,f163b571
+a5db0bec,Houssem Aouar,8,ALG,CM,22-038,89,0,0,0,0,1,0,1,0,42,1,1,1,0.0,0.0,0.0,2,1,25,30,83.3,1,36,0,9,6,Lyon,2020-08-07 Juventus-Lyon,UCL,19-20,f163b571
+c6e5d20f,Thiago Mendes,12,BRA,CM,28-145,1,0,0,0,0,0,0,0,0,6,1,0,0,0.0,0.0,0.0,0,0,1,3,33.3,0,4,0,0,0,Lyon,2020-08-07 Juventus-Lyon,UCL,19-20,f163b571
+82518f62,Bruno Guimarães,39,BRA,CM,22-265,90,0,0,0,0,1,0,0,0,48,1,0,1,0.0,0.0,0.0,0,0,30,40,75.0,2,38,1,0,0,Lyon,2020-08-07 Juventus-Lyon,UCL,19-20,f163b571
+f81ef10d,Maxence Caqueret,25,FRA,CM,20-174,90,0,0,0,0,1,0,1,0,38,2,3,3,0.1,0.1,0.0,2,0,24,28,85.7,2,26,2,4,4,Lyon,2020-08-07 Juventus-Lyon,UCL,19-20,f163b571
+beb391dd,Maxwel Cornet,27,CIV,WB,23-315,90,0,0,0,0,0,0,1,0,51,1,2,1,0.0,0.0,0.1,4,1,35,41,85.4,5,29,3,0,0,Lyon,2020-08-07 Juventus-Lyon,UCL,19-20,f163b571
+ff0ab48c,Leo Dubois,14,FRA,WB,25-328,89,0,0,0,0,0,0,1,0,39,0,0,0,0.0,0.0,0.1,1,0,27,35,77.1,3,22,1,0,0,Lyon,2020-08-07 Juventus-Lyon,UCL,19-20,f163b571
+77d7c96f,Kenny Tete,23,NED,WB,24-303,1,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,0,2,0.0,0,1,0,0,0,Lyon,2020-08-07 Juventus-Lyon,UCL,19-20,f163b571
+9ae9eaea,Fernando Marçal,20,BRA,CB,31-170,90,0,0,0,0,0,0,1,0,53,1,0,0,0.0,0.0,0.0,0,0,39,47,83.0,2,37,0,0,0,Lyon,2020-08-07 Juventus-Lyon,UCL,19-20,f163b571
+e3d0b0c4,Marcelo,6,BRA,CB,33-079,90,0,0,0,0,0,0,0,0,37,3,2,2,0.0,0.0,0.0,0,0,18,24,75.0,0,18,0,0,0,Lyon,2020-08-07 Juventus-Lyon,UCL,19-20,f163b571
+47af88b8,Jason Denayer,5,BEL,CB,25-040,60,0,0,0,0,0,0,0,0,27,1,2,0,0.0,0.0,0.0,0,0,16,18,88.9,0,14,0,0,0,Lyon,2020-08-07 Juventus-Lyon,UCL,19-20,f163b571
+e34fc66d,Joachim Andersen,3,DEN,CB,24-068,30,0,0,0,0,0,0,0,0,15,0,0,1,0.0,0.0,0.0,0,0,9,9,100.0,1,8,0,0,0,Lyon,2020-08-07 Juventus-Lyon,UCL,19-20,f163b571
+f00de885,Anthony Lopes,1,POR,GK,29-311,90,0,0,0,0,0,0,1,0,35,0,0,0,0.0,0.0,0.0,0,0,15,33,45.5,0,18,0,0,0,Lyon,2020-08-07 Juventus-Lyon,UCL,19-20,f163b571

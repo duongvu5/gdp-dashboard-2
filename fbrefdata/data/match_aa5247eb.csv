@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+4d982baf,Tiquinho Soares,29,BRA,FW,27-028,73,0,0,0,0,2,0,0,0,38,0,1,0,0.2,0.2,0.1,2,0,25,32,78.1,0,26,3,0,0,Porto,2018-02-14 Porto-Liverpool,UCL,17-18,aa5247eb
+962e54cb,Gonçalo Paciência,14,POR,FW,23-197,17,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,2,4,50.0,0,3,0,0,0,Porto,2018-02-14 Porto-Liverpool,UCL,17-18,aa5247eb
+56b5d64e,Yacine Brahimi,8,ALG,LW,28-006,61,0,0,0,0,0,0,0,0,36,2,1,1,0.0,0.0,0.1,1,0,19,25,76.0,4,30,3,6,3,Porto,2018-02-14 Porto-Liverpool,UCL,17-18,aa5247eb
+46907171,Abdul Majeed Waris,18,GHA,LW,26-148,29,0,0,0,0,1,1,0,0,23,0,1,0,0.0,0.0,0.0,2,0,12,14,85.7,1,16,0,3,1,Porto,2018-02-14 Porto-Liverpool,UCL,17-18,aa5247eb
+05a84d52,Moussa Marega,11,MLI,RW,26-306,90,0,0,0,0,1,1,0,0,16,0,1,0,0.1,0.1,0.0,0,0,8,9,88.9,2,18,2,3,2,Porto,2018-02-14 Porto-Liverpool,UCL,17-18,aa5247eb
+28b1f3ce,Otávio,25,POR,AM,23-005,45,0,0,0,0,1,0,0,0,25,0,1,0,0.1,0.1,0.0,2,0,17,23,73.9,3,25,0,1,1,Porto,2018-02-14 Porto-Liverpool,UCL,17-18,aa5247eb
+fb938d24,Jesús Corona,17,MEX,AM,25-039,45,0,0,0,0,0,0,0,0,30,1,0,1,0.0,0.0,0.0,1,0,15,23,65.2,0,21,1,4,2,Porto,2018-02-14 Porto-Liverpool,UCL,17-18,aa5247eb
+a8542814,Héctor Herrera,16,MEX,DM,27-301,90,0,0,0,0,0,0,0,0,80,2,2,0,0.0,0.0,0.2,3,0,69,75,92.0,6,63,3,0,0,Porto,2018-02-14 Porto-Liverpool,UCL,17-18,aa5247eb
+947e036f,Sérgio Oliveira,27,POR,DM,25-257,90,0,0,0,0,2,0,0,0,68,5,0,2,0.1,0.1,0.0,1,0,42,53,79.2,5,37,1,1,1,Porto,2018-02-14 Porto-Liverpool,UCL,17-18,aa5247eb
+e73c9bb2,Alex Telles,13,BRA,LB,25-061,90,0,0,0,0,0,0,0,0,61,0,4,0,0.0,0.0,0.0,0,0,36,55,65.5,1,30,1,5,4,Porto,2018-02-14 Porto-Liverpool,UCL,17-18,aa5247eb
+7a20d90a,Iván Marcano,5,ESP,CB,30-236,90,0,0,0,0,1,1,0,0,66,1,0,0,0.1,0.1,0.0,2,0,48,57,84.2,5,37,0,1,1,Porto,2018-02-14 Porto-Liverpool,UCL,17-18,aa5247eb
+d4f46475,Diego Reyes,23,MEX,CB,25-148,90,0,0,0,0,0,0,0,0,71,3,1,4,0.0,0.0,0.0,0,0,51,58,87.9,2,45,0,0,0,Porto,2018-02-14 Porto-Liverpool,UCL,17-18,aa5247eb
+75a72a99,Ricardo Pereira,21,POR,RB,24-131,90,0,0,0,0,0,0,0,0,66,1,1,5,0.0,0.0,0.0,1,0,41,58,70.7,5,44,2,1,1,Porto,2018-02-14 Porto-Liverpool,UCL,17-18,aa5247eb
+903b6e8b,José Sá,12,POR,GK,25-028,90,0,0,0,0,0,0,0,0,36,0,0,0,0.0,0.0,0.0,0,0,23,35,65.7,0,24,0,0,0,Porto,2018-02-14 Porto-Liverpool,UCL,17-18,aa5247eb
+4c370d81,Roberto Firmino,9,BRA,FW,26-135,79,1,1,0,0,6,2,0,0,48,4,0,2,1.0,1.0,0.0,4,1,24,35,68.6,4,24,2,4,3,Liverpool,2018-02-14 Porto-Liverpool,UCL,17-18,aa5247eb
+07802f7f,Danny Ings,28,ENG,FW,25-206,11,0,1,0,0,0,0,0,0,5,1,0,0,0.0,0.0,0.0,1,1,2,4,50.0,0,3,0,0,0,Liverpool,2018-02-14 Porto-Liverpool,UCL,17-18,aa5247eb
+c691bfe2,Sadio Mané,19,SEN,"LW,LM",25-310,90,3,0,0,0,4,3,0,0,65,3,0,1,0.8,0.8,0.0,3,2,37,47,78.7,3,46,5,3,2,Liverpool,2018-02-14 Porto-Liverpool,UCL,17-18,aa5247eb
+e342ad68,Mohamed Salah,11,EGY,"RW,RM",25-244,90,1,0,0,0,1,1,0,0,40,2,1,1,0.8,0.8,0.2,3,1,24,31,77.4,2,24,2,2,2,Liverpool,2018-02-14 Porto-Liverpool,UCL,17-18,aa5247eb
+eb58eef0,Georginio Wijnaldum,5,NED,"LM,CM",27-095,90,0,1,0,0,1,0,0,0,45,2,0,0,0.0,0.0,0.1,4,2,30,36,83.3,3,25,0,0,0,Liverpool,2018-02-14 Porto-Liverpool,UCL,17-18,aa5247eb
+935e6b8f,Jordan Henderson,14,ENG,CM,27-242,74,0,0,0,0,0,0,0,0,73,1,2,1,0.0,0.0,0.0,1,0,61,69,88.4,9,44,0,0,0,Liverpool,2018-02-14 Porto-Liverpool,UCL,17-18,aa5247eb
+b217ef29,Joël Matip,32,CMR,"CB,CM",26-190,16,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,9,9,100.0,0,7,0,0,0,Liverpool,2018-02-14 Porto-Liverpool,UCL,17-18,aa5247eb
+2f90f6b8,James Milner,7,ENG,"RM,CM",32-041,90,0,2,0,0,1,0,0,0,78,4,0,2,0.0,0.0,0.6,3,2,54,67,80.6,6,50,1,2,1,Liverpool,2018-02-14 Porto-Liverpool,UCL,17-18,aa5247eb
+2e4f5f03,Andrew Robertson,26,SCO,LB,23-340,90,0,0,0,0,1,0,0,0,89,1,1,1,0.0,0.0,0.2,4,0,73,84,86.9,7,57,2,2,2,Liverpool,2018-02-14 Porto-Liverpool,UCL,17-18,aa5247eb
+e06683ca,Virgil van Dijk,4,NED,CB,26-221,90,0,0,0,0,0,0,0,0,88,3,3,1,0.0,0.0,0.0,0,0,72,78,92.3,3,55,1,2,2,Liverpool,2018-02-14 Porto-Liverpool,UCL,17-18,aa5247eb
+1a2935f6,Dejan Lovren,6,CRO,CB,28-224,90,0,0,0,0,0,0,0,0,78,2,2,1,0.0,0.0,0.0,1,0,61,68,89.7,1,57,0,0,0,Liverpool,2018-02-14 Porto-Liverpool,UCL,17-18,aa5247eb
+cd1acf9d,Trent Alexander-Arnold,66,ENG,RB,19-130,78,0,0,0,0,0,0,0,0,73,4,0,0,0.0,0.0,0.1,1,0,50,65,76.9,2,40,0,1,0,Liverpool,2018-02-14 Porto-Liverpool,UCL,17-18,aa5247eb
+7a11550b,Joe Gomez,12,ENG,RB,20-267,12,0,0,0,0,0,0,0,0,9,0,0,2,0.0,0.0,0.0,0,0,6,6,100.0,0,5,0,0,0,Liverpool,2018-02-14 Porto-Liverpool,UCL,17-18,aa5247eb
+32e7ce92,Loris Karius,1,GER,GK,24-237,90,0,0,0,0,0,0,0,0,43,0,0,0,0.0,0.0,0.0,0,0,22,42,52.4,0,25,0,0,0,Liverpool,2018-02-14 Porto-Liverpool,UCL,17-18,aa5247eb

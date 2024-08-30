@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+70d74ece,Karim Benzema,9,FRA,FW,35-058,77,2,0,2,2,8,2,0,0,64,0,0,0,2.4,0.9,0.4,7,2,48,52,92.3,7,24,2,2,1,Real Madrid,2023-02-15 Real Madrid-Elche,ESP-LALIGA,22-23,aa81febc
+5c4dc0ff,Mariano,24,DOM,FW,29-198,13,0,0,0,0,0,0,1,0,5,0,0,0,0.0,0.0,0.0,0,0,5,5,100.0,0,4,1,0,0,Real Madrid,2023-02-15 Real Madrid-Elche,ESP-LALIGA,22-23,aa81febc
+8f5e92a6,Rodrygo,21,BRA,LW,22-037,90,0,0,0,0,4,4,0,0,75,0,0,0,0.5,0.5,0.8,13,2,59,61,96.7,2,56,9,11,5,Real Madrid,2023-02-15 Real Madrid-Elche,ESP-LALIGA,22-23,aa81febc
+45af8a54,Marco Asensio,11,ESP,RW,27-025,80,1,0,0,0,2,2,0,0,56,0,0,2,0.3,0.3,0.0,3,2,43,49,87.8,0,29,2,4,4,Real Madrid,2023-02-15 Real Madrid-Elche,ESP-LALIGA,22-23,aa81febc
+1e465e70,Sergio Arribas,33,ESP,RW,21-138,10,0,0,0,0,1,0,0,0,10,0,0,0,0.2,0.2,0.0,2,0,8,9,88.9,2,3,0,0,0,Real Madrid,2023-02-15 Real Madrid-Elche,ESP-LALIGA,22-23,aa81febc
+c0617e2b,Dani Ceballos,19,ESP,LM,26-192,67,0,0,0,0,0,0,0,0,110,3,0,1,0.0,0.0,0.3,7,0,96,102,94.1,14,77,5,1,1,Real Madrid,2023-02-15 Real Madrid-Elche,ESP-LALIGA,22-23,aa81febc
+6025fab1,Luka Modrić,10,CRO,LM,37-159,23,1,0,0,0,2,1,0,0,37,1,0,0,0.1,0.1,0.0,4,1,29,34,85.3,5,22,2,2,2,Real Madrid,2023-02-15 Real Madrid-Elche,ESP-LALIGA,22-23,aa81febc
+7b9c2d84,Eduardo Camavinga,12,FRA,CM,20-097,90,0,0,0,0,1,0,0,0,104,2,0,0,0.0,0.0,0.0,4,0,84,93,90.3,8,56,1,4,3,Real Madrid,2023-02-15 Real Madrid-Elche,ESP-LALIGA,22-23,aa81febc
+0959c2a2,Federico Valverde,15,URU,RM,24-208,67,0,0,0,0,2,1,0,0,69,1,1,2,0.1,0.1,0.0,1,0,51,62,82.3,4,36,2,2,2,Real Madrid,2023-02-15 Real Madrid-Elche,ESP-LALIGA,22-23,aa81febc
+4f255115,Aurélien Tchouaméni,18,FRA,RM,23-019,23,0,0,0,0,0,0,0,0,38,1,1,1,0.0,0.0,0.0,1,0,33,35,94.3,3,18,1,0,0,Real Madrid,2023-02-15 Real Madrid-Elche,ESP-LALIGA,22-23,aa81febc
+05439de2,David Alaba,4,AUT,LB,30-236,90,0,0,0,0,2,1,0,0,71,2,1,2,0.1,0.1,0.1,1,0,56,64,87.5,2,32,1,1,1,Real Madrid,2023-02-15 Real Madrid-Elche,ESP-LALIGA,22-23,aa81febc
+2946f9a1,Nacho,6,ESP,CB,33-028,90,0,0,0,0,0,0,0,0,100,1,0,1,0.0,0.0,0.0,0,0,85,93,91.4,1,37,0,0,0,Real Madrid,2023-02-15 Real Madrid-Elche,ESP-LALIGA,22-23,aa81febc
+2784f898,Éder Militão,3,BRA,CB,25-028,90,0,0,0,0,1,0,0,0,100,3,0,3,0.0,0.0,0.0,2,0,75,84,89.3,6,56,0,1,0,Real Madrid,2023-02-15 Real Madrid-Elche,ESP-LALIGA,22-23,aa81febc
+4958bfb2,Dani Carvajal,2,ESP,RB,31-035,67,0,1,0,0,0,0,0,0,62,0,0,1,0.0,0.0,0.3,3,0,55,59,93.2,2,30,2,0,0,Real Madrid,2023-02-15 Real Madrid-Elche,ESP-LALIGA,22-23,aa81febc
+1d1691ad,Álvaro Odriozola,16,ESP,RB,27-063,23,0,0,0,0,1,0,0,0,18,0,0,0,0.2,0.2,0.1,1,0,16,17,94.1,1,10,3,0,0,Real Madrid,2023-02-15 Real Madrid-Elche,ESP-LALIGA,22-23,aa81febc
+3061e1ec,Andriy Lunin,13,UKR,GK,24-004,90,0,0,0,0,0,0,0,0,34,0,0,0,0.0,0.0,0.0,0,0,32,34,94.1,0,14,0,0,0,Real Madrid,2023-02-15 Real Madrid-Elche,ESP-LALIGA,22-23,aa81febc
+ccbbe661,Ezequiel Ponce,19,ARG,FW,25-323,90,0,0,0,0,0,0,0,0,29,1,0,0,0.0,0.0,0.2,1,0,21,24,87.5,2,21,1,2,1,Elche,2023-02-15 Real Madrid-Elche,ESP-LALIGA,22-23,aa81febc
+a6103274,Randy Nteka,18,ANG,FW,25-071,65,0,0,0,0,1,0,0,0,23,2,1,1,0.1,0.1,0.0,0,0,6,12,50.0,0,13,1,1,0,Elche,2023-02-15 Real Madrid-Elche,ESP-LALIGA,22-23,aa81febc
+d49f3e6b,Lucas Boyé,9,ARG,FW,26-352,25,0,0,0,0,0,0,0,0,13,0,0,0,0.0,0.0,0.0,0,0,5,6,83.3,1,8,0,2,1,Elche,2023-02-15 Real Madrid-Elche,ESP-LALIGA,22-23,aa81febc
+eb82b6f1,Fidel,16,ESP,CM,33-111,57,0,0,0,0,1,0,0,0,32,2,0,0,0.1,0.1,0.1,1,0,19,25,76.0,2,20,0,2,1,Elche,2023-02-15 Real Madrid-Elche,ESP-LALIGA,22-23,aa81febc
+004d185e,Tete Morente,11,ESP,CM,26-073,33,0,0,0,0,2,0,0,0,14,0,1,1,0.1,0.1,0.0,2,0,3,5,60.0,0,7,3,3,2,Elche,2023-02-15 Real Madrid-Elche,ESP-LALIGA,22-23,aa81febc
+ac454a4f,Gerard Gumbau,20,ESP,CM,28-059,90,0,0,0,0,0,0,1,0,53,0,2,1,0.0,0.0,0.3,6,0,40,47,85.1,8,32,1,0,0,Elche,2023-02-15 Real Madrid-Elche,ESP-LALIGA,22-23,aa81febc
+0b2c8585,Raúl Guti,8,ESP,CM,26-047,57,0,0,0,0,1,0,0,0,23,0,0,0,0.0,0.0,0.0,1,0,16,20,80.0,2,11,0,1,0,Elche,2023-02-15 Real Madrid-Elche,ESP-LALIGA,22-23,aa81febc
+873ce3a2,Pape Cheikh Diop,12,SEN,CM,25-191,33,0,0,0,0,0,0,0,0,14,0,0,0,0.0,0.0,0.0,1,0,8,13,61.5,1,9,0,1,0,Elche,2023-02-15 Real Madrid-Elche,ESP-LALIGA,22-23,aa81febc
+33a61a52,Carlos Clerc,23,ESP,WB,30-359,90,0,0,0,0,0,0,0,0,49,2,0,0,0.0,0.0,0.0,1,0,33,44,75.0,3,27,3,0,0,Elche,2023-02-15 Real Madrid-Elche,ESP-LALIGA,22-23,aa81febc
+2dce876a,Carmona,40,ESP,"WB,CB",21-017,90,0,0,0,0,1,0,0,0,35,2,1,4,0.1,0.1,0.0,0,0,20,24,83.3,1,23,1,1,1,Elche,2023-02-15 Real Madrid-Elche,ESP-LALIGA,22-23,aa81febc
+01a49bd2,Lisandro Magallán,7,ARG,CB,29-141,90,0,0,0,0,0,0,0,0,42,3,1,2,0.0,0.0,0.0,0,0,26,33,78.8,1,25,0,1,1,Elche,2023-02-15 Real Madrid-Elche,ESP-LALIGA,22-23,aa81febc
+37f827ec,Enzo Roco,3,CHI,CB,30-183,56,0,0,0,0,0,0,1,0,27,1,1,0,0.0,0.0,0.0,0,0,14,19,73.7,0,11,0,0,0,Elche,2023-02-15 Real Madrid-Elche,ESP-LALIGA,22-23,aa81febc
+1c2c55fc,Gonzalo Verdú,5,ESP,CB,34-117,34,0,0,0,0,0,0,0,0,11,1,0,0,0.0,0.0,0.0,0,0,4,8,50.0,0,4,0,0,0,Elche,2023-02-15 Real Madrid-Elche,ESP-LALIGA,22-23,aa81febc
+4ac7608e,Diego González,4,ESP,CB,28-018,72,0,0,0,0,1,0,1,0,27,0,1,0,0.1,0.1,0.0,0,0,18,20,90.0,0,12,0,0,0,Elche,2023-02-15 Real Madrid-Elche,ESP-LALIGA,22-23,aa81febc
+ff800ed8,Pol Lirola,24,ESP,WB,25-186,18,0,0,0,0,0,0,0,0,5,0,0,1,0.0,0.0,0.0,0,0,2,2,100.0,0,4,0,2,1,Elche,2023-02-15 Real Madrid-Elche,ESP-LALIGA,22-23,aa81febc
+e4346678,Édgar Badía,13,ESP,GK,31-003,90,0,0,0,0,0,0,0,0,43,0,0,0,0.0,0.0,0.0,0,0,20,34,58.8,0,21,0,0,0,Elche,2023-02-15 Real Madrid-Elche,ESP-LALIGA,22-23,aa81febc

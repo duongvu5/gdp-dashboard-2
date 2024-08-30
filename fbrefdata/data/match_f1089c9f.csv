@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+63b0ca6b,Álvaro Negredo,18,ESP,FW,35-066,65,0,0,0,0,0,0,0,0,16,0,0,1,0.0,0.0,0.0,0,0,5,10,50.0,0,7,0,1,0,Cádiz,2020-10-25 Cádiz-Villarreal,ESP-LALIGA,20-21,f1089c9f
+04981123,Filip Malbašić,24,SRB,FW,27-342,25,0,0,0,0,0,0,0,0,4,2,0,0,0.0,0.0,0.1,1,0,1,2,50.0,0,1,0,0,0,Cádiz,2020-10-25 Cádiz-Villarreal,ESP-LALIGA,20-21,f1089c9f
+38699c72,Anthony Lozano,9,HON,FW,27-183,65,0,0,0,0,2,0,0,0,18,1,1,0,0.1,0.1,0.0,2,0,7,10,70.0,1,9,1,3,2,Cádiz,2020-10-25 Cádiz-Villarreal,ESP-LALIGA,20-21,f1089c9f
+2ceb58ab,Jairo Izquierdo,25,ESP,LM,27-003,25,0,0,0,0,0,0,1,0,8,1,0,1,0.0,0.0,0.0,1,0,3,4,75.0,1,6,0,1,1,Cádiz,2020-10-25 Cádiz-Villarreal,ESP-LALIGA,20-21,f1089c9f
+aa677a35,Álex Fernández,8,ESP,"LM,FW,CM",28-010,90,0,0,0,0,1,0,0,0,45,0,0,2,0.0,0.0,0.0,3,0,31,38,81.6,3,25,2,0,0,Cádiz,2020-10-25 Cádiz-Villarreal,ESP-LALIGA,20-21,f1089c9f
+53520a67,Jens Jønsson,2,DEN,CM,27-289,90,0,0,0,0,0,0,0,0,24,0,0,0,0.0,0.0,0.0,0,0,17,22,77.3,2,12,0,0,0,Cádiz,2020-10-25 Cádiz-Villarreal,ESP-LALIGA,20-21,f1089c9f
+6f4c734d,José Mari,6,ESP,CM,32-324,81,0,0,0,0,1,0,0,0,27,0,3,1,0.0,0.0,0.0,0,0,16,20,80.0,2,9,0,0,0,Cádiz,2020-10-25 Cádiz-Villarreal,ESP-LALIGA,20-21,f1089c9f
+217011a0,Nano,23,ESP,FW,25-263,9,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,1,3,33.3,0,3,0,1,0,Cádiz,2020-10-25 Cádiz-Villarreal,ESP-LALIGA,20-21,f1089c9f
+405f267a,Salvi,7,ESP,RM,29-209,87,0,0,0,0,1,0,1,0,25,0,0,1,0.1,0.1,0.0,1,0,11,18,61.1,1,15,3,1,0,Cádiz,2020-10-25 Cádiz-Villarreal,ESP-LALIGA,20-21,f1089c9f
+5496cc91,Alberto Perea,10,ESP,RM,29-311,3,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,0,0,Cádiz,2020-10-25 Cádiz-Villarreal,ESP-LALIGA,20-21,f1089c9f
+db001fa9,Alfonso Espino,22,URU,LB,28-294,90,0,0,0,0,0,0,0,0,40,3,0,2,0.0,0.0,0.1,1,0,19,30,63.3,0,16,2,2,1,Cádiz,2020-10-25 Cádiz-Villarreal,ESP-LALIGA,20-21,f1089c9f
+fe05804b,Cala,16,ESP,CB,30-334,90,0,0,0,0,0,0,0,0,18,1,3,0,0.0,0.0,0.0,0,0,8,14,57.1,0,8,0,0,0,Cádiz,2020-10-25 Cádiz-Villarreal,ESP-LALIGA,20-21,f1089c9f
+72a84002,Fali,3,ESP,CB,27-074,90,0,0,0,0,0,0,0,0,29,0,3,1,0.0,0.0,0.0,0,0,11,21,52.4,0,7,0,0,0,Cádiz,2020-10-25 Cádiz-Villarreal,ESP-LALIGA,20-21,f1089c9f
+f2a68b97,Carlos Akapo,15,EQG,RB,27-227,90,0,0,0,0,0,0,0,0,53,2,1,2,0.0,0.0,0.0,0,0,28,41,68.3,3,17,2,1,1,Cádiz,2020-10-25 Cádiz-Villarreal,ESP-LALIGA,20-21,f1089c9f
+6c4776b1,Jeremías Ledesma,1,ARG,GK,27-255,90,0,0,0,0,0,0,0,0,36,0,0,0,0.0,0.0,0.0,0,0,7,31,22.6,0,19,0,0,0,Cádiz,2020-10-25 Cádiz-Villarreal,ESP-LALIGA,20-21,f1089c9f
+a7a9d95a,Paco Alcácer,17,ESP,FW,27-056,85,0,0,0,0,2,1,0,0,10,0,0,1,0.5,0.5,0.0,2,0,3,7,42.9,0,5,1,0,0,Villarreal,2020-10-25 Cádiz-Villarreal,ESP-LALIGA,20-21,f1089c9f
+540ec57b,Yeremi Pino,30,ESP,FW,18-005,5,0,0,0,0,0,0,0,0,6,0,1,1,0.0,0.0,0.0,0,0,3,3,100.0,1,3,0,1,1,Villarreal,2020-10-25 Cádiz-Villarreal,ESP-LALIGA,20-21,f1089c9f
+5a626448,Moi Gómez,23,ESP,LW,26-124,90,0,0,0,0,0,0,0,0,72,2,0,0,0.0,0.0,0.1,2,0,57,69,82.6,10,50,1,2,2,Villarreal,2020-10-25 Cádiz-Villarreal,ESP-LALIGA,20-21,f1089c9f
+16aa3654,Takefusa Kubo,16,JPN,RW,19-143,61,0,0,0,0,0,0,0,0,39,0,0,0,0.0,0.0,0.0,1,0,18,32,56.3,0,18,2,1,1,Villarreal,2020-10-25 Cádiz-Villarreal,ESP-LALIGA,20-21,f1089c9f
+b8a642fc,Samuel Chukwueze,11,NGA,RW,21-156,29,0,0,0,0,0,0,0,0,25,0,1,0,0.0,0.0,0.0,2,0,19,21,90.5,0,17,1,2,1,Villarreal,2020-10-25 Cádiz-Villarreal,ESP-LALIGA,20-21,f1089c9f
+a6951bf8,Francis Coquelin,19,FRA,LM,29-165,85,0,0,0,0,1,0,0,0,99,1,0,0,0.0,0.0,0.0,1,0,85,95,89.5,2,55,2,2,2,Villarreal,2020-10-25 Cádiz-Villarreal,ESP-LALIGA,20-21,f1089c9f
+1f079188,Rubén Peña,20,ESP,RB,29-099,5,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,5,0,0,0,Villarreal,2020-10-25 Cádiz-Villarreal,ESP-LALIGA,20-21,f1089c9f
+ad1ffcfd,Vicente Iborra,10,ESP,CM,32-283,90,0,0,0,0,0,0,0,0,107,6,0,0,0.0,0.0,0.0,0,0,89,99,89.9,4,62,1,0,0,Villarreal,2020-10-25 Cádiz-Villarreal,ESP-LALIGA,20-21,f1089c9f
+963829d0,Manu Trigueros,14,ESP,RM,29-008,72,0,0,0,0,1,0,0,0,68,2,0,0,0.0,0.0,0.0,2,0,59,65,90.8,6,41,1,0,0,Villarreal,2020-10-25 Cádiz-Villarreal,ESP-LALIGA,20-21,f1089c9f
+09a9e921,Carlos Bacca,9,COL,RM,34-047,18,0,0,0,0,1,1,0,0,8,0,0,0,0.1,0.1,0.0,0,0,1,3,33.3,0,5,0,1,0,Villarreal,2020-10-25 Cádiz-Villarreal,ESP-LALIGA,20-21,f1089c9f
+63f04c6c,Alfonso Pedraza,24,ESP,LB,24-199,90,0,0,0,0,1,0,1,0,70,2,3,0,0.1,0.1,0.5,2,0,43,59,72.9,2,35,1,0,0,Villarreal,2020-10-25 Cádiz-Villarreal,ESP-LALIGA,20-21,f1089c9f
+532e1e4f,Pau Torres,4,ESP,CB,23-283,90,0,0,0,0,0,0,0,0,129,0,0,1,0.0,0.0,0.0,0,0,111,126,88.1,8,99,6,0,0,Villarreal,2020-10-25 Cádiz-Villarreal,ESP-LALIGA,20-21,f1089c9f
+4bd414c1,Raúl Albiol,3,ESP,CB,35-051,90,0,0,0,0,0,0,0,0,114,0,0,0,0.0,0.0,0.0,1,0,101,109,92.7,8,86,2,0,0,Villarreal,2020-10-25 Cádiz-Villarreal,ESP-LALIGA,20-21,f1089c9f
+fb5d47b3,Mario Gaspar,2,ESP,RB,29-336,85,0,0,0,0,1,0,1,0,78,0,1,0,0.0,0.0,0.0,0,0,60,68,88.2,3,33,0,0,0,Villarreal,2020-10-25 Cádiz-Villarreal,ESP-LALIGA,20-21,f1089c9f
+6c7762c3,Juan Foyth,8,ARG,LM,22-287,5,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,0,0,9,11,81.8,1,6,1,1,1,Villarreal,2020-10-25 Cádiz-Villarreal,ESP-LALIGA,20-21,f1089c9f
+9f0ea33f,Sergio Asenjo,1,ESP,GK,31-119,90,0,0,0,0,0,0,0,0,29,0,0,0,0.0,0.0,0.0,0,0,29,29,100.0,0,16,0,0,0,Villarreal,2020-10-25 Cádiz-Villarreal,ESP-LALIGA,20-21,f1089c9f

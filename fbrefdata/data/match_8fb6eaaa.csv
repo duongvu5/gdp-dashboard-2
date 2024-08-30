@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+129af0db,Álvaro Morata,19,ESP,FW,30-067,90,1,0,0,0,4,1,0,0,34,1,0,0,0.3,0.3,0.2,6,1,16,22,72.7,2,18,3,2,1,Atlético Madrid,2022-12-29 Atlético Madrid-Elche,ESP-LALIGA,22-23,8fb6eaaa
+8aafd64f,João Félix,7,POR,AM,23-049,65,1,0,0,0,6,3,0,0,46,3,0,0,1.0,1.0,0.2,5,0,26,32,81.3,2,28,2,3,1,Atlético Madrid,2022-12-29 Atlético Madrid-Elche,ESP-LALIGA,22-23,8fb6eaaa
+4dbd0916,Thomas Lemar,11,FRA,LM,27-047,25,0,0,0,0,0,0,0,0,26,1,0,0,0.0,0.0,0.0,0,0,22,24,91.7,1,16,2,2,1,Atlético Madrid,2022-12-29 Atlético Madrid-Elche,ESP-LALIGA,22-23,8fb6eaaa
+df69b544,Antoine Griezmann,8,FRA,"AM,FW",31-283,78,0,2,0,0,4,0,0,0,68,3,0,3,0.4,0.4,0.8,7,3,38,50,76.0,6,35,3,2,0,Atlético Madrid,2022-12-29 Atlético Madrid-Elche,ESP-LALIGA,22-23,8fb6eaaa
+c14bc029,Saúl Ñíguez,17,ESP,RM,28-038,12,0,0,0,0,0,0,0,0,16,1,0,0,0.0,0.0,0.0,0,0,12,15,80.0,1,9,0,0,0,Atlético Madrid,2022-12-29 Atlético Madrid-Elche,ESP-LALIGA,22-23,8fb6eaaa
+cce181df,Geoffrey Kondogbia,4,CTA,CM,29-317,90,0,0,0,0,2,0,0,0,70,2,2,1,0.1,0.1,0.0,2,0,59,63,93.7,1,35,0,0,0,Atlético Madrid,2022-12-29 Atlético Madrid-Elche,ESP-LALIGA,22-23,8fb6eaaa
+45736cec,Pablo Barrios,34,ESP,"CM,RM",19-197,78,0,0,0,0,0,0,1,0,67,1,1,1,0.0,0.0,0.1,6,0,50,59,84.7,7,36,0,1,0,Atlético Madrid,2022-12-29 Atlético Madrid-Elche,ESP-LALIGA,22-23,8fb6eaaa
+55126f3b,Koke,6,ESP,CM,30-355,12,0,0,0,0,0,0,0,0,24,1,0,0,0.0,0.0,0.0,0,0,21,22,95.5,2,17,0,0,0,Atlético Madrid,2022-12-29 Atlético Madrid-Elche,ESP-LALIGA,22-23,8fb6eaaa
+de39485a,Yannick Carrasco,21,BEL,WB,29-116,56,0,0,0,0,1,0,0,0,26,0,0,1,0.0,0.0,0.1,1,0,14,18,77.8,2,17,2,3,0,Atlético Madrid,2022-12-29 Atlético Madrid-Elche,ESP-LALIGA,22-23,8fb6eaaa
+3353737a,Sergio Reguilón,3,ESP,"LB,WB",26-013,34,0,0,0,0,0,0,0,0,29,1,1,0,0.0,0.0,0.0,0,0,21,26,80.8,1,13,1,0,0,Atlético Madrid,2022-12-29 Atlético Madrid-Elche,ESP-LALIGA,22-23,8fb6eaaa
+02c15616,Marcos Llorente,14,ESP,"WB,RB",27-333,90,0,0,0,0,0,0,0,0,64,5,0,3,0.0,0.0,0.1,2,0,44,52,84.6,2,28,2,2,1,Atlético Madrid,2022-12-29 Atlético Madrid-Elche,ESP-LALIGA,22-23,8fb6eaaa
+555f3a0b,Mario Hermoso,22,ESP,CB,27-194,52,0,0,0,0,1,0,2,1,58,0,0,2,0.0,0.0,0.1,1,0,48,53,90.6,5,26,1,0,0,Atlético Madrid,2022-12-29 Atlético Madrid-Elche,ESP-LALIGA,22-23,8fb6eaaa
+f6ac68c1,Stefan Savić,15,MNE,CB,31-355,90,0,0,0,0,0,0,0,0,100,2,3,0,0.0,0.0,0.0,1,0,85,92,92.4,2,70,2,0,0,Atlético Madrid,2022-12-29 Atlético Madrid-Elche,ESP-LALIGA,22-23,8fb6eaaa
+f0da930c,José María Giménez,2,URU,CB,27-343,90,0,0,0,0,0,0,0,0,82,1,1,0,0.0,0.0,0.0,1,0,67,74,90.5,9,43,1,0,0,Atlético Madrid,2022-12-29 Atlético Madrid-Elche,ESP-LALIGA,22-23,8fb6eaaa
+ee8508c0,Jan Oblak,13,SVN,GK,29-356,90,0,0,0,0,0,0,0,0,22,0,0,0,0.0,0.0,0.0,1,0,16,21,76.2,0,8,0,0,0,Atlético Madrid,2022-12-29 Atlético Madrid-Elche,ESP-LALIGA,22-23,8fb6eaaa
+d49f3e6b,Lucas Boyé,9,ARG,FW,26-304,68,0,0,0,0,0,0,0,0,28,0,2,1,0.0,0.0,0.0,2,0,13,16,81.3,0,16,0,3,1,Elche,2022-12-29 Atlético Madrid-Elche,ESP-LALIGA,22-23,8fb6eaaa
+85dace26,Álex Collado,15,ESP,RM,23-251,22,0,0,0,0,0,0,1,0,15,1,1,1,0.0,0.0,0.2,2,0,9,12,75.0,0,8,0,0,0,Elche,2022-12-29 Atlético Madrid-Elche,ESP-LALIGA,22-23,8fb6eaaa
+0ae4e09a,Roger Martí,18,ESP,"AM,LM",31-360,68,0,0,0,0,0,0,1,0,24,2,0,1,0.0,0.0,0.0,0,0,10,15,66.7,0,10,1,1,0,Elche,2022-12-29 Atlético Madrid-Elche,ESP-LALIGA,22-23,8fb6eaaa
+ccbbe661,Ezequiel Ponce,19,ARG,FW,25-275,22,0,0,0,0,0,0,0,0,8,0,0,1,0.0,0.0,0.0,0,0,3,4,75.0,0,5,0,0,0,Elche,2022-12-29 Atlético Madrid-Elche,ESP-LALIGA,22-23,8fb6eaaa
+335039a2,Pere Milla,10,ESP,"AM,RM,LM",30-097,82,0,0,0,0,2,0,0,0,42,1,1,1,0.2,0.2,0.0,0,0,18,27,66.7,4,25,0,3,2,Elche,2022-12-29 Atlético Madrid-Elche,ESP-LALIGA,22-23,8fb6eaaa
+eb82b6f1,Fidel,16,ESP,LM,33-063,8,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,3,3,100.0,0,5,0,1,0,Elche,2022-12-29 Atlético Madrid-Elche,ESP-LALIGA,22-23,8fb6eaaa
+11fd2b75,Omar Mascarell,21,EQG,CM,29-330,90,0,0,0,0,0,0,0,0,49,1,1,2,0.0,0.0,0.0,0,0,37,44,84.1,4,26,1,1,0,Elche,2022-12-29 Atlético Madrid-Elche,ESP-LALIGA,22-23,8fb6eaaa
+0b2c8585,Raúl Guti,8,ESP,CM,25-364,82,0,0,0,0,1,0,0,0,28,1,0,0,0.0,0.0,0.0,1,0,18,23,78.3,1,15,1,0,0,Elche,2022-12-29 Atlético Madrid-Elche,ESP-LALIGA,22-23,8fb6eaaa
+41fb0f4e,Domingos Quina,12,POR,CM,23-041,7,0,0,0,0,0,0,2,1,8,0,0,0,0.0,0.0,0.0,0,0,6,6,100.0,1,8,0,0,0,Elche,2022-12-29 Atlético Madrid-Elche,ESP-LALIGA,22-23,8fb6eaaa
+33a61a52,Carlos Clerc,23,ESP,"LB,WB",30-311,90,0,0,0,0,0,0,0,0,72,1,1,0,0.0,0.0,0.0,1,0,45,64,70.3,9,39,3,3,0,Elche,2022-12-29 Atlético Madrid-Elche,ESP-LALIGA,22-23,8fb6eaaa
+ac8b2421,Helibelton Palacios,14,COL,"WB,RB",29-201,82,0,0,0,0,0,0,0,0,41,2,2,1,0.0,0.0,0.1,1,0,22,29,75.9,1,20,1,1,1,Elche,2022-12-29 Atlético Madrid-Elche,ESP-LALIGA,22-23,8fb6eaaa
+004d185e,Tete Morente,11,ESP,RB,26-025,8,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,1,0,9,9,100.0,1,6,1,0,0,Elche,2022-12-29 Atlético Madrid-Elche,ESP-LALIGA,22-23,8fb6eaaa
+697295b1,Pedro Bigas,6,ESP,CB,32-105,90,0,0,0,0,2,1,0,0,59,2,0,0,0.3,0.3,0.0,0,0,42,49,85.7,6,31,0,0,0,Elche,2022-12-29 Atlético Madrid-Elche,ESP-LALIGA,22-23,8fb6eaaa
+1c2c55fc,Gonzalo Verdú,5,ESP,CB,34-069,44,0,0,0,0,0,0,0,1,18,0,1,0,0.0,0.0,0.0,0,0,9,12,75.0,0,6,0,0,0,Elche,2022-12-29 Atlético Madrid-Elche,ESP-LALIGA,22-23,8fb6eaaa
+4ac7608e,Diego González,4,ESP,CB,27-335,90,0,0,0,0,0,0,0,0,48,2,0,2,0.0,0.0,0.0,0,0,36,42,85.7,2,33,0,0,0,Elche,2022-12-29 Atlético Madrid-Elche,ESP-LALIGA,22-23,8fb6eaaa
+e4346678,Édgar Badía,13,ESP,GK,30-320,90,0,0,0,0,0,0,0,0,33,0,0,0,0.0,0.0,0.0,0,0,24,32,75.0,0,18,0,0,0,Elche,2022-12-29 Atlético Madrid-Elche,ESP-LALIGA,22-23,8fb6eaaa

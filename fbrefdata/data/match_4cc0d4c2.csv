@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+42fd9c7f,Kylian Mbappé,7,FRA,FW,21-355,90,2,1,1,1,4,2,0,0,53,0,0,0,1.7,0.9,0.7,6,1,35,42,83.3,0,28,6,2,2,Paris Saint-Germain,2020-12-09 Paris S-G-Başakşehir,UCL,20-21,4cc0d4c2
+69384e5d,Neymar,10,BRA,FW,28-308,90,3,0,0,0,8,6,0,0,82,1,0,0,1.0,1.0,0.4,7,3,45,58,77.6,3,54,7,10,5,Paris Saint-Germain,2020-12-09 Paris S-G-Başakşehir,UCL,20-21,4cc0d4c2
+1467af0d,Marco Verratti,6,ITA,CM,28-034,79,0,1,0,0,1,0,0,0,111,2,1,1,0.0,0.0,0.2,7,1,101,106,95.3,9,61,2,1,1,Paris Saint-Germain,2020-12-09 Paris S-G-Başakşehir,UCL,20-21,4cc0d4c2
+72c812f3,Idrissa Gana Gueye,27,SEN,CM,31-074,11,0,0,0,0,0,0,0,0,16,1,0,0,0.0,0.0,0.0,2,0,15,15,100.0,1,11,0,0,0,Paris Saint-Germain,2020-12-09 Paris S-G-Başakşehir,UCL,20-21,4cc0d4c2
+0c2ac3cb,Rafinha,12,BRA,CM,27-301,45,0,0,0,0,1,0,0,0,43,0,1,2,0.0,0.0,0.0,3,1,36,38,94.7,2,27,4,0,0,Paris Saint-Germain,2020-12-09 Paris S-G-Başakşehir,UCL,20-21,4cc0d4c2
+19cda00b,Ángel Di María,11,ARG,CM,32-299,45,0,2,0,0,2,0,0,0,60,3,0,1,0.1,0.1,0.4,5,2,45,54,83.3,10,33,3,2,2,Paris Saint-Germain,2020-12-09 Paris S-G-Başakşehir,UCL,20-21,4cc0d4c2
+dff153a4,Leandro Paredes,8,ARG,CM,26-163,90,0,0,0,0,2,0,0,0,112,3,2,0,0.1,0.1,0.0,0,0,99,101,98.0,4,60,0,2,2,Paris Saint-Germain,2020-12-09 Paris S-G-Başakşehir,UCL,20-21,4cc0d4c2
+a8567629,Mitchel Bakker,25,NED,LB,20-172,90,0,0,0,0,1,0,0,0,59,1,1,1,0.1,0.1,0.0,2,0,44,48,91.7,1,28,0,2,0,Paris Saint-Germain,2020-12-09 Paris S-G-Başakşehir,UCL,20-21,4cc0d4c2
+aef6e670,Presnel Kimpembe,3,FRA,CB,25-118,79,0,0,0,0,0,0,0,0,88,0,1,1,0.0,0.0,0.0,0,0,79,84,94.0,6,61,0,1,1,Paris Saint-Germain,2020-12-09 Paris S-G-Başakşehir,UCL,20-21,4cc0d4c2
+fc62f087,Abdou Diallo,22,SEN,CB,24-219,11,0,0,0,0,0,0,0,0,8,0,1,0,0.0,0.0,0.0,0,0,5,5,100.0,0,3,0,0,0,Paris Saint-Germain,2020-12-09 Paris S-G-Başakşehir,UCL,20-21,4cc0d4c2
+8fd9996f,Danilo Pereira,15,POR,CB,29-091,90,0,0,0,0,0,0,0,0,89,2,0,1,0.0,0.0,0.0,0,0,72,75,96.0,2,55,0,0,0,Paris Saint-Germain,2020-12-09 Paris S-G-Başakşehir,UCL,20-21,4cc0d4c2
+d5f2f82b,Marquinhos,5,BRA,CB,26-209,66,0,0,0,0,0,0,0,0,78,1,0,0,0.0,0.0,0.1,3,0,69,72,95.8,7,48,0,1,1,Paris Saint-Germain,2020-12-09 Paris S-G-Başakşehir,UCL,20-21,4cc0d4c2
+51dbeea9,Thilo Kehrer,4,GER,CB,24-079,24,0,0,0,0,0,0,0,0,18,0,0,0,0.0,0.0,0.0,0,0,18,18,100.0,1,8,1,1,1,Paris Saint-Germain,2020-12-09 Paris S-G-Başakşehir,UCL,20-21,4cc0d4c2
+e288d4b3,Alessandro Florenzi,24,ITA,RB,29-273,79,0,0,0,0,0,0,0,0,56,1,0,0,0.0,0.0,0.3,3,1,40,52,76.9,4,27,0,1,1,Paris Saint-Germain,2020-12-09 Paris S-G-Başakşehir,UCL,20-21,4cc0d4c2
+f8ce97ca,Timothee Pembele,32,FRA,RB,18-091,11,0,0,0,0,0,0,1,0,10,0,0,0,0.0,0.0,0.0,0,0,6,8,75.0,1,6,0,1,0,Paris Saint-Germain,2020-12-09 Paris S-G-Başakşehir,UCL,20-21,4cc0d4c2
+ecada4fc,Keylor Navas,1,CRC,GK,33-360,90,0,0,0,0,0,0,0,0,26,0,0,0,0.0,0.0,0.0,0,0,21,22,95.5,0,11,0,0,0,Paris Saint-Germain,2020-12-09 Paris S-G-Başakşehir,UCL,20-21,4cc0d4c2
+06f33dc8,Enzo Crivelli,27,FRA,FW,25-307,67,0,0,0,0,0,0,1,0,20,0,0,0,0.0,0.0,0.2,1,0,15,17,88.2,2,9,0,1,0,İstanbul Başakşehir,2020-12-09 Paris S-G-Başakşehir,UCL,20-21,4cc0d4c2
+8b683d09,Demba Ba,19,SEN,FW,35-198,23,0,0,0,0,0,0,0,0,11,0,2,0,0.0,0.0,0.0,1,0,9,9,100.0,0,8,1,0,0,İstanbul Başakşehir,2020-12-09 Paris S-G-Başakşehir,UCL,20-21,4cc0d4c2
+ed140063,Deniz Turuc,23,TUR,"LW,WB",27-315,90,0,0,0,0,1,1,0,0,52,0,1,1,0.1,0.1,0.1,2,0,28,42,66.7,4,39,4,1,1,İstanbul Başakşehir,2020-12-09 Paris S-G-Başakşehir,UCL,20-21,4cc0d4c2
+b686f4c0,Fredrik Gulbrandsen,22,NOR,"RW,WB",28-090,79,0,0,0,0,2,1,0,0,30,1,0,1,0.3,0.3,0.0,1,0,12,17,70.6,1,21,5,4,4,İstanbul Başakşehir,2020-12-09 Paris S-G-Başakşehir,UCL,20-21,4cc0d4c2
+0eac2f24,Emre Kaplan,77,TUR,WB,19-332,11,0,0,0,0,0,0,0,0,9,1,1,0,0.0,0.0,0.0,0,0,5,5,100.0,0,7,0,1,0,İstanbul Başakşehir,2020-12-09 Paris S-G-Başakşehir,UCL,20-21,4cc0d4c2
+d2800f47,İrfan Kahveci,17,TUR,"LM,CM",25-147,90,0,1,0,0,2,0,0,0,55,2,1,0,0.1,0.1,0.2,3,1,30,45,66.7,3,36,4,3,2,İstanbul Başakşehir,2020-12-09 Paris S-G-Başakşehir,UCL,20-21,4cc0d4c2
+bfe272bd,Mahmut Tekdemir,21,TUR,CM,32-324,88,0,0,0,0,2,1,1,0,58,2,1,1,0.1,0.1,0.0,1,0,45,50,90.0,2,40,1,0,0,İstanbul Başakşehir,2020-12-09 Paris S-G-Başakşehir,UCL,20-21,4cc0d4c2
+5b54bf3b,Nacer Chadli,11,BEL,CM,31-129,2,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,1,0,0,1,0.0,0,3,0,1,0,İstanbul Başakşehir,2020-12-09 Paris S-G-Başakşehir,UCL,20-21,4cc0d4c2
+31114001,Berkay Özcan,10,TUR,"RM,CM",22-298,90,0,0,0,0,1,0,0,0,41,1,1,2,0.0,0.0,0.0,0,0,31,32,96.9,2,23,1,0,0,İstanbul Başakşehir,2020-12-09 Paris S-G-Başakşehir,UCL,20-21,4cc0d4c2
+edd38473,Hasan Ali Kaldırım,3,TUR,LB,31-000,67,0,0,0,0,0,0,0,0,31,0,0,4,0.0,0.0,0.0,0,0,14,27,51.9,0,21,1,1,1,İstanbul Başakşehir,2020-12-09 Paris S-G-Başakşehir,UCL,20-21,4cc0d4c2
+c603ad6a,Boli Bolingoli-Mbombo,63,BEL,"CB,LB",25-161,23,0,0,0,0,0,0,0,0,12,0,1,0,0.0,0.0,0.1,1,0,10,11,90.9,1,10,2,1,1,İstanbul Başakşehir,2020-12-09 Paris S-G-Başakşehir,UCL,20-21,4cc0d4c2
+f93c876b,Mehmet Topal,5,TUR,CB,34-281,90,1,0,0,0,1,1,0,0,33,1,5,1,0.1,0.1,0.0,0,0,19,23,82.6,0,17,0,0,0,İstanbul Başakşehir,2020-12-09 Paris S-G-Başakşehir,UCL,20-21,4cc0d4c2
+b1579026,Carlos Ponck,26,CPV,CB,25-331,90,0,0,0,0,0,0,0,0,31,1,4,3,0.0,0.0,0.0,0,0,16,19,84.2,2,17,1,1,0,İstanbul Başakşehir,2020-12-09 Paris S-G-Başakşehir,UCL,20-21,4cc0d4c2
+9a1f2e1c,Rafael,4,BRA,RB,30-153,67,0,0,0,0,0,0,1,0,40,2,0,0,0.0,0.0,0.0,1,0,24,35,68.6,4,26,2,1,0,İstanbul Başakşehir,2020-12-09 Paris S-G-Başakşehir,UCL,20-21,4cc0d4c2
+ab1b205d,Giuliano de Paula,20,BRA,"FW,RB",30-192,23,0,0,0,0,1,0,0,0,16,0,0,0,0.0,0.0,0.0,0,0,10,12,83.3,1,10,0,2,1,İstanbul Başakşehir,2020-12-09 Paris S-G-Başakşehir,UCL,20-21,4cc0d4c2
+b583aef5,Mert Günok,34,TUR,GK,31-283,90,0,0,0,0,0,0,1,0,31,0,0,0,0.0,0.0,0.0,0,0,17,29,58.6,0,22,0,0,0,İstanbul Başakşehir,2020-12-09 Paris S-G-Başakşehir,UCL,20-21,4cc0d4c2

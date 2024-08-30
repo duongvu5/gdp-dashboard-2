@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+87f7500e,Karlan Grant,29,ENG,FW,23-051,83,0,0,0,0,2,0,0,0,29,0,0,1,0.3,0.3,0.0,1,0,14,23,60.9,2,15,2,0,0,West Bromwich Albion,2020-11-08 West Brom-Tottenham,ENG-EPL,20-21,90c0e34c
+7bb5f40e,Matt Phillips,10,SCO,"RM,FW",29-240,7,0,0,0,0,0,0,0,0,8,1,0,0,0.0,0.0,0.0,0,0,3,6,50.0,1,2,0,1,0,West Bromwich Albion,2020-11-08 West Brom-Tottenham,ENG-EPL,20-21,90c0e34c
+e75750a3,Callum Robinson,7,IRL,FW,25-280,66,0,0,0,0,2,1,0,0,34,0,0,1,0.1,0.1,0.2,5,0,16,26,61.5,0,22,2,2,2,West Bromwich Albion,2020-11-08 West Brom-Tottenham,ENG-EPL,20-21,90c0e34c
+f522d7ec,Grady Diangana,11,COD,FW,22-203,24,0,0,0,0,0,0,0,0,15,0,0,0,0.0,0.0,0.0,1,0,6,10,60.0,0,5,0,1,0,West Bromwich Albion,2020-11-08 West Brom-Tottenham,ENG-EPL,20-21,90c0e34c
+c2dfedeb,Filip Krovinović,17,CRO,CM,25-071,90,0,0,0,0,1,0,0,0,74,3,2,0,0.0,0.0,0.1,7,0,44,65,67.7,7,21,1,2,2,West Bromwich Albion,2020-11-08 West Brom-Tottenham,ENG-EPL,20-21,90c0e34c
+b98570d1,Jake Livermore,8,ENG,CM,30-360,88,0,0,0,0,2,0,0,0,41,2,1,3,0.1,0.1,0.0,1,0,17,24,70.8,2,10,0,0,0,West Bromwich Albion,2020-11-08 West Brom-Tottenham,ENG-EPL,20-21,90c0e34c
+1566e437,Kyle Edwards,21,ENG,LM,22-265,2,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,3,4,75.0,0,5,0,1,0,West Bromwich Albion,2020-11-08 West Brom-Tottenham,ENG-EPL,20-21,90c0e34c
+c2731c10,Conor Gallagher,18,ENG,CM,20-276,90,0,0,0,0,2,0,0,0,37,3,0,0,0.1,0.1,0.0,0,0,18,26,69.2,2,13,0,4,3,West Bromwich Albion,2020-11-08 West Brom-Tottenham,ENG-EPL,20-21,90c0e34c
+4dc4f138,Conor Townsend,14,ENG,LB,27-249,90,0,0,0,0,0,0,0,0,59,1,0,2,0.0,0.0,0.0,2,0,27,47,57.4,6,19,0,2,2,West Bromwich Albion,2020-11-08 West Brom-Tottenham,ENG-EPL,20-21,90c0e34c
+1d042188,Dara O'Shea,27,IRL,CB,21-249,90,0,0,0,0,1,0,0,0,46,1,3,2,0.0,0.0,0.0,1,0,24,37,64.9,4,17,0,0,0,West Bromwich Albion,2020-11-08 West Brom-Tottenham,ENG-EPL,20-21,90c0e34c
+18e96f64,Kyle Bartley,5,ENG,CB,29-170,90,0,0,0,0,0,0,1,0,33,1,1,2,0.0,0.0,0.0,1,0,15,24,62.5,2,11,0,0,0,West Bromwich Albion,2020-11-08 West Brom-Tottenham,ENG-EPL,20-21,90c0e34c
+d6192210,Semi Ajayi,6,NGA,CB,26-365,90,0,0,0,0,0,0,0,0,46,5,4,3,0.0,0.0,0.0,0,0,28,34,82.4,2,17,3,3,1,West Bromwich Albion,2020-11-08 West Brom-Tottenham,ENG-EPL,20-21,90c0e34c
+3ec9195b,Darnell Furlong,2,ENG,RB,25-008,90,0,0,0,0,2,1,0,0,51,2,0,0,0.1,0.1,0.3,2,0,23,40,57.5,3,21,5,2,1,West Bromwich Albion,2020-11-08 West Brom-Tottenham,ENG-EPL,20-21,90c0e34c
+9e5708be,Sam Johnstone,1,ENG,GK,27-228,90,0,0,0,0,0,0,0,0,29,0,0,0,0.0,0.0,0.0,0,0,13,28,46.4,0,14,0,0,0,West Bromwich Albion,2020-11-08 West Brom-Tottenham,ENG-EPL,20-21,90c0e34c
+21a66f6a,Harry Kane,10,ENG,FW,27-103,90,1,0,0,0,7,1,0,0,50,1,1,0,0.7,0.7,0.2,9,0,25,34,73.5,6,28,4,5,3,Tottenham Hotspur,2020-11-08 West Brom-Tottenham,ENG-EPL,20-21,90c0e34c
+92e7e919,Son Heung-min,7,KOR,"LW,LM",28-123,90,0,0,0,0,3,1,0,0,50,1,0,2,0.4,0.4,0.0,2,0,34,41,82.9,6,30,1,0,0,Tottenham Hotspur,2020-11-08 West Brom-Tottenham,ENG-EPL,20-21,90c0e34c
+a58bb1e1,Gareth Bale,9,WAL,RW,31-115,77,0,0,0,0,2,0,0,0,35,0,2,0,0.1,0.1,0.1,1,0,15,26,57.7,1,18,1,1,1,Tottenham Hotspur,2020-11-08 West Brom-Tottenham,ENG-EPL,20-21,90c0e34c
+2b622f01,Lucas Moura,27,BRA,RM,28-087,13,0,0,0,0,0,0,0,0,11,1,0,0,0.0,0.0,0.0,0,0,4,7,57.1,0,3,0,0,0,Tottenham Hotspur,2020-11-08 West Brom-Tottenham,ENG-EPL,20-21,90c0e34c
+5cdddffa,Tanguy Ndombele,28,FRA,AM,23-316,63,0,0,0,0,0,0,0,0,39,0,0,0,0.0,0.0,0.4,4,0,26,35,74.3,6,19,2,1,1,Tottenham Hotspur,2020-11-08 West Brom-Tottenham,ENG-EPL,20-21,90c0e34c
+d7553721,Giovani Lo Celso,18,ARG,"CM,AM",24-213,27,0,0,0,0,1,0,0,0,22,2,0,0,0.5,0.5,0.0,1,0,12,17,70.6,3,10,0,1,1,Tottenham Hotspur,2020-11-08 West Brom-Tottenham,ENG-EPL,20-21,90c0e34c
+8b04d6c1,Pierre Højbjerg,5,DEN,"DM,CM",25-095,90,0,0,0,0,0,0,0,0,82,7,0,0,0.0,0.0,0.0,4,0,58,70,82.9,7,33,0,1,0,Tottenham Hotspur,2020-11-08 West Brom-Tottenham,ENG-EPL,20-21,90c0e34c
+2acd49b9,Moussa Sissoko,17,FRA,DM,31-084,78,0,0,0,0,0,0,0,0,40,1,1,0,0.0,0.0,0.0,1,0,31,34,91.2,5,16,1,0,0,Tottenham Hotspur,2020-11-08 West Brom-Tottenham,ENG-EPL,20-21,90c0e34c
+8b529245,Carlos Vinícius,45,BRA,FW,25-228,12,0,0,0,0,2,1,0,0,4,0,0,0,0.1,0.1,0.0,1,0,1,1,100.0,0,2,0,0,0,Tottenham Hotspur,2020-11-08 West Brom-Tottenham,ENG-EPL,20-21,90c0e34c
+3353737a,Sergio Reguilón,3,ESP,LB,23-328,90,0,0,0,0,3,1,0,0,95,2,2,3,0.1,0.1,0.1,3,0,56,72,77.8,2,40,3,4,1,Tottenham Hotspur,2020-11-08 West Brom-Tottenham,ENG-EPL,20-21,90c0e34c
+ac861941,Eric Dier,15,ENG,CB,26-298,90,0,0,0,0,0,0,0,0,77,0,1,1,0.0,0.0,0.0,1,0,50,68,73.5,1,31,0,0,0,Tottenham Hotspur,2020-11-08 West Brom-Tottenham,ENG-EPL,20-21,90c0e34c
+f7d50789,Toby Alderweireld,4,BEL,CB,31-251,90,0,0,0,0,1,1,0,0,67,0,0,1,0.0,0.0,0.0,2,1,47,57,82.5,4,28,0,0,0,Tottenham Hotspur,2020-11-08 West Brom-Tottenham,ENG-EPL,20-21,90c0e34c
+d557d734,Matt Doherty,2,IRL,RB,28-297,90,0,1,0,0,0,0,0,0,71,1,1,0,0.0,0.0,0.3,4,1,47,61,77.0,2,28,0,0,0,Tottenham Hotspur,2020-11-08 West Brom-Tottenham,ENG-EPL,20-21,90c0e34c
+8f62b6ee,Hugo Lloris,1,FRA,GK,33-318,90,0,0,0,0,0,0,0,0,29,0,0,0,0.0,0.0,0.0,1,0,15,28,53.6,0,7,0,0,0,Tottenham Hotspur,2020-11-08 West Brom-Tottenham,ENG-EPL,20-21,90c0e34c

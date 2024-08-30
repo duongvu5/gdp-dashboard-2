@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+9dbb75ca,Alexandre Lacazette,9,FRA,FW,29-235,90,0,0,0,0,2,2,0,0,33,1,0,0,0.4,0.4,0.2,7,1,20,22,90.9,4,19,0,1,1,Arsenal,2021-01-18 Arsenal-Newcastle Utd,ENG-EPL,20-21,620df215
+d5dd5f1f,Pierre-Emerick Aubameyang,14,GAB,LW,31-214,78,2,0,0,0,5,2,0,0,38,0,1,1,1.2,1.2,0.0,2,1,20,28,71.4,5,19,5,1,0,Arsenal,2021-01-18 Arsenal-Newcastle Utd,ENG-EPL,20-21,620df215
+8b9ebd03,Willian,12,BRA,"AM,LW",32-162,12,0,0,0,0,1,0,0,0,12,0,0,0,0.1,0.1,0.1,1,0,10,11,90.9,2,11,1,0,0,Arsenal,2021-01-18 Arsenal-Newcastle Utd,ENG-EPL,20-21,620df215
+bc7dc64d,Bukayo Saka,7,ENG,RW,19-135,90,1,0,0,0,4,2,0,0,56,0,3,2,0.3,0.3,0.4,10,1,36,43,83.7,5,35,3,3,1,Arsenal,2021-01-18 Arsenal-Newcastle Utd,ENG-EPL,20-21,620df215
+17695062,Emile Smith Rowe,32,ENG,AM,20-174,81,0,1,0,0,0,0,0,0,59,0,0,1,0.0,0.0,0.2,6,1,48,56,85.7,6,30,4,1,1,Arsenal,2021-01-18 Arsenal-Newcastle Utd,ENG-EPL,20-21,620df215
+48a5a5d6,Gabriel Martinelli,35,BRA,LW,19-214,9,0,0,0,0,1,0,0,0,6,0,0,0,0.1,0.1,0.0,0,0,2,2,100.0,0,5,0,1,0,Arsenal,2021-01-18 Arsenal-Newcastle Utd,ENG-EPL,20-21,620df215
+e61b8aee,Granit Xhaka,34,SUI,DM,28-113,90,0,0,0,0,1,0,0,0,107,2,0,0,0.0,0.0,0.0,0,0,95,102,93.1,16,75,3,3,3,Arsenal,2021-01-18 Arsenal-Newcastle Utd,ENG-EPL,20-21,620df215
+529f49ab,Thomas Partey,18,GHA,DM,27-219,66,0,1,0,0,1,0,0,0,69,0,2,0,0.0,0.0,0.1,3,1,56,60,93.3,7,48,3,0,0,Arsenal,2021-01-18 Arsenal-Newcastle Utd,ENG-EPL,20-21,620df215
+47a34c4f,Mohamed Elneny,25,EGY,DM,28-191,24,0,0,0,0,0,0,0,0,28,1,0,0,0.0,0.0,0.0,0,0,27,28,96.4,0,20,0,0,0,Arsenal,2021-01-18 Arsenal-Newcastle Utd,ENG-EPL,20-21,620df215
+fce2302c,Kieran Tierney,3,SCO,LB,23-227,90,0,0,0,0,2,0,0,0,69,3,0,0,0.1,0.1,0.1,2,0,47,60,78.3,5,43,3,1,1,Arsenal,2021-01-18 Arsenal-Newcastle Utd,ENG-EPL,20-21,620df215
+c0e27d1a,David Luiz,23,BRA,CB,33-271,90,0,0,0,0,3,0,0,0,79,0,2,0,0.3,0.3,0.0,0,0,62,70,88.6,5,63,0,0,0,Arsenal,2021-01-18 Arsenal-Newcastle Utd,ENG-EPL,20-21,620df215
+d79a8c87,Rob Holding,16,ENG,CB,25-120,90,0,0,0,0,0,0,0,0,94,0,1,1,0.0,0.0,0.0,0,0,78,87,89.7,9,67,0,1,1,Arsenal,2021-01-18 Arsenal-Newcastle Utd,ENG-EPL,20-21,620df215
+839c14e1,Cédric Soares,17,POR,RB,29-140,90,0,1,0,0,0,0,0,0,86,0,0,0,0.0,0.0,0.7,4,1,66,82,80.5,11,46,1,1,1,Arsenal,2021-01-18 Arsenal-Newcastle Utd,ENG-EPL,20-21,620df215
+2628fd2b,Bernd Leno,1,GER,GK,28-320,90,0,0,0,0,0,0,0,0,28,0,0,0,0.0,0.0,0.0,0,0,25,28,89.3,0,19,0,0,0,Arsenal,2021-01-18 Arsenal-Newcastle Utd,ENG-EPL,20-21,620df215
+c596fcb0,Callum Wilson,13,ENG,FW,28-326,90,0,0,0,0,1,0,0,0,27,2,0,0,0.1,0.1,0.0,1,0,13,14,92.9,1,15,1,3,2,Newcastle United,2021-01-18 Arsenal-Newcastle Utd,ENG-EPL,20-21,620df215
+b581987a,Andy Carroll,7,ENG,FW,32-012,68,0,0,0,0,1,0,0,0,37,0,0,0,0.0,0.0,0.0,1,0,17,30,56.7,1,20,0,0,0,Newcastle United,2021-01-18 Arsenal-Newcastle Utd,ENG-EPL,20-21,620df215
+de112b84,Jacob Murphy,23,ENG,RM,25-329,22,0,0,0,0,0,0,0,0,7,0,0,2,0.0,0.0,0.0,0,0,2,5,40.0,1,3,2,1,1,Newcastle United,2021-01-18 Arsenal-Newcastle Utd,ENG-EPL,20-21,620df215
+c17bfb65,Joelinton,9,BRA,"LM,FW",24-157,90,0,0,0,0,0,0,0,0,34,2,0,2,0.0,0.0,0.0,0,0,14,23,60.9,0,17,0,2,2,Newcastle United,2021-01-18 Arsenal-Newcastle Utd,ENG-EPL,20-21,620df215
+c0027d2d,Matthew Longstaff,4,ENG,CM,20-303,77,0,0,0,0,0,0,0,0,27,0,0,0,0.0,0.0,0.0,0,0,23,27,85.2,1,18,0,0,0,Newcastle United,2021-01-18 Arsenal-Newcastle Utd,ENG-EPL,20-21,620df215
+989d5705,Jeff Hendrick,16,IRL,CM,28-353,13,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,3,4,75.0,0,2,0,0,0,Newcastle United,2021-01-18 Arsenal-Newcastle Utd,ENG-EPL,20-21,620df215
+3727dd3c,Jonjo Shelvey,8,ENG,CM,28-326,90,0,0,0,0,0,0,0,0,53,0,0,1,0.0,0.0,0.0,1,0,39,49,79.6,7,36,0,2,2,Newcastle United,2021-01-18 Arsenal-Newcastle Utd,ENG-EPL,20-21,620df215
+862a1c15,Miguel Almirón,24,PAR,"RM,LM",26-343,86,0,0,0,0,1,0,0,0,38,2,1,2,0.0,0.0,0.1,2,0,22,27,81.5,4,28,4,4,1,Newcastle United,2021-01-18 Arsenal-Newcastle Utd,ENG-EPL,20-21,620df215
+de31038e,Elliot Anderson,57,SCO,LM,18-073,4,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,0,0,Newcastle United,2021-01-18 Arsenal-Newcastle Utd,ENG-EPL,20-21,620df215
+efb9215a,Jamal Lewis,15,NIR,LB,22-359,90,0,0,0,0,0,0,0,0,44,4,0,2,0.0,0.0,0.0,1,0,19,33,57.6,1,22,0,0,0,Newcastle United,2021-01-18 Arsenal-Newcastle Utd,ENG-EPL,20-21,620df215
+2b91cf8e,Ciaran Clark,2,IRL,CB,31-114,90,0,0,0,0,0,0,0,0,49,0,0,0,0.0,0.0,0.0,1,0,31,43,72.1,2,39,0,1,1,Newcastle United,2021-01-18 Arsenal-Newcastle Utd,ENG-EPL,20-21,620df215
+450ab6fc,Jamaal Lascelles,6,ENG,CB,27-068,90,0,0,0,0,1,1,0,0,30,0,0,1,0.0,0.0,0.0,0,0,23,24,95.8,0,24,0,0,0,Newcastle United,2021-01-18 Arsenal-Newcastle Utd,ENG-EPL,20-21,620df215
+77cf6852,Emil Krafth,17,SWE,RB,26-169,90,0,0,0,0,0,0,0,0,46,1,2,2,0.0,0.0,0.0,0,0,24,35,68.6,0,26,2,0,0,Newcastle United,2021-01-18 Arsenal-Newcastle Utd,ENG-EPL,20-21,620df215
+cde3309f,Karl Darlow,26,ENG,GK,30-102,90,0,0,0,0,0,0,0,0,43,0,0,0,0.0,0.0,0.0,0,0,22,38,57.9,0,18,0,0,0,Newcastle United,2021-01-18 Arsenal-Newcastle Utd,ENG-EPL,20-21,620df215

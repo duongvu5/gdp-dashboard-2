@@ -1,0 +1,32 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+8c90fd7a,Victor Osimhen,9,NGA,FW,24-064,90,0,0,0,0,3,0,1,0,20,0,0,0,0.3,0.3,0.1,3,0,7,12,58.3,2,12,1,1,0,Napoli,2023-03-03 Napoli-Lazio,ITA-SERIA_A,22-23,8d3018cb
+dea88efd,Khvicha Kvaratskhelia,77,GEO,"LW,LM",22-019,90,0,0,0,0,2,0,0,0,53,0,0,1,0.1,0.1,0.3,5,0,32,44,72.7,4,23,5,9,4,Napoli,2023-03-03 Napoli-Lazio,ITA-SERIA_A,22-23,8d3018cb
+a69e4806,Hirving Lozano,11,MEX,RW,27-216,70,0,0,0,0,0,0,0,0,29,2,2,2,0.0,0.0,0.0,0,0,14,21,66.7,0,18,3,4,2,Napoli,2023-03-03 Napoli-Lazio,ITA-SERIA_A,22-23,8d3018cb
+5e861944,Matteo Politano,21,ITA,"RM,RW",29-212,20,0,0,0,0,1,0,0,0,17,0,0,0,0.0,0.0,0.0,2,0,10,14,71.4,4,12,1,3,2,Napoli,2023-03-03 Napoli-Lazio,ITA-SERIA_A,22-23,8d3018cb
+a5296e55,Piotr Zieliński,20,POL,LM,28-287,81,0,0,0,0,2,1,0,0,55,1,1,0,0.1,0.1,0.1,6,0,43,49,87.8,1,21,3,3,2,Napoli,2023-03-03 Napoli-Lazio,ITA-SERIA_A,22-23,8d3018cb
+343c0d52,Giovanni Simeone,18,ARG,FW,27-241,9,0,0,0,0,0,0,0,0,4,0,0,1,0.0,0.0,0.0,0,0,0,2,0.0,0,3,0,1,0,Napoli,2023-03-03 Napoli-Lazio,ITA-SERIA_A,22-23,8d3018cb
+e1cbb531,Stanislav Lobotka,68,SVK,CM,28-098,81,0,0,0,0,2,0,0,0,69,0,0,3,0.1,0.1,0.1,1,0,62,64,96.9,7,34,1,0,0,Napoli,2023-03-03 Napoli-Lazio,ITA-SERIA_A,22-23,8d3018cb
+5cdddffa,Tanguy Ndombele,91,FRA,CM,26-065,9,0,0,0,0,0,0,0,0,18,0,0,0,0.0,0.0,0.0,0,0,13,16,81.3,4,16,2,4,2,Napoli,2023-03-03 Napoli-Lazio,ITA-SERIA_A,22-23,8d3018cb
+6bb2c084,Andre-Frank Zambo Anguissa,99,CMR,RM,27-107,70,0,0,0,0,1,0,0,0,71,2,1,2,0.0,0.0,0.0,2,0,53,60,88.3,7,38,1,1,1,Napoli,2023-03-03 Napoli-Lazio,ITA-SERIA_A,22-23,8d3018cb
+cf007308,Elif Elmas,7,MKD,"CM,RM",23-160,20,0,0,0,0,2,0,1,0,29,0,0,0,0.1,0.1,0.0,0,0,20,24,83.3,4,20,3,2,1,Napoli,2023-03-03 Napoli-Lazio,ITA-SERIA_A,22-23,8d3018cb
+41c12f75,Mathías Olivera,17,URU,LB,25-123,89,0,0,0,0,0,0,0,0,103,1,4,2,0.0,0.0,0.1,4,0,79,91,86.8,6,53,2,4,2,Napoli,2023-03-03 Napoli-Lazio,ITA-SERIA_A,22-23,8d3018cb
+2f45300d,Karim Zedadka,31,FRA,LB,22-267,1,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,0,0,0,0,Napoli,2023-03-03 Napoli-Lazio,ITA-SERIA_A,22-23,8d3018cb
+e0f8151c,Kim Min-jae,3,KOR,CB,26-108,90,0,0,0,0,1,1,0,0,163,0,0,2,0.1,0.1,0.0,1,0,145,155,93.5,9,97,0,0,0,Napoli,2023-03-03 Napoli-Lazio,ITA-SERIA_A,22-23,8d3018cb
+4b3e1a38,Amir Rrahmani,13,KVX,CB,29-007,90,0,0,0,0,0,0,0,0,135,1,2,2,0.0,0.0,0.0,0,0,116,128,90.6,2,96,0,0,0,Napoli,2023-03-03 Napoli-Lazio,ITA-SERIA_A,22-23,8d3018cb
+230a2fac,Giovanni Di Lorenzo,22,ITA,RB,29-211,90,0,0,0,0,0,0,0,0,81,0,1,1,0.0,0.0,0.0,3,0,61,77,79.2,6,40,0,0,0,Napoli,2023-03-03 Napoli-Lazio,ITA-SERIA_A,22-23,8d3018cb
+9413b19f,Alex Meret,1,ITA,GK,25-346,90,0,0,0,0,0,0,0,0,27,0,0,0,0.0,0.0,0.0,0,0,26,26,100.0,0,18,0,0,0,Napoli,2023-03-03 Napoli-Lazio,ITA-SERIA_A,22-23,8d3018cb
+4431aed2,Ciro Immobile,17,ITA,FW,33-011,90,0,0,0,0,0,0,0,0,40,0,0,0,0.0,0.0,0.1,0,0,24,32,75.0,2,20,0,2,1,Lazio,2023-03-03 Napoli-Lazio,ITA-SERIA_A,22-23,8d3018cb
+d85c238b,Mattia Zaccagni,20,ITA,LW,27-260,81,0,0,0,0,0,0,0,0,33,0,0,1,0.0,0.0,0.0,1,0,18,23,78.3,1,19,1,5,2,Lazio,2023-03-03 Napoli-Lazio,ITA-SERIA_A,22-23,8d3018cb
+b6a1cdf9,Matteo Cancellieri,11,ITA,RW,21-019,9,0,0,0,0,1,0,0,0,6,2,0,1,0.0,0.0,0.0,1,0,1,1,100.0,0,4,0,1,0,Lazio,2023-03-03 Napoli-Lazio,ITA-SERIA_A,22-23,8d3018cb
+9f1893b9,Felipe Anderson,7,BRA,RW,29-322,58,0,0,0,0,0,0,0,0,31,4,2,1,0.0,0.0,0.0,0,0,11,18,61.1,1,16,1,2,0,Lazio,2023-03-03 Napoli-Lazio,ITA-SERIA_A,22-23,8d3018cb
+3ca7254a,Pedro,9,ESP,"RW,LW",35-218,32,0,0,0,0,0,0,0,0,15,0,1,2,0.0,0.0,0.0,0,0,6,10,60.0,0,7,0,1,1,Lazio,2023-03-03 Napoli-Lazio,ITA-SERIA_A,22-23,8d3018cb
+5294a83f,Luis Alberto,10,ESP,LM,30-156,87,0,0,0,0,0,0,0,0,58,1,0,2,0.0,0.0,0.0,1,0,44,53,83.0,4,31,2,3,1,Lazio,2023-03-03 Napoli-Lazio,ITA-SERIA_A,22-23,8d3018cb
+ba3d3bea,Danilo Cataldi,32,ITA,LM,28-209,3,0,0,0,0,0,0,0,0,3,0,0,1,0.0,0.0,0.0,0,0,1,2,50.0,0,2,0,0,0,Lazio,2023-03-03 Napoli-Lazio,ITA-SERIA_A,22-23,8d3018cb
+44ac04e9,Matías Vecino,5,URU,CM,31-191,90,1,0,0,0,2,1,0,0,56,2,0,4,0.1,0.1,0.0,0,0,36,42,85.7,4,20,1,0,0,Lazio,2023-03-03 Napoli-Lazio,ITA-SERIA_A,22-23,8d3018cb
+4e6dbac4,Sergej Milinković-Savić,21,SRB,RM,28-004,90,0,0,0,0,2,0,0,0,48,0,0,1,0.1,0.1,0.0,2,0,32,40,80.0,2,19,2,1,1,Lazio,2023-03-03 Napoli-Lazio,ITA-SERIA_A,22-23,8d3018cb
+2f3452eb,Elseid Hysaj,23,ALB,LB,29-011,90,0,0,0,0,0,0,0,0,60,3,1,4,0.0,0.0,0.0,1,0,36,46,78.3,1,19,1,2,1,Lazio,2023-03-03 Napoli-Lazio,ITA-SERIA_A,22-23,8d3018cb
+3ead85f9,Alessio Romagnoli,13,ITA,CB,28-050,90,0,0,0,0,0,0,0,0,58,0,0,2,0.0,0.0,0.0,0,0,45,52,86.5,1,22,0,0,0,Lazio,2023-03-03 Napoli-Lazio,ITA-SERIA_A,22-23,8d3018cb
+f7223718,Patric,4,ESP,CB,29-320,90,0,0,0,0,0,0,1,0,51,0,2,0,0.0,0.0,0.0,0,0,33,46,71.7,0,22,0,0,0,Lazio,2023-03-03 Napoli-Lazio,ITA-SERIA_A,22-23,8d3018cb
+d4535821,Adam Marušić,77,MNE,RB,30-137,90,0,0,0,0,0,0,1,0,37,1,2,0,0.0,0.0,0.0,0,0,22,32,68.8,1,9,0,0,0,Lazio,2023-03-03 Napoli-Lazio,ITA-SERIA_A,22-23,8d3018cb
+277da414,Ivan Provedel,94,ITA,GK,28-351,90,0,0,0,0,0,0,0,0,38,0,0,0,0.0,0.0,0.0,0,0,23,36,63.9,0,22,0,0,0,Lazio,2023-03-03 Napoli-Lazio,ITA-SERIA_A,22-23,8d3018cb

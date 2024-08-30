@@ -1,0 +1,28 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+c24dba2a,Andre Gray,18,JAM,FW,28-150,55,0,0,0,0,0,0,1,0,13,0,0,0,0.0,0.0,0.0,0,0,5,8,62.5,2,7,0,1,0,Watford,2019-11-23 Watford-Burnley,ENG-EPL,19-20,d4aea4c0
+82e34b69,Troy Deeney,9,ENG,FW,31-147,35,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,4,4,100.0,0,0,0,0,0,Watford,2019-11-23 Watford-Burnley,ENG-EPL,19-20,d4aea4c0
+39583cfd,Gerard Deulofeu,7,ESP,"FW,LW",25-255,90,0,0,0,0,4,3,0,0,47,1,0,0,0.2,0.2,0.2,9,0,24,36,66.7,2,36,10,2,2,Watford,2019-11-23 Watford-Burnley,ENG-EPL,19-20,d4aea4c0
+a0666d3e,Will Hughes,19,ENG,CM,24-220,66,0,0,0,0,1,0,0,0,34,1,0,0,0.1,0.1,0.0,4,0,20,25,80.0,5,18,1,0,0,Watford,2019-11-23 Watford-Burnley,ENG-EPL,19-20,d4aea4c0
+bfdb33aa,Ismaila Sarr,23,SEN,RW,21-271,24,0,0,0,0,1,0,0,0,9,0,0,0,0.1,0.1,0.0,0,0,5,7,71.4,0,10,2,1,1,Watford,2019-11-23 Watford-Burnley,ENG-EPL,19-20,d4aea4c0
+5acc4a10,Étienne Capoue,29,FRA,CM,31-135,90,0,0,0,0,3,0,0,0,62,1,0,0,0.2,0.2,0.2,4,0,47,54,87.0,2,28,1,0,0,Watford,2019-11-23 Watford-Burnley,ENG-EPL,19-20,d4aea4c0
+02b29014,Abdoulaye Doucouré,16,MLI,CM,26-326,90,0,0,0,0,2,0,0,0,61,2,0,1,0.1,0.1,0.1,4,0,41,49,83.7,1,33,1,1,1,Watford,2019-11-23 Watford-Burnley,ENG-EPL,19-20,d4aea4c0
+12aa7661,José Holebas,25,GRE,"LB,LM",35-149,90,0,0,0,0,1,1,0,0,74,0,0,1,0.1,0.1,0.0,4,0,40,69,58.0,3,32,6,1,1,Watford,2019-11-23 Watford-Burnley,ENG-EPL,19-20,d4aea4c0
+89e4b358,Craig Cathcart,15,NIR,CB,30-290,90,0,0,0,0,1,0,0,0,49,2,0,1,0.1,0.1,0.0,0,0,33,40,82.5,1,24,0,1,1,Watford,2019-11-23 Watford-Burnley,ENG-EPL,19-20,d4aea4c0
+3e9e06cb,Craig Dawson,4,ENG,CB,29-201,44,0,0,0,0,1,0,0,0,28,0,1,0,0.0,0.0,0.1,0,0,16,23,69.6,0,16,0,0,0,Watford,2019-11-23 Watford-Burnley,ENG-EPL,19-20,d4aea4c0
+de0f152c,Adam Masina,11,MAR,CB,25-325,46,0,0,0,0,0,0,0,0,38,1,0,1,0.0,0.0,0.0,1,0,18,29,62.1,1,24,2,0,0,Watford,2019-11-23 Watford-Burnley,ENG-EPL,19-20,d4aea4c0
+8aa5f52c,Adrian Mariappa,6,JAM,CB,33-051,90,0,0,0,0,1,0,0,0,47,0,0,0,0.1,0.1,0.0,0,0,24,34,70.6,1,24,0,0,0,Watford,2019-11-23 Watford-Burnley,ENG-EPL,19-20,d4aea4c0
+e5d01ecf,Kiko Femenía,21,ESP,"RB,RM",28-294,90,0,0,0,0,0,0,0,0,65,3,0,1,0.0,0.0,0.0,1,0,46,57,80.7,6,31,4,0,0,Watford,2019-11-23 Watford-Burnley,ENG-EPL,19-20,d4aea4c0
+d0b3ceb9,Ben Foster,26,ENG,GK,36-234,90,0,0,0,0,0,0,0,0,29,0,0,0,0.0,0.0,0.0,0,0,13,26,50.0,0,13,0,0,0,Watford,2019-11-23 Watford-Burnley,ENG-EPL,19-20,d4aea4c0
+2691c772,Ashley Barnes,10,ENG,FW,30-024,90,1,0,1,1,3,0,0,0,22,1,1,1,0.9,0.1,0.0,3,1,5,9,55.6,0,8,0,0,0,Burnley,2019-11-23 Watford-Burnley,ENG-EPL,19-20,d4aea4c0
+4e9a0555,Chris Wood,9,NZL,FW,27-351,74,1,0,0,0,1,1,0,0,14,0,0,1,0.3,0.3,0.0,1,0,4,6,66.7,0,4,0,0,0,Burnley,2019-11-23 Watford-Burnley,ENG-EPL,19-20,d4aea4c0
+4ab53cdb,Jay Rodriguez,19,ENG,FW,30-117,16,0,0,0,0,1,0,0,0,8,0,1,0,0.3,0.3,0.0,2,1,3,4,75.0,0,3,0,1,0,Burnley,2019-11-23 Watford-Burnley,ENG-EPL,19-20,d4aea4c0
+fc15fb84,Dwight McNeil,11,ENG,LM,20-001,90,0,0,0,0,0,0,0,0,29,0,0,0,0.0,0.0,0.3,2,0,17,24,70.8,1,22,4,1,0,Burnley,2019-11-23 Watford-Burnley,ENG-EPL,19-20,d4aea4c0
+74e12f1e,Jack Cork,4,ENG,CM,30-151,90,0,0,0,0,0,0,0,0,32,0,1,0,0.0,0.0,0.0,1,0,19,26,73.1,0,14,0,1,1,Burnley,2019-11-23 Watford-Burnley,ENG-EPL,19-20,d4aea4c0
+495945ef,Ashley Westwood,18,ENG,CM,29-236,90,0,0,0,0,0,0,1,0,43,0,3,1,0.0,0.0,0.0,0,0,25,35,71.4,1,18,0,2,2,Burnley,2019-11-23 Watford-Burnley,ENG-EPL,19-20,d4aea4c0
+989d5705,Jeff Hendrick,13,IRL,RM,27-296,90,0,0,0,0,1,1,0,0,20,0,0,1,0.3,0.3,0.0,3,0,11,16,68.8,0,9,1,1,1,Burnley,2019-11-23 Watford-Burnley,ENG-EPL,19-20,d4aea4c0
+cc2d7ad5,Charlie Taylor,3,ENG,LB,26-066,90,0,0,0,0,0,0,0,0,57,3,0,0,0.0,0.0,0.0,0,0,28,46,60.9,4,25,4,4,3,Burnley,2019-11-23 Watford-Burnley,ENG-EPL,19-20,d4aea4c0
+8df7a2fb,Ben Mee,6,ENG,CB,30-063,90,0,0,0,0,0,0,1,0,39,1,2,1,0.0,0.0,0.0,1,0,19,26,73.1,1,16,0,0,0,Burnley,2019-11-23 Watford-Burnley,ENG-EPL,19-20,d4aea4c0
+15ea812b,James Tarkowski,5,ENG,CB,27-004,90,1,0,0,0,3,2,1,0,46,0,2,3,0.4,0.4,0.0,2,2,15,28,53.6,0,12,0,0,0,Burnley,2019-11-23 Watford-Burnley,ENG-EPL,19-20,d4aea4c0
+1ae30132,Phil Bardsley,26,SCO,RB,34-148,90,0,0,0,0,1,0,0,0,42,1,2,2,0.0,0.0,0.0,1,0,17,27,63.0,1,14,0,1,1,Burnley,2019-11-23 Watford-Burnley,ENG-EPL,19-20,d4aea4c0
+4b40d9ca,Nick Pope,1,ENG,GK,27-218,90,0,0,0,0,0,0,0,0,39,0,0,0,0.0,0.0,0.3,1,0,14,36,38.9,0,17,0,0,0,Burnley,2019-11-23 Watford-Burnley,ENG-EPL,19-20,d4aea4c0

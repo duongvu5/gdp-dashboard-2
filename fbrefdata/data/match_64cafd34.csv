@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+0ae4e09a,Roger Martí,9,ESP,FW,28-001,90,0,0,0,0,4,1,0,0,32,1,0,2,0.2,0.2,0.0,2,0,12,19,63.2,0,23,2,2,1,Levante,2019-01-04 Levante-Girona,ESP-LALIGA,18-19,64cafd34
+4a478107,José Luis Morales,11,ESP,FW,31-165,90,1,0,0,0,4,3,0,0,35,1,0,0,0.3,0.3,0.0,2,0,14,23,60.9,4,26,7,5,2,Levante,2019-01-04 Levante-Girona,ESP-LALIGA,18-19,64cafd34
+cac2537b,Enis Bardhi,10,MKD,CM,23-186,90,0,0,0,0,4,2,1,0,69,2,4,0,0.1,0.1,0.1,7,0,42,55,76.4,7,49,6,2,2,Levante,2019-01-04 Levante-Girona,ESP-LALIGA,18-19,64cafd34
+4442fbcd,Nikola Vukčević,17,MNE,CM,27-022,62,0,0,0,0,0,0,0,0,40,3,2,2,0.0,0.0,0.0,1,0,25,28,89.3,0,28,1,0,0,Levante,2019-01-04 Levante-Girona,ESP-LALIGA,18-19,64cafd34
+2e23c66b,Emmanuel Boateng,21,GHA,CM,22-226,28,0,0,0,0,1,0,0,0,7,0,0,0,0.0,0.0,0.0,2,1,4,6,66.7,0,6,0,0,0,Levante,2019-01-04 Levante-Girona,ESP-LALIGA,18-19,64cafd34
+61220da2,José Campaña,24,ESP,CM,25-218,90,0,1,0,0,1,0,0,0,83,0,2,0,0.0,0.0,0.6,6,1,64,80,80.0,12,67,10,1,1,Levante,2019-01-04 Levante-Girona,ESP-LALIGA,18-19,64cafd34
+d4ef9ac5,Toño,3,ESP,WB,29-058,84,0,1,0,0,1,1,1,0,66,1,0,1,0.5,0.5,0.1,3,1,37,52,71.2,3,39,3,5,2,Levante,2019-01-04 Levante-Girona,ESP-LALIGA,18-19,64cafd34
+525f9bf4,Raphael Dwamena,20,GHA,WB,23-114,6,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,1,0,1,1,100.0,1,1,1,0,0,Levante,2019-01-04 Levante-Girona,ESP-LALIGA,18-19,64cafd34
+9038c2a1,Jason,23,ESP,WB,24-182,70,0,0,0,0,2,0,0,0,48,0,0,0,0.1,0.1,0.5,3,0,22,35,62.9,4,35,5,6,1,Levante,2019-01-04 Levante-Girona,ESP-LALIGA,18-19,64cafd34
+6d8f8441,Coke,12,ESP,CB,31-253,20,1,0,0,0,1,1,0,0,20,0,1,0,0.4,0.4,0.0,0,0,14,18,77.8,2,13,0,0,0,Levante,2019-01-04 Levante-Girona,ESP-LALIGA,18-19,64cafd34
+c00097d2,Rober,4,ESP,CB,23-322,90,0,0,0,0,0,0,0,0,47,1,2,2,0.0,0.0,0.0,2,0,32,38,84.2,3,25,0,1,1,Levante,2019-01-04 Levante-Girona,ESP-LALIGA,18-19,64cafd34
+474ecac8,Sergio Postigo,15,ESP,CB,30-061,68,0,0,0,0,0,0,1,1,53,1,0,0,0.0,0.0,0.0,2,0,33,46,71.7,3,31,1,0,0,Levante,2019-01-04 Levante-Girona,ESP-LALIGA,18-19,64cafd34
+e7ab4179,Erick Cabaco,18,URU,CB,23-260,90,0,0,0,0,1,0,0,0,60,1,0,0,0.0,0.0,0.0,0,0,46,54,85.2,8,43,0,0,0,Levante,2019-01-04 Levante-Girona,ESP-LALIGA,18-19,64cafd34
+b5bdf144,Oier Olazábal,13,ESP,GK,29-112,90,0,0,0,0,0,0,0,0,22,0,0,0,0.0,0.0,0.0,0,0,13,21,61.9,0,11,0,0,0,Levante,2019-01-04 Levante-Girona,ESP-LALIGA,18-19,64cafd34
+220c11f1,Cristhian Stuani,7,URU,FW,32-084,90,0,0,0,0,1,0,1,0,30,0,0,0,0.1,0.1,0.1,2,1,14,22,63.6,0,18,2,0,0,Girona,2019-01-04 Levante-Girona,ESP-LALIGA,18-19,64cafd34
+1bda5842,Portu,9,ESP,FW,26-228,73,1,0,0,0,1,1,0,0,21,1,0,0,0.2,0.2,0.1,2,1,11,17,64.7,4,17,0,0,0,Girona,2019-01-04 Levante-Girona,ESP-LALIGA,18-19,64cafd34
+38699c72,Anthony Lozano,19,HON,FW,25-254,17,0,0,0,0,1,0,0,0,4,0,0,0,0.1,0.1,0.0,0,0,0,1,0.0,0,3,1,0,0,Girona,2019-01-04 Levante-Girona,ESP-LALIGA,18-19,64cafd34
+a10361d2,Aleix García,23,ESP,CM,21-190,82,1,0,0,0,2,1,0,0,50,1,2,2,0.2,0.2,0.0,2,0,32,37,86.5,6,29,3,2,2,Girona,2019-01-04 Levante-Girona,ESP-LALIGA,18-19,64cafd34
+4acd733a,Valery Fernández,34,ESP,"WB,CM",19-042,8,0,0,0,0,0,0,0,0,4,0,0,1,0.0,0.0,0.0,1,0,2,2,100.0,0,3,1,2,2,Girona,2019-01-04 Levante-Girona,ESP-LALIGA,18-19,64cafd34
+e7f4603c,Borja García,10,ESP,CM,28-063,90,0,0,0,0,1,0,0,0,47,2,2,2,0.1,0.1,0.0,1,1,32,38,84.2,3,41,3,4,3,Girona,2019-01-04 Levante-Girona,ESP-LALIGA,18-19,64cafd34
+6f7d826d,Douglas Luiz,12,BRA,CM,20-240,90,0,0,0,0,2,0,0,0,38,2,0,3,0.6,0.6,0.0,0,0,19,27,70.4,1,19,1,2,2,Girona,2019-01-04 Levante-Girona,ESP-LALIGA,18-19,64cafd34
+a25250f8,Álex Granell,6,ESP,"WB,CM",30-155,90,0,1,0,0,0,0,0,0,57,4,3,0,0.0,0.0,0.9,4,1,28,43,65.1,2,27,0,0,0,Girona,2019-01-04 Levante-Girona,ESP-LALIGA,18-19,64cafd34
+27d0a506,Pedro Porro,29,ESP,WB,19-113,90,0,0,0,0,0,0,0,0,57,2,2,2,0.0,0.0,0.1,2,0,23,46,50.0,5,25,1,3,2,Girona,2019-01-04 Levante-Girona,ESP-LALIGA,18-19,64cafd34
+1633fc8a,Juanpe,15,ESP,CB,27-249,90,0,0,0,0,0,0,0,0,52,0,2,1,0.0,0.0,0.0,0,0,29,43,67.4,0,32,0,1,1,Girona,2019-01-04 Levante-Girona,ESP-LALIGA,18-19,64cafd34
+4242011c,Bernardo Espinosa,2,COL,CB,29-177,90,0,0,0,0,1,0,0,0,49,2,0,4,0.2,0.2,0.1,1,0,31,36,86.1,3,20,0,0,0,Girona,2019-01-04 Levante-Girona,ESP-LALIGA,18-19,64cafd34
+be3a0121,Jonás Ramalho,4,ESP,CB,25-208,89,0,0,0,0,0,0,0,0,42,2,0,1,0.0,0.0,0.0,0,0,22,34,64.7,2,19,1,0,0,Girona,2019-01-04 Levante-Girona,ESP-LALIGA,18-19,64cafd34
+ba71d071,Pedro Alcalá,5,ESP,CB,29-291,1,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,0,0,0,0,Girona,2019-01-04 Levante-Girona,ESP-LALIGA,18-19,64cafd34
+f6798fc3,Yassine Bounou,13,MAR,GK,27-274,90,0,0,0,0,0,0,0,0,32,0,0,0,0.0,0.0,0.0,0,0,20,28,71.4,0,17,0,0,0,Girona,2019-01-04 Levante-Girona,ESP-LALIGA,18-19,64cafd34

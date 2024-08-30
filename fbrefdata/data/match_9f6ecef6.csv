@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+e92cd3f7,Alexander Sørloth,11,NOR,FW,28-015,90,0,1,0,0,2,1,0,0,34,0,0,1,0.5,0.5,0.1,2,1,19,23,82.6,3,9,0,1,0,Villarreal,2023-12-20 Villarreal-Celta Vigo,ESP-LALIGA,23-24,9f6ecef6
+518f2234,Alex Baena,16,ESP,"FW,LM",22-153,87,0,0,0,0,2,1,1,0,38,0,0,1,0.1,0.1,0.4,5,2,24,32,75.0,6,20,3,0,0,Villarreal,2023-12-20 Villarreal-Celta Vigo,ESP-LALIGA,23-24,9f6ecef6
+963829d0,Manu Trigueros,14,ESP,LM,32-064,3,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,4,5,80.0,0,4,0,0,0,Villarreal,2023-12-20 Villarreal-Celta Vigo,ESP-LALIGA,23-24,9f6ecef6
+11b9265b,Alberto Moreno,18,ESP,LM,31-168,59,0,0,0,0,0,0,0,0,29,2,2,2,0.0,0.0,0.0,2,2,15,21,71.4,2,9,0,0,0,Villarreal,2023-12-20 Villarreal-Celta Vigo,ESP-LALIGA,23-24,9f6ecef6
+4a478107,José Luis Morales,15,ESP,FW,36-150,31,0,0,0,0,0,0,0,0,11,0,1,0,0.0,0.0,0.0,0,0,5,7,71.4,0,5,1,0,0,Villarreal,2023-12-20 Villarreal-Celta Vigo,ESP-LALIGA,23-24,9f6ecef6
+7460ca0d,Daniel Parejo,10,ESP,CM,34-248,90,1,0,1,1,0,0,0,0,69,2,1,1,0.8,0.0,0.0,6,0,57,61,93.4,6,27,0,2,2,Villarreal,2023-12-20 Villarreal-Celta Vigo,ESP-LALIGA,23-24,9f6ecef6
+5ae499d0,Santi Comesaña,4,ESP,CM,27-076,90,0,0,0,0,1,0,1,0,67,2,2,5,0.0,0.0,0.0,2,0,48,53,90.6,5,18,1,3,2,Villarreal,2023-12-20 Villarreal-Celta Vigo,ESP-LALIGA,23-24,9f6ecef6
+b8bd60fe,Ilias Akhomach,27,MAR,RM,19-248,88,0,0,0,0,1,1,0,0,42,3,0,1,0.1,0.1,0.0,0,0,13,22,59.1,1,29,3,9,1,Villarreal,2023-12-20 Villarreal-Celta Vigo,ESP-LALIGA,23-24,9f6ecef6
+f36016a5,Ramón Terrats,20,ESP,RM,23-063,2,0,0,0,0,0,0,0,0,12,0,1,0,0.0,0.0,0.0,0,0,5,7,71.4,0,4,0,3,1,Villarreal,2023-12-20 Villarreal-Celta Vigo,ESP-LALIGA,23-24,9f6ecef6
+63f04c6c,Alfonso Pedraza,24,ESP,LB,27-255,21,1,0,0,0,2,2,0,0,21,0,1,0,0.1,0.1,0.1,3,0,14,17,82.4,1,9,1,1,0,Villarreal,2023-12-20 Villarreal-Celta Vigo,ESP-LALIGA,23-24,9f6ecef6
+23cbf863,Carlos Romero,37,ESP,LB,22-052,69,0,0,0,0,1,1,0,0,61,5,0,1,0.3,0.3,0.0,0,0,28,46,60.9,1,24,3,1,1,Villarreal,2023-12-20 Villarreal-Celta Vigo,ESP-LALIGA,23-24,9f6ecef6
+fbd6378b,Aïssa Mandi,23,ALG,CB,32-059,90,1,0,0,0,1,1,0,0,57,0,0,0,0.5,0.5,0.0,2,0,48,52,92.3,6,36,1,0,0,Villarreal,2023-12-20 Villarreal-Celta Vigo,ESP-LALIGA,23-24,9f6ecef6
+4bd414c1,Raúl Albiol,3,ESP,CB,38-107,59,0,0,0,0,1,0,0,0,56,0,0,0,0.0,0.0,0.0,0,0,47,51,92.2,2,30,0,0,0,Villarreal,2023-12-20 Villarreal-Celta Vigo,ESP-LALIGA,23-24,9f6ecef6
+0abc51f2,Jorge Cuenca,5,ESP,CB,24-033,31,0,0,0,0,0,0,0,0,14,1,0,0,0.0,0.0,0.0,0,0,7,9,77.8,0,3,0,0,0,Villarreal,2023-12-20 Villarreal-Celta Vigo,ESP-LALIGA,23-24,9f6ecef6
+757a3431,Adrià Altimira,26,ESP,RB,22-267,90,0,0,0,0,0,0,0,0,87,4,1,6,0.0,0.0,0.0,0,0,58,74,78.4,2,28,1,1,1,Villarreal,2023-12-20 Villarreal-Celta Vigo,ESP-LALIGA,23-24,9f6ecef6
+0107757e,Filip Jørgensen,13,DEN,GK,21-248,90,0,0,0,0,0,0,0,0,34,0,0,0,0.0,0.0,0.0,0,0,23,31,74.2,0,12,0,0,0,Villarreal,2023-12-20 Villarreal-Celta Vigo,ESP-LALIGA,23-24,9f6ecef6
+f553b2b3,Jørgen Strand Larsen,18,NOR,FW,23-317,90,1,0,0,0,2,2,0,0,36,1,1,1,0.5,0.5,0.0,0,0,14,21,66.7,0,22,0,3,1,Celta Vigo,2023-12-20 Villarreal-Celta Vigo,ESP-LALIGA,23-24,9f6ecef6
+853ca71c,Anastasios Douvikas,12,GRE,FW,24-140,90,1,0,0,0,2,1,1,0,26,1,0,0,0.3,0.3,0.0,1,0,14,18,77.8,1,13,2,4,3,Celta Vigo,2023-12-20 Villarreal-Celta Vigo,ESP-LALIGA,23-24,9f6ecef6
+5e1028e5,Franco Cervi,11,ARG,LM,29-208,81,0,0,0,0,3,1,0,0,49,8,3,2,0.1,0.1,0.0,3,1,16,23,69.6,2,19,0,2,0,Celta Vigo,2023-12-20 Villarreal-Celta Vigo,ESP-LALIGA,23-24,9f6ecef6
+b2bd0f6c,Jonathan Bamba,17,CIV,LM,27-269,9,0,0,0,0,1,0,0,0,18,0,0,0,0.0,0.0,0.1,0,0,12,15,80.0,2,13,1,2,2,Celta Vigo,2023-12-20 Villarreal-Celta Vigo,ESP-LALIGA,23-24,9f6ecef6
+34269bdf,Renato Tapia,5,PER,CM,28-145,90,0,0,0,0,4,0,0,0,77,5,2,4,0.2,0.2,0.0,3,0,44,56,78.6,5,38,0,4,2,Celta Vigo,2023-12-20 Villarreal-Celta Vigo,ESP-LALIGA,23-24,9f6ecef6
+daa2eab3,Carlos Dotor,6,ESP,CM,22-280,90,0,0,0,0,1,0,0,0,73,2,1,1,0.0,0.0,0.0,3,1,56,64,87.5,7,35,0,0,0,Celta Vigo,2023-12-20 Villarreal-Celta Vigo,ESP-LALIGA,23-24,9f6ecef6
+e9241b40,Luca de la Torre,14,USA,RM,25-211,45,0,0,0,0,0,0,0,0,13,0,0,1,0.0,0.0,0.0,1,0,7,8,87.5,1,7,0,0,0,Celta Vigo,2023-12-20 Villarreal-Celta Vigo,ESP-LALIGA,23-24,9f6ecef6
+056269d7,Óscar Mingueza,3,ESP,"RM,RB",24-221,45,0,0,0,0,0,0,1,0,52,0,0,0,0.0,0.0,0.2,4,0,43,52,82.7,9,26,3,1,1,Celta Vigo,2023-12-20 Villarreal-Celta Vigo,ESP-LALIGA,23-24,9f6ecef6
+ea0aa7e0,Mihailo Ristić,21,SRB,LB,28-050,45,0,0,0,0,0,0,0,0,43,2,0,0,0.0,0.0,0.0,2,0,27,35,77.1,1,17,1,1,1,Celta Vigo,2023-12-20 Villarreal-Celta Vigo,ESP-LALIGA,23-24,9f6ecef6
+ffacd3d5,Manu Sánchez,23,ESP,LB,23-118,45,0,1,0,0,1,0,1,0,42,3,0,0,0.1,0.1,0.4,4,1,28,35,80.0,5,20,2,1,0,Celta Vigo,2023-12-20 Villarreal-Celta Vigo,ESP-LALIGA,23-24,9f6ecef6
+be170419,Unai Núñez,4,ESP,CB,26-324,90,0,0,0,0,0,0,0,0,75,0,1,1,0.0,0.0,0.0,0,0,66,72,91.7,6,52,2,0,0,Celta Vigo,2023-12-20 Villarreal-Celta Vigo,ESP-LALIGA,23-24,9f6ecef6
+5cfec13d,Carl Starfelt,2,SWE,CB,28-202,45,0,0,0,0,0,0,0,0,35,3,0,0,0.0,0.0,0.0,0,0,29,31,93.5,3,23,1,0,0,Celta Vigo,2023-12-20 Villarreal-Celta Vigo,ESP-LALIGA,23-24,9f6ecef6
+3521abfe,Carlos Dominguez,28,ESP,CB,22-312,45,0,0,0,0,1,0,0,0,42,0,3,1,0.1,0.1,0.0,0,0,29,32,90.6,2,22,2,0,0,Celta Vigo,2023-12-20 Villarreal-Celta Vigo,ESP-LALIGA,23-24,9f6ecef6
+ee923664,Kevin Vázquez,20,ESP,RB,30-272,85,0,0,0,0,0,0,1,0,55,0,0,0,0.0,0.0,0.0,2,0,36,47,76.6,9,28,1,1,0,Celta Vigo,2023-12-20 Villarreal-Celta Vigo,ESP-LALIGA,23-24,9f6ecef6
+958d67bb,Miguel Rodríguez,29,ESP,RM,20-235,5,0,0,0,0,0,0,0,0,15,2,1,0,0.0,0.0,0.0,0,0,8,10,80.0,1,9,2,2,0,Celta Vigo,2023-12-20 Villarreal-Celta Vigo,ESP-LALIGA,23-24,9f6ecef6
+ab13a5aa,Vicente Guaita,25,ESP,GK,36-344,90,0,0,0,0,0,0,0,0,28,0,0,0,0.0,0.0,0.0,1,0,20,22,90.9,0,13,0,0,0,Celta Vigo,2023-12-20 Villarreal-Celta Vigo,ESP-LALIGA,23-24,9f6ecef6

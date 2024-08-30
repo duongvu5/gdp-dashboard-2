@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+21a66f6a,Harry Kane,10,ENG,FW,26-121,90,2,0,0,0,4,2,0,0,34,2,0,0,0.8,0.8,0.0,1,0,13,21,61.9,3,19,0,2,0,Tottenham Hotspur,2019-11-26 Tottenham-Olympiacos,UCL,19-20,e3e9dc28
+92e7e919,Son Heung-min,7,KOR,LW,27-141,90,0,1,0,0,2,1,0,0,42,2,1,2,0.1,0.1,0.1,3,1,20,23,87.0,1,26,4,4,1,Tottenham Hotspur,2019-11-26 Tottenham-Olympiacos,UCL,19-20,e3e9dc28
+2b622f01,Lucas Moura,27,BRA,RW,27-105,60,0,1,0,0,1,0,0,0,22,1,0,0,0.1,0.1,0.4,2,1,13,16,81.3,1,19,2,5,3,Tottenham Hotspur,2019-11-26 Tottenham-Olympiacos,UCL,19-20,e3e9dc28
+2acd49b9,Moussa Sissoko,17,FRA,RW,30-102,30,0,0,0,0,0,0,0,0,20,1,0,0,0.0,0.0,0.0,0,0,12,14,85.7,2,15,0,3,1,Tottenham Hotspur,2019-11-26 Tottenham-Olympiacos,UCL,19-20,e3e9dc28
+cea4ee8f,Dele Alli,20,ENG,AM,23-229,82,1,0,0,0,1,1,0,0,44,3,0,0,0.7,0.7,0.1,4,2,26,35,74.3,4,29,5,3,1,Tottenham Hotspur,2019-11-26 Tottenham-Olympiacos,UCL,19-20,e3e9dc28
+5cdddffa,Tanguy Ndombele,28,FRA,DM,22-333,8,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,9,9,100.0,0,9,0,4,4,Tottenham Hotspur,2019-11-26 Tottenham-Olympiacos,UCL,19-20,e3e9dc28
+ac861941,Eric Dier,15,ENG,DM,25-315,28,0,0,0,0,0,0,0,0,12,0,0,0,0.0,0.0,0.0,0,0,10,11,90.9,0,8,0,0,0,Tottenham Hotspur,2019-11-26 Tottenham-Olympiacos,UCL,19-20,e3e9dc28
+980522ec,Christian Eriksen,23,DEN,"DM,AM",27-285,62,0,1,0,0,2,0,0,0,59,1,0,1,0.1,0.1,0.7,3,1,38,54,70.4,5,45,1,0,0,Tottenham Hotspur,2019-11-26 Tottenham-Olympiacos,UCL,19-20,e3e9dc28
+2f7acede,Harry Winks,8,ENG,DM,23-297,90,0,0,0,0,0,0,0,0,76,3,3,3,0.0,0.0,0.1,4,1,58,67,86.6,5,54,0,3,3,Tottenham Hotspur,2019-11-26 Tottenham-Olympiacos,UCL,19-20,e3e9dc28
+89d10e53,Danny Rose,3,ENG,LB,29-147,90,0,0,0,0,0,0,0,0,66,1,3,1,0.0,0.0,0.0,2,0,51,57,89.5,5,43,3,0,0,Tottenham Hotspur,2019-11-26 Tottenham-Olympiacos,UCL,19-20,e3e9dc28
+f7d50789,Toby Alderweireld,4,BEL,CB,30-269,90,0,0,0,0,0,0,1,0,87,2,0,0,0.0,0.0,0.0,0,0,69,80,86.3,2,71,0,0,0,Tottenham Hotspur,2019-11-26 Tottenham-Olympiacos,UCL,19-20,e3e9dc28
+da7b447d,Davinson Sánchez,6,COL,CB,23-167,90,0,0,0,0,1,0,0,0,97,3,0,1,0.3,0.3,0.0,0,0,80,91,87.9,4,79,1,0,0,Tottenham Hotspur,2019-11-26 Tottenham-Olympiacos,UCL,19-20,e3e9dc28
+5c2b4f07,Serge Aurier,24,CIV,RB,26-337,90,1,1,0,0,1,1,0,0,68,0,1,2,0.1,0.1,0.8,3,2,48,56,85.7,4,41,2,4,0,Tottenham Hotspur,2019-11-26 Tottenham-Olympiacos,UCL,19-20,e3e9dc28
+63d17038,Paulo Gazzaniga,22,ARG,GK,27-328,90,0,0,0,0,0,0,0,0,22,0,0,0,0.0,0.0,0.0,0,0,16,20,80.0,0,12,0,0,0,Tottenham Hotspur,2019-11-26 Tottenham-Olympiacos,UCL,19-20,e3e9dc28
+c63f6e46,Youssef El-Arabi,11,MAR,FW,32-296,84,1,0,0,0,1,1,0,0,35,0,0,1,0.1,0.1,0.0,2,1,20,25,80.0,0,17,0,3,1,Olympiacos,2019-11-26 Tottenham-Olympiacos,UCL,19-20,e3e9dc28
+b35db3f6,Miguel Ángel Guerrero,9,ESP,FW,29-137,6,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,5,5,100.0,0,1,0,0,0,Olympiacos,2019-11-26 Tottenham-Olympiacos,UCL,19-20,e3e9dc28
+9d689a5b,Giorgos Masouras,19,GRE,LW,25-329,90,0,0,0,0,1,1,0,0,40,7,2,2,0.0,0.0,0.0,1,1,16,23,69.6,0,17,0,2,0,Olympiacos,2019-11-26 Tottenham-Olympiacos,UCL,19-20,e3e9dc28
+7fcc71d8,Daniel Podence,10,POR,RW,24-036,78,0,0,0,0,1,0,1,0,39,1,1,0,0.1,0.1,0.0,1,1,21,30,70.0,0,24,6,7,4,Olympiacos,2019-11-26 Tottenham-Olympiacos,UCL,19-20,e3e9dc28
+1dbfae2d,Lazar Ranđelović,97,SRB,RW,22-113,12,0,0,0,0,0,0,0,0,5,1,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,4,0,0,0,Olympiacos,2019-11-26 Tottenham-Olympiacos,UCL,19-20,e3e9dc28
+1c07b06e,Andreas Bouchalakis,5,GRE,LM,26-235,73,0,0,0,0,0,0,1,0,28,0,3,0,0.0,0.0,0.0,1,0,21,24,87.5,3,11,0,1,1,Olympiacos,2019-11-26 Tottenham-Olympiacos,UCL,19-20,e3e9dc28
+7a4cea18,Mathieu Valbuena,28,FRA,LM,35-059,17,0,0,0,0,0,0,0,0,17,1,0,0,0.0,0.0,0.1,1,0,12,14,85.7,1,9,0,1,0,Olympiacos,2019-11-26 Tottenham-Olympiacos,UCL,19-20,e3e9dc28
+8754c7ca,Guilherme,8,BRA,CM,28-235,90,0,1,0,0,1,0,0,0,43,4,0,1,0.1,0.1,0.8,2,0,31,37,83.8,3,25,0,1,1,Olympiacos,2019-11-26 Tottenham-Olympiacos,UCL,19-20,e3e9dc28
+13ea2544,Mohamed Camara,4,GUI,RM,22-271,90,0,0,0,0,1,0,0,0,47,4,2,2,0.0,0.0,0.0,2,0,25,34,73.5,5,20,1,1,1,Olympiacos,2019-11-26 Tottenham-Olympiacos,UCL,19-20,e3e9dc28
+f315ca93,Kostas Tsimikas,21,GRE,LB,23-198,90,0,0,0,0,1,0,1,0,58,6,0,2,0.0,0.0,0.0,0,0,31,39,79.5,2,25,6,1,0,Olympiacos,2019-11-26 Tottenham-Olympiacos,UCL,19-20,e3e9dc28
+3640af28,Yassine Meriah,20,TUN,CB,26-147,90,0,0,0,0,1,0,0,0,54,0,1,2,0.0,0.0,0.0,0,0,39,42,92.9,1,35,1,1,1,Olympiacos,2019-11-26 Tottenham-Olympiacos,UCL,19-20,e3e9dc28
+c904f3d5,Rúben Semedo,3,POR,CB,25-236,90,1,0,0,0,2,1,1,0,40,0,1,1,0.9,0.9,0.0,0,0,28,33,84.8,0,23,0,0,0,Olympiacos,2019-11-26 Tottenham-Olympiacos,UCL,19-20,e3e9dc28
+4f56170e,Omar Elabdellaoui,14,NOR,RB,27-356,90,0,0,0,0,0,0,0,0,70,3,3,1,0.0,0.0,0.0,3,0,47,60,78.3,2,27,0,0,0,Olympiacos,2019-11-26 Tottenham-Olympiacos,UCL,19-20,e3e9dc28
+903b6e8b,José Sá,1,POR,GK,26-313,90,0,0,0,0,0,0,0,0,32,0,1,0,0.0,0.0,0.0,0,0,13,30,43.3,0,17,0,0,0,Olympiacos,2019-11-26 Tottenham-Olympiacos,UCL,19-20,e3e9dc28

@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+129af0db,Álvaro Morata,9,ESP,FW,29-010,90,1,0,0,0,3,1,0,0,33,0,0,0,0.8,0.8,0.1,3,0,18,26,69.2,0,15,0,0,0,Juventus,2021-11-02 Juventus-Zenit,UCL,21-22,43e95e01
+e0921a4f,Paulo Dybala,10,ARG,FW,27-352,84,2,1,1,1,7,2,0,0,78,0,0,1,1.1,0.3,0.8,7,1,58,66,87.9,7,48,4,4,4,Juventus,2021-11-02 Juventus-Zenit,UCL,21-22,43e95e01
+df3cda47,Dejan Kulusevski,44,SWE,"RW,FW",21-191,6,0,0,0,0,0,0,1,0,2,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,2,0,1,0,Juventus,2021-11-02 Juventus-Zenit,UCL,21-22,43e95e01
+ee93c1a9,Federico Bernardeschi,20,ITA,LM,27-259,79,0,0,0,0,3,3,0,0,53,0,2,1,0.2,0.2,0.4,9,1,34,43,79.1,2,27,2,3,2,Juventus,2021-11-02 Juventus-Zenit,UCL,21-22,43e95e01
+8794e251,Adrien Rabiot,25,FRA,LM,26-213,11,0,0,0,0,0,0,0,0,7,0,0,1,0.0,0.0,0.0,0,0,6,7,85.7,1,5,1,0,0,Juventus,2021-11-02 Juventus-Zenit,UCL,21-22,43e95e01
+a8a874f1,Manuel Locatelli,27,ITA,CM,23-298,79,0,0,0,0,1,0,1,0,86,1,1,1,0.0,0.0,0.1,2,0,75,79,94.9,10,59,0,1,1,Juventus,2021-11-02 Juventus-Zenit,UCL,21-22,43e95e01
+48b3dd60,Arthur Melo,5,BRA,CM,25-082,11,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,1,1,9,9,100.0,0,6,0,0,0,Juventus,2021-11-02 Juventus-Zenit,UCL,21-22,43e95e01
+01c3aff5,Weston McKennie,14,USA,"CM,RM",23-066,90,0,0,0,0,3,1,0,0,77,1,2,0,0.2,0.2,0.2,5,0,58,68,85.3,9,54,2,2,1,Juventus,2021-11-02 Juventus-Zenit,UCL,21-22,43e95e01
+b0f7e36c,Federico Chiesa,22,ITA,"RM,LW",24-008,90,1,0,0,0,7,2,0,0,49,1,1,1,0.4,0.4,0.0,6,3,27,32,84.4,2,29,7,7,5,Juventus,2021-11-02 Juventus-Zenit,UCL,21-22,43e95e01
+0d82903c,Alex Sandro,12,BRA,LB,30-280,90,0,0,0,0,0,0,0,0,70,1,2,0,0.0,0.0,0.0,7,0,56,66,84.8,8,52,6,2,2,Juventus,2021-11-02 Juventus-Zenit,UCL,21-22,43e95e01
+d6e53a3a,Matthijs de Ligt,4,NED,CB,22-082,90,0,0,0,0,1,0,0,0,54,1,2,1,0.1,0.1,0.0,2,1,39,44,88.6,1,35,0,0,0,Juventus,2021-11-02 Juventus-Zenit,UCL,21-22,43e95e01
+52ec54d0,Leonardo Bonucci,19,ITA,CB,34-185,84,0,0,0,0,0,0,0,0,74,0,2,0,0.0,0.0,0.0,2,0,63,68,92.6,9,52,0,0,0,Juventus,2021-11-02 Juventus-Zenit,UCL,21-22,43e95e01
+14b8fcdf,Daniele Rugani,24,ITA,CB,27-096,6,0,0,0,0,0,0,0,0,3,0,0,1,0.0,0.0,0.0,0,0,1,1,100.0,0,0,0,0,0,Juventus,2021-11-02 Juventus-Zenit,UCL,21-22,43e95e01
+94b2001f,Danilo,6,BRA,RB,30-110,90,0,0,0,0,0,0,0,0,102,1,1,2,0.0,0.0,0.1,4,0,81,94,86.2,11,61,2,0,0,Juventus,2021-11-02 Juventus-Zenit,UCL,21-22,43e95e01
+01b8a2b2,Wojciech Szczęsny,1,POL,GK,31-198,90,0,0,0,0,0,0,0,0,29,0,0,0,0.0,0.0,0.0,0,0,24,27,88.9,0,16,0,0,0,Juventus,2021-11-02 Juventus-Zenit,UCL,21-22,43e95e01
+10549b49,Sardar Azmoun,7,IRN,FW,26-305,90,1,0,0,0,1,1,0,0,27,2,0,1,0.4,0.4,0.0,3,0,12,18,66.7,1,10,0,0,0,Zenit,2021-11-02 Juventus-Zenit,UCL,21-22,43e95e01
+8d46713e,Claudinho,11,BRA,AM,24-278,73,0,0,0,0,3,1,0,0,54,1,2,1,0.1,0.1,0.1,1,0,27,38,71.1,2,38,2,2,2,Zenit,2021-11-02 Juventus-Zenit,UCL,21-22,43e95e01
+1c78737d,Aleksandr Erokhin,21,RUS,"CM,AM",32-020,17,0,0,0,0,0,0,0,0,11,0,0,1,0.0,0.0,0.0,0,0,8,9,88.9,1,8,0,0,0,Zenit,2021-11-02 Juventus-Zenit,UCL,21-22,43e95e01
+dfb50e5c,Andrei Mostovoy,17,RUS,AM,23-362,57,0,0,0,0,2,1,0,0,22,1,0,1,0.1,0.1,0.0,1,0,12,17,70.6,0,15,2,3,2,Zenit,2021-11-02 Juventus-Zenit,UCL,21-22,43e95e01
+a802405e,Danil Krugovoy,4,RUS,"LB,WB",23-158,33,0,0,0,0,0,0,0,0,28,1,1,0,0.0,0.0,0.0,3,1,19,24,79.2,3,18,2,0,0,Zenit,2021-11-02 Juventus-Zenit,UCL,21-22,43e95e01
+33b11df6,Wendel,8,BRA,"CM,LM",24-066,87,0,0,0,0,1,0,0,0,59,1,1,0,0.0,0.0,0.1,2,0,45,49,91.8,5,47,3,2,2,Zenit,2021-11-02 Juventus-Zenit,UCL,21-22,43e95e01
+18a88e3e,Daniil Kuznetsov,85,RUS,LM,18-193,3,0,0,0,0,1,0,0,0,4,0,0,0,0.1,0.1,0.0,0,0,3,3,100.0,0,3,0,0,0,Zenit,2021-11-02 Juventus-Zenit,UCL,21-22,43e95e01
+8e7f49d3,Wílmar Barrios,5,COL,CM,28-017,90,0,0,0,0,0,0,0,0,61,0,1,1,0.0,0.0,0.0,3,1,48,53,90.6,10,43,0,0,0,Zenit,2021-11-02 Juventus-Zenit,UCL,21-22,43e95e01
+b0b902c8,Vyacheslav Karavayev,15,RUS,WB,26-166,57,0,0,0,0,0,0,0,0,31,2,0,1,0.0,0.0,0.0,0,0,21,27,77.8,0,19,3,0,0,Zenit,2021-11-02 Juventus-Zenit,UCL,21-22,43e95e01
+6853490f,Malcom,10,BRA,"RM,AM",24-249,33,0,0,0,0,1,1,0,0,25,0,0,0,0.0,0.0,0.5,3,0,17,22,77.3,0,23,0,1,0,Zenit,2021-11-02 Juventus-Zenit,UCL,21-22,43e95e01
+bd20f4eb,Aleksei Sutormin,19,RUS,"WB,RB",27-296,90,0,0,0,0,0,0,0,0,58,0,0,0,0.0,0.0,0.0,4,0,51,56,91.1,7,44,2,0,0,Zenit,2021-11-02 Juventus-Zenit,UCL,21-22,43e95e01
+47fd5136,Yaroslav Rakitskiy,44,UKR,CB,32-091,73,0,0,0,0,0,0,0,0,52,1,1,1,0.0,0.0,0.0,3,0,33,45,73.3,0,38,1,0,0,Zenit,2021-11-02 Juventus-Zenit,UCL,21-22,43e95e01
+448a3608,Artem Dzyuba,22,RUS,FW,33-072,17,0,1,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.4,0,0,1,1,100.0,0,3,0,0,0,Zenit,2021-11-02 Juventus-Zenit,UCL,21-22,43e95e01
+bec8a4ba,Dmitri Chistyakov,2,RUS,CB,27-293,90,0,0,0,0,2,0,0,0,34,0,0,2,0.5,0.5,0.0,0,0,22,27,81.5,1,19,0,0,0,Zenit,2021-11-02 Juventus-Zenit,UCL,21-22,43e95e01
+1a2935f6,Dejan Lovren,6,CRO,CB,32-120,90,0,0,0,0,1,0,1,0,57,1,0,0,0.0,0.0,0.0,0,0,38,46,82.6,5,38,0,0,0,Zenit,2021-11-02 Juventus-Zenit,UCL,21-22,43e95e01
+b8798a46,Stanislav Kritsyuk,1,RUS,GK,30-336,90,0,0,0,0,0,0,0,0,36,0,0,0,0.0,0.0,0.0,0,0,23,30,76.7,0,11,0,0,0,Zenit,2021-11-02 Juventus-Zenit,UCL,21-22,43e95e01

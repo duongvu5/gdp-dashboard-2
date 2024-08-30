@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+07f8bcc8,Assan Ceesay,77,GAM,FW,28-214,90,1,0,0,0,3,1,0,0,34,1,0,1,0.9,0.9,0.0,1,0,10,17,58.8,2,10,0,1,1,Lecce,2022-10-17 Lecce-Fiorentina,ITA-SERIA_A,22-23,b2d9765e
+8a6de8c7,Lameck Banda,22,ZAM,LW,21-261,73,0,0,0,0,1,1,0,0,25,2,0,1,0.0,0.0,0.5,2,1,11,18,61.1,0,16,4,0,0,Lecce,2022-10-17 Lecce-Fiorentina,ITA-SERIA_A,22-23,b2d9765e
+1fca9171,Federico Di Francesco,11,ITA,LW,28-125,17,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,2,0,0,0,Lecce,2022-10-17 Lecce-Fiorentina,ITA-SERIA_A,22-23,b2d9765e
+ac4a4508,Gabriel Strefezza,27,BRA,RW,25-182,89,0,0,0,0,2,0,1,0,40,1,0,1,0.1,0.1,0.2,3,0,13,22,59.1,2,24,3,8,3,Lecce,2022-10-17 Lecce-Fiorentina,ITA-SERIA_A,22-23,b2d9765e
+ea02beaf,Remi Oudin,28,FRA,RW,25-333,1,0,0,0,0,0,0,0,0,2,0,0,1,0.0,0.0,0.0,0,0,0,1,0.0,0,1,0,0,0,Lecce,2022-10-17 Lecce-Fiorentina,ITA-SERIA_A,22-23,b2d9765e
+f025eade,Joan Gonzàlez,16,ESP,LM,20-258,88,0,1,0,0,0,0,0,0,48,3,1,3,0.0,0.0,0.4,2,1,22,30,73.3,3,20,1,5,0,Lecce,2022-10-17 Lecce-Fiorentina,ITA-SERIA_A,22-23,b2d9765e
+dc765618,Þórir Jóhann Helgason,14,ISL,LM,22-019,2,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,0,0,Lecce,2022-10-17 Lecce-Fiorentina,ITA-SERIA_A,22-23,b2d9765e
+c69ef855,Alexis Blin,29,FRA,CM,26-031,90,0,0,0,0,0,0,1,0,54,5,1,4,0.0,0.0,0.0,0,0,30,39,76.9,0,15,1,2,1,Lecce,2022-10-17 Lecce-Fiorentina,ITA-SERIA_A,22-23,b2d9765e
+a69cc629,Kristoffer Askildsen,7,NOR,RM,21-281,68,0,0,0,0,0,0,0,0,31,0,0,1,0.0,0.0,0.0,0,0,13,22,59.1,2,7,1,0,0,Lecce,2022-10-17 Lecce-Fiorentina,ITA-SERIA_A,22-23,b2d9765e
+79370f8c,Kristijan Bistrović,8,CRO,RM,24-191,22,0,0,0,0,0,0,0,0,10,0,0,1,0.0,0.0,0.0,0,0,6,9,66.7,2,3,0,0,0,Lecce,2022-10-17 Lecce-Fiorentina,ITA-SERIA_A,22-23,b2d9765e
+c74d63ac,Antonino Gallo,25,ITA,LB,22-285,89,0,0,0,0,0,0,2,1,37,3,0,1,0.0,0.0,0.0,3,0,19,31,61.3,9,16,6,1,1,Lecce,2022-10-17 Lecce-Fiorentina,ITA-SERIA_A,22-23,b2d9765e
+3eed9821,Samuel Umtiti,93,FRA,CB,28-337,88,0,0,0,0,0,0,1,0,37,1,0,2,0.0,0.0,0.0,0,0,28,30,93.3,1,11,0,1,1,Lecce,2022-10-17 Lecce-Fiorentina,ITA-SERIA_A,22-23,b2d9765e
+822ed0ec,Valentin Gendrey,17,FRA,CB,22-118,2,0,0,0,0,0,0,0,0,5,1,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,0,0,0,0,Lecce,2022-10-17 Lecce-Fiorentina,ITA-SERIA_A,22-23,b2d9765e
+2a6cd437,Marin Pongračić,5,CRO,CB,25-036,90,0,0,0,0,0,0,0,0,44,2,3,1,0.0,0.0,0.0,0,0,34,37,91.9,1,17,0,0,0,Lecce,2022-10-17 Lecce-Fiorentina,ITA-SERIA_A,22-23,b2d9765e
+5a08ee41,Federico Baschirotto,6,ITA,RB,26-027,90,0,0,0,0,0,0,0,0,43,2,2,1,0.0,0.0,0.0,0,0,21,32,65.6,2,10,0,1,0,Lecce,2022-10-17 Lecce-Fiorentina,ITA-SERIA_A,22-23,b2d9765e
+9f5a610b,Wladimiro Falcone,30,ITA,GK,27-188,90,0,0,0,0,0,0,0,0,52,0,0,0,0.0,0.0,0.0,1,0,20,49,40.8,0,24,0,0,0,Lecce,2022-10-17 Lecce-Fiorentina,ITA-SERIA_A,22-23,b2d9765e
+4d8cd038,Luka Jović,7,SRB,FW,24-298,6,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,0,0,1,0,Fiorentina,2022-10-17 Lecce-Fiorentina,ITA-SERIA_A,22-23,b2d9765e
+a820e429,Arthur Cabral,9,BRA,FW,24-175,84,0,1,0,0,1,0,0,0,19,0,0,0,0.1,0.1,0.1,2,1,9,11,81.8,2,13,0,2,0,Fiorentina,2022-10-17 Lecce-Fiorentina,ITA-SERIA_A,22-23,b2d9765e
+d995ed27,Giacomo Bonaventura,5,ITA,FW,33-056,90,0,0,0,0,2,0,0,0,34,2,0,0,0.1,0.1,0.1,1,0,17,23,73.9,3,20,3,3,1,Fiorentina,2022-10-17 Lecce-Fiorentina,ITA-SERIA_A,22-23,b2d9765e
+58e933d2,Christian Kouamé,99,CIV,LM,24-315,82,1,0,0,0,2,2,1,0,43,1,2,2,0.1,0.1,0.0,3,0,17,29,58.6,2,24,3,4,1,Fiorentina,2022-10-17 Lecce-Fiorentina,ITA-SERIA_A,22-23,b2d9765e
+42eaa028,Jonathan Ikone,11,FRA,LM,24-168,8,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,4,6,66.7,0,8,2,1,0,Fiorentina,2022-10-17 Lecce-Fiorentina,ITA-SERIA_A,22-23,b2d9765e
+c7259b83,Rolando Mandragora,38,ITA,CM,25-110,58,0,0,0,0,1,1,1,0,50,2,1,1,0.1,0.1,0.0,0,0,32,40,80.0,5,26,1,1,0,Fiorentina,2022-10-17 Lecce-Fiorentina,ITA-SERIA_A,22-23,b2d9765e
+528492ea,Alfred Duncan,32,GHA,CM,29-221,32,0,0,0,0,0,0,0,0,28,1,0,0,0.0,0.0,0.0,1,0,15,23,65.2,5,13,2,2,2,Fiorentina,2022-10-17 Lecce-Fiorentina,ITA-SERIA_A,22-23,b2d9765e
+01efac19,Antonín Barák,72,CZE,CM,27-318,90,0,0,0,0,0,0,0,0,40,1,0,0,0.0,0.0,0.0,0,0,21,28,75.0,3,24,3,2,1,Fiorentina,2022-10-17 Lecce-Fiorentina,ITA-SERIA_A,22-23,b2d9765e
+2374aaca,Nicolás González,22,ARG,RM,24-194,90,0,0,0,0,1,1,0,0,42,1,0,0,0.0,0.0,0.0,2,1,18,30,60.0,4,30,2,5,1,Fiorentina,2022-10-17 Lecce-Fiorentina,ITA-SERIA_A,22-23,b2d9765e
+9e1577aa,Cristiano Biraghi,3,ITA,LB,30-046,90,0,0,0,0,1,0,0,0,78,4,2,1,0.1,0.1,0.1,2,0,46,69,66.7,3,28,0,0,0,Fiorentina,2022-10-17 Lecce-Fiorentina,ITA-SERIA_A,22-23,b2d9765e
+a4e85758,Igor,98,BRA,CB,24-252,58,0,0,0,0,0,0,0,0,59,0,0,0,0.0,0.0,0.0,0,0,48,56,85.7,2,40,2,0,0,Fiorentina,2022-10-17 Lecce-Fiorentina,ITA-SERIA_A,22-23,b2d9765e
+bee704fc,Nikola Milenković,4,SRB,CB,25-005,32,0,0,0,0,0,0,0,0,27,0,0,0,0.0,0.0,0.1,2,0,17,25,68.0,4,13,0,0,0,Fiorentina,2022-10-17 Lecce-Fiorentina,ITA-SERIA_A,22-23,b2d9765e
+3ec3c1c9,Lucas Martínez Quarta,28,ARG,CB,26-160,90,0,0,0,0,2,1,1,0,86,2,2,1,0.1,0.1,0.0,0,0,59,76,77.6,13,60,0,0,0,Fiorentina,2022-10-17 Lecce-Fiorentina,ITA-SERIA_A,22-23,b2d9765e
+b5f7d10b,Dodô,2,BRA,RB,23-334,90,0,0,0,0,0,0,0,0,50,3,0,0,0.0,0.0,0.0,1,0,38,46,82.6,4,28,1,3,1,Fiorentina,2022-10-17 Lecce-Fiorentina,ITA-SERIA_A,22-23,b2d9765e
+e1b0a70d,Pietro Terracciano,1,ITA,GK,32-223,90,0,0,0,0,0,0,1,0,33,0,0,0,0.0,0.0,0.0,0,0,26,32,81.3,0,20,0,0,0,Fiorentina,2022-10-17 Lecce-Fiorentina,ITA-SERIA_A,22-23,b2d9765e

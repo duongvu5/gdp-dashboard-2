@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+42276181,Kévin Gameiro,9,FRA,FW,31-329,84,0,0,0,0,1,0,0,0,23,0,0,1,0.3,0.3,0.7,1,0,13,19,68.4,2,9,2,2,1,Valencia,2019-04-03 Valencia-Real Madrid,ESP-LALIGA,18-19,724e53c6
+0b90bb97,Santi Mina,22,ESP,FW,23-117,6,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,2,0,0,0,Valencia,2019-04-03 Valencia-Real Madrid,ESP-LALIGA,18-19,724e53c6
+1fb1c435,Rodrigo,19,ESP,FW,28-028,90,0,0,0,0,3,0,0,0,41,0,0,1,0.2,0.2,0.2,4,0,29,33,87.9,5,24,7,2,2,Valencia,2019-04-03 Valencia-Real Madrid,ESP-LALIGA,18-19,724e53c6
+e6bc67d7,Gonçalo Guedes,7,POR,LM,22-125,72,1,0,0,0,1,1,0,0,45,2,0,2,0.1,0.1,0.0,1,1,17,28,60.7,1,24,3,4,0,Valencia,2019-04-03 Valencia-Real Madrid,ESP-LALIGA,18-19,724e53c6
+0ac94a23,Denis Cheryshev,11,RUS,LM,28-098,18,0,0,0,0,0,0,0,0,9,1,0,0,0.0,0.0,0.1,2,0,6,9,66.7,2,4,1,0,0,Valencia,2019-04-03 Valencia-Real Madrid,ESP-LALIGA,18-19,724e53c6
+cce181df,Geoffrey Kondogbia,6,CTA,CM,26-047,90,0,0,0,0,2,0,0,0,46,3,0,2,0.1,0.1,0.0,1,0,31,34,91.2,2,22,0,2,1,Valencia,2019-04-03 Valencia-Real Madrid,ESP-LALIGA,18-19,724e53c6
+7460ca0d,Daniel Parejo,10,ESP,CM,29-352,90,0,1,0,0,0,0,1,0,64,2,4,0,0.0,0.0,0.3,6,2,50,57,87.7,1,22,1,2,1,Valencia,2019-04-03 Valencia-Real Madrid,ESP-LALIGA,18-19,724e53c6
+fed17f5a,Carlos Soler,8,ESP,RM,22-091,79,0,1,0,0,2,2,0,0,24,0,0,1,0.9,0.9,0.4,4,1,14,17,82.4,6,12,1,1,1,Valencia,2019-04-03 Valencia-Real Madrid,ESP-LALIGA,18-19,724e53c6
+9e1035f8,Ferrán Torres,20,ESP,RM,19-033,11,0,0,0,0,0,0,0,0,4,1,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,0,0,Valencia,2019-04-03 Valencia-Real Madrid,ESP-LALIGA,18-19,724e53c6
+b05e2dbd,José Luis Gayà,14,ESP,LB,23-313,90,0,0,0,0,0,0,0,0,53,3,2,0,0.0,0.0,0.0,0,0,32,43,74.4,3,22,3,8,6,Valencia,2019-04-03 Valencia-Real Madrid,ESP-LALIGA,18-19,724e53c6
+d2110326,Mouctar Diakhaby,12,GUI,CB,22-105,90,0,0,0,0,1,0,0,0,35,1,1,3,0.1,0.1,0.0,0,0,18,22,81.8,1,10,0,0,0,Valencia,2019-04-03 Valencia-Real Madrid,ESP-LALIGA,18-19,724e53c6
+ac3fb1be,Ezequiel Garay,24,ARG,CB,32-175,90,1,0,0,0,1,1,0,0,37,0,0,0,0.1,0.1,0.0,0,0,26,31,83.9,0,16,0,0,0,Valencia,2019-04-03 Valencia-Real Madrid,ESP-LALIGA,18-19,724e53c6
+d83bbc54,Daniel Wass,18,DEN,RB,29-307,90,0,0,0,0,0,0,1,0,46,1,2,1,0.0,0.0,0.0,0,0,23,35,65.7,1,16,0,0,0,Valencia,2019-04-03 Valencia-Real Madrid,ESP-LALIGA,18-19,724e53c6
+a9dc785c,Neto,13,BRA,GK,29-258,90,0,0,0,0,0,0,0,0,26,0,0,0,0.0,0.0,0.0,0,0,12,26,46.2,0,10,0,0,0,Valencia,2019-04-03 Valencia-Real Madrid,ESP-LALIGA,18-19,724e53c6
+70d74ece,Karim Benzema,9,FRA,"FW,LW",31-105,90,1,0,0,0,2,2,0,0,54,2,0,0,0.2,0.2,0.1,3,0,35,41,85.4,4,31,4,3,1,Real Madrid,2019-04-03 Valencia-Real Madrid,ESP-LALIGA,18-19,724e53c6
+45af8a54,Marco Asensio,20,ESP,LW,23-072,63,0,0,0,0,1,1,0,0,38,0,2,0,0.1,0.1,0.1,4,0,28,34,82.4,2,24,3,1,1,Real Madrid,2019-04-03 Valencia-Real Madrid,ESP-LALIGA,18-19,724e53c6
+a58bb1e1,Gareth Bale,11,WAL,"RW,LW",29-261,27,0,0,0,0,1,0,0,0,19,0,0,1,0.0,0.0,0.0,3,1,12,16,75.0,2,11,4,2,1,Real Madrid,2019-04-03 Valencia-Real Madrid,ESP-LALIGA,18-19,724e53c6
+fd51b456,Lucas Vázquez,17,ESP,RW,27-276,77,0,0,0,0,1,0,0,0,84,4,1,1,0.1,0.1,0.0,1,0,58,71,81.7,1,53,4,3,2,Real Madrid,2019-04-03 Valencia-Real Madrid,ESP-LALIGA,18-19,724e53c6
+5c4dc0ff,Mariano,7,DOM,FW,25-245,13,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,1,0,0,0,Real Madrid,2019-04-03 Valencia-Real Madrid,ESP-LALIGA,18-19,724e53c6
+6ce1f46f,Toni Kroos,8,GER,LM,29-089,63,0,0,0,0,1,1,0,0,76,0,0,1,0.0,0.0,0.1,1,0,69,73,94.5,7,51,3,0,0,Real Madrid,2019-04-03 Valencia-Real Madrid,ESP-LALIGA,18-19,724e53c6
+a0b4bb3e,Isco,22,ESP,LM,26-347,27,0,0,0,0,0,0,0,0,20,0,0,0,0.0,0.0,0.1,3,0,17,19,89.5,3,14,2,1,1,Real Madrid,2019-04-03 Valencia-Real Madrid,ESP-LALIGA,18-19,724e53c6
+4d224fe8,Casemiro,14,BRA,CM,27-039,90,0,0,0,0,1,0,0,0,86,3,0,2,0.0,0.0,0.0,2,0,74,81,91.4,5,48,0,0,0,Real Madrid,2019-04-03 Valencia-Real Madrid,ESP-LALIGA,18-19,724e53c6
+6025fab1,Luka Modrić,10,CRO,RM,33-206,90,0,1,0,0,0,0,0,0,96,2,1,1,0.0,0.0,0.3,7,1,78,87,89.7,13,63,5,3,2,Real Madrid,2019-04-03 Valencia-Real Madrid,ESP-LALIGA,18-19,724e53c6
+603116a7,Marcelo,12,BRA,LB,30-326,90,0,0,0,0,5,1,1,0,91,1,1,0,0.2,0.2,0.0,2,0,68,82,82.9,9,59,2,1,1,Real Madrid,2019-04-03 Valencia-Real Madrid,ESP-LALIGA,18-19,724e53c6
+08511d65,Sergio Ramos,4,ESP,CB,33-004,90,0,0,0,0,3,0,0,0,89,0,1,2,0.3,0.3,0.0,0,0,74,80,92.5,7,59,1,1,0,Real Madrid,2019-04-03 Valencia-Real Madrid,ESP-LALIGA,18-19,724e53c6
+9f8e9423,Raphaël Varane,5,FRA,CB,25-343,90,0,0,0,0,0,0,0,0,65,2,2,1,0.0,0.0,0.0,0,0,51,55,92.7,2,33,0,0,0,Real Madrid,2019-04-03 Valencia-Real Madrid,ESP-LALIGA,18-19,724e53c6
+1d1691ad,Álvaro Odriozola,19,ESP,RB,23-110,90,0,0,0,0,0,0,1,0,82,2,3,1,0.0,0.0,0.0,2,0,64,72,88.9,6,47,6,1,0,Real Madrid,2019-04-03 Valencia-Real Madrid,ESP-LALIGA,18-19,724e53c6
+ecada4fc,Keylor Navas,1,CRC,GK,32-109,90,0,0,0,0,0,0,0,0,27,0,0,0,0.0,0.0,0.0,0,0,21,26,80.8,0,11,0,0,0,Real Madrid,2019-04-03 Valencia-Real Madrid,ESP-LALIGA,18-19,724e53c6

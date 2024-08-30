@@ -1,0 +1,29 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+c24dba2a,Andre Gray,18,JAM,FW,27-301,90,1,0,0,0,4,2,0,0,25,0,0,0,0.7,0.7,0.0,2,0,8,13,61.5,1,16,2,2,0,Watford,2019-04-23 Watford-Southampton,ENG-EPL,18-19,704df4ec
+39583cfd,Gerard Deulofeu,7,ESP,"FW,RW",25-041,90,0,0,0,0,3,0,1,0,58,1,0,0,0.1,0.1,0.2,7,0,30,50,60.0,5,48,7,3,2,Watford,2019-04-23 Watford-Southampton,ENG-EPL,18-19,704df4ec
+75f2c59f,Roberto Pereyra,37,ARG,"AM,WB,LM",28-106,90,0,0,0,0,2,1,0,0,58,1,2,0,0.1,0.1,0.0,3,1,32,37,86.5,6,40,2,8,5,Watford,2019-04-23 Watford-Southampton,ENG-EPL,18-19,704df4ec
+a0666d3e,Will Hughes,19,ENG,"AM,CM",24-006,76,0,0,0,0,2,0,0,0,38,1,1,0,0.1,0.1,0.3,3,0,18,26,69.2,2,32,1,2,0,Watford,2019-04-23 Watford-Southampton,ENG-EPL,18-19,704df4ec
+f573a8bf,Isaac Success,10,NGA,LW,23-106,14,0,0,0,0,1,0,0,0,9,1,0,0,0.1,0.1,0.0,0,0,4,4,100.0,1,6,0,0,0,Watford,2019-04-23 Watford-Southampton,ENG-EPL,18-19,704df4ec
+5acc4a10,Étienne Capoue,29,FRA,"CM,DM",30-286,90,0,0,0,0,0,0,1,0,96,2,1,0,0.0,0.0,0.0,3,0,80,90,88.9,10,66,1,2,2,Watford,2019-04-23 Watford-Southampton,ENG-EPL,18-19,704df4ec
+02b29014,Abdoulaye Doucouré,16,MLI,"CM,DM",26-112,90,0,0,0,0,1,1,1,0,98,2,0,1,0.1,0.1,0.1,2,0,69,91,75.8,9,73,3,2,1,Watford,2019-04-23 Watford-Southampton,ENG-EPL,18-19,704df4ec
+de0f152c,Adam Masina,11,MAR,"CB,LB",25-111,90,0,0,0,0,0,0,1,0,72,4,0,2,0.0,0.0,0.0,0,0,54,64,84.4,4,40,1,0,0,Watford,2019-04-23 Watford-Southampton,ENG-EPL,18-19,704df4ec
+89e4b358,Craig Cathcart,15,NIR,CB,30-076,45,0,0,0,0,0,0,0,0,41,0,0,0,0.0,0.0,0.0,0,0,35,38,92.1,0,32,0,0,0,Watford,2019-04-23 Watford-Southampton,ENG-EPL,18-19,704df4ec
+e5d01ecf,Kiko Femenía,21,ESP,"WB,RM",28-080,45,0,0,0,0,0,0,0,0,39,1,2,1,0.0,0.0,0.1,2,1,29,34,85.3,1,23,1,1,1,Watford,2019-04-23 Watford-Southampton,ENG-EPL,18-19,704df4ec
+914ab9a1,Christian Kabasele,27,BEL,CB,28-058,90,0,0,0,0,0,0,1,0,86,0,3,1,0.0,0.0,0.0,0,0,57,72,79.2,3,53,0,0,0,Watford,2019-04-23 Watford-Southampton,ENG-EPL,18-19,704df4ec
+45da6694,Daryl Janmaat,2,NED,"CB,RB",29-275,90,0,1,0,0,2,0,0,0,91,1,2,1,0.1,0.1,0.1,1,0,62,80,77.5,5,50,3,1,1,Watford,2019-04-23 Watford-Southampton,ENG-EPL,18-19,704df4ec
+d0b3ceb9,Ben Foster,26,ENG,GK,36-020,90,0,0,0,0,0,0,0,0,47,0,0,0,0.0,0.0,0.0,0,0,25,44,56.8,0,23,0,0,0,Watford,2019-04-23 Watford-Southampton,ENG-EPL,18-19,704df4ec
+9f472354,Shane Long,7,IRL,FW,32-091,77,1,0,0,0,3,1,0,0,31,0,1,0,0.8,0.8,0.0,2,1,13,22,59.1,2,21,2,1,1,Southampton,2019-04-23 Watford-Southampton,ENG-EPL,18-19,704df4ec
+531a4aa8,Yan Valery,43,TUN,WB,20-060,13,0,0,0,0,0,0,0,0,4,1,0,0,0.0,0.0,0.0,0,0,0,4,0.0,0,1,1,1,1,Southampton,2019-04-23 Watford-Southampton,ENG-EPL,18-19,704df4ec
+97333cf5,Stuart Armstrong,17,SCO,AM,27-024,66,0,0,0,0,0,0,0,0,27,0,0,0,0.0,0.0,0.0,0,0,12,23,52.2,1,15,0,2,1,Southampton,2019-04-23 Watford-Southampton,ENG-EPL,18-19,704df4ec
+6d6f09dc,Josh Sims,39,ENG,AM,22-026,24,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,4,0,0,0,Southampton,2019-04-23 Watford-Southampton,ENG-EPL,18-19,704df4ec
+ab651565,Nathan Redmond,22,ENG,"AM,FW",25-048,90,0,0,0,0,3,2,0,0,48,3,2,1,0.7,0.7,0.5,3,0,27,34,79.4,1,35,5,1,1,Southampton,2019-04-23 Watford-Southampton,ENG-EPL,18-19,704df4ec
+8b04d6c1,Pierre Højbjerg,23,DEN,CM,23-261,90,0,0,0,0,0,0,0,0,66,4,2,2,0.0,0.0,0.0,2,0,37,53,69.8,5,37,1,2,2,Southampton,2019-04-23 Watford-Southampton,ENG-EPL,18-19,704df4ec
+4b511457,Oriol Romeu,14,ESP,CM,27-211,73,0,0,0,0,0,0,1,0,46,2,3,1,0.0,0.0,0.0,0,0,30,39,76.9,4,29,1,0,0,Southampton,2019-04-23 Watford-Southampton,ENG-EPL,18-19,704df4ec
+2b471f99,Mario Lemina,18,GAB,CM,25-234,17,0,0,0,0,0,0,0,0,12,1,0,0,0.0,0.0,0.0,0,0,4,7,57.1,1,8,1,3,2,Southampton,2019-04-23 Watford-Southampton,ENG-EPL,18-19,704df4ec
+01226327,Ryan Bertrand,21,ENG,WB,29-261,90,0,0,0,0,1,0,0,0,38,0,0,0,0.4,0.4,0.0,1,0,24,30,80.0,3,19,2,1,1,Southampton,2019-04-23 Watford-Southampton,ENG-EPL,18-19,704df4ec
+3515d404,James Ward-Prowse,16,ENG,"WB,AM",24-173,90,0,0,0,0,1,1,0,0,61,4,4,0,0.1,0.1,0.4,2,0,30,46,65.2,3,30,0,1,0,Southampton,2019-04-23 Watford-Southampton,ENG-EPL,18-19,704df4ec
+6adbc307,Jack Stephens,5,ENG,CB,25-086,90,0,0,0,0,0,0,0,0,51,4,3,2,0.0,0.0,0.0,1,0,25,37,67.6,3,14,0,0,0,Southampton,2019-04-23 Watford-Southampton,ENG-EPL,18-19,704df4ec
+caffaf5a,Maya Yoshida,3,JPN,CB,30-242,90,0,0,0,0,0,0,0,0,47,1,3,4,0.0,0.0,0.0,0,0,24,31,77.4,1,17,0,0,0,Southampton,2019-04-23 Watford-Southampton,ENG-EPL,18-19,704df4ec
+4115ce4e,Jan Bednarek,35,POL,CB,23-011,90,0,0,0,0,0,0,1,0,60,1,5,3,0.0,0.0,0.0,0,0,23,41,56.1,4,20,0,0,0,Southampton,2019-04-23 Watford-Southampton,ENG-EPL,18-19,704df4ec
+e082af5b,Angus Gunn,28,SCO,GK,23-091,90,0,0,0,0,0,0,0,0,29,0,0,0,0.0,0.0,0.0,1,0,9,25,36.0,0,13,0,0,0,Southampton,2019-04-23 Watford-Southampton,ENG-EPL,18-19,704df4ec

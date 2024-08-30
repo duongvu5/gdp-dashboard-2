@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+0b90bb97,Santi Mina,22,ESP,FW,23-050,83,0,0,0,0,2,0,0,0,37,1,2,2,0.2,0.2,0.0,1,0,13,25,52.0,2,26,1,2,1,Valencia,2019-01-26 Valencia-Villarreal,ESP-LALIGA,18-19,e982d83f
+8455ad90,Lee Kang-in,34,KOR,FW,17-341,7,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Valencia,2019-01-26 Valencia-Villarreal,ESP-LALIGA,18-19,e982d83f
+1fb1c435,Rodrigo,19,ESP,FW,27-326,90,1,0,0,0,4,2,0,0,37,0,0,1,0.4,0.4,0.2,2,0,17,24,70.8,2,29,3,6,2,Valencia,2019-01-26 Valencia-Villarreal,ESP-LALIGA,18-19,e982d83f
+0ac94a23,Denis Cheryshev,11,RUS,LM,28-031,73,1,0,0,0,3,2,0,0,32,1,1,1,0.5,0.5,0.3,5,1,15,21,71.4,2,23,2,2,1,Valencia,2019-01-26 Valencia-Villarreal,ESP-LALIGA,18-19,e982d83f
+d83bbc54,Daniel Wass,18,DEN,LM,29-240,17,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,0,0,5,9,55.6,0,5,0,0,0,Valencia,2019-01-26 Valencia-Villarreal,ESP-LALIGA,18-19,e982d83f
+7460ca0d,Daniel Parejo,10,ESP,CM,29-285,90,0,1,0,0,1,0,0,0,92,4,0,3,0.0,0.0,0.5,8,3,71,80,88.8,5,58,3,2,2,Valencia,2019-01-26 Valencia-Villarreal,ESP-LALIGA,18-19,e982d83f
+a6951bf8,Francis Coquelin,17,FRA,CM,27-258,90,0,1,0,0,1,1,0,0,45,0,2,2,0.0,0.0,0.1,4,1,34,37,91.9,11,34,2,4,2,Valencia,2019-01-26 Valencia-Villarreal,ESP-LALIGA,18-19,e982d83f
+fed17f5a,Carlos Soler,8,ESP,RM,22-024,76,0,0,0,0,3,2,0,0,30,0,0,1,0.1,0.1,0.2,5,0,18,21,85.7,4,21,4,3,3,Valencia,2019-01-26 Valencia-Villarreal,ESP-LALIGA,18-19,e982d83f
+9e1035f8,Ferrán Torres,20,ESP,RM,18-331,14,0,1,0,0,0,0,0,0,12,0,1,2,0.0,0.0,0.2,1,1,5,7,71.4,1,8,1,2,1,Valencia,2019-01-26 Valencia-Villarreal,ESP-LALIGA,18-19,e982d83f
+b05e2dbd,José Luis Gayà,14,ESP,LB,23-246,90,0,0,0,0,0,0,1,0,65,2,1,1,0.0,0.0,0.0,2,0,45,59,76.3,6,42,4,0,0,Valencia,2019-01-26 Valencia-Villarreal,ESP-LALIGA,18-19,e982d83f
+d2110326,Mouctar Diakhaby,12,GUI,CB,22-038,90,1,0,0,0,2,1,0,0,63,0,2,0,0.2,0.2,0.0,1,0,45,54,83.3,2,41,1,0,0,Valencia,2019-01-26 Valencia-Villarreal,ESP-LALIGA,18-19,e982d83f
+ac3fb1be,Ezequiel Garay,24,ARG,CB,32-108,90,0,0,0,0,0,0,0,0,67,0,1,7,0.0,0.0,0.0,1,0,46,54,85.2,3,36,0,0,0,Valencia,2019-01-26 Valencia-Villarreal,ESP-LALIGA,18-19,e982d83f
+32c0491f,Cristiano Piccini,21,ITA,RB,26-122,90,0,0,0,0,2,1,0,0,58,1,1,0,0.0,0.0,0.0,3,0,34,47,72.3,6,34,2,3,3,Valencia,2019-01-26 Valencia-Villarreal,ESP-LALIGA,18-19,e982d83f
+a9dc785c,Neto,13,BRA,GK,29-191,90,0,0,0,0,0,0,0,0,31,0,0,0,0.0,0.0,0.0,0,0,19,29,65.5,0,14,0,0,0,Valencia,2019-01-26 Valencia-Villarreal,ESP-LALIGA,18-19,e982d83f
+5ceba7fc,Karl Toko Ekambi,17,CMR,"FW,LW,LM",26-134,90,0,0,0,0,1,1,0,0,37,1,1,0,0.0,0.0,0.0,1,0,19,28,67.9,1,27,6,3,2,Villarreal,2019-01-26 Valencia-Villarreal,ESP-LALIGA,18-19,e982d83f
+63f04c6c,Alfonso Pedraza,16,ESP,LW,22-292,59,0,0,0,0,2,0,0,0,31,0,0,1,0.1,0.1,0.0,2,0,14,22,63.6,3,16,1,0,0,Villarreal,2019-01-26 Valencia-Villarreal,ESP-LALIGA,18-19,e982d83f
+b8a642fc,Samuel Chukwueze,30,NGA,"RW,RM",19-249,31,0,0,0,0,1,0,0,0,23,0,0,0,0.0,0.0,0.0,3,0,14,19,73.7,3,17,1,1,0,Villarreal,2019-01-26 Valencia-Villarreal,ESP-LALIGA,18-19,e982d83f
+e2e9c250,Santi Cazorla,19,ESP,RW,34-044,59,0,0,0,0,1,1,0,0,52,2,0,0,0.0,0.0,0.2,5,0,39,48,81.3,11,40,1,2,2,Villarreal,2019-01-26 Valencia-Villarreal,ESP-LALIGA,18-19,e982d83f
+09a9e921,Carlos Bacca,9,COL,FW,32-140,31,0,0,0,0,1,1,0,0,10,0,0,0,0.1,0.1,0.0,0,0,7,9,77.8,2,9,0,0,0,Villarreal,2019-01-26 Valencia-Villarreal,ESP-LALIGA,18-19,e982d83f
+82927de4,Pablo Fornals,8,ESP,AM,22-338,63,0,0,0,0,1,1,0,0,35,0,0,0,0.1,0.1,0.1,3,0,22,28,78.6,2,20,1,1,1,Villarreal,2019-01-26 Valencia-Villarreal,ESP-LALIGA,18-19,e982d83f
+81f0781e,Gerard Moreno,7,ESP,"AM,FW",26-294,27,0,0,0,0,0,0,0,0,15,0,0,0,0.0,0.0,0.0,0,0,12,15,80.0,3,11,1,1,1,Villarreal,2019-01-26 Valencia-Villarreal,ESP-LALIGA,18-19,e982d83f
+963829d0,Manu Trigueros,14,ESP,"DM,CM",27-101,90,0,0,0,0,3,0,0,0,76,1,2,1,0.1,0.1,0.1,3,0,66,70,94.3,9,52,2,0,0,Villarreal,2019-01-26 Valencia-Villarreal,ESP-LALIGA,18-19,e982d83f
+ad1ffcfd,Vicente Iborra,10,ESP,"DM,CM",31-010,90,0,0,0,0,1,0,1,0,58,2,0,0,0.1,0.1,0.0,0,0,43,51,84.3,2,25,0,1,1,Villarreal,2019-01-26 Valencia-Villarreal,ESP-LALIGA,18-19,e982d83f
+808d48f3,Jaume Costa,11,ESP,LB,30-314,90,0,0,0,0,0,0,0,0,85,5,3,0,0.0,0.0,0.2,3,0,59,75,78.7,7,48,3,2,2,Villarreal,2019-01-26 Valencia-Villarreal,ESP-LALIGA,18-19,e982d83f
+b3dc6eca,Víctor Ruiz,6,ESP,CB,30-001,90,0,0,0,0,0,0,1,0,69,2,1,3,0.0,0.0,0.0,0,0,49,60,81.7,2,42,0,1,1,Villarreal,2019-01-26 Valencia-Villarreal,ESP-LALIGA,18-19,e982d83f
+42dcf26d,Álvaro González,3,ESP,CB,29-018,90,0,0,0,0,1,1,0,0,62,3,0,4,0.1,0.1,0.0,0,0,48,53,90.6,2,41,0,0,0,Villarreal,2019-01-26 Valencia-Villarreal,ESP-LALIGA,18-19,e982d83f
+fb5d47b3,Mario Gaspar,2,ESP,RB,28-063,90,0,0,0,0,2,0,1,0,69,1,1,0,0.1,0.1,0.1,4,0,46,63,73.0,4,32,1,0,0,Villarreal,2019-01-26 Valencia-Villarreal,ESP-LALIGA,18-19,e982d83f
+9f0ea33f,Sergio Asenjo,1,ESP,GK,29-212,90,0,0,0,0,0,0,0,0,29,0,0,0,0.0,0.0,0.0,0,0,13,25,52.0,0,13,0,0,0,Villarreal,2019-01-26 Valencia-Villarreal,ESP-LALIGA,18-19,e982d83f

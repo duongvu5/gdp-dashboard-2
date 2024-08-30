@@ -1,0 +1,29 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+b66315ae,Gabriel Jesus,9,BRA,"FW,LW",23-256,90,0,0,0,0,2,0,0,0,24,3,0,0,0.1,0.1,0.0,3,0,13,14,92.9,0,8,0,0,0,Manchester City,2020-12-15 Manchester City-West Brom,ENG-EPL,20-21,40b42ca1
+ed1e53f3,Phil Foden,47,ENG,LW,20-201,75,0,0,0,0,2,0,0,0,64,3,0,1,0.1,0.1,0.1,3,0,46,55,83.6,2,32,4,3,1,Manchester City,2020-12-15 Manchester City-West Brom,ENG-EPL,20-21,40b42ca1
+4d034881,Sergio Agüero,10,ARG,FW,32-196,15,0,0,0,0,2,0,0,0,5,0,0,0,0.1,0.1,0.0,0,0,0,1,0.0,0,1,0,0,0,Manchester City,2020-12-15 Manchester City-West Brom,ENG-EPL,20-21,40b42ca1
+b400bde0,Raheem Sterling,7,ENG,RW,26-007,90,0,1,0,0,2,2,0,0,65,0,0,0,0.5,0.5,0.6,8,1,53,59,89.8,5,44,10,2,2,Manchester City,2020-12-15 Manchester City-West Brom,ENG-EPL,20-21,40b42ca1
+e46012d4,Kevin De Bruyne,17,BEL,AM,29-170,90,0,0,0,0,4,2,0,0,74,0,0,1,0.2,0.2,0.8,8,0,47,67,70.1,7,39,6,1,1,Manchester City,2020-12-15 Manchester City-West Brom,ENG-EPL,20-21,40b42ca1
+819b3158,İlkay Gündoğan,8,GER,DM,30-052,90,1,0,0,0,4,2,0,0,117,0,1,0,0.7,0.7,0.1,8,0,101,110,91.8,6,66,3,4,3,Manchester City,2020-12-15 Manchester City-West Brom,ENG-EPL,20-21,40b42ca1
+6434f10d,Rodri,16,ESP,DM,24-176,90,0,0,0,0,4,0,0,0,119,2,2,0,0.1,0.1,0.0,5,0,94,108,87.0,8,66,5,0,0,Manchester City,2020-12-15 Manchester City-West Brom,ENG-EPL,20-21,40b42ca1
+5271c8f1,Benjamin Mendy,22,FRA,LB,26-151,74,0,0,0,0,1,0,0,0,71,2,1,0,0.0,0.0,0.0,2,0,53,63,84.1,5,27,0,1,1,Manchester City,2020-12-15 Manchester City-West Brom,ENG-EPL,20-21,40b42ca1
+86dd77d1,Kyle Walker,2,ENG,RB,30-201,16,0,0,0,0,1,0,0,0,18,0,0,0,0.0,0.0,0.0,3,0,14,16,87.5,3,9,2,0,0,Manchester City,2020-12-15 Manchester City-West Brom,ENG-EPL,20-21,40b42ca1
+eaeca114,Nathan Aké,6,NED,CB,25-301,90,0,0,0,0,0,0,1,0,108,0,2,0,0.0,0.0,0.0,0,0,96,103,93.2,13,67,5,0,0,Manchester City,2020-12-15 Manchester City-West Brom,ENG-EPL,20-21,40b42ca1
+31c69ef1,Rúben Dias,3,POR,CB,23-215,90,0,0,0,0,1,0,0,0,100,0,0,2,0.0,0.0,0.0,2,0,89,94,94.7,8,62,1,0,0,Manchester City,2020-12-15 Manchester City-West Brom,ENG-EPL,20-21,40b42ca1
+bd6351cd,João Cancelo,27,POR,"RB,LB",26-202,90,0,0,0,0,3,1,1,0,114,1,2,2,0.1,0.1,0.1,6,1,82,98,83.7,14,67,7,4,1,Manchester City,2020-12-15 Manchester City-West Brom,ENG-EPL,20-21,40b42ca1
+3bb7b8b4,Ederson,31,BRA,GK,27-120,90,0,0,0,0,0,0,0,0,23,0,0,0,0.0,0.0,0.0,1,0,22,22,100.0,0,14,0,0,0,Manchester City,2020-12-15 Manchester City-West Brom,ENG-EPL,20-21,40b42ca1
+87f7500e,Karlan Grant,29,ENG,FW,23-088,69,0,0,0,0,1,1,0,0,19,0,1,1,0.3,0.3,0.0,1,0,10,12,83.3,0,6,1,0,0,West Bromwich Albion,2020-12-15 Manchester City-West Brom,ENG-EPL,20-21,40b42ca1
+8d228291,Charlie Austin,15,ENG,FW,31-163,21,0,0,0,0,0,0,0,0,11,2,0,0,0.0,0.0,0.0,0,0,4,5,80.0,0,5,1,1,1,West Bromwich Albion,2020-12-15 Manchester City-West Brom,ENG-EPL,20-21,40b42ca1
+f522d7ec,Grady Diangana,11,COD,LM,22-240,90,0,0,0,0,0,0,0,0,33,4,3,3,0.0,0.0,0.0,2,0,13,20,65.0,1,13,0,4,3,West Bromwich Albion,2020-12-15 Manchester City-West Brom,ENG-EPL,20-21,40b42ca1
+c2731c10,Conor Gallagher,18,ENG,CM,20-313,90,0,0,0,0,1,0,1,0,29,0,3,0,0.0,0.0,0.0,0,0,15,21,71.4,1,12,0,2,0,West Bromwich Albion,2020-12-15 Manchester City-West Brom,ENG-EPL,20-21,40b42ca1
+b98570d1,Jake Livermore,8,ENG,CM,31-031,79,0,0,0,0,0,0,0,0,26,1,0,1,0.0,0.0,0.0,1,0,9,18,50.0,2,9,0,0,0,West Bromwich Albion,2020-12-15 Manchester City-West Brom,ENG-EPL,20-21,40b42ca1
+c2dfedeb,Filip Krovinović,17,CRO,"RM,CM",25-108,11,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,1,3,33.3,0,1,0,0,0,West Bromwich Albion,2020-12-15 Manchester City-West Brom,ENG-EPL,20-21,40b42ca1
+7bb5f40e,Matt Phillips,10,SCO,RM,29-277,86,0,0,0,0,1,0,0,0,32,0,0,2,0.0,0.0,0.1,2,0,14,19,73.7,0,8,1,2,0,West Bromwich Albion,2020-12-15 Manchester City-West Brom,ENG-EPL,20-21,40b42ca1
+af341b88,Lee Peltier,22,ENG,"RB,RM",34-004,4,0,0,0,0,0,0,1,0,3,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,1,0,0,0,West Bromwich Albion,2020-12-15 Manchester City-West Brom,ENG-EPL,20-21,40b42ca1
+77bb1522,Romaine Sawyers,19,SKN,"DM,CM",29-043,90,0,0,0,0,0,0,0,0,32,1,2,0,0.0,0.0,0.0,1,0,21,29,72.4,0,11,0,2,2,West Bromwich Albion,2020-12-15 Manchester City-West Brom,ENG-EPL,20-21,40b42ca1
+46ee5234,Kieran Gibbs,3,ENG,LB,31-080,90,0,0,0,0,0,0,1,0,26,2,1,3,0.0,0.0,0.0,0,0,13,19,68.4,0,6,0,0,0,West Bromwich Albion,2020-12-15 Manchester City-West Brom,ENG-EPL,20-21,40b42ca1
+1d042188,Dara O'Shea,27,IRL,CB,21-286,90,0,0,0,0,0,0,0,0,33,1,0,3,0.0,0.0,0.0,1,0,11,16,68.8,0,9,0,0,0,West Bromwich Albion,2020-12-15 Manchester City-West Brom,ENG-EPL,20-21,40b42ca1
+d6192210,Semi Ajayi,6,NGA,CB,27-036,90,0,0,0,0,1,0,0,0,29,1,0,3,0.1,0.1,0.0,0,0,6,15,40.0,0,8,0,0,0,West Bromwich Albion,2020-12-15 Manchester City-West Brom,ENG-EPL,20-21,40b42ca1
+3ec9195b,Darnell Furlong,2,ENG,"RB,CB",25-045,90,0,0,0,0,1,0,0,0,32,1,2,0,0.1,0.1,0.0,0,0,14,26,53.8,1,8,0,0,0,West Bromwich Albion,2020-12-15 Manchester City-West Brom,ENG-EPL,20-21,40b42ca1
+9e5708be,Sam Johnstone,1,ENG,GK,27-265,90,0,0,0,0,0,0,0,0,48,0,0,0,0.0,0.0,0.0,0,0,16,41,39.0,0,16,0,0,0,West Bromwich Albion,2020-12-15 Manchester City-West Brom,ENG-EPL,20-21,40b42ca1

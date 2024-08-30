@@ -1,0 +1,29 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+a1d5bd30,Marcus Rashford,10,ENG,FW,21-104,83,0,0,0,0,2,1,0,0,33,1,0,1,0.1,0.1,0.1,2,0,15,20,75.0,0,17,2,0,0,Manchester United,2019-02-12 Manchester Utd-Paris S-G,UCL,18-19,59a63af6
+5eae500a,Romelu Lukaku,9,BEL,FW,25-275,7,0,0,0,0,0,0,0,0,2,1,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,0,0,0,0,Manchester United,2019-02-12 Manchester Utd-Paris S-G,UCL,18-19,59a63af6
+8b788c01,Anthony Martial,11,FRA,LW,23-069,45,0,0,0,0,0,0,0,0,15,0,0,1,0.0,0.0,0.0,0,0,8,12,66.7,1,9,2,2,1,Manchester United,2019-02-12 Manchester Utd-Paris S-G,UCL,18-19,59a63af6
+29733c72,Juan Mata,8,ESP,"RW,RM",30-290,45,0,0,0,0,1,0,0,0,32,2,0,0,0.0,0.0,0.1,3,0,22,28,78.6,1,18,1,1,1,Manchester United,2019-02-12 Manchester Utd-Paris S-G,UCL,18-19,59a63af6
+810e3c74,Jesse Lingard,14,ENG,RW,26-059,44,0,0,0,0,0,0,0,0,21,2,0,1,0.0,0.0,0.0,1,0,13,17,76.5,2,13,1,0,0,Manchester United,2019-02-12 Manchester Utd-Paris S-G,UCL,18-19,59a63af6
+2c0f8e9e,Alexis Sánchez,7,CHI,"LW,LM",30-055,46,0,0,0,0,0,0,0,0,24,1,1,1,0.0,0.0,0.0,1,0,14,17,82.4,2,16,0,1,0,Manchester United,2019-02-12 Manchester Utd-Paris S-G,UCL,18-19,59a63af6
+867239d3,Paul Pogba,6,FRA,LM,25-334,88,0,0,0,0,1,0,2,1,49,0,1,3,0.0,0.0,0.1,4,0,31,42,73.8,1,28,4,2,2,Manchester United,2019-02-12 Manchester Utd-Paris S-G,UCL,18-19,59a63af6
+eb7822d7,Nemanja Matić,31,SRB,CM,30-195,90,0,0,0,0,0,0,0,0,75,3,3,1,0.0,0.0,0.0,1,0,57,66,86.4,10,42,3,2,2,Manchester United,2019-02-12 Manchester Utd-Paris S-G,UCL,18-19,59a63af6
+436a9dd0,Ander Herrera,21,ESP,"RM,CM",29-182,90,0,0,0,0,4,0,1,0,71,5,2,1,0.2,0.2,0.0,3,0,53,58,91.4,5,32,2,0,0,Manchester United,2019-02-12 Manchester Utd-Paris S-G,UCL,18-19,59a63af6
+9c94165b,Luke Shaw,23,ENG,LB,23-215,90,0,0,0,0,1,0,1,0,84,1,0,0,0.0,0.0,0.0,2,0,64,80,80.0,8,43,2,2,1,Manchester United,2019-02-12 Manchester Utd-Paris S-G,UCL,18-19,59a63af6
+f5deef4c,Victor Lindelöf,2,SWE,CB,24-210,90,0,0,0,0,1,0,1,0,50,0,2,0,0.0,0.0,0.0,0,0,40,42,95.2,2,31,0,1,1,Manchester United,2019-02-12 Manchester Utd-Paris S-G,UCL,18-19,59a63af6
+a1232f4e,Eric Bailly,3,CIV,CB,24-306,90,0,0,0,0,0,0,0,0,40,1,0,0,0.0,0.0,0.0,1,0,28,35,80.0,7,21,0,0,0,Manchester United,2019-02-12 Manchester Utd-Paris S-G,UCL,18-19,59a63af6
+be927d03,Ashley Young,18,ENG,RB,33-218,90,0,0,0,0,0,0,1,0,70,1,1,1,0.0,0.0,0.0,2,0,47,63,74.6,2,41,7,2,1,Manchester United,2019-02-12 Manchester Utd-Paris S-G,UCL,18-19,59a63af6
+7ba6d84e,David de Gea,1,ESP,GK,28-097,90,0,0,0,0,0,0,0,0,19,0,0,0,0.0,0.0,0.0,0,0,16,17,94.1,0,9,0,0,0,Manchester United,2019-02-12 Manchester Utd-Paris S-G,UCL,18-19,59a63af6
+42fd9c7f,Kylian Mbappé,7,FRA,FW,20-054,90,1,0,0,0,4,3,0,0,42,0,0,0,1.6,1.6,0.0,2,1,26,31,83.9,0,30,2,3,2,Paris Saint-Germain,2019-02-12 Manchester Utd-Paris S-G,UCL,18-19,59a63af6
+19cda00b,Ángel Di María,11,ARG,LW,30-363,80,0,2,0,0,2,0,0,0,38,1,1,0,0.1,0.1,1.6,4,2,24,31,77.4,2,25,3,2,1,Paris Saint-Germain,2019-02-12 Manchester Utd-Paris S-G,UCL,18-19,59a63af6
+29c02c9f,Colin Dagba,31,FRA,LW,20-156,10,0,0,0,0,0,0,0,0,6,1,0,0,0.0,0.0,0.0,0,0,5,5,100.0,0,3,1,0,0,Paris Saint-Germain,2019-02-12 Manchester Utd-Paris S-G,UCL,18-19,59a63af6
+c9e99e49,Dani Alves,13,BRA,RW,35-282,90,0,0,0,0,4,0,1,0,70,2,2,6,0.2,0.2,0.1,2,0,44,55,80.0,1,31,3,1,1,Paris Saint-Germain,2019-02-12 Manchester Utd-Paris S-G,UCL,18-19,59a63af6
+1a992676,Julian Draxler,23,GER,AM,25-145,90,0,0,0,0,0,0,1,0,61,1,0,0,0.0,0.0,0.7,5,0,49,59,83.1,7,36,3,1,1,Paris Saint-Germain,2019-02-12 Manchester Utd-Paris S-G,UCL,18-19,59a63af6
+1467af0d,Marco Verratti,6,ITA,DM,26-099,74,0,0,0,0,0,0,0,0,81,3,1,2,0.0,0.0,0.0,3,0,70,75,93.3,3,53,2,0,0,Paris Saint-Germain,2019-02-12 Manchester Utd-Paris S-G,UCL,18-19,59a63af6
+dff153a4,Leandro Paredes,8,ARG,DM,24-228,16,0,0,0,0,0,0,0,0,31,0,0,1,0.0,0.0,0.0,1,0,27,29,93.1,1,19,0,0,0,Paris Saint-Germain,2019-02-12 Manchester Utd-Paris S-G,UCL,18-19,59a63af6
+d5f2f82b,Marquinhos,5,BRA,DM,24-274,90,0,0,0,0,0,0,0,0,68,0,2,0,0.0,0.0,0.0,3,0,56,63,88.9,6,35,0,1,1,Paris Saint-Germain,2019-02-12 Manchester Utd-Paris S-G,UCL,18-19,59a63af6
+433dc9a2,Juan Bernat,14,ESP,LB,25-348,90,0,0,0,0,1,1,1,0,61,0,1,0,0.0,0.0,0.0,1,1,44,53,83.0,3,41,4,1,1,Paris Saint-Germain,2019-02-12 Manchester Utd-Paris S-G,UCL,18-19,59a63af6
+aef6e670,Presnel Kimpembe,3,FRA,CB,23-183,90,1,0,0,0,1,1,1,0,70,4,1,0,0.6,0.6,0.0,0,0,53,58,91.4,2,45,0,1,0,Paris Saint-Germain,2019-02-12 Manchester Utd-Paris S-G,UCL,18-19,59a63af6
+86e7deaf,Thiago Silva,2,BRA,CB,34-143,90,0,0,0,0,0,0,0,0,71,0,1,0,0.0,0.0,0.0,0,0,54,60,90.0,2,24,0,0,0,Paris Saint-Germain,2019-02-12 Manchester Utd-Paris S-G,UCL,18-19,59a63af6
+51dbeea9,Thilo Kehrer,4,GER,RB,22-144,90,0,0,0,0,0,0,0,0,60,2,2,4,0.0,0.0,0.0,1,0,44,47,93.6,1,22,0,0,0,Paris Saint-Germain,2019-02-12 Manchester Utd-Paris S-G,UCL,18-19,59a63af6
+e40d028b,Gianluigi Buffon,1,ITA,GK,41-015,90,0,0,0,0,0,0,0,0,32,0,1,0,0.0,0.0,0.0,0,0,17,31,54.8,0,13,0,0,0,Paris Saint-Germain,2019-02-12 Manchester Utd-Paris S-G,UCL,18-19,59a63af6

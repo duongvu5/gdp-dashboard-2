@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+a6154613,Luis Suárez,9,URU,FW,32-072,90,1,0,0,0,5,2,1,0,50,0,0,0,0.6,0.6,0.4,3,0,25,36,69.4,4,30,2,5,1,Barcelona,2019-04-06 Barcelona-Atlético Madrid,ESP-LALIGA,18-19,6fbc572e
+0ef89a37,Philippe Coutinho,7,BRA,"LW,LM",26-298,79,0,0,0,0,3,2,0,0,53,0,2,2,0.5,0.5,0.0,4,0,38,39,97.4,10,36,2,9,5,Barcelona,2019-04-06 Barcelona-Atlético Madrid,ESP-LALIGA,18-19,6fbc572e
+6c811eb7,Carles Aleñá,21,ESP,LM,21-091,11,0,0,0,0,0,0,0,0,13,1,0,0,0.0,0.0,0.0,1,1,11,12,91.7,1,7,1,0,0,Barcelona,2019-04-06 Barcelona-Atlético Madrid,ESP-LALIGA,18-19,6fbc572e
+d70ce98e,Lionel Messi,10,ARG,RW,31-286,90,1,0,0,0,8,5,0,0,88,0,0,0,0.8,0.8,1.0,12,0,56,69,81.2,11,70,7,13,6,Barcelona,2019-04-06 Barcelona-Atlético Madrid,ESP-LALIGA,18-19,6fbc572e
+48b3dd60,Arthur Melo,8,BRA,LM,22-237,62,0,0,0,0,0,0,0,0,73,2,2,0,0.0,0.0,0.1,2,0,61,67,91.0,10,47,1,0,0,Barcelona,2019-04-06 Barcelona-Atlético Madrid,ESP-LALIGA,18-19,6fbc572e
+6853490f,Malcom,14,BRA,LW,22-039,28,0,0,0,0,1,1,0,0,23,1,0,0,0.0,0.0,0.0,1,1,19,21,90.5,3,19,1,2,2,Barcelona,2019-04-06 Barcelona-Atlético Madrid,ESP-LALIGA,18-19,6fbc572e
+5ab0ea87,Sergio Busquets,5,ESP,CM,30-264,90,0,0,0,0,1,0,0,0,96,4,3,1,0.1,0.1,0.0,3,0,81,86,94.2,6,57,1,0,0,Barcelona,2019-04-06 Barcelona-Atlético Madrid,ESP-LALIGA,18-19,6fbc572e
+89f951b5,Ivan Rakitić,4,CRO,RM,31-027,90,0,0,0,0,2,0,0,0,136,1,1,2,0.0,0.0,0.1,3,1,113,121,93.4,17,90,6,2,1,Barcelona,2019-04-06 Barcelona-Atlético Madrid,ESP-LALIGA,18-19,6fbc572e
+4601e194,Jordi Alba,18,ESP,LB,30-016,90,0,1,0,0,1,0,0,0,90,1,1,0,0.5,0.5,0.1,4,1,71,84,84.5,8,57,1,1,1,Barcelona,2019-04-06 Barcelona-Atlético Madrid,ESP-LALIGA,18-19,6fbc572e
+4f28a6ff,Clément Lenglet,15,FRA,CB,23-293,90,0,0,0,0,0,0,1,0,50,3,3,2,0.0,0.0,0.0,1,0,36,39,92.3,5,30,0,0,0,Barcelona,2019-04-06 Barcelona-Atlético Madrid,ESP-LALIGA,18-19,6fbc572e
+adfc9123,Gerard Piqué,3,ESP,CB,32-063,90,0,0,0,0,0,0,1,0,65,0,0,2,0.0,0.0,0.0,0,0,57,59,96.6,4,36,1,0,0,Barcelona,2019-04-06 Barcelona-Atlético Madrid,ESP-LALIGA,18-19,6fbc572e
+335fa267,Sergi Roberto,20,ESP,RB,27-058,83,0,0,0,0,0,0,0,0,101,1,0,0,0.0,0.0,0.2,3,0,88,97,90.7,11,73,5,0,0,Barcelona,2019-04-06 Barcelona-Atlético Madrid,ESP-LALIGA,18-19,6fbc572e
+d04b94db,Nélson Semedo,2,POR,RB,25-141,7,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,4,4,100.0,0,1,0,0,0,Barcelona,2019-04-06 Barcelona-Atlético Madrid,ESP-LALIGA,18-19,6fbc572e
+6f51e382,Marc-André ter Stegen,1,GER,GK,26-341,90,0,0,0,0,0,0,0,0,19,0,0,0,0.0,0.0,0.0,0,0,18,19,94.7,0,6,0,0,0,Barcelona,2019-04-06 Barcelona-Atlético Madrid,ESP-LALIGA,18-19,6fbc572e
+a190d597,Diego Costa,19,ESP,FW,30-181,27,0,0,0,0,1,0,0,1,14,0,0,0,0.1,0.1,0.1,1,0,8,10,80.0,1,11,0,1,0,Atlético Madrid,2019-04-06 Barcelona-Atlético Madrid,ESP-LALIGA,18-19,6fbc572e
+df69b544,Antoine Griezmann,7,FRA,"FW,LM",28-016,90,0,0,0,0,2,2,0,0,48,1,0,0,0.1,0.1,0.3,1,0,36,42,85.7,1,24,1,1,1,Atlético Madrid,2019-04-06 Barcelona-Atlético Madrid,ESP-LALIGA,18-19,6fbc572e
+c14bc029,Saúl Ñíguez,8,ESP,"LM,LB",24-136,90,0,0,0,0,1,0,1,0,52,1,2,1,0.0,0.0,0.1,2,0,31,39,79.5,0,31,1,2,1,Atlético Madrid,2019-04-06 Barcelona-Atlético Madrid,ESP-LALIGA,18-19,6fbc572e
+6434f10d,Rodri,14,ESP,CM,22-288,87,0,0,0,0,1,0,0,0,64,2,1,1,0.3,0.3,0.0,0,0,54,60,90.0,5,44,0,0,0,Atlético Madrid,2019-04-06 Barcelona-Atlético Madrid,ESP-LALIGA,18-19,6fbc572e
+cfd8d664,Juanfran,20,ESP,RB,34-087,3,0,0,0,0,0,0,0,0,4,0,1,0,0.0,0.0,0.0,0,0,3,3,100.0,0,2,0,0,0,Atlético Madrid,2019-04-06 Barcelona-Atlético Madrid,ESP-LALIGA,18-19,6fbc572e
+529f49ab,Thomas Partey,5,GHA,"RB,CM",25-297,90,0,0,0,0,0,0,1,0,68,5,1,0,0.0,0.0,0.0,3,0,46,56,82.1,2,45,4,4,4,Atlético Madrid,2019-04-06 Barcelona-Atlético Madrid,ESP-LALIGA,18-19,6fbc572e
+55126f3b,Koke,6,ESP,"RM,CM",27-088,90,0,0,0,0,0,0,0,0,74,7,2,0,0.0,0.0,0.1,5,0,51,63,81.0,6,38,1,1,1,Atlético Madrid,2019-04-06 Barcelona-Atlético Madrid,ESP-LALIGA,18-19,6fbc572e
+e4ed2628,Filipe Luís,3,BRA,LB,33-240,57,0,0,0,0,0,0,0,0,38,3,1,1,0.0,0.0,0.1,1,0,25,32,78.1,3,27,2,0,0,Atlético Madrid,2019-04-06 Barcelona-Atlético Madrid,ESP-LALIGA,18-19,6fbc572e
+129af0db,Álvaro Morata,22,ESP,"FW,LB",26-165,33,0,0,0,0,1,0,0,0,15,2,1,0,0.1,0.1,0.0,1,0,3,8,37.5,1,8,0,0,0,Atlético Madrid,2019-04-06 Barcelona-Atlético Madrid,ESP-LALIGA,18-19,6fbc572e
+fc4f85b1,Diego Godín,2,URU,CB,33-049,90,0,0,0,0,0,0,1,0,40,2,3,1,0.0,0.0,0.0,0,0,20,28,71.4,0,17,0,1,0,Atlético Madrid,2019-04-06 Barcelona-Atlético Madrid,ESP-LALIGA,18-19,6fbc572e
+f0da930c,José María Giménez,24,URU,CB,24-076,90,0,0,0,0,2,0,1,0,48,6,4,4,0.1,0.1,0.0,2,0,18,25,72.0,3,13,0,1,1,Atlético Madrid,2019-04-06 Barcelona-Atlético Madrid,ESP-LALIGA,18-19,6fbc572e
+fdd60087,Santiago Arias,4,COL,RB,27-083,34,0,0,0,0,1,0,0,0,18,0,0,0,0.1,0.1,0.0,0,0,11,14,78.6,0,12,0,0,0,Atlético Madrid,2019-04-06 Barcelona-Atlético Madrid,ESP-LALIGA,18-19,6fbc572e
+01eb744d,Ángel Correa,10,ARG,"RM,FW",24-028,56,0,0,0,0,0,0,0,0,30,2,2,0,0.0,0.0,0.0,1,0,11,14,78.6,1,23,1,8,3,Atlético Madrid,2019-04-06 Barcelona-Atlético Madrid,ESP-LALIGA,18-19,6fbc572e
+ee8508c0,Jan Oblak,13,SVN,GK,26-089,90,0,0,0,0,0,0,0,0,28,0,0,0,0.0,0.0,0.0,0,0,18,25,72.0,0,11,0,0,0,Atlético Madrid,2019-04-06 Barcelona-Atlético Madrid,ESP-LALIGA,18-19,6fbc572e

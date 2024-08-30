@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+70d74ece,Karim Benzema,9,FRA,FW,31-322,90,2,1,0,0,8,3,0,0,66,0,0,1,2.3,2.3,0.5,5,1,45,52,86.5,11,54,6,2,1,Real Madrid,2019-11-06 Real Madrid-Galatasaray,UCL,19-20,e0f6dac6
+a39bb753,Eden Hazard,7,BEL,LW,28-303,67,0,0,0,0,2,1,0,0,49,0,0,0,0.1,0.1,0.1,6,0,40,44,90.9,4,40,10,4,4,Real Madrid,2019-11-06 Real Madrid-Galatasaray,UCL,19-20,e0f6dac6
+a0b4bb3e,Isco,22,ESP,RW,27-199,23,0,0,0,0,1,1,0,0,32,0,1,0,0.1,0.1,0.1,1,0,24,29,82.8,3,23,2,1,1,Real Madrid,2019-11-06 Real Madrid-Galatasaray,UCL,19-20,e0f6dac6
+8f5e92a6,Rodrygo,27,BRA,"RW,LW",18-301,90,3,1,0,0,3,3,0,0,71,2,1,1,0.8,0.8,0.9,6,3,53,61,86.9,2,44,6,2,1,Real Madrid,2019-11-06 Real Madrid-Galatasaray,UCL,19-20,e0f6dac6
+6ce1f46f,Toni Kroos,8,GER,LM,29-306,90,0,0,0,0,2,2,0,0,108,2,0,0,0.1,0.1,0.1,7,3,91,101,90.1,14,65,5,1,1,Real Madrid,2019-11-06 Real Madrid-Galatasaray,UCL,19-20,e0f6dac6
+4d224fe8,Casemiro,14,BRA,CM,27-256,59,0,0,0,0,1,0,0,0,74,0,1,0,0.1,0.1,0.0,2,0,68,71,95.8,4,36,0,0,0,Real Madrid,2019-11-06 Real Madrid-Galatasaray,UCL,19-20,e0f6dac6
+6025fab1,Luka Modrić,10,CRO,RM,34-058,31,0,0,0,0,0,0,0,0,45,0,1,0,0.0,0.0,0.1,2,1,38,43,88.4,4,29,0,0,0,Real Madrid,2019-11-06 Real Madrid-Galatasaray,UCL,19-20,e0f6dac6
+0959c2a2,Federico Valverde,15,URU,"RM,CM",21-107,90,0,0,0,0,0,0,1,0,90,1,2,5,0.0,0.0,0.1,2,0,74,77,96.1,5,56,4,0,0,Real Madrid,2019-11-06 Real Madrid-Galatasaray,UCL,19-20,e0f6dac6
+603116a7,Marcelo,12,BRA,LB,31-178,41,0,2,0,0,1,0,0,0,30,0,0,1,0.0,0.0,0.3,3,2,21,27,77.8,1,19,2,1,1,Real Madrid,2019-11-06 Real Madrid-Galatasaray,UCL,19-20,e0f6dac6
+3cefcaef,Ferland Mendy,23,FRA,LB,24-151,49,0,0,0,0,0,0,0,0,45,0,0,0,0.0,0.0,0.0,0,0,34,43,79.1,2,29,2,1,1,Real Madrid,2019-11-06 Real Madrid-Galatasaray,UCL,19-20,e0f6dac6
+08511d65,Sergio Ramos,4,ESP,CB,33-221,90,1,0,1,1,1,0,0,0,105,0,2,0,0.8,0.1,0.0,1,0,97,101,96.0,11,69,0,0,0,Real Madrid,2019-11-06 Real Madrid-Galatasaray,UCL,19-20,e0f6dac6
+9f8e9423,Raphaël Varane,5,FRA,CB,26-195,90,0,0,0,0,0,0,0,0,79,0,0,1,0.0,0.0,0.0,0,0,64,73,87.7,5,54,2,0,0,Real Madrid,2019-11-06 Real Madrid-Galatasaray,UCL,19-20,e0f6dac6
+4958bfb2,Dani Carvajal,2,ESP,RB,27-299,90,0,1,0,0,0,0,0,0,111,1,1,3,0.0,0.0,0.8,2,1,89,102,87.3,9,59,4,1,0,Real Madrid,2019-11-06 Real Madrid-Galatasaray,UCL,19-20,e0f6dac6
+1840e36d,Thibaut Courtois,13,BEL,GK,27-179,90,0,0,0,0,0,0,0,0,28,0,0,0,0.0,0.0,0.0,0,0,25,26,96.2,0,13,0,0,0,Real Madrid,2019-11-06 Real Madrid-Galatasaray,UCL,19-20,e0f6dac6
+dc008610,Florin Andone,23,ROU,FW,26-209,45,0,0,0,0,1,0,0,0,15,1,0,1,0.0,0.0,0.0,0,0,6,9,66.7,0,3,1,0,0,Galatasaray,2019-11-06 Real Madrid-Galatasaray,UCL,19-20,e0f6dac6
+d072a976,Ryan Donk,15,SUR,CB,33-221,45,0,0,0,0,0,0,0,0,17,1,1,0,0.0,0.0,0.0,0,0,9,10,90.0,0,7,0,0,0,Galatasaray,2019-11-06 Real Madrid-Galatasaray,UCL,19-20,e0f6dac6
+6438d426,Ryan Babel,11,NED,"FW,LW",32-322,90,0,0,0,0,0,0,1,0,35,2,0,1,0.0,0.0,0.0,0,0,18,25,72.0,2,18,2,1,1,Galatasaray,2019-11-06 Real Madrid-Galatasaray,UCL,19-20,e0f6dac6
+691f64f5,Sofiane Feghouli,89,ALG,RW,29-315,90,0,0,0,0,1,0,0,0,32,0,1,1,0.0,0.0,0.0,1,0,24,28,85.7,2,16,1,0,0,Galatasaray,2019-11-06 Real Madrid-Galatasaray,UCL,19-20,e0f6dac6
+2b471f99,Mario Lemina,99,GAB,"CM,LM",26-066,90,0,0,0,0,3,1,0,0,41,1,1,2,0.5,0.5,0.0,1,0,24,29,82.8,2,22,1,1,1,Galatasaray,2019-11-06 Real Madrid-Galatasaray,UCL,19-20,e0f6dac6
+c7526c18,Steven Nzonzi,92,FRA,CM,30-326,45,0,0,0,0,0,0,1,0,30,1,1,1,0.0,0.0,0.0,1,0,25,25,100.0,1,17,0,0,0,Galatasaray,2019-11-06 Real Madrid-Galatasaray,UCL,19-20,e0f6dac6
+7bcc0708,Ömer Bayram,19,TUR,LW,28-102,45,0,0,0,0,1,0,0,0,30,2,0,0,0.1,0.1,0.1,2,0,20,26,76.9,1,21,2,7,7,Galatasaray,2019-11-06 Real Madrid-Galatasaray,UCL,19-20,e0f6dac6
+10efd0e1,Jean Seri,6,CIV,"CM,RM",28-110,90,0,0,0,0,0,0,0,0,58,2,0,2,0.0,0.0,0.0,1,0,45,50,90.0,1,34,1,2,2,Galatasaray,2019-11-06 Real Madrid-Galatasaray,UCL,19-20,e0f6dac6
+4b6960d2,Yuto Nagatomo,55,JPN,"LB,LM",33-055,87,0,0,0,0,0,0,0,0,41,0,1,1,0.0,0.0,0.0,0,0,20,31,64.5,2,13,1,1,0,Galatasaray,2019-11-06 Real Madrid-Galatasaray,UCL,19-20,e0f6dac6
+720611fe,Adem Büyük,7,TUR,LM,32-068,3,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,0,2,0.0,0,0,0,0,0,Galatasaray,2019-11-06 Real Madrid-Galatasaray,UCL,19-20,e0f6dac6
+133faa84,Marcão,45,BRA,CB,23-154,90,0,0,0,0,0,0,0,0,47,5,3,0,0.0,0.0,0.1,2,0,31,36,86.1,1,23,0,0,0,Galatasaray,2019-11-06 Real Madrid-Galatasaray,UCL,19-20,e0f6dac6
+d8feae4a,Christian Luyindama,27,COD,CB,25-302,90,0,0,0,0,1,0,0,0,37,0,1,5,0.1,0.1,0.4,1,0,23,25,92.0,0,17,0,0,0,Galatasaray,2019-11-06 Real Madrid-Galatasaray,UCL,19-20,e0f6dac6
+e26f559f,Mariano,22,BRA,"RM,RB",33-136,90,0,0,0,0,0,0,0,0,56,0,4,2,0.0,0.0,0.1,2,0,37,51,72.5,4,35,2,1,1,Galatasaray,2019-11-06 Real Madrid-Galatasaray,UCL,19-20,e0f6dac6
+a2abe631,Fernando Muslera,1,URU,GK,33-143,90,0,0,0,0,0,0,0,0,46,0,0,0,0.0,0.0,0.0,0,0,24,39,61.5,0,23,0,0,0,Galatasaray,2019-11-06 Real Madrid-Galatasaray,UCL,19-20,e0f6dac6

@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+a39bb753,Eden Hazard,7,BEL,FW,28-323,68,0,0,0,0,1,0,0,0,62,1,0,0,0.0,0.0,0.4,4,0,50,55,90.9,4,47,7,7,4,Real Madrid,2019-11-26 Real Madrid-Paris S-G,UCL,19-20,3b7b3da3
+a58bb1e1,Gareth Bale,11,WAL,FW,30-133,22,0,0,0,0,1,0,0,0,14,0,2,0,0.1,0.1,0.0,2,0,8,9,88.9,0,11,1,0,0,Real Madrid,2019-11-26 Real Madrid-Paris S-G,UCL,19-20,3b7b3da3
+70d74ece,Karim Benzema,9,FRA,FW,31-342,90,2,0,0,0,5,4,0,0,72,0,1,1,2.0,2.0,0.1,7,0,55,60,91.7,4,41,4,4,2,Real Madrid,2019-11-26 Real Madrid-Paris S-G,UCL,19-20,3b7b3da3
+a0b4bb3e,Isco,22,ESP,AM,27-219,81,0,0,0,0,3,1,0,0,64,3,0,1,0.8,0.8,0.0,5,2,48,56,85.7,2,46,0,0,0,Real Madrid,2019-11-26 Real Madrid-Paris S-G,UCL,19-20,3b7b3da3
+8f5e92a6,Rodrygo,27,BRA,AM,18-321,9,0,0,0,0,1,0,0,0,5,0,0,0,0.3,0.3,0.1,1,0,3,4,75.0,0,3,1,0,0,Real Madrid,2019-11-26 Real Madrid-Paris S-G,UCL,19-20,3b7b3da3
+6ce1f46f,Toni Kroos,8,GER,LM,29-326,90,0,0,0,0,4,2,0,0,123,3,1,1,0.1,0.1,0.3,12,0,105,112,93.8,16,70,0,0,0,Real Madrid,2019-11-26 Real Madrid-Paris S-G,UCL,19-20,3b7b3da3
+4d224fe8,Casemiro,14,BRA,CM,27-276,90,0,0,0,0,1,0,0,0,82,3,0,0,0.0,0.0,0.1,4,0,68,76,89.5,8,34,0,0,0,Real Madrid,2019-11-26 Real Madrid-Paris S-G,UCL,19-20,3b7b3da3
+0959c2a2,Federico Valverde,15,URU,RM,21-127,75,0,0,0,0,0,0,0,0,61,3,3,2,0.0,0.0,0.2,3,0,41,48,85.4,5,34,3,4,3,Real Madrid,2019-11-26 Real Madrid-Paris S-G,UCL,19-20,3b7b3da3
+6025fab1,Luka Modrić,10,CRO,RM,34-078,15,0,0,0,0,0,0,0,0,14,0,0,0,0.0,0.0,0.0,2,0,13,14,92.9,4,13,0,0,0,Real Madrid,2019-11-26 Real Madrid-Paris S-G,UCL,19-20,3b7b3da3
+603116a7,Marcelo,12,BRA,LB,31-198,90,0,1,0,0,5,2,1,0,95,0,1,0,0.2,0.2,1.6,5,1,69,83,83.1,7,63,6,1,0,Real Madrid,2019-11-26 Real Madrid-Paris S-G,UCL,19-20,3b7b3da3
+08511d65,Sergio Ramos,4,ESP,CB,33-241,90,0,0,0,0,1,0,0,0,67,1,1,4,0.0,0.0,0.0,0,0,54,57,94.7,5,39,1,0,0,Real Madrid,2019-11-26 Real Madrid-Paris S-G,UCL,19-20,3b7b3da3
+9f8e9423,Raphaël Varane,5,FRA,CB,26-215,90,0,0,0,0,2,0,0,0,55,0,2,0,0.3,0.3,0.0,0,0,45,47,95.7,2,33,0,0,0,Real Madrid,2019-11-26 Real Madrid-Paris S-G,UCL,19-20,3b7b3da3
+4958bfb2,Dani Carvajal,2,ESP,RB,27-319,90,0,0,0,0,3,3,0,0,82,3,2,2,0.1,0.1,0.0,2,0,53,66,80.3,4,45,1,1,1,Real Madrid,2019-11-26 Real Madrid-Paris S-G,UCL,19-20,3b7b3da3
+1840e36d,Thibaut Courtois,13,BEL,GK,27-199,90,0,0,0,0,0,0,0,0,29,0,1,0,0.0,0.0,0.0,0,0,19,24,79.2,0,12,0,0,0,Real Madrid,2019-11-26 Real Madrid-Paris S-G,UCL,19-20,3b7b3da3
+43b78598,Mauro Icardi,18,ARG,FW,26-280,74,0,0,0,0,2,0,0,0,11,1,0,0,0.8,0.8,0.0,0,0,3,6,50.0,0,2,0,0,0,Paris Saint-Germain,2019-11-26 Real Madrid-Paris S-G,UCL,19-20,3b7b3da3
+9744ff80,Pablo Sarabia,19,ESP,FW,27-199,16,1,0,0,0,1,1,0,0,13,1,0,0,0.1,0.1,0.1,2,1,9,10,90.0,1,7,0,0,0,Paris Saint-Germain,2019-11-26 Real Madrid-Paris S-G,UCL,19-20,3b7b3da3
+19cda00b,Ángel Di María,11,ARG,"LW,RW",31-285,74,0,0,0,0,2,0,0,0,40,0,2,2,0.1,0.1,0.4,3,0,24,32,75.0,4,27,3,1,1,Paris Saint-Germain,2019-11-26 Real Madrid-Paris S-G,UCL,19-20,3b7b3da3
+1a992676,Julian Draxler,23,GER,RW,26-067,16,0,0,0,0,1,0,0,0,20,0,0,0,0.1,0.1,0.0,1,1,16,19,84.2,0,12,2,1,1,Paris Saint-Germain,2019-11-26 Real Madrid-Paris S-G,UCL,19-20,3b7b3da3
+42fd9c7f,Kylian Mbappé,7,FRA,"LW,RW",20-341,90,1,0,0,0,3,2,0,0,57,1,0,1,1.2,1.2,0.3,5,0,40,48,83.3,3,38,9,3,2,Paris Saint-Germain,2019-11-26 Real Madrid-Paris S-G,UCL,19-20,3b7b3da3
+1467af0d,Marco Verratti,6,ITA,"DM,LM",27-021,90,0,0,0,0,1,1,0,0,114,2,1,0,0.0,0.0,0.1,5,0,99,108,91.7,10,90,1,1,1,Paris Saint-Germain,2019-11-26 Real Madrid-Paris S-G,UCL,19-20,3b7b3da3
+d5f2f82b,Marquinhos,5,BRA,"DM,CM",25-196,90,0,0,0,0,0,0,0,0,77,3,2,2,0.0,0.0,0.0,0,0,55,64,85.9,3,44,0,1,0,Paris Saint-Germain,2019-11-26 Real Madrid-Paris S-G,UCL,19-20,3b7b3da3
+72c812f3,Idrissa Gana Gueye,27,SEN,RM,30-061,45,0,0,0,0,1,0,0,0,30,1,0,3,0.0,0.0,0.0,0,0,19,21,90.5,0,20,0,2,0,Paris Saint-Germain,2019-11-26 Real Madrid-Paris S-G,UCL,19-20,3b7b3da3
+69384e5d,Neymar,10,BRA,AM,27-294,45,0,0,0,0,1,0,0,0,46,0,0,0,0.1,0.1,0.0,2,0,27,38,71.1,7,36,6,8,5,Paris Saint-Germain,2019-11-26 Real Madrid-Paris S-G,UCL,19-20,3b7b3da3
+433dc9a2,Juan Bernat,14,ESP,LB,26-270,90,0,0,0,0,0,0,0,0,73,4,1,0,0.0,0.0,0.6,2,0,54,65,83.1,0,43,0,0,0,Paris Saint-Germain,2019-11-26 Real Madrid-Paris S-G,UCL,19-20,3b7b3da3
+aef6e670,Presnel Kimpembe,3,FRA,CB,24-105,90,0,0,0,0,0,0,0,0,83,2,0,0,0.0,0.0,0.0,0,0,71,76,93.4,3,65,0,0,0,Paris Saint-Germain,2019-11-26 Real Madrid-Paris S-G,UCL,19-20,3b7b3da3
+86e7deaf,Thiago Silva,2,BRA,CB,35-065,90,0,0,0,0,0,0,0,0,64,2,1,1,0.0,0.0,0.0,0,0,51,56,91.1,1,48,0,0,0,Paris Saint-Germain,2019-11-26 Real Madrid-Paris S-G,UCL,19-20,3b7b3da3
+e162b013,Thomas Meunier,12,BEL,RB,28-075,90,0,0,0,0,1,0,1,0,63,4,2,1,0.0,0.0,0.0,2,1,38,48,79.2,5,39,2,0,0,Paris Saint-Germain,2019-11-26 Real Madrid-Paris S-G,UCL,19-20,3b7b3da3
+ecada4fc,Keylor Navas,1,CRC,GK,32-346,90,0,0,0,0,0,0,0,0,43,0,0,0,0.0,0.0,0.0,0,0,29,35,82.9,0,19,0,1,1,Paris Saint-Germain,2019-11-26 Real Madrid-Paris S-G,UCL,19-20,3b7b3da3

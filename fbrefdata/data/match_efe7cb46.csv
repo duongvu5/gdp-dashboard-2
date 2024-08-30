@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+dea698d9,Cristiano Ronaldo,7,POR,FW,35-293,90,1,0,0,0,2,1,0,0,46,0,0,1,0.1,0.1,0.1,4,1,28,36,77.8,1,28,1,5,2,Juventus,2020-11-24 Juventus-Ferencváros,UCL,20-21,efe7cb46
+e0921a4f,Paulo Dybala,10,ARG,FW,27-009,61,0,0,0,0,3,2,0,0,48,1,0,0,0.1,0.1,0.1,4,0,33,41,80.5,4,34,1,0,0,Juventus,2020-11-24 Juventus-Ferencváros,UCL,20-21,efe7cb46
+129af0db,Álvaro Morata,9,ESP,FW,28-032,29,1,0,0,0,2,1,0,0,9,0,0,1,0.3,0.3,0.0,0,0,4,5,80.0,1,6,0,2,2,Juventus,2020-11-24 Juventus-Ferencváros,UCL,20-21,efe7cb46
+ee93c1a9,Federico Bernardeschi,33,ITA,LM,26-282,61,0,0,0,0,3,1,0,0,41,1,0,1,0.1,0.1,0.0,2,0,24,32,75.0,1,25,3,2,1,Juventus,2020-11-24 Juventus-Ferencváros,UCL,20-21,efe7cb46
+b0f7e36c,Federico Chiesa,22,ITA,LM,23-030,29,0,0,0,0,0,0,1,0,23,0,0,0,0.0,0.0,0.1,1,0,13,22,59.1,1,14,2,0,0,Juventus,2020-11-24 Juventus-Ferencváros,UCL,20-21,efe7cb46
+48b3dd60,Arthur Melo,5,BRA,CM,24-104,82,0,0,0,0,2,0,0,0,106,0,1,0,0.1,0.1,0.0,4,0,90,99,90.9,18,78,1,3,2,Juventus,2020-11-24 Juventus-Ferencváros,UCL,20-21,efe7cb46
+ef619b0b,Aaron Ramsey,8,WAL,CM,29-334,8,0,0,0,0,0,0,0,0,17,0,0,0,0.0,0.0,0.0,0,0,15,17,88.2,2,7,0,0,0,Juventus,2020-11-24 Juventus-Ferencváros,UCL,20-21,efe7cb46
+3b8674e6,Rodrigo Bentancur,30,URU,CM,23-152,82,0,0,0,0,3,1,0,0,71,4,2,2,0.1,0.1,0.0,1,0,49,60,81.7,8,49,0,1,1,Juventus,2020-11-24 Juventus-Ferencváros,UCL,20-21,efe7cb46
+8794e251,Adrien Rabiot,25,FRA,CM,25-235,8,0,0,0,0,0,0,0,0,8,0,1,0,0.0,0.0,0.0,0,0,8,8,100.0,1,7,1,0,0,Juventus,2020-11-24 Juventus-Ferencváros,UCL,20-21,efe7cb46
+01c3aff5,Weston McKennie,14,USA,RM,22-088,61,0,0,0,0,0,0,0,0,29,2,1,0,0.0,0.0,0.0,0,0,21,27,77.8,1,18,1,1,1,Juventus,2020-11-24 Juventus-Ferencváros,UCL,20-21,efe7cb46
+df3cda47,Dejan Kulusevski,44,SWE,RM,20-213,29,0,0,0,0,1,0,0,0,11,0,1,1,0.0,0.0,0.0,1,0,3,7,42.9,1,8,0,1,1,Juventus,2020-11-24 Juventus-Ferencváros,UCL,20-21,efe7cb46
+0d82903c,Alex Sandro,12,BRA,LB,29-303,90,0,0,0,0,1,0,0,0,108,3,5,3,0.1,0.1,0.1,2,0,84,96,87.5,7,64,3,3,3,Juventus,2020-11-24 Juventus-Ferencváros,UCL,20-21,efe7cb46
+d6e53a3a,Matthijs de Ligt,4,NED,CB,21-104,90,0,0,0,0,0,0,0,0,111,2,2,3,0.0,0.0,0.0,1,0,93,102,91.2,8,77,1,0,0,Juventus,2020-11-24 Juventus-Ferencváros,UCL,20-21,efe7cb46
+94b2001f,Danilo,13,BRA,CB,29-132,90,0,0,0,0,1,1,1,0,112,0,4,0,0.0,0.0,0.0,2,1,94,105,89.5,11,78,1,0,0,Juventus,2020-11-24 Juventus-Ferencváros,UCL,20-21,efe7cb46
+0ab1f153,Juan Cuadrado,16,COL,RB,32-182,90,0,2,0,0,1,0,0,0,107,2,1,2,0.0,0.0,0.5,9,2,81,99,81.8,9,71,0,2,1,Juventus,2020-11-24 Juventus-Ferencváros,UCL,20-21,efe7cb46
+01b8a2b2,Wojciech Szczęsny,1,POL,GK,30-220,90,0,0,0,0,0,0,0,0,18,0,0,0,0.0,0.0,0.0,0,0,18,18,100.0,0,12,0,0,0,Juventus,2020-11-24 Juventus-Ferencváros,UCL,20-21,efe7cb46
+36a79857,Tokmac Nguen,10,NOR,FW,27-035,69,0,1,0,0,2,1,0,0,16,0,0,1,0.1,0.1,0.0,3,0,4,7,57.1,0,9,1,2,2,Ferencváros,2020-11-24 Juventus-Ferencváros,UCL,20-21,efe7cb46
+9c2b4382,Franck Boli,70,CIV,FW,26-353,21,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,4,4,100.0,1,7,0,1,0,Ferencváros,2020-11-24 Juventus-Ferencváros,UCL,20-21,efe7cb46
+01da7812,Myrto Uzuni,77,ALB,LM,25-177,90,1,0,0,0,1,1,0,0,37,1,0,0,0.1,0.1,0.1,1,0,21,27,77.8,2,19,2,3,2,Ferencváros,2020-11-24 Juventus-Ferencváros,UCL,20-21,efe7cb46
+c1febb46,Somália,7,BRA,CM,32-057,90,0,0,0,0,0,0,0,0,37,0,3,2,0.0,0.0,0.0,0,0,26,30,86.7,1,13,0,0,0,Ferencváros,2020-11-24 Juventus-Ferencváros,UCL,20-21,efe7cb46
+3d2320f7,Dávid Sigér,18,HUN,CM,29-360,74,0,0,0,0,0,0,1,0,28,0,2,2,0.0,0.0,0.0,0,0,14,22,63.6,0,9,0,0,0,Ferencváros,2020-11-24 Juventus-Ferencváros,UCL,20-21,efe7cb46
+22798128,Aïssa Laïdouni,93,TUN,CM,23-347,16,0,0,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.0,0,0,9,9,100.0,2,7,0,0,0,Ferencváros,2020-11-24 Juventus-Ferencváros,UCL,20-21,efe7cb46
+adfbe1f5,Oleksandr Zubkov,11,UKR,RM,24-113,69,0,0,0,0,2,0,0,0,30,0,0,0,0.1,0.1,0.0,3,0,9,19,47.4,4,18,3,4,1,Ferencváros,2020-11-24 Juventus-Ferencváros,UCL,20-21,efe7cb46
+d1f48bfc,Isael,88,BRA,RM,32-195,21,0,0,0,0,1,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,1,3,0,0,0,Ferencváros,2020-11-24 Juventus-Ferencváros,UCL,20-21,efe7cb46
+fecd43a3,Marcel Heister,26,GER,LB,28-118,90,0,0,0,0,1,0,0,0,49,6,1,1,0.0,0.0,0.0,0,0,23,33,69.7,1,23,2,2,0,Ferencváros,2020-11-24 Juventus-Ferencváros,UCL,20-21,efe7cb46
+303636d2,Lasha Dvali,33,GEO,CB,25-194,90,0,0,0,0,0,0,0,0,66,0,7,1,0.0,0.0,0.0,1,0,45,58,77.6,5,34,0,1,1,Ferencváros,2020-11-24 Juventus-Ferencváros,UCL,20-21,efe7cb46
+1c90cd29,Abraham Frimpong,5,GHA,CB,27-232,90,0,0,0,0,0,0,0,0,40,3,1,2,0.0,0.0,0.0,1,0,29,34,85.3,0,20,0,2,2,Ferencváros,2020-11-24 Juventus-Ferencváros,UCL,20-21,efe7cb46
+3cdfc63e,Miha Blažič,25,SVN,CB,27-200,90,0,0,0,0,0,0,0,0,59,0,4,1,0.0,0.0,0.0,1,0,42,50,84.0,2,31,1,0,0,Ferencváros,2020-11-24 Juventus-Ferencváros,UCL,20-21,efe7cb46
+0176f037,Gergő Lovrencsics,8,HUN,RB,32-084,74,0,0,0,0,2,0,0,0,57,2,2,6,0.1,0.1,0.0,3,0,30,43,69.8,4,27,1,0,0,Ferencváros,2020-11-24 Juventus-Ferencváros,UCL,20-21,efe7cb46
+2cb77ec6,Endre Botka,21,HUN,RB,26-091,16,0,0,0,0,0,0,0,0,11,0,1,0,0.0,0.0,0.0,1,0,6,9,66.7,1,6,0,0,0,Ferencváros,2020-11-24 Juventus-Ferencváros,UCL,20-21,efe7cb46
+4030c7ae,Dénes Dibusz,90,HUN,GK,30-008,90,0,0,0,0,0,0,0,0,52,1,0,0,0.0,0.0,0.0,0,0,30,47,63.8,0,24,0,0,0,Ferencváros,2020-11-24 Juventus-Ferencváros,UCL,20-21,efe7cb46

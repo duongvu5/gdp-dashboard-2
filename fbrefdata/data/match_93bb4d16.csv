@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+0b90bb97,Santi Mina,22,ESP,FW,25-097,67,0,0,0,0,2,1,1,0,19,1,0,1,0.9,0.9,0.0,1,0,9,12,75.0,0,8,0,0,0,Celta Vigo,2021-03-14 Celta Vigo-Athletic Club,ESP-LALIGA,20-21,93bb4d16
+b39a793e,Facundo Ferreyra,12,ARG,FW,30-000,23,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,3,4,75.0,0,3,1,0,0,Celta Vigo,2021-03-14 Celta Vigo-Athletic Club,ESP-LALIGA,20-21,93bb4d16
+7dcf86f6,Iago Aspas,10,ESP,FW,33-225,90,0,0,0,0,2,0,0,0,73,2,0,1,0.1,0.1,0.1,6,0,54,63,85.7,8,46,4,7,6,Celta Vigo,2021-03-14 Celta Vigo-Athletic Club,ESP-LALIGA,20-21,93bb4d16
+b2d0ec1b,Nolito,9,ESP,LM,34-150,76,0,0,0,0,3,1,0,0,51,2,2,1,0.1,0.1,0.0,2,0,39,42,92.9,9,35,3,1,1,Celta Vigo,2021-03-14 Celta Vigo-Athletic Club,ESP-LALIGA,20-21,93bb4d16
+3ca6106c,Augusto Solari,21,ARG,RM,29-070,14,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,1,0,6,7,85.7,1,5,0,0,0,Celta Vigo,2021-03-14 Celta Vigo-Athletic Club,ESP-LALIGA,20-21,93bb4d16
+12c50af5,Denis Suárez,6,ESP,CM,27-067,76,0,0,0,0,0,0,0,0,87,0,0,0,0.0,0.0,0.0,1,0,67,80,83.8,9,55,3,1,0,Celta Vigo,2021-03-14 Celta Vigo-Athletic Club,ESP-LALIGA,20-21,93bb4d16
+ed5c5fa3,Fran Beltrán,8,ESP,CM,22-039,14,0,0,0,0,1,0,0,0,23,0,1,2,0.0,0.0,0.0,0,0,16,19,84.2,0,17,1,0,0,Celta Vigo,2021-03-14 Celta Vigo-Athletic Club,ESP-LALIGA,20-21,93bb4d16
+c9e39d91,Brais Méndez,23,ESP,"RM,LM",24-066,90,0,0,0,0,1,0,0,0,65,1,2,0,0.0,0.0,0.9,4,0,45,56,80.4,4,41,1,2,2,Celta Vigo,2021-03-14 Celta Vigo-Athletic Club,ESP-LALIGA,20-21,93bb4d16
+34269bdf,Renato Tapia,14,PER,DM,25-229,90,0,0,0,0,3,1,0,0,78,3,5,0,0.1,0.1,0.0,1,0,54,62,87.1,5,53,1,3,1,Celta Vigo,2021-03-14 Celta Vigo-Athletic Club,ESP-LALIGA,20-21,93bb4d16
+2f3e911a,Aarón Martín,19,ESP,LB,23-326,90,0,0,0,0,0,0,0,0,94,0,1,0,0.0,0.0,0.1,3,0,71,87,81.6,7,55,2,2,2,Celta Vigo,2021-03-14 Celta Vigo-Athletic Club,ESP-LALIGA,20-21,93bb4d16
+b233e8e4,Jeison Murillo,24,COL,CB,28-291,90,0,0,0,0,0,0,1,0,74,3,1,2,0.0,0.0,0.0,0,0,57,65,87.7,1,47,0,0,0,Celta Vigo,2021-03-14 Celta Vigo-Athletic Club,ESP-LALIGA,20-21,93bb4d16
+27a013f7,Néstor Araujo,4,MEX,CB,29-197,84,0,0,0,0,0,0,0,0,65,2,1,1,0.0,0.0,0.0,0,0,52,60,86.7,4,47,2,0,0,Celta Vigo,2021-03-14 Celta Vigo-Athletic Club,ESP-LALIGA,20-21,93bb4d16
+18abe173,Joseph Aidoo,18,GHA,CB,25-166,6,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,3,3,100.0,1,2,0,0,0,Celta Vigo,2021-03-14 Celta Vigo-Athletic Club,ESP-LALIGA,20-21,93bb4d16
+ee923664,Kevin Vázquez,20,ESP,RB,27-356,90,0,0,0,0,0,0,1,0,89,1,2,1,0.0,0.0,0.0,3,0,63,77,81.8,4,42,1,2,0,Celta Vigo,2021-03-14 Celta Vigo-Athletic Club,ESP-LALIGA,20-21,93bb4d16
+cde52ef5,Iván Villar,1,ESP,GK,23-248,90,0,0,0,0,0,0,0,0,46,0,0,0,0.0,0.0,0.0,0,0,34,43,79.1,0,29,0,0,0,Celta Vigo,2021-03-14 Celta Vigo-Athletic Club,ESP-LALIGA,20-21,93bb4d16
+57be54ec,Asier Villalibre,20,ESP,FW,23-165,67,0,0,0,0,1,1,0,0,11,0,0,0,0.1,0.1,0.5,1,0,3,7,42.9,0,11,0,0,0,Athletic Club,2021-03-14 Celta Vigo-Athletic Club,ESP-LALIGA,20-21,93bb4d16
+6a99e0b1,Iñaki Williams,9,GHA,FW,26-272,23,0,0,0,0,0,0,0,0,8,1,0,0,0.0,0.0,0.0,0,0,2,5,40.0,0,6,0,0,0,Athletic Club,2021-03-14 Celta Vigo-Athletic Club,ESP-LALIGA,20-21,93bb4d16
+b418dbd4,Raúl García,22,ESP,FW,34-246,45,0,0,0,0,0,0,0,0,30,2,2,3,0.0,0.0,0.0,1,0,8,18,44.4,1,17,1,1,1,Athletic Club,2021-03-14 Celta Vigo-Athletic Club,ESP-LALIGA,20-21,93bb4d16
+c05dfb74,Iker Muniain,10,ESP,AM,28-085,45,0,0,0,0,0,0,0,0,30,1,0,1,0.0,0.0,0.0,1,0,17,22,77.3,2,22,1,3,3,Athletic Club,2021-03-14 Celta Vigo-Athletic Club,ESP-LALIGA,20-21,93bb4d16
+b7d7f3bf,Jon Morcillo,2,ESP,"LM,LW",22-180,85,0,0,0,0,0,0,0,0,28,1,1,0,0.0,0.0,0.0,1,0,15,22,68.2,4,21,1,0,0,Athletic Club,2021-03-14 Celta Vigo-Athletic Club,ESP-LALIGA,20-21,93bb4d16
+9d2a3d5f,Ibai Gómez,7,ESP,LW,31-123,5,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,1,0,0,0,Athletic Club,2021-03-14 Celta Vigo-Athletic Club,ESP-LALIGA,20-21,93bb4d16
+240d3a0b,Dani García,14,ESP,"DM,CM",30-294,90,0,0,0,0,1,0,0,0,45,4,4,3,0.0,0.0,0.0,2,0,25,31,80.6,2,22,0,1,1,Athletic Club,2021-03-14 Celta Vigo-Athletic Club,ESP-LALIGA,20-21,93bb4d16
+88050721,Unai López,8,ESP,"CM,DM",25-135,68,0,0,0,0,1,0,0,0,39,0,1,1,0.0,0.0,0.0,0,0,27,34,79.4,1,26,1,2,2,Athletic Club,2021-03-14 Celta Vigo-Athletic Club,ESP-LALIGA,20-21,93bb4d16
+4112ace5,Unai Vencedor Paris,27,ESP,DM,20-119,22,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,3,8,37.5,0,4,0,2,2,Athletic Club,2021-03-14 Celta Vigo-Athletic Club,ESP-LALIGA,20-21,93bb4d16
+dc1c2fce,Álex Berenguer,12,ESP,"RM,RW",25-253,78,0,0,0,0,3,0,0,0,33,0,1,2,0.6,0.6,0.1,3,0,10,22,45.5,2,16,3,3,2,Athletic Club,2021-03-14 Celta Vigo-Athletic Club,ESP-LALIGA,20-21,93bb4d16
+9f323c71,Óscar de Marcos,18,ESP,RW,31-334,12,0,0,0,0,0,0,0,0,7,1,0,0,0.0,0.0,0.0,0,0,4,5,80.0,0,4,0,0,0,Athletic Club,2021-03-14 Celta Vigo-Athletic Club,ESP-LALIGA,20-21,93bb4d16
+1fe67e86,Mikel Balenziaga,24,ESP,LB,33-013,90,0,0,0,0,0,0,0,0,64,1,1,1,0.0,0.0,0.0,2,0,36,52,69.2,3,32,3,1,1,Athletic Club,2021-03-14 Celta Vigo-Athletic Club,ESP-LALIGA,20-21,93bb4d16
+3ecc11d8,Yeray Álvarez,5,ESP,CB,26-049,90,0,0,0,0,0,0,0,0,48,2,6,1,0.0,0.0,0.0,1,0,33,38,86.8,1,28,0,0,0,Athletic Club,2021-03-14 Celta Vigo-Athletic Club,ESP-LALIGA,20-21,93bb4d16
+be170419,Unai Núñez,3,ESP,CB,24-043,90,0,0,0,0,0,0,0,0,42,0,1,2,0.0,0.0,0.0,0,0,21,32,65.6,1,22,0,0,0,Athletic Club,2021-03-14 Celta Vigo-Athletic Club,ESP-LALIGA,20-21,93bb4d16
+59b7d823,Iñigo Lekue,15,ESP,RB,27-314,90,0,0,0,0,0,0,1,0,49,0,1,0,0.0,0.0,0.0,0,0,27,44,61.4,1,26,2,0,0,Athletic Club,2021-03-14 Celta Vigo-Athletic Club,ESP-LALIGA,20-21,93bb4d16
+5dcf3e90,Unai Simón,1,ESP,GK,23-276,90,0,0,0,0,0,0,0,0,24,0,0,0,0.0,0.0,0.0,0,0,20,24,83.3,0,17,0,0,0,Athletic Club,2021-03-14 Celta Vigo-Athletic Club,ESP-LALIGA,20-21,93bb4d16

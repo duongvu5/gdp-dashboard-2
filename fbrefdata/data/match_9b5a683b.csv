@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+f8eca1b6,Enes Ünal,9,TUR,FW,21-184,82,0,0,0,0,1,1,0,0,30,0,0,1,0.1,0.1,0.0,2,0,15,20,75.0,0,17,1,0,0,Valladolid,2018-11-10 Valladolid-Eibar,ESP-LALIGA,18-19,9b5a683b
+8b0b02c9,Duje Čop,20,CRO,FW,28-282,8,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,1,0,0,0,Valladolid,2018-11-10 Valladolid-Eibar,ESP-LALIGA,18-19,9b5a683b
+636eae97,Toni Villa,19,ESP,LW,23-307,90,0,0,0,0,0,0,0,0,35,3,0,0,0.0,0.0,0.1,4,0,21,26,80.8,8,26,2,1,1,Valladolid,2018-11-10 Valladolid-Eibar,ESP-LALIGA,18-19,9b5a683b
+7c388b20,Óscar Plano,10,ESP,"RW,AM",27-272,90,0,0,0,0,2,0,0,0,38,2,0,0,0.1,0.1,0.0,0,0,18,28,64.3,2,26,3,1,1,Valladolid,2018-11-10 Valladolid-Eibar,ESP-LALIGA,18-19,9b5a683b
+25c72b36,Leonardo Suárez,32,ARG,AM,22-225,61,0,0,0,0,1,0,0,0,26,1,0,1,0.0,0.0,0.0,0,0,16,22,72.7,4,19,1,2,1,Valladolid,2018-11-10 Valladolid-Eibar,ESP-LALIGA,18-19,9b5a683b
+d3298c99,Daniele Verde,11,ITA,"AM,RW",22-143,29,0,0,0,0,2,0,0,0,12,0,0,0,0.1,0.1,0.1,1,0,8,10,80.0,1,6,2,0,0,Valladolid,2018-11-10 Valladolid-Eibar,ESP-LALIGA,18-19,9b5a683b
+418f8f61,Míchel,21,ESP,DM,30-104,90,0,0,0,0,0,0,0,0,70,2,1,2,0.0,0.0,0.0,1,0,46,57,80.7,6,35,0,2,2,Valladolid,2018-11-10 Valladolid-Eibar,ESP-LALIGA,18-19,9b5a683b
+036bba5f,Rubén Alcaraz,14,ESP,DM,27-193,90,0,0,0,0,1,0,0,0,63,3,2,3,0.0,0.0,0.1,1,0,37,45,82.2,3,33,0,0,0,Valladolid,2018-11-10 Valladolid-Eibar,ESP-LALIGA,18-19,9b5a683b
+e29d1111,Nacho,22,ESP,LB,29-248,90,0,0,0,0,1,0,1,0,64,3,1,2,0.0,0.0,0.0,0,0,33,53,62.3,4,30,2,1,1,Valladolid,2018-11-10 Valladolid-Eibar,ESP-LALIGA,18-19,9b5a683b
+41b3069f,Fernando Calero,5,ESP,CB,23-057,90,0,0,0,0,0,0,1,0,65,0,2,3,0.0,0.0,0.0,1,0,44,58,75.9,2,34,0,0,0,Valladolid,2018-11-10 Valladolid-Eibar,ESP-LALIGA,18-19,9b5a683b
+72b07a9c,Kiko Olivas,4,ESP,CB,30-081,90,0,0,0,0,1,0,0,0,56,2,0,2,0.1,0.1,0.0,0,0,37,46,80.4,0,35,0,1,1,Valladolid,2018-11-10 Valladolid-Eibar,ESP-LALIGA,18-19,9b5a683b
+933e8c8a,Javi Moyano,17,ESP,RB,32-260,71,0,0,0,0,0,0,0,0,44,0,0,2,0.0,0.0,0.0,0,0,30,39,76.9,2,11,0,0,0,Valladolid,2018-11-10 Valladolid-Eibar,ESP-LALIGA,18-19,9b5a683b
+dbe519cf,Antoñito,18,ESP,RB,30-321,19,0,0,0,0,0,0,0,0,15,0,0,0,0.0,0.0,0.1,3,0,10,13,76.9,3,9,0,2,1,Valladolid,2018-11-10 Valladolid-Eibar,ESP-LALIGA,18-19,9b5a683b
+8fae77ea,Jordi Masip,1,ESP,GK,29-311,90,0,0,0,0,0,0,0,0,48,0,0,0,0.0,0.0,0.0,2,0,24,45,53.3,0,29,0,0,0,Valladolid,2018-11-10 Valladolid-Eibar,ESP-LALIGA,18-19,9b5a683b
+c4b8bcf4,Charles,19,BRA,FW,34-220,68,0,0,0,0,2,0,0,0,24,0,0,2,0.2,0.2,0.0,0,0,9,17,52.9,1,13,0,0,0,Eibar,2018-11-10 Valladolid-Eibar,ESP-LALIGA,18-19,9b5a683b
+e897d8ba,Kiké,17,ESP,"AM,FW",28-350,22,0,0,0,0,2,1,0,0,14,0,1,0,0.4,0.4,0.0,1,0,8,11,72.7,0,8,1,1,1,Eibar,2018-11-10 Valladolid-Eibar,ESP-LALIGA,18-19,9b5a683b
+1daec722,Marc Cucurella,20,ESP,LW,20-111,87,0,0,0,0,1,0,0,0,47,5,1,1,0.1,0.1,0.1,8,0,27,36,75.0,1,21,0,0,0,Eibar,2018-11-10 Valladolid-Eibar,ESP-LALIGA,18-19,9b5a683b
+88d91621,Sergio Álvarez,6,ESP,LW,26-291,3,0,0,0,0,0,0,0,0,3,1,0,1,0.0,0.0,0.0,0,0,0,1,0.0,0,0,0,0,0,Eibar,2018-11-10 Valladolid-Eibar,ESP-LALIGA,18-19,9b5a683b
+c90977db,Fabián Orellana,14,CHI,RW,32-287,75,0,0,0,0,6,3,0,0,47,3,1,0,0.3,0.3,0.0,5,0,19,27,70.4,3,29,5,9,6,Eibar,2018-11-10 Valladolid-Eibar,ESP-LALIGA,18-19,9b5a683b
+697295b1,Pedro Bigas,3,ESP,CB,28-056,15,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,3,0,0,0,Eibar,2018-11-10 Valladolid-Eibar,ESP-LALIGA,18-19,9b5a683b
+2a0c8ba4,Joan Jordán,24,ESP,"AM,RW",24-127,90,0,0,0,0,3,1,0,0,46,1,0,1,0.1,0.1,0.0,3,0,25,40,62.5,0,24,0,2,2,Eibar,2018-11-10 Valladolid-Eibar,ESP-LALIGA,18-19,9b5a683b
+7329018e,Papakouli Diop,8,SEN,DM,32-236,90,0,0,0,0,0,0,1,0,55,2,1,2,0.0,0.0,0.1,2,0,38,49,77.6,5,25,2,2,2,Eibar,2018-11-10 Valladolid-Eibar,ESP-LALIGA,18-19,9b5a683b
+3f79a1c8,Gonzalo Escalante,5,ARG,DM,25-228,90,0,0,0,0,0,0,0,0,46,2,2,3,0.0,0.0,0.0,4,0,22,34,64.7,5,26,3,0,0,Eibar,2018-11-10 Valladolid-Eibar,ESP-LALIGA,18-19,9b5a683b
+3024e383,José Ángel,15,ESP,LB,29-066,90,0,0,0,0,1,1,0,0,64,0,1,1,0.0,0.0,0.3,2,0,40,57,70.2,8,32,0,1,1,Eibar,2018-11-10 Valladolid-Eibar,ESP-LALIGA,18-19,9b5a683b
+850c0a0d,Anaitz Arbilla,23,ESP,CB,31-179,71,0,0,0,0,0,0,2,1,51,1,4,0,0.0,0.0,0.0,0,0,38,43,88.4,1,27,0,0,0,Eibar,2018-11-10 Valladolid-Eibar,ESP-LALIGA,18-19,9b5a683b
+a8fbae1d,Paulo Oliveira,12,POR,CB,26-306,90,0,0,0,0,0,0,0,0,53,0,4,0,0.0,0.0,0.0,0,0,36,45,80.0,1,28,0,0,0,Eibar,2018-11-10 Valladolid-Eibar,ESP-LALIGA,18-19,9b5a683b
+1f079188,Rubén Peña,11,ESP,RB,27-115,90,0,0,0,0,1,0,1,0,65,3,2,1,0.0,0.0,0.2,2,0,41,52,78.8,4,30,2,3,2,Eibar,2018-11-10 Valladolid-Eibar,ESP-LALIGA,18-19,9b5a683b
+581c5276,Asier Riesgo,13,ESP,GK,35-035,90,0,0,0,0,0,0,0,0,30,0,0,0,0.0,0.0,0.0,1,0,19,28,67.9,0,12,0,0,0,Eibar,2018-11-10 Valladolid-Eibar,ESP-LALIGA,18-19,9b5a683b

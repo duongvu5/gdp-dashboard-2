@@ -1,0 +1,31 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+d70ce98e,Lionel Messi,10,ARG,FW,33-122,90,0,0,0,0,3,2,1,0,87,1,0,0,0.6,0.6,0.0,7,1,58,70,82.9,14,67,5,8,3,Barcelona,2020-10-24 Barcelona-Real Madrid,ESP-LALIGA,20-21,9b07dcbc
+0ba976e4,Ansu Fati,22,ESP,FW,17-359,80,1,0,0,0,2,1,0,0,29,2,1,0,0.6,0.6,0.8,2,0,16,19,84.2,2,20,1,2,1,Barcelona,2020-10-24 Barcelona-Real Madrid,ESP-LALIGA,20-21,9b07dcbc
+df69b544,Antoine Griezmann,7,FRA,FW,29-217,10,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,1,1,0,0,0,Barcelona,2020-10-24 Barcelona-Real Madrid,ESP-LALIGA,20-21,9b07dcbc
+0ef89a37,Philippe Coutinho,14,BRA,"LM,CM",28-134,90,0,0,0,0,5,1,0,0,70,2,1,0,0.5,0.5,0.0,2,0,48,59,81.4,7,55,8,5,5,Barcelona,2020-10-24 Barcelona-Real Madrid,ESP-LALIGA,20-21,9b07dcbc
+1bacc518,Frenkie de Jong,21,NED,CM,23-165,90,0,0,0,0,0,0,0,0,86,1,0,3,0.0,0.0,0.1,1,0,69,76,90.8,9,58,2,1,1,Barcelona,2020-10-24 Barcelona-Real Madrid,ESP-LALIGA,20-21,9b07dcbc
+5ab0ea87,Sergio Busquets,5,ESP,CM,32-100,81,0,0,0,0,0,0,0,0,88,2,0,0,0.0,0.0,0.0,2,0,76,83,91.6,4,55,0,0,0,Barcelona,2020-10-24 Barcelona-Real Madrid,ESP-LALIGA,20-21,9b07dcbc
+b19db005,Ousmane Dembélé,11,FRA,LM,23-162,9,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,0,0,6,9,66.7,1,6,1,1,1,Barcelona,2020-10-24 Barcelona-Real Madrid,ESP-LALIGA,20-21,9b07dcbc
+0d9b2d31,Pedri,16,ESP,RM,17-334,80,0,0,0,0,0,0,0,0,47,0,1,3,0.0,0.0,0.0,0,0,33,41,80.5,0,28,0,1,1,Barcelona,2020-10-24 Barcelona-Real Madrid,ESP-LALIGA,20-21,9b07dcbc
+77e39b04,Francisco Trincão,17,POR,RM,20-300,10,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,2,7,28.6,0,5,0,0,0,Barcelona,2020-10-24 Barcelona-Real Madrid,ESP-LALIGA,20-21,9b07dcbc
+4601e194,Jordi Alba,18,ESP,LB,31-217,86,0,1,0,0,0,0,1,0,73,0,3,0,0.0,0.0,0.6,2,1,54,65,83.1,4,53,2,0,0,Barcelona,2020-10-24 Barcelona-Real Madrid,ESP-LALIGA,20-21,9b07dcbc
+fd771f95,Martin Braithwaite,9,DEN,LB,29-141,4,0,0,0,0,0,0,0,0,6,1,0,0,0.0,0.0,0.0,0,0,5,5,100.0,1,1,0,0,0,Barcelona,2020-10-24 Barcelona-Real Madrid,ESP-LALIGA,20-21,9b07dcbc
+4f28a6ff,Clément Lenglet,15,FRA,CB,25-129,90,0,0,0,0,0,0,1,0,75,0,1,1,0.0,0.0,0.0,0,0,63,70,90.0,3,49,0,1,1,Barcelona,2020-10-24 Barcelona-Real Madrid,ESP-LALIGA,20-21,9b07dcbc
+adfc9123,Gerard Piqué,3,ESP,CB,33-265,90,0,0,0,0,0,0,0,0,58,2,2,2,0.0,0.0,0.0,0,0,46,50,92.0,0,35,1,0,0,Barcelona,2020-10-24 Barcelona-Real Madrid,ESP-LALIGA,20-21,9b07dcbc
+5976f83e,Sergiño Dest,2,USA,RB,19-356,90,0,0,0,0,0,0,0,0,68,2,0,1,0.0,0.0,0.0,3,0,53,58,91.4,4,39,2,7,6,Barcelona,2020-10-24 Barcelona-Real Madrid,ESP-LALIGA,20-21,9b07dcbc
+a9dc785c,Neto,13,BRA,GK,31-097,90,0,0,0,0,0,0,0,0,25,0,0,0,0.0,0.0,0.0,0,0,18,19,94.7,0,6,0,0,0,Barcelona,2020-10-24 Barcelona-Real Madrid,ESP-LALIGA,20-21,9b07dcbc
+70d74ece,Karim Benzema,9,FRA,FW,32-310,90,0,1,0,0,3,1,0,0,45,0,0,2,0.5,0.5,0.4,1,1,35,38,92.1,3,22,8,0,0,Real Madrid,2020-10-24 Barcelona-Real Madrid,ESP-LALIGA,20-21,9b07dcbc
+7111d552,Vinicius Júnior,20,BRA,LW,20-104,90,0,0,0,0,1,1,0,0,59,2,0,3,0.0,0.0,0.1,3,0,34,46,73.9,2,37,5,0,0,Real Madrid,2020-10-24 Barcelona-Real Madrid,ESP-LALIGA,20-21,9b07dcbc
+45af8a54,Marco Asensio,11,ESP,RW,24-277,80,0,0,0,0,0,0,0,0,40,1,1,0,0.0,0.0,0.0,1,0,25,34,73.5,2,23,6,2,1,Real Madrid,2020-10-24 Barcelona-Real Madrid,ESP-LALIGA,20-21,9b07dcbc
+8f5e92a6,Rodrygo,25,BRA,RW,19-289,10,0,1,0,0,0,0,0,0,13,0,1,1,0.0,0.0,0.4,1,1,6,6,100.0,1,8,0,0,0,Real Madrid,2020-10-24 Barcelona-Real Madrid,ESP-LALIGA,20-21,9b07dcbc
+6ce1f46f,Toni Kroos,8,GER,LM,30-294,90,0,0,0,0,2,2,0,0,87,4,0,2,0.4,0.4,0.6,7,0,65,75,86.7,7,44,0,0,0,Real Madrid,2020-10-24 Barcelona-Real Madrid,ESP-LALIGA,20-21,9b07dcbc
+4d224fe8,Casemiro,14,BRA,CM,28-244,90,0,0,0,0,1,0,1,0,69,2,3,1,0.0,0.0,0.1,1,0,50,55,90.9,0,28,1,2,0,Real Madrid,2020-10-24 Barcelona-Real Madrid,ESP-LALIGA,20-21,9b07dcbc
+0959c2a2,Federico Valverde,15,URU,RM,22-094,68,1,0,0,0,1,1,0,0,43,2,2,1,0.4,0.4,0.0,1,0,29,35,82.9,2,25,1,0,0,Real Madrid,2020-10-24 Barcelona-Real Madrid,ESP-LALIGA,20-21,9b07dcbc
+6025fab1,Luka Modrić,10,CRO,RM,35-045,22,1,0,0,0,1,1,0,0,16,2,0,0,0.4,0.4,0.0,3,1,10,12,83.3,1,10,2,1,1,Real Madrid,2020-10-24 Barcelona-Real Madrid,ESP-LALIGA,20-21,9b07dcbc
+3cefcaef,Ferland Mendy,23,FRA,LB,25-138,90,0,0,0,0,0,0,0,0,60,1,1,0,0.0,0.0,0.0,0,0,49,57,86.0,5,39,3,4,3,Real Madrid,2020-10-24 Barcelona-Real Madrid,ESP-LALIGA,20-21,9b07dcbc
+08511d65,Sergio Ramos,4,ESP,CB,34-208,90,1,0,1,1,3,2,0,0,72,3,2,1,1.1,0.3,0.0,2,1,53,56,94.6,6,35,1,0,0,Real Madrid,2020-10-24 Barcelona-Real Madrid,ESP-LALIGA,20-21,9b07dcbc
+9f8e9423,Raphaël Varane,5,FRA,CB,27-182,90,0,0,0,0,2,0,0,0,73,1,2,1,0.2,0.2,0.0,1,0,53,58,91.4,4,50,1,0,0,Real Madrid,2020-10-24 Barcelona-Real Madrid,ESP-LALIGA,20-21,9b07dcbc
+2946f9a1,Nacho,6,ESP,RB,30-280,42,0,0,0,0,0,0,1,0,39,0,3,1,0.0,0.0,0.0,1,1,30,34,88.2,2,21,0,3,3,Real Madrid,2020-10-24 Barcelona-Real Madrid,ESP-LALIGA,20-21,9b07dcbc
+fd51b456,Lucas Vázquez,17,ESP,RB,29-115,48,0,0,0,0,0,0,0,0,41,4,3,0,0.0,0.0,0.2,5,0,27,32,84.4,4,21,1,2,1,Real Madrid,2020-10-24 Barcelona-Real Madrid,ESP-LALIGA,20-21,9b07dcbc
+1840e36d,Thibaut Courtois,1,BEL,GK,28-166,90,0,0,0,0,0,0,0,0,36,0,0,0,0.0,0.0,0.0,0,0,27,32,84.4,0,22,0,0,0,Real Madrid,2020-10-24 Barcelona-Real Madrid,ESP-LALIGA,20-21,9b07dcbc

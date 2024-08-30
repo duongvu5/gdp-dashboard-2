@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+e7986081,Moussa Dembélé,9,FRA,FW,22-082,80,1,0,0,0,6,4,0,0,28,1,0,2,1.1,1.1,0.1,2,0,10,18,55.6,1,11,0,1,0,Lyon,2018-10-02 Lyon-Shakhtar,UCL,18-19,dd69d5de
+beb391dd,Maxwel Cornet,27,CIV,RW,22-005,10,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,2,4,50.0,0,2,0,0,0,Lyon,2018-10-02 Lyon-Shakhtar,UCL,18-19,dd69d5de
+a5db0bec,Houssem Aouar,8,ALG,LW,20-094,90,0,1,0,0,3,0,0,0,61,1,1,2,0.2,0.2,0.6,3,1,40,51,78.4,7,43,4,5,2,Lyon,2018-10-02 Lyon-Shakhtar,UCL,18-19,dd69d5de
+c47541e0,Bertrand Traoré,10,BFA,RW,23-026,62,0,0,0,0,0,0,0,0,29,1,0,0,0.0,0.0,0.1,1,0,18,24,75.0,4,19,0,1,1,Lyon,2018-10-02 Lyon-Shakhtar,UCL,18-19,dd69d5de
+8f696594,Memphis,11,NED,"RW,FW",24-231,28,0,0,0,0,2,0,0,0,27,0,0,0,0.6,0.6,0.5,7,0,13,21,61.9,1,14,1,4,3,Lyon,2018-10-02 Lyon-Shakhtar,UCL,18-19,dd69d5de
+bece776f,Nabil Fekir,18,FRA,AM,25-076,90,0,1,0,0,6,0,1,0,45,2,1,0,0.3,0.3,0.4,6,1,22,30,73.3,4,38,3,1,0,Lyon,2018-10-02 Lyon-Shakhtar,UCL,18-19,dd69d5de
+5cdddffa,Tanguy Ndombele,28,FRA,DM,21-278,86,0,0,0,0,1,0,0,0,36,2,1,0,0.0,0.0,0.0,5,0,26,29,89.7,4,32,1,1,1,Lyon,2018-10-02 Lyon-Shakhtar,UCL,18-19,dd69d5de
+873ce3a2,Pape Cheikh Diop,24,SEN,DM,21-055,4,0,0,0,0,0,0,0,0,4,1,0,0,0.0,0.0,0.0,0,0,3,3,100.0,0,3,0,0,0,Lyon,2018-10-02 Lyon-Shakhtar,UCL,18-19,dd69d5de
+71ec39ef,Lucas Tousart,29,FRA,DM,21-156,90,0,0,0,0,0,0,0,0,48,3,0,2,0.0,0.0,0.0,2,0,35,44,79.5,1,33,0,0,0,Lyon,2018-10-02 Lyon-Shakhtar,UCL,18-19,dd69d5de
+3cefcaef,Ferland Mendy,22,FRA,LB,23-116,90,0,0,0,0,2,1,0,0,83,1,2,1,0.1,0.1,0.3,6,1,65,74,87.8,12,59,5,2,2,Lyon,2018-10-02 Lyon-Shakhtar,UCL,18-19,dd69d5de
+47af88b8,Jason Denayer,5,BEL,CB,23-096,90,0,0,0,0,1,1,0,0,92,1,1,2,0.1,0.1,0.0,1,0,81,84,96.4,8,70,0,0,0,Lyon,2018-10-02 Lyon-Shakhtar,UCL,18-19,dd69d5de
+e3d0b0c4,Marcelo,6,BRA,CB,31-135,90,0,0,0,0,0,0,0,0,96,0,1,0,0.0,0.0,0.0,1,0,84,94,89.4,6,72,0,0,0,Lyon,2018-10-02 Lyon-Shakhtar,UCL,18-19,dd69d5de
+ff0ab48c,Leo Dubois,14,FRA,RB,24-018,90,1,0,0,0,1,1,0,0,63,0,1,0,0.6,0.6,0.0,2,0,50,57,87.7,8,39,2,1,0,Lyon,2018-10-02 Lyon-Shakhtar,UCL,18-19,dd69d5de
+f00de885,Anthony Lopes,1,POR,GK,28-001,90,0,0,0,0,0,0,0,0,30,0,0,0,0.0,0.0,0.0,0,0,25,28,89.3,0,14,0,0,0,Lyon,2018-10-02 Lyon-Shakhtar,UCL,18-19,dd69d5de
+c43e5e7e,Júnior Moraes,10,UKR,FW,31-181,82,2,0,0,0,4,3,0,0,33,2,0,2,0.6,0.6,0.0,3,0,17,19,89.5,1,18,1,1,0,Shakhtar Donetsk,2018-10-02 Lyon-Shakhtar,UCL,18-19,dd69d5de
+d3272fba,Olarenwaju Kayode,8,NGA,FW,25-147,8,0,0,0,0,1,0,0,0,5,0,0,0,0.1,0.1,0.0,0,0,3,4,75.0,0,4,0,0,0,Shakhtar Donetsk,2018-10-02 Lyon-Shakhtar,UCL,18-19,dd69d5de
+7272a72a,Taison,7,BRA,LW,30-262,90,0,0,0,0,2,2,0,0,80,2,1,2,0.1,0.1,0.6,10,1,55,63,87.3,12,51,7,2,2,Shakhtar Donetsk,2018-10-02 Lyon-Shakhtar,UCL,18-19,dd69d5de
+9139bb12,Marlos,11,UKR,RW,30-117,89,0,0,0,0,1,1,0,0,62,0,1,0,0.1,0.1,0.2,5,1,52,56,92.9,4,42,7,2,2,Shakhtar Donetsk,2018-10-02 Lyon-Shakhtar,UCL,18-19,dd69d5de
+d9d43555,Fernando,99,BRA,RW,19-215,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Shakhtar Donetsk,2018-10-02 Lyon-Shakhtar,UCL,18-19,dd69d5de
+00672021,Alan Patrick,21,BRA,AM,27-142,74,0,1,0,0,1,0,0,0,50,2,0,2,0.1,0.1,0.2,5,1,37,43,86.0,5,36,3,0,0,Shakhtar Donetsk,2018-10-02 Lyon-Shakhtar,UCL,18-19,dd69d5de
+9d60028d,Viktor Kovalenko,74,UKR,AM,22-230,16,0,0,0,0,0,0,0,0,14,0,0,0,0.0,0.0,0.0,1,0,11,13,84.6,2,8,1,1,0,Shakhtar Donetsk,2018-10-02 Lyon-Shakhtar,UCL,18-19,dd69d5de
+ee3519f5,Taras Stepanenko,6,UKR,DM,29-055,90,0,0,0,0,1,0,0,0,54,3,2,1,0.0,0.0,0.0,1,0,35,43,81.4,4,25,1,0,0,Shakhtar Donetsk,2018-10-02 Lyon-Shakhtar,UCL,18-19,dd69d5de
+005ca692,Maycon,27,BRA,DM,21-079,90,0,0,0,0,2,0,0,0,63,0,0,2,0.1,0.1,0.0,1,0,49,55,89.1,4,44,0,1,1,Shakhtar Donetsk,2018-10-02 Lyon-Shakhtar,UCL,18-19,dd69d5de
+cf182add,Ismaily,31,BRA,LB,28-264,90,0,1,0,0,3,0,0,0,78,2,1,1,0.5,0.5,0.4,2,1,52,63,82.5,1,53,6,0,0,Shakhtar Donetsk,2018-10-02 Lyon-Shakhtar,UCL,18-19,dd69d5de
+47fd5136,Yaroslav Rakitskiy,44,UKR,CB,29-060,90,0,0,0,0,1,1,0,0,69,0,1,2,0.1,0.1,0.1,2,0,55,62,88.7,4,42,0,0,0,Shakhtar Donetsk,2018-10-02 Lyon-Shakhtar,UCL,18-19,dd69d5de
+292a652a,Serhiy Kryvtsov,4,UKR,CB,27-201,90,0,0,0,0,0,0,0,0,50,1,4,4,0.0,0.0,0.0,0,0,33,39,84.6,1,31,0,0,0,Shakhtar Donetsk,2018-10-02 Lyon-Shakhtar,UCL,18-19,dd69d5de
+1adcf39e,Mykola Matviyenko,22,UKR,RB,22-153,90,0,0,0,0,0,0,0,0,54,5,6,0,0.0,0.0,0.0,0,0,34,40,85.0,0,29,0,2,0,Shakhtar Donetsk,2018-10-02 Lyon-Shakhtar,UCL,18-19,dd69d5de
+34c3b935,Andriy Pyatov,30,UKR,GK,34-096,90,0,0,0,0,0,0,0,0,50,0,0,0,0.0,0.0,0.0,1,0,37,47,78.7,0,28,0,0,0,Shakhtar Donetsk,2018-10-02 Lyon-Shakhtar,UCL,18-19,dd69d5de

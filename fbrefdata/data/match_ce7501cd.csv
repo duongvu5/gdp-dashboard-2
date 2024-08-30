@@ -1,0 +1,29 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+a1d5bd30,Marcus Rashford,10,ENG,FW,21-334,90,0,1,0,0,3,1,1,0,33,1,2,1,0.3,0.3,0.1,2,1,12,20,60.0,1,16,3,0,0,Manchester United,2019-09-30 Manchester Utd-Arsenal,ENG-EPL,19-20,ce7501cd
+c931d9f9,Daniel James,21,WAL,LW,21-324,90,0,0,0,0,1,0,0,0,37,2,0,1,0.0,0.0,0.0,1,0,18,27,66.7,4,26,8,5,2,Manchester United,2019-09-30 Manchester Utd-Arsenal,ENG-EPL,19-20,ce7501cd
+6639e500,Andreas Pereira,15,BRA,RW,23-272,73,0,0,0,0,4,1,1,0,33,0,0,0,0.2,0.2,0.1,6,1,14,23,60.9,2,18,3,1,1,Manchester United,2019-09-30 Manchester Utd-Arsenal,ENG-EPL,19-20,ce7501cd
+58eee997,Mason Greenwood,26,ENG,RW,17-364,17,0,0,0,0,1,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,5,6,83.3,0,5,0,0,0,Manchester United,2019-09-30 Manchester Utd-Arsenal,ENG-EPL,19-20,ce7501cd
+810e3c74,Jesse Lingard,14,ENG,AM,26-289,73,0,0,0,0,0,0,1,0,24,0,1,0,0.0,0.0,0.0,3,0,19,20,95.0,3,14,1,0,0,Manchester United,2019-09-30 Manchester Utd-Arsenal,ENG-EPL,19-20,ce7501cd
+b853e0ad,Fred,17,BRA,AM,26-209,17,0,0,0,0,1,0,0,0,17,1,1,0,0.0,0.0,0.0,1,0,12,14,85.7,1,5,0,0,0,Manchester United,2019-09-30 Manchester Utd-Arsenal,ENG-EPL,19-20,ce7501cd
+867239d3,Paul Pogba,6,FRA,DM,26-199,90,0,0,0,0,2,0,0,0,72,3,0,0,0.1,0.1,0.2,4,0,50,63,79.4,6,45,2,2,2,Manchester United,2019-09-30 Manchester Utd-Arsenal,ENG-EPL,19-20,ce7501cd
+d93c2511,Scott McTominay,39,SCO,DM,22-296,90,1,0,0,0,3,1,0,0,53,4,2,2,0.3,0.3,0.0,2,0,28,36,77.8,2,33,2,5,2,Manchester United,2019-09-30 Manchester Utd-Arsenal,ENG-EPL,19-20,ce7501cd
+2baec6ce,Axel Tuanzebe,38,COD,LB,21-320,90,0,0,0,0,0,0,0,0,76,1,3,1,0.0,0.0,0.0,1,0,52,60,86.7,2,36,1,2,0,Manchester United,2019-09-30 Manchester Utd-Arsenal,ENG-EPL,19-20,ce7501cd
+d8931174,Harry Maguire,5,ENG,CB,26-209,90,0,0,0,0,1,1,0,0,74,0,0,0,0.0,0.0,0.0,0,0,58,69,84.1,3,46,2,2,1,Manchester United,2019-09-30 Manchester Utd-Arsenal,ENG-EPL,19-20,ce7501cd
+f5deef4c,Victor Lindelöf,2,SWE,CB,25-075,90,0,0,0,0,0,0,0,0,60,0,1,2,0.0,0.0,0.0,1,0,44,54,81.5,2,35,1,0,0,Manchester United,2019-09-30 Manchester Utd-Arsenal,ENG-EPL,19-20,ce7501cd
+be927d03,Ashley Young,18,ENG,RB,34-083,90,0,0,0,0,0,0,1,0,76,3,1,1,0.0,0.0,0.2,4,0,47,70,67.1,6,33,1,0,0,Manchester United,2019-09-30 Manchester Utd-Arsenal,ENG-EPL,19-20,ce7501cd
+7ba6d84e,David de Gea,1,ESP,GK,28-327,90,0,0,0,0,0,0,0,0,30,0,0,0,0.0,0.0,0.0,1,0,22,28,78.6,0,15,0,0,0,Manchester United,2019-09-30 Manchester Utd-Arsenal,ENG-EPL,19-20,ce7501cd
+d5dd5f1f,Pierre-Emerick Aubameyang,14,GAB,FW,30-104,90,1,0,0,0,1,1,0,0,34,1,1,2,0.4,0.4,0.4,2,0,13,25,52.0,3,16,2,0,0,Arsenal,2019-09-30 Manchester Utd-Arsenal,ENG-EPL,19-20,ce7501cd
+bc7dc64d,Bukayo Saka,77,ENG,LW,18-025,79,0,1,0,0,2,1,0,0,42,4,0,2,0.4,0.4,0.5,4,1,21,26,80.8,3,21,4,5,2,Arsenal,2019-09-30 Manchester Utd-Arsenal,ENG-EPL,19-20,ce7501cd
+a3b03921,Joe Willock,28,ENG,LW,20-041,11,0,0,0,0,0,0,0,0,8,1,0,1,0.0,0.0,0.2,3,0,4,5,80.0,0,5,2,2,1,Arsenal,2019-09-30 Manchester Utd-Arsenal,ENG-EPL,19-20,ce7501cd
+57e3f0c7,Nicolas Pépé,19,CIV,RW,24-124,73,0,0,0,0,2,1,0,0,38,1,1,0,0.1,0.1,0.0,0,0,17,28,60.7,2,26,3,2,1,Arsenal,2019-09-30 Manchester Utd-Arsenal,ENG-EPL,19-20,ce7501cd
+c5bdb6e3,Reiss Nelson,24,ENG,RW,19-294,17,0,0,0,0,1,1,0,0,11,1,0,2,0.1,0.1,0.0,0,0,6,7,85.7,1,4,2,1,1,Arsenal,2019-09-30 Manchester Utd-Arsenal,ENG-EPL,19-20,ce7501cd
+5ea8ef20,Mattéo Guendouzi,29,FRA,"LM,RM",20-169,90,0,0,0,0,1,1,0,0,57,4,0,0,0.4,0.4,0.0,1,0,37,41,90.2,5,26,0,1,0,Arsenal,2019-09-30 Manchester Utd-Arsenal,ENG-EPL,19-20,ce7501cd
+e61b8aee,Granit Xhaka,34,SUI,CM,27-003,90,0,0,0,0,0,0,1,0,52,1,0,0,0.0,0.0,0.0,0,0,38,47,80.9,5,23,1,1,0,Arsenal,2019-09-30 Manchester Utd-Arsenal,ENG-EPL,19-20,ce7501cd
+52611641,Lucas Torreira,11,URU,RM,23-231,54,0,0,0,0,1,0,0,0,16,2,0,0,0.3,0.3,0.0,0,0,8,10,80.0,0,8,0,1,1,Arsenal,2019-09-30 Manchester Utd-Arsenal,ENG-EPL,19-20,ce7501cd
+c0617e2b,Dani Ceballos,8,ESP,LM,23-054,36,0,0,0,0,1,0,0,0,24,2,0,0,0.1,0.1,0.0,1,0,15,19,78.9,0,16,2,1,1,Arsenal,2019-09-30 Manchester Utd-Arsenal,ENG-EPL,19-20,ce7501cd
+3935e52e,Sead Kolašinac,31,BIH,LB,26-102,90,0,0,0,0,0,0,0,0,63,0,3,2,0.0,0.0,0.0,2,0,43,52,82.7,3,19,1,0,0,Arsenal,2019-09-30 Manchester Utd-Arsenal,ENG-EPL,19-20,ce7501cd
+c0e27d1a,David Luiz,23,BRA,CB,32-161,90,0,0,0,0,1,0,0,0,52,0,2,4,0.1,0.1,0.0,1,0,27,37,73.0,2,24,0,1,0,Arsenal,2019-09-30 Manchester Utd-Arsenal,ENG-EPL,19-20,ce7501cd
+b682dcf6,Sokratis Papastathopoulos,5,GRE,CB,31-113,90,0,0,0,0,0,0,0,0,31,0,0,2,0.0,0.0,0.0,0,0,22,25,88.0,0,19,0,0,0,Arsenal,2019-09-30 Manchester Utd-Arsenal,ENG-EPL,19-20,ce7501cd
+dc6f5bdd,Calum Chambers,21,ENG,RB,24-253,90,0,0,0,0,0,0,1,0,62,2,1,1,0.0,0.0,0.3,2,0,35,53,66.0,6,22,2,1,1,Arsenal,2019-09-30 Manchester Utd-Arsenal,ENG-EPL,19-20,ce7501cd
+2628fd2b,Bernd Leno,1,GER,GK,27-210,90,0,0,0,0,0,0,0,0,35,0,0,0,0.0,0.0,0.0,0,0,18,33,54.5,0,11,0,0,0,Arsenal,2019-09-30 Manchester Utd-Arsenal,ENG-EPL,19-20,ce7501cd

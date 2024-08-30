@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+d5dd5f1f,Pierre-Emerick Aubameyang,14,GAB,FW,31-339,78,0,0,0,0,2,0,0,0,24,0,0,0,0.2,0.2,0.1,4,0,15,21,71.4,4,17,5,0,0,Arsenal,2021-05-23 Arsenal-Brighton,ENG-EPL,20-21,9f6c52f8
+9dbb75ca,Alexandre Lacazette,9,FRA,FW,29-360,12,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,4,4,100.0,3,3,0,1,0,Arsenal,2021-05-23 Arsenal-Brighton,ENG-EPL,20-21,9f6c52f8
+17695062,Emile Smith Rowe,32,ENG,LW,20-299,73,0,0,0,0,0,0,0,0,41,3,0,0,0.0,0.0,0.2,7,0,32,36,88.9,7,28,4,1,0,Arsenal,2021-05-23 Arsenal-Brighton,ENG-EPL,20-21,9f6c52f8
+bc7dc64d,Bukayo Saka,7,ENG,LW,19-260,17,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,6,7,85.7,0,4,0,0,0,Arsenal,2021-05-23 Arsenal-Brighton,ENG-EPL,20-21,9f6c52f8
+57e3f0c7,Nicolas Pépé,19,CIV,RW,25-359,90,2,0,0,0,4,2,0,0,49,0,2,0,0.2,0.2,0.0,1,0,31,35,88.6,2,38,2,4,1,Arsenal,2021-05-23 Arsenal-Brighton,ENG-EPL,20-21,9f6c52f8
+79300479,Martin Ødegaard,11,NOR,AM,22-157,85,0,1,0,0,2,0,0,0,68,3,0,1,0.1,0.1,0.2,6,1,46,58,79.3,8,44,2,2,2,Arsenal,2021-05-23 Arsenal-Brighton,ENG-EPL,20-21,9f6c52f8
+48a5a5d6,Gabriel Martinelli,35,BRA,AM,19-339,5,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,1,4,25.0,0,3,1,2,1,Arsenal,2021-05-23 Arsenal-Brighton,ENG-EPL,20-21,9f6c52f8
+e61b8aee,Granit Xhaka,34,SUI,DM,28-238,90,0,0,0,0,3,2,0,0,97,2,0,1,0.1,0.1,0.1,5,2,80,89,89.9,14,67,2,0,0,Arsenal,2021-05-23 Arsenal-Brighton,ENG-EPL,20-21,9f6c52f8
+529f49ab,Thomas Partey,18,GHA,DM,27-344,90,0,0,0,0,4,1,0,0,78,2,1,1,0.2,0.2,0.0,3,0,59,64,92.2,6,63,2,2,2,Arsenal,2021-05-23 Arsenal-Brighton,ENG-EPL,20-21,9f6c52f8
+fce2302c,Kieran Tierney,3,SCO,LB,23-352,90,0,0,0,0,0,0,0,0,47,0,0,2,0.0,0.0,0.0,0,0,32,41,78.0,3,26,1,2,0,Arsenal,2021-05-23 Arsenal-Brighton,ENG-EPL,20-21,9f6c52f8
+67ac5bb8,Gabriel Magalhães,6,BRA,CB,23-155,90,0,0,0,0,1,0,0,0,82,1,1,1,0.0,0.0,0.0,0,0,66,75,88.0,3,60,0,0,0,Arsenal,2021-05-23 Arsenal-Brighton,ENG-EPL,20-21,9f6c52f8
+d79a8c87,Rob Holding,16,ENG,CB,25-245,90,0,0,0,0,0,0,0,0,73,2,1,3,0.0,0.0,0.0,1,0,60,66,90.9,3,53,0,0,0,Arsenal,2021-05-23 Arsenal-Brighton,ENG-EPL,20-21,9f6c52f8
+dc6f5bdd,Calum Chambers,21,ENG,RB,26-123,90,0,1,0,0,0,0,0,0,80,1,0,0,0.0,0.0,0.1,2,1,60,73,82.2,5,49,2,2,0,Arsenal,2021-05-23 Arsenal-Brighton,ENG-EPL,20-21,9f6c52f8
+2628fd2b,Bernd Leno,1,GER,GK,29-080,90,0,0,0,0,0,0,0,0,40,0,0,0,0.0,0.0,0.0,0,0,35,39,89.7,0,22,0,0,0,Arsenal,2021-05-23 Arsenal-Brighton,ENG-EPL,20-21,9f6c52f8
+83d074ff,Alexis Mac Allister,10,ARG,FW,22-150,65,0,0,0,0,0,0,0,0,23,1,1,0,0.0,0.0,0.0,1,0,16,20,80.0,2,16,1,0,0,Brighton & Hove Albion,2021-05-23 Arsenal-Brighton,ENG-EPL,20-21,9f6c52f8
+ad1f61f3,Steven Alzate,17,COL,FW,22-257,25,0,0,0,0,0,0,0,0,13,0,0,0,0.0,0.0,0.0,0,0,12,13,92.3,2,12,1,0,0,Brighton & Hove Albion,2021-05-23 Arsenal-Brighton,ENG-EPL,20-21,9f6c52f8
+38ceb24a,Leandro Trossard,11,BEL,LW,26-170,45,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,4,4,100.0,0,5,0,0,0,Brighton & Hove Albion,2021-05-23 Arsenal-Brighton,ENG-EPL,20-21,9f6c52f8
+27c01749,Aaron Connolly,7,IRL,LW,21-115,45,0,0,0,0,1,0,0,0,14,0,0,0,0.1,0.1,0.0,2,0,6,7,85.7,0,8,0,1,1,Brighton & Hove Albion,2021-05-23 Arsenal-Brighton,ENG-EPL,20-21,9f6c52f8
+08452314,Alireza Jahanbakhsh,16,IRN,RW,27-285,45,0,0,0,0,0,0,0,0,17,1,1,1,0.0,0.0,0.1,1,0,11,15,73.3,1,9,1,0,0,Brighton & Hove Albion,2021-05-23 Arsenal-Brighton,ENG-EPL,20-21,9f6c52f8
+99813635,Adam Lallana,14,ENG,RW,33-013,45,0,0,0,0,0,0,0,0,37,1,0,1,0.0,0.0,0.0,1,0,27,29,93.1,1,16,0,2,1,Brighton & Hove Albion,2021-05-23 Arsenal-Brighton,ENG-EPL,20-21,9f6c52f8
+f230bc30,Jakub Moder,15,POL,LM,22-046,90,0,0,0,0,2,1,0,0,46,1,1,1,0.1,0.1,0.0,0,0,29,37,78.4,5,27,3,2,1,Brighton & Hove Albion,2021-05-23 Arsenal-Brighton,ENG-EPL,20-21,9f6c52f8
+6c203af0,Yves Bissouma,8,MLI,CM,24-266,90,0,0,0,0,1,0,0,0,57,4,2,3,0.0,0.0,0.0,0,0,39,42,92.9,3,35,1,0,0,Brighton & Hove Albion,2021-05-23 Arsenal-Brighton,ENG-EPL,20-21,9f6c52f8
+8aec0537,Pascal Groß,13,GER,RM,29-342,90,0,0,0,0,0,0,0,0,51,1,1,1,0.0,0.0,0.0,0,0,36,47,76.6,6,36,2,0,0,Brighton & Hove Albion,2021-05-23 Arsenal-Brighton,ENG-EPL,20-21,9f6c52f8
+b2d31e83,Dan Burn,33,ENG,LB,29-014,90,0,0,0,0,0,0,0,0,53,3,3,1,0.0,0.0,0.0,0,0,30,41,73.2,0,28,0,1,0,Brighton & Hove Albion,2021-05-23 Arsenal-Brighton,ENG-EPL,20-21,9f6c52f8
+282f75f3,Lewis Dunk,5,ENG,CB,29-183,90,0,0,0,0,1,0,0,0,94,3,1,3,0.0,0.0,0.0,1,0,79,86,91.9,0,67,0,0,0,Brighton & Hove Albion,2021-05-23 Arsenal-Brighton,ENG-EPL,20-21,9f6c52f8
+c40b6180,Adam Webster,4,ENG,CB,26-139,90,0,0,0,0,0,0,0,0,79,0,1,2,0.0,0.0,0.0,0,0,61,69,88.4,0,47,0,0,0,Brighton & Hove Albion,2021-05-23 Arsenal-Brighton,ENG-EPL,20-21,9f6c52f8
+35e413f1,Ben White,3,ENG,RB,23-227,90,0,0,0,0,0,0,0,0,60,2,2,2,0.0,0.0,0.0,0,0,38,48,79.2,3,34,0,0,0,Brighton & Hove Albion,2021-05-23 Arsenal-Brighton,ENG-EPL,20-21,9f6c52f8
+6a713852,Robert Sánchez,26,ESP,GK,23-186,90,0,0,0,0,0,0,0,0,59,0,0,0,0.0,0.0,0.0,1,0,50,56,89.3,0,42,0,0,0,Brighton & Hove Albion,2021-05-23 Arsenal-Brighton,ENG-EPL,20-21,9f6c52f8

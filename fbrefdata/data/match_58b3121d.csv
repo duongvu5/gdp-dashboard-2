@@ -1,0 +1,32 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+70d74ece,Karim Benzema,9,FRA,FW,33-052,90,1,0,0,0,6,2,0,0,58,0,0,0,0.5,0.5,0.0,0,0,38,47,80.9,1,35,1,0,0,Real Madrid,2021-02-09 Real Madrid-Getafe,ESP-LALIGA,20-21,58b3121d
+7111d552,Vinicius Júnior,20,BRA,LW,20-212,90,0,1,0,0,0,0,0,0,74,2,1,3,0.0,0.0,0.2,5,1,45,55,81.8,1,48,6,4,2,Real Madrid,2021-02-09 Real Madrid-Getafe,ESP-LALIGA,20-21,58b3121d
+45af8a54,Marco Asensio,11,ESP,RW,25-019,75,0,0,0,0,0,0,0,0,55,1,0,2,0.0,0.0,0.3,5,0,36,46,78.3,5,31,4,1,0,Real Madrid,2021-02-09 Real Madrid-Getafe,ESP-LALIGA,20-21,58b3121d
+a0b4bb3e,Isco,22,ESP,RW,28-294,15,0,0,0,0,0,0,0,0,12,1,0,0,0.0,0.0,0.0,0,0,9,9,100.0,1,9,0,1,1,Real Madrid,2021-02-09 Real Madrid-Getafe,ESP-LALIGA,20-21,58b3121d
+603116a7,Marcelo,12,BRA,LM,32-273,85,0,1,0,0,2,0,0,0,90,1,0,3,0.1,0.1,0.7,7,1,66,79,83.5,8,46,4,2,2,Real Madrid,2021-02-09 Real Madrid-Getafe,ESP-LALIGA,20-21,58b3121d
+ec1a731e,Víctor Chust,32,ESP,LM,20-341,5,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,4,4,100.0,0,3,0,0,0,Real Madrid,2021-02-09 Real Madrid-Getafe,ESP-LALIGA,20-21,58b3121d
+6025fab1,Luka Modrić,10,CRO,CM,35-153,90,0,0,0,0,1,1,0,0,73,0,1,0,0.1,0.1,0.0,1,0,55,69,79.7,4,34,3,3,2,Real Madrid,2021-02-09 Real Madrid-Getafe,ESP-LALIGA,20-21,58b3121d
+4d224fe8,Casemiro,14,BRA,CM,28-352,90,0,0,0,0,2,0,0,0,63,1,1,3,0.4,0.4,0.0,3,0,41,52,78.8,3,22,1,2,1,Real Madrid,2021-02-09 Real Madrid-Getafe,ESP-LALIGA,20-21,58b3121d
+efaefda0,Marvin,28,ESP,RM,20-221,54,0,0,0,0,0,0,0,0,52,2,2,1,0.0,0.0,0.0,1,0,32,39,82.1,2,21,3,2,2,Real Madrid,2021-02-09 Real Madrid-Getafe,ESP-LALIGA,20-21,58b3121d
+1e465e70,Sergio Arribas,30,ESP,RM,19-132,36,0,0,0,0,0,0,0,0,28,2,1,0,0.0,0.0,0.0,1,1,19,26,73.1,1,20,2,1,1,Real Madrid,2021-02-09 Real Madrid-Getafe,ESP-LALIGA,20-21,58b3121d
+3cefcaef,Ferland Mendy,23,FRA,CB,25-246,90,1,0,0,0,1,1,1,0,93,0,3,0,0.4,0.4,0.0,1,0,84,86,97.7,6,61,3,3,3,Real Madrid,2021-02-09 Real Madrid-Getafe,ESP-LALIGA,20-21,58b3121d
+9f8e9423,Raphaël Varane,5,FRA,CB,27-290,90,0,0,0,0,1,0,0,0,74,0,1,0,0.1,0.1,0.0,1,0,63,70,90.0,3,45,1,1,1,Real Madrid,2021-02-09 Real Madrid-Getafe,ESP-LALIGA,20-21,58b3121d
+2946f9a1,Nacho,6,ESP,CB,31-022,90,0,0,0,0,1,0,0,0,72,1,1,1,0.0,0.0,0.0,1,1,56,66,84.8,5,33,2,1,1,Real Madrid,2021-02-09 Real Madrid-Getafe,ESP-LALIGA,20-21,58b3121d
+1840e36d,Thibaut Courtois,1,BEL,GK,28-274,90,0,0,0,0,0,0,0,0,41,0,0,0,0.0,0.0,0.0,0,0,30,41,73.2,0,23,0,0,0,Real Madrid,2021-02-09 Real Madrid-Getafe,ESP-LALIGA,20-21,58b3121d
+71b47ab9,Cucho,23,COL,FW,21-295,53,0,0,0,0,0,0,0,0,20,2,0,0,0.0,0.0,0.0,0,0,5,12,41.7,0,12,1,1,0,Getafe,2021-02-09 Real Madrid-Getafe,ESP-LALIGA,20-21,58b3121d
+02319ad7,Jaime Mata,7,ESP,FW,32-108,37,0,0,0,0,0,0,0,0,10,0,1,0,0.0,0.0,0.0,0,0,7,9,77.8,1,7,0,0,0,Getafe,2021-02-09 Real Madrid-Getafe,ESP-LALIGA,20-21,58b3121d
+8cfc2f69,Ángel Rodríguez,9,ESP,FW,33-289,54,0,0,0,0,1,0,0,0,14,0,0,0,0.1,0.1,0.0,0,0,5,7,71.4,0,4,0,1,1,Getafe,2021-02-09 Real Madrid-Getafe,ESP-LALIGA,20-21,58b3121d
+16aa3654,Takefusa Kubo,5,JPN,RM,19-250,36,0,0,0,0,0,0,0,0,12,0,2,1,0.0,0.0,0.0,0,0,3,7,42.9,1,8,2,1,0,Getafe,2021-02-09 Real Madrid-Getafe,ESP-LALIGA,20-21,58b3121d
+1daec722,Marc Cucurella,15,ESP,LM,22-202,72,0,0,0,0,0,0,0,0,44,1,2,1,0.0,0.0,0.0,0,0,23,33,69.7,1,21,0,0,0,Getafe,2021-02-09 Real Madrid-Getafe,ESP-LALIGA,20-21,58b3121d
+f8eca1b6,Enes Ünal,10,TUR,FW,23-275,18,0,0,0,0,0,0,0,0,6,1,0,0,0.0,0.0,0.0,0,0,1,3,33.3,0,6,0,2,2,Getafe,2021-02-09 Real Madrid-Getafe,ESP-LALIGA,20-21,58b3121d
+58afe001,Mauro Arambarri,18,URU,CM,25-132,90,0,0,0,0,0,0,0,0,37,1,0,5,0.0,0.0,0.0,0,0,15,27,55.6,0,21,1,2,1,Getafe,2021-02-09 Real Madrid-Getafe,ESP-LALIGA,20-21,58b3121d
+00b28772,Nemanja Maksimović,20,SRB,CM,26-014,90,0,0,0,0,0,0,0,0,35,2,1,1,0.0,0.0,0.0,0,0,20,27,74.1,3,19,2,0,0,Getafe,2021-02-09 Real Madrid-Getafe,ESP-LALIGA,20-21,58b3121d
+8e010ff4,Francisco Portillo,8,ESP,RM,30-241,54,0,0,0,0,0,0,0,0,23,0,1,1,0.0,0.0,0.0,1,0,15,20,75.0,2,15,1,2,1,Getafe,2021-02-09 Real Madrid-Getafe,ESP-LALIGA,20-21,58b3121d
+6c811eb7,Carles Aleñá,11,ESP,"LM,FW",23-035,36,0,0,0,0,0,0,0,0,21,1,0,0,0.0,0.0,0.0,0,0,15,18,83.3,6,12,0,1,1,Getafe,2021-02-09 Real Madrid-Getafe,ESP-LALIGA,20-21,58b3121d
+41c12f75,Mathías Olivera,17,URU,LB,23-101,90,0,0,0,0,0,0,0,0,60,5,1,5,0.0,0.0,0.0,0,0,31,41,75.6,4,27,3,0,0,Getafe,2021-02-09 Real Madrid-Getafe,ESP-LALIGA,20-21,58b3121d
+37f04799,Sofian Chakla,21,MAR,CB,27-160,90,0,0,0,0,0,0,1,0,28,0,1,0,0.0,0.0,0.0,0,0,19,23,82.6,0,11,0,0,0,Getafe,2021-02-09 Real Madrid-Getafe,ESP-LALIGA,20-21,58b3121d
+e7ab4179,Erick Cabaco,3,URU,CB,25-296,72,0,0,0,0,0,0,0,0,28,2,1,1,0.0,0.0,0.0,0,0,6,19,31.6,1,13,1,1,0,Getafe,2021-02-09 Real Madrid-Getafe,ESP-LALIGA,20-21,58b3121d
+174651c8,David Timor,24,ESP,CB,31-115,18,0,0,0,0,0,0,0,0,14,0,0,1,0.0,0.0,0.0,0,0,8,13,61.5,2,7,1,0,0,Getafe,2021-02-09 Real Madrid-Getafe,ESP-LALIGA,20-21,58b3121d
+ba5004e1,Damián Suárez,22,URU,RB,32-288,90,0,0,0,0,0,0,0,0,45,1,2,3,0.0,0.0,0.1,1,0,26,40,65.0,5,16,0,0,0,Getafe,2021-02-09 Real Madrid-Getafe,ESP-LALIGA,20-21,58b3121d
+8f8c6934,David Soria,13,ESP,GK,27-311,90,0,0,0,0,0,0,0,0,37,0,0,0,0.0,0.0,0.0,0,0,20,35,57.1,0,17,0,0,0,Getafe,2021-02-09 Real Madrid-Getafe,ESP-LALIGA,20-21,58b3121d

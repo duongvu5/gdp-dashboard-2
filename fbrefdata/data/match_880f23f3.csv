@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+0a447501,Antonio Sanabria,9,PAR,FW,26-219,66,0,0,0,0,2,1,1,0,23,1,0,0,0.2,0.2,0.1,2,0,10,13,76.9,0,12,0,0,0,Torino,2022-10-09 Torino-Empoli,ITA-SERIA_A,22-23,880f23f3
+a44d3a3c,Pietro Pellegri,11,ITA,FW,21-206,24,0,0,0,0,0,0,1,0,10,0,0,0,0.0,0.0,0.3,2,0,5,6,83.3,2,6,0,1,1,Torino,2022-10-09 Torino-Empoli,ITA-SERIA_A,22-23,880f23f3
+aa8e289e,Nikola Vlašić,16,CRO,"AM,LM",25-005,90,0,0,0,0,5,2,0,0,40,0,1,1,0.9,0.9,0.1,6,0,23,29,79.3,3,24,2,1,0,Torino,2022-10-09 Torino-Empoli,ITA-SERIA_A,22-23,880f23f3
+a9aa0d1d,Aleksei Miranchuk,59,RUS,AM,26-357,73,0,0,0,0,1,0,0,0,36,0,0,0,0.3,0.3,0.2,3,0,27,31,87.1,4,22,1,2,2,Torino,2022-10-09 Torino-Empoli,ITA-SERIA_A,22-23,880f23f3
+be2706c0,Mërgim Vojvoda,27,KVX,"WB,LB",27-250,17,0,0,0,0,0,0,0,0,7,1,0,0,0.0,0.0,0.0,0,0,4,7,57.1,1,4,0,0,0,Torino,2022-10-09 Torino-Empoli,ITA-SERIA_A,22-23,880f23f3
+d023d70f,Karol Linetty,77,POL,CM,27-249,66,0,0,0,0,0,0,0,0,43,0,0,0,0.0,0.0,0.0,2,0,37,40,92.5,3,30,1,0,0,Torino,2022-10-09 Torino-Empoli,ITA-SERIA_A,22-23,880f23f3
+9823be92,Samuele Ricci,28,ITA,CM,21-049,24,0,0,0,0,0,0,0,0,15,0,1,0,0.0,0.0,0.0,1,0,15,15,100.0,3,12,1,0,0,Torino,2022-10-09 Torino-Empoli,ITA-SERIA_A,22-23,880f23f3
+c6e8cf1f,Saša Lukić,10,SRB,"CM,RM",26-057,90,1,0,0,0,3,2,0,0,79,1,0,1,0.2,0.2,0.3,8,1,62,70,88.6,6,44,2,1,0,Torino,2022-10-09 Torino-Empoli,ITA-SERIA_A,22-23,880f23f3
+016ff750,Valentino Lazaro,19,AUT,"WB,RB",26-199,90,0,0,0,0,1,0,0,0,78,0,0,2,0.1,0.1,0.5,6,0,64,76,84.2,8,46,7,1,1,Torino,2022-10-09 Torino-Empoli,ITA-SERIA_A,22-23,880f23f3
+246d153b,Ola Aina,34,NGA,WB,26-001,73,0,0,0,0,4,2,0,0,79,3,0,1,0.3,0.3,0.4,1,0,53,66,80.3,10,44,4,1,1,Torino,2022-10-09 Torino-Empoli,ITA-SERIA_A,22-23,880f23f3
+0630eb63,Nemanja Radonjić,49,SRB,"AM,LW",26-236,17,0,0,0,0,2,0,0,0,9,0,0,0,0.1,0.1,0.2,1,0,5,6,83.3,1,4,0,0,0,Torino,2022-10-09 Torino-Empoli,ITA-SERIA_A,22-23,880f23f3
+7f78ad23,Ricardo Rodríguez,13,SUI,CB,30-045,90,0,0,0,0,0,0,0,0,72,0,2,2,0.0,0.0,0.0,3,0,56,66,84.8,2,49,3,0,0,Torino,2022-10-09 Torino-Empoli,ITA-SERIA_A,22-23,880f23f3
+e613313c,Perr Schuurs,3,NED,CB,22-317,90,0,0,0,0,1,0,0,0,63,1,3,0,0.1,0.1,0.0,0,0,51,56,91.1,3,35,1,2,2,Torino,2022-10-09 Torino-Empoli,ITA-SERIA_A,22-23,880f23f3
+933d3b51,Koffi Djidji,26,CIV,CB,29-313,87,0,0,0,0,1,0,0,0,69,0,0,0,0.2,0.2,0.0,1,0,54,66,81.8,10,43,1,0,0,Torino,2022-10-09 Torino-Empoli,ITA-SERIA_A,22-23,880f23f3
+8b66d9cc,Yann Karamoh,7,FRA,RW,24-093,3,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.1,2,0,1,3,33.3,0,5,0,1,0,Torino,2022-10-09 Torino-Empoli,ITA-SERIA_A,22-23,880f23f3
+9fa26bc2,Vanja Milinković-Savić,32,SRB,GK,25-231,90,0,0,0,0,0,0,0,0,34,0,0,0,0.0,0.0,0.0,0,0,30,34,88.2,0,23,0,0,0,Torino,2022-10-09 Torino-Empoli,ITA-SERIA_A,22-23,880f23f3
+c283ddef,Sam Lammers,7,NED,FW,25-162,45,0,0,0,0,0,0,0,0,16,1,0,0,0.0,0.0,0.0,0,0,9,11,81.8,2,8,1,1,0,Empoli,2022-10-09 Torino-Empoli,ITA-SERIA_A,22-23,880f23f3
+2c38b327,Marko Pjaca,14,CRO,"AM,CM",27-156,45,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,5,7,71.4,0,7,0,0,0,Empoli,2022-10-09 Torino-Empoli,ITA-SERIA_A,22-23,880f23f3
+91ff775f,Nicolò Cambiaghi,28,ITA,FW,21-285,45,0,0,0,0,1,0,0,0,11,2,1,0,0.0,0.0,0.0,0,0,3,4,75.0,0,7,0,0,0,Empoli,2022-10-09 Torino-Empoli,ITA-SERIA_A,22-23,880f23f3
+d7d32194,Mattia Destro,23,ITA,FW,31-203,45,1,0,0,0,1,1,0,0,15,0,0,0,0.0,0.0,0.0,0,0,5,9,55.6,0,7,0,0,0,Empoli,2022-10-09 Torino-Empoli,ITA-SERIA_A,22-23,880f23f3
+f42d6c13,Nedim Bajrami,10,ALB,"AM,FW",23-223,77,0,0,0,0,1,0,0,0,22,0,0,0,0.0,0.0,0.0,3,0,12,16,75.0,1,12,1,5,3,Empoli,2022-10-09 Torino-Empoli,ITA-SERIA_A,22-23,880f23f3
+217875a4,Sebastian Walukiewicz,4,POL,CB,22-187,13,0,0,0,0,0,0,0,0,4,1,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,2,0,0,0,Empoli,2022-10-09 Torino-Empoli,ITA-SERIA_A,22-23,880f23f3
+d44360be,Filippo Bandinelli,25,ITA,LM,27-194,68,0,0,0,0,2,0,1,0,27,0,0,0,0.1,0.1,0.0,0,0,12,20,60.0,2,21,0,0,0,Empoli,2022-10-09 Torino-Empoli,ITA-SERIA_A,22-23,880f23f3
+d7918b13,Liam Henderson,8,SCO,LM,26-167,22,0,0,0,0,0,0,0,0,10,1,0,1,0.0,0.0,0.0,1,0,3,7,42.9,0,2,0,0,0,Empoli,2022-10-09 Torino-Empoli,ITA-SERIA_A,22-23,880f23f3
+7fac99d4,Răzvan Marin,18,ROU,CM,26-139,90,0,0,0,0,0,0,1,0,31,0,1,0,0.0,0.0,0.1,3,0,19,27,70.4,0,13,1,1,0,Empoli,2022-10-09 Torino-Empoli,ITA-SERIA_A,22-23,880f23f3
+fa449bba,Nicolas Haas,32,SUI,RM,26-259,90,0,0,0,0,1,1,0,0,17,0,0,0,0.0,0.0,0.0,1,1,12,13,92.3,1,9,1,0,0,Empoli,2022-10-09 Torino-Empoli,ITA-SERIA_A,22-23,880f23f3
+0967845b,Fabiano Parisi,65,ITA,LB,21-334,90,0,0,0,0,0,0,1,0,60,1,0,1,0.0,0.0,0.0,2,0,29,42,69.0,2,29,2,1,1,Empoli,2022-10-09 Torino-Empoli,ITA-SERIA_A,22-23,880f23f3
+997fff07,Sebastiano Luperto,33,ITA,CB,26-033,90,0,0,0,0,0,0,0,0,39,0,0,1,0.0,0.0,0.0,0,0,23,30,76.7,0,15,0,0,0,Empoli,2022-10-09 Torino-Empoli,ITA-SERIA_A,22-23,880f23f3
+f4797849,Koni De Winter,6,BEL,CB,20-119,90,0,0,0,0,0,0,0,0,34,0,0,0,0.0,0.0,0.0,1,0,27,30,90.0,0,21,0,1,1,Empoli,2022-10-09 Torino-Empoli,ITA-SERIA_A,22-23,880f23f3
+6af30900,Tyronne Ebuehi,24,NGA,RB,26-297,77,0,1,0,0,0,0,0,0,36,0,0,2,0.0,0.0,0.0,1,1,19,28,67.9,0,20,0,1,0,Empoli,2022-10-09 Torino-Empoli,ITA-SERIA_A,22-23,880f23f3
+13b44b02,Petar Stojanović,30,SVN,RB,27-002,13,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,0,0,0,0,Empoli,2022-10-09 Torino-Empoli,ITA-SERIA_A,22-23,880f23f3
+77d6fd4d,Guglielmo Vicario,13,ITA,GK,26-002,90,0,0,0,0,0,0,1,0,53,0,0,0,0.0,0.0,0.0,0,0,31,48,64.6,0,26,0,0,0,Empoli,2022-10-09 Torino-Empoli,ITA-SERIA_A,22-23,880f23f3

@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+abb3bb95,Luuk de Jong,9,NED,FW,30-241,58,0,0,0,0,2,0,0,0,30,0,1,0,0.1,0.1,0.0,1,0,14,18,77.8,1,15,1,1,0,Sevilla,2021-04-25 Sevilla-Granada,ESP-LALIGA,20-21,ba155b0e
+04e17fd5,Youssef En-Nesyri,15,MAR,FW,23-328,32,0,0,0,0,0,0,0,0,14,0,0,0,0.0,0.0,0.0,1,0,4,10,40.0,1,7,1,1,1,Sevilla,2021-04-25 Sevilla-Granada,ESP-LALIGA,20-21,ba155b0e
+a08b974a,Lucas Ocampos,5,ARG,LW,26-288,85,1,0,0,0,1,1,0,0,37,0,1,2,0.1,0.1,0.1,2,1,20,26,76.9,2,21,2,2,2,Sevilla,2021-04-25 Sevilla-Granada,ESP-LALIGA,20-21,ba155b0e
+0076ab7f,Nemanja Gudelj,6,SRB,LW,29-160,5,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,0,0,0,0,Sevilla,2021-04-25 Sevilla-Granada,ESP-LALIGA,20-21,ba155b0e
+4e219ad2,Suso,7,ESP,RW,27-157,58,0,0,0,0,1,1,0,0,39,2,0,1,0.0,0.0,0.1,2,0,28,33,84.8,4,30,1,1,1,Sevilla,2021-04-25 Sevilla-Granada,ESP-LALIGA,20-21,ba155b0e
+2a0c8ba4,Joan Jordán,8,ESP,RW,26-293,32,0,0,0,0,0,0,0,0,23,3,1,0,0.0,0.0,0.0,0,0,12,17,70.6,1,10,0,0,0,Sevilla,2021-04-25 Sevilla-Granada,ESP-LALIGA,20-21,ba155b0e
+6e4df551,Papu Gómez,24,ARG,LM,33-069,72,0,1,0,0,2,1,0,0,53,0,0,1,0.1,0.1,0.1,3,2,41,49,83.7,2,40,3,0,0,Sevilla,2021-04-25 Sevilla-Granada,ESP-LALIGA,20-21,ba155b0e
+58a9a4d9,Óliver Torres,21,ESP,LM,26-166,18,0,0,0,0,0,0,0,0,10,1,0,0,0.0,0.0,0.0,0,0,5,8,62.5,1,9,1,1,1,Sevilla,2021-04-25 Sevilla-Granada,ESP-LALIGA,20-21,ba155b0e
+41f32541,Fernando,25,BRA,CM,33-274,90,0,0,0,0,0,0,0,0,71,4,3,0,0.0,0.0,0.0,1,0,57,61,93.4,3,40,0,0,0,Sevilla,2021-04-25 Sevilla-Granada,ESP-LALIGA,20-21,ba155b0e
+89f951b5,Ivan Rakitić,10,CRO,RM,33-046,85,1,0,1,1,2,0,0,0,85,1,0,2,0.9,0.1,0.0,3,0,68,77,88.3,4,55,0,2,2,Sevilla,2021-04-25 Sevilla-Granada,ESP-LALIGA,20-21,ba155b0e
+467bae22,Franco Vázquez,22,ARG,RM,32-062,5,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,3,3,100.0,0,2,0,0,0,Sevilla,2021-04-25 Sevilla-Granada,ESP-LALIGA,20-21,ba155b0e
+81442ecb,Marcos Acuña,19,ARG,LB,29-179,90,0,0,0,0,0,0,1,0,92,5,0,0,0.0,0.0,0.1,3,1,69,84,82.1,3,49,1,0,0,Sevilla,2021-04-25 Sevilla-Granada,ESP-LALIGA,20-21,ba155b0e
+b4a014b1,Diego Carlos,20,BRA,CB,28-041,90,0,0,0,0,0,0,0,0,60,0,0,0,0.0,0.0,0.0,0,0,44,56,78.6,0,27,0,1,1,Sevilla,2021-04-25 Sevilla-Granada,ESP-LALIGA,20-21,ba155b0e
+4d1666ff,Jules Koundé,12,FRA,CB,22-164,90,0,0,0,0,1,0,1,0,66,1,0,2,0.1,0.1,0.0,0,0,43,56,76.8,2,40,1,1,1,Sevilla,2021-04-25 Sevilla-Granada,ESP-LALIGA,20-21,ba155b0e
+3f10bd22,Jesús Navas,16,ESP,RB,35-155,90,0,0,0,0,0,0,0,0,73,2,0,0,0.0,0.0,0.1,4,0,56,69,81.2,6,32,1,0,0,Sevilla,2021-04-25 Sevilla-Granada,ESP-LALIGA,20-21,ba155b0e
+f6798fc3,Yassine Bounou,13,MAR,GK,30-020,90,0,0,0,0,0,0,0,0,36,0,0,0,0.0,0.0,0.0,0,0,23,35,65.7,0,19,0,0,0,Sevilla,2021-04-25 Sevilla-Granada,ESP-LALIGA,20-21,ba155b0e
+eeba07f8,Luis Javier Suárez,7,COL,FW,23-144,67,0,0,0,0,1,0,0,0,27,0,0,0,0.1,0.1,0.0,0,0,9,15,60.0,1,14,0,2,1,Granada,2021-04-25 Sevilla-Granada,ESP-LALIGA,20-21,ba155b0e
+9d66fbe3,Roberto Soldado,9,ESP,FW,35-333,23,1,0,1,1,1,0,0,0,11,0,0,0,0.8,0.1,0.0,1,1,5,8,62.5,0,4,1,0,0,Granada,2021-04-25 Sevilla-Granada,ESP-LALIGA,20-21,ba155b0e
+c77a8043,Antonio Puertas,10,ESP,"AM,RM",29-063,90,0,0,0,0,0,0,1,0,31,0,0,0,0.0,0.0,0.0,0,0,10,21,47.6,2,17,2,3,1,Granada,2021-04-25 Sevilla-Granada,ESP-LALIGA,20-21,ba155b0e
+5eebbfdf,Kenedy,24,BRA,AM,25-076,45,0,0,0,0,0,0,1,0,21,3,2,0,0.0,0.0,0.0,0,0,4,9,44.4,0,10,0,1,0,Granada,2021-04-25 Sevilla-Granada,ESP-LALIGA,20-21,ba155b0e
+7a538238,Quini,17,ESP,"WB,LB",31-213,45,0,0,0,0,0,0,0,0,32,0,2,0,0.0,0.0,0.0,0,0,16,27,59.3,1,7,0,1,1,Granada,2021-04-25 Sevilla-Granada,ESP-LALIGA,20-21,ba155b0e
+b8c1de25,Maxime Gonalons,4,FRA,CM,32-046,58,0,0,0,0,0,0,0,0,22,2,0,0,0.0,0.0,0.0,0,0,15,20,75.0,2,13,0,0,0,Granada,2021-04-25 Sevilla-Granada,ESP-LALIGA,20-21,ba155b0e
+719384c1,Ángel Montoro,19,ESP,CM,32-304,32,0,0,0,0,0,0,1,0,24,3,1,0,0.0,0.0,0.0,1,0,13,18,72.2,2,8,0,0,0,Granada,2021-04-25 Sevilla-Granada,ESP-LALIGA,20-21,ba155b0e
+5083a734,Yangel Herrera,21,VEN,CM,23-101,90,0,0,0,0,0,0,0,0,38,3,0,0,0.0,0.0,0.0,1,0,23,31,74.2,7,18,0,1,0,Granada,2021-04-25 Sevilla-Granada,ESP-LALIGA,20-21,ba155b0e
+8d47bb39,Carlos Neva,15,ESP,WB,24-317,71,0,0,0,0,0,0,0,0,27,0,1,0,0.0,0.0,0.0,0,0,15,24,62.5,1,9,0,0,0,Granada,2021-04-25 Sevilla-Granada,ESP-LALIGA,20-21,ba155b0e
+43f71e77,Jorge Molina,23,ESP,FW,39-003,19,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,5,8,62.5,1,6,0,0,0,Granada,2021-04-25 Sevilla-Granada,ESP-LALIGA,20-21,ba155b0e
+45e17712,Dimitri Foulquier,2,FRA,"WB,CB,RB",28-033,90,0,0,0,0,0,0,0,0,40,1,1,0,0.0,0.0,0.0,0,0,23,37,62.2,3,15,0,2,2,Granada,2021-04-25 Sevilla-Granada,ESP-LALIGA,20-21,ba155b0e
+3624ce4c,Víctor Díaz,16,ESP,CB,32-317,90,0,0,0,0,0,0,0,0,41,1,6,3,0.0,0.0,0.0,0,0,19,28,67.9,4,15,0,0,0,Granada,2021-04-25 Sevilla-Granada,ESP-LALIGA,20-21,ba155b0e
+ea9b2ef9,Germán Sánchez,6,ESP,CB,34-134,90,0,0,0,0,0,0,0,0,31,1,2,1,0.0,0.0,0.0,1,0,18,24,75.0,1,12,0,0,0,Granada,2021-04-25 Sevilla-Granada,ESP-LALIGA,20-21,ba155b0e
+f7c491f1,Nehuén Pérez,3,ARG,CB,20-305,45,0,0,0,0,0,0,0,0,13,0,2,0,0.0,0.0,0.0,0,0,7,7,100.0,1,6,1,0,0,Granada,2021-04-25 Sevilla-Granada,ESP-LALIGA,20-21,ba155b0e
+ed6ea4d9,Darwin Machís,11,VEN,"AM,LM",28-077,45,0,0,0,0,1,1,0,0,29,0,0,1,0.0,0.0,0.1,2,0,16,25,64.0,3,15,1,2,1,Granada,2021-04-25 Sevilla-Granada,ESP-LALIGA,20-21,ba155b0e
+ea83bfa6,Rui Silva,1,POR,GK,27-077,90,0,0,0,0,0,0,0,0,39,0,0,0,0.0,0.0,0.0,0,0,23,37,62.2,0,18,0,0,0,Granada,2021-04-25 Sevilla-Granada,ESP-LALIGA,20-21,ba155b0e

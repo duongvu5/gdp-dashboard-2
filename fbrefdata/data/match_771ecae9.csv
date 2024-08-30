@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+0745b37d,Teemu Pukki,22,FIN,FW,32-054,90,0,0,0,0,3,0,0,0,24,0,0,0,0.2,0.2,0.1,2,0,13,15,86.7,0,11,1,0,0,Norwich City,2022-05-22 Norwich City-Tottenham,ENG-EPL,21-22,771ecae9
+6c6a3300,Milot Rashica,17,KVX,LM,25-328,90,0,0,0,0,2,0,0,0,25,3,1,0,0.1,0.1,0.2,7,0,10,17,58.8,1,20,4,3,0,Norwich City,2022-05-22 Norwich City-Tottenham,ENG-EPL,21-22,771ecae9
+f5044e54,Pierre Lees-Melou,20,FRA,CM,28-362,70,0,0,0,0,0,0,0,0,49,2,0,0,0.0,0.0,0.0,1,0,37,44,84.1,8,37,1,0,0,Norwich City,2022-05-22 Norwich City-Tottenham,ENG-EPL,21-22,771ecae9
+3faa1780,Lukas Rupp,7,GER,CM,31-134,20,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,3,0,0,0,Norwich City,2022-05-22 Norwich City-Tottenham,ENG-EPL,21-22,771ecae9
+8996350d,Mathias Normann,16,NOR,CM,25-359,90,0,0,0,0,1,0,1,0,51,0,0,0,0.0,0.0,0.0,1,0,43,49,87.8,10,35,3,0,0,Norwich City,2022-05-22 Norwich City-Tottenham,ENG-EPL,21-22,771ecae9
+2f6ec02a,Kieran Dowell,10,ENG,RM,24-224,60,0,0,0,0,0,0,0,0,25,0,0,0,0.0,0.0,0.0,1,0,18,24,75.0,2,14,0,0,0,Norwich City,2022-05-22 Norwich City-Tottenham,ENG-EPL,21-22,771ecae9
+35be8087,Tony Springett,45,IRL,RM,19-242,30,0,0,0,0,0,0,1,0,2,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,3,1,0,0,Norwich City,2022-05-22 Norwich City-Tottenham,ENG-EPL,21-22,771ecae9
+112c495e,Dimitris Giannoulis,30,GRE,LB,26-217,90,0,0,0,0,0,0,0,0,67,3,3,0,0.0,0.0,0.0,0,0,41,58,70.7,5,33,3,1,0,Norwich City,2022-05-22 Norwich City-Tottenham,ENG-EPL,21-22,771ecae9
+953c30b0,Jakob Sørensen,19,DEN,CB,24-080,90,0,0,0,0,0,0,0,0,58,1,3,1,0.0,0.0,0.0,1,0,36,51,70.6,4,41,0,0,0,Norwich City,2022-05-22 Norwich City-Tottenham,ENG-EPL,21-22,771ecae9
+e9254eec,Grant Hanley,5,SCO,CB,30-183,90,0,0,0,0,1,0,0,0,62,1,2,2,0.0,0.0,0.0,1,0,48,53,90.6,1,39,0,0,0,Norwich City,2022-05-22 Norwich City-Tottenham,ENG-EPL,21-22,771ecae9
+1bf811d4,Sam Byram,3,ENG,CB,28-248,35,0,0,0,0,0,0,1,0,21,1,2,0,0.0,0.0,0.0,0,0,14,17,82.4,0,12,0,0,0,Norwich City,2022-05-22 Norwich City-Tottenham,ENG-EPL,21-22,771ecae9
+2d5f03bf,Christoph Zimmermann,6,GER,CB,29-130,55,0,0,0,0,1,0,0,0,23,2,0,0,0.0,0.0,0.0,0,0,16,18,88.9,1,14,0,0,0,Norwich City,2022-05-22 Norwich City-Tottenham,ENG-EPL,21-22,771ecae9
+774cf58b,Max Aarons,2,ENG,RB,22-138,90,0,0,0,0,1,0,0,0,61,1,0,1,0.0,0.0,0.0,2,0,47,55,85.5,5,44,4,2,2,Norwich City,2022-05-22 Norwich City-Tottenham,ENG-EPL,21-22,771ecae9
+f23f9d20,Tim Krul,1,NED,GK,34-049,90,0,0,0,0,0,0,0,0,41,0,0,0,0.0,0.0,0.0,0,0,23,35,65.7,0,21,0,0,0,Norwich City,2022-05-22 Norwich City-Tottenham,ENG-EPL,21-22,771ecae9
+21a66f6a,Harry Kane,10,ENG,FW,28-298,90,1,1,0,0,7,4,0,0,35,0,0,0,0.6,0.6,0.9,6,2,17,23,73.9,7,29,1,3,2,Tottenham Hotspur,2022-05-22 Norwich City-Tottenham,ENG-EPL,21-22,771ecae9
+92e7e919,Son Heung-min,7,KOR,AM,29-318,90,2,0,0,0,7,5,1,0,40,0,0,2,1.6,1.6,0.1,2,0,23,25,92.0,4,33,6,2,1,Tottenham Hotspur,2022-05-22 Norwich City-Tottenham,ENG-EPL,21-22,771ecae9
+df3cda47,Dejan Kulusevski,21,SWE,AM,22-027,67,2,0,0,0,3,2,0,0,43,1,1,0,0.9,0.9,0.2,6,1,26,33,78.8,1,38,3,6,5,Tottenham Hotspur,2022-05-22 Norwich City-Tottenham,ENG-EPL,21-22,771ecae9
+2b622f01,Lucas Moura,27,BRA,"WB,AM",29-282,23,0,1,0,0,0,0,0,0,20,0,0,1,0.0,0.0,0.6,4,2,12,18,66.7,3,16,0,1,0,Tottenham Hotspur,2022-05-22 Norwich City-Tottenham,ENG-EPL,21-22,771ecae9
+3b8674e6,Rodrigo Bentancur,30,URU,CM,24-331,72,0,2,0,0,0,0,0,0,83,2,3,1,0.0,0.0,1.1,3,2,74,77,96.1,4,72,1,0,0,Tottenham Hotspur,2022-05-22 Norwich City-Tottenham,ENG-EPL,21-22,771ecae9
+2f7acede,Harry Winks,8,ENG,CM,26-109,18,0,0,0,0,0,0,0,0,12,0,0,0,0.0,0.0,0.0,0,0,11,11,100.0,1,9,0,0,0,Tottenham Hotspur,2022-05-22 Norwich City-Tottenham,ENG-EPL,21-22,771ecae9
+8b04d6c1,Pierre Højbjerg,5,DEN,CM,26-290,90,0,0,0,0,1,0,0,0,103,1,0,3,0.2,0.2,0.1,4,1,90,94,95.7,13,87,0,3,2,Tottenham Hotspur,2022-05-22 Norwich City-Tottenham,ENG-EPL,21-22,771ecae9
+6aa3e78b,Ryan Sessegnon,19,ENG,WB,22-004,90,0,0,0,0,0,0,0,0,39,0,0,1,0.0,0.0,0.1,2,0,28,34,82.4,3,27,3,0,0,Tottenham Hotspur,2022-05-22 Norwich City-Tottenham,ENG-EPL,21-22,771ecae9
+df8b52a5,Emerson,12,BRA,WB,23-128,72,0,0,0,0,0,0,0,0,61,2,1,0,0.0,0.0,0.0,1,0,51,56,91.1,2,44,0,1,0,Tottenham Hotspur,2022-05-22 Norwich City-Tottenham,ENG-EPL,21-22,771ecae9
+a29b1131,Steven Bergwijn,23,NED,AM,24-226,18,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.1,1,0,6,7,85.7,0,6,0,1,0,Tottenham Hotspur,2022-05-22 Norwich City-Tottenham,ENG-EPL,21-22,771ecae9
+44781702,Ben Davies,33,WAL,CB,29-028,90,0,0,0,0,1,1,0,0,82,0,1,1,0.0,0.0,0.0,2,0,68,74,91.9,6,65,1,0,0,Tottenham Hotspur,2022-05-22 Norwich City-Tottenham,ENG-EPL,21-22,771ecae9
+ac861941,Eric Dier,15,ENG,CB,28-127,90,0,0,0,0,0,0,0,0,112,1,1,0,0.0,0.0,0.0,1,1,91,104,87.5,3,84,0,0,0,Tottenham Hotspur,2022-05-22 Norwich City-Tottenham,ENG-EPL,21-22,771ecae9
+da7b447d,Davinson Sánchez,6,COL,CB,25-344,90,0,0,0,0,0,0,0,0,75,1,2,0,0.0,0.0,0.0,0,0,58,66,87.9,1,51,0,1,0,Tottenham Hotspur,2022-05-22 Norwich City-Tottenham,ENG-EPL,21-22,771ecae9
+8f62b6ee,Hugo Lloris,1,FRA,GK,35-147,90,0,0,0,0,0,0,0,0,22,0,0,0,0.0,0.0,0.0,0,0,19,22,86.4,0,13,0,0,0,Tottenham Hotspur,2022-05-22 Norwich City-Tottenham,ENG-EPL,21-22,771ecae9

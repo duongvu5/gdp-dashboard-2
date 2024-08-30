@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+f2bf1b0f,Che Adams,10,SCO,FW,24-153,83,1,0,0,0,2,1,0,0,30,0,0,1,0.4,0.4,0.9,5,0,18,23,78.3,3,20,0,1,0,Southampton,2020-12-13 Southampton-Sheffield Utd,ENG-EPL,20-21,9bec56c6
+30040f5d,Dan Nlundulu,40,ENG,FW,21-312,7,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,1,1,0,0,0,Southampton,2020-12-13 Southampton-Sheffield Utd,ENG-EPL,20-21,9bec56c6
+07802f7f,Danny Ings,9,ENG,FW,28-143,90,0,1,0,0,5,2,0,0,36,1,0,1,1.0,1.0,0.1,4,1,15,25,60.0,0,25,2,3,1,Southampton,2020-12-13 Southampton-Sheffield Utd,ENG-EPL,20-21,9bec56c6
+1ecb65be,Theo Walcott,32,ENG,LM,31-272,79,0,0,0,0,0,0,0,0,28,2,1,0,0.0,0.0,0.0,3,0,16,22,72.7,5,24,2,2,2,Southampton,2020-12-13 Southampton-Sheffield Utd,ENG-EPL,20-21,9bec56c6
+ab651565,Nathan Redmond,11,ENG,LM,26-282,11,1,0,0,0,1,1,0,0,9,0,0,0,0.2,0.2,0.0,1,1,6,8,75.0,2,8,2,1,1,Southampton,2020-12-13 Southampton-Sheffield Utd,ENG-EPL,20-21,9bec56c6
+4b511457,Oriol Romeu,6,ESP,CM,29-080,85,0,1,0,0,1,0,0,0,72,5,2,1,0.0,0.0,0.3,2,1,51,58,87.9,0,48,0,1,1,Southampton,2020-12-13 Southampton-Sheffield Utd,ENG-EPL,20-21,9bec56c6
+11ff3d56,Ibrahima Diallo,27,FRA,CM,21-280,5,0,0,0,0,0,0,0,0,13,0,0,0,0.0,0.0,0.0,0,0,12,13,92.3,1,12,0,1,1,Southampton,2020-12-13 Southampton-Sheffield Utd,ENG-EPL,20-21,9bec56c6
+3515d404,James Ward-Prowse,8,ENG,CM,26-042,90,0,0,0,0,2,1,0,0,101,3,0,0,0.1,0.1,0.2,4,0,79,95,83.2,3,61,0,0,0,Southampton,2020-12-13 Southampton-Sheffield Utd,ENG-EPL,20-21,9bec56c6
+97333cf5,Stuart Armstrong,17,SCO,RM,28-258,90,1,0,0,0,2,1,0,0,57,3,0,2,0.1,0.1,0.0,3,1,32,41,78.0,8,41,3,2,1,Southampton,2020-12-13 Southampton-Sheffield Utd,ENG-EPL,20-21,9bec56c6
+01226327,Ryan Bertrand,3,ENG,LB,31-130,90,0,0,0,0,0,0,0,0,65,2,0,1,0.0,0.0,0.0,1,0,49,59,83.1,4,43,4,0,0,Southampton,2020-12-13 Southampton-Sheffield Utd,ENG-EPL,20-21,9bec56c6
+1900032e,Jannik Vestergaard,4,DEN,CB,28-132,90,0,0,0,0,2,0,0,0,95,1,2,0,0.1,0.1,0.0,1,0,75,83,90.4,4,74,0,0,0,Southampton,2020-12-13 Southampton-Sheffield Utd,ENG-EPL,20-21,9bec56c6
+4115ce4e,Jan Bednarek,35,POL,CB,24-245,90,0,1,0,0,0,0,0,0,103,2,2,1,0.0,0.0,0.4,1,1,73,85,85.9,1,73,0,0,0,Southampton,2020-12-13 Southampton-Sheffield Utd,ENG-EPL,20-21,9bec56c6
+984a5a64,Kyle Walker-Peters,2,ENG,RB,23-244,90,0,0,0,0,1,0,0,0,82,2,2,0,0.0,0.0,0.0,3,1,65,75,86.7,3,57,1,2,2,Southampton,2020-12-13 Southampton-Sheffield Utd,ENG-EPL,20-21,9bec56c6
+36c2ca73,Alex McCarthy,1,ENG,GK,31-010,90,0,0,0,0,0,0,0,0,28,0,0,0,0.0,0.0,0.0,0,0,26,28,92.9,0,21,0,0,0,Southampton,2020-12-13 Southampton-Sheffield Utd,ENG-EPL,20-21,9bec56c6
+e8c9f4e9,Billy Sharp,10,ENG,FW,34-312,59,0,0,0,0,0,0,0,0,14,0,0,0,0.0,0.0,0.0,0,0,8,9,88.9,2,6,0,2,1,Sheffield United,2020-12-13 Southampton-Sheffield Utd,ENG-EPL,20-21,9bec56c6
+30e81a88,Rhian Brewster,24,ENG,"LW,FW",20-256,31,0,0,0,0,0,0,0,0,8,0,1,0,0.0,0.0,0.0,0,0,3,5,60.0,0,5,0,1,0,Sheffield United,2020-12-13 Southampton-Sheffield Utd,ENG-EPL,20-21,9bec56c6
+78b8ac63,Oliver McBurnie,9,SCO,FW,24-192,47,0,0,0,0,0,0,0,0,12,0,0,0,0.0,0.0,0.0,0,0,3,10,30.0,2,9,0,1,0,Sheffield United,2020-12-13 Southampton-Sheffield Utd,ENG-EPL,20-21,9bec56c6
+dbe56a33,David McGoldrick,17,IRL,"RW,FW",33-014,43,0,0,0,0,0,0,0,0,19,1,1,0,0.0,0.0,0.1,1,0,11,15,73.3,2,12,1,1,0,Sheffield United,2020-12-13 Southampton-Sheffield Utd,ENG-EPL,20-21,9bec56c6
+b63e789d,John Fleck,4,SCO,"CM,LM",29-111,90,0,0,0,0,0,0,0,0,37,4,2,0,0.0,0.0,0.2,2,0,21,30,70.0,2,16,0,0,0,Sheffield United,2020-12-13 Southampton-Sheffield Utd,ENG-EPL,20-21,9bec56c6
+10b9fa99,Ethan Ampadu,22,WAL,CM,20-090,90,0,0,0,0,0,0,0,0,36,2,4,1,0.0,0.0,0.0,0,0,22,27,81.5,2,23,0,1,1,Sheffield United,2020-12-13 Southampton-Sheffield Utd,ENG-EPL,20-21,9bec56c6
+d0b6129f,Sander Berge,8,NOR,"CM,RM",22-303,90,0,0,0,0,2,0,0,0,32,1,0,0,0.1,0.1,0.0,0,0,17,24,70.8,0,22,1,4,2,Sheffield United,2020-12-13 Southampton-Sheffield Utd,ENG-EPL,20-21,9bec56c6
+17d4507a,Enda Stevens,3,IRL,LB,30-157,90,0,0,0,0,0,0,1,0,53,1,2,2,0.0,0.0,0.1,2,0,32,43,74.4,3,24,1,0,0,Sheffield United,2020-12-13 Southampton-Sheffield Utd,ENG-EPL,20-21,9bec56c6
+3233eefd,Phil Jagielka,15,ENG,CB,38-118,90,0,0,0,0,0,0,0,0,46,3,1,1,0.0,0.0,0.0,0,0,26,33,78.8,5,16,0,0,0,Sheffield United,2020-12-13 Southampton-Sheffield Utd,ENG-EPL,20-21,9bec56c6
+debe38a0,John Egan,12,IRL,CB,28-054,90,0,0,0,0,1,0,0,0,35,0,1,2,0.2,0.2,0.0,0,0,19,22,86.4,4,16,0,0,0,Sheffield United,2020-12-13 Southampton-Sheffield Utd,ENG-EPL,20-21,9bec56c6
+1aa84968,Chris Basham,6,ENG,CB,32-146,69,0,0,0,0,0,0,0,0,27,2,0,2,0.0,0.0,0.0,0,0,11,20,55.0,2,8,0,1,1,Sheffield United,2020-12-13 Southampton-Sheffield Utd,ENG-EPL,20-21,9bec56c6
+d9cfca3d,Lys Mousset,11,FRA,FW,24-309,21,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,5,0,1,0,Sheffield United,2020-12-13 Southampton-Sheffield Utd,ENG-EPL,20-21,9bec56c6
+394854c4,George Baldock,2,GRE,RB,27-279,90,0,0,0,0,0,0,0,0,28,3,1,1,0.0,0.0,0.0,0,0,10,19,52.6,2,8,0,1,0,Sheffield United,2020-12-13 Southampton-Sheffield Utd,ENG-EPL,20-21,9bec56c6
+466fb2c5,Aaron Ramsdale,1,ENG,GK,22-213,90,0,0,0,0,0,0,0,0,41,0,0,0,0.0,0.0,0.0,0,0,17,40,42.5,0,24,0,1,1,Sheffield United,2020-12-13 Southampton-Sheffield Utd,ENG-EPL,20-21,9bec56c6

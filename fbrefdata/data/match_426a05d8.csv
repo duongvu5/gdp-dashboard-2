@@ -1,0 +1,32 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+d3de9af0,Duván Zapata,91,COL,FW,32-247,90,2,0,0,0,2,2,0,0,43,0,0,1,0.7,0.7,0.0,3,0,18,29,62.1,1,34,3,2,1,Torino,2023-12-04 Torino-Atalanta,ITA-SERIA_A,23-24,426a05d8
+0a447501,Antonio Sanabria,9,PAR,FW,27-275,84,1,0,1,1,0,0,0,0,37,1,1,1,0.8,0.0,0.0,1,0,22,28,78.6,5,21,0,2,1,Torino,2023-12-04 Torino-Atalanta,ITA-SERIA_A,23-24,426a05d8
+8b66d9cc,Yann Karamoh,7,FRA,FW,25-149,6,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,1,1,4,6,66.7,0,5,1,0,0,Torino,2023-12-04 Torino-Atalanta,ITA-SERIA_A,23-24,426a05d8
+aa8e289e,Nikola Vlašić,16,CRO,AM,26-061,90,0,2,0,0,1,1,0,0,53,1,0,0,0.0,0.0,0.7,5,3,36,43,83.7,5,36,3,1,0,Torino,2023-12-04 Torino-Atalanta,ITA-SERIA_A,23-24,426a05d8
+bb376bed,Ivan Ilić,8,SRB,CM,22-262,90,0,0,0,0,2,1,0,0,72,1,1,1,0.1,0.1,0.0,2,1,48,61,78.7,8,42,3,4,3,Torino,2023-12-04 Torino-Atalanta,ITA-SERIA_A,23-24,426a05d8
+d023d70f,Karol Linetty,77,POL,CM,28-305,83,0,0,0,0,0,0,1,0,51,3,0,2,0.0,0.0,0.0,2,0,39,43,90.7,2,32,1,3,1,Torino,2023-12-04 Torino-Atalanta,ITA-SERIA_A,23-24,426a05d8
+9823be92,Samuele Ricci,28,ITA,CM,22-105,7,0,0,0,0,0,0,0,0,12,0,0,0,0.0,0.0,0.0,0,0,10,10,100.0,1,8,0,0,0,Torino,2023-12-04 Torino-Atalanta,ITA-SERIA_A,23-24,426a05d8
+be2706c0,Mërgim Vojvoda,27,KVX,WB,28-306,90,0,0,0,0,1,0,0,0,64,2,1,1,0.0,0.0,0.0,1,0,44,59,74.6,5,40,2,1,1,Torino,2023-12-04 Torino-Atalanta,ITA-SERIA_A,23-24,426a05d8
+e3756e72,Raoul Bellanova,19,ITA,WB,23-201,89,0,0,0,0,1,0,0,0,71,0,0,0,0.0,0.0,0.0,0,0,47,62,75.8,1,48,6,6,3,Torino,2023-12-04 Torino-Atalanta,ITA-SERIA_A,23-24,426a05d8
+933d3b51,Koffi Djidji,26,CIV,WB,31-004,1,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,0,0,0,0,Torino,2023-12-04 Torino-Atalanta,ITA-SERIA_A,23-24,426a05d8
+7f78ad23,Ricardo Rodríguez,13,SUI,CB,31-101,90,0,0,0,0,0,0,0,0,49,3,1,0,0.0,0.0,0.0,1,0,35,40,87.5,2,30,1,0,0,Torino,2023-12-04 Torino-Atalanta,ITA-SERIA_A,23-24,426a05d8
+4ae67f27,Alessandro Buongiorno,4,ITA,CB,24-181,90,0,0,0,0,0,0,1,0,50,2,3,2,0.0,0.0,0.0,1,1,29,38,76.3,1,27,0,0,0,Torino,2023-12-04 Torino-Atalanta,ITA-SERIA_A,23-24,426a05d8
+8da74c05,Adrien Tameze,61,CMR,CB,29-303,90,0,0,0,0,1,0,0,0,72,1,3,0,0.0,0.0,0.0,0,0,55,61,90.2,5,46,0,1,0,Torino,2023-12-04 Torino-Atalanta,ITA-SERIA_A,23-24,426a05d8
+9fa26bc2,Vanja Milinković-Savić,32,SRB,GK,26-287,90,0,0,0,0,0,0,0,0,44,0,0,0,0.0,0.0,0.0,0,0,20,41,48.8,0,32,0,0,0,Torino,2023-12-04 Torino-Atalanta,ITA-SERIA_A,23-24,426a05d8
+2ef7c612,Charles De Ketelaere,17,BEL,FW,22-269,57,0,0,0,0,1,1,0,0,28,0,0,0,0.1,0.1,0.0,1,0,10,14,71.4,2,21,0,2,2,Atalanta,2023-12-04 Torino-Atalanta,ITA-SERIA_A,23-24,426a05d8
+e599253a,Mario Pašalić,8,CRO,FW,28-298,33,0,0,0,0,1,1,0,0,13,0,0,0,0.1,0.1,0.1,2,0,8,12,66.7,1,8,0,0,0,Atalanta,2023-12-04 Torino-Atalanta,ITA-SERIA_A,23-24,426a05d8
+7c104bb7,Ademola Lookman,11,NGA,AM,26-045,45,0,0,0,0,0,0,0,0,21,0,0,1,0.0,0.0,0.1,2,0,12,15,80.0,1,14,0,1,0,Atalanta,2023-12-04 Torino-Atalanta,ITA-SERIA_A,23-24,426a05d8
+eb2fe5b6,Luis Muriel,9,COL,AM,32-232,45,0,0,0,0,2,0,0,0,27,0,0,0,0.0,0.0,0.0,0,0,14,21,66.7,3,21,3,1,1,Atalanta,2023-12-04 Torino-Atalanta,ITA-SERIA_A,23-24,426a05d8
+a9aa0d1d,Aleksei Miranchuk,59,RUS,AM,28-048,89,0,0,0,0,1,1,0,0,38,0,0,0,0.1,0.1,0.0,4,0,26,31,83.9,2,23,1,2,0,Atalanta,2023-12-04 Torino-Atalanta,ITA-SERIA_A,23-24,426a05d8
+599d91d0,Michel Ndary Adopo,25,FRA,AM,23-138,1,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,2,0,0,0,Atalanta,2023-12-04 Torino-Atalanta,ITA-SERIA_A,23-24,426a05d8
+a26fb8aa,Teun Koopmeiners,7,NED,CM,25-279,90,0,0,0,0,2,0,0,0,74,5,2,0,0.0,0.0,0.1,1,0,51,62,82.3,9,54,3,0,0,Atalanta,2023-12-04 Torino-Atalanta,ITA-SERIA_A,23-24,426a05d8
+a9202def,Éderson,13,BRA,CM,24-150,90,0,0,0,0,1,1,0,0,54,3,0,2,0.0,0.0,0.0,1,0,32,44,72.7,5,34,0,0,0,Atalanta,2023-12-04 Torino-Atalanta,ITA-SERIA_A,23-24,426a05d8
+ae9898c5,Matteo Ruggeri,22,ITA,"CB,WB",21-146,90,0,0,0,0,1,0,0,0,61,3,3,0,0.0,0.0,0.0,2,0,43,49,87.8,1,33,0,1,0,Atalanta,2023-12-04 Torino-Atalanta,ITA-SERIA_A,23-24,426a05d8
+3b333ac3,Hans Hateboer,33,NED,WB,29-329,45,0,0,0,0,1,0,0,0,21,0,0,1,0.0,0.0,0.0,1,0,15,18,83.3,0,9,1,1,1,Atalanta,2023-12-04 Torino-Atalanta,ITA-SERIA_A,23-24,426a05d8
+c2357b65,Emil Holm,3,SWE,WB,23-205,45,0,0,0,0,0,0,0,0,32,0,1,2,0.0,0.0,0.0,1,0,13,24,54.2,1,16,4,2,0,Atalanta,2023-12-04 Torino-Atalanta,ITA-SERIA_A,23-24,426a05d8
+6eee05f1,Berat Djimsiti,19,ALB,CB,30-288,18,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,1,0,0,0,Atalanta,2023-12-04 Torino-Atalanta,ITA-SERIA_A,23-24,426a05d8
+a8567629,Mitchel Bakker,20,NED,WB,23-167,72,0,0,0,0,0,0,0,0,32,0,0,0,0.0,0.0,0.0,0,0,21,29,72.4,0,16,2,1,1,Atalanta,2023-12-04 Torino-Atalanta,ITA-SERIA_A,23-24,426a05d8
+2a1beb34,Marten de Roon,15,NED,CB,32-250,90,0,0,0,0,0,0,1,0,57,2,3,1,0.0,0.0,0.0,3,0,39,48,81.3,4,33,1,0,0,Atalanta,2023-12-04 Torino-Atalanta,ITA-SERIA_A,23-24,426a05d8
+1e9aa637,Giorgio Scalvini,42,ITA,CB,19-358,90,0,0,0,0,0,0,1,0,66,3,4,0,0.0,0.0,0.0,1,0,34,46,73.9,3,26,1,0,0,Atalanta,2023-12-04 Torino-Atalanta,ITA-SERIA_A,23-24,426a05d8
+a111cf41,Juan Musso,1,ARG,GK,29-212,90,0,0,0,0,0,0,0,0,28,0,0,0,0.0,0.0,0.0,0,0,19,26,73.1,0,20,0,0,0,Atalanta,2023-12-04 Torino-Atalanta,ITA-SERIA_A,23-24,426a05d8

@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+0bc4e720,Manu Vallejo,21,ESP,FW,23-288,70,0,0,0,0,0,0,0,0,24,1,1,1,0.0,0.0,0.0,0,0,7,12,58.3,1,12,0,0,0,Valencia,2020-11-28 Valencia-Atlético Madrid,ESP-LALIGA,20-21,a9d485ac
+19b776e9,Rubén Sobrino,11,ESP,FW,28-180,20,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,2,5,40.0,0,5,0,0,0,Valencia,2020-11-28 Valencia-Atlético Madrid,ESP-LALIGA,20-21,a9d485ac
+4c2e9442,Maxi Gómez,22,URU,FW,24-106,69,0,0,0,0,1,0,0,0,14,1,0,1,0.0,0.0,0.0,0,0,7,9,77.8,1,5,0,0,0,Valencia,2020-11-28 Valencia-Atlético Madrid,ESP-LALIGA,20-21,a9d485ac
+42276181,Kévin Gameiro,9,FRA,FW,33-203,21,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,1,0,1,1,Valencia,2020-11-28 Valencia-Atlético Madrid,ESP-LALIGA,20-21,a9d485ac
+e6bc67d7,Gonçalo Guedes,7,POR,LM,23-365,90,0,0,0,0,1,0,0,0,37,0,1,1,0.0,0.0,0.0,1,0,18,26,69.2,3,28,5,7,4,Valencia,2020-11-28 Valencia-Atlético Madrid,ESP-LALIGA,20-21,a9d485ac
+faed84db,Uroš Račić,19,SRB,CM,22-256,90,0,0,0,0,1,1,1,0,49,1,1,2,0.1,0.1,0.0,1,0,28,34,82.4,6,24,0,1,1,Valencia,2020-11-28 Valencia-Atlético Madrid,ESP-LALIGA,20-21,a9d485ac
+fed17f5a,Carlos Soler,8,ESP,CM,23-331,90,0,0,0,0,1,1,0,0,43,1,1,2,0.1,0.1,0.1,2,0,25,33,75.8,2,24,1,1,0,Valencia,2020-11-28 Valencia-Atlético Madrid,ESP-LALIGA,20-21,a9d485ac
+b51b1b9c,Yunus Musah,30,USA,RM,17-365,70,0,0,0,0,1,0,0,0,19,0,0,1,0.0,0.0,0.0,1,0,10,11,90.9,2,13,0,2,0,Valencia,2020-11-28 Valencia-Atlético Madrid,ESP-LALIGA,20-21,a9d485ac
+c78b352d,Thierry Correia,2,POR,"RM,RB",21-264,20,0,0,0,0,0,0,0,0,18,1,1,0,0.0,0.0,0.0,0,0,7,13,53.8,0,10,0,0,0,Valencia,2020-11-28 Valencia-Atlético Madrid,ESP-LALIGA,20-21,a9d485ac
+8e088e04,Toni Lato,3,ESP,LB,23-007,90,0,0,0,0,0,0,0,0,47,2,3,0,0.0,0.0,0.0,0,0,26,40,65.0,0,21,1,0,0,Valencia,2020-11-28 Valencia-Atlético Madrid,ESP-LALIGA,20-21,a9d485ac
+f7c12fbf,Hugo Guillamón,15,ESP,CB,20-302,56,0,0,0,0,0,0,1,0,36,0,2,1,0.0,0.0,0.0,0,0,26,30,86.7,1,24,0,0,0,Valencia,2020-11-28 Valencia-Atlético Madrid,ESP-LALIGA,20-21,a9d485ac
+f520049f,Eliaquim Mangala,4,FRA,CB,29-289,34,0,0,0,0,0,0,0,0,15,0,0,1,0.0,0.0,0.0,0,0,12,13,92.3,0,8,0,0,0,Valencia,2020-11-28 Valencia-Atlético Madrid,ESP-LALIGA,20-21,a9d485ac
+b7ca5c51,Gabriel Paulista,5,BRA,CB,30-002,90,0,0,0,0,0,0,0,0,54,0,4,0,0.0,0.0,0.0,0,0,39,46,84.8,2,36,0,0,0,Valencia,2020-11-28 Valencia-Atlético Madrid,ESP-LALIGA,20-21,a9d485ac
+d83bbc54,Daniel Wass,18,DEN,RB,31-181,83,0,0,0,0,0,0,0,0,57,1,2,1,0.0,0.0,0.0,2,0,32,45,71.1,2,32,4,1,1,Valencia,2020-11-28 Valencia-Atlético Madrid,ESP-LALIGA,20-21,a9d485ac
+9038c2a1,Jason,23,ESP,RM,26-145,7,0,0,0,0,0,0,0,0,5,0,1,0,0.0,0.0,0.0,1,0,3,3,100.0,0,6,1,1,0,Valencia,2020-11-28 Valencia-Atlético Madrid,ESP-LALIGA,20-21,a9d485ac
+c9cb972b,Jaume Doménech,1,ESP,GK,30-023,90,0,0,0,0,0,0,0,0,38,0,0,0,0.0,0.0,0.0,0,0,15,34,44.1,0,16,0,0,0,Valencia,2020-11-28 Valencia-Atlético Madrid,ESP-LALIGA,20-21,a9d485ac
+01eb744d,Ángel Correa,10,ARG,FW,25-264,64,0,0,0,0,2,2,1,0,42,0,0,1,0.1,0.1,0.1,4,0,24,35,68.6,2,22,1,1,0,Atlético Madrid,2020-11-28 Valencia-Atlético Madrid,ESP-LALIGA,20-21,a9d485ac
+db750822,Vitolo,20,ESP,FW,31-026,26,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,5,6,83.3,0,2,0,0,0,Atlético Madrid,2020-11-28 Valencia-Atlético Madrid,ESP-LALIGA,20-21,a9d485ac
+4dbd0916,Thomas Lemar,11,FRA,"AM,LM",25-016,64,0,0,0,0,4,2,0,0,53,1,0,1,0.3,0.3,0.1,5,0,38,45,84.4,3,31,1,2,2,Atlético Madrid,2020-11-28 Valencia-Atlético Madrid,ESP-LALIGA,20-21,a9d485ac
+cce181df,Geoffrey Kondogbia,4,CTA,CM,27-287,26,0,0,0,0,0,0,0,0,29,2,1,0,0.0,0.0,0.0,0,0,18,24,75.0,0,8,0,0,0,Atlético Madrid,2020-11-28 Valencia-Atlético Madrid,ESP-LALIGA,20-21,a9d485ac
+02c15616,Marcos Llorente,14,ESP,"RM,AM",25-303,90,0,0,0,0,2,1,1,0,52,5,0,0,0.1,0.1,0.0,3,0,33,40,82.5,3,23,2,2,1,Atlético Madrid,2020-11-28 Valencia-Atlético Madrid,ESP-LALIGA,20-21,a9d485ac
+c14bc029,Saúl Ñíguez,8,ESP,CM,26-007,59,0,0,0,0,1,0,1,0,52,1,0,1,0.0,0.0,0.0,0,0,44,48,91.7,5,30,0,1,1,Atlético Madrid,2020-11-28 Valencia-Atlético Madrid,ESP-LALIGA,20-21,a9d485ac
+de39485a,Yannick Carrasco,21,BEL,"LM,CM",27-085,31,0,0,0,0,0,0,0,0,30,0,1,0,0.0,0.0,0.0,2,0,21,27,77.8,0,22,7,3,3,Atlético Madrid,2020-11-28 Valencia-Atlético Madrid,ESP-LALIGA,20-21,a9d485ac
+55126f3b,Koke,6,ESP,CM,28-325,90,0,0,0,0,0,0,1,0,99,1,0,1,0.0,0.0,0.0,1,0,87,96,90.6,9,44,0,0,0,Atlético Madrid,2020-11-28 Valencia-Atlético Madrid,ESP-LALIGA,20-21,a9d485ac
+ed9f7cfe,Renan Lodi,12,BRA,WB,22-234,45,0,0,0,0,0,0,0,0,39,2,0,1,0.0,0.0,0.0,1,0,28,33,84.8,1,22,2,2,1,Atlético Madrid,2020-11-28 Valencia-Atlético Madrid,ESP-LALIGA,20-21,a9d485ac
+8aafd64f,João Félix,7,POR,FW,21-018,45,0,0,0,0,2,0,1,0,29,1,0,0,0.1,0.1,0.0,1,0,19,22,86.4,3,22,3,0,0,Atlético Madrid,2020-11-28 Valencia-Atlético Madrid,ESP-LALIGA,20-21,a9d485ac
+21512407,Kieran Trippier,23,ENG,"RB,WB",30-070,90,0,0,0,0,0,0,0,0,89,1,1,1,0.0,0.0,0.2,6,0,64,80,80.0,8,38,1,2,1,Atlético Madrid,2020-11-28 Valencia-Atlético Madrid,ESP-LALIGA,20-21,a9d485ac
+555f3a0b,Mario Hermoso,22,ESP,"LB,CB",25-163,90,0,0,0,0,0,0,0,0,110,0,3,1,0.0,0.0,0.0,1,0,90,102,88.2,13,54,1,0,0,Atlético Madrid,2020-11-28 Valencia-Atlético Madrid,ESP-LALIGA,20-21,a9d485ac
+f0da930c,José María Giménez,2,URU,CB,25-313,90,0,0,0,0,2,0,0,0,58,1,1,0,0.2,0.2,0.0,1,0,47,53,88.7,2,31,0,0,0,Atlético Madrid,2020-11-28 Valencia-Atlético Madrid,ESP-LALIGA,20-21,a9d485ac
+f6ac68c1,Stefan Savić,15,MNE,CB,29-325,90,0,0,0,0,1,0,0,0,73,2,1,3,0.1,0.1,0.0,1,0,54,65,83.1,6,40,0,0,0,Atlético Madrid,2020-11-28 Valencia-Atlético Madrid,ESP-LALIGA,20-21,a9d485ac
+ee8508c0,Jan Oblak,13,SVN,GK,27-326,90,0,0,0,0,0,0,0,0,21,0,0,0,0.0,0.0,0.0,0,0,9,20,45.0,0,8,0,0,0,Atlético Madrid,2020-11-28 Valencia-Atlético Madrid,ESP-LALIGA,20-21,a9d485ac

@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+45af8a54,Marco Asensio,11,ESP,"FW,RW",27-112,90,1,0,0,0,7,3,0,0,57,0,0,0,0.5,0.5,0.0,6,1,39,46,84.8,7,34,1,2,1,Real Madrid,2023-05-13 Real Madrid-Getafe,ESP-LALIGA,22-23,df985b56
+a39bb753,Eden Hazard,7,BEL,LW,32-126,60,0,0,0,0,0,0,0,0,25,0,1,1,0.0,0.0,0.0,2,0,19,20,95.0,4,17,0,1,0,Real Madrid,2023-05-13 Real Madrid-Getafe,ESP-LALIGA,22-23,df985b56
+7111d552,Vinicius Júnior,20,BRA,LW,22-305,30,0,0,0,0,0,0,0,0,25,0,0,0,0.0,0.0,0.0,2,0,17,20,85.0,1,16,2,2,2,Real Madrid,2023-05-13 Real Madrid-Getafe,ESP-LALIGA,22-23,df985b56
+0959c2a2,Federico Valverde,15,URU,RW,24-295,60,0,0,0,0,1,0,0,0,42,0,0,1,0.1,0.1,0.0,0,0,33,39,84.6,2,23,0,0,0,Real Madrid,2023-05-13 Real Madrid-Getafe,ESP-LALIGA,22-23,df985b56
+6025fab1,Luka Modrić,10,CRO,RM,37-246,30,0,0,0,0,2,0,0,0,54,0,0,0,0.1,0.1,0.1,2,0,46,51,90.2,3,37,0,0,0,Real Madrid,2023-05-13 Real Madrid-Getafe,ESP-LALIGA,22-23,df985b56
+7b9c2d84,Eduardo Camavinga,12,FRA,"LM,LB",20-184,83,0,0,0,0,1,0,1,0,77,1,2,0,0.0,0.0,0.0,3,0,53,63,84.1,7,54,4,4,0,Real Madrid,2023-05-13 Real Madrid-Getafe,ESP-LALIGA,22-23,df985b56
+1d1691ad,Álvaro Odriozola,16,ESP,LB,27-150,7,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,8,8,100.0,0,5,0,1,0,Real Madrid,2023-05-13 Real Madrid-Getafe,ESP-LALIGA,22-23,df985b56
+4f255115,Aurélien Tchouaméni,18,FRA,CM,23-106,90,0,0,0,0,2,0,0,0,109,4,2,1,0.1,0.1,0.1,3,0,92,96,95.8,5,67,1,3,3,Real Madrid,2023-05-13 Real Madrid-Getafe,ESP-LALIGA,22-23,df985b56
+c0617e2b,Dani Ceballos,19,ESP,RM,26-279,60,0,0,0,0,2,0,0,0,55,1,0,1,0.0,0.0,0.0,0,0,45,51,88.2,5,45,1,1,1,Real Madrid,2023-05-13 Real Madrid-Getafe,ESP-LALIGA,22-23,df985b56
+5c4dc0ff,Mariano,24,DOM,FW,29-285,30,0,0,0,0,1,0,0,0,16,0,0,0,0.1,0.1,0.0,0,0,12,16,75.0,1,9,0,0,0,Real Madrid,2023-05-13 Real Madrid-Getafe,ESP-LALIGA,22-23,df985b56
+3cefcaef,Ferland Mendy,23,FRA,LB,27-339,45,0,0,0,0,0,0,0,0,35,2,1,0,0.0,0.0,0.0,1,0,29,31,93.5,3,19,0,1,1,Real Madrid,2023-05-13 Real Madrid-Getafe,ESP-LALIGA,22-23,df985b56
+6ce1f46f,Toni Kroos,8,GER,LM,33-129,45,0,0,0,0,0,0,0,0,68,1,1,0,0.0,0.0,0.2,1,0,61,66,92.4,9,47,2,1,0,Real Madrid,2023-05-13 Real Madrid-Getafe,ESP-LALIGA,22-23,df985b56
+2946f9a1,Nacho,6,ESP,CB,33-115,90,0,0,0,0,0,0,0,0,110,1,0,1,0.0,0.0,0.0,2,0,99,105,94.3,9,69,1,0,0,Real Madrid,2023-05-13 Real Madrid-Getafe,ESP-LALIGA,22-23,df985b56
+2784f898,Éder Militão,3,BRA,CB,25-115,90,0,0,0,0,0,0,0,0,130,2,2,1,0.0,0.0,0.0,0,0,109,124,87.9,7,79,0,2,1,Real Madrid,2023-05-13 Real Madrid-Getafe,ESP-LALIGA,22-23,df985b56
+fd51b456,Lucas Vázquez,17,ESP,RB,31-316,90,0,1,0,0,0,0,0,0,90,0,0,0,0.0,0.0,0.1,7,1,78,88,88.6,3,66,2,3,3,Real Madrid,2023-05-13 Real Madrid-Getafe,ESP-LALIGA,22-23,df985b56
+1840e36d,Thibaut Courtois,1,BEL,GK,31-002,90,0,0,0,0,0,0,0,0,56,0,0,0,0.0,0.0,0.0,0,0,48,54,88.9,0,39,0,0,0,Real Madrid,2023-05-13 Real Madrid-Getafe,ESP-LALIGA,22-23,df985b56
+64e8ed6d,Borja Mayoral,19,ESP,FW,26-038,64,0,0,0,0,1,0,0,0,21,0,0,0,0.3,0.3,0.0,1,0,15,17,88.2,1,20,1,2,0,Getafe,2023-05-13 Real Madrid-Getafe,ESP-LALIGA,22-23,df985b56
+acc1aefa,Ángel Algobia,16,ESP,"CM,LM,FW",23-324,26,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,1,0,4,5,80.0,0,3,0,0,0,Getafe,2023-05-13 Real Madrid-Getafe,ESP-LALIGA,22-23,df985b56
+02319ad7,Jaime Mata,7,ESP,LW,34-201,65,0,0,0,0,0,0,1,0,29,0,1,2,0.0,0.0,0.1,2,0,11,21,52.4,1,19,1,0,0,Getafe,2023-05-13 Real Madrid-Getafe,ESP-LALIGA,22-23,df985b56
+fdd26d71,Fabrizio Angileri,3,ARG,"LB,LW",29-059,25,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,0,0,7,10,70.0,0,7,0,1,1,Getafe,2023-05-13 Real Madrid-Getafe,ESP-LALIGA,22-23,df985b56
+1bda5842,Portu,9,ESP,RW,30-357,64,0,0,0,0,0,0,0,0,20,0,1,2,0.0,0.0,0.2,2,0,9,15,60.0,0,14,2,0,0,Getafe,2023-05-13 Real Madrid-Getafe,ESP-LALIGA,22-23,df985b56
+8696bc90,Munir El Haddadi,17,MAR,"FW,RW",27-254,26,0,0,0,0,1,1,0,0,3,0,0,0,0.0,0.0,0.0,1,0,1,1,100.0,0,3,0,1,1,Getafe,2023-05-13 Real Madrid-Getafe,ESP-LALIGA,22-23,df985b56
+00b28772,Nemanja Maksimović,20,SRB,"LM,LW",28-107,90,0,0,0,0,1,0,0,0,24,1,0,2,0.0,0.0,0.0,0,0,15,18,83.3,2,14,1,0,0,Getafe,2023-05-13 Real Madrid-Getafe,ESP-LALIGA,22-23,df985b56
+a4971d84,Djené,2,TOG,"CM,RB",31-133,90,0,0,0,0,0,0,0,0,37,2,3,0,0.0,0.0,0.0,1,0,22,26,84.6,2,20,0,2,1,Getafe,2023-05-13 Real Madrid-Getafe,ESP-LALIGA,22-23,df985b56
+6c811eb7,Carles Aleñá,11,ESP,"RM,CM",25-128,73,0,0,0,0,2,0,0,0,33,0,0,0,0.2,0.2,0.3,2,0,19,30,63.3,2,22,1,1,1,Getafe,2023-05-13 Real Madrid-Getafe,ESP-LALIGA,22-23,df985b56
+a62b4888,Jaime Seoane,8,ESP,RW,26-111,17,0,0,0,0,0,0,1,0,6,0,0,1,0.0,0.0,0.0,0,0,3,4,75.0,0,3,1,0,0,Getafe,2023-05-13 Real Madrid-Getafe,ESP-LALIGA,22-23,df985b56
+852ddfb8,Gastón Álvarez,4,URU,"LB,CM,CB",23-050,83,0,0,0,0,1,0,0,0,30,0,0,2,0.0,0.0,0.0,1,0,17,24,70.8,1,11,1,0,0,Getafe,2023-05-13 Real Madrid-Getafe,ESP-LALIGA,22-23,df985b56
+22721b88,Jordan Amavi,12,FRA,LW,29-065,7,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,1,0,0,0,Getafe,2023-05-13 Real Madrid-Getafe,ESP-LALIGA,22-23,df985b56
+bb08bce9,Omar Alderete,15,PAR,CB,26-138,90,0,0,0,0,0,0,1,0,43,2,1,1,0.0,0.0,0.0,2,0,22,35,62.9,7,24,0,1,1,Getafe,2023-05-13 Real Madrid-Getafe,ESP-LALIGA,22-23,df985b56
+e6777e6b,Stefan Mitrović,23,SRB,CB,32-356,90,0,0,0,0,0,0,0,0,27,2,1,3,0.0,0.0,0.0,1,0,15,19,78.9,0,16,0,0,0,Getafe,2023-05-13 Real Madrid-Getafe,ESP-LALIGA,22-23,df985b56
+974322dc,Iglesias,21,ESP,"RB,RM",24-314,90,0,0,0,0,3,1,1,0,48,3,2,2,0.1,0.1,0.0,1,0,27,35,77.1,3,22,1,1,1,Getafe,2023-05-13 Real Madrid-Getafe,ESP-LALIGA,22-23,df985b56
+8f8c6934,David Soria,13,ESP,GK,30-039,90,0,0,0,0,0,0,0,0,25,0,0,0,0.0,0.0,0.0,0,0,8,25,32.0,0,11,0,0,0,Getafe,2023-05-13 Real Madrid-Getafe,ESP-LALIGA,22-23,df985b56

@@ -1,0 +1,32 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+2a9f6b4d,Ferran Jutglà,29,ESP,FW,22-320,71,1,0,0,0,4,3,0,0,31,0,0,0,1.0,1.0,0.0,1,0,19,23,82.6,0,11,2,2,1,Barcelona,2021-12-18 Barcelona-Elche,ESP-LALIGA,21-22,611e1be5
+2c56a792,Nicolás González,28,ESP,FW,19-349,19,1,0,0,0,3,2,0,0,19,0,0,0,0.3,0.3,0.0,1,0,10,14,71.4,1,12,1,1,1,Barcelona,2021-12-18 Barcelona-Elche,ESP-LALIGA,21-22,611e1be5
+bed68338,Abde Ezzalzouli,33,MAR,LW,20-001,88,0,0,0,0,4,0,0,0,51,1,2,0,0.1,0.1,0.5,4,0,35,38,92.1,3,39,8,9,7,Barcelona,2021-12-18 Barcelona-Elche,ESP-LALIGA,21-22,611e1be5
+5ccc9672,Alejandro Balde,31,ESP,LW,18-061,2,0,0,0,0,0,0,0,0,4,1,0,0,0.0,0.0,0.0,1,0,3,3,100.0,0,5,0,0,0,Barcelona,2021-12-18 Barcelona-Elche,ESP-LALIGA,21-22,611e1be5
+b19db005,Ousmane Dembélé,7,FRA,RW,24-217,90,0,1,0,0,1,0,0,0,62,0,0,1,0.1,0.1,0.7,6,2,33,48,68.8,7,45,7,3,2,Barcelona,2021-12-18 Barcelona-Elche,ESP-LALIGA,21-22,611e1be5
+19cae58d,Gavi,30,ESP,AM,17-135,90,1,1,0,0,4,1,0,0,77,1,1,3,0.7,0.7,0.2,6,2,61,65,93.8,8,57,5,3,2,Barcelona,2021-12-18 Barcelona-Elche,ESP-LALIGA,21-22,611e1be5
+4601e194,Jordi Alba,18,ESP,LM,32-272,90,0,0,0,0,1,0,0,0,111,1,1,1,0.0,0.0,0.1,6,0,84,102,82.4,9,47,1,1,0,Barcelona,2021-12-18 Barcelona-Elche,ESP-LALIGA,21-22,611e1be5
+1bacc518,Frenkie de Jong,21,NED,RM,24-220,75,0,0,0,0,1,1,0,0,49,0,1,0,0.4,0.4,0.0,1,0,40,47,85.1,0,24,0,0,0,Barcelona,2021-12-18 Barcelona-Elche,ESP-LALIGA,21-22,611e1be5
+f090a37a,Riqui Puig,6,ESP,RM,22-127,15,0,0,0,0,0,0,0,0,15,0,0,0,0.0,0.0,0.0,0,0,12,14,85.7,2,8,0,0,0,Barcelona,2021-12-18 Barcelona-Elche,ESP-LALIGA,21-22,611e1be5
+5ab0ea87,Sergio Busquets,5,ESP,DM,33-155,90,0,0,0,0,1,0,0,0,88,2,0,1,0.0,0.0,0.0,2,0,75,83,90.4,8,31,0,0,0,Barcelona,2021-12-18 Barcelona-Elche,ESP-LALIGA,21-22,611e1be5
+4f28a6ff,Clément Lenglet,15,FRA,CB,26-184,90,0,1,0,0,0,0,0,0,106,5,0,1,0.0,0.0,0.2,1,1,85,97,87.6,7,67,4,0,0,Barcelona,2021-12-18 Barcelona-Elche,ESP-LALIGA,21-22,611e1be5
+2bed3eab,Eric García,24,ESP,CB,20-343,90,0,0,0,0,0,0,1,0,108,0,4,0,0.0,0.0,0.0,3,0,99,103,96.1,8,83,3,0,0,Barcelona,2021-12-18 Barcelona-Elche,ESP-LALIGA,21-22,611e1be5
+2bef2bca,Ronald Araújo,4,URU,CB,22-286,90,0,0,0,0,0,0,0,0,78,3,0,1,0.0,0.0,0.0,1,0,67,72,93.1,6,43,2,2,2,Barcelona,2021-12-18 Barcelona-Elche,ESP-LALIGA,21-22,611e1be5
+6f51e382,Marc-André ter Stegen,1,GER,GK,29-232,90,0,0,0,0,0,0,0,0,36,0,0,0,0.0,0.0,0.0,0,0,35,36,97.2,0,20,0,0,0,Barcelona,2021-12-18 Barcelona-Elche,ESP-LALIGA,21-22,611e1be5
+d49f3e6b,Lucas Boyé,9,ARG,FW,25-293,90,0,1,0,0,1,1,0,0,33,0,0,3,0.2,0.2,0.1,3,2,11,17,64.7,1,26,1,7,6,Elche,2021-12-18 Barcelona-Elche,ESP-LALIGA,21-22,611e1be5
+a300ac7e,Lucas Pérez,12,ESP,FW,33-099,90,0,0,0,0,1,0,0,0,22,0,1,0,0.2,0.2,0.7,1,0,12,18,66.7,2,11,2,0,0,Elche,2021-12-18 Barcelona-Elche,ESP-LALIGA,21-22,611e1be5
+eb82b6f1,Fidel,16,ESP,LM,32-052,58,0,0,0,0,0,0,0,0,33,4,0,1,0.0,0.0,0.0,1,0,18,25,72.0,4,19,1,0,0,Elche,2021-12-18 Barcelona-Elche,ESP-LALIGA,21-22,611e1be5
+335039a2,Pere Milla,10,ESP,LM,29-086,32,1,0,0,0,1,1,1,0,9,0,0,0,0.1,0.1,0.0,0,0,4,5,80.0,1,7,0,1,1,Elche,2021-12-18 Barcelona-Elche,ESP-LALIGA,21-22,611e1be5
+11fd2b75,Omar Mascarell,21,EQG,CM,28-319,59,0,0,0,0,0,0,0,0,18,0,1,2,0.0,0.0,0.0,0,0,10,12,83.3,0,8,0,0,0,Elche,2021-12-18 Barcelona-Elche,ESP-LALIGA,21-22,611e1be5
+0b2c8585,Raúl Guti,8,ESP,CM,24-353,31,0,0,0,0,0,0,0,0,10,0,1,0,0.0,0.0,0.0,0,0,5,8,62.5,0,7,0,0,0,Elche,2021-12-18 Barcelona-Elche,ESP-LALIGA,21-22,611e1be5
+b14f755d,Iván Marcone,23,ARG,CM,31-198,45,0,0,0,0,0,0,0,0,20,0,0,1,0.0,0.0,0.0,0,0,12,16,75.0,0,8,0,0,0,Elche,2021-12-18 Barcelona-Elche,ESP-LALIGA,21-22,611e1be5
+ac454a4f,Gerard Gumbau,2,ESP,CM,27-000,45,0,0,0,0,0,0,1,0,14,0,2,1,0.0,0.0,0.0,1,1,9,10,90.0,2,9,0,0,0,Elche,2021-12-18 Barcelona-Elche,ESP-LALIGA,21-22,611e1be5
+5b28b2f6,Josan,17,ESP,RM,32-015,45,0,0,0,0,0,0,0,0,22,3,0,0,0.0,0.0,0.0,0,0,12,17,70.6,1,13,0,4,2,Elche,2021-12-18 Barcelona-Elche,ESP-LALIGA,21-22,611e1be5
+004d185e,Tete Morente,11,ESP,RM,25-014,45,1,1,0,0,1,1,0,0,17,0,1,2,0.1,0.1,0.3,2,1,5,8,62.5,1,12,3,2,1,Elche,2021-12-18 Barcelona-Elche,ESP-LALIGA,21-22,611e1be5
+608f2092,Johan Mojica,22,COL,LB,29-119,82,0,0,0,0,0,0,0,0,50,0,0,1,0.0,0.0,0.0,0,0,31,42,73.8,3,28,3,2,1,Elche,2021-12-18 Barcelona-Elche,ESP-LALIGA,21-22,611e1be5
+ed3f5f4c,Josema,24,ESP,LB,25-195,8,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,0,0,0,0,Elche,2021-12-18 Barcelona-Elche,ESP-LALIGA,21-22,611e1be5
+4ac7608e,Diego González,4,ESP,CB,26-324,90,0,0,0,0,0,0,0,0,36,2,0,0,0.0,0.0,0.0,0,0,19,24,79.2,0,18,0,0,0,Elche,2021-12-18 Barcelona-Elche,ESP-LALIGA,21-22,611e1be5
+37f827ec,Enzo Roco,3,CHI,CB,29-124,90,0,0,0,0,1,0,1,0,34,1,0,4,0.7,0.7,0.0,0,0,18,25,72.0,0,19,0,1,0,Elche,2021-12-18 Barcelona-Elche,ESP-LALIGA,21-22,611e1be5
+ac8b2421,Helibelton Palacios,14,COL,RB,28-190,90,0,0,0,0,0,0,0,0,43,7,1,1,0.0,0.0,0.0,0,0,18,30,60.0,0,15,0,0,0,Elche,2021-12-18 Barcelona-Elche,ESP-LALIGA,21-22,611e1be5
+e4346678,Édgar Badía,13,ESP,GK,29-309,90,0,0,0,0,0,0,0,0,35,0,0,0,0.0,0.0,0.0,0,0,18,32,56.3,0,20,0,0,0,Elche,2021-12-18 Barcelona-Elche,ESP-LALIGA,21-22,611e1be5

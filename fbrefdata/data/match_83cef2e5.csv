@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+253a06b9,Ezequiel Ávila,9,ARG,FW,29-041,63,0,0,0,0,2,0,0,0,20,0,0,0,0.2,0.2,0.0,0,0,9,16,56.3,2,11,0,0,0,Osasuna,2023-03-19 Osasuna-Villarreal,ESP-LALIGA,22-23,83cef2e5
+8f3565b3,Ante Budimir,17,CRO,FW,31-240,27,0,0,0,0,1,1,0,0,12,1,0,0,0.1,0.1,0.0,1,0,4,5,80.0,0,4,0,1,0,Osasuna,2023-03-19 Osasuna-Villarreal,ESP-LALIGA,22-23,83cef2e5
+bed68338,Abde Ezzalzouli,12,MAR,"LW,RW",21-092,77,0,0,0,0,1,1,0,0,38,0,0,0,0.2,0.2,0.0,1,0,19,28,67.9,4,25,2,7,5,Osasuna,2023-03-19 Osasuna-Villarreal,ESP-LALIGA,22-23,83cef2e5
+5c96b017,Rubén García,14,ESP,RW,29-248,13,0,0,0,0,0,0,0,0,16,0,0,0,0.0,0.0,0.0,1,0,11,16,68.8,0,7,0,0,0,Osasuna,2023-03-19 Osasuna-Villarreal,ESP-LALIGA,22-23,83cef2e5
+aad53e64,Kike Barja,11,ESP,"RW,LW",25-352,77,0,0,0,0,0,0,0,0,34,1,0,0,0.0,0.0,0.4,4,0,18,29,62.1,6,26,6,3,0,Osasuna,2023-03-19 Osasuna-Villarreal,ESP-LALIGA,22-23,83cef2e5
+e897d8ba,Kiké,18,ESP,LW,33-114,13,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,1,3,33.3,0,4,0,1,0,Osasuna,2023-03-19 Osasuna-Villarreal,ESP-LALIGA,22-23,83cef2e5
+5a626448,Moi Gómez,16,ESP,LM,28-269,90,0,0,0,0,0,0,0,0,74,1,0,1,0.0,0.0,0.0,2,0,57,70,81.4,6,44,1,2,0,Osasuna,2023-03-19 Osasuna-Villarreal,ESP-LALIGA,22-23,83cef2e5
+0e4fef6e,Lucas Torró,6,ESP,CM,28-243,77,0,0,0,0,3,0,1,0,46,3,3,1,0.1,0.1,0.0,0,0,26,33,78.8,5,15,0,0,0,Osasuna,2023-03-19 Osasuna-Villarreal,ESP-LALIGA,22-23,83cef2e5
+3701906c,Pablo Ibáñez,19,ESP,CM,24-180,13,0,0,0,0,0,0,0,0,11,1,0,0,0.0,0.0,0.0,0,0,9,9,100.0,2,7,0,1,1,Osasuna,2023-03-19 Osasuna-Villarreal,ESP-LALIGA,22-23,83cef2e5
+9939e168,Jon Moncayola,7,ESP,"RB,RM",24-310,90,0,0,0,0,0,0,0,0,83,2,1,3,0.0,0.0,0.0,1,0,57,74,77.0,12,39,3,2,1,Osasuna,2023-03-19 Osasuna-Villarreal,ESP-LALIGA,22-23,83cef2e5
+ffacd3d5,Manu Sánchez,20,ESP,LB,22-207,90,0,0,0,0,1,0,0,0,78,0,1,1,0.0,0.0,0.3,5,0,54,66,81.8,4,35,2,2,0,Osasuna,2023-03-19 Osasuna-Villarreal,ESP-LALIGA,22-23,83cef2e5
+3e42f707,David García,5,ESP,CB,29-033,90,0,0,0,0,0,0,0,0,47,0,1,2,0.0,0.0,0.0,1,0,38,44,86.4,7,24,1,0,0,Osasuna,2023-03-19 Osasuna-Villarreal,ESP-LALIGA,22-23,83cef2e5
+132ac341,Aridane Hernández,23,ESP,CB,33-361,90,0,0,0,0,0,0,0,0,61,0,2,1,0.0,0.0,0.0,0,0,44,51,86.3,6,31,1,1,1,Osasuna,2023-03-19 Osasuna-Villarreal,ESP-LALIGA,22-23,83cef2e5
+3a9c4b7b,Nacho Vidal,2,ESP,RB,28-054,45,0,0,0,0,0,0,1,0,25,2,1,0,0.0,0.0,0.0,0,0,12,20,60.0,0,11,2,2,1,Osasuna,2023-03-19 Osasuna-Villarreal,ESP-LALIGA,22-23,83cef2e5
+4accb7e0,Darko Brašanac,8,SRB,RM,31-035,45,0,0,0,0,2,0,1,0,25,2,0,0,0.3,0.3,0.0,2,0,19,21,90.5,8,15,2,0,0,Osasuna,2023-03-19 Osasuna-Villarreal,ESP-LALIGA,22-23,83cef2e5
+a01c3d54,Aitor Fernández,25,ESP,GK,31-320,90,0,0,0,0,0,0,0,0,32,0,0,0,0.0,0.0,0.0,0,0,21,30,70.0,0,18,0,0,0,Osasuna,2023-03-19 Osasuna-Villarreal,ESP-LALIGA,22-23,83cef2e5
+81f0781e,Gerard Moreno,7,ESP,FW,30-346,34,0,0,0,0,0,0,0,0,16,0,1,0,0.0,0.0,0.0,1,0,14,16,87.5,1,11,0,1,1,Villarreal,2023-03-19 Osasuna-Villarreal,ESP-LALIGA,22-23,83cef2e5
+4a478107,José Luis Morales,22,ESP,FW,35-239,56,2,0,0,0,4,2,1,0,13,0,0,0,1.0,1.0,0.0,2,1,6,6,100.0,1,10,0,1,1,Villarreal,2023-03-19 Osasuna-Villarreal,ESP-LALIGA,22-23,83cef2e5
+540ec57b,Yeremi Pino,21,ESP,"LW,LM",20-150,90,0,1,0,0,2,1,1,0,56,3,1,3,0.1,0.1,0.8,5,1,24,41,58.5,0,29,3,6,4,Villarreal,2023-03-19 Osasuna-Villarreal,ESP-LALIGA,22-23,83cef2e5
+b8a642fc,Samuel Chukwueze,11,NGA,RW,23-301,84,1,0,0,0,2,2,0,0,26,1,0,0,0.4,0.4,0.1,3,0,13,19,68.4,1,18,1,2,0,Villarreal,2023-03-19 Osasuna-Villarreal,ESP-LALIGA,22-23,83cef2e5
+e5d01ecf,Kiko Femenía,2,ESP,RB,32-045,6,0,0,0,0,0,0,0,0,4,1,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,2,0,1,0,Villarreal,2023-03-19 Osasuna-Villarreal,ESP-LALIGA,22-23,83cef2e5
+963829d0,Manu Trigueros,14,ESP,"LM,CM",31-153,90,0,0,0,0,0,0,0,0,54,1,1,2,0.0,0.0,0.3,4,0,41,51,80.4,5,39,1,0,0,Villarreal,2023-03-19 Osasuna-Villarreal,ESP-LALIGA,22-23,83cef2e5
+7460ca0d,Daniel Parejo,10,ESP,CM,33-337,90,0,0,0,0,1,0,0,0,65,0,0,1,0.0,0.0,0.0,1,1,51,56,91.1,3,32,0,0,0,Villarreal,2023-03-19 Osasuna-Villarreal,ESP-LALIGA,22-23,83cef2e5
+f36016a5,Ramón Terrats,39,ESP,RM,22-152,67,0,0,0,0,1,0,0,0,38,1,0,0,0.1,0.1,0.0,0,0,20,26,76.9,1,27,1,6,2,Villarreal,2023-03-19 Osasuna-Villarreal,ESP-LALIGA,22-23,83cef2e5
+d7553721,Giovani Lo Celso,17,ARG,RM,26-344,23,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,5,6,83.3,0,5,0,1,0,Villarreal,2023-03-19 Osasuna-Villarreal,ESP-LALIGA,22-23,83cef2e5
+63f04c6c,Alfonso Pedraza,24,ESP,LB,26-344,45,0,1,0,0,1,0,0,0,24,0,1,0,0.1,0.1,0.4,3,1,17,19,89.5,0,14,2,4,2,Villarreal,2023-03-19 Osasuna-Villarreal,ESP-LALIGA,22-23,83cef2e5
+608f2092,Johan Mojica,12,COL,LB,30-210,45,0,0,0,0,0,0,0,0,23,0,1,0,0.0,0.0,0.0,0,0,12,19,63.2,0,9,0,0,0,Villarreal,2023-03-19 Osasuna-Villarreal,ESP-LALIGA,22-23,83cef2e5
+532e1e4f,Pau Torres,4,ESP,CB,26-062,90,0,0,0,0,0,0,0,0,64,1,0,2,0.0,0.0,0.0,0,0,37,46,80.4,3,33,1,2,2,Villarreal,2023-03-19 Osasuna-Villarreal,ESP-LALIGA,22-23,83cef2e5
+4bd414c1,Raúl Albiol,3,ESP,CB,37-196,45,0,0,0,0,1,1,0,0,41,1,0,0,0.1,0.1,0.0,1,0,31,34,91.2,0,26,0,0,0,Villarreal,2023-03-19 Osasuna-Villarreal,ESP-LALIGA,22-23,83cef2e5
+fbd6378b,Aïssa Mandi,23,ALG,CB,31-148,45,0,0,0,0,0,0,0,0,15,1,1,0,0.0,0.0,0.0,0,0,7,9,77.8,0,7,0,0,0,Villarreal,2023-03-19 Osasuna-Villarreal,ESP-LALIGA,22-23,83cef2e5
+6c7762c3,Juan Foyth,8,ARG,"RB,CB",25-066,90,0,0,0,0,0,0,0,0,58,10,1,0,0.0,0.0,0.0,0,0,29,37,78.4,0,18,0,2,1,Villarreal,2023-03-19 Osasuna-Villarreal,ESP-LALIGA,22-23,83cef2e5
+e358587b,Pepe Reina,1,ESP,GK,40-200,90,0,0,0,0,0,0,0,0,42,0,0,0,0.0,0.0,0.0,0,0,26,41,63.4,0,23,0,0,0,Villarreal,2023-03-19 Osasuna-Villarreal,ESP-LALIGA,22-23,83cef2e5

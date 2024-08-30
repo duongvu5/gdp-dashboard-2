@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+21a66f6a,Harry Kane,10,ENG,FW,29-157,90,0,0,0,0,2,0,0,0,30,1,0,1,0.3,0.3,0.0,0,0,13,21,61.9,1,19,2,1,0,Tottenham Hotspur,2023-01-01 Tottenham-Aston Villa,ENG-EPL,22-23,63e8eaf8
+92e7e919,Son Heung-min,7,KOR,LW,30-177,90,0,0,0,0,2,1,0,0,51,3,0,2,0.1,0.1,0.2,1,0,29,39,74.4,3,34,1,1,0,Tottenham Hotspur,2023-01-01 Tottenham-Aston Villa,ENG-EPL,22-23,63e8eaf8
+7b5ab7f2,Bryan Gil,11,ESP,RW,21-324,62,0,0,0,0,0,0,0,0,29,0,0,2,0.0,0.0,0.1,1,0,15,22,68.2,1,20,1,3,1,Tottenham Hotspur,2023-01-01 Tottenham-Aston Villa,ENG-EPL,22-23,63e8eaf8
+6aa3e78b,Ryan Sessegnon,19,ENG,LM,22-228,28,0,0,0,0,0,0,0,0,13,0,1,0,0.0,0.0,0.0,0,0,5,11,45.5,0,8,0,0,0,Tottenham Hotspur,2023-01-01 Tottenham-Aston Villa,ENG-EPL,22-23,63e8eaf8
+6fe90922,Ivan Perišić,14,CRO,"LM,RW",33-333,87,0,0,0,0,1,0,0,0,57,3,1,1,0.2,0.2,0.1,1,0,31,50,62.0,4,33,6,0,0,Tottenham Hotspur,2023-01-01 Tottenham-Aston Villa,ENG-EPL,22-23,63e8eaf8
+9bc9a519,Djed Spence,24,ENG,RW,22-145,3,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,2,4,50.0,0,4,1,0,0,Tottenham Hotspur,2023-01-01 Tottenham-Aston Villa,ENG-EPL,22-23,63e8eaf8
+8b04d6c1,Pierre Højbjerg,5,DEN,CM,27-149,87,0,0,0,0,0,0,0,0,88,3,2,2,0.0,0.0,0.0,4,0,66,77,85.7,4,66,4,0,0,Tottenham Hotspur,2023-01-01 Tottenham-Aston Villa,ENG-EPL,22-23,63e8eaf8
+6250083a,Oliver Skipp,4,ENG,CM,22-107,3,0,0,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.0,0,0,10,11,90.9,0,7,1,0,0,Tottenham Hotspur,2023-01-01 Tottenham-Aston Villa,ENG-EPL,22-23,63e8eaf8
+6c203af0,Yves Bissouma,38,MLI,CM,26-124,79,0,0,0,0,0,0,1,0,81,0,1,1,0.0,0.0,0.2,1,0,67,78,85.9,4,62,2,1,1,Tottenham Hotspur,2023-01-01 Tottenham-Aston Villa,ENG-EPL,22-23,63e8eaf8
+feb5d972,Pape Matar Sarr,29,SEN,CM,20-109,11,0,0,0,0,0,0,0,0,15,1,1,0,0.0,0.0,0.0,0,0,13,13,100.0,3,11,0,0,0,Tottenham Hotspur,2023-01-01 Tottenham-Aston Villa,ENG-EPL,22-23,63e8eaf8
+d557d734,Matt Doherty,2,IRL,RM,30-350,79,0,0,0,0,1,0,0,0,57,0,0,1,0.1,0.1,0.0,1,0,48,51,94.1,3,38,2,2,2,Tottenham Hotspur,2023-01-01 Tottenham-Aston Villa,ENG-EPL,22-23,63e8eaf8
+df8b52a5,Emerson,12,BRA,RM,23-352,11,0,0,0,0,0,0,0,0,15,0,0,0,0.0,0.0,0.0,1,0,12,14,85.7,2,9,0,0,0,Tottenham Hotspur,2023-01-01 Tottenham-Aston Villa,ENG-EPL,22-23,63e8eaf8
+44781702,Ben Davies,33,WAL,CB,29-252,90,0,0,0,0,0,0,1,0,76,3,0,0,0.0,0.0,0.0,0,0,56,67,83.6,9,50,2,1,0,Tottenham Hotspur,2023-01-01 Tottenham-Aston Villa,ENG-EPL,22-23,63e8eaf8
+4f28a6ff,Clément Lenglet,34,FRA,CB,27-198,90,0,0,0,0,0,0,1,0,82,0,3,2,0.0,0.0,0.0,1,0,63,71,88.7,4,61,0,0,0,Tottenham Hotspur,2023-01-01 Tottenham-Aston Villa,ENG-EPL,22-23,63e8eaf8
+a3d94a58,Cristian Romero,17,ARG,CB,24-249,90,0,0,0,0,0,0,1,0,91,0,2,1,0.0,0.0,0.0,0,0,80,84,95.2,7,73,2,1,1,Tottenham Hotspur,2023-01-01 Tottenham-Aston Villa,ENG-EPL,22-23,63e8eaf8
+8f62b6ee,Hugo Lloris,1,FRA,GK,36-006,90,0,0,0,0,0,0,0,0,15,0,0,0,0.0,0.0,0.0,0,0,14,14,100.0,0,8,0,0,0,Tottenham Hotspur,2023-01-01 Tottenham-Aston Villa,ENG-EPL,22-23,63e8eaf8
+aed3a70f,Ollie Watkins,11,ENG,FW,27-002,90,0,1,0,0,4,0,0,0,27,0,0,2,0.4,0.4,0.2,4,2,9,14,64.3,1,13,2,2,1,Aston Villa,2023-01-01 Tottenham-Aston Villa,ENG-EPL,22-23,63e8eaf8
+3a233281,Leon Bailey,31,JAM,FW,25-145,65,0,0,0,0,0,0,0,0,21,3,0,0,0.0,0.0,0.0,0,0,8,12,66.7,1,15,3,3,1,Aston Villa,2023-01-01 Tottenham-Aston Villa,ENG-EPL,22-23,63e8eaf8
+2389cdc2,Matty Cash,2,POL,"RW,RB",25-147,25,0,0,0,0,0,0,0,0,16,2,0,0,0.0,0.0,0.0,1,0,11,13,84.6,1,11,1,0,0,Aston Villa,2023-01-01 Tottenham-Aston Villa,ENG-EPL,22-23,63e8eaf8
+66b76d44,Emi Buendía,10,ARG,"LM,AM",26-007,81,1,0,0,0,2,1,0,0,41,4,1,0,0.1,0.1,0.1,2,0,22,29,75.9,2,25,2,1,1,Aston Villa,2023-01-01 Tottenham-Aston Villa,ENG-EPL,22-23,63e8eaf8
+dc6f5bdd,Calum Chambers,16,ENG,"CM,AM",27-346,9,0,0,0,0,1,0,1,0,8,0,0,0,0.0,0.0,0.0,0,0,4,7,57.1,1,3,0,0,0,Aston Villa,2023-01-01 Tottenham-Aston Villa,ENG-EPL,22-23,63e8eaf8
+6f7d826d,Douglas Luiz,6,BRA,"CM,DM",24-237,81,1,0,0,0,5,3,0,0,66,2,2,2,0.4,0.4,0.0,6,1,48,52,92.3,2,49,0,3,1,Aston Villa,2023-01-01 Tottenham-Aston Villa,ENG-EPL,22-23,63e8eaf8
+4115ce4e,Jan Bednarek,20,POL,"CB,DM",26-264,9,0,0,0,0,0,0,0,0,7,0,0,1,0.0,0.0,0.0,0,0,4,4,100.0,1,3,0,0,0,Aston Villa,2023-01-01 Tottenham-Aston Villa,ENG-EPL,22-23,63e8eaf8
+cc77354e,Boubacar Kamara,44,FRA,"CM,DM",23-039,90,0,0,0,0,0,0,0,0,66,3,3,3,0.0,0.0,0.0,3,0,46,55,83.6,3,42,1,4,1,Aston Villa,2023-01-01 Tottenham-Aston Villa,ENG-EPL,22-23,63e8eaf8
+90f91999,John McGinn,7,SCO,"RM,LW",28-075,77,0,1,0,0,0,0,0,0,30,0,0,1,0.0,0.0,0.3,4,1,17,22,77.3,1,20,1,2,0,Aston Villa,2023-01-01 Tottenham-Aston Villa,ENG-EPL,22-23,63e8eaf8
+0ef89a37,Philippe Coutinho,23,BRA,"CM,LW",30-203,13,0,0,0,0,0,0,0,0,10,1,1,0,0.0,0.0,0.0,1,0,4,8,50.0,1,8,0,0,0,Aston Villa,2023-01-01 Tottenham-Aston Villa,ENG-EPL,22-23,63e8eaf8
+1b84dbe1,Lucas Digne,27,FRA,LB,29-165,90,0,0,0,0,0,0,0,0,52,1,0,0,0.0,0.0,0.2,2,0,34,44,77.3,1,26,0,0,0,Aston Villa,2023-01-01 Tottenham-Aston Villa,ENG-EPL,22-23,63e8eaf8
+8397a50c,Tyrone Mings,5,ENG,CB,29-294,90,0,0,0,0,0,0,1,0,54,0,4,3,0.0,0.0,0.0,0,0,35,42,83.3,0,33,0,0,0,Aston Villa,2023-01-01 Tottenham-Aston Villa,ENG-EPL,22-23,63e8eaf8
+0313a347,Ezri Konsa,4,ENG,CB,25-070,81,0,0,0,0,0,0,1,0,40,2,0,0,0.0,0.0,0.0,0,0,31,32,96.9,0,29,0,0,0,Aston Villa,2023-01-01 Tottenham-Aston Villa,ENG-EPL,22-23,63e8eaf8
+07802f7f,Danny Ings,9,ENG,"FW,CB",30-162,9,0,0,0,0,0,0,0,0,8,0,0,2,0.0,0.0,0.0,0,0,2,4,50.0,0,5,1,0,0,Aston Villa,2023-01-01 Tottenham-Aston Villa,ENG-EPL,22-23,63e8eaf8
+be927d03,Ashley Young,18,ENG,"RB,CB",37-176,90,0,0,0,0,1,0,0,0,66,0,2,1,0.0,0.0,0.0,0,0,41,54,75.9,4,36,1,0,0,Aston Villa,2023-01-01 Tottenham-Aston Villa,ENG-EPL,22-23,63e8eaf8
+e7ee38c3,Robin Olsen,25,SWE,GK,32-358,90,0,0,0,0,0,0,0,0,45,0,0,0,0.0,0.0,0.0,0,0,30,45,66.7,0,33,0,0,0,Aston Villa,2023-01-01 Tottenham-Aston Villa,ENG-EPL,22-23,63e8eaf8

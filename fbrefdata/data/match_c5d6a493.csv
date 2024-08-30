@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+49fe9070,Timo Werner,11,GER,"AM,FW",25-028,90,0,1,0,0,1,0,0,0,45,1,0,1,0.0,0.0,0.6,3,1,30,34,88.2,2,20,4,3,1,Chelsea,2021-04-03 Chelsea-West Brom,ENG-EPL,20-21,c5d6a493
+1bf33a9a,Christian Pulisic,10,USA,AM,22-197,45,1,0,0,0,1,1,0,0,18,1,0,0,0.2,0.2,0.0,2,0,13,15,86.7,1,12,2,0,0,Chelsea,2021-04-03 Chelsea-West Brom,ENG-EPL,20-21,c5d6a493
+9674002f,Mason Mount,19,ENG,AM,22-083,45,1,0,0,0,4,2,0,0,32,2,1,0,0.6,0.6,0.0,1,0,16,22,72.7,4,15,3,2,0,Chelsea,2021-04-03 Chelsea-West Brom,ENG-EPL,20-21,c5d6a493
+6622454d,Hakim Ziyech,22,MAR,AM,28-015,32,0,0,0,0,0,0,0,0,22,0,0,1,0.0,0.0,0.0,0,0,14,21,66.7,1,17,1,0,0,Chelsea,2021-04-03 Chelsea-West Brom,ENG-EPL,20-21,c5d6a493
+1cb49278,Andreas Christensen,4,DEN,CB,24-358,58,0,0,0,0,1,0,0,0,50,0,2,1,0.0,0.0,0.0,1,0,38,42,90.5,1,29,1,0,0,Chelsea,2021-04-03 Chelsea-West Brom,ENG-EPL,20-21,c5d6a493
+79c0821a,Mateo Kovačić,17,CRO,CM,26-332,90,0,0,0,0,2,0,1,0,99,5,1,0,0.1,0.1,0.1,4,0,69,86,80.2,13,67,7,5,5,Chelsea,2021-04-03 Chelsea-West Brom,ENG-EPL,20-21,c5d6a493
+45db685d,Jorginho,5,ITA,CM,29-104,71,0,0,0,0,0,0,0,0,68,1,2,1,0.0,0.0,0.1,2,0,55,63,87.3,8,45,0,0,0,Chelsea,2021-04-03 Chelsea-West Brom,ENG-EPL,20-21,c5d6a493
+fed7cb61,Kai Havertz,29,GER,CM,21-296,19,0,0,0,0,0,0,0,0,11,0,0,1,0.0,0.0,0.0,1,0,6,8,75.0,0,9,0,2,1,Chelsea,2021-04-03 Chelsea-West Brom,ENG-EPL,20-21,c5d6a493
+f4290206,Marcos Alonso,3,ESP,WB,30-096,90,0,0,0,0,3,2,0,0,55,1,0,2,0.5,0.5,0.0,4,2,34,42,81.0,4,25,0,0,0,Chelsea,2021-04-03 Chelsea-West Brom,ENG-EPL,20-21,c5d6a493
+1265a93a,Reece James,24,ENG,WB,21-116,90,0,0,0,0,2,2,0,0,79,3,1,2,0.1,0.1,0.3,10,0,54,68,79.4,3,39,2,4,2,Chelsea,2021-04-03 Chelsea-West Brom,ENG-EPL,20-21,c5d6a493
+ce4246f5,Kurt Zouma,15,FRA,CB,26-158,90,0,0,0,0,4,0,0,0,71,2,1,1,0.5,0.5,0.0,1,0,51,58,87.9,4,35,1,0,0,Chelsea,2021-04-03 Chelsea-West Brom,ENG-EPL,20-21,c5d6a493
+86e7deaf,Thiago Silva,6,BRA,CB,36-193,28,0,0,0,0,0,0,2,1,39,0,0,0,0.0,0.0,0.0,2,0,37,38,97.4,3,22,0,0,0,Chelsea,2021-04-03 Chelsea-West Brom,ENG-EPL,20-21,c5d6a493
+53cad200,César Azpilicueta,28,ESP,CB,31-218,90,0,0,0,0,0,0,0,0,99,1,2,3,0.0,0.0,0.1,2,0,78,96,81.3,9,40,4,0,0,Chelsea,2021-04-03 Chelsea-West Brom,ENG-EPL,20-21,c5d6a493
+33887998,Edouard Mendy,16,SEN,GK,29-033,90,0,0,0,0,0,0,0,0,35,0,0,0,0.0,0.0,0.0,1,0,30,34,88.2,0,20,0,0,0,Chelsea,2021-04-03 Chelsea-West Brom,ENG-EPL,20-21,c5d6a493
+dda3969e,Mbaye Diagne,17,SEN,FW,29-157,90,1,0,0,0,2,1,1,0,27,1,0,0,0.1,0.1,0.0,2,1,12,18,66.7,0,16,0,0,0,West Bromwich Albion,2021-04-03 Chelsea-West Brom,ENG-EPL,20-21,c5d6a493
+b04ee927,Matheus Pereira,12,POR,"FW,LM",24-333,90,2,2,0,0,6,4,0,0,45,1,1,0,0.6,0.6,0.8,8,3,25,32,78.1,4,31,3,4,2,West Bromwich Albion,2021-04-03 Chelsea-West Brom,ENG-EPL,20-21,c5d6a493
+e3a5814e,Ainsley Maitland-Niles,30,ENG,"CM,RM",23-217,90,0,0,0,0,1,0,0,0,46,6,1,2,0.0,0.0,0.0,0,0,22,26,84.6,2,29,1,1,1,West Bromwich Albion,2021-04-03 Chelsea-West Brom,ENG-EPL,20-21,c5d6a493
+e49ce451,Okay Yokuşlu,35,TUR,CM,27-025,90,0,0,0,0,1,0,0,0,62,5,4,0,0.3,0.3,0.0,2,0,36,44,81.8,1,35,0,4,2,West Bromwich Albion,2021-04-03 Chelsea-West Brom,ENG-EPL,20-21,c5d6a493
+7bb5f40e,Matt Phillips,10,SCO,RM,30-021,88,0,0,0,0,1,0,0,0,30,0,0,1,0.0,0.0,0.0,1,0,15,24,62.5,2,19,5,2,2,West Bromwich Albion,2021-04-03 Chelsea-West Brom,ENG-EPL,20-21,c5d6a493
+b98570d1,Jake Livermore,8,ENG,CM,31-140,2,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,0,0,West Bromwich Albion,2021-04-03 Chelsea-West Brom,ENG-EPL,20-21,c5d6a493
+4dc4f138,Conor Townsend,14,ENG,LB,28-030,90,0,0,0,0,1,0,0,0,54,1,2,0,0.1,0.1,0.0,2,2,30,45,66.7,0,31,2,2,0,West Bromwich Albion,2021-04-03 Chelsea-West Brom,ENG-EPL,20-21,c5d6a493
+d6192210,Semi Ajayi,6,NGA,CB,27-145,90,0,0,0,0,0,0,0,0,40,3,3,4,0.0,0.0,0.0,1,0,23,24,95.8,3,17,0,0,0,West Bromwich Albion,2021-04-03 Chelsea-West Brom,ENG-EPL,20-21,c5d6a493
+18e96f64,Kyle Bartley,5,ENG,CB,29-316,90,0,0,0,0,0,0,0,0,41,2,1,2,0.0,0.0,0.0,1,0,25,33,75.8,2,20,0,0,0,West Bromwich Albion,2021-04-03 Chelsea-West Brom,ENG-EPL,20-21,c5d6a493
+1d042188,Dara O'Shea,27,IRL,CB,22-030,23,0,0,0,0,0,0,0,0,13,0,0,1,0.0,0.0,0.0,0,0,6,12,50.0,0,3,0,0,0,West Bromwich Albion,2021-04-03 Chelsea-West Brom,ENG-EPL,20-21,c5d6a493
+85f8571a,Branislav Ivanović,20,SRB,CB,37-040,13,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,1,3,33.3,0,0,0,0,0,West Bromwich Albion,2021-04-03 Chelsea-West Brom,ENG-EPL,20-21,c5d6a493
+e75750a3,Callum Robinson,7,IRL,LM,26-060,54,2,0,0,0,2,2,0,0,21,0,1,0,0.4,0.4,0.1,4,0,16,17,94.1,3,19,3,2,2,West Bromwich Albion,2021-04-03 Chelsea-West Brom,ENG-EPL,20-21,c5d6a493
+3ec9195b,Darnell Furlong,2,ENG,RB,25-154,90,0,1,0,0,0,0,0,0,44,0,1,1,0.0,0.0,0.1,1,1,19,33,57.6,0,19,1,1,1,West Bromwich Albion,2021-04-03 Chelsea-West Brom,ENG-EPL,20-21,c5d6a493
+9e5708be,Sam Johnstone,1,ENG,GK,28-009,90,0,1,0,0,0,0,0,0,34,0,1,0,0.0,0.0,0.2,1,1,13,27,48.1,0,14,0,0,0,West Bromwich Albion,2021-04-03 Chelsea-West Brom,ENG-EPL,20-21,c5d6a493

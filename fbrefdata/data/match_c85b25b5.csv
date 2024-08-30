@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+3bb7f478,Edin Džeko,9,BIH,FW,36-177,67,0,0,0,0,3,1,0,0,25,0,0,1,0.2,0.2,0.0,1,0,12,15,80.0,3,16,0,0,0,Internazionale,2022-09-10 Inter-Torino,ITA-SERIA_A,22-23,c85b25b5
+45b9b619,Joaquín Correa,11,ARG,FW,28-028,23,0,0,0,0,0,0,0,0,9,1,0,0,0.0,0.0,0.1,2,1,7,7,100.0,0,7,0,0,0,Internazionale,2022-09-10 Inter-Torino,ITA-SERIA_A,22-23,c85b25b5
+f7036e1c,Lautaro Martínez,10,ARG,FW,25-019,90,0,0,0,0,5,0,0,0,46,2,0,3,0.3,0.3,0.1,5,0,22,30,73.3,3,23,2,4,3,Internazionale,2022-09-10 Inter-Torino,ITA-SERIA_A,22-23,c85b25b5
+cd0fa27b,Hakan Çalhanoğlu,20,TUR,CM,28-214,76,0,0,0,0,1,0,0,0,55,3,1,1,0.0,0.0,0.1,3,0,36,41,87.8,7,35,4,1,0,Internazionale,2022-09-10 Inter-Torino,ITA-SERIA_A,22-23,c85b25b5
+dd0daf32,Henrikh Mkhitaryan,22,ARM,CM,33-232,14,0,0,0,0,1,0,0,0,16,0,0,0,0.0,0.0,0.0,1,0,12,14,85.7,2,11,2,0,0,Internazionale,2022-09-10 Inter-Torino,ITA-SERIA_A,22-23,c85b25b5
+33b8d077,Marcelo Brozović,77,CRO,CM,29-298,90,1,0,0,0,2,1,1,0,72,2,2,1,0.7,0.7,0.0,1,0,50,58,86.2,3,42,5,2,2,Internazionale,2022-09-10 Inter-Torino,ITA-SERIA_A,22-23,c85b25b5
+6928979a,Nicolò Barella,23,ITA,CM,25-215,90,0,1,0,0,0,0,0,0,63,1,1,1,0.0,0.0,0.9,3,1,42,53,79.2,6,38,3,4,1,Internazionale,2022-09-10 Inter-Torino,ITA-SERIA_A,22-23,c85b25b5
+96e0490d,Matteo Darmian,36,ITA,WB,32-282,84,0,0,0,0,0,0,0,0,36,2,0,1,0.0,0.0,0.1,3,0,25,32,78.1,3,26,2,0,0,Internazionale,2022-09-10 Inter-Torino,ITA-SERIA_A,22-23,c85b25b5
+2d970560,Robin Gosens,8,GER,WB,28-067,6,0,0,0,0,0,0,0,0,6,1,0,0,0.0,0.0,0.0,0,0,5,5,100.0,0,4,0,0,0,Internazionale,2022-09-10 Inter-Torino,ITA-SERIA_A,22-23,c85b25b5
+481c9ece,Denzel Dumfries,2,NED,WB,26-145,67,0,0,0,0,1,0,0,0,29,1,1,0,0.0,0.0,0.0,0,0,13,21,61.9,0,12,1,0,0,Internazionale,2022-09-10 Inter-Torino,ITA-SERIA_A,22-23,c85b25b5
+75b86fb3,Alessandro Bastoni,95,ITA,CB,23-150,23,0,0,0,0,0,0,0,0,20,0,0,0,0.0,0.0,0.0,1,0,14,20,70.0,0,14,0,0,0,Internazionale,2022-09-10 Inter-Torino,ITA-SERIA_A,22-23,c85b25b5
+970b8574,Federico Dimarco,32,ITA,"CB,WB",24-304,76,0,0,0,0,2,0,0,0,47,1,1,0,0.2,0.2,0.1,3,0,27,38,71.1,2,28,1,1,0,Internazionale,2022-09-10 Inter-Torino,ITA-SERIA_A,22-23,c85b25b5
+e3756e72,Raoul Bellanova,12,ITA,WB,22-116,14,0,0,0,0,0,0,0,0,20,1,0,0,0.0,0.0,0.0,0,0,12,18,66.7,1,11,1,1,0,Internazionale,2022-09-10 Inter-Torino,ITA-SERIA_A,22-23,c85b25b5
+d0d8dd44,Stefan de Vrij,6,NED,CB,30-217,90,0,0,0,0,0,0,0,0,71,0,3,0,0.0,0.0,0.0,0,0,53,63,84.1,3,43,0,0,0,Internazionale,2022-09-10 Inter-Torino,ITA-SERIA_A,22-23,c85b25b5
+30f5ffa9,Milan Škriniar,37,SVK,CB,27-211,90,0,0,0,0,1,1,0,0,87,2,0,3,0.1,0.1,0.0,0,0,75,81,92.6,3,66,0,0,0,Internazionale,2022-09-10 Inter-Torino,ITA-SERIA_A,22-23,c85b25b5
+74419746,Samir Handanović,1,SVN,GK,38-058,90,0,0,0,0,0,0,0,0,50,0,0,0,0.0,0.0,0.0,0,0,35,44,79.5,0,29,0,0,0,Internazionale,2022-09-10 Inter-Torino,ITA-SERIA_A,22-23,c85b25b5
+0a447501,Antonio Sanabria,9,PAR,FW,26-190,89,0,0,0,0,1,1,1,0,32,0,0,0,0.1,0.1,0.1,2,0,18,25,72.0,0,15,0,2,2,Torino,2022-09-10 Inter-Torino,ITA-SERIA_A,22-23,c85b25b5
+a44d3a3c,Pietro Pellegri,11,ITA,FW,21-177,1,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,0,0,Torino,2022-09-10 Inter-Torino,ITA-SERIA_A,22-23,c85b25b5
+aa8e289e,Nikola Vlašić,16,CRO,AM,24-341,90,0,0,0,0,4,3,0,0,46,0,0,0,0.3,0.3,0.2,6,0,25,29,86.2,6,27,5,4,4,Torino,2022-09-10 Inter-Torino,ITA-SERIA_A,22-23,c85b25b5
+16463a79,Demba Seck,23,SEN,AM,21-212,68,0,0,0,0,0,0,0,0,25,0,0,1,0.0,0.0,0.0,2,0,14,20,70.0,0,18,4,3,2,Torino,2022-09-10 Inter-Torino,ITA-SERIA_A,22-23,c85b25b5
+0630eb63,Nemanja Radonjić,49,SRB,AM,26-207,22,0,0,0,0,1,1,0,0,11,0,0,0,0.1,0.1,0.0,0,0,3,6,50.0,1,7,2,1,0,Torino,2022-09-10 Inter-Torino,ITA-SERIA_A,22-23,c85b25b5
+d023d70f,Karol Linetty,77,POL,CM,27-220,68,0,0,0,0,1,1,0,0,34,4,1,0,0.1,0.1,0.1,3,0,21,28,75.0,3,21,0,0,0,Torino,2022-09-10 Inter-Torino,ITA-SERIA_A,22-23,c85b25b5
+a47c6309,Emirhan İlkhan,14,TUR,CM,18-101,22,0,0,0,0,0,0,0,0,12,0,0,2,0.0,0.0,0.1,1,0,8,8,100.0,1,7,0,2,1,Torino,2022-09-10 Inter-Torino,ITA-SERIA_A,22-23,c85b25b5
+c6e8cf1f,Saša Lukić,10,SRB,CM,26-028,90,0,0,0,0,0,0,1,0,45,1,2,2,0.0,0.0,0.0,0,0,27,33,81.8,2,21,2,0,0,Torino,2022-09-10 Inter-Torino,ITA-SERIA_A,22-23,c85b25b5
+be2706c0,Mërgim Vojvoda,27,KVX,"WB,CB",27-221,90,0,0,0,0,1,0,0,0,76,2,0,0,0.1,0.1,0.0,0,0,50,65,76.9,8,44,2,3,2,Torino,2022-09-10 Inter-Torino,ITA-SERIA_A,22-23,c85b25b5
+016ff750,Valentino Lazaro,19,AUT,WB,26-170,89,0,0,0,0,0,0,0,0,42,0,0,1,0.0,0.0,0.0,0,0,24,36,66.7,2,20,0,3,0,Torino,2022-09-10 Inter-Torino,ITA-SERIA_A,22-23,c85b25b5
+8b609c34,Wilfried Singo,17,CIV,WB,21-259,1,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,4,5,80.0,0,1,0,1,0,Torino,2022-09-10 Inter-Torino,ITA-SERIA_A,22-23,c85b25b5
+7f78ad23,Ricardo Rodríguez,13,SUI,CB,30-016,76,0,0,0,0,1,1,0,0,51,1,0,0,0.1,0.1,0.0,0,0,40,46,87.0,2,40,1,0,0,Torino,2022-09-10 Inter-Torino,ITA-SERIA_A,22-23,c85b25b5
+acf7e795,David Zima,6,CZE,WB,21-306,14,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,4,5,80.0,0,6,1,0,0,Torino,2022-09-10 Inter-Torino,ITA-SERIA_A,22-23,c85b25b5
+4ae67f27,Alessandro Buongiorno,4,ITA,CB,23-096,90,0,0,0,0,0,0,0,0,46,1,5,2,0.0,0.0,0.1,2,0,26,31,83.9,6,20,1,1,0,Torino,2022-09-10 Inter-Torino,ITA-SERIA_A,22-23,c85b25b5
+933d3b51,Koffi Djidji,26,CIV,CB,29-284,90,0,0,0,0,0,0,0,0,41,4,4,1,0.0,0.0,0.0,0,0,24,31,77.4,2,18,0,0,0,Torino,2022-09-10 Inter-Torino,ITA-SERIA_A,22-23,c85b25b5
+9fa26bc2,Vanja Milinković-Savić,32,SRB,GK,25-202,90,0,0,0,0,0,0,0,0,43,0,0,0,0.0,0.0,0.0,1,0,20,43,46.5,0,25,0,0,0,Torino,2022-09-10 Inter-Torino,ITA-SERIA_A,22-23,c85b25b5

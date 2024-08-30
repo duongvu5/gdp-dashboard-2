@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+8f696594,Memphis,11,NED,FW,26-188,57,0,0,0,0,2,0,0,0,21,0,0,0,0.5,0.5,0.0,1,0,12,15,80.0,1,12,3,1,0,Lyon,2020-08-19 Lyon-Bayern Munich,UCL,19-20,7f6c621f
+e7986081,Moussa Dembélé,9,FRA,FW,24-038,33,0,0,0,0,0,0,0,0,14,0,0,2,0.0,0.0,0.0,2,0,6,8,75.0,1,8,2,3,3,Lyon,2020-08-19 Lyon-Bayern Munich,UCL,19-20,7f6c621f
+5ceba7fc,Karl Toko Ekambi,21,CMR,FW,27-340,66,0,0,0,0,4,1,0,0,27,1,0,1,1.1,1.1,0.0,3,0,14,16,87.5,2,14,1,5,2,Lyon,2020-08-19 Lyon-Bayern Munich,UCL,19-20,7f6c621f
+d504b3e1,Jeff Reine-Adélaïde,17,FRA,FW,22-215,24,0,0,0,0,0,0,0,0,11,1,0,0,0.0,0.0,0.0,0,0,8,9,88.9,2,9,3,2,2,Lyon,2020-08-19 Lyon-Bayern Munich,UCL,19-20,7f6c621f
+a5db0bec,Houssem Aouar,8,ALG,CM,22-050,90,0,0,0,0,1,1,0,0,48,0,1,1,0.0,0.0,0.5,3,0,22,35,62.9,2,34,3,8,4,Lyon,2020-08-19 Lyon-Bayern Munich,UCL,19-20,7f6c621f
+82518f62,Bruno Guimarães,39,BRA,CM,22-277,45,0,0,0,0,0,0,0,0,16,1,0,1,0.0,0.0,0.0,1,0,10,12,83.3,2,10,0,0,0,Lyon,2020-08-19 Lyon-Bayern Munich,UCL,19-20,7f6c621f
+c6e5d20f,Thiago Mendes,12,BRA,CM,28-157,45,0,0,0,0,0,0,1,0,22,2,1,0,0.0,0.0,0.0,0,0,13,16,81.3,2,13,0,0,0,Lyon,2020-08-19 Lyon-Bayern Munich,UCL,19-20,7f6c621f
+f81ef10d,Maxence Caqueret,25,FRA,CM,20-186,90,0,0,0,0,0,0,0,0,36,2,1,5,0.0,0.0,0.5,3,0,20,23,87.0,1,22,0,2,2,Lyon,2020-08-19 Lyon-Bayern Munich,UCL,19-20,7f6c621f
+beb391dd,Maxwel Cornet,27,CIV,WB,23-327,90,0,0,0,0,0,0,0,0,65,1,2,0,0.0,0.0,0.0,0,0,41,59,69.5,2,26,3,3,2,Lyon,2020-08-19 Lyon-Bayern Munich,UCL,19-20,7f6c621f
+ff0ab48c,Leo Dubois,14,FRA,WB,25-340,66,0,0,0,0,0,0,0,0,35,1,0,0,0.0,0.0,0.0,1,0,22,31,71.0,1,24,1,4,2,Lyon,2020-08-19 Lyon-Bayern Munich,UCL,19-20,7f6c621f
+77d7c96f,Kenny Tete,23,NED,"CB,WB",24-315,24,0,0,0,0,0,0,0,0,16,0,1,1,0.0,0.0,0.0,0,0,6,11,54.5,2,6,1,1,0,Lyon,2020-08-19 Lyon-Bayern Munich,UCL,19-20,7f6c621f
+9ae9eaea,Fernando Marçal,20,BRA,CB,31-182,72,0,0,0,0,0,0,1,0,40,1,3,0,0.0,0.0,0.0,1,0,25,30,83.3,3,24,0,0,0,Lyon,2020-08-19 Lyon-Bayern Munich,UCL,19-20,7f6c621f
+b34c63a5,Rayan Cherki,36,FRA,WB,17-002,18,0,0,0,0,1,0,0,0,8,0,0,0,0.1,0.1,0.0,1,0,5,6,83.3,1,6,1,1,1,Lyon,2020-08-19 Lyon-Bayern Munich,UCL,19-20,7f6c621f
+e3d0b0c4,Marcelo,6,BRA,CB,33-091,90,0,0,0,0,1,1,1,0,36,1,3,0,0.0,0.0,0.0,0,0,20,26,76.9,1,19,0,1,1,Lyon,2020-08-19 Lyon-Bayern Munich,UCL,19-20,7f6c621f
+47af88b8,Jason Denayer,5,BEL,CB,25-052,90,0,0,0,0,0,0,0,0,47,0,1,1,0.0,0.0,0.0,0,0,30,37,81.1,2,21,0,0,0,Lyon,2020-08-19 Lyon-Bayern Munich,UCL,19-20,7f6c621f
+f00de885,Anthony Lopes,1,POR,GK,29-323,90,0,0,0,0,0,0,0,0,46,0,0,0,0.0,0.0,0.0,0,0,33,42,78.6,0,31,0,0,0,Lyon,2020-08-19 Lyon-Bayern Munich,UCL,19-20,7f6c621f
+8d78e732,Robert Lewandowski,9,POL,FW,31-364,90,1,1,0,0,4,3,0,0,51,2,0,2,1.7,1.7,0.4,5,1,33,37,89.2,6,25,2,3,1,Bayern Munich,2020-08-19 Lyon-Bayern Munich,UCL,19-20,7f6c621f
+6fe90922,Ivan Perišić,14,CRO,LW,31-199,62,0,0,0,0,2,1,0,0,28,1,1,0,0.3,0.3,0.6,1,0,15,23,65.2,2,19,3,0,0,Bayern Munich,2020-08-19 Lyon-Bayern Munich,UCL,19-20,7f6c621f
+042e8a49,Kingsley Coman,29,FRA,"LW,RW",24-067,28,0,0,0,0,0,0,0,0,21,0,0,0,0.0,0.0,0.1,1,0,15,19,78.9,2,18,5,2,2,Bayern Munich,2020-08-19 Lyon-Bayern Munich,UCL,19-20,7f6c621f
+88e357ef,Serge Gnabry,22,GER,RW,25-036,74,2,0,0,0,3,3,0,0,37,2,0,2,1.0,1.0,0.0,2,0,20,27,74.1,1,20,1,0,0,Bayern Munich,2020-08-19 Lyon-Bayern Munich,UCL,19-20,7f6c621f
+0ef89a37,Philippe Coutinho,10,BRA,"LW,RW",28-068,16,0,0,0,0,1,0,0,0,11,0,0,0,0.0,0.0,0.0,1,0,9,10,90.0,1,6,2,0,0,Bayern Munich,2020-08-19 Lyon-Bayern Munich,UCL,19-20,7f6c621f
+3c6089ab,Thomas Müller,25,GER,AM,30-341,90,0,0,0,0,2,1,0,0,46,0,0,1,0.3,0.3,0.0,2,1,29,39,74.4,4,26,2,0,0,Bayern Munich,2020-08-19 Lyon-Bayern Munich,UCL,19-20,7f6c621f
+cc86b9a3,Leon Goretzka,18,GER,DM,25-195,81,0,0,0,0,5,0,0,0,50,2,0,1,0.5,0.5,0.0,2,0,28,39,71.8,0,25,0,2,0,Bayern Munich,2020-08-19 Lyon-Bayern Munich,UCL,19-20,7f6c621f
+45a03961,Benjamin Pavard,5,FRA,RB,24-144,9,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,0,0,9,10,90.0,1,5,0,0,0,Bayern Munich,2020-08-19 Lyon-Bayern Munich,UCL,19-20,7f6c621f
+77e84962,Thiago Alcántara,6,ESP,DM,29-130,81,0,0,0,0,0,0,0,0,110,6,2,1,0.0,0.0,0.3,4,1,93,103,90.3,5,72,2,0,0,Bayern Munich,2020-08-19 Lyon-Bayern Munich,UCL,19-20,7f6c621f
+652d4c37,Corentin Tolisso,24,FRA,DM,26-016,9,0,0,0,0,1,0,0,0,11,0,0,1,0.1,0.1,0.0,1,0,9,10,90.0,1,8,2,0,0,Bayern Munich,2020-08-19 Lyon-Bayern Munich,UCL,19-20,7f6c621f
+d781d855,Alphonso Davies,19,CAN,LB,19-291,90,0,0,0,0,0,0,0,0,72,2,0,2,0.0,0.0,0.3,3,0,53,58,91.4,5,42,3,4,2,Bayern Munich,2020-08-19 Lyon-Bayern Munich,UCL,19-20,7f6c621f
+05439de2,David Alaba,27,AUT,CB,28-056,90,0,0,0,0,1,0,0,0,102,2,2,0,0.1,0.1,0.0,2,0,88,94,93.6,7,82,4,0,0,Bayern Munich,2020-08-19 Lyon-Bayern Munich,UCL,19-20,7f6c621f
+2db2fd7b,Jérôme Boateng,17,GER,CB,31-351,45,0,0,0,0,0,0,0,0,49,2,1,0,0.0,0.0,0.0,0,0,42,46,91.3,1,38,0,0,0,Bayern Munich,2020-08-19 Lyon-Bayern Munich,UCL,19-20,7f6c621f
+e33c06cf,Niklas Süle,4,GER,CB,24-351,45,0,0,0,0,0,0,0,0,50,2,0,0,0.0,0.0,0.0,0,0,40,45,88.9,4,33,0,0,0,Bayern Munich,2020-08-19 Lyon-Bayern Munich,UCL,19-20,7f6c621f
+49296448,Joshua Kimmich,32,GER,"RB,DM",25-193,90,0,2,0,0,0,0,0,0,105,3,1,2,0.0,0.0,0.3,5,2,75,91,82.4,6,70,4,1,0,Bayern Munich,2020-08-19 Lyon-Bayern Munich,UCL,19-20,7f6c621f
+8778c910,Manuel Neuer,1,GER,GK,34-145,90,0,0,0,0,0,0,0,0,43,0,0,0,0.0,0.0,0.0,1,0,37,42,88.1,0,26,0,0,0,Bayern Munich,2020-08-19 Lyon-Bayern Munich,UCL,19-20,7f6c621f

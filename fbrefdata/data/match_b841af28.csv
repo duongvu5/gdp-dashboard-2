@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+5eae500a,Romelu Lukaku,9,BEL,FW,24-105,90,0,0,0,1,5,2,0,0,35,0,0,1,1.1,0.3,0.1,5,0,19,25,76.0,4,20,3,1,1,Manchester United,2017-08-26 Manchester Utd-Leicester City,ENG-EPL,17-18,b841af28
+8b788c01,Anthony Martial,11,FRA,LW,21-264,75,0,0,0,0,3,1,0,0,60,0,0,0,0.1,0.1,0.4,5,0,40,52,76.9,5,53,10,2,2,Manchester United,2017-08-26 Manchester Utd-Leicester City,ENG-EPL,17-18,b841af28
+810e3c74,Jesse Lingard,14,ENG,RM,24-254,15,0,1,0,0,1,0,0,0,12,0,0,0,0.1,0.1,0.8,1,1,9,10,90.0,1,4,0,0,0,Manchester United,2017-08-26 Manchester Utd-Leicester City,ENG-EPL,17-18,b841af28
+29733c72,Juan Mata,8,ESP,RW,29-120,66,0,0,0,0,1,1,0,0,56,0,0,0,0.1,0.1,0.1,3,0,50,55,90.9,7,44,3,1,1,Manchester United,2017-08-26 Manchester Utd-Leicester City,ENG-EPL,17-18,b841af28
+a1d5bd30,Marcus Rashford,19,ENG,"LM,RW,RM",19-299,24,1,0,0,0,1,1,0,0,20,0,0,0,0.1,0.1,0.1,2,0,11,16,68.8,5,17,3,3,2,Manchester United,2017-08-26 Manchester Utd-Leicester City,ENG-EPL,17-18,b841af28
+dd0daf32,Henrikh Mkhitaryan,22,ARM,AM,28-217,73,0,1,0,0,2,0,1,0,71,1,2,0,0.1,0.1,0.2,8,1,49,59,83.1,8,51,1,4,2,Manchester United,2017-08-26 Manchester Utd-Leicester City,ENG-EPL,17-18,b841af28
+87575fd9,Marouane Fellaini,27,BEL,CM,29-277,17,1,0,0,0,1,1,0,0,19,0,0,1,0.8,0.8,0.0,1,0,16,17,94.1,1,11,1,0,0,Manchester United,2017-08-26 Manchester Utd-Leicester City,ENG-EPL,17-18,b841af28
+eb7822d7,Nemanja Matić,31,SRB,DM,29-025,90,0,0,0,0,0,0,0,0,86,3,2,1,0.0,0.0,0.0,2,0,64,72,88.9,3,53,2,3,2,Manchester United,2017-08-26 Manchester Utd-Leicester City,ENG-EPL,17-18,b841af28
+867239d3,Paul Pogba,6,FRA,"DM,CM",24-164,90,0,0,0,0,6,0,0,0,122,0,1,1,0.5,0.5,0.0,7,1,93,110,84.5,16,84,3,4,4,Manchester United,2017-08-26 Manchester Utd-Leicester City,ENG-EPL,17-18,b841af28
+691bef82,Daley Blind,17,NED,LB,27-170,90,0,0,0,0,0,0,0,0,90,1,2,1,0.0,0.0,0.1,5,0,68,84,81.0,13,54,3,0,0,Manchester United,2017-08-26 Manchester Utd-Leicester City,ENG-EPL,17-18,b841af28
+def899bd,Phil Jones,4,ENG,CB,25-186,90,0,0,0,0,0,0,0,0,62,0,1,1,0.0,0.0,0.0,0,0,52,54,96.3,6,32,1,1,1,Manchester United,2017-08-26 Manchester Utd-Leicester City,ENG-EPL,17-18,b841af28
+a1232f4e,Eric Bailly,3,CIV,CB,23-136,90,0,0,0,0,0,0,0,0,57,2,0,0,0.0,0.0,0.0,0,0,42,49,85.7,4,37,2,0,0,Manchester United,2017-08-26 Manchester Utd-Leicester City,ENG-EPL,17-18,b841af28
+08aa17d0,Antonio Valencia,25,ECU,RB,32-022,90,0,0,0,0,1,0,0,0,101,2,0,0,0.0,0.0,0.0,1,0,76,97,78.4,2,63,8,2,2,Manchester United,2017-08-26 Manchester Utd-Leicester City,ENG-EPL,17-18,b841af28
+7ba6d84e,David de Gea,1,ESP,GK,26-292,90,0,0,0,0,0,0,0,0,27,0,0,0,0.0,0.0,0.0,0,0,15,24,62.5,0,12,0,0,0,Manchester United,2017-08-26 Manchester Utd-Leicester City,ENG-EPL,17-18,b841af28
+45963054,Jamie Vardy,9,ENG,FW,30-227,75,0,0,0,0,0,0,0,0,24,2,0,0,0.0,0.0,0.1,2,0,9,18,50.0,3,9,1,0,0,Leicester City,2017-08-26 Manchester Utd-Leicester City,ENG-EPL,17-18,b841af28
+ffec9769,Islam Slimani,19,ALG,FW,29-069,15,0,0,0,0,2,1,0,0,9,0,0,0,0.5,0.5,0.0,1,0,6,6,100.0,1,3,0,0,0,Leicester City,2017-08-26 Manchester Utd-Leicester City,ENG-EPL,17-18,b841af28
+68796d61,Shinji Okazaki,20,JPN,FW,31-132,59,0,0,0,0,1,1,0,0,19,3,0,0,0.0,0.0,0.0,0,0,9,12,75.0,1,8,0,0,0,Leicester City,2017-08-26 Manchester Utd-Leicester City,ENG-EPL,17-18,b841af28
+d790907f,Andy King,10,WAL,"CM,FW",28-301,31,0,0,0,0,0,0,0,0,11,1,0,0,0.0,0.0,0.1,1,0,9,11,81.8,1,6,0,0,0,Leicester City,2017-08-26 Manchester Utd-Leicester City,ENG-EPL,17-18,b841af28
+b827d5b3,Marc Albrighton,11,ENG,LM,27-281,59,0,0,0,0,0,0,0,0,20,0,1,1,0.0,0.0,0.0,0,0,6,14,42.9,0,8,0,1,0,Leicester City,2017-08-26 Manchester Utd-Leicester City,ENG-EPL,17-18,b841af28
+4468ec10,Demarai Gray,7,JAM,"LW,LM",21-059,31,0,0,0,0,2,1,0,0,18,0,0,0,0.1,0.1,0.6,4,0,11,16,68.8,1,12,6,0,0,Leicester City,2017-08-26 Manchester Utd-Leicester City,ENG-EPL,17-18,b841af28
+6b47c5db,Wilfred Ndidi,25,NGA,CM,20-253,90,0,0,0,0,1,0,0,0,45,6,1,2,0.0,0.0,0.0,2,0,24,34,70.6,2,17,1,3,3,Leicester City,2017-08-26 Manchester Utd-Leicester City,ENG-EPL,17-18,b841af28
+ebd0a048,Matty James,22,ENG,CM,26-035,90,0,0,0,0,1,0,1,0,58,2,2,1,0.0,0.0,0.0,1,0,30,41,73.2,4,16,0,1,0,Leicester City,2017-08-26 Manchester Utd-Leicester City,ENG-EPL,17-18,b841af28
+892d5bb1,Riyad Mahrez,26,ALG,"RM,RW",26-186,90,0,0,0,0,4,1,0,0,49,0,0,0,0.2,0.2,0.0,4,0,29,38,76.3,1,33,4,6,5,Leicester City,2017-08-26 Manchester Utd-Leicester City,ENG-EPL,17-18,b841af28
+a67a09fb,Christian Fuchs,28,AUT,LB,31-141,90,0,0,0,0,0,0,0,0,39,1,4,3,0.0,0.0,0.1,3,0,18,27,66.7,3,9,0,0,0,Leicester City,2017-08-26 Manchester Utd-Leicester City,ENG-EPL,17-18,b841af28
+d8931174,Harry Maguire,15,ENG,CB,24-174,90,0,0,0,0,0,0,0,0,46,1,3,2,0.0,0.0,0.0,0,0,25,32,78.1,3,13,0,2,2,Leicester City,2017-08-26 Manchester Utd-Leicester City,ENG-EPL,17-18,b841af28
+80c31c97,Wes Morgan,5,JAM,CB,33-217,90,0,0,0,0,0,0,0,0,36,4,0,4,0.0,0.0,0.0,0,0,9,16,56.3,1,8,1,0,0,Leicester City,2017-08-26 Manchester Utd-Leicester City,ENG-EPL,17-18,b841af28
+3201b03d,Danny Simpson,2,ENG,RB,30-234,90,0,0,0,0,0,0,0,0,44,2,2,1,0.0,0.0,0.0,0,0,18,29,62.1,2,9,0,1,0,Leicester City,2017-08-26 Manchester Utd-Leicester City,ENG-EPL,17-18,b841af28
+53af52f3,Kasper Schmeichel,1,DEN,GK,30-294,90,0,0,0,0,0,0,1,0,41,0,0,0,0.0,0.0,0.0,0,0,20,37,54.1,1,17,0,0,0,Leicester City,2017-08-26 Manchester Utd-Leicester City,ENG-EPL,17-18,b841af28

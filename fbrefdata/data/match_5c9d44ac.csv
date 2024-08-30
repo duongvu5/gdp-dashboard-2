@@ -1,0 +1,29 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+0b90bb97,Santi Mina,22,ESP,FW,25-103,90,1,0,0,0,3,1,0,0,23,1,0,1,0.3,0.3,0.0,0,0,11,15,73.3,1,9,1,0,0,Celta Vigo,2021-03-20 Celta Vigo-Real Madrid,ESP-LALIGA,20-21,5c9d44ac
+7dcf86f6,Iago Aspas,10,ESP,FW,33-231,90,0,0,0,0,2,1,0,0,65,0,0,2,0.1,0.1,0.2,5,1,45,54,83.3,6,41,3,2,1,Celta Vigo,2021-03-20 Celta Vigo-Real Madrid,ESP-LALIGA,20-21,5c9d44ac
+b2d0ec1b,Nolito,9,ESP,LM,34-156,70,0,0,0,0,0,0,0,0,36,1,2,1,0.0,0.0,0.0,0,0,22,29,75.9,2,27,1,1,1,Celta Vigo,2021-03-20 Celta Vigo-Real Madrid,ESP-LALIGA,20-21,5c9d44ac
+3ca6106c,Augusto Solari,21,ARG,LM,29-076,19,0,0,0,0,0,0,1,0,9,0,1,2,0.0,0.0,0.0,0,0,3,5,60.0,0,5,0,1,1,Celta Vigo,2021-03-20 Celta Vigo-Real Madrid,ESP-LALIGA,20-21,5c9d44ac
+1827a42d,José Fontán,29,ESP,LM,21-037,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Celta Vigo,2021-03-20 Celta Vigo-Real Madrid,ESP-LALIGA,20-21,5c9d44ac
+12c50af5,Denis Suárez,6,ESP,CM,27-073,90,0,1,0,0,0,0,1,0,85,2,0,2,0.0,0.0,0.1,3,1,65,73,89.0,9,54,3,0,0,Celta Vigo,2021-03-20 Celta Vigo-Real Madrid,ESP-LALIGA,20-21,5c9d44ac
+c9e39d91,Brais Méndez,23,ESP,RM,24-072,83,0,0,0,0,1,1,0,0,46,3,1,1,0.0,0.0,0.0,1,0,30,40,75.0,0,25,1,0,0,Celta Vigo,2021-03-20 Celta Vigo-Real Madrid,ESP-LALIGA,20-21,5c9d44ac
+ed5c5fa3,Fran Beltrán,8,ESP,RM,22-045,7,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,9,9,100.0,1,6,0,0,0,Celta Vigo,2021-03-20 Celta Vigo-Real Madrid,ESP-LALIGA,20-21,5c9d44ac
+34269bdf,Renato Tapia,14,PER,DM,25-235,90,0,0,0,0,0,0,1,0,55,3,1,3,0.0,0.0,0.0,2,0,38,45,84.4,5,33,0,1,1,Celta Vigo,2021-03-20 Celta Vigo-Real Madrid,ESP-LALIGA,20-21,5c9d44ac
+2f3e911a,Aarón Martín,19,ESP,LB,23-332,90,0,0,0,0,0,0,0,0,56,1,1,3,0.0,0.0,0.0,1,0,35,45,77.8,0,37,2,2,1,Celta Vigo,2021-03-20 Celta Vigo-Real Madrid,ESP-LALIGA,20-21,5c9d44ac
+b233e8e4,Jeison Murillo,24,COL,CB,28-297,83,0,0,0,0,0,0,0,0,59,0,0,2,0.0,0.0,0.0,0,0,46,52,88.5,1,41,1,0,0,Celta Vigo,2021-03-20 Celta Vigo-Real Madrid,ESP-LALIGA,20-21,5c9d44ac
+b39a793e,Facundo Ferreyra,12,ARG,CB,30-006,7,0,0,0,0,2,0,0,0,3,0,0,0,0.1,0.1,0.0,1,0,1,1,100.0,0,0,0,0,0,Celta Vigo,2021-03-20 Celta Vigo-Real Madrid,ESP-LALIGA,20-21,5c9d44ac
+27a013f7,Néstor Araujo,4,MEX,CB,29-203,90,0,0,0,0,0,0,0,0,74,0,1,1,0.0,0.0,0.0,0,0,60,65,92.3,3,53,2,0,0,Celta Vigo,2021-03-20 Celta Vigo-Real Madrid,ESP-LALIGA,20-21,5c9d44ac
+cb574619,Hugo Mallo,2,ESP,RB,29-271,90,0,0,0,0,0,0,0,0,78,3,2,2,0.0,0.0,0.0,1,0,49,65,75.4,2,44,2,2,2,Celta Vigo,2021-03-20 Celta Vigo-Real Madrid,ESP-LALIGA,20-21,5c9d44ac
+cde52ef5,Iván Villar,1,ESP,GK,23-254,90,0,0,0,0,0,0,0,0,32,0,0,0,0.0,0.0,0.0,0,0,27,31,87.1,0,17,0,0,0,Celta Vigo,2021-03-20 Celta Vigo-Real Madrid,ESP-LALIGA,20-21,5c9d44ac
+7111d552,Vinicius Júnior,20,BRA,"FW,LW",20-251,90,0,0,0,0,4,0,1,0,38,1,0,1,0.8,0.8,0.0,3,0,18,23,78.3,1,30,7,4,2,Real Madrid,2021-03-20 Celta Vigo-Real Madrid,ESP-LALIGA,20-21,5c9d44ac
+70d74ece,Karim Benzema,9,FRA,FW,33-091,90,2,1,0,0,6,3,0,0,55,0,0,0,0.6,0.6,1.6,5,1,35,45,77.8,3,31,4,1,1,Real Madrid,2021-03-20 Celta Vigo-Real Madrid,ESP-LALIGA,20-21,5c9d44ac
+6025fab1,Luka Modrić,10,CRO,"AM,LM",35-192,90,0,0,0,0,1,0,1,0,68,0,1,1,0.0,0.0,0.0,2,0,52,64,81.3,6,48,1,1,1,Real Madrid,2021-03-20 Celta Vigo-Real Madrid,ESP-LALIGA,20-21,5c9d44ac
+6ce1f46f,Toni Kroos,8,GER,LM,31-075,70,0,2,0,0,0,0,1,0,59,2,1,1,0.0,0.0,0.5,3,2,46,55,83.6,2,34,1,1,1,Real Madrid,2021-03-20 Celta Vigo-Real Madrid,ESP-LALIGA,20-21,5c9d44ac
+45af8a54,Marco Asensio,11,ESP,RW,25-058,20,1,0,0,0,1,1,0,0,12,0,0,0,0.9,0.9,0.0,2,1,10,10,100.0,1,10,1,0,0,Real Madrid,2021-03-20 Celta Vigo-Real Madrid,ESP-LALIGA,20-21,5c9d44ac
+0959c2a2,Federico Valverde,15,URU,RM,22-241,90,0,0,0,0,2,0,0,0,39,2,1,1,0.1,0.1,0.1,4,0,25,31,80.6,4,27,2,1,1,Real Madrid,2021-03-20 Celta Vigo-Real Madrid,ESP-LALIGA,20-21,5c9d44ac
+4d224fe8,Casemiro,14,BRA,"DM,CM",29-025,90,0,0,0,0,0,0,0,0,69,3,6,2,0.0,0.0,0.0,2,0,40,48,83.3,2,34,1,1,1,Real Madrid,2021-03-20 Celta Vigo-Real Madrid,ESP-LALIGA,20-21,5c9d44ac
+3cefcaef,Ferland Mendy,23,FRA,LB,25-285,90,0,0,0,0,1,0,0,0,54,0,2,0,0.0,0.0,0.0,1,0,40,45,88.9,1,32,5,0,0,Real Madrid,2021-03-20 Celta Vigo-Real Madrid,ESP-LALIGA,20-21,5c9d44ac
+2946f9a1,Nacho,6,ESP,CB,31-061,90,0,0,0,0,0,0,1,0,47,2,3,1,0.0,0.0,0.0,0,0,30,35,85.7,1,21,0,0,0,Real Madrid,2021-03-20 Celta Vigo-Real Madrid,ESP-LALIGA,20-21,5c9d44ac
+9f8e9423,Raphaël Varane,5,FRA,CB,27-329,90,0,0,0,0,1,0,0,0,49,0,0,0,0.1,0.1,0.0,0,0,36,42,85.7,0,34,1,0,0,Real Madrid,2021-03-20 Celta Vigo-Real Madrid,ESP-LALIGA,20-21,5c9d44ac
+fd51b456,Lucas Vázquez,17,ESP,RB,29-262,90,0,0,0,0,0,0,0,0,78,1,1,0,0.0,0.0,0.0,3,1,62,70,88.6,6,48,0,6,4,Real Madrid,2021-03-20 Celta Vigo-Real Madrid,ESP-LALIGA,20-21,5c9d44ac
+1840e36d,Thibaut Courtois,1,BEL,GK,28-313,90,0,0,0,0,0,0,0,0,44,0,0,0,0.0,0.0,0.0,0,0,30,43,69.8,0,24,0,0,0,Real Madrid,2021-03-20 Celta Vigo-Real Madrid,ESP-LALIGA,20-21,5c9d44ac

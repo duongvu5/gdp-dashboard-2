@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+8f898ba8,Guido Carrillo,9,ARG,FW,27-114,90,0,0,0,1,3,1,0,0,31,2,1,1,1.0,0.2,0.1,2,0,13,21,61.9,1,11,2,0,0,Leganés,2018-09-16 Leganés-Villarreal,ESP-LALIGA,18-19,6c8c4d1a
+d1491e00,Diego Rolán,4,URU,LW,25-176,72,0,0,0,0,2,0,0,0,45,2,1,0,0.1,0.1,0.0,6,0,27,34,79.4,1,28,5,7,6,Leganés,2018-09-16 Leganés-Villarreal,ESP-LALIGA,18-19,6c8c4d1a
+19709006,Óscar Rodríguez Arnaiz,27,ESP,LW,20-080,18,0,0,0,0,3,1,0,0,13,0,0,0,0.1,0.1,0.0,1,0,6,10,60.0,1,9,0,1,1,Leganés,2018-09-16 Leganés-Villarreal,ESP-LALIGA,18-19,6c8c4d1a
+37f96552,Nabil El Zhar,10,MAR,RW,32-020,90,0,0,0,0,3,0,0,0,23,0,0,0,0.1,0.1,0.0,5,0,15,18,83.3,1,17,3,2,2,Leganés,2018-09-16 Leganés-Villarreal,ESP-LALIGA,18-19,6c8c4d1a
+aec0fb6f,Javier Eraso,17,ESP,AM,28-178,61,0,0,0,0,0,0,0,0,18,0,0,0,0.0,0.0,0.2,3,0,8,18,44.4,1,8,0,0,0,Leganés,2018-09-16 Leganés-Villarreal,ESP-LALIGA,18-19,6c8c4d1a
+3cb6f224,Michael Santos,20,URU,AM,25-187,29,0,0,0,0,0,0,0,0,10,2,0,0,0.0,0.0,0.0,0,0,5,6,83.3,1,4,1,1,0,Leganés,2018-09-16 Leganés-Villarreal,ESP-LALIGA,18-19,6c8c4d1a
+3c7bc9bd,Rubén Pérez,21,ESP,DM,29-143,90,0,0,0,0,2,0,1,0,59,2,2,0,0.0,0.0,0.0,2,0,41,50,82.0,8,39,0,0,0,Leganés,2018-09-16 Leganés-Villarreal,ESP-LALIGA,18-19,6c8c4d1a
+ac454a4f,Gerard Gumbau,6,ESP,DM,23-272,90,0,0,0,0,2,1,0,0,35,2,1,0,0.1,0.1,0.0,1,0,26,29,89.7,2,15,0,1,1,Leganés,2018-09-16 Leganés-Villarreal,ESP-LALIGA,18-19,6c8c4d1a
+f2308b33,Jonathan Silva,5,ARG,LB,24-079,90,0,0,0,0,0,0,1,0,64,1,1,1,0.0,0.0,0.2,5,0,39,56,69.6,2,26,2,0,0,Leganés,2018-09-16 Leganés-Villarreal,ESP-LALIGA,18-19,6c8c4d1a
+92d38e6c,Dimitris Siovas,22,GRE,CB,30-000,90,0,0,0,0,0,0,0,0,52,0,3,2,0.0,0.0,0.0,1,0,39,45,86.7,7,27,0,0,0,Leganés,2018-09-16 Leganés-Villarreal,ESP-LALIGA,18-19,6c8c4d1a
+f3112790,Unai Bustinza,3,ESP,CB,26-226,90,0,0,0,0,0,0,1,0,57,0,1,0,0.0,0.0,0.0,1,0,42,53,79.2,11,37,2,0,0,Leganés,2018-09-16 Leganés-Villarreal,ESP-LALIGA,18-19,6c8c4d1a
+97572117,Allan Nyom,12,CMR,RB,30-129,84,0,0,0,0,0,0,1,0,39,3,0,0,0.0,0.0,0.0,0,0,27,36,75.0,2,25,1,0,0,Leganés,2018-09-16 Leganés-Villarreal,ESP-LALIGA,18-19,6c8c4d1a
+9ba48d64,Juanfran,2,ESP,RB,30-005,6,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,5,9,55.6,0,3,0,0,0,Leganés,2018-09-16 Leganés-Villarreal,ESP-LALIGA,18-19,6c8c4d1a
+75751c99,Iván Cuéllar,1,ESP,GK,34-112,90,0,0,0,0,0,0,0,0,27,0,0,0,0.0,0.0,0.0,0,0,18,26,69.2,0,13,0,0,0,Leganés,2018-09-16 Leganés-Villarreal,ESP-LALIGA,18-19,6c8c4d1a
+81f0781e,Gerard Moreno,7,ESP,FW,26-162,90,0,0,0,0,0,0,0,0,30,0,0,0,0.0,0.0,0.1,2,0,20,29,69.0,2,18,2,1,1,Villarreal,2018-09-16 Leganés-Villarreal,ESP-LALIGA,18-19,6c8c4d1a
+5ceba7fc,Karl Toko Ekambi,17,CMR,FW,26-002,59,0,0,0,0,0,0,0,0,19,1,0,0,0.0,0.0,0.0,2,0,11,16,68.8,0,15,3,2,1,Villarreal,2018-09-16 Leganés-Villarreal,ESP-LALIGA,18-19,6c8c4d1a
+09a9e921,Carlos Bacca,9,COL,FW,32-008,31,1,0,0,0,2,2,0,0,7,0,0,0,0.2,0.2,0.1,2,0,5,5,100.0,0,7,1,0,0,Villarreal,2018-09-16 Leganés-Villarreal,ESP-LALIGA,18-19,6c8c4d1a
+ad6295d4,Miguel Layún,24,MEX,LM,30-083,90,0,1,0,0,3,1,0,0,42,0,0,1,0.2,0.2,0.1,1,1,24,32,75.0,4,25,2,0,0,Villarreal,2018-09-16 Leganés-Villarreal,ESP-LALIGA,18-19,6c8c4d1a
+a0255c67,Manu Morlanes,28,ESP,CM,19-247,87,0,0,0,0,1,0,0,0,50,1,0,1,0.0,0.0,0.0,1,0,35,42,83.3,7,33,0,2,2,Villarreal,2018-09-16 Leganés-Villarreal,ESP-LALIGA,18-19,6c8c4d1a
+000b3da6,Manuel Iturra,20,CHI,CM,34-085,3,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,1,0,0,0,0,Villarreal,2018-09-16 Leganés-Villarreal,ESP-LALIGA,18-19,6c8c4d1a
+963829d0,Manu Trigueros,14,ESP,CM,26-334,90,0,0,0,0,0,0,0,0,72,0,0,1,0.0,0.0,0.0,3,0,57,64,89.1,6,43,2,1,0,Villarreal,2018-09-16 Leganés-Villarreal,ESP-LALIGA,18-19,6c8c4d1a
+ea6a7ab4,Dani Raba,22,ESP,RM,22-322,45,0,0,0,0,0,0,0,0,22,2,1,0,0.0,0.0,0.0,0,0,11,16,68.8,1,14,0,2,1,Villarreal,2018-09-16 Leganés-Villarreal,ESP-LALIGA,18-19,6c8c4d1a
+82927de4,Pablo Fornals,8,ESP,RM,22-206,45,0,0,0,0,2,0,0,0,16,0,0,0,0.1,0.1,0.1,3,0,10,13,76.9,4,14,2,1,1,Villarreal,2018-09-16 Leganés-Villarreal,ESP-LALIGA,18-19,6c8c4d1a
+808d48f3,Jaume Costa,11,ESP,LB,30-182,90,0,0,0,0,1,0,1,0,49,0,0,1,0.0,0.0,0.0,2,1,39,42,92.9,3,29,1,0,0,Villarreal,2018-09-16 Leganés-Villarreal,ESP-LALIGA,18-19,6c8c4d1a
+b3dc6eca,Víctor Ruiz,6,ESP,CB,29-234,90,0,0,0,0,0,0,1,0,70,0,2,0,0.0,0.0,0.0,0,0,57,64,89.1,2,49,0,0,0,Villarreal,2018-09-16 Leganés-Villarreal,ESP-LALIGA,18-19,6c8c4d1a
+42dcf26d,Álvaro González,3,ESP,CB,28-251,90,0,0,0,0,0,0,0,0,63,2,3,0,0.0,0.0,0.0,0,0,44,49,89.8,8,37,1,0,0,Villarreal,2018-09-16 Leganés-Villarreal,ESP-LALIGA,18-19,6c8c4d1a
+fb5d47b3,Mario Gaspar,2,ESP,RB,27-296,90,0,0,0,0,0,0,1,0,65,1,1,2,0.0,0.0,0.0,1,0,41,51,80.4,7,27,1,2,1,Villarreal,2018-09-16 Leganés-Villarreal,ESP-LALIGA,18-19,6c8c4d1a
+9f0ea33f,Sergio Asenjo,1,ESP,GK,29-080,90,0,0,0,0,0,0,0,0,42,0,0,0,0.0,0.0,0.0,0,0,22,38,57.9,0,17,0,0,0,Villarreal,2018-09-16 Leganés-Villarreal,ESP-LALIGA,18-19,6c8c4d1a

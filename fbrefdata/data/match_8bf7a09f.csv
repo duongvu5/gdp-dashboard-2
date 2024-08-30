@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+8d78e732,Robert Lewandowski,9,POL,FW,34-254,90,0,0,0,0,4,1,0,0,27,1,0,0,0.4,0.4,0.1,3,1,17,19,89.5,5,17,1,1,1,Barcelona,2023-05-02 Barcelona-Osasuna,ESP-LALIGA,22-23,8bf7a09f
+19cae58d,Gavi,30,ESP,LW,18-270,35,0,0,0,0,0,0,0,0,24,1,0,0,0.0,0.0,0.0,0,0,14,17,82.4,2,19,3,2,0,Barcelona,2023-05-02 Barcelona-Osasuna,ESP-LALIGA,22-23,8bf7a09f
+0ba976e4,Ansu Fati,10,ESP,LW,20-183,55,0,0,0,0,6,1,0,0,49,1,0,0,0.5,0.5,0.3,4,0,31,42,73.8,3,37,8,1,1,Barcelona,2023-05-02 Barcelona-Osasuna,ESP-LALIGA,22-23,8bf7a09f
+3423f250,Raphinha,22,BRA,RW,26-139,51,0,0,0,0,2,0,0,0,43,1,0,0,0.1,0.1,0.2,2,0,26,38,68.4,3,26,2,0,0,Barcelona,2023-05-02 Barcelona-Osasuna,ESP-LALIGA,22-23,8bf7a09f
+b19db005,Ousmane Dembélé,7,FRA,RW,25-352,39,0,0,0,0,2,0,0,0,30,0,0,0,0.2,0.2,0.0,6,0,16,28,57.1,3,19,6,1,1,Barcelona,2023-05-02 Barcelona-Osasuna,ESP-LALIGA,22-23,8bf7a09f
+0d9b2d31,Pedri,8,ESP,"AM,DM",20-158,90,0,0,0,0,2,0,0,0,69,1,0,1,0.7,0.7,0.7,6,0,46,58,79.3,8,58,6,4,1,Barcelona,2023-05-02 Barcelona-Osasuna,ESP-LALIGA,22-23,8bf7a09f
+1bacc518,Frenkie de Jong,21,NED,DM,25-355,90,0,1,0,0,1,1,0,0,120,1,0,0,0.5,0.5,0.4,7,1,96,112,85.7,23,100,10,1,0,Barcelona,2023-05-02 Barcelona-Osasuna,ESP-LALIGA,22-23,8bf7a09f
+5ab0ea87,Sergio Busquets,5,ESP,DM,34-290,75,0,0,0,0,0,0,0,0,76,0,0,0,0.0,0.0,0.1,3,0,66,73,90.4,12,60,3,1,1,Barcelona,2023-05-02 Barcelona-Osasuna,ESP-LALIGA,22-23,8bf7a09f
+9e1035f8,Ferrán Torres,11,ESP,AM,23-062,15,0,0,0,0,1,0,0,0,8,0,0,0,0.1,0.1,0.0,0,0,3,6,50.0,0,4,0,0,0,Barcelona,2023-05-02 Barcelona-Osasuna,ESP-LALIGA,22-23,8bf7a09f
+5ccc9672,Alejandro Balde,28,ESP,LB,19-196,75,0,0,0,0,0,0,0,0,55,1,0,1,0.0,0.0,0.6,3,0,41,49,83.7,1,39,3,3,3,Barcelona,2023-05-02 Barcelona-Osasuna,ESP-LALIGA,22-23,8bf7a09f
+4601e194,Jordi Alba,18,ESP,LB,34-042,15,1,0,0,0,1,1,0,0,22,1,0,1,0.1,0.1,0.2,2,0,16,19,84.2,1,14,2,0,0,Barcelona,2023-05-02 Barcelona-Osasuna,ESP-LALIGA,22-23,8bf7a09f
+1cb49278,Andreas Christensen,15,DEN,CB,27-022,51,0,0,0,0,0,0,0,0,55,0,1,0,0.0,0.0,0.0,1,0,49,51,96.1,5,46,1,0,0,Barcelona,2023-05-02 Barcelona-Osasuna,ESP-LALIGA,22-23,8bf7a09f
+2bed3eab,Eric García,24,ESP,CB,22-113,39,0,0,0,0,0,0,0,0,27,0,1,0,0.0,0.0,0.0,1,0,23,25,92.0,3,19,1,0,0,Barcelona,2023-05-02 Barcelona-Osasuna,ESP-LALIGA,22-23,8bf7a09f
+2bef2bca,Ronald Araújo,4,URU,CB,24-056,90,0,0,0,0,2,0,0,0,78,1,0,1,0.2,0.2,0.0,0,0,71,72,98.6,8,58,0,1,1,Barcelona,2023-05-02 Barcelona-Osasuna,ESP-LALIGA,22-23,8bf7a09f
+4d1666ff,Jules Koundé,23,FRA,RB,24-171,90,0,0,0,0,0,0,0,0,69,3,1,0,0.0,0.0,0.1,1,0,56,65,86.2,5,47,2,0,0,Barcelona,2023-05-02 Barcelona-Osasuna,ESP-LALIGA,22-23,8bf7a09f
+6f51e382,Marc-André ter Stegen,1,GER,GK,31-002,90,0,0,0,0,0,0,0,0,29,0,0,0,0.0,0.0,0.0,0,0,26,28,92.9,0,18,0,0,0,Barcelona,2023-05-02 Barcelona-Osasuna,ESP-LALIGA,22-23,8bf7a09f
+253a06b9,Ezequiel Ávila,9,ARG,FW,29-085,58,0,0,0,0,0,0,0,0,15,1,1,0,0.0,0.0,0.0,1,0,10,13,76.9,0,6,0,2,2,Osasuna,2023-05-02 Barcelona-Osasuna,ESP-LALIGA,22-23,8bf7a09f
+e897d8ba,Kiké,18,ESP,FW,33-158,32,0,0,0,0,2,1,0,0,18,0,0,1,0.1,0.1,0.1,2,0,3,8,37.5,0,8,0,1,0,Osasuna,2023-05-02 Barcelona-Osasuna,ESP-LALIGA,22-23,8bf7a09f
+50cbc806,Iker Benito,33,ESP,LW,20-265,69,0,0,0,0,0,0,0,0,22,0,0,0,0.0,0.0,0.0,1,0,11,15,73.3,0,11,3,2,0,Osasuna,2023-05-02 Barcelona-Osasuna,ESP-LALIGA,22-23,8bf7a09f
+132ac341,Aridane Hernández,23,ESP,LW,34-040,21,0,0,0,0,0,0,0,0,6,1,0,1,0.0,0.0,0.0,0,0,2,3,66.7,1,0,0,0,0,Osasuna,2023-05-02 Barcelona-Osasuna,ESP-LALIGA,22-23,8bf7a09f
+5c96b017,Rubén García,14,ESP,RW,29-292,45,0,0,0,0,0,0,0,0,19,3,1,0,0.0,0.0,0.0,0,0,9,14,64.3,1,9,0,0,0,Osasuna,2023-05-02 Barcelona-Osasuna,ESP-LALIGA,22-23,8bf7a09f
+aad53e64,Kike Barja,11,ESP,RW,26-031,45,0,0,0,0,1,0,0,0,16,0,0,0,0.1,0.1,0.1,1,0,2,5,40.0,0,10,2,6,5,Osasuna,2023-05-02 Barcelona-Osasuna,ESP-LALIGA,22-23,8bf7a09f
+7c363088,Aimar Oroz,22,ESP,AM,21-156,45,0,0,0,0,0,0,0,0,18,0,0,1,0.0,0.0,0.1,1,0,7,11,63.6,0,7,0,0,0,Osasuna,2023-05-02 Barcelona-Osasuna,ESP-LALIGA,22-23,8bf7a09f
+175ece4c,Iker Muñoz,34,ESP,AM,20-178,45,0,0,0,0,1,1,0,0,16,0,0,0,0.0,0.0,0.0,1,0,8,13,61.5,3,6,0,0,0,Osasuna,2023-05-02 Barcelona-Osasuna,ESP-LALIGA,22-23,8bf7a09f
+0e4fef6e,Lucas Torró,6,ESP,DM,28-287,58,0,0,0,0,1,0,0,0,24,4,0,2,0.1,0.1,0.0,0,0,10,13,76.9,0,6,0,0,0,Osasuna,2023-05-02 Barcelona-Osasuna,ESP-LALIGA,22-23,8bf7a09f
+a56da3ba,Juan Cruz Armada,3,ESP,DM,30-278,32,0,0,0,0,0,0,0,0,13,0,1,0,0.0,0.0,0.0,1,0,4,10,40.0,1,4,0,0,0,Osasuna,2023-05-02 Barcelona-Osasuna,ESP-LALIGA,22-23,8bf7a09f
+3701906c,Pablo Ibáñez,19,ESP,DM,24-224,90,0,0,0,0,2,0,0,0,28,2,0,1,0.1,0.1,0.0,1,0,13,17,76.5,0,10,1,1,1,Osasuna,2023-05-02 Barcelona-Osasuna,ESP-LALIGA,22-23,8bf7a09f
+ffacd3d5,Manu Sánchez,20,ESP,LB,22-251,90,0,0,0,0,0,0,0,0,22,0,0,2,0.0,0.0,0.1,1,0,10,15,66.7,1,9,0,1,0,Osasuna,2023-05-02 Barcelona-Osasuna,ESP-LALIGA,22-23,8bf7a09f
+e19c989c,Jorge Herrando,31,ESP,CB,22-063,25,0,0,0,0,0,0,0,1,9,0,0,1,0.0,0.0,0.0,0,0,3,5,60.0,0,1,0,0,0,Osasuna,2023-05-02 Barcelona-Osasuna,ESP-LALIGA,22-23,8bf7a09f
+4a633cfe,Unai García,4,ESP,CB,31-088,90,0,0,0,0,0,0,0,0,24,1,1,2,0.0,0.0,0.0,0,0,12,15,80.0,2,10,0,0,0,Osasuna,2023-05-02 Barcelona-Osasuna,ESP-LALIGA,22-23,8bf7a09f
+a21417e2,Diego Moreno,35,ESP,RB,21-315,90,0,0,0,0,0,0,0,0,36,0,4,2,0.0,0.0,0.0,1,0,15,22,68.2,2,13,1,1,0,Osasuna,2023-05-02 Barcelona-Osasuna,ESP-LALIGA,22-23,8bf7a09f
+a01c3d54,Aitor Fernández,25,ESP,GK,31-364,90,0,0,0,0,0,0,0,0,52,0,1,0,0.0,0.0,0.0,1,0,26,48,54.2,0,17,0,0,0,Osasuna,2023-05-02 Barcelona-Osasuna,ESP-LALIGA,22-23,8bf7a09f

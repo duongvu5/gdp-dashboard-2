@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+0e6bc38c,Eric Maxim Choupo-Moting,13,CMR,FW,33-223,72,1,0,0,0,3,1,0,0,27,1,0,0,0.1,0.1,0.3,4,0,15,20,75.0,1,18,1,0,0,Bayern Munich,2022-11-01 Bayern Munich-Inter,UCL,22-23,6af79648
+829aa60c,Mathys Tel,39,FRA,FW,17-188,18,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,3,0,0,0,Bayern Munich,2022-11-01 Bayern Munich-Inter,UCL,22-23,6af79648
+c691bfe2,Sadio Mané,17,SEN,LW,30-205,64,0,0,0,0,2,1,0,0,30,1,0,3,0.2,0.2,0.1,4,0,13,17,76.5,3,19,1,1,0,Bayern Munich,2022-11-01 Bayern Munich-Inter,UCL,22-23,6af79648
+88e357ef,Serge Gnabry,7,GER,"LW,RW",27-110,26,0,0,0,0,0,0,0,0,18,0,0,0,0.0,0.0,0.0,1,0,17,18,94.4,0,14,2,0,0,Bayern Munich,2022-11-01 Bayern Munich-Inter,UCL,22-23,6af79648
+042e8a49,Kingsley Coman,11,FRA,"RW,LW",26-141,75,0,0,0,0,1,1,0,0,53,2,0,0,0.0,0.0,0.2,6,0,34,43,79.1,4,42,5,2,1,Bayern Munich,2022-11-01 Bayern Munich-Inter,UCL,22-23,6af79648
+cb64672e,Paul Wanner,14,GER,RW,16-313,15,0,0,0,0,1,0,0,0,9,0,0,0,0.1,0.1,0.0,0,0,6,6,100.0,0,7,0,1,0,Bayern Munich,2022-11-01 Bayern Munich-Inter,UCL,22-23,6af79648
+b8e740fb,Ryan Gravenberch,38,NED,"AM,CM",20-169,90,0,0,0,0,1,1,0,0,45,2,1,0,0.1,0.1,0.1,6,0,30,38,78.9,8,30,1,2,0,Bayern Munich,2022-11-01 Bayern Munich-Inter,UCL,22-23,6af79648
+e280527c,Marcel Sabitzer,18,AUT,DM,28-229,90,0,0,0,0,4,0,1,0,56,0,3,3,0.2,0.2,0.0,5,0,41,44,93.2,6,37,2,0,0,Bayern Munich,2022-11-01 Bayern Munich-Inter,UCL,22-23,6af79648
+49296448,Joshua Kimmich,6,GER,DM,27-266,90,0,1,0,0,5,2,1,0,99,0,1,0,0.2,0.2,0.4,6,1,78,89,87.6,11,67,1,1,0,Bayern Munich,2022-11-01 Bayern Munich-Inter,UCL,22-23,6af79648
+7ed08d5c,Josip Stanišić,44,CRO,"CB,LB",22-213,90,0,0,0,0,0,0,1,0,95,2,0,3,0.0,0.0,0.0,3,1,79,85,92.9,6,56,0,1,1,Bayern Munich,2022-11-01 Bayern Munich-Inter,UCL,22-23,6af79648
+d248cd8f,Dayot Upamecano,2,FRA,CB,24-005,45,0,0,0,0,0,0,0,0,39,0,1,1,0.0,0.0,0.0,1,0,32,37,86.5,4,33,1,1,1,Bayern Munich,2022-11-01 Bayern Munich-Inter,UCL,22-23,6af79648
+d781d855,Alphonso Davies,19,CAN,LB,21-364,45,0,1,0,0,2,0,0,0,59,0,1,2,0.3,0.3,0.1,3,1,47,50,94.0,0,44,3,3,3,Bayern Munich,2022-11-01 Bayern Munich-Inter,UCL,22-23,6af79648
+45a03961,Benjamin Pavard,5,FRA,"CB,RB",26-218,90,1,0,0,0,1,1,0,0,82,5,0,2,0.2,0.2,0.0,0,0,66,70,94.3,4,52,1,0,0,Bayern Munich,2022-11-01 Bayern Munich-Inter,UCL,22-23,6af79648
+b74277a0,Noussair Mazraoui,40,MAR,RB,24-352,64,0,0,0,0,2,0,0,0,76,0,0,0,0.1,0.1,0.0,6,1,63,71,88.7,7,61,3,1,1,Bayern Munich,2022-11-01 Bayern Munich-Inter,UCL,22-23,6af79648
+2c0558b8,Jamal Musiala,42,GER,CM,19-248,26,0,0,0,0,1,1,0,0,22,0,1,3,0.1,0.1,0.0,1,0,15,16,93.8,2,16,0,3,3,Bayern Munich,2022-11-01 Bayern Munich-Inter,UCL,22-23,6af79648
+7d3e7da6,Sven Ulreich,26,GER,GK,34-090,90,0,0,0,0,0,0,0,0,37,0,0,0,0.0,0.0,0.0,0,0,32,35,91.4,0,26,0,0,0,Bayern Munich,2022-11-01 Bayern Munich-Inter,UCL,22-23,6af79648
+45b9b619,Joaquín Correa,11,ARG,FW,28-080,75,0,0,0,0,0,0,0,0,33,2,0,1,0.0,0.0,0.1,0,0,17,24,70.8,1,18,0,5,2,Internazionale,2022-11-01 Bayern Munich-Inter,UCL,22-23,6af79648
+707b98f1,Valentin Carboni,45,ARG,FW,17-241,15,0,0,0,0,0,0,1,0,4,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,3,0,0,0,Internazionale,2022-11-01 Bayern Munich-Inter,UCL,22-23,6af79648
+f7036e1c,Lautaro Martínez,10,ARG,FW,25-071,59,0,0,0,0,1,0,0,0,20,0,0,0,0.3,0.3,0.0,2,0,12,17,70.6,0,10,1,0,0,Internazionale,2022-11-01 Bayern Munich-Inter,UCL,22-23,6af79648
+3bb7f478,Edin Džeko,9,BIH,FW,36-229,31,0,0,0,0,2,1,0,0,20,0,0,0,0.3,0.3,0.0,2,0,16,17,94.1,2,12,1,1,1,Internazionale,2022-11-01 Bayern Munich-Inter,UCL,22-23,6af79648
+ce30bfc8,Roberto Gagliardini,5,ITA,CM,28-208,59,0,0,0,0,1,1,0,0,37,5,0,3,0.1,0.1,0.0,2,0,20,24,83.3,5,10,1,0,0,Internazionale,2022-11-01 Bayern Munich-Inter,UCL,22-23,6af79648
+cd0fa27b,Hakan Çalhanoğlu,20,TUR,CM,28-266,31,0,0,0,0,0,0,0,0,24,0,0,1,0.0,0.0,0.1,2,0,17,22,77.3,1,10,1,0,0,Internazionale,2022-11-01 Bayern Munich-Inter,UCL,22-23,6af79648
+0fdcef0e,Kristjan Asllani,14,ALB,CM,20-237,90,0,0,0,0,0,0,0,0,46,3,1,0,0.0,0.0,0.1,2,0,34,40,85.0,1,17,0,0,0,Internazionale,2022-11-01 Bayern Munich-Inter,UCL,22-23,6af79648
+6928979a,Nicolò Barella,23,ITA,CM,25-267,59,0,0,0,0,2,1,0,0,24,2,0,0,0.1,0.1,0.0,1,0,13,17,76.5,0,15,0,0,0,Internazionale,2022-11-01 Bayern Munich-Inter,UCL,22-23,6af79648
+dd0daf32,Henrikh Mkhitaryan,22,ARM,CM,33-284,31,0,0,0,0,1,1,0,0,20,1,0,1,0.0,0.0,0.0,0,0,12,17,70.6,2,7,0,0,0,Internazionale,2022-11-01 Bayern Munich-Inter,UCL,22-23,6af79648
+2d970560,Robin Gosens,8,GER,WB,28-119,90,0,0,0,0,0,0,1,0,51,2,1,1,0.0,0.0,0.3,1,0,32,43,74.4,1,18,1,1,0,Internazionale,2022-11-01 Bayern Munich-Inter,UCL,22-23,6af79648
+e3756e72,Raoul Bellanova,12,ITA,WB,22-168,90,0,0,0,0,0,0,0,0,51,0,0,2,0.0,0.0,0.0,0,0,29,42,69.0,1,29,4,2,0,Internazionale,2022-11-01 Bayern Munich-Inter,UCL,22-23,6af79648
+b96b595c,Francesco Acerbi,15,ITA,CB,34-264,90,0,0,0,0,0,0,0,0,66,1,1,1,0.0,0.0,0.0,1,0,50,58,86.2,7,21,1,0,0,Internazionale,2022-11-01 Bayern Munich-Inter,UCL,22-23,6af79648
+d0d8dd44,Stefan de Vrij,6,NED,CB,30-269,75,0,0,0,0,0,0,0,0,34,2,1,4,0.0,0.0,0.0,0,0,17,19,89.5,0,9,0,0,0,Internazionale,2022-11-01 Bayern Munich-Inter,UCL,22-23,6af79648
+30f5ffa9,Milan Škriniar,37,SVK,CB,27-263,15,0,0,0,0,0,0,0,0,15,2,0,0,0.0,0.0,0.0,0,0,11,12,91.7,0,5,0,0,0,Internazionale,2022-11-01 Bayern Munich-Inter,UCL,22-23,6af79648
+96e0490d,Matteo Darmian,36,ITA,CB,32-334,90,0,0,0,0,0,0,0,0,43,5,3,1,0.0,0.0,0.0,0,0,25,32,78.1,0,19,0,0,0,Internazionale,2022-11-01 Bayern Munich-Inter,UCL,22-23,6af79648
+e9c0c1b2,André Onana,24,CMR,GK,26-213,90,0,0,0,0,0,0,0,0,46,0,0,0,0.0,0.0,0.0,0,0,36,45,80.0,0,30,0,0,0,Internazionale,2022-11-01 Bayern Munich-Inter,UCL,22-23,6af79648

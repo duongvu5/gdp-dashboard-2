@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+70d74ece,Karim Benzema,9,FRA,FW,33-358,45,1,0,0,0,1,1,0,0,27,1,0,0,0.1,0.1,0.0,1,0,20,24,83.3,0,14,0,0,0,Real Madrid,2021-12-12 Real Madrid-Atlético Madrid,ESP-LALIGA,21-22,ee4158be
+4d8cd038,Luka Jović,16,SRB,FW,23-354,45,0,0,0,0,0,0,0,0,19,0,0,0,0.0,0.0,0.0,1,1,6,8,75.0,1,12,2,0,0,Real Madrid,2021-12-12 Real Madrid-Atlético Madrid,ESP-LALIGA,21-22,ee4158be
+7111d552,Vinicius Júnior,20,BRA,LW,21-153,86,0,2,0,0,2,1,0,0,68,4,0,1,0.1,0.1,0.2,4,2,44,51,86.3,7,47,6,5,1,Real Madrid,2021-12-12 Real Madrid-Atlético Madrid,ESP-LALIGA,21-22,ee4158be
+8f5e92a6,Rodrygo,21,BRA,LW,20-337,4,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,1,2,0,0,0,Real Madrid,2021-12-12 Real Madrid-Atlético Madrid,ESP-LALIGA,21-22,ee4158be
+45af8a54,Marco Asensio,11,ESP,RW,25-325,84,1,0,0,0,1,1,0,0,34,1,0,0,0.1,0.1,0.1,2,1,25,28,89.3,2,21,3,0,0,Real Madrid,2021-12-12 Real Madrid-Atlético Madrid,ESP-LALIGA,21-22,ee4158be
+0959c2a2,Federico Valverde,15,URU,RW,23-143,6,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,0,2,0.0,0,2,0,0,0,Real Madrid,2021-12-12 Real Madrid-Atlético Madrid,ESP-LALIGA,21-22,ee4158be
+6ce1f46f,Toni Kroos,8,GER,LM,31-342,90,0,0,0,0,0,0,0,0,104,2,1,1,0.0,0.0,0.1,2,0,91,99,91.9,8,69,0,0,0,Real Madrid,2021-12-12 Real Madrid-Atlético Madrid,ESP-LALIGA,21-22,ee4158be
+4d224fe8,Casemiro,14,BRA,CM,29-292,90,0,0,0,0,0,0,0,0,74,2,3,0,0.0,0.0,0.0,1,0,54,64,84.4,5,41,1,2,1,Real Madrid,2021-12-12 Real Madrid-Atlético Madrid,ESP-LALIGA,21-22,ee4158be
+6025fab1,Luka Modrić,10,CRO,RM,36-094,90,0,0,0,0,0,0,0,0,88,2,2,0,0.0,0.0,0.0,0,0,73,81,90.1,5,65,3,5,4,Real Madrid,2021-12-12 Real Madrid-Atlético Madrid,ESP-LALIGA,21-22,ee4158be
+3cefcaef,Ferland Mendy,23,FRA,LB,26-187,90,0,0,0,0,0,0,1,0,79,3,1,0,0.0,0.0,0.0,1,0,66,72,91.7,2,42,2,1,1,Real Madrid,2021-12-12 Real Madrid-Atlético Madrid,ESP-LALIGA,21-22,ee4158be
+05439de2,David Alaba,4,AUT,CB,29-171,90,0,0,0,0,0,0,1,0,89,0,0,0,0.0,0.0,0.0,0,0,79,83,95.2,4,59,0,0,0,Real Madrid,2021-12-12 Real Madrid-Atlético Madrid,ESP-LALIGA,21-22,ee4158be
+2784f898,Éder Militão,3,BRA,CB,23-328,90,0,0,0,0,2,0,0,0,64,2,1,1,0.1,0.1,0.0,0,0,53,56,94.6,1,37,0,0,0,Real Madrid,2021-12-12 Real Madrid-Atlético Madrid,ESP-LALIGA,21-22,ee4158be
+4958bfb2,Dani Carvajal,2,ESP,RB,29-335,80,0,0,0,0,1,0,0,0,62,0,0,0,0.0,0.0,0.0,1,0,54,54,100.0,3,27,0,2,0,Real Madrid,2021-12-12 Real Madrid-Atlético Madrid,ESP-LALIGA,21-22,ee4158be
+2946f9a1,Nacho,6,ESP,RB,31-328,10,0,0,0,0,0,0,0,0,12,1,0,0,0.0,0.0,0.0,0,0,6,9,66.7,0,3,0,0,0,Real Madrid,2021-12-12 Real Madrid-Atlético Madrid,ESP-LALIGA,21-22,ee4158be
+1840e36d,Thibaut Courtois,1,BEL,GK,29-215,90,0,0,0,0,0,0,0,0,48,0,0,0,0.0,0.0,0.0,0,0,35,42,83.3,0,27,0,0,0,Real Madrid,2021-12-12 Real Madrid-Atlético Madrid,ESP-LALIGA,21-22,ee4158be
+dc62b55d,Matheus Cunha,19,BRA,FW,22-199,59,0,0,0,0,2,1,0,0,14,1,0,1,0.1,0.1,0.0,2,0,6,7,85.7,1,10,0,0,0,Atlético Madrid,2021-12-12 Real Madrid-Atlético Madrid,ESP-LALIGA,21-22,ee4158be
+a6154613,Luis Suárez,9,URU,FW,34-322,31,0,0,0,0,1,1,1,0,9,0,0,0,0.0,0.0,0.0,0,0,4,5,80.0,1,3,0,2,1,Atlético Madrid,2021-12-12 Real Madrid-Atlético Madrid,ESP-LALIGA,21-22,ee4158be
+df69b544,Antoine Griezmann,8,FRA,FW,30-266,45,0,0,0,0,1,1,0,0,12,0,0,0,0.0,0.0,0.0,1,0,7,9,77.8,0,6,0,0,0,Atlético Madrid,2021-12-12 Real Madrid-Atlético Madrid,ESP-LALIGA,21-22,ee4158be
+8aafd64f,João Félix,7,POR,FW,22-032,45,0,0,0,0,2,2,0,0,32,0,1,0,0.3,0.3,0.1,2,0,15,22,68.2,3,20,3,5,2,Atlético Madrid,2021-12-12 Real Madrid-Atlético Madrid,ESP-LALIGA,21-22,ee4158be
+de39485a,Yannick Carrasco,21,BEL,LM,28-099,45,0,0,0,0,0,0,0,0,16,0,0,1,0.0,0.0,0.0,1,0,11,12,91.7,1,12,3,1,0,Atlético Madrid,2021-12-12 Real Madrid-Atlético Madrid,ESP-LALIGA,21-22,ee4158be
+4dbd0916,Thomas Lemar,11,FRA,"RM,LM",26-030,45,0,0,0,0,0,0,0,0,43,1,0,1,0.0,0.0,0.3,4,0,25,36,69.4,5,23,3,2,1,Atlético Madrid,2021-12-12 Real Madrid-Atlético Madrid,ESP-LALIGA,21-22,ee4158be
+55126f3b,Koke,6,ESP,"CM,LM",29-338,90,0,0,0,0,1,0,0,0,71,2,1,1,0.0,0.0,0.0,1,0,56,62,90.3,13,46,3,0,0,Atlético Madrid,2021-12-12 Real Madrid-Atlético Madrid,ESP-LALIGA,21-22,ee4158be
+162efffd,Rodrigo De Paul,5,ARG,"CM,RM",27-202,68,0,0,0,0,0,0,0,0,46,2,0,1,0.0,0.0,0.0,0,0,35,40,87.5,7,31,0,2,1,Atlético Madrid,2021-12-12 Real Madrid-Atlético Madrid,ESP-LALIGA,21-22,ee4158be
+a8542814,Héctor Herrera,16,MEX,CM,31-237,22,0,0,0,0,1,1,0,0,13,0,0,0,0.2,0.2,0.2,3,0,9,11,81.8,2,9,0,1,1,Atlético Madrid,2021-12-12 Real Madrid-Atlético Madrid,ESP-LALIGA,21-22,ee4158be
+01eb744d,Ángel Correa,10,ARG,RM,26-278,59,0,0,0,0,0,0,0,0,27,2,2,1,0.0,0.0,0.0,1,0,13,17,76.5,1,15,1,1,0,Atlético Madrid,2021-12-12 Real Madrid-Atlético Madrid,ESP-LALIGA,21-22,ee4158be
+ed9f7cfe,Renan Lodi,12,BRA,LB,23-248,31,0,0,0,0,0,0,0,0,20,1,0,0,0.0,0.0,0.0,0,0,15,16,93.8,1,11,0,0,0,Atlético Madrid,2021-12-12 Real Madrid-Atlético Madrid,ESP-LALIGA,21-22,ee4158be
+555f3a0b,Mario Hermoso,22,ESP,"LB,CB",26-177,90,0,0,0,0,1,0,0,0,53,1,0,1,0.1,0.1,0.0,0,0,47,49,95.9,5,35,0,0,0,Atlético Madrid,2021-12-12 Real Madrid-Atlético Madrid,ESP-LALIGA,21-22,ee4158be
+cce181df,Geoffrey Kondogbia,4,CTA,"CB,CM",28-300,90,0,0,0,0,0,0,1,0,43,4,3,1,0.0,0.0,0.0,0,0,30,33,90.9,2,26,0,0,0,Atlético Madrid,2021-12-12 Real Madrid-Atlético Madrid,ESP-LALIGA,21-22,ee4158be
+51a3c4c8,Felipe,18,BRA,CB,32-210,90,0,0,0,0,0,0,1,0,51,1,1,0,0.0,0.0,0.0,0,0,32,39,82.1,3,29,0,1,0,Atlético Madrid,2021-12-12 Real Madrid-Atlético Madrid,ESP-LALIGA,21-22,ee4158be
+02c15616,Marcos Llorente,14,ESP,RB,26-316,90,0,0,0,0,0,0,0,0,57,3,1,0,0.0,0.0,0.0,1,0,42,50,84.0,3,30,2,1,1,Atlético Madrid,2021-12-12 Real Madrid-Atlético Madrid,ESP-LALIGA,21-22,ee4158be
+ee8508c0,Jan Oblak,13,SVN,GK,28-339,90,0,0,0,0,0,0,0,0,19,0,0,0,0.0,0.0,0.0,0,0,6,18,33.3,0,7,0,1,1,Atlético Madrid,2021-12-12 Real Madrid-Atlético Madrid,ESP-LALIGA,21-22,ee4158be

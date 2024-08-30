@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+1cadaf34,Roberto Piccoli,91,ITA,FW,23-112,90,0,0,0,0,6,3,0,0,23,0,0,0,0.7,0.7,0.3,2,0,7,9,77.8,1,14,2,3,0,Lecce,2024-05-18 Lecce-Atalanta,ITA-SERIA_A,23-24,d63c561d
+473803c9,Nikola Krstović,9,MNE,FW,24-043,90,0,0,0,0,2,0,0,0,35,2,0,0,0.4,0.4,0.3,2,0,14,26,53.8,4,21,2,6,2,Lecce,2024-05-18 Lecce-Atalanta,ITA-SERIA_A,23-24,d63c561d
+e6536124,Patrick Dorgu,13,DEN,LM,19-205,53,0,0,0,0,2,0,0,0,21,1,0,0,0.2,0.2,0.0,0,0,9,12,75.0,2,14,0,1,0,Lecce,2024-05-18 Lecce-Atalanta,ITA-SERIA_A,23-24,d63c561d
+ec315772,Santiago Pierotti,50,ARG,RM,23-045,37,0,0,0,0,0,0,0,0,24,2,1,3,0.0,0.0,0.0,3,0,12,16,75.0,1,13,1,4,3,Lecce,2024-05-18 Lecce-Atalanta,ITA-SERIA_A,23-24,d63c561d
+9d376bef,Medon Berisha,18,ALB,CM,20-210,53,0,0,0,0,0,0,0,0,33,0,0,2,0.0,0.0,0.1,2,0,24,28,85.7,2,17,1,2,0,Lecce,2024-05-18 Lecce-Atalanta,ITA-SERIA_A,23-24,d63c561d
+c69ef855,Alexis Blin,29,FRA,CM,27-245,37,0,0,0,0,0,0,0,0,36,0,0,0,0.0,0.0,0.1,1,0,33,34,97.1,7,21,0,1,0,Lecce,2024-05-18 Lecce-Atalanta,ITA-SERIA_A,23-24,d63c561d
+ef3c876b,Ylber Ramadani,20,ALB,CM,28-036,82,0,0,0,0,0,0,0,0,45,1,2,1,0.0,0.0,0.0,2,0,30,37,81.1,2,25,3,0,0,Lecce,2024-05-18 Lecce-Atalanta,ITA-SERIA_A,23-24,d63c561d
+6b587d3d,Hamza Rafia,8,TUN,CM,25-046,8,0,0,0,0,0,0,0,0,9,1,0,1,0.0,0.0,0.0,1,0,3,7,42.9,1,6,0,1,1,Lecce,2024-05-18 Lecce-Atalanta,ITA-SERIA_A,23-24,d63c561d
+f025eade,Joan Gonzàlez,16,ESP,RM,22-107,54,0,0,0,0,0,0,0,0,22,0,0,2,0.0,0.0,0.0,1,0,9,15,60.0,2,10,0,2,2,Lecce,2024-05-18 Lecce-Atalanta,ITA-SERIA_A,23-24,d63c561d
+ea02beaf,Remi Oudin,10,FRA,LM,27-182,36,0,0,0,0,0,0,0,0,25,1,0,0,0.0,0.0,0.0,0,0,17,22,77.3,1,16,0,1,0,Lecce,2024-05-18 Lecce-Atalanta,ITA-SERIA_A,23-24,d63c561d
+c74d63ac,Antonino Gallo,25,ITA,LB,24-134,90,0,0,0,0,0,0,0,0,64,2,0,1,0.0,0.0,0.1,2,0,46,59,78.0,6,37,4,4,3,Lecce,2024-05-18 Lecce-Atalanta,ITA-SERIA_A,23-24,d63c561d
+2a6cd437,Marin Pongračić,5,CRO,CB,26-250,90,0,0,0,0,0,0,0,0,65,3,3,0,0.0,0.0,0.1,2,0,55,56,98.2,4,39,2,3,1,Lecce,2024-05-18 Lecce-Atalanta,ITA-SERIA_A,23-24,d63c561d
+5a08ee41,Federico Baschirotto,6,ITA,CB,27-241,90,0,0,0,0,0,0,0,0,59,1,1,1,0.0,0.0,0.0,0,0,47,50,94.0,5,31,1,0,0,Lecce,2024-05-18 Lecce-Atalanta,ITA-SERIA_A,23-24,d63c561d
+822ed0ec,Valentin Gendrey,17,FRA,RB,23-332,28,0,0,0,0,1,0,0,0,18,0,0,0,0.1,0.1,0.0,1,0,10,14,71.4,1,8,2,2,1,Lecce,2024-05-18 Lecce-Atalanta,ITA-SERIA_A,23-24,d63c561d
+983ff2c7,Lorenzo Venuti,12,ITA,RB,29-036,62,0,0,0,0,0,0,0,0,52,1,0,0,0.0,0.0,0.2,2,0,39,49,79.6,8,31,4,0,0,Lecce,2024-05-18 Lecce-Atalanta,ITA-SERIA_A,23-24,d63c561d
+9f5a610b,Wladimiro Falcone,30,ITA,GK,29-036,90,0,0,0,0,0,0,0,0,42,0,0,0,0.0,0.0,0.0,0,0,29,37,78.4,0,22,0,0,0,Lecce,2024-05-18 Lecce-Atalanta,ITA-SERIA_A,23-24,d63c561d
+8790f988,Gianluca Scamacca,90,ITA,FW,25-138,61,1,1,0,0,3,2,0,0,24,0,0,0,0.2,0.2,0.5,6,1,13,16,81.3,3,21,2,0,0,Atalanta,2024-05-18 Lecce-Atalanta,ITA-SERIA_A,23-24,d63c561d
+6eee05f1,Berat Djimsiti,19,ALB,CB,31-089,29,0,0,0,0,1,0,0,0,23,0,2,0,0.1,0.1,0.0,0,0,15,18,83.3,0,11,0,0,0,Atalanta,2024-05-18 Lecce-Atalanta,ITA-SERIA_A,23-24,d63c561d
+47c609d5,El Bilal Touré,10,MLI,FW,22-228,45,0,0,0,0,2,1,1,0,22,0,1,0,0.1,0.1,0.3,1,0,10,15,66.7,1,16,2,0,0,Atalanta,2024-05-18 Lecce-Atalanta,ITA-SERIA_A,23-24,d63c561d
+2ef7c612,Charles De Ketelaere,17,BEL,FW,23-069,45,1,0,0,0,2,1,0,0,17,1,0,0,0.3,0.3,0.0,0,0,9,12,75.0,2,14,3,0,0,Atalanta,2024-05-18 Lecce-Atalanta,ITA-SERIA_A,23-24,d63c561d
+a9aa0d1d,Aleksei Miranchuk,59,RUS,"AM,FW",28-214,90,0,1,0,0,4,3,0,0,74,3,0,0,0.3,0.3,0.5,11,1,57,64,89.1,9,46,4,4,3,Atalanta,2024-05-18 Lecce-Atalanta,ITA-SERIA_A,23-24,d63c561d
+e599253a,Mario Pašalić,8,CRO,"CM,AM",29-099,67,0,0,0,0,1,1,1,0,77,2,1,1,0.3,0.3,0.1,7,0,68,71,95.8,9,52,4,0,0,Atalanta,2024-05-18 Lecce-Atalanta,ITA-SERIA_A,23-24,d63c561d
+599d91d0,Michel Ndary Adopo,25,FRA,AM,23-304,23,0,0,0,0,0,0,0,0,19,1,0,0,0.0,0.0,0.0,1,0,14,18,77.8,1,9,1,0,0,Atalanta,2024-05-18 Lecce-Atalanta,ITA-SERIA_A,23-24,d63c561d
+1e9aa637,Giorgio Scalvini,42,ITA,"CM,CB",20-159,90,0,0,0,0,1,0,0,0,94,1,3,0,0.1,0.1,0.0,3,0,66,77,85.7,8,46,0,0,0,Atalanta,2024-05-18 Lecce-Atalanta,ITA-SERIA_A,23-24,d63c561d
+7fe90ccd,Davide Zappacosta,77,ITA,WB,31-342,45,0,0,0,0,2,0,0,0,34,0,0,0,0.1,0.1,0.0,1,0,30,32,93.8,1,21,1,1,1,Atalanta,2024-05-18 Lecce-Atalanta,ITA-SERIA_A,23-24,d63c561d
+a9202def,Éderson,13,BRA,CM,24-316,45,0,0,0,0,0,0,0,0,31,0,0,0,0.0,0.0,0.0,0,0,22,26,84.6,2,16,0,1,0,Atalanta,2024-05-18 Lecce-Atalanta,ITA-SERIA_A,23-24,d63c561d
+3b333ac3,Hans Hateboer,33,NED,WB,30-130,90,0,0,0,0,0,0,1,0,60,1,1,0,0.0,0.0,0.1,3,0,49,54,90.7,4,21,0,2,1,Atalanta,2024-05-18 Lecce-Atalanta,ITA-SERIA_A,23-24,d63c561d
+938d8a55,Giovanni Bonfanti,43,ITA,"CB,WB",21-122,74,0,0,0,0,1,0,0,0,61,4,1,1,0.1,0.1,0.0,1,0,43,53,81.1,1,26,0,1,1,Atalanta,2024-05-18 Lecce-Atalanta,ITA-SERIA_A,23-24,d63c561d
+a8567629,Mitchel Bakker,20,NED,WB,23-333,16,0,0,0,0,0,0,0,0,17,1,0,0,0.0,0.0,0.0,0,0,12,15,80.0,1,9,1,1,0,Atalanta,2024-05-18 Lecce-Atalanta,ITA-SERIA_A,23-24,d63c561d
+12806697,Isak Hien,4,SWE,CB,25-126,90,0,0,0,0,2,1,0,0,64,2,2,1,0.1,0.1,0.0,0,0,47,51,92.2,3,33,0,0,0,Atalanta,2024-05-18 Lecce-Atalanta,ITA-SERIA_A,23-24,d63c561d
+c56dc39e,Rafael Tolói,2,ITA,CB,33-221,90,0,0,0,0,0,0,1,0,50,2,1,1,0.0,0.0,0.0,0,0,35,43,81.4,5,26,1,3,1,Atalanta,2024-05-18 Lecce-Atalanta,ITA-SERIA_A,23-24,d63c561d
+a111cf41,Juan Musso,1,ARG,GK,30-012,90,0,0,0,0,0,0,0,0,30,0,0,0,0.0,0.0,0.0,0,0,19,28,67.9,0,12,0,0,0,Atalanta,2024-05-18 Lecce-Atalanta,ITA-SERIA_A,23-24,d63c561d

@@ -1,0 +1,32 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+962e54cb,Gonçalo Paciência,9,POR,FW,28-268,61,0,0,0,0,2,1,0,0,29,0,0,2,0.1,0.1,0.0,3,0,7,14,50.0,2,20,1,6,0,Celta Vigo,2023-04-26 Celta Vigo-Elche,ESP-LALIGA,22-23,e5cc8927
+f553b2b3,Jørgen Strand Larsen,18,NOR,FW,23-079,29,0,0,0,0,1,0,0,0,14,1,0,0,0.3,0.3,0.1,3,0,4,7,57.1,0,7,0,2,0,Celta Vigo,2023-04-26 Celta Vigo-Elche,ESP-LALIGA,22-23,e5cc8927
+7dcf86f6,Iago Aspas,10,ESP,FW,35-268,90,0,0,0,0,3,3,0,0,46,1,0,0,0.3,0.3,0.1,6,0,24,31,77.4,7,24,2,2,1,Celta Vigo,2023-04-26 Celta Vigo-Elche,ESP-LALIGA,22-23,e5cc8927
+e9241b40,Luca de la Torre,23,USA,LM,24-338,76,0,0,0,0,0,0,0,0,41,3,1,1,0.0,0.0,0.0,0,0,29,32,90.6,4,26,2,0,0,Celta Vigo,2023-04-26 Celta Vigo-Elche,ESP-LALIGA,22-23,e5cc8927
+5e1028e5,Franco Cervi,11,ARG,LM,28-335,14,0,1,0,0,0,0,0,0,20,4,1,0,0.0,0.0,0.2,2,1,11,15,73.3,1,6,0,0,0,Celta Vigo,2023-04-26 Celta Vigo-Elche,ESP-LALIGA,22-23,e5cc8927
+ed5c5fa3,Fran Beltrán,8,ESP,CM,24-082,89,0,0,0,0,0,0,0,0,50,0,3,4,0.0,0.0,0.1,3,1,35,42,83.3,6,22,1,0,0,Celta Vigo,2023-04-26 Celta Vigo-Elche,ESP-LALIGA,22-23,e5cc8927
+be170419,Unai Núñez,4,ESP,CM,26-086,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Celta Vigo,2023-04-26 Celta Vigo-Elche,ESP-LALIGA,22-23,e5cc8927
+35a6e5c7,Gabriel Veiga,24,ESP,CM,20-334,76,0,0,0,0,0,0,0,0,27,0,0,2,0.0,0.0,0.0,1,0,12,23,52.2,2,18,1,1,0,Celta Vigo,2023-04-26 Celta Vigo-Elche,ESP-LALIGA,22-23,e5cc8927
+19709006,Óscar Rodríguez Arnaiz,5,ESP,CM,24-302,14,0,0,0,0,0,0,0,0,15,0,0,0,0.0,0.0,0.1,1,0,9,14,64.3,3,7,0,0,0,Celta Vigo,2023-04-26 Celta Vigo-Elche,ESP-LALIGA,22-23,e5cc8927
+a8f21b9f,Carles Pérez,7,ESP,RM,25-069,76,0,0,0,0,2,1,0,0,30,1,0,1,0.1,0.1,0.0,2,0,13,18,72.2,1,19,5,8,4,Celta Vigo,2023-04-26 Celta Vigo-Elche,ESP-LALIGA,22-23,e5cc8927
+958d67bb,Miguel Rodríguez,29,ESP,RM,19-362,14,0,0,0,0,2,1,0,0,12,1,0,0,0.1,0.1,0.0,0,0,3,6,50.0,0,9,1,2,1,Celta Vigo,2023-04-26 Celta Vigo-Elche,ESP-LALIGA,22-23,e5cc8927
+a4b00319,Javi Galán,17,ESP,LB,28-158,90,0,0,0,0,1,0,0,0,71,3,1,4,0.1,0.1,0.0,3,0,46,56,82.1,5,30,5,4,3,Celta Vigo,2023-04-26 Celta Vigo-Elche,ESP-LALIGA,22-23,e5cc8927
+34269bdf,Renato Tapia,14,PER,CB,27-272,90,0,0,0,0,1,1,0,0,74,3,1,1,0.0,0.0,0.3,1,0,49,59,83.1,4,45,1,1,0,Celta Vigo,2023-04-26 Celta Vigo-Elche,ESP-LALIGA,22-23,e5cc8927
+18abe173,Joseph Aidoo,15,GHA,CB,27-209,90,1,0,0,0,2,1,0,0,68,3,0,1,0.1,0.1,0.0,0,0,49,55,89.1,4,43,0,1,1,Celta Vigo,2023-04-26 Celta Vigo-Elche,ESP-LALIGA,22-23,e5cc8927
+cb574619,Hugo Mallo,2,ESP,RB,31-308,90,0,0,0,0,1,1,0,0,68,3,4,3,0.1,0.1,0.2,2,0,41,54,75.9,8,26,0,0,0,Celta Vigo,2023-04-26 Celta Vigo-Elche,ESP-LALIGA,22-23,e5cc8927
+cde52ef5,Iván Villar,13,ESP,GK,25-291,90,0,0,0,0,0,0,0,0,31,0,0,0,0.0,0.0,0.0,0,0,22,30,73.3,0,12,0,0,0,Celta Vigo,2023-04-26 Celta Vigo-Elche,ESP-LALIGA,22-23,e5cc8927
+335039a2,Pere Milla,10,ESP,FW,30-215,90,0,0,0,0,2,0,0,0,40,3,2,2,0.1,0.1,0.0,2,0,22,30,73.3,5,19,1,1,1,Elche,2023-04-26 Celta Vigo-Elche,ESP-LALIGA,22-23,e5cc8927
+a6103274,Randy Nteka,18,ANG,FW,25-141,62,0,0,0,0,3,0,0,0,17,0,0,0,0.4,0.4,0.0,2,0,6,7,85.7,0,10,0,0,0,Elche,2023-04-26 Celta Vigo-Elche,ESP-LALIGA,22-23,e5cc8927
+d49f3e6b,Lucas Boyé,9,ARG,FW,27-057,28,0,0,0,0,1,0,0,0,16,0,1,0,0.1,0.1,0.0,1,0,9,11,81.8,0,11,0,2,1,Elche,2023-04-26 Celta Vigo-Elche,ESP-LALIGA,22-23,e5cc8927
+004d185e,Tete Morente,11,ESP,LM,26-143,90,0,0,0,0,1,0,0,0,31,1,0,1,0.0,0.0,0.0,0,0,16,23,69.6,4,18,3,1,1,Elche,2023-04-26 Celta Vigo-Elche,ESP-LALIGA,22-23,e5cc8927
+eb82b6f1,Fidel,16,ESP,CM,33-181,90,0,0,0,0,0,0,0,0,75,0,0,1,0.0,0.0,0.1,5,0,40,64,62.5,6,50,6,7,4,Elche,2023-04-26 Celta Vigo-Elche,ESP-LALIGA,22-23,e5cc8927
+5e95c000,John Donald,26,ESP,CM,22-239,90,0,0,0,0,0,0,0,0,57,4,1,1,0.0,0.0,0.0,1,0,38,45,84.4,3,30,0,3,2,Elche,2023-04-26 Celta Vigo-Elche,ESP-LALIGA,22-23,e5cc8927
+ac454a4f,Gerard Gumbau,20,ESP,RM,28-129,90,0,0,0,0,1,1,0,0,56,0,1,0,0.0,0.0,0.1,3,0,31,44,70.5,2,28,0,2,0,Elche,2023-04-26 Celta Vigo-Elche,ESP-LALIGA,22-23,e5cc8927
+33a61a52,Carlos Clerc,23,ESP,LB,31-064,89,0,0,0,0,1,0,0,0,63,3,1,1,0.0,0.0,0.5,4,0,38,49,77.6,2,30,3,3,1,Elche,2023-04-26 Celta Vigo-Elche,ESP-LALIGA,22-23,e5cc8927
+ccbbe661,Ezequiel Ponce,19,ARG,LB,26-028,1,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,2,0,0,0,Elche,2023-04-26 Celta Vigo-Elche,ESP-LALIGA,22-23,e5cc8927
+01a49bd2,Lisandro Magallán,7,ARG,CB,29-211,90,0,0,0,0,2,0,0,0,59,1,2,3,0.4,0.4,0.0,0,0,40,45,88.9,0,29,1,0,0,Elche,2023-04-26 Celta Vigo-Elche,ESP-LALIGA,22-23,e5cc8927
+11fd2b75,Omar Mascarell,21,EQG,CB,30-083,90,0,0,0,0,0,0,0,0,76,7,3,2,0.0,0.0,0.0,0,0,51,57,89.5,0,40,1,2,0,Elche,2023-04-26 Celta Vigo-Elche,ESP-LALIGA,22-23,e5cc8927
+5b28b2f6,Josan,17,ESP,RB,33-144,85,0,0,0,0,1,0,0,0,58,2,1,1,0.1,0.1,0.2,1,0,35,45,77.8,0,32,3,4,1,Elche,2023-04-26 Celta Vigo-Elche,ESP-LALIGA,22-23,e5cc8927
+ff800ed8,Pol Lirola,24,ESP,RB,25-256,5,0,0,0,0,0,0,0,0,8,1,0,0,0.0,0.0,0.0,0,0,3,5,60.0,0,2,0,0,0,Elche,2023-04-26 Celta Vigo-Elche,ESP-LALIGA,22-23,e5cc8927
+e4346678,Édgar Badía,13,ESP,GK,31-073,90,0,0,0,0,0,0,0,0,49,0,0,0,0.0,0.0,0.0,0,0,39,44,88.6,0,32,0,0,0,Elche,2023-04-26 Celta Vigo-Elche,ESP-LALIGA,22-23,e5cc8927

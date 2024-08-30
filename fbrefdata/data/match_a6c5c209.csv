@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+bb4b1242,Sergi Enrich,9,ESP,FW,28-342,90,0,1,0,0,2,0,0,0,49,0,1,0,0.1,0.1,0.0,4,2,29,42,69.0,1,21,1,0,0,Eibar,2019-02-03 Eibar-Girona,ESP-LALIGA,18-19,a6c5c209
+c4b8bcf4,Charles,19,BRA,FW,34-305,72,2,0,1,1,3,2,0,0,35,0,0,1,1.0,0.2,0.0,2,0,15,26,57.7,2,19,1,0,0,Eibar,2019-02-03 Eibar-Girona,ESP-LALIGA,18-19,a6c5c209
+e897d8ba,Kiké,17,ESP,FW,29-070,18,0,0,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.0,0,0,8,9,88.9,3,7,0,0,0,Eibar,2019-02-03 Eibar-Girona,ESP-LALIGA,18-19,a6c5c209
+1daec722,Marc Cucurella,20,ESP,LM,20-196,90,0,0,0,0,2,0,1,0,49,2,1,1,0.1,0.1,0.0,5,1,30,39,76.9,0,21,1,0,0,Eibar,2019-02-03 Eibar-Girona,ESP-LALIGA,18-19,a6c5c209
+2a0c8ba4,Joan Jordán,24,ESP,CM,24-212,65,0,0,0,0,2,0,0,0,49,1,1,0,0.1,0.1,0.1,1,0,27,35,77.1,4,25,0,0,0,Eibar,2019-02-03 Eibar-Girona,ESP-LALIGA,18-19,a6c5c209
+3f79a1c8,Gonzalo Escalante,5,ARG,CM,25-313,25,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,0,0,6,8,75.0,1,4,0,2,2,Eibar,2019-02-03 Eibar-Girona,ESP-LALIGA,18-19,a6c5c209
+7329018e,Papakouli Diop,8,SEN,CM,32-321,82,0,0,0,0,0,0,1,0,51,1,0,1,0.0,0.0,0.0,5,0,28,41,68.3,8,18,0,0,0,Eibar,2019-02-03 Eibar-Girona,ESP-LALIGA,18-19,a6c5c209
+88d91621,Sergio Álvarez,6,ESP,CM,27-011,8,0,0,0,0,0,0,0,0,9,1,1,0,0.0,0.0,0.1,0,0,7,7,100.0,1,5,1,0,0,Eibar,2019-02-03 Eibar-Girona,ESP-LALIGA,18-19,a6c5c209
+c90977db,Fabián Orellana,14,CHI,RM,33-007,90,0,1,0,0,5,1,0,0,71,1,0,0,0.3,0.3,0.2,9,2,41,57,71.9,11,48,6,7,5,Eibar,2019-02-03 Eibar-Girona,ESP-LALIGA,18-19,a6c5c209
+3024e383,José Ángel,15,ESP,LB,29-151,90,0,0,0,0,0,0,0,0,78,3,3,0,0.0,0.0,0.1,3,1,29,63,46.0,6,31,3,1,1,Eibar,2019-02-03 Eibar-Girona,ESP-LALIGA,18-19,a6c5c209
+850c0a0d,Anaitz Arbilla,23,ESP,CB,31-264,90,0,0,0,0,1,0,0,0,56,1,3,0,0.0,0.0,0.0,0,0,29,41,70.7,3,13,0,0,0,Eibar,2019-02-03 Eibar-Girona,ESP-LALIGA,18-19,a6c5c209
+d2be40f2,Iván Ramis,4,ESP,CB,34-101,90,0,0,0,0,0,0,0,0,34,1,1,0,0.0,0.0,0.0,0,0,17,29,58.6,0,11,0,0,0,Eibar,2019-02-03 Eibar-Girona,ESP-LALIGA,18-19,a6c5c209
+1f079188,Rubén Peña,11,ESP,RB,27-200,90,1,0,0,0,1,1,0,0,83,0,2,0,0.1,0.1,0.3,4,0,44,76,57.9,9,39,4,0,0,Eibar,2019-02-03 Eibar-Girona,ESP-LALIGA,18-19,a6c5c209
+ac295d9e,Marko Dmitrović,1,SRB,GK,27-010,90,0,0,0,0,0,0,0,0,27,0,0,0,0.0,0.0,0.0,0,0,11,24,45.8,0,9,0,0,0,Eibar,2019-02-03 Eibar-Girona,ESP-LALIGA,18-19,a6c5c209
+220c11f1,Cristhian Stuani,7,URU,FW,32-114,90,0,0,0,0,1,0,0,0,26,0,0,2,0.1,0.1,0.0,1,0,12,18,66.7,2,9,0,0,0,Girona,2019-02-03 Eibar-Girona,ESP-LALIGA,18-19,a6c5c209
+1bda5842,Portu,9,ESP,"FW,AM",26-258,90,0,0,0,0,0,0,0,0,29,0,0,1,0.0,0.0,0.0,1,0,9,18,50.0,4,15,2,2,0,Girona,2019-02-03 Eibar-Girona,ESP-LALIGA,18-19,a6c5c209
+a25250f8,Álex Granell,6,ESP,CM,30-185,75,0,0,0,0,1,0,0,0,55,2,2,0,0.0,0.0,0.0,2,0,26,46,56.5,6,29,0,0,0,Girona,2019-02-03 Eibar-Girona,ESP-LALIGA,18-19,a6c5c209
+6f7d826d,Douglas Luiz,12,BRA,CM,20-270,15,0,0,0,0,0,0,0,0,10,1,0,1,0.0,0.0,0.0,1,0,4,8,50.0,0,4,0,0,0,Girona,2019-02-03 Eibar-Girona,ESP-LALIGA,18-19,a6c5c209
+29b61deb,Pere Pons,8,ESP,CM,25-348,90,0,0,0,0,0,0,0,0,62,2,0,3,0.0,0.0,0.1,2,0,27,41,65.9,4,29,0,1,1,Girona,2019-02-03 Eibar-Girona,ESP-LALIGA,18-19,a6c5c209
+a10361d2,Aleix García,23,ESP,CM,21-220,62,0,0,0,0,0,0,0,0,45,2,1,0,0.0,0.0,0.0,1,0,23,37,62.2,1,31,0,2,1,Girona,2019-02-03 Eibar-Girona,ESP-LALIGA,18-19,a6c5c209
+38699c72,Anthony Lozano,19,HON,AM,25-284,28,0,0,0,0,0,0,0,0,12,0,0,3,0.0,0.0,0.0,0,0,3,5,60.0,0,4,0,0,0,Girona,2019-02-03 Eibar-Girona,ESP-LALIGA,18-19,a6c5c209
+1a317a1b,Raúl García,14,ESP,"WB,CB",29-279,90,0,0,0,0,0,0,0,0,62,1,0,1,0.0,0.0,0.0,1,0,30,49,61.2,4,29,2,1,1,Girona,2019-02-03 Eibar-Girona,ESP-LALIGA,18-19,a6c5c209
+4acd733a,Valery Fernández,34,ESP,WB,19-072,90,0,0,0,0,1,1,0,0,52,0,0,3,0.1,0.1,0.0,0,0,24,38,63.2,1,16,0,0,0,Girona,2019-02-03 Eibar-Girona,ESP-LALIGA,18-19,a6c5c209
+1633fc8a,Juanpe,15,ESP,CB,27-279,62,0,0,0,0,1,1,0,0,32,0,2,0,0.0,0.0,0.0,0,0,8,25,32.0,3,15,0,1,1,Girona,2019-02-03 Eibar-Girona,ESP-LALIGA,18-19,a6c5c209
+27d0a506,Pedro Porro,24,ESP,WB,19-143,28,0,0,0,0,1,0,0,0,20,0,0,2,0.0,0.0,0.0,0,0,11,15,73.3,1,7,1,0,0,Girona,2019-02-03 Eibar-Girona,ESP-LALIGA,18-19,a6c5c209
+ba71d071,Pedro Alcalá,5,ESP,CB,29-321,90,0,0,0,0,0,0,1,0,47,1,3,1,0.0,0.0,0.0,2,0,19,31,61.3,2,13,0,0,0,Girona,2019-02-03 Eibar-Girona,ESP-LALIGA,18-19,a6c5c209
+be3a0121,Jonás Ramalho,4,ESP,CB,25-238,90,0,0,0,0,1,0,0,0,46,0,1,1,0.0,0.0,0.0,1,0,21,33,63.6,2,19,0,0,0,Girona,2019-02-03 Eibar-Girona,ESP-LALIGA,18-19,a6c5c209
+f6798fc3,Yassine Bounou,13,MAR,GK,27-304,90,0,0,0,0,0,0,0,0,34,0,0,0,0.0,0.0,0.0,0,0,19,32,59.4,0,16,0,0,0,Girona,2019-02-03 Eibar-Girona,ESP-LALIGA,18-19,a6c5c209

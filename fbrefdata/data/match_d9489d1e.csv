@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+03f946ed,Andrea Petagna,37,ITA,FW,29-055,61,0,0,0,0,1,0,0,0,22,0,0,0,0.1,0.1,0.0,0,0,12,16,75.0,1,14,0,2,1,Monza,2024-08-24 Monza-Genoa,ITA-SERIA_A,24-25,d9489d1e
+405f6586,Milan Đurić,11,BIH,FW,34-094,29,0,0,0,0,1,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,1,4,25.0,0,2,0,0,0,Monza,2024-08-24 Monza-Genoa,ITA-SERIA_A,24-25,d9489d1e
+801831fe,Daniel Maldini,14,ITA,AM,22-318,61,0,0,0,0,2,1,0,0,31,1,0,0,0.1,0.1,0.0,1,0,16,23,69.6,5,21,1,3,2,Monza,2024-08-24 Monza-Genoa,ITA-SERIA_A,24-25,d9489d1e
+54e53b7e,Gianluca Caprari,10,ITA,AM,31-025,29,0,0,0,0,0,0,0,0,25,0,0,0,0.0,0.0,0.1,2,0,16,22,72.7,2,20,2,0,0,Monza,2024-08-24 Monza-Genoa,ITA-SERIA_A,24-25,d9489d1e
+efc9e31f,Dany Mota,47,POR,AM,26-114,74,0,0,0,0,0,0,0,0,40,2,0,1,0.0,0.0,0.0,0,0,21,30,70.0,2,23,5,3,1,Monza,2024-08-24 Monza-Genoa,ITA-SERIA_A,24-25,d9489d1e
+a14d0ab0,Samuele Vignato,80,ITA,AM,20-182,16,0,0,0,0,1,0,0,0,15,1,0,0,0.0,0.0,0.0,0,0,8,12,66.7,1,10,0,0,0,Monza,2024-08-24 Monza-Genoa,ITA-SERIA_A,24-25,d9489d1e
+0def2376,Warren Bondo,38,FRA,CM,20-344,90,0,0,0,0,0,0,0,0,65,1,0,1,0.0,0.0,0.0,1,0,58,61,95.1,1,55,2,1,1,Monza,2024-08-24 Monza-Genoa,ITA-SERIA_A,24-25,d9489d1e
+780e3631,Matteo Pessina,32,ITA,CM,27-125,90,0,0,0,0,0,0,0,0,92,2,1,1,0.0,0.0,0.0,1,0,80,87,92.0,5,70,0,0,0,Monza,2024-08-24 Monza-Genoa,ITA-SERIA_A,24-25,d9489d1e
+0a483542,Giorgos Kyriakopoulos,77,GRE,WB,28-201,90,0,0,0,0,1,1,0,0,82,3,2,2,0.1,0.1,0.1,6,0,59,72,81.9,10,45,3,1,1,Monza,2024-08-24 Monza-Genoa,ITA-SERIA_A,24-25,d9489d1e
+204ac005,Samuele Birindelli,19,ITA,WB,25-036,84,0,0,0,0,0,0,0,0,50,0,0,0,0.0,0.0,0.0,2,0,41,49,83.7,4,34,0,0,0,Monza,2024-08-24 Monza-Genoa,ITA-SERIA_A,24-25,d9489d1e
+c77be0cf,Pedro Pereira,13,POR,WB,26-215,6,0,0,0,0,0,0,0,0,9,0,0,1,0.0,0.0,0.0,0,0,6,8,75.0,1,5,0,0,0,Monza,2024-08-24 Monza-Genoa,ITA-SERIA_A,24-25,d9489d1e
+226008f1,Luca Caldirola,5,ITA,CB,33-205,90,0,0,0,0,0,0,0,0,98,0,0,0,0.0,0.0,0.0,1,0,86,93,92.5,4,79,1,0,0,Monza,2024-08-24 Monza-Genoa,ITA-SERIA_A,24-25,d9489d1e
+aa54ec6f,Pablo Marí,22,ESP,CB,30-359,90,0,0,0,0,2,0,1,0,108,0,2,0,0.2,0.2,0.1,3,0,86,95,90.5,7,69,0,0,0,Monza,2024-08-24 Monza-Genoa,ITA-SERIA_A,24-25,d9489d1e
+89976232,Armando Izzo,4,ITA,CB,32-175,74,0,0,0,0,1,0,1,0,69,1,1,1,0.0,0.0,0.1,1,0,54,61,88.5,4,44,0,0,0,Monza,2024-08-24 Monza-Genoa,ITA-SERIA_A,24-25,d9489d1e
+ce30bfc8,Roberto Gagliardini,6,ITA,CB,30-139,16,0,0,0,0,0,0,0,0,22,0,0,0,0.0,0.0,0.0,0,0,20,22,90.9,5,18,2,0,0,Monza,2024-08-24 Monza-Genoa,ITA-SERIA_A,24-25,d9489d1e
+4f537cf7,Semuel Pizzignacco,21,ITA,GK,22-358,90,0,0,0,0,0,0,0,0,28,0,0,0,0.0,0.0,0.0,0,0,27,28,96.4,0,12,0,0,0,Monza,2024-08-24 Monza-Genoa,ITA-SERIA_A,24-25,d9489d1e
+74d4cec6,Vitinha,9,POR,FW,24-162,61,0,0,0,0,1,0,0,0,25,2,0,2,0.0,0.0,0.0,0,0,5,12,41.7,0,15,3,5,2,Genoa,2024-08-24 Monza-Genoa,ITA-SERIA_A,24-25,d9489d1e
+48d5bd33,Ruslan Malinovskyi,17,UKR,FW,31-112,29,0,0,0,0,1,0,1,0,14,0,0,0,0.0,0.0,0.4,1,0,7,9,77.8,1,5,0,1,0,Genoa,2024-08-24 Monza-Genoa,ITA-SERIA_A,24-25,d9489d1e
+08aa9cd1,Andrea Pinamonti,19,ITA,FW,25-097,67,1,0,0,0,2,1,0,0,15,0,0,0,0.1,0.1,0.0,2,0,9,9,100.0,0,4,0,0,0,Genoa,2024-08-24 Monza-Genoa,ITA-SERIA_A,24-25,d9489d1e
+7afbd2c3,Caleb Ekuban,18,GHA,FW,30-154,23,0,0,0,0,1,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,2,0,0,0,Genoa,2024-08-24 Monza-Genoa,ITA-SERIA_A,24-25,d9489d1e
+f4d60499,Morten Frendrup,32,DEN,CM,23-139,90,0,0,0,0,1,0,0,0,35,2,0,0,0.0,0.0,0.0,0,0,23,27,85.2,2,21,1,0,0,Genoa,2024-08-24 Monza-Genoa,ITA-SERIA_A,24-25,d9489d1e
+e8c930bb,Milan Badelj,47,CRO,CM,35-181,61,0,0,0,0,1,0,0,0,44,1,0,0,0.0,0.0,0.0,3,0,34,40,85.0,2,16,0,0,0,Genoa,2024-08-24 Monza-Genoa,ITA-SERIA_A,24-25,d9489d1e
+d1b49282,Morten Thorsby,2,NOR,CM,28-111,29,0,0,0,0,1,0,1,0,9,0,0,0,0.4,0.4,0.0,1,0,5,7,71.4,1,3,0,0,0,Genoa,2024-08-24 Monza-Genoa,ITA-SERIA_A,24-25,d9489d1e
+f49c4ae9,Junior Messias,10,BRA,CM,33-103,90,0,0,0,0,1,0,0,0,31,2,2,1,0.0,0.0,0.0,3,0,11,15,73.3,3,13,3,4,1,Genoa,2024-08-24 Monza-Genoa,ITA-SERIA_A,24-25,d9489d1e
+2f3e911a,Aarón Martín,3,ESP,WB,27-124,90,0,0,0,0,1,0,0,0,47,1,0,1,0.0,0.0,0.0,4,0,26,40,65.0,5,15,4,0,0,Genoa,2024-08-24 Monza-Genoa,ITA-SERIA_A,24-25,d9489d1e
+0ccac09c,Stefano Sabelli,20,ITA,WB,31-224,61,0,1,0,0,1,0,0,0,29,1,0,1,0.0,0.0,0.1,1,1,13,23,56.5,3,6,2,0,0,Genoa,2024-08-24 Monza-Genoa,ITA-SERIA_A,24-25,d9489d1e
+3b12b11f,Alessandro Zanoli,59,ITA,WB,23-326,29,0,0,0,0,0,0,0,0,10,0,0,1,0.0,0.0,0.0,0,0,2,5,40.0,0,4,1,0,0,Genoa,2024-08-24 Monza-Genoa,ITA-SERIA_A,24-25,d9489d1e
+5eaed77a,Johan Vásquez,22,MEX,CB,25-307,90,0,0,0,0,0,0,0,0,39,0,0,2,0.0,0.0,0.0,0,0,20,30,66.7,1,21,0,0,0,Genoa,2024-08-24 Monza-Genoa,ITA-SERIA_A,24-25,d9489d1e
+0821331c,Mattia Bani,13,ITA,CB,30-258,44,0,0,0,0,0,0,0,0,17,0,0,1,0.0,0.0,0.0,0,0,12,13,92.3,0,10,0,0,0,Genoa,2024-08-24 Monza-Genoa,ITA-SERIA_A,24-25,d9489d1e
+6841f107,Alessandro Vogliacco,14,ITA,CB,25-345,46,0,0,0,0,0,0,0,0,15,0,1,0,0.0,0.0,0.0,0,0,6,9,66.7,0,4,0,0,0,Genoa,2024-08-24 Monza-Genoa,ITA-SERIA_A,24-25,d9489d1e
+f4797849,Koni De Winter,4,BEL,CB,22-073,90,0,0,0,0,0,0,1,0,37,3,0,0,0.0,0.0,0.0,0,0,22,25,88.0,1,18,0,0,0,Genoa,2024-08-24 Monza-Genoa,ITA-SERIA_A,24-25,d9489d1e
+f0f7f62f,Pierluigi Gollini,95,ITA,GK,29-159,90,0,0,0,0,0,0,0,0,36,0,0,0,0.0,0.0,0.0,1,0,29,35,82.9,0,21,0,0,0,Genoa,2024-08-24 Monza-Genoa,ITA-SERIA_A,24-25,d9489d1e

@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+3d50bcdb,Moise Kean,18,ITA,FW,23-032,59,1,0,0,0,1,1,1,0,17,0,0,0,0.6,0.6,0.0,1,0,5,9,55.6,0,17,1,5,1,Juventus,2023-04-01 Juventus-Hellas Verona,ITA-SERIA_A,22-23,e9d5928b
+79443529,Dušan Vlahović,9,SRB,FW,23-063,31,0,0,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.0,0,0,2,6,33.3,0,10,1,2,1,Juventus,2023-04-01 Juventus-Hellas Verona,ITA-SERIA_A,22-23,e9d5928b
+85613cf0,Arkadiusz Milik,14,POL,FW,29-032,59,0,0,0,0,0,0,0,0,33,0,0,1,0.0,0.0,0.1,2,0,21,26,80.8,5,17,0,4,2,Juventus,2023-04-01 Juventus-Hellas Verona,ITA-SERIA_A,22-23,e9d5928b
+19cda00b,Ángel Di María,22,ARG,FW,35-046,31,0,0,0,0,1,1,0,0,18,0,0,1,0.1,0.1,0.0,2,0,7,10,70.0,2,12,2,3,0,Juventus,2023-04-01 Juventus-Hellas Verona,ITA-SERIA_A,22-23,e9d5928b
+6caffe81,Enzo Barrenechea,45,ARG,CM,21-314,45,0,0,0,0,0,0,0,0,32,0,0,1,0.0,0.0,0.0,0,0,24,28,85.7,0,19,0,0,0,Juventus,2023-04-01 Juventus-Hellas Verona,ITA-SERIA_A,22-23,e9d5928b
+34693494,Fabio Miretti,20,ITA,CM,19-241,45,0,0,0,0,0,0,0,0,16,0,0,1,0.0,0.0,0.0,1,1,5,10,50.0,1,9,1,0,0,Juventus,2023-04-01 Juventus-Hellas Verona,ITA-SERIA_A,22-23,e9d5928b
+a8a874f1,Manuel Locatelli,5,ITA,CM,25-083,90,0,1,0,0,1,0,0,0,72,3,2,0,0.0,0.0,0.6,2,1,52,61,85.2,9,31,0,4,2,Juventus,2023-04-01 Juventus-Hellas Verona,ITA-SERIA_A,22-23,e9d5928b
+366be751,Nicolò Fagioli,44,ITA,CM,22-048,90,0,0,0,0,0,0,0,0,41,2,0,0,0.0,0.0,0.0,1,0,32,38,84.2,2,28,0,0,0,Juventus,2023-04-01 Juventus-Hellas Verona,ITA-SERIA_A,22-23,e9d5928b
+ae4e2852,Mattia De Sciglio,2,ITA,WB,30-163,90,0,0,0,0,0,0,0,0,41,1,0,2,0.0,0.0,0.1,2,0,24,35,68.6,2,18,2,1,0,Juventus,2023-04-01 Juventus-Hellas Verona,ITA-SERIA_A,22-23,e9d5928b
+0ab1f153,Juan Cuadrado,11,COL,WB,34-310,64,0,0,0,0,2,0,0,0,58,1,1,0,0.1,0.1,0.1,2,0,47,54,87.0,3,37,2,0,0,Juventus,2023-04-01 Juventus-Hellas Verona,ITA-SERIA_A,22-23,e9d5928b
+b1cd37e6,Filip Kostić,17,SRB,WB,30-151,26,0,0,0,0,1,0,0,0,15,0,0,2,0.0,0.0,0.0,0,0,5,11,45.5,0,3,1,0,0,Juventus,2023-04-01 Juventus-Hellas Verona,ITA-SERIA_A,22-23,e9d5928b
+94b2001f,Danilo,6,BRA,CB,31-260,90,0,0,0,0,1,0,0,0,65,2,1,0,0.1,0.1,0.0,2,0,43,56,76.8,6,37,2,1,0,Juventus,2023-04-01 Juventus-Hellas Verona,ITA-SERIA_A,22-23,e9d5928b
+5fd5ed86,Gleison Bremer,3,BRA,CB,26-014,90,0,0,0,0,2,0,0,0,57,0,1,1,0.8,0.8,0.0,0,0,45,47,95.7,1,31,0,0,0,Juventus,2023-04-01 Juventus-Hellas Verona,ITA-SERIA_A,22-23,e9d5928b
+18dd3219,Federico Gatti,15,ITA,CB,24-281,90,0,0,0,0,1,0,0,0,96,0,1,3,0.0,0.0,0.8,2,0,76,88,86.4,4,65,0,1,0,Juventus,2023-04-01 Juventus-Hellas Verona,ITA-SERIA_A,22-23,e9d5928b
+01b8a2b2,Wojciech Szczęsny,1,POL,GK,32-348,90,0,0,0,0,0,0,0,0,42,0,0,0,0.0,0.0,0.0,0,0,35,41,85.4,0,24,0,0,0,Juventus,2023-04-01 Juventus-Hellas Verona,ITA-SERIA_A,22-23,e9d5928b
+8dfed6e9,Adolfo Gaich,38,ARG,FW,24-034,90,0,0,0,0,3,1,1,0,34,0,1,1,0.3,0.3,0.0,3,0,12,21,57.1,2,22,1,2,2,Hellas Verona,2023-04-01 Juventus-Hellas Verona,ITA-SERIA_A,22-23,e9d5928b
+09538fdb,Kevin Lasagna,11,ITA,FW,30-234,76,0,0,0,0,1,0,0,0,16,0,1,1,0.0,0.0,0.1,2,0,7,11,63.6,0,7,1,0,0,Hellas Verona,2023-04-01 Juventus-Hellas Verona,ITA-SERIA_A,22-23,e9d5928b
+2b8360f1,Cyril Ngonge,26,BEL,FW,22-310,14,0,0,0,0,0,0,0,0,14,1,0,0,0.0,0.0,0.0,0,0,4,9,44.4,1,10,0,1,0,Hellas Verona,2023-04-01 Juventus-Hellas Verona,ITA-SERIA_A,22-23,e9d5928b
+79ca3e23,Ondrej Duda,33,SVK,AM,28-117,90,0,0,0,0,2,1,0,0,50,2,1,1,0.1,0.1,0.0,0,0,33,40,82.5,4,24,3,0,0,Hellas Verona,2023-04-01 Juventus-Hellas Verona,ITA-SERIA_A,22-23,e9d5928b
+ab1ca213,Miguel Veloso,4,POR,CM,36-325,65,0,0,0,0,0,0,0,0,37,0,1,1,0.0,0.0,0.0,2,0,26,33,78.8,6,21,2,0,0,Hellas Verona,2023-04-01 Juventus-Hellas Verona,ITA-SERIA_A,22-23,e9d5928b
+0375723e,Simone Verdi,7,ITA,CM,30-263,25,0,0,0,0,1,0,0,0,21,0,0,0,0.0,0.0,0.0,2,0,6,11,54.5,3,12,1,6,2,Hellas Verona,2023-04-01 Juventus-Hellas Verona,ITA-SERIA_A,22-23,e9d5928b
+8da74c05,Adrien Tameze,61,CMR,CM,29-056,90,0,0,0,0,0,0,0,0,39,4,1,0,0.0,0.0,0.0,3,0,28,34,82.4,3,23,1,0,0,Hellas Verona,2023-04-01 Juventus-Hellas Verona,ITA-SERIA_A,22-23,e9d5928b
+d97f2e8d,Fabio Depaoli,29,ITA,WB,25-342,66,0,0,0,0,2,0,1,0,25,4,2,2,0.1,0.1,0.0,0,0,11,14,78.6,1,17,2,2,1,Hellas Verona,2023-04-01 Juventus-Hellas Verona,ITA-SERIA_A,22-23,e9d5928b
+2f69d881,Josh Doig,3,SCO,WB,20-318,24,0,0,0,0,0,0,0,0,12,0,0,0,0.0,0.0,0.0,1,0,8,9,88.9,1,5,1,0,0,Hellas Verona,2023-04-01 Juventus-Hellas Verona,ITA-SERIA_A,22-23,e9d5928b
+aae9d04a,Davide Faraoni,5,ITA,WB,31-158,80,0,0,0,0,0,0,0,0,47,3,0,2,0.0,0.0,0.0,2,0,26,41,63.4,1,28,0,0,0,Hellas Verona,2023-04-01 Juventus-Hellas Verona,ITA-SERIA_A,22-23,e9d5928b
+5cbb5ad6,Filippo Terracciano,24,ITA,WB,20-052,10,0,0,0,0,1,1,0,0,8,1,0,0,0.0,0.0,0.0,1,0,3,6,50.0,1,6,0,1,1,Hellas Verona,2023-04-01 Juventus-Hellas Verona,ITA-SERIA_A,22-23,e9d5928b
+d9624b51,Federico Ceccherini,17,ITA,CB,30-325,65,0,0,0,0,0,0,0,0,40,1,2,0,0.0,0.0,0.0,1,0,27,33,81.8,2,27,0,0,0,Hellas Verona,2023-04-01 Juventus-Hellas Verona,ITA-SERIA_A,22-23,e9d5928b
+ef6eef89,Juan David Cabal,32,COL,CB,22-083,25,0,0,0,0,0,0,0,0,18,1,0,0,0.0,0.0,0.3,1,0,13,15,86.7,3,15,2,1,1,Hellas Verona,2023-04-01 Juventus-Hellas Verona,ITA-SERIA_A,22-23,e9d5928b
+cce9f582,Giangiacomo Magnani,23,ITA,CB,27-179,90,0,0,0,0,0,0,0,0,57,3,1,1,0.0,0.0,0.0,1,0,33,43,76.7,5,32,0,0,0,Hellas Verona,2023-04-01 Juventus-Hellas Verona,ITA-SERIA_A,22-23,e9d5928b
+16bb656a,Paweł Dawidowicz,27,POL,CB,27-316,90,0,0,0,0,0,0,0,0,62,5,1,0,0.0,0.0,0.0,1,0,46,55,83.6,6,35,2,0,0,Hellas Verona,2023-04-01 Juventus-Hellas Verona,ITA-SERIA_A,22-23,e9d5928b
+c1d95617,Lorenzo Montipò,1,ITA,GK,27-040,90,0,0,0,0,0,0,0,0,34,0,0,0,0.0,0.0,0.0,0,0,22,32,68.8,0,24,0,0,0,Hellas Verona,2023-04-01 Juventus-Hellas Verona,ITA-SERIA_A,22-23,e9d5928b

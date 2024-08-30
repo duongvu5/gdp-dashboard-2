@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+b66315ae,Gabriel Jesus,33,BRA,FW,20-194,62,2,0,0,0,2,2,0,0,36,0,0,0,1.1,1.1,0.0,3,0,28,32,87.5,3,23,3,2,2,Manchester City,2017-10-14 Manchester City-Stoke City,ENG-EPL,17-18,f81f42ed
+3eb22ec9,Bernardo Silva,20,POR,FW,23-065,28,1,0,0,0,1,1,0,0,25,0,0,0,0.4,0.4,0.0,0,0,20,24,83.3,2,18,0,0,0,Manchester City,2017-10-14 Manchester City-Stoke City,ENG-EPL,17-18,f81f42ed
+2b114be3,Leroy Sané,19,GER,LW,21-276,90,1,1,0,0,4,2,0,0,56,1,1,0,0.8,0.8,0.5,5,2,37,48,77.1,3,43,3,1,0,Manchester City,2017-10-14 Manchester City-Stoke City,ENG-EPL,17-18,f81f42ed
+b400bde0,Raheem Sterling,7,ENG,RW,22-310,90,1,2,0,0,3,1,0,0,66,0,1,0,0.6,0.6,0.9,4,2,43,57,75.4,2,50,7,0,0,Manchester City,2017-10-14 Manchester City-Stoke City,ENG-EPL,17-18,f81f42ed
+e2716bd0,David Silva,21,ESP,LM,31-279,90,1,0,0,0,4,1,0,0,91,0,1,0,0.7,0.7,0.1,3,0,77,85,90.6,14,65,5,0,0,Manchester City,2017-10-14 Manchester City-Stoke City,ENG-EPL,17-18,f81f42ed
+101da2b5,Fernandinho,25,BRA,CM,32-163,72,1,0,0,0,1,1,0,0,101,1,1,0,0.0,0.0,0.0,5,0,89,98,90.8,17,65,4,0,0,Manchester City,2017-10-14 Manchester City-Stoke City,ENG-EPL,17-18,f81f42ed
+c204f844,Yaya Touré,42,CIV,CM,34-154,18,0,0,0,0,0,0,0,0,67,1,1,0,0.0,0.0,0.0,2,1,61,65,93.8,3,53,4,0,0,Manchester City,2017-10-14 Manchester City-Stoke City,ENG-EPL,17-18,f81f42ed
+e46012d4,Kevin De Bruyne,17,BEL,RM,26-108,65,0,2,0,0,2,2,0,0,62,0,2,1,0.1,0.1,0.7,8,6,48,58,82.8,10,48,2,2,2,Manchester City,2017-10-14 Manchester City-Stoke City,ENG-EPL,17-18,f81f42ed
+819b3158,İlkay Gündoğan,8,GER,RM,26-355,25,0,0,0,0,0,0,0,0,50,1,0,0,0.0,0.0,0.0,2,0,46,46,100.0,4,31,1,2,0,Manchester City,2017-10-14 Manchester City-Stoke City,ENG-EPL,17-18,f81f42ed
+111c3236,Fabian Delph,18,ENG,LB,27-327,90,0,1,0,0,1,1,0,0,103,2,1,0,0.0,0.0,0.1,4,1,87,97,89.7,8,68,3,1,1,Manchester City,2017-10-14 Manchester City-Stoke City,ENG-EPL,17-18,f81f42ed
+0d267745,Nicolás Otamendi,30,ARG,CB,29-244,90,0,0,0,0,2,0,0,0,119,1,0,0,0.1,0.1,0.1,2,0,107,114,93.9,10,96,4,0,0,Manchester City,2017-10-14 Manchester City-Stoke City,ENG-EPL,17-18,f81f42ed
+5eecec3d,John Stones,5,ENG,CB,23-139,90,0,0,0,0,0,0,0,0,117,4,1,1,0.0,0.0,0.0,0,0,108,109,99.1,9,85,1,0,0,Manchester City,2017-10-14 Manchester City-Stoke City,ENG-EPL,17-18,f81f42ed
+86dd77d1,Kyle Walker,2,ENG,RB,27-139,90,0,1,0,0,0,0,0,0,85,1,1,1,0.0,0.0,0.7,1,1,65,74,87.8,6,53,1,0,0,Manchester City,2017-10-14 Manchester City-Stoke City,ENG-EPL,17-18,f81f42ed
+3bb7b8b4,Ederson,31,BRA,GK,24-058,90,0,0,0,0,0,0,0,0,24,0,0,0,0.0,0.0,0.0,0,0,24,24,100.0,0,14,0,0,0,Manchester City,2017-10-14 Manchester City-Stoke City,ENG-EPL,17-18,f81f42ed
+4a537185,Jesé,11,ESP,FW,24-230,45,0,1,0,0,0,0,0,0,12,0,0,0,0.0,0.0,0.1,1,1,6,7,85.7,0,7,0,1,0,Stoke City,2017-10-14 Manchester City-Stoke City,ENG-EPL,17-18,f81f42ed
+9a8c6673,Ibrahim Afellay,14,NED,"CM,FW",31-195,45,0,0,0,0,0,0,1,0,15,0,0,0,0.0,0.0,0.0,0,0,13,15,86.7,2,12,0,0,0,Stoke City,2017-10-14 Manchester City-Stoke City,ENG-EPL,17-18,f81f42ed
+6421ec64,Xherdan Shaqiri,22,SUI,"RM,FW",26-004,90,0,0,0,0,0,0,0,0,22,0,0,1,0.0,0.0,0.1,2,0,15,17,88.2,1,16,1,2,0,Stoke City,2017-10-14 Manchester City-Stoke City,ENG-EPL,17-18,f81f42ed
+0e6bc38c,Eric Maxim Choupo-Moting,10,CMR,"LM,CM",28-205,90,0,0,0,0,0,0,0,0,24,1,0,0,0.0,0.0,0.0,1,0,18,19,94.7,3,13,0,1,0,Stoke City,2017-10-14 Manchester City-Stoke City,ENG-EPL,17-18,f81f42ed
+1a160ea3,Geoff Cameron,20,USA,"CM,RB",32-095,90,0,0,0,0,1,0,0,0,36,2,4,1,0.1,0.1,0.0,2,0,17,26,65.4,2,14,1,5,3,Stoke City,2017-10-14 Manchester City-Stoke City,ENG-EPL,17-18,f81f42ed
+184e4970,Darren Fletcher,24,SCO,"CM,DM",33-255,90,0,0,0,0,0,0,0,0,29,1,0,0,0.0,0.0,0.0,0,0,18,25,72.0,1,13,0,0,0,Stoke City,2017-10-14 Manchester City-Stoke City,ENG-EPL,17-18,f81f42ed
+7f4f3e49,Mame Biram Diouf,18,SEN,"FW,RM",29-302,90,1,0,0,0,3,1,0,0,23,3,0,0,0.4,0.4,0.0,1,1,6,11,54.5,1,9,2,0,0,Stoke City,2017-10-14 Manchester City-Stoke City,ENG-EPL,17-18,f81f42ed
+1ef37668,Erik Pieters,3,NED,LB,29-068,90,0,0,0,0,0,0,0,0,31,1,2,2,0.0,0.0,0.0,0,0,16,26,61.5,1,9,0,0,0,Stoke City,2017-10-14 Manchester City-Stoke City,ENG-EPL,17-18,f81f42ed
+faf55ce4,Kevin Wimmer,5,AUT,CB,24-333,45,0,0,0,0,0,0,0,0,16,0,0,0,0.0,0.0,0.0,0,0,6,12,50.0,0,2,0,0,0,Stoke City,2017-10-14 Manchester City-Stoke City,ENG-EPL,17-18,f81f42ed
+7bc34048,Bruno Martins Indi,15,NED,CB,25-248,45,0,0,0,0,0,0,0,0,16,1,0,1,0.0,0.0,0.0,0,0,11,13,84.6,1,4,0,0,0,Stoke City,2017-10-14 Manchester City-Stoke City,ENG-EPL,17-18,f81f42ed
+ce4246f5,Kurt Zouma,6,FRA,CB,22-352,90,0,0,0,0,1,0,0,0,37,2,5,2,0.0,0.0,0.0,2,0,13,16,81.3,1,9,1,2,2,Stoke City,2017-10-14 Manchester City-Stoke City,ENG-EPL,17-18,f81f42ed
+1b780599,Tom Edwards,42,ENG,RB,18-265,52,0,0,0,0,0,0,0,0,19,1,0,1,0.0,0.0,0.4,1,0,10,13,76.9,0,6,0,0,0,Stoke City,2017-10-14 Manchester City-Stoke City,ENG-EPL,17-18,f81f42ed
+98be0d02,Ramadan Sobhi,32,EGY,LM,20-264,38,0,0,0,0,0,0,0,0,12,0,0,0,0.0,0.0,0.0,0,0,6,12,50.0,0,10,2,1,1,Stoke City,2017-10-14 Manchester City-Stoke City,ENG-EPL,17-18,f81f42ed
+cc70a1d5,Jack Butland,1,ENG,GK,24-218,90,0,0,0,0,0,0,0,0,43,0,0,0,0.0,0.0,0.0,0,0,12,40,30.0,0,12,0,0,0,Stoke City,2017-10-14 Manchester City-Stoke City,ENG-EPL,17-18,f81f42ed

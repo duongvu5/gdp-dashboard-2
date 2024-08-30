@@ -1,0 +1,28 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+21a66f6a,Harry Kane,10,ENG,FW,24-100,76,0,0,0,0,2,1,0,0,24,0,0,2,0.1,0.1,0.2,2,0,16,16,100.0,6,17,1,2,1,Tottenham Hotspur,2017-11-05 Tottenham-Crystal Palace,ENG-EPL,17-18,c91bcebc
+82dbf623,Fernando Llorente,18,ESP,FW,32-252,14,0,0,0,0,0,0,0,0,11,2,0,0,0.0,0.0,0.0,0,0,4,7,57.1,0,3,0,0,0,Tottenham Hotspur,2017-11-05 Tottenham-Crystal Palace,ENG-EPL,17-18,c91bcebc
+92e7e919,Son Heung-min,7,KOR,FW,25-120,90,1,0,0,0,2,1,0,0,43,1,0,0,0.3,0.3,0.0,1,0,20,29,69.0,3,23,3,5,2,Tottenham Hotspur,2017-11-05 Tottenham-Crystal Palace,ENG-EPL,17-18,c91bcebc
+980522ec,Christian Eriksen,23,DEN,DM,25-264,90,0,0,0,0,2,0,0,0,76,3,1,1,0.1,0.1,0.1,2,0,48,67,71.6,7,34,2,1,0,Tottenham Hotspur,2017-11-05 Tottenham-Crystal Palace,ENG-EPL,17-18,c91bcebc
+2f7acede,Harry Winks,29,ENG,DM,21-276,45,0,0,0,0,1,0,0,0,53,0,1,0,0.0,0.0,0.0,2,0,43,51,84.3,5,33,0,1,1,Tottenham Hotspur,2017-11-05 Tottenham-Crystal Palace,ENG-EPL,17-18,c91bcebc
+f7ee69fb,Mousa Dembélé,19,BEL,DM,30-112,45,0,0,0,0,0,0,0,0,32,0,0,0,0.0,0.0,0.0,0,0,26,31,83.9,5,16,0,0,0,Tottenham Hotspur,2017-11-05 Tottenham-Crystal Palace,ENG-EPL,17-18,c91bcebc
+2acd49b9,Moussa Sissoko,17,FRA,DM,28-081,90,0,0,0,0,0,0,0,0,62,1,2,0,0.0,0.0,0.0,3,0,45,56,80.4,3,28,2,0,0,Tottenham Hotspur,2017-11-05 Tottenham-Crystal Palace,ENG-EPL,17-18,c91bcebc
+89d10e53,Danny Rose,3,ENG,WB,27-126,89,0,0,0,0,2,0,0,0,82,1,1,0,0.2,0.2,0.1,4,1,47,70,67.1,5,37,3,2,1,Tottenham Hotspur,2017-11-05 Tottenham-Crystal Palace,ENG-EPL,17-18,c91bcebc
+44781702,Ben Davies,33,WAL,WB,24-195,1,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,0,2,0.0,0,0,0,0,0,Tottenham Hotspur,2017-11-05 Tottenham-Crystal Palace,ENG-EPL,17-18,c91bcebc
+5c2b4f07,Serge Aurier,24,CIV,WB,24-316,90,0,0,0,0,0,0,0,0,85,6,4,1,0.0,0.0,0.1,3,0,60,70,85.7,3,35,2,0,0,Tottenham Hotspur,2017-11-05 Tottenham-Crystal Palace,ENG-EPL,17-18,c91bcebc
+ba23a904,Jan Vertonghen,5,BEL,CB,30-195,90,0,0,0,0,1,0,0,0,100,4,3,1,0.0,0.0,0.3,3,0,65,82,79.3,13,41,3,1,1,Tottenham Hotspur,2017-11-05 Tottenham-Crystal Palace,ENG-EPL,17-18,c91bcebc
+ac861941,Eric Dier,15,ENG,CB,23-294,90,0,0,0,0,0,0,0,0,96,2,0,2,0.0,0.0,0.0,1,0,76,82,92.7,4,50,1,0,0,Tottenham Hotspur,2017-11-05 Tottenham-Crystal Palace,ENG-EPL,17-18,c91bcebc
+da7b447d,Davinson Sánchez,6,COL,CB,21-146,90,0,0,0,0,2,0,0,0,68,0,1,0,0.2,0.2,0.0,0,0,51,58,87.9,2,38,1,1,1,Tottenham Hotspur,2017-11-05 Tottenham-Crystal Palace,ENG-EPL,17-18,c91bcebc
+63d17038,Paulo Gazzaniga,22,ARG,GK,25-307,90,0,0,0,0,0,0,0,0,28,0,0,0,0.0,0.0,0.0,0,0,20,25,80.0,0,9,0,0,0,Tottenham Hotspur,2017-11-05 Tottenham-Crystal Palace,ENG-EPL,17-18,c91bcebc
+b2bc3b1f,Wilfried Zaha,11,CIV,FW,24-360,90,0,0,0,0,2,0,0,0,24,1,0,0,0.3,0.3,0.1,6,0,9,14,64.3,2,18,5,7,3,Crystal Palace,2017-11-05 Tottenham-Crystal Palace,ENG-EPL,17-18,c91bcebc
+b28bbd58,Andros Townsend,10,ENG,"FW,LM",26-112,90,0,0,0,0,3,1,1,0,28,0,0,1,0.2,0.2,0.3,5,0,11,19,57.9,2,21,4,2,2,Crystal Palace,2017-11-05 Tottenham-Crystal Palace,ENG-EPL,17-18,c91bcebc
+3312f911,Jeffrey Schlupp,15,GHA,"LM,LB",24-317,90,0,0,0,0,0,0,1,0,43,1,3,0,0.0,0.0,0.0,0,0,26,31,83.9,4,19,3,1,1,Crystal Palace,2017-11-05 Tottenham-Crystal Palace,ENG-EPL,17-18,c91bcebc
+2ce2508a,Luka Milivojević,4,SRB,CM,26-212,90,0,0,0,0,1,1,0,0,41,4,2,0,0.2,0.2,0.0,0,0,20,28,71.4,3,11,0,0,0,Crystal Palace,2017-11-05 Tottenham-Crystal Palace,ENG-EPL,17-18,c91bcebc
+ad7b19ef,Yohan Cabaye,7,FRA,CM,31-295,90,0,0,0,0,2,0,0,0,55,3,3,0,0.0,0.0,0.1,3,0,26,42,61.9,3,14,0,1,0,Crystal Palace,2017-11-05 Tottenham-Crystal Palace,ENG-EPL,17-18,c91bcebc
+e97fd090,Ruben Loftus-Cheek,8,ENG,RM,21-286,90,0,0,0,0,0,0,0,0,27,1,0,1,0.0,0.0,0.0,1,0,10,13,76.9,3,10,1,1,1,Crystal Palace,2017-11-05 Tottenham-Crystal Palace,ENG-EPL,17-18,c91bcebc
+8a7ff278,Joel Ward,2,ENG,LB,28-007,75,0,0,0,0,0,0,0,0,39,3,4,2,0.0,0.0,0.0,0,0,17,26,65.4,0,15,2,0,0,Crystal Palace,2017-11-05 Tottenham-Crystal Palace,ENG-EPL,17-18,c91bcebc
+381d7d54,Bakary Sako,26,MLI,FW,29-193,15,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,3,0,0,0,Crystal Palace,2017-11-05 Tottenham-Crystal Palace,ENG-EPL,17-18,c91bcebc
+87935cf3,Mamadou Sakho,12,FRA,CB,27-265,90,0,0,0,0,0,0,0,0,46,2,3,1,0.0,0.0,0.0,0,0,26,32,81.3,1,18,0,1,1,Crystal Palace,2017-11-05 Tottenham-Crystal Palace,ENG-EPL,17-18,c91bcebc
+52105203,Scott Dann,6,ENG,CB,30-264,90,0,0,0,0,3,1,0,0,45,1,1,3,0.1,0.1,0.0,1,0,16,28,57.1,0,5,0,0,0,Crystal Palace,2017-11-05 Tottenham-Crystal Palace,ENG-EPL,17-18,c91bcebc
+a9142dc3,Timothy Fosu-Mensah,24,NED,RB,19-307,90,0,0,0,0,0,0,0,0,56,3,0,0,0.0,0.0,0.1,1,0,28,46,60.9,6,14,1,0,0,Crystal Palace,2017-11-05 Tottenham-Crystal Palace,ENG-EPL,17-18,c91bcebc
+8e65a5e5,Julián Speroni,1,ARG,GK,38-171,90,0,0,0,0,0,0,0,0,28,0,0,0,0.0,0.0,0.0,0,0,9,28,32.1,0,12,0,0,0,Crystal Palace,2017-11-05 Tottenham-Crystal Palace,ENG-EPL,17-18,c91bcebc

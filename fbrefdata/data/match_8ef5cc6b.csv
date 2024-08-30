@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+9dbb75ca,Alexandre Lacazette,9,FRA,FW,30-292,79,0,0,0,0,1,0,0,0,16,0,0,0,0.0,0.0,0.3,2,0,9,13,69.2,2,11,0,1,1,Arsenal,2022-03-16 Arsenal-Liverpool,ENG-EPL,21-22,8ef5cc6b
+a53649b7,Eddie Nketiah,30,ENG,FW,22-290,11,0,0,0,0,0,0,0,0,7,0,0,2,0.0,0.0,0.0,0,0,2,4,50.0,1,3,1,0,0,Arsenal,2022-03-16 Arsenal-Liverpool,ENG-EPL,21-22,8ef5cc6b
+48a5a5d6,Gabriel Martinelli,35,BRA,LW,20-271,90,0,0,0,0,1,0,0,0,54,1,1,1,0.1,0.1,0.0,1,0,23,35,65.7,1,33,3,3,3,Arsenal,2022-03-16 Arsenal-Liverpool,ENG-EPL,21-22,8ef5cc6b
+bc7dc64d,Bukayo Saka,7,ENG,RW,20-192,73,0,0,0,0,1,1,0,0,29,0,0,1,0.0,0.0,0.0,2,0,15,21,71.4,1,23,1,1,0,Arsenal,2022-03-16 Arsenal-Liverpool,ENG-EPL,21-22,8ef5cc6b
+57e3f0c7,Nicolas Pépé,19,CIV,RW,26-291,17,0,0,0,0,0,0,0,0,10,1,0,0,0.0,0.0,0.0,0,0,9,9,100.0,0,8,1,0,0,Arsenal,2022-03-16 Arsenal-Liverpool,ENG-EPL,21-22,8ef5cc6b
+79300479,Martin Ødegaard,8,NOR,AM,23-089,66,0,0,0,0,1,1,0,0,35,4,0,2,0.2,0.2,0.0,2,0,19,22,86.4,1,18,1,2,1,Arsenal,2022-03-16 Arsenal-Liverpool,ENG-EPL,21-22,8ef5cc6b
+17695062,Emile Smith Rowe,10,ENG,AM,21-231,24,0,0,0,0,1,0,0,0,16,0,0,0,0.1,0.1,0.0,2,0,12,15,80.0,2,11,0,2,2,Arsenal,2022-03-16 Arsenal-Liverpool,ENG-EPL,21-22,8ef5cc6b
+e61b8aee,Granit Xhaka,34,SUI,DM,29-170,90,0,0,0,0,1,0,0,0,70,0,0,0,0.0,0.0,0.1,4,0,53,62,85.5,9,39,0,1,1,Arsenal,2022-03-16 Arsenal-Liverpool,ENG-EPL,21-22,8ef5cc6b
+529f49ab,Thomas Partey,5,GHA,DM,28-276,90,0,0,0,0,2,0,0,0,71,3,2,2,0.0,0.0,0.0,1,0,47,57,82.5,4,43,0,4,4,Arsenal,2022-03-16 Arsenal-Liverpool,ENG-EPL,21-22,8ef5cc6b
+fce2302c,Kieran Tierney,3,SCO,LB,24-284,90,0,0,0,0,0,0,0,0,68,4,0,3,0.0,0.0,0.0,0,0,47,58,81.0,8,39,2,0,0,Arsenal,2022-03-16 Arsenal-Liverpool,ENG-EPL,21-22,8ef5cc6b
+67ac5bb8,Gabriel Magalhães,6,BRA,CB,24-087,90,0,0,0,0,0,0,0,0,74,0,0,2,0.0,0.0,0.0,0,0,58,66,87.9,1,50,0,0,0,Arsenal,2022-03-16 Arsenal-Liverpool,ENG-EPL,21-22,8ef5cc6b
+35e413f1,Ben White,4,ENG,CB,24-159,90,0,0,0,0,0,0,0,0,84,1,2,0,0.0,0.0,0.0,0,0,66,73,90.4,2,52,0,1,1,Arsenal,2022-03-16 Arsenal-Liverpool,ENG-EPL,21-22,8ef5cc6b
+839c14e1,Cédric Soares,17,POR,RB,30-197,90,0,0,0,0,1,0,0,0,82,2,0,0,0.0,0.0,0.0,0,0,57,74,77.0,4,43,2,1,1,Arsenal,2022-03-16 Arsenal-Liverpool,ENG-EPL,21-22,8ef5cc6b
+466fb2c5,Aaron Ramsdale,32,ENG,GK,23-306,90,0,0,0,0,0,0,0,0,37,0,0,0,0.0,0.0,0.0,1,0,17,36,47.2,0,22,0,0,0,Arsenal,2022-03-16 Arsenal-Liverpool,ENG-EPL,21-22,8ef5cc6b
+178ae8f8,Diogo Jota,20,POR,FW,25-102,55,1,0,0,0,1,1,0,0,23,0,0,0,0.0,0.0,0.0,0,0,13,19,68.4,2,13,2,0,0,Liverpool,2022-03-16 Arsenal-Liverpool,ENG-EPL,21-22,8ef5cc6b
+4c370d81,Roberto Firmino,9,BRA,FW,30-165,35,1,0,0,0,1,1,1,0,23,0,0,3,0.3,0.3,0.0,2,0,15,17,88.2,1,16,1,2,1,Liverpool,2022-03-16 Arsenal-Liverpool,ENG-EPL,21-22,8ef5cc6b
+4a1a9578,Luis Díaz,23,COL,LW,25-062,55,0,0,0,0,0,0,0,0,25,1,2,0,0.0,0.0,0.0,0,0,15,18,83.3,0,14,2,2,1,Liverpool,2022-03-16 Arsenal-Liverpool,ENG-EPL,21-22,8ef5cc6b
+e342ad68,Mohamed Salah,11,EGY,RW,29-274,35,0,0,0,0,3,0,0,0,21,0,0,0,0.2,0.2,0.0,2,0,10,16,62.5,1,10,1,1,0,Liverpool,2022-03-16 Arsenal-Liverpool,ENG-EPL,21-22,8ef5cc6b
+c691bfe2,Sadio Mané,10,SEN,"RW,LW",29-340,90,0,0,0,0,1,0,0,0,27,0,0,4,0.1,0.1,0.0,0,0,11,14,78.6,1,19,1,2,1,Liverpool,2022-03-16 Arsenal-Liverpool,ENG-EPL,21-22,8ef5cc6b
+77e84962,Thiago Alcántara,6,ESP,LM,30-339,89,0,1,0,0,0,0,0,0,73,6,4,0,0.0,0.0,0.2,2,1,51,59,86.4,6,42,2,1,0,Liverpool,2022-03-16 Arsenal-Liverpool,ENG-EPL,21-22,8ef5cc6b
+4fb9c88f,Curtis Jones,17,ENG,LM,21-045,1,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,2,0,0,0,Liverpool,2022-03-16 Arsenal-Liverpool,ENG-EPL,21-22,8ef5cc6b
+7f3b388c,Fabinho,3,BRA,CM,28-144,90,0,0,0,0,0,0,0,0,57,2,0,3,0.0,0.0,0.0,0,0,39,48,81.3,0,22,0,1,1,Liverpool,2022-03-16 Arsenal-Liverpool,ENG-EPL,21-22,8ef5cc6b
+935e6b8f,Jordan Henderson,14,ENG,RM,31-272,90,0,0,0,0,0,0,0,0,53,0,0,0,0.0,0.0,0.0,1,0,38,51,74.5,4,27,2,0,0,Liverpool,2022-03-16 Arsenal-Liverpool,ENG-EPL,21-22,8ef5cc6b
+2e4f5f03,Andrew Robertson,26,SCO,LB,28-005,90,0,1,0,0,1,0,0,0,101,4,3,3,0.0,0.0,0.3,2,1,66,88,75.0,5,53,2,0,0,Liverpool,2022-03-16 Arsenal-Liverpool,ENG-EPL,21-22,8ef5cc6b
+e06683ca,Virgil van Dijk,4,NED,CB,30-251,90,0,0,0,0,1,1,0,0,91,0,0,1,0.0,0.0,0.0,1,1,78,86,90.7,2,65,0,0,0,Liverpool,2022-03-16 Arsenal-Liverpool,ENG-EPL,21-22,8ef5cc6b
+b217ef29,Joël Matip,32,CMR,CB,30-220,90,0,0,0,0,1,0,0,0,68,1,0,1,0.0,0.0,0.0,1,0,48,57,84.2,3,40,2,0,0,Liverpool,2022-03-16 Arsenal-Liverpool,ENG-EPL,21-22,8ef5cc6b
+cd1acf9d,Trent Alexander-Arnold,66,ENG,RB,23-160,90,0,0,0,0,0,0,0,0,68,2,2,0,0.0,0.0,0.1,4,0,40,62,64.5,8,28,0,0,0,Liverpool,2022-03-16 Arsenal-Liverpool,ENG-EPL,21-22,8ef5cc6b
+7a2e46a8,Alisson,1,BRA,GK,29-165,90,0,0,0,0,0,0,0,0,37,0,0,0,0.0,0.0,0.0,0,0,32,36,88.9,0,26,0,0,0,Liverpool,2022-03-16 Arsenal-Liverpool,ENG-EPL,21-22,8ef5cc6b

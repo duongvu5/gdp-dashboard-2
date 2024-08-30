@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+df69b544,Antoine Griezmann,7,FRA,"FW,RM",28-012,90,1,0,0,0,5,4,0,0,45,0,0,0,1.3,1.3,0.1,3,1,30,37,81.1,8,30,4,2,1,Atlético Madrid,2019-04-02 Atlético Madrid-Girona,ESP-LALIGA,18-19,498b3c79
+129af0db,Álvaro Morata,22,ESP,FW,26-161,84,0,0,0,0,3,0,0,0,31,1,0,0,0.5,0.5,0.0,1,0,11,21,52.4,0,26,5,0,0,Atlético Madrid,2019-04-02 Atlético Madrid-Girona,ESP-LALIGA,18-19,498b3c79
+cfd8d664,Juanfran,20,ESP,LB,34-083,6,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,4,4,100.0,0,3,0,0,0,Atlético Madrid,2019-04-02 Atlético Madrid-Girona,ESP-LALIGA,18-19,498b3c79
+c14bc029,Saúl Ñíguez,8,ESP,"LW,LB,LM",24-132,90,0,0,0,0,3,1,0,0,77,2,0,1,0.2,0.2,0.4,5,1,44,64,68.8,2,38,3,6,5,Atlético Madrid,2019-04-02 Atlético Madrid-Girona,ESP-LALIGA,18-19,498b3c79
+fdd60087,Santiago Arias,4,COL,"RW,RB",27-079,90,0,0,0,0,0,0,1,0,61,5,3,0,0.0,0.0,0.1,1,0,36,48,75.0,2,32,3,0,0,Atlético Madrid,2019-04-02 Atlético Madrid-Girona,ESP-LALIGA,18-19,498b3c79
+55126f3b,Koke,6,ESP,CM,27-084,90,0,0,0,0,1,0,0,0,88,2,1,1,0.0,0.0,0.2,6,0,70,83,84.3,8,46,0,1,1,Atlético Madrid,2019-04-02 Atlético Madrid-Girona,ESP-LALIGA,18-19,498b3c79
+529f49ab,Thomas Partey,5,GHA,CM,25-293,55,0,0,0,0,2,0,0,0,41,0,0,0,0.0,0.0,0.0,2,0,31,37,83.8,3,34,0,1,0,Atlético Madrid,2019-04-02 Atlético Madrid-Girona,ESP-LALIGA,18-19,498b3c79
+01eb744d,Ángel Correa,10,ARG,"RM,FW,CM",24-024,35,0,0,0,0,0,0,0,0,21,0,1,0,0.0,0.0,0.6,3,0,13,16,81.3,2,15,0,2,1,Atlético Madrid,2019-04-02 Atlético Madrid-Girona,ESP-LALIGA,18-19,498b3c79
+6434f10d,Rodri,14,ESP,"DM,CM",22-284,90,0,0,0,0,0,0,0,0,82,5,1,0,0.0,0.0,0.0,2,0,67,75,89.3,8,51,2,2,2,Atlético Madrid,2019-04-02 Atlético Madrid-Girona,ESP-LALIGA,18-19,498b3c79
+e4ed2628,Filipe Luís,3,BRA,"CB,LB",33-236,64,0,0,0,0,0,0,0,0,48,1,4,0,0.0,0.0,0.0,0,0,28,39,71.8,4,28,0,1,1,Atlético Madrid,2019-04-02 Atlético Madrid-Girona,ESP-LALIGA,18-19,498b3c79
+db750822,Vitolo,23,ESP,"LM,RM",29-151,26,0,1,0,0,2,1,0,0,26,0,1,1,0.5,0.5,0.4,4,1,16,17,94.1,2,21,2,4,3,Atlético Madrid,2019-04-02 Atlético Madrid-Girona,ESP-LALIGA,18-19,498b3c79
+fc4f85b1,Diego Godín,2,URU,CB,33-045,90,1,0,0,0,1,1,0,0,53,1,1,1,0.4,0.4,0.0,1,0,37,44,84.1,2,28,1,0,0,Atlético Madrid,2019-04-02 Atlético Madrid-Girona,ESP-LALIGA,18-19,498b3c79
+f0da930c,José María Giménez,24,URU,CB,24-072,90,0,0,0,0,0,0,0,0,53,2,2,1,0.0,0.0,0.5,4,0,39,44,88.6,3,27,1,0,0,Atlético Madrid,2019-04-02 Atlético Madrid-Girona,ESP-LALIGA,18-19,498b3c79
+ee8508c0,Jan Oblak,13,SVN,GK,26-085,90,0,0,0,0,0,0,0,0,26,0,0,0,0.0,0.0,0.0,0,0,20,24,83.3,0,15,0,0,0,Atlético Madrid,2019-04-02 Atlético Madrid-Girona,ESP-LALIGA,18-19,498b3c79
+c49afee6,Seydou Doumbia,22,CIV,FW,31-092,77,0,0,0,0,2,2,0,0,23,1,0,0,0.3,0.3,0.0,0,0,8,12,66.7,1,16,0,3,3,Girona,2019-04-02 Atlético Madrid-Girona,ESP-LALIGA,18-19,498b3c79
+59d93937,Patrick Roberts,17,ENG,"RM,FW",22-056,13,0,0,0,0,0,0,0,0,12,0,1,0,0.0,0.0,0.0,1,0,7,10,70.0,0,9,1,0,0,Girona,2019-04-02 Atlético Madrid-Girona,ESP-LALIGA,18-19,498b3c79
+1bda5842,Portu,9,ESP,"LM,RM",26-316,68,0,0,0,0,0,0,0,0,22,0,1,0,0.0,0.0,0.0,1,0,17,18,94.4,2,17,0,1,0,Girona,2019-04-02 Atlético Madrid-Girona,ESP-LALIGA,18-19,498b3c79
+38699c72,Anthony Lozano,19,HON,"RM,FW",25-342,22,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,3,3,100.0,1,1,0,0,0,Girona,2019-04-02 Atlético Madrid-Girona,ESP-LALIGA,18-19,498b3c79
+29b61deb,Pere Pons,8,ESP,CM,26-041,83,0,0,0,0,0,0,0,0,39,3,0,2,0.0,0.0,0.0,2,0,24,32,75.0,4,20,2,1,1,Girona,2019-04-02 Atlético Madrid-Girona,ESP-LALIGA,18-19,498b3c79
+4acd733a,Valery Fernández,34,ESP,"LM,CM",19-130,7,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,2,1,0,0,Girona,2019-04-02 Atlético Madrid-Girona,ESP-LALIGA,18-19,498b3c79
+a10361d2,Aleix García,23,ESP,"CM,LM",21-278,90,0,0,0,0,1,0,0,0,86,0,0,1,0.0,0.0,0.2,6,0,68,78,87.2,8,46,2,1,1,Girona,2019-04-02 Atlético Madrid-Girona,ESP-LALIGA,18-19,498b3c79
+e7f4603c,Borja García,10,ESP,"RM,LM,FW",28-151,90,0,0,0,0,2,2,0,0,63,0,0,0,0.0,0.0,0.1,5,0,53,57,93.0,6,44,4,1,0,Girona,2019-04-02 Atlético Madrid-Girona,ESP-LALIGA,18-19,498b3c79
+6f7d826d,Douglas Luiz,12,BRA,"DM,CM",20-328,90,0,0,0,0,1,0,0,0,75,3,1,2,0.0,0.0,0.0,1,0,58,62,93.5,9,42,0,2,2,Girona,2019-04-02 Atlético Madrid-Girona,ESP-LALIGA,18-19,498b3c79
+4db76f57,Marc Muniesa,20,ESP,LB,27-006,90,0,0,0,0,1,0,0,0,85,2,5,0,0.2,0.2,0.0,4,0,60,70,85.7,6,49,1,4,3,Girona,2019-04-02 Atlético Madrid-Girona,ESP-LALIGA,18-19,498b3c79
+4242011c,Bernardo Espinosa,2,COL,CB,29-265,90,0,0,0,0,1,0,0,0,67,0,0,1,0.1,0.1,0.2,1,0,47,55,85.5,0,33,0,1,1,Girona,2019-04-02 Atlético Madrid-Girona,ESP-LALIGA,18-19,498b3c79
+ba71d071,Pedro Alcalá,5,ESP,CB,30-014,90,0,0,0,0,3,0,0,0,64,0,0,1,0.2,0.2,0.0,0,0,44,52,84.6,1,27,0,0,0,Girona,2019-04-02 Atlético Madrid-Girona,ESP-LALIGA,18-19,498b3c79
+27d0a506,Pedro Porro,24,ESP,RB,19-201,90,0,0,0,0,1,0,0,0,91,2,0,2,0.0,0.0,0.3,2,0,55,78,70.5,4,48,2,1,0,Girona,2019-04-02 Atlético Madrid-Girona,ESP-LALIGA,18-19,498b3c79
+26f2473f,Gorka Iraizoz,1,ESP,GK,38-027,90,0,0,0,0,0,0,0,0,45,1,0,0,0.0,0.0,0.0,0,0,32,40,80.0,0,24,0,1,1,Girona,2019-04-02 Atlético Madrid-Girona,ESP-LALIGA,18-19,498b3c79

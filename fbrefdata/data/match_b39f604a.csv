@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+07f8bcc8,Assan Ceesay,77,GAM,FW,28-164,78,0,0,0,0,1,0,0,0,19,1,0,1,0.1,0.1,0.0,1,0,7,9,77.8,0,7,1,0,0,Lecce,2022-08-28 Lecce-Empoli,ITA-SERIA_A,22-23,b39f604a
+04df29a5,Lorenzo Colombo,9,ITA,FW,20-173,12,0,0,0,0,1,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,2,0,0,0,Lecce,2022-08-28 Lecce-Empoli,ITA-SERIA_A,22-23,b39f604a
+8a6de8c7,Lameck Banda,22,ZAM,LW,21-211,73,0,1,0,0,3,2,1,0,24,1,1,1,0.2,0.2,0.1,2,1,5,12,41.7,0,19,6,6,4,Lecce,2022-08-28 Lecce-Empoli,ITA-SERIA_A,22-23,b39f604a
+a3695ac2,Marcin Listkowski,19,POL,LW,24-199,17,0,0,0,0,1,0,0,0,14,0,0,0,0.1,0.1,0.0,1,0,9,13,69.2,0,9,3,0,0,Lecce,2022-08-28 Lecce-Empoli,ITA-SERIA_A,22-23,b39f604a
+ac4a4508,Gabriel Strefezza,27,BRA,RW,25-132,68,1,0,0,0,5,3,0,0,54,2,1,1,0.3,0.3,0.1,4,1,22,33,66.7,2,34,4,1,0,Lecce,2022-08-28 Lecce-Empoli,ITA-SERIA_A,22-23,b39f604a
+1fca9171,Federico Di Francesco,11,ITA,RW,28-075,22,0,0,0,0,0,0,0,0,10,0,0,1,0.0,0.0,0.1,0,0,2,6,33.3,0,4,0,0,0,Lecce,2022-08-28 Lecce-Empoli,ITA-SERIA_A,22-23,b39f604a
+79370f8c,Kristijan Bistrović,8,CRO,LM,24-141,45,0,0,0,0,0,0,0,0,16,1,0,0,0.0,0.0,0.0,0,0,6,11,54.5,0,8,0,0,0,Lecce,2022-08-28 Lecce-Empoli,ITA-SERIA_A,22-23,b39f604a
+a69cc629,Kristoffer Askildsen,7,NOR,LM,21-231,45,0,0,0,0,2,0,0,0,21,1,0,0,0.1,0.1,0.0,1,0,14,16,87.5,3,7,0,1,0,Lecce,2022-08-28 Lecce-Empoli,ITA-SERIA_A,22-23,b39f604a
+d4456fb3,Morten Hjulmand,42,DEN,CM,23-064,90,0,0,0,0,1,0,0,0,33,3,2,0,0.0,0.0,0.1,4,0,19,24,79.2,1,16,0,2,2,Lecce,2022-08-28 Lecce-Empoli,ITA-SERIA_A,22-23,b39f604a
+f025eade,Joan Gonzàlez,16,ESP,RM,20-208,78,0,0,0,0,0,0,0,0,36,1,1,2,0.0,0.0,0.2,2,0,24,29,82.8,1,21,2,2,2,Lecce,2022-08-28 Lecce-Empoli,ITA-SERIA_A,22-23,b39f604a
+c69ef855,Alexis Blin,29,FRA,RM,25-346,12,0,0,0,0,0,0,0,0,18,0,1,0,0.0,0.0,0.0,2,0,12,17,70.6,3,12,2,0,0,Lecce,2022-08-28 Lecce-Empoli,ITA-SERIA_A,22-23,b39f604a
+c74d63ac,Antonino Gallo,25,ITA,LB,22-235,90,0,0,0,0,0,0,0,0,64,2,0,2,0.0,0.0,0.1,5,0,39,56,69.6,7,31,4,0,0,Lecce,2022-08-28 Lecce-Empoli,ITA-SERIA_A,22-23,b39f604a
+5a08ee41,Federico Baschirotto,6,ITA,CB,25-342,90,0,0,0,0,0,0,0,0,45,0,2,1,0.0,0.0,0.0,0,0,23,33,69.7,2,11,0,0,0,Lecce,2022-08-28 Lecce-Empoli,ITA-SERIA_A,22-23,b39f604a
+2a6cd437,Marin Pongračić,5,CRO,CB,24-351,90,0,0,0,0,1,0,0,0,28,2,4,0,0.0,0.0,0.0,2,0,19,19,100.0,2,12,0,0,0,Lecce,2022-08-28 Lecce-Empoli,ITA-SERIA_A,22-23,b39f604a
+822ed0ec,Valentin Gendrey,17,FRA,RB,22-068,90,0,0,0,0,0,0,0,0,68,1,0,2,0.0,0.0,0.0,4,0,42,58,72.4,7,32,4,1,1,Lecce,2022-08-28 Lecce-Empoli,ITA-SERIA_A,22-23,b39f604a
+9f5a610b,Wladimiro Falcone,30,ITA,GK,27-138,90,0,0,0,0,0,0,0,0,24,0,0,0,0.0,0.0,0.0,0,0,11,21,52.4,0,8,0,0,0,Lecce,2022-08-28 Lecce-Empoli,ITA-SERIA_A,22-23,b39f604a
+86383d0e,Martin Satriano,9,URU,FW,21-189,72,0,0,0,0,1,0,0,0,21,0,0,0,0.0,0.0,0.0,2,0,13,16,81.3,0,10,1,1,1,Empoli,2022-08-28 Lecce-Empoli,ITA-SERIA_A,22-23,b39f604a
+d7d32194,Mattia Destro,23,ITA,FW,31-161,18,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,1,0,1,5,20.0,1,4,0,0,0,Empoli,2022-08-28 Lecce-Empoli,ITA-SERIA_A,22-23,b39f604a
+c283ddef,Sam Lammers,7,NED,FW,25-120,55,0,0,0,0,1,0,0,0,18,0,0,1,0.0,0.0,0.0,1,0,9,12,75.0,2,11,0,1,1,Empoli,2022-08-28 Lecce-Empoli,ITA-SERIA_A,22-23,b39f604a
+f42d6c13,Nedim Bajrami,10,ALB,FW,23-181,35,0,0,0,0,1,0,0,0,16,0,0,0,0.0,0.0,0.0,0,0,9,12,75.0,0,8,0,1,0,Empoli,2022-08-28 Lecce-Empoli,ITA-SERIA_A,22-23,b39f604a
+102e2599,Tommaso Baldanzi,35,ITA,AM,19-158,90,0,0,0,0,1,1,0,0,36,1,0,0,0.1,0.1,0.0,3,0,24,29,82.8,4,23,2,0,0,Empoli,2022-08-28 Lecce-Empoli,ITA-SERIA_A,22-23,b39f604a
+d44360be,Filippo Bandinelli,25,ITA,LM,27-152,55,0,0,0,0,0,0,0,0,27,4,0,0,0.0,0.0,0.0,0,0,12,17,70.6,1,12,0,1,0,Empoli,2022-08-28 Lecce-Empoli,ITA-SERIA_A,22-23,b39f604a
+fa449bba,Nicolas Haas,32,SUI,LM,26-217,35,0,0,0,0,0,0,0,0,18,1,0,0,0.0,0.0,0.0,0,0,7,13,53.8,1,10,0,1,0,Empoli,2022-08-28 Lecce-Empoli,ITA-SERIA_A,22-23,b39f604a
+7fac99d4,Răzvan Marin,18,ROU,CM,26-097,90,0,0,0,0,2,0,1,0,75,1,1,1,0.1,0.1,0.0,1,0,51,67,76.1,2,49,1,0,0,Empoli,2022-08-28 Lecce-Empoli,ITA-SERIA_A,22-23,b39f604a
+d7918b13,Liam Henderson,8,SCO,RM,26-125,72,0,0,0,0,0,0,0,0,35,0,0,0,0.0,0.0,0.1,3,0,25,33,75.8,5,24,0,1,0,Empoli,2022-08-28 Lecce-Empoli,ITA-SERIA_A,22-23,b39f604a
+6cc97b6a,Alberto Grassi,5,ITA,RM,27-174,18,0,0,0,0,0,0,0,0,13,0,0,0,0.0,0.0,0.0,0,0,6,10,60.0,1,7,0,0,0,Empoli,2022-08-28 Lecce-Empoli,ITA-SERIA_A,22-23,b39f604a
+0967845b,Fabiano Parisi,65,ITA,LB,21-292,90,1,0,0,0,2,1,0,0,71,1,2,1,0.1,0.1,0.0,0,0,39,49,79.6,1,36,2,5,3,Empoli,2022-08-28 Lecce-Empoli,ITA-SERIA_A,22-23,b39f604a
+f4797849,Koni De Winter,6,BEL,CB,20-077,90,0,0,0,0,0,0,0,0,73,0,2,1,0.0,0.0,0.0,0,0,59,62,95.2,1,45,0,0,0,Empoli,2022-08-28 Lecce-Empoli,ITA-SERIA_A,22-23,b39f604a
+6b635f5c,Ardian Ismajli,34,ALB,CB,25-332,90,0,0,0,0,0,0,0,0,75,2,1,2,0.0,0.0,0.0,0,0,52,62,83.9,1,36,1,0,0,Empoli,2022-08-28 Lecce-Empoli,ITA-SERIA_A,22-23,b39f604a
+13b44b02,Petar Stojanović,30,SVN,RB,26-325,64,0,0,0,0,1,1,1,0,53,1,1,0,0.0,0.0,0.0,1,0,37,47,78.7,5,31,0,1,0,Empoli,2022-08-28 Lecce-Empoli,ITA-SERIA_A,22-23,b39f604a
+6af30900,Tyronne Ebuehi,24,NGA,RB,26-255,26,0,0,0,0,0,0,0,0,21,0,0,1,0.0,0.0,0.0,0,0,12,14,85.7,0,6,0,1,0,Empoli,2022-08-28 Lecce-Empoli,ITA-SERIA_A,22-23,b39f604a
+77d6fd4d,Guglielmo Vicario,13,ITA,GK,25-325,90,0,0,0,0,0,0,0,0,73,0,0,0,0.0,0.0,0.0,1,0,54,71,76.1,0,58,0,0,0,Empoli,2022-08-28 Lecce-Empoli,ITA-SERIA_A,22-23,b39f604a

@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+b561db50,Raúl Jiménez,7,MEX,FW,32-219,71,1,0,0,0,1,1,0,0,33,0,1,0,0.1,0.1,0.4,3,0,17,23,73.9,2,22,1,3,1,Fulham,2023-12-10 Fulham-West Ham,ENG-EPL,23-24,d3dd23fb
+8b529245,Carlos Vinícius,30,BRA,FW,28-260,19,1,0,0,0,1,1,0,0,6,0,0,0,0.8,0.8,0.0,0,0,4,4,100.0,0,4,0,0,0,Fulham,2023-12-10 Fulham-West Ham,ENG-EPL,23-24,d3dd23fb
+8b9ebd03,Willian,20,BRA,LW,35-123,45,1,0,0,0,2,2,0,0,44,1,0,1,0.5,0.5,0.1,4,1,29,35,82.9,2,26,1,0,0,Fulham,2023-12-10 Fulham-West Ham,ENG-EPL,23-24,d3dd23fb
+c6dc9ecd,Harry Wilson,8,WAL,RW,26-263,45,1,1,0,0,2,2,0,0,34,0,0,1,0.4,0.4,0.8,2,1,24,28,85.7,1,26,0,2,2,Fulham,2023-12-10 Fulham-West Ham,ENG-EPL,23-24,d3dd23fb
+6ca5ec4b,Alex Iwobi,22,NGA,"RW,LW",27-221,78,0,1,0,0,5,1,0,0,57,0,0,0,0.5,0.5,0.2,6,3,39,49,79.6,3,49,5,1,1,Fulham,2023-12-10 Fulham-West Ham,ENG-EPL,23-24,d3dd23fb
+0f7533cd,Bobby Reid,14,JAM,LW,30-311,12,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,6,8,75.0,1,5,0,0,0,Fulham,2023-12-10 Fulham-West Ham,ENG-EPL,23-24,d3dd23fb
+6639e500,Andreas Pereira,18,BRA,AM,27-343,90,0,1,0,0,1,0,0,0,72,2,0,1,0.0,0.0,0.7,6,1,55,64,85.9,8,51,8,3,1,Fulham,2023-12-10 Fulham-West Ham,ENG-EPL,23-24,d3dd23fb
+a8748947,Tom Cairney,10,SCO,DM,32-324,90,0,1,0,0,0,0,0,0,115,1,0,0,0.0,0.0,0.0,1,1,105,112,93.8,13,85,3,2,2,Fulham,2023-12-10 Fulham-West Ham,ENG-EPL,23-24,d3dd23fb
+a78ff07f,João Palhinha,26,POR,DM,28-154,79,0,1,0,0,1,0,1,0,58,8,0,1,0.0,0.0,0.1,1,1,42,47,89.4,5,28,1,0,0,Fulham,2023-12-10 Fulham-West Ham,ENG-EPL,23-24,d3dd23fb
+803ae100,Harrison Reed,6,ENG,DM,28-317,11,0,0,0,0,0,0,0,0,28,0,0,0,0.0,0.0,0.0,1,1,25,26,96.2,0,21,0,1,1,Fulham,2023-12-10 Fulham-West Ham,ENG-EPL,23-24,d3dd23fb
+289601e6,Antonee Robinson,33,USA,LB,26-124,71,0,0,0,0,0,0,0,0,67,4,1,0,0.0,0.0,0.0,3,0,48,56,85.7,2,31,1,1,0,Fulham,2023-12-10 Fulham-West Ham,ENG-EPL,23-24,d3dd23fb
+f449640d,Fodé Ballo-Touré,12,SEN,LB,26-341,19,0,0,0,0,0,0,1,0,20,1,1,1,0.0,0.0,0.0,0,0,11,16,68.8,0,5,1,0,0,Fulham,2023-12-10 Fulham-West Ham,ENG-EPL,23-24,d3dd23fb
+a36524bf,Calvin Bassey,3,NGA,CB,23-344,90,0,0,0,0,0,0,0,0,99,2,0,2,0.0,0.0,0.0,0,0,80,92,87.0,3,51,0,1,1,Fulham,2023-12-10 Fulham-West Ham,ENG-EPL,23-24,d3dd23fb
+c81d773d,Tosin Adarabioyo,4,ENG,CB,26-077,90,1,0,0,0,1,1,0,0,122,0,2,0,0.0,0.0,0.0,0,0,100,111,90.1,4,81,1,0,0,Fulham,2023-12-10 Fulham-West Ham,ENG-EPL,23-24,d3dd23fb
+197640fd,Timothy Castagne,21,BEL,RB,28-005,90,0,0,0,0,0,0,0,0,90,2,3,0,0.0,0.0,0.0,0,0,77,82,93.9,2,51,1,1,1,Fulham,2023-12-10 Fulham-West Ham,ENG-EPL,23-24,d3dd23fb
+2628fd2b,Bernd Leno,17,GER,GK,31-281,90,0,0,0,0,0,0,0,0,51,0,0,0,0.0,0.0,0.0,0,0,46,49,93.9,0,30,0,0,0,Fulham,2023-12-10 Fulham-West Ham,ENG-EPL,23-24,d3dd23fb
+79c84d1c,Jarrod Bowen,20,ENG,"FW,AM",26-355,90,0,0,0,0,4,3,0,0,36,0,1,4,0.8,0.8,0.3,4,0,16,19,84.2,3,25,1,3,1,West Ham United,2023-12-10 Fulham-West Ham,ENG-EPL,23-24,d3dd23fb
+9b6f7fd5,Lucas Paquetá,10,BRA,"FW,AM",26-105,64,0,0,0,0,1,0,0,0,49,2,0,1,0.0,0.0,0.0,1,0,35,42,83.3,6,32,2,2,1,West Ham United,2023-12-10 Fulham-West Ham,ENG-EPL,23-24,d3dd23fb
+5a04fd92,Saïd Benrahma,22,ALG,AM,28-122,26,0,0,0,0,2,1,0,0,16,0,0,0,0.4,0.4,0.0,1,0,8,10,80.0,1,10,0,4,1,West Ham United,2023-12-10 Fulham-West Ham,ENG-EPL,23-24,d3dd23fb
+82927de4,Pablo Fornals,8,ESP,LM,27-291,45,0,0,0,0,0,0,0,0,19,1,0,2,0.0,0.0,0.0,0,0,13,16,81.3,1,11,0,0,0,West Ham United,2023-12-10 Fulham-West Ham,ENG-EPL,23-24,d3dd23fb
+e0bc6fdc,Emerson Palmieri,33,ITA,WB,29-129,45,0,0,0,0,0,0,0,0,36,2,2,0,0.0,0.0,0.1,1,0,32,33,97.0,2,19,1,0,0,West Ham United,2023-12-10 Fulham-West Ham,ENG-EPL,23-24,d3dd23fb
+3515d404,James Ward-Prowse,7,ENG,CM,29-039,90,0,0,0,0,1,1,0,0,63,4,1,1,0.0,0.0,0.0,0,0,42,55,76.4,2,27,0,0,0,West Ham United,2023-12-10 Fulham-West Ham,ENG-EPL,23-24,d3dd23fb
+6613c819,Tomáš Souček,28,CZE,CM,28-286,90,0,0,0,0,0,0,0,0,45,0,2,1,0.0,0.0,0.0,2,0,34,38,89.5,6,28,0,2,1,West Ham United,2023-12-10 Fulham-West Ham,ENG-EPL,23-24,d3dd23fb
+b62878a5,Mohammed Kudus,14,GHA,"RM,AM",23-130,63,0,0,0,0,0,0,0,0,22,1,0,0,0.0,0.0,0.0,1,0,11,16,68.8,0,15,0,7,4,West Ham United,2023-12-10 Fulham-West Ham,ENG-EPL,23-24,d3dd23fb
+92868cb5,Divin Mubama,45,ENG,FW,19-046,27,0,0,0,0,1,0,0,0,12,0,0,0,0.1,0.1,0.0,0,0,6,7,85.7,0,8,0,0,0,West Ham United,2023-12-10 Fulham-West Ham,ENG-EPL,23-24,d3dd23fb
+4f974391,Aaron Cresswell,3,ENG,LB,33-360,45,0,0,0,0,0,0,1,0,29,0,0,2,0.0,0.0,0.0,0,0,19,24,79.2,1,15,0,1,0,West Ham United,2023-12-10 Fulham-West Ham,ENG-EPL,23-24,d3dd23fb
+00963611,Konstantinos Mavropanos,15,GRE,CB,25-364,45,0,0,0,0,0,0,0,0,31,0,1,1,0.0,0.0,0.1,1,0,23,26,88.5,1,19,0,0,0,West Ham United,2023-12-10 Fulham-West Ham,ENG-EPL,23-24,d3dd23fb
+288e1e13,Nayef Aguerd,27,MAR,CB,27-255,90,0,0,0,0,0,0,0,0,78,0,2,0,0.0,0.0,0.0,0,0,58,71,81.7,2,59,0,1,1,West Ham United,2023-12-10 Fulham-West Ham,ENG-EPL,23-24,d3dd23fb
+ce4246f5,Kurt Zouma,4,FRA,CB,29-044,63,0,0,0,0,0,0,0,0,35,0,0,0,0.0,0.0,0.0,0,0,25,30,83.3,2,22,0,0,0,West Ham United,2023-12-10 Fulham-West Ham,ENG-EPL,23-24,d3dd23fb
+74b2cd7e,Angelo Ogbonna,21,ITA,CB,35-201,27,0,0,0,0,0,0,0,0,17,0,1,0,0.0,0.0,0.0,0,0,15,16,93.8,1,12,0,0,0,West Ham United,2023-12-10 Fulham-West Ham,ENG-EPL,23-24,d3dd23fb
+fdf3cb77,Vladimír Coufal,5,CZE,"WB,RB",31-110,90,0,0,0,0,0,0,0,0,53,0,1,1,0.0,0.0,0.6,5,0,25,42,59.5,1,22,1,1,0,West Ham United,2023-12-10 Fulham-West Ham,ENG-EPL,23-24,d3dd23fb
+9328b835,Łukasz Fabiański,1,POL,GK,38-236,90,0,0,0,0,0,0,0,0,30,0,1,0,0.0,0.0,0.0,0,0,21,28,75.0,0,20,0,0,0,West Ham United,2023-12-10 Fulham-West Ham,ENG-EPL,23-24,d3dd23fb

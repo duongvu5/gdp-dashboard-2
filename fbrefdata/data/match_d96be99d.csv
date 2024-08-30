@@ -1,0 +1,29 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+b318a643,Salomón Rondón,9,VEN,FW,28-014,72,1,0,0,0,1,1,0,0,27,0,1,1,0.7,0.7,0.0,3,2,11,16,68.8,1,18,2,1,1,West Bromwich Albion,2017-09-30 West Brom-Watford,ENG-EPL,17-18,d96be99d
+fb2dec57,Hal Robson-Kanu,4,WAL,FW,28-132,18,0,0,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.1,2,0,4,7,57.1,2,6,1,0,0,West Bromwich Albion,2017-09-30 West Brom-Watford,ENG-EPL,17-18,d96be99d
+ec7e6ad1,Chris Brunt,11,NIR,"LW,CM",32-290,61,0,0,0,0,0,0,0,0,36,3,0,0,0.0,0.0,0.3,3,1,19,30,63.3,2,20,0,0,0,West Bromwich Albion,2017-09-30 West Brom-Watford,ENG-EPL,17-18,d96be99d
+b98570d1,Jake Livermore,8,ENG,CM,27-320,29,0,0,0,0,0,0,1,0,12,2,0,0,0.0,0.0,0.0,0,0,9,10,90.0,1,3,0,0,0,West Bromwich Albion,2017-09-30 West Brom-Watford,ENG-EPL,17-18,d96be99d
+7bb5f40e,Matt Phillips,10,SCO,RW,26-201,57,0,0,0,0,2,1,0,0,27,3,1,1,0.1,0.1,0.0,0,0,9,17,52.9,1,15,2,1,1,West Bromwich Albion,2017-09-30 West Brom-Watford,ENG-EPL,17-18,d96be99d
+53538b39,James McClean,14,IRL,LW,28-161,33,0,0,0,0,2,1,1,0,12,0,0,0,0.1,0.1,0.0,0,0,4,9,44.4,0,10,2,1,0,West Bromwich Albion,2017-09-30 West Brom-Watford,ENG-EPL,17-18,d96be99d
+4ab53cdb,Jay Rodriguez,19,ENG,"AM,RW",28-063,90,0,0,0,0,2,0,0,0,34,1,0,1,0.1,0.1,0.0,1,0,14,20,70.0,2,21,1,4,1,West Bromwich Albion,2017-09-30 West Brom-Watford,ENG-EPL,17-18,d96be99d
+7dbbe367,Gareth Barry,18,ENG,"DM,CM",36-219,90,0,0,0,0,0,0,0,0,37,3,0,4,0.0,0.0,0.0,0,0,22,29,75.9,2,10,0,0,0,West Bromwich Albion,2017-09-30 West Brom-Watford,ENG-EPL,17-18,d96be99d
+580d52dd,Grzegorz Krychowiak,20,POL,"DM,CM",27-244,90,0,1,0,0,0,0,0,0,47,4,6,1,0.0,0.0,0.7,3,1,31,35,88.6,5,32,1,4,1,West Bromwich Albion,2017-09-30 West Brom-Watford,ENG-EPL,17-18,d96be99d
+46ee5234,Kieran Gibbs,3,ENG,LB,28-004,90,0,0,0,0,0,0,0,0,50,4,0,1,0.0,0.0,0.0,0,0,21,32,65.6,5,21,1,5,4,West Bromwich Albion,2017-09-30 West Brom-Watford,ENG-EPL,17-18,d96be99d
+f8fcd2a5,Jonny Evans,6,NIR,CB,29-270,90,1,0,0,0,1,1,1,0,54,1,1,2,0.7,0.7,0.0,3,0,27,40,67.5,2,23,2,1,1,West Bromwich Albion,2017-09-30 West Brom-Watford,ENG-EPL,17-18,d96be99d
+5540c9dc,Ahmed Hegazi,26,EGY,CB,26-248,90,0,0,0,0,1,0,0,0,31,0,1,2,0.3,0.3,0.0,0,0,11,18,61.1,0,11,0,0,0,West Bromwich Albion,2017-09-30 West Brom-Watford,ENG-EPL,17-18,d96be99d
+3e9e06cb,Craig Dawson,25,ENG,RB,27-147,90,0,0,0,0,0,0,0,0,42,4,0,0,0.0,0.0,0.0,0,0,19,33,57.6,5,14,0,1,1,West Bromwich Albion,2017-09-30 West Brom-Watford,ENG-EPL,17-18,d96be99d
+d0b3ceb9,Ben Foster,1,ENG,GK,34-180,90,0,0,0,0,0,0,0,0,32,0,0,0,0.0,0.0,0.0,0,0,15,30,50.0,0,10,0,0,0,West Bromwich Albion,2017-09-30 West Brom-Watford,ENG-EPL,17-18,d96be99d
+82e34b69,Troy Deeney,9,ENG,FW,29-093,90,0,0,0,0,0,0,0,0,24,1,0,1,0.0,0.0,0.1,2,1,9,14,64.3,3,15,0,0,0,Watford,2017-09-30 West Brom-Watford,ENG-EPL,17-18,d96be99d
+fa031b34,Richarlison,11,BRA,"LW,LM",20-143,90,1,1,0,0,7,2,0,0,53,3,0,1,0.6,0.6,0.7,7,2,21,30,70.0,4,41,6,4,2,Watford,2017-09-30 West Brom-Watford,ENG-EPL,17-18,d96be99d
+7527558b,André Carrillo,28,PER,RW,26-108,74,0,0,0,0,1,0,0,0,53,0,0,0,0.6,0.6,0.0,3,0,37,45,82.2,4,41,5,5,1,Watford,2017-09-30 West Brom-Watford,ENG-EPL,17-18,d96be99d
+c24dba2a,Andre Gray,18,JAM,FW,26-096,16,0,0,0,0,1,0,0,0,5,0,0,0,0.1,0.1,0.0,0,0,1,3,33.3,0,3,1,0,0,Watford,2017-09-30 West Brom-Watford,ENG-EPL,17-18,d96be99d
+6cdd8245,Tom Cleverley,8,ENG,"AM,CM,DM",28-049,90,0,0,0,0,0,0,0,0,71,3,1,0,0.0,0.0,0.2,3,0,50,65,76.9,7,38,1,0,0,Watford,2017-09-30 West Brom-Watford,ENG-EPL,17-18,d96be99d
+5acc4a10,Étienne Capoue,29,FRA,DM,29-081,61,0,0,0,0,3,0,0,0,69,1,1,0,0.1,0.1,0.1,1,0,53,61,86.9,7,49,1,0,0,Watford,2017-09-30 West Brom-Watford,ENG-EPL,17-18,d96be99d
+75f2c59f,Roberto Pereyra,37,ARG,"RM,AM",26-266,29,0,0,0,0,1,0,0,0,20,0,0,0,0.0,0.0,0.0,1,0,15,18,83.3,0,16,2,2,2,Watford,2017-09-30 West Brom-Watford,ENG-EPL,17-18,d96be99d
+02b29014,Abdoulaye Doucouré,16,MLI,"DM,CM",24-272,90,1,0,0,0,1,1,0,0,102,3,1,1,0.0,0.0,0.2,6,0,81,89,91.0,6,73,7,2,1,Watford,2017-09-30 West Brom-Watford,ENG-EPL,17-18,d96be99d
+12aa7661,José Holebas,25,GRE,LB,33-095,90,0,1,0,0,0,0,0,0,82,3,0,3,0.0,0.0,0.2,3,1,46,73,63.0,7,45,5,5,3,Watford,2017-09-30 West Brom-Watford,ENG-EPL,17-18,d96be99d
+914ab9a1,Christian Kabasele,27,BEL,CB,26-218,90,0,0,0,0,0,0,0,0,62,1,1,0,0.0,0.0,0.0,1,0,45,54,83.3,6,39,2,0,0,Watford,2017-09-30 West Brom-Watford,ENG-EPL,17-18,d96be99d
+8aa5f52c,Adrian Mariappa,6,JAM,CB,30-362,90,0,0,0,0,1,0,0,0,66,2,0,0,0.1,0.1,0.0,1,0,49,59,83.1,7,34,3,0,0,Watford,2017-09-30 West Brom-Watford,ENG-EPL,17-18,d96be99d
+e5d01ecf,Kiko Femenía,21,ESP,RB,26-240,90,0,0,0,0,0,0,0,0,75,4,0,0,0.0,0.0,0.0,1,0,59,69,85.5,8,44,1,0,0,Watford,2017-09-30 West Brom-Watford,ENG-EPL,17-18,d96be99d
+d596e193,Heurelho Gomes,1,BRA,GK,36-227,90,0,0,0,0,0,0,0,0,31,0,1,0,0.0,0.0,0.0,0,0,23,29,79.3,0,17,0,0,0,Watford,2017-09-30 West Brom-Watford,ENG-EPL,17-18,d96be99d

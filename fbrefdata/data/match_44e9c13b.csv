@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+79443529,Dušan Vlahović,9,SRB,FW,23-095,90,1,0,0,0,2,2,0,0,25,0,0,0,0.3,0.3,0.0,0,0,8,12,66.7,0,20,1,1,0,Juventus,2023-05-03 Juventus-Lecce,ITA-SERIA_A,22-23,44e9c13b
+19cda00b,Ángel Di María,22,ARG,FW,35-078,72,0,0,0,0,1,0,0,0,36,0,1,0,0.1,0.1,0.1,4,0,20,30,66.7,4,25,5,4,1,Juventus,2023-05-03 Juventus-Lecce,ITA-SERIA_A,22-23,44e9c13b
+b0f7e36c,Federico Chiesa,7,ITA,FW,25-190,18,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,5,2,1,0,Juventus,2023-05-03 Juventus-Lecce,ITA-SERIA_A,22-23,44e9c13b
+34693494,Fabio Miretti,20,ITA,DM,19-273,72,0,0,0,0,3,0,0,0,36,1,1,1,1.0,1.0,0.0,0,0,16,24,66.7,5,21,2,2,1,Juventus,2023-05-03 Juventus-Lecce,ITA-SERIA_A,22-23,44e9c13b
+867239d3,Paul Pogba,10,FRA,DM,30-049,18,0,0,0,0,0,0,0,0,16,0,0,0,0.0,0.0,0.2,2,0,10,12,83.3,2,13,2,3,3,Juventus,2023-05-03 Juventus-Lecce,ITA-SERIA_A,22-23,44e9c13b
+dff153a4,Leandro Paredes,32,ARG,DM,28-308,86,1,0,0,0,4,1,1,0,71,0,3,1,0.2,0.2,0.1,3,0,50,57,87.7,5,37,0,0,0,Juventus,2023-05-03 Juventus-Lecce,ITA-SERIA_A,22-23,44e9c13b
+a8a874f1,Manuel Locatelli,5,ITA,DM,25-115,4,0,0,0,0,0,0,0,0,5,0,0,1,0.0,0.0,0.0,0,0,1,1,100.0,0,0,0,0,0,Juventus,2023-05-03 Juventus-Lecce,ITA-SERIA_A,22-23,44e9c13b
+366be751,Nicolò Fagioli,44,ITA,DM,22-080,90,0,0,0,0,0,0,0,0,40,2,0,1,0.0,0.0,0.3,5,2,27,31,87.1,4,32,2,1,0,Juventus,2023-05-03 Juventus-Lecce,ITA-SERIA_A,22-23,44e9c13b
+b1cd37e6,Filip Kostić,17,SRB,WB,30-183,90,0,0,0,0,2,1,0,0,67,0,1,1,0.0,0.0,0.1,2,0,39,57,68.4,5,46,3,3,1,Juventus,2023-05-03 Juventus-Lecce,ITA-SERIA_A,22-23,44e9c13b
+ae4e2852,Mattia De Sciglio,2,ITA,WB,30-195,31,0,0,0,0,0,0,0,0,16,2,0,0,0.0,0.0,0.0,0,0,9,14,64.3,0,12,2,0,0,Juventus,2023-05-03 Juventus-Lecce,ITA-SERIA_A,22-23,44e9c13b
+0ab1f153,Juan Cuadrado,11,COL,WB,34-342,59,0,0,0,0,0,0,0,0,33,1,1,0,0.0,0.0,0.1,3,0,23,26,88.5,0,22,2,2,2,Juventus,2023-05-03 Juventus-Lecce,ITA-SERIA_A,22-23,44e9c13b
+94b2001f,Danilo,6,BRA,CB,31-292,90,0,0,0,0,3,0,0,0,81,2,1,1,0.2,0.2,0.0,5,1,61,65,93.8,8,55,0,1,1,Juventus,2023-05-03 Juventus-Lecce,ITA-SERIA_A,22-23,44e9c13b
+52ec54d0,Leonardo Bonucci,19,ITA,CB,36-002,90,0,0,0,0,0,0,0,0,82,0,3,1,0.0,0.0,0.0,1,0,63,71,88.7,1,55,0,0,0,Juventus,2023-05-03 Juventus-Lecce,ITA-SERIA_A,22-23,44e9c13b
+5fd5ed86,Gleison Bremer,3,BRA,CB,26-046,86,0,0,0,0,1,0,1,0,85,2,3,2,0.1,0.1,0.7,2,0,63,71,88.7,3,63,0,0,0,Juventus,2023-05-03 Juventus-Lecce,ITA-SERIA_A,22-23,44e9c13b
+18dd3219,Federico Gatti,15,ITA,CB,24-313,4,0,0,0,0,0,0,0,0,5,1,0,1,0.0,0.0,0.0,0,0,0,1,0.0,0,1,0,0,0,Juventus,2023-05-03 Juventus-Lecce,ITA-SERIA_A,22-23,44e9c13b
+01b8a2b2,Wojciech Szczęsny,1,POL,GK,33-015,90,0,0,0,0,0,0,0,0,39,0,0,0,0.0,0.0,0.0,1,0,35,36,97.2,0,24,0,0,0,Juventus,2023-05-03 Juventus-Lecce,ITA-SERIA_A,22-23,44e9c13b
+07f8bcc8,Assan Ceesay,77,GAM,FW,29-047,88,1,0,1,1,3,1,0,0,22,0,0,0,1.1,0.4,0.0,1,0,5,12,41.7,0,11,1,1,0,Lecce,2023-05-03 Juventus-Lecce,ITA-SERIA_A,22-23,44e9c13b
+04df29a5,Lorenzo Colombo,9,ITA,FW,21-056,2,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,3,0,0,0,Lecce,2023-05-03 Juventus-Lecce,ITA-SERIA_A,22-23,44e9c13b
+8a6de8c7,Lameck Banda,22,ZAM,LW,22-094,90,0,0,0,0,1,0,0,0,42,1,1,1,0.2,0.2,0.0,3,0,18,31,58.1,1,32,5,6,4,Lecce,2023-05-03 Juventus-Lecce,ITA-SERIA_A,22-23,44e9c13b
+ea02beaf,Remi Oudin,28,FRA,RW,26-166,90,0,0,0,0,3,1,0,0,66,2,1,1,0.1,0.1,0.5,6,0,34,54,63.0,7,41,4,3,2,Lecce,2023-05-03 Juventus-Lecce,ITA-SERIA_A,22-23,44e9c13b
+4c8845f7,Youssef Maleh,32,MAR,LM,24-254,59,0,0,0,0,0,0,0,0,27,1,1,1,0.0,0.0,0.1,2,0,15,19,78.9,4,15,1,0,0,Lecce,2023-05-03 Juventus-Lecce,ITA-SERIA_A,22-23,44e9c13b
+c69ef855,Alexis Blin,29,FRA,LM,26-229,31,0,0,0,0,0,0,0,0,18,0,0,1,0.0,0.0,0.0,0,0,10,15,66.7,1,10,0,0,0,Lecce,2023-05-03 Juventus-Lecce,ITA-SERIA_A,22-23,44e9c13b
+d4456fb3,Morten Hjulmand,42,DEN,CM,23-312,88,0,0,0,0,0,0,0,0,63,2,0,0,0.0,0.0,0.0,2,0,46,52,88.5,7,35,0,2,1,Lecce,2023-05-03 Juventus-Lecce,ITA-SERIA_A,22-23,44e9c13b
+b3ef6517,Joel Voelkerling Persson,31,SWE,CM,20-108,2,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,1,0,1,2,50.0,0,0,0,0,0,Lecce,2023-05-03 Juventus-Lecce,ITA-SERIA_A,22-23,44e9c13b
+f025eade,Joan Gonzàlez,16,ESP,RM,21-091,59,0,0,0,0,0,0,0,0,40,1,1,0,0.0,0.0,0.0,0,0,25,31,80.6,3,24,0,0,0,Lecce,2023-05-03 Juventus-Lecce,ITA-SERIA_A,22-23,44e9c13b
+1fca9171,Federico Di Francesco,11,ITA,RM,28-323,31,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,4,7,57.1,1,7,0,1,0,Lecce,2023-05-03 Juventus-Lecce,ITA-SERIA_A,22-23,44e9c13b
+149c5f5d,Giuseppe Pezzella,97,ITA,LB,25-155,70,0,0,0,0,1,0,1,0,51,0,2,0,0.1,0.1,0.0,0,0,38,44,86.4,6,36,3,1,1,Lecce,2023-05-03 Juventus-Lecce,ITA-SERIA_A,22-23,44e9c13b
+4d1efb48,Pietro Ceccaroni,18,ITA,LB,27-133,20,0,0,0,0,2,0,0,0,12,0,0,0,0.1,0.1,0.2,1,0,8,9,88.9,0,6,0,0,0,Lecce,2023-05-03 Juventus-Lecce,ITA-SERIA_A,22-23,44e9c13b
+3eed9821,Samuel Umtiti,93,FRA,CB,29-170,90,0,0,0,0,1,0,1,0,59,5,1,1,0.0,0.0,0.0,0,0,46,48,95.8,5,39,1,0,0,Lecce,2023-05-03 Juventus-Lecce,ITA-SERIA_A,22-23,44e9c13b
+09899de8,Simone Romagnoli,4,ITA,CB,33-083,90,0,0,0,0,0,0,0,0,51,3,0,3,0.0,0.0,0.0,0,0,38,41,92.7,2,34,0,0,0,Lecce,2023-05-03 Juventus-Lecce,ITA-SERIA_A,22-23,44e9c13b
+5a08ee41,Federico Baschirotto,6,ITA,RB,26-225,90,0,0,0,0,2,2,0,0,54,1,2,2,0.1,0.1,0.0,3,0,34,42,81.0,4,25,1,1,1,Lecce,2023-05-03 Juventus-Lecce,ITA-SERIA_A,22-23,44e9c13b
+9f5a610b,Wladimiro Falcone,30,ITA,GK,28-021,90,0,0,0,0,0,0,0,0,30,0,0,0,0.0,0.0,0.0,1,0,15,28,53.6,0,14,0,0,0,Lecce,2023-05-03 Juventus-Lecce,ITA-SERIA_A,22-23,44e9c13b

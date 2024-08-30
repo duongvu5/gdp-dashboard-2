@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+eb2fe5b6,Luis Muriel,9,COL,FW,31-182,67,0,0,0,0,0,0,0,0,33,1,0,0,0.0,0.0,0.1,4,0,18,30,60.0,8,26,4,1,1,Atalanta,2022-10-15 Atalanta-Sassuolo,ITA-SERIA_A,22-23,4b70032c
+491a433d,Rasmus Højlund,17,DEN,FW,19-253,23,0,0,0,0,2,1,0,0,13,0,0,0,0.4,0.4,0.0,2,0,9,10,90.0,1,10,0,1,0,Atalanta,2022-10-15 Atalanta-Sassuolo,ITA-SERIA_A,22-23,4b70032c
+7c104bb7,Ademola Lookman,11,NGA,FW,24-360,67,1,0,0,0,2,1,0,0,23,0,0,0,0.4,0.4,0.6,2,0,15,18,83.3,3,18,3,1,1,Atalanta,2022-10-15 Atalanta-Sassuolo,ITA-SERIA_A,22-23,4b70032c
+fe012aca,Jeremie Boga,10,CIV,FW,25-285,23,0,0,0,0,0,0,0,0,16,0,0,0,0.0,0.0,0.1,1,0,10,12,83.3,2,15,3,0,0,Atalanta,2022-10-15 Atalanta-Sassuolo,ITA-SERIA_A,22-23,4b70032c
+e599253a,Mario Pašalić,88,CRO,AM,27-248,65,1,0,0,0,4,2,0,0,31,1,0,1,1.4,1.4,0.0,5,1,18,22,81.8,5,16,0,0,0,Atalanta,2022-10-15 Atalanta-Sassuolo,ITA-SERIA_A,22-23,4b70032c
+a9202def,Éderson,13,BRA,AM,23-100,25,0,0,0,0,0,0,0,0,15,0,1,0,0.0,0.0,0.0,1,0,8,9,88.9,2,7,0,0,0,Atalanta,2022-10-15 Atalanta-Sassuolo,ITA-SERIA_A,22-23,4b70032c
+a26fb8aa,Teun Koopmeiners,7,NED,CM,24-229,90,0,0,0,0,2,0,0,0,73,0,3,2,0.1,0.1,0.1,3,0,46,57,80.7,2,56,2,3,0,Atalanta,2022-10-15 Atalanta-Sassuolo,ITA-SERIA_A,22-23,4b70032c
+2a1beb34,Marten de Roon,15,NED,CM,31-200,90,0,0,0,0,1,0,0,0,81,3,0,1,0.0,0.0,0.0,0,0,59,74,79.7,4,55,0,0,0,Atalanta,2022-10-15 Atalanta-Sassuolo,ITA-SERIA_A,22-23,4b70032c
+c459a650,Joakim Mæhle,3,DEN,WB,25-148,80,0,0,0,0,1,0,0,0,68,2,1,0,0.0,0.0,0.2,5,1,48,56,85.7,6,46,3,2,0,Atalanta,2022-10-15 Atalanta-Sassuolo,ITA-SERIA_A,22-23,4b70032c
+ae9898c5,Matteo Ruggeri,22,ITA,WB,20-096,10,0,0,0,0,1,0,0,0,8,0,0,0,0.1,0.1,0.0,0,0,5,6,83.3,1,6,1,0,0,Atalanta,2022-10-15 Atalanta-Sassuolo,ITA-SERIA_A,22-23,4b70032c
+28f66c2e,Brandon Soppy,93,FRA,WB,20-236,80,0,2,0,0,0,0,0,0,44,0,1,1,0.0,0.0,1.0,5,2,31,38,81.6,4,31,5,1,0,Atalanta,2022-10-15 Atalanta-Sassuolo,ITA-SERIA_A,22-23,4b70032c
+82598b71,Nadir Zortea,21,ITA,WB,23-118,10,0,0,0,0,0,0,0,0,9,1,0,0,0.0,0.0,0.2,1,0,4,6,66.7,1,6,0,1,0,Atalanta,2022-10-15 Atalanta-Sassuolo,ITA-SERIA_A,22-23,4b70032c
+1e9aa637,Giorgio Scalvini,42,ITA,CB,18-308,90,0,0,0,0,1,0,1,0,77,4,2,2,0.1,0.1,0.0,0,0,52,64,81.3,7,53,0,3,1,Atalanta,2022-10-15 Atalanta-Sassuolo,ITA-SERIA_A,22-23,4b70032c
+e3cceee6,Merih Demiral,28,TUR,CB,24-224,90,0,0,0,0,1,0,0,0,50,3,1,2,0.0,0.0,0.0,0,0,32,40,80.0,1,22,0,0,0,Atalanta,2022-10-15 Atalanta-Sassuolo,ITA-SERIA_A,22-23,4b70032c
+8ec109e6,Caleb Okoli,5,ITA,CB,21-094,90,0,0,0,0,1,0,0,0,55,0,4,1,0.0,0.0,0.0,0,0,38,47,80.9,2,38,1,0,0,Atalanta,2022-10-15 Atalanta-Sassuolo,ITA-SERIA_A,22-23,4b70032c
+ac4003af,Marco Sportiello,57,ITA,GK,30-158,90,0,0,0,0,0,0,0,0,44,0,0,0,0.0,0.0,0.0,0,0,37,44,84.1,0,35,0,0,0,Atalanta,2022-10-15 Atalanta-Sassuolo,ITA-SERIA_A,22-23,4b70032c
+08aa9cd1,Andrea Pinamonti,9,ITA,FW,23-149,90,0,0,0,0,1,0,1,0,36,0,0,0,0.0,0.0,0.0,1,0,15,26,57.7,1,18,0,3,1,Sassuolo,2022-10-15 Atalanta-Sassuolo,ITA-SERIA_A,22-23,4b70032c
+0a483542,Giorgos Kyriakopoulos,77,GRE,LW,26-252,64,1,0,0,0,2,1,1,0,37,2,3,1,0.2,0.2,0.0,1,0,19,26,73.1,2,22,1,0,0,Sassuolo,2022-10-15 Atalanta-Sassuolo,ITA-SERIA_A,22-23,4b70032c
+a2d9f138,Matheus Henrique,7,BRA,LW,24-300,26,0,0,0,0,0,0,0,0,23,1,0,0,0.0,0.0,0.0,0,0,19,22,86.4,2,18,1,1,1,Sassuolo,2022-10-15 Atalanta-Sassuolo,ITA-SERIA_A,22-23,4b70032c
+f778fe3f,Luca D'Andrea,35,ITA,RW,18-039,55,0,1,0,0,1,0,0,0,28,2,1,0,0.1,0.1,0.4,3,1,14,21,66.7,2,15,3,0,0,Sassuolo,2022-10-15 Atalanta-Sassuolo,ITA-SERIA_A,22-23,4b70032c
+53a0e358,Domenico Berardi,10,ITA,RW,28-075,23,0,0,0,0,1,0,0,0,21,1,0,0,0.0,0.0,0.0,0,0,13,18,72.2,2,12,0,1,1,Sassuolo,2022-10-15 Atalanta-Sassuolo,ITA-SERIA_A,22-23,4b70032c
+ab472696,Agustín Álvarez Martínez,11,URU,RW,21-149,12,0,0,0,0,1,1,0,0,10,0,0,0,0.1,0.1,0.0,0,0,4,5,80.0,0,4,0,0,0,Sassuolo,2022-10-15 Atalanta-Sassuolo,ITA-SERIA_A,22-23,4b70032c
+76ff8d0d,Kristian Thorstvedt,42,NOR,LM,23-216,64,0,0,0,0,1,0,1,0,31,1,0,0,0.2,0.2,0.0,1,0,21,24,87.5,3,17,0,1,0,Sassuolo,2022-10-15 Atalanta-Sassuolo,ITA-SERIA_A,22-23,4b70032c
+570bb4b9,Hamed Junior Traorè,23,CIV,LM,22-241,26,0,0,0,0,1,0,0,0,15,0,0,0,0.0,0.0,0.1,1,0,7,11,63.6,1,14,1,1,0,Sassuolo,2022-10-15 Atalanta-Sassuolo,ITA-SERIA_A,22-23,4b70032c
+20094685,Maxime Lopez,27,FRA,CM,24-315,90,0,0,0,0,0,0,0,0,95,4,1,1,0.0,0.0,0.0,4,0,72,84,85.7,11,56,4,3,0,Sassuolo,2022-10-15 Atalanta-Sassuolo,ITA-SERIA_A,22-23,4b70032c
+2a7d27c1,Davide Frattesi,16,ITA,RM,22-358,90,0,0,0,0,2,1,0,0,53,3,0,2,0.1,0.1,0.2,6,1,27,38,71.1,7,30,5,2,1,Sassuolo,2022-10-15 Atalanta-Sassuolo,ITA-SERIA_A,22-23,4b70032c
+10e7f486,Rogério,6,BRA,LB,24-275,90,0,0,0,0,1,0,0,0,92,0,1,0,0.0,0.0,0.0,2,0,76,88,86.4,3,63,0,0,0,Sassuolo,2022-10-15 Atalanta-Sassuolo,ITA-SERIA_A,22-23,4b70032c
+8650af85,Gian Marco Ferrari,13,ITA,CB,30-242,90,0,0,0,0,0,0,1,0,58,0,1,1,0.0,0.0,0.0,0,0,45,51,88.2,3,30,0,0,0,Sassuolo,2022-10-15 Atalanta-Sassuolo,ITA-SERIA_A,22-23,4b70032c
+0fee6bda,Martin Erlic,28,CRO,CB,24-264,90,0,0,0,0,0,0,0,0,33,1,0,1,0.0,0.0,0.0,0,0,24,27,88.9,0,17,0,0,0,Sassuolo,2022-10-15 Atalanta-Sassuolo,ITA-SERIA_A,22-23,4b70032c
+a96e5dc0,Jeremy Toljan,22,GER,RB,28-068,90,0,0,0,0,0,0,0,0,69,1,3,1,0.0,0.0,0.0,3,0,50,60,83.3,5,35,0,0,0,Sassuolo,2022-10-15 Atalanta-Sassuolo,ITA-SERIA_A,22-23,4b70032c
+8cabdc1e,Andrea Consigli,47,ITA,GK,35-261,90,0,0,0,0,0,0,0,0,73,0,0,0,0.0,0.0,0.0,0,0,53,69,76.8,0,51,0,0,0,Sassuolo,2022-10-15 Atalanta-Sassuolo,ITA-SERIA_A,22-23,4b70032c

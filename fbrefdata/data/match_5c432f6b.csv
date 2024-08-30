@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+0b90bb97,Santi Mina,22,ESP,FW,23-156,82,1,0,0,0,2,2,0,0,27,1,0,2,0.2,0.2,0.0,0,0,11,14,78.6,1,14,0,0,0,Valencia,2019-05-12 Valencia-Alavés,ESP-LALIGA,18-19,5c432f6b
+9e1035f8,Ferrán Torres,20,ESP,LM,19-072,8,0,0,0,0,1,0,0,0,3,1,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,1,0,1,1,Valencia,2019-05-12 Valencia-Alavés,ESP-LALIGA,18-19,5c432f6b
+1fb1c435,Rodrigo,19,ESP,FW,28-067,64,0,0,0,0,1,0,0,0,24,2,0,1,0.5,0.5,0.1,1,0,6,14,42.9,1,12,2,3,1,Valencia,2019-05-12 Valencia-Alavés,ESP-LALIGA,18-19,5c432f6b
+42276181,Kévin Gameiro,9,FRA,FW,32-003,26,1,0,0,0,1,1,0,0,10,0,0,0,0.4,0.4,0.1,2,0,4,6,66.7,2,6,1,1,1,Valencia,2019-05-12 Valencia-Alavés,ESP-LALIGA,18-19,5c432f6b
+e6bc67d7,Gonçalo Guedes,7,POR,"LM,FW",22-164,90,0,0,0,0,2,0,0,0,43,1,1,1,0.1,0.1,0.0,2,0,20,34,58.8,3,27,2,0,0,Valencia,2019-05-12 Valencia-Alavés,ESP-LALIGA,18-19,5c432f6b
+7460ca0d,Daniel Parejo,10,ESP,CM,30-026,90,0,1,0,0,0,0,0,0,68,2,0,2,0.0,0.0,0.2,3,2,42,58,72.4,13,31,0,3,3,Valencia,2019-05-12 Valencia-Alavés,ESP-LALIGA,18-19,5c432f6b
+d83bbc54,Daniel Wass,18,DEN,CM,29-346,81,0,0,0,0,1,0,0,0,46,0,1,0,0.0,0.0,0.5,1,0,34,42,81.0,6,18,2,0,0,Valencia,2019-05-12 Valencia-Alavés,ESP-LALIGA,18-19,5c432f6b
+d2110326,Mouctar Diakhaby,12,GUI,CM,22-144,9,0,0,0,0,0,0,0,0,10,1,1,0,0.0,0.0,0.0,0,0,5,7,71.4,1,2,0,0,0,Valencia,2019-05-12 Valencia-Alavés,ESP-LALIGA,18-19,5c432f6b
+fed17f5a,Carlos Soler,8,ESP,RM,22-130,90,1,0,0,0,2,1,0,0,37,4,0,1,0.6,0.6,0.0,1,0,14,27,51.9,1,11,1,0,0,Valencia,2019-05-12 Valencia-Alavés,ESP-LALIGA,18-19,5c432f6b
+b05e2dbd,José Luis Gayà,14,ESP,LB,23-352,90,0,1,0,0,0,0,0,0,66,7,0,2,0.0,0.0,0.4,2,1,37,46,80.4,7,31,2,1,0,Valencia,2019-05-12 Valencia-Alavés,ESP-LALIGA,18-19,5c432f6b
+b7ca5c51,Gabriel Paulista,5,BRA,CB,28-167,90,0,0,0,0,0,0,1,0,51,1,3,0,0.0,0.0,0.0,1,0,31,37,83.8,1,21,0,1,0,Valencia,2019-05-12 Valencia-Alavés,ESP-LALIGA,18-19,5c432f6b
+ac3fb1be,Ezequiel Garay,24,ARG,CB,32-214,90,0,0,0,0,0,0,1,0,39,2,0,1,0.0,0.0,0.0,0,0,22,28,78.6,1,15,2,0,0,Valencia,2019-05-12 Valencia-Alavés,ESP-LALIGA,18-19,5c432f6b
+32c0491f,Cristiano Piccini,21,ITA,RB,26-228,90,0,0,0,0,0,0,0,0,57,1,2,4,0.0,0.0,0.0,0,0,28,42,66.7,1,17,2,2,1,Valencia,2019-05-12 Valencia-Alavés,ESP-LALIGA,18-19,5c432f6b
+c9cb972b,Jaume Doménech,1,ESP,GK,28-188,90,0,0,0,0,0,0,0,0,29,0,0,0,0.0,0.0,0.0,0,0,17,27,63.0,0,12,0,0,0,Valencia,2019-05-12 Valencia-Alavés,ESP-LALIGA,18-19,5c432f6b
+6922f806,Jonathan Calleri,12,ARG,FW,25-231,90,0,0,0,0,2,0,0,0,35,0,0,0,0.1,0.1,0.1,1,0,19,28,67.9,1,20,0,1,0,Alavés,2019-05-12 Valencia-Alavés,ESP-LALIGA,18-19,5c432f6b
+d1491e00,Diego Rolán,9,URU,"FW,RM",26-049,74,0,0,0,0,2,1,0,0,38,1,0,1,0.5,0.5,0.0,3,1,20,26,76.9,3,26,4,3,1,Alavés,2019-05-12 Valencia-Alavés,ESP-LALIGA,18-19,5c432f6b
+e3993b65,Patrick Twumasi,24,GHA,"RM,LM",25-003,16,0,0,0,0,0,0,1,0,12,0,0,0,0.0,0.0,0.0,0,0,8,11,72.7,1,7,0,0,0,Alavés,2019-05-12 Valencia-Alavés,ESP-LALIGA,18-19,5c432f6b
+244f57b9,Jony,23,ESP,LM,27-307,90,0,1,0,0,3,1,0,0,57,0,0,0,0.1,0.1,0.5,6,1,27,48,56.3,4,33,3,4,1,Alavés,2019-05-12 Valencia-Alavés,ESP-LALIGA,18-19,5c432f6b
+e54bd0a2,Tomás Pina Isla,8,ESP,CM,31-210,74,0,0,0,0,0,0,1,0,63,1,2,0,0.0,0.0,0.1,2,0,48,56,85.7,4,34,2,0,0,Alavés,2019-05-12 Valencia-Alavés,ESP-LALIGA,18-19,5c432f6b
+05a4465d,Manu García,19,ESP,CM,33-016,16,0,0,0,0,1,0,0,0,24,1,2,0,0.1,0.1,0.0,0,0,13,18,72.2,0,15,1,1,1,Alavés,2019-05-12 Valencia-Alavés,ESP-LALIGA,18-19,5c432f6b
+4accb7e0,Darko Brašanac,20,SRB,CM,27-089,90,0,0,0,0,0,0,1,0,61,1,1,1,0.0,0.0,0.0,2,0,43,53,81.1,5,40,2,1,1,Alavés,2019-05-12 Valencia-Alavés,ESP-LALIGA,18-19,5c432f6b
+355c883a,Martin Agirregabiria,21,ESP,RM,23-002,64,0,0,0,0,0,0,0,0,26,1,1,2,0.0,0.0,0.0,0,0,16,20,80.0,1,17,2,0,0,Alavés,2019-05-12 Valencia-Alavés,ESP-LALIGA,18-19,5c432f6b
+8c44e37b,Borja Bastón,18,ESP,FW,26-260,26,0,0,0,0,1,0,1,0,12,0,0,0,0.0,0.0,0.0,0,0,4,7,57.1,1,6,1,1,0,Alavés,2019-05-12 Valencia-Alavés,ESP-LALIGA,18-19,5c432f6b
+1fe0492d,Rubén Duarte,3,ESP,LB,23-206,90,0,0,0,0,0,0,0,0,72,1,1,0,0.0,0.0,0.1,2,0,49,63,77.8,4,33,3,0,0,Alavés,2019-05-12 Valencia-Alavés,ESP-LALIGA,18-19,5c432f6b
+8db394aa,Ximo Navarro,15,ESP,CB,29-109,90,1,0,0,0,1,1,0,0,58,1,2,1,0.1,0.1,0.0,0,0,40,47,85.1,3,34,0,0,0,Alavés,2019-05-12 Valencia-Alavés,ESP-LALIGA,18-19,5c432f6b
+b7c99b9b,Víctor Laguardia,5,ESP,CB,29-188,90,0,0,0,0,0,0,1,0,66,2,0,1,0.0,0.0,0.0,0,0,43,55,78.2,3,40,1,0,0,Alavés,2019-05-12 Valencia-Alavés,ESP-LALIGA,18-19,5c432f6b
+f69d934e,Carlos Vigaray,2,ESP,RB,24-247,90,0,0,0,0,0,0,0,0,56,1,1,0,0.0,0.0,0.0,0,0,34,49,69.4,5,27,1,2,0,Alavés,2019-05-12 Valencia-Alavés,ESP-LALIGA,18-19,5c432f6b
+97852360,Fernando Pacheco,1,ESP,GK,26-359,90,0,0,0,0,0,0,0,0,28,0,0,0,0.0,0.0,0.0,0,0,19,28,67.9,0,18,0,0,0,Alavés,2019-05-12 Valencia-Alavés,ESP-LALIGA,18-19,5c432f6b

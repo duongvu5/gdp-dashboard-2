@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+df69b544,Antoine Griezmann,7,FRA,FW,28-023,89,1,1,0,0,6,2,1,0,70,1,1,2,0.6,0.6,0.7,2,1,41,50,82.0,6,41,8,6,1,Atlético Madrid,2019-04-13 Atlético Madrid-Celta Vigo,ESP-LALIGA,18-19,c84e6c42
+23fffc06,Victor Mollejo,40,ESP,FW,18-082,1,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,2,0,0,0,Atlético Madrid,2019-04-13 Atlético Madrid-Celta Vigo,ESP-LALIGA,18-19,c84e6c42
+01eb744d,Ángel Correa,10,ARG,"FW,RM",24-035,90,0,0,0,0,2,0,0,0,67,3,1,1,0.0,0.0,0.5,4,1,44,52,84.6,3,41,5,2,1,Atlético Madrid,2019-04-13 Atlético Madrid-Celta Vigo,ESP-LALIGA,18-19,c84e6c42
+db750822,Vitolo,23,ESP,LM,29-162,61,0,0,0,0,1,0,0,0,42,1,0,0,0.1,0.1,0.0,2,1,30,35,85.7,4,38,5,2,1,Atlético Madrid,2019-04-13 Atlético Madrid-Celta Vigo,ESP-LALIGA,18-19,c84e6c42
+129af0db,Álvaro Morata,22,ESP,FW,26-172,29,1,0,0,0,1,1,0,0,12,0,0,0,0.7,0.7,0.0,1,1,4,7,57.1,0,6,2,1,1,Atlético Madrid,2019-04-13 Atlético Madrid-Celta Vigo,ESP-LALIGA,18-19,c84e6c42
+c14bc029,Saúl Ñíguez,8,ESP,CM,24-143,90,0,0,0,0,1,1,0,0,85,5,3,2,0.0,0.0,0.0,1,0,62,71,87.3,4,41,2,1,0,Atlético Madrid,2019-04-13 Atlético Madrid-Celta Vigo,ESP-LALIGA,18-19,c84e6c42
+6434f10d,Rodri,14,ESP,CM,22-295,90,0,0,0,0,0,0,0,0,97,1,4,3,0.0,0.0,0.0,0,0,88,90,97.8,7,66,1,2,2,Atlético Madrid,2019-04-13 Atlético Madrid-Celta Vigo,ESP-LALIGA,18-19,c84e6c42
+55126f3b,Koke,6,ESP,"RM,LM",27-095,90,0,0,0,0,0,0,0,0,109,3,1,1,0.0,0.0,0.1,2,0,89,101,88.1,7,68,0,0,0,Atlético Madrid,2019-04-13 Atlético Madrid-Celta Vigo,ESP-LALIGA,18-19,c84e6c42
+e4ed2628,Filipe Luís,3,BRA,LB,33-247,71,0,0,0,0,0,0,0,0,95,2,2,0,0.0,0.0,0.1,1,0,75,85,88.2,4,60,2,4,3,Atlético Madrid,2019-04-13 Atlético Madrid-Celta Vigo,ESP-LALIGA,18-19,c84e6c42
+fdd60087,Santiago Arias,4,COL,RB,27-090,19,0,0,0,0,0,0,0,0,13,0,0,0,0.0,0.0,0.0,0,0,12,13,92.3,0,6,1,0,0,Atlético Madrid,2019-04-13 Atlético Madrid-Celta Vigo,ESP-LALIGA,18-19,c84e6c42
+3e96f3e7,Francisco Montero,35,ESP,CB,20-089,90,0,0,0,0,0,0,0,0,57,0,1,3,0.0,0.0,0.0,0,0,39,44,88.6,0,35,0,0,0,Atlético Madrid,2019-04-13 Atlético Madrid-Celta Vigo,ESP-LALIGA,18-19,c84e6c42
+9e098912,Toni Moya,43,ESP,CB,21-024,90,0,0,0,0,0,0,0,0,53,2,0,0,0.0,0.0,0.0,2,0,45,49,91.8,3,34,0,0,0,Atlético Madrid,2019-04-13 Atlético Madrid-Celta Vigo,ESP-LALIGA,18-19,c84e6c42
+cfd8d664,Juanfran,20,ESP,"RB,LB",34-094,90,0,0,0,0,0,0,1,0,56,1,0,1,0.0,0.0,0.1,1,0,41,48,85.4,5,30,5,2,1,Atlético Madrid,2019-04-13 Atlético Madrid-Celta Vigo,ESP-LALIGA,18-19,c84e6c42
+ee8508c0,Jan Oblak,13,SVN,GK,26-096,90,0,0,0,0,0,0,0,0,18,0,0,0,0.0,0.0,0.0,1,0,10,15,66.7,0,7,0,0,0,Atlético Madrid,2019-04-13 Atlético Madrid-Celta Vigo,ESP-LALIGA,18-19,c84e6c42
+4c2e9442,Maxi Gómez,9,URU,FW,22-242,90,0,0,0,0,3,1,0,0,23,0,1,0,0.2,0.2,0.0,1,0,9,15,60.0,1,11,0,1,0,Celta Vigo,2019-04-13 Atlético Madrid-Celta Vigo,ESP-LALIGA,18-19,c84e6c42
+b0c71810,Sofiane Boufal,19,MAR,LW,25-208,85,0,0,0,0,4,1,0,0,49,2,0,0,0.2,0.2,0.0,4,0,28,37,75.7,7,33,7,13,12,Celta Vigo,2019-04-13 Atlético Madrid-Celta Vigo,ESP-LALIGA,18-19,c84e6c42
+0f134faf,Mathias Jensen,18,DEN,RW,23-102,5,0,0,0,0,0,0,0,0,3,1,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,2,0,0,0,Celta Vigo,2019-04-13 Atlético Madrid-Celta Vigo,ESP-LALIGA,18-19,c84e6c42
+0c3f7197,Emre Mor,7,TUR,RW,21-263,64,0,0,0,0,0,0,0,0,28,4,0,0,0.0,0.0,0.0,1,0,10,14,71.4,2,14,0,3,1,Celta Vigo,2019-04-13 Atlético Madrid-Celta Vigo,ESP-LALIGA,18-19,c84e6c42
+fd9c4805,Pione Sisto,11,DEN,"RW,LW",24-068,26,0,0,0,0,1,0,0,0,19,0,0,0,0.0,0.0,0.0,2,0,16,18,88.9,3,17,3,4,4,Celta Vigo,2019-04-13 Atlético Madrid-Celta Vigo,ESP-LALIGA,18-19,c84e6c42
+1001ae82,Ryad Boudebouz,24,ALG,AM,29-053,90,0,0,0,0,1,1,1,0,57,2,1,0,0.1,0.1,0.2,6,0,37,46,80.4,4,38,0,0,0,Celta Vigo,2019-04-13 Atlético Madrid-Celta Vigo,ESP-LALIGA,18-19,c84e6c42
+e49ce451,Okay Yokuşlu,5,TUR,DM,25-035,83,0,0,0,0,0,0,0,0,59,4,3,0,0.0,0.0,0.0,1,0,45,53,84.9,7,31,2,2,2,Celta Vigo,2019-04-13 Atlético Madrid-Celta Vigo,ESP-LALIGA,18-19,c84e6c42
+ed5c5fa3,Fran Beltrán,8,ESP,DM,20-069,7,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,7,7,100.0,1,7,0,0,0,Celta Vigo,2019-04-13 Atlético Madrid-Celta Vigo,ESP-LALIGA,18-19,c84e6c42
+e1cbb531,Stanislav Lobotka,14,SVK,DM,24-139,90,0,0,0,0,0,0,0,0,68,1,1,0,0.0,0.0,0.0,1,0,58,63,92.1,7,40,0,2,1,Celta Vigo,2019-04-13 Atlético Madrid-Celta Vigo,ESP-LALIGA,18-19,c84e6c42
+4cee5954,Lucas Olaza,15,URU,LB,24-266,90,0,0,0,0,0,0,1,0,61,4,0,2,0.0,0.0,0.0,0,0,48,53,90.6,0,25,0,0,0,Celta Vigo,2019-04-13 Atlético Madrid-Celta Vigo,ESP-LALIGA,18-19,c84e6c42
+27a013f7,Néstor Araujo,4,MEX,CB,27-227,90,0,0,0,0,0,0,0,0,67,4,2,4,0.0,0.0,0.0,0,0,51,56,91.1,1,27,0,0,0,Celta Vigo,2019-04-13 Atlético Madrid-Celta Vigo,ESP-LALIGA,18-19,c84e6c42
+92b4a127,Gustavo Cabral,22,ARG,CB,33-181,90,0,0,0,0,0,0,0,0,64,2,0,3,0.0,0.0,0.0,0,0,48,54,88.9,4,27,0,0,0,Celta Vigo,2019-04-13 Atlético Madrid-Celta Vigo,ESP-LALIGA,18-19,c84e6c42
+cb574619,Hugo Mallo,2,ESP,RB,27-295,90,0,0,0,0,1,0,0,0,72,3,1,1,0.0,0.0,0.1,2,0,46,64,71.9,8,30,2,3,1,Celta Vigo,2019-04-13 Atlético Madrid-Celta Vigo,ESP-LALIGA,18-19,c84e6c42
+967f34d3,Rubén Blanco,13,ESP,GK,23-262,90,0,0,0,0,0,0,0,0,37,0,0,0,0.0,0.0,0.0,0,0,24,35,68.6,0,20,0,0,0,Celta Vigo,2019-04-13 Atlético Madrid-Celta Vigo,ESP-LALIGA,18-19,c84e6c42

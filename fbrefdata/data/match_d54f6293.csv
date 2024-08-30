@@ -1,0 +1,29 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+93feac6e,Patrick Bamford,9,ENG,FW,27-113,90,1,0,1,1,1,0,0,0,22,1,0,0,0.8,0.0,0.0,1,1,11,13,84.6,0,14,1,3,1,Leeds United,2020-12-27 Leeds United-Burnley,ENG-EPL,20-21,d54f6293
+aa849a12,Jack Harrison,22,ENG,"LW,LM",24-037,90,0,0,0,0,1,0,0,0,31,2,0,2,0.4,0.4,0.3,1,0,11,22,50.0,1,19,1,0,0,Leeds United,2020-12-27 Leeds United-Burnley,ENG-EPL,20-21,d54f6293
+3423f250,Raphinha,18,BRA,"RW,RM",24-013,69,0,0,0,0,2,1,0,0,34,1,0,0,0.1,0.1,0.5,4,0,16,27,59.3,1,16,2,2,2,Leeds United,2020-12-27 Leeds United-Burnley,ENG-EPL,20-21,d54f6293
+55b4f1d6,Ian Poveda,7,ENG,RM,20-322,21,0,0,0,0,0,0,0,0,15,1,0,1,0.0,0.0,0.0,0,0,6,8,75.0,2,9,1,2,0,Leeds United,2020-12-27 Leeds United-Burnley,ENG-EPL,20-21,d54f6293
+1fb1c435,Rodrigo,20,ESP,AM,29-296,58,0,0,0,0,2,1,0,0,33,1,0,0,0.4,0.4,0.0,3,0,19,25,76.0,4,20,2,2,0,Leeds United,2020-12-27 Leeds United-Burnley,ENG-EPL,20-21,d54f6293
+c0398aca,Pablo Hernández,19,ESP,"CM,RW",35-260,32,0,0,0,0,1,1,0,0,30,0,0,1,0.1,0.1,0.0,0,0,17,24,70.8,4,17,1,0,0,Leeds United,2020-12-27 Leeds United-Burnley,ENG-EPL,20-21,d54f6293
+1a7fcf39,Ezgjan Alioski,10,MKD,"CM,LB",28-319,90,0,0,0,0,0,0,0,0,52,2,0,1,0.0,0.0,0.1,3,0,34,41,82.9,3,26,3,1,1,Leeds United,2020-12-27 Leeds United-Burnley,ENG-EPL,20-21,d54f6293
+282679b4,Mateusz Klich,43,POL,CM,30-197,65,0,0,0,0,2,0,0,0,51,0,0,0,0.0,0.0,0.1,3,0,36,45,80.0,7,28,0,1,1,Leeds United,2020-12-27 Leeds United-Burnley,ENG-EPL,20-21,d54f6293
+8d03ca5a,Jamie Shackleton,46,ENG,RB,21-080,25,0,0,0,0,0,0,0,0,11,0,1,0,0.0,0.0,0.0,0,0,9,11,81.8,0,9,1,1,1,Leeds United,2020-12-27 Leeds United-Burnley,ENG-EPL,20-21,d54f6293
+67ca8566,Stuart Dallas,15,NIR,CM,29-252,90,0,0,0,0,1,0,0,0,65,3,1,3,0.0,0.0,0.0,1,0,42,54,77.8,2,29,0,2,2,Leeds United,2020-12-27 Leeds United-Burnley,ENG-EPL,20-21,d54f6293
+f4d296e4,Pascal Struijk,21,NED,CB,21-138,90,0,0,0,0,0,0,0,0,58,2,3,1,0.0,0.0,0.0,1,0,36,46,78.3,2,32,0,0,0,Leeds United,2020-12-27 Leeds United-Burnley,ENG-EPL,20-21,d54f6293
+4f565d77,Kalvin Phillips,23,ENG,"CB,DM",25-025,90,0,0,0,0,0,0,0,0,73,3,0,0,0.0,0.0,0.0,0,0,45,59,76.3,3,47,0,0,0,Leeds United,2020-12-27 Leeds United-Burnley,ENG-EPL,20-21,d54f6293
+420d7c7d,Luke Ayling,2,ENG,CB,29-124,90,0,0,0,0,0,0,0,0,69,1,3,2,0.0,0.0,0.0,2,1,40,56,71.4,6,40,2,0,0,Leeds United,2020-12-27 Leeds United-Burnley,ENG-EPL,20-21,d54f6293
+6b625ac2,Illan Meslier,1,FRA,GK,20-300,90,0,0,0,0,0,0,0,0,40,0,0,0,0.0,0.0,0.0,0,0,20,34,58.8,0,18,0,0,0,Leeds United,2020-12-27 Leeds United-Burnley,ENG-EPL,20-21,d54f6293
+2691c772,Ashley Barnes,10,ENG,FW,31-058,90,0,0,0,0,3,2,1,0,37,0,0,1,0.1,0.1,0.0,3,0,18,28,64.3,4,21,1,0,0,Burnley,2020-12-27 Leeds United-Burnley,ENG-EPL,20-21,d54f6293
+4e9a0555,Chris Wood,9,NZL,FW,29-020,90,0,0,0,0,2,1,0,0,44,0,0,0,1.0,1.0,0.1,3,0,28,37,75.7,2,20,0,0,0,Burnley,2020-12-27 Leeds United-Burnley,ENG-EPL,20-21,d54f6293
+1ef37668,Erik Pieters,23,NED,LM,32-142,73,0,0,0,0,1,0,0,0,33,0,0,2,0.1,0.1,0.0,2,0,18,29,62.1,4,14,0,0,0,Burnley,2020-12-27 Leeds United-Burnley,ENG-EPL,20-21,d54f6293
+4ab53cdb,Jay Rodriguez,19,ENG,LM,31-151,17,0,0,0,0,1,0,0,0,12,0,0,1,0.1,0.1,0.0,0,0,4,8,50.0,0,5,1,2,1,Burnley,2020-12-27 Leeds United-Burnley,ENG-EPL,20-21,d54f6293
+495945ef,Ashley Westwood,18,ENG,CM,30-270,90,0,0,0,0,0,0,1,0,86,0,1,0,0.0,0.0,1.2,8,0,52,82,63.4,10,30,0,0,0,Burnley,2020-12-27 Leeds United-Burnley,ENG-EPL,20-21,d54f6293
+47369df8,Josh Brownhill,8,ENG,CM,25-008,90,0,0,0,0,2,1,0,0,67,1,1,4,0.1,0.1,0.0,2,0,40,51,78.4,2,30,1,4,3,Burnley,2020-12-27 Leeds United-Burnley,ENG-EPL,20-21,d54f6293
+bf3aeb61,Josh Benson,41,ENG,RM,21-022,73,0,0,0,0,0,0,0,0,30,1,0,2,0.0,0.0,0.0,1,0,17,24,70.8,2,15,1,0,0,Burnley,2020-12-27 Leeds United-Burnley,ENG-EPL,20-21,d54f6293
+653ee42d,Dale Stephens,16,ENG,RM,31-198,17,0,0,0,0,1,0,0,0,11,2,0,0,0.1,0.1,0.0,1,0,7,9,77.8,3,5,1,0,0,Burnley,2020-12-27 Leeds United-Burnley,ENG-EPL,20-21,d54f6293
+cc2d7ad5,Charlie Taylor,3,ENG,LB,27-100,90,0,0,0,0,0,0,0,0,46,2,1,0,0.0,0.0,0.1,1,0,28,40,70.0,2,26,5,5,4,Burnley,2020-12-27 Leeds United-Burnley,ENG-EPL,20-21,d54f6293
+8df7a2fb,Ben Mee,6,ENG,CB,31-097,90,0,0,0,0,1,0,0,0,45,1,2,2,0.1,0.1,0.0,1,0,24,35,68.6,6,19,0,0,0,Burnley,2020-12-27 Leeds United-Burnley,ENG-EPL,20-21,d54f6293
+15ea812b,James Tarkowski,5,ENG,CB,28-038,90,0,0,0,0,1,1,1,0,40,2,0,0,0.0,0.0,0.1,2,0,19,31,61.3,5,14,1,1,1,Burnley,2020-12-27 Leeds United-Burnley,ENG-EPL,20-21,d54f6293
+9a9c05db,Matthew Lowton,2,ENG,RB,31-201,90,0,0,0,0,2,1,0,0,50,2,1,0,0.1,0.1,0.0,1,0,30,41,73.2,3,16,0,1,0,Burnley,2020-12-27 Leeds United-Burnley,ENG-EPL,20-21,d54f6293
+4b40d9ca,Nick Pope,1,ENG,GK,28-252,90,0,0,0,0,0,0,0,0,32,0,0,0,0.0,0.0,0.0,1,0,16,28,57.1,0,11,0,0,0,Burnley,2020-12-27 Leeds United-Burnley,ENG-EPL,20-21,d54f6293

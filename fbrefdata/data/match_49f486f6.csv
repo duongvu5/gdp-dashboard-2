@@ -1,0 +1,29 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+491a433d,Rasmus Højlund,11,DEN,FW,20-305,83,0,0,0,0,1,1,0,0,15,0,0,0,0.0,0.0,0.2,6,0,6,7,85.7,1,5,0,1,1,Manchester United,2023-12-06 Manchester Utd-Chelsea,ENG-EPL,23-24,49f486f6
+a1d5bd30,Marcus Rashford,10,ENG,FW,26-036,7,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,1,3,33.3,0,2,0,0,0,Manchester United,2023-12-06 Manchester Utd-Chelsea,ENG-EPL,23-24,49f486f6
+7aa8adfe,Alejandro Garnacho,17,ARG,LW,19-158,89,0,1,0,0,8,1,1,0,67,0,0,2,0.8,0.7,0.7,7,1,33,46,71.7,5,50,17,5,1,Manchester United,2023-12-06 Manchester Utd-Chelsea,ENG-EPL,23-24,49f486f6
+f8fcd2a5,Jonny Evans,35,NIR,LW,35-337,1,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,0,0,0,0,Manchester United,2023-12-06 Manchester Utd-Chelsea,ENG-EPL,23-24,49f486f6
+99127249,Antony,21,BRA,RW,23-285,90,0,0,0,0,4,1,0,0,46,2,0,1,0.4,0.4,0.3,4,0,24,33,72.7,6,38,2,5,2,Manchester United,2023-12-06 Manchester Utd-Chelsea,ENG-EPL,23-24,49f486f6
+507c7bdf,Bruno Fernandes,8,POR,AM,29-089,90,0,0,0,1,4,0,0,0,70,1,1,3,0.9,0.1,0.7,12,0,40,55,72.7,7,35,4,1,1,Manchester United,2023-12-06 Manchester Utd-Chelsea,ENG-EPL,23-24,49f486f6
+5a2cb25d,Sofyan Amrabat,4,MAR,DM,27-107,90,0,0,0,0,0,0,0,0,60,4,0,3,0.0,0.0,0.1,3,0,45,49,91.8,5,36,1,2,2,Manchester United,2023-12-06 Manchester Utd-Chelsea,ENG-EPL,23-24,49f486f6
+d93c2511,Scott McTominay,39,SCO,DM,26-363,90,2,0,0,0,7,5,0,0,40,1,1,1,1.8,1.8,0.0,2,0,21,24,87.5,3,21,3,1,0,Manchester United,2023-12-06 Manchester Utd-Chelsea,ENG-EPL,23-24,49f486f6
+9c94165b,Luke Shaw,23,ENG,"CB,LB",28-147,90,0,0,0,0,1,0,1,0,66,1,0,1,0.0,0.0,0.1,4,0,49,58,84.5,6,31,2,0,0,Manchester United,2023-12-06 Manchester Utd-Chelsea,ENG-EPL,23-24,49f486f6
+f5deef4c,Victor Lindelöf,2,SWE,CB,29-142,45,0,0,0,0,1,0,0,0,39,2,0,0,0.0,0.0,0.0,0,0,32,35,91.4,0,28,0,0,0,Manchester United,2023-12-06 Manchester Utd-Chelsea,ENG-EPL,23-24,49f486f6
+3353737a,Sergio Reguilón,15,ESP,LB,26-355,45,0,0,0,0,0,0,1,0,46,3,2,2,0.0,0.0,0.3,3,1,25,31,80.6,3,20,3,1,0,Manchester United,2023-12-06 Manchester Utd-Chelsea,ENG-EPL,23-24,49f486f6
+d8931174,Harry Maguire,5,ENG,CB,30-276,90,0,0,0,0,1,0,0,0,40,1,2,0,0.3,0.3,0.0,1,1,27,33,81.8,3,27,1,0,0,Manchester United,2023-12-06 Manchester Utd-Chelsea,ENG-EPL,23-24,49f486f6
+d9565625,Diogo Dalot,20,POR,RB,24-263,90,0,0,0,0,0,0,1,0,48,1,0,1,0.0,0.0,0.1,5,0,37,43,86.0,1,27,4,3,2,Manchester United,2023-12-06 Manchester Utd-Chelsea,ENG-EPL,23-24,49f486f6
+e9c0c1b2,André Onana,24,CMR,GK,27-248,90,0,0,0,0,0,0,0,0,30,0,0,0,0.0,0.0,0.0,0,0,20,29,69.0,0,23,0,0,0,Manchester United,2023-12-06 Manchester Utd-Chelsea,ENG-EPL,23-24,49f486f6
+9c36ed83,Nicolas Jackson,15,SEN,FW,22-169,90,0,0,0,0,2,1,0,0,28,0,1,0,0.4,0.4,0.2,2,0,15,18,83.3,4,19,2,4,1,Chelsea,2023-12-06 Manchester Utd-Chelsea,ENG-EPL,23-24,49f486f6
+049a888d,Mykhailo Mudryk,10,UKR,LW,22-335,76,0,1,0,0,3,0,0,0,25,0,1,0,0.3,0.3,0.1,2,1,11,15,73.3,1,16,4,1,0,Chelsea,2023-12-06 Manchester Utd-Chelsea,ENG-EPL,23-24,49f486f6
+97220da2,Armando Broja,19,ALB,LW,22-087,14,0,0,0,0,1,0,0,0,6,0,0,0,0.1,0.1,0.0,0,0,3,3,100.0,0,5,0,3,2,Chelsea,2023-12-06 Manchester Utd-Chelsea,ENG-EPL,23-24,49f486f6
+b400bde0,Raheem Sterling,7,ENG,RW,28-363,90,0,0,0,0,0,0,0,0,30,0,0,0,0.0,0.0,0.2,3,0,18,24,75.0,2,20,2,3,0,Chelsea,2023-12-06 Manchester Utd-Chelsea,ENG-EPL,23-24,49f486f6
+dc7f8a28,Cole Palmer,20,ENG,AM,21-214,90,1,0,0,0,1,1,0,0,67,0,1,2,0.1,0.1,0.1,5,0,43,51,84.3,4,45,3,6,2,Chelsea,2023-12-06 Manchester Utd-Chelsea,ENG-EPL,23-24,49f486f6
+5ff4ab71,Enzo Fernández,8,ARG,DM,22-323,90,0,0,0,0,3,1,0,0,68,2,1,0,0.6,0.6,0.0,0,0,47,59,79.7,4,41,1,3,1,Chelsea,2023-12-06 Manchester Utd-Chelsea,ENG-EPL,23-24,49f486f6
+16264a81,Moisés Caicedo,25,ECU,DM,22-034,90,0,0,0,0,0,0,0,0,76,6,1,2,0.0,0.0,0.0,1,0,53,60,88.3,3,47,0,0,0,Chelsea,2023-12-06 Manchester Utd-Chelsea,ENG-EPL,23-24,49f486f6
+700783e7,Levi Colwill,26,ENG,LB,20-283,90,0,0,0,0,2,0,0,0,41,2,3,1,0.0,0.0,0.3,2,0,25,30,83.3,2,22,1,0,0,Chelsea,2023-12-06 Manchester Utd-Chelsea,ENG-EPL,23-24,49f486f6
+86e7deaf,Thiago Silva,6,BRA,CB,39-075,90,0,0,0,0,0,0,0,0,77,0,0,3,0.0,0.0,0.0,2,1,65,71,91.5,1,47,0,0,0,Chelsea,2023-12-06 Manchester Utd-Chelsea,ENG-EPL,23-24,49f486f6
+ad82197c,Axel Disasi,2,FRA,CB,25-270,90,0,0,0,0,0,0,0,0,91,0,0,0,0.0,0.0,0.0,1,0,81,87,93.1,1,74,0,0,0,Chelsea,2023-12-06 Manchester Utd-Chelsea,ENG-EPL,23-24,49f486f6
+1daec722,Marc Cucurella,3,ESP,RB,25-137,45,0,0,0,0,0,0,0,0,39,2,1,5,0.0,0.0,0.0,2,0,27,29,93.1,0,20,1,0,0,Chelsea,2023-12-06 Manchester Utd-Chelsea,ENG-EPL,23-24,49f486f6
+1265a93a,Reece James,24,ENG,RB,23-363,45,0,0,0,0,1,0,0,0,56,0,1,2,0.0,0.0,0.1,3,0,36,49,73.5,2,27,4,3,3,Chelsea,2023-12-06 Manchester Utd-Chelsea,ENG-EPL,23-24,49f486f6
+6a713852,Robert Sánchez,1,ESP,GK,26-018,90,0,0,0,0,0,0,0,0,56,0,0,0,0.0,0.0,0.0,0,0,44,51,86.3,0,30,0,0,0,Chelsea,2023-12-06 Manchester Utd-Chelsea,ENG-EPL,23-24,49f486f6

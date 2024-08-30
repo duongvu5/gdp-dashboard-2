@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+dea698d9,Cristiano Ronaldo,7,POR,"FW,LW",36-236,90,1,0,0,0,3,1,1,0,44,0,0,2,0.3,0.3,0.2,4,1,25,30,83.3,4,22,2,3,0,Manchester United,2021-09-29 Manchester Utd-Villarreal,UCL,21-22,8ad62c4a
+dbf053da,Jadon Sancho,25,ENG,LW,21-188,74,0,0,0,0,1,1,0,0,52,2,1,2,0.1,0.1,0.0,2,0,39,44,88.6,6,24,5,2,1,Manchester United,2021-09-29 Manchester Utd-Villarreal,UCL,21-22,8ad62c4a
+eb7822d7,Nemanja Matić,31,SRB,DM,33-059,16,0,0,0,0,0,0,0,0,24,1,0,0,0.0,0.0,0.0,1,0,16,20,80.0,2,10,3,1,1,Manchester United,2021-09-29 Manchester Utd-Villarreal,UCL,21-22,8ad62c4a
+58eee997,Mason Greenwood,11,ENG,RW,19-363,88,0,0,0,0,1,1,1,0,37,3,1,0,0.0,0.0,0.4,3,1,27,29,93.1,4,18,3,3,1,Manchester United,2021-09-29 Manchester Utd-Villarreal,UCL,21-22,8ad62c4a
+810e3c74,Jesse Lingard,14,ENG,RW,28-288,2,0,1,0,0,1,1,0,0,3,0,0,0,0.1,0.1,0.1,1,1,2,2,100.0,0,2,0,0,0,Manchester United,2021-09-29 Manchester Utd-Villarreal,UCL,21-22,8ad62c4a
+507c7bdf,Bruno Fernandes,18,POR,AM,27-021,90,0,1,0,0,3,0,0,0,68,3,0,0,0.1,0.1,0.2,5,1,41,54,75.9,8,33,1,3,2,Manchester United,2021-09-29 Manchester Utd-Villarreal,UCL,21-22,8ad62c4a
+d93c2511,Scott McTominay,39,SCO,DM,24-295,90,0,0,0,0,1,1,0,0,49,1,2,1,0.0,0.0,0.0,2,0,40,43,93.0,8,26,1,0,0,Manchester United,2021-09-29 Manchester Utd-Villarreal,UCL,21-22,8ad62c4a
+867239d3,Paul Pogba,6,FRA,DM,28-198,74,0,0,0,0,2,1,0,0,54,1,0,0,0.1,0.1,0.1,3,0,39,45,86.7,10,22,1,2,0,Manchester United,2021-09-29 Manchester Utd-Villarreal,UCL,21-22,8ad62c4a
+527f063d,Edinson Cavani,21,URU,FW,34-227,16,0,0,0,0,1,0,0,0,10,0,0,0,0.3,0.3,0.0,0,0,7,7,100.0,1,3,0,1,0,Manchester United,2021-09-29 Manchester Utd-Villarreal,UCL,21-22,8ad62c4a
+e73c9bb2,Alex Telles,27,BRA,LB,28-288,88,1,0,0,0,1,1,1,0,83,0,0,2,0.0,0.0,0.1,2,0,65,76,85.5,8,34,0,0,0,Manchester United,2021-09-29 Manchester Utd-Villarreal,UCL,21-22,8ad62c4a
+b853e0ad,Fred,17,BRA,LB,28-208,2,0,0,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.0,0,0,9,10,90.0,1,4,0,1,0,Manchester United,2021-09-29 Manchester Utd-Villarreal,UCL,21-22,8ad62c4a
+9f8e9423,Raphaël Varane,19,FRA,CB,28-157,90,0,0,0,0,0,0,0,0,99,2,2,1,0.0,0.0,0.0,0,0,82,90,91.1,7,54,3,0,0,Manchester United,2021-09-29 Manchester Utd-Villarreal,UCL,21-22,8ad62c4a
+f5deef4c,Victor Lindelöf,2,SWE,CB,27-074,90,0,0,0,0,0,0,0,0,71,1,1,1,0.0,0.0,0.0,0,0,60,63,95.2,1,41,0,0,0,Manchester United,2021-09-29 Manchester Utd-Villarreal,UCL,21-22,8ad62c4a
+d9565625,Diogo Dalot,20,POR,RB,22-195,90,0,0,0,0,0,0,0,0,74,3,1,3,0.0,0.0,0.0,3,0,57,67,85.1,9,32,3,1,1,Manchester United,2021-09-29 Manchester Utd-Villarreal,UCL,21-22,8ad62c4a
+7ba6d84e,David de Gea,1,ESP,GK,30-326,90,0,0,0,0,0,0,0,0,23,0,0,0,0.0,0.0,0.0,0,0,17,17,100.0,0,8,0,0,0,Manchester United,2021-09-29 Manchester Utd-Villarreal,UCL,21-22,8ad62c4a
+a7a9d95a,Paco Alcácer,9,ESP,FW,28-030,57,1,0,0,0,4,2,0,0,12,1,0,0,1.0,1.0,0.0,0,0,5,6,83.3,1,7,2,1,0,Villarreal,2021-09-29 Manchester Utd-Villarreal,UCL,21-22,8ad62c4a
+244bc2c8,Boulaye Dia,16,SEN,FW,24-317,33,0,0,0,0,2,1,0,0,13,0,0,0,0.8,0.8,0.1,3,0,5,5,100.0,1,7,1,1,0,Villarreal,2021-09-29 Manchester Utd-Villarreal,UCL,21-22,8ad62c4a
+f08490a6,Arnaut Danjuma,15,NED,LW,24-241,90,0,1,0,0,4,2,0,0,24,0,0,0,0.3,0.3,0.8,3,1,8,11,72.7,0,18,6,7,3,Villarreal,2021-09-29 Manchester Utd-Villarreal,UCL,21-22,8ad62c4a
+540ec57b,Yeremi Pino,21,ESP,RW,18-344,72,0,0,0,0,2,1,1,0,26,0,3,2,0.1,0.1,0.1,3,0,11,16,68.8,3,17,3,7,6,Villarreal,2021-09-29 Manchester Utd-Villarreal,UCL,21-22,8ad62c4a
+5a626448,Moi Gómez,23,ESP,RW,27-098,18,0,0,0,0,1,1,0,0,14,0,0,0,0.0,0.0,0.0,1,0,10,12,83.3,2,7,1,0,0,Villarreal,2021-09-29 Manchester Utd-Villarreal,UCL,21-22,8ad62c4a
+963829d0,Manu Trigueros,14,ESP,LM,29-347,60,0,0,0,0,0,0,0,0,23,2,0,0,0.0,0.0,0.3,4,0,16,18,88.9,5,14,1,0,0,Villarreal,2021-09-29 Manchester Utd-Villarreal,UCL,21-22,8ad62c4a
+d38fdf53,Pervis Estupiñán,12,ECU,LM,23-251,30,0,0,0,0,0,0,0,0,28,0,1,0,0.0,0.0,0.0,0,0,21,25,84.0,0,14,2,0,0,Villarreal,2021-09-29 Manchester Utd-Villarreal,UCL,21-22,8ad62c4a
+5acc4a10,Étienne Capoue,6,FRA,CM,33-080,90,0,0,0,0,0,0,0,0,69,1,1,1,0.0,0.0,0.0,3,0,60,65,92.3,3,39,0,4,3,Villarreal,2021-09-29 Manchester Utd-Villarreal,UCL,21-22,8ad62c4a
+7460ca0d,Daniel Parejo,5,ESP,RM,32-166,90,0,0,0,0,0,0,0,0,74,3,2,1,0.0,0.0,0.1,5,0,54,65,83.1,4,34,0,0,0,Villarreal,2021-09-29 Manchester Utd-Villarreal,UCL,21-22,8ad62c4a
+11b9265b,Alberto Moreno,18,ESP,LB,29-086,73,0,0,0,0,1,0,1,0,44,0,1,0,0.0,0.0,0.0,2,0,33,38,86.8,1,28,2,2,1,Villarreal,2021-09-29 Manchester Utd-Villarreal,UCL,21-22,8ad62c4a
+1f079188,Rubén Peña,20,ESP,LB,30-073,17,0,0,0,0,0,0,1,0,12,2,0,1,0.0,0.0,0.0,1,0,5,7,71.4,1,6,1,0,0,Villarreal,2021-09-29 Manchester Utd-Villarreal,UCL,21-22,8ad62c4a
+532e1e4f,Pau Torres,4,ESP,CB,24-256,90,0,0,0,0,0,0,0,0,71,1,0,0,0.0,0.0,0.0,0,0,64,66,97.0,0,42,1,2,2,Villarreal,2021-09-29 Manchester Utd-Villarreal,UCL,21-22,8ad62c4a
+4bd414c1,Raúl Albiol,3,ESP,CB,36-025,72,0,0,0,0,0,0,1,0,42,1,0,0,0.0,0.0,0.0,0,0,29,35,82.9,2,23,0,0,0,Villarreal,2021-09-29 Manchester Utd-Villarreal,UCL,21-22,8ad62c4a
+fbd6378b,Aïssa Mandi,22,ALG,CB,29-342,18,0,0,0,0,0,0,0,0,15,0,0,0,0.0,0.0,0.0,0,0,14,15,93.3,0,9,0,0,0,Villarreal,2021-09-29 Manchester Utd-Villarreal,UCL,21-22,8ad62c4a
+6c7762c3,Juan Foyth,8,ARG,RB,23-260,90,0,0,0,0,1,0,0,0,54,9,2,4,0.1,0.1,0.0,0,0,19,33,57.6,1,20,2,2,1,Villarreal,2021-09-29 Manchester Utd-Villarreal,UCL,21-22,8ad62c4a
+625c144a,Gerónimo Rulli,13,ARG,GK,29-132,90,0,0,0,0,0,0,0,0,54,0,0,0,0.0,0.0,0.0,0,0,41,53,77.4,0,27,0,0,0,Villarreal,2021-09-29 Manchester Utd-Villarreal,UCL,21-22,8ad62c4a

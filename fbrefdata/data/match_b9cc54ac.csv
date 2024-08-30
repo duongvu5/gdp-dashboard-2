@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+8d78e732,Robert Lewandowski,9,POL,FW,34-076,90,0,0,0,1,5,1,0,0,43,0,0,0,1.6,0.8,0.0,5,0,25,29,86.2,5,25,0,1,1,Barcelona,2022-11-05 Barcelona-Almería,ESP-LALIGA,22-23,b9cc54ac
+9e1035f8,Ferrán Torres,11,ESP,LW,22-249,60,0,0,0,0,6,1,1,0,58,1,1,1,0.9,0.9,0.4,4,0,31,40,77.5,4,46,3,4,3,Barcelona,2022-11-05 Barcelona-Almería,ESP-LALIGA,22-23,b9cc54ac
+0ba976e4,Ansu Fati,10,ESP,LW,20-005,30,0,0,0,0,2,2,0,0,17,1,0,0,0.5,0.5,0.0,2,1,10,14,71.4,1,15,0,0,0,Barcelona,2022-11-05 Barcelona-Almería,ESP-LALIGA,22-23,b9cc54ac
+b19db005,Ousmane Dembélé,7,FRA,RW,25-174,67,1,0,0,0,3,2,1,0,51,2,0,0,0.3,0.3,0.2,6,0,30,43,69.8,4,32,2,4,2,Barcelona,2022-11-05 Barcelona-Almería,ESP-LALIGA,22-23,b9cc54ac
+3423f250,Raphinha,22,BRA,RW,25-326,23,0,0,0,0,1,0,0,0,24,0,0,0,0.0,0.0,0.0,2,0,20,22,90.9,3,22,1,1,1,Barcelona,2022-11-05 Barcelona-Almería,ESP-LALIGA,22-23,b9cc54ac
+1bacc518,Frenkie de Jong,21,NED,LM,25-177,90,1,0,0,0,3,2,0,0,105,0,0,0,0.4,0.4,0.4,8,0,79,96,82.3,10,68,6,3,3,Barcelona,2022-11-05 Barcelona-Almería,ESP-LALIGA,22-23,b9cc54ac
+5ab0ea87,Sergio Busquets,5,ESP,CM,34-112,67,0,1,0,0,0,0,0,0,57,2,0,1,0.0,0.0,0.1,5,1,49,53,92.5,7,31,0,1,0,Barcelona,2022-11-05 Barcelona-Almería,ESP-LALIGA,22-23,b9cc54ac
+19cae58d,Gavi,30,ESP,CM,18-092,23,0,0,0,0,0,0,0,0,27,0,0,0,0.0,0.0,0.0,0,0,21,25,84.0,1,23,1,2,2,Barcelona,2022-11-05 Barcelona-Almería,ESP-LALIGA,22-23,b9cc54ac
+0d9b2d31,Pedri,8,ESP,RM,19-345,90,0,0,0,0,1,1,0,0,88,3,1,0,0.2,0.2,0.0,3,1,75,82,91.5,9,57,2,2,2,Barcelona,2022-11-05 Barcelona-Almería,ESP-LALIGA,22-23,b9cc54ac
+4601e194,Jordi Alba,18,ESP,LB,33-229,90,0,0,0,0,1,1,0,0,113,1,0,3,0.0,0.0,1.7,8,0,93,107,86.9,19,73,3,0,0,Barcelona,2022-11-05 Barcelona-Almería,ESP-LALIGA,22-23,b9cc54ac
+f4290206,Marcos Alonso,17,ESP,CB,31-312,90,0,0,0,0,0,0,0,0,76,2,1,0,0.0,0.0,0.0,0,0,68,70,97.1,6,58,1,0,0,Barcelona,2022-11-05 Barcelona-Almería,ESP-LALIGA,22-23,b9cc54ac
+adfc9123,Gerard Piqué,3,ESP,CB,35-276,84,0,0,0,0,1,0,0,0,75,2,0,1,0.1,0.1,0.0,1,0,61,65,93.8,8,48,1,0,0,Barcelona,2022-11-05 Barcelona-Almería,ESP-LALIGA,22-23,b9cc54ac
+1cb49278,Andreas Christensen,15,DEN,CB,26-209,6,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,6,6,100.0,0,4,0,0,0,Barcelona,2022-11-05 Barcelona-Almería,ESP-LALIGA,22-23,b9cc54ac
+5ccc9672,Alejandro Balde,28,ESP,RB,19-018,90,0,0,0,0,3,2,0,0,102,1,0,1,0.2,0.2,0.2,3,0,86,93,92.5,3,74,9,3,1,Barcelona,2022-11-05 Barcelona-Almería,ESP-LALIGA,22-23,b9cc54ac
+6f51e382,Marc-André ter Stegen,1,GER,GK,30-189,90,0,0,0,0,0,0,0,0,25,0,0,0,0.0,0.0,0.0,0,0,22,24,91.7,0,21,0,0,0,Barcelona,2022-11-05 Barcelona-Almería,ESP-LALIGA,22-23,b9cc54ac
+cc9256ef,Largie Ramazani,7,BEL,FW,21-251,90,0,0,0,0,2,1,0,0,25,0,1,0,0.4,0.4,0.0,2,0,11,17,64.7,2,14,2,5,1,Almería,2022-11-05 Barcelona-Almería,ESP-LALIGA,22-23,b9cc54ac
+35f6db55,Léo Baptistão,12,BRA,FW,30-071,45,0,0,0,0,0,0,0,0,14,2,1,1,0.0,0.0,0.0,0,0,6,9,66.7,0,4,0,0,0,Almería,2022-11-05 Barcelona-Almería,ESP-LALIGA,22-23,b9cc54ac
+e4738e91,Dyego Sousa,11,POR,FW,33-052,45,0,0,0,0,1,0,0,0,17,0,0,2,0.0,0.0,0.0,0,0,5,12,41.7,1,4,1,0,0,Almería,2022-11-05 Barcelona-Almería,ESP-LALIGA,22-23,b9cc54ac
+3902e91b,Gonzalo Melero,3,ESP,CM,28-307,67,0,0,0,0,1,0,0,0,31,3,0,1,0.0,0.0,0.0,1,0,17,20,85.0,1,13,0,1,0,Almería,2022-11-05 Barcelona-Almería,ESP-LALIGA,22-23,b9cc54ac
+39352da2,Arnau Puigmal,18,ESP,"RM,CM",21-299,23,0,0,0,0,0,0,0,0,13,1,1,0,0.0,0.0,0.1,1,0,8,9,88.9,3,9,0,2,0,Almería,2022-11-05 Barcelona-Almería,ESP-LALIGA,22-23,b9cc54ac
+76c2a023,Samu Costa,23,POR,"CM,LM",21-343,90,0,0,0,0,0,0,0,0,36,1,1,0,0.0,0.0,0.0,0,0,23,32,71.9,2,8,0,0,0,Almería,2022-11-05 Barcelona-Almería,ESP-LALIGA,22-23,b9cc54ac
+a8981944,Lucas Robertone,5,ARG,CM,25-232,78,0,0,0,0,0,0,0,0,35,1,0,2,0.0,0.0,0.0,1,0,22,28,78.6,2,12,0,3,2,Almería,2022-11-05 Barcelona-Almería,ESP-LALIGA,22-23,b9cc54ac
+8e010ff4,Francisco Portillo,8,ESP,CM,32-145,12,0,0,0,0,0,0,0,0,14,1,1,0,0.0,0.0,0.0,2,0,10,12,83.3,5,7,0,0,0,Almería,2022-11-05 Barcelona-Almería,ESP-LALIGA,22-23,b9cc54ac
+06efa9dc,Sergio Akieme,15,ESP,LB,24-324,90,0,0,0,0,0,0,0,0,38,1,0,1,0.0,0.0,0.0,0,0,22,32,68.8,0,18,1,1,0,Almería,2022-11-05 Barcelona-Almería,ESP-LALIGA,22-23,b9cc54ac
+2475cf9b,Chumi,21,ESP,CB,23-248,90,0,0,0,0,0,0,0,0,46,1,0,0,0.0,0.0,0.0,0,0,24,32,75.0,0,20,0,1,1,Almería,2022-11-05 Barcelona-Almería,ESP-LALIGA,22-23,b9cc54ac
+fd47b4f2,Rodrigo Ely,19,BRA,CB,29-002,67,0,0,0,0,0,0,0,0,21,0,1,2,0.0,0.0,0.0,0,0,6,11,54.5,0,6,0,0,0,Almería,2022-11-05 Barcelona-Almería,ESP-LALIGA,22-23,b9cc54ac
+3e93f8cf,Íñigo Eguaras,4,ESP,"CM,CB",30-243,23,0,0,0,0,0,0,0,0,19,0,1,0,0.0,0.0,0.0,0,0,18,19,94.7,1,11,0,0,0,Almería,2022-11-05 Barcelona-Almería,ESP-LALIGA,22-23,b9cc54ac
+55634fb8,Kaiky,2,BRA,CB,18-297,45,0,0,0,0,0,0,1,0,22,0,3,3,0.0,0.0,0.0,0,0,9,16,56.3,0,8,0,0,0,Almería,2022-11-05 Barcelona-Almería,ESP-LALIGA,22-23,b9cc54ac
+075fe5a3,Srđan Babić,22,SRB,CB,26-197,45,0,0,0,0,0,0,0,0,26,1,0,0,0.0,0.0,0.0,0,0,17,19,89.5,0,10,0,1,1,Almería,2022-11-05 Barcelona-Almería,ESP-LALIGA,22-23,b9cc54ac
+1545cf15,Houboulang Mendes,24,GNB,RB,24-185,90,0,0,0,0,0,0,0,0,39,1,2,1,0.0,0.0,0.0,0,0,16,22,72.7,0,15,1,3,1,Almería,2022-11-05 Barcelona-Almería,ESP-LALIGA,22-23,b9cc54ac
+dabb2827,Fernando,13,ESP,GK,32-148,90,0,0,0,0,0,0,0,0,54,0,0,1,0.0,0.0,0.0,0,0,30,46,65.2,0,27,0,0,0,Almería,2022-11-05 Barcelona-Almería,ESP-LALIGA,22-23,b9cc54ac

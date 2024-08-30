@@ -1,0 +1,32 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+da76bab4,Valentín Castellanos,9,ARG,FW,24-087,78,1,0,1,1,4,1,0,0,17,0,0,0,1.0,0.2,0.0,1,1,4,8,50.0,0,10,1,2,0,Girona,2022-12-29 Girona-Rayo Vallecano,ESP-LALIGA,22-23,f1fddbae
+220c11f1,Cristhian Stuani,7,URU,FW,36-078,12,0,0,0,0,1,1,1,0,5,0,0,0,0.1,0.1,0.0,0,0,4,4,100.0,0,2,0,0,0,Girona,2022-12-29 Girona-Rayo Vallecano,ESP-LALIGA,22-23,f1fddbae
+65154df0,Rodrigo Riquelme,17,ESP,LM,22-271,70,0,0,0,0,2,1,0,0,37,1,0,0,0.1,0.1,0.1,4,0,18,21,85.7,6,22,0,3,1,Girona,2022-12-29 Girona-Rayo Vallecano,ESP-LALIGA,22-23,f1fddbae
+636eae97,Toni Villa,12,ESP,LM,27-356,20,0,0,0,0,0,0,0,0,15,2,0,1,0.0,0.0,0.0,0,0,7,11,63.6,1,9,2,1,0,Girona,2022-12-29 Girona-Rayo Vallecano,ESP-LALIGA,22-23,f1fddbae
+a10361d2,Aleix García,14,ESP,CM,25-184,90,0,0,0,0,0,0,0,0,89,1,5,1,0.0,0.0,0.0,3,1,64,78,82.1,9,52,0,2,0,Girona,2022-12-29 Girona-Rayo Vallecano,ESP-LALIGA,22-23,f1fddbae
+ae48c5cb,Iván Martín,23,ESP,CM,23-318,71,0,0,0,0,2,1,0,0,39,1,0,1,0.1,0.1,0.0,2,1,27,33,81.8,2,24,0,3,2,Girona,2022-12-29 Girona-Rayo Vallecano,ESP-LALIGA,22-23,f1fddbae
+13e0eb29,Samuel Sáiz,10,ESP,CM,31-341,19,1,0,1,1,1,1,0,0,25,0,0,1,0.8,0.1,0.0,0,0,12,17,70.6,2,18,1,3,1,Girona,2022-12-29 Girona-Rayo Vallecano,ESP-LALIGA,22-23,f1fddbae
+1944818c,Yan Couto,20,BRA,RM,20-209,70,0,0,0,0,1,0,0,0,38,2,0,1,0.1,0.1,0.1,3,0,23,33,69.7,2,25,5,3,2,Girona,2022-12-29 Girona-Rayo Vallecano,ESP-LALIGA,22-23,f1fddbae
+4acd733a,Valery Fernández,11,ESP,RM,23-036,20,0,0,0,0,0,0,0,0,9,0,0,1,0.0,0.0,0.0,0,0,4,6,66.7,1,4,1,1,0,Girona,2022-12-29 Girona-Rayo Vallecano,ESP-LALIGA,22-23,f1fddbae
+4b511457,Oriol Romeu,18,ESP,DM,31-096,90,0,0,0,0,0,0,1,0,73,3,2,1,0.0,0.0,0.0,1,0,62,64,96.9,7,54,3,1,1,Girona,2022-12-29 Girona-Rayo Vallecano,ESP-LALIGA,22-23,f1fddbae
+7e98cff1,Miguel Gutiérrez,3,ESP,LB,21-155,90,0,0,0,0,1,0,0,0,69,1,1,2,0.0,0.0,0.1,4,0,50,64,78.1,2,34,2,2,0,Girona,2022-12-29 Girona-Rayo Vallecano,ESP-LALIGA,22-23,f1fddbae
+f03f284b,David López,5,ESP,CB,33-081,90,0,0,0,0,0,0,0,0,61,3,0,0,0.0,0.0,0.0,2,0,48,57,84.2,3,32,1,0,0,Girona,2022-12-29 Girona-Rayo Vallecano,ESP-LALIGA,22-23,f1fddbae
+edc98fac,Santiago Bueno,22,URU,CB,24-050,90,0,0,0,0,0,0,0,0,81,1,1,1,0.0,0.0,0.1,1,0,57,74,77.0,4,58,0,0,0,Girona,2022-12-29 Girona-Rayo Vallecano,ESP-LALIGA,22-23,f1fddbae
+c3e66ffe,Arnau Martinez,4,ESP,RB,19-248,90,0,0,0,0,2,0,1,0,70,0,0,2,0.1,0.1,0.2,3,0,52,64,81.3,6,28,1,0,0,Girona,2022-12-29 Girona-Rayo Vallecano,ESP-LALIGA,22-23,f1fddbae
+63d17038,Paulo Gazzaniga,13,ARG,GK,30-361,90,0,0,0,0,0,0,0,0,37,0,0,0,0.0,0.0,0.0,1,0,31,36,86.1,0,21,0,0,0,Girona,2022-12-29 Girona-Rayo Vallecano,ESP-LALIGA,22-23,f1fddbae
+873619c6,Sergio Camello,34,ESP,FW,21-322,89,1,1,0,0,1,1,0,0,18,0,0,0,0.2,0.2,0.1,2,1,13,13,100.0,3,13,2,2,0,Rayo Vallecano,2022-12-29 Girona-Rayo Vallecano,ESP-LALIGA,22-23,f1fddbae
+b151a3f2,Diego Méndez,29,ESP,"CM,FW",19-122,1,0,0,0,0,0,0,0,0,3,0,1,0,0.0,0.0,0.0,0,0,1,2,50.0,0,1,0,0,0,Rayo Vallecano,2022-12-29 Girona-Rayo Vallecano,ESP-LALIGA,22-23,f1fddbae
+90bbd822,Álvaro García,18,ESP,"LW,LM",30-063,89,0,0,0,0,1,0,0,0,40,1,1,3,0.0,0.0,0.2,4,1,16,32,50.0,3,24,5,1,1,Rayo Vallecano,2022-12-29 Girona-Rayo Vallecano,ESP-LALIGA,22-23,f1fddbae
+63c5e56b,Pep Chavarría,15,ESP,LW,24-263,1,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,1,0,0,0,Rayo Vallecano,2022-12-29 Girona-Rayo Vallecano,ESP-LALIGA,22-23,f1fddbae
+49dbab27,Isaac Palazón Camacho,7,ESP,"RW,RM",28-002,90,1,0,0,0,4,1,1,0,48,3,0,0,0.4,0.4,0.2,3,0,26,35,74.3,4,37,1,0,0,Rayo Vallecano,2022-12-29 Girona-Rayo Vallecano,ESP-LALIGA,22-23,f1fddbae
+fc647b34,Óscar Trejo,8,ARG,AM,34-247,61,0,0,0,0,0,0,0,0,39,1,3,1,0.0,0.0,0.0,0,0,28,28,100.0,4,27,2,2,0,Rayo Vallecano,2022-12-29 Girona-Rayo Vallecano,ESP-LALIGA,22-23,f1fddbae
+88050721,Unai López,17,ESP,"CM,AM",27-060,29,0,0,0,0,1,1,0,0,22,2,1,0,0.0,0.0,0.0,0,0,8,14,57.1,0,14,0,3,0,Rayo Vallecano,2022-12-29 Girona-Rayo Vallecano,ESP-LALIGA,22-23,f1fddbae
+9a0408b6,Pathé Ciss,21,SEN,"DM,CM",28-288,90,0,0,0,0,0,0,0,0,43,3,1,1,0.0,0.0,0.0,0,0,24,31,77.4,3,25,0,0,0,Rayo Vallecano,2022-12-29 Girona-Rayo Vallecano,ESP-LALIGA,22-23,f1fddbae
+5ae499d0,Santi Comesaña,6,ESP,DM,26-085,78,0,0,0,0,0,0,0,0,40,2,0,0,0.0,0.0,0.0,0,0,32,37,86.5,1,28,0,1,1,Rayo Vallecano,2022-12-29 Girona-Rayo Vallecano,ESP-LALIGA,22-23,f1fddbae
+66116290,Radamel Falcao,9,COL,FW,36-322,12,0,0,0,0,2,0,1,0,7,0,0,1,0.2,0.2,0.0,1,0,2,2,100.0,0,3,0,0,0,Rayo Vallecano,2022-12-29 Girona-Rayo Vallecano,ESP-LALIGA,22-23,f1fddbae
+7226539b,Fran Garcia,3,ESP,LB,23-137,90,0,0,0,0,1,0,0,0,52,4,1,0,0.0,0.0,0.1,5,0,37,43,86.0,2,32,2,0,0,Rayo Vallecano,2022-12-29 Girona-Rayo Vallecano,ESP-LALIGA,22-23,f1fddbae
+6eaed4eb,Florian Lejeune,19,FRA,CB,31-223,90,0,0,0,0,1,0,0,0,52,1,0,0,0.0,0.0,0.1,0,0,28,37,75.7,0,29,0,0,0,Rayo Vallecano,2022-12-29 Girona-Rayo Vallecano,ESP-LALIGA,22-23,f1fddbae
+5487adcd,Abdul Mumin,16,GHA,CB,24-206,90,0,0,0,0,1,1,0,0,38,0,0,1,0.1,0.1,0.0,0,0,22,31,71.0,0,32,0,0,0,Rayo Vallecano,2022-12-29 Girona-Rayo Vallecano,ESP-LALIGA,22-23,f1fddbae
+cee88597,Iván Balliu,20,ALB,RB,30-362,90,0,0,0,0,0,0,0,0,53,1,0,0,0.0,0.0,0.0,0,0,39,50,78.0,1,30,2,1,0,Rayo Vallecano,2022-12-29 Girona-Rayo Vallecano,ESP-LALIGA,22-23,f1fddbae
+fc70e345,Stole Dimitrievski,1,MKD,GK,29-004,90,0,0,0,0,0,0,0,0,38,0,0,0,0.0,0.0,0.0,0,0,17,34,50.0,0,16,0,0,0,Rayo Vallecano,2022-12-29 Girona-Rayo Vallecano,ESP-LALIGA,22-23,f1fddbae

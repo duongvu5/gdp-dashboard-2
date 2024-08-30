@@ -1,0 +1,32 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+70d74ece,Karim Benzema,9,FRA,FW,33-141,90,0,0,0,0,1,1,0,0,57,0,1,0,0.0,0.0,0.1,4,0,44,51,86.3,7,39,6,2,2,Real Madrid,2021-05-09 Real Madrid-Sevilla,ESP-LALIGA,20-21,991dad04
+7111d552,Vinicius Júnior,20,BRA,LW,20-301,78,0,0,0,0,3,1,0,0,44,2,1,1,0.4,0.4,0.1,4,0,26,31,83.9,1,26,4,3,3,Real Madrid,2021-05-09 Real Madrid-Sevilla,ESP-LALIGA,20-21,991dad04
+a39bb753,Eden Hazard,7,BEL,LW,30-122,12,1,0,0,0,1,1,0,0,12,0,0,0,0.1,0.1,0.0,0,0,9,10,90.0,0,8,2,1,1,Real Madrid,2021-05-09 Real Madrid-Sevilla,ESP-LALIGA,20-21,991dad04
+0959c2a2,Federico Valverde,15,URU,"RW,RM",22-291,90,0,0,0,0,1,1,0,0,58,3,1,0,0.1,0.1,0.0,3,0,43,48,89.6,4,32,2,1,0,Real Madrid,2021-05-09 Real Madrid-Sevilla,ESP-LALIGA,20-21,991dad04
+6ce1f46f,Toni Kroos,8,GER,LM,31-125,90,0,2,0,0,1,0,0,0,119,2,0,0,0.0,0.0,0.4,6,2,104,114,91.2,19,70,3,1,0,Real Madrid,2021-05-09 Real Madrid-Sevilla,ESP-LALIGA,20-21,991dad04
+4d224fe8,Casemiro,14,BRA,CM,29-075,90,0,0,0,0,4,1,1,0,79,3,1,0,0.2,0.2,0.0,1,1,58,65,89.2,5,35,1,1,0,Real Madrid,2021-05-09 Real Madrid-Sevilla,ESP-LALIGA,20-21,991dad04
+6025fab1,Luka Modrić,10,CRO,RM,35-242,65,0,0,0,0,2,1,0,0,56,0,0,0,0.0,0.0,0.0,3,0,43,49,87.8,10,40,0,1,1,Real Madrid,2021-05-09 Real Madrid-Sevilla,ESP-LALIGA,20-21,991dad04
+45af8a54,Marco Asensio,11,ESP,RW,25-108,25,1,0,0,0,1,1,0,0,16,0,0,0,0.1,0.1,0.0,2,0,11,15,73.3,1,9,2,1,1,Real Madrid,2021-05-09 Real Madrid-Sevilla,ESP-LALIGA,20-21,991dad04
+603116a7,Marcelo,12,BRA,LB,32-362,65,0,0,0,0,1,0,0,0,72,3,0,1,0.0,0.0,0.1,6,0,50,61,82.0,7,38,3,1,0,Real Madrid,2021-05-09 Real Madrid-Sevilla,ESP-LALIGA,20-21,991dad04
+7e98cff1,Miguel Gutiérrez,35,ESP,LB,19-286,25,0,0,0,0,0,0,0,0,26,0,0,0,0.0,0.0,0.0,1,0,22,25,88.0,4,14,1,1,1,Real Madrid,2021-05-09 Real Madrid-Sevilla,ESP-LALIGA,20-21,991dad04
+2946f9a1,Nacho,6,ESP,CB,31-111,90,0,0,0,0,1,0,0,0,61,0,2,0,0.0,0.0,0.1,2,0,54,57,94.7,2,31,2,0,0,Real Madrid,2021-05-09 Real Madrid-Sevilla,ESP-LALIGA,20-21,991dad04
+2784f898,Éder Militão,3,BRA,CB,23-111,90,0,0,0,0,1,0,0,0,76,1,1,1,0.0,0.0,0.0,0,0,61,69,88.4,2,43,1,0,0,Real Madrid,2021-05-09 Real Madrid-Sevilla,ESP-LALIGA,20-21,991dad04
+1d1691ad,Álvaro Odriozola,19,ESP,RB,25-146,90,0,0,0,0,0,0,0,0,56,2,0,0,0.0,0.0,0.0,1,0,37,47,78.7,0,33,3,3,2,Real Madrid,2021-05-09 Real Madrid-Sevilla,ESP-LALIGA,20-21,991dad04
+1840e36d,Thibaut Courtois,1,BEL,GK,28-363,90,0,0,0,0,0,0,0,0,29,0,0,0,0.0,0.0,0.0,0,0,24,27,88.9,0,13,0,0,0,Real Madrid,2021-05-09 Real Madrid-Sevilla,ESP-LALIGA,20-21,991dad04
+6e4df551,Papu Gómez,24,ARG,FW,33-083,55,0,0,0,0,0,0,0,0,30,0,0,0,0.0,0.0,0.1,1,0,21,24,87.5,5,23,1,3,2,Sevilla,2021-05-09 Real Madrid-Sevilla,ESP-LALIGA,20-21,991dad04
+04e17fd5,Youssef En-Nesyri,15,MAR,FW,23-342,35,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,0,0,4,7,57.1,0,4,0,1,0,Sevilla,2021-05-09 Real Madrid-Sevilla,ESP-LALIGA,20-21,991dad04
+a08b974a,Lucas Ocampos,5,ARG,"LW,RW",26-302,87,0,0,0,0,1,0,0,0,40,1,0,1,0.1,0.1,0.0,3,0,21,29,72.4,0,28,2,3,0,Sevilla,2021-05-09 Real Madrid-Sevilla,ESP-LALIGA,20-21,991dad04
+abb3bb95,Luuk de Jong,9,NED,RW,30-255,3,0,0,0,0,0,0,0,0,4,1,0,0,0.0,0.0,0.0,0,0,1,3,33.3,0,3,0,0,0,Sevilla,2021-05-09 Real Madrid-Sevilla,ESP-LALIGA,20-21,991dad04
+4e219ad2,Suso,7,ESP,RW,27-171,82,0,0,0,0,1,0,1,0,53,2,0,1,0.0,0.0,0.0,1,0,35,45,77.8,4,42,0,6,5,Sevilla,2021-05-09 Real Madrid-Sevilla,ESP-LALIGA,20-21,991dad04
+19709006,Óscar Rodríguez Arnaiz,14,ESP,"LW,RW",22-315,8,0,0,0,0,0,0,0,0,8,1,0,0,0.0,0.0,0.0,0,0,1,3,33.3,0,5,1,0,0,Sevilla,2021-05-09 Real Madrid-Sevilla,ESP-LALIGA,20-21,991dad04
+89f951b5,Ivan Rakitić,10,CRO,LM,33-060,87,1,1,1,1,1,0,0,0,50,0,1,0,0.8,0.1,0.2,2,1,41,43,95.3,4,40,0,0,0,Sevilla,2021-05-09 Real Madrid-Sevilla,ESP-LALIGA,20-21,991dad04
+58a9a4d9,Óliver Torres,21,ESP,LM,26-180,3,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,1,1,1,1,Sevilla,2021-05-09 Real Madrid-Sevilla,ESP-LALIGA,20-21,991dad04
+41f32541,Fernando,25,BRA,CM,33-288,90,1,0,0,0,1,1,0,0,40,0,0,1,0.1,0.1,0.1,3,1,32,33,97.0,3,32,0,1,1,Sevilla,2021-05-09 Real Madrid-Sevilla,ESP-LALIGA,20-21,991dad04
+2a0c8ba4,Joan Jordán,8,ESP,RM,26-307,83,0,0,0,0,0,0,0,0,58,2,0,1,0.0,0.0,0.0,1,0,46,51,90.2,3,48,1,2,1,Sevilla,2021-05-09 Real Madrid-Sevilla,ESP-LALIGA,20-21,991dad04
+0076ab7f,Nemanja Gudelj,6,SRB,RM,29-174,7,0,0,0,0,0,0,1,0,3,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,0,0,0,0,Sevilla,2021-05-09 Real Madrid-Sevilla,ESP-LALIGA,20-21,991dad04
+81442ecb,Marcos Acuña,19,ARG,LB,29-193,90,0,0,0,0,1,0,0,0,66,2,2,1,0.0,0.0,0.0,0,0,42,53,79.2,1,45,2,4,2,Sevilla,2021-05-09 Real Madrid-Sevilla,ESP-LALIGA,20-21,991dad04
+b4a014b1,Diego Carlos,20,BRA,CB,28-055,90,0,0,0,0,0,0,0,0,55,0,1,1,0.0,0.0,0.0,0,0,39,43,90.7,1,42,0,0,0,Sevilla,2021-05-09 Real Madrid-Sevilla,ESP-LALIGA,20-21,991dad04
+4d1666ff,Jules Koundé,12,FRA,CB,22-178,90,0,0,0,0,1,1,0,0,52,0,0,0,0.1,0.1,0.0,0,0,41,45,91.1,0,40,1,1,1,Sevilla,2021-05-09 Real Madrid-Sevilla,ESP-LALIGA,20-21,991dad04
+3f10bd22,Jesús Navas,16,ESP,RB,35-169,90,0,0,0,0,0,0,0,0,71,0,2,2,0.0,0.0,0.0,1,0,49,62,79.0,3,47,3,2,1,Sevilla,2021-05-09 Real Madrid-Sevilla,ESP-LALIGA,20-21,991dad04
+f6798fc3,Yassine Bounou,13,MAR,GK,30-034,90,0,0,0,0,0,0,0,0,41,0,0,0,0.0,0.0,0.0,0,0,30,37,81.1,0,29,0,0,0,Sevilla,2021-05-09 Real Madrid-Sevilla,ESP-LALIGA,20-21,991dad04

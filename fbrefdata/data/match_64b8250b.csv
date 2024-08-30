@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+715e5b0e,Kostas Fortounis,7,GRE,FW,25-015,83,0,0,0,0,2,1,0,0,42,0,0,0,0.1,0.1,0.1,2,0,23,36,63.9,1,14,2,7,3,Olympiacos,2017-10-31 Olympiacos-Barcelona,UCL,17-18,64b8250b
+d49b243a,Uroš Đurđević,9,MNE,FW,23-243,7,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,1,0,0,0,Olympiacos,2017-10-31 Olympiacos-Barcelona,UCL,17-18,64b8250b
+dc415e39,Mehdi Carcela,33,MAR,LM,28-122,78,0,0,0,0,1,0,0,0,29,2,2,0,0.1,0.1,0.0,1,0,12,17,70.6,1,14,1,1,0,Olympiacos,2017-10-31 Olympiacos-Barcelona,UCL,17-18,64b8250b
+5f956fcf,Felipe Pardo,90,COL,LM,27-075,12,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,1,0,5,5,100.0,1,2,0,0,0,Olympiacos,2017-10-31 Olympiacos-Barcelona,UCL,17-18,64b8250b
+0aa874f4,Alaixys Romao,4,TOG,CM,33-286,90,0,0,0,0,0,0,0,0,38,2,2,1,0.0,0.0,0.1,2,0,23,29,79.3,2,10,0,1,1,Olympiacos,2017-10-31 Olympiacos-Barcelona,UCL,17-18,64b8250b
+518918ad,Vadis Odjidja-Ofoe,8,BEL,CM,28-252,74,0,0,0,0,0,0,0,0,36,2,0,2,0.0,0.0,0.0,0,0,19,28,67.9,4,11,1,3,3,Olympiacos,2017-10-31 Olympiacos-Barcelona,UCL,17-18,64b8250b
+3f944dad,Guillaume Gillet,13,BEL,CM,33-236,16,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,1,3,33.3,0,2,0,1,1,Olympiacos,2017-10-31 Olympiacos-Barcelona,UCL,17-18,64b8250b
+3e587547,Diogo Figueiras,77,POR,RM,26-122,90,0,0,0,0,2,0,1,0,39,2,2,0,0.1,0.1,0.0,3,0,18,25,72.0,1,12,2,2,1,Olympiacos,2017-10-31 Olympiacos-Barcelona,UCL,17-18,64b8250b
+e26bd2f4,Panagiotis Tachtsidis,6,GRE,DM,26-258,90,0,0,0,0,1,0,1,0,52,0,3,3,0.0,0.0,0.0,1,0,29,38,76.3,6,16,1,3,3,Olympiacos,2017-10-31 Olympiacos-Barcelona,UCL,17-18,64b8250b
+114b510e,Leonardo Koutris,23,GRE,LB,22-100,90,0,0,0,0,0,0,0,0,54,3,2,0,0.0,0.0,0.0,1,0,27,41,65.9,0,8,1,1,0,Olympiacos,2017-10-31 Olympiacos-Barcelona,UCL,17-18,64b8250b
+4fdf1fd9,Björn Engels,40,BEL,CB,23-046,90,0,0,0,0,0,0,1,0,29,1,1,2,0.0,0.0,0.0,0,0,14,19,73.7,0,7,0,0,0,Olympiacos,2017-10-31 Olympiacos-Barcelona,UCL,17-18,64b8250b
+7f6bff1f,Alberto Botía,3,ESP,CB,28-277,90,0,0,0,0,0,0,0,0,27,1,2,5,0.0,0.0,0.0,0,0,8,11,72.7,0,4,0,0,0,Olympiacos,2017-10-31 Olympiacos-Barcelona,UCL,17-18,64b8250b
+4f56170e,Omar Elabdellaoui,14,NOR,RB,25-330,90,0,0,0,0,0,0,0,0,41,0,4,1,0.0,0.0,0.0,0,0,25,30,83.3,2,10,1,0,0,Olympiacos,2017-10-31 Olympiacos-Barcelona,UCL,17-18,64b8250b
+c8a88acd,Silvio Proto,24,BEL,GK,34-161,90,0,0,0,0,0,0,0,0,40,0,0,0,0.0,0.0,0.0,0,0,16,33,48.5,0,9,0,0,0,Olympiacos,2017-10-31 Olympiacos-Barcelona,UCL,17-18,64b8250b
+a6154613,Luis Suárez,9,URU,FW,30-280,90,0,0,0,0,7,0,0,0,54,0,0,0,0.9,0.9,0.5,5,0,32,39,82.1,4,36,4,2,1,Barcelona,2017-10-31 Olympiacos-Barcelona,UCL,17-18,64b8250b
+d70ce98e,Lionel Messi,10,ARG,FW,30-129,90,0,0,0,0,7,5,0,0,84,0,0,2,0.7,0.7,0.6,10,0,48,67,71.6,14,57,5,8,5,Barcelona,2017-10-31 Olympiacos-Barcelona,UCL,17-18,64b8250b
+12c50af5,Denis Suárez,6,ESP,LM,23-298,74,0,0,0,0,2,0,0,0,55,1,0,1,0.1,0.1,0.1,4,0,42,49,85.7,6,41,0,2,2,Barcelona,2017-10-31 Olympiacos-Barcelona,UCL,17-18,64b8250b
+1961b2aa,André Gomes,21,POR,LM,24-093,16,0,0,0,0,1,0,1,0,15,1,0,0,0.1,0.1,0.0,0,0,10,12,83.3,5,11,0,0,0,Barcelona,2017-10-31 Olympiacos-Barcelona,UCL,17-18,64b8250b
+5ab0ea87,Sergio Busquets,5,ESP,CM,29-107,90,0,0,0,0,0,0,0,0,122,4,0,3,0.0,0.0,0.0,5,0,100,113,88.5,13,77,1,0,0,Barcelona,2017-10-31 Olympiacos-Barcelona,UCL,17-18,64b8250b
+bb7337cc,Paulinho,15,BRA,CM,29-098,61,0,0,0,0,0,0,0,0,49,0,2,0,0.0,0.0,0.0,1,0,36,42,85.7,7,27,0,0,0,Barcelona,2017-10-31 Olympiacos-Barcelona,UCL,17-18,64b8250b
+89f951b5,Ivan Rakitić,4,CRO,CM,29-235,29,0,0,0,0,0,0,0,0,23,1,1,0,0.0,0.0,0.0,2,0,15,20,75.0,3,14,1,0,0,Barcelona,2017-10-31 Olympiacos-Barcelona,UCL,17-18,64b8250b
+335fa267,Sergi Roberto,20,ESP,RM,25-266,44,0,0,0,0,0,0,1,0,26,1,0,1,0.0,0.0,0.1,3,0,15,19,78.9,4,17,0,1,1,Barcelona,2017-10-31 Olympiacos-Barcelona,UCL,17-18,64b8250b
+39583cfd,Gerard Deulofeu,16,ESP,RM,23-232,46,0,0,0,0,0,0,0,0,32,0,0,0,0.0,0.0,0.1,1,0,18,28,64.3,2,23,4,1,0,Barcelona,2017-10-31 Olympiacos-Barcelona,UCL,17-18,64b8250b
+4601e194,Jordi Alba,18,ESP,LB,28-224,90,0,0,0,0,0,0,0,0,89,2,0,2,0.0,0.0,0.0,2,0,75,82,91.5,3,46,0,0,0,Barcelona,2017-10-31 Olympiacos-Barcelona,UCL,17-18,64b8250b
+3eed9821,Samuel Umtiti,23,FRA,CB,23-351,90,0,0,0,0,0,0,0,0,89,0,2,0,0.0,0.0,0.0,1,0,78,84,92.9,13,69,5,0,0,Barcelona,2017-10-31 Olympiacos-Barcelona,UCL,17-18,64b8250b
+5070881b,Javier Mascherano,14,ARG,CB,33-145,90,0,0,0,0,0,0,0,0,79,2,1,0,0.0,0.0,0.1,1,0,69,74,93.2,5,63,0,0,0,Barcelona,2017-10-31 Olympiacos-Barcelona,UCL,17-18,64b8250b
+d04b94db,Nélson Semedo,2,POR,RB,23-349,90,0,0,0,0,2,1,0,0,68,3,1,2,0.1,0.1,0.1,1,0,52,57,91.2,1,34,3,2,1,Barcelona,2017-10-31 Olympiacos-Barcelona,UCL,17-18,64b8250b
+6f51e382,Marc-André ter Stegen,1,GER,GK,25-184,90,0,0,0,0,0,0,0,0,22,0,0,0,0.0,0.0,0.0,0,0,15,21,71.4,0,11,0,0,0,Barcelona,2017-10-31 Olympiacos-Barcelona,UCL,17-18,64b8250b

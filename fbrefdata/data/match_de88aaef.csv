@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+81d5c497,Fernando Niño,34,ESP,FW,20-070,45,1,0,0,0,1,1,0,0,18,0,0,1,0.7,0.7,0.1,1,0,7,13,53.8,1,12,3,1,1,Villarreal,2021-01-02 Villarreal-Levante,ESP-LALIGA,20-21,de88aaef
+b8a642fc,Samuel Chukwueze,11,NGA,"RM,RW",21-225,45,0,1,0,0,3,2,0,0,20,0,0,0,0.1,0.1,0.1,2,1,12,15,80.0,4,16,6,3,2,Villarreal,2021-01-02 Villarreal-Levante,ESP-LALIGA,20-21,de88aaef
+540ec57b,Yeremi Pino,30,ESP,LW,18-074,45,0,0,0,0,1,1,1,0,31,0,1,3,0.1,0.1,0.0,0,0,17,20,85.0,3,21,3,2,2,Villarreal,2021-01-02 Villarreal-Levante,ESP-LALIGA,20-21,de88aaef
+6c7762c3,Juan Foyth,8,ARG,"DM,CM",22-356,45,0,0,0,0,0,0,0,0,18,1,1,1,0.0,0.0,0.0,0,0,13,14,92.9,1,7,0,0,0,Villarreal,2021-01-02 Villarreal-Levante,ESP-LALIGA,20-21,de88aaef
+81f0781e,Gerard Moreno,7,ESP,"FW,RW",28-270,90,1,0,0,0,4,2,0,0,52,1,0,1,0.6,0.6,0.0,1,0,25,35,71.4,5,30,0,2,0,Villarreal,2021-01-02 Villarreal-Levante,ESP-LALIGA,20-21,de88aaef
+963829d0,Manu Trigueros,14,ESP,"LM,CM,RM",29-077,90,0,0,0,0,1,1,0,0,75,2,1,1,0.0,0.0,0.0,6,2,61,69,88.4,12,49,3,1,1,Villarreal,2021-01-02 Villarreal-Levante,ESP-LALIGA,20-21,de88aaef
+7460ca0d,Daniel Parejo,5,ESP,"CM,LM",31-261,90,0,0,0,0,1,0,0,0,75,1,0,0,0.0,0.0,0.6,4,0,68,71,95.8,5,47,1,3,2,Villarreal,2021-01-02 Villarreal-Levante,ESP-LALIGA,20-21,de88aaef
+5a626448,Moi Gómez,23,ESP,"RM,LW",26-193,66,0,0,0,0,0,0,0,0,57,0,1,0,0.0,0.0,0.0,1,0,45,51,88.2,4,41,1,1,1,Villarreal,2021-01-02 Villarreal-Levante,ESP-LALIGA,20-21,de88aaef
+d38fdf53,Pervis Estupiñán,15,ECU,LB,22-347,24,0,0,0,0,1,0,0,0,12,0,1,1,0.1,0.1,0.1,1,0,6,8,75.0,1,8,1,0,0,Villarreal,2021-01-02 Villarreal-Levante,ESP-LALIGA,20-21,de88aaef
+63f04c6c,Alfonso Pedraza,24,ESP,"LB,LM",24-268,75,0,1,0,0,0,0,0,0,44,0,1,1,0.0,0.0,0.7,1,1,32,39,82.1,0,17,0,1,0,Villarreal,2021-01-02 Villarreal-Levante,ESP-LALIGA,20-21,de88aaef
+808d48f3,Jaume Costa,21,ESP,LM,32-290,15,0,0,0,0,0,0,0,0,5,1,0,0,0.0,0.0,0.0,0,0,4,4,100.0,0,2,0,0,0,Villarreal,2021-01-02 Villarreal-Levante,ESP-LALIGA,20-21,de88aaef
+532e1e4f,Pau Torres,4,ESP,CB,23-352,90,0,0,0,0,0,0,0,0,71,0,2,1,0.0,0.0,0.0,1,0,52,56,92.9,1,41,0,0,0,Villarreal,2021-01-02 Villarreal-Levante,ESP-LALIGA,20-21,de88aaef
+4bd414c1,Raúl Albiol,3,ESP,CB,35-120,90,0,0,0,0,0,0,0,0,61,0,1,1,0.0,0.0,0.0,0,0,45,51,88.2,2,36,0,0,0,Villarreal,2021-01-02 Villarreal-Levante,ESP-LALIGA,20-21,de88aaef
+1f079188,Rubén Peña,20,ESP,RB,29-168,90,0,0,0,0,0,0,0,0,47,0,1,1,0.0,0.0,0.1,2,0,37,42,88.1,2,21,0,1,1,Villarreal,2021-01-02 Villarreal-Levante,ESP-LALIGA,20-21,de88aaef
+9f0ea33f,Sergio Asenjo,1,ESP,GK,31-188,90,0,0,0,0,0,0,0,0,41,0,0,0,0.0,0.0,0.0,1,0,26,39,66.7,0,19,0,0,0,Villarreal,2021-01-02 Villarreal-Levante,ESP-LALIGA,20-21,de88aaef
+0e5ddc7c,Dani Gómez,21,ESP,FW,22-156,69,0,0,0,0,0,0,0,0,18,0,0,1,0.0,0.0,0.0,0,0,10,13,76.9,0,13,3,0,0,Levante,2021-01-02 Villarreal-Levante,ESP-LALIGA,20-21,de88aaef
+0a0cc13c,Sergio León,7,ESP,FW,31-362,21,1,0,0,0,2,1,0,0,8,0,0,0,0.1,0.1,0.0,0,0,3,3,100.0,0,6,0,0,0,Levante,2021-01-02 Villarreal-Levante,ESP-LALIGA,20-21,de88aaef
+0ae4e09a,Roger Martí,9,ESP,FW,29-365,90,0,0,0,0,2,0,0,0,42,1,1,0,0.1,0.1,0.0,1,0,20,32,62.5,3,22,0,0,0,Levante,2021-01-02 Villarreal-Levante,ESP-LALIGA,20-21,de88aaef
+d4ef9ac5,Toño,3,ESP,LW,31-056,69,0,0,0,0,0,0,0,0,45,1,1,0,0.0,0.0,0.0,1,0,30,41,73.2,2,25,0,0,0,Levante,2021-01-02 Villarreal-Levante,ESP-LALIGA,20-21,de88aaef
+7f4c7c9f,Jorge Miramón,20,ESP,LW,31-214,21,0,0,0,0,0,0,0,0,16,1,0,0,0.0,0.0,0.1,2,0,13,15,86.7,2,9,0,0,0,Levante,2021-01-02 Villarreal-Levante,ESP-LALIGA,20-21,de88aaef
+037dbd30,Son,2,ESP,RW,26-278,90,0,0,0,0,0,0,0,0,68,1,2,0,0.0,0.0,0.0,3,1,46,62,74.2,5,35,1,0,0,Levante,2021-01-02 Villarreal-Levante,ESP-LALIGA,20-21,de88aaef
+3902e91b,Gonzalo Melero,22,ESP,CM,27-000,62,0,0,0,0,0,0,0,0,35,0,1,0,0.0,0.0,0.0,2,0,27,30,90.0,3,22,0,0,0,Levante,2021-01-02 Villarreal-Levante,ESP-LALIGA,20-21,de88aaef
+4a478107,José Luis Morales,11,ESP,CM,33-163,28,0,0,0,0,1,0,0,0,17,0,0,0,0.1,0.1,0.2,2,0,12,13,92.3,2,11,1,3,1,Levante,2021-01-02 Villarreal-Levante,ESP-LALIGA,20-21,de88aaef
+ecd8c01e,Rubén Rochina,16,ESP,CM,29-285,28,0,0,0,0,0,0,0,0,21,1,1,1,0.0,0.0,0.0,0,0,13,16,81.3,1,10,0,1,1,Levante,2021-01-02 Villarreal-Levante,ESP-LALIGA,20-21,de88aaef
+bbc19252,Mickael Malsa,12,MTQ,CM,25-082,62,0,0,0,0,1,0,1,0,54,2,1,0,0.0,0.0,0.0,1,0,43,50,86.0,6,37,0,1,0,Levante,2021-01-02 Villarreal-Levante,ESP-LALIGA,20-21,de88aaef
+b5dd3469,Nemanja Radoja,5,SRB,DM,27-331,90,0,1,0,0,0,0,0,0,64,3,1,2,0.0,0.0,0.1,1,1,50,57,87.7,2,38,0,0,0,Levante,2021-01-02 Villarreal-Levante,ESP-LALIGA,20-21,de88aaef
+33a61a52,Carlos Clerc,19,ESP,CB,28-316,90,0,0,0,0,0,0,0,0,60,1,1,0,0.0,0.0,0.0,1,0,51,55,92.7,3,33,0,1,1,Levante,2021-01-02 Villarreal-Levante,ESP-LALIGA,20-21,de88aaef
+aa0ac32d,Óscar Duarte,6,CRC,CB,31-213,90,0,0,0,0,0,0,0,0,59,0,3,2,0.0,0.0,0.0,0,0,46,50,92.0,2,43,0,1,1,Levante,2021-01-02 Villarreal-Levante,ESP-LALIGA,20-21,de88aaef
+6d8f8441,Coke,23,ESP,CB,33-251,62,0,0,0,0,2,1,0,0,45,1,2,0,0.1,0.1,0.0,0,0,27,37,73.0,4,26,1,0,0,Levante,2021-01-02 Villarreal-Levante,ESP-LALIGA,20-21,de88aaef
+38ce1150,Jorge de Frutos,18,ESP,CB,23-317,28,0,0,0,0,1,0,0,0,14,0,0,0,0.1,0.1,0.1,1,0,6,11,54.5,2,10,2,0,0,Levante,2021-01-02 Villarreal-Levante,ESP-LALIGA,20-21,de88aaef
+a01c3d54,Aitor Fernández,13,ESP,GK,29-244,90,0,0,0,0,0,0,0,0,47,0,0,0,0.0,0.0,0.0,0,0,28,43,65.1,0,29,0,0,0,Levante,2021-01-02 Villarreal-Levante,ESP-LALIGA,20-21,de88aaef

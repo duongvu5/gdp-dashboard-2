@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+4c370d81,Roberto Firmino,9,BRA,FW,26-030,84,0,0,0,0,5,2,0,0,57,1,0,0,0.5,0.5,0.2,9,0,32,45,71.1,4,39,2,4,4,Liverpool,2017-11-01 Liverpool-NK Maribor,UCL,17-18,4fb0cded
+8b8e759d,Marko Grujić,16,SRB,FW,21-202,6,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,5,8,62.5,0,6,0,0,0,Liverpool,2017-11-01 Liverpool-NK Maribor,UCL,17-18,4fb0cded
+38c7feef,Alex Oxlade-Chamberlain,21,ENG,LW,24-078,90,0,0,0,0,3,0,0,0,57,2,1,1,0.2,0.2,0.2,5,0,35,47,74.5,4,39,0,5,3,Liverpool,2017-11-01 Liverpool-NK Maribor,UCL,17-18,4fb0cded
+e342ad68,Mohamed Salah,11,EGY,RW,25-139,73,1,0,0,0,7,3,0,0,43,1,1,0,0.8,0.8,0.1,5,0,19,27,70.4,1,28,1,2,1,Liverpool,2017-11-01 Liverpool-NK Maribor,UCL,17-18,4fb0cded
+1b7ec703,Daniel Sturridge,15,ENG,RW,28-061,17,1,0,0,0,1,1,0,0,12,0,0,0,0.4,0.4,0.0,0,0,9,10,90.0,0,6,1,1,0,Liverpool,2017-11-01 Liverpool-NK Maribor,UCL,17-18,4fb0cded
+eb58eef0,Georginio Wijnaldum,5,NED,LM,26-355,16,0,0,0,0,0,0,0,0,21,0,0,0,0.0,0.0,0.0,0,0,19,20,95.0,0,16,0,0,0,Liverpool,2017-11-01 Liverpool-NK Maribor,UCL,17-18,4fb0cded
+935e6b8f,Jordan Henderson,14,ENG,CM,27-137,74,0,0,0,0,1,0,0,0,100,0,0,2,0.0,0.0,0.0,1,0,91,97,93.8,12,75,1,0,0,Liverpool,2017-11-01 Liverpool-NK Maribor,UCL,17-18,4fb0cded
+a65ce836,Emre Can,23,GER,"LM,CM",23-293,90,1,0,0,0,2,1,0,0,102,4,0,0,0.1,0.1,0.4,4,1,80,90,88.9,9,75,5,1,1,Liverpool,2017-11-01 Liverpool-NK Maribor,UCL,17-18,4fb0cded
+2f90f6b8,James Milner,7,ENG,RM,31-301,90,0,1,0,1,0,0,0,0,109,3,1,0,0.8,0.0,0.2,7,2,82,102,80.4,20,66,5,4,3,Liverpool,2017-11-01 Liverpool-NK Maribor,UCL,17-18,4fb0cded
+11b9265b,Alberto Moreno,18,ESP,LB,25-119,90,0,1,0,0,0,0,0,0,113,3,0,0,0.0,0.0,0.8,1,0,103,110,93.6,13,76,2,1,0,Liverpool,2017-11-01 Liverpool-NK Maribor,UCL,17-18,4fb0cded
+008a6e6d,Ragnar Klavan,17,EST,CB,32-002,90,0,0,0,0,1,1,0,0,125,0,2,1,0.0,0.0,0.0,2,0,110,118,93.2,7,90,0,0,0,Liverpool,2017-11-01 Liverpool-NK Maribor,UCL,17-18,4fb0cded
+b217ef29,Joël Matip,32,CMR,CB,26-085,90,0,0,0,0,0,0,0,0,128,2,2,0,0.0,0.0,0.0,1,1,115,121,95.0,10,96,1,0,0,Liverpool,2017-11-01 Liverpool-NK Maribor,UCL,17-18,4fb0cded
+cd1acf9d,Trent Alexander-Arnold,66,ENG,RB,19-025,90,0,1,0,0,2,0,0,0,132,3,3,0,0.1,0.1,0.1,6,1,101,120,84.2,16,81,7,3,1,Liverpool,2017-11-01 Liverpool-NK Maribor,UCL,17-18,4fb0cded
+32e7ce92,Loris Karius,1,GER,GK,24-132,90,0,0,0,0,0,0,0,0,15,0,0,0,0.0,0.0,0.0,0,0,12,13,92.3,0,5,0,0,0,Liverpool,2017-11-01 Liverpool-NK Maribor,UCL,17-18,4fb0cded
+489a73e9,Jasmin Mešanović,27,BIH,FW,25-133,58,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,0,0,6,8,75.0,1,7,0,1,1,NK Maribor,2017-11-01 Liverpool-NK Maribor,UCL,17-18,4fb0cded
+9d73993b,Marcos Tavares,9,BRA,FW,33-216,32,0,0,0,0,1,0,0,0,18,0,0,1,0.1,0.1,0.0,2,0,8,11,72.7,1,12,1,2,1,NK Maribor,2017-11-01 Liverpool-NK Maribor,UCL,17-18,4fb0cded
+4d1cea6a,Damjan Bohar,39,SVN,LM,26-014,68,0,0,0,0,0,0,1,0,21,1,0,0,0.0,0.0,0.1,1,0,8,13,61.5,0,9,2,1,1,NK Maribor,2017-11-01 Liverpool-NK Maribor,UCL,17-18,4fb0cded
+ae8ec371,Gregor Bajde,20,SVN,LM,23-186,22,0,0,0,0,0,0,0,0,12,2,0,0,0.0,0.0,0.1,2,0,7,7,100.0,1,9,1,1,1,NK Maribor,2017-11-01 Liverpool-NK Maribor,UCL,17-18,4fb0cded
+f864af2c,Aleks Pihler,6,SVN,CM,23-290,90,0,0,0,0,0,0,0,0,49,1,0,3,0.0,0.0,0.0,1,0,36,41,87.8,4,16,0,0,0,NK Maribor,2017-11-01 Liverpool-NK Maribor,UCL,17-18,4fb0cded
+3e6b69c2,Marwan Kabha,8,ISR,CM,26-251,90,0,0,0,0,0,0,0,0,47,1,0,2,0.0,0.0,0.0,0,0,28,33,84.8,2,20,1,2,2,NK Maribor,2017-11-01 Liverpool-NK Maribor,UCL,17-18,4fb0cded
+a4aa453f,Dino Hotić,10,BIH,RM,22-098,80,0,0,0,0,0,0,0,0,28,0,1,1,0.0,0.0,0.1,2,0,15,18,83.3,3,19,3,4,2,NK Maribor,2017-11-01 Liverpool-NK Maribor,UCL,17-18,4fb0cded
+5d91cf0f,Valon Ahmedi,7,ALB,RM,23-025,10,0,0,0,0,0,0,0,0,4,2,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,1,0,0,0,NK Maribor,2017-11-01 Liverpool-NK Maribor,UCL,17-18,4fb0cded
+df324174,Mitja Viler,28,SVN,LB,31-061,90,0,0,0,0,0,0,0,0,67,1,0,4,0.0,0.0,0.0,0,0,27,45,60.0,1,25,0,1,1,NK Maribor,2017-11-01 Liverpool-NK Maribor,UCL,17-18,4fb0cded
+b20ce5eb,Marko Šuler,4,SVN,CB,34-237,90,0,0,0,0,0,0,0,0,28,0,1,2,0.0,0.0,0.0,0,0,14,15,93.3,1,9,0,0,0,NK Maribor,2017-11-01 Liverpool-NK Maribor,UCL,17-18,4fb0cded
+27c8e860,Aleksander Rajčević,26,SVN,CB,30-349,90,0,0,0,0,0,0,1,0,31,1,0,2,0.0,0.0,0.0,0,0,15,17,88.2,0,7,0,0,0,NK Maribor,2017-11-01 Liverpool-NK Maribor,UCL,17-18,4fb0cded
+a3e1d20d,Jean-Claude Billong,3,CMR,CB,23-308,90,0,0,0,0,1,0,0,0,36,2,2,1,0.1,0.1,0.0,0,0,17,19,89.5,1,11,0,0,0,NK Maribor,2017-11-01 Liverpool-NK Maribor,UCL,17-18,4fb0cded
+7a69c649,Martin Milec,22,SVN,RB,26-042,90,0,0,0,0,3,1,0,0,59,3,3,0,0.1,0.1,0.0,0,0,33,46,71.7,2,20,1,1,1,NK Maribor,2017-11-01 Liverpool-NK Maribor,UCL,17-18,4fb0cded
+bc1f61c9,Jasmin Handanović,33,SVN,GK,39-277,90,0,0,0,0,0,0,0,0,41,0,0,0,0.0,0.0,0.0,0,0,22,36,61.1,0,19,0,0,0,NK Maribor,2017-11-01 Liverpool-NK Maribor,UCL,17-18,4fb0cded

@@ -1,0 +1,31 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+8b788c01,Anthony Martial,9,FRA,FW,24-221,90,1,1,0,0,4,2,0,0,34,1,0,1,0.6,0.6,0.9,6,2,17,19,89.5,1,26,3,6,5,Manchester United,2020-07-13 Manchester Utd-Southampton,ENG-EPL,19-20,668c9423
+a1d5bd30,Marcus Rashford,10,ENG,LW,22-256,90,1,0,0,0,3,1,0,0,50,0,0,1,0.9,0.9,0.0,1,0,28,40,70.0,6,42,5,2,2,Manchester United,2020-07-13 Manchester Utd-Southampton,ENG-EPL,19-20,668c9423
+58eee997,Mason Greenwood,26,ENG,RW,18-286,83,0,0,0,0,0,0,0,0,25,0,0,2,0.0,0.0,0.0,1,0,18,20,90.0,0,20,0,2,1,Manchester United,2020-07-13 Manchester Utd-Southampton,ENG-EPL,19-20,668c9423
+c931d9f9,Daniel James,21,WAL,RW,22-246,7,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Manchester United,2020-07-13 Manchester Utd-Southampton,ENG-EPL,19-20,668c9423
+507c7bdf,Bruno Fernandes,18,POR,AM,25-309,83,0,1,0,0,0,0,0,0,52,0,2,1,0.0,0.0,0.1,2,1,28,44,63.6,9,34,0,1,1,Manchester United,2020-07-13 Manchester Utd-Southampton,ENG-EPL,19-20,668c9423
+d93c2511,Scott McTominay,39,SCO,DM,23-218,7,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,1,0,0,0,Manchester United,2020-07-13 Manchester Utd-Southampton,ENG-EPL,19-20,668c9423
+eb7822d7,Nemanja Matić,31,SRB,DM,31-347,90,0,0,0,0,0,0,0,0,75,5,2,1,0.0,0.0,0.0,1,0,51,60,85.0,2,52,0,0,0,Manchester United,2020-07-13 Manchester Utd-Southampton,ENG-EPL,19-20,668c9423
+867239d3,Paul Pogba,6,FRA,DM,27-120,62,0,0,0,0,1,1,0,0,45,0,0,0,0.0,0.0,0.0,2,1,28,37,75.7,2,41,1,3,2,Manchester United,2020-07-13 Manchester Utd-Southampton,ENG-EPL,19-20,668c9423
+b853e0ad,Fred,17,BRA,"DM,AM",27-130,28,0,0,0,0,0,0,0,0,12,0,0,0,0.0,0.0,0.0,0,0,7,9,77.8,1,7,0,0,0,Manchester United,2020-07-13 Manchester Utd-Southampton,ENG-EPL,19-20,668c9423
+9c94165b,Luke Shaw,23,ENG,LB,25-001,74,0,0,0,0,0,0,0,0,65,1,0,2,0.0,0.0,0.0,1,0,48,58,82.8,7,41,2,2,2,Manchester United,2020-07-13 Manchester Utd-Southampton,ENG-EPL,19-20,668c9423
+5e74d6c8,Brandon Williams,53,ENG,LB,19-314,16,0,0,0,0,0,0,0,0,8,1,1,0,0.0,0.0,0.0,0,0,1,4,25.0,0,3,0,0,0,Manchester United,2020-07-13 Manchester Utd-Southampton,ENG-EPL,19-20,668c9423
+d8931174,Harry Maguire,5,ENG,CB,27-130,90,0,0,0,0,0,0,0,0,68,0,2,0,0.0,0.0,0.0,0,0,51,63,81.0,1,51,0,0,0,Manchester United,2020-07-13 Manchester Utd-Southampton,ENG-EPL,19-20,668c9423
+f5deef4c,Victor Lindelöf,2,SWE,CB,25-362,90,0,0,0,0,0,0,0,0,76,1,3,0,0.0,0.0,0.0,0,0,51,65,78.5,6,51,1,0,0,Manchester United,2020-07-13 Manchester Utd-Southampton,ENG-EPL,19-20,668c9423
+9e525177,Aaron Wan-Bissaka,29,ENG,RB,22-230,90,0,0,0,0,0,0,1,0,71,4,0,2,0.0,0.0,0.0,0,0,45,57,78.9,4,33,2,4,2,Manchester United,2020-07-13 Manchester Utd-Southampton,ENG-EPL,19-20,668c9423
+7ba6d84e,David de Gea,1,ESP,GK,29-249,90,0,0,0,0,0,0,0,0,29,0,0,0,0.0,0.0,0.0,0,0,22,28,78.6,0,22,0,0,0,Manchester United,2020-07-13 Manchester Utd-Southampton,ENG-EPL,19-20,668c9423
+f2bf1b0f,Che Adams,10,SCO,FW,24-000,63,0,0,0,0,0,0,0,0,23,2,0,1,0.0,0.0,0.0,2,0,8,16,50.0,1,16,4,4,3,Southampton,2020-07-13 Manchester Utd-Southampton,ENG-EPL,19-20,668c9423
+9f472354,Shane Long,7,IRL,FW,33-173,27,0,0,0,0,1,1,0,0,10,0,1,0,0.1,0.1,0.0,0,0,4,7,57.1,0,3,0,0,0,Southampton,2020-07-13 Manchester Utd-Southampton,ENG-EPL,19-20,668c9423
+07802f7f,Danny Ings,9,ENG,FW,27-356,90,0,0,0,0,1,0,0,0,32,1,0,1,0.1,0.1,0.0,2,1,19,22,86.4,2,20,2,5,3,Southampton,2020-07-13 Manchester Utd-Southampton,ENG-EPL,19-20,668c9423
+ab651565,Nathan Redmond,22,ENG,LM,26-129,90,0,1,0,0,2,1,0,0,70,3,2,2,0.1,0.1,0.5,3,1,43,56,76.8,5,35,8,1,1,Southampton,2020-07-13 Manchester Utd-Southampton,ENG-EPL,19-20,668c9423
+4b511457,Oriol Romeu,14,ESP,CM,28-293,86,0,0,0,0,0,0,0,0,63,1,3,1,0.0,0.0,0.0,2,0,54,57,94.7,8,27,0,0,0,Southampton,2020-07-13 Manchester Utd-Southampton,ENG-EPL,19-20,668c9423
+caa1a7f0,Michael Obafemi,20,IRL,RM,20-007,4,1,0,0,0,1,1,0,0,2,0,0,0,0.8,0.8,0.0,0,0,1,1,100.0,0,0,0,0,0,Southampton,2020-07-13 Manchester Utd-Southampton,ENG-EPL,19-20,668c9423
+3515d404,James Ward-Prowse,16,ENG,CM,25-255,90,0,0,0,0,0,0,1,0,73,3,2,1,0.0,0.0,0.1,1,0,49,62,79.0,5,33,0,1,0,Southampton,2020-07-13 Manchester Utd-Southampton,ENG-EPL,19-20,668c9423
+97333cf5,Stuart Armstrong,17,SCO,RM,28-105,68,1,0,0,0,2,2,0,0,30,0,0,0,0.5,0.5,0.1,3,0,18,23,78.3,3,16,0,1,1,Southampton,2020-07-13 Manchester Utd-Southampton,ENG-EPL,19-20,668c9423
+5e105217,William Smallbone,27,IRL,"RM,CM",20-143,22,0,0,0,0,0,0,0,0,15,0,0,0,0.0,0.0,0.0,0,0,13,15,86.7,1,4,1,0,0,Southampton,2020-07-13 Manchester Utd-Southampton,ENG-EPL,19-20,668c9423
+01226327,Ryan Bertrand,21,ENG,LB,30-343,90,0,0,0,0,0,0,0,0,73,0,0,2,0.0,0.0,0.0,1,0,53,68,77.9,3,33,4,0,0,Southampton,2020-07-13 Manchester Utd-Southampton,ENG-EPL,19-20,668c9423
+4115ce4e,Jan Bednarek,35,POL,CB,24-092,90,0,1,0,0,1,0,0,0,89,0,2,1,0.1,0.1,0.8,2,1,66,78,84.6,9,42,0,0,0,Southampton,2020-07-13 Manchester Utd-Southampton,ENG-EPL,19-20,668c9423
+6adbc307,Jack Stephens,5,ENG,CB,26-168,90,0,0,0,0,0,0,1,0,68,0,2,0,0.0,0.0,0.0,0,0,49,61,80.3,3,31,0,0,0,Southampton,2020-07-13 Manchester Utd-Southampton,ENG-EPL,19-20,668c9423
+984a5a64,Kyle Walker-Peters,24,ENG,RB,23-091,90,0,0,0,0,1,0,1,0,56,0,0,1,0.1,0.1,0.0,0,0,31,47,66.0,1,32,3,0,0,Southampton,2020-07-13 Manchester Utd-Southampton,ENG-EPL,19-20,668c9423
+36c2ca73,Alex McCarthy,1,ENG,GK,30-223,90,0,0,0,0,0,0,0,0,41,0,0,0,0.0,0.0,0.0,0,0,24,38,63.2,1,16,0,1,1,Southampton,2020-07-13 Manchester Utd-Southampton,ENG-EPL,19-20,668c9423

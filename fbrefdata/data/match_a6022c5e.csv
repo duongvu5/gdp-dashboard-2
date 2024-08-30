@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+a62c16d0,Paulinho,20,POR,FW,29-357,90,0,0,0,0,0,0,1,0,43,1,0,2,0.0,0.0,0.0,0,0,21,29,72.4,2,16,0,1,1,Sporting CP,2022-11-01 Sporting CP-Eint Frankfurt,UCL,22-23,a6022c5e
+184ad240,Arthur,33,BRA,"AM,WB",24-121,90,1,0,0,0,1,1,0,0,42,2,0,0,0.2,0.2,0.0,1,0,27,35,77.1,3,28,3,2,1,Sporting CP,2022-11-01 Sporting CP-Eint Frankfurt,UCL,22-23,a6022c5e
+57760e66,Marcus Edwards,10,ENG,AM,23-333,62,0,0,0,0,1,1,0,0,21,2,0,1,0.1,0.1,0.0,1,1,7,10,70.0,0,10,0,2,0,Sporting CP,2022-11-01 Sporting CP-Eint Frankfurt,UCL,22-23,a6022c5e
+77e39b04,Francisco Trincão,17,POR,AM,22-307,28,0,0,0,0,0,0,0,0,19,0,0,0,0.0,0.0,0.0,0,0,8,12,66.7,4,11,1,4,0,Sporting CP,2022-11-01 Sporting CP-Eint Frankfurt,UCL,22-23,a6022c5e
+c275947b,Pedro Gonçalves,28,POR,CM,24-126,90,0,0,0,0,0,0,0,0,62,5,2,3,0.0,0.0,0.0,2,0,32,47,68.1,4,35,1,0,0,Sporting CP,2022-11-01 Sporting CP-Eint Frankfurt,UCL,22-23,a6022c5e
+c9817014,Manuel Ugarte Ribeiro,15,URU,CM,21-204,62,0,0,0,0,0,0,0,0,33,4,1,1,0.0,0.0,0.0,0,0,21,23,91.3,1,16,0,3,3,Sporting CP,2022-11-01 Sporting CP-Eint Frankfurt,UCL,22-23,a6022c5e
+1e4319ac,Dario Essugo,84,POR,CM,17-232,28,0,0,0,0,0,0,0,0,17,2,0,1,0.0,0.0,0.0,0,0,7,10,70.0,1,10,0,1,1,Sporting CP,2022-11-01 Sporting CP-Eint Frankfurt,UCL,22-23,a6022c5e
+a6ee4f55,Nuno Santos,11,POR,WB,27-261,31,0,0,0,0,1,0,0,0,27,0,0,1,0.0,0.0,0.0,1,0,16,21,76.2,1,12,0,1,1,Sporting CP,2022-11-01 Sporting CP-Eint Frankfurt,UCL,22-23,a6022c5e
+ae1159bf,Matheus Reis,2,BRA,"WB,CB",27-256,59,0,0,0,0,0,0,1,0,41,1,0,1,0.0,0.0,0.2,1,0,31,37,83.8,1,22,0,0,0,Sporting CP,2022-11-01 Sporting CP-Eint Frankfurt,UCL,22-23,a6022c5e
+27d0a506,Pedro Porro,24,ESP,WB,23-049,90,0,0,0,0,0,0,0,0,74,7,1,4,0.0,0.0,0.0,1,0,33,52,63.5,3,37,1,5,0,Sporting CP,2022-11-01 Sporting CP-Eint Frankfurt,UCL,22-23,a6022c5e
+33651873,Gonçalo Inácio,25,POR,CB,21-068,90,0,0,0,0,1,0,1,0,75,2,0,1,0.2,0.2,0.0,0,0,60,66,90.9,6,53,2,5,5,Sporting CP,2022-11-01 Sporting CP-Eint Frankfurt,UCL,22-23,a6022c5e
+1fbbfbde,Sebastián Coates,4,URU,CB,32-025,90,0,0,0,0,0,0,0,0,55,2,1,0,0.0,0.0,0.0,0,0,35,44,79.5,4,28,0,1,1,Sporting CP,2022-11-01 Sporting CP-Eint Frankfurt,UCL,22-23,a6022c5e
+90339309,Jerry St. Juste,3,NED,CB,26-013,77,0,0,0,0,1,0,0,0,65,3,6,1,0.0,0.0,0.1,1,0,43,50,86.0,1,37,2,0,0,Sporting CP,2022-11-01 Sporting CP-Eint Frankfurt,UCL,22-23,a6022c5e
+e34e086c,Jovane Cabral,77,CPV,AM,24-140,13,0,0,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.0,0,0,6,8,75.0,1,8,0,0,0,Sporting CP,2022-11-01 Sporting CP-Eint Frankfurt,UCL,22-23,a6022c5e
+65d62814,Antonio Adán,1,ESP,GK,35-172,90,0,0,0,0,0,0,0,0,37,0,0,0,0.0,0.0,0.0,0,0,28,35,80.0,0,27,0,0,0,Sporting CP,2022-11-01 Sporting CP-Eint Frankfurt,UCL,22-23,a6022c5e
+c0b3669f,Randal Kolo Muani,9,FRA,FW,23-331,79,1,0,0,0,2,2,0,0,21,0,0,1,0.3,0.3,0.0,1,1,8,14,57.1,0,13,3,1,1,Eintracht Frankfurt,2022-11-01 Sporting CP-Eint Frankfurt,UCL,22-23,a6022c5e
+c68da769,Rafael Borré,19,COL,FW,27-047,11,0,0,0,0,0,0,0,0,6,1,0,0,0.0,0.0,0.0,0,0,2,4,50.0,0,4,0,0,0,Eintracht Frankfurt,2022-11-01 Sporting CP-Eint Frankfurt,UCL,22-23,a6022c5e
+9efa1d25,Mario Götze,27,GER,LW,30-151,89,0,0,0,0,0,0,0,0,73,2,0,0,0.0,0.0,0.1,2,0,49,65,75.4,7,40,7,2,0,Eintracht Frankfurt,2022-11-01 Sporting CP-Eint Frankfurt,UCL,22-23,a6022c5e
+00f518d8,Faride Alidou,11,GER,LW,21-106,1,0,0,0,0,0,0,0,0,2,1,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Eintracht Frankfurt,2022-11-01 Sporting CP-Eint Frankfurt,UCL,22-23,a6022c5e
+37dc1a48,Jesper Lindstrøm,29,DEN,RW,22-245,45,0,0,0,0,0,0,0,0,16,0,1,0,0.0,0.0,0.0,0,0,9,10,90.0,1,8,0,2,1,Eintracht Frankfurt,2022-11-01 Sporting CP-Eint Frankfurt,UCL,22-23,a6022c5e
+e12b0b5b,Sebastian Rode,17,GER,CM,32-021,45,0,0,0,0,0,0,0,0,41,5,0,0,0.0,0.0,0.0,0,0,28,34,82.4,3,20,2,1,0,Eintracht Frankfurt,2022-11-01 Sporting CP-Eint Frankfurt,UCL,22-23,a6022c5e
+3b61c9ec,Luca Pellegrini,33,ITA,LM,23-239,90,0,0,0,0,1,0,1,0,68,4,0,1,0.0,0.0,0.1,2,0,34,54,63.0,5,20,1,5,0,Eintracht Frankfurt,2022-11-01 Sporting CP-Eint Frankfurt,UCL,22-23,a6022c5e
+15b287da,Daichi Kamada,15,JPN,"RW,CM",26-088,90,1,0,1,1,0,0,1,0,67,2,3,1,0.8,0.0,0.0,1,0,38,48,79.2,5,27,1,3,0,Eintracht Frankfurt,2022-11-01 Sporting CP-Eint Frankfurt,UCL,22-23,a6022c5e
+4c6facae,Djibril Sow,8,SUI,CM,25-268,90,0,0,0,0,0,0,1,0,77,2,1,0,0.0,0.0,0.0,2,0,64,72,88.9,7,27,4,0,0,Eintracht Frankfurt,2022-11-01 Sporting CP-Eint Frankfurt,UCL,22-23,a6022c5e
+95bb6ddc,Junior Dina Ebimbe,26,FRA,RM,21-345,68,0,0,0,0,0,0,0,0,25,1,0,0,0.0,0.0,0.0,0,0,15,19,78.9,1,10,0,3,0,Eintracht Frankfurt,2022-11-01 Sporting CP-Eint Frankfurt,UCL,22-23,a6022c5e
+19a967ab,Ansgar Knauff,36,GER,RM,20-295,22,0,1,0,0,0,0,0,0,13,3,0,0,0.0,0.0,0.2,1,1,8,11,72.7,2,5,1,0,0,Eintracht Frankfurt,2022-11-01 Sporting CP-Eint Frankfurt,UCL,22-23,a6022c5e
+441197b8,Obite N'Dicka,2,CIV,CB,23-073,90,0,0,0,0,1,0,0,0,76,3,1,1,0.0,0.0,0.0,1,1,53,65,81.5,3,21,1,0,0,Eintracht Frankfurt,2022-11-01 Sporting CP-Eint Frankfurt,UCL,22-23,a6022c5e
+a8ee54ad,Kristijan Jakić,6,CRO,CB,25-171,79,0,0,0,0,0,0,1,0,83,3,0,0,0.0,0.0,0.0,0,0,66,76,86.8,2,34,0,1,0,Eintracht Frankfurt,2022-11-01 Sporting CP-Eint Frankfurt,UCL,22-23,a6022c5e
+c967f6b8,Hrvoje Smolčić,5,CRO,CB,22-076,11,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,3,4,75.0,1,0,0,0,0,Eintracht Frankfurt,2022-11-01 Sporting CP-Eint Frankfurt,UCL,22-23,a6022c5e
+35d64857,Tuta,35,BRA,CB,23-120,90,0,0,0,0,1,1,0,0,66,4,1,1,0.1,0.1,0.0,1,0,42,54,77.8,3,18,1,0,0,Eintracht Frankfurt,2022-11-01 Sporting CP-Eint Frankfurt,UCL,22-23,a6022c5e
+ce17b5eb,Kevin Trapp,1,GER,GK,32-116,90,0,0,0,0,0,0,0,0,24,0,0,0,0.0,0.0,0.0,0,0,18,23,78.3,0,10,0,0,0,Eintracht Frankfurt,2022-11-01 Sporting CP-Eint Frankfurt,UCL,22-23,a6022c5e

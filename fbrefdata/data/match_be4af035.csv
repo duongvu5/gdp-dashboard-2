@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+8d78e732,Robert Lewandowski,9,POL,FW,29-022,90,1,0,1,1,6,2,0,0,36,1,0,0,1.4,0.6,0.0,5,1,22,26,84.6,2,25,1,2,0,Bayern Munich,2017-09-12 Bayern Munich-Anderlecht,UCL,17-18,be4af035
+f61c7c4e,Franck Ribéry,7,FRA,LW,34-158,77,0,0,0,0,0,0,1,0,98,0,0,0,0.0,0.0,0.5,8,0,79,91,86.8,8,74,16,7,3,Bayern Munich,2017-09-12 Bayern Munich-Anderlecht,UCL,17-18,be4af035
+3c6089ab,Thomas Müller,25,GER,LW,27-364,13,0,0,0,0,1,0,0,0,13,1,0,0,0.1,0.1,0.1,2,0,10,11,90.9,4,9,0,0,0,Bayern Munich,2017-09-12 Bayern Munich-Anderlecht,UCL,17-18,be4af035
+09586899,Arjen Robben,10,NED,RW,33-232,90,0,0,0,0,6,1,0,0,68,0,1,1,0.8,0.8,0.1,4,0,44,56,78.6,7,49,2,3,1,Bayern Munich,2017-09-12 Bayern Munich-Anderlecht,UCL,17-18,be4af035
+715bf047,James Rodríguez,11,COL,AM,26-062,84,0,0,0,0,4,2,0,0,94,1,1,3,0.4,0.4,0.7,7,0,70,85,82.4,15,63,4,0,0,Bayern Munich,2017-09-12 Bayern Munich-Anderlecht,UCL,17-18,be4af035
+042e8a49,Kingsley Coman,29,FRA,AM,21-091,6,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,4,4,100.0,1,5,1,1,1,Bayern Munich,2017-09-12 Bayern Munich-Anderlecht,UCL,17-18,be4af035
+77e84962,Thiago Alcántara,6,ESP,DM,26-154,90,1,0,0,0,2,1,0,0,133,9,1,1,0.4,0.4,0.4,8,0,110,118,93.2,18,70,1,3,1,Bayern Munich,2017-09-12 Bayern Munich-Anderlecht,UCL,17-18,be4af035
+652d4c37,Corentin Tolisso,24,FRA,DM,23-040,90,0,0,0,0,4,1,1,0,110,0,1,2,0.1,0.1,0.1,7,2,92,100,92.0,13,70,1,1,1,Bayern Munich,2017-09-12 Bayern Munich-Anderlecht,UCL,17-18,be4af035
+d003e213,Rafinha,13,BRA,LB,32-005,90,0,0,0,0,1,0,0,0,118,6,4,1,0.0,0.0,0.0,6,0,96,106,90.6,17,57,2,0,0,Bayern Munich,2017-09-12 Bayern Munich-Anderlecht,UCL,17-18,be4af035
+e33c06cf,Niklas Süle,4,GER,CB,22-009,90,0,0,0,0,2,1,0,0,52,2,2,0,0.1,0.1,0.0,0,0,42,45,93.3,2,18,0,0,0,Bayern Munich,2017-09-12 Bayern Munich-Anderlecht,UCL,17-18,be4af035
+7f97771d,Javi Martínez,8,ESP,CB,29-010,76,0,0,0,0,1,1,0,0,50,1,1,0,0.1,0.1,0.0,1,0,34,39,87.2,5,16,0,0,0,Bayern Munich,2017-09-12 Bayern Munich-Anderlecht,UCL,17-18,be4af035
+2db2fd7b,Jérôme Boateng,17,GER,CB,29-009,14,0,1,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.8,1,1,8,10,80.0,1,6,0,0,0,Bayern Munich,2017-09-12 Bayern Munich-Anderlecht,UCL,17-18,be4af035
+49296448,Joshua Kimmich,32,GER,RB,22-216,90,1,1,0,0,1,1,0,0,86,1,1,2,0.8,0.8,0.4,3,2,67,80,83.8,6,57,1,2,1,Bayern Munich,2017-09-12 Bayern Munich-Anderlecht,UCL,17-18,be4af035
+8778c910,Manuel Neuer,1,GER,GK,31-169,90,0,0,0,0,0,0,0,0,24,0,0,0,0.0,0.0,0.0,0,0,22,24,91.7,0,14,0,0,0,Bayern Munich,2017-09-12 Bayern Munich-Anderlecht,UCL,17-18,be4af035
+7e81a17d,Łukasz Teodorczyk,91,POL,FW,26-101,83,0,0,0,0,1,0,0,0,43,0,0,2,0.1,0.1,0.0,1,0,22,34,64.7,2,22,0,3,0,Anderlecht,2017-09-12 Bayern Munich-Anderlecht,UCL,17-18,be4af035
+fe4a25be,Hamdi Harbaoui,99,TUN,FW,32-250,7,0,0,0,0,0,0,0,0,6,0,1,0,0.0,0.0,0.0,0,0,3,4,75.0,0,1,0,0,0,Anderlecht,2017-09-12 Bayern Munich-Anderlecht,UCL,17-18,be4af035
+ebc49727,Sofiane Hanni,94,ALG,LM,26-257,90,0,0,0,0,0,0,0,0,38,0,2,2,0.0,0.0,0.6,4,0,21,27,77.8,2,18,2,1,0,Anderlecht,2017-09-12 Bayern Munich-Anderlecht,UCL,17-18,be4af035
+ad1d334f,Adrien Trebel,25,FRA,CM,26-193,90,0,0,0,0,1,1,1,0,44,1,3,3,0.0,0.0,0.0,0,0,22,31,71.0,3,25,1,1,1,Anderlecht,2017-09-12 Bayern Munich-Anderlecht,UCL,17-18,be4af035
+5a7301ae,Leander Dendoncker,32,BEL,CM,22-150,90,0,0,0,0,1,0,0,0,30,1,1,0,0.0,0.0,0.2,3,0,21,23,91.3,3,16,2,1,1,Anderlecht,2017-09-12 Bayern Munich-Anderlecht,UCL,17-18,be4af035
+e07c2923,Nicolae Stanciu,10,ROU,RM,24-128,58,0,0,0,0,2,0,1,0,18,2,0,0,0.2,0.2,0.0,1,0,9,13,69.2,0,14,0,2,0,Anderlecht,2017-09-12 Bayern Munich-Anderlecht,UCL,17-18,be4af035
+e90dc1d5,Henry Onyekuru,9,NGA,RM,20-099,32,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,1,0,2,2,100.0,0,3,0,0,0,Anderlecht,2017-09-12 Bayern Munich-Anderlecht,UCL,17-18,be4af035
+f8280175,Andy Najar,7,HON,LB,24-180,25,0,0,0,0,0,0,0,0,9,1,0,0,0.0,0.0,0.0,0,0,5,8,62.5,0,3,1,1,1,Anderlecht,2017-09-12 Bayern Munich-Anderlecht,UCL,17-18,be4af035
+feb5d3ab,Dennis Appiah,12,FRA,LB,25-095,65,0,0,0,0,0,0,0,0,28,2,1,2,0.0,0.0,0.0,0,0,18,21,85.7,1,10,3,0,0,Anderlecht,2017-09-12 Bayern Munich-Anderlecht,UCL,17-18,be4af035
+a6997e06,Olivier Deschacht,3,BEL,CB,36-208,90,0,0,0,0,0,0,0,0,24,0,1,1,0.0,0.0,0.0,0,0,12,16,75.0,1,8,0,0,0,Anderlecht,2017-09-12 Bayern Munich-Anderlecht,UCL,17-18,be4af035
+83534f30,Sven Kums,20,BEL,CB,29-198,10,0,0,0,0,0,0,0,1,1,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,1,0,0,0,Anderlecht,2017-09-12 Bayern Munich-Anderlecht,UCL,17-18,be4af035
+02ce2030,Uroš Spajić,5,SRB,CB,24-211,90,0,0,0,0,0,0,0,0,32,1,4,2,0.0,0.0,0.0,0,0,11,14,78.6,0,4,0,0,0,Anderlecht,2017-09-12 Bayern Munich-Anderlecht,UCL,17-18,be4af035
+c9081f9a,Alexandru Chipciu,11,ROU,RB,28-117,90,0,0,0,0,1,0,0,0,49,5,4,0,0.5,0.5,0.0,1,0,25,38,65.8,2,19,6,3,2,Anderlecht,2017-09-12 Bayern Munich-Anderlecht,UCL,17-18,be4af035
+834b5c4c,Matz Sels,1,BEL,GK,25-198,90,0,0,0,0,0,0,0,0,44,0,0,0,0.0,0.0,0.0,0,0,16,38,42.1,0,17,0,0,0,Anderlecht,2017-09-12 Bayern Munich-Anderlecht,UCL,17-18,be4af035

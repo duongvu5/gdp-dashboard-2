@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+4c2e9442,Maxi Gómez,9,URU,FW,22-263,89,1,0,0,0,4,2,0,0,35,0,0,0,0.6,0.6,0.0,1,0,16,25,64.0,1,13,0,0,0,Celta Vigo,2019-05-04 Celta Vigo-Barcelona,ESP-LALIGA,18-19,f10c62ca
+ed5c5fa3,Fran Beltrán,8,ESP,AM,20-090,1,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,0,0,Celta Vigo,2019-05-04 Celta Vigo-Barcelona,ESP-LALIGA,18-19,f10c62ca
+7dcf86f6,Iago Aspas,10,ESP,FW,31-276,90,1,0,1,1,1,0,0,0,39,3,0,1,0.9,0.1,0.1,4,0,27,30,90.0,2,18,5,2,1,Celta Vigo,2019-05-04 Celta Vigo-Barcelona,ESP-LALIGA,18-19,f10c62ca
+b0c71810,Sofiane Boufal,19,MAR,LM,25-229,70,0,0,0,0,2,0,1,0,32,1,1,1,0.1,0.1,0.2,6,0,13,19,68.4,0,19,5,6,4,Celta Vigo,2019-05-04 Celta Vigo-Barcelona,ESP-LALIGA,18-19,f10c62ca
+c9e39d91,Brais Méndez,23,ESP,"RM,RW",22-117,20,0,0,0,0,1,0,0,0,8,0,0,1,0.0,0.0,0.0,2,1,6,6,100.0,0,2,0,0,0,Celta Vigo,2019-05-04 Celta Vigo-Barcelona,ESP-LALIGA,18-19,f10c62ca
+e1cbb531,Stanislav Lobotka,14,SVK,"CM,DM",24-160,90,0,0,0,0,0,0,0,0,32,0,2,1,0.0,0.0,0.0,0,0,28,30,93.3,3,17,1,0,0,Celta Vigo,2019-05-04 Celta Vigo-Barcelona,ESP-LALIGA,18-19,f10c62ca
+e49ce451,Okay Yokuşlu,5,TUR,"CM,DM",25-056,90,0,0,0,0,1,1,0,0,38,2,2,3,0.0,0.0,0.0,0,0,25,29,86.2,2,13,0,0,0,Celta Vigo,2019-05-04 Celta Vigo-Barcelona,ESP-LALIGA,18-19,f10c62ca
+1001ae82,Ryad Boudebouz,24,ALG,"RM,LM",29-074,84,0,1,0,0,1,0,0,0,48,0,0,1,0.1,0.1,0.5,6,1,28,42,66.7,6,26,1,1,0,Celta Vigo,2019-05-04 Celta Vigo-Barcelona,ESP-LALIGA,18-19,f10c62ca
+9b337c7c,Jozabed,21,ESP,"LM,LW",28-057,6,0,0,0,0,0,0,0,0,2,0,0,1,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,0,0,Celta Vigo,2019-05-04 Celta Vigo-Barcelona,ESP-LALIGA,18-19,f10c62ca
+4cee5954,Lucas Olaza,15,URU,LB,24-287,90,0,0,0,0,0,0,0,0,43,2,0,1,0.0,0.0,0.0,0,0,24,38,63.2,3,18,1,0,0,Celta Vigo,2019-05-04 Celta Vigo-Barcelona,ESP-LALIGA,18-19,f10c62ca
+27a013f7,Néstor Araujo,4,MEX,CB,27-248,90,0,0,0,0,2,1,0,0,38,2,0,0,0.1,0.1,0.1,1,0,27,29,93.1,2,16,0,0,0,Celta Vigo,2019-05-04 Celta Vigo-Barcelona,ESP-LALIGA,18-19,f10c62ca
+92b4a127,Gustavo Cabral,22,ARG,CB,33-202,90,0,0,0,0,1,1,0,0,49,0,1,2,0.1,0.1,0.0,1,0,31,33,93.9,0,21,0,0,0,Celta Vigo,2019-05-04 Celta Vigo-Barcelona,ESP-LALIGA,18-19,f10c62ca
+cb574619,Hugo Mallo,2,ESP,RB,27-316,90,0,0,0,0,0,0,0,0,57,3,0,1,0.0,0.0,0.1,3,1,37,46,80.4,6,23,4,0,0,Celta Vigo,2019-05-04 Celta Vigo-Barcelona,ESP-LALIGA,18-19,f10c62ca
+967f34d3,Rubén Blanco,13,ESP,GK,23-283,90,0,0,0,0,0,0,0,0,27,0,0,0,0.0,0.0,0.1,1,0,20,26,76.9,0,8,0,0,0,Celta Vigo,2019-05-04 Celta Vigo-Barcelona,ESP-LALIGA,18-19,f10c62ca
+f4ec4fd0,Kevin-Prince Boateng,19,GHA,FW,32-059,90,0,0,0,0,0,0,1,0,38,0,0,1,0.0,0.0,0.0,1,0,25,32,78.1,1,26,0,0,0,Barcelona,2019-05-04 Celta Vigo-Barcelona,ESP-LALIGA,18-19,f10c62ca
+6853490f,Malcom,14,BRA,"LW,RW",22-067,90,0,0,0,0,1,0,0,0,56,0,0,0,0.0,0.0,0.1,2,0,40,48,83.3,4,40,3,4,2,Barcelona,2019-05-04 Celta Vigo-Barcelona,ESP-LALIGA,18-19,f10c62ca
+b19db005,Ousmane Dembélé,11,FRA,RW,21-354,5,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,3,0,1,0,Barcelona,2019-05-04 Celta Vigo-Barcelona,ESP-LALIGA,18-19,f10c62ca
+85dace26,Álex Collado,34,ESP,"RW,LW",20-012,85,0,0,0,0,2,0,0,0,42,1,0,3,0.1,0.1,0.0,0,0,25,30,83.3,1,31,3,1,0,Barcelona,2019-05-04 Celta Vigo-Barcelona,ESP-LALIGA,18-19,f10c62ca
+6c811eb7,Carles Aleñá,21,ESP,LM,21-119,90,0,0,0,0,3,0,0,0,86,1,0,0,0.2,0.2,0.0,2,0,73,80,91.3,8,62,2,1,0,Barcelona,2019-05-04 Celta Vigo-Barcelona,ESP-LALIGA,18-19,f10c62ca
+48b3dd60,Arthur Melo,8,BRA,CM,22-265,61,0,0,0,0,0,0,0,0,51,0,0,0,0.0,0.0,0.0,0,0,43,44,97.7,6,35,0,3,1,Barcelona,2019-05-04 Celta Vigo-Barcelona,ESP-LALIGA,18-19,f10c62ca
+67cdbc0e,Arturo Vidal,22,CHI,CM,31-347,29,0,0,0,0,1,0,1,0,30,0,0,0,0.0,0.0,0.0,0,0,27,29,93.1,3,20,0,0,0,Barcelona,2019-05-04 Celta Vigo-Barcelona,ESP-LALIGA,18-19,f10c62ca
+f090a37a,Riqui Puig,28,ESP,RM,19-264,90,0,0,0,0,0,0,0,0,71,1,0,0,0.0,0.0,0.1,2,0,62,67,92.5,11,52,4,1,0,Barcelona,2019-05-04 Celta Vigo-Barcelona,ESP-LALIGA,18-19,f10c62ca
+d0d79694,Thomas Vermaelen,24,BEL,LB,33-171,90,0,0,0,0,0,0,1,0,79,1,1,1,0.0,0.0,0.0,0,0,68,71,95.8,1,31,2,0,0,Barcelona,2019-05-04 Celta Vigo-Barcelona,ESP-LALIGA,18-19,f10c62ca
+3eed9821,Samuel Umtiti,23,FRA,CB,25-171,90,0,0,0,0,0,0,1,0,91,0,1,3,0.0,0.0,0.0,0,0,77,83,92.8,2,67,0,1,1,Barcelona,2019-05-04 Celta Vigo-Barcelona,ESP-LALIGA,18-19,f10c62ca
+88f130ed,Jean-Clair Todibo,6,FRA,CB,19-125,67,0,0,0,0,0,0,1,0,57,0,1,0,0.0,0.0,0.0,1,0,44,50,88.0,4,40,0,2,1,Barcelona,2019-05-04 Celta Vigo-Barcelona,ESP-LALIGA,18-19,f10c62ca
+b233e8e4,Jeison Murillo,17,COL,CB,26-342,23,0,0,0,0,0,0,0,0,30,1,0,0,0.0,0.0,0.0,0,0,25,27,92.6,0,17,1,0,0,Barcelona,2019-05-04 Celta Vigo-Barcelona,ESP-LALIGA,18-19,f10c62ca
+808df563,Moussa Wagué,40,SEN,RB,20-212,90,0,0,0,0,1,1,0,0,70,3,0,1,0.1,0.1,0.1,6,0,50,63,79.4,4,42,4,3,3,Barcelona,2019-05-04 Celta Vigo-Barcelona,ESP-LALIGA,18-19,f10c62ca
+04ac8285,Jasper Cillessen,13,NED,GK,30-012,90,0,0,0,0,0,0,0,0,35,0,0,0,0.0,0.0,0.0,0,0,25,31,80.6,0,16,0,0,0,Barcelona,2019-05-04 Celta Vigo-Barcelona,ESP-LALIGA,18-19,f10c62ca

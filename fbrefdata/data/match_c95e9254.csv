@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+9efa1d25,Mario Götze,10,GER,FW,27-155,63,0,1,0,0,1,1,0,0,52,2,0,0,0.1,0.1,0.6,7,1,40,47,85.1,8,44,0,0,0,Dortmund,2019-11-05 Dortmund-Inter,UCL,19-20,c95e9254
+a7a9d95a,Paco Alcácer,9,ESP,FW,26-067,27,0,1,0,0,1,0,0,0,5,0,2,0,0.6,0.6,0.2,1,1,2,2,100.0,0,2,0,0,0,Dortmund,2019-11-05 Dortmund-Inter,UCL,19-20,c95e9254
+50871bcc,Thorgan Hazard,23,BEL,LW,26-221,87,0,0,0,0,3,1,1,0,70,2,0,0,0.7,0.7,0.1,7,1,46,57,80.7,7,50,5,3,2,Dortmund,2019-11-05 Dortmund-Inter,UCL,19-20,c95e9254
+048a1cbc,Raphaël Guerreiro,13,POR,LW,25-318,3,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,7,9,77.8,0,8,0,0,0,Dortmund,2019-11-05 Dortmund-Inter,UCL,19-20,c95e9254
+dbf053da,Jadon Sancho,7,ENG,RW,19-225,81,0,1,0,0,3,1,0,0,79,0,1,0,0.1,0.1,0.6,5,1,57,68,83.8,5,60,5,9,6,Dortmund,2019-11-05 Dortmund-Inter,UCL,19-20,c95e9254
+fe2db476,Łukasz Piszczek,26,POL,RB,34-155,9,0,0,0,0,0,0,0,0,11,1,0,0,0.0,0.0,0.0,0,0,9,9,100.0,1,5,0,0,0,Dortmund,2019-11-05 Dortmund-Inter,UCL,19-20,c95e9254
+a167537f,Julian Brandt,19,GER,AM,23-187,90,1,0,0,0,4,1,0,0,68,0,0,0,0.4,0.4,0.8,7,0,51,60,85.0,9,49,7,3,3,Dortmund,2019-11-05 Dortmund-Inter,UCL,19-20,c95e9254
+346d51d9,Julian Weigl,33,GER,DM,24-058,90,0,0,0,0,0,0,0,0,108,4,2,3,0.0,0.0,0.0,0,0,83,92,90.2,10,63,0,0,0,Dortmund,2019-11-05 Dortmund-Inter,UCL,19-20,c95e9254
+5dfc6ad5,Axel Witsel,28,BEL,DM,30-297,90,0,0,0,0,2,0,0,0,105,0,1,1,0.1,0.1,0.0,4,0,87,97,89.7,11,84,3,1,1,Dortmund,2019-11-05 Dortmund-Inter,UCL,19-20,c95e9254
+fa274d97,Nico Schulz,14,GER,LB,26-218,90,0,0,0,0,1,0,0,0,69,0,0,1,0.3,0.3,0.1,2,0,58,63,92.1,5,45,3,0,0,Dortmund,2019-11-05 Dortmund-Inter,UCL,19-20,c95e9254
+05d548d8,Mats Hummels,15,GER,CB,30-324,90,0,0,0,0,1,0,0,0,66,1,3,0,0.0,0.0,0.0,0,0,47,54,87.0,6,43,1,0,0,Dortmund,2019-11-05 Dortmund-Inter,UCL,19-20,c95e9254
+89ac64a6,Manuel Akanji,16,SUI,CB,24-109,90,0,0,0,0,1,0,0,0,76,3,3,1,0.1,0.1,0.0,0,0,57,63,90.5,5,43,0,0,0,Dortmund,2019-11-05 Dortmund-Inter,UCL,19-20,c95e9254
+e42d61c7,Achraf Hakimi,5,MAR,"RB,RW",21-001,90,2,0,0,0,4,2,0,0,98,1,0,0,1.1,1.1,0.7,7,1,77,90,85.6,8,56,9,2,1,Dortmund,2019-11-05 Dortmund-Inter,UCL,19-20,c95e9254
+9d12e142,Roman Bürki,1,SUI,GK,28-356,90,0,0,0,0,0,0,0,0,38,0,0,0,0.0,0.0,0.0,0,0,31,37,83.8,0,30,0,0,0,Dortmund,2019-11-05 Dortmund-Inter,UCL,19-20,c95e9254
+f7036e1c,Lautaro Martínez,10,ARG,FW,22-075,90,1,0,0,0,3,1,0,0,26,0,0,0,0.5,0.5,0.1,4,1,13,18,72.2,5,13,2,2,2,Internazionale,2019-11-05 Dortmund-Inter,UCL,19-20,c95e9254
+5eae500a,Romelu Lukaku,9,BEL,FW,26-176,72,0,0,0,0,2,0,0,0,23,1,0,0,0.4,0.4,0.0,1,0,11,17,64.7,0,9,1,1,0,Internazionale,2019-11-05 Dortmund-Inter,UCL,19-20,c95e9254
+5e861944,Matteo Politano,16,ITA,FW,26-094,18,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.1,1,0,4,5,80.0,0,7,1,2,0,Internazionale,2019-11-05 Dortmund-Inter,UCL,19-20,c95e9254
+9e1577aa,Cristiano Biraghi,34,ITA,LW,27-065,65,0,0,0,0,0,0,1,0,42,1,0,3,0.0,0.0,0.0,1,0,24,31,77.4,0,13,1,0,0,Internazionale,2019-11-05 Dortmund-Inter,UCL,19-20,c95e9254
+016ff750,Valentino Lazaro,19,AUT,RW,23-226,25,0,0,0,0,0,0,0,0,19,1,0,0,0.0,0.0,0.0,0,0,12,15,80.0,1,11,2,3,3,Internazionale,2019-11-05 Dortmund-Inter,UCL,19-20,c95e9254
+356c9002,Antonio Candreva,87,ITA,"RW,LW",32-250,90,0,1,0,0,0,0,1,0,61,0,2,1,0.0,0.0,0.4,3,1,35,52,67.3,1,35,5,2,2,Internazionale,2019-11-05 Dortmund-Inter,UCL,19-20,c95e9254
+6928979a,Nicolò Barella,23,ITA,CM,22-271,90,0,0,0,0,0,0,0,0,50,3,2,0,0.0,0.0,0.0,1,0,36,43,83.7,4,29,0,0,0,Internazionale,2019-11-05 Dortmund-Inter,UCL,19-20,c95e9254
+44ac04e9,Matías Vecino,8,URU,CM,28-073,67,1,0,0,0,1,1,0,0,39,0,4,1,0.3,0.3,0.4,2,1,17,28,60.7,1,20,1,2,1,Internazionale,2019-11-05 Dortmund-Inter,UCL,19-20,c95e9254
+b70bde8f,Stefano Sensi,12,ITA,CM,24-092,23,0,0,0,0,1,1,0,0,22,1,0,0,0.1,0.1,0.0,0,0,13,19,68.4,5,14,1,1,1,Internazionale,2019-11-05 Dortmund-Inter,UCL,19-20,c95e9254
+33b8d077,Marcelo Brozović,77,CRO,DM,26-354,90,0,0,0,0,2,1,0,0,86,4,2,1,0.1,0.1,0.0,2,0,65,70,92.9,5,52,0,2,2,Internazionale,2019-11-05 Dortmund-Inter,UCL,19-20,c95e9254
+30f5ffa9,Milan Škriniar,37,SVK,CB,24-267,90,0,0,0,0,0,0,1,0,71,2,5,1,0.0,0.0,0.0,1,0,49,60,81.7,1,46,0,0,0,Internazionale,2019-11-05 Dortmund-Inter,UCL,19-20,c95e9254
+d0d8dd44,Stefan de Vrij,6,NED,CB,27-273,90,0,0,0,0,0,0,0,0,55,2,1,1,0.0,0.0,0.0,0,0,39,42,92.9,0,30,0,0,0,Internazionale,2019-11-05 Dortmund-Inter,UCL,19-20,c95e9254
+fc4f85b1,Diego Godín,2,URU,CB,33-262,90,0,0,0,0,0,0,0,0,67,3,3,4,0.0,0.0,0.0,1,1,42,49,85.7,2,34,0,2,2,Internazionale,2019-11-05 Dortmund-Inter,UCL,19-20,c95e9254
+74419746,Samir Handanović,1,SVN,GK,35-114,90,0,0,0,0,0,0,0,0,43,0,0,0,0.0,0.0,0.0,0,0,34,39,87.2,0,21,0,1,1,Internazionale,2019-11-05 Dortmund-Inter,UCL,19-20,c95e9254

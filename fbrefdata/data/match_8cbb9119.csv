@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+32f60ed8,Morgan Gibbs-White,18,ENG,FW,20-351,63,0,0,0,0,0,0,0,0,35,0,2,0,0.0,0.0,0.0,2,0,24,27,88.9,6,30,4,1,0,Wolverhampton Wanderers,2021-01-12 Wolves-Everton,ENG-EPL,20-21,8cbb9119
+9a71e978,Ki-Jana Hoever,2,NED,RW,18-360,27,0,0,0,0,0,0,1,0,22,0,1,0,0.0,0.0,0.0,1,0,13,19,68.4,1,15,0,0,0,Wolverhampton Wanderers,2021-01-12 Wolves-Everton,ENG-EPL,20-21,8cbb9119
+e7aa9d7c,Fábio Silva,17,POR,"LW,FW",18-177,77,0,0,0,0,2,1,0,0,19,0,0,0,0.1,0.1,0.0,0,0,9,13,69.2,1,13,0,1,0,Wolverhampton Wanderers,2021-01-12 Wolves-Everton,ENG-EPL,20-21,8cbb9119
+a4fe8cda,Patrick Cutrone,23,ITA,FW,23-009,13,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,0,2,0.0,0,2,0,0,0,Wolverhampton Wanderers,2021-01-12 Wolves-Everton,ENG-EPL,20-21,8cbb9119
+7ba2eaa9,Pedro Neto,7,POR,"RW,LW",20-309,90,0,0,0,0,2,0,0,0,65,1,1,2,0.1,0.1,0.2,5,0,42,54,77.8,3,48,2,4,3,Wolverhampton Wanderers,2021-01-12 Wolves-Everton,ENG-EPL,20-21,8cbb9119
+f5a00fa4,João Moutinho,28,POR,LM,34-126,85,0,0,0,0,0,0,0,0,87,1,1,0,0.0,0.0,0.1,2,0,75,83,90.4,11,64,5,1,0,Wolverhampton Wanderers,2021-01-12 Wolves-Everton,ENG-EPL,20-21,8cbb9119
+3b029691,Vitinha,20,POR,LM,20-334,5,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,0,0,8,8,100.0,0,7,0,0,0,Wolverhampton Wanderers,2021-01-12 Wolves-Everton,ENG-EPL,20-21,8cbb9119
+44bfb6c5,Rúben Neves,8,POR,CM,23-305,90,1,0,0,0,4,2,0,0,98,4,2,1,0.3,0.3,0.1,4,1,75,83,90.4,9,74,5,0,0,Wolverhampton Wanderers,2021-01-12 Wolves-Everton,ENG-EPL,20-21,8cbb9119
+5a7301ae,Leander Dendoncker,32,BEL,RM,25-272,90,0,0,0,0,4,0,0,0,54,1,0,0,0.2,0.2,0.0,1,0,37,42,88.1,1,31,2,0,0,Wolverhampton Wanderers,2021-01-12 Wolves-Everton,ENG-EPL,20-21,8cbb9119
+9b398aea,Rayan Aït-Nouri,3,ALG,LB,19-220,90,0,1,0,0,0,0,0,0,52,1,1,1,0.0,0.0,0.2,4,1,38,43,88.4,3,33,3,3,2,Wolverhampton Wanderers,2021-01-12 Wolves-Everton,ENG-EPL,20-21,8cbb9119
+9fbbcf39,Romain Saïss,27,MAR,CB,30-292,90,0,0,0,0,0,0,0,0,77,1,1,1,0.0,0.0,0.0,1,0,66,67,98.5,5,59,0,0,0,Wolverhampton Wanderers,2021-01-12 Wolves-Everton,ENG-EPL,20-21,8cbb9119
+2928dca2,Conor Coady,16,ENG,CB,27-322,90,0,0,0,0,0,0,0,0,79,1,0,1,0.0,0.0,0.0,0,0,68,76,89.5,3,68,1,0,0,Wolverhampton Wanderers,2021-01-12 Wolves-Everton,ENG-EPL,20-21,8cbb9119
+d04b94db,Nélson Semedo,22,POR,RB,27-057,90,0,0,0,0,0,0,1,0,78,4,4,1,0.0,0.0,0.0,2,0,53,63,84.1,5,48,2,4,4,Wolverhampton Wanderers,2021-01-12 Wolves-Everton,ENG-EPL,20-21,8cbb9119
+79b0d6a0,Rui Patrício,11,POR,GK,32-332,90,0,0,0,0,0,0,0,0,21,0,0,0,0.0,0.0,0.0,1,0,20,21,95.2,0,13,0,0,0,Wolverhampton Wanderers,2021-01-12 Wolves-Everton,ENG-EPL,20-21,8cbb9119
+76dd1480,Gylfi Sigurðsson,10,ISL,FW,31-126,75,0,0,0,0,0,0,0,0,24,0,1,1,0.0,0.0,0.0,1,0,15,19,78.9,1,12,1,1,0,Everton,2021-01-12 Wolves-Everton,ENG-EPL,20-21,8cbb9119
+fa031b34,Richarlison,7,BRA,FW,23-247,15,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,1,3,33.3,1,5,0,1,0,Everton,2021-01-12 Wolves-Everton,ENG-EPL,20-21,8cbb9119
+715bf047,James Rodríguez,19,COL,FW,29-184,85,0,0,0,0,0,0,0,0,62,1,0,0,0.0,0.0,0.4,3,1,47,60,78.3,10,43,1,2,1,Everton,2021-01-12 Wolves-Everton,ENG-EPL,20-21,8cbb9119
+0420d84f,Séamus Coleman,23,IRL,RM,32-093,5,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Everton,2021-01-12 Wolves-Everton,ENG-EPL,20-21,8cbb9119
+1b84dbe1,Lucas Digne,12,FRA,LM,27-176,90,0,1,0,0,0,0,0,0,46,0,1,3,0.0,0.0,0.1,1,1,24,37,64.9,2,15,2,1,0,Everton,2021-01-12 Wolves-Everton,ENG-EPL,20-21,8cbb9119
+9228b07c,Tom Davies,26,ENG,CM,22-196,63,0,0,0,0,0,0,0,0,46,1,0,1,0.0,0.0,0.0,1,0,31,36,86.1,2,22,0,3,3,Everton,2021-01-12 Wolves-Everton,ENG-EPL,20-21,8cbb9119
+1961b2aa,André Gomes,21,POR,CM,27-166,27,0,1,0,0,0,0,0,0,23,2,0,2,0.0,0.0,0.1,2,1,15,16,93.8,3,9,0,2,1,Everton,2021-01-12 Wolves-Everton,ENG-EPL,20-21,8cbb9119
+02b29014,Abdoulaye Doucouré,16,MLI,CM,28-011,90,0,0,0,0,0,0,1,0,59,1,2,0,0.0,0.0,0.0,0,0,44,53,83.0,3,27,1,1,1,Everton,2021-01-12 Wolves-Everton,ENG-EPL,20-21,8cbb9119
+6ca5ec4b,Alex Iwobi,17,NGA,"RM,FW",24-254,90,1,0,0,0,3,2,0,0,54,4,0,0,0.5,0.5,0.0,2,1,37,45,82.2,5,30,6,5,3,Everton,2021-01-12 Wolves-Everton,ENG-EPL,20-21,8cbb9119
+9f7c837d,Ben Godfrey,22,ENG,LB,22-363,90,0,0,0,0,0,0,0,0,44,0,3,1,0.0,0.0,0.0,0,0,32,38,84.2,4,14,2,2,2,Everton,2021-01-12 Wolves-Everton,ENG-EPL,20-21,8cbb9119
+c5b7c315,Michael Keane,5,ENG,CB,28-001,90,1,0,0,0,1,1,0,0,105,1,2,2,0.1,0.1,0.0,0,0,86,90,95.6,11,67,0,0,0,Everton,2021-01-12 Wolves-Everton,ENG-EPL,20-21,8cbb9119
+6d5701f2,Yerry Mina,13,COL,CB,26-111,90,0,0,0,0,1,0,0,0,89,0,0,0,0.0,0.0,0.0,0,0,78,80,97.5,5,56,1,0,0,Everton,2021-01-12 Wolves-Everton,ENG-EPL,20-21,8cbb9119
+d0042ab9,Mason Holgate,4,ENG,RB,24-082,90,0,0,0,0,0,0,1,0,44,1,1,0,0.0,0.0,0.0,0,0,33,41,80.5,3,19,0,0,0,Everton,2021-01-12 Wolves-Everton,ENG-EPL,20-21,8cbb9119
+4806ec67,Jordan Pickford,1,ENG,GK,26-311,90,0,0,0,0,0,0,0,0,28,0,0,0,0.0,0.0,0.0,0,0,24,27,88.9,0,13,0,0,0,Everton,2021-01-12 Wolves-Everton,ENG-EPL,20-21,8cbb9119

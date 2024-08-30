@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+0a447501,Antonio Sanabria,9,PAR,FW,27-287,90,0,0,0,0,3,1,0,0,43,2,0,0,0.4,0.4,0.0,3,1,24,31,77.4,5,24,2,2,1,Torino,2023-12-16 Torino-Empoli,ITA-SERIA_A,23-24,d64c7b97
+d3de9af0,Duván Zapata,91,COL,FW,32-259,89,1,0,0,0,2,1,0,0,42,0,0,0,0.3,0.3,0.1,2,0,16,33,48.5,1,24,4,2,0,Torino,2023-12-16 Torino-Empoli,ITA-SERIA_A,23-24,d64c7b97
+a44d3a3c,Pietro Pellegri,11,ITA,FW,22-274,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Torino,2023-12-16 Torino-Empoli,ITA-SERIA_A,23-24,d64c7b97
+aa8e289e,Nikola Vlašić,16,CRO,AM,26-073,90,0,0,0,0,0,0,1,0,29,0,0,0,0.0,0.0,0.0,0,0,22,26,84.6,4,16,1,0,0,Torino,2023-12-16 Torino-Empoli,ITA-SERIA_A,23-24,d64c7b97
+bb376bed,Ivan Ilić,8,SRB,CM,22-274,90,0,0,0,0,2,1,0,0,75,1,1,1,0.4,0.4,0.1,5,0,54,64,84.4,8,18,0,0,0,Torino,2023-12-16 Torino-Empoli,ITA-SERIA_A,23-24,d64c7b97
+d023d70f,Karol Linetty,77,POL,CM,28-317,90,0,0,0,0,1,0,1,0,50,0,1,1,0.0,0.0,0.0,2,0,33,41,80.5,7,20,0,2,1,Torino,2023-12-16 Torino-Empoli,ITA-SERIA_A,23-24,d64c7b97
+be2706c0,Mërgim Vojvoda,27,KVX,WB,28-318,64,0,0,0,0,0,0,0,0,70,0,0,0,0.0,0.0,0.0,0,0,53,67,79.1,6,37,2,1,0,Torino,2023-12-16 Torino-Empoli,ITA-SERIA_A,23-24,d64c7b97
+016ff750,Valentino Lazaro,20,AUT,WB,27-267,26,0,0,0,0,0,0,0,0,26,0,1,1,0.0,0.0,0.0,0,0,20,25,80.0,4,14,2,0,0,Torino,2023-12-16 Torino-Empoli,ITA-SERIA_A,23-24,d64c7b97
+e3756e72,Raoul Bellanova,19,ITA,WB,23-213,84,0,1,0,0,1,0,1,0,53,3,0,1,0.0,0.0,0.4,3,1,33,41,80.5,3,22,3,1,0,Torino,2023-12-16 Torino-Empoli,ITA-SERIA_A,23-24,d64c7b97
+28f66c2e,Brandon Soppy,93,FRA,WB,21-298,6,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,0,0,0,0,Torino,2023-12-16 Torino-Empoli,ITA-SERIA_A,23-24,d64c7b97
+7f78ad23,Ricardo Rodríguez,13,SUI,CB,31-113,90,0,0,0,0,0,0,0,0,59,2,1,0,0.0,0.0,0.0,1,0,43,49,87.8,2,31,0,0,0,Torino,2023-12-16 Torino-Empoli,ITA-SERIA_A,23-24,d64c7b97
+4ae67f27,Alessandro Buongiorno,4,ITA,CB,24-193,90,0,0,0,0,1,0,1,0,48,3,1,0,0.0,0.0,0.0,1,0,30,36,83.3,0,19,1,0,0,Torino,2023-12-16 Torino-Empoli,ITA-SERIA_A,23-24,d64c7b97
+8da74c05,Adrien Tameze,61,CMR,CB,29-315,65,0,0,0,0,0,0,0,0,41,0,2,0,0.0,0.0,0.0,0,0,31,37,83.8,1,21,0,1,1,Torino,2023-12-16 Torino-Empoli,ITA-SERIA_A,23-24,d64c7b97
+933d3b51,Koffi Djidji,26,CIV,CB,31-016,25,0,0,0,0,0,0,0,0,8,0,1,0,0.0,0.0,0.0,0,0,6,7,85.7,0,0,0,0,0,Torino,2023-12-16 Torino-Empoli,ITA-SERIA_A,23-24,d64c7b97
+9fa26bc2,Vanja Milinković-Savić,32,SRB,GK,26-299,90,0,0,0,0,0,0,0,0,40,1,0,0,0.0,0.0,0.0,0,0,22,39,56.4,0,27,0,0,0,Torino,2023-12-16 Torino-Empoli,ITA-SERIA_A,23-24,d64c7b97
+fd987f24,Steven Shpendi,7,ALB,FW,20-211,60,0,0,0,0,0,0,0,0,18,0,0,0,0.0,0.0,0.0,1,0,8,11,72.7,1,13,0,1,0,Empoli,2023-12-16 Torino-Empoli,ITA-SERIA_A,23-24,d64c7b97
+b6a1cdf9,Matteo Cancellieri,20,ITA,FW,21-307,30,0,0,0,0,0,0,0,0,14,2,0,0,0.0,0.0,0.0,2,0,5,7,71.4,2,7,2,2,0,Empoli,2023-12-16 Torino-Empoli,ITA-SERIA_A,23-24,d64c7b97
+91ff775f,Nicolò Cambiaghi,28,ITA,FW,22-353,84,0,0,0,0,2,1,0,0,28,1,0,0,0.0,0.0,0.0,0,0,18,21,85.7,4,24,5,1,0,Empoli,2023-12-16 Torino-Empoli,ITA-SERIA_A,23-24,d64c7b97
+f9758dae,Emmanuel Gyasi,11,GHA,FW,29-339,6,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,3,3,100.0,0,3,0,0,0,Empoli,2023-12-16 Torino-Empoli,ITA-SERIA_A,23-24,d64c7b97
+06b08c45,Jacopo Fazzini,21,ITA,AM,20-275,90,0,0,0,0,2,1,0,0,54,3,1,0,0.2,0.2,0.0,3,0,28,40,70.0,0,28,0,2,1,Empoli,2023-12-16 Torino-Empoli,ITA-SERIA_A,23-24,d64c7b97
+4c8845f7,Youssef Maleh,29,MAR,LM,25-116,75,0,0,0,0,0,0,0,0,37,2,0,2,0.0,0.0,0.0,0,0,24,31,77.4,0,16,2,0,0,Empoli,2023-12-16 Torino-Empoli,ITA-SERIA_A,23-24,d64c7b97
+102e2599,Tommaso Baldanzi,35,ITA,LM,20-268,15,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,5,5,100.0,1,2,0,0,0,Empoli,2023-12-16 Torino-Empoli,ITA-SERIA_A,23-24,d64c7b97
+6cc97b6a,Alberto Grassi,5,ITA,CM,28-284,75,0,0,0,0,0,0,0,0,34,0,2,2,0.0,0.0,0.0,1,0,18,25,72.0,2,15,0,0,0,Empoli,2023-12-16 Torino-Empoli,ITA-SERIA_A,23-24,d64c7b97
+d9ebed1c,Filippo Ranocchia,22,ITA,CM,22-216,15,0,0,0,0,0,0,0,0,15,0,0,0,0.0,0.0,0.0,0,0,9,14,64.3,3,10,1,0,0,Empoli,2023-12-16 Torino-Empoli,ITA-SERIA_A,23-24,d64c7b97
+7fac99d4,Răzvan Marin,18,ROU,RM,27-207,60,0,0,0,0,1,0,0,0,45,2,1,1,0.0,0.0,0.0,3,0,26,34,76.5,2,26,1,1,0,Empoli,2023-12-16 Torino-Empoli,ITA-SERIA_A,23-24,d64c7b97
+d7d32194,Mattia Destro,23,ITA,RM,32-271,30,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,4,7,57.1,1,5,0,0,0,Empoli,2023-12-16 Torino-Empoli,ITA-SERIA_A,23-24,d64c7b97
+dd86e8e4,Liberato Cacace,13,NZL,LB,23-080,90,0,0,0,0,1,0,1,0,69,1,0,0,0.0,0.0,0.0,0,0,53,60,88.3,6,33,0,1,0,Empoli,2023-12-16 Torino-Empoli,ITA-SERIA_A,23-24,d64c7b97
+997fff07,Sebastiano Luperto,33,ITA,CB,27-101,90,0,0,0,0,1,0,1,0,52,2,1,0,0.1,0.1,0.0,0,0,34,44,77.3,0,25,0,0,0,Empoli,2023-12-16 Torino-Empoli,ITA-SERIA_A,23-24,d64c7b97
+6b635f5c,Ardian Ismajli,34,ALB,CB,27-077,90,0,0,0,0,0,0,0,0,73,1,3,2,0.0,0.0,0.0,1,0,43,56,76.8,2,30,0,0,0,Empoli,2023-12-16 Torino-Empoli,ITA-SERIA_A,23-24,d64c7b97
+6af30900,Tyronne Ebuehi,24,NGA,RB,28-000,90,0,0,0,0,0,0,0,0,57,1,0,0,0.0,0.0,0.2,2,0,43,50,86.0,4,33,4,1,0,Empoli,2023-12-16 Torino-Empoli,ITA-SERIA_A,23-24,d64c7b97
+ee833569,Etrit Berisha,99,ALB,GK,34-281,90,0,0,0,0,0,0,0,0,38,0,0,0,0.0,0.0,0.0,0,0,23,32,71.9,0,20,0,0,0,Empoli,2023-12-16 Torino-Empoli,ITA-SERIA_A,23-24,d64c7b97

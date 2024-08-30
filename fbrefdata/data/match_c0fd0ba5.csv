@@ -1,0 +1,29 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+c43e5e7e,Júnior Moraes,10,UKR,FW,31-168,90,0,1,0,0,1,0,1,0,24,0,0,1,0.0,0.0,0.1,4,1,13,16,81.3,1,9,0,0,0,Shakhtar Donetsk,2018-09-19 Shakhtar-Hoffenheim,UCL,18-19,c0fd0ba5
+24b98f95,Serhiy Bolbat,50,UKR,LW,25-098,56,0,0,0,0,0,0,0,0,15,0,1,0,0.0,0.0,0.0,1,0,9,11,81.8,0,12,1,1,0,Shakhtar Donetsk,2018-09-19 Shakhtar-Hoffenheim,UCL,18-19,c0fd0ba5
+9d60028d,Viktor Kovalenko,74,UKR,LW,22-217,34,0,0,0,0,0,0,0,0,17,1,0,0,0.0,0.0,0.0,0,0,8,12,66.7,0,13,0,0,0,Shakhtar Donetsk,2018-09-19 Shakhtar-Hoffenheim,UCL,18-19,c0fd0ba5
+9139bb12,Marlos,11,UKR,RW,30-104,90,0,1,0,0,3,0,0,0,56,0,0,0,0.1,0.1,0.1,5,1,37,47,78.7,5,41,2,1,0,Shakhtar Donetsk,2018-09-19 Shakhtar-Hoffenheim,UCL,18-19,c0fd0ba5
+7272a72a,Taison,7,BRA,AM,30-249,90,0,0,0,0,3,2,0,0,72,1,0,1,0.1,0.1,0.1,5,1,49,59,83.1,9,58,15,5,4,Shakhtar Donetsk,2018-09-19 Shakhtar-Hoffenheim,UCL,18-19,c0fd0ba5
+00672021,Alan Patrick,21,BRA,DM,27-129,75,0,0,0,0,0,0,1,0,48,1,0,3,0.0,0.0,0.1,2,0,39,41,95.1,6,33,1,1,0,Shakhtar Donetsk,2018-09-19 Shakhtar-Hoffenheim,UCL,18-19,c0fd0ba5
+005ca692,Maycon,27,BRA,DM,21-066,15,1,0,0,0,1,1,0,0,10,1,0,0,0.0,0.0,0.0,0,0,8,8,100.0,3,9,0,0,0,Shakhtar Donetsk,2018-09-19 Shakhtar-Hoffenheim,UCL,18-19,c0fd0ba5
+ee3519f5,Taras Stepanenko,6,UKR,DM,29-042,90,0,0,0,0,2,0,0,0,78,4,0,2,0.1,0.1,0.0,0,0,53,62,85.5,5,54,2,1,1,Shakhtar Donetsk,2018-09-19 Shakhtar-Hoffenheim,UCL,18-19,c0fd0ba5
+cf182add,Ismaily,31,BRA,LB,28-251,90,1,0,0,0,2,1,0,0,81,2,1,0,0.1,0.1,0.0,3,1,57,66,86.4,10,57,6,3,1,Shakhtar Donetsk,2018-09-19 Shakhtar-Hoffenheim,UCL,18-19,c0fd0ba5
+47fd5136,Yaroslav Rakitskiy,44,UKR,CB,29-047,90,0,0,0,0,0,0,1,0,105,1,3,1,0.0,0.0,0.1,4,0,81,97,83.5,10,80,0,1,1,Shakhtar Donetsk,2018-09-19 Shakhtar-Hoffenheim,UCL,18-19,c0fd0ba5
+862fa9fb,Davit Khocholava,5,GEO,CB,25-223,90,0,0,0,0,1,0,0,0,70,0,1,2,0.1,0.1,0.0,0,0,55,60,91.7,3,46,0,0,0,Shakhtar Donetsk,2018-09-19 Shakhtar-Hoffenheim,UCL,18-19,c0fd0ba5
+8a7a5ad7,Bohdan Butko,2,UKR,RB,27-249,90,0,0,0,0,0,0,0,0,62,1,0,0,0.0,0.0,0.0,1,0,50,54,92.6,2,32,1,0,0,Shakhtar Donetsk,2018-09-19 Shakhtar-Hoffenheim,UCL,18-19,c0fd0ba5
+34c3b935,Andriy Pyatov,30,UKR,GK,34-083,90,0,0,0,0,0,0,0,0,39,0,0,0,0.0,0.0,0.0,0,0,33,36,91.7,0,17,0,0,0,Shakhtar Donetsk,2018-09-19 Shakhtar-Hoffenheim,UCL,18-19,c0fd0ba5
+53e07d0b,Ádám Szalai,28,HUN,FW,30-284,74,0,0,0,0,2,1,0,0,23,1,0,1,0.2,0.2,0.1,3,0,10,13,76.9,1,8,1,2,1,Hoffenheim,2018-09-19 Shakhtar-Hoffenheim,UCL,18-19,c0fd0ba5
+b6a6e0a7,Steven Zuber,17,SUI,"CM,FW",27-033,16,0,0,0,0,1,0,0,0,9,0,0,1,0.0,0.0,0.0,2,0,6,6,100.0,1,4,0,0,0,Hoffenheim,2018-09-19 Shakhtar-Hoffenheim,UCL,18-19,c0fd0ba5
+c17bfb65,Joelinton,34,BRA,FW,22-036,90,0,0,0,0,2,1,0,0,35,1,1,2,0.1,0.1,0.0,5,0,14,21,66.7,0,17,2,2,2,Hoffenheim,2018-09-19 Shakhtar-Hoffenheim,UCL,18-19,c0fd0ba5
+603cb947,Andrej Kramarić,27,CRO,CM,27-092,84,0,1,0,0,5,1,0,0,40,0,0,0,0.2,0.2,0.5,7,1,25,33,75.8,2,22,5,1,1,Hoffenheim,2018-09-19 Shakhtar-Hoffenheim,UCL,18-19,c0fd0ba5
+c5bdb6e3,Reiss Nelson,9,ENG,FW,18-283,6,0,0,0,0,0,0,0,0,2,1,0,0,0.0,0.0,0.0,0,0,0,0,,0,1,0,0,0,Hoffenheim,2018-09-19 Shakhtar-Hoffenheim,UCL,18-19,c0fd0ba5
+ffbbc83b,Florian Grillitsch,11,AUT,CM,23-043,90,1,0,0,0,1,1,1,0,40,4,1,1,0.3,0.3,0.0,2,2,26,29,89.7,3,18,5,3,2,Hoffenheim,2018-09-19 Shakhtar-Hoffenheim,UCL,18-19,c0fd0ba5
+dc62fbee,Leonardo Bittencourt,13,GER,CM,24-274,63,0,1,0,0,2,1,0,0,33,4,2,1,0.3,0.3,0.4,3,1,12,22,54.5,4,14,4,1,0,Hoffenheim,2018-09-19 Shakhtar-Hoffenheim,UCL,18-19,c0fd0ba5
+54b4dc4e,Kerem Demirbay,10,GER,CM,25-078,27,0,0,0,0,1,0,0,0,8,1,0,0,0.1,0.1,0.0,1,0,6,8,75.0,3,6,0,0,0,Hoffenheim,2018-09-19 Shakhtar-Hoffenheim,UCL,18-19,c0fd0ba5
+fa274d97,Nico Schulz,16,GER,LB,25-171,90,0,0,0,0,1,0,0,0,45,0,4,0,0.0,0.0,0.4,5,0,22,35,62.9,3,19,5,3,2,Hoffenheim,2018-09-19 Shakhtar-Hoffenheim,UCL,18-19,c0fd0ba5
+7f609bfc,Stefan Posch,38,AUT,CB,21-128,90,0,0,0,0,1,0,0,0,38,3,1,2,0.0,0.0,0.0,0,0,24,30,80.0,2,17,0,0,0,Hoffenheim,2018-09-19 Shakhtar-Hoffenheim,UCL,18-19,c0fd0ba5
+1d8e9add,Kevin Vogt,22,GER,CB,26-361,90,0,0,0,0,0,0,0,0,17,0,0,2,0.0,0.0,0.0,0,0,5,8,62.5,0,5,0,0,0,Hoffenheim,2018-09-19 Shakhtar-Hoffenheim,UCL,18-19,c0fd0ba5
+6cafd68d,Håvard Nordtveit,6,NOR,CB,28-090,90,1,0,0,0,2,1,0,0,40,1,1,2,0.4,0.4,0.0,2,0,25,30,83.3,2,20,0,0,0,Hoffenheim,2018-09-19 Shakhtar-Hoffenheim,UCL,18-19,c0fd0ba5
+79c90e45,Pavel Kadeřábek,3,CZE,RB,26-147,90,0,0,0,0,1,0,0,0,40,3,0,0,0.0,0.0,0.1,3,0,24,28,85.7,3,14,2,1,1,Hoffenheim,2018-09-19 Shakhtar-Hoffenheim,UCL,18-19,c0fd0ba5
+47064058,Oliver Baumann,1,GER,GK,28-109,90,0,0,0,0,0,0,0,0,38,0,0,0,0.0,0.0,0.1,2,0,22,35,62.9,0,17,0,0,0,Hoffenheim,2018-09-19 Shakhtar-Hoffenheim,UCL,18-19,c0fd0ba5

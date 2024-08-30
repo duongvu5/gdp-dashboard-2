@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+a7a9d95a,Paco Alcácer,17,ESP,FW,26-169,75,0,1,0,0,2,0,0,0,28,0,0,0,0.1,0.1,0.0,3,1,11,19,57.9,1,15,1,1,0,Villarreal,2020-02-15 Villarreal-Levante,ESP-LALIGA,19-20,b78ef82e
+b8a642fc,Samuel Chukwueze,11,NGA,FW,20-269,15,0,0,0,0,1,0,0,0,10,0,0,0,0.0,0.0,0.1,3,0,6,8,75.0,1,7,2,1,1,Villarreal,2020-02-15 Villarreal-Levante,ESP-LALIGA,19-20,b78ef82e
+5a626448,Moi Gómez,23,ESP,"LW,LM",25-237,90,1,0,0,0,3,2,0,0,41,0,2,0,0.1,0.1,0.0,1,0,27,32,84.4,0,22,1,0,0,Villarreal,2020-02-15 Villarreal-Levante,ESP-LALIGA,19-20,b78ef82e
+81f0781e,Gerard Moreno,7,ESP,"RW,RM",27-314,90,1,1,0,0,3,1,0,0,46,1,1,2,0.2,0.2,0.0,3,1,23,30,76.7,6,26,0,1,0,Villarreal,2020-02-15 Villarreal-Levante,ESP-LALIGA,19-20,b78ef82e
+e2e9c250,Santi Cazorla,8,ESP,AM,35-064,89,0,0,0,0,1,1,0,0,54,0,1,1,0.1,0.1,0.1,6,1,30,44,68.2,5,31,2,2,2,Villarreal,2020-02-15 Villarreal-Levante,ESP-LALIGA,19-20,b78ef82e
+532e1e4f,Pau Torres,4,ESP,"AM,CB",23-030,1,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,1,3,33.3,0,2,0,0,0,Villarreal,2020-02-15 Villarreal-Levante,ESP-LALIGA,19-20,b78ef82e
+ad1ffcfd,Vicente Iborra,10,ESP,DM,32-030,45,0,0,0,0,0,0,1,0,19,0,0,1,0.0,0.0,0.0,1,1,15,16,93.8,4,11,0,0,0,Villarreal,2020-02-15 Villarreal-Levante,ESP-LALIGA,19-20,b78ef82e
+6bb2c084,Andre-Frank Zambo Anguissa,19,CMR,"DM,CM",24-091,45,0,0,0,0,1,1,0,0,35,2,1,1,0.1,0.1,0.0,0,0,24,29,82.8,2,22,1,1,1,Villarreal,2020-02-15 Villarreal-Levante,ESP-LALIGA,19-20,b78ef82e
+963829d0,Manu Trigueros,14,ESP,"DM,CM",28-121,90,0,0,0,0,0,0,1,0,59,2,0,4,0.0,0.0,0.0,1,0,45,50,90.0,3,20,0,1,1,Villarreal,2020-02-15 Villarreal-Levante,ESP-LALIGA,19-20,b78ef82e
+1f079188,Rubén Peña,20,ESP,LB,28-212,90,0,0,0,0,0,0,1,0,77,2,0,3,0.0,0.0,0.1,4,0,51,65,78.5,3,39,4,4,2,Villarreal,2020-02-15 Villarreal-Levante,ESP-LALIGA,19-20,b78ef82e
+89cbc961,Ramiro Funes Mori,6,ARG,CB,28-347,90,0,0,0,0,0,0,0,0,41,2,0,1,0.0,0.0,0.1,1,0,25,31,80.6,1,19,0,0,0,Villarreal,2020-02-15 Villarreal-Levante,ESP-LALIGA,19-20,b78ef82e
+4bd414c1,Raúl Albiol,3,ESP,CB,34-164,90,0,0,0,0,1,0,0,0,49,0,1,0,0.0,0.0,0.0,1,0,38,45,84.4,2,21,0,0,0,Villarreal,2020-02-15 Villarreal-Levante,ESP-LALIGA,19-20,b78ef82e
+fb5d47b3,Mario Gaspar,2,ESP,RB,29-083,90,0,0,0,0,2,1,0,0,45,0,3,1,0.1,0.1,0.1,1,0,25,33,75.8,3,18,4,0,0,Villarreal,2020-02-15 Villarreal-Levante,ESP-LALIGA,19-20,b78ef82e
+9f0ea33f,Sergio Asenjo,1,ESP,GK,30-232,90,0,0,0,0,0,0,0,0,28,0,0,0,0.0,0.0,0.0,0,0,12,27,44.4,0,12,0,1,1,Villarreal,2020-02-15 Villarreal-Levante,ESP-LALIGA,19-20,b78ef82e
+64e8ed6d,Borja Mayoral,21,ESP,FW,22-316,70,1,0,0,0,1,1,0,0,16,0,0,0,0.7,0.7,0.0,1,0,9,11,81.8,2,8,1,0,0,Levante,2020-02-15 Villarreal-Levante,ESP-LALIGA,19-20,b78ef82e
+4a478107,José Luis Morales,11,ESP,"FW,RM",32-207,20,0,0,0,0,0,0,0,0,10,1,1,1,0.0,0.0,0.0,0,0,6,7,85.7,0,5,0,0,0,Levante,2020-02-15 Villarreal-Levante,ESP-LALIGA,19-20,b78ef82e
+0ae4e09a,Roger Martí,9,ESP,FW,29-043,90,0,0,0,0,2,0,0,0,21,1,0,0,0.4,0.4,0.0,2,0,9,14,64.3,4,11,1,0,0,Levante,2020-02-15 Villarreal-Levante,ESP-LALIGA,19-20,b78ef82e
+cac2537b,Enis Bardhi,10,MKD,LM,24-228,90,0,0,0,0,3,1,0,0,34,0,0,0,0.1,0.1,0.0,1,0,18,23,78.3,3,21,2,3,2,Levante,2020-02-15 Villarreal-Levante,ESP-LALIGA,19-20,b78ef82e
+4442fbcd,Nikola Vukčević,17,MNE,CM,28-064,80,0,0,0,0,0,0,0,0,41,1,1,0,0.0,0.0,0.0,0,0,29,36,80.6,2,21,0,0,0,Levante,2020-02-15 Villarreal-Levante,ESP-LALIGA,19-20,b78ef82e
+0a0cc13c,Sergio León,7,ESP,"CM,FW",31-040,10,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,1,0,2,3,66.7,0,1,1,0,0,Levante,2020-02-15 Villarreal-Levante,ESP-LALIGA,19-20,b78ef82e
+61220da2,José Campaña,24,ESP,CM,26-260,90,0,0,0,0,0,0,0,0,63,0,0,1,0.0,0.0,0.1,2,0,45,58,77.6,7,43,4,3,3,Levante,2020-02-15 Villarreal-Levante,ESP-LALIGA,19-20,b78ef82e
+ecd8c01e,Rubén Rochina,16,ESP,RM,28-329,90,0,0,0,0,4,0,0,0,57,0,0,0,0.1,0.1,0.4,7,0,37,47,78.7,8,33,0,5,4,Levante,2020-02-15 Villarreal-Levante,ESP-LALIGA,19-20,b78ef82e
+33a61a52,Carlos Clerc,19,ESP,LB,27-359,88,0,1,0,0,0,0,0,0,49,1,0,1,0.0,0.0,0.7,2,1,24,42,57.1,1,22,3,3,1,Levante,2020-02-15 Villarreal-Levante,ESP-LALIGA,19-20,b78ef82e
+d4ef9ac5,Toño,3,ESP,LB,30-100,2,0,0,0,0,0,0,0,0,5,0,1,0,0.0,0.0,0.0,0,0,2,5,40.0,0,3,0,0,0,Levante,2020-02-15 Villarreal-Levante,ESP-LALIGA,19-20,b78ef82e
+c67cd65c,Rúben Vezo,14,POR,CB,25-296,90,0,0,0,0,0,0,0,0,53,2,2,0,0.0,0.0,0.0,1,1,37,42,88.1,3,28,0,0,0,Levante,2020-02-15 Villarreal-Levante,ESP-LALIGA,19-20,b78ef82e
+474ecac8,Sergio Postigo,15,ESP,CB,31-103,90,0,0,0,0,0,0,1,0,63,2,0,4,0.0,0.0,0.0,1,0,32,47,68.1,6,30,1,0,0,Levante,2020-02-15 Villarreal-Levante,ESP-LALIGA,19-20,b78ef82e
+7f4c7c9f,Jorge Miramón,20,ESP,RB,30-258,90,0,0,0,0,1,0,0,0,62,1,0,1,0.0,0.0,0.1,2,0,37,51,72.5,0,28,4,0,0,Levante,2020-02-15 Villarreal-Levante,ESP-LALIGA,19-20,b78ef82e
+a01c3d54,Aitor Fernández,13,ESP,GK,28-288,90,0,0,0,0,0,0,0,0,30,0,0,0,0.0,0.0,0.0,0,0,22,26,84.6,0,14,0,0,0,Levante,2020-02-15 Villarreal-Levante,ESP-LALIGA,19-20,b78ef82e

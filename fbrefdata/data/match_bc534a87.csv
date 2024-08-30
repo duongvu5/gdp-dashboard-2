@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+a6154613,Luis Suárez,9,URU,FW,31-354,90,2,1,0,0,3,3,1,0,42,4,1,0,0.7,0.7,0.4,4,2,18,29,62.1,3,19,3,2,2,Barcelona,2019-01-13 Barcelona-Eibar,ESP-LALIGA,18-19,bc534a87
+0ef89a37,Philippe Coutinho,7,BRA,"LW,LM",26-215,90,0,1,0,0,1,1,0,0,70,1,0,1,0.1,0.1,0.2,4,2,48,59,81.4,6,42,1,6,4,Barcelona,2019-01-13 Barcelona-Eibar,ESP-LALIGA,18-19,bc534a87
+d70ce98e,Lionel Messi,10,ARG,"RW,FW",31-203,90,1,0,0,0,2,2,0,0,37,0,0,0,0.4,0.4,0.1,2,0,22,29,75.9,9,29,3,6,4,Barcelona,2019-01-13 Barcelona-Eibar,ESP-LALIGA,18-19,bc534a87
+48b3dd60,Arthur Melo,8,BRA,LM,22-154,71,0,0,0,0,0,0,0,0,56,0,0,2,0.0,0.0,0.0,0,0,51,53,96.2,2,41,0,1,1,Barcelona,2019-01-13 Barcelona-Eibar,ESP-LALIGA,18-19,bc534a87
+b19db005,Ousmane Dembélé,11,FRA,"LM,RM",21-243,19,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,0,0,4,8,50.0,0,4,2,1,0,Barcelona,2019-01-13 Barcelona-Eibar,ESP-LALIGA,18-19,bc534a87
+5ab0ea87,Sergio Busquets,5,ESP,CM,30-181,65,0,0,0,0,0,0,0,0,74,3,2,1,0.0,0.0,0.0,0,0,57,66,86.4,2,40,0,0,0,Barcelona,2019-01-13 Barcelona-Eibar,ESP-LALIGA,18-19,bc534a87
+67cdbc0e,Arturo Vidal,22,CHI,CM,31-236,25,0,0,0,0,0,0,0,0,26,2,1,0,0.0,0.0,0.0,0,0,23,24,95.8,0,12,0,0,0,Barcelona,2019-01-13 Barcelona-Eibar,ESP-LALIGA,18-19,bc534a87
+89f951b5,Ivan Rakitić,4,CRO,"RM,CM",30-309,90,0,0,0,0,0,0,0,0,69,0,2,2,0.0,0.0,0.0,0,0,47,54,87.0,4,40,0,2,0,Barcelona,2019-01-13 Barcelona-Eibar,ESP-LALIGA,18-19,bc534a87
+4601e194,Jordi Alba,18,ESP,LB,29-298,90,0,0,0,0,0,0,0,0,82,3,3,0,0.0,0.0,0.3,1,0,58,73,79.5,3,43,1,1,1,Barcelona,2019-01-13 Barcelona-Eibar,ESP-LALIGA,18-19,bc534a87
+4f28a6ff,Clément Lenglet,15,FRA,CB,23-210,90,0,0,0,0,0,0,0,0,82,1,2,1,0.0,0.0,0.0,0,0,56,68,82.4,1,47,0,1,1,Barcelona,2019-01-13 Barcelona-Eibar,ESP-LALIGA,18-19,bc534a87
+adfc9123,Gerard Piqué,3,ESP,CB,31-345,90,0,0,0,0,0,0,1,0,86,4,0,1,0.0,0.0,0.0,0,0,63,71,88.7,0,52,0,0,0,Barcelona,2019-01-13 Barcelona-Eibar,ESP-LALIGA,18-19,bc534a87
+335fa267,Sergi Roberto,20,ESP,RB,26-340,82,0,1,0,0,1,0,0,0,68,0,2,1,0.1,0.1,0.1,1,1,50,59,84.7,3,36,3,2,2,Barcelona,2019-01-13 Barcelona-Eibar,ESP-LALIGA,18-19,bc534a87
+d04b94db,Nélson Semedo,2,POR,RB,25-058,8,0,0,0,0,0,0,0,0,7,2,0,0,0.0,0.0,0.0,0,0,4,5,80.0,0,4,1,0,0,Barcelona,2019-01-13 Barcelona-Eibar,ESP-LALIGA,18-19,bc534a87
+6f51e382,Marc-André ter Stegen,1,GER,GK,26-258,90,0,0,0,0,0,0,0,0,43,0,0,0,0.0,0.0,0.0,0,0,40,43,93.0,0,23,0,0,0,Barcelona,2019-01-13 Barcelona-Eibar,ESP-LALIGA,18-19,bc534a87
+bb4b1242,Sergi Enrich,9,ESP,FW,28-321,82,0,0,0,0,2,0,1,0,35,1,0,0,0.1,0.1,0.0,3,0,21,24,87.5,0,16,0,0,0,Eibar,2019-01-13 Barcelona-Eibar,ESP-LALIGA,18-19,bc534a87
+b92b456a,Marc Cardona,7,ESP,FW,23-189,8,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,5,5,100.0,1,5,0,0,0,Eibar,2019-01-13 Barcelona-Eibar,ESP-LALIGA,18-19,bc534a87
+1daec722,Marc Cucurella,20,ESP,LW,20-175,63,0,0,0,0,0,0,0,0,23,0,1,0,0.0,0.0,0.0,0,0,14,20,70.0,1,13,0,2,0,Eibar,2019-01-13 Barcelona-Eibar,ESP-LALIGA,18-19,bc534a87
+9ab48bde,Pablo de Blasis,16,ARG,"LM,LW",30-343,27,0,0,0,0,1,1,0,0,13,2,0,0,0.1,0.1,0.0,4,0,7,9,77.8,4,7,2,0,0,Eibar,2019-01-13 Barcelona-Eibar,ESP-LALIGA,18-19,bc534a87
+c90977db,Fabián Orellana,14,CHI,"RW,RM",32-351,90,0,0,0,0,2,0,0,0,57,0,2,1,0.1,0.1,0.2,3,0,33,43,76.7,3,37,1,3,0,Eibar,2019-01-13 Barcelona-Eibar,ESP-LALIGA,18-19,bc534a87
+2a0c8ba4,Joan Jordán,24,ESP,"AM,CM",24-191,90,0,0,0,0,1,0,0,0,61,1,0,0,0.0,0.0,0.1,5,0,48,57,84.2,6,41,1,4,1,Eibar,2019-01-13 Barcelona-Eibar,ESP-LALIGA,18-19,bc534a87
+7329018e,Papakouli Diop,8,SEN,"DM,CM",32-300,90,0,0,0,0,1,0,0,0,60,5,0,2,0.0,0.0,0.0,3,0,40,49,81.6,8,32,0,0,0,Eibar,2019-01-13 Barcelona-Eibar,ESP-LALIGA,18-19,bc534a87
+3f79a1c8,Gonzalo Escalante,5,ARG,DM,25-292,76,0,0,0,0,2,0,0,0,29,2,0,1,0.2,0.2,0.0,0,0,20,23,87.0,0,18,0,1,1,Eibar,2019-01-13 Barcelona-Eibar,ESP-LALIGA,18-19,bc534a87
+e897d8ba,Kiké,17,ESP,FW,29-049,14,0,0,0,0,2,1,0,0,8,0,0,0,0.2,0.2,0.0,0,0,4,6,66.7,1,4,0,0,0,Eibar,2019-01-13 Barcelona-Eibar,ESP-LALIGA,18-19,bc534a87
+3024e383,José Ángel,15,ESP,LB,29-130,90,0,0,0,0,1,0,0,0,68,3,3,1,0.0,0.0,0.2,5,0,41,58,70.7,9,38,4,0,0,Eibar,2019-01-13 Barcelona-Eibar,ESP-LALIGA,18-19,bc534a87
+697295b1,Pedro Bigas,3,ESP,CB,28-120,90,0,0,0,0,1,0,0,0,35,1,3,1,0.1,0.1,0.0,0,0,23,28,82.1,2,15,1,0,0,Eibar,2019-01-13 Barcelona-Eibar,ESP-LALIGA,18-19,bc534a87
+850c0a0d,Anaitz Arbilla,23,ESP,CB,31-243,90,0,0,0,0,2,0,0,0,52,2,3,0,0.1,0.1,0.0,1,0,34,42,81.0,3,26,2,2,1,Eibar,2019-01-13 Barcelona-Eibar,ESP-LALIGA,18-19,bc534a87
+1f079188,Rubén Peña,11,ESP,RB,27-179,90,0,0,0,0,0,0,0,0,90,2,1,2,0.0,0.0,0.2,4,0,54,76,71.1,7,46,8,1,0,Eibar,2019-01-13 Barcelona-Eibar,ESP-LALIGA,18-19,bc534a87
+581c5276,Asier Riesgo,13,ESP,GK,35-099,90,0,0,0,0,0,0,0,0,26,0,0,0,0.0,0.0,0.0,0,0,14,24,58.3,0,14,0,0,0,Eibar,2019-01-13 Barcelona-Eibar,ESP-LALIGA,18-19,bc534a87

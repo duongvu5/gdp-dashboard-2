@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+5eae500a,Romelu Lukaku,90,BEL,FW,29-281,65,1,0,1,1,0,0,1,0,26,0,0,0,0.8,0.0,0.3,2,0,13,21,61.9,0,9,0,1,0,Internazionale,2023-02-18 Inter-Udinese,ITA-SERIA_A,22-23,ac4f1fd6
+f7036e1c,Lautaro Martínez,10,ARG,FW,25-180,25,1,0,0,0,4,2,0,0,12,1,0,0,0.9,0.9,0.0,2,0,4,6,66.7,1,6,2,0,0,Internazionale,2023-02-18 Inter-Udinese,ITA-SERIA_A,22-23,ac4f1fd6
+3bb7f478,Edin Džeko,9,BIH,FW,36-338,90,0,0,0,0,2,1,0,0,33,0,0,2,0.6,0.6,0.0,2,0,15,24,62.5,3,17,3,3,1,Internazionale,2023-02-18 Inter-Udinese,ITA-SERIA_A,22-23,ac4f1fd6
+dd0daf32,Henrikh Mkhitaryan,22,ARM,CM,34-028,83,1,0,0,0,3,2,0,0,78,5,0,2,0.2,0.2,0.4,6,0,55,64,85.9,9,48,1,0,0,Internazionale,2023-02-18 Inter-Udinese,ITA-SERIA_A,22-23,ac4f1fd6
+ce30bfc8,Roberto Gagliardini,5,ITA,CM,28-317,7,0,0,0,0,0,0,0,0,6,1,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,0,0,0,0,Internazionale,2023-02-18 Inter-Udinese,ITA-SERIA_A,22-23,ac4f1fd6
+33b8d077,Marcelo Brozović,77,CRO,CM,30-094,65,0,0,0,0,0,0,0,0,63,2,1,0,0.0,0.0,0.0,1,0,52,58,89.7,8,28,3,0,0,Internazionale,2023-02-18 Inter-Udinese,ITA-SERIA_A,22-23,ac4f1fd6
+cd0fa27b,Hakan Çalhanoğlu,20,TUR,CM,29-010,25,0,0,0,0,2,0,0,0,29,0,0,0,0.1,0.1,0.0,3,1,20,23,87.0,6,17,2,1,1,Internazionale,2023-02-18 Inter-Udinese,ITA-SERIA_A,22-23,ac4f1fd6
+6928979a,Nicolò Barella,23,ITA,CM,26-011,90,0,0,0,0,2,0,0,0,68,4,0,1,0.1,0.1,0.7,3,0,41,55,74.5,6,34,4,5,4,Internazionale,2023-02-18 Inter-Udinese,ITA-SERIA_A,22-23,ac4f1fd6
+970b8574,Federico Dimarco,32,ITA,WB,25-100,78,0,1,0,0,1,0,0,0,55,3,0,0,0.0,0.0,0.2,6,1,39,48,81.3,5,28,1,1,0,Internazionale,2023-02-18 Inter-Udinese,ITA-SERIA_A,22-23,ac4f1fd6
+2d970560,Robin Gosens,8,GER,WB,28-228,12,0,0,0,0,0,0,0,0,11,2,2,0,0.0,0.0,0.0,0,0,4,8,50.0,0,5,0,0,0,Internazionale,2023-02-18 Inter-Udinese,ITA-SERIA_A,22-23,ac4f1fd6
+481c9ece,Denzel Dumfries,2,NED,WB,26-306,90,0,0,0,0,3,0,0,0,44,3,0,3,0.3,0.3,0.0,4,2,20,28,71.4,3,15,1,0,0,Internazionale,2023-02-18 Inter-Udinese,ITA-SERIA_A,22-23,ac4f1fd6
+75b86fb3,Alessandro Bastoni,95,ITA,CB,23-311,90,0,0,0,0,0,0,0,0,94,3,1,2,0.0,0.0,0.0,3,0,70,83,84.3,10,52,4,2,1,Internazionale,2023-02-18 Inter-Udinese,ITA-SERIA_A,22-23,ac4f1fd6
+b96b595c,Francesco Acerbi,15,ITA,CB,35-008,90,0,0,0,0,1,1,0,0,67,1,0,1,0.0,0.0,0.0,1,0,51,58,87.9,5,28,1,2,1,Internazionale,2023-02-18 Inter-Udinese,ITA-SERIA_A,22-23,ac4f1fd6
+96e0490d,Matteo Darmian,36,ITA,CB,33-078,45,0,0,0,0,0,0,1,0,42,0,3,1,0.0,0.0,0.0,0,0,30,37,81.1,1,27,1,1,0,Internazionale,2023-02-18 Inter-Udinese,ITA-SERIA_A,22-23,ac4f1fd6
+44eb9093,Danilo D'Ambrosio,33,ITA,CB,34-162,45,0,1,0,0,0,0,0,0,32,2,2,2,0.0,0.0,0.2,1,1,21,23,91.3,0,18,0,0,0,Internazionale,2023-02-18 Inter-Udinese,ITA-SERIA_A,22-23,ac4f1fd6
+74419746,Samir Handanović,1,SVN,GK,38-219,90,0,0,0,0,0,0,0,0,31,0,0,0,0.0,0.0,0.0,1,1,27,31,87.1,0,13,0,0,0,Internazionale,2023-02-18 Inter-Udinese,ITA-SERIA_A,22-23,ac4f1fd6
+ed5c0319,Beto,9,GNB,FW,25-018,75,0,0,0,0,0,0,0,0,17,0,0,0,0.0,0.0,0.0,0,0,3,7,42.9,0,11,0,0,0,Udinese,2023-02-18 Inter-Udinese,ITA-SERIA_A,22-23,ac4f1fd6
+dbfa4f16,Festy Ebosele,2,IRL,FW,20-200,15,0,0,0,0,1,0,0,0,11,0,0,0,0.1,0.1,0.0,1,0,4,5,80.0,1,8,2,2,0,Udinese,2023-02-18 Inter-Udinese,ITA-SERIA_A,22-23,ac4f1fd6
+2b9fdeea,Florian Thauvin,26,FRA,FW,30-023,60,0,0,0,0,0,0,0,0,30,1,0,1,0.0,0.0,0.0,1,0,13,19,68.4,3,18,1,3,0,Udinese,2023-02-18 Inter-Udinese,ITA-SERIA_A,22-23,ac4f1fd6
+f573a8bf,Isaac Success,7,NGA,FW,27-042,30,0,0,0,0,3,0,0,0,14,0,0,0,0.5,0.5,0.0,3,0,5,10,50.0,4,11,3,4,4,Udinese,2023-02-18 Inter-Udinese,ITA-SERIA_A,22-23,ac4f1fd6
+966eea58,Sandi Lovrić,4,SVN,CM,24-327,74,1,0,0,0,2,1,0,0,33,2,1,1,0.2,0.2,0.0,2,0,17,24,70.8,1,20,4,2,1,Udinese,2023-02-18 Inter-Udinese,ITA-SERIA_A,22-23,ac4f1fd6
+963a328b,Tolgay Arslan,5,GER,CM,32-186,16,0,0,0,0,0,0,0,0,17,0,0,0,0.0,0.0,0.1,1,0,15,15,100.0,3,13,1,0,0,Udinese,2023-02-18 Inter-Udinese,ITA-SERIA_A,22-23,ac4f1fd6
+26db8853,Walace,11,BRA,CM,27-320,90,0,0,0,0,0,0,0,0,65,1,2,2,0.0,0.0,0.3,3,0,44,51,86.3,4,39,3,0,0,Udinese,2023-02-18 Inter-Udinese,ITA-SERIA_A,22-23,ac4f1fd6
+75f2c59f,Roberto Pereyra,37,ARG,CM,32-042,75,0,1,0,0,0,0,0,0,40,2,0,1,0.0,0.0,0.2,2,1,18,25,72.0,3,21,2,3,1,Udinese,2023-02-18 Inter-Udinese,ITA-SERIA_A,22-23,ac4f1fd6
+217c93a1,Lazar Samardzic,24,SRB,CM,20-359,15,0,0,0,0,1,0,0,0,16,0,0,0,0.0,0.0,0.0,0,0,8,12,66.7,1,9,0,4,1,Udinese,2023-02-18 Inter-Udinese,ITA-SERIA_A,22-23,ac4f1fd6
+7cd520e8,Destiny Udogie,13,ITA,WB,20-082,90,0,0,0,0,0,0,0,0,55,2,0,2,0.0,0.0,0.1,1,0,34,39,87.2,4,35,1,6,2,Udinese,2023-02-18 Inter-Udinese,ITA-SERIA_A,22-23,ac4f1fd6
+76b2817e,Kingsley Ehizibue,19,NED,WB,27-269,90,0,0,0,0,0,0,0,0,43,3,0,2,0.0,0.0,0.0,1,1,23,26,88.5,4,22,2,3,0,Udinese,2023-02-18 Inter-Udinese,ITA-SERIA_A,22-23,ac4f1fd6
+9ba7b4fa,Enzo Ebosse,23,CMR,CB,23-344,17,0,0,0,0,0,0,0,0,8,0,1,1,0.0,0.0,0.0,0,0,5,6,83.3,0,6,0,0,0,Udinese,2023-02-18 Inter-Udinese,ITA-SERIA_A,22-23,ac4f1fd6
+de0f152c,Adam Masina,3,MAR,CB,29-047,73,0,0,0,0,0,0,1,0,34,0,1,0,0.0,0.0,0.0,0,0,23,30,76.7,2,25,1,0,0,Udinese,2023-02-18 Inter-Udinese,ITA-SERIA_A,22-23,ac4f1fd6
+6fdac234,Jaka Bijol,29,SVN,CB,24-013,90,0,0,0,0,0,0,1,0,61,1,2,1,0.0,0.0,0.0,1,0,44,49,89.8,2,35,0,0,0,Udinese,2023-02-18 Inter-Udinese,ITA-SERIA_A,22-23,ac4f1fd6
+19e4eab9,Rodrigo Becão,50,BRA,CB,27-030,90,0,0,0,0,2,0,0,0,66,1,2,5,0.1,0.1,0.0,1,0,34,48,70.8,3,40,0,2,0,Udinese,2023-02-18 Inter-Udinese,ITA-SERIA_A,22-23,ac4f1fd6
+0d422df7,Marco Silvestri,1,ITA,GK,31-353,90,0,0,0,0,0,0,0,0,31,0,0,0,0.0,0.0,0.0,0,0,20,26,76.9,0,18,0,0,0,Udinese,2023-02-18 Inter-Udinese,ITA-SERIA_A,22-23,ac4f1fd6

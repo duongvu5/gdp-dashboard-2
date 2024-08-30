@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+fd771f95,Martin Braithwaite,19,DEN,FW,29-041,58,0,0,0,0,2,0,0,0,25,0,0,0,0.1,0.1,0.0,3,0,18,21,85.7,0,11,1,1,0,Barcelona,2020-07-16 Barcelona-Osasuna,ESP-LALIGA,19-20,7ff03cb7
+a6154613,Luis Suárez,9,URU,FW,33-174,32,0,0,0,0,2,0,0,0,12,0,0,0,0.4,0.4,0.0,1,1,5,7,71.4,0,5,0,2,0,Barcelona,2020-07-16 Barcelona-Osasuna,ESP-LALIGA,19-20,7ff03cb7
+0ba976e4,Ansu Fati,31,ESP,LW,17-259,90,0,0,0,0,2,0,0,0,73,0,0,2,0.1,0.1,0.2,5,0,55,60,91.7,9,58,9,2,1,Barcelona,2020-07-16 Barcelona-Osasuna,ESP-LALIGA,19-20,7ff03cb7
+d70ce98e,Lionel Messi,10,ARG,RW,33-022,90,1,0,0,0,9,2,0,0,101,1,0,0,0.5,0.5,0.4,9,0,62,89,69.7,8,57,5,8,6,Barcelona,2020-07-16 Barcelona-Osasuna,ESP-LALIGA,19-20,7ff03cb7
+f090a37a,Riqui Puig,28,ESP,LM,20-338,78,0,0,0,0,0,0,0,0,74,1,0,0,0.0,0.0,0.1,4,1,66,71,93.0,5,44,1,2,1,Barcelona,2020-07-16 Barcelona-Osasuna,ESP-LALIGA,19-20,7ff03cb7
+1bacc518,Frenkie de Jong,21,NED,LM,23-065,12,0,0,0,0,0,0,0,0,17,0,0,0,0.0,0.0,0.0,1,0,15,17,88.2,2,8,0,0,0,Barcelona,2020-07-16 Barcelona-Osasuna,ESP-LALIGA,19-20,7ff03cb7
+89f951b5,Ivan Rakitić,4,CRO,CM,32-128,66,0,0,0,0,1,0,1,0,73,0,1,0,0.0,0.0,0.0,2,0,64,70,91.4,2,36,0,0,0,Barcelona,2020-07-16 Barcelona-Osasuna,ESP-LALIGA,19-20,7ff03cb7
+5ab0ea87,Sergio Busquets,5,ESP,CM,32-000,24,0,0,0,0,0,0,0,0,29,1,0,2,0.0,0.0,0.0,0,0,24,26,92.3,4,12,1,1,1,Barcelona,2020-07-16 Barcelona-Osasuna,ESP-LALIGA,19-20,7ff03cb7
+335fa267,Sergi Roberto,20,ESP,"RM,RB",28-160,90,0,0,0,0,0,0,0,0,100,2,2,1,0.0,0.0,0.1,5,0,84,92,91.3,7,60,7,2,1,Barcelona,2020-07-16 Barcelona-Osasuna,ESP-LALIGA,19-20,7ff03cb7
+24f59bb2,Junior Firpo,24,DOM,LB,23-329,78,0,0,0,0,0,0,1,0,80,0,1,0,0.0,0.0,0.0,2,0,70,77,90.9,12,59,7,1,0,Barcelona,2020-07-16 Barcelona-Osasuna,ESP-LALIGA,19-20,7ff03cb7
+4601e194,Jordi Alba,18,ESP,LB,31-117,12,0,0,0,0,1,0,0,0,26,0,0,0,0.0,0.0,0.0,1,0,21,24,87.5,3,14,0,0,0,Barcelona,2020-07-16 Barcelona-Osasuna,ESP-LALIGA,19-20,7ff03cb7
+4f28a6ff,Clément Lenglet,15,FRA,CB,25-029,90,0,0,0,0,1,0,0,0,87,0,1,0,0.0,0.0,0.0,0,0,76,82,92.7,4,51,2,0,0,Barcelona,2020-07-16 Barcelona-Osasuna,ESP-LALIGA,19-20,7ff03cb7
+adfc9123,Gerard Piqué,3,ESP,CB,33-165,90,0,0,0,0,0,0,1,0,102,2,2,0,0.0,0.0,0.0,1,0,83,92,90.2,5,66,1,0,0,Barcelona,2020-07-16 Barcelona-Osasuna,ESP-LALIGA,19-20,7ff03cb7
+d04b94db,Nélson Semedo,2,POR,RB,26-243,58,0,0,0,0,0,0,1,0,83,2,1,2,0.0,0.0,0.1,2,0,67,75,89.3,4,47,2,3,3,Barcelona,2020-07-16 Barcelona-Osasuna,ESP-LALIGA,19-20,7ff03cb7
+67cdbc0e,Arturo Vidal,22,CHI,"RM,RB",33-055,32,0,0,0,0,0,0,0,0,34,1,0,1,0.0,0.0,0.0,0,0,26,31,83.9,2,15,0,0,0,Barcelona,2020-07-16 Barcelona-Osasuna,ESP-LALIGA,19-20,7ff03cb7
+6f51e382,Marc-André ter Stegen,1,GER,GK,28-077,90,0,0,0,0,0,0,0,0,31,0,0,0,0.0,0.0,0.0,0,0,29,31,93.5,1,17,0,0,0,Barcelona,2020-07-16 Barcelona-Osasuna,ESP-LALIGA,19-20,7ff03cb7
+88a359d4,Adrián López,22,ESP,FW,32-190,69,0,0,0,0,0,0,0,0,26,0,0,0,0.0,0.0,0.0,2,1,12,23,52.2,1,10,1,0,0,Osasuna,2020-07-16 Barcelona-Osasuna,ESP-LALIGA,19-20,7ff03cb7
+aad53e64,Kike Barja,19,ESP,FW,23-106,21,0,1,0,0,0,0,0,0,11,1,0,0,0.0,0.0,0.5,1,1,4,6,66.7,1,7,2,2,0,Osasuna,2020-07-16 Barcelona-Osasuna,ESP-LALIGA,19-20,7ff03cb7
+46e07328,José Arnaiz,16,ESP,FW,25-092,70,1,0,0,0,2,2,0,0,16,0,1,1,0.1,0.1,0.0,0,0,7,9,77.8,1,8,1,0,0,Osasuna,2020-07-16 Barcelona-Osasuna,ESP-LALIGA,19-20,7ff03cb7
+82e9b89d,Enric Gallego,11,ESP,FW,33-308,6,0,0,0,0,0,0,0,1,1,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,0,0,Osasuna,2020-07-16 Barcelona-Osasuna,ESP-LALIGA,19-20,7ff03cb7
+bc61cc65,Iñigo Pérez,21,ESP,CM,32-180,90,0,0,0,0,1,0,0,0,29,0,2,0,0.0,0.0,0.0,4,1,16,26,61.5,2,11,1,2,2,Osasuna,2020-07-16 Barcelona-Osasuna,ESP-LALIGA,19-20,7ff03cb7
+9939e168,Jon Moncayola,27,ESP,CM,22-064,84,0,0,0,0,3,2,0,0,27,3,2,1,0.1,0.1,0.0,2,0,11,15,73.3,1,11,1,2,2,Osasuna,2020-07-16 Barcelona-Osasuna,ESP-LALIGA,19-20,7ff03cb7
+d733aa38,Roberto Torres,10,ESP,CM,31-131,6,1,0,0,0,1,1,0,0,6,0,1,0,0.5,0.5,0.0,0,0,1,4,25.0,0,3,0,0,0,Osasuna,2020-07-16 Barcelona-Osasuna,ESP-LALIGA,19-20,7ff03cb7
+4accb7e0,Darko Brašanac,20,SRB,CM,28-155,45,0,0,0,0,0,0,0,0,10,3,0,1,0.0,0.0,0.0,1,0,5,6,83.3,1,1,0,0,0,Osasuna,2020-07-16 Barcelona-Osasuna,ESP-LALIGA,19-20,7ff03cb7
+466824fb,Oier Sanjurjo,6,ESP,CM,34-052,45,0,0,0,0,0,0,1,0,17,1,1,0,0.0,0.0,0.0,2,0,9,13,69.2,1,4,0,0,0,Osasuna,2020-07-16 Barcelona-Osasuna,ESP-LALIGA,19-20,7ff03cb7
+d38fdf53,Pervis Estupiñán,30,ECU,LB,22-177,89,0,1,0,0,1,0,0,0,48,0,2,1,0.0,0.0,0.1,1,1,25,37,67.6,3,20,3,1,0,Osasuna,2020-07-16 Barcelona-Osasuna,ESP-LALIGA,19-20,7ff03cb7
+8e088e04,Toni Lato,15,ESP,LB,22-238,1,0,0,0,0,1,0,0,0,5,0,0,0,0.1,0.1,0.0,0,0,3,4,75.0,0,2,0,0,0,Osasuna,2020-07-16 Barcelona-Osasuna,ESP-LALIGA,19-20,7ff03cb7
+3e42f707,David García,5,ESP,CB,26-153,90,0,0,0,0,0,0,0,0,22,0,3,0,0.0,0.0,0.0,0,0,5,11,45.5,0,5,0,0,0,Osasuna,2020-07-16 Barcelona-Osasuna,ESP-LALIGA,19-20,7ff03cb7
+ad178594,Raúl Navas,3,ESP,CB,32-066,90,0,0,0,0,0,0,0,0,33,3,4,4,0.0,0.0,0.0,1,0,14,17,82.4,0,7,0,1,1,Osasuna,2020-07-16 Barcelona-Osasuna,ESP-LALIGA,19-20,7ff03cb7
+132ac341,Aridane Hernández,23,ESP,CB,31-115,90,0,0,0,0,0,0,0,0,25,3,2,1,0.0,0.0,0.0,0,0,9,12,75.0,1,6,0,0,0,Osasuna,2020-07-16 Barcelona-Osasuna,ESP-LALIGA,19-20,7ff03cb7
+3a9c4b7b,Nacho Vidal,2,ESP,RB,25-174,90,0,0,0,0,0,0,0,0,19,2,1,0,0.0,0.0,0.0,1,0,7,15,46.7,2,8,0,0,0,Osasuna,2020-07-16 Barcelona-Osasuna,ESP-LALIGA,19-20,7ff03cb7
+a4995f48,Sergio Herrera,1,ESP,GK,27-041,90,0,0,0,0,0,0,0,0,37,0,0,0,0.0,0.0,0.0,0,0,11,32,34.4,0,11,0,0,0,Osasuna,2020-07-16 Barcelona-Osasuna,ESP-LALIGA,19-20,7ff03cb7

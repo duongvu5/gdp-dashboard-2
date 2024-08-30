@@ -1,0 +1,32 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+bbf5c11b,Rafa Mir,9,ESP,FW,23-248,90,0,0,0,1,6,2,0,0,27,1,0,1,1.1,0.3,0.0,0,0,7,14,50.0,0,9,2,0,0,Huesca,2021-02-21 Huesca-Granada,ESP-LALIGA,20-21,c1c0323d
+8970907e,David Ferreiro,7,ESP,AM,32-326,86,0,0,0,0,1,0,0,0,40,0,0,1,0.1,0.1,0.1,4,1,25,32,78.1,2,22,2,1,1,Huesca,2021-02-21 Huesca-Granada,ESP-LALIGA,20-21,c1c0323d
+82803509,Juan Carlos,21,ESP,AM,29-343,4,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,2,0,0,0,Huesca,2021-02-21 Huesca-Granada,ESP-LALIGA,20-21,c1c0323d
+5a36f180,Dani Escriche,23,ESP,AM,22-334,67,1,0,0,0,1,1,0,0,19,0,0,1,0.4,0.4,0.0,1,0,9,13,69.2,1,8,2,1,1,Huesca,2021-02-21 Huesca-Granada,ESP-LALIGA,20-21,c1c0323d
+68796d61,Shinji Okazaki,12,JPN,AM,34-311,23,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,1,0,4,4,100.0,1,3,0,0,0,Huesca,2021-02-21 Huesca-Granada,ESP-LALIGA,20-21,c1c0323d
+def69cd0,Mikel Rico,17,ESP,CM,36-109,66,0,1,0,0,0,0,1,0,39,0,0,1,0.0,0.0,0.6,2,1,26,34,76.5,2,21,0,1,1,Huesca,2021-02-21 Huesca-Granada,ESP-LALIGA,20-21,c1c0323d
+685857dc,Idrissa Doumbia,2,CIV,CM,22-313,24,0,0,0,0,1,0,0,0,15,0,0,0,0.0,0.0,0.0,1,0,14,14,100.0,0,7,0,0,0,Huesca,2021-02-21 Huesca-Granada,ESP-LALIGA,20-21,c1c0323d
+a62b4888,Jaime Seoane,20,ESP,CM,24-030,90,0,0,0,0,1,1,1,0,55,2,0,1,0.0,0.0,0.0,3,0,34,44,77.3,2,30,2,2,0,Huesca,2021-02-21 Huesca-Granada,ESP-LALIGA,20-21,c1c0323d
+a4b00319,Javi Galán,11,ESP,WB,26-094,90,0,0,0,0,1,0,0,0,68,3,0,0,0.0,0.0,0.2,5,1,42,58,72.4,1,43,4,8,8,Huesca,2021-02-21 Huesca-Granada,ESP-LALIGA,20-21,c1c0323d
+5db04597,Pablo Maffeo,3,ESP,WB,23-224,90,0,0,0,0,1,1,0,0,50,0,1,0,0.0,0.0,0.1,4,0,30,46,65.2,4,26,4,2,2,Huesca,2021-02-21 Huesca-Granada,ESP-LALIGA,20-21,c1c0323d
+4b5e7e90,Pablo Insua,4,ESP,CB,27-165,90,0,0,0,0,0,0,1,0,71,4,4,0,0.0,0.0,0.0,2,0,56,63,88.9,1,43,0,0,0,Huesca,2021-02-21 Huesca-Granada,ESP-LALIGA,20-21,c1c0323d
+92d38e6c,Dimitris Siovas,18,GRE,CB,32-158,90,0,0,0,0,1,0,0,0,65,1,1,1,0.1,0.1,0.0,0,0,43,56,76.8,0,31,0,0,0,Huesca,2021-02-21 Huesca-Granada,ESP-LALIGA,20-21,c1c0323d
+978cd030,Jorge Pulido,14,ESP,CB,29-319,90,1,0,0,0,1,1,0,0,59,0,0,0,0.6,0.6,0.1,4,0,45,56,80.4,9,33,3,0,0,Huesca,2021-02-21 Huesca-Granada,ESP-LALIGA,20-21,c1c0323d
+f127d782,Álvaro Fernández,1,ESP,GK,22-314,90,0,0,0,0,0,0,0,0,45,0,1,0,0.0,0.0,0.0,0,0,31,43,72.1,0,22,0,0,0,Huesca,2021-02-21 Huesca-Granada,ESP-LALIGA,20-21,c1c0323d
+c77a8043,Antonio Puertas,10,ESP,"FW,AM,CM",29-000,90,0,0,0,0,0,0,0,0,34,1,0,0,0.0,0.0,0.0,0,0,17,25,68.0,2,18,3,1,0,Granada,2021-02-21 Huesca-Granada,ESP-LALIGA,20-21,c1c0323d
+452c3055,Alberto Soro,26,ESP,"LW,RW",21-349,61,1,1,0,0,1,1,0,0,16,0,0,1,0.7,0.7,0.0,1,1,10,12,83.3,3,9,1,1,0,Granada,2021-02-21 Huesca-Granada,ESP-LALIGA,20-21,c1c0323d
+5083a734,Yangel Herrera,21,VEN,RW,23-038,13,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,2,0,1,1,Granada,2021-02-21 Huesca-Granada,ESP-LALIGA,20-21,c1c0323d
+5eebbfdf,Kenedy,24,BRA,RW,25-013,16,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.1,2,0,3,4,75.0,0,4,0,0,0,Granada,2021-02-21 Huesca-Granada,ESP-LALIGA,20-21,c1c0323d
+45e17712,Dimitri Foulquier,2,FRA,RW,27-335,45,0,0,0,0,0,0,0,0,8,0,1,0,0.0,0.0,0.0,0,0,2,4,50.0,0,5,0,0,0,Granada,2021-02-21 Huesca-Granada,ESP-LALIGA,20-21,c1c0323d
+ed6ea4d9,Darwin Machís,11,VEN,LW,28-014,45,0,1,0,0,2,2,0,0,14,0,0,0,0.1,0.1,0.7,2,0,6,11,54.5,0,10,2,1,1,Granada,2021-02-21 Huesca-Granada,ESP-LALIGA,20-21,c1c0323d
+f681a8ef,Fede Vico,14,ESP,AM,26-232,45,0,0,0,0,1,1,0,0,28,0,0,0,0.0,0.0,0.0,1,0,16,24,66.7,1,18,1,1,0,Granada,2021-02-21 Huesca-Granada,ESP-LALIGA,20-21,c1c0323d
+43f71e77,Jorge Molina,23,ESP,FW,38-305,45,0,0,0,0,0,0,0,0,16,0,0,0,0.0,0.0,0.0,0,0,7,12,58.3,0,7,0,0,0,Granada,2021-02-21 Huesca-Granada,ESP-LALIGA,20-21,c1c0323d
+3d688b46,Yan Brice Eteki,8,CMR,"DM,CM",23-179,90,0,0,0,0,0,0,0,0,39,1,0,0,0.0,0.0,0.0,1,0,25,31,80.6,2,17,0,1,1,Granada,2021-02-21 Huesca-Granada,ESP-LALIGA,20-21,c1c0323d
+41fb0f4e,Domingos Quina,12,POR,DM,21-095,81,1,0,0,0,2,1,0,0,29,1,1,3,0.1,0.1,0.0,3,0,14,17,82.4,2,18,1,2,2,Granada,2021-02-21 Huesca-Granada,ESP-LALIGA,20-21,c1c0323d
+93090f69,Domingos Duarte,22,POR,CB,25-348,9,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,3,3,100.0,0,0,0,0,0,Granada,2021-02-21 Huesca-Granada,ESP-LALIGA,20-21,c1c0323d
+b7f2edff,Adrián Marín,18,ESP,"LB,LM",24-043,90,0,0,0,0,0,0,0,0,53,0,1,1,0.0,0.0,0.0,1,1,28,45,62.2,6,18,4,0,0,Granada,2021-02-21 Huesca-Granada,ESP-LALIGA,20-21,c1c0323d
+ea9b2ef9,Germán Sánchez,6,ESP,CB,34-071,89,0,0,0,0,0,0,0,1,37,0,4,0,0.0,0.0,0.0,0,0,21,27,77.8,2,12,0,0,0,Granada,2021-02-21 Huesca-Granada,ESP-LALIGA,20-21,c1c0323d
+f7c491f1,Nehuén Pérez,3,ARG,CB,20-242,90,0,0,0,0,2,0,1,0,33,0,1,1,0.1,0.1,0.0,0,0,18,23,78.3,1,13,0,0,0,Granada,2021-02-21 Huesca-Granada,ESP-LALIGA,20-21,c1c0323d
+3624ce4c,Víctor Díaz,16,ESP,"RB,RM",32-254,90,0,0,0,0,0,0,1,0,70,2,1,0,0.0,0.0,0.0,1,0,38,59,64.4,3,27,2,2,0,Granada,2021-02-21 Huesca-Granada,ESP-LALIGA,20-21,c1c0323d
+ea83bfa6,Rui Silva,1,POR,GK,27-014,90,0,0,0,0,0,0,1,0,36,0,0,0,0.0,0.0,0.0,0,0,17,34,50.0,0,17,0,0,0,Granada,2021-02-21 Huesca-Granada,ESP-LALIGA,20-21,c1c0323d

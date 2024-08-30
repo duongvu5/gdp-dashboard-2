@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+a190d597,Diego Costa,19,ESP,FW,29-322,90,0,0,0,0,0,0,0,0,32,0,0,0,0.0,0.0,0.0,0,0,16,24,66.7,2,18,2,5,1,Atlético Madrid,2018-08-25 Atlético Madrid-Rayo Vallecano,ESP-LALIGA,18-19,9dafff66
+df69b544,Antoine Griezmann,7,FRA,FW,27-157,75,1,0,0,0,2,1,0,0,36,1,0,1,0.6,0.6,0.1,2,0,19,27,70.4,3,19,1,1,1,Atlético Madrid,2018-08-25 Atlético Madrid-Rayo Vallecano,ESP-LALIGA,18-19,9dafff66
+3ef0fa48,Gelson Martins,18,POR,RW,23-106,15,0,0,0,0,0,0,0,0,3,2,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,1,0,0,0,Atlético Madrid,2018-08-25 Atlético Madrid-Rayo Vallecano,ESP-LALIGA,18-19,9dafff66
+4dbd0916,Thomas Lemar,11,FRA,"LM,LW,RM",22-286,90,0,0,0,0,1,1,0,0,64,1,4,0,0.0,0.0,0.1,4,0,42,53,79.2,8,45,1,5,3,Atlético Madrid,2018-08-25 Atlético Madrid-Rayo Vallecano,ESP-LALIGA,18-19,9dafff66
+c14bc029,Saúl Ñíguez,8,ESP,CM,23-277,90,0,0,0,0,3,0,0,0,77,10,0,1,0.1,0.1,0.0,1,0,48,61,78.7,8,37,2,2,2,Atlético Madrid,2018-08-25 Atlético Madrid-Rayo Vallecano,ESP-LALIGA,18-19,9dafff66
+6434f10d,Rodri,14,ESP,CM,22-064,90,0,0,0,0,0,0,0,0,67,4,1,0,0.0,0.0,0.0,2,0,50,55,90.9,3,34,0,1,0,Atlético Madrid,2018-08-25 Atlético Madrid-Rayo Vallecano,ESP-LALIGA,18-19,9dafff66
+01eb744d,Ángel Correa,10,ARG,RM,23-169,65,0,0,0,0,0,0,0,0,30,2,0,2,0.0,0.0,0.0,2,0,14,23,60.9,5,17,4,3,2,Atlético Madrid,2018-08-25 Atlético Madrid-Rayo Vallecano,ESP-LALIGA,18-19,9dafff66
+55126f3b,Koke,6,ESP,"CM,LM",26-229,25,0,0,0,0,0,0,1,0,16,2,0,1,0.0,0.0,0.0,0,0,8,11,72.7,0,5,0,0,0,Atlético Madrid,2018-08-25 Atlético Madrid-Rayo Vallecano,ESP-LALIGA,18-19,9dafff66
+c3ee18ef,Lucas Hernández,21,FRA,LB,22-192,90,0,0,0,0,2,0,0,0,76,4,0,1,0.1,0.1,0.0,0,0,47,63,74.6,6,36,2,2,0,Atlético Madrid,2018-08-25 Atlético Madrid-Rayo Vallecano,ESP-LALIGA,18-19,9dafff66
+fc4f85b1,Diego Godín,2,URU,CB,32-190,90,0,0,0,0,0,0,0,0,49,0,4,0,0.0,0.0,0.0,0,0,39,45,86.7,2,29,1,0,0,Atlético Madrid,2018-08-25 Atlético Madrid-Rayo Vallecano,ESP-LALIGA,18-19,9dafff66
+f6ac68c1,Stefan Savić,15,MNE,CB,27-229,90,0,1,0,0,1,0,0,0,56,1,3,2,0.1,0.1,0.6,2,1,34,41,82.9,5,25,1,0,0,Atlético Madrid,2018-08-25 Atlético Madrid-Rayo Vallecano,ESP-LALIGA,18-19,9dafff66
+cfd8d664,Juanfran,20,ESP,RB,33-228,35,0,0,0,0,0,0,0,0,25,0,1,0,0.0,0.0,0.0,1,0,15,23,65.2,0,9,0,0,0,Atlético Madrid,2018-08-25 Atlético Madrid-Rayo Vallecano,ESP-LALIGA,18-19,9dafff66
+529f49ab,Thomas Partey,5,GHA,RB,25-073,55,0,0,0,0,0,0,0,0,31,4,1,0,0.0,0.0,0.0,2,0,22,29,75.9,1,17,2,0,0,Atlético Madrid,2018-08-25 Atlético Madrid-Rayo Vallecano,ESP-LALIGA,18-19,9dafff66
+ee8508c0,Jan Oblak,13,SVN,GK,25-230,90,0,0,0,0,0,0,0,0,28,0,0,0,0.0,0.0,0.0,0,0,11,26,42.3,0,12,0,0,0,Atlético Madrid,2018-08-25 Atlético Madrid-Rayo Vallecano,ESP-LALIGA,18-19,9dafff66
+db8f0eba,Adri Embarba,11,ESP,"FW,LM,RM",26-110,90,0,0,0,0,4,1,0,0,54,1,3,1,0.2,0.2,0.2,5,0,27,40,67.5,2,31,6,5,2,Rayo Vallecano,2018-08-25 Atlético Madrid-Rayo Vallecano,ESP-LALIGA,18-19,9dafff66
+90bbd822,Álvaro García,18,ESP,LM,25-302,76,0,0,0,0,2,0,1,0,34,0,2,1,0.1,0.1,0.1,2,0,12,25,48.0,2,25,1,1,0,Rayo Vallecano,2018-08-25 Atlético Madrid-Rayo Vallecano,ESP-LALIGA,18-19,9dafff66
+014b57f5,Sergio Moreno,29,ESP,FW,19-236,14,0,0,0,0,1,1,0,0,3,0,0,0,0.3,0.3,0.0,1,0,2,2,100.0,0,4,0,0,0,Rayo Vallecano,2018-08-25 Atlético Madrid-Rayo Vallecano,ESP-LALIGA,18-19,9dafff66
+5ae499d0,Santi Comesaña,27,ESP,CM,21-324,68,0,0,0,0,0,0,0,0,44,2,1,0,0.0,0.0,0.0,2,0,25,33,75.8,9,30,3,4,2,Rayo Vallecano,2018-08-25 Atlético Madrid-Rayo Vallecano,ESP-LALIGA,18-19,9dafff66
+fc8b614b,José Pozo,22,ESP,"RM,FW,CM",22-163,22,0,0,0,0,1,1,0,0,24,0,0,0,0.6,0.6,0.0,2,0,17,19,89.5,5,15,0,2,0,Rayo Vallecano,2018-08-25 Atlético Madrid-Rayo Vallecano,ESP-LALIGA,18-19,9dafff66
+fc647b34,Óscar Trejo,8,ARG,CM,30-121,90,0,0,0,0,2,0,0,0,95,5,1,2,0.1,0.1,0.5,5,0,61,81,75.3,10,64,3,4,3,Rayo Vallecano,2018-08-25 Atlético Madrid-Rayo Vallecano,ESP-LALIGA,18-19,9dafff66
+5b1bf5e3,Gaël Kakuta,10,COD,RM,27-065,68,0,0,0,0,0,0,0,0,42,1,1,0,0.0,0.0,0.0,1,0,28,36,77.8,2,26,2,4,3,Rayo Vallecano,2018-08-25 Atlético Madrid-Rayo Vallecano,ESP-LALIGA,18-19,9dafff66
+31223bcf,Álvaro Medrán,4,ESP,"CM,RM",24-163,22,0,0,0,0,1,0,0,0,30,0,0,1,0.0,0.0,0.0,2,0,28,28,100.0,5,23,2,1,0,Rayo Vallecano,2018-08-25 Atlético Madrid-Rayo Vallecano,ESP-LALIGA,18-19,9dafff66
+7b309e55,Gorka Elustondo,6,ESP,DM,31-160,90,0,0,0,0,0,0,0,0,60,2,4,3,0.0,0.0,0.0,0,0,43,48,89.6,4,31,1,0,0,Rayo Vallecano,2018-08-25 Atlético Madrid-Rayo Vallecano,ESP-LALIGA,18-19,9dafff66
+16e9d0ea,Álex Moreno,7,ESP,LB,25-078,90,0,0,0,0,1,0,0,0,58,2,2,1,0.0,0.0,0.7,5,0,39,45,86.7,5,30,5,1,0,Rayo Vallecano,2018-08-25 Atlético Madrid-Rayo Vallecano,ESP-LALIGA,18-19,9dafff66
+d70a2141,Jordi Amat,16,IDN,CB,26-157,90,0,0,0,0,0,0,0,0,41,0,0,0,0.0,0.0,0.0,0,0,30,33,90.9,4,26,1,4,4,Rayo Vallecano,2018-08-25 Atlético Madrid-Rayo Vallecano,ESP-LALIGA,18-19,9dafff66
+1f54ed90,Abdoulaye Ba,21,SEN,CB,27-236,90,0,0,0,0,0,0,0,0,68,4,2,0,0.0,0.0,0.0,0,0,48,54,88.9,4,40,0,0,0,Rayo Vallecano,2018-08-25 Atlético Madrid-Rayo Vallecano,ESP-LALIGA,18-19,9dafff66
+cacadf4f,Luis Advíncula,17,PER,RB,28-176,90,0,0,0,0,1,0,0,0,90,4,0,2,0.1,0.1,0.0,0,0,64,76,84.2,5,54,1,2,1,Rayo Vallecano,2018-08-25 Atlético Madrid-Rayo Vallecano,ESP-LALIGA,18-19,9dafff66
+17d9e354,Alberto García,1,ESP,GK,33-197,90,0,0,0,0,0,0,0,0,29,0,0,0,0.0,0.0,0.0,0,0,22,28,78.6,0,14,0,0,0,Rayo Vallecano,2018-08-25 Atlético Madrid-Rayo Vallecano,ESP-LALIGA,18-19,9dafff66

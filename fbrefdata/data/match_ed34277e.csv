@@ -1,0 +1,32 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+8d78e732,Robert Lewandowski,9,POL,FW,35-099,90,0,0,0,0,1,0,0,0,29,0,0,0,0.1,0.1,0.0,2,0,12,21,57.1,3,18,0,0,0,Barcelona,2023-11-28 Barcelona-Porto,UCL,23-24,ed34277e
+8aafd64f,João Félix,14,POR,LW,24-018,74,1,0,0,0,5,1,1,0,31,2,0,0,0.5,0.5,0.0,3,1,12,20,60.0,3,16,0,3,1,Barcelona,2023-11-28 Barcelona-Porto,UCL,23-24,ed34277e
+9e1035f8,Ferrán Torres,7,ESP,LW,23-272,16,0,0,0,0,1,0,0,0,9,0,0,1,0.1,0.1,0.0,0,0,2,5,40.0,0,3,1,1,1,Barcelona,2023-11-28 Barcelona-Porto,UCL,23-24,ed34277e
+3423f250,Raphinha,11,BRA,RW,26-349,89,0,0,0,0,8,4,0,0,54,1,0,1,0.6,0.6,0.5,6,0,28,35,80.0,1,34,8,2,0,Barcelona,2023-11-28 Barcelona-Porto,UCL,23-24,ed34277e
+82ec26c1,Lamine Yamal,27,ESP,RW,16-138,1,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,2,1,1,1,Barcelona,2023-11-28 Barcelona-Porto,UCL,23-24,ed34277e
+1bacc518,Frenkie de Jong,21,NED,LM,26-200,90,0,0,0,0,0,0,1,0,66,3,1,0,0.0,0.0,0.0,2,0,50,60,83.3,5,43,1,4,3,Barcelona,2023-11-28 Barcelona-Porto,UCL,23-24,ed34277e
+819b3158,İlkay Gündoğan,22,GER,CM,33-035,90,0,0,0,0,0,0,0,0,63,1,2,1,0.0,0.0,0.2,2,0,47,55,85.5,5,41,1,3,2,Barcelona,2023-11-28 Barcelona-Porto,UCL,23-24,ed34277e
+0d9b2d31,Pedri,8,ESP,RM,21-003,90,0,1,0,0,1,0,0,0,42,0,0,3,0.2,0.2,0.2,5,1,28,36,77.8,4,20,2,1,1,Barcelona,2023-11-28 Barcelona-Porto,UCL,23-24,ed34277e
+bd6351cd,João Cancelo,2,POR,LB,29-185,81,1,1,0,0,4,2,0,0,56,4,1,1,0.2,0.2,0.3,8,2,36,40,90.0,9,38,8,9,6,Barcelona,2023-11-28 Barcelona-Porto,UCL,23-24,ed34277e
+5ccc9672,Alejandro Balde,3,ESP,LB,20-041,9,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,0,0,5,8,62.5,1,4,2,1,0,Barcelona,2023-11-28 Barcelona-Porto,UCL,23-24,ed34277e
+3fc45c73,Iñigo Martínez,5,ESP,CB,32-195,90,0,0,0,0,0,0,0,0,66,1,2,2,0.0,0.0,0.0,1,0,50,58,86.2,6,33,1,0,0,Barcelona,2023-11-28 Barcelona-Porto,UCL,23-24,ed34277e
+4d1666ff,Jules Koundé,23,FRA,CB,25-016,90,0,0,0,0,0,0,0,0,81,0,2,3,0.0,0.0,0.0,3,0,63,72,87.5,3,54,0,1,1,Barcelona,2023-11-28 Barcelona-Porto,UCL,23-24,ed34277e
+2bef2bca,Ronald Araújo,4,URU,RB,24-266,90,0,0,0,0,1,0,0,0,56,1,1,2,0.2,0.2,0.1,2,0,36,48,75.0,6,24,1,0,0,Barcelona,2023-11-28 Barcelona-Porto,UCL,23-24,ed34277e
+cc1c5035,Iñaki Peña,13,ESP,GK,24-271,90,0,0,0,0,0,0,0,0,49,0,0,0,0.0,0.0,0.0,0,0,36,43,83.7,0,23,0,0,0,Barcelona,2023-11-28 Barcelona-Porto,UCL,23-24,ed34277e
+4c2a5d34,Mehdi Taremi,9,IRN,FW,31-133,90,0,0,0,0,4,0,0,0,36,2,0,4,0.4,0.4,0.2,4,0,15,24,62.5,1,14,2,1,1,Porto,2023-11-28 Barcelona-Porto,UCL,23-24,ed34277e
+6f3cc2fe,Evanilson,30,BRA,FW,24-053,80,0,0,0,0,2,0,0,0,22,0,2,0,0.1,0.1,0.0,2,0,10,14,71.4,1,17,3,2,0,Porto,2023-11-28 Barcelona-Porto,UCL,23-24,ed34277e
+5ef3d210,Francisco Conceição,10,POR,"FW,WB",20-349,10,0,0,0,0,1,1,0,0,13,0,1,1,0.2,0.2,0.1,2,0,9,10,90.0,1,9,0,1,0,Porto,2023-11-28 Barcelona-Porto,UCL,23-24,ed34277e
+5b3d1a7a,Galeno,13,BRA,LM,26-037,89,0,1,0,0,2,2,0,0,33,1,0,2,0.1,0.1,0.0,4,1,16,21,76.2,2,14,2,1,1,Porto,2023-11-28 Barcelona-Porto,UCL,23-24,ed34277e
+f3945e07,Toni Martínez,29,ESP,"FW,LM",26-151,1,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,1,5,20.0,0,2,0,0,0,Porto,2023-11-28 Barcelona-Porto,UCL,23-24,ed34277e
+9ffb2ce6,Alan Varela,22,ARG,CM,22-147,90,0,0,0,0,2,1,0,0,52,4,1,0,0.1,0.1,0.0,1,0,36,42,85.7,2,27,0,1,1,Porto,2023-11-28 Barcelona-Porto,UCL,23-24,ed34277e
+577efaec,Stephen Eustáquio,6,CAN,CM,26-342,80,0,0,0,0,0,0,0,0,42,3,2,4,0.0,0.0,0.1,3,0,27,33,81.8,2,16,0,0,0,Porto,2023-11-28 Barcelona-Porto,UCL,23-24,ed34277e
+2c56a792,Nicolás González,16,ESP,CM,21-329,10,0,0,0,0,0,0,0,0,12,1,0,0,0.0,0.0,0.0,0,0,6,10,60.0,0,8,0,0,0,Porto,2023-11-28 Barcelona-Porto,UCL,23-24,ed34277e
+fc4e7637,Pepê,11,BRA,"RM,WB",26-277,90,1,0,0,0,1,1,1,0,50,2,1,0,0.2,0.2,0.1,3,0,28,40,70.0,6,37,1,2,1,Porto,2023-11-28 Barcelona-Porto,UCL,23-24,ed34277e
+24051310,Zaidu Sanusi,12,NGA,"LB,CB",26-168,90,0,0,0,0,1,0,0,0,48,1,2,1,0.0,0.0,0.0,0,0,26,34,76.5,3,20,0,1,0,Porto,2023-11-28 Barcelona-Porto,UCL,23-24,ed34277e
+4a5839fa,Fábio Cardoso,2,POR,CB,29-223,89,0,0,0,0,0,0,1,0,51,1,0,3,0.0,0.0,0.0,0,0,41,44,93.2,1,31,0,0,0,Porto,2023-11-28 Barcelona-Porto,UCL,23-24,ed34277e
+e9fda01d,Danny Loader,19,ENG,"AM,CB",23-092,1,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,1,2,0,0,0,Porto,2023-11-28 Barcelona-Porto,UCL,23-24,ed34277e
+c906ce0f,Pepe,3,POR,CB,40-275,90,0,0,0,0,0,0,0,0,60,0,0,2,0.0,0.0,0.1,2,0,44,54,81.5,4,39,1,0,0,Porto,2023-11-28 Barcelona-Porto,UCL,23-24,ed34277e
+82a39b66,João Mário Lopes,23,POR,RB,23-329,66,0,0,0,0,0,0,1,0,36,2,0,1,0.0,0.0,0.0,2,0,26,28,92.9,3,17,2,3,0,Porto,2023-11-28 Barcelona-Porto,UCL,23-24,ed34277e
+c8d1c3a5,Jorge Eduardo Sánchez,15,MEX,"RB,CB",25-353,24,0,0,0,0,0,0,0,0,24,3,1,0,0.0,0.0,0.0,0,0,13,18,72.2,1,11,1,0,0,Porto,2023-11-28 Barcelona-Porto,UCL,23-24,ed34277e
+93fffbcf,Diogo Costa,99,POR,GK,24-070,90,0,0,0,0,0,0,0,0,54,0,0,0,0.0,0.0,0.0,0,0,41,49,83.7,0,27,0,0,0,Porto,2023-11-28 Barcelona-Porto,UCL,23-24,ed34277e

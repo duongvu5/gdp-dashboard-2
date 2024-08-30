@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+129af0db,Álvaro Morata,19,ESP,FW,30-210,45,0,0,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.0,0,0,7,10,70.0,0,8,1,0,0,Atlético Madrid,2023-05-21 Atlético Madrid-Osasuna,ESP-LALIGA,22-23,62d82c5a
+01eb744d,Ángel Correa,10,ARG,FW,28-073,45,1,0,0,0,1,1,0,0,16,0,0,0,0.4,0.4,0.0,1,1,7,10,70.0,1,13,0,0,0,Atlético Madrid,2023-05-21 Atlético Madrid-Osasuna,ESP-LALIGA,22-23,62d82c5a
+df69b544,Antoine Griezmann,8,FRA,FW,32-061,89,0,1,0,0,3,1,0,0,61,2,2,1,0.1,0.1,0.6,7,2,35,48,72.9,5,30,4,2,0,Atlético Madrid,2023-05-21 Atlético Madrid-Osasuna,ESP-LALIGA,22-23,62d82c5a
+64035864,Carlos Martín,29,ESP,FW,21-029,1,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,0,0,0,0,Atlético Madrid,2023-05-21 Atlético Madrid-Osasuna,ESP-LALIGA,22-23,62d82c5a
+c14bc029,Saúl Ñíguez,17,ESP,CM,28-181,90,1,0,0,0,4,1,0,0,58,3,0,2,0.6,0.6,0.0,2,1,35,44,79.5,2,26,1,1,1,Atlético Madrid,2023-05-21 Atlético Madrid-Osasuna,ESP-LALIGA,22-23,62d82c5a
+55126f3b,Koke,6,ESP,CM,31-133,83,0,0,0,0,0,0,0,0,72,0,1,2,0.0,0.0,0.0,2,1,64,70,91.4,6,38,0,1,1,Atlético Madrid,2023-05-21 Atlético Madrid-Osasuna,ESP-LALIGA,22-23,62d82c5a
+45736cec,Pablo Barrios,24,ESP,CM,19-340,7,0,0,0,0,2,1,0,0,6,0,0,0,0.1,0.1,0.0,2,0,3,3,100.0,1,3,0,0,0,Atlético Madrid,2023-05-21 Atlético Madrid-Osasuna,ESP-LALIGA,22-23,62d82c5a
+162efffd,Rodrigo De Paul,5,ARG,CM,28-362,84,0,1,0,0,1,0,0,0,66,0,1,0,0.0,0.0,0.5,2,1,52,63,82.5,9,42,1,2,1,Atlético Madrid,2023-05-21 Atlético Madrid-Osasuna,ESP-LALIGA,22-23,62d82c5a
+cce181df,Geoffrey Kondogbia,4,CTA,CM,30-095,6,0,0,0,0,0,0,0,0,5,1,0,0,0.0,0.0,0.0,0,0,3,3,100.0,0,4,0,0,0,Atlético Madrid,2023-05-21 Atlético Madrid-Osasuna,ESP-LALIGA,22-23,62d82c5a
+de39485a,Yannick Carrasco,21,BEL,LB,29-259,84,1,0,0,0,2,1,0,0,60,0,0,1,0.4,0.4,0.1,6,0,40,51,78.4,2,39,10,9,3,Atlético Madrid,2023-05-21 Atlético Madrid-Osasuna,ESP-LALIGA,22-23,62d82c5a
+3353737a,Sergio Reguilón,3,ESP,LB,26-156,6,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.1,2,0,4,4,100.0,0,3,1,1,1,Atlético Madrid,2023-05-21 Atlético Madrid-Osasuna,ESP-LALIGA,22-23,62d82c5a
+555f3a0b,Mario Hermoso,22,ESP,CB,27-337,90,0,0,0,0,0,0,0,0,101,0,0,0,0.0,0.0,0.1,3,0,80,95,84.2,7,54,2,2,2,Atlético Madrid,2023-05-21 Atlético Madrid-Osasuna,ESP-LALIGA,22-23,62d82c5a
+f0da930c,José María Giménez,2,URU,CB,28-121,90,0,0,0,0,0,0,0,0,58,0,0,3,0.0,0.0,0.0,0,0,45,47,95.7,2,36,0,1,1,Atlético Madrid,2023-05-21 Atlético Madrid-Osasuna,ESP-LALIGA,22-23,62d82c5a
+5dfc6ad5,Axel Witsel,20,BEL,CB,34-129,90,0,0,0,0,2,0,0,0,63,0,2,0,0.2,0.2,0.0,0,0,50,56,89.3,1,48,0,0,0,Atlético Madrid,2023-05-21 Atlético Madrid-Osasuna,ESP-LALIGA,22-23,62d82c5a
+23610943,Nahuel Molina,16,ARG,RB,25-045,90,0,0,0,0,0,0,0,0,55,2,0,1,0.0,0.0,0.0,0,0,34,45,75.6,1,16,2,4,2,Atlético Madrid,2023-05-21 Atlético Madrid-Osasuna,ESP-LALIGA,22-23,62d82c5a
+3f034750,Ivo Grbić,1,CRO,GK,27-123,90,0,0,0,0,0,0,0,0,42,0,0,0,0.0,0.0,0.0,0,0,33,40,82.5,0,23,0,0,0,Atlético Madrid,2023-05-21 Atlético Madrid-Osasuna,ESP-LALIGA,22-23,62d82c5a
+8f3565b3,Ante Budimir,17,CRO,FW,31-303,67,0,0,0,0,2,0,1,0,14,0,0,1,0.3,0.3,0.0,2,0,4,7,57.1,0,3,1,1,1,Osasuna,2023-05-21 Atlético Madrid-Osasuna,ESP-LALIGA,22-23,62d82c5a
+e897d8ba,Kiké,18,ESP,FW,33-177,23,0,0,0,0,1,0,0,0,11,0,0,1,0.0,0.0,0.0,0,0,5,6,83.3,0,6,1,0,0,Osasuna,2023-05-21 Atlético Madrid-Osasuna,ESP-LALIGA,22-23,62d82c5a
+253a06b9,Ezequiel Ávila,9,ARG,LW,29-104,45,0,0,0,0,3,0,0,0,24,0,0,0,0.1,0.1,0.0,0,0,13,19,68.4,2,15,1,0,0,Osasuna,2023-05-21 Atlético Madrid-Osasuna,ESP-LALIGA,22-23,62d82c5a
+a56da3ba,Juan Cruz Armada,3,ESP,"LB,CB",30-297,45,0,0,0,0,0,0,0,0,30,0,0,1,0.0,0.0,0.0,3,0,22,27,81.5,4,18,0,1,0,Osasuna,2023-05-21 Atlético Madrid-Osasuna,ESP-LALIGA,22-23,62d82c5a
+5c96b017,Rubén García,14,ESP,RW,29-311,67,0,0,0,0,0,0,0,0,42,2,2,1,0.0,0.0,0.3,2,0,25,35,71.4,2,24,0,1,0,Osasuna,2023-05-21 Atlético Madrid-Osasuna,ESP-LALIGA,22-23,62d82c5a
+aad53e64,Kike Barja,11,ESP,"FW,RW",26-050,23,0,0,0,0,1,1,0,0,21,1,0,2,0.0,0.0,0.0,2,0,9,14,64.3,2,9,2,1,0,Osasuna,2023-05-21 Atlético Madrid-Osasuna,ESP-LALIGA,22-23,62d82c5a
+7c363088,Aimar Oroz,22,ESP,"LM,LW,CM",21-175,90,0,0,0,0,1,1,0,0,59,3,1,2,0.1,0.1,0.0,1,0,35,45,77.8,6,28,4,2,2,Osasuna,2023-05-21 Atlético Madrid-Osasuna,ESP-LALIGA,22-23,62d82c5a
+0e4fef6e,Lucas Torró,6,ESP,CM,28-306,74,0,0,0,0,0,0,0,0,42,0,2,3,0.0,0.0,0.0,1,0,33,38,86.8,2,13,1,0,0,Osasuna,2023-05-21 Atlético Madrid-Osasuna,ESP-LALIGA,22-23,62d82c5a
+175ece4c,Iker Muñoz,34,ESP,CM,20-197,16,0,0,0,0,0,0,0,0,8,0,1,0,0.0,0.0,0.0,0,0,7,7,100.0,3,3,0,0,0,Osasuna,2023-05-21 Atlético Madrid-Osasuna,ESP-LALIGA,22-23,62d82c5a
+9939e168,Jon Moncayola,7,ESP,"RM,RB",25-008,90,0,0,0,0,0,0,0,0,68,1,2,3,0.0,0.0,0.1,3,0,47,60,78.3,6,22,0,0,0,Osasuna,2023-05-21 Atlético Madrid-Osasuna,ESP-LALIGA,22-23,62d82c5a
+ffacd3d5,Manu Sánchez,20,ESP,"LB,LM",22-270,90,0,0,0,0,0,0,0,0,64,1,0,1,0.0,0.0,0.2,8,0,45,57,78.9,5,26,3,2,1,Osasuna,2023-05-21 Atlético Madrid-Osasuna,ESP-LALIGA,22-23,62d82c5a
+3e42f707,David García,5,ESP,CB,29-096,90,0,0,0,0,1,0,0,0,62,0,2,0,0.0,0.0,0.0,1,0,45,51,88.2,5,27,1,0,0,Osasuna,2023-05-21 Atlético Madrid-Osasuna,ESP-LALIGA,22-23,62d82c5a
+132ac341,Aridane Hernández,23,ESP,CB,34-059,90,0,0,0,0,0,0,0,0,68,0,1,3,0.0,0.0,0.1,1,0,56,62,90.3,7,34,2,0,0,Osasuna,2023-05-21 Atlético Madrid-Osasuna,ESP-LALIGA,22-23,62d82c5a
+1f079188,Rubén Peña,15,ESP,RB,31-307,67,0,0,0,0,1,0,1,0,50,1,0,2,0.0,0.0,0.0,0,0,28,39,71.8,4,29,3,4,4,Osasuna,2023-05-21 Atlético Madrid-Osasuna,ESP-LALIGA,22-23,62d82c5a
+3701906c,Pablo Ibáñez,19,ESP,"CM,RB",24-243,23,0,0,0,0,2,0,0,0,9,0,0,0,0.1,0.1,0.0,0,0,5,6,83.3,2,5,1,0,0,Osasuna,2023-05-21 Atlético Madrid-Osasuna,ESP-LALIGA,22-23,62d82c5a
+a4995f48,Sergio Herrera,1,ESP,GK,29-350,90,0,0,0,0,0,0,0,0,41,0,0,0,0.0,0.0,0.0,0,0,32,39,82.1,0,15,0,0,0,Osasuna,2023-05-21 Atlético Madrid-Osasuna,ESP-LALIGA,22-23,62d82c5a

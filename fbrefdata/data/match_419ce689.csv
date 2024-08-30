@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+9dbb75ca,Alexandre Lacazette,9,FRA,FW,27-167,90,0,0,0,0,1,0,0,0,36,1,0,0,0.1,0.1,0.0,2,0,17,29,58.6,1,22,0,1,1,Arsenal,2018-11-11 Arsenal-Wolves,ENG-EPL,18-19,419ce689
+d5dd5f1f,Pierre-Emerick Aubameyang,14,GAB,"FW,LW",29-146,90,0,0,0,0,1,0,0,0,32,0,0,3,0.5,0.5,0.0,0,0,19,25,76.0,0,22,1,2,0,Arsenal,2018-11-11 Arsenal-Wolves,ENG-EPL,18-19,419ce689
+6ca5ec4b,Alex Iwobi,17,NGA,RW,22-192,45,0,0,0,0,1,0,0,0,40,0,0,0,0.1,0.1,0.0,2,0,29,36,80.6,5,33,4,3,2,Arsenal,2018-11-11 Arsenal-Wolves,ENG-EPL,18-19,419ce689
+5ea8ef20,Mattéo Guendouzi,29,FRA,"LM,DM,RW",19-211,45,0,0,0,0,0,0,0,0,42,0,0,1,0.0,0.0,0.0,0,0,30,37,81.1,5,32,4,0,0,Arsenal,2018-11-11 Arsenal-Wolves,ENG-EPL,18-19,419ce689
+16380240,Mesut Özil,10,GER,AM,30-027,74,0,0,0,0,0,0,1,0,86,0,0,0,0.0,0.0,0.1,3,0,75,83,90.4,17,72,5,3,3,Arsenal,2018-11-11 Arsenal-Wolves,ENG-EPL,18-19,419ce689
+ef619b0b,Aaron Ramsey,8,WAL,AM,27-320,16,0,1,0,0,1,1,0,0,12,0,1,0,0.1,0.1,0.0,1,1,7,10,70.0,1,7,1,0,0,Arsenal,2018-11-11 Arsenal-Wolves,ENG-EPL,18-19,419ce689
+e61b8aee,Granit Xhaka,34,SUI,"DM,CM,LB",26-045,90,0,0,0,0,1,0,0,0,134,1,2,1,0.0,0.0,0.0,2,1,102,127,80.3,18,95,3,2,0,Arsenal,2018-11-11 Arsenal-Wolves,ENG-EPL,18-19,419ce689
+52611641,Lucas Torreira,11,URU,"RM,DM",22-273,90,0,0,0,0,2,1,0,0,97,2,2,0,0.0,0.0,0.0,1,0,82,91,90.1,8,75,2,0,0,Arsenal,2018-11-11 Arsenal-Wolves,ENG-EPL,18-19,419ce689
+3935e52e,Sead Kolašinac,31,BIH,LB,25-144,75,0,0,0,0,0,0,0,0,86,1,0,1,0.0,0.0,0.0,0,0,58,75,77.3,3,50,3,1,0,Arsenal,2018-11-11 Arsenal-Wolves,ENG-EPL,18-19,419ce689
+dd0daf32,Henrikh Mkhitaryan,7,ARM,LM,29-294,15,1,0,0,0,1,1,0,0,18,1,0,1,0.0,0.0,0.0,0,0,6,11,54.5,0,11,2,2,0,Arsenal,2018-11-11 Arsenal-Wolves,ENG-EPL,18-19,419ce689
+d79a8c87,Rob Holding,16,ENG,CB,23-052,90,0,0,0,0,0,0,0,0,99,2,2,1,0.0,0.0,0.0,0,0,87,92,94.6,8,71,0,2,1,Arsenal,2018-11-11 Arsenal-Wolves,ENG-EPL,18-19,419ce689
+3f2d59fe,Shkodran Mustafi,20,GER,CB,26-208,90,0,0,0,0,0,0,0,0,104,4,1,0,0.0,0.0,0.0,0,0,82,94,87.2,9,77,1,1,1,Arsenal,2018-11-11 Arsenal-Wolves,ENG-EPL,18-19,419ce689
+f874dd44,Héctor Bellerín,2,ESP,RB,23-237,90,0,0,0,0,2,0,1,0,66,0,0,0,0.1,0.1,0.5,2,0,51,60,85.0,6,46,6,3,1,Arsenal,2018-11-11 Arsenal-Wolves,ENG-EPL,18-19,419ce689
+2628fd2b,Bernd Leno,19,GER,GK,26-252,90,0,0,0,0,0,0,0,0,29,0,0,0,0.0,0.0,0.0,0,0,25,26,96.2,0,20,0,0,0,Arsenal,2018-11-11 Arsenal-Wolves,ENG-EPL,18-19,419ce689
+b561db50,Raúl Jiménez,9,MEX,"FW,RW",27-190,84,0,1,0,0,2,0,0,0,37,0,0,3,0.1,0.1,0.9,2,1,15,22,68.2,4,17,3,0,0,Wolverhampton Wanderers,2018-11-11 Arsenal-Wolves,ENG-EPL,18-19,419ce689
+32f60ed8,Morgan Gibbs-White,17,ENG,RW,18-288,6,0,0,0,0,1,0,0,0,10,0,0,0,0.1,0.1,0.0,0,0,4,7,57.1,0,3,0,0,0,Wolverhampton Wanderers,2018-11-11 Arsenal-Wolves,ENG-EPL,18-19,419ce689
+979b811d,Ivan Cavaleiro,7,POR,LW,25-024,60,1,0,0,0,1,1,0,0,23,1,1,3,0.4,0.4,0.0,1,1,11,15,73.3,2,16,1,2,2,Wolverhampton Wanderers,2018-11-11 Arsenal-Wolves,ENG-EPL,18-19,419ce689
+178ae8f8,Diogo Jota,18,POR,LW,21-342,30,0,0,0,0,3,1,0,0,9,0,0,0,0.6,0.6,0.0,1,0,2,3,66.7,0,6,1,2,0,Wolverhampton Wanderers,2018-11-11 Arsenal-Wolves,ENG-EPL,18-19,419ce689
+f13d02a6,Hélder Costa,10,ANG,RW,24-303,74,0,0,0,0,3,2,1,0,37,0,1,1,0.2,0.2,0.0,1,0,18,25,72.0,2,29,7,3,3,Wolverhampton Wanderers,2018-11-11 Arsenal-Wolves,ENG-EPL,18-19,419ce689
+9a28eba4,Adama Traoré,37,ESP,FW,22-290,16,0,0,0,0,1,1,0,0,10,1,0,0,0.5,0.5,0.1,3,0,4,5,80.0,1,4,2,2,2,Wolverhampton Wanderers,2018-11-11 Arsenal-Wolves,ENG-EPL,18-19,419ce689
+e28868f3,Jonny Castro,19,ESP,LM,24-253,90,0,0,0,0,0,0,0,0,39,6,5,1,0.0,0.0,0.0,1,0,21,25,84.0,1,15,2,0,0,Wolverhampton Wanderers,2018-11-11 Arsenal-Wolves,ENG-EPL,18-19,419ce689
+44bfb6c5,Rúben Neves,8,POR,CM,21-243,90,0,0,0,0,2,0,0,0,53,1,5,3,0.1,0.1,0.0,2,0,34,41,82.9,5,25,1,0,0,Wolverhampton Wanderers,2018-11-11 Arsenal-Wolves,ENG-EPL,18-19,419ce689
+f5a00fa4,João Moutinho,28,POR,CM,32-064,90,0,0,0,0,0,0,0,0,50,4,2,0,0.0,0.0,0.1,3,0,31,42,73.8,1,18,0,0,0,Wolverhampton Wanderers,2018-11-11 Arsenal-Wolves,ENG-EPL,18-19,419ce689
+d557d734,Matt Doherty,2,IRL,RM,26-299,90,0,0,0,0,0,0,1,0,68,1,5,3,0.0,0.0,0.1,4,0,29,51,56.9,3,21,2,1,0,Wolverhampton Wanderers,2018-11-11 Arsenal-Wolves,ENG-EPL,18-19,419ce689
+a4ac4b8f,Willy Boly,15,CIV,CB,27-281,90,0,0,0,0,0,0,0,0,24,2,2,2,0.0,0.0,0.5,1,0,12,15,80.0,1,11,0,0,0,Wolverhampton Wanderers,2018-11-11 Arsenal-Wolves,ENG-EPL,18-19,419ce689
+2928dca2,Conor Coady,16,ENG,CB,25-259,90,0,0,0,0,0,0,0,0,34,0,4,2,0.0,0.0,0.0,2,0,20,24,83.3,0,19,0,0,0,Wolverhampton Wanderers,2018-11-11 Arsenal-Wolves,ENG-EPL,18-19,419ce689
+0bad4516,Ryan Bennett,5,ENG,CB,28-250,90,0,0,0,0,0,0,0,0,41,3,3,3,0.0,0.0,0.1,0,0,18,24,75.0,0,10,0,0,0,Wolverhampton Wanderers,2018-11-11 Arsenal-Wolves,ENG-EPL,18-19,419ce689
+79b0d6a0,Rui Patrício,11,POR,GK,30-269,90,0,0,0,0,0,0,0,0,28,0,0,0,0.0,0.0,0.0,0,0,12,26,46.2,0,10,0,0,0,Wolverhampton Wanderers,2018-11-11 Arsenal-Wolves,ENG-EPL,18-19,419ce689

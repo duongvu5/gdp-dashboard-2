@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+d705ba44,Andrea Belotti,11,ITA,FW,29-153,90,0,0,0,0,1,0,0,0,31,3,0,1,0.0,0.0,0.1,3,0,11,17,64.7,1,17,0,1,0,Roma,2023-05-22 Roma-Salernitana,ITA-SERIA_A,22-23,83de7ca2
+eb58eef0,Georginio Wijnaldum,25,NED,"AM,LM,RW",32-192,66,0,0,0,0,0,0,0,0,18,2,0,0,0.0,0.0,0.1,1,0,10,12,83.3,3,15,3,2,1,Roma,2023-05-22 Roma-Salernitana,ITA-SERIA_A,22-23,83de7ca2
+f586779e,Tammy Abraham,9,ENG,"FW,RW",25-232,24,0,0,0,0,1,1,0,0,9,0,0,0,0.1,0.1,0.1,2,0,5,7,71.4,3,7,0,0,0,Roma,2023-05-22 Roma-Salernitana,ITA-SERIA_A,22-23,83de7ca2
+78f13530,Ola Solbakken,18,NOR,"AM,RW",24-257,45,0,0,0,0,1,0,0,0,25,1,0,1,0.1,0.1,0.0,2,0,10,18,55.6,0,18,0,1,1,Roma,2023-05-22 Roma-Salernitana,ITA-SERIA_A,22-23,83de7ca2
+4a5a45c7,Lorenzo Pellegrini,7,ITA,"LM,AM",26-337,45,0,0,0,0,3,1,0,0,31,2,0,0,0.1,0.1,0.1,5,1,14,26,53.8,3,19,1,0,0,Roma,2023-05-22 Roma-Salernitana,ITA-SERIA_A,22-23,83de7ca2
+eb3022c3,Benjamin Tahirovic,68,BIH,CM,20-080,45,0,0,0,0,0,0,0,0,27,1,0,1,0.0,0.0,0.0,0,0,17,22,77.3,4,20,0,0,0,Roma,2023-05-22 Roma-Salernitana,ITA-SERIA_A,22-23,83de7ca2
+eb7822d7,Nemanja Matić,8,SRB,"CM,DM",34-294,45,1,0,0,0,2,1,0,0,50,1,0,0,0.2,0.2,0.1,2,0,37,44,84.1,3,35,4,0,0,Roma,2023-05-22 Roma-Salernitana,ITA-SERIA_A,22-23,83de7ca2
+13ea2544,Mohamed Camara,20,GUI,"RM,CM,DM",26-083,73,0,0,0,0,1,0,0,0,46,2,1,0,0.1,0.1,0.0,0,0,29,37,78.4,2,31,0,0,0,Roma,2023-05-22 Roma-Salernitana,ITA-SERIA_A,22-23,83de7ca2
+16657b95,Bryan Cristante,4,ITA,"RM,AM",28-080,17,0,0,0,0,3,1,0,0,13,1,0,0,0.3,0.3,0.1,3,1,6,9,66.7,1,9,0,0,0,Roma,2023-05-22 Roma-Salernitana,ITA-SERIA_A,22-23,83de7ca2
+d3aaad90,Stephan El Shaarawy,92,ITA,"LW,WB,AM",30-207,90,1,0,0,0,4,1,0,0,68,1,0,1,0.3,0.3,0.3,10,0,45,55,81.8,8,44,4,4,0,Roma,2023-05-22 Roma-Salernitana,ITA-SERIA_A,22-23,83de7ca2
+45191c29,Nicola Zalewski,59,POL,"LB,WB,RB",21-119,90,0,0,0,0,4,0,1,0,85,2,2,1,0.1,0.1,0.0,4,0,55,73,75.3,11,50,8,1,0,Roma,2023-05-22 Roma-Salernitana,ITA-SERIA_A,22-23,83de7ca2
+82efe6fa,Roger Ibanez,3,BRA,CB,24-180,45,0,0,0,0,1,0,0,0,44,0,1,0,0.0,0.0,0.0,1,0,38,41,92.7,3,37,0,1,0,Roma,2023-05-22 Roma-Salernitana,ITA-SERIA_A,22-23,83de7ca2
+bba30585,Diego Llorente,14,ESP,CB,29-279,45,0,0,0,0,0,0,0,0,40,1,1,0,0.0,0.0,0.1,2,0,34,37,91.9,4,28,1,0,0,Roma,2023-05-22 Roma-Salernitana,ITA-SERIA_A,22-23,83de7ca2
+b6964eb6,Chris Smalling,6,ENG,CB,33-181,90,0,0,0,0,1,0,0,0,109,3,2,3,0.1,0.1,0.0,2,0,88,97,90.7,6,76,0,0,0,Roma,2023-05-22 Roma-Salernitana,ITA-SERIA_A,22-23,83de7ca2
+ae94a6c5,Edoardo Bove,52,ITA,"RB,CB,LB",21-006,90,0,0,0,0,0,0,0,0,96,4,1,0,0.0,0.0,0.1,4,0,80,90,88.9,7,57,3,2,1,Roma,2023-05-22 Roma-Salernitana,ITA-SERIA_A,22-23,83de7ca2
+79b0d6a0,Rui Patrício,1,POR,GK,35-096,90,0,0,0,0,0,0,0,0,13,0,0,0,0.0,0.0,0.0,0,0,13,13,100.0,0,6,0,0,0,Roma,2023-05-22 Roma-Salernitana,ITA-SERIA_A,22-23,83de7ca2
+17f3620a,Krzysztof Piątek,99,POL,FW,27-325,90,0,1,0,0,2,0,0,0,29,0,0,4,0.1,0.1,0.6,1,1,10,16,62.5,0,12,1,0,0,Salernitana,2023-05-22 Roma-Salernitana,ITA-SERIA_A,22-23,83de7ca2
+244bc2c8,Boulaye Dia,29,SEN,AM,26-187,90,1,0,0,0,1,1,1,0,41,0,0,0,0.6,0.6,0.0,0,0,20,28,71.4,2,28,1,5,1,Salernitana,2023-05-22 Roma-Salernitana,ITA-SERIA_A,22-23,83de7ca2
+356c9002,Antonio Candreva,87,ITA,AM,36-083,77,1,0,0,0,2,1,0,0,55,1,1,0,0.4,0.4,0.1,1,0,33,47,70.2,2,35,0,2,0,Salernitana,2023-05-22 Roma-Salernitana,ITA-SERIA_A,22-23,83de7ca2
+3d13d9e4,Erik Botheim,11,NOR,AM,23-132,13,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,3,0,0,0,Salernitana,2023-05-22 Roma-Salernitana,ITA-SERIA_A,22-23,83de7ca2
+85a44ecc,Lassana Coulibaly,18,MLI,CM,27-042,90,0,1,0,0,0,0,0,0,55,7,0,2,0.0,0.0,0.4,1,1,32,41,78.0,6,24,4,2,1,Salernitana,2023-05-22 Roma-Salernitana,ITA-SERIA_A,22-23,83de7ca2
+c83c203f,Emil Bohinen,8,NOR,CM,24-071,70,0,0,0,0,1,0,0,0,45,3,0,3,0.0,0.0,0.0,2,0,29,33,87.9,2,20,1,2,0,Salernitana,2023-05-22 Roma-Salernitana,ITA-SERIA_A,22-23,83de7ca2
+c7069d87,Tonny Vilhena,10,NED,CM,28-139,20,0,0,0,0,0,0,0,0,8,0,0,1,0.0,0.0,0.0,0,0,3,4,75.0,0,1,0,0,0,Salernitana,2023-05-22 Roma-Salernitana,ITA-SERIA_A,22-23,83de7ca2
+8bbe2df5,Domagoj Bradarić,3,CRO,WB,23-163,90,0,0,0,0,0,0,0,0,61,0,0,1,0.0,0.0,0.0,1,1,37,49,75.5,1,26,3,3,0,Salernitana,2023-05-22 Roma-Salernitana,ITA-SERIA_A,22-23,83de7ca2
+2a82aa85,Grigoris Kastanos,20,CYP,WB,25-112,58,0,0,0,0,1,1,0,0,55,4,1,1,0.0,0.0,0.0,3,0,37,48,77.1,4,29,3,3,2,Salernitana,2023-05-22 Roma-Salernitana,ITA-SERIA_A,22-23,83de7ca2
+eb0ec070,Pasquale Mazzocchi,30,ITA,WB,27-299,32,0,0,0,0,0,0,0,0,16,0,0,0,0.0,0.0,0.0,0,0,9,11,81.8,0,8,1,4,1,Salernitana,2023-05-22 Roma-Salernitana,ITA-SERIA_A,22-23,83de7ca2
+caec77da,Lorenzo Pirola,98,ITA,CB,21-091,77,0,0,0,0,1,0,0,0,48,0,0,2,0.0,0.0,0.0,0,0,33,36,91.7,1,28,1,0,0,Salernitana,2023-05-22 Roma-Salernitana,ITA-SERIA_A,22-23,83de7ca2
+7ed4921e,William Troost-Ekong,15,NGA,CB,29-263,13,0,0,0,0,0,0,0,0,4,0,0,1,0.0,0.0,0.0,0,0,2,2,100.0,0,1,0,0,0,Salernitana,2023-05-22 Roma-Salernitana,ITA-SERIA_A,22-23,83de7ca2
+0be276c6,Norbert Gyömbér,23,SVK,CB,30-323,70,0,0,0,0,0,0,1,0,29,0,1,0,0.0,0.0,0.0,0,0,22,25,88.0,1,17,0,0,0,Salernitana,2023-05-22 Roma-Salernitana,ITA-SERIA_A,22-23,83de7ca2
+5fa57166,Matteo Lovato,66,ITA,CB,23-097,20,0,0,0,0,0,0,0,0,4,2,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,0,0,0,0,Salernitana,2023-05-22 Roma-Salernitana,ITA-SERIA_A,22-23,83de7ca2
+7ef972c3,Flavius Daniliuc,5,AUT,CB,22-025,90,0,0,0,0,0,0,1,0,42,1,0,2,0.0,0.0,0.0,2,0,29,35,82.9,3,22,1,1,0,Salernitana,2023-05-22 Roma-Salernitana,ITA-SERIA_A,22-23,83de7ca2
+1e9bde92,Guillermo Ochoa,13,MEX,GK,37-313,90,0,0,0,0,0,0,1,0,43,0,0,0,0.0,0.0,0.0,0,0,14,41,34.1,0,23,0,0,0,Salernitana,2023-05-22 Roma-Salernitana,ITA-SERIA_A,22-23,83de7ca2

@@ -1,0 +1,32 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+9e1035f8,Ferrán Torres,19,ESP,"FW,RW",21-342,90,0,1,0,0,1,0,0,0,49,0,1,1,0.1,0.1,0.3,0,0,35,39,89.7,2,21,0,0,0,Barcelona,2022-02-06 Barcelona-Atlético Madrid,ESP-LALIGA,21-22,ce2db225
+19cae58d,Gavi,30,ESP,LW,17-185,70,1,0,0,0,1,1,0,0,56,1,1,2,0.1,0.1,0.0,1,1,36,40,90.0,3,31,0,0,0,Barcelona,2022-02-06 Barcelona-Atlético Madrid,ESP-LALIGA,21-22,ce2db225
+5976f83e,Sergiño Dest,2,USA,LW,21-095,20,0,0,0,0,0,0,0,0,11,3,0,0,0.0,0.0,0.0,0,0,6,6,100.0,1,4,0,0,0,Barcelona,2022-02-06 Barcelona-Atlético Madrid,ESP-LALIGA,21-22,ce2db225
+9a28eba4,Adama Traoré,11,ESP,RW,26-012,60,0,1,0,0,1,0,0,0,31,1,2,1,0.1,0.1,0.1,3,1,20,25,80.0,3,19,2,5,2,Barcelona,2022-02-06 Barcelona-Atlético Madrid,ESP-LALIGA,21-22,ce2db225
+d5dd5f1f,Pierre-Emerick Aubameyang,25,GAB,FW,32-233,30,0,0,0,0,1,0,0,0,22,0,0,2,0.0,0.0,0.0,0,0,10,13,76.9,2,6,2,1,0,Barcelona,2022-02-06 Barcelona-Atlético Madrid,ESP-LALIGA,21-22,ce2db225
+1bacc518,Frenkie de Jong,21,NED,LM,24-270,90,0,0,0,0,0,0,1,0,65,1,0,1,0.0,0.0,0.0,2,1,54,60,90.0,4,34,1,2,1,Barcelona,2022-02-06 Barcelona-Atlético Madrid,ESP-LALIGA,21-22,ce2db225
+5ab0ea87,Sergio Busquets,5,ESP,CM,33-205,90,0,0,0,0,0,0,0,0,65,2,0,1,0.0,0.0,0.0,2,1,49,59,83.1,5,27,0,0,0,Barcelona,2022-02-06 Barcelona-Atlético Madrid,ESP-LALIGA,21-22,ce2db225
+0d9b2d31,Pedri,16,ESP,RM,19-073,65,0,0,0,0,1,0,0,0,37,1,2,1,0.2,0.2,0.1,1,0,22,29,75.9,4,19,0,2,2,Barcelona,2022-02-06 Barcelona-Atlético Madrid,ESP-LALIGA,21-22,ce2db225
+2c56a792,Nicolás González,14,ESP,RM,20-034,25,0,0,0,0,0,0,0,0,12,1,0,0,0.0,0.0,0.0,0,0,8,9,88.9,1,4,0,0,0,Barcelona,2022-02-06 Barcelona-Atlético Madrid,ESP-LALIGA,21-22,ce2db225
+4601e194,Jordi Alba,18,ESP,LB,32-322,90,1,0,0,0,1,1,1,0,93,1,1,0,0.0,0.0,0.2,2,0,71,86,82.6,9,44,0,1,0,Barcelona,2022-02-06 Barcelona-Atlético Madrid,ESP-LALIGA,21-22,ce2db225
+adfc9123,Gerard Piqué,3,ESP,CB,35-004,90,0,0,0,0,1,0,0,0,76,0,2,2,0.0,0.0,0.0,1,1,60,66,90.9,5,38,2,0,0,Barcelona,2022-02-06 Barcelona-Atlético Madrid,ESP-LALIGA,21-22,ce2db225
+2bef2bca,Ronald Araújo,4,URU,CB,22-336,90,1,0,0,0,1,1,0,0,60,0,1,0,0.3,0.3,0.0,0,0,46,53,86.8,0,30,0,0,0,Barcelona,2022-02-06 Barcelona-Atlético Madrid,ESP-LALIGA,21-22,ce2db225
+c9e99e49,Dani Alves,8,BRA,RB,38-276,68,1,1,0,0,1,1,0,1,64,0,1,1,0.2,0.2,0.1,2,1,49,59,83.1,5,32,1,0,0,Barcelona,2022-02-06 Barcelona-Atlético Madrid,ESP-LALIGA,21-22,ce2db225
+6f51e382,Marc-André ter Stegen,1,GER,GK,29-282,90,0,0,0,0,0,0,0,0,34,0,0,0,0.0,0.0,0.0,1,0,26,33,78.8,0,17,0,0,0,Barcelona,2022-02-06 Barcelona-Atlético Madrid,ESP-LALIGA,21-22,ce2db225
+a6154613,Luis Suárez,9,URU,FW,35-013,90,1,1,0,0,3,2,0,0,34,1,0,0,0.8,0.8,0.1,2,1,18,22,81.8,3,13,0,0,0,Atlético Madrid,2022-02-06 Barcelona-Atlético Madrid,ESP-LALIGA,21-22,ce2db225
+8aafd64f,João Félix,7,POR,"LW,FW",22-088,55,0,0,0,0,2,1,0,0,15,2,0,0,0.3,0.3,0.0,0,0,6,7,85.7,0,12,3,1,0,Atlético Madrid,2022-02-06 Barcelona-Atlético Madrid,ESP-LALIGA,21-22,ce2db225
+01eb744d,Ángel Correa,10,ARG,RM,26-334,35,0,0,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.0,0,0,5,9,55.6,0,7,1,1,1,Atlético Madrid,2022-02-06 Barcelona-Atlético Madrid,ESP-LALIGA,21-22,ce2db225
+de39485a,Yannick Carrasco,21,BEL,"LM,RW,LW",28-155,90,1,0,0,0,2,1,0,0,50,0,0,0,0.1,0.1,0.0,4,0,33,43,76.7,5,35,3,4,4,Atlético Madrid,2022-02-06 Barcelona-Atlético Madrid,ESP-LALIGA,21-22,ce2db225
+4dbd0916,Thomas Lemar,11,FRA,"LM,CM",26-086,54,0,0,0,0,0,0,0,0,24,2,1,0,0.0,0.0,0.2,1,0,17,19,89.5,2,7,0,0,0,Atlético Madrid,2022-02-06 Barcelona-Atlético Madrid,ESP-LALIGA,21-22,ce2db225
+c20bdcd7,Reinildo Mandava,23,MOZ,LB,28-016,36,0,0,0,0,0,0,0,0,27,0,0,0,0.0,0.0,0.0,1,0,20,25,80.0,2,18,2,2,1,Atlético Madrid,2022-02-06 Barcelona-Atlético Madrid,ESP-LALIGA,21-22,ce2db225
+55126f3b,Koke,6,ESP,"CM,DM",30-029,75,0,0,0,0,0,0,0,0,45,3,1,0,0.0,0.0,0.0,2,1,33,37,89.2,5,21,0,0,0,Atlético Madrid,2022-02-06 Barcelona-Atlético Madrid,ESP-LALIGA,21-22,ce2db225
+a8542814,Héctor Herrera,16,MEX,CM,31-293,15,0,0,0,0,0,0,1,0,27,0,0,0,0.0,0.0,0.0,0,0,24,26,92.3,4,21,0,1,1,Atlético Madrid,2022-02-06 Barcelona-Atlético Madrid,ESP-LALIGA,21-22,ce2db225
+162efffd,Rodrigo De Paul,5,ARG,"CM,RM",27-258,90,0,0,0,0,0,0,0,0,72,3,2,0,0.0,0.0,0.4,4,0,44,58,75.9,5,46,2,2,0,Atlético Madrid,2022-02-06 Barcelona-Atlético Madrid,ESP-LALIGA,21-22,ce2db225
+555f3a0b,Mario Hermoso,22,ESP,"LB,CB",26-233,54,0,0,0,0,0,0,0,0,34,2,1,0,0.0,0.0,0.0,0,0,20,31,64.5,2,17,0,0,0,Atlético Madrid,2022-02-06 Barcelona-Atlético Madrid,ESP-LALIGA,21-22,ce2db225
+dc62b55d,Matheus Cunha,19,BRA,FW,22-255,36,0,0,0,0,0,0,0,0,11,1,1,1,0.0,0.0,0.1,2,0,4,5,80.0,1,6,0,0,0,Atlético Madrid,2022-02-06 Barcelona-Atlético Madrid,ESP-LALIGA,21-22,ce2db225
+f0da930c,José María Giménez,2,URU,CB,27-017,90,0,1,0,0,2,0,0,0,51,1,1,1,0.1,0.1,0.6,2,1,36,39,92.3,4,23,0,1,1,Atlético Madrid,2022-02-06 Barcelona-Atlético Madrid,ESP-LALIGA,21-22,ce2db225
+f6ac68c1,Stefan Savić,15,MNE,CB,31-029,90,0,0,0,0,1,0,0,0,61,1,5,0,0.2,0.2,0.0,1,0,42,53,79.2,2,37,1,0,0,Atlético Madrid,2022-02-06 Barcelona-Atlético Madrid,ESP-LALIGA,21-22,ce2db225
+46a8347f,Šime Vrsaljko,24,CRO,"RB,RW",30-027,45,0,0,0,0,0,0,0,0,24,0,0,0,0.0,0.0,0.0,0,0,16,18,88.9,1,13,1,0,0,Atlético Madrid,2022-02-06 Barcelona-Atlético Madrid,ESP-LALIGA,21-22,ce2db225
+d83bbc54,Daniel Wass,17,DEN,"RB,RW",32-251,45,0,0,0,0,0,0,1,0,31,0,0,0,0.0,0.0,0.0,0,0,20,28,71.4,1,12,1,1,1,Atlético Madrid,2022-02-06 Barcelona-Atlético Madrid,ESP-LALIGA,21-22,ce2db225
+ee8508c0,Jan Oblak,13,SVN,GK,29-030,90,0,0,0,0,0,0,0,0,25,0,0,0,0.0,0.0,0.0,0,0,16,25,64.0,0,14,0,0,0,Atlético Madrid,2022-02-06 Barcelona-Atlético Madrid,ESP-LALIGA,21-22,ce2db225

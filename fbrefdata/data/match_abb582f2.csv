@@ -1,0 +1,29 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+d70ce98e,Lionel Messi,10,ARG,FW,31-161,90,0,1,0,0,6,4,0,0,54,0,0,1,0.3,0.3,0.5,7,1,39,43,90.7,6,40,1,4,3,Barcelona,2018-12-02 Barcelona-Villarreal,ESP-LALIGA,18-19,abb582f2
+0ef89a37,Philippe Coutinho,7,BRA,LM,26-173,79,0,0,0,0,1,0,0,0,68,0,0,0,0.0,0.0,0.0,1,0,55,62,88.7,6,50,4,7,5,Barcelona,2018-12-02 Barcelona-Villarreal,ESP-LALIGA,18-19,abb582f2
+6853490f,Malcom,14,BRA,LM,21-279,11,0,0,0,0,1,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,2,0,0,0,Barcelona,2018-12-02 Barcelona-Villarreal,ESP-LALIGA,18-19,abb582f2
+67cdbc0e,Arturo Vidal,22,CHI,CM,31-194,69,0,0,0,0,0,0,0,0,46,3,2,1,0.0,0.0,0.0,3,1,36,40,90.0,2,27,0,0,0,Barcelona,2018-12-02 Barcelona-Villarreal,ESP-LALIGA,18-19,abb582f2
+6c811eb7,Carles Aleñá,26,ESP,CM,20-331,21,1,0,0,0,1,1,0,0,12,0,0,0,0.4,0.4,0.0,2,1,8,8,100.0,0,10,1,0,0,Barcelona,2018-12-02 Barcelona-Villarreal,ESP-LALIGA,18-19,abb582f2
+89f951b5,Ivan Rakitić,4,CRO,CM,30-267,90,0,0,0,0,1,0,0,0,113,0,3,0,0.0,0.0,0.0,2,0,102,107,95.3,11,85,1,3,3,Barcelona,2018-12-02 Barcelona-Villarreal,ESP-LALIGA,18-19,abb582f2
+b19db005,Ousmane Dembélé,11,FRA,RM,21-201,90,0,1,0,0,3,1,0,0,95,2,0,0,0.1,0.1,0.2,7,1,62,84,73.8,6,71,8,10,8,Barcelona,2018-12-02 Barcelona-Villarreal,ESP-LALIGA,18-19,abb582f2
+5ab0ea87,Sergio Busquets,5,ESP,DM,30-139,90,0,0,0,0,1,0,0,0,93,3,2,1,0.0,0.0,0.0,2,0,72,82,87.8,2,52,0,0,0,Barcelona,2018-12-02 Barcelona-Villarreal,ESP-LALIGA,18-19,abb582f2
+4601e194,Jordi Alba,18,ESP,LB,29-256,90,0,0,0,0,0,0,1,0,91,1,2,0,0.0,0.0,0.2,4,0,75,83,90.4,3,57,3,0,0,Barcelona,2018-12-02 Barcelona-Villarreal,ESP-LALIGA,18-19,abb582f2
+4f28a6ff,Clément Lenglet,15,FRA,CB,23-168,90,0,0,0,0,0,0,1,0,59,1,0,3,0.0,0.0,0.0,0,0,49,53,92.5,1,42,1,0,0,Barcelona,2018-12-02 Barcelona-Villarreal,ESP-LALIGA,18-19,abb582f2
+adfc9123,Gerard Piqué,3,ESP,CB,31-303,90,1,0,0,0,1,1,0,0,71,3,0,2,0.1,0.1,0.0,0,0,58,59,98.3,1,44,0,1,1,Barcelona,2018-12-02 Barcelona-Villarreal,ESP-LALIGA,18-19,abb582f2
+d04b94db,Nélson Semedo,2,POR,RB,25-016,90,0,0,0,0,0,0,0,0,81,1,1,1,0.0,0.0,0.0,1,0,65,73,89.0,1,52,4,0,0,Barcelona,2018-12-02 Barcelona-Villarreal,ESP-LALIGA,18-19,abb582f2
+6f51e382,Marc-André ter Stegen,1,GER,GK,26-216,90,0,0,0,0,0,0,0,0,21,0,0,0,0.0,0.0,0.0,0,0,19,21,90.5,0,7,0,0,0,Barcelona,2018-12-02 Barcelona-Villarreal,ESP-LALIGA,18-19,abb582f2
+81f0781e,Gerard Moreno,7,ESP,FW,26-239,78,0,0,0,0,2,0,0,0,37,0,2,1,0.6,0.6,0.0,5,0,19,26,73.1,0,28,1,2,2,Villarreal,2018-12-02 Barcelona-Villarreal,ESP-LALIGA,18-19,abb582f2
+5ceba7fc,Karl Toko Ekambi,17,CMR,FW,26-079,12,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,5,5,100.0,1,3,0,0,0,Villarreal,2018-12-02 Barcelona-Villarreal,ESP-LALIGA,18-19,abb582f2
+82927de4,Pablo Fornals,8,ESP,"LW,CM",22-283,90,0,0,0,0,0,0,1,0,45,1,0,0,0.0,0.0,0.1,4,0,31,38,81.6,9,30,0,1,1,Villarreal,2018-12-02 Barcelona-Villarreal,ESP-LALIGA,18-19,abb582f2
+b8a642fc,Samuel Chukwueze,30,NGA,"RW,RM",19-194,90,0,0,0,0,2,1,0,0,34,1,0,0,0.1,0.1,0.1,3,0,21,27,77.8,1,28,5,6,5,Villarreal,2018-12-02 Barcelona-Villarreal,ESP-LALIGA,18-19,abb582f2
+e2e9c250,Santi Cazorla,19,ESP,"CM,LM",33-354,87,0,0,0,0,2,0,0,0,56,3,1,1,0.1,0.1,0.1,2,0,38,44,86.4,11,33,2,0,0,Villarreal,2018-12-02 Barcelona-Villarreal,ESP-LALIGA,18-19,abb582f2
+ea6a7ab4,Dani Raba,22,ESP,LM,23-034,3,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,3,3,100.0,1,1,0,0,0,Villarreal,2018-12-02 Barcelona-Villarreal,ESP-LALIGA,18-19,abb582f2
+958bba56,Santiago Cáseres,5,ARG,CM,21-280,90,0,0,0,0,1,0,0,0,65,2,0,2,0.0,0.0,0.0,2,0,51,57,89.5,5,38,0,2,2,Villarreal,2018-12-02 Barcelona-Villarreal,ESP-LALIGA,18-19,abb582f2
+963829d0,Manu Trigueros,14,ESP,CM,27-046,66,0,0,0,0,0,0,0,0,36,4,2,0,0.0,0.0,0.0,0,0,25,27,92.6,2,21,0,0,0,Villarreal,2018-12-02 Barcelona-Villarreal,ESP-LALIGA,18-19,abb582f2
+09a9e921,Carlos Bacca,9,COL,FW,32-085,24,0,0,0,0,1,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,5,7,71.4,1,8,1,0,0,Villarreal,2018-12-02 Barcelona-Villarreal,ESP-LALIGA,18-19,abb582f2
+63f04c6c,Alfonso Pedraza,16,ESP,LB,22-237,90,0,0,0,0,0,0,1,0,46,2,2,2,0.0,0.0,0.0,1,0,24,36,66.7,2,22,3,2,2,Villarreal,2018-12-02 Barcelona-Villarreal,ESP-LALIGA,18-19,abb582f2
+b3dc6eca,Víctor Ruiz,6,ESP,CB,29-311,90,0,0,0,0,0,0,1,0,53,0,0,1,0.0,0.0,0.0,0,0,44,47,93.6,1,31,0,0,0,Villarreal,2018-12-02 Barcelona-Villarreal,ESP-LALIGA,18-19,abb582f2
+42dcf26d,Álvaro González,3,ESP,CB,28-328,90,0,0,0,0,1,0,1,0,59,3,3,1,0.0,0.0,0.6,1,0,41,48,85.4,3,27,0,0,0,Villarreal,2018-12-02 Barcelona-Villarreal,ESP-LALIGA,18-19,abb582f2
+fb5d47b3,Mario Gaspar,2,ESP,RB,28-008,90,0,0,0,0,3,1,0,0,62,0,2,3,0.2,0.2,0.0,2,0,41,50,82.0,7,28,2,0,0,Villarreal,2018-12-02 Barcelona-Villarreal,ESP-LALIGA,18-19,abb582f2
+9f0ea33f,Sergio Asenjo,1,ESP,GK,29-157,90,0,0,0,0,0,0,0,0,33,0,0,0,0.0,0.0,0.0,0,0,26,30,86.7,0,15,0,0,0,Villarreal,2018-12-02 Barcelona-Villarreal,ESP-LALIGA,18-19,abb582f2

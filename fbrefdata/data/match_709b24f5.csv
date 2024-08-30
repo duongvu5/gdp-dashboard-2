@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+d125f22f,David Okereke,77,NGA,FW,25-056,90,0,0,0,0,4,0,0,0,43,2,0,2,0.3,0.3,0.1,8,0,18,26,69.2,3,21,5,7,3,Cremonese,2022-10-24 Cremonese-Sampdoria,ITA-SERIA_A,22-23,709b24f5
+dcb38abe,Cyriel Dessers,90,NGA,FW,27-320,64,0,0,0,1,1,0,0,0,15,0,0,0,0.9,0.1,0.0,1,0,5,9,55.6,1,7,1,0,0,Cremonese,2022-10-24 Cremonese-Sampdoria,ITA-SERIA_A,22-23,709b24f5
+b09a3ecc,Daniel Ciofani,9,ITA,FW,37-085,26,0,0,0,0,1,0,0,0,5,0,0,0,0.1,0.1,0.0,0,0,1,3,33.3,0,2,0,0,0,Cremonese,2022-10-24 Cremonese-Sampdoria,ITA-SERIA_A,22-23,709b24f5
+5cec2c74,Soualiho Meïté,28,FRA,CM,28-221,81,0,0,0,0,1,0,1,0,44,1,1,0,0.0,0.0,0.0,3,0,31,37,83.8,5,17,2,2,1,Cremonese,2022-10-24 Cremonese-Sampdoria,ITA-SERIA_A,22-23,709b24f5
+0154d290,Felix Afena-Gyan,20,GHA,CM,19-278,9,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,2,0,0,0,Cremonese,2022-10-24 Cremonese-Sampdoria,ITA-SERIA_A,22-23,709b24f5
+e26fcca3,Santiago Ascacíbar,8,ARG,CM,25-241,90,0,0,0,0,3,0,0,0,74,2,3,1,0.1,0.1,0.1,4,0,51,60,85.0,4,26,0,0,0,Cremonese,2022-10-24 Cremonese-Sampdoria,ITA-SERIA_A,22-23,709b24f5
+f71ad8cb,Charles Pickel,6,COD,CM,25-162,81,0,0,0,0,2,2,1,0,37,0,0,0,0.2,0.2,0.0,3,0,22,28,78.6,4,14,0,0,0,Cremonese,2022-10-24 Cremonese-Sampdoria,ITA-SERIA_A,22-23,709b24f5
+ad92526f,Michele Castagnetti,19,ITA,CM,32-301,9,0,0,0,0,0,0,0,0,19,1,0,1,0.0,0.0,0.0,2,0,11,17,64.7,5,9,0,0,0,Cremonese,2022-10-24 Cremonese-Sampdoria,ITA-SERIA_A,22-23,709b24f5
+ec52b661,Emanuele Valeri,3,ITA,WB,23-321,81,0,0,0,0,3,0,0,0,54,2,1,1,0.1,0.1,0.2,6,0,27,43,62.8,5,23,7,3,0,Cremonese,2022-10-24 Cremonese-Sampdoria,ITA-SERIA_A,22-23,709b24f5
+1b9c7401,Giacomo Quagliata,33,ITA,"CB,WB",22-247,9,0,0,0,0,0,0,0,0,15,1,0,0,0.0,0.0,0.2,2,0,8,12,66.7,2,7,1,2,0,Cremonese,2022-10-24 Cremonese-Sampdoria,ITA-SERIA_A,22-23,709b24f5
+dd7febd8,Leonardo Sernicola,17,ITA,WB,25-086,90,0,0,0,0,3,1,1,0,49,0,3,0,0.2,0.2,0.1,4,0,22,39,56.4,2,17,1,1,0,Cremonese,2022-10-24 Cremonese-Sampdoria,ITA-SERIA_A,22-23,709b24f5
+c8ad0857,Luka Lochoshvili,44,GEO,CB,24-148,81,0,0,0,0,1,0,0,0,45,1,2,0,0.1,0.1,0.0,1,0,24,33,72.7,4,18,1,1,1,Cremonese,2022-10-24 Cremonese-Sampdoria,ITA-SERIA_A,22-23,709b24f5
+f3a9fa26,Cristian Buonaiuto,10,ITA,"WB,CB",29-299,9,0,0,0,0,1,0,0,0,11,0,0,0,0.0,0.0,0.0,1,0,7,8,87.5,1,8,0,1,0,Cremonese,2022-10-24 Cremonese-Sampdoria,ITA-SERIA_A,22-23,709b24f5
+b3a20f18,Matteo Bianchetti,15,ITA,CB,29-221,90,0,0,0,0,0,0,0,0,45,2,0,0,0.0,0.0,0.0,0,0,27,35,77.1,2,15,0,0,0,Cremonese,2022-10-24 Cremonese-Sampdoria,ITA-SERIA_A,22-23,709b24f5
+d810c13b,Emanuel Aiwum,4,AUT,CB,21-303,90,0,0,0,0,0,0,0,0,66,3,0,1,0.0,0.0,0.0,0,0,43,61,70.5,6,29,2,0,0,Cremonese,2022-10-24 Cremonese-Sampdoria,ITA-SERIA_A,22-23,709b24f5
+8ec56e62,Marco Carnesecchi,12,ITA,GK,22-115,90,0,0,0,0,0,0,0,0,33,0,0,0,0.0,0.0,0.0,0,0,22,33,66.7,0,17,0,0,0,Cremonese,2022-10-24 Cremonese-Sampdoria,ITA-SERIA_A,22-23,709b24f5
+5bd72174,Francesco Caputo,10,ITA,FW,35-079,90,0,0,0,0,0,0,0,0,20,0,0,0,0.0,0.0,0.0,0,0,10,16,62.5,0,15,0,1,0,Sampdoria,2022-10-24 Cremonese-Sampdoria,ITA-SERIA_A,22-23,709b24f5
+eccbe56a,Filip Đuričić,7,SRB,LW,30-267,90,0,0,0,0,0,0,0,0,41,2,1,1,0.0,0.0,0.4,5,0,23,32,71.9,5,25,1,1,0,Sampdoria,2022-10-24 Cremonese-Sampdoria,ITA-SERIA_A,22-23,709b24f5
+4830e0af,Abdelhamid Sabiri,11,MAR,RW,25-330,59,0,0,0,0,2,1,1,0,22,0,0,1,0.1,0.1,0.0,2,0,7,14,50.0,0,11,0,0,0,Sampdoria,2022-10-24 Cremonese-Sampdoria,ITA-SERIA_A,22-23,709b24f5
+8f866fe8,Manolo Gabbiadini,23,ITA,RW,30-332,31,0,1,0,0,2,1,1,0,16,1,0,0,0.4,0.4,0.7,1,1,8,10,80.0,1,8,1,0,0,Sampdoria,2022-10-24 Cremonese-Sampdoria,ITA-SERIA_A,22-23,709b24f5
+62437b4f,Ignacio Pussetto,18,ARG,AM,26-307,53,0,0,0,0,1,1,0,0,23,1,0,1,0.0,0.0,0.0,0,0,5,13,38.5,0,8,1,2,1,Sampdoria,2022-10-24 Cremonese-Sampdoria,ITA-SERIA_A,22-23,709b24f5
+7d3cbc67,Mehdi Léris,37,ALG,AM,24-154,37,0,0,0,0,0,0,0,0,18,0,0,0,0.0,0.0,0.0,0,0,7,13,53.8,0,10,0,3,1,Sampdoria,2022-10-24 Cremonese-Sampdoria,ITA-SERIA_A,22-23,709b24f5
+f1cfc209,Tomás Rincón,8,VEN,DM,34-284,60,0,0,0,0,0,0,0,0,31,2,2,0,0.0,0.0,0.0,1,0,23,26,88.5,5,13,0,1,1,Sampdoria,2022-10-24 Cremonese-Sampdoria,ITA-SERIA_A,22-23,709b24f5
+ee9040b4,Gerard Yepes,28,ESP,DM,20-060,30,0,0,0,0,0,0,0,0,28,2,2,1,0.0,0.0,0.0,1,0,17,22,77.3,1,10,0,1,0,Sampdoria,2022-10-24 Cremonese-Sampdoria,ITA-SERIA_A,22-23,709b24f5
+33ecf462,Valerio Verre,5,ITA,DM,28-286,45,0,0,0,0,0,0,0,0,38,2,1,4,0.0,0.0,0.0,0,0,21,28,75.0,4,18,1,0,0,Sampdoria,2022-10-24 Cremonese-Sampdoria,ITA-SERIA_A,22-23,709b24f5
+bdc74a8f,Gonzalo Villar,4,ESP,DM,24-215,45,0,0,0,0,0,0,0,0,23,0,1,2,0.0,0.0,0.0,1,0,15,18,83.3,2,11,0,1,0,Sampdoria,2022-10-24 Cremonese-Sampdoria,ITA-SERIA_A,22-23,709b24f5
+d183e9d6,Nicola Murru,29,ITA,LB,27-312,45,0,0,0,0,0,0,0,0,30,3,1,0,0.0,0.0,0.0,0,0,17,25,68.0,2,13,0,0,0,Sampdoria,2022-10-24 Cremonese-Sampdoria,ITA-SERIA_A,22-23,709b24f5
+3cd3b384,Tommaso Augello,3,ITA,LB,28-055,45,0,0,0,0,1,0,0,0,25,0,0,0,0.0,0.0,0.0,1,1,11,21,52.4,1,10,1,1,0,Sampdoria,2022-10-24 Cremonese-Sampdoria,ITA-SERIA_A,22-23,709b24f5
+8b95acda,Omar Colley,15,GAM,CB,30-000,90,1,0,0,0,1,1,1,0,61,0,1,2,0.7,0.7,0.0,0,0,39,46,84.8,2,37,0,0,0,Sampdoria,2022-10-24 Cremonese-Sampdoria,ITA-SERIA_A,22-23,709b24f5
+2df7cc43,Bruno Amione,2,ARG,CB,20-294,90,0,0,0,0,1,0,1,0,58,0,3,0,0.0,0.0,0.0,2,0,44,52,84.6,2,34,2,0,0,Sampdoria,2022-10-24 Cremonese-Sampdoria,ITA-SERIA_A,22-23,709b24f5
+61b3978f,Bartosz Bereszyński,24,POL,RB,30-104,90,0,0,0,0,0,0,0,0,58,4,1,3,0.0,0.0,0.0,2,0,28,44,63.6,3,21,1,1,0,Sampdoria,2022-10-24 Cremonese-Sampdoria,ITA-SERIA_A,22-23,709b24f5
+649b01d8,Emil Audero,1,ITA,GK,25-279,90,0,0,0,0,0,0,0,0,31,0,0,0,0.0,0.0,0.0,0,0,19,27,70.4,0,9,0,0,0,Sampdoria,2022-10-24 Cremonese-Sampdoria,ITA-SERIA_A,22-23,709b24f5

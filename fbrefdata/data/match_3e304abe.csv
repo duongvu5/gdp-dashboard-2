@@ -1,0 +1,29 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+e897d8ba,Kiké,17,ESP,FW,31-057,90,0,0,0,0,3,0,1,0,38,0,0,1,0.3,0.3,0.1,0,0,8,20,40.0,0,17,1,0,0,Eibar,2021-01-21 Eibar-Atlético Madrid,ESP-LALIGA,20-21,3e304abe
+61bd33d0,Takashi Inui,14,JPN,LW,32-233,90,0,0,0,0,2,1,0,0,35,0,1,2,0.0,0.0,0.3,3,0,14,17,82.4,1,21,3,3,0,Eibar,2021-01-21 Eibar-Atlético Madrid,ESP-LALIGA,20-21,3e304abe
+5343eb4e,Yoshinori Mutō,12,JPN,RW,28-190,76,0,0,0,0,1,0,0,0,26,2,0,0,0.0,0.0,0.0,1,1,12,16,75.0,4,12,1,1,0,Eibar,2021-01-21 Eibar-Atlético Madrid,ESP-LALIGA,20-21,3e304abe
+bb4b1242,Sergi Enrich,9,ESP,RW,30-330,14,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,0,0,0,0,Eibar,2021-01-21 Eibar-Atlético Madrid,ESP-LALIGA,20-21,3e304abe
+283c7121,Edu Expósito,10,ESP,AM,24-173,90,0,0,0,0,1,0,0,0,48,5,0,1,0.0,0.0,0.1,4,0,16,36,44.4,3,16,2,1,0,Eibar,2021-01-21 Eibar-Atlético Madrid,ESP-LALIGA,20-21,3e304abe
+7329018e,Papakouli Diop,8,SEN,DM,34-308,89,0,0,0,0,0,0,0,0,26,2,1,1,0.0,0.0,0.0,2,0,12,21,57.1,2,9,0,1,0,Eibar,2021-01-21 Eibar-Atlético Madrid,ESP-LALIGA,20-21,3e304abe
+d66b9872,Pedro León,21,ESP,DM,34-058,1,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,0,0,Eibar,2021-01-21 Eibar-Atlético Madrid,ESP-LALIGA,20-21,3e304abe
+88d91621,Sergio Álvarez,6,ESP,DM,28-364,90,0,0,0,0,0,0,0,0,59,4,2,3,0.0,0.0,0.0,2,0,21,43,48.8,2,18,0,0,0,Eibar,2021-01-21 Eibar-Atlético Madrid,ESP-LALIGA,20-21,3e304abe
+697295b1,Pedro Bigas,3,ESP,LB,30-128,90,0,0,0,0,2,0,0,0,52,0,0,0,0.2,0.2,0.0,3,0,31,48,64.6,7,10,0,0,0,Eibar,2021-01-21 Eibar-Atlético Madrid,ESP-LALIGA,20-21,3e304abe
+850c0a0d,Anaitz Arbilla,23,ESP,CB,33-251,90,0,0,0,0,1,0,1,0,43,1,2,0,0.0,0.0,0.0,1,1,20,35,57.1,5,15,0,0,0,Eibar,2021-01-21 Eibar-Atlético Madrid,ESP-LALIGA,20-21,3e304abe
+a8fbae1d,Paulo Oliveira,4,POR,CB,29-013,90,0,0,0,0,0,0,0,0,28,1,0,3,0.0,0.0,0.0,0,0,10,20,50.0,2,8,0,0,0,Eibar,2021-01-21 Eibar-Atlético Madrid,ESP-LALIGA,20-21,3e304abe
+3c16d927,Alejandro Pozo Pozo,22,ESP,RB,21-334,90,0,0,0,0,1,0,1,0,53,2,1,1,0.0,0.0,0.0,0,0,30,47,63.8,3,19,0,0,0,Eibar,2021-01-21 Eibar-Atlético Madrid,ESP-LALIGA,20-21,3e304abe
+ac295d9e,Marko Dmitrović,1,SRB,GK,28-363,90,1,0,1,1,0,0,0,0,26,0,0,0,0.8,0.0,0.0,0,0,9,22,40.9,1,10,0,0,0,Eibar,2021-01-21 Eibar-Atlético Madrid,ESP-LALIGA,20-21,3e304abe
+01eb744d,Ángel Correa,10,ARG,FW,25-318,45,0,0,0,0,1,0,0,0,18,0,0,0,0.0,0.0,0.0,0,0,7,12,58.3,1,9,0,0,0,Atlético Madrid,2021-01-21 Eibar-Atlético Madrid,ESP-LALIGA,20-21,3e304abe
+52611641,Lucas Torreira,5,URU,"DM,CM",24-345,45,0,0,0,0,0,0,0,0,24,0,2,0,0.0,0.0,0.0,0,0,16,21,76.2,3,10,0,0,0,Atlético Madrid,2021-01-21 Eibar-Atlético Madrid,ESP-LALIGA,20-21,3e304abe
+a6154613,Luis Suárez,9,URU,FW,33-363,89,2,0,1,1,3,1,0,0,26,1,0,0,1.0,0.2,0.1,3,1,8,17,47.1,0,5,1,1,1,Atlético Madrid,2021-01-21 Eibar-Atlético Madrid,ESP-LALIGA,20-21,3e304abe
+cce181df,Geoffrey Kondogbia,4,CTA,"CM,FW",27-341,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Atlético Madrid,2021-01-21 Eibar-Atlético Madrid,ESP-LALIGA,20-21,3e304abe
+de39485a,Yannick Carrasco,21,BEL,LW,27-139,90,0,0,0,0,1,0,0,0,63,1,1,1,0.1,0.1,0.0,1,1,37,55,67.3,6,34,7,1,1,Atlético Madrid,2021-01-21 Eibar-Atlético Madrid,ESP-LALIGA,20-21,3e304abe
+46a8347f,Šime Vrsaljko,24,CRO,RW,29-011,90,0,0,0,0,0,0,0,0,78,6,1,2,0.0,0.0,0.0,0,0,36,66,54.5,4,34,1,0,0,Atlético Madrid,2021-01-21 Eibar-Atlético Madrid,ESP-LALIGA,20-21,3e304abe
+4dbd0916,Thomas Lemar,11,FRA,CM,25-070,45,0,0,0,0,0,0,0,0,30,0,0,0,0.0,0.0,0.1,1,0,23,30,76.7,4,23,2,0,0,Atlético Madrid,2021-01-21 Eibar-Atlético Madrid,ESP-LALIGA,20-21,3e304abe
+8aafd64f,João Félix,7,POR,FW,21-072,45,0,0,0,0,2,2,0,0,18,0,0,0,0.1,0.1,0.0,0,0,9,11,81.8,2,12,3,2,1,Atlético Madrid,2021-01-21 Eibar-Atlético Madrid,ESP-LALIGA,20-21,3e304abe
+02c15616,Marcos Llorente,14,ESP,CM,25-357,90,0,1,0,0,0,0,0,0,46,2,2,3,0.0,0.0,0.1,2,0,25,34,73.5,5,24,1,1,1,Atlético Madrid,2021-01-21 Eibar-Atlético Madrid,ESP-LALIGA,20-21,3e304abe
+c14bc029,Saúl Ñíguez,8,ESP,"CM,DM",26-061,90,0,0,0,0,1,0,0,0,75,1,1,1,0.1,0.1,0.0,3,0,54,67,80.6,2,35,0,2,2,Atlético Madrid,2021-01-21 Eibar-Atlético Madrid,ESP-LALIGA,20-21,3e304abe
+f0da930c,José María Giménez,2,URU,CB,26-001,90,0,0,0,0,0,0,0,0,93,0,2,0,0.0,0.0,0.0,0,0,69,85,81.2,1,46,0,0,0,Atlético Madrid,2021-01-21 Eibar-Atlético Madrid,ESP-LALIGA,20-21,3e304abe
+51a3c4c8,Felipe,18,BRA,CB,31-250,90,0,0,0,0,0,0,1,0,88,3,1,0,0.0,0.0,0.0,1,0,58,71,81.7,1,54,0,0,0,Atlético Madrid,2021-01-21 Eibar-Atlético Madrid,ESP-LALIGA,20-21,3e304abe
+f6ac68c1,Stefan Savić,15,MNE,CB,30-013,90,0,0,0,0,0,0,1,0,82,2,5,1,0.0,0.0,0.0,1,0,58,66,87.9,2,48,0,2,2,Atlético Madrid,2021-01-21 Eibar-Atlético Madrid,ESP-LALIGA,20-21,3e304abe
+ee8508c0,Jan Oblak,13,SVN,GK,28-014,90,0,0,0,0,0,0,0,0,35,0,0,0,0.0,0.0,0.0,1,0,24,34,70.6,0,17,0,0,0,Atlético Madrid,2021-01-21 Eibar-Atlético Madrid,ESP-LALIGA,20-21,3e304abe

@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+efc9e31f,Dany Mota,47,POR,FW,24-356,86,1,0,0,0,1,1,0,0,32,0,0,0,0.0,0.0,0.0,4,2,13,22,59.1,1,17,2,2,1,Monza,2023-04-23 Monza-Fiorentina,ITA-SERIA_A,22-23,631115c4
+c414df9d,Mattia Valoti,10,ITA,FW,29-229,4,0,0,0,0,0,0,0,0,5,1,0,1,0.0,0.0,0.0,0,0,1,4,25.0,0,0,0,0,0,Monza,2023-04-23 Monza-Fiorentina,ITA-SERIA_A,22-23,631115c4
+54e53b7e,Gianluca Caprari,17,ITA,AM,29-267,77,0,0,0,0,3,2,0,0,32,1,0,2,0.2,0.2,0.2,5,0,18,21,85.7,6,22,4,3,3,Monza,2023-04-23 Monza-Fiorentina,ITA-SERIA_A,22-23,631115c4
+03f946ed,Andrea Petagna,37,ITA,AM,27-297,13,0,0,0,0,1,0,0,0,3,0,0,0,0.1,0.1,0.0,0,0,1,1,100.0,0,4,1,0,0,Monza,2023-04-23 Monza-Fiorentina,ITA-SERIA_A,22-23,631115c4
+6499048c,Andrea Colpani,28,ITA,AM,23-347,67,0,0,0,0,2,0,0,0,21,0,0,1,0.2,0.2,0.2,2,0,9,10,90.0,1,10,1,2,2,Monza,2023-04-23 Monza-Fiorentina,ITA-SERIA_A,22-23,631115c4
+22051fbe,Giulio Donati,2,ITA,WB,33-077,23,0,0,0,0,0,0,0,0,22,0,0,0,0.0,0.0,0.1,1,0,12,18,66.7,0,7,0,1,1,Monza,2023-04-23 Monza-Fiorentina,ITA-SERIA_A,22-23,631115c4
+780e3631,Matteo Pessina,32,ITA,CM,26-002,67,1,0,1,1,0,0,0,0,31,2,0,1,0.8,0.0,0.0,0,0,19,22,86.4,2,10,0,1,0,Monza,2023-04-23 Monza-Fiorentina,ITA-SERIA_A,22-23,631115c4
+7afb1573,Pepín,7,EQG,CM,26-252,23,0,0,0,0,0,0,0,0,10,1,0,0,0.0,0.0,0.0,1,0,6,8,75.0,1,2,0,0,0,Monza,2023-04-23 Monza-Fiorentina,ITA-SERIA_A,22-23,631115c4
+e58cbfd5,Nicolò Rovella,6,ITA,CM,21-140,90,0,0,0,0,0,0,1,0,56,4,3,2,0.0,0.0,0.0,3,1,32,41,78.0,5,16,0,0,0,Monza,2023-04-23 Monza-Fiorentina,ITA-SERIA_A,22-23,631115c4
+8d3cd59d,Carlos Augusto,30,BRA,WB,24-106,90,0,0,0,0,1,0,1,0,52,3,1,0,0.0,0.0,0.2,2,0,30,38,78.9,4,17,1,1,0,Monza,2023-04-23 Monza-Fiorentina,ITA-SERIA_A,22-23,631115c4
+5de3866c,Patrick Ciurria,84,ITA,"WB,AM",28-073,90,0,0,0,0,0,0,0,0,38,2,0,1,0.0,0.0,0.0,1,0,27,30,90.0,2,16,2,3,0,Monza,2023-04-23 Monza-Fiorentina,ITA-SERIA_A,22-23,631115c4
+226008f1,Luca Caldirola,5,ITA,CB,32-081,90,0,0,0,0,2,1,0,0,47,4,0,0,0.2,0.2,0.0,0,0,33,38,86.8,0,19,0,0,0,Monza,2023-04-23 Monza-Fiorentina,ITA-SERIA_A,22-23,631115c4
+aa54ec6f,Pablo Marí,3,ESP,CB,29-235,90,0,0,0,0,0,0,0,0,44,0,2,0,0.0,0.0,0.0,0,0,35,37,94.6,1,16,0,1,0,Monza,2023-04-23 Monza-Fiorentina,ITA-SERIA_A,22-23,631115c4
+89976232,Armando Izzo,55,ITA,CB,31-052,86,0,0,0,0,2,0,1,0,52,0,3,2,0.1,0.1,0.0,1,0,32,40,80.0,1,21,0,1,1,Monza,2023-04-23 Monza-Fiorentina,ITA-SERIA_A,22-23,631115c4
+cdf65d12,Marlon,4,BRA,CB,27-228,4,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,0,0,0,0,Monza,2023-04-23 Monza-Fiorentina,ITA-SERIA_A,22-23,631115c4
+4e0c8d66,Michele Di Gregorio,16,ITA,GK,25-270,90,0,1,0,0,0,0,0,0,39,0,0,0,0.0,0.0,0.0,1,1,25,38,65.8,0,22,0,0,0,Monza,2023-04-23 Monza-Fiorentina,ITA-SERIA_A,22-23,631115c4
+a820e429,Arthur Cabral,9,BRA,FW,24-363,90,0,0,0,0,3,1,0,0,22,0,1,0,0.5,0.5,0.0,1,0,8,10,80.0,3,14,1,2,1,Fiorentina,2023-04-23 Monza-Fiorentina,ITA-SERIA_A,22-23,631115c4
+3bb7af3b,Riccardo Saponara,8,ITA,LW,31-123,58,1,0,0,0,1,1,0,0,26,0,0,0,0.5,0.5,0.0,0,0,9,19,47.4,1,21,2,1,0,Fiorentina,2023-04-23 Monza-Fiorentina,ITA-SERIA_A,22-23,631115c4
+94816803,Riccardo Sottil,33,ITA,LW,23-324,32,0,0,0,0,2,1,0,0,16,1,0,0,0.2,0.2,0.0,2,0,4,7,57.1,1,12,2,3,0,Fiorentina,2023-04-23 Monza-Fiorentina,ITA-SERIA_A,22-23,631115c4
+58e933d2,Christian Kouamé,99,CIV,RW,25-138,90,1,1,0,0,1,1,0,0,43,2,0,1,0.1,0.1,0.5,5,1,22,31,71.0,3,26,4,1,0,Fiorentina,2023-04-23 Monza-Fiorentina,ITA-SERIA_A,22-23,631115c4
+01efac19,Antonín Barák,72,CZE,AM,28-141,58,0,0,0,0,0,0,1,0,29,1,0,0,0.0,0.0,0.0,2,0,22,26,84.6,1,18,2,0,0,Fiorentina,2023-04-23 Monza-Fiorentina,ITA-SERIA_A,22-23,631115c4
+0728bebe,Gaetano Castrovilli,10,ITA,AM,26-065,32,0,0,0,0,1,1,0,0,10,0,0,0,0.0,0.0,0.3,1,0,5,8,62.5,0,8,1,0,0,Fiorentina,2023-04-23 Monza-Fiorentina,ITA-SERIA_A,22-23,631115c4
+c7259b83,Rolando Mandragora,38,ITA,DM,25-298,70,0,0,0,0,0,0,0,0,39,2,0,2,0.0,0.0,0.0,0,0,30,34,88.2,5,18,1,0,0,Fiorentina,2023-04-23 Monza-Fiorentina,ITA-SERIA_A,22-23,631115c4
+4d8cd038,Luka Jović,7,SRB,DM,25-121,20,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,1,0,4,4,100.0,1,5,0,0,0,Fiorentina,2023-04-23 Monza-Fiorentina,ITA-SERIA_A,22-23,631115c4
+5a2cb25d,Sofyan Amrabat,34,MAR,DM,26-245,70,0,0,0,0,1,0,1,0,65,1,1,0,0.0,0.0,0.1,1,0,52,61,85.2,6,38,1,0,0,Fiorentina,2023-04-23 Monza-Fiorentina,ITA-SERIA_A,22-23,631115c4
+528492ea,Alfred Duncan,32,GHA,DM,30-044,20,0,0,0,0,1,0,0,0,16,2,1,1,0.0,0.0,0.0,1,0,8,12,66.7,2,9,0,1,1,Fiorentina,2023-04-23 Monza-Fiorentina,ITA-SERIA_A,22-23,631115c4
+9e1577aa,Cristiano Biraghi,3,ITA,LB,30-234,90,0,1,0,0,0,0,0,0,69,4,1,1,0.0,0.0,0.1,1,1,51,61,83.6,7,27,3,0,0,Fiorentina,2023-04-23 Monza-Fiorentina,ITA-SERIA_A,22-23,631115c4
+3ec3c1c9,Lucas Martínez Quarta,28,ARG,CB,26-348,90,0,0,0,0,0,0,0,0,58,4,2,1,0.0,0.0,0.0,0,0,36,48,75.0,5,30,2,0,0,Fiorentina,2023-04-23 Monza-Fiorentina,ITA-SERIA_A,22-23,631115c4
+bee704fc,Nikola Milenković,4,SRB,CB,25-193,90,0,0,0,0,0,0,1,0,42,3,0,1,0.0,0.0,0.0,1,0,31,36,86.1,3,21,0,0,0,Fiorentina,2023-04-23 Monza-Fiorentina,ITA-SERIA_A,22-23,631115c4
+b5f7d10b,Dodô,2,BRA,RB,24-157,79,0,0,0,0,0,0,0,0,67,1,1,0,0.0,0.0,0.0,2,1,53,60,88.3,4,47,7,10,6,Fiorentina,2023-04-23 Monza-Fiorentina,ITA-SERIA_A,22-23,631115c4
+3ef0a2d7,Aleksa Terzić,15,SRB,RB,23-249,11,0,0,0,0,0,0,0,0,9,0,0,1,0.0,0.0,0.0,0,0,2,6,33.3,0,4,1,1,0,Fiorentina,2023-04-23 Monza-Fiorentina,ITA-SERIA_A,22-23,631115c4
+e1b0a70d,Pietro Terracciano,1,ITA,GK,33-046,90,0,0,0,0,0,0,0,0,33,0,0,0,0.0,0.0,0.0,0,0,27,29,93.1,0,18,0,0,0,Fiorentina,2023-04-23 Monza-Fiorentina,ITA-SERIA_A,22-23,631115c4

@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+e342ad68,Mohamed Salah,11,EGY,"FW,RW",26-149,90,1,0,0,0,5,3,0,0,31,0,0,0,0.9,0.9,0.0,5,0,11,18,61.1,0,22,4,5,4,Liverpool,2018-11-11 Liverpool-Fulham,ENG-EPL,18-19,44da6811
+c691bfe2,Sadio Mané,10,SEN,LW,26-215,90,0,0,0,0,4,1,0,0,57,4,1,1,0.2,0.2,0.1,3,0,36,45,80.0,4,38,5,2,2,Liverpool,2018-11-11 Liverpool-Fulham,ENG-EPL,18-19,44da6811
+6421ec64,Xherdan Shaqiri,23,SUI,RW,27-032,80,1,0,0,0,4,1,0,0,66,0,0,2,0.3,0.3,0.1,3,0,42,57,73.7,4,35,2,2,2,Liverpool,2018-11-11 Liverpool-Fulham,ENG-EPL,18-19,44da6811
+2f90f6b8,James Milner,7,ENG,CM,32-311,10,0,0,0,0,0,0,0,0,12,0,0,0,0.0,0.0,0.0,2,0,9,12,75.0,2,3,1,0,0,Liverpool,2018-11-11 Liverpool-Fulham,ENG-EPL,18-19,44da6811
+4c370d81,Roberto Firmino,9,BRA,"AM,FW",27-040,90,0,0,0,0,1,1,0,0,61,1,0,1,0.0,0.0,0.7,5,0,49,53,92.5,5,38,3,2,0,Liverpool,2018-11-11 Liverpool-Fulham,ENG-EPL,18-19,44da6811
+7f3b388c,Fabinho,3,BRA,"DM,LM",25-019,89,0,0,0,0,1,0,0,0,92,2,2,0,0.0,0.0,0.0,5,0,72,80,90.0,10,51,0,1,0,Liverpool,2018-11-11 Liverpool-Fulham,ENG-EPL,18-19,44da6811
+f25c8e3a,Naby Keïta,8,GUI,LM,23-274,1,0,0,0,0,0,0,0,0,2,1,0,0,0.0,0.0,0.0,0,0,1,1,100.0,1,1,0,0,0,Liverpool,2018-11-11 Liverpool-Fulham,ENG-EPL,18-19,44da6811
+eb58eef0,Georginio Wijnaldum,5,NED,DM,28-000,68,0,0,0,0,0,0,0,0,66,1,0,0,0.0,0.0,0.0,2,0,60,64,93.8,8,44,2,0,0,Liverpool,2018-11-11 Liverpool-Fulham,ENG-EPL,18-19,44da6811
+935e6b8f,Jordan Henderson,14,ENG,"DM,RM",28-147,22,0,0,0,0,0,0,0,0,38,1,0,1,0.0,0.0,0.0,0,0,30,34,88.2,6,21,1,0,0,Liverpool,2018-11-11 Liverpool-Fulham,ENG-EPL,18-19,44da6811
+2e4f5f03,Andrew Robertson,26,SCO,LB,24-245,90,0,1,0,0,1,1,0,0,114,2,3,0,0.1,0.1,0.2,6,1,86,106,81.1,9,70,3,0,0,Liverpool,2018-11-11 Liverpool-Fulham,ENG-EPL,18-19,44da6811
+e06683ca,Virgil van Dijk,4,NED,CB,27-126,90,0,0,0,0,1,0,0,0,119,2,0,0,0.1,0.1,0.0,2,1,102,110,92.7,3,81,0,0,0,Liverpool,2018-11-11 Liverpool-Fulham,ENG-EPL,18-19,44da6811
+7a11550b,Joe Gomez,12,ENG,CB,21-172,90,0,0,0,0,0,0,1,0,93,2,0,1,0.0,0.0,0.0,0,0,81,88,92.0,4,58,1,1,1,Liverpool,2018-11-11 Liverpool-Fulham,ENG-EPL,18-19,44da6811
+cd1acf9d,Trent Alexander-Arnold,66,ENG,RB,20-035,90,0,1,0,0,4,0,0,0,96,2,2,1,0.2,0.2,0.3,4,1,54,76,71.1,4,45,2,1,0,Liverpool,2018-11-11 Liverpool-Fulham,ENG-EPL,18-19,44da6811
+7a2e46a8,Alisson,13,BRA,GK,26-040,90,0,0,0,0,0,0,0,0,37,0,0,0,0.0,0.0,0.0,1,1,33,36,91.7,0,19,0,0,0,Liverpool,2018-11-11 Liverpool-Fulham,ENG-EPL,18-19,44da6811
+3925dbd6,Aleksandar Mitrović,9,SRB,FW,24-056,90,0,0,0,0,2,1,0,0,32,1,0,2,0.1,0.1,0.0,2,0,17,22,77.3,2,19,1,1,0,Fulham,2018-11-11 Liverpool-Fulham,ENG-EPL,18-19,44da6811
+6aa3e78b,Ryan Sessegnon,3,ENG,"LW,RW",18-177,90,0,0,0,0,3,1,0,0,24,0,0,1,0.3,0.3,0.0,1,0,9,12,75.0,0,13,3,1,0,Fulham,2018-11-11 Liverpool-Fulham,ENG-EPL,18-19,44da6811
+ecbb3fdf,André Schürrle,14,GER,"RW,LW",28-005,77,0,0,0,0,2,1,0,0,25,1,0,1,0.1,0.1,0.0,0,0,12,18,66.7,2,12,2,1,1,Fulham,2018-11-11 Liverpool-Fulham,ENG-EPL,18-19,44da6811
+2513a588,Luciano Vietto,19,ARG,LW,24-341,13,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,7,8,87.5,0,5,0,0,0,Fulham,2018-11-11 Liverpool-Fulham,ENG-EPL,18-19,44da6811
+a8748947,Tom Cairney,10,SCO,AM,27-295,62,0,0,0,0,0,0,0,0,26,0,0,1,0.0,0.0,0.2,3,0,19,21,90.5,4,12,0,1,0,Fulham,2018-11-11 Liverpool-Fulham,ENG-EPL,18-19,44da6811
+10efd0e1,Jean Seri,24,CIV,AM,27-115,28,0,0,0,0,0,0,0,0,16,0,0,1,0.0,0.0,0.0,0,0,9,14,64.3,0,6,0,0,0,Fulham,2018-11-11 Liverpool-Fulham,ENG-EPL,18-19,44da6811
+dc6f5bdd,Calum Chambers,5,ENG,DM,23-295,90,0,0,0,0,0,0,1,0,50,2,3,5,0.0,0.0,0.0,2,0,24,36,66.7,2,11,0,2,2,Fulham,2018-11-11 Liverpool-Fulham,ENG-EPL,18-19,44da6811
+6bb2c084,Andre-Frank Zambo Anguissa,29,CMR,DM,22-360,83,0,0,0,0,0,0,0,0,38,3,2,3,0.0,0.0,0.0,0,0,17,21,81.0,4,16,0,2,1,Fulham,2018-11-11 Liverpool-Fulham,ENG-EPL,18-19,44da6811
+a48da055,Stefan Johansen,8,NOR,DM,27-307,7,0,0,0,0,0,0,0,0,3,0,0,1,0.0,0.0,0.0,0,0,2,2,100.0,1,0,0,0,0,Fulham,2018-11-11 Liverpool-Fulham,ENG-EPL,18-19,44da6811
+321a71a7,Maxime Le Marchand,20,FRA,LB,29-031,90,0,0,0,0,0,0,0,0,61,5,3,0,0.0,0.0,0.0,0,0,32,52,61.5,3,17,0,1,1,Fulham,2018-11-11 Liverpool-Fulham,ENG-EPL,18-19,44da6811
+d368feb8,Alfie Mawson,26,ENG,CB,24-296,90,0,0,0,0,0,0,0,0,31,2,2,2,0.0,0.0,0.0,0,0,12,18,66.7,1,8,0,0,0,Fulham,2018-11-11 Liverpool-Fulham,ENG-EPL,18-19,44da6811
+f7750aa0,Denis Odoi,4,GHA,CB,30-168,90,0,0,0,0,1,0,0,0,38,1,2,0,0.0,0.0,0.0,0,0,14,21,66.7,1,16,1,1,1,Fulham,2018-11-11 Liverpool-Fulham,ENG-EPL,18-19,44da6811
+7eb67dad,Cyrus Christie,22,IRL,RB,26-042,90,0,0,0,0,0,0,0,0,58,0,2,0,0.0,0.0,0.0,3,0,24,45,53.3,4,17,4,2,1,Fulham,2018-11-11 Liverpool-Fulham,ENG-EPL,18-19,44da6811
+5f0241b2,Sergio Rico,25,ESP,GK,25-071,90,0,0,0,0,0,0,0,0,28,0,0,0,0.0,0.0,0.0,1,0,15,23,65.2,0,7,0,0,0,Fulham,2018-11-11 Liverpool-Fulham,ENG-EPL,18-19,44da6811

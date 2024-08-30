@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+a7a9d95a,Paco Alcácer,9,ESP,FW,28-057,73,0,0,0,0,0,0,1,0,20,0,0,0,0.0,0.0,0.0,0,0,10,15,66.7,1,9,1,2,1,Villarreal,2021-10-26 Villarreal-Cádiz,ESP-LALIGA,21-22,43a5cb2e
+244bc2c8,Boulaye Dia,16,SEN,FW,24-344,17,1,1,0,0,1,1,0,0,8,0,0,0,0.6,0.6,0.1,1,1,3,5,60.0,1,3,0,0,0,Villarreal,2021-10-26 Villarreal-Cádiz,ESP-LALIGA,21-22,43a5cb2e
+f08490a6,Arnaut Danjuma,15,NED,LW,24-268,90,1,0,0,0,5,3,0,0,36,0,0,1,0.4,0.4,0.1,3,1,14,23,60.9,1,25,5,8,5,Villarreal,2021-10-26 Villarreal-Cádiz,ESP-LALIGA,21-22,43a5cb2e
+540ec57b,Yeremi Pino,21,ESP,"RW,AM",19-006,90,0,0,0,0,1,0,0,0,43,3,0,1,0.0,0.0,0.2,4,0,22,28,78.6,3,30,1,5,2,Villarreal,2021-10-26 Villarreal-Cádiz,ESP-LALIGA,21-22,43a5cb2e
+963829d0,Manu Trigueros,14,ESP,LM,30-009,60,0,0,0,0,0,0,0,0,51,0,0,0,0.0,0.0,0.1,3,0,38,49,77.6,14,33,0,0,0,Villarreal,2021-10-26 Villarreal-Cádiz,ESP-LALIGA,21-22,43a5cb2e
+a6951bf8,Francis Coquelin,19,FRA,"DM,LM",30-166,30,0,0,0,0,0,0,1,0,46,1,3,0,0.0,0.0,0.0,0,0,36,40,90.0,7,34,1,1,1,Villarreal,2021-10-26 Villarreal-Cádiz,ESP-LALIGA,21-22,43a5cb2e
+ad1ffcfd,Vicente Iborra,10,ESP,CM,33-283,60,0,0,0,0,1,0,0,0,60,3,2,0,0.2,0.2,0.0,1,0,44,52,84.6,2,34,1,0,0,Villarreal,2021-10-26 Villarreal-Cádiz,ESP-LALIGA,21-22,43a5cb2e
+5c2b4f07,Serge Aurier,25,CIV,"RB,CM",28-306,30,0,1,0,0,0,0,0,0,35,2,0,0,0.0,0.0,0.6,1,1,28,33,84.8,6,16,3,0,0,Villarreal,2021-10-26 Villarreal-Cádiz,ESP-LALIGA,21-22,43a5cb2e
+7460ca0d,Daniel Parejo,5,ESP,"RM,DM",32-193,90,0,1,0,0,0,0,0,0,128,0,0,0,0.0,0.0,0.2,8,2,104,124,83.9,30,89,7,1,1,Villarreal,2021-10-26 Villarreal-Cádiz,ESP-LALIGA,21-22,43a5cb2e
+63f04c6c,Alfonso Pedraza,24,ESP,LB,25-200,73,0,0,0,0,1,0,0,0,61,1,0,0,0.1,0.1,0.0,3,0,39,55,70.9,6,37,6,3,1,Villarreal,2021-10-26 Villarreal-Cádiz,ESP-LALIGA,21-22,43a5cb2e
+d38fdf53,Pervis Estupiñán,12,ECU,LB,23-278,17,0,0,0,0,0,0,0,0,22,0,0,2,0.0,0.0,0.0,0,0,11,17,64.7,3,9,2,1,1,Villarreal,2021-10-26 Villarreal-Cádiz,ESP-LALIGA,21-22,43a5cb2e
+532e1e4f,Pau Torres,4,ESP,CB,24-283,90,1,0,0,0,1,1,0,0,112,0,0,0,0.0,0.0,0.0,0,0,97,105,92.4,16,78,11,0,0,Villarreal,2021-10-26 Villarreal-Cádiz,ESP-LALIGA,21-22,43a5cb2e
+fbd6378b,Aïssa Mandi,22,ALG,CB,30-004,90,0,0,0,0,1,0,1,0,86,0,0,0,0.1,0.1,0.0,1,0,76,80,95.0,9,62,1,0,0,Villarreal,2021-10-26 Villarreal-Cádiz,ESP-LALIGA,21-22,43a5cb2e
+fb5d47b3,Mario Gaspar,2,ESP,RB,30-336,60,0,0,0,0,2,0,0,0,44,0,1,1,0.2,0.2,0.2,3,1,30,34,88.2,2,25,0,0,0,Villarreal,2021-10-26 Villarreal-Cádiz,ESP-LALIGA,21-22,43a5cb2e
+b8a642fc,Samuel Chukwueze,11,NGA,"RW,RB",22-157,30,0,0,0,0,1,0,0,0,24,0,0,0,0.0,0.0,0.0,0,0,12,19,63.2,1,20,3,4,4,Villarreal,2021-10-26 Villarreal-Cádiz,ESP-LALIGA,21-22,43a5cb2e
+9f0ea33f,Sergio Asenjo,1,ESP,GK,32-120,90,0,0,0,0,0,0,0,0,33,0,0,0,0.0,0.0,0.0,0,0,30,33,90.9,0,15,0,0,0,Villarreal,2021-10-26 Villarreal-Cádiz,ESP-LALIGA,21-22,43a5cb2e
+19b776e9,Rubén Sobrino,21,ESP,"FW,CM",29-147,90,0,1,0,0,0,0,0,0,32,0,1,0,0.0,0.0,0.6,2,1,9,21,42.9,2,20,3,2,1,Cádiz,2021-10-26 Villarreal-Cádiz,ESP-LALIGA,21-22,43a5cb2e
+38699c72,Anthony Lozano,9,HON,"LM,FW",28-184,70,3,0,0,0,6,4,1,0,19,0,0,0,1.2,1.2,0.0,2,0,6,9,66.7,1,15,4,2,1,Cádiz,2021-10-26 Villarreal-Cádiz,ESP-LALIGA,21-22,43a5cb2e
+dc008610,Florin Andone,17,ROU,FW,28-198,20,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,3,0,0,0,Cádiz,2021-10-26 Villarreal-Cádiz,ESP-LALIGA,21-22,43a5cb2e
+aa677a35,Álex Fernández,8,ESP,CM,29-011,90,0,1,0,0,0,0,0,0,36,3,0,2,0.0,0.0,0.1,2,1,17,26,65.4,2,15,1,1,0,Cádiz,2021-10-26 Villarreal-Cádiz,ESP-LALIGA,21-22,43a5cb2e
+53520a67,Jens Jønsson,2,DEN,CM,28-289,52,0,0,0,0,0,0,0,0,11,1,1,0,0.0,0.0,0.0,1,1,4,5,80.0,0,4,0,0,0,Cádiz,2021-10-26 Villarreal-Cádiz,ESP-LALIGA,21-22,43a5cb2e
+f2a68b97,Carlos Akapo,15,EQG,"RB,CM",28-228,38,0,0,0,0,0,0,1,0,20,1,3,0,0.0,0.0,0.0,0,0,5,10,50.0,0,6,1,0,0,Cádiz,2021-10-26 Villarreal-Cádiz,ESP-LALIGA,21-22,43a5cb2e
+9ed40a69,Chapela,27,ESP,RM,22-158,52,0,0,0,0,1,0,0,0,16,1,0,0,0.0,0.0,0.0,2,1,5,7,71.4,3,11,0,2,1,Cádiz,2021-10-26 Villarreal-Cádiz,ESP-LALIGA,21-22,43a5cb2e
+3d7e48ce,Iván Alejo,14,ESP,"LM,RM",26-258,38,0,0,0,0,0,0,1,0,14,2,0,0,0.0,0.0,0.0,0,0,3,7,42.9,1,7,1,3,1,Cádiz,2021-10-26 Villarreal-Cádiz,ESP-LALIGA,21-22,43a5cb2e
+72a84002,Fali,3,ESP,DM,28-075,70,0,1,0,0,0,0,1,0,19,0,0,2,0.0,0.0,0.5,2,1,11,13,84.6,0,2,0,0,0,Cádiz,2021-10-26 Villarreal-Cádiz,ESP-LALIGA,21-22,43a5cb2e
+99ea2ddd,Tomás Alarcón,12,CHI,DM,22-280,20,0,0,0,0,0,0,0,0,14,0,0,0,0.0,0.0,0.1,1,0,10,12,83.3,2,8,0,0,0,Cádiz,2021-10-26 Villarreal-Cádiz,ESP-LALIGA,21-22,43a5cb2e
+db001fa9,Alfonso Espino,22,URU,LB,29-294,90,0,0,0,0,1,0,1,0,39,1,3,1,0.0,0.0,0.0,1,0,8,26,30.8,1,16,0,1,1,Cádiz,2021-10-26 Villarreal-Cádiz,ESP-LALIGA,21-22,43a5cb2e
+ec1a731e,Víctor Chust,32,ESP,CB,21-235,90,0,0,0,0,0,0,0,0,25,1,0,3,0.0,0.0,0.0,0,0,10,15,66.7,0,10,0,0,0,Cádiz,2021-10-26 Villarreal-Cádiz,ESP-LALIGA,21-22,43a5cb2e
+be32269e,Varazdat Haroyan,5,ARM,CB,29-063,90,0,0,0,0,0,0,1,0,22,1,1,1,0.0,0.0,0.0,0,0,9,12,75.0,1,7,0,0,0,Cádiz,2021-10-26 Villarreal-Cádiz,ESP-LALIGA,21-22,43a5cb2e
+c4b888df,Isaac Carcelen,20,ESP,"RB,RM",28-186,63,0,0,0,0,0,0,0,0,30,2,0,1,0.0,0.0,0.0,1,0,12,22,54.5,1,12,1,0,0,Cádiz,2021-10-26 Villarreal-Cádiz,ESP-LALIGA,21-22,43a5cb2e
+405f267a,Salvi,7,ESP,RM,30-210,27,0,0,0,0,1,0,0,0,17,0,1,1,0.1,0.1,0.0,1,0,6,11,54.5,1,9,1,0,0,Cádiz,2021-10-26 Villarreal-Cádiz,ESP-LALIGA,21-22,43a5cb2e
+6c4776b1,Jeremías Ledesma,1,ARG,GK,28-255,90,0,0,0,0,0,0,0,0,29,1,0,0,0.0,0.0,0.0,0,0,10,27,37.0,0,8,0,0,0,Cádiz,2021-10-26 Villarreal-Cádiz,ESP-LALIGA,21-22,43a5cb2e
