@@ -1,0 +1,29 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+b66315ae,Gabriel Jesus,9,BRA,FW,22-237,90,0,1,0,0,2,1,0,0,30,2,1,0,0.1,0.1,0.6,5,1,18,20,90.0,0,15,0,5,2,Manchester City,2019-11-26 Manchester City-Shakhtar,UCL,19-20,0a820d21
+b400bde0,Raheem Sterling,7,ENG,"LW,RW",24-353,90,0,0,0,0,2,0,0,0,44,1,2,1,0.2,0.2,0.1,5,0,27,34,79.4,2,36,6,6,3,Manchester City,2019-11-26 Manchester City-Shakhtar,UCL,19-20,0a820d21
+3eb22ec9,Bernardo Silva,20,POR,"RW,LW",25-108,90,0,0,0,0,0,0,0,0,75,1,2,1,0.0,0.0,0.0,2,0,55,66,83.3,7,56,2,3,1,Manchester City,2019-11-26 Manchester City-Shakhtar,UCL,19-20,0a820d21
+819b3158,İlkay Gündoğan,8,GER,"LM,CM,RM",29-033,90,1,0,0,0,2,1,0,0,76,0,2,0,0.4,0.4,0.1,5,0,62,70,88.6,4,57,2,2,1,Manchester City,2019-11-26 Manchester City-Shakhtar,UCL,19-20,0a820d21
+6434f10d,Rodri,16,ESP,CM,23-157,75,0,0,0,0,2,2,0,0,113,5,1,2,0.1,0.1,0.1,3,0,96,101,95.0,24,95,11,4,4,Manchester City,2019-11-26 Manchester City-Shakhtar,UCL,19-20,0a820d21
+ed1e53f3,Phil Foden,47,ENG,LM,19-182,15,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,0,0,8,10,80.0,2,11,0,0,0,Manchester City,2019-11-26 Manchester City-Shakhtar,UCL,19-20,0a820d21
+e46012d4,Kevin De Bruyne,17,BEL,RM,28-151,69,0,0,0,0,1,0,0,0,56,2,0,2,0.1,0.1,0.2,4,0,25,49,51.0,4,37,3,4,4,Manchester City,2019-11-26 Manchester City-Shakhtar,UCL,19-20,0a820d21
+e2716bd0,David Silva,21,ESP,"RM,LM",33-322,21,0,0,0,0,1,0,0,0,11,0,1,0,0.1,0.1,0.0,0,0,7,9,77.8,2,8,0,0,0,Manchester City,2019-11-26 Manchester City-Shakhtar,UCL,19-20,0a820d21
+30941e96,Angeliño,12,ESP,LB,22-326,90,0,0,0,0,1,0,0,0,88,3,1,0,0.0,0.0,0.1,4,0,70,82,85.4,5,67,2,1,0,Manchester City,2019-11-26 Manchester City-Shakhtar,UCL,19-20,0a820d21
+101da2b5,Fernandinho,25,BRA,CB,34-206,90,0,0,0,0,1,0,1,0,88,1,2,4,0.1,0.1,0.0,0,0,72,77,93.5,11,70,5,1,0,Manchester City,2019-11-26 Manchester City-Shakhtar,UCL,19-20,0a820d21
+0d267745,Nicolás Otamendi,30,ARG,CB,31-287,90,0,0,0,0,3,1,0,0,99,3,0,0,0.1,0.1,0.0,0,0,84,90,93.3,9,80,3,0,0,Manchester City,2019-11-26 Manchester City-Shakhtar,UCL,19-20,0a820d21
+bd6351cd,João Cancelo,27,POR,RB,25-183,90,0,0,0,0,1,1,0,0,106,1,2,1,0.1,0.1,0.0,3,0,84,98,85.7,14,86,0,2,2,Manchester City,2019-11-26 Manchester City-Shakhtar,UCL,19-20,0a820d21
+3bb7b8b4,Ederson,31,BRA,GK,26-101,90,0,0,0,0,0,0,0,0,21,0,0,0,0.0,0.0,0.0,0,0,20,20,100.0,0,17,0,0,0,Manchester City,2019-11-26 Manchester City-Shakhtar,UCL,19-20,0a820d21
+c43e5e7e,Júnior Moraes,10,UKR,FW,32-236,89,0,0,0,0,1,0,0,0,23,0,0,0,0.1,0.1,0.1,1,0,9,13,69.2,0,18,1,5,1,Shakhtar Donetsk,2019-11-26 Manchester City-Shakhtar,UCL,19-20,0a820d21
+03998238,Danylo Sikan,45,UKR,FW,18-224,1,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,0,0,0,0,Shakhtar Donetsk,2019-11-26 Manchester City-Shakhtar,UCL,19-20,0a820d21
+d9a5d930,Yevhen Konoplyanka,15,UKR,LM,30-058,64,0,0,0,0,1,1,0,0,34,0,0,1,0.0,0.0,0.0,0,0,23,29,79.3,0,26,5,3,1,Shakhtar Donetsk,2019-11-26 Manchester City-Shakhtar,UCL,19-20,0a820d21
+886f9aac,Manor Solomon,19,ISR,LM,20-125,26,1,0,0,0,1,1,0,0,6,0,0,0,0.5,0.5,0.0,1,0,5,5,100.0,1,6,0,1,1,Shakhtar Donetsk,2019-11-26 Manchester City-Shakhtar,UCL,19-20,0a820d21
+00672021,Alan Patrick,21,BRA,CM,28-197,90,0,0,0,0,1,0,0,0,49,1,2,1,0.1,0.1,0.1,2,0,30,34,88.2,4,38,2,5,3,Shakhtar Donetsk,2019-11-26 Manchester City-Shakhtar,UCL,19-20,0a820d21
+9d60028d,Viktor Kovalenko,20,UKR,CM,23-285,80,0,0,0,0,0,0,0,0,30,2,0,1,0.0,0.0,0.0,1,0,19,24,79.2,1,24,1,1,1,Shakhtar Donetsk,2019-11-26 Manchester City-Shakhtar,UCL,19-20,0a820d21
+108fe016,Marcos Antônio,8,BRA,CM,19-166,10,0,0,0,0,0,0,0,0,8,1,2,0,0.0,0.0,0.0,0,0,6,7,85.7,1,6,0,0,0,Shakhtar Donetsk,2019-11-26 Manchester City-Shakhtar,UCL,19-20,0a820d21
+7120a04d,Tetê,14,BRA,RM,19-284,90,0,0,0,0,3,0,0,0,40,1,1,2,0.3,0.3,0.1,4,1,21,30,70.0,3,27,7,3,0,Shakhtar Donetsk,2019-11-26 Manchester City-Shakhtar,UCL,19-20,0a820d21
+ee3519f5,Taras Stepanenko,6,UKR,DM,30-110,90,0,0,0,0,0,0,0,0,48,2,1,2,0.0,0.0,0.0,1,0,27,34,79.4,0,27,0,0,0,Shakhtar Donetsk,2019-11-26 Manchester City-Shakhtar,UCL,19-20,0a820d21
+cf182add,Ismaily,31,BRA,LB,29-319,90,0,0,0,0,0,0,0,0,66,4,4,3,0.0,0.0,0.0,0,0,37,45,82.2,0,34,1,6,3,Shakhtar Donetsk,2019-11-26 Manchester City-Shakhtar,UCL,19-20,0a820d21
+1adcf39e,Mykola Matviyenko,22,UKR,CB,23-208,90,0,0,0,0,0,0,0,0,62,2,6,2,0.0,0.0,0.3,1,0,35,44,79.5,2,40,0,0,0,Shakhtar Donetsk,2019-11-26 Manchester City-Shakhtar,UCL,19-20,0a820d21
+292a652a,Serhiy Kryvtsov,4,UKR,CB,28-256,90,0,0,0,0,0,0,0,0,72,2,0,4,0.0,0.0,0.0,0,0,42,57,73.7,2,52,0,0,0,Shakhtar Donetsk,2019-11-26 Manchester City-Shakhtar,UCL,19-20,0a820d21
+b5f7d10b,Dodô,98,BRA,RB,21-009,90,0,1,0,0,0,0,0,0,47,2,0,0,0.0,0.0,0.5,2,1,31,39,79.5,2,30,2,3,3,Shakhtar Donetsk,2019-11-26 Manchester City-Shakhtar,UCL,19-20,0a820d21
+34c3b935,Andriy Pyatov,30,UKR,GK,35-151,90,0,0,0,0,0,0,0,0,54,0,0,0,0.0,0.0,0.0,0,0,41,53,77.4,0,35,0,0,0,Shakhtar Donetsk,2019-11-26 Manchester City-Shakhtar,UCL,19-20,0a820d21

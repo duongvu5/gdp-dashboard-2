@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+5c4dc0ff,Mariano,24,DOM,FW,27-119,90,0,0,0,0,4,2,0,0,34,0,0,1,0.2,0.2,0.0,1,0,19,25,76.0,2,17,1,2,0,Real Madrid,2020-11-28 Real Madrid-Alavés,ESP-LALIGA,20-21,8514945b
+a39bb753,Eden Hazard,7,BEL,LW,29-326,27,0,0,0,0,1,1,0,0,15,1,1,0,0.0,0.0,0.0,1,0,7,11,63.6,0,8,2,3,1,Real Madrid,2020-11-28 Real Madrid-Alavés,ESP-LALIGA,20-21,8514945b
+8f5e92a6,Rodrygo,25,BRA,RW,19-324,63,0,0,0,0,2,0,0,0,24,0,0,1,0.1,0.1,0.0,4,0,16,19,84.2,1,18,0,1,0,Real Madrid,2020-11-28 Real Madrid-Alavés,ESP-LALIGA,20-21,8514945b
+45af8a54,Marco Asensio,11,ESP,"LW,RW",24-312,62,0,0,0,0,0,0,0,0,43,1,0,2,0.0,0.0,0.0,0,0,33,43,76.7,1,26,6,0,0,Real Madrid,2020-11-28 Real Madrid-Alavés,ESP-LALIGA,20-21,8514945b
+7111d552,Vinicius Júnior,20,BRA,LW,20-139,28,0,0,0,0,1,1,0,0,15,1,0,0,0.2,0.2,0.0,2,1,7,9,77.8,0,13,2,1,0,Real Madrid,2020-11-28 Real Madrid-Alavés,ESP-LALIGA,20-21,8514945b
+6ce1f46f,Toni Kroos,8,GER,LM,30-329,68,0,0,0,0,4,3,1,0,81,0,0,1,0.4,0.4,0.1,7,0,60,75,80.0,15,45,2,3,2,Real Madrid,2020-11-28 Real Madrid-Alavés,ESP-LALIGA,20-21,8514945b
+a0b4bb3e,Isco,22,ESP,LM,28-221,22,0,0,0,0,2,0,0,0,28,0,0,0,0.1,0.1,0.1,2,0,21,26,80.8,7,17,1,0,0,Real Madrid,2020-11-28 Real Madrid-Alavés,ESP-LALIGA,20-21,8514945b
+4d224fe8,Casemiro,14,BRA,CM,28-279,90,1,0,0,0,3,1,1,0,79,4,2,2,0.8,0.8,0.0,3,0,54,66,81.8,11,35,1,0,0,Real Madrid,2020-11-28 Real Madrid-Alavés,ESP-LALIGA,20-21,8514945b
+6025fab1,Luka Modrić,10,CRO,RM,35-080,68,0,0,0,0,0,0,0,0,50,1,0,0,0.0,0.0,0.1,2,0,39,47,83.0,7,36,0,1,1,Real Madrid,2020-11-28 Real Madrid-Alavés,ESP-LALIGA,20-21,8514945b
+79300479,Martin Ødegaard,21,NOR,RM,21-347,22,0,0,0,0,0,0,0,0,19,0,1,0,0.0,0.0,0.1,1,0,14,17,82.4,2,11,0,0,0,Real Madrid,2020-11-28 Real Madrid-Alavés,ESP-LALIGA,20-21,8514945b
+603116a7,Marcelo,12,BRA,LB,32-200,68,0,0,0,0,1,0,0,0,51,0,0,1,0.0,0.0,0.0,2,0,40,48,83.3,6,30,1,0,0,Real Madrid,2020-11-28 Real Madrid-Alavés,ESP-LALIGA,20-21,8514945b
+3cefcaef,Ferland Mendy,23,FRA,LB,25-173,22,0,0,0,0,0,0,0,0,14,0,0,0,0.0,0.0,0.0,1,0,9,12,75.0,0,9,0,2,1,Real Madrid,2020-11-28 Real Madrid-Alavés,ESP-LALIGA,20-21,8514945b
+2946f9a1,Nacho,6,ESP,CB,30-315,90,0,0,0,0,0,0,0,0,66,2,0,1,0.0,0.0,0.0,0,0,55,59,93.2,5,34,1,1,0,Real Madrid,2020-11-28 Real Madrid-Alavés,ESP-LALIGA,20-21,8514945b
+9f8e9423,Raphaël Varane,5,FRA,CB,27-217,90,0,0,0,0,1,0,0,0,75,1,1,2,0.1,0.1,0.2,2,0,63,67,94.0,5,46,1,0,0,Real Madrid,2020-11-28 Real Madrid-Alavés,ESP-LALIGA,20-21,8514945b
+fd51b456,Lucas Vázquez,17,ESP,RB,29-150,90,0,0,0,0,1,0,0,0,100,0,2,1,0.0,0.0,0.2,6,0,80,91,87.9,12,68,2,1,1,Real Madrid,2020-11-28 Real Madrid-Alavés,ESP-LALIGA,20-21,8514945b
+1840e36d,Thibaut Courtois,1,BEL,GK,28-201,90,0,0,0,0,0,0,0,0,20,0,0,0,0.0,0.0,0.0,0,0,12,16,75.0,0,11,0,0,0,Real Madrid,2020-11-28 Real Madrid-Alavés,ESP-LALIGA,20-21,8514945b
+a300ac7e,Lucas Pérez,7,ESP,FW,32-079,87,1,0,1,1,3,2,0,0,47,0,0,0,1.7,0.9,0.2,8,1,27,38,71.1,2,25,2,5,5,Alavés,2020-11-28 Real Madrid-Alavés,ESP-LALIGA,20-21,8514945b
+1b40049a,Borja Sainz,29,ESP,FW,19-301,3,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,1,0,0,0,Alavés,2020-11-28 Real Madrid-Alavés,ESP-LALIGA,20-21,8514945b
+6265208f,Joselu,9,ESP,FW,30-246,89,1,0,0,0,4,2,0,0,36,0,0,0,0.3,0.3,0.5,2,0,15,25,60.0,5,15,0,1,0,Alavés,2020-11-28 Real Madrid-Alavés,ESP-LALIGA,20-21,8514945b
+2e5e846d,Deyverson,14,BRA,FW,29-204,1,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,2,5,40.0,0,4,1,0,0,Alavés,2020-11-28 Real Madrid-Alavés,ESP-LALIGA,20-21,8514945b
+eb3dd471,Luis Rioja,11,ESP,LM,27-043,87,0,0,0,0,1,0,1,0,38,0,1,1,0.0,0.0,0.0,0,0,18,22,81.8,0,27,6,1,0,Alavés,2020-11-28 Real Madrid-Alavés,ESP-LALIGA,20-21,8514945b
+e9ada8cf,Javi López,26,ESP,LM,18-248,3,0,0,0,0,1,1,0,0,1,0,0,0,0.1,0.1,0.0,0,0,0,0,,0,1,1,0,0,Alavés,2020-11-28 Real Madrid-Alavés,ESP-LALIGA,20-21,8514945b
+e54bd0a2,Tomás Pina Isla,8,ESP,CM,33-045,76,0,0,0,0,0,0,0,0,32,3,3,1,0.0,0.0,0.0,2,0,21,22,95.5,2,13,1,1,1,Alavés,2020-11-28 Real Madrid-Alavés,ESP-LALIGA,20-21,8514945b
+aed746df,Édgar Méndez,16,ESP,CM,30-331,14,0,0,0,0,0,0,1,0,6,3,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,2,0,1,0,Alavés,2020-11-28 Real Madrid-Alavés,ESP-LALIGA,20-21,8514945b
+d637fc22,Rodrigo Battaglia,6,ARG,CM,29-139,90,0,0,0,0,0,0,0,0,30,3,1,1,0.0,0.0,0.0,0,0,20,23,87.0,1,21,0,0,0,Alavés,2020-11-28 Real Madrid-Alavés,ESP-LALIGA,20-21,8514945b
+9f351459,Jota,24,ESP,RM,29-165,90,0,0,0,0,0,0,0,0,31,1,0,2,0.0,0.0,0.5,3,0,16,23,69.6,4,21,1,0,0,Alavés,2020-11-28 Real Madrid-Alavés,ESP-LALIGA,20-21,8514945b
+1fe0492d,Rubén Duarte,3,ESP,LB,25-041,90,0,0,0,0,0,0,1,0,47,2,1,1,0.0,0.0,0.0,0,0,26,35,74.3,1,18,0,0,0,Alavés,2020-11-28 Real Madrid-Alavés,ESP-LALIGA,20-21,8514945b
+6eaed4eb,Florian Lejeune,22,FRA,CB,29-192,90,0,0,0,0,0,0,0,0,43,2,1,2,0.0,0.0,0.0,0,0,21,25,84.0,0,23,0,1,0,Alavés,2020-11-28 Real Madrid-Alavés,ESP-LALIGA,20-21,8514945b
+b7c99b9b,Víctor Laguardia,5,ESP,CB,31-023,90,0,0,0,0,0,0,0,0,36,1,1,0,0.0,0.0,0.0,0,0,16,25,64.0,1,14,0,0,0,Alavés,2020-11-28 Real Madrid-Alavés,ESP-LALIGA,20-21,8514945b
+8db394aa,Ximo Navarro,23,ESP,RB,30-310,90,0,0,0,0,1,0,0,0,45,4,1,0,0.0,0.0,0.0,1,0,19,23,82.6,1,16,0,1,1,Alavés,2020-11-28 Real Madrid-Alavés,ESP-LALIGA,20-21,8514945b
+97852360,Fernando Pacheco,1,ESP,GK,28-194,90,0,0,0,0,0,0,0,0,42,0,0,0,0.0,0.0,0.0,0,0,29,38,76.3,0,13,0,0,0,Alavés,2020-11-28 Real Madrid-Alavés,ESP-LALIGA,20-21,8514945b

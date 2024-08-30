@@ -1,0 +1,29 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+0b90bb97,Santi Mina,22,ESP,FW,25-156,81,0,1,0,0,0,0,0,0,37,2,0,0,0.0,0.0,0.2,0,0,20,28,71.4,2,28,0,0,0,Celta Vigo,2021-05-12 Celta Vigo-Getafe,ESP-LALIGA,20-21,92f705d2
+cb574619,Hugo Mallo,2,ESP,"CB,FW",29-324,9,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,4,6,66.7,0,3,0,0,0,Celta Vigo,2021-05-12 Celta Vigo-Getafe,ESP-LALIGA,20-21,92f705d2
+7dcf86f6,Iago Aspas,10,ESP,FW,33-284,90,0,0,0,0,0,0,0,0,60,0,0,1,0.0,0.0,0.0,2,1,37,51,72.5,3,44,1,1,0,Celta Vigo,2021-05-12 Celta Vigo-Getafe,ESP-LALIGA,20-21,92f705d2
+b2d0ec1b,Nolito,9,ESP,LM,34-209,68,1,0,0,0,1,1,0,0,38,5,0,1,0.2,0.2,0.0,0,0,21,27,77.8,3,23,0,2,2,Celta Vigo,2021-05-12 Celta Vigo-Getafe,ESP-LALIGA,20-21,92f705d2
+3ca6106c,Augusto Solari,21,ARG,LM,29-129,22,0,0,0,0,1,0,0,0,15,0,1,0,0.0,0.0,0.0,0,0,7,10,70.0,0,13,1,4,3,Celta Vigo,2021-05-12 Celta Vigo-Getafe,ESP-LALIGA,20-21,92f705d2
+12c50af5,Denis Suárez,6,ESP,CM,27-126,90,0,0,0,0,0,0,1,0,99,1,2,2,0.0,0.0,0.0,1,1,74,89,83.1,8,59,2,0,0,Celta Vigo,2021-05-12 Celta Vigo-Getafe,ESP-LALIGA,20-21,92f705d2
+c9e39d91,Brais Méndez,23,ESP,RM,24-125,68,0,0,0,0,0,0,0,0,49,2,0,0,0.0,0.0,0.0,1,0,29,38,76.3,2,36,1,1,0,Celta Vigo,2021-05-12 Celta Vigo-Getafe,ESP-LALIGA,20-21,92f705d2
+8a6daac3,Jordan Holsgrove,39,SCO,RM,21-244,22,0,0,0,0,0,0,0,0,13,3,0,1,0.0,0.0,0.0,0,0,5,8,62.5,0,5,0,0,0,Celta Vigo,2021-05-12 Celta Vigo-Getafe,ESP-LALIGA,20-21,92f705d2
+ed5c5fa3,Fran Beltrán,8,ESP,"DM,CM",22-098,90,0,0,0,0,0,0,0,0,88,2,2,1,0.0,0.0,0.0,0,0,69,77,89.6,5,59,0,0,0,Celta Vigo,2021-05-12 Celta Vigo-Getafe,ESP-LALIGA,20-21,92f705d2
+2f3e911a,Aarón Martín,19,ESP,LB,24-020,90,0,0,0,0,0,0,0,0,66,3,2,1,0.0,0.0,0.0,0,0,43,51,84.3,2,40,1,3,1,Celta Vigo,2021-05-12 Celta Vigo-Getafe,ESP-LALIGA,20-21,92f705d2
+3521abfe,Carlos Dominguez,40,ESP,CB,20-090,90,0,0,0,0,0,0,0,0,54,0,1,1,0.0,0.0,0.1,1,0,36,44,81.8,2,30,0,0,0,Celta Vigo,2021-05-12 Celta Vigo-Getafe,ESP-LALIGA,20-21,92f705d2
+18abe173,Joseph Aidoo,18,GHA,CB,25-225,90,0,0,0,0,2,0,0,0,67,1,3,1,0.3,0.3,0.0,1,0,31,42,73.8,2,39,2,0,0,Celta Vigo,2021-05-12 Celta Vigo-Getafe,ESP-LALIGA,20-21,92f705d2
+ee923664,Kevin Vázquez,20,ESP,RB,28-050,90,0,0,0,0,0,0,0,0,61,2,0,1,0.0,0.0,0.0,0,0,39,48,81.3,1,28,0,1,0,Celta Vigo,2021-05-12 Celta Vigo-Getafe,ESP-LALIGA,20-21,92f705d2
+cde52ef5,Iván Villar,1,ESP,GK,23-307,90,0,0,0,0,0,0,0,0,53,0,0,0,0.0,0.0,0.0,0,0,28,51,54.9,0,28,0,0,0,Celta Vigo,2021-05-12 Celta Vigo-Getafe,ESP-LALIGA,20-21,92f705d2
+f8eca1b6,Enes Ünal,10,TUR,FW,24-002,59,0,0,0,0,1,0,0,0,30,0,1,0,0.2,0.2,0.1,0,0,6,16,37.5,0,19,1,3,2,Getafe,2021-05-12 Celta Vigo-Getafe,ESP-LALIGA,20-21,92f705d2
+02319ad7,Jaime Mata,7,ESP,FW,32-200,31,0,0,0,0,0,0,0,0,20,0,0,0,0.0,0.0,0.0,0,0,12,17,70.6,3,7,0,0,0,Getafe,2021-05-12 Celta Vigo-Getafe,ESP-LALIGA,20-21,92f705d2
+8cfc2f69,Ángel Rodríguez,9,ESP,FW,34-016,90,0,0,0,0,5,2,0,0,41,0,1,2,0.7,0.7,0.0,2,0,13,24,54.2,1,29,4,1,1,Getafe,2021-05-12 Celta Vigo-Getafe,ESP-LALIGA,20-21,92f705d2
+1daec722,Marc Cucurella,15,ESP,LM,22-294,90,0,0,0,0,0,0,0,0,51,2,1,2,0.0,0.0,0.0,3,0,28,41,68.3,2,32,4,2,1,Getafe,2021-05-12 Celta Vigo-Getafe,ESP-LALIGA,20-21,92f705d2
+6c811eb7,Carles Aleñá,11,ESP,CM,23-127,90,0,0,0,0,3,1,0,0,61,1,0,2,0.1,0.1,0.4,7,0,32,52,61.5,9,39,1,3,2,Getafe,2021-05-12 Celta Vigo-Getafe,ESP-LALIGA,20-21,92f705d2
+00b28772,Nemanja Maksimović,20,SRB,CM,26-106,90,0,0,0,0,1,0,0,0,38,1,3,1,0.1,0.1,0.0,1,0,22,29,75.9,2,11,1,0,0,Getafe,2021-05-12 Celta Vigo-Getafe,ESP-LALIGA,20-21,92f705d2
+974322dc,Iglesias,29,ESP,RM,22-313,59,0,0,0,0,0,0,0,0,32,5,2,0,0.0,0.0,0.0,0,0,7,20,35.0,2,18,1,2,1,Getafe,2021-05-12 Celta Vigo-Getafe,ESP-LALIGA,20-21,92f705d2
+16aa3654,Takefusa Kubo,5,JPN,RM,19-342,31,0,0,0,0,0,0,0,0,18,0,0,1,0.0,0.0,0.0,0,0,11,15,73.3,3,10,1,0,0,Getafe,2021-05-12 Celta Vigo-Getafe,ESP-LALIGA,20-21,92f705d2
+41c12f75,Mathías Olivera,17,URU,LB,23-193,90,0,0,0,0,1,0,1,0,57,2,3,3,0.1,0.1,0.0,3,0,34,45,75.6,3,22,2,5,5,Getafe,2021-05-12 Celta Vigo-Getafe,ESP-LALIGA,20-21,92f705d2
+7f203b54,Chema,6,ESP,CB,29-070,90,0,0,0,0,2,1,1,0,41,2,2,0,0.1,0.1,0.2,2,0,19,31,61.3,3,11,0,0,0,Getafe,2021-05-12 Celta Vigo-Getafe,ESP-LALIGA,20-21,92f705d2
+a4971d84,Djené,2,TOG,CB,29-132,90,0,0,0,0,0,0,0,0,29,2,5,0,0.0,0.0,0.0,2,0,13,17,76.5,3,11,0,2,2,Getafe,2021-05-12 Celta Vigo-Getafe,ESP-LALIGA,20-21,92f705d2
+ba5004e1,Damián Suárez,22,URU,RB,33-015,90,0,0,0,0,0,0,1,0,61,1,0,2,0.0,0.0,0.2,3,0,31,49,63.3,4,25,4,5,2,Getafe,2021-05-12 Celta Vigo-Getafe,ESP-LALIGA,20-21,92f705d2
+8f8c6934,David Soria,13,ESP,GK,28-038,90,0,0,0,0,0,0,0,0,25,0,0,0,0.0,0.0,0.0,1,0,16,25,64.0,0,15,0,0,0,Getafe,2021-05-12 Celta Vigo-Getafe,ESP-LALIGA,20-21,92f705d2

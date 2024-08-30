@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+a6154613,Luis Suárez,9,URU,FW,32-086,90,0,0,0,0,1,1,0,0,44,0,1,0,0.1,0.1,0.2,3,0,22,35,62.9,5,31,3,3,2,Barcelona,2019-04-20 Barcelona-Real Sociedad,ESP-LALIGA,18-19,dc6a34e3
+b19db005,Ousmane Dembélé,11,FRA,LW,21-340,71,0,1,0,0,1,0,0,0,37,2,0,1,0.1,0.1,0.1,1,1,20,28,71.4,2,26,5,1,0,Barcelona,2019-04-20 Barcelona-Real Sociedad,ESP-LALIGA,18-19,dc6a34e3
+0ef89a37,Philippe Coutinho,7,BRA,LW,26-312,19,0,0,0,0,1,0,0,0,13,0,1,1,0.0,0.0,0.1,2,0,7,9,77.8,1,5,0,1,1,Barcelona,2019-04-20 Barcelona-Real Sociedad,ESP-LALIGA,18-19,dc6a34e3
+d70ce98e,Lionel Messi,10,ARG,RW,31-300,90,0,1,0,0,3,1,0,0,56,0,0,0,0.2,0.2,0.0,4,1,30,48,62.5,9,48,8,9,5,Barcelona,2019-04-20 Barcelona-Real Sociedad,ESP-LALIGA,18-19,dc6a34e3
+48b3dd60,Arthur Melo,8,BRA,LM,22-251,55,0,0,0,0,0,0,0,0,44,1,0,0,0.0,0.0,0.0,1,0,37,40,92.5,2,32,0,0,0,Barcelona,2019-04-20 Barcelona-Real Sociedad,ESP-LALIGA,18-19,dc6a34e3
+5ab0ea87,Sergio Busquets,5,ESP,CM,30-278,35,0,0,0,0,0,0,0,0,24,1,1,1,0.0,0.0,0.0,1,0,17,21,81.0,1,16,0,0,0,Barcelona,2019-04-20 Barcelona-Real Sociedad,ESP-LALIGA,18-19,dc6a34e3
+89f951b5,Ivan Rakitić,4,CRO,"CM,LM",31-041,90,0,0,0,0,1,0,0,0,70,1,0,0,0.2,0.2,0.0,2,2,56,66,84.8,4,49,0,1,1,Barcelona,2019-04-20 Barcelona-Real Sociedad,ESP-LALIGA,18-19,dc6a34e3
+67cdbc0e,Arturo Vidal,22,CHI,RM,31-333,89,0,0,0,0,2,0,0,0,67,1,0,3,0.3,0.3,0.1,2,0,48,58,82.8,2,43,2,0,0,Barcelona,2019-04-20 Barcelona-Real Sociedad,ESP-LALIGA,18-19,dc6a34e3
+335fa267,Sergi Roberto,20,ESP,RM,27-072,1,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,2,0,0,0,Barcelona,2019-04-20 Barcelona-Real Sociedad,ESP-LALIGA,18-19,dc6a34e3
+4601e194,Jordi Alba,18,ESP,LB,30-030,90,1,0,0,0,1,1,0,0,81,1,1,4,0.0,0.0,0.1,2,0,55,68,80.9,6,43,1,0,0,Barcelona,2019-04-20 Barcelona-Real Sociedad,ESP-LALIGA,18-19,dc6a34e3
+4f28a6ff,Clément Lenglet,15,FRA,CB,23-307,90,1,0,0,0,1,1,0,0,65,1,4,0,0.1,0.1,0.0,1,0,49,52,94.2,2,37,0,0,0,Barcelona,2019-04-20 Barcelona-Real Sociedad,ESP-LALIGA,18-19,dc6a34e3
+adfc9123,Gerard Piqué,3,ESP,CB,32-077,90,0,0,0,0,0,0,0,0,63,1,3,1,0.0,0.0,0.0,0,0,45,50,90.0,2,37,0,1,1,Barcelona,2019-04-20 Barcelona-Real Sociedad,ESP-LALIGA,18-19,dc6a34e3
+d04b94db,Nélson Semedo,2,POR,RB,25-155,90,0,0,0,0,0,0,0,0,50,4,1,1,0.0,0.0,0.0,1,0,37,42,88.1,3,37,2,1,1,Barcelona,2019-04-20 Barcelona-Real Sociedad,ESP-LALIGA,18-19,dc6a34e3
+6f51e382,Marc-André ter Stegen,1,GER,GK,26-355,90,0,0,0,0,0,0,0,0,40,0,0,0,0.0,0.0,0.0,0,0,28,36,77.8,0,22,0,0,0,Barcelona,2019-04-20 Barcelona-Real Sociedad,ESP-LALIGA,18-19,dc6a34e3
+d87e2cae,Willian José,12,BRA,FW,27-148,90,0,0,0,0,2,0,0,0,40,0,0,2,0.6,0.6,0.2,3,0,19,29,65.5,4,18,1,5,3,Real Sociedad,2019-04-20 Barcelona-Real Sociedad,ESP-LALIGA,18-19,dc6a34e3
+84399660,Juanmi,7,ESP,LW,25-335,86,1,0,0,0,2,2,0,0,26,2,0,0,0.9,0.9,0.0,2,0,18,20,90.0,2,21,0,0,0,Real Sociedad,2019-04-20 Barcelona-Real Sociedad,ESP-LALIGA,18-19,dc6a34e3
+833fb62e,Sandro Ramírez,24,ESP,LW,23-285,4,0,0,0,0,0,0,0,0,7,1,0,1,0.0,0.0,0.0,0,0,2,6,33.3,0,3,0,0,0,Real Sociedad,2019-04-20 Barcelona-Real Sociedad,ESP-LALIGA,18-19,dc6a34e3
+8c3c640c,Mikel Oyarzabal,10,ESP,RW,21-364,90,0,0,0,0,2,0,0,0,30,0,0,1,0.2,0.2,0.0,3,1,21,25,84.0,0,23,3,1,1,Real Sociedad,2019-04-20 Barcelona-Real Sociedad,ESP-LALIGA,18-19,dc6a34e3
+2306bfde,Rubén Pardo,14,ESP,"LM,DM",26-180,90,0,0,0,0,1,0,0,0,80,0,1,2,0.0,0.0,0.6,3,0,60,74,81.1,6,44,2,0,0,Real Sociedad,2019-04-20 Barcelona-Real Sociedad,ESP-LALIGA,18-19,dc6a34e3
+5c7845f6,Igor Zubeldia,5,ESP,CM,22-021,53,0,0,0,0,0,0,0,0,34,0,1,1,0.0,0.0,0.0,0,0,26,30,86.7,2,21,1,1,1,Real Sociedad,2019-04-20 Barcelona-Real Sociedad,ESP-LALIGA,18-19,dc6a34e3
+7958dc65,Luca Sangalli,23,ESP,"RM,DM",24-069,37,0,0,0,0,2,0,0,0,28,0,1,2,0.1,0.1,0.0,0,0,15,22,68.2,1,18,1,0,0,Real Sociedad,2019-04-20 Barcelona-Real Sociedad,ESP-LALIGA,18-19,dc6a34e3
+d080ed5e,Mikel Merino,8,ESP,"RM,CM,CB",22-302,90,0,1,0,0,0,0,1,0,81,1,0,1,0.0,0.0,0.5,3,1,65,78,83.3,6,48,0,0,0,Real Sociedad,2019-04-20 Barcelona-Real Sociedad,ESP-LALIGA,18-19,dc6a34e3
+228b0d9d,Aihen Muñoz,29,ESP,LB,21-247,90,0,0,0,0,0,0,0,0,69,1,0,0,0.0,0.0,0.0,1,0,48,61,78.7,3,50,4,2,0,Real Sociedad,2019-04-20 Barcelona-Real Sociedad,ESP-LALIGA,18-19,dc6a34e3
+bba30585,Diego Llorente,3,ESP,CB,25-247,86,0,0,0,0,0,0,0,0,61,4,3,4,0.0,0.0,0.0,0,0,41,48,85.4,1,32,0,0,0,Real Sociedad,2019-04-20 Barcelona-Real Sociedad,ESP-LALIGA,18-19,dc6a34e3
+200e89e1,Ander Barrenetxea,34,ESP,AM,17-114,4,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,3,3,100.0,0,3,0,0,0,Real Sociedad,2019-04-20 Barcelona-Real Sociedad,ESP-LALIGA,18-19,dc6a34e3
+f7dc2ae5,Aritz Elustondo,15,ESP,CB,25-023,90,0,0,0,0,0,0,0,0,65,3,3,3,0.0,0.0,0.0,1,0,48,55,87.3,3,38,0,1,1,Real Sociedad,2019-04-20 Barcelona-Real Sociedad,ESP-LALIGA,18-19,dc6a34e3
+5ca20b7a,Joseba Zaldúa,2,ESP,RB,26-300,90,0,0,0,0,0,0,0,0,53,2,1,1,0.0,0.0,0.0,1,0,32,43,74.4,3,29,2,1,0,Real Sociedad,2019-04-20 Barcelona-Real Sociedad,ESP-LALIGA,18-19,dc6a34e3
+625c144a,Gerónimo Rulli,1,ARG,GK,26-335,90,0,0,0,0,0,0,0,0,66,0,1,0,0.0,0.0,0.0,0,0,56,64,87.5,0,36,0,0,0,Real Sociedad,2019-04-20 Barcelona-Real Sociedad,ESP-LALIGA,18-19,dc6a34e3

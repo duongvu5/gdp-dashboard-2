@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+fd771f95,Martin Braithwaite,25,DEN,FW,27-341,75,0,0,0,0,3,2,0,0,16,0,0,1,0.2,0.2,0.1,1,0,5,9,55.6,1,11,1,0,0,Leganés,2019-05-12 Leganés-Espanyol,ESP-LALIGA,18-19,7011948c
+8f898ba8,Guido Carrillo,9,ARG,FW,27-352,15,0,0,0,0,1,1,0,0,3,0,0,0,0.1,0.1,0.0,0,0,1,2,50.0,0,1,0,0,0,Leganés,2019-05-12 Leganés-Espanyol,ESP-LALIGA,18-19,7011948c
+04e17fd5,Youssef En-Nesyri,26,MAR,"FW,RW",21-345,90,0,0,0,0,2,1,1,0,31,0,0,0,0.1,0.1,0.0,1,0,14,20,70.0,0,26,2,1,0,Leganés,2019-05-12 Leganés-Espanyol,ESP-LALIGA,18-19,7011948c
+f2308b33,Jonathan Silva,5,ARG,"LW,LB",24-317,90,0,0,0,0,0,0,0,0,72,1,0,2,0.0,0.0,0.1,4,0,55,68,80.9,9,45,2,0,0,Leganés,2019-05-12 Leganés-Espanyol,ESP-LALIGA,18-19,7011948c
+9ba48d64,Juanfran,2,ESP,"RW,RB",30-243,90,0,0,0,0,1,0,0,0,61,4,0,1,0.1,0.1,0.3,6,0,35,49,71.4,4,37,7,5,2,Leganés,2019-05-12 Leganés-Espanyol,ESP-LALIGA,18-19,7011948c
+b0fce72c,Mikel Vesga,23,ESP,"CM,DM",25-356,90,0,0,0,0,0,0,0,0,47,2,1,1,0.0,0.0,0.0,3,0,32,38,84.2,5,33,0,1,1,Leganés,2019-05-12 Leganés-Espanyol,ESP-LALIGA,18-19,7011948c
+19709006,Óscar Rodríguez Arnaiz,27,ESP,CM,20-318,70,0,0,0,0,1,0,0,0,33,0,0,0,0.0,0.0,0.1,1,0,19,30,63.3,0,23,4,0,0,Leganés,2019-05-12 Leganés-Espanyol,ESP-LALIGA,18-19,7011948c
+46e07328,José Arnaiz,16,ESP,"LW,CM",24-027,20,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,5,6,83.3,1,7,1,1,1,Leganés,2019-05-12 Leganés-Espanyol,ESP-LALIGA,18-19,7011948c
+54073b28,Recio,8,ESP,DM,28-121,80,0,0,0,0,0,0,1,0,50,3,2,1,0.0,0.0,0.0,1,0,39,43,90.7,5,34,1,0,0,Leganés,2019-05-12 Leganés-Espanyol,ESP-LALIGA,18-19,7011948c
+37f96552,Nabil El Zhar,10,MAR,AM,32-258,10,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,1,0,3,5,60.0,1,5,1,0,0,Leganés,2019-05-12 Leganés-Espanyol,ESP-LALIGA,18-19,7011948c
+92d38e6c,Dimitris Siovas,22,GRE,CB,30-238,90,0,0,0,0,2,0,0,0,62,0,1,1,0.2,0.2,0.0,0,0,45,55,81.8,4,38,0,0,0,Leganés,2019-05-12 Leganés-Espanyol,ESP-LALIGA,18-19,7011948c
+0f0aa5b4,Kenneth Omeruo,24,NGA,CB,25-207,90,0,0,0,0,0,0,0,0,53,1,1,1,0.0,0.0,0.0,2,0,36,48,75.0,2,32,1,1,0,Leganés,2019-05-12 Leganés-Espanyol,ESP-LALIGA,18-19,7011948c
+f3112790,Unai Bustinza,3,ESP,CB,27-099,44,0,0,0,0,1,0,2,1,29,0,1,0,0.0,0.0,0.0,0,0,19,25,76.0,0,10,1,0,0,Leganés,2019-05-12 Leganés-Espanyol,ESP-LALIGA,18-19,7011948c
+3061e1ec,Andriy Lunin,29,UKR,GK,20-090,90,0,0,0,0,0,0,0,0,49,0,0,0,0.0,0.0,0.0,0,0,33,43,76.7,0,26,0,0,0,Leganés,2019-05-12 Leganés-Espanyol,ESP-LALIGA,18-19,7011948c
+75645f0e,Borja Iglesias,7,ESP,FW,26-115,89,2,0,1,1,1,1,0,0,27,2,0,0,1.2,0.4,0.1,3,0,12,19,63.2,1,10,0,0,0,Espanyol,2019-05-12 Leganés-Espanyol,ESP-LALIGA,18-19,7011948c
+b39a793e,Facundo Ferreyra,11,ARG,FW,28-059,1,0,0,0,0,0,0,1,0,2,0,0,1,0.0,0.0,0.0,0,0,1,1,100.0,0,2,0,0,0,Espanyol,2019-05-12 Leganés-Espanyol,ESP-LALIGA,18-19,7011948c
+e3fabb0a,Wu Lei,24,CHN,FW,27-174,79,0,0,0,0,5,2,0,0,20,1,1,0,0.7,0.7,0.0,4,1,7,9,77.8,0,12,1,1,0,Espanyol,2019-05-12 Leganés-Espanyol,ESP-LALIGA,18-19,7011948c
+2bee98fd,Sergio García,9,ESP,FW,35-337,11,0,0,0,0,2,1,0,0,10,1,0,0,0.8,0.8,0.0,2,0,3,4,75.0,1,6,2,2,1,Espanyol,2019-05-12 Leganés-Espanyol,ESP-LALIGA,18-19,7011948c
+379652be,Óscar Melendo,14,ESP,"RM,AM",21-262,90,0,0,0,0,1,1,0,0,36,0,0,0,0.0,0.0,0.8,4,0,30,31,96.8,6,26,1,2,1,Espanyol,2019-05-12 Leganés-Espanyol,ESP-LALIGA,18-19,7011948c
+070a3904,Sergi Darder,10,ESP,LM,25-141,90,0,0,0,0,2,0,0,0,58,4,0,0,0.1,0.1,1.1,5,0,35,48,72.9,5,34,4,2,1,Espanyol,2019-05-12 Leganés-Espanyol,ESP-LALIGA,18-19,7011948c
+da27e268,Marc Roca,21,ESP,CM,22-167,90,0,0,0,0,3,0,0,0,77,5,1,1,0.6,0.6,0.0,5,0,53,66,80.3,11,48,0,4,3,Espanyol,2019-05-12 Leganés-Espanyol,ESP-LALIGA,18-19,7011948c
+ad4d0985,Víctor Sánchez,4,ESP,"CM,RM",31-246,90,0,0,0,0,1,0,0,0,72,0,1,2,0.0,0.0,0.0,1,0,55,64,85.9,10,40,0,0,0,Espanyol,2019-05-12 Leganés-Espanyol,ESP-LALIGA,18-19,7011948c
+112521d1,Adrià Pedrosa,28,ESP,LB,20-364,90,0,0,0,0,0,0,0,0,50,1,0,1,0.0,0.0,0.0,0,0,36,43,83.7,2,26,4,1,0,Espanyol,2019-05-12 Leganés-Espanyol,ESP-LALIGA,18-19,7011948c
+555f3a0b,Mario Hermoso,22,ESP,CB,23-328,78,0,0,0,0,1,0,0,0,66,1,1,0,0.0,0.0,0.0,0,0,45,50,90.0,1,29,0,0,0,Espanyol,2019-05-12 Leganés-Espanyol,ESP-LALIGA,18-19,7011948c
+aa0ac32d,Óscar Duarte,6,CRC,CB,29-343,12,0,0,0,0,0,0,0,0,12,0,0,0,0.0,0.0,0.0,0,0,11,12,91.7,0,6,0,0,0,Espanyol,2019-05-12 Leganés-Espanyol,ESP-LALIGA,18-19,7011948c
+a2609621,Naldo,5,BRA,CB,30-260,90,0,0,0,0,0,0,0,0,64,0,2,1,0.0,0.0,0.0,1,0,43,53,81.1,1,36,0,0,0,Espanyol,2019-05-12 Leganés-Espanyol,ESP-LALIGA,18-19,7011948c
+81069528,Roberto Rosales,8,VEN,RB,30-173,90,0,0,0,0,2,1,0,0,78,0,1,2,0.1,0.1,0.1,5,1,59,70,84.3,6,47,4,1,1,Espanyol,2019-05-12 Leganés-Espanyol,ESP-LALIGA,18-19,7011948c
+73683fa9,Diego López,13,ESP,GK,37-190,90,0,0,0,0,0,0,0,0,41,0,0,0,0.0,0.0,0.0,1,0,30,40,75.0,0,18,0,0,0,Espanyol,2019-05-12 Leganés-Espanyol,ESP-LALIGA,18-19,7011948c

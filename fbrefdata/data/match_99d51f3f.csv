@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+129af0db,Álvaro Morata,19,ESP,FW,29-360,60,1,0,0,0,2,1,0,0,23,0,0,0,0.4,0.4,0.0,1,0,12,19,63.2,0,14,1,0,0,Atlético Madrid,2022-10-18 Atlético Madrid-Rayo Vallecano,ESP-LALIGA,22-23,99d51f3f
+dc62b55d,Matheus Cunha,9,BRA,FW,23-144,30,0,0,0,0,3,3,0,0,13,0,0,0,0.2,0.2,0.0,0,0,5,7,71.4,1,11,1,1,1,Atlético Madrid,2022-10-18 Atlético Madrid-Rayo Vallecano,ESP-LALIGA,22-23,99d51f3f
+df69b544,Antoine Griezmann,8,FRA,"FW,CM",31-211,90,0,1,0,0,1,0,0,0,65,4,0,2,0.0,0.0,0.7,8,1,47,54,87.0,1,34,1,3,2,Atlético Madrid,2022-10-18 Atlético Madrid-Rayo Vallecano,ESP-LALIGA,22-23,99d51f3f
+4dbd0916,Thomas Lemar,11,FRA,LM,26-340,39,0,0,0,0,1,0,0,0,34,0,1,0,0.0,0.0,0.0,0,0,22,29,75.9,0,17,3,2,1,Atlético Madrid,2022-10-18 Atlético Madrid-Rayo Vallecano,ESP-LALIGA,22-23,99d51f3f
+de39485a,Yannick Carrasco,21,BEL,"LW,LM",29-044,51,0,0,0,0,0,0,0,0,27,0,1,1,0.0,0.0,0.2,2,0,15,21,71.4,2,15,2,1,1,Atlético Madrid,2022-10-18 Atlético Madrid-Rayo Vallecano,ESP-LALIGA,22-23,99d51f3f
+cce181df,Geoffrey Kondogbia,4,CTA,CM,29-245,90,0,0,0,0,2,0,0,0,78,3,4,0,0.2,0.2,0.0,2,0,61,66,92.4,6,28,1,1,0,Atlético Madrid,2022-10-18 Atlético Madrid-Rayo Vallecano,ESP-LALIGA,22-23,99d51f3f
+5dfc6ad5,Axel Witsel,20,BEL,CM,33-279,60,0,0,0,0,1,0,0,0,44,3,1,0,0.0,0.0,0.0,0,0,38,40,95.0,1,27,0,0,0,Atlético Madrid,2022-10-18 Atlético Madrid-Rayo Vallecano,ESP-LALIGA,22-23,99d51f3f
+01eb744d,Ángel Correa,10,ARG,RW,27-223,30,0,0,0,0,0,0,0,0,13,0,1,0,0.0,0.0,0.0,0,0,7,7,100.0,0,8,1,2,2,Atlético Madrid,2022-10-18 Atlético Madrid-Rayo Vallecano,ESP-LALIGA,22-23,99d51f3f
+162efffd,Rodrigo De Paul,5,ARG,"RM,CM",28-147,75,0,0,0,0,0,0,0,0,68,2,1,2,0.0,0.0,0.0,1,0,42,52,80.8,4,43,2,0,0,Atlético Madrid,2022-10-18 Atlético Madrid-Rayo Vallecano,ESP-LALIGA,22-23,99d51f3f
+c14bc029,Saúl Ñíguez,17,ESP,CM,27-331,15,0,0,0,0,0,0,1,0,8,0,0,0,0.0,0.0,0.0,0,0,5,8,62.5,2,3,0,0,0,Atlético Madrid,2022-10-18 Atlético Madrid-Rayo Vallecano,ESP-LALIGA,22-23,99d51f3f
+c20bdcd7,Reinildo Mandava,23,MOZ,LB,28-270,90,0,0,0,0,1,0,0,0,65,4,2,0,0.0,0.0,0.0,0,0,45,51,88.2,2,35,6,2,0,Atlético Madrid,2022-10-18 Atlético Madrid-Rayo Vallecano,ESP-LALIGA,22-23,99d51f3f
+f0da930c,José María Giménez,2,URU,CB,27-271,90,0,0,0,0,1,0,1,0,61,0,0,1,0.1,0.1,0.0,1,0,50,55,90.9,1,45,0,0,0,Atlético Madrid,2022-10-18 Atlético Madrid-Rayo Vallecano,ESP-LALIGA,22-23,99d51f3f
+f6ac68c1,Stefan Savić,15,MNE,CB,31-283,90,0,0,0,0,0,0,1,0,78,2,3,1,0.0,0.0,0.0,0,0,57,67,85.1,3,49,1,0,0,Atlético Madrid,2022-10-18 Atlético Madrid-Rayo Vallecano,ESP-LALIGA,22-23,99d51f3f
+23610943,Nahuel Molina,16,ARG,RB,24-195,90,0,0,0,0,0,0,0,0,68,3,0,0,0.0,0.0,0.2,5,0,44,58,75.9,5,35,4,3,0,Atlético Madrid,2022-10-18 Atlético Madrid-Rayo Vallecano,ESP-LALIGA,22-23,99d51f3f
+3f034750,Ivo Grbić,1,CRO,GK,26-273,90,0,0,0,0,0,0,0,0,41,0,0,0,0.0,0.0,0.0,0,0,20,38,52.6,0,20,0,0,0,Atlético Madrid,2022-10-18 Atlético Madrid-Rayo Vallecano,ESP-LALIGA,22-23,99d51f3f
+66116290,Radamel Falcao,9,COL,FW,36-250,90,1,0,1,1,3,1,0,0,33,0,0,1,1.3,0.5,0.0,0,0,17,19,89.5,2,21,0,2,0,Rayo Vallecano,2022-10-18 Atlético Madrid-Rayo Vallecano,ESP-LALIGA,22-23,99d51f3f
+90bbd822,Álvaro García,18,ESP,"LW,LM",29-356,79,0,0,0,0,1,0,0,0,40,1,0,1,0.1,0.1,0.2,3,0,21,33,63.6,0,25,2,1,0,Rayo Vallecano,2022-10-18 Atlético Madrid-Rayo Vallecano,ESP-LALIGA,22-23,99d51f3f
+44e8521b,Pablo Muñoz,28,ESP,LM,19-044,11,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,1,2,0,1,0,Rayo Vallecano,2022-10-18 Atlético Madrid-Rayo Vallecano,ESP-LALIGA,22-23,99d51f3f
+49dbab27,Isaac Palazón Camacho,7,ESP,"RW,RM",27-295,87,0,0,0,0,2,1,0,0,56,1,0,1,0.1,0.1,0.2,5,0,31,43,72.1,2,34,3,3,0,Rayo Vallecano,2022-10-18 Atlético Madrid-Rayo Vallecano,ESP-LALIGA,22-23,99d51f3f
+88050721,Unai López,17,ESP,RM,26-353,3,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,1,3,33.3,0,1,0,0,0,Rayo Vallecano,2022-10-18 Atlético Madrid-Rayo Vallecano,ESP-LALIGA,22-23,99d51f3f
+fc8b614b,José Pozo,22,ESP,AM,26-217,45,0,0,0,0,0,0,0,0,23,0,1,0,0.0,0.0,0.0,1,0,10,15,66.7,1,15,0,2,0,Rayo Vallecano,2022-10-18 Atlético Madrid-Rayo Vallecano,ESP-LALIGA,22-23,99d51f3f
+5ae499d0,Santi Comesaña,6,ESP,"CM,AM",26-013,45,0,0,0,0,0,0,0,0,31,0,1,1,0.0,0.0,0.0,1,0,19,25,76.0,2,19,0,1,0,Rayo Vallecano,2022-10-18 Atlético Madrid-Rayo Vallecano,ESP-LALIGA,22-23,99d51f3f
+9a0408b6,Pathé Ciss,21,SEN,"DM,CM",28-216,87,0,0,0,0,3,0,0,0,62,3,3,1,0.3,0.3,0.0,1,0,37,44,84.1,6,29,0,0,0,Rayo Vallecano,2022-10-18 Atlético Madrid-Rayo Vallecano,ESP-LALIGA,22-23,99d51f3f
+a6103274,Randy Nteka,11,ANG,CM,24-316,3,0,0,0,0,1,0,0,0,4,0,0,0,0.0,0.0,0.0,1,1,2,3,66.7,0,2,0,0,0,Rayo Vallecano,2022-10-18 Atlético Madrid-Rayo Vallecano,ESP-LALIGA,22-23,99d51f3f
+592f3158,Óscar Valentín,23,ESP,DM,28-059,60,0,0,0,0,0,0,0,0,38,0,0,1,0.0,0.0,0.0,0,0,32,36,88.9,2,26,0,0,0,Rayo Vallecano,2022-10-18 Atlético Madrid-Rayo Vallecano,ESP-LALIGA,22-23,99d51f3f
+873619c6,Sergio Camello,34,ESP,FW,21-250,30,0,0,0,0,2,0,0,0,16,1,0,0,0.1,0.1,0.4,1,0,9,11,81.8,3,11,3,0,0,Rayo Vallecano,2022-10-18 Atlético Madrid-Rayo Vallecano,ESP-LALIGA,22-23,99d51f3f
+7226539b,Fran Garcia,3,ESP,LB,23-065,90,0,0,0,0,0,0,0,0,70,4,1,0,0.0,0.0,0.1,3,0,50,59,84.7,7,47,5,2,0,Rayo Vallecano,2022-10-18 Atlético Madrid-Rayo Vallecano,ESP-LALIGA,22-23,99d51f3f
+274ab13c,Catena,5,ESP,CB,27-355,90,0,0,0,0,0,0,0,0,86,1,0,1,0.0,0.0,0.0,2,0,59,78,75.6,10,59,3,0,0,Rayo Vallecano,2022-10-18 Atlético Madrid-Rayo Vallecano,ESP-LALIGA,22-23,99d51f3f
+5487adcd,Abdul Mumin,16,GHA,CB,24-134,90,0,0,0,0,0,0,0,0,66,0,1,1,0.0,0.0,0.0,2,0,51,60,85.0,3,48,1,1,0,Rayo Vallecano,2022-10-18 Atlético Madrid-Rayo Vallecano,ESP-LALIGA,22-23,99d51f3f
+cee88597,Iván Balliu,20,ALB,RB,30-290,90,0,0,0,0,1,1,0,0,80,3,0,1,0.0,0.0,0.1,6,0,57,71,80.3,10,46,2,0,0,Rayo Vallecano,2022-10-18 Atlético Madrid-Rayo Vallecano,ESP-LALIGA,22-23,99d51f3f
+fc70e345,Stole Dimitrievski,1,MKD,GK,28-297,90,0,0,0,0,0,0,0,0,24,0,0,1,0.0,0.0,0.0,0,0,19,23,82.6,0,16,0,0,0,Rayo Vallecano,2022-10-18 Atlético Madrid-Rayo Vallecano,ESP-LALIGA,22-23,99d51f3f

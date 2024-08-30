@@ -1,0 +1,29 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+dea698d9,Cristiano Ronaldo,7,POR,FW,33-065,90,1,0,1,1,5,2,1,0,42,0,0,1,1.1,0.3,0.5,4,0,19,28,67.9,3,34,6,3,2,Real Madrid,2018-04-11 Real Madrid-Juventus,UCL,17-18,ef2140d3
+a58bb1e1,Gareth Bale,11,WAL,FW,28-269,45,0,0,0,0,2,1,0,0,22,1,0,0,0.6,0.6,0.0,4,0,13,19,68.4,2,18,0,0,0,Real Madrid,2018-04-11 Real Madrid-Juventus,UCL,17-18,ef2140d3
+45af8a54,Marco Asensio,20,ESP,LW,22-080,45,0,0,0,0,1,0,0,0,40,0,0,0,0.1,0.1,0.0,1,0,34,38,89.5,4,31,4,0,0,Real Madrid,2018-04-11 Real Madrid-Juventus,UCL,17-18,ef2140d3
+a0b4bb3e,Isco,22,ESP,AM,25-355,90,0,0,0,0,4,2,0,0,85,1,0,0,0.6,0.6,0.1,3,0,70,75,93.3,7,70,6,4,4,Real Madrid,2018-04-11 Real Madrid-Juventus,UCL,17-18,ef2140d3
+6ce1f46f,Toni Kroos,8,GER,"DM,LM",28-097,90,0,0,0,0,1,0,0,0,110,3,0,0,0.1,0.1,0.2,6,1,98,108,90.7,15,82,3,0,0,Real Madrid,2018-04-11 Real Madrid-Juventus,UCL,17-18,ef2140d3
+6025fab1,Luka Modrić,10,CRO,"RM,DM",32-214,74,0,0,0,0,0,0,0,0,61,0,0,1,0.0,0.0,0.3,4,0,56,59,94.9,6,55,0,0,0,Real Madrid,2018-04-11 Real Madrid-Juventus,UCL,17-18,ef2140d3
+79c0821a,Mateo Kovačić,23,CRO,DM,23-340,16,0,0,0,0,0,0,0,0,13,0,1,1,0.0,0.0,0.0,0,0,6,9,66.7,0,6,0,0,0,Real Madrid,2018-04-11 Real Madrid-Juventus,UCL,17-18,ef2140d3
+4d224fe8,Casemiro,14,BRA,DM,26-047,45,0,0,0,0,0,0,0,0,26,1,0,2,0.0,0.0,0.0,1,0,20,21,95.2,1,16,0,1,1,Real Madrid,2018-04-11 Real Madrid-Juventus,UCL,17-18,ef2140d3
+fd51b456,Lucas Vázquez,17,ESP,RW,26-284,45,0,0,0,0,0,0,0,0,32,0,0,0,0.0,0.0,0.1,4,1,21,24,87.5,3,23,1,0,0,Real Madrid,2018-04-11 Real Madrid-Juventus,UCL,17-18,ef2140d3
+603116a7,Marcelo,12,BRA,LB,29-334,90,0,0,0,0,1,0,1,0,92,2,3,1,0.0,0.0,0.0,2,0,70,84,83.3,10,71,4,1,1,Real Madrid,2018-04-11 Real Madrid-Juventus,UCL,17-18,ef2140d3
+c2111b45,Jesús Vallejo,3,ESP,CB,21-096,90,0,0,0,0,0,0,0,0,45,0,0,1,0.0,0.0,0.0,0,0,39,40,97.5,1,35,2,0,0,Real Madrid,2018-04-11 Real Madrid-Juventus,UCL,17-18,ef2140d3
+9f8e9423,Raphaël Varane,5,FRA,CB,24-351,90,0,0,0,0,3,0,0,0,80,1,2,1,0.2,0.2,0.0,1,0,55,65,84.6,2,51,0,0,0,Real Madrid,2018-04-11 Real Madrid-Juventus,UCL,17-18,ef2140d3
+4958bfb2,Dani Carvajal,2,ESP,RB,26-090,90,0,0,0,0,0,0,1,0,97,2,3,0,0.0,0.0,0.1,3,0,72,86,83.7,8,68,10,4,3,Real Madrid,2018-04-11 Real Madrid-Juventus,UCL,17-18,ef2140d3
+ecada4fc,Keylor Navas,1,CRC,GK,31-117,90,0,0,0,0,0,0,0,0,27,0,1,0,0.0,0.0,0.0,1,0,17,23,73.9,0,18,0,0,0,Real Madrid,2018-04-11 Real Madrid-Juventus,UCL,17-18,ef2140d3
+8a08491a,Gonzalo Higuaín,9,ARG,FW,30-122,89,0,0,0,0,2,2,0,0,35,0,2,1,0.6,0.6,0.0,2,0,19,27,70.4,3,22,1,3,3,Juventus,2018-04-11 Real Madrid-Juventus,UCL,17-18,ef2140d3
+01b8a2b2,Wojciech Szczęsny,23,POL,GK,27-358,1,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,0,0,0,0,Juventus,2018-04-11 Real Madrid-Juventus,UCL,17-18,ef2140d3
+afa0d4e0,Mario Mandžukić,17,CRO,LW,31-325,90,2,0,0,0,3,3,1,0,40,1,0,0,1.1,1.1,0.1,3,0,20,27,74.1,0,17,0,0,0,Juventus,2018-04-11 Real Madrid-Juventus,UCL,17-18,ef2140d3
+4fa7cb9b,Douglas Costa,11,BRA,RW,27-209,90,0,0,0,0,1,0,1,0,46,1,1,0,0.0,0.0,0.0,4,1,25,36,69.4,9,37,9,8,7,Juventus,2018-04-11 Real Madrid-Juventus,UCL,17-18,ef2140d3
+c0cddebe,Blaise Matuidi,14,FRA,LM,31-002,90,1,0,0,0,2,1,0,0,44,0,2,2,0.9,0.9,0.0,0,0,27,33,81.8,5,19,0,0,0,Juventus,2018-04-11 Real Madrid-Juventus,UCL,17-18,ef2140d3
+ad6df2d5,Miralem Pjanić,5,BIH,CM,28-009,90,0,0,0,0,0,0,1,0,83,0,1,3,0.0,0.0,0.0,3,1,65,75,86.7,9,51,1,2,2,Juventus,2018-04-11 Real Madrid-Juventus,UCL,17-18,ef2140d3
+38ac43d3,Sami Khedira,6,GER,RM,31-007,90,0,1,0,0,2,0,0,0,45,1,0,1,0.1,0.1,0.5,4,2,32,37,86.5,0,28,3,1,0,Juventus,2018-04-11 Real Madrid-Juventus,UCL,17-18,ef2140d3
+0d82903c,Alex Sandro,12,BRA,LB,27-075,90,0,0,0,0,1,0,1,0,57,4,0,0,0.0,0.0,0.0,0,0,42,48,87.5,3,20,4,1,1,Juventus,2018-04-11 Real Madrid-Juventus,UCL,17-18,ef2140d3
+e85fb9b8,Giorgio Chiellini,3,ITA,CB,33-240,90,0,0,0,0,0,0,0,0,56,1,3,0,0.0,0.0,0.0,1,0,33,42,78.6,3,22,0,0,0,Juventus,2018-04-11 Real Madrid-Juventus,UCL,17-18,ef2140d3
+3b15ef2d,Medhi Benatia,4,MAR,CB,30-359,90,0,0,0,0,0,0,1,0,31,0,0,1,0.0,0.0,0.0,0,0,24,27,88.9,0,18,0,0,0,Juventus,2018-04-11 Real Madrid-Juventus,UCL,17-18,ef2140d3
+ae4e2852,Mattia De Sciglio,2,ITA,RB,25-173,16,0,0,0,0,0,0,0,0,18,1,0,2,0.0,0.0,0.0,0,0,13,16,81.3,4,9,0,0,0,Juventus,2018-04-11 Real Madrid-Juventus,UCL,17-18,ef2140d3
+99b1d0e6,Stephan Lichtsteiner,26,SUI,RB,34-085,74,0,1,0,0,0,0,1,0,37,0,0,0,0.0,0.0,0.1,3,2,24,31,77.4,1,16,0,1,0,Juventus,2018-04-11 Real Madrid-Juventus,UCL,17-18,ef2140d3
+e40d028b,Gianluigi Buffon,1,ITA,GK,40-073,89,0,0,0,0,0,0,0,1,36,0,0,0,0.0,0.0,0.0,0,0,18,31,58.1,0,11,0,0,0,Juventus,2018-04-11 Real Madrid-Juventus,UCL,17-18,ef2140d3

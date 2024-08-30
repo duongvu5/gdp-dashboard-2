@@ -1,0 +1,32 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+70d74ece,Karim Benzema,9,FRA,FW,33-004,90,1,0,0,0,7,1,0,0,42,0,0,0,0.3,0.3,0.0,6,0,25,33,75.8,2,19,6,0,0,Real Madrid,2020-12-23 Real Madrid-Granada,ESP-LALIGA,20-21,d98e1eba
+8f5e92a6,Rodrygo,25,BRA,LW,19-349,37,0,0,0,0,1,1,0,0,22,0,0,1,0.0,0.0,0.1,3,0,16,18,88.9,4,16,3,1,1,Real Madrid,2020-12-23 Real Madrid-Granada,ESP-LALIGA,20-21,d98e1eba
+45af8a54,Marco Asensio,11,ESP,LW,24-337,53,0,1,0,0,3,0,0,0,48,3,0,0,0.2,0.2,0.6,4,1,27,39,69.2,1,22,4,2,2,Real Madrid,2020-12-23 Real Madrid-Granada,ESP-LALIGA,20-21,d98e1eba
+fd51b456,Lucas Vázquez,17,ESP,RW,29-175,77,0,0,0,0,1,0,1,0,47,2,0,1,0.0,0.0,0.1,2,0,32,38,84.2,2,30,3,0,0,Real Madrid,2020-12-23 Real Madrid-Granada,ESP-LALIGA,20-21,d98e1eba
+7111d552,Vinicius Júnior,20,BRA,RW,20-164,13,0,0,0,0,0,0,0,0,10,1,0,0,0.0,0.0,0.0,0,0,7,7,100.0,2,5,0,0,0,Real Madrid,2020-12-23 Real Madrid-Granada,ESP-LALIGA,20-21,d98e1eba
+6ce1f46f,Toni Kroos,8,GER,LM,30-354,90,0,0,0,0,2,1,0,0,97,1,0,2,0.0,0.0,0.1,4,0,77,89,86.5,9,48,3,0,0,Real Madrid,2020-12-23 Real Madrid-Granada,ESP-LALIGA,20-21,d98e1eba
+4d224fe8,Casemiro,14,BRA,CM,28-304,90,1,0,0,0,1,1,0,0,73,2,4,4,0.5,0.5,0.0,3,1,50,58,86.2,2,26,0,0,0,Real Madrid,2020-12-23 Real Madrid-Granada,ESP-LALIGA,20-21,d98e1eba
+0959c2a2,Federico Valverde,15,URU,RM,22-154,77,0,0,0,0,1,1,0,0,38,0,0,2,0.3,0.3,0.1,3,0,28,35,80.0,1,21,3,0,0,Real Madrid,2020-12-23 Real Madrid-Granada,ESP-LALIGA,20-21,d98e1eba
+a0b4bb3e,Isco,22,ESP,RM,28-246,13,0,1,0,0,1,0,0,0,14,0,0,1,0.1,0.1,0.1,2,1,10,10,100.0,1,9,0,1,0,Real Madrid,2020-12-23 Real Madrid-Granada,ESP-LALIGA,20-21,d98e1eba
+3cefcaef,Ferland Mendy,23,FRA,LB,25-198,90,0,0,0,0,0,0,0,0,85,1,1,0,0.0,0.0,0.0,5,1,58,70,82.9,2,44,3,2,1,Real Madrid,2020-12-23 Real Madrid-Granada,ESP-LALIGA,20-21,d98e1eba
+08511d65,Sergio Ramos,4,ESP,CB,34-268,90,0,0,0,0,1,0,0,0,86,0,2,2,0.0,0.0,0.0,2,0,69,80,86.3,6,43,1,0,0,Real Madrid,2020-12-23 Real Madrid-Granada,ESP-LALIGA,20-21,d98e1eba
+9f8e9423,Raphaël Varane,5,FRA,CB,27-242,90,0,0,0,0,2,1,0,0,63,2,0,1,0.1,0.1,0.0,1,0,44,53,83.0,1,32,0,0,0,Real Madrid,2020-12-23 Real Madrid-Granada,ESP-LALIGA,20-21,d98e1eba
+4958bfb2,Dani Carvajal,2,ESP,RB,28-347,90,0,0,0,0,3,0,1,0,81,2,0,2,0.1,0.1,0.1,3,0,62,70,88.6,4,32,4,0,0,Real Madrid,2020-12-23 Real Madrid-Granada,ESP-LALIGA,20-21,d98e1eba
+1840e36d,Thibaut Courtois,1,BEL,GK,28-226,90,0,0,0,0,0,0,0,0,42,0,0,0,0.0,0.0,0.0,1,0,34,41,82.9,0,19,0,0,0,Real Madrid,2020-12-23 Real Madrid-Granada,ESP-LALIGA,20-21,d98e1eba
+9d66fbe3,Roberto Soldado,9,ESP,FW,35-210,73,0,0,0,0,0,0,0,0,22,0,0,1,0.0,0.0,0.3,2,0,10,15,66.7,0,13,1,0,0,Granada,2020-12-23 Real Madrid-Granada,ESP-LALIGA,20-21,d98e1eba
+43f71e77,Jorge Molina,23,ESP,"FW,AM",38-245,17,0,0,0,0,1,0,0,0,5,0,0,0,0.1,0.1,0.0,1,0,3,4,75.0,1,4,1,0,0,Granada,2020-12-23 Real Madrid-Granada,ESP-LALIGA,20-21,d98e1eba
+5eebbfdf,Kenedy,24,BRA,LM,24-319,62,0,0,0,0,1,0,0,0,17,0,1,1,0.0,0.0,0.0,0,0,6,13,46.2,0,9,3,0,0,Granada,2020-12-23 Real Madrid-Granada,ESP-LALIGA,20-21,d98e1eba
+eeba07f8,Luis Javier Suárez,7,COL,"FW,LM",23-021,28,0,0,0,0,0,0,0,0,8,1,0,0,0.0,0.0,0.1,1,0,5,6,83.3,1,5,1,1,0,Granada,2020-12-23 Real Madrid-Granada,ESP-LALIGA,20-21,d98e1eba
+19c36442,Luis Milla,5,ESP,"CM,DM",26-077,90,0,0,0,0,0,0,0,0,39,2,1,1,0.0,0.0,0.2,2,0,28,35,80.0,1,19,0,1,1,Granada,2020-12-23 Real Madrid-Granada,ESP-LALIGA,20-21,d98e1eba
+5083a734,Yangel Herrera,21,VEN,"CM,DM",22-344,90,0,0,0,0,1,0,0,0,47,1,1,4,0.0,0.0,0.0,1,0,18,32,56.3,6,23,0,2,1,Granada,2020-12-23 Real Madrid-Granada,ESP-LALIGA,20-21,d98e1eba
+c77a8043,Antonio Puertas,10,ESP,"RM,WB,LW",28-306,90,0,0,0,0,3,1,0,0,48,1,0,3,0.4,0.4,0.0,1,0,20,32,62.5,2,24,3,2,1,Granada,2020-12-23 Real Madrid-Granada,ESP-LALIGA,20-21,d98e1eba
+3d688b46,Yan Brice Eteki,8,CMR,DM,23-119,62,0,0,0,0,0,0,0,0,18,0,1,1,0.0,0.0,0.0,2,0,10,15,66.7,1,9,0,1,1,Granada,2020-12-23 Real Madrid-Granada,ESP-LALIGA,20-21,d98e1eba
+452c3055,Alberto Soro,26,ESP,"CM,WB,RW",21-289,28,0,0,0,0,0,0,0,0,9,0,0,1,0.0,0.0,0.0,0,0,5,6,83.3,1,4,0,0,0,Granada,2020-12-23 Real Madrid-Granada,ESP-LALIGA,20-21,d98e1eba
+8d47bb39,Carlos Neva,15,ESP,"LB,CB",24-194,90,0,0,0,0,2,0,0,0,44,0,1,1,0.1,0.1,0.0,0,0,25,34,73.5,4,16,0,1,1,Granada,2020-12-23 Real Madrid-Granada,ESP-LALIGA,20-21,d98e1eba
+93090f69,Domingos Duarte,22,POR,CB,25-288,90,0,0,0,0,0,0,0,0,42,1,0,4,0.0,0.0,0.0,1,0,25,31,80.6,3,19,0,0,0,Granada,2020-12-23 Real Madrid-Granada,ESP-LALIGA,20-21,d98e1eba
+c2111b45,Jesús Vallejo,20,ESP,CB,23-353,83,0,0,0,0,1,0,0,0,34,0,1,1,0.1,0.1,0.0,0,0,22,28,78.6,2,20,0,0,0,Granada,2020-12-23 Real Madrid-Granada,ESP-LALIGA,20-21,d98e1eba
+ea9b2ef9,Germán Sánchez,6,ESP,CM,34-011,7,0,0,0,0,1,0,0,0,4,1,0,0,0.1,0.1,0.0,0,0,0,2,0.0,0,2,0,0,0,Granada,2020-12-23 Real Madrid-Granada,ESP-LALIGA,20-21,d98e1eba
+45e17712,Dimitri Foulquier,2,FRA,RB,27-275,72,0,0,0,0,0,0,1,0,38,0,1,1,0.0,0.0,0.0,0,0,19,29,65.5,0,17,1,0,0,Granada,2020-12-23 Real Madrid-Granada,ESP-LALIGA,20-21,d98e1eba
+7a538238,Quini,17,ESP,"RB,CB",31-090,18,0,0,0,0,0,0,0,0,11,1,0,2,0.0,0.0,0.0,1,0,7,8,87.5,0,1,0,0,0,Granada,2020-12-23 Real Madrid-Granada,ESP-LALIGA,20-21,d98e1eba
+ea83bfa6,Rui Silva,1,POR,GK,26-320,90,0,0,0,0,0,0,0,0,38,0,0,0,0.0,0.0,0.0,0,0,18,35,51.4,0,17,0,0,0,Granada,2020-12-23 Real Madrid-Granada,ESP-LALIGA,20-21,d98e1eba

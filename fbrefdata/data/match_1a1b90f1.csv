@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+42fd9c7f,Kylian Mbappé,7,FRA,FW,20-356,90,1,2,0,0,6,3,0,0,53,1,0,0,2.1,2.1,0.8,4,3,33,44,75.0,2,35,8,1,1,Paris Saint-Germain,2019-12-11 Paris S-G-Galatasaray,UCL,19-20,1a1b90f1
+43b78598,Mauro Icardi,18,ARG,FW,26-295,67,1,0,0,0,1,1,0,0,18,0,0,0,0.7,0.7,0.0,0,0,9,14,64.3,1,11,0,0,0,Paris Saint-Germain,2019-12-11 Paris S-G-Galatasaray,UCL,19-20,1a1b90f1
+527f063d,Edinson Cavani,9,URU,FW,32-300,23,1,0,1,1,0,0,0,0,9,1,0,0,0.8,0.0,0.0,0,0,4,5,80.0,0,4,0,0,0,Paris Saint-Germain,2019-12-11 Paris S-G-Galatasaray,UCL,19-20,1a1b90f1
+69384e5d,Neymar,10,BRA,AM,27-309,90,1,2,0,0,2,2,0,0,97,3,1,1,0.6,0.6,1.0,10,5,55,78,70.5,17,74,6,8,6,Paris Saint-Germain,2019-12-11 Paris S-G-Galatasaray,UCL,19-20,1a1b90f1
+9744ff80,Pablo Sarabia,19,ESP,AM,27-214,90,1,0,0,0,3,3,0,0,43,2,1,1,0.2,0.2,1.2,3,0,25,32,78.1,3,21,1,0,0,Paris Saint-Germain,2019-12-11 Paris S-G-Galatasaray,UCL,19-20,1a1b90f1
+dff153a4,Leandro Paredes,8,ARG,DM,25-165,90,0,0,0,0,0,0,0,0,118,5,1,1,0.0,0.0,0.0,3,0,100,109,91.7,10,74,0,0,0,Paris Saint-Germain,2019-12-11 Paris S-G-Galatasaray,UCL,19-20,1a1b90f1
+5853ac44,Tanguy Nianzou,35,FRA,DM,17-187,74,0,0,0,0,0,0,0,0,52,3,2,1,0.0,0.0,0.0,1,0,42,44,95.5,2,25,0,0,0,Paris Saint-Germain,2019-12-11 Paris S-G-Galatasaray,UCL,19-20,1a1b90f1
+1467af0d,Marco Verratti,6,ITA,DM,27-036,16,0,0,0,0,0,0,0,0,33,0,0,0,0.0,0.0,0.5,1,0,31,32,96.9,4,20,0,0,0,Paris Saint-Germain,2019-12-11 Paris S-G-Galatasaray,UCL,19-20,1a1b90f1
+433dc9a2,Juan Bernat,14,ESP,LB,26-285,74,0,0,0,0,0,0,0,0,49,2,1,1,0.0,0.0,0.1,1,0,32,36,88.9,1,30,1,5,3,Paris Saint-Germain,2019-12-11 Paris S-G-Galatasaray,UCL,19-20,1a1b90f1
+51dbeea9,Thilo Kehrer,4,GER,RB,23-081,16,0,0,0,0,0,0,0,0,9,0,1,0,0.0,0.0,0.0,1,1,7,8,87.5,1,5,1,0,0,Paris Saint-Germain,2019-12-11 Paris S-G-Galatasaray,UCL,19-20,1a1b90f1
+fc62f087,Abdou Diallo,22,SEN,CB,23-221,90,0,0,0,0,0,0,0,0,70,2,0,1,0.0,0.0,0.0,0,0,64,67,95.5,4,51,0,0,0,Paris Saint-Germain,2019-12-11 Paris S-G-Galatasaray,UCL,19-20,1a1b90f1
+d5f2f82b,Marquinhos,5,BRA,CB,25-211,90,0,0,0,0,0,0,0,0,105,2,1,2,0.0,0.0,0.0,1,1,89,96,92.7,2,69,0,0,0,Paris Saint-Germain,2019-12-11 Paris S-G-Galatasaray,UCL,19-20,1a1b90f1
+41e7ef1c,Layvin Kurzawa,20,FRA,"RB,LB",27-098,90,0,0,0,0,1,0,1,0,78,2,2,0,0.1,0.1,0.0,1,0,63,70,90.0,0,37,2,1,1,Paris Saint-Germain,2019-12-11 Paris S-G-Galatasaray,UCL,19-20,1a1b90f1
+5f0241b2,Sergio Rico,16,ESP,GK,26-101,90,0,0,0,0,0,0,0,0,23,0,0,0,0.0,0.0,0.0,0,0,21,23,91.3,0,14,0,0,0,Paris Saint-Germain,2019-12-11 Paris S-G-Galatasaray,UCL,19-20,1a1b90f1
+0c3f7197,Emre Mor,97,TUR,"FW,RM",22-140,61,0,0,0,0,0,0,0,0,24,0,2,0,0.0,0.0,0.0,1,0,16,19,84.2,2,17,1,3,3,Galatasaray,2019-12-11 Paris S-G-Galatasaray,UCL,19-20,1a1b90f1
+66116290,Radamel Falcao,9,COL,RM,33-304,29,0,0,0,0,0,0,1,0,9,1,0,0,0.0,0.0,0.0,1,0,3,4,75.0,0,8,0,2,2,Galatasaray,2019-12-11 Paris S-G-Galatasaray,UCL,19-20,1a1b90f1
+7bcc0708,Ömer Bayram,19,TUR,LM,28-137,90,0,0,0,0,1,0,0,0,36,2,1,0,0.0,0.0,0.0,3,0,17,25,68.0,4,29,0,3,1,Galatasaray,2019-12-11 Paris S-G-Galatasaray,UCL,19-20,1a1b90f1
+10efd0e1,Jean Seri,6,CIV,CM,28-145,40,0,0,0,0,0,0,0,0,17,1,0,0,0.0,0.0,0.0,1,0,14,17,82.4,1,12,0,0,0,Galatasaray,2019-12-11 Paris S-G-Galatasaray,UCL,19-20,1a1b90f1
+54f2d108,Selçuk İnan,8,TUR,CM,34-304,50,0,0,0,0,0,0,1,0,30,0,2,0,0.0,0.0,0.0,0,0,21,26,80.8,3,15,1,1,1,Galatasaray,2019-12-11 Paris S-G-Galatasaray,UCL,19-20,1a1b90f1
+2b471f99,Mario Lemina,99,GAB,CM,26-101,90,0,0,0,0,2,0,1,0,53,2,2,0,0.1,0.1,0.0,2,0,43,44,97.7,3,35,2,4,2,Galatasaray,2019-12-11 Paris S-G-Galatasaray,UCL,19-20,1a1b90f1
+e204ec12,Younès Belhanda,10,MAR,"FW,RM",29-289,90,0,0,0,0,4,0,1,0,48,1,1,1,0.2,0.2,0.1,3,0,35,38,92.1,3,31,0,2,1,Galatasaray,2019-12-11 Paris S-G-Galatasaray,UCL,19-20,1a1b90f1
+4b6960d2,Yuto Nagatomo,55,JPN,LB,33-090,90,0,0,0,0,0,0,0,0,41,0,0,0,0.0,0.0,0.1,1,0,26,33,78.8,4,25,2,2,2,Galatasaray,2019-12-11 Paris S-G-Galatasaray,UCL,19-20,1a1b90f1
+133faa84,Marcão,45,BRA,CB,23-189,90,0,0,0,0,0,0,0,0,49,0,2,0,0.0,0.0,0.0,0,0,38,42,90.5,3,29,0,0,0,Galatasaray,2019-12-11 Paris S-G-Galatasaray,UCL,19-20,1a1b90f1
+c7526c18,Steven Nzonzi,92,FRA,"CB,DM",30-361,71,0,0,0,0,0,0,1,0,43,1,0,2,0.0,0.0,0.0,0,0,33,39,84.6,0,21,1,0,0,Galatasaray,2019-12-11 Paris S-G-Galatasaray,UCL,19-20,1a1b90f1
+952e0df2,Şener Özbayraklı,2,TUR,DM,29-322,19,0,0,0,0,0,0,0,0,15,0,0,0,0.0,0.0,0.0,0,0,13,15,86.7,0,10,0,0,0,Galatasaray,2019-12-11 Paris S-G-Galatasaray,UCL,19-20,1a1b90f1
+d072a976,Ryan Donk,15,SUR,CB,33-256,90,0,0,0,0,0,0,0,0,39,1,2,0,0.0,0.0,0.0,0,0,26,35,74.3,2,20,1,0,0,Galatasaray,2019-12-11 Paris S-G-Galatasaray,UCL,19-20,1a1b90f1
+e26f559f,Mariano,22,BRA,RB,33-171,90,0,0,0,0,0,0,0,0,73,4,5,0,0.0,0.0,0.0,1,0,48,63,76.2,4,43,2,0,0,Galatasaray,2019-12-11 Paris S-G-Galatasaray,UCL,19-20,1a1b90f1
+a2abe631,Fernando Muslera,1,URU,GK,33-178,90,0,0,0,0,0,0,1,0,42,0,0,0,0.0,0.0,0.0,0,0,21,39,53.8,0,17,0,0,0,Galatasaray,2019-12-11 Paris S-G-Galatasaray,UCL,19-20,1a1b90f1

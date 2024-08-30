@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+04df29a5,Lorenzo Colombo,9,ITA,FW,20-208,45,0,0,0,0,2,0,0,0,16,0,0,1,0.1,0.1,0.0,0,0,4,9,44.4,0,12,0,0,0,Lecce,2022-10-02 Lecce-Cremonese,ITA-SERIA_A,22-23,d2384d3e
+07f8bcc8,Assan Ceesay,77,GAM,FW,28-199,45,0,0,0,0,0,0,0,0,18,2,0,0,0.0,0.0,0.0,0,0,6,10,60.0,0,8,0,1,0,Lecce,2022-10-02 Lecce-Cremonese,ITA-SERIA_A,22-23,d2384d3e
+8a6de8c7,Lameck Banda,22,ZAM,LM,21-246,90,0,0,0,0,1,0,0,0,35,1,0,2,0.0,0.0,0.0,0,0,11,19,57.9,1,29,2,9,3,Lecce,2022-10-02 Lecce-Cremonese,ITA-SERIA_A,22-23,d2384d3e
+a69cc629,Kristoffer Askildsen,7,NOR,CM,21-266,69,0,0,0,0,0,0,1,0,32,1,1,5,0.0,0.0,0.0,1,0,14,21,66.7,1,13,0,0,0,Lecce,2022-10-02 Lecce-Cremonese,ITA-SERIA_A,22-23,d2384d3e
+c69ef855,Alexis Blin,29,FRA,CM,26-016,21,0,0,0,0,0,0,0,0,18,1,0,0,0.0,0.0,0.0,0,0,12,13,92.3,2,9,0,0,0,Lecce,2022-10-02 Lecce-Cremonese,ITA-SERIA_A,22-23,d2384d3e
+f025eade,Joan Gonzàlez,16,ESP,CM,20-243,69,0,0,0,0,0,0,0,0,34,0,0,1,0.0,0.0,0.0,0,0,22,31,71.0,3,26,0,1,0,Lecce,2022-10-02 Lecce-Cremonese,ITA-SERIA_A,22-23,d2384d3e
+79370f8c,Kristijan Bistrović,8,CRO,CM,24-176,21,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.1,1,0,9,10,90.0,2,7,0,0,0,Lecce,2022-10-02 Lecce-Cremonese,ITA-SERIA_A,22-23,d2384d3e
+ac4a4508,Gabriel Strefezza,27,BRA,RM,25-167,83,1,0,1,1,0,0,0,0,44,1,0,1,0.8,0.0,0.0,1,1,21,31,67.7,5,33,0,5,3,Lecce,2022-10-02 Lecce-Cremonese,ITA-SERIA_A,22-23,d2384d3e
+1fca9171,Federico Di Francesco,11,ITA,RM,28-110,7,0,0,0,0,0,0,0,0,9,0,1,0,0.0,0.0,0.0,1,0,1,4,25.0,0,7,0,0,0,Lecce,2022-10-02 Lecce-Cremonese,ITA-SERIA_A,22-23,d2384d3e
+d4456fb3,Morten Hjulmand,42,DEN,DM,23-099,90,0,0,0,0,0,0,0,0,44,0,1,2,0.0,0.0,0.0,1,0,22,32,68.8,2,19,0,0,0,Lecce,2022-10-02 Lecce-Cremonese,ITA-SERIA_A,22-23,d2384d3e
+c74d63ac,Antonino Gallo,25,ITA,LB,22-270,59,0,0,0,0,0,0,0,0,43,0,0,0,0.0,0.0,0.0,0,0,25,35,71.4,7,25,3,2,1,Lecce,2022-10-02 Lecce-Cremonese,ITA-SERIA_A,22-23,d2384d3e
+149c5f5d,Giuseppe Pezzella,97,ITA,LB,24-307,31,0,0,0,0,0,0,1,0,18,2,1,0,0.0,0.0,0.0,1,0,15,16,93.8,3,12,1,0,0,Lecce,2022-10-02 Lecce-Cremonese,ITA-SERIA_A,22-23,d2384d3e
+5a08ee41,Federico Baschirotto,6,ITA,CB,26-012,90,0,0,0,0,1,0,0,0,61,0,0,1,0.1,0.1,0.0,1,0,42,56,75.0,2,43,0,0,0,Lecce,2022-10-02 Lecce-Cremonese,ITA-SERIA_A,22-23,d2384d3e
+2a6cd437,Marin Pongračić,5,CRO,CB,25-021,90,0,0,0,0,0,0,0,0,68,3,0,0,0.0,0.0,0.0,0,0,52,63,82.5,5,39,0,0,0,Lecce,2022-10-02 Lecce-Cremonese,ITA-SERIA_A,22-23,d2384d3e
+822ed0ec,Valentin Gendrey,17,FRA,RB,22-103,90,0,0,0,0,1,0,0,0,67,1,0,1,0.0,0.0,0.0,3,1,38,59,64.4,3,38,3,1,0,Lecce,2022-10-02 Lecce-Cremonese,ITA-SERIA_A,22-23,d2384d3e
+9f5a610b,Wladimiro Falcone,30,ITA,GK,27-173,90,0,0,0,0,0,0,1,0,46,0,0,0,0.0,0.0,0.0,0,0,38,43,88.4,0,24,0,0,0,Lecce,2022-10-02 Lecce-Cremonese,ITA-SERIA_A,22-23,d2384d3e
+b09a3ecc,Daniel Ciofani,9,ITA,FW,37-063,64,1,0,1,1,2,1,0,0,27,0,0,1,0.9,0.1,0.0,3,1,10,17,58.8,1,15,0,1,0,Cremonese,2022-10-02 Lecce-Cremonese,ITA-SERIA_A,22-23,d2384d3e
+dcb38abe,Cyriel Dessers,90,NGA,FW,27-298,26,0,0,0,0,0,0,0,0,2,0,0,1,0.0,0.0,0.1,0,0,0,1,0.0,0,0,0,0,0,Cremonese,2022-10-02 Lecce-Cremonese,ITA-SERIA_A,22-23,d2384d3e
+d125f22f,David Okereke,77,NGA,LW,25-034,73,0,0,0,0,2,1,1,0,25,1,0,1,0.4,0.4,0.0,3,1,8,15,53.3,2,19,3,3,1,Cremonese,2022-10-02 Lecce-Cremonese,ITA-SERIA_A,22-23,d2384d3e
+0154d290,Felix Afena-Gyan,20,GHA,LW,19-256,17,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,7,7,100.0,3,8,1,0,0,Cremonese,2022-10-02 Lecce-Cremonese,ITA-SERIA_A,22-23,d2384d3e
+5e834dce,Luca Zanimacchia,98,ITA,RW,24-075,82,0,0,0,0,2,1,0,0,43,4,1,1,0.1,0.1,0.1,4,0,25,36,69.4,4,25,5,1,1,Cremonese,2022-10-02 Lecce-Cremonese,ITA-SERIA_A,22-23,d2384d3e
+f3a9fa26,Cristian Buonaiuto,10,ITA,RW,29-277,8,0,0,0,0,1,0,0,0,13,2,0,0,0.0,0.0,0.0,0,0,5,10,50.0,0,10,0,1,0,Cremonese,2022-10-02 Lecce-Cremonese,ITA-SERIA_A,22-23,d2384d3e
+f71ad8cb,Charles Pickel,6,COD,AM,25-140,90,0,0,0,0,2,0,0,0,28,3,0,0,0.1,0.1,0.3,3,0,16,21,76.2,1,10,0,0,0,Cremonese,2022-10-02 Lecce-Cremonese,ITA-SERIA_A,22-23,d2384d3e
+ad92526f,Michele Castagnetti,19,ITA,DM,32-279,90,0,0,0,0,1,0,0,0,60,2,2,0,0.1,0.1,0.3,5,0,36,53,67.9,6,22,0,0,0,Cremonese,2022-10-02 Lecce-Cremonese,ITA-SERIA_A,22-23,d2384d3e
+e26fcca3,Santiago Ascacíbar,8,ARG,DM,25-219,64,0,0,0,0,1,0,0,0,37,1,0,0,0.0,0.0,0.0,1,0,25,33,75.8,4,18,0,0,0,Cremonese,2022-10-02 Lecce-Cremonese,ITA-SERIA_A,22-23,d2384d3e
+5cec2c74,Soualiho Meïté,28,FRA,DM,28-199,26,0,0,0,0,1,0,0,0,16,0,0,0,0.1,0.1,0.0,2,0,8,10,80.0,1,10,1,2,0,Cremonese,2022-10-02 Lecce-Cremonese,ITA-SERIA_A,22-23,d2384d3e
+ec52b661,Emanuele Valeri,3,ITA,LB,23-299,73,0,0,0,0,0,0,0,0,47,4,2,0,0.0,0.0,0.0,0,0,19,35,54.3,2,14,2,1,0,Cremonese,2022-10-02 Lecce-Cremonese,ITA-SERIA_A,22-23,d2384d3e
+1b9c7401,Giacomo Quagliata,33,ITA,LB,22-225,17,0,0,0,0,0,0,0,0,13,1,1,0,0.0,0.0,0.0,0,0,7,11,63.6,1,3,0,0,0,Cremonese,2022-10-02 Lecce-Cremonese,ITA-SERIA_A,22-23,d2384d3e
+c8ad0857,Luka Lochoshvili,44,GEO,CB,24-126,90,0,0,0,0,0,0,0,0,45,1,2,2,0.0,0.0,0.0,1,0,25,35,71.4,2,23,1,0,0,Cremonese,2022-10-02 Lecce-Cremonese,ITA-SERIA_A,22-23,d2384d3e
+b3a20f18,Matteo Bianchetti,15,ITA,CB,29-199,90,0,0,0,0,0,0,0,0,49,0,0,0,0.0,0.0,0.0,1,0,27,42,64.3,2,26,0,0,0,Cremonese,2022-10-02 Lecce-Cremonese,ITA-SERIA_A,22-23,d2384d3e
+dd7febd8,Leonardo Sernicola,17,ITA,RB,25-064,90,0,0,0,0,0,0,0,0,37,6,2,0,0.0,0.0,0.0,3,0,12,25,48.0,2,12,3,2,1,Cremonese,2022-10-02 Lecce-Cremonese,ITA-SERIA_A,22-23,d2384d3e
+67f649be,Ionuț Radu,97,ROU,GK,25-127,90,0,0,0,0,0,0,0,0,30,0,0,0,0.0,0.0,0.0,0,0,19,29,65.5,0,16,0,0,0,Cremonese,2022-10-02 Lecce-Cremonese,ITA-SERIA_A,22-23,d2384d3e

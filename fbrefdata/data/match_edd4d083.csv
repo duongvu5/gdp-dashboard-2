@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+70d74ece,Karim Benzema,9,FRA,FW,32-303,90,0,0,0,0,2,2,0,0,53,0,0,0,0.1,0.1,0.0,1,0,37,45,82.2,2,32,3,5,3,Real Madrid,2020-10-17 Real Madrid-Cádiz,ESP-LALIGA,20-21,edd4d083
+7111d552,Vinicius Júnior,20,BRA,"LW,AM",20-097,90,0,0,0,0,4,0,0,0,43,0,0,1,0.6,0.6,0.0,2,0,22,31,71.0,6,27,5,3,2,Real Madrid,2020-10-17 Real Madrid-Cádiz,ESP-LALIGA,20-21,edd4d083
+fd51b456,Lucas Vázquez,17,ESP,RW,29-108,45,0,0,0,0,1,0,0,0,33,1,0,0,0.0,0.0,0.2,2,0,23,29,79.3,2,23,1,0,0,Real Madrid,2020-10-17 Real Madrid-Cádiz,ESP-LALIGA,20-21,edd4d083
+45af8a54,Marco Asensio,11,ESP,"RW,AM",24-270,45,0,0,0,0,0,0,0,0,31,0,0,0,0.0,0.0,0.1,3,0,24,30,80.0,2,23,4,1,1,Real Madrid,2020-10-17 Real Madrid-Cádiz,ESP-LALIGA,20-21,edd4d083
+a0b4bb3e,Isco,22,ESP,LM,28-179,45,0,0,0,0,1,0,0,0,39,0,0,1,0.0,0.0,0.0,2,0,30,36,83.3,8,35,5,5,4,Real Madrid,2020-10-17 Real Madrid-Cádiz,ESP-LALIGA,20-21,edd4d083
+0959c2a2,Federico Valverde,15,URU,"RM,DM",22-087,45,0,0,0,0,0,0,0,0,45,0,0,1,0.0,0.0,0.0,0,0,38,43,88.4,5,33,4,0,0,Real Madrid,2020-10-17 Real Madrid-Cádiz,ESP-LALIGA,20-21,edd4d083
+6ce1f46f,Toni Kroos,8,GER,"CM,LM",30-287,77,0,0,0,0,2,0,0,0,76,2,0,0,0.0,0.0,0.6,6,0,60,71,84.5,10,49,1,2,2,Real Madrid,2020-10-17 Real Madrid-Cádiz,ESP-LALIGA,20-21,edd4d083
+4d8cd038,Luka Jović,18,SRB,"FW,LM",22-299,13,0,0,0,0,2,0,0,0,4,0,0,0,0.1,0.1,0.0,1,0,2,2,100.0,0,1,0,0,0,Real Madrid,2020-10-17 Real Madrid-Cádiz,ESP-LALIGA,20-21,edd4d083
+6025fab1,Luka Modrić,10,CRO,RM,35-038,45,0,0,0,0,1,0,0,0,47,0,0,1,0.0,0.0,0.0,1,0,33,40,82.5,8,32,0,0,0,Real Madrid,2020-10-17 Real Madrid-Cádiz,ESP-LALIGA,20-21,edd4d083
+4d224fe8,Casemiro,14,BRA,"CM,DM",28-237,45,0,0,0,0,0,0,0,0,61,1,2,0,0.0,0.0,0.0,0,0,46,54,85.2,4,45,2,1,1,Real Madrid,2020-10-17 Real Madrid-Cádiz,ESP-LALIGA,20-21,edd4d083
+603116a7,Marcelo,12,BRA,LB,32-158,90,0,0,0,0,0,0,0,0,80,1,1,0,0.0,0.0,0.0,1,0,59,75,78.7,9,37,0,1,0,Real Madrid,2020-10-17 Real Madrid-Cádiz,ESP-LALIGA,20-21,edd4d083
+08511d65,Sergio Ramos,4,ESP,CB,34-201,45,0,0,0,0,0,0,1,0,45,0,0,1,0.0,0.0,0.0,0,0,37,44,84.1,2,34,2,0,0,Real Madrid,2020-10-17 Real Madrid-Cádiz,ESP-LALIGA,20-21,edd4d083
+2784f898,Éder Militão,3,BRA,CB,22-273,45,0,0,0,0,0,0,1,0,50,2,4,2,0.0,0.0,0.0,2,0,40,44,90.9,5,33,3,0,0,Real Madrid,2020-10-17 Real Madrid-Cádiz,ESP-LALIGA,20-21,edd4d083
+9f8e9423,Raphaël Varane,5,FRA,CB,27-175,90,0,0,0,0,1,0,0,0,90,1,5,0,0.1,0.1,0.0,2,0,67,73,91.8,12,60,2,0,0,Real Madrid,2020-10-17 Real Madrid-Cádiz,ESP-LALIGA,20-21,edd4d083
+2946f9a1,Nacho,6,ESP,RB,30-273,90,0,0,0,0,0,0,0,0,56,1,0,0,0.0,0.0,0.0,1,0,43,52,82.7,4,34,2,0,0,Real Madrid,2020-10-17 Real Madrid-Cádiz,ESP-LALIGA,20-21,edd4d083
+1840e36d,Thibaut Courtois,1,BEL,GK,28-159,90,0,0,0,0,0,0,0,0,34,0,0,0,0.0,0.0,0.0,0,0,29,30,96.7,0,14,0,0,0,Real Madrid,2020-10-17 Real Madrid-Cádiz,ESP-LALIGA,20-21,edd4d083
+38699c72,Anthony Lozano,9,HON,FW,27-175,45,1,0,0,0,3,3,0,0,11,0,0,0,0.7,0.7,0.0,0,0,3,6,50.0,0,7,2,0,0,Cádiz,2020-10-17 Real Madrid-Cádiz,ESP-LALIGA,20-21,edd4d083
+04981123,Filip Malbašić,24,SRB,FW,27-334,45,0,0,0,0,0,0,0,0,12,0,0,0,0.0,0.0,0.0,0,0,3,7,42.9,0,6,1,1,0,Cádiz,2020-10-17 Real Madrid-Cádiz,ESP-LALIGA,20-21,edd4d083
+63b0ca6b,Álvaro Negredo,18,ESP,FW,35-058,80,0,1,0,0,4,0,0,0,38,1,2,0,0.5,0.5,0.4,5,1,9,23,39.1,3,6,0,0,0,Cádiz,2020-10-17 Real Madrid-Cádiz,ESP-LALIGA,20-21,edd4d083
+18017beb,Álvaro Giménez,21,ESP,FW,29-151,10,0,0,0,0,0,0,0,0,4,1,0,0,0.0,0.0,0.0,1,0,2,3,66.7,0,2,0,0,0,Cádiz,2020-10-17 Real Madrid-Cádiz,ESP-LALIGA,20-21,edd4d083
+aa677a35,Álex Fernández,8,ESP,LM,28-002,85,0,0,0,0,0,0,0,0,30,0,2,0,0.0,0.0,0.3,5,0,18,27,66.7,2,9,0,0,0,Cádiz,2020-10-17 Real Madrid-Cádiz,ESP-LALIGA,20-21,edd4d083
+2ceb58ab,Jairo Izquierdo,25,ESP,LM,26-361,5,0,0,0,0,1,0,0,0,3,1,1,0,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,0,0,Cádiz,2020-10-17 Real Madrid-Cádiz,ESP-LALIGA,20-21,edd4d083
+53520a67,Jens Jønsson,2,DEN,CM,27-281,85,0,0,0,0,0,0,0,0,18,2,1,2,0.0,0.0,0.0,1,0,5,10,50.0,1,2,0,0,0,Cádiz,2020-10-17 Real Madrid-Cádiz,ESP-LALIGA,20-21,edd4d083
+78c40e94,Augusto Fernández,17,ARG,CM,34-190,5,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,0,0,0,0,Cádiz,2020-10-17 Real Madrid-Cádiz,ESP-LALIGA,20-21,edd4d083
+6f4c734d,José Mari,6,ESP,CM,32-316,75,0,0,0,0,1,0,0,0,38,4,1,1,0.0,0.0,0.3,3,1,19,26,73.1,3,14,0,1,0,Cádiz,2020-10-17 Real Madrid-Cádiz,ESP-LALIGA,20-21,edd4d083
+c46736ab,Jon Ander Garrido,5,ESP,CM,31-008,15,0,0,0,0,0,0,0,0,7,1,1,0,0.0,0.0,0.0,0,0,3,5,60.0,1,1,0,0,0,Cádiz,2020-10-17 Real Madrid-Cádiz,ESP-LALIGA,20-21,edd4d083
+405f267a,Salvi,7,ESP,RM,29-201,90,0,0,0,0,0,0,0,0,30,0,2,0,0.0,0.0,0.1,1,0,10,22,45.5,1,17,2,0,0,Cádiz,2020-10-17 Real Madrid-Cádiz,ESP-LALIGA,20-21,edd4d083
+db001fa9,Alfonso Espino,22,URU,LB,28-286,90,0,0,0,0,0,0,0,0,35,2,1,0,0.0,0.0,0.1,1,0,18,27,66.7,2,10,0,2,1,Cádiz,2020-10-17 Real Madrid-Cádiz,ESP-LALIGA,20-21,edd4d083
+fe05804b,Cala,16,ESP,CB,30-326,90,0,0,0,0,4,1,0,0,20,0,1,2,0.3,0.3,0.1,2,0,5,10,50.0,0,7,0,1,1,Cádiz,2020-10-17 Real Madrid-Cádiz,ESP-LALIGA,20-21,edd4d083
+72a84002,Fali,3,ESP,CB,27-066,90,0,0,0,0,1,0,0,0,19,0,0,1,0.1,0.1,0.1,0,0,5,10,50.0,1,2,0,0,0,Cádiz,2020-10-17 Real Madrid-Cádiz,ESP-LALIGA,20-21,edd4d083
+f2a68b97,Carlos Akapo,15,EQG,RB,27-219,90,0,0,0,0,0,0,0,0,35,2,5,2,0.0,0.0,0.0,1,0,13,19,68.4,0,5,0,0,0,Cádiz,2020-10-17 Real Madrid-Cádiz,ESP-LALIGA,20-21,edd4d083
+6c4776b1,Jeremías Ledesma,1,ARG,GK,27-247,90,0,0,0,0,0,0,0,0,44,0,0,0,0.0,0.0,0.0,0,0,17,41,41.5,0,8,0,0,0,Cádiz,2020-10-17 Real Madrid-Cádiz,ESP-LALIGA,20-21,edd4d083

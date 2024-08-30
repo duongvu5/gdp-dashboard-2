@@ -1,0 +1,27 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+64f69877,Kevin Volland,31,GER,FW,27-050,90,0,0,0,0,5,1,0,0,49,1,1,1,0.3,0.3,0.0,3,0,30,34,88.2,1,31,2,1,0,Bayer Leverkusen,2019-09-18 Leverkusen-Loko Moscow,UCL,19-20,d1dd1dea
+3a233281,Leon Bailey,9,JAM,LW,22-040,45,0,0,0,0,1,0,0,0,28,0,0,0,0.1,0.1,0.1,1,0,18,23,78.3,2,16,0,3,2,Bayer Leverkusen,2019-09-18 Leverkusen-Loko Moscow,UCL,19-20,d1dd1dea
+834d0be5,Lucas Alario,13,ARG,LW,26-345,45,0,0,0,0,1,1,0,0,14,0,0,0,0.1,0.1,0.0,2,0,9,13,69.2,2,8,0,0,0,Bayer Leverkusen,2019-09-18 Leverkusen-Loko Moscow,UCL,19-20,d1dd1dea
+bee0bab1,Karim Bellarabi,38,GER,RW,29-163,90,0,0,0,0,2,1,0,0,76,0,2,2,0.1,0.1,0.7,7,0,40,63,63.5,7,50,8,9,6,Bayer Leverkusen,2019-09-18 Leverkusen-Loko Moscow,UCL,19-20,d1dd1dea
+fed7cb61,Kai Havertz,29,GER,AM,20-099,90,0,0,0,0,4,1,0,0,63,0,0,0,0.8,0.8,0.0,3,0,41,53,77.4,6,38,3,1,0,Bayer Leverkusen,2019-09-18 Leverkusen-Loko Moscow,UCL,19-20,d1dd1dea
+69374ff5,Julian Baumgartlinger,15,AUT,DM,31-259,70,0,0,0,0,1,0,0,0,91,5,0,0,0.0,0.0,0.0,2,0,76,82,92.7,13,54,0,0,0,Bayer Leverkusen,2019-09-18 Leverkusen-Loko Moscow,UCL,19-20,d1dd1dea
+555d5edd,Nadiem Amiri,11,GER,DM,22-326,20,0,0,0,0,2,1,0,0,31,0,0,0,0.2,0.2,0.0,2,0,24,27,88.9,3,20,1,1,0,Bayer Leverkusen,2019-09-18 Leverkusen-Loko Moscow,UCL,19-20,d1dd1dea
+56413b1f,Charles Aránguiz,20,CHI,DM,30-154,90,0,0,0,0,1,0,1,0,129,1,0,1,0.1,0.1,0.2,6,0,105,124,84.7,18,58,1,2,2,Bayer Leverkusen,2019-09-18 Leverkusen-Loko Moscow,UCL,19-20,d1dd1dea
+f9acca3a,Wendell,18,BRA,LB,26-060,90,0,0,0,0,0,0,0,0,104,2,0,0,0.0,0.0,0.0,1,0,90,99,90.9,5,67,1,2,2,Bayer Leverkusen,2019-09-18 Leverkusen-Loko Moscow,UCL,19-20,d1dd1dea
+070ec0b1,Sven Bender,5,GER,CB,30-144,90,0,0,0,0,0,0,0,0,134,1,3,2,0.0,0.0,0.0,1,0,122,129,94.6,7,75,1,0,0,Bayer Leverkusen,2019-09-18 Leverkusen-Loko Moscow,UCL,19-20,d1dd1dea
+bd142efb,Jonathan Tah,4,GER,CB,23-219,90,0,0,0,0,0,0,0,0,122,0,1,0,0.0,0.0,0.1,3,0,108,118,91.5,14,84,5,0,0,Bayer Leverkusen,2019-09-18 Leverkusen-Loko Moscow,UCL,19-20,d1dd1dea
+c50281a0,Lars Bender,8,GER,RB,30-144,90,0,0,0,0,0,0,0,0,102,2,1,2,0.0,0.0,0.2,2,0,84,93,90.3,5,51,3,0,0,Bayer Leverkusen,2019-09-18 Leverkusen-Loko Moscow,UCL,19-20,d1dd1dea
+ad3389d5,Lukáš Hrádecký,1,FIN,GK,29-298,90,0,0,0,0,0,0,0,0,37,0,0,0,0.0,0.0,0.0,0,0,30,37,81.1,0,20,0,0,0,Bayer Leverkusen,2019-09-18 Leverkusen-Loko Moscow,UCL,19-20,d1dd1dea
+cbbfa2e7,Fyodor Smolov,9,RUS,FW,29-221,90,0,0,0,0,1,0,0,0,41,1,2,2,0.1,0.1,0.0,3,0,19,27,70.4,3,29,4,8,5,Lokomotiv Moscow,2019-09-18 Leverkusen-Loko Moscow,UCL,19-20,d1dd1dea
+f0021247,João Mário,23,POR,LW,26-242,89,0,1,0,0,0,0,0,0,46,2,2,3,0.0,0.0,0.5,2,1,21,34,61.8,2,30,1,2,2,Lokomotiv Moscow,2019-09-18 Leverkusen-Loko Moscow,UCL,19-20,d1dd1dea
+8387afe6,Brian Idowu,3,NGA,RW,27-123,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Lokomotiv Moscow,2019-09-18 Leverkusen-Loko Moscow,UCL,19-20,d1dd1dea
+ed87a229,Rifat Zhemaletdinov,17,RUS,RW,22-363,90,0,0,0,0,1,0,0,0,33,2,2,0,0.1,0.1,0.0,0,0,14,21,66.7,1,17,1,3,2,Lokomotiv Moscow,2019-09-18 Leverkusen-Loko Moscow,UCL,19-20,d1dd1dea
+580d52dd,Grzegorz Krychowiak,7,POL,CM,29-232,90,1,0,0,0,4,3,0,0,41,1,1,0,0.6,0.6,0.0,1,0,19,24,79.2,2,29,2,3,3,Lokomotiv Moscow,2019-09-18 Leverkusen-Loko Moscow,UCL,19-20,d1dd1dea
+10fe831e,Murilo Cerqueira,27,BRA,CM,22-175,90,0,0,0,0,0,0,0,0,26,1,4,1,0.0,0.0,0.0,0,0,10,17,58.8,3,13,0,0,0,Lokomotiv Moscow,2019-09-18 Leverkusen-Loko Moscow,UCL,19-20,d1dd1dea
+d7c09951,Dmitri Barinov,6,RUS,CM,23-007,90,1,0,0,0,2,1,1,0,31,0,0,0,0.2,0.2,0.1,3,0,15,23,65.2,0,17,1,1,1,Lokomotiv Moscow,2019-09-18 Leverkusen-Loko Moscow,UCL,19-20,d1dd1dea
+86dd16a8,Maciej Rybus,31,POL,LB,30-030,90,0,0,0,0,0,0,0,0,54,3,2,4,0.0,0.0,0.0,0,0,23,34,67.6,2,15,1,0,0,Lokomotiv Moscow,2019-09-18 Leverkusen-Loko Moscow,UCL,19-20,d1dd1dea
+6ceef869,Vedran Ćorluka,14,CRO,CB,33-225,90,0,0,0,0,0,0,0,0,34,2,2,3,0.0,0.0,0.0,0,0,13,15,86.7,1,10,0,0,0,Lokomotiv Moscow,2019-09-18 Leverkusen-Loko Moscow,UCL,19-20,d1dd1dea
+d5c04323,Benedikt Höwedes,5,GER,CB,31-201,90,0,0,0,0,0,0,0,0,10,0,1,1,0.0,0.0,0.0,0,0,2,5,40.0,0,2,0,0,0,Lokomotiv Moscow,2019-09-18 Leverkusen-Loko Moscow,UCL,19-20,d1dd1dea
+5cb1d026,Vladislav Ignatyev,20,RUS,RB,32-241,90,0,0,0,0,0,0,0,0,50,5,1,1,0.0,0.0,0.0,1,0,25,37,67.6,5,16,1,1,0,Lokomotiv Moscow,2019-09-18 Leverkusen-Loko Moscow,UCL,19-20,d1dd1dea
+a3b0ed18,Guilherme Marinato,1,RUS,GK,33-280,90,0,0,0,0,0,0,0,0,31,0,0,0,0.0,0.0,0.0,0,0,16,28,57.1,0,12,0,0,0,Lokomotiv Moscow,2019-09-18 Leverkusen-Loko Moscow,UCL,19-20,d1dd1dea

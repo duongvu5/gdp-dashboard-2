@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+a45eac1f,Haris Seferović,22,SUI,FW,31-081,77,1,0,0,0,2,2,0,0,37,0,0,0,0.1,0.1,0.0,1,0,18,32,56.3,2,27,4,1,0,Celta Vigo,2023-05-14 Celta Vigo-Valencia,ESP-LALIGA,22-23,0ed472a5
+962e54cb,Gonçalo Paciência,9,POR,FW,28-286,13,0,0,0,0,1,1,0,0,7,0,0,0,0.0,0.0,0.0,0,0,3,5,60.0,1,5,0,1,1,Celta Vigo,2023-05-14 Celta Vigo-Valencia,ESP-LALIGA,22-23,0ed472a5
+7dcf86f6,Iago Aspas,10,ESP,FW,35-286,54,0,0,0,0,0,0,0,0,22,1,0,0,0.0,0.0,0.3,3,0,11,18,61.1,2,9,1,1,0,Celta Vigo,2023-05-14 Celta Vigo-Valencia,ESP-LALIGA,22-23,0ed472a5
+f553b2b3,Jørgen Strand Larsen,18,NOR,FW,23-097,36,0,0,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.0,1,0,3,5,60.0,1,7,1,2,1,Celta Vigo,2023-05-14 Celta Vigo-Valencia,ESP-LALIGA,22-23,0ed472a5
+e9241b40,Luca de la Torre,23,USA,LM,24-356,54,0,0,0,0,2,0,1,0,37,2,0,0,0.2,0.2,0.0,1,0,28,30,93.3,2,24,2,1,1,Celta Vigo,2023-05-14 Celta Vigo-Valencia,ESP-LALIGA,22-23,0ed472a5
+19709006,Óscar Rodríguez Arnaiz,5,ESP,LM,24-320,36,0,0,0,0,2,1,0,0,24,2,2,3,0.1,0.1,0.0,2,1,12,15,80.0,3,13,0,0,0,Celta Vigo,2023-05-14 Celta Vigo-Valencia,ESP-LALIGA,22-23,0ed472a5
+35a6e5c7,Gabriel Veiga,24,ESP,CM,20-352,88,0,0,0,0,0,0,1,0,28,2,1,0,0.0,0.0,0.0,1,0,13,22,59.1,2,24,4,0,0,Celta Vigo,2023-05-14 Celta Vigo-Valencia,ESP-LALIGA,22-23,0ed472a5
+184fe4b2,Williot Swedberg,19,SWE,CM,19-102,2,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,3,0,0,0,Celta Vigo,2023-05-14 Celta Vigo-Valencia,ESP-LALIGA,22-23,0ed472a5
+ed5c5fa3,Fran Beltrán,8,ESP,CM,24-100,90,0,1,0,0,0,0,0,0,66,1,2,1,0.0,0.0,0.1,2,1,48,60,80.0,4,41,0,0,0,Celta Vigo,2023-05-14 Celta Vigo-Valencia,ESP-LALIGA,22-23,0ed472a5
+a8f21b9f,Carles Pérez,7,ESP,RM,25-087,90,0,0,0,0,1,1,0,0,39,1,0,1,0.0,0.0,0.0,3,0,19,25,76.0,3,28,3,11,6,Celta Vigo,2023-05-14 Celta Vigo-Valencia,ESP-LALIGA,22-23,0ed472a5
+5e1028e5,Franco Cervi,11,ARG,LB,28-353,90,0,0,0,0,0,0,0,0,93,4,2,2,0.0,0.0,0.0,2,0,59,80,73.8,7,54,5,5,3,Celta Vigo,2023-05-14 Celta Vigo-Valencia,ESP-LALIGA,22-23,0ed472a5
+be170419,Unai Núñez,4,ESP,CB,26-104,90,0,0,0,0,0,0,0,0,103,1,2,2,0.0,0.0,0.0,0,0,80,91,87.9,7,82,0,0,0,Celta Vigo,2023-05-14 Celta Vigo-Valencia,ESP-LALIGA,22-23,0ed472a5
+34269bdf,Renato Tapia,14,PER,CB,27-290,90,0,0,0,0,1,0,1,0,70,1,5,0,0.1,0.1,0.0,1,0,53,61,86.9,2,58,0,1,1,Celta Vigo,2023-05-14 Celta Vigo-Valencia,ESP-LALIGA,22-23,0ed472a5
+cb574619,Hugo Mallo,2,ESP,RB,31-326,90,0,0,0,0,1,1,0,0,80,3,1,1,0.2,0.2,0.0,1,0,52,69,75.4,8,45,0,1,0,Celta Vigo,2023-05-14 Celta Vigo-Valencia,ESP-LALIGA,22-23,0ed472a5
+cde52ef5,Iván Villar,13,ESP,GK,25-309,90,0,0,0,0,0,0,0,0,32,0,0,0,0.0,0.0,0.0,0,0,21,31,67.7,0,20,0,0,0,Celta Vigo,2023-05-14 Celta Vigo-Valencia,ESP-LALIGA,22-23,0ed472a5
+4c3a6744,Justin Kluivert,9,NED,FW,24-009,77,1,0,0,0,4,1,0,0,16,0,0,0,0.7,0.7,0.0,2,0,3,5,60.0,0,10,1,3,2,Valencia,2023-05-14 Celta Vigo-Valencia,ESP-LALIGA,22-23,0ed472a5
+44330c36,Alberto Marí,46,ESP,FW,21-307,13,1,0,0,0,1,1,0,0,5,0,0,0,0.2,0.2,0.0,0,0,1,1,100.0,0,5,0,1,0,Valencia,2023-05-14 Celta Vigo-Valencia,ESP-LALIGA,22-23,0ed472a5
+2a295d33,Samuel Lino,16,BRA,LW,23-142,60,0,0,0,0,1,1,0,0,26,4,1,0,0.0,0.0,0.3,5,0,13,18,72.2,1,14,3,0,0,Valencia,2023-05-14 Celta Vigo-Valencia,ESP-LALIGA,22-23,0ed472a5
+8e088e04,Toni Lato,3,ESP,LW,25-174,30,0,0,0,0,0,0,0,0,13,0,2,1,0.0,0.0,0.0,0,0,6,10,60.0,0,2,0,0,0,Valencia,2023-05-14 Celta Vigo-Valencia,ESP-LALIGA,22-23,0ed472a5
+c487901c,Diego López,40,ESP,RW,21-001,59,0,1,0,0,2,2,0,0,27,0,0,3,0.2,0.2,0.5,3,1,10,15,66.7,2,10,3,1,1,Valencia,2023-05-14 Celta Vigo-Valencia,ESP-LALIGA,22-23,0ed472a5
+b51b1b9c,Yunus Musah,4,USA,RW,20-166,31,0,0,0,0,0,0,0,0,20,1,1,0,0.0,0.0,0.0,1,1,7,11,63.6,2,12,2,4,0,Valencia,2023-05-14 Celta Vigo-Valencia,ESP-LALIGA,22-23,0ed472a5
+e6697917,Domingos André Ribeiro Almeida,18,POR,AM,22-349,90,0,0,0,0,0,0,1,0,43,3,1,1,0.0,0.0,0.0,3,0,18,32,56.3,3,17,1,2,0,Valencia,2023-05-14 Celta Vigo-Valencia,ESP-LALIGA,22-23,0ed472a5
+3828f130,Javier Guerra,36,ESP,DM,20-133,77,0,0,0,0,2,0,0,0,27,4,3,1,0.1,0.1,0.0,1,0,14,18,77.8,2,14,1,3,3,Valencia,2023-05-14 Celta Vigo-Valencia,ESP-LALIGA,22-23,0ed472a5
+37e103f8,Hugo Duro,19,ESP,DM,23-185,13,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,6,7,85.7,0,3,0,0,0,Valencia,2023-05-14 Celta Vigo-Valencia,ESP-LALIGA,22-23,0ed472a5
+2c56a792,Nicolás González,17,ESP,DM,21-131,68,0,0,0,0,0,0,0,0,38,0,3,1,0.0,0.0,0.0,0,0,20,28,71.4,2,16,0,2,1,Valencia,2023-05-14 Celta Vigo-Valencia,ESP-LALIGA,22-23,0ed472a5
+f4c69aa6,Ilaix Moriba,8,GUI,DM,20-115,22,0,0,0,0,0,0,1,0,15,0,0,1,0.0,0.0,0.0,0,0,7,12,58.3,1,6,1,0,0,Valencia,2023-05-14 Celta Vigo-Valencia,ESP-LALIGA,22-23,0ed472a5
+b05e2dbd,José Luis Gayà,14,ESP,LB,27-354,90,0,0,0,0,1,0,0,0,44,3,0,0,0.0,0.0,0.0,1,0,19,32,59.4,2,17,2,1,0,Valencia,2023-05-14 Celta Vigo-Valencia,ESP-LALIGA,22-23,0ed472a5
+b7ca5c51,Gabriel Paulista,5,BRA,CB,32-169,89,0,0,0,0,1,0,2,1,46,1,4,0,0.0,0.0,0.0,0,0,24,34,70.6,4,9,1,0,0,Valencia,2023-05-14 Celta Vigo-Valencia,ESP-LALIGA,22-23,0ed472a5
+d2110326,Mouctar Diakhaby,12,GUI,CB,26-146,90,0,0,0,0,0,0,1,0,32,0,1,0,0.0,0.0,0.1,1,0,20,25,80.0,3,10,0,0,0,Valencia,2023-05-14 Celta Vigo-Valencia,ESP-LALIGA,22-23,0ed472a5
+45e17712,Dimitri Foulquier,20,FRA,RB,30-052,90,0,1,0,0,0,0,0,0,46,0,4,0,0.0,0.0,0.2,1,1,25,37,67.6,2,21,2,3,2,Valencia,2023-05-14 Celta Vigo-Valencia,ESP-LALIGA,22-23,0ed472a5
+d4b73232,Giorgi Mamardashvili,25,GEO,GK,22-227,90,0,0,0,0,0,0,0,0,24,0,0,0,0.0,0.0,0.0,0,0,9,22,40.9,0,13,0,0,0,Valencia,2023-05-14 Celta Vigo-Valencia,ESP-LALIGA,22-23,0ed472a5

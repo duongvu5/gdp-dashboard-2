@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+942b4f90,Wissam Ben Yedder,9,FRA,FW,28-045,68,1,0,0,0,4,2,0,0,23,0,0,0,0.3,0.3,0.1,3,0,8,14,57.1,1,20,0,1,0,Sevilla,2018-09-26 Sevilla-Real Madrid,ESP-LALIGA,18-19,16bb809b
+b182a240,Quincy Promes,21,NED,FW,26-265,22,0,0,0,0,0,0,0,0,12,1,0,1,0.0,0.0,0.0,0,0,6,9,66.7,0,9,0,0,0,Sevilla,2018-09-26 Sevilla-Real Madrid,ESP-LALIGA,18-19,16bb809b
+3effaa34,André Silva,12,POR,FW,22-324,90,2,0,0,0,4,3,0,0,35,1,1,0,0.6,0.6,0.0,1,0,20,24,83.3,2,22,2,3,1,Sevilla,2018-09-26 Sevilla-Real Madrid,ESP-LALIGA,18-19,16bb809b
+467bae22,Franco Vázquez,22,ARG,CM,29-216,90,0,1,0,0,2,0,1,0,56,3,1,1,0.6,0.6,0.2,3,1,42,48,87.5,7,34,4,1,0,Sevilla,2018-09-26 Sevilla-Real Madrid,ESP-LALIGA,18-19,16bb809b
+fa937f7a,Éver Banega,10,ARG,CM,30-089,89,0,0,0,0,1,0,1,0,66,1,1,0,0.1,0.1,0.2,5,0,49,61,80.3,3,52,1,4,3,Sevilla,2018-09-26 Sevilla-Real Madrid,ESP-LALIGA,18-19,16bb809b
+7c4243d4,Roque Mesa,7,ESP,CM,29-111,1,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,3,3,100.0,0,3,0,0,0,Sevilla,2018-09-26 Sevilla-Real Madrid,ESP-LALIGA,18-19,16bb809b
+9744ff80,Pablo Sarabia,17,ESP,CM,26-138,90,0,0,0,0,1,1,1,0,51,1,0,2,0.0,0.0,0.1,5,2,37,45,82.2,8,38,3,2,2,Sevilla,2018-09-26 Sevilla-Real Madrid,ESP-LALIGA,18-19,16bb809b
+2b15a82a,Guilherme Arana,23,BRA,WB,21-165,84,0,0,0,0,1,0,0,0,35,0,4,2,0.6,0.6,0.0,1,0,25,30,83.3,3,24,2,2,1,Sevilla,2018-09-26 Sevilla-Real Madrid,ESP-LALIGA,18-19,16bb809b
+b2d0ec1b,Nolito,8,ESP,WB,31-346,6,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,4,5,80.0,0,3,1,1,0,Sevilla,2018-09-26 Sevilla-Real Madrid,ESP-LALIGA,18-19,16bb809b
+3f10bd22,Jesús Navas,16,ESP,WB,32-309,90,0,1,0,0,2,1,0,0,54,0,2,1,0.1,0.1,0.5,5,2,34,45,75.6,5,30,5,0,0,Sevilla,2018-09-26 Sevilla-Real Madrid,ESP-LALIGA,18-19,16bb809b
+bc6f5f06,Sergi Gómez,3,ESP,CB,26-182,90,0,0,0,0,1,0,0,0,47,2,1,2,0.2,0.2,0.1,1,0,31,36,86.1,0,23,0,0,0,Sevilla,2018-09-26 Sevilla-Real Madrid,ESP-LALIGA,18-19,16bb809b
+8b8a56ce,Simon Kjær,4,DEN,CB,29-184,90,0,0,0,0,0,0,0,0,34,0,0,2,0.0,0.0,0.0,0,0,18,23,78.3,1,17,0,0,0,Sevilla,2018-09-26 Sevilla-Real Madrid,ESP-LALIGA,18-19,16bb809b
+e1deea75,Daniel Carriço,6,POR,CB,30-053,90,0,0,0,0,0,0,0,0,25,1,2,0,0.0,0.0,0.0,0,0,15,18,83.3,2,10,1,0,0,Sevilla,2018-09-26 Sevilla-Real Madrid,ESP-LALIGA,18-19,16bb809b
+7b456af7,Tomáš Vaclík,1,CZE,GK,29-181,90,0,0,0,0,0,0,0,0,34,0,0,0,0.0,0.0,0.0,0,0,21,30,70.0,0,14,0,0,0,Sevilla,2018-09-26 Sevilla-Real Madrid,ESP-LALIGA,18-19,16bb809b
+70d74ece,Karim Benzema,9,FRA,FW,30-281,58,0,0,0,0,1,0,0,0,28,1,0,1,0.1,0.1,0.0,2,0,21,22,95.5,0,18,0,0,0,Real Madrid,2018-09-26 Sevilla-Real Madrid,ESP-LALIGA,18-19,16bb809b
+5c4dc0ff,Mariano,7,DOM,FW,25-056,32,0,0,0,0,5,0,1,0,13,0,0,0,0.3,0.3,0.0,3,0,6,9,66.7,0,5,0,0,0,Real Madrid,2018-09-26 Sevilla-Real Madrid,ESP-LALIGA,18-19,16bb809b
+45af8a54,Marco Asensio,20,ESP,"LW,RW,LM",22-248,90,0,0,0,0,0,0,0,0,51,1,0,0,0.0,0.0,0.5,2,0,38,47,80.9,5,39,3,1,1,Real Madrid,2018-09-26 Sevilla-Real Madrid,ESP-LALIGA,18-19,16bb809b
+a58bb1e1,Gareth Bale,11,WAL,"RW,LW",29-072,90,0,0,0,0,8,2,1,0,47,1,0,1,0.9,0.9,0.0,5,0,29,34,85.3,3,33,3,2,2,Real Madrid,2018-09-26 Sevilla-Real Madrid,ESP-LALIGA,18-19,16bb809b
+6ce1f46f,Toni Kroos,8,GER,"LM,CM",28-265,90,0,0,0,0,2,0,1,0,87,2,2,1,0.1,0.1,0.2,6,0,75,81,92.6,12,60,3,4,4,Real Madrid,2018-09-26 Sevilla-Real Madrid,ESP-LALIGA,18-19,16bb809b
+4d224fe8,Casemiro,14,BRA,"CM,CB",26-215,90,0,0,0,0,1,0,0,0,68,3,2,3,0.0,0.0,0.0,3,0,50,58,86.2,4,36,0,0,0,Real Madrid,2018-09-26 Sevilla-Real Madrid,ESP-LALIGA,18-19,16bb809b
+6025fab1,Luka Modrić,10,CRO,"RM,CM",33-017,69,0,0,0,0,1,1,1,0,52,1,2,0,0.1,0.1,0.1,6,0,37,46,80.4,5,34,1,2,1,Real Madrid,2018-09-26 Sevilla-Real Madrid,ESP-LALIGA,18-19,16bb809b
+c0617e2b,Dani Ceballos,24,ESP,CM,22-050,21,0,0,0,0,0,0,0,0,23,0,0,0,0.0,0.0,0.0,2,0,21,22,95.5,3,20,2,0,0,Real Madrid,2018-09-26 Sevilla-Real Madrid,ESP-LALIGA,18-19,16bb809b
+603116a7,Marcelo,12,BRA,"LB,LM",30-137,90,0,0,0,0,0,0,0,0,53,0,0,0,0.0,0.0,0.1,4,0,41,53,77.4,3,32,1,1,1,Real Madrid,2018-09-26 Sevilla-Real Madrid,ESP-LALIGA,18-19,16bb809b
+08511d65,Sergio Ramos,4,ESP,CB,32-180,90,0,0,0,0,2,0,0,0,81,0,1,0,0.1,0.1,0.0,1,0,69,74,93.2,11,53,1,0,0,Real Madrid,2018-09-26 Sevilla-Real Madrid,ESP-LALIGA,18-19,16bb809b
+9f8e9423,Raphaël Varane,5,FRA,CB,25-154,90,0,0,0,0,1,0,0,0,71,3,5,2,0.1,0.1,0.2,2,0,45,54,83.3,0,35,0,0,0,Real Madrid,2018-09-26 Sevilla-Real Madrid,ESP-LALIGA,18-19,16bb809b
+2946f9a1,Nacho,6,ESP,RB,28-251,58,0,0,0,0,0,0,0,0,54,1,0,0,0.0,0.0,0.0,2,0,44,48,91.7,1,32,0,0,0,Real Madrid,2018-09-26 Sevilla-Real Madrid,ESP-LALIGA,18-19,16bb809b
+fd51b456,Lucas Vázquez,17,ESP,RM,27-087,32,0,0,0,0,0,0,0,0,20,1,0,0,0.0,0.0,0.1,2,0,12,17,70.6,2,12,2,2,1,Real Madrid,2018-09-26 Sevilla-Real Madrid,ESP-LALIGA,18-19,16bb809b
+1840e36d,Thibaut Courtois,25,BEL,GK,26-138,90,0,0,0,0,0,0,0,0,23,0,1,0,0.0,0.0,0.0,0,0,18,18,100.0,0,8,0,0,0,Real Madrid,2018-09-26 Sevilla-Real Madrid,ESP-LALIGA,18-19,16bb809b

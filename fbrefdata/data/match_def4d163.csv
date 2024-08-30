@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+0630eb63,Nemanja Radonjić,49,SRB,FW,26-202,90,0,0,0,0,2,1,0,0,35,0,0,0,0.1,0.1,0.0,0,0,18,25,72.0,1,27,1,5,3,Torino,2022-09-05 Torino-Lecce,ITA-SERIA_A,22-23,def4d163
+a44d3a3c,Pietro Pellegri,11,ITA,FW,21-172,80,0,0,0,0,2,1,0,0,17,0,0,0,0.1,0.1,0.0,0,0,8,10,80.0,1,13,0,2,1,Torino,2022-09-05 Torino-Lecce,ITA-SERIA_A,22-23,def4d163
+0a447501,Antonio Sanabria,9,PAR,FW,26-185,10,0,0,0,0,1,0,0,0,7,0,1,0,0.1,0.1,0.4,1,0,3,3,100.0,1,5,0,0,0,Torino,2022-09-05 Torino-Lecce,ITA-SERIA_A,22-23,def4d163
+aa8e289e,Nikola Vlašić,16,CRO,AM,24-336,90,1,0,0,0,2,1,0,0,47,1,0,1,0.2,0.2,0.1,4,0,30,39,76.9,6,31,2,1,1,Torino,2022-09-05 Torino-Lecce,ITA-SERIA_A,22-23,def4d163
+a47c6309,Emirhan İlkhan,14,TUR,CM,18-096,63,0,0,0,0,2,0,1,0,40,1,1,1,0.0,0.0,0.0,4,1,26,32,81.3,7,29,2,0,0,Torino,2022-09-05 Torino-Lecce,ITA-SERIA_A,22-23,def4d163
+d023d70f,Karol Linetty,77,POL,CM,27-215,27,0,0,0,0,0,0,0,0,15,0,1,0,0.0,0.0,0.0,0,0,10,13,76.9,1,9,0,0,0,Torino,2022-09-05 Torino-Lecce,ITA-SERIA_A,22-23,def4d163
+c6e8cf1f,Saša Lukić,10,SRB,CM,26-023,90,0,0,0,0,0,0,0,0,69,1,2,2,0.0,0.0,0.1,2,0,52,61,85.2,5,46,3,0,0,Torino,2022-09-05 Torino-Lecce,ITA-SERIA_A,22-23,def4d163
+be2706c0,Mërgim Vojvoda,27,KVX,WB,27-216,90,0,1,0,0,2,1,0,0,62,0,0,0,0.5,0.5,0.2,5,1,47,55,85.5,8,46,4,3,2,Torino,2022-09-05 Torino-Lecce,ITA-SERIA_A,22-23,def4d163
+016ff750,Valentino Lazaro,19,AUT,WB,26-165,80,0,0,0,0,1,0,0,0,70,0,0,2,0.1,0.1,0.2,6,0,48,62,77.4,7,45,3,4,3,Torino,2022-09-05 Torino-Lecce,ITA-SERIA_A,22-23,def4d163
+246d153b,Ola Aina,34,NGA,WB,25-332,10,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.1,1,0,7,7,100.0,0,6,1,3,1,Torino,2022-09-05 Torino-Lecce,ITA-SERIA_A,22-23,def4d163
+7f78ad23,Ricardo Rodríguez,13,SUI,CB,30-011,90,0,0,0,0,0,0,0,0,85,3,0,1,0.0,0.0,0.0,1,0,64,77,83.1,8,65,4,1,1,Torino,2022-09-05 Torino-Lecce,ITA-SERIA_A,22-23,def4d163
+e613313c,Perr Schuurs,3,NED,CB,22-283,63,0,0,0,0,0,0,1,0,46,4,3,0,0.0,0.0,0.0,0,0,25,32,78.1,0,18,1,0,0,Torino,2022-09-05 Torino-Lecce,ITA-SERIA_A,22-23,def4d163
+4ae67f27,Alessandro Buongiorno,4,ITA,CB,23-091,27,0,0,0,0,0,0,0,0,17,1,0,0,0.0,0.0,0.0,0,0,10,13,76.9,0,6,0,0,0,Torino,2022-09-05 Torino-Lecce,ITA-SERIA_A,22-23,def4d163
+933d3b51,Koffi Djidji,26,CIV,CB,29-279,90,0,0,0,0,1,0,0,0,84,3,5,0,0.0,0.0,0.0,1,0,49,62,79.0,2,46,1,0,0,Torino,2022-09-05 Torino-Lecce,ITA-SERIA_A,22-23,def4d163
+9fa26bc2,Vanja Milinković-Savić,32,SRB,GK,25-197,90,0,0,0,0,0,0,0,0,34,0,0,0,0.0,0.0,0.0,0,0,26,32,81.3,0,19,0,0,0,Torino,2022-09-05 Torino-Lecce,ITA-SERIA_A,22-23,def4d163
+07f8bcc8,Assan Ceesay,77,GAM,FW,28-172,64,0,0,0,0,0,0,0,0,33,2,0,0,0.0,0.0,0.0,3,0,14,22,63.6,2,21,2,3,0,Lecce,2022-09-05 Torino-Lecce,ITA-SERIA_A,22-23,def4d163
+04df29a5,Lorenzo Colombo,9,ITA,FW,20-181,26,0,0,0,0,0,0,0,0,8,1,0,0,0.0,0.0,0.0,0,0,4,6,66.7,0,3,0,0,0,Lecce,2022-09-05 Torino-Lecce,ITA-SERIA_A,22-23,def4d163
+8a6de8c7,Lameck Banda,22,ZAM,LM,21-219,64,0,0,0,0,2,1,0,0,34,2,0,2,0.1,0.1,0.0,1,0,11,19,57.9,2,17,3,5,3,Lecce,2022-09-05 Torino-Lecce,ITA-SERIA_A,22-23,def4d163
+a3695ac2,Marcin Listkowski,19,POL,LM,24-207,26,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,1,3,33.3,0,3,0,0,0,Lecce,2022-09-05 Torino-Lecce,ITA-SERIA_A,22-23,def4d163
+79370f8c,Kristijan Bistrović,8,CRO,CM,24-149,73,0,0,0,0,1,0,0,0,23,1,0,0,0.0,0.0,0.1,3,0,12,20,60.0,1,6,1,0,0,Lecce,2022-09-05 Torino-Lecce,ITA-SERIA_A,22-23,def4d163
+1d4e63b6,Pablo Rodríguez,99,ESP,CM,21-032,17,0,0,0,0,0,0,0,0,7,0,0,1,0.0,0.0,0.0,0,0,5,6,83.3,2,5,0,0,0,Lecce,2022-09-05 Torino-Lecce,ITA-SERIA_A,22-23,def4d163
+f025eade,Joan Gonzàlez,16,ESP,CM,20-216,83,0,0,0,0,1,0,0,0,44,5,0,3,0.0,0.0,0.1,3,0,23,29,79.3,2,18,0,2,1,Lecce,2022-09-05 Torino-Lecce,ITA-SERIA_A,22-23,def4d163
+a69cc629,Kristoffer Askildsen,7,NOR,CM,21-239,7,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,3,6,50.0,0,1,0,0,0,Lecce,2022-09-05 Torino-Lecce,ITA-SERIA_A,22-23,def4d163
+1fca9171,Federico Di Francesco,11,ITA,RM,28-083,45,0,0,0,0,0,0,0,0,16,0,0,0,0.0,0.0,0.0,0,0,4,8,50.0,0,8,0,2,0,Lecce,2022-09-05 Torino-Lecce,ITA-SERIA_A,22-23,def4d163
+ea02beaf,Remi Oudin,28,FRA,RM,25-291,45,0,0,0,0,2,0,0,0,25,2,2,1,0.0,0.0,0.0,1,0,9,16,56.3,1,11,0,1,0,Lecce,2022-09-05 Torino-Lecce,ITA-SERIA_A,22-23,def4d163
+d4456fb3,Morten Hjulmand,42,DEN,DM,23-072,90,0,0,0,0,1,0,1,0,33,4,2,0,0.0,0.0,0.0,1,0,16,22,72.7,3,6,0,0,0,Lecce,2022-09-05 Torino-Lecce,ITA-SERIA_A,22-23,def4d163
+c74d63ac,Antonino Gallo,25,ITA,LB,22-243,90,0,0,0,0,0,0,0,0,82,2,3,0,0.0,0.0,0.0,0,0,47,74,63.5,5,38,2,0,0,Lecce,2022-09-05 Torino-Lecce,ITA-SERIA_A,22-23,def4d163
+5a08ee41,Federico Baschirotto,6,ITA,CB,25-350,90,0,0,0,0,0,0,0,0,43,3,4,2,0.0,0.0,0.0,0,0,24,30,80.0,1,11,1,0,0,Lecce,2022-09-05 Torino-Lecce,ITA-SERIA_A,22-23,def4d163
+26c54058,Alessandro Tuia,13,ITA,CB,32-089,90,0,0,0,0,2,1,0,0,51,1,1,1,0.1,0.1,0.0,2,0,34,44,77.3,3,19,0,2,0,Lecce,2022-09-05 Torino-Lecce,ITA-SERIA_A,22-23,def4d163
+822ed0ec,Valentin Gendrey,17,FRA,RB,22-076,90,0,0,0,0,0,0,0,0,35,4,1,1,0.0,0.0,0.0,0,0,22,28,78.6,2,14,1,0,0,Lecce,2022-09-05 Torino-Lecce,ITA-SERIA_A,22-23,def4d163
+9f5a610b,Wladimiro Falcone,30,ITA,GK,27-146,90,0,0,0,0,0,0,0,0,39,0,0,0,0.0,0.0,0.0,0,0,26,37,70.3,0,14,0,0,0,Lecce,2022-09-05 Torino-Lecce,ITA-SERIA_A,22-23,def4d163

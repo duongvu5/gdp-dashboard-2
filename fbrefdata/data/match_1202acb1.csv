@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+0b90bb97,Santi Mina,22,ESP,FW,22-256,66,0,0,0,0,1,0,0,0,19,0,0,2,0.1,0.1,0.0,2,0,7,11,63.6,1,12,1,1,0,Valencia,2018-08-20 Valencia-Atlético Madrid,ESP-LALIGA,18-19,1202acb1
+42276181,Kévin Gameiro,9,FRA,FW,31-103,24,0,0,0,0,1,1,0,0,9,0,0,0,0.1,0.1,0.0,0,0,8,8,100.0,1,5,1,0,0,Valencia,2018-08-20 Valencia-Atlético Madrid,ESP-LALIGA,18-19,1202acb1
+1fb1c435,Rodrigo,19,ESP,"FW,LM",27-167,90,1,0,0,0,3,1,1,0,42,1,1,0,0.4,0.4,0.1,2,0,20,30,66.7,2,17,1,1,0,Valencia,2018-08-20 Valencia-Atlético Madrid,ESP-LALIGA,18-19,1202acb1
+d83bbc54,Daniel Wass,18,DEN,"LM,RM",29-081,90,0,1,0,0,3,1,0,0,50,1,1,1,0.4,0.4,0.4,3,1,27,40,67.5,3,26,2,1,1,Valencia,2018-08-20 Valencia-Atlético Madrid,ESP-LALIGA,18-19,1202acb1
+cce181df,Geoffrey Kondogbia,6,CTA,CM,25-186,90,0,0,0,0,0,0,0,0,85,3,3,1,0.0,0.0,0.0,2,1,65,73,89.0,6,43,1,1,1,Valencia,2018-08-20 Valencia-Atlético Madrid,ESP-LALIGA,18-19,1202acb1
+7460ca0d,Daniel Parejo,10,ESP,CM,29-126,90,0,0,0,0,2,0,0,0,65,3,2,0,0.1,0.1,0.1,4,0,53,57,93.0,10,32,1,1,0,Valencia,2018-08-20 Valencia-Atlético Madrid,ESP-LALIGA,18-19,1202acb1
+fed17f5a,Carlos Soler,8,ESP,RM,21-230,75,0,0,0,0,1,0,0,0,43,4,0,0,0.0,0.0,0.0,1,0,26,33,78.8,6,25,1,4,2,Valencia,2018-08-20 Valencia-Atlético Madrid,ESP-LALIGA,18-19,1202acb1
+2973d8ff,Michy Batshuayi,23,BEL,"FW,RM",24-322,15,0,0,0,0,1,1,0,0,10,0,0,0,0.0,0.0,0.3,1,0,5,7,71.4,0,8,2,1,0,Valencia,2018-08-20 Valencia-Atlético Madrid,ESP-LALIGA,18-19,1202acb1
+b05e2dbd,José Luis Gayà,14,ESP,LB,23-087,90,0,0,0,0,0,0,0,0,74,3,3,1,0.0,0.0,0.1,2,0,50,58,86.2,6,38,1,2,1,Valencia,2018-08-20 Valencia-Atlético Madrid,ESP-LALIGA,18-19,1202acb1
+b7ca5c51,Gabriel Paulista,5,BRA,CB,27-267,90,0,0,0,0,1,0,0,0,77,0,1,1,0.1,0.1,0.0,2,0,55,61,90.2,4,43,1,1,1,Valencia,2018-08-20 Valencia-Atlético Madrid,ESP-LALIGA,18-19,1202acb1
+ac3fb1be,Ezequiel Garay,24,ARG,CB,31-314,66,0,0,0,0,0,0,1,0,65,1,0,0,0.0,0.0,0.0,1,0,54,59,91.5,8,37,4,0,0,Valencia,2018-08-20 Valencia-Atlético Madrid,ESP-LALIGA,18-19,1202acb1
+d2110326,Mouctar Diakhaby,12,GUI,CB,21-244,24,0,0,0,0,0,0,0,0,18,0,1,2,0.0,0.0,0.0,0,0,8,12,66.7,2,6,0,0,0,Valencia,2018-08-20 Valencia-Atlético Madrid,ESP-LALIGA,18-19,1202acb1
+32c0491f,Cristiano Piccini,21,ITA,RB,25-328,90,0,0,0,0,0,0,0,0,72,1,0,0,0.0,0.0,0.0,2,0,50,58,86.2,2,42,2,9,1,Valencia,2018-08-20 Valencia-Atlético Madrid,ESP-LALIGA,18-19,1202acb1
+a9dc785c,Neto,13,BRA,GK,29-032,90,0,0,0,0,0,0,0,0,29,0,0,0,0.0,0.0,0.0,1,0,17,27,63.0,0,10,0,0,0,Valencia,2018-08-20 Valencia-Atlético Madrid,ESP-LALIGA,18-19,1202acb1
+df69b544,Antoine Griezmann,7,FRA,FW,27-152,71,0,1,0,0,0,0,0,0,38,1,1,0,0.0,0.0,0.5,3,1,28,36,77.8,2,22,1,0,0,Atlético Madrid,2018-08-20 Valencia-Atlético Madrid,ESP-LALIGA,18-19,1202acb1
+3ef0fa48,Gelson Martins,18,POR,"RW,RM",23-101,19,0,0,0,0,0,0,0,0,15,0,0,0,0.0,0.0,0.0,0,0,8,11,72.7,0,12,2,5,2,Atlético Madrid,2018-08-20 Valencia-Atlético Madrid,ESP-LALIGA,18-19,1202acb1
+a190d597,Diego Costa,19,ESP,FW,29-317,90,0,0,0,0,2,2,0,0,31,0,0,0,0.1,0.1,0.0,1,0,18,24,75.0,1,22,2,2,2,Atlético Madrid,2018-08-20 Valencia-Atlético Madrid,ESP-LALIGA,18-19,1202acb1
+4dbd0916,Thomas Lemar,11,FRA,LM,22-281,62,0,0,0,0,0,0,0,0,36,4,1,0,0.0,0.0,0.0,1,0,19,26,73.1,2,19,2,3,1,Atlético Madrid,2018-08-20 Valencia-Atlético Madrid,ESP-LALIGA,18-19,1202acb1
+db750822,Vitolo,23,ESP,"LM,LW",28-291,28,0,0,0,0,1,0,0,0,17,2,0,0,0.0,0.0,0.0,0,0,8,11,72.7,1,8,2,2,1,Atlético Madrid,2018-08-20 Valencia-Atlético Madrid,ESP-LALIGA,18-19,1202acb1
+c14bc029,Saúl Ñíguez,8,ESP,"CM,DM",23-272,90,0,0,0,0,3,0,0,0,70,1,1,1,0.1,0.1,0.0,0,0,50,60,83.3,6,33,1,1,1,Atlético Madrid,2018-08-20 Valencia-Atlético Madrid,ESP-LALIGA,18-19,1202acb1
+55126f3b,Koke,6,ESP,"CM,DM",26-224,90,0,0,0,0,0,0,0,0,100,1,1,2,0.0,0.0,0.2,5,1,78,94,83.0,13,45,2,0,0,Atlético Madrid,2018-08-20 Valencia-Atlético Madrid,ESP-LALIGA,18-19,1202acb1
+01eb744d,Ángel Correa,10,ARG,"RM,FW",23-164,80,1,0,0,0,1,1,0,0,41,1,0,0,0.5,0.5,0.1,3,0,27,37,73.0,4,21,2,1,1,Atlético Madrid,2018-08-20 Valencia-Atlético Madrid,ESP-LALIGA,18-19,1202acb1
+529f49ab,Thomas Partey,5,GHA,"AM,FW",25-068,10,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,1,0,6,7,85.7,3,7,1,0,0,Atlético Madrid,2018-08-20 Valencia-Atlético Madrid,ESP-LALIGA,18-19,1202acb1
+e4ed2628,Filipe Luís,3,BRA,LB,33-011,90,0,0,0,0,0,0,1,0,67,7,0,0,0.0,0.0,0.0,0,0,43,57,75.4,4,30,1,3,2,Atlético Madrid,2018-08-20 Valencia-Atlético Madrid,ESP-LALIGA,18-19,1202acb1
+fc4f85b1,Diego Godín,2,URU,CB,32-185,90,0,0,0,0,0,0,0,0,30,6,2,0,0.0,0.0,0.0,0,0,15,19,78.9,1,14,0,1,1,Atlético Madrid,2018-08-20 Valencia-Atlético Madrid,ESP-LALIGA,18-19,1202acb1
+f6ac68c1,Stefan Savić,15,MNE,CB,27-224,90,0,0,0,0,2,0,1,0,50,1,1,0,0.2,0.2,0.0,1,0,30,39,76.9,2,18,0,0,0,Atlético Madrid,2018-08-20 Valencia-Atlético Madrid,ESP-LALIGA,18-19,1202acb1
+cfd8d664,Juanfran,20,ESP,RB,33-223,90,0,0,0,0,0,0,1,0,79,2,1,0,0.0,0.0,0.0,2,0,61,70,87.1,7,37,0,0,0,Atlético Madrid,2018-08-20 Valencia-Atlético Madrid,ESP-LALIGA,18-19,1202acb1
+ee8508c0,Jan Oblak,13,SVN,GK,25-225,90,0,0,0,0,0,0,0,0,28,0,0,0,0.0,0.0,0.0,0,0,10,27,37.0,0,10,0,0,0,Atlético Madrid,2018-08-20 Valencia-Atlético Madrid,ESP-LALIGA,18-19,1202acb1

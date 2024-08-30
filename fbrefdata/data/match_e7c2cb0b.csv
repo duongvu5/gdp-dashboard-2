@@ -1,0 +1,32 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+b19db005,Ousmane Dembélé,11,FRA,"FW,RW,LW",23-325,90,1,0,0,0,6,3,0,0,50,0,0,0,0.6,0.6,0.1,4,0,31,38,81.6,4,44,11,8,6,Barcelona,2021-04-05 Barcelona-Valladolid,ESP-LALIGA,20-21,e7c2cb0b
+df69b544,Antoine Griezmann,7,FRA,"AM,LW",30-015,62,0,0,0,0,2,0,1,0,58,1,0,1,0.3,0.3,0.1,5,0,47,52,90.4,4,42,3,0,0,Barcelona,2021-04-05 Barcelona-Valladolid,ESP-LALIGA,20-21,e7c2cb0b
+77e39b04,Francisco Trincão,17,POR,"LW,RW,RB",21-097,28,0,0,0,0,2,1,0,0,22,0,0,0,0.1,0.1,0.1,3,0,18,18,100.0,4,18,1,0,0,Barcelona,2021-04-05 Barcelona-Valladolid,ESP-LALIGA,20-21,e7c2cb0b
+d70ce98e,Lionel Messi,10,ARG,"AM,FW,RW",33-285,90,0,0,0,0,7,2,0,0,72,0,0,0,0.4,0.4,0.5,10,0,45,55,81.8,10,62,9,5,2,Barcelona,2021-04-05 Barcelona-Valladolid,ESP-LALIGA,20-21,e7c2cb0b
+0d9b2d31,Pedri,16,ESP,"CM,LM",18-131,76,0,0,0,0,1,1,0,0,87,0,1,4,0.0,0.0,0.0,5,0,68,79,86.1,11,67,3,0,0,Barcelona,2021-04-05 Barcelona-Valladolid,ESP-LALIGA,20-21,e7c2cb0b
+f4c69aa6,Ilaix Moriba,27,GUI,"DM,LM",18-076,14,0,0,0,0,1,0,0,0,13,1,0,0,0.0,0.0,0.0,1,0,11,11,100.0,4,10,2,0,0,Barcelona,2021-04-05 Barcelona-Valladolid,ESP-LALIGA,20-21,e7c2cb0b
+5ab0ea87,Sergio Busquets,5,ESP,CM,32-263,63,0,0,0,0,0,0,0,0,75,1,2,1,0.0,0.0,0.0,2,0,65,69,94.2,9,52,0,0,0,Barcelona,2021-04-05 Barcelona-Valladolid,ESP-LALIGA,20-21,e7c2cb0b
+fd771f95,Martin Braithwaite,9,DEN,"FW,CM",29-304,27,0,0,0,0,1,0,1,0,5,0,1,0,0.1,0.1,0.0,2,0,3,3,100.0,1,2,0,0,0,Barcelona,2021-04-05 Barcelona-Valladolid,ESP-LALIGA,20-21,e7c2cb0b
+4601e194,Jordi Alba,18,ESP,"LB,WB",32-015,90,0,0,0,0,1,0,0,0,113,3,0,0,0.0,0.0,0.1,4,0,82,101,81.2,9,80,2,0,0,Barcelona,2021-04-05 Barcelona-Valladolid,ESP-LALIGA,20-21,e7c2cb0b
+5976f83e,Sergiño Dest,2,USA,"WB,RB",20-153,86,0,0,0,0,0,0,0,0,64,1,1,1,0.0,0.0,0.0,2,0,54,58,93.1,3,54,3,2,0,Barcelona,2021-04-05 Barcelona-Valladolid,ESP-LALIGA,20-21,e7c2cb0b
+f090a37a,Riqui Puig,12,ESP,AM,21-235,4,0,0,0,0,1,1,0,0,9,0,0,0,0.0,0.0,0.0,0,0,6,8,75.0,2,9,1,1,1,Barcelona,2021-04-05 Barcelona-Valladolid,ESP-LALIGA,20-21,e7c2cb0b
+4f28a6ff,Clément Lenglet,15,FRA,CB,25-292,90,0,0,0,0,1,1,0,0,71,2,0,0,0.0,0.0,0.0,1,0,50,60,83.3,3,48,1,0,0,Barcelona,2021-04-05 Barcelona-Valladolid,ESP-LALIGA,20-21,e7c2cb0b
+1bacc518,Frenkie de Jong,21,NED,"CB,RM,DM",23-328,90,0,0,0,0,0,0,0,0,104,2,0,1,0.0,0.0,0.1,4,0,93,100,93.0,5,89,4,1,1,Barcelona,2021-04-05 Barcelona-Valladolid,ESP-LALIGA,20-21,e7c2cb0b
+056269d7,Óscar Mingueza,28,ESP,CB,21-327,62,0,0,0,0,1,1,1,0,52,0,1,0,0.1,0.1,0.0,0,0,45,48,93.8,6,36,1,0,0,Barcelona,2021-04-05 Barcelona-Valladolid,ESP-LALIGA,20-21,e7c2cb0b
+2bef2bca,Ronald Araújo,4,URU,CB,22-029,28,0,1,0,0,1,0,0,0,14,0,0,0,0.1,0.1,0.1,1,1,12,13,92.3,2,10,0,0,0,Barcelona,2021-04-05 Barcelona-Valladolid,ESP-LALIGA,20-21,e7c2cb0b
+6f51e382,Marc-André ter Stegen,1,GER,GK,28-340,90,0,0,0,0,0,0,0,0,26,0,0,0,0.0,0.0,0.0,1,0,24,26,92.3,0,18,0,0,0,Barcelona,2021-04-05 Barcelona-Valladolid,ESP-LALIGA,20-21,e7c2cb0b
+e82d2807,Kenan Kodro,3,BIH,FW,27-229,84,0,0,0,0,1,0,0,0,30,0,2,0,0.1,0.1,0.1,2,0,16,19,84.2,0,19,0,3,1,Valladolid,2021-04-05 Barcelona-Valladolid,ESP-LALIGA,20-21,e7c2cb0b
+ccaa5728,Waldo Rubio,23,ESP,CM,25-231,6,0,0,0,0,0,0,0,0,3,1,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,1,0,0,0,Valladolid,2021-04-05 Barcelona-Valladolid,ESP-LALIGA,20-21,e7c2cb0b
+32974271,Sergi Guardiola,7,ESP,FW,29-311,76,0,0,0,0,0,0,1,0,34,0,2,1,0.0,0.0,0.0,0,0,17,26,65.4,4,17,2,1,1,Valladolid,2021-04-05 Barcelona-Valladolid,ESP-LALIGA,20-21,e7c2cb0b
+ae86d473,Marcos André,16,BRA,FW,24-167,14,0,0,0,0,1,1,0,0,3,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,3,0,0,0,Valladolid,2021-04-05 Barcelona-Valladolid,ESP-LALIGA,20-21,e7c2cb0b
+7c388b20,Óscar Plano,10,ESP,CM,30-053,78,0,0,0,0,1,0,0,1,37,2,3,4,0.1,0.1,0.0,0,0,25,25,100.0,4,27,1,1,0,Valladolid,2021-04-05 Barcelona-Valladolid,ESP-LALIGA,20-21,e7c2cb0b
+036bba5f,Rubén Alcaraz,14,ESP,CM,29-339,90,0,0,0,0,1,1,0,0,59,2,0,2,0.0,0.0,0.1,1,0,43,53,81.1,0,37,1,0,0,Valladolid,2021-04-05 Barcelona-Valladolid,ESP-LALIGA,20-21,e7c2cb0b
+7c4243d4,Roque Mesa,17,ESP,CM,31-302,90,0,0,0,0,2,0,0,0,52,2,1,0,0.1,0.1,0.0,2,0,35,43,81.4,9,39,4,5,4,Valladolid,2021-04-05 Barcelona-Valladolid,ESP-LALIGA,20-21,e7c2cb0b
+e29d1111,Nacho,22,ESP,"WB,LB",32-029,90,0,0,0,0,0,0,0,0,50,5,1,0,0.0,0.0,0.1,3,0,31,40,77.5,3,35,2,0,0,Valladolid,2021-04-05 Barcelona-Valladolid,ESP-LALIGA,20-21,e7c2cb0b
+689c9cf4,Saidy Janko,18,GAM,WB,25-165,64,0,0,0,0,0,0,0,0,39,0,1,0,0.0,0.0,0.1,3,0,21,30,70.0,1,16,1,1,0,Valladolid,2021-04-05 Barcelona-Valladolid,ESP-LALIGA,20-21,e7c2cb0b
+ba5a9545,Pablo Hervías,11,ESP,"WB,RB",28-028,26,0,0,0,0,0,0,0,0,15,0,1,1,0.0,0.0,0.0,0,0,8,10,80.0,1,2,1,0,0,Valladolid,2021-04-05 Barcelona-Valladolid,ESP-LALIGA,20-21,e7c2cb0b
+4cee5954,Lucas Olaza,25,URU,CB,26-258,90,0,0,0,0,1,0,0,0,41,1,1,2,0.1,0.1,0.0,2,0,20,33,60.6,2,24,2,3,3,Valladolid,2021-04-05 Barcelona-Valladolid,ESP-LALIGA,20-21,e7c2cb0b
+60359288,Javi Sánchez,5,ESP,CB,24-022,90,0,0,0,0,0,0,0,0,28,4,2,0,0.0,0.0,0.0,0,0,11,16,68.8,1,11,0,0,0,Valladolid,2021-04-05 Barcelona-Valladolid,ESP-LALIGA,20-21,e7c2cb0b
+f11fe861,Bruno González,6,ESP,CB,30-316,90,0,0,0,0,0,0,1,0,27,2,1,2,0.0,0.0,0.0,0,0,12,16,75.0,0,7,0,0,0,Valladolid,2021-04-05 Barcelona-Valladolid,ESP-LALIGA,20-21,e7c2cb0b
+8fae77ea,Jordi Masip,1,ESP,GK,32-092,90,0,0,0,0,0,0,1,0,41,0,1,1,0.0,0.0,0.0,1,0,16,38,42.1,0,28,0,0,0,Valladolid,2021-04-05 Barcelona-Valladolid,ESP-LALIGA,20-21,e7c2cb0b

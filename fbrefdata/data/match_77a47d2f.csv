@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+8f3565b3,Ante Budimir,17,CRO,FW,29-293,90,2,0,0,0,3,2,0,0,28,0,0,0,0.4,0.4,0.1,2,0,16,18,88.9,1,19,2,1,1,Osasuna,2021-05-11 Osasuna-Cádiz,ESP-LALIGA,20-21,77a47d2f
+253a06b9,Ezequiel Ávila,9,ARG,FW,27-094,63,0,0,0,0,3,0,0,0,25,5,0,0,0.2,0.2,0.0,0,0,11,16,68.8,2,10,0,0,0,Osasuna,2021-05-11 Osasuna-Cádiz,ESP-LALIGA,20-21,77a47d2f
+82e9b89d,Enric Gallego,19,ESP,FW,34-241,27,0,0,0,0,2,0,0,0,22,0,0,0,0.2,0.2,0.0,2,1,14,14,100.0,1,8,0,2,1,Osasuna,2021-05-11 Osasuna-Cádiz,ESP-LALIGA,20-21,77a47d2f
+5c96b017,Rubén García,14,ESP,LM,27-301,70,0,0,0,0,0,0,0,0,58,1,0,3,0.0,0.0,0.1,1,0,30,43,69.8,2,31,1,2,1,Osasuna,2021-05-11 Osasuna-Cádiz,ESP-LALIGA,20-21,77a47d2f
+244f57b9,Jony,7,ESP,LM,29-306,20,0,1,0,0,0,0,0,0,19,0,0,0,0.0,0.0,0.1,2,1,9,18,50.0,3,13,2,0,0,Osasuna,2021-05-11 Osasuna-Cádiz,ESP-LALIGA,20-21,77a47d2f
+466824fb,Oier Sanjurjo,6,ESP,CM,34-351,63,0,0,0,0,0,0,0,0,45,0,0,1,0.0,0.0,0.0,0,0,32,41,78.0,6,14,1,0,0,Osasuna,2021-05-11 Osasuna-Cádiz,ESP-LALIGA,20-21,77a47d2f
+d733aa38,Roberto Torres,10,ESP,RM,32-065,27,1,0,1,1,2,0,0,0,26,0,0,1,0.8,0.1,0.1,1,0,20,22,90.9,3,13,1,0,0,Osasuna,2021-05-11 Osasuna-Cádiz,ESP-LALIGA,20-21,77a47d2f
+0e4fef6e,Lucas Torró,24,ESP,CM,26-296,90,0,0,0,0,1,1,0,0,68,1,1,0,0.1,0.1,0.0,0,0,44,57,77.2,8,22,0,1,0,Osasuna,2021-05-11 Osasuna-Cádiz,ESP-LALIGA,20-21,77a47d2f
+3672b352,Javi Martínez,28,ESP,RM,21-140,63,0,0,0,0,1,0,0,0,33,2,0,1,0.4,0.4,0.2,3,0,17,24,70.8,2,16,1,3,2,Osasuna,2021-05-11 Osasuna-Cádiz,ESP-LALIGA,20-21,77a47d2f
+9939e168,Jon Moncayola,27,ESP,CM,22-363,27,0,0,0,0,0,0,0,0,24,0,0,0,0.0,0.0,0.0,3,1,21,24,87.5,1,10,0,0,0,Osasuna,2021-05-11 Osasuna-Cádiz,ESP-LALIGA,20-21,77a47d2f
+ffacd3d5,Manu Sánchez,39,ESP,LB,20-260,87,0,1,0,0,0,0,0,0,76,2,1,0,0.0,0.0,0.4,4,1,52,66,78.8,5,39,4,4,2,Osasuna,2021-05-11 Osasuna-Cádiz,ESP-LALIGA,20-21,77a47d2f
+a56da3ba,Juan Cruz Armada,3,ESP,LB,28-287,3,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.1,1,0,4,4,100.0,0,1,0,0,0,Osasuna,2021-05-11 Osasuna-Cádiz,ESP-LALIGA,20-21,77a47d2f
+3e42f707,David García,5,ESP,CB,27-086,90,0,0,0,0,0,0,1,0,78,1,2,0,0.0,0.0,0.0,0,0,65,70,92.9,8,44,2,0,0,Osasuna,2021-05-11 Osasuna-Cádiz,ESP-LALIGA,20-21,77a47d2f
+4a633cfe,Unai García,4,ESP,CB,29-097,90,0,0,0,0,0,0,0,0,66,1,0,2,0.0,0.0,0.4,2,1,54,60,90.0,4,38,1,0,0,Osasuna,2021-05-11 Osasuna-Cádiz,ESP-LALIGA,20-21,77a47d2f
+3a9c4b7b,Nacho Vidal,2,ESP,RB,26-107,90,0,0,0,0,1,0,1,0,64,5,0,1,0.1,0.1,0.0,3,0,32,46,69.6,6,30,1,1,0,Osasuna,2021-05-11 Osasuna-Cádiz,ESP-LALIGA,20-21,77a47d2f
+8f29e08b,Juan Pérez,25,ESP,GK,24-300,90,0,0,0,0,0,0,0,0,25,0,0,0,0.0,0.0,0.0,0,0,15,22,68.2,0,11,0,0,0,Osasuna,2021-05-11 Osasuna-Cádiz,ESP-LALIGA,20-21,77a47d2f
+19b776e9,Rubén Sobrino,21,ESP,"FW,RM",28-344,76,0,0,0,0,1,0,0,0,30,0,0,2,0.1,0.1,0.2,2,0,13,20,65.0,2,21,1,1,0,Cádiz,2021-05-11 Osasuna-Cádiz,ESP-LALIGA,20-21,77a47d2f
+63b0ca6b,Álvaro Negredo,18,ESP,FW,35-264,14,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,1,1,4,7,57.1,0,4,0,0,0,Cádiz,2021-05-11 Osasuna-Cádiz,ESP-LALIGA,20-21,77a47d2f
+d2aea9ac,Ivan Šaponjić,12,SRB,FW,23-282,68,1,0,1,1,2,1,0,0,25,1,1,0,0.9,0.2,0.0,1,0,6,10,60.0,1,13,0,1,1,Cádiz,2021-05-11 Osasuna-Cádiz,ESP-LALIGA,20-21,77a47d2f
+2ceb58ab,Jairo Izquierdo,25,ESP,"RM,FW",27-201,22,0,0,0,0,0,0,0,0,9,1,1,0,0.0,0.0,0.0,0,0,1,5,20.0,0,6,1,1,0,Cádiz,2021-05-11 Osasuna-Cádiz,ESP-LALIGA,20-21,77a47d2f
+38699c72,Anthony Lozano,9,HON,"RM,FW,LM",28-016,90,0,0,0,0,1,1,0,0,34,1,1,0,0.2,0.2,0.1,5,0,12,25,48.0,3,25,2,4,2,Cádiz,2021-05-11 Osasuna-Cádiz,ESP-LALIGA,20-21,77a47d2f
+c46736ab,Jon Ander Garrido,5,ESP,CM,31-214,76,0,0,0,0,0,0,0,0,28,2,3,0,0.0,0.0,0.0,1,1,14,19,73.7,0,10,0,2,1,Cádiz,2021-05-11 Osasuna-Cádiz,ESP-LALIGA,20-21,77a47d2f
+0a8bcb23,Jorge Pombo,11,ESP,LM,27-078,14,0,0,0,0,0,0,0,0,7,0,1,0,0.0,0.0,0.0,0,0,3,4,75.0,0,4,0,1,1,Cádiz,2021-05-11 Osasuna-Cádiz,ESP-LALIGA,20-21,77a47d2f
+53520a67,Jens Jønsson,2,DEN,CM,28-121,90,0,0,0,0,2,0,0,0,52,3,4,1,0.1,0.1,0.0,3,1,32,37,86.5,0,27,0,1,1,Cádiz,2021-05-11 Osasuna-Cádiz,ESP-LALIGA,20-21,77a47d2f
+c4b888df,Isaac Carcelen,20,ESP,"RB,RM",28-018,90,0,0,0,0,0,0,1,0,56,5,2,0,0.0,0.0,0.2,3,0,28,42,66.7,3,27,2,4,3,Cádiz,2021-05-11 Osasuna-Cádiz,ESP-LALIGA,20-21,77a47d2f
+db001fa9,Alfonso Espino,22,URU,LB,29-126,90,0,0,0,0,0,0,1,0,56,5,2,0,0.0,0.0,0.1,2,0,23,45,51.1,2,32,1,1,1,Cádiz,2021-05-11 Osasuna-Cádiz,ESP-LALIGA,20-21,77a47d2f
+b3b62f94,Marcos Mauro López Gutiérrez,4,ARG,CB,30-122,90,0,0,0,0,1,0,0,0,28,2,2,1,0.2,0.2,0.0,0,0,14,17,82.4,0,12,0,0,0,Cádiz,2021-05-11 Osasuna-Cádiz,ESP-LALIGA,20-21,77a47d2f
+ba71d071,Pedro Alcalá,19,ESP,CB,32-053,90,0,0,0,0,0,0,0,0,35,2,0,3,0.0,0.0,0.0,0,0,15,24,62.5,0,16,0,0,0,Cádiz,2021-05-11 Osasuna-Cádiz,ESP-LALIGA,20-21,77a47d2f
+f2a68b97,Carlos Akapo,15,EQG,RB,28-060,19,0,0,0,0,0,0,0,0,18,0,0,1,0.0,0.0,0.0,0,0,7,17,41.2,0,6,0,0,0,Cádiz,2021-05-11 Osasuna-Cádiz,ESP-LALIGA,20-21,77a47d2f
+5496cc91,Alberto Perea,10,ESP,"LM,CM",30-143,71,1,0,0,0,2,1,0,0,33,2,0,1,0.3,0.3,0.0,2,1,20,23,87.0,2,25,3,2,0,Cádiz,2021-05-11 Osasuna-Cádiz,ESP-LALIGA,20-21,77a47d2f
+fea23125,David Gil,13,ESP,GK,27-120,90,0,0,0,0,0,0,0,0,29,0,0,0,0.0,0.0,0.0,0,0,10,27,37.0,0,16,0,0,0,Cádiz,2021-05-11 Osasuna-Cádiz,ESP-LALIGA,20-21,77a47d2f

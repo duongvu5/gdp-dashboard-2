@@ -1,0 +1,31 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+d70ce98e,Lionel Messi,10,ARG,FW,33-178,90,1,0,0,1,9,3,0,0,96,0,0,0,1.3,0.3,0.4,9,0,60,80,75.0,12,71,8,9,6,Barcelona,2020-12-19 Barcelona-Valencia,ESP-LALIGA,20-21,29e2c236
+fd771f95,Martin Braithwaite,9,DEN,"LM,LW",29-197,90,0,0,0,0,1,1,0,0,43,0,1,0,0.3,0.3,0.0,1,0,34,37,91.9,0,31,4,2,1,Barcelona,2020-12-19 Barcelona-Valencia,ESP-LALIGA,20-21,29e2c236
+0ef89a37,Philippe Coutinho,14,BRA,CM,28-190,78,0,0,0,0,5,1,0,0,84,0,1,1,0.2,0.2,0.2,4,0,67,71,94.4,7,56,5,2,0,Barcelona,2020-12-19 Barcelona-Valencia,ESP-LALIGA,20-21,29e2c236
+4f28a6ff,Clément Lenglet,15,FRA,CB,25-185,12,0,0,0,0,0,0,1,0,7,1,0,0,0.0,0.0,0.0,0,0,4,5,80.0,0,4,0,0,0,Barcelona,2020-12-19 Barcelona-Valencia,ESP-LALIGA,20-21,29e2c236
+0d9b2d31,Pedri,16,ESP,CM,18-024,85,0,0,0,0,1,0,0,0,87,3,2,2,0.0,0.0,0.1,3,0,64,75,85.3,5,65,3,2,2,Barcelona,2020-12-19 Barcelona-Valencia,ESP-LALIGA,20-21,29e2c236
+ad6df2d5,Miralem Pjanić,8,BIH,CM,30-261,5,0,0,0,0,1,0,0,0,8,0,0,0,0.0,0.0,0.0,1,0,4,7,57.1,1,3,1,0,0,Barcelona,2020-12-19 Barcelona-Valencia,ESP-LALIGA,20-21,29e2c236
+df69b544,Antoine Griezmann,7,FRA,RM,29-273,72,0,0,0,0,1,1,1,0,50,1,1,0,0.1,0.1,0.0,5,0,37,44,84.1,8,27,0,0,0,Barcelona,2020-12-19 Barcelona-Valencia,ESP-LALIGA,20-21,29e2c236
+77e39b04,Francisco Trincão,17,POR,"RW,RM",20-356,18,0,0,0,0,1,0,0,0,9,0,0,1,0.0,0.0,0.0,1,0,5,7,71.4,0,5,0,1,1,Barcelona,2020-12-19 Barcelona-Valencia,ESP-LALIGA,20-21,29e2c236
+5ab0ea87,Sergio Busquets,5,ESP,DM,32-156,45,0,0,0,0,0,0,0,0,67,0,0,0,0.0,0.0,0.0,1,0,61,65,93.8,9,47,2,1,1,Barcelona,2020-12-19 Barcelona-Valencia,ESP-LALIGA,20-21,29e2c236
+1bacc518,Frenkie de Jong,21,NED,"DM,CM",23-221,45,0,0,0,0,0,0,0,0,50,0,1,0,0.0,0.0,0.1,7,0,46,48,95.8,6,37,2,4,4,Barcelona,2020-12-19 Barcelona-Valencia,ESP-LALIGA,20-21,29e2c236
+4601e194,Jordi Alba,18,ESP,"LB,LM",31-273,90,0,0,0,0,1,0,1,0,132,0,2,1,0.0,0.0,0.1,6,0,101,122,82.8,7,88,2,4,3,Barcelona,2020-12-19 Barcelona-Valencia,ESP-LALIGA,20-21,29e2c236
+056269d7,Óscar Mingueza,28,ESP,CB,21-220,90,0,0,0,0,2,1,1,0,78,2,0,2,0.2,0.2,0.0,3,0,60,67,89.6,7,51,1,3,3,Barcelona,2020-12-19 Barcelona-Valencia,ESP-LALIGA,20-21,29e2c236
+2bef2bca,Ronald Araújo,4,URU,CB,21-287,90,1,0,0,0,1,1,0,0,57,1,3,3,0.1,0.1,0.0,1,0,40,44,90.9,1,30,0,1,1,Barcelona,2020-12-19 Barcelona-Valencia,ESP-LALIGA,20-21,29e2c236
+5976f83e,Sergiño Dest,2,USA,"RB,RM",20-046,90,0,0,0,0,1,0,0,0,61,3,0,0,0.0,0.0,0.0,2,0,51,53,96.2,2,41,7,2,0,Barcelona,2020-12-19 Barcelona-Valencia,ESP-LALIGA,20-21,29e2c236
+6f51e382,Marc-André ter Stegen,1,GER,GK,28-233,90,0,0,0,0,0,0,0,0,34,0,0,0,0.0,0.0,0.0,0,0,29,33,87.9,0,17,0,0,0,Barcelona,2020-12-19 Barcelona-Valencia,ESP-LALIGA,20-21,29e2c236
+e6bc67d7,Gonçalo Guedes,7,POR,FW,24-020,86,0,0,0,0,2,0,0,0,43,1,0,1,0.1,0.1,0.1,6,1,22,29,75.9,6,27,4,7,4,Valencia,2020-12-19 Barcelona-Valencia,ESP-LALIGA,20-21,29e2c236
+0bc4e720,Manu Vallejo,21,ESP,FW,23-309,4,0,0,0,0,0,0,0,0,4,0,0,1,0.0,0.0,0.0,0,0,1,2,50.0,0,3,0,1,0,Valencia,2020-12-19 Barcelona-Valencia,ESP-LALIGA,20-21,29e2c236
+4c2e9442,Maxi Gómez,22,URU,FW,24-127,90,1,0,0,0,2,2,0,0,33,1,0,3,0.9,0.9,0.0,0,0,12,20,60.0,0,16,0,2,0,Valencia,2020-12-19 Barcelona-Valencia,ESP-LALIGA,20-21,29e2c236
+0ac94a23,Denis Cheryshev,17,RUS,LM,29-359,89,0,0,0,0,2,0,0,0,31,1,1,2,0.1,0.1,0.4,3,0,14,21,66.7,1,12,3,0,0,Valencia,2020-12-19 Barcelona-Valencia,ESP-LALIGA,20-21,29e2c236
+8455ad90,Lee Kang-in,20,KOR,LM,19-304,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,1,0,0,0,Valencia,2020-12-19 Barcelona-Valencia,ESP-LALIGA,20-21,29e2c236
+faed84db,Uroš Račić,19,SRB,CM,22-277,90,0,0,0,0,1,0,0,0,50,2,2,2,0.1,0.1,0.0,1,0,29,36,80.6,5,18,2,1,1,Valencia,2020-12-19 Barcelona-Valencia,ESP-LALIGA,20-21,29e2c236
+fed17f5a,Carlos Soler,8,ESP,CM,23-352,90,0,1,0,0,1,1,0,0,43,2,1,4,0.0,0.0,0.1,3,2,22,27,81.5,2,13,1,0,0,Valencia,2020-12-19 Barcelona-Valencia,ESP-LALIGA,20-21,29e2c236
+b51b1b9c,Yunus Musah,30,USA,RM,18-020,41,0,0,0,0,0,0,0,0,18,0,0,0,0.0,0.0,0.3,0,0,8,10,80.0,1,9,1,0,0,Valencia,2020-12-19 Barcelona-Valencia,ESP-LALIGA,20-21,29e2c236
+c4dce677,Alejandro Blanco,37,ESP,RM,22-003,49,0,0,0,0,0,0,1,0,20,3,1,1,0.0,0.0,0.1,1,0,5,10,50.0,0,10,1,1,1,Valencia,2020-12-19 Barcelona-Valencia,ESP-LALIGA,20-21,29e2c236
+b05e2dbd,José Luis Gayà,14,ESP,LB,25-208,90,0,0,0,0,1,0,1,0,42,3,2,0,0.3,0.3,0.0,1,1,25,30,83.3,5,14,2,1,1,Valencia,2020-12-19 Barcelona-Valencia,ESP-LALIGA,20-21,29e2c236
+d2110326,Mouctar Diakhaby,12,GUI,CB,24-000,90,1,0,0,0,1,1,0,0,24,0,1,2,0.1,0.1,0.0,1,0,11,12,91.7,2,8,0,0,0,Valencia,2020-12-19 Barcelona-Valencia,ESP-LALIGA,20-21,29e2c236
+b7ca5c51,Gabriel Paulista,5,BRA,CB,30-023,90,0,0,0,0,1,0,0,0,38,0,5,2,0.0,0.0,0.0,1,0,21,25,84.0,1,18,0,0,0,Valencia,2020-12-19 Barcelona-Valencia,ESP-LALIGA,20-21,29e2c236
+d83bbc54,Daniel Wass,18,DEN,RB,31-202,90,0,0,0,0,0,0,0,0,56,5,1,2,0.0,0.0,0.0,2,0,26,41,63.4,0,12,0,0,0,Valencia,2020-12-19 Barcelona-Valencia,ESP-LALIGA,20-21,29e2c236
+c9cb972b,Jaume Doménech,1,ESP,GK,30-044,90,0,0,0,0,0,0,0,0,34,0,0,0,0.0,0.0,0.0,0,0,19,28,67.9,0,15,0,0,0,Valencia,2020-12-19 Barcelona-Valencia,ESP-LALIGA,20-21,29e2c236

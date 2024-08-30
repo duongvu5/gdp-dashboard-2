@@ -1,0 +1,28 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+b39a793e,Facundo Ferreyra,19,ARG,FW,26-232,88,1,1,0,0,6,1,0,0,21,1,0,2,1.7,1.7,0.2,3,2,5,9,55.6,2,8,0,0,0,Shakhtar Donetsk,2017-11-01 Shakhtar-Feyenoord,UCL,17-18,aeb0dd2c
+85686f86,Dentinho,9,BRA,FW,28-286,2,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,4,4,100.0,0,3,0,0,0,Shakhtar Donetsk,2017-11-01 Shakhtar-Feyenoord,UCL,17-18,aeb0dd2c
+ab4b3e35,Bernard,10,BRA,LW,25-054,71,0,0,0,0,1,1,0,0,44,0,1,0,0.0,0.0,0.7,5,0,32,39,82.1,3,20,3,1,1,Shakhtar Donetsk,2017-11-01 Shakhtar-Feyenoord,UCL,17-18,aeb0dd2c
+00672021,Alan Patrick,21,BRA,AM,26-172,19,0,0,0,0,1,1,0,0,17,0,1,0,0.0,0.0,0.0,1,0,14,15,93.3,0,10,2,1,1,Shakhtar Donetsk,2017-11-01 Shakhtar-Feyenoord,UCL,17-18,aeb0dd2c
+9139bb12,Marlos,11,UKR,RW,29-147,90,2,0,0,0,4,3,0,0,52,2,0,2,0.3,0.3,0.5,11,1,30,38,78.9,3,31,6,3,2,Shakhtar Donetsk,2017-11-01 Shakhtar-Feyenoord,UCL,17-18,aeb0dd2c
+7272a72a,Taison,7,BRA,"AM,LW",29-292,90,0,0,0,0,2,1,0,0,48,1,0,1,0.4,0.4,0.0,6,0,37,41,90.2,5,34,7,2,1,Shakhtar Donetsk,2017-11-01 Shakhtar-Feyenoord,UCL,17-18,aeb0dd2c
+ee3519f5,Taras Stepanenko,6,UKR,DM,28-085,90,0,0,0,0,0,0,0,0,68,4,1,1,0.0,0.0,0.0,0,0,52,61,85.2,4,33,0,0,0,Shakhtar Donetsk,2017-11-01 Shakhtar-Feyenoord,UCL,17-18,aeb0dd2c
+b853e0ad,Fred,8,BRA,DM,24-241,90,0,0,0,0,3,0,0,0,73,3,0,3,0.1,0.1,0.4,3,0,53,60,88.3,6,43,3,1,1,Shakhtar Donetsk,2017-11-01 Shakhtar-Feyenoord,UCL,17-18,aeb0dd2c
+cf182add,Ismaily,31,BRA,LB,27-294,90,0,0,0,0,1,0,0,0,63,1,2,2,0.0,0.0,0.2,3,0,39,51,76.5,0,38,8,0,0,Shakhtar Donetsk,2017-11-01 Shakhtar-Feyenoord,UCL,17-18,aeb0dd2c
+86c75897,Ivan Ordets,18,UKR,CB,25-116,90,0,0,0,0,2,0,0,0,64,2,2,0,0.3,0.3,0.6,2,0,47,51,92.2,3,37,0,0,0,Shakhtar Donetsk,2017-11-01 Shakhtar-Feyenoord,UCL,17-18,aeb0dd2c
+862fa9fb,Davit Khocholava,5,GEO,CB,24-266,90,0,0,0,0,1,0,1,0,59,0,1,0,0.1,0.1,0.0,0,0,48,54,88.9,5,36,0,0,0,Shakhtar Donetsk,2017-11-01 Shakhtar-Feyenoord,UCL,17-18,aeb0dd2c
+8a7a5ad7,Bohdan Butko,2,UKR,RB,26-292,90,0,0,0,0,0,0,0,0,60,0,0,1,0.0,0.0,0.0,4,0,41,53,77.4,5,36,3,1,0,Shakhtar Donetsk,2017-11-01 Shakhtar-Feyenoord,UCL,17-18,aeb0dd2c
+34c3b935,Andriy Pyatov,30,UKR,GK,33-126,90,0,0,0,0,0,0,0,0,55,0,0,0,0.0,0.0,0.0,0,0,41,52,78.8,0,34,0,0,0,Shakhtar Donetsk,2017-11-01 Shakhtar-Feyenoord,UCL,17-18,aeb0dd2c
+dff19848,Nicolai Jørgensen,9,DEN,FW,26-290,79,1,0,0,0,3,2,0,0,29,0,0,0,0.4,0.4,0.0,3,1,18,21,85.7,3,23,3,3,3,Feyenoord,2017-11-01 Shakhtar-Feyenoord,UCL,17-18,aeb0dd2c
+32e73151,Sam Larsson,11,SWE,LW,24-205,11,0,0,0,0,0,0,0,0,8,0,1,0,0.0,0.0,0.0,0,0,4,7,57.1,0,6,0,0,0,Feyenoord,2017-11-01 Shakhtar-Feyenoord,UCL,17-18,aeb0dd2c
+635f2732,Jean-Paul Boëtius,7,NED,"LW,FW",23-224,90,0,0,0,0,4,1,0,0,53,0,1,2,0.2,0.2,0.1,3,0,29,43,67.4,3,34,7,3,3,Feyenoord,2017-11-01 Shakhtar-Feyenoord,UCL,17-18,aeb0dd2c
+713c144a,Steven Berghuis,19,NED,RW,25-317,90,0,1,0,0,3,2,1,0,53,0,0,0,0.4,0.4,0.4,5,1,30,46,65.2,4,40,2,4,2,Feyenoord,2017-11-01 Shakhtar-Feyenoord,UCL,17-18,aeb0dd2c
+c7069d87,Tonny Vilhena,10,NED,LM,22-302,90,0,0,0,0,1,1,0,0,36,1,1,1,0.0,0.0,0.0,0,0,19,27,70.4,2,22,1,2,0,Feyenoord,2017-11-01 Shakhtar-Feyenoord,UCL,17-18,aeb0dd2c
+0ff9eabc,Karim El Ahmadi,8,MAR,CM,32-278,90,0,0,0,0,1,0,1,0,68,3,0,0,0.0,0.0,0.3,3,0,48,58,82.8,5,47,0,0,0,Feyenoord,2017-11-01 Shakhtar-Feyenoord,UCL,17-18,aeb0dd2c
+5a2cb25d,Sofyan Amrabat,21,MAR,RM,21-072,90,0,0,0,0,0,0,0,0,36,1,0,0,0.0,0.0,0.0,2,0,28,32,87.5,3,26,0,1,0,Feyenoord,2017-11-01 Shakhtar-Feyenoord,UCL,17-18,aeb0dd2c
+c8d7131c,Ridgeciano Haps,5,SUR,LB,24-142,90,0,0,0,0,0,0,0,0,70,3,2,3,0.0,0.0,0.0,1,0,48,58,82.8,5,42,4,5,5,Feyenoord,2017-11-01 Shakhtar-Feyenoord,UCL,17-18,aeb0dd2c
+34269bdf,Renato Tapia,20,PER,CB,22-096,71,0,0,0,0,0,0,0,0,62,1,1,3,0.0,0.0,0.0,2,0,48,55,87.3,0,46,0,1,1,Feyenoord,2017-11-01 Shakhtar-Feyenoord,UCL,17-18,aeb0dd2c
+f179ee11,Kevin Diks,17,NED,CB,21-026,19,0,0,0,0,0,0,0,0,16,0,2,0,0.0,0.0,0.0,1,0,14,14,100.0,0,10,0,0,0,Feyenoord,2017-11-01 Shakhtar-Feyenoord,UCL,17-18,aeb0dd2c
+90339309,Jerry St. Juste,4,NED,CB,21-013,90,0,0,0,0,0,0,0,0,53,0,2,0,0.0,0.0,0.0,0,0,42,46,91.3,0,36,0,0,0,Feyenoord,2017-11-01 Shakhtar-Feyenoord,UCL,17-18,aeb0dd2c
+f40dd3c7,Bart Nieuwkoop,2,NED,RB,21-239,90,0,0,0,0,0,0,0,0,59,0,4,5,0.0,0.0,0.0,3,0,29,43,67.4,1,21,3,0,0,Feyenoord,2017-11-01 Shakhtar-Feyenoord,UCL,17-18,aeb0dd2c
+ffc1c226,Brad Jones,25,AUS,GK,35-227,90,0,0,0,0,0,0,0,0,32,0,0,0,0.0,0.0,0.0,0,0,17,28,60.7,0,15,0,0,0,Feyenoord,2017-11-01 Shakhtar-Feyenoord,UCL,17-18,aeb0dd2c

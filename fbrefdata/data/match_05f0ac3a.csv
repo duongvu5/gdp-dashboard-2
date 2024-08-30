@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+64e8ed6d,Borja Mayoral,2,ESP,FW,22-029,78,0,0,0,0,1,0,0,0,22,0,0,1,0.5,0.5,0.1,3,1,14,19,73.7,2,19,5,1,1,Levante,2019-05-04 Levante-Rayo Vallecano,ESP-LALIGA,18-19,05f0ac3a
+5f3eaaf5,Moses Simon,7,NGA,"RW,FW",23-296,12,0,1,0,0,0,0,0,0,9,0,0,1,0.0,0.0,0.4,1,1,2,5,40.0,1,5,2,2,0,Levante,2019-05-04 Levante-Rayo Vallecano,ESP-LALIGA,18-19,05f0ac3a
+4a478107,José Luis Morales,11,ESP,"LW,FW",31-285,87,0,0,0,1,2,1,0,0,19,0,0,0,0.9,0.1,0.0,4,1,8,14,57.1,1,10,3,1,1,Levante,2019-05-04 Levante-Rayo Vallecano,ESP-LALIGA,18-19,05f0ac3a
+474ecac8,Sergio Postigo,15,ESP,FW,30-181,3,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Levante,2019-05-04 Levante-Rayo Vallecano,ESP-LALIGA,18-19,05f0ac3a
+9038c2a1,Jason,23,ESP,"RW,LW",24-302,90,1,0,0,0,2,2,0,0,22,6,0,1,0.3,0.3,0.0,0,0,7,13,53.8,1,12,1,1,1,Levante,2019-05-04 Levante-Rayo Vallecano,ESP-LALIGA,18-19,05f0ac3a
+cac2537b,Enis Bardhi,10,MKD,LM,23-306,90,1,0,0,0,2,1,0,0,38,4,1,0,0.4,0.4,0.5,2,1,19,26,73.1,8,22,1,0,0,Levante,2019-05-04 Levante-Rayo Vallecano,ESP-LALIGA,18-19,05f0ac3a
+4442fbcd,Nikola Vukčević,17,MNE,CM,27-142,65,0,0,0,0,0,0,0,0,23,2,2,1,0.0,0.0,0.0,0,0,15,19,78.9,2,8,0,0,0,Levante,2019-05-04 Levante-Rayo Vallecano,ESP-LALIGA,18-19,05f0ac3a
+ecd8c01e,Rubén Rochina,16,ESP,CM,28-042,25,0,0,0,0,0,0,0,0,9,1,1,1,0.0,0.0,0.0,1,1,2,5,40.0,0,4,1,1,1,Levante,2019-05-04 Levante-Rayo Vallecano,ESP-LALIGA,18-19,05f0ac3a
+61220da2,José Campaña,24,ESP,RM,25-338,90,1,2,0,0,1,1,1,0,39,3,1,0,0.5,0.5,0.5,5,2,20,33,60.6,2,15,1,0,0,Levante,2019-05-04 Levante-Rayo Vallecano,ESP-LALIGA,18-19,05f0ac3a
+d4ef9ac5,Toño,3,ESP,LB,29-178,90,0,0,0,0,0,0,0,0,38,1,0,0,0.0,0.0,0.0,0,0,24,31,77.4,1,13,0,2,1,Levante,2019-05-04 Levante-Rayo Vallecano,ESP-LALIGA,18-19,05f0ac3a
+c00097d2,Rober,4,ESP,CB,24-077,90,0,0,0,0,0,0,0,0,34,1,3,2,0.0,0.0,0.0,1,0,14,23,60.9,1,11,0,0,0,Levante,2019-05-04 Levante-Rayo Vallecano,ESP-LALIGA,18-19,05f0ac3a
+c67cd65c,Rúben Vezo,14,POR,CB,25-009,90,1,0,0,0,1,1,0,0,25,0,1,5,0.1,0.1,0.0,1,0,9,11,81.8,2,5,0,0,0,Levante,2019-05-04 Levante-Rayo Vallecano,ESP-LALIGA,18-19,05f0ac3a
+6d8f8441,Coke,12,ESP,RB,32-008,90,0,0,0,0,1,0,0,0,37,5,1,0,0.1,0.1,0.0,0,0,13,20,65.0,3,10,2,1,0,Levante,2019-05-04 Levante-Rayo Vallecano,ESP-LALIGA,18-19,05f0ac3a
+a01c3d54,Aitor Fernández,25,ESP,GK,28-001,90,0,0,0,0,0,0,0,0,35,0,0,0,0.0,0.0,0.0,1,0,18,34,52.9,0,16,0,0,0,Levante,2019-05-04 Levante-Rayo Vallecano,ESP-LALIGA,18-19,05f0ac3a
+02ef8778,Raúl de Tomás,9,ESP,"FW,AM",24-199,90,0,0,0,0,6,1,0,0,23,0,0,0,0.6,0.6,0.0,4,0,12,13,92.3,1,13,3,3,3,Rayo Vallecano,2019-05-04 Levante-Rayo Vallecano,ESP-LALIGA,18-19,05f0ac3a
+d8712bf9,Bebé,14,CPV,"LW,WB",28-296,63,0,0,0,0,5,0,0,0,29,1,0,0,0.1,0.1,0.4,5,0,11,19,57.9,3,17,5,4,2,Rayo Vallecano,2019-05-04 Levante-Rayo Vallecano,ESP-LALIGA,18-19,05f0ac3a
+90bbd822,Álvaro García,18,ESP,WB,26-189,27,1,0,0,0,1,1,0,0,10,0,0,0,0.5,0.5,0.0,0,0,3,5,60.0,0,6,2,0,0,Rayo Vallecano,2019-05-04 Levante-Rayo Vallecano,ESP-LALIGA,18-19,05f0ac3a
+db8f0eba,Adri Embarba,11,ESP,"RW,WB",26-362,81,0,0,0,0,1,1,2,1,52,2,1,2,0.0,0.0,0.3,6,0,20,38,52.6,1,28,8,5,3,Rayo Vallecano,2019-05-04 Levante-Rayo Vallecano,ESP-LALIGA,18-19,05f0ac3a
+fc8b614b,José Pozo,22,ESP,"AM,CM",23-050,90,0,0,0,0,1,0,0,0,52,0,0,1,0.1,0.1,0.2,7,0,37,43,86.0,9,32,4,5,3,Rayo Vallecano,2019-05-04 Levante-Rayo Vallecano,ESP-LALIGA,18-19,05f0ac3a
+98554bfd,Uche Henry Agbo,3,NGA,DM,23-151,28,0,0,0,0,0,0,0,0,12,0,0,0,0.0,0.0,0.0,0,0,11,12,91.7,2,6,0,0,0,Rayo Vallecano,2019-05-04 Levante-Rayo Vallecano,ESP-LALIGA,18-19,05f0ac3a
+31223bcf,Álvaro Medrán,4,ESP,"CM,DM",25-050,62,0,0,0,0,1,0,1,0,44,0,1,0,0.0,0.0,0.0,0,0,30,41,73.2,4,28,1,4,2,Rayo Vallecano,2019-05-04 Levante-Rayo Vallecano,ESP-LALIGA,18-19,05f0ac3a
+7106f0a0,Mario Suárez,15,ESP,"DM,CM,CB",32-069,90,0,0,0,0,2,0,1,0,88,5,1,1,0.1,0.1,0.0,2,0,61,75,81.3,11,52,1,4,4,Rayo Vallecano,2019-05-04 Levante-Rayo Vallecano,ESP-LALIGA,18-19,05f0ac3a
+16e9d0ea,Álex Moreno,7,ESP,"CB,LB",25-330,90,0,0,0,0,0,0,0,0,57,2,1,0,0.0,0.0,0.1,7,1,41,46,89.1,2,27,7,6,2,Rayo Vallecano,2019-05-04 Levante-Rayo Vallecano,ESP-LALIGA,18-19,05f0ac3a
+960fb42d,Álex Gálvez,23,ESP,"CB,FW",29-332,90,0,0,0,0,1,0,0,0,67,2,4,0,0.1,0.1,0.0,2,0,54,61,88.5,3,40,2,1,1,Rayo Vallecano,2019-05-04 Levante-Rayo Vallecano,ESP-LALIGA,18-19,05f0ac3a
+1f54ed90,Abdoulaye Ba,21,SEN,CB,28-123,45,0,0,0,0,0,0,0,0,27,0,1,0,0.0,0.0,0.0,0,0,23,25,92.0,3,15,0,0,0,Rayo Vallecano,2019-05-04 Levante-Rayo Vallecano,ESP-LALIGA,18-19,05f0ac3a
+aa386464,Javi Guerra,24,ESP,"FW,AM",37-050,45,0,1,0,0,2,0,0,0,12,1,0,0,0.1,0.1,0.5,2,1,6,8,75.0,0,4,0,2,2,Rayo Vallecano,2019-05-04 Levante-Rayo Vallecano,ESP-LALIGA,18-19,05f0ac3a
+7cefa219,Tito,2,ESP,"CB,RB",33-297,90,0,0,0,0,0,0,0,0,58,0,0,3,0.0,0.0,0.0,2,0,42,52,80.8,5,32,2,1,0,Rayo Vallecano,2019-05-04 Levante-Rayo Vallecano,ESP-LALIGA,18-19,05f0ac3a
+17d9e354,Alberto García,1,ESP,GK,34-084,90,0,0,0,0,0,0,0,0,30,0,0,0,0.0,0.0,0.0,0,0,24,27,88.9,0,17,0,0,0,Rayo Vallecano,2019-05-04 Levante-Rayo Vallecano,ESP-LALIGA,18-19,05f0ac3a

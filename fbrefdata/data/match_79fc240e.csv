@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+8c90fd7a,Victor Osimhen,9,NGA,FW,24-015,77,2,1,0,0,5,4,0,0,25,0,0,0,1.3,1.3,0.3,4,2,10,14,71.4,0,13,3,2,0,Napoli,2023-01-13 Napoli-Juventus,ITA-SERIA_A,22-23,79fc240e
+6e058f06,Giacomo Raspadori,81,ITA,FW,22-329,13,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,7,8,87.5,1,4,0,1,0,Napoli,2023-01-13 Napoli-Juventus,ITA-SERIA_A,22-23,79fc240e
+dea88efd,Khvicha Kvaratskhelia,77,GEO,LW,21-335,87,1,2,0,0,5,3,0,0,48,1,0,0,0.6,0.6,0.6,5,3,24,35,68.6,4,35,8,7,4,Napoli,2023-01-13 Napoli-Juventus,ITA-SERIA_A,22-23,79fc240e
+a69e4806,Hirving Lozano,11,MEX,RW,27-167,3,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,1,2,0,0,0,Napoli,2023-01-13 Napoli-Juventus,ITA-SERIA_A,22-23,79fc240e
+5e861944,Matteo Politano,21,ITA,RW,29-163,45,0,0,0,0,0,0,0,0,32,0,0,1,0.0,0.0,0.0,0,0,15,24,62.5,2,20,4,3,0,Napoli,2023-01-13 Napoli-Juventus,ITA-SERIA_A,22-23,79fc240e
+cf007308,Elif Elmas,7,MKD,"RW,LW",23-111,45,1,0,0,0,1,1,0,0,17,1,0,0,0.1,0.1,0.0,0,0,13,14,92.9,3,15,0,1,0,Napoli,2023-01-13 Napoli-Juventus,ITA-SERIA_A,22-23,79fc240e
+a5296e55,Piotr Zieliński,20,POL,LM,28-238,77,0,0,0,0,2,1,0,0,57,2,1,1,0.1,0.1,0.0,1,0,41,46,89.1,5,26,0,2,0,Napoli,2023-01-13 Napoli-Juventus,ITA-SERIA_A,22-23,79fc240e
+5cdddffa,Tanguy Ndombele,91,FRA,LM,26-016,13,0,0,0,0,0,0,0,0,13,0,0,0,0.0,0.0,0.0,0,0,12,12,100.0,1,8,1,0,0,Napoli,2023-01-13 Napoli-Juventus,ITA-SERIA_A,22-23,79fc240e
+e1cbb531,Stanislav Lobotka,68,SVK,CM,28-049,90,0,0,0,0,0,0,0,0,82,4,0,2,0.0,0.0,0.0,0,0,69,71,97.2,6,41,2,1,1,Napoli,2023-01-13 Napoli-Juventus,ITA-SERIA_A,22-23,79fc240e
+6bb2c084,Andre-Frank Zambo Anguissa,99,CMR,RM,27-058,90,0,0,0,0,0,0,0,0,73,2,1,2,0.0,0.0,0.1,1,0,51,58,87.9,3,46,0,0,0,Napoli,2023-01-13 Napoli-Juventus,ITA-SERIA_A,22-23,79fc240e
+0b5a292a,Mário Rui,6,POR,LB,31-231,69,0,0,0,0,0,0,0,0,65,2,2,1,0.0,0.0,0.0,4,1,46,60,76.7,2,32,0,0,0,Napoli,2023-01-13 Napoli-Juventus,ITA-SERIA_A,22-23,79fc240e
+41c12f75,Mathías Olivera,17,URU,LB,25-074,21,0,0,0,0,0,0,0,0,17,1,0,0,0.0,0.0,0.0,1,1,13,15,86.7,0,7,0,1,1,Napoli,2023-01-13 Napoli-Juventus,ITA-SERIA_A,22-23,79fc240e
+e0f8151c,Kim Min-jae,3,KOR,CB,26-059,90,0,0,0,0,0,0,0,0,92,5,2,4,0.0,0.0,0.2,1,0,68,74,91.9,5,33,1,0,0,Napoli,2023-01-13 Napoli-Juventus,ITA-SERIA_A,22-23,79fc240e
+4b3e1a38,Amir Rrahmani,13,KVX,CB,28-323,90,1,0,0,0,1,1,0,0,76,3,1,1,0.1,0.1,0.1,1,0,61,66,92.4,3,46,0,0,0,Napoli,2023-01-13 Napoli-Juventus,ITA-SERIA_A,22-23,79fc240e
+230a2fac,Giovanni Di Lorenzo,22,ITA,RB,29-162,90,0,1,0,0,0,0,0,0,84,5,1,0,0.0,0.0,0.2,6,2,72,78,92.3,13,44,2,2,1,Napoli,2023-01-13 Napoli-Juventus,ITA-SERIA_A,22-23,79fc240e
+9413b19f,Alex Meret,1,ITA,GK,25-297,90,0,0,0,0,0,0,0,0,27,0,0,0,0.0,0.0,0.0,1,0,23,26,88.5,0,16,0,0,0,Napoli,2023-01-13 Napoli-Juventus,ITA-SERIA_A,22-23,79fc240e
+85613cf0,Arkadiusz Milik,14,POL,FW,28-319,55,0,1,0,0,1,1,0,0,19,1,0,0,0.1,0.1,0.2,2,1,12,14,85.7,1,9,0,3,2,Juventus,2023-01-13 Napoli-Juventus,ITA-SERIA_A,22-23,79fc240e
+3d50bcdb,Moise Kean,18,ITA,FW,22-319,35,0,0,0,0,1,0,0,0,10,0,0,0,0.0,0.0,0.0,1,0,3,5,60.0,0,4,1,3,0,Juventus,2023-01-13 Napoli-Juventus,ITA-SERIA_A,22-23,79fc240e
+19cda00b,Ángel Di María,22,ARG,"FW,AM",34-333,72,1,0,0,0,3,1,0,0,38,0,0,1,0.3,0.3,0.1,4,0,19,25,76.0,2,22,3,5,2,Juventus,2023-01-13 Napoli-Juventus,ITA-SERIA_A,22-23,79fc240e
+34693494,Fabio Miretti,20,ITA,AM,19-163,18,0,0,0,0,0,0,0,0,13,0,0,2,0.0,0.0,0.0,0,0,10,11,90.9,1,9,0,1,0,Juventus,2023-01-13 Napoli-Juventus,ITA-SERIA_A,22-23,79fc240e
+8794e251,Adrien Rabiot,25,FRA,"CM,DM",27-285,82,0,0,0,0,1,0,0,0,44,2,2,1,0.0,0.0,0.0,2,0,23,27,85.2,6,30,0,4,1,Juventus,2023-01-13 Napoli-Juventus,ITA-SERIA_A,22-23,79fc240e
+c13ddd3e,Matìas Soulé,30,ARG,DM,19-273,8,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,4,5,80.0,1,4,1,0,0,Juventus,2023-01-13 Napoli-Juventus,ITA-SERIA_A,22-23,79fc240e
+a8a874f1,Manuel Locatelli,5,ITA,CM,25-005,55,0,0,0,0,0,0,0,0,34,2,0,1,0.0,0.0,0.1,2,1,22,25,88.0,1,11,0,0,0,Juventus,2023-01-13 Napoli-Juventus,ITA-SERIA_A,22-23,79fc240e
+dff153a4,Leandro Paredes,32,ARG,DM,28-198,35,0,0,0,0,1,0,0,0,42,4,0,1,0.0,0.0,0.0,2,0,31,35,88.6,5,23,2,1,1,Juventus,2023-01-13 Napoli-Juventus,ITA-SERIA_A,22-23,79fc240e
+01c3aff5,Weston McKennie,8,USA,"CM,RW",24-138,90,0,0,0,0,0,0,0,0,46,3,0,0,0.0,0.0,0.0,0,0,28,40,70.0,1,18,1,0,0,Juventus,2023-01-13 Napoli-Juventus,ITA-SERIA_A,22-23,79fc240e
+b1cd37e6,Filip Kostić,17,SRB,"WB,LB",30-073,90,0,0,0,0,1,0,0,0,46,5,0,0,0.0,0.0,0.0,0,0,26,38,68.4,3,22,3,0,0,Juventus,2023-01-13 Napoli-Juventus,ITA-SERIA_A,22-23,79fc240e
+b0f7e36c,Federico Chiesa,7,ITA,"WB,LW",25-080,72,0,0,0,0,1,0,0,0,30,4,0,1,0.0,0.0,0.0,0,0,12,18,66.7,1,19,4,4,2,Juventus,2023-01-13 Napoli-Juventus,ITA-SERIA_A,22-23,79fc240e
+ba492306,Samuel Iling-Junior,43,ENG,LW,19-101,18,0,0,0,0,0,0,0,0,6,1,0,0,0.0,0.0,0.0,0,0,3,3,100.0,0,4,0,2,1,Juventus,2023-01-13 Napoli-Juventus,ITA-SERIA_A,22-23,79fc240e
+0d82903c,Alex Sandro,12,BRA,CB,31-352,90,0,0,0,0,0,0,0,0,59,1,2,1,0.0,0.0,0.0,1,0,46,53,86.8,3,31,0,1,1,Juventus,2023-01-13 Napoli-Juventus,ITA-SERIA_A,22-23,79fc240e
+5fd5ed86,Gleison Bremer,3,BRA,CB,25-301,90,0,0,0,0,1,0,0,0,52,2,2,1,0.7,0.7,0.0,0,0,29,37,78.4,0,17,0,0,0,Juventus,2023-01-13 Napoli-Juventus,ITA-SERIA_A,22-23,79fc240e
+94b2001f,Danilo,6,BRA,"CB,RB",31-182,90,0,0,0,0,1,0,1,0,58,2,3,3,0.0,0.0,0.0,1,0,42,50,84.0,2,26,0,0,0,Juventus,2023-01-13 Napoli-Juventus,ITA-SERIA_A,22-23,79fc240e
+01b8a2b2,Wojciech Szczęsny,1,POL,GK,32-270,90,0,0,0,0,0,0,0,0,22,0,0,0,0.0,0.0,0.0,0,0,15,20,75.0,0,13,0,0,0,Juventus,2023-01-13 Napoli-Juventus,ITA-SERIA_A,22-23,79fc240e

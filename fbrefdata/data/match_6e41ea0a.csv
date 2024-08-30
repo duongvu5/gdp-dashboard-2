@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+8c90fd7a,Victor Osimhen,7,NGA,FW,20-298,90,0,0,0,0,3,0,0,0,31,1,2,1,0.2,0.2,0.1,4,0,15,19,78.9,0,14,2,3,1,Lille,2019-10-23 Lille-Valencia,UCL,19-20,6e41ea0a
+fa18c72e,Luiz Araújo,11,BRA,LW,23-143,64,0,0,0,0,5,2,1,0,30,2,0,0,0.2,0.2,0.0,2,0,13,19,68.4,2,20,1,1,1,Lille,2019-10-23 Lille-Valencia,UCL,19-20,6e41ea0a
+42eaa028,Jonathan Ikone,10,FRA,"LW,RM",21-174,26,1,0,0,0,2,2,0,0,21,1,0,0,0.2,0.2,0.1,3,1,8,14,57.1,2,14,1,3,1,Lille,2019-10-23 Lille-Valencia,UCL,19-20,6e41ea0a
+f5c8b425,Yusuf Yazıcı,12,TUR,RW,22-267,70,0,0,0,0,4,0,0,0,57,0,1,0,0.2,0.2,0.3,9,0,34,47,72.3,6,29,6,4,2,Lille,2019-10-23 Lille-Valencia,UCL,19-20,6e41ea0a
+5c2da10f,Loïc Rémy,9,FRA,"RW,FW",32-294,20,0,0,0,0,2,0,0,0,4,0,0,0,0.5,0.5,0.0,0,0,1,1,100.0,0,2,0,0,0,Lille,2019-10-23 Lille-Valencia,UCL,19-20,6e41ea0a
+8bbe2df5,Domagoj Bradarić,29,CRO,"LM,LB",19-317,90,0,0,0,0,0,0,0,0,62,1,1,1,0.0,0.0,0.0,2,0,34,53,64.2,4,33,3,5,3,Lille,2019-10-23 Lille-Valencia,UCL,19-20,6e41ea0a
+ae59b359,Boubakary Soumaré,24,FRA,CM,20-238,90,0,0,0,0,2,1,0,0,71,2,3,1,0.1,0.1,0.1,6,0,54,62,87.1,12,42,5,5,5,Lille,2019-10-23 Lille-Valencia,UCL,19-20,6e41ea0a
+ef9c1c95,Benjamin André,21,FRA,CM,29-081,90,0,1,0,0,6,1,0,0,60,4,1,0,0.3,0.3,0.8,9,1,41,48,85.4,9,29,2,1,1,Lille,2019-10-23 Lille-Valencia,UCL,19-20,6e41ea0a
+31a62dc7,Zeki Çelik,17,TUR,"RM,RB",22-248,90,0,0,0,0,1,0,1,0,73,0,2,3,0.0,0.0,0.2,7,0,54,64,84.4,10,48,8,2,2,Lille,2019-10-23 Lille-Valencia,UCL,19-20,6e41ea0a
+67ac5bb8,Gabriel Magalhães,4,BRA,CB,21-308,90,0,0,0,0,1,0,1,0,72,0,4,0,0.1,0.1,0.0,0,0,49,62,79.0,5,42,0,0,0,Lille,2019-10-23 Lille-Valencia,UCL,19-20,6e41ea0a
+90f87966,José Fonte,6,POR,CB,35-305,90,0,0,0,0,0,0,0,0,74,2,2,0,0.0,0.0,0.1,3,0,59,65,90.8,7,43,3,0,0,Lille,2019-10-23 Lille-Valencia,UCL,19-20,6e41ea0a
+b2336681,Tiago Djaló,2,POR,CB,19-197,86,0,0,0,0,0,0,1,0,63,0,1,1,0.0,0.0,0.0,2,0,51,59,86.4,7,46,3,1,1,Lille,2019-10-23 Lille-Valencia,UCL,19-20,6e41ea0a
+b2bd0f6c,Jonathan Bamba,14,CIV,LM,23-211,4,0,0,0,0,1,0,0,0,9,0,0,0,0.0,0.0,0.1,1,0,4,8,50.0,0,4,1,0,0,Lille,2019-10-23 Lille-Valencia,UCL,19-20,6e41ea0a
+fcb38f57,Mike Maignan,16,FRA,GK,24-112,90,0,0,0,0,0,0,0,0,26,0,0,0,0.0,0.0,0.1,1,0,24,26,92.3,0,18,0,0,0,Lille,2019-10-23 Lille-Valencia,UCL,19-20,6e41ea0a
+42276181,Kévin Gameiro,9,FRA,FW,32-167,64,0,1,0,0,1,1,0,0,22,0,0,0,0.1,0.1,0.4,1,1,13,17,76.5,3,16,3,1,1,Valencia,2019-10-23 Lille-Valencia,UCL,19-20,6e41ea0a
+8455ad90,Lee Kang-in,16,KOR,"FW,LM",18-246,26,0,0,0,0,0,0,0,0,13,0,0,1,0.0,0.0,0.0,0,0,9,11,81.8,0,7,0,0,0,Valencia,2019-10-23 Lille-Valencia,UCL,19-20,6e41ea0a
+4c2e9442,Maxi Gómez,22,URU,FW,23-070,90,0,0,0,0,1,0,1,0,24,0,0,1,0.1,0.1,0.0,3,1,10,15,66.7,1,14,0,2,0,Valencia,2019-10-23 Lille-Valencia,UCL,19-20,6e41ea0a
+0ac94a23,Denis Cheryshev,11,RUS,LM,28-301,86,1,0,0,0,2,2,0,0,33,0,1,2,0.4,0.4,0.0,0,0,12,22,54.5,0,13,0,1,1,Valencia,2019-10-23 Lille-Valencia,UCL,19-20,6e41ea0a
+ac3fb1be,Ezequiel Garay,24,ARG,CB,33-013,4,0,0,0,0,0,0,0,0,4,0,0,1,0.0,0.0,0.0,0,0,2,2,100.0,0,0,0,0,0,Valencia,2019-10-23 Lille-Valencia,UCL,19-20,6e41ea0a
+cce181df,Geoffrey Kondogbia,6,CTA,CM,26-250,45,0,0,0,0,1,0,0,0,23,0,1,0,0.1,0.1,0.0,0,0,16,19,84.2,2,10,0,1,1,Valencia,2019-10-23 Lille-Valencia,UCL,19-20,6e41ea0a
+fed17f5a,Carlos Soler,8,ESP,RM,22-294,45,0,0,0,0,0,0,0,0,20,1,0,1,0.0,0.0,0.0,1,0,13,16,81.3,1,6,0,0,0,Valencia,2019-10-23 Lille-Valencia,UCL,19-20,6e41ea0a
+7460ca0d,Daniel Parejo,10,ESP,CM,30-190,90,0,0,0,0,0,0,0,0,74,1,1,0,0.0,0.0,0.1,3,0,57,65,87.7,3,41,1,4,2,Valencia,2019-10-23 Lille-Valencia,UCL,19-20,6e41ea0a
+a6951bf8,Francis Coquelin,17,FRA,"CM,RM",28-163,90,0,0,0,0,0,0,0,0,46,0,1,0,0.0,0.0,0.0,0,0,34,41,82.9,0,20,0,2,1,Valencia,2019-10-23 Lille-Valencia,UCL,19-20,6e41ea0a
+808d48f3,Jaume Costa,3,ESP,LB,31-219,90,0,0,0,0,0,0,0,0,50,2,3,3,0.0,0.0,0.0,0,0,25,36,69.4,2,22,3,0,0,Valencia,2019-10-23 Lille-Valencia,UCL,19-20,6e41ea0a
+d2110326,Mouctar Diakhaby,12,GUI,CB,22-308,83,0,0,0,0,0,0,2,1,56,3,0,3,0.0,0.0,0.0,1,0,37,40,92.5,2,28,0,0,0,Valencia,2019-10-23 Lille-Valencia,UCL,19-20,6e41ea0a
+b7ca5c51,Gabriel Paulista,5,BRA,CB,28-331,90,0,0,0,0,0,0,0,0,64,0,2,1,0.0,0.0,0.0,0,0,42,48,87.5,0,26,0,0,0,Valencia,2019-10-23 Lille-Valencia,UCL,19-20,6e41ea0a
+d83bbc54,Daniel Wass,18,DEN,RB,30-145,90,0,0,0,0,1,0,0,0,74,3,0,0,0.0,0.0,0.1,2,0,50,67,74.6,1,29,2,0,0,Valencia,2019-10-23 Lille-Valencia,UCL,19-20,6e41ea0a
+04ac8285,Jasper Cillessen,13,NED,GK,30-184,90,0,0,0,0,0,0,0,0,47,0,0,0,0.0,0.0,0.0,0,0,28,45,62.2,0,17,0,0,0,Valencia,2019-10-23 Lille-Valencia,UCL,19-20,6e41ea0a

@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+d70ce98e,Lionel Messi,10,ARG,FW,33-234,90,2,1,0,0,7,5,0,0,89,0,0,0,0.3,0.3,0.4,8,2,59,77,76.6,3,61,7,4,1,Barcelona,2021-02-13 Barcelona-Alavés,ESP-LALIGA,20-21,e1aa194a
+df69b544,Antoine Griezmann,7,FRA,LW,29-329,80,0,2,0,0,2,0,0,0,54,0,0,0,0.5,0.5,1.1,7,1,45,50,90.0,3,25,1,1,1,Barcelona,2021-02-13 Barcelona-Alavés,ESP-LALIGA,20-21,e1aa194a
+b19db005,Ousmane Dembélé,11,FRA,LW,23-274,10,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,0,0,10,10,100.0,1,4,1,0,0,Barcelona,2021-02-13 Barcelona-Alavés,ESP-LALIGA,20-21,e1aa194a
+77e39b04,Francisco Trincão,17,POR,RW,21-046,90,2,0,0,0,4,3,0,0,51,1,1,1,0.7,0.7,0.1,1,0,32,39,82.1,2,33,4,3,2,Barcelona,2021-02-13 Barcelona-Alavés,ESP-LALIGA,20-21,e1aa194a
+f090a37a,Riqui Puig,12,ESP,LM,21-184,90,0,0,0,0,1,0,0,0,118,0,0,0,0.0,0.0,0.1,4,1,105,113,92.9,12,68,2,1,1,Barcelona,2021-02-13 Barcelona-Alavés,ESP-LALIGA,20-21,e1aa194a
+5ab0ea87,Sergio Busquets,5,ESP,CM,32-212,45,0,1,0,0,0,0,0,0,69,0,1,0,0.0,0.0,0.0,1,1,57,63,90.5,5,29,0,0,0,Barcelona,2021-02-13 Barcelona-Alavés,ESP-LALIGA,20-21,e1aa194a
+3eed9821,Samuel Umtiti,23,FRA,CB,27-091,45,0,0,0,0,0,0,0,0,46,1,0,0,0.0,0.0,0.0,0,0,38,41,92.7,0,25,0,0,0,Barcelona,2021-02-13 Barcelona-Alavés,ESP-LALIGA,20-21,e1aa194a
+f4c69aa6,Ilaix Moriba,27,GUI,RM,18-025,63,0,1,0,0,1,0,0,0,57,0,0,1,0.1,0.1,0.1,2,1,46,51,90.2,3,35,1,1,0,Barcelona,2021-02-13 Barcelona-Alavés,ESP-LALIGA,20-21,e1aa194a
+0d9b2d31,Pedri,16,ESP,RM,18-080,27,0,0,0,0,0,0,0,0,39,0,0,2,0.0,0.0,0.0,1,1,28,33,84.8,4,19,1,0,0,Barcelona,2021-02-13 Barcelona-Alavés,ESP-LALIGA,20-21,e1aa194a
+24f59bb2,Junior Firpo,24,DOM,LB,24-175,90,1,0,0,0,1,1,0,0,65,0,0,0,0.7,0.7,0.3,3,1,59,63,93.7,2,43,2,0,0,Barcelona,2021-02-13 Barcelona-Alavés,ESP-LALIGA,20-21,e1aa194a
+4f28a6ff,Clément Lenglet,15,FRA,CB,25-241,90,0,0,0,0,1,0,0,0,118,1,1,1,0.2,0.2,0.0,1,0,106,112,94.6,4,69,2,1,1,Barcelona,2021-02-13 Barcelona-Alavés,ESP-LALIGA,20-21,e1aa194a
+1bacc518,Frenkie de Jong,21,NED,"CB,CM",23-277,71,0,0,0,0,0,0,0,0,103,0,1,0,0.0,0.0,0.0,0,0,96,101,95.0,3,60,1,0,0,Barcelona,2021-02-13 Barcelona-Alavés,ESP-LALIGA,20-21,e1aa194a
+ad6df2d5,Miralem Pjanić,8,BIH,CM,30-317,19,0,0,0,0,0,0,0,0,26,0,0,0,0.0,0.0,0.0,1,1,24,26,92.3,0,14,0,0,0,Barcelona,2021-02-13 Barcelona-Alavés,ESP-LALIGA,20-21,e1aa194a
+056269d7,Óscar Mingueza,28,ESP,RB,21-276,71,0,0,0,0,0,0,0,0,82,1,1,0,0.0,0.0,0.0,2,1,68,75,90.7,3,50,2,0,0,Barcelona,2021-02-13 Barcelona-Alavés,ESP-LALIGA,20-21,e1aa194a
+5976f83e,Sergiño Dest,2,USA,RB,20-102,19,0,0,0,0,0,0,0,0,18,0,0,0,0.0,0.0,0.0,0,0,15,16,93.8,0,8,1,1,0,Barcelona,2021-02-13 Barcelona-Alavés,ESP-LALIGA,20-21,e1aa194a
+6f51e382,Marc-André ter Stegen,1,GER,GK,28-289,90,0,0,0,0,0,0,0,0,30,0,0,0,0.0,0.0,0.0,0,0,26,29,89.7,0,17,0,0,0,Barcelona,2021-02-13 Barcelona-Alavés,ESP-LALIGA,20-21,e1aa194a
+a300ac7e,Lucas Pérez,7,ESP,FW,32-156,80,0,0,0,0,4,0,0,0,41,0,0,0,0.4,0.4,0.0,3,0,22,31,71.0,9,22,2,1,1,Alavés,2021-02-13 Barcelona-Alavés,ESP-LALIGA,20-21,e1aa194a
+1b40049a,Borja Sainz,29,ESP,FW,20-012,10,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,2,1,0,0,Alavés,2021-02-13 Barcelona-Alavés,ESP-LALIGA,20-21,e1aa194a
+6265208f,Joselu,9,ESP,FW,30-323,80,0,0,0,0,0,0,0,0,38,0,0,2,0.0,0.0,0.2,1,0,18,31,58.1,3,14,0,1,0,Alavés,2021-02-13 Barcelona-Alavés,ESP-LALIGA,20-21,e1aa194a
+2e5e846d,Deyverson,14,BRA,FW,29-281,10,0,0,0,0,0,0,0,0,4,0,1,0,0.0,0.0,0.0,0,0,2,2,100.0,0,4,0,0,0,Alavés,2021-02-13 Barcelona-Alavés,ESP-LALIGA,20-21,e1aa194a
+49ea92be,Iñigo Córdoba,17,ESP,LM,23-337,45,0,0,0,0,0,0,0,0,23,2,2,3,0.0,0.0,0.0,2,0,6,16,37.5,2,12,1,2,2,Alavés,2021-02-13 Barcelona-Alavés,ESP-LALIGA,20-21,e1aa194a
+eb3dd471,Luis Rioja,11,ESP,LM,27-120,45,1,0,0,0,1,1,0,0,19,1,1,2,0.3,0.3,0.0,1,1,6,12,50.0,1,10,1,2,1,Alavés,2021-02-13 Barcelona-Alavés,ESP-LALIGA,20-21,e1aa194a
+e54bd0a2,Tomás Pina Isla,8,ESP,CM,33-122,71,0,0,0,0,0,0,0,0,23,3,2,1,0.0,0.0,0.0,0,0,13,15,86.7,0,10,0,1,1,Alavés,2021-02-13 Barcelona-Alavés,ESP-LALIGA,20-21,e1aa194a
+29b61deb,Pere Pons,20,ESP,CM,27-359,19,0,0,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.0,0,0,9,11,81.8,1,9,0,0,0,Alavés,2021-02-13 Barcelona-Alavés,ESP-LALIGA,20-21,e1aa194a
+d637fc22,Rodrigo Battaglia,6,ARG,CM,29-216,90,0,0,0,0,1,1,0,0,39,2,1,1,0.0,0.0,0.0,0,0,30,34,88.2,0,18,0,0,0,Alavés,2021-02-13 Barcelona-Alavés,ESP-LALIGA,20-21,e1aa194a
+aed746df,Édgar Méndez,16,ESP,RM,31-042,90,0,0,0,0,0,0,0,0,18,0,1,0,0.0,0.0,0.1,2,0,10,16,62.5,0,13,3,0,0,Alavés,2021-02-13 Barcelona-Alavés,ESP-LALIGA,20-21,e1aa194a
+1fe0492d,Rubén Duarte,3,ESP,LB,25-118,90,0,0,0,0,0,0,0,0,53,2,4,2,0.0,0.0,0.0,2,0,31,43,72.1,2,21,0,1,0,Alavés,2021-02-13 Barcelona-Alavés,ESP-LALIGA,20-21,e1aa194a
+6eaed4eb,Florian Lejeune,22,FRA,CB,29-269,90,0,0,0,0,0,0,0,0,40,3,3,1,0.0,0.0,0.0,0,0,20,30,66.7,1,15,0,0,0,Alavés,2021-02-13 Barcelona-Alavés,ESP-LALIGA,20-21,e1aa194a
+8b625720,Tachi,2,ESP,"RB,CB",23-156,90,0,0,0,0,0,0,1,0,35,0,3,1,0.0,0.0,0.0,0,0,25,29,86.2,5,20,0,0,0,Alavés,2021-02-13 Barcelona-Alavés,ESP-LALIGA,20-21,e1aa194a
+355c883a,Martin Agirregabiria,21,ESP,RB,24-279,45,0,0,0,0,0,0,1,0,13,0,3,1,0.0,0.0,0.0,0,0,7,10,70.0,0,8,0,0,0,Alavés,2021-02-13 Barcelona-Alavés,ESP-LALIGA,20-21,e1aa194a
+b7c99b9b,Víctor Laguardia,5,ESP,CB,31-100,45,0,0,0,0,0,0,0,0,21,0,1,2,0.0,0.0,0.0,0,0,12,16,75.0,0,13,1,0,0,Alavés,2021-02-13 Barcelona-Alavés,ESP-LALIGA,20-21,e1aa194a
+97852360,Fernando Pacheco,1,ESP,GK,28-271,90,0,0,0,0,0,0,0,0,30,1,1,0,0.0,0.0,0.0,0,0,22,26,84.6,0,11,0,0,0,Alavés,2021-02-13 Barcelona-Alavés,ESP-LALIGA,20-21,e1aa194a

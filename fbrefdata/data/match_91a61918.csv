@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+1fb1c435,Rodrigo,19,ESP,FW,27-193,90,0,0,0,0,3,0,0,0,36,1,0,0,0.2,0.2,0.1,3,0,17,25,68.0,1,19,0,3,2,Valencia,2018-09-15 Valencia-Betis,ESP-LALIGA,18-19,91a61918
+42276181,Kévin Gameiro,9,FRA,FW,31-129,90,0,0,0,0,1,1,0,0,30,0,0,1,0.3,0.3,0.0,4,0,20,28,71.4,2,11,2,1,1,Valencia,2018-09-15 Valencia-Betis,ESP-LALIGA,18-19,91a61918
+0ac94a23,Denis Cheryshev,11,RUS,LM,27-263,76,0,0,0,0,0,0,0,0,36,1,1,1,0.0,0.0,0.4,3,0,23,30,76.7,3,14,2,0,0,Valencia,2018-09-15 Valencia-Betis,ESP-LALIGA,18-19,91a61918
+2973d8ff,Michy Batshuayi,23,BEL,LM,24-348,14,0,0,0,0,0,0,1,0,7,0,0,0,0.0,0.0,0.0,0,0,4,6,66.7,0,5,1,2,2,Valencia,2018-09-15 Valencia-Betis,ESP-LALIGA,18-19,91a61918
+cce181df,Geoffrey Kondogbia,6,CTA,CM,25-212,13,0,0,0,0,1,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,3,4,75.0,0,5,0,0,0,Valencia,2018-09-15 Valencia-Betis,ESP-LALIGA,18-19,91a61918
+d83bbc54,Daniel Wass,18,DEN,CM,29-107,77,0,0,0,0,1,0,0,0,50,0,0,0,0.0,0.0,0.1,4,0,42,48,87.5,8,22,1,2,1,Valencia,2018-09-15 Valencia-Betis,ESP-LALIGA,18-19,91a61918
+7460ca0d,Daniel Parejo,10,ESP,CM,29-152,90,0,0,0,0,1,0,1,0,70,2,1,0,0.1,0.1,0.1,2,0,52,64,81.3,10,33,0,1,0,Valencia,2018-09-15 Valencia-Betis,ESP-LALIGA,18-19,91a61918
+9e1035f8,Ferrán Torres,20,ESP,RM,18-198,62,0,0,0,0,2,1,1,0,28,2,0,0,0.1,0.1,0.0,1,0,19,21,90.5,0,16,1,0,0,Valencia,2018-09-15 Valencia-Betis,ESP-LALIGA,18-19,91a61918
+e6bc67d7,Gonçalo Guedes,7,POR,RM,21-290,28,0,0,0,0,1,0,0,0,19,1,0,0,0.0,0.0,0.0,1,0,9,16,56.3,1,15,2,2,2,Valencia,2018-09-15 Valencia-Betis,ESP-LALIGA,18-19,91a61918
+b05e2dbd,José Luis Gayà,14,ESP,LB,23-113,90,0,0,0,0,0,0,0,0,43,3,1,0,0.0,0.0,0.1,3,0,31,37,83.8,5,18,1,0,0,Valencia,2018-09-15 Valencia-Betis,ESP-LALIGA,18-19,91a61918
+d2110326,Mouctar Diakhaby,12,GUI,CB,21-270,90,0,0,0,0,1,0,1,0,31,0,1,1,0.1,0.1,0.0,0,0,19,25,76.0,0,13,0,2,1,Valencia,2018-09-15 Valencia-Betis,ESP-LALIGA,18-19,91a61918
+b7ca5c51,Gabriel Paulista,5,BRA,CB,27-293,90,0,0,0,0,1,0,1,0,36,0,2,0,0.1,0.1,0.0,0,0,24,28,85.7,0,12,0,0,0,Valencia,2018-09-15 Valencia-Betis,ESP-LALIGA,18-19,91a61918
+32c0491f,Cristiano Piccini,21,ITA,RB,25-354,90,0,0,0,0,0,0,1,0,59,0,5,2,0.0,0.0,0.0,1,0,38,48,79.2,3,27,2,3,1,Valencia,2018-09-15 Valencia-Betis,ESP-LALIGA,18-19,91a61918
+c9cb972b,Jaume Doménech,1,ESP,GK,27-314,90,0,0,0,0,0,0,0,0,29,0,0,0,0.0,0.0,0.0,0,0,18,26,69.2,0,12,0,0,0,Valencia,2018-09-15 Valencia-Betis,ESP-LALIGA,18-19,91a61918
+0a447501,Antonio Sanabria,9,PAR,FW,22-195,67,0,0,0,0,0,0,1,0,12,0,1,0,0.0,0.0,0.0,0,0,6,8,75.0,0,5,0,0,0,Real Betis,2018-09-15 Valencia-Betis,ESP-LALIGA,18-19,91a61918
+0a0cc13c,Sergio León,7,ESP,FW,29-252,23,0,0,0,0,2,1,0,0,8,0,0,0,0.1,0.1,0.0,1,0,2,5,40.0,1,7,1,0,0,Real Betis,2018-09-15 Valencia-Betis,ESP-LALIGA,18-19,91a61918
+61bd33d0,Takashi Inui,8,JPN,AM,30-105,62,0,0,0,0,1,0,0,0,27,2,1,1,0.5,0.5,0.0,4,0,19,21,90.5,1,20,2,2,2,Real Betis,2018-09-15 Valencia-Betis,ESP-LALIGA,18-19,91a61918
+4c5b14d2,Joaquín,17,ESP,AM,37-056,28,0,0,0,0,2,2,0,0,24,1,0,0,0.1,0.1,0.0,0,0,14,15,93.3,3,16,2,2,1,Real Betis,2018-09-15 Valencia-Betis,ESP-LALIGA,18-19,91a61918
+1001ae82,Ryad Boudebouz,10,ALG,AM,28-208,76,0,0,0,0,0,0,0,0,38,0,0,0,0.0,0.0,0.6,4,0,26,33,78.8,1,31,2,2,1,Real Betis,2018-09-15 Valencia-Betis,ESP-LALIGA,18-19,91a61918
+d7553721,Giovani Lo Celso,21,ARG,CM,22-159,14,0,0,0,0,0,0,0,0,15,2,0,0,0.0,0.0,0.0,0,0,11,12,91.7,1,10,1,3,3,Real Betis,2018-09-15 Valencia-Betis,ESP-LALIGA,18-19,91a61918
+ef322658,Andrés Guardado,18,MEX,CM,31-352,90,0,0,0,0,0,0,1,0,77,1,1,1,0.0,0.0,0.1,3,0,64,72,88.9,6,49,2,0,0,Real Betis,2018-09-15 Valencia-Betis,ESP-LALIGA,18-19,91a61918
+a6de370d,Sergio Canales,6,ESP,"CM,AM",27-211,90,0,0,0,0,2,1,0,0,80,1,0,0,0.1,0.1,0.1,1,0,66,72,91.7,3,46,0,0,0,Real Betis,2018-09-15 Valencia-Betis,ESP-LALIGA,18-19,91a61918
+24f59bb2,Junior Firpo,20,DOM,WB,22-024,90,0,0,0,0,1,0,0,0,63,2,0,0,0.1,0.1,0.1,2,0,40,50,80.0,2,33,6,3,2,Real Betis,2018-09-15 Valencia-Betis,ESP-LALIGA,18-19,91a61918
+59d53e8a,Francis Guerrero,2,ESP,WB,22-188,90,0,0,0,0,0,0,0,0,46,3,2,0,0.0,0.0,0.0,1,0,28,36,77.8,3,29,2,0,0,Real Betis,2018-09-15 Valencia-Betis,ESP-LALIGA,18-19,91a61918
+b14d0c5d,Sidnei,12,BRA,CB,29-023,90,0,0,0,0,1,0,0,0,91,2,5,2,0.1,0.1,0.0,0,0,67,77,87.0,1,51,1,0,0,Real Betis,2018-09-15 Valencia-Betis,ESP-LALIGA,18-19,91a61918
+b742cc0d,Marc Bartra,5,ESP,CB,27-243,90,0,0,0,0,1,0,0,0,98,2,2,2,0.0,0.0,0.0,0,0,79,84,94.0,2,66,1,1,1,Real Betis,2018-09-15 Valencia-Betis,ESP-LALIGA,18-19,91a61918
+fbd6378b,Aïssa Mandi,23,ALG,CB,26-328,90,0,0,0,0,1,1,0,0,92,1,0,1,0.1,0.1,0.0,3,0,83,85,97.6,2,54,0,0,0,Real Betis,2018-09-15 Valencia-Betis,ESP-LALIGA,18-19,91a61918
+20b9f052,Pau López,13,ESP,GK,23-276,90,0,0,0,0,0,0,1,0,40,0,0,0,0.0,0.0,0.0,2,0,32,40,80.0,0,17,0,0,0,Real Betis,2018-09-15 Valencia-Betis,ESP-LALIGA,18-19,91a61918

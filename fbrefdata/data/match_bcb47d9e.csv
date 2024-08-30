@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+129af0db,Álvaro Morata,22,ESP,FW,26-124,57,1,0,0,0,2,2,0,0,23,2,0,0,0.2,0.2,0.0,1,0,9,12,75.0,0,15,2,4,1,Atlético Madrid,2019-02-24 Atlético Madrid-Villarreal,ESP-LALIGA,18-19,bcb47d9e
+a190d597,Diego Costa,19,ESP,FW,30-140,33,0,1,0,0,2,1,0,0,16,0,0,1,0.3,0.3,0.3,1,1,5,9,55.6,1,10,2,0,0,Atlético Madrid,2019-02-24 Atlético Madrid-Villarreal,ESP-LALIGA,18-19,bcb47d9e
+df69b544,Antoine Griezmann,7,FRA,FW,27-340,90,0,0,0,0,3,1,0,0,65,0,0,1,0.1,0.1,0.5,5,0,49,57,86.0,7,41,2,0,0,Atlético Madrid,2019-02-24 Atlético Madrid-Villarreal,ESP-LALIGA,18-19,bcb47d9e
+4dbd0916,Thomas Lemar,11,FRA,LM,23-104,63,0,0,0,0,2,0,0,0,51,1,0,0,0.1,0.1,0.1,7,0,37,39,94.9,3,41,7,5,4,Atlético Madrid,2019-02-24 Atlético Madrid-Villarreal,ESP-LALIGA,18-19,bcb47d9e
+529f49ab,Thomas Partey,5,GHA,LM,25-256,27,0,0,0,0,0,0,0,0,18,1,0,0,0.0,0.0,0.0,2,1,12,16,75.0,1,12,1,1,1,Atlético Madrid,2019-02-24 Atlético Madrid-Villarreal,ESP-LALIGA,18-19,bcb47d9e
+6434f10d,Rodri,14,ESP,CM,22-247,90,0,0,0,0,0,0,0,0,77,2,0,1,0.0,0.0,0.1,5,1,64,67,95.5,8,48,2,1,0,Atlético Madrid,2019-02-24 Atlético Madrid-Villarreal,ESP-LALIGA,18-19,bcb47d9e
+55126f3b,Koke,6,ESP,CM,27-047,89,0,0,0,0,2,0,0,0,72,2,2,1,0.1,0.1,0.0,4,0,56,64,87.5,7,40,1,1,1,Atlético Madrid,2019-02-24 Atlético Madrid-Villarreal,ESP-LALIGA,18-19,bcb47d9e
+db750822,Vitolo,23,ESP,RM,29-114,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Atlético Madrid,2019-02-24 Atlético Madrid-Villarreal,ESP-LALIGA,18-19,bcb47d9e
+c14bc029,Saúl Ñíguez,8,ESP,"RM,CM",24-095,90,1,0,0,0,3,2,0,0,69,3,1,2,0.3,0.3,0.0,0,0,48,55,87.3,4,36,3,1,1,Atlético Madrid,2019-02-24 Atlético Madrid-Villarreal,ESP-LALIGA,18-19,bcb47d9e
+e4ed2628,Filipe Luís,3,BRA,LB,33-199,90,0,1,0,0,0,0,0,0,86,2,2,1,0.0,0.0,0.1,1,1,65,76,85.5,4,56,5,2,2,Atlético Madrid,2019-02-24 Atlético Madrid-Villarreal,ESP-LALIGA,18-19,bcb47d9e
+f0da930c,José María Giménez,24,URU,CB,24-035,90,0,0,0,0,1,1,0,0,48,0,0,3,0.1,0.1,0.0,0,0,34,40,85.0,0,27,0,1,1,Atlético Madrid,2019-02-24 Atlético Madrid-Villarreal,ESP-LALIGA,18-19,bcb47d9e
+f6ac68c1,Stefan Savić,15,MNE,CB,28-047,90,0,0,0,0,0,0,0,0,38,0,0,0,0.0,0.0,0.0,0,0,26,32,81.3,2,18,0,0,0,Atlético Madrid,2019-02-24 Atlético Madrid-Villarreal,ESP-LALIGA,18-19,bcb47d9e
+fdd60087,Santiago Arias,4,COL,RB,27-042,90,0,0,0,0,0,0,0,0,75,0,3,2,0.0,0.0,0.1,2,0,53,60,88.3,3,34,1,1,0,Atlético Madrid,2019-02-24 Atlético Madrid-Villarreal,ESP-LALIGA,18-19,bcb47d9e
+ee8508c0,Jan Oblak,13,SVN,GK,26-048,90,0,0,0,0,0,0,0,0,24,0,0,0,0.0,0.0,0.0,0,0,14,23,60.9,0,8,0,0,0,Atlético Madrid,2019-02-24 Atlético Madrid-Villarreal,ESP-LALIGA,18-19,bcb47d9e
+09a9e921,Carlos Bacca,9,COL,FW,32-169,67,0,0,0,0,2,0,0,0,18,0,0,0,0.1,0.1,0.3,4,0,4,9,44.4,2,12,0,1,1,Villarreal,2019-02-24 Atlético Madrid-Villarreal,ESP-LALIGA,18-19,bcb47d9e
+81f0781e,Gerard Moreno,7,ESP,FW,26-323,23,0,0,0,0,2,1,0,0,12,0,0,0,0.1,0.1,0.0,1,0,8,9,88.9,2,8,2,1,1,Villarreal,2019-02-24 Atlético Madrid-Villarreal,ESP-LALIGA,18-19,bcb47d9e
+5ceba7fc,Karl Toko Ekambi,17,CMR,"FW,RW",26-163,90,0,0,0,0,1,1,0,0,33,0,0,0,0.3,0.3,0.1,2,0,17,22,77.3,1,20,3,2,1,Villarreal,2019-02-24 Atlético Madrid-Villarreal,ESP-LALIGA,18-19,bcb47d9e
+e2e9c250,Santi Cazorla,19,ESP,"CM,RM",34-073,90,0,0,0,0,0,0,0,0,91,1,3,0,0.0,0.0,0.2,6,0,62,79,78.5,14,48,1,2,1,Villarreal,2019-02-24 Atlético Madrid-Villarreal,ESP-LALIGA,18-19,bcb47d9e
+958bba56,Santiago Cáseres,5,ARG,CM,21-364,75,0,0,0,0,0,0,1,0,59,2,1,2,0.0,0.0,0.0,0,0,49,51,96.1,2,33,0,0,0,Villarreal,2019-02-24 Atlético Madrid-Villarreal,ESP-LALIGA,18-19,bcb47d9e
+82927de4,Pablo Fornals,8,ESP,CM,23-002,15,0,0,0,0,0,0,0,0,9,1,0,1,0.0,0.0,0.0,1,0,7,7,100.0,1,4,0,0,0,Villarreal,2019-02-24 Atlético Madrid-Villarreal,ESP-LALIGA,18-19,bcb47d9e
+ad1ffcfd,Vicente Iborra,10,ESP,"CM,LM",31-039,90,0,0,0,0,1,0,0,0,47,1,0,2,0.0,0.0,0.0,1,0,36,40,90.0,8,21,1,0,0,Villarreal,2019-02-24 Atlético Madrid-Villarreal,ESP-LALIGA,18-19,bcb47d9e
+63f04c6c,Alfonso Pedraza,16,ESP,"WB,LB",22-321,90,0,0,0,0,2,0,0,0,68,1,0,2,0.1,0.1,0.3,2,0,41,55,74.5,1,26,4,3,2,Villarreal,2019-02-24 Atlético Madrid-Villarreal,ESP-LALIGA,18-19,bcb47d9e
+fb5d47b3,Mario Gaspar,2,ESP,"WB,RB",28-092,90,0,0,0,0,3,1,0,0,55,2,0,2,0.4,0.4,0.0,1,0,35,42,83.3,1,23,3,1,0,Villarreal,2019-02-24 Atlético Madrid-Villarreal,ESP-LALIGA,18-19,bcb47d9e
+b3dc6eca,Víctor Ruiz,6,ESP,CB,30-030,90,0,0,0,0,1,0,1,0,83,0,1,0,0.1,0.1,0.0,1,0,67,77,87.0,6,46,3,0,0,Villarreal,2019-02-24 Atlético Madrid-Villarreal,ESP-LALIGA,18-19,bcb47d9e
+89cbc961,Ramiro Funes Mori,4,ARG,CB,27-356,55,0,0,0,0,0,0,0,0,36,3,0,0,0.0,0.0,0.0,0,0,28,30,93.3,0,24,0,0,0,Villarreal,2019-02-24 Atlético Madrid-Villarreal,ESP-LALIGA,18-19,bcb47d9e
+b8a642fc,Samuel Chukwueze,30,NGA,"LW,CB",19-278,35,0,0,0,0,1,0,0,0,14,0,0,0,0.0,0.0,0.0,2,0,10,12,83.3,3,11,1,0,0,Villarreal,2019-02-24 Atlético Madrid-Villarreal,ESP-LALIGA,18-19,bcb47d9e
+42dcf26d,Álvaro González,3,ESP,CB,29-047,90,0,0,0,0,1,0,1,0,70,4,3,0,0.0,0.0,0.1,3,0,46,61,75.4,6,32,2,0,0,Villarreal,2019-02-24 Atlético Madrid-Villarreal,ESP-LALIGA,18-19,bcb47d9e
+9f0ea33f,Sergio Asenjo,1,ESP,GK,29-241,90,0,0,0,0,0,0,0,0,31,0,0,0,0.0,0.0,0.0,0,0,25,28,89.3,0,18,0,0,0,Villarreal,2019-02-24 Atlético Madrid-Villarreal,ESP-LALIGA,18-19,bcb47d9e

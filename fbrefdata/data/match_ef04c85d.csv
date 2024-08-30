@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+e92cd3f7,Alexander Sørloth,9,NOR,FW,28-267,72,0,0,0,0,4,2,0,0,19,0,0,0,0.5,0.5,0.1,3,0,9,12,75.0,2,8,0,1,0,Atlético Madrid,2024-08-28 Atlético Madrid-Espanyol,ESP-LALIGA,24-25,ef04c85d
+c20bdcd7,Reinildo Mandava,23,MOZ,LB,30-220,18,0,0,0,0,0,0,0,0,28,2,0,0,0.0,0.0,0.0,2,0,24,25,96.0,3,19,0,1,1,Atlético Madrid,2024-08-28 Atlético Madrid-Espanyol,ESP-LALIGA,24-25,ef04c85d
+15ab5a2b,Julián Álvarez,19,ARG,FW,24-210,45,0,0,0,0,3,1,0,0,23,0,0,0,0.5,0.5,0.0,2,0,14,17,82.4,0,10,1,0,0,Atlético Madrid,2024-08-28 Atlético Madrid-Espanyol,ESP-LALIGA,24-25,ef04c85d
+df69b544,Antoine Griezmann,7,FRA,"FW,AM",33-160,45,0,0,0,0,0,0,0,0,29,0,0,0,0.0,0.0,0.3,2,0,21,30,70.0,5,19,0,1,1,Atlético Madrid,2024-08-28 Atlético Madrid-Espanyol,ESP-LALIGA,24-25,ef04c85d
+2a295d33,Samuel Lino,12,BRA,CM,24-249,45,0,0,0,0,2,1,0,0,34,0,1,1,0.5,0.5,0.0,2,0,25,28,89.3,3,21,2,0,0,Atlético Madrid,2024-08-28 Atlético Madrid-Espanyol,ESP-LALIGA,24-25,ef04c85d
+45736cec,Pablo Barrios,8,ESP,CM,21-074,45,0,0,0,0,3,1,0,0,56,0,0,0,0.1,0.1,0.1,3,0,44,50,88.0,8,44,2,0,0,Atlético Madrid,2024-08-28 Atlético Madrid-Espanyol,ESP-LALIGA,24-25,ef04c85d
+55126f3b,Koke,6,ESP,CM,32-233,90,0,0,0,0,3,1,0,0,102,1,0,2,0.2,0.2,0.0,2,0,82,92,89.1,7,59,3,0,0,Atlético Madrid,2024-08-28 Atlético Madrid-Espanyol,ESP-LALIGA,24-25,ef04c85d
+162efffd,Rodrigo De Paul,5,ARG,CM,30-096,61,0,0,0,0,0,0,0,0,57,1,0,1,0.0,0.0,0.7,5,0,41,56,73.2,12,39,1,3,3,Atlético Madrid,2024-08-28 Atlético Madrid-Espanyol,ESP-LALIGA,24-25,ef04c85d
+01eb744d,Ángel Correa,10,ARG,"FW,AM",29-172,29,0,0,0,0,4,0,0,0,21,0,0,0,0.3,0.3,0.1,2,0,10,12,83.3,1,14,1,2,1,Atlético Madrid,2024-08-28 Atlético Madrid-Espanyol,ESP-LALIGA,24-25,ef04c85d
+65154df0,Rodrigo Riquelme,17,ESP,"LB,LM,WB",24-148,90,0,0,0,0,2,0,0,0,61,0,1,0,0.3,0.3,0.3,10,0,43,54,79.6,6,43,10,1,0,Atlético Madrid,2024-08-28 Atlético Madrid-Espanyol,ESP-LALIGA,24-25,ef04c85d
+53cad200,César Azpilicueta,3,ESP,"CB,RB",35-000,90,0,0,0,0,2,1,0,0,78,0,1,0,0.1,0.1,0.0,2,0,61,71,85.9,7,47,2,0,0,Atlético Madrid,2024-08-28 Atlético Madrid-Espanyol,ESP-LALIGA,24-25,ef04c85d
+5dfc6ad5,Axel Witsel,20,BEL,CB,35-229,90,0,0,0,0,0,0,0,0,80,1,1,0,0.0,0.0,0.0,0,0,71,77,92.2,3,55,1,0,0,Atlético Madrid,2024-08-28 Atlético Madrid-Espanyol,ESP-LALIGA,24-25,ef04c85d
+9a64e67e,Robin Le Normand,24,ESP,CB,27-291,90,0,0,0,0,1,0,0,0,62,2,0,0,0.0,0.0,0.1,1,0,50,56,89.3,4,36,1,0,0,Atlético Madrid,2024-08-28 Atlético Madrid-Espanyol,ESP-LALIGA,24-25,ef04c85d
+23610943,Nahuel Molina,16,ARG,RB,26-144,45,0,0,0,0,1,0,0,0,41,0,0,2,0.0,0.0,0.0,4,0,20,32,62.5,2,18,0,1,0,Atlético Madrid,2024-08-28 Atlético Madrid-Espanyol,ESP-LALIGA,24-25,ef04c85d
+02c15616,Marcos Llorente,14,ESP,"RM,RB,WB",29-211,45,0,0,0,0,0,0,0,0,30,3,1,0,0.0,0.0,0.0,4,0,22,24,91.7,3,15,0,1,0,Atlético Madrid,2024-08-28 Atlético Madrid-Espanyol,ESP-LALIGA,24-25,ef04c85d
+ee8508c0,Jan Oblak,13,SVN,GK,31-234,90,0,0,0,0,0,0,0,0,27,0,0,0,0.0,0.0,0.0,1,0,21,24,87.5,0,12,0,0,0,Atlético Madrid,2024-08-28 Atlético Madrid-Espanyol,ESP-LALIGA,24-25,ef04c85d
+2683eda7,Javi Puado,7,ESP,FW,26-095,90,0,0,0,0,2,0,1,0,33,2,0,0,0.4,0.4,0.1,2,0,21,25,84.0,3,17,0,1,1,Espanyol,2024-08-28 Atlético Madrid-Espanyol,ESP-LALIGA,24-25,ef04c85d
+3f7bafbe,Alejo Véliz,9,ARG,FW,20-344,63,0,0,0,0,1,0,0,0,27,0,0,2,0.1,0.1,0.0,1,0,9,14,64.3,1,9,1,1,0,Espanyol,2024-08-28 Atlético Madrid-Espanyol,ESP-LALIGA,24-25,ef04c85d
+0545a08e,Walid Cheddira,16,MAR,FW,26-219,27,0,0,0,0,1,1,0,0,8,0,0,0,0.0,0.0,0.0,2,0,1,2,50.0,0,8,1,3,1,Espanyol,2024-08-28 Atlético Madrid-Espanyol,ESP-LALIGA,24-25,ef04c85d
+014aa7bd,Álvaro Aguado,18,ESP,CM,28-119,86,0,0,0,0,2,0,0,0,51,0,1,3,0.1,0.1,0.0,1,0,32,42,76.2,7,29,3,1,1,Espanyol,2024-08-28 Atlético Madrid-Espanyol,ESP-LALIGA,24-25,ef04c85d
+030ef8d6,Jofre,17,ESP,LM,23-072,4,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,1,0,2,2,100.0,0,2,0,0,0,Espanyol,2024-08-28 Atlético Madrid-Espanyol,ESP-LALIGA,24-25,ef04c85d
+ee45d138,José Gragera,15,ESP,CM,23-272,65,0,0,0,0,0,0,0,0,31,3,0,2,0.0,0.0,0.0,0,0,24,26,92.3,0,11,0,0,0,Espanyol,2024-08-28 Atlético Madrid-Espanyol,ESP-LALIGA,24-25,ef04c85d
+ea610f00,Pol Lozano,10,ESP,CM,24-327,25,0,0,0,0,0,0,0,0,12,0,0,1,0.0,0.0,0.0,1,0,6,9,66.7,1,4,0,1,0,Espanyol,2024-08-28 Atlético Madrid-Espanyol,ESP-LALIGA,24-25,ef04c85d
+e717705a,Alex Král,20,CZE,CM,26-101,90,0,0,0,0,1,0,0,0,40,3,1,3,0.0,0.0,0.3,2,0,21,25,84.0,4,14,1,2,2,Espanyol,2024-08-28 Atlético Madrid-Espanyol,ESP-LALIGA,24-25,ef04c85d
+23cbf863,Carlos Romero,22,ESP,LB,22-304,63,0,0,0,0,0,0,0,0,37,2,1,0,0.0,0.0,0.0,0,0,21,30,70.0,0,8,0,0,0,Espanyol,2024-08-28 Atlético Madrid-Espanyol,ESP-LALIGA,24-25,ef04c85d
+a3e4bf46,Brian Oliván,14,ESP,LB,30-149,27,0,0,0,0,0,0,0,0,18,0,0,0,0.0,0.0,0.0,1,0,11,14,78.6,0,5,0,0,0,Espanyol,2024-08-28 Atlético Madrid-Espanyol,ESP-LALIGA,24-25,ef04c85d
+a40819d9,Marash Kumbulla,4,ALB,CB,24-202,64,0,0,0,0,0,0,0,0,50,1,1,1,0.0,0.0,0.0,0,0,38,41,92.7,3,26,1,1,0,Espanyol,2024-08-28 Atlético Madrid-Espanyol,ESP-LALIGA,24-25,ef04c85d
+bc6f5f06,Sergi Gómez,3,ESP,CB,32-153,26,0,0,0,0,0,0,0,0,15,1,0,2,0.0,0.0,0.0,0,0,8,9,88.9,0,8,0,0,0,Espanyol,2024-08-28 Atlético Madrid-Espanyol,ESP-LALIGA,24-25,ef04c85d
+41b3069f,Fernando Calero,5,ESP,CB,28-349,90,0,0,0,0,0,0,0,0,59,0,2,2,0.0,0.0,0.0,1,0,42,45,93.3,1,28,0,0,0,Espanyol,2024-08-28 Atlético Madrid-Espanyol,ESP-LALIGA,24-25,ef04c85d
+139560df,Omar El Hilali,23,MAR,"CB,RB",20-351,90,0,0,0,0,0,0,1,0,40,2,0,0,0.0,0.0,0.0,0,0,27,32,84.4,2,17,1,1,1,Espanyol,2024-08-28 Atlético Madrid-Espanyol,ESP-LALIGA,24-25,ef04c85d
+868ce848,Álvaro Tejero,12,ESP,"RB,RM",28-039,90,0,0,0,0,1,0,0,0,43,0,1,0,0.0,0.0,0.1,3,0,24,33,72.7,1,14,3,0,0,Espanyol,2024-08-28 Atlético Madrid-Espanyol,ESP-LALIGA,24-25,ef04c85d
+87b498b0,Joan García,1,ESP,GK,23-116,90,0,0,0,0,0,0,0,0,45,0,0,0,0.0,0.0,0.0,0,0,20,41,48.8,0,23,0,0,0,Espanyol,2024-08-28 Atlético Madrid-Espanyol,ESP-LALIGA,24-25,ef04c85d

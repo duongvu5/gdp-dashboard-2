@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+5c4dc0ff,Mariano,7,DOM,FW,25-080,90,0,0,0,0,4,1,0,0,29,0,0,0,0.3,0.3,0.2,1,0,16,17,94.1,1,11,1,1,0,Real Madrid,2018-10-20 Real Madrid-Levante,ESP-LALIGA,18-19,c38c822b
+45af8a54,Marco Asensio,20,ESP,LW,22-272,59,0,0,0,0,2,0,0,0,36,1,1,0,0.2,0.2,0.3,5,0,24,30,80.0,2,23,4,0,0,Real Madrid,2018-10-20 Real Madrid-Levante,ESP-LALIGA,18-19,c38c822b
+c0617e2b,Dani Ceballos,24,ESP,LM,22-074,31,0,0,0,0,1,0,0,0,44,2,2,1,0.0,0.0,0.1,6,0,35,37,94.6,7,26,1,0,0,Real Madrid,2018-10-20 Real Madrid-Levante,ESP-LALIGA,18-19,c38c822b
+fd51b456,Lucas Vázquez,17,ESP,"RB,RW",27-111,90,0,0,0,0,3,3,0,0,88,2,0,2,0.4,0.4,0.3,5,0,62,76,81.6,8,46,5,0,0,Real Madrid,2018-10-20 Real Madrid-Levante,ESP-LALIGA,18-19,c38c822b
+a0b4bb3e,Isco,22,ESP,LM,26-182,59,0,0,0,0,1,0,0,0,68,3,1,0,0.0,0.0,0.4,9,0,50,58,86.2,9,46,3,3,2,Real Madrid,2018-10-20 Real Madrid-Levante,ESP-LALIGA,18-19,c38c822b
+70d74ece,Karim Benzema,9,FRA,LW,30-305,31,0,1,0,0,4,2,0,0,24,0,0,0,0.3,0.3,0.1,5,1,10,19,52.6,1,17,6,1,1,Real Madrid,2018-10-20 Real Madrid-Levante,ESP-LALIGA,18-19,c38c822b
+4d224fe8,Casemiro,14,BRA,CM,26-239,90,0,0,0,0,4,1,0,0,82,4,1,4,0.4,0.4,0.4,2,0,60,72,83.3,7,40,1,2,2,Real Madrid,2018-10-20 Real Madrid-Levante,ESP-LALIGA,18-19,c38c822b
+6025fab1,Luka Modrić,10,CRO,RM,33-041,90,0,0,0,0,3,1,0,0,96,5,2,0,0.1,0.1,0.1,6,0,69,78,88.5,21,62,3,8,5,Real Madrid,2018-10-20 Real Madrid-Levante,ESP-LALIGA,18-19,c38c822b
+603116a7,Marcelo,12,BRA,LB,30-161,90,1,0,0,0,4,1,1,0,100,2,1,1,0.2,0.2,0.5,10,0,71,89,79.8,14,59,7,4,4,Real Madrid,2018-10-20 Real Madrid-Levante,ESP-LALIGA,18-19,c38c822b
+08511d65,Sergio Ramos,4,ESP,CB,32-204,90,0,0,0,0,2,1,0,0,81,0,0,2,0.5,0.5,0.0,1,0,72,75,96.0,5,39,3,0,0,Real Madrid,2018-10-20 Real Madrid-Levante,ESP-LALIGA,18-19,c38c822b
+9f8e9423,Raphaël Varane,5,FRA,CB,25-178,90,0,0,0,0,2,0,0,0,64,2,2,1,0.2,0.2,0.0,2,0,49,52,94.2,3,35,0,0,0,Real Madrid,2018-10-20 Real Madrid-Levante,ESP-LALIGA,18-19,c38c822b
+1d1691ad,Álvaro Odriozola,19,ESP,RB,22-310,45,0,0,0,0,0,0,0,0,47,0,1,0,0.0,0.0,0.0,1,0,37,43,86.0,4,28,3,2,0,Real Madrid,2018-10-20 Real Madrid-Levante,ESP-LALIGA,18-19,c38c822b
+a58bb1e1,Gareth Bale,11,WAL,RW,29-096,45,0,0,0,0,3,2,0,0,23,0,0,1,0.2,0.2,0.0,3,1,12,18,66.7,2,13,0,0,0,Real Madrid,2018-10-20 Real Madrid-Levante,ESP-LALIGA,18-19,c38c822b
+1840e36d,Thibaut Courtois,25,BEL,GK,26-162,90,0,0,0,0,0,0,0,0,20,0,0,0,0.0,0.0,0.0,0,0,16,19,84.2,0,7,0,0,0,Real Madrid,2018-10-20 Real Madrid-Levante,ESP-LALIGA,18-19,c38c822b
+0ae4e09a,Roger Martí,9,ESP,FW,27-290,78,1,0,1,1,1,0,0,0,25,0,1,0,0.8,0.1,0.0,0,0,11,17,64.7,2,13,2,1,1,Levante,2018-10-20 Real Madrid-Levante,ESP-LALIGA,18-19,c38c822b
+2e23c66b,Emmanuel Boateng,21,GHA,FW,22-150,12,0,0,0,0,0,0,0,0,5,0,0,1,0.0,0.0,0.0,0,0,0,2,0.0,0,0,0,0,0,Levante,2018-10-20 Real Madrid-Levante,ESP-LALIGA,18-19,c38c822b
+4a478107,José Luis Morales,11,ESP,FW,31-089,90,1,0,0,0,2,1,0,0,27,0,0,0,1.2,1.2,0.0,5,1,12,18,66.7,0,23,4,4,3,Levante,2018-10-20 Real Madrid-Levante,ESP-LALIGA,18-19,c38c822b
+d4ef9ac5,Toño,3,ESP,LW,28-347,90,0,0,0,0,0,0,0,0,38,1,1,1,0.0,0.0,0.0,1,1,23,31,74.2,2,16,1,2,2,Levante,2018-10-20 Real Madrid-Levante,ESP-LALIGA,18-19,c38c822b
+9038c2a1,Jason,23,ESP,RW,24-106,90,0,0,0,0,1,0,1,0,54,1,5,2,0.0,0.0,0.0,0,0,28,34,82.4,4,18,2,5,1,Levante,2018-10-20 Real Madrid-Levante,ESP-LALIGA,18-19,c38c822b
+cac2537b,Enis Bardhi,10,MKD,CM,23-110,90,0,0,0,0,0,0,0,0,35,4,0,0,0.0,0.0,0.0,0,0,13,24,54.2,0,16,3,4,2,Levante,2018-10-20 Real Madrid-Levante,ESP-LALIGA,18-19,c38c822b
+ecd8c01e,Rubén Rochina,16,ESP,CM,27-211,66,0,0,0,0,1,0,0,0,39,4,1,0,0.0,0.0,0.1,4,0,22,32,68.8,0,15,2,4,4,Levante,2018-10-20 Real Madrid-Levante,ESP-LALIGA,18-19,c38c822b
+e208bcc8,Cheick Doukouré,5,CIV,CM,26-039,24,0,0,0,0,0,0,0,0,7,1,0,0,0.0,0.0,0.0,0,0,3,3,100.0,1,3,0,0,0,Levante,2018-10-20 Real Madrid-Levante,ESP-LALIGA,18-19,c38c822b
+61220da2,José Campaña,24,ESP,DM,25-142,90,0,0,0,0,0,0,0,0,57,0,6,2,0.0,0.0,0.0,0,0,34,44,77.3,1,22,1,1,0,Levante,2018-10-20 Real Madrid-Levante,ESP-LALIGA,18-19,c38c822b
+c00097d2,Rober,4,ESP,CB,23-246,90,0,0,0,0,0,0,0,0,35,1,2,3,0.0,0.0,0.0,0,0,18,19,94.7,2,11,1,0,0,Levante,2018-10-20 Real Madrid-Levante,ESP-LALIGA,18-19,c38c822b
+474ecac8,Sergio Postigo,15,ESP,CB,29-350,74,0,1,0,0,0,0,0,0,29,2,2,2,0.0,0.0,0.6,1,1,12,16,75.0,1,8,0,0,0,Levante,2018-10-20 Real Madrid-Levante,ESP-LALIGA,18-19,c38c822b
+7f203b54,Chema,6,ESP,CB,26-231,16,0,0,0,0,0,0,0,0,4,0,0,1,0.0,0.0,0.0,0,0,0,1,0.0,0,0,0,0,0,Levante,2018-10-20 Real Madrid-Levante,ESP-LALIGA,18-19,c38c822b
+e7ab4179,Erick Cabaco,18,URU,CB,23-184,90,0,0,0,0,0,0,1,0,29,1,1,3,0.0,0.0,0.0,0,0,14,19,73.7,1,6,1,1,1,Levante,2018-10-20 Real Madrid-Levante,ESP-LALIGA,18-19,c38c822b
+b5bdf144,Oier Olazábal,13,ESP,GK,29-036,90,0,0,0,0,0,0,0,0,40,0,1,0,0.0,0.0,0.0,0,0,14,33,42.4,0,10,0,0,0,Levante,2018-10-20 Real Madrid-Levante,ESP-LALIGA,18-19,c38c822b

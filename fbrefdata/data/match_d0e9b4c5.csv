@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+1cadaf34,Roberto Piccoli,91,ITA,FW,22-127,74,0,0,0,0,0,0,0,0,12,0,0,1,0.0,0.0,0.0,0,0,4,8,50.0,0,5,1,0,0,Empoli,2023-06-03 Empoli-Lazio,ITA-SERIA_A,22-23,d0e9b4c5
+d7d32194,Mattia Destro,23,ITA,FW,32-075,16,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,1,0,0,0,Empoli,2023-06-03 Empoli-Lazio,ITA-SERIA_A,22-23,d0e9b4c5
+91ff775f,Nicolò Cambiaghi,28,ITA,LW,22-157,88,0,0,0,0,4,1,2,1,43,1,2,4,0.1,0.1,0.0,2,0,18,30,60.0,2,33,8,4,3,Empoli,2023-06-03 Empoli-Lazio,ITA-SERIA_A,22-23,d0e9b4c5
+fdf4b948,Jean-Daniel Akpa-Akpro,11,CIV,RW,30-235,90,0,0,0,0,1,0,1,0,36,3,0,1,0.1,0.1,0.0,1,0,14,20,70.0,3,23,1,8,3,Empoli,2023-06-03 Empoli-Lazio,ITA-SERIA_A,22-23,d0e9b4c5
+06b08c45,Jacopo Fazzini,21,ITA,AM,20-079,83,0,0,0,0,0,0,0,0,32,4,0,1,0.0,0.0,0.0,2,0,15,22,68.2,2,19,1,8,4,Empoli,2023-06-03 Empoli-Lazio,ITA-SERIA_A,22-23,d0e9b4c5
+86383d0e,Martin Satriano,9,URU,AM,22-103,7,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,1,0,0,0,Empoli,2023-06-03 Empoli-Lazio,ITA-SERIA_A,22-23,d0e9b4c5
+d44360be,Filippo Bandinelli,25,ITA,DM,28-066,74,0,0,0,0,0,0,0,0,37,2,1,0,0.0,0.0,0.0,1,0,26,33,78.8,1,20,0,0,0,Empoli,2023-06-03 Empoli-Lazio,ITA-SERIA_A,22-23,d0e9b4c5
+fa449bba,Nicolas Haas,32,SUI,DM,27-131,16,0,0,0,0,0,0,0,0,12,0,0,0,0.0,0.0,0.0,0,0,12,12,100.0,3,6,0,0,0,Empoli,2023-06-03 Empoli-Lazio,ITA-SERIA_A,22-23,d0e9b4c5
+6cc97b6a,Alberto Grassi,5,ITA,DM,28-088,56,0,0,0,0,1,0,0,0,38,0,0,2,0.0,0.0,0.0,0,0,27,33,81.8,1,20,1,0,0,Empoli,2023-06-03 Empoli-Lazio,ITA-SERIA_A,22-23,d0e9b4c5
+d7918b13,Liam Henderson,8,SCO,DM,27-039,34,0,0,0,0,0,0,0,0,38,0,0,0,0.0,0.0,0.0,0,0,29,38,76.3,1,21,1,0,0,Empoli,2023-06-03 Empoli-Lazio,ITA-SERIA_A,22-23,d0e9b4c5
+dd86e8e4,Liberato Cacace,3,NZL,LB,22-249,90,0,0,0,0,1,0,0,0,77,3,0,5,0.0,0.0,0.1,2,0,52,62,83.9,3,35,0,4,1,Empoli,2023-06-03 Empoli-Lazio,ITA-SERIA_A,22-23,d0e9b4c5
+997fff07,Sebastiano Luperto,33,ITA,CB,26-270,90,0,0,0,0,0,0,0,0,100,0,1,1,0.0,0.0,0.0,1,0,86,91,94.5,0,81,0,0,0,Empoli,2023-06-03 Empoli-Lazio,ITA-SERIA_A,22-23,d0e9b4c5
+217875a4,Sebastian Walukiewicz,4,POL,CB,23-059,90,0,0,0,0,0,0,0,0,100,2,0,2,0.0,0.0,0.0,1,0,83,91,91.2,1,70,0,1,1,Empoli,2023-06-03 Empoli-Lazio,ITA-SERIA_A,22-23,d0e9b4c5
+13b44b02,Petar Stojanović,30,SVN,RB,27-239,90,0,0,0,0,0,0,0,0,68,2,0,2,0.0,0.0,0.1,3,0,50,57,87.7,2,37,3,4,1,Empoli,2023-06-03 Empoli-Lazio,ITA-SERIA_A,22-23,d0e9b4c5
+77d6fd4d,Guglielmo Vicario,13,ITA,GK,26-239,83,0,0,0,0,0,0,0,0,38,0,0,0,0.0,0.0,0.0,0,0,28,32,87.5,0,19,0,0,0,Empoli,2023-06-03 Empoli-Lazio,ITA-SERIA_A,22-23,d0e9b4c5
+96640846,Samir Ujkani,22,KVX,GK,34-333,7,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,3,3,100.0,0,2,0,0,0,Empoli,2023-06-03 Empoli-Lazio,ITA-SERIA_A,22-23,d0e9b4c5
+4431aed2,Ciro Immobile,17,ITA,FW,33-103,90,0,1,0,0,7,3,0,0,35,0,0,1,0.7,0.7,0.4,8,2,19,23,82.6,2,22,1,2,1,Lazio,2023-06-03 Empoli-Lazio,ITA-SERIA_A,22-23,d0e9b4c5
+3ca7254a,Pedro,9,ESP,LW,35-310,62,0,0,0,0,3,3,0,0,38,4,0,1,0.1,0.1,0.0,1,0,19,26,73.1,2,25,2,2,1,Lazio,2023-06-03 Empoli-Lazio,ITA-SERIA_A,22-23,d0e9b4c5
+d85c238b,Mattia Zaccagni,20,ITA,LW,27-352,28,0,0,0,0,2,1,0,0,23,1,0,1,0.2,0.2,0.0,3,1,12,16,75.0,1,20,3,0,0,Lazio,2023-06-03 Empoli-Lazio,ITA-SERIA_A,22-23,d0e9b4c5
+9f1893b9,Felipe Anderson,7,BRA,RW,30-049,90,0,0,0,0,0,0,0,0,68,4,3,4,0.0,0.0,0.1,4,0,43,55,78.2,3,44,2,3,3,Lazio,2023-06-03 Empoli-Lazio,ITA-SERIA_A,22-23,d0e9b4c5
+5294a83f,Luis Alberto,10,ESP,LM,30-248,90,1,1,0,0,2,2,0,0,84,4,0,3,0.1,0.1,0.5,8,1,62,71,87.3,10,57,0,2,1,Lazio,2023-06-03 Empoli-Lazio,ITA-SERIA_A,22-23,d0e9b4c5
+44ac04e9,Matías Vecino,5,URU,CM,31-283,70,0,0,0,0,2,0,1,0,41,1,0,1,0.1,0.1,0.1,3,0,33,33,100.0,3,18,0,1,0,Lazio,2023-06-03 Empoli-Lazio,ITA-SERIA_A,22-23,d0e9b4c5
+ba3d3bea,Danilo Cataldi,32,ITA,CM,28-301,20,0,0,0,0,0,0,0,0,11,1,0,0,0.0,0.0,0.0,1,0,10,10,100.0,1,7,0,0,0,Lazio,2023-06-03 Empoli-Lazio,ITA-SERIA_A,22-23,d0e9b4c5
+4e6dbac4,Sergej Milinković-Savić,21,SRB,RM,28-096,89,0,0,0,0,3,0,1,0,86,3,0,3,0.2,0.2,0.2,5,0,59,68,86.8,11,60,3,2,1,Lazio,2023-06-03 Empoli-Lazio,ITA-SERIA_A,22-23,d0e9b4c5
+4b520f96,Marco Bertini,50,ITA,RM,20-300,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Lazio,2023-06-03 Empoli-Lazio,ITA-SERIA_A,22-23,d0e9b4c5
+3b61c9ec,Luca Pellegrini,3,ITA,LB,24-088,90,0,0,0,0,0,0,0,0,83,1,4,2,0.0,0.0,0.0,3,0,58,69,84.1,3,48,0,3,1,Lazio,2023-06-03 Empoli-Lazio,ITA-SERIA_A,22-23,d0e9b4c5
+3ead85f9,Alessio Romagnoli,13,ITA,CB,28-142,70,1,0,0,0,1,1,0,0,43,1,1,2,0.2,0.2,0.0,0,0,33,35,94.3,1,28,0,0,0,Lazio,2023-06-03 Empoli-Lazio,ITA-SERIA_A,22-23,d0e9b4c5
+3f5f38fb,Nicolò Casale,15,ITA,CB,25-109,20,0,0,0,0,0,0,0,0,11,1,0,0,0.0,0.0,0.0,0,0,7,9,77.8,1,7,0,0,0,Lazio,2023-06-03 Empoli-Lazio,ITA-SERIA_A,22-23,d0e9b4c5
+f7223718,Patric,4,ESP,CB,30-047,90,0,0,0,0,1,1,0,0,99,2,1,0,0.1,0.1,0.0,0,0,85,92,92.4,4,80,0,0,0,Lazio,2023-06-03 Empoli-Lazio,ITA-SERIA_A,22-23,d0e9b4c5
+2f3452eb,Elseid Hysaj,23,ALB,RB,29-103,90,0,0,0,0,0,0,0,0,75,1,0,3,0.0,0.0,0.1,3,0,57,68,83.8,5,43,4,2,0,Lazio,2023-06-03 Empoli-Lazio,ITA-SERIA_A,22-23,d0e9b4c5
+277da414,Ivan Provedel,94,ITA,GK,29-078,90,0,0,0,0,0,0,0,0,30,0,0,0,0.0,0.0,0.0,0,0,27,29,93.1,0,22,0,0,0,Lazio,2023-06-03 Empoli-Lazio,ITA-SERIA_A,22-23,d0e9b4c5

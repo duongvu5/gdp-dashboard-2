@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+f175ca0a,Michiel Kramer,29,NED,FW,28-284,71,0,0,0,0,1,0,1,0,26,1,2,0,0.1,0.1,0.1,2,0,15,20,75.0,0,7,0,0,0,Feyenoord,2017-09-13 Feyenoord-Manchester City,UCL,17-18,7bff5ce6
+80b81359,Dylan Vente,34,NED,FW,18-127,19,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,1,0,3,5,60.0,0,1,0,0,0,Feyenoord,2017-09-13 Feyenoord-Manchester City,UCL,17-18,7bff5ce6
+635f2732,Jean-Paul Boëtius,7,NED,"AM,LW,RW",23-175,90,0,0,0,0,0,0,0,0,35,3,1,2,0.0,0.0,0.1,3,0,15,25,60.0,1,18,3,1,1,Feyenoord,2017-09-13 Feyenoord-Manchester City,UCL,17-18,7bff5ce6
+713c144a,Steven Berghuis,19,NED,AM,25-268,45,0,0,0,0,2,1,0,0,17,0,1,0,0.1,0.1,0.0,1,0,5,13,38.5,1,10,2,1,1,Feyenoord,2017-09-13 Feyenoord-Manchester City,UCL,17-18,7bff5ce6
+ade993b9,Jens Toornstra,28,NED,AM,28-162,45,0,0,0,0,2,0,0,0,18,0,0,3,0.1,0.1,0.0,2,0,8,14,57.1,1,9,1,0,0,Feyenoord,2017-09-13 Feyenoord-Manchester City,UCL,17-18,7bff5ce6
+c7069d87,Tonny Vilhena,10,NED,"DM,CM",22-253,90,0,0,0,0,1,0,1,0,30,1,1,1,0.0,0.0,0.0,2,0,18,24,75.0,1,9,0,0,0,Feyenoord,2017-09-13 Feyenoord-Manchester City,UCL,17-18,7bff5ce6
+0ff9eabc,Karim El Ahmadi,8,MAR,"DM,CM",32-229,90,0,0,0,0,2,0,0,0,41,3,0,5,0.1,0.1,0.0,0,0,22,27,81.5,0,16,0,0,0,Feyenoord,2017-09-13 Feyenoord-Manchester City,UCL,17-18,7bff5ce6
+10d8eff2,Miquel Nelom,18,NED,"LB,WB",26-356,90,0,0,0,0,0,0,0,0,35,2,1,1,0.0,0.0,0.0,1,0,20,27,74.1,1,19,0,1,0,Feyenoord,2017-09-13 Feyenoord-Manchester City,UCL,17-18,7bff5ce6
+5a2cb25d,Sofyan Amrabat,21,MAR,"WB,RW",21-023,77,0,0,0,0,0,0,0,0,45,1,4,3,0.0,0.0,0.0,3,0,26,35,74.3,3,24,2,4,4,Feyenoord,2017-09-13 Feyenoord-Manchester City,UCL,17-18,7bff5ce6
+32e73151,Sam Larsson,11,SWE,LW,24-156,13,0,0,0,0,0,0,0,0,9,1,0,1,0.0,0.0,0.0,0,0,3,6,50.0,0,4,0,2,1,Feyenoord,2017-09-13 Feyenoord-Manchester City,UCL,17-18,7bff5ce6
+d807c7f6,Jan-Arie van der Heijden,6,NED,CB,29-194,90,0,0,0,0,0,0,0,0,51,0,0,2,0.0,0.0,0.0,0,0,41,44,93.2,2,27,0,3,2,Feyenoord,2017-09-13 Feyenoord-Manchester City,UCL,17-18,7bff5ce6
+eef95b11,Eric Botteghin,33,BRA,CB,30-013,90,0,0,0,0,0,0,1,0,44,0,2,1,0.0,0.0,0.0,0,0,31,35,88.6,1,22,0,0,0,Feyenoord,2017-09-13 Feyenoord-Manchester City,UCL,17-18,7bff5ce6
+90339309,Jerry St. Juste,4,NED,"RB,CB",20-329,90,0,0,0,0,0,0,1,0,59,3,1,2,0.0,0.0,0.0,0,0,38,47,80.9,1,24,0,1,1,Feyenoord,2017-09-13 Feyenoord-Manchester City,UCL,17-18,7bff5ce6
+ffc1c226,Brad Jones,25,AUS,GK,35-178,90,0,0,0,0,0,0,0,0,42,0,0,0,0.0,0.0,0.0,0,0,25,38,65.8,0,21,0,1,1,Feyenoord,2017-09-13 Feyenoord-Manchester City,UCL,17-18,7bff5ce6
+4d034881,Sergio Agüero,10,ARG,FW,29-103,59,1,0,0,0,4,2,0,0,27,1,1,0,0.3,0.3,0.0,1,0,14,19,73.7,2,19,2,0,0,Manchester City,2017-09-13 Feyenoord-Manchester City,UCL,17-18,7bff5ce6
+b400bde0,Raheem Sterling,7,ENG,"RM,LM",22-279,31,0,0,0,0,0,0,0,0,26,1,0,0,0.0,0.0,0.0,0,0,22,25,88.0,0,19,2,1,1,Manchester City,2017-09-13 Feyenoord-Manchester City,UCL,17-18,7bff5ce6
+b66315ae,Gabriel Jesus,33,BRA,"LW,FW",20-163,90,1,0,0,0,2,1,0,0,30,0,0,2,0.4,0.4,0.0,1,0,19,24,79.2,3,23,1,0,0,Manchester City,2017-09-13 Feyenoord-Manchester City,UCL,17-18,7bff5ce6
+3eb22ec9,Bernardo Silva,20,POR,"RW,CM,RM",23-034,90,0,0,0,0,1,1,0,0,74,1,1,2,0.0,0.0,0.1,4,1,57,66,86.4,6,58,3,2,1,Manchester City,2017-09-13 Feyenoord-Manchester City,UCL,17-18,7bff5ce6
+e2716bd0,David Silva,21,ESP,"LM,CM",31-248,66,0,1,0,0,0,0,0,0,76,1,0,0,0.0,0.0,0.1,3,2,62,72,86.1,6,48,3,1,1,Manchester City,2017-09-13 Feyenoord-Manchester City,UCL,17-18,7bff5ce6
+111c3236,Fabian Delph,18,ENG,"DM,CM",27-296,24,0,0,0,0,0,0,0,0,38,0,0,1,0.0,0.0,0.0,0,0,33,35,94.3,1,30,0,0,0,Manchester City,2017-09-13 Feyenoord-Manchester City,UCL,17-18,7bff5ce6
+101da2b5,Fernandinho,25,BRA,"CM,DM",32-132,71,0,0,0,0,0,0,0,0,76,1,1,0,0.0,0.0,0.0,0,0,62,68,91.2,12,53,0,0,0,Manchester City,2017-09-13 Feyenoord-Manchester City,UCL,17-18,7bff5ce6
+2b114be3,Leroy Sané,19,GER,"LM,DM",21-245,19,0,0,0,0,0,0,0,0,19,0,0,2,0.0,0.0,0.0,1,0,7,14,50.0,0,13,0,2,1,Manchester City,2017-09-13 Feyenoord-Manchester City,UCL,17-18,7bff5ce6
+e46012d4,Kevin De Bruyne,17,BEL,"RM,CM",26-077,90,0,1,0,0,1,0,1,0,124,2,1,1,0.0,0.0,0.5,5,2,100,116,86.2,15,97,6,3,3,Manchester City,2017-09-13 Feyenoord-Manchester City,UCL,17-18,7bff5ce6
+5271c8f1,Benjamin Mendy,22,FRA,LB,23-058,90,0,0,0,0,1,1,0,0,82,0,0,0,0.0,0.0,0.0,2,1,57,77,74.0,2,52,2,1,1,Manchester City,2017-09-13 Feyenoord-Manchester City,UCL,17-18,7bff5ce6
+0d267745,Nicolás Otamendi,30,ARG,CB,29-213,90,0,0,0,0,0,0,0,0,121,1,1,0,0.0,0.0,0.0,0,0,113,116,97.4,2,98,0,0,0,Manchester City,2017-09-13 Feyenoord-Manchester City,UCL,17-18,7bff5ce6
+5eecec3d,John Stones,5,ENG,CB,23-108,90,2,0,0,0,2,2,0,0,147,1,1,3,0.5,0.5,0.0,0,0,131,134,97.8,9,110,1,0,0,Manchester City,2017-09-13 Feyenoord-Manchester City,UCL,17-18,7bff5ce6
+86dd77d1,Kyle Walker,2,ENG,RB,27-108,90,0,1,0,0,0,0,0,0,108,1,3,1,0.0,0.0,0.1,3,1,89,96,92.7,8,74,5,1,0,Manchester City,2017-09-13 Feyenoord-Manchester City,UCL,17-18,7bff5ce6
+3bb7b8b4,Ederson,31,BRA,GK,24-027,90,0,0,0,0,0,0,0,0,36,0,0,0,0.0,0.0,0.0,0,0,36,36,100.0,0,28,0,0,0,Manchester City,2017-09-13 Feyenoord-Manchester City,UCL,17-18,7bff5ce6

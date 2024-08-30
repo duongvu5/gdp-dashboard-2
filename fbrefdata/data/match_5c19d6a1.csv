@@ -1,0 +1,31 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+85613cf0,Arkadiusz Milik,14,POL,FW,28-251,72,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,3,5,60.0,0,4,0,0,0,Juventus,2022-11-06 Juventus-Inter,ITA-SERIA_A,22-23,5c19d6a1
+b0f7e36c,Federico Chiesa,7,ITA,FW,25-012,18,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,0,0,8,9,88.9,0,3,0,1,0,Juventus,2022-11-06 Juventus-Inter,ITA-SERIA_A,22-23,5c19d6a1
+34693494,Fabio Miretti,20,ITA,FW,19-095,80,0,0,0,0,0,0,0,0,41,0,0,1,0.0,0.0,0.0,4,0,26,33,78.8,3,21,1,2,2,Juventus,2022-11-06 Juventus-Inter,ITA-SERIA_A,22-23,5c19d6a1
+19cda00b,Ángel Di María,22,ARG,FW,34-265,10,0,0,0,0,0,0,0,0,17,1,0,0,0.0,0.0,0.0,1,1,13,15,86.7,1,10,1,0,0,Juventus,2022-11-06 Juventus-Inter,ITA-SERIA_A,22-23,5c19d6a1
+8794e251,Adrien Rabiot,25,FRA,DM,27-217,90,1,0,0,0,2,1,0,0,59,6,1,0,0.3,0.3,0.0,1,0,33,44,75.0,1,27,2,2,0,Juventus,2022-11-06 Juventus-Inter,ITA-SERIA_A,22-23,5c19d6a1
+a8a874f1,Manuel Locatelli,5,ITA,DM,24-302,90,0,0,0,0,0,0,0,0,65,1,2,0,0.0,0.0,0.0,1,0,47,57,82.5,2,29,1,1,0,Juventus,2022-11-06 Juventus-Inter,ITA-SERIA_A,22-23,5c19d6a1
+366be751,Nicolò Fagioli,44,ITA,DM,21-267,90,1,0,0,0,1,1,0,0,39,1,2,1,0.2,0.2,0.1,2,0,27,29,93.1,3,23,0,1,0,Juventus,2022-11-06 Juventus-Inter,ITA-SERIA_A,22-23,5c19d6a1
+b1cd37e6,Filip Kostić,17,SRB,WB,30-005,90,0,2,0,0,2,1,0,0,50,0,0,1,0.1,0.1,0.8,3,2,31,41,75.6,3,25,6,1,1,Juventus,2022-11-06 Juventus-Inter,ITA-SERIA_A,22-23,5c19d6a1
+0ab1f153,Juan Cuadrado,11,COL,WB,34-164,90,0,0,0,0,1,0,0,0,59,1,0,0,0.0,0.0,0.0,1,0,46,53,86.8,2,39,2,1,0,Juventus,2022-11-06 Juventus-Inter,ITA-SERIA_A,22-23,5c19d6a1
+0d82903c,Alex Sandro,12,BRA,CB,31-284,90,0,0,0,0,0,0,0,0,77,0,0,3,0.0,0.0,0.0,0,0,58,67,86.6,5,43,4,1,0,Juventus,2022-11-06 Juventus-Inter,ITA-SERIA_A,22-23,5c19d6a1
+5fd5ed86,Gleison Bremer,3,BRA,CB,25-233,90,0,0,0,0,2,0,0,0,69,2,3,1,0.3,0.3,0.0,0,0,43,52,82.7,0,26,0,0,0,Juventus,2022-11-06 Juventus-Inter,ITA-SERIA_A,22-23,5c19d6a1
+94b2001f,Danilo,6,BRA,CB,31-114,90,0,0,0,0,0,0,1,0,72,0,2,1,0.0,0.0,0.0,1,0,54,59,91.5,3,38,0,0,0,Juventus,2022-11-06 Juventus-Inter,ITA-SERIA_A,22-23,5c19d6a1
+01b8a2b2,Wojciech Szczęsny,1,POL,GK,32-202,90,0,0,0,0,0,0,0,0,38,0,0,0,0.0,0.0,0.0,0,0,19,34,55.9,0,22,0,0,0,Juventus,2022-11-06 Juventus-Inter,ITA-SERIA_A,22-23,5c19d6a1
+3bb7f478,Edin Džeko,9,BIH,FW,36-234,90,0,0,0,0,2,0,1,0,38,0,0,0,0.4,0.4,0.0,2,0,19,28,67.9,4,24,4,0,0,Internazionale,2022-11-06 Juventus-Inter,ITA-SERIA_A,22-23,5c19d6a1
+f7036e1c,Lautaro Martínez,10,ARG,"FW,RW",25-076,90,0,0,0,0,2,1,0,0,41,0,1,0,0.2,0.2,0.3,5,0,24,30,80.0,6,23,3,5,2,Internazionale,2022-11-06 Juventus-Inter,ITA-SERIA_A,22-23,5c19d6a1
+dd0daf32,Henrikh Mkhitaryan,22,ARM,CM,33-289,80,0,0,0,0,0,0,0,0,52,4,0,1,0.0,0.0,0.0,1,0,42,45,93.3,6,28,2,1,1,Internazionale,2022-11-06 Juventus-Inter,ITA-SERIA_A,22-23,5c19d6a1
+33b8d077,Marcelo Brozović,77,CRO,CM,29-355,10,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,7,9,77.8,0,1,0,0,0,Internazionale,2022-11-06 Juventus-Inter,ITA-SERIA_A,22-23,5c19d6a1
+cd0fa27b,Hakan Çalhanoğlu,20,TUR,CM,28-271,72,0,0,0,0,3,2,1,0,48,1,2,1,0.1,0.1,0.0,2,0,30,37,81.1,3,22,1,0,0,Internazionale,2022-11-06 Juventus-Inter,ITA-SERIA_A,22-23,5c19d6a1
+45b9b619,Joaquín Correa,11,ARG,LW,28-085,18,0,0,0,0,1,0,0,0,14,0,0,0,0.0,0.0,0.1,2,0,9,9,100.0,2,9,1,2,0,Internazionale,2022-11-06 Juventus-Inter,ITA-SERIA_A,22-23,5c19d6a1
+6928979a,Nicolò Barella,23,ITA,CM,25-272,90,0,0,0,0,1,0,0,0,88,0,0,0,0.0,0.0,0.4,3,0,67,83,80.7,7,66,3,2,1,Internazionale,2022-11-06 Juventus-Inter,ITA-SERIA_A,22-23,5c19d6a1
+970b8574,Federico Dimarco,32,ITA,WB,24-361,72,0,0,0,0,1,0,0,0,51,1,0,0,0.0,0.0,0.0,3,0,35,46,76.1,4,28,2,2,0,Internazionale,2022-11-06 Juventus-Inter,ITA-SERIA_A,22-23,5c19d6a1
+2d970560,Robin Gosens,8,GER,LM,28-124,18,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.1,1,0,7,8,87.5,0,5,0,0,0,Internazionale,2022-11-06 Juventus-Inter,ITA-SERIA_A,22-23,5c19d6a1
+481c9ece,Denzel Dumfries,2,NED,"WB,RM",26-202,81,0,0,0,0,2,1,0,0,43,1,1,3,0.4,0.4,0.0,1,0,21,32,65.6,1,25,1,1,1,Internazionale,2022-11-06 Juventus-Inter,ITA-SERIA_A,22-23,5c19d6a1
+e3756e72,Raoul Bellanova,12,ITA,RM,22-173,9,0,0,0,0,0,0,0,0,4,0,0,1,0.0,0.0,0.0,0,0,1,2,50.0,0,1,0,0,0,Internazionale,2022-11-06 Juventus-Inter,ITA-SERIA_A,22-23,5c19d6a1
+b96b595c,Francesco Acerbi,15,ITA,CB,34-269,90,0,0,0,0,1,0,0,0,68,2,2,1,0.0,0.0,0.0,0,0,51,59,86.4,1,45,2,0,0,Internazionale,2022-11-06 Juventus-Inter,ITA-SERIA_A,22-23,5c19d6a1
+d0d8dd44,Stefan de Vrij,6,NED,CB,30-274,90,0,0,0,0,1,0,0,0,59,1,4,0,0.0,0.0,0.0,0,0,47,51,92.2,0,35,0,0,0,Internazionale,2022-11-06 Juventus-Inter,ITA-SERIA_A,22-23,5c19d6a1
+30f5ffa9,Milan Škriniar,37,SVK,CB,27-268,81,0,0,0,0,0,0,1,0,100,0,0,0,0.0,0.0,0.0,1,0,87,97,89.7,11,80,0,0,0,Internazionale,2022-11-06 Juventus-Inter,ITA-SERIA_A,22-23,5c19d6a1
+96e0490d,Matteo Darmian,36,ITA,CB,32-339,9,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,0,0,5,10,50.0,0,4,0,0,0,Internazionale,2022-11-06 Juventus-Inter,ITA-SERIA_A,22-23,5c19d6a1
+e9c0c1b2,André Onana,24,CMR,GK,26-218,90,0,0,0,0,0,0,0,0,27,0,0,0,0.0,0.0,0.0,0,0,20,26,76.9,1,17,0,0,0,Internazionale,2022-11-06 Juventus-Inter,ITA-SERIA_A,22-23,5c19d6a1

@@ -1,0 +1,32 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+d70ce98e,Lionel Messi,10,ARG,"FW,LW",33-326,90,1,0,0,0,8,2,0,0,87,2,1,1,0.8,0.8,0.5,11,0,61,73,83.6,13,73,10,15,15,Barcelona,2021-05-16 Barcelona-Celta Vigo,ESP-LALIGA,20-21,da47580f
+df69b544,Antoine Griezmann,7,FRA,FW,30-056,69,0,0,0,0,2,1,0,0,47,3,0,3,0.5,0.5,0.1,2,0,35,38,92.1,3,28,1,1,0,Barcelona,2021-05-16 Barcelona-Celta Vigo,ESP-LALIGA,20-21,da47580f
+fd771f95,Martin Braithwaite,9,DEN,FW,29-345,21,0,0,0,0,1,0,0,0,6,0,0,0,0.5,0.5,0.0,0,0,2,2,100.0,0,5,0,0,0,Barcelona,2021-05-16 Barcelona-Celta Vigo,ESP-LALIGA,20-21,da47580f
+4601e194,Jordi Alba,18,ESP,"LW,LB",32-056,90,0,0,0,0,1,0,0,0,100,0,1,3,0.1,0.1,0.6,3,0,81,93,87.1,5,78,2,0,0,Barcelona,2021-05-16 Barcelona-Celta Vigo,ESP-LALIGA,20-21,da47580f
+b19db005,Ousmane Dembélé,11,FRA,RW,24-001,69,0,0,0,0,2,1,0,0,63,0,0,1,0.1,0.1,0.2,4,0,42,50,84.0,1,47,7,8,5,Barcelona,2021-05-16 Barcelona-Celta Vigo,ESP-LALIGA,20-21,da47580f
+77e39b04,Francisco Trincão,17,POR,RW,21-138,21,0,0,0,0,0,0,0,0,16,0,0,0,0.0,0.0,0.0,1,0,12,14,85.7,0,17,1,3,1,Barcelona,2021-05-16 Barcelona-Celta Vigo,ESP-LALIGA,20-21,da47580f
+0d9b2d31,Pedri,16,ESP,CM,18-172,45,0,0,0,0,1,0,0,0,29,0,0,0,0.0,0.0,0.0,2,0,18,24,75.0,2,22,1,2,2,Barcelona,2021-05-16 Barcelona-Celta Vigo,ESP-LALIGA,20-21,da47580f
+f090a37a,Riqui Puig,12,ESP,"LM,CM",21-276,45,0,0,0,0,0,0,1,0,34,2,0,0,0.0,0.0,0.0,2,0,26,28,92.9,3,27,0,3,2,Barcelona,2021-05-16 Barcelona-Celta Vigo,ESP-LALIGA,20-21,da47580f
+f4c69aa6,Ilaix Moriba,27,GUI,"CM,RM",18-117,85,0,0,0,0,2,0,0,0,73,0,1,3,0.1,0.1,0.1,4,0,57,63,90.5,4,54,1,6,5,Barcelona,2021-05-16 Barcelona-Celta Vigo,ESP-LALIGA,20-21,da47580f
+ad6df2d5,Miralem Pjanić,8,BIH,RM,31-044,5,0,0,0,0,0,0,0,0,14,0,1,0,0.0,0.0,0.1,2,0,12,13,92.3,3,10,1,0,0,Barcelona,2021-05-16 Barcelona-Celta Vigo,ESP-LALIGA,20-21,da47580f
+5ab0ea87,Sergio Busquets,5,ESP,"DM,CM",32-304,90,0,1,0,0,0,0,0,0,103,5,3,1,0.0,0.0,0.3,4,1,82,92,89.1,16,86,1,0,0,Barcelona,2021-05-16 Barcelona-Celta Vigo,ESP-LALIGA,20-21,da47580f
+4f28a6ff,Clément Lenglet,15,FRA,CB,25-333,82,0,0,0,0,0,0,2,1,87,0,1,2,0.0,0.0,0.0,1,1,80,85,94.1,9,74,2,0,0,Barcelona,2021-05-16 Barcelona-Celta Vigo,ESP-LALIGA,20-21,da47580f
+adfc9123,Gerard Piqué,3,ESP,CB,34-103,63,0,0,0,0,0,0,0,0,66,1,0,0,0.0,0.0,0.4,2,0,62,63,98.4,3,57,0,0,0,Barcelona,2021-05-16 Barcelona-Celta Vigo,ESP-LALIGA,20-21,da47580f
+5976f83e,Sergiño Dest,2,USA,RB,20-194,27,0,0,0,0,1,0,0,0,25,1,0,0,0.0,0.0,0.0,2,0,19,20,95.0,2,19,2,2,1,Barcelona,2021-05-16 Barcelona-Celta Vigo,ESP-LALIGA,20-21,da47580f
+2bef2bca,Ronald Araújo,4,URU,CB,22-070,90,0,0,0,0,3,0,0,0,85,1,1,1,0.4,0.4,0.0,0,0,72,79,91.1,4,69,3,2,2,Barcelona,2021-05-16 Barcelona-Celta Vigo,ESP-LALIGA,20-21,da47580f
+6f51e382,Marc-André ter Stegen,1,GER,GK,29-016,90,0,0,0,0,0,0,0,0,36,0,0,0,0.0,0.0,0.0,0,0,31,35,88.6,0,30,0,0,0,Barcelona,2021-05-16 Barcelona-Celta Vigo,ESP-LALIGA,20-21,da47580f
+0b90bb97,Santi Mina,22,ESP,FW,25-160,90,2,0,0,0,2,2,0,0,47,1,0,0,0.1,0.1,0.0,2,0,22,32,68.8,4,28,0,1,0,Celta Vigo,2021-05-16 Barcelona-Celta Vigo,ESP-LALIGA,20-21,da47580f
+7dcf86f6,Iago Aspas,10,ESP,FW,33-288,77,0,1,0,0,0,0,0,0,37,0,0,1,0.0,0.0,0.0,1,1,28,31,90.3,3,30,1,0,0,Celta Vigo,2021-05-16 Barcelona-Celta Vigo,ESP-LALIGA,20-21,da47580f
+a98f3cbf,Miguel Baeza,27,ESP,FW,21-050,13,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,1,0,0,0,Celta Vigo,2021-05-16 Barcelona-Celta Vigo,ESP-LALIGA,20-21,da47580f
+b2d0ec1b,Nolito,9,ESP,LM,34-213,68,0,0,0,0,0,0,0,0,41,5,0,1,0.0,0.0,0.0,0,0,23,30,76.7,1,29,0,1,0,Celta Vigo,2021-05-16 Barcelona-Celta Vigo,ESP-LALIGA,20-21,da47580f
+3ca6106c,Augusto Solari,21,ARG,LM,29-133,22,0,0,0,0,1,1,0,0,19,2,1,0,0.5,0.5,0.0,1,1,9,12,75.0,1,13,1,0,0,Celta Vigo,2021-05-16 Barcelona-Celta Vigo,ESP-LALIGA,20-21,da47580f
+12c50af5,Denis Suárez,6,ESP,CM,27-130,90,0,0,0,0,1,1,0,0,59,3,3,0,0.1,0.1,0.5,1,0,32,47,68.1,2,32,0,0,0,Celta Vigo,2021-05-16 Barcelona-Celta Vigo,ESP-LALIGA,20-21,da47580f
+ed5c5fa3,Fran Beltrán,8,ESP,CM,22-102,89,0,0,0,0,0,0,0,0,55,3,3,1,0.0,0.0,0.0,0,0,41,44,93.2,0,37,0,0,0,Celta Vigo,2021-05-16 Barcelona-Celta Vigo,ESP-LALIGA,20-21,da47580f
+3aa74860,Hugo Sotelo,44,ESP,CM,17-148,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Celta Vigo,2021-05-16 Barcelona-Celta Vigo,ESP-LALIGA,20-21,da47580f
+c9e39d91,Brais Méndez,23,ESP,RM,24-129,90,0,0,0,0,0,0,1,0,61,4,1,1,0.0,0.0,0.1,2,1,39,45,86.7,4,48,0,2,0,Celta Vigo,2021-05-16 Barcelona-Celta Vigo,ESP-LALIGA,20-21,da47580f
+2f3e911a,Aarón Martín,19,ESP,LB,24-024,90,0,0,0,0,0,0,0,0,34,3,0,0,0.0,0.0,0.0,0,0,23,30,76.7,1,16,0,0,0,Celta Vigo,2021-05-16 Barcelona-Celta Vigo,ESP-LALIGA,20-21,da47580f
+3521abfe,Carlos Dominguez,40,ESP,CB,20-094,90,0,0,0,0,0,0,1,0,47,1,5,2,0.0,0.0,0.0,0,0,23,33,69.7,0,33,0,0,0,Celta Vigo,2021-05-16 Barcelona-Celta Vigo,ESP-LALIGA,20-21,da47580f
+27a013f7,Néstor Araujo,4,MEX,CB,29-260,90,0,0,0,0,0,0,0,0,57,2,0,2,0.0,0.0,0.0,0,0,42,46,91.3,2,37,0,0,0,Celta Vigo,2021-05-16 Barcelona-Celta Vigo,ESP-LALIGA,20-21,da47580f
+ee923664,Kevin Vázquez,20,ESP,RB,28-054,90,0,0,0,0,0,0,0,0,61,1,2,1,0.0,0.0,0.0,1,1,40,52,76.9,2,37,1,0,0,Celta Vigo,2021-05-16 Barcelona-Celta Vigo,ESP-LALIGA,20-21,da47580f
+cde52ef5,Iván Villar,1,ESP,GK,23-311,90,0,0,0,0,0,0,0,0,41,0,0,0,0.0,0.0,0.0,0,0,28,38,73.7,0,19,0,0,0,Celta Vigo,2021-05-16 Barcelona-Celta Vigo,ESP-LALIGA,20-21,da47580f

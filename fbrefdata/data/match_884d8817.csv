@@ -1,0 +1,31 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+70d74ece,Karim Benzema,9,FRA,FW,33-042,81,0,0,0,0,2,1,0,0,32,0,0,0,0.7,0.7,0.0,2,1,19,23,82.6,1,19,4,5,2,Real Madrid,2021-01-30 Real Madrid-Levante,ESP-LALIGA,20-21,884d8817
+5c4dc0ff,Mariano,24,DOM,FW,27-182,9,0,0,0,0,2,0,0,0,6,0,0,0,0.0,0.0,0.0,1,0,2,3,66.7,0,5,0,1,1,Real Madrid,2021-01-30 Real Madrid-Levante,ESP-LALIGA,20-21,884d8817
+a39bb753,Eden Hazard,7,BEL,LW,30-023,59,0,0,0,0,0,0,0,0,30,0,0,0,0.0,0.0,0.4,2,0,24,27,88.9,1,22,3,1,1,Real Madrid,2021-01-30 Real Madrid-Levante,ESP-LALIGA,20-21,884d8817
+7111d552,Vinicius Júnior,20,BRA,LW,20-202,31,0,0,0,0,0,0,0,0,12,2,0,0,0.0,0.0,0.0,0,0,4,6,66.7,0,8,3,0,0,Real Madrid,2021-01-30 Real Madrid-Levante,ESP-LALIGA,20-21,884d8817
+45af8a54,Marco Asensio,11,ESP,RW,25-009,81,1,0,0,0,2,1,0,0,44,0,0,0,0.5,0.5,0.0,1,0,29,36,80.6,2,27,3,1,0,Real Madrid,2021-01-30 Real Madrid-Levante,ESP-LALIGA,20-21,884d8817
+1e465e70,Sergio Arribas,30,ESP,RW,19-122,9,0,0,0,0,0,0,0,0,6,1,0,0,0.0,0.0,0.0,0,0,3,5,60.0,0,4,0,0,0,Real Madrid,2021-01-30 Real Madrid-Levante,ESP-LALIGA,20-21,884d8817
+6ce1f46f,Toni Kroos,8,GER,LM,31-026,90,0,1,0,0,0,0,0,0,73,1,0,3,0.0,0.0,0.8,3,1,60,66,90.9,9,40,0,3,3,Real Madrid,2021-01-30 Real Madrid-Levante,ESP-LALIGA,20-21,884d8817
+4d224fe8,Casemiro,14,BRA,"CB,CM",28-342,90,0,0,0,0,0,0,1,0,65,7,1,4,0.0,0.0,0.0,1,0,42,54,77.8,6,36,0,1,1,Real Madrid,2021-01-30 Real Madrid-Levante,ESP-LALIGA,20-21,884d8817
+6025fab1,Luka Modrić,10,CRO,RM,35-143,90,0,0,0,0,1,0,0,0,74,2,2,0,0.0,0.0,0.0,2,0,54,66,81.8,9,52,7,5,5,Real Madrid,2021-01-30 Real Madrid-Levante,ESP-LALIGA,20-21,884d8817
+3cefcaef,Ferland Mendy,23,FRA,LB,25-236,90,0,0,0,0,0,0,0,0,46,2,1,0,0.0,0.0,0.0,0,0,33,38,86.8,0,29,3,1,1,Real Madrid,2021-01-30 Real Madrid-Levante,ESP-LALIGA,20-21,884d8817
+9f8e9423,Raphaël Varane,5,FRA,CB,27-280,90,0,0,0,0,1,0,0,0,53,0,0,1,0.1,0.1,0.0,0,0,42,46,91.3,1,30,0,0,0,Real Madrid,2021-01-30 Real Madrid-Levante,ESP-LALIGA,20-21,884d8817
+2784f898,Éder Militão,3,BRA,CB,23-012,8,0,0,0,0,0,0,0,1,9,0,0,0,0.0,0.0,0.0,0,0,8,9,88.9,0,8,0,0,0,Real Madrid,2021-01-30 Real Madrid-Levante,ESP-LALIGA,20-21,884d8817
+1d1691ad,Álvaro Odriozola,19,ESP,RB,25-047,90,0,0,0,0,0,0,0,0,48,3,1,0,0.0,0.0,0.0,0,0,36,40,90.0,1,25,3,2,0,Real Madrid,2021-01-30 Real Madrid-Levante,ESP-LALIGA,20-21,884d8817
+1840e36d,Thibaut Courtois,1,BEL,GK,28-264,90,0,0,0,0,0,0,0,0,36,0,0,0,0.0,0.0,0.0,1,0,20,29,69.0,0,14,0,0,0,Real Madrid,2021-01-30 Real Madrid-Levante,ESP-LALIGA,20-21,884d8817
+0ae4e09a,Roger Martí,9,ESP,FW,30-027,82,1,0,0,1,5,3,0,0,34,1,0,2,1.1,0.3,0.1,1,0,17,21,81.0,1,16,1,2,1,Levante,2021-01-30 Real Madrid-Levante,ESP-LALIGA,20-21,884d8817
+c67cd65c,Rúben Vezo,14,POR,CB,26-280,8,0,0,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.0,0,0,7,8,87.5,0,7,0,0,0,Levante,2021-01-30 Real Madrid-Levante,ESP-LALIGA,20-21,884d8817
+0a0cc13c,Sergio León,7,ESP,FW,32-024,59,0,0,0,0,1,1,0,0,16,0,0,0,0.1,0.1,0.0,1,0,4,10,40.0,0,12,0,2,0,Levante,2021-01-30 Real Madrid-Levante,ESP-LALIGA,20-21,884d8817
+cac2537b,Enis Bardhi,10,MKD,FW,25-212,31,0,1,0,0,1,0,0,0,22,3,1,0,0.1,0.1,0.1,2,1,11,13,84.6,2,11,1,2,1,Levante,2021-01-30 Real Madrid-Levante,ESP-LALIGA,20-21,884d8817
+4a478107,José Luis Morales,11,ESP,LM,33-191,75,1,0,0,0,3,2,0,0,45,0,0,0,0.3,0.3,0.0,1,0,23,38,60.5,3,25,4,1,0,Levante,2021-01-30 Real Madrid-Levante,ESP-LALIGA,20-21,884d8817
+0e5ddc7c,Dani Gómez,21,ESP,"FW,LM",22-184,15,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,4,4,100.0,1,6,0,1,0,Levante,2021-01-30 Real Madrid-Levante,ESP-LALIGA,20-21,884d8817
+bbc19252,Mickael Malsa,12,MTQ,CM,25-110,59,0,0,0,0,0,0,1,0,43,3,0,1,0.0,0.0,0.0,1,0,39,40,97.5,6,29,1,0,0,Levante,2021-01-30 Real Madrid-Levante,ESP-LALIGA,20-21,884d8817
+ecd8c01e,Rubén Rochina,16,ESP,CM,29-313,31,0,0,0,0,1,1,0,0,25,0,0,2,0.0,0.0,0.0,4,1,20,21,95.2,4,18,0,0,0,Levante,2021-01-30 Real Madrid-Levante,ESP-LALIGA,20-21,884d8817
+b5dd3469,Nemanja Radoja,5,SRB,CM,27-359,90,0,0,0,0,0,0,0,0,61,0,1,1,0.0,0.0,0.0,0,0,51,57,89.5,11,44,3,3,3,Levante,2021-01-30 Real Madrid-Levante,ESP-LALIGA,20-21,884d8817
+3902e91b,Gonzalo Melero,22,ESP,"RM,CM",27-028,90,0,0,0,0,1,0,1,0,61,1,0,0,0.0,0.0,0.1,3,1,53,55,96.4,7,41,2,0,0,Levante,2021-01-30 Real Madrid-Levante,ESP-LALIGA,20-21,884d8817
+33a61a52,Carlos Clerc,19,ESP,LB,28-344,90,0,0,0,0,0,0,0,0,65,0,2,2,0.0,0.0,0.2,5,0,49,58,84.5,4,39,6,3,3,Levante,2021-01-30 Real Madrid-Levante,ESP-LALIGA,20-21,884d8817
+aa0ac32d,Óscar Duarte,6,CRC,CB,31-241,90,0,0,0,0,0,0,0,0,50,1,0,0,0.0,0.0,0.1,2,0,43,47,91.5,3,35,0,0,0,Levante,2021-01-30 Real Madrid-Levante,ESP-LALIGA,20-21,884d8817
+474ecac8,Sergio Postigo,15,ESP,CB,32-087,90,0,0,0,0,1,0,0,0,52,3,0,2,0.1,0.1,0.0,2,0,39,43,90.7,5,31,0,0,0,Levante,2021-01-30 Real Madrid-Levante,ESP-LALIGA,20-21,884d8817
+7f4c7c9f,Jorge Miramón,20,ESP,RB,31-242,90,0,1,0,0,0,0,0,0,75,4,0,1,0.0,0.0,0.3,5,1,57,63,90.5,4,44,2,2,0,Levante,2021-01-30 Real Madrid-Levante,ESP-LALIGA,20-21,884d8817
+a01c3d54,Aitor Fernández,13,ESP,GK,29-272,90,0,0,0,0,0,0,0,0,26,0,0,0,0.0,0.0,0.0,0,0,18,24,75.0,0,10,0,0,0,Levante,2021-01-30 Real Madrid-Levante,ESP-LALIGA,20-21,884d8817

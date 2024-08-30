@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+89b2c8a9,Dries Mertens,14,BEL,FW,30-179,90,0,1,0,0,3,2,1,0,27,1,1,0,0.1,0.1,0.9,4,1,14,18,77.8,4,15,2,3,1,Napoli,2017-11-01 Napoli-Manchester City,UCL,17-18,cdd83951
+2f557579,Lorenzo Insigne,24,ITA,LW,26-150,90,1,0,0,0,5,1,0,0,70,1,2,1,0.6,0.6,0.0,4,1,50,60,83.3,6,48,11,2,1,Napoli,2017-11-01 Napoli-Manchester City,UCL,17-18,cdd83951
+78841da9,José Callejón,7,ESP,RW,30-263,90,0,0,0,0,1,1,0,0,45,4,1,2,0.5,0.5,0.0,1,0,26,33,78.8,3,18,0,1,0,Napoli,2017-11-01 Napoli-Manchester City,UCL,17-18,cdd83951
+e6ad16b2,Marek Hamšík,17,SVK,LM,30-097,90,0,0,0,0,2,1,0,0,89,2,1,0,0.1,0.1,0.1,4,0,62,76,81.6,11,52,2,0,0,Napoli,2017-11-01 Napoli-Manchester City,UCL,17-18,cdd83951
+45db685d,Jorginho,8,ITA,CM,25-316,81,1,0,1,1,0,0,0,0,106,4,3,5,0.8,0.0,0.1,5,0,77,91,84.6,6,37,2,1,1,Napoli,2017-11-01 Napoli-Manchester City,UCL,17-18,cdd83951
+ed90babd,Adam Ounas,37,ALG,CM,20-355,9,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,4,1,1,1,Napoli,2017-11-01 Napoli-Manchester City,UCL,17-18,cdd83951
+cc700722,Allan,5,BRA,RM,26-297,74,0,0,0,0,0,0,0,0,46,0,0,1,0.0,0.0,0.0,0,0,29,38,76.3,0,24,1,2,0,Napoli,2017-11-01 Napoli-Manchester City,UCL,17-18,cdd83951
+b6b2b820,Marko Rog,30,CRO,RM,22-105,16,0,0,0,0,0,0,0,0,6,0,1,1,0.0,0.0,0.0,0,0,2,4,50.0,0,2,0,1,1,Napoli,2017-11-01 Napoli-Manchester City,UCL,17-18,cdd83951
+c5adc293,Faouzi Ghoulam,31,ALG,LB,26-273,30,0,0,0,0,0,0,0,0,31,0,0,1,0.0,0.0,0.0,1,0,24,29,82.8,3,18,1,3,3,Napoli,2017-11-01 Napoli-Manchester City,UCL,17-18,cdd83951
+31d7f557,Christian Maggio,11,ITA,"RB,LB",35-263,60,0,0,0,0,0,0,0,0,38,3,0,0,0.0,0.0,0.0,0,0,26,30,86.7,0,12,0,1,0,Napoli,2017-11-01 Napoli-Manchester City,UCL,17-18,cdd83951
+da974c7b,Kalidou Koulibaly,26,SEN,CB,26-134,90,0,0,0,0,0,0,1,0,77,3,2,4,0.0,0.0,0.0,0,0,56,63,88.9,3,37,0,0,0,Napoli,2017-11-01 Napoli-Manchester City,UCL,17-18,cdd83951
+4bd414c1,Raúl Albiol,33,ESP,CB,32-058,90,0,0,0,0,0,0,0,0,95,1,1,2,0.0,0.0,0.0,1,1,78,91,85.7,3,58,0,0,0,Napoli,2017-11-01 Napoli-Manchester City,UCL,17-18,cdd83951
+2f3452eb,Elseid Hysaj,23,ALB,"LB,RB",23-254,90,0,0,0,0,0,0,0,0,72,3,3,1,0.0,0.0,0.1,2,0,45,55,81.8,3,23,0,0,0,Napoli,2017-11-01 Napoli-Manchester City,UCL,17-18,cdd83951
+e358587b,Pepe Reina,25,ESP,GK,35-062,90,0,0,0,0,0,0,0,0,38,0,0,0,0.0,0.0,0.0,0,0,29,36,80.6,0,27,0,0,0,Napoli,2017-11-01 Napoli-Manchester City,UCL,17-18,cdd83951
+4d034881,Sergio Agüero,10,ARG,FW,29-152,75,1,0,0,0,5,1,0,0,24,1,2,2,0.6,0.6,0.0,3,0,9,13,69.2,0,13,2,1,1,Manchester City,2017-11-01 Napoli-Manchester City,UCL,17-18,cdd83951
+3eb22ec9,Bernardo Silva,20,POR,FW,23-083,15,0,0,0,0,2,1,0,0,12,0,0,0,0.1,0.1,0.0,0,0,8,10,80.0,1,10,1,2,2,Manchester City,2017-11-01 Napoli-Manchester City,UCL,17-18,cdd83951
+2b114be3,Leroy Sané,19,GER,LW,21-294,89,0,1,0,0,2,0,0,0,43,0,2,3,0.1,0.1,0.5,4,3,21,27,77.8,0,29,6,7,4,Manchester City,2017-11-01 Napoli-Manchester City,UCL,17-18,cdd83951
+b66315ae,Gabriel Jesus,33,BRA,LW,20-212,1,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,1,1,2,2,100.0,0,2,0,1,1,Manchester City,2017-11-01 Napoli-Manchester City,UCL,17-18,cdd83951
+b400bde0,Raheem Sterling,7,ENG,RW,22-328,90,1,0,0,0,3,1,0,0,55,1,3,2,0.3,0.3,0.2,5,0,29,35,82.9,4,36,6,10,8,Manchester City,2017-11-01 Napoli-Manchester City,UCL,17-18,cdd83951
+819b3158,İlkay Gündoğan,8,GER,LM,27-008,70,0,1,0,0,1,0,0,0,41,0,2,0,0.1,0.1,0.1,5,2,29,35,82.9,1,29,0,2,1,Manchester City,2017-11-01 Napoli-Manchester City,UCL,17-18,cdd83951
+e2716bd0,David Silva,21,ESP,RW,31-297,20,0,0,0,0,0,0,0,0,29,0,0,0,0.0,0.0,0.1,3,0,26,28,92.9,2,25,3,1,1,Manchester City,2017-11-01 Napoli-Manchester City,UCL,17-18,cdd83951
+101da2b5,Fernandinho,25,BRA,CM,32-181,90,0,0,0,0,0,0,0,0,89,3,1,2,0.0,0.0,0.1,4,0,70,78,89.7,3,66,2,1,1,Manchester City,2017-11-01 Napoli-Manchester City,UCL,17-18,cdd83951
+e46012d4,Kevin De Bruyne,17,BEL,RM,26-126,90,0,1,0,0,1,0,0,0,76,2,3,2,0.0,0.0,0.2,6,2,49,64,76.6,6,52,4,4,4,Manchester City,2017-11-01 Napoli-Manchester City,UCL,17-18,cdd83951
+111c3236,Fabian Delph,18,ENG,LB,27-345,90,0,0,0,0,0,0,0,0,90,4,2,0,0.0,0.0,0.0,0,0,71,79,89.9,3,70,0,2,2,Manchester City,2017-11-01 Napoli-Manchester City,UCL,17-18,cdd83951
+0d267745,Nicolás Otamendi,30,ARG,CB,29-262,90,1,0,0,0,1,1,1,0,99,1,2,1,0.1,0.1,0.0,0,0,77,87,88.5,1,77,0,1,1,Manchester City,2017-11-01 Napoli-Manchester City,UCL,17-18,cdd83951
+5eecec3d,John Stones,5,ENG,CB,23-157,90,1,0,0,0,2,1,0,0,87,1,1,1,0.1,0.1,0.0,0,0,67,74,90.5,2,54,0,1,1,Manchester City,2017-11-01 Napoli-Manchester City,UCL,17-18,cdd83951
+94b2001f,Danilo,3,BRA,RB,26-109,90,0,0,0,0,0,0,0,0,75,0,2,3,0.0,0.0,0.0,2,0,53,61,86.9,8,44,2,1,1,Manchester City,2017-11-01 Napoli-Manchester City,UCL,17-18,cdd83951
+3bb7b8b4,Ederson,31,BRA,GK,24-076,90,0,0,0,0,0,0,0,0,49,0,0,0,0.0,0.0,0.0,0,0,34,47,72.3,0,33,0,0,0,Manchester City,2017-11-01 Napoli-Manchester City,UCL,17-18,cdd83951

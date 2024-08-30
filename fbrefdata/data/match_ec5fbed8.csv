@@ -1,0 +1,31 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+ed1e53f3,Phil Foden,47,ENG,"FW,LW",20-071,66,0,0,0,0,2,0,0,0,32,0,1,0,0.1,0.1,0.0,3,0,19,26,73.1,1,24,2,1,0,Manchester City,2020-08-07 Manchester City-Real Madrid,UCL,19-20,ec5fbed8
+3eb22ec9,Bernardo Silva,20,POR,LW,25-363,24,0,0,0,0,1,0,0,0,24,2,0,1,0.1,0.1,0.0,4,0,20,20,100.0,1,18,0,1,1,Manchester City,2020-08-07 Manchester City-Real Madrid,UCL,19-20,ec5fbed8
+b66315ae,Gabriel Jesus,9,BRA,"FW,LW",23-126,90,1,1,0,0,4,2,0,0,53,1,1,0,0.4,0.4,0.5,2,2,32,42,76.2,0,28,1,0,0,Manchester City,2020-08-07 Manchester City-Real Madrid,UCL,19-20,ec5fbed8
+b400bde0,Raheem Sterling,7,ENG,RW,25-243,80,1,0,0,0,4,3,0,0,32,1,1,1,1.1,1.1,0.1,1,0,16,19,84.2,2,22,1,2,2,Manchester City,2020-08-07 Manchester City-Real Madrid,UCL,19-20,ec5fbed8
+e2716bd0,David Silva,21,ESP,RW,34-212,10,0,0,0,0,1,0,0,0,10,0,0,0,0.1,0.1,0.0,0,0,6,7,85.7,0,5,0,1,1,Manchester City,2020-08-07 Manchester City-Real Madrid,UCL,19-20,ec5fbed8
+819b3158,İlkay Gündoğan,8,GER,LM,29-288,90,0,0,0,0,1,0,0,0,70,2,1,2,0.1,0.1,0.6,4,0,60,63,95.2,13,34,4,2,2,Manchester City,2020-08-07 Manchester City-Real Madrid,UCL,19-20,ec5fbed8
+6434f10d,Rodri,16,ESP,CM,24-046,88,0,0,0,0,1,0,0,0,82,2,0,0,0.0,0.0,0.0,5,0,73,78,93.6,5,42,0,1,1,Manchester City,2020-08-07 Manchester City-Real Madrid,UCL,19-20,ec5fbed8
+0d267745,Nicolás Otamendi,30,ARG,CB,32-177,2,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,1,2,0,0,0,Manchester City,2020-08-07 Manchester City-Real Madrid,UCL,19-20,ec5fbed8
+e46012d4,Kevin De Bruyne,17,BEL,RM,29-040,90,0,0,0,0,3,0,0,0,66,2,0,0,0.1,0.1,0.4,11,0,46,60,76.7,7,38,4,0,0,Manchester City,2020-08-07 Manchester City-Real Madrid,UCL,19-20,ec5fbed8
+bd6351cd,João Cancelo,27,POR,LB,26-072,90,0,0,0,0,1,1,0,0,79,3,2,0,0.0,0.0,0.0,0,0,60,70,85.7,3,48,7,6,3,Manchester City,2020-08-07 Manchester City-Real Madrid,UCL,19-20,ec5fbed8
+119b9a8e,Aymeric Laporte,14,ESP,CB,26-072,90,0,0,0,0,0,0,0,0,69,1,2,1,0.0,0.0,0.0,0,0,60,64,93.8,2,48,0,0,0,Manchester City,2020-08-07 Manchester City-Real Madrid,UCL,19-20,ec5fbed8
+101da2b5,Fernandinho,25,BRA,"CB,CM",35-095,90,0,0,0,0,0,0,0,0,59,0,1,1,0.0,0.0,0.0,1,0,53,58,91.4,1,43,0,0,0,Manchester City,2020-08-07 Manchester City-Real Madrid,UCL,19-20,ec5fbed8
+86dd77d1,Kyle Walker,2,ENG,RB,30-071,90,0,0,0,0,2,1,0,0,94,2,1,0,0.1,0.1,0.0,3,0,74,87,85.1,6,51,1,2,2,Manchester City,2020-08-07 Manchester City-Real Madrid,UCL,19-20,ec5fbed8
+3bb7b8b4,Ederson,31,BRA,GK,26-356,90,0,0,0,0,0,0,0,0,45,0,0,0,0.0,0.0,0.0,0,0,28,43,65.1,0,27,0,0,0,Manchester City,2020-08-07 Manchester City-Real Madrid,UCL,19-20,ec5fbed8
+70d74ece,Karim Benzema,9,FRA,FW,32-232,90,1,0,0,0,5,3,0,0,35,0,0,1,0.6,0.6,0.1,3,0,21,25,84.0,1,15,2,2,1,Real Madrid,2020-08-07 Manchester City-Real Madrid,UCL,19-20,ec5fbed8
+a39bb753,Eden Hazard,7,BEL,LW,29-213,82,0,0,0,0,1,1,0,0,35,0,3,0,0.0,0.0,0.1,2,0,26,27,96.3,2,25,3,2,0,Real Madrid,2020-08-07 Manchester City-Real Madrid,UCL,19-20,ec5fbed8
+4d8cd038,Luka Jović,18,SRB,LW,22-228,8,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,4,5,80.0,1,2,0,0,0,Real Madrid,2020-08-07 Manchester City-Real Madrid,UCL,19-20,ec5fbed8
+8f5e92a6,Rodrygo,27,BRA,RW,19-211,60,0,1,0,0,0,0,0,0,17,1,0,0,0.0,0.0,0.4,4,2,8,12,66.7,0,10,2,3,1,Real Madrid,2020-08-07 Manchester City-Real Madrid,UCL,19-20,ec5fbed8
+45af8a54,Marco Asensio,20,ESP,RW,24-199,30,0,0,0,0,0,0,0,0,16,0,0,0,0.0,0.0,0.1,1,0,10,15,66.7,0,11,1,1,0,Real Madrid,2020-08-07 Manchester City-Real Madrid,UCL,19-20,ec5fbed8
+6ce1f46f,Toni Kroos,8,GER,LM,30-216,90,0,0,0,0,1,0,0,0,74,1,2,0,0.0,0.0,0.1,6,0,65,68,95.6,10,52,1,2,1,Real Madrid,2020-08-07 Manchester City-Real Madrid,UCL,19-20,ec5fbed8
+4d224fe8,Casemiro,14,BRA,CM,28-166,90,0,0,0,0,0,0,0,0,42,1,0,0,0.0,0.0,0.0,0,0,28,38,73.7,2,26,0,1,1,Real Madrid,2020-08-07 Manchester City-Real Madrid,UCL,19-20,ec5fbed8
+6025fab1,Luka Modrić,10,CRO,RM,34-333,82,0,0,0,0,2,0,1,0,64,1,2,0,0.1,0.1,0.0,0,0,46,55,83.6,3,46,0,1,0,Real Madrid,2020-08-07 Manchester City-Real Madrid,UCL,19-20,ec5fbed8
+0959c2a2,Federico Valverde,15,URU,RM,22-016,8,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Real Madrid,2020-08-07 Manchester City-Real Madrid,UCL,19-20,ec5fbed8
+3cefcaef,Ferland Mendy,23,FRA,LB,25-060,90,0,0,0,0,0,0,0,0,52,1,2,0,0.0,0.0,0.0,0,0,39,47,83.0,0,25,0,1,0,Real Madrid,2020-08-07 Manchester City-Real Madrid,UCL,19-20,ec5fbed8
+2784f898,Éder Militão,3,BRA,CB,22-202,90,0,0,0,0,0,0,0,0,69,4,2,6,0.0,0.0,0.0,0,0,45,51,88.2,1,31,0,2,2,Real Madrid,2020-08-07 Manchester City-Real Madrid,UCL,19-20,ec5fbed8
+9f8e9423,Raphaël Varane,5,FRA,CB,27-104,90,0,0,0,0,0,0,0,0,82,0,1,1,0.0,0.0,0.0,0,0,62,74,83.8,4,49,0,0,0,Real Madrid,2020-08-07 Manchester City-Real Madrid,UCL,19-20,ec5fbed8
+4958bfb2,Dani Carvajal,2,ESP,RB,28-209,82,0,0,0,0,0,0,0,0,70,2,1,1,0.0,0.0,0.0,2,0,46,57,80.7,2,34,4,0,0,Real Madrid,2020-08-07 Manchester City-Real Madrid,UCL,19-20,ec5fbed8
+fd51b456,Lucas Vázquez,17,ESP,RB,29-037,8,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,3,3,100.0,0,2,0,0,0,Real Madrid,2020-08-07 Manchester City-Real Madrid,UCL,19-20,ec5fbed8
+1840e36d,Thibaut Courtois,13,BEL,GK,28-088,90,0,0,0,0,0,0,0,0,60,0,0,0,0.0,0.0,0.0,0,0,42,53,79.2,0,35,0,0,0,Real Madrid,2020-08-07 Manchester City-Real Madrid,UCL,19-20,ec5fbed8

@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+32974271,Sergi Guardiola,12,ESP,"FW,RM",27-285,90,0,1,0,0,2,0,0,0,37,2,0,0,0.1,0.1,0.8,3,1,21,28,75.0,2,21,1,2,1,Valladolid,2019-03-10 Valladolid-Real Madrid,ESP-LALIGA,18-19,3bf9a086
+c93231dc,Anuar,23,MAR,FW,24-054,62,1,0,0,0,3,2,0,0,13,2,0,0,1.1,1.1,0.0,0,0,5,5,100.0,0,2,1,0,0,Valladolid,2019-03-10 Valladolid-Real Madrid,ESP-LALIGA,18-19,3bf9a086
+d3298c99,Daniele Verde,11,ITA,"LM,FW",22-263,28,0,0,0,0,2,0,0,0,19,1,0,0,0.1,0.1,0.1,2,0,7,13,53.8,0,8,1,3,2,Valladolid,2019-03-10 Valladolid-Real Madrid,ESP-LALIGA,18-19,3bf9a086
+7c388b20,Óscar Plano,10,ESP,"LM,RM",28-027,85,0,0,0,0,0,0,0,0,34,2,0,1,0.0,0.0,0.0,1,0,16,23,69.6,3,24,2,4,2,Valladolid,2019-03-10 Valladolid-Real Madrid,ESP-LALIGA,18-19,3bf9a086
+f8eca1b6,Enes Ünal,9,TUR,FW,21-304,5,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,3,0,1,0,Valladolid,2019-03-10 Valladolid-Real Madrid,ESP-LALIGA,18-19,3bf9a086
+036bba5f,Rubén Alcaraz,14,ESP,CM,27-313,90,0,0,0,1,0,0,0,0,59,1,0,2,0.8,0.0,0.0,1,0,43,54,79.6,7,36,1,2,2,Valladolid,2019-03-10 Valladolid-Real Madrid,ESP-LALIGA,18-19,3bf9a086
+418f8f61,Míchel,21,ESP,CM,30-224,90,0,0,0,0,0,0,0,0,58,4,0,1,0.0,0.0,0.3,4,0,39,49,79.6,9,33,0,0,0,Valladolid,2019-03-10 Valladolid-Real Madrid,ESP-LALIGA,18-19,3bf9a086
+1512328c,Keko,24,ESP,RM,27-073,72,0,0,0,0,1,0,0,0,27,3,0,1,0.0,0.0,0.0,2,1,10,15,66.7,0,11,0,5,2,Valladolid,2019-03-10 Valladolid-Real Madrid,ESP-LALIGA,18-19,3bf9a086
+8b0b02c9,Duje Čop,20,CRO,FW,29-037,18,0,0,0,0,1,0,0,0,3,0,0,0,0.1,0.1,0.0,0,0,0,1,0.0,0,1,0,0,0,Valladolid,2019-03-10 Valladolid-Real Madrid,ESP-LALIGA,18-19,3bf9a086
+e29d1111,Nacho,22,ESP,LB,30-003,90,0,0,0,0,0,0,1,0,56,3,1,1,0.0,0.0,0.1,2,0,32,45,71.1,5,27,2,2,1,Valladolid,2019-03-10 Valladolid-Real Madrid,ESP-LALIGA,18-19,3bf9a086
+41b3069f,Fernando Calero,5,ESP,CB,23-177,90,0,0,0,0,0,0,0,0,53,0,2,3,0.0,0.0,0.0,1,0,39,42,92.9,2,35,2,1,1,Valladolid,2019-03-10 Valladolid-Real Madrid,ESP-LALIGA,18-19,3bf9a086
+b86a64b2,Joaquín Fernández,2,ESP,CB,22-283,90,0,0,0,0,0,0,0,0,35,3,3,0,0.0,0.0,0.0,1,0,25,28,89.3,2,23,0,0,0,Valladolid,2019-03-10 Valladolid-Real Madrid,ESP-LALIGA,18-19,3bf9a086
+dbe519cf,Antoñito,18,ESP,RB,31-076,90,0,0,0,0,0,0,0,0,59,3,1,2,0.0,0.0,0.1,2,0,30,46,65.2,6,28,3,1,1,Valladolid,2019-03-10 Valladolid-Real Madrid,ESP-LALIGA,18-19,3bf9a086
+8fae77ea,Jordi Masip,1,ESP,GK,30-066,90,0,0,0,0,0,0,0,0,26,0,0,0,0.0,0.0,0.0,0,0,19,23,82.6,0,12,0,0,0,Valladolid,2019-03-10 Valladolid-Real Madrid,ESP-LALIGA,18-19,3bf9a086
+70d74ece,Karim Benzema,9,FRA,FW,31-081,90,2,1,1,1,3,1,0,0,51,1,0,0,1.2,0.5,0.4,4,1,38,41,92.7,5,37,2,3,1,Real Madrid,2019-03-10 Valladolid-Real Madrid,ESP-LALIGA,18-19,3bf9a086
+c0617e2b,Dani Ceballos,24,ESP,"LW,LM",22-215,90,0,0,0,0,2,1,0,0,87,0,2,0,0.5,0.5,0.1,5,2,70,73,95.9,14,71,3,7,0,Real Madrid,2019-03-10 Valladolid-Real Madrid,ESP-LALIGA,18-19,3bf9a086
+45af8a54,Marco Asensio,20,ESP,"RW,RM",23-048,90,0,0,0,0,1,0,0,0,66,1,2,0,0.0,0.0,0.5,2,0,51,58,87.9,7,49,4,1,1,Real Madrid,2019-03-10 Valladolid-Real Madrid,ESP-LALIGA,18-19,3bf9a086
+6ce1f46f,Toni Kroos,8,GER,LM,29-065,73,0,1,0,0,0,0,0,0,82,1,0,1,0.0,0.0,0.3,4,1,71,80,88.8,6,58,2,0,0,Real Madrid,2019-03-10 Valladolid-Real Madrid,ESP-LALIGA,18-19,3bf9a086
+0959c2a2,Federico Valverde,15,URU,"LM,CM",20-231,17,0,0,0,0,0,0,0,0,12,0,1,0,0.0,0.0,0.0,0,0,9,10,90.0,2,6,0,0,0,Real Madrid,2019-03-10 Valladolid-Real Madrid,ESP-LALIGA,18-19,3bf9a086
+4d224fe8,Casemiro,14,BRA,CM,27-015,79,0,0,0,0,4,1,2,1,57,1,1,1,0.2,0.2,0.0,2,1,37,44,84.1,3,38,0,2,2,Real Madrid,2019-03-10 Valladolid-Real Madrid,ESP-LALIGA,18-19,3bf9a086
+6025fab1,Luka Modrić,10,CRO,"RM,CM",33-182,90,1,0,0,0,1,1,0,0,92,1,1,1,0.4,0.4,0.0,4,1,71,83,85.5,8,72,5,7,6,Real Madrid,2019-03-10 Valladolid-Real Madrid,ESP-LALIGA,18-19,3bf9a086
+3353737a,Sergio Reguilón,23,ESP,LB,22-084,88,0,0,0,0,1,0,1,0,69,3,1,2,0.1,0.1,0.0,2,0,42,54,77.8,3,43,1,3,2,Real Madrid,2019-03-10 Valladolid-Real Madrid,ESP-LALIGA,18-19,3bf9a086
+603116a7,Marcelo,12,BRA,LB,30-302,2,0,0,0,0,0,0,1,0,7,1,0,0,0.0,0.0,0.0,0,0,4,4,100.0,0,5,0,1,1,Real Madrid,2019-03-10 Valladolid-Real Madrid,ESP-LALIGA,18-19,3bf9a086
+2946f9a1,Nacho,6,ESP,CB,29-051,90,0,1,0,0,0,0,0,0,37,1,1,0,0.0,0.0,0.6,0,0,23,25,92.0,2,14,0,0,0,Real Madrid,2019-03-10 Valladolid-Real Madrid,ESP-LALIGA,18-19,3bf9a086
+9f8e9423,Raphaël Varane,5,FRA,CB,25-319,87,1,0,0,0,2,1,0,0,47,0,0,1,0.6,0.6,0.0,0,0,38,40,95.0,3,25,2,1,1,Real Madrid,2019-03-10 Valladolid-Real Madrid,ESP-LALIGA,18-19,3bf9a086
+c2111b45,Jesús Vallejo,3,ESP,CB,22-064,3,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,1,0,0,0,Real Madrid,2019-03-10 Valladolid-Real Madrid,ESP-LALIGA,18-19,3bf9a086
+1d1691ad,Álvaro Odriozola,19,ESP,RB,23-086,90,0,0,0,0,0,0,1,0,65,4,0,1,0.0,0.0,0.3,3,1,44,51,86.3,2,44,0,3,1,Real Madrid,2019-03-10 Valladolid-Real Madrid,ESP-LALIGA,18-19,3bf9a086
+1840e36d,Thibaut Courtois,25,BEL,GK,26-303,90,0,0,0,0,0,0,1,0,30,0,0,0,0.0,0.0,0.0,0,0,15,29,51.7,0,15,0,0,0,Real Madrid,2019-03-10 Valladolid-Real Madrid,ESP-LALIGA,18-19,3bf9a086

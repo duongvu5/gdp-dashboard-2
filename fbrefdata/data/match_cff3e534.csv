@@ -1,0 +1,29 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+5d4f7d61,Patrik Schick,21,CZE,FW,24-046,90,0,0,0,0,2,0,0,0,44,1,1,0,0.1,0.1,0.2,4,0,13,23,56.5,3,22,5,2,2,RB Leipzig,2020-03-10 RB Leipzig-Tottenham,UCL,19-20,cff3e534
+49fe9070,Timo Werner,11,GER,LW,24-004,90,0,1,0,0,5,2,0,0,62,1,0,0,0.3,0.3,0.1,5,2,32,47,68.1,3,40,6,2,0,RB Leipzig,2020-03-10 RB Leipzig-Tottenham,UCL,19-20,cff3e534
+7c56da38,Christopher Nkunku,18,FRA,RW,22-117,58,0,0,0,0,0,0,0,0,31,2,0,0,0.0,0.0,0.0,0,0,18,22,81.8,1,22,0,0,0,RB Leipzig,2020-03-10 RB Leipzig-Tottenham,UCL,19-20,cff3e534
+92432bc6,Amadou Haidara,8,MLI,RW,22-039,32,0,0,0,0,0,0,0,0,35,3,2,0,0.0,0.0,0.0,1,0,22,27,81.5,0,18,1,3,2,RB Leipzig,2020-03-10 RB Leipzig-Tottenham,UCL,19-20,cff3e534
+30941e96,Angeliño,3,ESP,LM,23-066,90,0,1,0,0,0,0,0,0,61,1,0,0,0.0,0.0,0.0,2,1,36,50,72.0,3,31,1,0,0,RB Leipzig,2020-03-10 RB Leipzig-Tottenham,UCL,19-20,cff3e534
+e280527c,Marcel Sabitzer,7,AUT,CM,25-359,86,2,0,0,0,3,2,1,0,63,1,3,2,0.1,0.1,0.0,3,0,46,55,83.6,7,29,3,0,0,RB Leipzig,2020-03-10 RB Leipzig-Tottenham,UCL,19-20,cff3e534
+9a2e0ccc,Emil Forsberg,10,SWE,CM,28-139,4,1,0,0,0,1,1,0,0,13,0,0,0,0.3,0.3,0.0,1,0,10,11,90.9,3,9,1,0,0,RB Leipzig,2020-03-10 RB Leipzig-Tottenham,UCL,19-20,cff3e534
+c1b7847c,Konrad Laimer,27,AUT,CM,22-288,90,0,0,0,0,0,0,1,0,79,8,2,2,0.0,0.0,0.1,3,0,51,62,82.3,8,48,1,1,1,RB Leipzig,2020-03-10 RB Leipzig-Tottenham,UCL,19-20,cff3e534
+ac73ec79,Nordi Mukiele,22,FRA,RM,22-130,54,0,0,0,0,0,0,0,0,56,4,0,3,0.0,0.0,0.0,2,1,29,47,61.7,5,22,2,2,2,RB Leipzig,2020-03-10 RB Leipzig-Tottenham,UCL,19-20,cff3e534
+2b09d998,Tyler Adams,14,USA,RM,21-025,36,0,0,0,0,1,0,0,0,35,1,0,0,0.1,0.1,0.0,1,1,23,33,69.7,1,16,0,2,2,RB Leipzig,2020-03-10 RB Leipzig-Tottenham,UCL,19-20,cff3e534
+8ff2354e,Marcel Halstenberg,23,GER,CB,28-165,90,0,0,0,0,0,0,0,0,59,4,1,0,0.0,0.0,0.0,1,0,43,51,84.3,3,36,1,1,0,RB Leipzig,2020-03-10 RB Leipzig-Tottenham,UCL,19-20,cff3e534
+d248cd8f,Dayot Upamecano,5,FRA,CB,21-135,90,0,0,0,0,1,0,0,0,59,6,1,2,0.0,0.0,0.0,1,0,38,44,86.4,2,34,1,3,3,RB Leipzig,2020-03-10 RB Leipzig-Tottenham,UCL,19-20,cff3e534
+ca8033cb,Lukas Klostermann,16,GER,CB,23-281,90,0,0,0,0,0,0,0,0,69,0,4,0,0.0,0.0,0.0,1,0,50,60,83.3,5,35,0,1,1,RB Leipzig,2020-03-10 RB Leipzig-Tottenham,UCL,19-20,cff3e534
+bcb2ccd8,Péter Gulácsi,1,HUN,GK,29-309,90,0,0,0,0,0,0,0,0,58,0,0,0,0.0,0.0,0.0,0,0,50,57,87.7,0,38,0,0,0,RB Leipzig,2020-03-10 RB Leipzig-Tottenham,UCL,19-20,cff3e534
+cea4ee8f,Dele Alli,20,ENG,FW,23-334,90,0,0,0,0,1,1,1,0,54,0,0,1,0.1,0.1,0.0,2,0,30,40,75.0,1,42,1,4,0,Tottenham Hotspur,2020-03-10 RB Leipzig-Tottenham,UCL,19-20,cff3e534
+2b622f01,Lucas Moura,27,BRA,AM,27-210,90,0,0,0,0,1,0,0,0,43,0,2,2,0.0,0.0,0.1,3,0,21,27,77.8,4,29,3,5,4,Tottenham Hotspur,2020-03-10 RB Leipzig-Tottenham,UCL,19-20,cff3e534
+abe66106,Érik Lamela,11,ARG,AM,28-006,90,0,0,0,0,1,0,0,0,37,0,1,1,0.0,0.0,0.0,0,0,17,21,81.0,2,33,3,5,3,Tottenham Hotspur,2020-03-10 RB Leipzig-Tottenham,UCL,19-20,cff3e534
+d7553721,Giovani Lo Celso,18,ARG,CM,23-336,79,0,0,0,0,1,1,0,0,79,2,1,1,0.1,0.1,0.0,2,0,50,64,78.1,7,45,2,11,9,Tottenham Hotspur,2020-03-10 RB Leipzig-Tottenham,UCL,19-20,cff3e534
+e2dde94c,Gedson Fernandes,30,POR,CM,21-061,11,0,0,0,0,1,1,0,0,11,0,0,2,0.1,0.1,0.0,0,0,6,7,85.7,1,8,1,0,0,Tottenham Hotspur,2020-03-10 RB Leipzig-Tottenham,UCL,19-20,cff3e534
+2f7acede,Harry Winks,8,ENG,CM,24-037,90,0,0,0,0,0,0,1,0,73,2,1,1,0.0,0.0,0.1,3,0,49,62,79.0,8,53,2,2,1,Tottenham Hotspur,2020-03-10 RB Leipzig-Tottenham,UCL,19-20,cff3e534
+6aa3e78b,Ryan Sessegnon,19,ENG,WB,19-297,90,0,0,0,0,1,0,1,0,63,0,3,2,0.0,0.0,0.0,1,0,31,48,64.6,4,32,0,2,0,Tottenham Hotspur,2020-03-10 RB Leipzig-Tottenham,UCL,19-20,cff3e534
+5c2b4f07,Serge Aurier,24,CIV,WB,27-077,89,0,0,0,0,0,0,0,0,55,1,1,0,0.0,0.0,0.0,0,0,32,45,71.1,1,30,3,2,1,Tottenham Hotspur,2020-03-10 RB Leipzig-Tottenham,UCL,19-20,cff3e534
+8263d615,Malachi Fagan-Walcott,64,ENG,WB,17-365,1,0,0,0,0,0,0,0,0,5,1,0,0,0.0,0.0,0.0,0,0,4,4,100.0,0,2,0,0,0,Tottenham Hotspur,2020-03-10 RB Leipzig-Tottenham,UCL,19-20,cff3e534
+f7d50789,Toby Alderweireld,4,BEL,CB,31-008,90,0,0,0,0,0,0,0,0,68,3,0,2,0.0,0.0,0.0,0,0,53,60,88.3,1,45,0,0,0,Tottenham Hotspur,2020-03-10 RB Leipzig-Tottenham,UCL,19-20,cff3e534
+ac861941,Eric Dier,15,ENG,CB,26-055,90,0,0,0,0,0,0,0,0,83,0,2,3,0.0,0.0,0.0,1,0,58,70,82.9,3,53,0,1,1,Tottenham Hotspur,2020-03-10 RB Leipzig-Tottenham,UCL,19-20,cff3e534
+e9971f2d,Japhet Tanganga,39,ENG,CB,20-345,90,0,0,0,0,0,0,1,0,37,0,0,2,0.0,0.0,0.0,0,0,31,33,93.9,3,24,0,0,0,Tottenham Hotspur,2020-03-10 RB Leipzig-Tottenham,UCL,19-20,cff3e534
+8f62b6ee,Hugo Lloris,1,FRA,GK,33-075,90,0,0,0,0,0,0,0,0,26,0,0,0,0.0,0.0,0.0,0,0,17,24,70.8,0,14,0,0,0,Tottenham Hotspur,2020-03-10 RB Leipzig-Tottenham,UCL,19-20,cff3e534

@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+9f1893b9,Felipe Anderson,7,BRA,"FW,RW",29-289,90,0,0,0,0,1,0,0,0,49,1,0,2,0.1,0.1,0.3,5,0,28,42,66.7,5,24,2,3,1,Lazio,2023-01-29 Lazio-Fiorentina,ITA-SERIA_A,22-23,d24399b4
+d85c238b,Mattia Zaccagni,20,ITA,LW,27-227,90,0,0,0,0,2,0,1,0,35,1,5,1,0.1,0.1,0.1,2,0,18,26,69.2,2,17,1,2,0,Lazio,2023-01-29 Lazio-Fiorentina,ITA-SERIA_A,22-23,d24399b4
+3ca7254a,Pedro,9,ESP,RW,35-185,70,0,0,0,0,1,0,0,0,23,2,0,0,0.1,0.1,0.0,0,0,14,17,82.4,1,10,0,0,0,Lazio,2023-01-29 Lazio-Fiorentina,ITA-SERIA_A,22-23,d24399b4
+4431aed2,Ciro Immobile,17,ITA,FW,32-343,20,0,0,0,0,3,0,1,0,11,0,0,1,0.3,0.3,0.0,0,0,5,6,83.3,1,6,0,1,0,Lazio,2023-01-29 Lazio-Fiorentina,ITA-SERIA_A,22-23,d24399b4
+5294a83f,Luis Alberto,10,ESP,LM,30-123,62,0,0,0,0,1,0,0,0,36,1,0,2,0.2,0.2,0.0,1,0,22,32,68.8,2,17,0,1,0,Lazio,2023-01-29 Lazio-Fiorentina,ITA-SERIA_A,22-23,d24399b4
+44ac04e9,Matías Vecino,5,URU,LM,31-158,28,0,0,0,0,0,0,0,0,16,1,1,1,0.0,0.0,0.0,1,0,8,12,66.7,2,6,0,0,0,Lazio,2023-01-29 Lazio-Fiorentina,ITA-SERIA_A,22-23,d24399b4
+ba3d3bea,Danilo Cataldi,32,ITA,CM,28-176,62,0,0,0,0,0,0,0,0,33,0,1,2,0.0,0.0,0.0,0,0,22,25,88.0,1,16,0,3,1,Lazio,2023-01-29 Lazio-Fiorentina,ITA-SERIA_A,22-23,d24399b4
+108fe016,Marcos Antônio,6,BRA,CM,22-230,28,0,0,0,0,0,0,0,0,18,1,0,0,0.0,0.0,0.0,1,0,10,13,76.9,1,10,0,1,0,Lazio,2023-01-29 Lazio-Fiorentina,ITA-SERIA_A,22-23,d24399b4
+4e6dbac4,Sergej Milinković-Savić,21,SRB,RM,27-336,90,0,0,0,0,2,0,0,0,70,4,3,1,0.0,0.0,0.1,2,0,35,49,71.4,5,28,1,4,2,Lazio,2023-01-29 Lazio-Fiorentina,ITA-SERIA_A,22-23,d24399b4
+2f3452eb,Elseid Hysaj,23,ALB,LB,28-343,70,0,0,0,0,0,0,0,0,48,2,0,0,0.0,0.0,0.0,1,0,28,41,68.3,1,21,2,1,0,Lazio,2023-01-29 Lazio-Fiorentina,ITA-SERIA_A,22-23,d24399b4
+02caf6e0,Manuel Lazzari,29,ITA,RB,29-061,20,0,0,0,0,0,0,0,0,20,2,0,2,0.0,0.0,0.1,3,0,10,11,90.9,1,8,2,1,0,Lazio,2023-01-29 Lazio-Fiorentina,ITA-SERIA_A,22-23,d24399b4
+3ead85f9,Alessio Romagnoli,13,ITA,CB,28-017,90,0,0,0,0,0,0,0,0,60,2,2,1,0.0,0.0,0.0,0,0,48,53,90.6,2,24,0,0,0,Lazio,2023-01-29 Lazio-Fiorentina,ITA-SERIA_A,22-23,d24399b4
+3f5f38fb,Nicolò Casale,15,ITA,CB,24-349,90,1,0,0,0,2,1,0,0,89,2,0,0,0.1,0.1,0.0,1,1,78,82,95.1,2,46,0,0,0,Lazio,2023-01-29 Lazio-Fiorentina,ITA-SERIA_A,22-23,d24399b4
+d4535821,Adam Marušić,77,MNE,"RB,LB",30-104,90,0,0,0,0,1,0,0,0,60,1,1,1,0.0,0.0,0.0,2,0,44,55,80.0,2,28,1,0,0,Lazio,2023-01-29 Lazio-Fiorentina,ITA-SERIA_A,22-23,d24399b4
+277da414,Ivan Provedel,94,ITA,GK,28-318,90,0,0,0,0,0,0,0,0,45,0,0,0,0.0,0.0,0.0,0,0,30,42,71.4,0,24,0,0,0,Lazio,2023-01-29 Lazio-Fiorentina,ITA-SERIA_A,22-23,d24399b4
+4d8cd038,Luka Jović,7,SRB,FW,25-037,84,0,0,0,0,3,2,0,0,18,0,0,0,0.2,0.2,0.0,4,0,10,13,76.9,2,4,0,0,0,Fiorentina,2023-01-29 Lazio-Fiorentina,ITA-SERIA_A,22-23,d24399b4
+a820e429,Arthur Cabral,9,BRA,FW,24-279,6,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,2,0,0,0,Fiorentina,2023-01-29 Lazio-Fiorentina,ITA-SERIA_A,22-23,d24399b4
+58e933d2,Christian Kouamé,99,CIV,LW,25-054,45,0,0,0,0,0,0,1,0,25,0,1,0,0.0,0.0,0.0,0,0,11,16,68.8,0,12,1,2,0,Fiorentina,2023-01-29 Lazio-Fiorentina,ITA-SERIA_A,22-23,d24399b4
+3bb7af3b,Riccardo Saponara,8,ITA,LW,31-039,45,0,0,0,0,3,2,1,0,30,1,1,1,0.1,0.1,0.0,3,0,10,17,58.8,1,20,4,1,1,Fiorentina,2023-01-29 Lazio-Fiorentina,ITA-SERIA_A,22-23,d24399b4
+2374aaca,Nicolás González,22,ARG,RW,24-298,73,1,0,0,0,3,1,0,0,48,0,0,0,0.2,0.2,0.1,4,1,29,36,80.6,1,27,0,6,2,Fiorentina,2023-01-29 Lazio-Fiorentina,ITA-SERIA_A,22-23,d24399b4
+42eaa028,Jonathan Ikone,11,FRA,RW,24-272,17,0,0,0,0,2,0,0,0,8,0,1,0,0.2,0.2,0.0,0,0,4,5,80.0,0,7,2,2,2,Fiorentina,2023-01-29 Lazio-Fiorentina,ITA-SERIA_A,22-23,d24399b4
+01efac19,Antonín Barák,72,CZE,LM,28-057,90,0,0,0,0,2,0,0,0,42,1,0,1,0.1,0.1,0.8,3,0,33,36,91.7,2,31,2,1,0,Fiorentina,2023-01-29 Lazio-Fiorentina,ITA-SERIA_A,22-23,d24399b4
+5a2cb25d,Sofyan Amrabat,34,MAR,CM,26-161,90,0,0,0,0,0,0,1,0,97,2,1,0,0.0,0.0,0.0,0,0,82,93,88.2,6,69,0,1,1,Fiorentina,2023-01-29 Lazio-Fiorentina,ITA-SERIA_A,22-23,d24399b4
+d995ed27,Giacomo Bonaventura,5,ITA,RM,33-160,73,0,0,0,0,1,1,0,0,45,3,2,0,0.0,0.0,0.0,2,1,29,39,74.4,4,20,1,2,2,Fiorentina,2023-01-29 Lazio-Fiorentina,ITA-SERIA_A,22-23,d24399b4
+c7259b83,Rolando Mandragora,38,ITA,RM,25-214,17,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.1,2,0,5,8,62.5,2,3,0,0,0,Fiorentina,2023-01-29 Lazio-Fiorentina,ITA-SERIA_A,22-23,d24399b4
+9e1577aa,Cristiano Biraghi,3,ITA,LB,30-150,90,0,0,0,0,0,0,0,0,72,0,0,2,0.0,0.0,0.0,2,0,52,67,77.6,5,40,2,1,0,Fiorentina,2023-01-29 Lazio-Fiorentina,ITA-SERIA_A,22-23,d24399b4
+8c63fae5,Luca Ranieri,16,ITA,CB,23-281,85,0,0,0,0,0,0,0,0,94,4,2,0,0.0,0.0,0.0,1,0,71,84,84.5,3,70,1,2,1,Fiorentina,2023-01-29 Lazio-Fiorentina,ITA-SERIA_A,22-23,d24399b4
+a4e85758,Igor,98,BRA,CB,24-356,5,0,0,0,0,0,0,0,0,12,0,0,0,0.0,0.0,0.0,2,0,8,11,72.7,1,6,1,1,1,Fiorentina,2023-01-29 Lazio-Fiorentina,ITA-SERIA_A,22-23,d24399b4
+bee704fc,Nikola Milenković,4,SRB,CB,25-109,90,0,0,0,0,2,0,0,0,112,0,2,1,0.6,0.6,0.0,0,0,89,100,89.0,1,75,0,0,0,Fiorentina,2023-01-29 Lazio-Fiorentina,ITA-SERIA_A,22-23,d24399b4
+b5f7d10b,Dodô,2,BRA,RB,24-073,90,0,0,0,0,1,0,0,0,55,0,1,0,0.0,0.0,0.1,2,0,42,49,85.7,7,36,2,2,1,Fiorentina,2023-01-29 Lazio-Fiorentina,ITA-SERIA_A,22-23,d24399b4
+e1b0a70d,Pietro Terracciano,1,ITA,GK,32-327,90,0,0,0,0,0,0,0,0,55,0,0,0,0.0,0.0,0.0,0,0,43,55,78.2,0,28,0,0,0,Fiorentina,2023-01-29 Lazio-Fiorentina,ITA-SERIA_A,22-23,d24399b4

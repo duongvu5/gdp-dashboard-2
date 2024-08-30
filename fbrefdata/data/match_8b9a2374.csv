@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+bb4b1242,Sergi Enrich,9,ESP,FW,28-314,90,0,0,0,0,2,0,0,0,45,0,0,2,0.2,0.2,0.0,3,0,22,33,66.7,4,24,1,0,0,Eibar,2019-01-06 Eibar-Villarreal,ESP-LALIGA,18-19,8b9a2374
+c4b8bcf4,Charles,19,BRA,FW,34-277,79,0,0,0,0,5,1,0,0,41,0,0,1,0.4,0.4,0.0,1,0,19,29,65.5,3,19,1,1,0,Eibar,2019-01-06 Eibar-Villarreal,ESP-LALIGA,18-19,8b9a2374
+e897d8ba,Kiké,17,ESP,FW,29-042,11,0,0,0,0,3,2,0,0,8,0,0,0,0.2,0.2,0.0,0,0,1,1,100.0,0,5,0,0,0,Eibar,2019-01-06 Eibar-Villarreal,ESP-LALIGA,18-19,8b9a2374
+1daec722,Marc Cucurella,20,ESP,LM,20-168,90,0,0,0,0,1,0,0,0,54,4,0,4,0.0,0.0,0.2,5,0,31,38,81.6,3,24,2,7,3,Eibar,2019-01-06 Eibar-Villarreal,ESP-LALIGA,18-19,8b9a2374
+2a0c8ba4,Joan Jordán,24,ESP,CM,24-184,72,0,0,0,0,4,0,0,0,63,0,0,2,0.2,0.2,0.2,4,0,33,50,66.0,5,28,1,3,2,Eibar,2019-01-06 Eibar-Villarreal,ESP-LALIGA,18-19,8b9a2374
+3f79a1c8,Gonzalo Escalante,5,ARG,CM,25-285,18,0,0,0,0,1,0,0,0,14,1,1,1,0.4,0.4,0.0,1,0,5,8,62.5,1,5,0,0,0,Eibar,2019-01-06 Eibar-Villarreal,ESP-LALIGA,18-19,8b9a2374
+7329018e,Papakouli Diop,8,SEN,CM,32-293,90,0,0,0,0,0,0,0,0,41,1,0,2,0.0,0.0,0.1,5,0,27,37,73.0,4,15,0,0,0,Eibar,2019-01-06 Eibar-Villarreal,ESP-LALIGA,18-19,8b9a2374
+c90977db,Fabián Orellana,14,CHI,RM,32-344,90,0,0,0,0,2,1,0,0,62,3,0,0,0.1,0.1,0.6,8,0,37,50,74.0,5,45,6,6,3,Eibar,2019-01-06 Eibar-Villarreal,ESP-LALIGA,18-19,8b9a2374
+3024e383,José Ángel,15,ESP,LB,29-123,90,0,0,0,0,0,0,0,0,79,2,3,2,0.0,0.0,0.4,7,0,37,65,56.9,5,34,4,2,1,Eibar,2019-01-06 Eibar-Villarreal,ESP-LALIGA,18-19,8b9a2374
+850c0a0d,Anaitz Arbilla,23,ESP,CB,31-236,90,0,0,0,0,2,0,0,0,51,2,4,1,0.1,0.1,0.0,1,0,31,42,73.8,5,22,2,1,1,Eibar,2019-01-06 Eibar-Villarreal,ESP-LALIGA,18-19,8b9a2374
+d2be40f2,Iván Ramis,4,ESP,CB,34-073,65,0,0,0,0,2,1,0,0,41,5,1,0,0.2,0.2,0.0,1,0,24,31,77.4,5,20,0,0,0,Eibar,2019-01-06 Eibar-Villarreal,ESP-LALIGA,18-19,8b9a2374
+a8fbae1d,Paulo Oliveira,12,POR,CB,26-363,25,0,0,0,0,0,0,0,0,12,0,1,0,0.0,0.0,0.0,0,0,4,11,36.4,2,5,0,0,0,Eibar,2019-01-06 Eibar-Villarreal,ESP-LALIGA,18-19,8b9a2374
+1f079188,Rubén Peña,11,ESP,RB,27-172,90,0,0,0,0,2,0,0,0,76,0,2,0,0.1,0.1,0.0,3,0,40,64,62.5,9,44,2,6,5,Eibar,2019-01-06 Eibar-Villarreal,ESP-LALIGA,18-19,8b9a2374
+581c5276,Asier Riesgo,13,ESP,GK,35-092,90,0,0,0,0,0,0,0,0,33,1,0,0,0.0,0.0,0.0,1,0,17,31,54.8,0,17,0,0,0,Eibar,2019-01-06 Eibar-Villarreal,ESP-LALIGA,18-19,8b9a2374
+81f0781e,Gerard Moreno,7,ESP,FW,26-274,84,0,0,0,0,1,1,0,0,55,1,0,1,0.6,0.6,0.4,2,0,19,34,55.9,1,28,2,6,1,Villarreal,2019-01-06 Eibar-Villarreal,ESP-LALIGA,18-19,8b9a2374
+09a9e921,Carlos Bacca,9,COL,FW,32-120,6,0,0,0,0,1,1,0,0,3,0,0,0,0.1,0.1,0.0,1,0,2,2,100.0,0,2,1,0,0,Villarreal,2019-01-06 Eibar-Villarreal,ESP-LALIGA,18-19,8b9a2374
+e2e9c250,Santi Cazorla,19,ESP,LW,34-024,69,0,0,0,0,0,0,0,0,35,2,1,0,0.0,0.0,0.6,3,0,23,26,88.5,4,25,0,2,0,Villarreal,2019-01-06 Eibar-Villarreal,ESP-LALIGA,18-19,8b9a2374
+5ceba7fc,Karl Toko Ekambi,17,CMR,LW,26-114,21,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,3,7,42.9,0,7,2,3,2,Villarreal,2019-01-06 Eibar-Villarreal,ESP-LALIGA,18-19,8b9a2374
+b8a642fc,Samuel Chukwueze,30,NGA,RW,19-229,90,0,0,0,0,0,0,0,0,40,1,0,0,0.0,0.0,0.1,4,0,18,30,60.0,4,24,3,2,2,Villarreal,2019-01-06 Eibar-Villarreal,ESP-LALIGA,18-19,8b9a2374
+82927de4,Pablo Fornals,8,ESP,AM,22-318,90,0,0,0,0,3,2,0,0,56,1,0,1,0.4,0.4,0.1,1,0,22,44,50.0,2,30,2,3,1,Villarreal,2019-01-06 Eibar-Villarreal,ESP-LALIGA,18-19,8b9a2374
+958bba56,Santiago Cáseres,5,ARG,DM,21-315,90,0,0,0,0,0,0,0,0,44,2,1,1,0.0,0.0,0.0,0,0,27,34,79.4,5,28,0,0,0,Villarreal,2019-01-06 Eibar-Villarreal,ESP-LALIGA,18-19,8b9a2374
+2e8fc160,Javi Fuego,18,ESP,DM,35-002,74,0,0,0,0,0,0,1,0,55,4,2,0,0.0,0.0,0.0,0,0,20,38,52.6,2,16,0,1,1,Villarreal,2019-01-06 Eibar-Villarreal,ESP-LALIGA,18-19,8b9a2374
+963829d0,Manu Trigueros,14,ESP,DM,27-081,16,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,0,0,3,8,37.5,0,3,0,0,0,Villarreal,2019-01-06 Eibar-Villarreal,ESP-LALIGA,18-19,8b9a2374
+63f04c6c,Alfonso Pedraza,16,ESP,LB,22-272,90,0,0,0,0,1,0,0,0,59,7,8,3,0.0,0.0,0.0,1,0,21,33,63.6,2,14,0,2,0,Villarreal,2019-01-06 Eibar-Villarreal,ESP-LALIGA,18-19,8b9a2374
+b3dc6eca,Víctor Ruiz,6,ESP,CB,29-346,90,0,0,0,0,0,0,0,0,40,0,3,1,0.0,0.0,0.0,0,0,22,35,62.9,1,20,0,0,0,Villarreal,2019-01-06 Eibar-Villarreal,ESP-LALIGA,18-19,8b9a2374
+89cbc961,Ramiro Funes Mori,4,ARG,CB,27-307,90,0,0,0,0,1,0,1,0,54,1,0,4,0.1,0.1,0.0,0,0,34,41,82.9,1,18,0,0,0,Villarreal,2019-01-06 Eibar-Villarreal,ESP-LALIGA,18-19,8b9a2374
+fb5d47b3,Mario Gaspar,2,ESP,RB,28-043,90,0,0,0,0,0,0,0,0,63,6,5,0,0.0,0.0,0.0,1,0,31,42,73.8,2,18,1,3,2,Villarreal,2019-01-06 Eibar-Villarreal,ESP-LALIGA,18-19,8b9a2374
+9f0ea33f,Sergio Asenjo,1,ESP,GK,29-192,90,0,0,0,0,0,0,0,0,48,0,0,0,0.0,0.0,0.0,0,0,26,42,61.9,0,17,0,0,0,Villarreal,2019-01-06 Eibar-Villarreal,ESP-LALIGA,18-19,8b9a2374

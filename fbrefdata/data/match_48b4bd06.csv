@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+4d982baf,Tiquinho Soares,29,BRA,FW,26-239,90,0,0,0,0,7,2,0,0,39,0,0,0,0.8,0.8,0.1,3,0,18,23,78.3,3,17,0,1,0,Porto,2017-09-13 Porto-Beşiktaş,UCL,17-18,48b4bd06
+05a84d52,Moussa Marega,11,MLI,"FW,RW",26-152,90,0,0,0,0,3,1,0,0,39,0,1,0,0.2,0.2,0.1,2,0,13,28,46.4,2,23,1,3,1,Porto,2017-09-13 Porto-Beşiktaş,UCL,17-18,48b4bd06
+56b5d64e,Yacine Brahimi,8,ALG,"LM,LW",27-217,90,0,0,0,0,2,0,0,0,67,2,1,3,0.1,0.1,0.4,4,0,38,49,77.6,11,45,8,11,4,Porto,2017-09-13 Porto-Beşiktaş,UCL,17-18,48b4bd06
+8fd9996f,Danilo Pereira,22,POR,"CM,DM",26-004,81,0,0,0,0,2,0,0,0,44,0,0,0,0.1,0.1,0.1,4,0,32,39,82.1,6,25,0,3,1,Porto,2017-09-13 Porto-Beşiktaş,UCL,17-18,48b4bd06
+2327c29e,Hernâni Fortes,7,POR,DM,26-024,9,0,0,0,0,1,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,1,0,0,0,Porto,2017-09-13 Porto-Beşiktaş,UCL,17-18,48b4bd06
+58a9a4d9,Óliver Torres,10,ESP,CM,22-307,45,0,0,0,0,2,0,0,0,31,3,0,0,0.1,0.1,0.0,2,0,16,28,57.1,3,16,3,1,1,Porto,2017-09-13 Porto-Beşiktaş,UCL,17-18,48b4bd06
+28b1f3ce,Otávio,25,POR,"AM,CM",22-216,45,0,0,0,0,0,0,0,0,31,0,0,0,0.0,0.0,0.0,5,0,18,28,64.3,7,17,2,1,1,Porto,2017-09-13 Porto-Beşiktaş,UCL,17-18,48b4bd06
+fb938d24,Jesús Corona,17,MEX,RM,24-250,45,0,0,0,0,1,1,0,0,31,2,0,0,0.1,0.1,0.0,1,0,22,27,81.5,4,16,2,0,0,Porto,2017-09-13 Porto-Beşiktaş,UCL,17-18,48b4bd06
+9f31b1d3,André André,20,POR,"DM,RM",28-018,45,0,0,0,0,1,0,1,0,33,1,0,1,0.0,0.0,0.0,1,0,23,28,82.1,6,21,2,0,0,Porto,2017-09-13 Porto-Beşiktaş,UCL,17-18,48b4bd06
+e73c9bb2,Alex Telles,13,BRA,LB,24-272,90,0,0,0,0,0,0,0,0,59,2,0,0,0.0,0.0,0.2,4,0,37,53,69.8,5,25,5,1,1,Porto,2017-09-13 Porto-Beşiktaş,UCL,17-18,48b4bd06
+7a20d90a,Iván Marcano,5,ESP,CB,30-082,90,0,0,0,0,1,0,0,0,61,2,1,0,0.0,0.0,0.0,3,0,45,51,88.2,3,36,1,0,0,Porto,2017-09-13 Porto-Beşiktaş,UCL,17-18,48b4bd06
+51a3c4c8,Felipe,28,BRA,CB,28-120,90,0,0,0,0,0,0,0,0,63,2,2,2,0.0,0.0,0.0,0,0,42,53,79.2,5,31,1,0,0,Porto,2017-09-13 Porto-Beşiktaş,UCL,17-18,48b4bd06
+75a72a99,Ricardo Pereira,21,POR,RB,23-342,90,0,0,0,0,0,0,1,0,75,3,5,0,0.0,0.0,0.2,5,0,48,62,77.4,5,26,1,1,0,Porto,2017-09-13 Porto-Beşiktaş,UCL,17-18,48b4bd06
+1ddbb0da,Iker Casillas,1,ESP,GK,36-116,90,0,0,0,0,0,0,0,0,29,0,0,0,0.0,0.0,0.0,0,0,22,29,75.9,0,15,0,0,0,Porto,2017-09-13 Porto-Beşiktaş,UCL,17-18,48b4bd06
+9a104dee,Cenk Tosun,23,TUR,"FW,LW",26-098,90,1,0,0,0,3,1,0,0,41,0,0,0,0.2,0.2,0.0,4,1,19,28,67.9,3,22,1,3,2,Beşiktaş,2017-09-13 Porto-Beşiktaş,UCL,17-18,48b4bd06
+6438d426,Ryan Babel,8,NED,"LW,RW",30-268,90,1,0,0,0,3,1,0,0,47,2,1,0,0.2,0.2,0.1,3,1,27,34,79.4,2,23,4,1,1,Beşiktaş,2017-09-13 Porto-Beşiktaş,UCL,17-18,48b4bd06
+6b6d252d,Ricardo Quaresma,7,POR,RW,33-352,72,0,1,0,0,2,1,0,0,29,2,0,0,0.1,0.1,0.5,3,1,14,23,60.9,1,17,3,0,0,Beşiktaş,2017-09-13 Porto-Beşiktaş,UCL,17-18,48b4bd06
+63b0ca6b,Álvaro Negredo,9,ESP,"FW,RW",32-024,18,0,1,0,0,0,0,0,0,12,0,0,1,0.0,0.0,0.1,1,1,8,11,72.7,1,2,0,0,0,Beşiktaş,2017-09-13 Porto-Beşiktaş,UCL,17-18,48b4bd06
+5c4f4e43,Talisca,94,BRA,AM,23-224,90,1,0,0,0,2,1,0,0,38,2,2,1,0.5,0.5,0.1,4,0,23,28,82.1,4,18,6,1,1,Beşiktaş,2017-09-13 Porto-Beşiktaş,UCL,17-18,48b4bd06
+d8c679be,Oğuzhan Özyakup,10,TUR,DM,24-355,64,0,0,0,0,1,0,0,0,39,2,0,2,0.1,0.1,0.0,2,0,25,32,78.1,2,13,3,0,0,Beşiktaş,2017-09-13 Porto-Beşiktaş,UCL,17-18,48b4bd06
+563a68ad,Gary Medel,12,CHI,DM,30-041,26,0,0,0,0,1,0,0,0,19,0,0,0,0.0,0.0,0.0,0,0,13,17,76.5,1,6,0,0,0,Beşiktaş,2017-09-13 Porto-Beşiktaş,UCL,17-18,48b4bd06
+f1b55719,Atiba Hutchinson,13,CAN,DM,34-217,90,0,0,0,0,0,0,0,0,55,7,2,3,0.0,0.0,0.0,1,1,35,39,89.7,1,16,0,0,0,Beşiktaş,2017-09-13 Porto-Beşiktaş,UCL,17-18,48b4bd06
+15b6e8d7,Caner Erkin,88,TUR,LB,28-344,90,0,1,0,0,0,0,1,0,64,1,3,0,0.0,0.0,0.1,3,1,35,53,66.0,1,27,2,2,2,Beşiktaş,2017-09-13 Porto-Beşiktaş,UCL,17-18,48b4bd06
+523057ea,Duško Tošić,6,SRB,CB,32-237,90,0,0,0,0,0,0,0,0,59,3,3,4,0.0,0.0,0.0,0,0,25,40,62.5,1,11,0,0,0,Beşiktaş,2017-09-13 Porto-Beşiktaş,UCL,17-18,48b4bd06
+c906ce0f,Pepe,5,POR,CB,34-199,90,0,0,0,0,0,0,0,0,52,3,2,5,0.0,0.0,0.0,0,0,23,32,71.9,2,18,0,0,0,Beşiktaş,2017-09-13 Porto-Beşiktaş,UCL,17-18,48b4bd06
+9d8586c4,Adriano,3,BRA,RB,32-322,86,0,0,0,0,0,0,0,0,46,4,3,1,0.0,0.0,0.0,1,0,25,32,78.1,1,17,2,0,0,Beşiktaş,2017-09-13 Porto-Beşiktaş,UCL,17-18,48b4bd06
+2f7af524,Necip Uysal,20,TUR,RB,26-232,4,0,0,0,0,0,0,0,0,4,2,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,1,0,0,0,Beşiktaş,2017-09-13 Porto-Beşiktaş,UCL,17-18,48b4bd06
+af245161,Fabricio,1,ESP,GK,29-256,90,0,0,0,0,0,0,0,0,38,0,0,0,0.0,0.0,0.0,0,0,19,35,54.3,0,11,0,0,0,Beşiktaş,2017-09-13 Porto-Beşiktaş,UCL,17-18,48b4bd06

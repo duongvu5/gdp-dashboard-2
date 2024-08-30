@@ -1,0 +1,29 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+6e4df551,Papu Gómez,10,ARG,"FW,AM",32-004,80,0,1,0,0,1,0,0,0,47,0,1,0,0.1,0.1,0.6,2,0,30,40,75.0,2,28,9,3,2,Atalanta,2020-02-19 Atalanta-Valencia,UCL,19-20,85ee0243
+48d5bd33,Ruslan Malinovskyi,18,UKR,AM,26-291,10,0,0,0,0,1,0,0,0,12,0,0,0,0.1,0.1,0.0,1,0,7,7,100.0,4,6,0,1,0,Atalanta,2020-02-19 Atalanta-Valencia,UCL,19-20,85ee0243
+68252d6d,Josip Iličić,72,SVN,FW,32-021,90,1,0,0,0,1,1,0,0,69,1,1,0,0.1,0.1,0.6,6,1,47,54,87.0,4,43,5,6,5,Atalanta,2020-02-19 Atalanta-Valencia,UCL,19-20,85ee0243
+e599253a,Mario Pašalić,88,CRO,"AM,CM",25-010,89,0,2,0,0,1,1,0,0,58,2,0,0,0.5,0.5,0.4,3,2,38,50,76.0,6,38,3,3,1,Atalanta,2020-02-19 Atalanta-Valencia,UCL,19-20,85ee0243
+8da74c05,Adrien Tameze,5,CMR,CM,26-015,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Atalanta,2020-02-19 Atalanta-Valencia,UCL,19-20,85ee0243
+98d2c2c4,Remo Freuler,11,SUI,CM,27-310,90,1,0,0,0,2,1,0,0,72,2,0,0,0.1,0.1,0.0,1,1,44,56,78.6,2,40,3,2,0,Atalanta,2020-02-19 Atalanta-Valencia,UCL,19-20,85ee0243
+2a1beb34,Marten de Roon,15,NED,"CM,CB",28-327,90,0,0,0,0,1,0,0,0,65,4,1,1,0.0,0.0,0.0,3,1,47,56,83.9,6,35,1,0,0,Atalanta,2020-02-19 Atalanta-Valencia,UCL,19-20,85ee0243
+2d970560,Robin Gosens,8,GER,WB,25-229,90,0,0,0,0,1,0,0,0,60,1,3,1,0.1,0.1,0.0,2,1,41,52,78.8,3,34,2,0,0,Atalanta,2020-02-19 Atalanta-Valencia,UCL,19-20,85ee0243
+3b333ac3,Hans Hateboer,33,NED,WB,26-041,90,2,0,0,0,2,2,1,0,66,1,2,0,0.9,0.9,0.0,0,0,41,48,85.4,1,25,0,2,0,Atalanta,2020-02-19 Atalanta-Valencia,UCL,19-20,85ee0243
+921f6058,José Luis Palomino,6,ARG,CB,30-045,90,0,0,0,0,0,0,0,0,45,3,1,0,0.0,0.0,0.0,2,1,25,36,69.4,1,24,0,0,0,Atalanta,2020-02-19 Atalanta-Valencia,UCL,19-20,85ee0243
+ac7e640b,Mattia Caldara,3,ITA,CB,25-290,74,0,0,0,0,1,0,0,0,41,0,1,1,0.0,0.0,0.0,1,1,32,34,94.1,1,25,0,0,0,Atalanta,2020-02-19 Atalanta-Valencia,UCL,19-20,85ee0243
+d3de9af0,Duván Zapata,91,COL,FW,28-324,16,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.1,1,0,4,6,66.7,0,7,1,1,0,Atalanta,2020-02-19 Atalanta-Valencia,UCL,19-20,85ee0243
+c56dc39e,Rafael Tolói,2,ITA,CB,29-132,90,0,0,0,0,0,0,0,0,56,2,1,0,0.0,0.0,0.0,0,0,35,53,66.0,4,33,0,0,0,Atalanta,2020-02-19 Atalanta-Valencia,UCL,19-20,85ee0243
+f0f7f62f,Pierluigi Gollini,95,ITA,GK,24-338,90,0,0,0,0,0,0,0,0,33,0,0,0,0.0,0.0,0.0,0,0,15,29,51.7,0,15,0,0,0,Atalanta,2020-02-19 Atalanta-Valencia,UCL,19-20,85ee0243
+e6bc67d7,Gonçalo Guedes,7,POR,FW,23-082,63,0,0,0,0,2,0,0,0,34,0,0,0,0.3,0.3,0.0,6,0,16,25,64.0,0,30,4,4,2,Valencia,2020-02-19 Atalanta-Valencia,UCL,19-20,85ee0243
+0ac94a23,Denis Cheryshev,11,RUS,FW,29-055,27,1,0,0,0,2,2,0,0,10,1,0,0,0.4,0.4,0.0,1,0,4,7,57.1,1,7,2,0,0,Valencia,2020-02-19 Atalanta-Valencia,UCL,19-20,85ee0243
+4c2e9442,Maxi Gómez,22,URU,FW,23-189,72,0,0,0,0,3,1,0,0,25,0,1,0,0.6,0.6,0.4,1,0,12,16,75.0,2,19,1,0,0,Valencia,2020-02-19 Atalanta-Valencia,UCL,19-20,85ee0243
+42276181,Kévin Gameiro,9,FRA,FW,32-286,18,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,5,7,71.4,1,7,1,0,0,Valencia,2020-02-19 Atalanta-Valencia,UCL,19-20,85ee0243
+fed17f5a,Carlos Soler,8,ESP,LM,23-048,90,0,0,0,0,2,0,0,0,51,3,1,0,0.5,0.5,0.0,3,0,28,36,77.8,4,35,2,2,1,Valencia,2020-02-19 Atalanta-Valencia,UCL,19-20,85ee0243
+cce181df,Geoffrey Kondogbia,6,CTA,CM,27-004,90,0,0,0,0,3,0,0,0,73,9,4,4,0.2,0.2,0.0,1,0,41,48,85.4,3,45,1,2,1,Valencia,2020-02-19 Atalanta-Valencia,UCL,19-20,85ee0243
+7460ca0d,Daniel Parejo,10,ESP,CM,30-309,90,0,0,0,0,0,0,0,0,94,2,0,0,0.0,0.0,0.2,6,0,72,91,79.1,10,67,0,1,0,Valencia,2020-02-19 Atalanta-Valencia,UCL,19-20,85ee0243
+9e1035f8,Ferrán Torres,20,ESP,RM,19-355,90,0,0,0,0,3,1,0,0,50,2,1,2,0.3,0.3,1.0,7,0,29,34,85.3,2,40,3,1,0,Valencia,2020-02-19 Atalanta-Valencia,UCL,19-20,85ee0243
+b05e2dbd,José Luis Gayà,14,ESP,LB,24-270,90,0,0,0,0,3,0,0,0,60,2,0,1,0.4,0.4,0.4,2,0,37,48,77.1,2,34,0,0,0,Valencia,2020-02-19 Atalanta-Valencia,UCL,19-20,85ee0243
+f520049f,Eliaquim Mangala,4,FRA,CB,29-006,90,0,0,0,0,0,0,0,0,32,2,2,0,0.0,0.0,0.0,0,0,18,22,81.8,1,16,0,0,0,Valencia,2020-02-19 Atalanta-Valencia,UCL,19-20,85ee0243
+d2110326,Mouctar Diakhaby,12,GUI,CB,23-062,90,0,0,0,0,0,0,0,0,65,0,2,2,0.0,0.0,0.0,0,0,46,55,83.6,2,46,2,2,2,Valencia,2020-02-19 Atalanta-Valencia,UCL,19-20,85ee0243
+d83bbc54,Daniel Wass,18,DEN,RB,30-264,90,0,0,0,0,0,0,0,0,89,2,1,1,0.0,0.0,0.3,3,0,66,80,82.5,8,61,4,1,0,Valencia,2020-02-19 Atalanta-Valencia,UCL,19-20,85ee0243
+c9cb972b,Jaume Doménech,1,ESP,GK,29-106,90,0,0,0,0,0,0,0,0,30,0,0,0,0.0,0.0,0.0,0,0,20,28,71.4,0,20,0,0,0,Valencia,2020-02-19 Atalanta-Valencia,UCL,19-20,85ee0243

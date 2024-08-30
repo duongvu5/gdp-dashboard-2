@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+09a9e921,Carlos Bacca,9,COL,FW,32-022,90,0,0,0,0,5,1,1,0,27,0,0,0,0.5,0.5,0.1,3,0,13,20,65.0,1,15,1,0,0,Villarreal,2018-09-30 Villarreal-Valladolid,ESP-LALIGA,18-19,d88a3f0a
+81f0781e,Gerard Moreno,7,ESP,"FW,LM",26-176,90,0,0,0,1,7,3,0,0,34,0,0,0,1.9,1.1,0.3,5,0,14,18,77.8,0,24,1,2,1,Villarreal,2018-09-30 Villarreal-Valladolid,ESP-LALIGA,18-19,d88a3f0a
+e2e9c250,Santi Cazorla,19,ESP,LM,33-291,65,0,0,0,0,1,0,1,0,40,0,0,0,0.1,0.1,0.1,4,0,29,36,80.6,9,31,0,1,1,Villarreal,2018-09-30 Villarreal-Valladolid,ESP-LALIGA,18-19,d88a3f0a
+5ceba7fc,Karl Toko Ekambi,17,CMR,"FW,RM",26-016,25,0,0,0,0,1,0,0,0,9,0,0,0,0.1,0.1,0.0,2,0,5,5,100.0,0,6,0,2,0,Villarreal,2018-09-30 Villarreal-Valladolid,ESP-LALIGA,18-19,d88a3f0a
+89cbc961,Ramiro Funes Mori,4,ARG,CM,27-209,90,0,0,0,0,1,0,0,0,60,2,2,2,0.1,0.1,0.0,2,0,43,52,82.7,6,39,4,2,2,Villarreal,2018-09-30 Villarreal-Valladolid,ESP-LALIGA,18-19,d88a3f0a
+963829d0,Manu Trigueros,14,ESP,CM,26-348,90,0,0,0,0,2,0,0,0,72,2,0,0,0.1,0.1,0.5,7,0,61,67,91.0,12,53,2,1,1,Villarreal,2018-09-30 Villarreal-Valladolid,ESP-LALIGA,18-19,d88a3f0a
+82927de4,Pablo Fornals,8,ESP,"RM,LM",22-220,90,0,0,0,0,4,2,0,0,67,3,2,1,0.1,0.1,0.0,7,0,43,54,79.6,10,51,4,2,1,Villarreal,2018-09-30 Villarreal-Valladolid,ESP-LALIGA,18-19,d88a3f0a
+808d48f3,Jaume Costa,11,ESP,LB,30-196,76,0,0,0,0,0,0,0,0,74,0,1,1,0.0,0.0,0.1,2,0,60,71,84.5,5,50,2,0,0,Villarreal,2018-09-30 Villarreal-Valladolid,ESP-LALIGA,18-19,d88a3f0a
+63f04c6c,Alfonso Pedraza,16,ESP,LB,22-174,14,0,0,0,0,0,0,0,0,7,1,0,0,0.0,0.0,0.0,0,0,3,5,60.0,0,5,1,1,1,Villarreal,2018-09-30 Villarreal-Valladolid,ESP-LALIGA,18-19,d88a3f0a
+b3dc6eca,Víctor Ruiz,6,ESP,CB,29-248,90,0,0,0,0,1,0,0,0,96,2,3,1,0.0,0.0,0.3,3,0,79,87,90.8,16,70,6,0,0,Villarreal,2018-09-30 Villarreal-Valladolid,ESP-LALIGA,18-19,d88a3f0a
+42dcf26d,Álvaro González,3,ESP,CB,28-265,90,0,0,0,0,0,0,0,0,80,2,2,0,0.0,0.0,0.0,0,0,69,75,92.0,10,55,6,0,0,Villarreal,2018-09-30 Villarreal-Valladolid,ESP-LALIGA,18-19,d88a3f0a
+fb5d47b3,Mario Gaspar,2,ESP,RB,27-310,45,0,0,0,0,1,0,1,0,39,2,0,1,0.0,0.0,0.1,2,0,26,33,78.8,2,23,2,0,0,Villarreal,2018-09-30 Villarreal-Valladolid,ESP-LALIGA,18-19,d88a3f0a
+ad6295d4,Miguel Layún,24,MEX,RB,30-097,45,0,0,0,0,2,0,0,0,47,0,0,1,0.1,0.0,0.4,8,0,28,43,65.1,2,19,1,2,1,Villarreal,2018-09-30 Villarreal-Valladolid,ESP-LALIGA,18-19,d88a3f0a
+9f0ea33f,Sergio Asenjo,1,ESP,GK,29-094,90,0,0,0,0,0,0,0,0,26,0,0,0,0.0,0.0,0.0,0,0,18,24,75.0,0,11,0,0,0,Villarreal,2018-09-30 Villarreal-Valladolid,ESP-LALIGA,18-19,d88a3f0a
+8b0b02c9,Duje Čop,20,CRO,FW,28-241,90,0,0,0,0,2,1,1,0,34,1,1,2,0.6,0.6,0.0,2,0,13,23,56.5,1,19,1,1,0,Valladolid,2018-09-30 Villarreal-Valladolid,ESP-LALIGA,18-19,d88a3f0a
+25c72b36,Leonardo Suárez,32,ARG,FW,22-184,69,1,0,0,0,3,1,0,0,29,0,0,2,0.1,0.1,0.0,0,0,14,16,87.5,3,21,1,0,0,Valladolid,2018-09-30 Villarreal-Valladolid,ESP-LALIGA,18-19,d88a3f0a
+c93231dc,Anuar,23,MAR,FW,23-258,21,0,0,0,0,0,0,0,0,7,0,0,1,0.0,0.0,0.0,0,0,4,4,100.0,2,4,1,0,0,Valladolid,2018-09-30 Villarreal-Valladolid,ESP-LALIGA,18-19,d88a3f0a
+636eae97,Toni Villa,19,ESP,LM,23-266,84,0,0,0,0,2,1,0,0,37,3,1,0,0.1,0.1,0.0,2,0,14,23,60.9,1,22,3,6,1,Valladolid,2018-09-30 Villarreal-Valladolid,ESP-LALIGA,18-19,d88a3f0a
+d2fa73e7,Ivi,7,ESP,LM,24-093,6,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,4,6,66.7,0,5,0,0,0,Valladolid,2018-09-30 Villarreal-Valladolid,ESP-LALIGA,18-19,d88a3f0a
+036bba5f,Rubén Alcaraz,14,ESP,CM,27-152,90,0,0,0,0,1,0,0,0,63,3,4,1,0.0,0.0,0.0,2,0,43,47,91.5,4,35,3,0,0,Valladolid,2018-09-30 Villarreal-Valladolid,ESP-LALIGA,18-19,d88a3f0a
+418f8f61,Míchel,21,ESP,CM,30-063,89,0,0,0,0,0,0,0,0,56,2,2,2,0.0,0.0,0.1,4,2,36,44,81.8,4,29,1,2,2,Valladolid,2018-09-30 Villarreal-Valladolid,ESP-LALIGA,18-19,d88a3f0a
+9127f9ce,Borja Fernández,8,ESP,CM,37-259,1,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,1,1,0,1,1,Valladolid,2018-09-30 Villarreal-Valladolid,ESP-LALIGA,18-19,d88a3f0a
+dbe519cf,Antoñito,18,ESP,RM,30-280,90,0,0,0,0,0,0,0,0,25,1,1,1,0.0,0.0,0.0,1,0,12,21,57.1,1,13,2,0,0,Valladolid,2018-09-30 Villarreal-Valladolid,ESP-LALIGA,18-19,d88a3f0a
+e29d1111,Nacho,22,ESP,LB,29-207,90,0,0,0,0,0,0,1,0,59,7,3,1,0.0,0.0,0.1,2,0,34,45,75.6,2,23,3,1,1,Valladolid,2018-09-30 Villarreal-Valladolid,ESP-LALIGA,18-19,d88a3f0a
+41b3069f,Fernando Calero,5,ESP,CB,23-016,90,0,0,0,0,0,0,0,0,44,2,2,3,0.0,0.0,0.0,0,0,23,29,79.3,1,15,0,1,1,Valladolid,2018-09-30 Villarreal-Valladolid,ESP-LALIGA,18-19,d88a3f0a
+72b07a9c,Kiko Olivas,4,ESP,CB,30-040,90,0,0,0,0,0,0,1,0,35,0,1,1,0.0,0.0,0.0,0,0,23,28,82.1,2,15,0,0,0,Valladolid,2018-09-30 Villarreal-Valladolid,ESP-LALIGA,18-19,d88a3f0a
+933e8c8a,Javi Moyano,17,ESP,RB,32-219,90,0,0,0,0,1,0,0,0,55,0,2,0,0.0,0.0,0.0,2,0,36,44,81.8,1,17,1,0,0,Valladolid,2018-09-30 Villarreal-Valladolid,ESP-LALIGA,18-19,d88a3f0a
+8fae77ea,Jordi Masip,1,ESP,GK,29-270,90,0,0,0,0,0,0,0,0,35,0,0,0,0.0,0.0,0.0,0,0,15,32,46.9,0,12,0,0,0,Valladolid,2018-09-30 Villarreal-Valladolid,ESP-LALIGA,18-19,d88a3f0a

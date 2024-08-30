@@ -1,0 +1,28 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+a39bb753,Eden Hazard,10,BEL,FW,27-044,90,0,1,0,0,2,0,0,0,43,0,1,0,0.1,0.1,0.1,4,1,23,36,63.9,2,30,4,5,4,Chelsea,2018-02-20 Chelsea-Barcelona,UCL,17-18,e29357ad
+3ca7254a,Pedro,11,ESP,AM,30-207,82,0,0,0,0,0,0,0,0,18,2,2,0,0.0,0.0,0.0,1,0,10,14,71.4,1,11,1,2,1,Chelsea,2018-02-20 Chelsea-Barcelona,UCL,17-18,e29357ad
+129af0db,Álvaro Morata,9,ESP,AM,25-120,8,0,0,0,0,0,0,1,0,3,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,2,0,1,0,Chelsea,2018-02-20 Chelsea-Barcelona,UCL,17-18,e29357ad
+8b9ebd03,Willian,22,BRA,AM,29-195,90,1,0,0,0,4,1,0,0,38,2,0,0,0.2,0.2,0.2,8,0,20,26,76.9,2,20,4,8,6,Chelsea,2018-02-20 Chelsea-Barcelona,UCL,17-18,e29357ad
+b9fbae28,N'Golo Kanté,7,FRA,CM,26-328,90,0,0,0,0,0,0,0,0,40,1,4,2,0.0,0.0,0.0,1,0,25,30,83.3,3,13,1,2,2,Chelsea,2018-02-20 Chelsea-Barcelona,UCL,17-18,e29357ad
+33508c78,Cesc Fàbregas,4,ESP,CM,30-292,83,0,0,0,0,1,0,0,0,55,3,3,2,0.0,0.0,0.0,2,1,35,44,79.5,6,20,0,0,0,Chelsea,2018-02-20 Chelsea-Barcelona,UCL,17-18,e29357ad
+2649ff32,Danny Drinkwater,6,ENG,CM,27-352,7,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,7,7,100.0,0,3,0,0,0,Chelsea,2018-02-20 Chelsea-Barcelona,UCL,17-18,e29357ad
+f4290206,Marcos Alonso,3,ESP,WB,27-054,90,0,0,0,0,1,1,0,0,45,2,2,2,0.1,0.1,0.0,3,0,29,34,85.3,1,23,0,2,1,Chelsea,2018-02-20 Chelsea-Barcelona,UCL,17-18,e29357ad
+e726e11e,Victor Moses,15,NGA,WB,27-070,90,0,0,0,0,2,0,0,0,53,5,1,1,0.1,0.1,0.1,1,0,19,34,55.9,0,21,1,1,0,Chelsea,2018-02-20 Chelsea-Barcelona,UCL,17-18,e29357ad
+18b896d6,Antonio Rüdiger,2,GER,CB,24-354,90,0,0,0,0,1,0,1,0,42,2,1,1,0.1,0.1,0.0,1,0,30,35,85.7,3,26,3,0,0,Chelsea,2018-02-20 Chelsea-Barcelona,UCL,17-18,e29357ad
+1cb49278,Andreas Christensen,27,DEN,CB,21-316,90,0,0,0,0,0,0,0,0,41,2,2,1,0.0,0.0,0.0,0,0,26,32,81.3,1,14,0,0,0,Chelsea,2018-02-20 Chelsea-Barcelona,UCL,17-18,e29357ad
+53cad200,César Azpilicueta,28,ESP,CB,28-176,90,0,0,0,0,0,0,0,0,40,1,6,1,0.0,0.0,0.0,0,0,22,30,73.3,1,12,0,0,0,Chelsea,2018-02-20 Chelsea-Barcelona,UCL,17-18,e29357ad
+1840e36d,Thibaut Courtois,13,BEL,GK,25-285,90,0,0,0,0,0,0,0,0,28,0,0,0,0.0,0.0,0.0,0,0,16,27,59.3,0,9,0,0,0,Chelsea,2018-02-20 Chelsea-Barcelona,UCL,17-18,e29357ad
+a6154613,Luis Suárez,9,URU,FW,31-027,90,0,0,0,0,2,1,1,0,38,0,0,0,0.1,0.1,0.0,1,0,27,32,84.4,2,27,4,6,4,Barcelona,2018-02-20 Chelsea-Barcelona,UCL,17-18,e29357ad
+d70ce98e,Lionel Messi,10,ARG,FW,30-241,90,1,0,0,0,1,1,0,0,85,2,0,1,0.3,0.3,0.1,2,0,60,75,80.0,10,77,7,6,2,Barcelona,2018-02-20 Chelsea-Barcelona,UCL,17-18,e29357ad
+cfd65a29,Andrés Iniesta,8,ESP,LM,33-285,89,0,1,0,0,2,0,0,0,109,2,1,2,0.1,0.1,0.4,4,1,88,98,89.8,10,84,7,1,0,Barcelona,2018-02-20 Chelsea-Barcelona,UCL,17-18,e29357ad
+1961b2aa,André Gomes,21,POR,LM,24-205,1,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,0,0,0,0,Barcelona,2018-02-20 Chelsea-Barcelona,UCL,17-18,e29357ad
+5ab0ea87,Sergio Busquets,5,ESP,CM,29-219,90,0,0,0,0,0,0,1,0,150,6,1,3,0.0,0.0,0.0,2,0,128,139,92.1,13,102,0,1,1,Barcelona,2018-02-20 Chelsea-Barcelona,UCL,17-18,e29357ad
+89f951b5,Ivan Rakitić,4,CRO,CM,29-347,90,0,0,0,0,0,0,1,0,122,1,0,1,0.0,0.0,0.1,1,0,111,120,92.5,3,86,0,1,1,Barcelona,2018-02-20 Chelsea-Barcelona,UCL,17-18,e29357ad
+bb7337cc,Paulinho,15,BRA,RM,29-210,62,0,0,0,0,1,0,0,0,43,0,0,0,0.1,0.1,0.0,0,0,32,38,84.2,1,31,1,3,3,Barcelona,2018-02-20 Chelsea-Barcelona,UCL,17-18,e29357ad
+04965583,Aleix Vidal,22,ESP,RM,28-183,28,0,0,0,0,0,0,0,0,22,1,1,0,0.0,0.0,0.0,0,0,17,21,81.0,1,18,1,0,0,Barcelona,2018-02-20 Chelsea-Barcelona,UCL,17-18,e29357ad
+4601e194,Jordi Alba,18,ESP,LB,28-336,90,0,0,0,0,0,0,0,0,108,2,2,1,0.0,0.0,0.0,1,0,84,100,84.0,3,72,0,1,0,Barcelona,2018-02-20 Chelsea-Barcelona,UCL,17-18,e29357ad
+3eed9821,Samuel Umtiti,23,FRA,CB,24-098,90,0,0,0,0,0,0,0,0,93,0,1,0,0.0,0.0,0.0,0,0,83,89,93.3,2,72,0,0,0,Barcelona,2018-02-20 Chelsea-Barcelona,UCL,17-18,e29357ad
+adfc9123,Gerard Piqué,3,ESP,CB,31-018,90,0,0,0,0,1,0,0,0,87,1,1,1,0.1,0.1,0.0,0,0,76,77,98.7,2,56,0,0,0,Barcelona,2018-02-20 Chelsea-Barcelona,UCL,17-18,e29357ad
+335fa267,Sergi Roberto,20,ESP,RB,26-013,90,0,0,0,0,0,0,0,0,113,4,1,1,0.0,0.0,0.0,1,0,97,107,90.7,2,85,1,1,0,Barcelona,2018-02-20 Chelsea-Barcelona,UCL,17-18,e29357ad
+6f51e382,Marc-André ter Stegen,1,GER,GK,25-296,90,0,0,0,0,0,0,0,0,25,0,0,0,0.0,0.0,0.0,0,0,20,25,80.0,0,16,0,0,0,Barcelona,2018-02-20 Chelsea-Barcelona,UCL,17-18,e29357ad

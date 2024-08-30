@@ -1,0 +1,31 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+d70ce98e,Lionel Messi,10,ARG,FW,33-221,90,1,0,0,0,4,2,0,0,71,0,0,0,0.8,0.8,0.3,6,1,46,62,74.2,8,59,11,12,11,Barcelona,2021-01-31 Barcelona-Athletic Club,ESP-LALIGA,20-21,cdbd8802
+df69b544,Antoine Griezmann,7,FRA,LW,29-316,83,1,0,0,0,3,2,0,0,36,0,1,1,0.7,0.7,0.8,2,0,22,26,84.6,3,20,2,1,1,Barcelona,2021-01-31 Barcelona-Athletic Club,ESP-LALIGA,20-21,cdbd8802
+4f28a6ff,Clément Lenglet,15,FRA,CB,25-228,7,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,4,5,80.0,0,4,0,0,0,Barcelona,2021-01-31 Barcelona-Athletic Club,ESP-LALIGA,20-21,cdbd8802
+b19db005,Ousmane Dembélé,11,FRA,RW,23-261,86,0,0,0,0,1,0,0,0,47,2,0,1,0.1,0.1,0.2,3,2,30,36,83.3,2,36,5,2,1,Barcelona,2021-01-31 Barcelona-Athletic Club,ESP-LALIGA,20-21,cdbd8802
+fd771f95,Martin Braithwaite,9,DEN,RM,29-240,4,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,3,0,0,0,Barcelona,2021-01-31 Barcelona-Athletic Club,ESP-LALIGA,20-21,cdbd8802
+0d9b2d31,Pedri,16,ESP,"AM,LM",18-067,90,0,0,0,0,0,0,0,0,48,3,1,2,0.0,0.0,0.0,3,0,34,41,82.9,3,38,1,1,0,Barcelona,2021-01-31 Barcelona-Athletic Club,ESP-LALIGA,20-21,cdbd8802
+1bacc518,Frenkie de Jong,21,NED,"DM,CM",23-264,90,0,0,0,0,0,0,1,0,89,1,0,1,0.0,0.0,0.0,1,0,79,85,92.9,3,69,2,2,2,Barcelona,2021-01-31 Barcelona-Athletic Club,ESP-LALIGA,20-21,cdbd8802
+ad6df2d5,Miralem Pjanić,8,BIH,DM,30-304,66,0,0,0,0,2,1,0,0,64,0,0,0,0.3,0.3,0.2,2,0,51,58,87.9,2,42,1,0,0,Barcelona,2021-01-31 Barcelona-Athletic Club,ESP-LALIGA,20-21,cdbd8802
+335fa267,Sergi Roberto,20,ESP,"DM,CM",28-359,24,0,0,0,0,0,0,0,0,23,1,0,1,0.0,0.0,0.0,0,0,17,19,89.5,0,14,0,1,1,Barcelona,2021-01-31 Barcelona-Athletic Club,ESP-LALIGA,20-21,cdbd8802
+4601e194,Jordi Alba,18,ESP,LB,31-316,90,0,0,0,0,1,1,1,0,89,0,1,2,0.1,0.1,0.0,2,0,59,78,75.6,3,52,0,0,0,Barcelona,2021-01-31 Barcelona-Athletic Club,ESP-LALIGA,20-21,cdbd8802
+3eed9821,Samuel Umtiti,23,FRA,CB,27-078,90,0,0,0,0,0,0,0,0,71,0,3,1,0.0,0.0,0.0,1,0,60,64,93.8,0,51,1,0,0,Barcelona,2021-01-31 Barcelona-Athletic Club,ESP-LALIGA,20-21,cdbd8802
+2bef2bca,Ronald Araújo,4,URU,CB,21-330,90,0,0,0,0,1,0,0,0,56,1,1,2,0.0,0.0,0.0,1,0,42,49,85.7,1,39,1,1,1,Barcelona,2021-01-31 Barcelona-Athletic Club,ESP-LALIGA,20-21,cdbd8802
+056269d7,Óscar Mingueza,28,ESP,RB,21-263,90,0,1,0,0,0,0,0,0,72,2,0,1,0.0,0.0,0.5,1,1,61,63,96.8,5,46,2,0,0,Barcelona,2021-01-31 Barcelona-Athletic Club,ESP-LALIGA,20-21,cdbd8802
+6f51e382,Marc-André ter Stegen,1,GER,GK,28-276,90,0,0,0,0,0,0,0,0,48,0,0,0,0.0,0.0,0.0,0,0,39,45,86.7,0,26,0,0,0,Barcelona,2021-01-31 Barcelona-Athletic Club,ESP-LALIGA,20-21,cdbd8802
+6a99e0b1,Iñaki Williams,9,GHA,FW,26-230,83,0,0,0,0,1,0,0,0,26,0,1,0,0.0,0.0,0.0,0,0,10,17,58.8,1,15,1,1,0,Athletic Club,2021-01-31 Barcelona-Athletic Club,ESP-LALIGA,20-21,cdbd8802
+57be54ec,Asier Villalibre,20,ESP,FW,23-123,7,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,0,0,Athletic Club,2021-01-31 Barcelona-Athletic Club,ESP-LALIGA,20-21,cdbd8802
+b418dbd4,Raúl García,22,ESP,FW,34-204,90,0,0,0,0,2,1,1,0,40,2,1,1,0.1,0.1,0.1,2,0,22,34,64.7,5,13,0,0,0,Athletic Club,2021-01-31 Barcelona-Athletic Club,ESP-LALIGA,20-21,cdbd8802
+c05dfb74,Iker Muniain,10,ESP,LM,28-043,90,0,0,0,0,0,0,0,0,59,1,1,2,0.0,0.0,0.1,4,0,39,46,84.8,3,29,5,2,1,Athletic Club,2021-01-31 Barcelona-Athletic Club,ESP-LALIGA,20-21,cdbd8802
+4112ace5,Unai Vencedor Paris,27,ESP,CM,20-077,65,0,0,0,0,0,0,0,0,29,2,0,2,0.0,0.0,0.0,0,0,15,20,75.0,1,12,0,0,0,Athletic Club,2021-01-31 Barcelona-Athletic Club,ESP-LALIGA,20-21,cdbd8802
+b0fce72c,Mikel Vesga,6,ESP,CM,27-255,25,0,0,0,0,0,0,0,0,18,0,0,0,0.0,0.0,0.0,0,0,16,17,94.1,2,9,0,0,0,Athletic Club,2021-01-31 Barcelona-Athletic Club,ESP-LALIGA,20-21,cdbd8802
+240d3a0b,Dani García,14,ESP,CM,30-252,90,0,0,0,0,0,0,0,0,74,4,0,0,0.0,0.0,0.0,2,0,55,65,84.6,8,27,0,0,0,Athletic Club,2021-01-31 Barcelona-Athletic Club,ESP-LALIGA,20-21,cdbd8802
+9f323c71,Óscar de Marcos,18,ESP,RM,31-292,66,0,0,0,0,0,0,0,0,17,1,1,1,0.0,0.0,0.0,0,0,8,10,80.0,0,6,0,0,0,Athletic Club,2021-01-31 Barcelona-Athletic Club,ESP-LALIGA,20-21,cdbd8802
+dc1c2fce,Álex Berenguer,12,ESP,RM,25-211,24,0,0,0,0,1,0,0,0,16,0,0,1,0.1,0.1,0.0,0,0,11,14,78.6,2,8,1,0,0,Athletic Club,2021-01-31 Barcelona-Athletic Club,ESP-LALIGA,20-21,cdbd8802
+b6e50615,Yuri Berchiche,17,ESP,LB,30-356,90,0,0,0,0,2,1,0,0,69,0,0,0,0.0,0.0,0.0,2,0,44,58,75.9,6,38,4,5,2,Athletic Club,2021-01-31 Barcelona-Athletic Club,ESP-LALIGA,20-21,cdbd8802
+3fc45c73,Iñigo Martínez,4,ESP,CB,29-259,90,0,0,0,0,0,0,0,0,60,3,1,1,0.0,0.0,0.0,0,0,45,51,88.2,5,35,1,0,0,Athletic Club,2021-01-31 Barcelona-Athletic Club,ESP-LALIGA,20-21,cdbd8802
+3ecc11d8,Yeray Álvarez,5,ESP,CB,26-007,90,0,0,0,0,1,0,1,0,66,2,5,0,0.1,0.1,0.1,2,0,45,51,88.2,4,37,2,0,0,Athletic Club,2021-01-31 Barcelona-Athletic Club,ESP-LALIGA,20-21,cdbd8802
+37f1cf47,Ander Capa,21,ESP,RB,28-358,83,0,0,0,0,0,0,1,0,46,0,3,0,0.0,0.0,0.0,0,0,29,40,72.5,3,22,1,1,0,Athletic Club,2021-01-31 Barcelona-Athletic Club,ESP-LALIGA,20-21,cdbd8802
+59b7d823,Iñigo Lekue,15,ESP,RB,27-272,7,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,7,7,100.0,0,7,1,1,0,Athletic Club,2021-01-31 Barcelona-Athletic Club,ESP-LALIGA,20-21,cdbd8802
+5dcf3e90,Unai Simón,1,ESP,GK,23-234,90,0,0,0,0,0,0,0,0,27,0,0,0,0.0,0.0,0.0,0,0,19,24,79.2,0,12,0,0,0,Athletic Club,2021-01-31 Barcelona-Athletic Club,ESP-LALIGA,20-21,cdbd8802

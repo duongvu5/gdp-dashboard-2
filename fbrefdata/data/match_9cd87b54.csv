@@ -1,0 +1,32 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+491a433d,Rasmus Højlund,17,DEN,FW,20-028,89,0,0,0,0,0,0,0,0,33,0,0,0,0.0,0.0,0.0,2,0,16,22,72.7,3,16,5,5,2,Atalanta,2023-03-04 Atalanta-Udinese,ITA-SERIA_A,22-23,9cd87b54
+f052fb01,Lukáš Vorlický,23,CZE,FW,21-045,1,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,1,3,33.3,1,3,1,3,2,Atalanta,2023-03-04 Atalanta-Udinese,ITA-SERIA_A,22-23,9cd87b54
+fe012aca,Jeremie Boga,10,CIV,LW,26-060,62,0,0,0,0,0,0,0,0,54,0,1,0,0.0,0.0,0.3,7,0,31,44,70.5,6,37,5,13,7,Atalanta,2023-03-04 Atalanta-Udinese,ITA-SERIA_A,22-23,9cd87b54
+e599253a,Mario Pašalić,88,CRO,LW,28-023,28,0,0,0,0,2,0,0,0,25,0,0,0,0.3,0.3,0.1,1,0,18,21,85.7,5,13,1,1,0,Atalanta,2023-03-04 Atalanta-Udinese,ITA-SERIA_A,22-23,9cd87b54
+7c104bb7,Ademola Lookman,11,NGA,RW,25-135,62,0,0,0,0,4,2,0,0,43,1,0,4,0.2,0.2,0.0,4,0,15,26,57.7,1,26,7,10,5,Atalanta,2023-03-04 Atalanta-Udinese,ITA-SERIA_A,22-23,9cd87b54
+eb2fe5b6,Luis Muriel,9,COL,RW,31-322,28,0,0,0,0,1,0,0,0,34,0,1,1,0.0,0.0,0.2,3,0,19,27,70.4,4,18,2,2,2,Atalanta,2023-03-04 Atalanta-Udinese,ITA-SERIA_A,22-23,9cd87b54
+ae9898c5,Matteo Ruggeri,22,ITA,LM,20-236,90,0,0,0,0,1,0,0,0,100,2,0,2,0.1,0.1,0.1,1,0,70,92,76.1,8,32,2,1,1,Atalanta,2023-03-04 Atalanta-Udinese,ITA-SERIA_A,22-23,9cd87b54
+a26fb8aa,Teun Koopmeiners,7,NED,CM,25-004,40,0,0,0,0,1,1,0,0,40,0,0,0,0.0,0.0,0.0,2,0,35,37,94.6,7,22,2,0,0,Atalanta,2023-03-04 Atalanta-Udinese,ITA-SERIA_A,22-23,9cd87b54
+a9202def,Éderson,13,BRA,CM,23-240,50,0,0,0,0,1,1,1,0,48,4,1,2,0.0,0.0,0.1,2,0,28,38,73.7,6,29,2,2,1,Atalanta,2023-03-04 Atalanta-Udinese,ITA-SERIA_A,22-23,9cd87b54
+2a1beb34,Marten de Roon,15,NED,CM,31-340,90,0,0,0,0,3,0,0,0,107,6,1,1,0.2,0.2,0.1,4,0,81,92,88.0,6,56,2,0,0,Atalanta,2023-03-04 Atalanta-Udinese,ITA-SERIA_A,22-23,9cd87b54
+c459a650,Joakim Mæhle,3,DEN,RM,25-288,90,0,0,0,0,1,0,0,0,100,1,0,2,0.2,0.2,0.3,6,0,69,85,81.2,8,46,3,9,3,Atalanta,2023-03-04 Atalanta-Udinese,ITA-SERIA_A,22-23,9cd87b54
+6eee05f1,Berat Djimsiti,19,ALB,CB,30-013,90,0,0,0,0,0,0,1,0,83,1,4,0,0.0,0.0,0.0,0,0,60,70,85.7,5,39,0,2,2,Atalanta,2023-03-04 Atalanta-Udinese,ITA-SERIA_A,22-23,9cd87b54
+e3cceee6,Merih Demiral,28,TUR,CB,24-364,90,0,0,0,0,1,0,0,0,63,2,1,2,0.1,0.1,0.0,0,0,46,50,92.0,2,26,0,2,0,Atalanta,2023-03-04 Atalanta-Udinese,ITA-SERIA_A,22-23,9cd87b54
+c56dc39e,Rafael Tolói,2,ITA,CB,32-145,90,0,0,0,0,2,1,0,0,79,1,3,2,0.2,0.2,0.0,2,0,59,67,88.1,7,41,1,0,0,Atalanta,2023-03-04 Atalanta-Udinese,ITA-SERIA_A,22-23,9cd87b54
+a111cf41,Juan Musso,1,ARG,GK,28-302,90,0,0,0,0,0,0,0,0,23,1,0,0,0.0,0.0,0.0,0,0,21,22,95.5,0,13,0,0,0,Atalanta,2023-03-04 Atalanta-Udinese,ITA-SERIA_A,22-23,9cd87b54
+ed5c0319,Beto,9,GNB,FW,25-032,90,0,0,0,0,1,0,0,0,32,1,0,0,0.0,0.0,0.2,3,0,14,20,70.0,3,20,2,6,2,Udinese,2023-03-04 Atalanta-Udinese,ITA-SERIA_A,22-23,9cd87b54
+f573a8bf,Isaac Success,7,NGA,FW,27-056,64,0,0,0,0,1,0,0,0,31,0,0,1,0.0,0.0,0.0,1,0,13,20,65.0,2,23,2,4,2,Udinese,2023-03-04 Atalanta-Udinese,ITA-SERIA_A,22-23,9cd87b54
+2b9fdeea,Florian Thauvin,26,FRA,FW,30-037,26,0,0,0,0,1,1,0,0,11,0,0,1,0.1,0.1,0.0,1,0,3,8,37.5,1,10,1,0,0,Udinese,2023-03-04 Atalanta-Udinese,ITA-SERIA_A,22-23,9cd87b54
+966eea58,Sandi Lovrić,4,SVN,CM,24-341,77,0,0,0,0,1,0,1,0,32,2,0,1,0.1,0.1,0.0,1,0,16,24,66.7,4,23,2,2,1,Udinese,2023-03-04 Atalanta-Udinese,ITA-SERIA_A,22-23,9cd87b54
+217c93a1,Lazar Samardzic,24,SRB,CM,21-008,13,0,0,0,0,0,0,0,0,6,0,0,1,0.0,0.0,0.0,0,0,3,4,75.0,1,4,0,1,1,Udinese,2023-03-04 Atalanta-Udinese,ITA-SERIA_A,22-23,9cd87b54
+26db8853,Walace,11,BRA,CM,27-334,90,0,0,0,0,0,0,0,0,51,4,3,1,0.0,0.0,0.0,1,0,28,36,77.8,1,24,0,3,0,Udinese,2023-03-04 Atalanta-Udinese,ITA-SERIA_A,22-23,9cd87b54
+963a328b,Tolgay Arslan,5,GER,CM,32-200,58,0,0,0,0,0,0,0,0,28,1,0,0,0.0,0.0,0.0,2,0,17,26,65.4,2,16,2,0,0,Udinese,2023-03-04 Atalanta-Udinese,ITA-SERIA_A,22-23,9cd87b54
+75f2c59f,Roberto Pereyra,37,ARG,CM,32-056,32,0,0,0,0,0,0,0,0,12,1,0,0,0.0,0.0,0.0,0,0,8,10,80.0,1,5,0,0,0,Udinese,2023-03-04 Atalanta-Udinese,ITA-SERIA_A,22-23,9cd87b54
+7cd520e8,Destiny Udogie,13,ITA,WB,20-096,90,0,0,0,0,0,0,0,0,45,5,1,3,0.0,0.0,0.0,0,0,19,28,67.9,1,22,4,6,5,Udinese,2023-03-04 Atalanta-Udinese,ITA-SERIA_A,22-23,9cd87b54
+dbfa4f16,Festy Ebosele,2,IRL,WB,20-214,77,0,0,0,0,0,0,1,0,25,3,1,1,0.0,0.0,0.0,0,0,8,16,50.0,2,12,3,5,2,Udinese,2023-03-04 Atalanta-Udinese,ITA-SERIA_A,22-23,9cd87b54
+de0f152c,Adam Masina,3,MAR,WB,29-061,13,0,0,0,0,0,0,0,0,15,1,0,2,0.0,0.0,0.0,0,0,8,10,80.0,0,5,0,0,0,Udinese,2023-03-04 Atalanta-Udinese,ITA-SERIA_A,22-23,9cd87b54
+f7c491f1,Nehuén Pérez,18,ARG,CB,22-253,90,0,0,0,0,0,0,0,0,56,1,4,5,0.0,0.0,0.0,1,0,34,42,81.0,3,35,0,0,0,Udinese,2023-03-04 Atalanta-Udinese,ITA-SERIA_A,22-23,9cd87b54
+6fdac234,Jaka Bijol,29,SVN,CB,24-027,90,0,0,0,0,1,0,0,0,45,4,3,2,0.0,0.0,0.0,0,0,16,23,69.6,1,15,0,0,0,Udinese,2023-03-04 Atalanta-Udinese,ITA-SERIA_A,22-23,9cd87b54
+19e4eab9,Rodrigo Becão,50,BRA,CB,27-044,90,0,0,0,0,0,0,1,0,47,5,3,3,0.0,0.0,0.0,0,0,17,32,53.1,1,13,0,1,1,Udinese,2023-03-04 Atalanta-Udinese,ITA-SERIA_A,22-23,9cd87b54
+0d422df7,Marco Silvestri,1,ITA,GK,32-002,90,0,0,0,0,0,0,0,0,40,0,0,0,0.0,0.0,0.0,0,0,23,37,62.2,0,18,0,0,0,Udinese,2023-03-04 Atalanta-Udinese,ITA-SERIA_A,22-23,9cd87b54

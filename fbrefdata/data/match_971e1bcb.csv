@@ -1,0 +1,28 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+dea698d9,Cristiano Ronaldo,7,POR,FW,32-254,90,1,0,1,1,7,2,1,0,37,0,0,0,1.3,0.5,0.1,5,0,18,24,75.0,4,24,5,4,3,Real Madrid,2017-10-17 Real Madrid-Tottenham,UCL,17-18,971e1bcb
+70d74ece,Karim Benzema,9,FRA,FW,29-302,75,0,0,0,0,3,1,0,0,34,0,0,0,1.2,1.2,0.1,3,1,22,25,88.0,1,16,1,1,0,Real Madrid,2017-10-17 Real Madrid-Tottenham,UCL,17-18,971e1bcb
+45af8a54,Marco Asensio,20,ESP,"FW,LW",21-269,15,0,0,0,0,0,0,0,0,12,0,0,0,0.0,0.0,0.0,0,0,10,12,83.3,2,12,2,0,0,Real Madrid,2017-10-17 Real Madrid-Tottenham,UCL,17-18,971e1bcb
+a0b4bb3e,Isco,22,ESP,AM,25-179,86,0,0,0,0,5,3,0,0,98,2,0,0,0.2,0.2,0.1,5,0,74,88,84.1,8,84,11,4,2,Real Madrid,2017-10-17 Real Madrid-Tottenham,UCL,17-18,971e1bcb
+fd51b456,Lucas Vázquez,17,ESP,"AM,RW",26-108,4,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,1,0,2,3,66.7,0,3,1,0,0,Real Madrid,2017-10-17 Real Madrid-Tottenham,UCL,17-18,971e1bcb
+6ce1f46f,Toni Kroos,8,GER,LM,27-286,90,0,0,0,0,1,0,0,0,95,0,0,0,0.0,0.0,0.2,6,1,89,94,94.7,15,70,1,1,1,Real Madrid,2017-10-17 Real Madrid-Tottenham,UCL,17-18,971e1bcb
+4d224fe8,Casemiro,14,BRA,CM,25-236,90,0,0,0,0,0,0,0,0,65,3,6,1,0.0,0.0,0.6,6,0,46,54,85.2,11,36,2,3,3,Real Madrid,2017-10-17 Real Madrid-Tottenham,UCL,17-18,971e1bcb
+6025fab1,Luka Modrić,10,CRO,RM,32-038,90,0,0,0,0,1,0,0,0,90,3,1,0,0.1,0.1,0.4,3,0,66,78,84.6,13,67,3,2,0,Real Madrid,2017-10-17 Real Madrid-Tottenham,UCL,17-18,971e1bcb
+603116a7,Marcelo,12,BRA,LB,29-158,90,0,0,0,0,2,1,0,0,91,0,1,1,0.1,0.1,0.1,6,0,70,85,82.4,7,57,2,3,1,Real Madrid,2017-10-17 Real Madrid-Tottenham,UCL,17-18,971e1bcb
+08511d65,Sergio Ramos,4,ESP,CB,31-201,90,0,0,0,0,1,0,0,0,76,1,3,2,0.0,0.0,0.0,1,0,61,66,92.4,3,45,0,1,0,Real Madrid,2017-10-17 Real Madrid-Tottenham,UCL,17-18,971e1bcb
+9f8e9423,Raphaël Varane,5,FRA,CB,24-175,90,0,0,0,0,0,0,0,0,74,1,1,4,0.0,0.0,0.0,0,0,48,53,90.6,7,42,2,0,0,Real Madrid,2017-10-17 Real Madrid-Tottenham,UCL,17-18,971e1bcb
+e42d61c7,Achraf Hakimi,19,MAR,RB,18-347,90,0,0,0,0,0,0,0,0,89,2,0,1,0.0,0.0,0.1,4,0,65,80,81.3,3,60,2,4,0,Real Madrid,2017-10-17 Real Madrid-Tottenham,UCL,17-18,971e1bcb
+ecada4fc,Keylor Navas,1,CRC,GK,30-306,90,0,0,0,0,0,0,0,0,25,0,1,0,0.0,0.0,0.0,0,0,16,20,80.0,0,10,0,0,0,Real Madrid,2017-10-17 Real Madrid-Tottenham,UCL,17-18,971e1bcb
+21a66f6a,Harry Kane,10,ENG,FW,24-081,90,0,0,0,0,3,2,0,0,27,0,0,0,0.5,0.5,0.0,1,0,9,15,60.0,3,19,2,5,3,Tottenham Hotspur,2017-10-17 Real Madrid-Tottenham,UCL,17-18,971e1bcb
+82dbf623,Fernando Llorente,18,ESP,FW,32-233,79,0,0,0,0,1,0,0,0,32,0,0,0,0.1,0.1,0.5,5,0,16,25,64.0,3,16,2,1,1,Tottenham Hotspur,2017-10-17 Real Madrid-Tottenham,UCL,17-18,971e1bcb
+89d10e53,Danny Rose,3,ENG,CM,27-107,11,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,3,0,0,0,Tottenham Hotspur,2017-10-17 Real Madrid-Tottenham,UCL,17-18,971e1bcb
+980522ec,Christian Eriksen,23,DEN,"CM,FW",25-245,90,0,0,0,0,1,1,0,0,62,0,0,2,0.1,0.1,0.3,7,0,35,53,66.0,1,33,4,2,1,Tottenham Hotspur,2017-10-17 Real Madrid-Tottenham,UCL,17-18,971e1bcb
+2f7acede,Harry Winks,29,ENG,CM,21-257,90,0,0,0,0,1,0,0,0,52,1,2,1,0.0,0.0,0.0,2,0,41,45,91.1,3,33,0,0,0,Tottenham Hotspur,2017-10-17 Real Madrid-Tottenham,UCL,17-18,971e1bcb
+2acd49b9,Moussa Sissoko,17,FRA,CM,28-062,88,0,0,0,0,0,0,0,0,34,3,0,1,0.0,0.0,0.0,0,0,23,28,82.1,4,20,2,2,2,Tottenham Hotspur,2017-10-17 Real Madrid-Tottenham,UCL,17-18,971e1bcb
+92e7e919,Son Heung-min,7,KOR,CM,25-101,2,0,0,0,0,1,0,0,0,4,0,0,1,0.0,0.0,0.0,0,0,1,1,100.0,0,3,0,0,0,Tottenham Hotspur,2017-10-17 Real Madrid-Tottenham,UCL,17-18,971e1bcb
+ba23a904,Jan Vertonghen,5,BEL,LB,30-176,90,0,0,0,0,0,0,0,0,60,7,2,1,0.0,0.0,0.1,3,0,30,41,73.2,2,22,4,2,1,Tottenham Hotspur,2017-10-17 Real Madrid-Tottenham,UCL,17-18,971e1bcb
+f7d50789,Toby Alderweireld,4,BEL,CB,28-229,90,0,0,0,0,1,0,0,0,41,1,0,3,0.1,0.1,0.0,1,0,21,23,91.3,1,14,0,0,0,Tottenham Hotspur,2017-10-17 Real Madrid-Tottenham,UCL,17-18,971e1bcb
+ac861941,Eric Dier,15,ENG,CB,23-275,90,0,0,0,0,0,0,0,0,35,2,0,1,0.0,0.0,0.0,0,0,17,25,68.0,0,14,0,0,0,Tottenham Hotspur,2017-10-17 Real Madrid-Tottenham,UCL,17-18,971e1bcb
+da7b447d,Davinson Sánchez,6,COL,CB,21-127,90,0,0,0,0,2,0,0,0,37,1,4,0,0.1,0.1,0.0,0,0,22,26,84.6,0,19,1,0,0,Tottenham Hotspur,2017-10-17 Real Madrid-Tottenham,UCL,17-18,971e1bcb
+5c2b4f07,Serge Aurier,24,CIV,RB,24-297,90,0,0,0,0,1,1,1,0,51,1,3,0,0.0,0.0,0.0,2,0,33,42,78.6,3,32,2,2,2,Tottenham Hotspur,2017-10-17 Real Madrid-Tottenham,UCL,17-18,971e1bcb
+8f62b6ee,Hugo Lloris,1,FRA,GK,30-295,90,0,0,0,0,0,0,0,0,38,0,0,0,0.0,0.0,0.0,1,0,23,32,71.9,0,15,0,0,0,Tottenham Hotspur,2017-10-17 Real Madrid-Tottenham,UCL,17-18,971e1bcb

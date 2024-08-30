@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+5eae500a,Romelu Lukaku,90,BEL,FW,29-236,63,0,0,0,0,1,0,0,0,18,1,0,0,0.1,0.1,0.3,2,0,7,11,63.6,0,14,0,0,0,Internazionale,2023-01-04 Inter-Napoli,ITA-SERIA_A,22-23,2825e6b8
+f7036e1c,Lautaro Martínez,10,ARG,FW,25-135,27,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,5,6,83.3,1,7,0,0,0,Internazionale,2023-01-04 Inter-Napoli,ITA-SERIA_A,22-23,2825e6b8
+3bb7f478,Edin Džeko,9,BIH,FW,36-293,75,1,0,0,0,2,1,1,0,27,0,1,1,0.6,0.6,0.3,2,0,14,21,66.7,3,14,1,0,0,Internazionale,2023-01-04 Inter-Napoli,ITA-SERIA_A,22-23,2825e6b8
+45b9b619,Joaquín Correa,11,ARG,FW,28-144,15,0,0,0,0,0,0,0,0,8,1,0,1,0.0,0.0,0.0,0,0,0,2,0.0,0,3,0,2,0,Internazionale,2023-01-04 Inter-Napoli,ITA-SERIA_A,22-23,2825e6b8
+dd0daf32,Henrikh Mkhitaryan,22,ARM,CM,33-348,82,0,0,0,0,0,0,0,0,34,0,2,2,0.0,0.0,0.0,1,1,20,27,74.1,5,21,3,1,1,Internazionale,2023-01-04 Inter-Napoli,ITA-SERIA_A,22-23,2825e6b8
+ce30bfc8,Roberto Gagliardini,5,ITA,CM,28-272,8,0,0,0,0,0,0,0,0,5,1,0,0,0.0,0.0,0.0,0,0,1,4,25.0,0,2,0,0,0,Internazionale,2023-01-04 Inter-Napoli,ITA-SERIA_A,22-23,2825e6b8
+cd0fa27b,Hakan Çalhanoğlu,20,TUR,CM,28-330,90,0,0,0,0,0,0,0,0,54,1,0,1,0.0,0.0,0.0,0,0,37,47,78.7,5,31,0,1,0,Internazionale,2023-01-04 Inter-Napoli,ITA-SERIA_A,22-23,2825e6b8
+6928979a,Nicolò Barella,23,ITA,CM,25-331,90,0,0,0,0,1,0,1,0,50,5,1,4,0.1,0.1,0.1,2,0,27,34,79.4,5,29,1,3,3,Internazionale,2023-01-04 Inter-Napoli,ITA-SERIA_A,22-23,2825e6b8
+970b8574,Federico Dimarco,32,ITA,WB,25-055,63,0,1,0,0,1,0,0,0,21,1,1,2,0.3,0.3,0.5,2,1,11,15,73.3,0,12,0,0,0,Internazionale,2023-01-04 Inter-Napoli,ITA-SERIA_A,22-23,2825e6b8
+2d970560,Robin Gosens,8,GER,WB,28-183,27,0,0,0,0,0,0,0,0,31,1,1,0,0.0,0.0,0.0,0,0,13,24,54.2,1,13,1,1,0,Internazionale,2023-01-04 Inter-Napoli,ITA-SERIA_A,22-23,2825e6b8
+96e0490d,Matteo Darmian,36,ITA,WB,33-033,75,0,0,0,0,1,0,0,0,41,4,1,2,0.3,0.3,0.0,2,0,24,27,88.9,4,19,0,0,0,Internazionale,2023-01-04 Inter-Napoli,ITA-SERIA_A,22-23,2825e6b8
+481c9ece,Denzel Dumfries,2,NED,WB,26-261,15,0,0,0,0,0,0,1,0,5,0,0,1,0.0,0.0,0.0,0,0,2,3,66.7,0,1,0,0,0,Internazionale,2023-01-04 Inter-Napoli,ITA-SERIA_A,22-23,2825e6b8
+75b86fb3,Alessandro Bastoni,95,ITA,CB,23-266,90,0,0,0,0,0,0,0,0,56,1,3,2,0.0,0.0,0.0,1,0,32,42,76.2,2,30,1,0,0,Internazionale,2023-01-04 Inter-Napoli,ITA-SERIA_A,22-23,2825e6b8
+b96b595c,Francesco Acerbi,15,ITA,CB,34-328,90,0,0,0,0,0,0,0,0,41,2,2,0,0.0,0.0,0.0,0,0,29,33,87.9,2,14,1,0,0,Internazionale,2023-01-04 Inter-Napoli,ITA-SERIA_A,22-23,2825e6b8
+30f5ffa9,Milan Škriniar,37,SVK,CB,27-327,90,0,0,0,0,0,0,0,0,51,3,1,1,0.0,0.0,0.0,0,0,36,43,83.7,4,34,1,0,0,Internazionale,2023-01-04 Inter-Napoli,ITA-SERIA_A,22-23,2825e6b8
+e9c0c1b2,André Onana,24,CMR,GK,26-277,90,0,0,0,0,0,0,0,0,43,0,0,0,0.0,0.0,0.0,0,0,33,42,78.6,0,28,0,0,0,Internazionale,2023-01-04 Inter-Napoli,ITA-SERIA_A,22-23,2825e6b8
+8c90fd7a,Victor Osimhen,9,NGA,FW,24-006,90,0,0,0,0,2,1,0,0,19,0,0,0,0.3,0.3,0.0,0,0,8,10,80.0,0,10,1,2,0,Napoli,2023-01-04 Inter-Napoli,ITA-SERIA_A,22-23,2825e6b8
+dea88efd,Khvicha Kvaratskhelia,77,GEO,LW,21-326,75,0,0,0,0,1,0,0,0,49,1,1,0,0.1,0.1,0.0,1,0,29,34,85.3,0,26,7,8,2,Napoli,2023-01-04 Inter-Napoli,ITA-SERIA_A,22-23,2825e6b8
+cf007308,Elif Elmas,7,MKD,"DM,LW",23-102,15,0,0,0,0,0,0,0,0,18,0,1,0,0.0,0.0,0.0,0,0,12,15,80.0,0,7,0,3,3,Napoli,2023-01-04 Inter-Napoli,ITA-SERIA_A,22-23,2825e6b8
+5e861944,Matteo Politano,21,ITA,RW,29-154,64,0,0,0,0,0,0,0,0,43,0,0,0,0.0,0.0,0.0,3,0,29,41,70.7,3,25,3,1,0,Napoli,2023-01-04 Inter-Napoli,ITA-SERIA_A,22-23,2825e6b8
+a69e4806,Hirving Lozano,11,MEX,"RW,AM",27-158,26,0,0,0,0,1,0,0,0,12,1,1,1,0.1,0.1,0.0,1,0,4,5,80.0,1,6,1,1,0,Napoli,2023-01-04 Inter-Napoli,ITA-SERIA_A,22-23,2825e6b8
+a5296e55,Piotr Zieliński,20,POL,LM,28-229,64,0,0,0,0,2,0,0,0,54,0,3,0,0.2,0.2,0.1,2,0,42,45,93.3,3,24,0,1,1,Napoli,2023-01-04 Inter-Napoli,ITA-SERIA_A,22-23,2825e6b8
+6e058f06,Giacomo Raspadori,81,ITA,"LM,AM",22-320,26,0,0,0,0,1,1,0,0,22,0,0,0,0.2,0.2,0.0,0,0,6,15,40.0,1,12,2,3,1,Napoli,2023-01-04 Inter-Napoli,ITA-SERIA_A,22-23,2825e6b8
+e1cbb531,Stanislav Lobotka,68,SVK,CM,28-040,84,0,0,0,0,0,0,0,0,70,3,1,0,0.0,0.0,0.0,1,0,61,66,92.4,4,46,2,0,0,Napoli,2023-01-04 Inter-Napoli,ITA-SERIA_A,22-23,2825e6b8
+343c0d52,Giovanni Simeone,18,ARG,FW,27-183,6,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.2,0,0,1,2,50.0,0,1,0,0,0,Napoli,2023-01-04 Inter-Napoli,ITA-SERIA_A,22-23,2825e6b8
+6bb2c084,Andre-Frank Zambo Anguissa,99,CMR,RM,27-049,75,0,0,0,0,1,0,0,0,46,0,0,0,0.1,0.1,0.0,2,0,32,39,82.1,4,24,1,1,1,Napoli,2023-01-04 Inter-Napoli,ITA-SERIA_A,22-23,2825e6b8
+5cdddffa,Tanguy Ndombele,91,FRA,"DM,RM",26-007,15,0,0,0,0,0,0,0,0,13,0,0,0,0.0,0.0,0.0,0,0,9,11,81.8,4,10,1,2,1,Napoli,2023-01-04 Inter-Napoli,ITA-SERIA_A,22-23,2825e6b8
+41c12f75,Mathías Olivera,17,URU,LB,25-065,90,0,0,0,0,0,0,0,0,92,0,2,0,0.0,0.0,0.5,5,0,75,87,86.2,7,60,8,1,1,Napoli,2023-01-04 Inter-Napoli,ITA-SERIA_A,22-23,2825e6b8
+e0f8151c,Kim Min-jae,3,KOR,CB,26-050,90,0,0,0,0,0,0,1,0,100,2,1,0,0.0,0.0,0.0,0,0,80,89,89.9,4,51,3,1,0,Napoli,2023-01-04 Inter-Napoli,ITA-SERIA_A,22-23,2825e6b8
+4b3e1a38,Amir Rrahmani,13,KVX,CB,28-314,90,0,0,0,0,1,0,0,0,95,1,1,1,0.0,0.0,0.0,0,0,76,85,89.4,4,56,1,0,0,Napoli,2023-01-04 Inter-Napoli,ITA-SERIA_A,22-23,2825e6b8
+230a2fac,Giovanni Di Lorenzo,22,ITA,RB,29-153,90,0,0,0,0,0,0,1,0,86,1,0,0,0.0,0.0,0.1,1,0,67,81,82.7,7,41,2,0,0,Napoli,2023-01-04 Inter-Napoli,ITA-SERIA_A,22-23,2825e6b8
+9413b19f,Alex Meret,1,ITA,GK,25-288,90,0,0,0,0,0,0,0,0,38,0,0,0,0.0,0.0,0.0,0,0,33,38,86.8,0,23,0,0,0,Napoli,2023-01-04 Inter-Napoli,ITA-SERIA_A,22-23,2825e6b8

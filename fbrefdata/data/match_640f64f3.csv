@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+d7d32194,Mattia Destro,23,ITA,FW,29-184,90,1,0,0,0,6,2,0,0,24,1,0,0,1.1,1.1,0.0,4,0,6,8,75.0,0,12,4,4,1,Genoa,2020-09-20 Genoa-Crotone,ITA-SERIA_A,20-21,640f64f3
+d711d04f,Goran Pandev,19,MKD,FW,37-055,67,1,0,0,0,1,1,1,0,34,0,0,1,0.4,0.4,0.0,1,1,18,24,75.0,1,19,4,3,2,Genoa,2020-09-20 Genoa-Crotone,ITA-SERIA_A,20-21,640f64f3
+2c38b327,Marko Pjaca,37,CRO,FW,25-137,23,1,0,0,0,1,1,0,0,18,1,0,0,0.3,0.3,0.3,1,0,13,14,92.9,3,13,0,3,1,Genoa,2020-09-20 Genoa-Crotone,ITA-SERIA_A,20-21,640f64f3
+83e4643e,Miha Zajc,16,SVN,CM,26-081,75,0,0,0,0,2,0,1,0,59,1,3,0,0.1,0.1,0.0,2,0,42,48,87.5,2,26,1,0,0,Genoa,2020-09-20 Genoa-Crotone,ITA-SERIA_A,20-21,640f64f3
+d3d758d8,Valon Behrami,11,SUI,CM,35-154,15,0,0,0,0,0,0,0,0,13,2,0,0,0.0,0.0,0.0,1,0,9,10,90.0,3,7,0,1,1,Genoa,2020-09-20 Genoa-Crotone,ITA-SERIA_A,20-21,640f64f3
+e8c930bb,Milan Badelj,47,CRO,CM,31-208,67,0,1,0,0,0,0,0,0,66,2,3,1,0.0,0.0,0.3,4,1,49,58,84.5,7,27,4,2,2,Genoa,2020-09-20 Genoa-Crotone,ITA-SERIA_A,20-21,640f64f3
+023937a9,Ivan Radovanović,21,SRB,CM,32-022,23,0,0,0,0,0,0,0,0,19,0,0,1,0.0,0.0,0.3,2,0,15,17,88.2,1,6,1,1,1,Genoa,2020-09-20 Genoa-Crotone,ITA-SERIA_A,20-21,640f64f3
+1b82f8df,Lukas Lerager,8,DEN,CM,27-070,85,0,0,0,0,0,0,0,0,53,1,0,1,0.0,0.0,0.0,3,0,44,47,93.6,4,27,1,3,1,Genoa,2020-09-20 Genoa-Crotone,ITA-SERIA_A,20-21,640f64f3
+6604165d,Filippo Melegoni,24,ITA,CM,21-215,5,0,0,0,0,0,0,0,0,5,1,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,3,0,0,0,Genoa,2020-09-20 Genoa-Crotone,ITA-SERIA_A,20-21,640f64f3
+7fe90ccd,Davide Zappacosta,77,ITA,WB,28-101,75,1,0,0,0,3,1,1,0,55,0,2,1,0.1,0.1,0.0,1,1,41,45,91.1,1,28,3,2,1,Genoa,2020-09-20 Genoa-Crotone,ITA-SERIA_A,20-21,640f64f3
+7ba1f1ef,Lennart-Marten Czyborra,99,GER,WB,21-140,15,0,0,0,0,0,0,0,0,11,1,0,0,0.0,0.0,0.0,0,0,7,10,70.0,1,8,1,0,0,Genoa,2020-09-20 Genoa-Crotone,ITA-SERIA_A,20-21,640f64f3
+71dc23da,Paolo Ghiglione,18,ITA,WB,23-231,90,0,2,0,0,1,1,1,0,43,2,1,0,0.3,0.3,0.9,4,2,24,33,72.7,3,13,2,0,0,Genoa,2020-09-20 Genoa-Crotone,ITA-SERIA_A,20-21,640f64f3
+64cd167d,Davide Biraschi,14,ITA,CB,26-080,90,0,0,0,0,0,0,0,0,67,1,4,1,0.0,0.0,0.0,1,0,52,60,86.7,5,34,2,1,1,Genoa,2020-09-20 Genoa-Crotone,ITA-SERIA_A,20-21,640f64f3
+b1deecf8,Cristián Zapata,2,COL,CB,33-356,90,0,0,0,0,0,0,0,0,61,4,3,2,0.0,0.0,0.0,0,0,44,50,88.0,1,30,0,0,0,Genoa,2020-09-20 Genoa-Crotone,ITA-SERIA_A,20-21,640f64f3
+4b029b31,Edoardo Goldaniga,5,ITA,CB,26-323,90,0,1,0,0,0,0,0,0,54,2,3,0,0.0,0.0,0.4,1,1,40,48,83.3,2,31,0,0,0,Genoa,2020-09-20 Genoa-Crotone,ITA-SERIA_A,20-21,640f64f3
+4c62d0c8,Mattia Perin,1,ITA,GK,27-315,90,0,0,0,0,0,0,0,0,37,0,0,0,0.0,0.0,0.0,1,1,25,37,67.6,0,18,0,0,0,Genoa,2020-09-20 Genoa-Crotone,ITA-SERIA_A,20-21,640f64f3
+2bae5658,Emmanuel Rivière,97,FRA,FW,30-201,58,1,0,0,0,3,2,0,0,14,0,0,0,0.6,0.6,0.0,0,0,8,10,80.0,1,11,0,0,0,Crotone,2020-09-20 Genoa-Crotone,ITA-SERIA_A,20-21,640f64f3
+0c8f27b5,Augustus Kargbo,24,SLE,FW,21-027,32,0,0,0,0,0,0,0,0,16,0,0,0,0.0,0.0,0.0,0,0,6,8,75.0,0,10,0,2,1,Crotone,2020-09-20 Genoa-Crotone,ITA-SERIA_A,20-21,640f64f3
+80dbbd10,Simeon Nwankwo,25,NGA,FW,28-136,88,0,0,0,0,3,1,0,0,23,1,0,0,0.8,0.8,0.0,1,0,11,13,84.6,0,11,0,2,1,Crotone,2020-09-20 Genoa-Crotone,ITA-SERIA_A,20-21,640f64f3
+0e490f6e,Denis Drăguș,11,ROU,FW,21-076,2,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,0,0,Crotone,2020-09-20 Genoa-Crotone,ITA-SERIA_A,20-21,640f64f3
+f49c4ae9,Junior Messias,30,BRA,AM,29-130,90,0,0,0,0,3,0,0,0,51,2,0,2,0.1,0.1,0.0,4,1,33,39,84.6,2,24,7,3,2,Crotone,2020-09-20 Genoa-Crotone,ITA-SERIA_A,20-21,640f64f3
+741e058f,Niccolò Zanellato,21,ITA,CM,22-088,57,0,0,0,0,1,0,0,0,24,1,0,0,0.1,0.1,0.0,2,1,15,21,71.4,3,12,0,0,0,Crotone,2020-09-20 Genoa-Crotone,ITA-SERIA_A,20-21,640f64f3
+1bd5fc78,Eduardo Henrique,95,BRA,CM,25-126,33,0,0,0,0,0,0,0,0,21,0,0,3,0.0,0.0,0.0,0,0,15,15,100.0,4,14,1,1,1,Crotone,2020-09-20 Genoa-Crotone,ITA-SERIA_A,20-21,640f64f3
+ae64d449,Luca Cigarini,8,ITA,CM,34-092,85,0,0,0,0,2,0,0,0,89,2,0,1,0.1,0.1,0.4,8,0,66,84,78.6,13,38,3,1,1,Crotone,2020-09-20 Genoa-Crotone,ITA-SERIA_A,20-21,640f64f3
+a5055b1b,Tomislav Gomelt,19,CRO,CM,25-257,5,0,0,0,0,0,0,0,0,7,0,1,0,0.0,0.0,0.0,0,0,6,6,100.0,1,4,0,0,0,Crotone,2020-09-20 Genoa-Crotone,ITA-SERIA_A,20-21,640f64f3
+4366d5e9,Antonio Mazzotta,23,ITA,WB,31-049,45,0,0,0,0,0,0,1,0,11,0,0,0,0.0,0.0,0.0,0,0,7,10,70.0,0,5,1,1,1,Crotone,2020-09-20 Genoa-Crotone,ITA-SERIA_A,20-21,640f64f3
+39ee6cb6,Andrea Rispoli,33,ITA,WB,31-357,45,0,0,0,0,0,0,0,0,35,0,0,1,0.0,0.0,0.0,1,0,26,32,81.3,2,16,1,0,0,Crotone,2020-09-20 Genoa-Crotone,ITA-SERIA_A,20-21,640f64f3
+54ab971f,Salvatore Molina,17,ITA,WB,28-263,90,0,1,0,0,0,0,1,0,62,5,1,2,0.0,0.0,1.0,1,0,31,45,68.9,1,25,0,2,0,Crotone,2020-09-20 Genoa-Crotone,ITA-SERIA_A,20-21,640f64f3
+1db295e5,Vladimir Golemić,5,SVN,CB,29-084,90,0,0,0,0,0,0,0,0,75,0,1,1,0.0,0.0,0.0,1,0,63,73,86.3,9,48,3,0,0,Crotone,2020-09-20 Genoa-Crotone,ITA-SERIA_A,20-21,640f64f3
+ea468ea8,Luca Marrone,34,ITA,CB,30-176,90,0,0,0,0,0,0,0,0,92,1,2,2,0.0,0.0,0.0,0,0,77,85,90.6,3,59,2,0,0,Crotone,2020-09-20 Genoa-Crotone,ITA-SERIA_A,20-21,640f64f3
+01a49bd2,Lisandro Magallán,6,ARG,CB,26-359,90,0,0,0,0,1,0,0,0,74,3,1,0,0.1,0.1,0.1,3,0,61,65,93.8,4,40,2,1,1,Crotone,2020-09-20 Genoa-Crotone,ITA-SERIA_A,20-21,640f64f3
+e66ebabb,Alex Cordaz,1,ITA,GK,37-263,90,0,0,0,0,0,0,0,0,28,0,0,0,0.0,0.0,0.0,0,0,23,26,88.5,0,9,0,0,0,Crotone,2020-09-20 Genoa-Crotone,ITA-SERIA_A,20-21,640f64f3

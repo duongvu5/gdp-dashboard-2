@@ -1,0 +1,29 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+dae8623e,Mbwana Samatta,10,TAN,FW,26-283,90,0,0,0,0,2,1,0,0,34,0,0,0,0.1,0.1,0.0,3,0,14,23,60.9,4,20,3,5,2,Genk,2019-10-02 Genk-Napoli,UCL,19-20,dc832bb3
+0da6a13e,Theo Bongonda,27,COD,LW,23-316,88,0,0,0,0,3,0,0,0,40,1,0,1,0.1,0.1,0.0,0,0,15,26,57.7,4,24,1,1,0,Genk,2019-10-02 Genk-Napoli,UCL,19-20,dc832bb3
+88062e83,Joseph Paintsil,11,GHA,LW,21-243,2,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Genk,2019-10-02 Genk-Napoli,UCL,19-20,dc832bb3
+dbd3a428,Junya Ito,7,JPN,RW,26-207,90,0,0,0,0,1,0,1,0,48,4,1,1,0.0,0.0,0.0,5,0,15,29,51.7,2,24,1,4,2,Genk,2019-10-02 Genk-Napoli,UCL,19-20,dc832bb3
+0127419a,Ianis Hagi,23,ROU,AM,20-345,89,0,0,0,0,2,0,0,0,64,2,1,2,0.1,0.1,0.3,6,0,31,51,60.8,7,28,4,5,1,Genk,2019-10-02 Genk-Napoli,UCL,19-20,dc832bb3
+360e3062,Bryan Heynen,8,BEL,AM,22-238,1,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,0,0,0,0,Genk,2019-10-02 Genk-Napoli,UCL,19-20,dc832bb3
+f2d063ec,Patrik Hrošovský,17,SVK,DM,27-163,90,0,0,0,0,2,0,0,0,49,0,1,3,0.1,0.1,0.1,1,0,32,35,91.4,6,17,1,2,0,Genk,2019-10-02 Genk-Napoli,UCL,19-20,dc832bb3
+d0b6129f,Sander Berge,25,NOR,DM,21-230,90,0,0,0,0,2,1,0,0,58,1,2,1,0.1,0.1,0.0,3,0,37,44,84.1,5,25,0,1,1,Genk,2019-10-02 Genk-Napoli,UCL,19-20,dc832bb3
+d75f3980,Jere Uronen,21,FIN,LB,25-081,90,0,0,0,0,1,0,0,0,63,2,2,1,0.0,0.0,0.0,1,0,36,51,70.6,7,22,0,0,0,Genk,2019-10-02 Genk-Napoli,UCL,19-20,dc832bb3
+80490d7f,Jhon Lucumí,33,COL,CB,21-098,90,0,0,0,0,1,0,0,0,44,2,3,0,0.1,0.1,0.0,1,0,23,32,71.9,2,13,0,0,0,Genk,2019-10-02 Genk-Napoli,UCL,19-20,dc832bb3
+574fff8c,Carlos Cuesta,46,COL,CB,20-207,90,0,0,0,0,0,0,0,0,34,2,1,5,0.0,0.0,0.0,0,0,13,19,68.4,1,10,1,0,0,Genk,2019-10-02 Genk-Napoli,UCL,19-20,dc832bb3
+c459a650,Joakim Mæhle,31,DEN,RB,22-135,90,0,0,0,0,0,0,0,0,55,4,4,0,0.0,0.0,0.0,2,0,31,40,77.5,5,14,2,6,3,Genk,2019-10-02 Genk-Napoli,UCL,19-20,dc832bb3
+c56ee8f7,Gaëtan Coucke,28,BEL,GK,20-303,90,0,0,0,0,0,0,0,0,38,0,0,0,0.0,0.0,0.0,0,0,21,36,58.3,0,18,0,0,0,Genk,2019-10-02 Genk-Napoli,UCL,19-20,dc832bb3
+85613cf0,Arkadiusz Milik,99,POL,FW,25-216,71,0,0,0,0,6,0,1,0,32,2,0,0,2.3,2.3,0.0,4,0,14,18,77.8,2,12,0,1,0,Napoli,2019-10-02 Genk-Napoli,UCL,19-20,dc832bb3
+82dbf623,Fernando Llorente,9,ESP,FW,34-218,19,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,0,0,4,5,80.0,0,6,0,0,0,Napoli,2019-10-02 Genk-Napoli,UCL,19-20,dc832bb3
+a69e4806,Hirving Lozano,11,MEX,"FW,AM,LW",24-064,90,0,0,0,0,3,0,0,0,56,3,3,1,0.1,0.1,0.1,2,0,28,37,75.7,4,31,5,1,0,Napoli,2019-10-02 Genk-Napoli,UCL,19-20,dc832bb3
+c0c7ff58,Fabián Ruiz Peña,8,ESP,"LM,DM,AM",23-182,90,0,0,0,0,0,0,1,0,100,1,1,0,0.0,0.0,0.5,3,0,69,89,77.5,13,54,6,3,2,Napoli,2019-10-02 Genk-Napoli,UCL,19-20,dc832bb3
+cf007308,Elif Elmas,12,MKD,"CM,DM",20-008,57,0,0,0,0,0,0,0,0,44,0,0,1,0.0,0.0,0.0,2,0,36,40,90.0,2,26,1,2,2,Napoli,2019-10-02 Genk-Napoli,UCL,19-20,dc832bb3
+89b2c8a9,Dries Mertens,14,BEL,FW,32-149,33,0,0,0,0,2,1,0,0,31,0,0,0,0.1,0.1,0.1,2,0,16,29,55.2,2,17,5,0,0,Napoli,2019-10-02 Genk-Napoli,UCL,19-20,dc832bb3
+cc700722,Allan,5,BRA,"DM,CM",28-267,90,0,0,0,0,0,0,0,0,90,8,0,1,0.0,0.0,0.0,1,0,65,72,90.3,4,48,0,2,1,Napoli,2019-10-02 Genk-Napoli,UCL,19-20,dc832bb3
+78841da9,José Callejón,7,ESP,"RM,AM,RW",32-233,90,0,0,0,0,3,1,0,0,48,0,0,0,0.6,0.6,0.7,4,0,33,39,84.6,6,21,1,0,0,Napoli,2019-10-02 Genk-Napoli,UCL,19-20,dc832bb3
+0b5a292a,Mário Rui,6,POR,LB,28-128,32,0,0,0,0,0,0,0,0,38,2,1,0,0.0,0.0,0.0,2,0,29,35,82.9,5,19,0,0,0,Napoli,2019-10-02 Genk-Napoli,UCL,19-20,dc832bb3
+d6a889ea,Kévin Malcuit,2,MAR,"RB,LB",28-063,58,0,0,0,0,1,0,0,0,53,3,1,0,0.0,0.0,0.3,5,0,36,41,87.8,2,31,6,2,1,Napoli,2019-10-02 Genk-Napoli,UCL,19-20,dc832bb3
+da974c7b,Kalidou Koulibaly,26,SEN,CB,28-104,90,0,0,0,0,1,0,0,0,88,1,1,1,0.1,0.1,0.4,2,0,64,76,84.2,9,43,3,0,0,Napoli,2019-10-02 Genk-Napoli,UCL,19-20,dc832bb3
+c707411f,Kostas Manolas,44,GRE,CB,28-110,90,0,0,0,0,2,0,0,0,59,0,1,2,0.1,0.1,0.0,0,0,37,44,84.1,1,21,0,0,0,Napoli,2019-10-02 Genk-Napoli,UCL,19-20,dc832bb3
+230a2fac,Giovanni Di Lorenzo,22,ITA,"LB,RB",26-059,90,0,0,0,0,0,0,0,0,97,5,1,0,0.0,0.0,0.0,2,0,67,88,76.1,9,52,3,1,0,Napoli,2019-10-02 Genk-Napoli,UCL,19-20,dc832bb3
+9413b19f,Alex Meret,1,ITA,GK,22-194,90,0,0,0,0,0,0,0,0,26,0,0,0,0.0,0.0,0.0,0,0,21,23,91.3,0,6,0,0,0,Napoli,2019-10-02 Genk-Napoli,UCL,19-20,dc832bb3

@@ -1,0 +1,32 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+8c90fd7a,Victor Osimhen,9,NGA,FW,23-318,90,1,0,0,0,6,2,0,0,28,0,0,0,0.5,0.5,0.0,2,1,7,12,58.3,1,15,4,3,2,Napoli,2022-11-12 Napoli-Udinese,ITA-SERIA_A,22-23,f1eb6e94
+cf007308,Elif Elmas,7,MKD,LW,23-049,90,1,1,0,0,3,2,0,0,49,0,1,0,0.6,0.6,0.1,4,2,32,38,84.2,3,27,4,5,2,Napoli,2022-11-12 Napoli-Udinese,ITA-SERIA_A,22-23,f1eb6e94
+a69e4806,Hirving Lozano,11,MEX,RW,27-105,59,0,1,0,0,0,0,0,0,32,1,0,2,0.0,0.0,0.2,2,1,20,25,80.0,4,19,2,2,1,Napoli,2022-11-12 Napoli-Udinese,ITA-SERIA_A,22-23,f1eb6e94
+5e861944,Matteo Politano,21,ITA,RW,29-101,31,0,0,0,0,1,0,0,0,19,2,0,1,0.1,0.1,0.1,2,0,6,13,46.2,1,12,2,4,2,Napoli,2022-11-12 Napoli-Udinese,ITA-SERIA_A,22-23,f1eb6e94
+a5296e55,Piotr Zieliński,20,POL,LM,28-176,66,1,0,0,0,1,1,0,0,55,1,1,0,0.1,0.1,0.0,1,0,42,52,80.8,0,36,1,1,1,Napoli,2022-11-12 Napoli-Udinese,ITA-SERIA_A,22-23,f1eb6e94
+5cdddffa,Tanguy Ndombele,91,FRA,LM,25-319,24,0,0,0,0,0,0,0,0,18,0,0,0,0.0,0.0,0.0,1,0,17,17,100.0,0,7,0,0,0,Napoli,2022-11-12 Napoli-Udinese,ITA-SERIA_A,22-23,f1eb6e94
+e1cbb531,Stanislav Lobotka,68,SVK,CM,27-352,90,0,0,0,0,0,0,0,0,73,2,1,1,0.0,0.0,0.0,3,0,60,67,89.6,2,45,1,1,0,Napoli,2022-11-12 Napoli-Udinese,ITA-SERIA_A,22-23,f1eb6e94
+6bb2c084,Andre-Frank Zambo Anguissa,99,CMR,RM,26-361,90,0,1,0,0,2,0,0,0,82,4,1,3,0.1,0.1,0.6,5,1,55,68,80.9,4,48,3,5,2,Napoli,2022-11-12 Napoli-Udinese,ITA-SERIA_A,22-23,f1eb6e94
+41c12f75,Mathías Olivera,17,URU,LB,25-012,45,0,0,0,0,0,0,0,0,61,3,0,1,0.0,0.0,0.0,1,1,53,56,94.6,2,41,1,0,0,Napoli,2022-11-12 Napoli-Udinese,ITA-SERIA_A,22-23,f1eb6e94
+0b5a292a,Mário Rui,6,POR,LB,31-169,45,0,0,0,0,0,0,1,0,65,3,1,1,0.0,0.0,0.2,2,0,47,59,79.7,2,35,1,1,0,Napoli,2022-11-12 Napoli-Udinese,ITA-SERIA_A,22-23,f1eb6e94
+79083382,Juan Jesus,5,BRA,CB,31-155,59,0,0,0,0,0,0,1,0,60,0,1,1,0.0,0.0,0.0,0,0,51,55,92.7,4,50,2,0,0,Napoli,2022-11-12 Napoli-Udinese,ITA-SERIA_A,22-23,f1eb6e94
+b35a7399,Leo Skiri Østigård,55,NOR,CB,22-349,31,0,0,0,0,0,0,0,0,27,2,0,0,0.0,0.0,0.0,0,0,18,20,90.0,0,14,0,0,0,Napoli,2022-11-12 Napoli-Udinese,ITA-SERIA_A,22-23,f1eb6e94
+e0f8151c,Kim Min-jae,3,KOR,CB,25-362,90,0,0,0,0,0,0,0,0,90,0,1,1,0.0,0.0,0.0,0,0,79,85,92.9,4,68,0,0,0,Napoli,2022-11-12 Napoli-Udinese,ITA-SERIA_A,22-23,f1eb6e94
+230a2fac,Giovanni Di Lorenzo,22,ITA,RB,29-100,90,0,0,0,0,2,0,0,0,102,4,1,1,0.1,0.1,0.0,3,0,74,90,82.2,3,55,1,0,0,Napoli,2022-11-12 Napoli-Udinese,ITA-SERIA_A,22-23,f1eb6e94
+9413b19f,Alex Meret,1,ITA,GK,25-235,90,0,0,0,0,0,0,0,0,31,0,0,0,0.0,0.0,0.0,0,0,22,28,78.6,0,16,0,0,0,Napoli,2022-11-12 Napoli-Udinese,ITA-SERIA_A,22-23,f1eb6e94
+39583cfd,Gerard Deulofeu,10,ESP,FW,28-244,25,0,0,0,0,1,1,0,0,14,0,0,0,0.2,0.2,0.0,1,0,6,9,66.7,1,8,2,1,0,Udinese,2022-11-12 Napoli-Udinese,ITA-SERIA_A,22-23,f1eb6e94
+f573a8bf,Isaac Success,7,NGA,FW,26-309,65,0,1,0,0,1,0,0,0,34,1,0,1,0.2,0.2,0.1,1,1,14,21,66.7,0,16,0,3,1,Udinese,2022-11-12 Napoli-Udinese,ITA-SERIA_A,22-23,f1eb6e94
+ed5c0319,Beto,9,GNB,FW,24-285,70,0,0,0,0,1,1,0,0,16,0,1,1,0.0,0.0,0.0,3,0,6,6,100.0,1,11,1,2,1,Udinese,2022-11-12 Napoli-Udinese,ITA-SERIA_A,22-23,f1eb6e94
+b1236c63,Ilija Nestorovski,30,MKD,FW,32-245,20,1,0,0,0,1,1,0,0,17,0,0,1,0.1,0.1,0.0,0,0,7,12,58.3,2,8,0,0,0,Udinese,2022-11-12 Napoli-Udinese,ITA-SERIA_A,22-23,f1eb6e94
+963a328b,Tolgay Arslan,5,GER,CM,32-088,55,0,0,0,0,0,0,0,0,33,2,1,0,0.0,0.0,0.0,1,0,19,21,90.5,5,17,3,1,0,Udinese,2022-11-12 Napoli-Udinese,ITA-SERIA_A,22-23,f1eb6e94
+217c93a1,Lazar Samardzic,24,SRB,CM,20-261,35,1,0,0,0,1,1,0,0,19,2,0,0,0.1,0.1,0.2,4,1,11,15,73.3,2,9,0,1,0,Udinese,2022-11-12 Napoli-Udinese,ITA-SERIA_A,22-23,f1eb6e94
+26db8853,Walace,11,BRA,CM,27-222,70,0,0,0,0,0,0,1,0,50,4,1,1,0.0,0.0,0.0,0,0,38,41,92.7,3,29,0,0,0,Udinese,2022-11-12 Napoli-Udinese,ITA-SERIA_A,22-23,f1eb6e94
+8c65eb5f,Mato Jajalo,8,BIH,CM,34-171,20,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,6,9,66.7,1,4,0,0,0,Udinese,2022-11-12 Napoli-Udinese,ITA-SERIA_A,22-23,f1eb6e94
+966eea58,Sandi Lovrić,4,SVN,CM,24-229,90,0,0,0,0,2,0,0,0,45,2,1,1,0.0,0.0,0.0,0,0,24,32,75.0,0,21,0,1,0,Udinese,2022-11-12 Napoli-Udinese,ITA-SERIA_A,22-23,f1eb6e94
+75f2c59f,Roberto Pereyra,37,ARG,WB,31-309,90,0,0,0,0,2,0,1,0,56,1,1,2,0.1,0.1,0.1,2,1,31,40,77.5,8,26,4,3,0,Udinese,2022-11-12 Napoli-Udinese,ITA-SERIA_A,22-23,f1eb6e94
+76b2817e,Kingsley Ehizibue,19,NED,WB,27-171,90,0,0,0,0,1,0,0,0,50,1,0,0,0.1,0.1,0.2,4,0,35,45,77.8,1,29,3,2,1,Udinese,2022-11-12 Napoli-Udinese,ITA-SERIA_A,22-23,f1eb6e94
+9ba7b4fa,Enzo Ebosse,23,CMR,CB,23-246,90,0,0,0,0,0,0,1,0,51,0,2,2,0.0,0.0,0.0,1,0,29,41,70.7,1,21,0,0,0,Udinese,2022-11-12 Napoli-Udinese,ITA-SERIA_A,22-23,f1eb6e94
+6fdac234,Jaka Bijol,29,SVN,CB,23-280,90,0,0,0,0,0,0,0,0,41,0,0,4,0.0,0.0,0.0,2,1,22,28,78.6,2,12,0,0,0,Udinese,2022-11-12 Napoli-Udinese,ITA-SERIA_A,22-23,f1eb6e94
+f7c491f1,Nehuén Pérez,18,ARG,CB,22-141,90,0,0,0,0,0,0,0,0,74,1,1,2,0.0,0.0,0.0,1,0,48,58,82.8,5,40,1,1,0,Udinese,2022-11-12 Napoli-Udinese,ITA-SERIA_A,22-23,f1eb6e94
+0d422df7,Marco Silvestri,1,ITA,GK,31-255,90,0,0,0,0,0,0,0,0,27,0,0,0,0.0,0.0,0.0,0,0,21,25,84.0,0,13,0,0,0,Udinese,2022-11-12 Napoli-Udinese,ITA-SERIA_A,22-23,f1eb6e94

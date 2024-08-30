@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+4d034881,Sergio Agüero,10,ARG,FW,29-116,84,0,0,0,1,6,2,0,0,22,1,0,0,1.6,0.9,0.0,1,0,7,8,87.5,0,15,3,1,0,Manchester City,2017-09-26 Manchester City-Shakhtar,UCL,17-18,a9d00ea8
+3eb22ec9,Bernardo Silva,20,POR,FW,23-047,6,0,1,0,0,0,0,0,0,2,1,0,0,0.0,0.0,0.4,1,1,1,1,100.0,0,1,1,0,0,Manchester City,2017-09-26 Manchester City-Shakhtar,UCL,17-18,a9d00ea8
+2b114be3,Leroy Sané,19,GER,LW,21-258,90,0,0,0,0,4,1,0,0,51,2,0,1,0.3,0.3,0.0,6,0,28,35,80.0,0,42,8,8,5,Manchester City,2017-09-26 Manchester City-Shakhtar,UCL,17-18,a9d00ea8
+b66315ae,Gabriel Jesus,33,BRA,RW,20-176,53,0,0,0,0,0,0,0,0,26,3,3,1,0.0,0.0,0.3,2,0,15,18,83.3,0,15,1,3,1,Manchester City,2017-09-26 Manchester City-Shakhtar,UCL,17-18,a9d00ea8
+b400bde0,Raheem Sterling,7,ENG,RW,22-292,37,1,0,0,0,2,1,0,0,9,0,0,0,0.8,0.8,0.0,1,1,5,6,83.3,1,9,0,1,1,Manchester City,2017-09-26 Manchester City-Shakhtar,UCL,17-18,a9d00ea8
+e2716bd0,David Silva,21,ESP,LM,31-261,80,0,1,0,0,0,0,0,0,66,1,3,2,0.0,0.0,0.7,6,1,46,57,80.7,8,42,6,2,2,Manchester City,2017-09-26 Manchester City-Shakhtar,UCL,17-18,a9d00ea8
+819b3158,İlkay Gündoğan,8,GER,LM,26-337,10,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.2,2,0,4,5,80.0,1,5,0,1,0,Manchester City,2017-09-26 Manchester City-Shakhtar,UCL,17-18,a9d00ea8
+101da2b5,Fernandinho,25,BRA,CM,32-145,90,0,0,0,0,1,0,0,0,93,4,4,2,0.0,0.0,0.0,2,0,75,79,94.9,6,67,2,0,0,Manchester City,2017-09-26 Manchester City-Shakhtar,UCL,17-18,a9d00ea8
+e46012d4,Kevin De Bruyne,17,BEL,RM,26-090,90,1,0,0,0,3,1,0,0,68,2,4,0,0.4,0.4,0.6,4,1,42,61,68.9,5,49,6,2,2,Manchester City,2017-09-26 Manchester City-Shakhtar,UCL,17-18,a9d00ea8
+111c3236,Fabian Delph,18,ENG,LB,27-309,90,0,0,0,0,1,1,0,0,86,3,4,0,0.0,0.0,0.1,2,0,66,74,89.2,7,57,0,4,3,Manchester City,2017-09-26 Manchester City-Shakhtar,UCL,17-18,a9d00ea8
+0d267745,Nicolás Otamendi,30,ARG,CB,29-226,90,0,0,0,0,0,0,0,0,93,1,3,0,0.0,0.0,0.0,1,0,82,85,96.5,11,78,1,0,0,Manchester City,2017-09-26 Manchester City-Shakhtar,UCL,17-18,a9d00ea8
+5eecec3d,John Stones,5,ENG,CB,23-121,90,0,0,0,0,0,0,0,0,112,0,1,1,0.0,0.0,0.0,0,0,93,102,91.2,3,78,0,0,0,Manchester City,2017-09-26 Manchester City-Shakhtar,UCL,17-18,a9d00ea8
+86dd77d1,Kyle Walker,2,ENG,RB,27-121,90,0,0,0,0,0,0,0,0,98,4,2,3,0.0,0.0,0.0,2,0,78,87,89.7,10,68,2,2,1,Manchester City,2017-09-26 Manchester City-Shakhtar,UCL,17-18,a9d00ea8
+3bb7b8b4,Ederson,31,BRA,GK,24-040,90,0,0,0,0,0,0,0,0,33,0,0,0,0.0,0.0,0.0,1,0,28,31,90.3,0,26,0,0,0,Manchester City,2017-09-26 Manchester City-Shakhtar,UCL,17-18,a9d00ea8
+b39a793e,Facundo Ferreyra,19,ARG,FW,26-196,90,0,0,0,0,0,0,0,0,25,0,0,1,0.0,0.0,0.0,2,0,16,20,80.0,0,12,0,0,0,Shakhtar Donetsk,2017-09-26 Manchester City-Shakhtar,UCL,17-18,a9d00ea8
+ab4b3e35,Bernard,10,BRA,"LW,RW",25-018,88,0,0,0,0,0,0,0,0,50,0,3,2,0.0,0.0,0.0,1,0,30,43,69.8,0,37,5,5,3,Shakhtar Donetsk,2017-09-26 Manchester City-Shakhtar,UCL,17-18,a9d00ea8
+6db16dda,Ivan Petryak,34,UKR,RW,23-197,2,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,1,0,0,0,Shakhtar Donetsk,2017-09-26 Manchester City-Shakhtar,UCL,17-18,a9d00ea8
+9139bb12,Marlos,11,UKR,RW,29-111,77,0,0,0,0,1,1,0,0,59,3,0,1,0.0,0.0,0.4,2,0,39,49,79.6,2,38,3,3,2,Shakhtar Donetsk,2017-09-26 Manchester City-Shakhtar,UCL,17-18,a9d00ea8
+85686f86,Dentinho,9,BRA,AM,28-250,13,0,0,0,0,0,0,0,0,6,1,0,0,0.0,0.0,0.0,0,0,3,5,60.0,1,5,0,0,0,Shakhtar Donetsk,2017-09-26 Manchester City-Shakhtar,UCL,17-18,a9d00ea8
+7272a72a,Taison,7,BRA,"AM,LW",29-256,90,0,0,0,0,1,1,0,0,46,2,0,1,0.0,0.0,0.0,1,0,36,42,85.7,4,28,6,5,4,Shakhtar Donetsk,2017-09-26 Manchester City-Shakhtar,UCL,17-18,a9d00ea8
+b853e0ad,Fred,8,BRA,DM,24-205,89,0,0,0,0,0,0,0,0,62,3,0,3,0.0,0.0,0.0,0,0,45,53,84.9,3,43,0,2,2,Shakhtar Donetsk,2017-09-26 Manchester City-Shakhtar,UCL,17-18,a9d00ea8
+9d60028d,Viktor Kovalenko,74,UKR,DM,21-224,1,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,3,4,75.0,0,3,1,0,0,Shakhtar Donetsk,2017-09-26 Manchester City-Shakhtar,UCL,17-18,a9d00ea8
+ee3519f5,Taras Stepanenko,6,UKR,DM,28-049,90,0,0,0,0,1,0,0,0,40,1,0,1,0.0,0.0,0.0,2,0,34,37,91.9,2,24,0,0,0,Shakhtar Donetsk,2017-09-26 Manchester City-Shakhtar,UCL,17-18,a9d00ea8
+cf182add,Ismaily,31,BRA,LB,27-258,90,0,0,0,0,2,0,0,0,51,3,2,2,0.1,0.1,0.0,2,0,28,36,77.8,0,22,3,4,1,Shakhtar Donetsk,2017-09-26 Manchester City-Shakhtar,UCL,17-18,a9d00ea8
+47fd5136,Yaroslav Rakitskiy,44,UKR,CB,28-054,90,0,0,0,0,0,0,0,0,61,0,5,0,0.0,0.0,0.0,0,0,43,52,82.7,2,39,0,0,0,Shakhtar Donetsk,2017-09-26 Manchester City-Shakhtar,UCL,17-18,a9d00ea8
+86c75897,Ivan Ordets,18,UKR,CB,25-080,90,0,0,0,0,1,0,1,0,52,2,1,1,0.4,0.4,0.0,0,0,41,46,89.1,2,30,0,0,0,Shakhtar Donetsk,2017-09-26 Manchester City-Shakhtar,UCL,17-18,a9d00ea8
+8a7a5ad7,Bohdan Butko,2,UKR,RB,26-256,90,0,0,0,0,0,0,0,0,69,3,4,2,0.0,0.0,0.0,0,0,38,57,66.7,2,24,0,0,0,Shakhtar Donetsk,2017-09-26 Manchester City-Shakhtar,UCL,17-18,a9d00ea8
+34c3b935,Andriy Pyatov,30,UKR,GK,33-090,90,0,0,0,0,0,0,0,0,69,0,0,0,0.0,0.0,0.0,0,0,48,66,72.7,0,43,0,0,0,Shakhtar Donetsk,2017-09-26 Manchester City-Shakhtar,UCL,17-18,a9d00ea8

@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+49fe9070,Timo Werner,11,GER,FW,23-266,90,0,1,0,0,7,0,0,0,54,1,1,1,0.6,0.6,0.8,9,1,30,36,83.3,3,31,3,2,0,RB Leipzig,2019-11-27 RB Leipzig-Benfica,UCL,19-20,82fb0118
+7c56da38,Christopher Nkunku,18,FRA,"FW,RM",22-013,90,0,0,0,0,2,2,0,0,46,3,0,0,0.4,0.4,0.3,6,0,26,36,72.2,4,23,0,4,2,RB Leipzig,2019-11-27 RB Leipzig-Benfica,UCL,19-20,82fb0118
+9a2e0ccc,Emil Forsberg,10,SWE,"CM,LM",28-035,90,2,0,1,1,7,4,0,0,40,1,0,0,1.4,0.6,0.0,7,0,24,28,85.7,6,21,2,3,2,RB Leipzig,2019-11-27 RB Leipzig-Benfica,UCL,19-20,82fb0118
+dc3fa3b5,Diego Demme,31,GER,CM,28-006,90,0,0,0,0,0,0,0,0,110,3,0,0,0.0,0.0,0.0,6,0,94,105,89.5,13,86,4,1,1,RB Leipzig,2019-11-27 RB Leipzig-Benfica,UCL,19-20,82fb0118
+c1b7847c,Konrad Laimer,27,AUT,"CM,LB",22-184,90,0,0,0,0,0,0,0,0,65,4,1,2,0.0,0.0,0.2,4,1,37,50,74.0,3,32,4,0,0,RB Leipzig,2019-11-27 RB Leipzig-Benfica,UCL,19-20,82fb0118
+1c96ad85,Marcelo Saracchi,3,URU,"WB,LB",21-218,69,0,0,0,0,0,0,0,0,61,1,1,0,0.0,0.0,0.0,1,0,43,52,82.7,3,33,6,4,2,RB Leipzig,2019-11-27 RB Leipzig-Benfica,UCL,19-20,82fb0118
+5d4f7d61,Patrik Schick,21,CZE,FW,23-307,21,0,0,0,0,2,0,0,0,6,0,0,0,0.6,0.6,0.0,1,1,1,2,50.0,0,3,0,1,0,RB Leipzig,2019-11-27 RB Leipzig-Benfica,UCL,19-20,82fb0118
+e280527c,Marcel Sabitzer,7,AUT,"WB,CM,RM",25-255,90,0,0,0,0,2,2,0,0,68,0,0,0,0.1,0.1,0.1,7,1,48,65,73.8,7,44,0,0,0,RB Leipzig,2019-11-27 RB Leipzig-Benfica,UCL,19-20,82fb0118
+d248cd8f,Dayot Upamecano,5,FRA,CB,21-031,90,0,0,0,0,2,1,0,0,138,7,1,0,0.1,0.1,0.0,2,0,110,127,86.6,22,102,3,2,2,RB Leipzig,2019-11-27 RB Leipzig-Benfica,UCL,19-20,82fb0118
+10b9fa99,Ethan Ampadu,26,WAL,CB,19-074,55,0,0,0,0,0,0,0,0,76,2,0,2,0.0,0.0,0.0,0,0,63,69,91.3,1,54,1,0,0,RB Leipzig,2019-11-27 RB Leipzig-Benfica,UCL,19-20,82fb0118
+ac73ec79,Nordi Mukiele,22,FRA,"RB,CB",22-026,35,0,0,0,0,1,0,0,0,19,0,0,0,0.0,0.0,0.2,2,0,13,17,76.5,0,10,0,0,0,RB Leipzig,2019-11-27 RB Leipzig-Benfica,UCL,19-20,82fb0118
+ca8033cb,Lukas Klostermann,16,GER,CB,23-177,90,0,0,0,0,1,0,0,0,104,2,1,2,0.1,0.1,0.0,0,0,88,94,93.6,7,62,1,0,0,RB Leipzig,2019-11-27 RB Leipzig-Benfica,UCL,19-20,82fb0118
+bcb2ccd8,Péter Gulácsi,1,HUN,GK,29-205,63,0,0,0,0,0,0,0,0,18,0,0,0,0.0,0.0,0.0,0,0,15,18,83.3,0,9,0,0,0,RB Leipzig,2019-11-27 RB Leipzig-Benfica,UCL,19-20,82fb0118
+dc29b608,Yvon Mvogo,28,SUI,GK,25-174,27,0,0,0,0,0,0,0,0,12,0,0,0,0.0,0.0,0.0,0,0,8,10,80.0,0,5,0,0,0,RB Leipzig,2019-11-27 RB Leipzig-Benfica,UCL,19-20,82fb0118
+262e5a82,Chiquinho,19,POR,FW,24-131,90,0,0,0,0,2,0,0,0,38,0,1,0,0.1,0.1,0.0,1,0,23,29,79.3,4,19,2,3,1,Benfica,2019-11-27 RB Leipzig-Benfica,UCL,19-20,82fb0118
+8b529245,Carlos Vinícius,95,BRA,FW,24-247,81,1,0,0,0,1,1,0,0,17,0,0,0,0.4,0.4,0.0,1,1,9,10,90.0,3,12,0,0,0,Benfica,2019-11-27 RB Leipzig-Benfica,UCL,19-20,82fb0118
+02ef8778,Raúl de Tomás,9,ESP,FW,25-041,9,0,0,0,0,2,1,0,0,6,0,0,0,0.1,0.1,0.0,1,0,2,3,66.7,0,5,0,1,1,Benfica,2019-11-27 RB Leipzig-Benfica,UCL,19-20,82fb0118
+5e1028e5,Franco Cervi,11,ARG,LM,25-185,89,0,0,0,0,0,0,0,0,32,2,0,2,0.0,0.0,0.0,0,0,14,22,63.6,1,13,2,2,0,Benfica,2019-11-27 RB Leipzig-Benfica,UCL,19-20,82fb0118
+8c5f1522,Jota,73,POR,"LM,LW",20-242,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Benfica,2019-11-27 RB Leipzig-Benfica,UCL,19-20,82fb0118
+47dc80f5,Adel Taarabt,49,MAR,CM,30-187,90,0,1,0,0,0,0,1,0,44,0,0,0,0.0,0.0,0.4,3,2,31,36,86.1,5,26,2,2,2,Benfica,2019-11-27 RB Leipzig-Benfica,UCL,19-20,82fb0118
+0d10333c,Gabriel,8,BRA,CM,26-070,90,0,0,0,0,0,0,0,0,49,2,5,1,0.0,0.0,0.0,2,0,30,38,78.9,3,17,0,0,0,Benfica,2019-11-27 RB Leipzig-Benfica,UCL,19-20,82fb0118
+96094cbc,Pizzi,21,POR,RM,30-052,89,1,0,0,0,3,2,0,0,52,2,0,1,0.2,0.2,0.0,3,0,28,44,63.6,4,25,1,2,2,Benfica,2019-11-27 RB Leipzig-Benfica,UCL,19-20,82fb0118
+ca5828af,Caio Lucas Fernandes,7,BRA,"RM,RW",25-222,1,0,0,0,0,1,0,0,0,5,0,0,0,0.1,0.1,0.0,1,0,1,2,50.0,1,4,1,1,0,Benfica,2019-11-27 RB Leipzig-Benfica,UCL,19-20,82fb0118
+b1f4086c,Álex Grimaldo,3,ESP,LB,24-068,90,0,0,0,0,1,0,0,0,44,1,0,0,0.1,0.1,0.1,5,0,24,35,68.6,3,17,2,2,1,Benfica,2019-11-27 RB Leipzig-Benfica,UCL,19-20,82fb0118
+4b3c863f,Francisco Reis Ferreira,97,POR,CB,22-246,90,0,0,0,0,1,0,0,0,36,3,0,1,0.0,0.0,0.0,0,0,21,24,87.5,0,15,0,0,0,Benfica,2019-11-27 RB Leipzig-Benfica,UCL,19-20,82fb0118
+31c69ef1,Rúben Dias,6,POR,CB,22-197,90,0,0,0,0,0,0,1,0,41,1,0,1,0.0,0.0,0.0,0,0,23,30,76.7,0,19,0,0,0,Benfica,2019-11-27 RB Leipzig-Benfica,UCL,19-20,82fb0118
+67b3d74b,André Almeida,34,POR,RB,29-078,90,0,0,0,0,0,0,0,0,64,2,1,2,0.0,0.0,0.1,3,0,35,46,76.1,4,24,0,2,0,Benfica,2019-11-27 RB Leipzig-Benfica,UCL,19-20,82fb0118
+03df04ff,Odisseas Vlachodimos,99,GRE,GK,25-215,90,0,0,0,0,0,0,0,0,43,0,0,0,0.0,0.0,0.0,0,0,25,39,64.1,0,22,0,0,0,Benfica,2019-11-27 RB Leipzig-Benfica,UCL,19-20,82fb0118

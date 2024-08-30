@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+e7986081,Moussa Dembélé,9,FRA,FW,23-116,90,0,0,0,0,2,0,0,0,29,0,0,0,0.1,0.1,0.1,2,0,19,23,82.6,3,18,1,1,1,Lyon,2019-11-05 Lyon-Benfica,UCL,19-20,e4026cb3
+a5db0bec,Houssem Aouar,8,ALG,"LW,AM",21-128,89,0,1,0,0,1,1,0,0,73,3,0,0,0.1,0.1,0.5,7,3,46,56,82.1,9,58,10,10,8,Lyon,2019-11-05 Lyon-Benfica,UCL,19-20,e4026cb3
+e3d0b0c4,Marcelo,6,BRA,"CB,AM",32-169,1,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,0,0,Lyon,2019-11-05 Lyon-Benfica,UCL,19-20,e4026cb3
+d504b3e1,Jeff Reine-Adélaïde,17,FRA,"RW,AM",21-292,72,0,0,0,0,2,0,0,0,45,2,0,0,0.1,0.1,0.0,1,1,25,32,78.1,3,33,4,3,2,Lyon,2019-11-05 Lyon-Benfica,UCL,19-20,e4026cb3
+c47541e0,Bertrand Traoré,10,BFA,"RW,RM",24-060,18,1,0,0,0,2,1,0,0,12,0,0,1,0.1,0.1,0.1,3,0,5,9,55.6,0,10,4,2,2,Lyon,2019-11-05 Lyon-Benfica,UCL,19-20,e4026cb3
+8f696594,Memphis,11,NED,AM,25-265,45,1,0,0,0,2,1,0,0,33,1,0,0,0.5,0.5,0.1,1,0,12,24,50.0,2,22,1,2,1,Lyon,2019-11-05 Lyon-Benfica,UCL,19-20,e4026cb3
+beb391dd,Maxwel Cornet,27,CIV,"RW,LW,LM",23-039,45,0,1,0,0,0,0,0,0,28,1,0,0,0.0,0.0,0.0,2,1,16,25,64.0,1,16,2,1,1,Lyon,2019-11-05 Lyon-Benfica,UCL,19-20,e4026cb3
+71ec39ef,Lucas Tousart,29,FRA,"DM,CM",22-190,90,0,0,0,0,1,1,0,0,63,2,2,3,0.0,0.0,0.0,1,0,43,50,86.0,4,37,1,1,1,Lyon,2019-11-05 Lyon-Benfica,UCL,19-20,e4026cb3
+c6e5d20f,Thiago Mendes,12,BRA,"DM,CM",27-235,90,0,0,0,0,1,0,0,0,70,0,1,4,0.0,0.0,0.1,1,0,51,58,87.9,9,39,0,4,4,Lyon,2019-11-05 Lyon-Benfica,UCL,19-20,e4026cb3
+e6eadfb8,Youssouf Koné,28,MLI,LB,24-123,90,0,0,0,0,0,0,0,0,84,2,3,0,0.0,0.0,0.0,0,0,62,74,83.8,5,47,3,5,5,Lyon,2019-11-05 Lyon-Benfica,UCL,19-20,e4026cb3
+47af88b8,Jason Denayer,5,BEL,CB,24-130,90,0,0,0,0,0,0,0,0,72,2,0,1,0.0,0.0,0.1,1,0,60,65,92.3,3,56,0,1,1,Lyon,2019-11-05 Lyon-Benfica,UCL,19-20,e4026cb3
+e34fc66d,Joachim Andersen,3,DEN,CB,23-158,90,1,0,0,0,1,1,0,0,76,2,2,0,0.3,0.3,0.0,1,0,58,63,92.1,3,46,0,0,0,Lyon,2019-11-05 Lyon-Benfica,UCL,19-20,e4026cb3
+ff0ab48c,Leo Dubois,14,FRA,RB,25-052,90,0,1,0,0,1,1,0,0,75,0,4,1,0.1,0.1,0.3,5,1,50,62,80.6,5,43,2,4,1,Lyon,2019-11-05 Lyon-Benfica,UCL,19-20,e4026cb3
+f00de885,Anthony Lopes,1,POR,GK,29-035,90,0,0,0,0,0,0,0,0,38,0,0,0,0.0,0.0,0.0,1,0,24,36,66.7,0,23,0,0,0,Lyon,2019-11-05 Lyon-Benfica,UCL,19-20,e4026cb3
+8b529245,Carlos Vinícius,95,BRA,FW,24-225,90,0,0,0,0,0,0,0,0,19,0,0,0,0.0,0.0,0.1,3,0,12,14,85.7,2,10,1,1,1,Benfica,2019-11-05 Lyon-Benfica,UCL,19-20,e4026cb3
+262e5a82,Chiquinho,19,POR,FW,24-109,90,0,0,0,0,4,1,0,0,51,2,0,1,0.2,0.2,0.1,4,0,26,39,66.7,10,34,4,1,0,Benfica,2019-11-05 Lyon-Benfica,UCL,19-20,e4026cb3
+5e1028e5,Franco Cervi,11,ARG,LM,25-163,72,0,0,0,0,1,0,0,0,44,3,0,2,0.0,0.0,0.1,2,0,26,34,76.5,3,22,0,2,1,Benfica,2019-11-05 Lyon-Benfica,UCL,19-20,e4026cb3
+96094cbc,Pizzi,21,POR,LM,30-030,18,0,1,0,0,0,0,0,0,18,0,0,1,0.0,0.0,0.5,2,1,12,17,70.6,3,12,1,0,0,Benfica,2019-11-05 Lyon-Benfica,UCL,19-20,e4026cb3
+0d10333c,Gabriel,8,BRA,CM,26-048,90,0,0,0,0,3,0,1,0,91,4,2,2,0.4,0.4,0.0,2,0,59,75,78.7,7,58,0,3,2,Benfica,2019-11-05 Lyon-Benfica,UCL,19-20,e4026cb3
+881cd6be,Florentino Luís,61,POR,CM,20-078,90,0,0,0,0,0,0,1,0,75,9,2,0,0.0,0.0,0.0,0,0,54,60,90.0,4,36,0,0,0,Benfica,2019-11-05 Lyon-Benfica,UCL,19-20,e4026cb3
+e2dde94c,Gedson Fernandes,83,POR,RM,20-300,45,0,0,0,0,4,0,0,0,27,2,0,2,0.2,0.2,0.0,2,0,6,16,37.5,3,16,0,2,1,Benfica,2019-11-05 Lyon-Benfica,UCL,19-20,e4026cb3
+a45eac1f,Haris Seferović,14,SUI,RM,27-256,45,1,0,0,0,2,2,0,0,16,0,0,1,0.5,0.5,0.0,2,0,7,11,63.6,1,10,2,2,1,Benfica,2019-11-05 Lyon-Benfica,UCL,19-20,e4026cb3
+b1f4086c,Álex Grimaldo,3,ESP,LB,24-046,90,0,0,0,0,1,0,0,0,84,3,3,1,0.0,0.0,0.3,6,0,50,71,70.4,4,48,2,2,1,Benfica,2019-11-05 Lyon-Benfica,UCL,19-20,e4026cb3
+4b3c863f,Francisco Reis Ferreira,97,POR,CB,22-224,15,0,0,0,0,0,0,0,0,7,1,0,0,0.0,0.0,0.0,0,0,5,6,83.3,0,3,1,1,1,Benfica,2019-11-05 Lyon-Benfica,UCL,19-20,e4026cb3
+ce9e8024,Jardel,33,BRA,CB,33-221,75,0,0,0,0,0,0,0,0,64,1,1,1,0.0,0.0,0.0,1,1,49,55,89.1,4,45,1,0,0,Benfica,2019-11-05 Lyon-Benfica,UCL,19-20,e4026cb3
+31c69ef1,Rúben Dias,6,POR,CB,22-175,90,0,0,0,0,0,0,0,0,54,0,2,1,0.0,0.0,0.0,0,0,36,43,83.7,1,30,0,0,0,Benfica,2019-11-05 Lyon-Benfica,UCL,19-20,e4026cb3
+0dce3356,Tomás Tavares,84,POR,RB,18-243,90,0,0,0,0,0,0,0,0,60,2,0,0,0.0,0.0,0.1,2,0,36,47,76.6,3,31,1,4,1,Benfica,2019-11-05 Lyon-Benfica,UCL,19-20,e4026cb3
+03df04ff,Odisseas Vlachodimos,99,GRE,GK,25-193,90,0,0,0,0,0,0,0,0,27,0,0,0,0.0,0.0,0.0,0,0,24,27,88.9,0,16,0,0,0,Benfica,2019-11-05 Lyon-Benfica,UCL,19-20,e4026cb3

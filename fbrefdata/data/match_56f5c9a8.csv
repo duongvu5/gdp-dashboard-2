@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+3d50bcdb,Moise Kean,18,ITA,FW,22-335,57,0,0,0,0,2,0,0,0,16,0,0,0,0.1,0.1,0.1,3,0,7,9,77.8,1,10,0,2,0,Juventus,2023-01-29 Juventus-Monza,ITA-SERIA_A,22-23,56f5c9a8
+85613cf0,Arkadiusz Milik,14,POL,FW,28-335,33,0,0,0,0,3,1,0,0,7,0,0,1,0.6,0.6,0.2,1,0,2,3,66.7,0,4,0,0,0,Juventus,2023-01-29 Juventus-Monza,ITA-SERIA_A,22-23,56f5c9a8
+19cda00b,Ángel Di María,22,ARG,"FW,AM",34-349,90,0,0,0,0,3,2,0,0,59,0,0,0,0.1,0.1,0.3,9,0,37,49,75.5,6,30,3,6,2,Juventus,2023-01-29 Juventus-Monza,ITA-SERIA_A,22-23,56f5c9a8
+8794e251,Adrien Rabiot,25,FRA,CM,27-301,90,0,0,0,0,3,2,0,0,54,2,0,2,0.3,0.3,0.1,5,0,31,39,79.5,6,22,4,4,1,Juventus,2023-01-29 Juventus-Monza,ITA-SERIA_A,22-23,56f5c9a8
+dff153a4,Leandro Paredes,32,ARG,CM,28-214,45,0,0,0,0,0,0,0,0,33,0,1,0,0.0,0.0,0.0,0,0,23,28,82.1,2,15,0,0,0,Juventus,2023-01-29 Juventus-Monza,ITA-SERIA_A,22-23,56f5c9a8
+a8a874f1,Manuel Locatelli,5,ITA,CM,25-021,45,0,0,0,0,1,1,0,0,42,0,0,2,0.1,0.1,0.0,1,0,22,35,62.9,5,24,2,1,1,Juventus,2023-01-29 Juventus-Monza,ITA-SERIA_A,22-23,56f5c9a8
+366be751,Nicolò Fagioli,44,ITA,CM,21-351,45,0,0,0,0,0,0,0,0,20,1,0,0,0.0,0.0,0.0,0,0,12,16,75.0,1,8,0,0,0,Juventus,2023-01-29 Juventus-Monza,ITA-SERIA_A,22-23,56f5c9a8
+c13ddd3e,Matìas Soulé,30,ARG,"WB,CM",19-289,45,0,0,0,0,2,1,0,0,30,2,0,1,0.1,0.1,0.1,6,0,15,20,75.0,3,17,5,4,1,Juventus,2023-01-29 Juventus-Monza,ITA-SERIA_A,22-23,56f5c9a8
+b1cd37e6,Filip Kostić,17,SRB,WB,30-089,45,0,0,0,0,2,0,0,0,24,1,0,0,0.2,0.2,0.0,0,0,13,15,86.7,1,12,1,0,0,Juventus,2023-01-29 Juventus-Monza,ITA-SERIA_A,22-23,56f5c9a8
+ba492306,Samuel Iling-Junior,43,ENG,WB,19-117,45,0,0,0,0,1,0,0,0,24,1,1,1,0.0,0.0,0.0,1,0,11,15,73.3,1,13,2,2,0,Juventus,2023-01-29 Juventus-Monza,ITA-SERIA_A,22-23,56f5c9a8
+ae4e2852,Mattia De Sciglio,2,ITA,WB,30-101,64,0,0,0,0,0,0,0,0,43,1,1,1,0.0,0.0,0.1,1,0,31,38,81.6,1,26,0,0,0,Juventus,2023-01-29 Juventus-Monza,ITA-SERIA_A,22-23,56f5c9a8
+79443529,Dušan Vlahović,9,SRB,FW,23-001,26,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,2,4,50.0,0,3,0,2,1,Juventus,2023-01-29 Juventus-Monza,ITA-SERIA_A,22-23,56f5c9a8
+94b2001f,Danilo,6,BRA,CB,31-198,90,0,0,0,0,1,0,0,0,82,5,2,0,0.1,0.1,0.1,2,0,57,72,79.2,7,41,2,1,0,Juventus,2023-01-29 Juventus-Monza,ITA-SERIA_A,22-23,56f5c9a8
+5fd5ed86,Gleison Bremer,3,BRA,CB,25-317,90,0,0,0,0,2,1,0,0,58,0,0,2,0.1,0.1,0.0,2,0,42,50,84.0,0,31,0,1,0,Juventus,2023-01-29 Juventus-Monza,ITA-SERIA_A,22-23,56f5c9a8
+18dd3219,Federico Gatti,15,ITA,CB,24-219,90,0,0,0,0,2,0,0,0,71,0,2,1,0.1,0.1,0.0,3,0,50,60,83.3,3,48,2,0,0,Juventus,2023-01-29 Juventus-Monza,ITA-SERIA_A,22-23,56f5c9a8
+01b8a2b2,Wojciech Szczęsny,1,POL,GK,32-286,90,0,0,0,0,0,0,0,0,29,0,0,0,0.0,0.0,0.0,1,0,26,28,92.9,0,18,0,0,0,Juventus,2023-01-29 Juventus-Monza,ITA-SERIA_A,22-23,56f5c9a8
+efc9e31f,Dany Mota,47,POR,FW,24-272,90,1,0,0,0,1,1,0,0,42,0,0,1,0.8,0.8,0.0,1,1,17,25,68.0,0,20,1,2,1,Monza,2023-01-29 Juventus-Monza,ITA-SERIA_A,22-23,56f5c9a8
+54e53b7e,Gianluca Caprari,17,ITA,AM,29-183,69,0,0,0,0,0,0,1,0,36,1,0,0,0.0,0.0,0.0,1,1,23,28,82.1,0,21,1,1,0,Monza,2023-01-29 Juventus-Monza,ITA-SERIA_A,22-23,56f5c9a8
+03f946ed,Andrea Petagna,37,ITA,AM,27-213,21,0,0,0,0,1,1,0,0,13,0,0,0,0.1,0.1,0.0,0,0,3,8,37.5,0,8,0,3,2,Monza,2023-01-29 Juventus-Monza,ITA-SERIA_A,22-23,56f5c9a8
+780e3631,Matteo Pessina,32,ITA,AM,25-283,90,0,0,0,0,0,0,0,0,75,1,1,2,0.0,0.0,0.0,1,0,55,64,85.9,5,40,2,1,0,Monza,2023-01-29 Juventus-Monza,ITA-SERIA_A,22-23,56f5c9a8
+e58cbfd5,Nicolò Rovella,6,ITA,CM,21-056,58,0,0,0,0,0,0,0,0,66,4,0,1,0.0,0.0,0.0,0,0,55,57,96.5,2,34,1,1,0,Monza,2023-01-29 Juventus-Monza,ITA-SERIA_A,22-23,56f5c9a8
+b70bde8f,Stefano Sensi,12,ITA,CM,27-177,32,0,0,0,0,0,0,1,0,36,1,0,3,0.0,0.0,0.0,0,0,23,28,82.1,1,18,0,0,0,Monza,2023-01-29 Juventus-Monza,ITA-SERIA_A,22-23,56f5c9a8
+7afb1573,Pepín,7,EQG,CM,26-168,76,0,1,0,0,0,0,0,0,47,2,1,1,0.0,0.0,0.3,1,1,29,40,72.5,2,29,0,0,0,Monza,2023-01-29 Juventus-Monza,ITA-SERIA_A,22-23,56f5c9a8
+d9ebed1c,Filippo Ranocchia,22,ITA,CM,21-260,14,0,0,0,0,0,0,0,0,11,2,0,0,0.0,0.0,0.0,0,0,5,7,71.4,2,9,0,1,0,Monza,2023-01-29 Juventus-Monza,ITA-SERIA_A,22-23,56f5c9a8
+8d3cd59d,Carlos Augusto,30,BRA,WB,24-022,90,0,1,0,0,0,0,0,0,53,4,0,2,0.0,0.0,0.8,1,1,37,41,90.2,2,23,3,2,1,Monza,2023-01-29 Juventus-Monza,ITA-SERIA_A,22-23,56f5c9a8
+5de3866c,Patrick Ciurria,84,ITA,WB,27-354,76,1,0,0,0,1,1,0,0,37,1,0,1,0.3,0.3,0.0,0,0,20,28,71.4,0,15,0,1,0,Monza,2023-01-29 Juventus-Monza,ITA-SERIA_A,22-23,56f5c9a8
+204ac005,Samuele Birindelli,19,ITA,WB,23-194,14,0,0,0,0,0,0,0,0,20,0,0,0,0.0,0.0,0.1,1,0,14,18,77.8,1,8,0,1,0,Monza,2023-01-29 Juventus-Monza,ITA-SERIA_A,22-23,56f5c9a8
+226008f1,Luca Caldirola,5,ITA,CB,31-362,69,0,0,0,0,0,0,0,0,53,0,1,0,0.0,0.0,0.0,0,0,45,48,93.8,0,28,0,0,0,Monza,2023-01-29 Juventus-Monza,ITA-SERIA_A,22-23,56f5c9a8
+cdf65d12,Marlon,4,BRA,CB,27-144,21,0,0,0,0,0,0,0,0,14,0,1,0,0.0,0.0,0.0,0,0,9,9,100.0,0,6,0,1,0,Monza,2023-01-29 Juventus-Monza,ITA-SERIA_A,22-23,56f5c9a8
+aa54ec6f,Pablo Marí,3,ESP,CB,29-151,90,0,0,0,0,0,0,0,0,67,2,2,0,0.0,0.0,0.0,0,0,49,57,86.0,1,37,0,0,0,Monza,2023-01-29 Juventus-Monza,ITA-SERIA_A,22-23,56f5c9a8
+89976232,Armando Izzo,55,ITA,CB,30-333,90,0,0,0,0,0,0,0,0,78,4,3,2,0.0,0.0,0.0,0,0,57,65,87.7,4,45,1,0,0,Monza,2023-01-29 Juventus-Monza,ITA-SERIA_A,22-23,56f5c9a8
+4e0c8d66,Michele Di Gregorio,16,ITA,GK,25-186,90,0,0,0,0,0,0,0,0,51,0,0,0,0.0,0.0,0.0,0,0,31,44,70.5,0,28,0,0,0,Monza,2023-01-29 Juventus-Monza,ITA-SERIA_A,22-23,56f5c9a8

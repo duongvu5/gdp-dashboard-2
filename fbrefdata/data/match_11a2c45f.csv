@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+70d74ece,Karim Benzema,9,FRA,FW,31-087,81,0,1,0,0,4,2,0,0,32,0,0,0,0.2,0.2,0.9,5,1,22,27,81.5,4,26,6,1,1,Real Madrid,2019-03-16 Real Madrid-Celta Vigo,ESP-LALIGA,18-19,11a2c45f
+5c4dc0ff,Mariano,7,DOM,FW,25-227,9,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,3,4,75.0,0,4,0,0,0,Real Madrid,2019-03-16 Real Madrid-Celta Vigo,ESP-LALIGA,18-19,11a2c45f
+45af8a54,Marco Asensio,20,ESP,LW,23-054,90,0,0,0,0,3,1,0,0,50,1,0,0,0.1,0.1,0.1,5,1,30,41,73.2,4,36,9,4,4,Real Madrid,2019-03-16 Real Madrid-Celta Vigo,ESP-LALIGA,18-19,11a2c45f
+a58bb1e1,Gareth Bale,11,WAL,RW,29-243,90,1,0,0,0,3,2,1,0,64,3,0,2,0.7,0.7,0.1,5,0,35,48,72.9,1,41,3,3,1,Real Madrid,2019-03-16 Real Madrid-Celta Vigo,ESP-LALIGA,18-19,11a2c45f
+a0b4bb3e,Isco,22,ESP,AM,26-329,62,1,0,0,0,4,1,0,0,45,2,0,1,1.1,1.1,0.1,5,0,35,36,97.2,5,33,2,0,0,Real Madrid,2019-03-16 Real Madrid-Celta Vigo,ESP-LALIGA,18-19,11a2c45f
+c0617e2b,Dani Ceballos,24,ESP,"DM,AM",22-221,28,0,0,0,0,1,0,0,0,32,1,1,0,0.1,0.1,0.3,3,0,28,29,96.6,7,28,0,0,0,Real Madrid,2019-03-16 Real Madrid-Celta Vigo,ESP-LALIGA,18-19,11a2c45f
+6ce1f46f,Toni Kroos,8,GER,DM,29-071,90,0,0,0,0,3,0,0,0,97,1,1,0,0.1,0.1,0.3,5,1,80,90,88.9,14,60,3,0,0,Real Madrid,2019-03-16 Real Madrid-Celta Vigo,ESP-LALIGA,18-19,11a2c45f
+6025fab1,Luka Modrić,10,CRO,DM,33-188,76,0,0,0,0,1,0,0,0,66,2,3,0,0.0,0.0,0.2,4,0,51,58,87.9,13,42,0,2,0,Real Madrid,2019-03-16 Real Madrid-Celta Vigo,ESP-LALIGA,18-19,11a2c45f
+0959c2a2,Federico Valverde,15,URU,AM,20-237,14,0,0,0,0,0,0,0,0,15,0,0,0,0.0,0.0,0.0,2,0,12,15,80.0,3,14,2,1,1,Real Madrid,2019-03-16 Real Madrid-Celta Vigo,ESP-LALIGA,18-19,11a2c45f
+603116a7,Marcelo,12,BRA,LB,30-308,90,0,1,0,0,1,1,0,0,72,1,0,0,0.0,0.0,0.4,5,1,52,66,78.8,13,45,4,3,3,Real Madrid,2019-03-16 Real Madrid-Celta Vigo,ESP-LALIGA,18-19,11a2c45f
+08511d65,Sergio Ramos,4,ESP,CB,32-351,90,0,0,0,0,2,0,0,0,72,2,3,1,0.2,0.2,0.0,0,0,56,60,93.3,7,45,0,1,0,Real Madrid,2019-03-16 Real Madrid-Celta Vigo,ESP-LALIGA,18-19,11a2c45f
+9f8e9423,Raphaël Varane,5,FRA,CB,25-325,90,0,0,0,0,0,0,0,0,49,1,0,2,0.0,0.0,0.0,0,0,34,37,91.9,2,26,0,0,0,Real Madrid,2019-03-16 Real Madrid-Celta Vigo,ESP-LALIGA,18-19,11a2c45f
+1d1691ad,Álvaro Odriozola,19,ESP,RB,23-092,90,0,0,0,0,0,0,0,0,63,2,0,2,0.0,0.0,0.0,1,0,45,56,80.4,4,37,3,2,1,Real Madrid,2019-03-16 Real Madrid-Celta Vigo,ESP-LALIGA,18-19,11a2c45f
+ecada4fc,Keylor Navas,1,CRC,GK,32-091,90,0,0,0,0,0,0,0,0,22,0,0,0,0.0,0.0,0.0,0,0,16,20,80.0,0,10,0,0,0,Real Madrid,2019-03-16 Real Madrid-Celta Vigo,ESP-LALIGA,18-19,11a2c45f
+4c2e9442,Maxi Gómez,9,URU,FW,22-214,90,0,0,0,0,2,1,0,0,35,1,0,0,0.3,0.3,0.1,2,0,18,25,72.0,1,17,4,0,0,Celta Vigo,2019-03-16 Real Madrid-Celta Vigo,ESP-LALIGA,18-19,11a2c45f
+b0c71810,Sofiane Boufal,19,MAR,LW,25-180,67,0,0,0,0,2,0,0,0,47,1,0,1,0.1,0.1,0.0,2,0,20,29,69.0,2,32,5,9,6,Celta Vigo,2019-03-16 Real Madrid-Celta Vigo,ESP-LALIGA,18-19,11a2c45f
+2ef16f06,Andrew Hjulsager,16,DEN,LW,24-060,23,0,0,0,0,1,0,0,0,16,1,1,0,0.1,0.1,0.0,0,0,6,9,66.7,1,11,0,2,1,Celta Vigo,2019-03-16 Real Madrid-Celta Vigo,ESP-LALIGA,18-19,11a2c45f
+fd9c4805,Pione Sisto,11,DEN,RW,24-040,90,0,0,0,0,0,0,0,0,40,0,1,0,0.0,0.0,0.0,1,0,28,36,77.8,1,32,2,1,1,Celta Vigo,2019-03-16 Real Madrid-Celta Vigo,ESP-LALIGA,18-19,11a2c45f
+c9e39d91,Brais Méndez,23,ESP,AM,22-068,90,0,0,0,0,1,0,0,0,59,3,1,0,0.0,0.0,0.1,1,0,41,52,78.8,5,32,0,0,0,Celta Vigo,2019-03-16 Real Madrid-Celta Vigo,ESP-LALIGA,18-19,11a2c45f
+e1cbb531,Stanislav Lobotka,14,SVK,DM,24-111,90,0,0,0,0,0,0,0,0,82,0,1,1,0.0,0.0,0.0,1,0,75,77,97.4,4,60,2,1,0,Celta Vigo,2019-03-16 Real Madrid-Celta Vigo,ESP-LALIGA,18-19,11a2c45f
+e49ce451,Okay Yokuşlu,5,TUR,DM,25-007,74,0,0,0,0,0,0,0,0,43,2,2,4,0.0,0.0,0.0,1,0,29,32,90.6,3,22,2,1,1,Celta Vigo,2019-03-16 Real Madrid-Celta Vigo,ESP-LALIGA,18-19,11a2c45f
+ed5c5fa3,Fran Beltrán,8,ESP,DM,20-041,16,0,0,0,0,0,0,0,0,17,0,0,0,0.0,0.0,0.0,0,0,17,17,100.0,0,16,0,0,0,Celta Vigo,2019-03-16 Real Madrid-Celta Vigo,ESP-LALIGA,18-19,11a2c45f
+de7d40d6,David Juncà,17,ESP,LB,25-120,3,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,3,3,100.0,0,2,0,0,0,Celta Vigo,2019-03-16 Real Madrid-Celta Vigo,ESP-LALIGA,18-19,11a2c45f
+875898c7,Wesley Hoedt,12,NED,"CB,LB",25-010,87,0,0,0,0,0,0,0,0,64,0,2,4,0.0,0.0,0.0,1,0,50,52,96.2,1,35,0,1,1,Celta Vigo,2019-03-16 Real Madrid-Celta Vigo,ESP-LALIGA,18-19,11a2c45f
+545e2f01,David Costas,3,ESP,"RB,CB",23-355,90,0,0,0,0,0,0,0,0,54,2,4,1,0.0,0.0,0.0,0,0,33,40,82.5,1,28,0,0,0,Celta Vigo,2019-03-16 Real Madrid-Celta Vigo,ESP-LALIGA,18-19,11a2c45f
+27a013f7,Néstor Araujo,4,MEX,CB,27-199,90,0,0,0,0,0,0,0,0,63,0,0,2,0.0,0.0,0.0,0,0,49,54,90.7,2,35,0,0,0,Celta Vigo,2019-03-16 Real Madrid-Celta Vigo,ESP-LALIGA,18-19,11a2c45f
+ee923664,Kevin Vázquez,20,ESP,"LB,RB",25-358,90,0,0,0,0,0,0,0,0,56,3,1,3,0.0,0.0,0.0,1,0,32,41,78.0,1,28,0,0,0,Celta Vigo,2019-03-16 Real Madrid-Celta Vigo,ESP-LALIGA,18-19,11a2c45f
+967f34d3,Rubén Blanco,13,ESP,GK,23-234,90,0,0,0,0,0,0,0,0,46,0,0,0,0.0,0.0,0.1,1,0,30,42,71.4,0,17,0,0,0,Celta Vigo,2019-03-16 Real Madrid-Celta Vigo,ESP-LALIGA,18-19,11a2c45f

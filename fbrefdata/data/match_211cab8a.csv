@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+0b90bb97,Santi Mina,22,ESP,FW,25-139,81,0,1,0,0,1,0,0,0,33,0,0,3,0.1,0.1,0.4,2,1,15,21,71.4,2,15,1,0,0,Celta Vigo,2021-04-25 Celta Vigo-Osasuna,ESP-LALIGA,20-21,211cab8a
+2f3e911a,Aarón Martín,19,ESP,"LB,FW",24-003,9,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,5,9,55.6,0,4,0,1,1,Celta Vigo,2021-04-25 Celta Vigo-Osasuna,ESP-LALIGA,20-21,211cab8a
+7dcf86f6,Iago Aspas,10,ESP,FW,33-267,90,1,0,0,0,1,1,1,0,40,0,0,1,0.4,0.4,0.2,4,1,20,31,64.5,0,29,3,2,2,Celta Vigo,2021-04-25 Celta Vigo-Osasuna,ESP-LALIGA,20-21,211cab8a
+b2d0ec1b,Nolito,9,ESP,LM,34-192,60,0,0,0,0,0,0,0,0,32,5,2,0,0.0,0.0,0.0,1,0,15,22,68.2,2,20,3,0,0,Celta Vigo,2021-04-25 Celta Vigo-Osasuna,ESP-LALIGA,20-21,211cab8a
+ed5c5fa3,Fran Beltrán,8,ESP,"LM,CM",22-081,30,0,0,0,0,0,0,0,0,13,0,0,1,0.0,0.0,0.0,0,0,9,11,81.8,0,3,0,0,0,Celta Vigo,2021-04-25 Celta Vigo-Osasuna,ESP-LALIGA,20-21,211cab8a
+12c50af5,Denis Suárez,6,ESP,"CM,LM",27-109,90,0,1,0,0,0,0,0,0,64,0,2,1,0.0,0.0,0.1,3,1,44,57,77.2,6,34,2,2,2,Celta Vigo,2021-04-25 Celta Vigo-Osasuna,ESP-LALIGA,20-21,211cab8a
+c9e39d91,Brais Méndez,23,ESP,RM,24-108,60,0,0,0,0,2,0,0,0,42,2,2,0,0.1,0.1,0.0,0,0,17,25,68.0,1,25,2,2,0,Celta Vigo,2021-04-25 Celta Vigo-Osasuna,ESP-LALIGA,20-21,211cab8a
+3ca6106c,Augusto Solari,21,ARG,RM,29-112,30,0,0,0,0,0,0,0,0,12,1,0,0,0.0,0.0,0.0,0,0,3,6,50.0,1,6,0,2,1,Celta Vigo,2021-04-25 Celta Vigo-Osasuna,ESP-LALIGA,20-21,211cab8a
+34269bdf,Renato Tapia,14,PER,"DM,CM",25-271,90,0,0,0,0,0,0,0,0,53,2,3,2,0.0,0.0,0.1,1,0,24,35,68.6,6,13,0,0,0,Celta Vigo,2021-04-25 Celta Vigo-Osasuna,ESP-LALIGA,20-21,211cab8a
+1827a42d,José Fontán,29,ESP,LB,21-073,81,0,0,0,0,0,0,0,0,38,4,0,0,0.0,0.0,0.0,1,0,23,27,85.2,3,14,0,0,0,Celta Vigo,2021-04-25 Celta Vigo-Osasuna,ESP-LALIGA,20-21,211cab8a
+27a013f7,Néstor Araujo,4,MEX,"CB,LB",29-239,9,0,0,0,0,0,0,0,0,8,0,0,1,0.0,0.0,0.0,0,0,2,6,33.3,1,3,0,0,0,Celta Vigo,2021-04-25 Celta Vigo-Osasuna,ESP-LALIGA,20-21,211cab8a
+b233e8e4,Jeison Murillo,24,COL,CB,28-333,90,1,0,0,0,2,1,0,0,46,2,2,2,0.1,0.1,0.0,0,0,18,29,62.1,0,19,0,0,0,Celta Vigo,2021-04-25 Celta Vigo-Osasuna,ESP-LALIGA,20-21,211cab8a
+18abe173,Joseph Aidoo,18,GHA,CB,25-208,90,0,0,0,0,0,0,0,0,47,4,1,0,0.0,0.0,0.0,0,0,22,30,73.3,2,25,0,0,0,Celta Vigo,2021-04-25 Celta Vigo-Osasuna,ESP-LALIGA,20-21,211cab8a
+cb574619,Hugo Mallo,2,ESP,RB,29-307,6,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,4,5,80.0,2,3,0,0,0,Celta Vigo,2021-04-25 Celta Vigo-Osasuna,ESP-LALIGA,20-21,211cab8a
+ee923664,Kevin Vázquez,20,ESP,RB,28-033,84,0,0,0,0,1,0,0,0,74,3,4,3,0.0,0.0,0.0,1,0,37,57,64.9,1,25,0,1,0,Celta Vigo,2021-04-25 Celta Vigo-Osasuna,ESP-LALIGA,20-21,211cab8a
+cde52ef5,Iván Villar,1,ESP,GK,23-290,90,0,0,0,0,0,0,0,0,33,0,0,0,0.0,0.0,0.0,0,0,15,30,50.0,0,10,0,0,0,Celta Vigo,2021-04-25 Celta Vigo-Osasuna,ESP-LALIGA,20-21,211cab8a
+8f3565b3,Ante Budimir,17,CRO,FW,29-277,73,0,0,0,0,2,1,0,0,38,2,0,0,0.1,0.1,0.0,1,0,10,25,40.0,0,10,0,2,0,Osasuna,2021-04-25 Celta Vigo-Osasuna,ESP-LALIGA,20-21,211cab8a
+82e9b89d,Enric Gallego,19,ESP,FW,34-225,17,0,0,0,0,0,0,0,0,3,1,0,0,0.0,0.0,0.0,1,0,1,2,50.0,0,1,0,0,0,Osasuna,2021-04-25 Celta Vigo-Osasuna,ESP-LALIGA,20-21,211cab8a
+5c96b017,Rubén García,14,ESP,LW,27-285,45,0,0,0,0,1,0,0,0,26,4,0,1,0.0,0.0,0.0,1,0,11,18,61.1,0,13,0,0,0,Osasuna,2021-04-25 Celta Vigo-Osasuna,ESP-LALIGA,20-21,211cab8a
+d733aa38,Roberto Torres,10,ESP,"RW,RM",32-049,45,1,0,1,1,0,0,0,0,25,0,0,0,0.8,0.0,0.1,3,1,12,21,57.1,1,12,0,0,0,Osasuna,2021-04-25 Celta Vigo-Osasuna,ESP-LALIGA,20-21,211cab8a
+aad53e64,Kike Barja,11,ESP,RW,24-024,45,0,0,0,0,0,0,0,0,14,0,1,0,0.0,0.0,0.0,0,0,8,10,80.0,1,10,0,5,4,Osasuna,2021-04-25 Celta Vigo-Osasuna,ESP-LALIGA,20-21,211cab8a
+244f57b9,Jony,7,ESP,"LW,LM",29-290,45,0,0,0,0,0,0,0,0,28,1,1,1,0.0,0.0,0.0,0,0,7,20,35.0,0,14,1,3,1,Osasuna,2021-04-25 Celta Vigo-Osasuna,ESP-LALIGA,20-21,211cab8a
+4accb7e0,Darko Brašanac,8,SRB,"LM,CM",29-072,90,0,0,0,0,1,1,1,0,42,0,0,0,0.1,0.1,0.0,1,0,20,33,60.6,2,17,1,2,1,Osasuna,2021-04-25 Celta Vigo-Osasuna,ESP-LALIGA,20-21,211cab8a
+9939e168,Jon Moncayola,27,ESP,CM,22-347,90,0,0,0,0,4,0,0,0,60,2,2,2,0.2,0.2,0.1,2,0,33,46,71.7,5,20,1,0,0,Osasuna,2021-04-25 Celta Vigo-Osasuna,ESP-LALIGA,20-21,211cab8a
+466824fb,Oier Sanjurjo,6,ESP,RM,34-335,72,0,0,0,0,1,0,1,0,31,0,2,0,0.1,0.1,0.0,1,0,19,26,73.1,4,19,0,1,0,Osasuna,2021-04-25 Celta Vigo-Osasuna,ESP-LALIGA,20-21,211cab8a
+253a06b9,Ezequiel Ávila,9,ARG,FW,27-078,18,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,1,0,0,0,Osasuna,2021-04-25 Celta Vigo-Osasuna,ESP-LALIGA,20-21,211cab8a
+a56da3ba,Juan Cruz Armada,3,ESP,LB,28-271,45,0,0,0,0,0,0,1,0,37,0,0,0,0.0,0.0,0.0,1,0,20,32,62.5,1,11,0,0,0,Osasuna,2021-04-25 Celta Vigo-Osasuna,ESP-LALIGA,20-21,211cab8a
+ffacd3d5,Manu Sánchez,39,ESP,LB,20-244,45,0,0,0,0,0,0,1,0,31,0,1,1,0.0,0.0,0.1,2,0,24,29,82.8,3,10,1,1,1,Osasuna,2021-04-25 Celta Vigo-Osasuna,ESP-LALIGA,20-21,211cab8a
+51e3954c,Facundo Roncaglia,12,ARG,CB,34-074,90,0,0,0,0,1,0,0,0,56,3,0,2,0.1,0.1,0.0,0,0,28,43,65.1,3,21,3,0,0,Osasuna,2021-04-25 Celta Vigo-Osasuna,ESP-LALIGA,20-21,211cab8a
+4a633cfe,Unai García,4,ESP,CB,29-081,90,0,0,0,0,1,0,0,0,43,0,3,2,0.1,0.1,0.0,1,0,22,33,66.7,3,16,0,0,0,Osasuna,2021-04-25 Celta Vigo-Osasuna,ESP-LALIGA,20-21,211cab8a
+be3a0121,Jonás Ramalho,15,ESP,RB,27-319,90,0,0,0,0,0,0,0,0,54,3,0,1,0.0,0.0,0.0,3,0,28,47,59.6,4,22,3,3,3,Osasuna,2021-04-25 Celta Vigo-Osasuna,ESP-LALIGA,20-21,211cab8a
+a4995f48,Sergio Herrera,1,ESP,GK,27-324,90,0,0,0,0,0,0,0,0,35,0,0,0,0.0,0.0,0.0,0,0,22,35,62.9,0,23,0,0,0,Osasuna,2021-04-25 Celta Vigo-Osasuna,ESP-LALIGA,20-21,211cab8a

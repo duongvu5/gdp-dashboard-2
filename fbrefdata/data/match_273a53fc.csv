@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+70d74ece,Karim Benzema,9,FRA,FW,30-256,90,2,0,0,0,4,3,0,0,47,0,0,0,0.2,0.2,0.0,3,1,33,38,86.8,4,26,3,1,0,Real Madrid,2018-09-01 Real Madrid-Leganés,ESP-LALIGA,18-19,273a53fc
+45af8a54,Marco Asensio,20,ESP,LW,22-223,77,0,1,0,0,3,1,0,0,65,0,0,1,0.4,0.4,0.2,7,2,48,57,84.2,3,55,7,3,3,Real Madrid,2018-09-01 Real Madrid-Leganés,ESP-LALIGA,18-19,273a53fc
+c0617e2b,Dani Ceballos,24,ESP,LW,22-025,13,0,0,0,0,0,0,0,0,30,1,0,0,0.0,0.0,0.0,0,0,27,27,100.0,3,22,0,2,2,Real Madrid,2018-09-01 Real Madrid-Leganés,ESP-LALIGA,18-19,273a53fc
+a58bb1e1,Gareth Bale,11,WAL,RW,29-047,84,1,0,0,0,5,2,0,0,75,0,0,0,0.5,0.5,0.0,1,0,51,65,78.5,9,63,9,1,1,Real Madrid,2018-09-01 Real Madrid-Leganés,ESP-LALIGA,18-19,273a53fc
+fd51b456,Lucas Vázquez,17,ESP,RW,27-062,6,0,0,0,0,0,0,0,0,10,2,1,0,0.0,0.0,0.4,1,0,5,7,71.4,0,5,2,0,0,Real Madrid,2018-09-01 Real Madrid-Leganés,ESP-LALIGA,18-19,273a53fc
+6ce1f46f,Toni Kroos,8,GER,LM,28-240,90,0,0,0,0,2,0,0,0,118,1,0,0,0.1,0.1,0.1,4,0,103,112,92.0,10,86,1,0,0,Real Madrid,2018-09-01 Real Madrid-Leganés,ESP-LALIGA,18-19,273a53fc
+4d224fe8,Casemiro,14,BRA,CM,26-190,90,0,0,0,0,0,0,0,0,91,3,1,1,0.0,0.0,0.0,0,0,74,86,86.0,5,58,0,0,0,Real Madrid,2018-09-01 Real Madrid-Leganés,ESP-LALIGA,18-19,273a53fc
+6025fab1,Luka Modrić,10,CRO,RM,32-357,61,0,1,0,0,0,0,1,0,63,0,0,0,0.0,0.0,0.1,4,1,51,58,87.9,6,52,0,2,0,Real Madrid,2018-09-01 Real Madrid-Leganés,ESP-LALIGA,18-19,273a53fc
+a0b4bb3e,Isco,22,ESP,RM,26-133,29,0,0,0,0,1,1,0,0,45,0,1,0,0.4,0.4,0.0,0,0,37,40,92.5,3,36,0,4,3,Real Madrid,2018-09-01 Real Madrid-Leganés,ESP-LALIGA,18-19,273a53fc
+603116a7,Marcelo,12,BRA,LB,30-112,90,0,0,0,0,0,0,0,0,115,3,1,0,0.0,0.0,0.4,6,2,93,107,86.9,10,92,3,1,0,Real Madrid,2018-09-01 Real Madrid-Leganés,ESP-LALIGA,18-19,273a53fc
+08511d65,Sergio Ramos,4,ESP,CB,32-155,90,1,0,1,1,0,0,0,0,121,2,1,0,0.8,0.0,0.0,1,1,108,114,94.7,9,91,1,0,0,Real Madrid,2018-09-01 Real Madrid-Leganés,ESP-LALIGA,18-19,273a53fc
+9f8e9423,Raphaël Varane,5,FRA,CB,25-129,90,0,0,0,0,1,0,0,0,89,2,0,0,0.0,0.0,0.0,0,0,79,85,92.9,3,65,1,1,1,Real Madrid,2018-09-01 Real Madrid-Leganés,ESP-LALIGA,18-19,273a53fc
+4958bfb2,Dani Carvajal,2,ESP,RB,26-233,90,0,1,0,0,0,0,0,0,112,2,2,0,0.0,0.0,0.5,6,1,98,105,93.3,5,85,5,3,3,Real Madrid,2018-09-01 Real Madrid-Leganés,ESP-LALIGA,18-19,273a53fc
+1840e36d,Thibaut Courtois,25,BEL,GK,26-113,90,0,0,0,0,0,0,0,0,24,0,0,0,0.0,0.0,0.0,0,0,23,23,100.0,0,15,0,0,0,Real Madrid,2018-09-01 Real Madrid-Leganés,ESP-LALIGA,18-19,273a53fc
+8f898ba8,Guido Carrillo,9,ARG,FW,27-099,90,1,0,1,1,0,0,0,0,28,1,0,0,0.8,0.0,0.0,0,0,13,23,56.5,1,11,0,1,0,Leganés,2018-09-01 Real Madrid-Leganés,ESP-LALIGA,18-19,273a53fc
+3cb6f224,Michael Santos,20,URU,"LM,FW,LW",25-172,80,0,0,0,0,3,1,1,0,25,2,0,3,0.1,0.1,0.0,3,1,12,13,92.3,1,15,1,0,0,Leganés,2018-09-01 Real Madrid-Leganés,ESP-LALIGA,18-19,273a53fc
+d1491e00,Diego Rolán,4,URU,LM,25-161,10,0,0,0,0,0,0,0,0,9,0,1,0,0.0,0.0,0.0,1,0,3,3,100.0,1,9,1,3,0,Leganés,2018-09-01 Real Madrid-Leganés,ESP-LALIGA,18-19,273a53fc
+37f96552,Nabil El Zhar,10,MAR,"LM,RW,RM",32-005,69,0,0,0,0,1,0,0,0,17,1,0,0,0.0,0.0,0.0,1,0,9,10,90.0,5,12,1,1,0,Leganés,2018-09-01 Real Madrid-Leganés,ESP-LALIGA,18-19,273a53fc
+04e17fd5,Youssef En-Nesyri,26,MAR,RM,21-092,21,0,0,0,0,2,0,0,0,8,0,1,0,0.1,0.1,0.0,0,0,2,3,66.7,0,6,0,0,0,Leganés,2018-09-01 Real Madrid-Leganés,ESP-LALIGA,18-19,273a53fc
+ac454a4f,Gerard Gumbau,6,ESP,CM,23-257,90,0,0,0,0,0,0,0,0,29,1,1,0,0.0,0.0,0.0,0,0,18,24,75.0,4,19,0,0,0,Leganés,2018-09-01 Real Madrid-Leganés,ESP-LALIGA,18-19,273a53fc
+3c7bc9bd,Rubén Pérez,21,ESP,CM,29-128,90,0,0,0,0,0,0,0,0,44,0,3,3,0.0,0.0,0.0,0,0,31,36,86.1,4,25,0,0,0,Leganés,2018-09-01 Real Madrid-Leganés,ESP-LALIGA,18-19,273a53fc
+aec0fb6f,Javier Eraso,17,ESP,"RM,CM,FW",28-163,68,0,0,0,0,1,1,0,0,19,0,0,0,0.0,0.0,0.1,3,1,13,14,92.9,0,12,0,0,0,Leganés,2018-09-01 Real Madrid-Leganés,ESP-LALIGA,18-19,273a53fc
+b0fce72c,Mikel Vesga,23,ESP,FW,25-103,22,0,0,0,0,0,0,0,0,10,1,0,1,0.0,0.0,0.0,1,0,7,7,100.0,0,5,1,0,0,Leganés,2018-09-01 Real Madrid-Leganés,ESP-LALIGA,18-19,273a53fc
+f2308b33,Jonathan Silva,5,ARG,LB,24-064,90,0,0,0,0,0,0,0,0,56,2,0,1,0.0,0.0,0.2,3,0,23,44,52.3,3,23,2,0,0,Leganés,2018-09-01 Real Madrid-Leganés,ESP-LALIGA,18-19,273a53fc
+92d38e6c,Dimitris Siovas,22,GRE,CB,29-350,90,0,0,0,0,0,0,0,0,25,1,2,0,0.0,0.0,0.0,0,0,17,20,85.0,1,17,0,1,1,Leganés,2018-09-01 Real Madrid-Leganés,ESP-LALIGA,18-19,273a53fc
+f3112790,Unai Bustinza,3,ESP,CB,26-211,90,0,0,0,0,0,0,0,0,43,1,3,2,0.0,0.0,0.0,0,0,21,29,72.4,1,19,0,0,0,Leganés,2018-09-01 Real Madrid-Leganés,ESP-LALIGA,18-19,273a53fc
+9ba48d64,Juanfran,2,ESP,RB,29-355,90,0,0,0,0,0,0,0,0,37,1,0,1,0.0,0.0,0.0,1,0,19,30,63.3,4,24,1,2,1,Leganés,2018-09-01 Real Madrid-Leganés,ESP-LALIGA,18-19,273a53fc
+75751c99,Iván Cuéllar,1,ESP,GK,34-097,90,0,0,0,0,0,0,0,0,29,0,0,0,0.0,0.0,0.0,0,0,14,26,53.8,0,11,0,0,0,Leganés,2018-09-01 Real Madrid-Leganés,ESP-LALIGA,18-19,273a53fc

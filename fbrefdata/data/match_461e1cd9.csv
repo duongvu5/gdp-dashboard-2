@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+c283ddef,Sam Lammers,10,NED,FW,25-253,82,0,0,0,0,3,0,0,0,29,2,0,0,0.3,0.3,0.0,3,0,14,17,82.4,1,15,2,1,0,Sampdoria,2023-01-08 Sampdoria-Napoli,ITA-SERIA_A,22-23,461e1cd9
+ca73910d,Daniele Montevago,34,ITA,FW,19-296,8,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,2,4,50.0,0,2,0,0,0,Sampdoria,2023-01-08 Sampdoria-Napoli,ITA-SERIA_A,22-23,461e1cd9
+8f866fe8,Manolo Gabbiadini,23,ITA,FW,31-043,45,0,0,0,0,2,1,0,0,20,0,0,0,0.1,0.1,0.1,1,0,8,14,57.1,0,13,0,0,0,Sampdoria,2023-01-08 Sampdoria-Napoli,ITA-SERIA_A,22-23,461e1cd9
+eccbe56a,Filip Đuričić,7,SRB,LM,30-343,45,0,0,0,0,1,0,0,0,18,1,0,1,0.0,0.0,0.0,0,0,10,13,76.9,2,8,2,0,0,Sampdoria,2023-01-08 Sampdoria-Napoli,ITA-SERIA_A,22-23,461e1cd9
+33ecf462,Valerio Verre,5,ITA,"AM,CM",28-362,53,0,0,0,0,1,1,0,0,29,1,1,0,0.0,0.0,0.3,3,0,15,25,60.0,3,21,1,2,1,Sampdoria,2023-01-08 Sampdoria-Napoli,ITA-SERIA_A,22-23,461e1cd9
+bdc74a8f,Gonzalo Villar,4,ESP,CM,24-291,37,0,0,0,0,0,0,0,0,14,0,0,0,0.0,0.0,0.0,0,0,9,11,81.8,1,9,0,0,0,Sampdoria,2023-01-08 Sampdoria-Napoli,ITA-SERIA_A,22-23,461e1cd9
+75e60d75,Ronaldo Vieira,14,ENG,CM,24-173,82,0,0,0,0,1,0,0,0,49,3,0,2,0.0,0.0,0.0,0,0,32,39,82.1,2,26,0,1,1,Sampdoria,2023-01-08 Sampdoria-Napoli,ITA-SERIA_A,22-23,461e1cd9
+3d6cee81,Flavio Paoletti,36,ITA,CM,19-357,8,0,0,0,0,0,0,0,0,7,0,1,0,0.0,0.0,0.0,0,0,6,7,85.7,0,7,1,0,0,Sampdoria,2023-01-08 Sampdoria-Napoli,ITA-SERIA_A,22-23,461e1cd9
+f1cfc209,Tomás Rincón,8,VEN,CM,34-360,38,0,0,0,0,0,0,0,1,23,0,2,1,0.0,0.0,0.0,1,0,16,20,80.0,2,15,0,0,0,Sampdoria,2023-01-08 Sampdoria-Napoli,ITA-SERIA_A,22-23,461e1cd9
+3cd3b384,Tommaso Augello,3,ITA,"LB,WB",28-131,90,0,0,0,0,0,0,0,0,46,2,1,0,0.0,0.0,0.1,3,0,27,38,71.1,2,29,1,3,2,Sampdoria,2023-01-08 Sampdoria-Napoli,ITA-SERIA_A,22-23,461e1cd9
+7d3cbc67,Mehdi Léris,37,ALG,"RM,WB",24-230,90,0,0,0,0,0,0,1,0,44,1,2,0,0.0,0.0,0.0,2,0,24,33,72.7,3,28,1,1,0,Sampdoria,2023-01-08 Sampdoria-Napoli,ITA-SERIA_A,22-23,461e1cd9
+d183e9d6,Nicola Murru,29,ITA,CB,28-023,90,0,0,0,0,0,0,1,0,43,5,0,4,0.0,0.0,0.0,0,0,28,33,84.8,5,25,0,0,0,Sampdoria,2023-01-08 Sampdoria-Napoli,ITA-SERIA_A,22-23,461e1cd9
+e33f36d5,Bram Nuytinck,17,NED,CB,32-249,90,0,0,0,0,1,0,0,0,50,6,0,2,0.1,0.1,0.0,0,0,27,31,87.1,2,27,0,0,0,Sampdoria,2023-01-08 Sampdoria-Napoli,ITA-SERIA_A,22-23,461e1cd9
+b233e8e4,Jeison Murillo,21,COL,CB,30-226,45,0,0,0,0,0,0,1,0,21,1,0,1,0.0,0.0,0.0,0,0,16,19,84.2,0,7,0,0,0,Sampdoria,2023-01-08 Sampdoria-Napoli,ITA-SERIA_A,22-23,461e1cd9
+3b12b11f,Alessandro Zanoli,59,ITA,RB,22-097,45,0,0,0,0,0,0,0,0,20,0,0,0,0.0,0.0,0.0,0,0,14,18,77.8,0,11,0,0,0,Sampdoria,2023-01-08 Sampdoria-Napoli,ITA-SERIA_A,22-23,461e1cd9
+649b01d8,Emil Audero,1,ITA,GK,25-355,90,0,0,0,0,0,0,0,0,44,0,0,0,0.0,0.0,0.0,1,0,20,39,51.3,0,19,0,0,0,Sampdoria,2023-01-08 Sampdoria-Napoli,ITA-SERIA_A,22-23,461e1cd9
+8c90fd7a,Victor Osimhen,9,NGA,FW,24-010,90,1,0,0,0,5,2,0,0,35,0,0,0,0.6,0.6,0.1,3,0,12,17,70.6,3,24,1,2,1,Napoli,2023-01-08 Sampdoria-Napoli,ITA-SERIA_A,22-23,461e1cd9
+dea88efd,Khvicha Kvaratskhelia,77,GEO,LW,21-330,61,0,0,0,0,3,1,0,0,39,3,0,2,0.3,0.3,0.0,0,0,22,24,91.7,0,24,2,4,0,Napoli,2023-01-08 Sampdoria-Napoli,ITA-SERIA_A,22-23,461e1cd9
+a5296e55,Piotr Zieliński,20,POL,LW,28-233,29,0,0,0,0,1,0,0,0,19,0,0,1,0.0,0.0,0.0,1,0,14,17,82.4,2,13,2,0,0,Napoli,2023-01-08 Sampdoria-Napoli,ITA-SERIA_A,22-23,461e1cd9
+5e861944,Matteo Politano,21,ITA,RW,29-158,61,0,0,0,1,2,0,0,0,46,0,0,0,0.9,0.1,0.5,8,0,28,40,70.0,4,29,7,1,0,Napoli,2023-01-08 Sampdoria-Napoli,ITA-SERIA_A,22-23,461e1cd9
+a69e4806,Hirving Lozano,11,MEX,RW,27-162,29,0,0,0,0,1,1,0,0,20,0,0,1,0.1,0.1,0.0,2,1,11,15,73.3,1,14,3,1,0,Napoli,2023-01-08 Sampdoria-Napoli,ITA-SERIA_A,22-23,461e1cd9
+6bb2c084,Andre-Frank Zambo Anguissa,99,CMR,LM,27-053,65,0,0,0,0,1,0,1,0,56,1,1,1,0.1,0.1,0.0,3,0,41,48,85.4,5,40,0,0,0,Napoli,2023-01-08 Sampdoria-Napoli,ITA-SERIA_A,22-23,461e1cd9
+5cdddffa,Tanguy Ndombele,91,FRA,LM,26-011,25,0,0,0,0,1,0,0,0,28,0,1,0,0.0,0.0,0.1,2,0,25,25,100.0,3,19,1,1,0,Napoli,2023-01-08 Sampdoria-Napoli,ITA-SERIA_A,22-23,461e1cd9
+e1cbb531,Stanislav Lobotka,68,SVK,CM,28-044,90,0,0,0,0,2,1,0,0,79,2,0,0,0.1,0.1,0.0,6,0,68,70,97.1,10,46,1,2,1,Napoli,2023-01-08 Sampdoria-Napoli,ITA-SERIA_A,22-23,461e1cd9
+cf007308,Elif Elmas,7,MKD,RM,23-106,86,1,0,1,1,3,1,0,0,60,0,0,0,1.0,0.2,0.1,5,0,43,50,86.0,2,31,0,1,0,Napoli,2023-01-08 Sampdoria-Napoli,ITA-SERIA_A,22-23,461e1cd9
+6e058f06,Giacomo Raspadori,81,ITA,RM,22-324,4,0,0,0,0,1,0,0,0,11,1,0,0,0.1,0.1,0.1,1,0,7,8,87.5,1,4,0,0,0,Napoli,2023-01-08 Sampdoria-Napoli,ITA-SERIA_A,22-23,461e1cd9
+0b5a292a,Mário Rui,6,POR,LB,31-226,90,0,1,0,0,1,0,0,0,119,2,0,1,0.0,0.0,0.5,5,1,96,111,86.5,17,68,4,1,0,Napoli,2023-01-08 Sampdoria-Napoli,ITA-SERIA_A,22-23,461e1cd9
+79083382,Juan Jesus,5,BRA,CB,31-212,90,0,0,0,0,0,0,1,0,86,0,0,1,0.0,0.0,0.0,1,1,73,78,93.6,6,55,0,0,0,Napoli,2023-01-08 Sampdoria-Napoli,ITA-SERIA_A,22-23,461e1cd9
+e0f8151c,Kim Min-jae,3,KOR,CB,26-054,45,0,0,0,0,0,0,0,0,41,1,1,0,0.0,0.0,0.0,0,0,35,36,97.2,2,24,0,0,0,Napoli,2023-01-08 Sampdoria-Napoli,ITA-SERIA_A,22-23,461e1cd9
+4b3e1a38,Amir Rrahmani,13,KVX,CB,28-318,45,0,0,0,0,0,0,0,0,61,0,0,1,0.0,0.0,0.0,1,0,58,60,96.7,12,38,2,1,1,Napoli,2023-01-08 Sampdoria-Napoli,ITA-SERIA_A,22-23,461e1cd9
+230a2fac,Giovanni Di Lorenzo,22,ITA,RB,29-157,90,0,0,0,0,1,0,0,0,79,2,1,1,0.1,0.1,0.1,7,0,67,73,91.8,11,52,5,1,0,Napoli,2023-01-08 Sampdoria-Napoli,ITA-SERIA_A,22-23,461e1cd9
+9413b19f,Alex Meret,1,ITA,GK,25-292,90,0,0,0,0,0,0,0,0,28,0,0,0,0.0,0.0,0.0,0,0,27,27,100.0,0,18,0,0,0,Napoli,2023-01-08 Sampdoria-Napoli,ITA-SERIA_A,22-23,461e1cd9

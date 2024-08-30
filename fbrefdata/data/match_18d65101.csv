@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+b561db50,Raúl Jiménez,9,MEX,FW,26-166,90,0,0,0,0,2,0,0,0,38,0,1,1,0.1,0.1,0.0,2,0,15,29,51.7,2,21,2,0,0,Benfica,2017-10-18 Benfica-Manchester Utd,UCL,17-18,18d65101
+f4b52308,Diogo Gonçalves,84,POR,"LM,LW",20-254,68,0,0,0,0,1,0,1,0,23,0,0,1,0.0,0.0,0.0,1,0,11,15,73.3,1,17,0,2,1,Benfica,2017-10-18 Benfica-Manchester Utd,UCL,17-18,18d65101
+9bcd6455,Jonas,10,BRA,AM,33-200,22,0,0,0,0,2,0,0,0,13,1,0,0,0.1,0.1,0.0,0,0,5,7,71.4,1,6,0,0,0,Benfica,2017-10-18 Benfica-Manchester Utd,UCL,17-18,18d65101
+0e34de55,Filipe Augusto,6,BRA,"CM,DM",24-067,90,0,0,0,0,2,0,0,0,39,1,2,2,0.1,0.1,0.0,2,0,22,33,66.7,4,24,1,1,1,Benfica,2017-10-18 Benfica-Manchester Utd,UCL,17-18,18d65101
+96094cbc,Pizzi,21,POR,CM,28-012,58,0,0,0,0,0,0,0,0,30,2,1,1,0.0,0.0,0.0,1,0,16,26,61.5,2,6,0,0,0,Benfica,2017-10-18 Benfica-Manchester Utd,UCL,17-18,18d65101
+321f83a2,Andrija Živković,17,SRB,"LW,RW,AM",21-099,32,0,0,0,0,2,0,0,0,23,0,1,0,0.0,0.0,0.0,3,0,13,18,72.2,1,14,2,0,0,Benfica,2017-10-18 Benfica-Manchester Utd,UCL,17-18,18d65101
+5f424f35,Eduardo Salvio,18,ARG,"RM,RW",27-097,82,0,0,0,0,1,0,0,0,29,1,2,1,0.1,0.1,0.0,1,0,17,23,73.9,2,19,4,1,1,Benfica,2017-10-18 Benfica-Manchester Utd,UCL,17-18,18d65101
+5e1028e5,Franco Cervi,22,ARG,LW,23-145,8,0,0,0,0,0,0,0,0,14,1,0,1,0.0,0.0,0.1,1,0,6,12,50.0,0,6,0,0,0,Benfica,2017-10-18 Benfica-Manchester Utd,UCL,17-18,18d65101
+874d7a32,Ljubomir Fejsa,5,SRB,DM,29-065,90,0,0,0,0,0,0,0,0,43,2,2,2,0.0,0.0,0.0,0,0,28,36,77.8,2,24,0,0,0,Benfica,2017-10-18 Benfica-Manchester Utd,UCL,17-18,18d65101
+b1f4086c,Álex Grimaldo,3,ESP,LB,22-028,90,0,0,0,0,0,0,0,0,51,3,2,0,0.0,0.0,0.1,6,0,38,44,86.4,5,27,4,4,3,Benfica,2017-10-18 Benfica-Manchester Utd,UCL,17-18,18d65101
+31c69ef1,Rúben Dias,66,POR,CB,20-157,90,0,0,0,0,1,0,0,0,51,2,0,1,0.1,0.1,0.0,1,0,27,35,77.1,3,26,1,0,0,Benfica,2017-10-18 Benfica-Manchester Utd,UCL,17-18,18d65101
+60a93897,Luisão,4,BRA,CB,36-247,89,0,0,0,0,0,0,2,1,31,2,0,0,0.0,0.0,0.0,0,0,20,24,83.3,1,12,0,0,0,Benfica,2017-10-18 Benfica-Manchester Utd,UCL,17-18,18d65101
+ee0da7af,Douglas,8,BRA,RB,27-073,90,0,0,0,0,0,0,0,0,58,4,2,0,0.0,0.0,0.1,4,0,38,44,86.4,5,32,4,7,4,Benfica,2017-10-18 Benfica-Manchester Utd,UCL,17-18,18d65101
+bcf5058a,Mile Svilar,1,SRB,GK,18-052,90,0,0,0,0,0,0,0,0,32,0,0,0,0.0,0.0,0.0,0,0,16,27,59.3,0,11,0,0,0,Benfica,2017-10-18 Benfica-Manchester Utd,UCL,17-18,18d65101
+5eae500a,Romelu Lukaku,9,BEL,FW,24-158,90,0,0,0,0,1,0,0,0,32,0,0,0,0.1,0.1,0.1,1,0,17,23,73.9,4,25,3,4,2,Manchester United,2017-10-18 Benfica-Manchester Utd,UCL,17-18,18d65101
+a1d5bd30,Marcus Rashford,19,ENG,LW,19-352,75,1,0,0,0,3,2,0,0,49,1,0,0,0.1,0.1,0.1,3,1,25,37,67.6,2,36,6,5,1,Manchester United,2017-10-18 Benfica-Manchester Utd,UCL,17-18,18d65101
+8b788c01,Anthony Martial,11,FRA,LW,21-317,15,0,0,0,0,1,1,0,0,7,0,0,0,0.1,0.1,0.0,1,0,3,5,60.0,0,6,1,1,1,Manchester United,2017-10-18 Benfica-Manchester Utd,UCL,17-18,18d65101
+29733c72,Juan Mata,8,ESP,RW,29-173,82,0,0,0,0,1,0,0,0,69,0,2,0,0.0,0.0,0.1,2,0,54,63,85.7,3,52,3,1,0,Manchester United,2017-10-18 Benfica-Manchester Utd,UCL,17-18,18d65101
+810e3c74,Jesse Lingard,14,ENG,RW,24-307,8,0,0,0,0,0,0,1,0,5,0,0,0,0.0,0.0,0.0,0,0,3,3,100.0,0,4,1,0,0,Manchester United,2017-10-18 Benfica-Manchester Utd,UCL,17-18,18d65101
+dd0daf32,Henrikh Mkhitaryan,22,ARM,AM,28-270,89,0,0,0,0,1,0,0,0,62,3,3,1,0.1,0.1,0.1,3,1,37,51,72.5,4,48,4,4,2,Manchester United,2017-10-18 Benfica-Manchester Utd,UCL,17-18,18d65101
+d93c2511,Scott McTominay,39,SCO,AM,20-314,1,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,1,0,1,1,100.0,0,1,0,0,0,Manchester United,2017-10-18 Benfica-Manchester Utd,UCL,17-18,18d65101
+eb7822d7,Nemanja Matić,31,SRB,DM,29-078,90,0,0,0,0,2,1,0,0,98,4,1,0,0.1,0.1,0.0,2,0,77,88,87.5,12,78,3,4,4,Manchester United,2017-10-18 Benfica-Manchester Utd,UCL,17-18,18d65101
+436a9dd0,Ander Herrera,21,ESP,DM,28-065,90,0,0,0,0,1,0,0,0,99,2,4,3,0.0,0.0,0.0,1,0,77,85,90.6,10,71,0,2,1,Manchester United,2017-10-18 Benfica-Manchester Utd,UCL,17-18,18d65101
+691bef82,Daley Blind,17,NED,LB,27-223,90,0,0,0,0,0,0,0,0,79,1,1,0,0.0,0.0,0.1,2,0,60,72,83.3,6,51,1,0,0,Manchester United,2017-10-18 Benfica-Manchester Utd,UCL,17-18,18d65101
+b6964eb6,Chris Smalling,12,ENG,CB,27-330,90,0,0,0,0,0,0,0,0,67,1,0,1,0.0,0.0,0.0,0,0,57,60,95.0,0,51,0,0,0,Manchester United,2017-10-18 Benfica-Manchester Utd,UCL,17-18,18d65101
+f5deef4c,Victor Lindelöf,2,SWE,CB,23-093,90,0,0,0,0,0,0,0,0,73,0,0,3,0.0,0.0,0.0,0,0,60,67,89.6,1,61,0,0,0,Manchester United,2017-10-18 Benfica-Manchester Utd,UCL,17-18,18d65101
+08aa17d0,Antonio Valencia,25,ECU,RB,32-075,90,0,0,0,0,0,0,1,0,87,1,3,1,0.0,0.0,0.0,1,0,58,75,77.3,1,57,3,1,1,Manchester United,2017-10-18 Benfica-Manchester Utd,UCL,17-18,18d65101
+7ba6d84e,David de Gea,1,ESP,GK,26-345,90,0,0,0,0,0,0,0,0,32,0,0,0,0.0,0.0,0.0,0,0,26,32,81.3,0,18,0,0,0,Manchester United,2017-10-18 Benfica-Manchester Utd,UCL,17-18,18d65101

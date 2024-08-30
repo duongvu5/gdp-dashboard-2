@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+c9e39d91,Brais Méndez,23,ESP,"FW,AM",23-348,90,2,0,0,0,5,3,0,0,38,1,0,0,1.1,1.1,0.1,1,0,22,28,78.6,4,32,3,1,0,Celta Vigo,2020-12-20 Celta Vigo-Alavés,ESP-LALIGA,20-21,025d63df
+7dcf86f6,Iago Aspas,10,ESP,FW,33-141,89,0,1,0,0,1,0,0,0,44,0,1,0,0.2,0.2,0.6,4,1,24,37,64.9,6,28,5,2,2,Celta Vigo,2020-12-20 Celta Vigo-Alavés,ESP-LALIGA,20-21,025d63df
+0c3f7197,Emre Mor,11,TUR,FW,23-149,1,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,1,0,0,0,Celta Vigo,2020-12-20 Celta Vigo-Alavés,ESP-LALIGA,20-21,025d63df
+b2d0ec1b,Nolito,9,ESP,LM,34-066,69,0,0,0,0,2,0,1,0,35,2,0,1,0.2,0.2,0.0,2,0,20,27,74.1,3,18,0,3,2,Celta Vigo,2020-12-20 Celta Vigo-Alavés,ESP-LALIGA,20-21,025d63df
+a98f3cbf,Miguel Baeza,27,ESP,"AM,LM",20-268,21,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,4,4,100.0,0,1,0,0,0,Celta Vigo,2020-12-20 Celta Vigo-Alavés,ESP-LALIGA,20-21,025d63df
+12c50af5,Denis Suárez,6,ESP,CM,26-349,69,0,0,0,0,0,0,0,0,84,2,0,0,0.0,0.0,0.0,1,0,56,75,74.7,3,54,0,0,0,Celta Vigo,2020-12-20 Celta Vigo-Alavés,ESP-LALIGA,20-21,025d63df
+e49ce451,Okay Yokuşlu,5,TUR,CM,26-286,21,0,0,0,0,0,0,0,0,16,0,0,0,0.0,0.0,0.0,0,0,13,13,100.0,1,11,1,1,1,Celta Vigo,2020-12-20 Celta Vigo-Alavés,ESP-LALIGA,20-21,025d63df
+ed5c5fa3,Fran Beltrán,8,ESP,RM,21-321,74,0,0,0,0,1,0,0,0,37,1,1,2,0.0,0.0,0.2,2,0,29,31,93.5,5,25,1,0,0,Celta Vigo,2020-12-20 Celta Vigo-Alavés,ESP-LALIGA,20-21,025d63df
+1827a42d,José Fontán,29,ESP,CB,20-313,16,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,5,5,100.0,1,2,0,0,0,Celta Vigo,2020-12-20 Celta Vigo-Alavés,ESP-LALIGA,20-21,025d63df
+34269bdf,Renato Tapia,14,PER,"DM,CM",25-145,90,0,0,0,0,0,0,0,0,72,4,3,5,0.0,0.0,0.0,1,1,46,55,83.6,2,45,0,0,0,Celta Vigo,2020-12-20 Celta Vigo-Alavés,ESP-LALIGA,20-21,025d63df
+4cee5954,Lucas Olaza,15,URU,"LB,WB",26-152,89,0,1,0,0,1,0,0,0,66,2,0,1,0.0,0.0,0.4,4,2,49,59,83.1,5,42,2,1,1,Celta Vigo,2020-12-20 Celta Vigo-Alavés,ESP-LALIGA,20-21,025d63df
+18abe173,Joseph Aidoo,18,GHA,WB,25-082,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Celta Vigo,2020-12-20 Celta Vigo-Alavés,ESP-LALIGA,20-21,025d63df
+b233e8e4,Jeison Murillo,24,COL,CB,28-207,90,0,0,0,0,0,0,0,0,60,1,0,1,0.0,0.0,0.1,1,0,48,55,87.3,1,40,0,0,0,Celta Vigo,2020-12-20 Celta Vigo-Alavés,ESP-LALIGA,20-21,025d63df
+27a013f7,Néstor Araujo,4,MEX,CB,29-113,90,0,0,0,0,0,0,1,0,77,1,4,1,0.0,0.0,0.0,0,0,52,66,78.8,3,46,1,0,0,Celta Vigo,2020-12-20 Celta Vigo-Alavés,ESP-LALIGA,20-21,025d63df
+cb574619,Hugo Mallo,2,ESP,"RB,WB",29-181,90,0,0,0,0,1,0,0,0,58,1,1,2,0.1,0.1,0.1,1,0,41,52,78.8,6,30,2,2,1,Celta Vigo,2020-12-20 Celta Vigo-Alavés,ESP-LALIGA,20-21,025d63df
+967f34d3,Rubén Blanco,13,ESP,GK,25-148,90,0,0,0,0,0,0,0,0,43,0,0,0,0.0,0.0,0.0,0,0,21,43,48.8,0,30,0,0,0,Celta Vigo,2020-12-20 Celta Vigo-Alavés,ESP-LALIGA,20-21,025d63df
+6265208f,Joselu,9,ESP,FW,30-268,90,0,0,0,0,2,1,0,0,37,0,0,0,0.2,0.2,0.0,2,0,18,29,62.1,1,22,0,0,0,Alavés,2020-12-20 Celta Vigo-Alavés,ESP-LALIGA,20-21,025d63df
+a300ac7e,Lucas Pérez,7,ESP,FW,32-101,73,0,0,0,0,0,0,0,0,32,0,0,0,0.0,0.0,0.2,2,0,14,28,50.0,3,21,1,0,0,Alavés,2020-12-20 Celta Vigo-Alavés,ESP-LALIGA,20-21,025d63df
+99bebd12,John Guidetti,10,SWE,FW,28-249,17,0,0,0,0,0,0,0,0,12,0,0,0,0.0,0.0,0.0,1,0,7,11,63.6,1,5,0,0,0,Alavés,2020-12-20 Celta Vigo-Alavés,ESP-LALIGA,20-21,025d63df
+eb3dd471,Luis Rioja,11,ESP,LM,27-065,84,0,0,0,0,0,0,0,0,30,2,0,0,0.0,0.0,0.2,3,0,18,24,75.0,2,21,4,3,2,Alavés,2020-12-20 Celta Vigo-Alavés,ESP-LALIGA,20-21,025d63df
+1b40049a,Borja Sainz,29,ESP,LM,19-323,6,0,0,0,0,0,0,0,0,5,0,1,0,0.0,0.0,0.0,0,0,1,3,33.3,0,6,1,0,0,Alavés,2020-12-20 Celta Vigo-Alavés,ESP-LALIGA,20-21,025d63df
+e54bd0a2,Tomás Pina Isla,8,ESP,CM,33-067,90,0,0,0,0,0,0,1,0,46,2,0,1,0.0,0.0,0.0,1,0,35,40,87.5,7,26,0,0,0,Alavés,2020-12-20 Celta Vigo-Alavés,ESP-LALIGA,20-21,025d63df
+d637fc22,Rodrigo Battaglia,6,ARG,CM,29-161,84,0,0,0,0,1,0,1,0,36,0,0,0,0.1,0.1,0.0,0,0,30,32,93.8,3,27,0,0,0,Alavés,2020-12-20 Celta Vigo-Alavés,ESP-LALIGA,20-21,025d63df
+05a4465d,Manu García,19,ESP,CM,34-238,6,0,0,0,0,0,0,0,0,8,1,0,0,0.0,0.0,0.0,0,0,5,6,83.3,1,7,1,0,0,Alavés,2020-12-20 Celta Vigo-Alavés,ESP-LALIGA,20-21,025d63df
+9f351459,Jota,24,ESP,RM,29-187,73,0,0,0,0,1,0,0,0,30,1,1,0,0.1,0.1,0.0,0,0,13,19,68.4,2,24,0,2,0,Alavés,2020-12-20 Celta Vigo-Alavés,ESP-LALIGA,20-21,025d63df
+0dce3356,Tomás Tavares,37,POR,RM,19-288,17,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,1,0,7,8,87.5,1,6,0,0,0,Alavés,2020-12-20 Celta Vigo-Alavés,ESP-LALIGA,20-21,025d63df
+1fe0492d,Rubén Duarte,3,ESP,LB,25-063,90,0,0,0,0,1,0,0,0,78,5,5,4,0.0,0.0,0.0,2,0,43,62,69.4,4,29,0,0,0,Alavés,2020-12-20 Celta Vigo-Alavés,ESP-LALIGA,20-21,025d63df
+fd47b4f2,Rodrigo Ely,4,BRA,CB,27-047,39,0,0,0,0,1,1,0,0,21,1,1,0,0.1,0.1,0.0,0,0,9,15,60.0,0,7,0,0,0,Alavés,2020-12-20 Celta Vigo-Alavés,ESP-LALIGA,20-21,025d63df
+8b625720,Tachi,2,ESP,CB,23-101,51,0,0,0,0,0,0,0,0,40,1,2,0,0.0,0.0,0.0,0,0,26,37,70.3,2,23,0,0,0,Alavés,2020-12-20 Celta Vigo-Alavés,ESP-LALIGA,20-21,025d63df
+6eaed4eb,Florian Lejeune,22,FRA,CB,29-214,90,0,0,0,0,2,0,0,0,67,1,3,0,0.1,0.1,0.0,1,0,45,61,73.8,3,44,0,1,1,Alavés,2020-12-20 Celta Vigo-Alavés,ESP-LALIGA,20-21,025d63df
+8db394aa,Ximo Navarro,23,ESP,RB,30-332,90,0,0,0,0,0,0,0,0,67,0,3,1,0.0,0.0,0.1,1,0,43,58,74.1,2,41,3,2,1,Alavés,2020-12-20 Celta Vigo-Alavés,ESP-LALIGA,20-21,025d63df
+97852360,Fernando Pacheco,1,ESP,GK,28-216,90,0,0,0,0,0,0,0,0,38,1,0,0,0.0,0.0,0.0,1,0,26,34,76.5,0,24,0,0,0,Alavés,2020-12-20 Celta Vigo-Alavés,ESP-LALIGA,20-21,025d63df

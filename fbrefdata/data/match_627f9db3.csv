@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+08aa9cd1,Andrea Pinamonti,9,ITA,FW,23-319,73,1,0,0,0,1,1,0,0,19,1,0,0,0.5,0.5,0.1,3,0,8,14,57.1,1,9,0,0,0,Sassuolo,2023-04-03 Sassuolo-Torino,ITA-SERIA_A,22-23,627f9db3
+854ee61a,Grégoire Defrel,92,MTQ,FW,31-290,17,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,6,6,100.0,0,6,0,0,0,Sassuolo,2023-04-03 Sassuolo-Torino,ITA-SERIA_A,22-23,627f9db3
+2d22cea7,Armand Lauriente,45,FRA,"LW,FW",24-120,90,0,0,0,0,3,0,0,0,60,1,0,0,0.2,0.2,0.0,6,0,31,42,73.8,4,41,4,6,2,Sassuolo,2023-04-03 Sassuolo-Torino,ITA-SERIA_A,22-23,627f9db3
+53a0e358,Domenico Berardi,10,ITA,RW,28-245,76,0,0,0,0,3,2,0,0,39,1,1,0,0.1,0.1,0.0,4,1,15,31,48.4,2,27,2,2,1,Sassuolo,2023-04-03 Sassuolo-Torino,ITA-SERIA_A,22-23,627f9db3
+f42d6c13,Nedim Bajrami,20,ALB,"RW,RM",24-034,14,0,0,0,0,2,1,0,0,16,1,0,1,0.0,0.0,0.0,0,0,7,11,63.6,0,9,2,1,1,Sassuolo,2023-04-03 Sassuolo-Torino,ITA-SERIA_A,22-23,627f9db3
+a2d9f138,Matheus Henrique,7,BRA,LM,25-105,73,0,0,0,0,1,0,0,0,45,0,0,1,0.2,0.2,0.0,2,0,36,41,87.8,6,38,1,4,3,Sassuolo,2023-04-03 Sassuolo-Torino,ITA-SERIA_A,22-23,627f9db3
+65fd099c,Abdou Harroui,8,NED,LM,25-080,17,0,0,0,0,0,0,0,0,14,1,0,0,0.0,0.0,0.0,1,0,10,13,76.9,2,8,0,0,0,Sassuolo,2023-04-03 Sassuolo-Torino,ITA-SERIA_A,22-23,627f9db3
+20094685,Maxime Lopez,27,FRA,CM,25-120,90,0,0,0,0,1,0,0,0,69,0,2,2,0.0,0.0,0.0,2,0,51,61,83.6,3,50,3,1,1,Sassuolo,2023-04-03 Sassuolo-Torino,ITA-SERIA_A,22-23,627f9db3
+2a7d27c1,Davide Frattesi,16,ITA,RM,23-163,89,0,0,0,0,1,0,1,0,47,1,2,1,0.1,0.1,0.0,0,0,28,33,84.8,4,31,1,1,0,Sassuolo,2023-04-03 Sassuolo-Torino,ITA-SERIA_A,22-23,627f9db3
+76ff8d0d,Kristian Thorstvedt,42,NOR,CM,24-021,1,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,1,3,33.3,0,3,0,1,1,Sassuolo,2023-04-03 Sassuolo-Torino,ITA-SERIA_A,22-23,627f9db3
+10e7f486,Rogério,6,BRA,LB,25-080,90,0,0,0,0,0,0,0,0,79,0,2,4,0.0,0.0,0.1,2,0,57,71,80.3,4,44,3,0,0,Sassuolo,2023-04-03 Sassuolo-Torino,ITA-SERIA_A,22-23,627f9db3
+8650af85,Gian Marco Ferrari,13,ITA,CB,31-047,90,0,0,0,0,0,0,0,0,42,0,0,0,0.0,0.0,0.0,1,0,34,39,87.2,3,25,0,0,0,Sassuolo,2023-04-03 Sassuolo-Torino,ITA-SERIA_A,22-23,627f9db3
+a378a02a,Ruan,44,BRA,CB,23-300,90,0,0,0,0,0,0,0,0,44,1,1,2,0.0,0.0,0.0,0,0,35,37,94.6,1,31,0,0,0,Sassuolo,2023-04-03 Sassuolo-Torino,ITA-SERIA_A,22-23,627f9db3
+a96e5dc0,Jeremy Toljan,22,GER,RB,28-238,90,0,0,0,0,0,0,0,0,49,1,1,1,0.0,0.0,0.0,0,0,34,43,79.1,1,21,2,0,0,Sassuolo,2023-04-03 Sassuolo-Torino,ITA-SERIA_A,22-23,627f9db3
+8cabdc1e,Andrea Consigli,47,ITA,GK,36-066,90,0,0,0,0,0,0,0,0,40,0,0,0,0.0,0.0,0.0,0,0,29,39,74.4,0,26,0,0,0,Sassuolo,2023-04-03 Sassuolo-Torino,ITA-SERIA_A,22-23,627f9db3
+0a447501,Antonio Sanabria,9,PAR,FW,27-030,86,1,0,0,0,3,1,0,0,31,0,0,1,0.4,0.4,0.4,3,0,17,21,81.0,0,14,0,0,0,Torino,2023-04-03 Sassuolo-Torino,ITA-SERIA_A,22-23,627f9db3
+a44d3a3c,Pietro Pellegri,11,ITA,FW,22-017,4,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,2,0,1,0,Torino,2023-04-03 Sassuolo-Torino,ITA-SERIA_A,22-23,627f9db3
+0630eb63,Nemanja Radonjić,49,SRB,AM,27-047,80,0,0,0,0,5,0,0,0,26,0,0,0,0.8,0.8,0.0,7,0,15,16,93.8,4,25,5,7,7,Torino,2023-04-03 Sassuolo-Torino,ITA-SERIA_A,22-23,627f9db3
+a9aa0d1d,Aleksei Miranchuk,59,RUS,AM,27-168,10,0,0,0,0,0,0,0,0,7,1,0,0,0.0,0.0,0.0,0,0,5,6,83.3,1,4,0,0,0,Torino,2023-04-03 Sassuolo-Torino,ITA-SERIA_A,22-23,627f9db3
+aa8e289e,Nikola Vlašić,16,CRO,AM,25-181,90,0,0,0,0,1,0,0,0,32,0,0,2,0.1,0.1,0.2,3,0,15,23,65.2,2,20,1,2,1,Torino,2023-04-03 Sassuolo-Torino,ITA-SERIA_A,22-23,627f9db3
+d023d70f,Karol Linetty,77,POL,CM,28-060,90,0,0,0,0,1,0,1,0,66,1,0,3,0.0,0.0,0.0,1,0,53,58,91.4,6,51,2,1,1,Torino,2023-04-03 Sassuolo-Torino,ITA-SERIA_A,22-23,627f9db3
+9823be92,Samuele Ricci,28,ITA,CM,21-225,90,0,0,0,0,0,0,0,0,61,2,1,0,0.0,0.0,0.4,3,0,47,53,88.7,7,42,3,1,0,Torino,2023-04-03 Sassuolo-Torino,ITA-SERIA_A,22-23,627f9db3
+7f78ad23,Ricardo Rodríguez,13,SUI,WB,30-221,86,0,0,0,0,1,0,0,0,59,1,0,1,0.0,0.0,0.4,6,1,43,54,79.6,6,30,5,1,1,Torino,2023-04-03 Sassuolo-Torino,ITA-SERIA_A,22-23,627f9db3
+be2706c0,Mërgim Vojvoda,27,KVX,WB,28-061,4,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,5,7,71.4,1,6,1,0,0,Torino,2023-04-03 Sassuolo-Torino,ITA-SERIA_A,22-23,627f9db3
+8b609c34,Wilfried Singo,17,CIV,WB,22-099,54,0,0,0,0,3,1,0,0,40,2,0,0,0.1,0.1,0.0,2,0,18,33,54.5,0,26,4,0,0,Torino,2023-04-03 Sassuolo-Torino,ITA-SERIA_A,22-23,627f9db3
+016ff750,Valentino Lazaro,19,AUT,WB,27-010,36,0,1,0,0,0,0,0,0,26,0,0,2,0.0,0.0,0.2,1,1,15,21,71.4,3,13,0,0,0,Torino,2023-04-03 Sassuolo-Torino,ITA-SERIA_A,22-23,627f9db3
+4ae67f27,Alessandro Buongiorno,4,ITA,CB,23-301,90,0,0,0,0,0,0,0,0,88,0,0,0,0.0,0.0,0.0,1,0,75,80,93.8,4,59,0,0,0,Torino,2023-04-03 Sassuolo-Torino,ITA-SERIA_A,22-23,627f9db3
+e613313c,Perr Schuurs,3,NED,CB,23-128,90,0,0,0,0,2,0,0,0,55,1,3,1,0.2,0.2,0.0,2,0,39,46,84.8,1,34,0,0,0,Torino,2023-04-03 Sassuolo-Torino,ITA-SERIA_A,22-23,627f9db3
+49136c42,Andrew Gravillon,5,GLP,CB,25-054,86,0,0,0,0,0,0,0,0,65,2,0,2,0.0,0.0,0.0,0,0,45,51,88.2,4,37,0,0,0,Torino,2023-04-03 Sassuolo-Torino,ITA-SERIA_A,22-23,627f9db3
+933d3b51,Koffi Djidji,26,CIV,CB,30-124,4,0,0,0,0,0,0,0,0,3,0,1,0,0.0,0.0,0.0,0,0,0,1,0.0,0,2,0,0,0,Torino,2023-04-03 Sassuolo-Torino,ITA-SERIA_A,22-23,627f9db3
+9fa26bc2,Vanja Milinković-Savić,32,SRB,GK,26-042,90,0,0,0,0,0,0,0,0,58,0,0,0,0.0,0.0,0.0,0,0,46,56,82.1,0,41,0,0,0,Torino,2023-04-03 Sassuolo-Torino,ITA-SERIA_A,22-23,627f9db3

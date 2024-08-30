@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+8d78e732,Robert Lewandowski,9,POL,FW,31-077,90,1,0,0,0,4,3,0,0,29,1,0,0,0.6,0.6,0.6,7,0,15,20,75.0,5,14,1,3,2,Bayern Munich,2019-11-06 Bayern Munich-Olympiacos,UCL,19-20,2b7529c6
+88e357ef,Serge Gnabry,22,GER,LW,24-115,87,0,0,0,0,3,2,0,0,80,1,0,0,0.2,0.2,1.0,8,0,55,69,79.7,8,49,7,2,1,Bayern Munich,2019-11-06 Bayern Munich-Olympiacos,UCL,19-20,2b7529c6
+6fe90922,Ivan Perišić,14,CRO,LW,30-277,3,1,0,0,0,1,1,0,0,3,0,0,0,0.5,0.5,0.0,0,0,1,2,50.0,1,1,1,1,1,Bayern Munich,2019-11-06 Bayern Munich-Olympiacos,UCL,19-20,2b7529c6
+042e8a49,Kingsley Coman,29,FRA,RW,23-146,89,0,1,0,0,6,2,0,0,63,1,0,1,1.1,1.1,0.4,7,2,38,46,82.6,8,53,6,9,6,Bayern Munich,2019-11-06 Bayern Munich-Olympiacos,UCL,19-20,2b7529c6
+0ef89a37,Philippe Coutinho,10,BRA,AM,27-147,1,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,4,4,100.0,1,3,0,0,0,Bayern Munich,2019-11-06 Bayern Munich-Olympiacos,UCL,19-20,2b7529c6
+3c6089ab,Thomas Müller,25,GER,"AM,RW",30-054,90,0,0,0,0,2,1,0,0,60,3,0,1,0.1,0.1,0.3,6,0,35,48,72.9,5,29,1,1,0,Bayern Munich,2019-11-06 Bayern Munich-Olympiacos,UCL,19-20,2b7529c6
+49296448,Joshua Kimmich,32,GER,DM,24-271,90,0,0,0,0,1,0,0,0,135,2,1,0,0.1,0.1,0.1,8,1,105,129,81.4,16,79,2,1,1,Bayern Munich,2019-11-06 Bayern Munich-Olympiacos,UCL,19-20,2b7529c6
+cc86b9a3,Leon Goretzka,18,GER,DM,24-273,81,0,0,0,0,4,2,0,0,49,2,2,2,0.5,0.5,0.0,4,0,33,39,84.6,8,22,1,1,0,Bayern Munich,2019-11-06 Bayern Munich-Olympiacos,UCL,19-20,2b7529c6
+652d4c37,Corentin Tolisso,24,FRA,DM,25-095,9,0,1,0,0,1,0,0,0,12,0,0,0,0.0,0.0,0.0,0,0,8,11,72.7,0,6,0,0,0,Bayern Munich,2019-11-06 Bayern Munich-Olympiacos,UCL,19-20,2b7529c6
+d781d855,Alphonso Davies,19,CAN,LB,19-004,90,0,0,0,0,3,0,0,0,89,4,4,1,0.1,0.1,0.0,0,0,62,69,89.9,4,48,3,5,2,Bayern Munich,2019-11-06 Bayern Munich-Olympiacos,UCL,19-20,2b7529c6
+05439de2,David Alaba,27,AUT,CB,27-135,90,0,0,0,0,0,0,0,0,104,0,0,1,0.0,0.0,0.0,1,0,92,101,91.1,11,88,1,0,0,Bayern Munich,2019-11-06 Bayern Munich-Olympiacos,UCL,19-20,2b7529c6
+7f97771d,Javi Martínez,8,ESP,CB,31-065,90,0,0,0,0,1,0,0,0,95,3,0,1,0.2,0.2,0.0,1,0,89,91,97.8,7,71,2,0,0,Bayern Munich,2019-11-06 Bayern Munich-Olympiacos,UCL,19-20,2b7529c6
+45a03961,Benjamin Pavard,5,FRA,RB,23-223,90,0,0,0,0,1,0,0,0,88,1,1,1,0.0,0.0,0.2,2,0,74,82,90.2,12,49,4,0,0,Bayern Munich,2019-11-06 Bayern Munich-Olympiacos,UCL,19-20,2b7529c6
+8778c910,Manuel Neuer,1,GER,GK,33-224,90,0,0,0,0,0,0,0,0,36,0,0,0,0.0,0.0,0.0,0,0,34,36,94.4,0,17,0,0,0,Bayern Munich,2019-11-06 Bayern Munich-Olympiacos,UCL,19-20,2b7529c6
+b35db3f6,Miguel Ángel Guerrero,9,ESP,FW,29-117,90,0,0,0,0,1,0,0,0,20,0,0,0,0.0,0.0,0.1,2,0,8,12,66.7,0,10,1,1,1,Olympiacos,2019-11-06 Bayern Munich-Olympiacos,UCL,19-20,2b7529c6
+7fcc71d8,Daniel Podence,10,POR,LW,24-016,79,0,0,0,0,0,0,0,0,17,1,0,0,0.0,0.0,0.0,0,0,9,12,75.0,2,15,1,3,1,Olympiacos,2019-11-06 Bayern Munich-Olympiacos,UCL,19-20,2b7529c6
+c63f6e46,Youssef El-Arabi,11,MAR,LW,32-276,11,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,5,6,83.3,1,7,0,0,0,Olympiacos,2019-11-06 Bayern Munich-Olympiacos,UCL,19-20,2b7529c6
+1dbfae2d,Lazar Ranđelović,97,SRB,RW,22-093,60,0,0,0,0,1,0,0,0,24,1,0,0,0.1,0.1,0.0,0,0,5,10,50.0,1,16,2,2,1,Olympiacos,2019-11-06 Bayern Munich-Olympiacos,UCL,19-20,2b7529c6
+9d689a5b,Giorgos Masouras,19,GRE,RW,25-309,30,0,0,0,0,0,0,0,0,16,1,1,0,0.0,0.0,0.0,0,0,11,11,100.0,1,8,0,1,1,Olympiacos,2019-11-06 Bayern Munich-Olympiacos,UCL,19-20,2b7529c6
+1c07b06e,Andreas Bouchalakis,5,GRE,LM,26-215,70,0,0,0,0,0,0,0,0,23,0,1,1,0.0,0.0,0.0,0,0,15,19,78.9,0,8,0,1,0,Olympiacos,2019-11-06 Bayern Munich-Olympiacos,UCL,19-20,2b7529c6
+7a4cea18,Mathieu Valbuena,28,FRA,LM,35-039,20,0,0,0,0,0,0,0,0,13,0,0,0,0.0,0.0,0.0,0,0,11,12,91.7,1,8,1,0,0,Olympiacos,2019-11-06 Bayern Munich-Olympiacos,UCL,19-20,2b7529c6
+13ea2544,Mohamed Camara,4,GUI,CM,22-251,90,0,0,0,0,1,0,0,0,48,1,0,1,0.1,0.1,0.0,1,0,28,38,73.7,4,25,0,3,2,Olympiacos,2019-11-06 Bayern Munich-Olympiacos,UCL,19-20,2b7529c6
+8754c7ca,Guilherme,8,BRA,RM,28-215,90,0,0,0,0,0,0,0,0,49,2,1,5,0.0,0.0,0.1,1,0,31,38,81.6,3,19,0,2,1,Olympiacos,2019-11-06 Bayern Munich-Olympiacos,UCL,19-20,2b7529c6
+f315ca93,Kostas Tsimikas,21,GRE,LB,23-178,90,0,0,0,0,0,0,0,0,56,4,5,0,0.0,0.0,0.0,0,0,24,40,60.0,1,28,3,1,1,Olympiacos,2019-11-06 Bayern Munich-Olympiacos,UCL,19-20,2b7529c6
+3640af28,Yassine Meriah,20,TUN,CB,26-127,90,0,0,0,0,0,0,0,0,40,1,1,1,0.0,0.0,0.0,1,0,22,26,84.6,1,17,0,1,0,Olympiacos,2019-11-06 Bayern Munich-Olympiacos,UCL,19-20,2b7529c6
+c904f3d5,Rúben Semedo,3,POR,CB,25-216,90,0,0,0,0,0,0,0,0,30,2,2,3,0.0,0.0,0.0,0,0,12,19,63.2,1,11,0,0,0,Olympiacos,2019-11-06 Bayern Munich-Olympiacos,UCL,19-20,2b7529c6
+4f56170e,Omar Elabdellaoui,14,NOR,RB,27-336,90,0,0,0,0,0,0,0,0,55,2,2,0,0.0,0.0,0.0,0,0,37,45,82.2,2,23,0,0,0,Olympiacos,2019-11-06 Bayern Munich-Olympiacos,UCL,19-20,2b7529c6
+903b6e8b,José Sá,1,POR,GK,26-293,90,0,0,0,0,0,0,0,0,51,0,0,0,0.0,0.0,0.0,0,0,20,44,45.5,0,23,0,1,1,Olympiacos,2019-11-06 Bayern Munich-Olympiacos,UCL,19-20,2b7529c6

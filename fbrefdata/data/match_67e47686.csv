@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+d70ce98e,Lionel Messi,10,ARG,FW,33-095,90,1,0,1,1,6,3,0,0,79,1,0,0,1.6,0.8,0.0,6,0,54,66,81.8,13,45,4,4,2,Barcelona,2020-09-27 Barcelona-Villarreal,ESP-LALIGA,20-21,67e47686
+0ba976e4,Ansu Fati,22,ESP,LW,17-332,69,2,0,0,0,2,2,0,0,56,1,0,1,0.4,0.4,0.6,4,1,39,48,81.3,3,44,8,3,3,Barcelona,2020-09-27 Barcelona-Villarreal,ESP-LALIGA,20-21,67e47686
+b19db005,Ousmane Dembélé,11,FRA,LW,23-135,21,0,0,0,0,0,0,0,0,17,0,0,1,0.0,0.0,0.0,2,0,11,13,84.6,3,11,1,2,1,Barcelona,2020-09-27 Barcelona-Villarreal,ESP-LALIGA,20-21,67e47686
+df69b544,Antoine Griezmann,7,FRA,RW,29-190,77,0,0,0,0,1,0,0,0,30,0,0,0,0.1,0.1,0.0,0,0,22,27,81.5,1,17,0,0,0,Barcelona,2020-09-27 Barcelona-Villarreal,ESP-LALIGA,20-21,67e47686
+77e39b04,Francisco Trincão,17,POR,RW,20-273,13,0,0,0,0,2,1,0,0,9,0,0,0,0.1,0.1,0.1,3,0,5,6,83.3,0,5,1,1,1,Barcelona,2020-09-27 Barcelona-Villarreal,ESP-LALIGA,20-21,67e47686
+0ef89a37,Philippe Coutinho,14,BRA,AM,28-107,69,0,1,0,0,2,1,0,0,57,2,0,2,0.4,0.4,0.3,3,1,45,51,88.2,8,34,6,3,3,Barcelona,2020-09-27 Barcelona-Villarreal,ESP-LALIGA,20-21,67e47686
+0d9b2d31,Pedri,16,ESP,AM,17-307,21,0,0,0,0,0,0,0,0,15,0,0,1,0.0,0.0,0.1,1,0,13,14,92.9,3,5,0,0,0,Barcelona,2020-09-27 Barcelona-Villarreal,ESP-LALIGA,20-21,67e47686
+1bacc518,Frenkie de Jong,21,NED,DM,23-138,90,0,0,0,0,0,0,0,0,87,1,0,0,0.0,0.0,0.1,4,1,75,84,89.3,8,53,5,1,1,Barcelona,2020-09-27 Barcelona-Villarreal,ESP-LALIGA,20-21,67e47686
+5ab0ea87,Sergio Busquets,5,ESP,DM,32-073,77,0,0,0,0,0,0,0,0,76,1,2,2,0.0,0.0,0.0,2,0,62,71,87.3,5,33,0,0,0,Barcelona,2020-09-27 Barcelona-Villarreal,ESP-LALIGA,20-21,67e47686
+ad6df2d5,Miralem Pjanić,8,BIH,DM,30-178,13,0,0,0,0,1,0,0,0,22,0,2,0,0.0,0.0,0.0,1,0,18,19,94.7,0,11,0,0,0,Barcelona,2020-09-27 Barcelona-Villarreal,ESP-LALIGA,20-21,67e47686
+4601e194,Jordi Alba,18,ESP,LB,31-190,90,0,1,0,0,1,1,0,0,110,2,2,2,0.1,0.1,0.3,3,1,81,99,81.8,6,56,1,2,2,Barcelona,2020-09-27 Barcelona-Villarreal,ESP-LALIGA,20-21,67e47686
+4f28a6ff,Clément Lenglet,15,FRA,CB,25-102,90,0,0,0,0,0,0,0,0,66,1,0,1,0.0,0.0,0.0,2,2,54,59,91.5,2,39,0,0,0,Barcelona,2020-09-27 Barcelona-Villarreal,ESP-LALIGA,20-21,67e47686
+adfc9123,Gerard Piqué,3,ESP,CB,33-238,90,0,0,0,0,0,0,0,0,83,0,2,1,0.0,0.0,0.0,0,0,70,75,93.3,2,53,0,0,0,Barcelona,2020-09-27 Barcelona-Villarreal,ESP-LALIGA,20-21,67e47686
+335fa267,Sergi Roberto,20,ESP,RB,28-233,90,0,0,0,0,1,0,0,0,68,1,0,1,0.1,0.1,0.4,2,0,54,59,91.5,1,38,2,1,0,Barcelona,2020-09-27 Barcelona-Villarreal,ESP-LALIGA,20-21,67e47686
+a9dc785c,Neto,13,BRA,GK,31-070,90,0,0,0,0,0,0,0,0,35,0,0,0,0.0,0.0,0.0,0,0,31,32,96.9,0,18,0,0,0,Barcelona,2020-09-27 Barcelona-Villarreal,ESP-LALIGA,20-21,67e47686
+a7a9d95a,Paco Alcácer,17,ESP,FW,27-028,45,0,0,0,0,0,0,0,0,15,0,0,0,0.0,0.0,0.0,0,0,11,13,84.6,1,4,0,0,0,Villarreal,2020-09-27 Barcelona-Villarreal,ESP-LALIGA,20-21,67e47686
+ad1ffcfd,Vicente Iborra,10,ESP,DM,32-255,45,0,0,0,0,1,0,0,0,32,0,1,0,0.0,0.0,0.0,0,0,28,30,93.3,1,16,0,0,0,Villarreal,2020-09-27 Barcelona-Villarreal,ESP-LALIGA,20-21,67e47686
+81f0781e,Gerard Moreno,7,ESP,FW,28-173,83,0,0,0,0,1,0,1,0,37,1,0,0,0.1,0.1,0.0,0,0,20,29,69.0,3,17,0,1,0,Villarreal,2020-09-27 Barcelona-Villarreal,ESP-LALIGA,20-21,67e47686
+09a9e921,Carlos Bacca,9,COL,FW,34-019,7,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,1,0,0,0,Villarreal,2020-09-27 Barcelona-Villarreal,ESP-LALIGA,20-21,67e47686
+5a626448,Moi Gómez,23,ESP,LM,26-096,90,0,0,0,0,0,0,0,0,52,1,0,2,0.0,0.0,0.0,2,0,39,46,84.8,5,25,3,1,1,Villarreal,2020-09-27 Barcelona-Villarreal,ESP-LALIGA,20-21,67e47686
+a6951bf8,Francis Coquelin,19,FRA,CM,29-137,45,0,0,0,0,1,0,0,0,31,0,0,2,0.0,0.0,0.1,1,0,21,25,84.0,2,12,1,2,0,Villarreal,2020-09-27 Barcelona-Villarreal,ESP-LALIGA,20-21,67e47686
+963829d0,Manu Trigueros,14,ESP,CM,28-346,45,0,0,0,0,0,0,0,0,39,0,1,0,0.0,0.0,0.0,0,0,31,38,81.6,4,18,0,0,0,Villarreal,2020-09-27 Barcelona-Villarreal,ESP-LALIGA,20-21,67e47686
+7460ca0d,Daniel Parejo,5,ESP,CM,31-164,90,0,0,0,0,0,0,0,0,89,1,3,2,0.0,0.0,0.0,2,0,75,81,92.6,7,38,0,1,1,Villarreal,2020-09-27 Barcelona-Villarreal,ESP-LALIGA,20-21,67e47686
+b8a642fc,Samuel Chukwueze,11,NGA,RM,21-128,73,0,0,0,0,0,0,0,0,37,0,1,1,0.0,0.0,0.0,0,0,19,29,65.5,2,18,3,4,3,Villarreal,2020-09-27 Barcelona-Villarreal,ESP-LALIGA,20-21,67e47686
+16aa3654,Takefusa Kubo,16,JPN,RM,19-115,17,0,0,0,0,1,1,0,0,18,1,0,1,0.0,0.0,0.0,0,0,9,13,69.2,1,12,3,1,1,Villarreal,2020-09-27 Barcelona-Villarreal,ESP-LALIGA,20-21,67e47686
+d38fdf53,Pervis Estupiñán,15,ECU,LB,22-250,90,0,0,0,0,0,0,0,0,65,3,2,0,0.0,0.0,0.0,1,0,40,59,67.8,4,34,2,1,0,Villarreal,2020-09-27 Barcelona-Villarreal,ESP-LALIGA,20-21,67e47686
+532e1e4f,Pau Torres,4,ESP,CB,23-255,90,0,0,0,0,0,0,0,0,59,0,1,2,0.0,0.0,0.0,0,0,48,51,94.1,3,31,0,2,1,Villarreal,2020-09-27 Barcelona-Villarreal,ESP-LALIGA,20-21,67e47686
+4bd414c1,Raúl Albiol,3,ESP,CB,35-023,83,0,0,0,0,0,0,0,0,62,0,0,2,0.0,0.0,0.0,0,0,49,56,87.5,5,35,0,0,0,Villarreal,2020-09-27 Barcelona-Villarreal,ESP-LALIGA,20-21,67e47686
+89cbc961,Ramiro Funes Mori,6,ARG,CB,29-206,7,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,5,5,100.0,0,2,0,0,0,Villarreal,2020-09-27 Barcelona-Villarreal,ESP-LALIGA,20-21,67e47686
+fb5d47b3,Mario Gaspar,2,ESP,RB,29-308,90,0,0,0,0,1,0,0,0,60,2,1,2,0.0,0.0,0.0,2,0,36,46,78.3,4,22,2,3,3,Villarreal,2020-09-27 Barcelona-Villarreal,ESP-LALIGA,20-21,67e47686
+9f0ea33f,Sergio Asenjo,1,ESP,GK,31-091,90,0,0,0,0,0,0,0,0,37,0,0,0,0.0,0.0,0.0,0,0,25,31,80.6,0,17,0,0,0,Villarreal,2020-09-27 Barcelona-Villarreal,ESP-LALIGA,20-21,67e47686

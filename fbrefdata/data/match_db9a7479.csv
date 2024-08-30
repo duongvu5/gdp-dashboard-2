@@ -1,0 +1,31 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+ee4f2f3b,Fabio Quagliarella,27,ITA,FW,40-104,65,0,1,0,0,4,0,0,0,25,0,0,0,0.3,0.3,0.1,3,2,10,19,52.6,1,19,1,1,0,Sampdoria,2023-05-15 Sampdoria-Empoli,ITA-SERIA_A,22-23,db9a7479
+c283ddef,Sam Lammers,10,NED,FW,26-015,25,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,3,5,60.0,0,6,1,1,0,Sampdoria,2023-05-15 Sampdoria-Empoli,ITA-SERIA_A,22-23,db9a7479
+8f866fe8,Manolo Gabbiadini,23,ITA,FW,31-170,90,0,0,0,0,4,2,1,0,28,6,0,0,0.3,0.3,0.5,3,0,14,16,87.5,1,15,1,1,1,Sampdoria,2023-05-15 Sampdoria-Empoli,ITA-SERIA_A,22-23,db9a7479
+eccbe56a,Filip Đuričić,7,SRB,AM,31-105,90,0,0,0,0,0,0,1,0,36,2,0,0,0.0,0.0,0.0,2,0,24,31,77.4,1,21,0,2,1,Sampdoria,2023-05-15 Sampdoria-Empoli,ITA-SERIA_A,22-23,db9a7479
+f1cfc209,Tomás Rincón,8,VEN,CM,35-122,90,0,0,0,0,0,0,0,0,43,1,1,1,0.0,0.0,0.0,3,0,30,40,75.0,8,27,1,0,0,Sampdoria,2023-05-15 Sampdoria-Empoli,ITA-SERIA_A,22-23,db9a7479
+2f7acede,Harry Winks,20,ENG,CM,27-102,90,0,0,0,0,3,0,0,0,47,1,2,0,0.1,0.1,0.1,3,0,30,38,78.9,8,29,2,1,1,Sampdoria,2023-05-15 Sampdoria-Empoli,ITA-SERIA_A,22-23,db9a7479
+3cd3b384,Tommaso Augello,3,ITA,WB,28-258,90,0,0,0,0,0,0,0,0,43,0,3,0,0.0,0.0,0.2,5,0,27,38,71.1,2,26,3,0,0,Sampdoria,2023-05-15 Sampdoria-Empoli,ITA-SERIA_A,22-23,db9a7479
+3b12b11f,Alessandro Zanoli,59,ITA,WB,22-224,90,1,0,0,0,2,1,0,0,59,5,1,1,0.6,0.6,0.2,2,0,32,47,68.1,2,38,5,4,2,Sampdoria,2023-05-15 Sampdoria-Empoli,ITA-SERIA_A,22-23,db9a7479
+2df7cc43,Bruno Amione,2,ARG,CB,21-132,80,0,0,0,0,0,0,1,0,36,0,0,1,0.0,0.0,0.0,1,0,25,32,78.1,0,24,1,1,0,Sampdoria,2023-05-15 Sampdoria-Empoli,ITA-SERIA_A,22-23,db9a7479
+d183e9d6,Nicola Murru,29,ITA,CB,28-150,10,0,0,0,0,0,0,0,0,2,0,0,2,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Sampdoria,2023-05-15 Sampdoria-Empoli,ITA-SERIA_A,22-23,db9a7479
+e33f36d5,Bram Nuytinck,17,NED,CB,33-011,90,0,0,0,0,0,0,0,0,45,2,1,1,0.0,0.0,0.0,1,0,26,34,76.5,1,26,0,0,0,Sampdoria,2023-05-15 Sampdoria-Empoli,ITA-SERIA_A,22-23,db9a7479
+f1f1f238,Koray Günter,4,GER,CB,28-272,90,0,0,0,0,0,0,0,0,69,3,1,0,0.0,0.0,0.1,1,0,40,56,71.4,1,29,0,0,0,Sampdoria,2023-05-15 Sampdoria-Empoli,ITA-SERIA_A,22-23,db9a7479
+d7a35008,Nicola Ravaglia,30,ITA,GK,34-154,90,0,0,0,0,0,0,0,0,43,0,0,0,0.0,0.0,0.0,0,0,18,37,48.6,0,24,0,0,0,Sampdoria,2023-05-15 Sampdoria-Empoli,ITA-SERIA_A,22-23,db9a7479
+5bd72174,Francesco Caputo,19,ITA,FW,35-282,90,0,0,0,0,4,1,0,0,28,0,0,1,0.8,0.8,0.0,2,0,13,17,76.5,1,18,0,1,0,Empoli,2023-05-15 Sampdoria-Empoli,ITA-SERIA_A,22-23,db9a7479
+91ff775f,Nicolò Cambiaghi,28,ITA,LW,22-138,84,0,0,0,0,3,0,1,0,43,3,0,1,0.2,0.2,0.2,4,0,21,29,72.4,1,33,8,1,1,Empoli,2023-05-15 Sampdoria-Empoli,ITA-SERIA_A,22-23,db9a7479
+1cadaf34,Roberto Piccoli,91,ITA,LW,22-108,6,1,0,0,0,3,2,0,0,3,0,0,0,0.2,0.2,0.0,0,0,0,0,,0,0,0,0,0,Empoli,2023-05-15 Sampdoria-Empoli,ITA-SERIA_A,22-23,db9a7479
+102e2599,Tommaso Baldanzi,35,ITA,RW,20-053,55,0,0,0,0,1,0,0,0,32,0,0,2,0.1,0.1,0.2,4,0,21,27,77.8,1,24,1,4,3,Empoli,2023-05-15 Sampdoria-Empoli,ITA-SERIA_A,22-23,db9a7479
+2c38b327,Marko Pjaca,14,CRO,RW,28-009,35,0,0,0,0,1,0,1,0,19,0,0,0,0.0,0.0,0.0,0,0,11,12,91.7,0,15,0,0,0,Empoli,2023-05-15 Sampdoria-Empoli,ITA-SERIA_A,22-23,db9a7479
+d7918b13,Liam Henderson,8,SCO,AM,27-020,55,0,0,0,0,1,0,0,0,28,0,1,0,0.1,0.1,0.1,2,0,18,25,72.0,2,28,1,0,0,Empoli,2023-05-15 Sampdoria-Empoli,ITA-SERIA_A,22-23,db9a7479
+d7d32194,Mattia Destro,23,ITA,AM,32-056,35,0,0,0,0,1,0,0,0,6,0,0,0,0.1,0.1,0.0,1,0,1,4,25.0,0,6,0,0,0,Empoli,2023-05-15 Sampdoria-Empoli,ITA-SERIA_A,22-23,db9a7479
+7fac99d4,Răzvan Marin,18,ROU,DM,26-357,90,0,0,0,0,1,1,0,0,93,0,1,0,0.1,0.1,0.1,4,0,69,88,78.4,5,69,1,2,2,Empoli,2023-05-15 Sampdoria-Empoli,ITA-SERIA_A,22-23,db9a7479
+6cc97b6a,Alberto Grassi,5,ITA,DM,28-069,84,0,0,0,0,0,0,1,0,76,0,2,3,0.0,0.0,0.0,1,0,55,64,85.9,9,51,0,0,0,Empoli,2023-05-15 Sampdoria-Empoli,ITA-SERIA_A,22-23,db9a7479
+fdf4b948,Jean-Daniel Akpa-Akpro,11,CIV,DM,30-216,6,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,2,2,2,2,100.0,1,2,0,1,1,Empoli,2023-05-15 Sampdoria-Empoli,ITA-SERIA_A,22-23,db9a7479
+0967845b,Fabiano Parisi,65,ITA,LB,22-187,90,0,0,0,0,1,0,1,0,71,1,3,4,0.0,0.0,0.5,3,0,42,51,82.4,6,35,3,7,2,Empoli,2023-05-15 Sampdoria-Empoli,ITA-SERIA_A,22-23,db9a7479
+997fff07,Sebastiano Luperto,33,ITA,CB,26-251,90,0,0,0,0,0,0,0,0,75,0,1,1,0.0,0.0,0.0,0,0,58,67,86.6,2,50,0,0,0,Empoli,2023-05-15 Sampdoria-Empoli,ITA-SERIA_A,22-23,db9a7479
+217875a4,Sebastian Walukiewicz,4,POL,CB,23-040,31,0,0,0,0,0,0,0,0,32,0,1,1,0.0,0.0,0.0,0,0,27,29,93.1,1,27,0,0,0,Empoli,2023-05-15 Sampdoria-Empoli,ITA-SERIA_A,22-23,db9a7479
+6b635f5c,Ardian Ismajli,34,ALB,CB,26-227,59,0,0,0,0,0,0,0,0,40,0,0,1,0.0,0.0,0.0,1,0,33,37,89.2,3,28,2,0,0,Empoli,2023-05-15 Sampdoria-Empoli,ITA-SERIA_A,22-23,db9a7479
+6af30900,Tyronne Ebuehi,24,NGA,RB,27-150,90,0,1,0,0,1,0,0,0,64,0,0,0,0.1,0.1,0.1,2,0,47,52,90.4,9,47,6,1,0,Empoli,2023-05-15 Sampdoria-Empoli,ITA-SERIA_A,22-23,db9a7479
+77d6fd4d,Guglielmo Vicario,13,ITA,GK,26-220,90,0,0,0,0,0,0,0,0,31,0,0,0,0.0,0.0,0.0,0,0,20,28,71.4,0,19,0,0,0,Empoli,2023-05-15 Sampdoria-Empoli,ITA-SERIA_A,22-23,db9a7479
