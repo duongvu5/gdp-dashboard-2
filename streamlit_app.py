@@ -652,23 +652,27 @@ def player_season_compare():
 
 
 def main():
+    global folder_copied
+    folder_copied = False
     fbrefdata_dir = os.getenv('FBREFDATA_DIR', os.path.expanduser('~/fbrefdata'))
     source_dir = os.path.join(os.getcwd(), 'fbrefdata')
     
     # Ensure the destination directory exists
     os.makedirs(fbrefdata_dir, exist_ok=True)
     
-    # Copy the entire directory and replace files with the same name
-    for item in os.listdir(source_dir):
-        source_item = os.path.join(source_dir, item)
-        dest_item = os.path.join(fbrefdata_dir, item)
-        
-        if os.path.isdir(source_item):
-            if os.path.exists(dest_item):
-                shutil.rmtree(dest_item, ignore_errors=True)
-            shutil.copytree(source_item, dest_item, dirs_exist_ok=True)
-        else:
-            shutil.copy2(source_item, dest_item)
+    # Copy the entire directory and replace files with the same name only if not already copied
+    if not folder_copied:
+        for item in os.listdir(source_dir):
+            source_item = os.path.join(source_dir, item)
+            dest_item = os.path.join(fbrefdata_dir, item)
+            
+            if os.path.isdir(source_item):
+                if os.path.exists(dest_item):
+                    shutil.rmtree(dest_item, ignore_errors=True)
+                shutil.copytree(source_item, dest_item, dirs_exist_ok=True)
+            else:
+                shutil.copy2(source_item, dest_item)
+        folder_copied = True
     
     st.title("Comparison Radar Chart")
     # 
