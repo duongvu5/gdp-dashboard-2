@@ -1,0 +1,28 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+16ceb862,Olivier Giroud,12,FRA,FW,31-033,90,0,0,0,0,4,2,0,0,35,0,0,0,0.3,0.3,0.0,1,0,15,26,57.7,0,15,2,1,0,Arsenal,2017-11-02 Arsenal-Red Star,UEL,17-18,39c0e98f
+9c318325,Jack Wilshere,10,ENG,"AM,CM",25-305,90,0,0,0,0,1,0,0,0,64,1,0,0,0.1,0.1,0.1,4,0,42,48,87.5,11,39,5,9,5,Arsenal,2017-11-02 Arsenal-Red Star,UEL,17-18,39c0e98f
+1ecb65be,Theo Walcott,14,ENG,AM,28-231,90,0,0,0,0,2,0,0,0,59,0,0,0,0.1,0.1,0.1,4,0,36,50,72.0,2,25,3,5,2,Arsenal,2017-11-02 Arsenal-Red Star,UEL,17-18,39c0e98f
+a6951bf8,Francis Coquelin,34,FRA,CM,26-173,90,0,0,0,0,1,0,0,0,92,3,1,0,0.0,0.0,0.0,2,0,69,82,84.1,5,61,3,1,1,Arsenal,2017-11-02 Arsenal-Red Star,UEL,17-18,39c0e98f
+a3b03921,Joe Willock,69,ENG,CM,18-074,67,0,0,0,0,1,0,0,0,57,2,0,3,0.0,0.0,0.1,3,0,40,49,81.6,3,38,3,3,3,Arsenal,2017-11-02 Arsenal-Red Star,UEL,17-18,39c0e98f
+a53649b7,Eddie Nketiah,62,ENG,AM,18-156,23,0,0,0,0,0,0,0,0,17,0,0,0,0.0,0.0,0.0,1,0,7,12,58.3,0,11,2,4,1,Arsenal,2017-11-02 Arsenal-Red Star,UEL,17-18,39c0e98f
+e3a5814e,Ainsley Maitland-Niles,30,ENG,WB,20-065,90,0,0,0,0,0,0,0,0,83,2,2,0,0.0,0.0,0.2,3,0,65,75,86.7,12,52,3,3,2,Arsenal,2017-11-02 Arsenal-Red Star,UEL,17-18,39c0e98f
+c5bdb6e3,Reiss Nelson,61,ENG,WB,17-327,90,0,0,0,0,0,0,0,0,88,3,3,1,0.0,0.0,0.0,0,0,60,73,82.2,4,48,4,4,2,Arsenal,2017-11-02 Arsenal-Red Star,UEL,17-18,39c0e98f
+d79a8c87,Rob Holding,16,ENG,CB,22-043,90,0,0,0,0,1,0,1,0,90,3,4,0,0.1,0.1,0.0,1,0,70,78,89.7,15,59,2,0,0,Arsenal,2017-11-02 Arsenal-Red Star,UEL,17-18,39c0e98f
+47a34c4f,Mohamed Elneny,35,EGY,CB,25-114,90,0,0,0,0,0,0,0,0,85,1,1,1,0.0,0.0,0.0,1,0,66,77,85.7,7,62,2,0,0,Arsenal,2017-11-02 Arsenal-Red Star,UEL,17-18,39c0e98f
+92232aad,Mathieu Debuchy,2,FRA,CB,32-097,90,0,0,0,0,1,0,0,0,107,2,1,2,0.1,0.1,0.0,1,0,78,93,83.9,7,68,3,0,0,Arsenal,2017-11-02 Arsenal-Red Star,UEL,17-18,39c0e98f
+136e7649,Matt Macey,54,ENG,GK,23-054,90,0,0,0,0,0,0,0,0,24,0,0,0,0.0,0.0,0.0,0,0,16,21,76.2,0,9,0,0,0,Arsenal,2017-11-02 Arsenal-Red Star,UEL,17-18,39c0e98f
+27f0fcda,Richmond Boakye,14,GHA,FW,24-278,90,0,0,0,0,2,0,0,0,30,0,2,1,0.6,0.6,0.0,0,0,13,16,81.3,1,20,2,1,0,Red Star,2017-11-02 Arsenal-Red Star,UEL,17-18,39c0e98f
+0630eb63,Nemanja Radonjić,49,SRB,LW,21-260,88,0,0,0,0,1,0,0,0,38,1,2,2,0.0,0.0,0.1,3,0,16,26,61.5,1,17,3,1,1,Red Star,2017-11-02 Arsenal-Red Star,UEL,17-18,39c0e98f
+a2f2d806,Aleksandar Pešić,45,SRB,LW,25-165,2,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,2,0,0,0,Red Star,2017-11-02 Arsenal-Red Star,UEL,17-18,39c0e98f
+cf8ef0a1,Slavoljub Srnić,14,SRB,"RW,AM",25-294,85,0,0,0,0,2,2,0,0,30,5,1,0,0.1,0.1,0.0,2,0,8,18,44.4,0,12,2,0,0,Red Star,2017-11-02 Arsenal-Red Star,UEL,17-18,39c0e98f
+faed84db,Uroš Račić,6,SRB,AM,19-230,5,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,1,0,0,0,0,Red Star,2017-11-02 Arsenal-Red Star,UEL,17-18,39c0e98f
+af50141d,Guélor Kanga,8,GAB,AM,27-062,69,0,0,0,0,1,0,0,0,60,0,0,0,0.0,0.0,0.6,2,0,37,52,71.2,9,35,2,2,1,Red Star,2017-11-02 Arsenal-Red Star,UEL,17-18,39c0e98f
+5b6cf07c,Nemanja Milić,16,SRB,"RW,AM",27-161,21,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.1,1,0,3,6,50.0,2,3,0,0,0,Red Star,2017-11-02 Arsenal-Red Star,UEL,17-18,39c0e98f
+5631b735,Nenad Krstičić,7,SRB,DM,27-122,90,0,0,0,0,0,0,0,0,43,2,0,4,0.0,0.0,0.0,1,0,31,36,86.1,0,14,1,0,0,Red Star,2017-11-02 Arsenal-Red Star,UEL,17-18,39c0e98f
+64e801aa,Mitchell Donald,20,SUR,DM,28-327,90,0,0,0,0,0,0,0,0,55,0,2,1,0.0,0.0,0.0,3,0,42,48,87.5,8,24,0,0,0,Red Star,2017-11-02 Arsenal-Red Star,UEL,17-18,39c0e98f
+50c1ff86,Marko Gobeljić,77,SRB,LB,25-050,90,0,0,0,0,0,0,0,0,54,3,2,3,0.0,0.0,0.0,0,0,27,39,69.2,1,14,1,1,1,Red Star,2017-11-02 Arsenal-Red Star,UEL,17-18,39c0e98f
+8f4d116f,Damien Le Tallec,4,FRA,CB,27-197,90,0,0,0,0,0,0,0,0,59,0,4,2,0.0,0.0,0.0,1,0,42,46,91.3,2,25,0,0,0,Red Star,2017-11-02 Arsenal-Red Star,UEL,17-18,39c0e98f
+b1062a37,Vujadin Savić,90,SRB,CB,27-124,90,0,0,0,0,1,1,0,0,56,6,1,1,0.3,0.3,0.0,0,0,33,39,84.6,0,24,0,0,0,Red Star,2017-11-02 Arsenal-Red Star,UEL,17-18,39c0e98f
+bafcf742,Filip Stojković,30,MNE,RB,24-284,90,0,0,0,0,0,0,0,0,55,4,2,1,0.0,0.0,0.0,0,0,26,39,66.7,1,19,1,1,0,Red Star,2017-11-02 Arsenal-Red Star,UEL,17-18,39c0e98f
+5e8936be,Milan Borjan,82,CAN,GK,30-010,90,0,0,0,0,0,0,0,0,38,0,0,0,0.0,0.0,0.0,0,0,13,34,38.2,0,17,0,0,0,Red Star,2017-11-02 Arsenal-Red Star,UEL,17-18,39c0e98f

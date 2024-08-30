@@ -1,0 +1,32 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+4f16405e,Niclas Füllkrug,14,GER,FW,30-303,90,1,0,0,0,3,1,0,0,47,0,0,1,0.9,0.9,0.2,3,0,25,35,71.4,4,15,1,2,0,Dortmund,2023-12-09 Dortmund-RB Leipzig,GER-BL1,23-24,f73593b4
+10745192,Jamie Gittens,43,ENG,LW,19-123,18,0,0,0,0,0,0,0,0,4,0,0,1,0.0,0.0,0.0,0,0,2,2,100.0,0,2,1,1,1,Dortmund,2023-12-09 Dortmund-RB Leipzig,GER-BL1,23-24,f73593b4
+e33c06cf,Niklas Süle,25,GER,CB,28-097,72,1,0,0,0,2,1,0,0,60,0,1,2,0.2,0.2,0.1,3,0,46,50,92.0,1,24,0,0,0,Dortmund,2023-12-09 Dortmund-RB Leipzig,GER-BL1,23-24,f73593b4
+36a3ff67,Marco Reus,11,GER,"RM,RW",34-192,70,0,0,0,0,1,0,0,0,42,3,0,0,0.0,0.0,0.0,2,0,27,32,84.4,2,14,0,0,0,Dortmund,2023-12-09 Dortmund-RB Leipzig,GER-BL1,23-24,f73593b4
+501055d8,Karim Adeyemi,27,GER,LM,21-325,20,0,0,0,0,1,0,0,0,21,1,0,0,0.0,0.0,0.0,1,0,8,15,53.3,2,12,5,2,1,Dortmund,2023-12-09 Dortmund-RB Leipzig,GER-BL1,23-24,f73593b4
+a167537f,Julian Brandt,19,GER,"LM,RM,AM",27-221,90,0,2,0,0,0,0,0,0,63,0,0,0,0.0,0.0,1.0,8,2,45,58,77.6,1,25,4,3,1,Dortmund,2023-12-09 Dortmund-RB Leipzig,GER-BL1,23-24,f73593b4
+15413fa5,Salih Özcan,6,TUR,"CM,DM",25-332,90,0,0,0,0,2,1,1,0,75,3,0,4,0.1,0.1,0.1,2,0,45,56,80.4,7,36,2,3,1,Dortmund,2023-12-09 Dortmund-RB Leipzig,GER-BL1,23-24,f73593b4
+a65ce836,Emre Can,23,GER,"CM,DM",29-331,90,0,0,0,0,0,0,0,0,91,5,3,4,0.0,0.0,0.0,5,1,67,74,90.5,11,36,3,4,2,Dortmund,2023-12-09 Dortmund-RB Leipzig,GER-BL1,23-24,f73593b4
+378825c7,Ramy Bensebaini,5,ALG,LB,28-237,81,0,0,0,0,0,0,0,0,65,1,1,2,0.0,0.0,0.0,1,0,44,56,78.6,3,23,0,0,0,Dortmund,2023-12-09 Dortmund-RB Leipzig,GER-BL1,23-24,f73593b4
+116c35df,Donyell Malen,21,NED,LB,24-334,9,0,0,0,0,2,1,0,0,8,0,0,0,0.0,0.0,0.0,2,1,4,5,80.0,1,3,1,0,0,Dortmund,2023-12-09 Dortmund-RB Leipzig,GER-BL1,23-24,f73593b4
+34e12499,Nico Schlotterbeck,4,GER,CB,24-008,90,0,0,0,0,3,0,0,0,100,1,2,4,0.1,0.1,0.0,3,0,71,83,85.5,7,49,1,2,2,Dortmund,2023-12-09 Dortmund-RB Leipzig,GER-BL1,23-24,f73593b4
+05d548d8,Mats Hummels,15,GER,CB,34-358,14,0,0,0,0,0,0,0,1,13,0,0,1,0.0,0.0,0.0,0,0,11,12,91.7,0,8,0,0,0,Dortmund,2023-12-09 Dortmund-RB Leipzig,GER-BL1,23-24,f73593b4
+e162b013,Thomas Meunier,24,BEL,RB,32-088,81,0,0,0,0,2,1,0,0,67,1,0,1,0.2,0.2,0.0,1,0,44,55,80.0,2,24,0,2,0,Dortmund,2023-12-09 Dortmund-RB Leipzig,GER-BL1,23-24,f73593b4
+7fa4e703,Gio Reyna,7,USA,RB,21-026,9,0,0,0,0,2,1,0,0,16,0,0,0,0.0,0.0,0.0,2,0,12,14,85.7,2,5,0,1,1,Dortmund,2023-12-09 Dortmund-RB Leipzig,GER-BL1,23-24,f73593b4
+cd59b9df,Gregor Kobel,1,SUI,GK,26-003,90,0,0,0,0,0,0,0,0,58,0,0,0,0.0,0.0,0.0,0,0,44,53,83.0,0,23,0,0,0,Dortmund,2023-12-09 Dortmund-RB Leipzig,GER-BL1,23-24,f73593b4
+8652a85c,Loïs Openda,17,BEL,FW,23-296,74,0,0,0,0,5,1,1,0,26,0,0,2,0.4,0.4,0.0,1,0,11,15,73.3,2,18,3,0,0,RB Leipzig,2023-12-09 Dortmund-RB Leipzig,GER-BL1,23-24,f73593b4
+d2416c2e,Yussuf Poulsen,9,DEN,AM,29-177,16,1,0,0,0,1,1,0,0,9,0,0,1,0.5,0.5,0.1,2,1,3,5,60.0,1,6,0,1,1,RB Leipzig,2023-12-09 Dortmund-RB Leipzig,GER-BL1,23-24,f73593b4
+da4d670f,Xavi Simons,20,NED,AM,20-232,75,0,0,0,0,3,1,1,0,60,1,0,0,0.3,0.3,0.2,11,1,36,45,80.0,6,46,4,5,1,RB Leipzig,2023-12-09 Dortmund-RB Leipzig,GER-BL1,23-24,f73593b4
+3260690c,Benjamin Šeško,30,SVN,FW,20-192,15,0,0,0,0,1,1,0,0,18,0,0,0,0.1,0.1,0.0,0,0,11,14,78.6,0,12,1,1,1,RB Leipzig,2023-12-09 Dortmund-RB Leipzig,GER-BL1,23-24,f73593b4
+437f2b00,Christoph Baumgartner,14,AUT,AM,24-130,74,1,0,0,0,2,1,0,0,35,0,0,1,0.9,0.9,0.1,4,0,15,25,60.0,4,20,1,1,1,RB Leipzig,2023-12-09 Dortmund-RB Leipzig,GER-BL1,23-24,f73593b4
+9a2e0ccc,Emil Forsberg,10,SWE,AM,32-047,16,0,1,0,0,0,0,0,0,12,2,0,1,0.0,0.0,0.5,1,1,8,8,100.0,2,7,0,0,0,RB Leipzig,2023-12-09 Dortmund-RB Leipzig,GER-BL1,23-24,f73593b4
+8f056768,Xaver Schlager,24,AUT,CM,26-072,90,0,0,0,0,1,0,0,0,78,2,1,3,0.0,0.0,0.1,4,0,58,67,86.6,9,57,1,0,0,RB Leipzig,2023-12-09 Dortmund-RB Leipzig,GER-BL1,23-24,f73593b4
+92432bc6,Amadou Haidara,8,MLI,CM,25-312,80,0,0,0,0,4,1,0,0,52,2,1,4,0.2,0.2,0.1,4,0,33,38,86.8,3,28,0,0,0,RB Leipzig,2023-12-09 Dortmund-RB Leipzig,GER-BL1,23-24,f73593b4
+b825a650,Kevin Kampl,44,SVN,CM,33-061,10,0,0,0,0,0,0,0,0,2,0,0,1,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,0,0,RB Leipzig,2023-12-09 Dortmund-RB Leipzig,GER-BL1,23-24,f73593b4
+7d450ed3,David Raum,22,GER,WB,25-231,90,0,0,0,0,2,1,0,0,88,4,0,3,0.1,0.1,0.3,8,0,57,73,78.1,6,55,4,1,1,RB Leipzig,2023-12-09 Dortmund-RB Leipzig,GER-BL1,23-24,f73593b4
+0a89e877,Benjamin Henrichs,39,GER,WB,26-289,90,0,0,0,0,3,0,0,0,59,1,2,2,0.3,0.3,0.3,5,0,34,49,69.4,1,33,2,1,1,RB Leipzig,2023-12-09 Dortmund-RB Leipzig,GER-BL1,23-24,f73593b4
+5b9512c5,Castello Lukeba,23,FRA,CB,20-357,90,0,0,0,0,1,0,0,0,77,1,1,1,0.1,0.1,0.0,5,0,61,63,96.8,12,52,0,1,0,RB Leipzig,2023-12-09 Dortmund-RB Leipzig,GER-BL1,23-24,f73593b4
+ca8033cb,Lukas Klostermann,16,GER,CB,27-189,90,0,0,0,0,0,0,0,0,66,2,0,2,0.0,0.0,0.0,0,0,49,58,84.5,7,42,1,0,0,RB Leipzig,2023-12-09 Dortmund-RB Leipzig,GER-BL1,23-24,f73593b4
+fcb27134,Mohamed Simakan,2,FRA,CB,23-220,90,0,0,0,0,3,1,1,0,62,0,1,3,0.2,0.2,0.0,0,0,45,53,84.9,7,43,0,0,0,RB Leipzig,2023-12-09 Dortmund-RB Leipzig,GER-BL1,23-24,f73593b4
+663e080e,Janis Blaswich,21,GER,GK,32-221,90,0,0,0,0,0,0,0,0,18,0,0,0,0.0,0.0,0.0,0,0,9,14,64.3,0,7,0,0,0,RB Leipzig,2023-12-09 Dortmund-RB Leipzig,GER-BL1,23-24,f73593b4

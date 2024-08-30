@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+4cde5509,Zlatan Ibrahimović,11,SWE,FW,40-035,90,0,0,0,0,2,1,0,0,34,0,0,0,0.1,0.1,0.1,2,0,19,25,76.0,1,16,0,1,0,Milan,2021-11-07 Milan-Inter,ITA-SERIA_A,21-22,0dd97be1
+20730eae,Rafael Leão,17,POR,LW,22-150,58,0,0,0,0,4,3,0,0,22,0,0,0,0.2,0.2,0.0,1,0,9,11,81.8,0,17,3,6,4,Milan,2021-11-07 Milan-Inter,ITA-SERIA_A,21-22,0dd97be1
+536cebe5,Ante Rebić,12,CRO,LW,28-047,32,0,0,0,0,4,0,0,0,25,2,0,2,0.3,0.3,0.0,3,0,5,10,50.0,1,13,4,4,1,Milan,2021-11-07 Milan-Inter,ITA-SERIA_A,21-22,0dd97be1
+407feb71,Brahim Díaz,10,MAR,RW,22-096,58,0,0,0,0,0,0,0,0,22,0,0,1,0.0,0.0,0.0,0,0,13,16,81.3,0,14,1,3,2,Milan,2021-11-07 Milan-Inter,ITA-SERIA_A,21-22,0dd97be1
+ee251371,Alexis Saelemaekers,56,BEL,RW,22-133,32,0,0,0,0,1,0,0,0,25,0,0,0,0.0,0.0,0.1,4,0,12,16,75.0,0,12,1,3,1,Milan,2021-11-07 Milan-Inter,ITA-SERIA_A,21-22,0dd97be1
+817c6964,Rade Krunić,33,BIH,AM,28-031,83,0,0,0,0,0,0,0,0,23,0,1,1,0.0,0.0,0.1,3,0,12,17,70.6,1,11,0,0,0,Milan,2021-11-07 Milan-Inter,ITA-SERIA_A,21-22,0dd97be1
+59bf127b,Tiemoué Bakayoko,41,FRA,AM,27-082,7,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,6,7,85.7,0,5,1,1,1,Milan,2021-11-07 Milan-Inter,ITA-SERIA_A,21-22,0dd97be1
+05e19d6a,Franck Kessié,79,CIV,DM,24-323,90,0,0,0,0,1,0,0,0,73,1,1,2,0.2,0.2,0.0,3,0,62,65,95.4,8,39,3,1,1,Milan,2021-11-07 Milan-Inter,ITA-SERIA_A,21-22,0dd97be1
+0db169ae,Sandro Tonali,8,ITA,DM,21-183,70,0,0,0,0,1,0,0,0,48,1,0,0,0.0,0.0,0.0,1,0,32,45,71.1,5,26,3,0,0,Milan,2021-11-07 Milan-Inter,ITA-SERIA_A,21-22,0dd97be1
+db092d3b,Ismaël Bennacer,4,ALG,DM,23-341,20,0,0,0,0,1,0,0,0,19,0,1,2,0.1,0.1,0.1,4,0,12,13,92.3,3,9,1,1,1,Milan,2021-11-07 Milan-Inter,ITA-SERIA_A,21-22,0dd97be1
+f449640d,Fodé Ballo-Touré,5,SEN,LB,24-308,45,0,0,0,0,0,0,1,0,27,2,0,1,0.0,0.0,0.0,0,0,20,21,95.2,1,16,2,0,0,Milan,2021-11-07 Milan-Inter,ITA-SERIA_A,21-22,0dd97be1
+85f7d1be,Pierre Kalulu,20,FRA,LB,21-155,45,0,0,0,0,1,0,0,0,21,0,0,3,0.0,0.0,0.0,1,0,13,14,92.9,1,13,1,0,0,Milan,2021-11-07 Milan-Inter,ITA-SERIA_A,21-22,0dd97be1
+7edfbb8a,Fikayo Tomori,23,ENG,CB,23-323,90,0,0,0,0,0,0,0,0,61,1,1,2,0.0,0.0,0.0,2,0,42,48,87.5,3,35,0,0,0,Milan,2021-11-07 Milan-Inter,ITA-SERIA_A,21-22,0dd97be1
+8b8a56ce,Simon Kjær,24,DEN,CB,32-226,90,0,0,0,0,0,0,0,0,59,1,3,1,0.0,0.0,0.0,0,0,41,51,80.4,6,33,0,0,0,Milan,2021-11-07 Milan-Inter,ITA-SERIA_A,21-22,0dd97be1
+2146785a,Davide Calabria,2,ITA,RB,24-336,90,0,0,0,0,1,0,0,0,55,2,0,1,0.0,0.0,0.0,2,0,37,49,75.5,6,17,1,1,1,Milan,2021-11-07 Milan-Inter,ITA-SERIA_A,21-22,0dd97be1
+b056e3da,Ciprian Tătărușanu,1,ROU,GK,35-271,90,0,0,0,0,0,0,0,0,24,0,0,0,0.0,0.0,0.0,0,0,17,22,77.3,0,17,0,0,0,Milan,2021-11-07 Milan-Inter,ITA-SERIA_A,21-22,0dd97be1
+f7036e1c,Lautaro Martínez,10,ARG,FW,24-077,83,0,0,0,1,3,0,0,0,32,0,1,0,1.0,0.2,0.0,1,0,12,17,70.6,3,19,0,1,0,Internazionale,2021-11-07 Milan-Inter,ITA-SERIA_A,21-22,0dd97be1
+2c0f8e9e,Alexis Sánchez,7,CHI,FW,32-323,7,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,0,3,0.0,0,2,0,0,0,Internazionale,2021-11-07 Milan-Inter,ITA-SERIA_A,21-22,0dd97be1
+3bb7f478,Edin Džeko,9,BIH,FW,35-235,75,0,0,0,0,1,0,0,0,33,0,0,0,0.1,0.1,0.4,3,0,20,30,66.7,4,19,1,0,0,Internazionale,2021-11-07 Milan-Inter,ITA-SERIA_A,21-22,0dd97be1
+45b9b619,Joaquín Correa,19,ARG,FW,27-086,15,0,0,0,0,0,0,0,0,3,0,0,1,0.0,0.0,0.0,0,0,2,2,100.0,0,1,0,0,0,Internazionale,2021-11-07 Milan-Inter,ITA-SERIA_A,21-22,0dd97be1
+cd0fa27b,Hakan Çalhanoğlu,20,TUR,CM,27-272,90,1,0,1,1,4,0,0,0,72,1,1,0,0.9,0.1,0.1,2,1,44,59,74.6,2,43,1,3,1,Internazionale,2021-11-07 Milan-Inter,ITA-SERIA_A,21-22,0dd97be1
+33b8d077,Marcelo Brozović,77,CRO,CM,28-356,90,0,0,0,0,0,0,0,0,62,0,0,4,0.0,0.0,0.0,1,0,46,53,86.8,3,36,1,0,0,Internazionale,2021-11-07 Milan-Inter,ITA-SERIA_A,21-22,0dd97be1
+6928979a,Nicolò Barella,23,ITA,CM,24-273,67,0,0,0,0,1,0,0,0,37,3,1,1,0.3,0.3,0.1,3,0,22,29,75.9,6,25,2,0,0,Internazionale,2021-11-07 Milan-Inter,ITA-SERIA_A,21-22,0dd97be1
+67cdbc0e,Arturo Vidal,22,CHI,CM,34-169,23,0,0,0,0,2,0,0,0,19,2,0,0,0.3,0.3,0.0,1,0,9,11,81.8,0,9,0,1,0,Internazionale,2021-11-07 Milan-Inter,ITA-SERIA_A,21-22,0dd97be1
+6fe90922,Ivan Perišić,14,CRO,WB,32-278,90,0,0,0,0,0,0,0,0,50,1,1,0,0.0,0.0,0.1,1,0,26,41,63.4,1,24,4,4,3,Internazionale,2021-11-07 Milan-Inter,ITA-SERIA_A,21-22,0dd97be1
+96e0490d,Matteo Darmian,36,ITA,WB,31-340,75,0,0,0,0,0,0,0,0,43,3,2,1,0.0,0.0,0.0,2,0,25,33,75.8,1,23,2,0,0,Internazionale,2021-11-07 Milan-Inter,ITA-SERIA_A,21-22,0dd97be1
+481c9ece,Denzel Dumfries,2,NED,WB,25-203,15,0,0,0,0,0,0,0,0,6,1,0,0,0.0,0.0,0.0,0,0,3,4,75.0,0,1,0,0,0,Internazionale,2021-11-07 Milan-Inter,ITA-SERIA_A,21-22,0dd97be1
+75b86fb3,Alessandro Bastoni,95,ITA,CB,22-208,83,0,0,0,0,0,0,0,0,52,2,1,0,0.0,0.0,0.3,3,0,35,43,81.4,5,33,1,1,1,Internazionale,2021-11-07 Milan-Inter,ITA-SERIA_A,21-22,0dd97be1
+970b8574,Federico Dimarco,32,ITA,CB,23-362,7,0,0,0,0,0,0,0,0,4,0,0,1,0.0,0.0,0.0,0,0,1,2,50.0,0,2,0,0,0,Internazionale,2021-11-07 Milan-Inter,ITA-SERIA_A,21-22,0dd97be1
+d0d8dd44,Stefan de Vrij,6,NED,CB,29-275,90,0,0,0,0,0,0,0,0,37,1,1,1,0.0,0.0,0.0,0,0,25,28,89.3,3,15,0,0,0,Internazionale,2021-11-07 Milan-Inter,ITA-SERIA_A,21-22,0dd97be1
+30f5ffa9,Milan Škriniar,37,SVK,CB,26-269,90,0,0,0,0,0,0,0,0,42,2,1,1,0.0,0.0,0.0,0,0,32,36,88.9,2,31,1,0,0,Internazionale,2021-11-07 Milan-Inter,ITA-SERIA_A,21-22,0dd97be1
+74419746,Samir Handanović,1,SVN,GK,37-116,90,0,0,0,0,0,0,0,0,39,0,0,0,0.0,0.0,0.0,1,0,31,38,81.6,0,24,0,0,0,Internazionale,2021-11-07 Milan-Inter,ITA-SERIA_A,21-22,0dd97be1

@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+0a1efd3c,Andrey Galabinov,16,BUL,FW,28-272,71,1,0,1,1,2,0,0,0,28,0,1,2,0.9,0.1,0.0,2,1,10,19,52.6,2,12,0,0,0,Genoa,2017-08-26 Genoa-Juventus,ITA-SERIA_A,17-18,bcf8af9e
+fac896b0,Ricardo Centurión,9,ARG,FW,24-219,19,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,4,6,66.7,1,7,1,1,0,Genoa,2017-08-26 Genoa-Juventus,ITA-SERIA_A,17-18,bcf8af9e
+47dc80f5,Adel Taarabt,11,MAR,LW,28-094,50,0,0,0,0,1,1,0,0,31,0,1,1,0.0,0.0,0.0,1,1,23,25,92.0,3,24,3,0,0,Genoa,2017-08-26 Genoa-Juventus,ITA-SERIA_A,17-18,bcf8af9e
+961a4174,Raffaele Palladino,17,ITA,LW,33-131,40,0,0,0,0,1,1,0,0,21,0,0,0,0.0,0.0,0.1,1,0,14,18,77.8,1,16,1,0,0,Genoa,2017-08-26 Genoa-Juventus,ITA-SERIA_A,17-18,bcf8af9e
+d711d04f,Goran Pandev,19,MKD,RW,34-030,77,0,0,0,0,0,0,0,0,20,0,0,1,0.0,0.0,0.1,2,0,12,18,66.7,1,19,5,2,2,Genoa,2017-08-26 Genoa-Juventus,ITA-SERIA_A,17-18,bcf8af9e
+2ead2809,Gianluca Lapadula,10,PER,RW,27-200,13,0,0,0,0,1,0,0,0,4,0,0,0,0.1,0.1,0.0,0,0,1,1,100.0,0,3,0,0,0,Genoa,2017-08-26 Genoa-Juventus,ITA-SERIA_A,17-18,bcf8af9e
+f26e3c59,Diego Laxalt,93,URU,LM,24-200,90,0,0,0,0,1,0,1,0,63,2,0,2,0.0,0.0,0.0,2,0,46,55,83.6,2,39,5,3,3,Genoa,2017-08-26 Genoa-Juventus,ITA-SERIA_A,17-18,bcf8af9e
+ab1ca213,Miguel Veloso,44,POR,CM,31-107,90,0,0,0,0,2,0,0,0,62,1,1,1,0.1,0.1,0.0,2,0,52,55,94.5,9,34,2,1,1,Genoa,2017-08-26 Genoa-Juventus,ITA-SERIA_A,17-18,bcf8af9e
+c75b6a02,Andrea Bertolacci,8,ITA,CM,26-227,90,0,0,0,0,0,0,0,0,54,1,0,2,0.0,0.0,0.0,2,0,39,45,86.7,7,34,1,1,0,Genoa,2017-08-26 Genoa-Juventus,ITA-SERIA_A,17-18,bcf8af9e
+5128bde4,Darko Lazović,22,SRB,RM,26-345,90,0,0,0,0,0,0,1,0,57,2,1,1,0.0,0.0,0.1,1,0,36,51,70.6,2,37,5,0,0,Genoa,2017-08-26 Genoa-Juventus,ITA-SERIA_A,17-18,bcf8af9e
+4ac07e1b,Santiago Gentiletti,3,ARG,CB,32-229,90,0,0,0,0,0,0,1,0,80,2,2,0,0.0,0.0,0.0,1,0,65,73,89.0,17,35,3,1,1,Genoa,2017-08-26 Genoa-Juventus,ITA-SERIA_A,17-18,bcf8af9e
+47a500ae,Luca Rossettini,13,ITA,CB,32-109,90,0,0,0,0,0,0,0,0,46,0,1,1,0.0,0.0,0.0,0,0,35,39,89.7,1,18,0,0,0,Genoa,2017-08-26 Genoa-Juventus,ITA-SERIA_A,17-18,bcf8af9e
+64cd167d,Davide Biraschi,14,ITA,CB,23-055,90,0,0,0,0,0,0,1,0,66,3,4,1,0.0,0.0,0.0,1,0,48,58,82.8,8,37,4,1,1,Genoa,2017-08-26 Genoa-Juventus,ITA-SERIA_A,17-18,bcf8af9e
+4c62d0c8,Mattia Perin,1,ITA,GK,24-289,90,0,0,0,0,0,0,0,0,34,0,0,0,0.0,0.0,0.0,1,0,25,31,80.6,0,18,0,0,0,Genoa,2017-08-26 Genoa-Juventus,ITA-SERIA_A,17-18,bcf8af9e
+8a08491a,Gonzalo Higuaín,9,ARG,FW,29-259,90,0,1,0,0,4,0,0,0,44,1,0,0,0.3,0.3,0.1,8,2,28,37,75.7,6,33,2,5,5,Juventus,2017-08-26 Genoa-Juventus,ITA-SERIA_A,17-18,bcf8af9e
+afa0d4e0,Mario Mandžukić,17,CRO,LW,31-097,90,0,1,0,0,3,1,0,0,38,1,1,0,0.4,0.4,0.2,4,3,25,32,78.1,1,19,2,0,0,Juventus,2017-08-26 Genoa-Juventus,ITA-SERIA_A,17-18,bcf8af9e
+0ab1f153,Juan Cuadrado,7,COL,RW,29-092,90,1,0,0,0,1,1,1,0,45,2,0,2,0.2,0.2,0.0,2,1,27,35,77.1,2,30,2,2,1,Juventus,2017-08-26 Genoa-Juventus,ITA-SERIA_A,17-18,bcf8af9e
+e0921a4f,Paulo Dybala,10,ARG,AM,23-284,90,3,0,1,1,4,4,0,0,58,1,0,0,1.4,0.6,0.1,6,0,35,43,81.4,1,37,1,6,4,Juventus,2017-08-26 Genoa-Juventus,ITA-SERIA_A,17-18,bcf8af9e
+ad6df2d5,Miralem Pjanić,5,BIH,DM,27-146,80,0,1,0,0,3,0,1,0,75,1,1,0,0.2,0.2,0.5,2,1,62,69,89.9,12,47,1,0,0,Juventus,2017-08-26 Genoa-Juventus,ITA-SERIA_A,17-18,bcf8af9e
+3b8674e6,Rodrigo Bentancur,30,URU,DM,20-062,10,0,0,0,0,0,0,0,0,17,1,1,0,0.0,0.0,0.0,0,0,14,15,93.3,1,12,0,0,0,Juventus,2017-08-26 Genoa-Juventus,ITA-SERIA_A,17-18,bcf8af9e
+38ac43d3,Sami Khedira,6,GER,DM,30-144,57,0,0,0,0,0,0,0,0,43,1,1,0,0.0,0.0,0.0,0,0,35,41,85.4,2,34,0,0,0,Juventus,2017-08-26 Genoa-Juventus,ITA-SERIA_A,17-18,bcf8af9e
+c0cddebe,Blaise Matuidi,14,FRA,DM,30-139,33,0,0,0,0,0,0,0,0,38,2,0,0,0.0,0.0,0.0,1,0,31,34,91.2,2,24,1,0,0,Juventus,2017-08-26 Genoa-Juventus,ITA-SERIA_A,17-18,bcf8af9e
+0d82903c,Alex Sandro,12,BRA,LB,26-212,90,0,0,0,0,0,0,0,0,63,1,1,1,0.0,0.0,0.0,0,0,46,54,85.2,3,40,3,2,1,Juventus,2017-08-26 Genoa-Juventus,ITA-SERIA_A,17-18,bcf8af9e
+e85fb9b8,Giorgio Chiellini,3,ITA,CB,33-012,90,0,0,0,0,1,0,0,0,128,0,3,1,0.0,0.0,0.0,1,0,104,115,90.4,5,87,4,0,0,Juventus,2017-08-26 Genoa-Juventus,ITA-SERIA_A,17-18,bcf8af9e
+14b8fcdf,Daniele Rugani,24,ITA,CB,23-028,90,0,0,0,0,0,0,0,0,98,0,0,1,0.0,0.0,0.0,0,0,87,93,93.5,4,75,0,0,0,Juventus,2017-08-26 Genoa-Juventus,ITA-SERIA_A,17-18,bcf8af9e
+99b1d0e6,Stephan Lichtsteiner,26,SUI,RB,33-222,73,0,0,0,0,0,0,1,0,51,1,1,0,0.0,0.0,0.1,3,0,42,48,87.5,3,32,0,0,0,Juventus,2017-08-26 Genoa-Juventus,ITA-SERIA_A,17-18,bcf8af9e
+7c0000fd,Andrea Barzagli,15,ITA,RB,36-110,17,0,0,0,0,0,0,0,0,8,1,1,1,0.0,0.0,0.0,0,0,5,6,83.3,0,5,0,0,0,Juventus,2017-08-26 Genoa-Juventus,ITA-SERIA_A,17-18,bcf8af9e
+e40d028b,Gianluigi Buffon,1,ITA,GK,39-210,90,0,0,0,0,0,0,0,0,37,0,0,0,0.0,0.0,0.0,0,0,27,34,79.4,0,22,0,0,0,Juventus,2017-08-26 Genoa-Juventus,ITA-SERIA_A,17-18,bcf8af9e

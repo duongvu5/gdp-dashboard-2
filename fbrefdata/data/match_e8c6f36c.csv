@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+9dbb75ca,Alexandre Lacazette,9,FRA,FW,26-312,73,2,0,1,1,1,1,0,0,28,0,0,2,0.8,0.1,0.1,2,0,19,23,82.6,2,15,0,0,0,Arsenal,2018-04-05 Arsenal-CSKA Moscow,UEL,17-18,e8c6f36c
+ce5143da,Danny Welbeck,23,ENG,FW,27-130,17,0,0,0,0,1,1,0,0,10,0,0,0,0.2,0.2,0.0,0,0,6,7,85.7,1,5,0,1,0,Arsenal,2018-04-05 Arsenal-CSKA Moscow,UEL,17-18,e8c6f36c
+dd0daf32,Henrikh Mkhitaryan,77,ARM,LW,29-074,60,0,0,0,0,4,1,0,0,31,1,0,1,0.8,0.8,0.0,3,0,20,24,83.3,4,24,2,1,0,Arsenal,2018-04-05 Arsenal-CSKA Moscow,UEL,17-18,e8c6f36c
+6ca5ec4b,Alex Iwobi,17,NGA,LW,21-337,30,0,0,0,0,1,0,0,0,31,1,0,1,0.1,0.1,0.1,3,0,19,23,82.6,3,22,1,6,3,Arsenal,2018-04-05 Arsenal-CSKA Moscow,UEL,17-18,e8c6f36c
+16380240,Mesut Özil,11,GER,RW,29-172,90,0,2,0,0,2,1,0,0,92,0,1,1,0.5,0.5,1.3,10,4,66,86,76.7,13,67,4,4,3,Arsenal,2018-04-05 Arsenal-CSKA Moscow,UEL,17-18,e8c6f36c
+9c318325,Jack Wilshere,10,ENG,LM,26-094,73,0,0,0,0,0,0,0,0,35,0,0,0,0.0,0.0,0.0,0,0,22,30,73.3,2,21,2,3,1,Arsenal,2018-04-05 Arsenal-CSKA Moscow,UEL,17-18,e8c6f36c
+47a34c4f,Mohamed Elneny,35,EGY,RW,25-268,17,0,0,0,0,0,0,0,0,27,0,1,0,0.0,0.0,0.0,0,0,25,27,92.6,2,18,1,0,0,Arsenal,2018-04-05 Arsenal-CSKA Moscow,UEL,17-18,e8c6f36c
+e61b8aee,Granit Xhaka,29,SUI,CM,25-190,90,0,0,0,0,0,0,1,0,88,1,2,2,0.0,0.0,0.5,3,1,66,76,86.8,12,48,2,0,0,Arsenal,2018-04-05 Arsenal-CSKA Moscow,UEL,17-18,e8c6f36c
+ef619b0b,Aaron Ramsey,8,WAL,RM,27-100,90,2,0,0,0,7,3,0,0,73,1,3,0,1.3,1.3,0.0,3,1,47,58,81.0,6,46,1,1,1,Arsenal,2018-04-05 Arsenal-CSKA Moscow,UEL,17-18,e8c6f36c
+d4cb83cc,Nacho Monreal,18,ESP,LB,32-038,90,0,0,0,0,1,1,0,0,76,2,0,1,0.1,0.1,0.2,5,1,57,68,83.8,3,38,0,2,1,Arsenal,2018-04-05 Arsenal-CSKA Moscow,UEL,17-18,e8c6f36c
+f5efb153,Laurent Koscielny,6,FRA,CB,32-207,90,0,0,0,0,0,0,0,0,55,0,2,0,0.0,0.0,0.0,0,0,40,44,90.9,0,28,1,0,0,Arsenal,2018-04-05 Arsenal-CSKA Moscow,UEL,17-18,e8c6f36c
+3f2d59fe,Shkodran Mustafi,20,GER,CB,25-353,90,0,0,0,0,0,0,0,0,63,4,3,1,0.0,0.0,0.0,0,0,42,46,91.3,0,30,1,1,1,Arsenal,2018-04-05 Arsenal-CSKA Moscow,UEL,17-18,e8c6f36c
+f874dd44,Héctor Bellerín,24,ESP,RB,23-017,90,0,1,0,0,0,0,1,0,72,2,1,1,0.0,0.0,0.5,2,1,57,61,93.4,6,38,1,1,0,Arsenal,2018-04-05 Arsenal-CSKA Moscow,UEL,17-18,e8c6f36c
+71672fa0,Petr Čech,33,CZE,GK,35-320,90,0,0,0,0,0,0,0,0,38,0,0,0,0.0,0.0,0.0,0,0,20,37,54.1,0,21,0,0,0,Arsenal,2018-04-05 Arsenal-CSKA Moscow,UEL,17-18,e8c6f36c
+d7398ac3,Pontus Wernbloom,3,SWE,FW,31-284,90,0,0,0,0,2,1,0,0,43,1,0,1,0.1,0.1,0.1,4,1,21,33,63.6,4,12,3,1,1,CSKA Moscow,2018-04-05 Arsenal-CSKA Moscow,UEL,17-18,e8c6f36c
+b7084daf,Ahmed Musa,7,NGA,AM,25-173,82,0,0,0,0,2,1,1,0,28,0,0,0,0.4,0.4,0.1,5,0,14,21,66.7,2,17,8,5,5,CSKA Moscow,2018-04-05 Arsenal-CSKA Moscow,UEL,17-18,e8c6f36c
+aae44006,Khetag Khosonov,80,RUS,AM,19-291,8,0,0,0,0,0,0,0,0,11,1,0,0,0.0,0.0,0.0,0,0,10,10,100.0,3,9,2,0,0,CSKA Moscow,2018-04-05 Arsenal-CSKA Moscow,UEL,17-18,e8c6f36c
+4c45cdc2,Alan Dzagoev,10,RUS,AM,27-292,64,0,0,0,0,2,0,1,0,37,0,1,0,0.2,0.2,0.1,3,0,25,32,78.1,1,24,3,2,1,CSKA Moscow,2018-04-05 Arsenal-CSKA Moscow,UEL,17-18,e8c6f36c
+a9e68c94,Vitinho,11,BRA,AM,24-178,26,0,0,0,0,1,0,0,0,12,0,0,1,0.0,0.0,0.0,0,0,7,7,100.0,0,10,0,0,0,CSKA Moscow,2018-04-05 Arsenal-CSKA Moscow,UEL,17-18,e8c6f36c
+3708e9fa,Aleksandr Golovin,17,RUS,CM,21-310,90,1,0,0,0,1,1,0,0,74,5,2,2,0.1,0.1,0.0,1,1,50,63,79.4,8,49,8,3,3,CSKA Moscow,2018-04-05 Arsenal-CSKA Moscow,UEL,17-18,e8c6f36c
+c44a1d58,Bibras Natkho,66,ISR,CM,30-046,73,0,0,0,0,0,0,0,0,70,1,1,0,0.0,0.0,0.1,2,0,53,65,81.5,10,31,2,1,1,CSKA Moscow,2018-04-05 Arsenal-CSKA Moscow,UEL,17-18,e8c6f36c
+b2484b77,Georgi Milanov,8,BUL,CM,26-045,17,0,0,0,0,0,0,0,0,15,2,0,1,0.0,0.0,0.0,1,0,9,11,81.8,0,4,0,0,0,CSKA Moscow,2018-04-05 Arsenal-CSKA Moscow,UEL,17-18,e8c6f36c
+ab6928f2,Georgi Shchennikov,42,RUS,WB,26-343,90,0,0,0,0,1,0,1,0,46,0,2,1,0.1,0.1,0.3,2,0,28,39,71.8,2,26,5,3,3,CSKA Moscow,2018-04-05 Arsenal-CSKA Moscow,UEL,17-18,e8c6f36c
+ccc66d00,Konstantin Kuchayev,89,RUS,WB,20-018,90,0,0,0,0,0,0,0,0,49,1,0,5,0.0,0.0,0.0,1,0,26,39,66.7,2,24,3,3,2,CSKA Moscow,2018-04-05 Arsenal-CSKA Moscow,UEL,17-18,e8c6f36c
+84ad89fa,Aleksei Berezutski,24,RUS,CB,35-289,90,0,0,0,0,0,0,0,0,44,1,3,0,0.0,0.0,0.0,0,0,25,34,73.5,2,15,0,0,0,CSKA Moscow,2018-04-05 Arsenal-CSKA Moscow,UEL,17-18,e8c6f36c
+04f2ed4d,Sergei Ignashevich,4,RUS,CB,38-265,90,0,0,0,0,0,0,0,0,42,1,4,1,0.0,0.0,0.0,0,0,30,34,88.2,2,16,0,0,0,CSKA Moscow,2018-04-05 Arsenal-CSKA Moscow,UEL,17-18,e8c6f36c
+a49fd565,Vasili Berezutski,6,RUS,CB,35-289,90,0,0,0,0,2,1,0,0,62,1,4,3,0.1,0.1,0.0,1,0,43,48,89.6,2,25,1,0,0,CSKA Moscow,2018-04-05 Arsenal-CSKA Moscow,UEL,17-18,e8c6f36c
+42ec696a,Igor Akinfeev,35,RUS,GK,31-362,90,0,0,0,0,0,0,1,0,35,0,0,0,0.0,0.0,0.0,0,0,20,31,64.5,0,17,0,0,0,CSKA Moscow,2018-04-05 Arsenal-CSKA Moscow,UEL,17-18,e8c6f36c

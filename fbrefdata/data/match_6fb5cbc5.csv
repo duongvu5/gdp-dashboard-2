@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+923f4dda,Serhou Guirassy,9,GUI,FW,25-058,89,1,0,0,0,3,2,0,0,42,0,1,0,0.2,0.2,0.1,3,0,19,30,63.3,1,26,5,1,0,Rennes,2021-05-09 Rennes-Paris S-G,FRA-L1,20-21,6fb5cbc5
+0be95d34,Romain Del Castillo,22,FRA,FW,25-041,1,0,0,0,0,0,0,1,0,2,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,1,0,0,0,Rennes,2021-05-09 Rennes-Paris S-G,FRA-L1,20-21,6fb5cbc5
+5148dcc5,Martin Terrier,7,FRA,FW,24-066,78,0,0,0,0,0,0,0,0,20,0,1,1,0.0,0.0,0.1,1,0,15,17,88.2,2,7,0,0,0,Rennes,2021-05-09 Rennes-Paris S-G,FRA-L1,20-21,6fb5cbc5
+9b5237b1,Andy Diouf,32,FRA,FW,17-357,12,0,0,0,0,0,0,1,0,1,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,1,1,0,0,Rennes,2021-05-09 Rennes-Paris S-G,FRA-L1,20-21,6fb5cbc5
+fffea3e5,Jeremy Doku,18,BEL,LM,18-347,90,0,0,0,0,5,2,0,0,44,2,1,0,0.2,0.2,0.1,5,0,17,26,65.4,3,34,8,11,7,Rennes,2021-05-09 Rennes-Paris S-G,FRA-L1,20-21,6fb5cbc5
+a0f9b535,Flavien Tait,20,FRA,CM,28-096,90,0,0,0,0,4,3,1,0,64,1,1,2,0.2,0.2,0.1,9,0,51,54,94.4,10,46,2,3,3,Rennes,2021-05-09 Rennes-Paris S-G,FRA-L1,20-21,6fb5cbc5
+1df4a109,Lesley Ugochukwu,33,FRA,CM,17-044,60,0,0,0,0,1,0,0,0,33,3,0,1,0.1,0.1,0.0,0,0,25,27,92.6,0,13,0,1,1,Rennes,2021-05-09 Rennes-Paris S-G,FRA-L1,20-21,6fb5cbc5
+8b298f56,Clément Grenier,8,FRA,CM,30-122,30,0,0,0,0,0,0,0,0,19,1,1,0,0.0,0.0,0.0,3,1,12,17,70.6,2,4,0,0,0,Rennes,2021-05-09 Rennes-Paris S-G,FRA-L1,20-21,6fb5cbc5
+20e73fac,Benjamin Bourigeaud,14,FRA,RM,27-115,90,0,1,0,0,1,1,0,0,61,3,1,1,0.0,0.0,0.2,6,1,38,52,73.1,1,26,0,1,1,Rennes,2021-05-09 Rennes-Paris S-G,FRA-L1,20-21,6fb5cbc5
+e54a9890,Faitout Maouassa,17,FRA,LB,22-307,77,0,0,0,0,3,0,0,0,58,0,0,1,0.1,0.1,0.0,2,0,41,48,85.4,5,27,3,3,3,Rennes,2021-05-09 Rennes-Paris S-G,FRA-L1,20-21,6fb5cbc5
+f45f9427,Dalbert Henrique,5,BRA,LB,27-243,13,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,2,0,8,9,88.9,1,4,1,0,0,Rennes,2021-05-09 Rennes-Paris S-G,FRA-L1,20-21,6fb5cbc5
+288e1e13,Nayef Aguerd,6,MAR,CB,25-040,90,0,0,0,0,1,1,1,0,52,1,1,0,0.1,0.1,0.0,0,0,37,43,86.0,1,27,0,0,0,Rennes,2021-05-09 Rennes-Paris S-G,FRA-L1,20-21,6fb5cbc5
+1ec7e1c5,Damien Da Silva,3,FRA,CB,32-357,90,0,0,0,0,1,1,0,0,43,0,2,0,0.0,0.0,0.0,0,0,29,33,87.9,2,20,0,0,0,Rennes,2021-05-09 Rennes-Paris S-G,FRA-L1,20-21,6fb5cbc5
+a4b1028a,Hamari Traoré,27,MLI,RB,29-102,89,0,0,0,0,0,0,0,0,65,2,1,0,0.0,0.0,0.1,3,0,43,58,74.1,6,25,1,4,4,Rennes,2021-05-09 Rennes-Paris S-G,FRA-L1,20-21,6fb5cbc5
+28f66c2e,Brandon Soppy,34,FRA,RB,19-077,1,0,0,0,0,0,0,0,0,2,1,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,0,0,0,0,Rennes,2021-05-09 Rennes-Paris S-G,FRA-L1,20-21,6fb5cbc5
+cecbce23,Alfred Gomis,16,SEN,GK,27-246,90,0,0,0,0,0,0,0,0,41,0,0,0,0.0,0.0,0.0,0,0,28,37,75.7,0,21,0,0,0,Rennes,2021-05-09 Rennes-Paris S-G,FRA-L1,20-21,6fb5cbc5
+3d50bcdb,Moise Kean,18,ITA,FW,21-070,90,0,0,0,0,2,0,0,0,24,1,1,0,0.2,0.2,0.0,2,0,11,15,73.3,0,11,2,0,0,Paris Saint-Germain,2021-05-09 Rennes-Paris S-G,FRA-L1,20-21,6fb5cbc5
+1a992676,Julian Draxler,23,GER,"LW,RM",27-231,79,0,0,0,0,1,0,0,0,45,1,0,1,0.1,0.1,0.0,1,0,34,40,85.0,7,39,4,3,2,Paris Saint-Germain,2021-05-09 Rennes-Paris S-G,FRA-L1,20-21,6fb5cbc5
+43b78598,Mauro Icardi,9,ARG,RM,28-079,11,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Paris Saint-Germain,2021-05-09 Rennes-Paris S-G,FRA-L1,20-21,6fb5cbc5
+19cda00b,Ángel Di María,11,ARG,RW,33-084,68,0,0,0,0,2,1,0,0,40,1,0,0,0.1,0.1,0.3,8,1,29,35,82.9,5,30,4,4,3,Paris Saint-Germain,2021-05-09 Rennes-Paris S-G,FRA-L1,20-21,6fb5cbc5
+0c2ac3cb,Rafinha,12,BRA,RW,28-086,22,0,0,0,0,0,0,0,0,26,0,0,0,0.0,0.0,0.0,0,0,22,25,88.0,1,20,0,0,0,Paris Saint-Germain,2021-05-09 Rennes-Paris S-G,FRA-L1,20-21,6fb5cbc5
+69384e5d,Neymar,10,BRA,"AM,LW",29-093,90,1,0,1,1,3,1,0,0,79,0,1,2,1.0,0.2,0.2,4,0,43,57,75.4,7,60,9,8,4,Paris Saint-Germain,2021-05-09 Rennes-Paris S-G,FRA-L1,20-21,6fb5cbc5
+8fd9996f,Danilo Pereira,15,POR,"DM,CM",29-242,90,0,0,0,0,0,0,0,0,62,2,3,2,0.0,0.0,0.0,1,0,49,53,92.5,6,41,0,0,0,Paris Saint-Germain,2021-05-09 Rennes-Paris S-G,FRA-L1,20-21,6fb5cbc5
+436a9dd0,Ander Herrera,21,ESP,DM,31-268,69,0,0,0,0,2,1,1,0,63,2,2,1,0.2,0.2,0.0,2,0,47,52,90.4,9,44,0,0,0,Paris Saint-Germain,2021-05-09 Rennes-Paris S-G,FRA-L1,20-21,6fb5cbc5
+72c812f3,Idrissa Gana Gueye,27,SEN,LM,31-225,21,0,0,0,0,0,0,0,0,18,0,0,0,0.0,0.0,0.0,1,0,17,18,94.4,1,16,2,1,1,Paris Saint-Germain,2021-05-09 Rennes-Paris S-G,FRA-L1,20-21,6fb5cbc5
+41e7ef1c,Layvin Kurzawa,20,FRA,LB,28-247,54,0,0,0,0,0,0,0,0,52,1,3,1,0.0,0.0,0.0,1,1,34,43,79.1,4,34,4,1,1,Paris Saint-Germain,2021-05-09 Rennes-Paris S-G,FRA-L1,20-21,6fb5cbc5
+fc62f087,Abdou Diallo,22,SEN,LB,25-005,36,0,0,0,0,0,0,0,0,28,1,1,0,0.0,0.0,0.0,0,0,21,23,91.3,0,15,2,2,2,Paris Saint-Germain,2021-05-09 Rennes-Paris S-G,FRA-L1,20-21,6fb5cbc5
+aef6e670,Presnel Kimpembe,3,FRA,CB,25-269,86,0,0,0,0,0,0,0,1,72,1,1,0,0.0,0.0,0.0,0,0,65,65,100.0,6,55,0,0,0,Paris Saint-Germain,2021-05-09 Rennes-Paris S-G,FRA-L1,20-21,6fb5cbc5
+d5f2f82b,Marquinhos,5,BRA,CB,26-360,90,0,0,0,0,1,0,0,0,98,2,1,0,0.1,0.1,0.0,1,0,77,87,88.5,7,71,0,0,0,Paris Saint-Germain,2021-05-09 Rennes-Paris S-G,FRA-L1,20-21,6fb5cbc5
+29c02c9f,Colin Dagba,31,FRA,RB,22-242,79,0,0,0,0,0,0,0,0,52,1,0,2,0.0,0.0,0.0,0,0,40,49,81.6,3,32,0,0,0,Paris Saint-Germain,2021-05-09 Rennes-Paris S-G,FRA-L1,20-21,6fb5cbc5
+e288d4b3,Alessandro Florenzi,24,ITA,RB,30-059,11,0,0,0,0,0,0,0,0,15,1,0,0,0.0,0.0,0.0,0,0,11,14,78.6,0,12,0,0,0,Paris Saint-Germain,2021-05-09 Rennes-Paris S-G,FRA-L1,20-21,6fb5cbc5
+ecada4fc,Keylor Navas,1,CRC,GK,34-145,90,0,0,0,0,0,0,0,0,37,0,0,0,0.0,0.0,0.0,0,0,32,34,94.1,0,22,0,0,0,Paris Saint-Germain,2021-05-09 Rennes-Paris S-G,FRA-L1,20-21,6fb5cbc5

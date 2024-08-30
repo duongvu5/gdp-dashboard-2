@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+8f696594,Memphis,10,NED,"FW,RW",26-290,70,0,1,0,0,1,0,0,0,48,0,0,0,0.0,0.0,0.8,3,1,28,36,77.8,6,35,3,5,0,Lyon,2020-11-29 Lyon-Reims,FRA-L1,20-21,4301f4b9
+b34c63a5,Rayan Cherki,18,FRA,RW,17-104,20,0,0,0,0,2,1,0,0,16,0,1,0,0.1,0.1,0.1,1,0,7,10,70.0,1,12,3,2,1,Lyon,2020-11-29 Lyon-Reims,FRA-L1,20-21,4301f4b9
+5ceba7fc,Karl Toko Ekambi,7,CMR,LW,28-076,90,1,2,0,0,3,1,0,0,42,0,0,0,0.8,0.8,0.4,3,2,27,33,81.8,3,32,3,3,1,Lyon,2020-11-29 Lyon-Reims,FRA-L1,20-21,4301f4b9
+7d08063d,Tino Kadewere,11,ZIM,RW,24-329,60,0,0,0,0,1,0,0,0,26,1,0,0,0.1,0.1,0.0,1,1,15,20,75.0,1,19,1,4,3,Lyon,2020-11-29 Lyon-Reims,FRA-L1,20-21,4301f4b9
+e7986081,Moussa Dembélé,9,FRA,FW,24-140,30,1,0,0,0,2,1,1,0,12,0,0,0,0.4,0.4,0.0,1,0,3,7,42.9,1,5,0,0,0,Lyon,2020-11-29 Lyon-Reims,FRA-L1,20-21,4301f4b9
+9b6f7fd5,Lucas Paquetá,12,BRA,LM,23-094,90,0,0,0,0,3,0,0,0,90,5,0,0,0.2,0.2,0.0,4,1,67,76,88.2,12,64,0,2,0,Lyon,2020-11-29 Lyon-Reims,FRA-L1,20-21,4301f4b9
+c6e5d20f,Thiago Mendes,23,BRA,CM,28-259,90,0,0,0,0,1,0,0,0,75,3,2,0,0.0,0.0,0.0,1,0,60,67,89.6,6,53,2,2,1,Lyon,2020-11-29 Lyon-Reims,FRA-L1,20-21,4301f4b9
+82518f62,Bruno Guimarães,39,BRA,RM,23-013,81,1,0,0,0,1,1,0,0,86,4,1,1,0.0,0.0,0.0,2,0,63,75,84.0,9,65,4,2,1,Lyon,2020-11-29 Lyon-Reims,FRA-L1,20-21,4301f4b9
+f81ef10d,Maxence Caqueret,25,FRA,RM,20-288,9,0,0,0,0,0,0,0,0,11,1,1,2,0.0,0.0,0.0,1,0,7,7,100.0,0,4,0,1,1,Lyon,2020-11-29 Lyon-Reims,FRA-L1,20-21,4301f4b9
+beb391dd,Maxwel Cornet,27,CIV,LB,24-063,71,0,0,0,0,1,0,1,0,58,2,1,0,0.0,0.0,0.1,2,1,47,51,92.2,3,40,2,1,0,Lyon,2020-11-29 Lyon-Reims,FRA-L1,20-21,4301f4b9
+ae4e2852,Mattia De Sciglio,22,ITA,LB,28-040,19,0,0,0,0,0,0,0,0,23,0,0,0,0.0,0.0,0.0,1,0,15,18,83.3,2,13,2,0,0,Lyon,2020-11-29 Lyon-Reims,FRA-L1,20-21,4301f4b9
+47af88b8,Jason Denayer,5,BEL,CB,25-154,90,0,0,0,0,0,0,0,0,91,1,1,2,0.0,0.0,0.0,0,0,82,85,96.5,4,75,0,0,0,Lyon,2020-11-29 Lyon-Reims,FRA-L1,20-21,4301f4b9
+e3d0b0c4,Marcelo,6,BRA,CB,33-193,70,0,0,0,0,0,0,0,0,72,0,0,0,0.0,0.0,0.0,1,0,65,70,92.9,3,61,1,0,0,Lyon,2020-11-29 Lyon-Reims,FRA-L1,20-21,4301f4b9
+6de23ab0,Sinaly Diomande,2,CIV,CB,19-234,20,0,0,0,0,0,0,0,0,14,0,1,0,0.0,0.0,0.0,0,0,13,13,100.0,0,12,0,0,0,Lyon,2020-11-29 Lyon-Reims,FRA-L1,20-21,4301f4b9
+ff0ab48c,Leo Dubois,14,FRA,RB,26-076,90,0,0,0,0,0,0,0,0,81,0,1,1,0.0,0.0,0.1,3,0,73,78,93.6,3,50,2,0,0,Lyon,2020-11-29 Lyon-Reims,FRA-L1,20-21,4301f4b9
+f00de885,Anthony Lopes,1,POR,GK,30-059,90,0,0,0,0,0,0,0,0,23,0,0,0,0.0,0.0,0.0,0,0,20,21,95.2,0,11,0,0,0,Lyon,2020-11-29 Lyon-Reims,FRA-L1,20-21,4301f4b9
+47c609d5,El Bilal Touré,27,MLI,FW,19-057,71,0,0,0,0,1,0,1,0,23,1,1,1,0.1,0.1,0.0,1,0,12,14,85.7,2,9,0,1,0,Reims,2020-11-29 Lyon-Reims,FRA-L1,20-21,4301f4b9
+9c2b1f11,Kaj Sierhuis,9,NED,FW,22-216,19,0,0,0,0,1,0,0,0,13,0,0,0,0.0,0.0,0.0,0,0,5,9,55.6,1,8,1,3,3,Reims,2020-11-29 Lyon-Reims,FRA-L1,20-21,4301f4b9
+244bc2c8,Boulaye Dia,11,SEN,"FW,RM",24-013,54,0,0,0,0,1,1,0,0,17,1,0,1,0.1,0.1,0.0,5,0,8,10,80.0,2,9,3,3,3,Reims,2020-11-29 Lyon-Reims,FRA-L1,20-21,4301f4b9
+46750e9c,Nathanael Mbuku,21,FRA,RM,18-258,36,0,0,0,0,0,0,0,0,8,1,0,0,0.0,0.0,0.0,0,0,5,5,100.0,1,7,2,1,1,Reims,2020-11-29 Lyon-Reims,FRA-L1,20-21,4301f4b9
+6481421d,Moussa Doumbia,25,MLI,LM,26-106,54,0,0,0,0,1,0,0,0,21,0,0,0,0.0,0.0,0.0,1,0,15,16,93.8,4,17,3,0,0,Reims,2020-11-29 Lyon-Reims,FRA-L1,20-21,4301f4b9
+095e4199,Arber Zeneli,10,KVX,LM,25-278,36,0,0,0,0,1,1,0,0,30,0,0,0,0.0,0.0,0.0,0,0,16,23,69.6,1,17,3,2,0,Reims,2020-11-29 Lyon-Reims,FRA-L1,20-21,4301f4b9
+f54d2149,Moreto Cassamã,23,GNB,CM,22-287,31,0,0,0,0,0,0,0,1,24,0,0,0,0.0,0.0,0.1,1,0,20,21,95.2,1,17,0,0,0,Reims,2020-11-29 Lyon-Reims,FRA-L1,20-21,4301f4b9
+2acf0cd7,Marshall Munetsi,15,ZIM,CM,24-160,90,0,0,0,0,0,0,0,0,52,2,2,1,0.0,0.0,0.0,3,0,41,45,91.1,3,29,1,2,1,Reims,2020-11-29 Lyon-Reims,FRA-L1,20-21,4301f4b9
+2a657da0,Mathieu Cafaro,24,FRA,"CM,RM",23-249,71,0,0,0,0,3,0,0,0,43,2,2,0,0.2,0.2,0.1,1,0,19,33,57.6,1,22,2,2,1,Reims,2020-11-29 Lyon-Reims,FRA-L1,20-21,4301f4b9
+309937e7,Mouhamadou Drammeh,34,FRA,CM,21-198,19,0,0,0,0,0,0,0,0,7,0,1,0,0.0,0.0,0.0,1,0,6,7,85.7,3,5,2,0,0,Reims,2020-11-29 Lyon-Reims,FRA-L1,20-21,4301f4b9
+6b2c894b,Ghislain Konan,3,CIV,LB,24-338,90,0,0,0,0,1,0,0,0,55,5,2,1,0.0,0.0,0.0,0,0,38,44,86.4,5,21,3,1,0,Reims,2020-11-29 Lyon-Reims,FRA-L1,20-21,4301f4b9
+32c2d95f,Yunis Abdelhamid,5,MAR,CB,33-062,90,0,0,0,0,0,0,0,0,43,3,3,1,0.0,0.0,0.0,0,0,31,34,91.2,0,24,0,2,0,Reims,2020-11-29 Lyon-Reims,FRA-L1,20-21,4301f4b9
+9c221d14,Wout Faes,2,BEL,CB,22-240,90,0,0,0,0,0,0,0,0,50,1,0,2,0.0,0.0,0.0,0,0,32,42,76.2,2,22,0,0,0,Reims,2020-11-29 Lyon-Reims,FRA-L1,20-21,4301f4b9
+90eb507d,Thomas Foket,32,BEL,RB,26-065,90,0,0,0,0,0,0,0,0,51,7,1,1,0.0,0.0,0.0,1,0,31,38,81.6,6,22,2,0,0,Reims,2020-11-29 Lyon-Reims,FRA-L1,20-21,4301f4b9
+58ad9383,Predrag Rajković,1,SRB,GK,25-029,90,0,0,0,0,0,0,0,0,41,1,0,1,0.0,0.0,0.0,0,0,22,36,61.1,0,14,0,0,0,Reims,2020-11-29 Lyon-Reims,FRA-L1,20-21,4301f4b9

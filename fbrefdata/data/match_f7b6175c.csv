@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+2054d037,M'Baye Niang,11,SEN,FW,25-051,90,0,0,0,0,3,1,0,0,28,3,0,0,0.3,0.3,0.0,1,0,8,13,61.5,0,13,1,1,0,Rennes,2020-02-08 Rennes-Brest,FRA-L1,19-20,f7b6175c
+0be95d34,Romain Del Castillo,22,FRA,"FW,RM",23-316,90,0,0,0,0,1,1,0,0,49,1,3,0,0.1,0.1,0.1,3,0,27,39,69.2,4,36,6,4,3,Rennes,2020-02-08 Rennes-Brest,FRA-L1,19-20,f7b6175c
+a0f9b535,Flavien Tait,20,FRA,LM,27-006,90,0,0,0,0,3,0,0,0,68,3,0,0,0.2,0.2,0.2,8,0,41,56,73.2,9,48,5,4,3,Rennes,2020-02-08 Rennes-Brest,FRA-L1,19-20,f7b6175c
+7cf431a5,James Lea Siliki,12,CMR,CM,23-241,64,0,0,0,0,2,0,1,0,41,3,0,3,0.1,0.1,0.0,4,0,23,28,82.1,4,29,1,1,0,Rennes,2020-02-08 Rennes-Brest,FRA-L1,19-20,f7b6175c
+c7526c18,Steven Nzonzi,25,FRA,CM,31-055,26,0,0,0,0,1,0,0,0,24,0,0,0,0.0,0.0,0.0,0,0,19,22,86.4,3,20,1,0,0,Rennes,2020-02-08 Rennes-Brest,FRA-L1,19-20,f7b6175c
+20e73fac,Benjamin Bourigeaud,14,FRA,CM,26-025,90,0,0,0,0,2,0,0,0,69,0,2,1,0.1,0.1,0.2,3,0,48,60,80.0,5,42,1,1,1,Rennes,2020-02-08 Rennes-Brest,FRA-L1,19-20,f7b6175c
+007faf7a,Lucas Da Cunha,32,FRA,RM,18-244,64,0,0,0,0,2,0,0,0,28,1,0,0,0.1,0.1,0.1,4,0,19,22,86.4,3,20,0,1,1,Rennes,2020-02-08 Rennes-Brest,FRA-L1,19-20,f7b6175c
+6be41a31,Yann Gboho,34,FRA,FW,19-025,26,0,0,0,0,0,0,0,0,12,1,1,0,0.0,0.0,0.0,0,0,4,7,57.1,0,8,0,2,1,Rennes,2020-02-08 Rennes-Brest,FRA-L1,19-20,f7b6175c
+e54a9890,Faitout Maouassa,17,FRA,LB,21-217,90,0,0,0,0,1,0,0,0,76,2,0,0,0.0,0.0,0.0,2,0,53,67,79.1,2,57,10,3,2,Rennes,2020-02-08 Rennes-Brest,FRA-L1,19-20,f7b6175c
+e97150c0,Jérémy Morel,15,MAD,CB,35-312,78,0,0,0,0,1,0,1,0,78,1,2,0,0.0,0.0,0.0,2,0,57,67,85.1,3,59,4,1,1,Rennes,2020-02-08 Rennes-Brest,FRA-L1,19-20,f7b6175c
+4c700f46,Jérémy Gélin,26,FRA,CB,22-290,12,0,0,0,0,0,0,0,0,22,1,0,0,0.0,0.0,0.0,1,0,20,20,100.0,4,16,0,0,0,Rennes,2020-02-08 Rennes-Brest,FRA-L1,19-20,f7b6175c
+1ec7e1c5,Damien Da Silva,3,FRA,CB,31-267,90,0,0,0,0,0,0,0,0,103,0,4,0,0.0,0.0,0.1,1,0,79,90,87.8,6,72,4,1,0,Rennes,2020-02-08 Rennes-Brest,FRA-L1,19-20,f7b6175c
+a4b1028a,Hamari Traoré,27,MLI,RB,28-012,90,0,0,0,0,1,0,0,0,88,2,4,0,0.0,0.0,0.1,5,0,68,80,85.0,4,58,3,0,0,Rennes,2020-02-08 Rennes-Brest,FRA-L1,19-20,f7b6175c
+33887998,Edouard Mendy,16,SEN,GK,27-344,90,0,0,0,0,0,0,0,0,37,0,0,0,0.0,0.0,0.0,0,0,30,36,83.3,0,22,0,0,0,Rennes,2020-02-08 Rennes-Brest,FRA-L1,19-20,f7b6175c
+18ebca4b,Gaëtan Charbonnier,10,FRA,FW,31-043,90,0,0,0,0,2,0,1,0,51,1,0,3,0.1,0.1,0.1,3,0,26,39,66.7,4,25,2,2,2,Brest,2020-02-08 Rennes-Brest,FRA-L1,19-20,f7b6175c
+26e4447b,Yoann Court,8,FRA,"LW,RW",30-025,63,0,0,0,0,2,2,1,0,27,2,1,3,0.1,0.1,0.0,1,0,9,15,60.0,2,15,2,2,2,Brest,2020-02-08 Rennes-Brest,FRA-L1,19-20,f7b6175c
+7dfbba27,Mathias Autret,23,FRA,LW,28-344,27,0,0,0,0,0,0,1,0,21,1,0,0,0.0,0.0,0.0,0,0,11,16,68.8,1,11,0,1,0,Brest,2020-02-08 Rennes-Brest,FRA-L1,19-20,f7b6175c
+542cc80f,Paul Lasne,13,FRA,"RW,LW",31-023,90,0,0,0,0,0,0,1,0,47,2,2,0,0.0,0.0,0.1,1,0,27,38,71.1,1,29,2,0,0,Brest,2020-02-08 Rennes-Brest,FRA-L1,19-20,f7b6175c
+5e080f73,Irvin Cardona,14,FRA,AM,22-184,90,0,0,0,0,4,1,0,0,33,2,0,2,0.3,0.3,0.0,2,0,10,18,55.6,1,18,4,3,2,Brest,2020-02-08 Rennes-Brest,FRA-L1,19-20,f7b6175c
+2b1bed19,Haris Belkebla,7,ALG,DM,26-011,90,0,0,0,0,0,0,0,0,44,1,6,0,0.0,0.0,0.0,0,0,29,35,82.9,2,27,0,3,2,Brest,2020-02-08 Rennes-Brest,FRA-L1,19-20,f7b6175c
+0f9b8301,Cristian Battocchio,11,ITA,DM,27-363,74,0,0,0,0,0,0,0,0,41,2,2,2,0.0,0.0,0.1,3,0,26,31,83.9,3,15,0,0,0,Brest,2020-02-08 Rennes-Brest,FRA-L1,19-20,f7b6175c
+d4d35152,Hugo Magnetti,27,FRA,DM,21-254,16,0,0,0,0,0,0,0,0,19,0,0,1,0.0,0.0,0.0,0,0,16,17,94.1,2,11,0,0,0,Brest,2020-02-08 Rennes-Brest,FRA-L1,19-20,f7b6175c
+6dfd8f05,Romain Perraud,18,FRA,LB,22-139,90,0,0,0,0,0,0,0,0,73,1,1,2,0.0,0.0,0.1,1,0,49,58,84.5,4,36,3,2,1,Brest,2020-02-08 Rennes-Brest,FRA-L1,19-20,f7b6175c
+0cbc8baa,Jean-Kevin Duverne,2,HAI,CB,22-211,90,0,0,0,0,0,0,0,0,58,0,1,2,0.0,0.0,0.0,0,0,43,51,84.3,3,43,1,1,1,Brest,2020-02-08 Rennes-Brest,FRA-L1,19-20,f7b6175c
+16aa7d4c,Brendan Chardonnet,5,FRA,CB,25-048,90,0,0,0,0,0,0,0,0,51,1,2,2,0.0,0.0,0.0,0,0,36,39,92.3,2,25,0,0,0,Brest,2020-02-08 Rennes-Brest,FRA-L1,19-20,f7b6175c
+3f1a7191,Gaëtan Belaud,20,FRA,RB,33-145,85,0,0,0,0,0,0,0,0,58,2,1,2,0.0,0.0,0.0,0,0,31,46,67.4,2,23,0,2,0,Brest,2020-02-08 Rennes-Brest,FRA-L1,19-20,f7b6175c
+d3ce9f1f,Ludovic Baal,24,GUF,RB,33-260,5,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,4,4,100.0,0,1,0,0,0,Brest,2020-02-08 Rennes-Brest,FRA-L1,19-20,f7b6175c
+b49729cb,Gautier Larsonneur,1,FRA,GK,22-350,90,0,0,0,0,0,0,0,0,36,0,0,0,0.0,0.0,0.0,1,0,20,36,55.6,0,20,0,0,0,Brest,2020-02-08 Rennes-Brest,FRA-L1,19-20,f7b6175c

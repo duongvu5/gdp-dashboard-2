@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+0b4f388a,Breel Embolo,36,SUI,FW,23-302,90,1,0,0,0,3,1,0,0,35,0,0,2,0.9,0.9,0.1,5,0,17,22,77.3,3,27,4,5,3,Mönchengladbach,2020-12-12 Gladbach-Hertha BSC,GER-BL1,20-21,df729cb3
+096a77c4,Ibrahima Traoré,16,GUI,LW,32-235,64,0,0,0,0,0,0,0,0,23,1,0,1,0.0,0.0,0.0,0,0,12,18,66.7,1,15,1,0,0,Mönchengladbach,2020-12-12 Gladbach-Hertha BSC,GER-BL1,20-21,df729cb3
+6f8cd6d0,Marcus Thuram,10,FRA,LW,23-128,26,0,0,0,0,2,0,0,0,21,0,2,0,0.1,0.1,0.0,1,0,11,14,78.6,2,15,3,1,1,Mönchengladbach,2020-12-12 Gladbach-Hertha BSC,GER-BL1,20-21,df729cb3
+dfb6490a,Patrick Herrmann,7,GER,RW,29-304,63,0,0,0,0,2,1,0,0,35,0,1,1,0.4,0.4,0.2,3,0,18,31,58.1,3,15,2,0,0,Mönchengladbach,2020-12-12 Gladbach-Hertha BSC,GER-BL1,20-21,df729cb3
+bc6bd723,Alassane Pléa,14,FRA,RW,27-277,27,0,0,0,0,0,0,0,0,16,0,0,0,0.0,0.0,0.0,5,0,13,15,86.7,5,15,3,0,0,Mönchengladbach,2020-12-12 Gladbach-Hertha BSC,GER-BL1,20-21,df729cb3
+be42a291,Hannes Wolf,11,AUT,AM,21-240,84,0,0,0,0,2,1,0,0,38,2,0,0,0.1,0.1,0.0,2,0,22,34,64.7,3,23,0,0,0,Mönchengladbach,2020-12-12 Gladbach-Hertha BSC,GER-BL1,20-21,df729cb3
+7cd6badb,Lars Stindl,13,GER,AM,32-108,6,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,3,4,75.0,0,4,0,0,0,Mönchengladbach,2020-12-12 Gladbach-Hertha BSC,GER-BL1,20-21,df729cb3
+36a59ba4,Florian Neuhaus,32,GER,DM,23-271,84,0,0,0,0,2,0,1,0,59,2,0,1,0.1,0.1,0.0,3,1,39,52,75.0,6,47,2,1,0,Mönchengladbach,2020-12-12 Gladbach-Hertha BSC,GER-BL1,20-21,df729cb3
+fe888e39,László Bénes,22,SVK,DM,23-094,6,0,0,0,0,1,0,0,0,11,0,0,0,0.0,0.0,0.0,0,0,6,10,60.0,1,8,0,0,0,Mönchengladbach,2020-12-12 Gladbach-Hertha BSC,GER-BL1,20-21,df729cb3
+384d58d9,Denis Zakaria,8,SUI,DM,24-022,90,0,0,0,0,1,0,0,0,52,4,1,0,0.0,0.0,0.0,0,0,31,39,79.5,8,35,6,3,1,Mönchengladbach,2020-12-12 Gladbach-Hertha BSC,GER-BL1,20-21,df729cb3
+b69261a0,Oscar Wendt,17,SWE,LB,35-049,64,0,0,0,0,0,0,1,0,37,0,3,0,0.0,0.0,0.0,1,0,25,33,75.8,4,21,0,0,0,Mönchengladbach,2020-12-12 Gladbach-Hertha BSC,GER-BL1,20-21,df729cb3
+4aea5077,Stefan Lainer,18,AUT,"RB,LB",28-107,26,0,0,0,0,1,0,0,0,20,0,0,0,0.0,0.0,0.1,2,0,13,18,72.2,2,11,1,1,1,Mönchengladbach,2020-12-12 Gladbach-Hertha BSC,GER-BL1,20-21,df729cb3
+48035304,Nico Elvedi,30,SUI,CB,24-073,90,0,0,0,0,0,0,0,0,63,2,2,1,0.0,0.0,0.0,1,0,53,56,94.6,3,46,0,0,0,Mönchengladbach,2020-12-12 Gladbach-Hertha BSC,GER-BL1,20-21,df729cb3
+f521b80a,Matthias Ginter,28,GER,CB,26-328,90,0,1,0,0,2,0,0,0,65,0,2,0,0.1,0.1,1.0,3,1,46,58,79.3,7,48,0,0,0,Mönchengladbach,2020-12-12 Gladbach-Hertha BSC,GER-BL1,20-21,df729cb3
+016ff750,Valentino Lazaro,19,AUT,"RB,LB",24-263,90,0,0,0,0,0,0,1,0,74,1,3,3,0.0,0.0,0.0,4,0,46,62,74.2,4,42,2,4,4,Mönchengladbach,2020-12-12 Gladbach-Hertha BSC,GER-BL1,20-21,df729cb3
+0d8a37c2,Tobias Sippel,21,GER,GK,32-265,90,0,0,0,0,0,0,0,0,31,0,0,0,0.0,0.0,0.0,0,0,21,26,80.8,0,15,0,0,0,Mönchengladbach,2020-12-12 Gladbach-Hertha BSC,GER-BL1,20-21,df729cb3
+17f3620a,Krzysztof Piątek,9,POL,FW,25-164,84,0,0,0,0,1,0,0,0,25,1,1,0,0.1,0.1,0.0,0,0,13,18,72.2,1,11,2,0,0,Hertha BSC,2020-12-12 Gladbach-Hertha BSC,GER-BL1,20-21,df729cb3
+16b4260e,Daishawn Redan,33,NED,FW,19-314,6,0,0,0,0,1,0,0,0,3,0,0,0,0.1,0.1,0.0,0,0,2,2,100.0,0,0,0,0,0,Hertha BSC,2020-12-12 Gladbach-Hertha BSC,GER-BL1,20-21,df729cb3
+34a0f5ff,Javairô Dilrosun,16,NED,LW,22-173,74,0,0,0,0,0,0,0,0,27,2,1,1,0.0,0.0,0.1,2,0,13,17,76.5,2,16,0,0,0,Hertha BSC,2020-12-12 Gladbach-Hertha BSC,GER-BL1,20-21,df729cb3
+bc249af8,Jessic Ngankam,27,GER,LW,20-145,16,0,0,0,0,0,0,0,0,8,1,0,1,0.0,0.0,0.0,0,0,2,5,40.0,0,4,1,1,1,Hertha BSC,2020-12-12 Gladbach-Hertha BSC,GER-BL1,20-21,df729cb3
+0c61c77c,Dodi Lukebakio,11,BEL,RW,23-079,74,0,0,0,0,2,1,0,0,29,2,1,0,0.1,0.1,0.0,0,0,11,18,61.1,0,19,0,2,0,Hertha BSC,2020-12-12 Gladbach-Hertha BSC,GER-BL1,20-21,df729cb3
+b93b7882,Mathew Leckie,7,AUS,RW,29-312,16,0,0,0,0,0,0,0,0,8,0,0,1,0.0,0.0,0.0,0,0,2,5,40.0,0,4,0,0,0,Hertha BSC,2020-12-12 Gladbach-Hertha BSC,GER-BL1,20-21,df729cb3
+3eb0f2df,Vladimír Darida,6,CZE,AM,30-126,74,0,1,0,0,1,0,0,0,45,1,0,2,0.1,0.1,0.1,2,1,26,40,65.0,2,22,2,0,0,Hertha BSC,2020-12-12 Gladbach-Hertha BSC,GER-BL1,20-21,df729cb3
+71ec39ef,Lucas Tousart,29,FRA,AM,23-227,16,0,0,0,0,0,0,0,0,10,0,0,1,0.0,0.0,0.0,0,0,5,8,62.5,1,5,0,0,0,Hertha BSC,2020-12-12 Gladbach-Hertha BSC,GER-BL1,20-21,df729cb3
+5ea8ef20,Mattéo Guendouzi,8,FRA,DM,21-242,90,1,0,0,0,1,1,1,0,51,2,0,2,0.1,0.1,0.0,1,0,33,36,91.7,6,34,2,5,3,Hertha BSC,2020-12-12 Gladbach-Hertha BSC,GER-BL1,20-21,df729cb3
+aad48be9,Niklas Stark,5,GER,DM,25-242,90,0,0,0,0,0,0,0,0,33,2,1,4,0.0,0.0,0.0,0,0,14,20,70.0,1,12,0,0,0,Hertha BSC,2020-12-12 Gladbach-Hertha BSC,GER-BL1,20-21,df729cb3
+f7aa75bd,Marvin Plattenhardt,21,GER,LB,28-321,90,0,0,0,0,0,0,0,0,60,1,0,1,0.0,0.0,0.0,1,0,32,53,60.4,3,25,0,0,0,Hertha BSC,2020-12-12 Gladbach-Hertha BSC,GER-BL1,20-21,df729cb3
+f86cabbd,Jordan Torunarigha,25,GER,CB,23-127,90,0,0,0,0,0,0,0,0,57,1,2,2,0.0,0.0,0.0,0,0,36,44,81.8,3,41,0,1,0,Hertha BSC,2020-12-12 Gladbach-Hertha BSC,GER-BL1,20-21,df729cb3
+7c473e12,Dedryck Boyata,20,BEL,CB,30-014,90,0,0,0,0,0,0,0,0,67,2,1,3,0.0,0.0,0.0,0,0,46,52,88.5,4,46,1,0,0,Hertha BSC,2020-12-12 Gladbach-Hertha BSC,GER-BL1,20-21,df729cb3
+c18d22f5,Peter Pekarík,2,SVK,RB,34-043,90,0,0,0,0,1,1,1,0,60,2,2,0,0.0,0.0,0.1,5,0,37,49,75.5,5,33,3,1,1,Hertha BSC,2020-12-12 Gladbach-Hertha BSC,GER-BL1,20-21,df729cb3
+0d55d942,Alexander Schwolow,1,GER,GK,28-193,90,0,0,0,0,0,0,0,0,44,0,0,1,0.0,0.0,0.0,0,0,31,41,75.6,0,27,0,0,0,Hertha BSC,2020-12-12 Gladbach-Hertha BSC,GER-BL1,20-21,df729cb3

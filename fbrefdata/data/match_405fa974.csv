@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+42fd9c7f,Kylian Mbappé,7,FRA,FW,24-278,31,0,0,0,0,1,0,0,0,21,0,0,0,0.1,0.1,0.0,1,1,15,18,83.3,0,22,1,1,0,Paris Saint-Germain,2023-09-24 Paris S-G-Marseille,FRA-L1,23-24,405fa974
+f63cda26,Gonçalo Ramos,9,POR,"LM,FW",22-096,59,2,0,0,0,3,2,0,0,31,0,0,0,0.7,0.7,0.0,1,0,18,22,81.8,2,29,0,1,0,Paris Saint-Germain,2023-09-24 Paris S-G-Marseille,FRA-L1,23-24,405fa974
+c0b3669f,Randal Kolo Muani,23,FRA,"FW,RW",24-293,90,1,1,0,0,2,1,0,0,42,0,1,0,0.8,0.8,0.5,2,2,15,28,53.6,4,35,5,5,3,Paris Saint-Germain,2023-09-24 Paris S-G-Marseille,FRA-L1,23-24,405fa974
+a0d55a09,Bradley Barcola,29,FRA,"LM,WB",21-022,82,0,0,0,0,1,0,0,0,48,5,2,1,0.1,0.1,0.1,5,0,25,30,83.3,5,31,8,6,4,Paris Saint-Germain,2023-09-24 Paris S-G-Marseille,FRA-L1,23-24,405fa974
+fed17f5a,Carlos Soler,28,ESP,LW,26-265,8,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,2,0,0,0,Paris Saint-Germain,2023-09-24 Paris S-G-Marseille,FRA-L1,23-24,405fa974
+6b9960cf,Warren Zaïre-Emery,33,FRA,"CM,DM",17-200,90,0,0,0,0,2,0,0,0,81,4,2,1,0.1,0.1,0.1,2,0,66,70,94.3,8,63,4,2,1,Paris Saint-Germain,2023-09-24 Paris S-G-Marseille,FRA-L1,23-24,405fa974
+c9817014,Manuel Ugarte Ribeiro,4,URU,"CM,DM",22-166,90,0,0,0,0,0,0,0,0,73,8,5,1,0.0,0.0,0.0,0,0,53,57,93.0,10,53,0,1,0,Paris Saint-Germain,2023-09-24 Paris S-G-Marseille,FRA-L1,23-24,405fa974
+b19db005,Ousmane Dembélé,10,FRA,RM,26-132,68,0,1,0,0,1,1,0,0,86,1,1,0,0.0,0.0,0.4,9,2,64,80,80.0,7,75,18,3,2,Paris Saint-Germain,2023-09-24 Paris S-G-Marseille,FRA-L1,23-24,405fa974
+c0c7ff58,Fabián Ruiz Peña,8,ESP,AM,27-174,22,0,0,0,0,0,0,0,0,21,1,0,0,0.0,0.0,0.0,0,0,15,20,75.0,2,16,0,1,0,Paris Saint-Germain,2023-09-24 Paris S-G-Marseille,FRA-L1,23-24,405fa974
+c3ee18ef,Lucas Hernández,21,FRA,LB,27-222,68,0,0,0,0,0,0,0,0,95,1,2,0,0.0,0.0,0.0,0,0,77,90,85.6,10,75,1,1,1,Paris Saint-Germain,2023-09-24 Paris S-G-Marseille,FRA-L1,23-24,405fa974
+8fd9996f,Danilo Pereira,15,POR,CB,32-015,22,0,0,0,0,0,0,0,0,30,0,0,0,0.0,0.0,0.0,0,0,27,28,96.4,1,27,0,0,0,Paris Saint-Germain,2023-09-24 Paris S-G-Marseille,FRA-L1,23-24,405fa974
+30f5ffa9,Milan Škriniar,37,SVK,CB,28-225,90,0,0,0,0,1,0,0,0,145,0,0,1,0.1,0.1,0.0,0,0,137,141,97.2,3,133,0,0,0,Paris Saint-Germain,2023-09-24 Paris S-G-Marseille,FRA-L1,23-24,405fa974
+d5f2f82b,Marquinhos,5,BRA,"CB,LB",29-133,90,0,0,0,0,0,0,0,0,128,2,2,1,0.0,0.0,0.0,0,0,115,123,93.5,8,111,1,0,0,Paris Saint-Germain,2023-09-24 Paris S-G-Marseille,FRA-L1,23-24,405fa974
+e42d61c7,Achraf Hakimi,2,MAR,"RB,WB",24-324,82,1,0,0,0,4,1,0,0,109,0,0,2,0.2,0.2,0.0,7,2,87,97,89.7,21,96,4,3,1,Paris Saint-Germain,2023-09-24 Paris S-G-Marseille,FRA-L1,23-24,405fa974
+ac73ec79,Nordi Mukiele,26,FRA,RB,25-327,8,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,6,8,75.0,2,6,0,0,0,Paris Saint-Germain,2023-09-24 Paris S-G-Marseille,FRA-L1,23-24,405fa974
+08f5afaa,Gianluigi Donnarumma,99,ITA,GK,24-211,90,0,0,0,0,0,0,0,0,31,0,0,0,0.0,0.0,0.0,0,0,29,31,93.5,0,24,0,0,0,Paris Saint-Germain,2023-09-24 Paris S-G-Marseille,FRA-L1,23-24,405fa974
+d5dd5f1f,Pierre-Emerick Aubameyang,10,GAB,FW,34-098,74,0,0,0,0,1,0,0,0,24,0,2,0,0.0,0.0,0.0,0,0,13,17,76.5,0,14,1,0,0,Marseille,2023-09-24 Paris S-G-Marseille,FRA-L1,23-24,405fa974
+45b9b619,Joaquín Correa,20,ARG,FW,29-042,16,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,2,0,0,0,Marseille,2023-09-24 Paris S-G-Marseille,FRA-L1,23-24,405fa974
+74d4cec6,Vitinha,9,POR,FW,23-193,45,0,0,0,0,2,0,0,0,15,1,2,0,0.5,0.5,0.0,0,0,7,8,87.5,0,10,0,1,1,Marseille,2023-09-24 Paris S-G-Marseille,FRA-L1,23-24,405fa974
+5ed97752,Iliman Ndiaye,29,SEN,FW,23-202,45,0,0,0,0,0,0,0,0,19,0,0,1,0.0,0.0,0.0,1,0,9,11,81.8,1,10,1,1,0,Marseille,2023-09-24 Paris S-G-Marseille,FRA-L1,23-24,405fa974
+4a56052c,Jordan Veretout,27,FRA,CM,30-207,90,0,0,0,0,1,0,1,0,57,7,1,3,0.0,0.0,0.0,0,0,27,43,62.8,5,30,3,2,0,Marseille,2023-09-24 Paris S-G-Marseille,FRA-L1,23-24,405fa974
+83299cc0,Azzedine Ounahi,8,MAR,CM,23-158,45,0,0,0,0,0,0,0,0,20,1,0,0,0.0,0.0,0.0,1,0,9,13,69.2,1,15,0,2,1,Marseille,2023-09-24 Paris S-G-Marseille,FRA-L1,23-24,405fa974
+e7d59f4f,Amine Harit,11,MAR,CM,26-098,45,0,0,0,0,0,0,0,0,20,0,1,1,0.0,0.0,0.0,1,0,11,15,73.3,1,18,1,3,2,Marseille,2023-09-24 Paris S-G-Marseille,FRA-L1,23-24,405fa974
+ed45c4a5,Valentin Rongier,21,FRA,CM,28-291,90,0,0,0,0,0,0,0,0,33,1,0,1,0.0,0.0,0.0,0,0,16,25,64.0,1,20,0,0,0,Marseille,2023-09-24 Paris S-G-Marseille,FRA-L1,23-24,405fa974
+ed9f7cfe,Renan Lodi,12,BRA,WB,25-169,90,0,0,0,0,0,0,1,0,47,2,3,0,0.0,0.0,0.0,1,0,27,35,77.1,1,22,0,0,0,Marseille,2023-09-24 Paris S-G-Marseille,FRA-L1,23-24,405fa974
+5219ab4a,Jonathan Clauss,7,FRA,WB,30-364,83,0,0,0,0,0,0,0,0,40,2,0,0,0.0,0.0,0.5,2,0,14,27,51.9,1,23,1,2,1,Marseille,2023-09-24 Paris S-G-Marseille,FRA-L1,23-24,405fa974
+226673c2,Bilal Nadir,34,FRA,WB,19-300,7,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Marseille,2023-09-24 Paris S-G-Marseille,FRA-L1,23-24,405fa974
+7c3ed041,Leonardo Balerdi,5,ARG,CB,24-241,82,0,0,0,0,0,0,0,0,31,2,2,4,0.0,0.0,0.0,1,0,13,16,81.3,1,15,0,0,0,Marseille,2023-09-24 Paris S-G-Marseille,FRA-L1,23-24,405fa974
+04ac78d2,Bamo Meïté,18,CIV,CB,21-295,8,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Marseille,2023-09-24 Paris S-G-Marseille,FRA-L1,23-24,405fa974
+41eebdf5,Samuel Gigot,4,FRA,CB,29-347,90,0,0,0,0,0,0,1,0,27,3,1,2,0.0,0.0,0.1,1,0,7,12,58.3,1,10,0,0,0,Marseille,2023-09-24 Paris S-G-Marseille,FRA-L1,23-24,405fa974
+e76cb9cc,Chancel Mbemba,99,COD,CB,29-047,90,0,0,0,0,2,0,0,0,33,1,2,2,0.1,0.1,0.0,0,0,12,19,63.2,3,17,0,1,1,Marseille,2023-09-24 Paris S-G-Marseille,FRA-L1,23-24,405fa974
+20b9f052,Pau López,16,ESP,GK,28-285,90,0,0,0,0,0,0,0,0,26,0,0,0,0.0,0.0,0.0,1,0,11,24,45.8,0,15,0,0,0,Marseille,2023-09-24 Paris S-G-Marseille,FRA-L1,23-24,405fa974

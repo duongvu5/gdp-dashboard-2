@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+d3de9af0,Duván Zapata,91,COL,FW,27-350,90,0,1,0,0,4,1,0,0,37,0,0,0,0.3,0.3,1.4,6,1,18,22,81.8,3,26,1,2,1,Atalanta,2019-03-17 Atalanta-Chievo,ITA-SERIA_A,18-19,dabb32bf
+68252d6d,Josip Iličić,72,SVN,FW,31-047,76,1,0,0,0,3,2,0,0,63,1,0,0,0.4,0.4,0.1,3,0,37,50,74.0,6,43,2,3,2,Atalanta,2019-03-17 Atalanta-Chievo,ITA-SERIA_A,18-19,dabb32bf
+e599253a,Mario Pašalić,88,CRO,CM,24-036,14,0,0,0,0,0,0,0,0,18,1,0,0,0.0,0.0,0.0,0,0,13,16,81.3,0,9,0,0,0,Atalanta,2019-03-17 Atalanta-Chievo,ITA-SERIA_A,18-19,dabb32bf
+6e4df551,Papu Gómez,10,ARG,"AM,FW,LW",31-030,90,0,0,0,0,4,2,0,0,78,2,0,0,0.7,0.7,0.1,2,0,49,66,74.2,7,47,6,10,9,Atalanta,2019-03-17 Atalanta-Chievo,ITA-SERIA_A,18-19,dabb32bf
+98d2c2c4,Remo Freuler,11,SUI,"CM,LM",26-336,90,0,0,0,0,0,0,0,0,94,0,1,1,0.0,0.0,0.0,3,1,77,86,89.5,8,51,7,1,1,Atalanta,2019-03-17 Atalanta-Chievo,ITA-SERIA_A,18-19,dabb32bf
+2a1beb34,Marten de Roon,15,NED,"CM,RM",27-353,90,0,0,0,0,1,0,1,0,82,1,0,2,0.0,0.0,0.0,3,0,70,78,89.7,8,37,0,0,0,Atalanta,2019-03-17 Atalanta-Chievo,ITA-SERIA_A,18-19,dabb32bf
+2d970560,Robin Gosens,8,GER,WB,24-255,54,0,0,0,0,0,0,0,0,37,1,1,1,0.0,0.0,0.0,0,0,25,33,75.8,4,14,3,0,0,Atalanta,2019-03-17 Atalanta-Chievo,ITA-SERIA_A,18-19,dabb32bf
+197640fd,Timothy Castagne,21,BEL,"WB,LB",23-102,36,0,0,0,0,0,0,0,0,35,1,3,0,0.0,0.0,0.0,0,0,22,30,73.3,1,17,2,0,0,Atalanta,2019-03-17 Atalanta-Chievo,ITA-SERIA_A,18-19,dabb32bf
+3b333ac3,Hans Hateboer,33,NED,"WB,RB",25-067,90,0,0,0,0,0,0,0,0,63,0,0,3,0.0,0.0,0.1,4,0,44,54,81.5,3,34,3,2,2,Atalanta,2019-03-17 Atalanta-Chievo,ITA-SERIA_A,18-19,dabb32bf
+e0314d87,Andrea Masiello,5,ITA,CB,33-040,86,0,0,0,0,1,0,0,0,104,1,2,1,0.4,0.4,0.0,1,0,90,94,95.7,7,40,2,0,0,Atalanta,2019-03-17 Atalanta-Chievo,ITA-SERIA_A,18-19,dabb32bf
+e5bf73f3,Musa Barrow,99,GAM,RW,20-123,4,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,1,2,0,0,0,Atalanta,2019-03-17 Atalanta-Chievo,ITA-SERIA_A,18-19,dabb32bf
+6eee05f1,Berat Djimsiti,19,ALB,CB,26-026,90,0,0,0,0,0,0,0,0,96,2,0,2,0.0,0.0,0.0,0,0,81,85,95.3,4,51,0,0,0,Atalanta,2019-03-17 Atalanta-Chievo,ITA-SERIA_A,18-19,dabb32bf
+5aa53281,Gianluca Mancini,23,ITA,CB,22-334,90,0,0,0,0,0,0,0,0,99,0,6,0,0.0,0.0,0.0,1,0,78,87,89.7,9,53,3,0,0,Atalanta,2019-03-17 Atalanta-Chievo,ITA-SERIA_A,18-19,dabb32bf
+f0f7f62f,Pierluigi Gollini,95,ITA,GK,23-364,90,0,0,0,0,0,0,0,0,34,0,0,0,0.0,0.0,0.0,0,0,24,32,75.0,0,16,0,0,0,Atalanta,2019-03-17 Atalanta-Chievo,ITA-SERIA_A,18-19,dabb32bf
+2ec0f902,Riccardo Meggiorini,69,ITA,FW,33-194,69,1,0,0,0,4,2,1,0,29,0,0,1,0.5,0.5,0.0,1,1,9,22,40.9,0,10,2,0,0,Chievo,2019-03-17 Atalanta-Chievo,ITA-SERIA_A,18-19,dabb32bf
+a1c7b425,Manuel Pucciarelli,10,ITA,FW,27-273,21,0,0,0,0,1,0,0,0,7,0,0,0,0.0,0.0,0.0,1,0,3,5,60.0,0,2,0,0,0,Chievo,2019-03-17 Atalanta-Chievo,ITA-SERIA_A,18-19,dabb32bf
+7b536033,Mariusz Stępiński,9,POL,FW,23-309,78,0,0,0,0,2,0,0,0,22,0,0,0,0.1,0.1,0.1,2,0,11,14,78.6,3,12,0,1,0,Chievo,2019-03-17 Atalanta-Chievo,ITA-SERIA_A,18-19,dabb32bf
+dfb933e0,Filip Đorđević,20,SRB,FW,31-170,12,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,2,4,50.0,0,3,0,0,0,Chievo,2019-03-17 Atalanta-Chievo,ITA-SERIA_A,18-19,dabb32bf
+1c50f354,Emanuele Giaccherini,17,ITA,AM,33-316,90,0,0,0,0,0,0,1,0,39,0,1,2,0.0,0.0,0.0,0,0,16,31,51.6,1,10,0,1,0,Chievo,2019-03-17 Atalanta-Chievo,ITA-SERIA_A,18-19,dabb32bf
+90b70194,Përparim Hetemaj,56,FIN,CM,32-095,90,0,0,0,0,0,0,1,0,36,2,1,0,0.0,0.0,0.0,1,0,15,26,57.7,2,19,1,3,0,Chievo,2019-03-17 Atalanta-Chievo,ITA-SERIA_A,18-19,dabb32bf
+7f622eef,Assane Dioussé,8,SEN,CM,21-178,90,0,0,0,0,0,0,1,0,40,0,0,0,0.0,0.0,0.0,2,0,24,38,63.2,4,18,1,1,1,Chievo,2019-03-17 Atalanta-Chievo,ITA-SERIA_A,18-19,dabb32bf
+958a601f,Paweł Jaroszyński,44,POL,WB,24-166,90,0,0,0,0,2,0,0,0,45,3,2,0,0.0,0.0,0.1,2,0,21,34,61.8,2,9,2,0,0,Chievo,2019-03-17 Atalanta-Chievo,ITA-SERIA_A,18-19,dabb32bf
+d97f2e8d,Fabio Depaoli,27,ITA,WB,21-327,90,0,0,0,0,0,0,1,0,42,0,4,0,0.0,0.0,0.3,2,0,19,33,57.6,5,12,1,1,0,Chievo,2019-03-17 Atalanta-Chievo,ITA-SERIA_A,18-19,dabb32bf
+c010b898,Federico Barba,5,ITA,CB,25-197,90,0,0,0,0,0,0,0,0,39,0,5,3,0.0,0.0,0.0,0,0,11,18,61.1,0,10,0,0,0,Chievo,2019-03-17 Atalanta-Chievo,ITA-SERIA_A,18-19,dabb32bf
+c1d18f10,Boštjan Cesar,12,SVN,CB,36-251,90,0,0,0,0,0,0,1,0,27,1,1,1,0.0,0.0,0.0,0,0,11,15,73.3,2,9,0,0,0,Chievo,2019-03-17 Atalanta-Chievo,ITA-SERIA_A,18-19,dabb32bf
+13d820de,Marco Andreolli,33,ITA,CB,32-280,89,0,0,0,0,0,0,1,0,25,2,1,0,0.0,0.0,0.0,1,0,8,15,53.3,0,6,0,0,0,Chievo,2019-03-17 Atalanta-Chievo,ITA-SERIA_A,18-19,dabb32bf
+6378443d,Nicolas Frey,6,FRA,CB,35-011,1,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,1,0,0,0,Chievo,2019-03-17 Atalanta-Chievo,ITA-SERIA_A,18-19,dabb32bf
+048877f5,Stefano Sorrentino,70,ITA,GK,39-354,90,0,0,0,0,0,0,0,0,29,1,0,0,0.0,0.0,0.0,0,0,12,24,50.0,0,5,0,0,0,Chievo,2019-03-17 Atalanta-Chievo,ITA-SERIA_A,18-19,dabb32bf

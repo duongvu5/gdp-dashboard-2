@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+03f946ed,Andrea Petagna,37,ITA,FW,24-237,90,1,0,1,1,3,2,0,0,22,1,0,0,0.9,0.1,0.1,2,0,10,14,71.4,3,15,2,2,1,SPAL,2020-02-22 SPAL-Juventus,ITA-SERIA_A,19-20,d2801f5c
+c414df9d,Mattia Valoti,8,ITA,"LW,LM",26-169,88,0,0,0,0,0,0,1,0,47,1,1,2,0.0,0.0,0.0,0,0,28,36,77.8,5,21,0,2,1,SPAL,2020-02-22 SPAL-Juventus,ITA-SERIA_A,19-20,d2801f5c
+1fca9171,Federico Di Francesco,31,ITA,LM,25-253,2,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,SPAL,2020-02-22 SPAL-Juventus,ITA-SERIA_A,19-20,d2801f5c
+ac4a4508,Gabriel Strefezza,21,BRA,RW,22-310,90,0,0,0,0,2,1,1,0,37,5,1,0,0.1,0.1,0.1,5,1,19,24,79.2,2,26,1,3,2,SPAL,2020-02-22 SPAL-Juventus,ITA-SERIA_A,19-20,d2801f5c
+56b2957b,Lucas Castro,19,ARG,LM,30-319,59,0,0,0,0,2,0,0,0,32,1,0,0,0.1,0.1,0.0,2,0,18,25,72.0,2,11,0,0,0,SPAL,2020-02-22 SPAL-Juventus,ITA-SERIA_A,19-20,d2801f5c
+b7a5bc86,Mohamed Fares,93,ALG,"LM,LW",24-007,31,0,0,0,0,1,0,0,0,21,0,0,0,0.0,0.0,0.0,0,0,11,16,68.8,2,8,0,0,0,SPAL,2020-02-22 SPAL-Juventus,ITA-SERIA_A,19-20,d2801f5c
+c710f7d5,Mirko Valdifiori,6,ITA,CM,33-307,90,0,0,0,0,1,1,0,0,79,2,0,0,0.0,0.0,0.1,3,0,59,72,81.9,4,27,0,2,2,SPAL,2020-02-22 SPAL-Juventus,ITA-SERIA_A,19-20,d2801f5c
+331c0a43,Simone Missiroli,7,ITA,RM,33-275,79,0,0,0,0,0,0,0,0,43,0,1,3,0.0,0.0,0.0,3,1,34,36,94.4,2,18,1,0,0,SPAL,2020-02-22 SPAL-Juventus,ITA-SERIA_A,19-20,d2801f5c
+7aa84ac5,Georgi Tunjov,96,EST,RM,18-311,11,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,3,6,50.0,0,4,0,0,0,SPAL,2020-02-22 SPAL-Juventus,ITA-SERIA_A,19-20,d2801f5c
+6213fd82,Arkadiusz Reca,13,POL,LB,24-250,90,0,0,0,0,0,0,0,0,61,0,2,1,0.0,0.0,0.0,1,0,42,56,75.0,4,25,1,1,0,SPAL,2020-02-22 SPAL-Juventus,ITA-SERIA_A,19-20,d2801f5c
+1253a12e,Ervin Zukanović,87,BIH,CB,33-011,90,0,0,0,0,1,0,1,0,74,1,1,2,0.0,0.0,0.0,1,0,52,62,83.9,4,27,0,0,0,SPAL,2020-02-22 SPAL-Juventus,ITA-SERIA_A,19-20,d2801f5c
+fb77bfef,Kevin Bonifazi,41,ITA,CB,23-279,90,0,0,0,0,0,0,0,0,58,0,1,1,0.0,0.0,0.0,0,0,44,52,84.6,0,25,0,0,0,SPAL,2020-02-22 SPAL-Juventus,ITA-SERIA_A,19-20,d2801f5c
+46f5c54d,Thiago Cionek,4,POL,RB,33-307,90,0,0,0,0,1,0,1,0,78,2,6,0,0.0,0.0,0.1,3,0,47,66,71.2,8,36,1,0,0,SPAL,2020-02-22 SPAL-Juventus,ITA-SERIA_A,19-20,d2801f5c
+ee833569,Etrit Berisha,99,ALB,GK,30-349,90,0,0,0,0,0,0,0,0,39,0,0,0,0.0,0.0,0.0,0,0,26,37,70.3,0,18,0,0,0,SPAL,2020-02-22 SPAL-Juventus,ITA-SERIA_A,19-20,d2801f5c
+dea698d9,Cristiano Ronaldo,7,POR,FW,35-017,90,1,0,0,0,9,4,0,0,50,2,0,0,1.0,1.0,0.0,2,0,27,33,81.8,3,37,5,3,1,Juventus,2020-02-22 SPAL-Juventus,ITA-SERIA_A,19-20,d2801f5c
+e0921a4f,Paulo Dybala,10,ARG,FW,26-099,90,0,1,0,0,2,0,0,0,61,1,0,2,0.1,0.1,0.5,4,1,38,52,73.1,5,43,5,2,0,Juventus,2020-02-22 SPAL-Juventus,ITA-SERIA_A,19-20,d2801f5c
+c0cddebe,Blaise Matuidi,14,FRA,LM,32-319,78,0,0,0,0,0,0,1,0,36,4,0,2,0.0,0.0,0.0,5,0,22,28,78.6,4,22,0,0,0,Juventus,2020-02-22 SPAL-Juventus,ITA-SERIA_A,19-20,d2801f5c
+ee93c1a9,Federico Bernardeschi,33,ITA,LM,26-006,12,0,0,0,0,0,0,0,0,10,0,1,0,0.0,0.0,0.0,0,0,8,9,88.9,0,7,0,0,0,Juventus,2020-02-22 SPAL-Juventus,ITA-SERIA_A,19-20,d2801f5c
+3b8674e6,Rodrigo Bentancur,30,URU,CM,22-242,90,0,0,0,0,0,0,0,0,92,0,4,0,0.0,0.0,0.0,2,0,76,84,90.5,8,60,1,2,2,Juventus,2020-02-22 SPAL-Juventus,ITA-SERIA_A,19-20,d2801f5c
+ef619b0b,Aaron Ramsey,8,WAL,CM,29-058,72,1,0,0,0,3,1,0,0,52,1,0,2,0.5,0.5,0.0,1,1,33,38,86.8,2,31,0,0,0,Juventus,2020-02-22 SPAL-Juventus,ITA-SERIA_A,19-20,d2801f5c
+8794e251,Adrien Rabiot,25,FRA,CM,24-325,18,0,0,0,0,0,0,0,0,15,0,0,1,0.0,0.0,0.0,1,0,11,14,78.6,0,11,0,1,1,Juventus,2020-02-22 SPAL-Juventus,ITA-SERIA_A,19-20,d2801f5c
+0ab1f153,Juan Cuadrado,16,COL,RM,31-272,90,0,1,0,0,4,1,0,0,67,2,1,2,0.2,0.2,0.7,7,1,46,52,88.5,5,52,5,3,2,Juventus,2020-02-22 SPAL-Juventus,ITA-SERIA_A,19-20,d2801f5c
+0d82903c,Alex Sandro,12,BRA,LB,29-027,90,0,0,0,0,0,0,0,0,63,1,2,1,0.0,0.0,0.3,9,0,44,55,80.0,5,30,0,4,3,Juventus,2020-02-22 SPAL-Juventus,ITA-SERIA_A,19-20,d2801f5c
+e85fb9b8,Giorgio Chiellini,3,ITA,CB,35-192,54,0,0,0,0,0,0,0,0,48,1,0,0,0.0,0.0,0.0,0,0,38,45,84.4,0,28,1,0,0,Juventus,2020-02-22 SPAL-Juventus,ITA-SERIA_A,19-20,d2801f5c
+d6e53a3a,Matthijs de Ligt,4,NED,CB,20-194,36,0,0,0,0,0,0,0,0,21,0,1,0,0.0,0.0,0.0,1,0,20,20,100.0,1,15,0,0,0,Juventus,2020-02-22 SPAL-Juventus,ITA-SERIA_A,19-20,d2801f5c
+14b8fcdf,Daniele Rugani,24,ITA,CB,25-208,90,0,0,0,0,1,0,0,0,78,0,3,1,0.1,0.1,0.0,0,0,51,68,75.0,2,38,0,0,0,Juventus,2020-02-22 SPAL-Juventus,ITA-SERIA_A,19-20,d2801f5c
+94b2001f,Danilo,13,BRA,RB,28-222,90,0,0,0,0,1,0,1,0,84,2,0,1,0.0,0.0,0.1,3,1,64,74,86.5,5,50,1,0,0,Juventus,2020-02-22 SPAL-Juventus,ITA-SERIA_A,19-20,d2801f5c
+01b8a2b2,Wojciech Szczęsny,1,POL,GK,29-310,90,0,0,0,0,0,0,0,0,37,0,0,0,0.0,0.0,0.0,0,0,29,36,80.6,0,26,0,0,0,Juventus,2020-02-22 SPAL-Juventus,ITA-SERIA_A,19-20,d2801f5c

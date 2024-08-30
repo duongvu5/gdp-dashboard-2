@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+165a2e40,Burak Yılmaz,17,TUR,FW,36-080,87,0,0,0,0,3,1,1,0,31,1,0,0,0.5,0.5,0.8,2,0,11,21,52.4,1,22,3,1,1,Lille,2021-10-03 Lille-Marseille,FRA-L1,21-22,021c2c80
+f5c8b425,Yusuf Yazıcı,11,TUR,FW,24-247,3,0,0,0,0,1,1,0,0,2,0,1,0,0.0,0.0,0.0,1,0,1,1,100.0,0,1,0,0,0,Lille,2021-10-03 Lille-Marseille,FRA-L1,21-22,021c2c80
+ce50fd99,Jonathan David,9,CAN,FW,21-262,90,2,0,0,0,4,2,0,0,28,1,1,0,1.6,1.6,0.6,4,0,14,19,73.7,5,22,0,2,1,Lille,2021-10-03 Lille-Marseille,FRA-L1,21-22,021c2c80
+b2bd0f6c,Jonathan Bamba,7,CIV,LM,25-191,71,0,0,0,0,0,0,0,0,49,2,2,0,0.0,0.0,0.1,2,0,28,42,66.7,4,37,1,2,0,Lille,2021-10-03 Lille-Marseille,FRA-L1,21-22,021c2c80
+8eec784d,Timothy Weah,22,USA,LM,21-223,19,0,1,0,0,0,0,0,0,11,1,0,0,0.0,0.0,1.0,2,1,7,9,77.8,2,7,1,0,0,Lille,2021-10-03 Lille-Marseille,FRA-L1,21-22,021c2c80
+828657ff,Amadou Onana,24,BEL,CM,20-048,71,0,0,0,0,0,0,0,0,25,4,3,0,0.0,0.0,0.0,0,0,14,15,93.3,2,15,1,0,0,Lille,2021-10-03 Lille-Marseille,FRA-L1,21-22,021c2c80
+f3600c02,Xeka,8,POR,CM,26-327,19,0,0,0,0,0,0,0,0,10,2,0,1,0.0,0.0,0.0,2,0,7,7,100.0,2,3,1,0,0,Lille,2021-10-03 Lille-Marseille,FRA-L1,21-22,021c2c80
+ef9c1c95,Benjamin André,21,FRA,CM,31-061,90,0,0,0,0,0,0,0,0,40,3,1,1,0.0,0.0,0.0,2,1,23,33,69.7,6,26,1,2,2,Lille,2021-10-03 Lille-Marseille,FRA-L1,21-22,021c2c80
+42eaa028,Jonathan Ikone,10,FRA,RM,23-154,89,0,0,0,0,3,1,0,0,41,1,0,2,0.8,0.8,0.0,1,0,21,26,80.8,4,26,1,5,2,Lille,2021-10-03 Lille-Marseille,FRA-L1,21-22,021c2c80
+032f894e,Renato Sanches,18,POR,RM,24-046,1,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,1,1,1,3,33.3,1,3,1,1,1,Lille,2021-10-03 Lille-Marseille,FRA-L1,21-22,021c2c80
+c20bdcd7,Reinildo Mandava,28,MOZ,LB,27-255,45,0,0,0,0,0,0,1,0,26,1,0,1,0.0,0.0,0.0,0,0,18,22,81.8,1,12,0,0,0,Lille,2021-10-03 Lille-Marseille,FRA-L1,21-22,021c2c80
+d5d22a58,Gabriel Gudmundsson,5,SWE,LB,22-157,45,0,0,0,0,1,0,0,0,23,4,0,0,0.1,0.1,0.0,1,0,13,17,76.5,0,7,0,0,0,Lille,2021-10-03 Lille-Marseille,FRA-L1,21-22,021c2c80
+ccce7025,Sven Botman,4,NED,CB,21-264,90,0,0,0,0,0,0,0,0,36,0,0,3,0.0,0.0,0.0,0,0,28,31,90.3,0,24,0,0,0,Lille,2021-10-03 Lille-Marseille,FRA-L1,21-22,021c2c80
+90f87966,José Fonte,6,POR,CB,37-285,90,0,0,0,0,0,0,0,0,45,0,0,0,0.0,0.0,0.0,1,1,37,41,90.2,1,30,0,0,0,Lille,2021-10-03 Lille-Marseille,FRA-L1,21-22,021c2c80
+31a62dc7,Zeki Çelik,2,TUR,RB,24-228,90,0,0,0,0,0,0,0,0,47,2,3,0,0.0,0.0,0.0,2,0,27,37,73.0,7,29,4,1,1,Lille,2021-10-03 Lille-Marseille,FRA-L1,21-22,021c2c80
+3f034750,Ivo Grbić,1,CRO,GK,25-258,90,0,0,0,0,0,0,0,0,28,0,0,0,0.0,0.0,0.0,0,0,17,26,65.4,0,15,0,0,0,Lille,2021-10-03 Lille-Marseille,FRA-L1,21-22,021c2c80
+40774c6b,Bamba Dieng,12,SEN,FW,21-194,45,0,0,0,0,2,2,0,0,10,0,0,0,0.1,0.1,0.0,0,0,3,5,60.0,0,6,0,0,0,Marseille,2021-10-03 Lille-Marseille,FRA-L1,21-22,021c2c80
+85613cf0,Arkadiusz Milik,9,POL,FW,27-217,45,0,0,0,0,2,1,0,0,20,0,0,0,0.2,0.2,0.0,2,0,15,17,88.2,4,16,0,0,0,Marseille,2021-10-03 Lille-Marseille,FRA-L1,21-22,021c2c80
+1880614f,Cengiz Ünder,17,TUR,"LW,RW",24-081,76,0,0,0,0,1,0,2,1,42,1,0,0,0.0,0.0,0.2,4,0,24,35,68.6,4,33,3,4,1,Marseille,2021-10-03 Lille-Marseille,FRA-L1,21-22,021c2c80
+ff800ed8,Pol Lirola,29,ESP,"RW,LW",24-051,80,0,0,0,0,0,0,0,0,49,0,0,1,0.0,0.0,0.1,3,0,33,43,76.7,4,39,1,4,2,Marseille,2021-10-03 Lille-Marseille,FRA-L1,21-22,021c2c80
+f36d5624,Luis Henrique,11,BRA,LW,19-293,10,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,1,0,2,4,50.0,1,2,0,0,0,Marseille,2021-10-03 Lille-Marseille,FRA-L1,21-22,021c2c80
+ed45c4a5,Valentin Rongier,21,FRA,AM,26-300,90,0,0,0,0,1,0,0,0,76,1,0,1,0.0,0.0,0.0,4,0,62,71,87.3,10,53,3,3,3,Marseille,2021-10-03 Lille-Marseille,FRA-L1,21-22,021c2c80
+8827bf46,Gerson,8,BRA,"DM,CM",24-136,61,0,0,0,0,1,0,0,0,44,0,2,1,0.1,0.1,0.0,0,0,34,36,94.4,3,38,3,0,0,Marseille,2021-10-03 Lille-Marseille,FRA-L1,21-22,021c2c80
+e7d59f4f,Amine Harit,7,MAR,CM,24-107,29,0,0,0,0,0,0,0,0,19,0,0,0,0.0,0.0,0.0,0,0,10,14,71.4,3,13,1,2,0,Marseille,2021-10-03 Lille-Marseille,FRA-L1,21-22,021c2c80
+5ea8ef20,Mattéo Guendouzi,6,FRA,"CM,DM",22-172,90,0,0,0,0,2,0,0,0,78,0,1,0,0.1,0.1,0.0,0,0,60,66,90.9,5,61,3,3,1,Marseille,2021-10-03 Lille-Marseille,FRA-L1,21-22,021c2c80
+a5549ec1,Luan Peres Petroni,14,BRA,"CB,LB",27-076,90,0,0,0,0,0,0,0,0,67,1,0,2,0.0,0.0,0.0,0,0,53,60,88.3,3,43,3,0,0,Marseille,2021-10-03 Lille-Marseille,FRA-L1,21-22,021c2c80
+94f8d10c,Duje Ćaleta-Car,15,CRO,CB,25-016,45,0,0,0,0,0,0,0,0,41,1,0,0,0.0,0.0,0.0,0,0,36,40,90.0,0,34,0,0,0,Marseille,2021-10-03 Lille-Marseille,FRA-L1,21-22,021c2c80
+cc77354e,Boubacar Kamara,4,FRA,CM,21-314,45,0,0,0,0,1,0,0,0,35,0,1,1,0.0,0.0,0.0,0,0,25,30,83.3,3,25,1,1,1,Marseille,2021-10-03 Lille-Marseille,FRA-L1,21-22,021c2c80
+7c3ed041,Leonardo Balerdi,5,ARG,CB,22-250,89,0,0,0,0,0,0,1,0,82,1,2,0,0.0,0.0,0.0,0,0,69,74,93.2,3,57,0,1,0,Marseille,2021-10-03 Lille-Marseille,FRA-L1,21-22,021c2c80
+7155e3e1,Pape Gueye,22,SEN,CB,22-252,1,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,6,6,100.0,0,4,0,0,0,Marseille,2021-10-03 Lille-Marseille,FRA-L1,21-22,021c2c80
+972aeb2a,William Saliba,2,FRA,"CB,RB",20-193,90,0,0,0,0,0,0,0,0,73,5,0,0,0.0,0.0,0.0,2,0,57,61,93.4,7,48,0,0,0,Marseille,2021-10-03 Lille-Marseille,FRA-L1,21-22,021c2c80
+20b9f052,Pau López,16,ESP,GK,26-294,90,0,0,0,0,0,0,0,0,40,0,0,0,0.0,0.0,0.0,0,0,31,38,81.6,0,25,0,0,0,Marseille,2021-10-03 Lille-Marseille,FRA-L1,21-22,021c2c80

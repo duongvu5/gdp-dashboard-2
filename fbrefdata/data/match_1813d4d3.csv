@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+536cebe5,Ante Rebić,4,CRO,FW,24-043,75,1,0,0,0,2,1,0,0,30,0,1,0,0.1,0.1,0.0,2,0,10,20,50.0,2,16,1,1,0,Eintracht Frankfurt,2017-11-03 Eint Frankfurt-Werder Bremen,GER-BL1,17-18,1813d4d3
+4d8cd038,Luka Jović,8,SRB,FW,19-315,15,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,1,1,5,6,83.3,0,5,0,0,0,Eintracht Frankfurt,2017-11-03 Eint Frankfurt-Werder Bremen,GER-BL1,17-18,1813d4d3
+ba115a40,Sébastien Haller,9,CIV,FW,23-134,90,1,0,0,0,1,1,0,0,41,2,1,1,0.3,0.3,0.1,3,1,19,31,61.3,1,26,1,1,0,Eintracht Frankfurt,2017-11-03 Eint Frankfurt-Werder Bremen,GER-BL1,17-18,1813d4d3
+9050ddc4,Jetro Willems,15,NED,LW,23-218,78,0,1,0,0,3,1,0,0,65,0,2,1,0.9,0.9,0.8,8,0,36,54,66.7,4,29,4,2,1,Eintracht Frankfurt,2017-11-03 Eint Frankfurt-Werder Bremen,GER-BL1,17-18,1813d4d3
+bbb496b5,Taleb Tawatha,33,ISR,LW,25-135,12,0,1,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.3,1,1,8,10,80.0,0,5,1,0,0,Eintracht Frankfurt,2017-11-03 Eint Frankfurt-Werder Bremen,GER-BL1,17-18,1813d4d3
+fa661778,Marius Wolf,27,GER,RW,22-160,90,0,0,0,0,3,1,0,0,46,0,2,4,0.1,0.1,0.0,2,0,24,33,72.7,4,20,0,0,0,Eintracht Frankfurt,2017-11-03 Eint Frankfurt-Werder Bremen,GER-BL1,17-18,1813d4d3
+500cd987,Marc Stendera,21,GER,CM,21-328,66,0,0,0,0,1,0,0,0,44,2,0,2,0.1,0.1,0.0,2,1,24,39,61.5,5,23,0,0,0,Eintracht Frankfurt,2017-11-03 Eint Frankfurt-Werder Bremen,GER-BL1,17-18,1813d4d3
+16daec92,Mijat Gaćinović,11,SRB,CM,22-268,24,0,0,0,0,0,0,0,0,7,1,1,0,0.0,0.0,0.1,1,0,5,6,83.3,3,4,0,0,0,Eintracht Frankfurt,2017-11-03 Eint Frankfurt-Werder Bremen,GER-BL1,17-18,1813d4d3
+f4ec4fd0,Kevin-Prince Boateng,17,GHA,CM,30-242,90,0,0,0,0,3,1,0,0,59,4,1,2,0.7,0.7,0.5,2,0,26,37,70.3,7,37,1,4,1,Eintracht Frankfurt,2017-11-03 Eint Frankfurt-Werder Bremen,GER-BL1,17-18,1813d4d3
+9ab16552,Makoto Hasebe,20,JPN,DM,33-289,90,0,0,0,0,0,0,0,0,53,2,2,1,0.0,0.0,0.0,2,0,34,45,75.6,3,23,1,0,0,Eintracht Frankfurt,2017-11-03 Eint Frankfurt-Werder Bremen,GER-BL1,17-18,1813d4d3
+b82880c6,Simon Falette,3,GUI,CB,25-257,90,0,0,0,0,2,0,0,0,62,0,3,3,0.1,0.1,0.0,3,0,36,45,80.0,6,29,0,0,0,Eintracht Frankfurt,2017-11-03 Eint Frankfurt-Werder Bremen,GER-BL1,17-18,1813d4d3
+565bf0da,David Abraham,19,ARG,CB,31-111,90,0,0,0,0,1,0,0,0,64,0,5,2,0.1,0.1,0.0,1,0,43,51,84.3,2,23,0,1,1,Eintracht Frankfurt,2017-11-03 Eint Frankfurt-Werder Bremen,GER-BL1,17-18,1813d4d3
+64c07ae1,Carlos Salcedo,13,MEX,CB,24-035,90,0,0,0,0,0,0,0,0,61,1,1,1,0.0,0.0,0.0,1,0,39,52,75.0,3,23,0,0,0,Eintracht Frankfurt,2017-11-03 Eint Frankfurt-Werder Bremen,GER-BL1,17-18,1813d4d3
+ad3389d5,Lukáš Hrádecký,1,FIN,GK,27-344,90,0,0,0,0,0,0,0,0,43,0,0,0,0.0,0.0,0.0,0,0,26,38,68.4,0,21,0,0,0,Eintracht Frankfurt,2017-11-03 Eint Frankfurt-Werder Bremen,GER-BL1,17-18,1813d4d3
+f9446dcd,Max Kruse,10,GER,FW,29-229,90,0,0,0,0,3,3,0,0,62,0,1,0,0.5,0.5,0.0,4,0,43,53,81.1,2,19,1,0,0,Werder Bremen,2017-11-03 Eint Frankfurt-Werder Bremen,GER-BL1,17-18,1813d4d3
+dba67bc4,Zlatko Junuzović,16,AUT,LW,30-038,90,0,0,0,0,1,1,0,0,60,1,0,0,0.4,0.4,0.5,6,0,33,51,64.7,7,20,2,1,1,Werder Bremen,2017-11-03 Eint Frankfurt-Werder Bremen,GER-BL1,17-18,1813d4d3
+acc7b7ec,Fin Bartels,22,GER,RW,30-269,90,0,0,0,0,1,1,0,0,45,1,1,0,0.0,0.0,0.0,1,0,21,38,55.3,4,27,2,5,4,Werder Bremen,2017-11-03 Eint Frankfurt-Werder Bremen,GER-BL1,17-18,1813d4d3
+fe641c1a,Thomas Delaney,6,DEN,LM,26-061,90,0,0,0,0,1,0,0,0,47,1,0,2,0.0,0.0,0.1,4,0,22,37,59.5,6,17,2,2,1,Werder Bremen,2017-11-03 Eint Frankfurt-Werder Bremen,GER-BL1,17-18,1813d4d3
+3f7cd8f1,Philipp Bargfrede,44,GER,CM,28-245,66,0,0,0,0,0,0,0,0,38,2,1,3,0.0,0.0,0.0,0,0,22,29,75.9,3,16,0,1,1,Werder Bremen,2017-11-03 Eint Frankfurt-Werder Bremen,GER-BL1,17-18,1813d4d3
+94c18565,Florian Kainz,7,AUT,CM,25-010,24,0,0,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.0,1,0,7,11,63.6,3,6,1,0,0,Werder Bremen,2017-11-03 Eint Frankfurt-Werder Bremen,GER-BL1,17-18,1813d4d3
+beb882a8,Maximilian Eggestein,35,GER,RM,20-330,89,0,0,0,0,3,1,0,0,57,2,0,3,0.1,0.1,0.0,1,0,28,45,62.2,5,21,0,2,2,Werder Bremen,2017-11-03 Eint Frankfurt-Werder Bremen,GER-BL1,17-18,1813d4d3
+c0dc9fc7,Aron Jóhannsson,9,USA,RM,26-358,1,0,0,0,0,1,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,0,0,0,0,Werder Bremen,2017-11-03 Eint Frankfurt-Werder Bremen,GER-BL1,17-18,1813d4d3
+9fec8860,Ludwig Augustinsson,5,SWE,LB,23-196,89,0,0,0,0,0,0,0,0,56,0,1,1,0.0,0.0,0.1,2,0,39,51,76.5,4,19,1,0,0,Werder Bremen,2017-11-03 Eint Frankfurt-Werder Bremen,GER-BL1,17-18,1813d4d3
+ff182fdc,Ishak Belfodil,29,ALG,LB,25-295,1,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,2,0,0,0,Werder Bremen,2017-11-03 Eint Frankfurt-Werder Bremen,GER-BL1,17-18,1813d4d3
+00844823,Niklas Moisander,18,FIN,CB,32-035,90,1,0,0,0,2,1,0,0,63,0,2,0,0.5,0.5,0.0,1,1,41,49,83.7,4,26,1,0,0,Werder Bremen,2017-11-03 Eint Frankfurt-Werder Bremen,GER-BL1,17-18,1813d4d3
+a5ae8f8e,Miloš Veljković,13,SRB,CB,22-038,90,0,0,0,0,0,0,0,0,52,3,4,0,0.0,0.0,0.2,3,0,28,36,77.8,2,15,0,0,0,Werder Bremen,2017-11-03 Eint Frankfurt-Werder Bremen,GER-BL1,17-18,1813d4d3
+3f65898c,Theodor Gebre Selassie,23,CZE,RB,30-314,90,0,0,0,0,0,0,0,0,69,2,4,0,0.0,0.0,0.0,0,0,50,62,80.6,4,13,2,0,0,Werder Bremen,2017-11-03 Eint Frankfurt-Werder Bremen,GER-BL1,17-18,1813d4d3
+0a1cb833,Jiří Pavlenka,1,CZE,GK,25-203,90,0,0,0,0,0,0,0,0,42,0,0,0,0.0,0.0,0.0,0,0,22,37,59.5,0,12,0,0,0,Werder Bremen,2017-11-03 Eint Frankfurt-Werder Bremen,GER-BL1,17-18,1813d4d3

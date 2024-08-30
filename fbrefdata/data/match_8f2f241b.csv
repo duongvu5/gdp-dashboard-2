@@ -1,0 +1,32 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+b70afb45,Thijs Dallinga,27,NED,FW,22-004,78,1,0,0,0,3,2,0,0,18,1,0,1,0.8,0.8,0.0,0,0,7,12,58.3,0,12,3,0,0,Toulouse,2022-08-07 Toulouse-Nice,FRA-L1,22-23,8f2f241b
+07ace8c3,Rhys Healey,9,WAL,FW,27-244,12,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,1,7,14.3,0,8,0,0,0,Toulouse,2022-08-07 Toulouse-Nice,FRA-L1,22-23,8f2f241b
+40ef7347,Rafael Ratão,21,BRA,LW,26-250,65,0,0,0,0,1,1,0,0,35,0,4,2,0.0,0.0,0.0,0,0,18,24,75.0,3,27,1,3,3,Toulouse,2022-08-07 Toulouse-Nice,FRA-L1,22-23,8f2f241b
+c2a6033c,Zakaria Aboukhlal,6,MAR,LW,22-170,25,0,0,0,0,0,0,0,0,15,0,0,1,0.0,0.0,0.0,0,0,5,10,50.0,2,9,0,1,0,Toulouse,2022-08-07 Toulouse-Nice,FRA-L1,22-23,8f2f241b
+e110ea4b,Nathan N'Goumou,29,FRA,RW,22-146,90,0,0,0,0,0,0,0,0,40,3,2,2,0.0,0.0,0.3,3,0,25,30,83.3,5,27,1,3,1,Toulouse,2022-08-07 Toulouse-Nice,FRA-L1,22-23,8f2f241b
+357103bd,Fares Chaïbi,28,ALG,AM,19-252,68,0,0,0,0,0,0,0,0,27,1,0,1,0.0,0.0,0.0,2,0,17,22,77.3,3,18,2,0,0,Toulouse,2022-08-07 Toulouse-Nice,FRA-L1,22-23,8f2f241b
+badcdcae,Denis Genreau,5,AUS,AM,23-078,22,0,0,0,0,0,0,0,0,17,3,0,0,0.0,0.0,0.0,0,0,3,12,25.0,1,9,0,1,0,Toulouse,2022-08-07 Toulouse-Nice,FRA-L1,22-23,8f2f241b
+99d660b2,Branco van den Boomen,8,NED,DM,27-017,90,0,1,0,0,0,0,0,0,56,1,0,0,0.0,0.0,0.3,4,1,40,55,72.7,5,37,0,1,1,Toulouse,2022-08-07 Toulouse-Nice,FRA-L1,22-23,8f2f241b
+a08985b8,Stijn Spierings,17,NED,DM,26-148,90,0,0,0,0,1,0,0,0,69,2,0,2,0.1,0.1,0.0,0,0,51,60,85.0,3,53,0,2,2,Toulouse,2022-08-07 Toulouse-Nice,FRA-L1,22-23,8f2f241b
+b99bec05,Issiaga Sylla,12,GUI,LB,28-218,90,0,0,0,0,0,0,0,0,56,6,2,1,0.0,0.0,0.0,1,1,36,45,80.0,8,30,5,0,0,Toulouse,2022-08-07 Toulouse-Nice,FRA-L1,22-23,8f2f241b
+3f319bb9,Rasmus Nicolaisen,2,DEN,CB,25-144,90,0,0,0,0,0,0,0,0,60,1,2,0,0.0,0.0,0.0,0,0,46,56,82.1,5,48,1,0,0,Toulouse,2022-08-07 Toulouse-Nice,FRA-L1,22-23,8f2f241b
+9b545925,Anthony Rouault,4,FRA,CB,21-070,90,0,0,0,0,0,0,0,0,67,1,2,1,0.0,0.0,0.3,1,0,59,61,96.7,4,53,0,0,0,Toulouse,2022-08-07 Toulouse-Nice,FRA-L1,22-23,8f2f241b
+1d5c96f8,Mikkel Desler,3,DEN,RB,27-169,78,0,0,0,0,1,0,0,0,71,4,3,2,0.0,0.0,0.0,1,0,47,56,83.9,7,50,1,1,0,Toulouse,2022-08-07 Toulouse-Nice,FRA-L1,22-23,8f2f241b
+c43a8336,Kévin Keben Biakolo,31,CMR,RB,18-193,12,0,0,0,0,0,0,1,0,9,0,1,0,0.0,0.0,0.0,0,0,4,5,80.0,0,2,0,0,0,Toulouse,2022-08-07 Toulouse-Nice,FRA-L1,22-23,8f2f241b
+0e12089d,Maxime Dupé,30,FRA,GK,29-156,90,0,0,0,0,0,0,0,0,47,0,0,0,0.0,0.0,0.0,0,0,39,45,86.7,0,35,0,0,0,Toulouse,2022-08-07 Toulouse-Nice,FRA-L1,22-23,8f2f241b
+d33c706e,Andy Delort,7,ALG,"FW,LW",30-302,90,0,0,0,0,4,0,0,0,30,0,0,0,0.4,0.4,0.0,1,0,11,18,61.1,1,17,0,1,0,Nice,2022-08-07 Toulouse-Nice,FRA-L1,22-23,8f2f241b
+aad56ca3,Amine Gouiri,11,ALG,LW,22-172,69,0,0,0,0,3,2,0,0,32,1,0,0,0.3,0.3,0.0,1,0,16,24,66.7,1,21,2,1,0,Nice,2022-08-07 Toulouse-Nice,FRA-L1,22-23,8f2f241b
+02bcaf8e,Bilal Brahimi,14,ALG,"RW,LW",22-146,21,0,1,0,0,0,0,0,0,19,0,0,1,0.0,0.0,0.3,1,1,10,14,71.4,0,14,3,3,1,Nice,2022-08-07 Toulouse-Nice,FRA-L1,22-23,8f2f241b
+8f7e6783,Calvin Stengs,22,NED,RW,23-232,76,0,0,0,0,1,0,0,0,37,0,0,0,0.1,0.1,0.1,5,0,24,30,80.0,5,31,2,3,2,Nice,2022-08-07 Toulouse-Nice,FRA-L1,22-23,8f2f241b
+ef619b0b,Aaron Ramsey,16,WAL,FW,31-224,14,1,0,0,0,1,1,0,0,11,0,0,0,0.3,0.3,0.0,0,0,6,10,60.0,0,7,0,1,1,Nice,2022-08-07 Toulouse-Nice,FRA-L1,22-23,8f2f241b
+7d9397f8,Khéphren Thuram,19,FRA,LM,21-134,90,0,0,0,0,0,0,0,0,69,1,0,0,0.0,0.0,0.3,3,0,55,64,85.9,9,63,4,5,3,Nice,2022-08-07 Toulouse-Nice,FRA-L1,22-23,8f2f241b
+1a6b7ea4,Pablo Rosario,8,NED,CM,25-212,62,0,0,0,0,0,0,1,0,41,1,3,2,0.0,0.0,0.0,4,0,28,32,87.5,3,32,1,1,1,Nice,2022-08-07 Toulouse-Nice,FRA-L1,22-23,8f2f241b
+2b471f99,Mario Lemina,99,GAB,CM,28-340,28,0,0,0,0,2,1,0,0,33,2,1,0,0.1,0.1,0.0,0,0,24,28,85.7,2,24,0,1,1,Nice,2022-08-07 Toulouse-Nice,FRA-L1,22-23,8f2f241b
+4a5e83ad,Alexis Beka Beka,21,FRA,RM,21-131,63,0,0,0,0,0,0,0,0,32,2,1,0,0.0,0.0,0.0,1,0,24,26,92.3,2,26,0,1,1,Nice,2022-08-07 Toulouse-Nice,FRA-L1,22-23,8f2f241b
+c9f49454,Rareş Ilie,18,ROU,RM,19-110,27,0,0,0,0,0,0,0,0,23,0,0,2,0.0,0.0,0.0,1,0,16,20,80.0,1,17,4,1,1,Nice,2022-08-07 Toulouse-Nice,FRA-L1,22-23,8f2f241b
+1ddbc7ca,Melvin Bard,26,FRA,LB,21-274,90,0,0,0,0,0,0,0,0,72,3,1,1,0.0,0.0,0.0,0,0,48,62,77.4,5,43,2,2,1,Nice,2022-08-07 Toulouse-Nice,FRA-L1,22-23,8f2f241b
+fd2bc67d,Dante,4,BRA,CB,38-293,90,0,0,0,0,0,0,1,0,105,0,2,3,0.0,0.0,0.0,0,0,88,98,89.8,6,92,0,0,0,Nice,2022-08-07 Toulouse-Nice,FRA-L1,22-23,8f2f241b
+88f130ed,Jean-Clair Todibo,25,FRA,CB,22-220,90,0,0,0,0,0,0,0,0,85,5,0,3,0.0,0.0,0.0,0,0,66,76,86.8,9,71,1,2,1,Nice,2022-08-07 Toulouse-Nice,FRA-L1,22-23,8f2f241b
+fc4cf6a7,Jordan Lotomba,23,SUI,RB,23-312,90,0,0,0,0,0,0,0,0,63,0,1,1,0.0,0.0,0.3,4,1,45,59,76.3,2,43,3,1,1,Nice,2022-08-07 Toulouse-Nice,FRA-L1,22-23,8f2f241b
+db87a2c4,Marcin Bułka,90,POL,GK,22-307,90,0,0,0,0,0,0,0,0,31,0,0,0,0.0,0.0,0.0,0,0,28,30,93.3,0,21,0,0,0,Nice,2022-08-07 Toulouse-Nice,FRA-L1,22-23,8f2f241b

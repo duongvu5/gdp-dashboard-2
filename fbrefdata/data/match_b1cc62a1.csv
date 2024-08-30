@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+d705ba44,Andrea Belotti,9,ITA,FW,27-027,90,0,0,0,0,4,1,0,0,33,1,0,0,0.3,0.3,0.0,1,0,16,20,80.0,1,21,2,6,4,Torino,2021-01-16 Torino-Spezia,ITA-SERIA_A,20-21,b1cc62a1
+0375723e,Simone Verdi,24,ITA,"FW,AM",28-188,75,0,0,0,0,1,0,0,0,24,1,0,0,0.1,0.1,0.1,4,0,10,19,52.6,0,14,1,2,1,Torino,2021-01-16 Torino-Spezia,ITA-SERIA_A,20-21,b1cc62a1
+51ffa295,Amer Gojak,10,BIH,AM,23-338,15,0,0,0,0,1,0,0,0,10,0,0,0,0.1,0.1,0.1,1,0,1,7,14.3,0,4,1,1,1,Torino,2021-01-16 Torino-Spezia,ITA-SERIA_A,20-21,b1cc62a1
+d023d70f,Karol Linetty,77,POL,"LM,CM",25-349,90,0,0,0,0,0,0,1,0,60,2,0,0,0.0,0.0,0.0,1,0,40,52,76.9,3,42,0,0,0,Torino,2021-01-16 Torino-Spezia,ITA-SERIA_A,20-21,b1cc62a1
+3cb132e6,Jacopo Segre,6,ITA,"DM,CM",23-334,90,0,0,0,0,0,0,0,0,62,3,0,0,0.0,0.0,0.0,0,0,47,53,88.7,3,50,1,3,3,Torino,2021-01-16 Torino-Spezia,ITA-SERIA_A,20-21,b1cc62a1
+c6e8cf1f,Saša Lukić,7,SRB,"RM,CM",24-156,90,0,0,0,0,0,0,0,0,47,0,2,1,0.0,0.0,0.0,1,0,32,42,76.2,5,40,1,0,0,Torino,2021-01-16 Torino-Spezia,ITA-SERIA_A,20-21,b1cc62a1
+d183e9d6,Nicola Murru,29,ITA,"WB,LB",26-031,71,0,0,0,0,0,0,0,0,79,0,3,3,0.0,0.0,0.0,0,0,48,65,73.8,5,50,2,3,0,Torino,2021-01-16 Torino-Spezia,ITA-SERIA_A,20-21,b1cc62a1
+bbafc0c4,Cristian Ansaldi,15,ARG,LB,34-118,19,0,0,0,0,1,0,0,0,20,0,0,1,0.0,0.0,0.2,2,0,15,16,93.8,1,14,2,3,2,Torino,2021-01-16 Torino-Spezia,ITA-SERIA_A,20-21,b1cc62a1
+8b609c34,Wilfried Singo,17,CIV,"RB,WB",20-022,90,0,0,0,0,0,0,0,0,63,1,1,0,0.0,0.0,0.2,5,0,47,55,85.5,3,46,4,7,3,Torino,2021-01-16 Torino-Spezia,ITA-SERIA_A,20-21,b1cc62a1
+4ae67f27,Alessandro Buongiorno,99,ITA,CB,21-224,45,0,0,0,0,0,0,1,0,55,1,0,0,0.0,0.0,0.0,0,0,50,51,98.0,5,46,2,0,0,Torino,2021-01-16 Torino-Spezia,ITA-SERIA_A,20-21,b1cc62a1
+b5bf1770,Lyanco,4,BRA,CB,23-350,45,0,0,0,0,1,0,1,0,83,1,2,0,0.0,0.0,0.0,3,0,77,79,97.5,8,67,0,0,0,Torino,2021-01-16 Torino-Spezia,ITA-SERIA_A,20-21,b1cc62a1
+5fd5ed86,Gleison Bremer,3,BRA,CB,23-304,90,0,0,0,0,1,0,0,0,130,0,3,0,0.1,0.1,0.0,1,0,113,124,91.1,7,113,5,0,0,Torino,2021-01-16 Torino-Spezia,ITA-SERIA_A,20-21,b1cc62a1
+89976232,Armando Izzo,5,ITA,CB,28-320,45,0,0,0,0,0,0,0,0,59,1,0,1,0.0,0.0,0.0,0,0,51,54,94.4,4,48,2,0,0,Torino,2021-01-16 Torino-Spezia,ITA-SERIA_A,20-21,b1cc62a1
+9592289a,Simone Zaza,11,ITA,FW,29-205,45,0,0,0,0,1,0,0,0,12,0,0,0,0.1,0.1,0.1,0,0,1,3,33.3,0,6,0,1,0,Torino,2021-01-16 Torino-Spezia,ITA-SERIA_A,20-21,b1cc62a1
+10dc46f0,Salvatore Sirigu,39,ITA,GK,34-004,90,0,0,0,0,0,0,0,0,27,0,0,0,0.0,0.0,0.0,0,0,22,24,91.7,0,19,0,0,0,Torino,2021-01-16 Torino-Spezia,ITA-SERIA_A,20-21,b1cc62a1
+1cadaf34,Roberto Piccoli,91,ITA,FW,19-355,86,0,0,0,0,1,1,0,0,28,1,0,1,0.1,0.1,0.0,0,0,8,14,57.1,0,12,0,1,1,Spezia,2021-01-16 Torino-Spezia,ITA-SERIA_A,20-21,b1cc62a1
+0a1efd3c,Andrey Galabinov,9,BUL,FW,32-050,4,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,1,1,Spezia,2021-01-16 Torino-Spezia,ITA-SERIA_A,20-21,b1cc62a1
+157d29b6,Diego Farias,17,BRA,"FW,LW",30-251,19,0,0,0,0,0,0,0,0,8,0,1,0,0.0,0.0,0.0,1,0,4,6,66.7,0,5,0,0,0,Spezia,2021-01-16 Torino-Spezia,ITA-SERIA_A,20-21,b1cc62a1
+cec60a2f,Nahuel Estévez,24,ARG,RM,25-063,71,0,0,0,0,2,1,0,0,41,2,0,2,0.1,0.1,0.0,1,0,16,30,53.3,1,17,1,0,0,Spezia,2021-01-16 Torino-Spezia,ITA-SERIA_A,20-21,b1cc62a1
+f9758dae,Emmanuel Gyasi,11,GHA,"FW,RM,RW",27-005,90,0,0,0,0,1,1,1,0,30,4,1,0,0.0,0.0,0.0,1,0,17,20,85.0,1,15,1,2,1,Spezia,2021-01-16 Torino-Spezia,ITA-SERIA_A,20-21,b1cc62a1
+55a1cac2,Tommaso Pobega,26,ITA,LM,21-185,86,0,0,0,0,1,0,1,0,32,2,1,0,0.0,0.0,0.1,4,0,14,20,70.0,2,16,2,1,0,Spezia,2021-01-16 Torino-Spezia,ITA-SERIA_A,20-21,b1cc62a1
+7f267d66,Alessandro Deiola,27,ITA,AM,25-168,4,0,0,0,0,0,0,0,0,2,1,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,1,0,0,0,Spezia,2021-01-16 Torino-Spezia,ITA-SERIA_A,20-21,b1cc62a1
+8bc8829a,Lucien Agoume,10,FRA,CM,18-342,90,0,0,0,0,0,0,0,0,47,2,1,1,0.0,0.0,0.0,0,0,32,35,91.4,1,29,0,0,0,Spezia,2021-01-16 Torino-Spezia,ITA-SERIA_A,20-21,b1cc62a1
+957e4c87,Giulio Maggiore,25,ITA,"RB,RM",22-310,86,0,0,0,0,0,0,0,0,66,4,2,2,0.0,0.0,0.0,0,0,40,56,71.4,1,33,1,0,0,Spezia,2021-01-16 Torino-Spezia,ITA-SERIA_A,20-21,b1cc62a1
+0fee6bda,Martin Erlic,28,CRO,RB,22-358,4,0,0,0,0,0,0,0,0,2,0,0,1,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Spezia,2021-01-16 Torino-Spezia,ITA-SERIA_A,20-21,b1cc62a1
+91d0fabf,Riccardo Marchizza,5,ITA,LB,22-296,80,0,0,0,0,1,0,1,0,54,4,1,0,0.1,0.1,0.0,1,0,31,40,77.5,0,28,2,2,1,Spezia,2021-01-16 Torino-Spezia,ITA-SERIA_A,20-21,b1cc62a1
+36d7971a,Juan Manuel Ramos,3,URU,LB,24-036,10,0,0,0,0,0,0,0,0,2,1,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,0,0,0,0,Spezia,2021-01-16 Torino-Spezia,ITA-SERIA_A,20-21,b1cc62a1
+ae7058f9,Julian Chabot,22,GER,CB,22-339,90,0,0,0,0,0,0,0,0,34,1,0,1,0.0,0.0,0.0,0,0,22,26,84.6,1,9,0,0,0,Spezia,2021-01-16 Torino-Spezia,ITA-SERIA_A,20-21,b1cc62a1
+5570e6fb,Claudio Terzi,19,ITA,CB,36-211,90,0,0,0,0,0,0,0,0,48,1,0,1,0.0,0.0,0.0,0,0,29,38,76.3,1,25,0,1,0,Spezia,2021-01-16 Torino-Spezia,ITA-SERIA_A,20-21,b1cc62a1
+c1e8e74e,Luca Vignali,69,ITA,RB,25-005,7,0,0,0,0,0,0,0,1,12,0,0,0,0.0,0.0,0.0,0,0,9,12,75.0,0,8,0,0,0,Spezia,2021-01-16 Torino-Spezia,ITA-SERIA_A,20-21,b1cc62a1
+277da414,Ivan Provedel,94,ITA,GK,26-305,90,0,0,0,0,0,0,0,0,40,0,0,0,0.0,0.0,0.0,0,0,29,40,72.5,0,21,0,0,0,Spezia,2021-01-16 Torino-Spezia,ITA-SERIA_A,20-21,b1cc62a1

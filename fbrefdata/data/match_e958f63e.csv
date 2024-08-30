@@ -1,0 +1,31 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+e5bf73f3,Musa Barrow,99,GAM,FW,22-063,75,0,0,0,0,5,2,0,0,51,0,0,0,0.2,0.2,0.2,5,0,19,30,63.3,0,24,3,3,1,Bologna,2021-01-16 Bologna-Hellas Verona,ITA-SERIA_A,20-21,e958f63e
+8d8178ac,Rodrigo Palacio,24,ARG,FW,38-346,15,0,0,0,0,0,0,0,0,12,0,0,0,0.0,0.0,0.0,0,0,6,10,60.0,1,8,0,1,1,Bologna,2021-01-16 Bologna-Hellas Verona,ITA-SERIA_A,20-21,e958f63e
+ec5dae45,Emanuel Vignato,55,ITA,LW,20-145,83,0,0,0,0,2,0,0,0,60,1,0,0,0.1,0.1,0.2,6,0,36,53,67.9,2,38,2,0,0,Bologna,2021-01-16 Bologna-Hellas Verona,ITA-SERIA_A,20-21,e958f63e
+7eb97a8e,Nicola Sansone,10,ITA,LW,29-128,7,0,0,0,0,0,0,0,0,5,1,1,0,0.0,0.0,0.0,0,0,1,3,33.3,0,4,1,1,1,Bologna,2021-01-16 Bologna-Hellas Verona,ITA-SERIA_A,20-21,e958f63e
+e14ec482,Riccardo Orsolini,7,ITA,RW,23-358,75,1,0,1,1,5,2,0,0,32,2,0,0,1.1,0.5,0.1,4,1,15,23,65.2,2,20,2,3,3,Bologna,2021-01-16 Bologna-Hellas Verona,ITA-SERIA_A,20-21,e958f63e
+c50cee19,Andreas Skov Olsen,11,DEN,RW,21-018,15,0,0,0,0,1,0,0,0,9,0,0,0,0.1,0.1,0.3,1,0,6,8,75.0,1,4,0,0,0,Bologna,2021-01-16 Bologna-Hellas Verona,ITA-SERIA_A,20-21,e958f63e
+9d4c45d6,Roberto Soriano,21,ITA,AM,29-343,90,0,0,0,0,3,0,0,0,74,1,0,2,0.2,0.2,0.0,4,1,49,67,73.1,4,51,0,3,3,Bologna,2021-01-16 Bologna-Hellas Verona,ITA-SERIA_A,20-21,e958f63e
+20b3a502,Nicolás Domínguez,8,ARG,DM,22-202,74,0,0,0,0,1,0,1,0,52,1,2,1,0.1,0.1,0.0,2,0,37,45,82.2,5,32,1,0,0,Bologna,2021-01-16 Bologna-Hellas Verona,ITA-SERIA_A,20-21,e958f63e
+92d83c27,Mattias Svanberg,32,SWE,DM,22-011,16,0,0,0,0,1,0,0,0,10,0,3,1,0.3,0.3,0.0,1,0,4,4,100.0,0,5,1,1,0,Bologna,2021-01-16 Bologna-Hellas Verona,ITA-SERIA_A,20-21,e958f63e
+2cfae697,Jerdy Schouten,30,NED,DM,24-004,90,0,0,0,0,0,0,0,0,44,1,1,2,0.0,0.0,0.4,3,0,33,37,89.2,4,22,0,2,0,Bologna,2021-01-16 Bologna-Hellas Verona,ITA-SERIA_A,20-21,e958f63e
+0a3065c8,Mitchell Dijks,35,NED,LB,27-342,90,0,0,0,0,0,0,1,0,60,4,1,0,0.0,0.0,0.0,0,0,30,47,63.8,3,37,4,8,4,Bologna,2021-01-16 Bologna-Hellas Verona,ITA-SERIA_A,20-21,e958f63e
+b3af9be1,Takehiro Tomiyasu,14,JPN,CB,22-072,90,0,0,0,0,0,0,0,0,47,2,4,2,0.0,0.0,0.0,2,0,23,36,63.9,2,18,1,0,0,Bologna,2021-01-16 Bologna-Hellas Verona,ITA-SERIA_A,20-21,e958f63e
+fed5f993,Danilo Larangeira,23,BRA,CB,36-251,90,0,0,0,0,1,0,0,0,52,1,2,1,0.0,0.0,0.0,0,0,33,45,73.3,4,31,0,0,0,Bologna,2021-01-16 Bologna-Hellas Verona,ITA-SERIA_A,20-21,e958f63e
+e74f0e59,Lorenzo De Silvestri,29,ITA,RB,32-238,90,0,0,0,0,0,0,0,0,53,4,0,1,0.0,0.0,0.1,3,0,33,44,75.0,5,30,1,0,0,Bologna,2021-01-16 Bologna-Hellas Verona,ITA-SERIA_A,20-21,e958f63e
+ab4449d6,Łukasz Skorupski,28,POL,GK,29-256,90,0,0,0,0,0,0,0,0,28,0,0,0,0.0,0.0,0.0,0,0,20,26,76.9,0,12,0,0,0,Bologna,2021-01-16 Bologna-Hellas Verona,ITA-SERIA_A,20-21,e958f63e
+d4931a5a,Nikola Kalinić,29,CRO,FW,33-011,68,0,0,0,0,1,1,0,0,16,0,0,0,0.4,0.4,0.0,0,0,8,11,72.7,2,8,0,1,0,Hellas Verona,2021-01-16 Bologna-Hellas Verona,ITA-SERIA_A,20-21,e958f63e
+ef94dc2f,Samuel Di Carmine,10,ITA,FW,32-109,22,0,0,0,0,1,0,0,0,6,0,0,0,0.1,0.1,0.0,0,0,3,5,60.0,0,4,1,0,0,Hellas Verona,2021-01-16 Bologna-Hellas Verona,ITA-SERIA_A,20-21,e958f63e
+d85c238b,Mattia Zaccagni,20,ITA,AM,25-214,90,0,0,0,0,1,0,1,0,28,1,0,0,0.1,0.1,0.0,1,0,15,20,75.0,3,22,1,2,1,Hellas Verona,2021-01-16 Bologna-Hellas Verona,ITA-SERIA_A,20-21,e958f63e
+01efac19,Antonín Barák,7,CZE,"AM,CM",26-044,90,0,0,0,0,0,0,0,0,58,1,0,2,0.0,0.0,0.1,2,0,42,53,79.2,6,32,2,1,1,Hellas Verona,2021-01-16 Bologna-Hellas Verona,ITA-SERIA_A,20-21,e958f63e
+bb376bed,Ivan Ilić,14,SRB,CM,19-305,90,0,0,0,0,1,0,0,0,69,1,1,1,0.0,0.0,0.0,3,0,52,61,85.2,9,38,4,3,3,Hellas Verona,2021-01-16 Bologna-Hellas Verona,ITA-SERIA_A,20-21,e958f63e
+5128bde4,Darko Lazović,8,SRB,"CM,WB",30-123,90,0,0,0,0,1,0,0,0,62,1,1,2,0.1,0.1,0.1,1,0,46,54,85.2,3,36,2,1,1,Hellas Verona,2021-01-16 Bologna-Hellas Verona,ITA-SERIA_A,20-21,e958f63e
+970b8574,Federico Dimarco,3,ITA,WB,23-067,72,0,0,0,0,0,0,0,0,52,0,1,0,0.0,0.0,0.0,1,0,31,48,64.6,4,26,2,0,0,Hellas Verona,2021-01-16 Bologna-Hellas Verona,ITA-SERIA_A,20-21,e958f63e
+bf356094,Ebrima Colley,90,GAM,AM,20-350,18,0,0,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.0,2,0,5,9,55.6,1,9,0,0,0,Hellas Verona,2021-01-16 Bologna-Hellas Verona,ITA-SERIA_A,20-21,e958f63e
+aae9d04a,Davide Faraoni,5,ITA,WB,29-083,90,0,0,0,0,1,0,0,0,83,7,3,2,0.0,0.0,0.0,3,0,39,58,67.2,5,30,0,3,1,Hellas Verona,2021-01-16 Bologna-Hellas Verona,ITA-SERIA_A,20-21,e958f63e
+cce9f582,Giangiacomo Magnani,23,ITA,CB,25-104,90,0,0,0,0,1,0,0,0,60,0,3,0,0.0,0.0,0.0,1,0,39,51,76.5,3,27,2,0,0,Hellas Verona,2021-01-16 Bologna-Hellas Verona,ITA-SERIA_A,20-21,e958f63e
+f1f1f238,Koray Günter,21,GER,CB,26-153,90,0,0,0,0,0,0,0,0,75,0,6,1,0.0,0.0,0.0,0,0,45,56,80.4,6,31,0,1,1,Hellas Verona,2021-01-16 Bologna-Hellas Verona,ITA-SERIA_A,20-21,e958f63e
+16bb656a,Paweł Dawidowicz,27,POL,CB,25-241,88,0,0,0,0,1,0,0,0,63,3,0,2,0.0,0.0,0.4,1,0,44,52,84.6,4,38,2,0,0,Hellas Verona,2021-01-16 Bologna-Hellas Verona,ITA-SERIA_A,20-21,e958f63e
+88895312,Daniel Bessa,40,ITA,CB,28-002,2,0,0,0,0,0,0,0,0,7,1,0,1,0.0,0.0,0.0,0,0,4,4,100.0,1,4,0,0,0,Hellas Verona,2021-01-16 Bologna-Hellas Verona,ITA-SERIA_A,20-21,e958f63e
+0d422df7,Marco Silvestri,1,ITA,GK,29-320,90,0,0,0,0,0,0,0,0,35,0,0,0,0.0,0.0,0.0,0,0,14,32,43.8,0,16,0,0,0,Hellas Verona,2021-01-16 Bologna-Hellas Verona,ITA-SERIA_A,20-21,e958f63e

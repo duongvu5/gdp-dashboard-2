@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+42fdb11d,Frank Magri,19,CMR,"FW,LW",24-090,90,0,0,0,0,1,0,0,0,26,0,0,0,0.0,0.0,0.1,1,0,17,20,85.0,3,21,2,4,1,Toulouse,2023-12-03 Toulouse-Lorient,FRA-L1,23-24,50bf0584
+abddf25d,Ibrahim Cissoko,10,NED,LW,20-252,61,0,0,0,0,3,1,0,0,28,1,1,0,0.2,0.2,0.0,2,0,19,22,86.4,4,24,5,3,3,Toulouse,2023-12-03 Toulouse-Lorient,FRA-L1,23-24,50bf0584
+b70afb45,Thijs Dallinga,9,NED,FW,23-122,29,1,0,0,0,3,1,0,0,20,0,0,0,0.6,0.6,0.0,0,0,9,16,56.3,1,20,1,0,0,Toulouse,2023-12-03 Toulouse-Lorient,FRA-L1,23-24,50bf0584
+10cff752,Aron Dønnum,15,NOR,RW,25-227,79,0,0,0,0,3,3,1,0,53,2,1,2,0.2,0.2,0.0,1,0,34,42,81.0,3,40,5,2,1,Toulouse,2023-12-03 Toulouse-Lorient,FRA-L1,23-24,50bf0584
+5e6355f8,Yanis Begraoui,14,MAR,RW,22-152,11,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,4,5,80.0,1,5,1,1,1,Toulouse,2023-12-03 Toulouse-Lorient,FRA-L1,23-24,50bf0584
+b9ae8560,Niklas Schmidt,20,GER,AM,25-277,79,0,0,0,0,1,1,0,0,51,3,0,0,0.0,0.0,0.1,2,0,32,42,76.2,11,42,1,2,0,Toulouse,2023-12-03 Toulouse-Lorient,FRA-L1,23-24,50bf0584
+f86fe8c1,Cristian Cásseres Jr.,24,VEN,DM,23-317,11,0,0,0,0,0,0,0,0,4,0,0,1,0.0,0.0,0.0,0,0,1,2,50.0,0,1,0,0,0,Toulouse,2023-12-03 Toulouse-Lorient,FRA-L1,23-24,50bf0584
+92ffb8f9,Vincent Sierro,8,SUI,"DM,AM",28-056,90,0,0,0,0,0,0,1,0,74,3,0,2,0.0,0.0,0.0,1,0,44,58,75.9,9,46,1,2,2,Toulouse,2023-12-03 Toulouse-Lorient,FRA-L1,23-24,50bf0584
+a08985b8,Stijn Spierings,4,NED,DM,27-266,90,0,0,0,0,0,0,0,0,86,3,4,2,0.0,0.0,0.2,8,1,64,71,90.1,11,63,0,2,1,Toulouse,2023-12-03 Toulouse-Lorient,FRA-L1,23-24,50bf0584
+39b326ed,Gabriel Suazo,17,CHI,LB,26-116,79,0,1,0,0,0,0,0,0,49,4,1,1,0.0,0.0,0.6,2,1,29,40,72.5,2,32,3,1,1,Toulouse,2023-12-03 Toulouse-Lorient,FRA-L1,23-24,50bf0584
+698f11e3,Moussa Diarra,23,MLI,LB,23-023,11,0,0,0,0,0,0,0,0,6,1,0,0,0.0,0.0,0.0,0,0,3,4,75.0,1,2,0,0,0,Toulouse,2023-12-03 Toulouse-Lorient,FRA-L1,23-24,50bf0584
+3f319bb9,Rasmus Nicolaisen,2,DEN,CB,26-262,90,0,0,0,0,0,0,0,0,48,0,4,0,0.0,0.0,0.0,0,0,33,36,91.7,1,30,0,0,0,Toulouse,2023-12-03 Toulouse-Lorient,FRA-L1,23-24,50bf0584
+bfb2056e,Logan Costa,6,CPV,CB,22-246,90,0,0,0,0,0,0,0,0,66,3,2,1,0.0,0.0,0.0,0,0,48,56,85.7,5,51,1,0,0,Toulouse,2023-12-03 Toulouse-Lorient,FRA-L1,23-24,50bf0584
+1d5c96f8,Mikkel Desler,3,DEN,RB,28-287,30,0,0,0,0,0,0,0,0,22,1,2,0,0.0,0.0,0.0,2,0,15,19,78.9,0,16,0,0,0,Toulouse,2023-12-03 Toulouse-Lorient,FRA-L1,23-24,50bf0584
+a426a912,Waren Kamanzi,12,NOR,RB,23-022,60,0,0,0,0,0,0,0,0,57,2,0,0,0.0,0.0,0.0,1,0,44,48,91.7,2,38,1,0,0,Toulouse,2023-12-03 Toulouse-Lorient,FRA-L1,23-24,50bf0584
+6b91b999,Guillaume Restes,50,FRA,GK,18-267,90,0,0,0,0,0,0,0,0,29,0,0,0,0.0,0.0,0.0,0,0,24,28,85.7,0,19,0,0,0,Toulouse,2023-12-03 Toulouse-Lorient,FRA-L1,23-24,50bf0584
+b2fe86e5,Eli Junior Kroupi,22,FRA,FW,17-163,79,0,0,0,0,1,1,0,0,21,0,2,0,0.1,0.1,0.0,0,0,10,12,83.3,0,11,0,0,0,Lorient,2023-12-03 Toulouse-Lorient,FRA-L1,23-24,50bf0584
+afe39ca8,Théo Le Bris,37,FRA,RM,21-063,11,0,1,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.2,2,1,5,6,83.3,1,4,0,1,0,Lorient,2023-12-03 Toulouse-Lorient,FRA-L1,23-24,50bf0584
+92d90c8f,Siriné Doucouré,29,MLI,FW,21-239,65,0,0,0,0,1,1,0,0,26,0,0,0,0.1,0.1,0.2,4,0,13,17,76.5,1,21,2,3,1,Lorient,2023-12-03 Toulouse-Lorient,FRA-L1,23-24,50bf0584
+40774c6b,Bamba Dieng,11,SEN,FW,23-255,25,1,0,0,0,2,1,0,0,11,0,0,0,0.3,0.3,0.1,2,1,4,5,80.0,1,8,0,1,0,Lorient,2023-12-03 Toulouse-Lorient,FRA-L1,23-24,50bf0584
+22bfb57e,Jean-Victor Makengo,17,FRA,LM,25-174,65,0,0,0,0,1,1,0,0,43,1,1,3,0.2,0.2,0.0,0,0,27,31,87.1,5,34,3,5,1,Lorient,2023-12-03 Toulouse-Lorient,FRA-L1,23-24,50bf0584
+5271c8f1,Benjamin Mendy,5,FRA,LM,29-139,25,0,0,0,0,1,0,1,0,21,0,1,0,0.0,0.0,0.0,0,0,10,20,50.0,1,13,1,0,0,Lorient,2023-12-03 Toulouse-Lorient,FRA-L1,23-24,50bf0584
+59bf127b,Tiemoué Bakayoko,14,FRA,CM,29-108,54,0,0,0,0,0,0,1,0,31,0,3,0,0.0,0.0,0.0,0,0,24,28,85.7,3,26,0,0,0,Lorient,2023-12-03 Toulouse-Lorient,FRA-L1,23-24,50bf0584
+e546b2e3,Julien Ponceau,21,FRA,CM,23-005,36,0,0,0,0,0,0,1,0,31,0,0,1,0.0,0.0,0.0,1,0,22,27,81.5,2,17,0,1,0,Lorient,2023-12-03 Toulouse-Lorient,FRA-L1,23-24,50bf0584
+31626657,Laurent Abergel,19,FRA,CM,30-305,90,0,0,0,0,0,0,0,0,60,4,2,1,0.0,0.0,0.0,0,0,44,51,86.3,5,48,0,2,1,Lorient,2023-12-03 Toulouse-Lorient,FRA-L1,23-24,50bf0584
+745ca0a3,Romain Faivre,10,FRA,"RM,FW",25-142,90,0,0,0,0,3,1,0,0,47,2,1,0,0.1,0.1,0.1,4,0,23,32,71.9,6,38,6,8,4,Lorient,2023-12-03 Toulouse-Lorient,FRA-L1,23-24,50bf0584
+061266cd,Darlin Yongwa,12,CMR,LB,23-072,78,0,0,0,0,1,0,0,0,52,1,2,2,0.1,0.1,0.0,3,0,34,42,81.0,5,38,2,2,1,Lorient,2023-12-03 Toulouse-Lorient,FRA-L1,23-24,50bf0584
+2321ea6e,Vincent Le Goff,25,FRA,LB,34-049,12,0,0,0,0,0,0,0,0,10,0,0,1,0.0,0.0,0.0,2,0,7,9,77.8,3,6,0,0,0,Lorient,2023-12-03 Toulouse-Lorient,FRA-L1,23-24,50bf0584
+a4a44eb0,Montassar Talbi,3,TUN,CB,25-191,90,0,0,0,0,0,0,1,0,60,1,1,2,0.0,0.0,0.0,0,0,43,51,84.3,5,45,2,2,2,Lorient,2023-12-03 Toulouse-Lorient,FRA-L1,23-24,50bf0584
+f066022d,Julien Laporte,15,FRA,CB,30-029,90,0,0,0,0,1,0,0,0,64,2,1,2,0.1,0.1,0.0,1,0,49,54,90.7,2,49,0,0,0,Lorient,2023-12-03 Toulouse-Lorient,FRA-L1,23-24,50bf0584
+dd211559,Gedeon Kalulu,24,COD,RB,26-096,90,0,0,0,0,0,0,0,0,72,3,0,4,0.0,0.0,0.0,1,0,51,57,89.5,3,46,3,2,0,Lorient,2023-12-03 Toulouse-Lorient,FRA-L1,23-24,50bf0584
+dc29b608,Yvon Mvogo,38,SUI,GK,29-180,90,0,0,0,0,0,0,0,0,34,0,0,0,0.0,0.0,0.0,0,0,25,33,75.8,0,29,0,0,0,Lorient,2023-12-03 Toulouse-Lorient,FRA-L1,23-24,50bf0584

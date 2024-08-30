@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+dea698d9,Cristiano Ronaldo,7,POR,"FW,LW",33-350,90,0,0,0,1,7,1,0,0,47,1,0,0,1.6,0.8,0.1,5,0,30,31,96.8,7,30,4,2,0,Juventus,2019-01-21 Juventus-Chievo,ITA-SERIA_A,18-19,9cd281ef
+e0921a4f,Paulo Dybala,10,ARG,"FW,RW",25-067,90,0,2,0,0,3,2,0,0,92,0,2,0,0.1,0.1,0.9,12,3,76,84,90.5,12,68,5,4,3,Juventus,2019-01-21 Juventus-Chievo,ITA-SERIA_A,18-19,9cd281ef
+ee93c1a9,Federico Bernardeschi,33,ITA,"LM,RM",24-339,85,0,1,0,0,6,2,0,0,75,1,0,2,0.3,0.3,0.3,7,1,46,60,76.7,6,43,4,3,2,Juventus,2019-01-21 Juventus-Chievo,ITA-SERIA_A,18-19,9cd281ef
+3626daea,Leonardo Spinazzola,37,ITA,"LB,RM",25-302,5,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,4,5,80.0,0,4,1,0,0,Juventus,2019-01-21 Juventus-Chievo,ITA-SERIA_A,18-19,9cd281ef
+c0cddebe,Blaise Matuidi,14,FRA,"CM,LM",31-287,90,0,0,0,0,0,0,0,0,78,1,0,3,0.0,0.0,0.1,5,2,66,72,91.7,7,40,1,3,3,Juventus,2019-01-21 Juventus-Chievo,ITA-SERIA_A,18-19,9cd281ef
+a65ce836,Emre Can,23,GER,CM,25-009,90,1,0,0,0,2,1,0,0,76,7,0,0,0.4,0.4,0.4,8,0,62,67,92.5,5,45,3,1,1,Juventus,2019-01-21 Juventus-Chievo,ITA-SERIA_A,18-19,9cd281ef
+4fa7cb9b,Douglas Costa,11,BRA,RM,28-129,75,1,0,0,0,3,1,0,0,67,0,0,1,0.1,0.1,0.4,5,0,48,56,85.7,6,36,4,3,2,Juventus,2019-01-21 Juventus-Chievo,ITA-SERIA_A,18-19,9cd281ef
+3b8674e6,Rodrigo Bentancur,30,URU,"CM,RM",21-210,15,0,0,0,0,0,0,0,0,13,0,0,0,0.0,0.0,0.0,0,0,10,12,83.3,1,6,1,1,0,Juventus,2019-01-21 Juventus-Chievo,ITA-SERIA_A,18-19,9cd281ef
+0d82903c,Alex Sandro,12,BRA,LB,27-360,88,0,0,0,0,1,1,0,0,94,1,0,0,0.4,0.4,0.0,4,0,71,83,85.5,12,52,3,3,1,Juventus,2019-01-21 Juventus-Chievo,ITA-SERIA_A,18-19,9cd281ef
+3d50bcdb,Moise Kean,18,ITA,FW,18-327,2,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,3,4,75.0,0,3,0,0,0,Juventus,2019-01-21 Juventus-Chievo,ITA-SERIA_A,18-19,9cd281ef
+e85fb9b8,Giorgio Chiellini,3,ITA,CB,34-160,90,0,0,0,0,0,0,0,0,70,0,2,0,0.0,0.0,0.0,0,0,52,63,82.5,1,37,0,0,0,Juventus,2019-01-21 Juventus-Chievo,ITA-SERIA_A,18-19,9cd281ef
+14b8fcdf,Daniele Rugani,24,ITA,CB,24-176,90,1,0,0,0,2,1,0,0,54,2,0,0,0.4,0.4,0.0,0,0,47,50,94.0,1,35,0,0,0,Juventus,2019-01-21 Juventus-Chievo,ITA-SERIA_A,18-19,9cd281ef
+ae4e2852,Mattia De Sciglio,2,ITA,RB,26-093,90,0,0,0,0,1,0,1,0,95,2,3,0,0.0,0.0,0.0,2,0,82,86,95.3,7,51,3,0,0,Juventus,2019-01-21 Juventus-Chievo,ITA-SERIA_A,18-19,9cd281ef
+4c62d0c8,Mattia Perin,22,ITA,GK,26-072,90,0,0,0,0,0,0,0,0,22,0,0,0,0.0,0.0,0.0,0,0,16,20,80.0,0,10,0,0,0,Juventus,2019-01-21 Juventus-Chievo,ITA-SERIA_A,18-19,9cd281ef
+878ee034,Sergio Pellissier,31,ITA,FW,39-284,64,0,0,0,0,1,0,0,0,17,0,1,0,0.0,0.0,0.0,0,0,9,10,90.0,0,9,1,1,1,Chievo,2019-01-21 Juventus-Chievo,ITA-SERIA_A,18-19,9cd281ef
+7b536033,Mariusz Stępiński,9,POL,FW,23-254,26,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,3,4,75.0,0,4,0,0,0,Chievo,2019-01-21 Juventus-Chievo,ITA-SERIA_A,18-19,9cd281ef
+2ec0f902,Riccardo Meggiorini,69,ITA,FW,33-139,90,0,0,0,0,2,2,0,0,21,1,2,0,0.3,0.3,0.1,2,0,10,14,71.4,2,8,0,0,0,Chievo,2019-01-21 Juventus-Chievo,ITA-SERIA_A,18-19,9cd281ef
+1c50f354,Emanuele Giaccherini,17,ITA,"AM,LM",33-261,90,0,0,0,0,0,0,0,0,67,1,2,1,0.0,0.0,0.3,5,0,41,57,71.9,3,44,3,3,1,Chievo,2019-01-21 Juventus-Chievo,ITA-SERIA_A,18-19,9cd281ef
+023937a9,Ivan Radovanović,8,SRB,CM,30-145,90,0,0,0,0,3,0,0,0,80,0,0,1,0.1,0.1,0.0,1,0,63,74,85.1,6,47,0,0,0,Chievo,2019-01-21 Juventus-Chievo,ITA-SERIA_A,18-19,9cd281ef
+90b70194,Përparim Hetemaj,56,FIN,"CM,RM",32-040,60,0,0,0,0,0,0,0,0,55,4,0,0,0.0,0.0,0.0,1,0,42,49,85.7,7,37,4,0,0,Chievo,2019-01-21 Juventus-Chievo,ITA-SERIA_A,18-19,9cd281ef
+ec5dae45,Emanuel Vignato,55,ITA,"AM,RM",18-150,30,0,0,0,0,0,0,0,0,14,0,0,0,0.0,0.0,0.0,3,0,14,14,100.0,1,11,1,0,0,Chievo,2019-01-21 Juventus-Chievo,ITA-SERIA_A,18-19,9cd281ef
+ce1806be,Sofian Kiyine,13,MAR,"LM,WB,RM",21-111,90,0,0,0,0,2,0,1,0,44,5,2,1,0.0,0.0,0.0,2,0,28,36,77.8,2,29,3,5,5,Chievo,2019-01-21 Juventus-Chievo,ITA-SERIA_A,18-19,9cd281ef
+d97f2e8d,Fabio Depaoli,27,ITA,"RB,WB",21-272,65,0,0,0,0,0,0,0,0,44,1,1,3,0.0,0.0,0.0,1,0,25,32,78.1,1,24,1,1,1,Chievo,2019-01-21 Juventus-Chievo,ITA-SERIA_A,18-19,9cd281ef
+958a601f,Paweł Jaroszyński,44,POL,LB,24-111,25,0,0,0,0,0,0,0,0,15,1,0,0,0.0,0.0,0.0,0,0,8,12,66.7,0,8,1,0,0,Chievo,2019-01-21 Juventus-Chievo,ITA-SERIA_A,18-19,9cd281ef
+6aafdc27,Nenad Tomović,40,SRB,"LB,CB,RB",31-144,90,0,0,0,0,0,0,0,0,54,1,0,1,0.0,0.0,0.0,2,0,41,49,83.7,5,32,0,0,0,Chievo,2019-01-21 Juventus-Chievo,ITA-SERIA_A,18-19,9cd281ef
+47a500ae,Luca Rossettini,15,ITA,CB,33-257,90,0,0,0,0,1,1,0,0,38,2,2,0,0.0,0.0,0.0,0,0,29,33,87.9,1,16,0,0,0,Chievo,2019-01-21 Juventus-Chievo,ITA-SERIA_A,18-19,9cd281ef
+0821331c,Mattia Bani,14,ITA,CB,25-042,90,0,0,0,0,0,0,1,0,42,2,2,5,0.0,0.0,0.0,1,0,22,27,81.5,2,18,0,0,0,Chievo,2019-01-21 Juventus-Chievo,ITA-SERIA_A,18-19,9cd281ef
+048877f5,Stefano Sorrentino,70,ITA,GK,39-299,90,0,0,0,0,0,0,0,0,31,0,0,0,0.0,0.0,0.0,0,0,18,26,69.2,0,12,0,0,0,Chievo,2019-01-21 Juventus-Chievo,ITA-SERIA_A,18-19,9cd281ef

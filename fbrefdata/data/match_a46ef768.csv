@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+8652a85c,Loïs Openda,11,BEL,FW,22-192,76,1,0,0,0,3,2,0,0,24,1,0,0,0.5,0.5,0.0,3,0,9,17,52.9,2,17,2,0,0,Lens,2022-08-27 Lens-Rennes,FRA-L1,22-23,a46ef768
+23c63b7f,Ignatius Ganago,9,CMR,FW,23-192,14,0,0,0,0,1,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,3,3,100.0,2,3,0,0,0,Lens,2022-08-27 Lens-Rennes,FRA-L1,22-23,a46ef768
+59948ef7,David Pereira da Costa,20,POR,LW,21-234,76,0,0,0,0,2,0,0,0,40,0,2,0,0.1,0.1,0.0,3,1,28,33,84.8,7,38,4,2,2,Lens,2022-08-27 Lens-Rennes,FRA-L1,22-23,a46ef768
+90fcf472,Wesley Saïd,22,FRA,LW,27-130,14,0,0,0,0,1,0,0,0,5,0,0,1,0.0,0.0,0.0,0,0,2,2,100.0,0,3,0,1,0,Lens,2022-08-27 Lens-Rennes,FRA-L1,22-23,a46ef768
+7a42d0df,Florian Sotoca,7,FRA,RW,31-306,82,0,1,0,0,3,1,0,0,37,0,3,1,0.2,0.2,0.4,6,1,26,30,86.7,6,32,1,1,0,Lens,2022-08-27 Lens-Rennes,FRA-L1,22-23,a46ef768
+e4114f5d,Patrick Berg,6,NOR,RW,24-276,8,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,1,0,3,3,100.0,1,3,0,1,0,Lens,2022-08-27 Lens-Rennes,FRA-L1,22-23,a46ef768
+b3f8bdef,Deiver Machado,3,COL,LM,28-359,87,0,0,0,0,3,0,0,0,52,5,3,1,0.1,0.1,0.0,1,0,31,36,86.1,2,30,1,1,1,Lens,2022-08-27 Lens-Rennes,FRA-L1,22-23,a46ef768
+5167c97e,Massadio Haïdara,21,MLI,LM,29-268,3,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,1,4,25.0,0,1,0,0,0,Lens,2022-08-27 Lens-Rennes,FRA-L1,22-23,a46ef768
+5313ed43,Seko Fofana,8,CIV,CM,27-112,90,1,0,0,0,2,1,0,0,72,3,1,1,0.1,0.1,0.4,5,1,55,59,93.2,6,55,3,2,1,Lens,2022-08-27 Lens-Rennes,FRA-L1,22-23,a46ef768
+82464ce3,Salis Abdul Samed,26,GHA,CM,22-154,90,0,0,0,0,0,0,0,0,75,1,0,2,0.0,0.0,0.0,1,0,59,67,88.1,3,61,0,2,1,Lens,2022-08-27 Lens-Rennes,FRA-L1,22-23,a46ef768
+00a8d210,Przemysław Frankowski,29,POL,RM,27-137,87,0,0,0,0,1,0,0,0,61,1,2,0,0.0,0.0,0.0,4,0,39,54,72.2,3,39,1,0,0,Lens,2022-08-27 Lens-Rennes,FRA-L1,22-23,a46ef768
+46359159,Jimmy Cabot,19,FRA,RM,28-131,3,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,1,0,1,2,50.0,0,1,0,0,0,Lens,2022-08-27 Lens-Rennes,FRA-L1,22-23,a46ef768
+6f5ec8bb,Facundo Medina,14,ARG,CB,23-091,90,0,0,0,0,1,0,0,0,100,1,2,0,0.3,0.3,0.0,1,0,77,89,86.5,7,77,0,0,0,Lens,2022-08-27 Lens-Rennes,FRA-L1,22-23,a46ef768
+6e33125f,Kevin Danso,4,AUT,CB,23-342,90,0,0,0,0,0,0,0,0,61,0,1,1,0.0,0.0,0.0,0,0,48,52,92.3,0,45,0,0,0,Lens,2022-08-27 Lens-Rennes,FRA-L1,22-23,a46ef768
+06c48679,Jonathan Gradit,24,FRA,CB,29-276,90,0,1,0,0,0,0,0,0,82,3,3,3,0.0,0.0,0.1,3,1,64,69,92.8,5,62,0,2,1,Lens,2022-08-27 Lens-Rennes,FRA-L1,22-23,a46ef768
+60d90c55,Brice Samba,30,FRA,GK,28-124,90,0,0,0,0,0,0,0,0,29,0,0,0,0.0,0.0,0.0,0,0,16,25,64.0,0,21,0,0,0,Lens,2022-08-27 Lens-Rennes,FRA-L1,22-23,a46ef768
+5148dcc5,Martin Terrier,7,FRA,"FW,LW",25-176,90,0,0,0,0,1,1,0,0,33,2,0,0,0.0,0.0,0.0,3,0,17,28,60.7,2,22,0,1,0,Rennes,2022-08-27 Lens-Rennes,FRA-L1,22-23,a46ef768
+20e73fac,Benjamin Bourigeaud,14,FRA,"LW,RW",28-225,70,0,0,0,0,0,0,0,0,35,0,4,0,0.0,0.0,0.0,1,0,15,25,60.0,3,28,1,0,0,Rennes,2022-08-27 Lens-Rennes,FRA-L1,22-23,a46ef768
+a62f8bf1,Kamaldeen Sulemana,10,GHA,RW,20-193,20,0,0,0,0,1,0,0,0,18,1,1,0,0.1,0.1,0.0,0,0,7,10,70.0,2,11,3,2,1,Rennes,2022-08-27 Lens-Rennes,FRA-L1,22-23,a46ef768
+fffea3e5,Jeremy Doku,11,BEL,RW,20-092,60,0,0,0,0,1,1,0,0,26,1,1,0,0.1,0.1,0.0,1,0,12,15,80.0,0,22,2,6,3,Rennes,2022-08-27 Lens-Rennes,FRA-L1,22-23,a46ef768
+7cdda3bf,Gaëtan Laborde,24,FRA,FW,28-116,30,1,0,0,0,3,2,0,0,12,0,0,0,0.5,0.5,0.0,3,1,4,8,50.0,0,8,1,0,0,Rennes,2022-08-27 Lens-Rennes,FRA-L1,22-23,a46ef768
+a0f9b535,Flavien Tait,20,FRA,LM,29-206,90,0,0,0,0,4,1,0,0,65,0,0,2,0.3,0.3,0.2,4,0,45,57,78.9,6,57,6,5,3,Rennes,2022-08-27 Lens-Rennes,FRA-L1,22-23,a46ef768
+5e22e2a4,Baptiste Santamaria,8,FRA,CM,27-171,90,0,0,0,0,0,0,0,0,79,1,0,0,0.0,0.0,0.1,3,0,62,73,84.9,9,60,0,1,1,Rennes,2022-08-27 Lens-Rennes,FRA-L1,22-23,a46ef768
+9e7483ff,Désiré Doué,33,FRA,RM,17-085,81,0,0,0,0,1,1,1,0,38,3,3,1,0.0,0.0,0.0,3,0,18,22,81.8,1,29,3,0,0,Rennes,2022-08-27 Lens-Rennes,FRA-L1,22-23,a46ef768
+0e46fa2f,Matthis Abline,28,FRA,RM,19-152,9,0,0,0,0,0,0,0,0,2,0,1,0,0.0,0.0,0.1,1,0,1,1,100.0,1,1,1,0,0,Rennes,2022-08-27 Lens-Rennes,FRA-L1,22-23,a46ef768
+5d0e0a1f,Adrien Truffert,3,FRA,LB,20-280,81,0,0,0,0,1,0,0,0,59,1,1,2,0.0,0.0,0.0,2,0,46,51,90.2,5,42,3,2,1,Rennes,2022-08-27 Lens-Rennes,FRA-L1,22-23,a46ef768
+70c52749,Birger Meling,25,NOR,LB,27-253,9,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,0,0,9,10,90.0,0,9,0,0,0,Rennes,2022-08-27 Lens-Rennes,FRA-L1,22-23,a46ef768
+df8d6029,Arthur Theate,5,BEL,CB,22-094,90,0,0,0,0,0,0,0,0,76,1,1,1,0.0,0.0,0.0,1,0,62,67,92.5,9,60,4,0,0,Rennes,2022-08-27 Lens-Rennes,FRA-L1,22-23,a46ef768
+8d62d31a,Joe Rodon,2,WAL,CB,24-309,90,0,0,0,0,0,0,0,0,69,0,0,2,0.0,0.0,0.0,0,0,55,61,90.2,3,51,0,0,0,Rennes,2022-08-27 Lens-Rennes,FRA-L1,22-23,a46ef768
+a4b1028a,Hamari Traoré,27,MLI,RB,30-212,90,0,0,0,0,0,0,0,0,77,1,1,1,0.0,0.0,0.0,1,0,60,70,85.7,2,51,0,0,0,Rennes,2022-08-27 Lens-Rennes,FRA-L1,22-23,a46ef768
+9e17ccff,Doğan Alemdar,1,TUR,GK,19-302,90,0,0,0,0,0,0,0,0,35,0,0,0,0.0,0.0,0.0,0,0,25,34,73.5,0,20,0,0,0,Rennes,2022-08-27 Lens-Rennes,FRA-L1,22-23,a46ef768

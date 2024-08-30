@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+6605d143,Habib Diallo,28,SEN,FW,25-248,90,0,0,0,0,3,1,0,0,32,1,0,1,0.2,0.2,0.0,0,0,13,21,61.9,1,19,0,2,0,Strasbourg,2021-02-21 Strasbourg-Angers,FRA-L1,20-21,77b2ad0a
+462475ed,Ludovic Ajorque,25,FRA,FW,26-362,90,0,0,0,0,1,0,0,0,32,1,0,1,0.3,0.3,0.1,4,0,17,22,77.3,2,19,0,1,1,Strasbourg,2021-02-21 Strasbourg-Angers,FRA-L1,20-21,77b2ad0a
+c76b7567,Adrien Thomasson,26,FRA,AM,27-073,90,0,0,0,0,3,1,0,0,49,0,0,1,0.4,0.4,0.0,5,0,28,41,68.3,2,27,1,1,0,Strasbourg,2021-02-21 Strasbourg-Angers,FRA-L1,20-21,77b2ad0a
+f7691f63,Dimitri Liénard,11,FRA,LM,33-008,89,0,0,0,0,1,0,0,0,103,3,1,1,0.0,0.0,0.3,5,0,62,88,70.5,7,65,3,1,0,Strasbourg,2021-02-21 Strasbourg-Angers,FRA-L1,20-21,77b2ad0a
+6d075c67,Mahame Siby,18,MLI,LM,24-229,1,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,0,0,Strasbourg,2021-02-21 Strasbourg-Angers,FRA-L1,20-21,77b2ad0a
+0f8418aa,Ibrahima Sissoko,27,MLI,RM,23-117,82,0,0,0,0,2,0,1,0,56,2,0,3,0.2,0.2,0.0,2,0,39,46,84.8,10,36,2,1,0,Strasbourg,2021-02-21 Strasbourg-Angers,FRA-L1,20-21,77b2ad0a
+51c30111,Sanjin Prcić,14,BIH,RM,27-093,8,0,0,0,0,0,0,0,0,11,0,1,0,0.0,0.0,0.0,0,0,9,9,100.0,2,7,1,0,0,Strasbourg,2021-02-21 Strasbourg-Angers,FRA-L1,20-21,77b2ad0a
+48b28bfd,Jean-Eudes Aholou,6,CIV,DM,26-338,45,0,0,0,0,2,0,0,0,30,3,0,4,0.1,0.1,0.0,0,0,15,21,71.4,2,13,0,1,1,Strasbourg,2021-02-21 Strasbourg-Angers,FRA-L1,20-21,77b2ad0a
+10f0fdd3,Jean-Ricner Bellegarde,17,FRA,DM,22-239,45,0,0,0,0,2,0,0,0,26,1,1,1,0.1,0.1,0.0,0,0,20,22,90.9,4,18,1,0,0,Strasbourg,2021-02-21 Strasbourg-Angers,FRA-L1,20-21,77b2ad0a
+0118c54c,Anthony Caci,19,FRA,LB,23-235,90,0,0,0,0,0,0,0,0,124,2,2,3,0.0,0.0,0.3,6,0,93,110,84.5,10,68,2,2,1,Strasbourg,2021-02-21 Strasbourg-Angers,FRA-L1,20-21,77b2ad0a
+43e7a164,Alexander Djiku,24,GHA,CB,26-196,90,0,0,0,0,0,0,0,0,77,2,4,2,0.0,0.0,0.0,2,0,51,61,83.6,4,41,1,1,1,Strasbourg,2021-02-21 Strasbourg-Angers,FRA-L1,20-21,77b2ad0a
+e6777e6b,Stefan Mitrović,13,SRB,CB,30-275,90,0,0,0,0,1,0,1,0,63,0,0,1,0.1,0.1,0.0,1,0,50,56,89.3,3,46,1,0,0,Strasbourg,2021-02-21 Strasbourg-Angers,FRA-L1,20-21,77b2ad0a
+5d8d7454,Frederic Guilbert,4,FRA,RB,26-059,90,0,0,0,0,0,0,0,0,65,2,1,2,0.0,0.0,0.1,3,0,39,52,75.0,4,37,4,1,1,Strasbourg,2021-02-21 Strasbourg-Angers,FRA-L1,20-21,77b2ad0a
+a4527d33,Eiji Kawashima,16,JPN,GK,37-338,90,0,0,0,0,0,0,0,0,22,0,0,0,0.0,0.0,0.0,0,0,14,20,70.0,0,15,0,0,0,Strasbourg,2021-02-21 Strasbourg-Angers,FRA-L1,20-21,77b2ad0a
+4be0b467,Lois Diony,9,FRA,FW,28-063,90,0,0,0,0,0,0,1,0,36,0,2,1,0.0,0.0,0.0,2,0,13,20,65.0,2,19,0,5,2,Angers,2021-02-21 Strasbourg-Angers,FRA-L1,20-21,77b2ad0a
+f4bc42b1,Sada Thioub,22,SEN,LW,25-265,69,0,0,0,0,0,0,0,0,35,1,1,0,0.0,0.0,0.1,2,0,21,28,75.0,2,22,2,1,0,Angers,2021-02-21 Strasbourg-Angers,FRA-L1,20-21,77b2ad0a
+b0c71810,Sofiane Boufal,13,MAR,LW,27-157,21,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,4,4,100.0,1,4,1,3,2,Angers,2021-02-21 Strasbourg-Angers,FRA-L1,20-21,77b2ad0a
+85a44ecc,Lassana Coulibaly,14,MLI,RW,24-317,90,0,0,0,0,0,0,0,0,38,5,2,1,0.0,0.0,0.1,2,0,13,21,61.9,1,19,3,6,3,Angers,2021-02-21 Strasbourg-Angers,FRA-L1,20-21,77b2ad0a
+4b96c347,Angelo Fulgini,10,FRA,AM,24-185,90,0,0,0,0,4,1,0,0,61,0,0,0,0.2,0.2,0.0,4,0,34,45,75.6,2,44,1,8,5,Angers,2021-02-21 Strasbourg-Angers,FRA-L1,20-21,77b2ad0a
+c801616a,Thomas Mangani,5,FRA,DM,33-298,83,0,0,0,0,1,0,0,0,66,0,1,2,0.0,0.0,0.1,2,0,42,60,70.0,7,38,2,0,0,Angers,2021-02-21 Strasbourg-Angers,FRA-L1,20-21,77b2ad0a
+8846a40f,Mathias Pereira Lage,27,POR,DM,24-083,7,0,0,0,0,0,0,0,0,7,0,0,1,0.0,0.0,0.0,0,0,2,4,50.0,0,3,0,0,0,Angers,2021-02-21 Strasbourg-Angers,FRA-L1,20-21,77b2ad0a
+9260926b,Ibrahim Amadou,18,FRA,DM,27-321,79,0,0,0,0,2,1,0,0,36,2,1,1,0.1,0.1,0.0,1,0,18,23,78.3,1,19,0,3,1,Angers,2021-02-21 Strasbourg-Angers,FRA-L1,20-21,77b2ad0a
+79b2399c,Pierrick Capelle,15,FRA,DM,33-312,11,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,5,6,83.3,0,3,0,0,0,Angers,2021-02-21 Strasbourg-Angers,FRA-L1,20-21,77b2ad0a
+c26a3918,Vincent Manceau,29,FRA,LB,31-226,90,0,0,0,0,0,0,0,0,51,0,0,1,0.0,0.0,0.0,1,0,35,46,76.1,3,29,2,0,0,Angers,2021-02-21 Strasbourg-Angers,FRA-L1,20-21,77b2ad0a
+275e2c51,Romain Thomas,24,FRA,CB,32-254,90,0,0,0,0,0,0,0,0,46,0,1,1,0.0,0.0,0.0,1,0,28,35,80.0,1,27,0,0,0,Angers,2021-02-21 Strasbourg-Angers,FRA-L1,20-21,77b2ad0a
+b666421b,Ismaël Traoré,8,CIV,CB,34-187,90,0,0,0,0,1,1,0,0,51,1,0,1,0.0,0.0,0.0,0,0,30,39,76.9,2,36,0,0,0,Angers,2021-02-21 Strasbourg-Angers,FRA-L1,20-21,77b2ad0a
+7fecbcdb,Abdoulaye Bamba,25,CIV,RB,30-302,90,0,0,0,0,0,0,0,0,75,1,1,1,0.0,0.0,0.0,0,0,43,67,64.2,5,45,2,0,0,Angers,2021-02-21 Strasbourg-Angers,FRA-L1,20-21,77b2ad0a
+28dabd43,Paul Bernardoni,1,FRA,GK,23-309,90,0,0,0,0,0,0,0,0,29,0,0,0,0.0,0.0,0.0,0,0,15,26,57.7,0,18,0,0,0,Angers,2021-02-21 Strasbourg-Angers,FRA-L1,20-21,77b2ad0a

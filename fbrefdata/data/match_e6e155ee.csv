@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+1f44ac21,Erling Haaland,9,NOR,FW,21-177,90,2,0,0,0,5,2,1,0,32,0,0,0,1.2,1.2,0.1,4,1,14,21,66.7,2,22,4,2,1,Dortmund,2022-01-14 Dortmund-Freiburg,GER-BL1,21-22,e6e155ee
+116c35df,Donyell Malen,21,NED,LW,23-005,90,0,0,0,0,3,0,0,0,46,0,0,0,0.2,0.2,0.3,5,1,28,37,75.7,2,27,7,7,5,Dortmund,2022-01-14 Dortmund-Freiburg,GER-BL1,21-22,e6e155ee
+36a3ff67,Marco Reus,11,GER,RW,32-228,70,0,0,0,0,1,0,0,0,57,2,0,0,0.2,0.2,0.2,1,0,33,40,82.5,6,30,2,5,4,Dortmund,2022-01-14 Dortmund-Freiburg,GER-BL1,21-22,e6e155ee
+50871bcc,Thorgan Hazard,10,BEL,RW,28-291,20,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,0,0,4,7,57.1,0,3,0,0,0,Dortmund,2022-01-14 Dortmund-Freiburg,GER-BL1,21-22,e6e155ee
+57d88cf9,Jude Bellingham,22,ENG,LM,18-199,84,0,1,0,0,1,0,0,0,71,5,0,3,0.0,0.0,0.6,5,1,48,55,87.3,5,39,2,2,2,Dortmund,2022-01-14 Dortmund-Freiburg,GER-BL1,21-22,e6e155ee
+5dfc6ad5,Axel Witsel,28,BEL,CM,33-002,6,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,6,6,100.0,0,2,0,0,0,Dortmund,2022-01-14 Dortmund-Freiburg,GER-BL1,21-22,e6e155ee
+db4ed67b,Mahmoud Dahoud,8,GER,"CM,LM",26-013,90,1,1,0,0,3,2,0,0,77,3,1,3,0.2,0.2,0.5,4,2,54,66,81.8,11,34,2,2,1,Dortmund,2022-01-14 Dortmund-Freiburg,GER-BL1,21-22,e6e155ee
+a167537f,Julian Brandt,19,GER,RM,25-257,90,0,2,0,0,1,0,1,0,76,0,3,0,0.1,0.1,0.4,7,2,60,69,87.0,3,30,2,1,0,Dortmund,2022-01-14 Dortmund-Freiburg,GER-BL1,21-22,e6e155ee
+048a1cbc,Raphaël Guerreiro,13,POR,LB,28-023,70,0,0,0,0,1,1,0,0,83,0,1,1,0.1,0.1,0.0,3,1,65,76,85.5,5,41,2,2,0,Dortmund,2022-01-14 Dortmund-Freiburg,GER-BL1,21-22,e6e155ee
+fa274d97,Nico Schulz,14,GER,LB,28-288,20,0,1,0,0,0,0,0,0,15,1,0,0,0.0,0.0,0.1,2,1,12,14,85.7,0,4,1,0,0,Dortmund,2022-01-14 Dortmund-Freiburg,GER-BL1,21-22,e6e155ee
+05d548d8,Mats Hummels,15,GER,CB,33-029,90,0,0,0,0,1,0,0,0,120,0,4,1,0.1,0.1,0.0,1,1,100,115,87.0,3,76,0,0,0,Dortmund,2022-01-14 Dortmund-Freiburg,GER-BL1,21-22,e6e155ee
+a65ce836,Emre Can,23,GER,CB,28-002,45,0,0,0,0,0,0,0,0,72,1,1,0,0.0,0.0,0.0,0,0,65,71,91.5,2,47,0,0,0,Dortmund,2022-01-14 Dortmund-Freiburg,GER-BL1,21-22,e6e155ee
+89ac64a6,Manuel Akanji,16,SUI,CB,26-179,45,0,0,0,0,1,0,0,0,42,0,2,0,0.2,0.2,0.0,0,0,34,38,89.5,1,20,0,0,0,Dortmund,2022-01-14 Dortmund-Freiburg,GER-BL1,21-22,e6e155ee
+e162b013,Thomas Meunier,24,BEL,RB,30-124,74,2,0,0,0,3,2,0,0,75,4,0,0,0.2,0.2,0.0,3,0,56,65,86.2,2,32,0,0,0,Dortmund,2022-01-14 Dortmund-Freiburg,GER-BL1,21-22,e6e155ee
+fa661778,Marius Wolf,39,GER,RB,26-232,16,0,0,0,0,0,0,0,0,12,0,0,0,0.0,0.0,0.0,0,0,8,12,66.7,1,6,0,0,0,Dortmund,2022-01-14 Dortmund-Freiburg,GER-BL1,21-22,e6e155ee
+cd59b9df,Gregor Kobel,1,SUI,GK,24-039,90,0,0,0,0,0,0,0,0,36,0,0,0,0.0,0.0,0.0,0,0,31,34,91.2,0,25,0,0,0,Dortmund,2022-01-14 Dortmund-Freiburg,GER-BL1,21-22,e6e155ee
+ca618d23,Lucas Höler,9,GER,FW,27-188,80,0,0,0,0,1,1,0,0,36,2,1,1,0.1,0.1,0.0,2,0,24,30,80.0,5,18,1,1,1,Freiburg,2022-01-14 Dortmund-Freiburg,GER-BL1,21-22,e6e155ee
+f93e6e94,Nils Petersen,18,GER,FW,33-039,10,0,0,0,0,0,0,0,0,6,0,0,1,0.0,0.0,0.0,0,0,1,3,33.3,0,3,0,2,2,Freiburg,2022-01-14 Dortmund-Freiburg,GER-BL1,21-22,e6e155ee
+6190474d,Jeong Woo-yeong,29,KOR,FW,22-116,45,0,0,0,0,1,0,0,0,17,0,1,1,0.0,0.0,0.0,0,0,7,14,50.0,0,12,2,0,0,Freiburg,2022-01-14 Dortmund-Freiburg,GER-BL1,21-22,e6e155ee
+ed79b7d3,Ermedin Demirović,11,BIH,FW,23-295,45,1,0,0,0,1,1,0,0,13,0,0,1,0.7,0.7,0.0,0,0,5,8,62.5,0,10,1,1,1,Freiburg,2022-01-14 Dortmund-Freiburg,GER-BL1,21-22,e6e155ee
+54e4866f,Vincenzo Grifo,32,ITA,LM,28-282,45,0,0,0,0,0,0,0,0,17,1,0,1,0.0,0.0,0.0,0,0,9,15,60.0,0,12,0,0,0,Freiburg,2022-01-14 Dortmund-Freiburg,GER-BL1,21-22,e6e155ee
+52afb588,Kevin Schade,20,GER,LM,20-048,45,0,0,0,0,1,1,0,0,24,0,0,0,0.0,0.0,0.0,2,0,8,12,66.7,2,16,2,5,4,Freiburg,2022-01-14 Dortmund-Freiburg,GER-BL1,21-22,e6e155ee
+5d8e331f,Nicolas Höfler,27,GER,CM,31-311,90,0,0,0,0,0,0,0,0,40,1,3,3,0.0,0.0,0.0,0,0,26,32,81.3,4,23,0,1,0,Freiburg,2022-01-14 Dortmund-Freiburg,GER-BL1,21-22,e6e155ee
+70dcf94d,Janik Haberer,19,GER,CM,27-287,64,0,0,0,0,0,0,0,0,28,1,1,0,0.0,0.0,0.0,1,0,14,24,58.3,2,12,1,0,0,Freiburg,2022-01-14 Dortmund-Freiburg,GER-BL1,21-22,e6e155ee
+d2c580ce,Yannik Keitel,14,GER,CM,21-333,26,0,0,0,0,0,0,0,0,12,1,0,0,0.0,0.0,0.0,0,0,5,10,50.0,1,7,0,0,0,Freiburg,2022-01-14 Dortmund-Freiburg,GER-BL1,21-22,e6e155ee
+bf075f6b,Roland Sallai,22,HUN,RM,24-237,64,0,0,0,0,1,1,0,0,22,4,2,1,0.0,0.0,0.0,1,1,10,14,71.4,2,11,1,3,3,Freiburg,2022-01-14 Dortmund-Freiburg,GER-BL1,21-22,e6e155ee
+dd676a97,Noah Weißhaupt,33,GER,RM,20-116,26,0,0,0,0,0,0,0,0,13,0,1,1,0.0,0.0,0.0,1,0,6,8,75.0,1,7,0,2,1,Freiburg,2022-01-14 Dortmund-Freiburg,GER-BL1,21-22,e6e155ee
+8593f88c,Christian Günter,30,GER,LB,28-320,90,0,0,0,0,0,0,0,0,54,3,1,1,0.0,0.0,0.0,1,0,32,41,78.0,2,28,0,3,0,Freiburg,2022-01-14 Dortmund-Freiburg,GER-BL1,21-22,e6e155ee
+25ab9c9c,Manuel Gulde,5,GER,CB,30-336,90,0,0,0,0,0,0,0,0,50,0,1,1,0.0,0.0,0.0,0,0,32,44,72.7,0,30,0,1,1,Freiburg,2022-01-14 Dortmund-Freiburg,GER-BL1,21-22,e6e155ee
+302527b2,Philipp Lienhart,3,AUT,CB,25-187,90,0,0,0,0,0,0,0,0,51,0,2,1,0.0,0.0,0.0,0,0,36,43,83.7,1,32,0,1,1,Freiburg,2022-01-14 Dortmund-Freiburg,GER-BL1,21-22,e6e155ee
+2a29eb9b,Lukas Kübler,17,GER,RB,29-137,90,0,0,0,0,0,0,0,0,45,2,0,1,0.0,0.0,0.1,0,0,25,38,65.8,2,19,1,1,0,Freiburg,2022-01-14 Dortmund-Freiburg,GER-BL1,21-22,e6e155ee
+a9a6fc08,Benjamin Uphoff,1,GER,GK,28-159,90,0,0,0,0,0,0,0,0,46,0,0,0,0.0,0.0,0.0,0,0,30,43,69.8,0,31,0,0,0,Freiburg,2022-01-14 Dortmund-Freiburg,GER-BL1,21-22,e6e155ee

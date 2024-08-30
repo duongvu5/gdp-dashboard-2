@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+f93e6e94,Nils Petersen,18,GER,FW,32-076,63,0,0,0,0,0,0,0,0,19,1,0,2,0.0,0.0,0.0,1,0,7,9,77.8,1,12,0,0,0,Freiburg,2021-02-20 Freiburg-Union Berlin,GER-BL1,20-21,c9bf7114
+ed79b7d3,Ermedin Demirović,11,BIH,FW,22-332,27,0,0,0,0,2,0,0,0,9,0,0,1,0.1,0.1,0.0,0,0,0,2,0.0,0,3,0,0,0,Freiburg,2021-02-20 Freiburg-Union Berlin,GER-BL1,20-21,c9bf7114
+70dcf94d,Janik Haberer,19,GER,FW,26-324,45,0,0,0,0,1,0,0,0,20,0,0,0,0.0,0.0,0.0,0,0,10,13,76.9,0,13,0,1,0,Freiburg,2021-02-20 Freiburg-Union Berlin,GER-BL1,20-21,c9bf7114
+699fb8db,Dominique Heintz,23,GER,CB,27-189,45,0,0,0,0,0,0,0,0,38,0,2,0,0.0,0.0,0.0,0,0,31,34,91.2,2,25,0,0,0,Freiburg,2021-02-20 Freiburg-Union Berlin,GER-BL1,20-21,c9bf7114
+54e4866f,Vincenzo Grifo,32,ITA,AM,27-319,63,0,0,0,0,0,0,1,0,39,0,0,0,0.0,0.0,0.0,1,0,25,34,73.5,6,28,1,3,1,Freiburg,2021-02-20 Freiburg-Union Berlin,GER-BL1,20-21,c9bf7114
+6190474d,Jeong Woo-yeong,29,KOR,LW,21-153,27,0,0,0,0,0,0,0,0,22,0,0,0,0.0,0.0,0.1,1,0,12,17,70.6,0,16,0,3,1,Freiburg,2021-02-20 Freiburg-Union Berlin,GER-BL1,20-21,c9bf7114
+ca618d23,Lucas Höler,9,GER,"AM,FW",26-225,63,0,0,0,0,2,0,1,0,30,1,1,1,0.5,0.5,0.0,1,0,8,18,44.4,2,19,2,1,0,Freiburg,2021-02-20 Freiburg-Union Berlin,GER-BL1,20-21,c9bf7114
+bf075f6b,Roland Sallai,22,HUN,RW,23-274,27,0,0,0,0,1,0,0,0,17,0,0,0,0.1,0.1,0.0,1,0,9,13,69.2,3,10,0,1,0,Freiburg,2021-02-20 Freiburg-Union Berlin,GER-BL1,20-21,c9bf7114
+5e22e2a4,Baptiste Santamaria,8,FRA,"DM,CM",25-348,90,0,0,0,0,0,0,0,0,54,3,1,0,0.0,0.0,0.0,2,0,35,44,79.5,3,23,1,0,0,Freiburg,2021-02-20 Freiburg-Union Berlin,GER-BL1,20-21,c9bf7114
+5d8e331f,Nicolas Höfler,27,GER,"DM,CM",30-348,90,0,0,0,0,1,1,0,0,77,2,3,1,0.0,0.0,0.0,1,0,63,68,92.6,9,49,0,2,1,Freiburg,2021-02-20 Freiburg-Union Berlin,GER-BL1,20-21,c9bf7114
+8593f88c,Christian Günter,30,GER,"LB,LM",27-358,90,0,0,0,0,0,0,0,0,58,1,0,1,0.0,0.0,0.0,0,0,40,51,78.4,5,22,2,2,0,Freiburg,2021-02-20 Freiburg-Union Berlin,GER-BL1,20-21,c9bf7114
+25ab9c9c,Manuel Gulde,5,GER,"CB,RB",30-008,67,0,0,0,0,0,0,0,0,66,0,2,0,0.0,0.0,0.0,0,0,56,62,90.3,6,52,0,0,0,Freiburg,2021-02-20 Freiburg-Union Berlin,GER-BL1,20-21,c9bf7114
+f6bdc830,Keven Schlotterbeck,31,GER,CB,23-298,23,0,0,0,0,0,0,0,0,33,1,0,0,0.0,0.0,0.0,0,0,28,31,90.3,4,25,1,0,0,Freiburg,2021-02-20 Freiburg-Union Berlin,GER-BL1,20-21,c9bf7114
+302527b2,Philipp Lienhart,3,AUT,CB,24-224,90,0,0,0,0,0,0,0,0,109,0,1,0,0.0,0.0,0.0,1,0,96,105,91.4,4,70,1,2,2,Freiburg,2021-02-20 Freiburg-Union Berlin,GER-BL1,20-21,c9bf7114
+088ca1bd,Jonathan Schmid,7,FRA,"RB,RM,AM",30-243,90,0,0,0,0,2,0,0,0,67,1,1,0,0.1,0.1,0.5,4,0,49,62,79.0,8,34,2,2,1,Freiburg,2021-02-20 Freiburg-Union Berlin,GER-BL1,20-21,c9bf7114
+cbac6ec9,Florian Müller,21,GER,GK,23-099,90,0,0,0,0,0,0,0,0,53,0,0,0,0.0,0.0,0.0,0,0,37,51,72.5,0,34,0,0,0,Freiburg,2021-02-20 Freiburg-Union Berlin,GER-BL1,20-21,c9bf7114
+ea003d07,Joel Pohjanpalo,9,FIN,FW,26-160,68,0,0,0,0,2,1,0,0,20,0,0,0,0.2,0.2,0.0,0,0,7,13,53.8,2,16,1,3,2,Union Berlin,2021-02-20 Freiburg-Union Berlin,GER-BL1,20-21,c9bf7114
+4567a0b4,Petar Musa,24,CRO,FW,22-353,22,0,0,0,0,1,1,0,0,8,0,0,0,0.3,0.3,0.0,1,0,3,6,50.0,1,6,0,0,0,Union Berlin,2021-02-20 Freiburg-Union Berlin,GER-BL1,20-21,c9bf7114
+ab5b7dc1,Marius Bülter,15,GER,FW,27-328,75,0,0,0,0,1,0,0,0,25,1,1,0,0.0,0.0,0.2,4,1,11,22,50.0,1,14,3,0,0,Union Berlin,2021-02-20 Freiburg-Union Berlin,GER-BL1,20-21,c9bf7114
+1a83027b,Keita Endo,18,JPN,FW,23-090,15,0,0,0,0,0,0,0,0,5,1,1,0,0.0,0.0,0.3,2,0,2,3,66.7,0,3,0,0,0,Union Berlin,2021-02-20 Freiburg-Union Berlin,GER-BL1,20-21,c9bf7114
+271b8617,Marcus Ingvartsen,32,DEN,CM,25-047,90,0,1,0,0,2,1,0,0,34,1,0,1,0.1,0.1,0.5,4,1,13,20,65.0,1,18,1,1,1,Union Berlin,2021-02-20 Freiburg-Union Berlin,GER-BL1,20-21,c9bf7114
+e0b113a7,Robert Andrich,30,GER,CM,26-151,90,0,0,0,0,2,0,0,0,38,0,3,4,0.1,0.1,0.0,3,0,20,24,83.3,4,20,0,2,1,Union Berlin,2021-02-20 Freiburg-Union Berlin,GER-BL1,20-21,c9bf7114
+924f9191,Grischa Prömel,21,GER,CM,26-042,89,1,0,0,0,2,1,0,0,28,2,3,0,0.5,0.5,0.0,1,0,10,16,62.5,4,16,3,2,2,Union Berlin,2021-02-20 Freiburg-Union Berlin,GER-BL1,20-21,c9bf7114
+a8db7ebb,Sebastian Griesbeck,33,GER,CM,30-140,1,0,0,0,0,0,0,0,0,1,1,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Union Berlin,2021-02-20 Freiburg-Union Berlin,GER-BL1,20-21,c9bf7114
+bbd86530,Christopher Lenz,25,GER,WB,26-151,75,0,0,0,0,2,0,1,0,31,1,2,0,0.1,0.1,0.0,1,0,17,23,73.9,2,14,0,0,0,Union Berlin,2021-02-20 Freiburg-Union Berlin,GER-BL1,20-21,c9bf7114
+7242b495,Niko Gießelmann,23,GER,WB,29-147,15,0,0,0,0,0,0,1,0,5,1,0,1,0.0,0.0,0.0,0,0,1,3,33.3,1,1,0,0,0,Union Berlin,2021-02-20 Freiburg-Union Berlin,GER-BL1,20-21,c9bf7114
+056d2d95,Christopher Trimmel,28,AUT,WB,33-362,90,0,0,0,0,0,0,0,0,52,1,4,2,0.0,0.0,0.1,4,0,28,41,68.3,1,21,0,1,1,Union Berlin,2021-02-20 Freiburg-Union Berlin,GER-BL1,20-21,c9bf7114
+34e12499,Nico Schlotterbeck,4,GER,CB,21-081,90,0,0,0,0,1,0,0,0,43,2,1,0,0.0,0.0,0.0,1,0,29,36,80.6,6,30,1,1,1,Union Berlin,2021-02-20 Freiburg-Union Berlin,GER-BL1,20-21,c9bf7114
+6bd5cd5d,Robin Knoche,31,GER,CB,28-274,90,0,0,0,0,0,0,0,0,54,0,1,1,0.0,0.0,0.0,1,0,38,47,80.9,1,29,0,0,0,Union Berlin,2021-02-20 Freiburg-Union Berlin,GER-BL1,20-21,c9bf7114
+b77f44a4,Marvin Friedrich,5,GER,CB,25-069,90,0,0,0,0,2,0,0,0,66,3,2,0,0.1,0.1,0.1,2,0,37,48,77.1,1,36,1,0,0,Union Berlin,2021-02-20 Freiburg-Union Berlin,GER-BL1,20-21,c9bf7114
+32e7ce92,Loris Karius,20,GER,GK,27-243,90,0,0,0,0,0,0,0,0,31,0,0,0,0.0,0.0,0.0,0,0,21,31,67.7,0,20,0,0,0,Union Berlin,2021-02-20 Freiburg-Union Berlin,GER-BL1,20-21,c9bf7114

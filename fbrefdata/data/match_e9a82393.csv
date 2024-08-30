@@ -1,0 +1,32 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+0af4dcf0,Cédric Bakambu,13,COD,FW,31-009,68,0,0,0,0,4,0,0,0,18,0,0,0,0.6,0.6,0.0,1,0,7,11,63.6,1,15,2,1,1,Marseille,2022-04-20 Marseille-Nantes,FRA-L1,21-22,e9a82393
+85613cf0,Arkadiusz Milik,9,POL,FW,28-051,22,0,0,0,0,2,1,1,0,18,1,1,0,0.1,0.1,0.0,0,0,8,9,88.9,1,12,1,0,0,Marseille,2022-04-20 Marseille-Nantes,FRA-L1,21-22,e9a82393
+58ae47b2,Dimitri Payet,10,FRA,LW,35-022,90,2,0,2,2,2,0,0,0,81,2,0,1,1.7,0.1,0.6,6,1,56,73,76.7,7,65,4,1,0,Marseille,2022-04-20 Marseille-Nantes,FRA-L1,21-22,e9a82393
+e7d59f4f,Amine Harit,7,MAR,RW,24-306,89,1,0,0,0,3,1,0,0,72,1,0,0,0.7,0.7,0.2,8,0,56,63,88.9,4,67,5,6,4,Marseille,2022-04-20 Marseille-Nantes,FRA-L1,21-22,e9a82393
+3935e52e,Sead Kolašinac,23,BIH,"LB,RW",28-304,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Marseille,2022-04-20 Marseille-Nantes,FRA-L1,21-22,e9a82393
+8827bf46,Gerson,8,BRA,"LM,RM",24-335,90,0,1,0,0,2,0,0,0,79,0,0,0,0.0,0.0,0.4,8,2,65,70,92.9,5,66,3,6,4,Marseille,2022-04-20 Marseille-Nantes,FRA-L1,21-22,e9a82393
+cc77354e,Boubacar Kamara,4,FRA,CM,22-148,90,0,0,0,0,2,0,0,0,120,1,1,0,0.1,0.1,0.4,5,1,106,113,93.8,6,102,1,1,1,Marseille,2022-04-20 Marseille-Nantes,FRA-L1,21-22,e9a82393
+5ea8ef20,Mattéo Guendouzi,6,FRA,"RM,RW",23-006,90,0,0,0,0,1,1,0,0,105,0,0,1,0.0,0.0,0.0,5,0,91,98,92.9,10,93,2,2,1,Marseille,2022-04-20 Marseille-Nantes,FRA-L1,21-22,e9a82393
+a5549ec1,Luan Peres Petroni,14,BRA,LB,27-275,85,0,0,0,0,0,0,1,0,57,0,2,1,0.0,0.0,0.0,0,0,49,51,96.1,1,44,0,2,1,Marseille,2022-04-20 Marseille-Nantes,FRA-L1,21-22,e9a82393
+7155e3e1,Pape Gueye,22,SEN,"LM,LB",23-086,5,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,3,3,100.0,1,4,0,1,0,Marseille,2022-04-20 Marseille-Nantes,FRA-L1,21-22,e9a82393
+94f8d10c,Duje Ćaleta-Car,15,CRO,CB,25-215,90,0,0,0,0,1,0,0,0,85,0,0,0,0.0,0.0,0.0,0,0,75,80,93.8,3,74,3,0,0,Marseille,2022-04-20 Marseille-Nantes,FRA-L1,21-22,e9a82393
+972aeb2a,William Saliba,2,FRA,CB,21-027,90,0,0,0,0,0,0,0,0,124,1,0,1,0.0,0.0,0.1,2,0,115,118,97.5,6,108,1,1,1,Marseille,2022-04-20 Marseille-Nantes,FRA-L1,21-22,e9a82393
+ff800ed8,Pol Lirola,29,ESP,RB,24-250,85,0,0,0,0,0,0,0,0,94,1,1,0,0.0,0.0,0.0,2,2,79,86,91.9,7,77,5,2,2,Marseille,2022-04-20 Marseille-Nantes,FRA-L1,21-22,e9a82393
+ed45c4a5,Valentin Rongier,21,FRA,RB,27-134,5,0,0,0,0,0,0,0,0,6,1,0,0,0.0,0.0,0.0,0,0,3,5,60.0,0,3,0,0,0,Marseille,2022-04-20 Marseille-Nantes,FRA-L1,21-22,e9a82393
+20b9f052,Pau López,16,ESP,GK,27-128,90,0,0,0,0,0,0,0,0,41,0,0,0,0.0,0.0,0.0,0,0,34,37,91.9,0,34,0,0,0,Marseille,2022-04-20 Marseille-Nantes,FRA-L1,21-22,e9a82393
+9836e892,Willem Geubbels,19,FRA,FW,20-247,69,0,0,0,0,0,0,0,0,13,0,0,0,0.0,0.0,0.0,0,0,8,12,66.7,0,10,0,0,0,Nantes,2022-04-20 Marseille-Nantes,FRA-L1,21-22,e9a82393
+0bfca6a1,Quentin Merlin,29,FRA,FW,19-339,21,0,0,0,0,1,0,0,0,12,0,0,0,0.0,0.0,0.0,3,0,8,10,80.0,0,12,0,2,2,Nantes,2022-04-20 Marseille-Nantes,FRA-L1,21-22,e9a82393
+5f3eaaf5,Moses Simon,27,NGA,LW,26-282,45,0,0,0,0,0,0,0,0,12,0,1,0,0.0,0.0,0.0,0,0,2,9,22.2,0,11,2,1,1,Nantes,2022-04-20 Marseille-Nantes,FRA-L1,21-22,e9a82393
+eab85789,Osman Bukari,26,GHA,LW,23-128,45,0,0,0,0,1,1,0,0,10,2,0,1,0.4,0.4,0.0,0,0,4,5,80.0,0,5,1,0,0,Nantes,2022-04-20 Marseille-Nantes,FRA-L1,21-22,e9a82393
+6191093d,Ludovic Blas,10,FRA,RW,24-110,45,0,0,0,0,0,0,1,0,9,0,0,1,0.0,0.0,0.0,0,0,5,6,83.3,1,5,1,0,0,Nantes,2022-04-20 Marseille-Nantes,FRA-L1,21-22,e9a82393
+bc7b4580,Fábio,2,BRA,RW,31-285,45,0,0,0,0,0,0,1,0,26,0,2,2,0.0,0.0,0.0,0,0,12,17,70.6,1,11,0,0,0,Nantes,2022-04-20 Marseille-Nantes,FRA-L1,21-22,e9a82393
+3010aefb,Marcus Coco,11,FRA,LM,25-300,89,1,0,0,0,1,1,2,1,27,4,1,0,0.1,0.1,0.0,0,0,17,18,94.4,2,15,0,1,0,Nantes,2022-04-20 Marseille-Nantes,FRA-L1,21-22,e9a82393
+af0c835b,Samuel Moutoussamy,18,COD,CM,25-251,90,0,0,0,0,0,0,0,0,31,1,3,2,0.0,0.0,0.0,1,1,16,22,72.7,2,17,0,1,1,Nantes,2022-04-20 Marseille-Nantes,FRA-L1,21-22,e9a82393
+3e092724,Wylan Cyprien,8,FRA,CM,27-082,90,0,1,0,0,0,0,0,0,45,1,0,1,0.0,0.0,0.5,2,1,31,39,79.5,2,31,0,0,0,Nantes,2022-04-20 Marseille-Nantes,FRA-L1,21-22,e9a82393
+0e7ccfc4,Sébastien Corchia,24,FRA,RM,31-170,90,0,0,0,0,0,0,0,0,28,1,1,1,0.0,0.0,0.0,0,0,14,22,63.6,2,15,0,1,0,Nantes,2022-04-20 Marseille-Nantes,FRA-L1,21-22,e9a82393
+779847d6,Nicolas Pallois,4,FRA,CB,34-213,69,0,0,0,0,0,0,0,0,28,5,1,1,0.0,0.0,0.0,0,0,8,16,50.0,0,10,0,1,1,Nantes,2022-04-20 Marseille-Nantes,FRA-L1,21-22,e9a82393
+9980269a,Kalifa Coulibaly,7,MLI,CB,30-242,21,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,3,4,75.0,0,4,0,0,0,Nantes,2022-04-20 Marseille-Nantes,FRA-L1,21-22,e9a82393
+3befc2b6,Andrei Girotto,3,BRA,CB,30-062,90,1,0,0,0,1,1,0,0,37,3,2,1,0.2,0.2,0.0,0,0,21,28,75.0,0,25,0,1,1,Nantes,2022-04-20 Marseille-Nantes,FRA-L1,21-22,e9a82393
+feb5d3ab,Dennis Appiah,12,FRA,CB,29-315,90,0,0,0,0,0,0,1,0,32,0,0,2,0.0,0.0,0.0,0,0,20,27,74.1,2,22,0,2,1,Nantes,2022-04-20 Marseille-Nantes,FRA-L1,21-22,e9a82393
+4e7db402,Alban Lafont,1,FRA,GK,23-087,90,0,0,0,0,0,0,0,0,29,0,0,0,0.0,0.0,0.0,0,0,10,24,41.7,0,11,0,0,0,Nantes,2022-04-20 Marseille-Nantes,FRA-L1,21-22,e9a82393

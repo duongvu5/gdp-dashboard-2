@@ -1,0 +1,32 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+ce50fd99,Jonathan David,9,CAN,FW,24-113,90,0,1,0,0,1,1,0,0,29,1,0,2,0.1,0.1,0.1,3,1,22,22,100.0,1,19,0,0,0,Lille,2024-05-06 Lille-Lyon,FRA-L1,23-24,9a72e466
+d5d22a58,Gabriel Gudmundsson,5,SWE,LW,25-007,57,0,0,0,0,0,0,0,0,32,1,1,2,0.0,0.0,0.2,3,0,15,22,68.2,1,20,3,1,0,Lille,2024-05-06 Lille-Lyon,FRA-L1,23-24,9a72e466
+148e136f,Rémy Cabella,10,FRA,"LM,AM",34-059,33,0,0,0,0,0,0,0,0,16,1,0,1,0.0,0.0,0.0,0,0,9,11,81.8,0,11,1,1,0,Lille,2024-05-06 Lille-Lyon,FRA-L1,23-24,9a72e466
+f5c8b425,Yusuf Yazıcı,12,TUR,RW,27-098,25,0,1,0,0,1,0,0,0,10,0,0,0,0.0,0.0,0.2,1,1,8,8,100.0,0,9,0,0,0,Lille,2024-05-06 Lille-Lyon,FRA-L1,23-24,9a72e466
+34a88e3e,Edon Zhegrova,23,KVX,RW,25-036,49,1,0,0,0,2,2,0,0,20,1,0,1,0.1,0.1,0.0,1,1,5,14,35.7,0,12,2,2,1,Lille,2024-05-06 Lille-Lyon,FRA-L1,23-24,9a72e466
+102c9665,Alexsandro Ribeiro,4,BRA,CB,24-271,16,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,5,7,71.4,0,6,0,0,0,Lille,2024-05-06 Lille-Lyon,FRA-L1,23-24,9a72e466
+e2ae54db,Hákon Arnar Haraldsson,7,ISL,"AM,RM,LW",21-026,90,0,0,0,0,0,0,1,0,39,0,0,1,0.0,0.0,0.0,2,1,27,35,77.1,2,31,2,3,0,Lille,2024-05-06 Lille-Lyon,FRA-L1,23-24,9a72e466
+645a3363,Angel Gomes,8,ENG,"DM,CM",23-249,90,0,1,0,0,1,0,1,0,69,1,2,1,0.0,0.0,0.3,1,1,51,61,83.6,4,57,0,1,1,Lille,2024-05-06 Lille-Lyon,FRA-L1,23-24,9a72e466
+3189f61a,Nabil Bentaleb,6,ALG,"DM,CM",29-164,90,0,0,0,0,0,0,0,0,62,2,1,0,0.0,0.0,0.0,1,0,52,58,89.7,5,50,0,3,2,Lille,2024-05-06 Lille-Lyon,FRA-L1,23-24,9a72e466
+cf182add,Ismaily,31,BRA,LB,34-116,90,0,0,0,0,0,0,0,0,63,1,1,0,0.0,0.0,0.0,0,0,42,54,77.8,4,42,0,1,1,Lille,2024-05-06 Lille-Lyon,FRA-L1,23-24,9a72e466
+1bfb6fef,Bafodé Diakité,18,FRA,CB,23-121,90,2,0,0,0,3,2,0,0,61,1,1,2,0.6,0.6,0.0,1,1,46,52,88.5,1,46,0,1,1,Lille,2024-05-06 Lille-Lyon,FRA-L1,23-24,9a72e466
+6763f716,Leny Yoro,15,FRA,CB,18-175,90,0,0,0,0,0,0,1,0,51,2,1,0,0.0,0.0,0.0,1,0,40,43,93.0,2,33,0,0,0,Lille,2024-05-06 Lille-Lyon,FRA-L1,23-24,9a72e466
+3eeebc87,Tiago Santos,22,POR,RB,21-288,90,0,0,0,0,0,0,0,0,51,5,1,1,0.0,0.0,0.2,2,0,26,37,70.3,0,29,5,1,0,Lille,2024-05-06 Lille-Lyon,FRA-L1,23-24,9a72e466
+b3d76d84,Lucas Chevalier,30,FRA,GK,22-182,90,0,0,0,0,0,0,0,0,42,1,0,0,0.0,0.0,0.0,0,0,23,39,59.0,1,25,0,0,0,Lille,2024-05-06 Lille-Lyon,FRA-L1,23-24,9a72e466
+9dbb75ca,Alexandre Lacazette,10,FRA,FW,32-344,90,1,1,0,0,2,1,0,0,29,0,0,0,0.8,0.8,0.2,3,2,16,21,76.2,6,22,2,5,2,Lyon,2024-05-06 Lille-Lyon,FRA-L1,23-24,9a72e466
+5a04fd92,Saïd Benrahma,17,ALG,LW,28-270,66,1,0,0,0,1,1,0,0,41,0,0,0,0.2,0.2,0.0,0,0,19,32,59.4,1,33,4,4,1,Lyon,2024-05-06 Lille-Lyon,FRA-L1,23-24,9a72e466
+8236f673,Malick Fofana,11,BEL,LW,19-036,24,1,0,0,0,2,2,0,0,12,0,0,0,1.0,1.0,0.0,0,0,8,8,100.0,0,10,0,1,0,Lyon,2024-05-06 Lille-Lyon,FRA-L1,23-24,9a72e466
+234a703c,Ernest Nuamah,37,GHA,RW,20-187,78,0,0,0,0,1,1,1,0,41,1,0,0,0.0,0.0,0.1,2,0,22,29,75.9,3,33,5,1,0,Lyon,2024-05-06 Lille-Lyon,FRA-L1,23-24,9a72e466
+fb14aa28,Mama Samba Baldé,7,GNB,RW,28-182,12,1,1,0,0,1,1,0,0,7,0,0,0,0.1,0.1,1.0,3,2,5,5,100.0,1,4,2,1,1,Lyon,2024-05-06 Lille-Lyon,FRA-L1,23-24,9a72e466
+652d4c37,Corentin Tolisso,8,FRA,LM,29-277,66,0,0,0,0,0,0,0,0,51,2,1,0,0.0,0.0,0.0,1,0,39,43,90.7,5,42,2,0,0,Lyon,2024-05-06 Lille-Lyon,FRA-L1,23-24,9a72e466
+a572e291,Orel Mangala,25,BEL,LM,26-049,24,0,0,0,0,0,0,0,0,16,0,0,0,0.0,0.0,0.0,0,0,13,15,86.7,2,13,0,0,0,Lyon,2024-05-06 Lille-Lyon,FRA-L1,23-24,9a72e466
+eb7822d7,Nemanja Matić,31,SRB,CM,35-279,67,0,0,0,0,0,0,0,0,51,0,0,1,0.0,0.0,0.0,0,0,37,47,78.7,5,37,1,1,0,Lyon,2024-05-06 Lille-Lyon,FRA-L1,23-24,9a72e466
+b34c63a5,Rayan Cherki,18,FRA,CM,20-263,23,0,0,0,0,1,0,0,0,18,0,0,0,0.1,0.1,0.0,2,1,14,16,87.5,3,18,3,6,5,Lyon,2024-05-06 Lille-Lyon,FRA-L1,23-24,9a72e466
+f81ef10d,Maxence Caqueret,6,FRA,RM,24-081,90,0,0,0,0,1,0,0,0,67,2,1,2,0.1,0.1,0.0,2,0,54,62,87.1,10,47,2,0,0,Lyon,2024-05-06 Lille-Lyon,FRA-L1,23-24,9a72e466
+f0661424,Nicolás Tagliafico,3,ARG,LB,31-249,45,0,0,0,0,0,0,0,0,37,3,1,0,0.0,0.0,0.0,0,0,26,30,86.7,6,25,1,0,0,Lyon,2024-05-06 Lille-Lyon,FRA-L1,23-24,9a72e466
+e3a5814e,Ainsley Maitland-Niles,98,ENG,LB,26-251,45,0,1,0,0,2,1,0,0,37,1,0,1,0.1,0.1,0.6,2,2,28,30,93.3,6,27,0,1,1,Lyon,2024-05-06 Lille-Lyon,FRA-L1,23-24,9a72e466
+94f8d10c,Duje Ćaleta-Car,55,CRO,CB,27-232,90,0,0,0,0,0,0,0,0,87,3,2,0,0.0,0.0,0.0,1,0,68,80,85.0,4,69,0,0,0,Lyon,2024-05-06 Lille-Lyon,FRA-L1,23-24,9a72e466
+25f2ef01,Jake O'Brien,12,IRL,CB,22-357,90,0,0,0,0,0,0,0,0,71,1,1,0,0.0,0.0,0.0,0,0,60,68,88.2,1,58,0,0,0,Lyon,2024-05-06 Lille-Lyon,FRA-L1,23-24,9a72e466
+55abe554,Clinton Mata,22,ANG,RB,31-181,90,0,1,0,0,0,0,0,0,80,1,5,0,0.0,0.0,0.4,4,1,58,67,86.6,5,57,2,1,1,Lyon,2024-05-06 Lille-Lyon,FRA-L1,23-24,9a72e466
+f00de885,Anthony Lopes,1,POR,GK,33-218,90,0,0,0,0,0,0,0,0,36,0,0,0,0.0,0.0,0.0,0,0,25,34,73.5,0,29,0,0,0,Lyon,2024-05-06 Lille-Lyon,FRA-L1,23-24,9a72e466

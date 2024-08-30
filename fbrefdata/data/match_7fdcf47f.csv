@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+8a08491a,Gonzalo Higuaín,9,ARG,FW,30-111,90,0,0,0,0,2,1,0,0,19,0,1,1,0.1,0.1,0.0,1,0,8,12,66.7,0,16,4,3,1,Juventus,2018-03-31 Juventus-Milan,ITA-SERIA_A,17-18,7fdcf47f
+e0921a4f,Paulo Dybala,10,ARG,FW,24-136,90,1,1,0,0,1,1,0,0,61,1,0,2,0.0,0.0,0.2,5,1,49,55,89.1,8,46,7,5,5,Juventus,2018-03-31 Juventus-Milan,ITA-SERIA_A,17-18,7fdcf47f
+c0cddebe,Blaise Matuidi,14,FRA,CM,30-356,60,0,0,0,0,0,0,0,0,23,1,0,1,0.0,0.0,0.0,0,0,17,20,85.0,3,22,2,0,0,Juventus,2018-03-31 Juventus-Milan,ITA-SERIA_A,17-18,7fdcf47f
+0ab1f153,Juan Cuadrado,7,COL,CM,29-309,30,1,0,0,0,1,1,0,0,24,0,1,0,0.2,0.2,0.0,0,0,18,21,85.7,2,18,0,0,0,Juventus,2018-03-31 Juventus-Milan,ITA-SERIA_A,17-18,7fdcf47f
+ad6df2d5,Miralem Pjanić,5,BIH,CM,27-363,74,0,1,0,0,1,0,0,0,67,1,2,1,0.1,0.1,0.0,2,1,50,58,86.2,6,40,0,2,2,Juventus,2018-03-31 Juventus-Milan,ITA-SERIA_A,17-18,7fdcf47f
+3b8674e6,Rodrigo Bentancur,30,URU,CM,20-279,16,0,0,0,0,0,0,0,0,20,1,0,0,0.0,0.0,0.0,0,0,17,18,94.4,0,12,0,1,0,Juventus,2018-03-31 Juventus-Milan,ITA-SERIA_A,17-18,7fdcf47f
+38ac43d3,Sami Khedira,6,GER,CM,30-361,90,1,1,0,0,1,1,0,0,44,0,1,0,0.1,0.1,0.2,2,1,34,40,85.0,3,31,3,0,0,Juventus,2018-03-31 Juventus-Milan,ITA-SERIA_A,17-18,7fdcf47f
+089550f5,Kwadwo Asamoah,22,GHA,WB,29-112,90,0,0,0,0,0,0,0,0,69,0,0,1,0.0,0.0,0.0,0,0,48,60,80.0,3,49,1,3,3,Juventus,2018-03-31 Juventus-Milan,ITA-SERIA_A,17-18,7fdcf47f
+99b1d0e6,Stephan Lichtsteiner,26,SUI,WB,34-074,45,0,0,0,0,0,0,0,0,29,0,0,0,0.0,0.0,0.0,0,0,14,25,56.0,1,19,0,0,0,Juventus,2018-03-31 Juventus-Milan,ITA-SERIA_A,17-18,7fdcf47f
+4fa7cb9b,Douglas Costa,11,BRA,WB,27-198,45,0,0,0,0,0,0,0,0,32,0,0,0,0.0,0.0,0.0,2,2,26,32,81.3,3,26,5,7,7,Juventus,2018-03-31 Juventus-Milan,ITA-SERIA_A,17-18,7fdcf47f
+e85fb9b8,Giorgio Chiellini,3,ITA,CB,33-229,90,0,0,0,0,0,0,0,0,97,1,4,0,0.0,0.0,0.0,1,1,70,85,82.4,8,65,0,0,0,Juventus,2018-03-31 Juventus-Milan,ITA-SERIA_A,17-18,7fdcf47f
+3b15ef2d,Medhi Benatia,4,MAR,CB,30-348,90,0,0,0,0,1,0,1,0,90,1,2,2,0.1,0.1,0.0,0,0,74,77,96.1,3,64,0,0,0,Juventus,2018-03-31 Juventus-Milan,ITA-SERIA_A,17-18,7fdcf47f
+7c0000fd,Andrea Barzagli,15,ITA,CB,36-327,90,0,0,0,0,0,0,0,0,73,1,1,0,0.0,0.0,0.0,0,0,63,71,88.7,10,52,0,0,0,Juventus,2018-03-31 Juventus-Milan,ITA-SERIA_A,17-18,7fdcf47f
+e40d028b,Gianluigi Buffon,1,ITA,GK,40-062,90,0,0,0,0,0,0,0,0,27,0,0,0,0.0,0.0,0.0,0,0,17,25,68.0,0,10,0,1,1,Juventus,2018-03-31 Juventus-Milan,ITA-SERIA_A,17-18,7fdcf47f
+3effaa34,André Silva,9,POR,FW,22-145,64,0,0,0,0,2,0,0,0,26,0,1,1,0.4,0.4,0.0,2,0,19,22,86.4,2,15,3,0,0,Milan,2018-03-31 Juventus-Milan,ITA-SERIA_A,17-18,7fdcf47f
+d4931a5a,Nikola Kalinić,7,CRO,FW,30-085,26,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,3,5,60.0,0,4,0,0,0,Milan,2018-03-31 Juventus-Milan,ITA-SERIA_A,17-18,7fdcf47f
+cd0fa27b,Hakan Çalhanoğlu,10,TUR,LW,24-051,79,0,1,0,0,3,1,0,0,41,0,0,3,0.1,0.1,0.7,4,1,28,32,87.5,3,23,1,0,0,Milan,2018-03-31 Juventus-Milan,ITA-SERIA_A,17-18,7fdcf47f
+a4fe8cda,Patrick Cutrone,63,ITA,LW,20-087,11,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,0,0,0,0,Milan,2018-03-31 Juventus-Milan,ITA-SERIA_A,17-18,7fdcf47f
+4e219ad2,Suso,8,ESP,RW,24-132,90,0,0,0,0,3,3,0,0,68,0,2,0,0.1,0.1,0.0,5,1,42,58,72.4,9,40,5,5,4,Milan,2018-03-31 Juventus-Milan,ITA-SERIA_A,17-18,7fdcf47f
+d995ed27,Giacomo Bonaventura,5,ITA,LM,28-221,90,0,0,0,0,1,0,0,0,53,0,1,0,0.1,0.1,0.0,2,0,42,49,85.7,5,27,2,2,2,Milan,2018-03-31 Juventus-Milan,ITA-SERIA_A,17-18,7fdcf47f
+5710a281,Lucas Biglia,21,ARG,CM,32-060,75,0,0,0,0,0,0,1,0,58,2,0,2,0.0,0.0,0.0,0,0,48,53,90.6,6,27,0,0,0,Milan,2018-03-31 Juventus-Milan,ITA-SERIA_A,17-18,7fdcf47f
+b746d309,Riccardo Montolivo,18,ITA,CM,33-072,15,0,0,0,0,0,0,1,0,6,0,0,0,0.0,0.0,0.0,0,0,4,5,80.0,0,2,0,0,0,Milan,2018-03-31 Juventus-Milan,ITA-SERIA_A,17-18,7fdcf47f
+05e19d6a,Franck Kessié,79,CIV,RM,21-102,90,0,0,0,0,0,0,0,0,59,3,2,2,0.0,0.0,0.1,4,0,40,49,81.6,8,36,0,3,3,Milan,2018-03-31 Juventus-Milan,ITA-SERIA_A,17-18,7fdcf47f
+7f78ad23,Ricardo Rodríguez,68,SUI,LB,25-218,90,0,0,0,0,0,0,1,0,70,1,3,1,0.0,0.0,0.0,1,0,51,57,89.5,7,42,2,0,0,Milan,2018-03-31 Juventus-Milan,ITA-SERIA_A,17-18,7fdcf47f
+3ead85f9,Alessio Romagnoli,13,ITA,CB,23-078,90,0,0,0,0,0,0,0,0,58,1,2,0,0.0,0.0,0.0,1,0,46,51,90.2,0,25,0,0,0,Milan,2018-03-31 Juventus-Milan,ITA-SERIA_A,17-18,7fdcf47f
+52ec54d0,Leonardo Bonucci,19,ITA,CB,30-334,90,1,0,0,0,1,1,0,0,74,1,1,1,0.3,0.3,0.0,0,0,53,66,80.3,7,41,3,0,0,Milan,2018-03-31 Juventus-Milan,ITA-SERIA_A,17-18,7fdcf47f
+2146785a,Davide Calabria,2,ITA,RB,21-115,90,0,0,0,0,0,0,0,0,78,2,0,1,0.0,0.0,0.0,0,0,61,73,83.6,8,27,1,1,1,Milan,2018-03-31 Juventus-Milan,ITA-SERIA_A,17-18,7fdcf47f
+08f5afaa,Gianluigi Donnarumma,99,ITA,GK,19-034,90,0,0,0,0,0,0,0,0,35,0,0,0,0.0,0.0,0.0,0,0,23,34,67.6,0,21,0,0,0,Milan,2018-03-31 Juventus-Milan,ITA-SERIA_A,17-18,7fdcf47f

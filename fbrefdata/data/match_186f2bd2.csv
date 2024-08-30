@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+bc6bd723,Alassane Pléa,14,FRA,FW,31-049,87,0,0,0,0,2,1,0,0,44,0,0,0,0.2,0.2,0.1,6,0,26,38,68.4,1,35,2,2,0,Mönchengladbach,2024-04-28 Gladbach-Union Berlin,GER-BL1,23-24,186f2bd2
+b684a484,Jordan Pefok,13,USA,FW,28-002,3,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Mönchengladbach,2024-04-28 Gladbach-Union Berlin,GER-BL1,23-24,186f2bd2
+0174ba21,Robin Hack,25,GER,AM,25-245,79,0,0,0,0,0,0,0,0,43,2,0,2,0.0,0.0,0.4,3,0,24,33,72.7,7,30,6,4,1,Mönchengladbach,2024-04-28 Gladbach-Union Berlin,GER-BL1,23-24,186f2bd2
+db7849ca,Franck Honorat,9,FRA,AM,27-261,11,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.1,2,0,3,7,42.9,0,5,0,0,0,Mönchengladbach,2024-04-28 Gladbach-Union Berlin,GER-BL1,23-24,186f2bd2
+298c8aa1,Tomáš Čvančara,31,CZE,AM,23-259,65,0,0,0,0,3,2,0,0,24,0,0,0,0.1,0.1,0.1,3,0,12,20,60.0,0,10,1,1,1,Mönchengladbach,2024-04-28 Gladbach-Union Berlin,GER-BL1,23-24,186f2bd2
+e110ea4b,Nathan N'Goumou,19,FRA,AM,24-045,25,0,0,0,0,2,0,0,0,13,1,0,0,0.1,0.1,0.0,0,0,4,9,44.4,0,6,2,0,0,Mönchengladbach,2024-04-28 Gladbach-Union Berlin,GER-BL1,23-24,186f2bd2
+97d545ae,Ko Itakura,3,JPN,CM,27-092,90,0,0,0,0,3,0,0,0,58,4,0,2,0.2,0.2,0.0,1,0,40,51,78.4,3,32,2,2,2,Mönchengladbach,2024-04-28 Gladbach-Union Berlin,GER-BL1,23-24,186f2bd2
+cc971106,Rocco Reitz,27,GER,CM,21-335,90,0,0,0,0,0,0,1,0,80,2,5,3,0.0,0.0,0.0,1,0,45,66,68.2,5,42,0,1,0,Mönchengladbach,2024-04-28 Gladbach-Union Berlin,GER-BL1,23-24,186f2bd2
+236f02cd,Joe Scally,29,USA,WB,21-119,90,0,0,0,0,1,0,0,0,44,1,0,2,0.1,0.1,0.1,2,0,27,34,79.4,1,28,2,2,0,Mönchengladbach,2024-04-28 Gladbach-Union Berlin,GER-BL1,23-24,186f2bd2
+4aea5077,Stefan Lainer,18,AUT,WB,31-245,65,0,0,0,0,0,0,1,0,66,2,0,2,0.0,0.0,0.0,0,0,33,53,62.3,0,28,1,1,0,Mönchengladbach,2024-04-28 Gladbach-Union Berlin,GER-BL1,23-24,186f2bd2
+e79269bd,Luca Netz,20,GER,WB,20-349,25,0,0,0,0,0,0,0,0,31,2,0,0,0.0,0.0,0.0,2,0,19,27,70.4,3,13,0,1,0,Mönchengladbach,2024-04-28 Gladbach-Union Berlin,GER-BL1,23-24,186f2bd2
+48780156,Fabio Chiarodia,2,ITA,CB,18-328,79,0,0,0,0,0,0,0,0,56,3,2,1,0.0,0.0,0.0,0,0,48,49,98.0,1,41,0,0,0,Mönchengladbach,2024-04-28 Gladbach-Union Berlin,GER-BL1,23-24,186f2bd2
+86574238,Manu Koné,17,FRA,CB,22-347,11,0,0,0,0,0,0,0,0,13,0,0,0,0.0,0.0,0.0,1,0,10,11,90.9,2,5,0,0,0,Mönchengladbach,2024-04-28 Gladbach-Union Berlin,GER-BL1,23-24,186f2bd2
+48035304,Nico Elvedi,30,SUI,CB,27-211,90,0,0,0,0,0,0,0,0,103,1,3,0,0.0,0.0,0.0,0,0,77,90,85.6,1,69,0,0,0,Mönchengladbach,2024-04-28 Gladbach-Union Berlin,GER-BL1,23-24,186f2bd2
+b77f44a4,Marvin Friedrich,5,GER,CB,28-137,90,0,0,0,0,2,1,0,0,72,3,1,1,0.1,0.1,0.0,2,0,48,62,77.4,2,46,0,0,0,Mönchengladbach,2024-04-28 Gladbach-Union Berlin,GER-BL1,23-24,186f2bd2
+226ddf9d,Moritz Nicolas,33,GER,GK,26-190,90,0,0,0,0,0,0,0,0,53,0,0,0,0.0,0.0,0.0,0,0,34,50,68.0,0,41,0,0,0,Mönchengladbach,2024-04-28 Gladbach-Union Berlin,GER-BL1,23-24,186f2bd2
+e8ef59da,Yorbe Vertessen,14,BEL,FW,23-111,45,0,0,0,0,1,1,0,0,17,0,0,1,0.0,0.0,0.0,1,0,8,12,66.7,1,9,0,1,0,Union Berlin,2024-04-28 Gladbach-Union Berlin,GER-BL1,23-24,186f2bd2
+049751d7,András Schäfer,13,HUN,FW,25-015,45,0,0,0,0,1,0,0,0,39,1,1,2,0.3,0.3,0.1,3,0,24,32,75.0,3,17,1,2,1,Union Berlin,2024-04-28 Gladbach-Union Berlin,GER-BL1,23-24,186f2bd2
+64f69877,Kevin Volland,10,GER,FW,31-273,86,0,0,0,0,3,2,0,0,34,2,0,0,0.4,0.4,0.0,3,0,18,24,75.0,2,16,0,4,2,Union Berlin,2024-04-28 Gladbach-Union Berlin,GER-BL1,23-24,186f2bd2
+6e269dd3,Mikkel Kaufmann,9,DEN,FW,23-116,4,0,0,0,0,1,1,0,0,4,0,0,0,0.1,0.1,0.0,0,0,0,1,0.0,0,3,0,1,0,Union Berlin,2024-04-28 Gladbach-Union Berlin,GER-BL1,23-24,186f2bd2
+5bc43860,Brenden Aaronson,7,USA,AM,23-189,73,0,0,0,0,2,2,0,0,47,0,0,2,0.0,0.0,0.0,5,0,27,34,79.4,6,24,0,4,0,Union Berlin,2024-04-28 Gladbach-Union Berlin,GER-BL1,23-24,186f2bd2
+2a158218,Benedict Hollerbach,16,GER,AM,22-347,17,0,0,0,0,0,0,0,0,12,0,1,1,0.0,0.0,0.0,1,0,4,7,57.1,0,8,0,0,0,Union Berlin,2024-04-28 Gladbach-Union Berlin,GER-BL1,23-24,186f2bd2
+59e4b92e,Rani Khedira,8,GER,CM,30-092,90,0,0,0,0,0,0,1,0,43,3,2,1,0.0,0.0,0.0,0,0,25,33,75.8,2,15,0,0,0,Union Berlin,2024-04-28 Gladbach-Union Berlin,GER-BL1,23-24,186f2bd2
+71ec39ef,Lucas Tousart,29,FRA,CM,26-365,90,0,0,0,0,4,1,0,0,57,2,2,2,0.2,0.2,0.3,2,0,29,37,78.4,2,22,1,1,0,Union Berlin,2024-04-28 Gladbach-Union Berlin,GER-BL1,23-24,186f2bd2
+2d970560,Robin Gosens,6,GER,WB,29-298,90,0,0,0,0,1,0,0,0,85,2,1,4,0.0,0.0,0.0,2,0,52,71,73.2,5,24,2,1,0,Union Berlin,2024-04-28 Gladbach-Union Berlin,GER-BL1,23-24,186f2bd2
+0a084b35,Josip Juranović,18,CRO,WB,28-256,86,0,0,0,0,0,0,0,0,55,2,0,2,0.0,0.0,0.1,3,0,36,48,75.0,6,23,0,1,0,Union Berlin,2024-04-28 Gladbach-Union Berlin,GER-BL1,23-24,186f2bd2
+056d2d95,Christopher Trimmel,28,AUT,WB,37-064,4,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,5,8,62.5,3,8,2,0,0,Union Berlin,2024-04-28 Gladbach-Union Berlin,GER-BL1,23-24,186f2bd2
+c4987edc,Diogo Leite,4,POR,CB,25-096,90,0,0,0,0,0,0,0,0,88,1,1,1,0.0,0.0,0.0,1,0,58,77,75.3,8,41,0,0,0,Union Berlin,2024-04-28 Gladbach-Union Berlin,GER-BL1,23-24,186f2bd2
+1d8e9add,Kevin Vogt,2,GER,CB,32-218,45,0,0,0,0,0,0,1,0,49,1,0,0,0.0,0.0,0.0,0,0,40,43,93.0,1,31,0,0,0,Union Berlin,2024-04-28 Gladbach-Union Berlin,GER-BL1,23-24,186f2bd2
+6bd5cd5d,Robin Knoche,31,GER,CB,31-342,45,0,0,0,0,1,0,0,0,44,0,1,1,0.0,0.0,0.0,0,0,30,41,73.2,4,19,0,0,0,Union Berlin,2024-04-28 Gladbach-Union Berlin,GER-BL1,23-24,186f2bd2
+f67c9d29,Danilho Doekhi,5,NED,CB,25-303,90,0,0,0,0,0,0,0,0,65,1,2,2,0.0,0.0,0.0,1,0,46,58,79.3,10,37,2,0,0,Union Berlin,2024-04-28 Gladbach-Union Berlin,GER-BL1,23-24,186f2bd2
+a70b8345,Frederik Rønnow,1,DEN,GK,31-268,90,0,0,0,0,0,0,0,0,39,0,0,0,0.0,0.0,0.0,0,0,28,38,73.7,0,28,0,0,0,Union Berlin,2024-04-28 Gladbach-Union Berlin,GER-BL1,23-24,186f2bd2

@@ -1,0 +1,32 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+f93e6e94,Nils Petersen,18,GER,FW,32-006,76,0,0,0,0,3,0,0,0,25,0,2,2,0.8,0.8,0.1,2,0,9,14,64.3,2,6,1,0,0,Freiburg,2020-12-12 Freiburg-Arminia,GER-BL1,20-21,1aa43542
+ed79b7d3,Ermedin Demirović,11,BIH,FW,22-262,14,0,1,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.3,1,1,3,6,50.0,1,4,0,0,0,Freiburg,2020-12-12 Freiburg-Arminia,GER-BL1,20-21,1aa43542
+54e4866f,Vincenzo Grifo,32,ITA,LW,27-249,85,1,0,1,1,4,3,1,0,56,0,0,1,1.0,0.2,0.1,10,1,32,44,72.7,7,26,0,2,1,Freiburg,2020-12-12 Freiburg-Arminia,GER-BL1,20-21,1aa43542
+6190474d,Jeong Woo-yeong,29,KOR,LW,21-083,5,1,0,0,0,1,1,0,0,3,0,0,0,0.3,0.3,0.0,0,0,1,2,50.0,0,2,1,0,0,Freiburg,2020-12-12 Freiburg-Arminia,GER-BL1,20-21,1aa43542
+ca618d23,Lucas Höler,9,GER,RW,26-155,67,0,0,0,0,1,1,1,0,37,2,0,1,0.1,0.1,0.1,2,0,21,29,72.4,4,21,3,2,2,Freiburg,2020-12-12 Freiburg-Arminia,GER-BL1,20-21,1aa43542
+bf075f6b,Roland Sallai,22,HUN,RW,23-204,23,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,1,1,1,2,50.0,0,3,0,1,0,Freiburg,2020-12-12 Freiburg-Arminia,GER-BL1,20-21,1aa43542
+8593f88c,Christian Günter,30,GER,LM,27-288,90,0,0,0,0,0,0,0,0,64,0,2,1,0.0,0.0,0.1,3,0,43,57,75.4,3,30,1,0,0,Freiburg,2020-12-12 Freiburg-Arminia,GER-BL1,20-21,1aa43542
+5d8e331f,Nicolas Höfler,27,GER,CM,30-278,90,0,0,0,0,0,0,1,0,57,1,3,1,0.0,0.0,0.0,1,0,41,47,87.2,6,25,1,4,2,Freiburg,2020-12-12 Freiburg-Arminia,GER-BL1,20-21,1aa43542
+5e22e2a4,Baptiste Santamaria,8,FRA,CM,25-278,90,0,0,0,0,2,0,0,0,59,1,0,2,0.1,0.1,0.1,3,0,37,48,77.1,6,25,0,3,2,Freiburg,2020-12-12 Freiburg-Arminia,GER-BL1,20-21,1aa43542
+088ca1bd,Jonathan Schmid,7,FRA,RM,30-173,76,0,0,0,0,0,0,0,0,56,1,0,0,0.0,0.0,0.0,0,0,39,50,78.0,9,22,2,3,1,Freiburg,2020-12-12 Freiburg-Arminia,GER-BL1,20-21,1aa43542
+4e3a947f,Lino Tempelmann,34,GER,RM,21-314,14,0,0,0,0,0,0,0,0,10,1,0,0,0.0,0.0,0.0,0,0,6,7,85.7,0,3,0,0,0,Freiburg,2020-12-12 Freiburg-Arminia,GER-BL1,20-21,1aa43542
+25ab9c9c,Manuel Gulde,5,GER,CB,29-304,90,0,0,0,0,2,1,0,0,66,2,1,0,0.1,0.1,0.0,0,0,48,56,85.7,2,24,0,0,0,Freiburg,2020-12-12 Freiburg-Arminia,GER-BL1,20-21,1aa43542
+f6bdc830,Keven Schlotterbeck,31,GER,CB,23-228,90,0,0,0,0,1,0,0,0,63,0,1,0,0.0,0.0,0.0,1,0,39,52,75.0,3,29,0,0,0,Freiburg,2020-12-12 Freiburg-Arminia,GER-BL1,20-21,1aa43542
+302527b2,Philipp Lienhart,3,AUT,CB,24-154,90,0,0,0,0,1,0,0,0,72,0,3,1,0.0,0.0,0.0,0,0,53,60,88.3,3,31,0,0,0,Freiburg,2020-12-12 Freiburg-Arminia,GER-BL1,20-21,1aa43542
+cbac6ec9,Florian Müller,21,GER,GK,23-029,90,0,0,0,0,0,0,0,0,40,0,0,0,0.0,0.0,0.0,2,0,26,39,66.7,0,21,0,0,0,Freiburg,2020-12-12 Freiburg-Arminia,GER-BL1,20-21,1aa43542
+e21042ae,Fabian Klos,9,GER,FW,33-010,90,0,0,0,0,0,0,0,0,27,0,0,0,0.0,0.0,0.0,1,0,15,24,62.5,2,5,0,1,0,Arminia,2020-12-12 Freiburg-Arminia,GER-BL1,20-21,1aa43542
+53eeaf6a,Sven Schipplock,36,GER,FW,32-034,81,0,0,0,0,1,1,0,0,35,2,1,3,0.0,0.0,0.0,1,0,12,23,52.2,1,12,0,2,2,Arminia,2020-12-12 Freiburg-Arminia,GER-BL1,20-21,1aa43542
+d847944b,Christian Gebauer,7,AUT,FW,26-358,9,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,1,0,0,0,Arminia,2020-12-12 Freiburg-Arminia,GER-BL1,20-21,1aa43542
+3c4b7820,Cebio Soukou,17,BEN,LM,28-071,60,0,0,0,0,0,0,0,0,21,1,1,0,0.0,0.0,0.1,1,0,10,13,76.9,2,10,0,3,2,Arminia,2020-12-12 Freiburg-Arminia,GER-BL1,20-21,1aa43542
+229cd98a,Sergio Córdova,18,VEN,LM,23-125,30,0,0,0,0,0,0,0,0,10,0,0,1,0.0,0.0,0.0,1,0,4,9,44.4,1,6,3,1,1,Arminia,2020-12-12 Freiburg-Arminia,GER-BL1,20-21,1aa43542
+614eca9b,Marcel Hartel,30,GER,CM,24-328,81,0,0,0,0,0,0,0,0,34,1,1,0,0.0,0.0,0.0,1,0,19,28,67.9,2,7,0,0,0,Arminia,2020-12-12 Freiburg-Arminia,GER-BL1,20-21,1aa43542
+0da32a38,Nils Seufert,20,GER,CM,23-313,9,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,7,8,87.5,1,2,0,0,0,Arminia,2020-12-12 Freiburg-Arminia,GER-BL1,20-21,1aa43542
+d01bbb6f,Ritsu Doan,8,JPN,RM,22-179,90,0,0,0,0,0,0,0,0,38,1,1,1,0.0,0.0,0.1,2,0,20,32,62.5,0,22,3,1,1,Arminia,2020-12-12 Freiburg-Arminia,GER-BL1,20-21,1aa43542
+901c0f97,Manuel Prietl,19,AUT,DM,29-131,90,0,0,0,0,0,0,0,0,59,3,2,1,0.0,0.0,0.0,0,0,45,51,88.2,5,31,1,2,2,Arminia,2020-12-12 Freiburg-Arminia,GER-BL1,20-21,1aa43542
+5569bf9a,Anderson Lucoqui,23,ANG,LB,23-159,88,0,0,0,0,1,0,0,0,56,2,2,0,0.0,0.0,0.0,2,0,29,42,69.0,6,29,3,1,1,Arminia,2020-12-12 Freiburg-Arminia,GER-BL1,20-21,1aa43542
+d3585b17,Sebastian Müller,13,GER,LB,19-324,2,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,1,0,0,0,Arminia,2020-12-12 Freiburg-Arminia,GER-BL1,20-21,1aa43542
+c562c5b4,Joakim Nilsson,4,SWE,CB,26-310,90,0,0,0,0,1,0,0,0,90,4,1,0,0.0,0.0,0.0,0,0,66,81,81.5,4,42,0,0,0,Arminia,2020-12-12 Freiburg-Arminia,GER-BL1,20-21,1aa43542
+25f50295,Mike van der Hoorn,6,NED,CB,28-058,90,0,0,0,0,1,1,0,0,104,1,0,1,0.1,0.1,0.0,0,0,85,96,88.5,4,43,1,0,0,Arminia,2020-12-12 Freiburg-Arminia,GER-BL1,20-21,1aa43542
+f0a37d36,Cédric Brunner,27,SUI,RB,26-299,90,0,0,0,0,1,0,0,0,73,1,1,1,0.1,0.1,0.0,1,0,49,65,75.4,1,30,1,0,0,Arminia,2020-12-12 Freiburg-Arminia,GER-BL1,20-21,1aa43542
+c1242d4e,Stefan Ortega,1,GER,GK,28-036,90,0,0,0,0,0,0,0,0,84,0,0,0,0.0,0.0,0.0,0,0,59,79,74.7,0,44,0,0,0,Arminia,2020-12-12 Freiburg-Arminia,GER-BL1,20-21,1aa43542

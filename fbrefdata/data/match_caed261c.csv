@@ -1,0 +1,31 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+ca618d23,Lucas Höler,9,GER,FW,26-135,83,0,0,0,0,1,0,0,0,55,0,1,2,0.7,0.7,0.2,7,0,31,45,68.9,3,32,4,2,1,Freiburg,2020-11-22 Freiburg-Mainz 05,GER-BL1,20-21,caed261c
+ed79b7d3,Ermedin Demirović,11,BIH,FW,22-242,7,0,0,0,0,0,0,0,0,4,0,0,1,0.0,0.0,0.0,0,0,2,3,66.7,1,1,0,0,0,Freiburg,2020-11-22 Freiburg-Mainz 05,GER-BL1,20-21,caed261c
+f93e6e94,Nils Petersen,18,GER,FW,31-352,90,1,0,0,0,3,1,0,0,24,0,0,2,0.6,0.6,0.0,1,0,10,14,71.4,1,8,1,1,1,Freiburg,2020-11-22 Freiburg-Mainz 05,GER-BL1,20-21,caed261c
+54e4866f,Vincenzo Grifo,32,ITA,LM,27-229,90,0,0,0,0,3,1,0,0,97,0,1,2,0.1,0.1,0.3,10,0,67,88,76.1,10,46,10,4,2,Freiburg,2020-11-22 Freiburg-Mainz 05,GER-BL1,20-21,caed261c
+4e3a947f,Lino Tempelmann,34,GER,CM,21-294,45,0,0,0,0,1,0,0,0,51,0,0,2,0.0,0.0,0.0,0,0,38,44,86.4,1,27,0,0,0,Freiburg,2020-11-22 Freiburg-Mainz 05,GER-BL1,20-21,caed261c
+5d8e331f,Nicolas Höfler,27,GER,CM,30-258,45,0,0,0,0,0,0,0,0,62,1,1,0,0.0,0.0,0.1,1,0,53,59,89.8,7,31,4,0,0,Freiburg,2020-11-22 Freiburg-Mainz 05,GER-BL1,20-21,caed261c
+5e22e2a4,Baptiste Santamaria,8,FRA,CM,25-258,87,0,0,0,0,1,0,0,0,84,1,2,0,0.0,0.0,0.0,0,0,68,78,87.2,6,39,2,1,1,Freiburg,2020-11-22 Freiburg-Mainz 05,GER-BL1,20-21,caed261c
+6e44569a,Guus Til,14,NED,CM,22-336,3,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,1,0,0,0,Freiburg,2020-11-22 Freiburg-Mainz 05,GER-BL1,20-21,caed261c
+bf075f6b,Roland Sallai,22,HUN,RM,23-184,90,0,0,0,0,6,2,0,0,49,0,0,0,0.3,0.3,0.1,7,1,30,39,76.9,6,30,4,1,1,Freiburg,2020-11-22 Freiburg-Mainz 05,GER-BL1,20-21,caed261c
+8593f88c,Christian Günter,30,GER,LB,27-268,90,0,0,0,0,2,1,0,0,92,2,0,1,0.1,0.1,0.1,4,0,66,83,79.5,3,25,3,1,0,Freiburg,2020-11-22 Freiburg-Mainz 05,GER-BL1,20-21,caed261c
+699fb8db,Dominique Heintz,23,GER,CB,27-099,90,0,0,0,0,1,0,0,0,113,3,2,1,0.1,0.1,0.0,1,0,95,103,92.2,7,62,1,0,0,Freiburg,2020-11-22 Freiburg-Mainz 05,GER-BL1,20-21,caed261c
+302527b2,Philipp Lienhart,3,AUT,CB,24-134,90,0,0,0,0,0,0,0,0,86,0,0,0,0.0,0.0,0.0,1,0,83,85,97.6,5,52,0,0,0,Freiburg,2020-11-22 Freiburg-Mainz 05,GER-BL1,20-21,caed261c
+088ca1bd,Jonathan Schmid,7,FRA,RB,30-153,90,0,0,0,0,2,1,0,0,96,3,2,1,0.1,0.1,0.1,3,0,66,86,76.7,7,40,1,0,0,Freiburg,2020-11-22 Freiburg-Mainz 05,GER-BL1,20-21,caed261c
+cbac6ec9,Florian Müller,21,GER,GK,23-009,90,0,0,0,0,0,0,0,0,48,0,0,0,0.0,0.0,0.0,0,0,37,44,84.1,0,20,0,0,0,Freiburg,2020-11-22 Freiburg-Mainz 05,GER-BL1,20-21,caed261c
+50e6dc35,Jean-Philippe Mateta,9,FRA,FW,23-147,79,3,0,0,0,6,4,0,0,42,1,0,0,2.2,2.2,0.0,5,0,19,29,65.5,0,30,4,5,3,Mainz 05,2020-11-22 Freiburg-Mainz 05,GER-BL1,20-21,caed261c
+7d841904,Ji Dong-won,11,KOR,FW,29-178,11,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,1,0,3,5,60.0,1,1,0,0,0,Mainz 05,2020-11-22 Freiburg-Mainz 05,GER-BL1,20-21,caed261c
+635f2732,Jean-Paul Boëtius,5,NED,FW,26-245,90,0,1,0,0,4,1,0,0,41,0,2,1,0.2,0.2,0.5,5,1,23,31,74.2,7,29,2,1,1,Mainz 05,2020-11-22 Freiburg-Mainz 05,GER-BL1,20-21,caed261c
+3bb625ac,Edimilson Fernandes,20,SUI,CM,24-221,69,0,0,0,0,1,0,0,0,30,0,3,1,0.0,0.0,0.1,1,0,13,19,68.4,2,15,0,0,0,Mainz 05,2020-11-22 Freiburg-Mainz 05,GER-BL1,20-21,caed261c
+9ceb7642,Pierre Kunde,14,CMR,CM,25-119,21,0,0,0,0,0,0,0,0,9,0,0,1,0.0,0.0,0.1,1,0,3,6,50.0,1,3,1,0,0,Mainz 05,2020-11-22 Freiburg-Mainz 05,GER-BL1,20-21,caed261c
+74c7c2db,Robin Quaison,7,SWE,CM,27-044,69,0,0,0,0,1,1,0,0,22,0,1,0,0.0,0.0,0.0,6,3,10,17,58.8,1,16,0,2,1,Mainz 05,2020-11-22 Freiburg-Mainz 05,GER-BL1,20-21,caed261c
+f26834c7,Karim Onisiwo,21,AUT,CM,28-250,21,0,0,0,0,4,1,0,0,9,0,0,1,0.2,0.2,0.0,0,0,1,2,50.0,0,8,3,0,0,Mainz 05,2020-11-22 Freiburg-Mainz 05,GER-BL1,20-21,caed261c
+00242b75,Leandro Barreiro Martins,35,LUX,CM,20-324,89,0,1,0,0,2,1,0,0,53,0,8,1,0.1,0.1,0.9,5,1,22,31,71.0,6,21,2,0,0,Mainz 05,2020-11-22 Freiburg-Mainz 05,GER-BL1,20-21,caed261c
+610aa1e9,Luca Kilian,15,GER,CM,21-082,1,0,0,0,0,0,0,0,0,3,1,1,0,0.0,0.0,0.0,0,0,1,1,100.0,0,0,0,0,0,Mainz 05,2020-11-22 Freiburg-Mainz 05,GER-BL1,20-21,caed261c
+a7813ac4,Daniel Brosinski,18,GER,WB,32-128,90,0,0,0,0,0,0,0,0,37,0,2,3,0.0,0.0,0.6,3,0,22,27,81.5,4,12,0,1,0,Mainz 05,2020-11-22 Freiburg-Mainz 05,GER-BL1,20-21,caed261c
+66385c46,Levin Öztunalı,8,GER,WB,24-252,90,0,0,0,0,1,0,0,0,53,2,3,3,0.0,0.0,0.1,2,0,26,43,60.5,0,29,1,0,0,Mainz 05,2020-11-22 Freiburg-Mainz 05,GER-BL1,20-21,caed261c
+00242715,Moussa Niakhate,19,SEN,CB,24-259,90,0,0,0,0,0,0,1,0,21,0,1,1,0.0,0.0,0.0,1,0,11,18,61.1,1,14,1,0,0,Mainz 05,2020-11-22 Freiburg-Mainz 05,GER-BL1,20-21,caed261c
+a5ec3ede,Alexander Hack,42,GER,CB,27-075,90,0,0,0,0,0,0,0,0,42,2,0,4,0.0,0.0,0.1,3,0,24,30,80.0,2,18,0,0,0,Mainz 05,2020-11-22 Freiburg-Mainz 05,GER-BL1,20-21,caed261c
+90339309,Jerry St. Juste,4,NED,CB,24-034,90,0,0,0,0,1,0,0,0,35,2,0,2,0.1,0.1,0.0,0,0,15,19,78.9,3,15,1,1,1,Mainz 05,2020-11-22 Freiburg-Mainz 05,GER-BL1,20-21,caed261c
+5c4bf6ba,Robin Zentner,27,GER,GK,26-025,90,0,0,0,0,0,0,0,0,40,0,1,0,0.0,0.0,0.0,1,0,19,36,52.8,0,21,0,0,0,Mainz 05,2020-11-22 Freiburg-Mainz 05,GER-BL1,20-21,caed261c

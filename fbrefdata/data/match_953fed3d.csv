@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+8652a85c,Loïs Openda,11,BEL,FW,22-205,71,0,0,0,0,3,1,0,0,19,0,0,0,0.3,0.3,0.0,1,0,9,9,100.0,2,14,1,2,0,Lens,2022-09-09 Lens-Troyes,FRA-L1,22-23,953fed3d
+3b676989,Adam Buksa,9,POL,FW,26-059,19,0,0,0,0,0,0,0,0,6,1,0,0,0.0,0.0,0.0,0,0,2,5,40.0,1,5,0,0,0,Lens,2022-09-09 Lens-Troyes,FRA-L1,22-23,953fed3d
+59948ef7,David Pereira da Costa,20,POR,AM,21-247,71,0,0,0,0,0,0,0,0,45,0,0,0,0.0,0.0,0.3,1,0,36,38,94.7,4,42,3,3,1,Lens,2022-09-09 Lens-Troyes,FRA-L1,22-23,953fed3d
+741418c3,Alexis Claude-Maurice,18,FRA,AM,24-095,19,0,0,0,0,0,0,0,0,8,1,0,0,0.0,0.0,0.0,0,0,5,7,71.4,0,9,0,0,0,Lens,2022-09-09 Lens-Troyes,FRA-L1,22-23,953fed3d
+7a42d0df,Florian Sotoca,7,FRA,AM,31-319,90,0,0,0,0,3,1,0,0,72,0,1,1,0.4,0.4,0.0,2,0,51,60,85.0,12,58,2,3,1,Lens,2022-09-09 Lens-Troyes,FRA-L1,22-23,953fed3d
+be98f358,Łukasz Poręba,13,POL,CM,22-180,45,0,0,0,0,1,0,1,0,38,1,1,2,0.0,0.0,0.0,1,0,20,31,64.5,0,28,1,1,1,Lens,2022-09-09 Lens-Troyes,FRA-L1,22-23,953fed3d
+5313ed43,Seko Fofana,8,CIV,CM,27-125,45,0,0,0,0,1,0,0,0,45,1,1,0,0.2,0.2,0.1,2,0,34,39,87.2,2,42,3,0,0,Lens,2022-09-09 Lens-Troyes,FRA-L1,22-23,953fed3d
+82464ce3,Salis Abdul Samed,26,GHA,CM,22-167,90,0,0,0,0,1,0,0,0,103,2,2,1,0.0,0.0,0.0,1,0,87,90,96.7,8,87,2,1,0,Lens,2022-09-09 Lens-Troyes,FRA-L1,22-23,953fed3d
+5167c97e,Massadio Haïdara,21,MLI,"CB,WB",29-281,90,0,0,0,0,0,0,0,0,82,5,2,0,0.0,0.0,0.0,0,0,67,70,95.7,12,62,1,1,0,Lens,2022-09-09 Lens-Troyes,FRA-L1,22-23,953fed3d
+46359159,Jimmy Cabot,19,FRA,WB,28-144,90,0,0,0,0,1,0,1,0,83,3,0,2,0.1,0.1,0.2,2,0,53,68,77.9,5,57,5,3,0,Lens,2022-09-09 Lens-Troyes,FRA-L1,22-23,953fed3d
+6f5ec8bb,Facundo Medina,14,ARG,CB,23-104,90,0,0,0,0,0,0,0,0,113,0,3,1,0.0,0.0,0.2,1,0,92,100,92.0,7,92,2,2,1,Lens,2022-09-09 Lens-Troyes,FRA-L1,22-23,953fed3d
+6e33125f,Kevin Danso,4,AUT,CB,23-355,90,1,0,0,0,2,1,0,0,115,1,0,1,0.3,0.3,0.0,4,0,104,108,96.3,4,100,3,1,1,Lens,2022-09-09 Lens-Troyes,FRA-L1,22-23,953fed3d
+06c48679,Jonathan Gradit,24,FRA,CB,29-289,15,0,0,0,0,0,0,0,0,14,1,1,0,0.0,0.0,0.0,0,0,8,10,80.0,0,9,2,0,0,Lens,2022-09-09 Lens-Troyes,FRA-L1,22-23,953fed3d
+00a8d210,Przemysław Frankowski,29,POL,WB,27-150,75,0,1,0,0,0,0,0,0,56,2,1,0,0.0,0.0,0.3,3,1,42,49,85.7,7,34,1,0,0,Lens,2022-09-09 Lens-Troyes,FRA-L1,22-23,953fed3d
+60d90c55,Brice Samba,30,FRA,GK,28-137,90,0,0,0,0,0,0,0,0,30,0,0,0,0.0,0.0,0.0,0,0,24,29,82.8,0,26,0,0,0,Lens,2022-09-09 Lens-Troyes,FRA-L1,22-23,953fed3d
+fb14aa28,Mama Samba Baldé,25,GNB,FW,26-307,90,0,0,0,0,2,1,0,0,43,5,1,1,0.3,0.3,0.0,1,0,16,22,72.7,2,28,1,2,2,Troyes,2022-09-09 Lens-Troyes,FRA-L1,22-23,953fed3d
+8a53d24b,Ike Ugbo,9,CAN,LM,23-353,45,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,5,6,83.3,1,8,0,0,0,Troyes,2022-09-09 Lens-Troyes,FRA-L1,22-23,953fed3d
+35516eac,Wilson Odobert,29,FRA,"RM,LM",17-285,45,0,0,0,0,1,0,0,0,19,1,0,0,0.1,0.1,0.0,1,0,7,10,70.0,0,16,1,4,4,Troyes,2022-09-09 Lens-Troyes,FRA-L1,22-23,953fed3d
+ed39121c,Florian Tardieu,10,FRA,CM,30-140,81,0,0,0,0,0,0,1,0,63,0,3,2,0.0,0.0,0.0,2,0,52,56,92.9,4,51,2,0,0,Troyes,2022-09-09 Lens-Troyes,FRA-L1,22-23,953fed3d
+8bc8829a,Lucien Agoume,8,FRA,CM,20-212,9,0,0,0,0,0,0,0,0,9,1,0,0,0.0,0.0,0.0,0,0,6,8,75.0,1,5,0,1,1,Troyes,2022-09-09 Lens-Troyes,FRA-L1,22-23,953fed3d
+86a2ba20,Rominigue Kouamé,6,MLI,CM,25-266,90,0,0,0,0,1,0,0,0,60,3,1,0,0.1,0.1,0.0,1,0,44,51,86.3,2,55,2,2,1,Troyes,2022-09-09 Lens-Troyes,FRA-L1,22-23,953fed3d
+7c2965bb,Rony Lopes,11,POR,RM,26-255,64,0,0,0,0,0,0,0,0,22,1,0,1,0.0,0.0,0.1,2,0,13,16,81.3,2,17,1,2,2,Troyes,2022-09-09 Lens-Troyes,FRA-L1,22-23,953fed3d
+cfa49cc1,Abdu Conté,12,POR,CB,24-169,26,0,0,0,0,0,0,0,0,21,1,0,0,0.0,0.0,0.3,2,0,15,18,83.3,6,16,0,0,0,Troyes,2022-09-09 Lens-Troyes,FRA-L1,22-23,953fed3d
+0ed063d6,Yasser Larouci,39,ALG,LB,21-251,90,0,0,0,0,0,0,0,0,53,3,2,0,0.0,0.0,0.0,1,0,28,43,65.1,2,35,1,4,1,Troyes,2022-09-09 Lens-Troyes,FRA-L1,22-23,953fed3d
+e5c1e0ca,Erik Palmer-Brown,4,USA,CB,25-138,65,0,0,0,0,0,0,0,0,36,1,1,2,0.0,0.0,0.0,0,0,20,25,80.0,1,24,0,1,0,Troyes,2022-09-09 Lens-Troyes,FRA-L1,22-23,953fed3d
+87e9c7cd,Papa Ndiaga Yade,26,MTN,LM,22-247,25,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,4,5,80.0,1,7,1,1,0,Troyes,2022-09-09 Lens-Troyes,FRA-L1,22-23,953fed3d
+8dbff17c,Adil Rami,23,FRA,CB,36-256,90,0,0,0,0,1,1,0,0,66,2,5,1,0.0,0.0,0.0,0,0,46,50,92.0,1,45,0,0,0,Troyes,2022-09-09 Lens-Troyes,FRA-L1,22-23,953fed3d
+7d704e92,Jackson Porozo,2,ECU,CB,22-036,90,0,0,0,0,1,0,0,0,59,4,3,2,0.1,0.1,0.0,0,0,33,42,78.6,2,32,0,0,0,Troyes,2022-09-09 Lens-Troyes,FRA-L1,22-23,953fed3d
+3975195f,Thierno Balde,3,FRA,RB,20-091,81,0,0,0,0,1,0,0,0,43,3,1,1,0.0,0.0,0.1,2,0,28,33,84.8,0,27,0,3,1,Troyes,2022-09-09 Lens-Troyes,FRA-L1,22-23,953fed3d
+beae3a73,Renaud Ripart,20,FRA,RB,29-179,9,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,5,6,83.3,0,3,0,1,0,Troyes,2022-09-09 Lens-Troyes,FRA-L1,22-23,953fed3d
+db3164e1,Gauthier Gallon,30,FRA,GK,29-139,90,0,0,0,0,0,0,0,0,36,0,0,0,0.0,0.0,0.0,0,0,19,32,59.4,0,20,0,0,0,Troyes,2022-09-09 Lens-Troyes,FRA-L1,22-23,953fed3d

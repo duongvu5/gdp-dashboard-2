@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+2f557579,Lorenzo Insigne,24,ITA,"FW,LM",27-151,90,1,2,0,0,5,3,0,0,70,2,1,0,0.2,0.2,0.6,8,3,48,56,85.7,8,53,4,0,0,Napoli,2018-11-02 Napoli-Empoli,ITA-SERIA_A,18-19,aef9f881
+89b2c8a9,Dries Mertens,14,BEL,FW,31-180,90,3,1,0,0,5,4,0,0,53,1,0,2,0.7,0.7,1.0,13,2,34,41,82.9,6,37,7,3,2,Napoli,2018-11-02 Napoli-Empoli,ITA-SERIA_A,18-19,aef9f881
+a5296e55,Piotr Zieliński,20,POL,LM,24-166,82,0,0,0,0,2,2,0,0,56,0,0,5,0.1,0.1,0.3,4,0,43,48,89.6,8,32,3,0,0,Napoli,2018-11-02 Napoli-Empoli,ITA-SERIA_A,18-19,aef9f881
+85613cf0,Arkadiusz Milik,99,POL,FW,24-247,8,1,0,0,0,1,1,0,0,5,0,0,0,0.3,0.3,0.0,0,0,2,2,100.0,0,4,0,0,0,Napoli,2018-11-02 Napoli-Empoli,ITA-SERIA_A,18-19,aef9f881
+bf309d24,Amadou Diawara,42,GUI,CM,21-108,90,0,0,0,0,0,0,0,0,80,3,4,1,0.0,0.0,0.0,1,0,60,66,90.9,5,43,1,3,3,Napoli,2018-11-02 Napoli-Empoli,ITA-SERIA_A,18-19,aef9f881
+b6b2b820,Marko Rog,30,CRO,CM,23-106,62,0,0,0,0,1,0,0,0,40,0,4,1,0.0,0.0,0.0,1,0,28,30,93.3,6,23,1,1,1,Napoli,2018-11-02 Napoli-Empoli,ITA-SERIA_A,18-19,aef9f881
+cc700722,Allan,5,BRA,CM,27-298,28,0,0,0,0,0,0,0,0,35,2,1,1,0.0,0.0,0.0,1,0,23,28,82.1,3,18,4,1,1,Napoli,2018-11-02 Napoli-Empoli,ITA-SERIA_A,18-19,aef9f881
+c0c7ff58,Fabián Ruiz Peña,8,ESP,RM,22-213,62,0,0,0,0,3,2,0,0,45,1,0,1,0.3,0.3,0.1,4,0,35,40,87.5,2,33,1,2,1,Napoli,2018-11-02 Napoli-Empoli,ITA-SERIA_A,18-19,aef9f881
+78841da9,José Callejón,7,ESP,RM,31-264,28,0,1,0,0,1,0,0,0,18,0,0,0,0.3,0.3,0.0,1,1,12,14,85.7,0,9,0,1,0,Napoli,2018-11-02 Napoli-Empoli,ITA-SERIA_A,18-19,aef9f881
+2f3452eb,Elseid Hysaj,23,ALB,LB,24-255,90,0,0,0,0,1,1,0,0,72,1,3,0,0.1,0.1,0.0,0,0,62,66,93.9,5,39,1,1,1,Napoli,2018-11-02 Napoli-Empoli,ITA-SERIA_A,18-19,aef9f881
+da974c7b,Kalidou Koulibaly,26,SEN,CB,27-135,90,0,1,0,0,0,0,0,0,88,0,3,3,0.0,0.0,0.1,3,2,61,68,89.7,2,42,1,0,0,Napoli,2018-11-02 Napoli-Empoli,ITA-SERIA_A,18-19,aef9f881
+16b9d5cf,Nikola Maksimović,19,SRB,CB,26-342,90,0,0,0,0,0,0,0,0,45,2,2,0,0.0,0.0,0.0,0,0,32,34,94.1,0,15,0,0,0,Napoli,2018-11-02 Napoli-Empoli,ITA-SERIA_A,18-19,aef9f881
+d6a889ea,Kévin Malcuit,2,MAR,RB,27-094,90,0,0,0,0,1,0,0,0,73,1,1,1,0.1,0.1,0.0,2,1,50,58,86.2,5,36,5,2,2,Napoli,2018-11-02 Napoli-Empoli,ITA-SERIA_A,18-19,aef9f881
+85b011bb,Orestis Karnezis,27,GRE,GK,33-114,90,0,0,0,0,0,0,0,0,34,0,0,0,0.0,0.0,0.0,0,0,22,33,66.7,0,16,0,0,0,Napoli,2018-11-02 Napoli-Empoli,ITA-SERIA_A,18-19,aef9f881
+5bd72174,Francesco Caputo,11,ITA,FW,31-088,90,1,0,0,0,1,1,0,0,27,1,0,1,0.3,0.3,0.0,0,0,14,18,77.8,1,16,3,1,0,Empoli,2018-11-02 Napoli-Empoli,ITA-SERIA_A,18-19,aef9f881
+fe154b26,Salih Uçan,48,TUR,AM,24-300,78,0,0,0,0,3,0,0,0,60,0,1,1,0.1,0.1,0.0,1,0,32,47,68.1,6,31,4,2,1,Empoli,2018-11-02 Napoli-Empoli,ITA-SERIA_A,18-19,aef9f881
+822a7761,Antonino La Gumina,20,ITA,CM,22-241,12,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,1,0,1,1,100.0,0,2,0,1,0,Empoli,2018-11-02 Napoli-Empoli,ITA-SERIA_A,18-19,aef9f881
+817c6964,Rade Krunić,33,BIH,AM,25-026,67,0,1,0,0,1,0,0,0,34,0,0,0,0.0,0.0,0.3,2,1,26,29,89.7,5,25,1,0,0,Empoli,2018-11-02 Napoli-Empoli,ITA-SERIA_A,18-19,aef9f881
+548902cc,Manuel Pasqual,23,ITA,"LM,AM",36-234,23,0,0,0,0,0,0,0,0,27,0,0,0,0.0,0.0,0.6,2,0,14,26,53.8,1,13,1,1,0,Empoli,2018-11-02 Napoli-Empoli,ITA-SERIA_A,18-19,aef9f881
+570bb4b9,Hamed Junior Traorè,8,CIV,"LM,RM",18-259,90,0,0,0,0,1,0,0,0,60,0,1,2,0.0,0.0,0.0,0,0,42,51,82.4,7,37,4,4,4,Empoli,2018-11-02 Napoli-Empoli,ITA-SERIA_A,18-19,aef9f881
+db092d3b,Ismaël Bennacer,10,ALG,"CM,DM",20-336,90,0,0,0,0,0,0,1,0,91,1,1,1,0.0,0.0,0.0,3,1,79,85,92.9,11,60,0,2,2,Empoli,2018-11-02 Napoli-Empoli,ITA-SERIA_A,18-19,aef9f881
+d7403bd5,Afriyie Acquah,18,GHA,RM,26-301,66,0,0,0,0,0,0,0,0,47,0,1,1,0.0,0.0,0.0,1,0,36,43,83.7,6,32,1,1,1,Empoli,2018-11-02 Napoli-Empoli,ITA-SERIA_A,18-19,aef9f881
+83e4643e,Miha Zajc,6,SVN,"CM,RM",24-124,24,0,0,0,0,1,1,0,0,23,0,0,0,0.0,0.0,0.1,2,0,19,21,90.5,5,18,0,0,0,Empoli,2018-11-02 Napoli-Empoli,ITA-SERIA_A,18-19,aef9f881
+40f0ed6c,Luca Antonelli,13,ITA,LB,31-264,90,0,0,0,0,1,1,0,0,96,3,4,1,0.0,0.0,0.0,1,0,68,79,86.1,10,49,4,2,2,Empoli,2018-11-02 Napoli-Empoli,ITA-SERIA_A,18-19,aef9f881
+3d936ba9,Domenico Maietta,22,ITA,CB,36-091,90,0,0,0,0,0,0,0,0,69,0,1,0,0.0,0.0,0.0,0,0,59,66,89.4,3,49,0,0,0,Empoli,2018-11-02 Napoli-Empoli,ITA-SERIA_A,18-19,aef9f881
+b6ca47a2,Matías Silvestre,26,ARG,CB,34-038,90,0,0,0,0,2,0,0,0,75,1,1,0,0.6,0.6,0.0,1,0,61,67,91.0,2,53,0,0,0,Empoli,2018-11-02 Napoli-Empoli,ITA-SERIA_A,18-19,aef9f881
+230a2fac,Giovanni Di Lorenzo,2,ITA,RB,25-090,90,0,0,0,0,1,1,1,0,71,0,1,0,0.1,0.1,0.1,3,0,51,68,75.0,8,40,1,2,2,Empoli,2018-11-02 Napoli-Empoli,ITA-SERIA_A,18-19,aef9f881
+277da414,Ivan Provedel,1,ITA,GK,24-230,90,0,0,0,0,0,0,0,0,47,0,0,0,0.0,0.0,0.0,0,0,42,45,93.3,0,30,0,0,0,Empoli,2018-11-02 Napoli-Empoli,ITA-SERIA_A,18-19,aef9f881

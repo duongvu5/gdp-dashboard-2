@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+31822f8c,Folarin Balogun,29,USA,FW,22-125,80,0,0,0,0,1,0,0,0,29,0,0,0,0.1,0.1,0.0,1,1,12,18,66.7,2,28,2,2,1,Monaco,2023-11-05 Monaco-Brest,FRA-L1,23-24,ef59a003
+f833a830,Takumi Minamino,18,JPN,FW,28-293,10,0,0,0,0,1,1,0,0,8,0,0,0,0.0,0.0,0.1,1,0,2,6,33.3,1,4,1,0,0,Monaco,2023-11-05 Monaco-Brest,FRA-L1,23-24,ef59a003
+3708e9fa,Aleksandr Golovin,17,RUS,AM,27-159,88,1,1,0,0,1,1,1,0,50,3,1,2,0.1,0.1,0.2,2,0,27,35,77.1,7,36,4,1,0,Monaco,2023-11-05 Monaco-Brest,FRA-L1,23-24,ef59a003
+5b479568,Myron Boadu,9,NED,AM,22-295,2,0,0,0,0,1,1,0,0,2,0,0,0,0.1,0.1,0.0,0,0,0,0,,0,2,2,1,0,Monaco,2023-11-05 Monaco-Brest,FRA-L1,23-24,ef59a003
+b625b241,Maghnes Akliouche,21,FRA,AM,21-253,64,0,0,0,0,1,0,0,0,37,1,0,0,0.1,0.1,0.0,1,0,20,28,71.4,2,28,2,1,1,Monaco,2023-11-05 Monaco-Brest,FRA-L1,23-24,ef59a003
+942b4f90,Wissam Ben Yedder,10,FRA,AM,33-085,26,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,6,7,85.7,1,8,0,0,0,Monaco,2023-11-05 Monaco-Brest,FRA-L1,23-24,ef59a003
+384d58d9,Denis Zakaria,6,SUI,CM,26-350,90,1,0,0,0,3,1,0,0,46,3,1,1,0.3,0.3,0.0,1,0,30,31,96.8,1,34,2,1,1,Monaco,2023-11-05 Monaco-Brest,FRA-L1,23-24,ef59a003
+822d51d7,Youssouf Fofana,19,FRA,CM,24-299,88,0,1,0,0,1,0,1,0,72,0,3,3,0.1,0.1,0.1,3,1,47,60,78.3,10,51,1,2,2,Monaco,2023-11-05 Monaco-Brest,FRA-L1,23-24,ef59a003
+489e80e3,Mohamed Camara,4,MLI,CM,23-303,2,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,1,0,4,5,80.0,1,3,1,0,0,Monaco,2023-11-05 Monaco-Brest,FRA-L1,23-24,ef59a003
+a0415710,Ismail Jakobs,14,SEN,WB,24-080,80,0,0,0,0,0,0,0,0,46,1,1,1,0.0,0.0,0.0,1,0,25,41,61.0,5,29,4,0,0,Monaco,2023-11-05 Monaco-Brest,FRA-L1,23-24,ef59a003
+6620c21a,Kassoum Ouattara,20,FRA,WB,19-022,10,0,0,0,0,1,1,0,0,13,1,0,0,0.0,0.0,0.0,0,0,6,8,75.0,0,7,0,2,1,Monaco,2023-11-05 Monaco-Brest,FRA-L1,23-24,ef59a003
+8104e41e,Krépin Diatta,27,SEN,WB,24-253,90,0,0,0,0,0,0,0,0,52,3,2,3,0.0,0.0,0.1,2,0,31,38,81.6,4,24,0,2,0,Monaco,2023-11-05 Monaco-Brest,FRA-L1,23-24,ef59a003
+dfc5d4fa,Soungoutou Magassa,88,FRA,CB,20-028,90,0,0,0,0,1,1,0,0,65,7,3,0,0.0,0.0,0.0,0,0,44,48,91.7,2,41,0,2,1,Monaco,2023-11-05 Monaco-Brest,FRA-L1,23-24,ef59a003
+d9764034,Guillermo Maripán,3,CHI,CB,29-183,90,0,0,0,0,1,0,0,0,44,1,1,1,0.1,0.1,0.0,0,0,30,32,93.8,0,30,0,0,0,Monaco,2023-11-05 Monaco-Brest,FRA-L1,23-24,ef59a003
+8b609c34,Wilfried Singo,99,CIV,CB,22-315,90,0,0,0,0,0,0,0,0,58,0,3,3,0.0,0.0,0.0,1,0,33,42,78.6,6,37,3,5,3,Monaco,2023-11-05 Monaco-Brest,FRA-L1,23-24,ef59a003
+ff74841d,Philipp Köhn,16,SUI,GK,25-217,90,0,0,0,0,0,0,0,0,27,0,1,0,0.0,0.0,0.0,2,0,18,26,69.2,0,15,0,0,0,Monaco,2023-11-05 Monaco-Brest,FRA-L1,23-24,ef59a003
+19ba6c6d,Steve Mounié,9,BEN,FW,29-037,72,0,0,0,0,1,0,0,0,26,1,0,0,0.0,0.0,0.1,1,0,11,18,61.1,0,18,0,3,2,Brest,2023-11-05 Monaco-Brest,FRA-L1,23-24,ef59a003
+86383d0e,Martin Satriano,7,URU,FW,22-258,18,0,0,0,0,1,0,0,0,8,1,0,0,0.0,0.0,0.0,0,0,3,5,60.0,1,4,0,0,0,Brest,2023-11-05 Monaco-Brest,FRA-L1,23-24,ef59a003
+88c4d190,Jérémy Le Douaron,22,FRA,LW,25-198,42,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,3,6,50.0,0,9,1,0,0,Brest,2023-11-05 Monaco-Brest,FRA-L1,23-24,ef59a003
+9f4a940f,Axel Camblan,11,FRA,LW,20-067,48,0,0,0,0,1,0,0,0,14,0,0,1,0.1,0.1,0.0,2,0,7,7,100.0,0,8,1,5,3,Brest,2023-11-05 Monaco-Brest,FRA-L1,23-24,ef59a003
+0be95d34,Romain Del Castillo,10,FRA,RW,27-221,82,0,0,0,0,0,0,0,0,52,0,0,0,0.0,0.0,0.1,5,0,31,43,72.1,3,43,0,8,4,Brest,2023-11-05 Monaco-Brest,FRA-L1,23-24,ef59a003
+02bcaf8e,Bilal Brahimi,21,ALG,RW,23-236,8,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,1,0,6,6,100.0,0,6,0,1,1,Brest,2023-11-05 Monaco-Brest,FRA-L1,23-24,ef59a003
+d4d35152,Hugo Magnetti,8,FRA,LM,25-159,82,0,0,0,0,0,0,0,0,46,1,1,0,0.0,0.0,0.0,1,0,34,39,87.2,3,31,2,1,0,Brest,2023-11-05 Monaco-Brest,FRA-L1,23-24,ef59a003
+8846a40f,Mathias Pereira Lage,26,POR,LM,26-340,8,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,1,0,4,6,66.7,0,5,0,0,0,Brest,2023-11-05 Monaco-Brest,FRA-L1,23-24,ef59a003
+f5044e54,Pierre Lees-Melou,20,FRA,CM,30-164,90,0,0,0,0,5,1,1,0,79,1,0,3,0.3,0.3,0.1,2,0,48,57,84.2,8,55,0,3,1,Brest,2023-11-05 Monaco-Brest,FRA-L1,23-24,ef59a003
+8577e60a,Mahdi Camara,45,FRA,RM,25-128,72,0,0,0,0,2,0,0,0,29,1,0,0,0.1,0.1,0.0,2,0,23,24,95.8,2,20,2,1,1,Brest,2023-11-05 Monaco-Brest,FRA-L1,23-24,ef59a003
+9226aa22,Kamory Doumbia,23,MLI,RM,20-260,18,0,0,0,0,1,0,0,0,18,2,0,1,0.0,0.0,0.2,1,0,14,14,100.0,3,12,1,0,0,Brest,2023-11-05 Monaco-Brest,FRA-L1,23-24,ef59a003
+40221fa7,Bradley Locko,2,FRA,LB,21-183,90,0,0,0,0,1,0,1,0,69,2,1,0,0.0,0.0,0.0,0,0,49,59,83.1,3,47,4,3,0,Brest,2023-11-05 Monaco-Brest,FRA-L1,23-24,ef59a003
+5b146df3,Lilian Brassier,3,FRA,CB,24-003,89,0,0,0,0,0,0,2,1,74,4,2,2,0.0,0.0,0.0,2,0,52,64,81.3,3,60,1,0,0,Brest,2023-11-05 Monaco-Brest,FRA-L1,23-24,ef59a003
+16aa7d4c,Brendan Chardonnet,5,FRA,CB,28-318,90,0,0,0,0,3,0,0,0,66,2,3,3,0.2,0.2,0.0,4,0,36,50,72.0,5,36,2,1,0,Brest,2023-11-05 Monaco-Brest,FRA-L1,23-24,ef59a003
+770d7eb8,Kenny Lala,27,MAD,RB,32-033,90,0,0,0,0,0,0,0,0,75,2,0,0,0.0,0.0,0.0,1,0,43,67,64.2,4,55,1,2,0,Brest,2023-11-05 Monaco-Brest,FRA-L1,23-24,ef59a003
+3d214e5f,Marco Bizot,40,NED,GK,32-240,90,0,0,0,0,0,0,0,0,37,0,0,0,0.0,0.0,0.0,0,0,28,36,77.8,0,31,0,0,0,Brest,2023-11-05 Monaco-Brest,FRA-L1,23-24,ef59a003

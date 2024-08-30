@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+df3cda47,Dejan Kulusevski,44,SWE,FW,19-241,90,0,1,0,0,3,1,0,0,57,3,0,1,0.1,0.1,0.2,6,1,31,40,77.5,1,41,7,2,0,Parma,2019-12-22 Parma-Brescia,ITA-SERIA_A,19-20,9965b7ce
+e468c053,Gervinho,27,CIV,LW,32-209,54,0,0,0,0,2,1,0,0,36,1,0,0,0.1,0.1,0.0,1,0,15,20,75.0,0,30,5,2,0,Parma,2019-12-22 Parma-Brescia,ITA-SERIA_A,19-20,9965b7ce
+6cc97b6a,Alberto Grassi,8,ITA,LW,24-290,36,1,0,0,0,2,1,1,0,32,0,2,0,0.1,0.1,0.2,2,0,26,27,96.3,3,24,1,0,0,Parma,2019-12-22 Parma-Brescia,ITA-SERIA_A,19-20,9965b7ce
+bdd0692f,Mattia Sprocati,93,ITA,RW,26-238,90,0,0,0,0,1,0,0,0,30,1,0,1,0.0,0.0,0.1,3,0,14,22,63.6,2,17,2,3,1,Parma,2019-12-22 Parma-Brescia,ITA-SERIA_A,19-20,9965b7ce
+a64cbd35,Antonino Barillà,17,ITA,LM,31-265,80,0,0,0,0,1,0,0,0,32,0,0,2,0.2,0.2,0.0,0,0,19,26,73.1,5,21,2,2,0,Parma,2019-12-22 Parma-Brescia,ITA-SERIA_A,19-20,9965b7ce
+149c5f5d,Giuseppe Pezzella,97,ITA,LM,22-023,10,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,5,7,71.4,0,5,0,0,0,Parma,2019-12-22 Parma-Brescia,ITA-SERIA_A,19-20,9965b7ce
+e947ee4a,Gastón Brugman,15,URU,CM,27-106,73,0,0,0,0,0,0,0,0,33,0,1,1,0.0,0.0,0.1,1,0,21,25,84.0,2,17,0,1,0,Parma,2019-12-22 Parma-Brescia,ITA-SERIA_A,19-20,9965b7ce
+5aaef9ef,Juraj Kucka,33,SVK,CM,32-299,17,0,0,0,0,1,0,0,0,12,1,1,0,0.1,0.1,0.0,0,0,4,9,44.4,0,7,0,0,0,Parma,2019-12-22 Parma-Brescia,ITA-SERIA_A,19-20,9965b7ce
+6f5ead86,Hernani,10,BRA,RM,25-270,90,0,0,0,0,1,0,1,0,59,4,1,1,0.1,0.1,0.1,4,0,33,44,75.0,3,31,2,2,0,Parma,2019-12-22 Parma-Brescia,ITA-SERIA_A,19-20,9965b7ce
+173061c0,Riccardo Gagliolo,28,SWE,LB,29-238,90,0,0,0,0,1,0,1,0,82,4,1,3,0.1,0.1,0.0,1,1,46,68,67.6,5,45,2,2,1,Parma,2019-12-22 Parma-Brescia,ITA-SERIA_A,19-20,9965b7ce
+585a73a8,Bruno Alves,22,POR,CB,38-025,90,0,0,0,0,2,0,0,0,57,0,1,1,0.2,0.2,0.0,1,0,38,49,77.6,4,35,1,0,0,Parma,2019-12-22 Parma-Brescia,ITA-SERIA_A,19-20,9965b7ce
+63071a3f,Simone Iacoponi,2,ITA,CB,32-236,90,0,0,0,0,0,0,0,0,55,1,0,0,0.0,0.0,0.0,0,0,43,49,87.8,0,41,0,2,1,Parma,2019-12-22 Parma-Brescia,ITA-SERIA_A,19-20,9965b7ce
+96e0490d,Matteo Darmian,36,ITA,RB,30-020,90,0,0,0,0,0,0,0,0,67,4,0,1,0.0,0.0,0.0,0,0,45,60,75.0,3,39,4,1,0,Parma,2019-12-22 Parma-Brescia,ITA-SERIA_A,19-20,9965b7ce
+343f753a,Luigi Sepe,1,ITA,GK,28-228,90,0,0,0,0,0,0,0,0,28,0,0,0,0.0,0.0,0.0,1,0,23,28,82.1,0,12,0,0,0,Parma,2019-12-22 Parma-Brescia,ITA-SERIA_A,19-20,9965b7ce
+5592007b,Alfredo Donnarumma,9,ITA,FW,29-022,60,0,0,0,0,2,0,0,0,19,1,1,1,0.3,0.3,0.0,2,0,9,12,75.0,0,20,2,1,1,Brescia,2019-12-22 Parma-Brescia,ITA-SERIA_A,19-20,9965b7ce
+8ff07990,Mario Balotelli,45,ITA,FW,29-132,30,1,0,0,0,3,2,0,0,15,0,0,0,0.7,0.7,0.0,2,0,8,11,72.7,1,10,0,0,0,Brescia,2019-12-22 Parma-Brescia,ITA-SERIA_A,19-20,9965b7ce
+bf39bdec,Ernesto Torregrossa,11,VEN,FW,27-177,77,0,0,0,0,3,1,0,0,31,1,0,1,0.1,0.1,0.0,1,1,10,19,52.6,1,22,1,1,1,Brescia,2019-12-22 Parma-Brescia,ITA-SERIA_A,19-20,9965b7ce
+d89b0ebb,Leonardo Morosini,23,ITA,FW,24-070,13,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,1,1,0,0,Brescia,2019-12-22 Parma-Brescia,ITA-SERIA_A,19-20,9965b7ce
+9e90fb5d,Nikolas Špalek,7,SVK,AM,22-313,82,0,0,0,0,3,1,0,0,33,4,0,0,0.8,0.8,0.0,2,0,19,21,90.5,4,23,2,2,0,Brescia,2019-12-22 Parma-Brescia,ITA-SERIA_A,19-20,9965b7ce
+1e12c53b,Bruno Martella,26,ITA,AM,27-130,8,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,4,4,100.0,2,4,1,3,1,Brescia,2019-12-22 Parma-Brescia,ITA-SERIA_A,19-20,9965b7ce
+07abb358,Rômulo,28,ITA,LM,32-214,90,0,0,0,0,0,0,0,0,44,2,0,1,0.0,0.0,0.0,1,0,26,32,81.3,4,33,1,2,0,Brescia,2019-12-22 Parma-Brescia,ITA-SERIA_A,19-20,9965b7ce
+0db169ae,Sandro Tonali,4,ITA,CM,19-228,90,0,0,0,0,0,0,0,0,71,1,2,2,0.0,0.0,0.4,6,0,51,64,79.7,7,46,2,2,2,Brescia,2019-12-22 Parma-Brescia,ITA-SERIA_A,19-20,9965b7ce
+16569fef,Dimitri Bisoli,25,ITA,RM,25-272,90,0,0,0,0,0,0,0,0,41,3,2,1,0.0,0.0,0.1,3,0,18,29,62.1,5,26,4,1,1,Brescia,2019-12-22 Parma-Brescia,ITA-SERIA_A,19-20,9965b7ce
+deb748c9,Aleš Matějů,3,CZE,LB,23-202,90,0,0,0,0,0,0,1,0,56,1,4,1,0.0,0.0,0.5,3,0,39,46,84.8,2,31,4,1,1,Brescia,2019-12-22 Parma-Brescia,ITA-SERIA_A,19-20,9965b7ce
+84b6acaa,Jhon Chancellor,14,VEN,CB,27-354,90,0,0,0,0,1,0,0,0,59,0,1,1,0.1,0.1,0.0,0,0,40,46,87.0,4,35,0,0,0,Brescia,2019-12-22 Parma-Brescia,ITA-SERIA_A,19-20,9965b7ce
+fe6a7685,Andrea Cistana,15,ITA,CB,22-265,90,0,0,0,0,0,0,1,0,57,1,2,0,0.0,0.0,0.0,0,0,42,48,87.5,3,37,2,0,0,Brescia,2019-12-22 Parma-Brescia,ITA-SERIA_A,19-20,9965b7ce
+0ccac09c,Stefano Sabelli,2,ITA,RB,26-343,90,0,0,0,0,0,0,0,0,80,4,7,0,0.0,0.0,0.0,2,0,44,62,71.0,8,46,4,4,4,Brescia,2019-12-22 Parma-Brescia,ITA-SERIA_A,19-20,9965b7ce
+7f66ea09,Jesse Joronen,1,FIN,GK,26-276,90,0,0,0,0,0,0,0,0,29,0,0,0,0.0,0.0,0.0,0,0,14,25,56.0,0,12,0,0,0,Brescia,2019-12-22 Parma-Brescia,ITA-SERIA_A,19-20,9965b7ce

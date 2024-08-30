@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+d705ba44,Andrea Belotti,9,ITA,FW,25-248,90,1,0,0,0,4,2,0,0,34,1,0,1,0.2,0.2,0.2,6,1,10,16,62.5,6,21,3,6,3,Torino,2019-08-25 Torino-Sassuolo,ITA-SERIA_A,19-20,6237b77f
+9592289a,Simone Zaza,11,ITA,FW,28-061,90,1,0,0,0,3,1,1,0,29,2,1,0,0.6,0.6,0.0,0,0,9,14,64.3,1,19,0,1,1,Torino,2019-08-25 Torino-Sassuolo,ITA-SERIA_A,19-20,6237b77f
+c6e8cf1f,Saša Lukić,7,SRB,CM,23-012,90,0,1,0,0,0,0,0,0,36,2,2,0,0.0,0.0,0.0,3,1,18,30,60.0,0,14,1,1,1,Torino,2019-08-25 Torino-Sassuolo,ITA-SERIA_A,19-20,6237b77f
+f1cfc209,Tomás Rincón,88,VEN,CM,31-224,90,0,0,0,0,0,0,0,0,43,5,1,1,0.0,0.0,0.1,1,0,22,26,84.6,2,13,1,1,1,Torino,2019-08-25 Torino-Sassuolo,ITA-SERIA_A,19-20,6237b77f
+ea06dd97,Daniele Baselli,8,ITA,CM,27-166,79,0,0,0,0,0,0,0,0,49,6,4,1,0.0,0.0,0.0,0,0,21,33,63.6,0,20,2,1,1,Torino,2019-08-25 Torino-Sassuolo,ITA-SERIA_A,19-20,6237b77f
+5cec2c74,Soualiho Meïté,23,FRA,CM,25-161,11,0,0,0,0,0,0,0,0,4,0,0,1,0.0,0.0,0.0,0,0,3,3,100.0,0,2,0,1,1,Torino,2019-08-25 Torino-Sassuolo,ITA-SERIA_A,19-20,6237b77f
+bbafc0c4,Cristian Ansaldi,15,ARG,WB,32-339,45,0,1,0,0,0,0,1,0,35,1,1,2,0.0,0.0,0.8,4,1,22,29,75.9,2,13,3,1,1,Torino,2019-08-25 Torino-Sassuolo,ITA-SERIA_A,19-20,6237b77f
+246d153b,Ola Aina,34,NGA,WB,22-321,45,0,0,0,0,0,0,0,0,19,1,0,1,0.0,0.0,0.0,0,0,9,13,69.2,1,9,0,2,1,Torino,2019-08-25 Torino-Sassuolo,ITA-SERIA_A,19-20,6237b77f
+e74f0e59,Lorenzo De Silvestri,29,ITA,WB,31-094,90,0,0,0,0,2,1,0,0,45,0,0,1,0.4,0.4,0.1,3,1,16,36,44.4,2,14,2,1,0,Torino,2019-08-25 Torino-Sassuolo,ITA-SERIA_A,19-20,6237b77f
+fb77bfef,Kevin Bonifazi,14,ITA,CB,23-098,67,0,0,0,0,1,0,0,0,34,4,0,1,0.0,0.0,0.0,0,0,20,24,83.3,1,13,0,0,0,Torino,2019-08-25 Torino-Sassuolo,ITA-SERIA_A,19-20,6237b77f
+933d3b51,Koffi Djidji,30,CIV,CB,26-268,23,0,0,0,0,0,0,0,0,7,1,0,2,0.0,0.0,0.0,0,0,1,2,50.0,0,1,0,0,0,Torino,2019-08-25 Torino-Sassuolo,ITA-SERIA_A,19-20,6237b77f
+5fd5ed86,Gleison Bremer,36,BRA,CB,22-160,90,0,0,0,0,0,0,1,0,34,3,3,2,0.0,0.0,0.0,0,0,19,24,79.2,0,19,0,0,0,Torino,2019-08-25 Torino-Sassuolo,ITA-SERIA_A,19-20,6237b77f
+89976232,Armando Izzo,5,ITA,CB,27-176,90,0,0,0,0,0,0,0,0,35,1,2,2,0.0,0.0,0.0,0,0,11,25,44.0,1,10,0,1,1,Torino,2019-08-25 Torino-Sassuolo,ITA-SERIA_A,19-20,6237b77f
+10dc46f0,Salvatore Sirigu,39,ITA,GK,32-225,90,0,0,0,0,0,0,1,0,30,0,1,0,0.0,0.0,0.0,0,0,15,23,65.2,0,13,0,0,0,Torino,2019-08-25 Torino-Sassuolo,ITA-SERIA_A,19-20,6237b77f
+5bd72174,Francesco Caputo,9,ITA,FW,32-019,90,1,0,0,0,3,1,0,0,34,1,0,0,0.5,0.5,0.0,1,0,16,25,64.0,1,13,1,0,0,Sassuolo,2019-08-25 Torino-Sassuolo,ITA-SERIA_A,19-20,6237b77f
+fe012aca,Jeremie Boga,7,CIV,FW,22-234,90,0,0,0,0,5,1,0,0,42,0,0,0,0.2,0.2,0.1,5,1,24,31,77.4,2,33,9,5,3,Sassuolo,2019-08-25 Torino-Sassuolo,ITA-SERIA_A,19-20,6237b77f
+570bb4b9,Hamed Junior Traorè,23,CIV,"AM,LM",19-190,90,0,0,0,0,3,2,0,0,65,3,1,0,0.1,0.1,0.1,5,0,40,47,85.1,7,31,6,5,2,Sassuolo,2019-08-25 Torino-Sassuolo,ITA-SERIA_A,19-20,6237b77f
+a8a874f1,Manuel Locatelli,73,ITA,LM,21-229,80,0,0,0,0,2,1,0,0,56,3,0,0,0.1,0.1,0.2,8,0,38,46,82.6,5,23,0,1,1,Sassuolo,2019-08-25 Torino-Sassuolo,ITA-SERIA_A,19-20,6237b77f
+6e058f06,Giacomo Raspadori,18,ITA,AM,19-188,10,0,0,0,0,1,1,0,0,8,0,0,0,0.1,0.1,0.0,2,0,2,4,50.0,2,6,0,2,2,Sassuolo,2019-08-25 Torino-Sassuolo,ITA-SERIA_A,19-20,6237b77f
+ba1e04b3,Pedro Obiang,14,EQG,CM,27-151,90,0,0,0,0,2,2,1,0,80,0,4,1,0.1,0.1,0.0,3,0,58,68,85.3,5,27,5,0,0,Sassuolo,2019-08-25 Torino-Sassuolo,ITA-SERIA_A,19-20,6237b77f
+0d077b88,Mehdi Bourabia,68,MAR,RM,28-018,90,0,0,0,0,3,1,1,0,70,1,1,1,0.1,0.1,0.1,5,0,46,56,82.1,7,33,1,1,1,Sassuolo,2019-08-25 Torino-Sassuolo,ITA-SERIA_A,19-20,6237b77f
+10e7f486,Rogério,6,BRA,LB,21-224,45,0,0,0,0,0,0,0,0,36,1,0,1,0.0,0.0,0.0,1,0,18,26,69.2,1,11,0,0,0,Sassuolo,2019-08-25 Torino-Sassuolo,ITA-SERIA_A,19-20,6237b77f
+4f2908e5,Federico Peluso,13,ITA,LB,35-217,45,0,0,0,0,0,0,0,0,30,0,0,0,0.0,0.0,0.0,0,0,20,28,71.4,1,12,1,1,1,Sassuolo,2019-08-25 Torino-Sassuolo,ITA-SERIA_A,19-20,6237b77f
+8650af85,Gian Marco Ferrari,31,ITA,CB,27-191,90,0,0,0,0,1,0,0,0,60,1,3,1,0.1,0.1,0.1,2,0,43,48,89.6,2,29,0,0,0,Sassuolo,2019-08-25 Torino-Sassuolo,ITA-SERIA_A,19-20,6237b77f
+cdf65d12,Marlon,2,BRA,CB,23-352,90,0,0,0,0,0,0,1,0,71,2,0,2,0.0,0.0,0.1,3,0,59,61,96.7,7,34,1,0,0,Sassuolo,2019-08-25 Torino-Sassuolo,ITA-SERIA_A,19-20,6237b77f
+a96e5dc0,Jeremy Toljan,22,GER,RB,25-017,67,0,0,0,0,0,0,0,0,61,1,0,1,0.0,0.0,0.0,0,0,48,54,88.9,2,20,2,0,0,Sassuolo,2019-08-25 Torino-Sassuolo,ITA-SERIA_A,19-20,6237b77f
+1295552e,Mert Müldür,17,TUR,RB,20-144,23,0,0,0,0,0,0,0,0,21,2,0,0,0.0,0.0,0.0,2,0,15,17,88.2,2,3,0,1,0,Sassuolo,2019-08-25 Torino-Sassuolo,ITA-SERIA_A,19-20,6237b77f
+8cabdc1e,Andrea Consigli,47,ITA,GK,32-210,90,0,0,0,0,0,0,0,0,25,0,0,0,0.0,0.0,0.0,0,0,15,23,65.2,0,9,0,0,0,Sassuolo,2019-08-25 Torino-Sassuolo,ITA-SERIA_A,19-20,6237b77f

@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+79443529,Dušan Vlahović,9,SRB,"FW,CM",20-326,90,1,0,1,1,3,0,0,0,47,0,0,2,0.9,0.2,0.0,4,1,20,34,58.8,2,25,2,1,0,Fiorentina,2020-12-19 Fiorentina-Hellas Verona,ITA-SERIA_A,20-21,c2e0d138
+f61c7c4e,Franck Ribéry,7,FRA,"FW,LW",37-256,83,0,0,0,0,0,0,0,0,43,3,1,0,0.0,0.0,0.0,1,0,34,37,91.9,8,30,2,1,0,Fiorentina,2020-12-19 Fiorentina-Hellas Verona,ITA-SERIA_A,20-21,c2e0d138
+0e21fc3c,Borja Valero,6,ESP,"CM,LW",35-342,7,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,8,8,100.0,1,4,0,0,0,Fiorentina,2020-12-19 Fiorentina-Hellas Verona,ITA-SERIA_A,20-21,c2e0d138
+0728bebe,Gaetano Castrovilli,10,ITA,"DM,CM",23-306,85,0,0,0,0,1,0,0,0,48,4,3,0,0.0,0.0,0.0,1,0,18,29,62.1,4,23,4,2,1,Fiorentina,2020-12-19 Fiorentina-Hellas Verona,ITA-SERIA_A,20-21,c2e0d138
+a4fe8cda,Patrick Cutrone,63,ITA,FW,22-351,5,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,1,0,0,0,Fiorentina,2020-12-19 Fiorentina-Hellas Verona,ITA-SERIA_A,20-21,c2e0d138
+5a2cb25d,Sofyan Amrabat,34,MAR,"DM,FW,CM",24-120,90,0,0,0,0,3,0,0,0,66,2,0,0,0.1,0.1,0.1,3,0,49,53,92.5,7,28,0,4,2,Fiorentina,2020-12-19 Fiorentina-Hellas Verona,ITA-SERIA_A,20-21,c2e0d138
+d995ed27,Giacomo Bonaventura,5,ITA,DM,31-119,59,0,0,0,0,0,0,1,0,23,1,0,1,0.0,0.0,0.0,1,0,13,18,72.2,3,10,0,1,1,Fiorentina,2020-12-19 Fiorentina-Hellas Verona,ITA-SERIA_A,20-21,c2e0d138
+78841da9,José Callejón,77,ESP,"RW,FW",33-312,31,0,0,0,0,0,0,0,0,23,2,0,0,0.0,0.0,0.0,1,0,13,19,68.4,1,10,0,0,0,Fiorentina,2020-12-19 Fiorentina-Hellas Verona,ITA-SERIA_A,20-21,c2e0d138
+6a189491,Antonio Barreca,27,ITA,WB,25-276,58,0,0,0,0,0,0,0,0,35,0,0,0,0.0,0.0,0.0,2,1,17,33,51.5,3,11,0,0,0,Fiorentina,2020-12-19 Fiorentina-Hellas Verona,ITA-SERIA_A,20-21,c2e0d138
+9e1577aa,Cristiano Biraghi,3,ITA,"LM,WB",28-109,32,0,0,0,0,0,0,0,0,28,4,0,0,0.0,0.0,0.0,1,0,12,24,50.0,1,9,1,1,0,Fiorentina,2020-12-19 Fiorentina-Hellas Verona,ITA-SERIA_A,20-21,c2e0d138
+983ff2c7,Lorenzo Venuti,23,ITA,WB,25-251,58,0,0,0,0,1,0,0,0,28,0,0,0,0.0,0.0,0.0,0,0,12,23,52.2,3,10,0,0,0,Fiorentina,2020-12-19 Fiorentina-Hellas Verona,ITA-SERIA_A,20-21,c2e0d138
+ff800ed8,Pol Lirola,21,ESP,"RM,WB",23-128,32,0,0,0,0,0,0,0,0,22,0,0,0,0.0,0.0,0.0,0,0,12,21,57.1,1,7,1,0,0,Fiorentina,2020-12-19 Fiorentina-Hellas Verona,ITA-SERIA_A,20-21,c2e0d138
+a4e85758,Igor,98,BRA,CB,22-316,90,0,0,0,0,0,0,1,0,64,0,6,1,0.0,0.0,0.0,1,0,36,53,67.9,5,27,2,0,0,Fiorentina,2020-12-19 Fiorentina-Hellas Verona,ITA-SERIA_A,20-21,c2e0d138
+8c725b43,Germán Pezzella,20,ARG,CB,29-175,90,0,0,0,0,0,0,0,0,53,1,2,0,0.0,0.0,0.5,1,0,32,46,69.6,4,22,0,0,0,Fiorentina,2020-12-19 Fiorentina-Hellas Verona,ITA-SERIA_A,20-21,c2e0d138
+bee704fc,Nikola Milenković,4,SRB,CB,23-068,90,0,0,0,0,1,0,0,0,61,2,2,0,0.5,0.5,0.0,1,0,42,54,77.8,5,15,0,0,0,Fiorentina,2020-12-19 Fiorentina-Hellas Verona,ITA-SERIA_A,20-21,c2e0d138
+085e71a7,Bartłomiej Drągowski,69,POL,GK,23-122,90,0,0,0,0,0,0,0,0,43,0,0,0,0.0,0.0,0.0,0,0,16,40,40.0,0,29,0,0,0,Fiorentina,2020-12-19 Fiorentina-Hellas Verona,ITA-SERIA_A,20-21,c2e0d138
+0489bb30,Eddie Salcedo,9,ITA,FW,19-079,45,0,0,0,0,0,0,0,0,23,0,0,1,0.0,0.0,0.0,1,1,7,16,43.8,2,9,0,0,0,Hellas Verona,2020-12-19 Fiorentina-Hellas Verona,ITA-SERIA_A,20-21,c2e0d138
+bf356094,Ebrima Colley,90,GAM,FW,20-322,45,0,0,0,0,0,0,0,0,15,0,0,1,0.0,0.0,0.4,2,0,6,9,66.7,1,10,0,2,1,Hellas Verona,2020-12-19 Fiorentina-Hellas Verona,ITA-SERIA_A,20-21,c2e0d138
+d85c238b,Mattia Zaccagni,20,ITA,AM,25-186,77,0,0,0,0,1,0,0,0,18,1,0,1,0.0,0.0,0.0,0,0,9,14,64.3,0,11,2,1,1,Hellas Verona,2020-12-19 Fiorentina-Hellas Verona,ITA-SERIA_A,20-21,c2e0d138
+f5409698,Philip Ankhrah,45,GHA,AM,18-083,13,0,0,0,0,0,0,0,0,2,0,0,1,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Hellas Verona,2020-12-19 Fiorentina-Hellas Verona,ITA-SERIA_A,20-21,c2e0d138
+5128bde4,Darko Lazović,8,SRB,AM,30-095,70,0,0,0,0,1,1,0,0,28,2,0,1,0.4,0.4,0.0,1,0,11,20,55.0,2,9,0,2,2,Hellas Verona,2020-12-19 Fiorentina-Hellas Verona,ITA-SERIA_A,20-21,c2e0d138
+90573602,Kevin Rüegg,19,SUI,AM,22-136,20,0,0,0,0,1,1,0,0,9,0,0,0,0.0,0.0,0.0,1,0,2,4,50.0,0,7,1,1,1,Hellas Verona,2020-12-19 Fiorentina-Hellas Verona,ITA-SERIA_A,20-21,c2e0d138
+ab1ca213,Miguel Veloso,4,POR,CM,34-222,90,1,0,1,1,0,0,0,0,48,0,0,1,0.8,0.0,0.0,0,0,26,37,70.3,0,13,0,5,2,Hellas Verona,2020-12-19 Fiorentina-Hellas Verona,ITA-SERIA_A,20-21,c2e0d138
+8da74c05,Adrien Tameze,61,CMR,CM,26-319,69,0,0,0,0,0,0,0,0,29,3,0,1,0.0,0.0,0.0,0,0,11,21,52.4,3,8,1,1,1,Hellas Verona,2020-12-19 Fiorentina-Hellas Verona,ITA-SERIA_A,20-21,c2e0d138
+bb376bed,Ivan Ilić,14,SRB,CM,19-277,21,0,0,0,0,0,0,0,0,16,2,0,0,0.0,0.0,0.0,0,0,8,12,66.7,1,7,1,0,0,Hellas Verona,2020-12-19 Fiorentina-Hellas Verona,ITA-SERIA_A,20-21,c2e0d138
+970b8574,Federico Dimarco,3,ITA,WB,23-039,90,0,0,0,0,1,0,1,0,49,0,2,1,0.0,0.0,0.3,4,0,22,40,55.0,1,12,2,3,2,Hellas Verona,2020-12-19 Fiorentina-Hellas Verona,ITA-SERIA_A,20-21,c2e0d138
+aae9d04a,Davide Faraoni,5,ITA,WB,29-055,90,0,0,0,0,0,0,0,0,60,3,0,1,0.0,0.0,0.0,2,1,25,44,56.8,4,14,0,1,0,Hellas Verona,2020-12-19 Fiorentina-Hellas Verona,ITA-SERIA_A,20-21,c2e0d138
+d9624b51,Federico Ceccherini,17,ITA,CB,28-222,90,0,0,0,0,0,0,1,0,37,0,1,1,0.0,0.0,0.0,0,0,18,31,58.1,1,13,0,0,0,Hellas Verona,2020-12-19 Fiorentina-Hellas Verona,ITA-SERIA_A,20-21,c2e0d138
+f1f1f238,Koray Günter,21,GER,CB,26-125,50,0,0,0,0,0,0,0,0,32,3,0,0,0.0,0.0,0.0,0,0,21,27,77.8,0,13,0,0,0,Hellas Verona,2020-12-19 Fiorentina-Hellas Verona,ITA-SERIA_A,20-21,c2e0d138
+cce9f582,Giangiacomo Magnani,23,ITA,CB,25-076,40,0,0,0,0,1,0,0,0,17,0,0,1,0.3,0.3,0.0,0,0,4,10,40.0,0,5,0,0,0,Hellas Verona,2020-12-19 Fiorentina-Hellas Verona,ITA-SERIA_A,20-21,c2e0d138
+16bb656a,Paweł Dawidowicz,27,POL,CB,25-213,90,0,0,0,0,0,0,0,0,41,5,1,1,0.0,0.0,0.0,0,0,17,31,54.8,4,9,2,0,0,Hellas Verona,2020-12-19 Fiorentina-Hellas Verona,ITA-SERIA_A,20-21,c2e0d138
+0d422df7,Marco Silvestri,1,ITA,GK,29-292,90,0,0,0,0,0,0,0,0,26,0,0,0,0.0,0.0,0.0,0,0,7,23,30.4,0,13,0,0,0,Hellas Verona,2020-12-19 Fiorentina-Hellas Verona,ITA-SERIA_A,20-21,c2e0d138

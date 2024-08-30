@@ -1,0 +1,32 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+03622183,Odion Ighalo,25,NGA,FW,31-050,90,0,0,0,0,1,1,0,0,20,0,0,0,0.1,0.1,0.0,1,0,8,14,57.1,0,12,0,4,4,Manchester United,2020-08-05 Manchester Utd-LASK,UEL,19-20,96f334a5
+c931d9f9,Daniel James,21,WAL,"LW,RW",22-269,83,0,0,0,0,0,0,0,0,29,1,0,1,0.0,0.0,0.0,0,0,17,24,70.8,3,15,3,3,1,Manchester United,2020-08-05 Manchester Utd-LASK,UEL,19-20,96f334a5
+8b788c01,Anthony Martial,9,FRA,AM,24-244,7,1,0,0,0,1,1,0,0,9,0,0,0,0.6,0.6,0.0,1,1,5,6,83.3,0,8,3,2,1,Manchester United,2020-08-05 Manchester Utd-LASK,UEL,19-20,96f334a5
+29733c72,Juan Mata,8,ESP,"RW,AM",32-099,90,0,2,0,0,2,0,0,0,68,1,0,0,0.1,0.1,1.2,6,2,43,56,76.8,13,40,2,6,4,Manchester United,2020-08-05 Manchester Utd-LASK,UEL,19-20,96f334a5
+810e3c74,Jesse Lingard,14,ENG,AM,27-234,62,1,0,0,0,1,1,0,0,39,1,0,0,0.5,0.5,0.1,2,0,23,29,79.3,4,23,6,5,3,Manchester United,2020-08-05 Manchester Utd-LASK,UEL,19-20,96f334a5
+867239d3,Paul Pogba,6,FRA,DM,27-143,28,0,0,0,0,0,0,0,0,31,3,1,1,0.0,0.0,0.0,0,0,20,25,80.0,3,14,0,0,0,Manchester United,2020-08-05 Manchester Utd-LASK,UEL,19-20,96f334a5
+b853e0ad,Fred,17,BRA,DM,27-153,63,0,0,0,0,0,0,0,0,69,3,1,0,0.0,0.0,0.0,0,0,52,61,85.2,3,38,2,1,1,Manchester United,2020-08-05 Manchester Utd-LASK,UEL,19-20,96f334a5
+6639e500,Andreas Pereira,15,BRA,LW,24-217,27,0,0,0,0,0,0,0,0,20,1,0,0,0.0,0.0,0.1,2,0,9,16,56.3,4,16,3,5,4,Manchester United,2020-08-05 Manchester Utd-LASK,UEL,19-20,96f334a5
+d93c2511,Scott McTominay,39,SCO,DM,23-241,90,0,0,0,0,1,0,1,0,70,2,0,1,0.1,0.1,0.0,1,0,41,57,71.9,6,35,4,6,4,Manchester United,2020-08-05 Manchester Utd-LASK,UEL,19-20,96f334a5
+5e74d6c8,Brandon Williams,53,ENG,LB,19-337,71,0,0,0,0,0,0,0,0,67,4,1,2,0.0,0.0,0.0,0,0,42,55,76.4,2,34,4,3,0,Manchester United,2020-08-05 Manchester Utd-LASK,UEL,19-20,96f334a5
+2696b6a9,Tahith Chong,44,NED,LB,20-245,19,0,0,0,0,0,0,0,0,23,2,0,0,0.0,0.0,0.0,0,0,14,16,87.5,3,7,2,1,1,Manchester United,2020-08-05 Manchester Utd-LASK,UEL,19-20,96f334a5
+d8931174,Harry Maguire,5,ENG,CB,27-153,90,0,0,0,0,2,0,0,0,77,1,3,0,0.1,0.1,0.0,1,0,59,69,85.5,1,41,0,1,1,Manchester United,2020-08-05 Manchester Utd-LASK,UEL,19-20,96f334a5
+a1232f4e,Eric Bailly,3,CIV,CB,26-115,90,0,0,0,0,0,0,0,0,78,0,3,1,0.0,0.0,0.0,0,0,56,71,78.9,2,30,0,0,0,Manchester United,2020-08-05 Manchester Utd-LASK,UEL,19-20,96f334a5
+a9142dc3,Timothy Fosu-Mensah,24,NED,RB,22-216,83,0,0,0,0,1,0,0,0,74,1,0,1,0.1,0.1,0.0,0,0,53,69,76.8,4,31,8,3,3,Manchester United,2020-08-05 Manchester Utd-LASK,UEL,19-20,96f334a5
+91748070,Teden Mengi,71,ENG,RB,18-097,7,0,0,0,0,0,0,0,0,16,1,1,0,0.0,0.0,0.0,0,0,10,12,83.3,0,6,0,0,0,Manchester United,2020-08-05 Manchester Utd-LASK,UEL,19-20,96f334a5
+1e26e376,Sergio Romero,22,ARG,GK,33-165,90,0,0,0,0,0,0,0,0,46,0,0,0,0.0,0.0,0.0,0,0,36,44,81.8,0,24,0,0,0,Manchester United,2020-08-05 Manchester Utd-LASK,UEL,19-20,96f334a5
+49e9d799,Marko Raguž,29,AUT,FW,22-056,90,0,0,0,0,3,2,0,0,52,1,1,0,0.3,0.3,0.1,1,0,23,37,62.2,2,22,0,2,0,LASK,2020-08-05 Manchester Utd-LASK,UEL,19-20,96f334a5
+aa04bee3,Husein Balic,14,AUT,LW,24-172,65,0,0,0,0,0,0,0,0,21,0,2,0,0.0,0.0,0.4,1,0,4,8,50.0,1,15,0,1,1,LASK,2020-08-05 Manchester Utd-LASK,UEL,19-20,96f334a5
+c45a34e7,Dominik Reiter,11,AUT,"RW,RB,LW",22-214,25,0,0,0,0,1,1,0,0,13,1,0,1,0.1,0.1,0.0,0,0,1,5,20.0,1,5,2,2,0,LASK,2020-08-05 Manchester Utd-LASK,UEL,19-20,96f334a5
+59a7d912,Dominik Frieser,28,AUT,"RW,LW",26-331,90,0,0,0,0,0,0,0,0,39,0,0,1,0.0,0.0,0.0,3,0,23,31,74.2,4,19,2,3,2,LASK,2020-08-05 Manchester Utd-LASK,UEL,19-20,96f334a5
+3c70fb81,René Renner,7,AUT,"LM,LB",26-250,90,0,0,0,0,0,0,0,0,36,2,1,1,0.0,0.0,0.1,5,1,20,27,74.1,5,13,3,4,3,LASK,2020-08-05 Manchester Utd-LASK,UEL,19-20,96f334a5
+5ad141cb,Peter Michorl,8,AUT,"CM,DM",25-088,90,0,1,0,0,3,0,1,0,47,3,0,2,0.1,0.1,0.1,4,1,27,37,73.0,6,15,1,0,0,LASK,2020-08-05 Manchester Utd-LASK,UEL,19-20,96f334a5
+efc13588,James Holland,25,AUS,"CM,DM",31-082,90,0,0,0,0,0,0,0,0,49,6,3,0,0.0,0.0,0.0,3,0,27,37,73.0,8,11,0,2,2,LASK,2020-08-05 Manchester Utd-LASK,UEL,19-20,96f334a5
+06a10001,Reinhold Ranftl,26,AUT,"RM,AM",28-194,90,0,0,0,0,1,0,0,0,60,3,1,1,0.0,0.0,0.2,2,0,23,44,52.3,0,25,2,3,0,LASK,2020-08-05 Manchester Utd-LASK,UEL,19-20,96f334a5
+6ea23758,Andrés Andrade Cedeño,30,PAN,CB,21-294,79,0,0,0,0,1,0,0,0,35,3,4,1,0.4,0.4,0.0,1,0,12,22,54.5,4,9,0,0,0,LASK,2020-08-05 Manchester Utd-LASK,UEL,19-20,96f334a5
+908eea67,Petar Filipović,5,GER,CB,29-326,11,0,0,0,0,0,0,0,0,8,1,0,0,0.0,0.0,0.0,0,0,3,5,60.0,2,3,0,0,0,LASK,2020-08-05 Manchester Utd-LASK,UEL,19-20,96f334a5
+9d21da85,Gernot Trauner,18,AUT,CB,28-133,90,0,0,0,0,0,0,0,0,49,4,2,3,0.0,0.0,0.0,0,0,20,31,64.5,1,16,0,0,0,LASK,2020-08-05 Manchester Utd-LASK,UEL,19-20,96f334a5
+bdc8912c,Philipp Wiesinger,6,AUT,CB,26-074,72,1,0,0,0,3,1,0,0,42,3,0,2,0.1,0.1,0.0,1,0,24,31,77.4,3,13,0,0,0,LASK,2020-08-05 Manchester Utd-LASK,UEL,19-20,96f334a5
+9993817f,Thomas Sabitzer,33,AUT,"CB,RW",19-298,18,0,0,0,0,0,0,0,0,12,0,1,0,0.0,0.0,0.0,1,0,7,9,77.8,1,8,1,0,0,LASK,2020-08-05 Manchester Utd-LASK,UEL,19-20,96f334a5
+6fe5c35b,Alexander Schlager,1,AUT,GK,24-186,90,0,0,0,0,0,0,0,0,38,0,0,0,0.0,0.0,0.0,0,0,21,38,55.3,0,15,0,0,0,LASK,2020-08-05 Manchester Utd-LASK,UEL,19-20,96f334a5

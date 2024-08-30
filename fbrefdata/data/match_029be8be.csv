@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+b684a484,Jordan Pefok,13,USA,FW,27-185,86,0,0,0,0,2,0,0,0,31,0,1,0,0.2,0.2,0.0,1,1,18,22,81.8,2,20,0,0,0,Mönchengladbach,2023-10-28 Gladbach-Heidenheim,GER-BL1,23-24,029be8be
+298c8aa1,Tomáš Čvančara,31,CZE,FW,23-076,4,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.1,1,0,2,4,50.0,1,6,0,2,0,Mönchengladbach,2023-10-28 Gladbach-Heidenheim,GER-BL1,23-24,029be8be
+e110ea4b,Nathan N'Goumou,19,FRA,LW,23-228,74,0,0,0,0,2,1,0,0,33,1,1,0,0.2,0.2,0.2,3,0,22,24,91.7,3,23,2,4,3,Mönchengladbach,2023-10-28 Gladbach-Heidenheim,GER-BL1,23-24,029be8be
+0174ba21,Robin Hack,25,GER,LW,25-062,16,0,0,0,0,2,1,0,0,24,1,0,1,0.1,0.1,0.1,4,0,13,17,76.5,4,14,3,3,2,Mönchengladbach,2023-10-28 Gladbach-Heidenheim,GER-BL1,23-24,029be8be
+db7849ca,Franck Honorat,9,FRA,RW,27-078,74,0,0,0,0,0,0,0,0,50,0,0,1,0.0,0.0,0.4,3,0,24,45,53.3,3,31,3,2,1,Mönchengladbach,2023-10-28 Gladbach-Heidenheim,GER-BL1,23-24,029be8be
+dfb6490a,Patrick Herrmann,7,GER,RW,32-258,16,0,0,0,0,1,0,0,0,9,0,1,0,0.0,0.0,0.0,1,0,4,7,57.1,2,7,1,0,0,Mönchengladbach,2023-10-28 Gladbach-Heidenheim,GER-BL1,23-24,029be8be
+bc6bd723,Alassane Pléa,14,FRA,AM,30-232,76,1,0,0,0,2,1,0,0,40,1,0,1,0.3,0.3,0.0,2,1,24,32,75.0,6,33,2,5,3,Mönchengladbach,2023-10-28 Gladbach-Heidenheim,GER-BL1,23-24,029be8be
+496aeede,Christoph Kramer,23,GER,AM,32-251,14,0,0,0,0,0,0,0,0,19,0,0,0,0.0,0.0,0.0,0,0,10,14,71.4,0,13,3,2,1,Mönchengladbach,2023-10-28 Gladbach-Heidenheim,GER-BL1,23-24,029be8be
+346d51d9,Julian Weigl,8,GER,DM,28-050,90,0,0,0,0,0,0,0,0,64,2,0,0,0.0,0.0,0.1,3,0,56,58,96.6,8,48,0,0,0,Mönchengladbach,2023-10-28 Gladbach-Heidenheim,GER-BL1,23-24,029be8be
+cc971106,Rocco Reitz,27,GER,DM,21-152,85,0,0,0,0,2,1,0,0,70,4,1,1,0.2,0.2,0.0,2,0,48,59,81.4,5,44,4,4,3,Mönchengladbach,2023-10-28 Gladbach-Heidenheim,GER-BL1,23-24,029be8be
+48780156,Fabio Chiarodia,2,ITA,DM,18-145,5,0,0,0,0,0,0,0,0,2,0,1,0,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,0,0,Mönchengladbach,2023-10-28 Gladbach-Heidenheim,GER-BL1,23-24,029be8be
+e79269bd,Luca Netz,20,GER,LB,20-166,90,0,0,0,0,1,0,0,0,74,3,4,1,0.0,0.0,0.0,1,0,49,60,81.7,2,45,0,1,1,Mönchengladbach,2023-10-28 Gladbach-Heidenheim,GER-BL1,23-24,029be8be
+4b803b3c,Maximilian Wöber,39,AUT,CB,25-266,90,0,0,0,0,0,0,0,0,96,2,0,3,0.0,0.0,0.0,0,0,78,86,90.7,6,76,1,0,0,Mönchengladbach,2023-10-28 Gladbach-Heidenheim,GER-BL1,23-24,029be8be
+48035304,Nico Elvedi,30,SUI,CB,27-028,90,0,0,0,0,1,1,0,0,89,3,3,1,0.0,0.0,0.0,0,0,75,77,97.4,5,66,1,0,0,Mönchengladbach,2023-10-28 Gladbach-Heidenheim,GER-BL1,23-24,029be8be
+236f02cd,Joe Scally,29,USA,RB,20-301,90,0,0,0,0,0,0,0,0,87,1,3,0,0.0,0.0,0.1,1,0,63,77,81.8,4,54,3,2,1,Mönchengladbach,2023-10-28 Gladbach-Heidenheim,GER-BL1,23-24,029be8be
+226ddf9d,Moritz Nicolas,33,GER,GK,26-007,90,0,0,0,0,0,0,0,0,52,0,0,0,0.0,0.0,0.0,1,0,43,50,86.0,0,44,0,0,0,Mönchengladbach,2023-10-28 Gladbach-Heidenheim,GER-BL1,23-24,029be8be
+258a6f4d,Tim Kleindienst,10,GER,FW,28-058,90,0,0,0,0,1,1,0,0,33,0,0,0,0.0,0.0,0.0,2,1,11,17,64.7,2,13,1,6,1,Heidenheim,2023-10-28 Gladbach-Heidenheim,GER-BL1,23-24,029be8be
+57382429,Jan-Niklas Beste,37,GER,LW,24-297,69,0,0,0,0,1,1,0,0,29,0,0,5,0.0,0.0,0.1,3,0,15,19,78.9,1,14,0,1,0,Heidenheim,2023-10-28 Gladbach-Heidenheim,GER-BL1,23-24,029be8be
+11407d95,Marvin Pieringer,18,GER,LW,24-024,21,0,0,0,0,0,0,1,0,14,1,0,1,0.0,0.0,0.0,1,0,7,10,70.0,1,7,0,0,0,Heidenheim,2023-10-28 Gladbach-Heidenheim,GER-BL1,23-24,029be8be
+4ccd8957,Eren Dinkçi,8,GER,"AM,RW",21-319,90,1,0,0,0,1,1,1,0,49,1,1,1,0.1,0.1,0.0,1,0,21,39,53.8,3,23,0,1,1,Heidenheim,2023-10-28 Gladbach-Heidenheim,GER-BL1,23-24,029be8be
+616c09f5,Adrian Beck,21,GER,AM,26-141,45,0,0,0,0,0,0,0,0,25,1,0,0,0.0,0.0,0.0,1,1,17,20,85.0,1,17,0,0,0,Heidenheim,2023-10-28 Gladbach-Heidenheim,GER-BL1,23-24,029be8be
+00e36323,Florian Pick,17,GER,RW,28-050,45,0,0,0,0,1,0,1,0,27,0,0,0,0.0,0.0,0.0,2,0,18,23,78.3,3,14,1,3,1,Heidenheim,2023-10-28 Gladbach-Heidenheim,GER-BL1,23-24,029be8be
+0cbf4c54,Norman Theuerkauf,30,GER,DM,36-277,69,0,0,0,0,0,0,0,0,42,0,0,1,0.0,0.0,0.0,0,0,33,38,86.8,3,29,0,1,1,Heidenheim,2023-10-28 Gladbach-Heidenheim,GER-BL1,23-24,029be8be
+b9ac6e0e,Denis Thomalla,11,GER,DM,31-073,21,0,0,0,0,0,0,0,0,20,0,2,0,0.0,0.0,0.0,1,0,14,16,87.5,1,14,0,0,0,Heidenheim,2023-10-28 Gladbach-Heidenheim,GER-BL1,23-24,029be8be
+75402e99,Lennard Maloney,33,USA,DM,24-020,84,0,0,0,0,1,0,0,0,67,1,1,0,0.0,0.0,0.0,1,0,51,56,91.1,3,43,0,0,0,Heidenheim,2023-10-28 Gladbach-Heidenheim,GER-BL1,23-24,029be8be
+395bbb60,Stefan Schimmer,9,GER,DM,29-183,6,0,0,0,0,1,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,0,3,0.0,0,3,0,0,0,Heidenheim,2023-10-28 Gladbach-Heidenheim,GER-BL1,23-24,029be8be
+1b4be8eb,Jonas Föhrenbach,19,GER,LB,27-275,90,0,0,0,0,0,0,0,0,62,1,1,4,0.0,0.0,0.1,2,0,44,55,80.0,3,27,2,0,0,Heidenheim,2023-10-28 Gladbach-Heidenheim,GER-BL1,23-24,029be8be
+f761c901,Tim Siersleben,4,GER,CB,23-233,90,0,0,0,0,0,0,0,0,84,2,1,2,0.0,0.0,0.0,1,0,74,78,94.9,16,63,1,0,0,Heidenheim,2023-10-28 Gladbach-Heidenheim,GER-BL1,23-24,029be8be
+dd9caa07,Patrick Mainka,6,GER,CB,28-356,90,0,0,0,0,2,0,0,0,93,5,1,1,0.1,0.1,0.0,0,0,71,80,88.8,9,64,6,1,1,Heidenheim,2023-10-28 Gladbach-Heidenheim,GER-BL1,23-24,029be8be
+f44e8a73,Omar Traoré,23,GER,RB,25-266,45,0,0,0,0,0,0,0,0,33,1,1,1,0.0,0.0,0.0,0,0,21,28,75.0,0,18,1,2,1,Heidenheim,2023-10-28 Gladbach-Heidenheim,GER-BL1,23-24,029be8be
+c38767ab,Marnon Busch,2,GER,RB,28-324,45,0,0,0,0,1,1,0,0,42,1,0,1,0.0,0.0,0.0,1,0,29,38,76.3,3,28,1,0,0,Heidenheim,2023-10-28 Gladbach-Heidenheim,GER-BL1,23-24,029be8be
+f256f213,Kevin Müller,1,GER,GK,32-227,90,0,0,0,0,0,0,0,0,39,0,0,0,0.0,0.0,0.0,1,0,28,37,75.7,0,27,0,0,0,Heidenheim,2023-10-28 Gladbach-Heidenheim,GER-BL1,23-24,029be8be

@@ -1,0 +1,32 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+d3de9af0,Duván Zapata,91,COL,FW,29-104,45,1,0,0,0,1,1,0,0,35,1,0,0,0.4,0.4,0.0,1,1,24,30,80.0,2,27,2,1,0,Atalanta,2020-07-14 Atalanta-Brescia,ITA-SERIA_A,19-20,8f6f39fd
+bf356094,Ebrima Colley,90,GAM,FW,20-164,45,0,1,0,0,1,0,0,0,39,0,1,1,0.1,0.1,0.4,3,1,27,30,90.0,8,27,3,3,2,Atalanta,2020-07-14 Atalanta-Brescia,ITA-SERIA_A,19-20,8f6f39fd
+48d5bd33,Ruslan Malinovskyi,18,UKR,FW,27-071,73,1,2,0,0,3,2,0,0,78,0,1,1,0.1,0.1,0.5,4,3,59,69,85.5,11,54,3,2,2,Atalanta,2020-07-14 Atalanta-Brescia,ITA-SERIA_A,19-20,8f6f39fd
+1cadaf34,Roberto Piccoli,17,ITA,FW,19-169,17,0,0,0,0,1,0,0,0,8,0,0,1,0.3,0.3,0.0,1,0,4,6,66.7,0,4,0,0,0,Atalanta,2020-07-14 Atalanta-Brescia,ITA-SERIA_A,19-20,8f6f39fd
+e599253a,Mario Pašalić,88,CRO,AM,25-156,90,3,0,0,0,3,3,0,0,95,0,1,0,0.6,0.6,0.1,3,0,76,87,87.4,11,54,1,1,1,Atalanta,2020-07-14 Atalanta-Brescia,ITA-SERIA_A,19-20,8f6f39fd
+2a1beb34,Marten de Roon,15,NED,CM,29-107,90,1,0,0,0,1,1,0,0,124,3,2,2,0.1,0.1,0.0,2,1,108,115,93.9,11,71,1,0,0,Atalanta,2020-07-14 Atalanta-Brescia,ITA-SERIA_A,19-20,8f6f39fd
+8da74c05,Adrien Tameze,5,CMR,CM,26-161,90,0,0,0,0,0,0,0,0,111,2,2,0,0.0,0.0,0.0,5,3,97,106,91.5,7,73,0,3,2,Atalanta,2020-07-14 Atalanta-Brescia,ITA-SERIA_A,19-20,8f6f39fd
+2d970560,Robin Gosens,8,GER,WB,26-009,90,0,2,0,0,2,0,0,0,93,3,2,1,0.1,0.1,0.7,6,2,69,83,83.1,6,49,3,2,2,Atalanta,2020-07-14 Atalanta-Brescia,ITA-SERIA_A,19-20,8f6f39fd
+197640fd,Timothy Castagne,21,BEL,WB,24-222,72,0,1,0,0,0,0,0,0,73,1,1,1,0.0,0.0,0.1,3,1,60,66,90.9,2,47,3,1,0,Atalanta,2020-07-14 Atalanta-Brescia,ITA-SERIA_A,19-20,8f6f39fd
+e3756e72,Raoul Bellanova,22,ITA,WB,20-058,18,0,0,0,0,2,0,0,0,17,0,0,0,0.1,0.1,0.0,0,0,14,15,93.3,0,11,0,0,0,Atalanta,2020-07-14 Atalanta-Brescia,ITA-SERIA_A,19-20,8f6f39fd
+6eee05f1,Berat Djimsiti,19,ALB,CB,27-146,73,0,0,0,0,0,0,0,0,85,3,0,0,0.0,0.0,0.0,0,0,67,78,85.9,3,41,1,0,0,Atalanta,2020-07-14 Atalanta-Brescia,ITA-SERIA_A,19-20,8f6f39fd
+7ba1f1ef,Lennart-Marten Czyborra,7,GER,CB,21-072,17,0,0,0,0,0,0,0,0,13,0,0,2,0.0,0.0,0.0,0,0,8,9,88.9,0,8,0,0,0,Atalanta,2020-07-14 Atalanta-Brescia,ITA-SERIA_A,19-20,8f6f39fd
+ac7e640b,Mattia Caldara,3,ITA,CB,26-070,90,0,0,0,0,0,0,0,0,67,1,4,0,0.0,0.0,0.0,0,0,53,55,96.4,1,32,0,0,0,Atalanta,2020-07-14 Atalanta-Brescia,ITA-SERIA_A,19-20,8f6f39fd
+1d0bb7e4,Bosko Sutalo,4,CRO,CB,20-195,90,0,0,0,0,0,0,0,0,68,0,2,2,0.0,0.0,0.0,0,0,59,61,96.7,2,38,2,0,0,Atalanta,2020-07-14 Atalanta-Brescia,ITA-SERIA_A,19-20,8f6f39fd
+ac4003af,Marco Sportiello,57,ITA,GK,28-065,79,0,0,0,0,0,0,0,0,23,0,0,0,0.0,0.0,0.0,0,0,20,21,95.2,0,12,0,0,0,Atalanta,2020-07-14 Atalanta-Brescia,ITA-SERIA_A,19-20,8f6f39fd
+7b5f516f,Francesco Rossi,31,ITA,GK,29-078,11,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,3,3,100.0,0,3,0,0,0,Atalanta,2020-07-14 Atalanta-Brescia,ITA-SERIA_A,19-20,8f6f39fd
+5592007b,Alfredo Donnarumma,9,ITA,FW,29-227,66,0,0,0,0,2,1,0,0,32,0,0,0,0.1,0.1,0.0,1,0,20,27,74.1,1,19,1,0,0,Brescia,2020-07-14 Atalanta-Brescia,ITA-SERIA_A,19-20,8f6f39fd
+718b8afd,Florian Ayé,18,FRA,FW,23-177,24,0,0,0,0,0,0,0,0,10,1,1,0,0.0,0.0,0.0,0,0,8,8,100.0,0,6,0,0,0,Brescia,2020-07-14 Atalanta-Brescia,ITA-SERIA_A,19-20,8f6f39fd
+bf39bdec,Ernesto Torregrossa,11,VEN,FW,28-016,60,1,0,0,0,2,2,0,0,28,1,0,0,0.8,0.8,0.0,1,0,12,18,66.7,3,16,2,2,1,Brescia,2020-07-14 Atalanta-Brescia,ITA-SERIA_A,19-20,8f6f39fd
+482145e9,Emanuele Ndoj,6,ALB,CM,23-237,30,0,0,0,0,0,0,0,0,14,0,0,0,0.0,0.0,0.0,0,0,8,11,72.7,1,4,0,0,0,Brescia,2020-07-14 Atalanta-Brescia,ITA-SERIA_A,19-20,8f6f39fd
+da13074e,Birkir Bjarnason,31,ISL,"LM,LW",32-048,90,0,0,0,0,0,0,0,0,28,0,0,0,0.0,0.0,0.0,1,0,19,25,76.0,0,22,1,1,0,Brescia,2020-07-14 Atalanta-Brescia,ITA-SERIA_A,19-20,8f6f39fd
+360b2bb1,Mattia Viviani,24,ITA,CM,19-314,56,0,0,0,0,0,0,0,0,25,1,0,0,0.0,0.0,0.0,1,0,19,24,79.2,0,12,0,0,0,Brescia,2020-07-14 Atalanta-Brescia,ITA-SERIA_A,19-20,8f6f39fd
+0db169ae,Sandro Tonali,4,ITA,CM,20-067,34,0,1,0,0,0,0,0,0,13,0,2,0,0.0,0.0,0.1,1,1,9,12,75.0,1,5,0,0,0,Brescia,2020-07-14 Atalanta-Brescia,ITA-SERIA_A,19-20,8f6f39fd
+02b2937c,Daniele Dessena,27,ITA,CM,33-065,90,0,0,0,0,0,0,0,0,52,3,0,1,0.0,0.0,0.0,0,0,34,45,75.6,2,31,1,1,1,Brescia,2020-07-14 Atalanta-Brescia,ITA-SERIA_A,19-20,8f6f39fd
+9e90fb5d,Nikolas Špalek,7,SVK,"RM,RW",23-153,90,1,0,0,0,1,1,0,0,45,2,4,0,0.1,0.1,0.0,0,0,19,28,67.9,2,24,3,3,0,Brescia,2020-07-14 Atalanta-Brescia,ITA-SERIA_A,19-20,8f6f39fd
+33914f14,Massimiliano Mangraviti,19,ITA,LB,22-172,90,0,0,0,0,0,0,0,0,49,3,1,0,0.0,0.0,0.1,1,0,29,43,67.4,2,25,1,0,0,Brescia,2020-07-14 Atalanta-Brescia,ITA-SERIA_A,19-20,8f6f39fd
+84b6acaa,Jhon Chancellor,14,VEN,CB,28-194,90,0,0,0,0,1,0,0,0,35,1,2,1,0.1,0.1,0.0,0,0,23,26,88.5,0,18,0,0,0,Brescia,2020-07-14 Atalanta-Brescia,ITA-SERIA_A,19-20,8f6f39fd
+deb748c9,Aleš Matějů,3,CZE,CB,24-041,90,0,0,0,0,0,0,0,0,52,3,4,1,0.0,0.0,0.0,0,0,31,39,79.5,0,26,0,1,1,Brescia,2020-07-14 Atalanta-Brescia,ITA-SERIA_A,19-20,8f6f39fd
+dd29f81d,Alessandro Semprini,29,ITA,RB,22-141,90,0,0,0,0,0,0,0,0,78,4,2,0,0.0,0.0,0.1,1,0,47,69,68.1,5,42,3,0,0,Brescia,2020-07-14 Atalanta-Brescia,ITA-SERIA_A,19-20,8f6f39fd
+fe471a89,Lorenzo Andrenacci,12,ITA,GK,25-194,90,0,0,0,0,0,0,0,0,19,0,0,0,0.0,0.0,0.0,0,0,14,19,73.7,0,7,0,0,0,Brescia,2020-07-14 Atalanta-Brescia,ITA-SERIA_A,19-20,8f6f39fd

@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+1238a3f9,Davie Selke,27,GER,FW,23-098,90,1,0,0,0,1,1,0,0,26,0,0,1,0.4,0.4,0.1,3,2,12,19,63.2,1,17,1,2,2,Hertha BSC,2018-04-28 Hertha BSC-Augsburg,GER-BL1,17-18,dcb113dd
+2042d931,Salomon Kalou,8,CIV,LW,32-266,70,0,0,0,0,2,1,0,0,32,1,0,0,0.3,0.3,0.0,1,0,17,25,68.0,7,21,3,2,1,Hertha BSC,2018-04-28 Hertha BSC-Augsburg,GER-BL1,17-18,dcb113dd
+db7161ed,Palkó Dárdai,32,HUN,LW,19-004,20,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,1,1,6,7,85.7,1,6,2,0,0,Hertha BSC,2018-04-28 Hertha BSC-Augsburg,GER-BL1,17-18,dcb113dd
+b93b7882,Mathew Leckie,11,AUS,RW,27-083,90,0,0,0,0,2,0,0,0,46,2,0,0,0.2,0.2,0.0,1,0,30,38,78.9,7,26,2,3,0,Hertha BSC,2018-04-28 Hertha BSC-Augsburg,GER-BL1,17-18,dcb113dd
+016ff750,Valentino Lazaro,20,AUT,AM,22-035,90,0,0,0,0,0,0,0,0,59,2,0,3,0.0,0.0,0.1,1,0,38,50,76.0,3,24,1,3,1,Hertha BSC,2018-04-28 Hertha BSC-Augsburg,GER-BL1,17-18,dcb113dd
+ecab64a0,Per Ciljan Skjelbred,3,NOR,DM,30-316,70,0,0,0,0,0,0,0,0,40,0,2,2,0.0,0.0,0.0,0,0,29,35,82.9,3,23,0,1,0,Hertha BSC,2018-04-28 Hertha BSC-Augsburg,GER-BL1,17-18,dcb113dd
+c3fd9887,Vedad Ibišević,19,BIH,DM,33-265,20,1,1,1,1,0,0,0,0,6,0,0,0,0.8,0.0,0.4,1,1,3,5,60.0,1,2,0,0,0,Hertha BSC,2018-04-28 Hertha BSC-Augsburg,GER-BL1,17-18,dcb113dd
+3eb0f2df,Vladimír Darida,6,CZE,DM,27-263,90,0,0,0,0,0,0,0,0,57,3,0,0,0.0,0.0,0.0,0,0,41,53,77.4,4,30,0,2,2,Hertha BSC,2018-04-28 Hertha BSC-Augsburg,GER-BL1,17-18,dcb113dd
+f7aa75bd,Marvin Plattenhardt,21,GER,LB,26-092,90,0,0,0,0,0,0,0,0,74,2,0,1,0.0,0.0,0.0,2,0,47,68,69.1,5,37,4,1,1,Hertha BSC,2018-04-28 Hertha BSC-Augsburg,GER-BL1,17-18,dcb113dd
+3376a776,Karim Rekik,4,NED,CB,23-147,90,0,0,0,0,0,0,0,0,61,3,0,0,0.0,0.0,0.0,0,0,41,51,80.4,6,31,0,0,0,Hertha BSC,2018-04-28 Hertha BSC-Augsburg,GER-BL1,17-18,dcb113dd
+aad48be9,Niklas Stark,5,GER,CB,23-014,90,0,0,0,0,0,0,0,0,66,0,1,1,0.0,0.0,0.0,0,0,48,58,82.8,3,35,2,0,0,Hertha BSC,2018-04-28 Hertha BSC-Augsburg,GER-BL1,17-18,dcb113dd
+c18d22f5,Peter Pekarík,2,SVK,RB,31-180,60,0,0,0,0,2,1,0,0,58,0,1,0,0.1,0.1,0.0,1,0,46,51,90.2,2,31,0,1,0,Hertha BSC,2018-04-28 Hertha BSC-Augsburg,GER-BL1,17-18,dcb113dd
+79ca3e23,Ondrej Duda,10,SVK,RB,23-144,30,0,0,0,0,0,0,0,0,17,2,0,1,0.0,0.0,0.0,0,0,8,13,61.5,1,8,0,0,0,Hertha BSC,2018-04-28 Hertha BSC-Augsburg,GER-BL1,17-18,dcb113dd
+27d2618c,Rune Jarstein,22,NOR,GK,33-211,90,0,0,0,0,0,0,0,0,48,1,0,0,0.0,0.0,0.0,0,0,31,46,67.4,0,23,0,0,0,Hertha BSC,2018-04-28 Hertha BSC-Augsburg,GER-BL1,17-18,dcb113dd
+f9e7c4ac,Alfreð Finnbogason,27,ISL,FW,29-086,75,0,0,0,0,0,0,0,0,27,1,1,0,0.0,0.0,0.0,2,0,13,22,59.1,2,19,0,1,0,Augsburg,2018-04-28 Hertha BSC-Augsburg,GER-BL1,17-18,dcb113dd
+11dbba47,Marcel Heller,7,GER,FW,32-075,14,0,0,0,0,0,0,0,1,9,0,0,0,0.0,0.0,0.0,0,0,5,8,62.5,1,7,0,0,0,Augsburg,2018-04-28 Hertha BSC-Augsburg,GER-BL1,17-18,dcb113dd
+c6637acf,Caiuby,30,BRA,LW,29-288,90,0,2,0,0,1,0,1,0,44,3,1,0,0.1,0.1,0.1,3,2,25,35,71.4,7,28,1,3,1,Augsburg,2018-04-28 Hertha BSC-Augsburg,GER-BL1,17-18,dcb113dd
+f972644c,Marco Richter,23,GER,RW,20-155,90,0,0,0,0,1,0,0,0,26,1,1,0,0.0,0.0,0.0,2,0,14,19,73.7,1,20,1,2,1,Augsburg,2018-04-28 Hertha BSC-Augsburg,GER-BL1,17-18,dcb113dd
+8e235926,Michael Gregoritsch,11,AUT,AM,24-010,58,1,0,0,0,4,1,0,0,32,0,1,0,0.1,0.1,0.0,3,0,19,24,79.2,4,18,1,0,0,Augsburg,2018-04-28 Hertha BSC-Augsburg,GER-BL1,17-18,dcb113dd
+229cd98a,Sergio Córdova,21,VEN,AM,20-262,32,1,0,0,0,1,1,1,0,15,0,0,1,0.1,0.1,0.1,1,0,9,10,90.0,2,11,0,3,1,Augsburg,2018-04-28 Hertha BSC-Augsburg,GER-BL1,17-18,dcb113dd
+e7d22eae,Jan Morávek,14,CZE,DM,28-178,81,0,0,0,0,0,0,0,0,51,4,2,1,0.0,0.0,0.0,2,1,37,42,88.1,4,26,0,1,0,Augsburg,2018-04-28 Hertha BSC-Augsburg,GER-BL1,17-18,dcb113dd
+cf01fe3a,Christoph Janker,16,GER,DM,33-073,9,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,0,3,0.0,0,1,0,0,0,Augsburg,2018-04-28 Hertha BSC-Augsburg,GER-BL1,17-18,dcb113dd
+59e4b92e,Rani Khedira,8,GER,DM,24-091,90,0,0,0,0,1,0,0,0,40,4,2,0,0.1,0.1,0.0,0,0,24,29,82.8,4,19,1,0,0,Augsburg,2018-04-28 Hertha BSC-Augsburg,GER-BL1,17-18,dcb113dd
+826e8b63,Philipp Max,31,GER,LB,24-210,90,0,0,0,0,0,0,0,0,54,0,1,1,0.0,0.0,0.2,5,1,31,52,59.6,4,31,5,1,0,Augsburg,2018-04-28 Hertha BSC-Augsburg,GER-BL1,17-18,dcb113dd
+080440a4,Martin Hinteregger,36,AUT,CB,25-233,90,0,0,0,0,3,1,0,0,51,2,0,0,0.3,0.3,0.0,1,0,32,40,80.0,3,32,0,0,0,Augsburg,2018-04-28 Hertha BSC-Augsburg,GER-BL1,17-18,dcb113dd
+1025db8e,Jeffrey Gouweleeuw,6,NED,CB,26-292,90,0,0,0,0,0,0,0,0,50,1,2,1,0.0,0.0,0.0,0,0,28,37,75.7,5,26,0,0,0,Augsburg,2018-04-28 Hertha BSC-Augsburg,GER-BL1,17-18,dcb113dd
+088ca1bd,Jonathan Schmid,17,FRA,RB,27-310,90,0,0,0,0,1,0,0,0,50,0,1,1,0.0,0.0,0.2,2,0,34,45,75.6,1,28,0,1,1,Augsburg,2018-04-28 Hertha BSC-Augsburg,GER-BL1,17-18,dcb113dd
+7fe12375,Andreas Luthe,1,GER,GK,31-049,90,0,0,0,0,0,0,0,0,44,0,0,0,0.0,0.0,0.0,0,0,29,40,72.5,0,26,0,0,0,Augsburg,2018-04-28 Hertha BSC-Augsburg,GER-BL1,17-18,dcb113dd

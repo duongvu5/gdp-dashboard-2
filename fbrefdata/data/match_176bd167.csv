@@ -1,0 +1,29 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+d3de9af0,Duván Zapata,91,COL,FW,27-246,90,1,0,0,0,3,2,0,0,48,0,0,1,0.7,0.7,0.2,3,0,22,30,73.3,4,44,6,5,4,Atalanta,2018-12-03 Atalanta-Napoli,ITA-SERIA_A,18-19,176bd167
+a1216563,Emiliano Rigoni,24,ARG,FW,25-302,70,0,0,0,0,1,0,0,0,45,2,0,1,0.1,0.1,0.2,4,1,20,34,58.8,4,32,2,6,5,Atalanta,2018-12-03 Atalanta-Napoli,ITA-SERIA_A,18-19,176bd167
+2b28ba9f,Luca Valzania,4,ITA,CM,22-273,20,0,0,0,0,0,0,0,0,15,1,0,0,0.0,0.0,0.0,0,0,9,12,75.0,0,6,0,0,0,Atalanta,2018-12-03 Atalanta-Napoli,ITA-SERIA_A,18-19,176bd167
+6e4df551,Papu Gómez,10,ARG,"AM,FW",30-291,90,0,0,0,0,4,0,0,0,75,1,2,1,0.2,0.2,0.2,7,0,47,60,78.3,3,54,2,4,3,Atalanta,2018-12-03 Atalanta-Napoli,ITA-SERIA_A,18-19,176bd167
+98d2c2c4,Remo Freuler,11,SUI,CM,26-232,90,0,0,0,0,1,0,0,0,83,5,2,1,0.1,0.1,0.0,0,0,57,69,82.6,8,59,3,2,2,Atalanta,2018-12-03 Atalanta-Napoli,ITA-SERIA_A,18-19,176bd167
+2a1beb34,Marten de Roon,15,NED,CM,27-249,90,0,0,0,0,0,0,0,0,78,4,0,2,0.0,0.0,0.0,3,0,60,68,88.2,13,54,2,0,0,Atalanta,2018-12-03 Atalanta-Napoli,ITA-SERIA_A,18-19,176bd167
+2d970560,Robin Gosens,8,GER,WB,24-151,90,0,0,0,0,0,0,0,0,77,0,0,0,0.0,0.0,0.1,3,0,59,75,78.7,11,44,4,2,2,Atalanta,2018-12-03 Atalanta-Napoli,ITA-SERIA_A,18-19,176bd167
+3b333ac3,Hans Hateboer,33,NED,WB,24-328,90,0,1,0,0,1,0,0,0,83,2,0,1,0.0,0.0,0.6,2,1,53,70,75.7,1,43,2,4,1,Atalanta,2018-12-03 Atalanta-Napoli,ITA-SERIA_A,18-19,176bd167
+e0314d87,Andrea Masiello,5,ITA,CB,32-301,90,0,0,0,0,1,0,1,0,77,0,4,1,0.0,0.0,0.0,1,0,62,68,91.2,9,44,0,0,0,Atalanta,2018-12-03 Atalanta-Napoli,ITA-SERIA_A,18-19,176bd167
+921f6058,José Luis Palomino,6,ARG,CB,28-332,90,0,0,0,0,0,0,0,0,71,2,4,0,0.0,0.0,0.0,1,0,49,60,81.7,2,39,0,0,0,Atalanta,2018-12-03 Atalanta-Napoli,ITA-SERIA_A,18-19,176bd167
+5aa53281,Gianluca Mancini,23,ITA,CB,22-230,88,0,0,0,0,3,0,0,0,74,1,1,0,0.3,0.3,0.0,1,0,57,66,86.4,5,55,1,1,1,Atalanta,2018-12-03 Atalanta-Napoli,ITA-SERIA_A,18-19,176bd167
+5bdd44d8,Marco Tumminello,20,ITA,CB,20-027,2,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,2,0,0,0,Atalanta,2018-12-03 Atalanta-Napoli,ITA-SERIA_A,18-19,176bd167
+ee833569,Etrit Berisha,1,ALB,GK,29-268,90,0,0,0,0,0,0,0,0,30,0,0,0,0.0,0.0,0.0,0,0,27,28,96.4,0,19,0,0,0,Atalanta,2018-12-03 Atalanta-Napoli,ITA-SERIA_A,18-19,176bd167
+2f557579,Lorenzo Insigne,24,ITA,FW,27-182,90,0,1,0,0,5,3,0,0,80,0,1,0,0.6,0.6,0.7,5,1,62,71,87.3,11,48,3,1,0,Napoli,2018-12-03 Atalanta-Napoli,ITA-SERIA_A,18-19,176bd167
+89b2c8a9,Dries Mertens,14,BEL,FW,31-211,81,0,0,0,0,0,0,0,0,30,2,2,0,0.0,0.0,0.0,3,1,20,23,87.0,1,18,1,1,1,Napoli,2018-12-03 Atalanta-Napoli,ITA-SERIA_A,18-19,176bd167
+85613cf0,Arkadiusz Milik,99,POL,FW,24-278,9,1,0,0,0,1,1,0,0,4,0,0,0,0.3,0.3,0.0,0,0,2,3,66.7,1,2,0,0,0,Napoli,2018-12-03 Atalanta-Napoli,ITA-SERIA_A,18-19,176bd167
+c0c7ff58,Fabián Ruiz Peña,8,ESP,LM,22-244,76,1,0,0,0,2,2,0,0,51,2,1,1,0.6,0.6,0.0,2,0,33,39,84.6,4,34,0,2,2,Napoli,2018-12-03 Atalanta-Napoli,ITA-SERIA_A,18-19,176bd167
+a5296e55,Piotr Zieliński,20,POL,LM,24-197,14,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,1,5,1,2,1,Napoli,2018-12-03 Atalanta-Napoli,ITA-SERIA_A,18-19,176bd167
+e6ad16b2,Marek Hamšík,17,SVK,CM,31-129,90,0,0,0,0,1,0,0,0,66,1,2,1,0.0,0.0,0.0,3,1,49,57,86.0,7,45,1,2,1,Napoli,2018-12-03 Atalanta-Napoli,ITA-SERIA_A,18-19,176bd167
+cc700722,Allan,5,BRA,CM,27-329,90,0,0,0,0,0,0,1,0,70,3,1,2,0.0,0.0,0.3,1,0,41,53,77.4,5,34,0,2,1,Napoli,2018-12-03 Atalanta-Napoli,ITA-SERIA_A,18-19,176bd167
+78841da9,José Callejón,7,ESP,RM,31-295,90,0,0,0,0,0,0,0,0,70,3,1,3,0.0,0.0,0.0,2,0,42,59,71.2,4,30,2,0,0,Napoli,2018-12-03 Atalanta-Napoli,ITA-SERIA_A,18-19,176bd167
+0b5a292a,Mário Rui,6,POR,LB,27-190,90,0,1,0,0,0,0,1,0,78,3,4,1,0.0,0.0,0.4,2,1,47,61,77.0,7,38,3,3,2,Napoli,2018-12-03 Atalanta-Napoli,ITA-SERIA_A,18-19,176bd167
+da974c7b,Kalidou Koulibaly,26,SEN,CB,27-166,90,0,0,0,0,0,0,0,0,38,3,2,0,0.0,0.0,0.0,0,0,19,28,67.9,2,17,1,0,0,Napoli,2018-12-03 Atalanta-Napoli,ITA-SERIA_A,18-19,176bd167
+4bd414c1,Raúl Albiol,33,ESP,CB,33-090,90,0,0,0,0,1,0,0,0,50,2,2,2,0.0,0.0,0.2,1,0,26,33,78.8,2,24,0,0,0,Napoli,2018-12-03 Atalanta-Napoli,ITA-SERIA_A,18-19,176bd167
+16b9d5cf,Nikola Maksimović,19,SRB,RB,27-008,76,0,0,0,0,0,0,0,0,70,1,0,2,0.0,0.0,0.0,1,0,47,57,82.5,2,37,3,3,1,Napoli,2018-12-03 Atalanta-Napoli,ITA-SERIA_A,18-19,176bd167
+2f3452eb,Elseid Hysaj,23,ALB,RB,24-286,14,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,1,0,0,0,Napoli,2018-12-03 Atalanta-Napoli,ITA-SERIA_A,18-19,176bd167
+82b1198a,David Ospina,25,COL,GK,30-094,90,0,0,0,0,0,0,0,0,37,0,0,0,0.0,0.0,0.0,0,0,18,34,52.9,0,15,0,0,0,Napoli,2018-12-03 Atalanta-Napoli,ITA-SERIA_A,18-19,176bd167

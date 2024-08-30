@@ -1,0 +1,29 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+b2bd0f6c,Jonathan Bamba,14,CIV,"FW,LW",21-132,90,1,0,0,0,2,1,0,0,39,1,0,0,0.6,0.6,0.0,3,0,28,32,87.5,3,34,7,1,0,Saint-Étienne,2017-08-05 Saint-Étienne-Nice,FRA-L1,17-18,68b9eea2
+0b4d8274,Romain Hamouma,21,FRA,LW,30-129,61,0,0,0,0,0,0,0,0,38,0,1,0,0.0,0.0,0.1,3,1,24,35,68.6,3,29,3,1,0,Saint-Étienne,2017-08-05 Saint-Étienne-Nice,FRA-L1,17-18,68b9eea2
+4be0b467,Lois Diony,9,FRA,FW,24-228,29,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,1,0,3,3,100.0,1,7,0,0,0,Saint-Étienne,2017-08-05 Saint-Étienne-Nice,FRA-L1,17-18,68b9eea2
+730bd100,Oussama Tannane,10,MAR,RW,23-135,78,0,1,0,0,1,1,0,0,46,5,2,0,0.0,0.0,0.6,2,1,25,36,69.4,3,34,1,1,0,Saint-Étienne,2017-08-05 Saint-Étienne-Nice,FRA-L1,17-18,68b9eea2
+e3ad3368,Rayan Souici,31,FRA,RM,19-158,12,0,0,0,0,0,0,0,0,6,0,0,1,0.0,0.0,0.0,0,0,5,5,100.0,0,5,0,0,0,Saint-Étienne,2017-08-05 Saint-Étienne-Nice,FRA-L1,17-18,68b9eea2
+7f622eef,Assane Dioussé,8,SEN,LM,19-319,90,0,0,0,0,0,0,0,0,67,3,0,2,0.0,0.0,0.0,2,0,50,58,86.2,13,53,3,2,2,Saint-Étienne,2017-08-05 Saint-Étienne-Nice,FRA-L1,17-18,68b9eea2
+4db2157a,Ole Selnæs,17,NOR,CM,23-029,90,0,0,0,0,0,0,1,0,58,5,4,2,0.0,0.0,0.0,3,0,41,48,85.4,4,34,0,0,0,Saint-Étienne,2017-08-05 Saint-Étienne-Nice,FRA-L1,17-18,68b9eea2
+c53083ad,Bryan Dabo,7,BFA,"RM,RW",25-168,90,0,0,0,0,3,0,0,0,60,2,0,0,0.2,0.2,0.0,1,0,36,46,78.3,4,44,2,0,0,Saint-Étienne,2017-08-05 Saint-Étienne-Nice,FRA-L1,17-18,68b9eea2
+64ba07c0,Ronaël Pierre-Gabriel,29,FRA,LB,19-053,90,0,0,0,0,2,1,0,0,68,3,0,1,0.1,0.1,0.0,1,0,43,55,78.2,4,38,1,0,0,Saint-Étienne,2017-08-05 Saint-Étienne-Nice,FRA-L1,17-18,68b9eea2
+6b200d45,Loïc Perrin,24,FRA,CB,31-363,90,0,0,0,0,0,0,0,0,60,1,0,1,0.0,0.0,0.0,0,0,45,52,86.5,0,41,0,1,1,Saint-Étienne,2017-08-05 Saint-Étienne-Nice,FRA-L1,17-18,68b9eea2
+6b994195,Kévin Théophile-Catherine,2,FRA,CB,27-281,90,0,0,0,0,0,0,1,0,45,1,2,0,0.0,0.0,0.0,0,0,30,34,88.2,0,30,0,0,0,Saint-Étienne,2017-08-05 Saint-Étienne-Nice,FRA-L1,17-18,68b9eea2
+689c9cf4,Saidy Janko,15,GAM,RB,21-287,90,0,0,0,0,0,0,0,0,61,2,1,1,0.0,0.0,0.0,0,0,41,50,82.0,4,34,2,3,2,Saint-Étienne,2017-08-05 Saint-Étienne-Nice,FRA-L1,17-18,68b9eea2
+cac76a72,Stéphane Ruffier,16,FRA,GK,30-312,90,0,0,0,0,0,0,0,0,34,0,0,0,0.0,0.0,0.0,0,0,27,33,81.8,0,25,0,0,0,Saint-Étienne,2017-08-05 Saint-Étienne-Nice,FRA-L1,17-18,68b9eea2
+bc6bd723,Alassane Pléa,14,FRA,FW,24-148,90,0,0,0,0,1,0,0,0,42,0,0,1,0.3,0.3,0.1,2,0,32,37,86.5,5,20,1,1,1,Nice,2017-08-05 Saint-Étienne-Nice,FRA-L1,17-18,68b9eea2
+ae82fa48,Valentin Eysseric,13,FRA,LW,25-133,90,0,0,0,0,1,1,0,0,90,0,1,4,0.1,0.1,0.2,2,0,58,76,76.3,9,47,2,5,3,Nice,2017-08-05 Saint-Étienne-Nice,FRA-L1,17-18,68b9eea2
+f5044e54,Pierre Lees-Melou,7,FRA,RW,24-072,90,0,0,0,0,1,1,0,0,69,4,1,4,0.0,0.0,0.0,1,0,46,55,83.6,5,41,1,1,1,Nice,2017-08-05 Saint-Étienne-Nice,FRA-L1,17-18,68b9eea2
+84549a07,Bassem Srarfi,11,TUN,AM,20-041,45,0,0,0,0,0,0,0,0,24,1,1,1,0.0,0.0,0.0,0,0,14,20,70.0,1,15,3,1,1,Nice,2017-08-05 Saint-Étienne-Nice,FRA-L1,17-18,68b9eea2
+51fa3fed,Vincent Marcel,19,FRA,AM,20-118,45,0,0,0,0,0,0,0,0,27,1,0,1,0.0,0.0,0.0,0,0,15,19,78.9,1,20,0,0,0,Nice,2017-08-05 Saint-Étienne-Nice,FRA-L1,17-18,68b9eea2
+0984c5d5,Rémi Walter,18,FRA,DM,22-101,73,0,0,0,0,0,0,0,0,65,0,2,0,0.0,0.0,0.0,2,0,56,60,93.3,5,40,2,2,2,Nice,2017-08-05 Saint-Étienne-Nice,FRA-L1,17-18,68b9eea2
+22bfb57e,Jean-Victor Makengo,27,FRA,DM,19-054,17,0,0,0,0,0,0,0,0,16,0,0,0,0.0,0.0,0.0,0,0,14,15,93.3,5,12,1,1,1,Nice,2017-08-05 Saint-Étienne-Nice,FRA-L1,17-18,68b9eea2
+9a493fb7,Vincent Koziello,26,FRA,DM,21-281,77,0,0,0,0,1,0,0,0,81,2,2,2,0.0,0.0,0.0,0,0,69,74,93.2,7,45,0,0,0,Nice,2017-08-05 Saint-Étienne-Nice,FRA-L1,17-18,68b9eea2
+8da74c05,Adrien Tameze,5,CMR,DM,23-182,13,0,0,0,0,0,0,0,0,13,0,0,0,0.0,0.0,0.0,0,0,10,12,83.3,1,9,1,0,0,Nice,2017-08-05 Saint-Étienne-Nice,FRA-L1,17-18,68b9eea2
+4315f30d,Malang Sarr,23,FRA,LB,18-194,90,0,0,0,0,0,0,0,0,79,1,3,0,0.0,0.0,0.3,2,0,62,72,86.1,4,45,5,0,0,Nice,2017-08-05 Saint-Étienne-Nice,FRA-L1,17-18,68b9eea2
+321a71a7,Maxime Le Marchand,20,FRA,CB,27-298,90,0,0,0,0,1,0,0,0,106,0,6,2,0.1,0.1,0.0,0,0,89,94,94.7,2,59,0,0,0,Nice,2017-08-05 Saint-Étienne-Nice,FRA-L1,17-18,68b9eea2
+fd2bc67d,Dante,31,BRA,CB,33-291,90,0,0,0,0,1,0,1,0,79,2,1,0,0.1,0.1,0.0,0,0,70,74,94.6,3,53,1,0,0,Nice,2017-08-05 Saint-Étienne-Nice,FRA-L1,17-18,68b9eea2
+4e0afc5d,Arnaud Souquet,2,FRA,RB,25-174,90,0,0,0,0,0,0,0,0,75,3,2,1,0.0,0.0,0.0,3,0,57,65,87.7,4,40,6,7,6,Nice,2017-08-05 Saint-Étienne-Nice,FRA-L1,17-18,68b9eea2
+950ff24d,Yoan Cardinale,30,FRA,GK,23-131,90,0,0,0,0,0,0,0,0,27,0,0,0,0.0,0.0,0.0,0,0,24,25,96.0,0,12,0,0,0,Nice,2017-08-05 Saint-Étienne-Nice,FRA-L1,17-18,68b9eea2

@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+0e0102eb,Omar Marmoush,7,EGY,FW,25-003,64,1,0,0,0,3,1,0,0,23,0,0,0,1.2,1.2,0.0,2,1,8,12,66.7,3,17,3,1,1,Eintracht Frankfurt,2024-02-10 Eint Frankfurt-Bochum,GER-BL1,23-24,cad8b5cb
+5b92d896,Hugo Ekitike,11,FRA,FW,21-235,26,0,0,0,0,0,0,0,0,11,1,0,0,0.0,0.0,0.3,4,0,4,8,50.0,0,8,0,2,2,Eintracht Frankfurt,2024-02-10 Eint Frankfurt-Bochum,GER-BL1,23-24,cad8b5cb
+00c9a283,Hugo Larsson,16,SWE,LW,19-228,20,0,0,0,0,0,0,0,0,7,0,0,2,0.0,0.0,0.0,0,0,4,4,100.0,0,3,0,0,0,Eintracht Frankfurt,2024-02-10 Eint Frankfurt-Bochum,GER-BL1,23-24,cad8b5cb
+50dc94ce,Donny van de Beek,25,NED,LW,26-298,63,0,0,0,0,1,0,0,0,35,3,2,3,0.1,0.1,0.0,1,0,16,19,84.2,4,13,1,2,0,Eintracht Frankfurt,2024-02-10 Eint Frankfurt-Bochum,GER-BL1,23-24,cad8b5cb
+e12b0b5b,Sebastian Rode,17,GER,LW,33-122,7,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,1,1,1,0,0,Eintracht Frankfurt,2024-02-10 Eint Frankfurt-Bochum,GER-BL1,23-24,cad8b5cb
+19a967ab,Ansgar Knauff,36,GER,RW,22-031,83,0,0,0,0,2,0,0,0,31,1,0,1,0.3,0.3,0.0,0,0,8,17,47.1,0,18,4,2,0,Eintracht Frankfurt,2024-02-10 Eint Frankfurt-Bochum,GER-BL1,23-24,cad8b5cb
+70d4c949,Jean Mattéo Bahoya,19,FRA,RW,18-279,7,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,0,0,Eintracht Frankfurt,2024-02-10 Eint Frankfurt-Bochum,GER-BL1,23-24,cad8b5cb
+357103bd,Fares Chaïbi,8,ALG,AM,21-074,90,0,1,0,0,2,1,0,0,55,0,0,1,0.3,0.3,1.0,2,1,27,45,60.0,6,23,3,0,0,Eintracht Frankfurt,2024-02-10 Eint Frankfurt-Bochum,GER-BL1,23-24,cad8b5cb
+9efa1d25,Mario Götze,27,GER,DM,31-252,90,0,0,0,0,0,0,0,0,68,3,0,1,0.0,0.0,0.0,2,0,34,56,60.7,3,28,0,2,0,Eintracht Frankfurt,2024-02-10 Eint Frankfurt-Bochum,GER-BL1,23-24,cad8b5cb
+c2211709,Ellyes Skhiri,15,TUN,DM,28-276,90,0,0,0,0,0,0,0,0,63,1,1,0,0.0,0.0,0.0,0,0,38,51,74.5,4,27,0,2,1,Eintracht Frankfurt,2024-02-10 Eint Frankfurt-Bochum,GER-BL1,23-24,cad8b5cb
+826e8b63,Philipp Max,31,GER,LB,30-133,83,0,0,0,0,0,0,0,0,67,4,0,1,0.0,0.0,0.9,3,0,40,56,71.4,5,27,3,0,0,Eintracht Frankfurt,2024-02-10 Eint Frankfurt-Bochum,GER-BL1,23-24,cad8b5cb
+54d2b378,Elias Baum,47,GER,LB,18-107,7,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,1,0,0,0,Eintracht Frankfurt,2024-02-10 Eint Frankfurt-Bochum,GER-BL1,23-24,cad8b5cb
+ecbe2839,Willian Pacho,3,ECU,CB,22-117,90,0,0,0,0,1,0,1,0,68,3,1,2,0.5,0.5,0.0,0,0,37,52,71.2,1,25,0,1,1,Eintracht Frankfurt,2024-02-10 Eint Frankfurt-Bochum,GER-BL1,23-24,cad8b5cb
+ea6bc03a,Robin Koch,4,GER,CB,27-208,90,0,0,0,0,0,0,1,0,77,3,1,0,0.0,0.0,0.1,0,0,46,64,71.9,3,24,0,0,0,Eintracht Frankfurt,2024-02-10 Eint Frankfurt-Bochum,GER-BL1,23-24,cad8b5cb
+b4705807,Aurélio Buta,24,POR,RB,27-000,90,0,0,0,0,0,0,0,0,72,2,3,5,0.0,0.0,0.0,2,0,37,59,62.7,3,16,2,0,0,Eintracht Frankfurt,2024-02-10 Eint Frankfurt-Bochum,GER-BL1,23-24,cad8b5cb
+f26dee6b,Jens Grahl,33,GER,GK,35-141,90,0,0,0,0,0,0,0,0,51,0,0,0,0.0,0.0,0.0,0,0,35,47,74.5,0,21,0,0,0,Eintracht Frankfurt,2024-02-10 Eint Frankfurt-Bochum,GER-BL1,23-24,cad8b5cb
+13ddc856,Takuma Asano,11,JPN,FW,29-092,70,0,0,0,0,4,2,0,0,24,0,0,2,0.6,0.6,0.1,2,0,9,13,69.2,0,16,4,0,0,Bochum,2024-02-10 Eint Frankfurt-Bochum,GER-BL1,23-24,cad8b5cb
+0a3f6cde,Christopher Antwi-Adjei,22,GHA,FW,30-003,20,0,0,0,0,1,1,0,0,14,0,0,0,0.0,0.0,0.1,2,0,8,11,72.7,1,10,2,3,2,Bochum,2024-02-10 Eint Frankfurt-Bochum,GER-BL1,23-24,cad8b5cb
+bbd79358,Moritz Broschinski,29,GER,FW,23-140,90,1,0,0,0,2,2,0,0,35,3,0,0,0.2,0.2,0.4,5,1,12,22,54.5,1,20,2,2,1,Bochum,2024-02-10 Eint Frankfurt-Bochum,GER-BL1,23-24,cad8b5cb
+e5649a78,Kevin Stöger,7,AUT,AM,30-167,90,0,1,0,0,2,0,0,0,81,2,1,3,0.1,0.1,0.3,7,1,41,71,57.7,12,46,2,1,0,Bochum,2024-02-10 Eint Frankfurt-Bochum,GER-BL1,23-24,cad8b5cb
+9662c9ec,Patrick Osterhage,6,GER,LM,24-009,90,0,0,0,0,1,0,0,0,66,2,2,1,0.0,0.0,0.1,5,0,45,54,83.3,2,41,1,1,1,Bochum,2024-02-10 Eint Frankfurt-Bochum,GER-BL1,23-24,cad8b5cb
+b5e0af76,Matúš Bero,19,SVK,RM,28-157,90,0,0,0,0,2,0,1,0,45,2,1,2,0.5,0.5,0.0,1,0,14,32,43.8,1,23,0,1,0,Bochum,2024-02-10 Eint Frankfurt-Bochum,GER-BL1,23-24,cad8b5cb
+07c7eb0c,Anthony Losilla,8,FRA,DM,37-337,90,0,0,0,0,0,0,0,0,38,1,0,1,0.0,0.0,0.0,0,0,23,30,76.7,2,18,0,0,0,Bochum,2024-02-10 Eint Frankfurt-Bochum,GER-BL1,23-24,cad8b5cb
+17370b95,Bernardo,5,BRA,LB,28-272,90,0,0,0,0,0,0,0,0,74,5,0,0,0.0,0.0,0.0,0,0,37,55,67.3,8,26,1,1,1,Bochum,2024-02-10 Eint Frankfurt-Bochum,GER-BL1,23-24,cad8b5cb
+f6bdc830,Keven Schlotterbeck,31,GER,CB,26-288,90,0,0,0,0,0,0,0,0,53,1,1,1,0.0,0.0,0.1,1,0,35,42,83.3,4,22,0,0,0,Bochum,2024-02-10 Eint Frankfurt-Bochum,GER-BL1,23-24,cad8b5cb
+86c75897,Ivan Ordets,20,UKR,CB,31-217,90,0,0,0,0,0,0,0,0,39,1,0,2,0.0,0.0,0.0,0,0,20,29,69.0,3,14,0,0,0,Bochum,2024-02-10 Eint Frankfurt-Bochum,GER-BL1,23-24,cad8b5cb
+57ec75bf,Tim Oermann,14,GER,RB,20-127,90,0,0,0,0,2,0,1,0,46,1,1,1,0.0,0.0,0.0,2,0,20,31,64.5,2,16,1,0,0,Bochum,2024-02-10 Eint Frankfurt-Bochum,GER-BL1,23-24,cad8b5cb
+9f941969,Manuel Riemann,1,GER,GK,35-154,90,0,0,0,0,0,0,0,0,57,0,0,0,0.0,0.0,0.0,0,0,29,53,54.7,0,44,0,0,0,Bochum,2024-02-10 Eint Frankfurt-Bochum,GER-BL1,23-24,cad8b5cb

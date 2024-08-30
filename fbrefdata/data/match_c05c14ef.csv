@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+ba115a40,Sébastien Haller,9,CIV,FW,29-058,58,0,0,0,0,1,0,0,0,15,1,0,0,0.0,0.0,0.0,2,0,7,10,70.0,1,7,0,0,0,Dortmund,2023-08-19 Dortmund-Köln,GER-BL1,23-24,c05c14ef
+6ce43701,Youssoufa Moukoko,18,GER,FW,18-272,32,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,4,4,100.0,1,4,0,0,0,Dortmund,2023-08-19 Dortmund-Köln,GER-BL1,23-24,c05c14ef
+a167537f,Julian Brandt,19,GER,LW,27-109,90,0,0,0,0,2,1,0,0,67,1,0,0,0.1,0.1,1.0,8,0,45,57,78.9,7,45,4,8,4,Dortmund,2023-08-19 Dortmund-Köln,GER-BL1,23-24,c05c14ef
+116c35df,Donyell Malen,21,NED,RW,24-222,90,1,0,0,0,1,1,1,0,55,1,1,0,0.2,0.2,0.0,0,0,25,36,69.4,2,39,2,7,2,Dortmund,2023-08-19 Dortmund-Köln,GER-BL1,23-24,c05c14ef
+36a3ff67,Marco Reus,11,GER,AM,34-080,69,0,0,0,0,1,0,0,0,29,1,1,1,0.2,0.2,0.7,4,0,17,22,77.3,2,17,0,2,2,Dortmund,2023-08-19 Dortmund-Köln,GER-BL1,23-24,c05c14ef
+501055d8,Karim Adeyemi,27,GER,AM,21-213,21,0,0,0,0,0,0,0,0,16,0,0,1,0.0,0.0,0.0,0,0,5,9,55.6,0,15,3,3,1,Dortmund,2023-08-19 Dortmund-Köln,GER-BL1,23-24,c05c14ef
+a65ce836,Emre Can,23,GER,DM,29-219,58,0,0,0,0,1,0,0,0,47,0,0,2,0.0,0.0,0.1,3,0,38,43,88.4,1,27,0,0,0,Dortmund,2023-08-19 Dortmund-Köln,GER-BL1,23-24,c05c14ef
+091c86e2,Felix Nmecha,8,GER,DM,22-313,32,0,1,0,0,1,0,0,0,20,0,0,0,0.1,0.1,0.2,1,1,15,17,88.2,2,14,0,0,0,Dortmund,2023-08-19 Dortmund-Köln,GER-BL1,23-24,c05c14ef
+e280527c,Marcel Sabitzer,20,AUT,DM,29-155,90,0,0,0,0,1,0,0,0,65,3,0,3,0.0,0.0,0.0,0,0,40,47,85.1,7,35,3,0,0,Dortmund,2023-08-19 Dortmund-Köln,GER-BL1,23-24,c05c14ef
+378825c7,Ramy Bensebaini,5,ALG,LB,28-125,83,0,0,0,0,0,0,0,0,98,3,3,0,0.0,0.0,0.0,0,0,68,88,77.3,8,69,1,2,2,Dortmund,2023-08-19 Dortmund-Köln,GER-BL1,23-24,c05c14ef
+fa661778,Marius Wolf,17,GER,"RB,LB",28-084,7,0,0,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.0,0,0,7,9,77.8,1,7,0,1,0,Dortmund,2023-08-19 Dortmund-Köln,GER-BL1,23-24,c05c14ef
+05d548d8,Mats Hummels,15,GER,CB,34-246,90,0,0,0,0,4,0,0,0,161,1,4,1,1.3,1.3,0.0,1,0,140,148,94.6,14,137,0,0,0,Dortmund,2023-08-19 Dortmund-Köln,GER-BL1,23-24,c05c14ef
+e33c06cf,Niklas Süle,25,GER,CB,27-350,90,0,0,0,0,1,0,0,0,145,0,1,1,0.0,0.0,0.0,1,0,129,137,94.2,12,121,1,0,0,Dortmund,2023-08-19 Dortmund-Köln,GER-BL1,23-24,c05c14ef
+009a4f60,Julian Ryerson,26,NOR,RB,25-275,83,0,0,0,0,0,0,0,0,83,0,0,1,0.0,0.0,0.0,0,0,69,76,90.8,8,62,2,2,1,Dortmund,2023-08-19 Dortmund-Köln,GER-BL1,23-24,c05c14ef
+50871bcc,Thorgan Hazard,10,BEL,LB,30-143,7,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,7,9,77.8,2,4,0,0,0,Dortmund,2023-08-19 Dortmund-Köln,GER-BL1,23-24,c05c14ef
+cd59b9df,Gregor Kobel,1,SUI,GK,25-256,90,0,0,0,0,0,0,0,0,36,0,0,0,0.0,0.0,0.0,0,0,33,34,97.1,0,25,0,0,0,Dortmund,2023-08-19 Dortmund-Köln,GER-BL1,23-24,c05c14ef
+1238a3f9,Davie Selke,27,GER,FW,28-211,51,0,0,0,0,1,0,0,0,20,0,0,0,0.2,0.2,0.0,2,0,9,16,56.3,1,11,4,1,1,Köln,2023-08-19 Dortmund-Köln,GER-BL1,23-24,c05c14ef
+22919e97,Sargis Adamyan,23,ARM,FW,30-088,39,0,0,0,0,3,3,0,0,16,1,0,0,0.6,0.6,0.0,2,0,8,10,80.0,4,11,2,1,1,Köln,2023-08-19 Dortmund-Köln,GER-BL1,23-24,c05c14ef
+e5a35ae9,Luca Waldschmidt,9,GER,"LW,LM",27-092,65,0,0,0,0,0,0,0,0,28,0,0,3,0.0,0.0,0.0,1,0,14,21,66.7,3,14,3,2,1,Köln,2023-08-19 Dortmund-Köln,GER-BL1,23-24,c05c14ef
+7ebd0896,Max Finkgräfe,35,GER,LM,19-145,25,0,0,0,0,1,0,0,0,23,2,0,0,0.0,0.0,0.1,2,0,7,13,53.8,0,12,3,1,0,Köln,2023-08-19 Dortmund-Köln,GER-BL1,23-24,c05c14ef
+64d7f629,Rasmus Carstensen,18,DEN,"RW,RM",22-312,89,0,0,0,0,0,0,0,0,35,2,1,3,0.0,0.0,0.6,5,0,18,25,72.0,6,22,3,4,1,Köln,2023-08-19 Dortmund-Köln,GER-BL1,23-24,c05c14ef
+610aa1e9,Luca Kilian,15,GER,RM,23-352,1,0,0,0,0,0,0,0,0,4,1,0,0,0.0,0.0,0.0,0,0,3,3,100.0,1,0,0,0,0,Köln,2023-08-19 Dortmund-Köln,GER-BL1,23-24,c05c14ef
+94c18565,Florian Kainz,11,AUT,"AM,FW",30-299,65,0,0,0,0,0,0,0,0,27,0,0,0,0.0,0.0,0.2,4,0,16,23,69.6,4,19,4,1,1,Köln,2023-08-19 Dortmund-Köln,GER-BL1,23-24,c05c14ef
+86adbcc7,Mathias Olesen,47,LUX,FW,22-151,25,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,9,9,100.0,3,7,1,0,0,Köln,2023-08-19 Dortmund-Köln,GER-BL1,23-24,c05c14ef
+92a16062,Eric Martel,6,GER,"DM,CM",21-112,90,0,0,0,0,2,0,0,0,45,0,2,2,0.2,0.2,0.0,1,0,26,32,81.3,0,24,0,0,0,Köln,2023-08-19 Dortmund-Köln,GER-BL1,23-24,c05c14ef
+c455a2b2,Dejan Ljubicic,7,AUT,"DM,CM",25-315,90,0,0,0,0,2,0,0,0,52,4,3,1,0.1,0.1,0.2,3,0,34,40,85.0,6,28,2,0,0,Köln,2023-08-19 Dortmund-Köln,GER-BL1,23-24,c05c14ef
+82bfc14d,Leart Paqarada,17,KVX,LB,28-315,90,0,0,0,0,1,1,0,0,55,1,2,1,0.0,0.0,0.0,1,0,29,46,63.0,0,24,3,1,1,Köln,2023-08-19 Dortmund-Köln,GER-BL1,23-24,c05c14ef
+ae7058f9,Julian Chabot,24,GER,CB,25-188,90,0,0,0,0,1,0,0,0,50,4,2,4,0.0,0.0,0.0,0,0,25,28,89.3,0,19,0,1,0,Köln,2023-08-19 Dortmund-Köln,GER-BL1,23-24,c05c14ef
+94302c52,Timo Hübers,4,GER,CB,27-030,90,0,0,0,0,0,0,0,0,61,3,2,3,0.0,0.0,0.0,0,0,41,49,83.7,4,29,0,1,1,Köln,2023-08-19 Dortmund-Köln,GER-BL1,23-24,c05c14ef
+ad00b1a8,Benno Schmitz,2,GER,RB,28-275,90,0,0,0,0,0,0,0,0,55,2,0,1,0.0,0.0,0.0,0,0,27,46,58.7,2,21,2,0,0,Köln,2023-08-19 Dortmund-Köln,GER-BL1,23-24,c05c14ef
+87436846,Marvin Schwäbe,1,GER,GK,28-116,90,0,0,0,0,0,0,0,0,30,0,0,0,0.0,0.0,0.0,0,0,22,29,75.9,0,17,0,0,0,Köln,2023-08-19 Dortmund-Köln,GER-BL1,23-24,c05c14ef

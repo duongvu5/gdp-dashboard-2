@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+a8d4428b,Josh Sargent,19,USA,FW,20-345,60,0,0,0,0,2,1,0,0,26,1,0,2,0.1,0.1,0.0,2,0,10,15,66.7,1,12,0,0,0,Werder Bremen,2021-01-30 Werder Bremen-Schalke 04,GER-BL1,20-21,975c5e67
+f69fba57,Yuya Osako,8,JPN,FW,30-257,30,0,0,0,0,1,1,0,0,13,0,0,0,0.1,0.1,0.1,3,1,6,11,54.5,2,6,0,0,0,Werder Bremen,2021-01-30 Werder Bremen-Schalke 04,GER-BL1,20-21,975c5e67
+220ace7e,Romano Schmid,20,AUT,FW,21-003,45,0,0,0,0,1,0,0,0,21,1,0,0,0.0,0.0,0.0,1,0,15,18,83.3,2,12,0,0,0,Werder Bremen,2021-01-30 Werder Bremen-Schalke 04,GER-BL1,20-21,975c5e67
+6c6a3300,Milot Rashica,7,KVX,FW,24-216,45,0,1,0,0,1,0,0,0,21,0,0,0,0.1,0.1,0.1,2,1,11,16,68.8,2,14,1,1,0,Werder Bremen,2021-01-30 Werder Bremen-Schalke 04,GER-BL1,20-21,975c5e67
+1a5d7cb9,Jean-Manuel Mbom,34,GER,CM,20-341,45,0,0,0,0,0,0,0,0,15,0,0,0,0.0,0.0,0.0,0,0,5,13,38.5,1,14,0,0,0,Werder Bremen,2021-01-30 Werder Bremen-Schalke 04,GER-BL1,20-21,975c5e67
+a5ce09f2,Kevin Möhwald,6,GER,CM,27-211,45,1,0,0,0,3,1,0,0,54,1,1,0,0.1,0.1,0.0,1,0,37,46,80.4,2,36,0,0,0,Werder Bremen,2021-01-30 Werder Bremen-Schalke 04,GER-BL1,20-21,975c5e67
+beb882a8,Maximilian Eggestein,35,GER,CM,24-053,90,0,0,0,0,1,1,0,0,67,2,2,1,0.0,0.0,0.1,3,0,47,58,81.0,11,33,2,0,0,Werder Bremen,2021-01-30 Werder Bremen-Schalke 04,GER-BL1,20-21,975c5e67
+dc62fbee,Leonardo Bittencourt,10,GER,CM,27-042,90,0,0,0,0,3,0,0,0,66,2,0,0,0.2,0.2,0.1,3,0,43,58,74.1,3,47,2,1,1,Werder Bremen,2021-01-30 Werder Bremen-Schalke 04,GER-BL1,20-21,975c5e67
+cb6d81b3,Felix Agu,17,GER,WB,21-125,45,0,0,0,0,0,0,0,0,30,3,1,1,0.0,0.0,0.0,0,0,15,19,78.9,0,16,1,1,0,Werder Bremen,2021-01-30 Werder Bremen-Schalke 04,GER-BL1,20-21,975c5e67
+9fec8860,Ludwig Augustinsson,5,SWE,WB,26-284,45,0,0,0,0,1,0,0,0,48,0,0,0,0.0,0.0,0.1,5,0,30,46,65.2,2,23,2,0,0,Werder Bremen,2021-01-30 Werder Bremen-Schalke 04,GER-BL1,20-21,975c5e67
+3f65898c,Theodor Gebre Selassie,23,CZE,WB,34-037,90,0,0,0,0,0,0,0,0,43,0,1,0,0.0,0.0,0.1,3,0,32,40,80.0,0,14,0,0,0,Werder Bremen,2021-01-30 Werder Bremen-Schalke 04,GER-BL1,20-21,975c5e67
+f86ad3f5,Marco Friedl,32,AUT,CB,22-320,90,0,0,0,0,0,0,0,0,84,3,2,0,0.0,0.0,0.0,1,0,60,75,80.0,9,54,1,1,1,Werder Bremen,2021-01-30 Werder Bremen-Schalke 04,GER-BL1,20-21,975c5e67
+c5fd13e9,Ömer Toprak,21,TUR,CB,31-193,89,0,0,0,0,2,1,0,0,56,4,2,0,0.1,0.1,0.0,3,0,42,47,89.4,2,38,0,0,0,Werder Bremen,2021-01-30 Werder Bremen-Schalke 04,GER-BL1,20-21,975c5e67
+00844823,Niklas Moisander,18,FIN,CB,35-123,1,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,0,3,0.0,0,0,0,0,0,Werder Bremen,2021-01-30 Werder Bremen-Schalke 04,GER-BL1,20-21,975c5e67
+a5ae8f8e,Miloš Veljković,13,SRB,CB,25-126,90,0,0,0,0,0,0,0,0,54,1,1,0,0.0,0.0,0.0,1,0,37,48,77.1,2,33,0,0,0,Werder Bremen,2021-01-30 Werder Bremen-Schalke 04,GER-BL1,20-21,975c5e67
+0a1cb833,Jiří Pavlenka,1,CZE,GK,28-291,90,0,0,0,0,0,0,0,0,27,0,0,0,0.0,0.0,0.0,0,0,22,26,84.6,0,15,0,0,0,Werder Bremen,2021-01-30 Werder Bremen-Schalke 04,GER-BL1,20-21,975c5e67
+1bc432b7,Matthew Hoppe,43,USA,FW,19-323,79,0,0,0,0,1,0,0,0,19,0,0,0,0.3,0.3,0.0,0,0,12,14,85.7,1,7,1,2,1,Schalke 04,2021-01-30 Werder Bremen-Schalke 04,GER-BL1,20-21,975c5e67
+5042e5c2,Klaas-Jan Huntelaar,21,NED,FW,37-171,11,0,0,0,0,0,0,1,0,3,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,1,2,0,1,0,Schalke 04,2021-01-30 Werder Bremen-Schalke 04,GER-BL1,20-21,975c5e67
+e7d59f4f,Amine Harit,25,MAR,LW,23-226,69,0,1,0,0,0,0,0,0,36,1,0,0,0.0,0.0,0.2,4,1,23,28,82.1,2,25,1,7,6,Schalke 04,2021-01-30 Werder Bremen-Schalke 04,GER-BL1,20-21,975c5e67
+d4d0a9ad,William,13,BRA,RW,25-302,21,0,0,0,0,0,0,0,0,8,0,0,2,0.0,0.0,0.0,0,0,2,4,50.0,0,2,0,2,0,Schalke 04,2021-01-30 Werder Bremen-Schalke 04,GER-BL1,20-21,975c5e67
+106bca06,Alessandro Schöpf,28,AUT,RW,26-358,45,0,0,0,0,0,0,0,0,38,1,0,1,0.0,0.0,0.0,1,0,21,27,77.8,3,18,1,4,1,Schalke 04,2021-01-30 Werder Bremen-Schalke 04,GER-BL1,20-21,975c5e67
+541127d5,Nassim Boujellab,16,MAR,"RW,LW",21-224,45,0,0,0,0,0,0,0,0,22,2,1,1,0.0,0.0,0.0,0,0,11,13,84.6,1,2,0,1,0,Schalke 04,2021-01-30 Werder Bremen-Schalke 04,GER-BL1,20-21,975c5e67
+a3ddb1b9,Mark Uth,7,GER,AM,29-159,90,0,0,0,0,2,0,0,0,49,0,1,1,0.1,0.1,0.0,0,0,29,40,72.5,3,27,2,1,1,Schalke 04,2021-01-30 Werder Bremen-Schalke 04,GER-BL1,20-21,975c5e67
+11fd2b75,Omar Mascarell,6,EQG,DM,27-363,79,1,0,0,0,1,1,0,0,49,2,2,3,0.1,0.1,0.0,1,0,30,38,78.9,1,24,1,0,0,Schalke 04,2021-01-30 Werder Bremen-Schalke 04,GER-BL1,20-21,975c5e67
+ff5ea0bf,Malick Thiaw,33,GER,DM,19-175,11,0,0,0,0,0,0,1,0,8,0,0,0,0.0,0.0,0.0,0,0,4,7,57.1,0,2,0,0,0,Schalke 04,2021-01-30 Werder Bremen-Schalke 04,GER-BL1,20-21,975c5e67
+5939baa2,Benjamin Stambouli,17,FRA,DM,30-170,90,0,0,0,0,0,0,1,0,62,2,1,2,0.0,0.0,0.0,0,0,34,49,69.4,3,25,0,1,1,Schalke 04,2021-01-30 Werder Bremen-Schalke 04,GER-BL1,20-21,975c5e67
+3935e52e,Sead Kolašinac,20,BIH,LB,27-224,90,0,0,0,0,0,0,0,0,53,0,0,0,0.0,0.0,0.0,1,0,40,51,78.4,3,27,4,0,0,Schalke 04,2021-01-30 Werder Bremen-Schalke 04,GER-BL1,20-21,975c5e67
+f35430a4,Matija Nastasić,5,SRB,CB,27-308,90,0,0,0,0,1,0,0,0,99,1,0,0,0.1,0.1,0.0,0,0,78,84,92.9,3,49,1,0,0,Schalke 04,2021-01-30 Werder Bremen-Schalke 04,GER-BL1,20-21,975c5e67
+2d61d13a,Ozan Kabak,4,TUR,CB,20-311,90,0,0,0,0,0,0,0,0,92,4,1,2,0.0,0.0,0.0,0,0,73,77,94.8,7,58,1,1,0,Schalke 04,2021-01-30 Werder Bremen-Schalke 04,GER-BL1,20-21,975c5e67
+543ddcaf,Timo Becker,31,GER,RB,23-311,90,0,0,0,0,1,0,0,0,81,1,1,1,0.0,0.0,0.0,2,1,50,65,76.9,5,37,0,6,2,Schalke 04,2021-01-30 Werder Bremen-Schalke 04,GER-BL1,20-21,975c5e67
+1e43fad8,Ralf Fährmann,1,GER,GK,32-125,90,0,0,0,0,0,0,1,0,57,0,0,0,0.0,0.0,0.0,0,0,38,54,70.4,0,22,0,0,0,Schalke 04,2021-01-30 Werder Bremen-Schalke 04,GER-BL1,20-21,975c5e67

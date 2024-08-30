@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+42fd9c7f,Kylian Mbappé,7,FRA,FW,24-116,90,1,1,0,0,5,3,0,0,58,0,0,0,0.3,0.3,0.3,7,2,44,48,91.7,4,57,5,6,3,Paris Saint-Germain,2023-04-15 Paris S-G-Lens,FRA-L1,22-23,268e5460
+d70ce98e,Lionel Messi,30,ARG,FW,35-295,90,1,0,0,0,5,1,0,0,95,0,1,0,0.4,0.4,0.2,6,2,71,84,84.5,8,88,4,2,2,Paris Saint-Germain,2023-04-15 Paris S-G-Lens,FRA-L1,22-23,268e5460
+3b029691,Vitinha,17,POR,"CM,LM",23-061,90,1,1,0,0,2,1,0,0,69,0,1,1,0.1,0.1,0.1,3,1,60,63,95.2,4,61,1,1,1,Paris Saint-Germain,2023-04-15 Paris S-G-Lens,FRA-L1,22-23,268e5460
+c0c7ff58,Fabián Ruiz Peña,8,ESP,CM,27-012,90,0,0,0,0,1,1,0,0,130,3,1,0,0.1,0.1,0.0,1,0,119,123,96.7,3,118,1,0,0,Paris Saint-Germain,2023-04-15 Paris S-G-Lens,FRA-L1,22-23,268e5460
+fed17f5a,Carlos Soler,28,ESP,"CM,RM",26-103,90,0,0,0,0,0,0,0,0,53,1,0,3,0.0,0.0,0.0,2,0,44,47,93.6,1,47,0,1,1,Paris Saint-Germain,2023-04-15 Paris S-G-Lens,FRA-L1,22-23,268e5460
+f20e4cc9,Nuno Mendes,25,POR,WB,20-300,76,0,1,0,0,1,0,0,0,59,0,2,3,0.1,0.1,0.0,3,1,42,47,89.4,4,45,2,3,3,Paris Saint-Germain,2023-04-15 Paris S-G-Lens,FRA-L1,22-23,268e5460
+433dc9a2,Juan Bernat,14,ESP,"WB,LB",30-045,14,0,0,0,0,0,0,0,0,14,0,0,0,0.0,0.0,0.0,0,0,11,13,84.6,0,12,0,0,0,Paris Saint-Germain,2023-04-15 Paris S-G-Lens,FRA-L1,22-23,268e5460
+e42d61c7,Achraf Hakimi,2,MAR,"WB,RB",24-162,90,0,0,0,0,1,1,0,0,80,3,1,1,0.4,0.4,0.0,3,0,60,67,89.6,2,61,0,1,0,Paris Saint-Germain,2023-04-15 Paris S-G-Lens,FRA-L1,22-23,268e5460
+8fd9996f,Danilo Pereira,15,POR,CB,31-218,90,0,0,0,0,0,0,0,0,96,0,1,0,0.0,0.0,0.0,0,0,88,91,96.7,5,91,0,1,1,Paris Saint-Germain,2023-04-15 Paris S-G-Lens,FRA-L1,22-23,268e5460
+08511d65,Sergio Ramos,4,ESP,CB,37-016,90,0,0,0,0,0,0,0,0,94,0,1,0,0.0,0.0,0.1,1,0,82,87,94.3,3,79,1,0,0,Paris Saint-Germain,2023-04-15 Paris S-G-Lens,FRA-L1,22-23,268e5460
+d5f2f82b,Marquinhos,5,BRA,CB,28-336,87,0,0,0,0,0,0,0,0,74,1,0,2,0.0,0.0,0.0,0,0,62,63,98.4,1,59,0,0,0,Paris Saint-Germain,2023-04-15 Paris S-G-Lens,FRA-L1,22-23,268e5460
+6b9960cf,Warren Zaïre-Emery,33,FRA,CM,17-038,3,0,0,0,0,0,0,0,0,6,1,0,0,0.0,0.0,0.1,3,0,5,6,83.3,1,6,1,0,0,Paris Saint-Germain,2023-04-15 Paris S-G-Lens,FRA-L1,22-23,268e5460
+08f5afaa,Gianluigi Donnarumma,99,ITA,GK,24-049,90,0,0,0,0,0,0,0,0,23,0,0,0,0.0,0.0,0.0,0,0,18,18,100.0,0,13,0,0,0,Paris Saint-Germain,2023-04-15 Paris S-G-Lens,FRA-L1,22-23,268e5460
+8652a85c,Loïs Openda,11,BEL,FW,23-058,90,0,0,0,0,8,3,0,0,23,0,0,0,0.8,0.8,0.0,2,1,7,12,58.3,0,16,2,1,1,Lens,2023-04-15 Paris S-G-Lens,FRA-L1,22-23,268e5460
+4b96c347,Angelo Fulgini,20,FRA,"CM,AM",26-238,45,0,0,0,0,0,0,0,0,37,2,0,0,0.0,0.0,0.1,3,0,24,31,77.4,1,24,2,2,0,Lens,2023-04-15 Paris S-G-Lens,FRA-L1,22-23,268e5460
+b5bb8188,Jean Onana,6,CMR,CM,23-097,45,0,0,0,0,0,0,0,0,29,1,0,1,0.0,0.0,0.0,1,0,22,25,88.0,0,23,4,1,1,Lens,2023-04-15 Paris S-G-Lens,FRA-L1,22-23,268e5460
+c76b7567,Adrien Thomasson,28,FRA,"CM,AM",29-126,45,0,0,0,0,0,0,0,0,23,1,0,0,0.0,0.0,0.0,0,0,18,21,85.7,2,18,1,1,0,Lens,2023-04-15 Paris S-G-Lens,FRA-L1,22-23,268e5460
+7a42d0df,Florian Sotoca,7,FRA,"CM,RM",32-172,45,0,0,0,0,0,0,0,0,25,0,0,1,0.0,0.0,0.4,5,0,16,22,72.7,4,21,5,1,1,Lens,2023-04-15 Paris S-G-Lens,FRA-L1,22-23,268e5460
+5313ed43,Seko Fofana,8,CIV,CM,27-343,90,0,0,0,0,0,0,0,0,84,0,0,0,0.0,0.0,0.0,4,0,74,77,96.1,3,77,5,5,3,Lens,2023-04-15 Paris S-G-Lens,FRA-L1,22-23,268e5460
+82464ce3,Salis Abdul Samed,26,GHA,CM,23-020,18,0,0,0,0,1,1,0,1,18,0,0,0,0.1,0.1,0.0,0,0,17,17,100.0,3,16,0,0,0,Lens,2023-04-15 Paris S-G-Lens,FRA-L1,22-23,268e5460
+b3f8bdef,Deiver Machado,3,COL,"LB,WB",29-225,72,0,0,0,0,1,0,0,0,33,0,0,0,0.0,0.0,0.0,1,0,26,29,89.7,1,23,3,2,1,Lens,2023-04-15 Paris S-G-Lens,FRA-L1,22-23,268e5460
+5167c97e,Massadio Haïdara,21,MLI,LB,30-134,18,0,0,0,0,0,0,0,0,9,0,1,2,0.0,0.0,0.0,0,0,4,5,80.0,0,5,0,0,0,Lens,2023-04-15 Paris S-G-Lens,FRA-L1,22-23,268e5460
+00a8d210,Przemysław Frankowski,29,POL,"RB,WB",28-003,90,1,0,1,1,2,1,0,0,73,1,2,1,0.9,0.1,0.3,4,0,38,61,62.3,4,50,1,0,0,Lens,2023-04-15 Paris S-G-Lens,FRA-L1,22-23,268e5460
+6f5ec8bb,Facundo Medina,14,ARG,CB,23-322,90,0,0,0,0,0,0,0,0,72,2,0,3,0.0,0.0,0.0,1,0,59,68,86.8,6,60,3,1,0,Lens,2023-04-15 Paris S-G-Lens,FRA-L1,22-23,268e5460
+6e33125f,Kevin Danso,4,AUT,CB,24-208,90,0,0,0,0,1,1,0,0,48,0,0,1,0.0,0.0,0.0,0,0,36,41,87.8,2,34,0,1,0,Lens,2023-04-15 Paris S-G-Lens,FRA-L1,22-23,268e5460
+06c48679,Jonathan Gradit,24,FRA,CB,30-142,83,0,0,0,0,0,0,0,0,35,1,2,2,0.0,0.0,0.0,1,0,26,28,92.9,2,23,1,1,1,Lens,2023-04-15 Paris S-G-Lens,FRA-L1,22-23,268e5460
+59948ef7,David Pereira da Costa,10,POR,LM,22-100,7,0,0,0,0,0,0,0,0,4,0,0,1,0.0,0.0,0.0,0,0,3,3,100.0,1,3,1,0,0,Lens,2023-04-15 Paris S-G-Lens,FRA-L1,22-23,268e5460
+60d90c55,Brice Samba,30,FRA,GK,28-355,90,0,0,0,0,0,0,0,0,24,0,0,0,0.0,0.0,0.0,0,0,19,23,82.6,0,23,0,0,0,Lens,2023-04-15 Paris S-G-Lens,FRA-L1,22-23,268e5460

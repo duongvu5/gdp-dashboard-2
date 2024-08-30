@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+08aa9cd1,Andrea Pinamonti,99,ITA,FW,22-161,90,0,0,0,0,1,0,0,0,19,1,0,0,0.1,0.1,0.0,2,0,9,15,60.0,1,12,1,1,1,Empoli,2021-10-27 Empoli-Inter,ITA-SERIA_A,21-22,6f2b0b60
+a4fe8cda,Patrick Cutrone,9,ITA,FW,23-297,67,0,0,0,0,2,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,2,5,40.0,0,3,1,0,0,Empoli,2021-10-27 Empoli-Inter,ITA-SERIA_A,21-22,6f2b0b60
+311027cb,Leonardo Mancuso,7,ITA,FW,29-154,23,0,0,0,0,1,1,0,0,7,0,0,0,0.1,0.1,0.0,0,0,4,5,80.0,1,5,0,0,0,Empoli,2021-10-27 Empoli-Inter,ITA-SERIA_A,21-22,6f2b0b60
+4e1d5e59,Szymon Żurkowski,27,POL,"AM,RM",24-032,67,0,0,0,0,0,0,0,0,26,3,0,2,0.0,0.0,0.0,3,0,15,16,93.8,0,18,2,4,4,Empoli,2021-10-27 Empoli-Inter,ITA-SERIA_A,21-22,6f2b0b60
+0fdcef0e,Kristjan Asllani,23,ALB,CM,19-232,23,0,0,0,0,0,0,0,0,13,0,0,0,0.0,0.0,0.0,0,0,10,13,76.9,0,8,0,1,0,Empoli,2021-10-27 Empoli-Inter,ITA-SERIA_A,21-22,6f2b0b60
+d44360be,Filippo Bandinelli,25,ITA,"LM,CM",26-212,67,0,0,0,0,0,0,0,0,22,0,0,0,0.0,0.0,0.0,1,0,14,18,77.8,5,10,1,1,0,Empoli,2021-10-27 Empoli-Inter,ITA-SERIA_A,21-22,6f2b0b60
+d7918b13,Liam Henderson,8,SCO,LM,25-185,23,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.1,2,0,5,7,71.4,2,5,0,0,0,Empoli,2021-10-27 Empoli-Inter,ITA-SERIA_A,21-22,6f2b0b60
+9823be92,Samuele Ricci,28,ITA,CM,20-067,51,0,0,0,0,1,0,0,1,31,2,0,1,0.0,0.0,0.0,2,0,18,22,81.8,4,19,0,0,0,Empoli,2021-10-27 Empoli-Inter,ITA-SERIA_A,21-22,6f2b0b60
+f42d6c13,Nedim Bajrami,10,ALB,"RM,LM",22-241,56,0,0,0,0,0,0,0,0,24,1,0,1,0.0,0.0,0.1,2,0,10,19,52.6,1,10,0,1,0,Empoli,2021-10-27 Empoli-Inter,ITA-SERIA_A,21-22,6f2b0b60
+fa449bba,Nicolas Haas,32,SUI,"RM,CM",25-277,34,0,0,0,0,0,0,0,0,12,0,0,1,0.0,0.0,0.0,0,0,10,10,100.0,1,4,0,0,0,Empoli,2021-10-27 Empoli-Inter,ITA-SERIA_A,21-22,6f2b0b60
+0967845b,Fabiano Parisi,65,ITA,LB,20-352,90,0,0,0,0,1,0,0,0,51,1,0,2,0.0,0.0,0.0,2,0,25,34,73.5,3,27,3,3,1,Empoli,2021-10-27 Empoli-Inter,ITA-SERIA_A,21-22,6f2b0b60
+997fff07,Sebastiano Luperto,33,ITA,CB,25-051,90,0,0,0,0,1,0,1,0,40,2,2,2,0.1,0.1,0.0,0,0,21,26,80.8,0,20,0,0,0,Empoli,2021-10-27 Empoli-Inter,ITA-SERIA_A,21-22,6f2b0b60
+6b635f5c,Ardian Ismajli,34,ALB,CB,25-027,90,0,0,0,0,1,0,0,0,54,0,3,1,0.0,0.0,0.0,0,0,29,40,72.5,1,27,1,0,0,Empoli,2021-10-27 Empoli-Inter,ITA-SERIA_A,21-22,6f2b0b60
+13b44b02,Petar Stojanović,30,SVN,RB,26-020,81,0,0,0,0,1,1,0,0,51,1,1,3,0.0,0.0,0.0,1,0,32,41,78.0,3,29,1,1,1,Empoli,2021-10-27 Empoli-Inter,ITA-SERIA_A,21-22,6f2b0b60
+9f9b9269,Riccardo Fiamozzi,20,ITA,RB,28-162,9,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,3,6,50.0,0,2,0,0,0,Empoli,2021-10-27 Empoli-Inter,ITA-SERIA_A,21-22,6f2b0b60
+77d6fd4d,Guglielmo Vicario,13,ITA,GK,25-020,90,0,0,0,0,0,0,0,0,44,0,0,0,0.0,0.0,0.0,0,0,28,37,75.7,0,14,0,0,0,Empoli,2021-10-27 Empoli-Inter,ITA-SERIA_A,21-22,6f2b0b60
+f7036e1c,Lautaro Martínez,10,ARG,FW,24-066,83,0,1,0,0,4,2,0,0,42,1,2,1,0.4,0.4,0.3,4,2,16,21,76.2,1,26,1,3,1,Internazionale,2021-10-27 Empoli-Inter,ITA-SERIA_A,21-22,6f2b0b60
+3bb7f478,Edin Džeko,9,BIH,FW,35-224,7,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,1,0,7,9,77.8,2,5,0,0,0,Internazionale,2021-10-27 Empoli-Inter,ITA-SERIA_A,21-22,6f2b0b60
+2c0f8e9e,Alexis Sánchez,7,CHI,FW,32-312,71,0,1,0,0,2,1,0,0,38,0,0,0,0.2,0.2,0.3,5,1,25,31,80.6,4,20,1,3,2,Internazionale,2021-10-27 Empoli-Inter,ITA-SERIA_A,21-22,6f2b0b60
+45b9b619,Joaquín Correa,19,ARG,FW,27-075,19,0,0,0,0,1,0,0,0,12,1,0,0,0.1,0.1,0.0,0,0,10,10,100.0,3,8,1,0,0,Internazionale,2021-10-27 Empoli-Inter,ITA-SERIA_A,21-22,6f2b0b60
+ce30bfc8,Roberto Gagliardini,5,ITA,CM,27-203,83,0,0,0,0,2,1,1,0,56,7,1,0,0.3,0.3,0.0,3,0,39,44,88.6,4,38,1,0,0,Internazionale,2021-10-27 Empoli-Inter,ITA-SERIA_A,21-22,6f2b0b60
+b70bde8f,Stefano Sensi,12,ITA,CM,26-083,7,0,0,0,0,0,0,0,0,16,0,0,0,0.0,0.0,0.2,3,0,14,16,87.5,0,9,1,1,1,Internazionale,2021-10-27 Empoli-Inter,ITA-SERIA_A,21-22,6f2b0b60
+33b8d077,Marcelo Brozović,77,CRO,CM,28-345,71,0,0,0,0,1,0,1,0,79,2,0,0,0.0,0.0,0.0,3,0,70,72,97.2,7,49,2,1,0,Internazionale,2021-10-27 Empoli-Inter,ITA-SERIA_A,21-22,6f2b0b60
+44ac04e9,Matías Vecino,8,URU,CM,30-064,19,0,0,0,0,1,0,0,0,23,0,1,1,0.2,0.2,0.0,2,0,16,22,72.7,4,18,1,0,0,Internazionale,2021-10-27 Empoli-Inter,ITA-SERIA_A,21-22,6f2b0b60
+6928979a,Nicolò Barella,23,ITA,CM,24-262,90,0,0,0,0,2,0,0,0,88,1,2,1,0.0,0.0,0.2,3,0,69,81,85.2,10,61,5,1,1,Internazionale,2021-10-27 Empoli-Inter,ITA-SERIA_A,21-22,6f2b0b60
+970b8574,Federico Dimarco,32,ITA,WB,23-351,90,1,0,0,0,4,2,0,0,82,0,0,0,0.4,0.4,0.3,6,0,63,73,86.3,4,46,3,2,1,Internazionale,2021-10-27 Empoli-Inter,ITA-SERIA_A,21-22,6f2b0b60
+96e0490d,Matteo Darmian,36,ITA,WB,31-329,90,0,0,0,0,1,1,0,0,72,2,2,1,0.2,0.2,0.4,4,0,49,63,77.8,5,40,4,0,0,Internazionale,2021-10-27 Empoli-Inter,ITA-SERIA_A,21-22,6f2b0b60
+75b86fb3,Alessandro Bastoni,95,ITA,CB,22-197,90,0,0,0,0,0,0,0,0,91,2,1,1,0.0,0.0,0.1,3,0,76,82,92.7,9,53,1,0,0,Internazionale,2021-10-27 Empoli-Inter,ITA-SERIA_A,21-22,6f2b0b60
+d0d8dd44,Stefan de Vrij,6,NED,CB,29-264,78,0,0,0,0,0,0,1,0,61,0,0,0,0.0,0.0,0.0,0,0,55,57,96.5,3,36,0,0,0,Internazionale,2021-10-27 Empoli-Inter,ITA-SERIA_A,21-22,6f2b0b60
+eda40760,Aleksandar Kolarov,11,SRB,CB,35-351,12,0,0,0,0,1,0,0,0,23,0,0,0,0.0,0.0,0.0,0,0,18,22,81.8,2,17,0,1,1,Internazionale,2021-10-27 Empoli-Inter,ITA-SERIA_A,21-22,6f2b0b60
+44eb9093,Danilo D'Ambrosio,33,ITA,CB,33-048,90,1,0,0,0,2,2,0,0,59,0,0,3,0.2,0.2,0.0,1,1,48,50,96.0,4,34,0,0,0,Internazionale,2021-10-27 Empoli-Inter,ITA-SERIA_A,21-22,6f2b0b60
+74419746,Samir Handanović,1,SVN,GK,37-105,90,0,0,0,0,0,0,0,0,39,0,0,0,0.0,0.0,0.0,0,0,31,37,83.8,0,20,0,0,0,Internazionale,2021-10-27 Empoli-Inter,ITA-SERIA_A,21-22,6f2b0b60

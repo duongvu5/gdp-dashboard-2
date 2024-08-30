@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+942b4f90,Wissam Ben Yedder,9,FRA,FW,30-046,71,2,0,0,0,2,2,0,0,35,1,0,1,0.7,0.7,0.0,1,1,24,29,82.8,6,19,1,0,0,Monaco,2020-09-27 Monaco-Strasbourg,FRA-L1,20-21,6901ecbc
+cf1ef7ec,Chrislain Matsima,34,FRA,CB,18-135,19,0,0,0,0,0,0,0,0,13,0,0,1,0.0,0.0,0.0,0,0,3,7,42.9,0,0,0,0,0,Monaco,2020-09-27 Monaco-Strasbourg,FRA-L1,20-21,6901ecbc
+f36c432f,Stevan Jovetić,10,MNE,LW,30-330,60,0,0,0,0,3,1,0,0,44,1,0,0,0.4,0.4,0.0,3,2,29,36,80.6,5,19,1,1,1,Monaco,2020-09-27 Monaco-Strasbourg,FRA-L1,20-21,6901ecbc
+15944afd,Eliot Matazo,36,BEL,CM,18-225,30,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,4,5,80.0,1,2,0,0,0,Monaco,2020-09-27 Monaco-Strasbourg,FRA-L1,20-21,6901ecbc
+64f69877,Kevin Volland,31,GER,"RW,FW,RM",28-059,90,0,2,0,0,0,0,0,0,43,1,0,2,0.0,0.0,1.0,4,2,22,33,66.7,5,19,0,1,0,Monaco,2020-09-27 Monaco-Strasbourg,FRA-L1,20-21,6901ecbc
+4f255115,Aurélien Tchouaméni,8,FRA,LM,20-244,54,0,0,0,0,1,1,2,1,54,1,1,1,0.0,0.0,0.0,3,0,42,44,95.5,6,29,1,0,0,Monaco,2020-09-27 Monaco-Strasbourg,FRA-L1,20-21,6901ecbc
+33508c78,Cesc Fàbregas,4,ESP,CM,33-146,71,0,0,0,0,1,0,0,0,73,3,2,3,0.1,0.1,0.0,2,0,50,63,79.4,8,20,0,1,1,Monaco,2020-09-27 Monaco-Strasbourg,FRA-L1,20-21,6901ecbc
+de40e38c,Giulian Biancone,41,FRA,RM,20-180,19,0,0,0,0,0,0,0,0,20,2,0,1,0.0,0.0,0.0,0,0,5,15,33.3,0,9,2,1,0,Monaco,2020-09-27 Monaco-Strasbourg,FRA-L1,20-21,6901ecbc
+822d51d7,Youssouf Fofana,22,FRA,RM,21-261,53,0,0,0,0,1,0,0,0,49,3,0,0,0.0,0.0,0.0,1,0,32,40,80.0,2,25,2,3,0,Monaco,2020-09-27 Monaco-Strasbourg,FRA-L1,20-21,6901ecbc
+19053e31,Sofiane Diop,37,FRA,"LM,RM",20-110,37,0,0,0,0,1,0,0,0,16,2,0,1,0.1,0.1,0.0,1,0,4,10,40.0,0,5,1,2,1,Monaco,2020-09-27 Monaco-Strasbourg,FRA-L1,20-21,6901ecbc
+f449640d,Fodé Ballo-Touré,2,SEN,LB,23-268,90,0,1,0,0,0,0,1,0,51,0,2,1,0.0,0.0,0.1,2,1,36,45,80.0,1,19,2,0,0,Monaco,2020-09-27 Monaco-Strasbourg,FRA-L1,20-21,6901ecbc
+06df8256,Benoît Badiashile,32,FRA,CB,19-185,90,0,0,0,0,1,0,0,0,87,1,2,1,0.0,0.0,0.0,0,0,69,77,89.6,2,48,0,0,0,Monaco,2020-09-27 Monaco-Strasbourg,FRA-L1,20-21,6901ecbc
+ad82197c,Axel Disasi,20,FRA,CB,22-200,66,0,0,0,0,0,0,0,1,52,2,0,0,0.0,0.0,0.0,0,0,41,48,85.4,0,25,1,0,0,Monaco,2020-09-27 Monaco-Strasbourg,FRA-L1,20-21,6901ecbc
+3dd738a1,Ruben Aguilar,26,FRA,RB,27-154,90,1,0,0,0,1,1,0,0,86,1,2,0,0.1,0.1,0.1,3,0,68,78,87.2,4,44,4,1,0,Monaco,2020-09-27 Monaco-Strasbourg,FRA-L1,20-21,6901ecbc
+2fa2a875,Benjamin Lecomte,40,FRA,GK,29-154,90,0,0,0,0,0,0,0,0,47,0,0,0,0.0,0.0,0.0,0,0,34,46,73.9,0,23,0,0,0,Monaco,2020-09-27 Monaco-Strasbourg,FRA-L1,20-21,6901ecbc
+462475ed,Ludovic Ajorque,25,FRA,FW,26-215,90,1,1,1,1,1,1,0,0,39,1,0,1,0.8,0.0,0.4,2,2,16,26,61.5,0,19,1,3,1,Strasbourg,2020-09-27 Monaco-Strasbourg,FRA-L1,20-21,6901ecbc
+46907171,Abdul Majeed Waris,8,GHA,FW,29-008,45,0,0,0,0,1,0,0,0,21,0,0,0,0.0,0.0,0.0,0,0,10,14,71.4,1,17,1,2,2,Strasbourg,2020-09-27 Monaco-Strasbourg,FRA-L1,20-21,6901ecbc
+f7691f63,Dimitri Liénard,11,FRA,FW,32-227,45,0,0,0,0,0,0,0,0,32,0,1,2,0.0,0.0,0.1,3,0,26,28,92.9,3,15,0,0,0,Strasbourg,2020-09-27 Monaco-Strasbourg,FRA-L1,20-21,6901ecbc
+c76b7567,Adrien Thomasson,26,FRA,AM,26-292,70,0,0,0,0,0,0,1,0,29,1,1,3,0.0,0.0,0.0,0,0,15,23,65.2,3,15,0,0,0,Strasbourg,2020-09-27 Monaco-Strasbourg,FRA-L1,20-21,6901ecbc
+17f29fb0,Idriss Saadi,9,ALG,AM,28-232,20,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,3,6,50.0,0,6,1,0,0,Strasbourg,2020-09-27 Monaco-Strasbourg,FRA-L1,20-21,6901ecbc
+0f8418aa,Ibrahima Sissoko,27,MLI,LM,22-336,76,0,0,0,0,1,0,0,0,24,0,2,0,0.1,0.1,0.0,1,0,15,18,83.3,0,12,0,0,0,Strasbourg,2020-09-27 Monaco-Strasbourg,FRA-L1,20-21,6901ecbc
+775185ae,Kévin Zohi,20,MLI,LM,23-283,14,0,0,0,0,1,1,0,0,10,1,2,0,0.0,0.0,0.0,0,0,4,5,80.0,1,7,1,1,0,Strasbourg,2020-09-27 Monaco-Strasbourg,FRA-L1,20-21,6901ecbc
+10f0fdd3,Jean-Ricner Bellegarde,17,FRA,RM,22-092,45,0,0,0,0,0,0,0,0,14,1,0,0,0.0,0.0,0.0,0,0,7,10,70.0,0,10,0,0,0,Strasbourg,2020-09-27 Monaco-Strasbourg,FRA-L1,20-21,6901ecbc
+1787195f,Mehdi Chahiri,21,MAR,RM,24-064,45,1,0,0,0,2,2,0,0,29,0,1,0,0.5,0.5,0.0,2,0,18,23,78.3,4,21,4,2,2,Strasbourg,2020-09-27 Monaco-Strasbourg,FRA-L1,20-21,6901ecbc
+43e7a164,Alexander Djiku,24,GHA,DM,26-049,60,0,0,0,0,1,0,0,0,20,3,2,1,0.1,0.1,0.0,1,0,8,11,72.7,0,8,0,0,0,Strasbourg,2020-09-27 Monaco-Strasbourg,FRA-L1,20-21,6901ecbc
+51c30111,Sanjin Prcić,14,BIH,DM,26-312,30,0,0,0,0,1,0,0,0,25,0,0,0,0.0,0.0,0.1,2,0,21,24,87.5,12,20,2,0,0,Strasbourg,2020-09-27 Monaco-Strasbourg,FRA-L1,20-21,6901ecbc
+5b5724d2,Lionel Carole,23,FRA,LB,29-168,90,0,0,0,0,0,0,0,0,68,3,6,0,0.0,0.0,0.0,0,0,39,53,73.6,2,30,1,0,0,Strasbourg,2020-09-27 Monaco-Strasbourg,FRA-L1,20-21,6901ecbc
+e6777e6b,Stefan Mitrović,13,SRB,CB,30-128,90,0,0,0,0,0,0,0,0,49,1,1,1,0.0,0.0,0.0,1,0,35,39,89.7,2,28,0,0,0,Strasbourg,2020-09-27 Monaco-Strasbourg,FRA-L1,20-21,6901ecbc
+fcb27134,Mohamed Simakan,2,FRA,CB,20-147,90,0,0,0,0,0,0,0,0,64,1,0,0,0.0,0.0,0.0,0,0,49,56,87.5,9,39,0,0,0,Strasbourg,2020-09-27 Monaco-Strasbourg,FRA-L1,20-21,6901ecbc
+770d7eb8,Kenny Lala,10,MAD,RB,28-360,90,0,0,0,0,0,0,0,0,87,1,3,0,0.0,0.0,0.1,3,0,55,81,67.9,8,52,7,1,0,Strasbourg,2020-09-27 Monaco-Strasbourg,FRA-L1,20-21,6901ecbc
+3814120d,Bingourou Kamara,30,SEN,GK,23-342,90,0,0,0,0,0,0,0,0,25,0,0,0,0.0,0.0,0.0,0,0,17,24,70.8,0,12,0,0,0,Strasbourg,2020-09-27 Monaco-Strasbourg,FRA-L1,20-21,6901ecbc

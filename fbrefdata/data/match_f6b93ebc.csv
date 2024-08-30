@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+d705ba44,Andrea Belotti,9,ITA,FW,25-006,90,0,1,0,0,4,2,0,0,57,2,1,1,0.5,0.5,0.0,2,1,19,35,54.3,3,37,3,6,4,Torino,2018-12-26 Torino-Empoli,ITA-SERIA_A,18-19,f6b93ebc
+9592289a,Simone Zaza,11,ITA,FW,27-184,90,0,0,0,0,6,2,0,0,30,1,0,2,0.5,0.5,0.4,3,0,13,17,76.5,0,12,0,0,0,Torino,2018-12-26 Torino-Empoli,ITA-SERIA_A,18-19,f6b93ebc
+440c84ed,Iago Falque,14,ESP,AM,28-356,79,1,0,0,0,1,1,0,0,70,0,0,0,0.0,0.0,0.1,7,1,50,65,76.9,7,45,6,2,0,Torino,2018-12-26 Torino-Empoli,ITA-SERIA_A,18-19,f6b93ebc
+dc1c2fce,Álex Berenguer,21,ESP,AM,23-175,11,0,0,0,0,0,0,0,0,12,0,0,0,0.0,0.0,0.0,1,0,8,10,80.0,1,8,1,3,3,Torino,2018-12-26 Torino-Empoli,ITA-SERIA_A,18-19,f6b93ebc
+ea06dd97,Daniele Baselli,8,ITA,CM,26-289,70,0,1,0,0,0,0,0,0,44,1,2,0,0.0,0.0,0.2,2,1,29,39,74.4,4,14,1,0,0,Torino,2018-12-26 Torino-Empoli,ITA-SERIA_A,18-19,f6b93ebc
+5cec2c74,Soualiho Meïté,23,FRA,CM,24-284,20,0,0,0,0,0,0,0,0,32,0,0,0,0.0,0.0,0.0,3,1,28,32,87.5,3,20,1,1,0,Torino,2018-12-26 Torino-Empoli,ITA-SERIA_A,18-19,f6b93ebc
+f1cfc209,Tomás Rincón,88,VEN,CM,30-347,78,0,0,0,0,0,0,1,0,60,3,1,0,0.0,0.0,0.1,2,0,44,53,83.0,4,34,3,1,1,Torino,2018-12-26 Torino-Empoli,ITA-SERIA_A,18-19,f6b93ebc
+c6e8cf1f,Saša Lukić,7,SRB,CM,22-135,12,0,0,0,0,1,0,0,0,21,0,0,0,0.0,0.0,0.0,0,0,16,18,88.9,0,12,0,0,0,Torino,2018-12-26 Torino-Empoli,ITA-SERIA_A,18-19,f6b93ebc
+246d153b,Ola Aina,34,NGA,WB,22-079,90,0,0,0,0,1,1,0,0,78,5,1,3,0.1,0.1,0.1,5,0,53,65,81.5,1,30,4,4,2,Torino,2018-12-26 Torino-Empoli,ITA-SERIA_A,18-19,f6b93ebc
+e74f0e59,Lorenzo De Silvestri,29,ITA,WB,30-217,90,1,0,0,0,2,1,0,0,46,0,0,1,0.1,0.1,0.1,3,1,32,42,76.2,2,8,0,0,0,Torino,2018-12-26 Torino-Empoli,ITA-SERIA_A,18-19,f6b93ebc
+55667895,Emiliano Moretti,24,ITA,CB,37-198,90,0,0,0,0,0,0,0,0,86,1,0,0,0.0,0.0,0.0,0,0,76,83,91.6,7,55,0,0,0,Torino,2018-12-26 Torino-Empoli,ITA-SERIA_A,18-19,f6b93ebc
+93cf32a8,Nicolas Nkoulou,33,CMR,CB,28-274,90,1,0,0,0,1,1,0,0,78,2,0,0,0.1,0.1,0.0,0,0,75,76,98.7,0,62,0,0,0,Torino,2018-12-26 Torino-Empoli,ITA-SERIA_A,18-19,f6b93ebc
+89976232,Armando Izzo,5,ITA,CB,26-299,90,0,0,0,0,0,0,0,0,86,0,3,0,0.0,0.0,0.0,1,0,69,82,84.1,6,43,3,0,0,Torino,2018-12-26 Torino-Empoli,ITA-SERIA_A,18-19,f6b93ebc
+514f0896,Salvador Ichazo,1,URU,GK,26-334,90,0,0,0,0,0,0,0,0,23,0,0,0,0.0,0.0,0.0,0,0,18,23,78.3,0,8,0,0,0,Torino,2018-12-26 Torino-Empoli,ITA-SERIA_A,18-19,f6b93ebc
+5bd72174,Francesco Caputo,11,ITA,FW,31-142,90,0,0,0,0,0,0,0,0,17,1,0,0,0.0,0.0,0.0,1,0,8,11,72.7,0,12,0,1,0,Empoli,2018-12-26 Torino-Empoli,ITA-SERIA_A,18-19,f6b93ebc
+be6c1ccc,Samuel Mráz,66,SVK,FW,21-227,49,0,0,0,0,0,0,0,0,11,0,0,1,0.0,0.0,0.0,0,0,5,7,71.4,0,7,0,0,0,Empoli,2018-12-26 Torino-Empoli,ITA-SERIA_A,18-19,f6b93ebc
+822a7761,Antonino La Gumina,20,ITA,FW,22-295,41,0,0,0,0,0,0,0,0,12,2,1,0,0.0,0.0,0.0,0,0,5,5,100.0,0,7,0,3,2,Empoli,2018-12-26 Torino-Empoli,ITA-SERIA_A,18-19,f6b93ebc
+570bb4b9,Hamed Junior Traorè,8,CIV,CM,18-313,62,0,0,0,0,3,0,0,0,34,0,1,0,0.1,0.1,0.0,1,0,22,27,81.5,3,27,5,0,0,Empoli,2018-12-26 Torino-Empoli,ITA-SERIA_A,18-19,f6b93ebc
+83e4643e,Miha Zajc,6,SVN,CM,24-178,28,0,0,0,0,0,0,0,0,11,0,0,1,0.0,0.0,0.0,0,0,9,10,90.0,0,10,1,0,0,Empoli,2018-12-26 Torino-Empoli,ITA-SERIA_A,18-19,f6b93ebc
+db092d3b,Ismaël Bennacer,10,ALG,CM,21-025,90,0,0,0,0,0,0,0,0,64,2,2,2,0.0,0.0,0.1,2,0,40,52,76.9,2,32,1,3,2,Empoli,2018-12-26 Torino-Empoli,ITA-SERIA_A,18-19,f6b93ebc
+817c6964,Rade Krunić,33,BIH,CM,25-080,88,0,0,0,0,0,0,0,1,33,1,1,1,0.0,0.0,0.0,2,0,14,22,63.6,2,24,3,3,1,Empoli,2018-12-26 Torino-Empoli,ITA-SERIA_A,18-19,f6b93ebc
+40f0ed6c,Luca Antonelli,13,ITA,WB,31-318,90,0,0,0,0,0,0,0,0,45,0,0,3,0.0,0.0,0.0,0,0,17,34,50.0,3,25,0,0,0,Empoli,2018-12-26 Torino-Empoli,ITA-SERIA_A,18-19,f6b93ebc
+230a2fac,Giovanni Di Lorenzo,2,ITA,WB,25-144,90,0,0,0,0,1,0,1,0,55,1,0,0,0.0,0.0,0.0,2,0,29,50,58.0,9,35,2,1,1,Empoli,2018-12-26 Torino-Empoli,ITA-SERIA_A,18-19,f6b93ebc
+3d936ba9,Domenico Maietta,22,ITA,CB,36-145,54,0,0,0,0,1,1,0,0,36,3,1,2,0.0,0.0,0.0,1,0,22,27,81.5,1,18,1,0,0,Empoli,2018-12-26 Torino-Empoli,ITA-SERIA_A,18-19,f6b93ebc
+283699b4,Jacob Rasmussen,32,DEN,CB,21-212,36,0,0,0,0,1,0,0,0,29,2,1,2,0.1,0.1,0.0,0,0,18,22,81.8,0,15,0,0,0,Empoli,2018-12-26 Torino-Empoli,ITA-SERIA_A,18-19,f6b93ebc
+b6ca47a2,Matías Silvestre,26,ARG,CB,34-092,90,0,0,0,0,0,0,1,0,43,4,0,0,0.0,0.0,0.0,0,0,30,36,83.3,2,34,0,0,0,Empoli,2018-12-26 Torino-Empoli,ITA-SERIA_A,18-19,f6b93ebc
+d541e703,Freddie Veseli,5,ALB,CB,26-036,90,0,0,0,0,0,0,1,0,39,2,1,2,0.0,0.0,0.0,1,0,21,26,80.8,0,18,0,0,0,Empoli,2018-12-26 Torino-Empoli,ITA-SERIA_A,18-19,f6b93ebc
+277da414,Ivan Provedel,1,ITA,GK,24-284,90,0,0,0,0,0,0,0,0,37,0,0,0,0.0,0.0,0.0,0,0,24,33,72.7,0,19,0,0,0,Empoli,2018-12-26 Torino-Empoli,ITA-SERIA_A,18-19,f6b93ebc

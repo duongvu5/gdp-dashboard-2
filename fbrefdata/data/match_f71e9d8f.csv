@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+85613cf0,Arkadiusz Milik,99,POL,FW,24-049,72,1,0,0,0,3,1,0,0,37,0,0,1,0.8,0.8,0.1,3,0,23,25,92.0,2,29,0,1,1,Napoli,2018-04-18 Napoli-Udinese,ITA-SERIA_A,17-18,f71e9d8f
+cc700722,Allan,5,BRA,RM,27-100,18,0,0,0,0,0,0,0,0,18,0,0,1,0.0,0.0,0.0,0,0,16,16,100.0,1,13,0,1,1,Napoli,2018-04-18 Napoli-Udinese,ITA-SERIA_A,17-18,f71e9d8f
+2f557579,Lorenzo Insigne,24,ITA,LW,26-318,90,1,0,0,0,5,2,0,0,88,1,0,0,0.3,0.3,0.1,6,1,63,75,84.0,3,65,10,5,3,Napoli,2018-04-18 Napoli-Udinese,ITA-SERIA_A,17-18,f71e9d8f
+78841da9,José Callejón,7,ESP,RW,31-066,81,0,2,0,0,2,1,0,0,46,1,0,0,0.1,0.1,0.2,7,3,31,43,72.1,3,21,2,0,0,Napoli,2018-04-18 Napoli-Udinese,ITA-SERIA_A,17-18,f71e9d8f
+b6b2b820,Marko Rog,30,CRO,RW,22-273,9,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,4,5,80.0,0,3,0,0,0,Napoli,2018-04-18 Napoli-Udinese,ITA-SERIA_A,17-18,f71e9d8f
+e6ad16b2,Marek Hamšík,17,SVK,LM,30-265,56,0,0,0,0,2,1,0,0,41,0,1,0,0.1,0.1,0.1,1,0,35,37,94.6,3,26,1,0,0,Napoli,2018-04-18 Napoli-Udinese,ITA-SERIA_A,17-18,f71e9d8f
+89b2c8a9,Dries Mertens,14,BEL,"FW,AM,LM",30-347,34,0,0,0,0,1,1,0,0,28,0,1,1,0.0,0.0,0.1,2,0,19,22,86.4,3,20,1,1,1,Napoli,2018-04-18 Napoli-Udinese,ITA-SERIA_A,17-18,f71e9d8f
+bf309d24,Amadou Diawara,42,GUI,"CM,DM",20-275,90,0,0,0,0,1,1,0,0,96,1,0,2,0.0,0.0,0.0,3,1,87,89,97.8,6,62,0,0,0,Napoli,2018-04-18 Napoli-Udinese,ITA-SERIA_A,17-18,f71e9d8f
+a5296e55,Piotr Zieliński,20,POL,"RM,LM,DM",23-333,90,0,1,0,0,2,0,0,0,70,4,0,3,0.1,0.1,0.2,4,1,41,51,80.4,7,39,4,4,3,Napoli,2018-04-18 Napoli-Udinese,ITA-SERIA_A,17-18,f71e9d8f
+0b5a292a,Mário Rui,6,POR,LB,26-326,90,0,0,0,0,0,0,1,0,110,4,1,3,0.0,0.0,0.1,3,0,83,100,83.0,4,59,3,2,1,Napoli,2018-04-18 Napoli-Udinese,ITA-SERIA_A,17-18,f71e9d8f
+8cc29864,Lorenzo Tonelli,62,ITA,CB,28-091,90,1,0,0,0,1,1,0,0,69,3,2,1,0.1,0.1,0.0,0,0,54,56,96.4,4,39,0,0,0,Napoli,2018-04-18 Napoli-Udinese,ITA-SERIA_A,17-18,f71e9d8f
+4bd414c1,Raúl Albiol,33,ESP,CB,32-226,90,1,0,0,0,1,1,0,0,86,0,3,2,0.1,0.1,0.0,1,0,56,67,83.6,2,48,0,0,0,Napoli,2018-04-18 Napoli-Udinese,ITA-SERIA_A,17-18,f71e9d8f
+2f3452eb,Elseid Hysaj,23,ALB,RB,24-057,90,0,0,0,0,0,0,0,0,77,2,2,0,0.0,0.0,0.0,4,0,51,67,76.1,4,45,0,0,0,Napoli,2018-04-18 Napoli-Udinese,ITA-SERIA_A,17-18,f71e9d8f
+e358587b,Pepe Reina,25,ESP,GK,35-230,90,0,0,0,0,0,0,0,0,53,0,0,0,0.0,0.0,0.0,0,0,41,50,82.0,0,27,0,0,0,Napoli,2018-04-18 Napoli-Udinese,ITA-SERIA_A,17-18,f71e9d8f
+269b4638,Stipe Perica,18,CRO,FW,22-285,90,0,0,0,0,4,0,0,0,31,0,0,0,0.7,0.7,0.0,6,1,8,21,38.1,3,17,1,1,1,Udinese,2018-04-18 Napoli-Udinese,ITA-SERIA_A,17-18,f71e9d8f
+1ea5f91c,Jakub Jankto,14,CZE,FW,22-089,76,1,0,0,0,5,3,0,0,25,0,0,1,0.8,0.8,0.0,1,0,15,17,88.2,2,11,1,1,1,Udinese,2018-04-18 Napoli-Udinese,ITA-SERIA_A,17-18,f71e9d8f
+f68b64fc,Silvan Widmer,27,SUI,"FW,WB",25-044,14,0,0,0,0,0,0,0,0,12,0,1,0,0.0,0.0,0.0,1,0,8,10,80.0,1,4,0,0,0,Udinese,2018-04-18 Napoli-Udinese,ITA-SERIA_A,17-18,f71e9d8f
+4133cfcf,Svante Ingelsson,13,SWE,DM,19-308,90,1,0,0,0,3,1,0,0,27,0,2,0,0.1,0.1,0.0,2,0,15,21,71.4,4,15,1,0,0,Udinese,2018-04-18 Napoli-Udinese,ITA-SERIA_A,17-18,f71e9d8f
+9be4ee80,Andrija Balić,99,CRO,"DM,CB",20-250,90,0,0,0,0,1,0,0,0,47,0,1,1,0.0,0.0,0.2,7,1,27,40,67.5,4,18,0,0,0,Udinese,2018-04-18 Napoli-Udinese,ITA-SERIA_A,17-18,f71e9d8f
+01efac19,Antonín Barák,72,CZE,DM,23-136,90,0,0,0,0,1,1,0,0,31,4,1,0,0.3,0.3,0.2,2,0,13,19,68.4,2,11,2,2,1,Udinese,2018-04-18 Napoli-Udinese,ITA-SERIA_A,17-18,f71e9d8f
+149c5f5d,Giuseppe Pezzella,7,ITA,WB,20-140,68,0,0,0,0,0,0,0,0,42,0,0,0,0.0,0.0,0.0,1,0,23,34,67.6,1,19,0,4,2,Udinese,2018-04-18 Napoli-Udinese,ITA-SERIA_A,17-18,f71e9d8f
+06050480,Ali Adnan Kadhim,53,IRQ,WB,24-120,22,0,0,0,0,0,0,1,0,18,2,1,0,0.0,0.0,0.0,0,0,10,14,71.4,3,9,2,1,0,Udinese,2018-04-18 Napoli-Udinese,ITA-SERIA_A,17-18,f71e9d8f
+8e45910b,Francesco Zampano,11,ITA,WB,24-200,90,0,1,0,0,1,0,0,0,44,2,0,2,0.0,0.0,0.2,5,1,25,28,89.3,5,21,2,7,3,Udinese,2018-04-18 Napoli-Udinese,ITA-SERIA_A,17-18,f71e9d8f
+92b4758e,Samir Santos,3,BRA,CB,23-134,90,0,0,0,0,1,0,0,0,40,1,4,1,0.1,0.1,0.1,2,0,18,26,69.2,1,13,0,0,0,Udinese,2018-04-18 Napoli-Udinese,ITA-SERIA_A,17-18,f71e9d8f
+fed5f993,Danilo Larangeira,5,BRA,CB,33-343,75,0,0,0,0,1,0,1,0,37,1,1,3,0.1,0.1,0.0,0,0,10,24,41.7,0,11,0,0,0,Udinese,2018-04-18 Napoli-Udinese,ITA-SERIA_A,17-18,f71e9d8f
+162efffd,Rodrigo De Paul,10,ARG,DM,23-329,15,0,0,0,0,0,0,0,0,12,0,0,0,0.0,0.0,0.4,1,0,6,10,60.0,0,8,1,1,0,Udinese,2018-04-18 Napoli-Udinese,ITA-SERIA_A,17-18,f71e9d8f
+e33f36d5,Bram Nuytinck,17,NED,CB,27-349,90,0,0,0,0,2,0,0,0,57,5,0,2,0.1,0.1,0.0,1,1,29,41,70.7,2,18,0,0,0,Udinese,2018-04-18 Napoli-Udinese,ITA-SERIA_A,17-18,f71e9d8f
+32b9b5fa,Albano Bizzarri,1,ARG,GK,40-160,90,0,0,0,0,0,0,0,0,39,0,0,0,0.0,0.0,0.0,0,0,23,35,65.7,0,18,0,0,0,Udinese,2018-04-18 Napoli-Udinese,ITA-SERIA_A,17-18,f71e9d8f

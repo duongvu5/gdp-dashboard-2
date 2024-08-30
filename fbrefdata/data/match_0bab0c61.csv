@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+5c4dc0ff,Mariano,9,DOM,FW,24-120,90,1,0,0,0,3,1,0,0,25,0,0,0,0.9,0.9,0.1,1,0,12,21,57.1,1,14,3,2,2,Lyon,2017-11-29 Lyon-Lille,FRA-L1,17-18,0bab0c61
+8f696594,Memphis,11,NED,LW,23-289,90,0,0,0,0,6,0,0,0,64,1,0,1,0.7,0.7,0.1,4,0,39,56,69.6,3,42,4,2,1,Lyon,2017-11-29 Lyon-Lille,FRA-L1,17-18,0bab0c61
+a5db0bec,Houssem Aouar,8,ALG,"DM,RW",19-152,90,0,0,0,0,2,0,0,0,71,2,2,2,0.1,0.1,0.1,4,0,50,59,84.7,5,51,1,7,5,Lyon,2017-11-29 Lyon-Lille,FRA-L1,17-18,0bab0c61
+bece776f,Nabil Fekir,18,FRA,AM,24-134,90,0,0,0,1,6,2,0,0,66,2,0,0,1.4,0.6,0.2,7,1,35,46,76.1,10,51,1,4,3,Lyon,2017-11-29 Lyon-Lille,FRA-L1,17-18,0bab0c61
+71ec39ef,Lucas Tousart,29,FRA,DM,20-214,90,0,0,0,0,0,0,0,0,53,0,0,0,0.0,0.0,0.0,2,0,40,48,83.3,4,28,0,0,0,Lyon,2017-11-29 Lyon-Lille,FRA-L1,17-18,0bab0c61
+5cdddffa,Tanguy Ndombele,28,FRA,DM,20-336,45,0,1,0,0,0,0,0,0,32,2,3,0,0.0,0.0,0.4,3,1,24,26,92.3,4,24,2,0,0,Lyon,2017-11-29 Lyon-Lille,FRA-L1,17-18,0bab0c61
+beb391dd,Maxwel Cornet,27,CIV,RW,21-063,45,0,0,0,0,2,0,0,0,29,2,3,2,0.1,0.0,0.4,5,0,16,21,76.2,1,18,2,0,0,Lyon,2017-11-29 Lyon-Lille,FRA-L1,17-18,0bab0c61
+3cefcaef,Ferland Mendy,22,FRA,LB,22-174,45,0,0,0,0,0,0,0,0,28,1,0,0,0.0,0.0,0.0,0,0,21,23,91.3,0,19,1,0,0,Lyon,2017-11-29 Lyon-Lille,FRA-L1,17-18,0bab0c61
+9ae9eaea,Fernando Marçal,20,BRA,LB,28-283,45,0,0,0,0,0,0,0,0,45,1,0,1,0.0,0.0,0.0,1,0,35,40,87.5,4,23,1,0,0,Lyon,2017-11-29 Lyon-Lille,FRA-L1,17-18,0bab0c61
+d2110326,Mouctar Diakhaby,5,GUI,CB,20-345,52,0,0,0,0,1,0,0,0,50,1,1,0,0.2,0.2,0.0,0,0,43,46,93.5,4,44,1,1,1,Lyon,2017-11-29 Lyon-Lille,FRA-L1,17-18,0bab0c61
+20573d10,Mapou Yanga-Mbiwa,2,FRA,CB,28-198,38,0,0,0,0,0,0,0,0,34,2,1,0,0.0,0.0,0.0,1,0,30,31,96.8,4,21,0,0,0,Lyon,2017-11-29 Lyon-Lille,FRA-L1,17-18,0bab0c61
+e3d0b0c4,Marcelo,6,BRA,CB,30-193,90,0,0,0,0,0,0,0,0,102,0,2,0,0.0,0.0,0.4,3,0,89,98,90.8,12,85,4,0,0,Lyon,2017-11-29 Lyon-Lille,FRA-L1,17-18,0bab0c61
+9a1f2e1c,Rafael,4,BRA,RB,27-143,90,0,0,0,0,0,0,0,0,88,2,2,0,0.0,0.0,0.1,4,0,54,76,71.1,2,53,4,5,4,Lyon,2017-11-29 Lyon-Lille,FRA-L1,17-18,0bab0c61
+f00de885,Anthony Lopes,1,POR,GK,27-059,90,0,0,0,0,0,0,0,0,19,0,0,0,0.0,0.0,0.0,1,0,17,18,94.4,0,8,0,0,0,Lyon,2017-11-29 Lyon-Lille,FRA-L1,17-18,0bab0c61
+ccbbe661,Ezequiel Ponce,9,ARG,FW,20-245,89,1,0,0,0,1,1,0,0,37,3,2,0,0.2,0.2,0.6,5,1,22,25,88.0,1,23,1,2,2,Lille,2017-11-29 Lyon-Lille,FRA-L1,17-18,0bab0c61
+57e3f0c7,Nicolas Pépé,19,CIV,FW,22-184,1,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,1,0,0,0,Lille,2017-11-29 Lyon-Lille,FRA-L1,17-18,0bab0c61
+6fbde63a,Yassine Benzia,10,ALG,LM,23-082,71,0,0,0,0,0,0,0,0,51,2,3,2,0.0,0.0,0.0,3,0,30,40,75.0,1,34,4,3,3,Lille,2017-11-29 Lyon-Lille,FRA-L1,17-18,0bab0c61
+fa18c72e,Luiz Araújo,11,BRA,LM,21-180,19,0,0,0,0,0,0,0,0,8,0,0,1,0.0,0.0,0.0,0,0,3,6,50.0,0,4,2,1,1,Lille,2017-11-29 Lyon-Lille,FRA-L1,17-18,0bab0c61
+91e58f66,Thiago Maia,20,BRA,"CM,DM",20-251,90,0,0,0,0,1,0,0,0,75,2,2,1,0.0,0.0,0.0,0,0,45,59,76.3,5,43,0,3,3,Lille,2017-11-29 Lyon-Lille,FRA-L1,17-18,0bab0c61
+c6e5d20f,Thiago Mendes,23,BRA,CM,25-259,90,1,0,0,0,4,2,0,0,45,0,1,1,0.7,0.7,0.0,3,2,31,35,88.6,7,35,5,4,4,Lille,2017-11-29 Lyon-Lille,FRA-L1,17-18,0bab0c61
+d6a889ea,Kévin Malcuit,2,MAR,RM,26-121,90,0,2,0,0,1,0,0,0,46,3,2,0,0.1,0.1,0.3,2,1,24,40,60.0,4,34,3,2,2,Lille,2017-11-29 Lyon-Lille,FRA-L1,17-18,0bab0c61
+9260926b,Ibrahim Amadou,6,FRA,DM,24-237,50,0,0,0,0,0,0,0,0,32,0,1,2,0.0,0.0,0.0,0,0,26,30,86.7,0,14,0,0,0,Lille,2017-11-29 Lyon-Lille,FRA-L1,17-18,0bab0c61
+6c203af0,Yves Bissouma,21,MLI,CM,21-091,40,0,0,0,0,0,0,0,0,23,3,1,2,0.0,0.0,0.0,0,0,11,13,84.6,0,9,0,1,0,Lille,2017-11-29 Lyon-Lille,FRA-L1,17-18,0bab0c61
+f449640d,Fodé Ballo-Touré,25,SEN,LB,20-330,90,0,0,0,0,0,0,1,0,49,2,2,1,0.0,0.0,0.0,1,0,34,40,85.0,1,28,3,1,1,Lille,2017-11-29 Lyon-Lille,FRA-L1,17-18,0bab0c61
+b18a3023,Júnior Alonso,3,PAR,CB,24-293,90,0,0,0,0,0,0,0,0,58,3,1,2,0.0,0.0,0.0,0,0,34,44,77.3,1,34,0,0,0,Lille,2017-11-29 Lyon-Lille,FRA-L1,17-18,0bab0c61
+7b075c75,Adama Soumaoro,5,FRA,CB,25-164,90,0,0,0,0,0,0,0,0,33,0,0,5,0.0,0.0,0.0,0,0,22,23,95.7,0,18,0,1,1,Lille,2017-11-29 Lyon-Lille,FRA-L1,17-18,0bab0c61
+3767b3b7,Edgar Ié,15,GNB,RB,23-212,90,0,0,0,0,0,0,0,0,49,1,3,4,0.0,0.0,0.0,0,0,25,36,69.4,6,22,4,4,3,Lille,2017-11-29 Lyon-Lille,FRA-L1,17-18,0bab0c61
+fcb38f57,Mike Maignan,16,FRA,GK,22-149,90,0,0,0,0,0,0,0,0,40,0,0,0,0.0,0.0,0.0,0,0,21,36,58.3,0,12,0,1,1,Lille,2017-11-29 Lyon-Lille,FRA-L1,17-18,0bab0c61

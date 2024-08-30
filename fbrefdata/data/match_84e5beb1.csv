@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+acdad0aa,Marcello Trotta,29,ITA,FW,25-051,90,0,0,0,0,0,0,0,0,38,1,1,0,0.0,0.0,0.1,2,0,20,28,71.4,0,24,0,1,0,Crotone,2017-11-19 Crotone-Genoa,ITA-SERIA_A,17-18,84e5beb1
+8f3565b3,Ante Budimir,17,CRO,"FW,CM",26-120,90,0,0,0,0,0,0,0,0,49,1,0,3,0.0,0.0,0.1,4,0,29,38,76.3,1,28,0,0,0,Crotone,2017-11-19 Crotone-Genoa,ITA-SERIA_A,17-18,84e5beb1
+4468b31a,Adrian Stoian,8,ROU,"LM,CM",26-281,72,0,0,0,0,2,1,1,0,66,1,0,2,0.1,0.1,0.0,6,0,34,57,59.6,8,44,3,0,0,Crotone,2017-11-19 Crotone-Genoa,ITA-SERIA_A,17-18,84e5beb1
+c15d1af9,Aleksandar Tonev,24,BUL,CM,27-289,18,0,0,0,0,0,0,0,0,14,1,0,0,0.0,0.0,0.0,0,0,5,12,41.7,0,7,2,1,0,Crotone,2017-11-19 Crotone-Genoa,ITA-SERIA_A,17-18,84e5beb1
+c7259b83,Rolando Mandragora,38,ITA,CM,20-143,90,0,0,0,0,2,1,0,0,63,3,2,0,0.0,0.0,0.1,1,0,32,46,69.6,3,27,0,0,0,Crotone,2017-11-19 Crotone-Genoa,ITA-SERIA_A,17-18,84e5beb1
+32ebfe1e,Andrea Barberis,18,ITA,"CM,CB",23-343,90,0,0,0,0,2,1,0,0,64,5,3,2,0.1,0.1,0.0,4,0,30,43,69.8,5,26,0,0,0,Crotone,2017-11-19 Crotone-Genoa,ITA-SERIA_A,17-18,84e5beb1
+65c75ea8,Andrea Nalini,9,ITA,"RM,WB",27-152,90,0,0,0,0,1,0,0,0,48,2,0,0,0.0,0.0,0.0,0,0,32,42,76.2,6,31,2,1,1,Crotone,2017-11-19 Crotone-Genoa,ITA-SERIA_A,17-18,84e5beb1
+1e12c53b,Bruno Martella,87,ITA,LB,25-097,60,0,0,0,0,0,0,0,0,59,2,0,1,0.0,0.0,0.0,2,0,38,54,70.4,10,26,3,3,3,Crotone,2017-11-19 Crotone-Genoa,ITA-SERIA_A,17-18,84e5beb1
+b5b27493,Marcus Rohdén,6,SWE,"WB,LB",26-192,30,0,0,0,0,2,1,0,0,27,2,0,1,0.1,0.1,0.0,1,0,17,22,77.3,0,16,1,0,0,Crotone,2017-11-19 Crotone-Genoa,ITA-SERIA_A,17-18,84e5beb1
+d9624b51,Federico Ceccherini,7,ITA,CB,25-192,90,0,0,0,0,1,0,0,0,92,0,2,0,0.0,0.0,0.0,1,0,66,78,84.6,6,51,2,0,0,Crotone,2017-11-19 Crotone-Genoa,ITA-SERIA_A,17-18,84e5beb1
+b5365398,Stefan Simić,34,CZE,CB,22-303,90,0,0,0,0,1,0,0,0,81,1,1,0,0.1,0.1,0.0,0,0,61,74,82.4,3,53,2,0,0,Crotone,2017-11-19 Crotone-Genoa,ITA-SERIA_A,17-18,84e5beb1
+cda2ec29,Mario Sampirisi,69,ITA,"RB,CB",25-019,81,0,0,0,0,0,0,0,0,82,4,1,0,0.0,0.0,0.0,1,0,61,73,83.6,19,59,0,0,0,Crotone,2017-11-19 Crotone-Genoa,ITA-SERIA_A,17-18,84e5beb1
+80dbbd10,Simeon Nwankwo,99,NGA,"FW,CB",25-196,9,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,0,0,0,0,Crotone,2017-11-19 Crotone-Genoa,ITA-SERIA_A,17-18,84e5beb1
+e66ebabb,Alex Cordaz,1,ITA,GK,34-322,90,0,0,0,0,0,0,0,0,37,0,1,0,0.0,0.0,0.0,0,0,21,32,65.6,0,19,0,0,0,Crotone,2017-11-19 Crotone-Genoa,ITA-SERIA_A,17-18,84e5beb1
+d711d04f,Goran Pandev,19,MKD,FW,34-115,60,0,0,0,0,4,3,0,0,36,0,0,0,0.3,0.3,0.8,6,1,20,24,83.3,4,28,3,2,2,Genoa,2017-11-19 Crotone-Genoa,ITA-SERIA_A,17-18,84e5beb1
+0a1efd3c,Andrey Galabinov,16,BUL,FW,28-357,30,0,0,0,0,0,0,0,0,20,1,0,0,0.0,0.0,0.0,0,0,8,16,50.0,1,12,0,0,0,Genoa,2017-11-19 Crotone-Genoa,ITA-SERIA_A,17-18,84e5beb1
+47dc80f5,Adel Taarabt,11,MAR,"AM,FW",28-179,88,0,0,0,0,1,1,0,0,50,1,0,0,0.0,0.0,0.2,6,0,32,42,76.2,4,39,4,4,3,Genoa,2017-11-19 Crotone-Genoa,ITA-SERIA_A,17-18,84e5beb1
+fac896b0,Ricardo Centurión,9,ARG,FW,24-304,2,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,1,3,33.3,0,0,0,0,0,Genoa,2017-11-19 Crotone-Genoa,ITA-SERIA_A,17-18,84e5beb1
+4dba2a97,Luca Rigoni,30,ITA,"AM,CM",32-347,90,1,0,0,0,2,2,1,0,45,0,1,1,1.0,1.0,0.1,1,0,29,39,74.4,5,14,1,0,0,Genoa,2017-11-19 Crotone-Genoa,ITA-SERIA_A,17-18,84e5beb1
+c75b6a02,Andrea Bertolacci,8,ITA,CM,26-312,90,0,0,0,0,1,0,0,0,64,1,1,1,0.1,0.1,0.0,0,0,40,50,80.0,9,27,2,1,0,Genoa,2017-11-19 Crotone-Genoa,ITA-SERIA_A,17-18,84e5beb1
+ab1ca213,Miguel Veloso,44,POR,CM,31-192,77,0,0,0,0,0,0,1,0,58,3,1,3,0.0,0.0,0.1,2,0,25,43,58.1,2,19,1,1,0,Genoa,2017-11-19 Crotone-Genoa,ITA-SERIA_A,17-18,84e5beb1
+c6dda86e,Isaac Cofie,4,GHA,CM,26-060,13,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,6,8,75.0,1,2,0,0,0,Genoa,2017-11-19 Crotone-Genoa,ITA-SERIA_A,17-18,84e5beb1
+f26e3c59,Diego Laxalt,93,URU,WB,24-285,90,0,1,0,0,0,0,0,0,47,0,2,2,0.0,0.0,0.6,1,1,22,38,57.9,2,18,2,1,0,Genoa,2017-11-19 Crotone-Genoa,ITA-SERIA_A,17-18,84e5beb1
+1b729ba2,Aleandro Rosi,20,ITA,WB,30-186,90,0,0,0,0,1,1,0,0,62,3,1,1,0.4,0.4,0.1,1,0,30,51,58.8,2,13,0,1,0,Genoa,2017-11-19 Crotone-Genoa,ITA-SERIA_A,17-18,84e5beb1
+1253a12e,Ervin Zukanović,87,BIH,CB,30-281,90,0,0,0,0,1,0,0,0,45,1,1,0,0.1,0.1,0.0,1,0,23,33,69.7,1,18,0,0,0,Genoa,2017-11-19 Crotone-Genoa,ITA-SERIA_A,17-18,84e5beb1
+9a560ebe,Nicolás Spolli,2,ARG,CB,34-272,90,0,0,0,0,0,0,1,0,34,1,2,0,0.0,0.0,0.0,0,0,15,20,75.0,1,7,0,0,0,Genoa,2017-11-19 Crotone-Genoa,ITA-SERIA_A,17-18,84e5beb1
+89976232,Armando Izzo,5,ITA,CB,25-262,90,0,0,0,0,0,0,0,0,64,2,3,2,0.0,0.0,0.0,1,0,35,48,72.9,3,20,1,0,0,Genoa,2017-11-19 Crotone-Genoa,ITA-SERIA_A,17-18,84e5beb1
+4c62d0c8,Mattia Perin,1,ITA,GK,25-009,90,0,0,0,0,0,0,0,0,33,0,0,0,0.0,0.0,0.0,0,0,16,32,50.0,0,11,0,0,0,Genoa,2017-11-19 Crotone-Genoa,ITA-SERIA_A,17-18,84e5beb1

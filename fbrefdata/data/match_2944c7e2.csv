@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+129af0db,Álvaro Morata,9,ESP,FW,28-338,81,0,0,0,0,3,2,0,0,28,0,0,0,0.6,0.6,0.0,2,0,16,23,69.6,1,22,5,1,1,Juventus,2021-09-26 Juventus-Sampdoria,ITA-SERIA_A,21-22,2944c7e2
+3d50bcdb,Moise Kean,18,ITA,FW,21-210,9,0,0,0,0,0,0,1,0,7,0,0,0,0.0,0.0,0.0,0,0,5,5,100.0,0,4,0,1,0,Juventus,2021-09-26 Juventus-Sampdoria,ITA-SERIA_A,21-22,2944c7e2
+e0921a4f,Paulo Dybala,10,ARG,FW,27-315,20,1,0,0,0,2,1,0,0,14,0,0,0,0.1,0.1,0.6,3,0,9,10,90.0,2,11,1,1,0,Juventus,2021-09-26 Juventus-Sampdoria,ITA-SERIA_A,21-22,2944c7e2
+df3cda47,Dejan Kulusevski,44,SWE,FW,21-154,70,0,1,0,0,2,0,0,0,30,1,0,0,0.2,0.2,0.6,4,2,15,18,83.3,1,23,3,1,1,Juventus,2021-09-26 Juventus-Sampdoria,ITA-SERIA_A,21-22,2944c7e2
+ee93c1a9,Federico Bernardeschi,20,ITA,LM,27-222,69,0,0,0,0,0,0,0,0,29,0,0,0,0.0,0.0,0.0,2,0,18,26,69.2,2,21,2,3,1,Juventus,2021-09-26 Juventus-Sampdoria,ITA-SERIA_A,21-22,2944c7e2
+ef619b0b,Aaron Ramsey,8,WAL,CM,30-274,21,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,1,0,5,7,71.4,1,6,0,0,0,Juventus,2021-09-26 Juventus-Sampdoria,ITA-SERIA_A,21-22,2944c7e2
+3b8674e6,Rodrigo Bentancur,30,URU,CM,24-093,81,0,0,0,0,1,1,1,0,54,1,3,1,0.1,0.1,0.0,3,0,38,45,84.4,2,26,2,0,0,Juventus,2021-09-26 Juventus-Sampdoria,ITA-SERIA_A,21-22,2944c7e2
+01c3aff5,Weston McKennie,14,USA,CM,23-029,9,0,0,0,0,1,0,0,0,8,1,0,0,0.0,0.0,0.0,0,0,1,6,16.7,0,4,0,0,0,Juventus,2021-09-26 Juventus-Sampdoria,ITA-SERIA_A,21-22,2944c7e2
+a8a874f1,Manuel Locatelli,27,ITA,CM,23-261,90,1,1,0,0,4,1,0,0,65,0,1,1,0.8,0.8,0.1,5,2,41,57,71.9,5,36,1,1,1,Juventus,2021-09-26 Juventus-Sampdoria,ITA-SERIA_A,21-22,2944c7e2
+b0f7e36c,Federico Chiesa,22,ITA,RM,23-336,69,0,0,0,0,2,0,0,0,37,2,1,0,0.1,0.1,0.0,1,1,22,24,91.7,4,18,1,6,3,Juventus,2021-09-26 Juventus-Sampdoria,ITA-SERIA_A,21-22,2944c7e2
+e85fb9b8,Giorgio Chiellini,3,ITA,CB,37-043,21,0,0,0,0,0,0,0,0,10,0,1,1,0.0,0.0,0.0,1,0,5,6,83.3,0,4,0,0,0,Juventus,2021-09-26 Juventus-Sampdoria,ITA-SERIA_A,21-22,2944c7e2
+0d82903c,Alex Sandro,12,BRA,"LB,WB",30-243,90,0,0,0,0,0,0,0,0,54,0,2,2,0.0,0.0,0.1,2,0,39,43,90.7,2,27,2,2,1,Juventus,2021-09-26 Juventus-Sampdoria,ITA-SERIA_A,21-22,2944c7e2
+d6e53a3a,Matthijs de Ligt,4,NED,CB,22-045,90,0,0,0,0,0,0,0,0,62,0,3,0,0.0,0.0,0.0,1,0,44,54,81.5,4,33,0,0,0,Juventus,2021-09-26 Juventus-Sampdoria,ITA-SERIA_A,21-22,2944c7e2
+52ec54d0,Leonardo Bonucci,19,ITA,CB,34-148,90,1,0,1,1,0,0,1,0,66,0,0,0,0.8,0.0,0.1,1,0,48,59,81.4,0,30,0,1,1,Juventus,2021-09-26 Juventus-Sampdoria,ITA-SERIA_A,21-22,2944c7e2
+0ab1f153,Juan Cuadrado,11,COL,"RB,WB",33-123,90,0,0,0,0,0,0,1,0,90,1,1,0,0.0,0.0,0.2,4,0,68,84,81.0,7,51,1,3,2,Juventus,2021-09-26 Juventus-Sampdoria,ITA-SERIA_A,21-22,2944c7e2
+4c62d0c8,Mattia Perin,36,ITA,GK,28-320,90,0,0,0,0,0,0,0,0,30,0,0,0,0.0,0.0,0.0,0,0,20,29,69.0,0,13,0,0,0,Juventus,2021-09-26 Juventus-Sampdoria,ITA-SERIA_A,21-22,2944c7e2
+ee4f2f3b,Fabio Quagliarella,27,ITA,FW,38-238,90,0,0,0,0,1,1,0,0,30,0,0,0,0.1,0.1,0.0,1,0,20,27,74.1,2,12,0,1,1,Sampdoria,2021-09-26 Juventus-Sampdoria,ITA-SERIA_A,21-22,2944c7e2
+5bd72174,Francesco Caputo,10,ITA,FW,34-051,69,0,0,0,0,1,0,0,0,21,0,0,0,0.0,0.0,0.0,0,0,7,15,46.7,0,15,1,0,0,Sampdoria,2021-09-26 Juventus-Sampdoria,ITA-SERIA_A,21-22,2944c7e2
+bf39bdec,Ernesto Torregrossa,9,VEN,FW,29-090,21,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,3,6,50.0,0,5,0,0,0,Sampdoria,2021-09-26 Juventus-Sampdoria,ITA-SERIA_A,21-22,2944c7e2
+356c9002,Antonio Candreva,87,ITA,"LM,RM",34-210,90,1,1,0,0,1,1,0,0,71,0,1,1,0.2,0.2,0.2,3,1,45,63,71.4,7,45,3,1,0,Sampdoria,2021-09-26 Juventus-Sampdoria,ITA-SERIA_A,21-22,2944c7e2
+f503ea63,Albin Ekdal,6,SWE,CM,32-060,58,0,0,0,0,1,0,1,0,37,3,0,4,0.0,0.0,0.0,0,0,23,30,76.7,1,8,0,1,1,Sampdoria,2021-09-26 Juventus-Sampdoria,ITA-SERIA_A,21-22,2944c7e2
+d6f88a1d,Adrien Silva,5,POR,CM,32-195,32,0,1,0,0,0,0,0,0,37,0,0,0,0.0,0.0,0.2,1,1,36,36,100.0,5,24,1,0,0,Sampdoria,2021-09-26 Juventus-Sampdoria,ITA-SERIA_A,21-22,2944c7e2
+d1b49282,Morten Thorsby,2,NOR,CM,25-144,86,0,0,0,0,0,0,1,0,30,0,1,2,0.0,0.0,0.0,0,0,19,24,79.2,1,8,1,0,0,Sampdoria,2021-09-26 Juventus-Sampdoria,ITA-SERIA_A,21-22,2944c7e2
+a69cc629,Kristoffer Askildsen,16,NOR,CM,20-260,4,0,0,0,0,0,0,0,0,8,1,0,1,0.0,0.0,0.0,0,0,5,6,83.3,0,4,0,0,0,Sampdoria,2021-09-26 Juventus-Sampdoria,ITA-SERIA_A,21-22,2944c7e2
+d97f2e8d,Fabio Depaoli,12,ITA,RM,24-155,58,0,0,0,0,0,0,0,0,17,0,0,0,0.0,0.0,0.0,0,0,8,14,57.1,0,9,0,1,1,Sampdoria,2021-09-26 Juventus-Sampdoria,ITA-SERIA_A,21-22,2944c7e2
+215f3907,Mikkel Damsgaard,38,DEN,LM,21-085,32,0,0,0,0,0,0,0,0,27,1,0,3,0.0,0.0,0.0,1,1,19,21,90.5,3,20,2,2,1,Sampdoria,2021-09-26 Juventus-Sampdoria,ITA-SERIA_A,21-22,2944c7e2
+d183e9d6,Nicola Murru,29,ITA,LB,26-284,58,0,0,0,0,0,0,1,0,39,2,1,1,0.0,0.0,0.0,1,1,23,31,74.2,0,20,2,2,0,Sampdoria,2021-09-26 Juventus-Sampdoria,ITA-SERIA_A,21-22,2944c7e2
+3cd3b384,Tommaso Augello,3,ITA,LB,27-027,32,0,0,0,0,0,0,0,0,29,0,1,0,0.0,0.0,0.0,0,0,21,25,84.0,2,16,0,0,0,Sampdoria,2021-09-26 Juventus-Sampdoria,ITA-SERIA_A,21-22,2944c7e2
+8b95acda,Omar Colley,15,GAM,CB,28-337,90,0,0,0,0,0,0,0,0,75,4,5,1,0.0,0.0,0.0,0,0,50,61,82.0,6,42,2,1,1,Sampdoria,2021-09-26 Juventus-Sampdoria,ITA-SERIA_A,21-22,2944c7e2
+caffaf5a,Maya Yoshida,22,JPN,CB,33-033,90,1,0,0,0,1,1,0,0,54,1,1,1,0.2,0.2,0.0,0,0,44,49,89.8,2,28,1,1,1,Sampdoria,2021-09-26 Juventus-Sampdoria,ITA-SERIA_A,21-22,2944c7e2
+61b3978f,Bartosz Bereszyński,24,POL,RB,29-076,90,0,0,0,0,0,0,0,0,55,3,2,0,0.0,0.0,0.0,0,0,41,48,85.4,3,26,2,0,0,Sampdoria,2021-09-26 Juventus-Sampdoria,ITA-SERIA_A,21-22,2944c7e2
+649b01d8,Emil Audero,1,ITA,GK,24-251,90,0,0,0,0,0,0,0,0,35,0,0,0,0.0,0.0,0.0,0,0,22,33,66.7,0,14,0,0,0,Sampdoria,2021-09-26 Juventus-Sampdoria,ITA-SERIA_A,21-22,2944c7e2

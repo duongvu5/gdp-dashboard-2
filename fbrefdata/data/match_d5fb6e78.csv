@@ -1,0 +1,31 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+6ce43701,Youssoufa Moukoko,18,GER,FW,19-069,65,0,0,0,0,3,1,0,0,28,0,0,1,0.3,0.3,0.0,2,0,11,15,73.3,4,18,2,6,3,Dortmund,2024-01-28 Dortmund-Bochum,GER-BL1,23-24,d5fb6e78
+7fa4e703,Gio Reyna,7,USA,"FW,LM",21-076,25,0,0,0,0,1,0,0,0,21,0,0,0,0.1,0.1,0.0,2,0,15,18,83.3,4,17,1,1,0,Dortmund,2024-01-28 Dortmund-Bochum,GER-BL1,23-24,d5fb6e78
+4f16405e,Niclas Füllkrug,14,GER,FW,30-353,90,3,0,2,2,2,1,0,0,48,0,1,3,1.8,0.2,0.1,4,1,22,33,66.7,3,31,0,3,2,Dortmund,2024-01-28 Dortmund-Bochum,GER-BL1,23-24,d5fb6e78
+dbf053da,Jadon Sancho,10,ENG,AM,23-309,82,0,0,0,0,0,0,0,0,51,1,0,1,0.0,0.0,0.0,4,0,36,45,80.0,6,42,7,6,4,Dortmund,2024-01-28 Dortmund-Bochum,GER-BL1,23-24,d5fb6e78
+05d548d8,Mats Hummels,15,GER,CB,35-043,8,0,0,0,0,0,0,0,0,10,3,0,0,0.0,0.0,0.0,0,0,4,6,66.7,0,4,0,0,0,Dortmund,2024-01-28 Dortmund-Bochum,GER-BL1,23-24,d5fb6e78
+116c35df,Donyell Malen,21,NED,AM,25-019,70,0,0,0,0,1,0,1,0,15,0,0,0,0.1,0.1,0.0,3,1,6,10,60.0,0,13,3,3,2,Dortmund,2024-01-28 Dortmund-Bochum,GER-BL1,23-24,d5fb6e78
+10745192,Jamie Gittens,43,ENG,"RM,AM",19-173,20,0,0,0,0,4,0,0,0,15,0,0,0,0.2,0.2,0.0,5,2,5,6,83.3,1,11,2,4,2,Dortmund,2024-01-28 Dortmund-Bochum,GER-BL1,23-24,d5fb6e78
+e280527c,Marcel Sabitzer,20,AUT,"DM,CM",29-317,90,0,1,0,0,1,1,0,0,49,0,1,2,0.1,0.1,0.5,8,1,29,39,74.4,6,26,2,2,1,Dortmund,2024-01-28 Dortmund-Bochum,GER-BL1,23-24,d5fb6e78
+15413fa5,Salih Özcan,6,TUR,"DM,CM",26-017,90,0,0,0,0,0,0,0,0,60,2,2,1,0.0,0.0,0.0,2,0,41,51,80.4,5,28,1,1,1,Dortmund,2024-01-28 Dortmund-Bochum,GER-BL1,23-24,d5fb6e78
+cab9634e,Ian Maatsen,22,NED,LB,21-324,90,0,0,0,0,2,1,0,0,82,4,1,2,0.1,0.1,0.0,2,0,48,68,70.6,9,49,3,3,3,Dortmund,2024-01-28 Dortmund-Bochum,GER-BL1,23-24,d5fb6e78
+34e12499,Nico Schlotterbeck,4,GER,CB,24-058,90,0,0,0,0,2,0,0,0,69,4,1,1,0.1,0.1,0.0,0,0,49,54,90.7,5,37,1,0,0,Dortmund,2024-01-28 Dortmund-Bochum,GER-BL1,23-24,d5fb6e78
+e33c06cf,Niklas Süle,25,GER,CB,28-147,90,0,0,0,0,1,0,0,0,80,0,0,1,0.2,0.2,0.0,1,0,67,75,89.3,1,56,2,0,0,Dortmund,2024-01-28 Dortmund-Bochum,GER-BL1,23-24,d5fb6e78
+e162b013,Thomas Meunier,24,BEL,RB,32-138,90,0,0,0,0,0,0,0,0,93,1,0,1,0.0,0.0,0.0,2,0,66,81,81.5,7,56,8,1,1,Dortmund,2024-01-28 Dortmund-Bochum,GER-BL1,23-24,d5fb6e78
+b56dd813,Alexander Meyer,33,GER,GK,32-290,90,0,0,0,0,0,0,0,0,67,0,0,0,0.0,0.0,0.0,0,0,53,66,80.3,0,49,0,0,0,Dortmund,2024-01-28 Dortmund-Bochum,GER-BL1,23-24,d5fb6e78
+bbd79358,Moritz Broschinski,29,GER,FW,23-127,79,0,0,0,0,0,0,0,0,15,0,0,0,0.0,0.0,0.0,2,0,8,11,72.7,0,7,1,2,1,Bochum,2024-01-28 Dortmund-Bochum,GER-BL1,23-24,d5fb6e78
+877bc844,Philipp Hofmann,33,GER,FW,30-304,11,0,0,0,0,0,0,0,0,11,0,0,1,0.0,0.0,0.0,0,0,5,7,71.4,1,5,0,2,1,Bochum,2024-01-28 Dortmund-Bochum,GER-BL1,23-24,d5fb6e78
+0a3f6cde,Christopher Antwi-Adjei,22,GHA,LW,29-355,79,0,0,0,0,3,1,0,0,27,2,0,0,0.2,0.2,0.0,4,0,7,15,46.7,1,11,3,3,1,Bochum,2024-01-28 Dortmund-Bochum,GER-BL1,23-24,d5fb6e78
+1e2057aa,Moritz-Broni Kwarteng,27,GHA,LW,25-275,11,0,0,0,0,2,1,0,0,15,0,0,1,0.1,0.1,0.0,1,0,9,9,100.0,0,8,1,1,1,Bochum,2024-01-28 Dortmund-Bochum,GER-BL1,23-24,d5fb6e78
+b5e0af76,Matúš Bero,19,SVK,"RW,RM",28-144,90,0,0,0,0,0,0,0,0,32,2,0,2,0.0,0.0,0.0,2,0,10,22,45.5,3,8,0,0,0,Bochum,2024-01-28 Dortmund-Bochum,GER-BL1,23-24,d5fb6e78
+9662c9ec,Patrick Osterhage,6,GER,"LM,CM",23-361,90,0,0,0,0,2,0,0,0,47,3,2,4,0.1,0.1,0.1,1,0,29,35,82.9,1,20,3,2,1,Bochum,2024-01-28 Dortmund-Bochum,GER-BL1,23-24,d5fb6e78
+07c7eb0c,Anthony Losilla,8,FRA,CM,37-324,78,0,0,0,0,2,1,0,0,25,1,1,1,0.1,0.1,0.0,0,0,11,17,64.7,1,7,0,0,0,Bochum,2024-01-28 Dortmund-Bochum,GER-BL1,23-24,d5fb6e78
+962e54cb,Gonçalo Paciência,9,POR,RW,29-180,12,0,0,0,0,0,0,1,0,8,1,0,0,0.0,0.0,0.0,0,0,3,5,60.0,0,4,0,3,3,Bochum,2024-01-28 Dortmund-Bochum,GER-BL1,23-24,d5fb6e78
+e5649a78,Kevin Stöger,7,AUT,"RM,LM",30-154,90,0,0,0,0,1,0,0,0,72,1,0,3,0.1,0.1,0.3,7,0,43,62,69.4,8,29,2,4,1,Bochum,2024-01-28 Dortmund-Bochum,GER-BL1,23-24,d5fb6e78
+edb2712b,Maximilian Wittek,32,GER,LB,28-160,90,0,0,0,0,1,1,1,0,43,3,8,2,0.0,0.0,0.0,1,0,16,24,66.7,2,16,1,0,0,Bochum,2024-01-28 Dortmund-Bochum,GER-BL1,23-24,d5fb6e78
+86c75897,Ivan Ordets,20,UKR,CB,31-204,90,0,0,0,0,0,0,0,0,43,2,2,3,0.0,0.0,0.0,0,0,19,25,76.0,4,7,0,0,0,Bochum,2024-01-28 Dortmund-Bochum,GER-BL1,23-24,d5fb6e78
+a396fb61,Erhan Mašović,4,SRB,CB,25-067,90,0,0,0,0,0,0,0,0,33,4,0,1,0.0,0.0,0.0,0,0,17,21,81.0,1,10,1,0,0,Bochum,2024-01-28 Dortmund-Bochum,GER-BL1,23-24,d5fb6e78
+57ec75bf,Tim Oermann,14,GER,RB,20-114,67,0,0,0,0,0,0,0,0,28,1,1,1,0.0,0.0,0.0,1,0,18,24,75.0,3,4,1,0,0,Bochum,2024-01-28 Dortmund-Bochum,GER-BL1,23-24,d5fb6e78
+f27680d9,Cristian Gamboa,2,CRC,RB,34-096,23,0,0,0,0,0,0,0,0,19,0,1,2,0.0,0.0,0.0,1,0,11,14,78.6,1,6,1,0,0,Bochum,2024-01-28 Dortmund-Bochum,GER-BL1,23-24,d5fb6e78
+9f941969,Manuel Riemann,1,GER,GK,35-141,90,0,0,0,0,0,0,1,0,49,0,0,0,0.0,0.0,0.0,1,0,24,45,53.3,0,30,0,0,0,Bochum,2024-01-28 Dortmund-Bochum,GER-BL1,23-24,d5fb6e78

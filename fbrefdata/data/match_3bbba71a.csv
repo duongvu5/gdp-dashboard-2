@@ -1,0 +1,28 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+57c433c8,Diafra Sakho,25,SEN,FW,28-042,90,0,0,0,0,2,1,0,0,29,0,0,1,1.0,1.0,0.0,0,0,10,18,55.6,1,12,0,2,1,Rennes,2018-02-04 Rennes-Guingamp,FRA-L1,17-18,3bbba71a
+bfdb33aa,Ismaila Sarr,7,SEN,"LW,RW",19-344,90,0,0,0,0,2,1,0,0,33,0,1,1,0.6,0.6,0.0,4,0,18,22,81.8,1,27,8,7,5,Rennes,2018-02-04 Rennes-Guingamp,FRA-L1,17-18,3bbba71a
+20e73fac,Benjamin Bourigeaud,14,FRA,"RW,LW",24-021,90,0,0,0,0,1,0,0,0,62,3,3,3,0.3,0.3,0.2,3,0,37,50,74.0,3,31,0,2,2,Rennes,2018-02-04 Rennes-Guingamp,FRA-L1,17-18,3bbba71a
+2677a1de,Wahbi Khazri,8,TUN,AM,26-361,90,0,0,0,0,4,0,0,0,48,1,0,1,0.2,0.2,0.5,3,0,24,33,72.7,9,32,2,4,2,Rennes,2018-02-04 Rennes-Guingamp,FRA-L1,17-18,3bbba71a
+51c30111,Sanjin Prcić,10,BIH,DM,24-076,90,0,0,0,0,1,1,0,0,49,1,5,0,0.0,0.0,0.0,2,0,42,45,93.3,5,30,0,1,1,Rennes,2018-02-04 Rennes-Guingamp,FRA-L1,17-18,3bbba71a
+ef9c1c95,Benjamin André,21,FRA,DM,27-185,90,0,0,0,0,0,0,0,0,68,5,2,1,0.0,0.0,0.1,4,0,42,52,80.8,8,27,3,2,2,Rennes,2018-02-04 Rennes-Guingamp,FRA-L1,17-18,3bbba71a
+d3ce9f1f,Ludovic Baal,24,GUF,LB,31-256,45,0,0,0,0,0,0,0,0,31,2,0,0,0.0,0.0,0.8,4,0,26,29,89.7,5,15,1,2,2,Rennes,2018-02-04 Rennes-Guingamp,FRA-L1,17-18,3bbba71a
+378825c7,Ramy Bensebaini,15,ALG,LB,22-294,45,0,0,0,0,1,0,0,0,30,1,0,1,0.1,0.1,0.0,1,0,19,24,79.2,2,20,1,3,3,Rennes,2018-02-04 Rennes-Guingamp,FRA-L1,17-18,3bbba71a
+1232e1dc,Joris Gnagnon,5,FRA,CB,21-022,90,0,0,0,0,1,1,1,0,55,3,1,1,0.1,0.1,0.0,0,0,44,46,95.7,3,35,0,0,0,Rennes,2018-02-04 Rennes-Guingamp,FRA-L1,17-18,3bbba71a
+4c700f46,Jérémy Gélin,26,FRA,CB,20-286,90,0,0,0,0,0,0,0,0,61,1,0,0,0.0,0.0,0.0,1,0,48,52,92.3,4,34,0,0,0,Rennes,2018-02-04 Rennes-Guingamp,FRA-L1,17-18,3bbba71a
+a4b1028a,Hamari Traoré,27,MLI,RB,26-008,90,0,0,0,0,1,0,1,0,57,2,2,0,0.0,0.0,0.0,0,0,40,51,78.4,6,27,1,0,0,Rennes,2018-02-04 Rennes-Guingamp,FRA-L1,17-18,3bbba71a
+dc366c36,Tomáš Koubek,40,CZE,GK,25-162,90,0,0,0,0,0,0,0,0,27,0,0,0,0.0,0.0,0.0,0,0,18,26,69.2,0,14,0,0,0,Rennes,2018-02-04 Rennes-Guingamp,FRA-L1,17-18,3bbba71a
+f83c8d6c,Jimmy Briand,23,FRA,"FW,RW",32-186,90,0,0,0,0,1,0,1,0,43,1,0,0,0.1,0.1,0.0,3,0,24,30,80.0,4,28,1,3,3,Guingamp,2018-02-04 Rennes-Guingamp,FRA-L1,17-18,3bbba71a
+30395d3b,Nicolas Benezet,10,FRA,"LW,RW",26-345,78,0,0,0,0,4,1,0,0,57,4,0,0,0.2,0.2,0.1,4,0,34,51,66.7,7,36,6,2,2,Guingamp,2018-02-04 Rennes-Guingamp,FRA-L1,17-18,3bbba71a
+8b298f56,Clément Grenier,6,FRA,"AM,DM",27-028,12,0,0,0,0,0,0,0,0,10,0,1,0,0.0,0.0,0.0,0,0,7,9,77.8,1,6,1,0,0,Guingamp,2018-02-04 Rennes-Guingamp,FRA-L1,17-18,3bbba71a
+3010aefb,Marcus Coco,24,FRA,"RW,LW",21-225,86,0,0,0,0,2,0,1,0,52,1,1,2,0.1,0.1,0.1,1,0,29,37,78.4,4,30,7,5,2,Guingamp,2018-02-04 Rennes-Guingamp,FRA-L1,17-18,3bbba71a
+6f8cd6d0,Marcus Thuram,21,FRA,FW,20-182,4,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,1,0,0,0,Guingamp,2018-02-04 Rennes-Guingamp,FRA-L1,17-18,3bbba71a
+6191093d,Ludovic Blas,7,FRA,"AM,DM",20-035,90,0,1,0,0,1,0,0,0,50,1,0,2,0.1,0.1,0.1,4,1,40,44,90.9,3,38,2,4,4,Guingamp,2018-02-04 Rennes-Guingamp,FRA-L1,17-18,3bbba71a
+b6dac747,Lebogang Phiri,18,RSA,DM,23-087,90,0,0,0,0,0,0,0,0,58,1,1,0,0.0,0.0,0.1,1,0,48,52,92.3,4,33,1,1,1,Guingamp,2018-02-04 Rennes-Guingamp,FRA-L1,17-18,3bbba71a
+d2aa8ac0,Étienne Didot,17,FRA,DM,34-195,78,0,0,0,0,0,0,0,0,56,2,0,1,0.0,0.0,0.0,2,0,40,47,85.1,5,33,1,1,0,Guingamp,2018-02-04 Rennes-Guingamp,FRA-L1,17-18,3bbba71a
+813aae2f,Yeni Ngbakoto,12,COD,"LW,AM",26-012,12,1,0,0,0,1,1,0,0,11,1,0,2,0.1,0.1,0.0,0,0,5,6,83.3,0,7,1,1,1,Guingamp,2018-02-04 Rennes-Guingamp,FRA-L1,17-18,3bbba71a
+276cce2e,Pedro Rebocho,3,POR,LB,23-012,90,0,0,0,0,0,0,0,0,60,1,0,0,0.0,0.0,0.1,2,0,41,51,80.4,4,29,0,1,1,Guingamp,2018-02-04 Rennes-Guingamp,FRA-L1,17-18,3bbba71a
+167d5018,Félix Eboa Eboa,20,CMR,CB,20-291,90,0,0,0,0,1,1,1,0,57,0,5,2,0.0,0.0,0.0,0,0,38,44,86.4,2,36,0,0,0,Guingamp,2018-02-04 Rennes-Guingamp,FRA-L1,17-18,3bbba71a
+0515a4cb,Christophe Kerbrat,29,FRA,CB,31-186,90,0,0,0,0,0,0,1,0,59,1,0,1,0.0,0.0,0.0,0,0,44,47,93.6,3,36,0,0,0,Guingamp,2018-02-04 Rennes-Guingamp,FRA-L1,17-18,3bbba71a
+8ff4872e,Jordan Ikoko,2,COD,RB,24-001,90,0,0,0,0,1,1,0,0,54,2,2,0,0.1,0.1,0.1,2,0,36,43,83.7,4,28,4,1,0,Guingamp,2018-02-04 Rennes-Guingamp,FRA-L1,17-18,3bbba71a
+a56bd2ee,Karl-Johan Johnsson,1,SWE,GK,28-007,90,0,0,0,0,0,0,0,0,25,0,0,0,0.0,0.0,0.0,0,0,12,23,52.2,0,8,0,0,0,Guingamp,2018-02-04 Rennes-Guingamp,FRA-L1,17-18,3bbba71a

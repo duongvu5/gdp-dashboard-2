@@ -1,0 +1,31 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+4431aed2,Ciro Immobile,17,ITA,FW,32-004,90,1,1,0,0,4,2,0,0,22,1,0,0,0.8,0.8,0.1,5,1,11,12,91.7,2,16,3,2,1,Lazio,2022-02-24 Lazio-Porto,UEL,21-22,68d33aae
+3ca7254a,Pedro,9,ESP,LW,34-211,70,0,0,0,0,0,0,0,0,40,0,0,2,0.0,0.0,0.0,2,0,20,33,60.6,3,27,7,2,2,Lazio,2022-02-24 Lazio-Porto,UEL,21-22,68d33aae
+919dd4b1,Raúl Moro,27,ESP,LW,19-081,20,0,0,0,0,0,0,0,0,16,1,0,0,0.0,0.0,0.0,3,0,10,14,71.4,1,11,1,0,0,Lazio,2022-02-24 Lazio-Porto,UEL,21-22,68d33aae
+9f1893b9,Felipe Anderson,7,BRA,RW,28-315,90,0,0,0,0,0,0,0,0,51,2,0,0,0.0,0.0,0.1,3,0,30,39,76.9,7,33,3,7,3,Lazio,2022-02-24 Lazio-Porto,UEL,21-22,68d33aae
+5294a83f,Luis Alberto,10,ESP,LM,29-149,90,0,0,0,0,7,1,1,0,84,4,0,1,0.5,0.5,0.1,5,0,47,68,69.1,7,48,4,1,1,Lazio,2022-02-24 Lazio-Porto,UEL,21-22,68d33aae
+4c78b5ed,Lucas Leiva,6,BRA,CM,35-046,53,0,0,0,0,0,0,0,0,34,0,2,1,0.0,0.0,0.0,0,0,29,31,93.5,4,20,0,0,0,Lazio,2022-02-24 Lazio-Porto,UEL,21-22,68d33aae
+ba3d3bea,Danilo Cataldi,32,ITA,CM,27-202,37,1,0,0,0,2,1,0,0,26,1,1,0,0.7,0.7,0.0,1,0,15,20,75.0,1,4,0,0,0,Lazio,2022-02-24 Lazio-Porto,UEL,21-22,68d33aae
+4e6dbac4,Sergej Milinković-Savić,21,SRB,RM,26-362,90,0,1,0,0,3,1,0,0,52,0,1,2,0.4,0.4,0.3,5,1,29,35,82.9,5,23,0,4,3,Lazio,2022-02-24 Lazio-Porto,UEL,21-22,68d33aae
+53de807a,Ștefan Radu,26,ROU,LB,35-125,53,0,0,0,0,0,0,1,0,45,2,1,2,0.0,0.0,0.0,0,0,33,37,89.2,2,23,0,2,1,Lazio,2022-02-24 Lazio-Porto,UEL,21-22,68d33aae
+2f3452eb,Elseid Hysaj,23,ALB,LB,28-004,37,0,0,0,0,0,0,0,0,43,1,1,1,0.0,0.0,0.0,1,0,22,31,71.0,4,22,0,1,0,Lazio,2022-02-24 Lazio-Porto,UEL,21-22,68d33aae
+f7223718,Patric,4,ESP,CB,28-313,90,0,0,0,0,1,0,1,0,81,1,3,1,0.0,0.0,0.0,1,0,67,72,93.1,3,48,0,1,0,Lazio,2022-02-24 Lazio-Porto,UEL,21-22,68d33aae
+15d0c248,Luiz Felipe,3,ITA,CB,24-339,90,0,0,0,0,0,0,0,0,87,2,0,2,0.0,0.0,0.0,2,0,62,80,77.5,4,54,0,0,0,Lazio,2022-02-24 Lazio-Porto,UEL,21-22,68d33aae
+d4535821,Adam Marušić,77,MNE,RB,29-130,90,0,0,0,0,1,0,0,0,60,4,1,0,0.0,0.0,0.0,2,0,48,51,94.1,6,38,1,0,0,Lazio,2022-02-24 Lazio-Porto,UEL,21-22,68d33aae
+339fe0e8,Thomas Strakosha,1,ALB,GK,26-342,90,0,0,0,0,0,0,0,0,33,0,0,0,0.0,0.0,0.0,0,0,24,29,82.8,0,17,0,0,0,Lazio,2022-02-24 Lazio-Porto,UEL,21-22,68d33aae
+f3945e07,Toni Martínez,29,ESP,FW,24-239,55,0,0,0,0,1,0,0,0,16,2,0,1,0.0,0.0,0.1,2,0,8,10,80.0,1,11,0,0,0,Porto,2022-02-24 Lazio-Porto,UEL,21-22,68d33aae
+5b3d1a7a,Galeno,13,BRA,FW,24-125,35,0,0,0,0,4,1,0,0,21,1,3,0,0.2,0.2,0.1,1,0,7,9,77.8,0,14,5,3,0,Porto,2022-02-24 Lazio-Porto,UEL,21-22,68d33aae
+4c2a5d34,Mehdi Taremi,9,IRN,FW,29-221,78,1,1,1,1,5,0,0,0,33,1,0,0,1.1,0.3,0.5,4,2,17,22,77.3,3,21,0,0,0,Porto,2022-02-24 Lazio-Porto,UEL,21-22,68d33aae
+6f3cc2fe,Evanilson,30,BRA,FW,22-141,12,0,0,0,0,0,0,0,0,9,1,0,1,0.0,0.0,0.0,0,0,5,6,83.3,0,4,0,1,1,Porto,2022-02-24 Lazio-Porto,UEL,21-22,68d33aae
+fc4e7637,Pepê,11,BRA,LM,25-000,69,0,0,0,0,1,0,0,0,31,1,0,0,0.1,0.1,0.1,3,0,19,21,90.5,0,19,1,1,0,Porto,2022-02-24 Lazio-Porto,UEL,21-22,68d33aae
+82a39b66,João Mário Lopes,23,POR,RM,22-052,21,0,0,0,0,0,0,0,0,15,1,0,0,0.0,0.0,0.0,1,0,8,10,80.0,2,8,1,2,1,Porto,2022-02-24 Lazio-Porto,UEL,21-22,68d33aae
+3b029691,Vitinha,20,POR,CM,22-011,77,0,0,0,0,1,1,0,0,66,1,1,0,0.0,0.0,0.1,2,0,50,59,84.7,4,52,2,5,3,Porto,2022-02-24 Lazio-Porto,UEL,21-22,68d33aae
+8b8e759d,Marko Grujić,16,SRB,CM,25-317,13,0,0,0,0,0,0,0,0,9,0,1,0,0.0,0.0,0.0,0,0,7,7,100.0,0,6,0,0,0,Porto,2022-02-24 Lazio-Porto,UEL,21-22,68d33aae
+b997c3de,Mateus Uribe,8,COL,CM,30-340,90,1,0,0,0,1,1,0,0,74,1,2,2,0.5,0.5,0.0,5,0,58,62,93.5,6,31,0,0,0,Porto,2022-02-24 Lazio-Porto,UEL,21-22,68d33aae
+28b1f3ce,Otávio,25,POR,"RM,LM",27-015,90,0,0,0,0,3,1,1,0,74,2,2,3,0.2,0.2,0.1,6,2,45,57,78.9,8,43,3,3,2,Porto,2022-02-24 Lazio-Porto,UEL,21-22,68d33aae
+24051310,Zaidu Sanusi,12,NGA,LB,24-256,90,0,0,0,0,0,0,1,0,64,3,1,1,0.0,0.0,0.1,3,0,37,47,78.7,3,31,2,4,2,Porto,2022-02-24 Lazio-Porto,UEL,21-22,68d33aae
+c906ce0f,Pepe,3,POR,CB,38-363,90,0,0,0,0,0,0,0,0,73,2,0,2,0.0,0.0,0.0,1,0,60,64,93.8,1,58,0,0,0,Porto,2022-02-24 Lazio-Porto,UEL,21-22,68d33aae
+e76cb9cc,Chancel Mbemba,19,COD,CB,27-200,90,0,0,0,0,0,0,0,0,104,2,1,0,0.0,0.0,0.0,0,0,83,91,91.2,0,76,0,0,0,Porto,2022-02-24 Lazio-Porto,UEL,21-22,68d33aae
+7b4c1f6e,Bruno Xavier Almeida Costa,28,POR,RB,24-311,90,0,0,0,0,0,0,0,0,97,4,2,2,0.0,0.0,0.0,1,0,75,87,86.2,1,49,0,1,1,Porto,2022-02-24 Lazio-Porto,UEL,21-22,68d33aae
+93fffbcf,Diogo Costa,99,POR,GK,22-158,90,0,0,0,0,0,0,0,0,82,0,0,0,0.0,0.0,0.0,0,0,63,78,80.8,0,59,0,0,0,Porto,2022-02-24 Lazio-Porto,UEL,21-22,68d33aae

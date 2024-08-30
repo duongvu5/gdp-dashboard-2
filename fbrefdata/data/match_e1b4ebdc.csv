@@ -1,0 +1,29 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+a889ffc7,Marco Borriello,22,ITA,FW,35-154,57,0,0,0,0,1,0,1,0,19,1,0,0,0.1,0.1,0.0,0,0,7,12,58.3,1,9,0,2,0,SPAL,2017-11-19 SPAL-Fiorentina,ITA-SERIA_A,17-18,e1b4ebdc
+df301450,Sergio Floccari,10,ITA,FW,36-007,33,0,0,0,0,0,0,0,0,17,0,0,0,0.0,0.0,0.0,1,0,12,15,80.0,2,9,1,1,0,SPAL,2017-11-19 SPAL-Fiorentina,ITA-SERIA_A,17-18,e1b4ebdc
+b5cae4e6,Alberto Paloschi,43,ITA,FW,27-319,90,1,0,0,0,2,1,0,0,21,1,0,0,0.9,0.9,0.1,2,0,10,16,62.5,1,13,0,0,0,SPAL,2017-11-19 SPAL-Fiorentina,ITA-SERIA_A,17-18,e1b4ebdc
+6cc97b6a,Alberto Grassi,88,ITA,CM,22-257,77,0,0,0,0,0,0,0,0,24,0,3,3,0.0,0.0,0.0,0,0,8,12,66.7,1,11,1,2,2,SPAL,2017-11-19 SPAL-Fiorentina,ITA-SERIA_A,17-18,e1b4ebdc
+c4f97172,Eros Schiavon,18,ITA,CM,34-209,13,0,0,0,0,0,0,0,0,4,0,0,1,0.0,0.0,0.0,0,0,2,3,66.7,0,3,0,0,0,SPAL,2017-11-19 SPAL-Fiorentina,ITA-SERIA_A,17-18,e1b4ebdc
+2258c078,Federico Viviani,77,ITA,CM,25-240,90,0,0,0,0,0,0,1,0,45,1,0,1,0.0,0.0,0.0,2,0,30,38,78.9,3,8,0,0,0,SPAL,2017-11-19 SPAL-Fiorentina,ITA-SERIA_A,17-18,e1b4ebdc
+bd84fc61,Pasquale Schiattarella,28,ITA,CM,30-173,90,0,0,0,0,1,0,0,0,38,1,2,1,0.0,0.0,0.0,1,0,21,32,65.6,2,13,1,1,0,SPAL,2017-11-19 SPAL-Fiorentina,ITA-SERIA_A,17-18,e1b4ebdc
+fba81826,Federico Mattiello,14,ITA,WB,22-128,90,0,0,0,0,2,0,0,0,37,2,0,4,0.1,0.1,0.0,1,0,15,24,62.5,2,11,1,0,0,SPAL,2017-11-19 SPAL-Fiorentina,ITA-SERIA_A,17-18,e1b4ebdc
+02caf6e0,Manuel Lazzari,29,ITA,WB,23-355,90,0,0,0,0,0,0,0,0,30,1,2,0,0.0,0.0,0.0,1,0,10,17,58.8,0,13,7,2,2,SPAL,2017-11-19 SPAL-Fiorentina,ITA-SERIA_A,17-18,e1b4ebdc
+8cea6319,Felipe dal Belo,27,BRA,CB,33-111,90,0,0,0,0,1,0,0,0,54,1,4,7,0.0,0.0,0.0,1,1,20,26,76.9,0,11,0,0,0,SPAL,2017-11-19 SPAL-Fiorentina,ITA-SERIA_A,17-18,e1b4ebdc
+de045b15,Francesco Vicari,23,ITA,CB,23-108,90,0,0,0,0,0,0,0,0,31,2,2,2,0.0,0.0,0.0,0,0,17,21,81.0,0,8,0,0,0,SPAL,2017-11-19 SPAL-Fiorentina,ITA-SERIA_A,17-18,e1b4ebdc
+9b30df1e,Bartosz Salamon,21,POL,CB,26-202,45,0,0,0,0,0,0,0,0,23,1,2,1,0.0,0.0,0.0,1,0,10,13,76.9,3,9,0,1,1,SPAL,2017-11-19 SPAL-Fiorentina,ITA-SERIA_A,17-18,e1b4ebdc
+3b9858f5,Marios Oikonomou,2,GRE,CB,25-044,44,0,0,0,0,0,0,2,1,9,1,0,0,0.0,0.0,0.0,0,0,4,5,80.0,1,0,0,0,0,SPAL,2017-11-19 SPAL-Fiorentina,ITA-SERIA_A,17-18,e1b4ebdc
+cecbce23,Alfred Gomis,1,SEN,GK,24-075,90,0,0,0,0,0,0,0,0,37,0,0,0,0.0,0.0,0.0,0,0,11,34,32.4,0,14,0,0,0,SPAL,2017-11-19 SPAL-Fiorentina,ITA-SERIA_A,17-18,e1b4ebdc
+343c0d52,Giovanni Simeone,9,ARG,FW,22-137,90,0,1,0,0,2,0,0,0,15,0,0,0,0.1,0.1,0.6,2,1,9,10,90.0,0,10,0,1,0,Fiorentina,2017-11-19 SPAL-Fiorentina,ITA-SERIA_A,17-18,e1b4ebdc
+b0f7e36c,Federico Chiesa,25,ITA,"WB,LW",20-025,90,1,0,0,0,4,1,0,0,55,2,0,0,0.8,0.8,0.0,3,1,29,40,72.5,6,39,3,6,4,Fiorentina,2017-11-19 SPAL-Fiorentina,ITA-SERIA_A,17-18,e1b4ebdc
+e61bdd69,Gil Bastião Dias,28,POR,RW,21-052,61,0,0,0,0,2,0,0,0,35,2,3,2,0.1,0.1,0.1,4,0,19,23,82.6,1,25,3,3,2,Fiorentina,2017-11-19 SPAL-Fiorentina,ITA-SERIA_A,17-18,e1b4ebdc
+3bb7af3b,Riccardo Saponara,8,ITA,AM,25-333,29,0,0,0,0,1,0,0,0,18,2,0,0,0.0,0.0,0.0,4,0,10,13,76.9,1,14,1,0,0,Fiorentina,2017-11-19 SPAL-Fiorentina,ITA-SERIA_A,17-18,e1b4ebdc
+4a56052c,Jordan Veretout,17,FRA,"CM,LM",24-263,90,0,0,0,0,1,1,0,0,93,3,1,1,0.1,0.1,0.1,6,0,72,85,84.7,10,65,3,1,1,Fiorentina,2017-11-19 SPAL-Fiorentina,ITA-SERIA_A,17-18,e1b4ebdc
+50b51fac,Carlos Sánchez,6,COL,"CB,CM",31-286,90,0,0,0,0,1,0,1,0,84,2,1,0,0.1,0.1,0.0,0,0,67,77,87.0,7,49,0,0,0,Fiorentina,2017-11-19 SPAL-Fiorentina,ITA-SERIA_A,17-18,e1b4ebdc
+0000acda,Marco Benassi,24,ITA,"CM,RM",23-072,90,0,0,0,0,4,1,1,0,69,1,0,1,0.1,0.1,0.1,2,0,46,61,75.4,5,45,0,0,0,Fiorentina,2017-11-19 SPAL-Fiorentina,ITA-SERIA_A,17-18,e1b4ebdc
+32a33c68,Maximiliano Olivera,15,URU,LB,25-259,45,0,0,0,0,1,0,0,0,44,0,2,0,0.0,0.0,0.0,0,0,31,39,79.5,2,30,0,1,1,Fiorentina,2017-11-19 SPAL-Fiorentina,ITA-SERIA_A,17-18,e1b4ebdc
+422ec08a,Khouma Babacar,30,SEN,FW,24-247,45,0,0,0,0,4,2,0,0,23,3,0,0,0.2,0.2,0.1,3,0,10,14,71.4,3,14,0,1,0,Fiorentina,2017-11-19 SPAL-Fiorentina,ITA-SERIA_A,17-18,e1b4ebdc
+1522dab2,Davide Astori,13,ITA,CB,30-316,90,0,0,0,0,0,0,0,0,83,2,4,1,0.0,0.0,0.1,2,0,61,72,84.7,3,48,2,0,0,Fiorentina,2017-11-19 SPAL-Fiorentina,ITA-SERIA_A,17-18,e1b4ebdc
+8c725b43,Germán Pezzella,20,ARG,CB,26-145,90,0,0,0,0,0,0,1,0,93,2,0,0,0.0,0.0,0.0,3,0,72,84,85.7,12,60,1,1,1,Fiorentina,2017-11-19 SPAL-Fiorentina,ITA-SERIA_A,17-18,e1b4ebdc
+55ae91f0,Bruno Gaspar,76,ANG,"WB,RB",24-212,90,0,0,0,0,0,0,0,0,98,1,1,3,0.0,0.0,0.1,5,0,75,92,81.5,9,57,6,0,0,Fiorentina,2017-11-19 SPAL-Fiorentina,ITA-SERIA_A,17-18,e1b4ebdc
+ac4003af,Marco Sportiello,57,ITA,GK,25-193,90,0,0,0,0,0,0,0,0,20,0,1,0,0.0,0.0,0.0,0,0,17,18,94.4,0,6,0,0,0,Fiorentina,2017-11-19 SPAL-Fiorentina,ITA-SERIA_A,17-18,e1b4ebdc

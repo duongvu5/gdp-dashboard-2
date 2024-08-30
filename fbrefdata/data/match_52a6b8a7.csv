@@ -1,0 +1,32 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+3ef68782,Moussa Koné,28,SEN,FW,24-123,85,1,0,0,0,1,1,1,0,16,0,0,0,0.4,0.4,0.0,0,0,8,9,88.9,0,8,2,2,2,Nîmes,2021-05-02 Nîmes-Reims,FRA-L1,20-21,52a6b8a7
+9b6556d2,Haris Duljević,17,BIH,FW,27-167,5,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,1,0,4,6,66.7,1,5,0,0,0,Nîmes,2021-05-02 Nîmes-Reims,FRA-L1,20-21,52a6b8a7
+005c0807,Zinedine Ferhat,10,ALG,LW,28-062,90,0,2,0,0,3,2,0,0,44,1,0,1,0.9,0.9,1.0,7,2,19,29,65.5,4,28,2,4,2,Nîmes,2021-05-02 Nîmes-Reims,FRA-L1,20-21,52a6b8a7
+beae3a73,Renaud Ripart,20,FRA,RW,28-049,90,1,0,0,0,3,2,0,0,50,0,1,2,0.7,0.7,0.0,3,0,21,33,63.6,5,29,2,0,0,Nîmes,2021-05-02 Nîmes-Reims,FRA-L1,20-21,52a6b8a7
+fbf76716,Yassine Benrahou,22,FRA,AM,22-098,63,0,0,0,0,1,0,0,0,46,0,0,0,0.0,0.0,0.1,4,0,28,40,70.0,2,21,4,2,0,Nîmes,2021-05-02 Nîmes-Reims,FRA-L1,20-21,52a6b8a7
+0033fb1b,Niclas Eliasson,7,SWE,AM,25-146,27,0,0,0,0,1,1,0,0,13,0,0,1,0.0,0.0,0.1,2,0,5,8,62.5,0,8,0,0,0,Nîmes,2021-05-02 Nîmes-Reims,FRA-L1,20-21,52a6b8a7
+a0b65401,Sidy Sarr,6,SEN,DM,24-331,45,0,0,0,0,2,0,0,0,26,0,0,0,0.1,0.1,0.3,1,0,19,22,86.4,2,15,1,0,0,Nîmes,2021-05-02 Nîmes-Reims,FRA-L1,20-21,52a6b8a7
+2145368f,Lamine Fomba,12,FRA,DM,23-096,45,0,0,0,0,3,1,0,0,30,2,2,2,0.2,0.2,0.0,2,0,16,18,88.9,2,18,0,0,0,Nîmes,2021-05-02 Nîmes-Reims,FRA-L1,20-21,52a6b8a7
+44f8c299,Lucas Deaux,8,FRA,DM,32-127,84,0,0,0,0,1,0,0,0,46,6,1,0,0.1,0.1,0.1,3,0,29,37,78.4,4,27,1,0,0,Nîmes,2021-05-02 Nîmes-Reims,FRA-L1,20-21,52a6b8a7
+5ea9ebd4,Matteo Ahlinvi,11,BEN,DM,21-304,6,0,0,0,0,0,0,0,0,3,1,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,1,1,0,0,Nîmes,2021-05-02 Nîmes-Reims,FRA-L1,20-21,52a6b8a7
+70c52749,Birger Meling,3,NOR,LB,26-136,90,0,0,0,0,1,0,0,0,55,1,0,1,0.0,0.0,0.4,3,0,40,50,80.0,4,33,0,0,0,Nîmes,2021-05-02 Nîmes-Reims,FRA-L1,20-21,52a6b8a7
+08082af0,Loïck Landre,5,FRA,CB,28-362,90,0,0,0,0,1,0,0,0,65,0,1,0,0.1,0.1,0.0,2,1,54,59,91.5,1,46,0,0,0,Nîmes,2021-05-02 Nîmes-Reims,FRA-L1,20-21,52a6b8a7
+539b4f25,Naomichi Ueda,27,JPN,CB,26-190,90,0,0,0,0,0,0,0,0,62,0,1,0,0.0,0.0,0.0,0,0,45,57,78.9,3,44,0,0,0,Nîmes,2021-05-02 Nîmes-Reims,FRA-L1,20-21,52a6b8a7
+475583ff,Gaëtan Paquiez,15,FRA,RB,27-076,86,0,0,0,0,1,0,1,0,76,3,5,1,0.0,0.0,0.0,2,0,42,59,71.2,7,31,5,0,0,Nîmes,2021-05-02 Nîmes-Reims,FRA-L1,20-21,52a6b8a7
+8746d5d0,Patrick Burner,21,MTQ,RB,25-021,4,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,0,0,0,0,Nîmes,2021-05-02 Nîmes-Reims,FRA-L1,20-21,52a6b8a7
+bcf1b2e9,Baptiste Reynet,30,FRA,GK,30-186,90,0,0,0,0,0,0,0,0,39,0,0,0,0.0,0.0,0.0,0,0,24,34,70.6,0,21,0,0,0,Nîmes,2021-05-02 Nîmes-Reims,FRA-L1,20-21,52a6b8a7
+244bc2c8,Boulaye Dia,11,SEN,FW,24-167,90,0,0,0,0,1,1,0,0,28,0,0,0,0.3,0.3,0.0,1,0,17,19,89.5,2,18,2,3,3,Reims,2021-05-02 Nîmes-Reims,FRA-L1,20-21,52a6b8a7
+095e4199,Arber Zeneli,10,KVX,LW,26-066,63,0,0,0,0,1,0,1,0,37,1,0,3,0.1,0.1,0.0,1,0,16,26,61.5,0,18,3,3,2,Reims,2021-05-02 Nîmes-Reims,FRA-L1,20-21,52a6b8a7
+1b6862e8,Dereck Kutesa,8,SUI,LW,23-147,27,0,0,0,0,2,2,0,0,14,0,0,1,0.1,0.1,0.0,2,0,5,10,50.0,0,14,4,0,0,Reims,2021-05-02 Nîmes-Reims,FRA-L1,20-21,52a6b8a7
+46750e9c,Nathanael Mbuku,21,FRA,"RW,AM",19-047,79,1,0,0,0,2,2,0,0,15,1,0,1,0.1,0.1,0.0,0,0,6,7,85.7,0,9,0,0,0,Reims,2021-05-02 Nîmes-Reims,FRA-L1,20-21,52a6b8a7
+9c2b1f11,Kaj Sierhuis,9,NED,AM,23-005,11,0,0,0,0,1,0,0,0,6,0,0,0,0.1,0.1,0.0,0,0,3,5,60.0,2,2,0,0,0,Reims,2021-05-02 Nîmes-Reims,FRA-L1,20-21,52a6b8a7
+279ddf6a,Xavier Chavalerin,7,FRA,"LM,DM",30-056,90,0,1,0,0,1,1,0,0,63,2,0,1,0.1,0.1,0.4,5,2,44,53,83.0,7,43,1,0,0,Reims,2021-05-02 Nîmes-Reims,FRA-L1,20-21,52a6b8a7
+f54d2149,Moreto Cassamã,23,GNB,CM,23-075,72,0,0,0,0,0,0,0,0,58,5,0,1,0.0,0.0,0.1,2,0,41,49,83.7,4,38,0,1,0,Reims,2021-05-02 Nîmes-Reims,FRA-L1,20-21,52a6b8a7
+caef7840,Alexis Flips,35,FRA,RW,21-104,18,1,0,0,0,2,1,0,0,13,0,0,0,0.0,0.0,0.0,1,0,3,5,60.0,0,8,0,2,0,Reims,2021-05-02 Nîmes-Reims,FRA-L1,20-21,52a6b8a7
+64c14d49,Dion Lopy,34,SEN,"RM,DM",19-089,90,0,0,0,0,1,0,0,0,44,0,0,0,0.0,0.0,0.1,3,1,28,37,75.7,6,32,4,2,2,Reims,2021-05-02 Nîmes-Reims,FRA-L1,20-21,52a6b8a7
+5fdcb075,Thibault De Smet,28,BEL,LB,22-331,90,0,0,0,0,0,0,1,0,64,1,1,1,0.0,0.0,0.1,2,0,42,56,75.0,4,24,1,1,1,Reims,2021-05-02 Nîmes-Reims,FRA-L1,20-21,52a6b8a7
+32c2d95f,Yunis Abdelhamid,5,MAR,CB,33-216,90,0,0,0,0,1,0,0,0,65,2,3,3,0.1,0.1,0.0,0,0,46,52,88.5,3,43,1,2,1,Reims,2021-05-02 Nîmes-Reims,FRA-L1,20-21,52a6b8a7
+2acf0cd7,Marshall Munetsi,15,ZIM,CB,24-314,90,0,0,0,0,0,0,0,0,43,0,1,1,0.0,0.0,0.0,0,0,16,26,61.5,0,16,0,1,1,Reims,2021-05-02 Nîmes-Reims,FRA-L1,20-21,52a6b8a7
+90eb507d,Thomas Foket,32,BEL,RB,26-219,90,0,1,0,0,0,0,0,0,57,1,1,1,0.0,0.0,0.1,4,1,36,47,76.6,1,32,5,1,1,Reims,2021-05-02 Nîmes-Reims,FRA-L1,20-21,52a6b8a7
+58ad9383,Predrag Rajković,1,SRB,GK,25-183,90,0,0,0,0,0,0,0,0,52,0,0,0,0.0,0.0,0.0,0,0,30,47,63.8,0,27,0,0,0,Reims,2021-05-02 Nîmes-Reims,FRA-L1,20-21,52a6b8a7

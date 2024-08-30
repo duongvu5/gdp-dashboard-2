@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+f93e6e94,Nils Petersen,18,GER,FW,33-082,63,0,0,0,0,1,0,0,0,14,2,0,1,0.0,0.0,0.1,0,0,5,8,62.5,0,4,1,0,0,Freiburg,2022-02-26 Freiburg-Hertha BSC,GER-BL1,21-22,176632d7
+ca618d23,Lucas Höler,9,GER,FW,27-231,27,1,0,0,0,2,1,0,0,12,1,0,0,0.9,0.9,0.0,1,1,4,5,80.0,1,8,0,2,2,Freiburg,2022-02-26 Freiburg-Hertha BSC,GER-BL1,21-22,176632d7
+54e4866f,Vincenzo Grifo,32,ITA,LW,28-325,81,1,0,1,1,4,1,0,0,63,1,2,2,1.1,0.3,0.0,3,0,37,51,72.5,2,30,1,1,1,Freiburg,2022-02-26 Freiburg-Hertha BSC,GER-BL1,21-22,176632d7
+dd676a97,Noah Weißhaupt,33,GER,LW,20-159,9,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.3,2,0,6,6,100.0,1,7,1,0,0,Freiburg,2022-02-26 Freiburg-Hertha BSC,GER-BL1,21-22,176632d7
+bf075f6b,Roland Sallai,22,HUN,RW,24-280,63,0,0,0,0,1,0,0,0,30,1,3,0,0.0,0.0,0.0,3,1,17,23,73.9,1,19,3,2,1,Freiburg,2022-02-26 Freiburg-Hertha BSC,GER-BL1,21-22,176632d7
+52afb588,Kevin Schade,20,GER,RW,20-091,27,1,0,0,0,1,1,0,0,16,0,0,0,0.2,0.2,0.0,0,0,7,9,77.8,1,10,0,0,0,Freiburg,2022-02-26 Freiburg-Hertha BSC,GER-BL1,21-22,176632d7
+6190474d,Jeong Woo-yeong,29,KOR,AM,22-159,81,0,0,0,0,1,0,0,0,45,1,1,1,0.1,0.1,0.0,4,1,25,35,71.4,5,27,1,1,0,Freiburg,2022-02-26 Freiburg-Hertha BSC,GER-BL1,21-22,176632d7
+ed79b7d3,Ermedin Demirović,11,BIH,AM,23-338,9,0,1,0,0,1,0,0,0,5,0,0,0,0.2,0.2,0.2,1,1,2,3,66.7,1,4,1,0,0,Freiburg,2022-02-26 Freiburg-Hertha BSC,GER-BL1,21-22,176632d7
+5d8e331f,Nicolas Höfler,27,GER,DM,31-354,90,0,0,0,0,1,0,1,0,65,3,1,4,0.0,0.0,0.0,4,0,46,50,92.0,7,36,1,1,1,Freiburg,2022-02-26 Freiburg-Hertha BSC,GER-BL1,21-22,176632d7
+beb882a8,Maximilian Eggestein,8,GER,DM,25-080,90,0,0,0,0,2,1,0,0,85,2,1,1,0.0,0.0,0.0,4,0,64,75,85.3,11,53,5,3,1,Freiburg,2022-02-26 Freiburg-Hertha BSC,GER-BL1,21-22,176632d7
+8593f88c,Christian Günter,30,GER,LB,28-363,90,0,0,0,0,0,0,0,0,60,1,0,1,0.0,0.0,0.2,2,0,40,53,75.5,4,38,3,1,0,Freiburg,2022-02-26 Freiburg-Hertha BSC,GER-BL1,21-22,176632d7
+34e12499,Nico Schlotterbeck,4,GER,CB,22-087,90,0,0,0,0,0,0,0,0,69,1,1,1,0.0,0.0,0.1,1,0,55,62,88.7,4,55,1,0,0,Freiburg,2022-02-26 Freiburg-Hertha BSC,GER-BL1,21-22,176632d7
+302527b2,Philipp Lienhart,3,AUT,CB,25-230,89,0,0,0,0,0,0,0,0,76,2,1,0,0.0,0.0,0.0,0,0,62,69,89.9,4,54,0,0,0,Freiburg,2022-02-26 Freiburg-Hertha BSC,GER-BL1,21-22,176632d7
+f6bdc830,Keven Schlotterbeck,31,GER,CB,24-304,1,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,6,6,100.0,1,4,0,0,0,Freiburg,2022-02-26 Freiburg-Hertha BSC,GER-BL1,21-22,176632d7
+2a29eb9b,Lukas Kübler,17,GER,RB,29-180,90,0,0,0,0,1,0,0,0,73,0,1,2,0.0,0.0,0.0,1,0,55,64,85.9,7,45,3,1,0,Freiburg,2022-02-26 Freiburg-Hertha BSC,GER-BL1,21-22,176632d7
+a92ab7be,Mark Flekken,26,NED,GK,28-258,90,0,0,0,0,0,0,0,0,44,0,0,0,0.0,0.0,0.0,0,0,35,41,85.4,0,27,0,0,0,Freiburg,2022-02-26 Freiburg-Hertha BSC,GER-BL1,21-22,176632d7
+f36c432f,Stevan Jovetić,19,MNE,FW,32-116,90,0,0,0,0,4,0,1,0,38,1,0,0,0.2,0.2,0.5,6,0,18,27,66.7,3,14,0,1,0,Hertha BSC,2022-02-26 Freiburg-Hertha BSC,GER-BL1,21-22,176632d7
+ff182fdc,Ishak Belfodil,14,ALG,LW,30-045,77,0,0,0,0,2,0,0,0,21,0,0,0,0.1,0.1,0.0,3,0,10,14,71.4,1,10,0,3,2,Hertha BSC,2022-02-26 Freiburg-Hertha BSC,GER-BL1,21-22,176632d7
+1238a3f9,Davie Selke,7,GER,LW,27-037,13,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,0,0,0,0,Hertha BSC,2022-02-26 Freiburg-Hertha BSC,GER-BL1,21-22,176632d7
+f972644c,Marco Richter,23,GER,RW,24-094,77,0,0,0,0,3,1,0,0,34,0,0,1,0.2,0.2,0.0,2,0,14,26,53.8,1,25,4,5,3,Hertha BSC,2022-02-26 Freiburg-Hertha BSC,GER-BL1,21-22,176632d7
+73d6a176,Jurgen Ekkelenkamp,10,NED,RW,21-327,13,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,3,4,75.0,0,3,0,0,0,Hertha BSC,2022-02-26 Freiburg-Hertha BSC,GER-BL1,21-22,176632d7
+b3325a30,Suat Serdar,8,GER,LM,24-321,90,0,0,0,0,0,0,0,0,40,3,0,1,0.0,0.0,0.0,2,0,23,32,71.9,2,23,3,5,4,Hertha BSC,2022-02-26 Freiburg-Hertha BSC,GER-BL1,21-22,176632d7
+71ec39ef,Lucas Tousart,29,FRA,CM,24-303,90,0,0,0,0,2,0,0,0,55,0,3,0,0.1,0.1,0.0,5,0,37,46,80.4,5,33,3,3,3,Hertha BSC,2022-02-26 Freiburg-Hertha BSC,GER-BL1,21-22,176632d7
+3eb0f2df,Vladimír Darida,6,CZE,RM,31-202,69,0,0,0,0,2,0,0,0,51,1,0,0,0.0,0.0,0.3,6,0,28,42,66.7,2,24,1,2,0,Hertha BSC,2022-02-26 Freiburg-Hertha BSC,GER-BL1,21-22,176632d7
+96d0b6f0,Lee Dongjun,30,KOR,RM,25-025,21,0,0,0,0,2,0,0,0,6,0,0,0,0.1,0.1,0.0,1,0,1,1,100.0,0,4,1,4,2,Hertha BSC,2022-02-26 Freiburg-Hertha BSC,GER-BL1,21-22,176632d7
+3724baa1,Fredrik André Bjørkan,3,NOR,LB,23-189,90,0,0,0,0,0,0,1,0,54,2,1,4,0.0,0.0,0.0,5,0,38,43,88.4,3,23,5,2,2,Hertha BSC,2022-02-26 Freiburg-Hertha BSC,GER-BL1,21-22,176632d7
+ad2b068c,Linus Gechter,44,GER,CB,17-364,68,0,0,0,0,2,0,0,0,40,0,0,2,0.1,0.1,0.0,1,0,24,33,72.7,4,25,1,0,0,Hertha BSC,2022-02-26 Freiburg-Hertha BSC,GER-BL1,21-22,176632d7
+611b1aae,Cimo Röcker,34,GER,CB,28-036,22,0,0,0,0,0,0,0,0,19,0,2,0,0.0,0.0,0.1,1,0,11,16,68.8,0,10,0,0,0,Hertha BSC,2022-02-26 Freiburg-Hertha BSC,GER-BL1,21-22,176632d7
+7c473e12,Dedryck Boyata,4,BEL,CB,31-090,90,0,0,0,0,0,0,0,0,57,0,1,0,0.0,0.0,0.0,0,0,45,50,90.0,0,29,0,0,0,Hertha BSC,2022-02-26 Freiburg-Hertha BSC,GER-BL1,21-22,176632d7
+c18d22f5,Peter Pekarík,2,SVK,RB,35-119,90,0,0,0,0,1,1,0,0,46,3,0,0,0.4,0.4,0.1,2,0,32,37,86.5,2,20,3,0,0,Hertha BSC,2022-02-26 Freiburg-Hertha BSC,GER-BL1,21-22,176632d7
+5584552e,Marcel Lotka,37,POL,GK,20-277,90,0,0,0,0,0,0,0,0,35,0,0,0,0.0,0.0,0.0,0,0,25,31,80.6,0,14,0,0,0,Hertha BSC,2022-02-26 Freiburg-Hertha BSC,GER-BL1,21-22,176632d7

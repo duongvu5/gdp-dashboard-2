@@ -1,0 +1,29 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+8a53d24b,Ike Ugbo,9,CAN,FW,24-242,90,0,0,0,0,1,0,0,0,20,1,0,0,0.1,0.1,0.0,1,0,11,13,84.6,2,14,1,1,0,Troyes,2023-05-21 Troyes-Strasbourg,FRA-L1,22-23,bfbeee1e
+836dc4a8,Kyliane Dong,27,FRA,"LW,LM",18-236,86,0,0,0,0,1,0,0,0,30,0,0,0,0.1,0.1,0.1,3,1,14,21,66.7,2,29,4,4,2,Troyes,2023-05-21 Troyes-Strasbourg,FRA-L1,22-23,bfbeee1e
+0ed063d6,Yasser Larouci,39,ALG,LM,22-140,4,0,0,0,0,1,1,0,0,3,0,0,0,0.1,0.1,0.0,0,0,2,2,100.0,0,3,1,0,0,Troyes,2023-05-21 Troyes-Strasbourg,FRA-L1,22-23,bfbeee1e
+7c2965bb,Rony Lopes,11,POR,"RW,RM",27-144,90,1,0,0,0,4,1,0,0,55,1,1,2,0.2,0.2,0.1,5,0,30,37,81.1,4,35,1,4,1,Troyes,2023-05-21 Troyes-Strasbourg,FRA-L1,22-23,bfbeee1e
+cfa49cc1,Abdu Conté,12,POR,"LM,LB",25-058,90,0,0,0,0,0,0,0,0,44,1,0,0,0.0,0.0,0.0,0,0,29,39,74.4,1,29,2,2,1,Troyes,2023-05-21 Troyes-Strasbourg,FRA-L1,22-23,bfbeee1e
+279ddf6a,Xavier Chavalerin,24,FRA,CM,32-075,90,0,0,0,0,0,0,0,0,41,1,0,1,0.0,0.0,0.1,1,0,28,34,82.4,3,29,0,0,0,Troyes,2023-05-21 Troyes-Strasbourg,FRA-L1,22-23,bfbeee1e
+86a2ba20,Rominigue Kouamé,6,MLI,CM,26-155,90,0,0,0,0,0,0,0,0,66,0,1,1,0.0,0.0,0.1,3,0,56,59,94.9,4,58,1,3,1,Troyes,2023-05-21 Troyes-Strasbourg,FRA-L1,22-23,bfbeee1e
+3975195f,Thierno Balde,18,FRA,RM,20-345,59,0,0,0,0,0,0,0,0,30,0,1,0,0.0,0.0,0.1,1,0,18,23,78.3,1,21,2,1,1,Troyes,2023-05-21 Troyes-Strasbourg,FRA-L1,22-23,bfbeee1e
+fd78b105,Mateusz Lis,1,POL,GK,26-083,31,0,0,0,0,0,0,0,0,13,0,0,0,0.0,0.0,0.0,0,0,10,13,76.9,0,10,0,0,0,Troyes,2023-05-21 Troyes-Strasbourg,FRA-L1,22-23,bfbeee1e
+e5c1e0ca,Erik Palmer-Brown,4,USA,CB,26-027,90,0,0,0,0,0,0,1,0,53,1,1,0,0.0,0.0,0.0,0,0,39,43,90.7,2,38,0,0,0,Troyes,2023-05-21 Troyes-Strasbourg,FRA-L1,22-23,bfbeee1e
+8dbff17c,Adil Rami,23,FRA,CB,37-145,90,0,0,0,0,1,1,0,0,52,1,2,1,0.1,0.1,0.0,0,0,41,45,91.1,4,38,0,1,1,Troyes,2023-05-21 Troyes-Strasbourg,FRA-L1,22-23,bfbeee1e
+c3725db2,Yoann Salmier,17,GUF,"CB,RB",30-181,86,0,0,0,0,0,0,0,0,53,3,1,0,0.0,0.0,0.0,1,1,32,43,74.4,3,37,1,0,0,Troyes,2023-05-21 Troyes-Strasbourg,FRA-L1,22-23,bfbeee1e
+b088d5d3,Andreas Bruus,19,DEN,RB,24-125,4,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,1,0,2,2,100.0,0,4,0,2,1,Troyes,2023-05-21 Troyes-Strasbourg,FRA-L1,22-23,bfbeee1e
+db3164e1,Gauthier Gallon,30,FRA,GK,30-028,57,0,0,0,0,0,0,0,1,36,0,0,0,0.0,0.0,0.0,0,0,24,34,70.6,0,26,0,0,0,Troyes,2023-05-21 Troyes-Strasbourg,FRA-L1,22-23,bfbeee1e
+6605d143,Habib Diallo,20,SEN,FW,27-337,90,0,0,0,0,4,1,0,0,27,0,0,0,0.8,0.8,0.1,3,0,11,18,61.1,3,22,1,3,2,Strasbourg,2023-05-21 Troyes-Strasbourg,FRA-L1,22-23,bfbeee1e
+10f0fdd3,Jean-Ricner Bellegarde,17,FRA,LW,24-328,90,0,0,0,0,4,1,0,0,49,2,0,0,0.3,0.3,0.1,2,0,30,39,76.9,4,37,5,4,2,Strasbourg,2023-05-21 Troyes-Strasbourg,FRA-L1,22-23,bfbeee1e
+6d0fe035,Habib Diarra,19,SEN,RW,19-138,82,1,0,0,0,3,2,0,0,50,0,1,0,0.2,0.2,0.0,3,0,34,41,82.9,1,44,5,2,1,Strasbourg,2023-05-21 Troyes-Strasbourg,FRA-L1,22-23,bfbeee1e
+42276181,Kévin Gameiro,9,FRA,RW,36-012,8,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,4,0,0,0,Strasbourg,2023-05-21 Troyes-Strasbourg,FRA-L1,22-23,bfbeee1e
+5d8d7454,Frederic Guilbert,32,FRA,LM,28-148,90,0,0,0,0,0,0,0,0,56,4,1,0,0.0,0.0,0.1,1,0,34,48,70.8,4,36,1,2,1,Strasbourg,2023-05-21 Troyes-Strasbourg,FRA-L1,22-23,bfbeee1e
+6e7f1353,Morgan Sanson,8,FRA,CM,28-276,90,0,0,0,0,1,0,0,0,72,1,2,2,0.1,0.1,0.4,6,0,59,67,88.1,8,64,4,0,0,Strasbourg,2023-05-21 Troyes-Strasbourg,FRA-L1,22-23,bfbeee1e
+0f8418aa,Ibrahima Sissoko,27,MLI,CM,25-206,90,0,0,0,0,0,0,0,0,53,2,0,0,0.0,0.0,0.2,3,0,40,47,85.1,8,41,0,0,0,Strasbourg,2023-05-21 Troyes-Strasbourg,FRA-L1,22-23,bfbeee1e
+0512a60a,Ismaël Doukouré,29,FRA,RM,19-301,90,0,0,0,0,2,0,0,0,62,3,0,0,0.0,0.0,0.0,1,0,48,56,85.7,1,47,2,1,1,Strasbourg,2023-05-21 Troyes-Strasbourg,FRA-L1,22-23,bfbeee1e
+321a71a7,Maxime Le Marchand,23,FRA,CB,33-222,90,0,0,0,0,0,0,0,0,69,2,0,0,0.0,0.0,0.0,1,0,52,60,86.7,2,50,0,1,0,Strasbourg,2023-05-21 Troyes-Strasbourg,FRA-L1,22-23,bfbeee1e
+43e7a164,Alexander Djiku,24,GHA,CB,28-285,71,0,0,0,0,1,0,0,1,52,1,0,0,0.1,0.1,0.0,3,1,40,45,88.9,0,37,0,1,1,Strasbourg,2023-05-21 Troyes-Strasbourg,FRA-L1,22-23,bfbeee1e
+49070d66,Lucas Perrin,5,FRA,CB,24-183,75,0,1,0,0,1,1,1,0,59,2,3,2,0.0,0.0,0.0,2,1,44,51,86.3,2,47,0,0,0,Strasbourg,2023-05-21 Troyes-Strasbourg,FRA-L1,22-23,bfbeee1e
+6043997c,Gerzino Nyamsi,22,FRA,CB,26-119,15,0,0,0,0,0,0,0,0,4,0,0,1,0.0,0.0,0.0,0,0,3,3,100.0,0,3,0,0,0,Strasbourg,2023-05-21 Troyes-Strasbourg,FRA-L1,22-23,bfbeee1e
+834b5c4c,Matz Sels,1,BEL,GK,31-084,90,0,0,0,0,0,0,0,0,18,0,0,0,0.0,0.0,0.0,1,0,8,14,57.1,0,10,0,0,0,Strasbourg,2023-05-21 Troyes-Strasbourg,FRA-L1,22-23,bfbeee1e

@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+5c4dc0ff,Mariano,9,DOM,FW,24-208,90,1,0,0,0,3,2,1,0,17,0,0,0,0.5,0.5,0.0,1,1,3,9,33.3,0,9,1,2,1,Lyon,2018-02-25 Lyon-Saint-Étienne,FRA-L1,17-18,4758588c
+8f696594,Memphis,11,NED,"LW,LM",24-012,90,0,0,0,0,4,2,0,0,43,0,1,0,0.1,0.1,0.0,2,0,20,31,64.5,1,31,4,2,2,Lyon,2018-02-25 Lyon-Saint-Étienne,FRA-L1,17-18,4758588c
+c47541e0,Bertrand Traoré,10,BFA,"RW,RM",22-172,90,0,0,0,0,0,0,0,0,40,2,2,2,0.0,0.0,0.0,0,0,18,24,75.0,0,29,1,2,1,Lyon,2018-02-25 Lyon-Saint-Étienne,FRA-L1,17-18,4758588c
+bece776f,Nabil Fekir,18,FRA,AM,24-222,69,0,0,0,0,0,0,0,0,43,0,0,0,0.0,0.0,0.1,1,0,30,35,85.7,3,30,2,3,2,Lyon,2018-02-25 Lyon-Saint-Étienne,FRA-L1,17-18,4758588c
+d2110326,Mouctar Diakhaby,5,GUI,CB,21-068,21,0,0,0,0,0,0,0,0,12,0,0,0,0.0,0.0,0.0,0,0,6,8,75.0,0,5,0,0,0,Lyon,2018-02-25 Lyon-Saint-Étienne,FRA-L1,17-18,4758588c
+5cdddffa,Tanguy Ndombele,28,FRA,"DM,CM",21-059,90,0,0,0,0,2,1,0,0,66,1,4,4,0.1,0.1,0.0,1,0,45,51,88.2,1,48,2,6,5,Lyon,2018-02-25 Lyon-Saint-Étienne,FRA-L1,17-18,4758588c
+71ec39ef,Lucas Tousart,29,FRA,DM,20-302,45,0,0,0,0,0,0,0,0,20,1,0,0,0.0,0.0,0.0,0,0,14,17,82.4,0,14,0,0,0,Lyon,2018-02-25 Lyon-Saint-Étienne,FRA-L1,17-18,4758588c
+a5db0bec,Houssem Aouar,8,ALG,"DM,CM",19-240,45,0,0,0,0,0,0,0,0,29,1,0,0,0.0,0.0,0.0,5,0,21,25,84.0,3,16,1,5,4,Lyon,2018-02-25 Lyon-Saint-Étienne,FRA-L1,17-18,4758588c
+3cefcaef,Ferland Mendy,22,FRA,LB,22-262,90,0,0,0,0,0,0,0,0,85,3,6,3,0.0,0.0,0.1,3,0,58,71,81.7,4,45,5,2,2,Lyon,2018-02-25 Lyon-Saint-Étienne,FRA-L1,17-18,4758588c
+e97150c0,Jérémy Morel,15,MAD,CB,33-329,90,0,0,0,0,0,0,0,0,69,2,2,1,0.0,0.0,0.0,3,0,49,57,86.0,4,41,0,0,0,Lyon,2018-02-25 Lyon-Saint-Étienne,FRA-L1,17-18,4758588c
+e3d0b0c4,Marcelo,6,BRA,CB,30-281,90,0,1,0,0,0,0,0,0,79,1,0,2,0.0,0.0,0.5,2,1,55,68,80.9,8,49,0,1,1,Lyon,2018-02-25 Lyon-Saint-Étienne,FRA-L1,17-18,4758588c
+9a1f2e1c,Rafael,4,BRA,RB,27-231,35,0,0,0,0,0,0,0,0,30,0,0,0,0.0,0.0,0.0,0,0,21,27,77.8,2,20,0,1,1,Lyon,2018-02-25 Lyon-Saint-Étienne,FRA-L1,17-18,4758588c
+77d7c96f,Kenny Tete,23,NED,RB,22-139,55,0,0,0,0,0,0,0,0,32,1,1,2,0.0,0.0,0.0,0,0,20,26,76.9,1,14,0,0,0,Lyon,2018-02-25 Lyon-Saint-Étienne,FRA-L1,17-18,4758588c
+4d3e9033,Mathieu Gorgelin,30,FRA,GK,27-204,90,0,0,0,0,0,0,0,0,35,0,0,0,0.0,0.0,0.0,0,0,22,35,62.9,0,18,0,0,0,Lyon,2018-02-25 Lyon-Saint-Étienne,FRA-L1,17-18,4758588c
+9001138b,Robert Berić,27,SVN,FW,26-253,90,0,0,0,0,2,0,0,0,22,1,0,0,0.7,0.7,0.0,0,0,10,19,52.6,0,4,0,0,0,Saint-Étienne,2018-02-25 Lyon-Saint-Étienne,FRA-L1,17-18,4758588c
+4a57580c,Kévin Monnet-Paquet,22,FRA,"LW,RW",29-190,61,0,0,0,0,1,0,0,0,33,3,2,1,0.0,0.0,0.0,1,0,12,26,46.2,2,15,2,2,2,Saint-Étienne,2018-02-25 Lyon-Saint-Étienne,FRA-L1,17-18,4758588c
+0b4d8274,Romain Hamouma,21,FRA,"LW,AM,RW",30-333,29,0,0,0,0,2,0,1,0,15,1,0,0,0.1,0.1,0.6,1,0,6,10,60.0,0,10,1,1,0,Saint-Étienne,2018-02-25 Lyon-Saint-Étienne,FRA-L1,17-18,4758588c
+b2bd0f6c,Jonathan Bamba,14,CIV,"RW,LW",21-336,90,0,0,0,0,1,0,0,0,75,0,0,2,0.0,0.0,0.2,6,0,52,68,76.5,6,32,3,2,2,Saint-Étienne,2018-02-25 Lyon-Saint-Étienne,FRA-L1,17-18,4758588c
+148e136f,Rémy Cabella,10,FRA,"AM,DM",27-354,90,0,1,0,0,0,0,0,0,88,2,2,1,0.0,0.0,0.7,5,1,58,76,76.3,9,48,4,6,4,Saint-Étienne,2018-02-25 Lyon-Saint-Étienne,FRA-L1,17-18,4758588c
+4db2157a,Ole Selnæs,17,NOR,DM,23-233,66,0,0,0,0,0,0,1,0,49,3,0,1,0.0,0.0,0.0,0,0,37,43,86.0,3,23,0,0,0,Saint-Étienne,2018-02-25 Lyon-Saint-Étienne,FRA-L1,17-18,4758588c
+81aeb1dd,Paul-Georges Ntep,7,CMR,"DM,LW",25-211,24,0,0,0,0,0,0,0,0,13,1,0,1,0.0,0.0,0.0,2,1,7,11,63.6,2,5,0,0,0,Saint-Étienne,2018-02-25 Lyon-Saint-Étienne,FRA-L1,17-18,4758588c
+d4133fa1,Yann M'Vila,6,FRA,DM,27-241,90,0,0,0,0,0,0,0,0,79,4,2,0,0.0,0.0,0.0,0,0,64,70,91.4,7,42,3,1,1,Saint-Étienne,2018-02-25 Lyon-Saint-Étienne,FRA-L1,17-18,4758588c
+4914ed4a,Gabriel Silva,11,BRA,LB,26-288,87,0,0,0,0,0,0,0,0,52,1,3,0,0.0,0.0,0.0,0,0,41,46,89.1,3,25,1,0,0,Saint-Étienne,2018-02-25 Lyon-Saint-Étienne,FRA-L1,17-18,4758588c
+7f622eef,Assane Dioussé,8,SEN,LB,20-158,3,0,0,0,0,0,0,0,0,7,1,0,0,0.0,0.0,0.0,0,0,2,5,40.0,0,2,0,1,1,Saint-Étienne,2018-02-25 Lyon-Saint-Étienne,FRA-L1,17-18,4758588c
+6b200d45,Loïc Perrin,24,FRA,CB,32-202,90,0,0,0,0,0,0,0,0,59,4,1,1,0.0,0.0,0.0,0,0,49,52,94.2,2,26,0,0,0,Saint-Étienne,2018-02-25 Lyon-Saint-Étienne,FRA-L1,17-18,4758588c
+821233cc,Neven Subotić,28,SRB,CB,29-077,90,0,0,0,0,1,0,1,0,57,1,0,1,0.1,0.1,0.0,0,0,42,50,84.0,2,28,0,0,0,Saint-Étienne,2018-02-25 Lyon-Saint-Étienne,FRA-L1,17-18,4758588c
+92232aad,Mathieu Debuchy,26,FRA,RB,32-212,90,1,0,0,0,2,1,0,0,76,1,0,2,0.6,0.6,0.0,0,0,38,58,65.5,5,30,2,3,1,Saint-Étienne,2018-02-25 Lyon-Saint-Étienne,FRA-L1,17-18,4758588c
+cac76a72,Stéphane Ruffier,16,FRA,GK,31-151,90,0,0,0,0,0,0,0,0,33,0,0,0,0.0,0.0,0.0,0,0,15,30,50.0,0,17,0,0,0,Saint-Étienne,2018-02-25 Lyon-Saint-Étienne,FRA-L1,17-18,4758588c

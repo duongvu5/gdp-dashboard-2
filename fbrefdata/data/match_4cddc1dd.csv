@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+0b4f388a,Breel Embolo,36,SUI,FW,23-358,57,0,0,0,0,3,0,0,0,25,2,0,1,0.2,0.2,0.0,1,0,10,13,76.9,0,13,0,2,1,Mönchengladbach,2021-02-06 Gladbach-Köln,GER-BL1,20-21,4cddc1dd
+bc6bd723,Alassane Pléa,14,FRA,FW,27-333,33,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,5,7,71.4,0,6,1,0,0,Mönchengladbach,2021-02-06 Gladbach-Köln,GER-BL1,20-21,4cddc1dd
+be42a291,Hannes Wolf,11,AUT,LW,21-296,57,0,0,0,0,0,0,0,0,32,1,0,1,0.0,0.0,0.0,0,0,22,26,84.6,1,18,1,0,0,Mönchengladbach,2021-02-06 Gladbach-Köln,GER-BL1,20-21,4cddc1dd
+6f8cd6d0,Marcus Thuram,10,FRA,LW,23-184,33,0,0,0,0,0,0,0,0,16,1,0,0,0.0,0.0,0.0,0,0,7,10,70.0,1,7,2,2,1,Mönchengladbach,2021-02-06 Gladbach-Köln,GER-BL1,20-21,4cddc1dd
+dfb6490a,Patrick Herrmann,7,GER,RW,29-360,57,0,0,0,0,0,0,1,0,21,0,0,0,0.0,0.0,0.0,0,0,12,20,60.0,1,6,0,1,0,Mönchengladbach,2021-02-06 Gladbach-Köln,GER-BL1,20-21,4cddc1dd
+2903a856,Jonas Hofmann,23,GER,RW,28-207,33,0,0,0,0,0,0,0,0,32,0,0,1,0.0,0.0,0.0,0,0,25,28,89.3,6,23,0,0,0,Mönchengladbach,2021-02-06 Gladbach-Köln,GER-BL1,20-21,4cddc1dd
+7cd6badb,Lars Stindl,13,GER,AM,32-164,90,0,1,0,0,2,0,1,0,65,0,0,0,0.1,0.1,0.1,4,1,47,61,77.0,3,42,2,1,1,Mönchengladbach,2021-02-06 Gladbach-Köln,GER-BL1,20-21,4cddc1dd
+36a59ba4,Florian Neuhaus,32,GER,DM,23-327,90,1,0,0,0,3,1,1,0,108,0,0,2,0.1,0.1,0.1,3,0,83,98,84.7,13,85,2,4,3,Mönchengladbach,2021-02-06 Gladbach-Köln,GER-BL1,20-21,4cddc1dd
+384d58d9,Denis Zakaria,8,SUI,DM,24-078,47,0,0,0,0,0,0,0,0,39,1,2,1,0.0,0.0,0.0,0,0,30,30,100.0,2,27,0,1,0,Mönchengladbach,2021-02-06 Gladbach-Köln,GER-BL1,20-21,4cddc1dd
+496aeede,Christoph Kramer,6,GER,DM,29-353,43,0,0,0,0,0,0,0,0,47,1,0,0,0.0,0.0,0.0,2,0,42,46,91.3,4,32,0,0,0,Mönchengladbach,2021-02-06 Gladbach-Köln,GER-BL1,20-21,4cddc1dd
+b69261a0,Oscar Wendt,17,SWE,LB,35-105,71,0,0,0,0,0,0,0,0,65,0,1,1,0.0,0.0,0.0,0,0,54,62,87.1,7,38,0,1,1,Mönchengladbach,2021-02-06 Gladbach-Köln,GER-BL1,20-21,4cddc1dd
+378825c7,Ramy Bensebaini,25,ALG,LB,25-296,19,0,0,0,0,1,0,0,0,17,0,1,0,0.0,0.0,0.0,0,0,11,15,73.3,0,9,0,0,0,Mönchengladbach,2021-02-06 Gladbach-Köln,GER-BL1,20-21,4cddc1dd
+34b54da7,Tony Jantschke,24,GER,CB,30-305,90,0,0,0,0,1,1,1,0,123,1,1,1,0.1,0.1,0.0,2,0,110,117,94.0,7,91,0,0,0,Mönchengladbach,2021-02-06 Gladbach-Köln,GER-BL1,20-21,4cddc1dd
+f521b80a,Matthias Ginter,28,GER,CB,27-018,90,0,0,0,0,0,0,0,0,135,0,1,0,0.0,0.0,0.1,3,1,116,132,87.9,13,108,9,0,0,Mönchengladbach,2021-02-06 Gladbach-Köln,GER-BL1,20-21,4cddc1dd
+4aea5077,Stefan Lainer,18,AUT,RB,28-163,90,0,0,0,0,0,0,0,0,80,0,0,6,0.0,0.0,0.1,2,0,47,65,72.3,1,51,4,2,0,Mönchengladbach,2021-02-06 Gladbach-Köln,GER-BL1,20-21,4cddc1dd
+420c18a1,Yann Sommer,1,SUI,GK,32-051,90,0,0,0,0,0,0,0,0,28,0,0,0,0.0,0.0,0.0,0,0,26,26,100.0,2,16,0,0,0,Mönchengladbach,2021-02-06 Gladbach-Köln,GER-BL1,20-21,4cddc1dd
+79ca3e23,Ondrej Duda,18,SVK,FW,26-063,89,0,1,0,0,2,1,0,0,58,2,0,2,0.3,0.3,0.1,1,1,33,47,70.2,5,31,2,2,2,Köln,2021-02-06 Gladbach-Köln,GER-BL1,20-21,4cddc1dd
+a42760bc,Tolu Arokodare,7,NGA,FW,20-075,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Köln,2021-02-06 Gladbach-Köln,GER-BL1,20-21,4cddc1dd
+2c44a35d,Emmanuel Dennis,43,NGA,FW,23-083,57,0,0,0,0,0,0,0,0,16,1,0,0,0.0,0.0,0.0,0,0,8,11,72.7,0,7,0,1,1,Köln,2021-02-06 Gladbach-Köln,GER-BL1,20-21,4cddc1dd
+fd53759d,Jan Thielmann,29,GER,FW,18-256,33,0,0,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.0,1,0,5,8,62.5,1,5,0,0,0,Köln,2021-02-06 Gladbach-Köln,GER-BL1,20-21,4cddc1dd
+a0415710,Ismail Jakobs,8,SEN,LW,21-173,89,0,0,0,0,1,0,0,0,53,1,1,1,0.1,0.1,0.0,2,0,23,40,57.5,0,21,1,0,0,Köln,2021-02-06 Gladbach-Köln,GER-BL1,20-21,4cddc1dd
+2b83fa49,Jannes Horn,23,GER,LW,24-000,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Köln,2021-02-06 Gladbach-Köln,GER-BL1,20-21,4cddc1dd
+76b2817e,Kingsley Ehizibue,19,NED,RW,25-257,82,0,0,0,0,1,0,1,0,50,1,2,5,0.0,0.0,0.0,1,0,31,38,81.6,4,21,2,2,2,Köln,2021-02-06 Gladbach-Köln,GER-BL1,20-21,4cddc1dd
+ad00b1a8,Benno Schmitz,2,GER,RW,26-081,8,0,0,0,0,0,0,0,0,3,0,0,1,0.0,0.0,0.0,0,0,2,2,100.0,0,0,0,0,0,Köln,2021-02-06 Gladbach-Köln,GER-BL1,20-21,4cddc1dd
+1ae836b1,Elvis Rexhbeçaj,20,GER,CM,23-097,90,2,0,0,0,3,2,1,0,47,4,3,2,0.3,0.3,0.1,2,0,22,28,78.6,5,21,3,1,1,Köln,2021-02-06 Gladbach-Köln,GER-BL1,20-21,4cddc1dd
+15413fa5,Salih Özcan,21,TUR,CM,23-026,90,0,0,0,0,0,0,0,0,41,0,0,0,0.0,0.0,0.3,3,1,28,37,75.7,3,28,1,1,1,Köln,2021-02-06 Gladbach-Köln,GER-BL1,20-21,4cddc1dd
+c2211709,Ellyes Skhiri,28,TUN,DM,25-272,90,0,0,0,0,0,0,0,0,46,4,4,1,0.0,0.0,0.0,2,0,33,35,94.3,1,17,1,1,1,Köln,2021-02-06 Gladbach-Köln,GER-BL1,20-21,4cddc1dd
+b0a0698b,Rafael Czichos,5,GER,CB,30-268,90,0,0,0,0,0,0,0,0,63,1,1,1,0.0,0.0,0.0,0,0,38,55,69.1,2,35,0,0,0,Köln,2021-02-06 Gladbach-Köln,GER-BL1,20-21,4cddc1dd
+9f979eb2,Jorge Meré,22,ESP,CB,23-295,90,0,0,0,0,0,0,0,0,40,0,0,2,0.0,0.0,0.0,0,0,23,26,88.5,0,15,0,0,0,Köln,2021-02-06 Gladbach-Köln,GER-BL1,20-21,4cddc1dd
+0b7dae21,Sava Cestic,26,SRB,CB,19-353,90,0,0,0,0,0,0,0,0,63,2,2,2,0.0,0.0,0.0,0,0,37,46,80.4,0,29,0,0,0,Köln,2021-02-06 Gladbach-Köln,GER-BL1,20-21,4cddc1dd
+3cd9e95a,Timo Horn,1,GER,GK,27-270,90,0,0,0,0,0,0,0,0,48,0,0,0,0.0,0.0,0.0,0,0,32,48,66.7,0,30,0,0,0,Köln,2021-02-06 Gladbach-Köln,GER-BL1,20-21,4cddc1dd

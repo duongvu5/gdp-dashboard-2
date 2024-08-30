@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+e067808c,Alexandre Mendy,15,GNB,FW,23-253,90,2,0,0,0,5,3,0,0,29,1,1,0,0.6,0.6,0.1,3,1,14,21,66.7,3,17,1,1,1,Bordeaux,2017-11-28 Bordeaux-Saint-Étienne,FRA-L1,17-18,5243771d
+8d043f1d,Jonathan Cafu,22,BRA,LW,26-141,80,0,1,0,0,0,0,1,0,37,3,1,0,0.0,0.0,0.0,2,1,22,28,78.6,1,30,3,2,1,Bordeaux,2017-11-28 Bordeaux-Saint-Étienne,FRA-L1,17-18,5243771d
+942c6dc3,Ervin Taha,33,FRA,LW,18-259,10,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,2,4,50.0,0,4,0,0,0,Bordeaux,2017-11-28 Bordeaux-Saint-Étienne,FRA-L1,17-18,5243771d
+6853490f,Malcom,7,BRA,RW,20-275,86,1,0,0,0,2,2,0,0,46,0,1,0,0.1,0.1,0.2,4,0,31,38,81.6,1,35,3,3,2,Bordeaux,2017-11-28 Bordeaux-Saint-Étienne,FRA-L1,17-18,5243771d
+e2f9bb5f,Zaydou Youssouf,32,FRA,RW,18-140,4,0,0,0,0,0,0,0,0,4,1,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,3,1,0,0,Bordeaux,2017-11-28 Bordeaux-Saint-Étienne,FRA-L1,17-18,5243771d
+dcf7cf44,Valentín Vada,23,ARG,AM,21-267,78,0,1,0,0,2,1,0,0,66,1,1,0,0.1,0.1,0.0,4,1,44,56,78.6,3,35,1,3,2,Bordeaux,2017-11-28 Bordeaux-Saint-Étienne,FRA-L1,17-18,5243771d
+516dc25b,Jaroslav Plašil,18,CZE,AM,35-327,12,0,0,0,0,0,0,0,0,10,1,0,0,0.0,0.0,0.0,2,0,6,9,66.7,0,4,0,0,0,Bordeaux,2017-11-28 Bordeaux-Saint-Étienne,FRA-L1,17-18,5243771d
+1b82f8df,Lukas Lerager,19,DEN,DM,24-139,90,0,0,0,0,0,0,0,0,54,4,4,0,0.0,0.0,0.0,2,0,34,44,77.3,6,33,0,1,1,Bordeaux,2017-11-28 Bordeaux-Saint-Étienne,FRA-L1,17-18,5243771d
+243f4a0b,Otávio,5,BRA,DM,23-208,90,0,0,0,0,1,0,0,0,52,3,6,2,0.0,0.0,0.0,1,0,33,38,86.8,5,29,0,0,0,Bordeaux,2017-11-28 Bordeaux-Saint-Étienne,FRA-L1,17-18,5243771d
+fbbb9269,Youssouf Sabaly,20,SEN,LB,24-268,90,0,1,0,0,2,0,0,0,65,2,1,2,0.0,0.0,0.1,2,2,41,53,77.4,3,37,7,2,1,Bordeaux,2017-11-28 Bordeaux-Saint-Étienne,FRA-L1,17-18,5243771d
+7adea561,Jérémy Toulalan,14,FRA,CB,34-079,90,0,0,0,0,0,0,0,0,46,2,3,0,0.0,0.0,0.0,0,0,32,36,88.9,3,27,0,1,0,Bordeaux,2017-11-28 Bordeaux-Saint-Étienne,FRA-L1,17-18,5243771d
+0eb03d5b,Vukašin Jovanović,4,SRB,CB,21-195,90,0,0,0,0,0,0,0,0,32,1,1,1,0.0,0.0,0.0,0,0,15,20,75.0,0,13,0,0,0,Bordeaux,2017-11-28 Bordeaux-Saint-Étienne,FRA-L1,17-18,5243771d
+9f6325f9,Milan Gajić,2,SRB,RB,21-304,90,0,0,0,0,0,0,0,0,66,4,1,4,0.0,0.0,0.0,0,0,40,52,76.9,6,28,2,0,0,Bordeaux,2017-11-28 Bordeaux-Saint-Étienne,FRA-L1,17-18,5243771d
+2434f24a,Benoît Costil,1,FRA,GK,30-148,90,0,0,0,0,0,0,0,0,42,0,0,0,0.0,0.0,0.0,0,0,24,39,61.5,0,20,0,0,0,Bordeaux,2017-11-28 Bordeaux-Saint-Étienne,FRA-L1,17-18,5243771d
+b2bd0f6c,Jonathan Bamba,14,CIV,"FW,RW",21-247,90,0,0,0,0,2,2,0,0,50,0,0,2,0.1,0.1,0.0,2,0,31,40,77.5,2,36,5,3,1,Saint-Étienne,2017-11-28 Bordeaux-Saint-Étienne,FRA-L1,17-18,5243771d
+4be0b467,Lois Diony,9,FRA,"FW,LW",24-343,69,0,0,0,0,1,0,0,0,27,0,0,0,0.1,0.1,0.0,5,0,15,22,68.2,6,14,1,2,2,Saint-Étienne,2017-11-28 Bordeaux-Saint-Étienne,FRA-L1,17-18,5243771d
+743fd71f,Vagner Gonçalves,33,CPV,LW,21-322,21,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,3,5,60.0,0,5,0,0,0,Saint-Étienne,2017-11-28 Bordeaux-Saint-Étienne,FRA-L1,17-18,5243771d
+6f5ead86,Hernani,20,BRA,AM,23-246,90,0,0,0,0,2,0,0,0,63,5,1,1,0.1,0.1,0.5,4,0,44,53,83.0,8,29,4,5,4,Saint-Étienne,2017-11-28 Bordeaux-Saint-Étienne,FRA-L1,17-18,5243771d
+f86ca403,Vincent Pajot,5,FRA,"CM,DM",27-101,90,0,0,0,0,1,1,1,0,67,1,1,1,0.0,0.0,0.1,3,0,52,60,86.7,9,33,4,1,1,Saint-Étienne,2017-11-28 Bordeaux-Saint-Étienne,FRA-L1,17-18,5243771d
+7f622eef,Assane Dioussé,8,SEN,"CM,DM",20-069,90,0,0,0,0,1,0,0,0,61,4,1,1,0.0,0.0,0.0,1,0,45,51,88.2,7,30,1,0,0,Saint-Étienne,2017-11-28 Bordeaux-Saint-Étienne,FRA-L1,17-18,5243771d
+689c9cf4,Saidy Janko,15,GAM,"WB,LB",22-037,90,0,0,0,0,2,1,1,0,71,1,0,6,0.0,0.0,0.1,2,0,34,54,63.0,7,34,7,3,1,Saint-Étienne,2017-11-28 Bordeaux-Saint-Étienne,FRA-L1,17-18,5243771d
+c53083ad,Bryan Dabo,7,BFA,WB,25-283,55,0,0,0,0,1,0,0,0,45,0,0,0,0.1,0.1,0.0,1,0,32,41,78.0,2,19,2,3,2,Saint-Étienne,2017-11-28 Bordeaux-Saint-Étienne,FRA-L1,17-18,5243771d
+e61d33f1,Alexander Søderlund,23,NOR,FW,30-117,35,0,0,0,0,1,0,0,0,10,0,0,0,0.0,0.0,0.0,0,0,6,7,85.7,1,6,0,0,0,Saint-Étienne,2017-11-28 Bordeaux-Saint-Étienne,FRA-L1,17-18,5243771d
+1e23a224,Florentin Pogba,19,GUI,CB,27-101,51,0,0,0,0,0,0,0,0,26,0,1,0,0.0,0.0,0.0,0,0,23,24,95.8,3,21,1,0,0,Saint-Étienne,2017-11-28 Bordeaux-Saint-Étienne,FRA-L1,17-18,5243771d
+64ba07c0,Ronaël Pierre-Gabriel,29,FRA,"RB,CB",19-168,39,0,0,0,0,0,0,0,0,21,1,0,0,0.0,0.0,0.0,1,0,14,18,77.8,4,8,0,0,0,Saint-Étienne,2017-11-28 Bordeaux-Saint-Étienne,FRA-L1,17-18,5243771d
+6b200d45,Loïc Perrin,24,FRA,CB,32-113,90,0,0,0,0,1,0,0,0,65,0,2,2,0.5,0.5,0.1,2,0,48,53,90.6,2,37,0,0,0,Saint-Étienne,2017-11-28 Bordeaux-Saint-Étienne,FRA-L1,17-18,5243771d
+6b994195,Kévin Théophile-Catherine,2,FRA,CB,28-031,90,0,0,0,0,0,0,0,0,67,3,3,0,0.0,0.0,0.0,0,0,40,52,76.9,2,40,2,2,2,Saint-Étienne,2017-11-28 Bordeaux-Saint-Étienne,FRA-L1,17-18,5243771d
+cac76a72,Stéphane Ruffier,16,FRA,GK,31-062,90,0,0,0,0,0,0,0,0,33,0,0,0,0.0,0.0,0.0,0,0,24,33,72.7,0,20,0,0,0,Saint-Étienne,2017-11-28 Bordeaux-Saint-Étienne,FRA-L1,17-18,5243771d

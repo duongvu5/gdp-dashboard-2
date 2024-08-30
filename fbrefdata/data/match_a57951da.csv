@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+ca618d23,Lucas Höler,9,GER,FW,27-162,90,0,0,0,0,1,1,1,0,45,0,1,1,0.1,0.1,0.1,4,0,23,33,69.7,2,19,3,0,0,Freiburg,2021-12-19 Freiburg-Leverkusen,GER-BL1,21-22,a57951da
+54e4866f,Vincenzo Grifo,32,ITA,LW,28-256,79,1,0,1,1,1,0,0,0,46,0,0,0,0.8,0.0,0.2,3,0,26,41,63.4,3,20,2,0,0,Freiburg,2021-12-19 Freiburg-Leverkusen,GER-BL1,21-22,a57951da
+ed79b7d3,Ermedin Demirović,11,BIH,AM,23-269,11,0,1,0,0,0,0,0,0,6,0,0,1,0.0,0.0,0.5,1,1,3,4,75.0,0,2,1,0,0,Freiburg,2021-12-19 Freiburg-Leverkusen,GER-BL1,21-22,a57951da
+6190474d,Jeong Woo-yeong,29,KOR,"RW,AM,LW",22-090,89,0,0,0,0,2,0,0,0,48,0,0,0,0.1,0.1,0.1,4,1,33,38,86.8,6,22,0,2,0,Freiburg,2021-12-19 Freiburg-Leverkusen,GER-BL1,21-22,a57951da
+f6bdc830,Keven Schlotterbeck,31,GER,LW,24-235,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Freiburg,2021-12-19 Freiburg-Leverkusen,GER-BL1,21-22,a57951da
+bf075f6b,Roland Sallai,22,HUN,AM,24-211,55,0,0,0,0,4,0,0,0,35,1,2,1,0.4,0.4,0.1,3,0,20,23,87.0,3,17,1,0,0,Freiburg,2021-12-19 Freiburg-Leverkusen,GER-BL1,21-22,a57951da
+52afb588,Kevin Schade,20,GER,RW,20-022,35,1,0,0,0,1,1,0,0,17,2,0,1,0.5,0.5,0.0,0,0,3,9,33.3,0,4,1,0,0,Freiburg,2021-12-19 Freiburg-Leverkusen,GER-BL1,21-22,a57951da
+5d8e331f,Nicolas Höfler,27,GER,DM,31-285,90,0,0,0,0,1,1,0,0,53,1,2,1,0.0,0.0,0.0,1,0,36,42,85.7,1,21,1,0,0,Freiburg,2021-12-19 Freiburg-Leverkusen,GER-BL1,21-22,a57951da
+70dcf94d,Janik Haberer,19,GER,DM,27-261,79,0,0,0,0,0,0,0,0,44,0,4,1,0.0,0.0,0.1,1,0,31,37,83.8,4,13,1,1,0,Freiburg,2021-12-19 Freiburg-Leverkusen,GER-BL1,21-22,a57951da
+beb882a8,Maximilian Eggestein,8,GER,DM,25-011,11,0,0,0,0,0,0,0,0,10,1,0,1,0.0,0.0,0.0,1,1,3,6,50.0,0,3,0,0,0,Freiburg,2021-12-19 Freiburg-Leverkusen,GER-BL1,21-22,a57951da
+8593f88c,Christian Günter,30,GER,LB,28-294,90,0,0,0,0,2,0,0,0,57,3,2,0,0.1,0.1,0.2,3,0,30,45,66.7,0,19,0,2,1,Freiburg,2021-12-19 Freiburg-Leverkusen,GER-BL1,21-22,a57951da
+34e12499,Nico Schlotterbeck,4,GER,CB,22-018,90,0,0,0,0,2,1,1,0,51,4,0,1,0.1,0.1,0.0,2,0,20,34,58.8,4,16,0,0,0,Freiburg,2021-12-19 Freiburg-Leverkusen,GER-BL1,21-22,a57951da
+302527b2,Philipp Lienhart,3,AUT,CB,25-161,90,0,0,0,0,0,0,0,0,49,0,2,0,0.0,0.0,0.0,1,0,35,44,79.5,5,22,0,0,0,Freiburg,2021-12-19 Freiburg-Leverkusen,GER-BL1,21-22,a57951da
+2a29eb9b,Lukas Kübler,17,GER,RB,29-111,90,0,0,0,0,0,0,0,0,57,3,1,0,0.0,0.0,0.0,3,0,36,48,75.0,6,26,1,1,1,Freiburg,2021-12-19 Freiburg-Leverkusen,GER-BL1,21-22,a57951da
+a92ab7be,Mark Flekken,26,NED,GK,28-189,90,0,0,0,0,0,0,0,0,36,0,1,0,0.0,0.0,0.0,0,0,27,34,79.4,0,21,0,0,0,Freiburg,2021-12-19 Freiburg-Leverkusen,GER-BL1,21-22,a57951da
+5d4f7d61,Patrik Schick,14,CZE,FW,25-329,74,0,0,0,0,1,0,0,0,22,0,0,0,0.0,0.0,0.0,0,0,13,18,72.2,0,9,0,0,0,Bayer Leverkusen,2021-12-19 Freiburg-Leverkusen,GER-BL1,21-22,a57951da
+834d0be5,Lucas Alario,13,ARG,FW,29-072,16,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,2,0,1,0,Bayer Leverkusen,2021-12-19 Freiburg-Leverkusen,GER-BL1,21-22,a57951da
+e7fcf289,Florian Wirtz,27,GER,AM,18-230,90,0,0,0,0,1,1,0,0,50,2,1,0,0.0,0.0,0.0,3,0,33,43,76.7,7,34,6,5,3,Bayer Leverkusen,2021-12-19 Freiburg-Leverkusen,GER-BL1,21-22,a57951da
+dcfb17f4,Amine Adli,31,MAR,AM,21-223,75,0,0,0,0,1,1,0,0,50,2,1,2,0.1,0.1,0.0,4,0,31,39,79.5,4,20,2,3,2,Bayer Leverkusen,2021-12-19 Freiburg-Leverkusen,GER-BL1,21-22,a57951da
+53070b63,Paulinho,7,BRA,AM,21-157,15,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,2,4,50.0,1,4,1,2,1,Bayer Leverkusen,2021-12-19 Freiburg-Leverkusen,GER-BL1,21-22,a57951da
+54b4dc4e,Kerem Demirbay,10,GER,LM,28-169,86,0,0,0,0,0,0,0,0,53,1,1,1,0.0,0.0,0.0,1,0,31,46,67.4,1,18,3,2,1,Bayer Leverkusen,2021-12-19 Freiburg-Leverkusen,GER-BL1,21-22,a57951da
+eec1f7f4,Zidan Sertdemir,29,DEN,LM,16-318,4,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,0,0,0,0,Bayer Leverkusen,2021-12-19 Freiburg-Leverkusen,GER-BL1,21-22,a57951da
+56413b1f,Charles Aránguiz,20,CHI,CM,32-246,79,1,0,0,0,2,2,0,0,58,1,1,0,0.6,0.6,0.1,1,0,39,50,78.0,3,26,0,0,0,Bayer Leverkusen,2021-12-19 Freiburg-Leverkusen,GER-BL1,21-22,a57951da
+e82adcab,Exequiel Palacios,25,ARG,CM,23-075,11,0,0,0,0,0,0,0,0,12,0,0,1,0.0,0.0,0.0,0,0,6,10,60.0,3,2,0,0,0,Bayer Leverkusen,2021-12-19 Freiburg-Leverkusen,GER-BL1,21-22,a57951da
+e0b113a7,Robert Andrich,8,GER,RM,27-088,90,0,0,0,0,1,0,1,0,48,1,1,2,0.0,0.0,0.0,1,0,36,42,85.7,5,19,0,0,0,Bayer Leverkusen,2021-12-19 Freiburg-Leverkusen,GER-BL1,21-22,a57951da
+73000a79,Daley Sinkgraven,22,NED,LB,26-168,86,0,0,0,0,0,0,0,0,58,0,1,1,0.0,0.0,0.0,1,0,36,51,70.6,1,26,3,2,2,Bayer Leverkusen,2021-12-19 Freiburg-Leverkusen,GER-BL1,21-22,a57951da
+a8567629,Mitchel Bakker,5,NED,LB,21-182,4,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,0,0,0,0,Bayer Leverkusen,2021-12-19 Freiburg-Leverkusen,GER-BL1,21-22,a57951da
+bd142efb,Jonathan Tah,4,GER,CB,25-311,90,0,1,0,0,1,0,0,0,93,0,3,2,0.1,0.1,0.6,1,1,64,75,85.3,4,48,0,1,1,Bayer Leverkusen,2021-12-19 Freiburg-Leverkusen,GER-BL1,21-22,a57951da
+1f3afdcb,Odilon Kossonou,6,CIV,CB,20-349,90,0,0,0,0,0,0,1,0,84,1,1,0,0.0,0.0,0.0,0,0,63,77,81.8,3,51,0,1,1,Bayer Leverkusen,2021-12-19 Freiburg-Leverkusen,GER-BL1,21-22,a57951da
+74f2e748,Jeremie Frimpong,30,NED,RB,21-009,90,0,0,0,0,0,0,1,0,66,0,0,2,0.0,0.0,0.0,0,0,46,56,82.1,1,34,8,1,0,Bayer Leverkusen,2021-12-19 Freiburg-Leverkusen,GER-BL1,21-22,a57951da
+ad3389d5,Lukáš Hrádecký,1,FIN,GK,32-025,90,0,0,0,0,0,0,0,0,60,0,0,0,0.0,0.0,0.0,0,0,44,55,80.0,0,33,0,0,0,Bayer Leverkusen,2021-12-19 Freiburg-Leverkusen,GER-BL1,21-22,a57951da

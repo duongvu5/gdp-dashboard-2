@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+b70afb45,Thijs Dallinga,9,NED,FW,23-136,90,0,0,0,0,2,0,1,0,34,0,0,0,0.1,0.1,0.0,2,0,13,24,54.2,3,26,4,1,0,Toulouse,2023-12-17 Toulouse-Rennes,FRA-L1,23-24,8197fd69
+ed55b838,Gelabert,11,ESP,FW,23-047,70,0,0,0,0,2,0,0,0,47,0,0,1,0.1,0.1,0.3,3,0,32,40,80.0,5,34,1,3,1,Toulouse,2023-12-17 Toulouse-Rennes,FRA-L1,23-24,8197fd69
+d7547531,Naatan Skyttä,22,FIN,FW,21-224,20,0,0,0,0,1,0,0,0,13,1,0,0,0.1,0.1,0.0,1,0,7,9,77.8,2,8,0,0,0,Toulouse,2023-12-17 Toulouse-Rennes,FRA-L1,23-24,8197fd69
+39b326ed,Gabriel Suazo,17,CHI,LM,26-130,81,0,0,0,0,2,2,0,0,52,1,0,1,0.2,0.2,0.1,7,0,33,44,75.0,2,44,3,2,0,Toulouse,2023-12-17 Toulouse-Rennes,FRA-L1,23-24,8197fd69
+5e6355f8,Yanis Begraoui,14,MAR,LM,22-166,9,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,6,6,100.0,0,7,0,0,0,Toulouse,2023-12-17 Toulouse-Rennes,FRA-L1,23-24,8197fd69
+f86fe8c1,Cristian Cásseres Jr.,24,VEN,CM,23-331,70,0,0,0,0,1,0,0,0,41,2,2,0,0.1,0.1,0.0,0,0,29,33,87.9,2,27,0,0,0,Toulouse,2023-12-17 Toulouse-Rennes,FRA-L1,23-24,8197fd69
+a08985b8,Stijn Spierings,4,NED,CM,27-280,20,0,0,0,0,0,0,0,0,11,0,1,0,0.0,0.0,0.0,0,0,7,7,100.0,2,8,0,3,0,Toulouse,2023-12-17 Toulouse-Rennes,FRA-L1,23-24,8197fd69
+92ffb8f9,Vincent Sierro,8,SUI,CM,28-070,90,0,0,0,0,2,1,0,0,69,2,2,1,0.1,0.1,0.1,4,0,38,57,66.7,5,38,1,0,0,Toulouse,2023-12-17 Toulouse-Rennes,FRA-L1,23-24,8197fd69
+abddf25d,Ibrahim Cissoko,10,NED,RM,20-266,56,0,0,0,0,2,1,0,0,36,1,0,1,0.1,0.1,0.0,2,0,21,28,75.0,3,28,3,3,2,Toulouse,2023-12-17 Toulouse-Rennes,FRA-L1,23-24,8197fd69
+42fdb11d,Frank Magri,19,CMR,RM,24-104,34,0,0,0,0,1,0,0,0,24,1,1,1,0.0,0.0,0.1,6,0,13,17,76.5,3,18,5,2,1,Toulouse,2023-12-17 Toulouse-Rennes,FRA-L1,23-24,8197fd69
+698f11e3,Moussa Diarra,23,MLI,LB,23-037,90,0,0,0,0,0,0,1,0,58,1,3,3,0.0,0.0,0.0,1,0,37,46,80.4,2,38,2,1,1,Toulouse,2023-12-17 Toulouse-Rennes,FRA-L1,23-24,8197fd69
+3f319bb9,Rasmus Nicolaisen,2,DEN,CB,26-276,90,0,0,0,0,1,0,0,0,65,1,1,1,0.0,0.0,0.0,2,0,47,55,85.5,2,34,0,0,0,Toulouse,2023-12-17 Toulouse-Rennes,FRA-L1,23-24,8197fd69
+bfb2056e,Logan Costa,6,CPV,CB,22-260,90,0,0,0,0,0,0,1,0,52,1,1,3,0.0,0.0,0.0,0,0,29,40,72.5,2,29,1,1,1,Toulouse,2023-12-17 Toulouse-Rennes,FRA-L1,23-24,8197fd69
+1d5c96f8,Mikkel Desler,3,DEN,RB,28-301,56,0,0,0,0,1,0,0,0,38,1,0,1,0.1,0.1,0.0,1,0,27,32,84.4,4,22,2,0,0,Toulouse,2023-12-17 Toulouse-Rennes,FRA-L1,23-24,8197fd69
+2c70d915,Christian Mawissa,13,FRA,RB,18-243,34,0,0,0,0,0,0,0,0,23,1,0,2,0.0,0.0,0.0,0,0,12,17,70.6,1,19,2,3,1,Toulouse,2023-12-17 Toulouse-Rennes,FRA-L1,23-24,8197fd69
+6b91b999,Guillaume Restes,50,FRA,GK,18-281,90,0,0,0,0,0,0,0,0,26,0,0,0,0.0,0.0,0.0,0,0,18,23,78.3,0,20,0,0,0,Toulouse,2023-12-17 Toulouse-Rennes,FRA-L1,23-24,8197fd69
+bf4c41f9,Arnaud Kalimuendo,9,FRA,FW,21-331,90,0,0,0,0,1,0,0,0,29,0,0,0,0.1,0.1,0.1,2,0,15,23,65.2,1,23,2,1,0,Rennes,2023-12-17 Toulouse-Rennes,FRA-L1,23-24,8197fd69
+5148dcc5,Martin Terrier,7,FRA,AM,26-288,77,0,0,0,0,2,1,0,0,35,0,0,0,0.1,0.1,0.0,2,0,21,27,77.8,3,29,5,7,4,Rennes,2023-12-17 Toulouse-Rennes,FRA-L1,23-24,8197fd69
+7410d325,Bertuğ Yıldırım,99,TUR,FW,21-158,13,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,4,0,0,0,Rennes,2023-12-17 Toulouse-Rennes,FRA-L1,23-24,8197fd69
+6191093d,Ludovic Blas,11,FRA,AM,25-351,77,0,0,0,0,1,0,0,0,40,0,1,2,0.1,0.1,0.2,2,0,22,26,84.6,5,27,1,1,0,Rennes,2023-12-17 Toulouse-Rennes,FRA-L1,23-24,8197fd69
+9e7483ff,Désiré Doué,33,FRA,AM,18-197,13,0,0,0,0,0,0,0,0,16,0,0,0,0.0,0.0,0.2,3,0,9,16,56.3,2,10,0,0,0,Rennes,2023-12-17 Toulouse-Rennes,FRA-L1,23-24,8197fd69
+5e22e2a4,Baptiste Santamaria,8,FRA,CM,28-283,90,0,0,0,0,0,0,0,0,53,4,1,0,0.0,0.0,0.0,2,0,39,41,95.1,6,33,0,2,2,Rennes,2023-12-17 Toulouse-Rennes,FRA-L1,23-24,8197fd69
+6f806d99,Enzo Le Fée,28,FRA,CM,23-317,56,0,0,0,0,0,0,1,0,41,1,1,2,0.0,0.0,0.0,1,0,25,33,75.8,3,29,2,3,2,Rennes,2023-12-17 Toulouse-Rennes,FRA-L1,23-24,8197fd69
+eb7822d7,Nemanja Matić,21,SRB,CM,35-138,34,0,0,0,0,2,0,0,0,37,1,1,1,0.2,0.2,0.0,1,0,26,29,89.7,1,27,1,0,0,Rennes,2023-12-17 Toulouse-Rennes,FRA-L1,23-24,8197fd69
+5d0e0a1f,Adrien Truffert,3,FRA,WB,22-027,57,0,0,0,0,0,0,0,0,46,3,0,2,0.0,0.0,0.0,0,0,27,36,75.0,4,30,0,2,1,Rennes,2023-12-17 Toulouse-Rennes,FRA-L1,23-24,8197fd69
+8bfbf257,Mahamadou Nagida,43,CMR,WB,18-172,33,0,0,0,0,2,1,0,0,31,0,1,0,0.1,0.1,0.0,2,0,19,27,70.4,0,26,2,0,0,Rennes,2023-12-17 Toulouse-Rennes,FRA-L1,23-24,8197fd69
+b026bbf6,Lorenz Assignon,22,TOG,WB,23-178,28,0,0,0,0,0,0,0,0,14,0,1,0,0.0,0.0,0.0,0,0,10,11,90.9,2,12,0,1,0,Rennes,2023-12-17 Toulouse-Rennes,FRA-L1,23-24,8197fd69
+b4ef3fb5,Guela Doué,17,CIV,WB,21-061,62,0,0,0,0,1,1,0,0,53,2,1,0,0.0,0.0,0.0,2,0,30,43,69.8,3,31,5,3,3,Rennes,2023-12-17 Toulouse-Rennes,FRA-L1,23-24,8197fd69
+df8d6029,Arthur Theate,5,BEL,CB,23-206,90,0,0,0,0,1,0,0,0,80,2,3,3,0.0,0.0,0.0,0,0,61,68,89.7,8,58,1,0,0,Rennes,2023-12-17 Toulouse-Rennes,FRA-L1,23-24,8197fd69
+4534a352,Warmed Omari,23,FRA,CB,23-238,90,0,0,0,0,0,0,1,0,61,0,3,1,0.0,0.0,0.0,0,0,44,49,89.8,5,40,0,0,0,Rennes,2023-12-17 Toulouse-Rennes,FRA-L1,23-24,8197fd69
+b003239d,Christopher Wooh,15,CMR,CB,22-090,90,0,0,0,0,1,1,0,0,56,1,2,3,0.2,0.2,0.0,2,0,26,38,68.4,3,33,1,2,0,Rennes,2023-12-17 Toulouse-Rennes,FRA-L1,23-24,8197fd69
+1d2d5cc8,Steve Mandanda,30,FRA,GK,38-264,90,0,0,0,0,0,0,0,0,35,2,0,0,0.0,0.0,0.0,0,0,17,31,54.8,0,25,0,0,0,Rennes,2023-12-17 Toulouse-Rennes,FRA-L1,23-24,8197fd69

@@ -1,0 +1,28 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+eac044ad,Moanes Dabbur,9,ISR,FW,25-137,90,1,0,0,0,4,3,0,0,46,3,0,0,0.8,0.8,0.0,3,0,15,26,57.7,1,23,0,5,3,Red Bull Salzburg,2017-09-28 RB Salzburg-Marseille,UEL,17-18,e761a6a8
+be42a291,Hannes Wolf,13,AUT,FW,18-165,90,0,0,0,0,1,0,0,0,38,1,0,2,0.1,0.1,0.0,7,0,13,21,61.9,1,22,3,7,3,Red Bull Salzburg,2017-09-28 RB Salzburg-Marseille,UEL,17-18,e761a6a8
+8f056768,Xaver Schlager,42,AUT,AM,20-000,58,0,0,0,0,1,0,0,0,26,1,0,1,0.1,0.1,0.1,2,0,9,18,50.0,2,16,3,0,0,Red Bull Salzburg,2017-09-28 RB Salzburg-Marseille,UEL,17-18,e761a6a8
+583d6c1f,David Atanga,20,GHA,AM,20-277,32,0,0,0,0,1,0,0,0,10,0,0,0,0.1,0.1,0.0,0,0,7,9,77.8,1,7,0,1,1,Red Bull Salzburg,2017-09-28 RB Salzburg-Marseille,UEL,17-18,e761a6a8
+d5575935,Valon Berisha,14,KVX,LM,24-233,90,0,0,0,0,2,0,0,0,68,6,3,1,0.1,0.1,0.3,5,0,44,53,83.0,7,42,1,5,4,Red Bull Salzburg,2017-09-28 RB Salzburg-Marseille,UEL,17-18,e761a6a8
+08593525,Diadie Samassékou,8,MLI,CM,21-260,90,0,0,0,0,0,0,0,0,56,8,6,1,0.0,0.0,0.0,1,0,30,42,71.4,4,15,0,0,0,Red Bull Salzburg,2017-09-28 RB Salzburg-Marseille,UEL,17-18,e761a6a8
+92432bc6,Amadou Haidara,4,MLI,RM,19-240,90,0,0,0,0,1,0,0,0,63,5,0,2,0.0,0.0,0.0,1,1,26,46,56.5,6,25,1,4,2,Red Bull Salzburg,2017-09-28 RB Salzburg-Marseille,UEL,17-18,e761a6a8
+1a799243,Andreas Ulmer,17,AUT,LB,31-333,90,0,0,0,0,0,0,0,0,64,2,2,2,0.0,0.0,0.1,1,0,33,50,66.0,3,30,1,4,2,Red Bull Salzburg,2017-09-28 RB Salzburg-Marseille,UEL,17-18,e761a6a8
+94f8d10c,Duje Ćaleta-Car,5,CRO,CB,21-011,90,0,0,0,0,0,0,1,0,75,3,2,3,0.0,0.0,0.0,0,0,51,59,86.4,8,39,0,0,0,Red Bull Salzburg,2017-09-28 RB Salzburg-Marseille,UEL,17-18,e761a6a8
+93a194e1,Paulo Miranda,3,BRA,CB,29-043,90,0,0,0,0,2,1,0,0,65,2,1,2,0.2,0.2,0.0,0,0,43,48,89.6,7,29,2,0,0,Red Bull Salzburg,2017-09-28 RB Salzburg-Marseille,UEL,17-18,e761a6a8
+4aea5077,Stefan Lainer,22,AUT,RB,25-032,90,0,1,0,0,0,0,0,0,90,6,4,2,0.0,0.0,0.5,1,1,49,76,64.5,7,33,4,2,2,Red Bull Salzburg,2017-09-28 RB Salzburg-Marseille,UEL,17-18,e761a6a8
+0be3255b,Alexander Walke,33,GER,GK,34-114,90,0,0,0,0,0,0,0,0,28,0,0,0,0.0,0.0,0.0,0,0,20,27,74.1,0,14,0,0,0,Red Bull Salzburg,2017-09-28 RB Salzburg-Marseille,UEL,17-18,e761a6a8
+ea0ff634,Valère Germain,28,FRA,FW,27-164,90,0,0,0,0,2,0,0,0,33,0,1,0,0.1,0.1,0.0,0,0,18,23,78.3,0,19,0,2,0,Marseille,2017-09-28 RB Salzburg-Marseille,UEL,17-18,e761a6a8
+6e7f1353,Morgan Sanson,8,FRA,"LW,LM",23-041,90,0,0,0,0,1,0,0,0,50,5,2,2,0.0,0.0,0.1,2,0,21,36,58.3,3,38,6,6,4,Marseille,2017-09-28 RB Salzburg-Marseille,UEL,17-18,e761a6a8
+2b9fdeea,Florian Thauvin,26,FRA,RW,24-245,73,0,0,0,0,3,1,0,0,60,1,0,0,0.2,0.2,0.4,6,0,29,46,63.0,5,50,4,8,7,Marseille,2017-09-28 RB Salzburg-Marseille,UEL,17-18,e761a6a8
+77f278a0,Clinton N'Jie,14,CMR,"RM,RW",24-044,17,0,0,0,0,1,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,4,4,100.0,0,3,0,3,1,Marseille,2017-09-28 RB Salzburg-Marseille,UEL,17-18,e761a6a8
+20094685,Maxime Lopez,27,FRA,AM,19-298,78,0,0,0,0,1,0,0,0,58,1,1,2,0.0,0.0,0.1,3,0,40,51,78.4,5,47,3,0,0,Marseille,2017-09-28 RB Salzburg-Marseille,UEL,17-18,e761a6a8
+c6ac6579,Kostas Mitroglou,11,GRE,FW,29-200,12,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,4,0,0,0,Marseille,2017-09-28 RB Salzburg-Marseille,UEL,17-18,e761a6a8
+82671804,Luiz Gustavo,19,BRA,DM,30-067,76,0,0,0,0,0,0,0,0,51,5,0,5,0.0,0.0,0.0,1,0,32,36,88.9,2,34,1,2,1,Marseille,2017-09-28 RB Salzburg-Marseille,UEL,17-18,e761a6a8
+6bb2c084,Andre-Frank Zambo Anguissa,29,CMR,DM,21-316,14,0,0,0,0,1,0,1,0,11,0,0,1,0.0,0.0,0.0,2,0,4,8,50.0,0,8,1,2,2,Marseille,2017-09-28 RB Salzburg-Marseille,UEL,17-18,e761a6a8
+cc77354e,Boubacar Kamara,4,FRA,"DM,CM",17-309,90,0,0,0,0,2,0,1,0,59,5,7,2,0.3,0.3,0.0,2,0,22,31,71.0,3,20,2,2,2,Marseille,2017-09-28 RB Salzburg-Marseille,UEL,17-18,e761a6a8
+51a3caf1,Patrice Evra,21,FRA,LB,36-136,90,0,0,0,0,1,0,0,0,88,2,4,0,0.0,0.0,0.0,2,0,45,64,70.3,3,39,3,5,5,Marseille,2017-09-28 RB Salzburg-Marseille,UEL,17-18,e761a6a8
+0eeafda5,Rolando,6,POR,CB,32-028,90,0,0,0,0,0,0,0,0,50,2,2,1,0.0,0.0,0.0,0,0,29,38,76.3,1,25,0,0,0,Marseille,2017-09-28 RB Salzburg-Marseille,UEL,17-18,e761a6a8
+8dbff17c,Adil Rami,23,FRA,CB,31-275,90,0,0,0,0,0,0,0,0,51,0,2,4,0.0,0.0,0.0,1,0,35,41,85.4,4,31,0,1,1,Marseille,2017-09-28 RB Salzburg-Marseille,UEL,17-18,e761a6a8
+1a4b9094,Bouna Sarr,17,SEN,RB,25-240,90,0,0,0,0,2,0,0,0,91,6,2,1,0.1,0.1,0.1,5,0,65,73,89.0,3,57,5,7,5,Marseille,2017-09-28 RB Salzburg-Marseille,UEL,17-18,e761a6a8
+76806215,Yohann Pelé,16,FRA,GK,34-328,90,0,0,0,0,0,0,0,0,45,0,0,0,0.0,0.0,0.0,0,0,27,41,65.9,0,27,0,0,0,Marseille,2017-09-28 RB Salzburg-Marseille,UEL,17-18,e761a6a8

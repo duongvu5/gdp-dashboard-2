@@ -1,0 +1,36 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+ca618d23,Lucas Höler,9,GER,"FW,AM",29-227,120,0,1,0,0,1,1,1,0,58,4,0,2,0.1,0.1,0.9,3,1,26,42,61.9,2,13,0,0,0,Freiburg,2024-02-22 Freiburg-Lens,UEL,23-24,0474e6a3
+bf075f6b,Roland Sallai,22,HUN,"LW,FW,CM",26-276,104,2,0,0,0,7,3,0,0,55,3,1,0,0.5,0.5,0.2,8,0,21,30,70.0,4,28,1,6,0,Freiburg,2024-02-22 Freiburg-Lens,UEL,23-24,0474e6a3
+ae961785,Florent Muslija,23,KVX,CM,25-231,16,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,1,5,0,2,2,Freiburg,2024-02-22 Freiburg-Lens,UEL,23-24,0474e6a3
+1f2c7b55,Merlin Röhl,34,GER,"LM,DM",21-232,85,0,0,0,0,1,0,0,0,34,0,2,1,0.0,0.0,0.0,0,0,20,25,80.0,2,25,2,1,1,Freiburg,2024-02-22 Freiburg-Lens,UEL,23-24,0474e6a3
+54e4866f,Vincenzo Grifo,32,ITA,"CM,DM",30-321,35,0,0,0,0,0,0,0,0,29,1,0,0,0.0,0.0,0.2,2,0,21,26,80.8,0,19,2,0,0,Freiburg,2024-02-22 Freiburg-Lens,UEL,23-24,0474e6a3
+5d8e331f,Nicolas Höfler,27,GER,"CB,CM",33-350,120,0,0,0,0,2,0,0,0,81,0,2,0,0.1,0.1,0.0,1,0,62,69,89.9,5,54,2,0,0,Freiburg,2024-02-22 Freiburg-Lens,UEL,23-24,0474e6a3
+beb882a8,Maximilian Eggestein,8,GER,"CM,DM",27-076,120,0,0,0,0,0,0,0,0,58,2,3,1,0.0,0.0,0.0,3,1,45,50,90.0,1,29,2,0,0,Freiburg,2024-02-22 Freiburg-Lens,UEL,23-24,0474e6a3
+d01bbb6f,Ritsu Doan,42,JPN,"RW,RM,RB",25-251,120,0,0,0,0,3,1,0,0,66,3,1,4,0.3,0.3,0.7,5,1,32,45,71.1,3,23,1,2,2,Freiburg,2024-02-22 Freiburg-Lens,UEL,23-24,0474e6a3
+14b09c41,Jordy Makengo,33,FRA,LB,22-203,45,0,0,0,0,0,0,0,0,15,0,1,1,0.0,0.0,0.1,1,0,10,10,100.0,1,7,0,1,1,Freiburg,2024-02-22 Freiburg-Lens,UEL,23-24,0474e6a3
+8e235926,Michael Gregoritsch,38,AUT,FW,29-310,75,1,0,0,0,7,2,0,0,23,1,0,0,1.4,1.4,0.1,3,1,6,12,50.0,0,7,0,2,1,Freiburg,2024-02-22 Freiburg-Lens,UEL,23-24,0474e6a3
+313254a3,Kiliann Sildillia,25,FRA,CB,21-282,45,0,0,0,0,1,0,0,0,30,0,1,0,0.7,0.7,0.0,0,0,24,27,88.9,1,15,0,0,0,Freiburg,2024-02-22 Freiburg-Lens,UEL,23-24,0474e6a3
+dd676a97,Noah Weißhaupt,7,GER,LB,22-155,75,0,0,0,0,0,0,0,0,52,0,0,0,0.0,0.0,0.0,4,1,28,45,62.2,1,29,4,4,1,Freiburg,2024-02-22 Freiburg-Lens,UEL,23-24,0474e6a3
+25ab9c9c,Manuel Gulde,5,GER,CB,33-010,85,0,0,0,0,0,0,0,0,69,2,1,0,0.0,0.0,0.1,3,0,54,59,91.5,5,44,1,0,0,Freiburg,2024-02-22 Freiburg-Lens,UEL,23-24,0474e6a3
+f521b80a,Matthias Ginter,28,GER,CB,30-034,35,0,0,0,0,0,0,0,0,30,0,0,0,0.0,0.0,0.0,2,0,22,24,91.7,1,12,0,0,0,Freiburg,2024-02-22 Freiburg-Lens,UEL,23-24,0474e6a3
+2a29eb9b,Lukas Kübler,17,GER,RB,31-176,100,0,0,0,0,2,1,1,0,67,1,4,0,0.1,0.1,0.1,4,0,52,60,86.7,7,36,2,0,0,Freiburg,2024-02-22 Freiburg-Lens,UEL,23-24,0474e6a3
+8593f88c,Christian Günter,30,GER,CB,30-359,20,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,5,5,100.0,0,4,0,0,0,Freiburg,2024-02-22 Freiburg-Lens,UEL,23-24,0474e6a3
+dbd1b101,Noah Atubolu,1,GER,GK,21-273,120,0,0,0,0,0,0,0,0,74,0,0,0,0.0,0.0,0.0,2,0,47,70,67.1,0,40,0,0,0,Freiburg,2024-02-22 Freiburg-Lens,UEL,23-24,0474e6a3
+0d7b6576,Elye Wahi,9,FRA,FW,21-051,73,1,0,0,0,1,1,0,0,30,0,1,1,0.2,0.2,0.0,1,0,14,21,66.7,3,18,2,0,0,Lens,2024-02-22 Freiburg-Lens,UEL,23-24,0474e6a3
+79b51257,Morgan Guilavogui,27,GUI,FW,25-349,47,0,0,0,0,1,1,0,0,25,0,0,0,0.0,0.0,0.1,2,0,17,19,89.5,4,13,0,2,2,Lens,2024-02-22 Freiburg-Lens,UEL,23-24,0474e6a3
+7a42d0df,Florian Sotoca,7,FRA,FW,33-120,120,0,0,0,0,2,2,1,0,63,1,0,0,0.1,0.1,0.1,3,1,33,54,61.1,4,42,3,2,0,Lens,2024-02-22 Freiburg-Lens,UEL,23-24,0474e6a3
+59948ef7,David Pereira da Costa,10,POR,AM,23-048,80,1,0,0,0,2,1,0,0,36,0,0,0,0.1,0.1,0.0,0,0,23,30,76.7,2,21,0,1,0,Lens,2024-02-22 Freiburg-Lens,UEL,23-24,0474e6a3
+4b96c347,Angelo Fulgini,11,FRA,AM,27-186,40,0,0,0,0,1,0,1,0,35,0,0,2,0.1,0.1,0.1,3,0,22,26,84.6,5,26,0,1,1,Lens,2024-02-22 Freiburg-Lens,UEL,23-24,0474e6a3
+17e1261b,Neil El Aynaoui,23,FRA,CM,22-235,120,0,0,0,0,0,0,0,0,58,4,0,0,0.0,0.0,0.0,0,0,39,44,88.6,6,27,0,1,0,Lens,2024-02-22 Freiburg-Lens,UEL,23-24,0474e6a3
+82464ce3,Salis Abdul Samed,6,GHA,CM,23-333,102,0,0,0,0,0,0,0,0,42,3,2,0,0.0,0.0,0.0,0,0,28,32,87.5,2,20,0,0,0,Lens,2024-02-22 Freiburg-Lens,UEL,23-24,0474e6a3
+90fcf472,Wesley Saïd,22,FRA,CM,28-309,18,0,0,0,0,0,0,1,0,9,0,0,0,0.0,0.0,0.0,1,0,5,7,71.4,0,6,0,1,0,Lens,2024-02-22 Freiburg-Lens,UEL,23-24,0474e6a3
+649b57e9,Jhoanner Chávez,13,ECU,WB,21-303,80,0,0,0,0,1,0,0,0,38,0,1,1,0.0,0.0,0.0,0,0,19,32,59.4,1,17,1,0,0,Lens,2024-02-22 Freiburg-Lens,UEL,23-24,0474e6a3
+5167c97e,Massadio Haïdara,21,MLI,WB,31-082,40,0,0,0,0,0,0,0,0,26,0,0,1,0.0,0.0,0.0,0,0,21,22,95.5,2,18,1,1,1,Lens,2024-02-22 Freiburg-Lens,UEL,23-24,0474e6a3
+00a8d210,Przemysław Frankowski,29,POL,WB,28-316,73,0,0,0,0,1,1,1,0,42,2,0,1,0.1,0.1,0.1,3,0,26,34,76.5,3,21,1,0,0,Lens,2024-02-22 Freiburg-Lens,UEL,23-24,0474e6a3
+3dd738a1,Ruben Aguilar,2,FRA,WB,30-302,47,0,0,0,0,1,1,0,0,41,3,1,1,0.1,0.1,0.1,2,0,25,32,78.1,1,19,1,0,0,Lens,2024-02-22 Freiburg-Lens,UEL,23-24,0474e6a3
+6f5ec8bb,Facundo Medina,14,ARG,CB,24-270,120,0,0,0,0,0,0,1,0,92,3,0,1,0.0,0.0,0.0,1,0,72,84,85.7,6,69,3,1,1,Lens,2024-02-22 Freiburg-Lens,UEL,23-24,0474e6a3
+d17ce930,Abdukodir Khusanov,25,UZB,CB,19-358,120,0,0,0,0,0,0,0,0,83,2,3,2,0.0,0.0,0.1,1,0,59,68,86.8,1,50,0,0,0,Lens,2024-02-22 Freiburg-Lens,UEL,23-24,0474e6a3
+06c48679,Jonathan Gradit,24,FRA,CB,31-090,102,0,0,0,0,1,0,0,0,79,0,1,2,0.1,0.1,0.0,2,1,56,62,90.3,8,43,0,0,0,Lens,2024-02-22 Freiburg-Lens,UEL,23-24,0474e6a3
+9b5237b1,Andy Diouf,18,FRA,CB,20-281,18,0,0,0,0,1,1,0,0,19,0,0,0,0.1,0.1,0.0,1,0,11,16,68.8,0,17,1,3,1,Lens,2024-02-22 Freiburg-Lens,UEL,23-24,0474e6a3
+60d90c55,Brice Samba,30,FRA,GK,29-303,120,0,0,0,0,0,0,1,0,46,0,0,0,0.0,0.0,0.0,0,0,31,43,72.1,0,29,0,0,0,Lens,2024-02-22 Freiburg-Lens,UEL,23-24,0474e6a3

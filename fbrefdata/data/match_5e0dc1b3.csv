@@ -1,0 +1,32 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+2ead2809,Gianluca Lapadula,9,PER,FW,31-014,77,0,0,0,0,2,2,0,0,18,0,0,0,0.1,0.1,0.0,2,0,10,13,76.9,1,12,2,0,0,Benevento,2021-02-21 Benevento-Roma,ITA-SERIA_A,20-21,5e0dc1b3
+c4efe2b4,Gabriele Moncini,21,ITA,FW,24-301,13,0,0,0,0,0,0,0,0,8,1,0,1,0.0,0.0,0.0,0,0,1,3,33.3,0,2,0,0,0,Benevento,2021-02-21 Benevento-Roma,ITA-SERIA_A,20-21,5e0dc1b3
+54e53b7e,Gianluca Caprari,17,ITA,"AM,LM",27-206,67,0,0,0,0,0,0,0,0,30,0,3,1,0.0,0.0,0.0,0,0,15,18,83.3,2,18,3,5,3,Benevento,2021-02-21 Benevento-Roma,ITA-SERIA_A,20-21,5e0dc1b3
+8faf7b3c,Roberto Insigne,19,ITA,LM,26-286,23,0,0,0,0,0,0,0,0,17,1,0,1,0.0,0.0,0.0,0,0,6,10,60.0,0,7,0,0,0,Benevento,2021-02-21 Benevento-Roma,ITA-SERIA_A,20-21,5e0dc1b3
+cedb3e36,Artur Ioniță,29,MDA,"AM,RM",30-188,90,0,0,0,0,1,0,0,0,30,2,0,0,0.0,0.0,0.0,1,0,16,22,72.7,0,12,1,1,1,Benevento,2021-02-21 Benevento-Roma,ITA-SERIA_A,20-21,5e0dc1b3
+45392b06,Nicolas Viola,10,ITA,LM,31-132,58,0,0,0,0,0,0,0,0,15,0,0,0,0.0,0.0,0.1,3,0,5,13,38.5,1,7,1,2,2,Benevento,2021-02-21 Benevento-Roma,ITA-SERIA_A,20-21,5e0dc1b3
+226008f1,Luca Caldirola,5,ITA,CB,30-020,32,0,0,0,0,0,0,0,0,7,0,0,2,0.0,0.0,0.0,0,0,0,1,0.0,0,0,0,0,0,Benevento,2021-02-21 Benevento-Roma,ITA-SERIA_A,20-21,5e0dc1b3
+bd84fc61,Pasquale Schiattarella,28,ITA,CM,33-267,90,0,0,0,0,1,0,1,0,49,1,0,3,0.0,0.0,0.0,0,0,28,42,66.7,7,13,0,0,0,Benevento,2021-02-21 Benevento-Roma,ITA-SERIA_A,20-21,5e0dc1b3
+90b70194,Përparim Hetemaj,56,FIN,"RM,CM",34-071,77,0,0,0,0,0,0,0,0,43,0,0,3,0.0,0.0,0.0,2,0,25,34,73.5,4,25,1,1,0,Benevento,2021-02-21 Benevento-Roma,ITA-SERIA_A,20-21,5e0dc1b3
+5f951ef1,Andrés Tello,8,COL,CM,24-168,13,0,0,0,0,0,0,0,0,14,0,0,0,0.0,0.0,0.0,0,0,5,8,62.5,0,5,0,1,0,Benevento,2021-02-21 Benevento-Roma,ITA-SERIA_A,20-21,5e0dc1b3
+658d44be,Daam Foulon,18,BEL,LB,21-335,90,0,0,0,0,0,0,0,0,28,2,3,1,0.0,0.0,0.0,1,0,12,15,80.0,0,10,1,0,0,Benevento,2021-02-21 Benevento-Roma,ITA-SERIA_A,20-21,5e0dc1b3
+c010b898,Federico Barba,93,ITA,CB,27-173,90,0,0,0,0,1,1,0,0,35,1,4,1,0.1,0.1,0.0,0,0,13,17,76.5,0,10,0,0,0,Benevento,2021-02-21 Benevento-Roma,ITA-SERIA_A,20-21,5e0dc1b3
+c6056d58,Kamil Glik,15,POL,CB,33-018,56,0,0,0,0,1,0,2,1,26,0,1,1,0.1,0.1,0.0,1,0,14,16,87.5,1,5,0,0,0,Benevento,2021-02-21 Benevento-Roma,ITA-SERIA_A,20-21,5e0dc1b3
+d97f2e8d,Fabio Depaoli,27,ITA,RB,23-303,90,0,0,0,0,0,0,0,0,40,1,3,3,0.0,0.0,0.0,0,0,15,27,55.6,1,12,0,0,0,Benevento,2021-02-21 Benevento-Roma,ITA-SERIA_A,20-21,5e0dc1b3
+c1d95617,Lorenzo Montipò,1,ITA,GK,25-001,90,0,0,0,0,0,0,1,0,37,0,0,0,0.0,0.0,0.0,0,0,20,34,58.8,0,13,0,0,0,Benevento,2021-02-21 Benevento-Roma,ITA-SERIA_A,20-21,5e0dc1b3
+64e8ed6d,Borja Mayoral,21,ESP,FW,23-322,90,0,0,0,0,2,0,0,0,21,0,0,0,0.1,0.1,0.0,1,0,10,17,58.8,1,7,0,1,0,Roma,2021-02-21 Benevento-Roma,ITA-SERIA_A,20-21,5e0dc1b3
+dd0daf32,Henrikh Mkhitaryan,77,ARM,AM,32-031,81,0,0,0,0,2,1,0,0,36,5,0,1,0.1,0.1,0.1,3,0,20,28,71.4,2,19,1,1,1,Roma,2021-02-21 Benevento-Roma,ITA-SERIA_A,20-21,5e0dc1b3
+d3aaad90,Stephan El Shaarawy,92,ITA,AM,28-117,9,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,5,7,71.4,1,4,0,1,1,Roma,2021-02-21 Benevento-Roma,ITA-SERIA_A,20-21,5e0dc1b3
+4a5a45c7,Lorenzo Pellegrini,7,ITA,"AM,DM,CM",24-247,90,0,0,0,0,4,1,0,0,63,1,1,0,0.2,0.2,0.1,2,0,41,54,75.9,8,35,6,1,0,Roma,2021-02-21 Benevento-Roma,ITA-SERIA_A,20-21,5e0dc1b3
+4a56052c,Jordan Veretout,17,FRA,CM,27-357,57,0,0,0,0,1,0,0,0,41,0,0,0,0.1,0.1,0.0,0,0,31,38,81.6,3,21,1,0,0,Roma,2021-02-21 Benevento-Roma,ITA-SERIA_A,20-21,5e0dc1b3
+3bb7f478,Edin Džeko,9,BIH,FW,34-341,33,0,0,0,0,1,1,0,0,11,0,0,0,0.1,0.1,0.2,1,0,3,8,37.5,0,4,0,0,0,Roma,2021-02-21 Benevento-Roma,ITA-SERIA_A,20-21,5e0dc1b3
+bdc74a8f,Gonzalo Villar,14,ESP,"CM,DM",22-335,90,0,0,0,0,1,0,0,0,111,1,2,3,0.0,0.0,0.0,2,0,88,102,86.3,11,73,8,2,2,Roma,2021-02-21 Benevento-Roma,ITA-SERIA_A,20-21,5e0dc1b3
+852351df,Bruno Peres,33,BRA,"WB,RB",30-357,90,0,0,0,0,0,0,0,0,73,2,1,1,0.0,0.0,0.1,3,0,50,64,78.1,3,50,11,4,3,Roma,2021-02-21 Benevento-Roma,ITA-SERIA_A,20-21,5e0dc1b3
+9f84febe,Rick Karsdorp,2,NED,WB,26-010,71,0,0,0,0,0,0,0,0,61,0,0,0,0.0,0.0,0.0,0,0,47,58,81.0,4,40,2,1,1,Roma,2021-02-21 Benevento-Roma,ITA-SERIA_A,20-21,5e0dc1b3
+3ca7254a,Pedro,11,ESP,AM,33-208,19,0,0,0,0,0,0,0,0,12,0,0,0,0.0,0.0,0.0,2,0,4,12,33.3,1,6,2,0,0,Roma,2021-02-21 Benevento-Roma,ITA-SERIA_A,20-21,5e0dc1b3
+3626daea,Leonardo Spinazzola,37,ITA,"CB,LB",27-333,90,0,0,0,0,0,0,0,0,97,0,0,0,0.0,0.0,0.1,4,0,75,92,81.5,13,63,11,3,1,Roma,2021-02-21 Benevento-Roma,ITA-SERIA_A,20-21,5e0dc1b3
+5aa53281,Gianluca Mancini,23,ITA,CB,24-310,90,0,0,0,0,0,0,0,0,78,0,1,0,0.0,0.0,0.0,3,0,70,74,94.6,9,58,3,0,0,Roma,2021-02-21 Benevento-Roma,ITA-SERIA_A,20-21,5e0dc1b3
+4e358a2d,Federico Fazio,20,ARG,CB,33-341,71,0,0,0,0,0,0,1,0,81,1,2,0,0.0,0.0,0.0,0,0,69,76,90.8,5,41,1,1,1,Roma,2021-02-21 Benevento-Roma,ITA-SERIA_A,20-21,5e0dc1b3
+79083382,Juan Jesus,5,BRA,CB,29-256,19,0,0,0,0,0,0,0,0,20,0,1,0,0.0,0.0,0.0,0,0,14,17,82.4,1,10,0,1,1,Roma,2021-02-21 Benevento-Roma,ITA-SERIA_A,20-21,5e0dc1b3
+20b9f052,Pau López,13,ESP,GK,26-070,90,0,0,0,0,0,0,0,0,23,0,0,0,0.0,0.0,0.0,0,0,22,22,100.0,1,10,0,0,0,Roma,2021-02-21 Benevento-Roma,ITA-SERIA_A,20-21,5e0dc1b3

@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+1f44ac21,Erling Haaland,9,NOR,FW,20-109,90,1,0,0,0,4,1,0,0,23,0,0,0,1.1,1.1,0.0,1,0,11,16,68.8,1,11,3,2,1,Dortmund,2020-11-07 Dortmund-Bayern Munich,GER-BL1,20-21,ec674186
+7fa4e703,Gio Reyna,32,USA,LW,17-360,68,0,0,0,0,1,1,0,0,30,1,0,0,0.1,0.1,0.5,1,0,16,25,64.0,2,13,3,1,1,Dortmund,2020-11-07 Dortmund-Bayern Munich,GER-BL1,20-21,ec674186
+50871bcc,Thorgan Hazard,10,BEL,RW,27-223,22,0,0,0,0,1,1,0,0,13,0,0,1,0.1,0.1,0.0,0,0,10,11,90.9,0,4,0,0,0,Dortmund,2020-11-07 Dortmund-Bayern Munich,GER-BL1,20-21,ec674186
+dbf053da,Jadon Sancho,7,ENG,RW,20-227,68,0,0,0,0,1,0,0,0,54,2,2,1,0.0,0.0,0.1,2,1,32,44,72.7,3,26,1,5,1,Dortmund,2020-11-07 Dortmund-Bayern Munich,GER-BL1,20-21,ec674186
+a167537f,Julian Brandt,19,GER,LW,24-189,22,0,0,0,0,0,0,0,0,17,2,1,1,0.0,0.0,0.0,2,0,12,14,85.7,2,6,0,0,0,Dortmund,2020-11-07 Dortmund-Bayern Munich,GER-BL1,20-21,ec674186
+36a3ff67,Marco Reus,11,GER,AM,31-160,90,1,0,0,0,5,2,0,0,43,3,0,1,1.0,1.0,0.1,4,0,22,29,75.9,2,25,1,4,1,Dortmund,2020-11-07 Dortmund-Bayern Munich,GER-BL1,20-21,ec674186
+fe641c1a,Thomas Delaney,6,DEN,DM,29-065,59,0,0,0,0,0,0,1,0,42,1,0,1,0.0,0.0,0.0,2,0,29,37,78.4,1,18,0,2,2,Dortmund,2020-11-07 Dortmund-Bayern Munich,GER-BL1,20-21,ec674186
+57d88cf9,Jude Bellingham,22,ENG,DM,17-131,31,0,0,0,0,1,0,0,0,38,2,0,1,0.1,0.1,0.2,1,0,25,30,83.3,3,21,0,1,0,Dortmund,2020-11-07 Dortmund-Bayern Munich,GER-BL1,20-21,ec674186
+5dfc6ad5,Axel Witsel,28,BEL,DM,31-300,90,0,0,0,0,2,0,1,0,58,1,1,0,0.1,0.1,0.0,1,0,37,49,75.5,2,22,1,4,4,Dortmund,2020-11-07 Dortmund-Bayern Munich,GER-BL1,20-21,ec674186
+048a1cbc,Raphaël Guerreiro,13,POR,LB,26-321,90,0,2,0,0,0,0,0,0,84,3,2,0,0.0,0.0,1.5,8,2,60,72,83.3,8,37,2,5,3,Dortmund,2020-11-07 Dortmund-Bayern Munich,GER-BL1,20-21,ec674186
+05d548d8,Mats Hummels,15,GER,CB,31-327,90,0,0,0,0,0,0,0,0,77,1,2,0,0.0,0.0,0.0,2,0,51,70,72.9,4,35,0,0,0,Dortmund,2020-11-07 Dortmund-Bayern Munich,GER-BL1,20-21,ec674186
+89ac64a6,Manuel Akanji,16,SUI,CB,25-111,90,0,0,0,0,0,0,0,0,81,4,1,0,0.0,0.0,0.0,1,0,63,72,87.5,0,45,0,0,0,Dortmund,2020-11-07 Dortmund-Bayern Munich,GER-BL1,20-21,ec674186
+e162b013,Thomas Meunier,24,BEL,RB,29-056,90,0,0,0,0,0,0,0,0,86,2,1,1,0.0,0.0,0.1,2,0,57,75,76.0,2,39,3,1,1,Dortmund,2020-11-07 Dortmund-Bayern Munich,GER-BL1,20-21,ec674186
+9d12e142,Roman Bürki,1,SUI,GK,29-359,90,0,0,0,0,0,0,0,0,34,0,0,0,0.0,0.0,0.0,0,0,22,30,73.3,0,13,0,0,0,Dortmund,2020-11-07 Dortmund-Bayern Munich,GER-BL1,20-21,ec674186
+8d78e732,Robert Lewandowski,9,POL,FW,32-078,90,1,1,0,0,2,1,1,0,39,0,0,0,0.4,0.4,0.1,3,1,28,31,90.3,3,22,3,2,1,Bayern Munich,2020-11-07 Dortmund-Bayern Munich,GER-BL1,20-21,ec674186
+88e357ef,Serge Gnabry,7,GER,LW,25-116,90,0,0,0,0,2,0,0,0,63,2,1,4,0.1,0.1,0.4,3,2,33,43,76.7,9,40,7,2,1,Bayern Munich,2020-11-07 Dortmund-Bayern Munich,GER-BL1,20-21,ec674186
+042e8a49,Kingsley Coman,29,FRA,RW,24-147,68,0,0,0,0,3,2,0,0,35,2,0,1,0.3,0.3,0.0,1,0,15,26,57.7,1,25,3,0,0,Bayern Munich,2020-11-07 Dortmund-Bayern Munich,GER-BL1,20-21,ec674186
+2b114be3,Leroy Sané,10,GER,RW,24-301,22,1,0,0,0,1,1,0,0,15,0,0,0,0.1,0.1,0.0,1,0,10,12,83.3,3,8,1,2,1,Bayern Munich,2020-11-07 Dortmund-Bayern Munich,GER-BL1,20-21,ec674186
+3c6089ab,Thomas Müller,25,GER,AM,31-055,90,0,1,0,0,0,0,0,0,72,1,1,0,0.0,0.0,0.2,6,1,43,61,70.5,5,36,3,3,2,Bayern Munich,2020-11-07 Dortmund-Bayern Munich,GER-BL1,20-21,ec674186
+cc86b9a3,Leon Goretzka,18,GER,DM,25-275,90,0,0,0,0,2,2,0,0,60,3,3,1,0.1,0.1,0.0,6,1,37,46,80.4,6,20,0,1,0,Bayern Munich,2020-11-07 Dortmund-Bayern Munich,GER-BL1,20-21,ec674186
+49296448,Joshua Kimmich,6,GER,DM,25-273,35,0,0,0,0,0,0,1,0,21,0,1,0,0.0,0.0,0.0,1,0,15,18,83.3,1,14,0,0,0,Bayern Munich,2020-11-07 Dortmund-Bayern Munich,GER-BL1,20-21,ec674186
+652d4c37,Corentin Tolisso,24,FRA,DM,26-096,55,0,0,0,0,1,0,0,0,41,0,0,1,0.1,0.1,0.0,1,0,27,36,75.0,3,25,0,0,0,Bayern Munich,2020-11-07 Dortmund-Bayern Munich,GER-BL1,20-21,ec674186
+c3ee18ef,Lucas Hernández,21,FRA,LB,24-267,90,0,1,0,0,0,0,0,0,65,3,1,1,0.0,0.0,0.2,3,1,43,55,78.2,3,36,4,0,0,Bayern Munich,2020-11-07 Dortmund-Bayern Munich,GER-BL1,20-21,ec674186
+05439de2,David Alaba,27,AUT,CB,28-136,90,1,0,0,0,2,1,0,0,54,0,1,0,0.1,0.1,0.0,1,0,29,47,61.7,3,35,0,0,0,Bayern Munich,2020-11-07 Dortmund-Bayern Munich,GER-BL1,20-21,ec674186
+2db2fd7b,Jérôme Boateng,17,GER,CB,32-065,68,0,0,0,0,0,0,0,0,52,1,1,3,0.0,0.0,0.1,1,0,35,43,81.4,1,32,0,0,0,Bayern Munich,2020-11-07 Dortmund-Bayern Munich,GER-BL1,20-21,ec674186
+7f97771d,Javi Martínez,8,ESP,CB,32-066,22,0,0,0,0,0,0,0,0,11,0,1,0,0.0,0.0,0.0,0,0,5,7,71.4,0,2,0,0,0,Bayern Munich,2020-11-07 Dortmund-Bayern Munich,GER-BL1,20-21,ec674186
+1a4b9094,Bouna Sarr,20,SEN,RB,28-281,90,0,0,0,0,1,0,0,0,73,1,2,0,0.0,0.0,0.0,0,0,55,65,84.6,7,38,1,1,0,Bayern Munich,2020-11-07 Dortmund-Bayern Munich,GER-BL1,20-21,ec674186
+8778c910,Manuel Neuer,1,GER,GK,34-225,90,0,0,0,0,0,0,0,0,61,0,0,0,0.0,0.0,0.0,0,0,45,57,78.9,0,33,0,0,0,Bayern Munich,2020-11-07 Dortmund-Bayern Munich,GER-BL1,20-21,ec674186

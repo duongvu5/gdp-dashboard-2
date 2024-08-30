@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+ed90babd,Adam Ounas,7,ALG,"FW,CM",24-095,88,1,0,0,0,3,2,0,0,51,0,0,2,0.6,0.6,0.2,5,1,22,35,62.9,6,38,5,8,3,Crotone,2021-02-14 Crotone-Sassuolo,ITA-SERIA_A,20-21,7ad2759a
+39ee6cb6,Andrea Rispoli,33,ITA,CM,32-138,2,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,3,4,75.0,1,1,0,0,0,Crotone,2021-02-14 Crotone-Sassuolo,ITA-SERIA_A,20-21,7ad2759a
+ef94dc2f,Samuel Di Carmine,54,ITA,FW,32-138,72,0,0,0,0,0,0,0,0,17,0,0,0,0.0,0.0,0.0,0,0,9,14,64.3,2,10,1,1,0,Crotone,2021-02-14 Crotone-Sassuolo,ITA-SERIA_A,20-21,7ad2759a
+2bae5658,Emmanuel Rivière,97,FRA,FW,30-348,18,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,4,4,100.0,0,3,0,0,0,Crotone,2021-02-14 Crotone-Sassuolo,ITA-SERIA_A,20-21,7ad2759a
+741e058f,Niccolò Zanellato,21,ITA,CM,22-235,90,0,0,0,0,0,0,0,0,35,2,1,3,0.0,0.0,0.0,0,0,20,26,76.9,2,19,0,0,0,Crotone,2021-02-14 Crotone-Sassuolo,ITA-SERIA_A,20-21,7ad2759a
+909bce7f,Jacopo Petriccione,44,ITA,CM,25-358,65,0,0,0,0,0,0,0,0,37,1,0,4,0.0,0.0,0.0,2,0,27,30,90.0,3,20,0,1,0,Crotone,2021-02-14 Crotone-Sassuolo,ITA-SERIA_A,20-21,7ad2759a
+5944af8f,Miloš Vulić,77,SRB,"WB,CM",24-179,25,0,0,0,0,0,0,1,0,20,1,1,4,0.0,0.0,0.0,0,0,11,12,91.7,2,11,0,0,0,Crotone,2021-02-14 Crotone-Sassuolo,ITA-SERIA_A,20-21,7ad2759a
+f49c4ae9,Junior Messias,30,BRA,CM,29-277,90,0,0,0,0,1,0,0,0,52,2,3,3,0.0,0.0,0.0,1,0,23,34,67.6,7,31,3,6,3,Crotone,2021-02-14 Crotone-Sassuolo,ITA-SERIA_A,20-21,7ad2759a
+6213fd82,Arkadiusz Reca,69,POL,WB,25-242,72,0,1,0,0,0,0,0,0,33,0,1,0,0.0,0.0,0.5,1,1,19,27,70.4,2,19,0,1,0,Crotone,2021-02-14 Crotone-Sassuolo,ITA-SERIA_A,20-21,7ad2759a
+80dbbd10,Simeon Nwankwo,25,NGA,FW,28-283,18,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,1,0,4,6,66.7,0,6,0,0,0,Crotone,2021-02-14 Crotone-Sassuolo,ITA-SERIA_A,20-21,7ad2759a
+c77be0cf,Pedro Pereira,32,POR,WB,23-023,90,0,0,0,0,2,2,0,0,34,2,0,3,0.2,0.2,0.0,0,0,14,20,70.0,0,16,0,0,0,Crotone,2021-02-14 Crotone-Sassuolo,ITA-SERIA_A,20-21,7ad2759a
+997fff07,Sebastiano Luperto,13,ITA,CB,24-161,90,0,0,0,0,0,0,0,0,48,0,3,1,0.0,0.0,0.0,0,0,30,41,73.2,3,34,1,1,1,Crotone,2021-02-14 Crotone-Sassuolo,ITA-SERIA_A,20-21,7ad2759a
+1db295e5,Vladimir Golemić,5,SVN,CB,29-231,90,0,0,0,0,0,0,0,0,43,3,2,2,0.0,0.0,0.0,1,0,26,32,81.3,1,21,0,0,0,Crotone,2021-02-14 Crotone-Sassuolo,ITA-SERIA_A,20-21,7ad2759a
+933d3b51,Koffi Djidji,26,CIV,CB,28-076,90,0,0,0,0,0,0,0,0,55,1,2,2,0.0,0.0,0.0,0,0,31,45,68.9,2,32,0,1,1,Crotone,2021-02-14 Crotone-Sassuolo,ITA-SERIA_A,20-21,7ad2759a
+e66ebabb,Alex Cordaz,1,ITA,GK,38-044,90,0,0,0,0,0,0,0,0,42,0,0,0,0.0,0.0,0.0,0,0,27,39,69.2,0,23,0,0,0,Crotone,2021-02-14 Crotone-Sassuolo,ITA-SERIA_A,20-21,7ad2759a
+5bd72174,Francesco Caputo,9,ITA,FW,33-192,71,1,1,1,1,2,0,0,0,30,0,0,1,0.9,0.1,0.0,4,1,20,26,76.9,1,11,0,0,0,Sassuolo,2021-02-14 Crotone-Sassuolo,ITA-SERIA_A,20-21,7ad2759a
+854ee61a,Grégoire Defrel,92,MTQ,FW,29-242,19,0,0,0,0,0,0,0,0,13,0,0,0,0.0,0.0,0.0,3,0,8,9,88.9,0,9,1,1,1,Sassuolo,2021-02-14 Crotone-Sassuolo,ITA-SERIA_A,20-21,7ad2759a
+eccbe56a,Filip Đuričić,10,SRB,"LW,AM,RW",29-015,90,0,0,0,0,3,0,0,0,70,1,0,0,0.4,0.4,0.4,5,1,44,55,80.0,6,35,8,1,1,Sassuolo,2021-02-14 Crotone-Sassuolo,ITA-SERIA_A,20-21,7ad2759a
+53a0e358,Domenico Berardi,25,ITA,RW,26-197,87,1,0,0,0,10,2,0,0,72,0,1,0,0.7,0.7,0.3,9,0,37,54,68.5,5,43,6,5,4,Sassuolo,2021-02-14 Crotone-Sassuolo,ITA-SERIA_A,20-21,7ad2759a
+2200181e,Kaan Ayhan,5,TUR,"CB,RW",26-096,3,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,3,3,100.0,1,1,0,0,0,Sassuolo,2021-02-14 Crotone-Sassuolo,ITA-SERIA_A,20-21,7ad2759a
+20094685,Maxime Lopez,8,FRA,AM,23-072,61,0,0,0,0,2,0,0,0,50,2,0,1,0.3,0.3,0.1,4,0,35,41,85.4,5,26,3,0,0,Sassuolo,2021-02-14 Crotone-Sassuolo,ITA-SERIA_A,20-21,7ad2759a
+570bb4b9,Hamed Junior Traorè,23,CIV,"LW,AM",20-364,29,0,0,0,0,2,1,0,0,28,0,0,0,0.1,0.1,0.1,3,0,18,22,81.8,6,8,1,1,1,Sassuolo,2021-02-14 Crotone-Sassuolo,ITA-SERIA_A,20-21,7ad2759a
+a8a874f1,Manuel Locatelli,73,ITA,"DM,CM",23-037,90,0,0,0,0,2,0,0,0,119,4,0,3,0.1,0.1,0.1,7,1,88,100,88.0,14,55,0,0,0,Sassuolo,2021-02-14 Crotone-Sassuolo,ITA-SERIA_A,20-21,7ad2759a
+07767f42,Francesco Magnanelli,4,ITA,DM,36-094,71,0,0,0,0,0,0,0,0,67,2,2,0,0.0,0.0,0.1,2,0,59,63,93.7,7,26,0,0,0,Sassuolo,2021-02-14 Crotone-Sassuolo,ITA-SERIA_A,20-21,7ad2759a
+ba1e04b3,Pedro Obiang,14,EQG,"DM,CM",28-324,19,0,0,0,0,0,0,0,0,15,0,0,1,0.0,0.0,0.0,0,0,9,12,75.0,0,4,0,0,0,Sassuolo,2021-02-14 Crotone-Sassuolo,ITA-SERIA_A,20-21,7ad2759a
+10e7f486,Rogério,6,BRA,"LB,LM",23-032,90,0,0,0,0,0,0,0,0,62,2,1,0,0.0,0.0,0.0,1,0,50,52,96.2,2,28,0,0,0,Sassuolo,2021-02-14 Crotone-Sassuolo,ITA-SERIA_A,20-21,7ad2759a
+4f2908e5,Federico Peluso,13,ITA,CB,37-025,90,0,0,0,0,0,0,1,0,65,1,2,0,0.0,0.0,0.0,0,0,53,59,89.8,1,32,0,0,0,Sassuolo,2021-02-14 Crotone-Sassuolo,ITA-SERIA_A,20-21,7ad2759a
+cdf65d12,Marlon,2,BRA,CB,25-160,90,0,0,0,0,1,0,0,0,39,2,0,0,0.1,0.1,0.0,0,0,31,34,91.2,1,12,0,0,0,Sassuolo,2021-02-14 Crotone-Sassuolo,ITA-SERIA_A,20-21,7ad2759a
+1295552e,Mert Müldür,17,TUR,RB,21-317,87,0,0,0,0,0,0,0,0,59,0,0,0,0.0,0.0,0.0,2,1,43,53,81.1,7,25,3,1,0,Sassuolo,2021-02-14 Crotone-Sassuolo,ITA-SERIA_A,20-21,7ad2759a
+a96e5dc0,Jeremy Toljan,22,GER,"RM,RB",26-190,3,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,5,5,100.0,1,2,1,0,0,Sassuolo,2021-02-14 Crotone-Sassuolo,ITA-SERIA_A,20-21,7ad2759a
+8cabdc1e,Andrea Consigli,47,ITA,GK,34-018,90,0,0,0,0,0,0,0,0,47,0,0,0,0.0,0.0,0.0,0,0,30,44,68.2,0,34,0,0,0,Sassuolo,2021-02-14 Crotone-Sassuolo,ITA-SERIA_A,20-21,7ad2759a

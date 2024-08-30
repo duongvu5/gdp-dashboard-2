@@ -1,0 +1,32 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+42fd9c7f,Kylian Mbappé,7,FRA,FW,24-249,90,2,0,0,0,6,4,0,0,61,0,0,0,0.6,0.6,0.2,9,1,41,46,89.1,10,58,7,5,3,Paris Saint-Germain,2023-08-26 Paris S-G-Lens,FRA-L1,23-24,d3db871d
+45af8a54,Marco Asensio,11,ESP,FW,27-217,90,1,0,0,0,3,1,0,0,45,0,0,2,0.3,0.3,0.0,3,1,33,37,89.2,7,43,4,3,1,Paris Saint-Germain,2023-08-26 Paris S-G-Lens,FRA-L1,23-24,d3db871d
+3b029691,Vitinha,17,POR,LM,23-194,90,0,0,0,0,2,1,0,0,72,0,0,2,0.1,0.1,0.2,5,1,56,62,90.3,7,64,3,9,7,Paris Saint-Germain,2023-08-26 Paris S-G-Lens,FRA-L1,23-24,d3db871d
+c9817014,Manuel Ugarte Ribeiro,4,URU,CM,22-137,90,0,0,0,0,1,0,0,0,61,7,1,1,0.1,0.1,0.0,1,0,41,48,85.4,3,43,1,3,1,Paris Saint-Germain,2023-08-26 Paris S-G-Lens,FRA-L1,23-24,d3db871d
+6b9960cf,Warren Zaïre-Emery,33,FRA,CM,17-171,85,0,1,0,0,2,0,0,0,60,4,1,2,0.2,0.2,0.2,4,1,42,45,93.3,5,48,1,2,0,Paris Saint-Germain,2023-08-26 Paris S-G-Lens,FRA-L1,23-24,d3db871d
+fed17f5a,Carlos Soler,28,ESP,RM,26-236,5,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,7,7,100.0,0,6,0,0,0,Paris Saint-Germain,2023-08-26 Paris S-G-Lens,FRA-L1,23-24,d3db871d
+b19db005,Ousmane Dembélé,10,FRA,RM,26-103,79,0,0,0,0,1,0,0,0,56,1,0,0,0.1,0.1,0.3,4,0,32,40,80.0,4,45,7,10,2,Paris Saint-Germain,2023-08-26 Paris S-G-Lens,FRA-L1,23-24,d3db871d
+c0c7ff58,Fabián Ruiz Peña,8,ESP,FW,27-145,11,0,1,0,0,0,0,0,0,12,0,0,0,0.0,0.0,0.1,1,1,9,11,81.8,1,12,0,1,1,Paris Saint-Germain,2023-08-26 Paris S-G-Lens,FRA-L1,23-24,d3db871d
+c3ee18ef,Lucas Hernández,21,FRA,LB,27-193,82,0,1,0,0,0,0,0,0,93,1,0,0,0.0,0.0,0.3,4,1,83,87,95.4,9,77,1,2,0,Paris Saint-Germain,2023-08-26 Paris S-G-Lens,FRA-L1,23-24,d3db871d
+8fd9996f,Danilo Pereira,15,POR,LB,31-351,8,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,0,0,10,10,100.0,1,9,0,0,0,Paris Saint-Germain,2023-08-26 Paris S-G-Lens,FRA-L1,23-24,d3db871d
+30f5ffa9,Milan Škriniar,37,SVK,CB,28-196,90,0,0,0,0,0,0,0,0,127,1,0,1,0.0,0.0,0.0,0,0,112,116,96.6,4,111,0,0,0,Paris Saint-Germain,2023-08-26 Paris S-G-Lens,FRA-L1,23-24,d3db871d
+d5f2f82b,Marquinhos,5,BRA,CB,29-104,90,0,0,0,0,0,0,0,0,114,0,0,0,0.0,0.0,0.0,1,0,108,113,95.6,3,105,0,0,0,Paris Saint-Germain,2023-08-26 Paris S-G-Lens,FRA-L1,23-24,d3db871d
+e42d61c7,Achraf Hakimi,2,MAR,RB,24-295,90,0,0,0,0,2,0,0,0,103,1,2,2,0.1,0.1,0.0,0,0,79,86,91.9,3,79,3,1,0,Paris Saint-Germain,2023-08-26 Paris S-G-Lens,FRA-L1,23-24,d3db871d
+08f5afaa,Gianluigi Donnarumma,99,ITA,GK,24-182,90,0,0,0,0,0,0,0,0,56,0,0,0,0.0,0.0,0.0,0,0,42,53,79.2,0,42,0,0,0,Paris Saint-Germain,2023-08-26 Paris S-G-Lens,FRA-L1,23-24,d3db871d
+7a42d0df,Florian Sotoca,7,FRA,"FW,AM",32-305,90,0,1,0,0,0,0,1,0,45,0,0,0,0.0,0.0,0.2,4,2,32,43,74.4,4,33,3,1,1,Lens,2023-08-26 Paris S-G-Lens,FRA-L1,23-24,d3db871d
+4b96c347,Angelo Fulgini,20,FRA,AM,27-006,73,0,0,0,0,1,0,0,0,51,3,0,1,0.1,0.1,0.0,3,0,35,43,81.4,4,45,2,2,1,Lens,2023-08-26 Paris S-G-Lens,FRA-L1,23-24,d3db871d
+79b51257,Morgan Guilavogui,27,GUI,AM,25-169,17,1,0,0,0,1,1,0,0,11,1,1,0,0.1,0.1,0.0,0,0,5,6,83.3,0,8,1,0,0,Lens,2023-08-26 Paris S-G-Lens,FRA-L1,23-24,d3db871d
+c76b7567,Adrien Thomasson,28,FRA,AM,29-259,57,0,0,0,0,2,0,0,0,35,3,0,0,0.1,0.1,0.0,3,0,19,28,67.9,2,25,1,0,0,Lens,2023-08-26 Paris S-G-Lens,FRA-L1,23-24,d3db871d
+0d7b6576,Elye Wahi,9,FRA,FW,20-236,33,0,0,0,0,2,2,0,0,10,0,0,0,0.1,0.1,0.0,0,0,7,8,87.5,0,10,0,0,0,Lens,2023-08-26 Paris S-G-Lens,FRA-L1,23-24,d3db871d
+9b5237b1,Andy Diouf,18,FRA,CM,20-101,82,0,0,0,0,2,0,0,0,50,2,1,0,0.1,0.1,0.0,2,0,31,39,79.5,1,37,1,2,0,Lens,2023-08-26 Paris S-G-Lens,FRA-L1,23-24,d3db871d
+59948ef7,David Pereira da Costa,10,POR,CM,22-233,8,0,0,0,0,0,0,0,0,13,0,0,0,0.0,0.0,0.0,1,0,10,12,83.3,3,11,0,0,0,Lens,2023-08-26 Paris S-G-Lens,FRA-L1,23-24,d3db871d
+82464ce3,Salis Abdul Samed,6,GHA,CM,23-153,45,0,0,0,0,0,0,0,0,17,1,0,0,0.0,0.0,0.0,0,0,15,16,93.8,2,16,0,0,0,Lens,2023-08-26 Paris S-G-Lens,FRA-L1,23-24,d3db871d
+a08985b8,Stijn Spierings,5,NED,CM,27-167,45,0,0,0,0,0,0,1,0,26,0,2,1,0.0,0.0,0.0,1,0,19,21,90.5,5,16,0,0,0,Lens,2023-08-26 Paris S-G-Lens,FRA-L1,23-24,d3db871d
+b3f8bdef,Deiver Machado,3,COL,WB,29-358,90,0,0,0,0,1,1,1,0,38,3,0,0,0.0,0.0,0.0,1,0,23,29,79.3,0,28,0,0,0,Lens,2023-08-26 Paris S-G-Lens,FRA-L1,23-24,d3db871d
+00a8d210,Przemysław Frankowski,29,POL,WB,28-136,45,0,0,0,0,2,0,0,0,34,2,0,3,0.0,0.0,0.0,2,0,16,24,66.7,4,15,1,0,0,Lens,2023-08-26 Paris S-G-Lens,FRA-L1,23-24,d3db871d
+547a72ad,Julien Le Cardinal,26,FRA,WB,26-023,45,0,0,0,0,0,0,0,0,29,4,0,2,0.0,0.0,0.0,1,0,15,23,65.2,2,15,0,1,1,Lens,2023-08-26 Paris S-G-Lens,FRA-L1,23-24,d3db871d
+6f5ec8bb,Facundo Medina,14,ARG,CB,24-090,90,0,0,0,0,0,0,1,0,50,7,1,3,0.0,0.0,0.1,2,0,32,37,86.5,2,33,0,2,1,Lens,2023-08-26 Paris S-G-Lens,FRA-L1,23-24,d3db871d
+6e33125f,Kevin Danso,4,AUT,CB,24-341,90,0,0,0,0,1,0,0,0,40,1,1,2,0.0,0.0,0.0,0,0,26,33,78.8,6,25,0,1,1,Lens,2023-08-26 Paris S-G-Lens,FRA-L1,23-24,d3db871d
+06c48679,Jonathan Gradit,24,FRA,CB,30-275,90,0,0,0,0,0,0,1,0,23,2,2,0,0.0,0.0,0.0,0,0,9,17,52.9,1,12,0,1,1,Lens,2023-08-26 Paris S-G-Lens,FRA-L1,23-24,d3db871d
+60d90c55,Brice Samba,30,FRA,GK,29-123,90,0,0,0,0,0,0,0,0,20,0,0,0,0.0,0.0,0.0,0,0,12,17,70.6,0,13,0,0,0,Lens,2023-08-26 Paris S-G-Lens,FRA-L1,23-24,d3db871d

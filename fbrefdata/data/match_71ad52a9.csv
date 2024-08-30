@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+17f3620a,Krzysztof Piątek,9,POL,FW,23-181,90,0,0,0,0,4,1,1,0,29,1,1,0,0.2,0.2,0.1,3,0,15,18,83.3,3,18,4,1,1,Genoa,2018-12-29 Genoa-Fiorentina,ITA-SERIA_A,18-19,71ad52a9
+58e933d2,Christian Kouamé,11,CIV,FW,21-023,82,0,0,0,0,1,1,0,0,36,2,0,1,0.0,0.0,0.0,2,0,17,24,70.8,2,19,2,2,0,Genoa,2018-12-29 Genoa-Fiorentina,ITA-SERIA_A,18-19,71ad52a9
+44510fde,Andrea Favilli,39,ITA,FW,21-226,8,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,3,6,50.0,0,6,1,1,0,Genoa,2018-12-29 Genoa-Fiorentina,ITA-SERIA_A,18-19,71ad52a9
+5128bde4,Darko Lazović,22,SRB,LW,28-105,90,0,0,0,0,1,0,1,0,51,1,1,0,0.0,0.0,0.0,2,0,26,41,63.4,4,27,5,5,1,Genoa,2018-12-29 Genoa-Fiorentina,ITA-SERIA_A,18-19,71ad52a9
+07abb358,Rômulo,8,ITA,RW,31-221,90,0,0,0,0,1,0,0,0,55,2,0,0,0.1,0.1,0.0,1,0,31,50,62.0,4,26,5,3,2,Genoa,2018-12-29 Genoa-Fiorentina,ITA-SERIA_A,18-19,71ad52a9
+88895312,Daniel Bessa,24,ITA,CM,25-349,88,0,0,0,0,1,1,0,0,43,0,0,0,0.0,0.0,0.2,4,0,27,37,73.0,6,29,3,1,1,Genoa,2018-12-29 Genoa-Fiorentina,ITA-SERIA_A,18-19,71ad52a9
+c1c2c925,Sandro,30,BRA,CM,29-289,2,0,0,0,0,1,0,0,0,9,1,0,0,0.0,0.0,0.0,1,0,6,7,85.7,1,2,1,0,0,Genoa,2018-12-29 Genoa-Fiorentina,ITA-SERIA_A,18-19,71ad52a9
+98e958af,Oscar Hiljemark,88,SWE,CM,26-184,58,0,0,0,0,0,0,0,0,27,0,0,1,0.0,0.0,0.0,1,0,12,21,57.1,1,13,0,0,0,Genoa,2018-12-29 Genoa-Fiorentina,ITA-SERIA_A,18-19,71ad52a9
+ab1ca213,Miguel Veloso,44,POR,DM,32-232,32,0,0,0,0,0,0,0,0,19,1,0,1,0.0,0.0,0.0,0,0,10,14,71.4,1,4,1,0,0,Genoa,2018-12-29 Genoa-Fiorentina,ITA-SERIA_A,18-19,71ad52a9
+10e25802,Esteban Rolón,18,ARG,"DM,CM",23-279,90,0,0,0,0,0,0,0,0,46,4,3,4,0.0,0.0,0.0,1,0,20,31,64.5,2,19,1,0,0,Genoa,2018-12-29 Genoa-Fiorentina,ITA-SERIA_A,18-19,71ad52a9
+35dd6d80,Domenico Criscito,4,ITA,CB,31-364,90,0,0,0,0,0,0,0,0,40,2,3,0,0.0,0.0,0.1,2,0,25,31,80.6,5,16,1,0,0,Genoa,2018-12-29 Genoa-Fiorentina,ITA-SERIA_A,18-19,71ad52a9
+a3d94a58,Cristian Romero,17,ARG,CB,20-246,90,0,0,0,0,2,0,0,0,32,3,1,3,0.1,0.1,0.0,0,0,14,17,82.4,1,12,0,0,0,Genoa,2018-12-29 Genoa-Fiorentina,ITA-SERIA_A,18-19,71ad52a9
+64cd167d,Davide Biraschi,14,ITA,CB,24-180,90,0,0,0,0,0,0,0,0,48,1,1,1,0.0,0.0,0.0,0,0,24,39,61.5,7,19,1,1,0,Genoa,2018-12-29 Genoa-Fiorentina,ITA-SERIA_A,18-19,71ad52a9
+67f649be,Ionuț Radu,97,ROU,GK,21-215,90,0,0,0,0,0,0,0,0,30,0,0,0,0.0,0.0,0.0,0,0,11,28,39.3,0,14,0,0,0,Genoa,2018-12-29 Genoa-Fiorentina,ITA-SERIA_A,18-19,71ad52a9
+343c0d52,Giovanni Simeone,9,ARG,FW,23-177,90,0,0,0,0,1,0,0,0,30,1,0,2,0.4,0.4,0.2,3,0,13,17,76.5,3,26,0,1,1,Fiorentina,2018-12-29 Genoa-Fiorentina,ITA-SERIA_A,18-19,71ad52a9
+4a56052c,Jordan Veretout,17,FRA,"LW,DM",25-303,90,0,0,0,0,1,0,0,0,58,1,2,0,0.0,0.0,0.6,6,0,31,42,73.8,6,33,5,2,1,Fiorentina,2018-12-29 Genoa-Fiorentina,ITA-SERIA_A,18-19,71ad52a9
+b0f7e36c,Federico Chiesa,25,ITA,"RW,LW,AM",21-065,90,0,0,0,0,7,2,0,0,46,3,0,0,0.8,0.8,0.3,3,0,15,27,55.6,3,29,4,4,1,Fiorentina,2018-12-29 Genoa-Fiorentina,ITA-SERIA_A,18-19,71ad52a9
+aa51343f,Kevin Mirallas,11,BEL,AM,31-085,82,0,0,0,0,1,0,0,0,37,1,0,0,0.1,0.1,0.0,4,0,22,28,78.6,5,22,0,0,0,Fiorentina,2018-12-29 Genoa-Fiorentina,ITA-SERIA_A,18-19,71ad52a9
+2c38b327,Marko Pjaca,10,CRO,RW,23-237,8,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,3,5,60.0,0,3,0,1,0,Fiorentina,2018-12-29 Genoa-Fiorentina,ITA-SERIA_A,18-19,71ad52a9
+df0a4c90,Christian Nørgaard,6,DEN,DM,24-294,90,0,0,0,0,0,0,0,0,62,1,2,1,0.0,0.0,0.0,1,0,39,47,83.0,7,34,2,1,1,Fiorentina,2018-12-29 Genoa-Fiorentina,ITA-SERIA_A,18-19,71ad52a9
+3bb625ac,Edimilson Fernandes,26,SUI,DM,22-258,56,0,0,0,0,1,1,0,0,31,2,1,1,0.3,0.3,0.5,2,0,18,23,78.3,5,22,0,0,0,Fiorentina,2018-12-29 Genoa-Fiorentina,ITA-SERIA_A,18-19,71ad52a9
+0000acda,Marco Benassi,24,ITA,"RW,AM,DM",24-112,34,0,0,0,0,0,0,0,0,11,1,1,0,0.0,0.0,0.0,1,0,6,8,75.0,1,2,1,0,0,Fiorentina,2018-12-29 Genoa-Fiorentina,ITA-SERIA_A,18-19,71ad52a9
+9e1577aa,Cristiano Biraghi,3,ITA,LB,26-119,90,0,0,0,0,2,0,1,0,68,2,1,2,0.1,0.1,0.0,2,0,34,47,72.3,2,24,1,0,0,Fiorentina,2018-12-29 Genoa-Fiorentina,ITA-SERIA_A,18-19,71ad52a9
+bee704fc,Nikola Milenković,4,SRB,"CB,RB",21-078,90,0,0,0,0,0,0,0,0,71,2,3,0,0.0,0.0,0.0,0,0,50,58,86.2,3,40,4,0,0,Fiorentina,2018-12-29 Genoa-Fiorentina,ITA-SERIA_A,18-19,71ad52a9
+8c725b43,Germán Pezzella,20,ARG,CB,27-185,90,0,0,0,0,0,0,0,0,59,2,1,2,0.0,0.0,0.0,0,0,39,45,86.7,0,36,0,0,0,Fiorentina,2018-12-29 Genoa-Fiorentina,ITA-SERIA_A,18-19,71ad52a9
+3535098b,Vincent Laurini,2,FRA,RB,29-202,65,0,0,0,0,0,0,0,0,57,2,1,1,0.0,0.0,0.0,2,0,38,50,76.0,5,36,6,0,0,Fiorentina,2018-12-29 Genoa-Fiorentina,ITA-SERIA_A,18-19,71ad52a9
+d9624b51,Federico Ceccherini,5,ITA,"RB,CB",26-232,25,0,0,0,0,0,0,0,0,22,1,1,1,0.0,0.0,0.0,0,0,16,18,88.9,1,12,2,0,0,Fiorentina,2018-12-29 Genoa-Fiorentina,ITA-SERIA_A,18-19,71ad52a9
+4e7db402,Alban Lafont,1,FRA,GK,19-340,90,0,0,0,0,0,0,0,0,36,0,0,0,0.0,0.0,0.0,0,0,28,34,82.4,0,19,0,0,0,Fiorentina,2018-12-29 Genoa-Fiorentina,ITA-SERIA_A,18-19,71ad52a9

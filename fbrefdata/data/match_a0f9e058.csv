@@ -1,0 +1,31 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+46faabfa,Ibrahima Niane,7,SEN,FW,21-193,90,2,0,0,0,4,2,0,0,33,0,0,1,0.7,0.7,0.0,2,0,13,19,68.4,0,19,2,1,0,Metz,2020-09-20 Metz-Reims,FRA-L1,20-21,a0f9e058
+a0791826,Farid Boulaya,10,ALG,"LW,AM",27-208,90,0,1,0,0,4,1,1,0,68,1,0,0,0.1,0.1,0.2,7,1,44,62,71.0,6,45,12,1,1,Metz,2020-09-20 Metz-Reims,FRA-L1,20-21,a0f9e058
+75a63397,Opa Nguette,11,SEN,"RW,LW",26-074,70,0,0,0,0,1,1,0,0,30,5,0,0,0.7,0.7,0.0,1,0,12,17,70.6,1,19,3,2,2,Metz,2020-09-20 Metz-Reims,FRA-L1,20-21,a0f9e058
+87e9c7cd,Papa Ndiaga Yade,26,MTN,LW,20-259,20,0,1,0,0,0,0,0,0,12,0,0,0,0.0,0.0,0.6,4,1,9,10,90.0,0,7,3,1,1,Metz,2020-09-20 Metz-Reims,FRA-L1,20-21,a0f9e058
+f86ca403,Vincent Pajot,14,FRA,"LM,DM",30-032,80,0,0,0,0,0,0,0,0,45,3,1,1,0.0,0.0,0.0,2,0,35,39,89.7,1,34,1,0,0,Metz,2020-09-20 Metz-Reims,FRA-L1,20-21,a0f9e058
+93b8f9f4,Warren Tchimbembé,12,CGO,DM,22-152,10,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,6,8,75.0,1,3,1,0,0,Metz,2020-09-20 Metz-Reims,FRA-L1,20-21,a0f9e058
+e768de1f,Habib Maïga,19,CIV,"CM,DM",24-263,90,0,0,0,0,0,0,0,0,74,2,2,0,0.0,0.0,0.0,2,0,53,66,80.3,7,46,0,1,1,Metz,2020-09-20 Metz-Reims,FRA-L1,20-21,a0f9e058
+d8992b84,Victorien Angban,5,CIV,RM,23-357,61,0,0,0,0,1,0,0,0,52,2,0,0,0.0,0.0,0.0,2,0,38,44,86.4,1,28,2,2,1,Metz,2020-09-20 Metz-Reims,FRA-L1,20-21,a0f9e058
+2945f4b7,Thierry Ambrose,9,GLP,RW,23-176,29,0,0,0,0,3,0,0,0,19,2,0,0,0.1,0.1,0.0,0,0,9,14,64.3,1,16,4,1,1,Metz,2020-09-20 Metz-Reims,FRA-L1,20-21,a0f9e058
+cc41f558,Matthieu Udol,3,FRA,LB,24-184,90,0,0,0,0,1,0,0,0,48,1,3,1,0.0,0.0,0.7,1,0,34,38,89.5,1,31,7,1,1,Metz,2020-09-20 Metz-Reims,FRA-L1,20-21,a0f9e058
+861227d2,John Boye,21,GHA,CB,33-150,90,0,0,0,0,0,0,0,0,48,0,1,0,0.0,0.0,0.0,0,0,37,43,86.0,2,24,0,0,0,Metz,2020-09-20 Metz-Reims,FRA-L1,20-21,a0f9e058
+edd81e2a,Dylan Bronn,2,TUN,CB,25-093,90,0,0,0,0,0,0,0,0,66,2,0,1,0.0,0.0,0.0,2,1,48,60,80.0,8,46,1,1,1,Metz,2020-09-20 Metz-Reims,FRA-L1,20-21,a0f9e058
+3c6bbbab,Fabien Centonze,18,FRA,RB,24-248,90,0,0,0,0,0,0,0,0,77,3,5,1,0.0,0.0,0.0,2,1,45,61,73.8,3,41,6,6,4,Metz,2020-09-20 Metz-Reims,FRA-L1,20-21,a0f9e058
+ae7d0ecd,Alexandre Oukidja,16,ALG,GK,32-063,90,0,0,0,0,0,0,0,0,33,0,0,0,0.0,0.0,0.0,1,0,20,31,64.5,1,19,0,0,0,Metz,2020-09-20 Metz-Reims,FRA-L1,20-21,a0f9e058
+244bc2c8,Boulaye Dia,11,SEN,"FW,RM",23-309,90,1,0,1,1,2,0,0,0,41,0,0,3,0.9,0.1,0.1,2,0,19,26,73.1,1,14,1,1,0,Reims,2020-09-20 Metz-Reims,FRA-L1,20-21,a0f9e058
+095e4199,Arber Zeneli,10,KVX,"LW,LM",25-208,67,0,0,0,0,3,3,0,0,40,2,0,0,0.2,0.2,0.0,1,0,18,30,60.0,1,17,2,4,3,Reims,2020-09-20 Metz-Reims,FRA-L1,20-21,a0f9e058
+1b6862e8,Dereck Kutesa,8,SUI,LM,22-289,23,0,0,0,0,1,0,0,0,6,2,1,0,0.0,0.0,0.0,0,0,0,0,,0,4,1,1,0,Reims,2020-09-20 Metz-Reims,FRA-L1,20-21,a0f9e058
+2a657da0,Mathieu Cafaro,24,FRA,"RW,RM",23-179,67,0,0,0,0,1,0,1,0,18,1,0,0,0.0,0.0,0.0,0,0,7,12,58.3,3,10,0,2,0,Reims,2020-09-20 Metz-Reims,FRA-L1,20-21,a0f9e058
+47c609d5,El Bilal Touré,27,MLI,FW,18-353,23,0,0,0,0,0,0,0,0,13,0,0,1,0.0,0.0,0.0,0,0,6,8,75.0,1,5,0,0,0,Reims,2020-09-20 Metz-Reims,FRA-L1,20-21,a0f9e058
+d5575935,Valon Berisha,14,KVX,"AM,CM",27-226,89,0,0,0,0,1,0,0,0,43,3,0,1,0.1,0.1,0.1,5,1,19,30,63.3,3,18,0,2,1,Reims,2020-09-20 Metz-Reims,FRA-L1,20-21,a0f9e058
+9c2b1f11,Kaj Sierhuis,9,NED,FW,22-146,1,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,0,0,0,0,Reims,2020-09-20 Metz-Reims,FRA-L1,20-21,a0f9e058
+279ddf6a,Xavier Chavalerin,7,FRA,"DM,CM",29-197,90,0,0,0,0,0,0,0,0,34,4,1,1,0.0,0.0,0.1,2,0,23,27,85.2,3,15,0,1,0,Reims,2020-09-20 Metz-Reims,FRA-L1,20-21,a0f9e058
+f54d2149,Moreto Cassamã,23,GNB,DM,22-217,51,0,0,0,0,0,0,1,0,36,0,1,1,0.0,0.0,0.0,2,0,26,31,83.9,3,10,0,1,1,Reims,2020-09-20 Metz-Reims,FRA-L1,20-21,a0f9e058
+5d93ccee,Dario Maresic,29,AUT,CB,20-357,39,0,0,0,0,0,0,0,0,15,3,0,0,0.0,0.0,0.0,0,0,4,11,36.4,0,2,0,0,0,Reims,2020-09-20 Metz-Reims,FRA-L1,20-21,a0f9e058
+6b2c894b,Ghislain Konan,3,CIV,LB,24-268,90,0,0,0,0,1,0,1,0,64,2,2,1,0.0,0.0,0.0,1,0,38,48,79.2,4,21,7,8,4,Reims,2020-09-20 Metz-Reims,FRA-L1,20-21,a0f9e058
+32c2d95f,Yunis Abdelhamid,5,MAR,CB,32-358,90,0,0,0,0,0,0,1,0,48,0,1,1,0.0,0.0,0.0,0,0,32,41,78.0,2,22,1,2,1,Reims,2020-09-20 Metz-Reims,FRA-L1,20-21,a0f9e058
+2acf0cd7,Marshall Munetsi,15,ZIM,CB,24-090,49,0,0,0,0,0,0,0,1,29,0,1,0,0.0,0.0,0.0,0,0,19,24,79.2,1,20,0,0,0,Reims,2020-09-20 Metz-Reims,FRA-L1,20-21,a0f9e058
+90eb507d,Thomas Foket,32,BEL,RB,25-361,90,0,0,0,0,0,0,0,0,35,0,0,0,0.0,0.0,0.0,1,1,22,31,71.0,0,16,3,0,0,Reims,2020-09-20 Metz-Reims,FRA-L1,20-21,a0f9e058
+58ad9383,Predrag Rajković,1,SRB,GK,24-325,90,0,0,0,0,0,0,0,0,39,0,0,0,0.0,0.0,0.0,0,0,22,36,61.1,0,11,0,0,0,Reims,2020-09-20 Metz-Reims,FRA-L1,20-21,a0f9e058

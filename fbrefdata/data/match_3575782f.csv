@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+c699e60c,Alexander Gerndt,19,SWE,FW,33-081,77,0,0,0,0,3,2,0,0,28,1,0,1,0.2,0.2,0.1,3,0,12,17,70.6,5,12,1,1,1,Lugano,2019-10-03 Lugano-Dynamo Kyiv,UEL,19-20,3575782f
+1adb73db,Filip Holender,9,HUN,"LM,FW",25-068,13,0,0,0,0,1,0,0,0,5,0,0,0,0.0,0.0,0.0,1,0,1,2,50.0,1,4,1,0,0,Lugano,2019-10-03 Lugano-Dynamo Kyiv,UEL,19-20,3575782f
+bd46bd6d,Marco Aratore,70,SUI,LW,28-121,63,0,0,0,0,2,1,0,0,23,0,0,0,0.1,0.1,0.1,3,0,8,15,53.3,2,14,6,3,1,Lugano,2019-10-03 Lugano-Dynamo Kyiv,UEL,19-20,3575782f
+59a3efba,Nicola Dalmonte,23,ITA,"RW,FW,LW",22-020,27,0,0,0,0,1,1,0,0,6,0,0,0,0.0,0.0,0.0,0,0,3,4,75.0,0,4,0,0,0,Lugano,2019-10-03 Lugano-Dynamo Kyiv,UEL,19-20,3575782f
+7352dca8,Carlinhos,11,BRA,"RW,LW,FW",25-056,90,0,0,0,0,2,0,0,0,38,1,1,2,0.1,0.1,0.0,2,0,15,24,62.5,4,24,4,0,0,Lugano,2019-10-03 Lugano-Dynamo Kyiv,UEL,19-20,3575782f
+173eb3cd,Bálint Vécsei,17,HUN,"LM,CM",26-082,90,0,0,0,0,2,0,0,0,45,1,0,1,0.1,0.1,0.0,0,0,24,35,68.6,5,23,2,1,1,Lugano,2019-10-03 Lugano-Dynamo Kyiv,UEL,19-20,3575782f
+ea7a8366,Jonathan Sabbatini,14,URU,CM,31-186,90,0,0,0,0,1,0,0,0,54,5,7,1,0.0,0.0,0.1,5,0,29,36,80.6,5,21,1,1,1,Lugano,2019-10-03 Lugano-Dynamo Kyiv,UEL,19-20,3575782f
+966eea58,Sandi Lovrić,24,SVN,RM,21-189,70,0,0,0,0,0,0,0,0,26,3,0,0,0.0,0.0,0.1,3,0,18,21,85.7,1,10,0,0,0,Lugano,2019-10-03 Lugano-Dynamo Kyiv,UEL,19-20,3575782f
+2f8e326a,Olivier Custodio,20,SUI,RM,24-235,20,0,0,0,0,0,0,0,0,10,2,0,2,0.0,0.0,0.4,3,0,4,6,66.7,0,3,0,1,1,Lugano,2019-10-03 Lugano-Dynamo Kyiv,UEL,19-20,3575782f
+4b2ad4b1,Numa Lavanchy,16,SUI,LB,26-039,90,0,0,0,0,1,0,0,0,51,1,2,1,0.1,0.1,0.1,4,0,29,40,72.5,3,23,4,0,0,Lugano,2019-10-03 Lugano-Dynamo Kyiv,UEL,19-20,3575782f
+6bff8a73,Fabio Daprelà,30,SUI,CB,28-226,90,0,0,0,0,1,0,0,0,37,0,1,0,0.1,0.1,0.0,0,0,23,31,74.2,1,16,0,0,0,Lugano,2019-10-03 Lugano-Dynamo Kyiv,UEL,19-20,3575782f
+8bbf17da,Mijat Marić,5,SUI,CB,35-156,90,0,0,0,0,2,0,0,0,37,0,2,0,0.4,0.4,0.0,2,0,24,29,82.8,1,18,0,0,0,Lugano,2019-10-03 Lugano-Dynamo Kyiv,UEL,19-20,3575782f
+053f6e16,Yao Eloge Koffi,18,CIV,RB,23-256,90,0,0,0,0,0,0,1,0,39,3,0,2,0.0,0.0,0.0,0,0,20,32,62.5,0,13,1,0,0,Lugano,2019-10-03 Lugano-Dynamo Kyiv,UEL,19-20,3575782f
+6e240751,Noam Baumann,46,DOM,GK,23-176,90,0,0,0,0,0,0,0,0,42,1,0,0,0.0,0.0,0.0,0,0,26,39,66.7,0,18,0,0,0,Lugano,2019-10-03 Lugano-Dynamo Kyiv,UEL,19-20,3575782f
+3814b753,Gerson Rodrigues,22,LUX,FW,24-105,69,0,0,0,0,4,0,0,0,27,0,0,0,0.1,0.1,0.0,2,0,10,12,83.3,0,18,0,1,1,Dynamo Kyiv,2019-10-03 Lugano-Dynamo Kyiv,UEL,19-20,3575782f
+11c0fa9d,Artem Besyedin,41,UKR,FW,23-186,21,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.1,2,0,4,6,66.7,0,4,0,0,0,Dynamo Kyiv,2019-10-03 Lugano-Dynamo Kyiv,UEL,19-20,3575782f
+2ebc1b44,Benjamin Verbič,7,SVN,LW,25-310,87,0,0,0,0,5,0,0,0,69,0,2,1,0.2,0.2,0.0,1,0,44,54,81.5,4,49,8,1,0,Dynamo Kyiv,2019-10-03 Lugano-Dynamo Kyiv,UEL,19-20,3575782f
+6b915aa1,Carlos de Pena,14,URU,LW,27-206,3,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,1,0,1,2,50.0,0,3,1,1,0,Dynamo Kyiv,2019-10-03 Lugano-Dynamo Kyiv,UEL,19-20,3575782f
+f7e87032,Viktor Tsyhankov,15,UKR,RW,21-322,90,0,0,0,0,2,0,0,0,83,2,1,0,0.4,0.4,0.2,5,0,53,69,76.8,3,57,11,2,2,Dynamo Kyiv,2019-10-03 Lugano-Dynamo Kyiv,UEL,19-20,3575782f
+a81ed730,Volodymyr Shepelyev,8,UKR,LM,22-124,83,0,0,0,0,1,1,0,0,53,0,0,0,0.0,0.0,0.0,5,0,45,49,91.8,6,43,1,2,0,Dynamo Kyiv,2019-10-03 Lugano-Dynamo Kyiv,UEL,19-20,3575782f
+bfc5768b,Denys Harmash,19,UKR,LM,29-167,7,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,2,4,50.0,0,5,0,0,0,Dynamo Kyiv,2019-10-03 Lugano-Dynamo Kyiv,UEL,19-20,3575782f
+c71e97ba,Serhiy Sydorchuk,5,UKR,CM,28-154,90,0,0,0,0,1,1,0,0,95,1,0,0,0.0,0.0,0.0,3,0,78,87,89.7,11,68,3,2,1,Dynamo Kyiv,2019-10-03 Lugano-Dynamo Kyiv,UEL,19-20,3575782f
+b8814868,Vitaliy Buyalskyi,29,UKR,RM,26-270,90,0,0,0,0,2,0,0,0,81,0,1,0,0.1,0.1,0.1,3,0,66,76,86.8,3,56,3,3,2,Dynamo Kyiv,2019-10-03 Lugano-Dynamo Kyiv,UEL,19-20,3575782f
+30d4a2e5,Vitaliy Mykolenko,16,UKR,LB,20-127,90,0,0,0,0,1,0,0,0,99,0,1,0,0.0,0.0,0.4,6,0,78,94,83.0,9,72,10,3,2,Dynamo Kyiv,2019-10-03 Lugano-Dynamo Kyiv,UEL,19-20,3575782f
+71d5ca31,Tamás Kádár,44,HUN,CB,29-203,90,0,0,0,0,0,0,1,0,96,0,0,1,0.0,0.0,0.0,1,0,84,85,98.8,1,64,1,0,0,Dynamo Kyiv,2019-10-03 Lugano-Dynamo Kyiv,UEL,19-20,3575782f
+52e101a8,Artem Shabanov,30,UKR,CB,27-210,90,0,0,0,0,1,1,1,0,79,1,1,2,0.0,0.0,0.0,0,0,66,70,94.3,6,49,0,0,0,Dynamo Kyiv,2019-10-03 Lugano-Dynamo Kyiv,UEL,19-20,3575782f
+dc52c72f,Tomasz Kędziora,94,POL,RB,25-114,90,0,0,0,0,2,0,0,0,96,1,0,2,0.1,0.1,0.0,0,0,73,89,82.0,3,54,3,0,0,Dynamo Kyiv,2019-10-03 Lugano-Dynamo Kyiv,UEL,19-20,3575782f
+eb2b33aa,Heorhiy Bushchan,1,UKR,GK,25-125,90,0,0,0,0,0,0,0,0,22,0,0,0,0.0,0.0,0.0,1,0,18,20,90.0,0,9,0,0,0,Dynamo Kyiv,2019-10-03 Lugano-Dynamo Kyiv,UEL,19-20,3575782f

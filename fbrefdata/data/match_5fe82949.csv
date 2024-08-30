@@ -1,0 +1,32 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+d125f22f,David Okereke,77,NGA,FW,24-098,6,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,0,0,Venezia,2021-12-05 Venezia-Hellas Verona,ITA-SERIA_A,21-22,5fe82949
+66784dee,Dennis Johnsen,17,NOR,"LW,FW",23-291,84,0,1,0,0,0,0,0,0,30,1,0,1,0.0,0.0,0.4,1,1,14,17,82.4,1,20,2,9,4,Venezia,2021-12-05 Venezia-Hellas Verona,ITA-SERIA_A,21-22,5fe82949
+9ef42479,Thomas Henry,14,FRA,"FW,LW",27-076,90,1,1,0,0,5,2,1,0,43,0,0,0,0.3,0.3,0.8,5,2,15,27,55.6,2,21,0,2,0,Venezia,2021-12-05 Venezia-Hellas Verona,ITA-SERIA_A,21-22,5fe82949
+0847b5a5,Mattia Aramu,10,ITA,RW,26-205,65,0,0,0,0,1,0,0,0,29,0,0,2,0.0,0.0,0.0,1,1,15,18,83.3,3,13,0,0,0,Venezia,2021-12-05 Venezia-Hellas Verona,ITA-SERIA_A,21-22,5fe82949
+8abd174d,Michael Svoboda,30,AUT,RW,23-051,25,0,0,0,0,0,0,0,0,15,1,1,0,0.0,0.0,0.0,0,0,12,14,85.7,0,12,0,0,0,Venezia,2021-12-05 Venezia-Hellas Verona,ITA-SERIA_A,21-22,5fe82949
+22cd43d2,Domen Črnigoj,33,SVN,"RM,LM",26-017,90,1,0,0,0,2,2,0,0,50,0,2,1,0.4,0.4,0.1,2,0,25,36,69.4,2,21,1,2,2,Venezia,2021-12-05 Venezia-Hellas Verona,ITA-SERIA_A,21-22,5fe82949
+444c89d9,Antonio Vacca,5,ITA,CM,31-206,74,0,0,0,0,0,0,1,0,54,2,3,3,0.0,0.0,0.0,1,0,36,44,81.8,2,26,0,2,2,Venezia,2021-12-05 Venezia-Hellas Verona,ITA-SERIA_A,21-22,5fe82949
+ac277993,Tanner Tessmann,8,USA,CM,20-072,16,0,0,0,0,0,0,0,0,13,0,0,1,0.0,0.0,0.0,0,0,7,10,70.0,2,8,0,0,0,Venezia,2021-12-05 Venezia-Hellas Verona,ITA-SERIA_A,21-22,5fe82949
+ce1806be,Sofian Kiyine,23,MAR,"LM,RM",24-064,65,0,0,0,0,0,0,0,0,28,2,0,0,0.0,0.0,0.0,3,1,19,22,86.4,2,18,1,2,1,Venezia,2021-12-05 Venezia-Hellas Verona,ITA-SERIA_A,21-22,5fe82949
+4a0b7f07,Gianluca Busio,27,USA,LM,19-191,25,0,0,0,0,0,0,0,0,16,0,1,2,0.0,0.0,0.0,0,0,7,11,63.6,0,8,1,0,0,Venezia,2021-12-05 Venezia-Hellas Verona,ITA-SERIA_A,21-22,5fe82949
+1c8c5aed,Cristian Molinaro,3,ITA,LB,38-128,90,0,0,0,0,0,0,0,0,62,3,1,0,0.0,0.0,0.1,3,0,27,53,50.9,3,27,3,2,2,Venezia,2021-12-05 Venezia-Hellas Verona,ITA-SERIA_A,21-22,5fe82949
+4d1efb48,Pietro Ceccaroni,32,ITA,CB,25-349,62,1,0,0,0,1,1,0,1,21,1,0,0,0.8,0.8,0.0,0,0,12,15,80.0,0,10,0,0,0,Venezia,2021-12-05 Venezia-Hellas Verona,ITA-SERIA_A,21-22,5fe82949
+ac7e640b,Mattia Caldara,31,ITA,CB,27-214,90,0,0,0,0,0,0,0,0,38,1,3,2,0.0,0.0,0.0,0,0,20,27,74.1,1,21,0,0,0,Venezia,2021-12-05 Venezia-Hellas Verona,ITA-SERIA_A,21-22,5fe82949
+eb0ec070,Pasquale Mazzocchi,7,ITA,RB,26-131,65,0,0,0,0,0,0,0,0,43,2,3,2,0.0,0.0,0.0,0,0,19,26,73.1,0,17,0,3,1,Venezia,2021-12-05 Venezia-Hellas Verona,ITA-SERIA_A,21-22,5fe82949
+6af30900,Tyronne Ebuehi,22,NGA,RB,25-354,25,0,0,0,0,0,0,0,0,20,0,1,0,0.0,0.0,0.0,0,0,11,18,61.1,1,14,0,0,0,Venezia,2021-12-05 Venezia-Hellas Verona,ITA-SERIA_A,21-22,5fe82949
+1e26e376,Sergio Romero,88,ARG,GK,34-286,90,0,0,0,0,0,0,0,0,43,0,0,0,0.0,0.0,0.0,1,0,27,37,73.0,1,17,0,0,0,Venezia,2021-12-05 Venezia-Hellas Verona,ITA-SERIA_A,21-22,5fe82949
+54e53b7e,Gianluca Caprari,10,ITA,"FW,AM",28-128,90,1,0,1,1,4,1,0,0,61,2,0,2,1.0,0.2,0.1,8,1,30,44,68.2,3,37,4,3,2,Hellas Verona,2021-12-05 Venezia-Hellas Verona,ITA-SERIA_A,21-22,5fe82949
+343c0d52,Giovanni Simeone,99,ARG,FW,26-153,90,2,0,0,0,2,2,1,0,37,0,1,2,0.5,0.5,0.0,1,0,12,22,54.5,2,20,1,1,1,Hellas Verona,2021-12-05 Venezia-Hellas Verona,ITA-SERIA_A,21-22,5fe82949
+bb376bed,Ivan Ilić,14,SRB,AM,20-263,78,0,0,0,0,2,0,0,0,49,1,0,0,0.1,0.1,0.1,2,0,30,37,81.1,6,36,1,2,0,Hellas Verona,2021-12-05 Venezia-Hellas Verona,ITA-SERIA_A,21-22,5fe82949
+88895312,Daniel Bessa,24,ITA,CM,28-325,12,0,0,0,0,0,0,0,0,22,0,1,0,0.0,0.0,0.0,1,0,13,17,76.5,0,10,0,1,0,Hellas Verona,2021-12-05 Venezia-Hellas Verona,ITA-SERIA_A,21-22,5fe82949
+ab1ca213,Miguel Veloso,4,POR,CM,35-208,56,0,0,0,0,2,1,0,0,50,1,0,0,0.1,0.1,0.1,2,0,33,44,75.0,6,22,5,0,0,Hellas Verona,2021-12-05 Venezia-Hellas Verona,ITA-SERIA_A,21-22,5fe82949
+09538fdb,Kevin Lasagna,11,ITA,"CM,FW",29-117,34,0,1,0,0,2,0,0,0,13,0,0,1,0.2,0.2,0.1,2,0,7,7,100.0,1,6,1,0,0,Hellas Verona,2021-12-05 Venezia-Hellas Verona,ITA-SERIA_A,21-22,5fe82949
+8da74c05,Adrien Tameze,61,CMR,CM,27-304,90,0,0,0,0,0,0,0,0,66,1,2,3,0.0,0.0,0.0,3,0,47,54,87.0,8,30,4,2,2,Hellas Verona,2021-12-05 Venezia-Hellas Verona,ITA-SERIA_A,21-22,5fe82949
+5128bde4,Darko Lazović,8,SRB,WB,31-081,90,0,0,0,0,1,1,0,0,60,2,0,1,0.1,0.1,0.1,2,1,40,52,76.9,5,25,1,0,0,Hellas Verona,2021-12-05 Venezia-Hellas Verona,ITA-SERIA_A,21-22,5fe82949
+aae9d04a,Davide Faraoni,5,ITA,WB,30-041,90,0,1,0,0,2,0,0,0,61,2,1,0,0.2,0.2,0.4,4,2,29,46,63.0,6,29,1,0,0,Hellas Verona,2021-12-05 Venezia-Hellas Verona,ITA-SERIA_A,21-22,5fe82949
+d9624b51,Federico Ceccherini,17,ITA,CB,29-208,90,0,0,0,0,0,0,0,0,55,1,1,0,0.0,0.0,0.0,0,0,39,47,83.0,6,30,2,0,0,Hellas Verona,2021-12-05 Venezia-Hellas Verona,ITA-SERIA_A,21-22,5fe82949
+16bb656a,Paweł Dawidowicz,27,POL,CB,26-199,90,0,0,0,0,0,0,0,0,49,2,2,0,0.0,0.0,0.1,3,0,33,41,80.5,3,27,2,0,0,Hellas Verona,2021-12-05 Venezia-Hellas Verona,ITA-SERIA_A,21-22,5fe82949
+3f5f38fb,Nicolò Casale,16,ITA,CB,23-294,29,0,0,0,0,0,0,0,0,21,0,2,0,0.0,0.0,0.0,1,0,17,18,94.4,3,8,1,0,0,Hellas Verona,2021-12-05 Venezia-Hellas Verona,ITA-SERIA_A,21-22,5fe82949
+cce9f582,Giangiacomo Magnani,23,ITA,CB,26-062,61,0,0,0,0,0,0,1,0,41,1,3,0,0.0,0.0,0.0,0,0,27,29,93.1,4,21,3,0,0,Hellas Verona,2021-12-05 Venezia-Hellas Verona,ITA-SERIA_A,21-22,5fe82949
+c1d95617,Lorenzo Montipò,96,ITA,GK,25-288,90,0,0,0,0,0,0,0,0,17,0,0,0,0.0,0.0,0.0,0,0,11,14,78.6,0,6,0,0,0,Hellas Verona,2021-12-05 Venezia-Hellas Verona,ITA-SERIA_A,21-22,5fe82949

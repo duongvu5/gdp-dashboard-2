@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+3bb7f478,Edin Džeko,9,BIH,FW,34-113,90,0,0,0,0,3,0,0,0,40,0,0,0,0.3,0.3,0.6,6,0,20,27,74.1,4,17,1,2,0,Roma,2020-07-08 Roma-Parma,ITA-SERIA_A,19-20,7210abad
+dd0daf32,Henrikh Mkhitaryan,77,ARM,AM,31-169,89,1,1,0,0,3,2,1,0,49,6,0,2,0.4,0.4,0.2,5,1,29,37,78.4,4,30,7,0,0,Roma,2020-07-08 Roma-Parma,ITA-SERIA_A,19-20,7210abad
+9907b1c8,Nicolò Zaniolo,22,ITA,AM,21-006,1,0,0,0,0,1,0,0,0,4,0,0,0,0.1,0.1,0.6,1,0,2,2,100.0,1,4,0,0,0,Roma,2020-07-08 Roma-Parma,ITA-SERIA_A,19-20,7210abad
+4a5a45c7,Lorenzo Pellegrini,7,ITA,AM,24-019,82,0,0,0,0,2,0,0,0,70,0,0,3,0.0,0.0,0.2,7,0,45,60,75.0,8,38,6,1,0,Roma,2020-07-08 Roma-Parma,ITA-SERIA_A,19-20,7210abad
+a8f21b9f,Carles Pérez,31,ESP,AM,22-143,8,0,0,0,0,0,0,0,0,7,0,0,1,0.0,0.0,0.1,2,0,3,5,60.0,1,6,2,1,0,Roma,2020-07-08 Roma-Parma,ITA-SERIA_A,19-20,7210abad
+4a56052c,Jordan Veretout,21,FRA,CM,27-129,90,1,0,0,0,2,1,0,0,70,0,1,4,0.1,0.1,0.3,4,0,50,57,87.7,12,43,6,1,0,Roma,2020-07-08 Roma-Parma,ITA-SERIA_A,19-20,7210abad
+bf309d24,Amadou Diawara,42,GUI,CM,22-357,82,0,0,0,0,0,0,1,0,55,0,1,0,0.0,0.0,0.0,4,1,51,53,96.2,0,36,0,0,0,Roma,2020-07-08 Roma-Parma,ITA-SERIA_A,19-20,7210abad
+bdc74a8f,Gonzalo Villar,14,ESP,CM,22-107,8,0,0,0,0,2,2,0,0,7,1,0,0,1.0,1.0,0.0,1,0,2,2,100.0,0,5,0,0,0,Roma,2020-07-08 Roma-Parma,ITA-SERIA_A,19-20,7210abad
+3626daea,Leonardo Spinazzola,37,ITA,WB,27-105,90,0,0,0,0,1,0,0,0,72,1,0,2,0.1,0.1,0.5,7,0,43,60,71.7,1,36,10,4,3,Roma,2020-07-08 Roma-Parma,ITA-SERIA_A,19-20,7210abad
+852351df,Bruno Peres,33,BRA,WB,30-129,66,0,1,0,0,5,1,1,0,67,1,0,1,0.4,0.4,0.3,6,1,55,59,93.2,2,43,8,1,1,Roma,2020-07-08 Roma-Parma,ITA-SERIA_A,19-20,7210abad
+eda40760,Aleksandar Kolarov,11,SRB,WB,34-241,24,0,0,0,0,0,0,0,0,17,0,0,0,0.0,0.0,0.0,0,0,16,16,100.0,3,6,0,0,0,Roma,2020-07-08 Roma-Parma,ITA-SERIA_A,19-20,7210abad
+82efe6fa,Roger Ibanez,41,BRA,CB,21-228,90,0,0,0,0,1,0,1,0,59,4,4,2,0.1,0.1,0.1,2,1,43,50,86.0,2,36,0,0,0,Roma,2020-07-08 Roma-Parma,ITA-SERIA_A,19-20,7210abad
+16657b95,Bryan Cristante,4,ITA,CB,25-127,90,0,0,0,0,3,1,1,0,68,1,0,0,0.1,0.1,0.0,2,0,52,60,86.7,6,49,2,0,0,Roma,2020-07-08 Roma-Parma,ITA-SERIA_A,19-20,7210abad
+5aa53281,Gianluca Mancini,23,ITA,CB,24-082,90,0,0,0,0,2,1,0,0,57,2,1,2,0.5,0.5,0.0,2,0,42,45,93.3,3,31,4,0,0,Roma,2020-07-08 Roma-Parma,ITA-SERIA_A,19-20,7210abad
+20b9f052,Pau López,13,ESP,GK,25-208,90,0,0,0,0,0,0,0,0,18,0,0,0,0.0,0.0,0.0,0,0,14,17,82.4,0,6,0,0,0,Roma,2020-07-08 Roma-Parma,ITA-SERIA_A,19-20,7210abad
+c693347d,Andreas Cornelius,11,DEN,FW,27-114,45,0,0,0,0,0,0,0,0,14,0,0,0,0.0,0.0,0.0,3,2,7,12,58.3,1,7,1,1,1,Parma,2020-07-08 Roma-Parma,ITA-SERIA_A,19-20,7210abad
+144607cc,Jasmin Kurtić,19,SVN,"DM,RM",31-180,45,0,0,0,0,0,0,1,0,28,1,1,0,0.0,0.0,0.0,2,0,20,23,87.0,1,14,0,0,0,Parma,2020-07-08 Roma-Parma,ITA-SERIA_A,19-20,7210abad
+e468c053,Gervinho,27,CIV,"LW,FW",33-042,86,0,0,0,0,1,0,0,0,19,0,0,0,0.1,0.1,0.0,0,0,12,15,80.0,1,13,2,1,1,Parma,2020-07-08 Roma-Parma,ITA-SERIA_A,19-20,7210abad
+bdd0692f,Mattia Sprocati,93,ITA,RW,27-071,4,0,0,0,0,1,0,0,0,5,1,0,0,0.0,0.0,0.0,0,0,3,3,100.0,1,2,0,0,0,Parma,2020-07-08 Roma-Parma,ITA-SERIA_A,19-20,7210abad
+df3cda47,Dejan Kulusevski,44,SWE,"RW,FW",20-074,80,0,0,0,0,0,0,0,0,28,0,0,1,0.0,0.0,0.2,2,0,14,15,93.3,0,17,1,1,0,Parma,2020-07-08 Roma-Parma,ITA-SERIA_A,19-20,7210abad
+54e53b7e,Gianluca Caprari,20,ITA,"LW,RW",26-344,10,0,0,0,0,1,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,3,5,60.0,0,4,0,1,1,Parma,2020-07-08 Roma-Parma,ITA-SERIA_A,19-20,7210abad
+a64cbd35,Antonino Barillà,17,ITA,LM,32-098,62,0,0,0,0,0,0,0,0,26,0,1,1,0.0,0.0,0.0,0,0,16,24,66.7,1,13,0,0,0,Parma,2020-07-08 Roma-Parma,ITA-SERIA_A,19-20,7210abad
+8b66d9cc,Yann Karamoh,7,FRA,"LW,FW",22-000,28,0,0,0,0,1,0,0,0,11,0,0,1,0.1,0.1,0.0,1,0,4,6,66.7,0,7,2,1,1,Parma,2020-07-08 Roma-Parma,ITA-SERIA_A,19-20,7210abad
+6f5ead86,Hernani,10,BRA,"CM,DM",26-103,86,0,0,0,0,0,0,0,0,51,0,5,2,0.0,0.0,0.1,1,0,27,41,65.9,2,21,2,1,1,Parma,2020-07-08 Roma-Parma,ITA-SERIA_A,19-20,7210abad
+ea164f99,Matteo Scozzarella,21,ITA,DM,32-033,4,0,0,0,0,0,0,0,0,15,0,1,0,0.0,0.0,0.0,1,0,10,13,76.9,3,6,1,0,0,Parma,2020-07-08 Roma-Parma,ITA-SERIA_A,19-20,7210abad
+5aaef9ef,Juraj Kucka,33,SVK,"AM,RM",33-133,90,1,0,1,1,2,0,0,0,31,1,2,0,0.9,0.1,0.0,1,0,12,19,63.2,1,15,0,1,0,Parma,2020-07-08 Roma-Parma,ITA-SERIA_A,19-20,7210abad
+149c5f5d,Giuseppe Pezzella,97,ITA,LB,22-222,90,0,0,0,0,0,0,0,0,58,2,1,2,0.0,0.0,0.0,3,0,32,43,74.4,1,19,3,2,2,Parma,2020-07-08 Roma-Parma,ITA-SERIA_A,19-20,7210abad
+585a73a8,Bruno Alves,22,POR,CB,38-224,90,0,0,0,0,1,0,0,0,53,0,1,3,0.0,0.0,0.0,1,0,36,43,83.7,2,26,0,0,0,Parma,2020-07-08 Roma-Parma,ITA-SERIA_A,19-20,7210abad
+63071a3f,Simone Iacoponi,2,ITA,CB,33-069,90,0,0,0,0,0,0,0,0,59,1,1,3,0.0,0.0,0.0,1,0,42,44,95.5,3,23,0,0,0,Parma,2020-07-08 Roma-Parma,ITA-SERIA_A,19-20,7210abad
+96e0490d,Matteo Darmian,36,ITA,RB,30-219,90,0,0,0,0,0,0,0,0,65,3,0,2,0.0,0.0,0.0,0,0,43,53,81.1,5,22,1,2,0,Parma,2020-07-08 Roma-Parma,ITA-SERIA_A,19-20,7210abad
+343f753a,Luigi Sepe,1,ITA,GK,29-061,90,0,0,0,0,0,0,0,0,43,1,0,0,0.0,0.0,0.0,0,0,31,37,83.8,0,17,0,0,0,Parma,2020-07-08 Roma-Parma,ITA-SERIA_A,19-20,7210abad

@@ -1,0 +1,32 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+5db45ee5,Maximilian Beier,14,GER,FW,20-320,67,1,0,0,0,2,2,0,0,17,0,0,1,0.6,0.6,0.0,1,0,4,10,40.0,0,15,1,2,0,Hoffenheim,2023-09-02 Hoffenheim-Wolfsburg,GER-BL1,23-24,10204eb8
+eb6e14be,Mergim Berisha,7,GER,FW,25-114,23,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,2,0,0,0,Hoffenheim,2023-09-02 Hoffenheim-Wolfsburg,GER-BL1,23-24,10204eb8
+c4e87b8b,Wout Weghorst,10,NED,FW,31-026,90,0,0,0,0,0,0,1,0,37,1,1,1,0.0,0.0,0.0,1,0,21,29,72.4,2,27,0,1,0,Hoffenheim,2023-09-02 Hoffenheim-Wolfsburg,GER-BL1,23-24,10204eb8
+603cb947,Andrej Kramarić,27,CRO,CM,32-075,89,0,1,0,0,1,0,0,0,39,0,0,0,0.2,0.2,0.3,7,2,27,34,79.4,5,24,2,2,1,Hoffenheim,2023-09-02 Hoffenheim-Wolfsburg,GER-BL1,23-24,10204eb8
+08593525,Diadie Samassékou,18,MLI,CM,27-234,1,0,0,0,0,0,0,0,0,4,0,1,0,0.0,0.0,0.0,0,0,2,2,100.0,0,3,0,0,0,Hoffenheim,2023-09-02 Hoffenheim-Wolfsburg,GER-BL1,23-24,10204eb8
+ffbbc83b,Florian Grillitsch,11,AUT,CM,28-026,90,0,0,0,0,2,0,0,0,46,3,0,1,0.3,0.3,0.0,2,1,30,38,78.9,2,21,2,2,1,Hoffenheim,2023-09-02 Hoffenheim-Wolfsburg,GER-BL1,23-24,10204eb8
+924f9191,Grischa Prömel,6,GER,CM,28-236,90,0,0,0,0,1,0,0,0,30,0,1,1,0.1,0.1,0.1,1,0,15,22,68.2,3,18,0,1,1,Hoffenheim,2023-09-02 Hoffenheim-Wolfsburg,GER-BL1,23-24,10204eb8
+ab5b7dc1,Marius Bülter,21,GER,WB,30-157,58,0,1,0,0,0,0,0,0,31,0,0,0,0.0,0.0,0.7,1,1,20,25,80.0,4,19,0,1,0,Hoffenheim,2023-09-02 Hoffenheim-Wolfsburg,GER-BL1,23-24,10204eb8
+ff98492b,Robert Skov,29,DEN,WB,27-105,32,1,1,0,0,2,1,0,0,28,0,0,0,0.1,0.1,0.5,1,1,18,24,75.0,0,15,0,0,0,Hoffenheim,2023-09-02 Hoffenheim-Wolfsburg,GER-BL1,23-24,10204eb8
+a53b661f,Ihlas Bebou,9,TOG,WB,29-132,90,0,0,0,0,0,0,1,0,47,6,2,3,0.0,0.0,0.0,1,0,24,34,70.6,1,21,3,1,0,Hoffenheim,2023-09-02 Hoffenheim-Wolfsburg,GER-BL1,23-24,10204eb8
+50ff205b,Attila Szalai,41,HUN,CB,25-225,90,0,0,0,0,0,0,0,0,63,1,0,1,0.0,0.0,0.3,1,0,47,58,81.0,5,44,0,0,0,Hoffenheim,2023-09-02 Hoffenheim-Wolfsburg,GER-BL1,23-24,10204eb8
+e27da244,John Brooks,23,USA,CB,30-217,90,1,0,0,0,2,2,0,0,35,0,2,1,0.9,0.9,0.0,0,0,17,23,73.9,1,13,0,0,0,Hoffenheim,2023-09-02 Hoffenheim-Wolfsburg,GER-BL1,23-24,10204eb8
+1d8e9add,Kevin Vogt,22,GER,CB,31-344,90,0,0,0,0,0,0,0,0,45,1,2,0,0.0,0.0,0.0,1,0,30,39,76.9,1,28,0,0,0,Hoffenheim,2023-09-02 Hoffenheim-Wolfsburg,GER-BL1,23-24,10204eb8
+47064058,Oliver Baumann,1,GER,GK,33-092,90,0,0,0,0,0,0,0,0,42,0,0,0,0.0,0.0,0.0,0,0,26,40,65.0,0,31,0,0,0,Hoffenheim,2023-09-02 Hoffenheim-Wolfsburg,GER-BL1,23-24,10204eb8
+2077ae86,Jonas Wind,23,DEN,"FW,AM",24-207,90,0,1,0,0,2,0,0,0,30,0,0,0,0.3,0.3,0.5,2,1,17,22,77.3,4,25,0,0,0,Wolfsburg,2023-09-02 Hoffenheim-Wolfsburg,GER-BL1,23-24,10204eb8
+b492126a,Tiago Tomás,11,POR,LW,21-078,67,1,0,0,0,1,1,0,0,31,0,0,1,0.4,0.4,0.0,3,0,16,24,66.7,2,25,3,1,0,Wolfsburg,2023-09-02 Hoffenheim-Wolfsburg,GER-BL1,23-24,10204eb8
+5c50fdbc,Kevin Paredes,40,USA,"RW,LW",20-118,23,0,0,0,0,0,0,0,0,18,2,0,1,0.0,0.0,0.2,4,0,11,13,84.6,1,11,2,0,0,Wolfsburg,2023-09-02 Hoffenheim-Wolfsburg,GER-BL1,23-24,10204eb8
+bb1cf301,Václav Černý,7,CZE,RW,25-320,82,0,0,0,0,3,1,0,0,32,0,1,1,0.2,0.2,0.0,2,0,17,25,68.0,3,25,4,4,2,Wolfsburg,2023-09-02 Hoffenheim-Wolfsburg,GER-BL1,23-24,10204eb8
+202b3b68,Jakub Kamiński,16,POL,LW,21-089,8,0,0,0,0,1,1,0,0,10,0,0,0,0.1,0.1,0.0,1,0,8,9,88.9,3,10,1,0,0,Wolfsburg,2023-09-02 Hoffenheim-Wolfsburg,GER-BL1,23-24,10204eb8
+92d83c27,Mattias Svanberg,32,SWE,"LM,DM",24-240,77,0,0,0,0,1,0,1,0,28,1,0,0,0.0,0.0,0.0,2,0,18,24,75.0,1,19,0,0,0,Wolfsburg,2023-09-02 Hoffenheim-Wolfsburg,GER-BL1,23-24,10204eb8
+62ab9184,Yannick Gerhardt,31,GER,DM,29-173,13,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,5,6,83.3,0,6,1,1,0,Wolfsburg,2023-09-02 Hoffenheim-Wolfsburg,GER-BL1,23-24,10204eb8
+86e119e0,Maximilian Arnold,27,GER,"CM,DM",29-098,90,0,0,0,0,1,1,0,0,55,1,0,1,0.0,0.0,0.0,1,0,46,50,92.0,1,33,0,0,0,Wolfsburg,2023-09-02 Hoffenheim-Wolfsburg,GER-BL1,23-24,10204eb8
+fc46aab1,Lovro Majer,19,CRO,RM,25-228,67,0,0,0,0,0,0,0,0,38,1,0,1,0.0,0.0,0.0,2,0,25,34,73.5,5,25,0,1,1,Wolfsburg,2023-09-02 Hoffenheim-Wolfsburg,GER-BL1,23-24,10204eb8
+d5326924,Amin Sarr,9,SWE,FW,22-175,23,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,0,0,5,7,71.4,0,10,0,0,0,Wolfsburg,2023-09-02 Hoffenheim-Wolfsburg,GER-BL1,23-24,10204eb8
+10e7f486,Rogério,13,BRA,LB,25-232,90,0,0,0,0,0,0,0,0,88,1,0,0,0.0,0.0,0.0,1,0,75,82,91.5,11,65,4,1,0,Wolfsburg,2023-09-02 Hoffenheim-Wolfsburg,GER-BL1,23-24,10204eb8
+2bab583c,Cedric Zesiger,5,SUI,CB,25-070,90,0,0,0,0,0,0,0,0,83,0,0,1,0.0,0.0,0.0,0,0,70,79,88.6,9,66,2,0,0,Wolfsburg,2023-09-02 Hoffenheim-Wolfsburg,GER-BL1,23-24,10204eb8
+277c49ed,Maxence Lacroix,4,FRA,CB,23-149,90,0,0,0,0,0,0,0,0,104,2,1,2,0.0,0.0,0.0,0,0,75,86,87.2,5,67,0,0,0,Wolfsburg,2023-09-02 Hoffenheim-Wolfsburg,GER-BL1,23-24,10204eb8
+c459a650,Joakim Mæhle,21,DEN,RB,26-105,67,0,0,0,0,1,1,1,0,52,0,1,0,0.0,0.0,0.2,4,0,38,45,84.4,3,30,2,1,1,Wolfsburg,2023-09-02 Hoffenheim-Wolfsburg,GER-BL1,23-24,10204eb8
+442b56fa,Ridle Baku,20,GER,RB,25-147,23,0,0,0,0,3,2,0,0,29,1,1,1,0.2,0.2,0.1,2,0,21,24,87.5,2,25,3,1,1,Wolfsburg,2023-09-02 Hoffenheim-Wolfsburg,GER-BL1,23-24,10204eb8
+db401046,Koen Casteels,1,BEL,GK,31-069,90,0,0,0,0,0,0,0,0,40,0,0,0,0.0,0.0,0.0,1,1,33,39,84.6,0,29,0,0,0,Wolfsburg,2023-09-02 Hoffenheim-Wolfsburg,GER-BL1,23-24,10204eb8

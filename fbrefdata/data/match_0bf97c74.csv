@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+1238a3f9,Davie Selke,27,GER,FW,24-364,90,0,0,0,0,4,0,0,0,34,0,0,0,0.2,0.2,0.0,0,0,12,22,54.5,0,14,2,1,1,Hertha BSC,2020-01-19 Hertha BSC-Bayern Munich,GER-BL1,19-20,0bf97c74
+34a0f5ff,Javairô Dilrosun,16,NED,LM,21-211,81,0,0,0,0,0,0,0,0,36,1,1,1,0.0,0.0,0.1,1,0,15,21,71.4,2,22,1,4,2,Hertha BSC,2020-01-19 Hertha BSC-Bayern Munich,GER-BL1,19-20,0bf97c74
+88d4144a,Maximilian Mittelstädt,17,GER,LM,22-307,9,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.4,1,0,3,3,100.0,1,7,1,1,0,Hertha BSC,2020-01-19 Hertha BSC-Bayern Munich,GER-BL1,19-20,0bf97c74
+8b8e759d,Marko Grujić,15,SRB,CM,23-281,90,0,0,0,0,0,0,0,0,49,2,2,1,0.0,0.0,0.0,2,0,29,39,74.4,5,22,1,3,3,Hertha BSC,2020-01-19 Hertha BSC-Bayern Munich,GER-BL1,19-20,0bf97c74
+3eb0f2df,Vladimír Darida,6,CZE,CM,29-164,67,0,0,0,0,1,0,1,0,32,0,0,0,0.1,0.1,0.0,1,0,18,24,75.0,2,16,1,1,0,Hertha BSC,2020-01-19 Hertha BSC-Bayern Munich,GER-BL1,19-20,0bf97c74
+fa661778,Marius Wolf,30,GER,CM,24-237,23,0,0,0,0,0,0,0,0,12,0,1,0,0.0,0.0,0.0,1,0,6,9,66.7,2,7,0,1,1,Hertha BSC,2020-01-19 Hertha BSC-Bayern Munich,GER-BL1,19-20,0bf97c74
+0c61c77c,Dodi Lukebakio,28,BEL,RM,22-117,81,0,0,0,0,0,0,0,0,27,2,0,2,0.0,0.0,0.0,2,0,14,18,77.8,2,15,5,8,5,Hertha BSC,2020-01-19 Hertha BSC-Bayern Munich,GER-BL1,19-20,0bf97c74
+3861d9cc,Pascal Köpke,14,GER,RM,24-138,9,0,0,0,0,2,1,0,0,3,0,0,0,0.7,0.7,0.0,1,0,1,1,100.0,0,0,0,0,0,Hertha BSC,2020-01-19 Hertha BSC-Bayern Munich,GER-BL1,19-20,0bf97c74
+e26fcca3,Santiago Ascacíbar,18,ARG,DM,22-328,90,0,0,0,0,0,0,0,0,39,5,1,2,0.0,0.0,0.0,0,0,22,28,78.6,1,11,0,2,2,Hertha BSC,2020-01-19 Hertha BSC-Bayern Munich,GER-BL1,19-20,0bf97c74
+f7aa75bd,Marvin Plattenhardt,21,GER,LB,27-358,90,0,0,0,0,0,0,0,0,61,1,0,3,0.0,0.0,0.1,1,0,36,53,67.9,1,22,2,1,1,Hertha BSC,2020-01-19 Hertha BSC-Bayern Munich,GER-BL1,19-20,0bf97c74
+f86cabbd,Jordan Torunarigha,25,GER,CB,22-165,90,0,0,0,0,0,0,0,0,45,1,1,1,0.0,0.0,0.0,0,0,23,29,79.3,1,16,0,0,0,Hertha BSC,2020-01-19 Hertha BSC-Bayern Munich,GER-BL1,19-20,0bf97c74
+7c473e12,Dedryck Boyata,20,BEL,CB,29-052,90,0,0,0,0,0,0,1,0,42,0,3,1,0.0,0.0,0.0,0,0,32,35,91.4,0,16,0,0,0,Hertha BSC,2020-01-19 Hertha BSC-Bayern Munich,GER-BL1,19-20,0bf97c74
+92948149,Lukas Klünter,13,GER,RB,23-238,90,0,0,0,0,0,0,0,0,52,0,1,0,0.0,0.0,0.1,1,0,25,41,61.0,4,24,3,1,0,Hertha BSC,2020-01-19 Hertha BSC-Bayern Munich,GER-BL1,19-20,0bf97c74
+27d2618c,Rune Jarstein,22,NOR,GK,35-112,90,0,0,0,0,0,0,1,0,52,0,0,0,0.0,0.0,0.0,0,0,29,48,60.4,0,30,0,0,0,Hertha BSC,2020-01-19 Hertha BSC-Bayern Munich,GER-BL1,19-20,0bf97c74
+8d78e732,Robert Lewandowski,9,POL,FW,31-151,90,1,0,1,1,5,3,0,0,40,0,0,1,1.8,1.0,0.4,3,0,22,30,73.3,3,32,1,2,2,Bayern Munich,2020-01-19 Hertha BSC-Bayern Munich,GER-BL1,19-20,0bf97c74
+6fe90922,Ivan Perišić,14,CRO,LW,30-351,90,1,1,0,0,7,3,0,0,72,3,0,2,0.4,0.4,1.2,4,1,41,57,71.9,4,37,6,2,2,Bayern Munich,2020-01-19 Hertha BSC-Bayern Munich,GER-BL1,19-20,0bf97c74
+3c6089ab,Thomas Müller,25,GER,RW,30-128,86,1,1,0,0,1,1,0,0,81,1,1,0,0.5,0.5,0.5,7,1,57,78,73.1,6,56,6,1,0,Bayern Munich,2020-01-19 Hertha BSC-Bayern Munich,GER-BL1,19-20,0bf97c74
+88e357ef,Serge Gnabry,22,GER,RW,24-189,4,0,0,0,0,0,0,0,0,4,0,1,0,0.0,0.0,0.0,0,0,2,3,66.7,0,3,0,0,0,Bayern Munich,2020-01-19 Hertha BSC-Bayern Munich,GER-BL1,19-20,0bf97c74
+0ef89a37,Philippe Coutinho,10,BRA,AM,27-221,82,0,0,0,0,4,2,0,0,68,3,1,1,0.5,0.5,0.1,4,0,41,53,77.4,11,39,3,2,2,Bayern Munich,2020-01-19 Hertha BSC-Bayern Munich,GER-BL1,19-20,0bf97c74
+5722eced,Mickaël Cuisance,11,FRA,AM,20-156,8,0,0,0,0,0,0,0,0,16,0,0,0,0.0,0.0,0.0,1,1,12,14,85.7,1,14,0,0,0,Bayern Munich,2020-01-19 Hertha BSC-Bayern Munich,GER-BL1,19-20,0bf97c74
+77e84962,Thiago Alcántara,6,ESP,DM,28-283,90,1,0,0,0,1,1,0,0,115,6,4,1,0.1,0.1,0.0,6,2,90,101,89.1,17,72,2,5,5,Bayern Munich,2020-01-19 Hertha BSC-Bayern Munich,GER-BL1,19-20,0bf97c74
+cc86b9a3,Leon Goretzka,18,GER,DM,24-347,90,0,1,0,0,0,0,0,0,69,3,1,4,0.0,0.0,0.1,5,3,51,57,89.5,5,40,3,1,1,Bayern Munich,2020-01-19 Hertha BSC-Bayern Munich,GER-BL1,19-20,0bf97c74
+d781d855,Alphonso Davies,19,CAN,LB,19-078,79,0,0,0,0,0,0,0,0,89,3,2,0,0.0,0.0,0.1,4,0,60,71,84.5,1,41,3,6,3,Bayern Munich,2020-01-19 Hertha BSC-Bayern Munich,GER-BL1,19-20,0bf97c74
+aeaf1bc1,Leon Dajaku,16,GER,LB,18-282,11,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,5,6,83.3,0,3,0,0,0,Bayern Munich,2020-01-19 Hertha BSC-Bayern Munich,GER-BL1,19-20,0bf97c74
+05439de2,David Alaba,27,AUT,CB,27-209,90,0,0,0,0,0,0,0,0,92,0,1,1,0.0,0.0,0.0,1,0,78,88,88.6,7,74,3,0,0,Bayern Munich,2020-01-19 Hertha BSC-Bayern Munich,GER-BL1,19-20,0bf97c74
+2db2fd7b,Jérôme Boateng,17,GER,CB,31-138,90,0,0,0,0,0,0,0,0,79,1,1,0,0.0,0.0,0.0,0,0,66,78,84.6,4,53,0,0,0,Bayern Munich,2020-01-19 Hertha BSC-Bayern Munich,GER-BL1,19-20,0bf97c74
+45a03961,Benjamin Pavard,5,FRA,RB,23-297,90,0,0,0,0,1,0,1,0,98,3,0,0,0.0,0.0,0.0,2,0,87,92,94.6,9,66,2,0,0,Bayern Munich,2020-01-19 Hertha BSC-Bayern Munich,GER-BL1,19-20,0bf97c74
+8778c910,Manuel Neuer,1,GER,GK,33-298,90,0,0,0,0,0,0,0,0,28,0,0,0,0.0,0.0,0.0,0,0,24,27,88.9,0,13,0,0,0,Bayern Munich,2020-01-19 Hertha BSC-Bayern Munich,GER-BL1,19-20,0bf97c74

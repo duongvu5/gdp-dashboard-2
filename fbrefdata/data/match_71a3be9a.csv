@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+116c35df,Donyell Malen,21,NED,FW,22-266,71,0,0,0,0,3,0,0,0,40,2,0,1,0.3,0.3,0.4,4,1,14,24,58.3,1,20,2,1,1,Dortmund,2021-10-02 Dortmund-Augsburg,GER-BL1,21-22,71a3be9a
+6b21b7b5,Reinier,20,BRA,"AM,FW",19-256,19,0,0,0,0,1,0,0,0,19,0,0,1,0.2,0.2,0.0,1,0,13,17,76.5,0,12,0,1,1,Dortmund,2021-10-02 Dortmund-Augsburg,GER-BL1,21-22,71a3be9a
+fa661778,Marius Wolf,39,GER,"LW,RB",26-128,71,0,0,0,0,1,1,0,0,42,2,1,0,0.0,0.0,0.1,3,1,25,33,75.8,3,31,2,5,2,Dortmund,2021-10-02 Dortmund-Augsburg,GER-BL1,21-22,71a3be9a
+fa274d97,Nico Schulz,14,GER,"LB,RB",28-184,19,0,0,0,0,0,0,0,0,23,1,0,0,0.0,0.0,0.0,0,0,12,19,63.2,0,13,0,0,0,Dortmund,2021-10-02 Dortmund-Augsburg,GER-BL1,21-22,71a3be9a
+a167537f,Julian Brandt,19,GER,RW,25-153,90,1,0,0,0,2,1,0,0,69,2,3,3,0.1,0.1,0.2,3,0,49,54,90.7,5,43,4,1,0,Dortmund,2021-10-02 Dortmund-Augsburg,GER-BL1,21-22,71a3be9a
+36a3ff67,Marco Reus,11,GER,"AM,FW",32-124,90,0,1,0,0,4,0,1,0,75,1,0,1,1.0,1.0,0.3,5,1,46,61,75.4,5,45,2,1,1,Dortmund,2021-10-02 Dortmund-Augsburg,GER-BL1,21-22,71a3be9a
+5dfc6ad5,Axel Witsel,28,BEL,DM,32-263,65,0,0,0,0,0,0,0,0,41,0,3,0,0.0,0.0,0.0,0,0,34,34,100.0,2,26,0,0,0,Dortmund,2021-10-02 Dortmund-Augsburg,GER-BL1,21-22,71a3be9a
+a65ce836,Emre Can,23,GER,DM,27-263,25,0,0,0,0,2,0,0,0,28,2,2,0,0.0,0.0,0.0,1,0,19,22,86.4,0,14,0,1,1,Dortmund,2021-10-02 Dortmund-Augsburg,GER-BL1,21-22,71a3be9a
+57d88cf9,Jude Bellingham,22,ENG,DM,18-095,90,0,0,0,0,2,1,0,0,64,4,1,1,0.3,0.3,0.4,6,0,44,50,88.0,9,43,5,2,1,Dortmund,2021-10-02 Dortmund-Augsburg,GER-BL1,21-22,71a3be9a
+048a1cbc,Raphaël Guerreiro,13,POR,"LB,RB",27-284,90,1,0,1,1,2,0,0,0,113,3,1,0,0.8,0.0,0.1,4,0,88,102,86.3,9,72,2,3,2,Dortmund,2021-10-02 Dortmund-Augsburg,GER-BL1,21-22,71a3be9a
+05d548d8,Mats Hummels,15,GER,CB,32-290,65,0,0,0,0,0,0,0,0,79,4,3,1,0.0,0.0,0.0,1,1,56,68,82.4,3,45,0,1,1,Dortmund,2021-10-02 Dortmund-Augsburg,GER-BL1,21-22,71a3be9a
+2a6cd437,Marin Pongračić,34,CRO,CB,24-021,25,0,0,0,0,0,0,0,0,16,0,0,0,0.0,0.0,0.0,0,0,13,15,86.7,0,8,0,0,0,Dortmund,2021-10-02 Dortmund-Augsburg,GER-BL1,21-22,71a3be9a
+89ac64a6,Manuel Akanji,16,SUI,CB,26-075,90,0,0,0,0,1,0,0,0,86,3,3,0,0.0,0.0,0.0,0,0,69,76,90.8,3,60,0,0,0,Dortmund,2021-10-02 Dortmund-Augsburg,GER-BL1,21-22,71a3be9a
+e162b013,Thomas Meunier,24,BEL,RB,30-020,51,0,0,0,0,0,0,0,0,56,2,1,1,0.0,0.0,0.0,0,0,37,50,74.0,3,32,6,0,0,Dortmund,2021-10-02 Dortmund-Augsburg,GER-BL1,21-22,71a3be9a
+50871bcc,Thorgan Hazard,10,BEL,LW,28-187,39,0,0,0,0,1,0,0,0,38,0,0,1,0.3,0.3,0.1,3,0,26,32,81.3,4,27,4,2,0,Dortmund,2021-10-02 Dortmund-Augsburg,GER-BL1,21-22,71a3be9a
+cd59b9df,Gregor Kobel,1,SUI,GK,23-300,90,0,0,0,0,0,0,0,0,27,0,0,0,0.0,0.0,0.0,0,0,20,24,83.3,0,11,0,0,0,Dortmund,2021-10-02 Dortmund-Augsburg,GER-BL1,21-22,71a3be9a
+d01231f0,Andi Zeqiri,21,SUI,FW,22-102,77,1,0,0,0,1,1,1,0,23,3,0,1,0.5,0.5,0.0,0,0,5,8,62.5,0,14,0,2,0,Augsburg,2021-10-02 Dortmund-Augsburg,GER-BL1,21-22,71a3be9a
+d6862409,Florian Niederlechner,7,GER,FW,30-343,13,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,1,1,0,0,0,Augsburg,2021-10-02 Dortmund-Augsburg,GER-BL1,21-22,71a3be9a
+229cd98a,Sergio Córdova,9,VEN,FW,24-054,62,0,0,0,0,0,0,0,0,23,0,0,2,0.0,0.0,0.0,1,0,10,15,66.7,2,13,2,2,0,Augsburg,2021-10-02 Dortmund-Augsburg,GER-BL1,21-22,71a3be9a
+3eeb80e0,Fredrik Jensen,24,FIN,FW,24-023,28,0,0,0,0,0,0,0,0,5,1,0,0,0.0,0.0,0.0,0,0,1,3,33.3,0,3,0,1,1,Augsburg,2021-10-02 Dortmund-Augsburg,GER-BL1,21-22,71a3be9a
+ab700320,Arne Maier,10,GER,AM,22-267,77,0,0,0,0,1,0,0,0,34,1,0,1,0.0,0.0,0.1,2,1,20,27,74.1,2,23,1,4,2,Augsburg,2021-10-02 Dortmund-Augsburg,GER-BL1,21-22,71a3be9a
+8e235926,Michael Gregoritsch,11,AUT,AM,27-167,13,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,2,4,50.0,0,5,0,0,0,Augsburg,2021-10-02 Dortmund-Augsburg,GER-BL1,21-22,71a3be9a
+f2dd9a21,Carlos Gruezo,8,ECU,CM,26-166,77,0,0,0,0,0,0,1,0,28,1,1,1,0.0,0.0,0.0,0,0,16,23,69.6,1,13,1,1,1,Augsburg,2021-10-02 Dortmund-Augsburg,GER-BL1,21-22,71a3be9a
+fbbc8e15,Noah Joel Sarenren Bazee,17,NGA,"WB,CM",25-042,13,0,0,0,0,0,0,0,0,13,1,0,5,0.0,0.0,0.0,0,0,3,3,100.0,0,1,0,0,0,Augsburg,2021-10-02 Dortmund-Augsburg,GER-BL1,21-22,71a3be9a
+17780d2b,Tobias Strobl,5,GER,CM,31-143,90,0,0,0,0,0,0,0,0,30,3,2,0,0.0,0.0,0.0,2,0,15,21,71.4,4,8,1,1,1,Augsburg,2021-10-02 Dortmund-Augsburg,GER-BL1,21-22,71a3be9a
+582a5247,Mads Pedersen,3,DEN,WB,25-031,85,0,0,0,0,1,1,0,0,51,3,4,1,0.1,0.1,0.2,3,0,25,37,67.6,4,27,4,2,1,Augsburg,2021-10-02 Dortmund-Augsburg,GER-BL1,21-22,71a3be9a
+00672803,Lasse Günther,29,GER,WB,18-195,5,0,0,0,0,0,0,0,0,4,2,1,0,0.0,0.0,0.0,0,0,0,2,0.0,0,1,0,0,0,Augsburg,2021-10-02 Dortmund-Augsburg,GER-BL1,21-22,71a3be9a
+d1273f09,Daniel Caligiuri,20,ITA,"WB,CM",33-260,90,0,0,0,0,1,1,0,0,51,1,2,2,0.0,0.0,0.0,1,0,21,41,51.2,3,21,1,1,0,Augsburg,2021-10-02 Dortmund-Augsburg,GER-BL1,21-22,71a3be9a
+8b6e0db2,Reece Oxford,4,ENG,CB,22-290,90,0,0,0,0,1,0,1,0,43,1,4,2,0.2,0.2,0.0,0,0,17,29,58.6,0,11,0,0,0,Augsburg,2021-10-02 Dortmund-Augsburg,GER-BL1,21-22,71a3be9a
+1025db8e,Jeffrey Gouweleeuw,6,NED,CB,30-084,90,0,0,0,0,0,0,0,0,42,4,1,2,0.0,0.0,0.0,1,0,13,29,44.8,0,10,0,1,1,Augsburg,2021-10-02 Dortmund-Augsburg,GER-BL1,21-22,71a3be9a
+1df0c0b9,Robert Gumny,2,POL,CB,23-120,90,0,0,0,0,1,0,0,0,44,7,0,1,0.0,0.0,0.0,1,0,16,31,51.6,3,17,1,1,1,Augsburg,2021-10-02 Dortmund-Augsburg,GER-BL1,21-22,71a3be9a
+17376543,Rafał Gikiewicz,1,POL,GK,33-341,90,0,0,0,0,0,0,0,0,33,0,1,0,0.0,0.0,0.0,0,0,13,28,46.4,0,13,0,0,0,Augsburg,2021-10-02 Dortmund-Augsburg,GER-BL1,21-22,71a3be9a

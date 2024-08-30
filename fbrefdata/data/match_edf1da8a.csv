@@ -1,0 +1,29 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+746fec7d,Siebe Schrijvers,16,BEL,FW,22-211,78,0,0,0,0,0,0,0,0,33,3,0,0,0.0,0.0,0.0,0,0,12,22,54.5,2,15,1,1,1,Club Brugge,2019-02-14 Club Brugge-RB Salzburg,UEL,18-19,edf1da8a
+8652a85c,Loïs Openda,80,BEL,FW,18-363,12,0,0,0,0,0,0,0,0,3,1,0,1,0.0,0.0,0.0,0,0,1,1,100.0,0,3,1,0,0,Club Brugge,2019-02-14 Club Brugge-RB Salzburg,UEL,18-19,edf1da8a
+bfae110f,Wesley Moraes,7,BRA,FW,22-080,90,1,0,0,0,2,2,1,0,39,1,0,1,0.5,0.5,0.1,6,0,20,28,71.4,1,26,0,3,2,Club Brugge,2019-02-14 Club Brugge-RB Salzburg,UEL,18-19,edf1da8a
+392a7aea,Hans Vanaken,20,BEL,CM,26-174,90,0,0,0,0,1,1,1,0,64,2,0,2,0.0,0.0,0.2,5,1,44,56,78.6,10,39,2,4,2,Club Brugge,2019-02-14 Club Brugge-RB Salzburg,UEL,18-19,edf1da8a
+733e7ad8,Mats Rits,26,BEL,CM,25-211,90,0,0,0,0,1,0,0,0,54,6,0,3,0.0,0.0,0.0,0,0,32,42,76.2,3,22,0,0,0,Club Brugge,2019-02-14 Club Brugge-RB Salzburg,UEL,18-19,edf1da8a
+c24544c7,Ruud Vormer,25,NED,CM,30-279,90,0,1,0,0,2,0,1,0,62,1,1,1,0.1,0.1,0.1,3,2,37,54,68.5,7,25,0,1,1,Club Brugge,2019-02-14 Club Brugge-RB Salzburg,UEL,18-19,edf1da8a
+2c44a35d,Emmanuel Dennis,42,NGA,WB,21-091,90,0,1,0,0,3,0,0,0,61,6,1,1,0.1,0.1,0.0,2,1,28,42,66.7,4,35,4,6,4,Club Brugge,2019-02-14 Club Brugge-RB Salzburg,UEL,18-19,edf1da8a
+0331786b,Dion Cools,21,MAS,WB,22-255,90,0,0,0,0,0,0,0,0,27,1,0,0,0.0,0.0,0.0,0,0,15,24,62.5,0,10,0,0,0,Club Brugge,2019-02-14 Club Brugge-RB Salzburg,UEL,18-19,edf1da8a
+5832ebfe,Stefano Denswil,24,SUR,CB,25-283,90,1,0,0,0,1,1,0,0,60,4,0,0,0.1,0.1,0.0,3,0,37,48,77.1,3,32,1,0,0,Club Brugge,2019-02-14 Club Brugge-RB Salzburg,UEL,18-19,edf1da8a
+0a6dbbf7,Brandon Mechele,44,BEL,CB,26-017,90,0,0,0,0,1,1,0,0,69,1,2,2,0.1,0.1,0.0,0,0,47,53,88.7,3,36,0,0,0,Club Brugge,2019-02-14 Club Brugge-RB Salzburg,UEL,18-19,edf1da8a
+5a2cb25d,Sofyan Amrabat,6,MAR,CB,22-177,45,0,0,0,0,0,0,0,0,39,2,2,1,0.0,0.0,0.0,0,0,25,33,75.8,1,26,0,1,0,Club Brugge,2019-02-14 Club Brugge-RB Salzburg,UEL,18-19,edf1da8a
+d28b8f40,Benoît Poulain,5,FRA,CB,31-205,45,0,0,0,0,1,0,0,0,27,1,0,3,0.0,0.0,0.0,0,0,12,18,66.7,1,13,1,1,1,Club Brugge,2019-02-14 Club Brugge-RB Salzburg,UEL,18-19,edf1da8a
+3f65d5ce,Ethan Horvath,22,USA,GK,23-250,90,0,0,0,0,0,0,0,0,34,0,0,0,0.0,0.0,0.0,0,0,20,31,64.5,0,19,0,0,0,Club Brugge,2019-02-14 Club Brugge-RB Salzburg,UEL,18-19,edf1da8a
+eac044ad,Moanes Dabbur,9,ISR,FW,26-276,90,0,0,0,0,1,1,0,0,45,2,0,1,0.4,0.4,0.0,1,0,18,28,64.3,0,22,1,3,0,Red Bull Salzburg,2019-02-14 Club Brugge-RB Salzburg,UEL,18-19,edf1da8a
+b686f4c0,Fredrik Gulbrandsen,21,NOR,FW,26-157,84,0,0,0,0,1,1,0,0,20,0,1,2,0.0,0.0,0.0,0,0,7,11,63.6,0,13,0,3,1,Red Bull Salzburg,2019-02-14 Club Brugge-RB Salzburg,UEL,18-19,edf1da8a
+f833a830,Takumi Minamino,18,JPN,FW,24-029,6,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,6,6,100.0,0,6,1,0,0,Red Bull Salzburg,2019-02-14 Club Brugge-RB Salzburg,UEL,18-19,edf1da8a
+be42a291,Hannes Wolf,13,AUT,AM,19-304,88,0,0,0,0,3,1,0,0,40,1,1,3,0.1,0.1,0.0,2,0,17,28,60.7,4,29,0,3,0,Red Bull Salzburg,2019-02-14 Club Brugge-RB Salzburg,UEL,18-19,edf1da8a
+ca45605e,Patson Daka,20,ZAM,AM,20-128,2,0,0,0,0,1,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,2,0,0,0,Red Bull Salzburg,2019-02-14 Club Brugge-RB Salzburg,UEL,18-19,edf1da8a
+dba67bc4,Zlatko Junuzović,16,AUT,LM,31-141,90,1,0,0,0,2,1,0,0,56,0,4,2,0.1,0.1,0.0,3,0,21,43,48.8,3,15,3,0,0,Red Bull Salzburg,2019-02-14 Club Brugge-RB Salzburg,UEL,18-19,edf1da8a
+08593525,Diadie Samassékou,8,MLI,CM,23-034,90,0,0,0,0,0,0,0,0,59,8,3,2,0.0,0.0,0.0,2,0,32,44,72.7,5,18,0,0,0,Red Bull Salzburg,2019-02-14 Club Brugge-RB Salzburg,UEL,18-19,edf1da8a
+8f056768,Xaver Schlager,42,AUT,RM,21-139,75,0,0,0,0,1,0,1,0,35,2,0,5,0.1,0.1,0.5,3,0,16,23,69.6,4,21,4,0,0,Red Bull Salzburg,2019-02-14 Club Brugge-RB Salzburg,UEL,18-19,edf1da8a
+1d5cab82,Enock Mwepu,45,ZAM,RM,21-044,15,0,0,0,0,0,0,0,0,16,1,0,0,0.0,0.0,0.0,1,0,10,15,66.7,1,9,1,0,0,Red Bull Salzburg,2019-02-14 Club Brugge-RB Salzburg,UEL,18-19,edf1da8a
+1a799243,Andreas Ulmer,17,AUT,LB,33-107,90,0,1,0,0,2,0,1,0,78,3,1,0,0.1,0.1,0.1,3,1,38,61,62.3,2,30,3,2,0,Red Bull Salzburg,2019-02-14 Club Brugge-RB Salzburg,UEL,18-19,edf1da8a
+2a6cd437,Marin Pongračić,34,CRO,CB,21-156,90,0,0,0,0,0,0,0,0,51,1,0,1,0.0,0.0,0.0,1,1,34,45,75.6,2,28,2,1,0,Red Bull Salzburg,2019-02-14 Club Brugge-RB Salzburg,UEL,18-19,edf1da8a
+7483d9f9,André Ramalho,15,BRA,CB,26-363,90,0,0,0,0,1,1,1,0,51,3,3,2,0.0,0.0,0.0,0,0,33,39,84.6,1,21,0,0,0,Red Bull Salzburg,2019-02-14 Club Brugge-RB Salzburg,UEL,18-19,edf1da8a
+4aea5077,Stefan Lainer,22,AUT,RB,26-171,90,0,0,0,0,0,0,1,0,42,3,3,0,0.0,0.0,0.0,1,0,25,31,80.6,1,16,2,0,0,Red Bull Salzburg,2019-02-14 Club Brugge-RB Salzburg,UEL,18-19,edf1da8a
+0be3255b,Alexander Walke,33,GER,GK,35-253,90,0,0,0,0,0,0,0,0,36,0,0,0,0.0,0.0,0.0,1,0,20,36,55.6,0,26,0,0,0,Red Bull Salzburg,2019-02-14 Club Brugge-RB Salzburg,UEL,18-19,edf1da8a

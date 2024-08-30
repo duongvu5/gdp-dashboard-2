@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+acdad0aa,Marcello Trotta,29,ITA,FW,25-163,90,2,0,0,1,3,3,0,0,50,2,0,2,1.6,0.8,0.1,4,1,23,33,69.7,5,27,3,5,2,Crotone,2018-03-11 Crotone-Sampdoria,ITA-SERIA_A,17-18,b35caef2
+65c75ea8,Andrea Nalini,9,ITA,LW,27-264,69,0,0,0,0,3,1,0,0,31,1,0,2,0.2,0.2,0.1,5,0,9,19,47.4,2,12,4,6,4,Crotone,2018-03-11 Crotone-Sampdoria,ITA-SERIA_A,17-18,b35caef2
+80dbbd10,Simeon Nwankwo,99,NGA,LW,25-308,21,0,0,0,0,1,1,0,0,10,0,0,0,0.3,0.3,0.0,0,0,1,3,33.3,0,4,1,0,0,Crotone,2018-03-11 Crotone-Sampdoria,ITA-SERIA_A,17-18,b35caef2
+524eb8c5,Federico Ricci,11,ITA,RW,23-288,83,0,0,0,0,2,0,0,0,41,1,0,0,0.1,0.1,0.1,3,1,24,34,70.6,2,19,2,2,0,Crotone,2018-03-11 Crotone-Sampdoria,ITA-SERIA_A,17-18,b35caef2
+cda2ec29,Mario Sampirisi,69,ITA,RW,25-131,7,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Crotone,2018-03-11 Crotone-Sampdoria,ITA-SERIA_A,17-18,b35caef2
+a128b07e,Ahmad Benali,10,LBY,LM,26-032,90,0,0,0,0,1,1,0,0,45,5,0,2,0.0,0.0,0.0,3,1,19,31,61.3,0,16,1,2,1,Crotone,2018-03-11 Crotone-Sampdoria,ITA-SERIA_A,17-18,b35caef2
+c7259b83,Rolando Mandragora,38,ITA,CM,20-255,90,0,0,0,0,1,0,0,0,38,1,4,0,0.0,0.0,0.0,1,0,22,29,75.9,1,8,1,0,0,Crotone,2018-03-11 Crotone-Sampdoria,ITA-SERIA_A,17-18,b35caef2
+4468b31a,Adrian Stoian,8,ROU,RM,27-028,62,1,0,0,0,1,1,0,0,25,0,0,0,0.6,0.0,0.1,1,0,14,19,73.7,2,17,0,0,0,Crotone,2018-03-11 Crotone-Sampdoria,ITA-SERIA_A,17-18,b35caef2
+32ebfe1e,Andrea Barberis,18,ITA,RM,24-090,28,0,0,0,0,0,0,0,0,18,1,0,2,0.0,0.0,0.3,1,0,8,14,57.1,1,7,0,0,0,Crotone,2018-03-11 Crotone-Sampdoria,ITA-SERIA_A,17-18,b35caef2
+1e12c53b,Bruno Martella,87,ITA,LB,25-209,90,0,0,0,0,0,0,1,0,54,0,0,1,0.0,0.0,0.0,1,0,26,44,59.1,1,19,2,3,2,Crotone,2018-03-11 Crotone-Sampdoria,ITA-SERIA_A,17-18,b35caef2
+616aea37,Marco Capuano,23,ITA,CB,26-148,90,0,0,0,0,0,0,0,0,25,1,2,3,0.0,0.0,0.0,0,0,12,14,85.7,0,6,0,0,0,Crotone,2018-03-11 Crotone-Sampdoria,ITA-SERIA_A,17-18,b35caef2
+d9624b51,Federico Ceccherini,7,ITA,CB,25-304,90,0,1,0,0,0,0,0,0,33,0,2,0,0.0,0.0,0.1,2,1,18,22,81.8,1,7,0,0,0,Crotone,2018-03-11 Crotone-Sampdoria,ITA-SERIA_A,17-18,b35caef2
+aae9d04a,Davide Faraoni,37,ITA,RB,26-137,90,0,0,0,0,1,0,0,0,56,2,4,0,0.0,0.0,0.0,1,0,25,42,59.5,3,18,3,1,0,Crotone,2018-03-11 Crotone-Sampdoria,ITA-SERIA_A,17-18,b35caef2
+e66ebabb,Alex Cordaz,1,ITA,GK,35-069,90,0,0,0,0,0,0,0,0,46,0,0,0,0.0,0.0,0.2,1,0,21,43,48.8,0,23,0,0,0,Crotone,2018-03-11 Crotone-Sampdoria,ITA-SERIA_A,17-18,b35caef2
+54e53b7e,Gianluca Caprari,17,ITA,"FW,LW",24-224,90,0,0,0,0,1,0,0,0,44,0,0,2,0.0,0.0,0.1,2,0,18,35,51.4,3,31,2,1,0,Sampdoria,2018-03-11 Crotone-Sampdoria,ITA-SERIA_A,17-18,b35caef2
+ee4f2f3b,Fabio Quagliarella,27,ITA,"FW,RW",35-039,90,0,0,0,0,3,1,0,0,31,0,0,2,0.3,0.3,0.0,0,0,12,23,52.2,1,19,1,0,0,Sampdoria,2018-03-11 Crotone-Sampdoria,ITA-SERIA_A,17-18,b35caef2
+2c851997,Gastón Ramírez,11,URU,AM,27-099,30,0,0,0,0,0,0,0,0,12,0,0,0,0.0,0.0,0.0,0,0,7,11,63.6,0,6,0,0,0,Sampdoria,2018-03-11 Crotone-Sampdoria,ITA-SERIA_A,17-18,b35caef2
+d3de9af0,Duván Zapata,91,COL,"FW,AM",26-344,60,1,0,0,0,2,1,0,0,18,0,0,1,0.3,0.3,0.0,1,0,8,14,57.1,1,16,3,0,0,Sampdoria,2018-03-11 Crotone-Sampdoria,ITA-SERIA_A,17-18,b35caef2
+d023d70f,Karol Linetty,16,POL,LM,23-037,90,0,0,0,0,0,0,1,0,47,2,0,1,0.0,0.0,0.0,1,0,29,38,76.3,1,34,1,3,1,Sampdoria,2018-03-11 Crotone-Sampdoria,ITA-SERIA_A,17-18,b35caef2
+52611641,Lucas Torreira,34,URU,CM,22-028,54,0,0,0,0,1,0,0,0,54,3,1,1,0.0,0.0,0.0,0,0,40,48,83.3,1,40,2,0,0,Sampdoria,2018-03-11 Crotone-Sampdoria,ITA-SERIA_A,17-18,b35caef2
+07ea0ef2,Leonardo Capezzi,28,ITA,CM,22-348,36,0,0,0,0,0,0,0,0,39,1,0,2,0.0,0.0,0.2,4,0,22,34,64.7,4,22,1,0,0,Sampdoria,2018-03-11 Crotone-Sampdoria,ITA-SERIA_A,17-18,b35caef2
+43a1bea5,Édgar Barreto,8,PAR,"RM,RB",33-239,90,0,0,0,0,0,0,0,0,64,4,4,2,0.0,0.0,0.1,2,0,37,50,74.0,8,37,0,2,1,Sampdoria,2018-03-11 Crotone-Sampdoria,ITA-SERIA_A,17-18,b35caef2
+d183e9d6,Nicola Murru,29,ITA,LB,23-085,90,0,1,0,0,0,0,1,0,56,4,0,1,0.0,0.0,0.3,2,1,39,51,76.5,2,27,0,1,1,Sampdoria,2018-03-11 Crotone-Sampdoria,ITA-SERIA_A,17-18,b35caef2
+8650af85,Gian Marco Ferrari,13,ITA,CB,26-024,90,0,0,0,0,0,0,0,0,80,0,1,2,0.0,0.0,0.0,3,1,57,70,81.4,9,56,2,0,0,Sampdoria,2018-03-11 Crotone-Sampdoria,ITA-SERIA_A,17-18,b35caef2
+b6ca47a2,Matías Silvestre,26,ARG,CB,33-167,90,0,0,0,0,3,0,0,0,81,0,0,0,0.2,0.2,0.0,0,0,63,73,86.3,8,60,1,0,0,Sampdoria,2018-03-11 Crotone-Sampdoria,ITA-SERIA_A,17-18,b35caef2
+da5a981b,Jacopo Sala,7,ITA,RB,26-096,58,0,0,0,0,0,0,0,0,39,0,0,1,0.0,0.0,0.0,0,0,29,37,78.4,4,25,0,0,0,Sampdoria,2018-03-11 Crotone-Sampdoria,ITA-SERIA_A,17-18,b35caef2
+86695068,Dennis Praet,10,BEL,RM,23-301,32,0,0,0,0,1,0,0,0,30,0,0,0,0.0,0.0,0.2,4,0,21,27,77.8,2,23,5,0,0,Sampdoria,2018-03-11 Crotone-Sampdoria,ITA-SERIA_A,17-18,b35caef2
+03760df0,Emiliano Viviano,2,ITA,GK,32-100,90,0,0,0,0,0,0,0,0,31,0,1,0,0.0,0.0,0.0,0,0,15,26,57.7,0,15,0,0,0,Sampdoria,2018-03-11 Crotone-Sampdoria,ITA-SERIA_A,17-18,b35caef2

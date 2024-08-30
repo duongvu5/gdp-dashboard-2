@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+36a3ff67,Marco Reus,11,GER,FW,30-190,72,2,1,0,0,6,3,0,0,71,1,0,2,1.5,1.5,0.4,4,1,54,61,88.5,6,47,4,3,3,Dortmund,2019-12-07 Dortmund-Düsseldorf,GER-BL1,19-20,a8348aba
+9efa1d25,Mario Götze,10,GER,FW,27-187,18,0,0,0,0,1,0,0,0,22,0,1,0,0.1,0.1,0.0,0,0,15,17,88.2,2,15,1,1,0,Dortmund,2019-12-07 Dortmund-Düsseldorf,GER-BL1,19-20,a8348aba
+dbf053da,Jadon Sancho,7,ENG,LW,19-257,90,2,1,0,0,4,4,0,0,106,0,1,0,1.1,1.1,0.8,7,2,84,93,90.3,7,84,10,6,2,Dortmund,2019-12-07 Dortmund-Düsseldorf,GER-BL1,19-20,a8348aba
+50871bcc,Thorgan Hazard,23,BEL,RW,26-253,90,1,1,0,0,2,1,0,0,70,3,0,1,0.6,0.6,0.7,8,1,44,54,81.5,4,49,6,5,4,Dortmund,2019-12-07 Dortmund-Düsseldorf,GER-BL1,19-20,a8348aba
+048a1cbc,Raphaël Guerreiro,13,POR,LM,25-350,90,0,0,0,0,4,1,0,0,106,0,1,1,0.2,0.2,0.1,4,0,97,101,96.0,11,72,3,0,0,Dortmund,2019-12-07 Dortmund-Düsseldorf,GER-BL1,19-20,a8348aba
+a167537f,Julian Brandt,19,GER,CM,23-219,77,0,0,0,0,1,0,0,0,108,4,1,0,0.0,0.0,0.2,7,2,92,102,90.2,11,80,2,5,5,Dortmund,2019-12-07 Dortmund-Düsseldorf,GER-BL1,19-20,a8348aba
+db4ed67b,Mahmoud Dahoud,8,GER,CM,23-340,13,0,0,0,0,1,0,0,0,31,1,0,0,0.1,0.1,0.1,4,0,26,28,92.9,4,24,0,1,1,Dortmund,2019-12-07 Dortmund-Düsseldorf,GER-BL1,19-20,a8348aba
+5dfc6ad5,Axel Witsel,28,BEL,CM,30-329,90,0,0,0,0,1,0,0,0,98,1,1,0,0.0,0.0,0.1,4,0,93,93,100.0,7,70,0,1,1,Dortmund,2019-12-07 Dortmund-Düsseldorf,GER-BL1,19-20,a8348aba
+e42d61c7,Achraf Hakimi,5,MAR,RM,21-033,90,0,1,0,0,1,0,0,0,112,0,1,0,0.1,0.1,0.6,3,3,87,101,86.1,6,59,3,2,1,Dortmund,2019-12-07 Dortmund-Düsseldorf,GER-BL1,19-20,a8348aba
+a4effc55,Dan-Axel Zagadou,2,FRA,CB,20-187,90,0,0,0,0,1,1,0,0,113,0,2,0,0.0,0.0,0.0,1,0,98,103,95.1,16,65,1,0,0,Dortmund,2019-12-07 Dortmund-Düsseldorf,GER-BL1,19-20,a8348aba
+89ac64a6,Manuel Akanji,16,SUI,CB,24-141,90,0,0,0,0,1,0,0,0,86,1,1,1,0.0,0.0,0.0,0,0,79,80,98.8,2,50,0,0,0,Dortmund,2019-12-07 Dortmund-Düsseldorf,GER-BL1,19-20,a8348aba
+fe2db476,Łukasz Piszczek,26,POL,CB,34-187,77,0,1,0,0,0,0,0,0,109,2,0,0,0.0,0.0,0.5,1,1,95,101,94.1,12,73,2,0,0,Dortmund,2019-12-07 Dortmund-Düsseldorf,GER-BL1,19-20,a8348aba
+7c3ed041,Leonardo Balerdi,18,ARG,CB,20-315,13,0,0,0,0,0,0,0,0,18,0,0,0,0.0,0.0,0.0,0,0,18,18,100.0,0,8,0,0,0,Dortmund,2019-12-07 Dortmund-Düsseldorf,GER-BL1,19-20,a8348aba
+9d12e142,Roman Bürki,1,SUI,GK,29-023,90,0,0,0,0,0,0,0,0,23,0,0,0,0.0,0.0,0.0,0,0,23,23,100.0,0,12,0,0,0,Dortmund,2019-12-07 Dortmund-Düsseldorf,GER-BL1,19-20,a8348aba
+17611373,Rouwen Hennings,28,GER,FW,32-101,90,0,0,0,0,0,0,0,0,31,1,0,0,0.0,0.0,0.1,2,0,22,28,78.6,4,10,1,0,0,Düsseldorf,2019-12-07 Dortmund-Düsseldorf,GER-BL1,19-20,a8348aba
+df8e7b62,Erik Thommy,15,GER,LM,25-109,66,0,0,0,0,0,0,0,0,32,1,1,2,0.0,0.0,0.0,0,0,14,24,58.3,0,21,1,1,0,Düsseldorf,2019-12-07 Dortmund-Düsseldorf,GER-BL1,19-20,a8348aba
+a2a85828,Aymen Barkok,8,MAR,"CM,LM",21-200,24,0,0,0,0,0,0,0,0,11,0,1,0,0.0,0.0,0.0,0,0,4,10,40.0,2,6,0,0,0,Düsseldorf,2019-12-07 Dortmund-Düsseldorf,GER-BL1,19-20,a8348aba
+ff45add5,Alfredo Morales,6,USA,CM,29-209,90,0,0,0,0,0,0,1,0,36,1,1,0,0.0,0.0,0.0,0,0,23,28,82.1,3,21,0,0,0,Düsseldorf,2019-12-07 Dortmund-Düsseldorf,GER-BL1,19-20,a8348aba
+1b278bf5,Lewis Baker,34,ENG,CM,24-226,66,0,0,0,0,0,0,0,0,29,0,1,0,0.0,0.0,0.0,1,0,19,24,79.2,2,18,2,2,1,Düsseldorf,2019-12-07 Dortmund-Düsseldorf,GER-BL1,19-20,a8348aba
+316162b6,Oliver Fink,7,GER,CM,37-184,24,0,0,0,0,1,0,0,0,12,1,1,0,0.1,0.1,0.0,1,0,5,10,50.0,0,8,1,1,1,Düsseldorf,2019-12-07 Dortmund-Düsseldorf,GER-BL1,19-20,a8348aba
+912e63b5,Jean Zimmer,39,GER,RM,26-001,58,0,0,0,0,1,0,1,0,12,0,0,0,0.0,0.0,0.0,0,0,6,10,60.0,0,10,0,0,0,Düsseldorf,2019-12-07 Dortmund-Düsseldorf,GER-BL1,19-20,a8348aba
+be5e1c4c,Dawid Kownacki,9,POL,"FW,RM",22-268,32,0,0,0,0,0,0,0,0,7,1,0,0,0.0,0.0,0.0,0,0,1,5,20.0,0,6,1,0,0,Düsseldorf,2019-12-07 Dortmund-Düsseldorf,GER-BL1,19-20,a8348aba
+bb8a42fa,Adam Bodzek,13,GER,"DM,CB",34-091,90,0,0,0,0,0,0,0,0,37,2,0,1,0.0,0.0,0.0,0,0,24,27,88.9,1,21,0,0,0,Düsseldorf,2019-12-07 Dortmund-Düsseldorf,GER-BL1,19-20,a8348aba
+7242b495,Niko Gießelmann,23,GER,LB,28-072,90,0,0,0,0,0,0,0,0,45,3,1,2,0.0,0.0,0.0,0,0,28,37,75.7,4,24,3,3,3,Düsseldorf,2019-12-07 Dortmund-Düsseldorf,GER-BL1,19-20,a8348aba
+93a50d2c,Kasim Nuhu,4,GHA,CB,24-168,90,0,0,0,0,0,0,0,0,44,2,3,1,0.0,0.0,0.0,0,0,28,34,82.4,2,27,0,1,1,Düsseldorf,2019-12-07 Dortmund-Düsseldorf,GER-BL1,19-20,a8348aba
+34b306a1,André Hoffmann,3,GER,CB,26-282,90,0,0,0,0,0,0,0,0,53,4,1,0,0.0,0.0,0.0,0,0,34,40,85.0,0,28,0,0,0,Düsseldorf,2019-12-07 Dortmund-Düsseldorf,GER-BL1,19-20,a8348aba
+e199d5b0,Matthias Zimmermann,25,GER,RB,27-174,90,0,0,0,0,0,0,1,0,46,3,2,0,0.0,0.0,0.0,0,0,26,36,72.2,3,24,2,0,0,Düsseldorf,2019-12-07 Dortmund-Düsseldorf,GER-BL1,19-20,a8348aba
+42130443,Zack Steffen,24,USA,GK,24-249,90,0,0,0,0,0,0,0,0,45,0,0,0,0.0,0.0,0.0,0,0,31,41,75.6,0,18,0,0,0,Düsseldorf,2019-12-07 Dortmund-Düsseldorf,GER-BL1,19-20,a8348aba

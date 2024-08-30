@@ -1,0 +1,32 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+d33c706e,Andy Delort,9,ALG,FW,29-044,90,2,1,0,0,6,3,0,0,51,1,0,2,0.9,0.9,0.6,6,1,25,32,78.1,3,20,3,1,0,Montpellier,2020-11-22 Montpellier-Strasbourg,FRA-L1,20-21,f01e2c09
+30144daa,Stephy Mavididi,19,ENG,LW,22-175,66,0,0,0,0,0,0,0,0,23,0,1,1,0.0,0.0,0.0,1,1,14,17,82.4,2,13,2,3,2,Montpellier,2020-11-22 Montpellier-Strasbourg,FRA-L1,20-21,f01e2c09
+23bf644d,Yun Il-lok,24,KOR,"LW,LM",28-260,24,0,0,0,0,1,0,0,0,17,0,0,0,0.3,0.3,0.0,3,0,8,12,66.7,0,10,3,1,1,Montpellier,2020-11-22 Montpellier-Strasbourg,FRA-L1,20-21,f01e2c09
+7cdda3bf,Gaëtan Laborde,10,FRA,RW,26-203,88,1,0,0,0,4,1,0,0,41,0,1,1,0.2,0.2,0.1,4,2,22,32,68.8,4,20,4,1,1,Montpellier,2020-11-22 Montpellier-Strasbourg,FRA-L1,20-21,f01e2c09
+c4bbea9f,Vitorino Hilton,4,BRA,CB,43-070,2,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Montpellier,2020-11-22 Montpellier-Strasbourg,FRA-L1,20-21,f01e2c09
+7e82a78f,Florent Mollet,25,FRA,LM,29-003,81,0,0,0,0,4,2,0,0,57,0,1,1,0.5,0.5,0.0,2,0,43,49,87.8,3,39,2,1,1,Montpellier,2020-11-22 Montpellier-Strasbourg,FRA-L1,20-21,f01e2c09
+ccb1c3af,Keagan Dolly,20,RSA,"LM,RM",27-305,9,0,0,0,0,1,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,6,6,100.0,0,4,0,0,0,Montpellier,2020-11-22 Montpellier-Strasbourg,FRA-L1,20-21,f01e2c09
+375622c5,Jordan Ferri,12,FRA,CM,28-255,87,0,0,0,0,0,0,0,0,64,1,1,0,0.0,0.0,0.0,0,0,52,61,85.2,3,34,3,1,1,Montpellier,2020-11-22 Montpellier-Strasbourg,FRA-L1,20-21,f01e2c09
+7909ffa4,Joris Chotard,13,FRA,CM,19-059,3,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Montpellier,2020-11-22 Montpellier-Strasbourg,FRA-L1,20-21,f01e2c09
+6bde367b,Téji Savanier,11,FRA,"RM,CM",28-336,90,0,1,0,0,0,0,0,0,75,0,1,0,0.0,0.0,0.8,9,1,49,63,77.8,13,35,2,3,1,Montpellier,2020-11-22 Montpellier-Strasbourg,FRA-L1,20-21,f01e2c09
+ea0aa7e0,Mihailo Ristić,7,SRB,LB,25-022,90,0,1,0,0,1,1,0,0,63,4,1,1,0.1,0.1,0.4,4,1,35,46,76.1,4,37,2,1,1,Montpellier,2020-11-22 Montpellier-Strasbourg,FRA-L1,20-21,f01e2c09
+3f5b4635,Daniel Congré,3,FRA,CB,35-231,90,0,0,0,0,0,0,1,0,77,2,2,1,0.0,0.0,0.0,1,0,59,66,89.4,5,42,0,0,0,Montpellier,2020-11-22 Montpellier-Strasbourg,FRA-L1,20-21,f01e2c09
+6690ef25,Pedro Mendes,5,POR,CB,30-052,90,1,0,0,0,2,1,1,0,66,1,1,2,0.6,0.6,0.0,0,0,54,58,93.1,4,42,1,1,1,Montpellier,2020-11-22 Montpellier-Strasbourg,FRA-L1,20-21,f01e2c09
+24eb7ed6,Junior Sambia,6,FRA,RB,24-076,90,0,1,0,0,2,1,0,0,62,0,1,0,0.1,0.1,0.5,9,2,48,56,85.7,6,31,3,2,1,Montpellier,2020-11-22 Montpellier-Strasbourg,FRA-L1,20-21,f01e2c09
+c631f952,Jonas Omlin,1,SUI,GK,26-317,90,0,0,0,0,0,0,0,0,34,0,0,0,0.0,0.0,0.0,0,0,25,29,86.2,0,16,0,0,0,Montpellier,2020-11-22 Montpellier-Strasbourg,FRA-L1,20-21,f01e2c09
+6605d143,Habib Diallo,28,SEN,FW,25-157,90,1,0,1,1,1,0,0,0,29,0,1,0,1.1,0.3,0.0,0,0,6,18,33.3,0,19,0,3,1,Strasbourg,2020-11-22 Montpellier-Strasbourg,FRA-L1,20-21,f01e2c09
+462475ed,Ludovic Ajorque,25,FRA,FW,26-271,90,1,0,0,0,3,3,0,0,38,0,1,1,0.8,0.8,0.0,1,0,20,27,74.1,2,19,0,1,1,Strasbourg,2020-11-22 Montpellier-Strasbourg,FRA-L1,20-21,f01e2c09
+10f0fdd3,Jean-Ricner Bellegarde,17,FRA,"LM,RM",22-148,83,0,0,0,0,1,0,0,0,26,2,0,0,0.0,0.0,0.3,3,1,17,21,81.0,2,19,5,2,1,Strasbourg,2020-11-22 Montpellier-Strasbourg,FRA-L1,20-21,f01e2c09
+c76b7567,Adrien Thomasson,26,FRA,LM,26-348,7,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,5,9,55.6,2,8,1,0,0,Strasbourg,2020-11-22 Montpellier-Strasbourg,FRA-L1,20-21,f01e2c09
+0f8418aa,Ibrahima Sissoko,27,MLI,CM,23-026,90,0,0,0,0,0,0,0,0,42,3,0,0,0.0,0.0,0.0,1,0,29,36,80.6,3,30,0,0,0,Strasbourg,2020-11-22 Montpellier-Strasbourg,FRA-L1,20-21,f01e2c09
+48b28bfd,Jean-Eudes Aholou,6,CIV,CM,26-247,64,0,0,0,0,0,0,1,0,21,2,3,0,0.0,0.0,0.0,0,0,10,15,66.7,0,11,0,1,0,Strasbourg,2020-11-22 Montpellier-Strasbourg,FRA-L1,20-21,f01e2c09
+f7691f63,Dimitri Liénard,11,FRA,CM,32-283,26,0,0,0,0,0,0,0,0,26,0,2,1,0.0,0.0,0.0,0,0,18,24,75.0,3,18,0,0,0,Strasbourg,2020-11-22 Montpellier-Strasbourg,FRA-L1,20-21,f01e2c09
+770d7eb8,Kenny Lala,10,MAD,RM,29-050,73,1,0,1,1,1,0,0,0,36,0,0,0,0.8,0.0,0.6,3,1,16,29,55.2,4,19,1,1,0,Strasbourg,2020-11-22 Montpellier-Strasbourg,FRA-L1,20-21,f01e2c09
+1787195f,Mehdi Chahiri,21,MAR,"LM,LB",24-120,17,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.3,1,0,5,7,71.4,1,6,1,1,1,Strasbourg,2020-11-22 Montpellier-Strasbourg,FRA-L1,20-21,f01e2c09
+0118c54c,Anthony Caci,19,FRA,LB,23-144,83,0,0,0,0,0,0,0,0,51,1,2,2,0.0,0.0,0.0,2,0,30,42,71.4,1,31,1,0,0,Strasbourg,2020-11-22 Montpellier-Strasbourg,FRA-L1,20-21,f01e2c09
+775185ae,Kévin Zohi,20,MLI,"LB,RM",23-339,7,0,0,0,0,0,0,0,0,7,0,1,0,0.0,0.0,0.0,0,0,4,6,66.7,1,5,0,1,0,Strasbourg,2020-11-22 Montpellier-Strasbourg,FRA-L1,20-21,f01e2c09
+e6777e6b,Stefan Mitrović,13,SRB,CB,30-184,90,0,0,0,0,0,0,0,0,64,0,2,1,0.0,0.0,0.0,3,0,51,58,87.9,5,48,0,0,0,Strasbourg,2020-11-22 Montpellier-Strasbourg,FRA-L1,20-21,f01e2c09
+a46472d0,Lamine Koné,5,CIV,CB,31-295,90,0,0,0,0,0,0,0,0,57,1,3,0,0.0,0.0,0.0,0,0,38,45,84.4,5,39,1,0,0,Strasbourg,2020-11-22 Montpellier-Strasbourg,FRA-L1,20-21,f01e2c09
+fcb27134,Mohamed Simakan,2,FRA,RB,20-203,90,0,0,0,0,1,0,0,0,52,1,2,0,0.1,0.1,0.0,0,0,31,40,77.5,9,30,1,1,0,Strasbourg,2020-11-22 Montpellier-Strasbourg,FRA-L1,20-21,f01e2c09
+a4527d33,Eiji Kawashima,16,JPN,GK,37-247,90,0,0,0,0,0,0,0,0,31,0,0,0,0.0,0.0,0.0,1,1,22,28,78.6,0,16,0,0,0,Strasbourg,2020-11-22 Montpellier-Strasbourg,FRA-L1,20-21,f01e2c09

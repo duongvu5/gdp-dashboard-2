@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+dea698d9,Cristiano Ronaldo,7,POR,FW,35-354,90,0,1,0,0,5,3,0,0,52,0,0,0,0.6,0.6,0.6,4,1,34,44,77.3,5,35,6,3,1,Juventus,2021-01-24 Juventus-Bologna,ITA-SERIA_A,20-21,b352906f
+df3cda47,Dejan Kulusevski,44,SWE,FW,20-274,77,0,0,0,0,0,0,1,0,36,0,0,0,0.0,0.0,0.1,3,0,21,26,80.8,2,22,4,2,1,Juventus,2021-01-24 Juventus-Bologna,ITA-SERIA_A,20-21,b352906f
+ef619b0b,Aaron Ramsey,8,WAL,FW,30-029,13,0,0,0,0,0,0,0,0,11,1,0,0,0.0,0.0,0.0,0,0,7,9,77.8,1,8,0,0,0,Juventus,2021-01-24 Juventus-Bologna,ITA-SERIA_A,20-21,b352906f
+ee93c1a9,Federico Bernardeschi,33,ITA,LM,26-343,68,0,0,0,0,4,2,0,0,34,0,0,1,0.5,0.5,0.1,3,1,19,28,67.9,2,17,3,1,1,Juventus,2021-01-24 Juventus-Bologna,ITA-SERIA_A,20-21,b352906f
+129af0db,Álvaro Morata,9,ESP,LM,28-093,22,0,0,0,0,1,1,0,0,12,0,0,0,0.3,0.3,0.0,2,1,9,11,81.8,1,10,1,0,0,Juventus,2021-01-24 Juventus-Bologna,ITA-SERIA_A,20-21,b352906f
+3b8674e6,Rodrigo Bentancur,30,URU,CM,23-213,90,0,0,0,0,1,0,0,0,68,0,3,1,0.0,0.0,0.1,5,0,54,56,96.4,5,37,1,2,1,Juventus,2021-01-24 Juventus-Bologna,ITA-SERIA_A,20-21,b352906f
+48b3dd60,Arthur Melo,5,BRA,CM,24-165,77,1,0,0,0,1,1,1,0,53,0,1,0,0.0,0.0,0.5,4,0,45,49,91.8,3,40,1,3,3,Juventus,2021-01-24 Juventus-Bologna,ITA-SERIA_A,20-21,b352906f
+8794e251,Adrien Rabiot,25,FRA,CM,25-296,13,0,0,0,0,1,1,0,0,20,0,2,1,0.1,0.1,0.0,1,0,15,15,100.0,0,9,0,1,1,Juventus,2021-01-24 Juventus-Bologna,ITA-SERIA_A,20-21,b352906f
+01c3aff5,Weston McKennie,14,USA,RM,22-149,89,1,0,0,0,5,2,0,0,48,0,2,0,1.0,1.0,0.2,6,0,34,36,94.4,6,24,3,3,2,Juventus,2021-01-24 Juventus-Bologna,ITA-SERIA_A,20-21,b352906f
+e3cceee6,Merih Demiral,28,TUR,RM,22-325,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Juventus,2021-01-24 Juventus-Bologna,ITA-SERIA_A,20-21,b352906f
+94b2001f,Danilo,13,BRA,LB,29-193,90,0,0,0,0,1,0,0,0,60,1,1,4,0.0,0.0,0.0,4,0,41,50,82.0,6,38,4,0,0,Juventus,2021-01-24 Juventus-Bologna,ITA-SERIA_A,20-21,b352906f
+e85fb9b8,Giorgio Chiellini,3,ITA,CB,36-163,90,0,0,0,0,0,0,1,0,45,0,1,0,0.0,0.0,0.0,0,0,32,36,88.9,4,22,1,0,0,Juventus,2021-01-24 Juventus-Bologna,ITA-SERIA_A,20-21,b352906f
+52ec54d0,Leonardo Bonucci,19,ITA,CB,33-268,77,0,0,0,0,0,0,0,0,44,3,0,1,0.0,0.0,0.0,1,0,32,39,82.1,2,24,0,0,0,Juventus,2021-01-24 Juventus-Bologna,ITA-SERIA_A,20-21,b352906f
+d6e53a3a,Matthijs de Ligt,4,NED,CB,21-165,13,0,0,0,0,0,0,0,0,7,0,0,1,0.0,0.0,0.0,0,0,5,6,83.3,0,2,0,0,0,Juventus,2021-01-24 Juventus-Bologna,ITA-SERIA_A,20-21,b352906f
+0ab1f153,Juan Cuadrado,16,COL,RB,32-243,90,0,1,0,0,4,1,0,0,86,3,1,0,0.5,0.5,0.7,6,1,57,72,79.2,5,51,4,4,3,Juventus,2021-01-24 Juventus-Bologna,ITA-SERIA_A,20-21,b352906f
+01b8a2b2,Wojciech Szczęsny,1,POL,GK,30-281,90,0,0,0,0,0,0,0,0,46,0,0,0,0.0,0.0,0.0,1,0,36,44,81.8,0,33,0,0,0,Juventus,2021-01-24 Juventus-Bologna,ITA-SERIA_A,20-21,b352906f
+e5bf73f3,Musa Barrow,99,GAM,FW,22-071,90,0,0,0,0,3,1,0,0,45,1,0,2,0.1,0.1,0.0,3,0,18,29,62.1,2,30,1,5,2,Bologna,2021-01-24 Juventus-Bologna,ITA-SERIA_A,20-21,b352906f
+ec5dae45,Emanuel Vignato,55,ITA,LW,20-153,45,0,0,0,0,0,0,1,0,15,0,0,0,0.0,0.0,0.1,1,0,10,14,71.4,2,12,4,0,0,Bologna,2021-01-24 Juventus-Bologna,ITA-SERIA_A,20-21,b352906f
+7eb97a8e,Nicola Sansone,10,ITA,"LW,WB",29-136,45,0,0,0,0,3,0,0,0,38,3,1,0,0.1,0.1,0.0,2,0,21,25,84.0,2,22,1,2,2,Bologna,2021-01-24 Juventus-Bologna,ITA-SERIA_A,20-21,b352906f
+e14ec482,Riccardo Orsolini,7,ITA,RW,24-000,75,0,0,0,0,2,1,0,0,48,1,2,1,0.1,0.1,0.0,2,0,25,37,67.6,2,31,2,3,3,Bologna,2021-01-24 Juventus-Bologna,ITA-SERIA_A,20-21,b352906f
+c50cee19,Andreas Skov Olsen,11,DEN,WB,21-026,15,0,0,0,0,0,0,0,0,15,1,0,0,0.0,0.0,0.0,1,0,8,12,66.7,1,7,3,1,0,Bologna,2021-01-24 Juventus-Bologna,ITA-SERIA_A,20-21,b352906f
+9d4c45d6,Roberto Soriano,21,ITA,"AM,CM",29-351,90,0,0,0,0,2,0,0,0,53,2,0,1,0.1,0.1,0.1,3,0,38,41,92.7,7,34,1,1,0,Bologna,2021-01-24 Juventus-Bologna,ITA-SERIA_A,20-21,b352906f
+2cfae697,Jerdy Schouten,30,NED,"DM,CM",24-012,90,0,0,0,0,0,0,0,0,59,0,4,1,0.0,0.0,0.0,3,0,46,50,92.0,5,32,1,1,1,Bologna,2021-01-24 Juventus-Bologna,ITA-SERIA_A,20-21,b352906f
+92d83c27,Mattias Svanberg,32,SWE,DM,22-019,63,0,0,0,0,1,0,0,0,21,2,1,0,0.1,0.1,0.0,0,0,15,16,93.8,0,12,1,0,0,Bologna,2021-01-24 Juventus-Bologna,ITA-SERIA_A,20-21,b352906f
+20b3a502,Nicolás Domínguez,8,ARG,"CM,DM",22-210,27,0,0,0,0,0,0,0,0,17,1,0,1,0.0,0.0,0.0,1,0,14,15,93.3,3,11,0,0,0,Bologna,2021-01-24 Juventus-Bologna,ITA-SERIA_A,20-21,b352906f
+0a3065c8,Mitchell Dijks,35,NED,LB,27-350,74,0,0,0,0,0,0,1,0,48,1,0,0,0.0,0.0,0.0,0,0,30,42,71.4,4,34,1,2,1,Bologna,2021-01-24 Juventus-Bologna,ITA-SERIA_A,20-21,b352906f
+8d8178ac,Rodrigo Palacio,24,ARG,FW,38-354,16,0,0,0,0,0,0,0,0,15,1,0,0,0.0,0.0,0.0,0,0,9,11,81.8,1,10,2,0,0,Bologna,2021-01-24 Juventus-Bologna,ITA-SERIA_A,20-21,b352906f
+b3af9be1,Takehiro Tomiyasu,14,JPN,"CB,RB",22-080,90,0,0,0,0,0,0,0,0,59,2,1,0,0.0,0.0,0.0,1,0,47,53,88.7,6,41,3,0,0,Bologna,2021-01-24 Juventus-Bologna,ITA-SERIA_A,20-21,b352906f
+fed5f993,Danilo Larangeira,23,BRA,CB,36-259,90,0,0,0,0,0,0,0,0,45,1,1,2,0.0,0.0,0.0,0,0,32,37,86.5,1,23,0,0,0,Bologna,2021-01-24 Juventus-Bologna,ITA-SERIA_A,20-21,b352906f
+e74f0e59,Lorenzo De Silvestri,29,ITA,RB,32-246,45,0,0,0,0,0,0,0,0,35,0,1,1,0.0,0.0,0.0,0,0,29,32,90.6,4,22,0,0,0,Bologna,2021-01-24 Juventus-Bologna,ITA-SERIA_A,20-21,b352906f
+7b075c75,Adama Soumaoro,5,FRA,CB,28-220,45,0,0,0,0,0,0,0,0,28,1,0,0,0.0,0.0,0.0,2,0,21,24,87.5,2,12,0,0,0,Bologna,2021-01-24 Juventus-Bologna,ITA-SERIA_A,20-21,b352906f
+ab4449d6,Łukasz Skorupski,28,POL,GK,29-264,90,0,0,0,0,0,0,0,0,35,0,0,0,0.0,0.0,0.0,0,0,25,27,92.6,0,13,0,0,0,Bologna,2021-01-24 Juventus-Bologna,ITA-SERIA_A,20-21,b352906f

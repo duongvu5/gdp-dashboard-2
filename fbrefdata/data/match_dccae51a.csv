@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+d6862409,Florian Niederlechner,7,GER,FW,31-118,59,0,1,0,0,2,0,0,0,16,1,0,0,0.1,0.1,0.1,1,1,5,7,71.4,1,11,0,2,0,Augsburg,2022-02-19 Augsburg-Freiburg,GER-BL1,21-22,dccae51a
+f9e7c4ac,Alfreð Finnbogason,27,ISL,FW,33-018,31,0,0,0,0,1,0,0,0,16,0,1,1,0.4,0.4,0.0,0,0,6,10,60.0,1,6,0,1,0,Augsburg,2022-02-19 Augsburg-Freiburg,GER-BL1,21-22,dccae51a
+8e235926,Michael Gregoritsch,11,AUT,FW,27-307,90,1,0,0,0,4,2,0,0,42,1,1,0,0.3,0.3,0.0,1,0,18,28,64.3,1,20,1,2,1,Augsburg,2022-02-19 Augsburg-Freiburg,GER-BL1,21-22,dccae51a
+6ecbddf6,Ruben Vargas,16,SUI,LM,23-198,80,0,0,0,0,2,0,0,0,36,1,0,0,0.1,0.1,0.1,3,0,18,24,75.0,4,22,5,6,4,Augsburg,2022-02-19 Augsburg-Freiburg,GER-BL1,21-22,dccae51a
+a2b1ed42,Ricardo Pepi,18,USA,LM,19-041,10,0,0,0,0,1,1,0,0,9,0,0,1,0.1,0.1,0.4,2,0,3,5,60.0,1,2,0,0,0,Augsburg,2022-02-19 Augsburg-Freiburg,GER-BL1,21-22,dccae51a
+7f73bdf4,Niklas Dorsch,30,GER,CM,24-035,90,0,0,0,0,0,0,0,0,62,3,1,0,0.0,0.0,0.1,6,0,40,56,71.4,3,25,0,2,2,Augsburg,2022-02-19 Augsburg-Freiburg,GER-BL1,21-22,dccae51a
+f2dd9a21,Carlos Gruezo,8,ECU,CM,26-306,59,0,0,0,0,1,0,0,0,21,0,0,0,0.0,0.0,0.0,2,0,17,19,89.5,1,14,0,0,0,Augsburg,2022-02-19 Augsburg-Freiburg,GER-BL1,21-22,dccae51a
+e7d22eae,Jan Morávek,14,CZE,CM,32-110,31,0,0,0,0,0,0,0,0,18,1,1,0,0.0,0.0,0.0,2,0,12,15,80.0,1,10,0,0,0,Augsburg,2022-02-19 Augsburg-Freiburg,GER-BL1,21-22,dccae51a
+cd82452e,André Hahn,28,GER,RM,31-190,71,0,0,0,0,2,1,1,0,29,1,2,1,0.1,0.1,0.0,2,1,10,20,50.0,0,12,2,0,0,Augsburg,2022-02-19 Augsburg-Freiburg,GER-BL1,21-22,dccae51a
+fbbc8e15,Noah Joel Sarenren Bazee,17,NGA,RM,25-182,19,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,1,5,20.0,0,4,1,0,0,Augsburg,2022-02-19 Augsburg-Freiburg,GER-BL1,21-22,dccae51a
+054849d2,Iago,22,BRA,LB,24-333,71,0,0,0,0,0,0,0,0,46,1,0,0,0.0,0.0,0.2,4,0,27,38,71.1,1,21,3,1,0,Augsburg,2022-02-19 Augsburg-Freiburg,GER-BL1,21-22,dccae51a
+00672803,Lasse Günther,29,GER,LB,18-335,19,0,0,0,0,1,0,0,0,17,0,0,0,0.0,0.0,0.0,1,0,13,16,81.3,2,7,1,0,0,Augsburg,2022-02-19 Augsburg-Freiburg,GER-BL1,21-22,dccae51a
+8b6e0db2,Reece Oxford,4,ENG,CB,23-065,90,0,0,0,0,1,0,0,0,62,1,4,1,0.1,0.1,0.0,0,0,36,46,78.3,2,31,0,0,0,Augsburg,2022-02-19 Augsburg-Freiburg,GER-BL1,21-22,dccae51a
+1025db8e,Jeffrey Gouweleeuw,6,NED,CB,30-224,90,0,0,0,0,2,0,0,0,74,2,2,2,0.1,0.1,0.0,3,0,43,63,68.3,4,39,2,0,0,Augsburg,2022-02-19 Augsburg-Freiburg,GER-BL1,21-22,dccae51a
+626fab5f,Raphael Framberger,32,GER,RB,26-166,90,0,0,0,0,0,0,0,0,84,3,2,1,0.0,0.0,0.0,4,0,45,68,66.2,5,34,7,4,1,Augsburg,2022-02-19 Augsburg-Freiburg,GER-BL1,21-22,dccae51a
+17376543,Rafał Gikiewicz,1,POL,GK,34-116,90,0,0,0,0,0,0,0,0,43,0,1,0,0.0,0.0,0.0,0,0,27,38,71.1,0,20,0,0,0,Augsburg,2022-02-19 Augsburg-Freiburg,GER-BL1,21-22,dccae51a
+f93e6e94,Nils Petersen,18,GER,FW,33-075,73,1,0,0,0,1,1,0,0,28,0,0,1,0.3,0.3,0.0,3,0,12,19,63.2,1,9,0,0,0,Freiburg,2022-02-19 Augsburg-Freiburg,GER-BL1,21-22,dccae51a
+ca618d23,Lucas Höler,9,GER,FW,27-224,17,0,0,0,0,0,0,0,0,10,1,0,0,0.0,0.0,0.0,0,0,3,8,37.5,1,5,0,0,0,Freiburg,2022-02-19 Augsburg-Freiburg,GER-BL1,21-22,dccae51a
+54e4866f,Vincenzo Grifo,32,ITA,LW,28-318,86,0,0,0,0,3,1,0,0,34,0,1,1,0.1,0.1,0.1,3,0,18,24,75.0,1,19,1,2,1,Freiburg,2022-02-19 Augsburg-Freiburg,GER-BL1,21-22,dccae51a
+25ab9c9c,Manuel Gulde,5,GER,CB,31-007,4,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,1,0,0,0,Freiburg,2022-02-19 Augsburg-Freiburg,GER-BL1,21-22,dccae51a
+bf075f6b,Roland Sallai,22,HUN,RW,24-273,73,0,1,0,0,0,0,0,0,29,0,0,2,0.0,0.0,0.4,3,1,12,19,63.2,2,19,0,2,0,Freiburg,2022-02-19 Augsburg-Freiburg,GER-BL1,21-22,dccae51a
+52afb588,Kevin Schade,20,GER,"RW,CM",20-084,17,0,0,0,0,1,0,0,0,15,0,0,1,0.0,0.0,0.0,1,0,2,5,40.0,0,7,1,4,1,Freiburg,2022-02-19 Augsburg-Freiburg,GER-BL1,21-22,dccae51a
+6190474d,Jeong Woo-yeong,29,KOR,AM,22-152,73,0,0,0,0,5,2,0,0,24,3,0,0,0.3,0.3,0.0,2,0,12,14,85.7,1,15,2,0,0,Freiburg,2022-02-19 Augsburg-Freiburg,GER-BL1,21-22,dccae51a
+ed79b7d3,Ermedin Demirović,11,BIH,"AM,FW",23-331,17,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,3,4,75.0,0,4,0,0,0,Freiburg,2022-02-19 Augsburg-Freiburg,GER-BL1,21-22,dccae51a
+5d8e331f,Nicolas Höfler,27,GER,"DM,CM",31-347,90,0,0,0,0,2,0,0,0,64,9,2,1,0.9,0.9,0.0,3,0,33,43,76.7,6,25,0,2,1,Freiburg,2022-02-19 Augsburg-Freiburg,GER-BL1,21-22,dccae51a
+beb882a8,Maximilian Eggestein,8,GER,"DM,CM",25-073,90,0,0,0,0,1,0,0,0,47,2,1,2,0.0,0.0,0.1,3,0,24,34,70.6,6,23,1,0,0,Freiburg,2022-02-19 Augsburg-Freiburg,GER-BL1,21-22,dccae51a
+8593f88c,Christian Günter,30,GER,LB,28-356,90,0,0,0,0,0,0,0,0,52,2,0,1,0.0,0.0,0.2,3,0,22,39,56.4,2,18,2,0,0,Freiburg,2022-02-19 Augsburg-Freiburg,GER-BL1,21-22,dccae51a
+34e12499,Nico Schlotterbeck,4,GER,CB,22-080,90,1,0,0,0,2,1,1,0,73,4,1,1,0.3,0.3,0.0,3,1,45,51,88.2,7,36,1,0,0,Freiburg,2022-02-19 Augsburg-Freiburg,GER-BL1,21-22,dccae51a
+302527b2,Philipp Lienhart,3,AUT,CB,25-223,90,0,0,0,0,0,0,0,0,55,2,1,1,0.0,0.0,0.0,0,0,40,45,88.9,3,36,1,0,0,Freiburg,2022-02-19 Augsburg-Freiburg,GER-BL1,21-22,dccae51a
+088ca1bd,Jonathan Schmid,7,FRA,RB,31-242,54,0,0,0,0,1,0,0,0,25,3,0,0,0.1,0.1,0.0,1,0,14,19,73.7,2,10,0,0,0,Freiburg,2022-02-19 Augsburg-Freiburg,GER-BL1,21-22,dccae51a
+2a29eb9b,Lukas Kübler,17,GER,RB,29-173,36,0,0,0,0,0,0,0,0,27,2,0,0,0.0,0.0,0.0,0,0,15,22,68.2,1,11,0,0,0,Freiburg,2022-02-19 Augsburg-Freiburg,GER-BL1,21-22,dccae51a
+a92ab7be,Mark Flekken,26,NED,GK,28-251,90,0,0,0,0,0,0,0,0,46,0,0,0,0.0,0.0,0.0,0,0,27,46,58.7,0,29,0,0,0,Freiburg,2022-02-19 Augsburg-Freiburg,GER-BL1,21-22,dccae51a

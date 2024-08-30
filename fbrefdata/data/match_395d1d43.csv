@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+d33c706e,Andy Delort,9,ALG,"AM,FW",29-016,60,0,0,0,0,3,0,0,0,26,0,0,0,0.1,0.1,0.0,0,0,15,18,83.3,2,16,0,2,0,Montpellier,2020-10-25 Montpellier-Reims,FRA-L1,20-21,395d1d43
+30144daa,Stephy Mavididi,19,ENG,FW,22-147,30,0,0,0,0,0,0,0,0,15,1,0,0,0.0,0.0,0.0,0,0,8,12,66.7,0,14,0,1,1,Montpellier,2020-10-25 Montpellier-Reims,FRA-L1,20-21,395d1d43
+7cdda3bf,Gaëtan Laborde,10,FRA,"AM,LM,FW",26-175,79,0,0,0,0,0,0,0,0,30,2,0,0,0.0,0.0,0.0,1,0,10,20,50.0,0,19,0,1,0,Montpellier,2020-10-25 Montpellier-Reims,FRA-L1,20-21,395d1d43
+23bf644d,Yun Il-lok,24,KOR,LM,28-232,11,0,0,0,0,1,0,0,0,4,0,0,0,0.1,0.1,0.0,0,0,2,3,66.7,0,2,0,0,0,Montpellier,2020-10-25 Montpellier-Reims,FRA-L1,20-21,395d1d43
+7e82a78f,Florent Mollet,25,FRA,"LM,RM,AM",28-341,59,0,0,0,0,0,0,0,0,28,0,0,0,0.0,0.0,0.0,0,0,20,25,80.0,2,21,0,0,0,Montpellier,2020-10-25 Montpellier-Reims,FRA-L1,20-21,395d1d43
+ccb1c3af,Keagan Dolly,20,RSA,RM,27-277,31,0,0,0,0,0,0,0,0,23,2,0,0,0.0,0.0,0.1,1,0,17,19,89.5,2,14,1,2,1,Montpellier,2020-10-25 Montpellier-Reims,FRA-L1,20-21,395d1d43
+8f4d116f,Damien Le Tallec,14,FRA,CM,30-189,41,0,0,0,0,0,0,0,1,16,0,1,1,0.0,0.0,0.0,0,0,10,13,76.9,1,10,0,0,0,Montpellier,2020-10-25 Montpellier-Reims,FRA-L1,20-21,395d1d43
+7909ffa4,Joris Chotard,13,FRA,"RM,CM",19-031,45,0,0,0,0,0,0,0,0,10,2,0,1,0.0,0.0,0.0,0,0,6,8,75.0,2,4,0,0,0,Montpellier,2020-10-25 Montpellier-Reims,FRA-L1,20-21,395d1d43
+375622c5,Jordan Ferri,12,FRA,CM,28-227,45,0,0,0,0,0,0,0,0,39,0,0,0,0.0,0.0,0.0,1,0,34,37,91.9,3,33,0,0,0,Montpellier,2020-10-25 Montpellier-Reims,FRA-L1,20-21,395d1d43
+e3e05edf,Ambroise Oyongo,8,CMR,"LB,WB",29-125,90,0,0,0,0,0,0,1,0,51,1,1,0,0.0,0.0,0.0,0,0,34,42,81.0,3,32,1,0,0,Montpellier,2020-10-25 Montpellier-Reims,FRA-L1,20-21,395d1d43
+4e0afc5d,Arnaud Souquet,2,FRA,"RB,WB",28-256,90,0,0,0,0,1,1,0,0,51,1,0,0,0.0,0.0,0.0,2,0,34,47,72.3,2,32,3,1,1,Montpellier,2020-10-25 Montpellier-Reims,FRA-L1,20-21,395d1d43
+8f325097,Nicolas Cozza,31,FRA,CB,21-291,90,0,0,0,0,0,0,0,0,52,1,3,2,0.0,0.0,0.0,1,0,35,41,85.4,1,40,0,0,0,Montpellier,2020-10-25 Montpellier-Reims,FRA-L1,20-21,395d1d43
+c4bbea9f,Vitorino Hilton,4,BRA,CB,43-042,6,0,0,0,0,0,0,0,1,4,0,0,0,0.0,0.0,0.0,0,0,3,3,100.0,0,3,0,0,0,Montpellier,2020-10-25 Montpellier-Reims,FRA-L1,20-21,395d1d43
+3f5b4635,Daniel Congré,3,FRA,CB,35-203,90,0,0,0,0,0,0,0,0,43,0,4,1,0.0,0.0,0.0,1,0,28,35,80.0,3,30,0,2,2,Montpellier,2020-10-25 Montpellier-Reims,FRA-L1,20-21,395d1d43
+c631f952,Jonas Omlin,1,SUI,GK,26-289,45,0,0,0,0,0,0,0,0,18,0,0,0,0.0,0.0,0.0,0,0,12,15,80.0,0,9,0,0,0,Montpellier,2020-10-25 Montpellier-Reims,FRA-L1,20-21,395d1d43
+380a15e2,Dimitry Bertaud,16,COD,GK,22-141,45,0,0,0,0,0,0,0,0,22,0,0,0,0.0,0.0,0.0,0,0,9,20,45.0,0,14,0,0,0,Montpellier,2020-10-25 Montpellier-Reims,FRA-L1,20-21,395d1d43
+9c2b1f11,Kaj Sierhuis,9,NED,FW,22-181,90,0,1,0,0,5,2,0,0,27,0,0,0,0.4,0.4,0.3,5,1,13,17,76.5,2,19,0,0,0,Reims,2020-10-25 Montpellier-Reims,FRA-L1,20-21,395d1d43
+244bc2c8,Boulaye Dia,11,SEN,FW,23-344,58,3,0,2,2,3,1,0,0,22,0,0,1,2.6,1.0,0.1,3,2,9,13,69.2,1,15,3,3,3,Reims,2020-10-25 Montpellier-Reims,FRA-L1,20-21,395d1d43
+5b92d896,Hugo Ekitike,34,FRA,LM,18-127,32,0,0,0,0,1,1,0,0,17,0,0,0,0.1,0.1,0.0,1,0,10,11,90.9,0,11,1,5,1,Reims,2020-10-25 Montpellier-Reims,FRA-L1,20-21,395d1d43
+2a657da0,Mathieu Cafaro,24,FRA,LM,23-214,77,0,1,0,0,3,1,0,0,78,0,0,0,0.1,0.1,1.1,9,3,60,69,87.0,9,61,4,1,1,Reims,2020-10-25 Montpellier-Reims,FRA-L1,20-21,395d1d43
+6481421d,Moussa Doumbia,25,MLI,CM,26-071,13,0,0,0,0,0,0,0,0,15,0,0,0,0.0,0.0,0.1,2,0,14,15,93.3,1,12,1,0,0,Reims,2020-10-25 Montpellier-Reims,FRA-L1,20-21,395d1d43
+d5575935,Valon Berisha,14,KVX,CM,27-261,82,0,0,0,0,3,1,0,0,105,1,0,0,0.1,0.1,0.2,5,0,90,99,90.9,11,84,10,1,1,Reims,2020-10-25 Montpellier-Reims,FRA-L1,20-21,395d1d43
+329e7a13,Moïse Sakava,35,CMR,CM,19-304,8,0,0,0,0,1,0,0,0,9,0,0,0,0.0,0.0,0.0,1,0,8,8,100.0,1,9,0,0,0,Reims,2020-10-25 Montpellier-Reims,FRA-L1,20-21,395d1d43
+2acf0cd7,Marshall Munetsi,15,ZIM,CM,24-125,82,0,0,0,0,0,0,0,0,59,1,4,0,0.0,0.0,0.0,2,0,45,50,90.0,3,36,1,2,1,Reims,2020-10-25 Montpellier-Reims,FRA-L1,20-21,395d1d43
+5d93ccee,Dario Maresic,29,AUT,RM,21-026,8,0,0,0,0,0,0,0,0,13,1,0,0,0.0,0.0,0.0,0,0,9,12,75.0,3,11,0,0,0,Reims,2020-10-25 Montpellier-Reims,FRA-L1,20-21,395d1d43
+46750e9c,Nathanael Mbuku,21,FRA,RM,18-223,90,1,0,0,0,3,1,0,0,50,3,0,0,0.4,0.4,0.3,9,2,29,39,74.4,8,36,4,5,3,Reims,2020-10-25 Montpellier-Reims,FRA-L1,20-21,395d1d43
+5fdcb075,Thibault De Smet,28,BEL,LB,22-142,77,0,0,0,0,0,0,0,0,104,3,0,0,0.0,0.0,0.0,2,0,86,95,90.5,8,65,10,0,0,Reims,2020-10-25 Montpellier-Reims,FRA-L1,20-21,395d1d43
+1bfe34dc,Fodé Doucouré,33,MLI,LB,19-265,13,0,0,0,0,1,0,0,0,16,1,0,0,0.1,0.1,0.2,3,0,14,14,100.0,2,14,1,1,1,Reims,2020-10-25 Montpellier-Reims,FRA-L1,20-21,395d1d43
+32c2d95f,Yunis Abdelhamid,5,MAR,CB,33-027,90,0,0,0,0,1,0,0,0,97,2,0,1,0.2,0.2,0.0,1,0,87,91,95.6,5,70,0,0,0,Reims,2020-10-25 Montpellier-Reims,FRA-L1,20-21,395d1d43
+9c221d14,Wout Faes,2,BEL,CB,22-205,90,0,0,0,0,1,0,0,0,101,1,1,0,0.1,0.1,0.0,2,0,93,95,97.9,8,81,0,0,0,Reims,2020-10-25 Montpellier-Reims,FRA-L1,20-21,395d1d43
+90eb507d,Thomas Foket,32,BEL,RB,26-030,90,0,0,0,0,0,0,0,0,86,1,0,1,0.0,0.0,0.0,0,0,74,81,91.4,7,62,4,0,0,Reims,2020-10-25 Montpellier-Reims,FRA-L1,20-21,395d1d43
+58ad9383,Predrag Rajković,1,SRB,GK,24-360,90,0,0,0,0,0,0,0,0,17,0,0,0,0.0,0.0,0.0,0,0,16,17,94.1,0,10,0,0,0,Reims,2020-10-25 Montpellier-Reims,FRA-L1,20-21,395d1d43

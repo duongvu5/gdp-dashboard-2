@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+9001138b,Robert Berić,27,SVN,FW,26-211,75,1,0,1,1,2,1,0,0,21,1,1,0,0.9,0.2,0.4,3,0,4,8,50.0,0,13,3,3,1,Saint-Étienne,2018-01-14 Saint-Étienne-Toulouse,FRA-L1,17-18,b81db7e2
+4a57580c,Kévin Monnet-Paquet,22,FRA,RW,29-148,15,0,0,0,0,2,1,0,0,7,1,0,0,0.4,0.4,0.0,1,1,1,2,50.0,0,4,0,0,0,Saint-Étienne,2018-01-14 Saint-Étienne-Toulouse,FRA-L1,17-18,b81db7e2
+0b4d8274,Romain Hamouma,21,FRA,LW,30-291,56,0,0,0,0,1,0,0,0,20,2,0,1,0.4,0.4,0.1,1,0,8,15,53.3,1,10,3,0,0,Saint-Étienne,2018-01-14 Saint-Étienne-Toulouse,FRA-L1,17-18,b81db7e2
+7f622eef,Assane Dioussé,8,SEN,LW,20-116,34,1,0,0,0,1,1,0,0,19,0,0,2,0.5,0.5,0.4,1,0,8,11,72.7,3,7,1,0,0,Saint-Étienne,2018-01-14 Saint-Étienne-Toulouse,FRA-L1,17-18,b81db7e2
+b2bd0f6c,Jonathan Bamba,14,CIV,"RW,FW",21-294,90,0,0,0,0,1,0,0,0,53,2,1,2,0.1,0.1,0.0,4,1,24,42,57.1,3,29,3,3,2,Saint-Étienne,2018-01-14 Saint-Étienne-Toulouse,FRA-L1,17-18,b81db7e2
+148e136f,Rémy Cabella,10,FRA,AM,27-312,90,0,0,0,0,1,1,0,0,64,2,0,1,0.0,0.0,0.0,3,1,43,51,84.3,7,32,3,6,3,Saint-Étienne,2018-01-14 Saint-Étienne-Toulouse,FRA-L1,17-18,b81db7e2
+f86ca403,Vincent Pajot,5,FRA,DM,27-148,10,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,0,2,0.0,0,0,0,0,0,Saint-Étienne,2018-01-14 Saint-Étienne-Toulouse,FRA-L1,17-18,b81db7e2
+4db2157a,Ole Selnæs,17,NOR,DM,23-191,80,0,0,0,0,0,0,0,0,57,7,0,0,0.0,0.0,0.1,1,0,39,46,84.8,4,19,1,0,0,Saint-Étienne,2018-01-14 Saint-Étienne-Toulouse,FRA-L1,17-18,b81db7e2
+c53083ad,Bryan Dabo,7,BFA,DM,25-330,90,0,0,0,0,0,0,1,0,48,1,0,1,0.0,0.0,0.0,0,0,34,42,81.0,4,19,1,1,0,Saint-Étienne,2018-01-14 Saint-Étienne-Toulouse,FRA-L1,17-18,b81db7e2
+4914ed4a,Gabriel Silva,11,BRA,LB,26-246,90,0,0,0,0,0,0,1,0,57,1,2,1,0.0,0.0,0.0,0,0,37,43,86.0,3,26,2,1,1,Saint-Étienne,2018-01-14 Saint-Étienne-Toulouse,FRA-L1,17-18,b81db7e2
+6b200d45,Loïc Perrin,24,FRA,CB,32-160,90,0,0,0,0,0,0,0,0,50,1,1,0,0.0,0.0,0.0,1,0,31,41,75.6,2,20,0,0,0,Saint-Étienne,2018-01-14 Saint-Étienne-Toulouse,FRA-L1,17-18,b81db7e2
+5984e9f9,Léo Lacroix,4,SUI,CB,25-321,90,0,0,0,0,1,0,0,0,45,2,1,0,0.1,0.1,0.0,0,0,23,33,69.7,1,22,0,1,1,Saint-Étienne,2018-01-14 Saint-Étienne-Toulouse,FRA-L1,17-18,b81db7e2
+6b994195,Kévin Théophile-Catherine,2,FRA,RB,28-078,90,0,0,0,0,0,0,0,0,44,2,0,0,0.0,0.0,0.1,4,0,26,33,78.8,5,10,0,0,0,Saint-Étienne,2018-01-14 Saint-Étienne-Toulouse,FRA-L1,17-18,b81db7e2
+28a65a2c,Jessy Moulin,30,FRA,GK,32-001,90,0,0,0,0,0,0,0,0,43,0,0,0,0.0,0.0,0.0,0,0,16,35,45.7,0,9,0,0,0,Saint-Étienne,2018-01-14 Saint-Étienne-Toulouse,FRA-L1,17-18,b81db7e2
+d33c706e,Andy Delort,10,ALG,FW,26-097,59,0,0,0,0,2,0,1,0,19,0,0,0,0.1,0.1,0.5,3,0,6,12,50.0,3,14,0,1,0,Toulouse,2018-01-14 Saint-Étienne-Toulouse,FRA-L1,17-18,b81db7e2
+7d9b37bf,Corentin Jean,8,FRA,"AM,FW,RW",22-183,31,0,0,0,0,3,1,0,0,9,0,0,1,0.1,0.1,0.0,1,0,1,3,33.3,1,6,0,1,1,Toulouse,2018-01-14 Saint-Étienne-Toulouse,FRA-L1,17-18,b81db7e2
+c5a500ca,Max Gradel,7,CIV,LW,30-045,90,0,0,0,0,5,3,1,0,55,3,0,0,0.2,0.2,0.2,8,0,15,36,41.7,0,37,11,6,4,Toulouse,2018-01-14 Saint-Étienne-Toulouse,FRA-L1,17-18,b81db7e2
+c1febb46,Somália,19,BRA,"RW,RM",29-108,75,0,0,0,0,3,2,0,0,35,3,2,2,0.1,0.1,0.1,4,0,14,18,77.8,1,21,3,4,1,Toulouse,2018-01-14 Saint-Étienne-Toulouse,FRA-L1,17-18,b81db7e2
+f09a8b75,Jimmy Durmaz,21,SWE,RW,28-298,15,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,1,0,3,5,60.0,0,1,0,0,0,Toulouse,2018-01-14 Saint-Étienne-Toulouse,FRA-L1,17-18,b81db7e2
+b86fe156,Giannelli Imbula,25,COD,LM,25-124,68,0,0,0,0,2,0,0,0,30,1,0,0,0.1,0.1,0.0,4,0,22,25,88.0,4,20,0,2,2,Toulouse,2018-01-14 Saint-Étienne-Toulouse,FRA-L1,17-18,b81db7e2
+11ced928,Yaya Sanogo,9,FRA,FW,24-352,22,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,1,0,3,4,75.0,0,3,0,0,0,Toulouse,2018-01-14 Saint-Étienne-Toulouse,FRA-L1,17-18,b81db7e2
+c69ef855,Alexis Blin,27,FRA,"CM,DM",21-120,90,0,0,0,0,0,0,0,0,51,4,3,0,0.0,0.0,0.0,2,0,27,37,73.0,6,20,0,2,1,Toulouse,2018-01-14 Saint-Étienne-Toulouse,FRA-L1,17-18,b81db7e2
+bced0375,Ibrahim Sangaré,17,CIV,"RM,DM,LM",20-043,90,0,0,0,0,0,0,0,0,52,6,1,2,0.0,0.0,0.1,5,0,30,42,71.4,8,36,1,2,2,Toulouse,2018-01-14 Saint-Étienne-Toulouse,FRA-L1,17-18,b81db7e2
+b99bec05,Issiaga Sylla,12,GUI,LB,24-013,90,0,0,0,0,1,0,0,0,54,1,1,3,0.0,0.0,0.0,3,0,31,39,79.5,9,27,7,1,1,Toulouse,2018-01-14 Saint-Étienne-Toulouse,FRA-L1,17-18,b81db7e2
+f323d995,Christopher Jullien,6,FRA,CB,24-298,90,0,0,0,0,1,0,0,0,43,0,2,0,0.1,0.1,0.0,1,0,22,34,64.7,0,25,0,0,0,Toulouse,2018-01-14 Saint-Étienne-Toulouse,FRA-L1,17-18,b81db7e2
+a712ca2b,Issa Diop,5,FRA,CB,21-005,90,0,0,0,0,1,1,0,0,38,3,1,0,0.1,0.1,0.0,0,0,20,30,66.7,1,23,1,1,1,Toulouse,2018-01-14 Saint-Étienne-Toulouse,FRA-L1,17-18,b81db7e2
+bcc81786,Kelvin Amian,2,FRA,RB,19-340,90,0,0,0,0,1,1,1,0,45,2,1,1,0.4,0.4,0.0,1,0,25,36,69.4,3,21,3,2,2,Toulouse,2018-01-14 Saint-Étienne-Toulouse,FRA-L1,17-18,b81db7e2
+4e7db402,Alban Lafont,40,FRA,GK,18-356,90,0,0,0,0,0,0,0,0,34,0,0,0,0.0,0.0,0.0,1,0,18,31,58.1,0,17,0,0,0,Toulouse,2018-01-14 Saint-Étienne-Toulouse,FRA-L1,17-18,b81db7e2

@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+d3de9af0,Duván Zapata,91,COL,FW,29-256,80,0,1,0,0,4,2,0,0,41,0,0,0,0.6,0.6,0.7,6,2,20,24,83.3,3,33,1,1,0,Atalanta,2020-12-13 Atalanta-Fiorentina,ITA-SERIA_A,20-21,f015f974
+c283ddef,Sam Lammers,7,NED,FW,23-227,10,0,0,0,0,1,0,0,0,8,0,0,0,0.0,0.0,0.0,3,0,3,4,75.0,0,5,1,1,1,Atalanta,2020-12-13 Atalanta-Fiorentina,ITA-SERIA_A,20-21,f015f974
+780e3631,Matteo Pessina,32,ITA,AM,23-236,88,0,0,0,0,1,0,0,0,47,0,2,0,0.0,0.0,0.0,1,0,36,39,92.3,5,30,0,3,2,Atalanta,2020-12-13 Atalanta-Fiorentina,ITA-SERIA_A,20-21,f015f974
+a69eb5fd,Manu Gyabuaa,44,ITA,AM,19-083,2,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,1,1,0,0,0,Atalanta,2020-12-13 Atalanta-Fiorentina,ITA-SERIA_A,20-21,f015f974
+48d5bd33,Ruslan Malinovskyi,18,UKR,AM,27-223,73,1,0,0,0,3,1,0,0,59,2,0,0,0.2,0.2,0.3,7,1,27,51,52.9,3,23,2,3,2,Atalanta,2020-12-13 Atalanta-Fiorentina,ITA-SERIA_A,20-21,f015f974
+eb2fe5b6,Luis Muriel,9,COL,"FW,AM",29-241,17,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,0,0,8,10,80.0,1,7,0,0,0,Atalanta,2020-12-13 Atalanta-Fiorentina,ITA-SERIA_A,20-21,f015f974
+98d2c2c4,Remo Freuler,11,SUI,CM,28-242,90,0,0,0,0,2,0,0,0,80,1,0,2,0.1,0.1,0.0,1,0,61,74,82.4,6,41,6,2,2,Atalanta,2020-12-13 Atalanta-Fiorentina,ITA-SERIA_A,20-21,f015f974
+2a1beb34,Marten de Roon,15,NED,CM,29-259,90,0,0,0,0,2,0,0,0,68,2,2,1,0.1,0.1,0.0,1,0,46,56,82.1,6,39,3,2,2,Atalanta,2020-12-13 Atalanta-Fiorentina,ITA-SERIA_A,20-21,f015f974
+2d970560,Robin Gosens,8,GER,WB,26-161,80,1,0,0,0,1,1,0,0,53,0,1,3,0.6,0.6,0.4,4,0,37,47,78.7,5,22,1,1,1,Atalanta,2020-12-13 Atalanta-Fiorentina,ITA-SERIA_A,20-21,f015f974
+608f2092,Johan Mojica,26,COL,WB,28-114,10,0,0,0,0,1,0,0,0,13,2,0,0,0.0,0.0,0.0,0,0,7,9,77.8,1,3,2,0,0,Atalanta,2020-12-13 Atalanta-Fiorentina,ITA-SERIA_A,20-21,f015f974
+3b333ac3,Hans Hateboer,33,NED,WB,26-339,90,0,0,0,0,3,1,0,0,59,1,1,0,0.3,0.3,0.1,4,0,44,51,86.3,2,23,1,0,0,Atalanta,2020-12-13 Atalanta-Fiorentina,ITA-SERIA_A,20-21,f015f974
+6eee05f1,Berat Djimsiti,19,ALB,CB,27-298,90,0,1,0,0,0,0,0,0,76,2,3,0,0.0,0.0,0.8,4,2,57,66,86.4,3,43,1,0,0,Atalanta,2020-12-13 Atalanta-Fiorentina,ITA-SERIA_A,20-21,f015f974
+a3d94a58,Cristian Romero,17,ARG,CB,22-230,73,0,0,0,0,2,1,1,0,47,2,2,0,0.1,0.1,0.0,1,0,33,35,94.3,5,21,2,1,1,Atalanta,2020-12-13 Atalanta-Fiorentina,ITA-SERIA_A,20-21,f015f974
+921f6058,José Luis Palomino,6,ARG,CB,30-343,17,0,0,0,0,0,0,0,0,10,0,0,1,0.0,0.0,0.0,0,0,6,7,85.7,0,7,0,0,0,Atalanta,2020-12-13 Atalanta-Fiorentina,ITA-SERIA_A,20-21,f015f974
+c56dc39e,Rafael Tolói,2,ITA,CB,30-064,90,1,0,0,0,1,1,0,0,56,0,0,1,0.5,0.5,0.1,1,0,43,47,91.5,4,18,5,0,0,Atalanta,2020-12-13 Atalanta-Fiorentina,ITA-SERIA_A,20-21,f015f974
+f0f7f62f,Pierluigi Gollini,95,ITA,GK,25-270,90,0,0,0,0,0,0,0,0,32,0,0,0,0.0,0.0,0.0,0,0,28,29,96.6,0,17,0,0,0,Atalanta,2020-12-13 Atalanta-Fiorentina,ITA-SERIA_A,20-21,f015f974
+79443529,Dušan Vlahović,9,SRB,FW,20-320,70,0,0,0,0,2,1,0,0,31,0,1,1,0.2,0.2,0.0,1,0,9,13,69.2,0,20,0,1,0,Fiorentina,2020-12-13 Atalanta-Fiorentina,ITA-SERIA_A,20-21,f015f974
+58e933d2,Christian Kouamé,11,CIV,FW,23-007,20,0,0,0,0,0,0,0,0,13,1,0,0,0.0,0.0,0.0,1,0,7,9,77.8,1,5,0,1,0,Fiorentina,2020-12-13 Atalanta-Fiorentina,ITA-SERIA_A,20-21,f015f974
+ae82fa48,Valentin Eysseric,92,FRA,LW,28-263,57,0,0,0,0,0,0,0,0,25,0,0,0,0.0,0.0,0.0,0,0,14,22,63.6,1,14,1,0,0,Fiorentina,2020-12-13 Atalanta-Fiorentina,ITA-SERIA_A,20-21,f015f974
+f61c7c4e,Franck Ribéry,7,FRA,LW,37-250,33,0,0,0,0,0,0,1,0,21,2,0,0,0.0,0.0,0.0,0,0,14,18,77.8,0,12,2,1,1,Fiorentina,2020-12-13 Atalanta-Fiorentina,ITA-SERIA_A,20-21,f015f974
+ff800ed8,Pol Lirola,21,ESP,RW,23-122,58,0,0,0,0,0,0,0,0,24,2,0,1,0.0,0.0,0.0,2,0,13,21,61.9,2,11,2,2,2,Fiorentina,2020-12-13 Atalanta-Fiorentina,ITA-SERIA_A,20-21,f015f974
+78841da9,José Callejón,77,ESP,RW,33-306,32,0,0,0,0,0,0,0,0,17,0,1,1,0.0,0.0,0.1,1,0,12,15,80.0,2,8,2,0,0,Fiorentina,2020-12-13 Atalanta-Fiorentina,ITA-SERIA_A,20-21,f015f974
+d995ed27,Giacomo Bonaventura,5,ITA,AM,31-113,90,0,0,0,0,0,0,0,0,47,3,4,0,0.0,0.0,0.0,0,0,33,38,86.8,1,27,1,1,1,Fiorentina,2020-12-13 Atalanta-Fiorentina,ITA-SERIA_A,20-21,f015f974
+5a2cb25d,Sofyan Amrabat,34,MAR,DM,24-114,90,0,0,0,0,0,0,1,0,63,5,3,2,0.0,0.0,0.0,0,0,43,51,84.3,5,43,0,1,1,Fiorentina,2020-12-13 Atalanta-Fiorentina,ITA-SERIA_A,20-21,f015f974
+4611e028,Erick Pulgar,78,CHI,DM,26-333,45,0,0,0,0,1,0,0,0,21,0,2,0,0.0,0.0,0.0,0,0,14,18,77.8,2,9,0,0,0,Fiorentina,2020-12-13 Atalanta-Fiorentina,ITA-SERIA_A,20-21,f015f974
+0728bebe,Gaetano Castrovilli,10,ITA,DM,23-300,45,0,0,0,0,0,0,0,0,22,1,2,1,0.0,0.0,0.1,2,0,12,15,80.0,1,14,0,1,1,Fiorentina,2020-12-13 Atalanta-Fiorentina,ITA-SERIA_A,20-21,f015f974
+9e1577aa,Cristiano Biraghi,3,ITA,LB,28-103,72,0,0,0,0,0,0,0,0,54,1,2,4,0.0,0.0,0.0,0,0,30,44,68.2,3,19,0,0,0,Fiorentina,2020-12-13 Atalanta-Fiorentina,ITA-SERIA_A,20-21,f015f974
+6a189491,Antonio Barreca,27,ITA,LB,25-270,18,0,0,0,0,1,1,0,0,9,0,0,0,0.1,0.1,0.0,0,0,6,8,75.0,1,3,1,0,0,Fiorentina,2020-12-13 Atalanta-Fiorentina,ITA-SERIA_A,20-21,f015f974
+8c725b43,Germán Pezzella,20,ARG,CB,29-169,90,0,0,0,0,0,0,0,0,50,1,0,3,0.0,0.0,0.0,0,0,38,41,92.7,1,27,0,0,0,Fiorentina,2020-12-13 Atalanta-Fiorentina,ITA-SERIA_A,20-21,f015f974
+bee704fc,Nikola Milenković,4,SRB,CB,23-062,90,0,0,0,0,0,0,0,0,59,3,2,1,0.0,0.0,0.0,0,0,43,50,86.0,1,23,0,0,0,Fiorentina,2020-12-13 Atalanta-Fiorentina,ITA-SERIA_A,20-21,f015f974
+983ff2c7,Lorenzo Venuti,23,ITA,RB,25-245,90,0,0,0,0,0,0,0,0,96,0,1,1,0.0,0.0,0.0,0,0,59,86,68.6,4,58,3,1,0,Fiorentina,2020-12-13 Atalanta-Fiorentina,ITA-SERIA_A,20-21,f015f974
+085e71a7,Bartłomiej Drągowski,69,POL,GK,23-116,90,0,0,0,0,0,0,0,0,39,0,0,0,0.0,0.0,0.0,0,0,25,35,71.4,0,22,0,0,0,Fiorentina,2020-12-13 Atalanta-Fiorentina,ITA-SERIA_A,20-21,f015f974

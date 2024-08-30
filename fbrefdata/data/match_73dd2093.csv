@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+e21042ae,Fabian Klos,9,GER,FW,33-003,85,0,0,0,0,1,0,0,0,28,0,1,0,0.2,0.2,0.3,2,0,10,20,50.0,2,18,1,0,0,Arminia,2020-12-05 Arminia-Mainz 05,GER-BL1,20-21,73dd2093
+d25fee56,Fabian Kunze,16,GER,FW,22-174,5,0,0,0,0,0,0,1,0,6,0,0,0,0.0,0.0,0.0,0,0,1,3,33.3,0,1,1,0,0,Arminia,2020-12-05 Arminia-Mainz 05,GER-BL1,20-21,73dd2093
+53eeaf6a,Sven Schipplock,36,GER,FW,32-027,78,0,0,0,0,1,0,1,0,32,1,1,2,0.4,0.4,0.0,4,1,13,20,65.0,3,13,3,0,0,Arminia,2020-12-05 Arminia-Mainz 05,GER-BL1,20-21,73dd2093
+229cd98a,Sergio Córdova,18,VEN,FW,23-118,12,0,0,0,0,0,0,0,0,4,0,0,1,0.0,0.0,0.1,1,0,1,2,50.0,0,3,0,0,0,Arminia,2020-12-05 Arminia-Mainz 05,GER-BL1,20-21,73dd2093
+7dca49f6,Reinhold Yabo,10,GER,LM,28-299,63,0,0,0,0,2,0,0,0,25,0,0,0,0.1,0.1,0.0,0,0,13,20,65.0,1,14,2,0,0,Arminia,2020-12-05 Arminia-Mainz 05,GER-BL1,20-21,73dd2093
+daa78200,Andreas Voglsammer,21,GER,LM,28-331,27,0,0,0,0,1,1,0,0,16,2,0,3,0.1,0.1,0.0,0,0,6,9,66.7,2,6,0,0,0,Arminia,2020-12-05 Arminia-Mainz 05,GER-BL1,20-21,73dd2093
+614eca9b,Marcel Hartel,30,GER,CM,24-321,90,0,0,0,0,2,1,1,0,65,1,3,1,0.1,0.1,0.0,2,1,38,57,66.7,4,33,0,2,1,Arminia,2020-12-05 Arminia-Mainz 05,GER-BL1,20-21,73dd2093
+901c0f97,Manuel Prietl,19,AUT,CM,29-124,90,1,0,0,0,2,2,0,0,62,6,2,1,0.3,0.3,0.0,2,0,41,47,87.2,0,36,1,0,0,Arminia,2020-12-05 Arminia-Mainz 05,GER-BL1,20-21,73dd2093
+d01bbb6f,Ritsu Doan,8,JPN,RM,22-172,90,1,1,0,0,2,1,0,0,52,2,2,3,0.1,0.1,0.4,6,1,21,30,70.0,5,35,5,4,3,Arminia,2020-12-05 Arminia-Mainz 05,GER-BL1,20-21,73dd2093
+5569bf9a,Anderson Lucoqui,23,ANG,LB,23-152,90,0,0,0,0,0,0,0,0,75,4,0,5,0.0,0.0,0.0,1,0,43,70,61.4,3,37,0,0,0,Arminia,2020-12-05 Arminia-Mainz 05,GER-BL1,20-21,73dd2093
+c562c5b4,Joakim Nilsson,4,SWE,CB,26-303,90,0,0,0,0,0,0,0,0,60,1,3,1,0.0,0.0,0.0,0,0,41,49,83.7,1,39,1,0,0,Arminia,2020-12-05 Arminia-Mainz 05,GER-BL1,20-21,73dd2093
+25f50295,Mike van der Hoorn,6,NED,CB,28-051,90,0,0,0,0,0,0,0,0,77,0,3,0,0.0,0.0,0.0,0,0,54,68,79.4,5,51,1,0,0,Arminia,2020-12-05 Arminia-Mainz 05,GER-BL1,20-21,73dd2093
+f0a37d36,Cédric Brunner,27,SUI,RB,26-292,90,0,0,0,0,1,0,0,0,91,1,4,1,0.0,0.0,0.0,1,0,53,78,67.9,5,45,1,0,0,Arminia,2020-12-05 Arminia-Mainz 05,GER-BL1,20-21,73dd2093
+c1242d4e,Stefan Ortega,1,GER,GK,28-029,90,0,0,0,0,0,0,0,0,47,1,0,0,0.0,0.0,0.4,3,0,33,44,75.0,0,25,0,0,0,Arminia,2020-12-05 Arminia-Mainz 05,GER-BL1,20-21,73dd2093
+50e6dc35,Jean-Philippe Mateta,9,FRA,FW,23-160,90,0,0,0,0,3,2,0,0,31,1,0,0,1.4,1.4,0.0,2,0,8,19,42.1,0,11,1,3,1,Mainz 05,2020-12-05 Arminia-Mainz 05,GER-BL1,20-21,73dd2093
+74c7c2db,Robin Quaison,7,SWE,"AM,RW",27-057,90,0,0,0,0,1,0,0,0,37,0,1,0,0.0,0.0,0.4,2,0,20,27,74.1,6,16,0,2,0,Mainz 05,2020-12-05 Arminia-Mainz 05,GER-BL1,20-21,73dd2093
+635f2732,Jean-Paul Boëtius,5,NED,AM,26-258,90,0,0,0,0,3,1,0,0,55,2,3,2,0.3,0.3,0.4,8,1,24,36,66.7,6,28,3,5,4,Mainz 05,2020-12-05 Arminia-Mainz 05,GER-BL1,20-21,73dd2093
+3bb625ac,Edimilson Fernandes,20,SUI,CM,24-234,57,0,0,0,0,1,0,0,0,35,2,1,0,0.0,0.0,0.1,1,0,18,29,62.1,3,17,0,0,0,Mainz 05,2020-12-05 Arminia-Mainz 05,GER-BL1,20-21,73dd2093
+e5649a78,Kevin Stöger,17,AUT,DM,27-100,33,1,0,0,0,3,2,0,0,42,1,0,0,0.9,0.9,0.1,6,0,30,38,78.9,6,17,1,0,0,Mainz 05,2020-12-05 Arminia-Mainz 05,GER-BL1,20-21,73dd2093
+00242b75,Leandro Barreiro Martins,35,LUX,CM,20-337,57,0,0,0,0,0,0,0,0,31,1,3,0,0.0,0.0,0.0,0,0,23,28,82.1,3,13,0,0,0,Mainz 05,2020-12-05 Arminia-Mainz 05,GER-BL1,20-21,73dd2093
+9ceb7642,Pierre Kunde,14,CMR,DM,25-132,33,0,0,0,0,1,0,0,0,32,0,1,0,0.0,0.0,0.0,0,0,24,31,77.4,3,15,1,1,1,Mainz 05,2020-12-05 Arminia-Mainz 05,GER-BL1,20-21,73dd2093
+2f3e911a,Aarón Martín,3,ESP,WB,23-227,57,0,0,0,0,0,0,0,0,40,1,1,0,0.0,0.0,0.0,1,0,21,32,65.6,2,15,0,2,1,Mainz 05,2020-12-05 Arminia-Mainz 05,GER-BL1,20-21,73dd2093
+f26834c7,Karim Onisiwo,21,AUT,LW,28-263,33,0,0,0,0,1,0,0,0,21,0,0,1,0.1,0.1,0.1,0,0,2,10,20.0,0,15,1,3,1,Mainz 05,2020-12-05 Arminia-Mainz 05,GER-BL1,20-21,73dd2093
+05f99a4a,Jonathan Burkardt,29,GER,"WB,RB",20-147,90,0,0,0,0,1,0,0,0,64,2,1,1,0.1,0.1,0.0,2,0,36,53,67.9,6,23,5,2,1,Mainz 05,2020-12-05 Arminia-Mainz 05,GER-BL1,20-21,73dd2093
+00242715,Moussa Niakhate,19,SEN,"CB,LB",24-272,90,0,0,0,0,0,0,1,0,78,0,1,1,0.0,0.0,0.0,2,0,53,70,75.7,4,48,3,1,1,Mainz 05,2020-12-05 Arminia-Mainz 05,GER-BL1,20-21,73dd2093
+a5ec3ede,Alexander Hack,42,GER,CB,27-088,90,0,0,0,0,0,0,0,0,94,0,3,1,0.0,0.0,0.0,0,0,65,82,79.3,12,46,1,1,1,Mainz 05,2020-12-05 Arminia-Mainz 05,GER-BL1,20-21,73dd2093
+90339309,Jerry St. Juste,4,NED,CB,24-047,90,0,0,0,0,1,0,1,0,84,1,1,1,0.1,0.1,0.0,2,0,61,75,81.3,9,50,2,0,0,Mainz 05,2020-12-05 Arminia-Mainz 05,GER-BL1,20-21,73dd2093
+5c4bf6ba,Robin Zentner,27,GER,GK,26-038,90,0,0,0,0,0,0,0,0,38,0,0,0,0.0,0.0,0.0,0,0,26,36,72.2,0,21,0,0,0,Mainz 05,2020-12-05 Arminia-Mainz 05,GER-BL1,20-21,73dd2093

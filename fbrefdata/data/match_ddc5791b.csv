@@ -1,0 +1,31 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+c4e87b8b,Wout Weghorst,9,NED,FW,27-297,74,0,0,0,0,4,2,0,0,30,1,0,0,0.9,0.9,0.0,3,0,10,23,43.5,3,16,0,0,0,Wolfsburg,2020-05-30 Wolfsburg-Eint Frankfurt,GER-BL1,19-20,ddc5791b
+e5f63987,Daniel Ginczek,33,GER,FW,29-047,16,0,0,0,0,1,0,0,0,7,0,0,0,0.1,0.1,0.0,0,0,5,5,100.0,0,2,0,0,0,Wolfsburg,2020-05-30 Wolfsburg-Eint Frankfurt,GER-BL1,19-20,ddc5791b
+d4a2533d,Josip Brekalo,7,CRO,FW,21-342,90,0,0,0,0,4,1,0,0,60,0,1,2,0.4,0.4,0.2,5,0,29,42,69.0,9,44,4,9,4,Wolfsburg,2020-05-30 Wolfsburg-Eint Frankfurt,GER-BL1,19-20,ddc5791b
+1a1033a1,João Victor Santos Sá,40,BRA,LM,26-064,60,0,0,0,0,1,0,1,0,25,0,0,2,0.1,0.1,0.0,1,0,16,19,84.2,2,18,0,0,0,Wolfsburg,2020-05-30 Wolfsburg-Eint Frankfurt,GER-BL1,19-20,ddc5791b
+b500b384,Admir Mehmedi,14,SUI,LM,29-075,30,0,0,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.0,2,0,10,10,100.0,2,10,1,0,0,Wolfsburg,2020-05-30 Wolfsburg-Eint Frankfurt,GER-BL1,19-20,ddc5791b
+86e119e0,Maximilian Arnold,27,GER,CM,26-003,90,0,1,0,0,2,0,0,0,59,3,0,2,0.1,0.1,0.1,3,1,35,51,68.6,5,27,2,1,0,Wolfsburg,2020-05-30 Wolfsburg-Eint Frankfurt,GER-BL1,19-20,ddc5791b
+8f056768,Xaver Schlager,24,AUT,CM,22-245,90,0,0,0,0,4,0,0,0,46,1,1,1,0.3,0.3,0.0,2,0,22,33,66.7,4,28,3,1,1,Wolfsburg,2020-05-30 Wolfsburg-Eint Frankfurt,GER-BL1,19-20,ddc5791b
+dd669209,Renato Steffen,8,SUI,RM,28-209,90,0,0,0,0,0,0,1,0,35,1,0,1,0.0,0.0,0.1,3,0,16,25,64.0,3,26,1,5,4,Wolfsburg,2020-05-30 Wolfsburg-Eint Frankfurt,GER-BL1,19-20,ddc5791b
+13203c45,Jérôme Roussillon,15,FRA,LB,27-145,90,0,0,0,0,0,0,1,0,52,2,1,0,0.0,0.0,0.4,3,0,32,45,71.1,2,34,5,3,1,Wolfsburg,2020-05-30 Wolfsburg-Eint Frankfurt,GER-BL1,19-20,ddc5791b
+e27da244,John Brooks,25,USA,CB,27-123,90,0,0,0,0,1,0,0,0,51,4,2,0,0.1,0.1,0.7,1,0,31,41,75.6,4,20,0,0,0,Wolfsburg,2020-05-30 Wolfsburg-Eint Frankfurt,GER-BL1,19-20,ddc5791b
+2a6cd437,Marin Pongračić,22,CRO,CB,22-262,90,0,0,0,0,1,0,1,0,66,4,3,2,0.1,0.1,0.0,3,0,36,48,75.0,5,31,1,4,3,Wolfsburg,2020-05-30 Wolfsburg-Eint Frankfurt,GER-BL1,19-20,ddc5791b
+493924a7,Kevin Mbabu,19,SUI,RB,25-041,90,1,0,0,0,1,1,0,0,72,8,0,1,0.1,0.1,0.1,4,1,35,51,68.6,2,24,2,6,3,Wolfsburg,2020-05-30 Wolfsburg-Eint Frankfurt,GER-BL1,19-20,ddc5791b
+db401046,Koen Casteels,1,BEL,GK,27-340,90,0,0,0,0,0,0,0,0,39,0,0,0,0.0,0.0,0.0,0,0,25,36,69.4,0,23,0,0,0,Wolfsburg,2020-05-30 Wolfsburg-Eint Frankfurt,GER-BL1,19-20,ddc5791b
+15b287da,Daichi Kamada,15,JPN,FW,23-299,88,1,0,0,0,2,1,1,0,42,1,1,0,0.4,0.4,0.0,2,0,27,32,84.4,7,25,3,2,2,Eintracht Frankfurt,2020-05-30 Wolfsburg-Eint Frankfurt,GER-BL1,19-20,ddc5791b
+1bcca8b8,Jonathan de Guzmán,6,NED,FW,32-260,2,0,0,0,0,0,0,1,0,2,0,0,1,0.0,0.0,0.0,0,0,0,1,0.0,0,1,0,0,0,Eintracht Frankfurt,2020-05-30 Wolfsburg-Eint Frankfurt,GER-BL1,19-20,ddc5791b
+3effaa34,André Silva,33,POR,FW,24-206,76,1,0,1,1,0,0,0,0,33,1,2,1,0.8,0.0,0.0,2,1,12,19,63.2,0,18,3,6,1,Eintracht Frankfurt,2020-05-30 Wolfsburg-Eint Frankfurt,GER-BL1,19-20,ddc5791b
+dc90cfbe,Bas Dost,9,NED,FW,30-365,14,0,1,0,0,0,0,0,0,9,1,0,0,0.0,0.0,0.3,1,1,4,6,66.7,1,0,0,0,0,Eintracht Frankfurt,2020-05-30 Wolfsburg-Eint Frankfurt,GER-BL1,19-20,ddc5791b
+16daec92,Mijat Gaćinović,11,SRB,AM,25-112,83,0,0,0,0,2,1,1,0,26,3,0,2,0.7,0.7,0.0,0,0,9,16,56.3,2,11,2,1,1,Eintracht Frankfurt,2020-05-30 Wolfsburg-Eint Frankfurt,GER-BL1,19-20,ddc5791b
+4c6facae,Djibril Sow,8,SUI,AM,23-114,7,0,0,0,0,0,0,0,0,3,3,0,0,0.0,0.0,0.0,0,0,0,0,,0,1,0,0,0,Eintracht Frankfurt,2020-05-30 Wolfsburg-Eint Frankfurt,GER-BL1,19-20,ddc5791b
+e12b0b5b,Sebastian Rode,17,GER,CM,29-232,76,0,0,0,0,0,0,1,0,50,3,1,3,0.0,0.0,0.0,3,0,32,39,82.1,3,16,0,0,0,Eintracht Frankfurt,2020-05-30 Wolfsburg-Eint Frankfurt,GER-BL1,19-20,ddc5791b
+8e58987d,Gelson Fernandes,5,SUI,CM,33-271,14,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,0,0,0,0,Eintracht Frankfurt,2020-05-30 Wolfsburg-Eint Frankfurt,GER-BL1,19-20,ddc5791b
+0fbecd11,Dominik Kohr,28,GER,CM,26-120,76,0,0,0,0,0,0,0,0,33,1,5,0,0.0,0.0,0.0,0,0,19,25,76.0,2,12,0,0,0,Eintracht Frankfurt,2020-05-30 Wolfsburg-Eint Frankfurt,GER-BL1,19-20,ddc5791b
+0e4fef6e,Lucas Torró,16,ESP,CM,25-316,13,0,0,0,0,0,0,2,1,7,1,0,0,0.0,0.0,0.0,0,0,3,5,60.0,0,3,0,1,0,Eintracht Frankfurt,2020-05-30 Wolfsburg-Eint Frankfurt,GER-BL1,19-20,ddc5791b
+b1cd37e6,Filip Kostić,10,SRB,WB,27-211,90,0,0,0,0,1,0,0,0,58,4,1,2,0.0,0.0,0.2,4,1,21,39,53.8,1,34,5,3,1,Eintracht Frankfurt,2020-05-30 Wolfsburg-Eint Frankfurt,GER-BL1,19-20,ddc5791b
+b3b7f5a6,Timothy Chandler,22,USA,WB,30-062,90,0,0,0,0,1,0,0,0,36,2,1,0,0.1,0.1,0.0,2,1,17,29,58.6,7,14,0,1,1,Eintracht Frankfurt,2020-05-30 Wolfsburg-Eint Frankfurt,GER-BL1,19-20,ddc5791b
+080440a4,Martin Hinteregger,13,AUT,CB,27-266,90,0,0,0,0,0,0,0,0,75,5,2,5,0.0,0.0,0.0,0,0,36,59,61.0,5,34,1,0,0,Eintracht Frankfurt,2020-05-30 Wolfsburg-Eint Frankfurt,GER-BL1,19-20,ddc5791b
+9ab16552,Makoto Hasebe,20,JPN,CB,36-133,90,0,0,0,0,0,0,0,0,38,1,0,4,0.0,0.0,0.0,0,0,26,33,78.8,1,15,0,0,0,Eintracht Frankfurt,2020-05-30 Wolfsburg-Eint Frankfurt,GER-BL1,19-20,ddc5791b
+565bf0da,David Abraham,19,ARG,CB,33-320,90,0,0,0,0,0,0,0,0,43,2,4,3,0.0,0.0,0.0,0,0,23,32,71.9,2,15,0,0,0,Eintracht Frankfurt,2020-05-30 Wolfsburg-Eint Frankfurt,GER-BL1,19-20,ddc5791b
+ce17b5eb,Kevin Trapp,1,GER,GK,29-327,90,0,0,0,0,0,0,0,0,41,0,0,0,0.0,0.0,0.0,0,0,20,38,52.6,0,21,0,0,0,Eintracht Frankfurt,2020-05-30 Wolfsburg-Eint Frankfurt,GER-BL1,19-20,ddc5791b

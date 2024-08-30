@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+58e933d2,Christian Kouamé,11,CIV,FW,20-263,90,1,0,0,0,2,1,0,0,30,1,0,0,0.2,0.2,0.1,4,1,16,21,76.2,2,20,1,0,0,Genoa,2018-08-26 Genoa-Empoli,ITA-SERIA_A,18-19,13e8157a
+17f3620a,Krzysztof Piątek,9,POL,FW,23-056,90,1,0,0,0,5,2,0,0,37,0,0,1,0.5,0.5,0.0,1,0,14,26,53.8,1,28,2,1,0,Genoa,2018-08-26 Genoa-Empoli,ITA-SERIA_A,18-19,13e8157a
+d711d04f,Goran Pandev,19,MKD,AM,35-030,53,0,0,0,0,0,0,0,0,31,2,1,0,0.0,0.0,0.0,4,1,16,21,76.2,3,24,4,1,0,Genoa,2018-08-26 Genoa-Empoli,ITA-SERIA_A,18-19,13e8157a
+dc61b402,Luca Mazzitelli,15,ITA,AM,22-284,37,0,0,0,0,0,0,0,0,19,0,1,0,0.0,0.0,0.0,0,0,15,18,83.3,1,15,1,0,0,Genoa,2018-08-26 Genoa-Empoli,ITA-SERIA_A,18-19,13e8157a
+98e958af,Oscar Hiljemark,88,SWE,CM,26-059,80,0,0,0,0,0,0,0,0,34,2,2,3,0.0,0.0,0.1,2,0,22,27,81.5,2,17,0,0,0,Genoa,2018-08-26 Genoa-Empoli,ITA-SERIA_A,18-19,13e8157a
+88895312,Daniel Bessa,24,ITA,CM,25-224,10,0,0,0,0,1,0,0,0,7,1,0,1,0.1,0.1,0.0,1,0,6,6,100.0,0,4,1,0,0,Genoa,2018-08-26 Genoa-Empoli,ITA-SERIA_A,18-19,13e8157a
+07abb358,Rômulo,8,ITA,CM,31-096,90,0,0,0,0,0,0,0,0,41,3,1,1,0.0,0.0,0.0,1,0,25,32,78.1,2,23,3,3,2,Genoa,2018-08-26 Genoa-Empoli,ITA-SERIA_A,18-19,13e8157a
+35dd6d80,Domenico Criscito,4,ITA,WB,31-239,90,0,2,0,0,1,0,1,0,56,7,1,0,0.1,0.1,0.4,3,1,26,39,66.7,5,33,4,3,1,Genoa,2018-08-26 Genoa-Empoli,ITA-SERIA_A,18-19,13e8157a
+5128bde4,Darko Lazović,22,SRB,WB,27-345,71,0,0,0,0,2,0,0,0,33,0,1,2,0.1,0.1,0.0,2,0,18,25,72.0,1,18,5,0,0,Genoa,2018-08-26 Genoa-Empoli,ITA-SERIA_A,18-19,13e8157a
+f1f1f238,Koray Günter,3,GER,WB,24-010,19,0,0,0,0,0,0,0,0,9,1,0,0,0.0,0.0,0.0,0,0,5,6,83.3,1,7,1,0,0,Genoa,2018-08-26 Genoa-Empoli,ITA-SERIA_A,18-19,13e8157a
+1253a12e,Ervin Zukanović,87,BIH,CB,31-196,90,0,0,0,0,0,0,1,0,41,3,0,2,0.0,0.0,0.0,0,0,15,18,83.3,0,14,0,0,0,Genoa,2018-08-26 Genoa-Empoli,ITA-SERIA_A,18-19,13e8157a
+9a560ebe,Nicolás Spolli,2,ARG,CB,35-187,90,0,0,0,0,1,0,1,0,28,0,1,3,0.1,0.1,0.0,0,0,8,14,57.1,0,9,0,0,0,Genoa,2018-08-26 Genoa-Empoli,ITA-SERIA_A,18-19,13e8157a
+64cd167d,Davide Biraschi,14,ITA,CB,24-055,90,0,0,0,0,1,0,0,0,17,0,1,3,0.0,0.0,0.0,1,0,8,11,72.7,2,6,0,1,1,Genoa,2018-08-26 Genoa-Empoli,ITA-SERIA_A,18-19,13e8157a
+f794b426,Federico Marchetti,1,ITA,GK,35-200,90,0,0,0,0,0,0,0,0,31,0,0,0,0.0,0.0,0.0,0,0,17,28,60.7,0,13,0,0,0,Genoa,2018-08-26 Genoa-Empoli,ITA-SERIA_A,18-19,13e8157a
+5bd72174,Francesco Caputo,11,ITA,FW,31-020,90,0,0,0,0,0,0,0,0,28,1,0,1,0.0,0.0,0.0,1,0,15,22,68.2,0,27,1,2,0,Empoli,2018-08-26 Genoa-Empoli,ITA-SERIA_A,18-19,13e8157a
+822a7761,Antonino La Gumina,20,ITA,FW,22-173,76,0,0,0,0,3,0,0,0,26,0,1,2,0.2,0.2,0.0,1,0,8,12,66.7,0,18,1,3,1,Empoli,2018-08-26 Genoa-Empoli,ITA-SERIA_A,18-19,13e8157a
+be6c1ccc,Samuel Mráz,66,SVK,FW,21-105,14,1,0,0,0,1,1,0,0,4,0,0,0,0.7,0.7,0.0,0,0,3,3,100.0,0,4,0,0,0,Empoli,2018-08-26 Genoa-Empoli,ITA-SERIA_A,18-19,13e8157a
+83e4643e,Miha Zajc,6,SVN,AM,24-056,84,0,0,0,0,4,1,0,0,86,1,0,0,0.2,0.2,0.1,4,0,61,80,76.3,6,65,3,3,3,Empoli,2018-08-26 Genoa-Empoli,ITA-SERIA_A,18-19,13e8157a
+570bb4b9,Hamed Junior Traorè,8,CIV,AM,18-191,6,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,1,1,4,6,66.7,1,6,1,0,0,Empoli,2018-08-26 Genoa-Empoli,ITA-SERIA_A,18-19,13e8157a
+817c6964,Rade Krunić,33,BIH,LM,24-323,90,0,0,0,0,2,1,1,0,81,2,1,2,0.1,0.1,0.1,6,0,55,69,79.7,5,63,2,4,2,Empoli,2018-08-26 Genoa-Empoli,ITA-SERIA_A,18-19,13e8157a
+07ea0ef2,Leonardo Capezzi,28,ITA,CM,23-151,90,0,0,0,0,2,0,0,0,105,3,1,1,0.1,0.1,0.0,2,0,87,96,90.6,11,80,3,3,3,Empoli,2018-08-26 Genoa-Empoli,ITA-SERIA_A,18-19,13e8157a
+d7403bd5,Afriyie Acquah,18,GHA,RM,26-233,72,0,0,0,0,3,1,0,0,69,0,0,1,0.1,0.1,0.1,9,0,51,61,83.6,9,59,5,4,2,Empoli,2018-08-26 Genoa-Empoli,ITA-SERIA_A,18-19,13e8157a
+db092d3b,Ismaël Bennacer,10,ALG,RM,20-268,18,0,0,0,0,1,0,0,0,19,0,0,0,0.0,0.0,0.0,0,0,15,17,88.2,1,17,0,0,0,Empoli,2018-08-26 Genoa-Empoli,ITA-SERIA_A,18-19,13e8157a
+40f0ed6c,Luca Antonelli,13,ITA,LB,31-196,90,0,0,0,0,0,0,0,0,59,1,1,2,0.0,0.0,0.0,0,0,43,51,84.3,6,40,4,3,2,Empoli,2018-08-26 Genoa-Empoli,ITA-SERIA_A,18-19,13e8157a
+283699b4,Jacob Rasmussen,32,DEN,CB,21-090,90,0,0,0,0,1,0,0,0,72,1,2,0,0.1,0.1,0.1,1,0,63,66,95.5,7,49,0,0,0,Empoli,2018-08-26 Genoa-Empoli,ITA-SERIA_A,18-19,13e8157a
+b6ca47a2,Matías Silvestre,26,ARG,CB,33-335,90,0,0,0,0,0,0,1,0,68,0,2,0,0.0,0.0,0.0,1,0,51,61,83.6,3,51,0,0,0,Empoli,2018-08-26 Genoa-Empoli,ITA-SERIA_A,18-19,13e8157a
+230a2fac,Giovanni Di Lorenzo,2,ITA,RB,25-022,90,0,1,0,0,1,0,0,0,108,3,0,2,0.0,0.0,0.8,4,1,84,97,86.6,11,83,4,5,2,Empoli,2018-08-26 Genoa-Empoli,ITA-SERIA_A,18-19,13e8157a
+e1b0a70d,Pietro Terracciano,21,ITA,GK,28-171,90,0,0,0,0,0,0,0,0,19,0,0,0,0.0,0.0,0.0,0,0,15,18,83.3,0,10,0,0,0,Empoli,2018-08-26 Genoa-Empoli,ITA-SERIA_A,18-19,13e8157a

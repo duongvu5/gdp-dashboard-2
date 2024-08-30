@@ -1,0 +1,32 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+ce50fd99,Jonathan David,9,CAN,FW,22-268,90,1,0,1,1,3,2,0,0,27,2,0,0,1.3,0.5,0.9,3,0,10,12,83.3,0,22,1,3,0,Lille,2022-10-09 Lille-Lens,FRA-L1,22-23,080e6d11
+b2bd0f6c,Jonathan Bamba,7,CIV,LW,26-197,73,0,0,0,0,1,0,0,0,34,1,1,2,0.0,0.0,0.0,1,0,19,27,70.4,3,24,2,0,0,Lille,2022-10-09 Lille-Lens,FRA-L1,22-23,080e6d11
+8eec784d,Timothy Weah,22,USA,LW,22-229,17,0,0,0,0,1,0,0,0,13,0,0,1,0.9,0.9,0.0,0,0,7,9,77.8,0,11,0,0,0,Lille,2022-10-09 Lille-Lens,FRA-L1,22-23,080e6d11
+ed90babd,Adam Ounas,11,ALG,RW,25-332,90,0,0,0,0,2,1,0,0,46,2,1,2,0.2,0.2,0.2,3,0,20,28,71.4,4,32,6,9,4,Lille,2022-10-09 Lille-Lens,FRA-L1,22-23,080e6d11
+645a3363,Angel Gomes,20,ENG,AM,22-039,84,0,0,0,0,0,0,0,0,45,0,0,0,0.0,0.0,0.3,4,0,28,38,73.7,3,35,1,3,1,Lille,2022-10-09 Lille-Lens,FRA-L1,22-23,080e6d11
+468fdbad,Jonas Martin,8,FRA,AM,32-183,6,0,0,0,0,0,0,0,0,10,0,1,0,0.0,0.0,0.0,1,0,6,8,75.0,1,8,1,0,0,Lille,2022-10-09 Lille-Lens,FRA-L1,22-23,080e6d11
+1961b2aa,André Gomes,28,POR,DM,29-071,73,0,0,0,0,3,1,1,0,50,1,0,1,0.1,0.1,0.0,4,0,33,42,78.6,2,38,0,2,1,Lille,2022-10-09 Lille-Lens,FRA-L1,22-23,080e6d11
+a1390d2f,Carlos Baleba,35,CMR,DM,18-279,17,0,0,0,0,0,0,0,0,19,1,0,1,0.0,0.0,0.0,0,0,12,15,80.0,2,16,1,2,1,Lille,2022-10-09 Lille-Lens,FRA-L1,22-23,080e6d11
+ef9c1c95,Benjamin André,21,FRA,DM,32-067,90,0,0,0,0,1,0,1,0,54,6,3,1,0.2,0.2,0.2,3,1,30,36,83.3,4,31,0,0,0,Lille,2022-10-09 Lille-Lens,FRA-L1,22-23,080e6d11
+cf182add,Ismaily,31,BRA,LB,32-271,90,0,0,0,0,0,0,0,0,66,2,5,1,0.0,0.0,0.0,1,0,43,51,84.3,3,39,1,3,1,Lille,2022-10-09 Lille-Lens,FRA-L1,22-23,080e6d11
+b2336681,Tiago Djaló,3,POR,CB,22-183,90,0,0,0,0,0,0,0,0,44,2,1,0,0.0,0.0,0.0,0,0,34,36,94.4,4,32,0,0,0,Lille,2022-10-09 Lille-Lens,FRA-L1,22-23,080e6d11
+90f87966,José Fonte,6,POR,CB,38-291,90,0,0,0,0,0,0,1,0,52,0,1,2,0.0,0.0,0.0,0,0,35,42,83.3,5,31,0,0,0,Lille,2022-10-09 Lille-Lens,FRA-L1,22-23,080e6d11
+1bfb6fef,Bafodé Diakité,18,FRA,RB,21-276,90,0,0,0,0,0,0,0,0,36,0,0,1,0.0,0.0,0.0,2,0,26,32,81.3,5,20,1,0,0,Lille,2022-10-09 Lille-Lens,FRA-L1,22-23,080e6d11
+b3d76d84,Lucas Chevalier,30,FRA,GK,20-337,90,0,0,0,0,0,0,0,0,27,0,0,0,0.0,0.0,0.0,0,0,15,24,62.5,0,17,0,0,0,Lille,2022-10-09 Lille-Lens,FRA-L1,22-23,080e6d11
+8652a85c,Loïs Openda,11,BEL,FW,22-235,90,0,0,0,0,3,1,0,0,20,0,0,0,0.2,0.2,0.0,0,0,7,14,50.0,0,12,3,0,0,Lens,2022-10-09 Lille-Lens,FRA-L1,22-23,080e6d11
+59948ef7,David Pereira da Costa,20,POR,AM,21-277,60,0,0,0,0,0,0,0,0,28,1,0,1,0.0,0.0,0.0,1,0,19,22,86.4,3,25,3,1,0,Lens,2022-10-09 Lille-Lens,FRA-L1,22-23,080e6d11
+90fcf472,Wesley Saïd,22,FRA,AM,27-173,30,0,0,0,0,0,0,0,0,12,0,1,0,0.0,0.0,0.0,0,0,7,9,77.8,0,10,2,1,1,Lens,2022-10-09 Lille-Lens,FRA-L1,22-23,080e6d11
+7a42d0df,Florian Sotoca,7,FRA,AM,31-349,67,0,0,0,1,1,0,0,0,22,1,0,1,0.8,0.0,0.2,3,0,11,15,73.3,3,17,1,0,0,Lens,2022-10-09 Lille-Lens,FRA-L1,22-23,080e6d11
+741418c3,Alexis Claude-Maurice,18,FRA,"WB,AM",24-125,23,0,0,0,0,1,1,0,0,12,1,0,1,0.0,0.0,0.0,1,0,7,8,87.5,1,6,0,1,1,Lens,2022-10-09 Lille-Lens,FRA-L1,22-23,080e6d11
+5313ed43,Seko Fofana,8,CIV,CM,27-155,90,0,0,0,0,1,0,0,0,52,4,1,0,0.0,0.0,0.0,3,0,37,42,88.1,4,45,5,2,2,Lens,2022-10-09 Lille-Lens,FRA-L1,22-23,080e6d11
+82464ce3,Salis Abdul Samed,26,GHA,CM,22-197,90,0,0,0,0,0,0,0,0,52,3,0,1,0.0,0.0,0.0,0,0,39,43,90.7,4,37,0,1,1,Lens,2022-10-09 Lille-Lens,FRA-L1,22-23,080e6d11
+b3f8bdef,Deiver Machado,3,COL,WB,29-037,76,0,0,0,0,0,0,1,0,32,5,0,1,0.0,0.0,0.0,2,0,21,25,84.0,0,19,2,2,1,Lens,2022-10-09 Lille-Lens,FRA-L1,22-23,080e6d11
+62e02107,Ismaëlben Boura,23,COM,CB,22-056,14,0,0,0,0,1,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,4,6,66.7,1,4,0,0,0,Lens,2022-10-09 Lille-Lens,FRA-L1,22-23,080e6d11
+46359159,Jimmy Cabot,19,FRA,WB,28-174,60,0,0,0,0,1,0,1,0,51,4,1,1,0.1,0.1,0.0,3,0,24,38,63.2,2,26,2,4,2,Lens,2022-10-09 Lille-Lens,FRA-L1,22-23,080e6d11
+00a8d210,Przemysław Frankowski,29,POL,"CB,WB",27-180,30,0,0,0,0,0,0,1,0,38,1,1,0,0.0,0.0,0.0,1,0,24,33,72.7,3,22,0,0,0,Lens,2022-10-09 Lille-Lens,FRA-L1,22-23,080e6d11
+6f5ec8bb,Facundo Medina,14,ARG,"CB,WB",23-134,90,0,0,0,0,0,0,1,0,82,0,0,0,0.0,0.0,0.0,0,0,64,77,83.1,3,72,1,2,1,Lens,2022-10-09 Lille-Lens,FRA-L1,22-23,080e6d11
+6e33125f,Kevin Danso,4,AUT,CB,24-020,90,0,0,0,0,1,0,0,0,74,2,1,1,0.1,0.0,0.0,1,0,55,60,91.7,3,51,1,1,0,Lens,2022-10-09 Lille-Lens,FRA-L1,22-23,080e6d11
+5167c97e,Massadio Haïdara,21,MLI,CB,29-311,76,0,0,0,0,0,0,1,0,56,1,4,5,0.0,0.0,0.1,1,0,37,41,90.2,3,40,0,1,0,Lens,2022-10-09 Lille-Lens,FRA-L1,22-23,080e6d11
+3b676989,Adam Buksa,9,POL,AM,26-089,14,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,1,4,25.0,0,5,0,0,0,Lens,2022-10-09 Lille-Lens,FRA-L1,22-23,080e6d11
+60d90c55,Brice Samba,30,FRA,GK,28-167,90,0,0,0,0,0,0,0,0,50,1,0,0,0.0,0.0,0.0,0,0,35,45,77.8,0,38,0,0,0,Lens,2022-10-09 Lille-Lens,FRA-L1,22-23,080e6d11

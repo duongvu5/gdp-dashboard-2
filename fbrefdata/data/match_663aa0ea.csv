@@ -1,0 +1,32 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+1f2c7b55,Merlin Röhl,34,GER,FW,21-122,58,0,1,0,0,3,1,0,0,19,0,0,1,0.2,0.2,0.9,3,1,7,9,77.8,0,10,0,1,1,Freiburg,2023-11-04 Freiburg-Gladbach,GER-BL1,23-24,663aa0ea
+8e235926,Michael Gregoritsch,38,AUT,FW,29-200,32,0,0,0,0,3,1,0,0,10,0,0,0,0.3,0.3,0.0,1,0,2,7,28.6,1,6,1,0,0,Freiburg,2023-11-04 Freiburg-Gladbach,GER-BL1,23-24,663aa0ea
+ca618d23,Lucas Höler,9,GER,FW,29-117,90,1,1,0,0,3,3,0,0,35,0,0,0,1.6,1.6,0.3,4,2,11,22,50.0,2,19,0,0,0,Freiburg,2023-11-04 Freiburg-Gladbach,GER-BL1,23-24,663aa0ea
+54e4866f,Vincenzo Grifo,32,ITA,LM,30-211,90,1,0,1,1,1,1,0,0,90,3,0,3,0.8,0.0,0.2,3,0,56,75,74.7,5,55,0,5,2,Freiburg,2023-11-04 Freiburg-Gladbach,GER-BL1,23-24,663aa0ea
+5d8e331f,Nicolas Höfler,27,GER,CM,33-240,90,0,0,0,0,0,0,0,0,69,1,2,1,0.0,0.0,0.0,1,0,61,63,96.8,5,39,1,1,0,Freiburg,2023-11-04 Freiburg-Gladbach,GER-BL1,23-24,663aa0ea
+beb882a8,Maximilian Eggestein,8,GER,CM,26-331,90,0,0,0,0,2,0,0,0,59,2,0,1,0.0,0.0,0.0,3,0,47,51,92.2,7,25,1,0,0,Freiburg,2023-11-04 Freiburg-Gladbach,GER-BL1,23-24,663aa0ea
+d01bbb6f,Ritsu Doan,42,JPN,RM,25-141,58,0,0,0,0,0,0,0,0,18,0,0,0,0.0,0.0,0.1,1,0,6,15,40.0,0,7,0,1,0,Freiburg,2023-11-04 Freiburg-Gladbach,GER-BL1,23-24,663aa0ea
+dd676a97,Noah Weißhaupt,7,GER,RM,22-045,32,1,0,0,0,2,1,0,0,29,0,0,1,0.3,0.3,0.0,1,1,14,19,73.7,1,27,2,6,0,Freiburg,2023-11-04 Freiburg-Gladbach,GER-BL1,23-24,663aa0ea
+2a29eb9b,Lukas Kübler,17,GER,LB,31-066,45,0,0,0,0,0,0,0,0,22,0,0,0,0.0,0.0,0.0,0,0,14,20,70.0,1,10,0,1,0,Freiburg,2023-11-04 Freiburg-Gladbach,GER-BL1,23-24,663aa0ea
+14b09c41,Jordy Makengo,33,FRA,LB,22-093,45,0,0,0,0,0,0,0,0,41,0,0,1,0.0,0.0,0.1,1,0,33,36,91.7,5,21,1,2,0,Freiburg,2023-11-04 Freiburg-Gladbach,GER-BL1,23-24,663aa0ea
+302527b2,Philipp Lienhart,3,AUT,CB,27-116,90,0,0,0,0,1,0,1,0,126,3,1,1,0.1,0.1,0.6,3,0,99,116,85.3,11,80,4,1,0,Freiburg,2023-11-04 Freiburg-Gladbach,GER-BL1,23-24,663aa0ea
+f521b80a,Matthias Ginter,28,GER,CB,29-289,90,0,0,0,0,0,0,1,0,117,1,0,3,0.0,0.0,0.1,2,0,101,111,91.0,13,79,4,1,1,Freiburg,2023-11-04 Freiburg-Gladbach,GER-BL1,23-24,663aa0ea
+313254a3,Kiliann Sildillia,25,FRA,RB,21-172,90,0,0,0,0,0,0,0,0,89,1,1,0,0.0,0.0,0.1,3,1,60,80,75.0,5,47,4,4,0,Freiburg,2023-11-04 Freiburg-Gladbach,GER-BL1,23-24,663aa0ea
+dbd1b101,Noah Atubolu,1,GER,GK,21-163,90,0,0,0,0,0,0,0,0,27,0,0,0,0.0,0.0,0.0,0,0,21,24,87.5,0,15,0,0,0,Freiburg,2023-11-04 Freiburg-Gladbach,GER-BL1,23-24,663aa0ea
+b684a484,Jordan Pefok,13,USA,FW,27-192,43,1,0,0,0,2,1,0,0,14,0,0,1,0.4,0.4,0.1,3,1,8,8,100.0,0,9,1,1,1,Mönchengladbach,2023-11-04 Freiburg-Gladbach,GER-BL1,23-24,663aa0ea
+0174ba21,Robin Hack,25,GER,"FW,LM",25-069,47,0,0,0,0,1,1,0,0,25,1,1,0,0.0,0.0,0.0,0,0,10,17,58.8,1,15,1,0,0,Mönchengladbach,2023-11-04 Freiburg-Gladbach,GER-BL1,23-24,663aa0ea
+bc6bd723,Alassane Pléa,14,FRA,FW,30-239,70,1,0,0,0,5,2,0,0,27,1,0,0,1.0,1.0,0.0,2,1,18,19,94.7,4,22,3,2,2,Mönchengladbach,2023-11-04 Freiburg-Gladbach,GER-BL1,23-24,663aa0ea
+298c8aa1,Tomáš Čvančara,31,CZE,FW,23-083,20,0,0,0,0,0,0,0,0,12,0,0,0,0.0,0.0,0.0,0,0,6,7,85.7,0,5,0,1,0,Mönchengladbach,2023-11-04 Freiburg-Gladbach,GER-BL1,23-24,663aa0ea
+e110ea4b,Nathan N'Goumou,19,FRA,LM,23-235,70,0,0,0,0,1,0,0,0,25,3,0,1,0.0,0.0,0.0,2,0,14,17,82.4,2,17,0,2,1,Mönchengladbach,2023-11-04 Freiburg-Gladbach,GER-BL1,23-24,663aa0ea
+b77f44a4,Marvin Friedrich,5,GER,"LM,CB",27-326,20,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,3,4,75.0,0,4,0,0,0,Mönchengladbach,2023-11-04 Freiburg-Gladbach,GER-BL1,23-24,663aa0ea
+346d51d9,Julian Weigl,8,GER,CM,28-057,90,1,1,1,1,0,0,1,0,44,3,1,1,0.8,0.0,0.8,4,2,29,36,80.6,1,24,0,1,1,Mönchengladbach,2023-11-04 Freiburg-Gladbach,GER-BL1,23-24,663aa0ea
+cc971106,Rocco Reitz,27,GER,"CM,RM",21-159,90,0,0,0,0,0,0,0,0,59,3,2,1,0.0,0.0,0.1,3,0,31,46,67.4,5,34,2,2,1,Mönchengladbach,2023-11-04 Freiburg-Gladbach,GER-BL1,23-24,663aa0ea
+db7849ca,Franck Honorat,9,FRA,RM,27-085,80,0,0,0,0,0,0,0,0,37,2,0,0,0.0,0.0,0.0,1,0,21,33,63.6,3,23,4,0,0,Mönchengladbach,2023-11-04 Freiburg-Gladbach,GER-BL1,23-24,663aa0ea
+496aeede,Christoph Kramer,23,GER,"CM,RM",32-258,10,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,1,0,0,0,Mönchengladbach,2023-11-04 Freiburg-Gladbach,GER-BL1,23-24,663aa0ea
+e79269bd,Luca Netz,20,GER,LB,20-173,79,0,1,0,0,0,0,1,0,54,5,0,1,0.0,0.0,0.3,3,1,29,42,69.0,1,24,0,0,0,Mönchengladbach,2023-11-04 Freiburg-Gladbach,GER-BL1,23-24,663aa0ea
+48780156,Fabio Chiarodia,2,ITA,LB,18-152,11,0,0,0,0,0,0,0,0,8,2,0,1,0.0,0.0,0.0,0,0,0,3,0.0,0,0,0,0,0,Mönchengladbach,2023-11-04 Freiburg-Gladbach,GER-BL1,23-24,663aa0ea
+4b803b3c,Maximilian Wöber,39,AUT,CB,25-273,90,0,0,0,0,0,0,0,0,92,2,0,2,0.0,0.0,0.0,1,1,65,79,82.3,4,60,1,0,0,Mönchengladbach,2023-11-04 Freiburg-Gladbach,GER-BL1,23-24,663aa0ea
+48035304,Nico Elvedi,30,SUI,CB,27-035,90,0,0,0,0,0,0,0,0,74,0,0,1,0.0,0.0,0.1,1,0,51,57,89.5,1,41,0,0,0,Mönchengladbach,2023-11-04 Freiburg-Gladbach,GER-BL1,23-24,663aa0ea
+236f02cd,Joe Scally,29,USA,RB,20-308,90,0,0,0,0,0,0,0,0,53,2,0,1,0.0,0.0,0.0,0,0,32,41,78.0,0,18,0,0,0,Mönchengladbach,2023-11-04 Freiburg-Gladbach,GER-BL1,23-24,663aa0ea
+226ddf9d,Moritz Nicolas,33,GER,GK,26-014,90,0,0,0,0,0,0,0,0,50,0,0,0,0.0,0.0,0.0,0,0,38,48,79.2,0,36,0,0,0,Mönchengladbach,2023-11-04 Freiburg-Gladbach,GER-BL1,23-24,663aa0ea

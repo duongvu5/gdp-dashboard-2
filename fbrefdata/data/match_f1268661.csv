@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+b146275b,Victor Boniface,22,NGA,FW,22-289,80,1,0,0,0,6,3,0,0,36,0,0,1,1.6,1.6,0.2,5,0,12,17,70.6,3,21,4,10,5,Bayer Leverkusen,2023-10-08 Leverkusen-Köln,GER-BL1,23-24,f1268661
+5521f419,Adam Hložek,23,CZE,FW,21-075,10,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,1,0,1,2,50.0,0,1,0,0,0,Bayer Leverkusen,2023-10-08 Leverkusen-Köln,GER-BL1,23-24,f1268661
+e7fcf289,Florian Wirtz,10,GER,AM,20-158,70,0,1,0,0,5,3,0,0,65,1,0,0,0.2,0.2,0.3,3,1,42,50,84.0,2,29,6,4,2,Bayer Leverkusen,2023-10-08 Leverkusen-Köln,GER-BL1,23-24,f1268661
+dcfb17f4,Amine Adli,21,MAR,AM,23-151,20,0,0,0,0,1,0,0,0,16,1,0,2,0.0,0.0,0.0,2,0,6,9,66.7,0,9,3,0,0,Bayer Leverkusen,2023-10-08 Leverkusen-Köln,GER-BL1,23-24,f1268661
+2903a856,Jonas Hofmann,7,GER,AM,31-086,87,1,1,0,0,2,1,0,0,59,0,0,0,0.2,0.2,1.5,10,1,46,55,83.6,5,23,0,1,1,Bayer Leverkusen,2023-10-08 Leverkusen-Köln,GER-BL1,23-24,f1268661
+2c08cab0,Gustavo Puerta,32,COL,AM,20-077,3,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,1,0,0,0,Bayer Leverkusen,2023-10-08 Leverkusen-Köln,GER-BL1,23-24,f1268661
+e61b8aee,Granit Xhaka,34,SUI,CM,31-011,90,0,0,0,0,2,0,0,0,117,0,0,4,0.2,0.2,0.1,4,0,100,108,92.6,9,69,2,0,0,Bayer Leverkusen,2023-10-08 Leverkusen-Köln,GER-BL1,23-24,f1268661
+e82adcab,Exequiel Palacios,25,ARG,CM,25-003,90,0,0,0,0,0,0,0,0,124,1,3,2,0.0,0.0,0.5,2,0,113,117,96.6,6,59,1,0,0,Bayer Leverkusen,2023-10-08 Leverkusen-Köln,GER-BL1,23-24,f1268661
+b1f4086c,Álex Grimaldo,20,ESP,WB,28-018,90,0,1,0,0,2,1,0,0,104,0,2,3,0.1,0.1,0.3,7,3,80,92,87.0,9,51,2,1,1,Bayer Leverkusen,2023-10-08 Leverkusen-Köln,GER-BL1,23-24,f1268661
+74f2e748,Jeremie Frimpong,30,NED,WB,22-302,80,1,0,0,0,3,2,1,0,39,1,0,3,0.5,0.5,0.1,3,1,19,24,79.2,3,21,5,2,1,Bayer Leverkusen,2023-10-08 Leverkusen-Köln,GER-BL1,23-24,f1268661
+f1e94cd6,Nathan Tella,19,NGA,WB,24-095,10,0,0,0,0,1,0,0,0,6,0,0,0,0.0,0.0,0.0,1,0,3,4,75.0,0,5,1,2,1,Bayer Leverkusen,2023-10-08 Leverkusen-Köln,GER-BL1,23-24,f1268661
+a73c8f95,Edmond Tapsoba,12,BFA,CB,24-248,70,0,0,0,0,0,0,1,0,77,2,0,0,0.0,0.0,0.0,2,0,73,74,98.6,5,52,1,2,1,Bayer Leverkusen,2023-10-08 Leverkusen-Köln,GER-BL1,23-24,f1268661
+0c7a48f8,Piero Hincapié,3,ECU,CB,21-272,20,0,0,0,0,0,0,0,0,26,0,0,0,0.0,0.0,0.0,0,0,24,24,100.0,1,14,0,0,0,Bayer Leverkusen,2023-10-08 Leverkusen-Köln,GER-BL1,23-24,f1268661
+bd142efb,Jonathan Tah,4,GER,CB,27-239,90,0,0,0,0,1,0,1,0,92,0,0,1,0.4,0.4,0.0,0,0,84,86,97.7,2,67,1,1,1,Bayer Leverkusen,2023-10-08 Leverkusen-Köln,GER-BL1,23-24,f1268661
+1f3afdcb,Odilon Kossonou,6,CIV,CB,22-277,90,0,0,0,0,0,0,0,0,91,1,2,1,0.0,0.0,0.0,1,0,73,82,89.0,8,47,2,0,0,Bayer Leverkusen,2023-10-08 Leverkusen-Köln,GER-BL1,23-24,f1268661
+ad3389d5,Lukáš Hrádecký,1,FIN,GK,33-318,90,0,0,0,0,0,0,0,0,30,0,0,0,0.0,0.0,0.0,0,0,28,29,96.6,0,12,0,0,0,Bayer Leverkusen,2023-10-08 Leverkusen-Köln,GER-BL1,23-24,f1268661
+1238a3f9,Davie Selke,27,GER,FW,28-261,89,0,0,0,0,1,0,0,0,12,0,0,1,0.1,0.1,0.0,1,0,6,9,66.7,1,4,0,0,0,Köln,2023-10-08 Leverkusen-Köln,GER-BL1,23-24,f1268661
+640134d6,Damion Downs,42,USA,FW,19-094,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Köln,2023-10-08 Leverkusen-Köln,GER-BL1,23-24,f1268661
+00f518d8,Faride Alidou,40,GER,FW,22-082,61,0,0,0,0,0,0,0,0,20,2,0,1,0.0,0.0,0.0,0,0,9,10,90.0,1,10,0,1,0,Köln,2023-10-08 Leverkusen-Köln,GER-BL1,23-24,f1268661
+7ebd0896,Max Finkgräfe,35,GER,LW,19-195,29,0,0,0,0,1,1,0,0,10,0,0,0,0.2,0.2,0.0,0,0,5,7,71.4,0,7,0,0,0,Köln,2023-10-08 Leverkusen-Köln,GER-BL1,23-24,f1268661
+94c18565,Florian Kainz,11,AUT,"LM,RW",30-349,90,0,0,0,0,0,0,0,0,38,2,0,1,0.0,0.0,0.1,1,0,22,33,66.7,3,23,0,3,3,Köln,2023-10-08 Leverkusen-Köln,GER-BL1,23-24,f1268661
+c455a2b2,Dejan Ljubicic,7,AUT,"CM,DM,AM",26-000,90,0,0,0,0,1,0,0,0,50,1,0,1,0.0,0.0,0.2,1,0,34,45,75.6,3,30,1,2,0,Köln,2023-10-08 Leverkusen-Köln,GER-BL1,23-24,f1268661
+b116c6e3,Denis Huseinbasic,8,BIH,"RM,DM",22-097,74,0,0,0,0,0,0,0,0,47,3,0,2,0.0,0.0,0.0,0,0,33,36,91.7,3,30,0,0,0,Köln,2023-10-08 Leverkusen-Köln,GER-BL1,23-24,f1268661
+86adbcc7,Mathias Olesen,47,LUX,DM,22-201,16,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,1,0,6,8,75.0,0,5,0,0,0,Köln,2023-10-08 Leverkusen-Köln,GER-BL1,23-24,f1268661
+92a16062,Eric Martel,6,GER,DM,21-162,74,0,0,0,0,2,2,0,0,31,1,0,2,0.9,0.9,0.0,1,0,23,24,95.8,1,16,0,0,0,Köln,2023-10-08 Leverkusen-Köln,GER-BL1,23-24,f1268661
+6b8887c2,Steffen Tigges,21,GER,AM,25-069,16,0,0,0,0,0,0,0,0,8,0,0,1,0.0,0.0,0.0,1,0,5,6,83.3,1,6,0,1,1,Köln,2023-10-08 Leverkusen-Köln,GER-BL1,23-24,f1268661
+82bfc14d,Leart Paqarada,17,KVX,LB,29-000,90,0,0,0,0,0,0,0,0,65,1,2,1,0.0,0.0,0.4,5,0,40,55,72.7,4,31,1,2,2,Köln,2023-10-08 Leverkusen-Köln,GER-BL1,23-24,f1268661
+ae7058f9,Julian Chabot,24,GER,CB,25-238,90,0,0,0,0,2,0,0,0,71,1,0,2,0.2,0.2,0.0,0,0,50,57,87.7,1,34,0,0,0,Köln,2023-10-08 Leverkusen-Köln,GER-BL1,23-24,f1268661
+94302c52,Timo Hübers,4,GER,CB,27-080,90,0,0,0,0,0,0,0,0,75,2,3,5,0.0,0.0,0.0,0,0,49,58,84.5,2,42,0,0,0,Köln,2023-10-08 Leverkusen-Köln,GER-BL1,23-24,f1268661
+64d7f629,Rasmus Carstensen,18,DEN,RB,22-362,89,0,0,0,0,0,0,0,0,57,3,1,0,0.0,0.0,0.0,1,0,32,46,69.6,2,31,1,1,1,Köln,2023-10-08 Leverkusen-Köln,GER-BL1,23-24,f1268661
+610aa1e9,Luca Kilian,15,GER,RB,24-037,1,0,0,0,0,0,0,0,0,2,0,0,1,0.0,0.0,0.0,0,0,0,1,0.0,0,1,0,0,0,Köln,2023-10-08 Leverkusen-Köln,GER-BL1,23-24,f1268661
+87436846,Marvin Schwäbe,1,GER,GK,28-166,90,0,0,0,0,0,0,0,0,54,0,0,0,0.0,0.0,0.0,0,0,39,47,83.0,0,29,0,0,0,Köln,2023-10-08 Leverkusen-Köln,GER-BL1,23-24,f1268661

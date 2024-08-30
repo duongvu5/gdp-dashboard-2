@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+6f8cd6d0,Marcus Thuram,10,FRA,FW,25-246,90,1,1,0,0,4,2,0,0,45,0,1,0,1.2,1.2,0.2,3,1,21,30,70.0,1,40,6,4,1,Mönchengladbach,2023-04-09 Gladbach-Wolfsburg,GER-BL1,22-23,5a8c9445
+bc6bd723,Alassane Pléa,14,FRA,LW,30-030,89,0,1,0,0,1,1,0,0,46,1,0,1,0.0,0.0,0.9,2,1,30,39,76.9,4,30,1,2,1,Mönchengladbach,2023-04-09 Gladbach-Wolfsburg,GER-BL1,22-23,5a8c9445
+e79269bd,Luca Netz,20,GER,LW,19-329,1,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,0,0,Mönchengladbach,2023-04-09 Gladbach-Wolfsburg,GER-BL1,22-23,5a8c9445
+e110ea4b,Nathan N'Goumou,19,FRA,RW,23-026,68,1,0,0,0,3,1,0,0,32,2,0,1,0.1,0.1,0.0,2,1,13,19,68.4,3,22,2,5,1,Mönchengladbach,2023-04-09 Gladbach-Wolfsburg,GER-BL1,22-23,5a8c9445
+be42a291,Hannes Wolf,11,AUT,RW,23-358,22,0,0,0,0,0,0,0,0,12,1,0,0,0.0,0.0,0.0,0,0,7,8,87.5,1,9,1,2,0,Mönchengladbach,2023-04-09 Gladbach-Wolfsburg,GER-BL1,22-23,5a8c9445
+7cd6badb,Lars Stindl,13,GER,AM,34-226,68,0,0,0,0,1,0,0,0,43,1,1,0,0.0,0.0,0.2,4,0,30,36,83.3,4,25,0,1,0,Mönchengladbach,2023-04-09 Gladbach-Wolfsburg,GER-BL1,22-23,5a8c9445
+2903a856,Jonas Hofmann,23,GER,AM,30-269,22,0,0,0,0,0,0,0,0,18,0,0,0,0.0,0.0,0.0,1,0,16,18,88.9,5,12,0,1,1,Mönchengladbach,2023-04-09 Gladbach-Wolfsburg,GER-BL1,22-23,5a8c9445
+36a59ba4,Florian Neuhaus,32,GER,DM,26-024,89,0,0,0,0,1,0,0,0,56,4,0,1,0.1,0.1,0.0,6,1,29,41,70.7,3,33,0,2,0,Mönchengladbach,2023-04-09 Gladbach-Wolfsburg,GER-BL1,22-23,5a8c9445
+b77f44a4,Marvin Friedrich,5,GER,CB,27-117,1,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,0,0,0,0,Mönchengladbach,2023-04-09 Gladbach-Wolfsburg,GER-BL1,22-23,5a8c9445
+496aeede,Christoph Kramer,6,GER,DM,32-049,90,0,0,0,0,1,1,0,0,40,1,2,1,0.0,0.0,0.3,3,0,27,33,81.8,2,25,1,2,1,Mönchengladbach,2023-04-09 Gladbach-Wolfsburg,GER-BL1,22-23,5a8c9445
+378825c7,Ramy Bensebaini,25,ALG,LB,27-358,90,0,0,0,0,1,0,0,0,62,0,0,3,0.1,0.1,0.0,0,0,36,46,78.3,1,31,1,1,0,Mönchengladbach,2023-04-09 Gladbach-Wolfsburg,GER-BL1,22-23,5a8c9445
+48035304,Nico Elvedi,30,SUI,CB,26-191,90,0,0,0,0,0,0,0,0,55,2,2,2,0.0,0.0,0.0,0,0,35,40,87.5,3,23,0,0,0,Mönchengladbach,2023-04-09 Gladbach-Wolfsburg,GER-BL1,22-23,5a8c9445
+97d545ae,Ko Itakura,3,JPN,CB,26-072,90,0,0,0,0,0,0,0,0,53,2,1,2,0.0,0.0,0.0,0,0,26,37,70.3,0,29,1,2,2,Mönchengladbach,2023-04-09 Gladbach-Wolfsburg,GER-BL1,22-23,5a8c9445
+236f02cd,Joe Scally,29,USA,RB,20-099,75,0,0,0,0,0,0,0,0,39,1,0,0,0.0,0.0,0.0,2,0,21,32,65.6,0,15,1,1,0,Mönchengladbach,2023-04-09 Gladbach-Wolfsburg,GER-BL1,22-23,5a8c9445
+4aea5077,Stefan Lainer,18,AUT,RB,30-225,15,0,0,0,0,1,1,0,0,13,1,0,0,0.0,0.0,0.0,0,0,8,9,88.9,1,4,0,0,0,Mönchengladbach,2023-04-09 Gladbach-Wolfsburg,GER-BL1,22-23,5a8c9445
+c631f952,Jonas Omlin,1,SUI,GK,29-089,90,0,0,0,0,0,0,0,0,43,1,0,0,0.0,0.0,0.0,0,0,30,42,71.4,0,28,0,0,0,Mönchengladbach,2023-04-09 Gladbach-Wolfsburg,GER-BL1,22-23,5a8c9445
+0e0102eb,Omar Marmoush,33,EGY,FW,24-061,70,0,0,0,0,1,1,0,0,25,0,0,3,0.6,0.6,0.0,1,0,10,14,71.4,2,13,0,3,1,Wolfsburg,2023-04-09 Gladbach-Wolfsburg,GER-BL1,22-23,5a8c9445
+2077ae86,Jonas Wind,23,DEN,FW,24-061,20,0,0,0,0,1,0,0,0,5,0,0,0,0.1,0.1,0.0,0,0,1,4,25.0,0,3,0,0,0,Wolfsburg,2023-04-09 Gladbach-Wolfsburg,GER-BL1,22-23,5a8c9445
+202b3b68,Jakub Kamiński,16,POL,LW,20-308,90,0,0,0,0,1,0,0,0,64,3,0,2,0.0,0.0,0.5,6,0,41,53,77.4,4,37,4,3,0,Wolfsburg,2023-04-09 Gladbach-Wolfsburg,GER-BL1,22-23,5a8c9445
+92d83c27,Mattias Svanberg,32,SWE,RW,24-094,90,0,0,0,0,2,1,0,0,51,2,1,1,0.6,0.6,0.7,3,0,26,36,72.2,4,27,2,2,0,Wolfsburg,2023-04-09 Gladbach-Wolfsburg,GER-BL1,22-23,5a8c9445
+62ab9184,Yannick Gerhardt,31,GER,LM,29-027,58,0,0,0,0,0,0,0,0,26,1,0,2,0.0,0.0,0.0,1,0,18,21,85.7,2,13,0,1,0,Wolfsburg,2023-04-09 Gladbach-Wolfsburg,GER-BL1,22-23,5a8c9445
+e5a35ae9,Luca Waldschmidt,7,GER,LM,26-325,32,0,0,0,0,0,0,0,0,14,0,1,0,0.0,0.0,0.0,1,0,8,10,80.0,2,7,0,0,0,Wolfsburg,2023-04-09 Gladbach-Wolfsburg,GER-BL1,22-23,5a8c9445
+86e119e0,Maximilian Arnold,27,GER,CM,28-317,58,0,0,0,0,0,0,0,0,46,1,1,1,0.0,0.0,0.0,0,0,27,40,67.5,4,19,2,0,0,Wolfsburg,2023-04-09 Gladbach-Wolfsburg,GER-BL1,22-23,5a8c9445
+5c50fdbc,Kevin Paredes,40,USA,CM,19-337,32,0,0,0,0,0,0,0,0,19,0,0,2,0.0,0.0,0.1,1,0,11,16,68.8,2,13,1,1,1,Wolfsburg,2023-04-09 Gladbach-Wolfsburg,GER-BL1,22-23,5a8c9445
+091c86e2,Felix Nmecha,22,GER,RM,22-181,90,0,0,0,0,2,0,0,0,54,2,1,3,0.1,0.1,0.0,0,0,31,40,77.5,7,27,1,5,3,Wolfsburg,2023-04-09 Gladbach-Wolfsburg,GER-BL1,22-23,5a8c9445
+1cbe4984,Paulo Otávio,6,BRA,LB,28-137,90,0,0,0,0,1,0,0,0,82,7,1,3,0.0,0.0,0.0,1,0,50,63,79.4,6,33,3,5,1,Wolfsburg,2023-04-09 Gladbach-Wolfsburg,GER-BL1,22-23,5a8c9445
+8fe2a392,Micky van de Ven,5,NED,CB,21-355,90,0,0,0,0,0,0,0,0,92,2,0,1,0.0,0.0,0.0,1,0,75,85,88.2,11,58,4,0,0,Wolfsburg,2023-04-09 Gladbach-Wolfsburg,GER-BL1,22-23,5a8c9445
+277c49ed,Maxence Lacroix,4,FRA,CB,23-003,90,0,0,0,0,0,0,1,0,67,0,0,0,0.0,0.0,0.0,1,0,51,58,87.9,7,36,2,2,1,Wolfsburg,2023-04-09 Gladbach-Wolfsburg,GER-BL1,22-23,5a8c9445
+79f7302a,Kilian Fischer,2,GER,RB,22-179,80,0,0,0,0,2,0,0,0,49,2,0,1,0.1,0.1,0.1,2,0,35,41,85.4,3,20,3,1,1,Wolfsburg,2023-04-09 Gladbach-Wolfsburg,GER-BL1,22-23,5a8c9445
+e6c43eec,Josuha Guilavogui,29,FRA,RB,32-202,10,0,0,0,0,0,0,0,0,13,1,1,0,0.0,0.0,0.0,0,0,7,11,63.6,1,7,0,0,0,Wolfsburg,2023-04-09 Gladbach-Wolfsburg,GER-BL1,22-23,5a8c9445
+db401046,Koen Casteels,1,BEL,GK,30-288,90,0,0,0,0,0,0,0,0,51,0,0,0,0.0,0.0,0.0,0,0,43,51,84.3,0,29,0,0,0,Wolfsburg,2023-04-09 Gladbach-Wolfsburg,GER-BL1,22-23,5a8c9445

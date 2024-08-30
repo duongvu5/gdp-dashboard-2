@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+c693347d,Andreas Cornelius,11,DEN,FW,28-054,75,0,0,0,0,1,0,0,0,34,0,0,0,0.0,0.0,0.1,1,0,17,28,60.7,1,25,0,1,0,Parma,2021-05-09 Parma-Atalanta,ITA-SERIA_A,20-21,363c8411
+d60099bc,Juan Brunetta,32,ARG,FW,23-362,15,1,0,0,0,1,1,0,0,14,0,0,1,0.3,0.3,0.0,0,0,9,10,90.0,0,9,1,2,1,Parma,2021-05-09 Parma-Atalanta,ITA-SERIA_A,20-21,363c8411
+e468c053,Gervinho,27,CIV,FW,33-347,60,0,0,0,0,0,0,0,0,14,1,0,0,0.0,0.0,0.0,0,0,9,10,90.0,0,8,4,3,2,Parma,2021-05-09 Parma-Atalanta,ITA-SERIA_A,20-21,363c8411
+9654d8de,Graziano Pellè,9,ITA,FW,35-298,30,0,1,0,0,0,0,0,0,22,0,0,0,0.0,0.0,0.4,2,1,18,19,94.7,2,12,0,1,1,Parma,2021-05-09 Parma-Atalanta,ITA-SERIA_A,20-21,363c8411
+5aaef9ef,Juraj Kucka,33,SVK,"LM,CM",34-072,75,0,0,0,0,1,0,0,0,30,4,1,0,0.1,0.1,0.0,0,0,14,20,70.0,2,15,2,2,0,Parma,2021-05-09 Parma-Atalanta,ITA-SERIA_A,20-21,363c8411
+543d9d2b,Drissa Camara,37,CIV,CM,19-080,15,0,0,0,0,0,0,0,0,12,0,0,0,0.0,0.0,0.0,0,0,7,9,77.8,0,8,0,2,1,Parma,2021-05-09 Parma-Atalanta,ITA-SERIA_A,20-21,363c8411
+a5f458d9,Simon Sohm,19,SUI,CM,20-028,90,1,0,0,0,1,1,0,0,40,1,0,0,0.4,0.4,0.0,1,1,34,36,94.4,1,24,0,1,1,Parma,2021-05-09 Parma-Atalanta,ITA-SERIA_A,20-21,363c8411
+6cc97b6a,Alberto Grassi,8,ITA,RM,26-063,60,0,0,0,0,1,0,1,0,29,0,0,1,0.1,0.1,0.0,0,0,18,24,75.0,0,16,1,0,0,Parma,2021-05-09 Parma-Atalanta,ITA-SERIA_A,20-21,363c8411
+55db5c36,Lautaro Valenti,30,ARG,CB,22-115,30,0,0,0,0,0,0,0,0,20,0,2,0,0.0,0.0,0.0,0,0,9,16,56.3,1,13,1,0,0,Parma,2021-05-09 Parma-Atalanta,ITA-SERIA_A,20-21,363c8411
+144607cc,Jasmin Kurtić,14,SVN,"DM,CM",32-119,90,0,0,0,0,1,0,0,0,79,3,3,1,0.0,0.0,0.0,3,0,60,69,87.0,2,46,0,0,0,Parma,2021-05-09 Parma-Atalanta,ITA-SERIA_A,20-21,363c8411
+173061c0,Riccardo Gagliolo,7,SWE,"LB,WB",31-011,79,0,0,0,0,0,0,0,0,54,3,3,2,0.0,0.0,0.0,2,0,29,40,72.5,1,30,0,1,0,Parma,2021-05-09 Parma-Atalanta,ITA-SERIA_A,20-21,363c8411
+8fef5412,Andrea Conti,5,ITA,WB,27-068,11,0,0,0,0,0,0,0,0,8,0,1,0,0.0,0.0,0.0,0,0,7,7,100.0,0,5,0,0,0,Parma,2021-05-09 Parma-Atalanta,ITA-SERIA_A,20-21,363c8411
+585a73a8,Bruno Alves,22,POR,CB,39-163,90,0,0,0,0,1,0,0,0,46,0,0,1,0.0,0.0,0.0,0,0,38,42,90.5,4,32,0,0,0,Parma,2021-05-09 Parma-Atalanta,ITA-SERIA_A,20-21,363c8411
+4d17df3e,Yordan Osorio,24,VEN,CB,26-364,90,0,0,0,0,0,0,0,0,60,3,3,1,0.0,0.0,0.0,0,0,51,52,98.1,1,36,1,1,1,Parma,2021-05-09 Parma-Atalanta,ITA-SERIA_A,20-21,363c8411
+7b082ec2,Maxime Busi,42,BEL,"RB,WB",21-207,90,0,1,0,0,0,0,0,0,75,3,2,2,0.0,0.0,0.3,2,2,42,60,70.0,2,44,2,7,3,Parma,2021-05-09 Parma-Atalanta,ITA-SERIA_A,20-21,363c8411
+343f753a,Luigi Sepe,1,ITA,GK,30-001,90,0,0,0,0,0,0,0,0,55,0,0,0,0.0,0.0,0.0,0,0,34,49,69.4,0,30,0,0,0,Parma,2021-05-09 Parma-Atalanta,ITA-SERIA_A,20-21,363c8411
+d3de9af0,Duván Zapata,91,COL,FW,30-038,45,0,0,0,0,2,0,0,0,24,1,0,0,0.2,0.2,0.0,1,0,15,21,71.4,0,20,2,0,0,Atalanta,2021-05-09 Parma-Atalanta,ITA-SERIA_A,20-21,363c8411
+eb2fe5b6,Luis Muriel,9,COL,FW,30-023,45,2,1,0,0,3,2,0,0,27,0,0,1,1.2,1.2,0.5,5,1,17,22,77.3,2,14,3,1,0,Atalanta,2021-05-09 Parma-Atalanta,ITA-SERIA_A,20-21,363c8411
+48d5bd33,Ruslan Malinovskyi,18,UKR,AM,28-005,57,1,0,0,0,2,1,0,0,40,1,0,1,0.1,0.1,0.1,1,0,22,32,68.8,4,33,1,0,0,Atalanta,2021-05-09 Parma-Atalanta,ITA-SERIA_A,20-21,363c8411
+a9aa0d1d,Aleksei Miranchuk,59,RUS,AM,25-204,33,1,0,0,0,1,1,0,0,24,0,0,0,0.1,0.1,0.6,4,1,15,21,71.4,6,21,1,0,0,Atalanta,2021-05-09 Parma-Atalanta,ITA-SERIA_A,20-21,363c8411
+68252d6d,Josip Iličić,72,SVN,AM,33-100,45,0,1,0,0,0,0,0,0,49,0,0,0,0.0,0.0,0.5,4,1,37,46,80.4,8,42,4,3,2,Atalanta,2021-05-09 Parma-Atalanta,ITA-SERIA_A,20-21,363c8411
+780e3631,Matteo Pessina,32,ITA,"AM,CM",24-018,45,1,0,0,0,2,2,0,0,34,1,0,0,0.1,0.1,0.1,2,1,26,28,92.9,3,22,2,1,0,Atalanta,2021-05-09 Parma-Atalanta,ITA-SERIA_A,20-21,363c8411
+98d2c2c4,Remo Freuler,11,SUI,CM,29-024,75,0,0,0,0,1,1,0,0,81,1,0,1,0.0,0.0,0.1,4,1,67,73,91.8,11,57,3,1,0,Atalanta,2021-05-09 Parma-Atalanta,ITA-SERIA_A,20-21,363c8411
+e599253a,Mario Pašalić,88,CRO,AM,26-089,15,0,1,0,0,2,2,0,0,11,0,0,0,0.5,0.5,0.4,6,2,6,8,75.0,2,11,3,1,1,Atalanta,2021-05-09 Parma-Atalanta,ITA-SERIA_A,20-21,363c8411
+2a1beb34,Marten de Roon,15,NED,CM,30-041,90,0,0,0,0,0,0,0,0,70,2,1,0,0.0,0.0,0.0,1,0,51,62,82.3,5,48,1,1,0,Atalanta,2021-05-09 Parma-Atalanta,ITA-SERIA_A,20-21,363c8411
+2d970560,Robin Gosens,8,GER,WB,26-308,67,0,0,0,0,2,1,0,0,57,1,0,2,0.5,0.5,0.0,0,0,48,53,90.6,6,36,0,0,0,Atalanta,2021-05-09 Parma-Atalanta,ITA-SERIA_A,20-21,363c8411
+3b333ac3,Hans Hateboer,33,NED,WB,27-120,23,0,0,0,0,0,0,1,0,12,1,1,1,0.0,0.0,0.0,0,0,7,10,70.0,1,5,0,0,0,Atalanta,2021-05-09 Parma-Atalanta,ITA-SERIA_A,20-21,363c8411
+c459a650,Joakim Mæhle,3,DEN,WB,23-354,90,0,0,0,0,2,2,0,0,62,2,1,2,0.6,0.6,0.0,2,0,44,53,83.0,6,41,3,2,2,Atalanta,2021-05-09 Parma-Atalanta,ITA-SERIA_A,20-21,363c8411
+921f6058,José Luis Palomino,6,ARG,CB,31-124,90,0,0,0,0,0,0,0,0,72,2,4,0,0.0,0.0,0.0,1,0,56,62,90.3,7,49,2,0,0,Atalanta,2021-05-09 Parma-Atalanta,ITA-SERIA_A,20-21,363c8411
+a3d94a58,Cristian Romero,17,ARG,CB,23-012,90,0,0,0,0,0,0,0,0,53,0,1,0,0.0,0.0,0.0,1,0,36,44,81.8,3,33,2,1,0,Atalanta,2021-05-09 Parma-Atalanta,ITA-SERIA_A,20-21,363c8411
+6eee05f1,Berat Djimsiti,19,ALB,CB,28-079,90,0,0,0,0,1,0,0,0,78,1,1,2,0.1,0.1,0.0,1,1,66,68,97.1,7,56,3,1,1,Atalanta,2021-05-09 Parma-Atalanta,ITA-SERIA_A,20-21,363c8411
+ac4003af,Marco Sportiello,57,ITA,GK,28-364,90,0,0,0,0,0,0,0,0,18,0,1,0,0.0,0.0,0.0,0,0,16,17,94.1,0,11,0,0,0,Atalanta,2021-05-09 Parma-Atalanta,ITA-SERIA_A,20-21,363c8411

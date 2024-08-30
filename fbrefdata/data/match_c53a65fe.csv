@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+ca618d23,Lucas Höler,9,GER,FW,27-078,70,1,0,0,0,2,1,0,0,36,1,0,2,0.8,0.8,0.2,5,1,12,26,46.2,3,20,3,2,2,Freiburg,2021-09-26 Freiburg-Augsburg,GER-BL1,21-22,c53a65fe
+ed79b7d3,Ermedin Demirović,11,BIH,FW,23-185,20,0,0,0,0,2,1,0,0,7,2,0,0,0.1,0.1,0.0,0,0,1,1,100.0,0,3,0,0,0,Freiburg,2021-09-26 Freiburg-Augsburg,GER-BL1,21-22,c53a65fe
+54e4866f,Vincenzo Grifo,32,ITA,"LW,LM",28-172,90,1,0,1,1,3,0,0,0,73,1,1,1,1.1,0.3,0.0,5,1,45,59,76.3,6,47,3,4,1,Freiburg,2021-09-26 Freiburg-Augsburg,GER-BL1,21-22,c53a65fe
+6190474d,Jeong Woo-yeong,29,KOR,RW,22-006,70,0,0,0,0,1,0,0,0,33,0,0,0,0.1,0.1,0.0,0,0,23,30,76.7,4,23,3,0,0,Freiburg,2021-09-26 Freiburg-Augsburg,GER-BL1,21-22,c53a65fe
+f93e6e94,Nils Petersen,18,GER,FW,32-294,20,0,0,0,0,2,0,0,0,10,0,0,0,0.2,0.2,0.0,1,0,4,5,80.0,0,4,0,0,0,Freiburg,2021-09-26 Freiburg-Augsburg,GER-BL1,21-22,c53a65fe
+8593f88c,Christian Günter,30,GER,"LM,LB",28-210,90,0,0,0,0,2,1,0,0,55,0,2,1,0.1,0.1,0.2,6,1,37,50,74.0,7,33,1,1,1,Freiburg,2021-09-26 Freiburg-Augsburg,GER-BL1,21-22,c53a65fe
+5d8e331f,Nicolas Höfler,27,GER,CM,31-201,60,0,0,0,0,2,2,0,0,46,1,0,2,0.1,0.1,0.2,1,0,35,37,94.6,5,30,1,1,1,Freiburg,2021-09-26 Freiburg-Augsburg,GER-BL1,21-22,c53a65fe
+d2c580ce,Yannik Keitel,14,GER,CM,21-223,30,0,0,0,0,0,0,0,0,14,0,0,0,0.0,0.0,0.0,1,0,12,13,92.3,0,7,0,0,0,Freiburg,2021-09-26 Freiburg-Augsburg,GER-BL1,21-22,c53a65fe
+beb882a8,Maximilian Eggestein,8,GER,CM,24-292,85,0,1,0,0,1,0,0,0,38,2,0,2,0.1,0.1,0.6,2,1,21,31,67.7,3,24,3,2,2,Freiburg,2021-09-26 Freiburg-Augsburg,GER-BL1,21-22,c53a65fe
+70dcf94d,Janik Haberer,19,GER,CM,27-177,5,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,3,3,100.0,0,2,0,0,0,Freiburg,2021-09-26 Freiburg-Augsburg,GER-BL1,21-22,c53a65fe
+2a29eb9b,Lukas Kübler,17,GER,"RM,RB",29-027,90,1,0,0,0,1,1,0,0,54,5,1,0,0.6,0.6,0.0,2,0,37,45,82.2,5,30,1,2,2,Freiburg,2021-09-26 Freiburg-Augsburg,GER-BL1,21-22,c53a65fe
+34e12499,Nico Schlotterbeck,4,GER,CB,21-299,90,0,0,0,0,1,0,0,0,81,2,4,1,0.0,0.0,0.1,2,0,59,69,85.5,7,56,3,0,0,Freiburg,2021-09-26 Freiburg-Augsburg,GER-BL1,21-22,c53a65fe
+302527b2,Philipp Lienhart,3,AUT,CB,25-077,90,0,0,0,0,0,0,0,0,77,0,1,1,0.0,0.0,0.0,1,0,64,68,94.1,3,54,0,0,0,Freiburg,2021-09-26 Freiburg-Augsburg,GER-BL1,21-22,c53a65fe
+25ab9c9c,Manuel Gulde,5,GER,CB,30-226,70,0,0,0,0,0,0,0,0,38,0,0,0,0.0,0.0,0.0,0,0,32,37,86.5,4,28,1,0,0,Freiburg,2021-09-26 Freiburg-Augsburg,GER-BL1,21-22,c53a65fe
+bf075f6b,Roland Sallai,22,HUN,RM,24-127,20,0,0,0,0,0,0,0,0,8,0,0,1,0.0,0.0,0.1,1,0,5,7,71.4,1,6,1,1,0,Freiburg,2021-09-26 Freiburg-Augsburg,GER-BL1,21-22,c53a65fe
+a92ab7be,Mark Flekken,26,NED,GK,28-105,90,0,0,0,0,0,0,0,0,47,0,0,0,0.0,0.0,0.0,0,0,33,46,71.7,0,29,0,0,0,Freiburg,2021-09-26 Freiburg-Augsburg,GER-BL1,21-22,c53a65fe
+6ecbddf6,Ruben Vargas,16,SUI,"FW,AM",23-052,87,0,0,0,0,1,0,0,0,36,1,0,0,0.0,0.0,0.0,2,0,15,25,60.0,1,20,5,5,2,Augsburg,2021-09-26 Freiburg-Augsburg,GER-BL1,21-22,c53a65fe
+229cd98a,Sergio Córdova,9,VEN,FW,24-048,3,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Augsburg,2021-09-26 Freiburg-Augsburg,GER-BL1,21-22,c53a65fe
+d6862409,Florian Niederlechner,7,GER,FW,30-337,71,0,0,0,0,1,1,0,0,15,1,0,0,0.0,0.0,0.1,1,0,7,10,70.0,0,3,0,0,0,Augsburg,2021-09-26 Freiburg-Augsburg,GER-BL1,21-22,c53a65fe
+3eeb80e0,Fredrik Jensen,24,FIN,RM,24-017,19,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,1,4,25.0,0,1,0,0,0,Augsburg,2021-09-26 Freiburg-Augsburg,GER-BL1,21-22,c53a65fe
+d1273f09,Daniel Caligiuri,20,ITA,"CM,AM",33-254,90,0,0,0,0,2,1,0,0,42,2,0,0,0.1,0.1,0.0,2,0,21,25,84.0,5,28,1,3,1,Augsburg,2021-09-26 Freiburg-Augsburg,GER-BL1,21-22,c53a65fe
+7f73bdf4,Niklas Dorsch,30,GER,CM,23-254,71,0,0,0,0,1,0,0,0,34,1,0,2,0.0,0.0,0.0,0,0,21,28,75.0,1,12,0,0,0,Augsburg,2021-09-26 Freiburg-Augsburg,GER-BL1,21-22,c53a65fe
+ab700320,Arne Maier,10,GER,"LM,CM",22-261,19,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,0,0,4,7,57.1,0,4,0,0,0,Augsburg,2021-09-26 Freiburg-Augsburg,GER-BL1,21-22,c53a65fe
+cd82452e,André Hahn,28,GER,CM,31-044,45,0,0,0,0,1,0,0,0,9,0,0,0,0.0,0.0,0.0,1,0,2,5,40.0,0,4,0,0,0,Augsburg,2021-09-26 Freiburg-Augsburg,GER-BL1,21-22,c53a65fe
+d01231f0,Andi Zeqiri,21,SUI,"WB,FW,LM",22-096,45,0,0,0,0,1,0,0,0,12,0,0,0,0.1,0.1,0.0,0,0,3,6,50.0,0,6,0,0,0,Augsburg,2021-09-26 Freiburg-Augsburg,GER-BL1,21-22,c53a65fe
+582a5247,Mads Pedersen,3,DEN,"WB,LB",25-025,90,0,0,0,0,0,0,0,0,53,0,3,3,0.0,0.0,0.0,0,0,24,42,57.1,4,18,2,1,1,Augsburg,2021-09-26 Freiburg-Augsburg,GER-BL1,21-22,c53a65fe
+626fab5f,Raphael Framberger,32,GER,WB,26-020,45,0,0,0,0,0,0,0,0,25,0,1,1,0.0,0.0,0.0,1,0,10,22,45.5,0,10,2,0,0,Augsburg,2021-09-26 Freiburg-Augsburg,GER-BL1,21-22,c53a65fe
+f2dd9a21,Carlos Gruezo,8,ECU,CM,26-160,45,0,0,0,0,1,0,0,0,21,0,0,0,0.0,0.0,0.0,0,0,14,18,77.8,1,12,1,0,0,Augsburg,2021-09-26 Freiburg-Augsburg,GER-BL1,21-22,c53a65fe
+8b6e0db2,Reece Oxford,4,ENG,CB,22-284,90,0,0,0,0,1,0,0,0,49,1,1,0,0.0,0.0,0.0,2,0,39,43,90.7,1,25,1,0,0,Augsburg,2021-09-26 Freiburg-Augsburg,GER-BL1,21-22,c53a65fe
+1025db8e,Jeffrey Gouweleeuw,6,NED,CB,30-078,90,0,0,0,0,0,0,1,0,48,0,1,2,0.0,0.0,0.0,1,0,32,45,71.1,4,31,1,0,0,Augsburg,2021-09-26 Freiburg-Augsburg,GER-BL1,21-22,c53a65fe
+1df0c0b9,Robert Gumny,2,POL,"CB,RB",23-114,90,0,0,0,0,0,0,0,0,50,0,2,2,0.0,0.0,0.0,1,0,34,43,79.1,1,24,1,1,0,Augsburg,2021-09-26 Freiburg-Augsburg,GER-BL1,21-22,c53a65fe
+17376543,Rafał Gikiewicz,1,POL,GK,33-335,90,0,0,0,0,0,0,0,0,42,0,1,0,0.0,0.0,0.0,1,0,27,36,75.0,0,24,0,0,0,Augsburg,2021-09-26 Freiburg-Augsburg,GER-BL1,21-22,c53a65fe

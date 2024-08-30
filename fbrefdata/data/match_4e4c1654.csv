@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+0fe7f7bc,Giovanni Sio,14,CIV,FW,28-323,85,1,0,0,0,3,2,0,0,32,2,0,0,0.7,0.7,0.0,2,0,19,25,76.0,1,15,1,2,1,Montpellier,2018-02-17 Montpellier-Guingamp,FRA-L1,17-18,4e4c1654
+91f2da4c,Casimir Ninga,29,CHA,FW,24-276,5,0,0,0,0,1,0,0,0,3,0,0,0,0.1,0.1,0.0,0,0,1,1,100.0,0,1,0,0,0,Montpellier,2018-02-17 Montpellier-Guingamp,FRA-L1,17-18,4e4c1654
+42eaa028,Jonathan Ikone,9,FRA,LW,19-291,45,0,0,0,0,1,0,0,0,25,1,0,0,0.1,0.1,0.0,1,0,15,19,78.9,1,19,1,1,0,Montpellier,2018-02-17 Montpellier-Guingamp,FRA-L1,17-18,4e4c1654
+c58270f8,Souleymane Camara,19,SEN,LW,35-057,45,0,0,0,0,1,0,0,0,26,0,1,0,0.1,0.1,0.2,5,0,15,22,68.2,2,16,1,0,0,Montpellier,2018-02-17 Montpellier-Guingamp,FRA-L1,17-18,4e4c1654
+aa1a8c7e,Isaac Mbenza,18,BEL,RW,21-346,90,0,0,0,0,3,0,0,0,61,0,0,1,0.4,0.4,0.1,4,0,32,54,59.3,5,31,8,6,6,Montpellier,2018-02-17 Montpellier-Guingamp,FRA-L1,17-18,4e4c1654
+542cc80f,Paul Lasne,7,FRA,"LM,CM",29-032,90,0,0,0,0,4,2,1,0,81,1,2,0,0.1,0.1,0.0,3,0,55,69,79.7,6,41,5,2,2,Montpellier,2018-02-17 Montpellier-Guingamp,FRA-L1,17-18,4e4c1654
+24eb7ed6,Junior Sambia,6,FRA,CM,21-163,60,0,0,0,0,2,1,0,0,53,0,0,0,0.1,0.1,0.0,0,0,40,48,83.3,5,22,0,0,0,Montpellier,2018-02-17 Montpellier-Guingamp,FRA-L1,17-18,4e4c1654
+ccb1c3af,Keagan Dolly,20,RSA,LM,25-026,30,0,0,0,0,1,0,0,0,15,3,0,0,0.0,0.0,0.0,3,0,12,13,92.3,2,11,2,1,1,Montpellier,2018-02-17 Montpellier-Guingamp,FRA-L1,17-18,4e4c1654
+c2211709,Ellyes Skhiri,13,TUN,CM,22-283,90,0,0,0,0,2,0,0,0,77,0,2,2,0.1,0.1,0.3,5,0,60,66,90.9,12,42,1,0,0,Montpellier,2018-02-17 Montpellier-Guingamp,FRA-L1,17-18,4e4c1654
+3dd738a1,Ruben Aguilar,2,FRA,RM,24-297,90,0,1,0,0,1,0,0,0,116,7,2,1,0.0,0.0,0.7,9,1,79,102,77.5,13,42,9,1,1,Montpellier,2018-02-17 Montpellier-Guingamp,FRA-L1,17-18,4e4c1654
+3f5b4635,Daniel Congré,3,FRA,CB,32-318,90,0,0,0,0,0,0,0,0,57,0,0,0,0.0,0.0,0.0,1,0,38,51,74.5,5,27,2,0,0,Montpellier,2018-02-17 Montpellier-Guingamp,FRA-L1,17-18,4e4c1654
+c4bbea9f,Vitorino Hilton,4,BRA,CB,40-157,90,0,0,0,0,0,0,0,0,69,1,5,1,0.0,0.0,0.0,0,0,55,62,88.7,5,30,2,0,0,Montpellier,2018-02-17 Montpellier-Guingamp,FRA-L1,17-18,4e4c1654
+ac73ec79,Nordi Mukiele,23,FRA,CB,20-108,90,0,0,0,0,0,0,0,0,107,1,2,2,0.0,0.0,0.0,2,0,86,99,86.9,12,54,3,2,2,Montpellier,2018-02-17 Montpellier-Guingamp,FRA-L1,17-18,4e4c1654
+2fa2a875,Benjamin Lecomte,40,FRA,GK,26-297,90,0,0,0,0,0,0,0,0,34,0,0,0,0.0,0.0,0.0,0,0,28,33,84.8,0,18,0,0,0,Montpellier,2018-02-17 Montpellier-Guingamp,FRA-L1,17-18,4e4c1654
+6f8cd6d0,Marcus Thuram,21,FRA,FW,20-195,90,0,0,0,0,0,0,0,0,29,0,1,0,0.0,0.0,0.1,2,1,17,21,81.0,3,21,1,2,0,Guingamp,2018-02-17 Montpellier-Guingamp,FRA-L1,17-18,4e4c1654
+f83c8d6c,Jimmy Briand,23,FRA,LW,32-199,90,0,0,0,0,1,0,0,0,50,0,0,0,0.1,0.1,0.0,1,0,31,42,73.8,0,22,0,2,0,Guingamp,2018-02-17 Montpellier-Guingamp,FRA-L1,17-18,4e4c1654
+813aae2f,Yeni Ngbakoto,12,COD,RW,26-025,82,1,0,1,1,0,0,0,0,28,0,2,0,0.8,0.0,0.0,0,0,16,21,76.2,3,13,2,0,0,Guingamp,2018-02-17 Montpellier-Guingamp,FRA-L1,17-18,4e4c1654
+6191093d,Ludovic Blas,7,FRA,AM,20-048,8,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.1,2,0,1,2,50.0,1,2,0,1,1,Guingamp,2018-02-17 Montpellier-Guingamp,FRA-L1,17-18,4e4c1654
+8b298f56,Clément Grenier,6,FRA,"AM,DM",27-041,90,0,0,0,0,0,0,1,0,56,0,0,2,0.0,0.0,0.0,0,0,32,48,66.7,6,36,1,1,1,Guingamp,2018-02-17 Montpellier-Guingamp,FRA-L1,17-18,4e4c1654
+d2aa8ac0,Étienne Didot,17,FRA,DM,34-208,64,0,0,0,0,0,0,0,0,67,0,1,3,0.0,0.0,0.0,0,0,47,57,82.5,3,34,0,0,0,Guingamp,2018-02-17 Montpellier-Guingamp,FRA-L1,17-18,4e4c1654
+b6dac747,Lebogang Phiri,18,RSA,DM,23-100,26,0,0,0,0,0,0,0,0,15,1,0,1,0.0,0.0,0.0,0,0,10,11,90.9,1,9,0,1,0,Guingamp,2018-02-17 Montpellier-Guingamp,FRA-L1,17-18,4e4c1654
+44f8c299,Lucas Deaux,8,FRA,DM,29-053,73,0,0,0,0,0,0,0,0,48,0,0,0,0.0,0.0,0.0,0,0,40,44,90.9,3,28,2,3,2,Guingamp,2018-02-17 Montpellier-Guingamp,FRA-L1,17-18,4e4c1654
+bb4a42be,Yannis Salibur,19,FRA,"RW,AM",27-024,17,0,0,0,0,1,0,0,0,9,0,0,1,0.1,0.1,0.1,2,0,4,7,57.1,1,8,1,4,4,Guingamp,2018-02-17 Montpellier-Guingamp,FRA-L1,17-18,4e4c1654
+15e1afd5,Franck Tabanou,27,FRA,LB,29-018,90,0,0,0,0,0,0,0,0,67,0,4,1,0.0,0.0,0.0,1,1,40,53,75.5,4,33,0,4,2,Guingamp,2018-02-17 Montpellier-Guingamp,FRA-L1,17-18,4e4c1654
+167d5018,Félix Eboa Eboa,20,CMR,CB,20-304,90,0,0,0,0,1,0,0,0,52,1,3,2,0.1,0.1,0.0,0,0,28,34,82.4,0,19,0,0,0,Guingamp,2018-02-17 Montpellier-Guingamp,FRA-L1,17-18,4e4c1654
+0515a4cb,Christophe Kerbrat,29,FRA,CB,31-199,90,0,0,0,0,0,0,0,0,48,1,3,2,0.0,0.0,0.0,0,0,29,37,78.4,2,26,0,0,0,Guingamp,2018-02-17 Montpellier-Guingamp,FRA-L1,17-18,4e4c1654
+8ff4872e,Jordan Ikoko,2,COD,RB,24-014,90,0,0,0,0,0,0,0,0,48,0,2,0,0.0,0.0,0.0,0,0,34,41,82.9,3,21,2,0,0,Guingamp,2018-02-17 Montpellier-Guingamp,FRA-L1,17-18,4e4c1654
+a56bd2ee,Karl-Johan Johnsson,1,SWE,GK,28-020,90,0,0,0,0,0,0,0,0,56,0,0,0,0.0,0.0,0.0,0,0,26,55,47.3,0,26,0,0,0,Guingamp,2018-02-17 Montpellier-Guingamp,FRA-L1,17-18,4e4c1654

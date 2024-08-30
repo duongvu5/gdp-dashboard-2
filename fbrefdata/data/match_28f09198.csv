@@ -1,0 +1,32 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+42fd9c7f,Kylian Mbappé,7,FRA,FW,24-305,90,1,1,1,1,2,1,0,0,54,1,0,0,1.0,0.2,0.3,5,2,36,46,78.3,9,49,4,4,2,Paris Saint-Germain,2023-10-21 Paris S-G-Strasbourg,FRA-L1,23-24,28f09198
+f63cda26,Gonçalo Ramos,9,POR,FW,22-123,66,0,0,0,0,1,0,0,0,32,3,0,1,0.1,0.1,0.1,2,1,17,20,85.0,3,24,1,3,0,Paris Saint-Germain,2023-10-21 Paris S-G-Strasbourg,FRA-L1,23-24,28f09198
+c0b3669f,Randal Kolo Muani,23,FRA,FW,24-320,24,0,0,0,0,0,0,0,0,14,0,0,0,0.0,0.0,0.0,0,0,3,5,60.0,1,10,1,2,0,Paris Saint-Germain,2023-10-21 Paris S-G-Strasbourg,FRA-L1,23-24,28f09198
+a0d55a09,Bradley Barcola,29,FRA,AM,21-049,65,0,0,0,0,1,0,0,0,43,5,0,0,0.0,0.0,0.0,1,1,27,33,81.8,3,34,3,2,1,Paris Saint-Germain,2023-10-21 Paris S-G-Strasbourg,FRA-L1,23-24,28f09198
+b19db005,Ousmane Dembélé,10,FRA,AM,26-159,25,0,0,0,0,0,0,0,0,28,0,0,0,0.0,0.0,0.0,0,0,18,23,78.3,3,26,3,3,1,Paris Saint-Germain,2023-10-21 Paris S-G-Strasbourg,FRA-L1,23-24,28f09198
+8455ad90,Lee Kang-in,19,KOR,AM,22-244,90,0,0,0,0,1,0,1,0,70,2,1,0,0.0,0.0,0.1,1,0,49,56,87.5,8,58,3,2,0,Paris Saint-Germain,2023-10-21 Paris S-G-Strasbourg,FRA-L1,23-24,28f09198
+3b029691,Vitinha,17,POR,DM,23-250,81,0,0,0,0,0,0,0,0,96,1,2,0,0.0,0.0,0.0,3,0,86,91,94.5,7,84,0,1,0,Paris Saint-Germain,2023-10-21 Paris S-G-Strasbourg,FRA-L1,23-24,28f09198
+3b88609d,Cher Ndour,27,ITA,DM,19-086,9,0,0,0,0,0,0,1,0,6,1,0,0,0.0,0.0,0.0,0,0,5,5,100.0,1,5,0,0,0,Paris Saint-Germain,2023-10-21 Paris S-G-Strasbourg,FRA-L1,23-24,28f09198
+c0c7ff58,Fabián Ruiz Peña,8,ESP,DM,27-201,90,1,0,0,0,1,1,0,0,71,4,1,1,0.7,0.7,0.0,1,1,56,60,93.3,3,60,0,2,1,Paris Saint-Germain,2023-10-21 Paris S-G-Strasbourg,FRA-L1,23-24,28f09198
+c3ee18ef,Lucas Hernández,21,FRA,LB,27-249,71,0,0,0,0,0,0,0,0,111,2,3,0,0.0,0.0,0.0,0,0,93,101,92.1,10,93,0,0,0,Paris Saint-Germain,2023-10-21 Paris S-G-Strasbourg,FRA-L1,23-24,28f09198
+ac73ec79,Nordi Mukiele,26,FRA,"RB,LB",25-354,19,0,0,0,0,0,0,0,0,19,2,0,0,0.0,0.0,0.0,0,0,14,16,87.5,1,16,0,1,1,Paris Saint-Germain,2023-10-21 Paris S-G-Strasbourg,FRA-L1,23-24,28f09198
+8fd9996f,Danilo Pereira,15,POR,CB,32-042,90,0,0,0,0,0,0,0,0,145,1,2,1,0.0,0.0,0.0,0,0,137,139,98.6,5,130,0,0,0,Paris Saint-Germain,2023-10-21 Paris S-G-Strasbourg,FRA-L1,23-24,28f09198
+d5f2f82b,Marquinhos,5,BRA,CB,29-160,90,0,0,0,0,0,0,0,0,162,0,0,0,0.0,0.0,0.0,0,0,146,152,96.1,7,147,1,0,0,Paris Saint-Germain,2023-10-21 Paris S-G-Strasbourg,FRA-L1,23-24,28f09198
+fed17f5a,Carlos Soler,28,ESP,RB,26-292,81,1,1,0,0,1,1,0,0,83,1,0,0,0.3,0.3,0.8,1,1,70,74,94.6,9,72,0,0,0,Paris Saint-Germain,2023-10-21 Paris S-G-Strasbourg,FRA-L1,23-24,28f09198
+41e7ef1c,Layvin Kurzawa,97,FRA,LB,31-047,9,0,0,0,0,0,0,0,0,14,0,0,0,0.0,0.0,0.0,0,0,13,13,100.0,0,10,0,1,0,Paris Saint-Germain,2023-10-21 Paris S-G-Strasbourg,FRA-L1,23-24,28f09198
+08f5afaa,Gianluigi Donnarumma,99,ITA,GK,24-238,90,0,0,0,0,0,0,0,0,33,0,0,0,0.0,0.0,0.0,0,0,30,33,90.9,0,23,0,0,0,Paris Saint-Germain,2023-10-21 Paris S-G-Strasbourg,FRA-L1,23-24,28f09198
+3eaf8817,Lebo Mothiba,12,RSA,FW,27-266,72,0,0,0,0,0,0,0,0,16,1,0,0,0.0,0.0,0.0,1,0,8,10,80.0,1,14,0,0,0,Strasbourg,2023-10-21 Paris S-G-Strasbourg,FRA-L1,23-24,28f09198
+cdc4458b,Dion Moise Sahi,11,CIV,FW,21-305,18,0,0,0,0,2,0,0,0,7,0,0,0,0.2,0.2,0.0,0,0,2,3,66.7,0,5,0,0,0,Strasbourg,2023-10-21 Paris S-G-Strasbourg,FRA-L1,23-24,28f09198
+a6138e4a,Jessy Deminguet,7,FRA,LW,25-287,61,0,0,0,0,0,0,0,0,12,0,0,0,0.0,0.0,0.0,1,0,5,8,62.5,1,8,0,0,0,Strasbourg,2023-10-21 Paris S-G-Strasbourg,FRA-L1,23-24,28f09198
+737945d9,Ângelo Borges,23,BRA,LW,18-304,29,0,0,0,0,0,0,0,0,16,2,0,0,0.0,0.0,0.0,3,0,9,10,90.0,0,14,2,4,3,Strasbourg,2023-10-21 Paris S-G-Strasbourg,FRA-L1,23-24,28f09198
+2b5a35e5,Dilane Bakwa,26,FRA,RW,21-056,90,0,0,0,0,0,0,0,0,38,0,1,0,0.0,0.0,0.1,3,0,18,28,64.3,1,22,2,5,1,Strasbourg,2023-10-21 Paris S-G-Strasbourg,FRA-L1,23-24,28f09198
+6d0fe035,Habib Diarra,19,SEN,CM,19-291,90,0,0,0,0,0,0,0,0,34,0,2,1,0.0,0.0,0.0,0,0,23,28,82.1,5,24,2,3,1,Strasbourg,2023-10-21 Paris S-G-Strasbourg,FRA-L1,23-24,28f09198
+ee158be5,Junior Mwanga,18,FRA,CM,20-163,84,0,0,0,0,1,0,0,0,28,4,3,0,0.1,0.1,0.0,0,0,10,14,71.4,0,15,2,4,3,Strasbourg,2023-10-21 Paris S-G-Strasbourg,FRA-L1,23-24,28f09198
+0f8418aa,Ibrahima Sissoko,27,MLI,CM,25-359,6,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,1,0,2,3,66.7,0,3,0,0,0,Strasbourg,2023-10-21 Paris S-G-Strasbourg,FRA-L1,23-24,28f09198
+0512a60a,Ismaël Doukouré,29,FRA,CM,20-089,90,0,0,0,0,2,0,0,0,28,1,2,0,0.1,0.1,0.0,1,0,19,23,82.6,6,22,1,1,1,Strasbourg,2023-10-21 Paris S-G-Strasbourg,FRA-L1,23-24,28f09198
+8332db56,Thomas Delaine,3,FRA,LB,31-211,90,0,0,0,0,0,0,0,0,43,4,0,0,0.0,0.0,0.2,1,0,23,37,62.2,2,26,3,2,2,Strasbourg,2023-10-21 Paris S-G-Strasbourg,FRA-L1,23-24,28f09198
+49070d66,Lucas Perrin,5,FRA,CB,24-336,90,0,0,0,0,0,0,0,0,47,4,3,0,0.0,0.0,0.0,0,0,29,36,80.6,0,27,0,1,0,Strasbourg,2023-10-21 Paris S-G-Strasbourg,FRA-L1,23-24,28f09198
+6043997c,Gerzino Nyamsi,22,FRA,CB,26-272,90,0,0,0,0,2,1,0,0,30,0,2,1,0.1,0.1,0.1,1,0,16,22,72.7,1,17,0,0,0,Strasbourg,2023-10-21 Paris S-G-Strasbourg,FRA-L1,23-24,28f09198
+1d383c10,Marvin Senaya,28,TOG,RB,22-266,90,0,0,0,0,0,0,0,0,40,2,3,0,0.0,0.0,0.0,1,0,12,26,46.2,0,20,0,3,0,Strasbourg,2023-10-21 Paris S-G-Strasbourg,FRA-L1,23-24,28f09198
+834b5c4c,Matz Sels,1,BEL,GK,31-237,90,0,0,0,0,0,0,0,0,25,0,0,0,0.0,0.0,0.0,0,0,14,21,66.7,0,14,0,0,0,Strasbourg,2023-10-21 Paris S-G-Strasbourg,FRA-L1,23-24,28f09198

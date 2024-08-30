@@ -1,0 +1,32 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+80dbbd10,Simeon Nwankwo,25,NGA,FW,29-006,90,0,1,0,0,0,0,0,0,48,1,0,1,0.0,0.0,0.1,4,1,30,36,83.3,0,19,2,1,1,Crotone,2021-05-13 Crotone-Hellas Verona,ITA-SERIA_A,20-21,873ae989
+ed90babd,Adam Ounas,7,ALG,FW,24-183,89,1,1,0,0,3,2,0,0,41,0,0,1,0.2,0.2,0.1,3,1,25,29,86.2,1,19,6,1,0,Crotone,2021-05-13 Crotone-Hellas Verona,ITA-SERIA_A,20-21,873ae989
+909bce7f,Jacopo Petriccione,44,ITA,FW,26-080,1,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,0,0,Crotone,2021-05-13 Crotone-Hellas Verona,ITA-SERIA_A,20-21,873ae989
+a128b07e,Ahmad Benali,10,LBY,CM,29-095,90,0,0,0,0,0,0,0,0,46,2,0,2,0.0,0.0,0.0,1,0,35,42,83.3,4,17,1,0,0,Crotone,2021-05-13 Crotone-Hellas Verona,ITA-SERIA_A,20-21,873ae989
+ae64d449,Luca Cigarini,8,ITA,CM,34-327,75,0,0,0,0,2,0,0,0,44,0,1,1,0.1,0.1,0.2,4,1,24,36,66.7,2,13,0,1,1,Crotone,2021-05-13 Crotone-Hellas Verona,ITA-SERIA_A,20-21,873ae989
+741e058f,Niccolò Zanellato,21,ITA,CM,22-323,15,0,0,0,0,0,0,0,0,12,1,1,1,0.0,0.0,0.0,1,0,8,9,88.9,1,4,0,0,0,Crotone,2021-05-13 Crotone-Hellas Verona,ITA-SERIA_A,20-21,873ae989
+f49c4ae9,Junior Messias,30,BRA,CM,30-000,90,1,0,0,0,2,1,0,0,53,2,3,2,0.1,0.1,0.0,2,0,20,27,74.1,1,22,3,3,1,Crotone,2021-05-13 Crotone-Hellas Verona,ITA-SERIA_A,20-21,873ae989
+54ab971f,Salvatore Molina,17,ITA,WB,29-132,90,0,0,0,0,2,1,0,0,48,0,0,2,0.1,0.1,0.0,0,0,27,36,75.0,2,23,0,0,0,Crotone,2021-05-13 Crotone-Hellas Verona,ITA-SERIA_A,20-21,873ae989
+c77be0cf,Pedro Pereira,32,POR,WB,23-111,71,0,0,0,0,0,0,1,0,20,3,0,1,0.0,0.0,0.0,0,0,10,12,83.3,1,4,0,0,0,Crotone,2021-05-13 Crotone-Hellas Verona,ITA-SERIA_A,20-21,873ae989
+ae5b04fe,Giuseppe Cuomo,3,ITA,CB,23-100,19,0,0,0,0,0,0,0,0,11,0,1,0,0.0,0.0,0.0,0,0,6,9,66.7,0,4,0,1,0,Crotone,2021-05-13 Crotone-Hellas Verona,ITA-SERIA_A,20-21,873ae989
+01a49bd2,Lisandro Magallán,6,ARG,CB,27-228,90,0,0,0,0,0,0,1,0,38,2,0,0,0.0,0.0,0.0,1,1,20,30,66.7,3,14,0,0,0,Crotone,2021-05-13 Crotone-Hellas Verona,ITA-SERIA_A,20-21,873ae989
+ea468ea8,Luca Marrone,34,ITA,CB,31-046,90,0,0,0,0,0,0,1,0,35,1,2,2,0.0,0.0,0.0,0,0,21,25,84.0,1,7,0,0,0,Crotone,2021-05-13 Crotone-Hellas Verona,ITA-SERIA_A,20-21,873ae989
+933d3b51,Koffi Djidji,26,CIV,"CB,WB",28-164,90,0,0,0,0,0,0,0,0,45,3,2,1,0.0,0.0,0.1,0,0,26,33,78.8,3,11,1,1,1,Crotone,2021-05-13 Crotone-Hellas Verona,ITA-SERIA_A,20-21,873ae989
+e66ebabb,Alex Cordaz,1,ITA,GK,38-132,90,0,0,0,0,0,0,0,0,38,0,0,0,0.0,0.0,0.0,0,0,12,36,33.3,0,13,0,0,0,Crotone,2021-05-13 Crotone-Hellas Verona,ITA-SERIA_A,20-21,873ae989
+d4931a5a,Nikola Kalinić,29,CRO,FW,33-128,90,0,0,0,0,2,0,0,0,27,0,0,0,0.2,0.2,0.0,3,0,14,19,73.7,2,20,0,0,0,Hellas Verona,2021-05-13 Crotone-Hellas Verona,ITA-SERIA_A,20-21,873ae989
+d85c238b,Mattia Zaccagni,20,ITA,AM,25-331,69,0,0,0,0,2,0,0,0,31,1,0,1,0.1,0.1,0.1,2,0,15,22,68.2,3,20,2,3,1,Hellas Verona,2021-05-13 Crotone-Hellas Verona,ITA-SERIA_A,20-21,873ae989
+bf356094,Ebrima Colley,90,GAM,AM,21-101,21,0,0,0,0,0,0,0,0,10,1,0,0,0.0,0.0,0.0,0,0,4,7,57.1,0,5,1,2,2,Hellas Verona,2021-05-13 Crotone-Hellas Verona,ITA-SERIA_A,20-21,873ae989
+01efac19,Antonín Barák,7,CZE,"CM,AM",26-161,90,0,0,0,0,2,2,0,0,74,1,0,2,0.1,0.1,0.0,0,0,59,67,88.1,7,39,5,2,1,Hellas Verona,2021-05-13 Crotone-Hellas Verona,ITA-SERIA_A,20-21,873ae989
+bb376bed,Ivan Ilić,14,SRB,CM,20-057,90,0,0,0,0,0,0,0,0,72,3,0,1,0.0,0.0,0.0,2,0,54,67,80.6,7,43,1,2,1,Hellas Verona,2021-05-13 Crotone-Hellas Verona,ITA-SERIA_A,20-21,873ae989
+8da74c05,Adrien Tameze,61,CMR,CM,27-098,45,0,0,0,0,0,0,1,0,37,1,2,1,0.0,0.0,0.0,2,0,24,29,82.8,6,17,2,1,1,Hellas Verona,2021-05-13 Crotone-Hellas Verona,ITA-SERIA_A,20-21,873ae989
+0489bb30,Eddie Salcedo,9,ITA,AM,19-224,45,0,0,0,0,1,0,0,0,35,0,0,1,0.3,0.3,0.0,0,0,22,29,75.9,1,13,0,1,0,Hellas Verona,2021-05-13 Crotone-Hellas Verona,ITA-SERIA_A,20-21,873ae989
+5128bde4,Darko Lazović,8,SRB,WB,30-240,90,0,0,0,0,1,0,0,0,57,0,0,0,0.0,0.0,0.2,5,0,44,53,83.0,12,22,2,1,0,Hellas Verona,2021-05-13 Crotone-Hellas Verona,ITA-SERIA_A,20-21,873ae989
+90573602,Kevin Rüegg,19,SUI,WB,22-281,69,0,0,0,0,0,0,0,0,39,0,0,0,0.0,0.0,0.0,0,0,27,38,71.1,2,15,0,0,0,Hellas Verona,2021-05-13 Crotone-Hellas Verona,ITA-SERIA_A,20-21,873ae989
+09538fdb,Kevin Lasagna,92,ITA,WB,28-276,21,0,0,0,0,0,0,0,0,11,1,0,0,0.0,0.0,0.0,0,0,4,6,66.7,0,8,0,1,0,Hellas Verona,2021-05-13 Crotone-Hellas Verona,ITA-SERIA_A,20-21,873ae989
+d9624b51,Federico Ceccherini,17,ITA,CB,29-002,50,0,0,0,0,1,0,0,0,43,0,0,0,0.1,0.1,0.0,1,0,31,41,75.6,2,25,0,0,0,Hellas Verona,2021-05-13 Crotone-Hellas Verona,ITA-SERIA_A,20-21,873ae989
+970b8574,Federico Dimarco,3,ITA,CB,23-184,40,0,0,0,0,0,0,0,0,59,0,3,0,0.0,0.0,0.4,4,0,38,56,67.9,6,29,2,0,0,Hellas Verona,2021-05-13 Crotone-Hellas Verona,ITA-SERIA_A,20-21,873ae989
+f1f1f238,Koray Günter,21,GER,CB,26-270,90,0,0,0,0,1,0,0,0,94,1,2,2,0.1,0.1,0.1,2,0,83,89,93.3,6,44,1,0,0,Hellas Verona,2021-05-13 Crotone-Hellas Verona,ITA-SERIA_A,20-21,873ae989
+16bb656a,Paweł Dawidowicz,27,POL,CB,25-358,45,0,0,0,0,1,1,0,0,34,1,2,0,0.1,0.1,0.0,0,0,21,30,70.0,0,20,0,0,0,Hellas Verona,2021-05-13 Crotone-Hellas Verona,ITA-SERIA_A,20-21,873ae989
+aae9d04a,Davide Faraoni,5,ITA,CB,29-200,45,0,0,0,0,0,0,0,0,42,2,1,1,0.0,0.0,0.0,0,0,27,34,79.4,8,24,0,1,1,Hellas Verona,2021-05-13 Crotone-Hellas Verona,ITA-SERIA_A,20-21,873ae989
+457cb02f,Ivor Pandur,25,CRO,GK,21-049,90,0,0,0,0,0,0,0,0,25,0,0,0,0.0,0.0,0.0,0,0,19,24,79.2,0,12,0,0,0,Hellas Verona,2021-05-13 Crotone-Hellas Verona,ITA-SERIA_A,20-21,873ae989

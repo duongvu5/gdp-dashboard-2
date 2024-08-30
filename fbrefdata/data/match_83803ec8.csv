@@ -1,0 +1,29 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+086d7db3,Ivan Santini,26,CRO,FW,28-196,90,1,0,0,0,4,2,0,0,35,1,0,0,0.7,0.7,0.1,4,1,11,20,55.0,2,15,0,1,1,Caen,2017-12-03 Caen-Lyon,FRA-L1,17-18,83803ec8
+1f8c7aa9,Ronny Rodelin,12,FRA,"LW,FW",28-015,90,0,1,0,0,2,1,0,0,43,4,0,0,0.1,0.1,0.6,4,1,24,34,70.6,9,24,2,1,0,Caen,2017-12-03 Caen-Lyon,FRA-L1,17-18,83803ec8
+ce316f8c,Christian Kouakou,13,CIV,"RW,RM",26-277,63,0,0,0,0,1,0,0,0,19,1,1,3,0.1,0.1,0.0,2,0,9,12,75.0,0,13,0,1,0,Caen,2017-12-03 Caen-Lyon,FRA-L1,17-18,83803ec8
+bf354e77,Jordan Nkololo,17,COD,RM,25-024,27,0,0,0,0,3,0,0,0,18,0,0,1,0.1,0.1,0.0,3,0,8,14,57.1,0,11,2,0,0,Caen,2017-12-03 Caen-Lyon,FRA-L1,17-18,83803ec8
+ac62861c,Julien Féret,25,FRA,"LM,CM",35-151,90,0,0,0,0,1,0,0,0,66,2,1,0,0.0,0.0,0.4,7,0,41,60,68.3,6,22,3,1,1,Caen,2017-12-03 Caen-Lyon,FRA-L1,17-18,83803ec8
+a8b4a643,Baissama Sankoh,5,GUI,CM,25-258,57,0,0,0,0,0,0,0,0,22,2,0,1,0.0,0.0,0.0,0,0,14,16,87.5,2,9,0,2,2,Caen,2017-12-03 Caen-Lyon,FRA-L1,17-18,83803ec8
+e0d725fe,Jan Repas,9,SVN,LM,20-259,33,0,0,0,0,2,1,0,0,19,1,0,0,0.1,0.1,0.0,2,0,10,14,71.4,0,13,1,1,0,Caen,2017-12-03 Caen-Lyon,FRA-L1,17-18,83803ec8
+c46fa34c,Youssef Aït Bennasser,10,MAR,"RM,CM",21-149,90,0,0,0,0,3,0,0,0,56,1,1,2,0.1,0.1,0.0,1,0,36,43,83.7,11,30,5,4,4,Caen,2017-12-03 Caen-Lyon,FRA-L1,17-18,83803ec8
+b931d9d1,Adama Mbengue,22,SEN,LB,24-002,90,0,0,0,0,1,0,1,0,77,9,0,2,0.0,0.0,0.0,4,0,32,58,55.2,8,29,5,5,3,Caen,2017-12-03 Caen-Lyon,FRA-L1,17-18,83803ec8
+43e7a164,Alexander Djiku,24,GHA,CB,23-116,90,0,0,0,0,1,0,0,0,47,0,1,2,0.1,0.1,0.0,2,0,33,39,84.6,5,20,0,1,0,Caen,2017-12-03 Caen-Lyon,FRA-L1,17-18,83803ec8
+1ec7e1c5,Damien Da Silva,28,FRA,CB,29-200,90,0,0,0,0,0,0,0,0,35,2,0,2,0.0,0.0,0.0,0,0,22,27,81.5,2,9,0,0,0,Caen,2017-12-03 Caen-Lyon,FRA-L1,17-18,83803ec8
+5d8d7454,Frederic Guilbert,21,FRA,RB,22-344,90,0,0,0,0,1,0,0,0,39,3,3,0,0.1,0.1,0.0,0,0,18,26,69.2,2,9,0,0,0,Caen,2017-12-03 Caen-Lyon,FRA-L1,17-18,83803ec8
+1d0900d4,Rémy Vercoutre,1,FRA,GK,37-160,90,0,0,0,0,0,0,0,0,35,0,0,0,0.0,0.0,0.0,0,0,17,32,53.1,0,4,0,0,0,Caen,2017-12-03 Caen-Lyon,FRA-L1,17-18,83803ec8
+5c4dc0ff,Mariano,9,DOM,FW,24-124,80,1,0,0,0,2,1,1,0,15,0,0,0,0.1,0.1,0.1,1,0,5,9,55.6,1,7,1,1,0,Lyon,2017-12-03 Caen-Lyon,FRA-L1,17-18,83803ec8
+375622c5,Jordan Ferri,12,FRA,AM,25-266,10,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,4,8,50.0,1,5,0,0,0,Lyon,2017-12-03 Caen-Lyon,FRA-L1,17-18,83803ec8
+8f696594,Memphis,11,NED,LW,23-293,90,0,2,0,0,2,0,0,0,43,2,0,1,0.1,0.1,0.5,6,1,26,33,78.8,3,28,0,2,2,Lyon,2017-12-03 Caen-Lyon,FRA-L1,17-18,83803ec8
+beb391dd,Maxwel Cornet,27,CIV,RW,21-067,75,1,0,0,0,1,1,0,0,38,4,0,0,0.1,0.1,0.1,2,0,16,25,64.0,2,28,5,3,0,Lyon,2017-12-03 Caen-Lyon,FRA-L1,17-18,83803ec8
+706a60e1,Myziane Maolida,17,COM,RW,18-292,15,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,3,4,75.0,1,6,0,2,0,Lyon,2017-12-03 Caen-Lyon,FRA-L1,17-18,83803ec8
+bece776f,Nabil Fekir,18,FRA,"AM,FW",24-138,90,0,0,0,0,3,1,1,0,57,2,0,0,0.9,0.9,0.0,1,1,29,46,63.0,4,39,1,3,2,Lyon,2017-12-03 Caen-Lyon,FRA-L1,17-18,83803ec8
+a5db0bec,Houssem Aouar,8,ALG,DM,19-156,90,0,0,0,0,2,1,0,0,72,7,3,1,0.1,0.1,0.5,3,0,47,57,82.5,5,44,1,7,7,Lyon,2017-12-03 Caen-Lyon,FRA-L1,17-18,83803ec8
+71ec39ef,Lucas Tousart,29,FRA,DM,20-218,90,0,0,0,0,0,0,0,0,51,4,2,1,0.0,0.0,0.0,0,0,27,39,69.2,2,23,0,0,0,Lyon,2017-12-03 Caen-Lyon,FRA-L1,17-18,83803ec8
+9ae9eaea,Fernando Marçal,20,BRA,LB,28-287,72,0,0,0,0,0,0,0,0,54,0,2,1,0.0,0.0,0.1,4,1,32,44,72.7,0,34,1,4,1,Lyon,2017-12-03 Caen-Lyon,FRA-L1,17-18,83803ec8
+9a1f2e1c,Rafael,4,BRA,LB,27-147,18,0,0,0,0,0,0,1,0,13,1,1,0,0.0,0.0,0.0,1,0,6,9,66.7,0,3,0,0,0,Lyon,2017-12-03 Caen-Lyon,FRA-L1,17-18,83803ec8
+d2110326,Mouctar Diakhaby,5,GUI,CB,20-349,90,0,0,0,0,0,0,0,0,45,0,2,2,0.0,0.0,0.0,0,0,31,37,83.8,1,28,0,1,1,Lyon,2017-12-03 Caen-Lyon,FRA-L1,17-18,83803ec8
+e3d0b0c4,Marcelo,6,BRA,CB,30-197,90,0,0,0,0,1,0,0,0,57,1,1,0,0.3,0.3,0.0,0,0,37,45,82.2,3,33,0,1,1,Lyon,2017-12-03 Caen-Lyon,FRA-L1,17-18,83803ec8
+77d7c96f,Kenny Tete,23,NED,RB,22-055,90,0,0,0,0,0,0,0,0,67,0,3,0,0.0,0.0,0.0,1,0,39,53,73.6,3,38,6,4,3,Lyon,2017-12-03 Caen-Lyon,FRA-L1,17-18,83803ec8
+f00de885,Anthony Lopes,1,POR,GK,27-063,90,0,0,0,0,0,0,0,0,47,0,0,0,0.0,0.0,0.0,0,0,33,43,76.7,0,19,0,0,0,Lyon,2017-12-03 Caen-Lyon,FRA-L1,17-18,83803ec8

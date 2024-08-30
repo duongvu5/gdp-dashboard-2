@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+d1b49282,Morten Thorsby,2,NOR,FW,25-228,90,0,0,0,0,2,0,0,0,49,0,0,1,0.4,0.4,0.0,3,0,18,29,62.1,2,23,1,0,0,Sampdoria,2021-12-19 Sampdoria-Venezia,ITA-SERIA_A,21-22,3c52cd53
+5bd72174,Francesco Caputo,10,ITA,FW,34-135,74,0,1,0,0,0,0,0,0,16,0,0,0,0.0,0.0,0.6,4,1,12,14,85.7,2,13,0,0,0,Sampdoria,2021-12-19 Sampdoria-Venezia,ITA-SERIA_A,21-22,3c52cd53
+ee4f2f3b,Fabio Quagliarella,27,ITA,FW,38-322,16,0,0,0,0,1,0,0,0,7,0,0,0,0.1,0.1,0.0,0,0,3,6,50.0,0,6,0,0,0,Sampdoria,2021-12-19 Sampdoria-Venezia,ITA-SERIA_A,21-22,3c52cd53
+8f866fe8,Manolo Gabbiadini,23,ITA,AM,30-023,60,1,0,0,0,6,3,0,0,36,1,2,1,0.4,0.4,0.0,4,0,16,22,72.7,2,24,1,2,1,Sampdoria,2021-12-19 Sampdoria-Venezia,ITA-SERIA_A,21-22,3c52cd53
+33ecf462,Valerio Verre,8,ITA,AM,27-342,30,0,0,0,0,1,1,0,0,29,1,0,2,0.0,0.0,0.0,2,0,17,24,70.8,3,21,0,1,1,Sampdoria,2021-12-19 Sampdoria-Venezia,ITA-SERIA_A,21-22,3c52cd53
+d6f88a1d,Adrien Silva,5,POR,LM,32-279,90,0,0,0,0,0,0,1,0,61,1,2,0,0.0,0.0,0.0,3,0,36,49,73.5,6,38,2,1,1,Sampdoria,2021-12-19 Sampdoria-Venezia,ITA-SERIA_A,21-22,3c52cd53
+f503ea63,Albin Ekdal,6,SWE,CM,32-144,85,0,0,0,0,2,0,0,0,42,2,0,1,0.2,0.2,0.0,1,0,23,32,71.9,1,21,0,1,0,Sampdoria,2021-12-19 Sampdoria-Venezia,ITA-SERIA_A,21-22,3c52cd53
+a69cc629,Kristoffer Askildsen,16,NOR,CM,20-344,5,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,3,5,60.0,0,3,0,0,0,Sampdoria,2021-12-19 Sampdoria-Venezia,ITA-SERIA_A,21-22,3c52cd53
+356c9002,Antonio Candreva,87,ITA,RM,34-294,90,0,0,0,0,6,3,0,0,68,0,2,1,0.5,0.5,0.5,8,0,35,54,64.8,3,48,1,4,2,Sampdoria,2021-12-19 Sampdoria-Venezia,ITA-SERIA_A,21-22,3c52cd53
+3cd3b384,Tommaso Augello,3,ITA,LB,27-111,90,0,0,0,0,0,0,0,0,68,0,0,1,0.0,0.0,0.1,5,1,51,65,78.5,5,42,3,2,1,Sampdoria,2021-12-19 Sampdoria-Venezia,ITA-SERIA_A,21-22,3c52cd53
+8b95acda,Omar Colley,15,GAM,CB,29-056,90,0,0,0,0,0,0,0,0,45,1,2,0,0.0,0.0,0.0,0,0,29,34,85.3,2,21,0,0,0,Sampdoria,2021-12-19 Sampdoria-Venezia,ITA-SERIA_A,21-22,3c52cd53
+caffaf5a,Maya Yoshida,22,JPN,CB,33-117,90,0,0,0,0,0,0,0,0,52,0,0,1,0.0,0.0,0.0,1,0,34,43,79.1,3,28,0,0,0,Sampdoria,2021-12-19 Sampdoria-Venezia,ITA-SERIA_A,21-22,3c52cd53
+61b3978f,Bartosz Bereszyński,24,POL,RB,29-160,60,0,0,0,0,0,0,0,0,38,0,0,0,0.0,0.0,0.0,0,0,29,32,90.6,0,23,3,0,0,Sampdoria,2021-12-19 Sampdoria-Venezia,ITA-SERIA_A,21-22,3c52cd53
+620922ed,Radu Drăgușin,19,ROU,RB,19-319,30,0,0,0,0,0,0,0,0,14,0,1,1,0.0,0.0,0.0,1,0,6,12,50.0,0,6,2,0,0,Sampdoria,2021-12-19 Sampdoria-Venezia,ITA-SERIA_A,21-22,3c52cd53
+649b01d8,Emil Audero,1,ITA,GK,24-335,90,0,0,0,0,0,0,1,0,24,0,0,0,0.0,0.0,0.0,1,0,15,23,65.2,0,8,0,0,0,Sampdoria,2021-12-19 Sampdoria-Venezia,ITA-SERIA_A,21-22,3c52cd53
+66784dee,Dennis Johnsen,17,NOR,FW,23-305,68,0,0,0,0,0,0,0,0,19,0,0,0,0.0,0.0,0.1,1,0,3,14,21.4,0,16,2,4,2,Venezia,2021-12-19 Sampdoria-Venezia,ITA-SERIA_A,21-22,3c52cd53
+f209b81e,Arnór Sigurðsson,11,ISL,FW,22-218,22,0,0,0,0,1,0,0,0,14,0,0,1,0.1,0.1,0.0,1,0,8,11,72.7,2,12,2,1,1,Venezia,2021-12-19 Sampdoria-Venezia,ITA-SERIA_A,21-22,3c52cd53
+ce1806be,Sofian Kiyine,23,MAR,LW,24-078,90,0,0,0,0,3,0,0,0,54,2,0,0,0.1,0.1,0.5,8,0,28,40,70.0,7,36,6,11,10,Venezia,2021-12-19 Sampdoria-Venezia,ITA-SERIA_A,21-22,3c52cd53
+0847b5a5,Mattia Aramu,10,ITA,RW,26-219,77,0,0,0,0,2,0,0,0,42,0,1,1,0.2,0.2,0.3,2,0,25,36,69.4,4,29,1,0,0,Venezia,2021-12-19 Sampdoria-Venezia,ITA-SERIA_A,21-22,3c52cd53
+69e11a01,Francesco Forte,9,ITA,RW,28-232,13,0,0,0,0,2,0,1,0,4,0,0,0,0.2,0.2,0.0,1,0,1,1,100.0,0,3,0,0,0,Venezia,2021-12-19 Sampdoria-Venezia,ITA-SERIA_A,21-22,3c52cd53
+ac277993,Tanner Tessmann,8,USA,LM,20-086,57,0,0,0,0,1,0,0,0,27,1,0,2,0.3,0.3,0.0,0,0,15,18,83.3,1,15,1,1,0,Venezia,2021-12-19 Sampdoria-Venezia,ITA-SERIA_A,21-22,3c52cd53
+9ef42479,Thomas Henry,14,FRA,LM,27-090,33,1,0,0,0,2,1,0,0,7,0,0,0,0.1,0.1,0.0,1,0,3,4,75.0,1,6,0,0,0,Venezia,2021-12-19 Sampdoria-Venezia,ITA-SERIA_A,21-22,3c52cd53
+10b9fa99,Ethan Ampadu,44,WAL,CM,21-096,57,0,0,0,0,0,0,0,0,35,2,4,1,0.0,0.0,0.0,0,0,18,27,66.7,0,19,0,1,1,Venezia,2021-12-19 Sampdoria-Venezia,ITA-SERIA_A,21-22,3c52cd53
+444c89d9,Antonio Vacca,5,ITA,CM,31-220,33,0,0,0,0,0,0,0,0,28,2,2,1,0.0,0.0,0.0,2,0,17,21,81.0,3,10,1,1,0,Venezia,2021-12-19 Sampdoria-Venezia,ITA-SERIA_A,21-22,3c52cd53
+4a0b7f07,Gianluca Busio,27,USA,RM,19-205,68,0,0,0,0,0,0,0,0,39,1,0,1,0.0,0.0,0.0,2,0,26,34,76.5,4,30,0,0,0,Venezia,2021-12-19 Sampdoria-Venezia,ITA-SERIA_A,21-22,3c52cd53
+22cd43d2,Domen Črnigoj,33,SVN,RM,26-031,22,0,0,0,0,0,0,0,0,18,0,1,0,0.0,0.0,0.0,0,0,6,13,46.2,2,9,0,1,0,Venezia,2021-12-19 Sampdoria-Venezia,ITA-SERIA_A,21-22,3c52cd53
+6af30900,Tyronne Ebuehi,22,NGA,LB,26-003,90,0,0,0,0,0,0,0,0,44,2,0,1,0.0,0.0,0.0,3,0,31,39,79.5,7,24,7,3,3,Venezia,2021-12-19 Sampdoria-Venezia,ITA-SERIA_A,21-22,3c52cd53
+4d1efb48,Pietro Ceccaroni,32,ITA,CB,25-363,90,0,0,0,0,0,0,0,0,59,0,2,1,0.0,0.0,0.0,0,0,43,54,79.6,2,43,2,0,0,Venezia,2021-12-19 Sampdoria-Venezia,ITA-SERIA_A,21-22,3c52cd53
+ac7e640b,Mattia Caldara,31,ITA,CB,27-228,90,0,0,0,0,1,0,0,0,63,0,1,1,0.0,0.0,0.0,0,0,47,59,79.7,3,34,1,0,0,Venezia,2021-12-19 Sampdoria-Venezia,ITA-SERIA_A,21-22,3c52cd53
+eb0ec070,Pasquale Mazzocchi,7,ITA,RB,26-145,90,0,0,0,0,0,0,0,0,70,1,0,0,0.0,0.0,0.0,0,0,46,59,78.0,1,39,5,0,0,Venezia,2021-12-19 Sampdoria-Venezia,ITA-SERIA_A,21-22,3c52cd53
+1e26e376,Sergio Romero,88,ARG,GK,34-300,90,0,0,0,0,0,0,0,0,40,0,0,0,0.0,0.0,0.0,0,0,24,35,68.6,0,25,0,0,0,Venezia,2021-12-19 Sampdoria-Venezia,ITA-SERIA_A,21-22,3c52cd53

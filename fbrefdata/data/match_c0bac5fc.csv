@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+f7036e1c,Lautaro Martínez,10,ARG,FW,22-101,90,2,0,0,0,6,4,0,0,38,1,1,3,0.8,0.8,0.0,1,0,5,15,33.3,2,25,3,3,1,Internazionale,2019-12-01 Inter-SPAL,ITA-SERIA_A,19-20,c0bac5fc
+5eae500a,Romelu Lukaku,9,BEL,FW,26-202,90,0,0,0,0,1,0,0,0,30,0,0,0,0.1,0.1,0.4,5,1,14,21,66.7,4,24,0,1,0,Internazionale,2019-12-01 Inter-SPAL,ITA-SERIA_A,19-20,c0bac5fc
+ce30bfc8,Roberto Gagliardini,5,ITA,CM,25-238,78,0,0,0,0,0,0,0,0,46,1,0,1,0.0,0.0,0.0,1,0,38,41,92.7,7,28,2,0,0,Internazionale,2019-12-01 Inter-SPAL,ITA-SERIA_A,19-20,c0bac5fc
+0e21fc3c,Borja Valero,20,ESP,CM,34-323,12,0,0,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.0,0,0,12,12,100.0,1,5,0,0,0,Internazionale,2019-12-01 Inter-SPAL,ITA-SERIA_A,19-20,c0bac5fc
+33b8d077,Marcelo Brozović,77,CRO,CM,27-015,90,0,1,0,0,3,2,0,0,97,5,1,1,0.1,0.1,0.1,6,1,75,84,89.3,11,47,4,1,0,Internazionale,2019-12-01 Inter-SPAL,ITA-SERIA_A,19-20,c0bac5fc
+44ac04e9,Matías Vecino,8,URU,CM,28-099,90,0,0,0,0,3,1,0,0,40,0,0,2,0.6,0.6,0.0,3,0,26,33,78.8,11,15,1,0,0,Internazionale,2019-12-01 Inter-SPAL,ITA-SERIA_A,19-20,c0bac5fc
+016ff750,Valentino Lazaro,19,AUT,WB,23-252,75,0,0,0,0,2,0,0,0,49,0,0,1,0.0,0.0,0.1,3,0,27,37,73.0,2,23,2,4,1,Internazionale,2019-12-01 Inter-SPAL,ITA-SERIA_A,19-20,c0bac5fc
+9e1577aa,Cristiano Biraghi,34,ITA,WB,27-091,15,0,0,0,0,0,0,0,0,11,1,0,0,0.0,0.0,0.1,2,0,7,11,63.6,1,4,0,0,0,Internazionale,2019-12-01 Inter-SPAL,ITA-SERIA_A,19-20,c0bac5fc
+356c9002,Antonio Candreva,87,ITA,WB,32-276,78,0,1,0,0,1,1,0,0,63,0,0,0,0.0,0.0,0.3,2,1,42,57,73.7,4,31,2,0,0,Internazionale,2019-12-01 Inter-SPAL,ITA-SERIA_A,19-20,c0bac5fc
+fc4f85b1,Diego Godín,2,URU,CB,33-288,12,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,5,9,55.6,0,5,0,0,0,Internazionale,2019-12-01 Inter-SPAL,ITA-SERIA_A,19-20,c0bac5fc
+30f5ffa9,Milan Škriniar,37,SVK,CB,24-293,90,0,0,0,0,0,0,0,0,75,0,0,0,0.0,0.0,0.0,1,0,67,72,93.1,12,46,4,1,0,Internazionale,2019-12-01 Inter-SPAL,ITA-SERIA_A,19-20,c0bac5fc
+d0d8dd44,Stefan de Vrij,6,NED,CB,27-299,90,0,0,0,0,2,0,0,0,65,5,0,0,0.2,0.2,0.0,3,0,53,57,93.0,4,41,1,0,0,Internazionale,2019-12-01 Inter-SPAL,ITA-SERIA_A,19-20,c0bac5fc
+44eb9093,Danilo D'Ambrosio,33,ITA,"CB,WB",31-083,90,0,0,0,0,1,0,1,0,96,2,1,1,0.1,0.1,0.1,4,0,78,88,88.6,11,45,1,1,1,Internazionale,2019-12-01 Inter-SPAL,ITA-SERIA_A,19-20,c0bac5fc
+74419746,Samir Handanović,1,SVN,GK,35-140,90,0,0,0,0,0,0,0,0,33,0,0,0,0.0,0.0,0.0,0,0,28,32,87.5,0,13,0,0,0,Internazionale,2019-12-01 Inter-SPAL,ITA-SERIA_A,19-20,c0bac5fc
+c414df9d,Mattia Valoti,8,ITA,FW,26-086,90,1,0,0,0,2,1,0,0,50,4,1,2,0.1,0.1,0.1,4,1,29,36,80.6,0,34,2,1,1,SPAL,2019-12-01 Inter-SPAL,ITA-SERIA_A,19-20,c0bac5fc
+03f946ed,Andrea Petagna,37,ITA,FW,24-154,90,0,0,0,0,3,0,0,0,32,0,0,1,0.2,0.2,0.4,1,0,15,22,68.2,0,20,0,1,1,SPAL,2019-12-01 Inter-SPAL,ITA-SERIA_A,19-20,c0bac5fc
+144607cc,Jasmin Kurtić,19,SVN,CM,30-325,90,0,0,0,0,2,0,0,0,57,1,2,0,0.0,0.0,0.4,3,0,41,48,85.4,4,44,4,3,2,SPAL,2019-12-01 Inter-SPAL,ITA-SERIA_A,19-20,c0bac5fc
+c710f7d5,Mirko Valdifiori,6,ITA,CM,33-224,69,0,0,0,0,0,0,1,0,61,1,0,0,0.0,0.0,0.0,1,0,47,55,85.5,2,29,1,0,0,SPAL,2019-12-01 Inter-SPAL,ITA-SERIA_A,19-20,c0bac5fc
+df301450,Sergio Floccari,10,ITA,CM,38-019,21,0,0,0,0,1,1,0,0,3,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,3,0,0,0,SPAL,2019-12-01 Inter-SPAL,ITA-SERIA_A,19-20,c0bac5fc
+fb2c533b,Alessandro Murgia,11,ITA,CM,23-114,90,0,0,0,0,2,1,1,0,44,3,2,0,0.4,0.4,0.1,2,0,28,35,80.0,1,20,1,0,0,SPAL,2019-12-01 Inter-SPAL,ITA-SERIA_A,19-20,c0bac5fc
+6213fd82,Arkadiusz Reca,13,POL,WB,24-167,90,0,0,0,0,1,0,0,0,54,0,2,2,0.1,0.1,0.1,3,0,38,46,82.6,3,30,5,1,1,SPAL,2019-12-01 Inter-SPAL,ITA-SERIA_A,19-20,c0bac5fc
+ac4a4508,Gabriel Strefezza,21,BRA,WB,22-227,41,0,0,0,0,0,0,0,0,26,1,0,0,0.0,0.0,0.0,0,0,17,21,81.0,0,16,0,1,0,SPAL,2019-12-01 Inter-SPAL,ITA-SERIA_A,19-20,c0bac5fc
+46f5c54d,Thiago Cionek,4,POL,WB,33-224,49,0,1,0,0,0,0,1,0,41,1,1,1,0.0,0.0,0.1,3,1,23,32,71.9,4,12,0,1,0,SPAL,2019-12-01 Inter-SPAL,ITA-SERIA_A,19-20,c0bac5fc
+a4e85758,Igor,3,BRA,CB,21-297,81,0,0,0,0,0,0,1,0,52,2,5,2,0.0,0.0,0.0,2,0,38,42,90.5,2,28,4,1,1,SPAL,2019-12-01 Inter-SPAL,ITA-SERIA_A,19-20,c0bac5fc
+9866afec,Marko Janković,95,MNE,CB,24-145,9,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,1,0,2,2,100.0,2,3,1,0,0,SPAL,2019-12-01 Inter-SPAL,ITA-SERIA_A,19-20,c0bac5fc
+de045b15,Francesco Vicari,23,ITA,CB,25-120,90,0,0,0,0,0,0,0,0,45,0,0,2,0.0,0.0,0.0,1,0,33,34,97.1,2,20,0,0,0,SPAL,2019-12-01 Inter-SPAL,ITA-SERIA_A,19-20,c0bac5fc
+6aafdc27,Nenad Tomović,40,SRB,CB,32-093,90,0,0,0,0,1,0,0,0,73,2,1,1,0.4,0.4,0.0,2,0,54,63,85.7,7,41,5,2,1,SPAL,2019-12-01 Inter-SPAL,ITA-SERIA_A,19-20,c0bac5fc
+ee833569,Etrit Berisha,99,ALB,GK,30-266,90,0,0,0,0,0,0,0,0,45,1,0,0,0.0,0.0,0.0,0,0,29,38,76.3,0,23,0,0,0,SPAL,2019-12-01 Inter-SPAL,ITA-SERIA_A,19-20,c0bac5fc

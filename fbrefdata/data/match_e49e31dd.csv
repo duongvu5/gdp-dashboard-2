@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+ce50fd99,Jonathan David,9,CAN,FW,22-282,90,0,1,0,0,4,0,0,0,39,0,0,0,0.5,0.5,0.3,6,3,25,31,80.6,3,29,2,2,2,Lille,2022-10-23 Lille-Monaco,FRA-L1,22-23,e49e31dd
+b2bd0f6c,Jonathan Bamba,7,CIV,LW,26-211,90,1,0,0,0,4,2,1,0,60,0,2,2,0.2,0.2,0.1,3,1,38,48,79.2,7,49,2,1,0,Lille,2022-10-23 Lille-Monaco,FRA-L1,22-23,e49e31dd
+ed90babd,Adam Ounas,11,ALG,RW,25-346,65,0,1,0,0,3,0,0,0,32,1,0,1,0.2,0.2,0.4,6,1,18,24,75.0,3,21,6,6,3,Lille,2022-10-23 Lille-Monaco,FRA-L1,22-23,e49e31dd
+8eec784d,Timothy Weah,22,USA,RW,22-243,25,0,0,0,0,2,1,0,0,13,0,1,0,0.2,0.2,0.0,1,0,8,10,80.0,2,10,1,0,0,Lille,2022-10-23 Lille-Monaco,FRA-L1,22-23,e49e31dd
+148e136f,Rémy Cabella,10,FRA,AM,32-229,89,2,0,0,0,2,2,0,0,49,3,0,0,1.2,1.2,0.2,2,0,34,42,81.0,6,36,3,1,0,Lille,2022-10-23 Lille-Monaco,FRA-L1,22-23,e49e31dd
+01870104,Mohamed Lamine Bayo,27,GUI,AM,24-141,1,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.1,1,0,1,2,50.0,1,2,0,0,0,Lille,2022-10-23 Lille-Monaco,FRA-L1,22-23,e49e31dd
+645a3363,Angel Gomes,20,ENG,DM,22-053,81,0,1,0,0,0,0,0,0,57,1,0,1,0.0,0.0,0.1,5,1,49,53,92.5,3,52,1,0,0,Lille,2022-10-23 Lille-Monaco,FRA-L1,22-23,e49e31dd
+a1390d2f,Carlos Baleba,35,CMR,DM,18-293,9,0,0,0,0,1,0,0,0,8,0,0,0,0.0,0.0,0.0,1,0,4,5,80.0,0,5,1,2,2,Lille,2022-10-23 Lille-Monaco,FRA-L1,22-23,e49e31dd
+1961b2aa,André Gomes,28,POR,DM,29-085,90,0,0,0,0,0,0,0,0,88,2,0,0,0.0,0.0,0.2,5,1,69,80,86.3,9,73,1,0,0,Lille,2022-10-23 Lille-Monaco,FRA-L1,22-23,e49e31dd
+cf182add,Ismaily,31,BRA,LB,32-285,90,0,0,0,0,0,0,0,0,60,1,0,0,0.0,0.0,0.1,2,0,41,54,75.9,3,36,2,0,0,Lille,2022-10-23 Lille-Monaco,FRA-L1,22-23,e49e31dd
+102c9665,Alexsandro Ribeiro,4,BRA,CB,23-075,90,1,0,0,0,1,1,0,0,57,3,1,0,0.2,0.2,0.0,0,0,39,45,86.7,1,36,0,0,0,Lille,2022-10-23 Lille-Monaco,FRA-L1,22-23,e49e31dd
+b2336681,Tiago Djaló,3,POR,CB,22-197,90,0,0,0,0,1,0,0,0,57,1,0,1,0.1,0.1,0.0,3,0,44,48,91.7,1,43,0,0,0,Lille,2022-10-23 Lille-Monaco,FRA-L1,22-23,e49e31dd
+1bfb6fef,Bafodé Diakité,18,FRA,RB,21-290,90,0,0,0,0,2,1,0,0,60,1,0,2,0.1,0.1,0.0,2,0,42,53,79.2,4,36,0,2,1,Lille,2022-10-23 Lille-Monaco,FRA-L1,22-23,e49e31dd
+b3d76d84,Lucas Chevalier,30,FRA,GK,20-351,90,0,0,0,0,0,0,0,0,41,0,0,0,0.0,0.0,0.0,0,0,25,38,65.8,0,33,0,0,0,Lille,2022-10-23 Lille-Monaco,FRA-L1,22-23,e49e31dd
+0b4f388a,Breel Embolo,36,SUI,FW,25-251,76,0,0,0,0,1,0,0,0,14,0,0,1,0.1,0.1,0.1,3,1,4,8,50.0,1,5,0,3,0,Monaco,2022-10-23 Lille-Monaco,FRA-L1,22-23,e49e31dd
+64f69877,Kevin Volland,31,GER,FW,30-085,14,0,0,0,0,0,0,0,0,7,1,0,0,0.0,0.0,0.0,0,0,3,5,60.0,0,7,0,1,0,Monaco,2022-10-23 Lille-Monaco,FRA-L1,22-23,e49e31dd
+942b4f90,Wissam Ben Yedder,10,FRA,FW,32-072,90,1,1,0,0,2,1,0,0,29,1,1,4,0.3,0.3,0.3,3,2,16,22,72.7,3,22,2,0,0,Monaco,2022-10-23 Lille-Monaco,FRA-L1,22-23,e49e31dd
+3708e9fa,Aleksandr Golovin,17,RUS,LM,26-146,90,0,0,0,0,2,1,0,0,41,1,1,2,0.1,0.1,0.0,2,0,17,33,51.5,4,28,4,1,0,Monaco,2022-10-23 Lille-Monaco,FRA-L1,22-23,e49e31dd
+822d51d7,Youssouf Fofana,19,FRA,CM,23-286,90,0,0,0,0,0,0,0,0,47,3,0,1,0.0,0.0,0.0,4,1,24,34,70.6,8,31,2,5,4,Monaco,2022-10-23 Lille-Monaco,FRA-L1,22-23,e49e31dd
+15944afd,Eliot Matazo,15,BEL,CM,20-250,81,0,0,0,0,0,0,1,0,31,0,1,1,0.0,0.0,0.0,0,0,24,28,85.7,2,23,0,1,0,Monaco,2022-10-23 Lille-Monaco,FRA-L1,22-23,e49e31dd
+a99138af,Jean Lucas,11,BRA,CM,24-123,9,0,0,0,0,0,0,0,0,5,1,0,1,0.0,0.0,0.0,0,0,2,3,66.7,1,3,0,0,0,Monaco,2022-10-23 Lille-Monaco,FRA-L1,22-23,e49e31dd
+8104e41e,Krépin Diatta,27,SEN,RM,23-240,81,0,0,0,0,1,1,0,0,40,0,0,4,0.2,0.2,0.0,1,0,27,30,90.0,5,27,1,1,0,Monaco,2022-10-23 Lille-Monaco,FRA-L1,22-23,e49e31dd
+a0415710,Ismail Jakobs,14,SEN,RM,23-067,9,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,3,6,50.0,0,4,1,0,0,Monaco,2022-10-23 Lille-Monaco,FRA-L1,22-23,e49e31dd
+30af8b93,Caio Henrique Oliveira Silva,12,BRA,LB,25-084,90,1,0,0,0,1,1,0,0,42,2,1,0,0.0,0.0,0.1,1,0,28,36,77.8,4,24,0,0,0,Monaco,2022-10-23 Lille-Monaco,FRA-L1,22-23,e49e31dd
+06df8256,Benoît Badiashile,5,FRA,CB,21-211,90,0,0,0,0,0,0,1,0,43,0,1,0,0.0,0.0,0.0,0,0,29,38,76.3,0,31,0,0,0,Monaco,2022-10-23 Lille-Monaco,FRA-L1,22-23,e49e31dd
+ad82197c,Axel Disasi,6,FRA,CB,24-226,90,1,0,0,0,1,1,0,0,45,0,2,2,0.3,0.3,0.0,1,0,29,39,74.4,3,35,0,0,0,Monaco,2022-10-23 Lille-Monaco,FRA-L1,22-23,e49e31dd
+ee45fd85,Vanderson,2,BRA,RB,21-124,90,0,0,0,0,1,1,0,0,68,3,1,6,0.0,0.0,0.0,1,1,40,54,74.1,3,37,1,1,0,Monaco,2022-10-23 Lille-Monaco,FRA-L1,22-23,e49e31dd
+afb0c500,Alexander Nübel,16,GER,GK,26-023,90,0,0,0,0,0,0,0,0,36,0,1,0,0.0,0.0,0.0,1,0,21,33,63.6,0,21,0,0,0,Monaco,2022-10-23 Lille-Monaco,FRA-L1,22-23,e49e31dd

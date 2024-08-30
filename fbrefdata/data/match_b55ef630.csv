@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+8d78e732,Robert Lewandowski,9,POL,FW,32-274,90,1,0,0,0,10,5,0,0,38,0,0,0,2.1,2.1,0.4,11,2,22,25,88.0,3,23,1,2,2,Bayern Munich,2021-05-22 Bayern Munich-Augsburg,GER-BL1,20-21,b55ef630
+88e357ef,Serge Gnabry,7,GER,LW,25-312,59,1,0,0,0,2,2,0,0,44,0,0,0,0.8,0.8,0.4,3,0,29,38,76.3,3,25,3,0,0,Bayern Munich,2021-05-22 Bayern Munich-Augsburg,GER-BL1,20-21,b55ef630
+2b114be3,Leroy Sané,10,GER,LW,25-131,31,0,0,0,0,2,1,0,0,29,0,1,0,0.1,0.1,0.5,2,1,16,21,76.2,3,23,1,3,3,Bayern Munich,2021-05-22 Bayern Munich-Augsburg,GER-BL1,20-21,b55ef630
+042e8a49,Kingsley Coman,29,FRA,RW,24-343,60,1,1,0,0,3,1,0,0,39,0,0,0,0.8,0.8,0.1,6,3,26,30,86.7,7,28,3,6,2,Bayern Munich,2021-05-22 Bayern Munich-Augsburg,GER-BL1,20-21,b55ef630
+2c0558b8,Jamal Musiala,42,GER,RW,18-085,30,0,0,0,0,1,0,0,0,19,1,0,0,0.1,0.1,0.1,0,0,9,11,81.8,0,10,1,2,0,Bayern Munich,2021-05-22 Bayern Munich-Augsburg,GER-BL1,20-21,b55ef630
+3c6089ab,Thomas Müller,25,GER,AM,31-251,71,0,0,0,0,0,0,0,0,47,1,1,1,0.0,0.0,0.1,3,0,26,40,65.0,4,18,1,1,0,Bayern Munich,2021-05-22 Bayern Munich-Augsburg,GER-BL1,20-21,b55ef630
+0e6bc38c,Eric Maxim Choupo-Moting,13,CMR,AM,32-060,19,0,0,0,0,1,1,0,0,15,0,0,0,0.5,0.5,0.1,3,0,11,12,91.7,2,11,2,2,2,Bayern Munich,2021-05-22 Bayern Munich-Augsburg,GER-BL1,20-21,b55ef630
+05439de2,David Alaba,27,AUT,DM,28-332,72,0,1,0,0,4,2,0,0,69,0,0,0,0.5,0.5,0.3,3,1,46,62,74.2,8,42,2,0,0,Bayern Munich,2021-05-22 Bayern Munich-Augsburg,GER-BL1,20-21,b55ef630
+652d4c37,Corentin Tolisso,24,FRA,DM,26-292,18,0,0,0,0,1,0,0,0,27,0,0,1,0.1,0.1,0.1,3,0,18,22,81.8,1,11,0,1,0,Bayern Munich,2021-05-22 Bayern Munich-Augsburg,GER-BL1,20-21,b55ef630
+49296448,Joshua Kimmich,6,GER,DM,26-103,90,1,0,0,0,1,1,0,0,102,1,0,2,0.0,0.0,0.2,6,0,80,95,84.2,17,60,3,3,1,Bayern Munich,2021-05-22 Bayern Munich-Augsburg,GER-BL1,20-21,b55ef630
+d781d855,Alphonso Davies,19,CAN,LB,20-201,90,0,0,0,0,0,0,0,0,98,4,0,0,0.0,0.0,0.3,3,0,82,88,93.2,11,52,3,6,5,Bayern Munich,2021-05-22 Bayern Munich-Augsburg,GER-BL1,20-21,b55ef630
+c3ee18ef,Lucas Hernández,21,FRA,CB,25-097,90,0,0,0,0,1,0,1,0,69,0,0,1,0.0,0.0,0.0,1,0,61,66,92.4,9,39,0,4,3,Bayern Munich,2021-05-22 Bayern Munich-Augsburg,GER-BL1,20-21,b55ef630
+2db2fd7b,Jérôme Boateng,17,GER,CB,32-261,60,0,0,0,0,0,0,0,0,43,0,1,0,0.0,0.0,0.0,0,0,37,41,90.2,5,31,0,0,0,Bayern Munich,2021-05-22 Bayern Munich-Augsburg,GER-BL1,20-21,b55ef630
+7f97771d,Javi Martínez,8,ESP,CB,32-262,30,0,0,0,0,0,0,0,0,18,1,0,1,0.0,0.0,0.0,0,0,13,15,86.7,2,10,1,0,0,Bayern Munich,2021-05-22 Bayern Munich-Augsburg,GER-BL1,20-21,b55ef630
+45a03961,Benjamin Pavard,5,FRA,RB,25-055,90,0,0,0,0,0,0,0,0,86,2,0,0,0.0,0.0,0.1,1,0,68,81,84.0,9,45,7,2,1,Bayern Munich,2021-05-22 Bayern Munich-Augsburg,GER-BL1,20-21,b55ef630
+8778c910,Manuel Neuer,1,GER,GK,35-056,90,0,0,0,0,0,0,0,0,34,0,0,0,0.0,0.0,0.0,1,0,28,31,90.3,1,12,0,0,0,Bayern Munich,2021-05-22 Bayern Munich-Augsburg,GER-BL1,20-21,b55ef630
+d6862409,Florian Niederlechner,7,GER,FW,30-210,75,1,0,0,0,2,1,0,0,24,0,1,0,0.9,0.9,0.0,3,1,9,16,56.3,2,14,0,4,3,Augsburg,2021-05-22 Bayern Munich-Augsburg,GER-BL1,20-21,b55ef630
+f9e7c4ac,Alfreð Finnbogason,27,ISL,FW,32-110,15,0,0,0,0,0,0,0,0,7,0,0,1,0.0,0.0,0.0,0,0,3,6,50.0,0,4,0,0,0,Augsburg,2021-05-22 Bayern Munich-Augsburg,GER-BL1,20-21,b55ef630
+d1273f09,Daniel Caligiuri,20,ITA,LW,33-127,44,0,0,0,1,1,1,0,0,20,0,0,1,0.8,0.1,0.0,0,0,5,13,38.5,3,12,1,3,2,Augsburg,2021-05-22 Bayern Munich-Augsburg,GER-BL1,20-21,b55ef630
+c5224618,Marek Suchý,5,CZE,CB,33-054,46,0,0,0,0,0,0,1,0,4,0,0,1,0.0,0.0,0.0,0,0,3,3,100.0,0,2,0,0,0,Augsburg,2021-05-22 Bayern Munich-Augsburg,GER-BL1,20-21,b55ef630
+cd82452e,André Hahn,28,GER,"RW,AM",30-282,86,1,1,0,0,2,1,0,0,29,1,0,1,0.1,0.1,0.8,1,1,11,15,73.3,2,23,1,6,3,Augsburg,2021-05-22 Bayern Munich-Augsburg,GER-BL1,20-21,b55ef630
+f503ef6e,Lukas Petkov,45,BUL,AM,20-202,4,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,2,0,0,0,Augsburg,2021-05-22 Bayern Munich-Augsburg,GER-BL1,20-21,b55ef630
+f972644c,Marco Richter,23,GER,AM,23-179,66,0,0,0,0,2,0,0,0,42,3,1,1,0.1,0.1,0.0,3,1,19,30,63.3,2,25,4,2,1,Augsburg,2021-05-22 Bayern Munich-Augsburg,GER-BL1,20-21,b55ef630
+3eeb80e0,Fredrik Jensen,24,FIN,AM,23-255,24,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,2,4,50.0,0,5,0,0,0,Augsburg,2021-05-22 Bayern Munich-Augsburg,GER-BL1,20-21,b55ef630
+f2dd9a21,Carlos Gruezo,25,ECU,"CM,DM",26-033,90,0,0,0,0,0,0,0,0,41,2,1,2,0.0,0.0,0.0,1,0,21,30,70.0,5,18,0,0,0,Augsburg,2021-05-22 Bayern Munich-Augsburg,GER-BL1,20-21,b55ef630
+fe888e39,László Bénes,18,SVK,"CM,DM",23-255,90,0,1,0,0,0,0,0,0,46,2,1,2,0.0,0.0,0.1,4,1,28,40,70.0,6,23,0,0,0,Augsburg,2021-05-22 Bayern Munich-Augsburg,GER-BL1,20-21,b55ef630
+582a5247,Mads Pedersen,3,DEN,LB,24-263,44,0,0,0,0,0,0,0,0,22,1,1,1,0.0,0.0,0.0,0,0,8,12,66.7,0,8,0,1,1,Augsburg,2021-05-22 Bayern Munich-Augsburg,GER-BL1,20-21,b55ef630
+626fab5f,Raphael Framberger,32,GER,WB,25-258,46,0,0,0,0,0,0,0,0,23,1,1,1,0.0,0.0,0.0,1,0,9,14,64.3,0,11,1,1,0,Augsburg,2021-05-22 Bayern Munich-Augsburg,GER-BL1,20-21,b55ef630
+8b6e0db2,Reece Oxford,36,ENG,CB,22-157,90,0,0,0,0,0,0,0,0,30,2,2,1,0.0,0.0,0.0,0,0,11,15,73.3,2,13,0,0,0,Augsburg,2021-05-22 Bayern Munich-Augsburg,GER-BL1,20-21,b55ef630
+1025db8e,Jeffrey Gouweleeuw,6,NED,CB,29-316,90,0,0,0,0,1,0,0,0,40,2,2,0,0.0,0.0,0.2,2,0,21,26,80.8,3,17,2,0,0,Augsburg,2021-05-22 Bayern Munich-Augsburg,GER-BL1,20-21,b55ef630
+1df0c0b9,Robert Gumny,2,POL,"WB,RB",22-352,90,0,0,0,0,0,0,0,0,40,3,0,0,0.0,0.0,0.1,1,0,19,29,65.5,0,17,0,0,0,Augsburg,2021-05-22 Bayern Munich-Augsburg,GER-BL1,20-21,b55ef630
+17376543,Rafał Gikiewicz,1,POL,GK,33-208,90,0,0,0,0,0,0,0,0,40,0,1,0,0.0,0.0,0.0,0,0,20,30,66.7,0,15,0,0,0,Augsburg,2021-05-22 Bayern Munich-Augsburg,GER-BL1,20-21,b55ef630

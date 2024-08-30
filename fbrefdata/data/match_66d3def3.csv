@@ -1,0 +1,29 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+3d50bcdb,Moise Kean,18,ITA,FW,19-064,90,0,0,0,0,4,1,0,0,21,0,0,0,0.2,0.2,0.1,3,0,5,11,45.5,0,15,4,2,1,Juventus,2019-05-03 Juventus-Torino,ITA-SERIA_A,18-19,66d3def3
+dea698d9,Cristiano Ronaldo,7,POR,FW,34-087,90,1,0,0,0,5,2,0,0,44,1,0,0,0.8,0.8,0.1,4,0,26,32,81.3,2,34,5,1,0,Juventus,2019-05-03 Juventus-Torino,ITA-SERIA_A,18-19,66d3def3
+ee93c1a9,Federico Bernardeschi,33,ITA,"LM,RM",25-076,84,0,0,0,0,1,0,1,0,46,0,0,1,0.1,0.1,0.1,2,0,27,38,71.1,1,31,2,3,2,Juventus,2019-05-03 Juventus-Torino,ITA-SERIA_A,18-19,66d3def3
+ae4e2852,Mattia De Sciglio,2,ITA,RB,26-195,6,0,0,0,0,0,0,0,0,12,1,0,0,0.0,0.0,0.0,0,0,6,10,60.0,0,5,1,0,0,Juventus,2019-05-03 Juventus-Torino,ITA-SERIA_A,18-19,66d3def3
+c0cddebe,Blaise Matuidi,14,FRA,CM,32-024,90,0,0,0,0,1,1,1,0,56,4,0,1,0.1,0.1,0.0,2,0,40,49,81.6,8,29,2,0,0,Juventus,2019-05-03 Juventus-Torino,ITA-SERIA_A,18-19,66d3def3
+ad6df2d5,Miralem Pjanić,5,BIH,CM,29-031,90,0,0,0,0,0,0,0,0,68,0,0,3,0.0,0.0,0.5,3,0,52,61,85.2,6,37,2,2,2,Juventus,2019-05-03 Juventus-Torino,ITA-SERIA_A,18-19,66d3def3
+0ab1f153,Juan Cuadrado,16,COL,RM,30-342,77,0,0,0,0,3,0,0,0,56,1,1,0,0.3,0.3,0.1,4,0,36,46,78.3,6,38,2,2,2,Juventus,2019-05-03 Juventus-Torino,ITA-SERIA_A,18-19,66d3def3
+bef22bc4,Matheus Pereira da Silva,35,BRA,LM,21-067,13,0,0,0,0,0,0,0,0,12,1,0,0,0.0,0.0,0.0,1,1,8,10,80.0,2,5,0,0,0,Juventus,2019-05-03 Juventus-Torino,ITA-SERIA_A,18-19,66d3def3
+3626daea,Leonardo Spinazzola,37,ITA,LB,26-039,90,0,1,0,0,2,0,0,0,77,0,0,2,0.1,0.1,0.6,5,1,46,65,70.8,6,51,19,5,4,Juventus,2019-05-03 Juventus-Torino,ITA-SERIA_A,18-19,66d3def3
+e85fb9b8,Giorgio Chiellini,3,ITA,CB,34-262,90,0,0,0,0,0,0,0,0,73,6,2,1,0.0,0.0,0.1,3,0,49,60,81.7,8,39,2,1,1,Juventus,2019-05-03 Juventus-Torino,ITA-SERIA_A,18-19,66d3def3
+52ec54d0,Leonardo Bonucci,19,ITA,CB,32-002,90,0,0,0,0,0,0,1,0,54,0,2,0,0.0,0.0,0.0,1,0,38,49,77.6,2,26,0,1,1,Juventus,2019-05-03 Juventus-Torino,ITA-SERIA_A,18-19,66d3def3
+bd6351cd,João Cancelo,20,POR,"RB,RM",24-341,90,0,0,0,0,0,0,0,0,94,1,2,1,0.0,0.0,0.0,3,0,63,85,74.1,12,51,11,2,2,Juventus,2019-05-03 Juventus-Torino,ITA-SERIA_A,18-19,66d3def3
+01b8a2b2,Wojciech Szczęsny,1,POL,GK,29-015,90,0,0,0,0,0,0,0,0,28,0,0,0,0.0,0.0,0.0,0,0,21,26,80.8,0,12,0,0,0,Juventus,2019-05-03 Juventus-Torino,ITA-SERIA_A,18-19,66d3def3
+dc1c2fce,Álex Berenguer,21,ESP,FW,23-303,69,0,0,0,0,2,0,0,0,29,1,0,0,0.1,0.1,0.1,4,0,18,24,75.0,1,23,3,3,3,Torino,2019-05-03 Juventus-Torino,ITA-SERIA_A,18-19,66d3def3
+ea06dd97,Daniele Baselli,8,ITA,"AM,FW,CM",27-052,21,0,0,0,0,0,0,0,0,9,0,1,0,0.0,0.0,0.1,1,0,6,6,100.0,1,3,0,0,0,Torino,2019-05-03 Juventus-Torino,ITA-SERIA_A,18-19,66d3def3
+d705ba44,Andrea Belotti,9,ITA,FW,25-134,90,0,0,0,0,4,1,0,0,36,0,1,1,0.2,0.2,0.0,2,0,13,20,65.0,2,28,4,2,0,Torino,2019-05-03 Juventus-Torino,ITA-SERIA_A,18-19,66d3def3
+c6e8cf1f,Saša Lukić,7,SRB,CM,22-263,78,1,0,0,0,2,1,1,0,33,0,0,0,0.3,0.3,0.0,0,0,21,25,84.0,1,19,1,2,2,Torino,2019-05-03 Juventus-Torino,ITA-SERIA_A,18-19,66d3def3
+246d153b,Ola Aina,34,NGA,"AM,WB",22-207,12,0,0,0,0,1,0,0,0,8,0,1,0,0.0,0.0,0.0,2,0,2,5,40.0,0,3,1,3,2,Torino,2019-05-03 Juventus-Torino,ITA-SERIA_A,18-19,66d3def3
+f1cfc209,Tomás Rincón,88,VEN,CM,31-110,90,0,0,0,0,0,0,1,0,50,4,1,0,0.0,0.0,0.0,0,0,35,46,76.1,2,23,0,1,1,Torino,2019-05-03 Juventus-Torino,ITA-SERIA_A,18-19,66d3def3
+5cec2c74,Soualiho Meïté,23,FRA,CM,25-047,90,0,0,0,0,0,0,0,0,52,1,2,3,0.0,0.0,0.1,2,0,28,41,68.3,6,21,1,1,1,Torino,2019-05-03 Juventus-Torino,ITA-SERIA_A,18-19,66d3def3
+bbafc0c4,Cristian Ansaldi,15,ARG,WB,32-225,90,0,0,0,0,1,0,0,0,53,1,2,1,0.0,0.0,0.0,3,0,29,42,69.0,5,31,3,6,5,Torino,2019-05-03 Juventus-Torino,ITA-SERIA_A,18-19,66d3def3
+e74f0e59,Lorenzo De Silvestri,29,ITA,WB,30-345,88,0,0,0,0,0,0,0,0,55,1,1,1,0.0,0.0,0.1,1,0,36,43,83.7,4,21,3,0,0,Torino,2019-05-03 Juventus-Torino,ITA-SERIA_A,18-19,66d3def3
+9592289a,Simone Zaza,11,ITA,"FW,WB",27-312,2,0,0,0,0,0,0,0,0,3,1,0,0,0.0,0.0,0.0,0,0,0,3,0.0,0,1,0,0,0,Torino,2019-05-03 Juventus-Torino,ITA-SERIA_A,18-19,66d3def3
+5fd5ed86,Gleison Bremer,36,BRA,CB,22-046,90,0,0,0,0,1,0,1,0,40,3,5,1,0.0,0.0,0.0,1,0,19,26,73.1,3,11,0,0,0,Torino,2019-05-03 Juventus-Torino,ITA-SERIA_A,18-19,66d3def3
+93cf32a8,Nicolas Nkoulou,33,CMR,CB,29-037,90,0,0,0,0,0,0,0,0,43,0,2,2,0.0,0.0,0.0,0,0,26,32,81.3,1,16,0,0,0,Torino,2019-05-03 Juventus-Torino,ITA-SERIA_A,18-19,66d3def3
+89976232,Armando Izzo,5,ITA,CB,27-062,90,0,0,0,0,0,0,0,0,55,1,9,3,0.0,0.0,0.0,1,0,26,35,74.3,4,22,1,1,1,Torino,2019-05-03 Juventus-Torino,ITA-SERIA_A,18-19,66d3def3
+10dc46f0,Salvatore Sirigu,39,ITA,GK,32-111,90,0,0,0,0,0,0,0,0,40,0,1,0,0.0,0.0,0.0,1,0,16,38,42.1,0,14,0,0,0,Torino,2019-05-03 Juventus-Torino,ITA-SERIA_A,18-19,66d3def3

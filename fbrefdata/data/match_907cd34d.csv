@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+683dec01,Burak İnce,17,TUR,FW,18-100,65,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,1,0,9,9,100.0,1,5,0,0,0,Arminia,2022-04-30 Arminia-Hertha BSC,GER-BL1,21-22,907cd34d
+40b58bfc,Janni Serra,23,GER,FW,24-048,25,0,0,0,0,1,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,1,0,0,0,0,Arminia,2022-04-30 Arminia-Hertha BSC,GER-BL1,21-22,907cd34d
+63b9cc6d,Masaya Okugawa,11,JPN,"LW,CM",26-016,90,0,0,0,0,0,0,0,0,23,3,3,2,0.0,0.0,0.0,0,0,8,13,61.5,3,8,2,1,1,Arminia,2022-04-30 Arminia-Hertha BSC,GER-BL1,21-22,907cd34d
+cb11b429,Patrick Wimmer,20,AUT,"RW,CM",20-335,90,0,0,0,0,0,0,1,0,44,1,0,0,0.0,0.0,0.3,4,1,20,37,54.1,2,18,2,4,2,Arminia,2022-04-30 Arminia-Hertha BSC,GER-BL1,21-22,907cd34d
+68829001,Gonzalo Castro,7,GER,"AM,DM",34-323,82,0,0,0,0,2,0,0,0,36,2,0,0,0.3,0.3,0.0,1,0,23,33,69.7,1,18,1,2,2,Arminia,2022-04-30 Arminia-Hertha BSC,GER-BL1,21-22,907cd34d
+0174ba21,Robin Hack,21,GER,RM,23-246,8,0,1,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.2,1,1,3,6,50.0,2,4,0,1,0,Arminia,2022-04-30 Arminia-Hertha BSC,GER-BL1,21-22,907cd34d
+d25fee56,Fabian Kunze,16,GER,DM,23-320,90,0,0,0,0,1,0,1,0,59,3,1,0,0.0,0.0,0.0,0,0,40,50,80.0,5,36,0,1,0,Arminia,2022-04-30 Arminia-Hertha BSC,GER-BL1,21-22,907cd34d
+901c0f97,Manuel Prietl,19,AUT,DM,30-270,65,0,0,0,0,0,0,0,0,32,1,2,2,0.0,0.0,0.0,0,0,20,23,87.0,1,17,0,0,0,Arminia,2022-04-30 Arminia-Hertha BSC,GER-BL1,21-22,907cd34d
+f9f92b5f,Florian Krüger,18,GER,"AM,LM",23-076,25,0,0,0,0,0,0,0,0,12,0,0,0,0.0,0.0,0.0,0,0,6,7,85.7,1,9,0,1,0,Arminia,2022-04-30 Arminia-Hertha BSC,GER-BL1,21-22,907cd34d
+c0d3bd23,Jacob Barrett Laursen,5,DEN,LB,27-164,71,0,0,0,0,0,0,0,0,49,0,2,2,0.0,0.0,0.0,0,0,25,41,61.0,1,16,2,0,0,Arminia,2022-04-30 Arminia-Hertha BSC,GER-BL1,21-22,907cd34d
+aca0a525,George Bello,24,USA,LB,20-098,19,0,0,0,0,1,0,0,0,14,1,0,0,0.0,0.0,0.0,0,0,4,7,57.1,0,6,0,1,0,Arminia,2022-04-30 Arminia-Hertha BSC,GER-BL1,21-22,907cd34d
+c562c5b4,Joakim Nilsson,4,SWE,CB,28-083,90,1,0,0,0,1,1,0,0,85,1,0,1,0.2,0.2,0.0,2,0,72,78,92.3,8,57,3,0,0,Arminia,2022-04-30 Arminia-Hertha BSC,GER-BL1,21-22,907cd34d
+df9c3473,Guilherme Ramos,3,POR,CB,24-262,90,0,0,0,0,1,0,0,0,108,4,2,0,0.0,0.0,0.0,1,0,72,93,77.4,4,67,1,0,0,Arminia,2022-04-30 Arminia-Hertha BSC,GER-BL1,21-22,907cd34d
+d686dbc0,Nathan de Medina,15,BEL,RB,24-204,90,0,0,0,0,0,0,1,0,51,3,1,2,0.0,0.0,0.0,0,0,23,39,59.0,1,19,1,1,0,Arminia,2022-04-30 Arminia-Hertha BSC,GER-BL1,21-22,907cd34d
+c1242d4e,Stefan Ortega,1,GER,GK,29-175,90,0,0,0,0,0,0,0,0,85,0,0,0,0.0,0.0,0.0,1,0,71,85,83.5,0,64,0,0,0,Arminia,2022-04-30 Arminia-Hertha BSC,GER-BL1,21-22,907cd34d
+1238a3f9,Davie Selke,7,GER,FW,27-100,77,0,0,0,0,2,2,0,0,30,0,0,1,0.7,0.7,0.0,1,0,12,22,54.5,0,13,0,0,0,Hertha BSC,2022-04-30 Arminia-Hertha BSC,GER-BL1,21-22,907cd34d
+24b8e7bd,Luca Wollschläger,24,GER,FW,19-081,13,0,0,0,0,0,0,0,0,8,1,0,0,0.0,0.0,0.1,1,0,4,5,80.0,1,7,1,1,0,Hertha BSC,2022-04-30 Arminia-Hertha BSC,GER-BL1,21-22,907cd34d
+b3325a30,Suat Serdar,8,GER,"LW,LM",25-019,84,0,0,0,0,2,1,0,0,41,1,1,1,0.1,0.1,0.1,4,1,14,24,58.3,5,20,2,4,1,Hertha BSC,2022-04-30 Arminia-Hertha BSC,GER-BL1,21-22,907cd34d
+88d4144a,Maximilian Mittelstädt,17,GER,LM,25-043,6,0,0,0,0,0,0,0,0,15,2,1,0,0.0,0.0,0.0,1,0,5,11,45.5,2,5,1,1,1,Hertha BSC,2022-04-30 Arminia-Hertha BSC,GER-BL1,21-22,907cd34d
+f972644c,Marco Richter,23,GER,"RW,RM",24-157,77,0,0,0,0,2,0,1,0,36,3,0,3,0.1,0.1,0.0,1,0,12,19,63.2,1,17,1,1,1,Hertha BSC,2022-04-30 Arminia-Hertha BSC,GER-BL1,21-22,907cd34d
+ad2b068c,Linus Gechter,44,GER,CM,18-062,13,0,0,0,0,0,0,0,0,6,1,0,0,0.0,0.0,0.0,0,0,3,5,60.0,0,3,0,0,0,Hertha BSC,2022-04-30 Arminia-Hertha BSC,GER-BL1,21-22,907cd34d
+f4ec4fd0,Kevin-Prince Boateng,27,GHA,AM,35-055,70,0,0,0,0,0,0,0,0,42,1,0,2,0.0,0.0,0.0,3,0,23,36,63.9,4,22,0,1,1,Hertha BSC,2022-04-30 Arminia-Hertha BSC,GER-BL1,21-22,907cd34d
+aad48be9,Niklas Stark,5,GER,DM,27-016,20,0,0,0,0,1,1,0,0,13,1,1,1,0.1,0.1,0.0,0,0,6,8,75.0,2,2,0,0,0,Hertha BSC,2022-04-30 Arminia-Hertha BSC,GER-BL1,21-22,907cd34d
+e26fcca3,Santiago Ascacíbar,18,ARG,"DM,CM",25-064,90,0,0,0,0,1,0,0,0,46,5,2,0,0.1,0.1,0.0,2,0,34,36,94.4,7,20,1,0,0,Hertha BSC,2022-04-30 Arminia-Hertha BSC,GER-BL1,21-22,907cd34d
+71ec39ef,Lucas Tousart,29,FRA,"DM,CM",25-001,90,1,0,0,0,2,1,0,0,53,3,1,3,0.4,0.4,0.0,0,0,22,30,73.3,5,22,1,2,1,Hertha BSC,2022-04-30 Arminia-Hertha BSC,GER-BL1,21-22,907cd34d
+f7aa75bd,Marvin Plattenhardt,21,GER,LB,30-094,70,0,1,0,0,0,0,0,0,46,1,0,2,0.0,0.0,1.0,3,1,26,41,63.4,1,18,2,1,0,Hertha BSC,2022-04-30 Arminia-Hertha BSC,GER-BL1,21-22,907cd34d
+3724baa1,Fredrik André Bjørkan,3,NOR,LB,23-252,20,0,0,0,0,0,0,0,0,20,1,3,0,0.0,0.0,0.0,2,0,12,14,85.7,5,12,2,3,1,Hertha BSC,2022-04-30 Arminia-Hertha BSC,GER-BL1,21-22,907cd34d
+815c314f,Marc-Oliver Kempf,20,GER,CB,27-092,90,0,0,0,0,0,0,0,0,51,0,1,1,0.0,0.0,0.0,0,0,28,40,70.0,1,21,0,0,0,Hertha BSC,2022-04-30 Arminia-Hertha BSC,GER-BL1,21-22,907cd34d
+7c473e12,Dedryck Boyata,4,BEL,CB,31-153,90,0,0,0,0,1,0,0,0,56,1,1,0,0.0,0.0,0.0,0,0,42,51,82.4,0,33,0,0,0,Hertha BSC,2022-04-30 Arminia-Hertha BSC,GER-BL1,21-22,907cd34d
+c18d22f5,Peter Pekarík,2,SVK,RB,35-182,90,0,0,0,0,0,0,0,0,58,3,2,0,0.0,0.0,0.1,3,0,38,51,74.5,3,20,2,0,0,Hertha BSC,2022-04-30 Arminia-Hertha BSC,GER-BL1,21-22,907cd34d
+5584552e,Marcel Lotka,37,POL,GK,20-340,90,0,0,0,0,0,0,0,0,36,0,0,0,0.0,0.0,0.0,0,0,24,35,68.6,0,22,0,0,0,Hertha BSC,2022-04-30 Arminia-Hertha BSC,GER-BL1,21-22,907cd34d

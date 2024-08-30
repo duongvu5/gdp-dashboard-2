@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+91f2da4c,Casimir Ninga,29,CHA,FW,24-192,62,1,0,0,0,1,1,0,0,18,0,0,2,0.4,0.4,0.0,4,0,9,13,69.2,0,11,1,1,1,Montpellier,2017-11-25 Montpellier-Lille,FRA-L1,17-18,f1f09705
+aa1a8c7e,Isaac Mbenza,18,BEL,FW,21-262,28,0,0,0,0,1,1,0,0,15,2,0,0,0.1,0.1,0.0,0,0,5,8,62.5,0,5,1,1,1,Montpellier,2017-11-25 Montpellier-Lille,FRA-L1,17-18,f1f09705
+0fe7f7bc,Giovanni Sio,14,CIV,FW,28-239,90,1,1,0,0,4,2,0,0,42,4,1,1,0.8,0.8,0.6,4,1,23,31,74.2,2,22,2,2,1,Montpellier,2017-11-25 Montpellier-Lille,FRA-L1,17-18,f1f09705
+35c5f9b1,Stéphane Sessègnon,28,BEN,AM,33-177,90,0,0,0,0,1,0,0,0,48,0,0,0,0.1,0.1,0.2,5,0,33,41,80.5,9,22,2,1,0,Montpellier,2017-11-25 Montpellier-Lille,FRA-L1,17-18,f1f09705
+542cc80f,Paul Lasne,7,FRA,CM,28-313,74,0,1,0,0,2,0,0,0,45,1,4,0,0.1,0.1,0.1,4,3,27,37,73.0,6,28,3,2,2,Montpellier,2017-11-25 Montpellier-Lille,FRA-L1,17-18,f1f09705
+fca455cc,Facundo Píriz,27,URU,CM,27-243,16,0,0,0,0,0,0,0,0,11,2,1,0,0.0,0.0,0.0,0,0,8,9,88.9,1,3,0,0,0,Montpellier,2017-11-25 Montpellier-Lille,FRA-L1,17-18,f1f09705
+c2211709,Ellyes Skhiri,13,TUN,CM,22-199,90,0,0,0,0,3,0,0,0,39,3,2,3,0.1,0.1,0.0,1,0,18,23,78.3,1,11,0,2,0,Montpellier,2017-11-25 Montpellier-Lille,FRA-L1,17-18,f1f09705
+13203c45,Jérôme Roussillon,24,FRA,WB,24-323,69,1,1,0,0,2,2,0,0,42,0,0,2,0.2,0.2,0.6,8,2,27,36,75.0,1,16,3,4,4,Montpellier,2017-11-25 Montpellier-Lille,FRA-L1,17-18,f1f09705
+8f325097,Nicolas Cozza,31,FRA,WB,18-321,21,0,0,0,0,1,0,0,0,18,4,1,0,0.0,0.0,0.0,1,0,10,14,71.4,0,9,2,1,1,Montpellier,2017-11-25 Montpellier-Lille,FRA-L1,17-18,f1f09705
+3dd738a1,Ruben Aguilar,2,FRA,WB,24-213,90,0,0,0,0,0,0,0,0,52,2,0,0,0.0,0.0,0.3,4,0,24,40,60.0,3,28,4,5,3,Montpellier,2017-11-25 Montpellier-Lille,FRA-L1,17-18,f1f09705
+6690ef25,Pedro Mendes,5,POR,CB,27-055,90,0,0,0,0,0,0,0,0,37,8,2,1,0.0,0.0,0.0,0,0,13,23,56.5,1,9,0,0,0,Montpellier,2017-11-25 Montpellier-Lille,FRA-L1,17-18,f1f09705
+c4bbea9f,Vitorino Hilton,4,BRA,CB,40-073,90,0,0,0,0,3,0,1,0,33,1,1,1,0.1,0.1,0.0,0,0,17,23,73.9,2,16,1,1,1,Montpellier,2017-11-25 Montpellier-Lille,FRA-L1,17-18,f1f09705
+ac73ec79,Nordi Mukiele,23,FRA,CB,20-024,90,0,0,0,0,0,0,0,0,54,5,3,0,0.0,0.0,0.1,4,0,31,40,77.5,2,27,0,0,0,Montpellier,2017-11-25 Montpellier-Lille,FRA-L1,17-18,f1f09705
+2fa2a875,Benjamin Lecomte,40,FRA,GK,26-213,90,0,0,0,0,0,0,0,0,41,0,0,0,0.0,0.0,0.0,0,0,31,38,81.6,0,30,0,0,0,Montpellier,2017-11-25 Montpellier-Lille,FRA-L1,17-18,f1f09705
+57e3f0c7,Nicolas Pépé,19,CIV,"RW,LW,FW",22-180,90,0,0,0,0,2,2,1,0,48,1,0,0,0.1,0.1,0.0,0,0,29,36,80.6,0,42,1,4,2,Lille,2017-11-25 Montpellier-Lille,FRA-L1,17-18,f1f09705
+ffa90327,Anwar El Ghazi,7,NED,LW,22-206,8,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,1,1,0,0,0,Lille,2017-11-25 Montpellier-Lille,FRA-L1,17-18,f1f09705
+6c203af0,Yves Bissouma,21,MLI,"AM,RW,LW",21-087,82,0,0,0,0,6,0,1,0,83,2,2,0,0.2,0.2,0.0,3,0,57,66,86.4,9,52,4,3,2,Lille,2017-11-25 Montpellier-Lille,FRA-L1,17-18,f1f09705
+fa18c72e,Luiz Araújo,11,BRA,"LW,RW",21-176,56,0,0,0,0,0,0,1,0,43,0,0,0,0.0,0.0,0.1,1,0,26,37,70.3,4,22,2,2,1,Lille,2017-11-25 Montpellier-Lille,FRA-L1,17-18,f1f09705
+ccbbe661,Ezequiel Ponce,9,ARG,FW,20-241,34,0,0,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.0,1,0,7,8,87.5,1,4,0,0,0,Lille,2017-11-25 Montpellier-Lille,FRA-L1,17-18,f1f09705
+6fbde63a,Yassine Benzia,10,ALG,"FW,AM",23-078,76,0,0,0,0,0,0,0,0,41,0,1,0,0.0,0.0,0.1,2,0,26,37,70.3,3,27,0,0,0,Lille,2017-11-25 Montpellier-Lille,FRA-L1,17-18,f1f09705
+776972d5,Farès Bahlouli,26,FRA,AM,22-231,14,0,0,0,0,0,0,0,0,17,1,0,1,0.0,0.0,0.0,1,0,8,11,72.7,1,12,2,3,2,Lille,2017-11-25 Montpellier-Lille,FRA-L1,17-18,f1f09705
+9260926b,Ibrahim Amadou,6,FRA,DM,24-233,90,0,0,0,0,0,0,0,0,73,1,5,1,0.0,0.0,0.0,1,0,59,66,89.4,2,38,1,0,0,Lille,2017-11-25 Montpellier-Lille,FRA-L1,17-18,f1f09705
+91e58f66,Thiago Maia,20,BRA,DM,20-247,90,0,0,0,0,0,0,0,0,78,1,1,1,0.0,0.0,0.0,2,0,59,72,81.9,9,45,1,2,1,Lille,2017-11-25 Montpellier-Lille,FRA-L1,17-18,f1f09705
+b18a3023,Júnior Alonso,3,PAR,LB,24-289,90,0,0,0,0,0,0,1,0,80,5,2,0,0.0,0.0,0.0,1,0,54,70,77.1,4,40,2,0,0,Lille,2017-11-25 Montpellier-Lille,FRA-L1,17-18,f1f09705
+7b075c75,Adama Soumaoro,5,FRA,CB,25-160,90,0,0,0,0,0,0,1,0,51,0,0,2,0.0,0.0,0.0,2,0,44,46,95.7,3,34,0,1,1,Lille,2017-11-25 Montpellier-Lille,FRA-L1,17-18,f1f09705
+3767b3b7,Edgar Ié,15,GNB,CB,23-208,90,0,0,0,0,1,1,1,0,58,1,3,2,0.0,0.0,0.0,1,0,47,51,92.2,3,29,0,0,0,Lille,2017-11-25 Montpellier-Lille,FRA-L1,17-18,f1f09705
+d6a889ea,Kévin Malcuit,2,MAR,RB,26-117,90,0,0,0,0,1,1,0,0,88,1,4,2,0.0,0.0,0.0,2,0,58,69,84.1,11,49,8,9,6,Lille,2017-11-25 Montpellier-Lille,FRA-L1,17-18,f1f09705
+fcb38f57,Mike Maignan,16,FRA,GK,22-145,90,0,0,0,0,0,0,0,0,35,0,0,0,0.0,0.0,0.0,0,0,27,32,84.4,0,12,0,0,0,Lille,2017-11-25 Montpellier-Lille,FRA-L1,17-18,f1f09705

@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+2f557579,Lorenzo Insigne,24,ITA,FW,27-187,74,0,1,0,0,5,2,0,0,50,0,0,1,0.4,0.4,0.1,4,1,35,42,83.3,3,40,1,0,0,Napoli,2018-12-08 Napoli-Frosinone,ITA-SERIA_A,18-19,48089bcf
+b6b2b820,Marko Rog,30,CRO,"CM,FW",23-142,16,0,0,0,0,1,0,0,0,18,1,0,1,0.0,0.0,0.0,0,0,15,15,100.0,0,12,1,1,1,Napoli,2018-12-08 Napoli-Frosinone,ITA-SERIA_A,18-19,48089bcf
+85613cf0,Arkadiusz Milik,99,POL,FW,24-283,90,2,0,0,0,5,3,0,0,34,0,0,0,1.0,1.0,0.0,2,0,17,22,77.3,3,23,0,2,1,Napoli,2018-12-08 Napoli-Frosinone,ITA-SERIA_A,18-19,48089bcf
+a5296e55,Piotr Zieliński,20,POL,"LM,AM",24-202,90,1,0,0,0,1,1,1,0,65,1,2,2,0.0,0.0,0.1,1,0,50,56,89.3,3,39,6,1,0,Napoli,2018-12-08 Napoli-Frosinone,ITA-SERIA_A,18-19,48089bcf
+e6ad16b2,Marek Hamšík,17,SVK,CM,31-134,79,0,0,0,0,2,0,0,0,97,2,2,1,0.1,0.1,0.0,3,0,82,87,94.3,5,67,2,1,1,Napoli,2018-12-08 Napoli-Frosinone,ITA-SERIA_A,18-19,48089bcf
+bf309d24,Amadou Diawara,42,GUI,LM,21-144,11,0,0,0,0,3,0,0,0,29,0,0,0,0.1,0.1,0.0,2,0,25,26,96.2,1,22,0,0,0,Napoli,2018-12-08 Napoli-Frosinone,ITA-SERIA_A,18-19,48089bcf
+cc700722,Allan,5,BRA,"CM,RM",27-334,90,0,0,0,0,1,0,0,0,103,4,0,0,0.0,0.0,0.1,3,0,90,96,93.8,12,84,1,1,0,Napoli,2018-12-08 Napoli-Frosinone,ITA-SERIA_A,18-19,48089bcf
+ed90babd,Adam Ounas,11,ALG,RM,22-027,72,1,0,0,0,2,2,0,0,53,2,0,1,0.0,0.0,0.9,8,1,29,41,70.7,3,42,6,6,3,Napoli,2018-12-08 Napoli-Frosinone,ITA-SERIA_A,18-19,48089bcf
+228f73ae,Amin Younes,34,GER,"AM,RM",25-124,18,0,0,0,0,0,0,0,0,15,0,0,1,0.0,0.0,0.1,2,1,12,13,92.3,2,15,4,1,0,Napoli,2018-12-08 Napoli-Frosinone,ITA-SERIA_A,18-19,48089bcf
+c5adc293,Faouzi Ghoulam,31,ALG,LB,27-310,90,0,2,0,0,1,0,0,0,84,0,0,0,0.5,0.5,0.9,7,2,67,81,82.7,8,46,4,0,0,Napoli,2018-12-08 Napoli-Frosinone,ITA-SERIA_A,18-19,48089bcf
+997fff07,Sebastiano Luperto,13,ITA,CB,22-093,90,0,0,0,0,1,0,0,0,80,0,1,0,0.0,0.0,0.0,2,1,70,74,94.6,0,64,1,0,0,Napoli,2018-12-08 Napoli-Frosinone,ITA-SERIA_A,18-19,48089bcf
+da974c7b,Kalidou Koulibaly,26,SEN,CB,27-171,90,0,1,0,0,0,0,0,0,115,2,1,1,0.0,0.0,0.0,1,1,100,108,92.6,12,89,2,0,0,Napoli,2018-12-08 Napoli-Frosinone,ITA-SERIA_A,18-19,48089bcf
+2f3452eb,Elseid Hysaj,23,ALB,RB,24-291,90,0,0,0,0,0,0,0,0,111,1,1,0,0.0,0.0,0.0,5,0,89,102,87.3,8,76,3,1,0,Napoli,2018-12-08 Napoli-Frosinone,ITA-SERIA_A,18-19,48089bcf
+9413b19f,Alex Meret,1,ITA,GK,21-261,90,0,0,0,0,0,0,0,0,21,0,0,0,0.0,0.0,0.0,0,0,21,21,100.0,0,12,0,0,0,Napoli,2018-12-08 Napoli-Frosinone,ITA-SERIA_A,18-19,48089bcf
+08aa9cd1,Andrea Pinamonti,89,ITA,FW,19-203,59,0,0,0,0,0,0,0,0,26,0,0,2,0.0,0.0,0.0,0,0,16,20,80.0,0,18,0,3,3,Frosinone,2018-12-08 Napoli-Frosinone,ITA-SERIA_A,18-19,48089bcf
+2114abf9,Camillo Ciano,28,ITA,FW,28-289,31,0,0,0,0,2,0,0,0,16,1,0,0,0.1,0.1,0.0,3,0,7,11,63.6,1,9,0,5,4,Frosinone,2018-12-08 Napoli-Frosinone,ITA-SERIA_A,18-19,48089bcf
+895ff3ca,Joel Campbell,29,CRC,AM,26-165,90,0,0,0,0,0,0,1,0,38,1,2,0,0.0,0.0,0.0,1,0,23,30,76.7,1,31,2,1,0,Frosinone,2018-12-08 Napoli-Frosinone,ITA-SERIA_A,18-19,48089bcf
+96960855,Francesco Cassata,24,ITA,AM,21-145,90,0,0,0,0,1,0,1,0,29,1,0,0,0.0,0.0,0.0,1,0,17,20,85.0,1,20,0,1,0,Frosinone,2018-12-08 Napoli-Frosinone,ITA-SERIA_A,18-19,48089bcf
+02febfdc,Raffaele Maiello,8,ITA,CM,27-151,75,0,0,0,0,1,1,0,0,50,0,1,1,0.0,0.0,0.1,3,0,39,46,84.8,3,35,0,1,1,Frosinone,2018-12-08 Napoli-Frosinone,ITA-SERIA_A,18-19,48089bcf
+098139eb,Danilo Soddimo,10,ITA,CM,31-072,15,0,0,0,0,1,0,0,0,6,2,0,0,0.0,0.0,0.3,2,0,2,2,100.0,0,3,0,0,0,Frosinone,2018-12-08 Napoli-Frosinone,ITA-SERIA_A,18-19,48089bcf
+aa5a409a,Raman Chibsah,66,GHA,CM,25-273,90,0,0,0,0,0,0,0,0,40,0,1,2,0.0,0.0,0.0,1,0,30,34,88.2,6,29,0,4,4,Frosinone,2018-12-08 Napoli-Frosinone,ITA-SERIA_A,18-19,48089bcf
+438dfc6a,Andrea Beghetto,33,ITA,WB,24-058,90,0,0,0,0,0,0,0,0,58,4,3,1,0.0,0.0,0.1,1,0,36,44,81.8,4,29,2,1,0,Frosinone,2018-12-08 Napoli-Frosinone,ITA-SERIA_A,18-19,48089bcf
+8e45910b,Francesco Zampano,17,ITA,WB,25-069,70,0,0,0,0,0,0,0,0,39,1,1,0,0.0,0.0,0.0,0,0,24,35,68.6,0,25,2,0,0,Frosinone,2018-12-08 Napoli-Frosinone,ITA-SERIA_A,18-19,48089bcf
+71dc23da,Paolo Ghiglione,2,ITA,WB,21-309,20,0,0,0,0,0,0,0,0,8,2,0,0,0.0,0.0,0.0,1,0,4,6,66.7,0,4,0,0,0,Frosinone,2018-12-08 Napoli-Frosinone,ITA-SERIA_A,18-19,48089bcf
+616aea37,Marco Capuano,25,ITA,CB,27-055,90,0,0,0,0,0,0,0,0,55,1,2,2,0.0,0.0,0.0,0,0,39,41,95.1,1,37,0,0,0,Frosinone,2018-12-08 Napoli-Frosinone,ITA-SERIA_A,18-19,48089bcf
+68b78c2a,Lorenzo Ariaudo,15,ITA,CB,29-180,90,0,0,0,0,2,0,0,0,38,0,0,0,0.4,0.4,0.0,1,0,21,28,75.0,0,22,0,1,1,Frosinone,2018-12-08 Napoli-Frosinone,ITA-SERIA_A,18-19,48089bcf
+4b029b31,Edoardo Goldaniga,6,ITA,CB,25-036,90,0,0,0,0,1,1,0,0,44,2,1,0,0.0,0.0,0.0,0,0,31,38,81.6,3,30,0,0,0,Frosinone,2018-12-08 Napoli-Frosinone,ITA-SERIA_A,18-19,48089bcf
+ac4003af,Marco Sportiello,57,ITA,GK,26-212,90,0,0,0,0,0,0,0,0,44,0,0,0,0.0,0.0,0.0,0,0,31,41,75.6,0,19,0,0,0,Frosinone,2018-12-08 Napoli-Frosinone,ITA-SERIA_A,18-19,48089bcf

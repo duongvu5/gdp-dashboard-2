@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+36a3ff67,Marco Reus,11,GER,FW,31-195,90,0,0,0,0,0,0,0,0,50,3,2,0,0.0,0.0,0.0,2,0,40,45,88.9,3,23,3,1,0,Dortmund,2020-12-12 Dortmund-Stuttgart,GER-BL1,20-21,87a4b896
+7fa4e703,Gio Reyna,32,USA,"AM,CM,LM",18-029,90,1,0,0,0,1,1,0,0,73,1,1,0,0.1,0.1,0.2,3,0,55,67,82.1,5,47,4,4,4,Dortmund,2020-12-12 Dortmund-Stuttgart,GER-BL1,20-21,87a4b896
+dbf053da,Jadon Sancho,7,ENG,"AM,RM",20-262,85,0,0,0,0,2,1,0,0,86,1,2,0,0.4,0.4,0.2,4,0,54,76,71.1,8,57,6,5,4,Dortmund,2020-12-12 Dortmund-Stuttgart,GER-BL1,20-21,87a4b896
+a167537f,Julian Brandt,19,GER,LM,24-224,5,0,0,0,0,0,0,0,0,8,1,0,0,0.0,0.0,0.0,1,0,7,7,100.0,0,4,0,0,0,Dortmund,2020-12-12 Dortmund-Stuttgart,GER-BL1,20-21,87a4b896
+5dfc6ad5,Axel Witsel,28,BEL,CM,31-335,90,0,0,0,0,0,0,0,0,79,1,0,0,0.0,0.0,0.0,2,0,72,75,96.0,7,49,2,1,1,Dortmund,2020-12-12 Dortmund-Stuttgart,GER-BL1,20-21,87a4b896
+57d88cf9,Jude Bellingham,22,ENG,CM,17-166,63,0,0,0,0,1,0,0,0,49,0,1,1,0.0,0.0,0.0,1,0,38,41,92.7,3,23,0,2,1,Dortmund,2020-12-12 Dortmund-Stuttgart,GER-BL1,20-21,87a4b896
+fa274d97,Nico Schulz,14,GER,"CB,LB",27-255,27,0,0,0,0,2,0,0,0,42,0,0,1,0.1,0.1,0.0,0,0,33,37,89.2,5,20,3,0,0,Dortmund,2020-12-12 Dortmund-Stuttgart,GER-BL1,20-21,87a4b896
+048a1cbc,Raphaël Guerreiro,13,POR,"WB,LB",26-356,85,0,1,0,0,1,0,0,0,88,2,0,1,0.1,0.1,0.5,5,1,63,78,80.8,8,34,2,2,1,Dortmund,2020-12-12 Dortmund-Stuttgart,GER-BL1,20-21,87a4b896
+6ce43701,Youssoufa Moukoko,18,GER,FW,16-022,5,0,0,0,0,1,1,0,0,3,0,0,0,0.1,0.1,0.0,1,0,2,2,100.0,0,1,0,1,1,Dortmund,2020-12-12 Dortmund-Stuttgart,GER-BL1,20-21,87a4b896
+5fd5e542,Mateu Morey,2,ESP,"WB,RB",20-285,90,0,0,0,0,1,0,1,0,77,0,0,0,0.1,0.1,0.0,3,0,61,74,82.4,2,39,0,0,0,Dortmund,2020-12-12 Dortmund-Stuttgart,GER-BL1,20-21,87a4b896
+89ac64a6,Manuel Akanji,16,SUI,CB,25-146,85,0,0,0,0,0,0,0,0,88,2,2,1,0.0,0.0,0.0,1,0,72,80,90.0,5,42,2,0,0,Dortmund,2020-12-12 Dortmund-Stuttgart,GER-BL1,20-21,87a4b896
+a4effc55,Dan-Axel Zagadou,5,FRA,CB,21-192,5,0,0,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.0,0,0,11,11,100.0,0,8,0,0,0,Dortmund,2020-12-12 Dortmund-Stuttgart,GER-BL1,20-21,87a4b896
+05d548d8,Mats Hummels,15,GER,CB,31-362,90,0,0,0,0,2,1,0,0,87,1,1,0,0.1,0.1,0.0,0,0,69,80,86.3,8,48,1,0,0,Dortmund,2020-12-12 Dortmund-Stuttgart,GER-BL1,20-21,87a4b896
+a65ce836,Emre Can,23,GER,CB,26-335,58,0,0,0,0,1,0,1,0,69,4,0,1,0.0,0.0,0.0,1,1,50,60,83.3,4,37,1,1,0,Dortmund,2020-12-12 Dortmund-Stuttgart,GER-BL1,20-21,87a4b896
+6b21b7b5,Reinier,20,BRA,"AM,RM,FW",18-328,32,0,0,0,0,0,0,0,0,24,0,0,0,0.0,0.0,0.0,0,0,17,21,81.0,0,8,0,1,0,Dortmund,2020-12-12 Dortmund-Stuttgart,GER-BL1,20-21,87a4b896
+9d12e142,Roman Bürki,1,SUI,GK,30-028,90,0,0,0,0,0,0,0,0,38,0,0,0,0.0,0.0,0.0,0,0,27,33,81.8,0,19,0,0,0,Dortmund,2020-12-12 Dortmund-Stuttgart,GER-BL1,20-21,87a4b896
+05ba9d7c,Tanguy Coulibaly,7,FRA,FW,19-298,66,1,0,0,0,4,2,0,0,25,0,1,1,0.3,0.3,0.5,7,0,10,14,71.4,2,15,3,6,4,Stuttgart,2020-12-12 Dortmund-Stuttgart,GER-BL1,20-21,87a4b896
+2374aaca,Nicolás González,22,ARG,FW,22-250,24,1,0,0,0,2,1,0,0,8,0,0,0,0.6,0.6,0.0,0,0,2,2,100.0,1,5,2,1,0,Stuttgart,2020-12-12 Dortmund-Stuttgart,GER-BL1,20-21,87a4b896
+2b7c56b4,Mateo Klimowicz,31,GER,FW,20-159,87,0,0,0,0,4,2,0,0,29,3,1,0,0.5,0.5,0.1,4,2,13,18,72.2,1,20,6,2,2,Stuttgart,2020-12-12 Dortmund-Stuttgart,GER-BL1,20-21,87a4b896
+c6608135,Darko Churlinov,19,MKD,FW,20-154,3,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,2,0,0,0,Stuttgart,2020-12-12 Dortmund-Stuttgart,GER-BL1,20-21,87a4b896
+af0d79a9,Borna Sosa,24,CRO,LW,22-326,90,0,1,0,0,1,1,0,0,42,0,2,1,0.1,0.1,0.4,5,2,21,34,61.8,2,22,3,0,0,Stuttgart,2020-12-12 Dortmund-Stuttgart,GER-BL1,20-21,87a4b896
+de4cac2d,Silas Katompa,14,COD,RW,22-067,66,2,1,1,1,2,1,1,0,21,1,2,1,1.0,0.2,0.2,4,1,8,11,72.7,3,12,3,1,1,Stuttgart,2020-12-12 Dortmund-Stuttgart,GER-BL1,20-21,87a4b896
+fc62fdf4,Roberto Massimo,30,GER,RW,20-061,24,0,0,0,0,0,0,0,0,15,1,1,2,0.0,0.0,0.0,0,0,6,9,66.7,1,5,0,1,1,Stuttgart,2020-12-12 Dortmund-Stuttgart,GER-BL1,20-21,87a4b896
+76fa965f,Philipp Förster,20,GER,CM,25-312,76,1,0,0,0,2,1,0,0,38,1,2,3,0.4,0.4,0.0,2,0,15,25,60.0,4,19,3,1,1,Stuttgart,2020-12-12 Dortmund-Stuttgart,GER-BL1,20-21,87a4b896
+2f7fec15,Lilian Egloff,25,GER,CM,18-114,14,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,3,0,0,0,Stuttgart,2020-12-12 Dortmund-Stuttgart,GER-BL1,20-21,87a4b896
+a572e291,Orel Mangala,23,BEL,CM,22-269,90,0,2,0,0,1,0,0,0,39,1,2,2,0.0,0.0,0.7,4,3,26,30,86.7,3,22,4,5,2,Stuttgart,2020-12-12 Dortmund-Stuttgart,GER-BL1,20-21,87a4b896
+c149016b,Wataru Endo,3,JPN,DM,27-307,90,0,0,0,0,1,1,1,0,50,4,2,3,0.0,0.0,0.1,4,0,29,38,76.3,7,25,2,1,1,Stuttgart,2020-12-12 Dortmund-Stuttgart,GER-BL1,20-21,87a4b896
+815c314f,Marc-Oliver Kempf,4,GER,CB,25-319,90,0,0,0,0,0,0,0,0,43,1,3,0,0.0,0.0,0.0,0,0,25,31,80.6,4,16,1,1,1,Stuttgart,2020-12-12 Dortmund-Stuttgart,GER-BL1,20-21,87a4b896
+5e66fa06,Waldemar Anton,2,GER,CB,24-145,90,0,0,0,0,0,0,0,0,45,4,0,0,0.0,0.0,0.0,0,0,28,35,80.0,0,30,0,0,0,Stuttgart,2020-12-12 Dortmund-Stuttgart,GER-BL1,20-21,87a4b896
+00963611,Konstantinos Mavropanos,5,GRE,CB,23-001,87,0,0,0,0,0,0,1,0,51,0,6,2,0.0,0.0,0.1,2,0,26,37,70.3,3,17,0,1,0,Stuttgart,2020-12-12 Dortmund-Stuttgart,GER-BL1,20-21,87a4b896
+99f7e9aa,Pascal Stenzel,15,GER,CB,24-267,3,0,0,0,0,0,0,0,0,4,1,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,1,0,0,0,Stuttgart,2020-12-12 Dortmund-Stuttgart,GER-BL1,20-21,87a4b896
+cd59b9df,Gregor Kobel,1,SUI,GK,23-006,90,0,0,0,0,0,0,0,0,28,1,0,0,0.0,0.0,0.0,0,0,17,26,65.4,0,17,0,0,0,Stuttgart,2020-12-12 Dortmund-Stuttgart,GER-BL1,20-21,87a4b896

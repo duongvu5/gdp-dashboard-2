@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+942b4f90,Wissam Ben Yedder,9,FRA,FW,29-117,90,1,0,0,0,6,2,0,0,45,0,2,0,1.3,1.3,0.1,4,1,24,35,68.6,5,39,7,2,2,Monaco,2019-12-07 Monaco-Amiens,FRA-L1,19-20,50712203
+509a4ccb,Keita Baldé,14,SEN,LW,24-274,80,1,0,0,0,4,1,0,0,42,0,0,0,0.6,0.6,0.0,3,0,27,34,79.4,4,20,2,0,0,Monaco,2019-12-07 Monaco-Amiens,FRA-L1,19-20,50712203
+97bfa797,Jean-Kévin Augustin,22,FRA,LW,22-174,10,0,0,0,0,1,1,0,0,4,1,0,0,0.1,0.1,0.0,0,0,2,2,100.0,0,2,1,0,0,Monaco,2019-12-07 Monaco-Amiens,FRA-L1,19-20,50712203
+3ef0fa48,Gelson Martins,11,POR,RW,24-210,90,0,0,0,0,2,1,0,0,67,0,0,1,0.1,0.1,0.3,5,0,46,57,80.7,2,50,11,1,1,Monaco,2019-12-07 Monaco-Amiens,FRA-L1,19-20,50712203
+33508c78,Cesc Fàbregas,4,ESP,AM,32-217,90,0,0,0,0,1,1,0,0,107,1,0,1,0.0,0.0,0.1,4,0,82,101,81.2,12,59,2,0,0,Monaco,2019-12-07 Monaco-Amiens,FRA-L1,19-20,50712203
+59bf127b,Tiemoué Bakayoko,6,FRA,DM,25-112,90,0,0,0,0,1,0,0,0,89,1,2,0,0.0,0.0,0.1,2,0,67,78,85.9,11,59,2,3,1,Monaco,2019-12-07 Monaco-Amiens,FRA-L1,19-20,50712203
+3708e9fa,Aleksandr Golovin,17,RUS,DM,23-191,72,0,1,0,0,1,0,0,0,71,3,2,0,0.0,0.0,0.9,4,1,51,60,85.0,10,48,3,3,2,Monaco,2019-12-07 Monaco-Amiens,FRA-L1,19-20,50712203
+d6f88a1d,Adrien Silva,8,POR,DM,30-267,18,0,0,0,0,1,1,0,0,26,2,1,0,0.0,0.0,0.0,1,0,17,22,77.3,3,13,0,0,0,Monaco,2019-12-07 Monaco-Amiens,FRA-L1,19-20,50712203
+e61bdd69,Gil Bastião Dias,31,POR,LB,23-070,90,0,0,0,0,1,0,0,0,98,4,4,1,0.0,0.0,0.6,6,2,66,86,76.7,9,66,8,1,0,Monaco,2019-12-07 Monaco-Amiens,FRA-L1,19-20,50712203
+d9764034,Guillermo Maripán,3,CHI,CB,25-215,90,1,0,0,0,1,1,0,0,112,2,3,1,0.2,0.2,0.0,1,0,99,104,95.2,10,81,2,0,0,Monaco,2019-12-07 Monaco-Amiens,FRA-L1,19-20,50712203
+c6056d58,Kamil Glik,25,POL,CB,31-307,90,0,0,0,0,1,0,0,0,85,0,3,0,0.1,0.1,0.0,0,0,66,78,84.6,0,50,0,0,0,Monaco,2019-12-07 Monaco-Amiens,FRA-L1,19-20,50712203
+7cab69b5,Jemerson,5,BRA,RB,27-105,58,0,0,0,0,0,0,0,0,54,0,2,1,0.0,0.0,0.0,1,0,44,49,89.8,8,34,1,0,0,Monaco,2019-12-07 Monaco-Amiens,FRA-L1,19-20,50712203
+3dd738a1,Ruben Aguilar,12,FRA,RB,26-225,32,0,0,0,0,0,0,0,0,39,3,1,0,0.0,0.0,0.0,1,0,29,36,80.6,2,26,2,0,0,Monaco,2019-12-07 Monaco-Amiens,FRA-L1,19-20,50712203
+2fa2a875,Benjamin Lecomte,40,FRA,GK,28-225,90,0,0,0,0,0,0,0,0,34,0,0,0,0.0,0.0,0.0,0,0,28,32,87.5,0,17,0,0,0,Monaco,2019-12-07 Monaco-Amiens,FRA-L1,19-20,50712203
+923f4dda,Serhou Guirassy,9,GUI,FW,23-270,14,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,2,0,0,0,Amiens,2019-12-07 Monaco-Amiens,FRA-L1,19-20,50712203
+fcbcbd94,Moussa Konaté,15,SEN,FW,26-248,76,0,0,0,0,1,1,0,0,28,1,1,0,0.1,0.1,0.0,1,0,15,16,93.8,1,17,1,2,1,Amiens,2019-12-07 Monaco-Amiens,FRA-L1,19-20,50712203
+5b1bf5e3,Gaël Kakuta,10,COD,FW,28-169,90,0,0,0,0,2,1,0,0,43,1,1,2,0.3,0.3,0.1,4,0,15,30,50.0,2,27,1,5,2,Amiens,2019-12-07 Monaco-Amiens,FRA-L1,19-20,50712203
+4085f08e,Haitam Aleesami,14,NOR,LM,28-129,64,0,0,0,0,0,0,0,0,34,0,0,0,0.0,0.0,0.0,1,0,20,26,76.9,0,20,1,0,0,Amiens,2019-12-07 Monaco-Amiens,FRA-L1,19-20,50712203
+debc2f28,Chadrac Akolo,19,COD,LM,24-250,26,0,0,0,0,0,0,0,0,13,3,0,0,0.0,0.0,0.0,0,0,5,9,55.6,0,8,2,1,1,Amiens,2019-12-07 Monaco-Amiens,FRA-L1,19-20,50712203
+c69ef855,Alexis Blin,17,FRA,CM,23-082,90,0,0,0,0,0,0,0,0,52,2,0,2,0.0,0.0,0.0,0,0,33,43,76.7,3,30,0,0,0,Amiens,2019-12-07 Monaco-Amiens,FRA-L1,19-20,50712203
+84d94b91,Thomas Monconduit,6,FRA,CM,28-300,90,0,0,0,0,1,0,0,0,52,4,4,2,0.0,0.0,0.0,0,0,28,37,75.7,6,27,0,0,0,Amiens,2019-12-07 Monaco-Amiens,FRA-L1,19-20,50712203
+d07e3b41,Fousseni Diabaté,28,MLI,RM,24-050,74,0,0,0,0,1,0,0,0,26,2,0,2,0.0,0.0,0.2,1,0,7,15,46.7,0,19,2,2,0,Amiens,2019-12-07 Monaco-Amiens,FRA-L1,19-20,50712203
+5d42d487,Quentin Cornette,29,FRA,RM,25-324,16,0,0,0,0,0,0,0,0,8,0,1,0,0.0,0.0,0.0,0,0,2,4,50.0,0,6,0,1,1,Amiens,2019-12-07 Monaco-Amiens,FRA-L1,19-20,50712203
+c3e4ecbb,Jordan Lefort,25,FRA,LB,26-120,90,0,0,0,0,0,0,0,0,68,0,1,0,0.0,0.0,0.0,0,0,47,57,82.5,3,35,0,0,0,Amiens,2019-12-07 Monaco-Amiens,FRA-L1,19-20,50712203
+247accfd,Bakaye Dibassy,12,MLI,CB,30-118,90,0,0,0,0,0,0,0,0,41,1,1,2,0.0,0.0,0.0,1,0,28,33,84.8,0,25,0,1,1,Amiens,2019-12-07 Monaco-Amiens,FRA-L1,19-20,50712203
+80e4c841,Aurélien Chedjou,27,CMR,CB,34-170,90,0,0,0,0,0,0,0,0,51,0,4,4,0.0,0.0,0.0,0,0,24,36,66.7,2,26,0,0,0,Amiens,2019-12-07 Monaco-Amiens,FRA-L1,19-20,50712203
+34bb6fbd,Arturo Calabresi,3,ITA,RB,23-265,90,0,0,0,0,0,0,0,0,40,1,3,2,0.0,0.0,0.0,0,0,21,29,72.4,0,13,0,2,0,Amiens,2019-12-07 Monaco-Amiens,FRA-L1,19-20,50712203
+bc270726,Régis Gurtner,1,FRA,GK,32-364,90,0,0,0,0,0,0,0,0,30,0,0,0,0.0,0.0,0.0,0,0,11,27,40.7,0,20,0,0,0,Amiens,2019-12-07 Monaco-Amiens,FRA-L1,19-20,50712203

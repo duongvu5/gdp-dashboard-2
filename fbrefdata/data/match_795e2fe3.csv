@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+ca618d23,Lucas Höler,9,GER,FW,27-134,90,0,0,0,0,5,2,0,0,65,2,0,1,0.4,0.4,0.3,6,0,32,45,71.1,6,33,5,4,2,Freiburg,2021-11-21 Freiburg-Eint Frankfurt,GER-BL1,21-22,795e2fe3
+54e4866f,Vincenzo Grifo,32,ITA,"LW,LM",28-228,89,0,0,0,0,4,1,0,0,71,0,0,0,0.2,0.2,0.3,8,0,50,61,82.0,6,36,4,2,1,Freiburg,2021-11-21 Freiburg-Eint Frankfurt,GER-BL1,21-22,795e2fe3
+ed79b7d3,Ermedin Demirović,11,BIH,FW,23-241,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Freiburg,2021-11-21 Freiburg-Eint Frankfurt,GER-BL1,21-22,795e2fe3
+6190474d,Jeong Woo-yeong,29,KOR,"RW,RM",22-062,68,0,0,0,0,2,1,0,0,34,0,0,0,0.3,0.3,0.0,1,0,15,26,57.7,4,18,2,3,1,Freiburg,2021-11-21 Freiburg-Eint Frankfurt,GER-BL1,21-22,795e2fe3
+bf075f6b,Roland Sallai,22,HUN,"RM,RB",24-183,22,0,0,0,0,2,0,0,0,27,0,0,0,0.3,0.3,0.0,1,0,14,22,63.6,2,13,2,3,3,Freiburg,2021-11-21 Freiburg-Eint Frankfurt,GER-BL1,21-22,795e2fe3
+8593f88c,Christian Günter,30,GER,"LB,LM",28-266,90,0,0,0,0,1,0,0,0,65,0,0,0,0.0,0.0,0.1,5,0,45,61,73.8,11,29,2,2,2,Freiburg,2021-11-21 Freiburg-Eint Frankfurt,GER-BL1,21-22,795e2fe3
+5d8e331f,Nicolas Höfler,27,GER,CM,31-257,90,0,0,0,0,3,0,0,0,72,1,0,2,0.1,0.1,0.0,3,0,51,58,87.9,10,39,0,4,2,Freiburg,2021-11-21 Freiburg-Eint Frankfurt,GER-BL1,21-22,795e2fe3
+beb882a8,Maximilian Eggestein,8,GER,CM,24-348,68,0,0,0,0,0,0,0,0,45,1,0,1,0.0,0.0,0.1,3,0,27,39,69.2,5,22,2,2,1,Freiburg,2021-11-21 Freiburg-Eint Frankfurt,GER-BL1,21-22,795e2fe3
+70dcf94d,Janik Haberer,19,GER,CM,27-233,22,0,0,0,0,0,0,0,0,16,0,1,0,0.0,0.0,0.0,0,0,14,15,93.3,3,7,0,0,0,Freiburg,2021-11-21 Freiburg-Eint Frankfurt,GER-BL1,21-22,795e2fe3
+2a29eb9b,Lukas Kübler,17,GER,"RM,RB",29-083,84,0,0,0,0,0,0,0,0,64,4,0,1,0.0,0.0,0.2,4,0,46,54,85.2,3,23,2,0,0,Freiburg,2021-11-21 Freiburg-Eint Frankfurt,GER-BL1,21-22,795e2fe3
+dd676a97,Noah Weißhaupt,33,GER,RM,20-062,6,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.1,1,0,4,4,100.0,0,5,0,1,0,Freiburg,2021-11-21 Freiburg-Eint Frankfurt,GER-BL1,21-22,795e2fe3
+34e12499,Nico Schlotterbeck,4,GER,CB,21-355,45,0,0,0,0,0,0,0,0,36,0,1,1,0.0,0.0,0.0,0,0,27,31,87.1,3,18,1,0,0,Freiburg,2021-11-21 Freiburg-Eint Frankfurt,GER-BL1,21-22,795e2fe3
+52afb588,Kevin Schade,20,GER,"FW,LM",19-359,45,0,0,0,0,3,0,0,0,20,0,0,2,0.2,0.2,0.0,2,0,4,11,36.4,0,9,1,2,2,Freiburg,2021-11-21 Freiburg-Eint Frankfurt,GER-BL1,21-22,795e2fe3
+302527b2,Philipp Lienhart,3,AUT,CB,25-133,90,0,0,0,0,1,0,0,0,100,0,4,0,0.0,0.0,0.0,3,0,84,92,91.3,8,54,3,0,0,Freiburg,2021-11-21 Freiburg-Eint Frankfurt,GER-BL1,21-22,795e2fe3
+25ab9c9c,Manuel Gulde,5,GER,CB,30-282,90,0,0,0,0,0,0,0,0,75,1,2,3,0.0,0.0,0.0,0,0,63,65,96.9,5,33,0,0,0,Freiburg,2021-11-21 Freiburg-Eint Frankfurt,GER-BL1,21-22,795e2fe3
+a92ab7be,Mark Flekken,26,NED,GK,28-161,90,0,0,0,0,0,0,0,0,45,0,0,0,0.0,0.0,0.0,0,0,35,42,83.3,0,24,0,0,0,Freiburg,2021-11-21 Freiburg-Eint Frankfurt,GER-BL1,21-22,795e2fe3
+c68da769,Rafael Borré,19,COL,FW,26-067,84,0,0,0,0,2,1,0,0,29,0,0,1,0.1,0.1,0.0,0,0,11,19,57.9,2,15,2,2,1,Eintracht Frankfurt,2021-11-21 Freiburg-Eint Frankfurt,GER-BL1,21-22,795e2fe3
+8494acc4,Stefan Ilsanker,3,AUT,FW,32-187,6,0,0,0,0,0,0,0,0,3,1,0,0,0.0,0.0,0.0,1,0,1,1,100.0,0,1,0,0,0,Eintracht Frankfurt,2021-11-21 Freiburg-Eint Frankfurt,GER-BL1,21-22,795e2fe3
+37dc1a48,Jesper Lindstrøm,29,DEN,AM,21-265,73,1,0,0,0,4,3,0,0,28,2,0,2,0.8,0.8,0.1,3,0,12,16,75.0,2,13,4,0,0,Eintracht Frankfurt,2021-11-21 Freiburg-Eint Frankfurt,GER-BL1,21-22,795e2fe3
+dc38e3bc,Ragnar Ache,21,GER,AM,23-116,17,0,0,0,0,0,0,0,0,13,1,0,1,0.0,0.0,0.0,0,0,2,8,25.0,0,6,0,0,0,Eintracht Frankfurt,2021-11-21 Freiburg-Eint Frankfurt,GER-BL1,21-22,795e2fe3
+15b287da,Daichi Kamada,15,JPN,AM,25-108,90,0,0,0,0,2,0,0,0,43,4,0,0,0.3,0.3,0.3,3,0,20,28,71.4,3,24,2,1,1,Eintracht Frankfurt,2021-11-21 Freiburg-Eint Frankfurt,GER-BL1,21-22,795e2fe3
+a8ee54ad,Kristijan Jakić,6,CRO,CM,24-191,90,0,0,0,0,1,1,0,0,46,0,2,0,0.0,0.0,0.1,3,1,29,36,80.6,5,22,2,1,1,Eintracht Frankfurt,2021-11-21 Freiburg-Eint Frankfurt,GER-BL1,21-22,795e2fe3
+4c6facae,Djibril Sow,8,SUI,CM,24-288,73,0,0,0,0,1,0,0,0,41,2,1,2,0.0,0.0,0.0,2,0,26,31,83.9,3,20,0,0,0,Eintracht Frankfurt,2021-11-21 Freiburg-Eint Frankfurt,GER-BL1,21-22,795e2fe3
+e12b0b5b,Sebastian Rode,17,GER,CM,31-041,17,0,0,0,0,0,0,0,0,10,1,1,1,0.0,0.0,0.0,0,0,6,7,85.7,1,3,0,0,0,Eintracht Frankfurt,2021-11-21 Freiburg-Eint Frankfurt,GER-BL1,21-22,795e2fe3
+b1cd37e6,Filip Kostić,10,SRB,WB,29-020,90,1,0,0,0,1,1,0,0,59,1,0,2,0.0,0.0,0.3,3,0,29,47,61.7,0,24,5,1,0,Eintracht Frankfurt,2021-11-21 Freiburg-Eint Frankfurt,GER-BL1,21-22,795e2fe3
+b3b7f5a6,Timothy Chandler,22,USA,WB,31-237,64,0,0,0,0,0,0,1,0,26,1,1,2,0.0,0.0,0.0,1,1,10,15,66.7,1,8,0,0,0,Eintracht Frankfurt,2021-11-21 Freiburg-Eint Frankfurt,GER-BL1,21-22,795e2fe3
+c8c60119,Almamy Touré,18,MLI,WB,25-207,26,0,0,0,0,1,0,1,0,20,2,0,0,0.0,0.0,0.0,0,0,10,11,90.9,0,8,0,0,0,Eintracht Frankfurt,2021-11-21 Freiburg-Eint Frankfurt,GER-BL1,21-22,795e2fe3
+441197b8,Obite N'Dicka,2,CIV,CB,22-093,90,0,0,0,0,0,0,0,0,62,2,0,2,0.0,0.0,0.0,1,0,39,46,84.8,4,31,2,1,1,Eintracht Frankfurt,2021-11-21 Freiburg-Eint Frankfurt,GER-BL1,21-22,795e2fe3
+9ab16552,Makoto Hasebe,20,JPN,CB,37-307,90,0,0,0,0,0,0,0,0,63,1,2,4,0.0,0.0,0.0,0,0,41,52,78.8,4,36,1,0,0,Eintracht Frankfurt,2021-11-21 Freiburg-Eint Frankfurt,GER-BL1,21-22,795e2fe3
+35d64857,Tuta,35,BRA,CB,22-140,90,0,0,0,0,1,1,1,0,55,0,1,8,0.0,0.0,0.0,1,0,20,33,60.6,0,22,1,1,1,Eintracht Frankfurt,2021-11-21 Freiburg-Eint Frankfurt,GER-BL1,21-22,795e2fe3
+ce17b5eb,Kevin Trapp,1,GER,GK,31-136,90,0,0,0,0,0,0,1,0,38,0,0,0,0.0,0.0,0.0,1,0,18,34,52.9,0,18,0,0,0,Eintracht Frankfurt,2021-11-21 Freiburg-Eint Frankfurt,GER-BL1,21-22,795e2fe3

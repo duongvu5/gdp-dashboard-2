@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+a53b661f,Ihlas Bebou,9,TOG,FW,26-058,90,1,0,0,0,4,1,0,0,34,1,0,0,0.9,0.9,0.0,2,0,16,24,66.7,2,17,3,2,0,Hoffenheim,2020-06-20 Hoffenheim-Union Berlin,GER-BL1,19-20,08ce33f5
+eac044ad,Moanes Dabbur,10,ISR,FW,28-037,57,1,0,0,0,1,1,1,0,33,0,0,0,0.1,0.1,0.0,3,0,22,27,81.5,5,17,0,1,0,Hoffenheim,2020-06-20 Hoffenheim-Union Berlin,GER-BL1,19-20,08ce33f5
+437f2b00,Christoph Baumgartner,14,AUT,FW,20-324,33,1,0,0,0,1,1,0,0,8,0,0,0,0.5,0.5,0.0,0,0,3,6,50.0,0,6,0,0,0,Hoffenheim,2020-06-20 Hoffenheim-Union Berlin,GER-BL1,19-20,08ce33f5
+ff98492b,Robert Skov,29,DEN,LW,24-031,90,0,0,0,0,3,1,0,0,60,2,1,1,0.2,0.2,0.1,3,1,33,48,68.8,1,22,3,2,1,Hoffenheim,2020-06-20 Hoffenheim-Union Berlin,GER-BL1,19-20,08ce33f5
+79c90e45,Pavel Kadeřábek,3,CZE,RW,28-056,90,0,1,0,0,1,0,0,0,61,2,0,1,0.0,0.0,0.1,4,1,37,54,68.5,2,30,3,3,3,Hoffenheim,2020-06-20 Hoffenheim-Union Berlin,GER-BL1,19-20,08ce33f5
+603cb947,Andrej Kramarić,27,CRO,CM,29-001,73,1,0,0,0,3,3,0,0,35,1,0,1,0.4,0.4,0.1,4,1,24,27,88.9,5,22,4,4,3,Hoffenheim,2020-06-20 Hoffenheim-Union Berlin,GER-BL1,19-20,08ce33f5
+4e204552,Jacob Bruun Larsen,7,DEN,CM,21-275,17,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,3,4,75.0,0,3,0,0,0,Hoffenheim,2020-06-20 Hoffenheim-Union Berlin,GER-BL1,19-20,08ce33f5
+37f606f0,Dennis Geiger,8,GER,CM,22-010,57,0,0,0,0,1,0,0,0,31,0,0,0,0.1,0.1,0.0,3,1,24,29,82.8,5,16,1,0,0,Hoffenheim,2020-06-20 Hoffenheim-Union Berlin,GER-BL1,19-20,08ce33f5
+08593525,Diadie Samassékou,18,MLI,CM,24-161,33,0,0,0,0,0,0,0,0,25,0,1,1,0.0,0.0,0.0,1,1,17,20,85.0,1,8,0,1,1,Hoffenheim,2020-06-20 Hoffenheim-Union Berlin,GER-BL1,19-20,08ce33f5
+ffbbc83b,Florian Grillitsch,11,AUT,DM,24-318,73,0,0,0,0,0,0,0,0,67,0,3,0,0.0,0.0,0.0,2,0,57,60,95.0,5,37,1,0,0,Hoffenheim,2020-06-20 Hoffenheim-Union Berlin,GER-BL1,19-20,08ce33f5
+b6a6e0a7,Steven Zuber,17,SUI,DM,28-308,17,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,6,6,100.0,1,6,2,0,0,Hoffenheim,2020-06-20 Hoffenheim-Union Berlin,GER-BL1,19-20,08ce33f5
+99de6b6f,Benjamin Hübner,21,GER,CB,30-352,77,0,1,0,0,2,1,0,0,86,1,4,0,0.2,0.2,0.5,2,1,69,76,90.8,10,50,2,3,2,Hoffenheim,2020-06-20 Hoffenheim-Union Berlin,GER-BL1,19-20,08ce33f5
+6ec6fde0,Kevin Akpoguma,25,NGA,CB,25-062,13,0,0,0,0,0,0,0,0,8,0,1,0,0.0,0.0,0.0,0,0,6,6,100.0,2,5,1,0,0,Hoffenheim,2020-06-20 Hoffenheim-Union Berlin,GER-BL1,19-20,08ce33f5
+7f609bfc,Stefan Posch,38,AUT,CB,23-037,90,0,0,0,0,0,0,0,0,98,0,2,5,0.0,0.0,0.0,2,1,74,87,85.1,3,64,1,0,0,Hoffenheim,2020-06-20 Hoffenheim-Union Berlin,GER-BL1,19-20,08ce33f5
+7aac47fe,Ermin Bičakčić,4,BIH,CB,30-148,90,0,0,0,0,0,0,0,0,62,2,1,0,0.0,0.0,0.0,0,0,47,54,87.0,6,26,2,0,0,Hoffenheim,2020-06-20 Hoffenheim-Union Berlin,GER-BL1,19-20,08ce33f5
+47064058,Oliver Baumann,1,GER,GK,30-018,90,0,0,0,0,0,0,0,0,42,0,0,0,0.0,0.0,0.0,0,0,28,39,71.8,0,18,0,0,0,Hoffenheim,2020-06-20 Hoffenheim-Union Berlin,GER-BL1,19-20,08ce33f5
+b4cf5806,Sebastian Andersson,10,SWE,FW,28-341,84,0,0,0,0,2,0,1,0,31,1,0,1,0.2,0.2,0.0,1,0,14,19,73.7,1,9,0,1,1,Union Berlin,2020-06-20 Hoffenheim-Union Berlin,GER-BL1,19-20,08ce33f5
+4b6dd263,Joshua Mees,8,GER,FW,24-066,6,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Union Berlin,2020-06-20 Hoffenheim-Union Berlin,GER-BL1,19-20,08ce33f5
+99be8fb5,Anthony Ujah,11,NGA,FW,29-250,61,0,0,0,0,0,0,0,0,24,0,1,0,0.0,0.0,0.0,0,0,8,20,40.0,0,13,1,1,1,Union Berlin,2020-06-20 Hoffenheim-Union Berlin,GER-BL1,19-20,08ce33f5
+abf0cad0,Suleiman Abdullahi,20,NGA,FW,23-193,29,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.2,1,0,5,8,62.5,1,3,1,1,0,Union Berlin,2020-06-20 Hoffenheim-Union Berlin,GER-BL1,19-20,08ce33f5
+f3722c97,Yunus Mallı,18,TUR,AM,28-117,61,0,0,0,0,0,0,0,0,27,0,0,0,0.0,0.0,0.1,1,0,17,25,68.0,4,10,1,0,0,Union Berlin,2020-06-20 Hoffenheim-Union Berlin,GER-BL1,19-20,08ce33f5
+271b8617,Marcus Ingvartsen,32,DEN,AM,24-168,29,0,0,0,0,0,0,0,0,9,0,1,0,0.0,0.0,0.0,1,0,7,8,87.5,1,6,1,0,0,Union Berlin,2020-06-20 Hoffenheim-Union Berlin,GER-BL1,19-20,08ce33f5
+924f9191,Grischa Prömel,21,GER,CM,25-163,90,0,0,0,0,3,1,0,0,56,2,0,1,0.2,0.2,0.0,2,0,35,42,83.3,2,31,1,0,0,Union Berlin,2020-06-20 Hoffenheim-Union Berlin,GER-BL1,19-20,08ce33f5
+e0b113a7,Robert Andrich,30,GER,CM,25-272,70,0,0,0,0,1,0,1,0,29,2,0,2,0.0,0.0,0.0,2,0,15,21,71.4,0,11,0,0,0,Union Berlin,2020-06-20 Hoffenheim-Union Berlin,GER-BL1,19-20,08ce33f5
+4d7faad1,Felix Kroos,23,GER,CM,29-100,20,0,0,0,0,0,0,0,0,14,1,0,1,0.0,0.0,0.0,0,0,8,10,80.0,1,4,0,0,0,Union Berlin,2020-06-20 Hoffenheim-Union Berlin,GER-BL1,19-20,08ce33f5
+e881ed15,Ken Reichel,14,GER,WB,33-184,90,0,0,0,0,0,0,0,0,40,2,1,2,0.0,0.0,0.1,1,0,19,30,63.3,1,10,0,0,0,Union Berlin,2020-06-20 Hoffenheim-Union Berlin,GER-BL1,19-20,08ce33f5
+056d2d95,Christopher Trimmel,28,AUT,WB,33-117,90,0,0,0,0,1,1,0,0,47,2,1,0,0.0,0.0,0.1,1,0,25,36,69.4,3,14,1,1,0,Union Berlin,2020-06-20 Hoffenheim-Union Berlin,GER-BL1,19-20,08ce33f5
+821233cc,Neven Subotić,3,SRB,CB,31-193,61,0,0,0,0,0,0,0,0,40,0,0,1,0.0,0.0,0.0,0,0,26,34,76.5,4,21,1,0,0,Union Berlin,2020-06-20 Hoffenheim-Union Berlin,GER-BL1,19-20,08ce33f5
+3acad81a,Michael Parensen,29,GER,CB,33-362,29,0,0,0,0,0,0,0,0,22,1,0,0,0.0,0.0,0.0,0,0,14,19,73.7,3,13,2,1,0,Union Berlin,2020-06-20 Hoffenheim-Union Berlin,GER-BL1,19-20,08ce33f5
+f6bdc830,Keven Schlotterbeck,31,GER,CB,23-053,90,0,0,0,0,0,0,0,0,59,4,1,0,0.0,0.0,0.0,0,0,41,48,85.4,1,31,1,0,0,Union Berlin,2020-06-20 Hoffenheim-Union Berlin,GER-BL1,19-20,08ce33f5
+b77f44a4,Marvin Friedrich,5,GER,CB,24-190,90,0,0,0,0,0,0,1,0,45,1,2,1,0.0,0.0,0.0,0,0,36,40,90.0,1,23,1,0,0,Union Berlin,2020-06-20 Hoffenheim-Union Berlin,GER-BL1,19-20,08ce33f5
+226ddf9d,Moritz Nicolas,35,GER,GK,22-243,90,0,0,0,0,0,0,0,0,39,0,0,0,0.0,0.0,0.0,1,0,25,35,71.4,0,17,0,0,0,Union Berlin,2020-06-20 Hoffenheim-Union Berlin,GER-BL1,19-20,08ce33f5

@@ -1,0 +1,31 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+601ef102,Stefano Okaka,7,ITA,FW,31-272,90,0,0,0,0,0,0,0,0,20,0,0,0,0.0,0.0,0.0,2,0,11,16,68.8,3,15,1,1,1,Udinese,2021-05-08 Udinese-Bologna,ITA-SERIA_A,20-21,d3941f3c
+75f2c59f,Roberto Pereyra,37,ARG,FW,30-121,90,0,0,0,0,0,0,0,0,38,0,1,0,0.0,0.0,0.1,3,0,26,28,92.9,4,25,7,4,0,Udinese,2021-05-08 Udinese-Bologna,ITA-SERIA_A,20-21,d3941f3c
+963a328b,Tolgay Arslan,22,GER,DM,30-265,82,0,0,0,0,3,0,0,0,51,3,1,0,0.1,0.1,0.0,1,0,34,39,87.2,2,37,9,1,1,Udinese,2021-05-08 Udinese-Bologna,ITA-SERIA_A,20-21,d3941f3c
+d60c26fc,Fernando Forestieri,45,ITA,DM,31-113,8,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,2,4,50.0,0,5,0,0,0,Udinese,2021-05-08 Udinese-Bologna,ITA-SERIA_A,20-21,d3941f3c
+26db8853,Walace,11,BRA,DM,26-034,90,0,0,0,0,0,0,1,0,55,3,2,1,0.0,0.0,0.0,0,0,42,46,91.3,2,35,0,0,0,Udinese,2021-05-08 Udinese-Bologna,ITA-SERIA_A,20-21,d3941f3c
+162efffd,Rodrigo De Paul,10,ARG,DM,26-349,90,1,0,0,0,4,2,0,0,77,1,0,1,0.2,0.2,0.1,3,1,47,66,71.2,12,49,6,3,2,Udinese,2021-05-08 Udinese-Bologna,ITA-SERIA_A,20-21,d3941f3c
+f91e81c9,Jens Stryger Larsen,19,DEN,WB,30-076,90,0,0,0,0,0,0,0,0,53,0,1,1,0.0,0.0,0.0,1,0,36,48,75.0,5,30,2,1,1,Udinese,2021-05-08 Udinese-Bologna,ITA-SERIA_A,20-21,d3941f3c
+23610943,Nahuel Molina,16,ARG,WB,23-032,90,0,0,0,0,0,0,0,0,52,2,1,2,0.0,0.0,0.0,0,0,33,41,80.5,2,27,1,2,1,Udinese,2021-05-08 Udinese-Bologna,ITA-SERIA_A,20-21,d3941f3c
+e33f36d5,Bram Nuytinck,17,NED,CB,31-004,90,0,0,0,0,1,1,0,0,64,0,0,1,0.0,0.0,0.0,4,0,49,59,83.1,8,41,1,1,1,Udinese,2021-05-08 Udinese-Bologna,ITA-SERIA_A,20-21,d3941f3c
+fb77bfef,Kevin Bonifazi,14,ITA,CB,24-354,90,0,0,0,0,0,0,0,0,51,3,1,1,0.0,0.0,0.0,0,0,31,38,81.6,3,31,0,1,0,Udinese,2021-05-08 Udinese-Bologna,ITA-SERIA_A,20-21,d3941f3c
+19e4eab9,Rodrigo Becão,50,BRA,CB,25-109,41,0,0,0,0,0,0,0,0,27,1,0,2,0.0,0.0,0.0,1,0,20,22,90.9,2,16,0,0,0,Udinese,2021-05-08 Udinese-Bologna,ITA-SERIA_A,20-21,d3941f3c
+952a03fe,Sebastien De Maio,87,FRA,CB,34-064,49,0,0,0,0,1,0,0,0,12,2,1,1,0.1,0.1,0.0,0,0,4,6,66.7,0,2,0,0,0,Udinese,2021-05-08 Udinese-Bologna,ITA-SERIA_A,20-21,d3941f3c
+a111cf41,Juan Musso,1,ARG,GK,27-002,90,0,0,0,0,0,0,0,0,32,0,0,0,0.0,0.0,0.0,0,0,19,28,67.9,0,11,0,0,0,Udinese,2021-05-08 Udinese-Bologna,ITA-SERIA_A,20-21,d3941f3c
+8d8178ac,Rodrigo Palacio,24,ARG,FW,39-092,90,0,0,0,0,2,1,0,0,36,0,0,0,0.6,0.6,0.2,4,1,23,31,74.2,5,28,0,2,1,Bologna,2021-05-08 Udinese-Bologna,ITA-SERIA_A,20-21,d3941f3c
+e5bf73f3,Musa Barrow,99,GAM,LW,22-175,60,0,0,0,0,2,0,0,0,36,0,0,2,0.4,0.4,0.1,3,0,20,30,66.7,1,22,1,0,0,Bologna,2021-05-08 Udinese-Bologna,ITA-SERIA_A,20-21,d3941f3c
+7eb97a8e,Nicola Sansone,10,ITA,LW,29-240,30,0,0,0,0,0,0,0,0,20,1,0,1,0.0,0.0,0.0,1,0,12,15,80.0,2,15,1,2,1,Bologna,2021-05-08 Udinese-Bologna,ITA-SERIA_A,20-21,d3941f3c
+c50cee19,Andreas Skov Olsen,11,DEN,RW,21-130,60,0,0,0,0,0,0,0,0,40,1,1,0,0.0,0.0,0.4,2,0,27,35,77.1,0,29,3,2,1,Bologna,2021-05-08 Udinese-Bologna,ITA-SERIA_A,20-21,d3941f3c
+e14ec482,Riccardo Orsolini,7,ITA,RW,24-104,30,1,0,1,1,1,0,0,0,19,0,0,0,0.8,0.0,0.1,1,0,10,15,66.7,1,12,0,1,0,Bologna,2021-05-08 Udinese-Bologna,ITA-SERIA_A,20-21,d3941f3c
+ec5dae45,Emanuel Vignato,55,ITA,AM,20-257,79,0,0,0,0,3,0,0,0,45,0,0,0,0.2,0.2,0.0,3,0,29,37,78.4,5,37,6,5,4,Bologna,2021-05-08 Udinese-Bologna,ITA-SERIA_A,20-21,d3941f3c
+b3fd7075,Andrea Poli,16,ITA,AM,31-221,11,0,0,0,0,0,0,0,0,6,0,1,0,0.0,0.0,0.0,1,0,2,2,100.0,0,2,1,2,2,Bologna,2021-05-08 Udinese-Bologna,ITA-SERIA_A,20-21,d3941f3c
+9d4c45d6,Roberto Soriano,21,ITA,DM,30-089,90,0,0,0,0,1,1,0,0,56,1,0,2,0.0,0.0,0.1,5,0,43,48,89.6,3,38,4,1,1,Bologna,2021-05-08 Udinese-Bologna,ITA-SERIA_A,20-21,d3941f3c
+2cfae697,Jerdy Schouten,30,NED,DM,24-116,60,0,0,0,0,0,0,1,0,42,1,3,1,0.0,0.0,0.0,5,0,37,39,94.9,8,27,0,0,0,Bologna,2021-05-08 Udinese-Bologna,ITA-SERIA_A,20-21,d3941f3c
+92d83c27,Mattias Svanberg,32,SWE,DM,22-123,30,0,0,0,0,1,1,0,0,15,0,0,0,0.0,0.0,0.0,1,0,10,11,90.9,1,12,1,0,0,Bologna,2021-05-08 Udinese-Bologna,ITA-SERIA_A,20-21,d3941f3c
+0a3065c8,Mitchell Dijks,35,NED,LB,28-088,79,0,0,0,0,1,0,0,0,51,2,1,1,0.0,0.0,0.0,0,0,32,42,76.2,3,30,1,1,0,Bologna,2021-05-08 Udinese-Bologna,ITA-SERIA_A,20-21,d3941f3c
+7737dee2,Musa Juwara,80,GAM,LB,19-133,11,0,0,0,0,0,0,0,0,9,1,0,0,0.0,0.0,0.0,0,0,5,6,83.3,0,6,1,0,0,Bologna,2021-05-08 Udinese-Bologna,ITA-SERIA_A,20-21,d3941f3c
+7b075c75,Adama Soumaoro,5,FRA,CB,28-324,90,0,0,0,0,2,0,0,0,52,1,0,0,0.2,0.2,0.0,0,0,40,43,93.0,3,32,0,0,0,Bologna,2021-05-08 Udinese-Bologna,ITA-SERIA_A,20-21,d3941f3c
+fed5f993,Danilo Larangeira,23,BRA,CB,36-363,90,0,0,0,0,1,0,0,0,57,1,2,1,0.0,0.0,0.0,1,0,39,50,78.0,5,37,0,2,1,Bologna,2021-05-08 Udinese-Bologna,ITA-SERIA_A,20-21,d3941f3c
+b3af9be1,Takehiro Tomiyasu,14,JPN,RB,22-184,90,0,0,0,0,1,0,0,0,65,1,0,0,0.0,0.0,0.0,0,0,54,62,87.1,10,53,2,0,0,Bologna,2021-05-08 Udinese-Bologna,ITA-SERIA_A,20-21,d3941f3c
+ab4449d6,Łukasz Skorupski,28,POL,GK,30-003,90,0,0,0,0,0,0,0,0,32,0,0,0,0.0,0.0,0.0,0,0,27,31,87.1,0,24,0,0,0,Bologna,2021-05-08 Udinese-Bologna,ITA-SERIA_A,20-21,d3941f3c

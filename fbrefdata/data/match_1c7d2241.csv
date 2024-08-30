@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+88c4d190,Jérémy Le Douaron,22,FRA,FW,24-129,45,0,0,0,0,1,0,0,0,17,0,0,1,0.1,0.1,0.0,0,0,8,10,80.0,0,11,1,2,1,Brest,2022-08-28 Brest-Montpellier,FRA-L1,22-23,1c7d2241
+ffec9769,Islam Slimani,13,ALG,FW,34-071,45,0,0,0,0,1,0,0,0,22,1,0,0,0.0,0.0,0.0,0,0,12,18,66.7,0,18,1,0,0,Brest,2022-08-28 Brest-Montpellier,FRA-L1,22-23,1c7d2241
+1a248246,Youcef Belaïli,31,ALG,LW,30-167,67,0,0,0,0,1,0,0,0,36,0,0,0,0.1,0.1,0.1,3,0,22,33,66.7,2,23,2,1,0,Brest,2022-08-28 Brest-Montpellier,FRA-L1,22-23,1c7d2241
+7304f3b1,Karamoko Dembélé,18,ENG,LW,19-187,23,0,0,0,0,0,0,0,0,17,0,0,0,0.0,0.0,0.0,1,0,7,13,53.8,0,15,1,0,0,Brest,2022-08-28 Brest-Montpellier,FRA-L1,22-23,1c7d2241
+8846a40f,Mathias Pereira Lage,29,POR,"RW,RM",25-271,84,0,0,0,0,0,0,0,0,36,3,1,0,0.0,0.0,0.0,2,0,17,25,68.0,3,30,0,1,0,Brest,2022-08-28 Brest-Montpellier,FRA-L1,22-23,1c7d2241
+d75f3980,Jere Uronen,21,FIN,RM,28-046,6,0,0,0,0,0,0,0,0,7,1,0,0,0.0,0.0,0.0,0,0,6,6,100.0,1,5,0,0,0,Brest,2022-08-28 Brest-Montpellier,FRA-L1,22-23,1c7d2241
+f5044e54,Pierre Lees-Melou,20,FRA,LM,29-095,49,0,0,0,0,0,0,0,1,21,1,0,0,0.0,0.0,0.0,0,0,13,18,72.2,1,17,0,1,0,Brest,2022-08-28 Brest-Montpellier,FRA-L1,22-23,1c7d2241
+2b1bed19,Haris Belkebla,7,ALG,CM,28-212,90,0,0,0,0,0,0,0,0,62,1,2,2,0.0,0.0,0.0,2,0,46,53,86.8,8,47,2,1,1,Brest,2022-08-28 Brest-Montpellier,FRA-L1,22-23,1c7d2241
+d4d35152,Hugo Magnetti,8,FRA,RM,24-090,45,0,0,0,0,1,0,0,0,25,1,0,0,0.0,0.0,0.0,2,0,12,18,66.7,1,12,0,0,0,Brest,2022-08-28 Brest-Montpellier,FRA-L1,22-23,1c7d2241
+db7849ca,Franck Honorat,9,FRA,"RW,RM",26-017,45,0,0,0,0,0,0,0,0,13,0,1,0,0.0,0.0,0.0,1,0,6,10,60.0,0,10,0,2,1,Brest,2022-08-28 Brest-Montpellier,FRA-L1,22-23,1c7d2241
+5b146df3,Lilian Brassier,3,FRA,LB,22-299,45,0,0,0,0,2,0,0,0,31,1,0,1,0.1,0.1,0.0,0,0,24,26,92.3,3,26,0,0,0,Brest,2022-08-28 Brest-Montpellier,FRA-L1,22-23,1c7d2241
+8577e60a,Mahdi Camara,45,FRA,"RB,LB",24-059,45,0,0,0,0,0,0,0,0,37,0,2,2,0.0,0.0,0.0,0,0,26,31,83.9,3,16,0,3,1,Brest,2022-08-28 Brest-Montpellier,FRA-L1,22-23,1c7d2241
+5069b796,Achraf Dari,4,MAR,CB,23-114,90,0,0,0,0,0,0,0,0,58,0,1,2,0.0,0.0,0.0,0,0,35,48,72.9,3,41,0,0,0,Brest,2022-08-28 Brest-Montpellier,FRA-L1,22-23,1c7d2241
+16aa7d4c,Brendan Chardonnet,5,FRA,CB,27-249,90,0,0,0,0,0,0,0,0,53,0,2,0,0.0,0.0,0.1,1,0,43,51,84.3,10,38,1,0,0,Brest,2022-08-28 Brest-Montpellier,FRA-L1,22-23,1c7d2241
+0cbc8baa,Jean-Kevin Duverne,2,HAI,"RB,LB",25-047,90,0,0,0,0,0,0,0,0,57,1,1,1,0.0,0.0,0.0,0,0,38,47,80.9,6,31,0,2,0,Brest,2022-08-28 Brest-Montpellier,FRA-L1,22-23,1c7d2241
+3d214e5f,Marco Bizot,40,NED,GK,31-171,90,0,0,0,0,0,0,0,0,21,0,0,0,0.0,0.0,0.0,0,0,17,20,85.0,0,14,0,0,0,Brest,2022-08-28 Brest-Montpellier,FRA-L1,22-23,1c7d2241
+0d7b6576,Elye Wahi,21,FRA,FW,19-238,79,2,1,0,0,5,3,0,0,18,0,0,1,1.0,1.0,0.2,2,2,5,9,55.6,0,12,1,0,0,Montpellier,2022-08-28 Brest-Montpellier,FRA-L1,22-23,1c7d2241
+654f49ca,Béni Makouana,28,CGO,FW,19-334,11,0,0,0,0,1,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,2,0,0,0,Montpellier,2022-08-28 Brest-Montpellier,FRA-L1,22-23,1c7d2241
+e54a9890,Faitout Maouassa,27,FRA,LW,24-053,67,1,1,0,0,1,1,0,0,25,2,0,2,0.2,0.2,0.4,5,2,11,17,64.7,3,13,4,0,0,Montpellier,2022-08-28 Brest-Montpellier,FRA-L1,22-23,1c7d2241
+4e0afc5d,Arnaud Souquet,2,FRA,LW,30-197,23,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,6,7,85.7,0,8,0,1,0,Montpellier,2022-08-28 Brest-Montpellier,FRA-L1,22-23,1c7d2241
+7b9a9e25,Arnaud Nordin,7,FRA,RW,24-072,67,0,0,0,0,0,0,1,0,21,2,0,1,0.0,0.0,0.0,3,0,6,11,54.5,2,12,1,5,1,Montpellier,2022-08-28 Brest-Montpellier,FRA-L1,22-23,1c7d2241
+fcc84a07,Léo Leroy,18,FRA,RW,22-195,23,0,0,0,0,1,0,1,0,16,1,0,2,0.1,0.1,0.0,1,1,8,10,80.0,1,12,0,0,0,Montpellier,2022-08-28 Brest-Montpellier,FRA-L1,22-23,1c7d2241
+2677a1de,Wahbi Khazri,99,TUN,AM,31-201,53,1,1,0,0,2,1,0,0,15,1,0,1,0.1,0.1,0.1,2,2,3,6,50.0,1,9,1,0,0,Montpellier,2022-08-28 Brest-Montpellier,FRA-L1,22-23,1c7d2241
+ea0ff634,Valère Germain,9,FRA,AM,32-133,37,2,0,0,0,3,2,0,0,18,0,0,0,0.6,0.6,0.0,0,0,7,11,63.6,0,12,1,0,0,Montpellier,2022-08-28 Brest-Montpellier,FRA-L1,22-23,1c7d2241
+375622c5,Jordan Ferri,12,FRA,DM,30-169,90,0,0,0,0,0,0,0,0,73,1,0,0,0.0,0.0,0.0,1,0,57,69,82.6,5,66,0,0,0,Montpellier,2022-08-28 Brest-Montpellier,FRA-L1,22-23,1c7d2241
+7909ffa4,Joris Chotard,13,FRA,DM,20-338,90,0,0,0,0,0,0,0,0,55,4,1,2,0.0,0.0,0.8,3,0,39,45,86.7,3,33,0,1,0,Montpellier,2022-08-28 Brest-Montpellier,FRA-L1,22-23,1c7d2241
+93c942fb,Théo Sainte-Luce,17,FRA,LB,23-312,90,0,1,0,0,0,0,0,0,46,2,1,0,0.0,0.0,0.4,2,1,34,41,82.9,1,27,0,3,3,Montpellier,2022-08-28 Brest-Montpellier,FRA-L1,22-23,1c7d2241
+8f325097,Nicolas Cozza,31,FRA,CB,23-232,54,1,0,0,0,1,1,0,0,37,2,1,0,0.6,0.6,0.0,1,1,15,26,57.7,0,18,0,1,1,Montpellier,2022-08-28 Brest-Montpellier,FRA-L1,22-23,1c7d2241
+1a066e69,Maxime Estève,14,FRA,CB,20-094,36,0,0,0,0,0,0,0,0,46,1,2,1,0.0,0.0,0.0,1,0,32,36,88.9,1,29,2,0,0,Montpellier,2022-08-28 Brest-Montpellier,FRA-L1,22-23,1c7d2241
+f323d995,Christopher Jullien,6,FRA,CB,29-159,90,0,0,0,0,0,0,0,0,41,1,0,1,0.0,0.0,0.0,0,0,29,35,82.9,2,29,0,0,0,Montpellier,2022-08-28 Brest-Montpellier,FRA-L1,22-23,1c7d2241
+6388e356,Falaye Sacko,77,MLI,RB,27-119,90,0,2,0,0,0,0,0,0,44,1,1,2,0.0,0.0,0.2,3,2,29,36,80.6,4,27,3,3,2,Montpellier,2022-08-28 Brest-Montpellier,FRA-L1,22-23,1c7d2241
+c631f952,Jonas Omlin,1,SUI,GK,28-230,90,0,0,0,0,0,0,0,0,39,0,0,0,0.0,0.0,0.0,0,0,29,37,78.4,0,26,0,0,0,Montpellier,2022-08-28 Brest-Montpellier,FRA-L1,22-23,1c7d2241

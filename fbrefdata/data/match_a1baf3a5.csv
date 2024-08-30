@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+9dbb75ca,Alexandre Lacazette,91,FRA,FW,31-083,90,1,0,0,0,3,3,0,0,38,2,1,0,0.7,0.7,0.1,1,0,18,27,66.7,3,32,2,3,1,Lyon,2022-08-19 Lyon-Troyes,FRA-L1,22-23,a1baf3a5
+5ceba7fc,Karl Toko Ekambi,7,CMR,LW,29-339,90,0,0,0,0,2,1,0,0,50,1,1,0,0.3,0.3,0.4,5,0,37,44,84.1,5,42,4,3,1,Lyon,2022-08-19 Lyon-Troyes,FRA-L1,22-23,a1baf3a5
+7120a04d,Tetê,20,BRA,RW,22-185,86,2,1,0,0,3,2,0,0,63,1,2,0,0.7,0.7,0.3,1,1,40,49,81.6,4,48,3,3,0,Lyon,2022-08-19 Lyon-Troyes,FRA-L1,22-23,a1baf3a5
+745ca0a3,Romain Faivre,15,FRA,RW,24-036,4,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,1,4,1,1,0,Lyon,2022-08-19 Lyon-Troyes,FRA-L1,22-23,a1baf3a5
+652d4c37,Corentin Tolisso,88,FRA,LM,28-016,62,0,0,0,0,0,0,0,0,58,1,0,0,0.0,0.0,0.2,2,0,49,56,87.5,6,50,0,0,0,Lyon,2022-08-19 Lyon-Troyes,FRA-L1,22-23,a1baf3a5
+d504b3e1,Jeff Reine-Adélaïde,22,FRA,LM,24-214,28,0,0,0,0,0,0,0,0,31,1,0,0,0.0,0.0,0.0,0,0,24,28,85.7,1,30,0,5,3,Lyon,2022-08-19 Lyon-Troyes,FRA-L1,22-23,a1baf3a5
+1e52971c,Johann Lepenant,24,FRA,CM,19-301,72,0,0,0,0,0,0,0,0,79,4,0,0,0.0,0.0,0.0,1,0,63,70,90.0,5,66,1,1,0,Lyon,2022-08-19 Lyon-Troyes,FRA-L1,22-23,a1baf3a5
+f81ef10d,Maxence Caqueret,6,FRA,CM,22-185,18,0,0,0,0,0,0,0,0,41,1,1,0,0.0,0.0,0.1,3,2,34,39,87.2,8,36,0,0,0,Lyon,2022-08-19 Lyon-Troyes,FRA-L1,22-23,a1baf3a5
+9b6f7fd5,Lucas Paquetá,10,BRA,RM,24-357,85,0,0,0,0,4,1,0,0,82,3,1,2,0.3,0.3,0.2,8,1,62,72,86.1,6,69,3,2,1,Lyon,2022-08-19 Lyon-Troyes,FRA-L1,22-23,a1baf3a5
+b34c63a5,Rayan Cherki,18,FRA,RM,19-002,5,0,0,0,0,2,0,0,0,7,0,0,0,0.2,0.2,0.0,0,0,3,5,60.0,0,6,1,0,0,Lyon,2022-08-19 Lyon-Troyes,FRA-L1,22-23,a1baf3a5
+f0661424,Nicolás Tagliafico,3,ARG,LB,29-353,90,1,0,0,0,2,1,0,0,100,1,3,0,0.4,0.4,0.0,3,0,82,87,94.3,7,75,0,1,0,Lyon,2022-08-19 Lyon-Troyes,FRA-L1,22-23,a1baf3a5
+5b9512c5,Castello Lukeba,4,FRA,CB,19-245,90,0,0,0,0,0,0,0,0,101,2,2,2,0.0,0.0,0.0,1,0,89,95,93.7,11,88,0,0,0,Lyon,2022-08-19 Lyon-Troyes,FRA-L1,22-23,a1baf3a5
+c6e5d20f,Thiago Mendes,23,BRA,CB,30-157,90,0,0,0,0,0,0,0,0,112,2,1,0,0.0,0.0,0.0,0,0,93,106,87.7,6,97,0,0,0,Lyon,2022-08-19 Lyon-Troyes,FRA-L1,22-23,a1baf3a5
+d56b9520,Malo Gusto,27,FRA,RB,19-092,71,0,0,0,0,0,0,0,0,77,4,1,1,0.0,0.0,0.1,1,0,59,65,90.8,3,62,6,6,1,Lyon,2022-08-19 Lyon-Troyes,FRA-L1,22-23,a1baf3a5
+f28474a4,Henrique,12,BRA,RB,28-116,19,0,0,0,0,0,0,0,0,18,1,1,0,0.0,0.0,0.0,1,0,16,16,100.0,2,13,0,0,0,Lyon,2022-08-19 Lyon-Troyes,FRA-L1,22-23,a1baf3a5
+7f41ee30,Rémy Riou,35,FRA,GK,35-013,90,0,0,0,0,0,0,0,0,25,0,0,0,0.0,0.0,0.0,0,0,19,22,86.4,0,13,0,0,0,Lyon,2022-08-19 Lyon-Troyes,FRA-L1,22-23,a1baf3a5
+8a53d24b,Ike Ugbo,9,CAN,FW,23-332,71,0,0,0,0,1,0,0,0,16,0,0,0,0.2,0.2,0.0,1,0,7,11,63.6,0,7,0,3,1,Troyes,2022-08-19 Lyon-Troyes,FRA-L1,22-23,a1baf3a5
+836dc4a8,Kyliane Dong,27,FRA,RB,17-326,19,0,0,0,0,0,0,0,0,7,1,0,0,0.0,0.0,0.0,0,0,3,6,50.0,0,6,2,0,0,Troyes,2022-08-19 Lyon-Troyes,FRA-L1,22-23,a1baf3a5
+fb14aa28,Mama Samba Baldé,25,GNB,LM,26-286,58,0,0,0,0,1,0,0,0,19,3,0,0,0.0,0.0,0.0,0,0,6,8,75.0,3,10,1,3,0,Troyes,2022-08-19 Lyon-Troyes,FRA-L1,22-23,a1baf3a5
+279ddf6a,Xavier Chavalerin,24,FRA,LM,31-165,32,0,0,0,0,0,0,0,0,32,1,1,0,0.0,0.0,0.0,0,0,27,29,93.1,2,26,0,1,1,Troyes,2022-08-19 Lyon-Troyes,FRA-L1,22-23,a1baf3a5
+ed39121c,Florian Tardieu,10,FRA,CM,30-119,90,1,0,1,1,0,0,0,0,79,2,5,2,0.8,0.0,0.0,2,0,63,69,91.3,6,60,1,0,0,Troyes,2022-08-19 Lyon-Troyes,FRA-L1,22-23,a1baf3a5
+86a2ba20,Rominigue Kouamé,6,MLI,CM,25-245,90,0,0,0,0,1,0,1,0,62,1,2,2,0.0,0.0,0.0,1,1,42,49,85.7,5,47,5,4,4,Troyes,2022-08-19 Lyon-Troyes,FRA-L1,22-23,a1baf3a5
+35516eac,Wilson Odobert,29,FRA,"RM,LB",17-264,90,0,0,0,0,0,0,0,0,50,2,2,1,0.0,0.0,0.0,0,0,20,31,64.5,2,42,3,10,2,Troyes,2022-08-19 Lyon-Troyes,FRA-L1,22-23,a1baf3a5
+0ed063d6,Yasser Larouci,39,ALG,LB,21-230,58,0,0,0,0,0,0,0,0,27,0,0,0,0.0,0.0,0.0,1,0,15,21,71.4,2,20,3,3,2,Troyes,2022-08-19 Lyon-Troyes,FRA-L1,22-23,a1baf3a5
+92b56413,Tristan Dingomé,5,CMR,"RM,LB",31-183,32,0,0,0,0,0,0,0,0,28,0,0,0,0.0,0.0,0.2,2,0,18,26,69.2,1,25,1,2,1,Troyes,2022-08-19 Lyon-Troyes,FRA-L1,22-23,a1baf3a5
+c3725db2,Yoann Salmier,17,GUF,CB,29-271,90,0,0,0,0,0,0,0,0,33,2,3,2,0.0,0.0,0.0,0,0,17,26,65.4,3,21,1,0,0,Troyes,2022-08-19 Lyon-Troyes,FRA-L1,22-23,a1baf3a5
+8dbff17c,Adil Rami,23,FRA,CB,36-235,90,0,0,0,0,0,0,0,0,35,2,1,0,0.0,0.0,0.0,0,0,23,27,85.2,0,22,0,0,0,Troyes,2022-08-19 Lyon-Troyes,FRA-L1,22-23,a1baf3a5
+e5c1e0ca,Erik Palmer-Brown,4,USA,CB,25-117,90,0,0,0,0,0,0,0,0,40,1,4,1,0.0,0.0,0.0,0,0,22,26,84.6,0,23,0,1,0,Troyes,2022-08-19 Lyon-Troyes,FRA-L1,22-23,a1baf3a5
+3975195f,Thierno Balde,3,FRA,RB,20-070,71,0,0,0,0,0,0,0,0,46,1,0,0,0.0,0.0,0.0,1,1,35,43,81.4,3,31,3,1,1,Troyes,2022-08-19 Lyon-Troyes,FRA-L1,22-23,a1baf3a5
+beae3a73,Renaud Ripart,20,FRA,FW,29-158,19,0,0,0,0,0,0,0,0,10,2,0,0,0.0,0.0,0.0,0,0,8,8,100.0,0,7,0,2,2,Troyes,2022-08-19 Lyon-Troyes,FRA-L1,22-23,a1baf3a5
+db3164e1,Gauthier Gallon,30,FRA,GK,29-118,90,0,0,0,0,0,0,0,0,33,1,0,0,0.0,0.0,0.0,0,0,22,29,75.9,0,19,0,0,0,Troyes,2022-08-19 Lyon-Troyes,FRA-L1,22-23,a1baf3a5

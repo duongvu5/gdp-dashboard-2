@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+e53ab10b,Clément Depres,9,FRA,FW,24-006,63,0,0,0,0,3,1,0,0,20,0,0,0,0.2,0.2,0.0,3,0,8,13,61.5,2,11,1,0,0,Nîmes,2018-12-01 Nîmes-Amiens,FRA-L1,18-19,6aaec2d9
+bdedd861,Rachid Alioui,7,MAR,"FW,LW",26-166,27,2,0,0,0,2,2,0,0,14,2,0,0,0.7,0.7,0.0,1,1,5,7,71.4,1,9,1,0,0,Nîmes,2018-12-01 Nîmes-Amiens,FRA-L1,18-19,6aaec2d9
+0b0cbe5b,Denis Bouanga,10,GAB,"LW,RW",24-020,90,1,1,0,0,4,2,0,0,35,1,1,1,0.7,0.7,0.5,3,1,10,21,47.6,0,30,5,6,4,Nîmes,2018-12-01 Nîmes-Amiens,FRA-L1,18-19,6aaec2d9
+f4bc42b1,Sada Thioub,22,SEN,RW,23-183,77,0,0,0,0,1,0,0,0,45,2,0,0,0.1,0.1,0.0,2,1,28,37,75.7,3,34,5,5,2,Nîmes,2018-12-01 Nîmes-Amiens,FRA-L1,18-19,6aaec2d9
+6e2c94ad,Umut Bozok,19,TUR,"FW,RW",22-073,13,0,1,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.3,1,1,1,1,100.0,0,3,0,0,0,Nîmes,2018-12-01 Nîmes-Amiens,FRA-L1,18-19,6aaec2d9
+c8090cb3,Theo Valls,18,FRA,LM,22-348,90,0,0,0,0,1,1,0,0,36,2,0,3,0.1,0.1,0.1,2,0,19,26,73.1,4,21,3,1,0,Nîmes,2018-12-01 Nîmes-Amiens,FRA-L1,18-19,6aaec2d9
+6bde367b,Téji Savanier,11,FRA,CM,26-344,90,0,0,0,0,1,0,0,0,77,3,2,1,0.0,0.0,0.3,4,0,40,67,59.7,12,32,2,3,3,Nîmes,2018-12-01 Nîmes-Amiens,FRA-L1,18-19,6aaec2d9
+375622c5,Jordan Ferri,6,FRA,RM,26-264,83,0,0,0,0,0,0,0,0,73,3,1,3,0.0,0.0,0.0,1,1,47,60,78.3,8,44,3,2,1,Nîmes,2018-12-01 Nîmes-Amiens,FRA-L1,18-19,6aaec2d9
+7d937aa1,Antonin Bobichon,14,FRA,RM,23-078,7,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,1,0,0,0,Nîmes,2018-12-01 Nîmes-Amiens,FRA-L1,18-19,6aaec2d9
+e54a9890,Faitout Maouassa,12,FRA,LB,20-148,90,0,0,0,0,1,1,0,0,60,1,0,0,0.0,0.0,0.3,5,0,45,52,86.5,7,27,8,2,2,Nîmes,2018-12-01 Nîmes-Amiens,FRA-L1,18-19,6aaec2d9
+dc709ab5,Hervé Lybohy,27,NIG,CB,35-131,90,0,0,0,0,0,0,0,0,49,0,1,1,0.0,0.0,0.0,0,0,39,42,92.9,1,31,2,0,0,Nîmes,2018-12-01 Nîmes-Amiens,FRA-L1,18-19,6aaec2d9
+16324e1d,Anthony Briançon,23,FRA,CB,24-003,90,0,0,0,0,0,0,0,0,74,3,3,0,0.0,0.0,0.0,0,0,49,61,80.3,3,39,0,0,0,Nîmes,2018-12-01 Nîmes-Amiens,FRA-L1,18-19,6aaec2d9
+beae3a73,Renaud Ripart,20,FRA,RB,25-262,90,0,0,0,0,0,0,1,0,79,1,0,1,0.0,0.0,0.0,0,0,53,68,77.9,1,42,2,2,0,Nîmes,2018-12-01 Nîmes-Amiens,FRA-L1,18-19,6aaec2d9
+28dabd43,Paul Bernardoni,30,FRA,GK,21-227,90,0,0,0,0,0,0,0,0,34,1,0,0,0.0,0.0,0.0,0,0,18,31,58.1,0,17,0,0,0,Nîmes,2018-12-01 Nîmes-Amiens,FRA-L1,18-19,6aaec2d9
+f7b1d4e0,Saman Ghoddos,7,IRN,"RW,FW",25-086,90,0,0,0,0,3,1,1,0,47,1,0,0,0.2,0.2,0.0,5,0,24,35,68.6,3,24,4,3,2,Amiens,2018-12-01 Nîmes-Amiens,FRA-L1,18-19,6aaec2d9
+e68f2cb4,Stiven Mendoza,10,COL,"LW,FW",26-157,90,0,0,0,0,3,0,1,0,46,1,0,1,0.1,0.1,0.0,2,0,24,28,85.7,4,31,4,5,3,Amiens,2018-12-01 Nîmes-Amiens,FRA-L1,18-19,6aaec2d9
+f3642ba8,Mathieu Bodmer,24,FRA,"AM,FW",36-009,63,0,0,0,0,0,0,0,0,53,2,0,0,0.0,0.0,0.2,2,0,29,46,63.0,8,20,1,0,0,Amiens,2018-12-01 Nîmes-Amiens,FRA-L1,18-19,6aaec2d9
+23593121,Ganso,8,BRA,"AM,FW",29-050,27,0,0,0,0,0,0,0,0,17,0,0,0,0.0,0.0,0.1,2,0,14,16,87.5,1,6,0,0,0,Amiens,2018-12-01 Nîmes-Amiens,FRA-L1,18-19,6aaec2d9
+c69ef855,Alexis Blin,17,FRA,"CM,DM",22-076,90,0,0,0,0,0,0,0,0,64,5,1,4,0.0,0.0,0.0,2,0,41,48,85.4,5,28,0,2,1,Amiens,2018-12-01 Nîmes-Amiens,FRA-L1,18-19,6aaec2d9
+84d94b91,Thomas Monconduit,6,FRA,"CM,LM,DM",27-294,76,0,0,0,0,0,0,0,0,43,3,1,0,0.0,0.0,0.0,1,0,24,35,68.6,4,22,0,1,0,Amiens,2018-12-01 Nîmes-Amiens,FRA-L1,18-19,6aaec2d9
+2c92d3c0,Cheick Timite,20,CIV,FW,21-011,14,0,0,0,0,1,0,0,0,5,0,0,0,0.5,0.5,0.0,0,0,2,2,100.0,0,4,1,0,0,Amiens,2018-12-01 Nîmes-Amiens,FRA-L1,18-19,6aaec2d9
+c3e4ecbb,Jordan Lefort,25,FRA,WB,25-114,45,0,0,0,0,0,0,0,0,39,4,3,0,0.0,0.0,0.0,0,0,18,32,56.3,2,11,0,0,0,Amiens,2018-12-01 Nîmes-Amiens,FRA-L1,18-19,6aaec2d9
+a0434482,Eddy Gnahoré,5,FRA,"RM,DM,AM",25-017,45,0,0,0,0,0,0,0,0,25,1,0,1,0.0,0.0,0.0,0,0,19,22,86.4,3,17,2,4,3,Amiens,2018-12-01 Nîmes-Amiens,FRA-L1,18-19,6aaec2d9
+9f29c204,Oualid El Hajjam,19,MAR,"RB,WB",27-285,90,0,0,0,0,0,0,0,0,61,4,2,0,0.0,0.0,0.0,1,0,33,45,73.3,3,23,1,2,1,Amiens,2018-12-01 Nîmes-Amiens,FRA-L1,18-19,6aaec2d9
+247accfd,Bakaye Dibassy,12,MLI,"LB,CB",29-112,90,0,0,0,0,0,0,1,0,61,0,2,1,0.0,0.0,0.0,1,0,37,53,69.8,3,32,1,2,1,Amiens,2018-12-01 Nîmes-Amiens,FRA-L1,18-19,6aaec2d9
+16714a62,Khaled Adénon,3,BEN,CB,33-126,90,0,0,0,0,1,0,1,0,54,3,2,1,0.1,0.1,0.0,0,0,31,35,88.6,1,18,0,0,0,Amiens,2018-12-01 Nîmes-Amiens,FRA-L1,18-19,6aaec2d9
+7c6d6c96,Prince-Désir Gouano,2,FRA,CB,24-342,90,0,0,0,0,0,0,0,0,40,4,2,0,0.0,0.0,0.0,0,0,25,28,89.3,1,22,0,0,0,Amiens,2018-12-01 Nîmes-Amiens,FRA-L1,18-19,6aaec2d9
+bc270726,Régis Gurtner,1,FRA,GK,31-358,90,0,0,0,0,0,0,0,0,36,0,0,0,0.0,0.0,0.0,0,0,18,34,52.9,0,18,0,0,0,Amiens,2018-12-01 Nîmes-Amiens,FRA-L1,18-19,6aaec2d9

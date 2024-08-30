@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+ebac0ace,Bryan Lasme,10,FRA,FW,22-273,76,0,0,0,0,2,0,0,0,20,3,0,0,0.0,0.0,0.0,0,0,5,8,62.5,0,10,0,0,0,Arminia,2021-08-14 Arminia-Freiburg,GER-BL1,21-22,e4331e7c
+f9f92b5f,Florian Krüger,18,GER,FW,22-182,14,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,1,3,33.3,0,2,0,1,0,Arminia,2021-08-14 Arminia-Freiburg,GER-BL1,21-22,e4331e7c
+e21042ae,Fabian Klos,9,GER,FW,33-255,89,0,0,0,0,4,1,1,0,45,0,0,0,0.2,0.2,0.0,2,0,13,33,39.4,5,17,2,0,0,Arminia,2021-08-14 Arminia-Freiburg,GER-BL1,21-22,e4331e7c
+40b58bfc,Janni Serra,23,GER,FW,23-154,1,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,2,0,0,0,Arminia,2021-08-14 Arminia-Freiburg,GER-BL1,21-22,e4331e7c
+63b9cc6d,Masaya Okugawa,11,JPN,AM,25-122,66,0,0,0,0,2,2,0,0,19,2,0,1,0.2,0.2,0.0,1,0,4,12,33.3,0,10,4,3,1,Arminia,2021-08-14 Arminia-Freiburg,GER-BL1,21-22,e4331e7c
+0174ba21,Robin Hack,21,GER,AM,22-352,24,0,0,0,0,0,0,0,0,6,1,0,0,0.0,0.0,0.0,2,0,3,5,60.0,0,6,0,0,0,Arminia,2021-08-14 Arminia-Freiburg,GER-BL1,21-22,e4331e7c
+106bca06,Alessandro Schöpf,8,AUT,LM,27-188,90,0,0,0,0,1,0,0,0,40,2,1,0,0.0,0.0,0.1,2,0,16,27,59.3,1,11,2,2,1,Arminia,2021-08-14 Arminia-Freiburg,GER-BL1,21-22,e4331e7c
+d25fee56,Fabian Kunze,16,GER,RM,23-061,90,0,0,0,0,0,0,0,0,33,2,0,0,0.0,0.0,0.1,2,0,19,25,76.0,5,12,0,1,1,Arminia,2021-08-14 Arminia-Freiburg,GER-BL1,21-22,e4331e7c
+901c0f97,Manuel Prietl,19,AUT,DM,30-011,90,0,0,0,0,0,0,1,0,31,2,2,2,0.0,0.0,0.0,0,0,19,24,79.2,1,13,0,0,0,Arminia,2021-08-14 Arminia-Freiburg,GER-BL1,21-22,e4331e7c
+c0d3bd23,Jacob Barrett Laursen,5,DEN,LB,26-270,76,0,0,0,0,1,0,1,0,42,1,1,2,0.0,0.0,0.0,1,0,23,38,60.5,3,9,0,1,0,Arminia,2021-08-14 Arminia-Freiburg,GER-BL1,21-22,e4331e7c
+d686dbc0,Nathan de Medina,15,BEL,LB,23-310,14,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,2,0,0,0,Arminia,2021-08-14 Arminia-Freiburg,GER-BL1,21-22,e4331e7c
+c562c5b4,Joakim Nilsson,4,SWE,CB,27-189,76,0,0,0,0,0,0,0,0,43,1,2,0,0.0,0.0,0.0,0,0,25,35,71.4,2,19,0,0,0,Arminia,2021-08-14 Arminia-Freiburg,GER-BL1,21-22,e4331e7c
+25f50295,Mike van der Hoorn,6,NED,CB,28-303,14,0,0,0,0,0,0,0,0,5,1,1,0,0.0,0.0,0.0,0,0,2,2,100.0,0,2,0,0,0,Arminia,2021-08-14 Arminia-Freiburg,GER-BL1,21-22,e4331e7c
+526ea7cc,Amos Pieper,2,GER,CB,23-209,90,0,0,0,0,0,0,0,0,65,2,2,0,0.0,0.0,0.0,0,0,47,57,82.5,0,30,1,1,1,Arminia,2021-08-14 Arminia-Freiburg,GER-BL1,21-22,e4331e7c
+f0a37d36,Cédric Brunner,27,SUI,RB,27-178,90,0,0,0,0,0,0,0,0,45,1,1,2,0.0,0.0,0.0,2,0,24,36,66.7,2,13,1,0,0,Arminia,2021-08-14 Arminia-Freiburg,GER-BL1,21-22,e4331e7c
+c1242d4e,Stefan Ortega,1,GER,GK,28-281,90,0,0,0,0,0,0,0,0,77,0,0,0,0.0,0.0,0.0,3,0,47,72,65.3,0,46,0,0,0,Arminia,2021-08-14 Arminia-Freiburg,GER-BL1,21-22,e4331e7c
+ca618d23,Lucas Höler,9,GER,FW,27-035,84,0,0,0,0,3,2,0,0,40,1,1,0,0.7,0.7,0.0,4,0,18,25,72.0,2,25,1,0,0,Freiburg,2021-08-14 Arminia-Freiburg,GER-BL1,21-22,e4331e7c
+ed79b7d3,Ermedin Demirović,11,BIH,AM,23-142,6,0,0,0,0,1,0,1,0,1,0,0,0,0.1,0.1,0.0,0,0,0,0,,0,1,0,0,0,Freiburg,2021-08-14 Arminia-Freiburg,GER-BL1,21-22,e4331e7c
+54e4866f,Vincenzo Grifo,32,ITA,AM,28-129,84,0,0,0,0,0,0,0,0,48,2,0,0,0.0,0.0,0.8,6,0,29,39,74.4,7,25,2,2,0,Freiburg,2021-08-14 Arminia-Freiburg,GER-BL1,21-22,e4331e7c
+70dcf94d,Janik Haberer,19,GER,FW,27-134,6,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,1,1,0,0,0,Freiburg,2021-08-14 Arminia-Freiburg,GER-BL1,21-22,e4331e7c
+6190474d,Jeong Woo-yeong,29,KOR,AM,21-328,69,0,0,0,0,1,0,0,0,40,0,0,1,0.0,0.0,0.0,0,0,23,28,82.1,2,23,4,2,0,Freiburg,2021-08-14 Arminia-Freiburg,GER-BL1,21-22,e4331e7c
+bf075f6b,Roland Sallai,22,HUN,AM,24-084,21,0,0,0,0,0,0,0,0,12,0,0,0,0.0,0.0,0.1,2,0,5,10,50.0,1,10,3,0,0,Freiburg,2021-08-14 Arminia-Freiburg,GER-BL1,21-22,e4331e7c
+5d8e331f,Nicolas Höfler,27,GER,CM,31-158,90,0,0,0,0,1,1,1,0,48,3,1,0,0.0,0.0,0.0,0,0,25,34,73.5,1,12,0,3,2,Freiburg,2021-08-14 Arminia-Freiburg,GER-BL1,21-22,e4331e7c
+d2c580ce,Yannik Keitel,14,GER,CM,21-180,69,0,0,0,0,5,1,1,0,38,0,0,0,0.4,0.4,0.0,1,0,18,32,56.3,3,17,2,0,0,Freiburg,2021-08-14 Arminia-Freiburg,GER-BL1,21-22,e4331e7c
+5e22e2a4,Baptiste Santamaria,8,FRA,CM,26-158,21,0,0,0,0,0,0,0,0,7,0,1,0,0.0,0.0,0.0,1,0,1,3,33.3,0,2,1,0,0,Freiburg,2021-08-14 Arminia-Freiburg,GER-BL1,21-22,e4331e7c
+8593f88c,Christian Günter,30,GER,WB,28-167,90,0,0,0,0,0,0,0,0,57,0,0,0,0.0,0.0,0.1,4,0,34,49,69.4,6,30,3,1,0,Freiburg,2021-08-14 Arminia-Freiburg,GER-BL1,21-22,e4331e7c
+088ca1bd,Jonathan Schmid,7,FRA,WB,31-053,90,0,0,0,0,2,1,0,0,58,1,2,3,0.1,0.1,0.0,2,0,33,46,71.7,2,23,1,1,0,Freiburg,2021-08-14 Arminia-Freiburg,GER-BL1,21-22,e4331e7c
+34e12499,Nico Schlotterbeck,4,GER,CB,21-256,90,0,0,0,0,2,0,0,0,76,3,1,2,0.2,0.2,0.2,3,0,40,56,71.4,0,33,2,2,2,Freiburg,2021-08-14 Arminia-Freiburg,GER-BL1,21-22,e4331e7c
+302527b2,Philipp Lienhart,3,AUT,CB,25-034,90,0,0,0,0,0,0,0,0,77,1,2,0,0.0,0.0,0.0,1,0,52,65,80.0,5,36,0,0,0,Freiburg,2021-08-14 Arminia-Freiburg,GER-BL1,21-22,e4331e7c
+25ab9c9c,Manuel Gulde,5,GER,CB,30-183,61,0,0,0,0,0,0,1,0,34,1,2,0,0.0,0.0,0.0,0,0,24,29,82.8,1,13,0,0,0,Freiburg,2021-08-14 Arminia-Freiburg,GER-BL1,21-22,e4331e7c
+699fb8db,Dominique Heintz,23,GER,CB,27-364,29,0,0,0,0,0,0,0,0,22,0,1,0,0.0,0.0,0.0,0,0,20,21,95.2,0,16,0,0,0,Freiburg,2021-08-14 Arminia-Freiburg,GER-BL1,21-22,e4331e7c
+a92ab7be,Mark Flekken,26,NED,GK,28-062,90,0,0,0,0,0,0,0,0,30,0,0,0,0.0,0.0,0.0,0,0,19,29,65.5,0,17,0,0,0,Freiburg,2021-08-14 Arminia-Freiburg,GER-BL1,21-22,e4331e7c

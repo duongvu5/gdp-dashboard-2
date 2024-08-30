@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+f36c432f,Stevan Jovetić,10,MNE,FW,30-094,70,1,0,0,0,2,1,0,0,31,0,1,0,0.1,0.1,0.0,0,0,15,23,65.2,1,12,1,0,0,Monaco,2020-02-04 Monaco-Angers,FRA-L1,19-20,7903d407
+509a4ccb,Keita Baldé,14,SEN,FW,24-333,20,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,0,0,2,4,50.0,1,3,0,0,0,Monaco,2020-02-04 Monaco-Angers,FRA-L1,19-20,7903d407
+942b4f90,Wissam Ben Yedder,9,FRA,FW,29-176,90,0,0,0,0,1,1,0,0,34,0,0,0,0.1,0.1,0.0,0,0,19,22,86.4,5,24,2,1,1,Monaco,2020-02-04 Monaco-Angers,FRA-L1,19-20,7903d407
+33508c78,Cesc Fàbregas,4,ESP,AM,32-276,57,0,0,0,0,0,0,0,0,39,0,0,0,0.0,0.0,0.1,3,0,28,38,73.7,5,20,0,0,0,Monaco,2020-02-04 Monaco-Angers,FRA-L1,19-20,7903d407
+4f255115,Aurélien Tchouaméni,24,FRA,LM,20-008,33,0,0,0,0,0,0,1,0,15,0,0,0,0.0,0.0,0.0,0,0,8,11,72.7,0,5,0,1,0,Monaco,2020-02-04 Monaco-Angers,FRA-L1,19-20,7903d407
+3708e9fa,Aleksandr Golovin,17,RUS,"LM,AM",23-250,90,0,0,0,0,0,0,0,0,66,6,1,1,0.0,0.0,0.0,1,0,47,56,83.9,7,45,5,0,0,Monaco,2020-02-04 Monaco-Angers,FRA-L1,19-20,7903d407
+d6f88a1d,Adrien Silva,8,POR,CM,30-326,90,0,0,0,0,0,0,1,0,59,1,3,0,0.0,0.0,0.0,2,0,46,53,86.8,5,28,0,1,0,Monaco,2020-02-04 Monaco-Angers,FRA-L1,19-20,7903d407
+822d51d7,Youssouf Fofana,22,FRA,RM,21-025,89,0,1,0,0,2,1,0,0,69,0,2,3,0.1,0.1,0.1,2,1,43,55,78.2,4,41,3,3,0,Monaco,2020-02-04 Monaco-Angers,FRA-L1,19-20,7903d407
+0a89e877,Benjamin Henrichs,39,GER,RM,22-346,1,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,0,0,0,0,Monaco,2020-02-04 Monaco-Angers,FRA-L1,19-20,7903d407
+f449640d,Fodé Ballo-Touré,2,SEN,LB,23-032,90,0,0,0,0,0,0,0,0,46,1,2,1,0.0,0.0,0.1,1,0,25,34,73.5,1,16,2,1,0,Monaco,2020-02-04 Monaco-Angers,FRA-L1,19-20,7903d407
+d9764034,Guillermo Maripán,3,CHI,CB,25-274,90,0,0,0,0,0,0,0,0,58,2,1,0,0.0,0.0,0.0,0,0,43,46,93.5,4,36,0,0,0,Monaco,2020-02-04 Monaco-Angers,FRA-L1,19-20,7903d407
+c6056d58,Kamil Glik,25,POL,CB,32-001,90,0,0,0,0,0,0,0,0,63,0,0,1,0.0,0.0,0.0,1,1,47,51,92.2,1,40,0,0,0,Monaco,2020-02-04 Monaco-Angers,FRA-L1,19-20,7903d407
+3dd738a1,Ruben Aguilar,12,FRA,RB,26-284,90,0,0,0,0,1,0,0,0,65,2,0,0,0.0,0.0,0.0,2,0,50,57,87.7,2,39,3,1,1,Monaco,2020-02-04 Monaco-Angers,FRA-L1,19-20,7903d407
+2fa2a875,Benjamin Lecomte,40,FRA,GK,28-284,90,0,0,0,0,0,0,0,0,35,0,0,0,0.0,0.0,0.0,0,0,25,34,73.5,0,13,0,0,0,Monaco,2020-02-04 Monaco-Angers,FRA-L1,19-20,7903d407
+bdedd861,Rachid Alioui,7,MAR,FW,27-231,66,0,0,0,0,2,1,0,0,17,0,0,0,0.0,0.0,0.0,0,0,10,13,76.9,1,13,1,0,0,Angers,2020-02-04 Monaco-Angers,FRA-L1,19-20,7903d407
+5046b7d4,Stéphane Bahoken,19,CMR,FW,27-252,24,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,2,0,0,0,Angers,2020-02-04 Monaco-Angers,FRA-L1,19-20,7903d407
+7d937aa1,Antonin Bobichon,23,FRA,"LM,RM",24-143,60,0,0,0,0,2,0,0,0,46,0,1,0,0.1,0.1,0.1,2,0,32,40,80.0,5,28,9,0,0,Angers,2020-02-04 Monaco-Angers,FRA-L1,19-20,7903d407
+8846a40f,Mathias Pereira Lage,27,POR,"CM,LM",23-066,30,0,0,0,0,0,0,0,0,14,1,0,0,0.0,0.0,0.0,2,0,10,13,76.9,0,8,0,0,0,Angers,2020-02-04 Monaco-Angers,FRA-L1,19-20,7903d407
+79b2399c,Pierrick Capelle,15,FRA,CM,32-295,76,0,0,0,0,2,1,0,0,49,4,0,1,0.1,0.1,0.0,4,0,35,44,79.5,5,27,1,2,2,Angers,2020-02-04 Monaco-Angers,FRA-L1,19-20,7903d407
+91f2da4c,Casimir Ninga,21,CHA,LM,26-263,14,0,0,0,0,1,0,0,0,5,0,0,0,0.1,0.1,0.0,0,0,3,3,100.0,0,3,1,1,0,Angers,2020-02-04 Monaco-Angers,FRA-L1,19-20,7903d407
+4b96c347,Angelo Fulgini,10,FRA,CM,23-168,90,0,0,0,0,3,1,0,0,95,2,2,0,0.2,0.2,0.4,6,0,70,83,84.3,14,53,2,6,5,Angers,2020-02-04 Monaco-Angers,FRA-L1,19-20,7903d407
+f4bc42b1,Sada Thioub,20,SEN,"RM,LM",24-248,90,0,0,0,0,1,0,0,0,63,0,0,0,0.3,0.3,0.1,3,0,42,55,76.4,6,49,5,4,3,Angers,2020-02-04 Monaco-Angers,FRA-L1,19-20,7903d407
+5e22e2a4,Baptiste Santamaria,18,FRA,DM,24-332,90,0,0,0,0,2,0,0,0,69,4,1,0,0.3,0.3,0.0,5,0,55,61,90.2,7,34,1,2,2,Angers,2020-02-04 Monaco-Angers,FRA-L1,19-20,7903d407
+9daeac61,Souleyman Doumbia,3,CIV,LB,23-133,90,0,0,0,0,0,0,0,0,98,0,1,1,0.0,0.0,0.0,0,0,75,87,86.2,8,72,12,0,0,Angers,2020-02-04 Monaco-Angers,FRA-L1,19-20,7903d407
+450e277f,Mateo Pavlović,4,BIH,CB,29-240,90,0,0,0,0,1,1,1,0,73,1,0,0,0.1,0.1,0.2,1,0,58,61,95.1,3,31,0,0,0,Angers,2020-02-04 Monaco-Angers,FRA-L1,19-20,7903d407
+b666421b,Ismaël Traoré,8,CIV,CB,33-170,90,0,0,0,0,1,0,1,0,69,2,0,4,0.0,0.0,0.1,2,0,52,56,92.9,4,34,0,0,0,Angers,2020-02-04 Monaco-Angers,FRA-L1,19-20,7903d407
+c26a3918,Vincent Manceau,29,FRA,RB,30-209,90,0,0,0,0,1,0,0,0,95,1,1,2,0.0,0.0,0.0,2,0,70,86,81.4,9,52,5,1,0,Angers,2020-02-04 Monaco-Angers,FRA-L1,19-20,7903d407
+b98cea65,Danijel Petković,30,MNE,GK,26-255,90,0,0,0,0,0,0,0,0,15,0,0,0,0.0,0.0,0.0,0,0,15,15,100.0,0,8,0,0,0,Angers,2020-02-04 Monaco-Angers,FRA-L1,19-20,7903d407

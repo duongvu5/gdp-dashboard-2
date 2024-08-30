@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+d3de9af0,Duván Zapata,91,COL,FW,29-291,56,0,0,0,0,1,1,0,0,28,0,0,0,0.5,0.5,0.1,2,0,14,21,66.7,1,20,3,3,2,Atalanta,2021-01-17 Atalanta-Genoa,ITA-SERIA_A,20-21,0c2829db
+eb2fe5b6,Luis Muriel,9,COL,FW,29-276,34,0,0,0,0,3,0,0,0,32,0,0,0,0.2,0.2,0.1,3,0,18,24,75.0,1,20,2,3,2,Atalanta,2021-01-17 Atalanta-Genoa,ITA-SERIA_A,20-21,0c2829db
+48d5bd33,Ruslan Malinovskyi,18,UKR,AM,27-258,65,0,0,0,0,2,0,0,0,56,1,0,0,0.1,0.1,0.0,5,0,31,46,67.4,3,36,7,4,2,Atalanta,2021-01-17 Atalanta-Genoa,ITA-SERIA_A,20-21,0c2829db
+a9aa0d1d,Aleksei Miranchuk,59,RUS,AM,25-092,25,0,0,0,0,1,1,0,0,20,0,1,0,0.1,0.1,0.0,3,0,10,19,52.6,0,12,2,3,3,Atalanta,2021-01-17 Atalanta-Genoa,ITA-SERIA_A,20-21,0c2829db
+68252d6d,Josip Iličić,72,SVN,AM,32-354,87,0,0,0,0,3,0,0,0,80,1,0,0,0.1,0.1,0.1,2,0,45,57,78.9,6,63,8,9,0,Atalanta,2021-01-17 Atalanta-Genoa,ITA-SERIA_A,20-21,0c2829db
+c283ddef,Sam Lammers,7,NED,AM,23-262,3,0,0,0,0,1,0,0,0,4,0,0,0,0.1,0.1,0.0,0,0,2,3,66.7,0,1,0,1,1,Atalanta,2021-01-17 Atalanta-Genoa,ITA-SERIA_A,20-21,0c2829db
+98d2c2c4,Remo Freuler,11,SUI,CM,28-277,90,0,0,0,0,1,0,0,0,99,1,2,1,0.1,0.1,0.1,3,0,74,86,86.0,7,61,4,4,1,Atalanta,2021-01-17 Atalanta-Genoa,ITA-SERIA_A,20-21,0c2829db
+2a1beb34,Marten de Roon,15,NED,CM,29-294,90,0,0,0,0,1,0,0,0,95,2,1,1,0.0,0.0,0.0,4,0,72,87,82.8,10,60,2,0,0,Atalanta,2021-01-17 Atalanta-Genoa,ITA-SERIA_A,20-21,0c2829db
+2d970560,Robin Gosens,8,GER,WB,26-196,90,0,0,0,0,1,0,1,0,70,2,1,1,0.1,0.1,0.3,2,0,48,62,77.4,6,41,2,0,0,Atalanta,2021-01-17 Atalanta-Genoa,ITA-SERIA_A,20-21,0c2829db
+3b333ac3,Hans Hateboer,33,NED,WB,27-008,87,0,0,0,0,1,0,0,0,64,2,1,0,0.0,0.0,0.0,5,0,43,56,76.8,5,37,2,0,0,Atalanta,2021-01-17 Atalanta-Genoa,ITA-SERIA_A,20-21,0c2829db
+c459a650,Joakim Mæhle,3,DEN,WB,23-242,3,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,3,7,42.9,0,8,0,1,0,Atalanta,2021-01-17 Atalanta-Genoa,ITA-SERIA_A,20-21,0c2829db
+6eee05f1,Berat Djimsiti,19,ALB,CB,27-333,90,0,0,0,0,1,0,0,0,86,0,0,0,0.2,0.2,0.2,4,0,64,75,85.3,9,55,4,0,0,Atalanta,2021-01-17 Atalanta-Genoa,ITA-SERIA_A,20-21,0c2829db
+921f6058,José Luis Palomino,6,ARG,CB,31-012,90,0,0,0,0,0,0,0,0,84,0,5,1,0.0,0.0,0.0,1,0,66,79,83.5,8,45,1,0,0,Atalanta,2021-01-17 Atalanta-Genoa,ITA-SERIA_A,20-21,0c2829db
+c56dc39e,Rafael Tolói,2,ITA,CB,30-099,90,0,0,0,0,2,0,0,0,84,0,2,2,0.2,0.2,0.0,1,0,59,77,76.6,10,53,1,2,2,Atalanta,2021-01-17 Atalanta-Genoa,ITA-SERIA_A,20-21,0c2829db
+f0f7f62f,Pierluigi Gollini,95,ITA,GK,25-305,90,0,0,0,0,0,0,0,0,26,0,0,0,0.0,0.0,0.0,0,0,24,25,96.0,0,18,0,0,0,Atalanta,2021-01-17 Atalanta-Genoa,ITA-SERIA_A,20-21,0c2829db
+2c38b327,Marko Pjaca,37,CRO,FW,25-256,67,0,0,0,0,2,1,0,0,24,0,0,0,0.1,0.1,0.3,3,0,18,20,90.0,3,13,2,4,4,Genoa,2021-01-17 Atalanta-Genoa,ITA-SERIA_A,20-21,0c2829db
+d711d04f,Goran Pandev,19,MKD,FW,37-174,23,0,0,0,0,0,0,0,0,9,1,0,0,0.0,0.0,0.0,0,0,6,7,85.7,0,4,0,0,0,Genoa,2021-01-17 Atalanta-Genoa,ITA-SERIA_A,20-21,0c2829db
+57469b2d,Eldor Shomurodov,61,UZB,FW,25-202,90,0,0,0,0,2,1,0,0,40,0,0,1,0.4,0.4,0.1,2,0,15,27,55.6,2,19,2,2,1,Genoa,2021-01-17 Atalanta-Genoa,ITA-SERIA_A,20-21,0c2829db
+ef2e5e1a,Kevin Strootman,20,NED,CM,30-339,55,0,0,0,0,0,0,0,0,47,4,1,2,0.0,0.0,0.1,4,0,22,31,71.0,2,18,2,2,2,Genoa,2021-01-17 Atalanta-Genoa,ITA-SERIA_A,20-21,0c2829db
+d3d758d8,Valon Behrami,11,SUI,CM,35-273,35,0,0,0,0,0,0,0,0,11,1,1,0,0.0,0.0,0.0,0,0,2,7,28.6,0,0,0,0,0,Genoa,2021-01-17 Atalanta-Genoa,ITA-SERIA_A,20-21,0c2829db
+e8c930bb,Milan Badelj,47,CRO,CM,31-327,90,0,0,0,0,1,0,0,0,79,8,4,2,0.0,0.0,0.0,2,0,47,54,87.0,8,24,0,3,2,Genoa,2021-01-17 Atalanta-Genoa,ITA-SERIA_A,20-21,0c2829db
+83e4643e,Miha Zajc,16,SVN,CM,26-200,45,0,0,0,0,2,1,0,0,36,0,1,2,0.4,0.4,0.0,1,0,15,24,62.5,3,20,1,1,1,Genoa,2021-01-17 Atalanta-Genoa,ITA-SERIA_A,20-21,0c2829db
+1b82f8df,Lukas Lerager,8,DEN,CM,27-189,45,0,0,0,0,0,0,0,0,25,3,0,2,0.0,0.0,0.0,0,0,10,14,71.4,0,7,0,0,0,Genoa,2021-01-17 Atalanta-Genoa,ITA-SERIA_A,20-21,0c2829db
+7ba1f1ef,Lennart-Marten Czyborra,99,GER,WB,21-259,90,0,0,0,0,0,0,0,0,44,0,0,0,0.0,0.0,0.0,0,0,24,38,63.2,1,20,0,0,0,Genoa,2021-01-17 Atalanta-Genoa,ITA-SERIA_A,20-21,0c2829db
+7fe90ccd,Davide Zappacosta,77,ITA,WB,28-220,79,0,0,0,0,0,0,1,0,43,0,0,1,0.0,0.0,0.0,0,0,27,35,77.1,0,24,1,4,2,Genoa,2021-01-17 Atalanta-Genoa,ITA-SERIA_A,20-21,0c2829db
+e81f0356,Jérôme Onguéné,25,CMR,WB,23-026,11,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,3,5,60.0,1,0,0,0,0,Genoa,2021-01-17 Atalanta-Genoa,ITA-SERIA_A,20-21,0c2829db
+35dd6d80,Domenico Criscito,4,ITA,CB,34-018,90,0,0,0,0,0,0,0,0,61,6,3,5,0.0,0.0,0.1,1,0,30,38,78.9,0,21,2,0,0,Genoa,2021-01-17 Atalanta-Genoa,ITA-SERIA_A,20-21,0c2829db
+023937a9,Ivan Radovanović,21,SRB,CB,32-141,90,0,0,0,0,0,0,0,0,35,2,2,1,0.0,0.0,0.0,0,0,17,21,81.0,0,12,0,0,0,Genoa,2021-01-17 Atalanta-Genoa,ITA-SERIA_A,20-21,0c2829db
+e0314d87,Andrea Masiello,55,ITA,CB,34-347,55,0,0,0,0,0,0,0,0,42,0,1,2,0.0,0.0,0.0,0,0,32,37,86.5,1,20,0,0,0,Genoa,2021-01-17 Atalanta-Genoa,ITA-SERIA_A,20-21,0c2829db
+4b029b31,Edoardo Goldaniga,5,ITA,CB,27-076,35,0,0,0,0,0,0,1,0,13,0,0,0,0.0,0.0,0.0,0,0,3,6,50.0,0,4,0,0,0,Genoa,2021-01-17 Atalanta-Genoa,ITA-SERIA_A,20-21,0c2829db
+4c62d0c8,Mattia Perin,1,ITA,GK,28-068,90,0,0,0,0,0,0,0,0,51,0,0,0,0.0,0.0,0.0,0,0,19,50,38.0,0,26,0,0,0,Genoa,2021-01-17 Atalanta-Genoa,ITA-SERIA_A,20-21,0c2829db

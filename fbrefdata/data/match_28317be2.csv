@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+37337aea,Santiago Giménez,29,MEX,FW,21-332,56,1,0,0,0,3,1,0,0,14,0,0,0,0.3,0.3,0.0,2,1,3,6,50.0,0,9,2,1,1,Feyenoord,2023-03-16 Feyenoord-Shakhtar,UEL,22-23,28317be2
+ccd38335,Danilo,9,BRA,FW,23-343,34,1,0,0,0,1,1,0,0,12,0,0,1,0.1,0.1,0.0,1,0,6,6,100.0,0,8,0,3,0,Feyenoord,2023-03-16 Feyenoord-Shakhtar,UEL,22-23,28317be2
+34caa4b3,Oussama Idrissi,26,MAR,LW,27-018,61,2,0,0,0,3,3,0,0,27,1,0,0,0.1,0.1,0.1,2,1,16,20,80.0,0,21,2,2,0,Feyenoord,2023-03-16 Feyenoord-Shakhtar,UEL,22-23,28317be2
+089c7323,Igor Paixão,14,BRA,LW,22-261,29,0,0,0,0,0,0,0,0,19,0,0,0,0.0,0.0,0.0,0,0,10,15,66.7,0,18,1,3,0,Feyenoord,2023-03-16 Feyenoord-Shakhtar,UEL,22-23,28317be2
+08452314,Alireza Jahanbakhsh,7,IRN,RW,29-217,90,1,1,0,0,4,2,0,0,49,0,1,1,0.1,0.1,0.2,2,1,31,39,79.5,1,42,3,3,2,Feyenoord,2023-03-16 Feyenoord-Shakhtar,UEL,22-23,28317be2
+9bf914b4,Orkun Kökçü,10,TUR,LM,22-077,66,2,1,1,1,2,1,0,0,50,4,1,2,0.9,0.1,0.1,5,2,27,36,75.0,3,30,0,2,1,Feyenoord,2023-03-16 Feyenoord-Shakhtar,UEL,22-23,28317be2
+df4153d2,Mohamed Taabouni,25,NED,LM,20-352,24,0,0,0,0,0,0,0,0,19,0,0,0,0.0,0.0,0.0,0,0,17,18,94.4,1,18,0,0,0,Feyenoord,2023-03-16 Feyenoord-Shakhtar,UEL,22-23,28317be2
+bb718263,Sebastian Szymański,17,POL,CM,23-310,56,0,1,0,0,1,0,0,0,23,1,0,2,0.0,0.0,0.1,3,1,13,17,76.5,3,16,0,0,0,Feyenoord,2023-03-16 Feyenoord-Shakhtar,UEL,22-23,28317be2
+e0b5ac38,Ezequiel Bullaude,30,ARG,CM,22-141,34,0,0,0,0,0,0,0,0,12,1,0,0,0.0,0.0,0.0,0,0,10,11,90.9,1,9,0,0,0,Feyenoord,2023-03-16 Feyenoord-Shakhtar,UEL,22-23,28317be2
+4876c9ab,Mats Wieffer,20,NED,RM,23-120,90,0,1,0,0,0,0,0,0,81,1,4,1,0.0,0.0,0.0,6,4,62,70,88.6,7,58,0,3,0,Feyenoord,2023-03-16 Feyenoord-Shakhtar,UEL,22-23,28317be2
+9b3ab988,Marcos López,15,PER,LB,23-116,56,0,0,0,0,1,1,0,0,34,0,0,2,0.1,0.1,0.0,1,0,19,27,70.4,1,17,1,1,0,Feyenoord,2023-03-16 Feyenoord-Shakhtar,UEL,22-23,28317be2
+283699b4,Jacob Rasmussen,6,DEN,"CB,LB",25-292,34,0,0,0,0,0,0,0,0,60,0,0,0,0.0,0.0,0.0,0,0,60,60,100.0,7,57,0,0,0,Feyenoord,2023-03-16 Feyenoord-Shakhtar,UEL,22-23,28317be2
+4fac8f81,Dávid Hancko,33,SVK,"CB,LB",25-093,90,0,1,0,0,0,0,0,0,78,2,1,1,0.0,0.0,0.0,3,1,60,65,92.3,4,56,0,4,2,Feyenoord,2023-03-16 Feyenoord-Shakhtar,UEL,22-23,28317be2
+9d21da85,Gernot Trauner,18,AUT,CB,30-356,90,0,0,0,0,0,0,0,0,78,0,1,0,0.0,0.0,0.0,1,0,67,76,88.2,4,67,0,0,0,Feyenoord,2023-03-16 Feyenoord-Shakhtar,UEL,22-23,28317be2
+242e1043,Lutsharel Geertruida,4,NED,RB,22-241,90,0,0,0,0,0,0,0,0,40,2,1,0,0.0,0.0,0.0,1,0,31,35,88.6,2,29,0,3,2,Feyenoord,2023-03-16 Feyenoord-Shakhtar,UEL,22-23,28317be2
+2f18d0b8,Timon Wellenreuther,22,GER,GK,27-103,90,0,0,0,0,0,0,0,0,19,0,0,0,0.0,0.0,0.0,0,0,15,18,83.3,0,14,0,0,0,Feyenoord,2023-03-16 Feyenoord-Shakhtar,UEL,22-23,28317be2
+f620b04f,Lassina Franck Traoré,2,BFA,FW,22-063,53,0,0,0,0,0,0,0,0,16,1,0,0,0.0,0.0,0.0,2,0,13,13,100.0,3,3,0,2,2,Shakhtar Donetsk,2023-03-16 Feyenoord-Shakhtar,UEL,22-23,28317be2
+136958ad,Kevin Kelsy,18,VEN,FW,18-232,37,1,0,0,0,1,1,0,0,6,0,0,0,0.4,0.4,0.0,0,0,4,5,80.0,0,2,0,0,0,Shakhtar Donetsk,2023-03-16 Feyenoord-Shakhtar,UEL,22-23,28317be2
+47420f02,Dmytro Kryskiv,16,UKR,LM,22-161,45,0,0,0,0,0,0,0,0,23,0,0,2,0.0,0.0,0.0,0,0,15,16,93.8,2,11,0,3,0,Shakhtar Donetsk,2023-03-16 Feyenoord-Shakhtar,UEL,22-23,28317be2
+37557ec4,Neven Đurasek,17,CRO,LM,24-213,45,0,0,0,0,0,0,0,0,14,3,0,0,0.0,0.0,0.0,0,0,7,7,100.0,0,7,0,3,2,Shakhtar Donetsk,2023-03-16 Feyenoord-Shakhtar,UEL,22-23,28317be2
+a793f5a8,Heorhiy Sudakov,8,UKR,CM,20-196,90,0,0,0,0,1,0,1,0,52,0,0,1,0.0,0.0,0.0,2,0,41,47,87.2,2,34,0,3,3,Shakhtar Donetsk,2023-03-16 Feyenoord-Shakhtar,UEL,22-23,28317be2
+415568b5,Artem Bondarenko,21,UKR,CM,22-207,53,0,0,0,0,0,0,1,0,51,0,0,2,0.0,0.0,0.0,2,0,41,46,89.1,2,16,0,4,3,Shakhtar Donetsk,2023-03-16 Feyenoord-Shakhtar,UEL,22-23,28317be2
+03998238,Danylo Sikan,14,UKR,CM,21-334,37,0,0,0,0,0,0,0,0,11,2,0,0,0.0,0.0,0.0,0,0,3,6,50.0,0,2,0,1,0,Shakhtar Donetsk,2023-03-16 Feyenoord-Shakhtar,UEL,22-23,28317be2
+adfbe1f5,Oleksandr Zubkov,11,UKR,RM,26-225,62,0,0,0,0,3,1,0,0,34,4,0,2,0.1,0.1,0.0,1,0,14,20,70.0,2,18,3,0,0,Shakhtar Donetsk,2023-03-16 Feyenoord-Shakhtar,UEL,22-23,28317be2
+6db16dda,Ivan Petryak,34,UKR,RM,29-003,28,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,4,4,100.0,0,3,0,1,0,Shakhtar Donetsk,2023-03-16 Feyenoord-Shakhtar,UEL,22-23,28317be2
+ee3519f5,Taras Stepanenko,6,UKR,DM,33-220,53,0,0,0,0,1,0,0,0,40,4,0,1,0.0,0.0,0.0,0,0,26,32,81.3,2,17,0,0,0,Shakhtar Donetsk,2023-03-16 Feyenoord-Shakhtar,UEL,22-23,28317be2
+ed45a7d7,Yehor Nazaryna,29,UKR,DM,25-249,37,0,0,0,0,0,0,0,0,11,1,0,0,0.0,0.0,0.0,0,0,6,8,75.0,0,3,1,2,2,Shakhtar Donetsk,2023-03-16 Feyenoord-Shakhtar,UEL,22-23,28317be2
+3e9bd29d,Bohdan Mykhaylychenko,15,UKR,LB,25-360,90,0,0,0,0,0,0,0,0,52,1,1,0,0.0,0.0,0.0,1,0,37,45,82.2,1,21,1,1,0,Shakhtar Donetsk,2023-03-16 Feyenoord-Shakhtar,UEL,22-23,28317be2
+1adcf39e,Mykola Matviyenko,22,UKR,CB,26-318,90,0,1,0,0,0,0,0,0,69,1,0,0,0.0,0.0,0.4,1,1,60,66,90.9,4,36,1,1,0,Shakhtar Donetsk,2023-03-16 Feyenoord-Shakhtar,UEL,22-23,28317be2
+7713c72a,Valerii Bondar,5,UKR,CB,24-017,90,0,0,0,0,0,0,0,0,72,1,5,1,0.0,0.0,0.0,1,1,60,64,93.8,0,32,0,0,0,Shakhtar Donetsk,2023-03-16 Feyenoord-Shakhtar,UEL,22-23,28317be2
+aee634bf,Yukhym Konoplia,26,UKR,RB,23-202,90,0,0,0,0,1,0,0,0,61,5,0,2,0.0,0.0,0.1,1,0,36,46,78.3,0,18,0,1,1,Shakhtar Donetsk,2023-03-16 Feyenoord-Shakhtar,UEL,22-23,28317be2
+41f0b196,Anatolii Trubin,81,UKR,GK,21-227,90,0,0,0,0,0,0,0,0,50,0,0,0,0.0,0.0,0.0,0,0,37,46,80.4,0,26,0,0,0,Shakhtar Donetsk,2023-03-16 Feyenoord-Shakhtar,UEL,22-23,28317be2

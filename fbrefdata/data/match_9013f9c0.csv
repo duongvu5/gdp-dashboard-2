@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+f83c8d6c,Jimmy Briand,23,FRA,FW,32-087,90,0,0,0,0,4,1,0,0,43,0,0,0,0.3,0.3,0.0,2,1,27,32,84.4,2,25,2,2,0,Guingamp,2017-10-28 Guingamp-Amiens,FRA-L1,17-18,9013f9c0
+30395d3b,Nicolas Benezet,10,FRA,"LW,LM",26-246,76,0,0,0,0,0,0,0,0,62,2,0,1,0.0,0.0,0.2,2,0,40,54,74.1,6,32,2,4,2,Guingamp,2017-10-28 Guingamp-Amiens,FRA-L1,17-18,9013f9c0
+3010aefb,Marcus Coco,24,FRA,LM,21-126,14,0,0,0,0,1,0,0,0,13,0,0,1,0.0,0.0,0.0,0,0,10,10,100.0,1,8,0,1,0,Guingamp,2017-10-28 Guingamp-Amiens,FRA-L1,17-18,9013f9c0
+07296190,Abdoul Camara,9,GUI,"RW,RM",27-250,90,0,0,0,0,2,1,0,0,37,0,0,0,0.1,0.1,0.0,2,0,19,25,76.0,3,33,6,8,5,Guingamp,2017-10-28 Guingamp-Amiens,FRA-L1,17-18,9013f9c0
+6c6ecdd4,Mustapha Diallo,5,SEN,AM,31-167,61,1,0,0,0,1,1,0,0,22,2,1,0,0.1,0.1,0.0,0,0,9,13,69.2,1,9,0,0,0,Guingamp,2017-10-28 Guingamp-Amiens,FRA-L1,17-18,9013f9c0
+6f8cd6d0,Marcus Thuram,21,FRA,FW,20-083,29,0,0,0,0,0,0,0,0,13,0,0,0,0.0,0.0,0.1,1,0,8,11,72.7,0,5,0,0,0,Guingamp,2017-10-28 Guingamp-Amiens,FRA-L1,17-18,9013f9c0
+6191093d,Ludovic Blas,7,FRA,"DM,CM",19-301,81,0,0,0,0,3,1,1,0,59,1,1,0,0.1,0.1,0.0,2,0,43,53,81.1,7,35,3,3,3,Guingamp,2017-10-28 Guingamp-Amiens,FRA-L1,17-18,9013f9c0
+44f8c299,Lucas Deaux,8,FRA,CM,28-306,9,0,0,0,0,0,0,0,0,13,0,0,0,0.0,0.0,0.0,1,0,6,13,46.2,1,7,1,1,1,Guingamp,2017-10-28 Guingamp-Amiens,FRA-L1,17-18,9013f9c0
+d2aa8ac0,Étienne Didot,17,FRA,"DM,CM",34-096,90,0,0,0,0,0,0,0,0,80,4,1,2,0.0,0.0,0.2,3,0,58,73,79.5,9,41,0,0,0,Guingamp,2017-10-28 Guingamp-Amiens,FRA-L1,17-18,9013f9c0
+15e1afd5,Franck Tabanou,27,FRA,LB,28-271,90,0,1,0,0,0,0,0,0,78,1,3,0,0.0,0.0,0.1,2,1,51,65,78.5,2,25,0,1,0,Guingamp,2017-10-28 Guingamp-Amiens,FRA-L1,17-18,9013f9c0
+167d5018,Félix Eboa Eboa,20,CMR,CB,20-192,90,0,0,0,0,0,0,0,0,74,0,0,1,0.0,0.0,0.0,1,0,56,66,84.8,4,39,0,1,1,Guingamp,2017-10-28 Guingamp-Amiens,FRA-L1,17-18,9013f9c0
+0515a4cb,Christophe Kerbrat,29,FRA,CB,31-087,90,0,0,0,0,0,0,0,0,66,0,4,2,0.0,0.0,0.0,0,0,46,56,82.1,8,37,1,0,0,Guingamp,2017-10-28 Guingamp-Amiens,FRA-L1,17-18,9013f9c0
+b51242ef,Jonathan Martins Pereira,22,FRA,RB,31-271,90,0,0,0,0,1,0,0,0,81,2,1,0,0.2,0.2,0.1,4,0,62,76,81.6,7,45,3,1,1,Guingamp,2017-10-28 Guingamp-Amiens,FRA-L1,17-18,9013f9c0
+a56bd2ee,Karl-Johan Johnsson,1,SWE,GK,27-273,90,0,0,0,0,0,0,0,0,34,0,0,0,0.0,0.0,0.1,1,0,26,33,78.8,0,17,0,0,0,Guingamp,2017-10-28 Guingamp-Amiens,FRA-L1,17-18,9013f9c0
+883f251e,Lacina Traoré,28,CIV,FW,27-161,64,0,0,0,0,2,0,0,0,27,1,0,0,0.1,0.1,0.0,2,0,12,18,66.7,1,19,0,1,0,Amiens,2017-10-28 Guingamp-Amiens,FRA-L1,17-18,9013f9c0
+fcbcbd94,Moussa Konaté,15,SEN,FW,24-208,26,0,0,0,0,0,0,1,0,14,0,0,0,0.0,0.0,0.0,0,0,3,11,27.3,1,8,0,0,0,Amiens,2017-10-28 Guingamp-Amiens,FRA-L1,17-18,9013f9c0
+392d98fc,Harrison Manzala,7,COD,LW,23-236,76,0,0,0,0,1,0,0,0,26,2,1,1,0.1,0.1,0.1,2,1,13,19,68.4,0,18,2,1,0,Amiens,2017-10-28 Guingamp-Amiens,FRA-L1,17-18,9013f9c0
+34cfec6b,Guy Ngosso,26,CMR,LW,32-290,14,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,1,0,0,0,Amiens,2017-10-28 Guingamp-Amiens,FRA-L1,17-18,9013f9c0
+cf4053e2,Serge Gakpé,37,TOG,RW,30-174,60,0,0,0,0,1,0,1,0,18,0,0,1,0.0,0.0,0.0,1,0,5,12,41.7,0,12,1,0,0,Amiens,2017-10-28 Guingamp-Amiens,FRA-L1,17-18,9013f9c0
+247accfd,Bakaye Dibassy,12,MLI,CB,28-078,30,0,0,0,0,0,0,0,0,8,0,0,1,0.0,0.0,0.0,0,0,4,4,100.0,0,1,0,0,0,Amiens,2017-10-28 Guingamp-Amiens,FRA-L1,17-18,9013f9c0
+5b1bf5e3,Gaël Kakuta,14,COD,"AM,RW",26-129,90,0,1,0,0,1,0,0,0,45,0,1,1,0.0,0.0,0.1,3,1,18,34,52.9,6,31,4,3,2,Amiens,2017-10-28 Guingamp-Amiens,FRA-L1,17-18,9013f9c0
+84d94b91,Thomas Monconduit,6,FRA,DM,26-260,90,0,0,0,0,1,0,0,0,34,1,3,1,0.0,0.0,0.0,0,0,14,23,60.9,3,14,0,2,1,Amiens,2017-10-28 Guingamp-Amiens,FRA-L1,17-18,9013f9c0
+a8797cf1,Bongani Zungu,34,RSA,DM,25-019,90,0,0,0,0,0,0,0,0,35,3,1,1,0.0,0.0,0.0,1,0,23,27,85.2,1,15,0,0,0,Amiens,2017-10-28 Guingamp-Amiens,FRA-L1,17-18,9013f9c0
+eacb45fd,Danilo Avelar,35,BRA,LB,28-141,90,0,0,0,0,0,0,0,0,42,4,3,2,0.0,0.0,0.0,2,0,13,25,52.0,0,8,0,1,1,Amiens,2017-10-28 Guingamp-Amiens,FRA-L1,17-18,9013f9c0
+16714a62,Khaled Adénon,3,BEN,CB,32-092,90,0,0,0,0,0,0,1,0,36,0,1,0,0.0,0.0,0.0,0,0,16,21,76.2,1,13,0,1,0,Amiens,2017-10-28 Guingamp-Amiens,FRA-L1,17-18,9013f9c0
+7c6d6c96,Prince-Désir Gouano,2,FRA,CB,23-308,57,0,0,0,0,0,0,2,1,26,0,0,0,0.0,0.0,0.0,0,0,16,21,76.2,1,17,0,0,0,Amiens,2017-10-28 Guingamp-Amiens,FRA-L1,17-18,9013f9c0
+9f29c204,Oualid El Hajjam,19,MAR,RB,26-251,90,1,0,0,0,1,1,0,0,50,3,4,0,0.1,0.1,0.0,0,0,24,36,66.7,2,20,2,3,2,Amiens,2017-10-28 Guingamp-Amiens,FRA-L1,17-18,9013f9c0
+bc270726,Régis Gurtner,1,FRA,GK,30-324,90,0,0,0,0,0,0,0,0,39,0,0,0,0.0,0.0,0.0,1,0,17,39,43.6,0,20,0,0,0,Amiens,2017-10-28 Guingamp-Amiens,FRA-L1,17-18,9013f9c0

@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+4f16405e,Niclas Füllkrug,24,GER,FW,24-304,76,1,0,0,0,4,2,0,0,34,2,1,0,0.5,0.5,0.0,1,0,13,21,61.9,1,22,1,4,1,Hannover 96,2017-12-10 Hannover 96-Hoffenheim,GER-BL1,17-18,ae539f2b
+99b7584f,Martin Harnik,14,AUT,FW,30-183,14,1,0,0,0,1,1,0,0,14,1,0,2,0.1,0.1,0.0,0,0,6,9,66.7,1,5,0,0,0,Hannover 96,2017-12-10 Hannover 96-Hoffenheim,GER-BL1,17-18,ae539f2b
+a53b661f,Ihlas Bebou,13,TOG,LM,23-231,64,0,0,0,0,1,0,1,0,32,1,0,2,0.0,0.0,0.0,2,1,17,25,68.0,2,18,0,2,0,Hannover 96,2017-12-10 Hannover 96-Hoffenheim,GER-BL1,17-18,ae539f2b
+541cdd20,Oliver Sorg,25,GER,LM,27-195,26,0,0,0,0,0,0,0,0,7,1,0,1,0.0,0.0,0.0,0,0,0,2,0.0,0,1,0,0,0,Hannover 96,2017-12-10 Hannover 96-Hoffenheim,GER-BL1,17-18,ae539f2b
+aeda1f69,Felix Klaus,11,GER,CM,25-088,90,0,1,0,0,2,0,0,0,51,3,1,0,0.1,0.1,0.4,9,2,26,40,65.0,1,24,2,1,1,Hannover 96,2017-12-10 Hannover 96-Hoffenheim,GER-BL1,17-18,ae539f2b
+04c11885,Marvin Bakalorz,6,GER,CM,28-088,90,0,0,0,0,0,0,0,0,33,1,3,4,0.0,0.0,0.0,2,0,13,22,59.1,2,17,2,2,1,Hannover 96,2017-12-10 Hannover 96-Hoffenheim,GER-BL1,17-18,ae539f2b
+fc93fdf1,Charlison Benschop,35,CUW,RM,28-111,82,0,0,0,0,2,0,0,0,34,3,1,1,0.1,0.1,0.0,1,0,15,22,68.2,3,25,2,3,1,Hannover 96,2017-12-10 Hannover 96-Hoffenheim,GER-BL1,17-18,ae539f2b
+8f0f2230,Kenan Karaman,26,TUR,RM,23-280,8,0,0,0,0,0,0,0,0,8,1,0,0,0.0,0.0,0.0,0,0,4,5,80.0,1,2,0,1,0,Hannover 96,2017-12-10 Hannover 96-Hoffenheim,GER-BL1,17-18,ae539f2b
+5528407e,Pirmin Schwegler,27,SUI,DM,30-276,90,0,0,0,0,1,0,1,0,66,7,3,1,0.0,0.0,0.0,1,0,33,44,75.0,4,25,0,2,1,Hannover 96,2017-12-10 Hannover 96-Hoffenheim,GER-BL1,17-18,ae539f2b
+1cd87320,Matthias Ostrzolek,22,GER,LB,27-188,90,0,0,0,0,0,0,0,0,63,1,0,3,0.0,0.0,0.1,3,0,35,54,64.8,10,28,2,0,0,Hannover 96,2017-12-10 Hannover 96-Hoffenheim,GER-BL1,17-18,ae539f2b
+791abba1,Salif Sané,20,SEN,CB,27-107,90,0,1,0,0,0,0,0,0,52,0,4,1,0.0,0.0,0.3,1,1,28,39,71.8,1,23,0,0,0,Hannover 96,2017-12-10 Hannover 96-Hoffenheim,GER-BL1,17-18,ae539f2b
+5e66fa06,Waldemar Anton,31,GER,CB,21-143,90,0,0,0,0,1,0,0,0,49,2,2,3,0.2,0.2,0.0,0,0,27,34,79.4,0,26,0,1,1,Hannover 96,2017-12-10 Hannover 96-Hoffenheim,GER-BL1,17-18,ae539f2b
+3dffff26,Julian Korb,4,GER,RB,25-264,90,0,0,0,0,0,0,0,0,63,2,1,1,0.0,0.0,0.1,1,0,42,56,75.0,5,23,1,0,0,Hannover 96,2017-12-10 Hannover 96-Hoffenheim,GER-BL1,17-18,ae539f2b
+73e2f6eb,Philipp Tschauner,1,GER,GK,32-037,90,0,0,0,0,0,0,0,0,34,0,0,0,0.0,0.0,0.0,0,0,25,31,80.6,0,15,0,0,0,Hannover 96,2017-12-10 Hannover 96-Hoffenheim,GER-BL1,17-18,ae539f2b
+603cb947,Andrej Kramarić,27,CRO,"FW,RW",26-174,90,0,0,0,0,1,0,1,0,58,2,0,4,0.3,0.3,0.2,3,0,35,46,76.1,6,36,1,3,1,Hoffenheim,2017-12-10 Hannover 96-Hoffenheim,GER-BL1,17-18,ae539f2b
+88e357ef,Serge Gnabry,29,GER,LW,22-149,90,0,0,0,0,4,2,0,0,46,3,0,1,0.2,0.2,0.0,4,0,21,33,63.6,1,32,4,11,6,Hoffenheim,2017-12-10 Hannover 96-Hoffenheim,GER-BL1,17-18,ae539f2b
+a3ddb1b9,Mark Uth,19,GER,"RW,FW",26-108,90,0,0,0,0,0,0,0,0,33,1,0,3,0.0,0.0,0.0,0,0,11,21,52.4,0,18,1,4,2,Hoffenheim,2017-12-10 Hannover 96-Hoffenheim,GER-BL1,17-18,ae539f2b
+555d5edd,Nadiem Amiri,18,GER,"LM,CM",21-044,90,0,0,0,0,0,0,1,0,69,3,1,2,0.0,0.0,0.1,4,0,42,57,73.7,5,45,0,4,1,Hoffenheim,2017-12-10 Hannover 96-Hoffenheim,GER-BL1,17-18,ae539f2b
+37f606f0,Dennis Geiger,32,GER,CM,19-183,45,0,0,0,0,1,0,1,0,36,1,0,1,0.0,0.0,0.0,0,0,31,32,96.9,2,24,0,1,1,Hoffenheim,2017-12-10 Hannover 96-Hoffenheim,GER-BL1,17-18,ae539f2b
+6ec6fde0,Kevin Akpoguma,25,NGA,"CB,CM",22-235,45,0,0,0,0,0,0,0,0,46,3,0,1,0.0,0.0,0.0,0,0,32,38,84.2,3,22,1,3,2,Hoffenheim,2017-12-10 Hannover 96-Hoffenheim,GER-BL1,17-18,ae539f2b
+3faa1780,Lukas Rupp,7,GER,"RM,CM",26-336,64,0,0,0,0,1,1,0,0,39,2,2,0,0.3,0.3,0.0,1,0,25,31,80.6,3,22,0,3,1,Hoffenheim,2017-12-10 Hannover 96-Hoffenheim,GER-BL1,17-18,ae539f2b
+53e07d0b,Ádám Szalai,28,HUN,CM,30-001,26,0,0,0,0,1,1,0,0,12,0,0,1,0.1,0.1,0.0,0,0,5,7,71.4,2,7,1,0,0,Hoffenheim,2017-12-10 Hannover 96-Hoffenheim,GER-BL1,17-18,ae539f2b
+b6a6e0a7,Steven Zuber,17,SUI,"LB,LM",26-115,72,0,0,0,0,0,0,0,0,55,2,0,1,0.0,0.0,0.3,1,0,42,49,85.7,3,27,1,1,0,Hoffenheim,2017-12-10 Hannover 96-Hoffenheim,GER-BL1,17-18,ae539f2b
+fa274d97,Nico Schulz,16,GER,LM,24-253,18,0,0,0,0,0,0,0,0,22,0,0,1,0.0,0.0,0.0,0,0,11,19,57.9,1,13,1,1,0,Hoffenheim,2017-12-10 Hannover 96-Hoffenheim,GER-BL1,17-18,ae539f2b
+99de6b6f,Benjamin Hübner,21,GER,CB,28-159,90,0,0,0,0,1,1,0,0,82,2,0,2,0.1,0.1,0.0,0,0,62,73,84.9,6,48,3,2,1,Hoffenheim,2017-12-10 Hannover 96-Hoffenheim,GER-BL1,17-18,ae539f2b
+1d8e9add,Kevin Vogt,22,GER,CB,26-078,90,0,0,0,0,0,0,1,0,114,2,1,1,0.0,0.0,0.0,2,0,95,106,89.6,12,73,0,3,1,Hoffenheim,2017-12-10 Hannover 96-Hoffenheim,GER-BL1,17-18,ae539f2b
+79c90e45,Pavel Kadeřábek,3,CZE,"RB,RM",25-229,90,0,0,0,0,0,0,1,0,85,3,4,3,0.0,0.0,0.4,2,0,55,69,79.7,6,38,3,1,1,Hoffenheim,2017-12-10 Hannover 96-Hoffenheim,GER-BL1,17-18,ae539f2b
+47064058,Oliver Baumann,1,GER,GK,27-191,90,0,0,0,0,0,0,0,0,40,0,0,0,0.0,0.0,0.0,0,0,25,40,62.5,0,24,0,0,0,Hoffenheim,2017-12-10 Hannover 96-Hoffenheim,GER-BL1,17-18,ae539f2b

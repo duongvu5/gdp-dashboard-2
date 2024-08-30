@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+8b788c01,Anthony Martial,9,FRA,FW,23-337,90,1,0,0,0,3,1,0,0,34,0,0,0,0.9,0.9,0.2,4,2,18,24,75.0,5,21,1,3,2,Manchester United,2019-11-07 Manchester Utd-Partizan,UEL,19-20,879dcaa5
+a1d5bd30,Marcus Rashford,10,ENG,LW,22-007,66,1,1,0,0,6,4,0,0,54,0,1,2,1.5,1.5,0.4,4,0,34,39,87.2,6,29,3,7,5,Manchester United,2019-11-07 Manchester Utd-Partizan,UEL,19-20,879dcaa5
+6639e500,Andreas Pereira,15,BRA,"DM,LW",23-310,24,0,0,0,0,0,0,0,0,28,1,0,0,0.0,0.0,0.0,0,0,21,24,87.5,4,17,0,1,0,Manchester United,2019-11-07 Manchester Utd-Partizan,UEL,19-20,879dcaa5
+58eee997,Mason Greenwood,26,ENG,RW,18-037,90,1,1,0,0,1,1,0,0,51,1,0,0,0.3,0.3,0.5,1,0,33,40,82.5,3,28,5,3,2,Manchester United,2019-11-07 Manchester Utd-Partizan,UEL,19-20,879dcaa5
+29733c72,Juan Mata,8,ESP,AM,31-193,90,0,0,0,0,0,0,0,0,65,0,1,0,0.0,0.0,0.5,3,1,43,58,74.1,6,41,1,7,5,Manchester United,2019-11-07 Manchester Utd-Partizan,UEL,19-20,879dcaa5
+b853e0ad,Fred,17,BRA,DM,26-247,62,0,0,0,0,2,1,0,0,82,1,0,3,0.1,0.1,0.0,2,1,65,73,89.0,5,49,0,1,0,Manchester United,2019-11-07 Manchester Utd-Partizan,UEL,19-20,879dcaa5
+4e015693,James Garner,37,ENG,DM,18-239,28,0,0,0,0,0,0,0,0,32,2,2,0,0.0,0.0,0.0,0,0,23,27,85.2,0,15,0,0,0,Manchester United,2019-11-07 Manchester Utd-Partizan,UEL,19-20,879dcaa5
+d93c2511,Scott McTominay,39,SCO,DM,22-334,74,0,0,0,0,0,0,0,0,88,1,2,0,0.0,0.0,0.3,5,1,71,81,87.7,10,52,4,1,1,Manchester United,2019-11-07 Manchester Utd-Partizan,UEL,19-20,879dcaa5
+810e3c74,Jesse Lingard,14,ENG,LW,26-327,16,0,0,0,0,0,0,0,0,15,1,0,0,0.0,0.0,0.0,0,0,11,12,91.7,0,9,2,1,0,Manchester United,2019-11-07 Manchester Utd-Partizan,UEL,19-20,879dcaa5
+be927d03,Ashley Young,18,ENG,LB,34-121,90,0,1,0,0,2,0,1,0,82,1,3,0,0.1,0.1,0.1,3,1,59,74,79.7,4,47,3,5,4,Manchester United,2019-11-07 Manchester Utd-Partizan,UEL,19-20,879dcaa5
+e0991c04,Marcos Rojo,16,ARG,CB,29-232,90,0,0,0,0,0,0,0,0,100,0,2,2,0.0,0.0,0.0,0,0,85,95,89.5,4,56,1,1,1,Manchester United,2019-11-07 Manchester Utd-Partizan,UEL,19-20,879dcaa5
+d8931174,Harry Maguire,5,ENG,CB,26-247,90,0,0,0,0,0,0,0,0,83,1,2,0,0.0,0.0,0.0,0,0,69,80,86.3,3,49,2,1,1,Manchester United,2019-11-07 Manchester Utd-Partizan,UEL,19-20,879dcaa5
+9e525177,Aaron Wan-Bissaka,29,ENG,RB,21-346,90,0,0,0,0,0,0,0,0,69,3,2,1,0.0,0.0,0.1,3,0,49,59,83.1,3,27,2,2,1,Manchester United,2019-11-07 Manchester Utd-Partizan,UEL,19-20,879dcaa5
+1e26e376,Sergio Romero,22,ARG,GK,32-258,90,0,0,0,0,0,0,0,0,25,0,0,0,0.0,0.0,0.0,0,0,22,24,91.7,0,12,0,0,0,Manchester United,2019-11-07 Manchester Utd-Partizan,UEL,19-20,879dcaa5
+686cbe7d,Umar Sadiq,9,NGA,FW,22-278,85,0,0,0,0,0,0,0,0,23,1,0,2,0.0,0.0,0.0,0,0,8,13,61.5,0,16,2,1,1,Partizan,2019-11-07 Manchester Utd-Partizan,UEL,19-20,879dcaa5
+1668b4b1,Đorđe Ivanović,18,SRB,FW,23-352,5,0,0,0,0,0,0,0,0,3,1,0,0,0.0,0.0,0.0,0,0,0,2,0.0,0,2,0,0,0,Partizan,2019-11-07 Manchester Utd-Partizan,UEL,19-20,879dcaa5
+13ddc856,Takuma Asano,11,JPN,"LW,RW",24-362,69,0,0,0,0,1,0,0,0,22,0,1,0,0.1,0.1,0.0,2,0,9,15,60.0,2,12,0,2,2,Partizan,2019-11-07 Manchester Utd-Partizan,UEL,19-20,879dcaa5
+50f823d3,Filip Stevanovic,80,SRB,"LW,LM",17-043,21,0,0,0,0,0,0,0,0,11,0,0,2,0.0,0.0,0.0,0,0,3,4,75.0,0,6,2,1,0,Partizan,2019-11-07 Manchester Utd-Partizan,UEL,19-20,879dcaa5
+57ae16f4,Seydouba Soumah,20,GUI,"RW,AM,LW,FW",28-149,90,0,0,0,0,1,0,0,0,44,3,2,1,0.1,0.1,0.0,0,0,18,27,66.7,4,24,5,5,5,Partizan,2019-11-07 Manchester Utd-Partizan,UEL,19-20,879dcaa5
+c44a1d58,Bibras Natkho,6,ISR,AM,31-262,59,0,0,0,0,0,0,1,0,24,0,0,0,0.0,0.0,0.1,0,0,15,23,65.2,1,10,1,0,0,Partizan,2019-11-07 Manchester Utd-Partizan,UEL,19-20,879dcaa5
+314a0ea4,Zoran Tošić,7,SRB,"RW,RM",32-193,31,0,0,0,0,0,0,0,0,27,1,0,1,0.0,0.0,0.0,0,0,18,24,75.0,2,13,2,1,1,Partizan,2019-11-07 Manchester Utd-Partizan,UEL,19-20,879dcaa5
+bbddc31f,Saša Zdjelar,16,SRB,"DM,CM",24-232,90,0,0,0,0,0,0,0,0,70,2,1,1,0.0,0.0,0.1,1,0,55,64,85.9,5,35,0,0,0,Partizan,2019-11-07 Manchester Utd-Partizan,UEL,19-20,879dcaa5
+146b19d9,Aleksandar Šćekić,19,MNE,"DM,CM",27-330,90,0,0,0,0,0,0,0,0,50,7,2,3,0.0,0.0,0.0,0,0,28,33,84.8,2,18,1,0,0,Partizan,2019-11-07 Manchester Utd-Partizan,UEL,19-20,879dcaa5
+418befe0,Slobodan Urošević,72,SRB,LB,25-206,90,0,0,0,0,0,0,0,0,53,0,2,1,0.0,0.0,0.0,0,0,31,46,67.4,6,18,0,2,1,Partizan,2019-11-07 Manchester Utd-Partizan,UEL,19-20,879dcaa5
+25146df0,Strahinja Pavlović,3,SRB,CB,18-167,90,0,0,0,0,0,0,1,0,50,0,3,2,0.0,0.0,0.0,0,0,33,41,80.5,2,29,0,2,1,Partizan,2019-11-07 Manchester Utd-Partizan,UEL,19-20,879dcaa5
+6f4cf369,Bojan Ostojić,23,SRB,CB,35-268,90,0,0,0,0,0,0,0,0,40,2,0,1,0.0,0.0,0.0,0,0,27,34,79.4,1,20,0,0,0,Partizan,2019-11-07 Manchester Utd-Partizan,UEL,19-20,879dcaa5
+903b3b77,Nemanja Miletić,73,SRB,RB,28-295,90,0,0,0,0,0,0,0,0,63,1,6,0,0.0,0.0,0.0,0,0,36,54,66.7,2,28,1,0,0,Partizan,2019-11-07 Manchester Utd-Partizan,UEL,19-20,879dcaa5
+c089980e,Vladimir Stojković,88,SRB,GK,36-102,90,0,0,0,0,0,0,0,0,39,0,0,1,0.0,0.0,0.0,0,0,16,33,48.5,0,15,0,0,0,Partizan,2019-11-07 Manchester Utd-Partizan,UEL,19-20,879dcaa5

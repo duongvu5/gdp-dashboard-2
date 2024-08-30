@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+c693347d,Andreas Cornelius,11,DEN,FW,26-198,90,1,0,0,0,4,1,0,0,27,0,0,0,0.2,0.2,0.0,1,0,12,18,66.7,1,12,0,0,0,Parma,2019-09-30 Parma-Torino,ITA-SERIA_A,19-20,855b79d4
+e468c053,Gervinho,27,CIV,"LW,LM",32-126,90,0,1,0,1,2,1,0,0,31,0,0,0,1.3,0.5,0.8,5,1,16,22,72.7,4,26,6,1,1,Parma,2019-09-30 Parma-Torino,ITA-SERIA_A,19-20,855b79d4
+df3cda47,Dejan Kulusevski,44,SWE,"RW,RM",19-158,90,1,1,0,0,2,1,0,0,50,0,0,0,0.8,0.8,0.7,6,0,30,37,81.1,4,28,1,6,3,Parma,2019-09-30 Parma-Torino,ITA-SERIA_A,19-20,855b79d4
+a64cbd35,Antonino Barillà,17,ITA,LM,31-182,65,0,0,0,0,0,0,0,0,34,1,2,1,0.0,0.0,0.1,3,1,19,24,79.2,2,14,0,1,0,Parma,2019-09-30 Parma-Torino,ITA-SERIA_A,19-20,855b79d4
+5aaef9ef,Juraj Kucka,33,SVK,"CM,LM",32-216,25,0,0,0,0,2,0,0,0,20,1,0,0,0.1,0.1,0.0,1,0,13,15,86.7,3,12,2,0,0,Parma,2019-09-30 Parma-Torino,ITA-SERIA_A,19-20,855b79d4
+ea164f99,Matteo Scozzarella,21,ITA,CM,31-117,90,0,0,0,0,1,0,0,0,79,2,3,1,0.0,0.0,0.2,8,0,53,71,74.6,6,43,5,0,0,Parma,2019-09-30 Parma-Torino,ITA-SERIA_A,19-20,855b79d4
+6f5ead86,Hernani,10,BRA,RM,25-187,77,0,0,0,0,3,0,1,0,35,1,1,1,0.1,0.1,0.0,1,0,21,25,84.0,3,24,3,0,0,Parma,2019-09-30 Parma-Torino,ITA-SERIA_A,19-20,855b79d4
+6c1f7328,Roberto Inglese,9,ITA,FW,27-322,13,1,0,0,0,2,1,0,0,5,0,0,0,0.9,0.9,0.0,0,0,1,2,50.0,0,3,0,0,0,Parma,2019-09-30 Parma-Torino,ITA-SERIA_A,19-20,855b79d4
+173061c0,Riccardo Gagliolo,28,SWE,LB,29-155,45,0,0,0,0,1,0,0,0,33,0,0,0,0.0,0.0,0.1,2,1,23,31,74.2,4,16,0,0,0,Parma,2019-09-30 Parma-Torino,ITA-SERIA_A,19-20,855b79d4
+149c5f5d,Giuseppe Pezzella,97,ITA,LB,21-305,45,0,0,0,0,0,0,0,0,36,3,1,0,0.0,0.0,0.0,0,0,22,30,73.3,2,20,2,1,0,Parma,2019-09-30 Parma-Torino,ITA-SERIA_A,19-20,855b79d4
+585a73a8,Bruno Alves,22,POR,CB,37-307,90,0,0,0,0,3,0,0,0,56,2,1,0,0.1,0.1,0.0,1,0,34,45,75.6,3,32,0,0,0,Parma,2019-09-30 Parma-Torino,ITA-SERIA_A,19-20,855b79d4
+63071a3f,Simone Iacoponi,2,ITA,CB,32-153,90,0,0,0,0,0,0,0,0,49,0,0,0,0.0,0.0,0.0,1,0,39,45,86.7,4,34,1,0,0,Parma,2019-09-30 Parma-Torino,ITA-SERIA_A,19-20,855b79d4
+3535098b,Vincent Laurini,16,FRA,RB,30-112,90,0,0,0,0,0,0,1,0,62,2,0,2,0.0,0.0,0.0,2,0,40,54,74.1,6,32,1,0,0,Parma,2019-09-30 Parma-Torino,ITA-SERIA_A,19-20,855b79d4
+343f753a,Luigi Sepe,1,ITA,GK,28-145,90,0,0,0,0,0,0,0,0,19,0,0,0,0.0,0.0,0.0,0,0,13,15,86.7,0,8,0,0,0,Parma,2019-09-30 Parma-Torino,ITA-SERIA_A,19-20,855b79d4
+d705ba44,Andrea Belotti,9,ITA,FW,25-284,86,1,0,1,1,1,1,0,0,30,2,0,1,0.8,0.0,0.0,2,2,12,16,75.0,1,14,2,0,0,Torino,2019-09-30 Parma-Torino,ITA-SERIA_A,19-20,855b79d4
+9592289a,Simone Zaza,11,ITA,FW,28-097,4,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,1,0,0,0,Torino,2019-09-30 Parma-Torino,ITA-SERIA_A,19-20,855b79d4
+0375723e,Simone Verdi,24,ITA,"RW,AM",27-080,58,0,1,0,0,2,2,0,0,35,2,0,0,0.1,0.1,0.6,3,1,19,25,76.0,2,20,3,4,2,Torino,2019-09-30 Parma-Torino,ITA-SERIA_A,19-20,855b79d4
+f26e3c59,Diego Laxalt,93,URU,LW,26-235,32,0,0,0,0,0,0,0,0,10,2,0,1,0.0,0.0,0.0,0,0,2,4,50.0,1,4,0,1,0,Torino,2019-09-30 Parma-Torino,ITA-SERIA_A,19-20,855b79d4
+5cec2c74,Soualiho Meïté,23,FRA,"RW,LW,AM",25-197,90,0,0,0,0,1,0,0,0,45,2,1,1,0.4,0.4,0.0,1,0,23,30,76.7,2,19,1,0,0,Torino,2019-09-30 Parma-Torino,ITA-SERIA_A,19-20,855b79d4
+ea06dd97,Daniele Baselli,8,ITA,"DM,CM",27-202,90,0,0,0,0,0,0,0,0,70,7,1,2,0.0,0.0,0.0,2,0,47,59,79.7,11,26,1,0,0,Torino,2019-09-30 Parma-Torino,ITA-SERIA_A,19-20,855b79d4
+f1cfc209,Tomás Rincón,88,VEN,"DM,CM",31-260,90,0,0,0,0,0,0,1,0,61,1,0,0,0.0,0.0,0.1,2,0,43,51,84.3,7,30,4,4,1,Torino,2019-09-30 Parma-Torino,ITA-SERIA_A,19-20,855b79d4
+246d153b,Ola Aina,34,NGA,"RB,WB",22-357,90,0,0,0,0,0,0,0,0,74,1,3,0,0.0,0.0,0.0,2,0,39,51,76.5,2,32,5,2,0,Torino,2019-09-30 Parma-Torino,ITA-SERIA_A,19-20,855b79d4
+bbafc0c4,Cristian Ansaldi,15,ARG,"LB,WB",33-010,80,1,0,0,0,2,1,0,0,59,3,0,0,0.3,0.3,0.0,2,0,33,47,70.2,4,32,5,2,2,Torino,2019-09-30 Parma-Torino,ITA-SERIA_A,19-20,855b79d4
+933d3b51,Koffi Djidji,30,CIV,LB,26-304,10,0,0,0,0,0,0,0,0,7,0,1,1,0.0,0.0,0.0,0,0,4,6,66.7,1,3,0,0,0,Torino,2019-09-30 Parma-Torino,ITA-SERIA_A,19-20,855b79d4
+5fd5ed86,Gleison Bremer,36,BRA,CB,22-196,28,0,0,0,0,0,0,2,1,18,0,1,0,0.0,0.0,0.0,1,0,17,18,94.4,0,8,0,0,0,Torino,2019-09-30 Parma-Torino,ITA-SERIA_A,19-20,855b79d4
+93cf32a8,Nicolas Nkoulou,33,CMR,CB,29-187,90,0,0,0,0,0,0,0,0,45,1,4,2,0.0,0.0,0.0,0,0,27,30,90.0,3,15,0,0,0,Torino,2019-09-30 Parma-Torino,ITA-SERIA_A,19-20,855b79d4
+89976232,Armando Izzo,5,ITA,CB,27-212,90,0,0,0,0,1,1,0,0,59,2,2,1,0.7,0.7,0.0,0,0,38,47,80.9,5,15,1,0,0,Torino,2019-09-30 Parma-Torino,ITA-SERIA_A,19-20,855b79d4
+10dc46f0,Salvatore Sirigu,39,ITA,GK,32-261,90,0,0,0,0,0,0,0,0,32,0,0,0,0.0,0.0,0.0,0,0,17,28,60.7,0,8,0,0,0,Torino,2019-09-30 Parma-Torino,ITA-SERIA_A,19-20,855b79d4

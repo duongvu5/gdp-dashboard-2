@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+2c0f8e9e,Alexis Sánchez,7,CHI,FW,32-113,69,0,0,0,0,2,1,0,0,39,2,1,3,0.1,0.1,0.1,7,0,23,29,79.3,3,16,2,3,2,Internazionale,2021-04-11 Inter-Cagliari,ITA-SERIA_A,20-21,c50a199d
+f7036e1c,Lautaro Martínez,10,ARG,FW,23-232,21,0,0,0,0,0,0,0,0,15,0,0,0,0.0,0.0,0.0,0,0,6,7,85.7,1,7,0,2,1,Internazionale,2021-04-11 Inter-Cagliari,ITA-SERIA_A,20-21,c50a199d
+5eae500a,Romelu Lukaku,9,BEL,FW,27-333,90,0,0,0,0,2,1,0,0,36,0,0,0,0.1,0.1,0.1,2,1,18,25,72.0,3,19,3,3,1,Internazionale,2021-04-11 Inter-Cagliari,ITA-SERIA_A,20-21,c50a199d
+b70bde8f,Stefano Sensi,12,ITA,CM,25-249,80,0,0,0,0,2,1,0,0,64,1,0,0,0.1,0.1,0.1,4,0,46,58,79.3,5,41,2,1,0,Internazionale,2021-04-11 Inter-Cagliari,ITA-SERIA_A,20-21,c50a199d
+44ac04e9,Matías Vecino,8,URU,CM,29-230,10,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,3,4,75.0,1,2,0,0,0,Internazionale,2021-04-11 Inter-Cagliari,ITA-SERIA_A,20-21,c50a199d
+33b8d077,Marcelo Brozović,77,CRO,CM,28-146,90,0,0,0,0,2,0,1,0,92,1,0,3,0.1,0.1,0.1,2,0,73,80,91.3,7,54,3,0,0,Internazionale,2021-04-11 Inter-Cagliari,ITA-SERIA_A,20-21,c50a199d
+980522ec,Christian Eriksen,24,DEN,CM,29-056,80,0,0,0,0,4,2,0,0,88,3,0,1,0.1,0.1,0.1,5,0,66,75,88.0,11,57,2,0,0,Internazionale,2021-04-11 Inter-Cagliari,ITA-SERIA_A,20-21,c50a199d
+ce30bfc8,Roberto Gagliardini,5,ITA,CM,27-004,10,0,0,0,0,0,0,0,0,10,1,0,0,0.0,0.0,0.0,0,0,9,9,100.0,0,4,0,0,0,Internazionale,2021-04-11 Inter-Cagliari,ITA-SERIA_A,20-21,c50a199d
+be927d03,Ashley Young,15,ENG,WB,35-276,69,0,0,0,0,0,0,0,0,38,0,0,1,0.0,0.0,0.1,4,0,28,34,82.4,3,23,0,1,0,Internazionale,2021-04-11 Inter-Cagliari,ITA-SERIA_A,20-21,c50a199d
+e42d61c7,Achraf Hakimi,2,MAR,WB,22-158,21,0,1,0,0,0,0,0,0,13,0,0,0,0.0,0.0,0.6,1,1,8,11,72.7,1,7,2,0,0,Internazionale,2021-04-11 Inter-Cagliari,ITA-SERIA_A,20-21,c50a199d
+96e0490d,Matteo Darmian,36,ITA,WB,31-130,83,1,0,0,0,2,2,0,0,47,5,0,0,0.7,0.7,0.0,1,0,29,37,78.4,0,24,3,0,0,Internazionale,2021-04-11 Inter-Cagliari,ITA-SERIA_A,20-21,c50a199d
+44eb9093,Danilo D'Ambrosio,33,ITA,WB,32-214,7,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,3,0,0,0,Internazionale,2021-04-11 Inter-Cagliari,ITA-SERIA_A,20-21,c50a199d
+75b86fb3,Alessandro Bastoni,95,ITA,CB,21-363,90,0,0,0,0,0,0,0,0,97,1,1,2,0.0,0.0,0.0,2,0,78,83,94.0,10,63,7,0,0,Internazionale,2021-04-11 Inter-Cagliari,ITA-SERIA_A,20-21,c50a199d
+d0d8dd44,Stefan de Vrij,6,NED,CB,29-065,90,0,0,0,0,1,0,0,0,101,3,1,1,0.1,0.1,0.0,0,0,89,92,96.7,10,68,0,0,0,Internazionale,2021-04-11 Inter-Cagliari,ITA-SERIA_A,20-21,c50a199d
+30f5ffa9,Milan Škriniar,37,SVK,CB,26-059,90,0,0,0,0,0,0,0,0,93,3,1,1,0.0,0.0,0.0,1,0,74,82,90.2,13,60,4,1,1,Internazionale,2021-04-11 Inter-Cagliari,ITA-SERIA_A,20-21,c50a199d
+74419746,Samir Handanović,1,SVN,GK,36-271,90,0,0,0,0,0,0,0,0,20,0,0,0,0.0,0.0,0.0,0,0,18,19,94.7,0,11,0,0,0,Internazionale,2021-04-11 Inter-Cagliari,ITA-SERIA_A,20-21,c50a199d
+d37b0350,Leonardo Pavoletti,30,ITA,FW,32-136,89,0,0,0,0,3,0,0,0,44,1,0,0,0.2,0.2,0.0,1,0,21,31,67.7,1,15,0,2,1,Cagliari,2021-04-11 Inter-Cagliari,ITA-SERIA_A,20-21,c50a199d
+7ec7738e,Gastón Pereiro,20,URU,FW,25-304,1,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,1,1,1,0,0,Cagliari,2021-04-11 Inter-Cagliari,ITA-SERIA_A,20-21,c50a199d
+81255c03,João Pedro,10,ITA,FW,29-033,90,0,0,0,0,1,0,0,0,27,0,0,1,0.0,0.0,0.0,2,0,18,22,81.8,1,17,2,3,3,Cagliari,2021-04-11 Inter-Cagliari,ITA-SERIA_A,20-21,c50a199d
+528492ea,Alfred Duncan,32,GHA,CM,28-032,71,0,0,0,0,0,0,0,0,38,2,1,0,0.0,0.0,0.0,0,0,25,32,78.1,3,30,0,3,1,Cagliari,2021-04-11 Inter-Cagliari,ITA-SERIA_A,20-21,c50a199d
+089550f5,Kwadwo Asamoah,19,GHA,CM,32-123,19,0,0,0,0,0,0,0,0,21,0,1,1,0.0,0.0,0.0,1,0,14,18,77.8,0,12,0,1,1,Cagliari,2021-04-11 Inter-Cagliari,ITA-SERIA_A,20-21,c50a199d
+1f9328da,Radja Nainggolan,4,BEL,CM,32-342,90,0,0,0,0,3,1,1,0,81,1,1,2,0.1,0.1,0.0,1,0,54,68,79.4,5,52,2,4,2,Cagliari,2021-04-11 Inter-Cagliari,ITA-SERIA_A,20-21,c50a199d
+7fac99d4,Răzvan Marin,8,ROU,CM,24-323,90,0,0,0,0,0,0,0,0,57,3,0,0,0.0,0.0,0.1,2,0,45,49,91.8,3,40,2,5,1,Cagliari,2021-04-11 Inter-Cagliari,ITA-SERIA_A,20-21,c50a199d
+95facda1,Nahitan Nández,18,URU,WB,25-104,90,0,0,0,0,0,0,0,0,61,0,1,2,0.0,0.0,0.0,0,0,44,52,84.6,3,39,2,2,0,Cagliari,2021-04-11 Inter-Cagliari,ITA-SERIA_A,20-21,c50a199d
+ca3db240,Gabriele Zappa,25,ITA,WB,21-110,89,0,0,0,0,0,0,0,0,63,0,0,4,0.0,0.0,0.0,3,0,44,54,81.5,3,45,2,4,3,Cagliari,2021-04-11 Inter-Cagliari,ITA-SERIA_A,20-21,c50a199d
+1079c685,Alberto Cerri,27,ITA,WB,24-360,1,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Cagliari,2021-04-11 Inter-Cagliari,ITA-SERIA_A,20-21,c50a199d
+f7e2af2c,Andrea Carboni,44,ITA,CB,20-066,90,0,0,0,0,0,0,0,0,89,1,2,0,0.0,0.0,0.0,1,0,65,79,82.3,3,63,2,0,0,Cagliari,2021-04-11 Inter-Cagliari,ITA-SERIA_A,20-21,c50a199d
+fc4f85b1,Diego Godín,2,URU,CB,35-054,90,0,0,0,0,0,0,0,0,93,2,2,1,0.0,0.0,0.0,0,0,78,84,92.9,4,56,0,0,0,Cagliari,2021-04-11 Inter-Cagliari,ITA-SERIA_A,20-21,c50a199d
+14b8fcdf,Daniele Rugani,24,ITA,CB,26-256,83,0,0,0,0,0,0,0,0,61,2,1,0,0.0,0.0,0.0,0,0,46,49,93.9,0,41,0,0,0,Cagliari,2021-04-11 Inter-Cagliari,ITA-SERIA_A,20-21,c50a199d
+343c0d52,Giovanni Simeone,9,ARG,CB,25-280,7,0,0,0,0,0,0,0,0,6,1,0,0,0.0,0.0,0.0,2,0,5,5,100.0,0,2,0,0,0,Cagliari,2021-04-11 Inter-Cagliari,ITA-SERIA_A,20-21,c50a199d
+77d6fd4d,Guglielmo Vicario,31,ITA,GK,24-186,90,0,0,0,0,0,0,0,0,33,0,0,0,0.0,0.0,0.0,0,0,22,28,78.6,0,16,0,0,0,Cagliari,2021-04-11 Inter-Cagliari,ITA-SERIA_A,20-21,c50a199d

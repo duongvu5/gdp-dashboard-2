@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+ad513a6b,Juan Ignacio Ramírez,9,URU,FW,24-229,65,0,0,0,0,0,0,0,0,10,2,0,0,0.0,0.0,0.0,1,0,3,5,60.0,1,2,0,1,0,Saint-Étienne,2021-09-18 Saint-Étienne-Bordeaux,FRA-L1,21-22,aa237faf
+e4b72e34,Miguel Trauco,13,PER,WB,29-024,25,0,0,0,0,0,0,0,0,21,1,0,0,0.0,0.0,0.0,0,0,13,17,76.5,2,5,0,0,0,Saint-Étienne,2021-09-18 Saint-Étienne-Bordeaux,FRA-L1,21-22,aa237faf
+2677a1de,Wahbi Khazri,10,TUN,AM,30-222,90,1,0,0,0,5,3,0,0,48,3,0,0,0.5,0.5,0.4,6,1,20,33,60.6,7,35,5,6,2,Saint-Étienne,2021-09-18 Saint-Étienne-Bordeaux,FRA-L1,21-22,aa237faf
+0b4d8274,Romain Hamouma,21,FRA,AM,34-173,66,0,0,0,0,3,0,1,0,42,0,0,2,0.4,0.4,0.0,0,0,11,31,35.5,1,23,3,3,0,Saint-Étienne,2021-09-18 Saint-Étienne-Bordeaux,FRA-L1,21-22,aa237faf
+7b9a9e25,Arnaud Nordin,18,FRA,AM,23-093,24,0,0,0,0,0,0,0,0,21,1,0,0,0.0,0.0,0.0,2,0,14,19,73.7,2,14,3,2,1,Saint-Étienne,2021-09-18 Saint-Étienne-Bordeaux,FRA-L1,21-22,aa237faf
+0ad37003,Yvan Neyou,19,CMR,CM,24-258,90,0,0,0,0,1,1,0,0,61,3,2,0,0.0,0.0,0.0,2,0,42,54,77.8,7,37,1,4,4,Saint-Étienne,2021-09-18 Saint-Étienne-Bordeaux,FRA-L1,21-22,aa237faf
+3cd7820a,Lucas Gourna-Douath,6,FRA,"CB,CM",18-044,90,0,0,0,0,0,0,0,0,63,4,1,1,0.0,0.0,0.0,0,0,45,50,90.0,4,35,0,2,1,Saint-Étienne,2021-09-18 Saint-Étienne-Bordeaux,FRA-L1,21-22,aa237faf
+ab096c6f,Timothée Kolodziejczak,5,FRA,WB,29-352,66,0,0,0,0,0,0,0,0,44,3,1,2,0.0,0.0,0.0,0,0,27,38,71.1,1,11,0,2,2,Saint-Étienne,2021-09-18 Saint-Étienne-Bordeaux,FRA-L1,21-22,aa237faf
+037f2523,Jean-Philippe Krasso,14,CIV,FW,24-063,24,0,0,0,0,0,0,0,0,9,0,0,3,0.0,0.0,0.4,2,0,3,6,50.0,0,4,1,1,1,Saint-Étienne,2021-09-18 Saint-Étienne-Bordeaux,FRA-L1,21-22,aa237faf
+0b0cbe5b,Denis Bouanga,20,GAB,WB,26-311,82,0,0,0,0,1,0,0,0,52,4,0,1,0.0,0.0,0.1,1,0,25,37,67.6,5,24,2,5,2,Saint-Étienne,2021-09-18 Saint-Étienne-Bordeaux,FRA-L1,21-22,aa237faf
+b94b8be1,Adil Aouchiche,17,FRA,WB,19-065,8,0,0,0,0,0,0,0,0,8,1,0,0,0.0,0.0,0.0,0,0,3,7,42.9,0,7,1,0,0,Saint-Étienne,2021-09-18 Saint-Étienne-Bordeaux,FRA-L1,21-22,aa237faf
+a6b6fa6e,Mickael Nade,33,FRA,CB,22-198,90,0,0,0,0,1,0,0,0,59,0,1,0,0.0,0.0,0.0,3,0,38,51,74.5,4,32,2,3,3,Saint-Étienne,2021-09-18 Saint-Étienne-Bordeaux,FRA-L1,21-22,aa237faf
+5f26e0c5,Harold Moukoudi,2,CMR,CB,23-295,90,0,0,0,0,1,0,0,0,51,0,0,1,0.4,0.4,0.0,0,0,37,47,78.7,3,22,1,0,0,Saint-Étienne,2021-09-18 Saint-Étienne-Bordeaux,FRA-L1,21-22,aa237faf
+f6b94e8d,Saidou Sow,4,GUI,CB,19-076,44,0,0,0,0,0,0,0,0,36,1,4,0,0.0,0.0,0.0,0,0,25,31,80.6,4,20,0,0,0,Saint-Étienne,2021-09-18 Saint-Étienne-Bordeaux,FRA-L1,21-22,aa237faf
+8577e60a,Mahdi Camara,8,FRA,CM,23-080,46,0,0,0,0,0,0,0,0,33,4,1,4,0.0,0.0,0.0,1,0,14,21,66.7,1,12,0,2,1,Saint-Étienne,2021-09-18 Saint-Étienne-Bordeaux,FRA-L1,21-22,aa237faf
+667b65da,Etienne Green,40,ENG,GK,21-061,90,0,0,0,0,0,0,0,0,29,0,0,0,0.0,0.0,0.0,1,0,21,27,77.8,0,11,0,0,0,Saint-Étienne,2021-09-18 Saint-Étienne-Bordeaux,FRA-L1,21-22,aa237faf
+34a0f5ff,Javairô Dilrosun,21,NED,FW,23-088,63,0,0,0,0,0,0,1,0,27,0,0,0,0.0,0.0,0.1,2,0,20,23,87.0,1,22,3,2,1,Bordeaux,2021-09-18 Saint-Étienne-Bordeaux,FRA-L1,21-22,aa237faf
+ea02beaf,Remi Oudin,28,FRA,FW,24-304,27,0,1,0,0,1,0,0,0,14,2,1,0,0.0,0.0,0.1,2,1,4,8,50.0,1,8,0,1,0,Bordeaux,2021-09-18 Saint-Étienne-Bordeaux,FRA-L1,21-22,aa237faf
+a2d873dd,Hwang Ui-jo,18,KOR,FW,29-021,88,2,0,0,0,5,3,0,0,29,1,0,0,2.0,2.0,0.1,2,0,11,13,84.6,1,17,2,4,3,Bordeaux,2021-09-18 Saint-Étienne-Bordeaux,FRA-L1,21-22,aa237faf
+3544641e,Sekou Mara,11,FRA,FW,19-050,2,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,2,0,1,0,Bordeaux,2021-09-18 Saint-Étienne-Bordeaux,FRA-L1,21-22,aa237faf
+26777636,Yacine Adli,19,FRA,CM,21-051,88,0,1,0,0,0,0,0,0,57,1,1,2,0.0,0.0,0.8,4,1,33,44,75.0,3,39,6,5,4,Bordeaux,2021-09-18 Saint-Étienne-Bordeaux,FRA-L1,21-22,aa237faf
+4937a9f7,Abdel Jalil Medioub,3,ALG,CM,24-021,2,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,0,0,Bordeaux,2021-09-18 Saint-Étienne-Bordeaux,FRA-L1,21-22,aa237faf
+243f4a0b,Otávio,5,BRA,CM,27-137,71,0,0,0,0,3,0,0,0,42,2,1,0,0.1,0.1,0.0,1,0,28,36,77.8,2,24,0,0,0,Bordeaux,2021-09-18 Saint-Étienne-Bordeaux,FRA-L1,21-22,aa237faf
+deba6b05,Fransérgio,13,BRA,CM,30-335,19,0,0,0,0,0,0,0,0,13,1,0,0,0.0,0.0,0.0,1,0,7,9,77.8,1,6,0,0,0,Bordeaux,2021-09-18 Saint-Étienne-Bordeaux,FRA-L1,21-22,aa237faf
+b5bb8188,Jean Onana,8,CMR,CM,21-253,90,0,0,0,0,1,0,1,0,73,6,4,4,0.0,0.0,0.0,2,1,47,54,87.0,3,40,0,0,0,Bordeaux,2021-09-18 Saint-Étienne-Bordeaux,FRA-L1,21-22,aa237faf
+eef2d8ce,Ricardo Mangas,12,POR,"LB,CB",23-183,90,0,0,0,0,0,0,1,0,39,4,0,0,0.0,0.0,0.0,2,0,23,33,69.7,0,21,1,4,2,Bordeaux,2021-09-18 Saint-Étienne-Bordeaux,FRA-L1,21-22,aa237faf
+5f011e05,Stian Rode Gregersen,2,NOR,CB,26-124,71,0,0,0,0,0,0,0,0,38,3,3,0,0.0,0.0,0.0,0,0,20,24,83.3,1,14,0,2,1,Bordeaux,2021-09-18 Saint-Étienne-Bordeaux,FRA-L1,21-22,aa237faf
+53f6306f,Mehdi Zerkane,17,ALG,LB,22-065,19,0,0,0,0,1,0,0,0,11,0,0,0,0.0,0.0,0.0,1,0,6,8,75.0,0,6,2,3,2,Bordeaux,2021-09-18 Saint-Étienne-Bordeaux,FRA-L1,21-22,aa237faf
+ce492295,Mexer,4,MOZ,CB,33-010,90,0,0,0,0,0,0,0,0,44,1,0,1,0.0,0.0,0.0,0,0,25,37,67.6,0,22,0,1,1,Bordeaux,2021-09-18 Saint-Étienne-Bordeaux,FRA-L1,21-22,aa237faf
+4bf69118,Enock Kwateng,25,FRA,CB,24-162,90,0,0,0,0,1,0,0,0,46,3,4,1,0.1,0.1,0.0,0,0,24,35,68.6,3,23,0,0,0,Bordeaux,2021-09-18 Saint-Étienne-Bordeaux,FRA-L1,21-22,aa237faf
+f8ce97ca,Timothee Pembele,22,FRA,RB,19-009,90,0,0,0,0,1,0,0,0,46,0,0,3,0.0,0.0,1.2,4,0,23,30,76.7,1,19,5,10,6,Bordeaux,2021-09-18 Saint-Étienne-Bordeaux,FRA-L1,21-22,aa237faf
+2434f24a,Benoît Costil,1,FRA,GK,34-077,90,0,0,0,0,0,0,1,0,35,0,0,0,0.0,0.0,0.0,0,0,7,31,22.6,0,15,0,0,0,Bordeaux,2021-09-18 Saint-Étienne-Bordeaux,FRA-L1,21-22,aa237faf

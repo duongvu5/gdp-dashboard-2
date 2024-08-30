@@ -1,0 +1,32 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+ff4df82e,Ado Onaiwu,7,JPN,FW,27-068,54,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,1,0,6,6,100.0,0,12,0,0,0,Toulouse,2023-01-15 Toulouse-Brest,FRA-L1,22-23,10ac929c
+b70afb45,Thijs Dallinga,27,NED,FW,22-165,36,0,0,0,0,1,0,0,0,15,1,0,0,0.1,0.1,0.1,1,0,9,12,75.0,0,13,1,0,0,Toulouse,2023-01-15 Toulouse-Brest,FRA-L1,22-23,10ac929c
+40ef7347,Rafael Ratão,21,BRA,LW,27-046,54,0,0,0,0,2,0,0,0,34,0,1,1,0.4,0.4,0.0,4,0,17,26,65.4,6,29,1,4,2,Toulouse,2023-01-15 Toulouse-Brest,FRA-L1,22-23,10ac929c
+357103bd,Fares Chaïbi,28,ALG,LW,20-048,36,0,0,0,0,1,1,0,0,21,0,0,0,0.0,0.0,0.0,1,0,15,20,75.0,3,21,2,0,0,Toulouse,2023-01-15 Toulouse-Brest,FRA-L1,22-23,10ac929c
+c2a6033c,Zakaria Aboukhlal,6,MAR,RW,22-331,69,1,0,0,0,2,2,0,0,32,1,1,0,0.3,0.3,0.0,1,0,17,22,77.3,1,24,0,3,1,Toulouse,2023-01-15 Toulouse-Brest,FRA-L1,22-23,10ac929c
+636247ca,Veljko Birmančević,19,SRB,RW,24-316,21,0,0,0,0,0,0,0,0,10,0,1,0,0.0,0.0,0.0,0,0,7,9,77.8,3,8,3,1,1,Toulouse,2023-01-15 Toulouse-Brest,FRA-L1,22-23,10ac929c
+99d660b2,Branco van den Boomen,8,NED,LM,27-178,90,0,0,0,0,4,0,0,0,93,1,0,1,0.3,0.3,0.1,7,1,67,87,77.0,11,71,3,3,3,Toulouse,2023-01-15 Toulouse-Brest,FRA-L1,22-23,10ac929c
+a08985b8,Stijn Spierings,17,NED,CM,26-309,90,0,0,0,0,0,0,0,0,81,4,1,1,0.0,0.0,0.0,1,0,59,71,83.1,6,62,0,3,1,Toulouse,2023-01-15 Toulouse-Brest,FRA-L1,22-23,10ac929c
+4ca4f601,Brecht Dejaegere,10,BEL,RM,31-231,79,0,0,0,0,3,1,1,0,42,4,1,0,0.3,0.3,0.0,0,0,23,31,74.2,5,29,2,0,0,Toulouse,2023-01-15 Toulouse-Brest,FRA-L1,22-23,10ac929c
+d7547531,Naatan Skyttä,22,FIN,RM,20-253,11,0,0,0,0,1,0,0,0,10,0,1,0,0.1,0.1,0.0,2,0,5,7,71.4,2,8,0,0,0,Toulouse,2023-01-15 Toulouse-Brest,FRA-L1,22-23,10ac929c
+698f11e3,Moussa Diarra,23,MLI,LB,22-066,90,0,0,0,0,0,0,0,0,67,0,0,1,0.0,0.0,0.2,3,0,46,56,82.1,8,54,10,3,2,Toulouse,2023-01-15 Toulouse-Brest,FRA-L1,22-23,10ac929c
+3f319bb9,Rasmus Nicolaisen,2,DEN,CB,25-305,90,0,0,0,0,2,2,0,0,101,2,1,1,0.1,0.1,0.0,2,0,77,87,88.5,12,77,4,0,0,Toulouse,2023-01-15 Toulouse-Brest,FRA-L1,22-23,10ac929c
+9b545925,Anthony Rouault,4,FRA,CB,21-231,90,0,0,0,0,0,0,1,0,97,1,2,0,0.0,0.0,0.0,0,0,80,90,88.9,14,79,2,0,0,Toulouse,2023-01-15 Toulouse-Brest,FRA-L1,22-23,10ac929c
+b99bec05,Issiaga Sylla,12,GUI,RB,29-014,90,0,0,0,0,0,0,0,0,66,0,6,1,0.0,0.0,0.1,1,0,39,49,79.6,4,36,1,3,1,Toulouse,2023-01-15 Toulouse-Brest,FRA-L1,22-23,10ac929c
+0e12089d,Maxime Dupé,30,FRA,GK,29-317,90,0,0,0,0,0,0,0,0,29,0,0,0,0.0,0.0,0.0,0,0,28,28,100.0,0,19,0,0,0,Toulouse,2023-01-15 Toulouse-Brest,FRA-L1,22-23,10ac929c
+19ba6c6d,Steve Mounié,15,BEN,FW,28-108,69,1,0,0,0,4,2,0,0,25,1,0,1,0.3,0.3,0.0,2,0,7,17,41.2,1,11,2,1,1,Brest,2023-01-15 Toulouse-Brest,FRA-L1,22-23,10ac929c
+ffec9769,Islam Slimani,13,ALG,FW,34-211,21,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,5,6,83.3,0,7,0,0,0,Brest,2023-01-15 Toulouse-Brest,FRA-L1,22-23,10ac929c
+88c4d190,Jérémy Le Douaron,22,FRA,LM,24-269,82,0,0,0,0,2,0,0,0,32,1,2,0,0.1,0.1,0.0,4,0,8,15,53.3,0,21,3,3,1,Brest,2023-01-15 Toulouse-Brest,FRA-L1,22-23,10ac929c
+9f4a940f,Axel Camblan,11,FRA,LM,19-138,8,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.1,1,0,5,8,62.5,2,4,0,0,0,Brest,2023-01-15 Toulouse-Brest,FRA-L1,22-23,10ac929c
+d4d35152,Hugo Magnetti,8,FRA,CM,24-230,90,0,1,0,0,3,1,0,0,31,2,2,0,0.1,0.1,0.1,3,1,19,23,82.6,2,18,2,4,3,Brest,2023-01-15 Toulouse-Brest,FRA-L1,22-23,10ac929c
+8577e60a,Mahdi Camara,45,FRA,CM,24-199,82,0,0,0,0,2,0,0,0,38,2,1,4,0.2,0.2,0.0,3,0,22,27,81.5,4,29,4,3,1,Brest,2023-01-15 Toulouse-Brest,FRA-L1,22-23,10ac929c
+2b1bed19,Haris Belkebla,7,ALG,CM,28-352,8,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,3,0,0,0,Brest,2023-01-15 Toulouse-Brest,FRA-L1,22-23,10ac929c
+db7849ca,Franck Honorat,9,FRA,RM,26-157,90,0,0,0,0,2,1,0,0,50,0,3,2,0.1,0.1,0.3,5,0,24,38,63.2,3,34,4,5,2,Brest,2023-01-15 Toulouse-Brest,FRA-L1,22-23,10ac929c
+f5044e54,Pierre Lees-Melou,20,FRA,DM,29-235,90,0,0,0,0,2,1,1,0,47,4,5,2,0.2,0.2,0.0,2,0,23,33,69.7,3,29,0,0,0,Brest,2023-01-15 Toulouse-Brest,FRA-L1,22-23,10ac929c
+5b146df3,Lilian Brassier,3,FRA,LB,23-074,90,0,0,0,0,0,0,1,0,44,1,2,1,0.0,0.0,0.1,2,0,21,35,60.0,6,28,1,3,2,Brest,2023-01-15 Toulouse-Brest,FRA-L1,22-23,10ac929c
+3681cfff,Christophe Hérelle,23,MTQ,CB,30-146,90,0,0,0,0,1,0,0,0,39,2,2,0,0.0,0.0,0.0,1,0,23,28,82.1,1,19,0,0,0,Brest,2023-01-15 Toulouse-Brest,FRA-L1,22-23,10ac929c
+16aa7d4c,Brendan Chardonnet,5,FRA,CB,28-024,90,0,0,0,0,0,0,0,0,45,0,1,2,0.0,0.0,0.0,1,0,28,37,75.7,0,30,0,0,0,Brest,2023-01-15 Toulouse-Brest,FRA-L1,22-23,10ac929c
+83f03b07,Noah Fadiga,99,SEN,RB,23-043,69,0,0,0,0,1,0,0,0,22,1,2,1,0.0,0.0,0.0,0,0,7,10,70.0,1,12,1,3,1,Brest,2023-01-15 Toulouse-Brest,FRA-L1,22-23,10ac929c
+770d7eb8,Kenny Lala,27,MAD,RB,31-104,21,0,0,0,0,0,0,0,0,21,0,1,0,0.0,0.0,0.1,1,0,15,18,83.3,1,14,0,0,0,Brest,2023-01-15 Toulouse-Brest,FRA-L1,22-23,10ac929c
+3d214e5f,Marco Bizot,40,NED,GK,31-311,90,0,0,0,0,0,0,0,0,46,0,0,0,0.0,0.0,0.0,1,0,32,42,76.2,0,20,0,0,0,Brest,2023-01-15 Toulouse-Brest,FRA-L1,22-23,10ac929c

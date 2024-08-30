@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+c4e87b8b,Wout Weghorst,9,NED,FW,26-046,90,0,1,0,0,1,0,0,0,32,1,0,1,0.1,0.1,0.1,3,1,19,27,70.4,2,10,0,0,0,Wolfsburg,2018-09-22 Wolfsburg-Freiburg,GER-BL1,18-19,40ca9e78
+b500b384,Admir Mehmedi,14,SUI,LW,27-190,90,1,0,0,0,3,1,0,0,68,4,0,1,0.1,0.1,0.1,2,0,39,53,73.6,1,35,1,1,1,Wolfsburg,2018-09-22 Wolfsburg-Freiburg,GER-BL1,18-19,40ca9e78
+dd669209,Renato Steffen,8,SUI,RW,26-323,45,0,0,0,0,0,0,0,0,20,1,0,0,0.0,0.0,0.0,4,0,14,19,73.7,4,13,1,0,0,Wolfsburg,2018-09-22 Wolfsburg-Freiburg,GER-BL1,18-19,40ca9e78
+e5f63987,Daniel Ginczek,33,GER,RW,27-162,45,0,0,0,0,1,1,0,0,20,2,0,0,0.0,0.0,0.0,1,0,11,13,84.6,2,13,1,1,1,Wolfsburg,2018-09-22 Wolfsburg-Freiburg,GER-BL1,18-19,40ca9e78
+62ab9184,Yannick Gerhardt,13,GER,LM,24-193,67,0,0,0,0,1,0,0,0,42,1,1,1,0.0,0.0,0.0,0,0,19,34,55.9,0,22,0,0,0,Wolfsburg,2018-09-22 Wolfsburg-Freiburg,GER-BL1,18-19,40ca9e78
+d4a2533d,Josip Brekalo,7,CRO,LM,20-091,23,0,0,0,0,1,1,0,0,19,0,0,0,0.0,0.0,0.0,0,0,7,12,58.3,1,13,4,3,1,Wolfsburg,2018-09-22 Wolfsburg-Freiburg,GER-BL1,18-19,40ca9e78
+8ed9b33a,Ignacio Camacho,4,ESP,CM,28-141,90,0,0,0,0,3,2,0,0,85,2,5,1,0.2,0.2,0.0,3,0,55,70,78.6,15,52,2,1,1,Wolfsburg,2018-09-22 Wolfsburg-Freiburg,GER-BL1,18-19,40ca9e78
+86e119e0,Maximilian Arnold,27,GER,RM,24-118,84,0,0,0,0,3,2,0,0,72,4,1,0,0.1,0.1,0.2,5,0,50,61,82.0,7,35,2,2,1,Wolfsburg,2018-09-22 Wolfsburg-Freiburg,GER-BL1,18-19,40ca9e78
+f3722c97,Yunus Mallı,10,TUR,RM,26-210,6,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,4,4,100.0,1,4,1,2,0,Wolfsburg,2018-09-22 Wolfsburg-Freiburg,GER-BL1,18-19,40ca9e78
+13203c45,Jérôme Roussillon,15,FRA,LB,25-259,90,0,0,0,0,2,1,0,0,70,2,1,3,0.1,0.1,0.2,4,0,45,55,81.8,6,45,5,3,1,Wolfsburg,2018-09-22 Wolfsburg-Freiburg,GER-BL1,18-19,40ca9e78
+e27da244,John Brooks,25,USA,CB,25-237,90,0,0,0,0,1,0,0,0,110,3,1,0,0.2,0.2,0.0,2,0,93,104,89.4,13,71,1,0,0,Wolfsburg,2018-09-22 Wolfsburg-Freiburg,GER-BL1,18-19,40ca9e78
+6bd5cd5d,Robin Knoche,31,GER,CB,26-123,90,0,0,0,0,1,0,0,0,130,0,2,2,0.1,0.1,0.0,2,0,106,122,86.9,6,77,3,1,1,Wolfsburg,2018-09-22 Wolfsburg-Freiburg,GER-BL1,18-19,40ca9e78
+d4d0a9ad,William,2,BRA,RB,23-172,90,0,0,0,0,2,1,0,0,96,2,3,2,0.1,0.1,0.3,9,1,59,80,73.8,13,50,4,0,0,Wolfsburg,2018-09-22 Wolfsburg-Freiburg,GER-BL1,18-19,40ca9e78
+db401046,Koen Casteels,1,BEL,GK,26-089,90,0,0,0,0,0,0,0,0,53,0,0,0,0.0,0.0,0.0,0,0,47,49,95.9,1,29,0,0,0,Wolfsburg,2018-09-22 Wolfsburg-Freiburg,GER-BL1,18-19,40ca9e78
+f93e6e94,Nils Petersen,18,GER,FW,29-290,90,1,0,0,1,1,1,0,0,41,4,2,3,0.8,0.0,0.1,4,2,15,20,75.0,4,18,2,3,1,Freiburg,2018-09-22 Wolfsburg-Freiburg,GER-BL1,18-19,40ca9e78
+7e689867,Marco Terrazzino,13,GER,"FW,LM,CM",27-160,74,0,0,0,0,2,1,0,0,33,0,1,0,0.1,0.1,0.0,2,1,16,23,69.6,4,13,1,2,1,Freiburg,2018-09-22 Wolfsburg-Freiburg,GER-BL1,18-19,40ca9e78
+d6862409,Florian Niederlechner,7,GER,"FW,CM",27-333,16,0,0,0,0,2,2,1,0,12,0,0,1,0.4,0.4,0.0,1,0,2,6,33.3,0,6,1,1,0,Freiburg,2018-09-22 Wolfsburg-Freiburg,GER-BL1,18-19,40ca9e78
+bf075f6b,Roland Sallai,22,HUN,LM,21-123,40,1,0,0,0,1,1,1,0,13,1,1,1,0.2,0.2,0.0,1,0,5,6,83.3,2,10,0,1,0,Freiburg,2018-09-22 Wolfsburg-Freiburg,GER-BL1,18-19,40ca9e78
+e5a35ae9,Luca Waldschmidt,11,GER,"FW,CM",22-126,50,0,1,0,0,0,0,0,0,27,0,0,2,0.0,0.0,0.7,3,1,12,20,60.0,3,7,1,0,0,Freiburg,2018-09-22 Wolfsburg-Freiburg,GER-BL1,18-19,40ca9e78
+5d8e331f,Nicolas Höfler,27,GER,CM,28-197,90,0,0,0,0,0,0,1,0,39,0,1,2,0.0,0.0,0.2,4,0,21,26,80.8,2,11,1,2,2,Freiburg,2018-09-22 Wolfsburg-Freiburg,GER-BL1,18-19,40ca9e78
+ea6bc03a,Robin Koch,25,GER,CM,22-067,90,0,0,0,0,1,0,0,0,37,1,5,4,0.0,0.0,0.0,0,0,11,19,57.9,0,3,0,0,0,Freiburg,2018-09-22 Wolfsburg-Freiburg,GER-BL1,18-19,40ca9e78
+482b70ad,Mike Frantz,8,GER,RM,31-343,66,1,0,0,0,2,2,0,0,29,0,2,2,0.4,0.4,0.0,0,0,5,17,29.4,1,12,1,0,0,Freiburg,2018-09-22 Wolfsburg-Freiburg,GER-BL1,18-19,40ca9e78
+302527b2,Philipp Lienhart,3,AUT,CB,22-073,24,0,0,0,0,0,0,0,0,11,1,0,1,0.0,0.0,0.0,0,0,3,5,60.0,1,1,0,0,0,Freiburg,2018-09-22 Wolfsburg-Freiburg,GER-BL1,18-19,40ca9e78
+8593f88c,Christian Günter,30,GER,LB,25-206,90,0,0,0,0,1,0,0,0,36,1,1,1,0.0,0.0,0.0,1,0,15,28,53.6,2,11,4,2,1,Freiburg,2018-09-22 Wolfsburg-Freiburg,GER-BL1,18-19,40ca9e78
+699fb8db,Dominique Heintz,23,GER,CB,25-038,90,0,0,0,0,0,0,0,0,30,0,1,3,0.0,0.0,0.0,1,0,7,13,53.8,1,5,1,0,0,Freiburg,2018-09-22 Wolfsburg-Freiburg,GER-BL1,18-19,40ca9e78
+25ab9c9c,Manuel Gulde,5,GER,CB,27-222,90,0,0,0,0,0,0,0,0,26,2,1,0,0.0,0.0,0.0,0,0,12,21,57.1,0,4,0,0,0,Freiburg,2018-09-22 Wolfsburg-Freiburg,GER-BL1,18-19,40ca9e78
+2a29eb9b,Lukas Kübler,17,GER,RB,26-023,90,0,1,0,0,0,0,0,0,48,4,3,0,0.0,0.0,0.2,1,1,22,38,57.9,3,16,1,0,0,Freiburg,2018-09-22 Wolfsburg-Freiburg,GER-BL1,18-19,40ca9e78
+0d55d942,Alexander Schwolow,1,GER,GK,26-112,90,0,0,0,0,0,0,0,0,33,0,0,0,0.0,0.0,0.0,0,0,12,31,38.7,0,12,0,0,0,Freiburg,2018-09-22 Wolfsburg-Freiburg,GER-BL1,18-19,40ca9e78

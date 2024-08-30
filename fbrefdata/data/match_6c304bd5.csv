@@ -1,0 +1,32 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+c0b3669f,Randal Kolo Muani,23,FRA,FW,21-290,90,0,0,0,0,3,0,0,0,22,0,0,0,0.1,0.1,0.1,3,0,10,13,76.9,1,15,1,1,1,Nantes,2020-09-20 Nantes-Saint-Étienne,FRA-L1,20-21,6c304bd5
+5f3eaaf5,Moses Simon,27,NGA,LW,25-070,90,1,0,0,0,3,1,0,0,47,2,0,0,0.4,0.4,0.1,4,0,21,28,75.0,1,31,7,5,1,Nantes,2020-09-20 Nantes-Saint-Étienne,FRA-L1,20-21,6c304bd5
+3010aefb,Marcus Coco,11,FRA,RW,24-088,64,0,0,0,0,1,0,0,0,40,0,1,0,0.0,0.0,0.0,2,0,22,33,66.7,1,30,2,1,1,Nantes,2020-09-20 Nantes-Saint-Étienne,FRA-L1,20-21,6c304bd5
+32f3d97e,Abdoul Kader Bamba,32,FRA,RW,26-118,26,0,0,0,0,0,0,1,0,21,0,0,0,0.0,0.0,0.1,3,1,12,19,63.2,1,12,3,2,1,Nantes,2020-09-20 Nantes-Saint-Étienne,FRA-L1,20-21,6c304bd5
+6191093d,Ludovic Blas,10,FRA,AM,22-264,84,0,0,0,0,0,0,0,0,38,0,1,0,0.0,0.0,0.0,1,0,21,26,80.8,5,33,2,5,4,Nantes,2020-09-20 Nantes-Saint-Étienne,FRA-L1,20-21,6c304bd5
+5c9ac7f0,Renaud Emond,28,BEL,AM,28-290,6,1,0,0,0,1,1,0,0,5,0,0,0,0.5,0.5,0.0,0,0,1,4,25.0,1,0,0,0,0,Nantes,2020-09-20 Nantes-Saint-Étienne,FRA-L1,20-21,6c304bd5
+68a26d51,Pedro Chirivella,5,ESP,DM,23-120,90,0,0,0,0,0,0,0,0,73,0,1,0,0.0,0.0,0.0,1,0,64,71,90.1,8,55,1,0,0,Nantes,2020-09-20 Nantes-Saint-Étienne,FRA-L1,20-21,6c304bd5
+a4c3f7af,Mehdi Abeid,8,ALG,DM,28-045,84,0,0,0,0,2,0,0,0,66,1,3,0,0.1,0.1,0.1,4,0,46,56,82.1,11,39,1,0,0,Nantes,2020-09-20 Nantes-Saint-Étienne,FRA-L1,20-21,6c304bd5
+ef7cd87a,Abdoulaye Touré,19,GUI,DM,26-201,6,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,3,0,0,0,Nantes,2020-09-20 Nantes-Saint-Étienne,FRA-L1,20-21,6c304bd5
+bc7b4580,Fábio,2,BRA,LB,30-073,90,0,0,0,0,1,0,0,0,77,1,2,1,0.1,0.1,0.1,3,0,50,64,78.1,6,38,1,2,1,Nantes,2020-09-20 Nantes-Saint-Étienne,FRA-L1,20-21,6c304bd5
+779847d6,Nicolas Pallois,4,FRA,CB,33-001,90,0,0,0,0,2,1,1,0,56,0,1,2,0.1,0.1,0.0,2,0,38,43,88.4,2,30,0,1,1,Nantes,2020-09-20 Nantes-Saint-Étienne,FRA-L1,20-21,6c304bd5
+3befc2b6,Andrei Girotto,3,BRA,CB,28-216,90,0,0,0,0,2,0,0,0,73,3,4,0,0.1,0.1,0.0,2,1,47,60,78.3,9,42,0,0,0,Nantes,2020-09-20 Nantes-Saint-Étienne,FRA-L1,20-21,6c304bd5
+feb5d3ab,Dennis Appiah,12,FRA,RB,28-103,90,0,1,0,0,0,0,0,0,78,3,1,3,0.0,0.0,0.3,2,1,55,69,79.7,6,36,1,1,1,Nantes,2020-09-20 Nantes-Saint-Étienne,FRA-L1,20-21,6c304bd5
+4e7db402,Alban Lafont,1,FRA,GK,21-241,90,0,0,0,0,0,0,0,0,18,0,0,0,0.0,0.0,0.0,0,0,12,16,75.0,0,12,0,0,0,Nantes,2020-09-20 Nantes-Saint-Étienne,FRA-L1,20-21,6c304bd5
+7b9a9e25,Arnaud Nordin,18,FRA,FW,22-095,57,0,0,0,0,2,1,0,0,10,0,0,0,0.1,0.1,0.0,2,0,3,3,100.0,1,6,0,2,2,Saint-Étienne,2020-09-20 Nantes-Saint-Étienne,FRA-L1,20-21,6c304bd5
+0b4d8274,Romain Hamouma,21,FRA,FW,33-175,33,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,3,7,42.9,0,5,1,1,0,Saint-Étienne,2020-09-20 Nantes-Saint-Étienne,FRA-L1,20-21,6c304bd5
+b94b8be1,Adil Aouchiche,17,FRA,LW,18-067,75,1,1,0,0,1,1,0,0,35,2,1,1,0.9,0.9,0.1,2,1,17,25,68.0,1,13,2,3,1,Saint-Étienne,2020-09-20 Nantes-Saint-Étienne,FRA-L1,20-21,6c304bd5
+4a57580c,Kévin Monnet-Paquet,22,FRA,LW,32-032,15,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,3,6,50.0,0,2,0,1,0,Saint-Étienne,2020-09-20 Nantes-Saint-Étienne,FRA-L1,20-21,6c304bd5
+0b0cbe5b,Denis Bouanga,20,GAB,RW,25-314,76,0,0,0,0,1,0,0,0,29,2,0,0,0.0,0.0,0.0,3,2,9,16,56.3,2,17,2,6,5,Saint-Étienne,2020-09-20 Nantes-Saint-Étienne,FRA-L1,20-21,6c304bd5
+46a7b605,Maxence Rivera,32,FRA,RW,18-113,14,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,3,5,60.0,0,4,0,0,0,Saint-Étienne,2020-09-20 Nantes-Saint-Étienne,FRA-L1,20-21,6c304bd5
+e2f9bb5f,Zaydou Youssouf,28,FRA,LM,21-071,58,0,0,0,0,1,0,0,0,23,0,0,0,0.1,0.1,0.0,0,0,17,21,81.0,1,15,0,0,0,Saint-Étienne,2020-09-20 Nantes-Saint-Étienne,FRA-L1,20-21,6c304bd5
+3cd7820a,Lucas Gourna-Douath,33,FRA,LM,17-046,32,0,0,0,0,0,0,0,0,15,2,1,0,0.0,0.0,0.0,0,0,4,10,40.0,1,2,0,0,0,Saint-Étienne,2020-09-20 Nantes-Saint-Étienne,FRA-L1,20-21,6c304bd5
+0ad37003,Yvan Neyou,19,CMR,CM,23-261,79,0,1,0,0,0,0,0,0,36,0,0,1,0.0,0.0,0.9,1,1,28,32,87.5,2,25,1,0,0,Saint-Étienne,2020-09-20 Nantes-Saint-Étienne,FRA-L1,20-21,6c304bd5
+a13028f6,Abdoulaye Sidibé,36,FRA,"RM,CM",18-224,11,0,0,0,0,0,0,1,0,3,1,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,1,0,0,0,Saint-Étienne,2020-09-20 Nantes-Saint-Étienne,FRA-L1,20-21,6c304bd5
+8577e60a,Mahdi Camara,8,FRA,"RM,CM",22-082,90,0,0,0,0,0,0,0,0,38,3,2,2,0.0,0.0,0.0,0,0,21,26,80.8,1,14,0,1,1,Saint-Étienne,2020-09-20 Nantes-Saint-Étienne,FRA-L1,20-21,6c304bd5
+0bb6e193,Yvann Macon,27,FRA,LB,21-355,90,1,0,0,0,1,1,0,0,66,6,0,1,0.0,0.0,0.0,1,0,31,47,66.0,2,22,1,1,1,Saint-Étienne,2020-09-20 Nantes-Saint-Étienne,FRA-L1,20-21,6c304bd5
+ab096c6f,Timothée Kolodziejczak,5,FRA,CB,28-355,90,0,0,0,0,0,0,0,0,58,1,2,1,0.0,0.0,0.0,1,0,39,46,84.8,3,28,0,0,0,Saint-Étienne,2020-09-20 Nantes-Saint-Étienne,FRA-L1,20-21,6c304bd5
+5f26e0c5,Harold Moukoudi,2,CMR,CB,22-298,90,0,0,0,0,0,0,0,0,52,1,3,1,0.0,0.0,0.0,1,0,33,43,76.7,2,30,1,0,0,Saint-Étienne,2020-09-20 Nantes-Saint-Étienne,FRA-L1,20-21,6c304bd5
+2591b066,Aimen Moueffek,34,FRA,RB,19-164,90,0,0,0,0,0,0,1,0,59,4,0,0,0.0,0.0,0.0,1,0,32,45,71.1,1,21,2,2,1,Saint-Étienne,2020-09-20 Nantes-Saint-Étienne,FRA-L1,20-21,6c304bd5
+28a65a2c,Jessy Moulin,30,FRA,GK,34-251,90,0,0,0,0,0,0,0,0,46,0,0,0,0.0,0.0,0.0,0,0,28,47,59.6,0,25,0,0,0,Saint-Étienne,2020-09-20 Nantes-Saint-Étienne,FRA-L1,20-21,6c304bd5

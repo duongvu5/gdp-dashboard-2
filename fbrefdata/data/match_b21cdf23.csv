@@ -1,0 +1,29 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+bb67bff1,Vlatko Stojanovski,11,MKD,FW,22-221,58,0,0,0,0,0,0,0,0,18,2,0,0,0.0,0.0,0.1,3,0,9,13,69.2,0,12,1,2,2,Nîmes,2019-11-30 Nîmes-Metz,FRA-L1,19-20,b21cdf23
+9b6556d2,Haris Duljević,17,BIH,FW,26-014,32,0,1,0,0,1,1,0,0,15,2,0,2,0.0,0.0,0.1,1,1,5,8,62.5,0,9,1,2,1,Nîmes,2019-11-30 Nîmes-Metz,FRA-L1,19-20,b21cdf23
+beae3a73,Renaud Ripart,20,FRA,FW,26-261,78,1,0,0,0,3,2,0,0,32,0,2,0,0.2,0.2,0.0,1,0,13,18,72.2,0,25,4,3,1,Nîmes,2019-11-30 Nîmes-Metz,FRA-L1,19-20,b21cdf23
+0d3585b5,Kévin Denkey,27,TOG,FW,19-000,12,0,0,0,0,1,0,0,0,5,0,0,0,0.0,0.0,0.0,1,0,3,4,75.0,0,5,0,0,0,Nîmes,2019-11-30 Nîmes-Metz,FRA-L1,19-20,b21cdf23
+f98b15f0,Romain Philippoteaux,7,FRA,LM,31-273,90,0,0,0,0,0,0,1,0,43,1,0,1,0.0,0.0,0.1,3,0,24,32,75.0,4,30,3,2,0,Nîmes,2019-11-30 Nîmes-Metz,FRA-L1,19-20,b21cdf23
+44f8c299,Lucas Deaux,8,FRA,CM,30-339,90,0,0,0,0,1,0,0,0,76,4,0,1,0.0,0.0,0.0,1,0,50,63,79.4,5,37,1,1,1,Nîmes,2019-11-30 Nîmes-Metz,FRA-L1,19-20,b21cdf23
+c8090cb3,Theo Valls,18,FRA,CM,23-347,86,0,0,0,0,1,0,0,0,51,2,1,2,0.0,0.0,0.0,2,0,32,44,72.7,4,33,3,0,0,Nîmes,2019-11-30 Nîmes-Metz,FRA-L1,19-20,b21cdf23
+a0b65401,Sidy Sarr,6,SEN,CM,23-178,4,0,0,0,0,2,0,0,0,10,0,1,0,0.1,0.1,0.0,1,0,5,7,71.4,0,3,0,0,0,Nîmes,2019-11-30 Nîmes-Metz,FRA-L1,19-20,b21cdf23
+005c0807,Zinedine Ferhat,10,ALG,RM,26-274,90,0,0,0,0,3,0,0,0,59,0,0,0,0.1,0.1,0.1,3,0,24,46,52.2,4,37,6,4,1,Nîmes,2019-11-30 Nîmes-Metz,FRA-L1,19-20,b21cdf23
+b66d1d8a,Florian Miguel,26,FRA,LB,23-090,90,0,0,0,0,0,0,0,0,91,1,3,1,0.0,0.0,0.0,5,0,49,80,61.3,4,56,8,5,3,Nîmes,2019-11-30 Nîmes-Metz,FRA-L1,19-20,b21cdf23
+1ad8cb67,Pablo Martinez,4,FRA,CB,30-282,90,0,0,0,0,0,0,0,0,68,1,5,1,0.0,0.0,0.0,0,0,42,59,71.2,3,45,2,0,0,Nîmes,2019-11-30 Nîmes-Metz,FRA-L1,19-20,b21cdf23
+16324e1d,Anthony Briançon,23,FRA,CB,25-002,90,0,0,0,0,1,0,0,0,59,2,1,1,0.0,0.0,0.0,1,0,43,49,87.8,6,40,1,0,0,Nîmes,2019-11-30 Nîmes-Metz,FRA-L1,19-20,b21cdf23
+5314e067,Sofiane Alakouch,29,MAR,RB,21-124,90,0,0,0,0,1,0,0,0,71,6,2,1,0.0,0.0,0.0,1,1,43,54,79.6,9,32,1,3,1,Nîmes,2019-11-30 Nîmes-Metz,FRA-L1,19-20,b21cdf23
+28dabd43,Paul Bernardoni,30,FRA,GK,22-226,90,0,0,0,0,0,0,0,0,26,0,0,0,0.0,0.0,0.0,0,0,19,23,82.6,0,11,0,0,0,Nîmes,2019-11-30 Nîmes-Metz,FRA-L1,19-20,b21cdf23
+6605d143,Habib Diallo,20,SEN,FW,24-165,90,1,0,0,0,2,1,0,0,33,0,0,1,0.4,0.4,0.1,4,0,13,17,76.5,2,17,4,3,1,Metz,2019-11-30 Nîmes-Metz,FRA-L1,19-20,b21cdf23
+75a63397,Opa Nguette,11,SEN,LW,25-145,70,0,0,0,0,1,0,1,0,34,2,1,0,0.0,0.0,0.0,2,1,17,24,70.8,1,23,3,1,1,Metz,2019-11-30 Nîmes-Metz,FRA-L1,19-20,b21cdf23
+2945f4b7,Thierry Ambrose,9,GLP,LW,22-247,20,0,0,0,0,1,1,0,0,15,0,1,0,0.1,0.1,0.0,0,0,5,7,71.4,0,8,2,3,2,Metz,2019-11-30 Nîmes-Metz,FRA-L1,19-20,b21cdf23
+1a6f2a66,Adama Traoré,25,MLI,RW,24-155,82,0,0,0,0,4,1,0,0,46,0,0,0,0.2,0.2,0.3,6,0,27,35,77.1,6,29,1,7,6,Metz,2019-11-30 Nîmes-Metz,FRA-L1,19-20,b21cdf23
+a0791826,Farid Boulaya,27,ALG,RW,26-278,8,0,0,0,0,0,0,1,0,4,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,3,2,0,0,Metz,2019-11-30 Nîmes-Metz,FRA-L1,19-20,b21cdf23
+4e7d66f8,Renaud Cohade,24,FRA,LM,35-062,90,0,0,0,0,0,0,1,0,64,5,0,1,0.0,0.0,0.1,3,0,46,57,80.7,9,35,6,1,0,Metz,2019-11-30 Nîmes-Metz,FRA-L1,19-20,b21cdf23
+4c4ffacc,Mamadou Fofana,6,MLI,CM,21-313,90,0,0,0,0,1,0,1,0,55,5,1,2,0.0,0.0,0.0,0,0,32,41,78.0,2,14,0,1,0,Metz,2019-11-30 Nîmes-Metz,FRA-L1,19-20,b21cdf23
+e768de1f,Habib Maïga,19,CIV,RM,23-333,90,0,0,0,0,1,1,1,0,65,3,0,5,0.0,0.0,0.0,2,0,30,44,68.2,0,28,4,4,2,Metz,2019-11-30 Nîmes-Metz,FRA-L1,19-20,b21cdf23
+cc41f558,Matthieu Udol,3,FRA,LB,23-255,90,0,1,0,0,0,0,0,0,41,3,1,1,0.0,0.0,0.1,2,1,27,32,84.4,2,14,5,1,1,Metz,2019-11-30 Nîmes-Metz,FRA-L1,19-20,b21cdf23
+861227d2,John Boye,21,GHA,CB,32-221,90,0,0,0,0,0,0,1,0,41,1,3,0,0.0,0.0,0.0,0,0,23,30,76.7,0,13,0,0,0,Metz,2019-11-30 Nîmes-Metz,FRA-L1,19-20,b21cdf23
+1bab7b66,Stoppila Sunzu,13,ZAM,CB,30-161,90,0,0,0,0,0,0,0,0,40,1,4,1,0.0,0.0,0.0,0,0,22,28,78.6,0,13,0,0,0,Metz,2019-11-30 Nîmes-Metz,FRA-L1,19-20,b21cdf23
+3c6bbbab,Fabien Centonze,18,FRA,RB,23-318,90,0,0,0,0,0,0,0,0,65,5,4,1,0.0,0.0,0.0,0,0,28,46,60.9,7,19,1,3,3,Metz,2019-11-30 Nîmes-Metz,FRA-L1,19-20,b21cdf23
+ae7d0ecd,Alexandre Oukidja,16,ALG,GK,31-134,90,0,0,0,0,0,0,0,0,36,0,0,0,0.0,0.0,0.0,0,0,7,33,21.2,0,14,0,0,0,Metz,2019-11-30 Nîmes-Metz,FRA-L1,19-20,b21cdf23

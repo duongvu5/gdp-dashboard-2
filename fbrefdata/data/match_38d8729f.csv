@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+5bd72174,Francesco Caputo,10,ITA,FW,34-197,90,0,0,0,0,1,1,0,0,21,0,0,0,0.1,0.1,0.0,0,0,12,16,75.0,2,13,1,0,0,Sampdoria,2022-02-19 Sampdoria-Empoli,ITA-SERIA_A,21-22,38d8729f
+ee4f2f3b,Fabio Quagliarella,27,ITA,FW,39-019,60,2,0,0,0,3,2,0,0,34,1,0,2,0.2,0.2,0.1,3,1,15,21,71.4,4,17,0,0,0,Sampdoria,2022-02-19 Sampdoria-Empoli,ITA-SERIA_A,21-22,38d8729f
+8fef5412,Andrea Conti,13,ITA,RB,27-354,30,0,0,0,0,0,0,1,0,13,0,0,0,0.0,0.0,0.0,0,0,12,12,100.0,1,10,1,0,0,Sampdoria,2022-02-19 Sampdoria-Empoli,ITA-SERIA_A,21-22,38d8729f
+4830e0af,Abdelhamid Sabiri,11,MAR,"AM,FW",25-083,68,0,0,0,0,1,0,0,0,32,4,0,1,0.0,0.0,0.1,3,0,15,19,78.9,3,21,0,2,1,Sampdoria,2022-02-19 Sampdoria-Empoli,ITA-SERIA_A,21-22,38d8729f
+f1cfc209,Tomás Rincón,88,VEN,CM,34-037,22,0,0,0,0,0,0,0,0,19,0,1,0,0.0,0.0,0.0,0,0,15,17,88.2,4,11,0,1,1,Sampdoria,2022-02-19 Sampdoria-Empoli,ITA-SERIA_A,21-22,38d8729f
+d1b49282,Morten Thorsby,2,NOR,"LM,CM",25-290,90,0,0,0,0,0,0,0,0,47,1,0,1,0.0,0.0,0.0,0,0,31,37,83.8,2,23,0,1,1,Sampdoria,2022-02-19 Sampdoria-Empoli,ITA-SERIA_A,21-22,38d8729f
+f503ea63,Albin Ekdal,6,SWE,CM,32-206,85,0,0,0,0,0,0,1,0,40,1,3,0,0.0,0.0,0.0,0,0,21,27,77.8,1,18,0,2,1,Sampdoria,2022-02-19 Sampdoria-Empoli,ITA-SERIA_A,21-22,38d8729f
+75e60d75,Ronaldo Vieira,14,ENG,CM,23-215,5,0,0,0,0,0,0,0,0,4,0,1,1,0.0,0.0,0.0,0,0,1,1,100.0,0,2,0,0,0,Sampdoria,2022-02-19 Sampdoria-Empoli,ITA-SERIA_A,21-22,38d8729f
+356c9002,Antonio Candreva,87,ITA,"RM,FW,CM",34-356,90,0,1,0,0,2,0,1,0,76,4,0,0,0.1,0.1,0.1,5,2,48,62,77.4,10,55,4,3,1,Sampdoria,2022-02-19 Sampdoria-Empoli,ITA-SERIA_A,21-22,38d8729f
+d183e9d6,Nicola Murru,29,ITA,LB,27-065,69,0,0,0,0,0,0,0,0,44,2,0,2,0.0,0.0,0.2,1,0,21,34,61.8,6,24,4,1,1,Sampdoria,2022-02-19 Sampdoria-Empoli,ITA-SERIA_A,21-22,38d8729f
+3cd3b384,Tommaso Augello,3,ITA,LB,27-173,21,0,0,0,0,0,0,0,0,15,1,1,0,0.0,0.0,0.0,0,0,7,10,70.0,0,8,0,1,0,Sampdoria,2022-02-19 Sampdoria-Empoli,ITA-SERIA_A,21-22,38d8729f
+8b95acda,Omar Colley,15,GAM,CB,29-118,90,0,0,0,0,1,0,0,0,34,2,1,2,0.2,0.2,0.0,0,0,16,22,72.7,0,17,0,0,0,Sampdoria,2022-02-19 Sampdoria-Empoli,ITA-SERIA_A,21-22,38d8729f
+d0dbca9f,Alex Ferrari,25,ITA,CB,27-233,90,0,0,0,0,0,0,0,0,33,3,0,2,0.0,0.0,0.0,0,0,13,20,65.0,0,10,0,1,0,Sampdoria,2022-02-19 Sampdoria-Empoli,ITA-SERIA_A,21-22,38d8729f
+61b3978f,Bartosz Bereszyński,24,POL,"RB,CB",29-222,90,0,1,0,0,0,0,1,0,66,0,0,2,0.0,0.0,0.1,3,1,40,53,75.5,3,34,5,1,0,Sampdoria,2022-02-19 Sampdoria-Empoli,ITA-SERIA_A,21-22,38d8729f
+9f5a610b,Wladimiro Falcone,33,ITA,GK,26-313,90,0,0,0,0,0,0,0,0,40,0,0,0,0.0,0.0,0.0,0,0,24,38,63.2,0,22,0,0,0,Sampdoria,2022-02-19 Sampdoria-Empoli,ITA-SERIA_A,21-22,38d8729f
+08aa9cd1,Andrea Pinamonti,99,ITA,FW,22-276,90,0,0,0,0,0,0,0,0,20,0,0,0,0.0,0.0,0.2,2,0,13,18,72.2,2,14,1,0,0,Empoli,2022-02-19 Sampdoria-Empoli,ITA-SERIA_A,21-22,38d8729f
+a4fe8cda,Patrick Cutrone,9,ITA,FW,24-047,62,0,0,0,0,1,0,0,0,21,0,0,0,0.0,0.0,0.0,2,0,9,12,75.0,1,15,2,3,0,Empoli,2022-02-19 Sampdoria-Empoli,ITA-SERIA_A,21-22,38d8729f
+c375dfa5,Andrea La Mantia,19,ITA,FW,30-289,28,0,0,0,0,1,0,0,0,9,0,0,0,0.1,0.1,0.0,1,0,6,8,75.0,0,5,1,0,0,Empoli,2022-02-19 Sampdoria-Empoli,ITA-SERIA_A,21-22,38d8729f
+f42d6c13,Nedim Bajrami,10,ALB,AM,22-356,74,0,0,0,0,3,1,1,0,53,1,0,0,0.2,0.2,0.0,3,0,29,41,70.7,10,32,3,3,3,Empoli,2022-02-19 Sampdoria-Empoli,ITA-SERIA_A,21-22,38d8729f
+1fca9171,Federico Di Francesco,11,ITA,AM,27-250,16,0,0,0,0,1,0,0,0,15,1,1,0,0.0,0.0,0.0,0,0,9,12,75.0,1,9,2,0,0,Empoli,2022-02-19 Sampdoria-Empoli,ITA-SERIA_A,21-22,38d8729f
+4e1d5e59,Szymon Żurkowski,27,POL,LM,24-147,62,0,0,0,0,1,0,0,0,45,4,1,2,0.2,0.2,0.2,5,0,28,31,90.3,8,29,3,2,2,Empoli,2022-02-19 Sampdoria-Empoli,ITA-SERIA_A,21-22,38d8729f
+d44360be,Filippo Bandinelli,25,ITA,LM,26-327,28,0,0,0,0,1,0,0,0,22,0,0,1,0.0,0.0,0.1,3,0,14,19,73.7,3,15,2,1,1,Empoli,2022-02-19 Sampdoria-Empoli,ITA-SERIA_A,21-22,38d8729f
+0fdcef0e,Kristjan Asllani,23,ALB,CM,19-347,90,0,0,0,0,1,1,1,0,81,1,3,1,0.0,0.0,0.0,0,0,62,74,83.8,11,60,1,0,0,Empoli,2022-02-19 Sampdoria-Empoli,ITA-SERIA_A,21-22,38d8729f
+0000acda,Marco Benassi,15,ITA,RM,27-164,62,0,0,0,0,1,0,0,0,28,0,0,1,0.0,0.0,0.0,0,0,16,21,76.2,7,16,3,3,1,Empoli,2022-02-19 Sampdoria-Empoli,ITA-SERIA_A,21-22,38d8729f
+d7918b13,Liam Henderson,8,SCO,RM,25-300,28,0,0,0,0,0,0,0,0,25,1,0,0,0.0,0.0,0.0,0,0,16,21,76.2,4,13,0,1,1,Empoli,2022-02-19 Sampdoria-Empoli,ITA-SERIA_A,21-22,38d8729f
+0967845b,Fabiano Parisi,65,ITA,LB,21-102,77,0,0,0,0,0,0,0,0,64,2,1,1,0.0,0.0,0.0,1,0,36,49,73.5,4,33,2,2,0,Empoli,2022-02-19 Sampdoria-Empoli,ITA-SERIA_A,21-22,38d8729f
+dd86e8e4,Liberato Cacace,21,NZL,LB,21-145,13,0,0,0,0,0,0,0,0,15,0,1,0,0.0,0.0,0.0,0,0,12,14,85.7,1,13,4,1,1,Empoli,2022-02-19 Sampdoria-Empoli,ITA-SERIA_A,21-22,38d8729f
+75438a9a,Mattia Viti,42,ITA,CB,20-026,90,0,0,0,0,0,0,0,0,72,2,2,0,0.0,0.0,0.0,1,0,55,59,93.2,6,46,0,2,1,Empoli,2022-02-19 Sampdoria-Empoli,ITA-SERIA_A,21-22,38d8729f
+09899de8,Simone Romagnoli,6,ITA,CB,32-010,90,0,0,0,0,0,0,0,0,68,1,0,0,0.0,0.0,0.0,0,0,50,63,79.4,5,37,1,0,0,Empoli,2022-02-19 Sampdoria-Empoli,ITA-SERIA_A,21-22,38d8729f
+13b44b02,Petar Stojanović,30,SVN,RB,26-135,90,0,0,0,0,0,0,0,0,82,0,1,0,0.0,0.0,0.0,1,0,56,76,73.7,5,55,6,4,2,Empoli,2022-02-19 Sampdoria-Empoli,ITA-SERIA_A,21-22,38d8729f
+77d6fd4d,Guglielmo Vicario,13,ITA,GK,25-135,90,0,0,0,0,0,0,0,0,21,0,0,0,0.0,0.0,0.0,0,0,19,20,95.0,0,13,0,0,0,Empoli,2022-02-19 Sampdoria-Empoli,ITA-SERIA_A,21-22,38d8729f

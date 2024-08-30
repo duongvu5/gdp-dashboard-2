@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+fd53759d,Jan Thielmann,29,GER,FW,21-239,86,0,0,0,0,5,2,1,0,28,0,0,2,0.4,0.4,0.0,5,0,15,17,88.2,3,12,1,1,1,Köln,2024-01-20 Köln-Dortmund,GER-BL1,23-24,7aed9153
+22919e97,Sargis Adamyan,23,ARM,FW,30-242,4,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,2,0,1,0,Köln,2024-01-20 Köln-Dortmund,GER-BL1,23-24,7aed9153
+94c18565,Florian Kainz,11,AUT,FW,31-088,73,0,0,0,0,0,0,0,0,56,1,1,0,0.0,0.0,0.2,6,0,26,47,55.3,7,34,3,2,0,Köln,2024-01-20 Köln-Dortmund,GER-BL1,23-24,7aed9153
+324ff0da,Jacob Christensen,22,DEN,FW,22-209,17,0,0,0,0,0,0,0,0,7,1,0,0,0.0,0.0,0.0,0,0,3,5,60.0,1,3,0,0,0,Köln,2024-01-20 Köln-Dortmund,GER-BL1,23-24,7aed9153
+e5d85da8,Linton Maina,37,GER,LM,24-211,61,0,0,0,0,2,0,0,0,33,1,1,0,0.0,0.0,0.0,4,0,16,23,69.6,1,24,5,3,2,Köln,2024-01-20 Köln-Dortmund,GER-BL1,23-24,7aed9153
+d82a310a,Justin Diehl,45,GER,LM,19-054,29,0,0,0,0,1,1,0,0,21,0,0,0,0.0,0.0,0.0,4,0,10,18,55.6,2,12,1,2,1,Köln,2024-01-20 Köln-Dortmund,GER-BL1,23-24,7aed9153
+b116c6e3,Denis Huseinbasic,8,BIH,CM,22-201,90,0,0,0,0,2,0,0,0,43,1,0,2,0.1,0.1,0.0,4,0,31,35,88.6,6,30,0,0,0,Köln,2024-01-20 Köln-Dortmund,GER-BL1,23-24,7aed9153
+92a16062,Eric Martel,6,GER,CM,21-266,90,0,0,0,0,2,1,0,0,56,1,0,1,0.1,0.1,0.0,2,0,39,48,81.3,5,41,2,1,0,Köln,2024-01-20 Köln-Dortmund,GER-BL1,23-24,7aed9153
+c455a2b2,Dejan Ljubicic,7,AUT,RM,26-104,61,0,0,0,0,2,0,0,0,27,1,0,1,0.1,0.1,0.1,2,0,16,21,76.2,2,23,2,2,2,Köln,2024-01-20 Köln-Dortmund,GER-BL1,23-24,7aed9153
+00f518d8,Faride Alidou,40,GER,RM,22-186,29,0,0,0,0,0,0,0,0,10,0,0,2,0.0,0.0,0.0,1,0,5,6,83.3,2,9,3,2,2,Köln,2024-01-20 Köln-Dortmund,GER-BL1,23-24,7aed9153
+7ebd0896,Max Finkgräfe,35,GER,LB,19-299,90,0,0,0,0,0,0,0,0,42,3,1,4,0.0,0.0,0.0,0,0,26,33,78.8,2,25,2,0,0,Köln,2024-01-20 Köln-Dortmund,GER-BL1,23-24,7aed9153
+ae7058f9,Julian Chabot,24,GER,CB,25-342,90,0,0,0,0,2,1,1,0,65,3,3,0,0.1,0.1,0.0,1,0,41,49,83.7,1,35,0,1,0,Köln,2024-01-20 Köln-Dortmund,GER-BL1,23-24,7aed9153
+94302c52,Timo Hübers,4,GER,CB,27-184,90,0,0,0,0,1,0,0,0,59,2,2,2,0.0,0.0,0.0,0,0,44,47,93.6,4,41,1,0,0,Köln,2024-01-20 Köln-Dortmund,GER-BL1,23-24,7aed9153
+64d7f629,Rasmus Carstensen,18,DEN,RB,23-101,86,0,0,0,0,2,0,0,0,61,5,1,0,0.5,0.5,0.0,0,0,35,49,71.4,3,30,0,2,1,Köln,2024-01-20 Köln-Dortmund,GER-BL1,23-24,7aed9153
+ad00b1a8,Benno Schmitz,2,GER,RB,29-064,4,0,0,0,0,0,0,0,0,3,0,1,0,0.0,0.0,0.0,0,0,3,3,100.0,1,1,0,0,0,Köln,2024-01-20 Köln-Dortmund,GER-BL1,23-24,7aed9153
+87436846,Marvin Schwäbe,1,GER,GK,28-270,90,0,0,0,0,0,0,0,0,31,0,0,0,0.0,0.0,0.0,0,0,22,28,78.6,0,19,0,0,0,Köln,2024-01-20 Köln-Dortmund,GER-BL1,23-24,7aed9153
+4f16405e,Niclas Füllkrug,14,GER,FW,30-345,73,1,0,1,1,2,1,0,0,30,0,0,1,1.4,0.6,0.0,2,0,16,19,84.2,2,15,1,1,0,Dortmund,2024-01-20 Köln-Dortmund,GER-BL1,23-24,7aed9153
+6ce43701,Youssoufa Moukoko,18,GER,FW,19-061,17,1,0,0,0,1,1,0,0,5,0,0,0,0.9,0.9,0.0,0,0,2,2,100.0,0,3,0,0,0,Dortmund,2024-01-20 Köln-Dortmund,GER-BL1,23-24,7aed9153
+dbf053da,Jadon Sancho,10,ENG,LW,23-301,65,0,0,0,0,0,0,0,0,42,1,1,0,0.0,0.0,0.1,5,3,22,28,78.6,2,33,5,10,4,Dortmund,2024-01-20 Köln-Dortmund,GER-BL1,23-24,7aed9153
+10745192,Jamie Gittens,43,ENG,LW,19-165,25,0,1,0,0,0,0,0,0,11,0,0,2,0.0,0.0,0.9,1,1,6,6,100.0,0,6,0,1,0,Dortmund,2024-01-20 Köln-Dortmund,GER-BL1,23-24,7aed9153
+116c35df,Donyell Malen,21,NED,RW,25-011,90,2,0,0,0,2,2,0,0,48,2,0,2,0.7,0.7,0.0,2,0,27,36,75.0,4,35,5,8,4,Dortmund,2024-01-20 Köln-Dortmund,GER-BL1,23-24,7aed9153
+e280527c,Marcel Sabitzer,20,AUT,LM,29-309,90,0,0,0,0,2,1,0,0,79,4,0,3,0.1,0.1,0.1,1,0,53,66,80.3,4,45,0,2,1,Dortmund,2024-01-20 Köln-Dortmund,GER-BL1,23-24,7aed9153
+15413fa5,Salih Özcan,6,TUR,CM,26-009,73,0,0,0,0,0,0,1,0,52,2,1,4,0.0,0.0,0.0,1,0,34,40,85.0,2,27,0,0,0,Dortmund,2024-01-20 Köln-Dortmund,GER-BL1,23-24,7aed9153
+7fa4e703,Gio Reyna,7,USA,CM,21-068,17,0,0,0,0,1,0,0,0,7,0,0,0,0.0,0.0,0.0,1,1,6,6,100.0,2,4,2,0,0,Dortmund,2024-01-20 Köln-Dortmund,GER-BL1,23-24,7aed9153
+a167537f,Julian Brandt,19,GER,RM,27-263,65,0,1,0,0,1,1,0,0,45,0,0,1,0.1,0.1,0.0,4,1,25,36,69.4,2,30,2,4,0,Dortmund,2024-01-20 Köln-Dortmund,GER-BL1,23-24,7aed9153
+36a3ff67,Marco Reus,11,GER,RM,34-234,25,0,0,0,0,0,0,0,0,20,2,0,2,0.0,0.0,0.0,1,0,12,16,75.0,0,9,0,0,0,Dortmund,2024-01-20 Köln-Dortmund,GER-BL1,23-24,7aed9153
+cab9634e,Ian Maatsen,22,NED,LB,21-316,90,0,1,0,0,0,0,1,0,109,1,1,1,0.0,0.0,0.6,2,1,85,95,89.5,4,64,2,1,0,Dortmund,2024-01-20 Köln-Dortmund,GER-BL1,23-24,7aed9153
+34e12499,Nico Schlotterbeck,4,GER,CB,24-050,90,0,0,0,0,0,0,0,0,105,0,1,0,0.0,0.0,0.0,0,0,92,96,95.8,4,75,0,0,0,Dortmund,2024-01-20 Köln-Dortmund,GER-BL1,23-24,7aed9153
+e33c06cf,Niklas Süle,25,GER,CB,28-139,45,0,0,0,0,0,0,0,0,35,0,1,0,0.0,0.0,0.0,0,0,32,34,94.1,1,24,0,0,0,Dortmund,2024-01-20 Köln-Dortmund,GER-BL1,23-24,7aed9153
+76abb354,Hendry Blank,42,GER,CB,19-152,45,0,0,0,0,0,0,0,0,66,1,0,1,0.0,0.0,0.0,0,0,58,59,98.3,1,49,0,0,0,Dortmund,2024-01-20 Köln-Dortmund,GER-BL1,23-24,7aed9153
+e162b013,Thomas Meunier,24,BEL,RB,32-130,90,0,0,0,0,1,0,0,0,93,0,0,3,0.1,0.1,0.5,1,0,70,84,83.3,5,57,3,0,0,Dortmund,2024-01-20 Köln-Dortmund,GER-BL1,23-24,7aed9153
+cd59b9df,Gregor Kobel,1,SUI,GK,26-045,90,0,0,0,0,0,0,0,0,47,0,0,0,0.0,0.0,0.0,0,0,42,45,93.3,0,37,0,0,0,Dortmund,2024-01-20 Köln-Dortmund,GER-BL1,23-24,7aed9153

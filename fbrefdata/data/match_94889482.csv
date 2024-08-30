@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+17f29fb0,Idriss Saadi,9,ALG,FW,25-186,90,0,0,0,0,7,2,0,0,25,0,1,0,0.8,0.8,0.0,2,1,8,12,66.7,2,16,1,1,0,Strasbourg,2017-08-13 Strasbourg-Lille,FRA-L1,17-18,94889482
+68a87d66,Ihsan Sacko,7,FRA,LW,20-025,90,0,0,0,0,2,0,0,0,24,2,0,0,0.1,0.1,0.6,5,0,13,19,68.4,1,7,1,1,1,Strasbourg,2017-08-13 Strasbourg-Lille,FRA-L1,17-18,94889482
+909222de,Nuno da Costa,29,CPV,RW,26-184,59,0,0,0,0,1,0,0,0,33,3,2,1,0.6,0.6,0.0,2,0,6,18,33.3,1,17,3,2,1,Strasbourg,2017-08-13 Strasbourg-Lille,FRA-L1,17-18,94889482
+c27dfb82,Anthony Gonçalves,17,FRA,RW,31-160,31,0,0,0,0,1,0,0,0,13,1,0,0,0.0,0.0,0.0,1,0,9,11,81.8,1,7,0,0,0,Strasbourg,2017-08-13 Strasbourg-Lille,FRA-L1,17-18,94889482
+cfd8dde3,Benjamin Corgnet,10,FRA,AM,30-129,84,0,0,0,0,1,1,1,0,44,4,1,2,0.1,0.1,0.3,6,0,17,32,53.1,4,21,1,0,0,Strasbourg,2017-08-13 Strasbourg-Lille,FRA-L1,17-18,94889482
+53283127,Jérémy Grimm,6,FRA,AM,30-139,6,1,0,0,0,1,1,0,0,8,0,0,0,0.0,0.0,0.0,1,0,5,6,83.3,1,6,0,0,0,Strasbourg,2017-08-13 Strasbourg-Lille,FRA-L1,17-18,94889482
+468fdbad,Jonas Martin,28,FRA,DM,27-126,90,1,0,0,0,2,2,0,0,57,4,1,1,0.5,0.5,0.2,7,0,39,42,92.9,5,33,1,0,0,Strasbourg,2017-08-13 Strasbourg-Lille,FRA-L1,17-18,94889482
+48b28bfd,Jean-Eudes Aholou,8,CIV,DM,23-146,90,0,0,0,0,2,1,0,0,44,0,4,2,0.1,0.1,0.0,2,1,30,37,81.1,5,25,2,2,2,Strasbourg,2017-08-13 Strasbourg-Lille,FRA-L1,17-18,94889482
+1ad8cb67,Pablo Martinez,4,FRA,"LB,CB",28-173,90,0,0,0,0,2,0,0,0,37,2,2,1,0.1,0.1,0.0,1,0,22,29,75.9,2,15,0,1,0,Strasbourg,2017-08-13 Strasbourg-Lille,FRA-L1,17-18,94889482
+c3725db2,Yoann Salmier,21,GUF,CB,24-265,69,0,0,0,0,1,0,0,0,25,1,0,1,0.1,0.1,0.1,1,0,19,22,86.4,4,14,2,0,0,Strasbourg,2017-08-13 Strasbourg-Lille,FRA-L1,17-18,94889482
+f7691f63,Dimitri Liénard,11,FRA,"LB,CB",29-181,21,1,1,1,1,0,0,0,0,16,1,0,0,0.8,0.0,0.2,1,1,9,12,75.0,0,9,0,0,0,Strasbourg,2017-08-13 Strasbourg-Lille,FRA-L1,17-18,94889482
+dbb10755,Kader Mangane,12,SEN,CB,34-143,90,0,0,0,0,0,0,0,0,49,2,1,2,0.0,0.0,0.0,2,1,30,41,73.2,3,29,1,1,1,Strasbourg,2017-08-13 Strasbourg-Lille,FRA-L1,17-18,94889482
+770d7eb8,Kenny Lala,27,MAD,RB,25-314,90,0,0,0,0,1,1,0,0,66,5,0,0,0.0,0.0,0.1,5,1,37,56,66.1,2,33,4,4,3,Strasbourg,2017-08-13 Strasbourg-Lille,FRA-L1,17-18,94889482
+3814120d,Bingourou Kamara,30,SEN,GK,20-296,90,0,0,0,0,0,0,0,0,38,0,0,0,0.0,0.0,0.0,0,0,21,36,58.3,0,20,0,0,0,Strasbourg,2017-08-13 Strasbourg-Lille,FRA-L1,17-18,94889482
+b0547a87,Nicolas de Préville,12,FRA,"FW,GK",26-217,90,0,0,0,0,3,0,0,0,28,0,0,1,0.5,0.5,0.1,2,0,10,22,45.5,1,12,2,0,0,Lille,2017-08-13 Strasbourg-Lille,FRA-L1,17-18,94889482
+fa18c72e,Luiz Araújo,11,BRA,"LW,LM,RW",21-072,90,0,0,0,0,1,0,0,0,38,2,1,0,0.1,0.1,0.2,4,0,17,26,65.4,4,28,6,5,5,Lille,2017-08-13 Strasbourg-Lille,FRA-L1,17-18,94889482
+6fbde63a,Yassine Benzia,10,ALG,"AM,CM,FW,DM",22-339,90,0,0,0,0,1,0,0,0,50,3,0,3,0.0,0.0,0.1,7,0,28,40,70.0,4,26,5,2,2,Lille,2017-08-13 Strasbourg-Lille,FRA-L1,17-18,94889482
+c6e5d20f,Thiago Mendes,23,BRA,CM,25-151,11,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,3,3,100.0,1,3,0,0,0,Lille,2017-08-13 Strasbourg-Lille,FRA-L1,17-18,94889482
+6c203af0,Yves Bissouma,21,MLI,"DM,RB,CM",20-348,79,0,0,0,0,1,0,0,0,52,2,3,0,0.0,0.0,0.0,1,0,30,39,76.9,4,22,1,1,1,Lille,2017-08-13 Strasbourg-Lille,FRA-L1,17-18,94889482
+ffa90327,Anwar El Ghazi,7,NED,"RW,RM,LW",22-102,90,0,0,0,0,4,2,0,0,40,1,1,0,0.2,0.2,0.4,1,0,24,29,82.8,8,30,3,2,1,Lille,2017-08-13 Strasbourg-Lille,FRA-L1,17-18,94889482
+f449640d,Fodé Ballo-Touré,25,SEN,LB,20-222,36,0,0,0,0,0,0,1,0,24,0,0,0,0.0,0.0,0.0,0,0,16,22,72.7,1,12,1,1,1,Lille,2017-08-13 Strasbourg-Lille,FRA-L1,17-18,94889482
+86a2ba20,Rominigue Kouamé,29,MLI,LB,20-239,54,0,0,0,0,0,0,0,0,41,1,1,0,0.0,0.0,0.0,2,0,29,36,80.6,2,22,4,4,3,Lille,2017-08-13 Strasbourg-Lille,FRA-L1,17-18,94889482
+b18a3023,Júnior Alonso,3,PAR,CB,24-185,90,0,0,0,0,1,0,0,0,60,2,2,2,0.1,0.1,0.0,2,0,35,45,77.8,4,27,0,2,2,Lille,2017-08-13 Strasbourg-Lille,FRA-L1,17-18,94889482
+9260926b,Ibrahim Amadou,6,FRA,"CB,DM,GK",24-129,90,0,0,0,0,0,0,0,0,48,4,3,0,0.0,0.0,0.0,0,0,30,36,83.3,4,21,1,1,1,Lille,2017-08-13 Strasbourg-Lille,FRA-L1,17-18,94889482
+3767b3b7,Edgar Ié,15,GNB,"CB,RB",23-104,90,0,0,0,0,0,0,1,0,57,1,3,2,0.0,0.0,0.0,1,0,38,47,80.9,4,24,0,2,2,Lille,2017-08-13 Strasbourg-Lille,FRA-L1,17-18,94889482
+d6a889ea,Kévin Malcuit,2,MAR,RB,26-013,18,0,0,0,0,0,0,0,0,8,0,1,0,0.0,0.0,0.0,0,0,5,5,100.0,1,5,1,0,0,Lille,2017-08-13 Strasbourg-Lille,FRA-L1,17-18,94889482
+91e58f66,Thiago Maia,20,BRA,"DM,RB",20-143,72,0,0,0,0,1,0,0,0,52,2,3,2,0.0,0.0,0.0,2,0,38,43,88.4,1,30,0,1,1,Lille,2017-08-13 Strasbourg-Lille,FRA-L1,17-18,94889482
+fcb38f57,Mike Maignan,16,FRA,GK,22-041,62,0,0,0,0,0,0,0,1,34,0,0,0,0.0,0.0,0.0,0,0,26,32,81.3,0,14,0,1,1,Lille,2017-08-13 Strasbourg-Lille,FRA-L1,17-18,94889482

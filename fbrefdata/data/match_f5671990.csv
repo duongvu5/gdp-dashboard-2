@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+343c0d52,Giovanni Simeone,99,ARG,FW,26-200,62,0,0,0,0,4,2,1,0,30,1,0,1,0.4,0.4,0.0,2,0,11,17,64.7,1,19,2,1,1,Hellas Verona,2022-01-21 Hellas Verona-Bologna,ITA-SERIA_A,21-22,f5671990
+09538fdb,Kevin Lasagna,11,ITA,"AM,FW",29-164,28,0,1,0,0,1,0,0,0,17,1,0,1,0.1,0.1,0.5,1,1,9,10,90.0,1,13,2,0,0,Hellas Verona,2022-01-21 Hellas Verona-Bologna,ITA-SERIA_A,21-22,f5671990
+54e53b7e,Gianluca Caprari,10,ITA,AM,28-175,85,1,0,0,0,2,2,0,0,51,1,0,2,0.2,0.2,0.3,7,0,27,37,73.0,8,32,5,3,1,Hellas Verona,2022-01-21 Hellas Verona-Bologna,ITA-SERIA_A,21-22,f5671990
+88895312,Daniel Bessa,24,ITA,AM,29-007,5,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,5,8,62.5,1,4,0,0,0,Hellas Verona,2022-01-21 Hellas Verona-Bologna,ITA-SERIA_A,21-22,f5671990
+01efac19,Antonín Barák,7,CZE,"AM,CM",27-049,90,0,0,0,0,2,1,0,0,61,0,1,3,0.2,0.2,0.3,2,0,42,51,82.4,6,39,5,1,1,Hellas Verona,2022-01-21 Hellas Verona-Bologna,ITA-SERIA_A,21-22,f5671990
+ab1ca213,Miguel Veloso,4,POR,CM,35-255,62,0,0,0,0,0,0,0,0,38,1,0,0,0.0,0.0,0.1,1,0,29,38,76.3,5,18,0,0,0,Hellas Verona,2022-01-21 Hellas Verona-Bologna,ITA-SERIA_A,21-22,f5671990
+8da74c05,Adrien Tameze,61,CMR,CM,27-351,28,0,0,0,0,0,0,0,0,15,2,0,1,0.0,0.0,0.0,1,1,9,10,90.0,2,9,1,0,0,Hellas Verona,2022-01-21 Hellas Verona-Bologna,ITA-SERIA_A,21-22,f5671990
+bb376bed,Ivan Ilić,14,SRB,CM,20-310,73,0,0,0,0,1,0,0,0,46,1,0,0,0.1,0.1,0.0,2,1,30,35,85.7,5,26,2,1,0,Hellas Verona,2022-01-21 Hellas Verona-Bologna,ITA-SERIA_A,21-22,f5671990
+d4931a5a,Nikola Kalinić,9,CRO,"FW,CM",34-016,17,1,0,0,0,1,1,0,0,10,0,0,0,0.5,0.5,0.0,0,0,5,5,100.0,1,8,0,0,0,Hellas Verona,2022-01-21 Hellas Verona-Bologna,ITA-SERIA_A,21-22,f5671990
+5128bde4,Darko Lazović,8,SRB,WB,31-128,85,0,1,0,0,1,0,0,0,70,0,2,0,0.0,0.0,0.4,6,1,39,62,62.9,6,34,2,1,0,Hellas Verona,2022-01-21 Hellas Verona-Bologna,ITA-SERIA_A,21-22,f5671990
+d97f2e8d,Fabio Depaoli,29,ITA,WB,24-272,5,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,1,0,0,0,Hellas Verona,2022-01-21 Hellas Verona-Bologna,ITA-SERIA_A,21-22,f5671990
+aae9d04a,Davide Faraoni,5,ITA,WB,30-088,90,0,0,0,0,0,0,0,0,71,1,0,3,0.0,0.0,0.0,0,0,45,59,76.3,5,30,1,0,0,Hellas Verona,2022-01-21 Hellas Verona-Bologna,ITA-SERIA_A,21-22,f5671990
+3f5f38fb,Nicolò Casale,16,ITA,CB,23-341,90,0,0,0,0,0,0,0,0,53,3,4,1,0.0,0.0,0.0,1,0,27,40,67.5,3,22,1,0,0,Hellas Verona,2022-01-21 Hellas Verona-Bologna,ITA-SERIA_A,21-22,f5671990
+f1f1f238,Koray Günter,21,GER,CB,27-158,90,0,0,0,0,0,0,1,0,52,3,4,0,0.0,0.0,0.0,0,0,29,40,72.5,2,21,1,0,0,Hellas Verona,2022-01-21 Hellas Verona-Bologna,ITA-SERIA_A,21-22,f5671990
+d9624b51,Federico Ceccherini,17,ITA,CB,29-255,90,0,0,0,0,2,0,0,0,69,0,1,0,0.2,0.2,0.1,1,0,38,56,67.9,4,42,0,0,0,Hellas Verona,2022-01-21 Hellas Verona-Bologna,ITA-SERIA_A,21-22,f5671990
+c1d95617,Lorenzo Montipò,96,ITA,GK,25-335,90,0,0,0,0,0,0,0,0,31,0,0,0,0.0,0.0,0.0,0,0,14,31,45.2,0,21,0,0,0,Hellas Verona,2022-01-21 Hellas Verona-Bologna,ITA-SERIA_A,21-22,f5671990
+7eb97a8e,Nicola Sansone,10,ITA,"FW,CM",30-133,90,0,0,0,0,0,0,1,0,37,3,0,0,0.0,0.0,0.0,1,0,18,28,64.3,1,29,1,1,0,Bologna,2022-01-21 Hellas Verona-Bologna,ITA-SERIA_A,21-22,f5671990
+e14ec482,Riccardo Orsolini,7,ITA,FW,24-362,77,1,0,0,0,2,1,0,0,27,1,0,0,0.1,0.1,0.0,0,0,11,16,68.8,2,20,0,1,0,Bologna,2022-01-21 Hellas Verona-Bologna,ITA-SERIA_A,21-22,f5671990
+00459419,Marko Arnautović,9,AUT,FW,32-277,13,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,5,6,83.3,1,3,0,0,0,Bologna,2022-01-21 Hellas Verona-Bologna,ITA-SERIA_A,21-22,f5671990
+9d4c45d6,Roberto Soriano,21,ITA,CM,30-347,90,0,1,0,0,0,0,0,0,50,2,4,1,0.0,0.0,0.1,4,1,24,33,72.7,3,29,1,0,0,Bologna,2022-01-21 Hellas Verona-Bologna,ITA-SERIA_A,21-22,f5671990
+20b3a502,Nicolás Domínguez,8,ARG,CM,23-207,65,0,0,0,0,0,0,0,0,33,4,1,0,0.0,0.0,0.1,2,0,15,23,65.2,3,16,0,1,0,Bologna,2022-01-21 Hellas Verona-Bologna,ITA-SERIA_A,21-22,f5671990
+ec5dae45,Emanuel Vignato,55,ITA,"CM,WB",21-150,25,0,0,0,0,0,0,0,0,18,0,0,0,0.0,0.0,0.3,2,0,11,16,68.8,2,10,1,1,1,Bologna,2022-01-21 Hellas Verona-Bologna,ITA-SERIA_A,21-22,f5671990
+92d83c27,Mattias Svanberg,32,SWE,CM,23-016,90,0,0,0,0,3,1,0,0,41,2,3,1,0.1,0.1,0.0,1,1,12,23,52.2,4,26,1,3,1,Bologna,2022-01-21 Hellas Verona-Bologna,ITA-SERIA_A,21-22,f5671990
+df8d6029,Arthur Theate,6,BEL,LB,21-241,65,0,0,0,0,0,0,0,0,42,0,1,1,0.0,0.0,0.0,0,0,19,34,55.9,1,18,0,0,0,Bologna,2022-01-21 Hellas Verona-Bologna,ITA-SERIA_A,21-22,f5671990
+39aa05a7,Ebenezer Annan,77,GHA,"LB,WB",19-153,25,0,0,0,0,0,0,0,0,14,1,1,0,0.0,0.0,0.0,0,0,4,11,36.4,0,4,2,0,0,Bologna,2022-01-21 Hellas Verona-Bologna,ITA-SERIA_A,21-22,f5671990
+36e88fbc,Luis Binks,2,ENG,CB,20-141,90,0,0,0,0,1,0,1,0,48,0,3,0,0.0,0.0,0.0,0,0,23,43,53.5,3,20,1,0,0,Bologna,2022-01-21 Hellas Verona-Bologna,ITA-SERIA_A,21-22,f5671990
+563a68ad,Gary Medel,17,CHI,CB,34-171,90,0,0,0,0,0,0,0,0,53,0,1,2,0.0,0.0,0.0,1,0,32,44,72.7,3,23,1,0,0,Bologna,2022-01-21 Hellas Verona-Bologna,ITA-SERIA_A,21-22,f5671990
+fb77bfef,Kevin Bonifazi,4,ITA,CB,25-247,90,0,0,0,0,0,0,0,0,59,3,2,4,0.0,0.0,0.1,2,0,29,42,69.0,4,31,0,0,0,Bologna,2022-01-21 Hellas Verona-Bologna,ITA-SERIA_A,21-22,f5671990
+1780bb4a,Aaron Hickey,3,SCO,RB,19-225,85,0,0,0,0,0,0,1,0,42,2,0,1,0.0,0.0,0.0,1,0,22,31,71.0,2,21,0,2,2,Bologna,2022-01-21 Hellas Verona-Bologna,ITA-SERIA_A,21-22,f5671990
+a39b9ef6,Diego Falcinelli,91,ITA,"FW,RB",30-209,5,0,0,0,0,2,0,0,0,6,1,0,0,0.4,0.4,0.0,1,0,2,2,100.0,2,5,0,0,0,Bologna,2022-01-21 Hellas Verona-Bologna,ITA-SERIA_A,21-22,f5671990
+ab4449d6,Łukasz Skorupski,28,POL,GK,30-261,90,0,0,0,0,0,0,1,0,42,0,0,0,0.0,0.0,0.0,0,0,24,40,60.0,0,20,0,0,0,Bologna,2022-01-21 Hellas Verona-Bologna,ITA-SERIA_A,21-22,f5671990

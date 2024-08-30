@@ -1,0 +1,31 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+e7fcf289,Florian Wirtz,27,GER,FW,18-206,88,0,2,0,0,1,0,0,0,73,0,0,1,0.3,0.3,1.1,8,3,51,68,75.0,6,34,8,4,2,Bayer Leverkusen,2021-11-25 Leverkusen-Celtic,UEL,21-22,b02082ee
+a73c8f95,Edmond Tapsoba,12,BFA,DM,22-296,2,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,3,3,100.0,0,0,0,0,0,Bayer Leverkusen,2021-11-25 Leverkusen-Celtic,UEL,21-22,b02082ee
+dcfb17f4,Amine Adli,31,MAR,FW,21-199,90,0,0,0,0,3,2,0,0,54,1,0,0,0.8,0.8,0.0,4,0,32,42,76.2,3,29,0,2,0,Bayer Leverkusen,2021-11-25 Leverkusen-Celtic,UEL,21-22,b02082ee
+53070b63,Paulinho,7,BRA,LM,21-133,74,0,0,0,0,1,1,0,0,35,0,0,1,0.1,0.1,0.0,0,0,24,29,82.8,7,23,1,1,1,Bayer Leverkusen,2021-11-25 Leverkusen-Celtic,UEL,21-22,b02082ee
+555d5edd,Nadiem Amiri,11,GER,LM,25-029,16,0,1,0,0,1,0,0,0,17,0,0,0,0.1,0.1,0.2,3,2,13,14,92.9,2,12,3,3,2,Bayer Leverkusen,2021-11-25 Leverkusen-Celtic,UEL,21-22,b02082ee
+e82adcab,Exequiel Palacios,25,ARG,CM,23-051,90,0,0,0,0,0,0,1,0,99,6,2,1,0.0,0.0,0.5,3,0,76,87,87.4,9,50,1,1,1,Bayer Leverkusen,2021-11-25 Leverkusen-Celtic,UEL,21-22,b02082ee
+e0b113a7,Robert Andrich,8,GER,CM,27-064,90,2,0,0,0,5,2,0,0,83,0,1,3,0.6,0.6,0.0,2,0,64,70,91.4,5,40,0,1,1,Bayer Leverkusen,2021-11-25 Leverkusen-Celtic,UEL,21-22,b02082ee
+aeed5c06,Moussa Diaby,19,FRA,RM,22-141,90,1,0,0,0,3,2,0,0,59,2,0,0,0.5,0.5,0.1,2,0,39,47,83.0,7,36,5,2,1,Bayer Leverkusen,2021-11-25 Leverkusen-Celtic,UEL,21-22,b02082ee
+0c7a48f8,Piero Hincapié,33,ECU,LB,19-320,74,0,0,0,0,0,0,0,0,57,2,2,0,0.0,0.0,0.0,0,0,40,50,80.0,4,26,0,2,2,Bayer Leverkusen,2021-11-25 Leverkusen-Celtic,UEL,21-22,b02082ee
+73000a79,Daley Sinkgraven,22,NED,LB,26-144,16,0,0,0,0,0,0,0,0,27,2,0,0,0.0,0.0,0.0,0,0,19,24,79.2,1,11,0,1,1,Bayer Leverkusen,2021-11-25 Leverkusen-Celtic,UEL,21-22,b02082ee
+bd142efb,Jonathan Tah,4,GER,CB,25-287,90,0,0,0,0,2,0,0,0,77,1,1,0,0.1,0.1,0.3,1,0,57,66,86.4,7,44,1,0,0,Bayer Leverkusen,2021-11-25 Leverkusen-Celtic,UEL,21-22,b02082ee
+1f3afdcb,Odilon Kossonou,6,CIV,CB,20-325,90,0,0,0,0,0,0,0,0,76,1,0,1,0.0,0.0,0.0,1,0,63,71,88.7,2,47,0,1,1,Bayer Leverkusen,2021-11-25 Leverkusen-Celtic,UEL,21-22,b02082ee
+74f2e748,Jeremie Frimpong,30,NED,RB,20-350,90,0,0,0,0,0,0,0,0,63,1,1,0,0.0,0.0,0.1,2,0,46,53,86.8,1,37,10,4,3,Bayer Leverkusen,2021-11-25 Leverkusen-Celtic,UEL,21-22,b02082ee
+ad3389d5,Lukáš Hrádecký,1,FIN,GK,32-001,90,0,0,0,0,0,0,1,0,46,0,0,0,0.0,0.0,0.0,0,0,33,44,75.0,0,27,0,0,0,Bayer Leverkusen,2021-11-25 Leverkusen-Celtic,UEL,21-22,b02082ee
+fd4d5f81,Kyogo Furuhashi,8,JPN,FW,26-309,75,0,1,0,0,0,0,0,0,14,1,0,0,0.0,0.0,0.2,2,2,4,8,50.0,0,6,0,0,0,Celtic,2021-11-25 Leverkusen-Celtic,UEL,21-22,b02082ee
+2b1c4abd,Albian Ajeti,10,SUI,FW,24-272,15,0,0,0,0,0,0,0,0,11,1,1,1,0.0,0.0,0.1,1,0,5,6,83.3,0,5,0,0,0,Celtic,2021-11-25 Leverkusen-Celtic,UEL,21-22,b02082ee
+8c5f1522,Jota,17,POR,LM,22-240,71,1,0,0,0,1,1,0,0,28,2,1,0,0.2,0.2,0.0,0,0,14,19,73.7,0,18,1,1,0,Celtic,2021-11-25 Leverkusen-Celtic,UEL,21-22,b02082ee
+9bd73cce,Michael Johnston,19,IRL,LM,22-220,19,0,0,0,0,0,0,0,0,16,0,0,0,0.0,0.0,0.0,2,0,10,12,83.3,1,10,2,0,0,Celtic,2021-11-25 Leverkusen-Celtic,UEL,21-22,b02082ee
+6800f515,Callum McGregor,42,SCO,CM,28-164,90,0,0,0,0,1,0,0,0,60,2,1,1,0.1,0.1,0.0,0,0,39,46,84.8,11,36,0,2,1,Celtic,2021-11-25 Leverkusen-Celtic,UEL,21-22,b02082ee
+aa34ed38,David Turnbull,14,SCO,CM,22-138,90,0,0,0,0,1,1,0,0,57,0,0,1,0.2,0.2,0.0,0,0,36,52,69.2,6,35,2,0,0,Celtic,2021-11-25 Leverkusen-Celtic,UEL,21-22,b02082ee
+e73659d3,James Forrest,49,SCO,RM,30-141,71,0,0,0,0,0,0,0,0,25,0,0,1,0.0,0.0,0.0,1,1,10,18,55.6,1,18,1,1,0,Celtic,2021-11-25 Leverkusen-Celtic,UEL,21-22,b02082ee
+1339039e,Liel Abada,11,ISR,RM,20-053,19,0,0,0,0,0,0,0,0,9,0,0,1,0.0,0.0,0.0,1,0,2,5,40.0,1,5,0,1,0,Celtic,2021-11-25 Leverkusen-Celtic,UEL,21-22,b02082ee
+f533776b,Nir Bitton,6,ISR,DM,30-026,75,0,0,0,0,0,0,0,0,56,4,2,5,0.0,0.0,0.0,0,0,38,47,80.9,4,27,1,0,0,Celtic,2021-11-25 Leverkusen-Celtic,UEL,21-22,b02082ee
+64b08de7,James McCarthy,16,IRL,DM,31-013,15,0,0,0,0,0,0,0,0,18,0,1,2,0.0,0.0,0.0,0,0,8,10,80.0,0,9,0,0,0,Celtic,2021-11-25 Leverkusen-Celtic,UEL,21-22,b02082ee
+0a084b35,Josip Juranović,88,CRO,LB,26-101,90,1,0,1,1,0,0,0,0,62,1,0,1,0.8,0.0,0.0,1,1,48,54,88.9,3,31,0,3,1,Celtic,2021-11-25 Leverkusen-Celtic,UEL,21-22,b02082ee
+a8b8af8d,Stephen Welsh,57,SCO,CB,21-310,90,0,0,0,0,0,0,0,0,75,4,2,0,0.0,0.0,0.0,0,0,52,58,89.7,5,43,1,0,0,Celtic,2021-11-25 Leverkusen-Celtic,UEL,21-22,b02082ee
+88ced02c,Cameron Carter-Vickers,20,USA,CB,23-329,90,0,0,0,0,0,0,1,0,78,0,1,1,0.0,0.0,0.0,1,0,62,69,89.9,2,53,0,0,0,Celtic,2021-11-25 Leverkusen-Celtic,UEL,21-22,b02082ee
+56208b05,Anthony Ralston,56,SCO,RB,23-009,90,0,0,0,0,1,0,0,0,77,2,2,3,0.0,0.0,0.0,1,0,51,64,79.7,4,31,0,1,1,Celtic,2021-11-25 Leverkusen-Celtic,UEL,21-22,b02082ee
+cb4f24c6,Joe Hart,15,ENG,GK,34-220,90,0,0,0,0,0,0,0,0,31,0,0,0,0.0,0.0,0.0,0,0,26,27,96.3,0,16,0,0,0,Celtic,2021-11-25 Leverkusen-Celtic,UEL,21-22,b02082ee

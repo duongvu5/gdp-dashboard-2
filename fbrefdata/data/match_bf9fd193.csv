@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+e21042ae,Fabian Klos,9,GER,FW,33-039,90,0,0,0,0,3,0,0,0,53,0,0,0,0.2,0.2,0.0,3,0,21,39,53.8,0,19,0,4,0,Arminia,2021-01-10 Arminia-Hertha BSC,GER-BL1,20-21,bf9fd193
+229cd98a,Sergio Córdova,18,VEN,FW,23-154,75,0,0,0,0,1,0,0,0,31,0,0,0,0.2,0.2,0.2,5,0,15,23,65.2,2,18,2,4,3,Arminia,2021-01-10 Arminia-Hertha BSC,GER-BL1,20-21,bf9fd193
+53eeaf6a,Sven Schipplock,36,GER,FW,32-063,15,0,0,0,0,1,0,0,0,3,0,0,0,0.0,0.0,0.0,1,0,1,1,100.0,0,3,0,0,0,Arminia,2021-01-10 Arminia-Hertha BSC,GER-BL1,20-21,bf9fd193
+7dca49f6,Reinhold Yabo,10,GER,LM,28-335,86,1,0,0,0,1,1,0,0,31,0,1,0,0.1,0.1,0.0,0,0,25,29,86.2,3,20,1,1,1,Arminia,2021-01-10 Arminia-Hertha BSC,GER-BL1,20-21,bf9fd193
+d847944b,Christian Gebauer,7,AUT,LM,27-021,4,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,3,0,0,0,Arminia,2021-01-10 Arminia-Hertha BSC,GER-BL1,20-21,bf9fd193
+614eca9b,Marcel Hartel,30,GER,CM,24-357,89,0,0,0,0,1,0,0,0,56,2,0,0,0.0,0.0,0.1,4,0,33,42,78.6,7,32,4,6,4,Arminia,2021-01-10 Arminia-Hertha BSC,GER-BL1,20-21,bf9fd193
+ab700320,Arne Maier,31,GER,CM,22-002,1,0,0,0,0,0,0,0,0,4,1,1,0,0.0,0.0,0.0,0,0,1,2,50.0,0,1,0,1,0,Arminia,2021-01-10 Arminia-Hertha BSC,GER-BL1,20-21,bf9fd193
+d25fee56,Fabian Kunze,16,GER,CM,22-210,90,0,0,0,0,0,0,0,0,49,0,1,2,0.0,0.0,0.0,0,0,33,40,82.5,2,22,1,3,2,Arminia,2021-01-10 Arminia-Hertha BSC,GER-BL1,20-21,bf9fd193
+d01bbb6f,Ritsu Doan,8,JPN,RM,22-208,89,0,0,0,0,5,1,0,0,71,2,2,3,0.2,0.2,0.0,4,1,33,47,70.2,7,40,4,8,2,Arminia,2021-01-10 Arminia-Hertha BSC,GER-BL1,20-21,bf9fd193
+3c4b7820,Cebio Soukou,17,BEN,RM,28-100,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Arminia,2021-01-10 Arminia-Hertha BSC,GER-BL1,20-21,bf9fd193
+c0d3bd23,Jacob Barrett Laursen,5,DEN,LB,26-054,75,0,0,0,0,0,0,1,0,47,0,3,0,0.0,0.0,0.0,0,0,33,39,84.6,1,23,0,1,1,Arminia,2021-01-10 Arminia-Hertha BSC,GER-BL1,20-21,bf9fd193
+5569bf9a,Anderson Lucoqui,23,ANG,LB,23-188,15,0,0,0,0,0,0,0,0,6,0,1,0,0.0,0.0,0.0,0,0,2,4,50.0,0,1,0,0,0,Arminia,2021-01-10 Arminia-Hertha BSC,GER-BL1,20-21,bf9fd193
+c562c5b4,Joakim Nilsson,4,SWE,CB,26-339,90,0,0,0,0,0,0,0,0,42,0,2,3,0.0,0.0,0.0,1,0,26,33,78.8,3,22,0,0,0,Arminia,2021-01-10 Arminia-Hertha BSC,GER-BL1,20-21,bf9fd193
+526ea7cc,Amos Pieper,2,GER,CB,22-359,90,0,0,0,0,0,0,0,0,47,2,4,0,0.0,0.0,0.0,0,0,29,37,78.4,0,22,1,1,1,Arminia,2021-01-10 Arminia-Hertha BSC,GER-BL1,20-21,bf9fd193
+f0a37d36,Cédric Brunner,27,SUI,RB,26-328,90,0,0,0,0,0,0,0,0,68,5,2,1,0.0,0.0,0.0,2,0,38,57,66.7,6,30,0,5,5,Arminia,2021-01-10 Arminia-Hertha BSC,GER-BL1,20-21,bf9fd193
+c1242d4e,Stefan Ortega,1,GER,GK,28-065,90,0,0,0,0,0,0,0,0,53,0,0,0,0.0,0.0,0.0,1,0,39,54,72.2,0,36,0,0,0,Arminia,2021-01-10 Arminia-Hertha BSC,GER-BL1,20-21,bf9fd193
+9f381d8b,Jhon Córdoba,15,COL,"FW,LW",27-244,90,0,0,0,0,2,1,0,0,26,0,0,1,0.2,0.2,0.1,3,0,10,18,55.6,0,9,0,0,0,Hertha BSC,2021-01-10 Arminia-Hertha BSC,GER-BL1,20-21,bf9fd193
+88d4144a,Maximilian Mittelstädt,17,GER,"LB,LW",23-298,90,0,0,0,0,2,1,0,0,58,7,2,3,0.1,0.1,0.0,1,0,31,44,70.5,0,21,2,2,1,Hertha BSC,2021-01-10 Arminia-Hertha BSC,GER-BL1,20-21,bf9fd193
+0c61c77c,Dodi Lukebakio,11,BEL,"RW,RM",23-108,90,0,0,0,0,2,1,0,0,35,0,1,2,0.1,0.1,0.1,2,0,15,26,57.7,3,16,3,0,0,Hertha BSC,2021-01-10 Arminia-Hertha BSC,GER-BL1,20-21,bf9fd193
+5ea8ef20,Mattéo Guendouzi,8,FRA,"LM,CM",21-271,90,0,0,0,0,1,0,0,0,52,0,2,0,0.0,0.0,0.0,0,0,38,43,88.4,5,33,3,1,0,Hertha BSC,2021-01-10 Arminia-Hertha BSC,GER-BL1,20-21,bf9fd193
+71ec39ef,Lucas Tousart,29,FRA,CM,23-256,90,0,0,0,0,0,0,0,0,72,4,3,3,0.0,0.0,0.0,1,0,35,48,72.9,6,26,2,2,2,Hertha BSC,2021-01-10 Arminia-Hertha BSC,GER-BL1,20-21,bf9fd193
+3eb0f2df,Vladimír Darida,6,CZE,RM,30-155,71,0,0,0,0,0,0,0,0,47,0,0,1,0.0,0.0,0.1,3,0,29,40,72.5,4,20,1,2,2,Hertha BSC,2021-01-10 Arminia-Hertha BSC,GER-BL1,20-21,bf9fd193
+e79269bd,Luca Netz,32,GER,LM,17-240,19,0,0,0,0,0,0,0,0,12,3,0,0,0.0,0.0,0.0,1,0,6,8,75.0,2,7,1,3,2,Hertha BSC,2021-01-10 Arminia-Hertha BSC,GER-BL1,20-21,bf9fd193
+f7aa75bd,Marvin Plattenhardt,21,GER,LB,28-350,45,0,0,0,0,0,0,0,0,30,2,0,0,0.0,0.0,0.0,2,0,20,27,74.1,3,13,0,1,1,Hertha BSC,2021-01-10 Arminia-Hertha BSC,GER-BL1,20-21,bf9fd193
+bc249af8,Jessic Ngankam,27,GER,LW,20-174,19,0,0,0,0,0,0,0,0,7,1,0,1,0.0,0.0,0.0,0,0,1,3,33.3,0,2,0,0,0,Hertha BSC,2021-01-10 Arminia-Hertha BSC,GER-BL1,20-21,bf9fd193
+17f3620a,Krzysztof Piątek,9,POL,FW,25-193,26,0,0,0,0,3,1,0,0,11,0,0,0,0.2,0.2,0.0,0,0,3,3,100.0,0,9,1,1,0,Hertha BSC,2021-01-10 Arminia-Hertha BSC,GER-BL1,20-21,bf9fd193
+bb08bce9,Omar Alderete,14,PAR,CB,24-015,90,0,0,0,0,0,0,0,0,87,4,2,1,0.0,0.0,0.0,0,0,48,69,69.6,4,45,0,2,2,Hertha BSC,2021-01-10 Arminia-Hertha BSC,GER-BL1,20-21,bf9fd193
+aad48be9,Niklas Stark,5,GER,CB,25-271,90,0,0,0,0,1,0,0,0,70,2,0,3,0.1,0.1,0.0,0,0,45,58,77.6,1,37,0,0,0,Hertha BSC,2021-01-10 Arminia-Hertha BSC,GER-BL1,20-21,bf9fd193
+c18d22f5,Peter Pekarík,2,SVK,RB,34-072,71,0,0,0,0,0,0,1,0,42,1,0,0,0.0,0.0,0.1,3,0,29,38,76.3,4,18,3,1,1,Hertha BSC,2021-01-10 Arminia-Hertha BSC,GER-BL1,20-21,bf9fd193
+58a2e9f6,Deyovaisio Zeefuik,42,NED,RB,22-305,19,0,0,0,0,0,0,0,0,11,2,0,0,0.0,0.0,0.0,1,0,4,5,80.0,0,3,0,1,1,Hertha BSC,2021-01-10 Arminia-Hertha BSC,GER-BL1,20-21,bf9fd193
+0d55d942,Alexander Schwolow,1,GER,GK,28-222,90,0,0,0,0,0,0,0,0,36,0,0,0,0.0,0.0,0.0,0,0,29,34,85.3,0,17,0,0,0,Hertha BSC,2021-01-10 Arminia-Hertha BSC,GER-BL1,20-21,bf9fd193

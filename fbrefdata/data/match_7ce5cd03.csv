@@ -1,0 +1,29 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+42fd9c7f,Kylian Mbappé,29,FRA,FW,19-080,90,1,0,0,0,6,3,0,0,33,0,0,0,1.6,1.6,1.0,7,1,17,19,89.5,4,27,3,4,1,Paris Saint-Germain,2018-03-10 Paris S-G-Metz,FRA-L1,17-18,7ce5cd03
+7c56da38,Christopher Nkunku,24,FRA,"LW,RW",20-116,90,2,0,0,0,3,3,0,0,52,0,1,1,1.0,1.0,0.3,4,0,38,42,90.5,5,35,2,1,0,Paris Saint-Germain,2018-03-10 Paris S-G-Metz,FRA-L1,17-18,7ce5cd03
+19cda00b,Ángel Di María,11,ARG,RW,30-024,70,0,1,0,0,4,0,0,0,61,0,0,0,0.7,0.7,0.0,1,1,37,52,71.2,6,43,3,2,1,Paris Saint-Germain,2018-03-10 Paris S-G-Metz,FRA-L1,17-18,7ce5cd03
+8eec784d,Timothy Weah,37,USA,"LW,RW",18-016,20,0,0,0,0,1,1,0,0,4,1,0,0,0.4,0.4,0.0,0,0,1,1,100.0,0,2,0,0,0,Paris Saint-Germain,2018-03-10 Paris S-G-Metz,FRA-L1,17-18,7ce5cd03
+1a992676,Julian Draxler,23,GER,LM,24-171,70,0,0,0,0,0,0,0,0,71,0,0,1,0.0,0.0,0.1,4,2,61,67,91.0,7,44,3,6,2,Paris Saint-Germain,2018-03-10 Paris S-G-Metz,FRA-L1,17-18,7ce5cd03
+8794e251,Adrien Rabiot,25,FRA,LM,22-341,20,0,0,0,0,1,1,0,0,14,0,0,0,0.0,0.0,0.0,0,0,6,11,54.5,0,7,0,0,0,Paris Saint-Germain,2018-03-10 Paris S-G-Metz,FRA-L1,17-18,7ce5cd03
+79584585,Lassana Diarra,19,FRA,CM,33-000,90,0,0,0,0,0,0,0,0,50,2,0,0,0.0,0.0,0.0,1,0,46,46,100.0,3,33,0,0,0,Paris Saint-Germain,2018-03-10 Paris S-G-Metz,FRA-L1,17-18,7ce5cd03
+1467af0d,Marco Verratti,6,ITA,RM,25-125,63,0,2,0,0,0,0,0,0,52,0,2,0,0.0,0.0,0.9,4,2,49,53,92.5,6,41,2,0,0,Paris Saint-Germain,2018-03-10 Paris S-G-Metz,FRA-L1,17-18,7ce5cd03
+d7553721,Giovani Lo Celso,18,ARG,RM,21-335,27,0,1,0,0,0,0,0,0,25,0,0,0,0.0,0.0,0.3,5,1,18,24,75.0,2,17,4,3,2,Paris Saint-Germain,2018-03-10 Paris S-G-Metz,FRA-L1,17-18,7ce5cd03
+b6e50615,Yuri Berchiche,17,ESP,LB,28-028,90,0,0,0,0,0,0,0,0,80,2,2,1,0.0,0.0,0.1,4,1,52,66,78.8,6,46,4,0,0,Paris Saint-Germain,2018-03-10 Paris S-G-Metz,FRA-L1,17-18,7ce5cd03
+aef6e670,Presnel Kimpembe,3,FRA,CB,22-209,90,0,0,0,0,1,0,0,0,75,0,0,1,0.1,0.1,0.0,1,0,70,72,97.2,6,52,1,0,0,Paris Saint-Germain,2018-03-10 Paris S-G-Metz,FRA-L1,17-18,7ce5cd03
+86e7deaf,Thiago Silva,2,BRA,CB,33-169,90,1,0,0,0,1,1,0,0,80,1,1,0,0.1,0.1,0.0,0,0,69,73,94.5,11,58,1,0,0,Paris Saint-Germain,2018-03-10 Paris S-G-Metz,FRA-L1,17-18,7ce5cd03
+e162b013,Thomas Meunier,12,BEL,RB,26-179,90,1,0,0,0,1,1,0,0,70,0,0,0,0.1,0.1,0.8,3,1,54,65,83.1,2,42,3,3,3,Paris Saint-Germain,2018-03-10 Paris S-G-Metz,FRA-L1,17-18,7ce5cd03
+2f965a72,Alphonse Areola,16,FRA,GK,25-011,90,0,0,0,0,0,0,0,0,21,0,0,0,0.0,0.0,0.0,0,0,21,21,100.0,0,11,0,0,0,Paris Saint-Germain,2018-03-10 Paris S-G-Metz,FRA-L1,17-18,7ce5cd03
+3071a619,Nolan Roux,9,FRA,"FW,LW",30-009,90,0,0,0,0,0,0,0,0,32,0,0,0,0.0,0.0,0.0,1,0,26,30,86.7,3,15,0,1,0,Metz,2018-03-10 Paris S-G-Metz,FRA-L1,17-18,7ce5cd03
+1251f42e,Danijel Milićević,10,BIH,"LW,AM",32-064,85,0,0,0,0,1,0,0,0,38,0,0,0,0.0,0.0,0.1,2,0,25,34,73.5,1,27,3,0,0,Metz,2018-03-10 Paris S-G-Metz,FRA-L1,17-18,7ce5cd03
+46faabfa,Ibrahima Niane,7,SEN,AM,18-364,5,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,1,0,0,0,Metz,2018-03-10 Paris S-G-Metz,FRA-L1,17-18,7ce5cd03
+6421dd73,Mathieu Dossevi,17,TOG,RW,30-026,90,0,0,0,0,2,1,0,0,52,2,0,2,0.1,0.1,0.2,3,0,29,36,80.6,4,36,8,3,0,Metz,2018-03-10 Paris S-G-Metz,FRA-L1,17-18,7ce5cd03
+31bbb7e2,Gerónimo Poblete,5,ARG,"AM,DM",25-067,90,0,0,0,0,0,0,0,0,51,2,2,0,0.0,0.0,0.0,0,0,39,43,90.7,4,37,2,1,1,Metz,2018-03-10 Paris S-G-Metz,FRA-L1,17-18,7ce5cd03
+cd387ff4,Fallou Diagne,3,SEN,DM,28-208,63,0,0,0,0,0,0,1,0,34,0,3,0,0.0,0.0,0.0,1,0,26,32,81.3,3,26,0,0,0,Metz,2018-03-10 Paris S-G-Metz,FRA-L1,17-18,7ce5cd03
+2bae5658,Emmanuel Rivière,29,FRA,FW,28-007,27,0,0,0,0,3,2,0,0,14,1,0,0,0.2,0.2,0.0,1,0,6,9,66.7,2,10,0,0,0,Metz,2018-03-10 Paris S-G-Metz,FRA-L1,17-18,7ce5cd03
+4e7d66f8,Renaud Cohade,24,FRA,DM,33-162,90,0,0,0,0,0,0,0,0,76,4,0,1,0.0,0.0,0.0,0,0,59,67,88.1,6,45,0,1,1,Metz,2018-03-10 Paris S-G-Metz,FRA-L1,17-18,7ce5cd03
+7af0e1f8,Jonathan Rivierez,28,MTQ,LB,28-296,90,0,0,0,0,0,0,0,0,43,1,0,2,0.0,0.0,0.0,2,0,33,39,84.6,2,27,1,1,1,Metz,2018-03-10 Paris S-G-Metz,FRA-L1,17-18,7ce5cd03
+00242715,Moussa Niakhate,21,SEN,CB,22-002,90,0,0,0,0,0,0,0,0,45,0,3,1,0.0,0.0,0.0,0,0,37,39,94.9,2,28,1,1,1,Metz,2018-03-10 Paris S-G-Metz,FRA-L1,17-18,7ce5cd03
+6aeb647a,Vahid Selimović,15,LUX,CB,20-341,90,0,0,0,0,0,0,0,0,38,2,2,1,0.0,0.0,0.0,0,0,25,31,80.6,0,20,0,1,1,Metz,2018-03-10 Paris S-G-Metz,FRA-L1,17-18,7ce5cd03
+cee88597,Iván Balliu,25,ALB,RB,26-068,90,0,0,0,0,0,0,0,0,61,1,1,2,0.0,0.0,0.1,1,0,49,55,89.1,7,35,2,0,0,Metz,2018-03-10 Paris S-G-Metz,FRA-L1,17-18,7ce5cd03
+a4527d33,Eiji Kawashima,16,JPN,GK,34-355,90,0,0,0,0,0,0,0,0,40,0,0,0,0.0,0.0,0.0,0,0,13,33,39.4,0,10,0,0,0,Metz,2018-03-10 Paris S-G-Metz,FRA-L1,17-18,7ce5cd03

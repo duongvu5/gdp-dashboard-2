@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+4e47507a,Yoann Touzghar,9,TUN,FW,35-308,61,0,0,0,0,0,0,0,0,21,0,0,0,0.0,0.0,0.0,0,0,12,19,63.2,1,17,1,0,0,Ajaccio,2022-10-02 Ajaccio-Clermont Foot,FRA-L1,22-23,eaedf3ff
+71d10572,Bevic Moussiti-Oko,11,CGO,FW,27-247,29,0,0,0,0,1,0,0,0,6,0,0,0,0.1,0.1,0.0,0,0,4,4,100.0,1,4,1,1,1,Ajaccio,2022-10-02 Ajaccio-Clermont Foot,FRA-L1,22-23,eaedf3ff
+fb0ee44e,Mounaim El Idrissy,7,FRA,FW,23-234,90,0,0,0,0,2,1,0,0,37,1,1,2,0.1,0.1,0.0,2,0,15,25,60.0,0,26,1,1,1,Ajaccio,2022-10-02 Ajaccio-Clermont Foot,FRA-L1,22-23,eaedf3ff
+a45a5d95,Kevin Spadanuda,27,SUI,LM,25-259,45,0,0,0,0,0,0,0,0,20,0,0,1,0.0,0.0,0.0,0,0,12,14,85.7,1,15,0,1,0,Ajaccio,2022-10-02 Ajaccio-Clermont Foot,FRA-L1,22-23,eaedf3ff
+374fbf7d,Riad Nouri,5,FRA,RM,37-117,45,0,0,0,0,1,0,0,0,19,0,0,0,0.0,0.0,0.4,4,0,11,17,64.7,0,16,0,0,0,Ajaccio,2022-10-02 Ajaccio-Clermont Foot,FRA-L1,22-23,eaedf3ff
+740f00ac,Vincent Marchetti,8,FRA,CM,25-090,61,0,0,0,0,2,0,0,0,45,1,0,1,0.1,0.1,0.0,1,0,25,33,75.8,6,35,0,5,2,Ajaccio,2022-10-02 Ajaccio-Clermont Foot,FRA-L1,22-23,eaedf3ff
+c801616a,Thomas Mangani,23,FRA,CM,35-156,29,0,0,0,0,0,0,0,0,23,0,1,0,0.0,0.0,0.0,2,0,16,22,72.7,2,17,0,0,0,Ajaccio,2022-10-02 Ajaccio-Clermont Foot,FRA-L1,22-23,eaedf3ff
+ef8ae23b,Mathieu Coutadeur,6,FRA,CM,36-196,90,0,0,0,0,1,0,0,0,90,0,1,1,0.0,0.0,0.1,1,0,75,84,89.3,12,66,5,1,0,Ajaccio,2022-10-02 Ajaccio-Clermont Foot,FRA-L1,22-23,eaedf3ff
+7495aba7,Yanis Cimignani,22,FRA,"RM,LM",20-253,70,0,0,0,0,2,1,0,0,41,5,0,1,0.1,0.1,0.0,3,0,19,29,65.5,0,29,1,1,0,Ajaccio,2022-10-02 Ajaccio-Clermont Foot,FRA-L1,22-23,eaedf3ff
+20e0dd86,Cyrille Bayala,14,BFA,LM,26-131,20,0,0,0,0,0,0,1,0,17,2,1,0,0.0,0.0,0.0,1,0,5,11,45.5,2,12,0,0,0,Ajaccio,2022-10-02 Ajaccio-Clermont Foot,FRA-L1,22-23,eaedf3ff
+b3244eeb,Ismael Diallo,3,CIV,LB,25-246,90,0,0,0,0,0,0,1,0,70,1,0,0,0.0,0.0,0.1,3,0,54,65,83.1,4,51,4,1,0,Ajaccio,2022-10-02 Ajaccio-Clermont Foot,FRA-L1,22-23,eaedf3ff
+b2791a55,Clément Vidal,15,FRA,CB,22-106,90,0,0,0,0,1,0,0,0,60,4,0,1,0.2,0.2,0.0,1,0,41,50,82.0,3,40,0,0,0,Ajaccio,2022-10-02 Ajaccio-Clermont Foot,FRA-L1,22-23,eaedf3ff
+a94d93be,Cédric Avinel,21,GLP,CB,36-021,90,1,0,0,0,2,1,0,0,47,1,2,1,1.0,1.0,0.0,1,1,32,37,86.5,2,31,0,0,0,Ajaccio,2022-10-02 Ajaccio-Clermont Foot,FRA-L1,22-23,eaedf3ff
+0a63446f,Mickaël Alphonse,2,GLP,RB,33-082,70,0,0,0,0,0,0,1,0,65,2,2,0,0.0,0.0,0.0,1,0,38,58,65.5,5,37,4,0,0,Ajaccio,2022-10-02 Ajaccio-Clermont Foot,FRA-L1,22-23,eaedf3ff
+1a85bcdb,Mohamed Youssouf,20,COM,RB,34-190,20,0,0,0,0,0,0,0,0,22,0,1,0,0.0,0.0,0.1,1,0,12,17,70.6,6,13,2,1,0,Ajaccio,2022-10-02 Ajaccio-Clermont Foot,FRA-L1,22-23,eaedf3ff
+f19f32b1,François-Joseph Sollacaro,16,FRA,GK,28-195,90,0,0,0,0,0,0,0,0,14,0,0,0,0.0,0.0,0.0,0,0,9,13,69.2,0,9,0,0,0,Ajaccio,2022-10-02 Ajaccio-Clermont Foot,FRA-L1,22-23,eaedf3ff
+af3ddb2e,Komnen Andrić,9,SRB,FW,27-093,84,0,0,0,0,0,0,0,0,27,0,1,0,0.0,0.0,0.0,0,0,14,20,70.0,2,18,0,1,0,Clermont Foot,2022-10-02 Ajaccio-Clermont Foot,FRA-L1,22-23,eaedf3ff
+a1dbfcb1,Jodel Dossou,20,BEN,FW,30-199,6,1,0,0,0,1,1,0,0,1,0,0,0,0.2,0.2,0.0,0,0,0,0,,0,1,1,0,0,Clermont Foot,2022-10-02 Ajaccio-Clermont Foot,FRA-L1,22-23,eaedf3ff
+397ba086,Grejohn Kyei,95,FRA,FW,27-051,62,1,0,0,0,2,1,0,0,23,0,0,0,0.4,0.4,0.0,0,0,9,12,75.0,0,19,0,1,0,Clermont Foot,2022-10-02 Ajaccio-Clermont Foot,FRA-L1,22-23,eaedf3ff
+25749008,Elba Rashani,18,KVX,FW,29-146,28,1,0,0,0,1,1,0,0,8,2,0,0,0.2,0.2,0.0,0,0,4,4,100.0,0,6,1,1,0,Clermont Foot,2022-10-02 Ajaccio-Clermont Foot,FRA-L1,22-23,eaedf3ff
+f527a32c,Muhammed Cham,70,AUT,AM,22-006,70,0,0,0,0,1,0,0,0,36,2,0,3,0.1,0.1,0.0,0,0,20,26,76.9,1,26,0,2,1,Clermont Foot,2022-10-02 Ajaccio-Clermont Foot,FRA-L1,22-23,eaedf3ff
+796b1c41,Saîf-Eddine Khaoui,10,TUN,AM,27-158,20,0,1,0,0,0,0,0,0,18,0,0,1,0.0,0.0,0.2,3,2,10,16,62.5,0,12,2,1,1,Clermont Foot,2022-10-02 Ajaccio-Clermont Foot,FRA-L1,22-23,eaedf3ff
+868eaba0,Johan Gastien,25,FRA,CM,34-250,70,0,1,0,0,0,0,1,0,71,2,1,1,0.0,0.0,0.5,4,2,51,65,78.5,6,51,1,0,0,Clermont Foot,2022-10-02 Ajaccio-Clermont Foot,FRA-L1,22-23,eaedf3ff
+c8c02ac7,Mehdi Zeffane,2,ALG,"CM,WB",30-136,20,0,0,0,0,0,0,1,0,4,0,0,0,0.0,0.0,0.0,0,0,3,3,100.0,0,3,0,0,0,Clermont Foot,2022-10-02 Ajaccio-Clermont Foot,FRA-L1,22-23,eaedf3ff
+b8c1de25,Maxime Gonalons,12,FRA,CM,33-206,83,0,0,0,0,0,0,0,0,60,6,1,1,0.0,0.0,0.0,0,0,36,46,78.3,7,35,1,1,1,Clermont Foot,2022-10-02 Ajaccio-Clermont Foot,FRA-L1,22-23,eaedf3ff
+7e3e825e,Brandon Baiye,23,BEL,CM,21-279,7,0,0,0,0,0,0,0,0,6,0,0,1,0.0,0.0,0.0,0,0,3,4,75.0,0,3,0,0,0,Clermont Foot,2022-10-02 Ajaccio-Clermont Foot,FRA-L1,22-23,eaedf3ff
+9f936061,Neto Borges,3,BRA,WB,26-019,90,0,0,0,0,0,0,0,0,68,1,1,2,0.0,0.0,0.0,3,0,43,55,78.2,4,39,1,4,2,Clermont Foot,2022-10-02 Ajaccio-Clermont Foot,FRA-L1,22-23,eaedf3ff
+caa7aaea,Yohann Magnin,7,FRA,"WB,CM",25-103,90,0,0,0,0,0,0,0,0,50,3,1,1,0.0,0.0,0.0,0,0,22,35,62.9,0,27,1,1,0,Clermont Foot,2022-10-02 Ajaccio-Clermont Foot,FRA-L1,22-23,eaedf3ff
+c92c24f0,Maximiliano Caufriez,5,BEL,CB,25-228,90,0,0,0,0,0,0,1,0,58,0,3,1,0.0,0.0,0.0,0,0,38,48,79.2,1,42,1,1,1,Clermont Foot,2022-10-02 Ajaccio-Clermont Foot,FRA-L1,22-23,eaedf3ff
+3ecc8c5f,Mateusz Wieteska,4,POL,CB,25-233,90,0,1,0,0,1,0,0,0,51,1,2,2,0.0,0.0,0.2,2,1,32,38,84.2,2,33,0,0,0,Clermont Foot,2022-10-02 Ajaccio-Clermont Foot,FRA-L1,22-23,eaedf3ff
+cea59f02,Alidu Seidu,36,GHA,CB,22-120,90,0,0,0,0,1,0,0,0,53,2,2,2,0.0,0.0,0.0,1,0,37,43,86.0,2,38,1,3,2,Clermont Foot,2022-10-02 Ajaccio-Clermont Foot,FRA-L1,22-23,eaedf3ff
+f41a69e6,Mory Diaw,99,SEN,GK,29-102,90,0,0,0,0,0,0,0,0,41,0,0,0,0.0,0.0,0.0,0,0,27,41,65.9,0,27,0,0,0,Clermont Foot,2022-10-02 Ajaccio-Clermont Foot,FRA-L1,22-23,eaedf3ff

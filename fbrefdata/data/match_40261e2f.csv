@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+69e11a01,Francesco Forte,9,ITA,FW,28-178,65,0,0,0,0,0,0,0,0,23,0,0,0,0.0,0.0,0.0,0,0,11,15,73.3,0,5,1,0,0,Venezia,2021-10-26 Venezia-Salernitana,ITA-SERIA_A,21-22,40261e2f
+9ef42479,Thomas Henry,14,FRA,FW,27-036,25,0,0,0,0,0,0,0,0,8,0,0,1,0.0,0.0,0.0,1,0,2,3,66.7,0,5,0,0,0,Venezia,2021-10-26 Venezia-Salernitana,ITA-SERIA_A,21-22,40261e2f
+0847b5a5,Mattia Aramu,10,ITA,LW,26-165,45,1,0,0,0,2,1,0,0,21,0,0,0,0.2,0.2,0.0,1,0,10,16,62.5,0,14,0,0,0,Venezia,2021-10-26 Venezia-Salernitana,ITA-SERIA_A,21-22,40261e2f
+10b9fa99,Ethan Ampadu,44,WAL,CM,21-042,21,0,0,0,0,0,0,1,1,12,3,1,0,0.0,0.0,0.0,0,0,5,7,71.4,1,5,0,0,0,Venezia,2021-10-26 Venezia-Salernitana,ITA-SERIA_A,21-22,40261e2f
+d125f22f,David Okereke,77,NGA,"RW,LW",24-058,73,0,0,0,0,2,2,0,0,25,2,1,1,0.1,0.1,0.0,2,1,17,21,81.0,1,19,5,0,0,Venezia,2021-10-26 Venezia-Salernitana,ITA-SERIA_A,21-22,40261e2f
+8abd174d,Michael Svoboda,30,AUT,CM,23-011,17,0,0,0,0,2,0,0,0,6,1,0,0,0.3,0.3,0.0,1,0,0,3,0.0,0,1,0,0,0,Venezia,2021-10-26 Venezia-Salernitana,ITA-SERIA_A,21-22,40261e2f
+ce1806be,Sofian Kiyine,23,MAR,"LM,LW",24-024,55,0,0,0,0,0,0,0,0,37,3,2,1,0.0,0.0,0.0,0,0,21,28,75.0,1,23,0,1,1,Venezia,2021-10-26 Venezia-Salernitana,ITA-SERIA_A,21-22,40261e2f
+6d70c771,Daan Heymans,18,BEL,"CM,RW",22-133,35,0,0,0,0,0,0,0,0,18,2,1,0,0.0,0.0,0.0,0,0,9,14,64.3,1,4,0,0,0,Venezia,2021-10-26 Venezia-Salernitana,ITA-SERIA_A,21-22,40261e2f
+4a0b7f07,Gianluca Busio,27,USA,"CM,LM",19-151,90,0,0,0,0,1,0,1,0,59,1,1,2,0.1,0.1,0.2,2,0,39,49,79.6,4,25,2,0,0,Venezia,2021-10-26 Venezia-Salernitana,ITA-SERIA_A,21-22,40261e2f
+22cd43d2,Domen Črnigoj,33,SVN,"RM,CB",25-342,90,0,0,0,0,1,1,0,0,52,2,1,2,0.0,0.0,0.0,2,0,29,39,74.4,4,24,1,1,1,Venezia,2021-10-26 Venezia-Salernitana,ITA-SERIA_A,21-22,40261e2f
+1c8c5aed,Cristian Molinaro,3,ITA,LB,38-088,65,0,1,0,0,0,0,0,0,52,1,0,3,0.0,0.0,0.1,2,1,38,46,82.6,7,21,4,0,0,Venezia,2021-10-26 Venezia-Salernitana,ITA-SERIA_A,21-22,40261e2f
+c8d7131c,Ridgeciano Haps,55,SUR,LB,28-136,25,0,0,0,0,0,0,0,0,12,2,0,0,0.0,0.0,0.0,0,0,2,7,28.6,0,8,0,0,0,Venezia,2021-10-26 Venezia-Salernitana,ITA-SERIA_A,21-22,40261e2f
+4d1efb48,Pietro Ceccaroni,32,ITA,CB,25-309,90,0,0,0,0,0,0,0,0,72,2,0,1,0.0,0.0,0.0,0,0,58,63,92.1,4,40,0,0,0,Venezia,2021-10-26 Venezia-Salernitana,ITA-SERIA_A,21-22,40261e2f
+ac7e640b,Mattia Caldara,31,ITA,CB,27-174,90,0,0,0,0,0,0,0,0,50,0,1,0,0.0,0.0,0.0,0,0,39,43,90.7,2,26,1,0,0,Venezia,2021-10-26 Venezia-Salernitana,ITA-SERIA_A,21-22,40261e2f
+eb0ec070,Pasquale Mazzocchi,7,ITA,RB,26-091,90,0,0,0,0,0,0,1,0,63,1,2,1,0.0,0.0,0.0,0,0,40,54,74.1,2,29,7,2,1,Venezia,2021-10-26 Venezia-Salernitana,ITA-SERIA_A,21-22,40261e2f
+1e26e376,Sergio Romero,88,ARG,GK,34-246,90,0,0,0,0,0,0,0,0,35,0,0,0,0.0,0.0,0.0,1,0,28,32,87.5,0,11,0,0,0,Venezia,2021-10-26 Venezia-Salernitana,ITA-SERIA_A,21-22,40261e2f
+405f6586,Milan Đurić,11,BIH,FW,31-157,75,0,0,0,0,2,2,0,0,29,0,0,0,0.3,0.3,0.2,4,1,15,24,62.5,0,8,0,0,0,Salernitana,2021-10-26 Venezia-Salernitana,ITA-SERIA_A,21-22,40261e2f
+80dbbd10,Simeon Nwankwo,25,NGA,FW,29-172,15,0,1,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.1,1,0,4,7,57.1,0,3,0,0,0,Salernitana,2021-10-26 Venezia-Salernitana,ITA-SERIA_A,21-22,40261e2f
+f61c7c4e,Franck Ribéry,7,FRA,LW,38-202,90,0,1,0,0,3,1,0,0,68,2,0,0,0.2,0.2,0.3,6,1,46,56,82.1,6,43,3,3,2,Salernitana,2021-10-26 Venezia-Salernitana,ITA-SERIA_A,21-22,40261e2f
+bf57eaab,Federico Bonazzoli,9,ITA,RW,24-158,75,1,0,0,0,5,1,1,0,34,1,0,0,0.2,0.2,0.0,3,0,11,21,52.4,2,17,0,0,0,Salernitana,2021-10-26 Venezia-Salernitana,ITA-SERIA_A,21-22,40261e2f
+ff37d2ef,Cedric Gondo,15,CIV,RW,24-335,15,0,0,0,0,2,0,0,0,6,0,0,0,0.2,0.2,0.0,1,0,2,2,100.0,1,5,2,0,0,Salernitana,2021-10-26 Venezia-Salernitana,ITA-SERIA_A,21-22,40261e2f
+2a82aa85,Grigoris Kastanos,20,CYP,LM,23-269,65,0,0,0,0,2,1,0,0,32,0,0,0,0.1,0.1,0.2,1,0,20,26,76.9,3,14,0,1,0,Salernitana,2021-10-26 Venezia-Salernitana,ITA-SERIA_A,21-22,40261e2f
+4b55eb4d,Andrea Schiavone,8,ITA,"RM,LM",28-243,25,1,0,0,0,1,1,0,0,24,0,0,1,0.1,0.1,0.1,2,0,15,19,78.9,2,8,2,0,0,Salernitana,2021-10-26 Venezia-Salernitana,ITA-SERIA_A,21-22,40261e2f
+b5c3ff9f,Francesco Di Tacchio,14,ITA,CM,31-189,90,0,0,0,0,4,1,1,0,63,0,1,1,0.1,0.1,0.0,5,0,43,53,81.1,6,25,0,0,0,Salernitana,2021-10-26 Venezia-Salernitana,ITA-SERIA_A,21-22,40261e2f
+614c38fb,Joel Obi,22,NGA,"RM,LM",30-157,75,0,0,0,0,0,0,0,0,23,1,0,0,0.0,0.0,0.0,1,0,13,18,72.2,0,10,0,0,0,Salernitana,2021-10-26 Venezia-Salernitana,ITA-SERIA_A,21-22,40261e2f
+11962fe7,Wajdi Kechrida,24,TUN,"LM,RM",25-355,15,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,1,0,6,10,60.0,1,4,0,0,0,Salernitana,2021-10-26 Venezia-Salernitana,ITA-SERIA_A,21-22,40261e2f
+8c63fae5,Luca Ranieri,19,ITA,LB,22-186,90,0,0,0,0,0,0,0,0,86,3,2,3,0.0,0.0,0.0,3,0,60,73,82.2,6,32,1,0,0,Salernitana,2021-10-26 Venezia-Salernitana,ITA-SERIA_A,21-22,40261e2f
+6d5e62b0,Stefan Strandberg,6,NOR,CB,31-093,90,0,0,0,0,1,0,0,0,88,1,0,1,0.1,0.1,0.0,1,1,70,80,87.5,8,49,2,0,0,Salernitana,2021-10-26 Venezia-Salernitana,ITA-SERIA_A,21-22,40261e2f
+0be276c6,Norbert Gyömbér,23,SVK,CB,29-115,85,0,0,0,0,0,0,0,0,73,0,1,0,0.0,0.0,0.0,1,0,63,67,94.0,5,32,1,0,0,Salernitana,2021-10-26 Venezia-Salernitana,ITA-SERIA_A,21-22,40261e2f
+173061c0,Riccardo Gagliolo,31,SWE,CB,31-181,5,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,5,6,83.3,1,3,0,0,0,Salernitana,2021-10-26 Venezia-Salernitana,ITA-SERIA_A,21-22,40261e2f
+82598b71,Nadir Zortea,21,ITA,RB,22-129,90,0,0,0,0,1,0,1,0,51,0,0,1,0.0,0.0,0.1,3,1,36,48,75.0,3,18,2,2,2,Salernitana,2021-10-26 Venezia-Salernitana,ITA-SERIA_A,21-22,40261e2f
+4f8ce0e1,Vid Belec,72,SVN,GK,31-142,90,0,0,0,0,0,0,0,0,25,0,0,0,0.0,0.0,0.0,0,0,22,24,91.7,0,14,0,0,0,Salernitana,2021-10-26 Venezia-Salernitana,ITA-SERIA_A,21-22,40261e2f

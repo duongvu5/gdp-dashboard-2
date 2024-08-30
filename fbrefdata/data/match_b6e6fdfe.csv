@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+01870104,Mohamed Lamine Bayo,9,GUI,FW,25-182,90,0,0,0,0,6,3,0,0,30,0,0,0,1.0,1.0,0.1,4,0,12,15,80.0,1,17,3,2,0,Le Havre,2023-12-03 Le Havre-Paris S-G,FRA-L1,23-24,b6e6fdfe
+481f76cf,Josué Casimir,23,FRA,"FW,LW",22-070,65,0,0,0,0,1,0,0,0,37,2,0,1,0.3,0.3,0.0,2,0,27,30,90.0,4,31,2,1,1,Le Havre,2023-12-03 Le Havre-Paris S-G,FRA-L1,23-24,b6e6fdfe
+2e1b7c83,Emmanuel Sabbi,11,USA,LW,25-344,25,0,0,0,0,1,0,0,0,15,0,0,1,0.0,0.0,0.4,1,0,8,10,80.0,0,8,0,1,0,Le Havre,2023-12-03 Le Havre-Paris S-G,FRA-L1,23-24,b6e6fdfe
+abefc3af,Yassine Kechta,8,MAR,"CM,DM",21-281,79,0,0,0,0,2,1,0,0,81,1,1,2,0.1,0.1,0.0,3,0,66,73,90.4,6,70,1,2,1,Le Havre,2023-12-03 Le Havre-Paris S-G,FRA-L1,23-24,b6e6fdfe
+36f65bdf,Rassoul Ndiaye,19,SEN,DM,21-357,11,0,0,0,0,0,0,0,0,22,0,0,0,0.0,0.0,0.2,1,0,18,21,85.7,1,15,1,0,0,Le Havre,2023-12-03 Le Havre-Paris S-G,FRA-L1,23-24,b6e6fdfe
+ef7cd87a,Abdoulaye Touré,94,GUI,CM,29-275,45,0,0,0,0,2,0,0,0,49,0,1,0,0.0,0.0,0.0,2,0,41,44,93.2,1,43,0,3,2,Le Havre,2023-12-03 Le Havre-Paris S-G,FRA-L1,23-24,b6e6fdfe
+f9124307,Antoine Joujou,21,FRA,RW,20-266,45,0,0,0,0,2,0,0,0,39,1,0,1,0.1,0.1,0.0,2,0,26,33,78.8,4,31,4,1,1,Le Havre,2023-12-03 Le Havre-Paris S-G,FRA-L1,23-24,b6e6fdfe
+d4e93bab,Daler Kuzyaev,14,RUS,"DM,CM",30-322,90,0,0,0,0,0,0,0,0,85,2,1,0,0.0,0.0,0.1,7,0,67,78,85.9,7,69,3,1,1,Le Havre,2023-12-03 Le Havre-Paris S-G,FRA-L1,23-24,b6e6fdfe
+914bb955,Christopher Operi,27,CIV,LB,26-218,90,0,0,0,0,2,0,1,0,82,2,2,0,0.1,0.1,0.1,2,0,58,72,80.6,7,69,3,0,0,Le Havre,2023-12-03 Le Havre-Paris S-G,FRA-L1,23-24,b6e6fdfe
+ac89503b,Gautier Lloris,4,FRA,CB,28-138,90,0,0,0,0,1,0,0,0,77,7,0,0,0.1,0.1,0.0,1,0,63,67,94.0,6,58,1,0,0,Le Havre,2023-12-03 Le Havre-Paris S-G,FRA-L1,23-24,b6e6fdfe
+12a4e38c,Etienne Youte Kinkoue,6,FRA,CB,21-323,90,0,0,0,0,0,0,0,0,65,1,4,1,0.0,0.0,0.0,2,0,55,55,100.0,3,50,0,0,0,Le Havre,2023-12-03 Le Havre-Paris S-G,FRA-L1,23-24,b6e6fdfe
+17bb562c,Arouna Sangante,93,SEN,"CB,RB",21-235,86,0,0,0,0,1,0,0,0,97,1,2,1,0.1,0.1,0.3,3,0,82,87,94.3,15,77,1,0,0,Le Havre,2023-12-03 Le Havre-Paris S-G,FRA-L1,23-24,b6e6fdfe
+d2448564,Samuel Grandsir,29,FRA,RB,27-111,4,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,6,9,66.7,1,9,0,0,0,Le Havre,2023-12-03 Le Havre-Paris S-G,FRA-L1,23-24,b6e6fdfe
+c3b6fa1e,Loïc Nego,7,HUN,RB,32-322,45,0,0,0,0,0,0,0,0,34,0,0,2,0.0,0.0,0.0,1,0,24,31,77.4,3,24,2,1,0,Le Havre,2023-12-03 Le Havre-Paris S-G,FRA-L1,23-24,b6e6fdfe
+b386310a,Nabil Alioui,10,FRA,AM,24-288,45,0,0,0,0,4,2,1,0,45,0,0,0,0.3,0.3,0.4,8,0,26,35,74.3,4,35,1,4,1,Le Havre,2023-12-03 Le Havre-Paris S-G,FRA-L1,23-24,b6e6fdfe
+e8c5dd4d,Arthur Desmas,30,FRA,GK,29-240,90,0,0,0,0,0,0,0,0,19,0,0,0,0.0,0.0,0.0,0,0,11,16,68.8,0,10,0,0,0,Le Havre,2023-12-03 Le Havre-Paris S-G,FRA-L1,23-24,b6e6fdfe
+42fd9c7f,Kylian Mbappé,7,FRA,FW,24-348,90,1,0,0,0,5,3,0,0,36,0,0,0,0.7,0.7,0.0,1,0,18,25,72.0,3,31,6,6,3,Paris Saint-Germain,2023-12-03 Le Havre-Paris S-G,FRA-L1,23-24,b6e6fdfe
+a0d55a09,Bradley Barcola,29,FRA,LW,21-092,11,0,0,0,0,0,0,0,0,2,0,0,1,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Paris Saint-Germain,2023-12-03 Le Havre-Paris S-G,FRA-L1,23-24,b6e6fdfe
+30670b0e,Arnau Tenas,80,ESP,GK,22-187,79,0,0,0,0,0,0,0,0,49,0,0,0,0.0,0.0,0.0,0,0,31,46,67.4,0,35,0,0,0,Paris Saint-Germain,2023-12-03 Le Havre-Paris S-G,FRA-L1,23-24,b6e6fdfe
+b19db005,Ousmane Dembélé,10,FRA,"RM,RW",26-202,73,0,1,0,0,2,1,0,0,43,1,0,1,0.3,0.3,0.5,3,1,26,32,81.3,6,33,2,4,0,Paris Saint-Germain,2023-12-03 Le Havre-Paris S-G,FRA-L1,23-24,b6e6fdfe
+c0b3669f,Randal Kolo Muani,23,FRA,RM,24-363,17,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,6,1,2,1,Paris Saint-Germain,2023-12-03 Le Havre-Paris S-G,FRA-L1,23-24,b6e6fdfe
+8455ad90,Lee Kang-in,19,KOR,LM,22-287,90,0,0,0,0,1,0,0,0,37,0,2,0,0.0,0.0,0.0,2,1,25,30,83.3,3,28,2,4,3,Paris Saint-Germain,2023-12-03 Le Havre-Paris S-G,FRA-L1,23-24,b6e6fdfe
+c0c7ff58,Fabián Ruiz Peña,8,ESP,CM,27-244,7,0,0,0,0,0,0,0,0,1,1,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Paris Saint-Germain,2023-12-03 Le Havre-Paris S-G,FRA-L1,23-24,b6e6fdfe
+c9817014,Manuel Ugarte Ribeiro,4,URU,CM,22-236,83,0,1,0,0,0,0,0,0,48,4,4,0,0.0,0.0,0.0,2,2,31,35,88.6,0,33,0,2,2,Paris Saint-Germain,2023-12-03 Le Havre-Paris S-G,FRA-L1,23-24,b6e6fdfe
+3b029691,Vitinha,17,POR,"CM,RM",23-293,90,1,0,0,0,1,1,0,0,79,4,3,2,0.0,0.0,0.0,2,0,57,70,81.4,2,60,4,0,0,Paris Saint-Germain,2023-12-03 Le Havre-Paris S-G,FRA-L1,23-24,b6e6fdfe
+fed17f5a,Carlos Soler,28,ESP,LB,26-335,74,0,0,0,0,0,0,0,0,45,1,0,3,0.0,0.0,0.0,0,0,29,39,74.4,0,33,0,0,0,Paris Saint-Germain,2023-12-03 Le Havre-Paris S-G,FRA-L1,23-24,b6e6fdfe
+c3ee18ef,Lucas Hernández,21,FRA,LB,27-292,16,0,0,0,0,0,0,0,0,8,1,2,1,0.0,0.0,0.3,1,0,4,4,100.0,2,4,0,0,0,Paris Saint-Germain,2023-12-03 Le Havre-Paris S-G,FRA-L1,23-24,b6e6fdfe
+ac73ec79,Nordi Mukiele,26,FRA,CB,26-032,73,0,0,0,0,0,0,0,0,53,0,1,2,0.0,0.0,0.0,0,0,35,43,81.4,0,37,0,0,0,Paris Saint-Germain,2023-12-03 Le Havre-Paris S-G,FRA-L1,23-24,b6e6fdfe
+30f5ffa9,Milan Škriniar,37,SVK,CB,28-295,17,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,5,6,83.3,1,4,0,0,0,Paris Saint-Germain,2023-12-03 Le Havre-Paris S-G,FRA-L1,23-24,b6e6fdfe
+8fd9996f,Danilo Pereira,15,POR,CB,32-085,90,0,0,0,0,0,0,1,0,63,0,2,4,0.0,0.0,0.0,0,0,37,41,90.2,0,40,0,0,0,Paris Saint-Germain,2023-12-03 Le Havre-Paris S-G,FRA-L1,23-24,b6e6fdfe
+e42d61c7,Achraf Hakimi,2,MAR,RB,25-029,90,0,0,0,0,0,0,0,0,69,3,0,1,0.0,0.0,0.1,2,0,50,59,84.7,4,49,2,3,1,Paris Saint-Germain,2023-12-03 Le Havre-Paris S-G,FRA-L1,23-24,b6e6fdfe
+08f5afaa,Gianluigi Donnarumma,99,ITA,GK,24-281,9,0,0,0,0,0,0,0,1,2,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,1,0,0,0,Paris Saint-Germain,2023-12-03 Le Havre-Paris S-G,FRA-L1,23-24,b6e6fdfe

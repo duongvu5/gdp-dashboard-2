@@ -1,0 +1,29 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+bdedd861,Rachid Alioui,7,MAR,FW,26-212,90,0,0,0,0,3,0,0,0,46,3,1,1,0.1,0.1,0.0,0,0,23,36,63.9,2,25,0,0,0,Nîmes,2019-01-16 Nîmes-Nantes,FRA-L1,18-19,4eccf13c
+beae3a73,Renaud Ripart,20,FRA,"FW,LM",25-308,90,0,1,0,0,0,0,0,0,39,0,0,3,0.0,0.0,0.1,4,1,16,27,59.3,1,18,0,1,1,Nîmes,2019-01-16 Nîmes-Nantes,FRA-L1,18-19,4eccf13c
+c8090cb3,Theo Valls,18,FRA,LM,23-029,66,0,0,0,0,0,0,0,0,18,1,1,1,0.0,0.0,0.0,1,0,6,11,54.5,0,8,1,0,0,Nîmes,2019-01-16 Nîmes-Nantes,FRA-L1,18-19,4eccf13c
+f4bc42b1,Sada Thioub,22,SEN,"RM,LM",23-229,24,0,0,0,0,0,0,0,0,14,0,1,1,0.0,0.0,0.0,0,0,9,9,100.0,2,11,1,1,1,Nîmes,2019-01-16 Nîmes-Nantes,FRA-L1,18-19,4eccf13c
+375622c5,Jordan Ferri,6,FRA,CM,26-310,90,0,0,0,0,1,0,0,0,64,1,1,1,0.0,0.0,0.1,4,0,45,56,80.4,11,36,3,3,2,Nîmes,2019-01-16 Nîmes-Nantes,FRA-L1,18-19,4eccf13c
+6bde367b,Téji Savanier,11,FRA,CM,27-025,90,0,0,0,0,1,0,0,0,89,2,2,2,0.0,0.0,0.3,3,0,53,77,68.8,12,56,2,7,4,Nîmes,2019-01-16 Nîmes-Nantes,FRA-L1,18-19,4eccf13c
+0b0cbe5b,Denis Bouanga,10,GAB,RM,24-066,78,0,0,0,0,2,0,0,0,20,0,1,0,0.3,0.3,0.0,1,1,7,10,70.0,1,13,0,2,0,Nîmes,2019-01-16 Nîmes-Nantes,FRA-L1,18-19,4eccf13c
+e53ab10b,Clément Depres,9,FRA,FW,24-052,12,0,0,0,0,0,0,1,0,12,1,0,0,0.0,0.0,0.0,0,0,6,8,75.0,1,4,1,0,0,Nîmes,2019-01-16 Nîmes-Nantes,FRA-L1,18-19,4eccf13c
+e54a9890,Faitout Maouassa,12,FRA,LB,20-194,90,0,0,0,0,0,0,0,0,50,1,1,2,0.0,0.0,0.0,0,0,25,42,59.5,2,25,0,0,0,Nîmes,2019-01-16 Nîmes-Nantes,FRA-L1,18-19,4eccf13c
+08082af0,Loïck Landre,5,FRA,CB,26-256,90,0,0,0,0,1,0,0,0,64,1,1,0,0.1,0.1,0.0,0,0,46,53,86.8,6,33,4,0,0,Nîmes,2019-01-16 Nîmes-Nantes,FRA-L1,18-19,4eccf13c
+16324e1d,Anthony Briançon,23,FRA,CB,24-049,90,0,0,0,0,1,1,0,0,69,0,2,1,0.2,0.2,0.0,0,0,45,57,78.9,3,38,1,0,0,Nîmes,2019-01-16 Nîmes-Nantes,FRA-L1,18-19,4eccf13c
+5314e067,Sofiane Alakouch,29,MAR,RB,20-171,90,1,0,0,0,2,1,0,0,71,1,3,0,0.1,0.1,0.4,5,0,46,60,76.7,3,35,3,3,2,Nîmes,2019-01-16 Nîmes-Nantes,FRA-L1,18-19,4eccf13c
+28dabd43,Paul Bernardoni,30,FRA,GK,21-273,90,0,0,0,0,0,0,0,0,32,0,0,0,0.0,0.0,0.0,0,0,22,28,78.6,0,18,0,0,0,Nîmes,2019-01-16 Nîmes-Nantes,FRA-L1,18-19,4eccf13c
+9980269a,Kalifa Coulibaly,7,MLI,FW,27-148,44,0,0,0,0,1,0,2,1,20,0,0,0,0.1,0.1,0.1,4,0,6,10,60.0,1,10,0,0,0,Nantes,2019-01-16 Nîmes-Nantes,FRA-L1,18-19,4eccf13c
+af0c835b,Samuel Moutoussamy,18,COD,LW,22-157,41,0,0,0,0,1,1,0,0,13,0,0,1,0.0,0.0,0.0,2,0,3,8,37.5,0,7,1,1,1,Nantes,2019-01-16 Nîmes-Nantes,FRA-L1,18-19,4eccf13c
+e90af77c,Gabriel Boschilia,12,BRA,"LM,RM,RW",22-317,49,0,0,0,0,1,0,0,0,28,1,0,1,0.1,0.1,0.0,2,0,16,20,80.0,1,12,1,1,0,Nantes,2019-01-16 Nîmes-Nantes,FRA-L1,18-19,4eccf13c
+46907171,Abdul Majeed Waris,10,GHA,"RW,FW,RM,LW",27-119,84,0,0,0,0,2,0,0,0,26,0,0,1,0.1,0.1,0.0,1,0,9,16,56.3,0,20,1,0,0,Nantes,2019-01-16 Nîmes-Nantes,FRA-L1,18-19,4eccf13c
+ccee698e,Anthony Limbombe,22,BEL,LM,24-185,6,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,2,0,2,4,50.0,0,3,1,1,1,Nantes,2019-01-16 Nîmes-Nantes,FRA-L1,18-19,4eccf13c
+ed45c4a5,Valentin Rongier,28,FRA,"LM,RM,CM",24-040,90,0,0,0,0,3,1,0,0,47,3,0,1,0.1,0.1,0.0,2,0,26,35,74.3,6,26,1,2,2,Nantes,2019-01-16 Nîmes-Nantes,FRA-L1,18-19,4eccf13c
+9a506145,Rene Krhin,21,SVN,CM,28-240,71,0,0,0,0,0,0,0,0,32,0,1,0,0.0,0.0,0.0,0,0,17,27,63.0,0,15,0,0,0,Nantes,2019-01-16 Nîmes-Nantes,FRA-L1,18-19,4eccf13c
+5d59e0df,Emiliano Sala,9,ARG,FW,28-077,19,0,0,0,0,1,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,1,3,33.3,0,2,0,0,0,Nantes,2019-01-16 Nîmes-Nantes,FRA-L1,18-19,4eccf13c
+ef7cd87a,Abdoulaye Touré,19,GUI,"CM,RM",24-319,90,0,0,0,0,1,1,0,0,40,1,3,0,0.0,0.0,0.1,2,0,23,30,76.7,4,18,1,1,1,Nantes,2019-01-16 Nîmes-Nantes,FRA-L1,18-19,4eccf13c
+0f52f925,Lucas Lima,6,BRA,LB,27-098,90,0,0,0,0,0,0,0,0,53,1,0,2,0.0,0.0,0.1,3,0,30,41,73.2,3,24,1,0,0,Nantes,2019-01-16 Nîmes-Nantes,FRA-L1,18-19,4eccf13c
+779847d6,Nicolas Pallois,4,FRA,CB,31-119,90,0,0,0,0,0,0,1,0,50,4,0,1,0.0,0.0,0.0,0,0,23,38,60.5,0,26,1,0,0,Nantes,2019-01-16 Nîmes-Nantes,FRA-L1,18-19,4eccf13c
+b4a014b1,Diego Carlos,3,BRA,CB,25-307,90,0,0,0,0,1,0,1,0,44,1,3,2,0.1,0.1,0.0,2,0,23,34,67.6,1,19,0,1,1,Nantes,2019-01-16 Nîmes-Nantes,FRA-L1,18-19,4eccf13c
+4bf69118,Enock Kwateng,25,FRA,RB,21-282,90,0,0,0,0,0,0,0,0,63,4,4,2,0.0,0.0,0.0,2,0,36,54,66.7,10,23,0,1,1,Nantes,2019-01-16 Nîmes-Nantes,FRA-L1,18-19,4eccf13c
+b056e3da,Ciprian Tătărușanu,30,ROU,GK,32-341,90,0,0,0,0,0,0,0,0,43,0,0,0,0.0,0.0,0.0,0,0,25,39,64.1,0,14,0,0,0,Nantes,2019-01-16 Nîmes-Nantes,FRA-L1,18-19,4eccf13c

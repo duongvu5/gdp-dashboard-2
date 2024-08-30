@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+81255c03,João Pedro,10,ITA,FW,27-204,90,0,0,0,0,1,0,0,0,30,0,0,0,0.0,0.0,0.0,3,0,18,22,81.8,1,19,0,0,0,Cagliari,2019-09-29 Cagliari-Hellas Verona,ITA-SERIA_A,19-20,527484ae
+343c0d52,Giovanni Simeone,99,ARG,FW,24-086,90,0,0,0,0,3,2,0,0,27,1,1,0,0.9,0.9,0.5,2,0,5,12,41.7,1,21,2,1,0,Cagliari,2019-09-29 Cagliari-Hellas Verona,ITA-SERIA_A,19-20,527484ae
+56b2957b,Lucas Castro,29,ARG,AM,30-173,67,1,0,0,0,2,1,1,0,31,1,1,1,0.0,0.0,0.0,0,0,16,22,72.7,2,8,0,1,0,Cagliari,2019-09-29 Cagliari-Hellas Verona,ITA-SERIA_A,19-20,527484ae
+1f9328da,Radja Nainggolan,4,BEL,AM,31-148,23,0,0,0,0,1,0,0,0,14,0,0,0,0.0,0.0,0.5,2,0,10,12,83.3,2,8,2,0,0,Cagliari,2019-09-29 Cagliari-Hellas Verona,ITA-SERIA_A,19-20,527484ae
+b6b2b820,Marko Rog,6,CRO,LM,24-072,83,0,0,0,0,2,1,0,0,50,1,2,1,0.5,0.5,0.0,3,1,29,36,80.6,5,23,1,2,0,Cagliari,2019-09-29 Cagliari-Hellas Verona,ITA-SERIA_A,19-20,527484ae
+cedb3e36,Artur Ioniță,21,MDA,LM,29-043,7,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,0,0,0,0,Cagliari,2019-09-29 Cagliari-Hellas Verona,ITA-SERIA_A,19-20,527484ae
+ae64d449,Luca Cigarini,8,ITA,CM,33-101,74,0,0,0,0,0,0,0,0,45,0,0,2,0.0,0.0,0.3,5,0,36,42,85.7,4,14,0,0,0,Cagliari,2019-09-29 Cagliari-Hellas Verona,ITA-SERIA_A,19-20,527484ae
+d3b888e3,Christian Oliva,17,URU,CM,23-120,16,0,0,0,0,0,0,0,0,8,0,1,0,0.0,0.0,0.0,0,0,7,7,100.0,1,5,0,0,0,Cagliari,2019-09-29 Cagliari-Hellas Verona,ITA-SERIA_A,19-20,527484ae
+95facda1,Nahitan Nández,18,URU,RM,23-275,90,0,0,0,0,0,0,0,0,32,0,0,2,0.0,0.0,0.1,2,0,23,28,82.1,3,12,2,0,0,Cagliari,2019-09-29 Cagliari-Hellas Verona,ITA-SERIA_A,19-20,527484ae
+3b61c9ec,Luca Pellegrini,33,ITA,LB,20-206,90,0,0,0,0,0,0,1,0,50,3,2,1,0.0,0.0,0.3,2,0,25,40,62.5,6,25,2,1,1,Cagliari,2019-09-29 Cagliari-Hellas Verona,ITA-SERIA_A,19-20,527484ae
+56400c01,Fabio Pisacane,19,ITA,CB,33-244,90,0,0,0,0,1,0,0,0,40,1,1,2,0.1,0.1,0.0,1,0,21,23,91.3,1,13,1,0,0,Cagliari,2019-09-29 Cagliari-Hellas Verona,ITA-SERIA_A,19-20,527484ae
+7d50454d,Luca Ceppitelli,23,ITA,CB,30-049,90,0,0,0,0,2,0,0,0,57,4,0,0,0.2,0.2,0.0,0,0,32,48,66.7,4,22,0,0,0,Cagliari,2019-09-29 Cagliari-Hellas Verona,ITA-SERIA_A,19-20,527484ae
+00b0bb87,Fabrizio Cacciatore,12,ITA,RB,32-356,90,0,0,0,0,0,0,0,0,59,4,1,0,0.0,0.0,0.0,1,1,32,46,69.6,2,15,0,0,0,Cagliari,2019-09-29 Cagliari-Hellas Verona,ITA-SERIA_A,19-20,527484ae
+e7ee38c3,Robin Olsen,90,SWE,GK,29-264,90,0,0,0,0,0,0,0,0,37,0,0,0,0.0,0.0,0.0,0,0,21,33,63.6,0,13,0,0,0,Cagliari,2019-09-29 Cagliari-Hellas Verona,ITA-SERIA_A,19-20,527484ae
+7b536033,Mariusz Stępiński,9,POL,FW,24-140,87,0,0,0,0,1,1,1,0,35,0,0,0,0.1,0.1,0.0,2,0,11,25,44.0,1,26,2,0,0,Hellas Verona,2019-09-29 Cagliari-Hellas Verona,ITA-SERIA_A,19-20,527484ae
+6ca663b4,Giampaolo Pazzini,11,ITA,FW,35-058,3,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,2,0,0,0,Hellas Verona,2019-09-29 Cagliari-Hellas Verona,ITA-SERIA_A,19-20,527484ae
+d85c238b,Mattia Zaccagni,20,ITA,AM,24-105,73,0,0,0,0,1,0,0,0,35,0,1,0,0.1,0.1,0.3,3,0,17,29,58.6,1,27,2,1,1,Hellas Verona,2019-09-29 Cagliari-Hellas Verona,ITA-SERIA_A,19-20,527484ae
+780e3631,Matteo Pessina,32,ITA,AM,22-161,17,0,0,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.0,1,0,9,10,90.0,1,8,0,0,0,Hellas Verona,2019-09-29 Cagliari-Hellas Verona,ITA-SERIA_A,19-20,527484ae
+33ecf462,Valerio Verre,14,ITA,AM,25-261,61,0,0,0,0,1,1,0,0,36,1,0,2,0.4,0.4,0.0,1,0,22,30,73.3,6,23,2,0,0,Hellas Verona,2019-09-29 Cagliari-Hellas Verona,ITA-SERIA_A,19-20,527484ae
+0489bb30,Eddie Salcedo,29,ITA,AM,17-363,29,0,0,0,0,4,1,0,0,14,0,0,0,0.2,0.2,0.0,1,0,8,9,88.9,4,8,1,0,0,Hellas Verona,2019-09-29 Cagliari-Hellas Verona,ITA-SERIA_A,19-20,527484ae
+ab1ca213,Miguel Veloso,4,POR,CM,33-141,90,0,0,0,0,2,0,0,0,60,2,0,0,0.4,0.4,0.4,7,0,39,52,75.0,7,23,2,1,1,Hellas Verona,2019-09-29 Cagliari-Hellas Verona,ITA-SERIA_A,19-20,527484ae
+5a2cb25d,Sofyan Amrabat,34,MAR,CM,23-039,90,0,0,0,0,0,0,0,0,61,2,0,1,0.0,0.0,0.0,1,0,47,52,90.4,11,47,3,6,5,Hellas Verona,2019-09-29 Cagliari-Hellas Verona,ITA-SERIA_A,19-20,527484ae
+5128bde4,Darko Lazović,88,SRB,WB,29-014,90,0,0,0,0,1,0,0,0,45,1,0,0,0.1,0.1,0.5,3,0,31,41,75.6,3,22,4,0,0,Hellas Verona,2019-09-29 Cagliari-Hellas Verona,ITA-SERIA_A,19-20,527484ae
+aae9d04a,Davide Faraoni,5,ITA,WB,27-339,90,1,0,0,0,1,1,0,0,58,0,2,2,0.3,0.3,0.1,3,0,36,47,76.6,6,21,1,0,0,Hellas Verona,2019-09-29 Cagliari-Hellas Verona,ITA-SERIA_A,19-20,527484ae
+f1f1f238,Koray Günter,21,GER,CB,25-044,90,0,0,0,0,0,0,0,0,64,1,0,1,0.0,0.0,0.0,1,0,48,58,82.8,5,31,0,0,0,Hellas Verona,2019-09-29 Cagliari-Hellas Verona,ITA-SERIA_A,19-20,527484ae
+16bb656a,Paweł Dawidowicz,27,POL,CB,24-132,90,0,0,0,0,2,0,1,0,52,1,0,0,0.2,0.2,0.0,0,0,38,46,82.6,1,25,0,0,0,Hellas Verona,2019-09-29 Cagliari-Hellas Verona,ITA-SERIA_A,19-20,527484ae
+4b3e1a38,Amir Rrahmani,13,KVX,CB,25-217,90,0,0,0,0,0,0,0,0,61,0,0,2,0.0,0.0,0.0,0,0,40,55,72.7,6,29,3,1,0,Hellas Verona,2019-09-29 Cagliari-Hellas Verona,ITA-SERIA_A,19-20,527484ae
+0d422df7,Marco Silvestri,1,ITA,GK,28-211,90,0,0,0,0,0,0,0,0,23,0,0,0,0.0,0.0,0.0,0,0,13,19,68.4,0,5,0,0,0,Hellas Verona,2019-09-29 Cagliari-Hellas Verona,ITA-SERIA_A,19-20,527484ae

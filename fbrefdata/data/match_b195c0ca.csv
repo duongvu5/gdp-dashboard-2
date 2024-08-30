@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+1971591f,Cody Gakpo,18,NED,"FW,LW",24-207,90,2,0,0,0,6,3,0,0,46,1,0,1,1.4,1.4,0.1,6,2,29,35,82.9,10,31,4,2,1,Liverpool,2023-11-30 Liverpool-LASK,UEL,23-24,b195c0ca
+4a1a9578,Luis Díaz,7,COL,LW,26-321,55,1,0,0,0,2,1,0,0,35,1,0,0,0.3,0.3,0.1,4,2,24,26,92.3,3,22,3,3,2,Liverpool,2023-11-30 Liverpool-LASK,UEL,23-24,b195c0ca
+4d77b365,Darwin Núñez,9,URU,FW,24-159,35,0,0,0,0,3,1,0,0,13,0,0,0,0.3,0.3,0.0,0,0,5,7,71.4,2,6,1,0,0,Liverpool,2023-11-30 Liverpool-LASK,UEL,23-24,b195c0ca
+e342ad68,Mohamed Salah,11,EGY,RW,31-168,55,1,1,1,1,4,1,0,0,39,0,0,0,1.0,0.2,0.0,3,0,24,29,82.8,4,24,4,3,0,Liverpool,2023-11-30 Liverpool-LASK,UEL,23-24,b195c0ca
+4fb9c88f,Curtis Jones,17,ENG,"RM,LM",22-304,35,0,0,0,0,1,0,0,0,31,2,0,1,0.1,0.1,0.0,1,0,20,21,95.2,2,16,1,2,2,Liverpool,2023-11-30 Liverpool-LASK,UEL,23-24,b195c0ca
+b9e1436c,Harvey Elliott,19,ENG,"LM,RW",20-240,90,0,0,0,0,4,2,0,0,73,1,0,1,0.1,0.1,0.3,7,0,44,63,69.8,9,49,7,1,1,Liverpool,2023-11-30 Liverpool-LASK,UEL,23-24,b195c0ca
+c149016b,Wataru Endo,3,JPN,CM,30-294,90,0,0,0,0,1,0,0,0,72,1,4,0,0.1,0.1,0.1,6,1,52,61,85.2,10,25,2,1,1,Liverpool,2023-11-30 Liverpool-LASK,UEL,23-24,b195c0ca
+b8e740fb,Ryan Gravenberch,38,NED,"RM,LM",21-198,81,0,0,0,0,0,0,0,0,68,3,1,1,0.0,0.0,0.2,4,0,43,50,86.0,7,34,1,3,1,Liverpool,2023-11-30 Liverpool-LASK,UEL,23-24,b195c0ca
+bbd67769,Conor Bradley,84,NIR,RB,20-144,9,0,0,0,0,0,0,0,0,13,0,0,1,0.0,0.0,0.0,1,0,10,10,100.0,2,6,0,1,0,Liverpool,2023-11-30 Liverpool-LASK,UEL,23-24,b195c0ca
+f315ca93,Kostas Tsimikas,21,GRE,LB,27-202,81,0,0,0,0,1,0,0,0,71,1,1,1,0.0,0.0,0.0,1,0,52,62,83.9,7,37,3,3,1,Liverpool,2023-11-30 Liverpool-LASK,UEL,23-24,b195c0ca
+7d6af698,Luke Chambers,44,ENG,LB,19-159,9,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,1,0,0,0,Liverpool,2023-11-30 Liverpool-LASK,UEL,23-24,b195c0ca
+4125cb98,Jarell Quansah,78,ENG,CB,20-305,90,0,0,0,0,0,0,0,0,73,0,0,1,0.0,0.0,0.0,2,0,61,67,91.0,3,45,0,1,0,Liverpool,2023-11-30 Liverpool-LASK,UEL,23-24,b195c0ca
+5ed9b537,Ibrahima Konaté,5,FRA,CB,24-189,55,0,0,0,0,0,0,0,0,60,2,1,2,0.0,0.0,0.0,1,0,47,51,92.2,3,22,0,0,0,Liverpool,2023-11-30 Liverpool-LASK,UEL,23-24,b195c0ca
+cd1acf9d,Trent Alexander-Arnold,66,ENG,"RB,RM",25-054,35,0,1,0,0,0,0,0,0,43,0,1,3,0.0,0.0,0.2,2,1,23,32,71.9,1,18,1,2,1,Liverpool,2023-11-30 Liverpool-LASK,UEL,23-24,b195c0ca
+7a11550b,Joe Gomez,2,ENG,"RB,CB",26-191,90,0,1,0,0,1,0,0,0,80,2,4,2,0.0,0.0,0.3,4,1,52,67,77.6,5,38,0,4,3,Liverpool,2023-11-30 Liverpool-LASK,UEL,23-24,b195c0ca
+62d7ef38,Caoimhín Kelleher,62,IRL,GK,25-007,90,0,0,0,0,0,0,0,0,56,0,0,0,0.0,0.0,0.0,1,0,46,53,86.8,0,40,0,0,0,Liverpool,2023-11-30 Liverpool-LASK,UEL,23-24,b195c0ca
+9a36ffe4,Moses Usor,17,NGA,FW,21-298,90,0,0,0,0,2,1,0,0,50,1,0,2,0.1,0.1,0.0,3,0,19,32,59.4,3,26,8,2,1,LASK,2023-11-30 Liverpool-LASK,UEL,23-24,b195c0ca
+774b7f08,Marin Ljubicic,9,CRO,FW,21-275,60,0,0,0,0,2,0,0,0,20,1,0,0,0.1,0.1,0.0,0,0,7,10,70.0,0,6,0,0,0,LASK,2023-11-30 Liverpool-LASK,UEL,23-24,b195c0ca
+6445d6fe,Ibrahim Mustapha,23,GHA,FW,23-165,13,0,0,0,0,1,1,0,0,6,0,0,0,0.1,0.1,0.0,0,0,1,2,50.0,0,4,1,0,0,LASK,2023-11-30 Liverpool-LASK,UEL,23-24,b195c0ca
+3ef68782,Moussa Koné,11,SEN,FW,26-335,17,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,2,0,0,0,LASK,2023-11-30 Liverpool-LASK,UEL,23-24,b195c0ca
+f2e3b81c,Robert Žulj,10,AUT,AM,31-298,90,0,0,0,0,1,1,0,0,42,1,0,1,0.4,0.4,0.0,2,0,24,33,72.7,8,17,2,1,0,LASK,2023-11-30 Liverpool-LASK,UEL,23-24,b195c0ca
+5e42afa3,Ivan Ljubic,21,AUT,CM,27-146,90,0,0,0,0,0,0,0,0,37,7,1,0,0.0,0.0,0.0,0,0,14,22,63.6,0,8,0,0,0,LASK,2023-11-30 Liverpool-LASK,UEL,23-24,b195c0ca
+7a391b75,Sascha Horvath,30,AUT,CM,27-100,90,0,0,0,0,0,0,0,0,54,1,0,1,0.0,0.0,0.2,2,0,34,48,70.8,2,22,2,2,1,LASK,2023-11-30 Liverpool-LASK,UEL,23-24,b195c0ca
+aca0a525,George Bello,2,USA,WB,21-312,60,0,0,0,0,0,0,0,0,29,1,2,0,0.0,0.0,0.1,1,0,13,24,54.2,2,13,2,1,0,LASK,2023-11-30 Liverpool-LASK,UEL,23-24,b195c0ca
+3c70fb81,René Renner,7,AUT,WB,30-001,30,0,0,0,0,0,0,0,0,32,1,0,1,0.0,0.0,0.1,1,0,18,26,69.2,2,12,0,1,0,LASK,2023-11-30 Liverpool-LASK,UEL,23-24,b195c0ca
+bafcf742,Filip Stojković,22,MNE,WB,30-312,60,0,0,0,0,0,0,0,0,26,3,1,0,0.0,0.0,0.0,0,0,15,21,71.4,2,4,0,0,0,LASK,2023-11-30 Liverpool-LASK,UEL,23-24,b195c0ca
+7da05fff,Florian Flecker,29,AUT,CB,28-032,30,0,0,0,0,1,0,0,0,16,0,1,0,0.2,0.2,0.4,3,0,10,14,71.4,1,5,0,1,1,LASK,2023-11-30 Liverpool-LASK,UEL,23-24,b195c0ca
+6a54638e,Maksym Talovierov,4,UKR,CB,23-155,60,0,0,0,0,0,0,1,0,19,1,1,0,0.0,0.0,0.0,0,0,8,11,72.7,0,3,0,0,0,LASK,2023-11-30 Liverpool-LASK,UEL,23-24,b195c0ca
+7664c2e8,Elias Havel,24,AUT,WB,20-228,30,0,0,0,0,0,0,0,0,15,0,0,0,0.0,0.0,0.0,0,0,4,7,57.1,0,8,1,4,0,LASK,2023-11-30 Liverpool-LASK,UEL,23-24,b195c0ca
+6ea23758,Andrés Andrade Cedeño,16,PAN,CB,25-045,90,0,0,0,0,0,0,0,0,55,3,2,5,0.0,0.0,0.0,0,0,24,36,66.7,1,16,0,2,0,LASK,2023-11-30 Liverpool-LASK,UEL,23-24,b195c0ca
+c402fb6a,Philipp Ziereis,5,GER,CB,30-261,90,0,0,0,0,0,0,0,0,42,1,1,3,0.0,0.0,0.0,0,0,20,27,74.1,1,9,0,0,0,LASK,2023-11-30 Liverpool-LASK,UEL,23-24,b195c0ca
+05160902,Tobias Lawal,1,AUT,GK,23-176,90,0,0,0,0,0,0,0,0,35,0,0,0,0.0,0.0,0.0,0,0,15,32,46.9,0,11,0,0,0,LASK,2023-11-30 Liverpool-LASK,UEL,23-24,b195c0ca

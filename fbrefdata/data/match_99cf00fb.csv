@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+0efacb06,Junior Kabananga,30,COD,FW,28-198,90,2,0,0,0,3,2,0,0,29,0,0,1,0.4,0.4,0.1,5,0,11,18,61.1,0,24,2,0,0,FC Astana,2017-10-19 FC Astana-Maccabi Tel Aviv,UEL,17-18,99cf00fb
+f2eaebe9,Serikzhan Muzhikov,7,KAZ,FW,28-124,68,0,0,0,0,2,1,1,0,46,1,0,0,0.1,0.1,0.0,1,0,35,39,89.7,2,26,0,1,0,FC Astana,2017-10-19 FC Astana-Maccabi Tel Aviv,UEL,17-18,99cf00fb
+e373f1ec,Srđan Grahovac,8,BIH,FW,25-030,22,0,0,0,0,0,0,0,0,28,2,0,0,0.0,0.0,0.0,2,0,25,27,92.6,3,23,1,0,0,FC Astana,2017-10-19 FC Astana-Maccabi Tel Aviv,UEL,17-18,99cf00fb
+bb19da7c,Roman Murtazayev,45,KAZ,LM,24-039,73,0,0,0,0,1,0,0,0,29,1,0,0,0.0,0.0,0.0,0,0,19,24,79.2,4,19,3,4,2,FC Astana,2017-10-19 FC Astana-Maccabi Tel Aviv,UEL,17-18,99cf00fb
+ead960f2,Marin Tomasov,14,CRO,LM,30-049,17,0,0,0,0,1,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,4,4,100.0,0,4,1,1,0,FC Astana,2017-10-19 FC Astana-Maccabi Tel Aviv,UEL,17-18,99cf00fb
+13a78e01,Ivan Maewski,18,BLR,CM,29-167,90,0,0,0,0,1,0,0,0,59,2,1,1,0.0,0.0,0.0,0,0,50,51,98.0,1,34,1,2,1,FC Astana,2017-10-19 FC Astana-Maccabi Tel Aviv,UEL,17-18,99cf00fb
+beb6c168,Abzal Beisebekov,15,KAZ,CM,24-323,84,0,1,0,0,1,0,0,0,34,0,1,1,0.0,0.0,0.1,5,1,28,32,87.5,2,23,1,0,0,FC Astana,2017-10-19 FC Astana-Maccabi Tel Aviv,UEL,17-18,99cf00fb
+c98971d1,Askhat Tagybergen,17,KAZ,CM,27-071,6,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,6,6,100.0,0,5,0,0,0,FC Astana,2017-10-19 FC Astana-Maccabi Tel Aviv,UEL,17-18,99cf00fb
+e3993b65,Patrick Twumasi,23,GHA,RM,23-163,90,2,0,1,1,5,2,0,0,52,2,0,1,1.3,0.5,0.1,6,0,32,40,80.0,2,38,5,1,1,FC Astana,2017-10-19 FC Astana-Maccabi Tel Aviv,UEL,17-18,99cf00fb
+54771b10,Dmitriy Shomko,77,KAZ,LB,27-214,90,0,2,0,0,3,1,0,0,65,3,0,2,0.1,0.1,0.6,6,4,40,55,72.7,3,38,5,3,1,FC Astana,2017-10-19 FC Astana-Maccabi Tel Aviv,UEL,17-18,99cf00fb
+f08a8947,Marin Aničić,5,BIH,CB,28-063,90,0,0,0,0,0,0,0,0,77,2,0,0,0.0,0.0,0.0,2,1,70,72,97.2,8,58,2,0,0,FC Astana,2017-10-19 FC Astana-Maccabi Tel Aviv,UEL,17-18,99cf00fb
+91538ba3,Yuriy Logvinenko,27,KAZ,CB,29-089,90,0,0,0,0,0,0,0,0,94,1,3,2,0.0,0.0,0.1,1,0,78,85,91.8,2,72,0,0,0,FC Astana,2017-10-19 FC Astana-Maccabi Tel Aviv,UEL,17-18,99cf00fb
+efe679a0,Igor Shitov,4,BLR,RB,30-360,90,0,0,0,0,0,0,1,0,70,1,1,0,0.0,0.0,0.0,4,0,58,69,84.1,7,46,1,2,1,FC Astana,2017-10-19 FC Astana-Maccabi Tel Aviv,UEL,17-18,99cf00fb
+88b748d2,Nenad Erić,1,KAZ,GK,35-146,90,0,0,0,0,0,0,0,0,18,0,0,0,0.0,0.0,0.0,0,0,8,18,44.4,0,10,0,0,0,FC Astana,2017-10-19 FC Astana-Maccabi Tel Aviv,UEL,17-18,99cf00fb
+348e0505,Viðar Örn Kjartansson,9,ISL,FW,27-222,74,0,0,0,0,2,0,0,0,16,0,0,0,0.1,0.1,0.0,1,0,10,13,76.9,0,7,0,0,0,Maccabi Tel Aviv,2017-10-19 FC Astana-Maccabi Tel Aviv,UEL,17-18,99cf00fb
+0027c6cc,Eitan Tibi,18,ISR,FW,29-337,16,0,0,0,0,0,0,0,0,25,0,0,0,0.0,0.0,0.0,0,0,22,25,88.0,1,22,2,0,0,Maccabi Tel Aviv,2017-10-19 FC Astana-Maccabi Tel Aviv,UEL,17-18,99cf00fb
+0f9b8301,Cristian Battocchio,28,ITA,LW,25-251,90,0,0,0,0,2,1,0,0,64,0,0,0,0.1,0.1,0.0,2,0,54,60,90.0,6,47,0,0,0,Maccabi Tel Aviv,2017-10-19 FC Astana-Maccabi Tel Aviv,UEL,17-18,99cf00fb
+d4e7c451,Nick Blackman,11,BRB,RW,27-342,90,0,0,0,0,0,0,1,0,31,0,1,0,0.0,0.0,0.0,0,0,16,20,80.0,0,27,2,12,6,Maccabi Tel Aviv,2017-10-19 FC Astana-Maccabi Tel Aviv,UEL,17-18,99cf00fb
+488350bf,Tino-Sven Sušić,31,BIH,CM,25-248,45,0,0,0,0,0,0,0,0,29,1,0,1,0.0,0.0,0.0,1,0,19,25,76.0,2,23,1,1,0,Maccabi Tel Aviv,2017-10-19 FC Astana-Maccabi Tel Aviv,UEL,17-18,99cf00fb
+9deab2db,Eliran Atar,16,ISR,CM,30-244,45,0,0,0,0,1,0,0,0,9,0,0,0,0.0,0.0,0.0,2,0,4,7,57.1,0,8,1,1,1,Maccabi Tel Aviv,2017-10-19 FC Astana-Maccabi Tel Aviv,UEL,17-18,99cf00fb
+ce940592,Sheran Yeini,21,ISR,CM,30-315,90,0,0,0,0,0,0,0,0,77,2,2,0,0.0,0.0,0.0,0,0,67,71,94.4,7,55,1,1,0,Maccabi Tel Aviv,2017-10-19 FC Astana-Maccabi Tel Aviv,UEL,17-18,99cf00fb
+e2a302a8,Dor Peretz,42,ISR,CM,22-155,45,0,0,0,0,0,0,1,0,16,2,0,2,0.0,0.0,0.0,0,0,7,12,58.3,1,7,1,1,0,Maccabi Tel Aviv,2017-10-19 FC Astana-Maccabi Tel Aviv,UEL,17-18,99cf00fb
+4a97f4c2,Avi Rikan,22,ISR,CM,29-039,45,0,0,0,0,0,0,0,0,25,3,1,0,0.0,0.0,0.0,0,0,15,21,71.4,0,18,1,0,0,Maccabi Tel Aviv,2017-10-19 FC Astana-Maccabi Tel Aviv,UEL,17-18,99cf00fb
+1bfdb73a,Ofir Davidzada,27,ISR,LB,26-167,90,0,0,0,0,0,0,0,0,55,0,0,0,0.0,0.0,0.1,1,0,41,51,80.4,2,29,2,0,0,Maccabi Tel Aviv,2017-10-19 FC Astana-Maccabi Tel Aviv,UEL,17-18,99cf00fb
+ba998e22,Jean-Sylvain Babin,5,MTQ,CB,31-005,90,0,0,0,0,0,0,0,0,89,1,3,0,0.0,0.0,0.0,0,0,71,79,89.9,2,64,0,0,0,Maccabi Tel Aviv,2017-10-19 FC Astana-Maccabi Tel Aviv,UEL,17-18,99cf00fb
+2277a390,Tal Ben Haim,26,ISR,CB,35-202,90,0,0,0,0,0,0,0,0,95,1,2,1,0.0,0.0,0.0,0,0,81,88,92.0,4,73,2,0,0,Maccabi Tel Aviv,2017-10-19 FC Astana-Maccabi Tel Aviv,UEL,17-18,99cf00fb
+18682b13,Yuval Spungin,3,ISR,RB,30-199,90,0,0,0,0,0,0,0,0,56,2,2,0,0.0,0.0,0.0,0,0,41,49,83.7,5,34,1,1,1,Maccabi Tel Aviv,2017-10-19 FC Astana-Maccabi Tel Aviv,UEL,17-18,99cf00fb
+58ad9383,Predrag Rajković,95,SRB,GK,21-353,90,0,0,0,0,0,0,0,0,46,0,0,0,0.0,0.0,0.0,0,0,32,45,71.1,0,23,0,0,0,Maccabi Tel Aviv,2017-10-19 FC Astana-Maccabi Tel Aviv,UEL,17-18,99cf00fb

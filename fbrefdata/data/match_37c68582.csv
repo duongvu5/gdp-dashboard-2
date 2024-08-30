@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+bc0bfc64,Josh Maja,9,NGA,FW,21-275,68,0,0,0,0,1,0,0,0,25,0,2,0,0.1,0.1,0.1,1,0,16,17,94.1,0,8,2,0,0,Bordeaux,2020-09-27 Bordeaux-Nice,FRA-L1,20-21,37c68582
+ea02beaf,Remi Oudin,28,FRA,"FW,RW",23-314,22,0,0,0,0,2,0,0,0,11,0,0,0,0.2,0.2,0.0,1,0,5,6,83.3,2,6,1,0,0,Bordeaux,2020-09-27 Bordeaux-Nice,FRA-L1,20-21,37c68582
+b0547a87,Nicolas de Préville,12,FRA,LW,29-263,80,0,0,0,0,2,1,0,0,61,2,3,0,0.1,0.1,0.1,8,0,37,48,77.1,5,29,6,2,0,Bordeaux,2020-09-27 Bordeaux-Nice,FRA-L1,20-21,37c68582
+f83c8d6c,Jimmy Briand,7,FRA,"FW,LW",35-056,10,0,0,0,0,2,1,0,0,6,0,0,0,0.3,0.3,0.0,1,0,2,2,100.0,0,3,0,0,0,Bordeaux,2020-09-27 Bordeaux-Nice,FRA-L1,20-21,37c68582
+b8d22478,Samuel Kalu,10,NGA,RW,23-032,67,0,0,0,0,1,0,0,0,32,3,1,0,0.0,0.0,0.0,0,0,12,19,63.2,0,15,5,4,3,Bordeaux,2020-09-27 Bordeaux-Nice,FRA-L1,20-21,37c68582
+a2d873dd,Hwang Ui-jo,18,KOR,"RW,LW",28-030,23,0,0,0,0,2,0,0,0,11,0,0,1,0.1,0.1,0.2,3,0,5,6,83.3,1,7,2,1,0,Bordeaux,2020-09-27 Bordeaux-Nice,FRA-L1,20-21,37c68582
+26777636,Yacine Adli,19,FRA,AM,20-060,83,0,0,0,0,0,0,0,0,56,2,3,1,0.0,0.0,0.1,4,0,40,51,78.4,8,31,3,0,0,Bordeaux,2020-09-27 Bordeaux-Nice,FRA-L1,20-21,37c68582
+2b5a35e5,Dilane Bakwa,32,FRA,AM,18-032,7,0,0,0,0,1,1,0,0,4,0,1,0,0.0,0.0,0.0,1,0,3,3,100.0,1,3,0,0,0,Bordeaux,2020-09-27 Bordeaux-Nice,FRA-L1,20-21,37c68582
+243f4a0b,Otávio,5,BRA,DM,26-146,90,0,0,0,0,0,0,0,0,69,4,7,1,0.0,0.0,0.0,1,0,53,57,93.0,0,39,0,0,0,Bordeaux,2020-09-27 Bordeaux-Nice,FRA-L1,20-21,37c68582
+80556f08,Toma Bašić,26,CRO,DM,23-307,90,0,0,0,0,6,2,0,0,58,4,0,0,0.3,0.3,0.2,5,0,32,45,71.1,11,36,5,3,3,Bordeaux,2020-09-27 Bordeaux-Nice,FRA-L1,20-21,37c68582
+f5b6fb78,Loris Benito,23,SUI,LB,28-264,90,0,0,0,0,0,0,0,0,65,1,4,1,0.0,0.0,0.1,3,0,50,55,90.9,3,38,1,0,0,Bordeaux,2020-09-27 Bordeaux-Nice,FRA-L1,20-21,37c68582
+29d8ad3f,Pablo,3,BRA,CB,29-098,90,0,0,0,0,0,0,0,0,62,0,1,1,0.0,0.0,0.0,0,0,49,54,90.7,2,37,0,0,0,Bordeaux,2020-09-27 Bordeaux-Nice,FRA-L1,20-21,37c68582
+f5efb153,Laurent Koscielny,6,FRA,CB,35-017,90,0,0,0,0,0,0,0,0,58,1,3,1,0.0,0.0,0.0,1,0,47,51,92.2,2,39,0,0,0,Bordeaux,2020-09-27 Bordeaux-Nice,FRA-L1,20-21,37c68582
+fbbb9269,Youssouf Sabaly,20,SEN,RB,27-206,80,0,0,0,0,0,0,1,0,56,0,2,2,0.0,0.0,0.0,3,0,40,48,83.3,2,28,2,3,2,Bordeaux,2020-09-27 Bordeaux-Nice,FRA-L1,20-21,37c68582
+4bf69118,Enock Kwateng,25,FRA,RB,23-171,10,0,0,0,0,1,0,0,0,8,0,1,0,0.0,0.0,0.0,0,0,4,6,66.7,0,5,0,0,0,Bordeaux,2020-09-27 Bordeaux-Nice,FRA-L1,20-21,37c68582
+2434f24a,Benoît Costil,1,FRA,GK,33-086,90,0,0,0,0,0,0,0,0,42,0,0,0,0.0,0.0,0.0,0,0,29,42,69.0,0,24,0,0,0,Bordeaux,2020-09-27 Bordeaux-Nice,FRA-L1,20-21,37c68582
+cc83b74d,Kasper Dolberg,9,DEN,FW,22-357,80,0,0,0,0,1,1,0,0,15,0,1,0,0.3,0.3,0.0,2,0,8,9,88.9,1,10,1,2,1,Nice,2020-09-27 Bordeaux-Nice,FRA-L1,20-21,37c68582
+7ef972c3,Flavius Daniliuc,33,AUT,CB,19-153,10,0,0,0,0,0,0,0,0,16,0,1,0,0.0,0.0,0.0,1,0,15,15,100.0,1,13,0,0,0,Nice,2020-09-27 Bordeaux-Nice,FRA-L1,20-21,37c68582
+7c2965bb,Rony Lopes,22,POR,FW,24-274,89,0,0,0,0,5,1,0,0,49,0,0,0,0.2,0.2,0.1,3,0,25,36,69.4,5,25,3,5,1,Nice,2020-09-27 Bordeaux-Nice,FRA-L1,20-21,37c68582
+706a60e1,Myziane Maolida,7,COM,FW,21-226,1,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,0,0,0,0,Nice,2020-09-27 Bordeaux-Nice,FRA-L1,20-21,37c68582
+aad56ca3,Amine Gouiri,11,ALG,LM,20-224,90,0,0,0,0,3,0,1,0,68,3,2,0,0.1,0.1,0.4,7,0,41,56,73.2,6,45,7,3,3,Nice,2020-09-27 Bordeaux-Nice,FRA-L1,20-21,37c68582
+f5044e54,Pierre Lees-Melou,8,FRA,CM,27-125,90,0,0,0,0,3,0,0,0,49,1,1,0,0.2,0.2,0.0,1,0,34,40,85.0,7,26,2,2,2,Nice,2020-09-27 Bordeaux-Nice,FRA-L1,20-21,37c68582
+51b41c5c,Morgan Schneiderlin,6,FRA,CM,30-324,90,0,0,0,0,0,0,0,0,79,2,1,4,0.0,0.0,0.1,3,0,60,67,89.6,8,41,0,0,0,Nice,2020-09-27 Bordeaux-Nice,FRA-L1,20-21,37c68582
+8e697a8f,Dan Ndoye,14,SUI,RM,19-338,56,0,0,0,0,0,0,0,0,19,4,0,0,0.0,0.0,0.0,0,0,5,11,45.5,0,13,2,3,0,Nice,2020-09-27 Bordeaux-Nice,FRA-L1,20-21,37c68582
+741418c3,Alexis Claude-Maurice,10,FRA,RM,22-113,34,0,0,0,0,0,0,0,0,17,0,0,0,0.0,0.0,0.0,3,0,11,15,73.3,3,14,2,2,1,Nice,2020-09-27 Bordeaux-Nice,FRA-L1,20-21,37c68582
+19a12bed,Hassane Kamara,13,CIV,LB,26-206,90,0,0,0,0,1,0,0,0,68,3,4,0,0.0,0.0,0.0,1,0,50,57,87.7,6,43,1,1,0,Nice,2020-09-27 Bordeaux-Nice,FRA-L1,20-21,37c68582
+fd2bc67d,Dante,4,BRA,CB,36-345,90,0,0,0,0,0,0,0,0,102,2,4,2,0.0,0.0,0.0,0,0,81,93,87.1,7,76,1,0,0,Nice,2020-09-27 Bordeaux-Nice,FRA-L1,20-21,37c68582
+f18d7ab2,Andy Pelmard,24,FRA,"CB,RB",20-199,90,0,0,0,0,0,0,0,0,103,1,0,1,0.0,0.0,0.0,2,0,91,98,92.9,7,80,3,1,1,Nice,2020-09-27 Bordeaux-Nice,FRA-L1,20-21,37c68582
+fc4cf6a7,Jordan Lotomba,23,SUI,RB,21-364,80,0,0,0,0,0,0,0,0,66,2,2,1,0.0,0.0,0.0,0,0,45,59,76.3,5,42,5,2,2,Nice,2020-09-27 Bordeaux-Nice,FRA-L1,20-21,37c68582
+b73f17f8,Evann Guessand,35,CIV,FW,19-088,10,0,0,0,0,0,0,0,0,5,0,0,1,0.0,0.0,0.0,0,0,0,2,0.0,0,2,1,0,0,Nice,2020-09-27 Bordeaux-Nice,FRA-L1,20-21,37c68582
+8a2248b4,Walter Benítez,40,ARG,GK,27-252,90,0,0,0,0,0,0,0,0,45,0,0,0,0.0,0.0,0.0,0,0,40,43,93.0,0,22,0,0,0,Nice,2020-09-27 Bordeaux-Nice,FRA-L1,20-21,37c68582

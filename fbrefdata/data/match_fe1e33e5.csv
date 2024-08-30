@@ -1,0 +1,31 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+2c0f8e9e,Alexis Sánchez,70,CHI,FW,34-069,80,0,0,0,0,3,2,0,0,28,1,0,0,0.3,0.3,0.3,5,0,14,19,73.7,1,20,1,4,2,Marseille,2023-02-26 Marseille-Paris S-G,FRA-L1,22-23,fe1e33e5
+74d4cec6,Vitinha,9,POR,FW,22-348,10,0,0,0,0,1,1,0,0,3,0,0,0,0.4,0.4,0.0,1,0,1,2,50.0,0,3,0,0,0,Marseille,2023-02-26 Marseille-Paris S-G,FRA-L1,22-23,fe1e33e5
+5ea8ef20,Mattéo Guendouzi,6,FRA,"AM,LW",23-318,90,0,0,0,0,2,1,0,0,69,2,2,1,0.1,0.1,0.0,3,0,51,60,85.0,5,55,6,1,1,Marseille,2023-02-26 Marseille-Paris S-G,FRA-L1,22-23,fe1e33e5
+1880614f,Cengiz Ünder,17,TUR,AM,25-227,80,0,0,0,0,2,0,0,0,45,0,1,0,0.1,0.1,0.2,6,0,26,35,74.3,3,36,1,5,2,Marseille,2023-02-26 Marseille-Paris S-G,FRA-L1,22-23,fe1e33e5
+58ae47b2,Dimitri Payet,10,FRA,LM,35-334,10,0,0,0,0,0,0,0,0,12,0,0,0,0.0,0.0,0.0,0,0,10,11,90.9,3,11,0,0,0,Marseille,2023-02-26 Marseille-Paris S-G,FRA-L1,22-23,fe1e33e5
+4a56052c,Jordan Veretout,27,FRA,CM,29-362,90,0,0,0,0,1,0,0,0,82,3,3,0,0.1,0.1,0.0,1,0,60,71,84.5,9,56,0,1,0,Marseille,2023-02-26 Marseille-Paris S-G,FRA-L1,22-23,fe1e33e5
+ed45c4a5,Valentin Rongier,21,FRA,"CM,RM",28-081,90,0,0,0,0,0,0,0,0,83,3,0,0,0.0,0.0,0.0,1,0,63,74,85.1,7,72,4,1,1,Marseille,2023-02-26 Marseille-Paris S-G,FRA-L1,22-23,fe1e33e5
+48d5bd33,Ruslan Malinovskyi,18,UKR,WB,29-298,80,0,0,0,0,0,0,0,0,40,2,0,0,0.0,0.0,0.0,7,0,28,35,80.0,5,33,0,3,2,Marseille,2023-02-26 Marseille-Paris S-G,FRA-L1,22-23,fe1e33e5
+83299cc0,Azzedine Ounahi,8,MAR,"RW,CB",22-313,10,0,0,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.0,0,0,10,11,90.9,0,11,1,1,1,Marseille,2023-02-26 Marseille-Paris S-G,FRA-L1,22-23,fe1e33e5
+a65c844b,Nuno Tavares,30,POR,"WB,LB",23-031,90,0,0,0,0,5,1,0,0,71,2,0,3,0.2,0.2,0.5,4,0,42,49,85.7,3,51,3,7,1,Marseille,2023-02-26 Marseille-Paris S-G,FRA-L1,22-23,fe1e33e5
+3935e52e,Sead Kolašinac,23,BIH,CB,29-251,90,0,0,0,0,2,1,0,0,43,0,1,0,0.2,0.2,0.1,3,0,29,34,85.3,4,32,1,1,0,Marseille,2023-02-26 Marseille-Paris S-G,FRA-L1,22-23,fe1e33e5
+7c3ed041,Leonardo Balerdi,5,ARG,CB,24-031,90,0,0,0,0,1,0,0,0,50,2,1,1,0.1,0.1,0.0,0,0,29,41,70.7,3,38,2,1,1,Marseille,2023-02-26 Marseille-Paris S-G,FRA-L1,22-23,fe1e33e5
+a1232f4e,Eric Bailly,3,CIV,CB,28-320,65,0,0,0,0,1,0,0,0,35,2,2,0,0.1,0.1,0.0,0,0,21,24,87.5,0,21,1,0,0,Marseille,2023-02-26 Marseille-Paris S-G,FRA-L1,22-23,fe1e33e5
+5219ab4a,Jonathan Clauss,7,FRA,"CB,RB",30-154,25,0,0,0,0,1,0,0,0,25,0,1,0,0.1,0.1,0.0,1,0,17,21,81.0,1,20,0,1,1,Marseille,2023-02-26 Marseille-Paris S-G,FRA-L1,22-23,fe1e33e5
+20b9f052,Pau López,16,ESP,GK,28-075,90,0,0,0,0,0,0,0,0,27,0,0,0,0.0,0.0,0.0,1,0,24,25,96.0,0,21,0,0,0,Marseille,2023-02-26 Marseille-Paris S-G,FRA-L1,22-23,fe1e33e5
+42fd9c7f,Kylian Mbappé,7,FRA,FW,24-068,90,2,1,0,0,7,4,0,0,42,0,0,0,1.0,1.0,0.5,5,2,23,31,74.2,7,40,6,4,1,Paris Saint-Germain,2023-02-26 Marseille-Paris S-G,FRA-L1,22-23,fe1e33e5
+d70ce98e,Lionel Messi,30,ARG,FW,35-247,90,1,2,0,0,2,1,0,0,51,2,0,1,0.7,0.7,0.7,5,2,32,42,76.2,5,45,5,3,2,Paris Saint-Germain,2023-02-26 Marseille-Paris S-G,FRA-L1,22-23,fe1e33e5
+c0c7ff58,Fabián Ruiz Peña,8,ESP,CM,26-329,90,0,0,0,0,1,1,0,0,69,7,0,1,0.0,0.0,0.0,1,0,44,52,84.6,4,48,2,3,1,Paris Saint-Germain,2023-02-26 Marseille-Paris S-G,FRA-L1,22-23,fe1e33e5
+1467af0d,Marco Verratti,6,ITA,CM,30-113,90,0,0,0,0,0,0,0,0,79,2,1,1,0.0,0.0,0.0,1,0,61,71,85.9,5,59,0,2,1,Paris Saint-Germain,2023-02-26 Marseille-Paris S-G,FRA-L1,22-23,fe1e33e5
+3b029691,Vitinha,17,POR,CM,23-013,90,0,0,0,0,0,0,0,0,64,2,1,3,0.0,0.0,0.3,6,1,41,46,89.1,1,45,0,2,1,Paris Saint-Germain,2023-02-26 Marseille-Paris S-G,FRA-L1,22-23,fe1e33e5
+f20e4cc9,Nuno Mendes,25,POR,WB,20-252,75,0,0,0,0,0,0,0,0,40,4,1,2,0.0,0.0,0.0,2,1,21,27,77.8,3,27,2,3,2,Paris Saint-Germain,2023-02-26 Marseille-Paris S-G,FRA-L1,22-23,fe1e33e5
+433dc9a2,Juan Bernat,14,ESP,WB,29-362,15,0,0,0,0,1,1,0,0,10,0,1,0,0.0,0.0,0.0,1,0,6,6,100.0,0,6,0,0,0,Paris Saint-Germain,2023-02-26 Marseille-Paris S-G,FRA-L1,22-23,fe1e33e5
+ac73ec79,Nordi Mukiele,26,FRA,WB,25-117,60,0,0,0,0,0,0,0,0,25,3,0,2,0.0,0.0,0.2,1,0,15,19,78.9,1,17,0,1,0,Paris Saint-Germain,2023-02-26 Marseille-Paris S-G,FRA-L1,22-23,fe1e33e5
+6b9960cf,Warren Zaïre-Emery,33,FRA,WB,16-355,30,0,0,0,0,0,0,0,0,14,0,1,0,0.0,0.0,0.0,0,0,8,9,88.9,0,9,0,1,1,Paris Saint-Germain,2023-02-26 Marseille-Paris S-G,FRA-L1,22-23,fe1e33e5
+aef6e670,Presnel Kimpembe,3,FRA,CB,27-197,15,0,0,0,0,0,0,0,0,8,1,1,1,0.0,0.0,0.0,0,0,4,4,100.0,0,5,0,0,0,Paris Saint-Germain,2023-02-26 Marseille-Paris S-G,FRA-L1,22-23,fe1e33e5
+8fd9996f,Danilo Pereira,15,POR,CB,31-170,75,0,0,0,0,0,0,0,0,31,0,2,0,0.0,0.0,0.0,0,0,21,26,80.8,0,23,0,2,1,Paris Saint-Germain,2023-02-26 Marseille-Paris S-G,FRA-L1,22-23,fe1e33e5
+08511d65,Sergio Ramos,4,ESP,CB,36-333,90,0,0,0,0,0,0,0,0,30,2,0,0,0.0,0.0,0.0,0,0,20,23,87.0,1,19,0,0,0,Paris Saint-Germain,2023-02-26 Marseille-Paris S-G,FRA-L1,22-23,fe1e33e5
+d5f2f82b,Marquinhos,5,BRA,CB,28-288,90,0,0,0,0,1,0,0,0,61,2,2,1,0.2,0.2,0.1,1,0,46,54,85.2,4,36,1,0,0,Paris Saint-Germain,2023-02-26 Marseille-Paris S-G,FRA-L1,22-23,fe1e33e5
+08f5afaa,Gianluigi Donnarumma,99,ITA,GK,24-001,90,0,0,0,0,0,0,0,0,34,0,0,0,0.0,0.0,0.0,0,0,18,30,60.0,0,18,0,0,0,Paris Saint-Germain,2023-02-26 Marseille-Paris S-G,FRA-L1,22-23,fe1e33e5

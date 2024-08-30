@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+9001138b,Robert Berić,27,SVN,FW,27-266,78,0,0,0,0,2,1,0,0,22,1,0,1,0.2,0.2,0.0,3,0,9,11,81.8,1,15,1,1,1,Saint-Étienne,2019-03-10 Saint-Étienne-Lille,FRA-L1,18-19,2c5d5671
+92b1763b,Makhtar Gueye,13,SEN,FW,21-096,12,0,0,0,0,0,0,0,0,8,0,0,1,0.0,0.0,0.0,0,0,1,6,16.7,0,1,0,0,0,Saint-Étienne,2019-03-10 Saint-Étienne-Lille,FRA-L1,18-19,2c5d5671
+148e136f,Rémy Cabella,7,FRA,LW,29-002,90,0,0,0,0,3,0,0,0,49,1,0,0,0.1,0.1,0.1,1,0,29,39,74.4,5,32,5,2,2,Saint-Étienne,2019-03-10 Saint-Étienne-Lille,FRA-L1,18-19,2c5d5671
+0b4d8274,Romain Hamouma,21,FRA,RW,31-346,71,0,0,0,0,0,0,0,0,36,1,0,0,0.0,0.0,0.1,1,0,14,23,60.9,4,17,3,3,1,Saint-Étienne,2019-03-10 Saint-Étienne-Lille,FRA-L1,18-19,2c5d5671
+7b9a9e25,Arnaud Nordin,18,FRA,RW,20-266,19,0,0,0,0,0,0,0,0,14,0,0,0,0.0,0.0,0.0,0,0,9,12,75.0,1,9,3,1,0,Saint-Étienne,2019-03-10 Saint-Étienne-Lille,FRA-L1,18-19,2c5d5671
+2677a1de,Wahbi Khazri,10,TUN,AM,28-030,89,0,0,0,0,0,0,0,1,45,2,1,0,0.0,0.0,0.1,2,0,21,38,55.3,7,27,2,0,0,Saint-Étienne,2019-03-10 Saint-Étienne-Lille,FRA-L1,18-19,2c5d5671
+d4133fa1,Yann M'Vila,6,FRA,DM,28-254,90,0,0,0,0,0,0,1,0,57,3,2,1,0.0,0.0,0.0,0,0,36,42,85.7,8,32,0,1,1,Saint-Étienne,2019-03-10 Saint-Étienne-Lille,FRA-L1,18-19,2c5d5671
+c46fa34c,Youssef Aït Bennasser,8,MAR,DM,22-246,72,0,0,0,0,0,0,0,0,46,1,2,0,0.0,0.0,0.0,1,0,27,37,73.0,2,25,1,2,0,Saint-Étienne,2019-03-10 Saint-Étienne-Lille,FRA-L1,18-19,2c5d5671
+dcf7cf44,Valentín Vada,23,ARG,DM,23-004,18,0,0,0,0,0,0,0,0,15,1,0,0,0.0,0.0,0.0,1,0,9,12,75.0,2,6,0,0,0,Saint-Étienne,2019-03-10 Saint-Étienne-Lille,FRA-L1,18-19,2c5d5671
+ab096c6f,Timothée Kolodziejczak,5,FRA,LB,27-160,90,0,0,0,0,1,0,1,0,71,1,6,2,0.0,0.0,0.0,0,0,46,60,76.7,6,25,0,0,0,Saint-Étienne,2019-03-10 Saint-Étienne-Lille,FRA-L1,18-19,2c5d5671
+821233cc,Neven Subotić,28,SRB,CB,30-090,90,0,0,0,0,0,0,0,0,40,0,3,0,0.0,0.0,0.0,0,0,19,30,63.3,0,18,0,0,0,Saint-Étienne,2019-03-10 Saint-Étienne-Lille,FRA-L1,18-19,2c5d5671
+972aeb2a,William Saliba,4,FRA,CB,17-351,90,0,0,0,0,0,0,0,0,49,1,6,2,0.0,0.0,0.0,0,0,29,34,85.3,1,25,0,0,0,Saint-Étienne,2019-03-10 Saint-Étienne-Lille,FRA-L1,18-19,2c5d5671
+92232aad,Mathieu Debuchy,26,FRA,RB,33-225,89,0,0,0,0,0,0,2,1,73,5,1,0,0.0,0.0,0.1,2,0,39,64,60.9,4,24,0,2,0,Saint-Étienne,2019-03-10 Saint-Étienne-Lille,FRA-L1,18-19,2c5d5671
+cac76a72,Stéphane Ruffier,16,FRA,GK,32-164,90,0,0,0,0,0,0,0,0,32,0,0,0,0.0,0.0,0.0,0,0,21,28,75.0,0,20,0,0,0,Saint-Étienne,2019-03-10 Saint-Étienne-Lille,FRA-L1,18-19,2c5d5671
+42eaa028,Jonathan Ikone,12,FRA,"FW,LM",20-312,89,0,0,0,0,1,0,1,0,33,1,0,1,0.4,0.4,0.1,2,0,15,23,65.2,1,27,6,5,3,Lille,2019-03-10 Saint-Étienne-Lille,FRA-L1,18-19,2c5d5671
+91e58f66,Thiago Maia,20,BRA,LM,21-352,1,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Lille,2019-03-10 Saint-Étienne-Lille,FRA-L1,18-19,2c5d5671
+20730eae,Rafael Leão,7,POR,FW,19-273,65,0,0,0,0,4,1,0,0,25,0,0,1,0.3,0.3,0.1,1,0,8,14,57.1,0,14,0,0,0,Lille,2019-03-10 Saint-Étienne-Lille,FRA-L1,18-19,2c5d5671
+fa18c72e,Luiz Araújo,11,BRA,RM,22-281,25,0,1,0,0,0,0,0,0,16,1,1,0,0.0,0.0,0.2,1,0,7,10,70.0,2,10,1,5,4,Lille,2019-03-10 Saint-Étienne-Lille,FRA-L1,18-19,2c5d5671
+b2bd0f6c,Jonathan Bamba,14,CIV,LM,22-349,82,0,0,0,0,1,1,1,0,41,3,0,1,0.0,0.0,0.5,3,0,19,29,65.5,2,25,7,3,2,Lille,2019-03-10 Saint-Étienne-Lille,FRA-L1,18-19,2c5d5671
+5c2da10f,Loïc Rémy,9,FRA,FW,32-067,8,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,1,0,0,0,,0,0,0,1,1,Lille,2019-03-10 Saint-Étienne-Lille,FRA-L1,18-19,2c5d5671
+f3600c02,Xeka,8,POR,CM,24-120,90,0,0,0,0,1,1,1,0,54,4,2,1,0.0,0.0,0.2,4,0,26,40,65.0,0,25,2,2,1,Lille,2019-03-10 Saint-Étienne-Lille,FRA-L1,18-19,2c5d5671
+c6e5d20f,Thiago Mendes,23,BRA,CM,26-360,90,0,0,0,0,0,0,0,0,45,1,1,0,0.0,0.0,0.0,1,0,31,39,79.5,2,26,0,0,0,Lille,2019-03-10 Saint-Étienne-Lille,FRA-L1,18-19,2c5d5671
+57e3f0c7,Nicolas Pépé,19,CIV,"RM,FW",23-285,90,1,0,0,0,5,5,0,0,33,1,1,3,0.9,0.9,0.0,6,2,9,15,60.0,1,17,2,6,6,Lille,2019-03-10 Saint-Étienne-Lille,FRA-L1,18-19,2c5d5671
+e6eadfb8,Youssouf Koné,3,MLI,LB,23-248,90,0,0,0,0,0,0,0,0,57,4,1,1,0.0,0.0,0.0,1,0,31,41,75.6,5,15,1,1,0,Lille,2019-03-10 Saint-Étienne-Lille,FRA-L1,18-19,2c5d5671
+67ac5bb8,Gabriel Magalhães,4,BRA,CB,21-081,90,0,0,0,0,2,0,0,0,60,4,3,0,0.2,0.2,0.0,3,0,26,38,68.4,3,28,0,0,0,Lille,2019-03-10 Saint-Étienne-Lille,FRA-L1,18-19,2c5d5671
+90f87966,José Fonte,6,POR,CB,35-078,90,0,0,0,0,0,0,0,0,50,0,4,0,0.0,0.0,0.0,0,0,36,43,83.7,3,30,1,0,0,Lille,2019-03-10 Saint-Étienne-Lille,FRA-L1,18-19,2c5d5671
+31a62dc7,Zeki Çelik,17,TUR,RB,22-021,90,0,0,0,0,0,0,0,0,53,1,1,1,0.0,0.0,0.0,0,0,26,43,60.5,1,21,4,0,0,Lille,2019-03-10 Saint-Étienne-Lille,FRA-L1,18-19,2c5d5671
+fcb38f57,Mike Maignan,16,FRA,GK,23-250,90,0,0,0,0,0,0,0,0,34,0,0,0,0.0,0.0,0.0,0,0,22,33,66.7,0,17,0,0,0,Lille,2019-03-10 Saint-Étienne-Lille,FRA-L1,18-19,2c5d5671

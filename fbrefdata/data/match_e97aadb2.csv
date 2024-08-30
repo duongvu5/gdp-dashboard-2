@@ -1,0 +1,29 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+33072e69,Ognjen Ožegović,51,SRB,FW,23-111,78,1,0,0,0,3,2,0,0,27,0,0,0,0.5,0.5,0.0,2,0,8,15,53.3,0,17,0,2,1,Partizan,2017-09-28 Partizan-Dynamo Kyiv,UEL,17-18,e97aadb2
+8e19242c,Đorđe Jovanović,99,SRB,FW,18-225,12,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,1,0,3,3,100.0,0,4,0,0,0,Partizan,2017-09-28 Partizan-Dynamo Kyiv,UEL,17-18,e97aadb2
+dcd160e4,Léandre Tawamba,3,CMR,FW,27-282,90,1,1,0,0,1,1,1,0,37,0,0,0,0.4,0.4,0.6,3,2,15,30,50.0,1,25,3,1,1,Partizan,2017-09-28 Partizan-Dynamo Kyiv,UEL,17-18,e97aadb2
+57ae16f4,Seydouba Soumah,20,GUI,LM,26-109,74,0,1,0,0,1,0,0,0,25,2,0,3,0.1,0.1,0.4,2,1,11,17,64.7,1,15,3,1,1,Partizan,2017-09-28 Partizan-Dynamo Kyiv,UEL,17-18,e97aadb2
+4d478e8b,Danilo Pantić,55,SRB,LM,20-337,16,0,0,0,0,1,0,0,0,8,0,0,0,0.0,0.0,0.0,1,0,3,6,50.0,2,5,0,1,1,Partizan,2017-09-28 Partizan-Dynamo Kyiv,UEL,17-18,e97aadb2
+5ada5385,Milan Radin,29,SRB,CM,26-095,90,0,0,0,0,0,0,0,0,37,2,0,2,0.0,0.0,0.0,3,0,19,29,65.5,2,21,1,0,0,Partizan,2017-09-28 Partizan-Dynamo Kyiv,UEL,17-18,e97aadb2
+3799e138,Everton Luiz,25,BRA,CM,29-127,90,0,0,0,0,1,1,1,0,32,1,3,2,0.3,0.3,0.0,0,0,15,22,68.2,3,17,1,2,2,Partizan,2017-09-28 Partizan-Dynamo Kyiv,UEL,17-18,e97aadb2
+9866afec,Marko Janković,10,MNE,RM,22-081,90,0,0,0,0,2,0,1,0,34,1,1,2,0.1,0.1,0.0,0,0,15,21,71.4,5,23,4,7,4,Partizan,2017-09-28 Partizan-Dynamo Kyiv,UEL,17-18,e97aadb2
+57f60036,Nemanja Miletić,26,SRB,LB,26-064,90,0,0,0,0,0,0,0,0,64,1,2,0,0.0,0.0,0.1,4,1,28,57,49.1,9,27,2,2,2,Partizan,2017-09-28 Partizan-Dynamo Kyiv,UEL,17-18,e97aadb2
+6f4cf369,Bojan Ostojić,23,SRB,CB,33-228,90,0,0,0,0,0,0,0,0,30,3,2,0,0.0,0.0,0.0,0,0,15,22,68.2,2,10,0,0,0,Partizan,2017-09-28 Partizan-Dynamo Kyiv,UEL,17-18,e97aadb2
+903b3b77,Nemanja Miletić,73,SRB,CB,26-255,90,0,0,0,0,0,0,0,0,40,1,1,2,0.0,0.0,0.0,1,0,26,35,74.3,3,20,0,0,0,Partizan,2017-09-28 Partizan-Dynamo Kyiv,UEL,17-18,e97aadb2
+71a998b9,Miroslav Vulićević,4,SRB,RB,32-122,90,0,0,0,0,0,0,0,0,40,2,0,1,0.0,0.0,0.0,0,0,19,32,59.4,2,10,0,2,1,Partizan,2017-09-28 Partizan-Dynamo Kyiv,UEL,17-18,e97aadb2
+c089980e,Vladimir Stojković,88,SRB,GK,34-062,90,0,0,0,0,0,0,0,0,37,0,0,0,0.0,0.0,0.0,1,0,16,32,50.0,0,12,0,0,0,Partizan,2017-09-28 Partizan-Dynamo Kyiv,UEL,17-18,e97aadb2
+0b5b8057,Artem Kravets,22,UKR,FW,28-117,45,0,0,0,0,0,0,1,0,15,1,0,0,0.0,0.0,0.5,1,0,10,11,90.9,2,7,0,0,0,Dynamo Kyiv,2017-09-28 Partizan-Dynamo Kyiv,UEL,17-18,e97aadb2
+11c0fa9d,Artem Besyedin,41,UKR,FW,21-181,45,0,1,0,0,1,0,0,0,17,0,0,0,0.0,0.0,0.6,2,1,10,12,83.3,2,9,1,1,0,Dynamo Kyiv,2017-09-28 Partizan-Dynamo Kyiv,UEL,17-18,e97aadb2
+e5ce82f9,Derlis González,25,PAR,LW,23-192,89,0,0,0,0,3,1,0,0,36,0,0,0,0.6,0.6,0.1,3,0,23,30,76.7,3,23,1,0,0,Dynamo Kyiv,2017-09-28 Partizan-Dynamo Kyiv,UEL,17-18,e97aadb2
+1c37137f,Mykola Morozyuk,9,UKR,LW,29-254,1,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,2,0,0,0,Dynamo Kyiv,2017-09-28 Partizan-Dynamo Kyiv,UEL,17-18,e97aadb2
+f7e87032,Viktor Tsyhankov,15,UKR,RW,19-317,45,0,0,0,0,1,1,0,0,24,0,0,0,0.0,0.0,0.0,1,0,18,20,90.0,4,17,0,0,0,Dynamo Kyiv,2017-09-28 Partizan-Dynamo Kyiv,UEL,17-18,e97aadb2
+c43e5e7e,Júnior Moraes,11,UKR,AM,30-177,45,2,0,1,1,1,1,0,0,10,0,0,0,1.3,0.6,0.0,4,1,5,7,71.4,1,11,2,1,1,Dynamo Kyiv,2017-09-28 Partizan-Dynamo Kyiv,UEL,17-18,e97aadb2
+bfc5768b,Denys Harmash,19,UKR,"DM,AM",27-162,90,0,0,0,0,1,1,0,0,55,2,1,1,0.0,0.0,0.0,4,0,31,43,72.1,6,30,1,1,1,Dynamo Kyiv,2017-09-28 Partizan-Dynamo Kyiv,UEL,17-18,e97aadb2
+b8814868,Vitaliy Buyalskyi,29,UKR,"RW,DM",24-265,90,1,0,0,0,2,1,1,0,40,3,0,4,0.6,0.6,0.0,3,1,24,33,72.7,4,22,0,1,1,Dynamo Kyiv,2017-09-28 Partizan-Dynamo Kyiv,UEL,17-18,e97aadb2
+c71e97ba,Serhiy Sydorchuk,16,UKR,DM,26-149,90,0,0,0,0,0,0,0,0,53,2,1,2,0.0,0.0,0.1,2,0,28,42,66.7,3,23,1,1,0,Dynamo Kyiv,2017-09-28 Partizan-Dynamo Kyiv,UEL,17-18,e97aadb2
+7c224498,Josip Pivarić,23,CRO,LB,28-241,90,0,0,0,0,2,1,0,0,58,2,2,0,0.1,0.1,0.2,5,1,31,46,67.4,5,22,1,1,1,Dynamo Kyiv,2017-09-28 Partizan-Dynamo Kyiv,UEL,17-18,e97aadb2
+71d5ca31,Tamás Kádár,44,HUN,CB,27-198,90,0,0,0,0,1,0,0,0,49,1,3,0,0.0,0.0,0.0,0,0,26,35,74.3,1,23,0,0,0,Dynamo Kyiv,2017-09-28 Partizan-Dynamo Kyiv,UEL,17-18,e97aadb2
+3f359b33,Domagoj Vida,24,CRO,CB,28-152,90,0,0,0,0,3,1,0,0,61,0,1,0,0.2,0.2,0.0,1,0,37,46,80.4,2,27,0,0,0,Dynamo Kyiv,2017-09-28 Partizan-Dynamo Kyiv,UEL,17-18,e97aadb2
+dc52c72f,Tomasz Kędziora,94,POL,RB,23-109,90,0,0,0,0,0,0,0,0,55,3,5,2,0.0,0.0,0.0,1,0,21,39,53.8,2,17,0,0,0,Dynamo Kyiv,2017-09-28 Partizan-Dynamo Kyiv,UEL,17-18,e97aadb2
+60713cb3,Maksym Koval,35,UKR,GK,24-293,90,0,0,0,0,0,0,0,0,40,0,0,0,0.0,0.0,0.0,0,0,20,36,55.6,0,15,0,0,0,Dynamo Kyiv,2017-09-28 Partizan-Dynamo Kyiv,UEL,17-18,e97aadb2

@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+80dbbd10,Simeon Nwankwo,25,NGA,FW,28-269,90,0,0,0,0,1,0,0,0,38,0,0,0,0.1,0.1,0.1,4,0,24,31,77.4,0,20,1,1,1,Crotone,2021-01-31 Crotone-Genoa,ITA-SERIA_A,20-21,70b79e1d
+ef94dc2f,Samuel Di Carmine,54,ITA,FW,32-124,55,0,0,0,0,1,0,0,0,14,0,0,1,0.1,0.1,0.0,1,0,7,10,70.0,0,7,0,0,0,Crotone,2021-01-31 Crotone-Genoa,ITA-SERIA_A,20-21,70b79e1d
+2bae5658,Emmanuel Rivière,97,FRA,FW,30-334,35,0,0,0,0,0,0,0,0,14,1,0,1,0.0,0.0,0.0,0,0,8,12,66.7,0,6,0,0,0,Crotone,2021-01-31 Crotone-Genoa,ITA-SERIA_A,20-21,70b79e1d
+a128b07e,Ahmad Benali,10,LBY,CM,28-359,90,0,0,0,0,2,1,0,0,75,1,1,0,0.1,0.1,0.1,4,0,56,69,81.2,6,52,5,3,3,Crotone,2021-01-31 Crotone-Genoa,ITA-SERIA_A,20-21,70b79e1d
+741e058f,Niccolò Zanellato,21,ITA,CM,22-221,68,0,0,0,0,0,0,0,0,41,2,0,1,0.0,0.0,0.0,0,0,27,35,77.1,2,23,0,0,0,Crotone,2021-01-31 Crotone-Genoa,ITA-SERIA_A,20-21,70b79e1d
+1bd5fc78,Eduardo Henrique,95,BRA,CM,25-259,22,0,0,0,0,1,0,1,0,14,0,0,0,0.1,0.1,0.0,1,0,10,12,83.3,1,9,2,0,0,Crotone,2021-01-31 Crotone-Genoa,ITA-SERIA_A,20-21,70b79e1d
+f49c4ae9,Junior Messias,30,BRA,CM,29-263,90,0,0,0,0,3,1,1,0,64,1,1,0,0.1,0.1,0.1,7,0,31,50,62.0,6,40,4,6,5,Crotone,2021-01-31 Crotone-Genoa,ITA-SERIA_A,20-21,70b79e1d
+6213fd82,Arkadiusz Reca,69,POL,WB,25-228,90,0,0,0,0,3,1,1,0,54,2,1,2,0.1,0.1,0.1,1,0,29,42,69.0,2,24,3,0,0,Crotone,2021-01-31 Crotone-Genoa,ITA-SERIA_A,20-21,70b79e1d
+c77be0cf,Pedro Pereira,32,POR,WB,23-009,45,0,0,0,0,0,0,0,0,21,0,0,0,0.0,0.0,0.0,0,0,9,15,60.0,0,9,0,0,0,Crotone,2021-01-31 Crotone-Genoa,ITA-SERIA_A,20-21,70b79e1d
+39ee6cb6,Andrea Rispoli,33,ITA,WB,32-124,45,0,0,0,0,0,0,0,0,20,0,0,0,0.0,0.0,0.0,1,0,11,18,61.1,2,11,0,0,0,Crotone,2021-01-31 Crotone-Genoa,ITA-SERIA_A,20-21,70b79e1d
+1db295e5,Vladimir Golemić,5,SVN,CB,29-217,90,0,0,0,0,0,0,0,0,69,3,1,2,0.0,0.0,0.0,0,0,47,59,79.7,3,33,1,0,0,Crotone,2021-01-31 Crotone-Genoa,ITA-SERIA_A,20-21,70b79e1d
+ea468ea8,Luca Marrone,34,ITA,CB,30-309,90,0,0,0,0,1,1,0,0,70,1,3,0,0.1,0.1,0.0,0,0,50,59,84.7,0,37,0,0,0,Crotone,2021-01-31 Crotone-Genoa,ITA-SERIA_A,20-21,70b79e1d
+01a49bd2,Lisandro Magallán,6,ARG,CB,27-126,68,0,0,0,0,1,0,0,0,55,3,2,1,0.1,0.1,0.0,0,0,32,41,78.0,3,24,1,0,0,Crotone,2021-01-31 Crotone-Genoa,ITA-SERIA_A,20-21,70b79e1d
+933d3b51,Koffi Djidji,26,CIV,CB,28-062,22,0,0,0,0,0,0,0,0,26,1,0,1,0.0,0.0,0.0,0,0,21,23,91.3,4,13,0,1,1,Crotone,2021-01-31 Crotone-Genoa,ITA-SERIA_A,20-21,70b79e1d
+e66ebabb,Alex Cordaz,1,ITA,GK,38-030,90,0,0,0,0,0,0,0,0,50,0,0,0,0.0,0.0,0.0,0,0,39,48,81.3,0,30,0,0,0,Crotone,2021-01-31 Crotone-Genoa,ITA-SERIA_A,20-21,70b79e1d
+57469b2d,Eldor Shomurodov,61,UZB,FW,25-216,60,0,0,0,0,1,0,0,0,19,1,0,0,0.2,0.2,0.0,2,1,12,14,85.7,2,14,1,1,0,Genoa,2021-01-31 Crotone-Genoa,ITA-SERIA_A,20-21,70b79e1d
+2c38b327,Marko Pjaca,37,CRO,FW,25-270,30,0,0,0,0,1,0,0,0,17,1,0,0,0.1,0.1,0.0,1,0,10,11,90.9,1,15,1,0,0,Genoa,2021-01-31 Crotone-Genoa,ITA-SERIA_A,20-21,70b79e1d
+d7d32194,Mattia Destro,23,ITA,FW,29-317,70,2,0,0,0,3,2,0,0,25,1,0,2,0.5,0.5,0.0,1,1,12,16,75.0,5,16,1,1,1,Genoa,2021-01-31 Crotone-Genoa,ITA-SERIA_A,20-21,70b79e1d
+d711d04f,Goran Pandev,19,MKD,FW,37-188,20,0,0,0,0,2,1,0,0,12,0,0,0,0.3,0.3,0.0,0,0,6,9,66.7,1,11,3,0,0,Genoa,2021-01-31 Crotone-Genoa,ITA-SERIA_A,20-21,70b79e1d
+ef2e5e1a,Kevin Strootman,20,NED,CM,30-353,73,0,0,0,0,1,0,1,0,51,2,3,2,0.1,0.1,0.0,0,0,34,40,85.0,3,22,1,1,1,Genoa,2021-01-31 Crotone-Genoa,ITA-SERIA_A,20-21,70b79e1d
+d3d758d8,Valon Behrami,11,SUI,CM,35-287,17,0,0,0,0,0,0,0,0,5,0,1,0,0.0,0.0,0.0,0,0,4,5,80.0,0,2,0,0,0,Genoa,2021-01-31 Crotone-Genoa,ITA-SERIA_A,20-21,70b79e1d
+e8c930bb,Milan Badelj,47,CRO,CM,31-341,90,0,0,0,0,0,0,0,0,58,1,9,1,0.0,0.0,0.0,3,1,30,46,65.2,2,29,2,4,4,Genoa,2021-01-31 Crotone-Genoa,ITA-SERIA_A,20-21,70b79e1d
+83e4643e,Miha Zajc,16,SVN,CM,26-214,60,0,1,0,0,1,0,0,0,35,0,1,1,0.0,0.0,0.4,3,2,17,28,60.7,0,17,1,2,2,Genoa,2021-01-31 Crotone-Genoa,ITA-SERIA_A,20-21,70b79e1d
+6604165d,Filippo Melegoni,24,ITA,CM,21-348,30,0,0,0,0,1,0,0,0,38,2,0,1,0.0,0.0,0.4,3,0,19,29,65.5,2,16,0,3,1,Genoa,2021-01-31 Crotone-Genoa,ITA-SERIA_A,20-21,70b79e1d
+7ba1f1ef,Lennart-Marten Czyborra,99,GER,WB,21-273,90,1,0,0,0,1,1,0,0,57,1,1,0,0.1,0.1,0.0,0,0,32,47,68.1,2,26,1,2,1,Genoa,2021-01-31 Crotone-Genoa,ITA-SERIA_A,20-21,70b79e1d
+7fe90ccd,Davide Zappacosta,77,ITA,WB,28-234,70,0,1,0,0,0,0,0,0,48,0,1,3,0.0,0.0,0.1,3,1,30,40,75.0,3,25,3,3,2,Genoa,2021-01-31 Crotone-Genoa,ITA-SERIA_A,20-21,70b79e1d
+71dc23da,Paolo Ghiglione,18,ITA,WB,23-364,20,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,1,0,4,6,66.7,0,4,1,0,0,Genoa,2021-01-31 Crotone-Genoa,ITA-SERIA_A,20-21,70b79e1d
+35dd6d80,Domenico Criscito,4,ITA,CB,34-032,90,0,0,0,0,0,0,0,0,49,2,4,1,0.0,0.0,0.0,0,0,28,40,70.0,2,20,2,1,1,Genoa,2021-01-31 Crotone-Genoa,ITA-SERIA_A,20-21,70b79e1d
+023937a9,Ivan Radovanović,21,SRB,CB,32-155,90,0,0,0,0,0,0,0,0,41,1,0,1,0.0,0.0,0.0,0,0,28,36,77.8,1,23,0,0,0,Genoa,2021-01-31 Crotone-Genoa,ITA-SERIA_A,20-21,70b79e1d
+e0314d87,Andrea Masiello,55,ITA,CB,34-361,90,0,0,0,0,0,0,0,0,41,2,2,3,0.0,0.0,0.2,1,0,25,31,80.6,4,22,1,0,0,Genoa,2021-01-31 Crotone-Genoa,ITA-SERIA_A,20-21,70b79e1d
+4c62d0c8,Mattia Perin,1,ITA,GK,28-082,90,0,0,0,0,0,0,0,0,38,0,0,0,0.0,0.0,0.0,0,0,20,36,55.6,0,26,0,0,0,Genoa,2021-01-31 Crotone-Genoa,ITA-SERIA_A,20-21,70b79e1d

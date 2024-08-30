@@ -1,0 +1,28 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+aec63b70,Aleksandar Prijović,9,SRB,FW,28-236,90,1,0,0,0,5,1,0,0,26,0,0,0,1.0,1.0,0.0,2,0,12,16,75.0,1,12,2,0,0,PAOK,2018-12-13 PAOK-BATE Borisov,UEL,18-19,f4bb57aa
+173db1f4,Léo Jabá,98,BRA,"LW,RW",20-133,90,0,1,0,0,1,0,0,0,69,0,0,2,0.0,0.0,1.1,10,2,49,58,84.5,3,55,5,7,6,PAOK,2018-12-13 PAOK-BATE Borisov,UEL,18-19,f4bb57aa
+62c7067a,Dimitris Limnios,18,GRE,RW,20-200,45,0,0,0,0,0,0,0,0,23,0,1,0,0.0,0.0,0.0,0,0,13,18,72.2,1,16,1,2,1,PAOK,2018-12-13 PAOK-BATE Borisov,UEL,18-19,f4bb57aa
+901d3e51,Amr Warda,74,EGY,"LW,RW",25-087,45,0,0,0,0,2,0,0,0,54,0,0,1,0.1,0.1,0.5,7,0,38,50,76.0,4,38,7,7,6,PAOK,2018-12-13 PAOK-BATE Borisov,UEL,18-19,f4bb57aa
+33bd3dae,Dimitris Pelkas,10,GRE,AM,25-048,54,0,0,0,0,1,1,0,0,23,0,0,1,0.1,0.1,0.1,2,0,9,15,60.0,1,12,2,1,1,PAOK,2018-12-13 PAOK-BATE Borisov,UEL,18-19,f4bb57aa
+e2b384d2,Chuba Akpom,47,ENG,AM,23-065,36,0,0,0,0,4,1,0,0,13,0,0,0,0.3,0.3,0.0,2,0,5,7,71.4,2,7,3,2,2,PAOK,2018-12-13 PAOK-BATE Borisov,UEL,18-19,f4bb57aa
+ab77f2d9,José Cañas,87,ESP,DM,31-200,90,0,0,0,0,2,0,0,0,103,1,1,3,0.1,0.1,0.1,5,0,82,92,89.1,15,66,6,0,0,PAOK,2018-12-13 PAOK-BATE Borisov,UEL,18-19,f4bb57aa
+e7ec3c71,Maurício,8,BRA,DM,30-053,90,0,0,0,0,3,0,0,0,77,0,0,2,0.1,0.1,0.1,8,0,58,68,85.3,4,58,0,0,0,PAOK,2018-12-13 PAOK-BATE Borisov,UEL,18-19,f4bb57aa
+779fe525,Vieirinha,20,POR,LB,32-323,90,0,0,0,0,3,0,1,0,46,3,0,0,0.1,0.1,0.0,5,0,28,39,71.8,7,27,3,3,1,PAOK,2018-12-13 PAOK-BATE Borisov,UEL,18-19,f4bb57aa
+8ec4c2f7,José Ángel Crespo,15,ESP,CB,31-307,90,0,0,0,0,0,0,0,0,79,1,1,1,0.0,0.0,0.1,2,0,67,72,93.1,14,50,2,0,0,PAOK,2018-12-13 PAOK-BATE Borisov,UEL,18-19,f4bb57aa
+0990f2fb,Fernando Varela,5,CPV,CB,31-017,90,0,0,0,0,3,0,0,0,82,1,0,1,0.5,0.5,0.1,2,0,56,71,78.9,5,45,3,0,0,PAOK,2018-12-13 PAOK-BATE Borisov,UEL,18-19,f4bb57aa
+45f5aa2f,Léo Matos,3,BRA,RB,32-255,90,0,0,0,0,4,1,1,0,81,1,0,0,0.2,0.2,0.1,8,0,62,71,87.3,12,64,8,3,3,PAOK,2018-12-13 PAOK-BATE Borisov,UEL,18-19,f4bb57aa
+4c5039bd,Alexandros Paschalakis,31,GRE,GK,29-138,90,0,0,0,0,0,0,0,0,32,0,0,0,0.0,0.0,0.0,0,0,22,28,78.6,1,14,0,0,0,PAOK,2018-12-13 PAOK-BATE Borisov,UEL,18-19,f4bb57aa
+cea0df32,Mikalay Signevich,13,BLR,FW,26-296,61,2,0,1,1,1,1,0,1,43,1,1,1,1.2,0.4,0.0,2,0,20,31,64.5,4,22,0,1,1,BATE Borisov,2018-12-13 PAOK-BATE Borisov,UEL,18-19,f4bb57aa
+4e80a8ef,Ihar Stasevich,22,BLR,"LM,LW",33-053,90,0,2,0,0,1,0,0,0,55,1,2,0,0.1,0.1,0.9,5,4,31,44,70.5,5,34,6,3,2,BATE Borisov,2018-12-13 PAOK-BATE Borisov,UEL,18-19,f4bb57aa
+489e5d93,Maksim Skavysh,15,BLR,"RW,RM",29-030,81,1,0,0,0,1,1,0,0,32,3,0,1,0.5,0.5,0.2,1,0,11,20,55.0,1,19,0,0,0,BATE Borisov,2018-12-13 PAOK-BATE Borisov,UEL,18-19,f4bb57aa
+20c1ef47,Mikhail Gordeichuk,62,BLR,CM,29-051,9,0,0,0,0,0,0,0,0,5,1,0,0,0.0,0.0,0.0,2,0,3,4,75.0,0,4,1,1,1,BATE Borisov,2018-12-13 PAOK-BATE Borisov,UEL,18-19,f4bb57aa
+4c82730b,Mirko Ivanić,10,MNE,"CM,LM",25-091,90,0,0,0,0,4,0,0,0,48,2,0,3,0.1,0.1,0.0,0,0,23,35,65.7,5,32,5,4,2,BATE Borisov,2018-12-13 PAOK-BATE Borisov,UEL,18-19,f4bb57aa
+a5d101a9,Stanislaw Drahun,8,BLR,"CM,DM",30-192,87,0,0,0,0,2,0,0,0,45,2,1,2,0.1,0.1,0.0,1,1,22,33,66.7,0,18,1,0,0,BATE Borisov,2018-12-13 PAOK-BATE Borisov,UEL,18-19,f4bb57aa
+474cf8e0,Evgeni Yablonski,5,BLR,DM,23-217,3,0,0,0,0,0,0,1,0,2,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,BATE Borisov,2018-12-13 PAOK-BATE Borisov,UEL,18-19,f4bb57aa
+ce538b0b,Dzmitry Baha,25,BLR,"CM,RM",28-343,90,0,0,0,0,0,0,1,0,36,1,2,2,0.0,0.0,0.1,4,1,24,31,77.4,0,17,0,2,2,BATE Borisov,2018-12-13 PAOK-BATE Borisov,UEL,18-19,f4bb57aa
+a5e16eba,Aleksandar Filipović,4,SRB,LB,23-358,90,0,0,0,0,0,0,0,0,37,2,4,1,0.0,0.0,0.0,1,0,15,23,65.2,0,5,0,0,0,BATE Borisov,2018-12-13 PAOK-BATE Borisov,UEL,18-19,f4bb57aa
+8ed1d91b,Dzyanis Palyakow,33,BLR,CB,27-240,90,0,0,0,0,0,0,0,0,31,0,0,2,0.0,0.0,0.0,0,0,15,18,83.3,1,9,0,0,0,BATE Borisov,2018-12-13 PAOK-BATE Borisov,UEL,18-19,f4bb57aa
+fcda82c7,Zakhar Volkov,23,BLR,CB,21-123,90,0,0,0,0,0,0,0,0,19,0,0,3,0.0,0.0,0.0,0,0,7,11,63.6,0,7,0,0,0,BATE Borisov,2018-12-13 PAOK-BATE Borisov,UEL,18-19,f4bb57aa
+826313e2,Alexei Rios,17,BLR,RB,31-213,90,0,0,0,0,0,0,1,0,47,1,2,3,0.0,0.0,0.0,1,0,20,31,64.5,1,13,0,1,1,BATE Borisov,2018-12-13 PAOK-BATE Borisov,UEL,18-19,f4bb57aa
+110a95ca,Denis Scherbitskiy,48,BLR,GK,22-243,90,0,0,0,0,0,0,0,0,37,0,0,0,0.0,0.0,0.0,0,0,17,31,54.8,0,8,0,0,0,BATE Borisov,2018-12-13 PAOK-BATE Borisov,UEL,18-19,f4bb57aa

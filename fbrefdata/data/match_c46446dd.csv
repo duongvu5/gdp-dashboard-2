@@ -1,0 +1,32 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+21a66f6a,Harry Kane,9,ENG,FW,30-142,90,2,0,0,0,5,4,0,0,35,0,0,2,1.7,1.7,0.0,2,0,13,23,56.5,4,27,2,0,0,Bayern Munich,2023-12-17 Bayern Munich-Stuttgart,GER-BL1,23-24,c46446dd
+2b114be3,Leroy Sané,10,GER,LW,27-340,90,0,1,0,0,5,2,0,0,47,0,0,1,0.5,0.5,0.9,6,2,35,36,97.2,5,39,10,7,5,Bayern Munich,2023-12-17 Bayern Munich-Stuttgart,GER-BL1,23-24,c46446dd
+2c0558b8,Jamal Musiala,42,GER,RW,20-294,82,0,0,0,0,2,0,0,0,51,7,1,3,0.3,0.3,0.1,6,0,27,37,73.0,5,35,5,3,2,Bayern Munich,2023-12-17 Bayern Munich-Stuttgart,GER-BL1,23-24,c46446dd
+829aa60c,Mathys Tel,39,FRA,RW,18-234,8,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,3,1,1,0,Bayern Munich,2023-12-17 Bayern Munich-Stuttgart,GER-BL1,23-24,c46446dd
+3c6089ab,Thomas Müller,25,GER,AM,34-095,82,0,0,0,0,0,0,0,0,27,2,0,1,0.0,0.0,0.9,4,0,17,22,77.3,5,17,1,1,1,Bayern Munich,2023-12-17 Bayern Munich-Stuttgart,GER-BL1,23-24,c46446dd
+0e6bc38c,Eric Maxim Choupo-Moting,13,CMR,AM,34-269,8,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,1,5,20.0,0,4,0,0,0,Bayern Munich,2023-12-17 Bayern Munich-Stuttgart,GER-BL1,23-24,c46446dd
+048a1cbc,Raphaël Guerreiro,22,POR,DM,29-360,90,0,0,0,0,1,0,0,0,63,4,2,0,0.0,0.0,0.0,0,0,45,52,86.5,3,42,1,2,1,Bayern Munich,2023-12-17 Bayern Munich-Stuttgart,GER-BL1,23-24,c46446dd
+2658c82f,Aleksandar Pavlovic,45,GER,DM,19-228,90,0,1,0,0,0,0,0,0,69,4,0,2,0.0,0.0,0.1,3,1,45,59,76.3,6,33,0,1,0,Bayern Munich,2023-12-17 Bayern Munich-Stuttgart,GER-BL1,23-24,c46446dd
+d781d855,Alphonso Davies,19,CAN,LB,23-045,88,0,0,0,0,0,0,0,0,55,4,2,4,0.0,0.0,0.1,5,1,37,42,88.1,1,37,7,7,5,Bayern Munich,2023-12-17 Bayern Munich-Stuttgart,GER-BL1,23-24,c46446dd
+1fc08838,Frans Krätzig,41,GER,LB,20-337,2,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,7,8,87.5,0,4,0,0,0,Bayern Munich,2023-12-17 Bayern Munich-Stuttgart,GER-BL1,23-24,c46446dd
+e0f8151c,Kim Min-jae,3,KOR,CB,27-032,90,1,0,0,0,1,1,0,0,58,1,6,1,0.1,0.1,0.0,1,1,39,43,90.7,2,32,0,1,1,Bayern Munich,2023-12-17 Bayern Munich-Stuttgart,GER-BL1,23-24,c46446dd
+d248cd8f,Dayot Upamecano,2,FRA,CB,25-051,90,0,0,0,0,1,0,0,0,43,1,0,0,0.0,0.0,0.0,1,0,29,36,80.6,1,32,0,1,0,Bayern Munich,2023-12-17 Bayern Munich-Stuttgart,GER-BL1,23-24,c46446dd
+c1b7847c,Konrad Laimer,27,AUT,RB,26-204,90,0,0,0,0,2,1,0,0,61,7,1,0,0.1,0.1,0.0,3,1,38,47,80.9,1,27,3,3,0,Bayern Munich,2023-12-17 Bayern Munich-Stuttgart,GER-BL1,23-24,c46446dd
+8778c910,Manuel Neuer,1,GER,GK,37-265,90,0,0,0,0,0,0,0,0,45,0,0,0,0.0,0.0,0.0,0,0,32,44,72.7,0,41,0,0,0,Bayern Munich,2023-12-17 Bayern Munich-Stuttgart,GER-BL1,23-24,c46446dd
+923f4dda,Serhou Guirassy,9,GUI,FW,27-280,90,0,0,0,0,1,0,0,0,45,0,0,0,0.1,0.1,0.0,0,0,32,34,94.1,2,23,1,1,1,Stuttgart,2023-12-17 Bayern Munich-Stuttgart,GER-BL1,23-24,c46446dd
+dd549382,Deniz Undav,26,GER,FW,27-151,76,0,0,0,0,1,0,0,0,31,1,1,1,0.1,0.1,0.0,1,0,15,24,62.5,1,15,1,2,2,Stuttgart,2023-12-17 Bayern Munich-Stuttgart,GER-BL1,23-24,c46446dd
+6190474d,Jeong Woo-yeong,10,KOR,FW,24-088,14,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,5,7,71.4,1,4,0,0,0,Stuttgart,2023-12-17 Bayern Munich-Stuttgart,GER-BL1,23-24,c46446dd
+0cf778df,Chris Führich,27,GER,LM,25-342,58,0,0,0,0,0,0,0,0,43,3,0,0,0.0,0.0,0.0,1,0,29,33,87.9,1,32,0,5,1,Stuttgart,2023-12-17 Bayern Munich-Stuttgart,GER-BL1,23-24,c46446dd
+de4cac2d,Silas Katompa,14,COD,"LM,CM",25-072,32,0,0,0,0,0,0,0,0,13,0,0,1,0.0,0.0,0.0,0,0,3,8,37.5,0,9,0,2,0,Stuttgart,2023-12-17 Bayern Munich-Stuttgart,GER-BL1,23-24,c46446dd
+3b1ed320,Angelo Stiller,6,GER,CM,22-257,90,0,0,0,0,0,0,0,0,102,2,0,2,0.0,0.0,0.2,3,0,82,91,90.1,6,48,1,1,0,Stuttgart,2023-12-17 Bayern Munich-Stuttgart,GER-BL1,23-24,c46446dd
+5762be5c,Atakan Karazor,16,GER,CM,27-065,90,0,0,0,0,1,0,1,0,79,5,1,0,0.0,0.0,0.0,0,0,62,69,89.9,4,38,0,1,0,Stuttgart,2023-12-17 Bayern Munich-Stuttgart,GER-BL1,23-24,c46446dd
+f76022e7,Enzo Millot,8,FRA,RM,21-153,58,0,0,0,0,0,0,0,0,41,4,0,0,0.0,0.0,0.1,1,0,29,36,80.6,5,17,1,1,1,Stuttgart,2023-12-17 Bayern Munich-Stuttgart,GER-BL1,23-24,c46446dd
+13fe7b69,Jamie Leweling,18,GER,"RM,WB",22-294,32,0,0,0,0,1,1,1,0,19,1,0,0,0.0,0.0,0.0,1,0,11,15,73.3,1,12,2,2,0,Stuttgart,2023-12-17 Bayern Munich-Stuttgart,GER-BL1,23-24,c46446dd
+88d4144a,Maximilian Mittelstädt,7,GER,"LB,WB",26-274,90,0,0,0,0,1,1,1,0,121,3,1,3,0.0,0.0,0.0,1,0,101,108,93.5,14,64,4,5,3,Stuttgart,2023-12-17 Bayern Munich-Stuttgart,GER-BL1,23-24,c46446dd
+a4effc55,Dan-Axel Zagadou,23,FRA,CB,24-197,90,0,0,0,0,1,0,0,0,133,1,3,4,0.2,0.2,0.0,1,0,110,117,94.0,5,83,0,1,1,Stuttgart,2023-12-17 Bayern Munich-Stuttgart,GER-BL1,23-24,c46446dd
+5e66fa06,Waldemar Anton,2,GER,CB,27-150,58,0,0,0,0,0,0,0,0,77,1,0,1,0.0,0.0,0.0,1,0,66,70,94.3,8,49,0,1,0,Stuttgart,2023-12-17 Bayern Munich-Stuttgart,GER-BL1,23-24,c46446dd
+9b545925,Anthony Rouault,29,FRA,CB,22-202,32,0,0,0,0,0,0,0,0,42,2,0,1,0.0,0.0,0.0,0,0,34,39,87.2,2,27,0,0,0,Stuttgart,2023-12-17 Bayern Munich-Stuttgart,GER-BL1,23-24,c46446dd
+fb377d11,Josha Vagnoman,4,GER,RB,23-006,82,0,0,0,0,0,0,0,0,61,1,1,0,0.0,0.0,0.1,2,0,44,51,86.3,1,31,2,3,1,Stuttgart,2023-12-17 Bayern Munich-Stuttgart,GER-BL1,23-24,c46446dd
+08391d76,Leonidas Stergiou,20,SUI,"RB,CB",21-289,8,0,0,0,0,0,0,0,0,7,0,0,1,0.0,0.0,0.0,0,0,5,6,83.3,1,3,0,0,0,Stuttgart,2023-12-17 Bayern Munich-Stuttgart,GER-BL1,23-24,c46446dd
+afb0c500,Alexander Nübel,33,GER,GK,27-078,90,0,0,0,0,0,0,0,0,43,0,0,0,0.0,0.0,0.0,0,0,36,39,92.3,0,25,0,0,0,Stuttgart,2023-12-17 Bayern Munich-Stuttgart,GER-BL1,23-24,c46446dd

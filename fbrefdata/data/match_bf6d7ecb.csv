@@ -1,0 +1,29 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+43a2e16c,Mirco Antenucci,7,ITA,FW,34-084,84,0,0,0,0,2,0,0,0,21,0,0,0,0.1,0.1,0.5,4,0,10,12,83.3,1,19,0,0,0,SPAL,2018-12-01 SPAL-Empoli,ITA-SERIA_A,18-19,bf6d7ecb
+c414df9d,Mattia Valoti,8,ITA,RM,25-086,6,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,1,1,0,0,0,SPAL,2018-12-01 SPAL-Empoli,ITA-SERIA_A,18-19,bf6d7ecb
+03f946ed,Andrea Petagna,37,ITA,FW,23-154,67,0,0,0,0,1,1,0,0,17,1,0,0,0.0,0.0,0.1,2,1,12,14,85.7,5,9,0,1,1,SPAL,2018-12-01 SPAL-Empoli,ITA-SERIA_A,18-19,bf6d7ecb
+b5cae4e6,Alberto Paloschi,43,ITA,FW,28-331,23,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,1,4,25.0,0,4,0,0,0,SPAL,2018-12-01 SPAL-Empoli,ITA-SERIA_A,18-19,bf6d7ecb
+144607cc,Jasmin Kurtić,19,SVN,"CM,LM",29-325,90,2,0,0,0,3,3,1,0,72,0,1,1,0.5,0.5,0.1,3,0,46,58,79.3,0,52,4,0,0,SPAL,2018-12-01 SPAL-Empoli,ITA-SERIA_A,18-19,bf6d7ecb
+bd84fc61,Pasquale Schiattarella,28,ITA,CM,31-185,90,0,1,0,0,1,0,1,0,62,3,1,2,0.0,0.0,0.1,1,1,42,53,79.2,3,32,0,0,0,SPAL,2018-12-01 SPAL-Empoli,ITA-SERIA_A,18-19,bf6d7ecb
+331c0a43,Simone Missiroli,6,ITA,"CM,RM",32-192,74,0,0,0,0,1,0,0,0,38,3,1,0,0.0,0.0,0.0,2,0,26,30,86.7,4,25,1,2,1,SPAL,2018-12-01 SPAL-Empoli,ITA-SERIA_A,18-19,bf6d7ecb
+3799e138,Everton Luiz,25,BRA,"RM,CM",30-191,16,0,0,0,0,0,0,0,0,6,1,0,1,0.0,0.0,0.0,0,0,2,2,100.0,1,1,0,0,0,SPAL,2018-12-01 SPAL-Empoli,ITA-SERIA_A,18-19,bf6d7ecb
+b7a5bc86,Mohamed Fares,93,ALG,"WB,LB",22-289,90,0,0,0,0,1,0,0,0,85,5,3,4,0.0,0.0,0.0,2,0,50,63,79.4,3,29,3,3,2,SPAL,2018-12-01 SPAL-Empoli,ITA-SERIA_A,18-19,bf6d7ecb
+02caf6e0,Manuel Lazzari,29,ITA,"WB,RB",25-002,90,0,1,0,0,1,1,0,0,44,1,0,1,0.0,0.0,0.0,3,2,23,32,71.9,1,32,7,7,6,SPAL,2018-12-01 SPAL-Empoli,ITA-SERIA_A,18-19,bf6d7ecb
+8cea6319,Felipe dal Belo,27,BRA,CB,34-123,90,0,0,0,0,0,0,1,0,62,0,1,2,0.0,0.0,0.0,0,0,46,56,82.1,2,38,0,0,0,SPAL,2018-12-01 SPAL-Empoli,ITA-SERIA_A,18-19,bf6d7ecb
+de045b15,Francesco Vicari,23,ITA,CB,24-120,90,0,0,0,0,0,0,0,0,51,0,0,1,0.0,0.0,0.0,0,0,42,46,91.3,0,35,0,0,0,SPAL,2018-12-01 SPAL-Empoli,ITA-SERIA_A,18-19,bf6d7ecb
+46f5c54d,Thiago Cionek,4,POL,CB,32-224,48,0,0,0,0,0,0,0,1,37,3,0,0,0.0,0.0,0.0,1,0,25,32,78.1,4,22,1,0,0,SPAL,2018-12-01 SPAL-Empoli,ITA-SERIA_A,18-19,bf6d7ecb
+cecbce23,Alfred Gomis,1,SEN,GK,25-087,90,0,0,0,0,0,0,0,0,44,0,0,0,0.0,0.0,0.0,0,0,24,39,61.5,0,18,0,0,0,SPAL,2018-12-01 SPAL-Empoli,ITA-SERIA_A,18-19,bf6d7ecb
+5bd72174,Francesco Caputo,11,ITA,FW,31-117,90,1,0,0,0,7,3,0,0,37,0,1,0,1.6,1.6,0.1,5,1,20,21,95.2,2,26,5,2,0,Empoli,2018-12-01 SPAL-Empoli,ITA-SERIA_A,18-19,bf6d7ecb
+822a7761,Antonino La Gumina,20,ITA,FW,22-270,72,0,0,0,0,2,0,0,0,13,0,0,0,0.2,0.2,0.0,0,0,5,6,83.3,0,9,2,2,1,Empoli,2018-12-01 SPAL-Empoli,ITA-SERIA_A,18-19,bf6d7ecb
+54ab361e,Levan Mchedlidze,7,GEO,FW,28-252,18,0,0,0,0,1,1,1,0,5,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,4,1,0,0,Empoli,2018-12-01 SPAL-Empoli,ITA-SERIA_A,18-19,bf6d7ecb
+570bb4b9,Hamed Junior Traorè,8,CIV,CM,18-288,90,0,0,0,0,2,0,0,0,37,3,1,0,0.1,0.1,0.1,3,0,18,27,66.7,4,23,2,2,1,Empoli,2018-12-01 SPAL-Empoli,ITA-SERIA_A,18-19,bf6d7ecb
+db092d3b,Ismaël Bennacer,10,ALG,CM,21-000,90,0,1,0,0,2,2,0,0,59,4,2,1,0.0,0.0,0.1,3,1,40,54,74.1,4,30,1,2,1,Empoli,2018-12-01 SPAL-Empoli,ITA-SERIA_A,18-19,bf6d7ecb
+817c6964,Rade Krunić,33,BIH,CM,25-055,73,1,1,0,0,2,1,1,0,34,1,1,2,0.1,0.1,1.2,6,2,18,26,69.2,4,20,6,1,1,Empoli,2018-12-01 SPAL-Empoli,ITA-SERIA_A,18-19,bf6d7ecb
+83e4643e,Miha Zajc,6,SVN,CM,24-153,17,0,0,0,0,1,0,0,0,17,0,0,2,0.0,0.0,0.0,2,0,7,10,70.0,2,8,1,4,2,Empoli,2018-12-01 SPAL-Empoli,ITA-SERIA_A,18-19,bf6d7ecb
+548902cc,Manuel Pasqual,23,ITA,WB,36-263,90,0,0,0,0,0,0,0,0,64,0,0,1,0.0,0.0,0.0,1,0,41,58,70.7,7,37,1,1,0,Empoli,2018-12-01 SPAL-Empoli,ITA-SERIA_A,18-19,bf6d7ecb
+230a2fac,Giovanni Di Lorenzo,2,ITA,WB,25-119,90,0,0,0,0,0,0,0,0,77,2,2,1,0.0,0.0,0.1,3,0,45,66,68.2,7,46,1,0,0,Empoli,2018-12-01 SPAL-Empoli,ITA-SERIA_A,18-19,bf6d7ecb
+3d936ba9,Domenico Maietta,22,ITA,CB,36-120,90,0,0,0,0,1,0,1,0,52,2,1,1,0.0,0.0,0.0,3,0,35,43,81.4,9,31,2,2,2,Empoli,2018-12-01 SPAL-Empoli,ITA-SERIA_A,18-19,bf6d7ecb
+b6ca47a2,Matías Silvestre,26,ARG,CB,34-067,90,0,0,0,0,0,0,0,0,33,0,0,0,0.0,0.0,0.0,0,0,23,29,79.3,1,23,0,0,0,Empoli,2018-12-01 SPAL-Empoli,ITA-SERIA_A,18-19,bf6d7ecb
+d541e703,Freddie Veseli,5,ALB,CB,26-011,90,0,0,0,0,0,0,0,0,54,2,1,0,0.0,0.0,0.0,0,0,36,46,78.3,0,27,0,0,0,Empoli,2018-12-01 SPAL-Empoli,ITA-SERIA_A,18-19,bf6d7ecb
+277da414,Ivan Provedel,1,ITA,GK,24-259,90,0,0,0,0,0,0,0,0,26,0,0,0,0.0,0.0,0.0,0,0,22,25,88.0,0,9,0,0,0,Empoli,2018-12-01 SPAL-Empoli,ITA-SERIA_A,18-19,bf6d7ecb

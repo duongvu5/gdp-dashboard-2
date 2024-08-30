@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+82e9b89d,Enric Gallego,10,ESP,FW,33-007,67,0,0,0,0,1,1,0,0,33,3,0,2,0.0,0.0,0.0,1,0,12,21,57.1,2,16,1,0,0,Getafe,2019-09-19 Getafe-Trabzonspor,UEL,19-20,bc469527
+02319ad7,Jaime Mata,7,ESP,FW,30-330,23,0,0,0,0,1,1,1,0,15,0,0,1,0.3,0.3,0.0,2,0,8,10,80.0,1,11,1,1,0,Getafe,2019-09-19 Getafe-Trabzonspor,UEL,19-20,bc469527
+8cfc2f69,Ángel Rodríguez,9,ESP,FW,32-146,90,1,0,0,0,5,2,0,0,33,3,0,0,0.6,0.6,0.0,1,0,16,20,80.0,3,21,5,2,2,Getafe,2019-09-19 Getafe-Trabzonspor,UEL,19-20,bc469527
+5eebbfdf,Kenedy,25,BRA,LM,23-223,76,0,0,0,0,4,1,1,0,35,3,0,1,0.2,0.2,0.0,0,0,12,18,66.7,2,20,4,2,1,Getafe,2019-09-19 Getafe-Trabzonspor,UEL,19-20,bc469527
+1daec722,Marc Cucurella,15,ESP,LM,21-059,14,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,4,5,80.0,0,1,0,0,0,Getafe,2019-09-19 Getafe-Trabzonspor,UEL,19-20,bc469527
+174651c8,David Timor,24,ESP,CM,29-337,89,0,0,0,0,1,1,0,0,34,2,1,1,0.0,0.0,0.0,2,0,19,29,65.5,2,19,0,1,1,Getafe,2019-09-19 Getafe-Trabzonspor,UEL,19-20,bc469527
+58afe001,Mauro Arambarri,18,URU,CM,23-354,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Getafe,2019-09-19 Getafe-Trabzonspor,UEL,19-20,bc469527
+79135368,Fayçal Fajr,21,MAR,CM,31-049,90,0,0,0,0,1,0,1,0,43,2,0,0,0.0,0.0,0.1,5,1,29,40,72.5,6,21,2,0,0,Getafe,2019-09-19 Getafe-Trabzonspor,UEL,19-20,bc469527
+8e010ff4,Francisco Portillo,8,ESP,RM,29-098,90,0,0,0,0,0,0,0,0,37,1,0,0,0.0,0.0,0.3,2,0,19,26,73.1,2,27,1,2,0,Getafe,2019-09-19 Getafe-Trabzonspor,UEL,19-20,bc469527
+1a317a1b,Raúl García,14,ESP,LB,30-142,90,0,1,0,0,0,0,0,0,54,2,0,0,0.0,0.0,0.5,3,1,30,47,63.8,2,22,1,1,1,Getafe,2019-09-19 Getafe-Trabzonspor,UEL,19-20,bc469527
+f11fe861,Bruno González,4,ESP,CB,29-118,90,0,0,0,0,0,0,0,0,37,0,3,1,0.0,0.0,0.0,0,0,20,26,76.9,1,12,0,0,0,Getafe,2019-09-19 Getafe-Trabzonspor,UEL,19-20,bc469527
+a4971d84,Djené,2,TOG,CB,27-262,90,0,0,0,0,1,0,0,0,41,1,0,1,0.1,0.1,0.0,1,0,26,36,72.2,4,22,1,0,0,Getafe,2019-09-19 Getafe-Trabzonspor,UEL,19-20,bc469527
+97572117,Allan Nyom,12,CMR,RB,31-132,90,0,0,0,0,0,0,0,0,44,0,1,2,0.0,0.0,0.0,2,0,24,36,66.7,2,22,1,0,0,Getafe,2019-09-19 Getafe-Trabzonspor,UEL,19-20,bc469527
+8d957256,Leandro Chichizola,1,ARG,GK,29-176,90,0,0,0,0,0,0,0,0,37,0,0,0,0.0,0.0,0.0,0,0,21,37,56.8,0,20,0,0,0,Getafe,2019-09-19 Getafe-Trabzonspor,UEL,19-20,bc469527
+e92cd3f7,Alexander Sørloth,11,NOR,"FW,RW",23-288,90,0,0,0,0,1,0,0,0,39,2,0,1,0.1,0.1,0.0,2,0,20,30,66.7,1,24,0,1,1,Trabzonspor,2019-09-19 Getafe-Trabzonspor,UEL,19-20,bc469527
+f30a4ab1,Anthony Nwakaeme,9,NGA,"LM,LW",30-182,82,0,0,0,0,1,0,0,0,48,0,0,0,0.1,0.1,0.0,0,0,25,39,64.1,0,35,3,2,1,Trabzonspor,2019-09-19 Getafe-Trabzonspor,UEL,19-20,bc469527
+40ca6712,Fıratcan Üzüm,26,,LW,20-107,8,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,3,0,0,0,Trabzonspor,2019-09-19 Getafe-Trabzonspor,UEL,19-20,bc469527
+1eecc0c6,José Sosa,8,ARG,"CM,AM",34-092,90,0,0,0,0,1,0,1,0,65,1,2,0,0.0,0.0,0.1,3,0,47,59,79.7,11,37,2,1,0,Trabzonspor,2019-09-19 Getafe-Trabzonspor,UEL,19-20,bc469527
+571d3ac1,Doğan Erdoğan,21,TUR,CM,23-028,58,0,0,0,0,0,0,0,0,34,2,0,0,0.0,0.0,0.0,0,0,20,27,74.1,1,20,0,0,0,Trabzonspor,2019-09-19 Getafe-Trabzonspor,UEL,19-20,bc469527
+ce5a24b9,Abdülkadir Parmak,61,TUR,DM,24-265,32,0,0,0,0,1,0,0,0,16,0,0,0,0.0,0.0,0.0,1,0,13,14,92.9,1,16,1,2,2,Trabzonspor,2019-09-19 Getafe-Trabzonspor,UEL,19-20,bc469527
+e65a7469,Donis Avdijaj,7,KVX,RM,23-025,45,0,0,0,0,0,0,0,0,18,0,0,0,0.0,0.0,0.0,0,0,8,11,72.7,0,13,1,3,1,Trabzonspor,2019-09-19 Getafe-Trabzonspor,UEL,19-20,bc469527
+1b7ec703,Daniel Sturridge,19,ENG,"FW,RM",30-018,45,0,0,0,0,1,0,0,0,11,1,0,0,0.1,0.1,0.0,0,0,6,6,100.0,0,6,1,2,1,Trabzonspor,2019-09-19 Getafe-Trabzonspor,UEL,19-20,bc469527
+424d5f72,John Obi Mikel,12,NGA,DM,32-150,90,0,0,0,0,0,0,0,0,72,5,0,0,0.0,0.0,0.0,0,0,51,61,83.6,3,38,0,0,0,Trabzonspor,2019-09-19 Getafe-Trabzonspor,UEL,19-20,bc469527
+e0f613ad,Filip Novák,77,CZE,LB,29-085,90,0,0,0,0,0,0,0,0,59,1,1,1,0.0,0.0,0.0,0,0,42,51,82.4,0,28,1,0,0,Trabzonspor,2019-09-19 Getafe-Trabzonspor,UEL,19-20,bc469527
+74223a01,Gastón Campi,22,ARG,CB,28-166,90,0,0,0,0,0,0,1,0,69,2,7,2,0.0,0.0,0.0,0,0,48,55,87.3,2,48,0,0,0,Trabzonspor,2019-09-19 Getafe-Trabzonspor,UEL,19-20,bc469527
+d2161bae,Majid Hosseini,5,IRN,CB,23-091,90,0,0,0,0,0,0,0,0,63,1,3,1,0.0,0.0,0.0,0,0,41,53,77.4,0,36,0,1,1,Trabzonspor,2019-09-19 Getafe-Trabzonspor,UEL,19-20,bc469527
+aefd0c5b,João Pereira,47,POR,RB,35-206,90,0,0,0,0,0,0,0,0,83,0,0,0,0.0,0.0,0.1,3,0,64,77,83.1,2,38,4,1,1,Trabzonspor,2019-09-19 Getafe-Trabzonspor,UEL,19-20,bc469527
+f63a8347,Uğurcan Çakır,1,TUR,GK,23-167,90,0,0,0,0,0,0,0,0,38,0,0,0,0.0,0.0,0.0,0,0,24,34,70.6,0,19,0,0,0,Trabzonspor,2019-09-19 Getafe-Trabzonspor,UEL,19-20,bc469527

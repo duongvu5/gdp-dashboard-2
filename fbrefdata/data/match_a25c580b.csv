@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+8f866fe8,Manolo Gabbiadini,23,ITA,FW,29-115,66,0,1,0,0,0,0,0,0,15,0,0,0,0.0,0.0,0.5,2,1,7,11,63.6,2,11,0,1,1,Sampdoria,2021-03-21 Sampdoria-Torino,ITA-SERIA_A,20-21,a25c580b
+509a4ccb,Keita Baldé,10,SEN,FW,26-013,24,0,0,0,0,1,1,0,0,12,2,0,1,0.3,0.3,0.1,1,0,1,5,20.0,1,10,3,1,1,Sampdoria,2021-03-21 Sampdoria-Torino,ITA-SERIA_A,20-21,a25c580b
+ee4f2f3b,Fabio Quagliarella,27,ITA,FW,38-049,87,0,0,0,0,2,0,0,0,34,1,0,3,0.1,0.1,0.0,1,0,16,22,72.7,3,20,1,0,0,Sampdoria,2021-03-21 Sampdoria-Torino,ITA-SERIA_A,20-21,a25c580b
+215f3907,Mikkel Damsgaard,38,DEN,FW,20-261,3,0,0,0,0,0,0,0,0,3,1,0,0,0.0,0.0,0.0,0,0,0,0,,0,2,0,0,0,Sampdoria,2021-03-21 Sampdoria-Torino,ITA-SERIA_A,20-21,a25c580b
+1ea5f91c,Jakub Jankto,14,CZE,LM,25-061,90,0,0,0,0,1,0,0,0,34,2,2,0,0.1,0.1,0.0,0,0,17,24,70.8,1,16,0,0,0,Sampdoria,2021-03-21 Sampdoria-Torino,ITA-SERIA_A,20-21,a25c580b
+f503ea63,Albin Ekdal,6,SWE,CM,31-236,90,0,0,0,0,1,0,0,0,37,2,4,0,0.1,0.1,0.0,0,0,13,19,68.4,3,19,0,2,2,Sampdoria,2021-03-21 Sampdoria-Torino,ITA-SERIA_A,20-21,a25c580b
+d1b49282,Morten Thorsby,18,NOR,CM,24-320,90,0,0,0,0,0,0,0,0,38,2,2,3,0.0,0.0,0.0,0,0,20,27,74.1,2,15,1,0,0,Sampdoria,2021-03-21 Sampdoria-Torino,ITA-SERIA_A,20-21,a25c580b
+356c9002,Antonio Candreva,87,ITA,RM,34-021,87,1,0,0,0,1,1,0,0,43,0,0,2,0.4,0.4,0.0,0,0,16,32,50.0,1,25,1,1,0,Sampdoria,2021-03-21 Sampdoria-Torino,ITA-SERIA_A,20-21,a25c580b
+d0dbca9f,Alex Ferrari,25,ITA,RM,26-263,3,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,0,0,0,0,Sampdoria,2021-03-21 Sampdoria-Torino,ITA-SERIA_A,20-21,a25c580b
+3cd3b384,Tommaso Augello,3,ITA,LB,26-203,90,0,0,0,0,0,0,0,0,47,1,1,0,0.0,0.0,0.0,3,1,27,40,67.5,4,25,1,1,1,Sampdoria,2021-03-21 Sampdoria-Torino,ITA-SERIA_A,20-21,a25c580b
+8b95acda,Omar Colley,15,GAM,CB,28-148,90,0,0,0,0,0,0,0,0,52,0,2,1,0.0,0.0,0.0,0,0,32,41,78.0,5,28,0,0,0,Sampdoria,2021-03-21 Sampdoria-Torino,ITA-SERIA_A,20-21,a25c580b
+8cc29864,Lorenzo Tonelli,21,ITA,CB,31-063,72,0,0,0,0,0,0,0,0,29,0,1,0,0.0,0.0,0.0,0,0,16,24,66.7,0,9,0,0,0,Sampdoria,2021-03-21 Sampdoria-Torino,ITA-SERIA_A,20-21,a25c580b
+caffaf5a,Maya Yoshida,22,JPN,CB,32-209,18,0,0,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.3,1,0,6,8,75.0,3,0,0,0,0,Sampdoria,2021-03-21 Sampdoria-Torino,ITA-SERIA_A,20-21,a25c580b
+61b3978f,Bartosz Bereszyński,24,POL,RB,28-252,90,0,0,0,0,0,0,0,0,57,0,1,3,0.0,0.0,0.0,0,0,34,46,73.9,2,26,1,0,0,Sampdoria,2021-03-21 Sampdoria-Torino,ITA-SERIA_A,20-21,a25c580b
+649b01d8,Emil Audero,1,ITA,GK,24-062,90,0,0,0,0,0,0,0,0,34,0,0,0,0.0,0.0,0.0,0,0,17,33,51.5,0,14,0,0,0,Sampdoria,2021-03-21 Sampdoria-Torino,ITA-SERIA_A,20-21,a25c580b
+d705ba44,Andrea Belotti,9,ITA,FW,27-091,90,0,0,0,0,5,0,0,0,40,0,0,0,0.5,0.5,0.0,3,0,22,28,78.6,3,29,4,2,2,Torino,2021-03-21 Sampdoria-Torino,ITA-SERIA_A,20-21,a25c580b
+0a447501,Antonio Sanabria,19,PAR,FW,25-017,58,0,0,0,0,0,0,0,0,16,0,0,0,0.0,0.0,0.0,1,0,13,14,92.9,0,17,0,1,1,Torino,2021-03-21 Sampdoria-Torino,ITA-SERIA_A,20-21,a25c580b
+9592289a,Simone Zaza,11,ITA,FW,29-269,32,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.3,1,0,6,6,100.0,1,4,0,0,0,Torino,2021-03-21 Sampdoria-Torino,ITA-SERIA_A,20-21,a25c580b
+51ffa295,Amer Gojak,10,BIH,CM,24-036,79,0,0,0,0,3,0,0,0,44,0,1,0,0.1,0.1,0.0,4,0,34,40,85.0,3,38,1,3,2,Torino,2021-03-21 Sampdoria-Torino,ITA-SERIA_A,20-21,a25c580b
+bf57eaab,Federico Bonazzoli,26,ITA,WB,23-304,11,0,0,0,0,1,0,0,0,12,0,0,0,0.0,0.0,0.0,1,0,10,11,90.9,1,10,0,1,1,Torino,2021-03-21 Sampdoria-Torino,ITA-SERIA_A,20-21,a25c580b
+c7259b83,Rolando Mandragora,38,ITA,CM,23-265,90,0,0,0,0,2,0,0,0,74,0,1,3,0.1,0.1,0.0,0,0,54,67,80.6,8,43,0,2,2,Torino,2021-03-21 Sampdoria-Torino,ITA-SERIA_A,20-21,a25c580b
+f1cfc209,Tomás Rincón,88,VEN,CM,33-067,79,0,0,0,0,0,0,0,0,50,2,0,0,0.0,0.0,0.0,0,0,28,39,71.8,4,32,2,1,1,Torino,2021-03-21 Sampdoria-Torino,ITA-SERIA_A,20-21,a25c580b
+d183e9d6,Nicola Murru,29,ITA,WB,26-095,11,0,0,0,0,0,0,0,0,12,0,0,0,0.0,0.0,0.0,0,0,7,11,63.6,1,5,0,0,0,Torino,2021-03-21 Sampdoria-Torino,ITA-SERIA_A,20-21,a25c580b
+bbafc0c4,Cristian Ansaldi,15,ARG,"WB,CM",34-182,90,0,0,0,0,0,0,0,0,80,1,0,2,0.0,0.0,0.1,4,0,45,69,65.2,9,51,7,5,4,Torino,2021-03-21 Sampdoria-Torino,ITA-SERIA_A,20-21,a25c580b
+be2706c0,Mërgim Vojvoda,27,KVX,WB,26-048,58,0,0,0,0,0,0,0,0,61,0,1,1,0.0,0.0,0.0,0,0,41,55,74.5,2,40,3,0,0,Torino,2021-03-21 Sampdoria-Torino,ITA-SERIA_A,20-21,a25c580b
+0375723e,Simone Verdi,24,ITA,"WB,CM",28-252,32,0,0,0,0,0,0,0,0,24,0,0,0,0.0,0.0,0.0,3,0,11,22,50.0,1,15,2,3,2,Torino,2021-03-21 Sampdoria-Torino,ITA-SERIA_A,20-21,a25c580b
+5fd5ed86,Gleison Bremer,3,BRA,CB,24-003,90,0,0,0,0,0,0,0,0,75,2,2,2,0.0,0.0,0.0,0,0,58,66,87.9,2,51,1,0,0,Torino,2021-03-21 Sampdoria-Torino,ITA-SERIA_A,20-21,a25c580b
+b5bf1770,Lyanco,4,BRA,CB,24-048,90,0,0,0,0,0,0,1,0,76,1,2,1,0.0,0.0,0.0,1,0,52,66,78.8,7,53,2,1,0,Torino,2021-03-21 Sampdoria-Torino,ITA-SERIA_A,20-21,a25c580b
+89976232,Armando Izzo,5,ITA,CB,29-019,72,0,0,0,0,0,0,0,0,56,2,1,0,0.0,0.0,0.1,2,0,36,46,78.3,3,36,1,1,1,Torino,2021-03-21 Sampdoria-Torino,ITA-SERIA_A,20-21,a25c580b
+8b609c34,Wilfried Singo,17,CIV,CB,20-086,18,0,0,0,0,0,0,0,0,14,0,0,0,0.0,0.0,0.0,0,0,9,14,64.3,0,10,1,0,0,Torino,2021-03-21 Sampdoria-Torino,ITA-SERIA_A,20-21,a25c580b
+10dc46f0,Salvatore Sirigu,39,ITA,GK,34-068,90,0,0,0,0,0,0,0,0,36,0,0,0,0.0,0.0,0.0,0,0,29,36,80.6,0,21,0,0,0,Torino,2021-03-21 Sampdoria-Torino,ITA-SERIA_A,20-21,a25c580b

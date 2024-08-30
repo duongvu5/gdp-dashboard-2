@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+74c7c2db,Robin Quaison,7,SWE,FW,25-340,90,1,0,0,0,2,1,0,0,25,1,0,0,0.7,0.7,0.0,4,0,12,15,80.0,1,20,0,6,2,Mainz 05,2019-09-14 Mainz 05-Hertha BSC,GER-BL1,19-20,2575bd97
+53e07d0b,Ádám Szalai,28,HUN,FW,31-279,75,0,0,0,0,2,1,0,0,28,0,0,2,0.2,0.2,0.0,2,0,13,17,76.5,0,21,1,4,2,Mainz 05,2019-09-14 Mainz 05-Hertha BSC,GER-BL1,19-20,2575bd97
+f26834c7,Karim Onisiwo,21,AUT,FW,27-181,15,0,0,0,0,0,0,0,0,10,0,1,0,0.0,0.0,0.0,0,0,4,7,57.1,1,8,1,1,1,Mainz 05,2019-09-14 Mainz 05-Hertha BSC,GER-BL1,19-20,2575bd97
+635f2732,Jean-Paul Boëtius,5,NED,AM,25-176,90,0,0,0,0,0,0,0,0,46,4,1,1,0.0,0.0,0.0,4,1,29,38,76.3,2,29,1,1,1,Mainz 05,2019-09-14 Mainz 05-Hertha BSC,GER-BL1,19-20,2575bd97
+33b554b7,Danny Latza,6,GER,LM,29-281,87,0,0,0,0,1,1,0,0,44,2,0,1,0.0,0.0,0.0,0,0,30,34,88.2,5,26,2,2,2,Mainz 05,2019-09-14 Mainz 05-Hertha BSC,GER-BL1,19-20,2575bd97
+05f99a4a,Jonathan Burkardt,29,GER,LM,19-065,3,0,0,0,0,1,0,0,0,5,1,0,1,0.0,0.0,0.0,0,0,0,0,,0,3,1,0,0,Mainz 05,2019-09-14 Mainz 05-Hertha BSC,GER-BL1,19-20,2575bd97
+3bb625ac,Edimilson Fernandes,20,SUI,RM,23-152,66,0,0,0,0,1,0,0,0,45,6,1,1,0.0,0.0,0.0,1,0,20,29,69.0,5,27,0,2,0,Mainz 05,2019-09-14 Mainz 05-Hertha BSC,GER-BL1,19-20,2575bd97
+442b56fa,Ridle Baku,34,GER,RM,21-159,24,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,1,0,5,6,83.3,0,6,0,0,0,Mainz 05,2019-09-14 Mainz 05-Hertha BSC,GER-BL1,19-20,2575bd97
+9ceb7642,Pierre Kunde,14,CMR,DM,24-050,90,0,0,0,0,2,0,1,0,72,0,3,0,0.1,0.1,0.0,2,0,51,60,85.0,10,52,1,3,2,Mainz 05,2019-09-14 Mainz 05-Hertha BSC,GER-BL1,19-20,2575bd97
+2f3e911a,Aarón Martín,3,ESP,LB,22-145,90,0,0,0,0,0,0,0,0,60,0,0,1,0.0,0.0,0.1,2,0,43,58,74.1,4,37,3,3,3,Mainz 05,2019-09-14 Mainz 05-Hertha BSC,GER-BL1,19-20,2575bd97
+00242715,Moussa Niakhate,19,SEN,CB,23-190,90,0,0,0,0,0,0,0,0,61,2,0,0,0.0,0.0,0.0,0,0,45,54,83.3,6,47,1,1,0,Mainz 05,2019-09-14 Mainz 05-Hertha BSC,GER-BL1,19-20,2575bd97
+90339309,Jerry St. Juste,4,NED,CB,22-330,90,1,0,0,0,2,1,1,0,55,1,0,0,0.1,0.1,0.0,0,0,42,43,97.7,2,41,0,0,0,Mainz 05,2019-09-14 Mainz 05-Hertha BSC,GER-BL1,19-20,2575bd97
+a7813ac4,Daniel Brosinski,18,GER,RB,31-059,90,0,1,0,0,1,1,0,0,68,2,2,0,0.0,0.0,0.1,3,2,47,61,77.0,5,34,2,0,0,Mainz 05,2019-09-14 Mainz 05-Hertha BSC,GER-BL1,19-20,2575bd97
+5c4bf6ba,Robin Zentner,27,GER,GK,24-321,90,0,0,0,0,0,0,0,0,37,0,0,0,0.0,0.0,0.0,1,1,25,33,75.8,0,15,0,0,0,Mainz 05,2019-09-14 Mainz 05-Hertha BSC,GER-BL1,19-20,2575bd97
+1238a3f9,Davie Selke,27,GER,FW,24-237,90,0,0,0,0,4,1,0,0,31,2,0,0,0.5,0.5,0.0,3,0,9,13,69.2,2,17,1,0,0,Hertha BSC,2019-09-14 Mainz 05-Hertha BSC,GER-BL1,19-20,2575bd97
+0c61c77c,Dodi Lukebakio,28,BEL,FW,21-355,62,0,0,0,0,3,1,0,0,25,0,0,1,0.4,0.4,0.3,4,0,12,18,66.7,1,19,0,1,0,Hertha BSC,2019-09-14 Mainz 05-Hertha BSC,GER-BL1,19-20,2575bd97
+2042d931,Salomon Kalou,8,CIV,"FW,CM",34-040,28,0,0,0,0,0,0,0,0,14,0,0,0,0.0,0.0,0.0,0,0,7,9,77.8,3,7,0,0,0,Hertha BSC,2019-09-14 Mainz 05-Hertha BSC,GER-BL1,19-20,2575bd97
+79ca3e23,Ondrej Duda,10,SVK,AM,24-283,68,0,0,0,0,2,2,0,0,39,0,0,1,0.2,0.2,0.1,7,0,23,30,76.7,3,26,3,3,2,Hertha BSC,2019-09-14 Mainz 05-Hertha BSC,GER-BL1,19-20,2575bd97
+70678132,Eduard Löwen,7,GER,"AM,CM",22-229,22,0,0,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.0,0,0,9,10,90.0,1,11,1,0,0,Hertha BSC,2019-09-14 Mainz 05-Hertha BSC,GER-BL1,19-20,2575bd97
+8b8e759d,Marko Grujić,15,SRB,"CM,RM",23-154,90,1,0,0,0,5,4,0,0,40,1,1,0,0.9,0.9,0.0,3,0,23,30,76.7,3,23,1,1,1,Hertha BSC,2019-09-14 Mainz 05-Hertha BSC,GER-BL1,19-20,2575bd97
+ecab64a0,Per Ciljan Skjelbred,3,NOR,"CM,DM",32-090,90,0,0,0,0,0,0,1,0,51,2,3,2,0.0,0.0,0.0,1,0,36,39,92.3,8,28,2,1,1,Hertha BSC,2019-09-14 Mainz 05-Hertha BSC,GER-BL1,19-20,2575bd97
+f7aa75bd,Marvin Plattenhardt,21,GER,"WB,LB",27-231,90,0,0,0,0,1,0,0,0,59,2,1,0,0.2,0.2,0.4,4,0,31,47,66.0,3,18,0,1,1,Hertha BSC,2019-09-14 Mainz 05-Hertha BSC,GER-BL1,19-20,2575bd97
+fa661778,Marius Wolf,30,GER,"WB,RB",24-110,90,0,0,0,0,0,0,0,0,68,2,1,0,0.0,0.0,0.0,3,1,45,57,78.9,8,39,4,3,2,Hertha BSC,2019-09-14 Mainz 05-Hertha BSC,GER-BL1,19-20,2575bd97
+f86cabbd,Jordan Torunarigha,25,GER,CB,22-038,90,0,0,0,0,0,0,0,0,53,7,4,2,0.0,0.0,0.1,2,0,31,36,86.1,3,31,1,1,1,Hertha BSC,2019-09-14 Mainz 05-Hertha BSC,GER-BL1,19-20,2575bd97
+7c473e12,Dedryck Boyata,20,BEL,CB,28-290,79,0,0,0,0,0,0,0,0,59,0,0,2,0.0,0.0,0.0,0,0,48,51,94.1,0,43,0,0,0,Hertha BSC,2019-09-14 Mainz 05-Hertha BSC,GER-BL1,19-20,2575bd97
+34a0f5ff,Javairô Dilrosun,16,NED,"LM,CB",21-084,11,0,1,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.4,2,1,5,6,83.3,1,4,0,0,0,Hertha BSC,2019-09-14 Mainz 05-Hertha BSC,GER-BL1,19-20,2575bd97
+aad48be9,Niklas Stark,5,GER,CB,24-153,90,0,0,0,0,1,0,1,0,50,2,2,0,0.1,0.1,0.0,0,0,35,39,89.7,4,28,0,0,0,Hertha BSC,2019-09-14 Mainz 05-Hertha BSC,GER-BL1,19-20,2575bd97
+27d2618c,Rune Jarstein,22,NOR,GK,34-350,90,0,0,0,0,0,0,0,0,29,0,0,0,0.0,0.0,0.0,1,0,23,27,85.2,0,18,0,0,0,Hertha BSC,2019-09-14 Mainz 05-Hertha BSC,GER-BL1,19-20,2575bd97

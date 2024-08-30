@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+f9e7c4ac,Alfreð Finnbogason,27,ISL,FW,28-312,87,0,0,0,0,0,0,0,0,40,1,0,0,0.0,0.0,0.2,6,0,21,31,67.7,1,22,0,4,1,Augsburg,2017-12-10 Augsburg-Hertha BSC,GER-BL1,17-18,c3bfaffc
+229cd98a,Sergio Córdova,21,VEN,FW,20-123,3,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,2,0,1,0,Augsburg,2017-12-10 Augsburg-Hertha BSC,GER-BL1,17-18,c3bfaffc
+c6637acf,Caiuby,30,BRA,LW,29-149,90,1,0,0,0,5,3,1,0,64,2,1,2,0.6,0.6,0.0,3,1,29,50,58.0,4,31,2,2,1,Augsburg,2017-12-10 Augsburg-Hertha BSC,GER-BL1,17-18,c3bfaffc
+11dbba47,Marcel Heller,7,GER,RW,31-301,75,0,0,0,0,1,0,0,0,44,1,2,0,0.1,0.1,0.4,2,0,15,36,41.7,3,25,4,1,0,Augsburg,2017-12-10 Augsburg-Hertha BSC,GER-BL1,17-18,c3bfaffc
+088ca1bd,Jonathan Schmid,17,FRA,RW,27-171,15,0,0,0,0,1,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,3,5,60.0,1,2,0,1,0,Augsburg,2017-12-10 Augsburg-Hertha BSC,GER-BL1,17-18,c3bfaffc
+8e235926,Michael Gregoritsch,11,AUT,AM,23-236,90,0,0,0,0,3,0,0,0,33,0,0,1,0.4,0.4,0.0,1,0,17,25,68.0,4,16,2,2,0,Augsburg,2017-12-10 Augsburg-Hertha BSC,GER-BL1,17-18,c3bfaffc
+f261abcb,Daniel Baier,10,GER,DM,33-206,90,0,0,0,0,0,0,0,0,79,2,2,0,0.0,0.0,0.2,1,0,62,75,82.7,8,42,1,0,0,Augsburg,2017-12-10 Augsburg-Hertha BSC,GER-BL1,17-18,c3bfaffc
+3c05e082,Koo Ja-cheol,19,KOR,DM,28-286,79,0,0,0,0,3,0,0,0,62,1,0,1,0.2,0.2,0.0,4,0,41,52,78.8,3,31,2,0,0,Augsburg,2017-12-10 Augsburg-Hertha BSC,GER-BL1,17-18,c3bfaffc
+59e4b92e,Rani Khedira,8,GER,DM,23-317,11,0,0,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.0,0,0,5,9,55.6,2,4,0,0,0,Augsburg,2017-12-10 Augsburg-Hertha BSC,GER-BL1,17-18,c3bfaffc
+826e8b63,Philipp Max,31,GER,LB,24-071,90,0,0,0,0,0,0,1,0,75,8,2,0,0.0,0.0,0.2,5,0,41,64,64.1,8,24,2,1,0,Augsburg,2017-12-10 Augsburg-Hertha BSC,GER-BL1,17-18,c3bfaffc
+080440a4,Martin Hinteregger,36,AUT,CB,25-094,90,0,0,0,0,0,0,0,0,71,2,1,2,0.0,0.0,0.0,0,0,49,61,80.3,4,37,4,3,0,Augsburg,2017-12-10 Augsburg-Hertha BSC,GER-BL1,17-18,c3bfaffc
+1025db8e,Jeffrey Gouweleeuw,6,NED,CB,26-153,90,0,0,0,0,2,0,0,0,59,2,2,2,0.2,0.2,0.0,1,0,36,46,78.3,8,33,0,0,0,Augsburg,2017-12-10 Augsburg-Hertha BSC,GER-BL1,17-18,c3bfaffc
+626fab5f,Raphael Framberger,32,GER,RB,22-095,90,0,0,0,0,0,0,0,0,53,4,0,0,0.0,0.0,0.3,4,0,37,45,82.2,5,21,3,2,0,Augsburg,2017-12-10 Augsburg-Hertha BSC,GER-BL1,17-18,c3bfaffc
+2e7ff968,Marwin Hitz,35,SUI,GK,30-083,90,0,0,0,0,0,0,0,0,37,0,0,0,0.0,0.0,0.0,0,0,29,36,80.6,0,20,0,0,0,Augsburg,2017-12-10 Augsburg-Hertha BSC,GER-BL1,17-18,c3bfaffc
+c3fd9887,Vedad Ibišević,19,BIH,FW,33-126,57,0,0,0,0,0,0,0,0,17,0,0,2,0.0,0.0,0.0,1,0,8,14,57.1,0,15,0,0,0,Hertha BSC,2017-12-10 Augsburg-Hertha BSC,GER-BL1,17-18,c3bfaffc
+016ff750,Valentino Lazaro,20,AUT,FW,21-261,33,0,0,0,0,0,0,0,0,10,1,0,1,0.0,0.0,0.0,0,0,6,9,66.7,0,6,1,1,1,Hertha BSC,2017-12-10 Augsburg-Hertha BSC,GER-BL1,17-18,c3bfaffc
+1238a3f9,Davie Selke,27,GER,FW,22-324,90,0,0,0,0,0,0,0,0,33,2,0,1,0.0,0.0,0.1,2,0,11,22,50.0,2,16,2,5,2,Hertha BSC,2017-12-10 Augsburg-Hertha BSC,GER-BL1,17-18,c3bfaffc
+88d4144a,Maximilian Mittelstädt,17,GER,LM,20-267,78,0,0,0,0,1,1,0,0,33,3,0,1,0.0,0.0,0.0,0,0,13,21,61.9,2,18,2,1,0,Hertha BSC,2017-12-10 Augsburg-Hertha BSC,GER-BL1,17-18,c3bfaffc
+2042d931,Salomon Kalou,8,CIV,LM,32-127,12,1,0,0,0,2,2,0,0,8,0,0,0,0.4,0.4,0.0,0,0,3,5,60.0,0,7,0,1,1,Hertha BSC,2017-12-10 Augsburg-Hertha BSC,GER-BL1,17-18,c3bfaffc
+ecab64a0,Per Ciljan Skjelbred,3,NOR,CM,30-177,90,0,0,0,0,0,0,0,0,49,5,0,0,0.0,0.0,0.0,1,0,35,40,87.5,4,24,1,1,0,Hertha BSC,2017-12-10 Augsburg-Hertha BSC,GER-BL1,17-18,c3bfaffc
+aad48be9,Niklas Stark,5,GER,CM,22-240,90,0,1,0,0,0,0,0,0,36,4,1,3,0.0,0.0,0.4,3,1,15,22,68.2,4,11,0,0,0,Hertha BSC,2017-12-10 Augsburg-Hertha BSC,GER-BL1,17-18,c3bfaffc
+b93b7882,Mathew Leckie,11,AUS,RM,26-309,57,0,0,0,0,1,0,1,0,27,1,2,1,0.0,0.0,0.0,2,0,12,19,63.2,0,15,1,1,0,Hertha BSC,2017-12-10 Augsburg-Hertha BSC,GER-BL1,17-18,c3bfaffc
+b48215cd,Alexander Esswein,7,GER,RM,27-260,33,0,0,0,0,2,1,0,0,17,0,0,0,0.1,0.1,0.0,2,1,10,13,76.9,0,11,0,1,0,Hertha BSC,2017-12-10 Augsburg-Hertha BSC,GER-BL1,17-18,c3bfaffc
+f7aa75bd,Marvin Plattenhardt,21,GER,LB,25-318,90,0,0,0,0,0,0,0,0,56,1,2,3,0.0,0.0,0.0,0,0,34,47,72.3,3,18,0,0,0,Hertha BSC,2017-12-10 Augsburg-Hertha BSC,GER-BL1,17-18,c3bfaffc
+3376a776,Karim Rekik,4,NED,CB,23-008,90,0,0,0,0,0,0,1,0,46,1,3,2,0.0,0.0,0.0,1,0,27,33,81.8,2,17,0,0,0,Hertha BSC,2017-12-10 Augsburg-Hertha BSC,GER-BL1,17-18,c3bfaffc
+74d70fb5,Sebastian Langkamp,15,GER,CB,29-329,90,0,0,0,0,2,0,0,0,64,3,3,1,0.2,0.2,0.0,0,0,35,44,79.5,0,27,0,0,0,Hertha BSC,2017-12-10 Augsburg-Hertha BSC,GER-BL1,17-18,c3bfaffc
+30c220c3,Mitchell Weiser,23,GER,RB,23-233,90,0,0,0,0,0,0,0,0,71,2,3,1,0.0,0.0,0.2,2,0,35,60,58.3,5,32,2,4,1,Hertha BSC,2017-12-10 Augsburg-Hertha BSC,GER-BL1,17-18,c3bfaffc
+27d2618c,Rune Jarstein,22,NOR,GK,33-072,90,0,0,0,0,0,0,0,0,46,0,0,0,0.0,0.0,0.0,0,0,23,43,53.5,0,19,0,0,0,Hertha BSC,2017-12-10 Augsburg-Hertha BSC,GER-BL1,17-18,c3bfaffc

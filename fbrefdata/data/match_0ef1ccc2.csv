@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+d711d04f,Goran Pandev,19,MKD,"FW,AM",38-082,75,0,0,0,0,1,1,0,0,16,0,0,0,0.1,0.1,0.1,1,0,7,12,58.3,1,18,1,0,0,Genoa,2021-10-17 Genoa-Sassuolo,ITA-SERIA_A,21-22,0ef1ccc2
+93b891d1,Felipe Caicedo,9,ECU,FW,33-042,15,0,0,0,0,1,0,0,0,6,1,0,0,0.0,0.0,0.0,0,0,3,3,100.0,0,1,0,0,0,Genoa,2021-10-17 Genoa-Sassuolo,ITA-SERIA_A,21-22,0ef1ccc2
+d7d32194,Mattia Destro,23,ITA,FW,30-211,90,1,0,0,0,5,1,1,0,23,0,0,0,0.4,0.4,0.0,4,0,10,16,62.5,3,11,1,2,1,Genoa,2021-10-17 Genoa-Sassuolo,ITA-SERIA_A,21-22,0ef1ccc2
+e58cbfd5,Nicolò Rovella,65,ITA,"DM,CM,LM",19-317,90,0,1,0,0,0,0,0,0,63,0,0,1,0.0,0.0,0.1,5,2,44,59,74.6,8,37,3,2,2,Genoa,2021-10-17 Genoa-Sassuolo,ITA-SERIA_A,21-22,0ef1ccc2
+e8c930bb,Milan Badelj,47,CRO,CM,32-234,45,0,0,0,0,0,0,0,0,25,3,2,0,0.0,0.0,0.1,3,0,15,17,88.2,0,10,0,1,0,Genoa,2021-10-17 Genoa-Sassuolo,ITA-SERIA_A,21-22,0ef1ccc2
+f95f49d2,Yayah Kallon,91,SLE,AM,20-109,45,0,0,0,0,1,0,0,0,19,1,0,0,0.1,0.1,0.2,3,0,7,16,43.8,0,14,2,1,1,Genoa,2021-10-17 Genoa-Sassuolo,ITA-SERIA_A,21-22,0ef1ccc2
+ef7cd87a,Abdoulaye Touré,94,GUI,"CM,DM,RM",27-228,75,0,0,0,0,1,0,0,0,30,1,0,0,0.0,0.0,0.0,0,0,20,27,74.1,2,17,1,1,1,Genoa,2021-10-17 Genoa-Sassuolo,ITA-SERIA_A,21-22,0ef1ccc2
+d3d758d8,Valon Behrami,11,SUI,DM,36-181,15,0,0,0,0,1,0,0,0,3,0,0,0,0.1,0.1,0.0,1,0,1,2,50.0,0,0,0,0,0,Genoa,2021-10-17 Genoa-Sassuolo,ITA-SERIA_A,21-22,0ef1ccc2
+b7a5bc86,Mohamed Fares,93,ALG,"LB,WB",25-244,90,0,1,0,0,3,0,0,0,58,2,2,0,0.1,0.1,0.1,5,1,29,45,64.4,4,37,3,0,0,Genoa,2021-10-17 Genoa-Sassuolo,ITA-SERIA_A,21-22,0ef1ccc2
+0ccac09c,Stefano Sabelli,2,ITA,WB,28-277,31,0,0,0,0,0,0,0,0,10,1,0,0,0.0,0.0,0.0,1,0,6,9,66.7,2,5,1,0,0,Genoa,2021-10-17 Genoa-Sassuolo,ITA-SERIA_A,21-22,0ef1ccc2
+7afbd2c3,Caleb Ekuban,20,GHA,"AM,FW",27-208,59,0,0,0,0,4,1,0,0,31,1,0,1,0.3,0.3,0.1,5,1,15,19,78.9,2,18,2,0,0,Genoa,2021-10-17 Genoa-Sassuolo,ITA-SERIA_A,21-22,0ef1ccc2
+35dd6d80,Domenico Criscito,4,ITA,CB,34-291,90,0,0,0,0,1,0,0,0,55,3,2,2,0.0,0.0,0.0,0,0,32,40,80.0,2,28,0,0,0,Genoa,2021-10-17 Genoa-Sassuolo,ITA-SERIA_A,21-22,0ef1ccc2
+5eaed77a,Johan Vásquez,15,MEX,CB,22-360,90,1,0,0,0,1,1,0,0,52,4,3,1,0.1,0.1,0.0,0,0,35,38,92.1,2,31,0,0,0,Genoa,2021-10-17 Genoa-Sassuolo,ITA-SERIA_A,21-22,0ef1ccc2
+64cd167d,Davide Biraschi,14,ITA,"CB,RB",27-107,49,0,0,0,0,0,0,1,0,33,3,1,1,0.0,0.0,0.0,0,0,12,22,54.5,2,11,0,0,0,Genoa,2021-10-17 Genoa-Sassuolo,ITA-SERIA_A,21-22,0ef1ccc2
+247ed022,Andrea Cambiaso,50,ITA,RB,21-239,41,0,0,0,0,0,0,0,0,27,2,1,0,0.0,0.0,0.0,4,0,20,23,87.0,1,18,2,0,0,Genoa,2021-10-17 Genoa-Sassuolo,ITA-SERIA_A,21-22,0ef1ccc2
+10dc46f0,Salvatore Sirigu,57,ITA,GK,34-278,90,0,0,0,0,0,0,0,0,37,0,0,0,0.0,0.0,0.0,1,0,24,37,64.9,0,22,0,0,0,Genoa,2021-10-17 Genoa-Sassuolo,ITA-SERIA_A,21-22,0ef1ccc2
+8790f988,Gianluca Scamacca,91,ITA,FW,22-289,72,2,0,0,0,4,3,0,0,23,0,0,0,1.5,1.5,0.1,4,0,11,16,68.8,2,16,0,1,1,Sassuolo,2021-10-17 Genoa-Sassuolo,ITA-SERIA_A,21-22,0ef1ccc2
+854ee61a,Grégoire Defrel,92,MTQ,FW,30-122,18,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,6,6,100.0,0,6,0,1,0,Sassuolo,2021-10-17 Genoa-Sassuolo,ITA-SERIA_A,21-22,0ef1ccc2
+6e058f06,Giacomo Raspadori,18,ITA,LW,21-241,60,0,0,0,0,2,0,0,0,29,2,0,1,0.2,0.2,0.1,3,0,17,22,77.3,2,16,0,0,0,Sassuolo,2021-10-17 Genoa-Sassuolo,ITA-SERIA_A,21-22,0ef1ccc2
+65fd099c,Abdou Harroui,20,NED,"AM,LW,RM",23-277,30,0,0,0,0,0,0,1,0,13,1,0,0,0.0,0.0,0.0,1,0,6,11,54.5,1,12,2,1,1,Sassuolo,2021-10-17 Genoa-Sassuolo,ITA-SERIA_A,21-22,0ef1ccc2
+53a0e358,Domenico Berardi,25,ITA,RW,27-077,89,0,0,0,0,2,1,0,0,54,1,1,0,0.1,0.1,0.0,1,0,30,44,68.2,4,35,3,3,1,Sassuolo,2021-10-17 Genoa-Sassuolo,ITA-SERIA_A,21-22,0ef1ccc2
+07767f42,Francesco Magnanelli,4,ITA,"CM,RW",36-339,1,0,0,0,0,0,0,0,0,4,0,0,1,0.0,0.0,0.0,0,0,2,2,100.0,0,0,0,0,0,Sassuolo,2021-10-17 Genoa-Sassuolo,ITA-SERIA_A,21-22,0ef1ccc2
+eccbe56a,Filip Đuričić,10,SRB,AM,29-260,72,0,0,0,0,2,1,0,0,34,2,0,0,0.2,0.2,0.3,4,0,20,25,80.0,3,28,2,2,0,Sassuolo,2021-10-17 Genoa-Sassuolo,ITA-SERIA_A,21-22,0ef1ccc2
+0a483542,Giorgos Kyriakopoulos,77,GRE,"LW,LM",25-254,18,0,0,0,0,1,0,0,0,8,0,0,0,0.0,0.0,0.0,1,0,5,6,83.3,0,7,1,4,3,Sassuolo,2021-10-17 Genoa-Sassuolo,ITA-SERIA_A,21-22,0ef1ccc2
+20094685,Maxime Lopez,8,FRA,DM,23-317,89,0,0,0,0,0,0,0,0,70,2,0,1,0.0,0.0,0.0,3,1,58,64,90.6,6,60,3,2,1,Sassuolo,2021-10-17 Genoa-Sassuolo,ITA-SERIA_A,21-22,0ef1ccc2
+4b029b31,Edoardo Goldaniga,3,ITA,"CB,DM",27-349,1,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,0,0,0,0,Sassuolo,2021-10-17 Genoa-Sassuolo,ITA-SERIA_A,21-22,0ef1ccc2
+2a7d27c1,Davide Frattesi,16,ITA,"DM,CM",21-360,90,0,0,0,0,3,0,1,0,62,3,1,2,0.2,0.2,0.2,3,1,39,45,86.7,4,39,4,2,0,Sassuolo,2021-10-17 Genoa-Sassuolo,ITA-SERIA_A,21-22,0ef1ccc2
+10e7f486,Rogério,6,BRA,LB,23-277,90,0,0,0,0,0,0,0,0,61,0,0,2,0.0,0.0,0.0,3,0,45,52,86.5,3,35,2,0,0,Sassuolo,2021-10-17 Genoa-Sassuolo,ITA-SERIA_A,21-22,0ef1ccc2
+8650af85,Gian Marco Ferrari,31,ITA,CB,29-244,90,0,0,0,0,1,0,0,0,85,1,0,1,0.1,0.1,0.0,0,0,64,74,86.5,5,48,0,0,0,Sassuolo,2021-10-17 Genoa-Sassuolo,ITA-SERIA_A,21-22,0ef1ccc2
+c316607a,Vlad Chiricheș,21,ROU,CB,31-337,90,0,0,0,0,0,0,1,0,49,3,1,1,0.0,0.0,0.0,0,0,37,40,92.5,3,27,0,1,1,Sassuolo,2021-10-17 Genoa-Sassuolo,ITA-SERIA_A,21-22,0ef1ccc2
+a96e5dc0,Jeremy Toljan,22,GER,RB,27-070,90,0,1,0,0,0,0,1,0,69,2,1,3,0.0,0.0,0.7,2,0,47,58,81.0,1,37,3,0,0,Sassuolo,2021-10-17 Genoa-Sassuolo,ITA-SERIA_A,21-22,0ef1ccc2
+8cabdc1e,Andrea Consigli,47,ITA,GK,34-263,90,0,0,0,0,0,0,0,0,49,0,0,0,0.0,0.0,0.0,0,0,44,47,93.6,0,29,0,0,0,Sassuolo,2021-10-17 Genoa-Sassuolo,ITA-SERIA_A,21-22,0ef1ccc2

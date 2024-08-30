@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+c886b062,Jefferson Farfán,8,PER,FW,33-140,45,0,0,0,0,1,1,0,0,33,0,0,0,0.0,0.0,0.1,3,0,21,27,77.8,0,13,1,0,0,Lokomotiv Moscow,2018-03-15 Loko Moscow-Atlético Madrid,UEL,17-18,1090f83e
+f0fc9d0e,Éder,24,POR,FW,30-083,45,0,0,0,0,1,0,0,0,21,0,0,0,0.2,0.2,0.0,0,0,14,17,82.4,1,9,1,2,0,Lokomotiv Moscow,2018-03-15 Loko Moscow-Atlético Madrid,UEL,17-18,1090f83e
+13ac19de,Manuel Fernandes,4,POR,LW,32-038,90,0,0,0,0,4,0,0,0,86,0,0,0,0.1,0.1,0.2,4,1,52,72,72.2,9,57,8,7,6,Lokomotiv Moscow,2018-03-15 Loko Moscow-Atlético Madrid,UEL,17-18,1090f83e
+807e869a,Anton Miranchuk,60,RUS,RW,22-149,90,0,0,0,0,2,0,0,0,65,0,0,1,0.1,0.1,0.0,4,0,41,50,82.0,4,42,4,4,1,Lokomotiv Moscow,2018-03-15 Loko Moscow-Atlético Madrid,UEL,17-18,1090f83e
+a9aa0d1d,Aleksei Miranchuk,59,RUS,AM,22-149,90,0,1,0,0,0,0,0,0,61,0,0,0,0.0,0.0,0.1,5,1,40,54,74.1,2,39,1,3,1,Lokomotiv Moscow,2018-03-15 Loko Moscow-Atlético Madrid,UEL,17-18,1090f83e
+cc96d422,Aleksandr Kolomeytsev,18,RUS,DM,29-022,62,0,0,0,0,0,0,0,0,35,2,1,1,0.0,0.0,0.0,0,0,28,29,96.6,1,16,1,1,0,Lokomotiv Moscow,2018-03-15 Loko Moscow-Atlético Madrid,UEL,17-18,1090f83e
+ffd740c5,Dmitri Tarasov,23,RUS,DM,30-362,28,0,0,0,0,0,0,0,0,20,0,1,1,0.0,0.0,0.0,0,0,15,19,78.9,1,6,1,2,2,Lokomotiv Moscow,2018-03-15 Loko Moscow-Atlético Madrid,UEL,17-18,1090f83e
+fbb23472,Igor Denisov,27,RUS,DM,33-302,90,0,0,0,0,1,1,0,0,59,2,2,0,0.0,0.0,0.0,1,0,48,52,92.3,2,30,0,2,2,Lokomotiv Moscow,2018-03-15 Loko Moscow-Atlético Madrid,UEL,17-18,1090f83e
+bef09ca8,Mikhail Lysov,84,RUS,LB,20-045,90,0,0,0,0,0,0,0,0,65,3,1,2,0.0,0.0,0.0,1,0,38,55,69.1,6,26,2,2,0,Lokomotiv Moscow,2018-03-15 Loko Moscow-Atlético Madrid,UEL,17-18,1090f83e
+6ceef869,Vedran Ćorluka,14,CRO,CB,32-038,74,0,0,0,0,0,0,0,0,39,1,1,1,0.0,0.0,0.0,0,0,29,34,85.3,4,23,0,0,0,Lokomotiv Moscow,2018-03-15 Loko Moscow-Atlético Madrid,UEL,17-18,1090f83e
+dabec4c3,Nemanja Pejčinović,5,SRB,CB,30-131,16,0,0,0,0,0,0,0,0,5,1,0,0,0.0,0.0,0.0,0,0,3,3,100.0,0,1,0,0,0,Lokomotiv Moscow,2018-03-15 Loko Moscow-Atlético Madrid,UEL,17-18,1090f83e
+19e4dca5,Saba Kvirkvelia,33,GEO,CB,26-037,90,0,0,0,0,0,0,0,0,54,0,4,1,0.0,0.0,0.0,0,0,29,44,65.9,1,19,0,0,0,Lokomotiv Moscow,2018-03-15 Loko Moscow-Atlético Madrid,UEL,17-18,1090f83e
+86dd16a8,Maciej Rybus,31,POL,RB,28-208,90,1,0,0,0,2,1,0,0,54,3,2,0,0.1,0.1,0.0,0,0,36,41,87.8,4,27,4,1,1,Lokomotiv Moscow,2018-03-15 Loko Moscow-Atlético Madrid,UEL,17-18,1090f83e
+4e034598,Anton Kochenkov,77,KGZ,GK,30-347,90,0,0,0,0,0,0,0,0,26,0,0,0,0.0,0.0,0.0,0,0,11,20,55.0,0,6,0,0,0,Lokomotiv Moscow,2018-03-15 Loko Moscow-Atlético Madrid,UEL,17-18,1090f83e
+bdf7b97d,Fernando Torres,9,ESP,FW,33-360,90,2,0,1,1,3,2,0,0,40,1,0,0,1.3,0.6,0.0,0,0,18,30,60.0,0,25,3,2,0,Atlético Madrid,2018-03-15 Loko Moscow-Atlético Madrid,UEL,17-18,1090f83e
+55126f3b,Koke,6,ESP,"LW,LM",26-066,90,0,1,0,0,2,0,0,0,104,3,0,2,0.1,0.1,0.1,2,1,86,99,86.9,7,77,2,1,1,Atlético Madrid,2018-03-15 Loko Moscow-Atlético Madrid,UEL,17-18,1090f83e
+01eb744d,Ángel Correa,11,ARG,"RW,FW",23-006,90,1,2,0,0,1,1,0,0,67,2,0,2,0.1,0.1,0.5,6,4,45,52,86.5,3,50,6,7,6,Atlético Madrid,2018-03-15 Loko Moscow-Atlético Madrid,UEL,17-18,1090f83e
+c14bc029,Saúl Ñíguez,8,ESP,LM,23-114,60,1,0,0,0,1,1,0,0,47,0,2,0,0.1,0.1,0.0,3,1,35,40,87.5,6,29,1,3,3,Atlético Madrid,2018-03-15 Loko Moscow-Atlético Madrid,UEL,17-18,1090f83e
+df69b544,Antoine Griezmann,7,FRA,"AM,RW",26-359,30,1,0,0,0,1,1,0,0,23,2,0,0,0.1,0.1,0.1,4,2,8,16,50.0,2,19,3,3,2,Atlético Madrid,2018-03-15 Loko Moscow-Atlético Madrid,UEL,17-18,1090f83e
+529f49ab,Thomas Partey,5,GHA,CM,24-275,90,0,0,0,0,2,2,0,0,96,3,2,3,0.1,0.1,0.0,3,1,72,83,86.7,13,64,1,1,1,Atlético Madrid,2018-03-15 Loko Moscow-Atlético Madrid,UEL,17-18,1090f83e
+65d750b5,Gabi,14,ESP,RM,34-248,90,0,0,0,0,0,0,0,0,87,2,0,3,0.0,0.0,0.0,0,0,72,81,88.9,5,68,2,0,0,Atlético Madrid,2018-03-15 Loko Moscow-Atlético Madrid,UEL,17-18,1090f83e
+e4ed2628,Filipe Luís,3,BRA,LB,32-218,61,0,1,0,0,0,0,0,0,69,6,2,1,0.0,0.0,0.1,2,1,45,57,78.9,4,43,3,1,1,Atlético Madrid,2018-03-15 Loko Moscow-Atlético Madrid,UEL,17-18,1090f83e
+c3ee18ef,Lucas Hernández,19,FRA,LB,22-029,29,0,0,0,0,0,0,0,0,36,0,0,0,0.0,0.0,0.0,0,0,30,34,88.2,2,29,0,0,0,Atlético Madrid,2018-03-15 Loko Moscow-Atlético Madrid,UEL,17-18,1090f83e
+fc4f85b1,Diego Godín,2,URU,CB,32-027,90,0,0,0,0,0,0,0,0,70,2,3,0,0.0,0.0,0.0,0,0,55,62,88.7,3,47,0,0,0,Atlético Madrid,2018-03-15 Loko Moscow-Atlético Madrid,UEL,17-18,1090f83e
+f0da930c,José María Giménez,24,URU,CB,23-054,90,0,0,0,0,0,0,0,0,70,0,5,1,0.0,0.0,0.0,0,0,48,54,88.9,0,44,0,1,1,Atlético Madrid,2018-03-15 Loko Moscow-Atlético Madrid,UEL,17-18,1090f83e
+cfd8d664,Juanfran,20,ESP,RB,33-065,45,0,0,0,0,1,1,0,0,46,1,2,0,0.0,0.0,0.0,0,0,32,39,82.1,1,26,0,0,0,Atlético Madrid,2018-03-15 Loko Moscow-Atlético Madrid,UEL,17-18,1090f83e
+46a8347f,Šime Vrsaljko,16,CRO,RB,26-064,45,0,0,0,0,0,0,0,0,30,2,1,0,0.0,0.0,0.0,0,0,18,22,81.8,1,15,1,1,0,Atlético Madrid,2018-03-15 Loko Moscow-Atlético Madrid,UEL,17-18,1090f83e
+c0b1a6da,Axel Werner,25,ARG,GK,22-015,90,0,0,0,0,0,0,0,0,15,0,0,0,0.0,0.0,0.0,0,0,9,13,69.2,0,8,0,0,0,Atlético Madrid,2018-03-15 Loko Moscow-Atlético Madrid,UEL,17-18,1090f83e

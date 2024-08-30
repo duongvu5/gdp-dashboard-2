@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+acdad0aa,Marcello Trotta,29,ITA,FW,25-066,90,0,0,0,0,1,0,0,0,30,1,1,0,0.1,0.1,0.0,2,0,19,23,82.6,2,17,0,1,1,Crotone,2017-12-04 Crotone-Udinese,ITA-SERIA_A,17-18,4ad58fc9
+c15d1af9,Aleksandar Tonev,24,BUL,"FW,RM,LM",27-304,77,0,0,0,0,3,1,0,0,37,2,0,1,0.1,0.1,0.0,0,0,19,30,63.3,1,22,3,0,0,Crotone,2017-12-04 Crotone-Udinese,ITA-SERIA_A,17-18,4ad58fc9
+9f069180,Aristóteles Romero,8,VEN,CM,22-047,13,0,0,0,0,0,0,0,0,16,3,2,0,0.0,0.0,0.0,0,0,12,13,92.3,4,10,1,1,1,Crotone,2017-12-04 Crotone-Udinese,ITA-SERIA_A,17-18,4ad58fc9
+65c75ea8,Andrea Nalini,9,ITA,LM,27-167,50,0,0,0,0,1,1,0,0,27,0,1,0,0.0,0.0,0.0,1,0,14,23,60.9,4,22,2,0,0,Crotone,2017-12-04 Crotone-Udinese,ITA-SERIA_A,17-18,4ad58fc9
+80dbbd10,Simeon Nwankwo,99,NGA,FW,25-211,40,0,0,0,0,2,0,0,0,23,0,0,1,0.1,0.1,0.1,2,0,15,18,83.3,0,13,0,0,0,Crotone,2017-12-04 Crotone-Udinese,ITA-SERIA_A,17-18,4ad58fc9
+c7259b83,Rolando Mandragora,38,ITA,"CM,CB",20-158,90,0,0,0,0,1,0,0,0,46,3,3,1,0.0,0.0,0.1,2,0,31,39,79.5,5,20,0,0,0,Crotone,2017-12-04 Crotone-Udinese,ITA-SERIA_A,17-18,4ad58fc9
+32ebfe1e,Andrea Barberis,18,ITA,CM,23-358,90,0,0,0,0,0,0,0,0,55,2,3,1,0.0,0.0,0.1,2,0,34,49,69.4,4,29,1,2,2,Crotone,2017-12-04 Crotone-Udinese,ITA-SERIA_A,17-18,4ad58fc9
+b5b27493,Marcus Rohdén,6,SWE,RM,26-207,58,0,0,0,0,1,0,0,0,34,1,0,0,0.0,0.0,0.0,2,0,17,25,68.0,3,16,1,2,0,Crotone,2017-12-04 Crotone-Udinese,ITA-SERIA_A,17-18,4ad58fc9
+4468b31a,Adrian Stoian,8,ROU,"LM,AM",26-296,32,0,0,0,0,0,0,0,0,27,1,0,0,0.0,0.0,0.0,0,0,15,26,57.7,6,21,4,2,2,Crotone,2017-12-04 Crotone-Udinese,ITA-SERIA_A,17-18,4ad58fc9
+47146acb,Daniel Pavlović,20,BIH,"LB,WB",29-226,90,0,0,0,0,0,0,0,0,94,1,0,0,0.0,0.0,0.1,4,0,58,91,63.7,15,51,3,1,1,Crotone,2017-12-04 Crotone-Udinese,ITA-SERIA_A,17-18,4ad58fc9
+d9624b51,Federico Ceccherini,7,ITA,CB,25-207,90,0,0,0,0,0,0,0,0,57,0,2,0,0.0,0.0,0.0,0,0,38,48,79.2,7,22,1,0,0,Crotone,2017-12-04 Crotone-Udinese,ITA-SERIA_A,17-18,4ad58fc9
+b5365398,Stefan Simić,34,CZE,CB,22-318,90,0,0,0,0,0,0,0,0,58,4,3,2,0.0,0.0,0.0,0,0,34,43,79.1,3,27,1,1,0,Crotone,2017-12-04 Crotone-Udinese,ITA-SERIA_A,17-18,4ad58fc9
+cda2ec29,Mario Sampirisi,69,ITA,"RB,WB",25-034,90,0,0,0,0,0,0,0,0,88,3,3,0,0.0,0.0,0.0,2,0,51,72,70.8,10,41,1,1,0,Crotone,2017-12-04 Crotone-Udinese,ITA-SERIA_A,17-18,4ad58fc9
+e66ebabb,Alex Cordaz,1,ITA,GK,34-337,90,0,0,0,0,0,0,0,0,24,0,0,0,0.0,0.0,0.0,0,0,11,22,50.0,0,9,0,0,0,Crotone,2017-12-04 Crotone-Udinese,ITA-SERIA_A,17-18,4ad58fc9
+09538fdb,Kevin Lasagna,15,ITA,FW,25-116,81,1,0,0,0,5,3,0,0,25,0,1,1,1.0,1.0,0.0,1,1,12,16,75.0,4,17,5,0,0,Udinese,2017-12-04 Crotone-Udinese,ITA-SERIA_A,17-18,4ad58fc9
+162efffd,Rodrigo De Paul,10,ARG,FW,23-194,9,0,0,0,0,1,0,0,0,9,1,0,0,0.0,0.0,0.1,1,0,6,6,100.0,2,6,2,0,0,Udinese,2017-12-04 Crotone-Udinese,ITA-SERIA_A,17-18,4ad58fc9
+ad469944,Maxi López,20,ARG,FW,33-245,63,0,1,0,0,0,0,0,0,30,0,1,0,0.0,0.0,0.4,6,2,16,22,72.7,4,19,1,1,1,Udinese,2017-12-04 Crotone-Udinese,ITA-SERIA_A,17-18,4ad58fc9
+269b4638,Stipe Perica,18,CRO,FW,22-150,27,0,0,0,0,0,0,0,0,13,0,0,0,0.0,0.0,0.0,2,1,8,9,88.9,2,12,0,3,0,Udinese,2017-12-04 Crotone-Udinese,ITA-SERIA_A,17-18,4ad58fc9
+1ea5f91c,Jakub Jankto,14,CZE,CM,21-319,90,2,0,0,0,3,2,0,0,59,2,1,1,0.5,0.5,0.1,4,1,33,49,67.3,3,29,1,1,0,Udinese,2017-12-04 Crotone-Udinese,ITA-SERIA_A,17-18,4ad58fc9
+5313ed43,Seko Fofana,6,CIV,CM,22-211,90,0,0,0,0,1,0,0,0,71,1,1,1,0.0,0.0,0.0,4,0,58,64,90.6,5,37,1,2,2,Udinese,2017-12-04 Crotone-Udinese,ITA-SERIA_A,17-18,4ad58fc9
+01efac19,Antonín Barák,72,CZE,CM,23-001,90,0,1,0,0,2,1,0,0,52,0,0,2,0.1,0.1,0.7,4,0,28,42,66.7,6,27,1,3,1,Udinese,2017-12-04 Crotone-Udinese,ITA-SERIA_A,17-18,4ad58fc9
+06050480,Ali Adnan Kadhim,53,IRQ,WB,23-350,90,0,0,0,0,1,0,0,0,60,2,2,2,0.0,0.0,0.1,2,0,29,50,58.0,4,22,2,0,0,Udinese,2017-12-04 Crotone-Udinese,ITA-SERIA_A,17-18,4ad58fc9
+f68b64fc,Silvan Widmer,27,SUI,WB,24-274,90,0,0,0,0,0,0,0,0,50,3,5,1,0.0,0.0,0.0,3,0,25,39,64.1,2,19,4,3,2,Udinese,2017-12-04 Crotone-Udinese,ITA-SERIA_A,17-18,4ad58fc9
+92b4758e,Samir Santos,3,BRA,CB,22-364,90,0,0,0,0,0,0,0,0,71,1,1,1,0.0,0.0,0.0,0,0,53,61,86.9,5,25,1,0,0,Udinese,2017-12-04 Crotone-Udinese,ITA-SERIA_A,17-18,4ad58fc9
+fed5f993,Danilo Larangeira,5,BRA,CB,33-208,90,0,0,0,0,0,0,0,0,63,0,0,1,0.0,0.0,0.0,0,0,48,57,84.2,1,28,0,0,0,Udinese,2017-12-04 Crotone-Udinese,ITA-SERIA_A,17-18,4ad58fc9
+0c971997,Gabriele Angella,4,ITA,CB,28-220,68,0,0,0,0,2,0,0,0,64,0,1,0,0.2,0.2,0.0,1,0,34,56,60.7,2,22,0,0,0,Udinese,2017-12-04 Crotone-Udinese,ITA-SERIA_A,17-18,4ad58fc9
+e33f36d5,Bram Nuytinck,17,NED,CB,27-214,22,0,0,0,0,0,0,0,0,11,1,0,0,0.0,0.0,0.0,0,0,7,7,100.0,1,5,0,0,0,Udinese,2017-12-04 Crotone-Udinese,ITA-SERIA_A,17-18,4ad58fc9
+32b9b5fa,Albano Bizzarri,1,ARG,GK,40-025,90,0,0,0,0,0,0,0,0,46,0,0,0,0.0,0.0,0.0,0,0,25,45,55.6,0,24,0,0,0,Udinese,2017-12-04 Crotone-Udinese,ITA-SERIA_A,17-18,4ad58fc9

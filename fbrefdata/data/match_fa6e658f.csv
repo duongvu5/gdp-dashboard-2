@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+1238a3f9,Davie Selke,9,GER,FW,25-033,90,0,0,0,0,1,0,0,0,26,0,0,0,0.1,0.1,0.0,0,0,10,19,52.6,1,15,1,1,0,Werder Bremen,2020-02-22 Werder Bremen-Dortmund,GER-BL1,19-20,fa6e658f
+6c6a3300,Milot Rashica,7,KVX,"LW,LM",23-239,90,0,0,0,0,3,1,0,0,48,0,1,4,0.1,0.1,0.0,1,0,26,35,74.3,2,35,3,1,0,Werder Bremen,2020-02-22 Werder Bremen-Dortmund,GER-BL1,19-20,fa6e658f
+f69fba57,Yuya Osako,8,JPN,"RW,CM",29-280,89,0,0,0,0,0,0,0,0,45,1,0,1,0.0,0.0,0.1,4,0,30,37,81.1,2,32,0,1,1,Werder Bremen,2020-02-22 Werder Bremen-Dortmund,GER-BL1,19-20,fa6e658f
+7ca196eb,Nick Woltemade,41,GER,CM,18-008,1,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,1,0,1,1,Werder Bremen,2020-02-22 Werder Bremen-Dortmund,GER-BL1,19-20,fa6e658f
+9fec8860,Ludwig Augustinsson,5,SWE,"LM,LB",25-307,90,0,0,0,0,1,0,0,0,63,4,1,1,0.1,0.1,0.1,2,0,35,51,68.6,0,30,3,2,2,Werder Bremen,2020-02-22 Werder Bremen-Dortmund,GER-BL1,19-20,fa6e658f
+15fd5593,Davy Klaassen,30,NED,CM,27-001,90,0,0,0,0,0,0,0,0,51,3,4,3,0.0,0.0,0.0,1,0,32,37,86.5,6,26,2,0,0,Werder Bremen,2020-02-22 Werder Bremen-Dortmund,GER-BL1,19-20,fa6e658f
+dc62fbee,Leonardo Bittencourt,10,GER,CM,26-065,66,0,0,0,0,1,1,0,0,46,3,0,3,0.0,0.0,0.0,2,0,29,37,78.4,4,28,0,0,0,Werder Bremen,2020-02-22 Werder Bremen-Dortmund,GER-BL1,19-20,fa6e658f
+d571df78,Johannes Eggestein,24,GER,FW,21-290,24,0,0,0,0,2,0,0,0,10,0,0,0,0.1,0.1,0.0,1,0,6,8,75.0,3,9,0,0,0,Werder Bremen,2020-02-22 Werder Bremen-Dortmund,GER-BL1,19-20,fa6e658f
+3f65898c,Theodor Gebre Selassie,23,CZE,"RM,RB",33-060,90,0,0,0,0,0,0,0,0,38,0,1,1,0.0,0.0,0.0,1,0,29,33,87.9,3,22,0,0,0,Werder Bremen,2020-02-22 Werder Bremen-Dortmund,GER-BL1,19-20,fa6e658f
+00844823,Niklas Moisander,18,FIN,CB,34-146,90,0,0,0,0,0,0,0,0,71,2,9,2,0.0,0.0,0.0,0,0,44,52,84.6,10,43,2,0,0,Werder Bremen,2020-02-22 Werder Bremen-Dortmund,GER-BL1,19-20,fa6e658f
+c5fd13e9,Ömer Toprak,21,TUR,CB,30-216,90,0,0,0,0,0,0,0,0,53,0,0,1,0.0,0.0,0.0,0,0,46,48,95.8,5,40,0,2,2,Werder Bremen,2020-02-22 Werder Bremen-Dortmund,GER-BL1,19-20,fa6e658f
+a5ae8f8e,Miloš Veljković,13,SRB,"CB,RB",24-149,82,0,0,0,0,0,0,0,0,63,3,0,1,0.0,0.0,0.0,1,0,49,56,87.5,5,40,2,1,1,Werder Bremen,2020-02-22 Werder Bremen-Dortmund,GER-BL1,19-20,fa6e658f
+a8d4428b,Josh Sargent,19,USA,RM,20-002,8,0,0,0,0,0,0,0,0,6,0,1,0,0.0,0.0,0.0,0,0,3,5,60.0,0,5,0,1,1,Werder Bremen,2020-02-22 Werder Bremen-Dortmund,GER-BL1,19-20,fa6e658f
+0a1cb833,Jiří Pavlenka,1,CZE,GK,27-314,90,0,0,0,0,0,0,0,0,26,1,0,0,0.0,0.0,0.0,0,0,10,20,50.0,0,16,0,0,0,Werder Bremen,2020-02-22 Werder Bremen-Dortmund,GER-BL1,19-20,fa6e658f
+1f44ac21,Erling Haaland,17,NOR,FW,19-216,90,1,0,0,0,4,3,0,0,46,1,0,1,1.0,1.0,0.2,5,1,22,33,66.7,2,25,3,4,2,Dortmund,2020-02-22 Werder Bremen-Dortmund,GER-BL1,19-20,fa6e658f
+dbf053da,Jadon Sancho,7,ENG,LW,19-334,76,0,1,0,0,1,1,0,0,62,0,2,0,0.0,0.0,0.2,5,2,43,54,79.6,4,37,3,4,3,Dortmund,2020-02-22 Werder Bremen-Dortmund,GER-BL1,19-20,fa6e658f
+7fa4e703,Gio Reyna,32,USA,"LW,RW",17-101,14,0,0,0,0,0,0,0,0,16,0,0,1,0.0,0.0,0.1,1,0,13,14,92.9,0,11,1,0,0,Dortmund,2020-02-22 Werder Bremen-Dortmund,GER-BL1,19-20,fa6e658f
+50871bcc,Thorgan Hazard,23,BEL,RW,26-330,89,0,0,0,0,1,0,0,0,62,0,0,1,0.1,0.1,0.1,4,0,45,53,84.9,4,38,4,3,2,Dortmund,2020-02-22 Werder Bremen-Dortmund,GER-BL1,19-20,fa6e658f
+a167537f,Julian Brandt,19,GER,"RW,LW",23-296,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Dortmund,2020-02-22 Werder Bremen-Dortmund,GER-BL1,19-20,fa6e658f
+048a1cbc,Raphaël Guerreiro,13,POR,LM,26-062,90,0,0,0,0,1,0,0,0,89,2,1,0,0.0,0.0,0.0,0,0,68,79,86.1,2,53,2,2,1,Dortmund,2020-02-22 Werder Bremen-Dortmund,GER-BL1,19-20,fa6e658f
+a65ce836,Emre Can,27,GER,CM,26-041,90,0,0,0,0,2,0,0,0,78,4,2,2,0.1,0.1,0.4,0,0,57,60,95.0,4,48,0,1,1,Dortmund,2020-02-22 Werder Bremen-Dortmund,GER-BL1,19-20,fa6e658f
+5dfc6ad5,Axel Witsel,28,BEL,CM,31-041,90,0,0,0,0,0,0,0,0,76,2,0,1,0.0,0.0,0.0,2,0,66,71,93.0,3,50,0,2,1,Dortmund,2020-02-22 Werder Bremen-Dortmund,GER-BL1,19-20,fa6e658f
+e42d61c7,Achraf Hakimi,5,MAR,RM,21-110,89,0,1,0,0,1,1,0,0,112,0,0,1,0.1,0.1,0.5,3,1,84,103,81.6,4,74,7,4,3,Dortmund,2020-02-22 Werder Bremen-Dortmund,GER-BL1,19-20,fa6e658f
+89ac64a6,Manuel Akanji,16,SUI,"CB,RM",24-218,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Dortmund,2020-02-22 Werder Bremen-Dortmund,GER-BL1,19-20,fa6e658f
+a4effc55,Dan-Axel Zagadou,2,FRA,CB,20-264,90,1,0,0,0,1,1,0,0,113,2,1,0,0.2,0.2,0.1,1,0,97,107,90.7,5,88,1,0,0,Dortmund,2020-02-22 Werder Bremen-Dortmund,GER-BL1,19-20,fa6e658f
+05d548d8,Mats Hummels,15,GER,CB,31-068,90,0,0,0,0,0,0,0,0,92,2,3,4,0.0,0.0,0.0,0,0,73,79,92.4,3,56,0,0,0,Dortmund,2020-02-22 Werder Bremen-Dortmund,GER-BL1,19-20,fa6e658f
+fe2db476,Łukasz Piszczek,26,POL,CB,34-264,90,0,0,0,0,1,0,0,0,95,1,0,1,0.0,0.0,0.0,0,0,78,89,87.6,3,62,0,0,0,Dortmund,2020-02-22 Werder Bremen-Dortmund,GER-BL1,19-20,fa6e658f
+9d12e142,Roman Bürki,1,SUI,GK,29-100,90,0,0,0,0,0,0,0,0,37,0,0,0,0.0,0.0,0.0,1,0,26,36,72.2,0,21,0,0,0,Dortmund,2020-02-22 Werder Bremen-Dortmund,GER-BL1,19-20,fa6e658f

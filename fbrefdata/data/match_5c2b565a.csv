@@ -1,0 +1,32 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+c0b3669f,Randal Kolo Muani,23,FRA,FW,21-318,90,1,0,0,0,2,2,0,0,38,0,0,0,0.8,0.8,0.1,4,1,12,24,50.0,2,16,3,4,2,Nantes,2020-10-18 Nantes-Brest,FRA-L1,20-21,5c2b565a
+3010aefb,Marcus Coco,11,FRA,LW,24-116,62,0,0,0,0,2,1,0,0,31,3,1,1,0.1,0.1,0.0,2,1,9,21,42.9,1,13,1,3,2,Nantes,2020-10-18 Nantes-Brest,FRA-L1,20-21,5c2b565a
+5f3eaaf5,Moses Simon,27,NGA,LW,25-098,28,0,1,0,0,2,2,0,0,12,0,0,0,0.2,0.2,0.1,2,1,7,8,87.5,0,7,3,1,1,Nantes,2020-10-18 Nantes-Brest,FRA-L1,20-21,5c2b565a
+e1df6989,Imran Louza,26,MAR,"RW,AM",21-170,75,0,0,0,0,1,1,0,0,41,1,1,0,0.0,0.0,0.1,4,0,29,35,82.9,7,21,1,0,0,Nantes,2020-10-18 Nantes-Brest,FRA-L1,20-21,5c2b565a
+32f3d97e,Abdoul Kader Bamba,32,FRA,AM,26-146,15,1,0,0,0,1,1,0,0,15,0,0,0,0.1,0.1,0.0,0,0,9,12,75.0,0,8,0,1,0,Nantes,2020-10-18 Nantes-Brest,FRA-L1,20-21,5c2b565a
+6191093d,Ludovic Blas,10,FRA,"RW,AM",22-292,90,1,0,0,0,2,1,0,0,28,1,1,0,0.1,0.1,0.1,4,1,20,23,87.0,4,19,1,6,5,Nantes,2020-10-18 Nantes-Brest,FRA-L1,20-21,5c2b565a
+a4c3f7af,Mehdi Abeid,8,ALG,DM,28-073,90,0,0,0,0,1,0,1,0,49,1,1,0,0.1,0.1,0.1,2,0,30,40,75.0,5,24,2,2,1,Nantes,2020-10-18 Nantes-Brest,FRA-L1,20-21,5c2b565a
+68a26d51,Pedro Chirivella,5,ESP,DM,23-148,45,0,1,0,0,0,0,0,0,17,0,1,0,0.0,0.0,0.1,1,1,10,16,62.5,3,8,0,0,0,Nantes,2020-10-18 Nantes-Brest,FRA-L1,20-21,5c2b565a
+ef7cd87a,Abdoulaye Touré,19,GUI,DM,26-229,45,0,0,0,0,0,0,0,0,26,0,0,1,0.0,0.0,0.0,0,0,17,22,77.3,1,11,1,0,0,Nantes,2020-10-18 Nantes-Brest,FRA-L1,20-21,5c2b565a
+bc7b4580,Fábio,2,BRA,LB,30-101,90,0,0,0,0,1,0,1,0,55,6,0,1,0.1,0.1,0.0,2,0,30,42,71.4,3,21,1,2,1,Nantes,2020-10-18 Nantes-Brest,FRA-L1,20-21,5c2b565a
+779847d6,Nicolas Pallois,4,FRA,CB,33-029,90,0,0,0,0,0,0,1,0,43,3,4,0,0.0,0.0,0.0,1,1,17,32,53.1,1,16,0,1,1,Nantes,2020-10-18 Nantes-Brest,FRA-L1,20-21,5c2b565a
+e0f3a1f6,Jean-Charles Castelletto,21,CMR,CB,25-266,90,0,0,0,0,0,0,0,0,45,5,1,1,0.0,0.0,0.0,0,0,29,34,85.3,1,13,0,0,0,Nantes,2020-10-18 Nantes-Brest,FRA-L1,20-21,5c2b565a
+0e7ccfc4,Sébastien Corchia,24,FRA,RB,29-352,90,0,0,0,0,0,0,0,0,50,0,2,0,0.0,0.0,0.1,1,0,29,40,72.5,2,20,2,2,1,Nantes,2020-10-18 Nantes-Brest,FRA-L1,20-21,5c2b565a
+4e7db402,Alban Lafont,1,FRA,GK,21-269,90,0,0,0,0,0,0,0,0,36,0,0,0,0.0,0.0,0.0,0,0,15,34,44.1,0,16,0,0,0,Nantes,2020-10-18 Nantes-Brest,FRA-L1,20-21,5c2b565a
+19ba6c6d,Steve Mounié,15,BEN,FW,26-019,84,0,0,0,0,3,1,0,0,31,1,1,0,0.3,0.3,0.0,1,0,21,24,87.5,2,18,1,1,1,Brest,2020-10-18 Nantes-Brest,FRA-L1,20-21,5c2b565a
+2d9f280e,Heriberto Tavares,29,POR,FW,23-242,6,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,1,0,0,0,Brest,2020-10-18 Nantes-Brest,FRA-L1,20-21,5c2b565a
+f98b15f0,Romain Philippoteaux,12,FRA,LW,32-230,45,0,0,0,0,2,0,0,0,19,0,0,0,0.1,0.1,0.1,2,0,13,14,92.9,1,14,1,1,0,Brest,2020-10-18 Nantes-Brest,FRA-L1,20-21,5c2b565a
+5e080f73,Irvin Cardona,14,FRA,LW,23-071,45,0,0,0,0,2,1,0,0,22,1,0,1,0.1,0.1,0.0,2,0,8,16,50.0,1,11,2,1,0,Brest,2020-10-18 Nantes-Brest,FRA-L1,20-21,5c2b565a
+745ca0a3,Romain Faivre,21,FRA,"RW,DM",22-096,90,1,0,0,0,1,1,0,0,72,0,0,1,0.1,0.1,0.3,7,0,42,59,71.2,4,37,4,9,4,Brest,2020-10-18 Nantes-Brest,FRA-L1,20-21,5c2b565a
+18ebca4b,Gaëtan Charbonnier,10,FRA,AM,31-296,45,0,0,0,0,0,0,0,0,20,1,0,0,0.0,0.0,0.0,1,0,13,16,81.3,1,6,0,1,0,Brest,2020-10-18 Nantes-Brest,FRA-L1,20-21,5c2b565a
+88c4d190,Jérémy Le Douaron,26,FRA,"AM,RW",22-180,45,0,0,0,0,0,0,0,0,26,0,0,1,0.0,0.0,0.0,1,0,11,15,73.3,1,19,4,5,2,Brest,2020-10-18 Nantes-Brest,FRA-L1,20-21,5c2b565a
+2b1bed19,Haris Belkebla,7,ALG,DM,26-264,90,0,0,0,0,0,0,0,0,73,3,3,2,0.0,0.0,0.0,3,1,48,61,78.7,3,32,2,1,1,Brest,2020-10-18 Nantes-Brest,FRA-L1,20-21,5c2b565a
+d4d35152,Hugo Magnetti,27,FRA,DM,22-141,69,0,0,0,0,2,0,1,0,55,3,1,1,0.1,0.1,0.0,1,0,37,44,84.1,6,20,0,1,1,Brest,2020-10-18 Nantes-Brest,FRA-L1,20-21,5c2b565a
+db7849ca,Franck Honorat,9,FRA,"AM,DM",24-068,21,0,0,0,0,0,0,0,0,15,2,1,0,0.0,0.0,0.1,2,0,7,9,77.8,1,6,0,1,0,Brest,2020-10-18 Nantes-Brest,FRA-L1,20-21,5c2b565a
+6dfd8f05,Romain Perraud,18,FRA,LB,23-026,90,0,0,0,0,3,2,0,0,75,0,3,1,0.4,0.4,0.0,3,0,55,66,83.3,7,33,4,1,1,Brest,2020-10-18 Nantes-Brest,FRA-L1,20-21,5c2b565a
+0cbc8baa,Jean-Kevin Duverne,2,HAI,CB,23-098,90,0,0,0,0,1,0,1,0,79,2,3,1,0.1,0.1,0.0,1,0,60,73,82.2,6,41,2,0,0,Brest,2020-10-18 Nantes-Brest,FRA-L1,20-21,5c2b565a
+3681cfff,Christophe Hérelle,23,MTQ,CB,28-057,90,0,0,0,0,0,0,0,0,78,1,1,1,0.0,0.0,0.0,1,0,57,72,79.2,1,37,0,0,0,Brest,2020-10-18 Nantes-Brest,FRA-L1,20-21,5c2b565a
+d3ce9f1f,Ludovic Baal,24,GUF,RB,34-147,70,0,0,0,0,0,0,0,0,59,3,1,1,0.0,0.0,0.4,2,1,43,52,82.7,3,25,1,1,0,Brest,2020-10-18 Nantes-Brest,FRA-L1,20-21,5c2b565a
+767212e6,Julien Faussurier,22,FRA,RB,33-278,20,0,0,0,0,0,0,0,0,15,0,1,0,0.0,0.0,0.1,1,0,12,14,85.7,1,5,0,0,0,Brest,2020-10-18 Nantes-Brest,FRA-L1,20-21,5c2b565a
+b49729cb,Gautier Larsonneur,1,FRA,GK,23-238,90,0,0,0,0,0,0,0,0,42,0,0,0,0.0,0.0,0.0,0,0,29,38,76.3,0,20,0,0,0,Brest,2020-10-18 Nantes-Brest,FRA-L1,20-21,5c2b565a

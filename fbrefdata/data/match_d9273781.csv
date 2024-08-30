@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+dea698d9,Cristiano Ronaldo,7,POR,FW,37-250,90,0,0,0,0,7,2,0,0,30,0,0,0,0.9,0.9,0.1,5,0,20,23,87.0,4,19,0,0,0,Manchester United,2022-10-13 Manchester Utd-AC Omonia,UEL,22-23,d9273781
+a1d5bd30,Marcus Rashford,10,ENG,LW,24-347,90,0,0,0,0,10,5,0,0,65,0,0,0,1.7,1.7,0.2,8,0,38,45,84.4,6,53,6,10,3,Manchester United,2022-10-13 Manchester Utd-AC Omonia,UEL,22-23,d9273781
+99127249,Antony,21,BRA,RW,22-231,59,0,0,0,0,1,1,0,0,54,0,1,0,0.1,0.1,0.3,3,0,38,47,80.9,5,39,3,7,3,Manchester United,2022-10-13 Manchester Utd-AC Omonia,UEL,22-23,d9273781
+dbf053da,Jadon Sancho,25,ENG,RW,22-202,31,0,0,0,0,1,0,0,0,31,0,0,0,0.0,0.0,0.3,4,1,26,29,89.7,5,28,6,2,1,Manchester United,2022-10-13 Manchester Utd-AC Omonia,UEL,22-23,d9273781
+507c7bdf,Bruno Fernandes,8,POR,AM,28-035,90,0,0,0,0,5,1,0,0,100,1,2,2,0.6,0.6,0.9,12,0,64,83,77.1,12,58,2,4,1,Manchester United,2022-10-13 Manchester Utd-AC Omonia,UEL,22-23,d9273781
+b853e0ad,Fred,17,BRA,DM,29-222,69,0,0,0,0,3,1,0,0,68,4,1,1,0.4,0.4,0.1,4,0,51,54,94.4,4,47,0,0,0,Manchester United,2022-10-13 Manchester Utd-AC Omonia,UEL,22-23,d9273781
+980522ec,Christian Eriksen,14,DEN,DM,30-241,21,0,0,0,0,2,0,0,0,31,0,0,1,0.1,0.1,0.0,3,0,23,28,82.1,5,23,0,0,0,Manchester United,2022-10-13 Manchester Utd-AC Omonia,UEL,22-23,d9273781
+4d224fe8,Casemiro,18,BRA,DM,30-232,80,0,0,0,0,2,1,0,0,93,4,2,1,0.1,0.1,0.6,3,0,66,81,81.5,9,45,2,0,0,Manchester United,2022-10-13 Manchester Utd-AC Omonia,UEL,22-23,d9273781
+d93c2511,Scott McTominay,39,SCO,DM,25-309,10,1,0,0,0,3,2,0,0,12,0,0,0,0.3,0.3,0.0,0,0,7,9,77.8,2,6,0,0,0,Manchester United,2022-10-13 Manchester Utd-AC Omonia,UEL,22-23,d9273781
+6b6c793c,Tyrell Malacia,12,NED,LB,23-057,59,0,0,0,0,0,0,0,0,70,3,2,0,0.0,0.0,0.5,6,0,59,66,89.4,7,46,4,1,1,Manchester United,2022-10-13 Manchester Utd-AC Omonia,UEL,22-23,d9273781
+9c94165b,Luke Shaw,23,ENG,LB,27-093,31,0,0,0,0,0,0,0,0,40,0,0,0,0.0,0.0,0.0,2,0,31,40,77.5,7,26,4,0,0,Manchester United,2022-10-13 Manchester Utd-AC Omonia,UEL,22-23,d9273781
+bac46a10,Lisandro Martínez,6,ARG,CB,24-268,90,0,0,0,0,0,0,0,0,92,4,0,1,0.0,0.0,0.2,3,0,71,85,83.5,7,69,4,0,0,Manchester United,2022-10-13 Manchester Utd-AC Omonia,UEL,22-23,d9273781
+f5deef4c,Victor Lindelöf,2,SWE,CB,28-088,90,0,0,0,0,0,0,0,0,99,0,0,0,0.0,0.0,0.0,1,0,92,94,97.9,12,77,1,0,0,Manchester United,2022-10-13 Manchester Utd-AC Omonia,UEL,22-23,d9273781
+d9565625,Diogo Dalot,20,POR,RB,23-209,90,0,0,0,0,0,0,0,0,112,3,0,1,0.0,0.0,0.2,7,0,95,102,93.1,14,71,4,2,1,Manchester United,2022-10-13 Manchester Utd-AC Omonia,UEL,22-23,d9273781
+7ba6d84e,David de Gea,1,ESP,GK,31-340,90,0,0,0,0,0,0,0,0,18,0,0,0,0.0,0.0,0.0,1,0,17,18,94.4,0,11,0,0,0,Manchester United,2022-10-13 Manchester Utd-AC Omonia,UEL,22-23,d9273781
+0eb83e1a,Bruno Felipe Souza da Silva,7,BRA,FW,28-140,73,0,0,0,0,1,0,0,0,19,0,0,0,0.1,0.1,0.0,0,0,4,6,66.7,1,14,5,7,1,AC Omonia,2022-10-13 Manchester Utd-AC Omonia,UEL,22-23,d9273781
+975eda74,Loizos Loizou,10,CYP,FW,19-087,17,0,0,0,0,0,0,0,0,10,0,0,1,0.0,0.0,0.0,0,0,5,6,83.3,0,3,1,2,0,AC Omonia,2022-10-13 Manchester Utd-AC Omonia,UEL,22-23,d9273781
+d9ac09e2,Andronikos Kakoulli,80,CYP,FW,21-163,63,0,0,0,0,1,1,1,0,21,0,0,0,0.1,0.1,0.0,0,0,5,10,50.0,0,11,0,0,0,AC Omonia,2022-10-13 Manchester Utd-AC Omonia,UEL,22-23,d9273781
+50cddd19,Karim Ansarifard,18,IRN,FW,32-193,27,0,0,0,0,0,0,0,0,8,1,0,0,0.0,0.0,0.0,0,0,3,5,60.0,0,1,0,0,0,AC Omonia,2022-10-13 Manchester Utd-AC Omonia,UEL,22-23,d9273781
+16ea3bb1,Nikolas Panayiotou,30,CYP,CM,22-154,90,0,0,0,0,0,0,1,0,30,2,1,0,0.0,0.0,0.0,0,0,11,17,64.7,1,15,0,1,0,AC Omonia,2022-10-13 Manchester Utd-AC Omonia,UEL,22-23,d9273781
+f54d2149,Moreto Cassamã,8,GNB,CM,24-239,84,0,0,0,0,0,0,1,0,37,3,3,6,0.0,0.0,0.0,1,0,16,22,72.7,0,18,0,2,1,AC Omonia,2022-10-13 Manchester Utd-AC Omonia,UEL,22-23,d9273781
+d6f866ba,Mix Diskerud,42,USA,CM,32-011,6,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,1,2,0,0,0,AC Omonia,2022-10-13 Manchester Utd-AC Omonia,UEL,22-23,d9273781
+e63c5181,Charalampos Charalampous,76,CYP,CM,20-192,73,0,0,0,0,0,0,0,0,30,2,1,3,0.0,0.0,0.1,2,0,11,18,61.1,2,16,0,2,0,AC Omonia,2022-10-13 Manchester Utd-AC Omonia,UEL,22-23,d9273781
+e1bbb68d,Fotios Papoulis,13,CYP,CM,37-264,17,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,5,7,71.4,1,5,0,0,0,AC Omonia,2022-10-13 Manchester Utd-AC Omonia,UEL,22-23,d9273781
+ff711ca2,Fotios Kitsos,14,GRE,LB,19-196,90,0,0,0,0,0,0,0,0,30,2,0,2,0.0,0.0,0.0,1,0,14,22,63.6,0,15,1,2,2,AC Omonia,2022-10-13 Manchester Utd-AC Omonia,UEL,22-23,d9273781
+8614496d,Ádám Lang,22,HUN,CB,29-269,90,0,0,0,0,0,0,0,0,30,1,1,3,0.0,0.0,0.0,1,0,17,21,81.0,1,13,0,0,0,AC Omonia,2022-10-13 Manchester Utd-AC Omonia,UEL,22-23,d9273781
+f50a668a,Héctor Yuste,6,ESP,CB,34-274,90,0,0,0,0,1,0,0,0,34,1,2,3,0.0,0.0,0.0,1,0,9,18,50.0,1,8,0,0,0,AC Omonia,2022-10-13 Manchester Utd-AC Omonia,UEL,22-23,d9273781
+903b3b77,Nemanja Miletić,73,SRB,CB,31-270,90,0,0,0,0,0,0,0,0,19,2,0,2,0.0,0.0,0.0,0,0,7,11,63.6,0,3,0,0,0,AC Omonia,2022-10-13 Manchester Utd-AC Omonia,UEL,22-23,d9273781
+d8bffa70,Adam Matthews,3,WAL,RB,30-273,64,0,0,0,0,0,0,0,0,20,1,0,1,0.0,0.0,0.0,0,0,10,15,66.7,1,8,2,0,0,AC Omonia,2022-10-13 Manchester Utd-AC Omonia,UEL,22-23,d9273781
+d03380ec,Paris Psaltis,2,CYP,RB,25-335,26,0,0,0,0,0,0,0,0,13,0,1,1,0.0,0.0,0.0,0,0,3,9,33.3,0,4,0,0,0,AC Omonia,2022-10-13 Manchester Utd-AC Omonia,UEL,22-23,d9273781
+cfd68aa7,Francis Uzoho,23,NGA,GK,23-350,90,0,0,0,0,0,0,0,0,50,0,0,0,0.0,0.0,0.0,0,0,15,39,38.5,0,10,0,0,0,AC Omonia,2022-10-13 Manchester Utd-AC Omonia,UEL,22-23,d9273781

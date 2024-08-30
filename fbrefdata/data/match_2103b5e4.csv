@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+e21042ae,Fabian Klos,9,GER,FW,33-305,76,0,0,0,0,3,1,0,0,29,0,0,1,0.2,0.2,0.0,0,0,11,22,50.0,1,6,0,0,0,Arminia,2021-10-03 Arminia-Leverkusen,GER-BL1,21-22,2103b5e4
+ebac0ace,Bryan Lasme,10,FRA,FW,22-323,14,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,0,2,0.0,0,2,0,0,0,Arminia,2021-10-03 Arminia-Leverkusen,GER-BL1,21-22,2103b5e4
+0174ba21,Robin Hack,21,GER,"FW,RM",23-037,76,0,0,0,0,0,0,0,0,29,0,0,2,0.0,0.0,0.0,2,0,7,15,46.7,2,17,1,4,4,Arminia,2021-10-03 Arminia-Leverkusen,GER-BL1,21-22,2103b5e4
+3bb625ac,Edimilson Fernandes,22,SUI,AM,25-171,14,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,8,8,100.0,0,6,0,0,0,Arminia,2021-10-03 Arminia-Leverkusen,GER-BL1,21-22,2103b5e4
+63b9cc6d,Masaya Okugawa,11,JPN,"LM,FW",25-172,90,0,0,0,0,1,0,0,0,22,0,0,1,0.0,0.0,0.0,2,0,13,17,76.5,1,13,1,0,0,Arminia,2021-10-03 Arminia-Leverkusen,GER-BL1,21-22,2103b5e4
+106bca06,Alessandro Schöpf,8,AUT,CM,27-238,61,0,0,0,0,2,1,0,0,31,0,0,4,0.1,0.1,0.1,2,0,14,19,73.7,3,13,2,2,2,Arminia,2021-10-03 Arminia-Leverkusen,GER-BL1,21-22,2103b5e4
+d25fee56,Fabian Kunze,16,GER,"CM,RM",23-111,29,0,0,0,0,0,0,0,0,11,2,1,1,0.0,0.0,0.0,0,0,7,9,77.8,1,9,0,0,0,Arminia,2021-10-03 Arminia-Leverkusen,GER-BL1,21-22,2103b5e4
+901c0f97,Manuel Prietl,19,AUT,CM,30-061,90,0,0,0,0,1,0,0,0,42,3,4,1,0.0,0.0,0.0,2,0,27,30,90.0,4,29,0,1,1,Arminia,2021-10-03 Arminia-Leverkusen,GER-BL1,21-22,2103b5e4
+cb11b429,Patrick Wimmer,20,AUT,RM,20-126,61,0,0,0,0,3,0,1,0,44,2,2,5,0.1,0.1,0.2,7,0,16,25,64.0,6,24,2,1,0,Arminia,2021-10-03 Arminia-Leverkusen,GER-BL1,21-22,2103b5e4
+f9f92b5f,Florian Krüger,18,GER,LM,22-232,29,0,0,0,0,0,0,0,0,11,0,0,2,0.0,0.0,0.1,1,0,2,6,33.3,0,8,0,2,0,Arminia,2021-10-03 Arminia-Leverkusen,GER-BL1,21-22,2103b5e4
+7ba1f1ef,Lennart-Marten Czyborra,6,GER,LB,22-153,76,0,0,0,0,0,0,1,0,30,0,2,0,0.0,0.0,0.0,0,0,10,25,40.0,2,11,1,3,1,Arminia,2021-10-03 Arminia-Leverkusen,GER-BL1,21-22,2103b5e4
+d686dbc0,Nathan de Medina,15,BEL,LB,23-360,14,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,4,6,66.7,0,3,0,0,0,Arminia,2021-10-03 Arminia-Leverkusen,GER-BL1,21-22,2103b5e4
+c562c5b4,Joakim Nilsson,4,SWE,CB,27-239,90,0,0,0,0,0,0,0,0,42,2,1,2,0.0,0.0,0.0,0,0,32,35,91.4,3,29,0,0,0,Arminia,2021-10-03 Arminia-Leverkusen,GER-BL1,21-22,2103b5e4
+526ea7cc,Amos Pieper,2,GER,CB,23-259,90,0,0,0,0,0,0,0,0,53,3,2,0,0.0,0.0,0.0,0,0,33,43,76.7,3,32,0,0,0,Arminia,2021-10-03 Arminia-Leverkusen,GER-BL1,21-22,2103b5e4
+f0a37d36,Cédric Brunner,27,SUI,RB,27-228,90,0,0,0,0,0,0,1,0,50,5,1,1,0.0,0.0,0.0,3,0,27,38,71.1,3,24,2,1,1,Arminia,2021-10-03 Arminia-Leverkusen,GER-BL1,21-22,2103b5e4
+c1242d4e,Stefan Ortega,1,GER,GK,28-331,90,0,0,0,0,0,0,1,0,48,1,0,0,0.0,0.0,0.0,0,0,39,44,88.6,0,29,0,0,0,Arminia,2021-10-03 Arminia-Leverkusen,GER-BL1,21-22,2103b5e4
+5d4f7d61,Patrik Schick,14,CZE,FW,25-252,74,2,0,0,0,4,3,0,0,26,0,0,0,0.9,0.9,0.0,2,0,12,17,70.6,0,20,2,2,0,Bayer Leverkusen,2021-10-03 Arminia-Leverkusen,GER-BL1,21-22,2103b5e4
+834d0be5,Lucas Alario,13,ARG,FW,28-360,16,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,1,5,20.0,0,4,1,0,0,Bayer Leverkusen,2021-10-03 Arminia-Leverkusen,GER-BL1,21-22,2103b5e4
+aeed5c06,Moussa Diaby,19,FRA,LW,22-088,63,1,0,0,0,2,1,0,0,32,1,0,0,0.8,0.8,0.0,1,0,23,26,88.5,4,26,4,3,0,Bayer Leverkusen,2021-10-03 Arminia-Leverkusen,GER-BL1,21-22,2103b5e4
+53070b63,Paulinho,7,BRA,"FW,LW",21-080,27,0,0,0,0,0,0,0,0,14,0,0,0,0.0,0.0,0.0,2,0,12,13,92.3,0,14,2,2,2,Bayer Leverkusen,2021-10-03 Arminia-Leverkusen,GER-BL1,21-22,2103b5e4
+dcfb17f4,Amine Adli,31,MAR,"RW,LM",21-146,90,0,0,0,0,2,0,0,0,67,3,0,2,0.2,0.2,0.0,8,2,41,53,77.4,7,55,6,2,1,Bayer Leverkusen,2021-10-03 Arminia-Leverkusen,GER-BL1,21-22,2103b5e4
+e7fcf289,Florian Wirtz,27,GER,AM,18-153,74,0,1,0,0,4,0,0,0,54,1,0,0,0.3,0.3,0.8,7,3,36,42,85.7,9,39,5,3,1,Bayer Leverkusen,2021-10-03 Arminia-Leverkusen,GER-BL1,21-22,2103b5e4
+bee0bab1,Karim Bellarabi,38,GER,RM,31-178,16,0,0,0,0,1,1,0,0,8,1,0,0,0.0,0.0,0.0,1,1,5,5,100.0,0,5,0,0,0,Bayer Leverkusen,2021-10-03 Arminia-Leverkusen,GER-BL1,21-22,2103b5e4
+54b4dc4e,Kerem Demirbay,10,GER,"DM,CM",28-092,90,1,0,1,1,1,1,0,0,103,3,3,1,0.8,0.1,0.0,1,0,73,95,76.8,6,77,1,2,2,Bayer Leverkusen,2021-10-03 Arminia-Leverkusen,GER-BL1,21-22,2103b5e4
+56413b1f,Charles Aránguiz,20,CHI,DM,32-169,74,0,0,0,0,0,0,0,0,83,0,1,1,0.0,0.0,0.0,1,0,67,78,85.9,4,57,0,1,1,Bayer Leverkusen,2021-10-03 Arminia-Leverkusen,GER-BL1,21-22,2103b5e4
+555d5edd,Nadiem Amiri,11,GER,CM,24-341,16,0,0,0,0,1,0,0,0,14,0,0,1,0.0,0.0,0.1,1,0,12,12,100.0,3,9,2,0,0,Bayer Leverkusen,2021-10-03 Arminia-Leverkusen,GER-BL1,21-22,2103b5e4
+0c7a48f8,Piero Hincapié,33,ECU,LB,19-267,63,0,0,0,0,0,0,1,0,54,0,2,1,0.0,0.0,0.0,0,0,32,45,71.1,1,29,0,2,1,Bayer Leverkusen,2021-10-03 Arminia-Leverkusen,GER-BL1,21-22,2103b5e4
+73000a79,Daley Sinkgraven,22,NED,LB,26-091,27,0,0,0,0,0,0,0,0,23,0,1,0,0.0,0.0,0.0,0,0,19,21,90.5,2,17,1,1,0,Bayer Leverkusen,2021-10-03 Arminia-Leverkusen,GER-BL1,21-22,2103b5e4
+bd142efb,Jonathan Tah,4,GER,CB,25-234,90,0,0,0,0,0,0,0,0,90,1,0,1,0.0,0.0,0.0,0,0,74,78,94.9,2,62,0,1,0,Bayer Leverkusen,2021-10-03 Arminia-Leverkusen,GER-BL1,21-22,2103b5e4
+1f3afdcb,Odilon Kossonou,6,CIV,CB,20-272,90,0,0,0,0,0,0,0,0,96,1,0,3,0.0,0.0,0.2,2,0,78,87,89.7,1,72,1,0,0,Bayer Leverkusen,2021-10-03 Arminia-Leverkusen,GER-BL1,21-22,2103b5e4
+74f2e748,Jeremie Frimpong,30,NED,RB,20-297,90,0,1,0,0,2,0,0,0,79,2,1,2,0.0,0.0,0.5,3,1,57,66,86.4,1,54,6,4,2,Bayer Leverkusen,2021-10-03 Arminia-Leverkusen,GER-BL1,21-22,2103b5e4
+ad3389d5,Lukáš Hrádecký,1,FIN,GK,31-313,90,0,0,0,0,0,0,0,0,35,0,0,0,0.0,0.0,0.0,0,0,31,34,91.2,0,20,0,0,0,Bayer Leverkusen,2021-10-03 Arminia-Leverkusen,GER-BL1,21-22,2103b5e4

@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+6b8887c2,Steffen Tigges,21,GER,FW,24-091,79,0,0,0,0,0,0,0,0,28,1,0,1,0.0,0.0,0.0,1,0,12,22,54.5,0,16,1,0,0,Köln,2022-10-30 Köln-Hoffenheim,GER-BL1,22-23,fdbc58f9
+8779ddf8,Florian Dietz,33,GER,FW,24-088,10,0,0,0,0,0,0,0,0,4,0,0,1,0.0,0.0,0.0,0,0,0,1,0.0,0,5,0,1,0,Köln,2022-10-30 Köln-Hoffenheim,GER-BL1,22-23,fdbc58f9
+22919e97,Sargis Adamyan,23,ARM,FW,29-160,1,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,2,0,0,0,Köln,2022-10-30 Köln-Hoffenheim,GER-BL1,22-23,fdbc58f9
+e5d85da8,Linton Maina,37,GER,FW,23-129,71,0,1,0,0,3,0,0,0,29,0,0,0,0.4,0.4,0.2,3,1,14,21,66.7,1,19,3,0,0,Köln,2022-10-30 Köln-Hoffenheim,GER-BL1,22-23,fdbc58f9
+bd527260,Kingsley Schindler,17,GHA,FW,29-110,19,0,0,0,0,0,0,0,0,6,0,1,0,0.0,0.0,0.0,0,0,1,3,33.3,0,3,0,0,0,Köln,2022-10-30 Köln-Hoffenheim,GER-BL1,22-23,fdbc58f9
+94c18565,Florian Kainz,11,AUT,LM,30-006,90,1,0,0,0,4,3,0,0,50,0,2,0,0.6,0.6,0.0,2,0,23,42,54.8,6,33,4,1,1,Köln,2022-10-30 Köln-Hoffenheim,GER-BL1,22-23,fdbc58f9
+92a16062,Eric Martel,6,GER,CM,20-184,90,0,0,0,0,0,0,0,0,44,4,3,0,0.0,0.0,0.0,1,0,21,30,70.0,1,22,1,1,0,Köln,2022-10-30 Köln-Hoffenheim,GER-BL1,22-23,fdbc58f9
+79ca3e23,Ondrej Duda,18,SVK,CM,27-329,79,0,0,0,0,2,0,1,0,35,1,0,0,0.1,0.1,0.1,2,0,19,27,70.4,5,24,1,3,1,Köln,2022-10-30 Köln-Hoffenheim,GER-BL1,22-23,fdbc58f9
+a3ddb1b9,Mark Uth,13,GER,CM,31-067,11,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,1,0,0,0,Köln,2022-10-30 Köln-Hoffenheim,GER-BL1,22-23,fdbc58f9
+b116c6e3,Denis Huseinbasic,8,BIH,RM,21-119,90,0,0,0,0,1,0,0,0,35,3,1,0,0.1,0.1,0.0,0,0,19,24,79.2,5,15,1,1,0,Köln,2022-10-30 Köln-Hoffenheim,GER-BL1,22-23,fdbc58f9
+5154b2ba,Kristian Pedersen,3,DEN,LB,28-087,90,0,0,0,0,0,0,0,0,59,1,1,1,0.0,0.0,0.0,0,0,37,49,75.5,7,28,2,2,1,Köln,2022-10-30 Köln-Hoffenheim,GER-BL1,22-23,fdbc58f9
+94302c52,Timo Hübers,4,GER,CB,26-102,90,0,0,0,0,0,0,0,0,51,1,4,1,0.0,0.0,0.1,1,0,28,36,77.8,1,25,0,0,0,Köln,2022-10-30 Köln-Hoffenheim,GER-BL1,22-23,fdbc58f9
+4f627629,Nikola Soldo,5,CRO,CB,21-278,90,0,0,0,0,1,0,0,0,32,0,0,0,0.1,0.1,0.0,2,0,16,24,66.7,0,16,0,1,0,Köln,2022-10-30 Köln-Hoffenheim,GER-BL1,22-23,fdbc58f9
+ad00b1a8,Benno Schmitz,2,GER,RB,27-347,90,0,0,0,0,0,0,0,0,55,2,2,3,0.0,0.0,0.6,3,0,21,42,50.0,2,19,1,0,0,Köln,2022-10-30 Köln-Hoffenheim,GER-BL1,22-23,fdbc58f9
+87436846,Marvin Schwäbe,20,GER,GK,27-188,90,0,0,0,0,0,0,0,0,34,0,0,0,0.0,0.0,0.0,1,1,19,32,59.4,0,24,0,0,0,Köln,2022-10-30 Köln-Hoffenheim,GER-BL1,22-23,fdbc58f9
+4e204552,Jacob Bruun Larsen,7,DEN,FW,24-041,73,1,0,0,0,1,1,0,0,29,0,1,2,0.6,0.6,0.3,4,0,13,20,65.0,3,19,2,0,0,Hoffenheim,2022-10-30 Köln-Hoffenheim,GER-BL1,22-23,fdbc58f9
+c64c01fc,Georginio Rutter,33,FRA,FW,20-193,17,0,0,0,0,0,0,0,0,6,1,0,0,0.0,0.0,0.0,0,0,2,2,100.0,1,3,1,1,1,Hoffenheim,2022-10-30 Köln-Hoffenheim,GER-BL1,22-23,fdbc58f9
+437f2b00,Christoph Baumgartner,14,AUT,FW,23-090,90,0,1,0,0,1,0,0,0,38,2,0,1,0.0,0.0,0.6,2,2,17,28,60.7,2,24,1,2,1,Hoffenheim,2022-10-30 Köln-Hoffenheim,GER-BL1,22-23,fdbc58f9
+37f606f0,Dennis Geiger,8,GER,CM,24-142,73,0,0,0,0,0,0,0,0,26,2,0,0,0.0,0.0,0.0,0,0,16,20,80.0,2,18,0,1,0,Hoffenheim,2022-10-30 Köln-Hoffenheim,GER-BL1,22-23,fdbc58f9
+3b1ed320,Angelo Stiller,13,GER,CM,21-209,17,0,0,0,0,0,0,0,0,17,0,0,0,0.0,0.0,0.0,0,0,11,14,78.6,2,10,1,0,0,Hoffenheim,2022-10-30 Köln-Hoffenheim,GER-BL1,22-23,fdbc58f9
+80f36c88,Sebastian Rudy,16,GER,CM,32-244,56,0,0,0,0,0,0,0,0,27,0,0,0,0.0,0.0,0.0,0,0,17,25,68.0,2,22,0,0,0,Hoffenheim,2022-10-30 Köln-Hoffenheim,GER-BL1,22-23,fdbc58f9
+603cb947,Andrej Kramarić,27,CRO,CM,31-133,34,0,0,0,0,0,0,0,0,22,0,0,0,0.0,0.0,0.0,0,0,13,19,68.4,3,17,2,0,0,Hoffenheim,2022-10-30 Köln-Hoffenheim,GER-BL1,22-23,fdbc58f9
+924f9191,Grischa Prömel,6,GER,CM,27-294,90,0,0,0,0,1,0,0,0,39,0,0,1,0.2,0.2,0.0,0,0,23,28,82.1,1,26,2,3,1,Hoffenheim,2022-10-30 Köln-Hoffenheim,GER-BL1,22-23,fdbc58f9
+30941e96,Angeliño,11,ESP,WB,25-299,90,0,0,0,0,1,0,0,0,87,1,0,1,0.0,0.0,0.0,2,0,56,78,71.8,9,60,2,0,0,Hoffenheim,2022-10-30 Köln-Hoffenheim,GER-BL1,22-23,fdbc58f9
+ff98492b,Robert Skov,29,DEN,WB,26-163,90,0,0,0,0,1,0,0,0,63,1,3,3,0.1,0.1,0.0,1,0,28,51,54.9,2,29,2,1,0,Hoffenheim,2022-10-30 Köln-Hoffenheim,GER-BL1,22-23,fdbc58f9
+61590953,Stanley N'Soki,34,FRA,CB,23-204,45,0,0,0,0,0,0,0,0,47,0,0,1,0.0,0.0,0.0,0,0,34,43,79.1,3,38,2,1,0,Hoffenheim,2022-10-30 Köln-Hoffenheim,GER-BL1,22-23,fdbc58f9
+6ec6fde0,Kevin Akpoguma,25,NGA,CB,27-194,45,0,0,0,0,0,0,0,0,64,4,0,0,0.0,0.0,0.0,0,0,51,56,91.1,2,46,0,1,1,Hoffenheim,2022-10-30 Köln-Hoffenheim,GER-BL1,22-23,fdbc58f9
+1d8e9add,Kevin Vogt,22,GER,CB,31-037,61,0,0,0,0,0,0,0,0,68,2,0,0,0.0,0.0,0.0,0,0,57,60,95.0,1,50,0,0,0,Hoffenheim,2022-10-30 Köln-Hoffenheim,GER-BL1,22-23,fdbc58f9
+7ec723b7,Eduardo Quaresma,26,POR,CB,20-242,29,0,0,0,0,0,0,0,0,33,0,0,1,0.0,0.0,0.0,0,0,28,32,87.5,6,29,4,1,1,Hoffenheim,2022-10-30 Köln-Hoffenheim,GER-BL1,22-23,fdbc58f9
+2d61d13a,Ozan Kabak,5,TUR,CB,22-219,86,0,0,0,0,0,0,2,1,98,2,3,3,0.0,0.0,0.0,1,0,78,84,92.9,5,73,2,3,1,Hoffenheim,2022-10-30 Köln-Hoffenheim,GER-BL1,22-23,fdbc58f9
+47064058,Oliver Baumann,1,GER,GK,32-150,90,0,0,0,0,0,0,0,0,74,0,0,0,0.0,0.0,0.0,0,0,65,72,90.3,0,57,0,0,0,Hoffenheim,2022-10-30 Köln-Hoffenheim,GER-BL1,22-23,fdbc58f9

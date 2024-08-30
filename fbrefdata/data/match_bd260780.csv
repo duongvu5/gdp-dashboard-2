@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+c693347d,Andreas Cornelius,9,DEN,FW,25-258,90,0,0,0,0,3,1,0,0,34,2,0,0,0.1,0.1,0.7,3,0,17,24,70.8,1,21,1,0,0,Bordeaux,2018-11-29 Bordeaux-Slavia Prague,UEL,18-19,bd260780
+b0547a87,Nicolas de Préville,12,FRA,LW,27-325,70,1,0,0,0,3,1,0,0,30,0,1,1,0.2,0.2,0.0,3,1,18,22,81.8,0,20,2,5,3,Bordeaux,2018-11-29 Bordeaux-Slavia Prague,UEL,18-19,bd260780
+81d3318f,François Kamano,11,GUI,RW,22-211,20,0,0,0,0,1,0,0,0,12,0,0,0,0.7,0.7,0.3,2,0,4,6,66.7,1,9,2,3,1,Bordeaux,2018-11-29 Bordeaux-Slavia Prague,UEL,18-19,bd260780
+b8d22478,Samuel Kalu,10,NGA,"RW,LW",21-095,80,0,0,0,0,2,0,0,0,62,2,0,1,0.1,0.1,0.2,6,0,28,43,65.1,3,39,4,5,2,Bordeaux,2018-11-29 Bordeaux-Slavia Prague,UEL,18-19,bd260780
+8b66d9cc,Yann Karamoh,8,FRA,LW,20-144,10,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,1,1,3,4,75.0,0,6,1,2,1,Bordeaux,2018-11-29 Bordeaux-Slavia Prague,UEL,18-19,bd260780
+e2f9bb5f,Zaydou Youssouf,28,FRA,LM,19-141,75,0,0,0,0,3,3,0,0,42,2,0,0,0.2,0.2,0.0,5,0,25,34,73.5,3,27,2,3,3,Bordeaux,2018-11-29 Bordeaux-Slavia Prague,UEL,18-19,bd260780
+c650629d,Younousse Sankharé,13,SEN,LM,29-080,15,0,0,0,0,2,2,1,0,10,0,0,0,0.3,0.3,0.0,0,0,5,7,71.4,0,8,1,1,0,Bordeaux,2018-11-29 Bordeaux-Slavia Prague,UEL,18-19,bd260780
+1b82f8df,Lukas Lerager,19,DEN,CM,25-140,90,0,0,0,0,0,0,0,0,51,1,1,0,0.0,0.0,0.0,1,0,36,45,80.0,2,31,0,1,1,Bordeaux,2018-11-29 Bordeaux-Slavia Prague,UEL,18-19,bd260780
+4f255115,Aurélien Tchouaméni,17,FRA,RM,18-306,90,0,0,0,0,2,0,0,0,46,1,4,0,0.1,0.1,0.0,2,0,31,35,88.6,3,35,1,1,0,Bordeaux,2018-11-29 Bordeaux-Slavia Prague,UEL,18-19,bd260780
+fbbb9269,Youssouf Sabaly,20,SEN,LB,25-269,90,0,1,0,0,0,0,0,0,59,3,2,1,0.0,0.0,0.1,4,1,37,47,78.7,1,28,5,2,0,Bordeaux,2018-11-29 Bordeaux-Slavia Prague,UEL,18-19,bd260780
+29d8ad3f,Pablo,25,BRA,CB,27-161,90,0,0,0,0,0,0,0,0,52,0,2,0,0.0,0.0,0.1,2,0,37,43,86.0,5,23,0,1,1,Bordeaux,2018-11-29 Bordeaux-Slavia Prague,UEL,18-19,bd260780
+4d1666ff,Jules Koundé,4,FRA,CB,20-017,90,1,0,0,0,1,1,0,0,58,0,2,1,0.1,0.1,0.0,0,0,41,49,83.7,2,35,0,0,0,Bordeaux,2018-11-29 Bordeaux-Slavia Prague,UEL,18-19,bd260780
+19f8e480,Sergi Palencia,3,ESP,RB,22-251,90,0,0,0,0,0,0,0,0,65,1,2,1,0.0,0.0,0.0,2,1,39,49,79.6,4,30,2,3,1,Bordeaux,2018-11-29 Bordeaux-Slavia Prague,UEL,18-19,bd260780
+2434f24a,Benoît Costil,1,FRA,GK,31-149,90,0,0,0,0,0,0,0,0,41,0,0,0,0.0,0.0,0.0,0,0,31,42,73.8,0,23,0,0,0,Bordeaux,2018-11-29 Bordeaux-Slavia Prague,UEL,18-19,bd260780
+781cff03,Jan Matoušek,16,CZE,FW,20-204,50,0,0,0,0,0,0,0,0,10,1,0,1,0.0,0.0,0.0,0,0,2,3,66.7,0,6,0,1,0,Slavia Prague,2018-11-29 Bordeaux-Slavia Prague,UEL,18-19,bd260780
+beec76cc,Peter Olayinka,9,NGA,FW,23-011,40,0,0,0,0,1,1,1,0,27,1,0,2,0.0,0.0,0.0,0,0,9,17,52.9,1,17,0,1,1,Slavia Prague,2018-11-29 Bordeaux-Slavia Prague,UEL,18-19,bd260780
+3d68d631,Josef Hušbauer,10,CZE,"CM,FW",28-258,90,0,0,0,0,1,0,0,0,65,4,0,0,0.0,0.0,0.2,6,0,47,59,79.7,16,42,2,0,0,Slavia Prague,2018-11-29 Bordeaux-Slavia Prague,UEL,18-19,bd260780
+cbec1196,Jaromír Zmrhal,8,CZE,LM,25-119,90,0,0,0,0,2,1,0,0,34,1,0,0,0.1,0.1,0.0,2,0,20,29,69.0,4,22,1,0,0,Slavia Prague,2018-11-29 Bordeaux-Slavia Prague,UEL,18-19,bd260780
+4c5e78da,Ibrahim Traoré,27,CIV,CM,30-074,45,0,0,0,0,0,0,0,0,24,2,0,0,0.0,0.0,0.0,0,0,14,19,73.7,0,19,1,1,1,Slavia Prague,2018-11-29 Bordeaux-Slavia Prague,UEL,18-19,bd260780
+d820a7c8,Jan Sýkora,6,CZE,"FW,RM",24-335,45,0,0,0,0,1,0,0,0,22,1,0,3,0.6,0.6,0.0,1,0,12,14,85.7,0,13,2,1,0,Slavia Prague,2018-11-29 Bordeaux-Slavia Prague,UEL,18-19,bd260780
+6613c819,Tomáš Souček,22,CZE,CM,23-275,90,0,0,0,0,1,0,0,0,65,2,0,1,0.1,0.1,0.6,4,0,46,52,88.5,5,46,5,1,0,Slavia Prague,2018-11-29 Bordeaux-Slavia Prague,UEL,18-19,bd260780
+ae0f7da7,Miroslav Stoch,17,SVK,RM,29-041,76,0,0,0,0,3,0,0,0,26,0,0,0,0.1,0.1,0.0,2,0,13,19,68.4,1,20,1,0,0,Slavia Prague,2018-11-29 Bordeaux-Slavia Prague,UEL,18-19,bd260780
+65adf2db,Milan Škoda,21,CZE,FW,32-317,14,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,2,0,7,9,77.8,2,5,0,1,1,Slavia Prague,2018-11-29 Bordeaux-Slavia Prague,UEL,18-19,bd260780
+2b3efa4a,Jan Bořil,18,CZE,LB,27-322,90,0,0,0,0,0,0,1,0,67,3,0,2,0.0,0.0,0.0,2,0,39,55,70.9,5,30,2,0,0,Slavia Prague,2018-11-29 Bordeaux-Slavia Prague,UEL,18-19,bd260780
+6b6cbca4,Simon Deli,19,CIV,CB,27-033,90,0,0,0,0,1,0,1,0,78,4,2,0,0.1,0.1,0.0,0,0,50,61,82.0,7,56,3,2,0,Slavia Prague,2018-11-29 Bordeaux-Slavia Prague,UEL,18-19,bd260780
+fc1cf07a,Michael Ngadeu-Ngadjui,13,CMR,CB,28-006,90,0,0,0,0,1,0,0,0,77,5,1,1,0.1,0.1,0.0,0,0,54,63,85.7,4,52,0,0,0,Slavia Prague,2018-11-29 Bordeaux-Slavia Prague,UEL,18-19,bd260780
+fdf3cb77,Vladimír Coufal,5,CZE,RB,26-099,90,0,0,0,0,0,0,0,0,64,2,0,0,0.0,0.0,0.1,2,0,45,57,78.9,5,37,3,1,0,Slavia Prague,2018-11-29 Bordeaux-Slavia Prague,UEL,18-19,bd260780
+179d2851,Ondřej Kolář,1,CZE,GK,24-043,90,0,0,0,0,0,0,0,0,39,0,0,0,0.0,0.0,0.0,0,0,28,34,82.4,0,22,0,1,1,Slavia Prague,2018-11-29 Bordeaux-Slavia Prague,UEL,18-19,bd260780

@@ -1,0 +1,29 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+b1236c63,Ilija Nestorovski,30,MKD,FW,30-278,64,0,0,0,0,2,2,0,0,20,0,0,1,0.2,0.2,0.1,2,0,13,15,86.7,1,14,0,0,0,Udinese,2020-12-15 Udinese-Crotone,ITA-SERIA_A,20-21,c3cb40d3
+39583cfd,Gerard Deulofeu,9,ESP,FW,26-277,26,0,0,0,0,0,0,0,0,20,0,0,0,0.0,0.0,0.0,2,0,9,18,50.0,4,13,2,2,1,Udinese,2020-12-15 Udinese-Crotone,ITA-SERIA_A,20-21,c3cb40d3
+62437b4f,Ignacio Pussetto,23,ARG,FW,24-360,90,0,0,0,0,3,1,0,0,28,1,1,4,0.4,0.4,0.0,2,0,7,12,58.3,1,15,5,5,4,Udinese,2020-12-15 Udinese-Crotone,ITA-SERIA_A,20-21,c3cb40d3
+75f2c59f,Roberto Pereyra,37,ARG,CM,29-343,90,0,0,0,0,0,0,0,0,57,0,2,1,0.0,0.0,0.1,2,0,37,46,80.4,5,42,2,6,2,Udinese,2020-12-15 Udinese-Crotone,ITA-SERIA_A,20-21,c3cb40d3
+963a328b,Tolgay Arslan,22,GER,CM,30-121,90,0,0,0,0,3,1,0,0,75,2,1,3,0.1,0.1,0.0,1,0,55,62,88.7,3,52,4,3,2,Udinese,2020-12-15 Udinese-Crotone,ITA-SERIA_A,20-21,c3cb40d3
+162efffd,Rodrigo De Paul,10,ARG,CM,26-205,90,0,0,0,0,3,0,0,0,68,0,0,0,0.2,0.2,0.6,11,0,41,59,69.5,10,49,2,8,7,Udinese,2020-12-15 Udinese-Crotone,ITA-SERIA_A,20-21,c3cb40d3
+8abd0c03,Marvin Zeegelaar,90,NED,WB,30-125,90,0,0,0,0,0,0,0,0,51,1,1,0,0.0,0.0,0.3,4,0,37,44,84.1,8,32,2,3,1,Udinese,2020-12-15 Udinese-Crotone,ITA-SERIA_A,20-21,c3cb40d3
+23610943,Nahuel Molina,16,ARG,WB,22-253,78,0,0,0,0,2,2,0,0,44,0,2,0,0.3,0.3,0.0,0,0,29,39,74.4,5,20,0,0,0,Udinese,2020-12-15 Udinese-Crotone,ITA-SERIA_A,20-21,c3cb40d3
+f91e81c9,Jens Stryger Larsen,19,DEN,WB,29-298,12,0,0,0,0,0,0,0,0,8,1,0,0,0.0,0.0,0.0,0,0,5,7,71.4,1,7,0,0,0,Udinese,2020-12-15 Udinese-Crotone,ITA-SERIA_A,20-21,c3cb40d3
+92b4758e,Samir Santos,3,BRA,CB,26-010,90,0,0,0,0,0,0,1,0,58,0,3,0,0.0,0.0,0.0,1,0,46,55,83.6,3,37,1,0,0,Udinese,2020-12-15 Udinese-Crotone,ITA-SERIA_A,20-21,c3cb40d3
+fb77bfef,Kevin Bonifazi,14,ITA,CB,24-210,90,0,0,0,0,2,0,0,0,59,1,2,0,0.2,0.2,0.0,1,0,50,54,92.6,5,35,0,0,0,Udinese,2020-12-15 Udinese-Crotone,ITA-SERIA_A,20-21,c3cb40d3
+19e4eab9,Rodrigo Becão,50,BRA,CB,24-331,90,0,0,0,0,0,0,0,0,46,2,4,0,0.0,0.0,0.0,0,0,36,40,90.0,3,34,1,0,0,Udinese,2020-12-15 Udinese-Crotone,ITA-SERIA_A,20-21,c3cb40d3
+a111cf41,Juan Musso,1,ARG,GK,26-223,90,0,0,0,0,0,0,0,0,27,0,0,0,0.0,0.0,0.0,0,0,19,26,73.1,0,11,0,0,0,Udinese,2020-12-15 Udinese-Crotone,ITA-SERIA_A,20-21,c3cb40d3
+2bae5658,Emmanuel Rivière,97,FRA,FW,30-287,54,0,0,0,0,0,0,0,0,13,0,0,1,0.0,0.0,0.0,0,0,9,9,100.0,0,8,0,0,0,Crotone,2020-12-15 Udinese-Crotone,ITA-SERIA_A,20-21,c3cb40d3
+1bd5fc78,Eduardo Henrique,95,BRA,"FW,CM",25-212,36,0,0,0,0,0,0,1,0,11,0,0,0,0.0,0.0,0.0,0,0,6,10,60.0,1,6,1,1,1,Crotone,2020-12-15 Udinese-Crotone,ITA-SERIA_A,20-21,c3cb40d3
+80dbbd10,Simeon Nwankwo,25,NGA,FW,28-222,90,0,0,0,0,1,1,0,0,24,1,0,1,0.1,0.1,0.0,0,0,9,14,64.3,0,14,0,0,0,Crotone,2020-12-15 Udinese-Crotone,ITA-SERIA_A,20-21,c3cb40d3
+54ab971f,Salvatore Molina,17,ITA,CM,28-349,90,0,0,0,0,0,0,0,0,53,2,0,0,0.0,0.0,0.0,3,0,28,37,75.7,0,32,1,3,1,Crotone,2020-12-15 Udinese-Crotone,ITA-SERIA_A,20-21,c3cb40d3
+909bce7f,Jacopo Petriccione,44,ITA,CM,25-297,81,0,0,0,0,0,0,1,0,53,1,1,0,0.0,0.0,0.0,3,0,37,47,78.7,6,27,0,1,1,Crotone,2020-12-15 Udinese-Crotone,ITA-SERIA_A,20-21,c3cb40d3
+741e058f,Niccolò Zanellato,21,ITA,CM,22-174,9,0,0,0,0,0,0,0,0,4,0,1,0,0.0,0.0,0.0,0,0,2,3,66.7,0,2,0,0,0,Crotone,2020-12-15 Udinese-Crotone,ITA-SERIA_A,20-21,c3cb40d3
+f49c4ae9,Junior Messias,30,BRA,"CM,FW",29-216,81,0,0,0,0,2,1,1,0,39,5,0,0,0.1,0.1,0.0,1,0,15,24,62.5,0,21,1,2,1,Crotone,2020-12-15 Udinese-Crotone,ITA-SERIA_A,20-21,c3cb40d3
+0e490f6e,Denis Drăguș,11,ROU,FW,21-162,9,0,0,0,0,0,0,1,0,5,0,1,0,0.0,0.0,0.0,0,0,0,1,0.0,0,4,0,0,0,Crotone,2020-12-15 Udinese-Crotone,ITA-SERIA_A,20-21,c3cb40d3
+6213fd82,Arkadiusz Reca,69,POL,WB,25-181,90,0,0,0,0,0,0,0,0,34,1,3,1,0.0,0.0,0.1,1,0,17,25,68.0,0,15,0,1,1,Crotone,2020-12-15 Udinese-Crotone,ITA-SERIA_A,20-21,c3cb40d3
+c77be0cf,Pedro Pereira,32,POR,WB,22-328,90,0,0,0,0,1,0,0,0,17,2,1,0,0.0,0.0,0.0,0,0,7,11,63.6,0,6,0,0,0,Crotone,2020-12-15 Udinese-Crotone,ITA-SERIA_A,20-21,c3cb40d3
+1db295e5,Vladimir Golemić,5,SVN,CB,29-170,90,0,0,0,0,0,0,0,0,55,2,3,3,0.0,0.0,0.0,0,0,32,40,80.0,1,30,0,0,0,Crotone,2020-12-15 Udinese-Crotone,ITA-SERIA_A,20-21,c3cb40d3
+ea468ea8,Luca Marrone,34,ITA,CB,30-262,90,0,0,0,0,0,0,0,0,81,3,1,2,0.0,0.0,0.0,0,0,67,72,93.1,0,62,0,0,0,Crotone,2020-12-15 Udinese-Crotone,ITA-SERIA_A,20-21,c3cb40d3
+ae5b04fe,Giuseppe Cuomo,3,ITA,CB,22-317,90,0,0,0,0,0,0,0,0,75,3,1,2,0.0,0.0,0.0,0,0,48,63,76.2,5,42,1,1,1,Crotone,2020-12-15 Udinese-Crotone,ITA-SERIA_A,20-21,c3cb40d3
+e66ebabb,Alex Cordaz,1,ITA,GK,37-349,90,0,0,0,0,0,0,0,0,47,0,0,0,0.0,0.0,0.0,0,0,36,46,78.3,0,29,0,0,0,Crotone,2020-12-15 Udinese-Crotone,ITA-SERIA_A,20-21,c3cb40d3

@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+854ee61a,Grégoire Defrel,92,MTQ,FW,27-106,65,1,0,0,0,2,1,0,0,29,2,0,0,0.1,0.1,0.3,3,1,15,24,62.5,2,20,0,1,1,Sampdoria,2018-10-01 Sampdoria-SPAL,ITA-SERIA_A,18-19,60b0ad33
+54e53b7e,Gianluca Caprari,17,ITA,FW,25-063,25,0,0,0,0,1,1,0,0,6,0,0,1,0.1,0.1,0.0,0,0,3,3,100.0,1,3,0,0,0,Sampdoria,2018-10-01 Sampdoria-SPAL,ITA-SERIA_A,18-19,60b0ad33
+ee4f2f3b,Fabio Quagliarella,27,ITA,FW,35-243,75,0,2,0,0,7,4,0,0,34,0,1,1,0.4,0.4,0.3,7,3,14,20,70.0,1,21,0,2,0,Sampdoria,2018-10-01 Sampdoria-SPAL,ITA-SERIA_A,18-19,60b0ad33
+be5e1c4c,Dawid Kownacki,99,POL,FW,21-201,15,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,1,0,3,7,42.9,0,3,0,1,0,Sampdoria,2018-10-01 Sampdoria-SPAL,ITA-SERIA_A,18-19,60b0ad33
+86695068,Dennis Praet,10,BEL,AM,24-140,90,0,0,0,0,2,0,1,0,42,2,2,1,0.1,0.1,0.0,3,0,22,34,64.7,2,19,1,2,2,Sampdoria,2018-10-01 Sampdoria-SPAL,ITA-SERIA_A,18-19,60b0ad33
+d023d70f,Karol Linetty,16,POL,LM,23-241,82,1,0,0,0,1,1,0,0,47,4,2,1,0.1,0.1,0.0,1,0,27,30,90.0,4,23,0,1,0,Sampdoria,2018-10-01 Sampdoria-SPAL,ITA-SERIA_A,18-19,60b0ad33
+1ea5f91c,Jakub Jankto,14,CZE,LM,22-255,8,0,0,0,0,0,0,0,0,5,0,1,1,0.0,0.0,0.0,0,0,0,3,0.0,0,1,0,0,0,Sampdoria,2018-10-01 Sampdoria-SPAL,ITA-SERIA_A,18-19,60b0ad33
+f503ea63,Albin Ekdal,6,SWE,CM,29-065,90,0,0,0,0,0,0,1,0,60,1,1,1,0.0,0.0,0.0,2,0,38,49,77.6,5,19,1,1,0,Sampdoria,2018-10-01 Sampdoria-SPAL,ITA-SERIA_A,18-19,60b0ad33
+43a1bea5,Édgar Barreto,8,PAR,RM,34-078,90,0,0,0,0,2,2,0,0,48,4,0,0,0.4,0.4,0.2,3,0,26,37,70.3,11,13,0,0,0,Sampdoria,2018-10-01 Sampdoria-SPAL,ITA-SERIA_A,18-19,60b0ad33
+d183e9d6,Nicola Murru,29,ITA,LB,23-289,90,0,0,0,0,0,0,1,0,65,5,2,1,0.0,0.0,0.0,3,0,41,53,77.4,6,31,4,1,1,Sampdoria,2018-10-01 Sampdoria-SPAL,ITA-SERIA_A,18-19,60b0ad33
+e34fc66d,Joachim Andersen,3,DEN,CB,22-123,90,0,0,0,0,0,0,0,0,55,0,1,0,0.0,0.0,0.0,2,0,38,49,77.6,3,18,0,0,0,Sampdoria,2018-10-01 Sampdoria-SPAL,ITA-SERIA_A,18-19,60b0ad33
+8cc29864,Lorenzo Tonelli,26,ITA,CB,28-257,90,0,0,0,0,0,0,0,0,41,1,0,1,0.0,0.0,0.0,0,0,30,35,85.7,1,16,0,0,0,Sampdoria,2018-10-01 Sampdoria-SPAL,ITA-SERIA_A,18-19,60b0ad33
+61b3978f,Bartosz Bereszyński,24,POL,RB,26-081,90,0,0,0,0,0,0,0,0,65,2,0,2,0.0,0.0,0.1,3,0,47,59,79.7,11,24,1,0,0,Sampdoria,2018-10-01 Sampdoria-SPAL,ITA-SERIA_A,18-19,60b0ad33
+649b01d8,Emil Audero,1,ITA,GK,21-256,90,0,0,0,0,0,0,0,0,27,0,0,0,0.0,0.0,0.0,0,0,15,25,60.0,0,12,0,0,0,Sampdoria,2018-10-01 Sampdoria-SPAL,ITA-SERIA_A,18-19,60b0ad33
+b5cae4e6,Alberto Paloschi,43,ITA,FW,28-270,83,1,0,0,0,1,1,0,0,13,2,0,0,0.8,0.8,0.0,1,0,6,8,75.0,2,6,1,0,0,SPAL,2018-10-01 Sampdoria-SPAL,ITA-SERIA_A,18-19,60b0ad33
+43a2e16c,Mirco Antenucci,7,ITA,FW,34-023,7,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,1,4,25.0,0,5,0,3,1,SPAL,2018-10-01 Sampdoria-SPAL,ITA-SERIA_A,18-19,60b0ad33
+03f946ed,Andrea Petagna,37,ITA,FW,23-093,90,0,0,0,0,2,2,1,0,28,1,0,2,0.2,0.2,0.0,5,0,12,18,66.7,2,23,3,2,2,SPAL,2018-10-01 Sampdoria-SPAL,ITA-SERIA_A,18-19,60b0ad33
+c414df9d,Mattia Valoti,8,ITA,CM,25-025,70,0,0,0,0,1,0,0,0,44,3,3,0,0.1,0.1,0.0,2,0,31,37,83.8,4,21,1,1,1,SPAL,2018-10-01 Sampdoria-SPAL,ITA-SERIA_A,18-19,60b0ad33
+b7a5bc86,Mohamed Fares,93,ALG,CM,22-228,20,0,0,0,0,1,0,0,0,12,0,0,0,0.1,0.1,0.0,1,0,8,11,72.7,2,7,2,0,0,SPAL,2018-10-01 Sampdoria-SPAL,ITA-SERIA_A,18-19,60b0ad33
+3799e138,Everton Luiz,25,BRA,CM,30-130,64,0,0,0,0,0,0,1,0,27,3,0,0,0.0,0.0,0.0,0,0,19,19,100.0,1,11,1,1,1,SPAL,2018-10-01 Sampdoria-SPAL,ITA-SERIA_A,18-19,60b0ad33
+331c0a43,Simone Missiroli,6,ITA,CM,32-131,26,0,0,0,0,0,0,0,0,14,0,0,1,0.0,0.0,0.0,0,0,9,13,69.2,2,8,1,0,0,SPAL,2018-10-01 Sampdoria-SPAL,ITA-SERIA_A,18-19,60b0ad33
+bd84fc61,Pasquale Schiattarella,28,ITA,CM,31-124,90,0,0,0,0,0,0,0,0,65,0,0,1,0.0,0.0,0.1,3,0,50,61,82.0,4,25,1,0,0,SPAL,2018-10-01 Sampdoria-SPAL,ITA-SERIA_A,18-19,60b0ad33
+00528660,Filippo Costa,33,ITA,WB,23-133,90,0,0,0,0,0,0,0,0,58,1,0,4,0.0,0.0,0.1,2,0,31,45,68.9,5,27,2,0,0,SPAL,2018-10-01 Sampdoria-SPAL,ITA-SERIA_A,18-19,60b0ad33
+02caf6e0,Manuel Lazzari,29,ITA,WB,24-306,90,0,0,0,0,2,1,0,0,71,2,0,1,0.1,0.1,0.1,3,1,38,54,70.4,2,53,15,6,4,SPAL,2018-10-01 Sampdoria-SPAL,ITA-SERIA_A,18-19,60b0ad33
+8cea6319,Felipe dal Belo,27,BRA,CB,34-062,90,0,0,0,0,1,0,1,0,50,1,0,4,0.0,0.0,0.0,0,0,39,43,90.7,2,24,0,0,0,SPAL,2018-10-01 Sampdoria-SPAL,ITA-SERIA_A,18-19,60b0ad33
+b8673e18,Johan Djourou,3,SUI,CB,31-256,90,0,0,0,0,0,0,0,0,59,1,1,2,0.0,0.0,0.0,0,0,41,45,91.1,1,20,0,0,0,SPAL,2018-10-01 Sampdoria-SPAL,ITA-SERIA_A,18-19,60b0ad33
+46f5c54d,Thiago Cionek,4,POL,CB,32-163,90,0,0,0,0,1,0,0,0,109,5,5,1,0.1,0.1,0.0,0,0,70,91,76.9,6,47,4,1,0,SPAL,2018-10-01 Sampdoria-SPAL,ITA-SERIA_A,18-19,60b0ad33
+cecbce23,Alfred Gomis,1,SEN,GK,25-026,90,0,0,0,0,0,0,0,0,51,0,0,0,0.0,0.0,0.0,0,0,32,48,66.7,0,30,0,0,0,SPAL,2018-10-01 Sampdoria-SPAL,ITA-SERIA_A,18-19,60b0ad33

@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+fe48a073,Giuseppe Rossi,49,ITA,FW,31-094,66,1,0,0,0,2,1,0,0,20,0,0,0,1.0,1.0,0.0,1,0,13,15,86.7,0,16,0,0,0,Genoa,2018-05-06 Genoa-Fiorentina,ITA-SERIA_A,17-18,c7004163
+2ead2809,Gianluca Lapadula,10,PER,FW,28-088,24,1,0,0,0,2,1,0,0,13,0,0,0,1.0,1.0,0.0,0,0,5,7,71.4,1,6,0,0,0,Genoa,2018-05-06 Genoa-Fiorentina,ITA-SERIA_A,17-18,c7004163
+97e2aa67,Iuri Medeiros,45,POR,"AM,FW",23-300,90,0,0,0,0,1,0,0,0,39,1,0,0,0.0,0.0,0.3,3,1,20,34,58.8,2,32,4,1,0,Genoa,2018-05-06 Genoa-Fiorentina,ITA-SERIA_A,17-18,c7004163
+c75b6a02,Andrea Bertolacci,8,ITA,"LM,DM",27-115,90,0,0,0,0,0,0,1,0,50,1,0,3,0.0,0.0,0.0,1,0,34,44,77.3,8,26,3,1,1,Genoa,2018-05-06 Genoa-Fiorentina,ITA-SERIA_A,17-18,c7004163
+ab1ca213,Miguel Veloso,44,POR,"DM,CM",31-360,59,0,0,0,0,0,0,0,0,46,4,0,1,0.0,0.0,0.0,0,0,26,35,74.3,2,22,0,1,1,Genoa,2018-05-06 Genoa-Fiorentina,ITA-SERIA_A,17-18,c7004163
+88895312,Daniel Bessa,24,ITA,CM,25-112,31,0,1,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.4,1,1,6,6,100.0,0,5,0,0,0,Genoa,2018-05-06 Genoa-Fiorentina,ITA-SERIA_A,17-18,c7004163
+98e958af,Oscar Hiljemark,88,SWE,"RM,DM",25-312,90,0,1,0,0,1,1,0,0,55,0,0,0,0.0,0.0,1.3,3,1,31,48,64.6,4,30,4,3,2,Genoa,2018-05-06 Genoa-Fiorentina,ITA-SERIA_A,17-18,c7004163
+5128bde4,Darko Lazović,22,SRB,"LB,WB",27-233,90,0,0,0,0,1,0,0,0,50,1,2,1,0.0,0.0,0.0,0,0,30,41,73.2,2,28,8,4,3,Genoa,2018-05-06 Genoa-Fiorentina,ITA-SERIA_A,17-18,c7004163
+1b729ba2,Aleandro Rosi,20,ITA,WB,30-354,45,0,0,0,0,0,0,0,0,19,0,0,0,0.0,0.0,0.0,0,0,11,15,73.3,1,12,1,1,1,Genoa,2018-05-06 Genoa-Fiorentina,ITA-SERIA_A,17-18,c7004163
+d711d04f,Goran Pandev,19,MKD,AM,34-283,25,0,0,0,0,0,0,0,1,12,0,1,1,0.0,0.0,0.0,1,1,5,8,62.5,2,10,0,1,1,Genoa,2018-05-06 Genoa-Fiorentina,ITA-SERIA_A,17-18,c7004163
+f6f6b6e8,Jawad El Yamiq,17,MAR,CB,26-066,90,0,0,0,0,0,0,0,0,58,2,1,5,0.0,0.0,0.0,1,0,32,41,78.0,2,24,1,0,0,Genoa,2018-05-06 Genoa-Fiorentina,ITA-SERIA_A,17-18,c7004163
+9a560ebe,Nicolás Spolli,2,ARG,CB,35-075,90,0,0,0,0,0,0,1,0,43,3,1,3,0.0,0.0,0.0,0,0,25,30,83.3,0,15,0,0,0,Genoa,2018-05-06 Genoa-Fiorentina,ITA-SERIA_A,17-18,c7004163
+64cd167d,Davide Biraschi,14,ITA,"RB,CB",23-308,90,0,0,0,0,0,0,0,0,54,2,1,2,0.0,0.0,0.1,3,0,30,43,69.8,3,26,1,1,1,Genoa,2018-05-06 Genoa-Fiorentina,ITA-SERIA_A,17-18,c7004163
+4c62d0c8,Mattia Perin,1,ITA,GK,25-177,90,0,0,0,0,0,0,0,0,44,0,0,0,0.0,0.0,0.0,0,0,23,39,59.0,0,24,0,0,0,Genoa,2018-05-06 Genoa-Fiorentina,ITA-SERIA_A,17-18,c7004163
+343c0d52,Giovanni Simeone,9,ARG,FW,22-305,90,0,1,0,0,0,0,0,0,29,0,0,0,0.0,0.0,0.5,4,1,14,18,77.8,1,20,2,3,0,Fiorentina,2018-05-06 Genoa-Fiorentina,ITA-SERIA_A,17-18,c7004163
+b0f7e36c,Federico Chiesa,25,ITA,"LW,RB,RW",20-193,90,0,0,0,0,1,0,1,0,44,1,2,4,0.0,0.0,0.0,5,1,21,27,77.8,6,23,6,6,4,Fiorentina,2018-05-06 Genoa-Fiorentina,ITA-SERIA_A,17-18,c7004163
+0000acda,Marco Benassi,24,ITA,"RW,RB",23-240,90,1,0,0,0,4,4,0,0,49,1,0,1,0.5,0.5,0.0,3,1,25,39,64.1,7,30,2,1,1,Fiorentina,2018-05-06 Genoa-Fiorentina,ITA-SERIA_A,17-18,c7004163
+3bb7af3b,Riccardo Saponara,8,ITA,AM,26-136,65,0,0,0,0,1,0,1,0,35,0,1,0,0.0,0.0,0.1,4,0,22,31,71.0,3,27,3,0,0,Fiorentina,2018-05-06 Genoa-Fiorentina,ITA-SERIA_A,17-18,c7004163
+ae82fa48,Valentin Eysseric,10,FRA,"DM,AM",26-042,25,1,0,0,0,3,1,0,0,25,0,0,1,0.2,0.2,0.1,2,0,13,19,68.4,2,14,4,3,3,Fiorentina,2018-05-06 Genoa-Fiorentina,ITA-SERIA_A,17-18,c7004163
+4a56052c,Jordan Veretout,17,FRA,DM,25-066,90,0,0,0,0,0,0,0,0,67,4,1,0,0.0,0.0,0.0,1,0,46,60,76.7,12,42,0,1,0,Fiorentina,2018-05-06 Genoa-Fiorentina,ITA-SERIA_A,17-18,c7004163
+e8c930bb,Milan Badelj,5,CRO,DM,29-070,61,0,0,0,0,1,1,1,0,48,1,4,1,0.0,0.0,0.0,2,0,36,40,90.0,3,15,0,3,2,Fiorentina,2018-05-06 Genoa-Fiorentina,ITA-SERIA_A,17-18,c7004163
+c53083ad,Bryan Dabo,14,BFA,"LW,DM",26-077,29,1,0,0,0,2,1,1,0,9,0,0,0,0.3,0.3,0.0,0,0,2,6,33.3,0,2,0,0,0,Fiorentina,2018-05-06 Genoa-Fiorentina,ITA-SERIA_A,17-18,c7004163
+9e1577aa,Cristiano Biraghi,3,ITA,LB,25-247,90,0,0,0,0,2,0,1,0,63,1,2,1,0.1,0.1,0.2,6,1,40,54,74.1,4,24,1,0,0,Fiorentina,2018-05-06 Genoa-Fiorentina,ITA-SERIA_A,17-18,c7004163
+bee704fc,Nikola Milenković,4,SRB,CB,20-206,90,0,0,0,0,1,0,0,0,65,1,3,0,0.1,0.1,0.0,0,0,45,51,88.2,1,27,0,0,0,Fiorentina,2018-05-06 Genoa-Fiorentina,ITA-SERIA_A,17-18,c7004163
+8c725b43,Germán Pezzella,20,ARG,CB,26-313,90,0,0,0,0,0,0,0,0,75,4,2,0,0.0,0.0,0.0,1,0,53,59,89.8,2,28,0,1,1,Fiorentina,2018-05-06 Genoa-Fiorentina,ITA-SERIA_A,17-18,c7004163
+55ae91f0,Bruno Gaspar,76,ANG,RB,25-015,75,0,0,0,0,0,0,1,0,42,1,2,0,0.0,0.0,0.0,2,0,30,35,85.7,4,19,0,0,0,Fiorentina,2018-05-06 Genoa-Fiorentina,ITA-SERIA_A,17-18,c7004163
+a39b9ef6,Diego Falcinelli,11,ITA,AM,26-314,15,0,1,0,0,4,3,0,0,16,0,0,0,0.3,0.3,0.3,5,2,8,10,80.0,1,9,1,3,2,Fiorentina,2018-05-06 Genoa-Fiorentina,ITA-SERIA_A,17-18,c7004163
+ac4003af,Marco Sportiello,57,ITA,GK,25-361,90,0,0,0,0,0,0,0,0,31,0,0,0,0.0,0.0,0.0,0,0,19,29,65.5,0,10,0,0,0,Fiorentina,2018-05-06 Genoa-Fiorentina,ITA-SERIA_A,17-18,c7004163

@@ -1,0 +1,32 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+4f16405e,Niclas Füllkrug,14,GER,FW,30-268,78,0,0,0,0,0,0,0,0,25,0,0,0,0.0,0.0,0.2,3,0,8,19,42.1,2,9,1,2,1,Dortmund,2023-11-04 Dortmund-Bayern Munich,GER-BL1,23-24,0e6a1a60
+ba115a40,Sébastien Haller,9,CIV,FW,29-135,12,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.1,1,0,5,5,100.0,1,5,1,1,1,Dortmund,2023-11-04 Dortmund-Bayern Munich,GER-BL1,23-24,0e6a1a60
+116c35df,Donyell Malen,21,NED,"LW,RM",24-299,56,0,0,0,0,3,0,0,0,23,0,0,0,0.3,0.3,0.0,1,0,13,18,72.2,3,17,3,3,3,Dortmund,2023-11-04 Dortmund-Bayern Munich,GER-BL1,23-24,0e6a1a60
+501055d8,Karim Adeyemi,27,GER,"LM,RM",21-290,34,0,0,0,0,0,0,0,0,28,2,0,0,0.0,0.0,0.0,3,0,19,22,86.4,5,20,4,8,2,Dortmund,2023-11-04 Dortmund-Bayern Munich,GER-BL1,23-24,0e6a1a60
+36a3ff67,Marco Reus,11,GER,"RW,LW",34-157,90,0,0,0,0,3,1,0,0,39,5,0,1,0.2,0.2,0.0,3,0,14,25,56.0,3,22,0,1,0,Dortmund,2023-11-04 Dortmund-Bayern Munich,GER-BL1,23-24,0e6a1a60
+a167537f,Julian Brandt,19,GER,"AM,LW",27-186,65,0,0,0,0,1,0,0,0,48,0,1,1,0.0,0.0,0.2,6,0,37,41,90.2,3,36,0,4,2,Dortmund,2023-11-04 Dortmund-Bayern Munich,GER-BL1,23-24,0e6a1a60
+6ce43701,Youssoufa Moukoko,18,GER,RW,18-349,25,0,0,0,0,1,0,0,0,9,1,0,0,0.2,0.2,0.0,2,0,5,5,100.0,0,5,1,2,1,Dortmund,2023-11-04 Dortmund-Bayern Munich,GER-BL1,23-24,0e6a1a60
+e280527c,Marcel Sabitzer,20,AUT,"CM,DM",29-232,90,0,0,0,0,3,0,1,0,57,3,2,2,0.2,0.2,0.1,3,0,32,43,74.4,2,32,1,0,0,Dortmund,2023-11-04 Dortmund-Bayern Munich,GER-BL1,23-24,0e6a1a60
+15413fa5,Salih Özcan,6,TUR,"DM,CM",25-297,56,0,0,0,0,0,0,0,0,46,0,0,2,0.0,0.0,0.0,2,0,33,41,80.5,4,33,1,1,0,Dortmund,2023-11-04 Dortmund-Bayern Munich,GER-BL1,23-24,0e6a1a60
+091c86e2,Felix Nmecha,8,GER,CM,23-025,34,0,0,0,0,1,0,0,0,15,1,0,0,0.0,0.0,0.0,0,0,10,13,76.9,2,12,1,0,0,Dortmund,2023-11-04 Dortmund-Bayern Munich,GER-BL1,23-24,0e6a1a60
+009a4f60,Julian Ryerson,26,NOR,"LB,RM,LM",25-352,90,0,0,0,0,1,0,1,0,60,3,0,1,0.0,0.0,0.2,2,0,47,52,90.4,7,36,2,2,0,Dortmund,2023-11-04 Dortmund-Bayern Munich,GER-BL1,23-24,0e6a1a60
+34e12499,Nico Schlotterbeck,4,GER,CB,23-338,90,0,0,0,0,2,0,0,0,83,4,2,1,0.0,0.0,0.0,0,0,64,73,87.7,8,61,2,3,1,Dortmund,2023-11-04 Dortmund-Bayern Munich,GER-BL1,23-24,0e6a1a60
+05d548d8,Mats Hummels,15,GER,CB,34-323,90,0,0,0,0,0,0,1,0,99,3,5,2,0.0,0.0,0.0,1,0,81,89,91.0,7,75,1,1,1,Dortmund,2023-11-04 Dortmund-Bayern Munich,GER-BL1,23-24,0e6a1a60
+fa661778,Marius Wolf,17,GER,RB,28-161,45,0,0,0,0,0,0,0,0,29,2,1,0,0.0,0.0,0.0,1,0,13,21,61.9,0,18,0,1,0,Dortmund,2023-11-04 Dortmund-Bayern Munich,GER-BL1,23-24,0e6a1a60
+e33c06cf,Niklas Süle,25,GER,CB,28-062,45,0,0,0,0,0,0,0,0,54,1,0,1,0.0,0.0,0.0,0,0,45,50,90.0,6,38,4,0,0,Dortmund,2023-11-04 Dortmund-Bayern Munich,GER-BL1,23-24,0e6a1a60
+cd59b9df,Gregor Kobel,1,SUI,GK,25-333,90,0,0,0,0,0,0,0,0,29,0,0,0,0.0,0.0,0.0,0,0,24,25,96.0,0,17,0,0,0,Dortmund,2023-11-04 Dortmund-Bayern Munich,GER-BL1,23-24,0e6a1a60
+21a66f6a,Harry Kane,9,ENG,FW,30-099,90,3,0,0,0,5,4,0,0,29,0,1,0,1.7,1.7,0.5,3,0,13,17,76.5,7,23,1,0,0,Bayern Munich,2023-11-04 Dortmund-Bayern Munich,GER-BL1,23-24,0e6a1a60
+2b114be3,Leroy Sané,10,GER,LW,27-297,88,0,2,0,0,1,1,1,0,43,1,0,1,0.2,0.2,1.1,4,2,26,33,78.8,3,31,5,3,1,Bayern Munich,2023-11-04 Dortmund-Bayern Munich,GER-BL1,23-24,0e6a1a60
+3c6089ab,Thomas Müller,25,GER,LW,34-052,2,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,1,1,1,0,0,Bayern Munich,2023-11-04 Dortmund-Bayern Munich,GER-BL1,23-24,0e6a1a60
+042e8a49,Kingsley Coman,11,FRA,RW,27-144,90,0,1,0,0,2,0,0,0,52,0,0,1,0.2,0.2,0.7,5,2,35,41,85.4,4,35,3,5,1,Bayern Munich,2023-11-04 Dortmund-Bayern Munich,GER-BL1,23-24,0e6a1a60
+2c0558b8,Jamal Musiala,42,GER,AM,20-251,88,0,0,0,0,2,2,0,0,42,3,0,1,0.5,0.5,0.3,7,1,20,28,71.4,2,27,7,3,1,Bayern Munich,2023-11-04 Dortmund-Bayern Munich,GER-BL1,23-24,0e6a1a60
+0e6bc38c,Eric Maxim Choupo-Moting,13,CMR,AM,34-226,2,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,0,0,0,0,Bayern Munich,2023-11-04 Dortmund-Bayern Munich,GER-BL1,23-24,0e6a1a60
+cc86b9a3,Leon Goretzka,8,GER,"DM,CB",28-271,90,0,0,0,0,2,0,0,0,58,2,0,2,0.1,0.1,0.0,2,1,44,48,91.7,4,31,4,0,0,Bayern Munich,2023-11-04 Dortmund-Bayern Munich,GER-BL1,23-24,0e6a1a60
+c1b7847c,Konrad Laimer,27,AUT,DM,26-161,90,0,0,0,0,0,0,1,0,64,5,1,2,0.0,0.0,0.0,0,0,50,55,90.9,4,41,0,0,0,Bayern Munich,2023-11-04 Dortmund-Bayern Munich,GER-BL1,23-24,0e6a1a60
+d781d855,Alphonso Davies,19,CAN,LB,23-002,90,0,0,0,0,0,0,0,0,88,2,0,2,0.0,0.0,0.0,0,0,59,69,85.5,3,57,2,9,3,Bayern Munich,2023-11-04 Dortmund-Bayern Munich,GER-BL1,23-24,0e6a1a60
+e0f8151c,Kim Min-jae,3,KOR,CB,26-354,90,0,0,0,0,0,0,0,0,96,3,0,3,0.0,0.0,0.0,0,0,74,82,90.2,1,54,0,0,0,Bayern Munich,2023-11-04 Dortmund-Bayern Munich,GER-BL1,23-24,0e6a1a60
+d248cd8f,Dayot Upamecano,2,FRA,CB,25-008,59,1,0,0,0,1,1,0,0,57,2,1,1,0.5,0.5,0.0,0,0,46,50,92.0,1,41,0,1,1,Bayern Munich,2023-11-04 Dortmund-Bayern Munich,GER-BL1,23-24,0e6a1a60
+2658c82f,Aleksandar Pavlovic,45,GER,DM,19-185,31,0,1,0,0,0,0,0,0,16,2,1,1,0.0,0.0,0.3,2,2,11,11,100.0,1,9,0,0,0,Bayern Munich,2023-11-04 Dortmund-Bayern Munich,GER-BL1,23-24,0e6a1a60
+b74277a0,Noussair Mazraoui,40,MAR,RB,25-355,90,0,0,0,0,1,0,0,0,71,3,3,0,0.1,0.1,0.1,2,0,52,61,85.2,7,42,2,2,0,Bayern Munich,2023-11-04 Dortmund-Bayern Munich,GER-BL1,23-24,0e6a1a60
+8778c910,Manuel Neuer,1,GER,GK,37-222,90,0,0,0,0,0,0,0,0,58,0,0,0,0.0,0.0,0.0,0,0,48,57,84.2,0,41,0,0,0,Bayern Munich,2023-11-04 Dortmund-Bayern Munich,GER-BL1,23-24,0e6a1a60

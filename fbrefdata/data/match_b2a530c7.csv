@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+d705ba44,Andrea Belotti,9,ITA,FW,24-060,90,0,0,0,0,1,0,0,0,16,0,0,0,0.1,0.1,0.0,0,0,10,12,83.3,0,13,2,0,0,Torino,2018-02-18 Torino-Juventus,ITA-SERIA_A,17-18,b2a530c7
+bbafc0c4,Cristian Ansaldi,15,ARG,"LM,RW,RB",31-151,90,0,0,0,0,0,0,0,0,53,3,0,1,0.0,0.0,0.0,1,0,30,45,66.7,3,36,1,2,1,Torino,2018-02-18 Torino-Juventus,ITA-SERIA_A,17-18,b2a530c7
+ea06dd97,Daniele Baselli,8,ITA,CM,25-343,54,0,0,0,0,0,0,0,0,18,1,2,0,0.0,0.0,0.0,0,0,8,12,66.7,0,11,0,0,0,Torino,2018-02-18 Torino-Juventus,ITA-SERIA_A,17-18,b2a530c7
+2054d037,M'Baye Niang,11,SEN,LW,23-061,36,0,0,0,0,1,0,0,0,31,1,0,1,0.0,0.0,0.0,1,0,15,21,71.4,2,25,4,6,3,Torino,2018-02-18 Torino-Juventus,ITA-SERIA_A,17-18,b2a530c7
+614c38fb,Joel Obi,22,NGA,"CM,DM",26-272,71,0,0,0,0,1,1,0,0,57,6,3,4,0.0,0.0,0.0,1,0,28,41,68.3,2,22,1,1,1,Torino,2018-02-18 Torino-Juventus,ITA-SERIA_A,17-18,b2a530c7
+d7403bd5,Afriyie Acquah,6,GHA,DM,26-044,19,0,0,0,0,0,0,0,0,14,0,0,0,0.0,0.0,0.0,1,0,13,14,92.9,3,12,0,0,0,Torino,2018-02-18 Torino-Juventus,ITA-SERIA_A,17-18,b2a530c7
+440c84ed,Iago Falque,14,ESP,"RM,AM",28-045,90,0,0,0,0,1,1,0,0,59,2,0,2,0.0,0.0,0.2,6,0,40,54,74.1,4,38,4,3,3,Torino,2018-02-18 Torino-Juventus,ITA-SERIA_A,17-18,b2a530c7
+f1cfc209,Tomás Rincón,88,VEN,DM,30-036,90,0,0,0,0,0,0,0,0,63,1,1,0,0.0,0.0,0.0,0,0,48,59,81.4,5,48,1,0,0,Torino,2018-02-18 Torino-Juventus,ITA-SERIA_A,17-18,b2a530c7
+1c8c5aed,Cristian Molinaro,3,ITA,LB,34-203,90,0,0,0,0,1,0,1,0,70,4,1,0,0.0,0.0,0.0,0,0,43,59,72.9,4,42,0,2,2,Torino,2018-02-18 Torino-Juventus,ITA-SERIA_A,17-18,b2a530c7
+9417f322,Nicolás Burdisso,13,ARG,CB,36-312,90,0,0,0,0,0,0,0,0,75,3,1,0,0.0,0.0,0.0,0,0,58,69,84.1,2,53,0,0,0,Torino,2018-02-18 Torino-Juventus,ITA-SERIA_A,17-18,b2a530c7
+93cf32a8,Nicolas Nkoulou,33,CMR,CB,27-328,90,0,0,0,0,0,0,0,0,60,1,1,0,0.0,0.0,0.0,1,0,54,55,98.2,3,48,1,0,0,Torino,2018-02-18 Torino-Juventus,ITA-SERIA_A,17-18,b2a530c7
+e74f0e59,Lorenzo De Silvestri,29,ITA,RB,29-271,79,0,0,0,0,1,1,0,0,51,0,0,2,0.1,0.1,0.0,1,0,32,43,74.4,1,38,0,0,0,Torino,2018-02-18 Torino-Juventus,ITA-SERIA_A,17-18,b2a530c7
+8697c095,Simone Edera,20,ITA,RW,21-040,11,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,4,4,100.0,1,4,0,1,0,Torino,2018-02-18 Torino-Juventus,ITA-SERIA_A,17-18,b2a530c7
+10dc46f0,Salvatore Sirigu,39,ITA,GK,31-037,90,0,0,0,0,0,0,0,0,30,0,0,0,0.0,0.0,0.0,0,0,23,27,85.2,0,17,0,0,0,Torino,2018-02-18 Torino-Juventus,ITA-SERIA_A,17-18,b2a530c7
+8a08491a,Gonzalo Higuaín,9,ARG,FW,30-070,14,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,3,1,0,0,Juventus,2018-02-18 Torino-Juventus,ITA-SERIA_A,17-18,b2a530c7
+ee93c1a9,Federico Bernardeschi,33,ITA,"RW,FW",24-002,75,0,1,0,0,0,0,0,0,32,3,1,0,0.0,0.0,1.1,2,1,15,19,78.9,1,22,4,3,2,Juventus,2018-02-18 Torino-Juventus,ITA-SERIA_A,17-18,b2a530c7
+99b1d0e6,Stephan Lichtsteiner,26,SUI,RW,34-033,1,0,0,0,0,0,0,0,0,2,0,0,1,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,0,0,Juventus,2018-02-18 Torino-Juventus,ITA-SERIA_A,17-18,b2a530c7
+0d82903c,Alex Sandro,12,BRA,LW,27-023,90,1,0,0,0,1,1,0,0,56,2,1,1,0.8,0.8,0.1,4,1,38,43,88.4,6,38,7,3,3,Juventus,2018-02-18 Torino-Juventus,ITA-SERIA_A,17-18,b2a530c7
+4fa7cb9b,Douglas Costa,11,BRA,"RW,FW",27-157,65,0,0,0,0,0,0,0,0,31,0,0,0,0.0,0.0,0.0,1,0,18,26,69.2,0,25,2,7,5,Juventus,2018-02-18 Torino-Juventus,ITA-SERIA_A,17-18,b2a530c7
+e0921a4f,Paulo Dybala,10,ARG,FW,24-095,25,0,0,0,0,3,1,0,0,22,0,0,1,0.5,0.5,0.0,0,0,13,14,92.9,0,18,1,2,1,Juventus,2018-02-18 Torino-Juventus,ITA-SERIA_A,17-18,b2a530c7
+38ac43d3,Sami Khedira,6,GER,"CM,LM",30-320,90,0,0,0,0,0,0,0,0,36,0,0,1,0.0,0.0,0.0,0,0,29,32,90.6,1,22,4,0,0,Juventus,2018-02-18 Torino-Juventus,ITA-SERIA_A,17-18,b2a530c7
+ad6df2d5,Miralem Pjanić,5,BIH,CM,27-322,90,0,0,0,0,1,1,0,0,83,0,1,0,0.0,0.0,0.0,1,0,67,77,87.0,6,47,3,5,4,Juventus,2018-02-18 Torino-Juventus,ITA-SERIA_A,17-18,b2a530c7
+2334478a,Stefano Sturaro,27,ITA,"CM,RM",24-346,90,0,0,0,0,0,0,0,0,34,5,1,2,0.0,0.0,0.0,1,0,12,17,70.6,0,14,0,0,0,Juventus,2018-02-18 Torino-Juventus,ITA-SERIA_A,17-18,b2a530c7
+089550f5,Kwadwo Asamoah,22,GHA,LB,29-071,90,0,0,0,0,1,0,0,0,57,1,0,0,0.1,0.1,0.0,1,0,44,50,88.0,2,32,4,0,0,Juventus,2018-02-18 Torino-Juventus,ITA-SERIA_A,17-18,b2a530c7
+e85fb9b8,Giorgio Chiellini,3,ITA,CB,33-188,90,0,0,0,0,0,0,0,0,81,2,0,0,0.0,0.0,0.0,0,0,68,75,90.7,5,54,2,1,1,Juventus,2018-02-18 Torino-Juventus,ITA-SERIA_A,17-18,b2a530c7
+14b8fcdf,Daniele Rugani,24,ITA,CB,23-204,90,0,0,0,0,0,0,0,0,70,0,1,0,0.0,0.0,0.0,1,0,52,62,83.9,3,47,2,0,0,Juventus,2018-02-18 Torino-Juventus,ITA-SERIA_A,17-18,b2a530c7
+ae4e2852,Mattia De Sciglio,2,ITA,RB,25-121,90,0,0,0,0,1,0,1,0,75,4,1,2,0.0,0.0,0.0,0,0,51,63,81.0,1,37,0,1,1,Juventus,2018-02-18 Torino-Juventus,ITA-SERIA_A,17-18,b2a530c7
+01b8a2b2,Wojciech Szczęsny,23,POL,GK,27-306,90,0,0,0,0,0,0,0,0,37,0,0,0,0.0,0.0,0.0,0,0,24,37,64.9,0,23,0,0,0,Juventus,2018-02-18 Torino-Juventus,ITA-SERIA_A,17-18,b2a530c7

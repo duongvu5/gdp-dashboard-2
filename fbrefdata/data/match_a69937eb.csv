@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+822a7761,Antonino La Gumina,20,ITA,FW,24-288,59,0,0,0,0,3,0,0,0,19,0,0,0,0.2,0.2,0.0,1,1,7,12,58.3,0,10,1,2,1,Sampdoria,2020-12-19 Sampdoria-Crotone,ITA-SERIA_A,20-21,a69937eb
+ee4f2f3b,Fabio Quagliarella,27,ITA,FW,37-323,31,1,0,0,0,1,1,0,0,14,0,0,0,0.4,0.4,0.0,1,0,5,8,62.5,1,4,0,0,0,Sampdoria,2020-12-19 Sampdoria-Crotone,ITA-SERIA_A,20-21,a69937eb
+33ecf462,Valerio Verre,8,ITA,FW,26-343,60,0,0,0,0,2,1,0,0,39,2,0,0,0.1,0.1,0.0,3,1,17,29,58.6,2,21,1,2,1,Sampdoria,2020-12-19 Sampdoria-Crotone,ITA-SERIA_A,20-21,a69937eb
+2c851997,Gastón Ramírez,11,URU,FW,30-017,30,0,0,0,0,1,0,0,0,26,0,0,0,0.0,0.0,0.0,1,1,19,25,76.0,1,9,0,0,0,Sampdoria,2020-12-19 Sampdoria-Crotone,ITA-SERIA_A,20-21,a69937eb
+215f3907,Mikkel Damsgaard,38,DEN,LM,20-169,88,1,0,0,0,2,1,0,0,57,0,2,0,0.8,0.8,0.1,2,0,29,43,67.4,3,30,3,5,2,Sampdoria,2020-12-19 Sampdoria-Crotone,ITA-SERIA_A,20-21,a69937eb
+356c9002,Antonio Candreva,87,ITA,RM,33-295,2,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,3,3,100.0,0,2,0,0,0,Sampdoria,2020-12-19 Sampdoria-Crotone,ITA-SERIA_A,20-21,a69937eb
+f503ea63,Albin Ekdal,6,SWE,CM,31-144,90,0,1,0,0,0,0,1,0,68,9,2,1,0.0,0.0,0.4,2,1,44,53,83.0,6,21,2,1,1,Sampdoria,2020-12-19 Sampdoria-Crotone,ITA-SERIA_A,20-21,a69937eb
+d6f88a1d,Adrien Silva,5,POR,CM,31-279,89,0,0,0,0,0,0,0,0,48,4,1,3,0.0,0.0,0.0,1,0,24,31,77.4,1,10,0,1,0,Sampdoria,2020-12-19 Sampdoria-Crotone,ITA-SERIA_A,20-21,a69937eb
+caffaf5a,Maya Yoshida,22,JPN,CM,32-117,1,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,4,4,100.0,1,3,0,0,0,Sampdoria,2020-12-19 Sampdoria-Crotone,ITA-SERIA_A,20-21,a69937eb
+1ea5f91c,Jakub Jankto,14,CZE,"RM,LM",24-335,90,1,1,0,0,2,1,0,0,40,2,1,1,0.6,0.6,1.1,6,1,18,25,72.0,2,21,0,0,0,Sampdoria,2020-12-19 Sampdoria-Crotone,ITA-SERIA_A,20-21,a69937eb
+3cd3b384,Tommaso Augello,3,ITA,LB,26-111,90,0,0,0,0,0,0,0,0,53,1,1,1,0.0,0.0,0.1,1,0,37,49,75.5,6,21,6,0,0,Sampdoria,2020-12-19 Sampdoria-Crotone,ITA-SERIA_A,20-21,a69937eb
+8b95acda,Omar Colley,15,GAM,CB,28-056,90,0,0,0,0,0,0,1,0,48,1,6,2,0.0,0.0,0.1,1,0,24,32,75.0,4,17,0,0,0,Sampdoria,2020-12-19 Sampdoria-Crotone,ITA-SERIA_A,20-21,a69937eb
+8cc29864,Lorenzo Tonelli,21,ITA,CB,30-337,90,0,0,0,0,0,0,0,0,46,6,3,0,0.0,0.0,0.0,0,0,19,31,61.3,1,15,0,0,0,Sampdoria,2020-12-19 Sampdoria-Crotone,ITA-SERIA_A,20-21,a69937eb
+d0dbca9f,Alex Ferrari,25,ITA,RB,26-171,7,0,0,0,0,0,0,0,0,3,1,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,1,0,0,0,Sampdoria,2020-12-19 Sampdoria-Crotone,ITA-SERIA_A,20-21,a69937eb
+d1b49282,Morten Thorsby,18,NOR,RB,24-228,83,0,0,0,0,1,0,0,0,59,1,0,1,0.2,0.2,0.0,1,0,39,49,79.6,5,24,1,1,1,Sampdoria,2020-12-19 Sampdoria-Crotone,ITA-SERIA_A,20-21,a69937eb
+649b01d8,Emil Audero,1,ITA,GK,23-336,90,0,0,0,0,0,0,0,0,34,0,0,0,0.0,0.0,0.0,0,0,25,32,78.1,0,15,0,0,0,Sampdoria,2020-12-19 Sampdoria-Crotone,ITA-SERIA_A,20-21,a69937eb
+80dbbd10,Simeon Nwankwo,25,NGA,FW,28-226,86,1,0,1,1,0,0,0,0,37,0,0,1,0.8,0.0,0.0,1,0,18,23,78.3,2,15,2,6,4,Crotone,2020-12-19 Sampdoria-Crotone,ITA-SERIA_A,20-21,a69937eb
+11e0904f,Luis Rojas,20,CHI,FW,18-288,4,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,3,3,100.0,0,1,0,0,0,Crotone,2020-12-19 Sampdoria-Crotone,ITA-SERIA_A,20-21,a69937eb
+f49c4ae9,Junior Messias,30,BRA,FW,29-220,90,0,0,0,0,1,0,1,0,50,1,1,0,0.1,0.1,0.0,2,0,24,37,64.9,4,22,4,3,1,Crotone,2020-12-19 Sampdoria-Crotone,ITA-SERIA_A,20-21,a69937eb
+1bd5fc78,Eduardo Henrique,95,BRA,CM,25-216,90,0,0,0,0,0,0,0,0,64,2,1,0,0.0,0.0,0.0,1,0,43,56,76.8,4,35,0,5,3,Crotone,2020-12-19 Sampdoria-Crotone,ITA-SERIA_A,20-21,a69937eb
+909bce7f,Jacopo Petriccione,44,ITA,CM,25-301,69,0,0,0,0,1,0,0,0,42,0,0,0,0.0,0.0,0.0,1,0,30,38,78.9,4,24,0,1,1,Crotone,2020-12-19 Sampdoria-Crotone,ITA-SERIA_A,20-21,a69937eb
+2bae5658,Emmanuel Rivière,97,FRA,CM,30-291,21,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,4,4,100.0,0,2,0,0,0,Crotone,2020-12-19 Sampdoria-Crotone,ITA-SERIA_A,20-21,a69937eb
+54ab971f,Salvatore Molina,17,ITA,CM,28-353,45,0,0,0,0,1,0,0,0,37,0,1,0,0.0,0.0,0.0,0,0,25,33,75.8,1,22,0,4,4,Crotone,2020-12-19 Sampdoria-Crotone,ITA-SERIA_A,20-21,a69937eb
+5944af8f,Miloš Vulić,77,SRB,CM,24-122,45,0,0,0,0,0,0,0,0,30,0,1,0,0.0,0.0,0.1,1,0,22,27,81.5,1,13,0,1,1,Crotone,2020-12-19 Sampdoria-Crotone,ITA-SERIA_A,20-21,a69937eb
+6213fd82,Arkadiusz Reca,69,POL,WB,25-185,90,0,0,0,0,1,1,0,0,60,1,1,2,0.1,0.1,0.1,4,2,36,47,76.6,5,29,5,7,4,Crotone,2020-12-19 Sampdoria-Crotone,ITA-SERIA_A,20-21,a69937eb
+c77be0cf,Pedro Pereira,32,POR,WB,22-332,90,0,0,0,0,0,0,0,0,61,1,0,1,0.0,0.0,0.0,0,0,42,51,82.4,3,27,2,3,0,Crotone,2020-12-19 Sampdoria-Crotone,ITA-SERIA_A,20-21,a69937eb
+997fff07,Sebastiano Luperto,13,ITA,CB,24-104,90,0,0,0,0,1,0,0,0,91,2,1,0,0.0,0.0,0.0,1,0,69,84,82.1,3,53,0,1,1,Crotone,2020-12-19 Sampdoria-Crotone,ITA-SERIA_A,20-21,a69937eb
+ea468ea8,Luca Marrone,34,ITA,CB,30-266,90,0,0,0,0,0,0,1,0,92,3,0,4,0.0,0.0,0.0,0,0,68,79,86.1,4,45,0,0,0,Crotone,2020-12-19 Sampdoria-Crotone,ITA-SERIA_A,20-21,a69937eb
+01a49bd2,Lisandro Magallán,6,ARG,CB,27-083,77,0,0,0,0,0,0,0,0,63,2,0,2,0.0,0.0,0.0,0,0,46,56,82.1,2,25,0,0,0,Crotone,2020-12-19 Sampdoria-Crotone,ITA-SERIA_A,20-21,a69937eb
+933d3b51,Koffi Djidji,26,CIV,CB,28-019,13,0,0,0,0,0,0,0,0,14,0,1,0,0.0,0.0,0.0,1,0,10,12,83.3,1,8,1,0,0,Crotone,2020-12-19 Sampdoria-Crotone,ITA-SERIA_A,20-21,a69937eb
+e66ebabb,Alex Cordaz,1,ITA,GK,37-353,90,0,0,0,0,0,0,0,0,40,0,0,0,0.0,0.0,0.0,0,0,28,40,70.0,0,20,0,0,0,Crotone,2020-12-19 Sampdoria-Crotone,ITA-SERIA_A,20-21,a69937eb

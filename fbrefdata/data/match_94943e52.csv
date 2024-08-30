@@ -1,0 +1,31 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+42fd9c7f,Kylian Mbappé,7,FRA,FW,22-273,90,0,1,0,0,2,0,0,0,37,0,0,0,0.2,0.2,0.5,2,1,24,28,85.7,0,21,7,1,0,Paris Saint-Germain,2021-09-19 Paris S-G-Lyon,FRA-L1,21-22,94943e52
+69384e5d,Neymar,10,BRA,"LW,LM",29-226,90,1,0,1,1,1,0,0,0,71,1,1,0,0.8,0.0,0.3,10,1,36,50,72.0,7,46,9,17,10,Paris Saint-Germain,2021-09-19 Paris S-G-Lyon,FRA-L1,21-22,94943e52
+19cda00b,Ángel Di María,11,ARG,"RW,FW",33-217,81,0,0,0,0,2,1,1,0,51,5,0,1,0.1,0.1,0.0,0,0,25,38,65.8,2,28,5,5,3,Paris Saint-Germain,2021-09-19 Paris S-G-Lyon,FRA-L1,21-22,94943e52
+43b78598,Mauro Icardi,9,ARG,FW,28-212,9,1,0,0,0,1,1,0,0,3,0,0,0,0.5,0.5,0.0,0,0,2,2,100.0,0,1,0,0,0,Paris Saint-Germain,2021-09-19 Paris S-G-Lyon,FRA-L1,21-22,94943e52
+d70ce98e,Lionel Messi,30,ARG,AM,34-087,75,0,0,0,0,4,2,0,0,58,0,0,1,0.4,0.4,0.2,6,1,40,49,81.6,9,36,5,3,3,Paris Saint-Germain,2021-09-19 Paris S-G-Lyon,FRA-L1,21-22,94943e52
+e42d61c7,Achraf Hakimi,2,MAR,RM,22-319,15,0,0,0,0,0,0,0,0,14,1,0,0,0.0,0.0,0.0,1,0,8,9,88.9,1,7,2,2,1,Paris Saint-Germain,2021-09-19 Paris S-G-Lyon,FRA-L1,21-22,94943e52
+72c812f3,Idrissa Gana Gueye,27,SEN,"DM,CM",31-358,90,0,0,0,0,0,0,0,0,73,2,1,0,0.0,0.0,0.0,0,0,66,69,95.7,2,41,0,1,1,Paris Saint-Germain,2021-09-19 Paris S-G-Lyon,FRA-L1,21-22,94943e52
+436a9dd0,Ander Herrera,21,ESP,"DM,CM",32-036,85,0,0,0,0,0,0,0,0,85,2,0,4,0.0,0.0,0.0,1,0,70,74,94.6,3,36,1,2,2,Paris Saint-Germain,2021-09-19 Paris S-G-Lyon,FRA-L1,21-22,94943e52
+eb58eef0,Georginio Wijnaldum,18,NED,CM,30-312,5,0,0,0,0,1,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,1,0,0,0,0,Paris Saint-Germain,2021-09-19 Paris S-G-Lyon,FRA-L1,21-22,94943e52
+f20e4cc9,Nuno Mendes,25,POR,LB,19-092,90,0,0,0,0,1,0,1,0,60,2,2,1,0.0,0.0,0.0,4,1,45,51,88.2,2,42,3,3,2,Paris Saint-Germain,2021-09-19 Paris S-G-Lyon,FRA-L1,21-22,94943e52
+aef6e670,Presnel Kimpembe,3,FRA,CB,26-037,90,0,0,0,0,1,0,0,0,66,2,1,0,0.0,0.0,0.0,1,0,59,61,96.7,5,40,0,0,0,Paris Saint-Germain,2021-09-19 Paris S-G-Lyon,FRA-L1,21-22,94943e52
+d5f2f82b,Marquinhos,5,BRA,CB,27-128,90,0,0,0,0,0,0,1,0,48,1,1,1,0.0,0.0,0.0,0,0,33,40,82.5,5,25,0,0,0,Paris Saint-Germain,2021-09-19 Paris S-G-Lyon,FRA-L1,21-22,94943e52
+51dbeea9,Thilo Kehrer,24,GER,RB,24-363,90,0,0,0,0,0,0,0,0,58,1,2,0,0.0,0.0,0.0,0,0,46,51,90.2,5,29,0,0,0,Paris Saint-Germain,2021-09-19 Paris S-G-Lyon,FRA-L1,21-22,94943e52
+08f5afaa,Gianluigi Donnarumma,50,ITA,GK,22-206,90,0,0,0,0,0,0,0,0,30,0,0,0,0.0,0.0,0.0,0,0,28,29,96.6,0,14,0,0,0,Paris Saint-Germain,2021-09-19 Paris S-G-Lyon,FRA-L1,21-22,94943e52
+ffec9769,Islam Slimani,20,ALG,FW,33-093,90,0,0,0,0,0,0,0,0,26,0,0,0,0.0,0.0,0.0,1,0,15,19,78.9,1,14,1,0,0,Lyon,2021-09-19 Paris S-G-Lyon,FRA-L1,21-22,94943e52
+5ceba7fc,Karl Toko Ekambi,7,CMR,LW,29-005,64,0,1,0,0,2,2,0,0,34,1,1,1,0.0,0.0,0.4,5,1,23,24,95.8,3,26,4,3,2,Lyon,2021-09-19 Paris S-G-Lyon,FRA-L1,21-22,94943e52
+a5db0bec,Houssem Aouar,8,ALG,LW,23-081,26,0,0,0,0,1,0,0,0,12,0,0,0,0.0,0.0,0.0,0,0,10,11,90.9,1,10,1,1,1,Lyon,2021-09-19 Paris S-G-Lyon,FRA-L1,21-22,94943e52
+6421ec64,Xherdan Shaqiri,29,SUI,RW,29-344,78,0,0,0,0,1,1,0,0,45,1,0,1,0.0,0.0,0.0,2,0,26,39,66.7,4,32,4,2,2,Lyon,2021-09-19 Paris S-G-Lyon,FRA-L1,21-22,94943e52
+b34c63a5,Rayan Cherki,18,FRA,RW,18-033,12,0,0,0,0,1,0,0,0,15,0,0,0,0.1,0.1,0.0,1,0,10,13,76.9,0,11,3,2,2,Lyon,2021-09-19 Paris S-G-Lyon,FRA-L1,21-22,94943e52
+9b6f7fd5,Lucas Paquetá,10,BRA,AM,24-023,85,1,0,0,0,3,2,0,0,64,4,0,1,0.5,0.5,0.0,1,0,39,45,86.7,4,48,5,9,8,Lyon,2021-09-19 Paris S-G-Lyon,FRA-L1,21-22,94943e52
+cc588cbe,Habib Keita,19,MLI,AM,19-226,5,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,4,4,100.0,0,3,0,0,0,Lyon,2021-09-19 Paris S-G-Lyon,FRA-L1,21-22,94943e52
+82518f62,Bruno Guimarães,39,BRA,DM,23-307,90,0,0,0,0,1,0,0,0,79,4,3,0,0.0,0.0,0.0,6,1,61,66,92.4,10,61,4,4,2,Lyon,2021-09-19 Paris S-G-Lyon,FRA-L1,21-22,94943e52
+f81ef10d,Maxence Caqueret,25,FRA,DM,21-216,90,0,0,0,0,2,0,0,0,55,1,2,0,0.1,0.1,0.0,2,0,42,47,89.4,3,33,0,3,2,Lyon,2021-09-19 Paris S-G-Lyon,FRA-L1,21-22,94943e52
+e0bc6fdc,Emerson Palmieri,3,ITA,LB,27-047,90,0,0,0,0,0,0,0,0,58,0,0,0,0.0,0.0,0.0,2,0,45,53,84.9,1,41,1,3,2,Lyon,2021-09-19 Paris S-G-Lyon,FRA-L1,21-22,94943e52
+47af88b8,Jason Denayer,5,BEL,CB,26-083,90,0,0,0,0,0,0,0,0,45,1,0,1,0.0,0.0,0.0,0,0,35,37,94.6,0,27,0,0,0,Lyon,2021-09-19 Paris S-G-Lyon,FRA-L1,21-22,94943e52
+2db2fd7b,Jérôme Boateng,27,GER,CB,33-016,64,0,0,0,0,0,0,0,0,27,0,1,0,0.0,0.0,0.0,0,0,17,22,77.3,0,14,0,0,0,Lyon,2021-09-19 Paris S-G-Lyon,FRA-L1,21-22,94943e52
+6de23ab0,Sinaly Diomande,2,CIV,CB,20-163,26,0,0,0,0,0,0,0,0,20,0,1,1,0.0,0.0,0.0,0,0,12,15,80.0,0,9,0,0,0,Lyon,2021-09-19 Paris S-G-Lyon,FRA-L1,21-22,94943e52
+d56b9520,Malo Gusto,17,FRA,RB,18-123,90,0,0,0,0,1,0,0,0,56,5,1,3,0.0,0.0,0.1,2,0,39,44,88.6,4,32,1,0,0,Lyon,2021-09-19 Paris S-G-Lyon,FRA-L1,21-22,94943e52
+f00de885,Anthony Lopes,1,POR,GK,30-353,90,0,0,0,0,0,0,1,0,35,0,0,0,0.0,0.0,0.0,0,0,25,32,78.1,0,21,0,0,0,Lyon,2021-09-19 Paris S-G-Lyon,FRA-L1,21-22,94943e52

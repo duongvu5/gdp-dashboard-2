@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+f69fba57,Yuya Osako,8,JPN,FW,28-330,62,0,0,0,0,1,0,0,0,27,2,0,0,0.1,0.1,0.0,0,0,16,23,69.6,2,25,1,2,2,Werder Bremen,2019-04-13 Werder Bremen-Freiburg,GER-BL1,18-19,49b7020f
+54b6ee79,Claudio Pizarro,4,PER,FW,40-192,28,0,0,0,0,3,2,0,0,16,0,0,1,0.1,0.1,0.0,3,2,7,10,70.0,0,10,0,0,0,Werder Bremen,2019-04-13 Werder Bremen-Freiburg,GER-BL1,18-19,49b7020f
+6c6a3300,Milot Rashica,11,KVX,FW,22-289,86,0,1,0,0,2,0,0,0,43,1,0,0,0.1,0.1,1.2,8,1,23,35,65.7,1,38,3,2,2,Werder Bremen,2019-04-13 Werder Bremen-Freiburg,GER-BL1,18-19,49b7020f
+99b7584f,Martin Harnik,9,AUT,FW,31-307,4,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,0,2,0.0,0,2,1,0,0,Werder Bremen,2019-04-13 Werder Bremen-Freiburg,GER-BL1,18-19,49b7020f
+f9446dcd,Max Kruse,10,GER,AM,31-025,90,0,1,0,0,2,2,0,0,70,0,0,0,0.1,0.1,0.1,9,1,48,62,77.4,8,56,5,1,0,Werder Bremen,2019-04-13 Werder Bremen-Freiburg,GER-BL1,18-19,49b7020f
+15fd5593,Davy Klaassen,30,NED,LM,26-051,90,1,0,0,0,2,1,0,0,51,1,2,4,0.8,0.8,0.0,2,0,31,41,75.6,4,33,0,0,0,Werder Bremen,2019-04-13 Werder Bremen-Freiburg,GER-BL1,18-19,49b7020f
+f4081572,Nuri Şahin,17,TUR,CM,30-220,90,0,0,0,0,0,0,0,0,94,1,2,1,0.0,0.0,0.0,2,0,73,88,83.0,9,64,3,1,1,Werder Bremen,2019-04-13 Werder Bremen-Freiburg,GER-BL1,18-19,49b7020f
+beb882a8,Maximilian Eggestein,35,GER,RM,22-126,90,0,0,0,0,2,0,0,0,47,3,2,2,0.1,0.1,0.1,1,0,26,33,78.8,2,31,2,1,0,Werder Bremen,2019-04-13 Werder Bremen-Freiburg,GER-BL1,18-19,49b7020f
+9fec8860,Ludwig Augustinsson,5,SWE,LB,24-357,90,0,0,0,0,1,0,1,0,71,1,1,0,0.1,0.1,0.0,1,0,50,66,75.8,6,42,2,0,0,Werder Bremen,2019-04-13 Werder Bremen-Freiburg,GER-BL1,18-19,49b7020f
+00844823,Niklas Moisander,18,FIN,CB,33-196,90,0,0,0,0,1,0,0,0,110,0,1,0,0.0,0.0,0.0,0,0,92,103,89.3,10,88,2,0,0,Werder Bremen,2019-04-13 Werder Bremen-Freiburg,GER-BL1,18-19,49b7020f
+a5ae8f8e,Miloš Veljković,13,SRB,CB,23-199,90,0,0,0,0,1,0,0,0,96,0,4,1,0.2,0.2,0.0,1,0,68,85,80.0,8,71,3,0,0,Werder Bremen,2019-04-13 Werder Bremen-Freiburg,GER-BL1,18-19,49b7020f
+3f65898c,Theodor Gebre Selassie,23,CZE,RB,32-110,90,1,0,0,0,1,1,0,0,41,2,0,2,0.1,0.1,0.0,0,0,30,35,85.7,3,24,1,1,1,Werder Bremen,2019-04-13 Werder Bremen-Freiburg,GER-BL1,18-19,49b7020f
+0a1cb833,Jiří Pavlenka,1,CZE,GK,26-364,45,0,0,0,0,0,0,0,0,24,0,1,0,0.0,0.0,0.0,0,0,18,23,78.3,0,17,0,0,0,Werder Bremen,2019-04-13 Werder Bremen-Freiburg,GER-BL1,18-19,49b7020f
+62ba5881,Stefanos Kapino,27,GRE,GK,25-026,45,0,0,0,0,0,0,0,0,17,0,0,0,0.0,0.0,0.0,0,0,12,16,75.0,0,11,0,0,0,Werder Bremen,2019-04-13 Werder Bremen-Freiburg,GER-BL1,18-19,49b7020f
+54e4866f,Vincenzo Grifo,32,ITA,FW,26-006,90,0,0,0,0,1,0,0,0,54,0,0,1,0.1,0.1,0.1,2,0,27,43,62.8,3,27,4,4,3,Freiburg,2019-04-13 Werder Bremen-Freiburg,GER-BL1,18-19,49b7020f
+d6862409,Florian Niederlechner,7,GER,FW,28-171,80,0,0,0,0,1,1,0,0,26,1,1,0,0.1,0.1,0.0,2,0,14,17,82.4,3,14,1,1,1,Freiburg,2019-04-13 Werder Bremen-Freiburg,GER-BL1,18-19,49b7020f
+ca618d23,Lucas Höler,9,GER,FW,24-277,10,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,3,4,75.0,0,0,0,0,0,Freiburg,2019-04-13 Werder Bremen-Freiburg,GER-BL1,18-19,49b7020f
+49ffe0f2,Jérôme Gondorf,20,GER,CM,30-291,80,0,0,0,0,1,0,0,0,38,1,3,2,0.0,0.0,0.0,0,0,14,25,56.0,4,11,2,1,0,Freiburg,2019-04-13 Werder Bremen-Freiburg,GER-BL1,18-19,49b7020f
+e5a35ae9,Luca Waldschmidt,11,GER,CM,22-329,10,1,0,0,0,2,1,0,0,10,0,0,0,0.3,0.3,0.0,0,0,5,7,71.4,1,3,1,0,0,Freiburg,2019-04-13 Werder Bremen-Freiburg,GER-BL1,18-19,49b7020f
+1c08a3c8,Amir Abrashi,6,ALB,CM,29-017,90,0,0,0,0,2,1,1,0,55,0,1,1,0.1,0.1,0.0,1,0,31,42,73.8,2,22,1,1,1,Freiburg,2019-04-13 Werder Bremen-Freiburg,GER-BL1,18-19,49b7020f
+70dcf94d,Janik Haberer,19,GER,CM,25-011,90,0,0,0,0,1,1,0,0,51,2,0,1,0.0,0.0,0.2,5,1,31,42,73.8,1,28,2,5,4,Freiburg,2019-04-13 Werder Bremen-Freiburg,GER-BL1,18-19,49b7020f
+8593f88c,Christian Günter,30,GER,LB,26-044,90,0,0,0,0,0,0,0,0,45,1,0,0,0.0,0.0,0.0,2,0,27,40,67.5,2,19,3,4,2,Freiburg,2019-04-13 Werder Bremen-Freiburg,GER-BL1,18-19,49b7020f
+699fb8db,Dominique Heintz,23,GER,CB,25-241,90,0,0,0,0,0,0,0,0,53,2,4,1,0.0,0.0,0.0,0,0,25,34,73.5,0,21,3,3,2,Freiburg,2019-04-13 Werder Bremen-Freiburg,GER-BL1,18-19,49b7020f
+f6bdc830,Keven Schlotterbeck,31,GER,CB,21-350,90,0,0,0,0,0,0,0,0,37,2,1,2,0.0,0.0,0.0,1,0,20,28,71.4,3,15,1,0,0,Freiburg,2019-04-13 Werder Bremen-Freiburg,GER-BL1,18-19,49b7020f
+34e12499,Nico Schlotterbeck,49,GER,CB,19-133,90,0,0,0,0,0,0,0,0,37,1,3,1,0.0,0.0,0.0,0,0,16,26,61.5,1,17,3,1,1,Freiburg,2019-04-13 Werder Bremen-Freiburg,GER-BL1,18-19,49b7020f
+99f7e9aa,Pascal Stenzel,15,GER,RB,23-024,62,0,0,0,0,1,1,1,0,40,0,1,1,0.0,0.0,0.0,0,0,26,34,76.5,3,16,1,0,0,Freiburg,2019-04-13 Werder Bremen-Freiburg,GER-BL1,18-19,49b7020f
+482b70ad,Mike Frantz,8,GER,RB,32-181,28,0,0,0,0,0,0,1,0,10,0,0,0,0.0,0.0,0.0,0,0,3,9,33.3,0,1,0,0,0,Freiburg,2019-04-13 Werder Bremen-Freiburg,GER-BL1,18-19,49b7020f
+0d55d942,Alexander Schwolow,1,GER,GK,26-315,90,0,0,0,0,0,0,0,0,37,0,0,0,0.0,0.0,0.0,0,0,17,33,51.5,0,13,0,0,0,Freiburg,2019-04-13 Werder Bremen-Freiburg,GER-BL1,18-19,49b7020f

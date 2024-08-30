@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+9b6f7fd5,Lucas Paquetá,10,BRA,FW,24-034,82,0,1,0,0,6,0,0,0,58,0,0,1,0.6,0.6,1.2,5,1,29,44,65.9,3,38,3,4,2,Lyon,2021-09-30 Lyon-Brøndby,UEL,21-22,1a89c989
+cc588cbe,Habib Keita,19,MLI,DM,19-237,8,0,0,0,0,0,0,0,0,17,0,0,0,0.0,0.0,0.0,1,0,15,16,93.8,1,8,0,1,1,Lyon,2021-09-30 Lyon-Brøndby,UEL,21-22,1a89c989
+5ceba7fc,Karl Toko Ekambi,7,CMR,"LW,RW",29-016,90,2,1,0,0,5,3,0,0,69,0,0,1,1.5,1.5,0.7,14,3,47,54,87.0,2,48,10,10,6,Lyon,2021-09-30 Lyon-Brøndby,UEL,21-22,1a89c989
+6421ec64,Xherdan Shaqiri,29,SUI,RW,29-355,64,0,0,0,0,3,0,0,0,51,0,0,1,0.3,0.3,0.1,4,0,31,44,70.5,3,29,0,0,0,Lyon,2021-09-30 Lyon-Brøndby,UEL,21-22,1a89c989
+b34c63a5,Rayan Cherki,18,FRA,"LW,RW",18-044,26,0,0,0,0,2,1,0,0,26,0,1,0,0.1,0.1,0.0,2,0,17,19,89.5,1,19,3,1,1,Lyon,2021-09-30 Lyon-Brøndby,UEL,21-22,1a89c989
+a5db0bec,Houssem Aouar,8,ALG,AM,23-092,90,1,0,0,0,7,3,0,0,77,0,0,2,0.9,0.9,0.1,10,0,52,63,82.5,8,43,4,4,4,Lyon,2021-09-30 Lyon-Brøndby,UEL,21-22,1a89c989
+c6e5d20f,Thiago Mendes,23,BRA,DM,29-199,90,0,0,0,0,5,2,0,0,117,1,0,0,0.3,0.3,0.3,7,2,93,109,85.3,12,82,1,0,0,Lyon,2021-09-30 Lyon-Brøndby,UEL,21-22,1a89c989
+f81ef10d,Maxence Caqueret,25,FRA,DM,21-227,82,0,0,0,0,0,0,1,0,97,1,0,0,0.0,0.0,0.1,5,0,80,90,88.9,4,53,0,2,1,Lyon,2021-09-30 Lyon-Brøndby,UEL,21-22,1a89c989
+7d08063d,Tino Kadewere,11,ZIM,"FW,DM",25-268,8,0,0,0,0,0,0,0,0,1,0,1,0,0.0,0.0,0.0,0,0,0,0,,0,1,0,1,1,Lyon,2021-09-30 Lyon-Brøndby,UEL,21-22,1a89c989
+e0bc6fdc,Emerson Palmieri,3,ITA,LB,27-058,90,0,0,0,0,0,0,1,0,79,0,0,0,0.0,0.0,0.0,2,0,72,76,94.7,7,47,3,1,0,Lyon,2021-09-30 Lyon-Brøndby,UEL,21-22,1a89c989
+6de23ab0,Sinaly Diomande,2,CIV,CB,20-174,90,0,0,0,0,0,0,0,0,89,2,2,0,0.0,0.0,0.0,1,0,82,84,97.6,4,55,0,0,0,Lyon,2021-09-30 Lyon-Brøndby,UEL,21-22,1a89c989
+1ec7e1c5,Damien Da Silva,21,FRA,CB,33-136,90,0,0,0,0,2,0,0,0,116,2,1,1,0.2,0.2,0.0,1,0,99,106,93.4,9,68,0,1,1,Lyon,2021-09-30 Lyon-Brøndby,UEL,21-22,1a89c989
+ff0ab48c,Leo Dubois,14,FRA,RB,27-016,82,0,0,0,0,0,0,0,0,80,0,2,1,0.0,0.0,0.2,2,0,68,74,91.9,6,46,5,2,1,Lyon,2021-09-30 Lyon-Brøndby,UEL,21-22,1a89c989
+d56b9520,Malo Gusto,17,FRA,RB,18-134,8,0,0,0,0,0,0,0,0,11,1,0,0,0.0,0.0,0.0,0,0,9,10,90.0,0,6,0,0,0,Lyon,2021-09-30 Lyon-Brøndby,UEL,21-22,1a89c989
+f00de885,Anthony Lopes,1,POR,GK,30-364,90,0,0,0,0,0,0,0,0,32,0,0,0,0.0,0.0,0.0,0,0,31,32,96.9,0,13,0,0,0,Lyon,2021-09-30 Lyon-Brøndby,UEL,21-22,1a89c989
+f0e3b343,Andrija Pavlović,9,SRB,FW,27-318,90,0,0,0,0,2,0,0,0,34,0,0,0,0.4,0.4,0.0,1,0,18,22,81.8,0,21,1,2,1,Brøndby,2021-09-30 Lyon-Brøndby,UEL,21-22,1a89c989
+5e167a35,Simon Hedlund,27,SWE,"LM,RM",28-203,72,0,0,0,0,0,0,0,0,23,1,1,0,0.0,0.0,0.0,1,0,10,15,66.7,3,13,2,1,0,Brøndby,2021-09-30 Lyon-Brøndby,UEL,21-22,1a89c989
+25ef5b47,Christian Cappis,23,USA,LM,22-048,18,0,0,0,0,0,0,0,0,6,0,1,0,0.0,0.0,0.0,0,0,4,4,100.0,0,5,0,1,0,Brøndby,2021-09-30 Lyon-Brøndby,UEL,21-22,1a89c989
+6afcaaa3,Josip Radošević,22,CRO,CM,27-180,82,0,0,0,0,0,0,0,0,51,7,2,2,0.0,0.0,0.4,3,0,28,38,73.7,3,22,0,0,0,Brøndby,2021-09-30 Lyon-Brøndby,UEL,21-22,1a89c989
+2d54d501,Tobias Børkeeiet,42,NOR,CM,22-165,8,0,0,0,0,1,0,0,0,8,0,0,0,0.0,0.0,0.0,1,0,6,7,85.7,0,5,0,0,0,Brøndby,2021-09-30 Lyon-Brøndby,UEL,21-22,1a89c989
+f4d60499,Morten Frendrup,19,DEN,CM,20-176,90,0,0,0,0,1,0,0,0,39,1,2,1,0.1,0.1,0.0,1,0,19,22,86.4,0,17,0,2,2,Brøndby,2021-09-30 Lyon-Brøndby,UEL,21-22,1a89c989
+98ca4feb,Mathias Greve,8,DEN,RM,26-231,61,0,0,0,0,1,0,0,0,23,2,0,0,0.0,0.0,0.0,0,0,8,18,44.4,0,10,0,1,1,Brøndby,2021-09-30 Lyon-Brøndby,UEL,21-22,1a89c989
+9ade9ce1,Anis Ben Slimane,25,TUN,"RM,LM",20-198,29,0,0,0,0,0,0,0,0,21,1,1,1,0.0,0.0,0.1,2,0,9,12,75.0,2,15,2,3,1,Brøndby,2021-09-30 Lyon-Brøndby,UEL,21-22,1a89c989
+b648463f,Jens Martin Gammelby,2,DEN,LB,26-237,61,0,0,0,0,0,0,0,0,24,0,0,1,0.0,0.0,0.0,0,0,14,20,70.0,0,7,1,0,0,Brøndby,2021-09-30 Lyon-Brøndby,UEL,21-22,1a89c989
+7d06360d,Kevin Mensah,14,DEN,LB,30-138,29,0,0,0,0,0,0,0,0,21,1,0,0,0.0,0.0,0.0,1,0,16,18,88.9,0,15,1,0,0,Brøndby,2021-09-30 Lyon-Brøndby,UEL,21-22,1a89c989
+5777eca0,Sigurd Rosted,4,NOR,CB,27-070,90,0,0,0,0,0,0,0,0,42,0,0,2,0.0,0.0,0.0,0,0,18,30,60.0,1,23,0,0,0,Brøndby,2021-09-30 Lyon-Brøndby,UEL,21-22,1a89c989
+52fdf512,Andreas Maxsø,5,DEN,CB,27-196,90,0,0,0,0,0,0,0,0,28,0,2,1,0.0,0.0,0.0,0,0,18,19,94.7,0,15,0,0,0,Brøndby,2021-09-30 Lyon-Brøndby,UEL,21-22,1a89c989
+8a3aabc1,Henrik Heggheim,3,NOR,CB,20-161,61,0,0,0,0,0,0,0,0,36,1,2,2,0.0,0.0,0.0,0,0,19,27,70.4,0,20,0,0,0,Brøndby,2021-09-30 Lyon-Brøndby,UEL,21-22,1a89c989
+fdae8b47,Kevin Tshiembe,18,DEN,CB,24-183,29,0,0,0,0,0,0,0,0,11,0,1,0,0.0,0.0,0.0,0,0,4,8,50.0,0,6,0,0,0,Brøndby,2021-09-30 Lyon-Brøndby,UEL,21-22,1a89c989
+b088d5d3,Andreas Bruus,17,DEN,RB,22-257,90,0,0,0,0,1,0,0,0,44,1,0,1,0.1,0.1,0.0,0,0,19,34,55.9,0,21,4,1,1,Brøndby,2021-09-30 Lyon-Brøndby,UEL,21-22,1a89c989
+c924b17d,Mads Hermansen,30,DEN,GK,21-081,90,0,0,0,0,0,0,0,0,46,0,0,0,0.0,0.0,0.0,0,0,29,41,70.7,0,22,0,0,0,Brøndby,2021-09-30 Lyon-Brøndby,UEL,21-22,1a89c989

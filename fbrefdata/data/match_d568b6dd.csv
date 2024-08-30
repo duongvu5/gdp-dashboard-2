@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+f93e6e94,Nils Petersen,18,GER,FW,33-131,64,0,0,0,0,2,0,0,0,21,0,1,0,0.0,0.0,0.1,1,0,9,15,60.0,0,11,1,1,1,Freiburg,2022-04-16 Freiburg-Bochum,GER-BL1,21-22,d568b6dd
+ed79b7d3,Ermedin Demirović,11,BIH,FW,24-022,26,0,0,0,0,2,1,0,0,10,0,0,0,0.4,0.4,0.3,1,0,4,5,80.0,1,8,1,1,0,Freiburg,2022-04-16 Freiburg-Bochum,GER-BL1,21-22,d568b6dd
+54e4866f,Vincenzo Grifo,32,ITA,LW,29-009,90,0,0,0,0,1,0,0,0,61,1,0,0,0.1,0.1,0.1,6,2,53,58,91.4,6,42,2,4,3,Freiburg,2022-04-16 Freiburg-Bochum,GER-BL1,21-22,d568b6dd
+bf075f6b,Roland Sallai,22,HUN,RW,24-329,72,2,0,0,0,4,2,0,0,41,1,0,0,0.5,0.5,0.7,4,0,17,29,58.6,5,29,2,4,1,Freiburg,2022-04-16 Freiburg-Bochum,GER-BL1,21-22,d568b6dd
+dd676a97,Noah Weißhaupt,33,GER,RW,20-208,18,0,0,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.0,0,0,9,10,90.0,1,6,0,0,0,Freiburg,2022-04-16 Freiburg-Bochum,GER-BL1,21-22,d568b6dd
+6190474d,Jeong Woo-yeong,29,KOR,AM,22-208,64,0,2,0,0,2,1,0,0,33,0,0,0,0.1,0.1,0.2,6,2,18,28,64.3,7,26,3,3,2,Freiburg,2022-04-16 Freiburg-Bochum,GER-BL1,21-22,d568b6dd
+ca618d23,Lucas Höler,9,GER,AM,27-280,26,0,0,0,0,1,1,0,0,14,0,0,0,0.3,0.3,0.0,1,0,9,10,90.0,1,8,0,0,0,Freiburg,2022-04-16 Freiburg-Bochum,GER-BL1,21-22,d568b6dd
+5d8e331f,Nicolas Höfler,27,GER,DM,32-038,81,0,1,0,0,0,0,0,0,45,1,0,1,0.0,0.0,0.1,3,2,38,42,90.5,6,26,0,3,3,Freiburg,2022-04-16 Freiburg-Bochum,GER-BL1,21-22,d568b6dd
+70dcf94d,Janik Haberer,19,GER,DM,28-014,9,0,0,0,0,0,0,0,0,7,0,0,1,0.0,0.0,0.0,1,0,5,5,100.0,1,2,0,0,0,Freiburg,2022-04-16 Freiburg-Bochum,GER-BL1,21-22,d568b6dd
+beb882a8,Maximilian Eggestein,8,GER,DM,25-129,90,0,0,0,0,1,1,0,0,71,4,1,0,0.1,0.1,0.0,3,0,55,61,90.2,8,36,3,1,0,Freiburg,2022-04-16 Freiburg-Bochum,GER-BL1,21-22,d568b6dd
+8593f88c,Christian Günter,30,GER,LB,29-047,90,0,0,0,0,0,0,0,0,48,1,0,0,0.0,0.0,0.5,2,0,31,44,70.5,2,23,2,1,0,Freiburg,2022-04-16 Freiburg-Bochum,GER-BL1,21-22,d568b6dd
+34e12499,Nico Schlotterbeck,4,GER,CB,22-136,90,0,0,0,0,1,1,0,0,90,2,1,0,0.6,0.6,0.0,1,0,71,82,86.6,6,50,1,0,0,Freiburg,2022-04-16 Freiburg-Bochum,GER-BL1,21-22,d568b6dd
+302527b2,Philipp Lienhart,3,AUT,CB,25-279,90,0,0,0,0,0,0,0,0,77,0,0,0,0.0,0.0,0.0,0,0,64,72,88.9,4,49,0,0,0,Freiburg,2022-04-16 Freiburg-Bochum,GER-BL1,21-22,d568b6dd
+2a29eb9b,Lukas Kübler,17,GER,RB,29-229,64,1,0,0,0,1,1,0,0,42,3,1,2,0.1,0.1,0.0,0,0,24,32,75.0,1,17,0,0,0,Freiburg,2022-04-16 Freiburg-Bochum,GER-BL1,21-22,d568b6dd
+088ca1bd,Jonathan Schmid,7,FRA,RB,31-298,26,0,0,0,0,0,0,0,0,22,0,0,0,0.0,0.0,0.2,1,0,19,21,90.5,2,10,1,2,1,Freiburg,2022-04-16 Freiburg-Bochum,GER-BL1,21-22,d568b6dd
+a92ab7be,Mark Flekken,26,NED,GK,28-307,90,0,0,0,0,0,0,0,0,47,0,0,0,0.0,0.0,0.0,0,0,36,47,76.6,0,32,0,0,0,Freiburg,2022-04-16 Freiburg-Bochum,GER-BL1,21-22,d568b6dd
+3745e8bd,Sebastian Polter,40,GER,FW,31-015,65,0,0,0,0,1,0,0,0,12,0,0,0,0.1,0.1,0.0,1,0,7,11,63.6,1,10,0,0,0,Bochum,2022-04-16 Freiburg-Bochum,GER-BL1,21-22,d568b6dd
+6cc47ae1,Jürgen Locadia,19,CUW,FW,28-160,25,0,0,0,0,1,0,0,0,14,1,0,0,0.0,0.0,0.0,2,0,5,8,62.5,0,7,1,0,0,Bochum,2022-04-16 Freiburg-Bochum,GER-BL1,21-22,d568b6dd
+13ddc856,Takuma Asano,10,JPN,LW,27-157,45,0,0,0,0,0,0,0,0,16,0,0,0,0.0,0.0,0.1,1,0,10,11,90.9,0,11,1,1,0,Bochum,2022-04-16 Freiburg-Bochum,GER-BL1,21-22,d568b6dd
+eb61713c,Danny Blum,7,GER,"LW,LB",31-099,45,0,0,0,0,1,1,0,0,21,0,0,2,0.0,0.0,0.1,1,0,12,17,70.6,0,6,1,0,0,Bochum,2022-04-16 Freiburg-Bochum,GER-BL1,21-22,d568b6dd
+5dc15574,Miloš Pantović,27,SRB,RW,25-283,45,0,0,0,0,0,0,0,0,10,0,0,1,0.0,0.0,0.0,0,0,5,8,62.5,0,6,0,0,0,Bochum,2022-04-16 Freiburg-Bochum,GER-BL1,21-22,d568b6dd
+29f7cfd9,Simon Zoller,9,GER,"RW,RM",30-294,45,0,0,0,0,1,1,0,0,12,0,1,0,0.1,0.1,0.0,0,0,6,10,60.0,0,4,0,0,0,Bochum,2022-04-16 Freiburg-Bochum,GER-BL1,21-22,d568b6dd
+70678132,Eduard Löwen,38,GER,"LM,AM",25-078,65,0,0,0,0,1,1,0,0,34,2,0,0,0.0,0.0,0.1,6,0,14,29,48.3,0,19,1,2,1,Bochum,2022-04-16 Freiburg-Bochum,GER-BL1,21-22,d568b6dd
+9662c9ec,Patrick Osterhage,6,GER,"LM,AM",22-074,25,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,1,0,2,3,66.7,0,3,0,0,0,Bochum,2022-04-16 Freiburg-Bochum,GER-BL1,21-22,d568b6dd
+07c7eb0c,Anthony Losilla,8,FRA,"CM,DM",36-037,90,0,0,0,0,1,0,0,0,38,1,2,0,0.1,0.1,0.0,2,0,22,27,81.5,3,19,1,2,1,Bochum,2022-04-16 Freiburg-Bochum,GER-BL1,21-22,d568b6dd
+861e0116,Kostas Stafylidis,16,GRE,"RM,LB",28-135,67,0,0,0,0,1,0,0,1,38,3,0,2,0.0,0.0,0.1,1,0,22,31,71.0,1,19,1,1,1,Bochum,2022-04-16 Freiburg-Bochum,GER-BL1,21-22,d568b6dd
+c05f2f8c,Danilo Soares,3,BRA,LB,30-169,45,0,0,0,0,0,0,0,0,38,2,2,4,0.0,0.0,0.0,1,0,22,27,81.5,2,17,1,3,1,Bochum,2022-04-16 Freiburg-Bochum,GER-BL1,21-22,d568b6dd
+1ae836b1,Elvis Rexhbeçaj,20,GER,"DM,CM",24-166,45,0,0,0,0,1,0,0,0,14,0,2,2,0.0,0.0,0.0,1,0,7,7,100.0,0,7,0,1,1,Bochum,2022-04-16 Freiburg-Bochum,GER-BL1,21-22,d568b6dd
+7e12a98d,Maxim Leitsch,29,GER,CB,23-333,90,0,0,0,0,0,0,0,0,50,2,1,2,0.0,0.0,0.0,0,0,31,37,83.8,0,24,0,1,0,Bochum,2022-04-16 Freiburg-Bochum,GER-BL1,21-22,d568b6dd
+a39d11bc,Armel Bella Kotchap,37,GER,CB,20-126,90,0,0,0,0,1,0,0,0,48,0,5,1,0.0,0.0,0.0,0,0,26,38,68.4,1,32,1,0,0,Bochum,2022-04-16 Freiburg-Bochum,GER-BL1,21-22,d568b6dd
+f27680d9,Cristian Gamboa,2,CRC,RB,32-174,90,0,0,0,0,1,0,0,0,37,2,0,2,0.0,0.0,0.0,1,0,24,31,77.4,1,19,0,0,0,Bochum,2022-04-16 Freiburg-Bochum,GER-BL1,21-22,d568b6dd
+9f941969,Manuel Riemann,1,GER,GK,33-219,90,0,0,0,0,0,0,0,0,54,0,0,0,0.0,0.0,0.0,0,0,30,51,58.8,0,30,0,0,0,Bochum,2022-04-16 Freiburg-Bochum,GER-BL1,21-22,d568b6dd

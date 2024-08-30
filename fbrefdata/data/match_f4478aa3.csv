@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+46faabfa,Ibrahima Niane,7,SEN,FW,22-059,66,0,0,0,0,1,0,0,0,22,0,0,0,0.0,0.0,0.0,2,0,10,14,71.4,1,6,0,0,0,Metz,2021-05-09 Metz-Nîmes,FRA-L1,20-21,f4478aa3
+2945f4b7,Thierry Ambrose,9,GLP,FW,24-042,24,0,0,0,0,2,0,0,0,13,0,0,0,0.2,0.2,0.1,3,0,9,10,90.0,3,8,0,1,1,Metz,2021-05-09 Metz-Nîmes,FRA-L1,20-21,f4478aa3
+87e9c7cd,Papa Ndiaga Yade,26,MTN,LW,21-124,58,0,0,0,0,2,0,0,0,27,1,1,0,0.1,0.1,0.0,4,0,15,20,75.0,1,16,3,5,3,Metz,2021-05-09 Metz-Nîmes,FRA-L1,20-21,f4478aa3
+743fd71f,Vagner Gonçalves,27,CPV,LW,25-119,32,0,0,0,0,0,0,0,0,20,0,0,0,0.0,0.0,0.1,2,0,12,16,75.0,1,12,4,2,0,Metz,2021-05-09 Metz-Nîmes,FRA-L1,20-21,f4478aa3
+a0791826,Farid Boulaya,10,ALG,RW,28-073,59,0,0,0,0,1,0,0,0,47,2,2,0,0.0,0.0,0.0,2,0,31,41,75.6,4,27,1,2,1,Metz,2021-05-09 Metz-Nîmes,FRA-L1,20-21,f4478aa3
+9d5dcc23,Lamine Gueye,13,SEN,RW,23-057,31,0,0,0,0,0,0,0,0,17,0,1,0,0.0,0.0,0.0,0,0,12,16,75.0,0,9,0,0,0,Metz,2021-05-09 Metz-Nîmes,FRA-L1,20-21,f4478aa3
+feb5d972,Pape Matar Sarr,15,SEN,LM,18-237,90,0,0,0,0,1,1,0,0,84,1,2,2,0.0,0.0,0.1,2,0,65,75,86.7,10,54,5,2,0,Metz,2021-05-09 Metz-Nîmes,FRA-L1,20-21,f4478aa3
+e50623a0,Kévin N'Doram,4,FRA,CM,25-107,65,0,0,0,0,0,0,0,0,38,0,0,0,0.0,0.0,0.0,0,0,30,38,78.9,3,22,0,0,0,Metz,2021-05-09 Metz-Nîmes,FRA-L1,20-21,f4478aa3
+999ceb5f,Boubacar Traoré,8,MLI,CM,19-262,25,0,0,0,0,1,0,0,0,23,2,0,0,0.0,0.0,0.0,3,0,14,19,73.7,2,10,0,0,0,Metz,2021-05-09 Metz-Nîmes,FRA-L1,20-21,f4478aa3
+e768de1f,Habib Maïga,19,CIV,RM,25-128,90,0,0,0,0,2,0,1,0,99,2,1,2,0.3,0.3,0.0,1,0,76,85,89.4,12,48,3,2,0,Metz,2021-05-09 Metz-Nîmes,FRA-L1,20-21,f4478aa3
+cc41f558,Matthieu Udol,3,FRA,LB,25-050,90,0,0,0,0,0,0,0,0,62,1,1,0,0.0,0.0,0.0,0,0,51,55,92.7,1,22,0,1,1,Metz,2021-05-09 Metz-Nîmes,FRA-L1,20-21,f4478aa3
+861227d2,John Boye,21,GHA,CB,34-016,53,0,0,0,0,0,0,0,0,33,0,2,3,0.0,0.0,0.0,0,0,21,23,91.3,1,15,0,0,0,Metz,2021-05-09 Metz-Nîmes,FRA-L1,20-21,f4478aa3
+562a4799,Boubakar Kouyaté,23,MLI,CB,24-024,37,0,0,0,0,0,0,0,0,28,1,0,0,0.0,0.0,0.0,0,0,16,23,69.6,3,6,0,0,0,Metz,2021-05-09 Metz-Nîmes,FRA-L1,20-21,f4478aa3
+edd81e2a,Dylan Bronn,2,TUN,CB,25-324,90,0,0,0,0,1,1,0,0,66,1,2,0,0.0,0.0,0.0,1,0,49,58,84.5,2,32,0,0,0,Metz,2021-05-09 Metz-Nîmes,FRA-L1,20-21,f4478aa3
+3c6bbbab,Fabien Centonze,18,FRA,RB,25-113,90,0,0,0,0,0,0,0,0,94,0,2,5,0.0,0.0,0.3,1,0,62,78,79.5,3,47,4,2,1,Metz,2021-05-09 Metz-Nîmes,FRA-L1,20-21,f4478aa3
+ae7d0ecd,Alexandre Oukidja,16,ALG,GK,32-294,90,0,0,0,0,0,0,0,0,34,0,0,0,0.0,0.0,0.0,0,0,27,32,84.4,0,12,0,0,0,Metz,2021-05-09 Metz-Nîmes,FRA-L1,20-21,f4478aa3
+3ef68782,Moussa Koné,28,SEN,FW,24-130,83,0,0,0,0,2,1,0,0,25,0,0,0,0.2,0.2,0.0,0,0,11,16,68.8,1,13,0,0,0,Nîmes,2021-05-09 Metz-Nîmes,FRA-L1,20-21,f4478aa3
+9826ea33,Mahamadou Doucouré,32,MLI,FW,20-352,7,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,4,1,0,0,Nîmes,2021-05-09 Metz-Nîmes,FRA-L1,20-21,f4478aa3
+005c0807,Zinedine Ferhat,10,ALG,LW,28-069,89,1,0,0,0,1,1,0,0,47,2,1,1,0.1,0.1,0.1,5,1,29,41,70.7,3,30,3,1,1,Nîmes,2021-05-09 Metz-Nîmes,FRA-L1,20-21,f4478aa3
+5ea9ebd4,Matteo Ahlinvi,11,BEN,LW,21-311,1,0,0,0,0,0,0,0,0,1,1,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Nîmes,2021-05-09 Metz-Nîmes,FRA-L1,20-21,f4478aa3
+0033fb1b,Niclas Eliasson,7,SWE,RW,25-153,88,0,1,0,0,2,0,0,0,34,4,0,1,0.2,0.2,0.6,3,1,16,24,66.7,0,18,0,0,0,Nîmes,2021-05-09 Metz-Nîmes,FRA-L1,20-21,f4478aa3
+5c61496e,Nassim Chadli,33,FRA,RW,19-285,2,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,2,0,0,0,Nîmes,2021-05-09 Metz-Nîmes,FRA-L1,20-21,f4478aa3
+beae3a73,Renaud Ripart,20,FRA,AM,28-056,90,1,0,1,1,2,0,0,0,48,1,2,1,0.9,0.1,0.0,1,1,21,35,60.0,6,24,3,0,0,Nîmes,2021-05-09 Metz-Nîmes,FRA-L1,20-21,f4478aa3
+2145368f,Lamine Fomba,12,FRA,DM,23-103,90,1,0,0,0,1,1,1,0,45,2,4,2,0.6,0.6,0.1,3,1,23,32,71.9,6,23,0,1,0,Nîmes,2021-05-09 Metz-Nîmes,FRA-L1,20-21,f4478aa3
+9b40a6ea,Andrés Cubas,18,PAR,DM,24-352,83,0,0,0,0,1,1,0,0,46,4,3,3,0.0,0.0,0.0,1,0,29,35,82.9,3,12,0,0,0,Nîmes,2021-05-09 Metz-Nîmes,FRA-L1,20-21,f4478aa3
+44f8c299,Lucas Deaux,8,FRA,DM,32-134,7,0,1,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.1,1,1,5,6,83.3,0,4,0,0,0,Nîmes,2021-05-09 Metz-Nîmes,FRA-L1,20-21,f4478aa3
+70c52749,Birger Meling,3,NOR,LB,26-143,90,0,0,0,0,0,0,1,0,67,0,1,4,0.0,0.0,0.1,1,0,48,57,84.2,4,26,0,0,0,Nîmes,2021-05-09 Metz-Nîmes,FRA-L1,20-21,f4478aa3
+08082af0,Loïck Landre,5,FRA,CB,29-004,90,0,0,0,0,0,0,0,0,49,0,1,0,0.0,0.0,0.0,0,0,40,45,88.9,3,33,2,0,0,Nîmes,2021-05-09 Metz-Nîmes,FRA-L1,20-21,f4478aa3
+539b4f25,Naomichi Ueda,27,JPN,CB,26-197,90,0,0,0,0,0,0,0,0,60,0,0,1,0.0,0.0,0.1,1,0,43,58,74.1,6,41,1,0,0,Nîmes,2021-05-09 Metz-Nîmes,FRA-L1,20-21,f4478aa3
+475583ff,Gaëtan Paquiez,15,FRA,RB,27-083,75,0,0,0,0,0,0,0,0,26,2,0,0,0.0,0.0,0.0,0,0,10,23,43.5,0,5,1,0,0,Nîmes,2021-05-09 Metz-Nîmes,FRA-L1,20-21,f4478aa3
+8746d5d0,Patrick Burner,21,MTQ,RB,25-028,15,0,0,0,0,0,0,0,0,7,2,2,0,0.0,0.0,0.0,0,0,2,2,100.0,0,1,0,0,0,Nîmes,2021-05-09 Metz-Nîmes,FRA-L1,20-21,f4478aa3
+bcf1b2e9,Baptiste Reynet,30,FRA,GK,30-193,90,0,0,0,0,0,0,0,0,54,0,0,0,0.0,0.0,0.0,0,0,40,54,74.1,0,31,0,0,0,Nîmes,2021-05-09 Metz-Nîmes,FRA-L1,20-21,f4478aa3

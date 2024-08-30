@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+dea698d9,Cristiano Ronaldo,7,POR,FW,34-348,90,2,0,0,0,8,4,0,0,70,0,2,0,0.8,0.8,0.2,8,0,44,49,89.8,2,56,10,2,0,Juventus,2020-01-19 Juventus-Parma,ITA-SERIA_A,19-20,c29fc8cd
+e0921a4f,Paulo Dybala,10,ARG,FW,26-065,80,0,1,0,0,2,0,0,0,78,0,0,0,0.1,0.1,0.5,7,2,54,67,80.6,5,64,4,3,0,Juventus,2020-01-19 Juventus-Parma,ITA-SERIA_A,19-20,c29fc8cd
+4fa7cb9b,Douglas Costa,11,BRA,AM,29-127,10,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.2,2,0,3,4,75.0,1,4,0,0,0,Juventus,2020-01-19 Juventus-Parma,ITA-SERIA_A,19-20,c29fc8cd
+ef619b0b,Aaron Ramsey,8,WAL,AM,29-024,58,0,0,0,0,3,0,0,0,47,0,0,0,0.2,0.2,0.0,0,0,39,42,92.9,0,41,2,2,2,Juventus,2020-01-19 Juventus-Parma,ITA-SERIA_A,19-20,c29fc8cd
+8a08491a,Gonzalo Higuaín,21,ARG,"AM,FW",32-040,32,0,0,0,0,1,0,0,0,19,0,1,0,0.0,0.0,0.1,4,0,11,15,73.3,1,12,1,2,2,Juventus,2020-01-19 Juventus-Parma,ITA-SERIA_A,19-20,c29fc8cd
+c0cddebe,Blaise Matuidi,14,FRA,LM,32-285,90,0,1,0,0,0,0,0,0,76,2,3,2,0.0,0.0,0.0,2,1,52,56,92.9,5,53,0,1,0,Juventus,2020-01-19 Juventus-Parma,ITA-SERIA_A,19-20,c29fc8cd
+ad6df2d5,Miralem Pjanić,5,BIH,CM,29-292,90,0,0,0,0,0,0,0,0,82,1,2,0,0.0,0.0,0.2,3,1,67,77,87.0,5,56,1,1,0,Juventus,2020-01-19 Juventus-Parma,ITA-SERIA_A,19-20,c29fc8cd
+8794e251,Adrien Rabiot,25,FRA,RM,24-291,90,0,0,0,0,0,0,0,0,68,0,2,2,0.0,0.0,0.0,1,0,55,58,94.8,8,48,0,4,2,Juventus,2020-01-19 Juventus-Parma,ITA-SERIA_A,19-20,c29fc8cd
+0d82903c,Alex Sandro,12,BRA,LB,28-358,20,0,0,0,0,1,0,0,0,22,0,1,0,0.0,0.0,0.0,1,0,17,18,94.4,1,16,0,1,0,Juventus,2020-01-19 Juventus-Parma,ITA-SERIA_A,19-20,c29fc8cd
+94b2001f,Danilo,13,BRA,LB,28-188,70,0,0,0,0,1,1,0,0,67,3,1,1,0.0,0.0,0.1,1,0,43,55,78.2,3,38,3,0,0,Juventus,2020-01-19 Juventus-Parma,ITA-SERIA_A,19-20,c29fc8cd
+52ec54d0,Leonardo Bonucci,19,ITA,CB,32-263,90,0,0,0,0,1,0,0,0,76,0,2,0,0.0,0.0,0.0,2,0,59,71,83.1,5,60,2,0,0,Juventus,2020-01-19 Juventus-Parma,ITA-SERIA_A,19-20,c29fc8cd
+d6e53a3a,Matthijs de Ligt,4,NED,CB,20-160,90,0,0,0,0,0,0,0,0,87,3,2,1,0.0,0.0,0.0,1,0,68,76,89.5,9,58,1,0,0,Juventus,2020-01-19 Juventus-Parma,ITA-SERIA_A,19-20,c29fc8cd
+0ab1f153,Juan Cuadrado,16,COL,RB,31-238,90,0,0,0,0,0,0,0,0,101,2,2,0,0.0,0.0,0.0,2,0,84,93,90.3,7,78,4,0,0,Juventus,2020-01-19 Juventus-Parma,ITA-SERIA_A,19-20,c29fc8cd
+01b8a2b2,Wojciech Szczęsny,1,POL,GK,29-276,90,0,0,0,0,0,0,0,0,27,0,0,0,0.0,0.0,0.0,0,0,23,26,88.5,0,20,0,0,0,Juventus,2020-01-19 Juventus-Parma,ITA-SERIA_A,19-20,c29fc8cd
+6c1f7328,Roberto Inglese,9,ITA,FW,28-068,43,0,0,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.0,1,0,3,6,50.0,0,6,0,0,0,Parma,2020-01-19 Juventus-Parma,ITA-SERIA_A,19-20,c29fc8cd
+c693347d,Andreas Cornelius,11,DEN,FW,26-309,47,1,0,0,0,1,1,0,0,20,0,0,1,0.1,0.1,0.0,1,0,13,15,86.7,2,13,0,0,0,Parma,2020-01-19 Juventus-Parma,ITA-SERIA_A,19-20,c29fc8cd
+144607cc,Jasmin Kurtić,19,SVN,LW,31-009,90,0,0,0,0,1,1,1,0,43,2,0,0,0.0,0.0,0.0,3,1,27,35,77.1,3,27,3,0,0,Parma,2020-01-19 Juventus-Parma,ITA-SERIA_A,19-20,c29fc8cd
+df3cda47,Dejan Kulusevski,44,SWE,RW,19-269,87,0,0,0,0,0,0,0,0,45,0,2,1,0.0,0.0,0.1,2,0,28,34,82.4,5,37,5,3,0,Parma,2020-01-19 Juventus-Parma,ITA-SERIA_A,19-20,c29fc8cd
+1cac99dc,Luca Siligardi,26,ITA,RW,31-358,3,0,0,0,0,1,1,0,0,3,0,0,1,0.0,0.0,0.0,0,0,1,1,100.0,0,2,0,0,0,Parma,2020-01-19 Juventus-Parma,ITA-SERIA_A,19-20,c29fc8cd
+5aaef9ef,Juraj Kucka,33,SVK,AM,32-327,90,0,0,0,0,2,1,0,0,45,0,1,0,0.0,0.0,0.0,1,0,30,39,76.9,5,33,0,1,1,Parma,2020-01-19 Juventus-Parma,ITA-SERIA_A,19-20,c29fc8cd
+6f5ead86,Hernani,10,BRA,DM,25-298,90,0,0,0,0,2,2,0,0,62,3,5,3,0.0,0.0,0.0,1,0,31,43,72.1,4,36,0,4,1,Parma,2020-01-19 Juventus-Parma,ITA-SERIA_A,19-20,c29fc8cd
+ea164f99,Matteo Scozzarella,21,ITA,DM,31-228,65,0,1,0,0,0,0,0,0,33,2,0,0,0.0,0.0,0.1,1,1,21,27,77.8,1,20,0,0,0,Parma,2020-01-19 Juventus-Parma,ITA-SERIA_A,19-20,c29fc8cd
+bdd0692f,Mattia Sprocati,93,ITA,DM,26-266,25,0,0,0,0,1,0,0,0,10,0,0,0,0.1,0.1,0.0,0,0,7,8,87.5,2,11,0,0,0,Parma,2020-01-19 Juventus-Parma,ITA-SERIA_A,19-20,c29fc8cd
+173061c0,Riccardo Gagliolo,28,SWE,LB,29-266,90,0,0,0,0,0,0,0,0,54,3,0,1,0.0,0.0,0.0,1,0,33,44,75.0,1,34,1,1,1,Parma,2020-01-19 Juventus-Parma,ITA-SERIA_A,19-20,c29fc8cd
+585a73a8,Bruno Alves,22,POR,CB,38-053,90,0,0,0,0,0,0,0,0,40,0,1,2,0.0,0.0,0.0,0,0,28,34,82.4,1,24,0,0,0,Parma,2020-01-19 Juventus-Parma,ITA-SERIA_A,19-20,c29fc8cd
+63071a3f,Simone Iacoponi,2,ITA,CB,32-264,90,0,0,0,0,0,0,0,0,37,1,1,0,0.0,0.0,0.0,0,0,21,33,63.6,0,27,1,0,0,Parma,2020-01-19 Juventus-Parma,ITA-SERIA_A,19-20,c29fc8cd
+96e0490d,Matteo Darmian,36,ITA,RB,30-048,90,0,0,0,0,0,0,0,0,74,4,0,0,0.0,0.0,0.0,3,0,53,67,79.1,5,50,1,0,0,Parma,2020-01-19 Juventus-Parma,ITA-SERIA_A,19-20,c29fc8cd
+343f753a,Luigi Sepe,1,ITA,GK,28-256,90,0,0,0,0,0,0,0,0,36,0,0,0,0.0,0.0,0.0,0,0,23,33,69.7,0,18,0,0,0,Parma,2020-01-19 Juventus-Parma,ITA-SERIA_A,19-20,c29fc8cd

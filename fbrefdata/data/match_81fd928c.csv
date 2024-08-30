@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+bf4c41f9,Arnaud Kalimuendo,15,FRA,FW,19-254,71,2,0,1,1,3,2,0,0,20,0,0,0,1.3,0.5,0.0,0,0,15,16,93.8,0,15,2,0,0,Lens,2021-10-01 Lens-Reims,FRA-L1,21-22,81fd928c
+23c63b7f,Ignatius Ganago,9,CMR,FW,22-227,19,0,0,0,0,1,1,0,0,10,0,0,0,0.1,0.1,0.0,2,0,4,7,57.1,1,4,0,2,1,Lens,2021-10-01 Lens-Reims,FRA-L1,21-22,81fd928c
+7a42d0df,Florian Sotoca,7,FRA,FW,30-341,90,0,1,0,0,1,1,0,0,77,1,0,0,0.1,0.1,0.5,4,1,54,71,76.1,7,60,5,1,1,Lens,2021-10-01 Lens-Reims,FRA-L1,21-22,81fd928c
+5b1bf5e3,Gaël Kakuta,10,COD,AM,30-102,71,0,0,0,0,1,0,1,0,44,1,0,1,0.1,0.1,0.4,5,0,25,33,75.8,5,32,2,2,0,Lens,2021-10-01 Lens-Reims,FRA-L1,21-22,81fd928c
+90fcf472,Wesley Saïd,22,FRA,AM,26-165,19,0,0,0,0,1,0,0,0,17,1,0,1,0.2,0.2,0.1,1,0,10,12,83.3,2,11,1,1,1,Lens,2021-10-01 Lens-Reims,FRA-L1,21-22,81fd928c
+5313ed43,Seko Fofana,8,CIV,CM,26-147,90,0,0,0,0,2,1,0,0,82,0,0,2,0.1,0.1,0.0,3,0,69,75,92.0,9,60,1,2,2,Lens,2021-10-01 Lens-Reims,FRA-L1,21-22,81fd928c
+ce4f40c7,Cheick Doucouré,28,MLI,CM,21-266,88,0,0,0,0,1,0,0,0,74,2,2,1,0.1,0.1,0.0,0,0,59,64,92.2,8,56,3,2,2,Lens,2021-10-01 Lens-Reims,FRA-L1,21-22,81fd928c
+677ee102,Yannick Cahuzac,18,FRA,CM,36-256,2,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,5,5,100.0,0,5,0,0,0,Lens,2021-10-01 Lens-Reims,FRA-L1,21-22,81fd928c
+00a8d210,Przemysław Frankowski,29,POL,WB,26-172,83,0,0,0,0,2,1,0,0,50,1,0,1,0.1,0.1,0.3,2,0,37,41,90.2,1,24,1,0,0,Lens,2021-10-01 Lens-Reims,FRA-L1,21-22,81fd928c
+b3f8bdef,Deiver Machado,3,COL,WB,28-029,7,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,4,5,80.0,0,2,0,0,0,Lens,2021-10-01 Lens-Reims,FRA-L1,21-22,81fd928c
+5219ab4a,Jonathan Clauss,11,FRA,WB,29-006,90,0,0,0,0,0,0,0,0,84,3,1,2,0.0,0.0,0.0,6,2,54,70,77.1,2,42,3,3,0,Lens,2021-10-01 Lens-Reims,FRA-L1,21-22,81fd928c
+6f5ec8bb,Facundo Medina,14,ARG,CB,22-126,71,0,0,0,0,0,0,1,0,99,3,0,1,0.0,0.0,0.0,1,0,86,91,94.5,6,78,1,0,0,Lens,2021-10-01 Lens-Reims,FRA-L1,21-22,81fd928c
+5167c97e,Massadio Haïdara,21,MLI,CB,28-303,19,0,0,0,0,0,0,0,0,21,0,0,0,0.0,0.0,0.0,0,0,16,19,84.2,2,15,0,0,0,Lens,2021-10-01 Lens-Reims,FRA-L1,21-22,81fd928c
+6e33125f,Kevin Danso,4,AUT,CB,23-012,90,0,0,0,0,0,0,1,0,94,1,2,0,0.0,0.0,0.0,1,1,81,87,93.1,5,73,1,0,0,Lens,2021-10-01 Lens-Reims,FRA-L1,21-22,81fd928c
+06c48679,Jonathan Gradit,24,FRA,CB,28-311,90,0,0,0,0,0,0,0,0,94,1,2,0,0.0,0.0,0.0,0,0,78,87,89.7,12,73,4,1,0,Lens,2021-10-01 Lens-Reims,FRA-L1,21-22,81fd928c
+edbe46dc,Jean-Louis Leca,16,FRA,GK,36-010,90,0,0,0,0,0,0,0,0,29,0,0,0,0.0,0.0,0.0,0,0,25,29,86.2,0,22,0,0,0,Lens,2021-10-01 Lens-Reims,FRA-L1,21-22,81fd928c
+5b92d896,Hugo Ekitike,22,FRA,FW,19-103,44,0,0,0,0,0,0,0,1,17,0,1,0,0.0,0.0,0.0,0,0,8,10,80.0,1,11,2,3,1,Reims,2021-10-01 Lens-Reims,FRA-L1,21-22,81fd928c
+0b2c9aec,Mitchell van Bergen,19,NED,"LW,FW,RB",22-035,71,0,0,0,0,0,0,0,0,22,3,1,0,0.0,0.0,0.0,0,0,12,13,92.3,1,11,0,0,0,Reims,2021-10-01 Lens-Reims,FRA-L1,21-22,81fd928c
+1bfe34dc,Fodé Doucouré,13,MLI,RB,20-240,19,0,0,0,0,0,0,0,0,20,1,1,1,0.0,0.0,0.0,0,0,12,17,70.6,0,4,0,0,0,Reims,2021-10-01 Lens-Reims,FRA-L1,21-22,81fd928c
+37d04e90,Ilan Kebbal,20,ALG,"RW,CM",23-084,71,0,0,0,0,0,0,0,0,30,2,1,1,0.0,0.0,0.0,0,0,15,25,60.0,2,19,2,1,0,Reims,2021-10-01 Lens-Reims,FRA-L1,21-22,81fd928c
+46750e9c,Nathanael Mbuku,11,FRA,CM,19-199,19,0,0,0,0,0,0,0,0,10,1,0,0,0.0,0.0,0.0,2,0,9,9,100.0,1,8,2,2,2,Reims,2021-10-01 Lens-Reims,FRA-L1,21-22,81fd928c
+caef7840,Alexis Flips,12,FRA,"LM,RB,CM",21-256,71,0,0,0,0,0,0,0,0,36,0,3,0,0.0,0.0,0.0,1,0,21,31,67.7,1,17,0,1,1,Reims,2021-10-01 Lens-Reims,FRA-L1,21-22,81fd928c
+f54d2149,Moreto Cassamã,23,GNB,CM,23-227,19,0,0,0,0,0,0,0,0,20,0,0,0,0.0,0.0,0.1,2,0,14,18,77.8,2,15,0,2,0,Reims,2021-10-01 Lens-Reims,FRA-L1,21-22,81fd928c
+a17a94d6,Azor Matusiwa,21,NED,CM,23-156,63,0,0,0,0,0,0,0,0,29,0,1,0,0.0,0.0,0.0,0,0,20,26,76.9,2,16,0,0,0,Reims,2021-10-01 Lens-Reims,FRA-L1,21-22,81fd928c
+47c609d5,El Bilal Touré,7,MLI,"FW,CM",19-363,27,0,0,0,0,0,0,0,0,17,0,0,0,0.0,0.0,0.0,0,0,9,11,81.8,0,7,0,0,0,Reims,2021-10-01 Lens-Reims,FRA-L1,21-22,81fd928c
+2acf0cd7,Marshall Munetsi,15,ZIM,"CM,RM",25-101,90,0,0,0,0,2,0,0,0,58,1,5,1,0.1,0.1,0.0,0,0,33,38,86.8,1,21,0,0,0,Reims,2021-10-01 Lens-Reims,FRA-L1,21-22,81fd928c
+6b2c894b,Ghislain Konan,3,CIV,LB,25-278,90,0,0,0,0,1,0,0,0,62,1,1,0,0.0,0.0,0.0,0,0,39,51,76.5,1,35,6,4,2,Reims,2021-10-01 Lens-Reims,FRA-L1,21-22,81fd928c
+32c2d95f,Yunis Abdelhamid,5,MAR,CB,34-003,90,0,0,0,0,0,0,1,0,62,1,1,2,0.0,0.0,0.0,0,0,51,56,91.1,1,34,0,0,0,Reims,2021-10-01 Lens-Reims,FRA-L1,21-22,81fd928c
+9c221d14,Wout Faes,2,BEL,CB,23-181,90,0,0,0,0,0,0,0,0,71,2,2,0,0.0,0.0,0.0,0,0,50,59,84.7,1,43,1,0,0,Reims,2021-10-01 Lens-Reims,FRA-L1,21-22,81fd928c
+90eb507d,Thomas Foket,32,BEL,"CB,RB",27-006,90,0,0,0,0,0,0,0,0,62,0,2,0,0.0,0.0,0.0,1,0,47,56,83.9,3,36,2,1,1,Reims,2021-10-01 Lens-Reims,FRA-L1,21-22,81fd928c
+58ad9383,Predrag Rajković,1,SRB,GK,25-335,90,0,0,0,0,0,0,0,0,42,0,0,0,0.0,0.0,0.0,0,0,27,37,73.0,0,25,0,0,0,Reims,2021-10-01 Lens-Reims,FRA-L1,21-22,81fd928c

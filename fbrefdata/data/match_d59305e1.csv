@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+42fd9c7f,Kylian Mbappé,7,FRA,FW,23-152,90,3,0,0,0,8,4,0,0,74,1,0,0,2.6,2.6,0.6,12,2,46,56,82.1,4,63,8,7,3,Paris Saint-Germain,2022-05-21 Paris S-G-Metz,FRA-L1,21-22,d59305e1
+69384e5d,Neymar,10,BRA,LW,30-105,78,1,0,0,0,4,1,1,0,74,1,0,0,1.1,1.1,0.7,7,1,55,64,85.9,5,67,1,3,2,Paris Saint-Germain,2022-05-21 Paris S-G-Metz,FRA-L1,21-22,d59305e1
+eb58eef0,Georginio Wijnaldum,18,NED,LW,31-191,12,0,0,0,0,1,1,0,0,8,0,0,0,0.1,0.1,0.0,0,0,6,6,100.0,0,8,0,0,0,Paris Saint-Germain,2022-05-21 Paris S-G-Metz,FRA-L1,21-22,d59305e1
+19cda00b,Ángel Di María,11,ARG,RW,34-096,74,1,1,0,0,7,5,0,0,66,2,1,1,1.2,1.2,0.5,6,1,40,50,80.0,7,59,3,4,3,Paris Saint-Germain,2022-05-21 Paris S-G-Metz,FRA-L1,21-22,d59305e1
+436a9dd0,Ander Herrera,21,ESP,RW,32-280,16,0,0,0,0,0,0,0,0,13,0,0,0,0.0,0.0,0.0,2,0,11,12,91.7,1,12,0,0,0,Paris Saint-Germain,2022-05-21 Paris S-G-Metz,FRA-L1,21-22,d59305e1
+d70ce98e,Lionel Messi,30,ARG,AM,34-331,90,0,1,0,0,3,0,0,0,102,1,0,0,0.3,0.3,0.7,7,3,84,96,87.5,10,90,1,2,1,Paris Saint-Germain,2022-05-21 Paris S-G-Metz,FRA-L1,21-22,d59305e1
+8fd9996f,Danilo Pereira,15,POR,DM,30-254,90,0,0,0,0,2,0,0,0,85,1,1,0,0.0,0.0,0.0,3,0,76,77,98.7,5,72,1,1,1,Paris Saint-Germain,2022-05-21 Paris S-G-Metz,FRA-L1,21-22,d59305e1
+1467af0d,Marco Verratti,6,ITA,DM,29-197,78,0,0,0,0,0,0,0,0,80,2,1,1,0.0,0.0,0.1,3,1,71,76,93.4,4,69,1,1,1,Paris Saint-Germain,2022-05-21 Paris S-G-Metz,FRA-L1,21-22,d59305e1
+72c812f3,Idrissa Gana Gueye,27,SEN,DM,32-237,12,0,0,0,0,1,0,0,0,21,0,0,0,0.0,0.0,0.0,0,0,19,20,95.0,3,19,0,0,0,Paris Saint-Germain,2022-05-21 Paris S-G-Metz,FRA-L1,21-22,d59305e1
+aef6e670,Presnel Kimpembe,3,FRA,LB,26-281,90,0,0,0,0,1,0,0,0,80,1,1,0,0.1,0.1,0.1,3,0,67,71,94.4,7,64,0,2,0,Paris Saint-Germain,2022-05-21 Paris S-G-Metz,FRA-L1,21-22,d59305e1
+08511d65,Sergio Ramos,4,ESP,CB,36-052,90,0,0,0,0,0,0,0,0,97,1,1,0,0.0,0.0,0.0,0,0,86,91,94.5,6,82,0,0,0,Paris Saint-Germain,2022-05-21 Paris S-G-Metz,FRA-L1,21-22,d59305e1
+d5f2f82b,Marquinhos,5,BRA,CB,28-007,90,0,0,0,0,0,0,0,0,81,1,1,0,0.0,0.0,0.0,1,0,73,77,94.8,2,71,0,0,0,Paris Saint-Germain,2022-05-21 Paris S-G-Metz,FRA-L1,21-22,d59305e1
+e42d61c7,Achraf Hakimi,2,MAR,RB,23-198,82,0,0,0,0,0,0,0,0,66,4,1,2,0.0,0.0,0.0,1,0,53,58,91.4,0,53,1,0,0,Paris Saint-Germain,2022-05-21 Paris S-G-Metz,FRA-L1,21-22,d59305e1
+51dbeea9,Thilo Kehrer,24,GER,RB,25-242,8,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,6,7,85.7,0,5,0,0,0,Paris Saint-Germain,2022-05-21 Paris S-G-Metz,FRA-L1,21-22,d59305e1
+ecada4fc,Keylor Navas,1,CRC,GK,35-157,82,0,0,0,0,0,0,0,0,22,0,0,0,0.0,0.0,0.0,0,0,21,22,95.5,0,13,0,0,0,Paris Saint-Germain,2022-05-21 Paris S-G-Metz,FRA-L1,21-22,d59305e1
+96fcd380,Alexandre Letellier,60,FRA,GK,31-161,8,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,3,3,100.0,0,2,0,0,0,Paris Saint-Germain,2022-05-21 Paris S-G-Metz,FRA-L1,21-22,d59305e1
+b229aa13,Didier Lamkel Zé,22,CMR,FW,25-246,70,0,0,0,0,0,0,0,0,26,0,0,0,0.0,0.0,0.0,1,0,14,20,70.0,0,15,2,3,2,Metz,2022-05-21 Paris S-G-Metz,FRA-L1,21-22,d59305e1
+bec3d251,Louis Mafouta,34,CTA,FW,27-323,20,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,4,5,80.0,0,5,0,0,0,Metz,2022-05-21 Paris S-G-Metz,FRA-L1,21-22,d59305e1
+a0791826,Farid Boulaya,10,ALG,LM,29-085,70,0,0,0,0,0,0,0,0,36,0,0,0,0.0,0.0,0.7,2,0,22,32,68.8,1,31,3,3,2,Metz,2022-05-21 Paris S-G-Metz,FRA-L1,21-22,d59305e1
+d1828392,Lenny Joseph,24,FRA,LM,21-221,20,0,0,0,0,0,0,0,0,3,1,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,2,0,0,0,Metz,2022-05-21 Paris S-G-Metz,FRA-L1,21-22,d59305e1
+999ceb5f,Boubacar Traoré,8,MLI,CM,20-274,57,0,0,0,0,0,0,2,1,24,1,0,2,0.0,0.0,0.0,2,0,18,19,94.7,1,21,0,0,0,Metz,2022-05-21 Paris S-G-Metz,FRA-L1,21-22,d59305e1
+f86ca403,Vincent Pajot,14,FRA,CM,31-275,90,0,0,0,0,1,0,0,0,35,6,2,1,0.0,0.0,0.0,1,0,21,24,87.5,3,22,1,1,1,Metz,2022-05-21 Paris S-G-Metz,FRA-L1,21-22,d59305e1
+feb5d972,Pape Matar Sarr,15,SEN,RM,19-249,90,0,0,0,0,1,0,0,0,36,2,2,0,0.6,0.6,0.0,0,0,25,29,86.2,5,29,1,0,0,Metz,2022-05-21 Paris S-G-Metz,FRA-L1,21-22,d59305e1
+3cc4bb19,Fali Candé,13,GNB,LB,24-117,90,0,0,0,0,1,1,0,0,44,0,2,2,0.0,0.0,0.0,1,0,17,30,56.7,0,24,1,2,0,Metz,2022-05-21 Paris S-G-Metz,FRA-L1,21-22,d59305e1
+76a4233b,Jean-Armel Kana-Biyik,27,CMR,CB,32-322,55,0,0,0,0,0,0,0,0,16,0,2,1,0.0,0.0,0.0,0,0,12,13,92.3,0,12,0,0,0,Metz,2022-05-21 Paris S-G-Metz,FRA-L1,21-22,d59305e1
+8eef18aa,Sikou Niakaté,4,MLI,CB,22-315,35,0,0,0,0,0,0,0,0,10,0,1,0,0.0,0.0,0.0,0,0,4,6,66.7,0,4,0,1,0,Metz,2022-05-21 Paris S-G-Metz,FRA-L1,21-22,d59305e1
+562a4799,Boubakar Kouyaté,23,MLI,CB,25-036,90,0,0,0,0,0,0,0,0,40,5,4,5,0.0,0.0,0.0,0,0,15,21,71.4,1,14,0,0,0,Metz,2022-05-21 Paris S-G-Metz,FRA-L1,21-22,d59305e1
+edd81e2a,Dylan Bronn,2,TUN,"CB,RB",26-336,90,0,0,0,0,1,0,0,0,32,7,2,1,0.1,0.1,0.0,0,0,15,19,78.9,0,13,0,0,0,Metz,2022-05-21 Paris S-G-Metz,FRA-L1,21-22,d59305e1
+14df1d7f,William Mikelbrencis,25,FRA,RB,18-085,55,0,0,0,0,0,0,0,0,28,1,1,0,0.0,0.0,0.0,0,0,14,21,66.7,0,19,2,2,0,Metz,2022-05-21 Paris S-G-Metz,FRA-L1,21-22,d59305e1
+14d2670e,Amadou Mbengue,33,SEN,"CM,RB",20-136,35,0,0,0,0,0,0,0,0,12,2,1,0,0.0,0.0,0.0,0,0,4,5,80.0,0,6,0,0,0,Metz,2022-05-21 Paris S-G-Metz,FRA-L1,21-22,d59305e1
+5ee6e943,Marc-Aurèle Caillard,30,FRA,GK,28-009,90,0,0,0,0,0,0,0,0,24,0,0,0,0.0,0.0,0.0,0,0,10,20,50.0,0,11,0,0,0,Metz,2022-05-21 Paris S-G-Metz,FRA-L1,21-22,d59305e1

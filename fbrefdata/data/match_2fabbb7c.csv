@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+89b2c8a9,Dries Mertens,14,BEL,FW,31-291,90,0,1,0,0,1,1,0,0,23,0,0,0,0.3,0.3,0.9,5,1,13,16,81.3,7,18,1,1,0,Napoli,2019-02-21 Napoli-Zürich,UEL,18-19,2fabbb7c
+2f557579,Lorenzo Insigne,24,ITA,"FW,LW,LM",27-262,90,0,0,0,0,5,0,0,0,57,0,0,1,0.6,0.6,0.3,4,0,39,49,79.6,4,37,3,2,1,Napoli,2019-02-21 Napoli-Zürich,UEL,18-19,2fabbb7c
+0375723e,Simone Verdi,9,ITA,"LM,AM,RM",26-224,90,1,0,0,0,2,2,0,0,50,0,0,3,0.9,0.9,0.1,2,0,35,41,85.4,5,40,2,0,0,Napoli,2019-02-21 Napoli-Zürich,UEL,18-19,2fabbb7c
+a5296e55,Piotr Zieliński,20,POL,"CM,DM",24-277,65,0,0,0,0,0,0,0,0,82,1,0,1,0.0,0.0,0.1,3,0,66,72,91.7,13,60,2,2,1,Napoli,2019-02-21 Napoli-Zürich,UEL,18-19,2fabbb7c
+cc700722,Allan,5,BRA,"CM,DM",28-044,25,0,0,0,0,0,0,0,0,27,1,0,0,0.0,0.0,0.1,2,1,24,26,92.3,4,20,0,0,0,Napoli,2019-02-21 Napoli-Zürich,UEL,18-19,2fabbb7c
+bf309d24,Amadou Diawara,42,GUI,"CM,DM",21-219,90,0,0,0,0,0,0,0,0,91,5,3,1,0.0,0.0,0.0,1,0,70,81,86.4,7,57,0,1,1,Napoli,2019-02-21 Napoli-Zürich,UEL,18-19,2fabbb7c
+ed90babd,Adam Ounas,11,ALG,"RM,RW",22-102,76,1,1,0,0,5,2,0,0,54,2,1,0,0.6,0.6,0.7,4,2,28,39,71.8,6,45,6,4,1,Napoli,2019-02-21 Napoli-Zürich,UEL,18-19,2fabbb7c
+85613cf0,Arkadiusz Milik,99,POL,FW,24-358,14,0,0,0,0,2,1,0,0,4,0,0,0,1.0,1.0,0.0,0,0,1,1,100.0,0,3,1,0,0,Napoli,2019-02-21 Napoli-Zürich,UEL,18-19,2fabbb7c
+c5adc293,Faouzi Ghoulam,31,ALG,LB,28-020,90,0,0,0,0,0,0,0,0,89,1,0,1,0.0,0.0,0.0,2,0,65,81,80.2,5,58,2,0,0,Napoli,2019-02-21 Napoli-Zürich,UEL,18-19,2fabbb7c
+da974c7b,Kalidou Koulibaly,26,SEN,CB,27-246,90,0,0,0,0,0,0,0,0,124,1,4,5,0.0,0.0,0.0,1,0,98,107,91.6,5,93,0,0,0,Napoli,2019-02-21 Napoli-Zürich,UEL,18-19,2fabbb7c
+c316607a,Vlad Chiricheș,21,ROU,CB,29-099,55,0,0,0,0,0,0,1,0,54,0,0,1,0.0,0.0,0.0,1,0,44,50,88.0,3,38,1,1,1,Napoli,2019-02-21 Napoli-Zürich,UEL,18-19,2fabbb7c
+997fff07,Sebastiano Luperto,13,ITA,CB,22-168,35,0,0,0,0,0,0,0,0,44,0,0,1,0.0,0.0,0.0,0,0,40,42,95.2,2,36,0,0,0,Napoli,2019-02-21 Napoli-Zürich,UEL,18-19,2fabbb7c
+2f3452eb,Elseid Hysaj,23,ALB,RB,25-001,90,0,0,0,0,0,0,0,0,103,2,3,0,0.0,0.0,0.0,0,0,85,93,91.4,6,67,1,1,0,Napoli,2019-02-21 Napoli-Zürich,UEL,18-19,2fabbb7c
+9413b19f,Alex Meret,1,ITA,GK,21-336,90,0,0,0,0,0,0,0,0,36,0,1,0,0.0,0.0,0.0,0,0,34,36,94.4,0,23,0,0,0,Napoli,2019-02-21 Napoli-Zürich,UEL,18-19,2fabbb7c
+07f8bcc8,Assan Ceesay,9,GAM,FW,24-341,90,0,0,0,0,2,0,0,0,40,2,0,0,0.1,0.1,0.0,2,0,12,24,50.0,0,21,4,4,2,Zürich,2019-02-21 Napoli-Zürich,UEL,18-19,2fabbb7c
+6a479195,Stephen Odey,15,NGA,FW,21-037,59,0,0,0,0,0,0,0,0,17,0,0,0,0.0,0.0,0.0,0,0,8,11,72.7,1,13,0,1,0,Zürich,2019-02-21 Napoli-Zürich,UEL,18-19,2fabbb7c
+df746364,Lavdim Zumberi,41,SRB,AM,19-086,31,0,0,0,0,2,0,0,0,16,0,0,0,0.1,0.1,0.0,0,0,12,14,85.7,3,13,2,0,0,Zürich,2019-02-21 Napoli-Zürich,UEL,18-19,2fabbb7c
+74d52033,Marco Schönbächler,27,SUI,"LM,LW",29-041,63,0,0,0,0,0,0,0,0,28,2,0,0,0.0,0.0,0.0,1,0,19,23,82.6,1,20,1,1,1,Zürich,2019-02-21 Napoli-Zürich,UEL,18-19,2fabbb7c
+2249e65b,Bledian Krasniqi,32,SUI,LW,17-249,27,0,0,0,0,0,0,0,0,14,0,0,0,0.0,0.0,0.0,0,0,11,13,84.6,3,11,1,2,2,Zürich,2019-02-21 Napoli-Zürich,UEL,18-19,2fabbb7c
+ead51916,Toni Domgjoni,14,KVX,"CM,DM",20-170,90,0,0,0,0,1,0,0,0,45,1,2,0,0.0,0.0,0.1,4,0,32,39,82.1,2,23,0,0,0,Zürich,2019-02-21 Napoli-Zürich,UEL,18-19,2fabbb7c
+a5f458d9,Simon Sohm,35,SUI,"CM,DM",17-316,90,0,0,0,0,0,0,0,0,49,5,0,0,0.0,0.0,0.0,1,0,36,43,83.7,3,35,2,1,1,Zürich,2019-02-21 Napoli-Zürich,UEL,18-19,2fabbb7c
+1b09b065,Salim Khelifi,94,TUN,"RM,RW",25-026,90,0,0,0,0,3,1,0,0,43,3,1,0,0.4,0.4,0.0,2,0,26,32,81.3,2,33,3,5,2,Zürich,2019-02-21 Napoli-Zürich,UEL,18-19,2fabbb7c
+4802f157,Benjamin Kololli,70,KVX,LB,26-282,81,0,0,0,0,0,0,0,0,46,3,0,1,0.0,0.0,0.4,2,0,27,36,75.0,2,28,3,2,0,Zürich,2019-02-21 Napoli-Zürich,UEL,18-19,2fabbb7c
+bc1ef1f4,Levan Kharabadze,5,GEO,LB,19-026,9,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,5,7,71.4,0,5,0,0,0,Zürich,2019-02-21 Napoli-Zürich,UEL,18-19,2fabbb7c
+1ac58ba6,Mirlind Kryeziu,31,KVX,CB,22-026,90,0,0,0,0,1,0,0,0,56,1,4,1,0.1,0.1,0.0,0,0,38,43,88.4,1,32,0,0,0,Zürich,2019-02-21 Napoli-Zürich,UEL,18-19,2fabbb7c
+3628b9b9,Umaru Bangura,17,SLE,CB,31-137,90,0,0,0,0,0,0,0,0,50,0,3,1,0.0,0.0,0.1,3,0,28,39,71.8,1,34,0,0,0,Zürich,2019-02-21 Napoli-Zürich,UEL,18-19,2fabbb7c
+21a4bd09,Adrian Winter,7,SUI,RB,32-228,90,0,0,0,0,2,0,0,0,60,3,0,2,0.1,0.1,0.0,2,0,35,49,71.4,0,28,3,1,1,Zürich,2019-02-21 Napoli-Zürich,UEL,18-19,2fabbb7c
+6115fddd,Yanick Brecher,25,SUI,GK,25-272,90,0,0,0,0,0,0,0,0,47,0,1,0,0.0,0.0,0.0,0,0,26,42,61.9,0,27,0,0,0,Zürich,2019-02-21 Napoli-Zürich,UEL,18-19,2fabbb7c

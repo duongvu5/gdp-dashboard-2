@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+50871bcc,Thorgan Hazard,10,BEL,FW,28-215,57,1,0,0,0,1,1,0,0,21,0,1,2,0.4,0.4,0.1,1,0,8,16,50.0,1,13,1,0,0,Dortmund,2021-10-30 Dortmund-Köln,GER-BL1,21-22,317a96ac
+116c35df,Donyell Malen,21,NED,"LW,FW",22-294,33,0,0,0,0,2,1,0,0,14,1,0,0,0.5,0.5,0.0,2,0,8,8,100.0,0,13,2,1,1,Dortmund,2021-10-30 Dortmund-Köln,GER-BL1,21-22,317a96ac
+36a3ff67,Marco Reus,11,GER,AM,32-152,90,0,0,0,0,2,1,0,0,37,3,1,1,0.3,0.3,0.0,2,0,22,27,81.5,3,21,2,0,0,Dortmund,2021-10-30 Dortmund-Köln,GER-BL1,21-22,317a96ac
+a167537f,Julian Brandt,19,GER,"AM,RW",25-181,86,0,1,0,0,0,0,0,0,49,1,0,0,0.0,0.0,0.2,4,2,25,39,64.1,3,27,1,8,5,Dortmund,2021-10-30 Dortmund-Köln,GER-BL1,21-22,317a96ac
+19a967ab,Ansgar Knauff,36,GER,RW,19-293,4,0,0,0,0,0,0,0,0,3,0,0,1,0.0,0.0,0.0,0,0,1,1,100.0,0,2,1,1,1,Dortmund,2021-10-30 Dortmund-Köln,GER-BL1,21-22,317a96ac
+5dfc6ad5,Axel Witsel,28,BEL,"CM,DM",32-291,90,0,0,0,0,0,0,0,0,41,3,1,1,0.0,0.0,0.0,1,0,30,33,90.9,2,21,1,0,0,Dortmund,2021-10-30 Dortmund-Köln,GER-BL1,21-22,317a96ac
+57d88cf9,Jude Bellingham,22,ENG,"CM,DM",18-123,90,0,1,0,0,0,0,1,0,58,3,1,4,0.0,0.0,0.4,1,1,32,39,82.1,0,28,2,4,1,Dortmund,2021-10-30 Dortmund-Köln,GER-BL1,21-22,317a96ac
+fa661778,Marius Wolf,39,GER,"WB,LB",26-156,69,0,0,0,0,0,0,0,0,55,2,1,2,0.0,0.0,0.3,2,0,34,43,79.1,3,31,2,3,3,Dortmund,2021-10-30 Dortmund-Köln,GER-BL1,21-22,317a96ac
+5c899683,Felix Passlack,30,GER,LB,23-154,21,0,0,0,0,0,0,0,0,17,1,0,0,0.0,0.0,0.0,1,0,10,12,83.3,1,12,1,0,0,Dortmund,2021-10-30 Dortmund-Köln,GER-BL1,21-22,317a96ac
+e162b013,Thomas Meunier,24,BEL,"WB,RB",30-048,90,0,0,0,0,1,1,1,0,52,1,1,2,0.1,0.1,0.0,0,0,23,42,54.8,3,28,1,1,1,Dortmund,2021-10-30 Dortmund-Köln,GER-BL1,21-22,317a96ac
+2a6cd437,Marin Pongračić,34,CRO,CB,24-049,57,0,0,0,0,0,0,0,0,36,1,0,1,0.0,0.0,0.0,0,0,26,31,83.9,0,27,0,0,0,Dortmund,2021-10-30 Dortmund-Köln,GER-BL1,21-22,317a96ac
+6b8887c2,Steffen Tigges,27,GER,"FW,CB",23-091,33,1,0,0,0,1,1,0,0,20,0,0,1,0.0,0.0,0.4,1,0,9,15,60.0,2,10,1,0,0,Dortmund,2021-10-30 Dortmund-Köln,GER-BL1,21-22,317a96ac
+05d548d8,Mats Hummels,15,GER,CB,32-318,90,0,0,0,0,1,0,0,0,56,1,2,1,0.1,0.1,0.0,0,0,38,48,79.2,2,29,1,0,0,Dortmund,2021-10-30 Dortmund-Köln,GER-BL1,21-22,317a96ac
+89ac64a6,Manuel Akanji,16,SUI,CB,26-103,90,0,0,0,0,0,0,0,0,46,1,0,1,0.0,0.0,0.0,0,0,33,37,89.2,2,29,0,0,0,Dortmund,2021-10-30 Dortmund-Köln,GER-BL1,21-22,317a96ac
+cd59b9df,Gregor Kobel,1,SUI,GK,23-328,90,0,0,0,0,0,0,0,0,43,0,0,0,0.0,0.0,0.0,0,0,24,40,60.0,0,25,0,0,0,Dortmund,2021-10-30 Dortmund-Köln,GER-BL1,21-22,317a96ac
+34e4343c,Anthony Modeste,27,FRA,FW,33-199,90,0,0,0,0,7,3,0,0,25,0,0,0,0.5,0.5,0.0,2,0,12,14,85.7,1,11,0,0,0,Köln,2021-10-30 Dortmund-Köln,GER-BL1,21-22,317a96ac
+a3ddb1b9,Mark Uth,13,GER,FW,30-067,90,0,0,0,0,5,0,0,0,54,1,1,1,0.4,0.4,0.1,6,0,29,37,78.4,4,33,3,5,0,Köln,2021-10-30 Dortmund-Köln,GER-BL1,21-22,317a96ac
+15413fa5,Salih Özcan,6,TUR,LM,23-292,90,0,0,0,0,0,0,1,0,74,2,2,3,0.0,0.0,0.1,3,0,62,64,96.9,7,32,2,3,1,Köln,2021-10-30 Dortmund-Köln,GER-BL1,21-22,317a96ac
+79ca3e23,Ondrej Duda,18,SVK,CM,26-329,58,0,0,0,0,2,1,0,0,49,1,1,0,0.1,0.1,0.0,5,0,28,35,80.0,3,25,2,3,1,Köln,2021-10-30 Dortmund-Köln,GER-BL1,21-22,317a96ac
+94c18565,Florian Kainz,11,AUT,CM,29-006,32,0,0,0,0,0,0,0,0,22,1,0,1,0.0,0.0,0.0,1,0,10,19,52.6,4,13,2,2,2,Köln,2021-10-30 Dortmund-Köln,GER-BL1,21-22,317a96ac
+fd53759d,Jan Thielmann,29,GER,RM,19-157,64,0,0,0,0,2,1,0,0,25,2,0,1,0.1,0.1,0.1,4,0,13,18,72.2,2,15,2,0,0,Köln,2021-10-30 Dortmund-Köln,GER-BL1,21-22,317a96ac
+b4cf5806,Sebastian Andersson,9,SWE,RM,30-107,26,0,0,0,0,2,0,0,0,9,1,0,0,0.1,0.1,0.0,0,0,2,6,33.3,0,6,0,0,0,Köln,2021-10-30 Dortmund-Köln,GER-BL1,21-22,317a96ac
+c455a2b2,Dejan Ljubicic,7,AUT,DM,24-022,80,0,0,0,0,1,0,0,0,39,0,1,2,0.0,0.0,0.0,2,0,29,35,82.9,4,12,0,0,0,Köln,2021-10-30 Dortmund-Köln,GER-BL1,21-22,317a96ac
+b50ec54b,Louis Schaub,21,AUT,DM,26-305,10,0,0,0,0,1,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,3,5,60.0,0,4,1,0,0,Köln,2021-10-30 Dortmund-Köln,GER-BL1,21-22,317a96ac
+c2009df3,Jonas Hector,14,GER,LB,31-156,90,0,0,0,0,0,0,0,0,84,5,2,0,0.0,0.0,0.2,4,0,54,73,74.0,7,40,3,0,0,Köln,2021-10-30 Dortmund-Köln,GER-BL1,21-22,317a96ac
+94302c52,Timo Hübers,4,GER,CB,25-102,64,0,0,0,0,0,0,1,0,70,1,4,0,0.0,0.0,0.0,1,0,58,66,87.9,4,42,1,0,0,Köln,2021-10-30 Dortmund-Köln,GER-BL1,21-22,317a96ac
+b0a0698b,Rafael Czichos,5,GER,CB,31-169,26,0,0,0,0,0,0,0,0,20,0,0,0,0.0,0.0,0.0,0,0,15,19,78.9,0,12,0,0,0,Köln,2021-10-30 Dortmund-Köln,GER-BL1,21-22,317a96ac
+610aa1e9,Luca Kilian,15,GER,CB,22-059,90,0,0,0,0,1,0,0,0,91,1,2,2,0.1,0.1,0.0,0,0,77,84,91.7,5,39,1,0,0,Köln,2021-10-30 Dortmund-Köln,GER-BL1,21-22,317a96ac
+ad00b1a8,Benno Schmitz,2,GER,RB,26-347,80,0,0,0,0,0,0,1,0,67,0,1,0,0.0,0.0,0.1,4,0,49,66,74.2,8,28,3,0,0,Köln,2021-10-30 Dortmund-Köln,GER-BL1,21-22,317a96ac
+76b2817e,Kingsley Ehizibue,19,NED,RB,26-158,10,0,0,0,0,0,0,0,0,10,4,0,0,0.0,0.0,0.0,1,0,1,6,16.7,0,2,1,1,1,Köln,2021-10-30 Dortmund-Köln,GER-BL1,21-22,317a96ac
+3cd9e95a,Timo Horn,1,GER,GK,28-171,90,0,0,0,0,0,0,0,0,38,0,0,0,0.0,0.0,0.0,0,0,28,37,75.7,0,20,0,0,0,Köln,2021-10-30 Dortmund-Köln,GER-BL1,21-22,317a96ac

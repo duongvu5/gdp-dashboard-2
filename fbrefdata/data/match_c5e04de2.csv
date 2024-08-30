@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+5db45ee5,Maximilian Beier,14,GER,FW,21-102,73,0,0,0,0,5,1,0,0,29,0,0,1,0.5,0.5,0.1,4,1,10,19,52.6,0,22,3,4,2,Hoffenheim,2024-01-27 Hoffenheim-Heidenheim,GER-BL1,23-24,c5e04de2
+a53b661f,Ihlas Bebou,9,TOG,FW,29-279,17,0,0,0,0,1,0,0,0,9,1,0,0,0.2,0.2,0.0,1,0,6,7,85.7,0,4,2,1,1,Hoffenheim,2024-01-27 Hoffenheim-Heidenheim,GER-BL1,23-24,c5e04de2
+c4e87b8b,Wout Weghorst,10,NED,FW,31-173,85,0,0,0,0,4,1,0,0,50,0,0,1,0.4,0.4,0.3,7,0,27,39,69.2,5,18,0,0,0,Hoffenheim,2024-01-27 Hoffenheim-Heidenheim,GER-BL1,23-24,c5e04de2
+ab5b7dc1,Marius Bülter,21,GER,FW,30-304,5,0,0,0,0,1,1,0,0,5,0,0,0,0.2,0.2,0.2,3,0,4,4,100.0,0,2,0,0,0,Hoffenheim,2024-01-27 Hoffenheim-Heidenheim,GER-BL1,23-24,c5e04de2
+603cb947,Andrej Kramarić,27,CRO,AM,32-222,85,1,0,1,1,3,1,0,0,62,0,0,0,1.0,0.3,0.3,7,0,45,54,83.3,9,30,3,3,0,Hoffenheim,2024-01-27 Hoffenheim-Heidenheim,GER-BL1,23-24,c5e04de2
+07d3bfec,Tom Bischof,39,GER,AM,18-213,5,0,0,0,0,1,0,0,0,11,0,0,0,0.2,0.2,0.0,0,0,6,9,66.7,0,7,0,0,0,Hoffenheim,2024-01-27 Hoffenheim-Heidenheim,GER-BL1,23-24,c5e04de2
+924f9191,Grischa Prömel,6,GER,LM,29-018,90,0,0,0,0,1,0,0,0,56,1,1,0,0.1,0.1,0.0,0,0,39,49,79.6,2,19,1,0,0,Hoffenheim,2024-01-27 Hoffenheim-Heidenheim,GER-BL1,23-24,c5e04de2
+ffbbc83b,Florian Grillitsch,11,AUT,CM,28-173,90,0,0,0,0,1,1,1,0,100,3,3,0,0.0,0.0,0.0,7,0,72,88,81.8,12,42,2,2,2,Hoffenheim,2024-01-27 Hoffenheim-Heidenheim,GER-BL1,23-24,c5e04de2
+0f59a7bf,Anton Stach,16,GER,RM,25-073,62,0,0,0,0,4,1,1,0,51,3,1,0,0.2,0.2,0.3,2,0,29,37,78.4,4,21,1,0,0,Hoffenheim,2024-01-27 Hoffenheim-Heidenheim,GER-BL1,23-24,c5e04de2
+e547d3cf,Umut Tohumcu,40,GER,RM,19-169,28,0,0,0,0,1,0,0,0,28,2,0,0,0.0,0.0,0.0,1,0,23,24,95.8,2,10,0,0,0,Hoffenheim,2024-01-27 Hoffenheim-Heidenheim,GER-BL1,23-24,c5e04de2
+61590953,Stanley N'Soki,34,FRA,LB,24-293,90,0,0,0,0,0,0,0,0,91,5,3,3,0.0,0.0,0.1,1,0,57,76,75.0,9,35,4,7,4,Hoffenheim,2024-01-27 Hoffenheim-Heidenheim,GER-BL1,23-24,c5e04de2
+e27da244,John Brooks,23,USA,CB,30-364,90,0,0,0,0,0,0,1,0,107,1,1,3,0.0,0.0,0.0,1,0,90,100,90.0,10,49,1,0,0,Hoffenheim,2024-01-27 Hoffenheim-Heidenheim,GER-BL1,23-24,c5e04de2
+6ec6fde0,Kevin Akpoguma,25,NGA,CB,28-283,90,0,0,0,0,0,0,1,0,91,1,0,1,0.0,0.0,0.0,0,0,76,84,90.5,8,47,2,0,0,Hoffenheim,2024-01-27 Hoffenheim-Heidenheim,GER-BL1,23-24,c5e04de2
+79c90e45,Pavel Kadeřábek,3,CZE,RB,31-277,62,0,0,0,0,0,0,0,0,41,2,0,1,0.0,0.0,0.4,2,0,27,35,77.1,3,13,1,1,1,Hoffenheim,2024-01-27 Hoffenheim-Heidenheim,GER-BL1,23-24,c5e04de2
+ff98492b,Robert Skov,29,DEN,RB,27-252,28,0,0,0,0,0,0,0,0,31,0,1,0,0.0,0.0,0.0,1,0,14,24,58.3,0,15,3,0,0,Hoffenheim,2024-01-27 Hoffenheim-Heidenheim,GER-BL1,23-24,c5e04de2
+47064058,Oliver Baumann,1,GER,GK,33-239,90,0,0,0,0,0,0,0,0,52,0,0,0,0.0,0.0,0.0,0,0,42,51,82.4,0,18,0,0,0,Hoffenheim,2024-01-27 Hoffenheim-Heidenheim,GER-BL1,23-24,c5e04de2
+258a6f4d,Tim Kleindienst,10,GER,FW,28-149,90,0,0,0,0,4,0,0,0,52,1,0,2,0.2,0.2,0.1,3,0,22,35,62.9,3,31,3,4,1,Heidenheim,2024-01-27 Hoffenheim-Heidenheim,GER-BL1,23-24,c5e04de2
+4ccd8957,Eren Dinkçi,8,GER,LW,22-045,70,1,0,0,0,4,1,0,0,41,0,0,3,0.7,0.7,0.0,2,1,17,23,73.9,2,26,3,9,5,Heidenheim,2024-01-27 Hoffenheim-Heidenheim,GER-BL1,23-24,c5e04de2
+fd82af8c,Kevin Sessa,16,GER,RW,23-205,20,0,0,0,0,1,1,0,0,10,0,0,0,0.1,0.1,0.0,2,0,5,7,71.4,0,5,0,1,0,Heidenheim,2024-01-27 Hoffenheim-Heidenheim,GER-BL1,23-24,c5e04de2
+57382429,Jan-Niklas Beste,37,GER,RW,25-023,86,0,0,0,0,2,1,0,0,41,0,0,1,0.1,0.1,0.1,3,0,19,29,65.5,2,24,3,4,1,Heidenheim,2024-01-27 Hoffenheim-Heidenheim,GER-BL1,23-24,c5e04de2
+c38767ab,Marnon Busch,2,GER,LW,29-050,4,0,0,0,0,0,0,0,0,3,0,0,1,0.0,0.0,0.0,0,0,1,2,50.0,0,1,0,0,0,Heidenheim,2024-01-27 Hoffenheim-Heidenheim,GER-BL1,23-24,c5e04de2
+616c09f5,Adrian Beck,21,GER,AM,26-232,70,0,0,0,0,1,0,0,0,40,2,0,2,0.0,0.0,0.1,6,0,19,28,67.9,1,21,1,5,4,Heidenheim,2024-01-27 Hoffenheim-Heidenheim,GER-BL1,23-24,c5e04de2
+11407d95,Marvin Pieringer,18,GER,AM,24-115,20,0,0,0,0,0,0,0,0,8,0,0,1,0.0,0.0,0.0,1,0,5,7,71.4,0,6,0,1,1,Heidenheim,2024-01-27 Hoffenheim-Heidenheim,GER-BL1,23-24,c5e04de2
+932bfcac,Jan Schöppner,3,GER,DM,24-229,89,0,1,0,0,0,0,0,0,29,0,0,1,0.0,0.0,0.6,2,1,14,17,82.4,2,13,0,2,1,Heidenheim,2024-01-27 Hoffenheim-Heidenheim,GER-BL1,23-24,c5e04de2
+0cbf4c54,Norman Theuerkauf,30,GER,DM,37-003,1,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,1,2,0,0,0,Heidenheim,2024-01-27 Hoffenheim-Heidenheim,GER-BL1,23-24,c5e04de2
+75402e99,Lennard Maloney,33,USA,DM,24-111,90,0,0,0,0,1,0,0,0,48,3,2,3,0.0,0.0,0.0,0,0,19,30,63.3,0,12,0,0,0,Heidenheim,2024-01-27 Hoffenheim-Heidenheim,GER-BL1,23-24,c5e04de2
+1b4be8eb,Jonas Föhrenbach,19,GER,LB,28-001,90,0,0,0,0,0,0,0,0,41,0,0,1,0.0,0.0,0.1,1,0,25,36,69.4,6,23,5,1,0,Heidenheim,2024-01-27 Hoffenheim-Heidenheim,GER-BL1,23-24,c5e04de2
+e5f76710,Benedikt Gimber,5,GER,CB,26-342,45,0,0,0,0,0,0,0,0,15,0,0,0,0.0,0.0,0.0,0,0,6,12,50.0,0,6,0,0,0,Heidenheim,2024-01-27 Hoffenheim-Heidenheim,GER-BL1,23-24,c5e04de2
+f761c901,Tim Siersleben,4,GER,CB,23-324,45,0,0,0,0,0,0,0,0,14,0,3,1,0.0,0.0,0.0,0,0,7,9,77.8,0,4,0,0,0,Heidenheim,2024-01-27 Hoffenheim-Heidenheim,GER-BL1,23-24,c5e04de2
+dd9caa07,Patrick Mainka,6,GER,CB,29-082,90,0,0,0,0,0,0,0,0,47,3,1,2,0.0,0.0,0.0,0,0,18,32,56.3,2,15,0,0,0,Heidenheim,2024-01-27 Hoffenheim-Heidenheim,GER-BL1,23-24,c5e04de2
+f44e8a73,Omar Traoré,23,GER,RB,25-357,90,0,0,0,0,1,0,0,0,66,6,2,0,0.0,0.0,0.1,3,0,34,49,69.4,1,29,3,1,0,Heidenheim,2024-01-27 Hoffenheim-Heidenheim,GER-BL1,23-24,c5e04de2
+f256f213,Kevin Müller,1,GER,GK,32-318,90,0,0,0,0,0,0,0,0,35,0,0,0,0.0,0.0,0.0,0,0,18,30,60.0,0,20,0,0,0,Heidenheim,2024-01-27 Hoffenheim-Heidenheim,GER-BL1,23-24,c5e04de2

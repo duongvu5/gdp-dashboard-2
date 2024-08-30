@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+2677a1de,Wahbi Khazri,10,TUN,FW,27-346,90,0,0,0,0,4,2,0,0,38,3,0,0,0.6,0.6,0.4,9,0,21,27,77.8,4,22,4,4,4,Saint-Étienne,2019-01-20 Saint-Étienne-Lyon,FRA-L1,18-19,a0ca9660
+0b4d8274,Romain Hamouma,21,FRA,FW,31-297,71,1,0,0,0,2,1,0,0,26,1,1,0,0.3,0.3,0.0,1,0,11,17,64.7,2,13,2,0,0,Saint-Étienne,2019-01-20 Saint-Étienne-Lyon,FRA-L1,18-19,a0ca9660
+4be0b467,Lois Diony,9,FRA,FW,26-031,19,0,0,0,0,1,0,0,0,13,0,0,0,0.8,0.8,0.6,0,0,1,7,14.3,0,5,0,1,1,Saint-Étienne,2019-01-20 Saint-Étienne-Lyon,FRA-L1,18-19,a0ca9660
+148e136f,Rémy Cabella,7,FRA,AM,28-318,90,0,0,0,0,4,4,0,0,41,1,0,1,1.0,1.0,0.1,7,1,25,33,75.8,6,30,6,2,2,Saint-Étienne,2019-01-20 Saint-Étienne-Lyon,FRA-L1,18-19,a0ca9660
+4db2157a,Ole Selnæs,17,NOR,CM,24-197,80,0,0,0,0,0,0,0,0,32,3,0,1,0.0,0.0,0.0,0,0,15,24,62.5,6,15,0,0,0,Saint-Étienne,2019-01-20 Saint-Étienne-Lyon,FRA-L1,18-19,a0ca9660
+7f622eef,Assane Dioussé,25,SEN,CM,21-122,10,0,0,0,0,1,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,6,6,100.0,1,3,0,0,0,Saint-Étienne,2019-01-20 Saint-Étienne-Lyon,FRA-L1,18-19,a0ca9660
+d4133fa1,Yann M'Vila,6,FRA,CM,28-205,90,0,0,0,0,0,0,0,0,51,3,1,4,0.0,0.0,0.0,2,0,31,39,79.5,3,22,0,0,0,Saint-Étienne,2019-01-20 Saint-Étienne-Lyon,FRA-L1,18-19,a0ca9660
+4914ed4a,Gabriel Silva,11,BRA,WB,27-252,89,0,1,0,0,1,0,0,0,39,0,1,3,0.0,0.0,0.3,2,1,17,27,63.0,1,9,0,1,1,Saint-Étienne,2019-01-20 Saint-Étienne-Lyon,FRA-L1,18-19,a0ca9660
+2ef637bd,Pierre-Yves Polomat,3,FRA,WB,25-024,1,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,0,0,Saint-Étienne,2019-01-20 Saint-Étienne-Lyon,FRA-L1,18-19,a0ca9660
+4a57580c,Kévin Monnet-Paquet,22,FRA,WB,30-154,90,0,0,0,0,1,1,1,0,41,2,1,1,0.0,0.0,0.0,1,0,18,28,64.3,1,16,5,1,1,Saint-Étienne,2019-01-20 Saint-Étienne-Lyon,FRA-L1,18-19,a0ca9660
+ab096c6f,Timothée Kolodziejczak,5,FRA,CB,27-111,90,0,0,0,0,0,0,0,0,39,2,3,2,0.0,0.0,0.0,0,0,20,26,76.9,3,18,0,0,0,Saint-Étienne,2019-01-20 Saint-Étienne-Lyon,FRA-L1,18-19,a0ca9660
+821233cc,Neven Subotić,28,SRB,CB,30-041,90,0,0,0,0,1,0,0,0,43,5,1,4,0.3,0.3,0.0,0,0,14,27,51.9,0,14,0,0,0,Saint-Étienne,2019-01-20 Saint-Étienne-Lyon,FRA-L1,18-19,a0ca9660
+6b200d45,Loïc Perrin,24,FRA,CB,33-166,90,0,0,0,0,0,0,1,0,41,4,2,3,0.0,0.0,0.0,2,0,16,22,72.7,1,10,0,0,0,Saint-Étienne,2019-01-20 Saint-Étienne-Lyon,FRA-L1,18-19,a0ca9660
+cac76a72,Stéphane Ruffier,16,FRA,GK,32-115,90,0,0,0,0,0,0,0,0,53,0,0,0,0.0,0.0,0.0,1,0,20,47,42.6,0,25,0,0,0,Saint-Étienne,2019-01-20 Saint-Étienne-Lyon,FRA-L1,18-19,a0ca9660
+8f696594,Memphis,11,NED,"FW,LW",24-341,90,0,0,0,0,5,1,0,0,60,0,0,1,0.4,0.4,0.2,9,1,35,53,66.0,6,38,5,3,2,Lyon,2019-01-20 Saint-Étienne-Lyon,FRA-L1,18-19,a0ca9660
+beb391dd,Maxwel Cornet,27,CIV,"LW,RW",22-115,86,0,0,0,0,3,0,0,0,41,1,0,0,0.2,0.2,0.0,4,0,20,27,74.1,2,27,4,3,1,Lyon,2019-01-20 Saint-Étienne-Lyon,FRA-L1,18-19,a0ca9660
+5148dcc5,Martin Terrier,7,FRA,RW,21-322,4,0,0,0,0,1,0,0,0,3,0,0,0,0.1,0.1,0.0,1,0,2,2,100.0,0,1,0,0,0,Lyon,2019-01-20 Saint-Étienne-Lyon,FRA-L1,18-19,a0ca9660
+c47541e0,Bertrand Traoré,10,BFA,RW,23-136,57,0,0,0,0,0,0,0,0,40,0,1,1,0.0,0.0,0.0,3,0,22,33,66.7,3,28,0,1,1,Lyon,2019-01-20 Saint-Étienne-Lyon,FRA-L1,18-19,a0ca9660
+e7986081,Moussa Dembélé,9,FRA,FW,22-192,33,1,0,0,0,5,2,0,0,9,1,0,0,0.5,0.5,0.2,1,0,1,3,33.3,0,6,2,1,1,Lyon,2019-01-20 Saint-Étienne-Lyon,FRA-L1,18-19,a0ca9660
+bece776f,Nabil Fekir,18,FRA,AM,25-186,90,1,0,1,1,4,3,0,0,68,2,1,1,1.0,0.2,0.1,5,0,40,48,83.3,7,39,4,7,5,Lyon,2019-01-20 Saint-Étienne-Lyon,FRA-L1,18-19,a0ca9660
+a5db0bec,Houssem Aouar,8,ALG,DM,20-204,90,0,0,0,0,1,0,0,0,71,2,3,0,0.0,0.0,0.1,6,0,52,59,88.1,8,50,1,2,1,Lyon,2019-01-20 Saint-Étienne-Lyon,FRA-L1,18-19,a0ca9660
+5cdddffa,Tanguy Ndombele,28,FRA,DM,22-023,90,0,0,0,0,1,0,0,0,62,3,0,1,0.0,0.0,0.1,4,1,43,54,79.6,8,36,2,3,3,Lyon,2019-01-20 Saint-Étienne-Lyon,FRA-L1,18-19,a0ca9660
+3cefcaef,Ferland Mendy,22,FRA,LB,23-226,90,0,0,0,0,1,0,0,0,89,1,1,0,0.0,0.0,0.1,3,0,61,79,77.2,10,60,7,3,3,Lyon,2019-01-20 Saint-Étienne-Lyon,FRA-L1,18-19,a0ca9660
+47af88b8,Jason Denayer,5,BEL,CB,23-206,90,0,0,0,0,0,0,0,0,70,0,1,0,0.0,0.0,0.0,0,0,57,64,89.1,3,42,4,0,0,Lyon,2019-01-20 Saint-Étienne-Lyon,FRA-L1,18-19,a0ca9660
+e3d0b0c4,Marcelo,6,BRA,CB,31-245,90,0,0,0,0,0,0,1,0,79,2,3,2,0.0,0.0,0.0,1,0,56,69,81.2,4,48,0,1,1,Lyon,2019-01-20 Saint-Étienne-Lyon,FRA-L1,18-19,a0ca9660
+77d7c96f,Kenny Tete,23,NED,RB,23-103,79,0,0,0,0,0,0,1,0,68,0,1,1,0.0,0.0,0.0,1,0,42,57,73.7,7,35,3,1,0,Lyon,2019-01-20 Saint-Étienne-Lyon,FRA-L1,18-19,a0ca9660
+ff0ab48c,Leo Dubois,14,FRA,RB,24-128,11,0,1,0,0,1,0,0,0,14,0,1,1,0.0,0.0,0.4,4,1,8,10,80.0,0,7,2,0,0,Lyon,2019-01-20 Saint-Étienne-Lyon,FRA-L1,18-19,a0ca9660
+f00de885,Anthony Lopes,1,POR,GK,28-111,90,0,0,0,0,0,0,0,0,37,0,0,1,0.0,0.0,0.0,1,0,28,32,87.5,0,19,0,0,0,Lyon,2019-01-20 Saint-Étienne-Lyon,FRA-L1,18-19,a0ca9660

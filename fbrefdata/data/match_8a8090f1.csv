@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+527f063d,Edinson Cavani,7,URU,FW,34-074,90,2,2,0,0,7,4,0,0,37,0,0,1,1.8,1.8,0.8,6,4,25,28,89.3,2,27,1,0,0,Manchester United,2021-04-29 Manchester Utd-Roma,UEL,20-21,8a8090f1
+867239d3,Paul Pogba,6,FRA,"AM,LW",28-045,90,1,0,0,0,2,2,1,0,59,2,0,2,0.3,0.3,0.0,5,1,40,51,78.4,11,47,2,4,4,Manchester United,2021-04-29 Manchester Utd-Roma,UEL,20-21,8a8090f1
+a1d5bd30,Marcus Rashford,10,ENG,RW,23-180,75,0,0,0,0,0,0,0,0,40,1,1,3,0.0,0.0,0.1,4,1,19,30,63.3,4,24,3,5,1,Manchester United,2021-04-29 Manchester Utd-Roma,UEL,20-21,8a8090f1
+58eee997,Mason Greenwood,11,ENG,RW,19-210,15,1,0,0,0,1,1,0,0,11,0,0,0,0.1,0.1,0.0,1,0,5,7,71.4,0,9,1,0,0,Manchester United,2021-04-29 Manchester Utd-Roma,UEL,20-21,8a8090f1
+507c7bdf,Bruno Fernandes,18,POR,"LW,AM",26-233,88,2,2,1,1,4,1,0,0,68,1,1,1,1.6,0.8,1.0,9,3,43,61,70.5,9,49,3,0,0,Manchester United,2021-04-29 Manchester Utd-Roma,UEL,20-21,8a8090f1
+29733c72,Juan Mata,8,ESP,LW,33-001,2,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,1,1,0,0,0,Manchester United,2021-04-29 Manchester Utd-Roma,UEL,20-21,8a8090f1
+b853e0ad,Fred,17,BRA,DM,28-055,82,0,0,0,0,1,0,0,0,57,2,3,4,0.0,0.0,0.0,2,0,40,43,93.0,6,33,0,1,1,Manchester United,2021-04-29 Manchester Utd-Roma,UEL,20-21,8a8090f1
+eb7822d7,Nemanja Matić,31,SRB,DM,32-271,8,0,0,0,0,0,0,0,0,13,0,0,0,0.0,0.0,0.0,0,0,10,11,90.9,0,9,0,1,0,Manchester United,2021-04-29 Manchester Utd-Roma,UEL,20-21,8a8090f1
+d93c2511,Scott McTominay,39,SCO,DM,24-142,90,0,0,0,0,1,0,0,0,66,0,1,1,0.2,0.2,0.0,0,0,52,57,91.2,8,46,0,0,0,Manchester United,2021-04-29 Manchester Utd-Roma,UEL,20-21,8a8090f1
+9c94165b,Luke Shaw,23,ENG,LB,25-291,90,0,0,0,0,1,1,0,0,69,1,1,4,0.0,0.0,0.1,4,1,56,61,91.8,6,40,6,3,3,Manchester United,2021-04-29 Manchester Utd-Roma,UEL,20-21,8a8090f1
+d8931174,Harry Maguire,5,ENG,CB,28-055,90,0,0,0,0,0,0,0,0,79,0,0,0,0.0,0.0,0.0,0,0,65,70,92.9,2,58,0,0,0,Manchester United,2021-04-29 Manchester Utd-Roma,UEL,20-21,8a8090f1
+f5deef4c,Victor Lindelöf,2,SWE,CB,26-286,90,0,0,0,0,0,0,0,0,88,2,1,2,0.0,0.0,0.0,0,0,69,80,86.3,6,72,0,0,0,Manchester United,2021-04-29 Manchester Utd-Roma,UEL,20-21,8a8090f1
+9e525177,Aaron Wan-Bissaka,29,ENG,RB,23-154,90,0,1,0,0,2,1,0,0,82,3,2,0,0.1,0.1,0.0,3,1,63,71,88.7,8,46,3,2,1,Manchester United,2021-04-29 Manchester Utd-Roma,UEL,20-21,8a8090f1
+7ba6d84e,David de Gea,1,ESP,GK,30-173,90,0,0,0,0,0,0,0,0,20,0,0,0,0.0,0.0,0.0,0,0,14,19,73.7,0,12,0,0,0,Manchester United,2021-04-29 Manchester Utd-Roma,UEL,20-21,8a8090f1
+3bb7f478,Edin Džeko,9,BIH,FW,35-043,90,1,0,0,0,2,2,0,0,38,1,0,1,0.9,0.9,0.1,1,0,23,28,82.1,3,18,1,1,1,Roma,2021-04-29 Manchester Utd-Roma,UEL,20-21,8a8090f1
+dd0daf32,Henrikh Mkhitaryan,77,ARM,AM,32-098,90,0,0,0,0,1,0,0,0,45,2,4,0,0.0,0.0,0.0,2,1,27,36,75.0,5,30,6,2,0,Roma,2021-04-29 Manchester Utd-Roma,UEL,20-21,8a8090f1
+4a5a45c7,Lorenzo Pellegrini,7,ITA,AM,24-314,90,1,1,1,1,0,0,0,0,34,1,2,1,0.8,0.0,0.8,1,1,13,22,59.1,1,18,1,1,0,Roma,2021-04-29 Manchester Utd-Roma,UEL,20-21,8a8090f1
+bf309d24,Amadou Diawara,42,GUI,CM,23-286,90,0,0,0,0,0,0,0,0,42,1,1,0,0.0,0.0,0.0,1,0,32,38,84.2,1,30,0,2,2,Roma,2021-04-29 Manchester Utd-Roma,UEL,20-21,8a8090f1
+4a56052c,Jordan Veretout,17,FRA,CM,28-059,4,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,0,2,0.0,0,3,0,0,0,Roma,2021-04-29 Manchester Utd-Roma,UEL,20-21,8a8090f1
+bdc74a8f,Gonzalo Villar,14,ESP,CM,23-037,86,0,0,0,0,0,0,1,0,21,0,0,0,0.0,0.0,0.0,2,1,14,18,77.8,3,16,0,2,1,Roma,2021-04-29 Manchester Utd-Roma,UEL,20-21,8a8090f1
+3626daea,Leonardo Spinazzola,37,ITA,WB,28-035,36,0,0,0,0,0,0,0,0,23,0,1,0,0.0,0.0,0.0,0,0,11,18,61.1,2,11,1,3,3,Roma,2021-04-29 Manchester Utd-Roma,UEL,20-21,8a8090f1
+852351df,Bruno Peres,33,BRA,WB,31-059,54,0,0,0,0,0,0,0,0,31,0,3,0,0.0,0.0,0.0,0,0,17,24,70.8,0,22,2,0,0,Roma,2021-04-29 Manchester Utd-Roma,UEL,20-21,8a8090f1
+9f84febe,Rick Karsdorp,2,NED,WB,26-077,90,0,0,0,0,0,0,0,0,35,1,2,0,0.0,0.0,0.0,0,0,21,30,70.0,2,17,0,0,0,Roma,2021-04-29 Manchester Utd-Roma,UEL,20-21,8a8090f1
+82efe6fa,Roger Ibanez,3,BRA,CB,22-157,90,0,0,0,0,0,0,0,0,58,5,3,2,0.0,0.0,0.0,0,0,28,44,63.6,2,35,3,2,0,Roma,2021-04-29 Manchester Utd-Roma,UEL,20-21,8a8090f1
+16657b95,Bryan Cristante,4,ITA,CB,26-057,90,0,0,0,0,0,0,0,0,39,0,1,1,0.0,0.0,0.0,1,0,22,33,66.7,1,31,1,2,1,Roma,2021-04-29 Manchester Utd-Roma,UEL,20-21,8a8090f1
+b6964eb6,Chris Smalling,6,ENG,CB,31-158,90,0,0,0,0,1,0,1,0,34,1,3,1,0.1,0.1,0.0,0,0,17,21,81.0,1,19,1,2,1,Roma,2021-04-29 Manchester Utd-Roma,UEL,20-21,8a8090f1
+20b9f052,Pau López,13,ESP,GK,26-137,27,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,6,7,85.7,0,5,0,0,0,Roma,2021-04-29 Manchester Utd-Roma,UEL,20-21,8a8090f1
+30223b33,Antonio Mirante,83,ITA,GK,37-295,63,0,0,0,0,0,0,0,0,26,0,0,0,0.0,0.0,0.0,0,0,15,22,68.2,0,13,0,0,0,Roma,2021-04-29 Manchester Utd-Roma,UEL,20-21,8a8090f1

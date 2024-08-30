@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+b70afb45,Thijs Dallinga,9,NED,FW,23-192,90,1,0,0,0,5,2,0,0,32,0,0,0,0.4,0.4,0.0,1,0,14,22,63.6,1,24,0,2,1,Toulouse,2024-02-11 Toulouse-Nantes,FRA-L1,23-24,e6caf939
+10cff752,Aron Dønnum,15,NOR,LW,25-297,59,0,0,0,0,0,0,0,0,30,1,1,0,0.0,0.0,0.0,1,0,17,23,73.9,0,23,0,6,1,Toulouse,2024-02-11 Toulouse-Nantes,FRA-L1,23-24,e6caf939
+42fdb11d,Frank Magri,19,CMR,LW,24-160,31,0,0,0,0,1,0,0,0,16,1,0,1,0.0,0.0,0.0,0,0,4,10,40.0,0,9,0,0,0,Toulouse,2024-02-11 Toulouse-Nantes,FRA-L1,23-24,e6caf939
+c6f0d5d4,Shavy Babicka,80,GAB,RW,23-255,90,0,0,0,0,1,0,0,0,46,3,0,1,0.0,0.0,0.1,3,0,20,32,62.5,3,36,2,6,2,Toulouse,2024-02-11 Toulouse-Nantes,FRA-L1,23-24,e6caf939
+6be41a31,Yann Gboho,37,FRA,AM,23-028,90,0,0,0,0,2,1,1,0,37,1,0,0,0.1,0.1,0.0,2,1,22,32,68.8,2,31,4,3,2,Toulouse,2024-02-11 Toulouse-Nantes,FRA-L1,23-24,e6caf939
+92ffb8f9,Vincent Sierro,8,SUI,DM,28-126,59,0,0,0,0,3,0,1,0,41,0,1,0,0.3,0.3,0.1,3,0,32,37,86.5,4,29,0,0,0,Toulouse,2024-02-11 Toulouse-Nantes,FRA-L1,23-24,e6caf939
+a08985b8,Stijn Spierings,4,NED,DM,27-336,31,0,0,0,0,0,0,0,0,48,1,1,0,0.0,0.0,0.0,4,0,37,46,80.4,12,38,3,0,0,Toulouse,2024-02-11 Toulouse-Nantes,FRA-L1,23-24,e6caf939
+b9ae8560,Niklas Schmidt,20,GER,DM,25-347,79,0,0,0,0,0,0,0,0,82,1,0,1,0.0,0.0,0.0,4,0,64,81,79.0,16,67,3,0,0,Toulouse,2024-02-11 Toulouse-Nantes,FRA-L1,23-24,e6caf939
+d7547531,Naatan Skyttä,22,FIN,DM,21-280,11,0,0,0,0,0,0,0,0,10,2,0,0,0.0,0.0,0.0,0,0,8,8,100.0,1,6,0,0,0,Toulouse,2024-02-11 Toulouse-Nantes,FRA-L1,23-24,e6caf939
+39b326ed,Gabriel Suazo,17,CHI,LB,26-186,79,0,0,0,0,0,0,0,0,82,1,1,1,0.0,0.0,0.1,2,0,59,74,79.7,4,55,1,3,2,Toulouse,2024-02-11 Toulouse-Nantes,FRA-L1,23-24,e6caf939
+abddf25d,Ibrahim Cissoko,10,NED,LB,20-322,11,0,1,0,0,0,0,0,0,15,0,0,1,0.0,0.0,0.2,2,1,8,12,66.7,0,11,1,2,1,Toulouse,2024-02-11 Toulouse-Nantes,FRA-L1,23-24,e6caf939
+3f319bb9,Rasmus Nicolaisen,2,DEN,CB,26-332,90,0,0,0,0,1,0,0,0,102,1,1,0,0.1,0.1,0.0,2,0,87,98,88.8,12,77,0,0,0,Toulouse,2024-02-11 Toulouse-Nantes,FRA-L1,23-24,e6caf939
+2c70d915,Christian Mawissa,13,FRA,CB,18-299,59,0,0,0,0,1,0,0,0,79,1,0,2,0.0,0.0,0.0,1,0,63,72,87.5,4,63,0,2,1,Toulouse,2024-02-11 Toulouse-Nantes,FRA-L1,23-24,e6caf939
+bfb2056e,Logan Costa,6,CPV,CB,22-316,31,0,0,0,0,0,0,0,0,39,0,0,0,0.0,0.0,0.0,0,0,35,39,89.7,10,32,0,0,0,Toulouse,2024-02-11 Toulouse-Nantes,FRA-L1,23-24,e6caf939
+1d5c96f8,Mikkel Desler,3,DEN,RB,28-357,90,0,0,0,0,2,0,0,0,88,0,0,0,0.1,0.1,0.0,2,0,67,82,81.7,10,57,1,2,1,Toulouse,2024-02-11 Toulouse-Nantes,FRA-L1,23-24,e6caf939
+6b91b999,Guillaume Restes,50,FRA,GK,18-337,90,0,0,0,0,0,0,0,0,23,0,0,0,0.0,0.0,0.0,0,0,20,23,87.0,0,21,0,0,0,Toulouse,2024-02-11 Toulouse-Nantes,FRA-L1,23-24,e6caf939
+595e6f3e,Mostafa Mohamed,31,EGY,FW,26-075,79,1,1,0,0,2,1,0,0,33,0,1,2,0.1,0.1,0.3,2,2,12,19,63.2,1,15,1,0,0,Nantes,2024-02-11 Toulouse-Nantes,FRA-L1,23-24,e6caf939
+0e46fa2f,Matthis Abline,39,FRA,FW,20-320,11,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,2,0,0,0,Nantes,2024-02-11 Toulouse-Nantes,FRA-L1,23-24,e6caf939
+7d08063d,Tino Kadewere,15,ZIM,LM,28-037,80,1,0,0,0,2,1,0,0,25,1,1,2,0.3,0.3,0.0,1,1,10,16,62.5,3,17,1,2,2,Nantes,2024-02-11 Toulouse-Nantes,FRA-L1,23-24,e6caf939
+3b6ace25,Hugo Boutsingkham,71,FRA,RM,21-022,10,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Nantes,2024-02-11 Toulouse-Nantes,FRA-L1,23-24,e6caf939
+77816c91,Bénie Adama Traore,77,CIV,RM,21-073,64,0,0,0,0,1,0,0,0,23,3,1,1,0.0,0.0,0.0,0,0,10,12,83.3,0,13,2,3,1,Nantes,2024-02-11 Toulouse-Nantes,FRA-L1,23-24,e6caf939
+42f0113f,Stredair Appuah,23,FRA,"LM,RM",19-229,26,0,0,0,0,0,0,0,0,19,0,1,0,0.0,0.0,0.0,0,0,4,8,50.0,0,9,1,3,1,Nantes,2024-02-11 Toulouse-Nantes,FRA-L1,23-24,e6caf939
+68a26d51,Pedro Chirivella,5,ESP,CM,26-264,90,0,0,0,0,0,0,0,0,38,1,0,3,0.0,0.0,0.0,0,0,22,31,71.0,1,25,0,4,3,Nantes,2024-02-11 Toulouse-Nantes,FRA-L1,23-24,e6caf939
+2acd49b9,Moussa Sissoko,17,FRA,CM,34-179,90,0,0,0,0,0,0,1,0,30,1,1,0,0.0,0.0,0.0,1,0,15,22,68.2,1,11,0,0,0,Nantes,2024-02-11 Toulouse-Nantes,FRA-L1,23-24,e6caf939
+3010aefb,Marcus Coco,11,FRA,RB,27-232,70,0,0,0,0,0,0,0,0,37,7,2,2,0.0,0.0,0.0,1,0,14,23,60.9,0,18,3,0,0,Nantes,2024-02-11 Toulouse-Nantes,FRA-L1,23-24,e6caf939
+8f325097,Nicolas Cozza,3,FRA,LB,25-034,20,0,0,0,0,0,0,0,0,7,1,0,0,0.0,0.0,0.0,0,0,1,3,33.3,0,0,0,0,0,Nantes,2024-02-11 Toulouse-Nantes,FRA-L1,23-24,e6caf939
+0cbc8baa,Jean-Kevin Duverne,2,HAI,"LB,RB",26-214,80,0,0,0,0,0,0,0,0,23,0,1,1,0.0,0.0,0.0,0,0,7,13,53.8,1,10,0,2,0,Nantes,2024-02-11 Toulouse-Nantes,FRA-L1,23-24,e6caf939
+575b1a7b,Enzo Mongo,46,FRA,RB,18-309,10,0,0,0,0,0,0,0,0,5,1,1,1,0.0,0.0,0.0,0,0,0,2,0.0,0,0,0,0,0,Nantes,2024-02-11 Toulouse-Nantes,FRA-L1,23-24,e6caf939
+fb4c5b6e,Nathan Zeze,44,FRA,CB,18-238,90,0,0,0,0,0,0,0,0,29,1,3,1,0.0,0.0,0.0,0,0,14,19,73.7,0,14,0,0,0,Nantes,2024-02-11 Toulouse-Nantes,FRA-L1,23-24,e6caf939
+779847d6,Nicolas Pallois,4,FRA,CB,36-145,90,0,0,0,0,0,0,0,0,27,2,1,4,0.0,0.0,0.0,0,0,6,12,50.0,0,6,0,0,0,Nantes,2024-02-11 Toulouse-Nantes,FRA-L1,23-24,e6caf939
+e0f3a1f6,Jean-Charles Castelletto,21,CMR,CB,29-016,90,0,0,0,0,0,0,0,0,30,1,1,1,0.0,0.0,0.0,1,1,18,21,85.7,2,15,0,0,0,Nantes,2024-02-11 Toulouse-Nantes,FRA-L1,23-24,e6caf939
+4e7db402,Alban Lafont,1,FRA,GK,25-019,90,0,0,0,0,0,0,0,0,36,0,0,0,0.0,0.0,0.0,0,0,12,36,33.3,0,14,0,0,0,Nantes,2024-02-11 Toulouse-Nantes,FRA-L1,23-24,e6caf939

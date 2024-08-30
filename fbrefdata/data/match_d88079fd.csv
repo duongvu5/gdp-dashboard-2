@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+bc6bd723,Alassane Pléa,14,FRA,FW,26-055,90,0,1,0,0,0,0,0,0,30,0,1,1,0.0,0.0,0.5,4,1,19,26,73.1,1,15,2,0,0,Mönchengladbach,2019-05-04 Gladbach-Hoffenheim,GER-BL1,18-19,d88079fd
+50871bcc,Thorgan Hazard,10,BEL,"LM,FW",26-036,90,0,0,0,0,2,2,0,0,46,0,2,0,0.1,0.1,0.0,1,0,22,36,61.1,3,31,4,4,2,Mönchengladbach,2019-05-04 Gladbach-Hoffenheim,GER-BL1,18-19,d88079fd
+b69261a0,Oscar Wendt,17,SWE,"LB,LW",33-192,90,0,0,0,0,0,0,0,0,54,1,0,2,0.0,0.0,0.1,2,0,38,47,80.9,4,20,2,0,0,Mönchengladbach,2019-05-04 Gladbach-Hoffenheim,GER-BL1,18-19,d88079fd
+dfb6490a,Patrick Herrmann,7,GER,RW,28-081,45,0,0,0,0,1,1,0,0,31,3,0,1,0.1,0.1,0.0,0,0,16,24,66.7,0,9,3,0,0,Mönchengladbach,2019-05-04 Gladbach-Hoffenheim,GER-BL1,18-19,d88079fd
+096a77c4,Ibrahima Traoré,16,GUI,RM,31-013,45,0,0,0,0,3,0,0,0,23,0,1,0,0.2,0.2,0.1,5,1,12,17,70.6,4,16,3,1,1,Mönchengladbach,2019-05-04 Gladbach-Hoffenheim,GER-BL1,18-19,d88079fd
+384d58d9,Denis Zakaria,8,SUI,CM,22-165,90,0,0,0,0,0,0,1,0,40,4,0,3,0.0,0.0,0.0,1,0,24,27,88.9,5,23,1,2,1,Mönchengladbach,2019-05-04 Gladbach-Hoffenheim,GER-BL1,18-19,d88079fd
+36a59ba4,Florian Neuhaus,32,GER,CM,22-049,90,0,0,0,0,1,0,1,0,40,1,0,1,0.1,0.1,0.1,2,1,23,28,82.1,5,21,2,4,2,Mönchengladbach,2019-05-04 Gladbach-Hoffenheim,GER-BL1,18-19,d88079fd
+17780d2b,Tobias Strobl,5,GER,DM,28-357,81,0,0,0,0,0,0,0,0,29,0,1,1,0.0,0.0,0.0,0,0,23,24,95.8,0,12,0,0,0,Mönchengladbach,2019-05-04 Gladbach-Hoffenheim,GER-BL1,18-19,d88079fd
+15ea94de,Josip Drmić,18,SUI,FW,26-269,9,1,0,0,0,1,1,0,0,3,0,0,0,0.4,0.4,0.0,0,0,2,2,100.0,0,2,0,0,0,Mönchengladbach,2019-05-04 Gladbach-Hoffenheim,GER-BL1,18-19,d88079fd
+34b54da7,Tony Jantschke,24,GER,CB,29-027,45,0,0,0,0,0,0,0,0,18,0,1,1,0.0,0.0,0.0,0,0,11,13,84.6,0,11,0,0,0,Mönchengladbach,2019-05-04 Gladbach-Hoffenheim,GER-BL1,18-19,d88079fd
+9af1f9ff,Jordan Beyer,15,GER,RB,18-350,45,0,0,0,0,2,0,0,0,28,1,0,1,0.1,0.1,0.0,2,0,14,21,66.7,4,11,1,1,1,Mönchengladbach,2019-05-04 Gladbach-Hoffenheim,GER-BL1,18-19,d88079fd
+f521b80a,Matthias Ginter,28,GER,CB,25-105,90,1,0,0,0,1,1,0,0,47,0,0,2,0.1,0.1,0.0,1,0,32,39,82.1,2,18,1,0,0,Mönchengladbach,2019-05-04 Gladbach-Hoffenheim,GER-BL1,18-19,d88079fd
+48035304,Nico Elvedi,30,SUI,CB,22-216,90,0,0,0,0,0,0,0,0,44,1,0,0,0.0,0.0,0.0,0,0,31,36,86.1,1,28,0,0,0,Mönchengladbach,2019-05-04 Gladbach-Hoffenheim,GER-BL1,18-19,d88079fd
+420c18a1,Yann Sommer,1,SUI,GK,30-138,90,0,0,0,0,0,0,0,0,58,0,0,1,0.0,0.0,0.0,0,0,33,52,63.5,0,27,0,0,0,Mönchengladbach,2019-05-04 Gladbach-Hoffenheim,GER-BL1,18-19,d88079fd
+53e07d0b,Ádám Szalai,28,HUN,FW,31-146,84,0,0,0,0,5,2,1,0,32,1,0,1,0.7,0.7,0.0,6,1,15,19,78.9,1,12,1,1,1,Hoffenheim,2019-05-04 Gladbach-Hoffenheim,GER-BL1,18-19,d88079fd
+c5bdb6e3,Reiss Nelson,9,ENG,FW,19-145,6,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,0,0,Hoffenheim,2019-05-04 Gladbach-Hoffenheim,GER-BL1,18-19,d88079fd
+603cb947,Andrej Kramarić,27,CRO,AM,27-319,74,0,0,0,0,6,3,0,0,51,0,0,0,0.7,0.7,0.1,7,0,27,41,65.9,6,34,5,2,1,Hoffenheim,2019-05-04 Gladbach-Hoffenheim,GER-BL1,18-19,d88079fd
+555d5edd,Nadiem Amiri,18,GER,"CM,AM",22-189,16,1,0,0,0,1,1,0,0,6,0,0,0,0.0,0.0,0.1,1,0,4,5,80.0,2,4,1,0,0,Hoffenheim,2019-05-04 Gladbach-Hoffenheim,GER-BL1,18-19,d88079fd
+ff182fdc,Ishak Belfodil,19,ALG,"AM,FW",27-112,90,0,0,0,0,3,1,0,0,32,0,0,0,0.5,0.5,0.4,4,0,18,25,72.0,1,16,5,1,1,Hoffenheim,2019-05-04 Gladbach-Hoffenheim,GER-BL1,18-19,d88079fd
+ffbbc83b,Florian Grillitsch,11,AUT,CM,23-270,90,0,0,0,0,1,0,0,0,63,1,2,1,0.0,0.0,0.6,7,0,47,57,82.5,8,37,3,1,1,Hoffenheim,2019-05-04 Gladbach-Hoffenheim,GER-BL1,18-19,d88079fd
+54b4dc4e,Kerem Demirbay,10,GER,CM,25-305,90,0,1,0,0,3,0,1,0,80,1,0,0,0.1,0.1,0.7,11,2,56,70,80.0,12,48,3,5,4,Hoffenheim,2019-05-04 Gladbach-Hoffenheim,GER-BL1,18-19,d88079fd
+fa274d97,Nico Schulz,16,GER,WB,26-033,90,0,0,0,0,3,0,0,0,42,0,0,1,0.3,0.3,0.3,4,0,24,32,75.0,2,22,4,1,0,Hoffenheim,2019-05-04 Gladbach-Hoffenheim,GER-BL1,18-19,d88079fd
+79c90e45,Pavel Kadeřábek,3,CZE,WB,27-009,90,1,0,0,0,2,1,0,0,63,0,2,0,0.1,0.1,0.1,3,0,40,47,85.1,5,21,4,2,1,Hoffenheim,2019-05-04 Gladbach-Hoffenheim,GER-BL1,18-19,d88079fd
+7aac47fe,Ermin Bičakčić,4,BIH,CB,29-100,90,0,0,0,0,1,0,0,0,69,0,6,2,0.1,0.1,0.0,2,0,47,55,85.5,3,32,5,0,0,Hoffenheim,2019-05-04 Gladbach-Hoffenheim,GER-BL1,18-19,d88079fd
+1d8e9add,Kevin Vogt,22,GER,CB,27-223,90,0,0,0,0,0,0,0,0,84,0,1,1,0.0,0.0,0.1,2,0,72,79,91.1,3,43,0,0,0,Hoffenheim,2019-05-04 Gladbach-Hoffenheim,GER-BL1,18-19,d88079fd
+7f609bfc,Stefan Posch,38,AUT,CB,21-355,66,0,0,0,0,1,1,1,0,50,3,2,1,0.1,0.1,0.0,0,0,37,42,88.1,6,30,1,0,0,Hoffenheim,2019-05-04 Gladbach-Hoffenheim,GER-BL1,18-19,d88079fd
+93a50d2c,Kasim Nuhu,15,GHA,CB,23-316,24,0,0,0,0,0,0,1,0,21,1,1,1,0.0,0.0,0.0,0,0,16,17,94.1,4,11,0,0,0,Hoffenheim,2019-05-04 Gladbach-Hoffenheim,GER-BL1,18-19,d88079fd
+47064058,Oliver Baumann,1,GER,GK,28-336,90,0,0,0,0,0,0,0,0,35,0,0,0,0.0,0.0,0.0,0,0,29,33,87.9,0,18,0,0,0,Hoffenheim,2019-05-04 Gladbach-Hoffenheim,GER-BL1,18-19,d88079fd

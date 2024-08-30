@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+69384e5d,Neymar,10,BRA,FW,30-217,76,1,0,0,0,2,1,1,0,69,0,1,0,0.2,0.2,0.5,5,0,47,60,78.3,8,60,1,4,1,Paris Saint-Germain,2022-09-10 Paris S-G-Brest,FRA-L1,22-23,7e83ffa9
+9744ff80,Pablo Sarabia,19,ESP,FW,30-122,14,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.1,2,0,8,10,80.0,1,8,0,0,0,Paris Saint-Germain,2022-09-10 Paris S-G-Brest,FRA-L1,22-23,7e83ffa9
+42fd9c7f,Kylian Mbappé,7,FRA,FW,23-264,77,0,0,0,0,3,1,0,0,42,0,0,0,0.5,0.5,0.3,1,0,26,30,86.7,0,35,6,3,0,Paris Saint-Germain,2022-09-10 Paris S-G-Brest,FRA-L1,22-23,7e83ffa9
+5b92d896,Hugo Ekitike,44,FRA,FW,20-082,13,0,0,0,0,0,0,0,0,13,0,1,0,0.0,0.0,0.0,0,0,7,8,87.5,0,11,0,1,0,Paris Saint-Germain,2022-09-10 Paris S-G-Brest,FRA-L1,22-23,7e83ffa9
+d70ce98e,Lionel Messi,30,ARG,AM,35-078,90,0,1,0,0,4,2,0,0,88,1,0,2,0.8,0.8,0.4,9,1,56,73,76.7,13,69,1,6,2,Paris Saint-Germain,2022-09-10 Paris S-G-Brest,FRA-L1,22-23,7e83ffa9
+1467af0d,Marco Verratti,6,ITA,CM,29-309,61,0,0,0,0,0,0,0,0,83,2,1,0,0.0,0.0,0.0,2,1,75,78,96.2,5,74,0,2,2,Paris Saint-Germain,2022-09-10 Paris S-G-Brest,FRA-L1,22-23,7e83ffa9
+c0c7ff58,Fabián Ruiz Peña,8,ESP,CM,26-160,29,0,0,0,0,0,0,0,0,51,3,0,2,0.0,0.0,0.0,1,0,40,44,90.9,2,41,1,0,0,Paris Saint-Germain,2022-09-10 Paris S-G-Brest,FRA-L1,22-23,7e83ffa9
+3b029691,Vitinha,17,POR,CM,22-209,86,0,0,0,0,2,0,0,0,72,0,1,0,0.1,0.1,0.0,0,0,63,67,94.0,5,65,0,3,2,Paris Saint-Germain,2022-09-10 Paris S-G-Brest,FRA-L1,22-23,7e83ffa9
+d5f2f82b,Marquinhos,5,BRA,"CM,CB",28-119,4,0,0,0,0,1,0,0,0,7,0,0,0,0.1,0.1,0.0,0,0,5,6,83.3,0,4,0,0,0,Paris Saint-Germain,2022-09-10 Paris S-G-Brest,FRA-L1,22-23,7e83ffa9
+433dc9a2,Juan Bernat,14,ESP,WB,29-193,77,0,0,0,0,0,0,0,0,43,0,1,1,0.0,0.0,0.2,3,0,32,39,82.1,0,34,1,1,0,Paris Saint-Germain,2022-09-10 Paris S-G-Brest,FRA-L1,22-23,7e83ffa9
+f20e4cc9,Nuno Mendes,25,POR,WB,20-083,13,0,0,0,0,0,0,1,0,9,0,0,0,0.0,0.0,0.0,1,0,3,6,50.0,0,7,2,1,0,Paris Saint-Germain,2022-09-10 Paris S-G-Brest,FRA-L1,22-23,7e83ffa9
+e42d61c7,Achraf Hakimi,2,MAR,WB,23-310,90,0,0,0,0,0,0,0,0,57,2,1,2,0.0,0.0,0.0,0,0,43,50,86.0,2,46,2,3,2,Paris Saint-Germain,2022-09-10 Paris S-G-Brest,FRA-L1,22-23,7e83ffa9
+aef6e670,Presnel Kimpembe,3,FRA,CB,27-028,90,0,0,0,0,0,0,1,0,72,5,1,1,0.0,0.0,0.0,0,0,57,62,91.9,2,51,0,0,0,Paris Saint-Germain,2022-09-10 Paris S-G-Brest,FRA-L1,22-23,7e83ffa9
+8fd9996f,Danilo Pereira,15,POR,"CB,CM",31-001,90,0,0,0,0,1,0,1,0,60,1,1,0,0.1,0.1,0.0,0,0,47,51,92.2,5,42,0,0,0,Paris Saint-Germain,2022-09-10 Paris S-G-Brest,FRA-L1,22-23,7e83ffa9
+08511d65,Sergio Ramos,4,ESP,CB,36-164,90,0,0,0,0,0,0,0,0,101,1,3,1,0.0,0.0,0.0,0,0,88,91,96.7,10,86,2,1,0,Paris Saint-Germain,2022-09-10 Paris S-G-Brest,FRA-L1,22-23,7e83ffa9
+08f5afaa,Gianluigi Donnarumma,99,ITA,GK,23-197,90,0,0,0,0,0,0,0,0,30,0,0,0,0.0,0.0,0.0,0,0,22,26,84.6,0,22,0,0,0,Paris Saint-Germain,2022-09-10 Paris S-G-Brest,FRA-L1,22-23,7e83ffa9
+ffec9769,Islam Slimani,13,ALG,FW,34-084,90,0,0,0,1,1,0,0,0,49,1,0,0,1.0,0.2,0.0,0,0,25,37,67.6,1,36,0,2,1,Brest,2022-09-10 Paris S-G-Brest,FRA-L1,22-23,7e83ffa9
+db7849ca,Franck Honorat,9,FRA,FW,26-030,90,0,0,0,0,1,1,0,0,48,1,1,0,0.0,0.0,0.0,1,0,26,40,65.0,1,37,2,4,0,Brest,2022-09-10 Paris S-G-Brest,FRA-L1,22-23,7e83ffa9
+2b1bed19,Haris Belkebla,7,ALG,CM,28-225,87,0,0,0,0,0,0,0,0,57,5,4,1,0.0,0.0,0.0,0,0,35,44,79.5,3,45,0,3,0,Brest,2022-09-10 Paris S-G-Brest,FRA-L1,22-23,7e83ffa9
+5e080f73,Irvin Cardona,14,FRA,CM,25-033,3,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,1,1,0,0,Brest,2022-09-10 Paris S-G-Brest,FRA-L1,22-23,7e83ffa9
+8577e60a,Mahdi Camara,45,FRA,CM,24-072,61,0,0,0,0,0,0,0,0,32,3,2,1,0.0,0.0,0.0,2,0,26,26,100.0,3,25,1,0,0,Brest,2022-09-10 Paris S-G-Brest,FRA-L1,22-23,7e83ffa9
+d4d35152,Hugo Magnetti,8,FRA,CM,24-103,29,0,0,0,0,0,0,0,0,24,1,0,0,0.0,0.0,0.0,1,0,18,22,81.8,2,18,1,1,1,Brest,2022-09-10 Paris S-G-Brest,FRA-L1,22-23,7e83ffa9
+f5044e54,Pierre Lees-Melou,20,FRA,CM,29-108,70,0,0,0,0,1,0,1,0,48,4,2,0,0.0,0.0,0.2,2,0,29,35,82.9,4,37,0,0,0,Brest,2022-09-10 Paris S-G-Brest,FRA-L1,22-23,7e83ffa9
+8846a40f,Mathias Pereira Lage,29,POR,CM,25-284,20,0,0,0,0,1,0,0,0,13,0,1,0,0.0,0.0,0.0,0,0,6,9,66.7,1,8,0,0,0,Brest,2022-09-10 Paris S-G-Brest,FRA-L1,22-23,7e83ffa9
+0cbc8baa,Jean-Kevin Duverne,2,HAI,"LB,RB",25-060,90,0,0,0,0,0,0,0,0,51,2,0,2,0.0,0.0,0.0,0,0,33,43,76.7,6,33,1,1,0,Brest,2022-09-10 Paris S-G-Brest,FRA-L1,22-23,7e83ffa9
+5b146df3,Lilian Brassier,3,FRA,CB,22-312,90,0,0,0,0,1,1,0,0,65,2,3,0,0.0,0.0,0.0,0,0,49,56,87.5,2,53,1,0,0,Brest,2022-09-10 Paris S-G-Brest,FRA-L1,22-23,7e83ffa9
+16aa7d4c,Brendan Chardonnet,5,FRA,CB,27-262,90,0,0,0,0,0,0,1,0,47,1,2,2,0.0,0.0,0.0,1,0,37,40,92.5,1,34,0,0,0,Brest,2022-09-10 Paris S-G-Brest,FRA-L1,22-23,7e83ffa9
+3681cfff,Christophe Hérelle,23,MTQ,CB,30-019,61,0,0,0,0,0,0,0,0,27,0,3,3,0.0,0.0,0.0,0,0,16,17,94.1,0,16,0,0,0,Brest,2022-09-10 Paris S-G-Brest,FRA-L1,22-23,7e83ffa9
+5069b796,Achraf Dari,4,MAR,CB,23-127,29,0,0,0,0,0,0,0,0,17,0,0,0,0.0,0.0,0.0,1,0,13,15,86.7,1,10,0,0,0,Brest,2022-09-10 Paris S-G-Brest,FRA-L1,22-23,7e83ffa9
+83f03b07,Noah Fadiga,99,SEN,RB,22-281,70,0,0,0,0,0,0,0,0,39,1,2,1,0.0,0.0,0.0,3,0,25,28,89.3,5,26,2,2,1,Brest,2022-09-10 Paris S-G-Brest,FRA-L1,22-23,7e83ffa9
+d75f3980,Jere Uronen,21,FIN,LB,28-059,20,0,0,0,0,0,0,0,0,12,0,0,0,0.0,0.0,0.0,1,0,9,12,75.0,1,11,0,0,0,Brest,2022-09-10 Paris S-G-Brest,FRA-L1,22-23,7e83ffa9
+3d214e5f,Marco Bizot,40,NED,GK,31-184,90,0,0,0,0,0,0,0,0,33,0,0,1,0.0,0.0,0.0,0,0,22,30,73.3,0,16,0,0,0,Brest,2022-09-10 Paris S-G-Brest,FRA-L1,22-23,7e83ffa9

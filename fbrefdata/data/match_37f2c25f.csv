@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+527f063d,Edinson Cavani,9,URU,FW,30-172,85,1,1,0,0,4,2,0,0,24,2,0,0,1.1,1.1,0.8,4,2,10,16,62.5,2,14,0,1,1,Paris Saint-Germain,2017-08-05 Paris S-G-Amiens,FRA-L1,17-18,37f2c25f
+e6bc67d7,Gonçalo Guedes,15,POR,FW,20-249,5,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,2,2,2,1,Paris Saint-Germain,2017-08-05 Paris S-G-Amiens,FRA-L1,17-18,37f2c25f
+881ef58c,Javier Pastore,27,ARG,LW,28-046,90,1,0,0,0,1,1,0,0,74,3,1,0,0.3,0.3,0.3,3,0,55,66,83.3,6,50,8,4,3,Paris Saint-Germain,2017-08-05 Paris S-G-Amiens,FRA-L1,17-18,37f2c25f
+19cda00b,Ángel Di María,11,ARG,RW,29-172,90,0,0,0,0,3,1,0,0,85,0,0,1,0.7,0.7,0.6,7,0,60,78,76.9,5,45,4,2,0,Paris Saint-Germain,2017-08-05 Paris S-G-Amiens,FRA-L1,17-18,37f2c25f
+8794e251,Adrien Rabiot,25,FRA,"LM,CM",22-124,90,0,0,0,0,3,1,0,0,101,4,0,1,0.2,0.2,0.0,2,0,86,92,93.5,9,65,5,0,0,Paris Saint-Germain,2017-08-05 Paris S-G-Amiens,FRA-L1,17-18,37f2c25f
+57ef0d97,Thiago Motta,8,ITA,CM,34-342,66,0,0,0,0,0,0,0,0,83,3,2,0,0.0,0.0,0.0,2,0,66,74,89.2,8,48,1,0,0,Paris Saint-Germain,2017-08-05 Paris S-G-Amiens,FRA-L1,17-18,37f2c25f
+c0cddebe,Blaise Matuidi,14,FRA,LM,30-118,24,0,0,0,0,0,0,0,0,18,0,0,2,0.0,0.0,0.0,0,0,12,14,85.7,0,9,0,0,0,Paris Saint-Germain,2017-08-05 Paris S-G-Amiens,FRA-L1,17-18,37f2c25f
+1467af0d,Marco Verratti,6,ITA,RM,24-273,90,0,0,0,0,1,0,0,0,116,1,1,1,0.0,0.0,0.3,6,1,90,104,86.5,19,81,2,3,1,Paris Saint-Germain,2017-08-05 Paris S-G-Amiens,FRA-L1,17-18,37f2c25f
+41e7ef1c,Layvin Kurzawa,20,FRA,LB,24-335,90,0,0,0,0,1,0,0,0,58,0,3,0,0.1,0.1,0.0,0,0,45,53,84.9,0,34,1,1,1,Paris Saint-Germain,2017-08-05 Paris S-G-Amiens,FRA-L1,17-18,37f2c25f
+86e7deaf,Thiago Silva,2,BRA,CB,32-317,45,0,0,0,0,0,0,0,0,45,0,0,0,0.0,0.0,0.0,1,0,42,44,95.5,1,32,0,0,0,Paris Saint-Germain,2017-08-05 Paris S-G-Amiens,FRA-L1,17-18,37f2c25f
+aef6e670,Presnel Kimpembe,3,FRA,CB,21-357,45,0,0,0,0,0,0,0,0,41,1,1,0,0.0,0.0,0.0,0,0,33,35,94.3,2,30,1,0,0,Paris Saint-Germain,2017-08-05 Paris S-G-Amiens,FRA-L1,17-18,37f2c25f
+d5f2f82b,Marquinhos,5,BRA,CB,23-083,90,0,0,0,0,2,0,0,0,84,0,3,3,0.1,0.1,0.0,1,0,69,71,97.2,5,51,2,0,0,Paris Saint-Germain,2017-08-05 Paris S-G-Amiens,FRA-L1,17-18,37f2c25f
+c9e99e49,Dani Alves,32,BRA,RB,34-091,90,0,1,0,0,1,0,0,0,105,6,2,1,0.1,0.1,0.4,2,1,80,91,87.9,6,49,2,3,2,Paris Saint-Germain,2017-08-05 Paris S-G-Amiens,FRA-L1,17-18,37f2c25f
+2f965a72,Alphonse Areola,16,FRA,GK,24-159,90,0,0,0,0,0,0,0,0,41,0,0,0,0.0,0.0,0.0,0,0,38,40,95.0,0,31,0,0,0,Paris Saint-Germain,2017-08-05 Paris S-G-Amiens,FRA-L1,17-18,37f2c25f
+d3b58e33,Seybou Koita,29,NIG,FW,23-112,76,0,0,0,0,1,1,0,0,31,0,0,0,0.0,0.0,0.0,1,0,16,22,72.7,2,20,1,3,2,Amiens,2017-08-05 Paris S-G-Amiens,FRA-L1,17-18,37f2c25f
+f45cf4f7,Brighton Labeau,9,MTQ,FW,21-216,14,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,2,0,1,0,Amiens,2017-08-05 Paris S-G-Amiens,FRA-L1,17-18,37f2c25f
+392d98fc,Harrison Manzala,7,COD,LM,23-152,68,0,0,0,0,0,0,0,0,23,0,0,1,0.0,0.0,0.1,1,0,12,19,63.2,1,15,4,3,2,Amiens,2017-08-05 Paris S-G-Amiens,FRA-L1,17-18,37f2c25f
+7cf9f0ed,Emmanuel Bourgaud,10,FRA,LM,29-284,22,0,0,0,0,0,0,0,0,20,2,0,0,0.0,0.0,0.1,2,0,13,18,72.2,0,8,1,0,0,Amiens,2017-08-05 Paris S-G-Amiens,FRA-L1,17-18,37f2c25f
+84d94b91,Thomas Monconduit,6,FRA,CM,26-176,90,0,0,0,0,1,0,0,0,51,1,3,5,0.0,0.0,0.0,1,0,25,38,65.8,3,24,2,1,0,Amiens,2017-08-05 Paris S-G-Amiens,FRA-L1,17-18,37f2c25f
+5cdddffa,Tanguy Ndombele,22,FRA,CM,20-220,56,0,0,0,0,0,0,0,0,34,0,3,0,0.0,0.0,0.0,0,0,16,24,66.7,2,18,0,4,3,Amiens,2017-08-05 Paris S-G-Amiens,FRA-L1,17-18,37f2c25f
+346c15cc,Charly Charrier,21,FRA,"RM,CM",31-070,34,0,0,0,0,1,0,0,0,26,0,1,0,0.1,0.1,0.0,1,0,15,22,68.2,2,20,1,0,0,Amiens,2017-08-05 Paris S-G-Amiens,FRA-L1,17-18,37f2c25f
+9dafff2a,Guessouma Fofana,8,MTN,"RM,CM",24-231,90,0,0,0,0,1,0,1,0,38,3,4,1,0.0,0.0,0.0,1,0,20,25,80.0,2,18,3,1,0,Amiens,2017-08-05 Paris S-G-Amiens,FRA-L1,17-18,37f2c25f
+a1017967,Issa Cissokho,25,SEN,LB,32-163,90,0,0,0,0,1,0,0,0,41,2,2,1,0.0,0.0,0.0,0,0,23,28,82.1,1,21,2,0,0,Amiens,2017-08-05 Paris S-G-Amiens,FRA-L1,17-18,37f2c25f
+16714a62,Khaled Adénon,3,BEN,CB,32-008,90,0,0,0,0,0,0,0,0,45,5,2,3,0.0,0.0,0.0,0,0,23,29,79.3,3,10,0,1,0,Amiens,2017-08-05 Paris S-G-Amiens,FRA-L1,17-18,37f2c25f
+f3642ba8,Mathieu Bodmer,24,FRA,CB,34-256,90,0,0,0,0,0,0,0,0,45,1,0,2,0.0,0.0,0.0,1,0,33,38,86.8,1,18,0,0,0,Amiens,2017-08-05 Paris S-G-Amiens,FRA-L1,17-18,37f2c25f
+7c6d6c96,Prince-Désir Gouano,2,FRA,CB,23-224,90,0,0,0,0,1,0,0,0,36,2,5,1,0.1,0.1,0.0,1,0,20,23,87.0,1,13,0,1,0,Amiens,2017-08-05 Paris S-G-Amiens,FRA-L1,17-18,37f2c25f
+9f29c204,Oualid El Hajjam,19,MAR,RB,26-167,90,0,0,0,0,1,0,0,0,48,2,2,1,0.0,0.0,0.0,1,0,30,42,71.4,1,25,0,0,0,Amiens,2017-08-05 Paris S-G-Amiens,FRA-L1,17-18,37f2c25f
+bc270726,Régis Gurtner,1,FRA,GK,30-240,90,0,0,0,0,0,0,0,0,39,0,0,0,0.0,0.0,0.0,0,0,21,36,58.3,0,20,0,0,0,Amiens,2017-08-05 Paris S-G-Amiens,FRA-L1,17-18,37f2c25f

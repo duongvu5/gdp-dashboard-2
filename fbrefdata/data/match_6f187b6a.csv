@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+19ba6c6d,Steve Mounié,15,BEN,FW,27-018,86,0,0,0,0,3,1,0,0,37,1,0,1,0.2,0.2,0.0,0,0,13,26,50.0,1,23,0,0,0,Brest,2021-10-17 Brest-Reims,FRA-L1,21-22,6f187b6a
+6a2b9aee,Youssouph Badji,29,SEN,FW,19-301,4,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,2,4,50.0,0,2,0,0,0,Brest,2021-10-17 Brest-Reims,FRA-L1,21-22,6f187b6a
+88c4d190,Jérémy Le Douaron,26,FRA,LW,23-179,59,0,0,0,0,1,1,0,0,26,1,0,1,0.0,0.0,0.0,2,0,10,19,52.6,0,19,2,2,0,Brest,2021-10-17 Brest-Reims,FRA-L1,21-22,6f187b6a
+5e080f73,Irvin Cardona,14,FRA,AM,24-070,31,0,0,0,0,0,0,0,0,12,0,0,0,0.0,0.0,0.1,1,0,5,9,55.6,0,7,0,0,0,Brest,2021-10-17 Brest-Reims,FRA-L1,21-22,6f187b6a
+db7849ca,Franck Honorat,9,FRA,"RW,LW",25-067,90,1,0,0,0,2,2,0,0,50,1,0,0,0.0,0.0,0.0,1,0,28,43,65.1,5,30,3,2,1,Brest,2021-10-17 Brest-Reims,FRA-L1,21-22,6f187b6a
+745ca0a3,Romain Faivre,21,FRA,"AM,RW",23-095,86,0,0,0,0,0,0,1,0,50,1,0,2,0.0,0.0,0.0,3,0,30,38,78.9,8,29,3,2,2,Brest,2021-10-17 Brest-Reims,FRA-L1,21-22,6f187b6a
+c2e5f306,Rafiki Said,19,COM,RW,21-216,4,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,2,0,1,0,Brest,2021-10-17 Brest-Reims,FRA-L1,21-22,6f187b6a
+0f86995c,Hianga Mananga Mbock,28,FRA,DM,21-293,34,0,0,0,0,0,0,1,0,10,0,0,0,0.0,0.0,0.0,0,0,8,9,88.9,0,6,0,0,0,Brest,2021-10-17 Brest-Reims,FRA-L1,21-22,6f187b6a
+2b1bed19,Haris Belkebla,7,ALG,DM,27-262,56,0,0,0,0,0,0,0,0,28,1,2,2,0.0,0.0,0.0,1,0,19,24,79.2,5,19,0,0,0,Brest,2021-10-17 Brest-Reims,FRA-L1,21-22,6f187b6a
+d4d35152,Hugo Magnetti,27,FRA,DM,23-140,90,0,0,0,0,1,0,0,0,54,5,1,2,0.0,0.0,0.0,0,0,36,41,87.8,9,31,1,1,0,Brest,2021-10-17 Brest-Reims,FRA-L1,21-22,6f187b6a
+0cbc8baa,Jean-Kevin Duverne,2,HAI,LB,24-097,86,0,0,0,0,1,0,0,0,67,1,1,2,0.1,0.1,0.0,1,0,40,54,74.1,8,38,5,3,2,Brest,2021-10-17 Brest-Reims,FRA-L1,21-22,6f187b6a
+d75f3980,Jere Uronen,20,FIN,LB,27-096,4,0,0,0,0,0,0,0,0,8,0,1,0,0.0,0.0,0.0,0,0,5,6,83.3,1,6,0,0,0,Brest,2021-10-17 Brest-Reims,FRA-L1,21-22,6f187b6a
+5b146df3,Lilian Brassier,3,FRA,CB,21-349,90,0,0,0,0,1,0,0,0,72,1,1,2,0.0,0.0,0.0,1,0,49,57,86.0,7,47,1,1,0,Brest,2021-10-17 Brest-Reims,FRA-L1,21-22,6f187b6a
+16aa7d4c,Brendan Chardonnet,5,FRA,CB,26-299,90,0,0,0,0,0,0,0,0,74,1,3,3,0.0,0.0,0.1,2,0,46,59,78.0,8,43,1,0,0,Brest,2021-10-17 Brest-Reims,FRA-L1,21-22,6f187b6a
+767212e6,Julien Faussurier,22,FRA,RB,34-276,90,0,0,0,0,0,0,0,0,98,1,3,0,0.0,0.0,0.1,4,0,62,89,69.7,2,62,2,0,0,Brest,2021-10-17 Brest-Reims,FRA-L1,21-22,6f187b6a
+3d214e5f,Marco Bizot,40,NED,GK,30-221,90,0,0,0,0,0,0,0,0,36,0,0,0,0.0,0.0,0.0,0,0,31,36,86.1,0,22,0,0,0,Brest,2021-10-17 Brest-Reims,FRA-L1,21-22,6f187b6a
+47c609d5,El Bilal Touré,7,MLI,FW,20-014,45,0,0,0,0,1,1,1,0,34,1,2,0,0.0,0.0,0.0,0,0,12,23,52.2,2,24,2,2,1,Reims,2021-10-17 Brest-Reims,FRA-L1,21-22,6f187b6a
+9f1c2822,Philippe Koffi,27,CIV,FW,19-222,45,0,0,0,0,2,0,1,0,16,0,0,0,0.2,0.2,0.0,3,0,6,10,60.0,0,13,2,1,1,Reims,2021-10-17 Brest-Reims,FRA-L1,21-22,6f187b6a
+46750e9c,Nathanael Mbuku,11,FRA,FW,19-215,65,0,0,0,0,1,0,0,0,20,2,0,0,0.0,0.0,0.0,2,1,10,12,83.3,3,16,0,2,1,Reims,2021-10-17 Brest-Reims,FRA-L1,21-22,6f187b6a
+0b2c9aec,Mitchell van Bergen,19,NED,"RM,FW",22-051,25,0,0,0,0,0,0,1,0,10,0,0,0,0.0,0.0,0.0,2,0,5,8,62.5,1,5,0,0,0,Reims,2021-10-17 Brest-Reims,FRA-L1,21-22,6f187b6a
+37d04e90,Ilan Kebbal,20,ALG,"AM,CM",23-100,74,0,1,0,0,1,0,0,0,41,2,1,0,0.1,0.1,0.3,4,1,25,30,83.3,5,30,2,2,1,Reims,2021-10-17 Brest-Reims,FRA-L1,21-22,6f187b6a
+d5575935,Valon Berisha,14,KVX,LM,28-252,16,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,5,7,71.4,0,3,0,0,0,Reims,2021-10-17 Brest-Reims,FRA-L1,21-22,6f187b6a
+64c14d49,Dion Lopy,26,SEN,CM,19-257,45,0,0,0,0,1,0,0,0,23,2,0,0,0.1,0.1,0.0,1,0,15,16,93.8,1,17,1,1,0,Reims,2021-10-17 Brest-Reims,FRA-L1,21-22,6f187b6a
+1bfe34dc,Fodé Doucouré,13,MLI,"RW,RB",20-256,45,0,0,0,0,0,0,0,0,32,4,2,0,0.0,0.0,0.0,2,0,13,24,54.2,1,13,0,1,1,Reims,2021-10-17 Brest-Reims,FRA-L1,21-22,6f187b6a
+a17a94d6,Azor Matusiwa,21,NED,"CM,DM",23-172,90,0,0,0,0,0,0,0,0,42,1,1,2,0.0,0.0,0.0,2,0,29,35,82.9,4,24,1,0,0,Reims,2021-10-17 Brest-Reims,FRA-L1,21-22,6f187b6a
+6b2c894b,Ghislain Konan,3,CIV,"WB,LW,LB",25-294,90,0,0,0,0,1,0,0,0,63,1,1,0,0.0,0.0,0.0,1,0,29,47,61.7,2,33,4,3,2,Reims,2021-10-17 Brest-Reims,FRA-L1,21-22,6f187b6a
+caef7840,Alexis Flips,12,FRA,"WB,CM",21-272,70,0,0,0,0,1,0,0,0,40,1,2,0,0.0,0.0,0.0,1,0,18,31,58.1,2,23,1,0,0,Reims,2021-10-17 Brest-Reims,FRA-L1,21-22,6f187b6a
+e4bb1f08,Sambou Sissoko,33,FRA,CM,22-173,20,0,0,0,0,2,0,0,0,16,1,0,1,0.1,0.1,0.0,0,0,4,8,50.0,1,7,1,1,1,Reims,2021-10-17 Brest-Reims,FRA-L1,21-22,6f187b6a
+32c2d95f,Yunis Abdelhamid,5,MAR,CB,34-019,90,0,0,0,0,0,0,0,0,52,1,1,1,0.0,0.0,0.0,0,0,39,46,84.8,4,28,0,0,0,Reims,2021-10-17 Brest-Reims,FRA-L1,21-22,6f187b6a
+9c221d14,Wout Faes,2,BEL,CB,23-197,90,1,0,0,0,2,1,0,0,42,1,1,2,0.1,0.1,0.0,0,0,25,30,83.3,2,25,0,1,1,Reims,2021-10-17 Brest-Reims,FRA-L1,21-22,6f187b6a
+49136c42,Andrew Gravillon,6,GLP,CB,23-251,90,0,0,0,0,1,0,1,0,62,4,1,3,0.1,0.1,0.2,3,0,36,45,80.0,3,25,1,1,1,Reims,2021-10-17 Brest-Reims,FRA-L1,21-22,6f187b6a
+58ad9383,Predrag Rajković,1,SRB,GK,25-351,90,0,0,0,0,0,0,0,0,42,0,0,0,0.0,0.0,0.0,0,0,23,41,56.1,0,26,0,0,0,Reims,2021-10-17 Brest-Reims,FRA-L1,21-22,6f187b6a

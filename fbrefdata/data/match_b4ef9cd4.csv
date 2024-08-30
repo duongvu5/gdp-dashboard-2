@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+ba115a40,Sébastien Haller,9,CIV,FW,28-319,62,1,1,0,0,2,1,0,0,18,1,0,1,0.5,0.5,0.2,1,1,11,13,84.6,2,10,0,1,1,Dortmund,2023-05-07 Dortmund-Wolfsburg,GER-BL1,22-23,b4ef9cd4
+6ce43701,Youssoufa Moukoko,18,GER,FW,18-168,28,0,0,0,0,1,1,0,0,6,0,0,1,0.4,0.4,0.1,1,0,1,4,25.0,0,4,0,0,0,Dortmund,2023-05-07 Dortmund-Wolfsburg,GER-BL1,22-23,b4ef9cd4
+501055d8,Karim Adeyemi,27,GER,LW,21-109,68,2,1,0,1,2,2,0,0,33,1,0,1,1.0,0.2,0.6,4,1,19,23,82.6,7,24,3,5,1,Dortmund,2023-05-07 Dortmund-Wolfsburg,GER-BL1,22-23,b4ef9cd4
+7fa4e703,Gio Reyna,7,USA,LW,20-175,22,0,0,0,0,0,0,0,0,17,0,0,0,0.0,0.0,0.0,3,0,11,14,78.6,0,12,2,1,0,Dortmund,2023-05-07 Dortmund-Wolfsburg,GER-BL1,22-23,b4ef9cd4
+116c35df,Donyell Malen,21,NED,RW,24-118,61,1,0,0,0,2,1,0,0,36,1,0,0,1.1,1.1,0.0,1,0,22,26,84.6,5,22,2,7,3,Dortmund,2023-05-07 Dortmund-Wolfsburg,GER-BL1,22-23,b4ef9cd4
+36a3ff67,Marco Reus,11,GER,"RW,RM",33-341,29,0,0,0,0,2,1,0,0,14,0,1,0,0.1,0.1,0.1,2,0,8,10,80.0,0,6,0,0,0,Dortmund,2023-05-07 Dortmund-Wolfsburg,GER-BL1,22-23,b4ef9cd4
+a167537f,Julian Brandt,19,GER,"LM,CM",27-005,90,0,3,0,0,2,1,0,0,52,0,0,0,0.1,0.1,1.8,6,3,34,47,72.3,2,32,3,0,0,Dortmund,2023-05-07 Dortmund-Wolfsburg,GER-BL1,22-23,b4ef9cd4
+a65ce836,Emre Can,23,GER,CM,29-115,90,0,0,0,0,0,0,0,0,63,1,1,2,0.0,0.0,0.0,2,1,56,59,94.9,2,30,1,0,0,Dortmund,2023-05-07 Dortmund-Wolfsburg,GER-BL1,22-23,b4ef9cd4
+57d88cf9,Jude Bellingham,22,ENG,"RM,CM",19-312,90,2,0,0,0,4,2,0,0,69,2,0,1,0.7,0.7,0.0,6,2,50,60,83.3,7,40,5,2,1,Dortmund,2023-05-07 Dortmund-Wolfsburg,GER-BL1,22-23,b4ef9cd4
+009a4f60,Julian Ryerson,26,NOR,LB,25-171,75,0,1,0,0,1,1,0,0,58,2,0,1,0.1,0.1,0.0,1,0,48,54,88.9,5,30,2,3,2,Dortmund,2023-05-07 Dortmund-Wolfsburg,GER-BL1,22-23,b4ef9cd4
+5c899683,Felix Passlack,30,GER,LB,24-343,15,0,0,0,0,0,0,0,0,17,3,0,1,0.0,0.0,0.4,4,1,9,12,75.0,4,7,0,0,0,Dortmund,2023-05-07 Dortmund-Wolfsburg,GER-BL1,22-23,b4ef9cd4
+05d548d8,Mats Hummels,15,GER,CB,34-142,62,0,0,0,0,0,0,0,0,50,3,1,1,0.0,0.0,0.0,2,1,33,38,86.8,2,19,0,1,0,Dortmund,2023-05-07 Dortmund-Wolfsburg,GER-BL1,22-23,b4ef9cd4
+15413fa5,Salih Özcan,6,TUR,CB,25-116,28,0,0,0,0,0,0,0,0,19,0,1,0,0.0,0.0,0.0,1,0,16,17,94.1,1,11,0,0,0,Dortmund,2023-05-07 Dortmund-Wolfsburg,GER-BL1,22-23,b4ef9cd4
+e33c06cf,Niklas Süle,25,GER,CB,27-246,90,0,0,0,0,2,0,0,0,70,1,0,0,0.1,0.1,0.0,1,0,63,64,98.4,2,42,0,0,0,Dortmund,2023-05-07 Dortmund-Wolfsburg,GER-BL1,22-23,b4ef9cd4
+fa661778,Marius Wolf,17,GER,RB,27-345,90,0,0,0,0,1,0,0,0,64,2,0,0,0.0,0.0,0.1,2,1,47,56,83.9,7,31,1,6,2,Dortmund,2023-05-07 Dortmund-Wolfsburg,GER-BL1,22-23,b4ef9cd4
+cd59b9df,Gregor Kobel,1,SUI,GK,25-152,90,0,0,0,0,0,0,0,0,42,0,0,0,0.0,0.0,0.0,0,0,35,39,89.7,0,21,0,0,0,Dortmund,2023-05-07 Dortmund-Wolfsburg,GER-BL1,22-23,b4ef9cd4
+cb11b429,Patrick Wimmer,39,AUT,FW,21-342,90,0,0,0,0,3,2,0,0,27,0,0,0,0.8,0.8,0.3,1,0,6,17,35.3,0,13,0,1,1,Wolfsburg,2023-05-07 Dortmund-Wolfsburg,GER-BL1,22-23,b4ef9cd4
+2077ae86,Jonas Wind,23,DEN,FW,24-089,64,0,0,0,0,0,0,0,0,23,0,0,0,0.0,0.0,0.0,2,0,13,19,68.4,5,15,0,1,0,Wolfsburg,2023-05-07 Dortmund-Wolfsburg,GER-BL1,22-23,b4ef9cd4
+0e0102eb,Omar Marmoush,33,EGY,FW,24-089,26,0,0,0,0,2,0,0,0,12,1,0,0,0.1,0.1,0.0,0,0,6,8,75.0,0,6,1,0,0,Wolfsburg,2023-05-07 Dortmund-Wolfsburg,GER-BL1,22-23,b4ef9cd4
+202b3b68,Jakub Kamiński,16,POL,LW,20-336,64,0,0,0,0,2,1,0,0,24,4,1,3,0.4,0.4,0.0,0,0,10,13,76.9,2,10,2,1,0,Wolfsburg,2023-05-07 Dortmund-Wolfsburg,GER-BL1,22-23,b4ef9cd4
+8f325097,Nicolas Cozza,8,FRA,CB,24-119,26,0,0,0,0,0,0,0,0,12,0,0,1,0.0,0.0,0.0,0,0,9,11,81.8,1,7,1,0,0,Wolfsburg,2023-05-07 Dortmund-Wolfsburg,GER-BL1,22-23,b4ef9cd4
+442b56fa,Ridle Baku,20,GER,RW,25-029,45,0,0,0,0,1,0,0,0,28,1,0,0,0.0,0.0,0.0,0,0,17,22,77.3,1,15,0,1,0,Wolfsburg,2023-05-07 Dortmund-Wolfsburg,GER-BL1,22-23,b4ef9cd4
+79f7302a,Kilian Fischer,2,GER,RW,22-207,45,0,0,0,0,0,0,1,0,20,1,0,1,0.0,0.0,0.2,2,0,12,15,80.0,3,10,0,0,0,Wolfsburg,2023-05-07 Dortmund-Wolfsburg,GER-BL1,22-23,b4ef9cd4
+92d83c27,Mattias Svanberg,32,SWE,CM,24-122,64,0,0,0,0,0,0,0,0,26,3,1,0,0.0,0.0,0.1,1,0,13,19,68.4,1,14,1,1,1,Wolfsburg,2023-05-07 Dortmund-Wolfsburg,GER-BL1,22-23,b4ef9cd4
+62ab9184,Yannick Gerhardt,31,GER,CM,29-055,26,0,0,0,0,0,0,0,0,9,1,0,0,0.0,0.0,0.1,1,0,6,8,75.0,2,5,0,0,0,Wolfsburg,2023-05-07 Dortmund-Wolfsburg,GER-BL1,22-23,b4ef9cd4
+091c86e2,Felix Nmecha,22,GER,CM,22-209,90,0,0,0,0,1,0,0,0,46,1,3,0,0.1,0.1,0.1,4,0,30,37,81.1,6,36,2,3,2,Wolfsburg,2023-05-07 Dortmund-Wolfsburg,GER-BL1,22-23,b4ef9cd4
+86e119e0,Maximilian Arnold,27,GER,DM,28-345,90,0,0,0,0,0,0,0,0,41,1,0,0,0.0,0.0,0.7,2,0,34,39,87.2,4,19,0,1,1,Wolfsburg,2023-05-07 Dortmund-Wolfsburg,GER-BL1,22-23,b4ef9cd4
+8fe2a392,Micky van de Ven,5,NED,CB,22-018,90,0,0,0,0,1,0,0,0,53,4,0,0,0.1,0.1,0.0,1,0,43,48,89.6,4,37,1,2,2,Wolfsburg,2023-05-07 Dortmund-Wolfsburg,GER-BL1,22-23,b4ef9cd4
+e6c43eec,Josuha Guilavogui,29,FRA,CB,32-230,45,0,0,0,0,0,0,0,0,40,1,1,0,0.0,0.0,0.0,0,0,34,36,94.4,2,22,0,0,0,Wolfsburg,2023-05-07 Dortmund-Wolfsburg,GER-BL1,22-23,b4ef9cd4
+5c50fdbc,Kevin Paredes,40,USA,"LW,CB",20-000,45,0,0,0,0,0,0,0,0,26,1,0,1,0.0,0.0,0.0,1,0,15,18,83.3,2,16,3,3,0,Wolfsburg,2023-05-07 Dortmund-Wolfsburg,GER-BL1,22-23,b4ef9cd4
+01834aa0,Sebastiaan Bornauw,3,BEL,CB,24-046,90,0,0,0,0,0,0,0,0,64,2,0,5,0.0,0.0,0.0,1,0,49,51,96.1,1,36,0,1,1,Wolfsburg,2023-05-07 Dortmund-Wolfsburg,GER-BL1,22-23,b4ef9cd4
+db401046,Koen Casteels,1,BEL,GK,30-316,90,0,0,0,0,0,0,0,0,43,0,0,0,0.0,0.0,0.0,0,0,30,39,76.9,0,23,0,0,0,Wolfsburg,2023-05-07 Dortmund-Wolfsburg,GER-BL1,22-23,b4ef9cd4

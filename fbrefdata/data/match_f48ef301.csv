@@ -1,0 +1,32 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+5148dcc5,Martin Terrier,7,FRA,FW,24-038,80,1,0,0,0,2,1,0,0,40,0,0,0,0.1,0.1,0.0,3,1,25,32,78.1,1,24,1,0,0,Rennes,2021-04-11 Rennes-Nantes,FRA-L1,20-21,f48ef301
+d14229f3,Adrien Hunou,23,FRA,FW,27-082,10,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,1,4,25.0,0,4,0,0,0,Rennes,2021-04-11 Rennes-Nantes,FRA-L1,20-21,f48ef301
+923f4dda,Serhou Guirassy,9,GUI,FW,25-030,67,0,0,0,0,0,0,1,0,23,0,0,1,0.0,0.0,0.1,4,0,13,16,81.3,0,16,0,1,1,Rennes,2021-04-11 Rennes-Nantes,FRA-L1,20-21,f48ef301
+8b298f56,Clément Grenier,8,FRA,FW,30-094,23,0,0,0,0,0,0,0,0,23,0,0,0,0.0,0.0,0.0,1,0,20,23,87.0,6,11,0,0,0,Rennes,2021-04-11 Rennes-Nantes,FRA-L1,20-21,f48ef301
+a0f9b535,Flavien Tait,20,FRA,LM,28-068,67,0,1,0,0,2,0,1,0,56,3,2,0,0.1,0.1,0.0,3,0,31,38,81.6,4,31,0,5,1,Rennes,2021-04-11 Rennes-Nantes,FRA-L1,20-21,f48ef301
+0be95d34,Romain Del Castillo,22,FRA,LM,25-013,23,0,0,0,0,1,0,0,0,19,4,0,0,0.0,0.0,0.1,1,0,9,13,69.2,0,13,0,1,0,Rennes,2021-04-11 Rennes-Nantes,FRA-L1,20-21,f48ef301
+7b9c2d84,Eduardo Camavinga,10,FRA,CM,18-152,90,0,0,0,0,1,1,1,0,77,6,1,1,0.0,0.0,0.0,3,0,53,62,85.5,3,42,2,2,2,Rennes,2021-04-11 Rennes-Nantes,FRA-L1,20-21,f48ef301
+c7526c18,Steven Nzonzi,15,FRA,CM,32-117,90,0,0,0,0,0,0,0,0,96,1,1,0,0.0,0.0,0.1,3,0,88,92,95.7,7,49,1,1,1,Rennes,2021-04-11 Rennes-Nantes,FRA-L1,20-21,f48ef301
+20e73fac,Benjamin Bourigeaud,14,FRA,RM,27-087,90,0,0,0,0,2,0,0,0,69,2,2,2,0.1,0.1,0.1,1,0,38,55,69.1,6,33,0,2,1,Rennes,2021-04-11 Rennes-Nantes,FRA-L1,20-21,f48ef301
+5d0e0a1f,Adrien Truffert,31,FRA,LB,19-142,63,0,0,0,0,2,0,0,0,85,1,1,0,0.0,0.0,0.0,1,1,66,76,86.8,5,50,1,1,1,Rennes,2021-04-11 Rennes-Nantes,FRA-L1,20-21,f48ef301
+e54a9890,Faitout Maouassa,17,FRA,LB,22-279,27,0,0,0,0,1,1,0,0,18,1,0,0,0.0,0.0,0.0,3,0,12,17,70.6,1,11,1,0,0,Rennes,2021-04-11 Rennes-Nantes,FRA-L1,20-21,f48ef301
+288e1e13,Nayef Aguerd,6,MAR,CB,25-012,90,0,0,0,0,1,0,1,0,82,1,1,0,0.1,0.1,0.0,0,0,70,79,88.6,1,62,0,0,0,Rennes,2021-04-11 Rennes-Nantes,FRA-L1,20-21,f48ef301
+1ec7e1c5,Damien Da Silva,3,FRA,CB,32-329,90,0,0,0,0,0,0,1,0,67,3,1,0,0.0,0.0,0.0,0,0,52,60,86.7,2,40,0,0,0,Rennes,2021-04-11 Rennes-Nantes,FRA-L1,20-21,f48ef301
+a4b1028a,Hamari Traoré,27,MLI,RB,29-074,90,0,0,0,0,2,1,0,0,89,1,3,1,0.1,0.1,0.0,1,0,62,77,80.5,3,47,2,0,0,Rennes,2021-04-11 Rennes-Nantes,FRA-L1,20-21,f48ef301
+cecbce23,Alfred Gomis,16,SEN,GK,27-218,90,0,0,0,0,0,0,0,0,39,0,0,0,0.0,0.0,0.0,0,0,24,38,63.2,0,23,0,0,0,Rennes,2021-04-11 Rennes-Nantes,FRA-L1,20-21,f48ef301
+c0b3669f,Randal Kolo Muani,23,FRA,FW,22-127,90,0,0,0,0,1,0,0,0,44,0,0,1,0.1,0.1,0.0,1,0,15,30,50.0,0,24,2,6,2,Nantes,2021-04-11 Rennes-Nantes,FRA-L1,20-21,f48ef301
+5f3eaaf5,Moses Simon,27,NGA,FW,25-273,74,0,0,0,0,0,0,1,0,12,1,1,0,0.0,0.0,0.0,0,0,3,5,60.0,0,7,1,2,0,Nantes,2021-04-11 Rennes-Nantes,FRA-L1,20-21,f48ef301
+5c9ac7f0,Renaud Emond,28,BEL,FW,29-127,16,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,2,0,0,0,Nantes,2021-04-11 Rennes-Nantes,FRA-L1,20-21,f48ef301
+ef7cd87a,Abdoulaye Touré,19,GUI,CM,27-039,74,0,0,0,0,0,0,0,0,42,0,0,1,0.0,0.0,0.0,0,0,28,33,84.8,5,27,2,6,4,Nantes,2021-04-11 Rennes-Nantes,FRA-L1,20-21,f48ef301
+9980269a,Kalifa Coulibaly,7,MLI,CM,29-233,16,0,0,0,0,1,1,0,0,8,0,0,0,0.1,0.1,0.0,0,0,3,7,42.9,1,3,0,2,2,Nantes,2021-04-11 Rennes-Nantes,FRA-L1,20-21,f48ef301
+e1df6989,Imran Louza,26,MAR,CM,21-345,86,0,0,0,0,1,0,0,0,52,4,4,2,0.1,0.1,0.0,1,0,33,38,86.8,3,22,1,1,1,Nantes,2021-04-11 Rennes-Nantes,FRA-L1,20-21,f48ef301
+68a26d51,Pedro Chirivella,5,ESP,CM,23-323,4,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.1,1,0,5,6,83.3,2,3,0,0,0,Nantes,2021-04-11 Rennes-Nantes,FRA-L1,20-21,f48ef301
+6191093d,Ludovic Blas,10,FRA,"CM,RM",23-101,90,0,0,0,0,1,1,0,0,56,3,1,1,0.0,0.0,0.0,1,0,36,44,81.8,3,41,2,4,2,Nantes,2021-04-11 Rennes-Nantes,FRA-L1,20-21,f48ef301
+bc7b4580,Fábio,2,BRA,"WB,RB",30-276,90,0,0,0,0,0,0,0,0,56,0,2,2,0.0,0.0,0.0,0,0,40,47,85.1,3,20,2,1,1,Nantes,2021-04-11 Rennes-Nantes,FRA-L1,20-21,f48ef301
+0e7ccfc4,Sébastien Corchia,24,FRA,WB,30-161,64,0,0,0,0,0,0,0,0,25,1,1,0,0.0,0.0,0.0,1,0,9,18,50.0,1,10,2,2,0,Nantes,2021-04-11 Rennes-Nantes,FRA-L1,20-21,f48ef301
+32f3d97e,Abdoul Kader Bamba,32,FRA,LM,26-321,26,0,0,0,0,0,0,0,0,22,0,0,1,0.0,0.0,0.1,2,0,12,15,80.0,3,19,1,6,2,Nantes,2021-04-11 Rennes-Nantes,FRA-L1,20-21,f48ef301
+de488e56,Charles Traore,14,MLI,"CB,LB",29-100,90,0,0,0,0,0,0,0,0,55,3,3,2,0.0,0.0,0.0,0,0,30,42,71.4,4,30,1,0,0,Nantes,2021-04-11 Rennes-Nantes,FRA-L1,20-21,f48ef301
+779847d6,Nicolas Pallois,4,FRA,CB,33-204,90,0,0,0,0,0,0,0,0,60,3,2,1,0.0,0.0,0.0,0,0,28,41,68.3,2,19,0,1,0,Nantes,2021-04-11 Rennes-Nantes,FRA-L1,20-21,f48ef301
+e0f3a1f6,Jean-Charles Castelletto,21,CMR,CB,26-075,90,0,0,0,0,0,0,1,0,45,2,1,2,0.0,0.0,0.0,0,0,25,36,69.4,3,17,1,0,0,Nantes,2021-04-11 Rennes-Nantes,FRA-L1,20-21,f48ef301
+4e7db402,Alban Lafont,1,FRA,GK,22-078,90,0,0,0,0,0,0,0,0,26,0,0,1,0.0,0.0,0.0,0,0,15,22,68.2,0,13,0,0,0,Nantes,2021-04-11 Rennes-Nantes,FRA-L1,20-21,f48ef301

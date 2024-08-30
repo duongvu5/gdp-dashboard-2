@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+7cdda3bf,Gaëtan Laborde,24,FRA,FW,27-258,90,1,1,0,0,8,2,0,0,39,2,0,2,1.2,1.2,0.1,3,2,13,24,54.2,1,19,2,0,0,Rennes,2022-01-16 Rennes-Bordeaux,FRA-L1,21-22,5680ee6e
+5148dcc5,Martin Terrier,7,FRA,FW,24-318,67,1,0,0,0,3,1,0,0,26,0,1,3,0.5,0.5,0.0,1,1,13,17,76.5,3,17,0,1,0,Rennes,2022-01-16 Rennes-Bordeaux,FRA-L1,21-22,5680ee6e
+fc46aab1,Lovro Majer,21,CRO,"FW,CM",23-364,23,0,1,0,0,1,1,0,0,26,0,0,3,0.1,0.1,0.5,2,1,16,20,80.0,2,15,1,0,0,Rennes,2022-01-16 Rennes-Bordeaux,FRA-L1,21-22,5680ee6e
+20e73fac,Benjamin Bourigeaud,14,FRA,LM,28-002,86,1,0,0,0,1,1,0,0,71,1,1,1,0.1,0.1,0.5,7,1,42,61,68.9,6,37,1,1,1,Rennes,2022-01-16 Rennes-Bordeaux,FRA-L1,21-22,5680ee6e
+9b5237b1,Andy Diouf,19,FRA,LM,18-244,4,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.3,1,0,2,2,100.0,0,1,0,0,0,Rennes,2022-01-16 Rennes-Bordeaux,FRA-L1,21-22,5680ee6e
+468fdbad,Jonas Martin,28,FRA,CM,31-282,74,0,1,0,0,1,0,0,0,88,1,1,1,0.2,0.2,0.2,2,1,67,78,85.9,12,66,0,0,0,Rennes,2022-01-16 Rennes-Bordeaux,FRA-L1,21-22,5680ee6e
+923f4dda,Serhou Guirassy,9,GUI,"CM,FW",25-310,16,2,0,0,0,2,2,0,0,6,0,0,0,0.4,0.4,0.0,2,0,3,4,75.0,3,5,2,0,0,Rennes,2022-01-16 Rennes-Bordeaux,FRA-L1,21-22,5680ee6e
+5e22e2a4,Baptiste Santamaria,8,FRA,CM,26-313,90,0,0,0,0,0,0,0,0,75,2,0,1,0.0,0.0,0.0,1,0,55,65,84.6,5,44,2,1,0,Rennes,2022-01-16 Rennes-Bordeaux,FRA-L1,21-22,5680ee6e
+fffea3e5,Jeremy Doku,11,BEL,RM,19-234,85,0,1,0,0,0,0,0,0,44,1,0,0,0.0,0.0,0.8,7,3,26,36,72.2,10,38,7,3,2,Rennes,2022-01-16 Rennes-Bordeaux,FRA-L1,21-22,5680ee6e
+829aa60c,Mathys Tel,39,FRA,RM,16-264,5,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,3,4,75.0,0,3,0,0,0,Rennes,2022-01-16 Rennes-Bordeaux,FRA-L1,21-22,5680ee6e
+70c52749,Birger Meling,25,NOR,LB,27-030,67,0,0,0,0,0,0,1,0,43,3,2,1,0.0,0.0,0.0,3,1,29,34,85.3,4,28,1,0,0,Rennes,2022-01-16 Rennes-Bordeaux,FRA-L1,21-22,5680ee6e
+5d0e0a1f,Adrien Truffert,3,FRA,LB,20-057,23,1,0,0,0,2,1,0,0,23,2,0,0,0.6,0.6,0.0,0,0,11,14,78.6,0,12,1,0,0,Rennes,2022-01-16 Rennes-Bordeaux,FRA-L1,21-22,5680ee6e
+114bbdee,Loïc Bade,4,FRA,CB,21-280,90,0,0,0,0,0,0,0,0,74,1,2,1,0.0,0.0,0.0,0,0,60,65,92.3,6,55,1,1,1,Rennes,2022-01-16 Rennes-Bordeaux,FRA-L1,21-22,5680ee6e
+4534a352,Warmed Omari,23,FRA,CB,21-268,90,0,0,0,0,0,0,0,0,61,1,1,1,0.0,0.0,0.0,1,1,49,56,87.5,2,46,1,0,0,Rennes,2022-01-16 Rennes-Bordeaux,FRA-L1,21-22,5680ee6e
+b026bbf6,Lorenz Assignon,22,TOG,RB,21-208,90,0,0,0,0,1,1,0,0,60,1,2,1,0.1,0.1,0.2,3,0,42,55,76.4,8,32,3,1,1,Rennes,2022-01-16 Rennes-Bordeaux,FRA-L1,21-22,5680ee6e
+9e17ccff,Doğan Alemdar,40,TUR,GK,19-079,90,0,0,0,0,0,0,0,0,18,0,0,0,0.0,0.0,0.0,0,0,12,15,80.0,0,9,0,0,0,Rennes,2022-01-16 Rennes-Bordeaux,FRA-L1,21-22,5680ee6e
+a2d873dd,Hwang Ui-jo,18,KOR,FW,29-141,82,0,0,0,0,0,0,0,0,21,0,1,0,0.0,0.0,0.0,0,0,14,15,93.3,3,11,0,1,0,Bordeaux,2022-01-16 Rennes-Bordeaux,FRA-L1,21-22,5680ee6e
+bc0bfc64,Josh Maja,9,NGA,FW,23-020,8,0,0,0,0,0,0,0,0,8,0,0,1,0.0,0.0,0.1,2,0,4,4,100.0,1,3,0,0,0,Bordeaux,2022-01-16 Rennes-Bordeaux,FRA-L1,21-22,5680ee6e
+2054d037,M'Baye Niang,23,SEN,FW,27-028,57,0,0,0,0,0,0,0,0,13,0,0,0,0.0,0.0,0.0,0,0,8,11,72.7,0,3,0,0,0,Bordeaux,2022-01-16 Rennes-Bordeaux,FRA-L1,21-22,5680ee6e
+104b4ad3,Alberth Elis,29,HON,"FW,RM",25-338,33,0,0,0,0,1,0,0,0,15,0,0,0,0.0,0.0,0.0,0,0,5,8,62.5,3,14,2,2,0,Bordeaux,2022-01-16 Rennes-Bordeaux,FRA-L1,21-22,5680ee6e
+ea02beaf,Remi Oudin,28,FRA,LM,25-059,71,0,0,0,0,0,0,1,0,38,3,0,0,0.0,0.0,0.0,0,0,17,29,58.6,0,19,2,3,2,Bordeaux,2022-01-16 Rennes-Bordeaux,FRA-L1,21-22,5680ee6e
+34a0f5ff,Javairô Dilrosun,21,NED,LM,23-208,19,0,0,0,0,3,1,0,0,13,0,1,0,0.2,0.2,0.0,3,0,7,10,70.0,3,9,1,2,2,Bordeaux,2022-01-16 Rennes-Bordeaux,FRA-L1,21-22,5680ee6e
+792a9d41,Issouf Sissokho,20,MLI,CM,19-351,49,0,0,0,0,0,0,2,1,28,0,1,2,0.0,0.0,0.0,0,0,14,22,63.6,0,10,0,1,1,Bordeaux,2022-01-16 Rennes-Bordeaux,FRA-L1,21-22,5680ee6e
+295ba708,Tom Lacoux,27,FRA,CM,19-356,57,0,0,0,0,0,0,1,0,23,0,0,0,0.0,0.0,0.0,0,0,15,16,93.8,1,10,0,0,0,Bordeaux,2022-01-16 Rennes-Bordeaux,FRA-L1,21-22,5680ee6e
+deba6b05,Fransérgio,13,BRA,CM,31-090,33,0,0,0,0,0,0,0,0,17,0,2,0,0.0,0.0,0.0,0,0,13,15,86.7,3,8,0,0,0,Bordeaux,2022-01-16 Rennes-Bordeaux,FRA-L1,21-22,5680ee6e
+26777636,Yacine Adli,19,FRA,"RM,CM",21-171,90,0,0,0,0,1,0,1,0,71,1,3,2,0.0,0.0,0.0,3,0,43,59,72.9,8,33,1,2,1,Bordeaux,2022-01-16 Rennes-Bordeaux,FRA-L1,21-22,5680ee6e
+eef2d8ce,Ricardo Mangas,12,POR,LB,23-303,90,0,0,0,0,0,0,0,0,48,0,1,0,0.0,0.0,0.0,0,0,32,39,82.1,0,23,1,0,0,Bordeaux,2022-01-16 Rennes-Bordeaux,FRA-L1,21-22,5680ee6e
+ce492295,Mexer,4,MOZ,CB,33-130,90,0,0,0,0,0,0,0,0,57,0,3,4,0.0,0.0,0.0,0,0,40,47,85.1,1,31,0,1,1,Bordeaux,2022-01-16 Rennes-Bordeaux,FRA-L1,21-22,5680ee6e
+5f011e05,Stian Rode Gregersen,2,NOR,CB,26-244,90,0,0,0,0,0,0,0,0,55,2,4,2,0.0,0.0,0.0,0,0,23,38,60.5,1,24,0,0,0,Bordeaux,2022-01-16 Rennes-Bordeaux,FRA-L1,21-22,5680ee6e
+f8ce97ca,Timothee Pembele,22,FRA,RB,19-129,71,0,0,0,0,0,0,0,0,45,1,2,0,0.0,0.0,0.0,0,0,22,34,64.7,0,19,4,4,1,Bordeaux,2022-01-16 Rennes-Bordeaux,FRA-L1,21-22,5680ee6e
+4bf69118,Enock Kwateng,25,FRA,RB,24-282,19,0,0,0,0,0,0,0,0,22,0,1,0,0.0,0.0,0.0,1,0,14,17,82.4,1,9,0,1,1,Bordeaux,2022-01-16 Rennes-Bordeaux,FRA-L1,21-22,5680ee6e
+2434f24a,Benoît Costil,1,FRA,GK,34-197,90,0,0,0,0,0,0,0,0,50,0,0,0,0.0,0.0,0.0,0,0,32,47,68.1,0,26,0,0,0,Bordeaux,2022-01-16 Rennes-Bordeaux,FRA-L1,21-22,5680ee6e

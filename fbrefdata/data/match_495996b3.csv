@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+3745e8bd,Sebastian Polter,40,GER,"FW,LW",32-322,90,0,0,0,0,4,0,0,0,29,0,0,2,0.4,0.4,0.0,2,1,9,15,60.0,2,19,1,0,0,Darmstadt 98,2024-02-17 Darmstadt 98-Stuttgart,GER-BL1,23-24,495996b3
+83e1f40e,Luca Pfeiffer,24,GER,FW,27-181,73,0,0,0,0,4,3,0,0,19,1,0,0,0.9,0.9,0.0,1,0,12,14,85.7,0,13,0,0,0,Darmstadt 98,2024-02-17 Darmstadt 98-Stuttgart,GER-BL1,23-24,495996b3
+85b6462d,Aaron Seydel,22,GER,"FW,AM",28-010,17,1,0,0,0,4,3,0,0,15,0,0,0,0.2,0.2,0.0,0,0,5,8,62.5,1,5,0,0,0,Darmstadt 98,2024-02-17 Darmstadt 98-Stuttgart,GER-BL1,23-24,495996b3
+ab1a72b4,Julian Justvan,17,GER,"AM,FW",25-321,90,0,0,0,0,3,1,1,0,49,0,0,0,0.2,0.2,0.4,6,0,27,40,67.5,8,31,1,2,0,Darmstadt 98,2024-02-17 Darmstadt 98-Stuttgart,GER-BL1,23-24,495996b3
+017018d1,Fabian Holland,32,GER,"CM,CB,DM",33-221,90,0,0,0,0,0,0,0,0,76,4,0,1,0.0,0.0,0.0,2,0,56,67,83.6,6,56,0,0,0,Darmstadt 98,2024-02-17 Darmstadt 98-Stuttgart,GER-BL1,23-24,495996b3
+10876d02,Marvin Mehlem,6,GER,CM,26-159,85,0,0,0,0,0,0,0,0,42,1,0,2,0.0,0.0,0.2,5,0,29,38,76.3,3,31,1,1,1,Darmstadt 98,2024-02-17 Darmstadt 98-Stuttgart,GER-BL1,23-24,495996b3
+8575037f,Fabian Schnellhardt,8,GER,RW,30-036,5,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,1,0,0,0,Darmstadt 98,2024-02-17 Darmstadt 98-Stuttgart,GER-BL1,23-24,495996b3
+7bbb0ac4,Emir Karic,19,AUT,WB,26-253,73,0,0,0,0,0,0,0,0,64,0,0,2,0.0,0.0,0.1,3,0,47,56,83.9,6,42,4,3,3,Darmstadt 98,2024-02-17 Darmstadt 98-Stuttgart,GER-BL1,23-24,495996b3
+9b5d89b3,Fabio Torsiello,42,ITA,"WB,RB",19-015,17,0,0,0,0,1,0,0,0,7,0,0,0,0.0,0.0,0.0,1,0,3,4,75.0,1,7,1,1,1,Darmstadt 98,2024-02-17 Darmstadt 98-Stuttgart,GER-BL1,23-24,495996b3
+3489184e,Matthias Bader,26,GER,"WB,DM",26-245,90,0,0,0,0,0,0,0,0,70,1,0,1,0.0,0.0,0.2,3,0,46,58,79.3,6,38,3,4,1,Darmstadt 98,2024-02-17 Darmstadt 98-Stuttgart,GER-BL1,23-24,495996b3
+144e8717,Christoph Klarer,14,AUT,CB,23-248,45,0,0,0,0,0,0,1,0,35,0,0,0,0.0,0.0,0.0,1,0,29,31,93.5,2,22,0,0,0,Darmstadt 98,2024-02-17 Darmstadt 98-Stuttgart,GER-BL1,23-24,495996b3
+178018f9,Fabian Nürnberger,15,GER,"CM,LB",24-204,45,0,0,0,0,2,0,0,0,38,0,1,0,0.1,0.1,0.0,3,0,23,33,69.7,5,28,2,0,0,Darmstadt 98,2024-02-17 Darmstadt 98-Stuttgart,GER-BL1,23-24,495996b3
+431c837b,Klaus Gjasula,23,ALB,CB,34-065,85,0,0,0,0,1,0,0,0,62,2,2,4,0.0,0.0,0.0,1,0,42,46,91.3,4,37,0,0,0,Darmstadt 98,2024-02-17 Darmstadt 98-Stuttgart,GER-BL1,23-24,495996b3
+e7f4869a,Oscar Vilhelmsson,29,SWE,CB,20-138,5,0,1,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.1,1,1,2,3,66.7,0,1,0,0,0,Darmstadt 98,2024-02-17 Darmstadt 98-Stuttgart,GER-BL1,23-24,495996b3
+2d5f03bf,Christoph Zimmermann,4,GER,CB,31-036,90,0,0,0,0,1,0,1,0,87,1,4,0,0.0,0.0,0.0,6,0,60,72,83.3,5,47,1,1,1,Darmstadt 98,2024-02-17 Darmstadt 98-Stuttgart,GER-BL1,23-24,495996b3
+5fa2e0cf,Marcel Schuhen,1,GER,GK,31-035,90,0,0,0,0,0,0,0,0,47,0,0,0,0.0,0.0,0.0,1,0,40,45,88.9,1,30,0,0,0,Darmstadt 98,2024-02-17 Darmstadt 98-Stuttgart,GER-BL1,23-24,495996b3
+923f4dda,Serhou Guirassy,9,GUI,FW,27-342,62,1,0,0,0,1,1,0,0,33,0,0,0,0.5,0.5,0.1,2,0,19,24,79.2,1,25,0,0,0,Stuttgart,2024-02-17 Darmstadt 98-Stuttgart,GER-BL1,23-24,495996b3
+f76022e7,Enzo Millot,8,FRA,"AM,RM",21-215,28,0,0,0,0,1,1,0,0,10,1,1,0,0.0,0.0,0.0,1,1,4,6,66.7,0,9,0,1,1,Stuttgart,2024-02-17 Darmstadt 98-Stuttgart,GER-BL1,23-24,495996b3
+0cf778df,Chris Führich,27,GER,LW,26-039,71,0,0,0,0,1,1,1,0,33,1,0,1,0.0,0.0,0.2,3,1,18,23,78.3,1,22,0,5,2,Stuttgart,2024-02-17 Darmstadt 98-Stuttgart,GER-BL1,23-24,495996b3
+6190474d,Jeong Woo-yeong,10,KOR,AM,24-150,19,0,0,0,0,2,0,0,0,10,1,0,0,0.1,0.1,0.0,0,0,3,5,60.0,1,6,2,0,0,Stuttgart,2024-02-17 Darmstadt 98-Stuttgart,GER-BL1,23-24,495996b3
+13fe7b69,Jamie Leweling,18,GER,RW,22-356,45,0,0,0,0,0,0,1,0,16,0,0,1,0.0,0.0,0.0,1,0,10,12,83.3,1,9,5,0,0,Stuttgart,2024-02-17 Darmstadt 98-Stuttgart,GER-BL1,23-24,495996b3
+fb377d11,Josha Vagnoman,4,GER,"RB,LB",23-068,45,0,0,0,0,0,0,0,0,26,2,0,1,0.0,0.0,0.0,0,0,19,22,86.4,1,13,0,0,0,Stuttgart,2024-02-17 Darmstadt 98-Stuttgart,GER-BL1,23-24,495996b3
+dd549382,Deniz Undav,26,GER,"AM,RW",27-213,80,0,0,0,0,3,0,0,0,37,0,1,0,0.3,0.3,0.1,4,1,16,25,64.0,2,25,1,3,1,Stuttgart,2024-02-17 Darmstadt 98-Stuttgart,GER-BL1,23-24,495996b3
+db4ed67b,Mahmoud Dahoud,5,GER,RM,28-047,10,1,0,0,0,1,1,0,0,9,0,0,0,0.5,0.5,0.1,2,0,6,7,85.7,1,5,0,0,0,Stuttgart,2024-02-17 Darmstadt 98-Stuttgart,GER-BL1,23-24,495996b3
+3b1ed320,Angelo Stiller,6,GER,"DM,LM",22-319,90,0,0,0,0,0,0,0,0,70,1,1,1,0.0,0.0,0.0,4,0,50,62,80.6,6,51,1,2,0,Stuttgart,2024-02-17 Darmstadt 98-Stuttgart,GER-BL1,23-24,495996b3
+5762be5c,Atakan Karazor,16,GER,"DM,CM",27-127,90,0,0,0,0,1,0,1,0,61,5,1,0,0.1,0.1,0.1,3,0,42,48,87.5,6,42,3,0,0,Stuttgart,2024-02-17 Darmstadt 98-Stuttgart,GER-BL1,23-24,495996b3
+88d4144a,Maximilian Mittelstädt,7,GER,LB,26-336,80,0,0,0,0,1,0,0,0,50,3,0,1,0.1,0.1,0.0,1,0,28,33,84.8,2,24,1,1,0,Stuttgart,2024-02-17 Darmstadt 98-Stuttgart,GER-BL1,23-24,495996b3
+08391d76,Leonidas Stergiou,20,SUI,RB,21-351,10,0,0,0,0,0,0,0,0,8,0,1,0,0.0,0.0,0.0,1,0,3,6,50.0,0,3,0,0,0,Stuttgart,2024-02-17 Darmstadt 98-Stuttgart,GER-BL1,23-24,495996b3
+204dded0,Hiroki Ito,21,JPN,CB,24-281,90,0,0,0,0,1,0,0,0,38,0,0,4,0.0,0.0,0.0,0,0,20,25,80.0,1,17,0,0,0,Stuttgart,2024-02-17 Darmstadt 98-Stuttgart,GER-BL1,23-24,495996b3
+5e66fa06,Waldemar Anton,2,GER,CB,27-212,90,0,1,0,0,1,0,0,0,43,1,1,1,0.1,0.1,0.5,0,0,23,30,76.7,0,22,0,0,0,Stuttgart,2024-02-17 Darmstadt 98-Stuttgart,GER-BL1,23-24,495996b3
+99f7e9aa,Pascal Stenzel,15,GER,RB,27-334,44,0,0,0,0,1,0,2,1,34,0,0,1,0.0,0.0,0.0,1,0,23,30,76.7,1,19,2,0,0,Stuttgart,2024-02-17 Darmstadt 98-Stuttgart,GER-BL1,23-24,495996b3
+d28339cb,Fabian Bredlow,1,GER,GK,28-352,90,0,0,0,0,0,0,0,0,53,0,0,0,0.0,0.0,0.0,0,0,26,48,54.2,0,32,0,0,0,Stuttgart,2024-02-17 Darmstadt 98-Stuttgart,GER-BL1,23-24,495996b3

@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+6f8cd6d0,Marcus Thuram,21,FRA,FW,20-104,90,0,0,0,0,3,0,1,0,33,1,0,0,0.2,0.2,0.0,2,1,14,25,56.0,3,19,2,0,0,Guingamp,2017-11-18 Guingamp-Angers,FRA-L1,17-18,e3c4f97b
+f83c8d6c,Jimmy Briand,23,FRA,LW,32-108,90,0,0,0,0,0,0,0,0,27,1,0,0,0.0,0.0,0.1,2,0,10,17,58.8,1,13,0,1,0,Guingamp,2017-11-18 Guingamp-Angers,FRA-L1,17-18,e3c4f97b
+07296190,Abdoul Camara,9,GUI,RW,27-271,63,1,0,0,0,1,1,0,0,25,2,0,0,0.4,0.4,0.0,1,0,15,19,78.9,3,18,5,2,2,Guingamp,2017-11-18 Guingamp-Angers,FRA-L1,17-18,e3c4f97b
+6c6ecdd4,Mustapha Diallo,5,SEN,DM,31-188,27,0,0,0,0,1,0,0,0,10,0,0,0,0.3,0.3,0.0,1,0,3,8,37.5,0,2,0,0,0,Guingamp,2017-11-18 Guingamp-Angers,FRA-L1,17-18,e3c4f97b
+bb4a42be,Yannis Salibur,19,FRA,"AM,RW",26-298,79,0,0,0,0,2,0,0,0,35,2,1,1,0.1,0.1,0.1,1,0,13,23,56.5,3,16,2,2,2,Guingamp,2017-11-18 Guingamp-Angers,FRA-L1,17-18,e3c4f97b
+3010aefb,Marcus Coco,24,FRA,RW,21-147,11,0,0,0,0,0,0,0,0,5,1,0,0,0.0,0.0,0.0,0,0,1,4,25.0,0,1,0,0,0,Guingamp,2017-11-18 Guingamp-Angers,FRA-L1,17-18,e3c4f97b
+44f8c299,Lucas Deaux,8,FRA,DM,28-327,60,0,0,0,0,1,1,2,1,31,3,0,1,0.1,0.1,0.0,0,0,15,25,60.0,5,10,0,0,0,Guingamp,2017-11-18 Guingamp-Angers,FRA-L1,17-18,e3c4f97b
+d2aa8ac0,Étienne Didot,17,FRA,DM,34-117,88,0,0,0,0,0,0,0,0,50,3,1,0,0.0,0.0,0.0,2,0,31,42,73.8,4,24,0,0,0,Guingamp,2017-11-18 Guingamp-Angers,FRA-L1,17-18,e3c4f97b
+167d5018,Félix Eboa Eboa,20,CMR,DM,20-213,2,0,0,0,0,1,0,0,0,3,0,0,0,0.1,0.1,0.0,0,0,0,2,0.0,0,0,0,0,0,Guingamp,2017-11-18 Guingamp-Angers,FRA-L1,17-18,e3c4f97b
+15e1afd5,Franck Tabanou,27,FRA,LB,28-292,90,0,1,0,0,0,0,1,0,58,1,2,1,0.0,0.0,0.8,4,1,29,49,59.2,3,20,1,1,1,Guingamp,2017-11-18 Guingamp-Angers,FRA-L1,17-18,e3c4f97b
+7768df30,Jérémy Sorbon,15,FRA,CB,34-105,90,0,0,0,0,0,0,0,0,27,1,1,0,0.0,0.0,0.0,1,0,17,21,81.0,1,7,0,0,0,Guingamp,2017-11-18 Guingamp-Angers,FRA-L1,17-18,e3c4f97b
+0515a4cb,Christophe Kerbrat,29,FRA,CB,31-108,90,0,0,0,0,0,0,0,0,40,0,0,0,0.0,0.0,0.0,0,0,25,37,67.6,2,16,1,0,0,Guingamp,2017-11-18 Guingamp-Angers,FRA-L1,17-18,e3c4f97b
+b51242ef,Jonathan Martins Pereira,22,FRA,RB,31-292,90,0,0,0,0,0,0,0,0,64,4,4,2,0.0,0.0,0.2,3,0,34,46,73.9,3,15,0,0,0,Guingamp,2017-11-18 Guingamp-Angers,FRA-L1,17-18,e3c4f97b
+a56bd2ee,Karl-Johan Johnsson,1,SWE,GK,27-294,90,0,0,0,0,0,0,0,0,30,0,0,0,0.0,0.0,0.0,0,0,9,27,33.3,0,10,0,0,0,Guingamp,2017-11-18 Guingamp-Angers,FRA-L1,17-18,e3c4f97b
+06f33dc8,Enzo Crivelli,9,FRA,FW,22-285,70,0,0,0,0,1,0,1,0,20,1,0,0,0.1,0.1,0.0,1,0,8,14,57.1,1,14,0,0,0,Angers,2017-11-18 Guingamp-Angers,FRA-L1,17-18,e3c4f97b
+9453d2f4,Baptiste Guillaume,19,BEL,FW,22-155,20,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,1,4,25.0,0,2,0,0,0,Angers,2017-11-18 Guingamp-Angers,FRA-L1,17-18,e3c4f97b
+5ceba7fc,Karl Toko Ekambi,7,CMR,LM,25-065,90,0,1,0,0,0,0,1,0,31,0,0,0,0.0,0.0,0.0,3,1,18,25,72.0,1,28,5,4,2,Angers,2017-11-18 Guingamp-Angers,FRA-L1,17-18,e3c4f97b
+c801616a,Thomas Mangani,5,FRA,CM,30-203,90,0,0,0,0,2,1,0,0,89,2,2,1,0.1,0.1,0.1,3,0,51,80,63.8,8,51,0,1,0,Angers,2017-11-18 Guingamp-Angers,FRA-L1,17-18,e3c4f97b
+85a44ecc,Lassana Coulibaly,12,MLI,CM,21-222,81,0,0,0,0,0,0,0,0,35,2,0,1,0.0,0.0,0.1,5,1,25,30,83.3,6,31,3,2,2,Angers,2017-11-18 Guingamp-Angers,FRA-L1,17-18,e3c4f97b
+06f46837,Billy Ketkeophomphone,14,LAO,CM,27-239,9,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,6,7,85.7,1,6,0,0,0,Angers,2017-11-18 Guingamp-Angers,FRA-L1,17-18,e3c4f97b
+a0f9b535,Flavien Tait,20,FRA,RM,24-289,73,0,0,0,0,0,0,0,0,43,1,0,1,0.0,0.0,0.0,3,0,28,36,77.8,2,27,4,3,2,Angers,2017-11-18 Guingamp-Angers,FRA-L1,17-18,e3c4f97b
+beff5d14,Gilles Sunu,10,TOG,RM,26-233,17,0,0,0,0,0,0,1,0,10,0,0,0,0.0,0.0,0.0,0,0,6,10,60.0,1,10,1,0,0,Angers,2017-11-18 Guingamp-Angers,FRA-L1,17-18,e3c4f97b
+ec1aa15e,Mehdi Tahrat,26,ALG,DM,27-298,90,0,0,0,0,2,1,0,0,71,3,1,0,0.0,0.0,0.0,0,0,44,60,73.3,5,36,3,3,3,Angers,2017-11-18 Guingamp-Angers,FRA-L1,17-18,e3c4f97b
+872cd68c,Yoann Andreu,3,FRA,LB,28-199,90,1,0,0,0,2,1,0,0,74,2,1,0,0.0,0.0,0.0,2,0,53,64,82.8,3,36,3,1,0,Angers,2017-11-18 Guingamp-Angers,FRA-L1,17-18,e3c4f97b
+275e2c51,Romain Thomas,24,FRA,CB,29-159,90,0,0,0,0,1,0,0,0,63,0,1,2,0.1,0.1,0.0,2,0,45,56,80.4,1,39,0,0,0,Angers,2017-11-18 Guingamp-Angers,FRA-L1,17-18,e3c4f97b
+450e277f,Mateo Pavlović,4,BIH,CB,27-162,90,0,0,0,0,1,0,1,0,62,0,0,0,0.1,0.1,0.0,0,0,41,47,87.2,7,36,0,0,0,Angers,2017-11-18 Guingamp-Angers,FRA-L1,17-18,e3c4f97b
+c26a3918,Vincent Manceau,29,FRA,RB,28-131,90,0,0,0,0,1,0,0,0,67,1,1,2,0.0,0.0,0.0,0,0,46,58,79.3,5,39,0,0,0,Angers,2017-11-18 Guingamp-Angers,FRA-L1,17-18,e3c4f97b
+e39f8724,Mathieu Michel,1,FRA,GK,26-075,90,0,0,0,0,0,0,0,0,22,0,0,0,0.0,0.0,0.0,0,0,12,22,54.5,0,8,0,0,0,Angers,2017-11-18 Guingamp-Angers,FRA-L1,17-18,e3c4f97b

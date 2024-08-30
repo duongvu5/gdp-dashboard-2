@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+d7d32194,Mattia Destro,23,ITA,FW,30-276,71,0,0,0,0,0,0,0,0,20,0,0,0,0.0,0.0,0.0,0,0,5,13,38.5,2,13,0,1,1,Genoa,2021-12-21 Genoa-Atalanta,ITA-SERIA_A,21-22,2c2fe99f
+d711d04f,Goran Pandev,19,MKD,FW,38-147,19,0,0,0,0,0,0,0,0,12,0,0,0,0.0,0.0,0.0,0,0,6,11,54.5,1,9,0,0,0,Genoa,2021-12-21 Genoa-Atalanta,ITA-SERIA_A,21-22,2c2fe99f
+7afbd2c3,Caleb Ekuban,20,GHA,FW,27-273,90,0,0,0,0,1,0,0,0,44,2,0,2,0.0,0.0,0.0,1,0,17,24,70.8,1,30,0,6,5,Genoa,2021-12-21 Genoa-Atalanta,ITA-SERIA_A,21-22,2c2fe99f
+c8c0dccd,Manolo Portanova,90,ITA,CM,21-202,86,0,0,0,0,0,0,0,0,33,1,0,1,0.0,0.0,0.0,0,0,6,19,31.6,2,20,1,4,0,Genoa,2021-12-21 Genoa-Atalanta,ITA-SERIA_A,21-22,2c2fe99f
+6604165d,Filippo Melegoni,10,ITA,CM,22-306,4,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,4,6,66.7,1,1,0,0,0,Genoa,2021-12-21 Genoa-Atalanta,ITA-SERIA_A,21-22,2c2fe99f
+e8c930bb,Milan Badelj,47,CRO,CM,32-299,90,0,0,0,0,0,0,1,0,62,3,2,6,0.0,0.0,0.0,1,0,28,48,58.3,3,24,0,0,0,Genoa,2021-12-21 Genoa-Atalanta,ITA-SERIA_A,21-22,2c2fe99f
+2334478a,Stefano Sturaro,27,ITA,CM,28-287,86,0,0,0,0,0,0,1,0,39,2,4,2,0.0,0.0,0.0,0,0,14,24,58.3,2,16,1,0,0,Genoa,2021-12-21 Genoa-Atalanta,ITA-SERIA_A,21-22,2c2fe99f
+6f5ead86,Hernani,33,BRA,CM,27-269,4,0,0,0,0,0,0,0,0,4,1,0,0,0.0,0.0,0.0,0,0,1,3,33.3,0,2,0,0,0,Genoa,2021-12-21 Genoa-Atalanta,ITA-SERIA_A,21-22,2c2fe99f
+35dd6d80,Domenico Criscito,4,ITA,WB,34-356,66,0,0,0,0,0,0,0,0,43,0,3,2,0.0,0.0,0.0,0,0,21,31,67.7,1,10,0,1,0,Genoa,2021-12-21 Genoa-Atalanta,ITA-SERIA_A,21-22,2c2fe99f
+71dc23da,Paolo Ghiglione,18,ITA,WB,24-322,24,0,0,0,0,0,0,0,0,15,1,1,0,0.0,0.0,0.0,0,0,5,12,41.7,0,4,0,1,0,Genoa,2021-12-21 Genoa-Atalanta,ITA-SERIA_A,21-22,2c2fe99f
+247ed022,Andrea Cambiaso,50,ITA,WB,21-304,90,0,0,0,0,0,0,0,0,50,4,2,3,0.0,0.0,0.0,0,0,25,33,75.8,0,21,0,2,0,Genoa,2021-12-21 Genoa-Atalanta,ITA-SERIA_A,21-22,2c2fe99f
+5eaed77a,Johan Vásquez,15,MEX,CB,23-060,90,0,0,0,0,0,0,0,0,48,8,1,0,0.0,0.0,0.0,0,0,17,29,58.6,1,14,0,0,0,Genoa,2021-12-21 Genoa-Atalanta,ITA-SERIA_A,21-22,2c2fe99f
+0821331c,Mattia Bani,13,ITA,CB,28-011,90,0,0,0,0,0,0,0,0,47,0,3,0,0.0,0.0,0.0,0,0,18,27,66.7,1,12,0,0,0,Genoa,2021-12-21 Genoa-Atalanta,ITA-SERIA_A,21-22,2c2fe99f
+64cd167d,Davide Biraschi,14,ITA,CB,27-172,90,0,0,0,0,0,0,0,0,43,4,3,2,0.0,0.0,0.0,0,0,10,27,37.0,2,16,0,1,0,Genoa,2021-12-21 Genoa-Atalanta,ITA-SERIA_A,21-22,2c2fe99f
+10dc46f0,Salvatore Sirigu,57,ITA,GK,34-343,90,0,0,0,0,0,0,0,0,36,0,0,0,0.0,0.0,0.0,0,0,16,34,47.1,0,10,0,0,0,Genoa,2021-12-21 Genoa-Atalanta,ITA-SERIA_A,21-22,2c2fe99f
+d3de9af0,Duván Zapata,91,COL,FW,30-264,43,0,0,0,0,2,1,0,0,20,0,0,0,0.2,0.2,0.0,1,0,10,12,83.3,1,15,2,1,0,Atalanta,2021-12-21 Genoa-Atalanta,ITA-SERIA_A,21-22,2c2fe99f
+eb2fe5b6,Luis Muriel,9,COL,"FW,AM",30-249,47,0,0,0,0,1,0,0,0,34,1,0,0,0.0,0.0,0.2,6,0,16,27,59.3,2,26,1,6,4,Atalanta,2021-12-21 Genoa-Atalanta,ITA-SERIA_A,21-22,2c2fe99f
+48d5bd33,Ruslan Malinovskyi,18,UKR,AM,28-231,64,0,0,0,0,3,0,0,0,67,1,0,2,0.1,0.1,0.1,1,0,43,55,78.2,6,44,1,4,4,Atalanta,2021-12-21 Genoa-Atalanta,ITA-SERIA_A,21-22,2c2fe99f
+68252d6d,Josip Iličić,72,SVN,AM,33-326,26,0,0,0,0,1,0,0,0,20,1,0,1,0.1,0.1,0.0,1,0,10,16,62.5,3,18,2,1,1,Atalanta,2021-12-21 Genoa-Atalanta,ITA-SERIA_A,21-22,2c2fe99f
+a9aa0d1d,Aleksei Miranchuk,59,RUS,AM,26-065,64,0,0,0,0,0,0,0,0,52,1,0,1,0.0,0.0,0.1,4,0,34,44,77.3,4,36,6,0,0,Atalanta,2021-12-21 Genoa-Atalanta,ITA-SERIA_A,21-22,2c2fe99f
+e599253a,Mario Pašalić,88,CRO,"AM,CM",26-315,26,0,0,0,0,0,0,0,0,17,0,0,2,0.0,0.0,0.0,0,0,7,12,58.3,0,2,0,0,0,Atalanta,2021-12-21 Genoa-Atalanta,ITA-SERIA_A,21-22,2c2fe99f
+98d2c2c4,Remo Freuler,11,SUI,CM,29-250,45,0,0,0,0,0,0,1,0,54,2,2,1,0.0,0.0,0.0,2,0,37,44,84.1,4,25,1,3,1,Atalanta,2021-12-21 Genoa-Atalanta,ITA-SERIA_A,21-22,2c2fe99f
+2a1beb34,Marten de Roon,15,NED,CM,30-267,45,0,0,0,0,0,0,0,0,45,2,1,0,0.0,0.0,0.0,0,0,35,40,87.5,6,27,1,1,1,Atalanta,2021-12-21 Genoa-Atalanta,ITA-SERIA_A,21-22,2c2fe99f
+a26fb8aa,Teun Koopmeiners,7,NED,CM,23-296,83,0,0,0,0,2,1,0,0,111,0,2,2,0.1,0.1,0.1,4,0,69,100,69.0,14,71,4,0,0,Atalanta,2021-12-21 Genoa-Atalanta,ITA-SERIA_A,21-22,2c2fe99f
+1cadaf34,Roberto Piccoli,99,ITA,FW,20-328,7,0,0,0,0,1,1,0,0,5,0,0,0,0.1,0.1,0.1,1,0,2,2,100.0,0,1,0,0,0,Atalanta,2021-12-21 Genoa-Atalanta,ITA-SERIA_A,21-22,2c2fe99f
+7fe90ccd,Davide Zappacosta,77,ITA,WB,29-193,90,0,0,0,0,2,0,0,0,72,2,1,0,0.0,0.0,0.1,2,0,51,63,81.0,1,40,2,2,2,Atalanta,2021-12-21 Genoa-Atalanta,ITA-SERIA_A,21-22,2c2fe99f
+3b333ac3,Hans Hateboer,33,NED,WB,27-346,90,0,0,0,0,1,0,0,0,86,2,1,2,0.0,0.0,0.1,3,0,64,74,86.5,9,45,1,0,0,Atalanta,2021-12-21 Genoa-Atalanta,ITA-SERIA_A,21-22,2c2fe99f
+921f6058,José Luis Palomino,6,ARG,CB,31-350,90,0,0,0,0,0,0,0,0,79,5,7,2,0.0,0.0,0.0,1,0,37,63,58.7,5,47,1,1,1,Atalanta,2021-12-21 Genoa-Atalanta,ITA-SERIA_A,21-22,2c2fe99f
+e3cceee6,Merih Demiral,28,TUR,CB,23-291,90,0,0,0,0,3,0,0,0,60,1,3,0,0.5,0.5,0.0,0,0,40,47,85.1,1,37,0,0,0,Atalanta,2021-12-21 Genoa-Atalanta,ITA-SERIA_A,21-22,2c2fe99f
+6eee05f1,Berat Djimsiti,19,ALB,CB,28-305,90,0,0,0,0,1,0,0,0,85,1,2,1,0.1,0.1,0.3,1,0,55,74,74.3,8,56,3,1,0,Atalanta,2021-12-21 Genoa-Atalanta,ITA-SERIA_A,21-22,2c2fe99f
+ac4003af,Marco Sportiello,57,ITA,GK,29-225,90,0,0,0,0,0,0,0,0,24,0,0,0,0.0,0.0,0.0,0,0,17,24,70.8,0,13,0,0,0,Atalanta,2021-12-21 Genoa-Atalanta,ITA-SERIA_A,21-22,2c2fe99f

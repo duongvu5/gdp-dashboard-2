@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+d33c706e,Andy Delort,9,ALG,FW,27-340,90,1,1,0,0,3,3,0,0,45,3,0,1,0.8,0.8,0.5,5,1,26,37,70.3,6,20,2,2,1,Montpellier,2019-09-14 Montpellier-Nice,FRA-L1,19-20,0b77a4c6
+7cdda3bf,Gaëtan Laborde,10,FRA,FW,25-134,79,0,0,0,0,3,2,0,0,31,2,0,1,0.5,0.5,0.0,3,0,16,17,94.1,2,19,3,5,0,Montpellier,2019-09-14 Montpellier-Nice,FRA-L1,19-20,0b77a4c6
+ea0aa7e0,Mihailo Ristić,26,SRB,FW,23-318,11,0,0,0,0,0,0,0,0,5,1,0,0,0.0,0.0,0.0,0,0,1,4,25.0,0,2,1,0,0,Montpellier,2019-09-14 Montpellier-Nice,FRA-L1,19-20,0b77a4c6
+7e82a78f,Florent Mollet,25,FRA,AM,27-299,88,1,0,0,0,2,2,1,0,47,1,1,0,0.1,0.1,0.4,7,0,31,41,75.6,3,19,3,0,0,Montpellier,2019-09-14 Montpellier-Nice,FRA-L1,19-20,0b77a4c6
+ccb1c3af,Keagan Dolly,20,RSA,AM,26-235,2,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,2,0,1,1,Montpellier,2019-09-14 Montpellier-Nice,FRA-L1,19-20,0b77a4c6
+8f4d116f,Damien Le Tallec,14,FRA,CM,29-148,90,0,0,0,0,1,0,0,0,38,5,1,1,0.0,0.0,0.0,1,0,21,25,84.0,4,14,0,0,0,Montpellier,2019-09-14 Montpellier-Nice,FRA-L1,19-20,0b77a4c6
+375622c5,Jordan Ferri,12,FRA,CM,27-186,90,0,0,0,0,2,0,0,0,74,3,0,1,0.0,0.0,0.0,6,0,47,65,72.3,11,35,5,1,1,Montpellier,2019-09-14 Montpellier-Nice,FRA-L1,19-20,0b77a4c6
+e3e05edf,Ambroise Oyongo,8,CMR,WB,28-084,90,0,0,0,0,2,0,0,0,56,1,0,0,0.0,0.0,0.2,5,1,36,51,70.6,6,22,4,4,3,Montpellier,2019-09-14 Montpellier-Nice,FRA-L1,19-20,0b77a4c6
+4e0afc5d,Arnaud Souquet,2,FRA,WB,27-214,90,0,0,0,0,1,0,0,0,61,5,0,2,0.0,0.0,0.0,2,0,35,48,72.9,1,28,4,2,0,Montpellier,2019-09-14 Montpellier-Nice,FRA-L1,19-20,0b77a4c6
+3f5b4635,Daniel Congré,3,FRA,CB,34-162,47,0,0,0,0,1,1,0,0,24,3,0,0,0.2,0.2,0.0,1,1,14,18,77.8,2,9,0,0,0,Montpellier,2019-09-14 Montpellier-Nice,FRA-L1,19-20,0b77a4c6
+8f325097,Nicolas Cozza,31,FRA,CB,20-249,43,0,0,0,0,0,0,0,0,14,0,0,0,0.0,0.0,0.0,0,0,12,14,85.7,1,10,1,0,0,Montpellier,2019-09-14 Montpellier-Nice,FRA-L1,19-20,0b77a4c6
+c4bbea9f,Vitorino Hilton,4,BRA,CB,42-001,90,0,0,0,0,1,0,0,0,35,1,1,1,0.1,0.1,0.0,0,0,18,28,64.3,3,11,0,0,0,Montpellier,2019-09-14 Montpellier-Nice,FRA-L1,19-20,0b77a4c6
+6690ef25,Pedro Mendes,5,POR,CB,28-348,90,0,0,0,0,1,0,1,0,47,1,1,1,0.1,0.1,0.0,0,0,35,41,85.4,3,30,1,0,0,Montpellier,2019-09-14 Montpellier-Nice,FRA-L1,19-20,0b77a4c6
+625c144a,Gerónimo Rulli,1,ARG,GK,27-117,90,0,0,0,0,0,0,0,0,39,1,0,0,0.0,0.0,0.0,0,0,29,36,80.6,0,21,0,0,0,Montpellier,2019-09-14 Montpellier-Nice,FRA-L1,19-20,0b77a4c6
+cc83b74d,Kasper Dolberg,9,DEN,FW,21-343,77,0,0,0,0,1,0,0,0,17,0,0,1,0.0,0.0,0.4,1,0,8,10,80.0,0,10,1,0,0,Nice,2019-09-14 Montpellier-Nice,FRA-L1,19-20,0b77a4c6
+706a60e1,Myziane Maolida,7,COM,"RW,FW",20-212,13,0,0,0,0,0,0,0,0,6,0,0,1,0.0,0.0,0.0,1,0,4,5,80.0,1,6,0,0,0,Nice,2019-09-14 Montpellier-Nice,FRA-L1,19-20,0b77a4c6
+6a827d8e,Youcef Atal,20,ALG,"LW,RB",23-120,90,0,0,0,0,1,1,1,0,64,0,3,1,0.0,0.0,0.2,2,1,32,39,82.1,3,36,4,8,3,Nice,2019-09-14 Montpellier-Nice,FRA-L1,19-20,0b77a4c6
+ed90babd,Adam Ounas,10,ALG,"RW,AM",22-307,90,0,0,0,0,1,0,0,0,47,1,0,2,0.1,0.1,0.2,6,0,28,38,73.7,5,37,6,8,6,Nice,2019-09-14 Montpellier-Nice,FRA-L1,19-20,0b77a4c6
+f5044e54,Pierre Lees-Melou,8,FRA,"LM,DM",26-112,90,0,0,0,0,2,1,0,0,63,2,2,2,0.4,0.4,0.0,3,0,45,50,90.0,6,34,5,1,1,Nice,2019-09-14 Montpellier-Nice,FRA-L1,19-20,0b77a4c6
+3e092724,Wylan Cyprien,25,FRA,"CM,DM",24-229,90,0,0,0,0,3,1,0,0,84,0,2,0,0.1,0.1,0.1,6,0,69,75,92.0,8,45,1,2,1,Nice,2019-09-14 Montpellier-Nice,FRA-L1,19-20,0b77a4c6
+8da74c05,Adrien Tameze,5,CMR,RM,25-222,60,1,0,0,0,1,1,0,0,37,1,0,1,0.0,0.0,0.0,0,0,23,29,79.3,1,19,1,1,1,Nice,2019-09-14 Montpellier-Nice,FRA-L1,19-20,0b77a4c6
+23c63b7f,Ignatius Ganago,14,CMR,"RW,FW",20-210,30,0,0,0,0,2,0,0,0,10,0,0,0,0.2,0.2,0.0,1,0,5,7,71.4,0,7,1,2,2,Nice,2019-09-14 Montpellier-Nice,FRA-L1,19-20,0b77a4c6
+166a981d,Racine Coly,12,SEN,LB,23-280,60,0,0,0,0,0,0,1,0,61,4,0,1,0.0,0.0,0.0,0,0,47,52,90.4,4,28,1,1,1,Nice,2019-09-14 Montpellier-Nice,FRA-L1,19-20,0b77a4c6
+741418c3,Alexis Claude-Maurice,18,FRA,LW,21-100,30,0,0,0,0,1,0,0,0,26,1,1,1,0.0,0.0,0.0,0,0,15,19,78.9,2,18,0,0,0,Nice,2019-09-14 Montpellier-Nice,FRA-L1,19-20,0b77a4c6
+ac89503b,Gautier Lloris,3,FRA,CB,24-058,90,0,0,0,0,0,0,0,0,77,4,2,0,0.0,0.0,0.0,1,0,62,68,91.2,1,33,1,0,0,Nice,2019-09-14 Montpellier-Nice,FRA-L1,19-20,0b77a4c6
+f18d7ab2,Andy Pelmard,24,FRA,CB,19-186,90,0,0,0,0,1,0,0,0,91,0,0,2,0.0,0.0,0.0,0,0,74,79,93.7,1,56,1,1,0,Nice,2019-09-14 Montpellier-Nice,FRA-L1,19-20,0b77a4c6
+8746d5d0,Patrick Burner,15,MTQ,"RB,LB",23-156,90,0,0,0,0,0,0,0,0,79,2,0,0,0.0,0.0,0.0,3,0,68,71,95.8,7,43,5,1,1,Nice,2019-09-14 Montpellier-Nice,FRA-L1,19-20,0b77a4c6
+8a2248b4,Walter Benítez,40,ARG,GK,26-238,90,0,0,0,0,0,0,0,0,43,0,0,0,0.0,0.0,0.0,1,1,33,40,82.5,0,16,0,0,0,Nice,2019-09-14 Montpellier-Nice,FRA-L1,19-20,0b77a4c6

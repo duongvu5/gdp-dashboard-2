@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+942b4f90,Wissam Ben Yedder,10,FRA,FW,32-034,64,0,0,0,0,2,1,0,0,31,2,0,0,0.3,0.3,0.2,2,0,18,27,66.7,2,25,2,1,1,Monaco,2022-09-15 Monaco-Ferencváros,UEL,22-23,f151486e
+0b4f388a,Breel Embolo,36,SUI,"FW,RW",25-213,26,0,0,0,0,2,1,1,0,6,0,0,0,0.3,0.3,0.0,0,0,1,2,50.0,0,2,1,2,1,Monaco,2022-09-15 Monaco-Ferencváros,UEL,22-23,f151486e
+3708e9fa,Aleksandr Golovin,17,RUS,LW,26-108,72,0,0,0,0,2,1,0,0,51,0,1,3,0.2,0.2,0.1,2,0,29,39,74.4,4,38,1,3,1,Monaco,2022-09-15 Monaco-Ferencváros,UEL,22-23,f151486e
+a0415710,Ismail Jakobs,14,SEN,LW,23-029,18,0,0,0,0,2,1,0,0,11,0,0,0,0.4,0.4,0.1,1,0,4,7,57.1,0,8,0,0,0,Monaco,2022-09-15 Monaco-Ferencváros,UEL,22-23,f151486e
+8104e41e,Krépin Diatta,27,SEN,RW,23-202,45,0,0,0,0,0,0,0,0,29,1,0,0,0.0,0.0,0.0,0,0,14,25,56.0,0,24,1,3,3,Monaco,2022-09-15 Monaco-Ferencváros,UEL,22-23,f151486e
+b625b241,Maghnes Akliouche,21,FRA,"RW,RM",20-202,45,0,0,0,0,1,0,0,0,30,0,0,0,0.1,0.1,0.1,4,0,14,21,66.7,2,22,1,6,3,Monaco,2022-09-15 Monaco-Ferencváros,UEL,22-23,f151486e
+30af8b93,Caio Henrique Oliveira Silva,12,BRA,"LM,LB",25-046,90,0,0,0,0,0,0,0,0,73,2,1,0,0.0,0.0,0.3,6,0,49,66,74.2,7,50,5,0,0,Monaco,2022-09-15 Monaco-Ferencváros,UEL,22-23,f151486e
+489e80e3,Mohamed Camara,4,MLI,"CM,LM",22-252,90,0,0,0,0,0,0,0,0,60,3,1,1,0.0,0.0,0.0,2,0,48,53,90.6,6,43,1,4,3,Monaco,2022-09-15 Monaco-Ferencváros,UEL,22-23,f151486e
+822d51d7,Youssouf Fofana,19,FRA,CM,23-248,90,0,0,0,0,1,1,0,0,50,5,1,0,0.1,0.1,0.0,2,0,34,40,85.0,6,38,1,1,0,Monaco,2022-09-15 Monaco-Ferencváros,UEL,22-23,f151486e
+ee45fd85,Vanderson,2,BRA,RM,21-086,45,0,0,0,0,1,0,0,0,40,4,3,2,0.0,0.0,0.0,0,0,25,30,83.3,2,19,1,0,0,Monaco,2022-09-15 Monaco-Ferencváros,UEL,22-23,f151486e
+3dd738a1,Ruben Aguilar,26,FRA,"RM,RB",29-142,45,0,0,0,0,0,0,0,0,39,1,0,1,0.0,0.0,0.2,1,0,29,35,82.9,5,25,5,0,0,Monaco,2022-09-15 Monaco-Ferencváros,UEL,22-23,f151486e
+06df8256,Benoît Badiashile,5,FRA,CB,21-173,90,0,0,0,0,1,0,0,0,66,2,3,0,0.1,0.1,0.0,5,0,47,57,82.5,7,49,0,0,0,Monaco,2022-09-15 Monaco-Ferencváros,UEL,22-23,f151486e
+4315f30d,Malang Sarr,23,FRA,CB,23-235,80,0,0,0,0,0,0,0,0,48,0,0,0,0.0,0.0,0.0,0,0,43,45,95.6,5,42,0,0,0,Monaco,2022-09-15 Monaco-Ferencváros,UEL,22-23,f151486e
+5b479568,Myron Boadu,9,NED,FW,21-244,10,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.1,1,0,2,4,50.0,0,3,0,0,0,Monaco,2022-09-15 Monaco-Ferencváros,UEL,22-23,f151486e
+ad82197c,Axel Disasi,6,FRA,CB,24-188,90,0,0,0,0,1,1,0,0,80,0,4,1,0.0,0.0,0.0,0,0,59,69,85.5,11,59,3,2,2,Monaco,2022-09-15 Monaco-Ferencváros,UEL,22-23,f151486e
+afb0c500,Alexander Nübel,16,GER,GK,25-350,90,0,0,0,0,0,0,0,0,27,0,0,0,0.0,0.0,0.0,0,0,22,26,84.6,0,16,0,0,0,Monaco,2022-09-15 Monaco-Ferencváros,UEL,22-23,f151486e
+8a56c04c,Ryan Mmaee,8,MAR,FW,24-318,63,0,0,0,0,1,0,0,0,20,0,0,1,0.0,0.0,0.0,0,0,7,14,50.0,0,10,0,2,0,Ferencváros,2022-09-15 Monaco-Ferencváros,UEL,22-23,f151486e
+9c2b4382,Franck Boli,70,CIV,FW,28-282,27,0,0,0,0,1,0,0,0,8,1,0,0,0.0,0.0,0.0,1,1,4,4,100.0,0,6,1,2,2,Ferencváros,2022-09-15 Monaco-Ferencváros,UEL,22-23,f151486e
+36a79857,Tokmac Nguen,10,NOR,LW,28-330,63,0,0,0,0,1,0,0,0,26,1,0,0,0.0,0.0,0.0,0,0,9,17,52.9,2,17,3,2,1,Ferencváros,2022-09-15 Monaco-Ferencváros,UEL,22-23,f151486e
+51ffa295,Amer Gojak,14,BIH,"AM,LW,CM",25-214,27,0,0,0,0,0,0,0,0,13,0,0,0,0.0,0.0,0.0,0,0,9,10,90.0,0,11,2,2,1,Ferencváros,2022-09-15 Monaco-Ferencváros,UEL,22-23,f151486e
+f9edc384,Adama Traoré,20,MLI,"RW,RM",27-102,90,0,1,0,0,2,1,1,0,32,0,1,0,0.1,0.1,0.1,1,1,19,24,79.2,1,30,4,1,0,Ferencváros,2022-09-15 Monaco-Ferencváros,UEL,22-23,f151486e
+47dbe004,Kristoffer Zachariassen,16,NOR,"AM,LW",27-323,89,0,0,0,0,0,0,0,0,26,0,0,0,0.0,0.0,0.0,1,0,12,19,63.2,3,14,1,0,0,Ferencváros,2022-09-15 Monaco-Ferencváros,UEL,22-23,f151486e
+d7354a36,Anderson Esiti,13,NGA,CB,28-114,1,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,0,0,0,0,Ferencváros,2022-09-15 Monaco-Ferencváros,UEL,22-23,f151486e
+22798128,Aïssa Laïdouni,93,TUN,"DM,LM",25-276,90,0,0,0,0,1,1,0,0,69,3,2,1,0.0,0.0,0.1,6,0,47,55,85.5,6,55,3,9,4,Ferencváros,2022-09-15 Monaco-Ferencváros,UEL,22-23,f151486e
+7ca9f0f0,Muhamed Bešić,5,BIH,DM,30-005,68,0,0,0,0,0,0,1,0,56,4,1,2,0.0,0.0,0.0,1,0,36,44,81.8,2,37,1,3,0,Ferencváros,2022-09-15 Monaco-Ferencváros,UEL,22-23,f151486e
+173eb3cd,Bálint Vécsei,19,HUN,"DM,CM",29-064,22,1,0,0,0,1,1,0,0,11,0,0,0,0.1,0.1,0.0,0,0,6,8,75.0,0,7,0,0,0,Ferencváros,2022-09-15 Monaco-Ferencváros,UEL,22-23,f151486e
+2cb77ec6,Endre Botka,21,HUN,LB,28-021,90,0,0,0,0,0,0,0,0,58,2,0,0,0.0,0.0,0.0,2,0,38,46,82.6,6,25,0,1,0,Ferencváros,2022-09-15 Monaco-Ferencváros,UEL,22-23,f151486e
+988dfee2,Mats Knoester,4,NED,CB,23-300,90,0,0,0,0,0,0,0,0,60,1,3,3,0.0,0.0,0.0,0,0,40,48,83.3,0,47,0,2,0,Ferencváros,2022-09-15 Monaco-Ferencváros,UEL,22-23,f151486e
+bf80db4d,Samy Mmaee,3,MAR,CB,26-007,90,0,0,0,0,1,0,0,0,52,3,4,1,0.0,0.0,0.0,1,0,29,36,80.6,2,32,0,1,1,Ferencváros,2022-09-15 Monaco-Ferencváros,UEL,22-23,f151486e
+0362c29e,Henry Wingo,31,USA,RB,26-346,90,0,0,0,0,0,0,0,0,65,1,1,1,0.0,0.0,0.0,0,0,43,55,78.2,3,32,1,2,1,Ferencváros,2022-09-15 Monaco-Ferencváros,UEL,22-23,f151486e
+4030c7ae,Dénes Dibusz,90,HUN,GK,31-303,90,0,0,0,0,0,0,0,0,55,0,0,0,0.0,0.0,0.0,0,0,38,52,73.1,0,39,0,0,0,Ferencváros,2022-09-15 Monaco-Ferencváros,UEL,22-23,f151486e

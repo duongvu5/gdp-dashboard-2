@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+0a447501,Antonio Sanabria,19,PAR,FW,25-203,90,0,0,0,0,4,2,0,0,32,0,0,0,0.3,0.3,0.0,1,0,14,20,70.0,3,9,0,1,0,Torino,2021-09-23 Torino-Lazio,ITA-SERIA_A,21-22,8c3d226a
+d4a2533d,Josip Brekalo,14,CRO,AM,23-092,72,0,0,0,0,3,0,1,0,34,1,0,0,0.1,0.1,0.0,2,0,19,26,73.1,2,22,2,1,1,Torino,2021-09-23 Torino-Lazio,ITA-SERIA_A,21-22,8c3d226a
+2c38b327,Marko Pjaca,11,CRO,AM,26-140,18,1,0,0,0,2,2,0,0,12,0,1,0,0.2,0.2,0.0,1,0,2,5,40.0,0,8,0,3,1,Torino,2021-09-23 Torino-Lazio,ITA-SERIA_A,21-22,8c3d226a
+d023d70f,Karol Linetty,77,POL,AM,26-233,72,0,0,0,0,1,1,0,0,31,1,1,0,0.0,0.0,0.0,3,0,17,23,73.9,3,16,0,0,0,Torino,2021-09-23 Torino-Lazio,ITA-SERIA_A,21-22,8c3d226a
+f1cfc209,Tomás Rincón,88,VEN,AM,33-253,18,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,5,6,83.3,0,4,0,1,1,Torino,2021-09-23 Torino-Lazio,ITA-SERIA_A,21-22,8c3d226a
+c7259b83,Rolando Mandragora,38,ITA,CM,24-086,61,0,0,0,0,1,0,1,0,44,1,1,0,0.0,0.0,0.0,1,0,32,37,86.5,6,24,0,0,0,Torino,2021-09-23 Torino-Lazio,ITA-SERIA_A,21-22,8c3d226a
+c6e8cf1f,Saša Lukić,10,SRB,CM,25-041,29,0,0,0,0,0,0,0,0,15,1,0,0,0.0,0.0,0.1,1,0,11,12,91.7,1,8,0,1,0,Torino,2021-09-23 Torino-Lazio,ITA-SERIA_A,21-22,8c3d226a
+55a1cac2,Tommaso Pobega,4,ITA,CM,22-070,90,0,0,0,0,3,0,0,0,54,3,2,2,0.1,0.1,0.0,2,0,28,37,75.7,7,25,1,0,0,Torino,2021-09-23 Torino-Lazio,ITA-SERIA_A,21-22,8c3d226a
+246d153b,Ola Aina,34,NGA,WB,24-350,61,0,0,0,0,0,0,1,0,40,1,2,0,0.0,0.0,0.2,3,0,23,28,82.1,3,29,3,6,1,Torino,2021-09-23 Torino-Lazio,ITA-SERIA_A,21-22,8c3d226a
+bbafc0c4,Cristian Ansaldi,15,ARG,WB,35-003,29,0,0,0,0,1,0,0,0,19,0,1,0,0.0,0.0,0.0,1,0,8,15,53.3,1,11,1,0,0,Torino,2021-09-23 Torino-Lazio,ITA-SERIA_A,21-22,8c3d226a
+8b609c34,Wilfried Singo,17,CIV,WB,20-272,90,0,1,0,0,0,0,0,0,53,2,0,0,0.0,0.0,0.2,2,1,27,35,77.1,1,33,2,4,1,Torino,2021-09-23 Torino-Lazio,ITA-SERIA_A,21-22,8c3d226a
+7f78ad23,Ricardo Rodríguez,13,SUI,CB,29-029,90,0,0,0,0,0,0,0,0,54,1,2,0,0.0,0.0,0.1,4,0,39,49,79.6,0,29,0,0,0,Torino,2021-09-23 Torino-Lazio,ITA-SERIA_A,21-22,8c3d226a
+5fd5ed86,Gleison Bremer,3,BRA,CB,24-189,90,0,0,0,0,0,0,0,0,45,2,3,1,0.0,0.0,0.0,1,0,26,35,74.3,1,18,0,0,0,Torino,2021-09-23 Torino-Lazio,ITA-SERIA_A,21-22,8c3d226a
+933d3b51,Koffi Djidji,26,CIV,CB,28-297,90,0,0,0,0,1,0,0,0,53,1,2,1,0.1,0.1,0.0,3,1,33,39,84.6,3,32,0,0,0,Torino,2021-09-23 Torino-Lazio,ITA-SERIA_A,21-22,8c3d226a
+9fa26bc2,Vanja Milinković-Savić,32,SRB,GK,24-215,90,0,0,0,0,0,0,0,0,43,0,0,0,0.0,0.0,0.0,2,0,17,42,40.5,0,21,0,0,0,Torino,2021-09-23 Torino-Lazio,ITA-SERIA_A,21-22,8c3d226a
+4431aed2,Ciro Immobile,17,ITA,FW,31-215,90,1,0,1,1,3,1,0,0,37,1,0,0,0.9,0.1,0.0,1,0,17,24,70.8,1,23,0,0,0,Lazio,2021-09-23 Torino-Lazio,ITA-SERIA_A,21-22,8c3d226a
+919dd4b1,Raúl Moro,27,ESP,LW,18-292,45,0,0,0,0,0,0,0,0,16,0,0,0,0.0,0.0,0.0,0,0,10,12,83.3,0,14,2,1,0,Lazio,2021-09-23 Torino-Lazio,ITA-SERIA_A,21-22,8c3d226a
+3ca7254a,Pedro,9,ESP,LW,34-057,45,0,0,0,0,0,0,0,0,20,1,0,0,0.0,0.0,0.0,1,0,10,16,62.5,4,16,2,1,1,Lazio,2021-09-23 Torino-Lazio,ITA-SERIA_A,21-22,8c3d226a
+9f1893b9,Felipe Anderson,7,BRA,RW,28-161,90,0,0,0,0,0,0,0,0,56,3,1,0,0.0,0.0,0.0,0,0,24,42,57.1,1,36,4,6,5,Lazio,2021-09-23 Torino-Lazio,ITA-SERIA_A,21-22,8c3d226a
+5294a83f,Luis Alberto,10,ESP,LM,28-360,45,0,0,0,0,0,0,0,0,22,0,0,1,0.0,0.0,0.0,0,0,13,19,68.4,2,18,0,0,0,Lazio,2021-09-23 Torino-Lazio,ITA-SERIA_A,21-22,8c3d226a
+4e6dbac4,Sergej Milinković-Savić,21,SRB,RM,26-208,45,0,0,0,0,1,0,1,0,39,0,0,0,0.0,0.0,0.0,1,1,21,33,63.6,1,26,0,0,0,Lazio,2021-09-23 Torino-Lazio,ITA-SERIA_A,21-22,8c3d226a
+ba3d3bea,Danilo Cataldi,32,ITA,CM,27-048,69,0,0,0,0,0,0,0,0,47,1,1,2,0.0,0.0,0.0,0,0,34,41,82.9,3,32,0,1,0,Lazio,2021-09-23 Torino-Lazio,ITA-SERIA_A,21-22,8c3d226a
+4c78b5ed,Lucas Leiva,6,BRA,CM,34-257,21,0,0,0,0,0,0,0,0,14,1,2,0,0.0,0.0,0.0,0,0,10,11,90.9,0,5,0,0,0,Lazio,2021-09-23 Torino-Lazio,ITA-SERIA_A,21-22,8c3d226a
+fdf4b948,Jean-Daniel Akpa-Akpro,8,CIV,"RM,LM",28-347,78,0,0,0,0,0,0,0,0,39,4,0,4,0.0,0.0,0.0,1,0,21,24,87.5,0,26,1,1,1,Lazio,2021-09-23 Torino-Lazio,ITA-SERIA_A,21-22,8c3d226a
+0cadc46d,Vedat Muriqi,94,KVX,LM,27-152,12,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,2,1,5,5,100.0,3,7,0,1,0,Lazio,2021-09-23 Torino-Lazio,ITA-SERIA_A,21-22,8c3d226a
+2f3452eb,Elseid Hysaj,23,ALB,LB,27-215,90,0,0,0,0,1,0,0,0,51,2,0,1,0.0,0.0,0.0,1,0,33,45,73.3,2,26,2,0,0,Lazio,2021-09-23 Torino-Lazio,ITA-SERIA_A,21-22,8c3d226a
+b96b595c,Francesco Acerbi,33,ITA,CB,33-225,90,0,0,0,0,0,0,0,0,75,2,1,0,0.0,0.0,0.0,0,0,50,65,76.9,2,32,1,0,0,Lazio,2021-09-23 Torino-Lazio,ITA-SERIA_A,21-22,8c3d226a
+15d0c248,Luiz Felipe,3,ITA,CB,24-185,90,0,0,0,0,0,0,1,0,69,4,3,0,0.0,0.0,0.0,0,0,47,59,79.7,4,37,1,0,0,Lazio,2021-09-23 Torino-Lazio,ITA-SERIA_A,21-22,8c3d226a
+d4535821,Adam Marušić,77,MNE,RB,28-341,61,0,0,0,0,0,0,1,0,38,2,2,0,0.0,0.0,0.0,0,0,25,32,78.1,2,12,2,0,0,Lazio,2021-09-23 Torino-Lazio,ITA-SERIA_A,21-22,8c3d226a
+02caf6e0,Manuel Lazzari,29,ITA,RB,27-298,29,0,0,0,0,0,0,0,0,23,1,0,1,0.0,0.0,0.0,0,0,15,18,83.3,3,8,0,0,0,Lazio,2021-09-23 Torino-Lazio,ITA-SERIA_A,21-22,8c3d226a
+e358587b,Pepe Reina,25,ESP,GK,39-023,90,0,0,0,0,0,0,0,0,53,0,0,0,0.0,0.0,0.0,0,0,40,51,78.4,0,40,0,0,0,Lazio,2021-09-23 Torino-Lazio,ITA-SERIA_A,21-22,8c3d226a

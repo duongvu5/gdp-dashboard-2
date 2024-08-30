@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+1238a3f9,Davie Selke,27,GER,FW,24-055,76,0,0,0,0,0,0,0,0,31,1,0,1,0.0,0.0,0.0,1,0,12,20,60.0,1,14,1,3,0,Hertha BSC,2019-03-16 Hertha BSC-Dortmund,GER-BL1,18-19,86994c33
+b93b7882,Mathew Leckie,11,AUS,"LM,FW",28-040,14,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,4,7,57.1,0,5,0,0,0,Hertha BSC,2019-03-16 Hertha BSC-Dortmund,GER-BL1,18-19,86994c33
+2042d931,Salomon Kalou,8,CIV,FW,33-223,76,2,0,1,1,1,1,0,0,42,1,0,3,1.7,0.9,0.1,2,0,24,32,75.0,5,21,1,2,2,Hertha BSC,2019-03-16 Hertha BSC-Dortmund,GER-BL1,18-19,86994c33
+c3fd9887,Vedad Ibišević,19,BIH,FW,34-222,13,0,0,0,0,0,0,0,1,6,0,0,0,0.0,0.0,0.0,0,0,5,6,83.3,1,2,0,0,0,Hertha BSC,2019-03-16 Hertha BSC-Dortmund,GER-BL1,18-19,86994c33
+79ca3e23,Ondrej Duda,10,SVK,AM,24-101,88,0,0,0,0,0,0,0,0,54,3,0,3,0.0,0.0,0.0,1,0,31,41,75.6,5,33,2,3,1,Hertha BSC,2019-03-16 Hertha BSC-Dortmund,GER-BL1,18-19,86994c33
+a63a995f,Fabian Lustenberger,28,SUI,CM,30-318,2,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,1,0,0,0,Hertha BSC,2019-03-16 Hertha BSC-Dortmund,GER-BL1,18-19,86994c33
+8b8e759d,Marko Grujić,15,SRB,CM,22-337,90,0,0,0,0,2,1,0,0,62,5,1,2,0.2,0.2,0.0,1,0,34,44,77.3,9,29,2,1,0,Hertha BSC,2019-03-16 Hertha BSC-Dortmund,GER-BL1,18-19,86994c33
+ab700320,Arne Maier,23,GER,"CM,RM",20-067,90,0,0,0,0,0,0,0,0,58,0,1,0,0.0,0.0,0.0,3,1,46,56,82.1,5,33,1,0,0,Hertha BSC,2019-03-16 Hertha BSC-Dortmund,GER-BL1,18-19,86994c33
+88d4144a,Maximilian Mittelstädt,17,GER,"WB,LB",21-363,90,0,0,0,0,2,1,0,0,72,3,1,4,0.1,0.1,0.0,2,1,42,57,73.7,5,34,2,1,1,Hertha BSC,2019-03-16 Hertha BSC-Dortmund,GER-BL1,18-19,86994c33
+016ff750,Valentino Lazaro,20,AUT,"WB,RB",22-357,90,0,0,0,0,0,0,0,0,64,0,2,0,0.0,0.0,0.0,2,0,50,59,84.7,8,38,3,1,1,Hertha BSC,2019-03-16 Hertha BSC-Dortmund,GER-BL1,18-19,86994c33
+f86cabbd,Jordan Torunarigha,25,GER,CB,21-221,84,0,0,0,0,0,0,2,1,46,3,6,2,0.0,0.0,0.0,0,0,17,31,54.8,2,22,1,0,0,Hertha BSC,2019-03-16 Hertha BSC-Dortmund,GER-BL1,18-19,86994c33
+3376a776,Karim Rekik,4,NED,CB,24-104,90,0,0,0,0,0,0,0,0,40,0,0,1,0.0,0.0,0.0,0,0,26,34,76.5,1,17,0,0,0,Hertha BSC,2019-03-16 Hertha BSC-Dortmund,GER-BL1,18-19,86994c33
+aad48be9,Niklas Stark,5,GER,CB,23-336,90,0,0,0,0,1,0,1,0,55,6,3,4,0.1,0.1,0.0,0,0,28,37,75.7,3,30,0,1,1,Hertha BSC,2019-03-16 Hertha BSC-Dortmund,GER-BL1,18-19,86994c33
+27d2618c,Rune Jarstein,22,NOR,GK,34-168,90,0,0,0,0,0,0,0,0,45,0,0,0,0.0,0.0,0.0,0,0,22,39,56.4,0,26,0,0,0,Hertha BSC,2019-03-16 Hertha BSC-Dortmund,GER-BL1,18-19,86994c33
+4e204552,Jacob Bruun Larsen,34,DEN,FW,20-178,74,0,0,0,0,5,3,0,0,30,0,0,0,0.2,0.2,0.2,3,0,13,19,68.4,3,14,4,3,1,Dortmund,2019-03-16 Hertha BSC-Dortmund,GER-BL1,18-19,86994c33
+048a1cbc,Raphaël Guerreiro,13,POR,AM,25-084,16,0,0,0,0,0,0,0,0,14,0,0,0,0.0,0.0,0.0,2,1,8,14,57.1,2,6,1,0,0,Dortmund,2019-03-16 Hertha BSC-Dortmund,GER-BL1,18-19,86994c33
+dbf053da,Jadon Sancho,7,ENG,"LW,RW",18-356,89,0,2,0,0,5,1,1,0,53,0,0,1,0.4,0.4,0.3,11,2,36,45,80.0,2,37,8,7,6,Dortmund,2019-03-16 Hertha BSC-Dortmund,GER-BL1,18-19,86994c33
+c5fd13e9,Ömer Toprak,36,TUR,"CB,LW",29-238,1,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,0,0,0,0,Dortmund,2019-03-16 Hertha BSC-Dortmund,GER-BL1,18-19,86994c33
+1bf33a9a,Christian Pulisic,22,USA,"RW,LW",20-179,90,0,0,0,0,7,1,0,0,75,0,1,0,0.8,0.8,0.1,6,1,34,48,70.8,1,51,7,10,2,Dortmund,2019-03-16 Hertha BSC-Dortmund,GER-BL1,18-19,86994c33
+36a3ff67,Marco Reus,11,GER,"AM,FW",29-289,90,1,0,0,0,2,1,0,0,40,0,0,0,0.1,0.1,0.2,5,0,22,32,68.8,5,20,3,3,2,Dortmund,2019-03-16 Hertha BSC-Dortmund,GER-BL1,18-19,86994c33
+fe641c1a,Thomas Delaney,6,DEN,DM,27-194,90,1,0,0,0,2,1,0,0,51,2,2,1,0.1,0.1,0.1,5,0,30,40,75.0,5,25,1,0,0,Dortmund,2019-03-16 Hertha BSC-Dortmund,GER-BL1,18-19,86994c33
+346d51d9,Julian Weigl,33,GER,DM,23-189,90,0,0,0,0,0,0,0,0,60,6,1,0,0.0,0.0,0.1,3,0,43,53,81.1,8,36,0,1,1,Dortmund,2019-03-16 Hertha BSC-Dortmund,GER-BL1,18-19,86994c33
+fc62f087,Abdou Diallo,4,SEN,LB,22-316,90,0,0,0,0,0,0,0,0,61,1,1,0,0.0,0.0,0.2,4,0,44,55,80.0,4,38,3,2,2,Dortmund,2019-03-16 Hertha BSC-Dortmund,GER-BL1,18-19,86994c33
+a4effc55,Dan-Axel Zagadou,2,FRA,CB,19-286,90,1,0,0,0,1,1,1,0,55,2,1,0,0.1,0.1,0.0,1,0,38,48,79.2,2,33,0,0,0,Dortmund,2019-03-16 Hertha BSC-Dortmund,GER-BL1,18-19,86994c33
+89ac64a6,Manuel Akanji,16,SUI,CB,23-240,90,0,0,0,0,2,0,0,0,54,0,3,0,0.1,0.1,0.0,1,0,40,46,87.0,8,35,2,0,0,Dortmund,2019-03-16 Hertha BSC-Dortmund,GER-BL1,18-19,86994c33
+fa661778,Marius Wolf,27,GER,RB,23-293,77,0,0,0,0,0,0,0,0,67,0,2,0,0.0,0.0,0.5,1,0,41,59,69.5,5,30,1,3,1,Dortmund,2019-03-16 Hertha BSC-Dortmund,GER-BL1,18-19,86994c33
+e42d61c7,Achraf Hakimi,5,MAR,RB,20-132,13,0,0,0,0,1,0,0,0,15,0,0,0,0.0,0.0,0.0,1,0,12,13,92.3,2,9,1,1,1,Dortmund,2019-03-16 Hertha BSC-Dortmund,GER-BL1,18-19,86994c33
+9d12e142,Roman Bürki,1,SUI,GK,28-122,90,0,0,0,0,0,0,0,0,34,0,0,0,0.0,0.0,0.0,0,0,22,32,68.8,0,19,0,0,0,Dortmund,2019-03-16 Hertha BSC-Dortmund,GER-BL1,18-19,86994c33

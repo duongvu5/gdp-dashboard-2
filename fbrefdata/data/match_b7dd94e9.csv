@@ -1,0 +1,32 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+065dc209,Terem Moffi,13,NGA,FW,22-166,90,0,1,0,0,2,0,0,0,30,0,0,0,0.2,0.2,1.0,3,2,11,16,68.8,0,18,2,4,1,Lorient,2021-11-07 Lorient-Brest,FRA-L1,21-22,b7dd94e9
+4a987ffa,Adrian Grbić,27,AUT,"RM,FW",25-095,67,1,0,0,0,1,1,0,0,18,0,0,0,0.9,0.9,0.0,0,0,7,11,63.6,1,12,0,2,0,Lorient,2021-11-07 Lorient-Brest,FRA-L1,21-22,b7dd94e9
+e3e32fbb,Igor Carioca,2,BRA,"RM,CB",25-078,23,0,0,0,0,1,0,1,0,15,1,1,0,0.0,0.0,0.0,2,0,5,10,50.0,0,9,0,1,0,Lorient,2021-11-07 Lorient-Brest,FRA-L1,21-22,b7dd94e9
+84d94b91,Thomas Monconduit,23,FRA,CM,30-270,37,0,0,0,0,0,0,0,0,22,1,0,1,0.0,0.0,0.0,1,0,16,19,84.2,1,18,1,0,0,Lorient,2021-11-07 Lorient-Brest,FRA-L1,21-22,b7dd94e9
+afe39ca8,Théo Le Bris,37,FRA,LM,19-037,44,0,0,0,0,0,0,0,0,14,1,0,2,0.0,0.0,0.0,0,0,6,7,85.7,0,7,1,0,0,Lorient,2021-11-07 Lorient-Brest,FRA-L1,21-22,b7dd94e9
+2f9e4435,Dango Ouattara,38,BFA,LM,19-269,9,0,0,0,0,0,0,0,0,8,1,1,0,0.0,0.0,0.0,1,0,1,5,20.0,0,6,0,1,0,Lorient,2021-11-07 Lorient-Brest,FRA-L1,21-22,b7dd94e9
+6f806d99,Enzo Le Fée,10,FRA,"CM,LM",21-277,90,0,0,0,0,2,2,0,0,50,2,2,1,0.1,0.1,0.2,4,0,28,36,77.8,3,28,2,1,0,Lorient,2021-11-07 Lorient-Brest,FRA-L1,21-22,b7dd94e9
+31626657,Laurent Abergel,6,FRA,CM,28-279,90,0,0,0,0,1,0,0,0,44,5,2,0,0.0,0.0,0.0,1,0,24,36,66.7,3,31,1,2,2,Lorient,2021-11-07 Lorient-Brest,FRA-L1,21-22,b7dd94e9
+2321ea6e,Vincent Le Goff,25,FRA,"LB,WB",32-023,90,0,0,0,0,1,0,0,0,62,1,2,1,0.0,0.0,0.0,1,0,38,52,73.1,4,31,2,1,0,Lorient,2021-11-07 Lorient-Brest,FRA-L1,21-22,b7dd94e9
+a84f9a4b,Jérôme Hergault,14,FRA,WB,35-216,27,0,0,0,0,0,0,0,1,18,0,0,0,0.0,0.0,0.0,0,0,12,17,70.6,2,11,0,1,1,Lorient,2021-11-07 Lorient-Brest,FRA-L1,21-22,b7dd94e9
+e97150c0,Jérémy Morel,21,MAD,CB,37-219,90,0,0,0,0,1,0,0,0,58,4,1,2,0.0,0.0,0.1,2,0,35,45,77.8,2,37,0,0,0,Lorient,2021-11-07 Lorient-Brest,FRA-L1,21-22,b7dd94e9
+00638016,Léo Pétrot,36,FRA,CB,24-206,81,0,0,0,0,0,0,0,0,48,0,0,2,0.0,0.0,0.0,1,0,28,38,73.7,1,31,0,0,0,Lorient,2021-11-07 Lorient-Brest,FRA-L1,21-22,b7dd94e9
+7cc00776,Sambou Soumano,33,SEN,RM,20-308,9,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,1,0,1,1,Lorient,2021-11-07 Lorient-Brest,FRA-L1,21-22,b7dd94e9
+1545cf15,Houboulang Mendes,17,GNB,"RB,CB",23-187,90,0,0,0,0,0,0,0,0,49,1,0,1,0.0,0.0,0.0,1,0,34,43,79.1,2,30,2,1,0,Lorient,2021-11-07 Lorient-Brest,FRA-L1,21-22,b7dd94e9
+2d70dbe5,Paul Nardi,30,FRA,GK,27-173,90,0,0,0,0,0,0,0,0,31,0,0,0,0.0,0.0,0.0,0,0,16,27,59.3,0,12,0,0,0,Lorient,2021-11-07 Lorient-Brest,FRA-L1,21-22,b7dd94e9
+19ba6c6d,Steve Mounié,15,BEN,FW,27-039,90,1,0,0,0,3,1,0,0,34,0,0,1,1.2,1.2,0.0,3,0,15,27,55.6,3,10,3,0,0,Brest,2021-11-07 Lorient-Brest,FRA-L1,21-22,b7dd94e9
+88c4d190,Jérémy Le Douaron,26,FRA,FW,23-200,63,0,0,0,0,5,2,0,0,24,0,0,0,0.3,0.3,0.0,0,0,8,14,57.1,0,15,1,1,0,Brest,2021-11-07 Lorient-Brest,FRA-L1,21-22,b7dd94e9
+5e080f73,Irvin Cardona,14,FRA,FW,24-091,27,0,0,0,0,0,0,0,0,8,0,0,1,0.0,0.0,0.1,1,0,1,3,33.3,0,4,1,2,1,Brest,2021-11-07 Lorient-Brest,FRA-L1,21-22,b7dd94e9
+db7849ca,Franck Honorat,9,FRA,LM,25-088,64,0,0,0,0,3,1,1,0,40,0,0,0,0.1,0.1,0.1,3,1,21,32,65.6,1,20,0,3,1,Brest,2021-11-07 Lorient-Brest,FRA-L1,21-22,b7dd94e9
+0be95d34,Romain Del Castillo,25,FRA,LM,25-223,26,0,0,0,0,1,0,0,0,16,3,0,0,0.1,0.1,0.0,1,1,6,9,66.7,1,7,1,0,0,Brest,2021-11-07 Lorient-Brest,FRA-L1,21-22,b7dd94e9
+2b1bed19,Haris Belkebla,7,ALG,CM,27-283,90,0,0,0,0,0,0,0,0,61,2,2,0,0.0,0.0,0.1,4,0,45,53,84.9,4,36,2,1,0,Brest,2021-11-07 Lorient-Brest,FRA-L1,21-22,b7dd94e9
+d4d35152,Hugo Magnetti,27,FRA,CM,23-161,45,0,0,0,0,0,0,0,0,36,1,0,0,0.0,0.0,0.0,2,0,31,35,88.6,2,25,0,1,1,Brest,2021-11-07 Lorient-Brest,FRA-L1,21-22,b7dd94e9
+8bc8829a,Lucien Agoume,10,FRA,CM,19-271,45,0,0,0,0,1,0,0,0,34,1,0,1,0.1,0.1,0.0,1,0,25,28,89.3,6,13,0,0,0,Brest,2021-11-07 Lorient-Brest,FRA-L1,21-22,b7dd94e9
+745ca0a3,Romain Faivre,21,FRA,RM,23-116,90,1,0,1,1,1,0,0,0,87,2,1,0,0.8,0.0,0.3,7,0,58,72,80.6,12,53,10,6,1,Brest,2021-11-07 Lorient-Brest,FRA-L1,21-22,b7dd94e9
+d75f3980,Jere Uronen,20,FIN,LB,27-117,68,0,0,0,0,0,0,0,0,63,2,1,2,0.0,0.0,0.1,2,0,47,57,82.5,2,29,1,0,0,Brest,2021-11-07 Lorient-Brest,FRA-L1,21-22,b7dd94e9
+767212e6,Julien Faussurier,22,FRA,LB,34-297,22,0,0,0,0,0,0,0,0,18,1,0,1,0.0,0.0,0.0,0,0,11,14,78.6,2,9,2,0,0,Brest,2021-11-07 Lorient-Brest,FRA-L1,21-22,b7dd94e9
+5b146df3,Lilian Brassier,3,FRA,CB,22-005,90,0,0,0,0,1,0,0,0,80,2,2,0,0.0,0.0,0.0,3,0,69,73,94.5,8,52,6,0,0,Brest,2021-11-07 Lorient-Brest,FRA-L1,21-22,b7dd94e9
+0cbc8baa,Jean-Kevin Duverne,2,HAI,CB,24-118,90,0,0,0,0,0,0,0,0,80,1,2,0,0.0,0.0,0.1,1,0,64,73,87.7,7,49,3,0,0,Brest,2021-11-07 Lorient-Brest,FRA-L1,21-22,b7dd94e9
+64ba07c0,Ronaël Pierre-Gabriel,18,FRA,RB,23-147,90,0,1,0,0,0,0,0,0,82,2,3,0,0.0,0.0,1.0,3,1,59,72,81.9,7,38,6,4,2,Brest,2021-11-07 Lorient-Brest,FRA-L1,21-22,b7dd94e9
+3d214e5f,Marco Bizot,40,NED,GK,30-242,90,0,0,0,0,0,0,0,0,18,0,0,0,0.0,0.0,0.0,0,0,14,16,87.5,0,11,0,0,0,Brest,2021-11-07 Lorient-Brest,FRA-L1,21-22,b7dd94e9

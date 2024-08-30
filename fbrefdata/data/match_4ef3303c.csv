@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+bfde3de5,Antonio Čolak,25,CRO,FW,27-084,80,0,0,0,0,0,0,1,0,18,0,0,1,0.0,0.0,0.1,2,0,5,11,45.5,0,16,2,1,0,PAOK,2020-12-10 PAOK-Granada,UEL,20-21,4ef3303c
+41723204,Karol Świderski,9,POL,FW,23-322,10,0,0,0,0,2,1,0,0,7,0,0,1,0.6,0.6,0.0,0,0,2,3,66.7,0,4,1,1,1,PAOK,2020-12-10 PAOK-Granada,UEL,20-21,4ef3303c
+9f333379,Christos Tzolis,11,GRE,LW,18-315,45,0,0,0,0,0,0,0,0,21,1,1,1,0.0,0.0,0.0,0,0,6,13,46.2,0,12,2,3,1,PAOK,2020-12-10 PAOK-Granada,UEL,20-21,4ef3303c
+321f83a2,Andrija Živković,14,SRB,RM,24-152,45,0,0,0,0,1,0,0,0,22,0,1,0,0.0,0.0,0.1,3,0,10,20,50.0,4,14,3,1,1,PAOK,2020-12-10 PAOK-Granada,UEL,20-21,4ef3303c
+b57b998c,Georgios Koutsias,70,GRE,RW,16-306,45,0,0,0,0,0,0,0,0,16,6,0,2,0.0,0.0,0.0,0,0,2,6,33.3,1,5,1,1,0,PAOK,2020-12-10 PAOK-Granada,UEL,20-21,4ef3303c
+906baf89,Theocharis Tsingaras,51,GRE,CM,20-112,45,0,0,0,0,0,0,0,0,33,2,1,0,0.0,0.0,0.0,0,0,17,25,68.0,3,16,0,2,1,PAOK,2020-12-10 PAOK-Granada,UEL,20-21,4ef3303c
+d7354a36,Anderson Esiti,24,NGA,"LM,DM",26-200,62,0,0,0,0,0,0,1,0,36,3,0,1,0.0,0.0,0.0,0,0,22,29,75.9,1,16,1,2,2,PAOK,2020-12-10 PAOK-Granada,UEL,20-21,4ef3303c
+301c287b,Douglas,33,BRA,DM,23-332,28,0,0,0,0,1,0,1,0,23,0,0,0,0.0,0.0,0.0,1,0,19,21,90.5,5,12,0,0,0,PAOK,2020-12-10 PAOK-Granada,UEL,20-21,4ef3303c
+eb8b2a35,Thomas Murg,10,AUT,"LM,CM",26-026,90,0,0,0,0,1,0,0,0,46,1,0,1,0.1,0.1,0.1,2,0,24,38,63.2,1,21,1,1,0,PAOK,2020-12-10 PAOK-Granada,UEL,20-21,4ef3303c
+92b17b2a,Omar El Kaddouri,7,MAR,"CM,RM",30-111,90,0,0,0,0,0,0,0,0,60,1,0,3,0.0,0.0,0.0,2,0,43,52,82.7,7,35,0,1,0,PAOK,2020-12-10 PAOK-Granada,UEL,20-21,4ef3303c
+8ec4c2f7,José Ángel Crespo,15,ESP,LB,33-305,90,0,0,0,0,1,0,1,0,61,2,2,0,0.0,0.0,0.6,0,0,33,48,68.8,2,21,0,0,0,PAOK,2020-12-10 PAOK-Granada,UEL,20-21,4ef3303c
+0990f2fb,Fernando Varela,5,CPV,CB,33-014,90,0,0,0,0,1,0,0,0,48,1,4,1,0.1,0.1,0.0,0,0,24,36,66.7,0,21,0,0,0,PAOK,2020-12-10 PAOK-Granada,UEL,20-21,4ef3303c
+3c93b9f0,Sverrir Ingi Ingason,4,ISL,CB,27-127,90,0,0,0,0,0,0,0,0,56,1,1,0,0.0,0.0,0.0,0,0,39,49,79.6,2,32,1,0,0,PAOK,2020-12-10 PAOK-Granada,UEL,20-21,4ef3303c
+7f63620c,Leftheris Lyratzis,19,GRE,RB,20-292,62,0,0,0,0,0,0,0,0,36,1,1,0,0.0,0.0,0.0,0,0,23,30,76.7,2,15,0,1,0,PAOK,2020-12-10 PAOK-Granada,UEL,20-21,4ef3303c
+808df563,Moussa Wagué,18,SEN,RB,22-067,28,0,0,0,0,0,0,0,0,20,0,0,0,0.0,0.0,0.0,2,0,16,18,88.9,3,8,1,1,1,PAOK,2020-12-10 PAOK-Granada,UEL,20-21,4ef3303c
+4c5039bd,Alexandros Paschalakis,31,GRE,GK,31-135,90,0,0,0,0,0,0,0,0,32,0,0,0,0.0,0.0,0.0,0,0,18,30,60.0,0,17,0,1,1,PAOK,2020-12-10 PAOK-Granada,UEL,20-21,4ef3303c
+43f71e77,Jorge Molina,23,ESP,FW,38-232,90,0,0,0,0,2,1,0,0,37,1,0,4,0.6,0.6,0.4,1,0,18,25,72.0,3,15,1,3,1,Granada,2020-12-10 PAOK-Granada,UEL,20-21,4ef3303c
+5eebbfdf,Kenedy,24,BRA,LW,24-306,66,0,0,0,0,1,0,0,0,23,1,0,1,0.0,0.0,0.0,0,0,6,12,50.0,0,13,2,6,1,Granada,2020-12-10 PAOK-Granada,UEL,20-21,4ef3303c
+eeba07f8,Luis Javier Suárez,7,COL,"AM,LW",23-008,24,0,0,0,0,1,0,1,0,8,0,0,0,0.1,0.1,0.0,0,0,3,5,60.0,0,3,0,0,0,Granada,2020-12-10 PAOK-Granada,UEL,20-21,4ef3303c
+c77a8043,Antonio Puertas,10,ESP,RW,28-293,90,0,0,0,0,1,1,0,0,45,0,2,3,0.4,0.4,0.0,1,0,21,28,75.0,0,25,0,3,0,Granada,2020-12-10 PAOK-Granada,UEL,20-21,4ef3303c
+452c3055,Alberto Soro,26,ESP,AM,21-276,74,0,0,0,0,0,0,0,0,33,1,0,2,0.0,0.0,0.3,2,0,17,24,70.8,1,22,0,1,1,Granada,2020-12-10 PAOK-Granada,UEL,20-21,4ef3303c
+ed6ea4d9,Darwin Machís,11,VEN,LW,27-307,16,0,0,0,0,2,0,0,0,15,0,0,0,0.1,0.1,0.2,6,0,6,11,54.5,2,8,3,1,1,Granada,2020-12-10 PAOK-Granada,UEL,20-21,4ef3303c
+19c36442,Luis Milla,5,ESP,DM,26-064,74,0,0,0,0,0,0,0,0,55,1,2,1,0.0,0.0,0.3,2,0,45,49,91.8,5,34,2,0,0,Granada,2020-12-10 PAOK-Granada,UEL,20-21,4ef3303c
+b8c1de25,Maxime Gonalons,4,FRA,DM,31-275,16,0,0,0,0,3,0,0,0,14,1,0,0,0.1,0.1,0.0,1,0,4,10,40.0,0,6,0,0,0,Granada,2020-12-10 PAOK-Granada,UEL,20-21,4ef3303c
+3d688b46,Yan Brice Eteki,8,CMR,DM,23-106,84,0,0,0,0,0,0,0,0,44,1,0,1,0.0,0.0,0.0,1,0,27,37,73.0,3,27,0,2,0,Granada,2020-12-10 PAOK-Granada,UEL,20-21,4ef3303c
+9d66fbe3,Roberto Soldado,9,ESP,DM,35-197,6,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,1,0,1,2,50.0,1,2,0,0,0,Granada,2020-12-10 PAOK-Granada,UEL,20-21,4ef3303c
+45e17712,Dimitri Foulquier,2,FRA,"LB,RB",27-262,90,0,0,0,0,0,0,0,0,52,2,0,1,0.0,0.0,0.0,1,0,34,42,81.0,2,24,2,0,0,Granada,2020-12-10 PAOK-Granada,UEL,20-21,4ef3303c
+ea9b2ef9,Germán Sánchez,6,ESP,CB,33-364,90,0,0,0,0,0,0,1,0,58,0,2,0,0.0,0.0,0.0,0,0,38,47,80.9,3,27,0,0,0,Granada,2020-12-10 PAOK-Granada,UEL,20-21,4ef3303c
+f7c491f1,Nehuén Pérez,3,ARG,CB,20-169,90,0,0,0,0,0,0,1,0,56,1,0,1,0.0,0.0,0.0,1,0,37,50,74.0,6,31,0,0,0,Granada,2020-12-10 PAOK-Granada,UEL,20-21,4ef3303c
+6583a8a9,Pepe Sánchez,29,ESP,RB,20-283,66,0,0,0,0,1,0,0,0,54,5,0,0,0.0,0.0,0.0,1,0,29,44,65.9,7,22,0,0,0,Granada,2020-12-10 PAOK-Granada,UEL,20-21,4ef3303c
+8d47bb39,Carlos Neva,15,ESP,LB,24-181,24,0,0,0,0,0,0,0,0,7,0,1,0,0.0,0.0,0.0,0,0,4,5,80.0,1,7,2,0,0,Granada,2020-12-10 PAOK-Granada,UEL,20-21,4ef3303c
+67669ce7,Aarón Escandell,13,ESP,GK,25-074,90,0,0,0,0,0,0,0,0,39,0,0,0,0.0,0.0,0.0,0,0,23,36,63.9,0,14,0,0,0,Granada,2020-12-10 PAOK-Granada,UEL,20-21,4ef3303c

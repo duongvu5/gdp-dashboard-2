@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+9dbb75ca,Alexandre Lacazette,10,FRA,FW,31-364,90,1,0,0,0,4,1,0,0,25,0,0,1,1.2,1.2,0.1,5,2,13,18,72.2,3,23,0,2,0,Lyon,2023-05-27 Lyon-Reims,FRA-L1,22-23,27815d03
+45cce300,Jeffinho,47,BRA,LW,23-148,65,0,0,0,0,2,1,0,0,36,4,0,1,0.3,0.3,0.1,5,0,19,23,82.6,0,27,1,2,1,Lyon,2023-05-27 Lyon-Reims,FRA-L1,22-23,27815d03
+a5db0bec,Houssem Aouar,8,ALG,"AM,LW",24-331,25,0,0,0,0,3,2,0,0,17,0,0,1,0.4,0.4,0.8,3,0,10,10,100.0,2,14,0,1,1,Lyon,2023-05-27 Lyon-Reims,FRA-L1,22-23,27815d03
+a0d55a09,Bradley Barcola,26,FRA,RW,20-267,83,0,1,0,0,2,1,0,0,39,1,4,1,0.3,0.3,0.2,6,1,20,27,74.1,4,28,3,5,2,Lyon,2023-05-27 Lyon-Reims,FRA-L1,22-23,27815d03
+d5326924,Amin Sarr,7,SWE,RW,22-077,7,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,3,3,100.0,1,3,1,0,0,Lyon,2023-05-27 Lyon-Reims,FRA-L1,22-23,27815d03
+b34c63a5,Rayan Cherki,18,FRA,"AM,LW",19-283,90,0,0,0,0,4,1,0,0,63,0,0,0,0.3,0.3,0.1,5,1,41,48,85.4,5,51,5,6,3,Lyon,2023-05-27 Lyon-Reims,FRA-L1,22-23,27815d03
+652d4c37,Corentin Tolisso,88,FRA,"DM,CB",28-297,90,0,0,0,0,5,0,0,0,73,1,1,1,0.1,0.1,0.2,5,0,56,63,88.9,11,53,2,0,0,Lyon,2023-05-27 Lyon-Reims,FRA-L1,22-23,27815d03
+f81ef10d,Maxence Caqueret,6,FRA,DM,23-101,82,1,0,0,0,1,1,0,0,58,3,4,0,0.0,0.0,0.0,5,0,40,49,81.6,4,38,1,0,0,Lyon,2023-05-27 Lyon-Reims,FRA-L1,22-23,27815d03
+61f80c89,Mamadou Sarr,29,FRA,DM,17-271,8,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,8,8,100.0,0,8,0,0,0,Lyon,2023-05-27 Lyon-Reims,FRA-L1,22-23,27815d03
+f0661424,Nicolás Tagliafico,3,ARG,LB,30-269,90,0,0,0,0,1,0,0,0,51,2,1,0,0.0,0.0,0.2,3,0,34,45,75.6,5,36,2,0,0,Lyon,2023-05-27 Lyon-Reims,FRA-L1,22-23,27815d03
+5b9512c5,Castello Lukeba,4,FRA,CB,20-161,90,0,0,0,0,0,0,0,0,63,4,4,0,0.0,0.0,0.0,0,0,49,55,89.1,2,51,1,0,0,Lyon,2023-05-27 Lyon-Reims,FRA-L1,22-23,27815d03
+2db2fd7b,Jérôme Boateng,17,GER,CB,34-266,68,0,0,0,0,0,0,0,0,35,1,1,2,0.0,0.0,0.0,0,0,30,31,96.8,0,26,0,0,0,Lyon,2023-05-27 Lyon-Reims,FRA-L1,22-23,27815d03
+1e52971c,Johann Lepenant,24,FRA,DM,20-217,22,0,0,0,0,1,0,1,0,16,0,1,0,0.1,0.1,0.2,2,0,11,12,91.7,1,13,0,0,0,Lyon,2023-05-27 Lyon-Reims,FRA-L1,22-23,27815d03
+c385bf49,Sael Kumbedi,20,FRA,RB,18-062,82,0,0,0,0,0,0,0,0,63,3,1,2,0.0,0.0,0.3,2,0,45,50,90.0,3,46,0,1,0,Lyon,2023-05-27 Lyon-Reims,FRA-L1,22-23,27815d03
+d56b9520,Malo Gusto,27,FRA,RB,20-008,8,0,0,0,0,0,0,0,0,15,1,0,0,0.0,0.0,0.2,2,0,11,14,78.6,0,12,2,0,0,Lyon,2023-05-27 Lyon-Reims,FRA-L1,22-23,27815d03
+f00de885,Anthony Lopes,1,POR,GK,32-238,90,0,0,0,0,0,0,0,0,52,0,1,0,0.0,0.0,0.0,0,0,37,49,75.5,0,35,0,0,0,Lyon,2023-05-27 Lyon-Reims,FRA-L1,22-23,27815d03
+31822f8c,Folarin Balogun,29,USA,FW,21-328,90,0,0,0,0,5,1,0,0,31,0,0,0,0.5,0.5,0.3,3,0,17,18,94.4,2,20,2,4,1,Reims,2023-05-27 Lyon-Reims,FRA-L1,22-23,27815d03
+dbd3a428,Junya Ito,39,JPN,"RW,LW,FW",30-079,89,0,0,0,0,1,0,0,0,34,0,0,1,0.0,0.0,0.0,2,0,16,25,64.0,4,30,7,4,1,Reims,2023-05-27 Lyon-Reims,FRA-L1,22-23,27815d03
+331c5a98,Mamadou Diakhon,67,FRA,RW,17-247,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Reims,2023-05-27 Lyon-Reims,FRA-L1,22-23,27815d03
+928a4a61,Jens Cajuste,8,SWE,"DM,RW,CM",23-290,87,0,0,0,0,0,0,0,0,40,0,1,1,0.0,0.0,0.1,2,0,22,27,81.5,4,29,5,5,2,Reims,2023-05-27 Lyon-Reims,FRA-L1,22-23,27815d03
+5fdcb075,Thibault De Smet,25,BEL,LB,24-356,3,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,0,0,Reims,2023-05-27 Lyon-Reims,FRA-L1,22-23,27815d03
+a17a94d6,Azor Matusiwa,21,NED,"DM,CM",25-029,90,0,0,0,0,0,0,0,0,73,1,2,2,0.0,0.0,0.3,6,0,50,61,82.0,9,56,1,1,1,Reims,2023-05-27 Lyon-Reims,FRA-L1,22-23,27815d03
+6b5edd5d,Valentin Atangana Edoa,49,FRA,"AM,CM",17-275,58,0,0,0,0,0,0,0,0,20,2,0,0,0.0,0.0,0.1,1,0,11,12,91.7,1,13,0,2,0,Reims,2023-05-27 Lyon-Reims,FRA-L1,22-23,27815d03
+64c14d49,Dion Lopy,17,SEN,"DM,LW",21-114,32,0,0,0,0,1,0,0,0,13,1,0,0,0.2,0.2,0.0,0,0,9,10,90.0,2,11,0,1,1,Reims,2023-05-27 Lyon-Reims,FRA-L1,22-23,27815d03
+caef7840,Alexis Flips,70,FRA,"LW,WB",23-129,58,0,0,0,0,3,0,0,0,45,6,0,0,0.3,0.3,0.0,1,0,25,32,78.1,4,27,0,0,0,Reims,2023-05-27 Lyon-Reims,FRA-L1,22-23,27815d03
+2c8a91b9,Fallou Fall,46,SEN,CB,19-042,32,0,0,0,0,0,0,1,0,20,0,0,3,0.0,0.0,0.0,0,0,12,13,92.3,1,12,0,0,0,Reims,2023-05-27 Lyon-Reims,FRA-L1,22-23,27815d03
+7b082ec2,Maxime Busi,4,BEL,"RB,WB",23-225,87,0,0,0,0,0,0,0,0,42,0,0,0,0.0,0.0,0.2,1,0,29,37,78.4,1,27,1,0,0,Reims,2023-05-27 Lyon-Reims,FRA-L1,22-23,27815d03
+6751b938,Samuel Koeberlé,48,FRA,"DM,RB",18-182,3,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,5,6,83.3,0,7,0,2,1,Reims,2023-05-27 Lyon-Reims,FRA-L1,22-23,27815d03
+75f1ed80,Emmanuel Agbadou,24,CIV,CB,25-344,53,0,0,0,0,0,0,0,1,40,1,0,0,0.0,0.0,0.0,0,0,32,35,91.4,4,30,0,0,0,Reims,2023-05-27 Lyon-Reims,FRA-L1,22-23,27815d03
+2acf0cd7,Marshall Munetsi,15,ZIM,CB,26-339,90,0,0,0,0,0,0,0,0,54,1,0,3,0.0,0.0,0.0,1,0,42,48,87.5,4,40,0,0,0,Reims,2023-05-27 Lyon-Reims,FRA-L1,22-23,27815d03
+90eb507d,Thomas Foket,32,BEL,"LB,CB,RB",28-244,90,0,0,0,0,0,0,0,0,57,1,0,0,0.0,0.0,0.0,1,0,39,54,72.2,2,39,2,2,1,Reims,2023-05-27 Lyon-Reims,FRA-L1,22-23,27815d03
+eedea60b,Yehvann Diouf,94,FRA,GK,23-192,90,0,0,0,0,0,0,0,0,45,0,0,0,0.0,0.0,0.0,0,0,32,43,74.4,0,32,0,0,0,Reims,2023-05-27 Lyon-Reims,FRA-L1,22-23,27815d03

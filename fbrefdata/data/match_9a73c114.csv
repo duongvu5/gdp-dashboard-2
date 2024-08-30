@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+04bb2b06,Ibrahima Koné,9,MLI,FW,23-248,84,0,0,0,0,0,0,0,0,18,0,0,0,0.0,0.0,0.1,2,0,9,11,81.8,0,13,1,1,0,Lorient,2023-02-19 Lorient-Ajaccio,FRA-L1,22-23,9a73c114
+92d90c8f,Siriné Doucouré,29,MLI,FW,20-317,6,0,0,0,0,1,0,0,0,6,0,0,0,0.1,0.1,0.0,0,0,3,3,100.0,0,4,0,0,0,Lorient,2023-02-19 Lorient-Ajaccio,FRA-L1,22-23,9a73c114
+40774c6b,Bamba Dieng,11,SEN,LW,22-333,64,1,0,1,1,0,0,0,0,20,1,0,2,0.8,0.0,0.0,0,0,6,9,66.7,0,17,0,5,1,Lorient,2023-02-19 Lorient-Ajaccio,FRA-L1,22-23,9a73c114
+afe39ca8,Théo Le Bris,37,FRA,LW,20-141,26,0,0,0,0,0,0,0,0,21,0,0,3,0.0,0.0,0.1,1,0,11,15,73.3,1,13,4,5,4,Lorient,2023-02-19 Lorient-Ajaccio,FRA-L1,22-23,9a73c114
+745ca0a3,Romain Faivre,14,FRA,RW,24-220,73,1,0,0,0,1,1,0,0,32,1,0,2,0.4,0.4,0.0,1,1,16,22,72.7,3,23,0,5,4,Lorient,2023-02-19 Lorient-Ajaccio,FRA-L1,22-23,9a73c114
+29939a1d,Stéphane Diarra,7,FRA,RW,24-072,17,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,1,0,2,2,100.0,1,2,0,0,0,Lorient,2023-02-19 Lorient-Ajaccio,FRA-L1,22-23,9a73c114
+e546b2e3,Julien Ponceau,21,FRA,AM,22-083,73,1,0,0,0,1,1,0,0,28,0,0,0,0.8,0.8,0.1,1,0,12,23,52.2,1,22,0,0,0,Lorient,2023-02-19 Lorient-Ajaccio,FRA-L1,22-23,9a73c114
+b94b8be1,Adil Aouchiche,10,FRA,AM,20-219,17,0,0,0,0,1,1,0,0,24,2,0,1,0.0,0.0,0.0,1,0,11,13,84.6,2,19,2,2,0,Lorient,2023-02-19 Lorient-Ajaccio,FRA-L1,22-23,9a73c114
+22bfb57e,Jean-Victor Makengo,17,FRA,DM,24-252,90,0,0,0,0,0,0,0,0,52,1,2,1,0.0,0.0,0.1,1,0,32,43,74.4,2,42,2,4,2,Lorient,2023-02-19 Lorient-Ajaccio,FRA-L1,22-23,9a73c114
+6f806d99,Enzo Le Fée,80,FRA,DM,23-016,64,0,1,0,0,1,0,0,0,75,1,0,5,0.1,0.1,0.0,2,1,54,64,84.4,7,66,2,5,2,Lorient,2023-02-19 Lorient-Ajaccio,FRA-L1,22-23,9a73c114
+31626657,Laurent Abergel,19,FRA,DM,30-018,26,0,0,0,0,0,0,0,0,37,2,1,0,0.0,0.0,0.0,1,0,27,31,87.1,1,29,0,1,0,Lorient,2023-02-19 Lorient-Ajaccio,FRA-L1,22-23,9a73c114
+2321ea6e,Vincent Le Goff,25,FRA,LB,33-127,90,0,0,0,0,2,0,0,0,69,0,1,0,0.2,0.2,0.0,1,0,57,65,87.7,7,50,1,0,0,Lorient,2023-02-19 Lorient-Ajaccio,FRA-L1,22-23,9a73c114
+a4a44eb0,Montassar Talbi,3,TUN,CB,24-269,90,0,0,0,0,0,0,0,0,99,0,1,0,0.0,0.0,0.0,0,0,91,95,95.8,3,86,2,1,1,Lorient,2023-02-19 Lorient-Ajaccio,FRA-L1,22-23,9a73c114
+04ac78d2,Bamo Meïté,18,CIV,CB,21-078,90,0,0,0,0,0,0,0,0,92,0,0,0,0.0,0.0,0.0,0,0,81,87,93.1,3,85,0,1,1,Lorient,2023-02-19 Lorient-Ajaccio,FRA-L1,22-23,9a73c114
+dd211559,Gedeon Kalulu,24,COD,RB,25-174,90,0,0,0,0,2,2,0,0,73,3,0,1,0.2,0.2,0.1,2,0,55,65,84.6,3,54,1,3,3,Lorient,2023-02-19 Lorient-Ajaccio,FRA-L1,22-23,9a73c114
+c4173f1a,Vito Mannone,1,ITA,GK,34-354,90,0,0,0,0,0,0,0,0,43,0,0,0,0.0,0.0,0.0,0,0,38,43,88.4,0,38,0,0,0,Lorient,2023-02-19 Lorient-Ajaccio,FRA-L1,22-23,9a73c114
+86a49468,Moussa Soumano,34,FRA,FW,17-225,61,0,0,0,0,1,0,0,0,13,0,0,0,0.1,0.1,0.1,2,0,8,10,80.0,0,7,0,0,0,Ajaccio,2023-02-19 Lorient-Ajaccio,FRA-L1,22-23,9a73c114
+627b570a,Moussa Djitte,28,SEN,FW,23-138,29,0,0,0,0,1,0,0,0,9,0,0,0,0.1,0.1,0.0,0,0,7,7,100.0,0,7,0,0,0,Ajaccio,2023-02-19 Lorient-Ajaccio,FRA-L1,22-23,9a73c114
+20e0dd86,Cyrille Bayala,14,BFA,LM,26-271,86,0,0,0,0,2,0,0,0,24,2,0,2,0.1,0.1,0.0,3,0,10,14,71.4,1,15,1,0,0,Ajaccio,2023-02-19 Lorient-Ajaccio,FRA-L1,22-23,9a73c114
+65fcf987,Kouamé Botué,18,BFA,LM,20-196,4,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,0,0,Ajaccio,2023-02-19 Lorient-Ajaccio,FRA-L1,22-23,9a73c114
+e3844ecb,Mickaël Barreto,4,FRA,CM,32-032,90,0,0,0,0,1,1,0,0,58,0,2,2,0.0,0.0,0.3,5,0,32,53,60.4,5,41,2,2,1,Ajaccio,2023-02-19 Lorient-Ajaccio,FRA-L1,22-23,9a73c114
+740f00ac,Vincent Marchetti,8,FRA,CM,25-230,90,0,0,0,0,3,1,0,0,51,1,0,0,0.1,0.1,0.1,1,0,33,41,80.5,8,37,5,2,1,Ajaccio,2023-02-19 Lorient-Ajaccio,FRA-L1,22-23,9a73c114
+0b4d8274,Romain Hamouma,17,FRA,RM,35-327,76,0,0,0,0,0,0,0,0,27,1,0,0,0.0,0.0,0.0,5,0,15,21,71.4,2,25,3,2,0,Ajaccio,2023-02-19 Lorient-Ajaccio,FRA-L1,22-23,9a73c114
+17e25e72,Ruan Levine,24,BRA,RM,24-031,14,0,0,0,0,1,0,0,0,14,0,2,0,0.1,0.1,0.1,2,0,9,10,90.0,1,14,0,0,0,Ajaccio,2023-02-19 Lorient-Ajaccio,FRA-L1,22-23,9a73c114
+b2791a55,Clément Vidal,15,FRA,DM,22-246,76,0,0,0,0,0,0,1,0,32,1,0,0,0.0,0.0,0.0,0,0,21,30,70.0,6,22,0,0,0,Ajaccio,2023-02-19 Lorient-Ajaccio,FRA-L1,22-23,9a73c114
+7be7c08b,Mehdi Puch-Herrantz,37,FRA,DM,19-030,14,0,0,0,0,0,0,0,0,15,0,0,1,0.0,0.0,0.0,0,0,10,12,83.3,2,12,2,0,0,Ajaccio,2023-02-19 Lorient-Ajaccio,FRA-L1,22-23,9a73c114
+0a63446f,Mickaël Alphonse,2,GLP,LB,33-222,90,0,0,0,0,3,1,0,0,50,4,2,3,0.2,0.2,0.0,1,0,28,34,82.4,1,28,1,2,2,Ajaccio,2023-02-19 Lorient-Ajaccio,FRA-L1,22-23,9a73c114
+a94d93be,Cédric Avinel,21,GLP,CB,36-161,90,0,0,0,0,0,0,0,0,52,2,2,1,0.0,0.0,0.0,0,0,40,45,88.9,3,43,0,0,0,Ajaccio,2023-02-19 Lorient-Ajaccio,FRA-L1,22-23,9a73c114
+a9d4c241,Oumar Gonzalez,25,CMR,CB,24-359,90,0,0,0,0,0,0,0,0,64,3,1,1,0.0,0.0,0.0,1,0,48,52,92.3,3,44,1,0,0,Ajaccio,2023-02-19 Lorient-Ajaccio,FRA-L1,22-23,9a73c114
+1a85bcdb,Mohamed Youssouf,20,COM,RB,34-330,90,0,0,0,0,0,0,1,0,80,5,2,2,0.0,0.0,0.0,1,0,55,68,80.9,7,59,2,0,0,Ajaccio,2023-02-19 Lorient-Ajaccio,FRA-L1,22-23,9a73c114
+1e7aea56,Benjamin Leroy,1,FRA,GK,33-318,90,0,0,0,0,0,0,0,0,29,0,0,0,0.0,0.0,0.0,0,0,20,26,76.9,0,19,0,0,0,Ajaccio,2023-02-19 Lorient-Ajaccio,FRA-L1,22-23,9a73c114

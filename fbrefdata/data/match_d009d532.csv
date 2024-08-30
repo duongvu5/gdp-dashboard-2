@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+437f2b00,Christoph Baumgartner,14,AUT,FW,20-058,50,0,0,0,0,2,0,0,0,26,1,0,2,0.6,0.6,0.1,2,0,12,16,75.0,2,15,3,0,0,Hoffenheim,2019-09-28 Hoffenheim-Gladbach,GER-BL1,19-20,d009d532
+22919e97,Sargis Adamyan,23,ARM,FW,26-128,40,0,0,0,0,2,0,0,0,13,0,0,0,0.1,0.1,0.0,0,0,3,5,60.0,0,9,1,2,1,Hoffenheim,2019-09-28 Hoffenheim-Gladbach,GER-BL1,19-20,d009d532
+a53b661f,Ihlas Bebou,9,TOG,FW,25-158,90,0,0,0,0,1,1,0,0,40,1,1,1,0.0,0.0,0.3,6,0,23,33,69.7,4,20,4,2,2,Hoffenheim,2019-09-28 Hoffenheim-Gladbach,GER-BL1,19-20,d009d532
+37f606f0,Dennis Geiger,8,GER,CM,21-110,78,0,0,0,0,3,0,0,0,68,1,0,0,0.2,0.2,0.0,5,0,50,57,87.7,6,38,4,1,1,Hoffenheim,2019-09-28 Hoffenheim-Gladbach,GER-BL1,19-20,d009d532
+3faa1780,Lukas Rupp,7,GER,CM,28-263,12,0,0,0,0,1,0,0,0,6,1,0,0,0.1,0.1,0.0,0,0,4,4,100.0,0,5,0,0,0,Hoffenheim,2019-09-28 Hoffenheim-Gladbach,GER-BL1,19-20,d009d532
+ffbbc83b,Florian Grillitsch,11,AUT,CM,24-052,90,0,0,0,0,0,0,1,0,65,2,0,0,0.0,0.0,0.0,2,0,45,54,83.3,8,31,2,1,0,Hoffenheim,2019-09-28 Hoffenheim-Gladbach,GER-BL1,19-20,d009d532
+80f36c88,Sebastian Rudy,16,GER,CM,29-212,90,0,0,0,0,3,2,1,0,59,0,0,1,0.2,0.2,0.0,5,0,42,50,84.0,7,31,3,1,1,Hoffenheim,2019-09-28 Hoffenheim-Gladbach,GER-BL1,19-20,d009d532
+ff98492b,Robert Skov,29,DEN,WB,23-131,90,0,0,0,0,2,0,0,0,61,2,2,2,0.1,0.1,0.2,5,0,38,46,82.6,3,36,9,3,3,Hoffenheim,2019-09-28 Hoffenheim-Gladbach,GER-BL1,19-20,d009d532
+79c90e45,Pavel Kadeřábek,3,CZE,WB,27-156,90,0,0,0,0,1,0,0,0,45,1,0,1,0.1,0.1,0.1,3,0,21,38,55.3,2,25,2,0,0,Hoffenheim,2019-09-28 Hoffenheim-Gladbach,GER-BL1,19-20,d009d532
+99de6b6f,Benjamin Hübner,21,GER,CB,30-086,90,0,0,0,0,0,0,0,0,56,1,2,0,0.0,0.0,0.0,0,0,43,50,86.0,2,26,0,0,0,Hoffenheim,2019-09-28 Hoffenheim-Gladbach,GER-BL1,19-20,d009d532
+6ec6fde0,Kevin Akpoguma,25,NGA,CB,24-162,90,0,0,0,0,0,0,0,0,73,2,0,2,0.0,0.0,0.0,0,0,51,56,91.1,3,40,0,0,0,Hoffenheim,2019-09-28 Hoffenheim-Gladbach,GER-BL1,19-20,d009d532
+7f609bfc,Stefan Posch,38,AUT,CB,22-137,66,0,0,0,0,1,1,0,0,53,4,1,4,0.1,0.1,0.0,1,0,31,42,73.8,2,27,0,1,1,Hoffenheim,2019-09-28 Hoffenheim-Gladbach,GER-BL1,19-20,d009d532
+6cc47ae1,Jürgen Locadia,37,CUW,CB,25-325,24,0,0,0,0,1,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,4,5,80.0,0,5,1,0,0,Hoffenheim,2019-09-28 Hoffenheim-Gladbach,GER-BL1,19-20,d009d532
+47064058,Oliver Baumann,1,GER,GK,29-118,90,0,0,0,0,0,0,0,0,56,0,0,0,0.0,0.0,0.0,0,0,47,56,83.9,0,30,0,0,0,Hoffenheim,2019-09-28 Hoffenheim-Gladbach,GER-BL1,19-20,d009d532
+bc6bd723,Alassane Pléa,14,FRA,FW,26-202,90,1,1,0,0,2,1,0,0,36,1,2,0,0.7,0.7,1.3,4,1,17,25,68.0,7,30,4,3,1,Mönchengladbach,2019-09-28 Hoffenheim-Gladbach,GER-BL1,19-20,d009d532
+6f8cd6d0,Marcus Thuram,10,FRA,FW,22-053,76,1,1,0,0,2,2,0,0,37,2,0,0,0.1,0.1,0.7,4,2,20,28,71.4,0,26,4,2,1,Mönchengladbach,2019-09-28 Hoffenheim-Gladbach,GER-BL1,19-20,d009d532
+dfb6490a,Patrick Herrmann,7,GER,FW,28-228,14,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,2,0,0,0,Mönchengladbach,2019-09-28 Hoffenheim-Gladbach,GER-BL1,19-20,d009d532
+0b4f388a,Breel Embolo,36,SUI,AM,22-226,90,0,0,0,0,3,0,0,0,39,3,0,0,0.8,0.8,0.0,0,0,12,20,60.0,0,29,2,5,2,Mönchengladbach,2019-09-28 Hoffenheim-Gladbach,GER-BL1,19-20,d009d532
+36a59ba4,Florian Neuhaus,32,GER,LM,22-196,85,1,0,0,0,4,2,0,0,29,2,0,1,1.0,1.0,0.0,2,0,10,20,50.0,1,23,0,1,1,Mönchengladbach,2019-09-28 Hoffenheim-Gladbach,GER-BL1,19-20,d009d532
+791af558,Raffael,11,BRA,LM,34-184,5,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,0,0,Mönchengladbach,2019-09-28 Hoffenheim-Gladbach,GER-BL1,19-20,d009d532
+384d58d9,Denis Zakaria,8,SUI,CM,22-312,90,0,0,0,0,1,0,1,0,47,2,1,3,0.0,0.0,0.0,1,1,32,38,84.2,1,30,2,2,2,Mönchengladbach,2019-09-28 Hoffenheim-Gladbach,GER-BL1,19-20,d009d532
+496aeede,Christoph Kramer,6,GER,RM,28-221,90,0,0,0,0,0,0,0,0,64,3,1,3,0.0,0.0,0.0,1,0,44,51,86.3,8,43,0,2,1,Mönchengladbach,2019-09-28 Hoffenheim-Gladbach,GER-BL1,19-20,d009d532
+b69261a0,Oscar Wendt,17,SWE,LB,33-339,90,0,0,0,0,0,0,0,0,70,1,1,1,0.0,0.0,0.1,2,0,46,65,70.8,3,33,0,0,0,Mönchengladbach,2019-09-28 Hoffenheim-Gladbach,GER-BL1,19-20,d009d532
+48035304,Nico Elvedi,30,SUI,CB,22-363,90,0,0,0,0,0,0,0,0,68,1,5,0,0.0,0.0,0.0,0,0,51,59,86.4,1,44,2,0,0,Mönchengladbach,2019-09-28 Hoffenheim-Gladbach,GER-BL1,19-20,d009d532
+f521b80a,Matthias Ginter,28,GER,CB,25-252,90,0,0,0,0,0,0,0,0,69,1,2,2,0.0,0.0,0.1,2,0,50,59,84.7,4,52,2,0,0,Mönchengladbach,2019-09-28 Hoffenheim-Gladbach,GER-BL1,19-20,d009d532
+4aea5077,Stefan Lainer,18,AUT,RB,27-032,87,0,1,0,0,0,0,1,0,62,0,1,0,0.0,0.0,0.5,6,2,43,58,74.1,8,42,5,1,0,Mönchengladbach,2019-09-28 Hoffenheim-Gladbach,GER-BL1,19-20,d009d532
+34b54da7,Tony Jantschke,24,GER,RB,29-174,3,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,0,0,Mönchengladbach,2019-09-28 Hoffenheim-Gladbach,GER-BL1,19-20,d009d532
+420c18a1,Yann Sommer,1,SUI,GK,30-285,90,0,0,0,0,0,0,0,0,57,0,0,0,0.0,0.0,0.0,0,0,47,55,85.5,0,37,0,0,0,Mönchengladbach,2019-09-28 Hoffenheim-Gladbach,GER-BL1,19-20,d009d532

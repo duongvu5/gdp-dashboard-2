@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+2054d037,M'Baye Niang,11,SEN,FW,25-066,89,2,0,0,0,6,3,0,0,33,0,0,0,0.7,0.7,0.1,2,0,13,18,72.2,1,22,0,1,0,Rennes,2020-02-23 Rennes-Nîmes,FRA-L1,19-20,2347ecb7
+7cf431a5,James Lea Siliki,12,CMR,"DM,FW",23-256,1,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,0,0,0,0,Rennes,2020-02-23 Rennes-Nîmes,FRA-L1,19-20,2347ecb7
+0be95d34,Romain Del Castillo,22,FRA,"FW,LW",23-331,90,0,0,0,0,4,0,0,0,53,1,0,0,0.2,0.2,0.1,6,0,34,42,81.0,5,35,3,4,2,Rennes,2020-02-23 Rennes-Nîmes,FRA-L1,19-20,2347ecb7
+20e73fac,Benjamin Bourigeaud,14,FRA,"LM,DM",26-040,77,0,0,0,0,2,0,0,0,66,0,0,2,0.4,0.4,0.2,7,0,45,58,77.6,4,46,2,1,0,Rennes,2020-02-23 Rennes-Nîmes,FRA-L1,19-20,2347ecb7
+7091324a,Rafik Guitane,10,FRA,"DM,AM",20-273,13,0,0,0,0,0,0,0,0,14,0,0,0,0.0,0.0,0.0,2,0,7,10,70.0,0,12,2,1,0,Rennes,2020-02-23 Rennes-Nîmes,FRA-L1,19-20,2347ecb7
+c7526c18,Steven Nzonzi,25,FRA,"CM,DM",31-070,90,0,0,0,0,1,1,0,0,84,2,1,1,0.1,0.1,0.0,2,0,70,78,89.7,9,55,3,1,0,Rennes,2020-02-23 Rennes-Nîmes,FRA-L1,19-20,2347ecb7
+7b9c2d84,Eduardo Camavinga,18,FRA,CM,17-105,67,0,0,0,0,2,0,0,0,46,2,0,0,0.1,0.1,0.0,2,0,33,39,84.6,1,31,0,0,0,Rennes,2020-02-23 Rennes-Nîmes,FRA-L1,19-20,2347ecb7
+d14229f3,Adrien Hunou,23,FRA,"AM,FW",26-035,23,0,0,0,0,1,0,0,0,11,0,0,1,0.5,0.5,0.0,0,0,8,9,88.9,0,7,2,1,1,Rennes,2020-02-23 Rennes-Nîmes,FRA-L1,19-20,2347ecb7
+3423f250,Raphinha,7,BRA,"RM,RW",23-071,90,0,0,0,0,4,2,0,0,73,1,0,0,0.2,0.2,0.7,12,0,47,63,74.6,11,53,5,8,4,Rennes,2020-02-23 Rennes-Nîmes,FRA-L1,19-20,2347ecb7
+e54a9890,Faitout Maouassa,17,FRA,LB,21-232,90,0,0,0,0,0,0,0,0,73,2,1,1,0.0,0.0,0.1,4,0,51,61,83.6,5,45,7,6,2,Rennes,2020-02-23 Rennes-Nîmes,FRA-L1,19-20,2347ecb7
+1232e1dc,Joris Gnagnon,21,FRA,CB,23-041,90,0,0,0,0,2,1,0,0,72,2,1,1,0.1,0.1,0.0,1,0,58,62,93.5,6,54,3,0,0,Rennes,2020-02-23 Rennes-Nîmes,FRA-L1,19-20,2347ecb7
+1ec7e1c5,Damien Da Silva,3,FRA,CB,31-282,90,0,0,0,0,2,0,0,0,94,0,0,0,0.1,0.1,0.0,1,1,73,88,83.0,9,63,1,0,0,Rennes,2020-02-23 Rennes-Nîmes,FRA-L1,19-20,2347ecb7
+a4b1028a,Hamari Traoré,27,MLI,RB,28-027,90,0,1,0,0,2,1,0,0,92,2,1,2,0.1,0.1,0.8,5,1,68,80,85.0,10,61,8,2,2,Rennes,2020-02-23 Rennes-Nîmes,FRA-L1,19-20,2347ecb7
+33887998,Edouard Mendy,16,SEN,GK,27-359,90,0,0,0,0,0,0,0,0,28,0,0,0,0.0,0.0,0.0,1,0,21,26,80.8,0,18,0,0,0,Rennes,2020-02-23 Rennes-Nîmes,FRA-L1,19-20,2347ecb7
+3071a619,Nolan Roux,25,FRA,FW,31-359,81,1,0,0,0,1,1,0,0,33,1,1,0,0.1,0.1,0.1,3,1,18,23,78.3,0,18,1,2,1,Nîmes,2020-02-23 Rennes-Nîmes,FRA-L1,19-20,2347ecb7
+3ef68782,Moussa Koné,28,SEN,FW,23-055,9,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,2,0,0,0,Nîmes,2020-02-23 Rennes-Nîmes,FRA-L1,19-20,2347ecb7
+beae3a73,Renaud Ripart,20,FRA,"LW,RB",26-346,90,0,1,0,0,0,0,0,0,47,3,2,2,0.0,0.0,0.1,3,1,22,31,71.0,3,31,3,3,0,Nîmes,2020-02-23 Rennes-Nîmes,FRA-L1,19-20,2347ecb7
+005c0807,Zinedine Ferhat,10,ALG,RW,26-359,90,0,0,0,0,0,0,0,0,36,1,1,2,0.0,0.0,0.1,3,0,18,23,78.3,3,19,2,2,1,Nîmes,2020-02-23 Rennes-Nîmes,FRA-L1,19-20,2347ecb7
+fbf76716,Yassine Benrahou,22,FRA,AM,21-030,54,0,0,0,0,4,1,0,0,32,0,0,0,0.2,0.2,0.0,2,0,16,21,76.2,2,22,2,6,5,Nîmes,2020-02-23 Rennes-Nîmes,FRA-L1,19-20,2347ecb7
+b66d1d8a,Florian Miguel,26,FRA,CB,23-175,36,0,0,0,0,0,0,0,0,15,0,0,2,0.0,0.0,0.0,0,0,5,8,62.5,0,2,0,0,0,Nîmes,2020-02-23 Rennes-Nîmes,FRA-L1,19-20,2347ecb7
+a0b65401,Sidy Sarr,6,SEN,DM,23-263,90,0,0,0,0,0,0,0,0,61,2,1,1,0.0,0.0,0.0,0,0,38,49,77.6,5,27,1,0,0,Nîmes,2020-02-23 Rennes-Nîmes,FRA-L1,19-20,2347ecb7
+2145368f,Lamine Fomba,12,FRA,DM,22-028,90,0,0,0,0,2,0,0,0,38,2,1,2,0.1,0.1,0.0,0,0,22,28,78.6,4,16,0,0,0,Nîmes,2020-02-23 Rennes-Nîmes,FRA-L1,19-20,2347ecb7
+475583ff,Gaëtan Paquiez,15,FRA,LB,26-008,90,0,0,0,0,0,0,1,0,50,3,1,0,0.0,0.0,0.0,0,0,26,37,70.3,3,21,2,0,0,Nîmes,2020-02-23 Rennes-Nîmes,FRA-L1,19-20,2347ecb7
+08082af0,Loïck Landre,5,FRA,CB,27-294,90,0,0,0,0,0,0,0,0,51,5,2,4,0.0,0.0,0.0,1,0,25,30,83.3,2,26,1,0,0,Nîmes,2020-02-23 Rennes-Nîmes,FRA-L1,19-20,2347ecb7
+16324e1d,Anthony Briançon,23,FRA,CB,25-087,52,0,0,0,0,0,0,0,1,44,4,1,1,0.0,0.0,0.0,0,0,30,34,88.2,0,27,0,0,0,Nîmes,2020-02-23 Rennes-Nîmes,FRA-L1,19-20,2347ecb7
+5314e067,Sofiane Alakouch,29,MAR,RB,21-209,89,0,0,0,0,1,0,0,0,51,3,2,2,0.0,0.0,0.0,2,0,30,38,78.9,1,19,0,1,1,Nîmes,2020-02-23 Rennes-Nîmes,FRA-L1,19-20,2347ecb7
+f98b15f0,Romain Philippoteaux,7,FRA,LW,31-358,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Nîmes,2020-02-23 Rennes-Nîmes,FRA-L1,19-20,2347ecb7
+28dabd43,Paul Bernardoni,30,FRA,GK,22-311,90,0,0,0,0,0,0,0,0,40,0,0,0,0.0,0.0,0.0,1,0,12,34,35.3,0,16,0,0,0,Nîmes,2020-02-23 Rennes-Nîmes,FRA-L1,19-20,2347ecb7

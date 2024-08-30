@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+1238a3f9,Davie Selke,27,GER,FW,23-112,82,0,0,0,0,0,0,0,0,18,0,0,1,0.0,0.0,0.0,4,1,7,12,58.3,0,12,0,4,2,Hertha BSC,2018-05-12 Hertha BSC-RB Leipzig,GER-BL1,17-18,bbab2659
+88d4144a,Maximilian Mittelstädt,17,GER,LM,21-055,8,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,3,3,100.0,1,2,0,0,0,Hertha BSC,2018-05-12 Hertha BSC-RB Leipzig,GER-BL1,17-18,bbab2659
+c3fd9887,Vedad Ibišević,19,BIH,FW,33-279,90,1,0,0,0,1,1,0,0,22,1,0,1,0.6,0.6,0.0,1,0,13,17,76.5,2,8,0,1,1,Hertha BSC,2018-05-12 Hertha BSC-RB Leipzig,GER-BL1,17-18,bbab2659
+2042d931,Salomon Kalou,8,CIV,"LM,RM",32-280,90,1,0,0,0,1,1,0,0,35,2,0,0,0.6,0.6,0.3,1,0,20,26,76.9,2,22,0,3,0,Hertha BSC,2018-05-12 Hertha BSC-RB Leipzig,GER-BL1,17-18,bbab2659
+3eb0f2df,Vladimír Darida,6,CZE,CM,27-277,90,0,0,0,0,1,1,0,0,73,2,2,1,0.0,0.0,0.0,0,0,53,63,84.1,8,39,0,1,1,Hertha BSC,2018-05-12 Hertha BSC-RB Leipzig,GER-BL1,17-18,bbab2659
+a63a995f,Fabian Lustenberger,28,SUI,CM,30-010,66,0,0,0,0,0,0,1,0,38,2,3,0,0.0,0.0,0.0,2,0,24,28,85.7,4,14,0,0,0,Hertha BSC,2018-05-12 Hertha BSC-RB Leipzig,GER-BL1,17-18,bbab2659
+ecab64a0,Per Ciljan Skjelbred,3,NOR,CM,30-330,24,0,0,0,0,0,0,0,0,13,1,0,1,0.0,0.0,0.0,0,0,8,11,72.7,2,6,0,2,2,Hertha BSC,2018-05-12 Hertha BSC-RB Leipzig,GER-BL1,17-18,bbab2659
+b93b7882,Mathew Leckie,11,AUS,"RM,RB",27-097,90,0,0,0,0,1,0,0,0,41,1,2,1,0.0,0.0,0.0,2,0,32,37,86.5,3,24,2,1,0,Hertha BSC,2018-05-12 Hertha BSC-RB Leipzig,GER-BL1,17-18,bbab2659
+f7aa75bd,Marvin Plattenhardt,21,GER,LB,26-106,90,0,2,0,0,1,0,0,0,55,1,1,1,0.1,0.1,1.2,3,2,30,46,65.2,3,24,3,2,1,Hertha BSC,2018-05-12 Hertha BSC-RB Leipzig,GER-BL1,17-18,bbab2659
+f86cabbd,Jordan Torunarigha,25,GER,CB,20-278,90,0,0,0,0,1,0,0,0,66,4,1,1,0.3,0.3,0.0,0,0,48,53,90.6,4,45,0,0,0,Hertha BSC,2018-05-12 Hertha BSC-RB Leipzig,GER-BL1,17-18,bbab2659
+3376a776,Karim Rekik,4,NED,CB,23-161,90,0,0,0,0,1,0,0,0,60,0,0,2,0.1,0.1,0.0,1,0,42,50,84.0,1,37,0,0,0,Hertha BSC,2018-05-12 Hertha BSC-RB Leipzig,GER-BL1,17-18,bbab2659
+c18d22f5,Peter Pekarík,2,SVK,RB,31-194,57,0,0,0,0,1,1,0,0,33,0,1,3,0.0,0.0,0.0,1,0,18,27,66.7,5,10,0,0,0,Hertha BSC,2018-05-12 Hertha BSC-RB Leipzig,GER-BL1,17-18,bbab2659
+37c213cf,Julian Schieber,16,GER,"LM,FW",29-088,33,0,0,0,0,0,0,0,0,13,1,0,0,0.0,0.0,0.0,0,0,3,8,37.5,0,2,0,3,0,Hertha BSC,2018-05-12 Hertha BSC-RB Leipzig,GER-BL1,17-18,bbab2659
+27d2618c,Rune Jarstein,22,NOR,GK,33-225,90,0,0,0,0,0,0,0,0,28,0,0,0,0.0,0.0,0.0,0,0,14,26,53.8,0,16,0,0,0,Hertha BSC,2018-05-12 Hertha BSC-RB Leipzig,GER-BL1,17-18,bbab2659
+49fe9070,Timo Werner,11,GER,FW,22-067,78,1,1,0,0,3,2,0,0,28,1,0,0,0.3,0.3,0.1,2,2,12,22,54.5,2,10,2,1,0,RB Leipzig,2018-05-12 Hertha BSC-RB Leipzig,GER-BL1,17-18,bbab2659
+d2416c2e,Yussuf Poulsen,9,DEN,FW,23-331,12,0,0,0,0,1,1,0,0,8,0,0,0,0.1,0.1,0.0,2,0,5,5,100.0,1,4,1,1,1,RB Leipzig,2018-05-12 Hertha BSC-RB Leipzig,GER-BL1,17-18,bbab2659
+97bfa797,Jean-Kévin Augustin,29,FRA,FW,20-330,90,2,1,0,0,5,3,0,0,40,0,0,0,0.3,0.3,0.2,5,3,20,25,80.0,3,23,1,5,2,RB Leipzig,2018-05-12 Hertha BSC-RB Leipzig,GER-BL1,17-18,bbab2659
+7c104bb7,Ademola Lookman,18,NGA,AM,20-204,61,1,2,0,0,1,1,1,0,29,2,0,0,0.1,0.1,0.2,4,2,17,22,77.3,3,19,3,0,0,RB Leipzig,2018-05-12 Hertha BSC-RB Leipzig,GER-BL1,17-18,bbab2659
+5caa62a7,Bruma,17,POR,AM,23-200,29,1,0,0,0,2,1,0,0,20,0,0,0,0.1,0.1,0.0,1,0,14,17,82.4,0,13,0,2,2,RB Leipzig,2018-05-12 Hertha BSC-RB Leipzig,GER-BL1,17-18,bbab2659
+f25c8e3a,Naby Keïta,8,GUI,AM,23-091,75,0,0,0,0,2,1,0,0,36,2,2,0,0.1,0.1,0.1,4,0,24,28,85.7,3,21,2,1,0,RB Leipzig,2018-05-12 Hertha BSC-RB Leipzig,GER-BL1,17-18,bbab2659
+8494acc4,Stefan Ilsanker,13,AUT,AM,28-359,15,0,0,0,0,0,0,0,0,22,0,0,0,0.0,0.0,0.0,1,0,18,22,81.8,1,7,0,0,0,RB Leipzig,2018-05-12 Hertha BSC-RB Leipzig,GER-BL1,17-18,bbab2659
+dc3fa3b5,Diego Demme,31,GER,DM,26-172,90,0,0,0,0,0,0,0,0,67,1,1,2,0.0,0.0,0.1,3,1,59,62,95.2,11,34,0,0,0,RB Leipzig,2018-05-12 Hertha BSC-RB Leipzig,GER-BL1,17-18,bbab2659
+b825a650,Kevin Kampl,44,SVN,DM,27-215,90,0,1,0,0,1,0,0,0,69,0,2,1,0.0,0.0,0.2,5,1,49,59,83.1,5,34,2,2,1,RB Leipzig,2018-05-12 Hertha BSC-RB Leipzig,GER-BL1,17-18,bbab2659
+ca8033cb,Lukas Klostermann,16,GER,LB,21-343,90,0,0,0,0,0,0,0,0,35,0,3,0,0.0,0.0,0.0,0,0,25,30,83.3,1,12,0,0,0,RB Leipzig,2018-05-12 Hertha BSC-RB Leipzig,GER-BL1,17-18,bbab2659
+d248cd8f,Dayot Upamecano,5,FRA,CB,19-197,90,1,0,0,0,1,1,0,0,40,1,3,2,0.1,0.1,0.0,0,0,26,30,86.7,0,17,0,0,0,RB Leipzig,2018-05-12 Hertha BSC-RB Leipzig,GER-BL1,17-18,bbab2659
+5ed9b537,Ibrahima Konaté,6,FRA,CB,18-352,90,0,0,0,0,0,0,0,0,40,4,3,0,0.0,0.0,0.0,1,0,25,27,92.6,1,17,0,0,0,RB Leipzig,2018-05-12 Hertha BSC-RB Leipzig,GER-BL1,17-18,bbab2659
+c1b7847c,Konrad Laimer,27,AUT,RB,20-350,90,0,0,0,0,1,0,0,0,75,9,1,1,0.1,0.1,0.1,1,0,46,56,82.1,3,18,3,2,0,RB Leipzig,2018-05-12 Hertha BSC-RB Leipzig,GER-BL1,17-18,bbab2659
+bcb2ccd8,Péter Gulácsi,32,HUN,GK,28-006,90,0,0,0,0,0,0,0,0,28,0,0,0,0.0,0.0,0.0,0,0,12,28,42.9,0,12,0,0,0,RB Leipzig,2018-05-12 Hertha BSC-RB Leipzig,GER-BL1,17-18,bbab2659

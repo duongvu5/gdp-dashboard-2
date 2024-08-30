@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+2077ae86,Jonas Wind,23,DEN,FW,25-038,90,0,0,0,0,4,1,0,0,36,1,0,0,0.5,0.5,0.2,3,0,23,29,79.3,4,22,1,2,1,Wolfsburg,2024-03-16 Wolfsburg-Augsburg,GER-BL1,23-24,20a7ebf0
+b492126a,Tiago Tomás,11,POR,"FW,LW",21-274,66,0,0,0,0,1,0,0,0,22,1,1,0,0.1,0.1,0.0,3,0,8,14,57.1,0,16,0,1,0,Wolfsburg,2024-03-16 Wolfsburg-Augsburg,GER-BL1,23-24,20a7ebf0
+d5326924,Amin Sarr,9,SWE,LW,23-005,24,0,0,0,0,0,0,0,0,11,0,1,0,0.0,0.0,0.0,0,0,5,9,55.6,0,7,0,1,0,Wolfsburg,2024-03-16 Wolfsburg-Augsburg,GER-BL1,23-24,20a7ebf0
+cb11b429,Patrick Wimmer,39,AUT,LM,22-291,44,1,0,0,0,2,1,0,1,35,3,0,3,0.3,0.3,0.0,0,0,14,24,58.3,0,19,1,1,1,Wolfsburg,2024-03-16 Wolfsburg-Augsburg,GER-BL1,23-24,20a7ebf0
+86e119e0,Maximilian Arnold,27,GER,"DM,CM",29-294,90,0,0,0,0,2,0,0,0,59,2,1,2,0.1,0.1,0.1,2,0,41,51,80.4,4,35,1,0,0,Wolfsburg,2024-03-16 Wolfsburg-Augsburg,GER-BL1,23-24,20a7ebf0
+92d83c27,Mattias Svanberg,32,SWE,"CM,DM",25-071,86,0,0,0,0,2,0,1,0,45,1,1,0,0.2,0.2,0.2,4,0,22,33,66.7,8,34,3,3,1,Wolfsburg,2024-03-16 Wolfsburg-Augsburg,GER-BL1,23-24,20a7ebf0
+f86cd5df,Aster Vranckx,6,BEL,DM,21-164,4,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,1,4,0,0,0,Wolfsburg,2024-03-16 Wolfsburg-Augsburg,GER-BL1,23-24,20a7ebf0
+442b56fa,Ridle Baku,20,GER,"RM,RW",25-343,77,0,0,0,0,3,2,0,0,47,1,1,0,0.2,0.2,0.2,5,0,33,41,80.5,3,38,5,2,2,Wolfsburg,2024-03-16 Wolfsburg-Augsburg,GER-BL1,23-24,20a7ebf0
+fc46aab1,Lovro Majer,19,CRO,RW,26-059,13,0,0,0,0,0,0,0,0,13,0,0,0,0.0,0.0,0.0,1,0,10,12,83.3,2,12,0,2,1,Wolfsburg,2024-03-16 Wolfsburg-Augsburg,GER-BL1,23-24,20a7ebf0
+5c50fdbc,Kevin Paredes,40,USA,LB,20-314,85,0,0,0,0,1,0,0,0,59,3,0,2,0.0,0.0,0.1,2,0,43,50,86.0,4,35,5,0,0,Wolfsburg,2024-03-16 Wolfsburg-Augsburg,GER-BL1,23-24,20a7ebf0
+10e7f486,Rogério,13,BRA,LB,26-063,5,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,1,0,5,6,83.3,0,3,1,0,0,Wolfsburg,2024-03-16 Wolfsburg-Augsburg,GER-BL1,23-24,20a7ebf0
+2bab583c,Cedric Zesiger,5,SUI,CB,25-266,90,0,0,0,0,0,0,0,0,64,0,0,0,0.0,0.0,0.0,0,0,45,51,88.2,2,34,0,0,0,Wolfsburg,2024-03-16 Wolfsburg-Augsburg,GER-BL1,23-24,20a7ebf0
+277c49ed,Maxence Lacroix,4,FRA,CB,23-345,90,0,1,0,0,0,0,0,0,44,0,0,0,0.0,0.0,0.2,1,1,27,34,79.4,1,27,0,0,0,Wolfsburg,2024-03-16 Wolfsburg-Augsburg,GER-BL1,23-24,20a7ebf0
+c459a650,Joakim Mæhle,21,DEN,RB,26-301,90,0,0,0,0,0,0,0,0,60,1,1,1,0.0,0.0,0.0,4,1,45,51,88.2,6,39,2,0,0,Wolfsburg,2024-03-16 Wolfsburg-Augsburg,GER-BL1,23-24,20a7ebf0
+c89e8aae,Pavao Pervan,12,AUT,GK,36-124,90,0,0,0,0,0,0,0,0,35,0,0,0,0.0,0.0,0.0,0,0,25,33,75.8,0,21,0,0,0,Wolfsburg,2024-03-16 Wolfsburg-Augsburg,GER-BL1,23-24,20a7ebf0
+ed79b7d3,Ermedin Demirović,9,BIH,FW,25-357,82,0,0,0,0,3,1,1,0,21,0,0,0,0.1,0.1,0.0,2,1,10,13,76.9,0,10,0,1,0,Augsburg,2024-03-16 Wolfsburg-Augsburg,GER-BL1,23-24,20a7ebf0
+9a2e3a23,Dion Drena Beljo,7,CRO,FW,22-015,8,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,1,3,0,0,0,Augsburg,2024-03-16 Wolfsburg-Augsburg,GER-BL1,23-24,20a7ebf0
+3397e7b5,Phillip Tietz,21,GER,FW,26-251,82,0,1,0,0,1,0,0,0,30,1,0,1,0.0,0.0,0.0,1,0,17,20,85.0,0,16,0,0,0,Augsburg,2024-03-16 Wolfsburg-Augsburg,GER-BL1,23-24,20a7ebf0
+1e274a0a,Sven Michel,20,GER,FW,33-245,8,0,0,0,0,1,0,0,0,2,0,0,0,0.2,0.2,0.0,0,0,0,1,0.0,0,2,1,0,0,Augsburg,2024-03-16 Wolfsburg-Augsburg,GER-BL1,23-24,20a7ebf0
+6ecbddf6,Ruben Vargas,16,SUI,AM,25-224,75,0,1,0,0,1,1,0,0,27,0,1,0,0.0,0.0,0.1,3,1,19,23,82.6,1,14,2,0,0,Augsburg,2024-03-16 Wolfsburg-Augsburg,GER-BL1,23-24,20a7ebf0
+582a5247,Mads Pedersen,3,DEN,LM,27-197,15,0,0,0,0,1,0,0,0,12,0,0,1,0.0,0.0,0.0,0,0,8,9,88.9,0,7,1,1,0,Augsburg,2024-03-16 Wolfsburg-Augsburg,GER-BL1,23-24,20a7ebf0
+ab700320,Arne Maier,10,GER,LM,25-068,75,1,0,0,0,1,1,0,0,42,2,0,0,0.1,0.1,0.0,3,0,29,36,80.6,5,25,1,2,1,Augsburg,2024-03-16 Wolfsburg-Augsburg,GER-BL1,23-24,20a7ebf0
+554bcc91,Arne Engels,27,BEL,AM,20-190,15,0,1,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.1,1,1,7,10,70.0,1,6,0,0,0,Augsburg,2024-03-16 Wolfsburg-Augsburg,GER-BL1,23-24,20a7ebf0
+3eeb80e0,Fredrik Jensen,24,FIN,RM,26-189,63,0,0,0,0,1,0,1,0,30,0,2,2,0.0,0.0,0.0,2,1,15,23,65.2,0,13,0,0,0,Augsburg,2024-03-16 Wolfsburg-Augsburg,GER-BL1,23-24,20a7ebf0
+1c59240b,Pep Biel,11,ESP,RM,27-193,27,0,0,0,0,0,0,1,0,17,1,0,0,0.0,0.0,0.0,0,0,10,12,83.3,4,12,1,2,2,Augsburg,2024-03-16 Wolfsburg-Augsburg,GER-BL1,23-24,20a7ebf0
+a8ee54ad,Kristijan Jakić,17,CRO,DM,26-307,90,2,0,0,0,4,2,0,0,39,2,2,1,0.1,0.1,0.0,2,1,24,29,82.8,4,16,0,1,1,Augsburg,2024-03-16 Wolfsburg-Augsburg,GER-BL1,23-24,20a7ebf0
+054849d2,Iago,22,BRA,LB,26-359,90,0,0,0,0,0,0,0,0,66,1,0,0,0.0,0.0,0.2,4,0,47,59,79.7,5,43,2,2,1,Augsburg,2024-03-16 Wolfsburg-Augsburg,GER-BL1,23-24,20a7ebf0
+677da306,Ohis Felix Uduokhai,19,GER,CB,26-189,90,0,0,0,0,1,0,0,0,55,1,1,3,0.1,0.1,0.1,2,0,38,41,92.7,1,25,0,0,0,Augsburg,2024-03-16 Wolfsburg-Augsburg,GER-BL1,23-24,20a7ebf0
+1025db8e,Jeffrey Gouweleeuw,6,NED,CB,32-250,90,0,0,0,0,1,0,0,0,68,2,2,1,0.0,0.0,0.0,2,0,43,58,74.1,3,45,1,1,1,Augsburg,2024-03-16 Wolfsburg-Augsburg,GER-BL1,23-24,20a7ebf0
+493924a7,Kevin Mbabu,43,SUI,RB,28-332,90,0,0,0,0,0,0,0,0,74,5,0,0,0.0,0.0,0.0,2,0,36,61,59.0,2,38,2,4,1,Augsburg,2024-03-16 Wolfsburg-Augsburg,GER-BL1,23-24,20a7ebf0
+dee3013b,Finn Dahmen,1,GER,GK,25-355,90,0,0,0,0,0,0,0,0,40,0,0,0,0.0,0.0,0.0,1,0,26,37,70.3,0,22,0,0,0,Augsburg,2024-03-16 Wolfsburg-Augsburg,GER-BL1,23-24,20a7ebf0

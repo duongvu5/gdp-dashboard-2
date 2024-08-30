@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+49fe9070,Timo Werner,11,GER,FW,23-241,90,3,3,0,0,5,4,0,0,59,0,0,2,1.1,1.1,1.2,7,4,47,50,94.0,6,39,7,3,2,RB Leipzig,2019-11-02 RB Leipzig-Mainz 05,GER-BL1,19-20,f4c6a983
+d2416c2e,Yussuf Poulsen,9,DEN,FW,25-140,90,1,1,0,0,4,2,0,0,45,3,1,2,0.6,0.6,0.4,8,4,18,26,69.2,4,20,4,2,1,RB Leipzig,2019-11-02 RB Leipzig-Mainz 05,GER-BL1,19-20,f4c6a983
+7c56da38,Christopher Nkunku,18,FRA,LM,21-353,90,1,2,0,0,1,1,0,0,64,0,1,1,0.0,0.0,0.7,5,2,49,57,86.0,8,43,6,5,4,RB Leipzig,2019-11-02 RB Leipzig-Mainz 05,GER-BL1,19-20,f4c6a983
+dc3fa3b5,Diego Demme,31,GER,CM,27-346,90,0,0,0,0,0,0,0,0,110,1,0,1,0.0,0.0,0.0,1,0,95,101,94.1,7,75,1,0,0,RB Leipzig,2019-11-02 RB Leipzig-Mainz 05,GER-BL1,19-20,f4c6a983
+c1b7847c,Konrad Laimer,27,AUT,CM,22-159,45,0,0,0,0,0,0,0,0,39,2,1,0,0.0,0.0,0.0,2,1,26,33,78.8,8,18,1,2,1,RB Leipzig,2019-11-02 RB Leipzig-Mainz 05,GER-BL1,19-20,f4c6a983
+92432bc6,Amadou Haidara,8,MLI,CM,21-275,45,0,0,0,0,0,0,0,0,71,2,2,2,0.0,0.0,0.0,1,0,56,61,91.8,5,42,1,3,1,RB Leipzig,2019-11-02 RB Leipzig-Mainz 05,GER-BL1,19-20,f4c6a983
+e280527c,Marcel Sabitzer,7,AUT,RM,25-230,61,1,0,0,0,2,2,0,0,44,0,2,4,0.8,0.8,0.1,3,1,20,33,60.6,6,17,1,0,0,RB Leipzig,2019-11-02 RB Leipzig-Mainz 05,GER-BL1,19-20,f4c6a983
+dc62b55d,Matheus Cunha,20,BRA,RM,20-159,29,0,0,0,0,1,0,0,0,20,0,0,0,0.0,0.0,0.0,2,0,11,15,73.3,2,14,1,1,0,RB Leipzig,2019-11-02 RB Leipzig-Mainz 05,GER-BL1,19-20,f4c6a983
+8ff2354e,Marcel Halstenberg,23,GER,LB,28-036,90,1,0,0,0,3,2,0,0,103,1,0,2,0.4,0.4,0.0,2,1,84,93,90.3,8,52,2,0,0,RB Leipzig,2019-11-02 RB Leipzig-Mainz 05,GER-BL1,19-20,f4c6a983
+d248cd8f,Dayot Upamecano,5,FRA,CB,21-006,51,0,0,0,0,0,0,0,0,68,1,0,3,0.0,0.0,0.0,0,0,61,64,95.3,5,48,1,0,0,RB Leipzig,2019-11-02 RB Leipzig-Mainz 05,GER-BL1,19-20,f4c6a983
+10b9fa99,Ethan Ampadu,26,WAL,CB,19-049,39,0,0,0,0,0,0,0,0,50,0,1,2,0.0,0.0,0.0,0,0,41,46,89.1,2,34,0,0,0,RB Leipzig,2019-11-02 RB Leipzig-Mainz 05,GER-BL1,19-20,f4c6a983
+ca8033cb,Lukas Klostermann,16,GER,CB,23-152,90,0,1,0,0,0,0,0,0,90,1,2,2,0.0,0.0,0.5,1,1,75,80,93.8,4,48,0,0,0,RB Leipzig,2019-11-02 RB Leipzig-Mainz 05,GER-BL1,19-20,f4c6a983
+ac73ec79,Nordi Mukiele,22,FRA,RB,22-001,90,1,0,0,0,2,1,0,0,94,0,1,0,0.5,0.5,0.0,1,0,66,87,75.9,1,53,4,2,1,RB Leipzig,2019-11-02 RB Leipzig-Mainz 05,GER-BL1,19-20,f4c6a983
+bcb2ccd8,Péter Gulácsi,1,HUN,GK,29-180,90,0,0,0,0,0,0,0,0,31,0,0,0,0.0,0.0,0.0,0,0,26,30,86.7,0,15,0,0,0,RB Leipzig,2019-11-02 RB Leipzig-Mainz 05,GER-BL1,19-20,f4c6a983
+53e07d0b,Ádám Szalai,28,HUN,FW,31-328,39,0,0,0,0,0,0,0,0,15,1,0,0,0.0,0.0,0.1,1,0,10,13,76.9,2,6,0,0,0,Mainz 05,2019-11-02 RB Leipzig-Mainz 05,GER-BL1,19-20,f4c6a983
+33b554b7,Danny Latza,6,GER,CM,29-330,51,0,0,0,0,2,1,0,0,39,1,1,0,0.1,0.1,0.0,1,0,21,30,70.0,2,23,0,1,1,Mainz 05,2019-11-02 RB Leipzig-Mainz 05,GER-BL1,19-20,f4c6a983
+74c7c2db,Robin Quaison,7,SWE,FW,26-024,90,0,0,0,0,2,0,0,0,27,1,0,0,0.1,0.1,0.0,1,0,12,17,70.6,1,9,0,0,0,Mainz 05,2019-11-02 RB Leipzig-Mainz 05,GER-BL1,19-20,f4c6a983
+635f2732,Jean-Paul Boëtius,5,NED,"AM,LM",25-225,74,0,0,0,0,1,0,0,0,36,0,0,2,0.1,0.1,0.0,0,0,12,25,48.0,2,22,1,2,1,Mainz 05,2019-11-02 RB Leipzig-Mainz 05,GER-BL1,19-20,f4c6a983
+f26834c7,Karim Onisiwo,21,AUT,LM,27-230,16,0,0,0,0,0,0,0,0,3,1,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,2,0,1,0,Mainz 05,2019-11-02 RB Leipzig-Mainz 05,GER-BL1,19-20,f4c6a983
+442b56fa,Ridle Baku,34,GER,"LM,CM,RB",21-208,90,0,0,0,0,0,0,0,0,53,3,1,2,0.0,0.0,0.1,4,0,37,40,92.5,3,34,0,5,3,Mainz 05,2019-11-02 RB Leipzig-Mainz 05,GER-BL1,19-20,f4c6a983
+66385c46,Levin Öztunalı,8,GER,RM,23-232,90,0,0,0,0,2,0,0,0,38,1,0,2,0.1,0.1,0.1,4,0,16,28,57.1,3,22,3,2,2,Mainz 05,2019-11-02 RB Leipzig-Mainz 05,GER-BL1,19-20,f4c6a983
+9ceb7642,Pierre Kunde,14,CMR,"DM,CM",24-099,53,0,0,0,0,0,0,0,0,35,1,1,0,0.0,0.0,0.0,0,0,23,30,76.7,3,21,2,2,2,Mainz 05,2019-11-02 RB Leipzig-Mainz 05,GER-BL1,19-20,f4c6a983
+a7813ac4,Daniel Brosinski,18,GER,RB,31-108,37,0,0,0,0,0,0,0,0,25,2,0,0,0.0,0.0,0.1,1,0,14,21,66.7,2,8,0,0,0,Mainz 05,2019-11-02 RB Leipzig-Mainz 05,GER-BL1,19-20,f4c6a983
+2f3e911a,Aarón Martín,3,ESP,LB,22-194,90,0,0,0,0,0,0,0,0,46,3,4,0,0.0,0.0,0.2,3,0,25,37,67.6,0,17,1,0,0,Mainz 05,2019-11-02 RB Leipzig-Mainz 05,GER-BL1,19-20,f4c6a983
+a5ec3ede,Alexander Hack,42,GER,CB,26-055,90,0,0,0,0,2,1,0,0,54,0,2,0,0.1,0.1,0.0,0,0,30,41,73.2,2,28,0,1,0,Mainz 05,2019-11-02 RB Leipzig-Mainz 05,GER-BL1,19-20,f4c6a983
+90339309,Jerry St. Juste,4,NED,CB,23-014,90,0,0,0,0,0,0,0,0,47,0,2,1,0.0,0.0,0.0,0,0,34,38,89.5,0,27,0,0,0,Mainz 05,2019-11-02 RB Leipzig-Mainz 05,GER-BL1,19-20,f4c6a983
+64ba07c0,Ronaël Pierre-Gabriel,2,FRA,"CB,RB",21-142,90,0,0,0,0,0,0,1,0,40,0,2,0,0.0,0.0,0.0,1,0,23,33,69.7,3,24,1,2,2,Mainz 05,2019-11-02 RB Leipzig-Mainz 05,GER-BL1,19-20,f4c6a983
+5c4bf6ba,Robin Zentner,27,GER,GK,25-005,90,0,0,0,0,0,0,0,0,37,0,0,0,0.0,0.0,0.0,0,0,24,34,70.6,0,18,0,0,0,Mainz 05,2019-11-02 RB Leipzig-Mainz 05,GER-BL1,19-20,f4c6a983

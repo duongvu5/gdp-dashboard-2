@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+16ceb862,Olivier Giroud,9,FRA,FW,37-138,90,0,0,0,0,2,1,0,0,16,0,0,0,0.2,0.2,0.0,1,0,9,12,75.0,1,13,0,1,1,Milan,2024-02-15 Milan-Rennes,UEL,23-24,1f1516a8
+20730eae,Rafael Leão,10,POR,LW,24-250,61,1,0,0,0,4,1,0,0,32,1,1,0,0.5,0.5,0.2,6,1,20,24,83.3,2,25,4,4,2,Milan,2024-02-15 Milan-Rennes,UEL,23-24,1f1516a8
+ca607d59,Noah Okafor,17,SUI,LW,23-267,29,0,0,0,0,1,0,0,0,11,0,0,0,0.2,0.2,0.1,1,0,6,8,75.0,1,8,1,0,0,Milan,2024-02-15 Milan-Rennes,UEL,23-24,1f1516a8
+1bf33a9a,Christian Pulisic,11,USA,RW,25-150,80,0,0,0,0,3,2,0,0,54,3,0,4,0.4,0.4,0.1,9,0,28,36,77.8,4,37,4,4,2,Milan,2024-02-15 Milan-Rennes,UEL,23-24,1f1516a8
+26777636,Yacine Adli,7,FRA,AM,23-201,10,0,0,0,0,0,0,0,0,16,0,0,0,0.0,0.0,0.0,0,0,14,14,100.0,2,13,1,1,0,Milan,2024-02-15 Milan-Rennes,UEL,23-24,1f1516a8
+e97fd090,Ruben Loftus-Cheek,8,ENG,AM,28-023,74,2,0,0,0,2,2,0,0,30,0,0,0,0.4,0.4,0.5,4,0,21,21,100.0,4,23,3,5,2,Milan,2024-02-15 Milan-Rennes,UEL,23-24,1f1516a8
+db092d3b,Ismaël Bennacer,4,ALG,"DM,AM",26-076,16,0,0,0,0,1,0,0,0,15,0,0,0,0.1,0.1,0.0,1,0,13,14,92.9,1,14,0,1,1,Milan,2024-02-15 Milan-Rennes,UEL,23-24,1f1516a8
+afb61630,Tijjani Reijnders,14,NED,DM,25-201,90,0,0,0,0,2,0,0,0,49,1,0,1,0.1,0.1,0.0,2,1,42,43,97.7,6,42,3,3,2,Milan,2024-02-15 Milan-Rennes,UEL,23-24,1f1516a8
+b51b1b9c,Yunus Musah,80,USA,"DM,RW",21-078,90,0,0,0,0,1,0,0,0,31,2,0,1,0.4,0.4,0.2,1,0,20,21,95.2,0,23,2,2,1,Milan,2024-02-15 Milan-Rennes,UEL,23-24,1f1516a8
+d4c9725f,Theo Hernández,19,FRA,LB,26-132,90,0,1,0,0,1,0,0,0,67,2,0,0,0.0,0.0,0.4,5,1,58,65,89.2,6,55,2,1,1,Milan,2024-02-15 Milan-Rennes,UEL,23-24,1f1516a8
+c235e803,Matteo Gabbia,46,ITA,CB,24-117,90,0,0,0,0,0,0,0,0,113,0,0,1,0.0,0.0,0.0,0,0,104,110,94.5,2,94,0,0,0,Milan,2024-02-15 Milan-Rennes,UEL,23-24,1f1516a8
+8b8a56ce,Simon Kjær,24,DEN,CB,34-326,61,0,0,0,0,1,1,0,0,87,2,2,0,0.0,0.0,0.1,2,1,76,79,96.2,4,73,0,0,0,Milan,2024-02-15 Milan-Rennes,UEL,23-24,1f1516a8
+ff5ea0bf,Malick Thiaw,28,GER,CB,22-191,29,0,0,0,0,0,0,0,0,30,1,0,0,0.0,0.0,0.0,0,0,25,25,100.0,1,24,0,0,0,Milan,2024-02-15 Milan-Rennes,UEL,23-24,1f1516a8
+e288d4b3,Alessandro Florenzi,42,ITA,RB,32-341,74,0,1,0,0,1,0,0,0,89,0,1,0,0.0,0.0,0.1,1,1,72,85,84.7,9,73,3,1,1,Milan,2024-02-15 Milan-Rennes,UEL,23-24,1f1516a8
+5cbb5ad6,Filippo Terracciano,38,ITA,RB,21-007,16,0,0,0,0,0,0,0,0,13,2,0,0,0.0,0.0,0.0,0,0,10,10,100.0,0,6,0,0,0,Milan,2024-02-15 Milan-Rennes,UEL,23-24,1f1516a8
+fcb38f57,Mike Maignan,16,FRA,GK,28-227,90,0,0,0,0,0,0,0,0,52,0,0,0,0.0,0.0,0.0,0,0,47,50,94.0,0,48,0,0,0,Milan,2024-02-15 Milan-Rennes,UEL,23-24,1f1516a8
+5148dcc5,Martin Terrier,7,FRA,FW,26-348,90,0,0,0,0,0,0,0,0,18,2,0,1,0.0,0.0,0.0,1,0,14,15,93.3,2,12,0,0,0,Rennes,2024-02-15 Milan-Rennes,UEL,23-24,1f1516a8
+bf4c41f9,Arnaud Kalimuendo,9,FRA,FW,22-026,66,0,0,0,0,1,0,0,0,20,0,0,0,0.0,0.0,0.2,2,0,9,11,81.8,1,17,0,0,0,Rennes,2024-02-15 Milan-Rennes,UEL,23-24,1f1516a8
+aad56ca3,Amine Gouiri,10,ALG,FW,23-364,24,0,0,0,0,3,1,0,0,21,0,0,0,0.3,0.3,0.0,0,0,13,15,86.7,2,18,2,4,2,Rennes,2024-02-15 Milan-Rennes,UEL,23-24,1f1516a8
+9e7483ff,Désiré Doué,33,FRA,LM,18-257,74,0,0,0,0,2,1,0,0,46,4,0,1,0.2,0.2,0.1,2,0,21,32,65.6,4,32,3,6,4,Rennes,2024-02-15 Milan-Rennes,UEL,23-24,1f1516a8
+cad3fd4d,Ibrahim Salah,34,MAR,LM,22-169,16,0,0,0,0,0,0,0,0,13,1,0,0,0.0,0.0,0.0,1,0,6,9,66.7,0,9,0,2,0,Rennes,2024-02-15 Milan-Rennes,UEL,23-24,1f1516a8
+a17a94d6,Azor Matusiwa,6,NED,CM,25-293,74,0,0,0,0,0,0,0,0,29,0,1,1,0.0,0.0,0.0,2,0,23,25,92.0,2,21,0,0,0,Rennes,2024-02-15 Milan-Rennes,UEL,23-24,1f1516a8
+6191093d,Ludovic Blas,11,FRA,RM,26-046,16,0,0,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.2,2,0,9,10,90.0,1,11,4,2,2,Rennes,2024-02-15 Milan-Rennes,UEL,23-24,1f1516a8
+5e22e2a4,Baptiste Santamaria,8,FRA,CM,28-343,90,0,0,0,0,2,1,0,0,54,3,0,0,0.1,0.1,0.0,2,0,44,46,95.7,4,40,0,0,0,Rennes,2024-02-15 Milan-Rennes,UEL,23-24,1f1516a8
+20e73fac,Benjamin Bourigeaud,14,FRA,"RM,CM",30-032,90,0,0,0,0,1,0,0,0,59,1,0,0,0.1,0.1,0.1,2,0,49,56,87.5,4,54,1,1,0,Rennes,2024-02-15 Milan-Rennes,UEL,23-24,1f1516a8
+5d0e0a1f,Adrien Truffert,3,FRA,LB,22-087,74,0,0,0,0,0,0,0,0,41,0,1,1,0.0,0.0,0.0,3,0,29,38,76.3,8,32,4,0,0,Rennes,2024-02-15 Milan-Rennes,UEL,23-24,1f1516a8
+8bfbf257,Mahamadou Nagida,43,CMR,LB,18-232,16,0,0,0,0,0,0,1,0,10,0,0,1,0.0,0.0,0.0,0,0,8,8,100.0,0,5,0,0,0,Rennes,2024-02-15 Milan-Rennes,UEL,23-24,1f1516a8
+df8d6029,Arthur Theate,5,BEL,CB,23-266,90,0,0,0,0,1,0,0,0,52,0,0,0,0.0,0.0,0.0,1,0,41,46,89.1,8,35,3,0,0,Rennes,2024-02-15 Milan-Rennes,UEL,23-24,1f1516a8
+4534a352,Warmed Omari,23,FRA,CB,23-298,90,0,0,0,0,0,0,0,0,46,1,1,2,0.0,0.0,0.0,0,0,34,37,91.9,3,32,0,0,0,Rennes,2024-02-15 Milan-Rennes,UEL,23-24,1f1516a8
+b4ef3fb5,Guela Doué,17,CIV,RB,21-121,66,0,0,0,0,1,1,0,0,30,3,1,1,0.1,0.1,0.0,1,0,17,21,81.0,2,16,1,2,1,Rennes,2024-02-15 Milan-Rennes,UEL,23-24,1f1516a8
+cea59f02,Alidu Seidu,36,GHA,RB,23-256,24,0,0,0,0,1,0,0,0,22,2,1,0,0.0,0.0,0.0,3,0,15,17,88.2,1,13,0,0,0,Rennes,2024-02-15 Milan-Rennes,UEL,23-24,1f1516a8
+1d2d5cc8,Steve Mandanda,30,FRA,GK,38-324,90,0,0,0,0,0,0,0,0,43,0,0,0,0.0,0.0,0.0,0,0,30,40,75.0,0,28,0,0,0,Rennes,2024-02-15 Milan-Rennes,UEL,23-24,1f1516a8

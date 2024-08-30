@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+11ced928,Yaya Sanogo,9,FRA,FW,25-000,52,1,0,0,0,4,3,0,0,12,0,1,0,1.0,1.0,0.0,4,0,4,6,66.7,1,10,1,1,1,Toulouse,2018-01-27 Toulouse-Troyes,FRA-L1,17-18,40961be4
+d33c706e,Andy Delort,10,ALG,FW,26-110,38,0,0,0,0,3,2,0,0,18,0,0,0,0.4,0.4,0.0,1,0,7,12,58.3,0,8,2,0,0,Toulouse,2018-01-27 Toulouse-Troyes,FRA-L1,17-18,40961be4
+f09a8b75,Jimmy Durmaz,21,SWE,LM,28-311,80,0,0,0,0,1,1,0,0,63,1,1,0,0.0,0.0,0.6,8,0,37,56,66.1,7,35,2,3,3,Toulouse,2018-01-27 Toulouse-Troyes,FRA-L1,17-18,40961be4
+6ca88b2a,François Moubandje,29,SUI,"LB,LM",27-220,10,0,0,0,0,0,0,0,0,15,1,2,0,0.0,0.0,0.0,1,0,6,9,66.7,1,2,0,0,0,Toulouse,2018-01-27 Toulouse-Troyes,FRA-L1,17-18,40961be4
+b86fe156,Giannelli Imbula,25,COD,CM,25-137,90,0,0,0,0,4,0,0,0,84,2,0,3,0.3,0.3,0.0,5,1,64,71,90.1,8,50,3,2,2,Toulouse,2018-01-27 Toulouse-Troyes,FRA-L1,17-18,40961be4
+bced0375,Ibrahim Sangaré,17,CIV,CM,20-056,90,0,0,0,0,3,0,1,0,75,3,3,1,0.1,0.1,0.0,4,1,50,63,79.4,8,50,2,0,0,Toulouse,2018-01-27 Toulouse-Troyes,FRA-L1,17-18,40961be4
+7d9b37bf,Corentin Jean,8,FRA,RM,22-196,82,0,1,0,0,3,0,0,0,47,0,1,0,0.1,0.1,0.7,5,0,36,41,87.8,4,32,7,1,1,Toulouse,2018-01-27 Toulouse-Troyes,FRA-L1,17-18,40961be4
+cb9ec45d,Clément Michelin,13,FRA,RM,20-261,8,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,1,0,0,0,Toulouse,2018-01-27 Toulouse-Troyes,FRA-L1,17-18,40961be4
+677ee102,Yannick Cahuzac,4,FRA,DM,33-009,90,0,0,0,0,2,1,0,0,68,3,2,1,0.1,0.1,0.0,2,0,49,57,86.0,5,33,1,1,1,Toulouse,2018-01-27 Toulouse-Troyes,FRA-L1,17-18,40961be4
+b99bec05,Issiaga Sylla,12,GUI,"LB,LM",24-026,90,0,0,0,0,0,0,0,0,74,2,1,1,0.0,0.0,0.2,4,0,50,69,72.5,3,40,5,1,1,Toulouse,2018-01-27 Toulouse-Troyes,FRA-L1,17-18,40961be4
+bcc81786,Kelvin Amian,2,FRA,CB,19-353,90,0,0,0,0,0,0,0,0,70,1,5,1,0.0,0.0,0.0,0,0,53,57,93.0,2,44,1,0,0,Toulouse,2018-01-27 Toulouse-Troyes,FRA-L1,17-18,40961be4
+a712ca2b,Issa Diop,5,FRA,CB,21-018,90,0,0,0,0,0,0,0,0,63,1,1,0,0.0,0.0,0.0,0,0,52,56,92.9,5,44,0,1,0,Toulouse,2018-01-27 Toulouse-Troyes,FRA-L1,17-18,40961be4
+7f9111ea,Steeve Yago,20,BFA,RB,25-042,90,0,0,0,0,0,0,0,0,62,3,3,0,0.0,0.0,0.0,1,0,52,57,91.2,5,31,0,0,0,Toulouse,2018-01-27 Toulouse-Troyes,FRA-L1,17-18,40961be4
+4e7db402,Alban Lafont,40,FRA,GK,19-004,90,0,0,0,0,0,0,0,0,28,0,0,0,0.0,0.0,0.0,0,0,18,27,66.7,0,12,0,0,0,Toulouse,2018-01-27 Toulouse-Troyes,FRA-L1,17-18,40961be4
+1ac3b888,Adama Niane,26,MLI,FW,24-225,90,0,0,0,0,1,0,0,0,32,0,0,1,0.0,0.0,0.0,0,0,11,16,68.8,0,15,1,1,0,Troyes,2018-01-27 Toulouse-Troyes,FRA-L1,17-18,40961be4
+75d97aa6,Stéphane Darbion,8,FRA,"LM,LW",33-311,27,0,0,0,0,0,0,0,0,7,0,1,1,0.0,0.0,0.0,0,0,2,3,66.7,0,5,0,0,0,Troyes,2018-01-27 Toulouse-Troyes,FRA-L1,17-18,40961be4
+d2448564,Samuel Grandsir,29,FRA,LM,21-166,63,0,0,0,0,0,0,0,0,30,5,1,1,0.0,0.0,0.0,0,0,15,21,71.4,0,22,0,2,0,Troyes,2018-01-27 Toulouse-Troyes,FRA-L1,17-18,40961be4
+88615858,Bryan Pelé,28,FRA,RW,25-308,6,0,0,0,0,0,0,0,0,2,1,0,0,0.0,0.0,0.0,0,0,0,0,,0,1,0,1,0,Troyes,2018-01-27 Toulouse-Troyes,FRA-L1,17-18,40961be4
+67ac5bb8,Gabriel Magalhães,3,BRA,CB,20-039,84,0,0,0,0,0,0,1,0,51,1,0,2,0.0,0.0,0.0,0,0,31,42,73.8,5,31,0,0,0,Troyes,2018-01-27 Toulouse-Troyes,FRA-L1,17-18,40961be4
+796b1c41,Saîf-Eddine Khaoui,13,TUN,"RM,CM,AM",22-275,90,0,0,0,0,0,0,0,0,48,1,1,1,0.0,0.0,0.0,0,0,22,39,56.4,2,23,0,5,3,Troyes,2018-01-27 Toulouse-Troyes,FRA-L1,17-18,40961be4
+eaf71a5e,Karim Azamoum,6,FRA,"CM,DM",28-010,90,0,0,0,0,0,0,1,0,44,4,2,1,0.0,0.0,0.0,1,0,21,34,61.8,0,17,1,0,0,Troyes,2018-01-27 Toulouse-Troyes,FRA-L1,17-18,40961be4
+535b0343,Alois Confais,27,FRA,"CM,DM",21-142,76,0,0,0,0,0,0,0,0,40,0,0,0,0.0,0.0,0.0,0,0,29,38,76.3,3,28,0,0,0,Troyes,2018-01-27 Toulouse-Troyes,FRA-L1,17-18,40961be4
+871fc5f8,Jonathan Tinhan,20,BEN,RM,28-240,14,0,0,0,0,0,0,1,0,10,1,1,0,0.0,0.0,0.0,1,0,3,6,50.0,1,4,0,1,0,Troyes,2018-01-27 Toulouse-Troyes,FRA-L1,17-18,40961be4
+de488e56,Charles Traore,23,MLI,LB,26-026,90,0,0,0,0,0,0,0,0,57,1,1,1,0.0,0.0,0.0,0,0,43,52,82.7,2,23,0,1,1,Troyes,2018-01-27 Toulouse-Troyes,FRA-L1,17-18,40961be4
+6ba71da5,Jimmy Giraudon,24,FRA,CB,26-011,2,0,0,0,0,0,0,0,1,6,0,0,0,0.0,0.0,0.0,0,0,5,6,83.3,1,4,0,0,0,Troyes,2018-01-27 Toulouse-Troyes,FRA-L1,17-18,40961be4
+446aa6e1,Oswaldo Vizcarrondo,4,VEN,CB,33-241,90,0,0,0,0,0,0,1,0,56,0,3,0,0.0,0.0,0.0,0,0,35,48,72.9,3,30,0,0,0,Troyes,2018-01-27 Toulouse-Troyes,FRA-L1,17-18,40961be4
+ff16ecad,Mathieu Deplagne,12,FRA,RB,26-118,90,0,0,0,0,0,0,0,0,72,1,1,1,0.0,0.0,0.0,0,0,51,65,78.5,5,33,2,0,0,Troyes,2018-01-27 Toulouse-Troyes,FRA-L1,17-18,40961be4
+e750cba4,Erwin Zelazny,1,FRA,GK,26-127,90,0,0,0,0,0,0,0,0,55,0,0,0,0.0,0.0,0.0,0,0,29,50,58.0,0,28,0,0,0,Troyes,2018-01-27 Toulouse-Troyes,FRA-L1,17-18,40961be4

@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+f36c432f,Stevan Jovetić,19,MNE,FW,32-039,87,1,0,0,0,3,2,0,0,50,0,0,0,0.2,0.2,0.6,4,0,28,41,68.3,6,29,4,3,2,Hertha BSC,2021-12-11 Hertha BSC-Arminia,GER-BL1,21-22,365f5f06
+71ec39ef,Lucas Tousart,29,FRA,RM,24-226,3,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.2,1,0,4,4,100.0,1,3,0,0,0,Hertha BSC,2021-12-11 Hertha BSC-Arminia,GER-BL1,21-22,365f5f06
+ff182fdc,Ishak Belfodil,14,ALG,FW,29-333,77,0,1,0,0,4,0,0,0,36,2,1,0,0.4,0.4,0.4,6,1,16,23,69.6,1,18,1,3,0,Hertha BSC,2021-12-11 Hertha BSC-Arminia,GER-BL1,21-22,365f5f06
+17f3620a,Krzysztof Piątek,9,POL,FW,26-163,13,0,0,0,0,2,1,0,0,10,0,0,0,0.5,0.5,0.0,2,0,2,5,40.0,1,7,1,1,0,Hertha BSC,2021-12-11 Hertha BSC-Arminia,GER-BL1,21-22,365f5f06
+b3325a30,Suat Serdar,8,GER,AM,24-244,68,0,0,0,0,2,1,0,0,47,4,3,1,0.3,0.3,0.0,0,0,23,29,79.3,5,28,0,9,7,Hertha BSC,2021-12-11 Hertha BSC-Arminia,GER-BL1,21-22,365f5f06
+73d6a176,Jurgen Ekkelenkamp,10,NED,"AM,LW",21-250,22,0,0,0,0,1,0,0,0,10,0,0,0,0.1,0.1,0.0,1,0,6,8,75.0,0,3,0,0,0,Hertha BSC,2021-12-11 Hertha BSC-Arminia,GER-BL1,21-22,365f5f06
+f972644c,Marco Richter,23,GER,AM,24-017,69,0,0,0,0,1,1,0,0,48,1,1,2,0.0,0.0,0.1,4,0,24,32,75.0,5,18,3,2,0,Hertha BSC,2021-12-11 Hertha BSC-Arminia,GER-BL1,21-22,365f5f06
+f4ec4fd0,Kevin-Prince Boateng,27,GHA,"DM,LM",34-280,21,0,0,0,0,0,0,0,0,19,1,0,1,0.0,0.0,0.0,1,0,12,16,75.0,1,7,0,0,0,Hertha BSC,2021-12-11 Hertha BSC-Arminia,GER-BL1,21-22,365f5f06
+e26fcca3,Santiago Ascacíbar,18,ARG,"DM,CM",24-289,90,0,0,0,0,0,0,0,0,68,4,2,1,0.0,0.0,0.0,0,0,47,57,82.5,2,26,0,2,2,Hertha BSC,2021-12-11 Hertha BSC-Arminia,GER-BL1,21-22,365f5f06
+3eb0f2df,Vladimír Darida,6,CZE,"DM,AM",31-125,87,0,0,0,0,1,1,1,0,67,0,0,2,0.0,0.0,0.1,4,0,50,61,82.0,12,38,1,3,3,Hertha BSC,2021-12-11 Hertha BSC-Arminia,GER-BL1,21-22,365f5f06
+1238a3f9,Davie Selke,7,GER,RW,26-325,3,1,0,0,0,2,1,0,0,6,0,0,0,0.2,0.2,0.0,1,0,2,3,66.7,0,2,1,0,0,Hertha BSC,2021-12-11 Hertha BSC-Arminia,GER-BL1,21-22,365f5f06
+f7aa75bd,Marvin Plattenhardt,21,GER,LB,29-319,90,0,0,0,0,0,0,0,0,74,0,2,1,0.0,0.0,0.3,7,1,43,62,69.4,5,25,2,0,0,Hertha BSC,2021-12-11 Hertha BSC-Arminia,GER-BL1,21-22,365f5f06
+aad48be9,Niklas Stark,5,GER,CB,26-241,90,0,0,0,0,1,0,0,0,82,1,1,3,0.0,0.0,0.0,1,0,62,65,95.4,5,51,2,0,0,Hertha BSC,2021-12-11 Hertha BSC-Arminia,GER-BL1,21-22,365f5f06
+7c473e12,Dedryck Boyata,4,BEL,CB,31-013,90,0,0,0,0,3,1,0,0,72,0,0,0,0.3,0.3,0.1,1,0,50,62,80.6,1,51,0,0,0,Hertha BSC,2021-12-11 Hertha BSC-Arminia,GER-BL1,21-22,365f5f06
+58a2e9f6,Deyovaisio Zeefuik,42,NED,RB,23-275,90,0,0,0,0,0,0,0,0,72,4,2,1,0.0,0.0,0.0,1,0,49,57,86.0,2,29,0,0,0,Hertha BSC,2021-12-11 Hertha BSC-Arminia,GER-BL1,21-22,365f5f06
+0d55d942,Alexander Schwolow,1,GER,GK,29-192,90,0,0,0,0,0,0,0,0,38,0,0,0,0.0,0.0,0.0,0,0,27,38,71.1,0,27,0,0,0,Hertha BSC,2021-12-11 Hertha BSC-Arminia,GER-BL1,21-22,365f5f06
+e21042ae,Fabian Klos,9,GER,FW,34-009,60,0,0,0,0,2,0,0,0,20,0,0,0,0.1,0.1,0.0,1,0,6,13,46.2,2,8,0,1,1,Arminia,2021-12-11 Hertha BSC-Arminia,GER-BL1,21-22,365f5f06
+ebac0ace,Bryan Lasme,10,FRA,FW,23-027,30,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,2,0,4,6,66.7,0,6,0,0,0,Arminia,2021-12-11 Hertha BSC-Arminia,GER-BL1,21-22,365f5f06
+63b9cc6d,Masaya Okugawa,11,JPN,LW,25-241,75,0,0,0,0,0,0,0,0,21,2,2,1,0.0,0.0,0.0,1,0,7,9,77.8,0,8,0,2,0,Arminia,2021-12-11 Hertha BSC-Arminia,GER-BL1,21-22,365f5f06
+0174ba21,Robin Hack,21,GER,LW,23-106,15,0,0,0,0,0,0,0,0,12,1,0,0,0.0,0.0,0.0,1,0,4,9,44.4,1,5,0,0,0,Arminia,2021-12-11 Hertha BSC-Arminia,GER-BL1,21-22,365f5f06
+cb11b429,Patrick Wimmer,20,AUT,RW,20-195,75,0,0,0,0,2,0,0,0,44,2,0,1,0.1,0.1,0.0,2,0,10,29,34.5,1,27,4,5,2,Arminia,2021-12-11 Hertha BSC-Arminia,GER-BL1,21-22,365f5f06
+40b58bfc,Janni Serra,23,GER,RW,23-273,15,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,5,6,83.3,1,3,1,1,1,Arminia,2021-12-11 Hertha BSC-Arminia,GER-BL1,21-22,365f5f06
+106bca06,Alessandro Schöpf,8,AUT,AM,27-307,90,0,0,0,0,2,0,0,0,39,0,0,0,0.2,0.2,0.0,4,0,22,31,71.0,2,26,2,3,1,Arminia,2021-12-11 Hertha BSC-Arminia,GER-BL1,21-22,365f5f06
+901c0f97,Manuel Prietl,19,AUT,DM,30-130,90,0,0,0,0,0,0,0,0,47,2,1,2,0.0,0.0,0.0,0,0,21,34,61.8,2,22,1,0,0,Arminia,2021-12-11 Hertha BSC-Arminia,GER-BL1,21-22,365f5f06
+d25fee56,Fabian Kunze,16,GER,DM,23-180,60,0,0,0,0,1,0,0,0,36,1,4,2,0.0,0.0,0.0,1,0,19,27,70.4,7,17,0,0,0,Arminia,2021-12-11 Hertha BSC-Arminia,GER-BL1,21-22,365f5f06
+f9f92b5f,Florian Krüger,18,GER,DM,22-301,30,0,0,0,0,1,0,0,0,15,0,1,0,0.1,0.1,0.1,2,0,9,12,75.0,3,8,1,0,0,Arminia,2021-12-11 Hertha BSC-Arminia,GER-BL1,21-22,365f5f06
+c0d3bd23,Jacob Barrett Laursen,5,DEN,LB,27-024,70,0,0,0,0,0,0,0,0,34,1,0,1,0.0,0.0,0.0,0,0,18,25,72.0,2,11,0,1,1,Arminia,2021-12-11 Hertha BSC-Arminia,GER-BL1,21-22,365f5f06
+6ea23758,Andrés Andrade Cedeño,30,PAN,LB,23-056,20,0,0,0,0,0,0,0,0,18,2,1,0,0.0,0.0,0.0,0,0,8,14,57.1,0,9,0,0,0,Arminia,2021-12-11 Hertha BSC-Arminia,GER-BL1,21-22,365f5f06
+c562c5b4,Joakim Nilsson,4,SWE,CB,27-308,90,0,0,0,0,0,0,0,0,39,1,0,3,0.0,0.0,0.0,1,0,25,30,83.3,4,20,2,0,0,Arminia,2021-12-11 Hertha BSC-Arminia,GER-BL1,21-22,365f5f06
+526ea7cc,Amos Pieper,2,GER,CB,23-328,90,0,0,0,0,0,0,0,0,61,3,2,2,0.0,0.0,0.1,1,0,39,47,83.0,2,36,0,1,1,Arminia,2021-12-11 Hertha BSC-Arminia,GER-BL1,21-22,365f5f06
+f0a37d36,Cédric Brunner,27,SUI,RB,27-297,90,0,0,0,0,1,0,1,0,60,6,0,3,0.0,0.0,0.1,1,0,22,42,52.4,2,30,1,3,1,Arminia,2021-12-11 Hertha BSC-Arminia,GER-BL1,21-22,365f5f06
+c1242d4e,Stefan Ortega,1,GER,GK,29-035,90,0,0,0,0,0,0,0,0,42,0,0,0,0.0,0.0,0.0,0,0,28,39,71.8,0,24,0,0,0,Arminia,2021-12-11 Hertha BSC-Arminia,GER-BL1,21-22,365f5f06

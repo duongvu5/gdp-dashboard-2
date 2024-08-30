@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+7a42d0df,Florian Sotoca,7,FRA,FW,29-344,82,1,0,0,0,4,2,0,0,29,1,0,0,0.8,0.8,0.0,1,0,15,22,68.2,1,15,0,1,0,Lens,2020-10-03 Lens-Saint-Étienne,FRA-L1,20-21,d2f273bc
+7d9b37bf,Corentin Jean,25,FRA,FW,25-080,8,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,1,0,0,0,Lens,2020-10-03 Lens-Saint-Étienne,FRA-L1,20-21,d2f273bc
+23c63b7f,Ignatius Ganago,27,CMR,FW,21-230,14,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,1,1,2,2,100.0,0,1,1,0,0,Lens,2020-10-03 Lens-Saint-Étienne,FRA-L1,20-21,d2f273bc
+be47b750,Simon Banza,23,COD,FW,24-051,76,0,0,0,0,1,1,0,0,22,3,0,0,0.1,0.1,0.0,1,0,6,9,66.7,2,10,0,2,0,Lens,2020-10-03 Lens-Saint-Étienne,FRA-L1,20-21,d2f273bc
+5b1bf5e3,Gaël Kakuta,10,COD,AM,29-104,69,1,0,1,1,0,0,1,0,58,3,0,0,0.8,0.0,0.1,3,0,33,48,68.8,5,18,0,2,1,Lens,2020-10-03 Lens-Saint-Étienne,FRA-L1,20-21,d2f273bc
+96e5168e,Tony Mauricio,22,FRA,AM,26-195,21,0,1,0,0,2,0,0,0,16,1,0,0,0.1,0.1,0.1,2,1,12,13,92.3,1,4,1,0,0,Lens,2020-10-03 Lens-Saint-Étienne,FRA-L1,20-21,d2f273bc
+ce4f40c7,Cheick Doucouré,28,MLI,CM,20-269,82,0,0,0,0,3,0,0,0,46,4,1,0,0.1,0.1,0.0,0,0,28,35,80.0,3,20,2,1,1,Lens,2020-10-03 Lens-Saint-Étienne,FRA-L1,20-21,d2f273bc
+88970207,Manuel Perez,6,FRA,CM,29-145,8,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,8,8,100.0,2,7,0,0,0,Lens,2020-10-03 Lens-Saint-Étienne,FRA-L1,20-21,d2f273bc
+677ee102,Yannick Cahuzac,18,FRA,CM,35-259,90,0,0,0,0,0,0,0,0,57,2,1,0,0.0,0.0,0.0,0,0,37,47,78.7,4,18,0,0,0,Lens,2020-10-03 Lens-Saint-Étienne,FRA-L1,20-21,d2f273bc
+5167c97e,Massadio Haïdara,21,MLI,WB,27-306,82,0,0,0,0,1,0,0,0,60,1,0,2,0.3,0.3,0.1,3,1,44,51,86.3,7,24,5,2,1,Lens,2020-10-03 Lens-Saint-Étienne,FRA-L1,20-21,d2f273bc
+59948ef7,David Pereira da Costa,33,POR,"FW,MF",19-272,8,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,Lens,2020-10-03 Lens-Saint-Étienne,FRA-L1,20-21,d2f273bc
+5219ab4a,Jonathan Clauss,11,FRA,WB,28-008,90,0,0,0,0,1,1,0,0,80,5,1,1,0.0,0.0,0.2,5,1,44,61,72.1,6,38,3,4,2,Lens,2020-10-03 Lens-Saint-Étienne,FRA-L1,20-21,d2f273bc
+6f5ec8bb,Facundo Medina,14,ARG,CB,21-128,90,0,0,0,0,0,0,0,0,110,2,2,0,0.0,0.0,0.3,3,0,90,101,89.1,3,63,1,1,1,Lens,2020-10-03 Lens-Saint-Étienne,FRA-L1,20-21,d2f273bc
+114bbdee,Loïc Bade,4,FRA,CB,20-175,90,0,0,0,0,0,0,0,0,98,2,0,1,0.0,0.0,0.0,0,0,83,93,89.2,7,48,0,0,0,Lens,2020-10-03 Lens-Saint-Étienne,FRA-L1,20-21,d2f273bc
+06c48679,Jonathan Gradit,24,FRA,CB,27-314,90,0,0,0,0,0,0,0,0,64,1,0,2,0.0,0.0,0.0,0,0,58,61,95.1,5,46,3,0,0,Lens,2020-10-03 Lens-Saint-Étienne,FRA-L1,20-21,d2f273bc
+edbe46dc,Jean-Louis Leca,16,FRA,GK,35-012,90,0,0,0,0,0,0,0,0,26,0,0,0,0.0,0.0,0.0,0,0,15,25,60.0,0,12,0,0,0,Lens,2020-10-03 Lens-Saint-Étienne,FRA-L1,20-21,d2f273bc
+0b0cbe5b,Denis Bouanga,20,GAB,FW,25-327,70,0,0,0,0,1,1,0,0,21,1,0,0,0.1,0.1,0.0,1,0,6,11,54.5,0,8,1,4,3,Saint-Étienne,2020-10-03 Lens-Saint-Étienne,FRA-L1,20-21,d2f273bc
+0b4d8274,Romain Hamouma,21,FRA,FW,33-188,20,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,5,8,62.5,0,6,0,1,1,Saint-Étienne,2020-10-03 Lens-Saint-Étienne,FRA-L1,20-21,d2f273bc
+46a7b605,Maxence Rivera,32,FRA,LM,18-126,15,0,0,0,0,0,0,0,0,5,1,0,0,0.0,0.0,0.0,0,0,0,0,,0,2,0,1,0,Saint-Étienne,2020-10-03 Lens-Saint-Étienne,FRA-L1,20-21,d2f273bc
+f6b94e8d,Saidou Sow,35,GUI,LM,18-091,75,0,0,0,0,0,0,0,0,28,5,0,1,0.0,0.0,0.0,0,0,17,20,85.0,1,6,0,0,0,Saint-Étienne,2020-10-03 Lens-Saint-Étienne,FRA-L1,20-21,d2f273bc
+b94b8be1,Adil Aouchiche,17,FRA,CM,18-080,45,0,0,0,0,0,0,0,0,19,0,0,1,0.0,0.0,0.1,1,0,8,13,61.5,1,10,1,3,2,Saint-Étienne,2020-10-03 Lens-Saint-Étienne,FRA-L1,20-21,d2f273bc
+2677a1de,Wahbi Khazri,10,TUN,CM,29-238,18,0,0,0,0,0,0,0,1,4,0,0,0,0.0,0.0,0.0,0,0,0,3,0.0,0,1,0,1,0,Saint-Étienne,2020-10-03 Lens-Saint-Étienne,FRA-L1,20-21,d2f273bc
+8577e60a,Mahdi Camara,8,FRA,CM,22-095,90,0,0,0,0,0,0,0,0,38,1,1,1,0.0,0.0,0.0,0,0,27,33,81.8,4,14,0,4,3,Saint-Étienne,2020-10-03 Lens-Saint-Étienne,FRA-L1,20-21,d2f273bc
+7b9a9e25,Arnaud Nordin,18,FRA,RM,22-108,70,0,0,0,0,1,0,0,0,16,0,0,2,0.1,0.1,0.0,1,0,4,8,50.0,0,8,0,6,4,Saint-Étienne,2020-10-03 Lens-Saint-Étienne,FRA-L1,20-21,d2f273bc
+e2f9bb5f,Zaydou Youssouf,28,FRA,RM,21-084,20,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,0,0,6,7,85.7,0,5,0,1,1,Saint-Étienne,2020-10-03 Lens-Saint-Étienne,FRA-L1,20-21,d2f273bc
+0ad37003,Yvan Neyou,19,CMR,DM,23-274,84,0,0,0,0,0,0,0,0,42,2,1,1,0.0,0.0,0.0,0,0,25,29,86.2,2,17,2,1,0,Saint-Étienne,2020-10-03 Lens-Saint-Étienne,FRA-L1,20-21,d2f273bc
+3cd7820a,Lucas Gourna-Douath,33,FRA,DM,17-059,6,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,2,0,0,0,Saint-Étienne,2020-10-03 Lens-Saint-Étienne,FRA-L1,20-21,d2f273bc
+0bb6e193,Yvann Macon,27,FRA,LB,22-002,90,0,0,0,0,0,0,1,0,71,1,0,0,0.0,0.0,0.0,0,0,41,53,77.4,2,28,3,4,3,Saint-Étienne,2020-10-03 Lens-Saint-Étienne,FRA-L1,20-21,d2f273bc
+ab096c6f,Timothée Kolodziejczak,5,FRA,CB,29-002,13,0,0,0,0,0,0,0,1,9,0,1,0,0.0,0.0,0.0,0,0,4,4,100.0,1,2,0,0,0,Saint-Étienne,2020-10-03 Lens-Saint-Étienne,FRA-L1,20-21,d2f273bc
+5f26e0c5,Harold Moukoudi,2,CMR,CB,22-311,90,0,0,0,0,0,0,0,0,43,1,1,6,0.0,0.0,0.0,0,0,19,27,70.4,3,12,0,3,3,Saint-Étienne,2020-10-03 Lens-Saint-Étienne,FRA-L1,20-21,d2f273bc
+12bd0579,Nelson Sissoko,31,FRA,RB,23-210,90,0,0,0,0,0,0,0,0,55,1,4,1,0.0,0.0,0.1,1,0,33,44,75.0,3,21,0,0,0,Saint-Étienne,2020-10-03 Lens-Saint-Étienne,FRA-L1,20-21,d2f273bc
+28a65a2c,Jessy Moulin,30,FRA,GK,34-264,90,0,0,0,0,0,0,0,0,47,0,0,0,0.0,0.0,0.0,0,0,23,44,52.3,0,18,0,0,0,Saint-Étienne,2020-10-03 Lens-Saint-Étienne,FRA-L1,20-21,d2f273bc

@@ -1,0 +1,32 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+8e235926,Michael Gregoritsch,38,AUT,FW,29-221,90,0,0,0,0,4,0,0,0,25,0,2,1,0.2,0.2,0.0,1,0,11,14,78.6,2,8,0,0,0,Freiburg,2023-11-25 Freiburg-Darmstadt 98,GER-BL1,23-24,057a9eb7
+54e4866f,Vincenzo Grifo,32,ITA,AM,30-232,90,0,0,0,0,2,1,0,0,84,1,0,1,0.1,0.1,0.2,4,0,56,76,73.7,3,43,0,3,3,Freiburg,2023-11-25 Freiburg-Darmstadt 98,GER-BL1,23-24,057a9eb7
+ca618d23,Lucas Höler,9,GER,AM,29-138,89,1,0,0,0,2,1,0,0,47,2,1,0,0.9,0.9,0.1,5,0,29,39,74.4,2,33,1,1,1,Freiburg,2023-11-25 Freiburg-Darmstadt 98,GER-BL1,23-24,057a9eb7
+82e12fe7,Junior Adamu,20,AUT,AM,22-172,1,0,0,0,0,0,0,0,0,2,0,0,1,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,0,0,Freiburg,2023-11-25 Freiburg-Darmstadt 98,GER-BL1,23-24,057a9eb7
+5d8e331f,Nicolas Höfler,27,GER,CM,33-261,90,0,0,0,0,1,0,1,0,63,2,0,1,0.1,0.1,0.0,1,0,47,56,83.9,7,32,2,0,0,Freiburg,2023-11-25 Freiburg-Darmstadt 98,GER-BL1,23-24,057a9eb7
+beb882a8,Maximilian Eggestein,8,GER,CM,26-352,90,0,0,0,0,3,1,0,0,63,1,0,1,0.1,0.1,0.0,1,0,42,52,80.8,9,37,4,3,1,Freiburg,2023-11-25 Freiburg-Darmstadt 98,GER-BL1,23-24,057a9eb7
+dd676a97,Noah Weißhaupt,7,GER,WB,22-066,90,0,0,0,0,0,0,1,0,45,1,0,0,0.0,0.0,0.0,3,0,26,36,72.2,3,27,4,6,2,Freiburg,2023-11-25 Freiburg-Darmstadt 98,GER-BL1,23-24,057a9eb7
+d01bbb6f,Ritsu Doan,42,JPN,WB,25-162,81,0,0,0,0,3,0,0,0,52,1,0,1,0.2,0.2,0.0,2,0,27,36,75.0,2,34,4,10,4,Freiburg,2023-11-25 Freiburg-Darmstadt 98,GER-BL1,23-24,057a9eb7
+313254a3,Kiliann Sildillia,25,FRA,WB,21-193,9,0,0,0,0,0,0,0,0,12,0,0,0,0.0,0.0,0.0,1,0,9,10,90.0,1,7,0,0,0,Freiburg,2023-11-25 Freiburg-Darmstadt 98,GER-BL1,23-24,057a9eb7
+25ab9c9c,Manuel Gulde,5,GER,CB,32-286,81,0,0,0,0,0,0,0,0,56,1,1,0,0.0,0.0,0.0,0,0,48,54,88.9,4,30,0,0,0,Freiburg,2023-11-25 Freiburg-Darmstadt 98,GER-BL1,23-24,057a9eb7
+14b09c41,Jordy Makengo,33,FRA,CB,22-114,9,0,0,0,0,0,0,0,0,13,0,0,0,0.0,0.0,0.0,1,0,9,12,75.0,1,7,0,0,0,Freiburg,2023-11-25 Freiburg-Darmstadt 98,GER-BL1,23-24,057a9eb7
+302527b2,Philipp Lienhart,3,AUT,CB,27-137,90,0,0,0,0,0,0,0,0,126,3,0,1,0.0,0.0,0.1,3,1,104,118,88.1,11,102,6,0,0,Freiburg,2023-11-25 Freiburg-Darmstadt 98,GER-BL1,23-24,057a9eb7
+f521b80a,Matthias Ginter,28,GER,CB,29-310,90,0,1,0,0,0,0,0,0,118,0,0,2,0.0,0.0,0.9,6,1,96,109,88.1,15,82,3,0,0,Freiburg,2023-11-25 Freiburg-Darmstadt 98,GER-BL1,23-24,057a9eb7
+dbd1b101,Noah Atubolu,1,GER,GK,21-184,90,0,0,0,0,0,0,0,0,29,0,0,0,0.0,0.0,0.0,0,0,27,29,93.1,1,17,0,0,0,Freiburg,2023-11-25 Freiburg-Darmstadt 98,GER-BL1,23-24,057a9eb7
+85b6462d,Aaron Seydel,22,GER,FW,27-291,73,0,0,0,0,0,0,0,0,26,0,0,2,0.0,0.0,0.0,1,0,9,16,56.3,0,7,2,3,1,Darmstadt 98,2023-11-25 Freiburg-Darmstadt 98,GER-BL1,23-24,057a9eb7
+e7f4869a,Oscar Vilhelmsson,29,SWE,"FW,LW",20-054,17,0,0,0,0,0,0,0,0,8,0,0,1,0.0,0.0,0.0,1,0,1,6,16.7,1,2,0,0,0,Darmstadt 98,2023-11-25 Freiburg-Darmstadt 98,GER-BL1,23-24,057a9eb7
+3dbdbb6a,Mathias Honsak,18,AUT,"LW,AM",26-340,89,1,0,0,0,2,1,0,0,35,1,0,1,0.1,0.1,0.1,2,0,12,19,63.2,1,17,3,1,0,Darmstadt 98,2023-11-25 Freiburg-Darmstadt 98,GER-BL1,23-24,057a9eb7
+83e1f40e,Luca Pfeiffer,24,GER,"FW,LW",27-097,1,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,1,0,0,0,Darmstadt 98,2023-11-25 Freiburg-Darmstadt 98,GER-BL1,23-24,057a9eb7
+65857fdf,Tim Skarke,27,GER,"RW,AM",27-079,73,0,0,0,0,1,0,0,0,17,1,0,2,0.0,0.0,0.0,1,0,4,7,57.1,0,9,1,1,0,Darmstadt 98,2023-11-25 Freiburg-Darmstadt 98,GER-BL1,23-24,057a9eb7
+7bbb0ac4,Emir Karic,19,AUT,LB,26-169,17,0,0,0,0,0,0,0,0,17,2,1,1,0.0,0.0,0.0,0,0,9,12,75.0,3,6,0,1,1,Darmstadt 98,2023-11-25 Freiburg-Darmstadt 98,GER-BL1,23-24,057a9eb7
+178018f9,Fabian Nürnberger,15,GER,"LM,RW,LB",24-120,90,0,0,0,0,0,0,0,0,58,1,0,0,0.0,0.0,0.1,1,0,39,52,75.0,4,24,2,0,0,Darmstadt 98,2023-11-25 Freiburg-Darmstadt 98,GER-BL1,23-24,057a9eb7
+017018d1,Fabian Holland,32,GER,"CM,DM,LM",33-137,90,0,0,0,0,1,0,0,0,28,0,2,0,0.0,0.0,0.0,1,0,17,21,81.0,1,10,0,0,0,Darmstadt 98,2023-11-25 Freiburg-Darmstadt 98,GER-BL1,23-24,057a9eb7
+10876d02,Marvin Mehlem,6,GER,"CM,AM,RM",26-075,89,0,1,0,0,2,0,0,0,35,0,4,3,0.2,0.2,0.1,3,1,20,24,83.3,4,17,2,1,1,Darmstadt 98,2023-11-25 Freiburg-Darmstadt 98,GER-BL1,23-24,057a9eb7
+431c837b,Klaus Gjasula,23,ALB,AM,33-346,1,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,4,4,100.0,0,1,0,0,0,Darmstadt 98,2023-11-25 Freiburg-Darmstadt 98,GER-BL1,23-24,057a9eb7
+3489184e,Matthias Bader,26,GER,"RM,RB",26-161,90,0,0,0,0,0,0,0,0,30,2,0,0,0.0,0.0,0.0,1,1,21,25,84.0,1,14,0,1,0,Darmstadt 98,2023-11-25 Freiburg-Darmstadt 98,GER-BL1,23-24,057a9eb7
+36cf2caf,Matej Maglica,5,CRO,CB,25-061,90,0,0,0,0,0,0,0,0,61,1,2,2,0.0,0.0,0.0,0,0,35,45,77.8,2,24,0,0,0,Darmstadt 98,2023-11-25 Freiburg-Darmstadt 98,GER-BL1,23-24,057a9eb7
+796a5f30,Jannik Müller,20,GER,CB,29-311,90,0,0,0,0,1,0,0,0,44,2,0,3,0.1,0.1,0.0,0,0,24,32,75.0,2,19,0,0,0,Darmstadt 98,2023-11-25 Freiburg-Darmstadt 98,GER-BL1,23-24,057a9eb7
+2d5f03bf,Christoph Zimmermann,4,GER,CB,30-317,57,0,0,0,0,0,0,0,0,14,1,0,0,0.0,0.0,0.0,1,0,8,10,80.0,0,8,0,0,0,Darmstadt 98,2023-11-25 Freiburg-Darmstadt 98,GER-BL1,23-24,057a9eb7
+697dc00a,Bartol Franjić,28,CRO,"DM,CM",23-315,33,0,0,0,0,0,0,0,0,13,0,1,2,0.0,0.0,0.0,0,0,4,4,100.0,1,1,0,1,0,Darmstadt 98,2023-11-25 Freiburg-Darmstadt 98,GER-BL1,23-24,057a9eb7
+99219195,Alexander Brunst,30,GER,GK,28-141,90,0,0,0,0,0,0,0,0,48,0,0,0,0.0,0.0,0.0,1,0,22,47,46.8,0,26,0,0,0,Darmstadt 98,2023-11-25 Freiburg-Darmstadt 98,GER-BL1,23-24,057a9eb7

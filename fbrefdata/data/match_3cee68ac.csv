@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+bf4c41f9,Arnaud Kalimuendo,9,FRA,FW,20-287,70,0,0,0,0,2,0,0,0,23,0,0,0,0.2,0.2,0.0,1,0,14,17,82.4,1,22,4,1,0,Rennes,2022-11-03 Rennes-AÉK Lárnaka,UEL,22-23,3cee68ac
+5d0e0a1f,Adrien Truffert,3,FRA,FW,20-348,20,0,0,0,0,0,0,0,0,13,0,0,0,0.0,0.0,0.0,1,0,10,12,83.3,1,10,6,1,0,Rennes,2022-11-03 Rennes-AÉK Lárnaka,UEL,22-23,3cee68ac
+0e46fa2f,Matthis Abline,28,FRA,FW,19-220,55,1,0,0,0,3,1,0,0,24,0,1,0,0.3,0.3,0.0,2,0,11,14,78.6,2,19,2,2,1,Rennes,2022-11-03 Rennes-AÉK Lárnaka,UEL,22-23,3cee68ac
+aad56ca3,Amine Gouiri,19,ALG,FW,22-260,35,0,0,0,0,1,0,0,0,27,0,0,0,0.1,0.1,0.1,2,0,19,22,86.4,2,20,2,3,2,Rennes,2022-11-03 Rennes-AÉK Lárnaka,UEL,22-23,3cee68ac
+5148dcc5,Martin Terrier,7,FRA,LM,25-244,55,0,0,0,0,0,0,0,0,30,0,0,0,0.0,0.0,0.1,1,0,15,25,60.0,5,21,1,3,1,Rennes,2022-11-03 Rennes-AÉK Lárnaka,UEL,22-23,3cee68ac
+fffea3e5,Jeremy Doku,11,BEL,LM,20-160,35,0,0,0,0,1,0,0,0,22,0,0,0,0.0,0.0,0.1,3,0,13,17,76.5,1,18,2,2,0,Rennes,2022-11-03 Rennes-AÉK Lárnaka,UEL,22-23,3cee68ac
+a0f9b535,Flavien Tait,20,FRA,CM,29-274,90,0,0,0,0,2,0,1,0,88,4,1,1,0.2,0.2,0.0,4,0,71,79,89.9,9,67,4,1,1,Rennes,2022-11-03 Rennes-AÉK Lárnaka,UEL,22-23,3cee68ac
+fc46aab1,Lovro Majer,21,CRO,CM,24-290,62,0,0,0,0,1,0,0,0,44,6,1,0,0.0,0.0,0.1,3,0,29,36,80.6,2,34,2,0,0,Rennes,2022-11-03 Rennes-AÉK Lárnaka,UEL,22-23,3cee68ac
+1df4a109,Lesley Ugochukwu,6,FRA,CM,18-222,28,0,0,0,0,0,0,0,0,24,1,0,1,0.0,0.0,0.0,1,0,21,21,100.0,2,20,4,1,1,Rennes,2022-11-03 Rennes-AÉK Lárnaka,UEL,22-23,3cee68ac
+20e73fac,Benjamin Bourigeaud,14,FRA,RM,28-293,62,0,1,0,0,0,0,0,0,51,2,0,2,0.0,0.0,0.1,3,1,28,42,66.7,2,35,0,1,0,Rennes,2022-11-03 Rennes-AÉK Lárnaka,UEL,22-23,3cee68ac
+9e7483ff,Désiré Doué,33,FRA,RM,17-153,28,0,0,0,0,3,0,0,0,22,0,0,0,0.2,0.2,0.0,0,0,8,13,61.5,0,16,2,3,1,Rennes,2022-11-03 Rennes-AÉK Lárnaka,UEL,22-23,3cee68ac
+70c52749,Birger Meling,25,NOR,LB,27-321,90,0,0,0,0,0,0,0,0,98,5,2,3,0.0,0.0,0.1,4,0,69,84,82.1,8,54,2,0,0,Rennes,2022-11-03 Rennes-AÉK Lárnaka,UEL,22-23,3cee68ac
+c678ddd7,Jeanuël Belocian,18,FRA,CB,17-259,90,0,0,0,0,1,0,0,0,56,0,1,3,0.0,0.0,0.0,0,0,42,49,85.7,1,48,0,0,0,Rennes,2022-11-03 Rennes-AÉK Lárnaka,UEL,22-23,3cee68ac
+8d62d31a,Joe Rodon,2,WAL,CB,25-012,90,0,0,0,0,0,0,0,0,72,0,1,2,0.0,0.0,0.0,0,0,54,63,85.7,4,56,1,0,0,Rennes,2022-11-03 Rennes-AÉK Lárnaka,UEL,22-23,3cee68ac
+b026bbf6,Lorenz Assignon,22,TOG,RB,22-134,90,0,0,0,0,1,0,0,0,63,1,2,3,0.0,0.0,0.0,1,0,40,52,76.9,4,39,1,0,0,Rennes,2022-11-03 Rennes-AÉK Lárnaka,UEL,22-23,3cee68ac
+9e17ccff,Doğan Alemdar,1,TUR,GK,20-005,90,0,0,0,0,0,0,0,0,32,0,0,0,0.0,0.0,0.0,0,0,20,31,64.5,0,22,0,0,0,Rennes,2022-11-03 Rennes-AÉK Lárnaka,UEL,22-23,3cee68ac
+743ffce1,Victor Olatunji,19,NGA,FW,23-059,89,0,0,0,0,4,0,0,0,30,0,1,0,0.4,0.4,0.0,0,0,10,15,66.7,0,18,5,2,0,AÉK Lárnaka,2022-11-03 Rennes-AÉK Lárnaka,UEL,22-23,3cee68ac
+40dc75f0,Henry Andreou,30,CYP,CM,21-215,1,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,0,0,AÉK Lárnaka,2022-11-03 Rennes-AÉK Lárnaka,UEL,22-23,3cee68ac
+a6979b0f,Ádám Gyurcsó,45,HUN,LW,31-242,87,0,1,0,0,4,1,0,0,51,1,2,1,0.2,0.2,0.0,3,1,26,35,74.3,4,40,6,0,0,AÉK Lárnaka,2022-11-03 Rennes-AÉK Lárnaka,UEL,22-23,3cee68ac
+3fba18d3,Nikos Englezou,21,CYP,"LW,LM",29-115,3,0,0,0,0,0,0,0,0,4,0,0,1,0.0,0.0,0.0,0,0,0,1,0.0,0,1,0,0,0,AÉK Lárnaka,2022-11-03 Rennes-AÉK Lárnaka,UEL,22-23,3cee68ac
+81069528,Roberto Rosales,16,VEN,"RW,RM",33-348,90,0,0,0,0,1,0,1,0,51,3,1,1,0.0,0.0,0.1,2,0,25,36,69.4,4,33,0,2,1,AÉK Lárnaka,2022-11-03 Rennes-AÉK Lárnaka,UEL,22-23,3cee68ac
+42f8775b,Rafail Mamas,66,CYP,AM,21-244,73,0,0,0,0,0,0,0,0,40,3,0,4,0.0,0.0,0.1,2,0,15,17,88.2,2,24,2,7,0,AÉK Lárnaka,2022-11-03 Rennes-AÉK Lárnaka,UEL,22-23,3cee68ac
+8df5b30f,Rafael Lopes,12,POR,"AM,FW",31-098,17,1,0,0,0,1,1,0,0,7,0,0,0,0.2,0.2,0.0,0,0,5,5,100.0,0,6,0,0,0,AÉK Lárnaka,2022-11-03 Rennes-AÉK Lárnaka,UEL,22-23,3cee68ac
+44400941,Luís Gustavo Ledes,7,POR,DM,30-036,87,0,0,0,0,0,0,0,0,64,1,2,0,0.0,0.0,0.3,4,0,49,57,86.0,4,49,0,3,1,AÉK Lárnaka,2022-11-03 Rennes-AÉK Lárnaka,UEL,22-23,3cee68ac
+7cc5bd9c,Mikel González,3,ESP,CB,37-040,3,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,AÉK Lárnaka,2022-11-03 Rennes-AÉK Lárnaka,UEL,22-23,3cee68ac
+29b61deb,Pere Pons,17,ESP,"DM,CM",29-256,90,0,0,0,0,1,0,0,0,49,4,2,1,0.0,0.0,0.0,0,0,29,36,80.6,3,37,1,3,0,AÉK Lárnaka,2022-11-03 Rennes-AÉK Lárnaka,UEL,22-23,3cee68ac
+4a7078f9,Ángel,14,ESP,LB,29-273,90,0,0,0,0,1,0,0,0,76,1,0,1,0.1,0.1,0.0,2,0,58,69,84.1,6,60,3,3,2,AÉK Lárnaka,2022-11-03 Rennes-AÉK Lárnaka,UEL,22-23,3cee68ac
+6aafdc27,Nenad Tomović,4,SRB,CB,35-065,90,0,0,0,0,0,0,0,0,73,1,5,2,0.0,0.0,0.0,0,0,54,59,91.5,1,51,2,0,0,AÉK Lárnaka,2022-11-03 Rennes-AÉK Lárnaka,UEL,22-23,3cee68ac
+37aa57c0,Hrvoje Miličević,15,BIH,"CB,CM",29-197,90,0,0,0,0,0,0,1,0,87,2,3,0,0.0,0.0,0.0,0,0,63,71,88.7,5,58,0,0,0,AÉK Lárnaka,2022-11-03 Rennes-AÉK Lárnaka,UEL,22-23,3cee68ac
+ef83dfcc,Christoforou Kypros,24,CYP,RB,29-194,90,0,0,0,0,0,0,0,0,64,0,1,0,0.0,0.0,0.0,1,0,37,53,69.8,2,34,0,0,0,AÉK Lárnaka,2022-11-03 Rennes-AÉK Lárnaka,UEL,22-23,3cee68ac
+00b86f5e,Kenan Pirić,1,BIH,GK,28-119,90,0,0,0,0,0,0,0,0,34,0,0,0,0.0,0.0,0.0,0,0,26,34,76.5,0,22,0,0,0,AÉK Lárnaka,2022-11-03 Rennes-AÉK Lárnaka,UEL,22-23,3cee68ac

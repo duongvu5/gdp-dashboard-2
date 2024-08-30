@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+c693347d,Andreas Cornelius,11,DEN,FW,28-061,77,0,0,0,0,0,0,0,0,23,0,0,0,0.0,0.0,0.0,0,0,15,20,75.0,1,11,0,1,0,Parma,2021-05-16 Parma-Sassuolo,ITA-SERIA_A,20-21,bf0d6bef
+9654d8de,Graziano Pellè,9,ITA,FW,35-305,13,0,0,0,0,2,1,0,0,8,0,0,0,0.1,0.1,0.0,1,0,1,6,16.7,0,4,0,0,0,Parma,2021-05-16 Parma-Sassuolo,ITA-SERIA_A,20-21,bf0d6bef
+d60099bc,Juan Brunetta,32,ARG,FW,24-004,70,0,0,0,0,2,1,0,0,27,0,0,0,0.1,0.1,0.0,1,0,18,20,90.0,4,17,2,4,3,Parma,2021-05-16 Parma-Sassuolo,ITA-SERIA_A,20-21,bf0d6bef
+e468c053,Gervinho,27,CIV,FW,33-354,20,0,0,0,0,2,2,0,0,10,0,0,0,0.3,0.3,0.0,3,0,7,7,100.0,0,8,3,2,1,Parma,2021-05-16 Parma-Sassuolo,ITA-SERIA_A,20-21,bf0d6bef
+a5f458d9,Simon Sohm,19,SUI,CM,20-035,55,0,0,0,0,1,0,0,0,18,3,0,0,0.1,0.1,0.1,1,0,8,12,66.7,3,13,1,0,0,Parma,2021-05-16 Parma-Sassuolo,ITA-SERIA_A,20-21,bf0d6bef
+e947ee4a,Gastón Brugman,15,URU,CM,28-251,35,0,0,0,0,2,1,0,0,24,0,2,0,0.1,0.1,0.0,2,0,18,20,90.0,4,15,0,1,1,Parma,2021-05-16 Parma-Sassuolo,ITA-SERIA_A,20-21,bf0d6bef
+144607cc,Jasmin Kurtić,14,SVN,CM,32-126,90,0,0,0,0,1,0,1,0,49,3,1,0,0.0,0.0,0.0,1,0,35,41,85.4,5,31,2,1,1,Parma,2021-05-16 Parma-Sassuolo,ITA-SERIA_A,20-21,bf0d6bef
+6f5ead86,Hernani,23,BRA,CM,27-050,90,0,1,0,0,2,1,0,0,47,2,2,2,0.1,0.1,0.3,8,1,25,32,78.1,5,26,1,2,2,Parma,2021-05-16 Parma-Sassuolo,ITA-SERIA_A,20-21,bf0d6bef
+7b082ec2,Maxime Busi,42,BEL,WB,21-214,90,0,0,0,0,1,1,0,0,48,0,0,0,0.1,0.1,0.1,4,0,28,37,75.7,2,33,2,3,1,Parma,2021-05-16 Parma-Sassuolo,ITA-SERIA_A,20-21,bf0d6bef
+3535098b,Vincent Laurini,16,FRA,"WB,CB",31-340,77,0,0,0,0,0,0,0,0,33,5,2,0,0.0,0.0,0.0,1,0,13,21,61.9,0,15,1,0,0,Parma,2021-05-16 Parma-Sassuolo,ITA-SERIA_A,20-21,bf0d6bef
+0821331c,Mattia Bani,13,ITA,CB,27-157,13,0,0,0,0,1,0,0,0,14,2,1,0,0.1,0.1,0.3,1,0,9,10,90.0,0,9,0,0,0,Parma,2021-05-16 Parma-Sassuolo,ITA-SERIA_A,20-21,bf0d6bef
+55db5c36,Lautaro Valenti,30,ARG,CB,22-122,90,0,0,0,0,0,0,0,0,50,2,1,2,0.0,0.0,0.0,0,0,32,41,78.0,3,32,1,0,0,Parma,2021-05-16 Parma-Sassuolo,ITA-SERIA_A,20-21,bf0d6bef
+585a73a8,Bruno Alves,22,POR,CB,39-170,90,1,0,0,0,2,1,0,0,35,0,0,2,0.1,0.1,0.1,1,0,25,29,86.2,3,18,0,0,0,Parma,2021-05-16 Parma-Sassuolo,ITA-SERIA_A,20-21,bf0d6bef
+3a35db3d,Daan Dierckx,29,BEL,CB,18-081,70,0,0,0,0,0,0,0,0,34,1,1,3,0.0,0.0,0.0,0,0,20,23,87.0,1,20,0,0,0,Parma,2021-05-16 Parma-Sassuolo,ITA-SERIA_A,20-21,bf0d6bef
+b4a3d61a,Vasilios Zagaritis,20,GRE,"WB,CB",20-012,20,0,0,0,0,0,0,0,0,16,0,0,1,0.0,0.0,0.1,1,0,13,14,92.9,3,9,0,0,0,Parma,2021-05-16 Parma-Sassuolo,ITA-SERIA_A,20-21,bf0d6bef
+343f753a,Luigi Sepe,1,ITA,GK,30-008,90,0,0,0,0,0,0,0,0,48,0,0,0,0.0,0.0,0.0,0,0,33,41,80.5,0,32,0,0,0,Parma,2021-05-16 Parma-Sassuolo,ITA-SERIA_A,20-21,bf0d6bef
+6e058f06,Giacomo Raspadori,18,ITA,FW,21-087,56,0,0,0,0,0,0,0,0,20,0,0,0,0.0,0.0,0.2,3,1,10,14,71.4,0,18,3,1,0,Sassuolo,2021-05-16 Parma-Sassuolo,ITA-SERIA_A,20-21,bf0d6bef
+eccbe56a,Filip Đuričić,10,SRB,"AM,FW",29-106,34,0,0,0,0,0,0,0,0,29,0,1,0,0.0,0.0,0.0,1,0,20,25,80.0,2,25,5,1,1,Sassuolo,2021-05-16 Parma-Sassuolo,ITA-SERIA_A,20-21,bf0d6bef
+fe012aca,Jeremie Boga,7,CIV,LW,24-133,78,1,0,0,0,2,2,0,0,58,1,1,0,0.3,0.3,0.1,2,0,44,48,91.7,2,36,0,5,1,Sassuolo,2021-05-16 Parma-Sassuolo,ITA-SERIA_A,20-21,bf0d6bef
+ba1e04b3,Pedro Obiang,14,EQG,DM,29-050,12,0,0,0,0,1,0,0,0,15,0,1,1,0.0,0.0,0.0,1,0,8,12,66.7,1,9,0,0,0,Sassuolo,2021-05-16 Parma-Sassuolo,ITA-SERIA_A,20-21,bf0d6bef
+53a0e358,Domenico Berardi,25,ITA,RW,26-288,90,0,1,0,0,5,3,0,0,60,2,2,2,0.7,0.7,0.3,4,2,37,46,80.4,6,40,1,1,0,Sassuolo,2021-05-16 Parma-Sassuolo,ITA-SERIA_A,20-21,bf0d6bef
+854ee61a,Grégoire Defrel,92,MTQ,AM,29-333,63,1,0,0,0,2,2,0,0,19,0,0,0,0.5,0.5,0.0,1,0,13,14,92.9,3,13,1,0,0,Sassuolo,2021-05-16 Parma-Sassuolo,ITA-SERIA_A,20-21,bf0d6bef
+5bd72174,Francesco Caputo,9,ITA,FW,33-283,27,0,0,0,0,0,0,0,0,13,0,0,0,0.0,0.0,0.0,0,0,7,11,63.6,0,14,0,1,0,Sassuolo,2021-05-16 Parma-Sassuolo,ITA-SERIA_A,20-21,bf0d6bef
+a8a874f1,Manuel Locatelli,73,ITA,DM,23-128,90,1,0,1,1,0,0,0,0,109,0,2,0,0.8,0.0,0.0,3,1,89,102,87.3,17,83,4,0,0,Sassuolo,2021-05-16 Parma-Sassuolo,ITA-SERIA_A,20-21,bf0d6bef
+20094685,Maxime Lopez,8,FRA,DM,23-163,63,0,0,0,0,1,1,0,0,74,1,0,0,0.0,0.0,0.0,1,0,67,69,97.1,8,61,0,2,1,Sassuolo,2021-05-16 Parma-Sassuolo,ITA-SERIA_A,20-21,bf0d6bef
+570bb4b9,Hamed Junior Traorè,23,CIV,"LW,DM",21-089,27,0,0,0,0,0,0,0,0,27,2,2,0,0.0,0.0,0.0,0,0,19,22,86.4,0,16,1,1,1,Sassuolo,2021-05-16 Parma-Sassuolo,ITA-SERIA_A,20-21,bf0d6bef
+10e7f486,Rogério,6,BRA,LB,23-123,90,0,0,0,0,1,0,0,0,92,0,3,0,0.1,0.1,0.0,3,0,63,75,84.0,6,60,3,4,2,Sassuolo,2021-05-16 Parma-Sassuolo,ITA-SERIA_A,20-21,bf0d6bef
+8650af85,Gian Marco Ferrari,31,ITA,CB,29-090,90,0,1,0,0,0,0,0,0,110,1,0,0,0.0,0.0,0.2,3,1,101,106,95.3,11,91,2,0,0,Sassuolo,2021-05-16 Parma-Sassuolo,ITA-SERIA_A,20-21,bf0d6bef
+c316607a,Vlad Chiricheș,21,ROU,CB,31-183,90,0,0,0,0,0,0,0,0,93,2,2,1,0.0,0.0,0.0,2,1,83,86,96.5,4,75,1,0,0,Sassuolo,2021-05-16 Parma-Sassuolo,ITA-SERIA_A,20-21,bf0d6bef
+1295552e,Mert Müldür,17,TUR,RB,22-043,56,0,0,0,0,0,0,0,0,54,1,0,0,0.0,0.0,0.1,2,0,41,51,80.4,4,37,2,1,0,Sassuolo,2021-05-16 Parma-Sassuolo,ITA-SERIA_A,20-21,bf0d6bef
+a96e5dc0,Jeremy Toljan,22,GER,RB,26-281,34,0,0,0,0,0,0,0,0,26,0,0,0,0.0,0.0,0.0,0,0,21,24,87.5,1,18,0,0,0,Sassuolo,2021-05-16 Parma-Sassuolo,ITA-SERIA_A,20-21,bf0d6bef
+8cabdc1e,Andrea Consigli,47,ITA,GK,34-109,90,0,0,0,0,0,0,0,0,38,0,0,0,0.0,0.0,0.0,0,0,29,33,87.9,0,21,0,0,0,Sassuolo,2021-05-16 Parma-Sassuolo,ITA-SERIA_A,20-21,bf0d6bef

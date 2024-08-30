@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+bdedd861,Rachid Alioui,7,MAR,FW,27-053,90,0,0,0,0,3,0,0,0,38,0,0,0,0.1,0.1,0.1,5,1,23,34,67.6,2,32,4,1,1,Angers,2019-08-10 Angers-Bordeaux,FRA-L1,19-20,bfb2e34e
+8846a40f,Mathias Pereira Lage,27,POR,LM,22-253,70,1,1,0,0,2,1,0,0,34,0,0,0,0.1,0.1,0.8,4,1,20,29,69.0,4,25,7,2,2,Angers,2019-08-10 Angers-Bordeaux,FRA-L1,19-20,bfb2e34e
+d21e361a,Farid El Melali,28,ALG,"RM,LM",22-097,20,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,3,2,0,0,Angers,2019-08-10 Angers-Bordeaux,FRA-L1,19-20,bfb2e34e
+c801616a,Thomas Mangani,5,FRA,CM,32-103,90,1,0,0,0,2,1,0,0,74,3,0,1,0.4,0.4,0.0,1,0,46,65,70.8,6,40,0,1,1,Angers,2019-08-10 Angers-Bordeaux,FRA-L1,19-20,bfb2e34e
+d504b3e1,Jeff Reine-Adélaïde,22,FRA,CM,21-205,79,1,1,0,0,2,1,0,0,51,3,0,1,0.8,0.8,0.3,3,1,28,34,82.4,6,33,4,11,9,Angers,2019-08-10 Angers-Bordeaux,FRA-L1,19-20,bfb2e34e
+f86ca403,Vincent Pajot,6,FRA,CM,28-356,11,0,0,0,0,0,0,0,0,3,1,1,0,0.0,0.0,0.0,0,0,1,2,50.0,0,1,1,0,0,Angers,2019-08-10 Angers-Bordeaux,FRA-L1,19-20,bfb2e34e
+79b2399c,Pierrick Capelle,15,FRA,"RM,LM",32-117,90,0,0,0,0,4,1,1,0,48,3,1,1,0.3,0.3,0.1,5,1,25,32,78.1,2,31,4,4,3,Angers,2019-08-10 Angers-Bordeaux,FRA-L1,19-20,bfb2e34e
+5e22e2a4,Baptiste Santamaria,18,FRA,DM,24-154,90,0,0,0,0,0,0,0,0,50,4,4,1,0.0,0.0,0.0,2,0,31,41,75.6,3,30,2,1,0,Angers,2019-08-10 Angers-Bordeaux,FRA-L1,19-20,bfb2e34e
+9b398aea,Rayan Aït-Nouri,2,ALG,LB,18-065,66,0,1,0,0,0,0,0,0,52,2,0,0,0.0,0.0,0.0,4,1,38,46,82.6,6,29,2,2,2,Angers,2019-08-10 Angers-Bordeaux,FRA-L1,19-20,bfb2e34e
+97fb4608,Théo Pellenard,26,FRA,LB,25-159,24,0,0,0,0,0,0,0,0,19,2,0,0,0.0,0.0,0.0,1,0,14,17,82.4,4,7,0,0,0,Angers,2019-08-10 Angers-Bordeaux,FRA-L1,19-20,bfb2e34e
+275e2c51,Romain Thomas,24,FRA,CB,31-059,90,0,0,0,0,0,0,1,0,46,0,1,1,0.0,0.0,0.0,0,0,34,44,77.3,0,19,0,0,0,Angers,2019-08-10 Angers-Bordeaux,FRA-L1,19-20,bfb2e34e
+450e277f,Mateo Pavlović,4,BIH,CB,29-062,90,0,0,0,0,0,0,0,0,46,3,1,0,0.0,0.0,0.0,1,1,37,40,92.5,1,20,0,0,0,Angers,2019-08-10 Angers-Bordeaux,FRA-L1,19-20,bfb2e34e
+c26a3918,Vincent Manceau,29,FRA,RB,30-031,90,0,0,0,0,1,0,0,0,53,4,0,0,0.0,0.0,0.0,0,0,41,48,85.4,1,28,1,0,0,Angers,2019-08-10 Angers-Bordeaux,FRA-L1,19-20,bfb2e34e
+26975a92,Ludovic Butelle,16,FRA,GK,36-129,90,0,0,0,0,0,0,0,0,34,0,0,0,0.0,0.0,0.0,0,0,17,32,53.1,0,16,0,0,0,Angers,2019-08-10 Angers-Bordeaux,FRA-L1,19-20,bfb2e34e
+f83c8d6c,Jimmy Briand,7,FRA,FW,34-008,90,0,0,0,0,2,1,0,0,21,0,0,1,0.1,0.1,0.1,1,0,12,16,75.0,1,6,1,1,0,Bordeaux,2019-08-10 Angers-Bordeaux,FRA-L1,19-20,bfb2e34e
+b8d22478,Samuel Kalu,10,NGA,LW,21-349,90,0,0,0,0,1,0,0,0,41,0,1,0,0.0,0.0,0.5,3,0,19,31,61.3,2,29,4,7,5,Bordeaux,2019-08-10 Angers-Bordeaux,FRA-L1,19-20,bfb2e34e
+a2d873dd,Hwang Ui-jo,18,KOR,RW,26-347,67,0,0,0,0,2,0,0,0,15,1,0,1,0.5,0.5,0.0,3,1,4,7,57.1,0,6,1,0,0,Bordeaux,2019-08-10 Angers-Bordeaux,FRA-L1,19-20,bfb2e34e
+bc0bfc64,Josh Maja,9,NGA,RW,20-226,23,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,4,5,80.0,0,6,0,1,0,Bordeaux,2019-08-10 Angers-Bordeaux,FRA-L1,19-20,bfb2e34e
+b0547a87,Nicolas de Préville,12,FRA,AM,28-214,90,1,0,0,0,2,1,0,0,63,4,0,3,0.2,0.2,0.2,3,0,35,43,81.4,7,40,3,4,1,Bordeaux,2019-08-10 Angers-Bordeaux,FRA-L1,19-20,bfb2e34e
+934a0957,Albert Lottin,24,FRA,DM,17-346,45,0,0,0,0,0,0,0,0,30,2,2,0,0.0,0.0,0.0,0,0,21,22,95.5,5,16,0,3,2,Bordeaux,2019-08-10 Angers-Bordeaux,FRA-L1,19-20,bfb2e34e
+80556f08,Toma Bašić,26,CRO,DM,22-258,45,0,0,0,0,1,1,0,0,31,0,0,1,0.2,0.2,0.0,0,0,22,26,84.6,3,21,1,1,0,Bordeaux,2019-08-10 Angers-Bordeaux,FRA-L1,19-20,bfb2e34e
+4f255115,Aurélien Tchouaméni,8,FRA,DM,19-195,90,0,0,0,0,0,0,0,0,74,0,1,0,0.0,0.0,0.0,2,0,57,69,82.6,10,49,1,1,1,Bordeaux,2019-08-10 Angers-Bordeaux,FRA-L1,19-20,bfb2e34e
+f5b6fb78,Loris Benito,23,SUI,LB,27-215,90,0,0,0,0,0,0,1,0,51,1,2,0,0.0,0.0,0.0,0,0,43,47,91.5,5,29,1,0,0,Bordeaux,2019-08-10 Angers-Bordeaux,FRA-L1,19-20,bfb2e34e
+ce492295,Mexer,4,MOZ,CB,30-336,90,0,0,0,0,0,0,0,0,68,0,2,2,0.0,0.0,0.0,0,0,52,61,85.2,3,48,0,2,2,Bordeaux,2019-08-10 Angers-Bordeaux,FRA-L1,19-20,bfb2e34e
+29d8ad3f,Pablo,3,BRA,CB,28-050,90,0,0,0,0,0,0,0,0,79,2,1,0,0.0,0.0,0.0,0,0,61,70,87.1,1,52,0,0,0,Bordeaux,2019-08-10 Angers-Bordeaux,FRA-L1,19-20,bfb2e34e
+e3756e72,Raoul Bellanova,2,ITA,RB,19-085,62,0,0,0,0,0,0,0,0,31,1,0,0,0.0,0.0,0.0,0,0,22,28,78.6,0,15,2,1,1,Bordeaux,2019-08-10 Angers-Bordeaux,FRA-L1,19-20,bfb2e34e
+fbf76716,Yassine Benrahou,22,FRA,RB,20-198,28,0,0,0,0,0,0,0,0,28,1,1,0,0.0,0.0,0.0,1,0,23,27,85.2,2,18,2,1,1,Bordeaux,2019-08-10 Angers-Bordeaux,FRA-L1,19-20,bfb2e34e
+2434f24a,Benoît Costil,1,FRA,GK,32-038,90,0,0,0,0,0,0,0,0,47,0,0,0,0.0,0.0,0.0,0,0,32,47,68.1,0,21,0,0,0,Bordeaux,2019-08-10 Angers-Bordeaux,FRA-L1,19-20,bfb2e34e

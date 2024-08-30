@@ -1,0 +1,32 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+ffec9769,Islam Slimani,13,ALG,FW,34-148,83,0,0,0,0,0,0,0,0,34,0,0,0,0.0,0.0,0.4,4,1,18,24,75.0,1,23,1,3,0,Brest,2022-11-13 Brest-Troyes,FRA-L1,22-23,8067e5e7
+88c4d190,Jérémy Le Douaron,22,FRA,FW,24-206,7,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,2,0,0,0,Brest,2022-11-13 Brest-Troyes,FRA-L1,22-23,8067e5e7
+db7849ca,Franck Honorat,9,FRA,"LW,RM",26-094,90,0,0,0,0,1,1,0,0,52,1,1,1,0.2,0.2,0.2,4,1,23,42,54.8,4,38,4,2,0,Brest,2022-11-13 Brest-Troyes,FRA-L1,22-23,8067e5e7
+0be95d34,Romain Del Castillo,10,FRA,"RW,LM",26-229,83,1,0,1,1,3,1,0,0,49,2,0,0,1.0,0.2,0.0,2,1,27,39,69.2,1,33,3,1,1,Brest,2022-11-13 Brest-Troyes,FRA-L1,22-23,8067e5e7
+7304f3b1,Karamoko Dembélé,18,ENG,LM,19-264,7,0,0,0,0,1,0,0,0,4,0,0,0,0.1,0.1,0.0,0,0,0,0,,0,3,0,0,0,Brest,2022-11-13 Brest-Troyes,FRA-L1,22-23,8067e5e7
+8846a40f,Mathias Pereira Lage,29,POR,LM,25-348,67,0,0,0,0,2,0,0,0,22,1,1,0,0.1,0.1,0.0,2,1,13,16,81.3,1,19,1,1,0,Brest,2022-11-13 Brest-Troyes,FRA-L1,22-23,8067e5e7
+19ba6c6d,Steve Mounié,15,BEN,"FW,LM",28-045,23,1,0,1,1,1,0,0,0,10,0,1,0,0.9,0.1,0.0,2,0,3,5,60.0,0,5,1,0,0,Brest,2022-11-13 Brest-Troyes,FRA-L1,22-23,8067e5e7
+f5044e54,Pierre Lees-Melou,20,FRA,CM,29-172,90,0,0,0,0,3,0,0,0,71,5,2,0,0.1,0.1,0.1,4,0,53,58,91.4,8,53,2,0,0,Brest,2022-11-13 Brest-Troyes,FRA-L1,22-23,8067e5e7
+8577e60a,Mahdi Camara,45,FRA,RM,24-136,77,0,0,0,0,1,1,0,0,48,5,0,1,0.1,0.1,0.0,2,0,29,34,85.3,2,35,2,3,1,Brest,2022-11-13 Brest-Troyes,FRA-L1,22-23,8067e5e7
+2b1bed19,Haris Belkebla,7,ALG,CM,28-289,13,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,6,8,75.0,0,6,1,0,0,Brest,2022-11-13 Brest-Troyes,FRA-L1,22-23,8067e5e7
+0cbc8baa,Jean-Kevin Duverne,2,HAI,LB,25-124,90,0,0,0,0,0,0,0,0,60,2,1,1,0.0,0.0,0.0,1,0,43,51,84.3,7,40,2,2,1,Brest,2022-11-13 Brest-Troyes,FRA-L1,22-23,8067e5e7
+5b146df3,Lilian Brassier,3,FRA,CB,23-011,90,0,0,0,0,0,0,0,0,52,0,2,1,0.0,0.0,0.0,1,0,42,49,85.7,5,43,0,1,1,Brest,2022-11-13 Brest-Troyes,FRA-L1,22-23,8067e5e7
+16aa7d4c,Brendan Chardonnet,5,FRA,CB,27-326,90,0,0,0,0,0,0,1,0,71,0,3,2,0.0,0.0,0.0,1,0,51,63,81.0,4,52,0,1,1,Brest,2022-11-13 Brest-Troyes,FRA-L1,22-23,8067e5e7
+83f03b07,Noah Fadiga,99,SEN,RB,22-345,67,0,0,0,0,1,0,0,0,54,1,0,0,0.0,0.0,0.0,3,0,40,46,87.0,7,39,3,3,2,Brest,2022-11-13 Brest-Troyes,FRA-L1,22-23,8067e5e7
+3681cfff,Christophe Hérelle,23,MTQ,RB,30-083,23,0,0,0,0,0,0,1,0,11,0,0,0,0.0,0.0,0.1,1,0,8,10,80.0,3,8,0,0,0,Brest,2022-11-13 Brest-Troyes,FRA-L1,22-23,8067e5e7
+3d214e5f,Marco Bizot,40,NED,GK,31-248,90,0,0,0,0,0,0,1,0,22,0,0,0,0.0,0.0,0.0,0,0,16,20,80.0,0,13,0,0,0,Brest,2022-11-13 Brest-Troyes,FRA-L1,22-23,8067e5e7
+fb14aa28,Mama Samba Baldé,7,GNB,FW,27-007,79,0,0,0,0,1,0,0,1,26,1,0,0,0.2,0.2,0.0,0,0,6,15,40.0,0,19,2,4,1,Troyes,2022-11-13 Brest-Troyes,FRA-L1,22-23,8067e5e7
+beae3a73,Renaud Ripart,20,FRA,LW,29-244,64,0,0,0,0,3,0,0,0,30,3,1,2,0.3,0.3,0.0,0,0,12,17,70.6,1,21,1,1,0,Troyes,2022-11-13 Brest-Troyes,FRA-L1,22-23,8067e5e7
+35516eac,Wilson Odobert,29,FRA,LW,17-350,26,0,0,0,0,0,0,0,0,8,1,0,0,0.0,0.0,0.0,2,0,4,6,66.7,0,7,2,1,0,Troyes,2022-11-13 Brest-Troyes,FRA-L1,22-23,8067e5e7
+7c2965bb,Rony Lopes,11,POR,RW,26-320,84,0,0,0,0,1,1,1,0,33,0,0,0,0.2,0.2,0.2,3,0,19,26,73.1,4,23,1,1,0,Troyes,2022-11-13 Brest-Troyes,FRA-L1,22-23,8067e5e7
+8a53d24b,Ike Ugbo,9,CAN,RW,24-053,6,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,2,0,0,0,Troyes,2022-11-13 Brest-Troyes,FRA-L1,22-23,8067e5e7
+0ed063d6,Yasser Larouci,39,ALG,LM,21-316,78,0,0,0,0,0,0,0,0,56,0,1,1,0.0,0.0,0.2,3,0,38,46,82.6,5,44,4,3,2,Troyes,2022-11-13 Brest-Troyes,FRA-L1,22-23,8067e5e7
+92b56413,Tristan Dingomé,5,CMR,LM,31-269,12,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,2,4,50.0,0,2,0,0,0,Troyes,2022-11-13 Brest-Troyes,FRA-L1,22-23,8067e5e7
+279ddf6a,Xavier Chavalerin,24,FRA,CM,31-251,90,0,0,0,0,0,0,0,0,50,4,2,0,0.0,0.0,0.0,1,0,33,39,84.6,5,36,1,1,1,Troyes,2022-11-13 Brest-Troyes,FRA-L1,22-23,8067e5e7
+86a2ba20,Rominigue Kouamé,6,MLI,CM,25-331,90,0,0,0,0,1,0,1,0,46,1,2,0,0.1,0.1,0.0,0,0,34,38,89.5,3,42,1,3,1,Troyes,2022-11-13 Brest-Troyes,FRA-L1,22-23,8067e5e7
+b088d5d3,Andreas Bruus,19,DEN,RM,23-301,90,0,0,0,0,2,1,0,0,44,0,1,0,0.2,0.2,0.3,2,0,27,35,77.1,1,32,6,2,0,Troyes,2022-11-13 Brest-Troyes,FRA-L1,22-23,8067e5e7
+cfa49cc1,Abdu Conté,12,POR,CB,24-234,90,0,0,0,0,0,0,0,0,61,4,1,0,0.0,0.0,0.0,1,0,49,53,92.5,4,45,1,0,0,Troyes,2022-11-13 Brest-Troyes,FRA-L1,22-23,8067e5e7
+e5c1e0ca,Erik Palmer-Brown,4,USA,CB,25-203,90,0,0,0,0,0,0,0,0,47,1,0,1,0.0,0.0,0.0,1,0,37,43,86.0,5,34,0,0,0,Troyes,2022-11-13 Brest-Troyes,FRA-L1,22-23,8067e5e7
+c3725db2,Yoann Salmier,17,GUF,CB,29-357,90,0,0,0,0,0,0,0,0,52,2,2,1,0.0,0.0,0.2,3,0,29,41,70.7,4,35,0,0,0,Troyes,2022-11-13 Brest-Troyes,FRA-L1,22-23,8067e5e7
+fd78b105,Mateusz Lis,1,POL,GK,25-259,90,0,0,0,0,0,0,0,0,44,0,0,0,0.0,0.0,0.0,0,0,23,39,59.0,0,17,0,0,0,Troyes,2022-11-13 Brest-Troyes,FRA-L1,22-23,8067e5e7

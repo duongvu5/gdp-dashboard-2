@@ -1,0 +1,31 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+8d8178ac,Rodrigo Palacio,24,ARG,FW,38-147,70,0,0,0,0,2,1,0,0,43,0,0,0,0.3,0.3,0.0,2,0,24,37,64.9,4,33,5,1,1,Bologna,2020-07-01 Bologna-Cagliari,ITA-SERIA_A,19-20,a9a5d7eb
+7eb97a8e,Nicola Sansone,10,ITA,LW,28-295,20,0,0,0,0,3,1,0,0,20,0,0,0,0.1,0.1,0.1,1,0,11,15,73.3,2,17,2,0,0,Bologna,2020-07-01 Bologna-Cagliari,ITA-SERIA_A,19-20,a9a5d7eb
+e5bf73f3,Musa Barrow,99,GAM,"LW,FW",21-230,90,1,0,0,0,7,2,0,0,62,0,0,2,0.4,0.4,0.1,5,1,35,45,77.8,6,39,2,6,4,Bologna,2020-07-01 Bologna-Cagliari,ITA-SERIA_A,19-20,a9a5d7eb
+e14ec482,Riccardo Orsolini,7,ITA,RW,23-159,90,0,0,0,0,1,0,0,0,42,0,0,0,0.0,0.0,0.1,3,0,20,36,55.6,3,33,2,1,0,Bologna,2020-07-01 Bologna-Cagliari,ITA-SERIA_A,19-20,a9a5d7eb
+2cfae697,Jerdy Schouten,30,NED,LM,23-171,69,0,0,0,0,0,0,1,0,41,1,0,0,0.0,0.0,0.0,1,0,29,36,80.6,2,26,1,3,2,Bologna,2020-07-01 Bologna-Cagliari,ITA-SERIA_A,19-20,a9a5d7eb
+20b3a502,Nicolás Domínguez,8,ARG,LM,22-003,21,0,0,0,0,0,0,0,0,25,0,0,1,0.0,0.0,0.0,3,0,22,24,91.7,2,18,3,1,1,Bologna,2020-07-01 Bologna-Cagliari,ITA-SERIA_A,19-20,a9a5d7eb
+563a68ad,Gary Medel,5,CHI,CM,32-333,89,0,0,0,0,0,0,0,0,56,0,1,1,0.0,0.0,0.0,1,0,51,55,92.7,9,40,0,1,1,Bologna,2020-07-01 Bologna-Cagliari,ITA-SERIA_A,19-20,a9a5d7eb
+92d83c27,Mattias Svanberg,32,SWE,CM,21-178,1,0,0,0,0,1,0,0,0,4,0,0,0,0.0,0.0,0.0,1,0,2,3,66.7,0,1,0,0,0,Bologna,2020-07-01 Bologna-Cagliari,ITA-SERIA_A,19-20,a9a5d7eb
+9d4c45d6,Roberto Soriano,21,ITA,RM,29-144,90,0,0,0,0,3,0,0,0,72,3,1,3,0.1,0.1,0.2,11,1,54,62,87.1,12,51,3,1,1,Bologna,2020-07-01 Bologna-Cagliari,ITA-SERIA_A,19-20,a9a5d7eb
+0a3065c8,Mitchell Dijks,35,NED,LB,27-143,70,0,0,0,0,0,0,1,0,33,0,0,1,0.0,0.0,0.0,0,0,20,25,80.0,1,13,1,2,1,Bologna,2020-07-01 Bologna-Cagliari,ITA-SERIA_A,19-20,a9a5d7eb
+58027adc,Ladislav Krejčí,11,CZE,LB,27-362,20,0,0,0,0,0,0,0,0,18,0,0,1,0.0,0.0,0.0,2,0,15,16,93.8,2,9,0,0,0,Bologna,2020-07-01 Bologna-Cagliari,ITA-SERIA_A,19-20,a9a5d7eb
+0821331c,Mattia Bani,13,ITA,CB,26-204,90,0,0,0,0,0,0,0,0,52,2,3,0,0.0,0.0,0.0,0,0,33,45,73.3,1,28,1,0,0,Bologna,2020-07-01 Bologna-Cagliari,ITA-SERIA_A,19-20,a9a5d7eb
+fed5f993,Danilo Larangeira,23,BRA,CB,36-052,90,0,0,0,0,0,0,0,0,56,1,1,0,0.0,0.0,0.0,1,0,42,49,85.7,8,32,1,0,0,Bologna,2020-07-01 Bologna-Cagliari,ITA-SERIA_A,19-20,a9a5d7eb
+b3af9be1,Takehiro Tomiyasu,14,JPN,RB,21-239,90,0,0,0,0,0,0,1,0,86,2,1,0,0.0,0.0,0.0,1,0,60,75,80.0,8,47,4,1,1,Bologna,2020-07-01 Bologna-Cagliari,ITA-SERIA_A,19-20,a9a5d7eb
+ab4449d6,Łukasz Skorupski,28,POL,GK,29-057,90,0,0,0,0,0,0,0,0,15,0,0,0,0.0,0.0,0.0,0,0,12,14,85.7,0,10,0,0,0,Bologna,2020-07-01 Bologna-Cagliari,ITA-SERIA_A,19-20,a9a5d7eb
+81255c03,João Pedro,10,ITA,FW,28-114,90,0,0,0,0,3,3,0,0,29,0,0,3,0.3,0.3,0.0,1,0,10,18,55.6,1,21,2,1,0,Cagliari,2020-07-01 Bologna-Cagliari,ITA-SERIA_A,19-20,a9a5d7eb
+343c0d52,Giovanni Simeone,99,ARG,FW,24-362,90,1,0,0,0,2,1,0,0,27,0,0,0,0.7,0.7,0.0,0,0,10,14,71.4,0,15,2,2,0,Cagliari,2020-07-01 Bologna-Cagliari,ITA-SERIA_A,19-20,a9a5d7eb
+1f9328da,Radja Nainggolan,4,BEL,AM,32-058,90,0,1,0,0,2,0,0,0,41,3,0,0,0.1,0.1,0.7,2,1,28,37,75.7,8,29,2,3,3,Cagliari,2020-07-01 Bologna-Cagliari,ITA-SERIA_A,19-20,a9a5d7eb
+b6b2b820,Marko Rog,6,CRO,CM,24-348,90,0,0,0,0,0,0,0,0,46,0,1,5,0.0,0.0,0.2,3,0,29,37,78.4,5,22,1,3,3,Cagliari,2020-07-01 Bologna-Cagliari,ITA-SERIA_A,19-20,a9a5d7eb
+95facda1,Nahitan Nández,18,URU,"CM,WB",24-186,90,0,0,0,0,0,0,0,0,38,1,4,1,0.0,0.0,0.0,2,0,16,28,57.1,1,23,6,3,2,Cagliari,2020-07-01 Bologna-Cagliari,ITA-SERIA_A,19-20,a9a5d7eb
+3b61c9ec,Luca Pellegrini,33,ITA,WB,21-116,77,0,0,0,0,0,0,1,0,26,2,2,0,0.0,0.0,0.0,1,0,13,20,65.0,0,13,3,1,1,Cagliari,2020-07-01 Bologna-Cagliari,ITA-SERIA_A,19-20,a9a5d7eb
+cedb3e36,Artur Ioniță,21,MDA,CM,29-319,13,0,0,0,0,0,0,0,0,6,0,0,1,0.0,0.0,0.0,0,0,5,5,100.0,0,3,0,0,0,Cagliari,2020-07-01 Bologna-Cagliari,ITA-SERIA_A,19-20,a9a5d7eb
+fba81826,Federico Mattiello,3,ITA,WB,24-353,90,0,0,0,0,0,0,0,0,43,1,1,0,0.0,0.0,0.0,0,0,25,32,78.1,0,24,1,2,2,Cagliari,2020-07-01 Bologna-Cagliari,ITA-SERIA_A,19-20,a9a5d7eb
+f7e2af2c,Andrea Carboni,36,ITA,CB,19-148,90,0,0,0,0,0,0,1,0,40,1,2,0,0.0,0.0,0.0,0,0,22,26,84.6,0,19,0,0,0,Cagliari,2020-07-01 Bologna-Cagliari,ITA-SERIA_A,19-20,a9a5d7eb
+7d50454d,Luca Ceppitelli,23,ITA,CB,30-325,23,0,0,0,0,0,0,0,0,16,0,1,0,0.0,0.0,0.0,0,0,8,14,57.1,0,8,0,0,0,Cagliari,2020-07-01 Bologna-Cagliari,ITA-SERIA_A,19-20,a9a5d7eb
+5efc5389,Charalambos Lykogiannis,22,GRE,CB,26-253,67,0,0,0,0,0,0,0,0,37,2,0,0,0.0,0.0,0.2,2,0,20,30,66.7,4,15,3,1,1,Cagliari,2020-07-01 Bologna-Cagliari,ITA-SERIA_A,19-20,a9a5d7eb
+217875a4,Sebastian Walukiewicz,40,POL,CB,20-087,64,0,0,0,0,0,0,0,0,26,1,0,1,0.0,0.0,0.0,0,0,13,20,65.0,3,13,0,1,1,Cagliari,2020-07-01 Bologna-Cagliari,ITA-SERIA_A,19-20,a9a5d7eb
+56400c01,Fabio Pisacane,19,ITA,CB,34-155,26,0,0,0,0,0,0,0,0,12,0,0,0,0.0,0.0,0.0,0,0,10,12,83.3,0,6,0,0,0,Cagliari,2020-07-01 Bologna-Cagliari,ITA-SERIA_A,19-20,a9a5d7eb
+f554e29b,Alessio Cragno,28,ITA,GK,26-003,90,0,0,0,0,0,0,0,0,41,0,0,0,0.0,0.0,0.0,0,0,14,37,37.8,0,13,0,0,0,Cagliari,2020-07-01 Bologna-Cagliari,ITA-SERIA_A,19-20,a9a5d7eb

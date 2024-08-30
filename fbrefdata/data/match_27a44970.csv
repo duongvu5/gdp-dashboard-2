@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+eb2fe5b6,Luis Muriel,9,COL,FW,29-171,73,1,0,0,0,4,2,0,0,42,1,0,0,1.4,1.4,0.0,3,1,22,30,73.3,3,35,2,3,1,Atalanta,2020-10-04 Atalanta-Cagliari,ITA-SERIA_A,20-21,27a44970
+98d2c2c4,Remo Freuler,11,SUI,"AM,FW",28-172,17,0,0,0,0,1,0,0,0,17,2,0,0,0.1,0.1,0.0,0,0,11,11,100.0,0,12,0,1,0,Atalanta,2020-10-04 Atalanta-Cagliari,ITA-SERIA_A,20-21,27a44970
+d3de9af0,Duván Zapata,91,COL,FW,29-186,64,1,1,0,0,5,3,0,0,38,1,0,2,0.7,0.7,0.2,9,1,17,25,68.0,0,24,4,2,2,Atalanta,2020-10-04 Atalanta-Cagliari,ITA-SERIA_A,20-21,27a44970
+c283ddef,Sam Lammers,7,NED,FW,23-157,26,1,0,0,0,1,1,0,0,18,0,0,0,0.3,0.3,0.0,1,1,13,13,100.0,2,16,2,2,1,Atalanta,2020-10-04 Atalanta-Cagliari,ITA-SERIA_A,20-21,27a44970
+6e4df551,Papu Gómez,10,ARG,AM,32-232,64,1,0,0,0,1,1,0,0,49,0,0,1,0.0,0.0,0.1,3,1,38,45,84.4,3,36,0,1,1,Atalanta,2020-10-04 Atalanta-Cagliari,ITA-SERIA_A,20-21,27a44970
+48d5bd33,Ruslan Malinovskyi,18,UKR,"FW,AM",27-153,26,0,0,0,0,3,2,0,0,34,1,0,0,0.3,0.3,0.0,1,0,23,27,85.2,3,24,4,2,1,Atalanta,2020-10-04 Atalanta-Cagliari,ITA-SERIA_A,20-21,27a44970
+e599253a,Mario Pašalić,88,CRO,CM,25-238,90,1,1,0,0,2,2,0,0,86,2,1,0,0.6,0.6,1.2,8,1,65,76,85.5,15,68,4,2,0,Atalanta,2020-10-04 Atalanta-Cagliari,ITA-SERIA_A,20-21,27a44970
+2a1beb34,Marten de Roon,15,NED,CM,29-189,90,0,0,0,0,2,0,0,0,80,2,3,4,0.1,0.1,0.0,2,1,53,66,80.3,5,51,1,0,0,Atalanta,2020-10-04 Atalanta-Cagliari,ITA-SERIA_A,20-21,27a44970
+2d970560,Robin Gosens,8,GER,WB,26-091,73,0,1,0,0,0,0,0,0,59,2,2,0,0.0,0.0,0.5,5,2,43,51,84.3,2,45,3,1,1,Atalanta,2020-10-04 Atalanta-Cagliari,ITA-SERIA_A,20-21,27a44970
+608f2092,Johan Mojica,26,COL,WB,28-044,17,0,0,0,0,0,0,0,0,22,0,1,0,0.0,0.0,0.0,0,0,11,18,61.1,2,14,2,1,0,Atalanta,2020-10-04 Atalanta-Cagliari,ITA-SERIA_A,20-21,27a44970
+3b333ac3,Hans Hateboer,33,NED,WB,26-269,90,0,0,0,0,1,0,0,0,73,3,0,0,0.0,0.0,0.0,2,0,56,63,88.9,3,49,3,3,1,Atalanta,2020-10-04 Atalanta-Cagliari,ITA-SERIA_A,20-21,27a44970
+921f6058,José Luis Palomino,6,ARG,CB,30-273,84,0,2,0,0,0,0,0,0,68,2,0,1,0.0,0.0,0.5,3,2,49,62,79.0,5,50,2,0,0,Atalanta,2020-10-04 Atalanta-Cagliari,ITA-SERIA_A,20-21,27a44970
+1d0bb7e4,Bosko Sutalo,4,CRO,CB,20-277,6,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,5,6,83.3,0,5,0,0,0,Atalanta,2020-10-04 Atalanta-Cagliari,ITA-SERIA_A,20-21,27a44970
+a3d94a58,Cristian Romero,17,ARG,CB,22-160,90,0,0,0,0,1,1,0,0,61,0,2,1,0.0,0.0,0.0,0,0,47,51,92.2,0,41,0,0,0,Atalanta,2020-10-04 Atalanta-Cagliari,ITA-SERIA_A,20-21,27a44970
+6eee05f1,Berat Djimsiti,19,ALB,CB,27-228,90,0,0,0,0,0,0,0,0,83,2,1,3,0.0,0.0,0.0,0,0,62,71,87.3,3,57,1,2,2,Atalanta,2020-10-04 Atalanta-Cagliari,ITA-SERIA_A,20-21,27a44970
+ac4003af,Marco Sportiello,57,ITA,GK,28-147,90,0,0,0,0,0,0,0,0,31,0,0,0,0.0,0.0,0.0,0,0,28,30,93.3,0,16,0,0,0,Atalanta,2020-10-04 Atalanta-Cagliari,ITA-SERIA_A,20-21,27a44970
+81255c03,João Pedro,10,ITA,FW,28-209,85,1,0,0,0,3,1,0,0,46,1,1,0,0.2,0.2,0.0,2,0,25,35,71.4,4,27,2,4,0,Cagliari,2020-10-04 Atalanta-Cagliari,ITA-SERIA_A,20-21,27a44970
+d37b0350,Leonardo Pavoletti,30,ITA,FW,31-313,5,0,0,0,0,1,0,0,0,4,0,0,0,0.1,0.1,0.0,0,0,3,3,100.0,0,0,0,0,0,Cagliari,2020-10-04 Atalanta-Cagliari,ITA-SERIA_A,20-21,27a44970
+343c0d52,Giovanni Simeone,9,ARG,FW,25-091,90,0,0,0,0,2,0,0,0,34,0,0,0,0.1,0.1,0.1,1,0,24,28,85.7,1,17,2,1,0,Cagliari,2020-10-04 Atalanta-Cagliari,ITA-SERIA_A,20-21,27a44970
+95facda1,Nahitan Nández,18,URU,LM,24-281,90,0,0,0,0,1,1,0,0,42,1,1,3,0.0,0.0,0.1,2,1,22,29,75.9,5,20,2,0,0,Cagliari,2020-10-04 Atalanta-Cagliari,ITA-SERIA_A,20-21,27a44970
+b6b2b820,Marko Rog,6,CRO,CM,25-077,90,0,0,0,0,0,0,0,0,79,3,1,4,0.0,0.0,0.1,4,0,57,67,85.1,5,42,3,4,3,Cagliari,2020-10-04 Atalanta-Cagliari,ITA-SERIA_A,20-21,27a44970
+7fac99d4,Răzvan Marin,8,ROU,CM,24-134,64,0,1,0,0,1,0,0,0,47,2,1,1,0.1,0.1,0.1,3,1,30,37,81.1,4,21,0,1,1,Cagliari,2020-10-04 Atalanta-Cagliari,ITA-SERIA_A,20-21,27a44970
+2e0ae188,Mattéo Tramoni,17,FRA,CM,20-258,26,0,0,0,0,1,0,0,0,10,0,1,1,0.0,0.0,0.0,0,0,2,5,40.0,0,4,0,0,0,Cagliari,2020-10-04 Atalanta-Cagliari,ITA-SERIA_A,20-21,27a44970
+94816803,Riccardo Sottil,33,ITA,RM,21-123,77,0,0,0,0,1,0,0,0,35,0,0,2,0.0,0.0,0.2,4,1,24,27,88.9,5,25,5,3,1,Cagliari,2020-10-04 Atalanta-Cagliari,ITA-SERIA_A,20-21,27a44970
+22ca11f1,Fabrizio Caligara,12,ITA,RM,20-175,13,0,0,0,0,0,0,0,0,6,3,0,0,0.0,0.0,0.0,1,0,2,2,100.0,0,2,0,0,0,Cagliari,2020-10-04 Atalanta-Cagliari,ITA-SERIA_A,20-21,27a44970
+5efc5389,Charalambos Lykogiannis,22,GRE,LB,26-348,90,0,1,0,0,0,0,0,0,68,3,2,2,0.0,0.0,0.1,1,1,39,52,75.0,3,32,1,1,0,Cagliari,2020-10-04 Atalanta-Cagliari,ITA-SERIA_A,20-21,27a44970
+fc4f85b1,Diego Godín,2,URU,CB,34-231,84,1,0,0,0,2,1,0,0,66,3,6,1,0.1,0.1,0.0,1,0,44,55,80.0,0,36,0,0,0,Cagliari,2020-10-04 Atalanta-Cagliari,ITA-SERIA_A,20-21,27a44970
+008a6e6d,Ragnar Klavan,15,EST,CB,34-340,6,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,3,5,60.0,0,3,0,0,0,Cagliari,2020-10-04 Atalanta-Cagliari,ITA-SERIA_A,20-21,27a44970
+217875a4,Sebastian Walukiewicz,40,POL,CB,20-182,90,0,0,0,0,0,0,0,0,34,1,1,1,0.0,0.0,0.0,0,0,20,25,80.0,0,15,1,0,0,Cagliari,2020-10-04 Atalanta-Cagliari,ITA-SERIA_A,20-21,27a44970
+ca3db240,Gabriele Zappa,25,ITA,RB,20-287,84,0,0,0,0,0,0,0,0,40,1,2,0,0.0,0.0,0.0,2,0,25,35,71.4,2,22,0,1,1,Cagliari,2020-10-04 Atalanta-Cagliari,ITA-SERIA_A,20-21,27a44970
+9085dd7c,Paolo Faragò,24,ITA,RB,27-235,6,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,1,0,6,7,85.7,0,3,0,0,0,Cagliari,2020-10-04 Atalanta-Cagliari,ITA-SERIA_A,20-21,27a44970
+f554e29b,Alessio Cragno,28,ITA,GK,26-098,90,0,0,0,0,0,0,0,0,46,0,0,0,0.0,0.0,0.0,0,0,27,41,65.9,0,24,0,0,0,Cagliari,2020-10-04 Atalanta-Cagliari,ITA-SERIA_A,20-21,27a44970

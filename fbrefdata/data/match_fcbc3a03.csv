@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+3260690c,Benjamin Šeško,30,SVN,FW,20-165,62,0,0,0,0,1,0,0,0,22,0,0,1,0.1,0.1,0.1,3,0,12,17,70.6,0,16,1,1,1,RB Leipzig,2023-11-12 RB Leipzig-Freiburg,GER-BL1,23-24,fcbc3a03
+d2416c2e,Yussuf Poulsen,9,DEN,FW,29-150,28,0,0,0,0,1,0,0,0,18,0,0,2,0.0,0.0,0.0,1,0,6,9,66.7,0,9,0,1,0,RB Leipzig,2023-11-12 RB Leipzig-Freiburg,GER-BL1,23-24,fcbc3a03
+8652a85c,Loïs Openda,17,BEL,FW,23-269,90,1,0,1,1,6,1,1,0,30,0,0,1,1.4,0.6,0.0,0,0,9,15,60.0,1,20,3,2,1,RB Leipzig,2023-11-12 RB Leipzig-Freiburg,GER-BL1,23-24,fcbc3a03
+da4d670f,Xavi Simons,20,NED,LM,20-205,85,1,1,0,0,2,2,0,0,56,0,1,0,0.1,0.1,0.6,5,1,38,49,77.6,6,34,3,2,1,RB Leipzig,2023-11-12 RB Leipzig-Freiburg,GER-BL1,23-24,fcbc3a03
+bbd86530,Christopher Lenz,3,GER,LM,29-051,5,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,0,0,9,9,100.0,0,5,0,0,0,RB Leipzig,2023-11-12 RB Leipzig-Freiburg,GER-BL1,23-24,fcbc3a03
+8f056768,Xaver Schlager,24,AUT,CM,26-045,90,0,0,0,0,1,0,0,0,76,3,0,2,0.0,0.0,0.1,3,0,57,64,89.1,6,45,4,4,3,RB Leipzig,2023-11-12 RB Leipzig-Freiburg,GER-BL1,23-24,fcbc3a03
+92432bc6,Amadou Haidara,8,MLI,CM,25-285,67,0,0,0,0,1,1,1,0,43,1,3,1,0.1,0.1,0.0,0,0,32,38,84.2,3,22,0,0,0,RB Leipzig,2023-11-12 RB Leipzig-Freiburg,GER-BL1,23-24,fcbc3a03
+b825a650,Kevin Kampl,44,SVN,CM,33-034,23,0,0,0,0,0,0,0,0,23,2,0,1,0.0,0.0,0.0,1,1,19,19,100.0,2,14,1,0,0,RB Leipzig,2023-11-12 RB Leipzig-Freiburg,GER-BL1,23-24,fcbc3a03
+9a2e0ccc,Emil Forsberg,10,SWE,RM,32-020,62,0,0,0,0,1,0,0,0,30,1,0,0,0.0,0.0,0.0,1,0,17,23,73.9,0,18,1,2,1,RB Leipzig,2023-11-12 RB Leipzig-Freiburg,GER-BL1,23-24,fcbc3a03
+437f2b00,Christoph Baumgartner,14,AUT,RM,24-103,28,1,0,0,0,1,1,0,0,15,0,0,0,0.1,0.1,0.0,3,1,12,13,92.3,1,11,2,0,0,RB Leipzig,2023-11-12 RB Leipzig-Freiburg,GER-BL1,23-24,fcbc3a03
+7d450ed3,David Raum,22,GER,LB,25-204,90,0,0,0,0,0,0,0,0,77,1,0,4,0.0,0.0,0.0,1,0,51,68,75.0,2,31,0,0,0,RB Leipzig,2023-11-12 RB Leipzig-Freiburg,GER-BL1,23-24,fcbc3a03
+5b9512c5,Castello Lukeba,23,FRA,CB,20-330,90,0,0,0,0,0,0,0,0,134,0,0,1,0.0,0.0,0.0,1,0,110,123,89.4,7,97,1,0,0,RB Leipzig,2023-11-12 RB Leipzig-Freiburg,GER-BL1,23-24,fcbc3a03
+ca8033cb,Lukas Klostermann,16,GER,CB,27-162,90,0,0,0,0,0,0,0,0,110,2,0,1,0.0,0.0,0.0,3,0,97,103,94.2,9,83,2,0,0,RB Leipzig,2023-11-12 RB Leipzig-Freiburg,GER-BL1,23-24,fcbc3a03
+fcb27134,Mohamed Simakan,2,FRA,RB,23-193,62,0,0,0,0,0,0,0,0,43,1,0,1,0.0,0.0,0.0,1,0,29,35,82.9,3,21,1,0,0,RB Leipzig,2023-11-12 RB Leipzig-Freiburg,GER-BL1,23-24,fcbc3a03
+0a89e877,Benjamin Henrichs,39,GER,RB,26-262,28,0,0,0,0,0,0,0,0,14,1,0,1,0.0,0.0,0.0,2,1,11,11,100.0,2,11,2,2,1,RB Leipzig,2023-11-12 RB Leipzig-Freiburg,GER-BL1,23-24,fcbc3a03
+663e080e,Janis Blaswich,21,GER,GK,32-194,90,0,0,0,0,0,0,0,0,66,0,0,0,0.0,0.0,0.0,0,0,61,64,95.3,0,44,0,0,0,RB Leipzig,2023-11-12 RB Leipzig-Freiburg,GER-BL1,23-24,fcbc3a03
+ca618d23,Lucas Höler,9,GER,FW,29-125,87,0,0,0,0,0,0,0,0,38,1,0,0,0.0,0.0,0.1,3,0,18,31,58.1,2,21,0,1,0,Freiburg,2023-11-12 RB Leipzig-Freiburg,GER-BL1,23-24,fcbc3a03
+82e12fe7,Junior Adamu,20,AUT,FW,22-159,3,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Freiburg,2023-11-12 RB Leipzig-Freiburg,GER-BL1,23-24,fcbc3a03
+54e4866f,Vincenzo Grifo,32,ITA,AM,30-219,78,0,0,0,0,2,1,0,0,39,1,0,1,0.1,0.1,0.0,2,0,24,33,72.7,1,23,2,2,1,Freiburg,2023-11-12 RB Leipzig-Freiburg,GER-BL1,23-24,fcbc3a03
+8e235926,Michael Gregoritsch,38,AUT,AM,29-208,12,0,0,0,0,1,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,4,0,0,0,Freiburg,2023-11-12 RB Leipzig-Freiburg,GER-BL1,23-24,fcbc3a03
+1f2c7b55,Merlin Röhl,34,GER,AM,21-130,78,1,0,0,0,2,1,0,0,32,2,0,1,0.2,0.2,0.0,1,1,12,19,63.2,1,18,4,2,2,Freiburg,2023-11-12 RB Leipzig-Freiburg,GER-BL1,23-24,fcbc3a03
+d01bbb6f,Ritsu Doan,42,JPN,AM,25-149,12,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,2,0,3,4,75.0,0,3,0,1,0,Freiburg,2023-11-12 RB Leipzig-Freiburg,GER-BL1,23-24,fcbc3a03
+5d8e331f,Nicolas Höfler,27,GER,CM,33-248,90,0,0,0,0,0,0,0,0,35,0,1,2,0.0,0.0,0.0,1,0,22,25,88.0,1,8,0,0,0,Freiburg,2023-11-12 RB Leipzig-Freiburg,GER-BL1,23-24,fcbc3a03
+beb882a8,Maximilian Eggestein,8,GER,CM,26-339,90,0,0,0,0,3,1,0,0,34,1,0,0,0.2,0.2,0.0,2,0,17,25,68.0,5,21,0,0,0,Freiburg,2023-11-12 RB Leipzig-Freiburg,GER-BL1,23-24,fcbc3a03
+dd676a97,Noah Weißhaupt,7,GER,WB,22-053,90,0,0,0,0,0,0,0,0,60,0,2,1,0.0,0.0,0.1,4,0,36,47,76.6,2,33,6,4,0,Freiburg,2023-11-12 RB Leipzig-Freiburg,GER-BL1,23-24,fcbc3a03
+313254a3,Kiliann Sildillia,25,FRA,WB,21-180,90,0,0,0,0,0,0,0,0,53,1,4,1,0.0,0.0,0.0,1,0,19,39,48.7,2,20,0,3,1,Freiburg,2023-11-12 RB Leipzig-Freiburg,GER-BL1,23-24,fcbc3a03
+25ab9c9c,Manuel Gulde,5,GER,CB,32-273,87,0,0,0,0,1,0,0,0,57,3,2,1,0.0,0.0,0.0,1,0,48,49,98.0,2,34,1,0,0,Freiburg,2023-11-12 RB Leipzig-Freiburg,GER-BL1,23-24,fcbc3a03
+7d31f1cb,Kenneth Schmidt,4,GER,CB,21-162,3,0,0,0,0,0,0,0,0,4,0,1,0,0.0,0.0,0.0,0,0,2,3,66.7,0,3,0,0,0,Freiburg,2023-11-12 RB Leipzig-Freiburg,GER-BL1,23-24,fcbc3a03
+302527b2,Philipp Lienhart,3,AUT,CB,27-124,90,0,0,0,0,0,0,0,0,66,0,0,2,0.0,0.0,0.0,0,0,48,60,80.0,3,43,0,0,0,Freiburg,2023-11-12 RB Leipzig-Freiburg,GER-BL1,23-24,fcbc3a03
+f521b80a,Matthias Ginter,28,GER,CB,29-297,90,0,1,0,0,0,0,0,0,55,3,2,3,0.0,0.0,0.1,1,1,35,45,77.8,6,38,1,0,0,Freiburg,2023-11-12 RB Leipzig-Freiburg,GER-BL1,23-24,fcbc3a03
+dbd1b101,Noah Atubolu,1,GER,GK,21-171,90,0,0,0,0,0,0,0,0,33,0,0,0,0.0,0.0,0.0,0,0,28,31,90.3,0,18,0,0,0,Freiburg,2023-11-12 RB Leipzig-Freiburg,GER-BL1,23-24,fcbc3a03

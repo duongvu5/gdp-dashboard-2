@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+0d3585b5,Kévin Denkey,27,TOG,FW,18-323,90,0,0,0,0,1,0,0,0,44,4,0,1,0.0,0.0,0.1,3,1,13,31,41.9,1,18,2,2,2,Nîmes,2019-10-19 Nîmes-Amiens,FRA-L1,19-20,dc28b8e0
+f98b15f0,Romain Philippoteaux,7,FRA,LW,31-231,90,0,1,0,0,0,0,0,0,37,0,2,0,0.0,0.0,0.1,4,1,20,28,71.4,6,19,2,2,1,Nîmes,2019-10-19 Nîmes-Amiens,FRA-L1,19-20,dc28b8e0
+beae3a73,Renaud Ripart,20,FRA,"RW,RB",26-219,90,0,0,0,0,1,0,0,0,47,4,0,0,0.1,0.1,0.0,1,0,16,28,57.1,3,14,1,2,0,Nîmes,2019-10-19 Nîmes-Amiens,FRA-L1,19-20,dc28b8e0
+9b6556d2,Haris Duljević,17,BIH,"AM,RW",25-337,64,0,0,0,0,3,1,0,0,29,3,0,1,0.1,0.1,0.0,1,0,8,16,50.0,2,14,1,1,1,Nîmes,2019-10-19 Nîmes-Amiens,FRA-L1,19-20,dc28b8e0
+f9921b7f,Lucas Buadés,19,FRA,RW,21-295,26,0,0,0,0,0,0,0,0,5,1,0,0,0.0,0.0,0.0,1,0,2,3,66.7,0,4,0,0,0,Nîmes,2019-10-19 Nîmes-Amiens,FRA-L1,19-20,dc28b8e0
+c8090cb3,Theo Valls,18,FRA,"DM,LM",23-305,89,0,0,0,0,1,0,0,0,38,5,0,2,0.0,0.0,0.0,2,0,14,26,53.8,4,11,0,1,1,Nîmes,2019-10-19 Nîmes-Amiens,FRA-L1,19-20,dc28b8e0
+95981861,Antoine Valerio,33,FRA,LM,19-312,1,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,0,0,Nîmes,2019-10-19 Nîmes-Amiens,FRA-L1,19-20,dc28b8e0
+2145368f,Lamine Fomba,12,FRA,"DM,RM",21-266,90,0,0,0,0,1,0,0,0,41,4,2,4,0.0,0.0,0.0,0,0,14,25,56.0,1,16,0,1,1,Nîmes,2019-10-19 Nîmes-Amiens,FRA-L1,19-20,dc28b8e0
+475583ff,Gaëtan Paquiez,15,FRA,LB,25-246,90,0,0,0,0,0,0,0,0,55,2,4,2,0.0,0.0,0.0,1,0,25,42,59.5,2,9,0,0,0,Nîmes,2019-10-19 Nîmes-Amiens,FRA-L1,19-20,dc28b8e0
+1ad8cb67,Pablo Martinez,4,FRA,CB,30-240,90,1,0,0,0,1,1,0,0,52,0,3,3,0.1,0.1,0.0,0,0,22,39,56.4,3,15,2,1,1,Nîmes,2019-10-19 Nîmes-Amiens,FRA-L1,19-20,dc28b8e0
+16324e1d,Anthony Briançon,23,FRA,CB,24-325,90,0,0,0,0,0,0,0,0,42,0,3,1,0.0,0.0,0.0,0,0,23,33,69.7,2,11,0,0,0,Nîmes,2019-10-19 Nîmes-Amiens,FRA-L1,19-20,dc28b8e0
+5314e067,Sofiane Alakouch,29,MAR,RB,21-082,50,0,0,0,0,0,0,0,0,35,0,3,0,0.0,0.0,0.1,2,0,20,27,74.1,3,12,2,0,0,Nîmes,2019-10-19 Nîmes-Amiens,FRA-L1,19-20,dc28b8e0
+a0b65401,Sidy Sarr,6,SEN,"CM,RB",23-136,40,0,0,0,0,3,1,0,0,19,2,2,0,0.1,0.1,0.0,1,0,8,11,72.7,0,8,0,1,1,Nîmes,2019-10-19 Nîmes-Amiens,FRA-L1,19-20,dc28b8e0
+d83f8f69,Lucas Dias,16,FRA,GK,20-150,90,0,0,0,0,0,0,0,0,27,1,0,0,0.0,0.0,0.0,1,0,12,21,57.1,0,9,0,0,0,Nîmes,2019-10-19 Nîmes-Amiens,FRA-L1,19-20,dc28b8e0
+923f4dda,Serhou Guirassy,9,GUI,FW,23-221,90,0,0,0,0,2,1,1,0,41,0,0,0,0.1,0.1,0.0,0,0,21,26,80.8,4,23,1,3,2,Amiens,2019-10-19 Nîmes-Amiens,FRA-L1,19-20,dc28b8e0
+e68f2cb4,Stiven Mendoza,20,COL,LW,27-114,89,0,0,0,0,3,1,1,0,49,0,2,1,0.3,0.3,0.0,4,0,22,32,68.8,4,29,3,2,1,Amiens,2019-10-19 Nîmes-Amiens,FRA-L1,19-20,dc28b8e0
+814ac171,Madih Talal,22,FRA,LW,22-063,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Amiens,2019-10-19 Nîmes-Amiens,FRA-L1,19-20,dc28b8e0
+05816e19,Juan Ferney Otero,11,COL,RW,24-146,65,0,0,0,0,2,0,0,0,39,1,0,0,0.1,0.1,0.0,0,0,16,30,53.3,2,18,5,3,1,Amiens,2019-10-19 Nîmes-Amiens,FRA-L1,19-20,dc28b8e0
+d07e3b41,Fousseni Diabaté,28,MLI,RW,24-001,25,0,0,0,0,0,0,0,0,12,0,0,0,0.0,0.0,0.0,0,0,9,10,90.0,1,7,1,1,1,Amiens,2019-10-19 Nîmes-Amiens,FRA-L1,19-20,dc28b8e0
+5b1bf5e3,Gaël Kakuta,10,COD,AM,28-120,90,0,0,0,0,2,2,0,0,59,1,0,1,0.1,0.1,0.0,2,0,26,47,55.3,6,34,5,2,2,Amiens,2019-10-19 Nîmes-Amiens,FRA-L1,19-20,dc28b8e0
+c69ef855,Alexis Blin,17,FRA,DM,23-033,83,0,0,0,0,0,0,0,0,58,1,0,2,0.0,0.0,0.2,1,0,45,54,83.3,4,24,1,1,1,Amiens,2019-10-19 Nîmes-Amiens,FRA-L1,19-20,dc28b8e0
+f3642ba8,Mathieu Bodmer,24,FRA,DM,36-331,7,0,0,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.2,1,0,8,11,72.7,1,7,0,0,0,Amiens,2019-10-19 Nîmes-Amiens,FRA-L1,19-20,dc28b8e0
+a0434482,Eddy Gnahoré,5,FRA,DM,25-339,90,0,0,0,0,1,0,0,0,72,3,0,2,0.2,0.2,0.0,3,1,52,59,88.1,7,37,1,0,0,Amiens,2019-10-19 Nîmes-Amiens,FRA-L1,19-20,dc28b8e0
+4085f08e,Haitam Aleesami,14,NOR,LB,28-080,90,0,0,0,0,0,0,1,0,77,2,2,2,0.0,0.0,0.1,2,0,50,65,76.9,10,29,2,0,0,Amiens,2019-10-19 Nîmes-Amiens,FRA-L1,19-20,dc28b8e0
+247accfd,Bakaye Dibassy,12,MLI,CB,30-069,90,0,0,0,0,0,0,1,0,64,0,3,3,0.0,0.0,0.0,0,0,43,54,79.6,5,36,3,2,2,Amiens,2019-10-19 Nîmes-Amiens,FRA-L1,19-20,dc28b8e0
+80e4c841,Aurélien Chedjou,27,CMR,CB,34-121,90,0,0,0,0,1,0,0,0,80,1,2,0,0.0,0.0,0.1,1,0,59,74,79.7,8,38,1,0,0,Amiens,2019-10-19 Nîmes-Amiens,FRA-L1,19-20,dc28b8e0
+34bb6fbd,Arturo Calabresi,3,ITA,RB,23-216,90,1,0,0,0,1,1,0,0,76,2,3,3,0.4,0.4,0.0,2,0,42,61,68.9,2,17,1,5,4,Amiens,2019-10-19 Nîmes-Amiens,FRA-L1,19-20,dc28b8e0
+bc270726,Régis Gurtner,1,FRA,GK,32-315,90,0,0,0,0,0,0,0,0,31,0,0,0,0.0,0.0,0.1,1,0,22,31,71.0,0,15,0,0,0,Amiens,2019-10-19 Nîmes-Amiens,FRA-L1,19-20,dc28b8e0

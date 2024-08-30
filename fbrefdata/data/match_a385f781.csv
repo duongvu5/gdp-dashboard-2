@@ -1,0 +1,32 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+ee4f2f3b,Fabio Quagliarella,27,ITA,FW,38-245,86,1,1,1,1,5,0,0,0,36,1,1,0,1.1,0.3,0.0,4,2,15,21,71.4,1,18,1,2,2,Sampdoria,2021-10-03 Sampdoria-Udinese,ITA-SERIA_A,21-22,a385f781
+bf39bdec,Ernesto Torregrossa,9,VEN,FW,29-097,4,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,2,0,0,0,Sampdoria,2021-10-03 Sampdoria-Udinese,ITA-SERIA_A,21-22,a385f781
+5bd72174,Francesco Caputo,10,ITA,FW,34-058,90,0,0,0,0,0,0,0,0,20,0,1,0,0.0,0.0,0.3,4,1,10,11,90.9,0,10,0,2,0,Sampdoria,2021-10-03 Sampdoria-Udinese,ITA-SERIA_A,21-22,a385f781
+215f3907,Mikkel Damsgaard,38,DEN,LM,21-092,71,0,0,0,0,0,0,0,0,40,3,0,1,0.0,0.0,0.0,5,0,23,32,71.9,4,18,1,4,4,Sampdoria,2021-10-03 Sampdoria-Udinese,ITA-SERIA_A,21-22,a385f781
+a69cc629,Kristoffer Askildsen,16,NOR,LM,20-267,19,0,0,0,0,1,0,1,0,3,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,3,0,0,0,Sampdoria,2021-10-03 Sampdoria-Udinese,ITA-SERIA_A,21-22,a385f781
+d6f88a1d,Adrien Silva,5,POR,CM,32-202,71,0,0,0,0,1,1,0,0,47,2,3,2,0.0,0.0,0.1,2,0,32,38,84.2,4,24,3,1,1,Sampdoria,2021-10-03 Sampdoria-Udinese,ITA-SERIA_A,21-22,a385f781
+f503ea63,Albin Ekdal,6,SWE,CM,32-067,19,0,0,0,0,0,0,1,0,8,2,1,0,0.0,0.0,0.0,0,0,4,5,80.0,1,4,0,0,0,Sampdoria,2021-10-03 Sampdoria-Udinese,ITA-SERIA_A,21-22,a385f781
+d1b49282,Morten Thorsby,2,NOR,CM,25-151,90,0,0,0,0,0,0,1,0,41,3,1,2,0.0,0.0,0.0,0,0,22,27,81.5,2,12,0,1,0,Sampdoria,2021-10-03 Sampdoria-Udinese,ITA-SERIA_A,21-22,a385f781
+356c9002,Antonio Candreva,87,ITA,RM,34-217,90,1,0,0,0,3,1,0,0,70,0,0,0,0.3,0.3,0.3,5,0,37,65,56.9,7,37,4,1,1,Sampdoria,2021-10-03 Sampdoria-Udinese,ITA-SERIA_A,21-22,a385f781
+3cd3b384,Tommaso Augello,3,ITA,LB,27-034,90,0,0,0,0,0,0,0,0,60,4,2,1,0.0,0.0,0.0,0,0,39,45,86.7,5,34,5,2,1,Sampdoria,2021-10-03 Sampdoria-Udinese,ITA-SERIA_A,21-22,a385f781
+8b95acda,Omar Colley,15,GAM,CB,28-344,90,0,0,0,0,0,0,0,0,71,3,5,1,0.0,0.0,0.0,0,0,53,57,93.0,4,35,0,0,0,Sampdoria,2021-10-03 Sampdoria-Udinese,ITA-SERIA_A,21-22,a385f781
+caffaf5a,Maya Yoshida,22,JPN,CB,33-040,90,0,0,0,0,1,0,0,0,81,1,3,0,0.1,0.1,0.0,1,0,64,73,87.7,3,40,0,0,0,Sampdoria,2021-10-03 Sampdoria-Udinese,ITA-SERIA_A,21-22,a385f781
+61b3978f,Bartosz Bereszyński,24,POL,RB,29-083,90,0,0,0,0,0,0,1,0,62,1,1,0,0.0,0.0,0.0,0,0,41,50,82.0,6,41,2,4,1,Sampdoria,2021-10-03 Sampdoria-Udinese,ITA-SERIA_A,21-22,a385f781
+649b01d8,Emil Audero,1,ITA,GK,24-258,90,0,0,0,0,0,0,0,0,31,0,0,0,0.0,0.0,0.0,0,0,24,26,92.3,0,14,0,0,0,Sampdoria,2021-10-03 Sampdoria-Udinese,ITA-SERIA_A,21-22,a385f781
+ed5c0319,Beto,9,GNB,FW,23-245,90,1,0,0,0,2,1,0,0,22,0,0,0,0.6,0.6,0.0,0,0,7,13,53.8,1,11,3,3,1,Udinese,2021-10-03 Sampdoria-Udinese,ITA-SERIA_A,21-22,a385f781
+39583cfd,Gerard Deulofeu,10,ESP,FW,27-204,49,0,1,0,0,1,0,0,0,23,0,1,0,0.1,0.1,0.3,4,1,13,17,76.5,0,19,4,4,0,Udinese,2021-10-03 Sampdoria-Udinese,ITA-SERIA_A,21-22,a385f781
+963a328b,Tolgay Arslan,5,GER,"CM,DM",31-048,41,0,0,0,0,2,1,0,0,24,2,0,1,0.1,0.1,0.0,0,0,16,19,84.2,2,18,3,0,0,Udinese,2021-10-03 Sampdoria-Udinese,ITA-SERIA_A,21-22,a385f781
+22bfb57e,Jean-Victor Makengo,6,FRA,CM,23-113,78,0,0,0,0,0,0,0,0,31,0,1,0,0.0,0.0,0.1,6,1,23,26,88.5,3,20,3,7,7,Udinese,2021-10-03 Sampdoria-Udinese,ITA-SERIA_A,21-22,a385f781
+217c93a1,Lazar Samardzic,24,SRB,RW,19-221,12,0,0,0,0,0,0,0,0,12,1,0,0,0.0,0.0,0.1,2,0,9,11,81.8,1,6,0,1,1,Udinese,2021-10-03 Sampdoria-Udinese,ITA-SERIA_A,21-22,a385f781
+26db8853,Walace,11,BRA,"CM,DM",26-182,90,0,0,0,0,3,0,0,0,61,1,2,1,0.1,0.1,0.1,4,0,38,48,79.2,7,30,1,2,1,Udinese,2021-10-03 Sampdoria-Udinese,ITA-SERIA_A,21-22,a385f781
+75f2c59f,Roberto Pereyra,37,ARG,"CM,FW,AM",30-269,90,1,0,0,0,2,1,1,0,57,1,0,2,0.3,0.3,0.0,3,0,33,45,73.3,9,43,4,4,3,Udinese,2021-10-03 Sampdoria-Udinese,ITA-SERIA_A,21-22,a385f781
+7cd520e8,Destiny Udogie,13,ITA,WB,18-309,58,0,0,0,0,1,1,0,0,26,2,0,1,0.0,0.0,0.0,2,0,11,14,78.6,2,13,1,2,1,Udinese,2021-10-03 Sampdoria-Udinese,ITA-SERIA_A,21-22,a385f781
+23610943,Nahuel Molina,16,ARG,"WB,LB",23-180,32,0,0,0,0,0,0,0,0,29,0,0,1,0.0,0.0,0.0,1,0,19,27,70.4,4,23,0,0,0,Udinese,2021-10-03 Sampdoria-Udinese,ITA-SERIA_A,21-22,a385f781
+f91e81c9,Jens Stryger Larsen,19,DEN,WB,30-224,78,0,0,0,0,2,0,0,0,50,2,0,0,0.1,0.1,0.1,1,0,26,39,66.7,2,21,0,3,1,Udinese,2021-10-03 Sampdoria-Udinese,ITA-SERIA_A,21-22,a385f781
+28f66c2e,Brandon Soppy,93,FRA,RB,19-224,12,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,2,4,50.0,0,3,1,1,0,Udinese,2021-10-03 Sampdoria-Udinese,ITA-SERIA_A,21-22,a385f781
+92b4758e,Samir Santos,3,BRA,CB,26-302,78,0,0,0,0,2,1,1,0,50,6,3,1,0.4,0.4,0.0,2,1,23,30,76.7,1,23,1,1,0,Udinese,2021-10-03 Sampdoria-Udinese,ITA-SERIA_A,21-22,a385f781
+d60c26fc,Fernando Forestieri,45,ITA,LW,31-261,12,1,0,0,0,1,1,1,0,9,0,0,1,0.9,0.9,0.0,1,0,6,6,100.0,0,5,1,0,0,Udinese,2021-10-03 Sampdoria-Udinese,ITA-SERIA_A,21-22,a385f781
+e33f36d5,Bram Nuytinck,17,NED,CB,31-152,90,0,0,0,0,1,1,0,0,39,0,2,1,0.1,0.1,0.0,1,1,18,23,78.3,0,17,0,0,0,Udinese,2021-10-03 Sampdoria-Udinese,ITA-SERIA_A,21-22,a385f781
+19e4eab9,Rodrigo Becão,50,BRA,CB,25-257,90,0,0,0,0,1,0,1,0,50,2,0,2,0.0,0.0,0.1,2,0,33,43,76.7,2,31,1,0,0,Udinese,2021-10-03 Sampdoria-Udinese,ITA-SERIA_A,21-22,a385f781
+0d422df7,Marco Silvestri,1,ITA,GK,30-215,90,0,0,0,0,0,0,1,0,23,0,0,0,0.0,0.0,0.0,0,0,17,21,81.0,0,13,0,0,0,Udinese,2021-10-03 Sampdoria-Udinese,ITA-SERIA_A,21-22,a385f781

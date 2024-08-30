@@ -1,0 +1,32 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+f9758dae,Emmanuel Gyasi,11,GHA,"FW,RW",28-081,90,1,0,0,0,1,1,1,0,31,0,0,0,0.5,0.5,0.0,4,0,19,26,73.1,1,15,0,1,1,Spezia,2022-04-02 Spezia-Venezia,ITA-SERIA_A,21-22,84e7dc8c
+9d60028d,Viktor Kovalenko,8,UKR,LW,26-047,56,0,0,0,0,0,0,0,0,25,1,1,0,0.0,0.0,0.0,0,0,17,21,81.0,2,12,0,1,0,Spezia,2022-04-02 Spezia-Venezia,ITA-SERIA_A,21-22,84e7dc8c
+d3298c99,Daniele Verde,10,ITA,LW,25-286,34,0,0,0,0,1,0,0,0,15,0,0,0,0.0,0.0,0.0,1,0,8,12,66.7,2,6,1,1,0,Spezia,2022-04-02 Spezia-Venezia,ITA-SERIA_A,21-22,84e7dc8c
+46fa7204,Kevin Agudelo,33,COL,RW,23-139,66,0,0,0,0,0,0,0,0,31,3,2,2,0.0,0.0,0.0,1,0,12,20,60.0,1,18,1,1,1,Spezia,2022-04-02 Spezia-Venezia,ITA-SERIA_A,21-22,84e7dc8c
+7703afb6,Rey Manaj,9,ALB,FW,25-037,24,0,0,0,0,2,2,1,0,14,0,0,0,0.2,0.2,0.0,1,1,2,6,33.3,1,7,0,1,0,Spezia,2022-04-02 Spezia-Venezia,ITA-SERIA_A,21-22,84e7dc8c
+1ac232b8,Simone Bastoni,20,ITA,LM,25-148,89,0,0,0,0,2,1,0,0,58,4,1,0,0.1,0.1,0.1,4,0,32,46,69.6,3,31,1,4,3,Spezia,2022-04-02 Spezia-Venezia,ITA-SERIA_A,21-22,84e7dc8c
+da5a981b,Jacopo Sala,7,ITA,LM,30-118,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Spezia,2022-04-02 Spezia-Venezia,ITA-SERIA_A,21-22,84e7dc8c
+dc3e663e,Jakub Kiwior,14,POL,CM,22-046,90,0,0,0,0,0,0,0,0,42,2,2,1,0.0,0.0,0.0,1,0,25,33,75.8,1,23,1,0,0,Spezia,2022-04-02 Spezia-Venezia,ITA-SERIA_A,21-22,84e7dc8c
+957e4c87,Giulio Maggiore,25,ITA,RM,24-021,90,0,0,0,0,2,0,1,0,43,1,3,0,0.2,0.2,0.1,1,0,23,32,71.9,0,20,0,0,0,Spezia,2022-04-02 Spezia-Venezia,ITA-SERIA_A,21-22,84e7dc8c
+6213fd82,Arkadiusz Reca,13,POL,LB,26-289,66,0,0,0,0,1,0,0,0,65,1,1,0,0.0,0.0,0.0,1,0,43,57,75.4,2,31,3,1,1,Spezia,2022-04-02 Spezia-Venezia,ITA-SERIA_A,21-22,84e7dc8c
+eb76987d,Salvador Ferrer,21,ESP,LB,24-071,24,0,0,0,0,0,0,0,0,19,0,0,0,0.0,0.0,0.0,0,0,10,19,52.6,3,8,0,0,0,Spezia,2022-04-02 Spezia-Venezia,ITA-SERIA_A,21-22,84e7dc8c
+cf961d8d,Dimitris Nikolaou,43,GRE,CB,23-232,90,0,0,0,0,1,0,0,0,74,0,2,3,0.1,0.1,0.0,1,0,50,62,80.6,2,45,0,1,1,Spezia,2022-04-02 Spezia-Venezia,ITA-SERIA_A,21-22,84e7dc8c
+0fee6bda,Martin Erlic,28,CRO,CB,24-068,90,0,0,0,0,0,0,0,0,63,1,2,0,0.0,0.0,0.1,2,0,41,54,75.9,3,41,1,0,0,Spezia,2022-04-02 Spezia-Venezia,ITA-SERIA_A,21-22,84e7dc8c
+bcc81786,Kelvin Amian,27,FRA,RB,24-053,90,0,0,0,0,1,0,0,0,45,4,2,2,0.0,0.0,0.2,1,0,26,32,81.3,1,12,1,2,2,Spezia,2022-04-02 Spezia-Venezia,ITA-SERIA_A,21-22,84e7dc8c
+277da414,Ivan Provedel,94,ITA,GK,28-016,90,0,0,0,0,0,0,0,0,37,0,0,0,0.0,0.0,0.0,0,0,30,38,78.9,0,22,0,0,0,Spezia,2022-04-02 Spezia-Venezia,ITA-SERIA_A,21-22,84e7dc8c
+d125f22f,David Okereke,77,NGA,"FW,LW",24-216,90,0,0,0,0,0,0,1,0,33,2,0,1,0.0,0.0,0.1,2,0,21,26,80.8,6,21,1,0,0,Venezia,2022-04-02 Spezia-Venezia,ITA-SERIA_A,21-22,84e7dc8c
+66784dee,Dennis Johnsen,17,NOR,LW,24-044,58,0,0,0,0,0,0,0,0,21,1,0,2,0.0,0.0,0.0,0,0,8,14,57.1,2,18,2,2,0,Venezia,2022-04-02 Spezia-Venezia,ITA-SERIA_A,21-22,84e7dc8c
+12e6d21a,Jean-Pierre Nsame,9,CMR,FW,28-336,32,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.2,3,0,3,7,42.9,1,6,0,0,0,Venezia,2022-04-02 Spezia-Venezia,ITA-SERIA_A,21-22,84e7dc8c
+0847b5a5,Mattia Aramu,10,ITA,RW,26-323,82,0,0,0,0,5,1,0,0,42,0,0,3,0.2,0.2,0.0,1,0,17,26,65.4,5,22,0,3,1,Venezia,2022-04-02 Spezia-Venezia,ITA-SERIA_A,21-22,84e7dc8c
+15e9c7e6,Nani,20,POR,RW,35-136,8,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,1,0,4,6,66.7,0,6,0,0,0,Venezia,2022-04-02 Spezia-Venezia,ITA-SERIA_A,21-22,84e7dc8c
+10b9fa99,Ethan Ampadu,44,WAL,"LM,CM",21-200,90,0,0,0,0,2,0,0,0,53,1,1,1,0.1,0.1,0.0,0,0,30,42,71.4,8,28,1,0,0,Venezia,2022-04-02 Spezia-Venezia,ITA-SERIA_A,21-22,84e7dc8c
+444c89d9,Antonio Vacca,5,ITA,CM,31-324,58,0,0,0,0,0,0,0,0,41,0,1,1,0.0,0.0,0.1,2,0,29,39,74.4,4,28,0,1,1,Venezia,2022-04-02 Spezia-Venezia,ITA-SERIA_A,21-22,84e7dc8c
+22cd43d2,Domen Črnigoj,33,SVN,RM,26-135,32,0,0,0,0,1,0,0,0,17,1,1,1,0.0,0.0,0.0,2,0,9,12,75.0,4,10,2,1,1,Venezia,2022-04-02 Spezia-Venezia,ITA-SERIA_A,21-22,84e7dc8c
+5722eced,Mickaël Cuisance,21,FRA,"RM,LM",22-229,72,0,0,0,0,2,0,0,0,31,1,0,1,0.1,0.1,0.1,3,0,17,21,81.0,3,22,0,2,2,Venezia,2022-04-02 Spezia-Venezia,ITA-SERIA_A,21-22,84e7dc8c
+ce1806be,Sofian Kiyine,23,MAR,LM,24-182,18,0,0,0,0,0,0,0,0,15,0,0,1,0.0,0.0,0.0,0,0,6,10,60.0,0,7,2,2,1,Venezia,2022-04-02 Spezia-Venezia,ITA-SERIA_A,21-22,84e7dc8c
+c8d7131c,Ridgeciano Haps,55,SUR,LB,28-294,90,0,0,0,0,1,0,0,0,52,0,2,2,0.0,0.0,0.0,3,0,25,38,65.8,0,25,1,0,0,Venezia,2022-04-02 Spezia-Venezia,ITA-SERIA_A,21-22,84e7dc8c
+4d1efb48,Pietro Ceccaroni,32,ITA,CB,26-102,90,0,0,0,0,0,0,0,0,66,2,1,2,0.0,0.0,0.0,0,0,53,61,86.9,2,45,0,0,0,Venezia,2022-04-02 Spezia-Venezia,ITA-SERIA_A,21-22,84e7dc8c
+ac7e640b,Mattia Caldara,31,ITA,CB,27-332,90,0,0,0,0,1,1,0,0,72,1,1,2,0.1,0.1,0.0,1,0,46,60,76.7,4,38,2,0,0,Venezia,2022-04-02 Spezia-Venezia,ITA-SERIA_A,21-22,84e7dc8c
+6af30900,Tyronne Ebuehi,22,NGA,RB,26-107,90,0,0,0,0,2,1,0,0,37,2,3,1,0.1,0.1,0.1,3,0,18,21,85.7,4,23,2,1,0,Venezia,2022-04-02 Spezia-Venezia,ITA-SERIA_A,21-22,84e7dc8c
+14a96e1c,Niki Mäenpää,1,FIN,GK,37-069,90,0,0,0,0,0,0,0,0,34,0,0,0,0.0,0.0,0.0,0,0,21,32,65.6,0,14,0,0,0,Venezia,2022-04-02 Spezia-Venezia,ITA-SERIA_A,21-22,84e7dc8c

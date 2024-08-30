@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+16ceb862,Olivier Giroud,18,FRA,FW,32-241,90,1,1,0,0,3,2,0,0,35,0,0,1,0.2,0.2,0.6,4,2,19,23,82.6,1,16,0,0,0,Chelsea,2019-05-29 Chelsea-Arsenal,UEL,18-19,96c1ba9d
+a39bb753,Eden Hazard,10,BEL,LW,28-142,88,2,1,1,1,2,2,0,0,69,1,0,0,1.3,0.5,0.3,10,2,41,52,78.8,8,45,5,8,5,Chelsea,2019-05-29 Chelsea-Arsenal,UEL,18-19,96c1ba9d
+7fe90ccd,Davide Zappacosta,21,ITA,RW,26-352,2,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,2,0,0,0,Chelsea,2019-05-29 Chelsea-Arsenal,UEL,18-19,96c1ba9d
+3ca7254a,Pedro,11,ESP,RW,31-305,70,1,0,0,0,2,1,1,0,27,1,0,1,0.1,0.1,0.0,1,1,17,21,81.0,3,16,1,2,2,Chelsea,2019-05-29 Chelsea-Arsenal,UEL,18-19,96c1ba9d
+8b9ebd03,Willian,22,BRA,"RW,LW",30-293,20,0,0,0,0,2,1,0,0,13,0,0,0,0.2,0.2,0.0,2,0,8,9,88.9,0,7,1,1,1,Chelsea,2019-05-29 Chelsea-Arsenal,UEL,18-19,96c1ba9d
+79c0821a,Mateo Kovačić,17,CRO,LM,25-023,75,0,0,0,0,0,0,0,0,75,2,0,1,0.0,0.0,0.0,2,2,58,64,90.6,3,41,2,5,3,Chelsea,2019-05-29 Chelsea-Arsenal,UEL,18-19,96c1ba9d
+3a24769f,Ross Barkley,8,ENG,"LM,CM",25-175,15,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.2,2,0,8,8,100.0,1,4,0,0,0,Chelsea,2019-05-29 Chelsea-Arsenal,UEL,18-19,96c1ba9d
+45db685d,Jorginho,5,ITA,CM,27-160,90,0,0,0,0,0,0,0,0,66,6,2,4,0.0,0.0,0.1,5,0,47,52,90.4,4,29,1,0,0,Chelsea,2019-05-29 Chelsea-Arsenal,UEL,18-19,96c1ba9d
+b9fbae28,N'Golo Kanté,7,FRA,"RM,CM",28-061,90,0,0,0,0,0,0,0,0,48,1,0,3,0.0,0.0,0.0,1,0,30,39,76.9,1,28,1,0,0,Chelsea,2019-05-29 Chelsea-Arsenal,UEL,18-19,96c1ba9d
+e0bc6fdc,Emerson Palmieri,33,ITA,LB,24-299,90,0,1,0,0,2,1,0,0,77,3,1,1,0.1,0.1,0.0,1,1,54,64,84.4,2,42,2,2,2,Chelsea,2019-05-29 Chelsea-Arsenal,UEL,18-19,96c1ba9d
+c0e27d1a,David Luiz,30,BRA,CB,32-037,90,0,0,0,0,0,0,0,0,50,0,2,2,0.0,0.0,0.0,0,0,36,42,85.7,0,28,0,0,0,Chelsea,2019-05-29 Chelsea-Arsenal,UEL,18-19,96c1ba9d
+1cb49278,Andreas Christensen,27,DEN,CB,23-049,90,0,0,0,0,0,0,1,0,31,1,1,0,0.0,0.0,0.0,0,0,24,26,92.3,2,18,0,0,0,Chelsea,2019-05-29 Chelsea-Arsenal,UEL,18-19,96c1ba9d
+53cad200,César Azpilicueta,28,ESP,RB,29-274,90,0,0,0,0,2,0,0,0,57,3,4,4,0.1,0.1,0.0,0,0,36,44,81.8,3,24,1,0,0,Chelsea,2019-05-29 Chelsea-Arsenal,UEL,18-19,96c1ba9d
+28d596a0,Kepa Arrizabalaga,1,ESP,GK,24-238,90,0,0,0,0,0,0,0,0,31,0,0,0,0.0,0.0,0.0,0,0,22,30,73.3,0,14,0,0,0,Chelsea,2019-05-29 Chelsea-Arsenal,UEL,18-19,96c1ba9d
+d5dd5f1f,Pierre-Emerick Aubameyang,14,GAB,"FW,RW",29-345,90,0,0,0,0,4,0,0,0,35,0,0,2,0.3,0.3,0.0,2,1,19,28,67.9,3,18,5,1,1,Arsenal,2019-05-29 Chelsea-Arsenal,UEL,18-19,96c1ba9d
+9dbb75ca,Alexandre Lacazette,9,FRA,FW,28-001,90,0,0,0,0,3,1,0,0,30,0,0,0,0.4,0.4,0.4,5,0,17,21,81.0,1,17,1,2,1,Arsenal,2019-05-29 Chelsea-Arsenal,UEL,18-19,96c1ba9d
+16380240,Mesut Özil,10,GER,AM,30-226,76,0,0,0,0,0,0,0,0,34,0,1,0,0.0,0.0,0.1,4,0,26,29,89.7,8,22,4,2,2,Arsenal,2019-05-29 Chelsea-Arsenal,UEL,18-19,96c1ba9d
+a3b03921,Joe Willock,59,ENG,AM,19-282,14,0,0,0,0,4,0,0,0,12,1,0,0,0.5,0.5,0.0,2,0,4,4,100.0,1,10,4,2,1,Arsenal,2019-05-29 Chelsea-Arsenal,UEL,18-19,96c1ba9d
+e61b8aee,Granit Xhaka,34,SUI,"CM,DM",26-244,90,0,0,0,0,1,0,0,0,82,2,1,0,0.0,0.0,0.1,5,0,66,77,85.7,10,45,0,0,0,Arsenal,2019-05-29 Chelsea-Arsenal,UEL,18-19,96c1ba9d
+52611641,Lucas Torreira,11,URU,CM,23-107,66,0,0,0,0,1,0,0,0,41,2,2,2,0.0,0.0,0.0,1,0,27,32,84.4,1,23,0,3,2,Arsenal,2019-05-29 Chelsea-Arsenal,UEL,18-19,96c1ba9d
+6ca5ec4b,Alex Iwobi,17,NGA,LW,23-026,24,1,0,0,0,1,1,0,0,19,0,0,0,0.0,0.0,0.5,7,0,16,17,94.1,7,14,2,1,1,Arsenal,2019-05-29 Chelsea-Arsenal,UEL,18-19,96c1ba9d
+3935e52e,Sead Kolašinac,31,BIH,"WB,LB",25-343,90,0,0,0,0,1,0,0,0,57,0,0,1,0.0,0.0,0.1,3,0,40,54,74.1,3,24,2,0,0,Arsenal,2019-05-29 Chelsea-Arsenal,UEL,18-19,96c1ba9d
+e3a5814e,Ainsley Maitland-Niles,15,ENG,"WB,RB",21-273,90,0,0,0,0,0,0,0,0,72,3,0,2,0.0,0.0,0.0,2,0,47,57,82.5,8,33,4,2,2,Arsenal,2019-05-29 Chelsea-Arsenal,UEL,18-19,96c1ba9d
+d4cb83cc,Nacho Monreal,18,ESP,CB,33-092,65,0,0,0,0,0,0,0,0,31,0,0,1,0.0,0.0,0.0,0,0,24,27,88.9,1,15,0,1,1,Arsenal,2019-05-29 Chelsea-Arsenal,UEL,18-19,96c1ba9d
+5ea8ef20,Mattéo Guendouzi,29,FRA,DM,20-045,25,0,0,0,0,0,0,0,0,22,1,1,0,0.0,0.0,0.0,0,0,15,18,83.3,1,15,0,2,2,Arsenal,2019-05-29 Chelsea-Arsenal,UEL,18-19,96c1ba9d
+f5efb153,Laurent Koscielny,6,FRA,CB,33-261,90,0,0,0,0,0,0,0,0,53,1,2,1,0.0,0.0,0.0,0,0,43,47,91.5,6,30,0,0,0,Arsenal,2019-05-29 Chelsea-Arsenal,UEL,18-19,96c1ba9d
+b682dcf6,Sokratis Papastathopoulos,5,GRE,CB,30-354,90,0,0,0,0,1,0,0,0,57,3,1,3,0.1,0.1,0.0,0,0,38,44,86.4,5,28,0,1,1,Arsenal,2019-05-29 Chelsea-Arsenal,UEL,18-19,96c1ba9d
+71672fa0,Petr Čech,1,CZE,GK,37-009,90,0,0,0,0,0,0,0,0,29,0,0,0,0.0,0.0,0.0,0,0,18,24,75.0,0,9,0,0,0,Arsenal,2019-05-29 Chelsea-Arsenal,UEL,18-19,96c1ba9d

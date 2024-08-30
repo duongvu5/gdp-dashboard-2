@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+f69fba57,Yuya Osako,13,JPN,"LM,FW",27-099,90,0,0,0,0,2,1,0,0,47,0,0,1,0.1,0.1,0.1,6,1,35,40,87.5,8,24,1,2,0,Köln,2017-08-25 Köln-Hamburger SV,GER-BL1,17-18,4fc1a614
+9f381d8b,Jhon Córdoba,15,COL,FW,24-106,90,0,1,0,0,3,1,0,0,29,1,0,1,0.6,0.6,0.5,2,1,12,16,75.0,3,15,0,4,1,Köln,2017-08-25 Köln-Hamburger SV,GER-BL1,17-18,4fc1a614
+dc62fbee,Leonardo Bittencourt,21,GER,LM,23-249,45,0,0,0,0,1,0,0,0,24,1,0,0,0.0,0.0,0.0,0,0,15,17,88.2,1,11,0,0,0,Köln,2017-08-25 Köln-Hamburger SV,GER-BL1,17-18,4fc1a614
+923f4dda,Serhou Guirassy,19,GUI,FW,21-166,45,0,0,0,0,2,0,0,0,12,1,0,0,0.6,0.6,0.0,1,0,8,9,88.9,1,9,1,0,0,Köln,2017-08-25 Köln-Hamburger SV,GER-BL1,17-18,4fc1a614
+c2009df3,Jonas Hector,14,GER,CM,27-090,90,0,0,0,0,2,1,1,0,106,4,0,2,0.1,0.1,0.0,5,0,81,90,90.0,12,57,3,2,1,Köln,2017-08-25 Köln-Hamburger SV,GER-BL1,17-18,4fc1a614
+abb42ce6,Matthias Lehmann,33,GER,CM,34-089,71,0,0,0,0,1,1,0,0,70,0,2,2,0.0,0.0,0.0,2,0,50,62,80.6,10,39,3,0,0,Köln,2017-08-25 Köln-Hamburger SV,GER-BL1,17-18,4fc1a614
+fb59286d,Miloš Jojić,8,SRB,CM,25-159,19,0,0,0,0,2,1,0,0,30,0,0,0,0.1,0.1,0.1,5,0,21,26,80.8,4,10,2,0,0,Köln,2017-08-25 Köln-Hamburger SV,GER-BL1,17-18,4fc1a614
+140afefb,Marcel Risse,7,GER,RM,27-251,24,0,0,0,0,0,0,0,0,15,0,0,1,0.0,0.0,0.1,2,0,6,14,42.9,3,8,1,2,2,Köln,2017-08-25 Köln-Hamburger SV,GER-BL1,17-18,4fc1a614
+612cb8d3,Christian Clemens,17,GER,RM,26-021,66,0,0,0,0,3,0,0,0,52,3,1,1,0.1,0.1,0.0,3,0,29,41,70.7,5,23,1,3,1,Köln,2017-08-25 Köln-Hamburger SV,GER-BL1,17-18,4fc1a614
+2b83fa49,Jannes Horn,23,GER,LB,20-200,90,0,0,0,0,2,0,0,0,75,2,2,1,0.1,0.1,0.6,5,0,48,65,73.8,4,27,5,0,0,Köln,2017-08-25 Köln-Hamburger SV,GER-BL1,17-18,4fc1a614
+699fb8db,Dominique Heintz,3,GER,CB,24-010,90,0,0,0,0,0,0,0,0,79,1,3,1,0.0,0.0,0.0,1,0,63,71,88.7,6,42,2,0,0,Köln,2017-08-25 Köln-Hamburger SV,GER-BL1,17-18,4fc1a614
+68635c10,Frederik Sørensen,4,DEN,CB,25-133,90,1,0,0,0,2,1,1,0,98,3,1,0,0.4,0.4,0.0,1,0,65,86,75.6,9,53,0,0,0,Köln,2017-08-25 Köln-Hamburger SV,GER-BL1,17-18,4fc1a614
+92948149,Lukas Klünter,24,GER,RB,21-091,90,0,0,0,0,0,0,0,0,62,2,0,0,0.0,0.0,0.0,2,0,40,51,78.4,6,40,2,8,4,Köln,2017-08-25 Köln-Hamburger SV,GER-BL1,17-18,4fc1a614
+3cd9e95a,Timo Horn,1,GER,GK,24-105,90,0,0,0,0,0,0,0,0,32,0,0,0,0.0,0.0,0.0,0,0,26,31,83.9,0,19,0,0,0,Köln,2017-08-25 Köln-Hamburger SV,GER-BL1,17-18,4fc1a614
+9853983f,Bobby Wood,7,USA,FW,24-283,90,1,0,0,0,2,1,0,0,27,1,0,1,0.5,0.5,0.1,3,0,18,20,90.0,2,14,0,0,0,Hamburger SV,2017-08-25 Köln-Hamburger SV,GER-BL1,17-18,4fc1a614
+b1cd37e6,Filip Kostić,17,SRB,LW,24-297,89,0,0,0,0,5,1,0,0,43,2,0,2,0.2,0.2,0.0,4,0,12,30,40.0,1,26,6,2,1,Hamburger SV,2017-08-25 Köln-Hamburger SV,GER-BL1,17-18,4fc1a614
+410ab123,Lewis Holtby,8,GER,LW,26-341,1,1,0,0,0,1,1,0,0,1,0,0,0,0.8,0.8,0.0,0,0,0,0,,0,1,0,0,0,Hamburger SV,2017-08-25 Köln-Hamburger SV,GER-BL1,17-18,4fc1a614
+cd82452e,André Hahn,11,GER,RW,27-012,90,1,0,0,0,3,1,0,0,38,1,1,1,0.1,0.1,0.0,1,0,9,22,40.9,1,19,0,2,0,Hamburger SV,2017-08-25 Köln-Hamburger SV,GER-BL1,17-18,4fc1a614
+5f9f0531,Aaron Hunt,14,GER,AM,30-355,28,0,0,0,0,0,0,0,0,12,1,1,0,0.0,0.0,0.3,1,0,6,11,54.5,1,5,0,0,0,Hamburger SV,2017-08-25 Köln-Hamburger SV,GER-BL1,17-18,4fc1a614
+e5a35ae9,Luca Waldschmidt,15,GER,AM,21-098,33,0,0,0,0,1,0,0,0,9,0,0,0,0.0,0.0,0.0,1,1,1,3,33.3,0,6,1,1,1,Hamburger SV,2017-08-25 Köln-Hamburger SV,GER-BL1,17-18,4fc1a614
+a2e7de6f,Gideon Jung,28,GER,"CB,AM",22-347,29,0,0,0,0,0,0,0,0,6,1,0,1,0.0,0.0,0.0,0,0,2,3,66.7,1,1,0,0,0,Hamburger SV,2017-08-25 Köln-Hamburger SV,GER-BL1,17-18,4fc1a614
+26db8853,Walace,12,BRA,DM,22-143,90,0,0,0,0,0,0,0,0,44,3,1,1,0.0,0.0,0.1,5,1,27,35,77.1,7,18,0,1,0,Hamburger SV,2017-08-25 Köln-Hamburger SV,GER-BL1,17-18,4fc1a614
+f503ea63,Albin Ekdal,20,SWE,DM,28-028,90,0,1,0,0,1,0,0,0,37,1,2,1,0.0,0.0,0.8,4,2,18,29,62.1,4,19,2,2,1,Hamburger SV,2017-08-25 Köln-Hamburger SV,GER-BL1,17-18,4fc1a614
+f0797d57,Rick van Drongelen,4,NED,LB,18-248,90,0,0,0,0,0,0,0,0,35,1,1,1,0.0,0.0,0.0,2,0,17,28,60.7,2,12,3,3,1,Hamburger SV,2017-08-25 Köln-Hamburger SV,GER-BL1,17-18,4fc1a614
+0eb5720b,Mërgim Mavraj,5,ALB,CB,31-077,58,0,0,0,0,0,0,2,1,17,1,1,0,0.0,0.0,0.0,1,1,5,11,45.5,0,4,0,0,0,Hamburger SV,2017-08-25 Köln-Hamburger SV,GER-BL1,17-18,4fc1a614
+931b7c30,Kyriakos Papadopoulos,9,GRE,CB,25-183,90,0,0,0,0,0,0,1,0,26,2,4,2,0.0,0.0,0.0,0,0,9,13,69.2,0,4,0,0,0,Hamburger SV,2017-08-25 Köln-Hamburger SV,GER-BL1,17-18,4fc1a614
+6873f3bc,Dennis Diekmeier,2,GER,RB,27-309,90,0,0,0,0,0,0,1,0,26,2,0,0,0.0,0.0,0.0,1,0,15,21,71.4,0,5,1,0,0,Hamburger SV,2017-08-25 Köln-Hamburger SV,GER-BL1,17-18,4fc1a614
+4a15e95b,Christian Mathenia,1,GER,GK,25-147,90,0,0,0,0,0,0,0,0,45,0,0,0,0.0,0.0,0.0,0,0,16,42,38.1,0,17,0,0,0,Hamburger SV,2017-08-25 Köln-Hamburger SV,GER-BL1,17-18,4fc1a614

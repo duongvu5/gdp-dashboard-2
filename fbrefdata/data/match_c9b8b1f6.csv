@@ -1,0 +1,29 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+423e3d0b,Ytalo,48,BRA,FW,29-329,90,1,0,0,0,5,3,0,0,34,1,1,1,0.7,0.7,0.1,3,0,18,24,75.0,0,13,0,0,0,FK Vardar,2017-12-07 FK Vardar-Rosenborg,UEL,17-18,c9b8b1f6
+bf5fc4fc,Dejan Blaževski,9,MKD,LW,32-001,83,0,0,0,0,1,0,0,0,60,1,0,0,0.0,0.0,0.1,1,0,49,55,89.1,1,35,1,3,0,FK Vardar,2017-12-07 FK Vardar-Rosenborg,UEL,17-18,c9b8b1f6
+28aeafaa,Jaba Jighauri,7,GEO,LW,25-152,7,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,6,7,85.7,0,3,0,1,0,FK Vardar,2017-12-07 FK Vardar-Rosenborg,UEL,17-18,c9b8b1f6
+28c2d647,Tigran Barseghyan,11,ARM,RW,24-076,90,0,0,0,0,3,0,1,0,51,2,2,0,0.1,0.1,0.1,3,0,35,40,87.5,3,30,3,3,3,FK Vardar,2017-12-07 FK Vardar-Rosenborg,UEL,17-18,c9b8b1f6
+88cd098e,Juan Felipe Alves Ribeiro,70,BRA,AM,30-002,90,0,0,0,0,3,0,0,0,114,0,0,1,0.1,0.1,0.2,8,0,95,109,87.2,9,72,6,2,1,FK Vardar,2017-12-07 FK Vardar-Rosenborg,UEL,17-18,c9b8b1f6
+35862524,Boban Nikolov,10,MKD,DM,23-132,79,0,1,0,0,0,0,0,0,49,2,1,1,0.0,0.0,0.6,3,1,40,44,90.9,3,18,0,0,0,FK Vardar,2017-12-07 FK Vardar-Rosenborg,UEL,17-18,c9b8b1f6
+de0282f9,Vanja Marković,8,SRB,DM,23-170,11,0,0,0,0,1,0,0,0,6,0,0,0,0.1,0.1,0.0,1,0,2,4,50.0,1,1,0,0,0,FK Vardar,2017-12-07 FK Vardar-Rosenborg,UEL,17-18,c9b8b1f6
+d757fd45,Nikola Gligorov,16,MKD,DM,34-114,90,0,0,0,0,0,0,0,0,84,1,1,1,0.0,0.0,0.0,2,0,71,79,89.9,2,43,0,0,0,FK Vardar,2017-12-07 FK Vardar-Rosenborg,UEL,17-18,c9b8b1f6
+85fd00dd,Besir Demiri,23,MKD,LB,23-128,90,0,0,0,0,1,0,0,0,82,5,2,1,0.0,0.0,0.1,4,1,55,69,79.7,4,47,3,0,0,FK Vardar,2017-12-07 FK Vardar-Rosenborg,UEL,17-18,c9b8b1f6
+410c2fbc,Yevhen Novak,21,UKR,CB,28-309,90,0,0,0,0,2,2,0,0,45,1,0,4,0.1,0.1,0.0,0,0,31,32,96.9,1,18,1,0,0,FK Vardar,2017-12-07 FK Vardar-Rosenborg,UEL,17-18,c9b8b1f6
+a1a9ef78,Boban Grnčarov,6,MKD,CB,35-117,90,0,0,0,0,0,0,0,0,34,1,0,0,0.0,0.0,0.0,0,0,27,28,96.4,0,19,0,0,0,FK Vardar,2017-12-07 FK Vardar-Rosenborg,UEL,17-18,c9b8b1f6
+9d1f0c99,Visar Musliu,5,MKD,RB,23-024,90,0,0,0,0,0,0,0,0,72,3,2,0,0.0,0.0,0.0,4,0,51,60,85.0,2,40,3,3,2,FK Vardar,2017-12-07 FK Vardar-Rosenborg,UEL,17-18,c9b8b1f6
+6cd38213,Filip Gačevski,90,MKD,GK,27-112,90,0,0,0,0,0,0,0,0,24,0,0,1,0.0,0.0,0.0,0,0,20,21,95.2,0,5,0,0,0,FK Vardar,2017-12-07 FK Vardar-Rosenborg,UEL,17-18,c9b8b1f6
+9f9c57f0,Nicklas Bendtner,9,DEN,FW,29-325,90,1,0,1,1,3,0,0,0,62,0,0,1,0.9,0.1,0.0,3,0,42,53,79.2,9,28,2,2,1,Rosenborg,2017-12-07 FK Vardar-Rosenborg,UEL,17-18,c9b8b1f6
+884a8908,Samuel Adegbenro,28,NGA,FW,22-004,89,0,0,0,0,2,0,0,0,26,0,1,2,0.2,0.2,0.0,3,2,16,16,100.0,4,22,4,4,3,Rosenborg,2017-12-07 FK Vardar-Rosenborg,UEL,17-18,c9b8b1f6
+3d13d9e4,Erik Botheim,34,NOR,FW,17-331,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Rosenborg,2017-12-07 FK Vardar-Rosenborg,UEL,17-18,c9b8b1f6
+70c52749,Birger Meling,3,NOR,CM,22-355,90,0,0,0,0,1,0,0,0,42,1,1,1,0.0,0.0,0.1,3,0,28,31,90.3,3,24,1,1,0,Rosenborg,2017-12-07 FK Vardar-Rosenborg,UEL,17-18,c9b8b1f6
+438ae11e,Anders Trondsen,15,NOR,CM,22-252,90,0,0,0,0,0,0,0,0,74,2,1,2,0.0,0.0,0.1,3,0,54,64,84.4,4,49,1,1,1,Rosenborg,2017-12-07 FK Vardar-Rosenborg,UEL,17-18,c9b8b1f6
+0f816ae5,Morten Konradsen,22,NOR,CM,21-218,70,0,0,0,0,1,1,0,0,26,0,1,1,0.0,0.0,0.0,2,0,19,22,86.4,1,13,1,0,0,Rosenborg,2017-12-07 FK Vardar-Rosenborg,UEL,17-18,c9b8b1f6
+42fe6b05,Yann-Erik de Lanlay,11,NOR,CM,25-207,20,0,0,0,0,1,1,0,0,14,1,0,0,0.0,0.0,0.0,0,0,11,11,100.0,2,7,0,0,0,Rosenborg,2017-12-07 FK Vardar-Rosenborg,UEL,17-18,c9b8b1f6
+494bff86,Alex Gersbach,20,AUS,LB,20-213,89,0,0,0,0,0,0,0,0,45,1,1,1,0.0,0.0,0.0,1,0,25,32,78.1,1,23,1,1,0,Rosenborg,2017-12-07 FK Vardar-Rosenborg,UEL,17-18,c9b8b1f6
+abcfaa50,Jonathan Levi,17,SWE,LB,21-318,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Rosenborg,2017-12-07 FK Vardar-Rosenborg,UEL,17-18,c9b8b1f6
+283699b4,Jacob Rasmussen,5,DEN,CB,20-193,90,0,0,0,0,1,0,0,0,77,2,5,1,0.0,0.0,0.0,1,0,61,67,91.0,7,43,4,0,0,Rosenborg,2017-12-07 FK Vardar-Rosenborg,UEL,17-18,c9b8b1f6
+7bfd96fd,Jørgen Skjelvik,16,NOR,CB,26-155,90,0,0,0,0,0,0,0,0,69,1,1,1,0.0,0.0,0.0,1,0,58,61,95.1,4,46,1,1,1,Rosenborg,2017-12-07 FK Vardar-Rosenborg,UEL,17-18,c9b8b1f6
+da6cb94b,Tore Reginiussen,4,NOR,CB,31-241,90,0,0,0,0,0,0,0,0,69,2,1,1,0.0,0.0,0.0,0,0,54,61,88.5,3,48,1,0,0,Rosenborg,2017-12-07 FK Vardar-Rosenborg,UEL,17-18,c9b8b1f6
+a0313275,Vegar Eggen Hedenstad,2,NOR,RB,26-164,90,0,0,0,0,1,0,0,0,67,0,0,0,0.1,0.1,0.0,2,0,45,60,75.0,3,34,4,4,1,Rosenborg,2017-12-07 FK Vardar-Rosenborg,UEL,17-18,c9b8b1f6
+5e91ddf8,André Hansen,1,NOR,GK,27-355,90,0,0,0,0,0,0,0,0,31,0,0,0,0.0,0.0,0.0,0,0,23,28,82.1,0,5,0,0,0,Rosenborg,2017-12-07 FK Vardar-Rosenborg,UEL,17-18,c9b8b1f6

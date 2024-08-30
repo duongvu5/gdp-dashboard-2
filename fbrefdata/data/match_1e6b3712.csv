@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+b70afb45,Thijs Dallinga,9,NED,FW,23-063,76,0,1,0,0,3,1,0,0,18,1,0,0,0.4,0.4,0.2,3,1,7,10,70.0,0,17,1,2,1,Toulouse,2023-10-05 Toulouse-LASK,UEL,23-24,1e6b3712
+badcdcae,Denis Genreau,5,AUS,LM,24-137,14,0,0,0,0,1,0,0,0,10,1,0,0,0.0,0.0,0.5,1,0,5,6,83.3,1,5,2,2,1,Toulouse,2023-10-05 Toulouse-LASK,UEL,23-24,1e6b3712
+ed55b838,Gelabert,11,ESP,LM,22-339,60,0,0,0,0,0,0,0,0,30,0,0,0,0.0,0.0,0.0,1,0,20,25,80.0,1,25,2,1,1,Toulouse,2023-10-05 Toulouse-LASK,UEL,23-24,1e6b3712
+42fdb11d,Frank Magri,19,CMR,"FW,LM",24-031,30,0,0,0,0,0,0,0,0,7,2,0,2,0.0,0.0,0.0,0,0,1,5,20.0,0,6,2,0,0,Toulouse,2023-10-05 Toulouse-LASK,UEL,23-24,1e6b3712
+92ffb8f9,Vincent Sierro,8,SUI,CM,27-362,90,0,0,0,0,2,0,0,0,51,1,0,3,0.1,0.1,0.0,1,0,32,40,80.0,4,39,0,2,1,Toulouse,2023-10-05 Toulouse-LASK,UEL,23-24,1e6b3712
+b9ae8560,Niklas Schmidt,20,GER,CM,25-218,89,0,0,0,0,1,0,1,0,61,1,1,0,0.0,0.0,0.3,6,0,44,54,81.5,5,53,1,3,1,Toulouse,2023-10-05 Toulouse-LASK,UEL,23-24,1e6b3712
+a426a912,Waren Kamanzi,12,NOR,CM,22-328,1,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,0,0,Toulouse,2023-10-05 Toulouse-LASK,UEL,23-24,1e6b3712
+10cff752,Aron Dønnum,15,NOR,RM,25-168,76,0,0,0,0,1,0,0,0,33,0,0,1,0.0,0.0,0.1,2,0,19,29,65.5,5,30,2,4,3,Toulouse,2023-10-05 Toulouse-LASK,UEL,23-24,1e6b3712
+5e6355f8,Yanis Begraoui,14,MAR,RM,22-093,14,0,0,0,0,1,0,0,0,14,1,0,0,0.5,0.5,0.0,0,0,6,10,60.0,0,11,0,2,1,Toulouse,2023-10-05 Toulouse-LASK,UEL,23-24,1e6b3712
+f86fe8c1,Cristian Cásseres Jr.,24,VEN,DM,23-258,90,0,0,0,0,0,0,1,0,57,4,2,3,0.0,0.0,0.0,2,0,41,44,93.2,5,37,0,2,1,Toulouse,2023-10-05 Toulouse-LASK,UEL,23-24,1e6b3712
+39b326ed,Gabriel Suazo,17,CHI,LB,26-057,90,1,0,0,0,1,1,1,0,62,1,4,0,0.2,0.2,0.1,5,0,36,49,73.5,6,45,5,3,2,Toulouse,2023-10-05 Toulouse-LASK,UEL,23-24,1e6b3712
+3f319bb9,Rasmus Nicolaisen,2,DEN,CB,26-203,90,0,0,0,0,1,0,0,0,76,1,1,0,0.0,0.0,0.0,2,0,56,68,82.4,1,53,0,0,0,Toulouse,2023-10-05 Toulouse-LASK,UEL,23-24,1e6b3712
+698f11e3,Moussa Diarra,23,MLI,CB,22-329,90,0,0,0,0,1,0,1,0,83,3,4,3,0.0,0.0,0.0,0,0,57,70,81.4,1,61,1,1,0,Toulouse,2023-10-05 Toulouse-LASK,UEL,23-24,1e6b3712
+1d5c96f8,Mikkel Desler,3,DEN,RB,28-228,90,0,0,0,0,1,0,1,0,81,3,0,0,0.0,0.0,0.0,2,0,58,73,79.5,8,49,1,2,1,Toulouse,2023-10-05 Toulouse-LASK,UEL,23-24,1e6b3712
+6b91b999,Guillaume Restes,50,FRA,GK,18-208,90,0,0,0,0,0,0,0,0,41,0,0,0,0.0,0.0,0.0,0,0,26,39,66.7,0,28,0,0,0,Toulouse,2023-10-05 Toulouse-LASK,UEL,23-24,1e6b3712
+f2e3b81c,Robert Žulj,10,AUT,"FW,AM",31-242,90,0,0,0,0,0,0,0,0,67,0,0,1,0.0,0.0,0.1,5,0,42,61,68.9,8,52,1,3,0,LASK,2023-10-05 Toulouse-LASK,UEL,23-24,1e6b3712
+9a36ffe4,Moses Usor,17,NGA,LW,21-242,58,0,0,0,0,4,0,0,0,42,1,1,3,0.7,0.7,0.9,3,0,20,28,71.4,2,27,0,0,0,LASK,2023-10-05 Toulouse-LASK,UEL,23-24,1e6b3712
+7664c2e8,Elias Havel,24,AUT,"LW,FW",20-172,32,0,0,0,0,0,0,0,0,8,0,1,1,0.0,0.0,0.0,0,0,2,3,66.7,0,6,0,0,0,LASK,2023-10-05 Toulouse-LASK,UEL,23-24,1e6b3712
+774b7f08,Marin Ljubicic,9,CRO,RW,21-219,68,0,0,0,0,2,1,0,0,26,0,0,0,0.9,0.9,0.0,1,0,11,21,52.4,0,21,0,1,0,LASK,2023-10-05 Toulouse-LASK,UEL,23-24,1e6b3712
+3ef68782,Moussa Koné,11,SEN,RW,26-279,22,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,3,6,50.0,0,4,1,1,1,LASK,2023-10-05 Toulouse-LASK,UEL,23-24,1e6b3712
+aca0a525,George Bello,2,USA,LM,21-256,87,0,0,0,0,0,0,0,0,40,2,0,1,0.0,0.0,0.0,3,0,27,33,81.8,1,31,6,4,2,LASK,2023-10-05 Toulouse-LASK,UEL,23-24,1e6b3712
+f582d5c1,Sanoussy Ba,25,GER,LB,19-273,3,0,0,0,0,0,0,0,0,9,0,0,2,0.0,0.0,0.0,0,0,5,6,83.3,0,4,0,1,0,LASK,2023-10-05 Toulouse-LASK,UEL,23-24,1e6b3712
+5e42afa3,Ivan Ljubic,21,AUT,"CM,DM",27-090,90,0,0,0,0,2,0,1,0,62,0,0,1,0.1,0.1,0.0,1,0,48,55,87.3,6,50,0,0,0,LASK,2023-10-05 Toulouse-LASK,UEL,23-24,1e6b3712
+2319ebe3,Branko Jovičić,18,SRB,CM,30-201,68,0,0,0,0,1,0,1,0,78,1,0,1,0.0,0.0,0.0,1,0,67,72,93.1,7,63,1,0,0,LASK,2023-10-05 Toulouse-LASK,UEL,23-24,1e6b3712
+cf043a33,Ebrima Darboe,55,GAM,"CM,DM",22-121,22,0,0,0,0,0,0,1,0,25,2,0,0,0.0,0.0,0.0,0,0,17,19,89.5,2,17,0,0,0,LASK,2023-10-05 Toulouse-LASK,UEL,23-24,1e6b3712
+7da05fff,Florian Flecker,29,AUT,"RM,RB",27-341,90,0,0,0,0,0,0,0,0,61,1,2,0,0.0,0.0,0.1,1,0,37,54,68.5,7,50,1,3,2,LASK,2023-10-05 Toulouse-LASK,UEL,23-24,1e6b3712
+6a54638e,Maksym Talovierov,4,UKR,CB,23-099,87,0,0,0,0,0,0,0,0,87,2,3,5,0.0,0.0,0.0,0,0,60,68,88.2,4,58,0,0,0,LASK,2023-10-05 Toulouse-LASK,UEL,23-24,1e6b3712
+6445d6fe,Ibrahim Mustapha,23,GHA,LW,23-109,3,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,2,0,1,0,LASK,2023-10-05 Toulouse-LASK,UEL,23-24,1e6b3712
+6ea23758,Andrés Andrade Cedeño,16,PAN,CB,24-354,90,0,0,0,0,0,0,0,0,75,4,2,0,0.0,0.0,0.0,0,0,55,63,87.3,2,57,0,2,1,LASK,2023-10-05 Toulouse-LASK,UEL,23-24,1e6b3712
+c402fb6a,Philipp Ziereis,5,GER,CB,30-205,90,0,0,0,0,1,0,0,0,86,1,2,1,0.0,0.0,0.0,0,0,66,75,88.0,4,61,0,0,0,LASK,2023-10-05 Toulouse-LASK,UEL,23-24,1e6b3712
+05160902,Tobias Lawal,1,AUT,GK,23-120,90,0,0,0,0,0,0,0,0,46,0,0,0,0.0,0.0,0.0,0,0,31,45,68.9,0,28,0,0,0,LASK,2023-10-05 Toulouse-LASK,UEL,23-24,1e6b3712

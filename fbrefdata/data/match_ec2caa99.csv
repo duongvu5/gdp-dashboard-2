@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+81f0781e,Gerard Moreno,7,ESP,FW,27-004,90,0,0,0,0,2,1,0,0,34,1,0,0,0.2,0.2,0.0,1,0,19,23,82.6,3,21,1,2,1,Villarreal,2019-04-11 Villarreal-Valencia,UEL,18-19,ec2caa99
+82927de4,Pablo Fornals,8,ESP,"LW,LM",23-048,90,0,0,0,0,1,0,0,0,56,3,1,2,0.0,0.0,0.2,6,0,39,44,88.6,6,35,1,0,0,Villarreal,2019-04-11 Villarreal-Valencia,UEL,18-19,ec2caa99
+b8a642fc,Samuel Chukwueze,30,NGA,"RW,RM",19-324,90,0,0,0,0,6,4,0,0,57,2,0,2,0.5,0.5,0.2,9,0,30,36,83.3,3,40,6,5,5,Villarreal,2019-04-11 Villarreal-Valencia,UEL,18-19,ec2caa99
+ad1ffcfd,Vicente Iborra,10,ESP,AM,31-085,66,0,0,0,0,1,0,0,0,31,0,0,0,0.1,0.1,0.1,3,1,22,26,84.6,3,13,1,0,0,Villarreal,2019-04-11 Villarreal-Valencia,UEL,18-19,ec2caa99
+09a9e921,Carlos Bacca,9,COL,FW,32-215,24,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,1,0,4,5,80.0,0,2,0,0,0,Villarreal,2019-04-11 Villarreal-Valencia,UEL,18-19,ec2caa99
+e2e9c250,Santi Cazorla,19,ESP,"DM,CM",34-119,90,1,0,1,1,4,0,1,0,107,4,0,1,1.0,0.2,0.2,3,1,84,95,88.4,21,70,3,1,0,Villarreal,2019-04-11 Villarreal-Valencia,UEL,18-19,ec2caa99
+958bba56,Santiago Cáseres,5,ARG,"DM,CM",22-045,71,0,0,0,0,1,0,0,0,64,0,1,1,0.0,0.0,0.0,2,0,49,54,90.7,1,39,0,1,1,Villarreal,2019-04-11 Villarreal-Valencia,UEL,18-19,ec2caa99
+a0255c67,Manu Morlanes,28,ESP,CM,20-089,19,0,0,0,0,0,0,0,0,13,0,0,1,0.0,0.0,0.0,0,0,10,12,83.3,1,4,1,0,0,Villarreal,2019-04-11 Villarreal-Valencia,UEL,18-19,ec2caa99
+84fb6aff,Xavi Quintillà,39,ESP,"LB,RB",22-231,90,0,0,0,0,0,0,1,0,85,1,0,0,0.0,0.0,0.1,1,0,64,80,80.0,10,44,2,0,0,Villarreal,2019-04-11 Villarreal-Valencia,UEL,18-19,ec2caa99
+b3dc6eca,Víctor Ruiz,6,ESP,CB,30-076,90,0,0,0,0,0,0,0,0,91,1,1,1,0.0,0.0,0.0,2,0,74,85,87.1,8,46,0,0,0,Villarreal,2019-04-11 Villarreal-Valencia,UEL,18-19,ec2caa99
+42dcf26d,Álvaro González,3,ESP,CB,29-093,90,0,0,0,0,0,0,1,0,76,0,3,1,0.0,0.0,0.0,0,0,57,69,82.6,4,40,0,0,0,Villarreal,2019-04-11 Villarreal-Valencia,UEL,18-19,ec2caa99
+fb5d47b3,Mario Gaspar,2,ESP,RB,28-138,79,0,0,0,0,0,0,0,0,63,1,1,0,0.0,0.0,0.1,2,0,56,62,90.3,5,23,0,0,0,Villarreal,2019-04-11 Villarreal-Valencia,UEL,18-19,ec2caa99
+63f04c6c,Alfonso Pedraza,16,ESP,LB,23-002,11,0,0,0,0,0,0,0,0,12,0,0,0,0.0,0.0,0.0,0,0,8,11,72.7,0,6,1,0,0,Villarreal,2019-04-11 Villarreal-Valencia,UEL,18-19,ec2caa99
+307fcd26,Andrés Fernández,13,ESP,GK,32-115,90,0,0,0,0,0,0,0,0,29,0,0,0,0.0,0.0,0.0,0,0,19,25,76.0,0,13,0,0,0,Villarreal,2019-04-11 Villarreal-Valencia,UEL,18-19,ec2caa99
+42276181,Kévin Gameiro,9,FRA,FW,31-337,68,0,0,0,0,2,0,0,0,14,0,0,0,0.2,0.2,0.0,1,0,9,12,75.0,1,5,0,1,1,Valencia,2019-04-11 Villarreal-Valencia,UEL,18-19,ec2caa99
+0ac94a23,Denis Cheryshev,11,RUS,LM,28-106,22,0,1,0,0,0,0,0,0,17,0,0,3,0.0,0.0,0.5,2,1,7,11,63.6,3,9,3,0,0,Valencia,2019-04-11 Villarreal-Valencia,UEL,18-19,ec2caa99
+1fb1c435,Rodrigo,19,ESP,FW,28-036,90,0,0,0,0,0,0,0,0,36,0,0,1,0.0,0.0,0.3,4,1,21,29,72.4,4,20,0,4,1,Valencia,2019-04-11 Villarreal-Valencia,UEL,18-19,ec2caa99
+e6bc67d7,Gonçalo Guedes,7,POR,"LM,FW",22-133,90,2,0,0,0,3,2,0,0,42,2,0,2,1.0,0.5,0.0,2,0,21,30,70.0,3,23,3,2,0,Valencia,2019-04-11 Villarreal-Valencia,UEL,18-19,ec2caa99
+d83bbc54,Daniel Wass,18,DEN,"CM,RM",29-315,90,1,0,0,0,3,1,0,0,40,3,1,1,0.1,0.1,0.0,1,0,25,29,86.2,3,15,3,0,0,Valencia,2019-04-11 Villarreal-Valencia,UEL,18-19,ec2caa99
+7460ca0d,Daniel Parejo,10,ESP,CM,29-360,90,0,0,0,1,0,0,0,0,74,2,0,1,0.8,0.0,0.0,2,2,56,68,82.4,7,25,0,1,1,Valencia,2019-04-11 Villarreal-Valencia,UEL,18-19,ec2caa99
+9e1035f8,Ferrán Torres,20,ESP,RM,19-041,60,0,0,0,0,0,0,0,0,24,1,0,0,0.0,0.0,0.0,0,0,11,19,57.9,0,11,3,0,0,Valencia,2019-04-11 Villarreal-Valencia,UEL,18-19,ec2caa99
+a6951bf8,Francis Coquelin,17,FRA,CM,27-333,30,0,0,0,0,1,0,0,0,28,1,1,1,0.0,0.0,0.0,0,0,21,22,95.5,3,12,0,0,0,Valencia,2019-04-11 Villarreal-Valencia,UEL,18-19,ec2caa99
+b05e2dbd,José Luis Gayà,14,ESP,LB,23-321,90,0,1,0,0,0,0,1,0,59,0,0,0,0.0,0.0,0.1,2,1,43,53,81.1,3,27,3,2,1,Valencia,2019-04-11 Villarreal-Valencia,UEL,18-19,ec2caa99
+b7ca5c51,Gabriel Paulista,5,BRA,CB,28-136,90,0,0,0,0,0,0,0,0,47,0,2,1,0.0,0.0,0.0,0,0,37,42,88.1,1,19,0,0,0,Valencia,2019-04-11 Villarreal-Valencia,UEL,18-19,ec2caa99
+ac3fb1be,Ezequiel Garay,24,ARG,CB,32-183,90,0,0,0,0,0,0,0,0,57,1,0,1,0.0,0.0,0.0,1,0,39,46,84.8,5,25,1,0,0,Valencia,2019-04-11 Villarreal-Valencia,UEL,18-19,ec2caa99
+51e3954c,Facundo Roncaglia,4,ARG,RB,32-060,57,0,0,0,0,0,0,0,0,38,1,0,0,0.0,0.0,0.0,0,0,20,28,71.4,2,14,2,1,0,Valencia,2019-04-11 Villarreal-Valencia,UEL,18-19,ec2caa99
+32c0491f,Cristiano Piccini,21,ITA,RB,26-197,33,0,0,0,0,0,0,0,0,32,0,0,0,0.0,0.0,0.0,1,0,19,28,67.9,3,13,2,0,0,Valencia,2019-04-11 Villarreal-Valencia,UEL,18-19,ec2caa99
+a9dc785c,Neto,13,BRA,GK,29-266,90,0,0,0,0,0,0,0,0,36,0,0,0,0.0,0.0,0.0,0,0,19,32,59.4,0,10,0,0,0,Valencia,2019-04-11 Villarreal-Valencia,UEL,18-19,ec2caa99

@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+ea0ff634,Valère Germain,9,FRA,FW,31-168,90,0,1,0,0,3,2,0,0,29,0,0,0,0.6,0.6,0.1,2,1,15,23,65.2,1,8,0,0,0,Montpellier,2021-10-02 Montpellier-Strasbourg,FRA-L1,21-22,0acc7165
+30144daa,Stephy Mavididi,10,ENG,LW,23-124,87,0,0,0,0,1,0,0,0,46,1,1,3,0.1,0.1,0.0,1,0,23,33,69.7,0,26,1,3,0,Montpellier,2021-10-02 Montpellier-Strasbourg,FRA-L1,21-22,0acc7165
+79ab7593,Nicholas Gioacchini,23,USA,LW,21-069,3,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Montpellier,2021-10-02 Montpellier-Strasbourg,FRA-L1,21-22,0acc7165
+7e82a78f,Florent Mollet,25,FRA,RW,29-317,90,1,0,0,0,3,1,1,0,48,1,0,1,0.2,0.2,0.0,3,0,34,40,85.0,4,29,2,1,0,Montpellier,2021-10-02 Montpellier-Strasbourg,FRA-L1,21-22,0acc7165
+6bde367b,Téji Savanier,11,FRA,AM,29-284,82,0,0,0,0,3,1,0,0,71,1,2,0,0.1,0.1,0.0,2,0,38,59,64.4,6,39,2,4,3,Montpellier,2021-10-02 Montpellier-Strasbourg,FRA-L1,21-22,0acc7165
+654f49ca,Béni Makouana,28,CGO,AM,19-004,8,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,1,0,1,2,50.0,0,2,0,0,0,Montpellier,2021-10-02 Montpellier-Strasbourg,FRA-L1,21-22,0acc7165
+7909ffa4,Joris Chotard,13,FRA,DM,20-008,90,0,0,0,0,1,0,0,0,50,2,3,1,0.0,0.0,0.0,2,0,35,38,92.1,4,20,0,0,0,Montpellier,2021-10-02 Montpellier-Strasbourg,FRA-L1,21-22,0acc7165
+375622c5,Jordan Ferri,12,FRA,DM,29-204,82,0,0,0,0,1,0,0,0,74,1,1,0,0.0,0.0,0.6,4,0,60,69,87.0,6,41,0,0,0,Montpellier,2021-10-02 Montpellier-Strasbourg,FRA-L1,21-22,0acc7165
+fcc84a07,Léo Leroy,18,FRA,DM,21-230,8,0,0,0,0,0,0,0,0,13,1,0,0,0.0,0.0,0.0,0,0,8,12,66.7,1,3,0,0,0,Montpellier,2021-10-02 Montpellier-Strasbourg,FRA-L1,21-22,0acc7165
+8f325097,Nicolas Cozza,31,FRA,LB,22-267,88,0,0,0,0,0,0,0,0,75,1,0,0,0.0,0.0,0.0,2,0,42,63,66.7,4,39,3,4,2,Montpellier,2021-10-02 Montpellier-Strasbourg,FRA-L1,21-22,0acc7165
+ea0aa7e0,Mihailo Ristić,7,SRB,LB,25-336,2,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,3,4,75.0,0,1,0,0,0,Montpellier,2021-10-02 Montpellier-Strasbourg,FRA-L1,21-22,0acc7165
+87935cf3,Mamadou Sakho,3,FRA,CB,31-231,90,0,0,0,0,0,0,1,0,83,3,1,1,0.0,0.0,0.0,2,1,69,74,93.2,5,38,1,0,0,Montpellier,2021-10-02 Montpellier-Strasbourg,FRA-L1,21-22,0acc7165
+1a066e69,Maxime Estève,14,FRA,CB,19-129,90,0,0,0,0,0,0,0,0,46,0,1,0,0.0,0.0,0.0,0,0,37,41,90.2,1,26,0,0,0,Montpellier,2021-10-02 Montpellier-Strasbourg,FRA-L1,21-22,0acc7165
+4e0afc5d,Arnaud Souquet,2,FRA,RB,29-232,90,0,0,0,0,0,0,0,0,65,2,0,1,0.0,0.0,0.1,2,0,42,59,71.2,2,34,5,1,0,Montpellier,2021-10-02 Montpellier-Strasbourg,FRA-L1,21-22,0acc7165
+c631f952,Jonas Omlin,1,SUI,GK,27-265,90,0,0,0,0,0,0,0,0,49,0,0,0,0.0,0.0,0.0,0,0,39,47,83.0,0,32,0,0,0,Montpellier,2021-10-02 Montpellier-Strasbourg,FRA-L1,21-22,0acc7165
+42276181,Kévin Gameiro,9,FRA,FW,34-146,88,1,0,0,0,3,1,0,0,49,0,1,1,0.2,0.2,0.0,0,0,33,43,76.7,3,33,5,0,0,Strasbourg,2021-10-02 Montpellier-Strasbourg,FRA-L1,21-22,0acc7165
+46907171,Abdul Majeed Waris,8,GHA,FW,30-013,2,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,1,0,0,0,Strasbourg,2021-10-02 Montpellier-Strasbourg,FRA-L1,21-22,0acc7165
+462475ed,Ludovic Ajorque,25,FRA,FW,27-219,66,0,1,0,0,0,0,0,0,31,0,0,1,0.0,0.0,0.1,1,1,13,24,54.2,2,16,1,0,0,Strasbourg,2021-10-02 Montpellier-Strasbourg,FRA-L1,21-22,0acc7165
+6605d143,Habib Diallo,20,SEN,FW,26-106,24,0,0,0,0,1,1,0,0,13,0,0,0,0.0,0.0,0.0,0,0,6,8,75.0,1,8,0,5,4,Strasbourg,2021-10-02 Montpellier-Strasbourg,FRA-L1,21-22,0acc7165
+10f0fdd3,Jean-Ricner Bellegarde,17,FRA,CM,23-097,82,0,0,0,0,1,1,0,0,43,3,1,1,0.0,0.0,0.0,1,0,24,29,82.8,3,25,1,1,0,Strasbourg,2021-10-02 Montpellier-Strasbourg,FRA-L1,21-22,0acc7165
+49070d66,Lucas Perrin,5,FRA,CM,22-317,8,0,0,0,0,0,0,0,0,6,0,0,1,0.0,0.0,0.0,0,0,5,6,83.3,1,2,1,0,0,Strasbourg,2021-10-02 Montpellier-Strasbourg,FRA-L1,21-22,0acc7165
+51c30111,Sanjin Prcić,14,BIH,CM,27-316,67,0,0,0,0,1,0,0,0,43,1,2,2,0.0,0.0,0.0,2,0,33,37,89.2,3,30,1,0,0,Strasbourg,2021-10-02 Montpellier-Strasbourg,FRA-L1,21-22,0acc7165
+f7691f63,Dimitri Liénard,11,FRA,CM,33-231,23,0,0,0,0,0,0,0,0,16,0,0,0,0.0,0.0,0.0,0,0,10,14,71.4,4,10,0,1,0,Strasbourg,2021-10-02 Montpellier-Strasbourg,FRA-L1,21-22,0acc7165
+0f8418aa,Ibrahima Sissoko,27,MLI,CM,23-340,67,0,0,0,0,0,0,0,0,43,3,2,2,0.0,0.0,0.1,3,1,27,28,96.4,3,24,2,4,2,Strasbourg,2021-10-02 Montpellier-Strasbourg,FRA-L1,21-22,0acc7165
+48b28bfd,Jean-Eudes Aholou,6,CIV,CM,27-196,23,0,0,0,0,0,0,0,0,11,0,1,0,0.0,0.0,0.0,0,0,9,10,90.0,1,8,1,1,0,Strasbourg,2021-10-02 Montpellier-Strasbourg,FRA-L1,21-22,0acc7165
+0118c54c,Anthony Caci,19,FRA,LB,24-093,90,0,0,0,0,0,0,0,0,69,1,1,1,0.0,0.0,0.0,0,0,52,62,83.9,3,35,4,2,1,Strasbourg,2021-10-02 Montpellier-Strasbourg,FRA-L1,21-22,0acc7165
+321a71a7,Maxime Le Marchand,23,FRA,CB,31-356,90,0,0,0,0,0,0,0,0,51,1,2,0,0.0,0.0,0.0,0,0,39,46,84.8,2,27,0,0,0,Strasbourg,2021-10-02 Montpellier-Strasbourg,FRA-L1,21-22,0acc7165
+6043997c,Gerzino Nyamsi,22,FRA,CB,24-253,90,0,0,0,0,0,0,0,0,35,1,0,1,0.0,0.0,0.0,0,0,21,27,77.8,1,23,0,3,2,Strasbourg,2021-10-02 Montpellier-Strasbourg,FRA-L1,21-22,0acc7165
+43e7a164,Alexander Djiku,24,GHA,CB,27-054,90,0,0,0,0,0,0,0,0,58,3,5,3,0.0,0.0,0.0,1,0,35,45,77.8,2,27,0,0,0,Strasbourg,2021-10-02 Montpellier-Strasbourg,FRA-L1,21-22,0acc7165
+5d8d7454,Frederic Guilbert,2,FRA,RB,26-282,90,0,0,0,0,0,0,0,0,67,4,3,2,0.0,0.0,0.0,1,0,34,54,63.0,4,30,2,1,1,Strasbourg,2021-10-02 Montpellier-Strasbourg,FRA-L1,21-22,0acc7165
+834b5c4c,Matz Sels,1,BEL,GK,29-218,90,0,0,0,0,0,0,0,0,35,0,0,0,0.0,0.0,0.0,0,0,23,35,65.7,0,14,0,0,0,Strasbourg,2021-10-02 Montpellier-Strasbourg,FRA-L1,21-22,0acc7165

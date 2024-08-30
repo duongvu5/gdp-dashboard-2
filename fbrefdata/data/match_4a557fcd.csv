@@ -1,0 +1,29 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+8e235926,Michael Gregoritsch,11,AUT,FW,23-333,90,0,0,0,0,3,1,0,0,27,1,1,0,0.2,0.2,0.0,4,0,16,20,80.0,0,19,1,1,1,Augsburg,2018-03-17 Augsburg-Werder Bremen,GER-BL1,17-18,4a557fcd
+c6637acf,Caiuby,30,BRA,LW,29-246,90,0,0,0,0,2,2,1,0,49,1,0,0,0.1,0.1,0.0,1,0,26,38,68.4,2,30,1,0,0,Augsburg,2018-03-17 Augsburg-Werder Bremen,GER-BL1,17-18,4a557fcd
+f972644c,Marco Richter,23,GER,RW,20-113,77,0,0,0,0,2,0,0,0,25,1,0,1,0.1,0.1,0.0,0,0,13,16,81.3,0,15,0,1,0,Augsburg,2018-03-17 Augsburg-Werder Bremen,GER-BL1,17-18,4a557fcd
+229cd98a,Sergio Córdova,21,VEN,RW,20-220,13,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,2,1,1,1,Augsburg,2018-03-17 Augsburg-Werder Bremen,GER-BL1,17-18,4a557fcd
+3c05e082,Koo Ja-cheol,19,KOR,AM,29-018,90,0,0,0,0,0,0,0,0,50,2,1,1,0.0,0.0,0.0,2,0,27,40,67.5,4,31,1,3,2,Augsburg,2018-03-17 Augsburg-Werder Bremen,GER-BL1,17-18,4a557fcd
+f261abcb,Daniel Baier,10,GER,DM,33-303,90,0,0,0,0,3,0,0,0,84,2,0,1,0.1,0.1,0.0,4,1,58,78,74.4,13,49,0,2,1,Augsburg,2018-03-17 Augsburg-Werder Bremen,GER-BL1,17-18,4a557fcd
+59e4b92e,Rani Khedira,8,GER,"CB,DM",24-049,90,1,0,0,0,2,2,0,0,65,2,1,4,0.1,0.1,0.0,1,0,39,47,83.0,4,32,1,0,0,Augsburg,2018-03-17 Augsburg-Werder Bremen,GER-BL1,17-18,4a557fcd
+826e8b63,Philipp Max,31,GER,LB,24-168,90,0,1,0,0,3,1,0,0,53,3,0,1,0.1,0.1,0.1,3,1,28,44,63.6,1,26,4,0,0,Augsburg,2018-03-17 Augsburg-Werder Bremen,GER-BL1,17-18,4a557fcd
+080440a4,Martin Hinteregger,36,AUT,CB,25-191,90,0,0,0,0,0,0,0,0,73,1,2,1,0.0,0.0,0.1,1,0,53,66,80.3,2,56,1,0,0,Augsburg,2018-03-17 Augsburg-Werder Bremen,GER-BL1,17-18,4a557fcd
+cc58c4ea,Gojko Kačar,20,SRB,CB,31-050,45,0,0,0,0,0,0,1,0,36,0,0,2,0.0,0.0,0.0,1,0,27,32,84.4,1,26,0,0,0,Augsburg,2018-03-17 Augsburg-Werder Bremen,GER-BL1,17-18,4a557fcd
+e7d22eae,Jan Morávek,14,CZE,DM,28-136,45,0,0,0,0,0,0,0,0,33,1,0,0,0.0,0.0,0.0,3,0,21,27,77.8,3,17,0,1,0,Augsburg,2018-03-17 Augsburg-Werder Bremen,GER-BL1,17-18,4a557fcd
+088ca1bd,Jonathan Schmid,17,FRA,RB,27-268,90,0,0,0,0,0,0,0,0,61,1,1,0,0.0,0.0,0.0,0,0,38,47,80.9,1,30,1,1,0,Augsburg,2018-03-17 Augsburg-Werder Bremen,GER-BL1,17-18,4a557fcd
+2e7ff968,Marwin Hitz,35,SUI,GK,30-180,90,0,0,0,0,0,0,0,0,40,0,0,0,0.0,0.0,0.0,1,0,26,35,74.3,0,20,0,0,0,Augsburg,2018-03-17 Augsburg-Werder Bremen,GER-BL1,17-18,4a557fcd
+f9446dcd,Max Kruse,10,GER,FW,29-363,90,1,0,0,0,4,3,0,0,69,0,0,0,0.6,0.6,0.5,6,0,43,60,71.7,8,36,6,7,4,Werder Bremen,2018-03-17 Augsburg-Werder Bremen,GER-BL1,17-18,4a557fcd
+94c18565,Florian Kainz,7,AUT,LW,25-144,84,0,1,0,0,3,2,0,0,38,3,1,0,0.1,0.1,0.2,6,2,20,29,69.0,7,19,3,0,0,Werder Bremen,2018-03-17 Augsburg-Werder Bremen,GER-BL1,17-18,4a557fcd
+f86ad3f5,Marco Friedl,32,AUT,LW,20-001,6,0,0,0,0,0,0,0,0,2,0,0,1,0.0,0.0,0.0,0,0,1,1,100.0,0,0,0,0,0,Werder Bremen,2018-03-17 Augsburg-Werder Bremen,GER-BL1,17-18,4a557fcd
+ff182fdc,Ishak Belfodil,29,ALG,RW,26-064,89,2,1,0,0,7,4,0,0,51,0,0,1,1.0,1.0,0.5,9,3,30,37,81.1,3,31,8,4,2,Werder Bremen,2018-03-17 Augsburg-Werder Bremen,GER-BL1,17-18,4a557fcd
+c0dc9fc7,Aron Jóhannsson,9,USA,RW,27-127,1,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,3,3,100.0,0,1,0,0,0,Werder Bremen,2018-03-17 Augsburg-Werder Bremen,GER-BL1,17-18,4a557fcd
+fe641c1a,Thomas Delaney,6,DEN,LM,26-195,63,0,0,0,0,0,0,0,0,30,1,2,0,0.0,0.0,0.0,2,0,18,23,78.3,0,10,0,0,0,Werder Bremen,2018-03-17 Augsburg-Werder Bremen,GER-BL1,17-18,4a557fcd
+dba67bc4,Zlatko Junuzović,16,AUT,LM,30-172,27,0,0,0,0,1,0,0,0,28,0,0,1,0.1,0.1,0.0,0,0,17,24,70.8,4,9,0,0,0,Werder Bremen,2018-03-17 Augsburg-Werder Bremen,GER-BL1,17-18,4a557fcd
+3f7cd8f1,Philipp Bargfrede,44,GER,CM,29-014,90,0,0,0,0,1,0,0,0,55,1,3,2,0.0,0.0,0.1,3,0,41,45,91.1,5,25,1,0,0,Werder Bremen,2018-03-17 Augsburg-Werder Bremen,GER-BL1,17-18,4a557fcd
+beb882a8,Maximilian Eggestein,35,GER,RM,21-099,90,0,0,0,0,4,2,0,0,47,2,1,2,0.2,0.2,0.1,3,0,25,31,80.6,7,17,4,2,1,Werder Bremen,2018-03-17 Augsburg-Werder Bremen,GER-BL1,17-18,4a557fcd
+9fec8860,Ludwig Augustinsson,5,SWE,LB,23-330,90,0,0,0,0,1,0,0,0,63,0,1,1,0.0,0.0,0.1,5,0,41,54,75.9,3,22,0,0,0,Werder Bremen,2018-03-17 Augsburg-Werder Bremen,GER-BL1,17-18,4a557fcd
+00844823,Niklas Moisander,18,FIN,CB,32-169,90,0,0,0,0,0,0,0,0,63,1,1,0,0.0,0.0,0.0,0,0,53,59,89.8,4,32,0,0,0,Werder Bremen,2018-03-17 Augsburg-Werder Bremen,GER-BL1,17-18,4a557fcd
+74d70fb5,Sebastian Langkamp,15,GER,CB,30-061,90,0,0,0,0,0,0,0,0,49,2,1,2,0.0,0.0,0.0,0,0,32,38,84.2,2,18,0,0,0,Werder Bremen,2018-03-17 Augsburg-Werder Bremen,GER-BL1,17-18,4a557fcd
+3f65898c,Theodor Gebre Selassie,23,CZE,RB,31-083,90,0,0,0,0,0,0,0,0,64,2,0,2,0.0,0.0,0.0,1,0,35,56,62.5,5,13,0,0,0,Werder Bremen,2018-03-17 Augsburg-Werder Bremen,GER-BL1,17-18,4a557fcd
+0a1cb833,Jiří Pavlenka,1,CZE,GK,25-337,90,0,0,0,0,0,0,1,0,36,0,0,0,0.0,0.0,0.0,0,0,21,34,61.8,0,14,0,0,0,Werder Bremen,2018-03-17 Augsburg-Werder Bremen,GER-BL1,17-18,4a557fcd

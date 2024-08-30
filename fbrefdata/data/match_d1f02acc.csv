@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+15ea94de,Josip Drmić,18,SUI,FW,26-283,90,0,0,0,0,1,0,0,0,19,0,1,0,0.1,0.1,0.0,1,0,15,15,100.0,0,13,2,1,1,Mönchengladbach,2019-05-18 Gladbach-Dortmund,GER-BL1,18-19,d1f02acc
+50871bcc,Thorgan Hazard,10,BEL,LW,26-050,74,0,0,0,0,1,0,0,0,41,2,1,0,0.1,0.1,0.0,4,0,21,31,67.7,5,25,9,4,3,Mönchengladbach,2019-05-18 Gladbach-Dortmund,GER-BL1,18-19,d1f02acc
+dfb6490a,Patrick Herrmann,7,GER,LW,28-095,16,0,0,0,0,0,0,0,0,5,0,0,1,0.0,0.0,0.0,0,0,2,3,66.7,0,2,0,0,0,Mönchengladbach,2019-05-18 Gladbach-Dortmund,GER-BL1,18-19,d1f02acc
+096a77c4,Ibrahima Traoré,16,GUI,RW,31-027,65,0,0,0,0,1,0,0,0,35,0,1,2,0.0,0.0,0.1,1,0,17,27,63.0,3,20,2,1,0,Mönchengladbach,2019-05-18 Gladbach-Dortmund,GER-BL1,18-19,d1f02acc
+bc6bd723,Alassane Pléa,14,FRA,RW,26-069,25,0,0,0,0,1,0,0,0,9,0,0,0,0.1,0.1,0.0,1,0,6,7,85.7,1,8,2,2,1,Mönchengladbach,2019-05-18 Gladbach-Dortmund,GER-BL1,18-19,d1f02acc
+2903a856,Jonas Hofmann,23,GER,LM,26-308,90,0,0,0,0,1,0,0,0,44,3,3,1,0.0,0.0,0.1,2,0,27,32,84.4,4,21,0,3,2,Mönchengladbach,2019-05-18 Gladbach-Dortmund,GER-BL1,18-19,d1f02acc
+496aeede,Christoph Kramer,6,GER,CM,28-088,62,0,0,0,0,0,0,1,0,38,2,1,3,0.0,0.0,0.0,1,0,26,30,86.7,1,13,0,0,0,Mönchengladbach,2019-05-18 Gladbach-Dortmund,GER-BL1,18-19,d1f02acc
+17780d2b,Tobias Strobl,5,GER,CM,29-006,28,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.1,1,0,9,9,100.0,1,1,0,0,0,Mönchengladbach,2019-05-18 Gladbach-Dortmund,GER-BL1,18-19,d1f02acc
+384d58d9,Denis Zakaria,8,SUI,RM,22-179,90,0,0,0,0,0,0,0,0,35,1,1,3,0.0,0.0,0.0,0,0,23,28,82.1,4,13,1,3,1,Mönchengladbach,2019-05-18 Gladbach-Dortmund,GER-BL1,18-19,d1f02acc
+b69261a0,Oscar Wendt,17,SWE,LB,33-206,90,0,0,0,0,0,0,0,0,55,2,1,1,0.0,0.0,0.1,1,0,41,51,80.4,3,26,0,0,0,Mönchengladbach,2019-05-18 Gladbach-Dortmund,GER-BL1,18-19,d1f02acc
+48035304,Nico Elvedi,30,SUI,CB,22-230,90,0,0,0,0,2,0,0,0,60,1,2,2,0.2,0.2,0.0,0,0,44,48,91.7,0,35,0,0,0,Mönchengladbach,2019-05-18 Gladbach-Dortmund,GER-BL1,18-19,d1f02acc
+f521b80a,Matthias Ginter,28,GER,CB,25-119,90,0,0,0,0,0,0,0,0,47,0,0,0,0.0,0.0,0.0,0,0,35,44,79.5,2,35,0,0,0,Mönchengladbach,2019-05-18 Gladbach-Dortmund,GER-BL1,18-19,d1f02acc
+9af1f9ff,Jordan Beyer,15,GER,RB,18-364,90,0,0,0,0,0,0,0,0,52,6,3,1,0.0,0.0,0.0,0,0,30,38,78.9,0,16,0,1,0,Mönchengladbach,2019-05-18 Gladbach-Dortmund,GER-BL1,18-19,d1f02acc
+420c18a1,Yann Sommer,1,SUI,GK,30-152,90,0,0,0,0,0,0,0,0,37,0,0,0,0.0,0.0,0.0,0,0,25,35,71.4,0,22,0,0,0,Mönchengladbach,2019-05-18 Gladbach-Dortmund,GER-BL1,18-19,d1f02acc
+9efa1d25,Mario Götze,10,GER,FW,26-349,74,0,0,0,0,0,0,0,0,57,1,0,0,0.0,0.0,0.1,5,0,43,51,84.3,3,31,3,3,0,Dortmund,2019-05-18 Gladbach-Dortmund,GER-BL1,18-19,d1f02acc
+a7a9d95a,Paco Alcácer,9,ESP,FW,25-261,16,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,1,1,0,0,0,Dortmund,2019-05-18 Gladbach-Dortmund,GER-BL1,18-19,d1f02acc
+1bf33a9a,Christian Pulisic,22,USA,"LW,AM",20-242,90,0,1,0,0,1,0,0,0,74,1,1,1,0.1,0.1,1.1,4,1,47,61,77.0,0,49,8,3,3,Dortmund,2019-05-18 Gladbach-Dortmund,GER-BL1,18-19,d1f02acc
+dbf053da,Jadon Sancho,7,ENG,RW,19-054,86,1,0,0,0,1,1,0,0,73,1,0,0,0.5,0.5,0.1,4,1,52,65,80.0,5,47,6,8,6,Dortmund,2019-05-18 Gladbach-Dortmund,GER-BL1,18-19,d1f02acc
+db4ed67b,Mahmoud Dahoud,19,GER,RW,23-137,4,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,5,5,100.0,0,3,0,0,0,Dortmund,2019-05-18 Gladbach-Dortmund,GER-BL1,18-19,d1f02acc
+36a3ff67,Marco Reus,11,GER,AM,29-352,82,1,0,0,0,5,2,0,0,63,0,1,0,1.1,1.1,0.1,5,0,43,50,86.0,6,36,4,2,2,Dortmund,2019-05-18 Gladbach-Dortmund,GER-BL1,18-19,d1f02acc
+89565ac5,Marcel Schmelzer,29,GER,LW,31-116,8,0,0,0,0,0,0,0,0,11,0,0,1,0.0,0.0,0.0,0,0,8,9,88.9,0,5,0,0,0,Dortmund,2019-05-18 Gladbach-Dortmund,GER-BL1,18-19,d1f02acc
+fe641c1a,Thomas Delaney,6,DEN,DM,27-257,90,0,0,0,0,2,0,1,0,105,5,0,1,0.2,0.2,0.0,1,1,88,93,94.6,5,50,0,0,0,Dortmund,2019-05-18 Gladbach-Dortmund,GER-BL1,18-19,d1f02acc
+5dfc6ad5,Axel Witsel,28,BEL,DM,30-126,90,0,0,0,0,0,0,0,0,91,0,0,1,0.0,0.0,0.0,0,0,79,83,95.2,7,71,3,2,1,Dortmund,2019-05-18 Gladbach-Dortmund,GER-BL1,18-19,d1f02acc
+048a1cbc,Raphaël Guerreiro,13,POR,LB,25-147,90,0,0,0,0,2,0,0,0,124,1,1,0,0.1,0.1,0.0,1,0,110,116,94.8,11,62,2,0,0,Dortmund,2019-05-18 Gladbach-Dortmund,GER-BL1,18-19,d1f02acc
+89ac64a6,Manuel Akanji,16,SUI,CB,23-303,90,0,0,0,0,0,0,0,0,135,5,1,0,0.0,0.0,0.0,0,0,122,123,99.2,4,87,0,0,0,Dortmund,2019-05-18 Gladbach-Dortmund,GER-BL1,18-19,d1f02acc
+346d51d9,Julian Weigl,33,GER,CB,23-252,90,0,0,0,0,0,0,0,0,136,1,0,0,0.0,0.0,0.0,1,1,125,131,95.4,10,94,2,2,2,Dortmund,2019-05-18 Gladbach-Dortmund,GER-BL1,18-19,d1f02acc
+fe2db476,Łukasz Piszczek,26,POL,RB,33-349,90,0,0,0,0,1,0,0,0,98,2,1,1,0.1,0.1,0.0,1,0,81,89,91.0,9,53,1,1,0,Dortmund,2019-05-18 Gladbach-Dortmund,GER-BL1,18-19,d1f02acc
+9d12e142,Roman Bürki,1,SUI,GK,28-185,90,0,0,0,0,0,0,0,0,27,0,0,0,0.0,0.0,0.0,0,0,26,27,96.3,0,11,0,0,0,Dortmund,2019-05-18 Gladbach-Dortmund,GER-BL1,18-19,d1f02acc

@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+5bd72174,Francesco Caputo,11,ITA,FW,31-286,90,1,0,0,0,4,1,0,0,28,0,0,0,0.7,0.7,0.0,2,0,14,18,77.8,2,20,1,0,0,Empoli,2019-05-19 Empoli-Torino,ITA-SERIA_A,18-19,a24a5e34
+157d29b6,Diego Farias,17,BRA,FW,29-009,90,0,1,0,0,4,3,1,0,43,1,0,2,0.2,0.2,0.6,6,1,24,30,80.0,1,36,5,4,1,Empoli,2019-05-19 Empoli-Torino,ITA-SERIA_A,18-19,a24a5e34
+5df4ef30,Marko Pajač,6,CRO,LW,26-008,90,0,2,0,0,0,0,0,0,43,0,2,0,0.0,0.0,0.6,4,2,26,38,68.4,4,32,3,2,2,Empoli,2019-05-19 Empoli-Torino,ITA-SERIA_A,18-19,a24a5e34
+230a2fac,Giovanni Di Lorenzo,2,ITA,RW,25-288,90,1,0,0,0,3,1,0,0,50,0,1,0,0.8,0.8,0.0,4,2,33,39,84.6,6,38,0,3,3,Empoli,2019-05-19 Empoli-Torino,ITA-SERIA_A,18-19,a24a5e34
+570bb4b9,Hamed Junior Traorè,8,CIV,CM,19-092,89,0,0,0,0,3,1,0,0,44,6,3,0,0.2,0.2,0.1,4,0,20,30,66.7,4,32,4,3,2,Empoli,2019-05-19 Empoli-Torino,ITA-SERIA_A,18-19,a24a5e34
+07ea0ef2,Leonardo Capezzi,28,ITA,CM,24-052,1,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,1,0,0,0,Empoli,2019-05-19 Empoli-Torino,ITA-SERIA_A,18-19,a24a5e34
+d7403bd5,Afriyie Acquah,18,GHA,CM,27-134,63,1,0,0,0,2,2,0,0,40,3,1,0,0.1,0.1,0.1,4,0,19,27,70.4,4,31,5,2,2,Empoli,2019-05-19 Empoli-Torino,ITA-SERIA_A,18-19,a24a5e34
+d417b306,Matteo Brighi,4,ITA,CM,38-094,27,1,0,0,0,1,1,0,0,15,2,1,1,0.7,0.7,0.0,0,0,7,8,87.5,2,6,0,0,0,Empoli,2019-05-19 Empoli-Torino,ITA-SERIA_A,18-19,a24a5e34
+db092d3b,Ismaël Bennacer,10,ALG,DM,21-169,90,0,0,0,0,0,0,0,0,59,3,3,1,0.0,0.0,0.1,3,1,36,45,80.0,2,29,1,3,2,Empoli,2019-05-19 Empoli-Torino,ITA-SERIA_A,18-19,a24a5e34
+b0243215,Cristian Dell'Orco,39,ITA,CB,25-098,90,0,0,0,0,0,0,0,0,38,2,1,3,0.0,0.0,0.0,1,0,20,27,74.1,2,17,1,0,0,Empoli,2019-05-19 Empoli-Torino,ITA-SERIA_A,18-19,a24a5e34
+b6ca47a2,Matías Silvestre,26,ARG,CB,34-236,90,0,0,0,0,0,0,0,0,33,1,0,3,0.0,0.0,0.0,0,0,14,19,73.7,0,13,0,0,0,Empoli,2019-05-19 Empoli-Torino,ITA-SERIA_A,18-19,a24a5e34
+3d936ba9,Domenico Maietta,22,ITA,CB,36-289,76,0,0,0,0,1,0,0,0,41,4,0,0,0.0,0.0,0.1,1,0,24,31,77.4,2,17,2,0,0,Empoli,2019-05-19 Empoli-Torino,ITA-SERIA_A,18-19,a24a5e34
+d541e703,Freddie Veseli,5,ALB,CB,26-180,14,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.1,1,0,4,8,50.0,0,5,0,0,0,Empoli,2019-05-19 Empoli-Torino,ITA-SERIA_A,18-19,a24a5e34
+085e71a7,Bartłomiej Drągowski,69,POL,GK,21-273,90,0,0,0,0,0,0,0,0,39,0,0,0,0.0,0.0,0.0,0,0,17,35,48.6,0,16,0,0,0,Empoli,2019-05-19 Empoli-Torino,ITA-SERIA_A,18-19,a24a5e34
+d705ba44,Andrea Belotti,9,ITA,FW,25-150,90,0,1,0,0,7,2,0,0,45,0,0,3,0.6,0.6,0.1,4,1,18,26,69.2,1,19,2,6,2,Torino,2019-05-19 Empoli-Torino,ITA-SERIA_A,18-19,a24a5e34
+dc1c2fce,Álex Berenguer,21,ESP,AM,23-319,90,0,0,0,0,1,0,1,0,62,3,0,2,0.1,0.1,0.1,4,0,34,44,77.3,3,43,2,6,3,Torino,2019-05-19 Empoli-Torino,ITA-SERIA_A,18-19,a24a5e34
+ea06dd97,Daniele Baselli,8,ITA,"AM,CM,DM",27-068,77,0,0,0,0,1,0,0,0,69,1,1,3,0.0,0.0,0.4,4,0,45,56,80.4,3,33,1,1,0,Torino,2019-05-19 Empoli-Torino,ITA-SERIA_A,18-19,a24a5e34
+c6e8cf1f,Saša Lukić,7,SRB,DM,22-279,13,0,0,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.0,0,0,7,9,77.8,1,8,0,1,0,Torino,2019-05-19 Empoli-Torino,ITA-SERIA_A,18-19,a24a5e34
+5cec2c74,Soualiho Meïté,23,FRA,"CM,LM",25-063,67,0,0,0,0,0,0,0,0,40,0,0,2,0.0,0.0,0.0,1,0,31,36,86.1,4,30,6,3,3,Torino,2019-05-19 Empoli-Torino,ITA-SERIA_A,18-19,a24a5e34
+9592289a,Simone Zaza,11,ITA,FW,27-328,23,0,0,0,0,2,2,0,0,9,0,0,0,0.2,0.2,0.0,1,0,5,6,83.3,1,3,0,1,1,Torino,2019-05-19 Empoli-Torino,ITA-SERIA_A,18-19,a24a5e34
+f1cfc209,Tomás Rincón,88,VEN,"CM,DM,RM",31-126,90,0,0,0,0,0,0,0,0,66,3,0,1,0.0,0.0,0.1,5,1,50,58,86.2,6,46,5,2,1,Torino,2019-05-19 Empoli-Torino,ITA-SERIA_A,18-19,a24a5e34
+246d153b,Ola Aina,34,NGA,WB,22-223,52,0,0,0,0,0,0,0,0,41,2,0,0,0.0,0.0,0.0,1,0,30,35,85.7,5,22,0,0,0,Torino,2019-05-19 Empoli-Torino,ITA-SERIA_A,18-19,a24a5e34
+440c84ed,Iago Falque,14,ESP,AM,29-135,38,1,0,0,0,3,1,0,0,27,0,0,0,0.2,0.2,0.1,4,0,20,22,90.9,2,21,2,1,0,Torino,2019-05-19 Empoli-Torino,ITA-SERIA_A,18-19,a24a5e34
+e74f0e59,Lorenzo De Silvestri,29,ITA,"WB,RB",30-361,90,0,0,0,0,0,0,0,0,71,2,0,1,0.0,0.0,0.2,4,0,47,64,73.4,5,36,4,1,1,Torino,2019-05-19 Empoli-Torino,ITA-SERIA_A,18-19,a24a5e34
+55667895,Emiliano Moretti,24,ITA,CB,37-342,90,0,0,0,0,0,0,0,0,53,0,1,0,0.0,0.0,0.0,1,0,47,50,94.0,4,28,3,1,1,Torino,2019-05-19 Empoli-Torino,ITA-SERIA_A,18-19,a24a5e34
+93cf32a8,Nicolas Nkoulou,33,CMR,CB,29-053,90,0,0,0,0,0,0,0,0,51,2,4,1,0.0,0.0,0.0,0,0,38,42,90.5,3,23,0,0,0,Torino,2019-05-19 Empoli-Torino,ITA-SERIA_A,18-19,a24a5e34
+89976232,Armando Izzo,5,ITA,"CB,LB",27-078,90,0,0,0,0,1,0,0,0,78,3,1,4,0.0,0.0,0.0,1,0,55,68,80.9,6,44,2,1,0,Torino,2019-05-19 Empoli-Torino,ITA-SERIA_A,18-19,a24a5e34
+10dc46f0,Salvatore Sirigu,39,ITA,GK,32-127,90,0,0,0,0,0,0,0,0,27,0,0,0,0.0,0.0,0.0,0,0,19,24,79.2,0,15,0,0,0,Torino,2019-05-19 Empoli-Torino,ITA-SERIA_A,18-19,a24a5e34

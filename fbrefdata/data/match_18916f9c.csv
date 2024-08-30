@@ -1,0 +1,29 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+d8b97bb3,Moussa Sylla,34,MLI,FW,18-336,90,0,0,0,0,4,1,0,0,29,0,1,0,0.4,0.4,0.1,2,0,11,14,78.6,0,12,2,3,1,Monaco,2018-10-27 Monaco-Dijon,FRA-L1,18-19,18916f9c
+19053e31,Sofiane Diop,36,FRA,"AM,LW",18-140,90,0,0,0,0,2,0,0,0,42,2,2,1,0.2,0.2,0.3,4,0,17,30,56.7,3,30,2,7,5,Monaco,2018-10-27 Monaco-Dijon,FRA-L1,18-19,18916f9c
+3708e9fa,Aleksandr Golovin,17,RUS,AM,22-150,90,0,0,0,0,1,0,1,0,39,1,1,1,0.1,0.1,0.0,3,0,23,32,71.9,4,25,2,0,0,Monaco,2018-10-27 Monaco-Dijon,FRA-L1,18-19,18916f9c
+48b28bfd,Jean-Eudes Aholou,4,CIV,LM,24-221,54,0,0,0,0,0,0,0,0,32,2,0,1,0.0,0.0,0.0,1,1,22,27,81.5,5,19,3,1,0,Monaco,2018-10-27 Monaco-Dijon,FRA-L1,18-19,18916f9c
+743fdcd3,Pelé,28,GNB,"DM,LM",27-028,36,0,0,0,0,0,0,0,0,23,0,0,1,0.0,0.0,0.0,2,0,16,20,80.0,4,12,2,1,1,Monaco,2018-10-27 Monaco-Dijon,FRA-L1,18-19,18916f9c
+c46fa34c,Youssef Aït Bennasser,15,MAR,"CM,DM",22-112,90,0,0,0,0,1,1,0,0,63,4,0,2,0.0,0.0,0.0,1,0,46,56,82.1,7,37,2,2,2,Monaco,2018-10-27 Monaco-Dijon,FRA-L1,18-19,18916f9c
+56f7a928,Youri Tielemans,8,BEL,RM,21-173,71,0,0,0,0,1,0,1,0,37,3,0,2,0.0,0.0,0.0,0,0,23,30,76.7,5,21,0,0,0,Monaco,2018-10-27 Monaco-Dijon,FRA-L1,18-19,18916f9c
+1a6f2a66,Adama Traoré,11,MLI,RW,23-121,19,0,1,0,0,1,0,0,0,14,0,1,0,0.0,0.0,0.1,2,1,5,10,50.0,0,6,0,2,1,Monaco,2018-10-27 Monaco-Dijon,FRA-L1,18-19,18916f9c
+6a189491,Antonio Barreca,3,ITA,LB,23-223,90,0,1,0,0,0,0,0,0,42,0,0,0,0.0,0.0,0.3,3,1,30,34,88.2,6,21,3,1,1,Monaco,2018-10-27 Monaco-Dijon,FRA-L1,18-19,18916f9c
+7cab69b5,Jemerson,5,BRA,CB,26-064,90,0,0,0,0,0,0,0,0,70,1,0,0,0.0,0.0,0.1,1,0,53,61,86.9,6,47,0,1,0,Monaco,2018-10-27 Monaco-Dijon,FRA-L1,18-19,18916f9c
+c6056d58,Kamil Glik,25,POL,CB,30-266,90,1,0,0,0,1,1,0,0,70,0,2,1,0.1,0.1,0.0,1,0,49,59,83.1,3,42,0,0,0,Monaco,2018-10-27 Monaco-Dijon,FRA-L1,18-19,18916f9c
+0a89e877,Benjamin Henrichs,39,GER,RB,21-246,90,1,0,0,0,1,1,0,0,61,2,1,0,0.1,0.1,0.0,1,1,34,50,68.0,5,33,2,0,0,Monaco,2018-10-27 Monaco-Dijon,FRA-L1,18-19,18916f9c
+b7e7937d,Diego Benaglio,16,SUI,GK,35-049,90,0,0,0,0,0,0,0,0,28,0,0,0,0.0,0.0,0.0,0,0,21,25,84.0,0,15,0,0,0,Monaco,2018-10-27 Monaco-Dijon,FRA-L1,18-19,18916f9c
+2e52206e,Benjamin Jeannot,29,FRA,"FW,RM",26-278,82,0,0,0,0,2,0,0,0,28,0,0,1,0.1,0.1,0.0,2,0,18,21,85.7,4,18,0,3,1,Dijon,2018-10-27 Monaco-Dijon,FRA-L1,18-19,18916f9c
+1c344204,Cédric Yamberé,18,CTA,CB,27-355,8,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Dijon,2018-10-27 Monaco-Dijon,FRA-L1,18-19,18916f9c
+2e0367a6,Naïm Sliti,10,TUN,"LM,FW",26-092,90,0,0,0,0,0,0,0,0,46,4,0,1,0.0,0.0,0.1,6,1,22,29,75.9,4,30,5,4,4,Dijon,2018-10-27 Monaco-Dijon,FRA-L1,18-19,18916f9c
+a4c3f7af,Mehdi Abeid,8,ALG,CM,26-082,69,1,0,0,0,2,1,0,0,32,1,1,2,0.1,0.1,0.0,0,0,21,21,100.0,0,22,1,1,0,Dijon,2018-10-27 Monaco-Dijon,FRA-L1,18-19,18916f9c
+d520120b,Júlio Tavares,11,CPV,FW,29-342,21,0,0,0,0,0,0,1,0,17,0,0,0,0.0,0.0,0.0,3,0,8,13,61.5,1,6,0,0,0,Dijon,2018-10-27 Monaco-Dijon,FRA-L1,18-19,18916f9c
+4e7bfc23,Florent Balmont,15,FRA,CM,38-267,63,0,1,0,0,1,0,0,0,47,0,1,0,0.0,0.0,0.2,1,1,33,40,82.5,10,30,3,0,0,Dijon,2018-10-27 Monaco-Dijon,FRA-L1,18-19,18916f9c
+0d2158d5,Jordan Marié,14,FRA,CM,27-028,27,0,0,0,0,0,0,1,0,10,0,0,0,0.0,0.0,0.0,0,0,9,9,100.0,4,2,0,0,0,Dijon,2018-10-27 Monaco-Dijon,FRA-L1,18-19,18916f9c
+d7bf3d19,Romain Amalfitano,20,FRA,"RM,CM",29-061,90,0,0,0,0,2,1,0,0,42,2,2,1,0.1,0.1,0.1,2,0,21,31,67.7,1,19,2,2,1,Dijon,2018-10-27 Monaco-Dijon,FRA-L1,18-19,18916f9c
+6bca20fe,Enzo Loiodice,12,FRA,"DM,CM",17-334,90,0,0,0,0,0,0,1,0,54,2,0,2,0.0,0.0,0.0,2,0,35,44,79.5,1,27,0,1,1,Dijon,2018-10-27 Monaco-Dijon,FRA-L1,18-19,18916f9c
+9b6d9b53,Valentin Rosier,19,FRA,LB,22-069,90,0,1,0,0,1,0,0,0,72,1,3,1,0.0,0.0,0.1,2,1,46,59,78.0,1,31,4,1,0,Dijon,2018-10-27 Monaco-Dijon,FRA-L1,18-19,18916f9c
+6e5b5a45,Wesley Lautoa,24,NCL,CB,31-063,90,0,0,0,0,0,0,0,0,69,0,4,1,0.0,0.0,0.0,0,0,56,62,90.3,3,48,0,1,1,Dijon,2018-10-27 Monaco-Dijon,FRA-L1,18-19,18916f9c
+5113d9a7,Laurent Ciman,6,BEL,CB,33-083,90,0,0,0,0,1,0,0,0,89,2,0,4,0.0,0.0,0.0,1,1,74,77,96.1,1,58,0,0,0,Dijon,2018-10-27 Monaco-Dijon,FRA-L1,18-19,18916f9c
+0a63446f,Mickaël Alphonse,2,GLP,RB,29-107,90,1,0,0,0,2,1,0,0,73,0,1,0,0.3,0.3,0.0,2,0,43,57,75.4,3,40,3,0,0,Dijon,2018-10-27 Monaco-Dijon,FRA-L1,18-19,18916f9c
+8fa8f8d2,Rúnar Alex Rúnarsson,1,ISL,GK,23-251,90,0,0,0,0,0,0,0,0,42,1,0,0,0.0,0.0,0.0,0,0,33,40,82.5,0,21,0,0,0,Dijon,2018-10-27 Monaco-Dijon,FRA-L1,18-19,18916f9c

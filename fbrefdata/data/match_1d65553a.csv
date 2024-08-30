@@ -1,0 +1,29 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+5046b7d4,Stéphane Bahoken,19,CMR,FW,25-349,90,1,0,0,0,1,1,1,0,17,0,0,2,0.3,0.3,0.1,3,0,9,10,90.0,1,14,0,0,0,Strasbourg,2018-05-12 Strasbourg-Lyon,FRA-L1,17-18,1d65553a
+cfd8dde3,Benjamin Corgnet,10,FRA,FW,31-036,78,0,0,0,0,1,0,0,0,31,2,0,0,0.2,0.2,0.0,2,0,15,24,62.5,4,22,1,1,0,Strasbourg,2018-05-12 Strasbourg-Lyon,FRA-L1,17-18,1d65553a
+909222de,Nuno da Costa,29,CPV,FW,27-091,12,1,0,0,0,1,1,0,0,1,0,0,0,0.1,0.1,0.0,1,1,0,0,,0,0,0,0,0,Strasbourg,2018-05-12 Strasbourg-Lyon,FRA-L1,17-18,1d65553a
+48b28bfd,Jean-Eudes Aholou,8,CIV,CM,24-053,43,0,0,0,0,0,0,0,0,20,2,2,0,0.0,0.0,0.2,0,0,14,14,100.0,1,12,0,0,0,Strasbourg,2018-05-12 Strasbourg-Lyon,FRA-L1,17-18,1d65553a
+c27dfb82,Anthony Gonçalves,17,FRA,CM,32-067,47,0,0,0,0,0,0,1,0,15,2,1,0,0.0,0.0,0.0,0,0,6,10,60.0,0,5,0,0,0,Strasbourg,2018-05-12 Strasbourg-Lyon,FRA-L1,17-18,1d65553a
+53283127,Jérémy Grimm,6,FRA,CM,31-046,90,0,0,0,0,1,0,0,0,36,5,2,2,0.1,0.1,0.0,2,1,16,23,69.6,3,12,0,0,0,Strasbourg,2018-05-12 Strasbourg-Lyon,FRA-L1,17-18,1d65553a
+468fdbad,Jonas Martin,28,FRA,CM,28-033,55,0,0,0,0,1,0,0,0,18,1,0,0,0.0,0.0,0.0,1,0,10,14,71.4,1,12,0,1,1,Strasbourg,2018-05-12 Strasbourg-Lyon,FRA-L1,17-18,1d65553a
+e1b3413d,Ernest Seka,22,GUI,CB,30-324,35,0,0,0,0,0,0,0,0,15,2,2,0,0.0,0.0,0.0,0,0,7,10,70.0,2,8,1,0,0,Strasbourg,2018-05-12 Strasbourg-Lyon,FRA-L1,17-18,1d65553a
+f7691f63,Dimitri Liénard,11,FRA,"LB,CM",30-088,90,1,0,0,0,2,2,0,0,63,4,1,0,0.1,0.1,0.1,2,1,34,55,61.8,7,36,1,0,0,Strasbourg,2018-05-12 Strasbourg-Lyon,FRA-L1,17-18,1d65553a
+1ad8cb67,Pablo Martinez,4,FRA,CB,29-080,90,0,0,0,0,0,0,1,0,23,2,1,2,0.0,0.0,0.0,0,0,15,19,78.9,0,13,0,0,0,Strasbourg,2018-05-12 Strasbourg-Lyon,FRA-L1,17-18,1d65553a
+dbb10755,Kader Mangane,12,SEN,CB,35-050,90,0,0,0,0,2,0,1,0,26,1,0,1,0.2,0.2,0.0,1,0,12,20,60.0,1,15,0,1,1,Strasbourg,2018-05-12 Strasbourg-Lyon,FRA-L1,17-18,1d65553a
+45e17712,Dimitri Foulquier,2,FRA,"CB,LB",25-050,90,0,1,0,0,0,0,0,0,32,2,1,0,0.0,0.0,0.1,1,1,19,26,73.1,1,17,1,2,0,Strasbourg,2018-05-12 Strasbourg-Lyon,FRA-L1,17-18,1d65553a
+770d7eb8,Kenny Lala,27,MAD,RB,26-221,90,0,0,0,0,0,0,0,0,42,2,0,0,0.0,0.0,0.0,0,0,17,33,51.5,2,20,4,1,0,Strasbourg,2018-05-12 Strasbourg-Lyon,FRA-L1,17-18,1d65553a
+ae7d0ecd,Alexandre Oukidja,16,ALG,GK,29-297,90,0,0,0,0,0,0,1,0,37,0,0,0,0.0,0.0,0.0,0,0,15,33,45.5,0,12,0,0,0,Strasbourg,2018-05-12 Strasbourg-Lyon,FRA-L1,17-18,1d65553a
+8f696594,Memphis,11,NED,FW,24-088,82,0,1,0,0,1,0,0,0,36,0,0,1,0.0,0.0,0.1,2,1,18,28,64.3,2,30,3,2,1,Lyon,2018-05-12 Strasbourg-Lyon,FRA-L1,17-18,1d65553a
+beb391dd,Maxwel Cornet,27,CIV,FW,21-227,8,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,3,4,75.0,0,5,1,1,0,Lyon,2018-05-12 Strasbourg-Lyon,FRA-L1,17-18,1d65553a
+c47541e0,Bertrand Traoré,10,BFA,FW,22-248,90,0,0,0,0,2,0,0,0,47,1,2,0,0.1,0.1,0.0,1,0,23,32,71.9,1,39,3,7,3,Lyon,2018-05-12 Strasbourg-Lyon,FRA-L1,17-18,1d65553a
+bece776f,Nabil Fekir,18,FRA,AM,24-298,90,1,0,1,1,1,1,0,0,38,1,0,0,0.8,0.0,0.1,3,1,27,30,90.0,4,31,2,3,3,Lyon,2018-05-12 Strasbourg-Lyon,FRA-L1,17-18,1d65553a
+a5db0bec,Houssem Aouar,8,ALG,LM,19-316,90,1,0,0,0,1,1,0,0,55,4,2,1,0.1,0.1,0.0,1,0,37,43,86.0,8,38,1,6,3,Lyon,2018-05-12 Strasbourg-Lyon,FRA-L1,17-18,1d65553a
+5cdddffa,Tanguy Ndombele,28,FRA,RM,21-135,87,0,0,0,0,1,0,1,0,48,0,1,1,0.0,0.0,0.1,3,1,31,38,81.6,6,38,4,3,2,Lyon,2018-05-12 Strasbourg-Lyon,FRA-L1,17-18,1d65553a
+375622c5,Jordan Ferri,12,FRA,RM,26-061,3,0,0,0,0,0,0,0,0,3,0,0,1,0.0,0.0,0.0,0,0,1,1,100.0,0,2,0,0,0,Lyon,2018-05-12 Strasbourg-Lyon,FRA-L1,17-18,1d65553a
+71ec39ef,Lucas Tousart,29,FRA,DM,21-013,90,0,0,0,0,0,0,0,0,41,2,0,1,0.0,0.0,0.0,0,0,23,32,71.9,1,18,0,0,0,Lyon,2018-05-12 Strasbourg-Lyon,FRA-L1,17-18,1d65553a
+3cefcaef,Ferland Mendy,22,FRA,LB,22-338,90,0,0,0,0,0,0,0,0,62,1,1,0,0.0,0.0,0.0,2,0,49,55,89.1,8,44,5,2,2,Lyon,2018-05-12 Strasbourg-Lyon,FRA-L1,17-18,1d65553a
+e97150c0,Jérémy Morel,15,MAD,CB,34-040,90,0,0,0,0,0,0,0,0,76,1,1,0,0.0,0.0,0.0,1,1,62,69,89.9,9,51,1,0,0,Lyon,2018-05-12 Strasbourg-Lyon,FRA-L1,17-18,1d65553a
+d2110326,Mouctar Diakhaby,5,GUI,CB,21-144,90,0,0,0,0,0,0,0,0,63,2,0,0,0.0,0.0,0.0,0,0,54,58,93.1,5,47,2,2,2,Lyon,2018-05-12 Strasbourg-Lyon,FRA-L1,17-18,1d65553a
+9a1f2e1c,Rafael,4,BRA,RB,27-307,90,0,0,0,0,1,0,0,0,69,2,0,2,0.1,0.1,0.0,2,0,44,59,74.6,8,34,5,1,1,Lyon,2018-05-12 Strasbourg-Lyon,FRA-L1,17-18,1d65553a
+4d3e9033,Mathieu Gorgelin,30,FRA,GK,27-280,90,0,0,0,0,0,0,0,0,22,0,0,0,0.0,0.0,0.0,0,0,15,22,68.2,0,13,0,0,0,Lyon,2018-05-12 Strasbourg-Lyon,FRA-L1,17-18,1d65553a

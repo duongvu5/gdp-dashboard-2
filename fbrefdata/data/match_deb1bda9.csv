@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+f9446dcd,Max Kruse,10,GER,FW,30-328,87,0,0,0,0,3,0,0,0,51,0,1,0,0.2,0.2,0.1,4,1,26,39,66.7,5,27,1,3,1,Werder Bremen,2019-02-10 Werder Bremen-Augsburg,GER-BL1,18-19,deb1bda9
+a8d4428b,Josh Sargent,19,USA,FW,18-355,3,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,1,1,0,0,Werder Bremen,2019-02-10 Werder Bremen-Augsburg,GER-BL1,18-19,deb1bda9
+6c6a3300,Milot Rashica,11,KVX,LW,22-227,35,2,0,0,0,2,2,0,0,17,0,0,2,0.4,0.4,0.0,2,1,4,7,57.1,0,10,3,2,1,Werder Bremen,2019-02-10 Werder Bremen-Augsburg,GER-BL1,18-19,deb1bda9
+a5ce09f2,Kevin Möhwald,6,GER,CM,25-222,55,1,0,0,0,1,1,0,0,38,0,2,0,0.0,0.0,0.0,2,1,20,29,69.0,4,18,1,1,1,Werder Bremen,2019-02-10 Werder Bremen-Augsburg,GER-BL1,18-19,deb1bda9
+d571df78,Johannes Eggestein,24,GER,"FW,RW",20-278,76,1,0,0,0,2,1,0,0,24,0,0,0,0.2,0.2,0.0,2,0,13,16,81.3,2,16,3,3,2,Werder Bremen,2019-02-10 Werder Bremen-Augsburg,GER-BL1,18-19,deb1bda9
+54b6ee79,Claudio Pizarro,4,PER,FW,40-130,14,0,0,0,0,0,0,0,0,4,1,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,1,0,0,0,Werder Bremen,2019-02-10 Werder Bremen-Augsburg,GER-BL1,18-19,deb1bda9
+15fd5593,Davy Klaassen,30,NED,"CM,LM",25-354,90,0,2,0,0,0,0,0,0,39,1,4,0,0.0,0.0,0.5,3,2,24,33,72.7,2,20,2,1,1,Werder Bremen,2019-02-10 Werder Bremen-Augsburg,GER-BL1,18-19,deb1bda9
+3f7cd8f1,Philipp Bargfrede,44,GER,"CB,CM",29-344,90,0,0,0,0,0,0,0,0,33,0,1,2,0.0,0.0,0.0,0,0,19,27,70.4,1,14,0,0,0,Werder Bremen,2019-02-10 Werder Bremen-Augsburg,GER-BL1,18-19,deb1bda9
+beb882a8,Maximilian Eggestein,35,GER,"CM,RM",22-064,90,0,0,0,0,1,0,0,0,62,2,3,5,0.0,0.0,0.1,2,0,35,45,77.8,8,25,2,0,0,Werder Bremen,2019-02-10 Werder Bremen-Augsburg,GER-BL1,18-19,deb1bda9
+9fec8860,Ludwig Augustinsson,5,SWE,LB,24-295,90,0,0,0,0,1,0,0,0,58,2,1,0,0.0,0.0,0.4,5,0,36,49,73.5,3,16,0,0,0,Werder Bremen,2019-02-10 Werder Bremen-Augsburg,GER-BL1,18-19,deb1bda9
+00844823,Niklas Moisander,18,FIN,CB,33-134,90,0,0,0,0,2,0,0,0,65,2,4,5,0.1,0.1,0.0,2,2,27,41,65.9,1,17,0,4,1,Werder Bremen,2019-02-10 Werder Bremen-Augsburg,GER-BL1,18-19,deb1bda9
+74d70fb5,Sebastian Langkamp,15,GER,CB,31-026,90,0,0,0,0,0,0,0,0,44,1,2,1,0.0,0.0,0.0,0,0,26,32,81.3,1,20,0,0,0,Werder Bremen,2019-02-10 Werder Bremen-Augsburg,GER-BL1,18-19,deb1bda9
+3f65898c,Theodor Gebre Selassie,23,CZE,RB,32-048,90,0,0,0,0,1,1,0,0,63,2,0,2,0.2,0.2,0.0,1,0,39,50,78.0,5,24,2,0,0,Werder Bremen,2019-02-10 Werder Bremen-Augsburg,GER-BL1,18-19,deb1bda9
+0a1cb833,Jiří Pavlenka,1,CZE,GK,26-302,90,0,0,0,0,0,0,0,0,49,1,0,0,0.0,0.0,0.0,0,0,33,45,73.3,0,26,0,0,0,Werder Bremen,2019-02-10 Werder Bremen-Augsburg,GER-BL1,18-19,deb1bda9
+f9e7c4ac,Alfreð Finnbogason,27,ISL,FW,30-009,67,0,0,0,0,2,1,0,0,23,0,0,0,0.4,0.4,0.0,2,0,8,17,47.1,0,14,2,2,2,Augsburg,2019-02-10 Werder Bremen-Augsburg,GER-BL1,18-19,deb1bda9
+cd82452e,André Hahn,28,GER,RW,28-181,23,0,0,0,0,0,0,0,0,11,2,0,0,0.0,0.0,0.1,1,0,4,5,80.0,0,7,1,1,1,Augsburg,2019-02-10 Werder Bremen-Augsburg,GER-BL1,18-19,deb1bda9
+8e235926,Michael Gregoritsch,11,AUT,"AM,FW",24-298,90,0,0,0,0,3,0,0,0,38,0,0,1,0.2,0.2,0.0,1,0,21,27,77.8,0,19,0,2,1,Augsburg,2019-02-10 Werder Bremen-Augsburg,GER-BL1,18-19,deb1bda9
+7d841904,Ji Dong-won,22,KOR,AM,27-258,90,0,0,0,0,4,0,0,0,57,0,0,5,0.2,0.2,0.1,3,0,29,39,74.4,3,30,4,4,3,Augsburg,2019-02-10 Werder Bremen-Augsburg,GER-BL1,18-19,deb1bda9
+f261abcb,Daniel Baier,10,GER,"CM,DM",34-268,87,0,0,0,0,1,1,1,0,81,0,1,2,0.0,0.0,0.4,3,0,52,75,69.3,8,43,2,0,0,Augsburg,2019-02-10 Werder Bremen-Augsburg,GER-BL1,18-19,deb1bda9
+597ff9d3,Jozo Stanić,15,CRO,"DM,CB",19-310,3,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,3,3,100.0,0,3,0,0,0,Augsburg,2019-02-10 Werder Bremen-Augsburg,GER-BL1,18-19,deb1bda9
+e7d22eae,Jan Morávek,14,CZE,"CM,DM",29-101,90,0,0,0,0,0,0,0,0,87,4,2,5,0.0,0.0,0.1,3,0,61,74,82.4,6,44,1,2,2,Augsburg,2019-02-10 Werder Bremen-Augsburg,GER-BL1,18-19,deb1bda9
+826e8b63,Philipp Max,31,GER,WB,25-133,52,0,0,0,0,0,0,0,0,32,1,1,1,0.0,0.0,0.1,1,0,23,28,82.1,2,14,1,0,0,Augsburg,2019-02-10 Werder Bremen-Augsburg,GER-BL1,18-19,deb1bda9
+3eeb80e0,Fredrik Jensen,24,FIN,"LW,WB",21-154,38,0,0,0,0,0,0,0,0,15,0,1,1,0.0,0.0,0.0,1,0,4,7,57.1,1,8,0,2,1,Augsburg,2019-02-10 Werder Bremen-Augsburg,GER-BL1,18-19,deb1bda9
+088ca1bd,Jonathan Schmid,17,FRA,"WB,RB",28-233,90,0,0,0,0,2,1,0,0,75,1,1,1,0.1,0.1,0.0,3,0,60,67,89.6,3,25,3,1,1,Augsburg,2019-02-10 Werder Bremen-Augsburg,GER-BL1,18-19,deb1bda9
+861e0116,Kostas Stafylidis,3,GRE,"CB,LB",25-070,90,0,0,0,0,0,0,0,0,93,1,1,1,0.0,0.0,0.1,2,0,76,88,86.4,6,61,2,1,0,Augsburg,2019-02-10 Werder Bremen-Augsburg,GER-BL1,18-19,deb1bda9
+59e4b92e,Rani Khedira,8,GER,CB,25-014,90,0,0,0,0,0,0,0,0,83,2,1,1,0.0,0.0,0.0,1,0,67,75,89.3,2,59,0,0,0,Augsburg,2019-02-10 Werder Bremen-Augsburg,GER-BL1,18-19,deb1bda9
+8b6e0db2,Reece Oxford,5,ENG,CB,20-056,90,0,0,0,0,1,0,0,0,89,0,2,0,0.1,0.1,0.0,0,0,64,79,81.0,7,62,2,0,0,Augsburg,2019-02-10 Werder Bremen-Augsburg,GER-BL1,18-19,deb1bda9
+cd59b9df,Gregor Kobel,40,SUI,GK,21-066,90,0,0,0,0,0,0,0,0,36,0,0,0,0.0,0.0,0.0,0,0,26,35,74.3,0,18,0,0,0,Augsburg,2019-02-10 Werder Bremen-Augsburg,GER-BL1,18-19,deb1bda9

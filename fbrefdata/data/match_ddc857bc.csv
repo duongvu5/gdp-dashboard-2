@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+8d8178ac,Rodrigo Palacio,24,ARG,FW,38-236,89,1,0,0,0,2,1,0,0,51,0,1,0,0.1,0.1,0.0,3,1,31,41,75.6,3,28,10,2,0,Bologna,2020-09-28 Bologna-Parma,ITA-SERIA_A,20-21,ddc857bc
+df85d472,Federico Santander,9,PAR,FW,29-116,1,0,0,0,0,1,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,1,2,0,0,0,Bologna,2020-09-28 Bologna-Parma,ITA-SERIA_A,20-21,ddc857bc
+e5bf73f3,Musa Barrow,99,GAM,LW,21-319,79,0,0,0,0,2,2,0,0,49,1,0,2,0.2,0.2,0.0,2,1,26,35,74.3,5,27,3,2,1,Bologna,2020-09-28 Bologna-Parma,ITA-SERIA_A,20-21,ddc857bc
+7eb97a8e,Nicola Sansone,10,ITA,LW,29-018,11,0,0,0,0,1,1,1,0,18,0,0,1,0.5,0.5,0.4,3,0,13,15,86.7,3,10,1,1,0,Bologna,2020-09-28 Bologna-Parma,ITA-SERIA_A,20-21,ddc857bc
+c50cee19,Andreas Skov Olsen,11,DEN,RW,20-274,89,1,0,0,0,1,1,0,0,52,3,0,1,0.2,0.2,0.0,2,0,29,36,80.6,1,20,1,4,1,Bologna,2020-09-28 Bologna-Parma,ITA-SERIA_A,20-21,ddc857bc
+e14ec482,Riccardo Orsolini,7,ITA,RW,23-248,1,0,0,0,0,1,0,0,0,2,0,0,0,0.3,0.3,0.0,1,0,1,1,100.0,1,2,0,1,1,Bologna,2020-09-28 Bologna-Parma,ITA-SERIA_A,20-21,ddc857bc
+9d4c45d6,Roberto Soriano,21,ITA,AM,29-233,90,2,1,0,0,4,3,0,0,66,2,1,1,0.3,0.3,0.7,3,2,42,52,80.8,7,44,6,2,1,Bologna,2020-09-28 Bologna-Parma,ITA-SERIA_A,20-21,ddc857bc
+2cfae697,Jerdy Schouten,30,NED,DM,23-260,90,0,0,0,0,0,0,0,0,77,5,3,1,0.0,0.0,0.0,1,0,56,62,90.3,3,38,1,9,6,Bologna,2020-09-28 Bologna-Parma,ITA-SERIA_A,20-21,ddc857bc
+b3fd7075,Andrea Poli,16,ITA,DM,30-365,63,0,0,0,0,0,0,0,0,49,3,1,0,0.0,0.0,0.0,2,1,31,36,86.1,4,23,1,1,0,Bologna,2020-09-28 Bologna-Parma,ITA-SERIA_A,20-21,ddc857bc
+563a68ad,Gary Medel,17,CHI,DM,33-056,27,0,1,0,0,0,0,0,0,19,2,0,0,0.0,0.0,0.1,1,1,14,17,82.4,2,6,0,0,0,Bologna,2020-09-28 Bologna-Parma,ITA-SERIA_A,20-21,ddc857bc
+1780bb4a,Aaron Hickey,3,SCO,LB,18-110,79,0,0,0,0,0,0,0,0,52,1,2,0,0.0,0.0,0.0,0,0,32,37,86.5,3,29,2,2,1,Bologna,2020-09-28 Bologna-Parma,ITA-SERIA_A,20-21,ddc857bc
+5832ebfe,Stefano Denswil,4,SUR,LB,27-144,11,0,0,0,0,0,0,0,0,13,1,0,0,0.0,0.0,0.0,1,0,11,12,91.7,1,8,0,0,0,Bologna,2020-09-28 Bologna-Parma,ITA-SERIA_A,20-21,ddc857bc
+b3af9be1,Takehiro Tomiyasu,14,JPN,CB,21-328,90,0,0,0,0,0,0,0,0,79,1,2,2,0.0,0.0,0.0,0,0,62,68,91.2,3,40,1,3,3,Bologna,2020-09-28 Bologna-Parma,ITA-SERIA_A,20-21,ddc857bc
+fed5f993,Danilo Larangeira,23,BRA,CB,36-141,90,0,0,0,0,0,0,0,0,72,2,2,2,0.0,0.0,0.0,2,1,52,61,85.2,4,37,1,0,0,Bologna,2020-09-28 Bologna-Parma,ITA-SERIA_A,20-21,ddc857bc
+e74f0e59,Lorenzo De Silvestri,29,ITA,RB,32-128,90,0,0,0,0,0,0,0,0,61,3,0,0,0.0,0.0,0.1,0,0,39,49,79.6,3,18,1,0,0,Bologna,2020-09-28 Bologna-Parma,ITA-SERIA_A,20-21,ddc857bc
+ab4449d6,Łukasz Skorupski,28,POL,GK,29-146,90,0,0,0,0,0,0,0,0,41,0,0,0,0.0,0.0,0.0,0,0,30,40,75.0,0,23,0,0,0,Bologna,2020-09-28 Bologna-Parma,ITA-SERIA_A,20-21,ddc857bc
+e921b9db,Jacopo Dezi,17,ITA,FW,28-231,57,0,0,0,0,0,0,0,0,34,2,0,2,0.0,0.0,0.1,2,0,23,28,82.1,3,10,0,0,0,Parma,2020-09-28 Bologna-Parma,ITA-SERIA_A,20-21,ddc857bc
+1cac99dc,Luca Siligardi,26,ITA,"FW,RW",32-246,33,0,0,0,0,0,0,0,0,16,0,0,0,0.0,0.0,0.2,3,0,9,15,60.0,0,8,0,0,0,Parma,2020-09-28 Bologna-Parma,ITA-SERIA_A,20-21,ddc857bc
+e468c053,Gervinho,27,CIV,LW,33-124,68,0,0,0,0,1,0,0,0,28,0,0,1,0.1,0.1,0.0,3,0,11,18,61.1,2,17,3,4,2,Parma,2020-09-28 Bologna-Parma,ITA-SERIA_A,20-21,ddc857bc
+bdd0692f,Mattia Sprocati,93,ITA,"LM,LW",27-153,22,0,0,0,0,0,0,0,0,6,1,1,0,0.0,0.0,0.0,0,0,4,4,100.0,0,2,0,0,0,Parma,2020-09-28 Bologna-Parma,ITA-SERIA_A,20-21,ddc857bc
+8b66d9cc,Yann Karamoh,10,FRA,RW,22-082,80,0,0,0,0,1,1,0,0,26,2,0,0,0.2,0.2,0.4,3,0,11,17,64.7,2,20,4,4,4,Parma,2020-09-28 Bologna-Parma,ITA-SERIA_A,20-21,ddc857bc
+7005ac66,Andrea Adorante,99,ITA,LW,20-236,10,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,2,0,0,0,Parma,2020-09-28 Bologna-Parma,ITA-SERIA_A,20-21,ddc857bc
+6f5ead86,Hernani,23,BRA,"LM,CM",26-185,90,1,0,0,0,3,1,0,0,55,3,0,0,0.6,0.6,0.0,1,0,28,35,80.0,7,24,4,6,2,Parma,2020-09-28 Bologna-Parma,ITA-SERIA_A,20-21,ddc857bc
+e947ee4a,Gastón Brugman,15,URU,CM,28-021,80,0,1,0,0,2,1,0,0,57,3,3,0,0.4,0.4,0.4,1,1,34,46,73.9,7,18,1,2,2,Parma,2020-09-28 Bologna-Parma,ITA-SERIA_A,20-21,ddc857bc
+6cc97b6a,Alberto Grassi,8,ITA,RM,25-205,10,0,0,0,0,0,0,0,0,9,1,0,2,0.0,0.0,0.0,0,0,6,6,100.0,0,4,0,0,0,Parma,2020-09-28 Bologna-Parma,ITA-SERIA_A,20-21,ddc857bc
+5aaef9ef,Juraj Kucka,33,SVK,RM,33-215,80,0,0,0,0,2,0,1,0,39,2,0,0,0.1,0.1,0.2,2,0,19,24,79.2,1,17,1,3,1,Parma,2020-09-28 Bologna-Parma,ITA-SERIA_A,20-21,ddc857bc
+2990c466,Kastriot Dermaku,21,ALB,CB,28-257,10,0,0,0,0,0,0,0,0,11,0,1,2,0.0,0.0,0.0,0,0,4,7,57.1,0,6,0,0,0,Parma,2020-09-28 Bologna-Parma,ITA-SERIA_A,20-21,ddc857bc
+96e0490d,Matteo Darmian,36,ITA,LB,30-301,90,0,0,0,0,0,0,0,0,59,4,2,0,0.0,0.0,0.0,0,0,39,51,76.5,5,23,1,0,0,Parma,2020-09-28 Bologna-Parma,ITA-SERIA_A,20-21,ddc857bc
+585a73a8,Bruno Alves,22,POR,CB,38-306,90,0,0,0,0,0,0,0,0,55,0,1,0,0.0,0.0,0.0,0,0,39,50,78.0,3,31,0,0,0,Parma,2020-09-28 Bologna-Parma,ITA-SERIA_A,20-21,ddc857bc
+63071a3f,Simone Iacoponi,2,ITA,CB,33-151,75,0,0,0,0,0,0,0,1,34,2,0,0,0.0,0.0,0.0,0,0,25,28,89.3,0,19,0,0,0,Parma,2020-09-28 Bologna-Parma,ITA-SERIA_A,20-21,ddc857bc
+3535098b,Vincent Laurini,16,FRA,RB,31-110,90,0,0,0,0,0,0,1,0,58,0,1,1,0.0,0.0,0.0,1,0,37,54,68.5,1,25,0,0,0,Parma,2020-09-28 Bologna-Parma,ITA-SERIA_A,20-21,ddc857bc
+343f753a,Luigi Sepe,1,ITA,GK,29-143,90,0,0,0,0,0,0,0,0,31,0,0,0,0.0,0.0,0.0,0,0,22,29,75.9,0,9,0,0,0,Parma,2020-09-28 Bologna-Parma,ITA-SERIA_A,20-21,ddc857bc

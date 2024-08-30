@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+c68da769,Rafael Borré,19,COL,FW,26-207,62,0,0,0,0,2,0,0,0,22,1,0,0,0.1,0.1,0.1,4,1,9,14,64.3,0,18,3,1,1,Eintracht Frankfurt,2022-04-10 Eint Frankfurt-Freiburg,GER-BL1,21-22,e7491da8
+962e54cb,Gonçalo Paciência,39,POR,FW,27-252,28,0,0,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.0,2,0,5,7,71.4,1,7,1,1,0,Eintracht Frankfurt,2022-04-10 Eint Frankfurt-Freiburg,GER-BL1,21-22,e7491da8
+12c35abe,Jens Petter Hauge,23,NOR,"AM,WB",22-180,90,0,1,0,0,3,3,0,0,59,1,1,0,0.2,0.2,0.2,3,1,29,45,64.4,5,31,4,5,4,Eintracht Frankfurt,2022-04-10 Eint Frankfurt-Freiburg,GER-BL1,21-22,e7491da8
+37dc1a48,Jesper Lindstrøm,29,DEN,AM,22-040,90,0,0,0,0,3,0,0,0,37,2,1,2,0.1,0.1,0.1,3,0,16,22,72.7,1,22,1,4,2,Eintracht Frankfurt,2022-04-10 Eint Frankfurt-Freiburg,GER-BL1,21-22,e7491da8
+4c6facae,Djibril Sow,8,SUI,CM,25-063,30,0,0,0,0,0,0,0,0,13,1,0,0,0.0,0.0,0.0,0,0,8,11,72.7,0,5,0,0,0,Eintracht Frankfurt,2022-04-10 Eint Frankfurt-Freiburg,GER-BL1,21-22,e7491da8
+a8ee54ad,Kristijan Jakić,6,CRO,CM,24-331,60,0,0,0,0,0,0,0,0,35,1,0,1,0.0,0.0,0.0,1,0,17,31,54.8,2,15,1,0,0,Eintracht Frankfurt,2022-04-10 Eint Frankfurt-Freiburg,GER-BL1,21-22,e7491da8
+e12b0b5b,Sebastian Rode,17,GER,CM,31-181,75,0,0,0,0,0,0,0,0,39,0,2,0,0.0,0.0,0.0,2,0,24,32,75.0,4,15,0,0,0,Eintracht Frankfurt,2022-04-10 Eint Frankfurt-Freiburg,GER-BL1,21-22,e7491da8
+15b287da,Daichi Kamada,15,JPN,AM,25-248,15,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,1,5,20.0,1,6,1,1,0,Eintracht Frankfurt,2022-04-10 Eint Frankfurt-Freiburg,GER-BL1,21-22,e7491da8
+b1cd37e6,Filip Kostić,10,SRB,WB,29-160,90,1,0,0,0,3,1,0,0,81,3,0,1,0.2,0.2,0.1,5,0,44,69,63.8,5,37,6,2,0,Eintracht Frankfurt,2022-04-10 Eint Frankfurt-Freiburg,GER-BL1,21-22,e7491da8
+19a967ab,Ansgar Knauff,36,GER,WB,20-090,75,0,0,0,0,3,1,0,0,50,1,2,1,0.1,0.1,0.0,1,0,20,40,50.0,2,27,7,1,1,Eintracht Frankfurt,2022-04-10 Eint Frankfurt-Freiburg,GER-BL1,21-22,e7491da8
+1f2d714c,Ajdin Hrustic,7,AUS,CM,25-279,15,0,0,0,0,2,0,0,0,17,1,0,1,0.1,0.1,0.0,1,0,11,12,91.7,1,10,0,2,2,Eintracht Frankfurt,2022-04-10 Eint Frankfurt-Freiburg,GER-BL1,21-22,e7491da8
+441197b8,Obite N'Dicka,2,CIV,CB,22-233,90,0,0,0,0,0,0,0,0,82,2,1,1,0.0,0.0,0.0,1,0,56,74,75.7,2,37,1,1,1,Eintracht Frankfurt,2022-04-10 Eint Frankfurt-Freiburg,GER-BL1,21-22,e7491da8
+080440a4,Martin Hinteregger,13,AUT,CB,29-215,90,0,0,0,0,1,0,1,0,71,3,2,2,0.1,0.1,0.0,1,0,49,57,86.0,4,34,1,0,0,Eintracht Frankfurt,2022-04-10 Eint Frankfurt-Freiburg,GER-BL1,21-22,e7491da8
+35d64857,Tuta,35,BRA,CB,22-280,90,0,0,0,0,1,0,0,0,73,2,2,2,0.0,0.0,0.0,1,0,40,59,67.8,2,33,2,1,1,Eintracht Frankfurt,2022-04-10 Eint Frankfurt-Freiburg,GER-BL1,21-22,e7491da8
+ce17b5eb,Kevin Trapp,1,GER,GK,31-276,90,0,0,0,0,0,0,0,0,37,0,0,0,0.0,0.0,0.0,0,0,25,36,69.4,0,21,0,0,0,Eintracht Frankfurt,2022-04-10 Eint Frankfurt-Freiburg,GER-BL1,21-22,e7491da8
+ed79b7d3,Ermedin Demirović,11,BIH,FW,24-016,60,0,0,0,0,4,0,1,0,21,0,0,1,0.2,0.2,0.0,1,1,5,10,50.0,1,12,2,2,1,Freiburg,2022-04-10 Eint Frankfurt-Freiburg,GER-BL1,21-22,e7491da8
+6190474d,Jeong Woo-yeong,29,KOR,RM,22-202,30,0,0,0,0,2,0,0,0,19,0,0,0,0.1,0.1,0.0,1,0,11,14,78.6,2,6,0,1,0,Freiburg,2022-04-10 Eint Frankfurt-Freiburg,GER-BL1,21-22,e7491da8
+ca618d23,Lucas Höler,9,GER,FW,27-274,60,0,0,0,0,2,2,0,0,34,1,0,2,0.2,0.2,0.0,0,0,16,26,61.5,1,12,0,2,0,Freiburg,2022-04-10 Eint Frankfurt-Freiburg,GER-BL1,21-22,e7491da8
+f6bdc830,Keven Schlotterbeck,31,GER,FW,24-347,30,0,0,0,0,0,0,0,0,15,1,0,1,0.0,0.0,0.0,0,0,8,11,72.7,1,5,0,0,0,Freiburg,2022-04-10 Eint Frankfurt-Freiburg,GER-BL1,21-22,e7491da8
+54e4866f,Vincenzo Grifo,32,ITA,LM,29-003,87,1,0,0,0,1,1,0,0,29,0,1,0,0.3,0.3,0.0,3,0,18,27,66.7,2,9,0,1,1,Freiburg,2022-04-10 Eint Frankfurt-Freiburg,GER-BL1,21-22,e7491da8
+70dcf94d,Janik Haberer,19,GER,LM,28-008,3,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,2,5,40.0,0,3,1,0,0,Freiburg,2022-04-10 Eint Frankfurt-Freiburg,GER-BL1,21-22,e7491da8
+5d8e331f,Nicolas Höfler,27,GER,CM,32-032,90,0,0,0,0,0,0,0,0,46,2,2,1,0.0,0.0,0.0,0,0,26,40,65.0,3,14,0,0,0,Freiburg,2022-04-10 Eint Frankfurt-Freiburg,GER-BL1,21-22,e7491da8
+beb882a8,Maximilian Eggestein,8,GER,CM,25-123,90,0,0,0,0,1,0,0,0,50,4,2,3,0.1,0.1,0.1,2,0,18,31,58.1,3,17,0,0,0,Freiburg,2022-04-10 Eint Frankfurt-Freiburg,GER-BL1,21-22,e7491da8
+bf075f6b,Roland Sallai,22,HUN,RM,24-323,60,0,1,0,0,1,0,0,0,30,3,0,2,0.0,0.0,0.4,2,1,11,20,55.0,1,18,1,3,0,Freiburg,2022-04-10 Eint Frankfurt-Freiburg,GER-BL1,21-22,e7491da8
+f93e6e94,Nils Petersen,18,GER,FW,33-125,30,1,0,0,0,1,1,0,0,18,1,0,1,0.1,0.1,0.0,2,0,7,11,63.6,2,5,0,1,1,Freiburg,2022-04-10 Eint Frankfurt-Freiburg,GER-BL1,21-22,e7491da8
+8593f88c,Christian Günter,30,GER,LB,29-041,90,0,1,0,0,0,0,0,0,47,0,0,1,0.0,0.0,0.1,2,2,20,40,50.0,2,13,1,1,0,Freiburg,2022-04-10 Eint Frankfurt-Freiburg,GER-BL1,21-22,e7491da8
+34e12499,Nico Schlotterbeck,4,GER,CB,22-130,90,0,0,0,0,0,0,0,0,68,4,2,1,0.0,0.0,0.0,1,0,34,49,69.4,4,19,0,1,1,Freiburg,2022-04-10 Eint Frankfurt-Freiburg,GER-BL1,21-22,e7491da8
+302527b2,Philipp Lienhart,3,AUT,CB,25-273,90,0,0,0,0,0,0,1,0,61,0,1,2,0.0,0.0,0.0,2,0,40,49,81.6,5,21,0,0,0,Freiburg,2022-04-10 Eint Frankfurt-Freiburg,GER-BL1,21-22,e7491da8
+2a29eb9b,Lukas Kübler,17,GER,RB,29-223,81,0,0,0,0,0,0,0,0,61,7,3,3,0.0,0.0,0.1,2,0,34,40,85.0,7,18,0,2,1,Freiburg,2022-04-10 Eint Frankfurt-Freiburg,GER-BL1,21-22,e7491da8
+088ca1bd,Jonathan Schmid,7,FRA,RB,31-292,9,0,0,0,0,0,0,0,0,7,0,0,1,0.0,0.0,0.0,0,0,6,6,100.0,0,0,0,0,0,Freiburg,2022-04-10 Eint Frankfurt-Freiburg,GER-BL1,21-22,e7491da8
+a92ab7be,Mark Flekken,26,NED,GK,28-301,90,0,0,0,0,0,0,0,0,56,0,0,0,0.0,0.0,0.0,0,0,29,55,52.7,0,31,0,0,0,Freiburg,2022-04-10 Eint Frankfurt-Freiburg,GER-BL1,21-22,e7491da8

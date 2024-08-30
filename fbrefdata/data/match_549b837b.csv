@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+21a66f6a,Harry Kane,9,ENG,FW,30-180,90,0,0,0,0,2,0,1,0,34,0,0,0,0.2,0.2,0.0,1,1,19,28,67.9,4,18,0,0,0,Bayern Munich,2024-01-24 Bayern Munich-Union Berlin,GER-BL1,23-24,549b837b
+042e8a49,Kingsley Coman,11,FRA,LW,27-225,75,0,0,0,0,3,1,0,0,64,0,0,1,0.1,0.1,0.0,2,0,41,54,75.9,4,43,5,5,1,Bayern Munich,2024-01-24 Bayern Munich-Union Berlin,GER-BL1,23-24,549b837b
+829aa60c,Mathys Tel,39,FRA,LW,18-272,15,0,0,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.0,1,0,8,9,88.9,0,8,1,0,0,Bayern Munich,2024-01-24 Bayern Munich-Union Berlin,GER-BL1,23-24,549b837b
+2b114be3,Leroy Sané,10,GER,RW,28-013,90,0,0,0,0,3,0,1,0,70,0,0,0,0.1,0.1,0.1,3,0,43,61,70.5,2,44,9,5,4,Bayern Munich,2024-01-24 Bayern Munich-Union Berlin,GER-BL1,23-24,549b837b
+2c0558b8,Jamal Musiala,42,GER,AM,20-332,75,0,0,0,0,2,2,0,0,40,2,0,0,0.3,0.3,0.1,3,0,26,32,81.3,5,24,2,4,2,Bayern Munich,2024-01-24 Bayern Munich-Union Berlin,GER-BL1,23-24,549b837b
+3c6089ab,Thomas Müller,25,GER,AM,34-133,15,0,0,0,0,1,1,0,0,4,0,0,0,0.3,0.3,0.0,1,0,2,3,66.7,1,1,0,0,0,Bayern Munich,2024-01-24 Bayern Munich-Union Berlin,GER-BL1,23-24,549b837b
+cc86b9a3,Leon Goretzka,8,GER,DM,28-352,90,0,0,0,0,3,2,0,0,94,3,2,2,0.2,0.2,0.1,4,0,68,80,85.0,13,39,6,1,0,Bayern Munich,2024-01-24 Bayern Munich-Union Berlin,GER-BL1,23-24,549b837b
+49296448,Joshua Kimmich,6,GER,"DM,RB",28-350,90,0,0,0,0,1,1,0,0,124,2,1,1,0.1,0.1,0.3,7,0,101,114,88.6,10,61,2,1,0,Bayern Munich,2024-01-24 Bayern Munich-Union Berlin,GER-BL1,23-24,549b837b
+048a1cbc,Raphaël Guerreiro,22,POR,LB,30-033,90,1,0,0,0,2,1,0,0,125,1,1,1,0.3,0.3,0.3,8,0,110,115,95.7,16,63,9,3,3,Bayern Munich,2024-01-24 Bayern Munich-Union Berlin,GER-BL1,23-24,549b837b
+d248cd8f,Dayot Upamecano,2,FRA,CB,25-089,45,0,0,0,0,1,1,0,0,56,1,2,0,0.2,0.2,0.0,1,0,49,50,98.0,8,32,0,0,0,Bayern Munich,2024-01-24 Bayern Munich-Union Berlin,GER-BL1,23-24,549b837b
+ac861941,Eric Dier,15,ENG,CB,30-009,45,0,0,0,0,0,0,0,0,47,0,1,0,0.0,0.0,0.0,0,0,40,44,90.9,1,19,0,0,0,Bayern Munich,2024-01-24 Bayern Munich-Union Berlin,GER-BL1,23-24,549b837b
+d6e53a3a,Matthijs de Ligt,4,NED,CB,24-165,90,0,0,0,0,2,1,0,0,102,0,0,1,0.3,0.3,0.0,2,0,88,95,92.6,10,56,1,1,1,Bayern Munich,2024-01-24 Bayern Munich-Union Berlin,GER-BL1,23-24,549b837b
+c1b7847c,Konrad Laimer,27,AUT,RB,26-242,85,0,0,0,0,2,0,0,0,95,0,0,2,0.1,0.1,0.1,7,0,83,89,93.3,6,42,2,2,1,Bayern Munich,2024-01-24 Bayern Munich-Union Berlin,GER-BL1,23-24,549b837b
+2658c82f,Aleksandar Pavlovic,45,GER,DM,19-266,5,0,0,0,0,0,0,0,0,6,0,0,1,0.0,0.0,0.0,0,0,5,5,100.0,0,5,0,0,0,Bayern Munich,2024-01-24 Bayern Munich-Union Berlin,GER-BL1,23-24,549b837b
+8778c910,Manuel Neuer,1,GER,GK,37-303,90,0,0,0,0,0,0,0,0,24,0,0,0,0.0,0.0,0.0,0,0,21,23,91.3,2,8,0,0,0,Bayern Munich,2024-01-24 Bayern Munich-Union Berlin,GER-BL1,23-24,549b837b
+64f69877,Kevin Volland,10,GER,FW,31-178,25,0,0,0,0,0,0,0,0,7,1,0,0,0.0,0.0,0.0,0,0,1,5,20.0,0,2,0,0,0,Union Berlin,2024-01-24 Bayern Munich-Union Berlin,GER-BL1,23-24,549b837b
+30ae134d,Kevin Behrens,17,GER,FW,32-355,65,0,0,0,0,1,0,1,0,31,0,1,0,0.1,0.1,0.0,0,0,15,24,62.5,1,16,1,0,0,Union Berlin,2024-01-24 Bayern Munich-Union Berlin,GER-BL1,23-24,549b837b
+2a158218,Benedict Hollerbach,16,GER,FW,22-252,63,0,0,0,0,0,0,0,0,20,2,0,1,0.0,0.0,0.0,1,0,7,11,63.6,0,13,1,1,0,Union Berlin,2024-01-24 Bayern Munich-Union Berlin,GER-BL1,23-24,549b837b
+049751d7,András Schäfer,13,HUN,"CM,FW",24-286,27,0,0,0,0,0,0,0,0,15,0,0,1,0.0,0.0,0.0,0,0,9,10,90.0,0,9,0,2,1,Union Berlin,2024-01-24 Bayern Munich-Union Berlin,GER-BL1,23-24,549b837b
+70dcf94d,Janik Haberer,19,GER,CM,29-297,77,0,0,0,0,1,0,1,0,30,3,0,3,0.0,0.0,0.0,0,0,13,19,68.4,0,12,1,0,0,Union Berlin,2024-01-24 Bayern Munich-Union Berlin,GER-BL1,23-24,549b837b
+ec11ecf8,Chris Bedia,11,CIV,FW,27-325,13,0,0,0,0,0,0,0,0,3,0,0,1,0.0,0.0,0.0,0,0,0,0,,0,3,0,0,0,Union Berlin,2024-01-24 Bayern Munich-Union Berlin,GER-BL1,23-24,549b837b
+71ec39ef,Lucas Tousart,29,FRA,CM,26-270,90,0,0,0,0,0,0,0,0,31,1,0,2,0.0,0.0,0.0,1,0,18,22,81.8,2,15,0,1,1,Union Berlin,2024-01-24 Bayern Munich-Union Berlin,GER-BL1,23-24,549b837b
+e717705a,Alex Král,33,CZE,CM,25-250,77,0,0,0,0,0,0,0,0,20,0,1,0,0.0,0.0,0.0,1,0,7,12,58.3,2,6,0,1,0,Union Berlin,2024-01-24 Bayern Munich-Union Berlin,GER-BL1,23-24,549b837b
+5bc43860,Brenden Aaronson,7,USA,CM,23-094,13,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,1,1,1,1,Union Berlin,2024-01-24 Bayern Munich-Union Berlin,GER-BL1,23-24,549b837b
+2d970560,Robin Gosens,6,GER,LB,29-203,63,0,0,0,0,1,0,0,0,33,0,1,2,0.0,0.0,0.1,2,0,16,23,69.6,3,6,0,0,0,Union Berlin,2024-01-24 Bayern Munich-Union Berlin,GER-BL1,23-24,549b837b
+13203c45,Jérôme Roussillon,26,FRA,LB,31-018,27,0,0,0,0,1,1,0,0,14,0,0,1,0.1,0.1,0.0,0,0,7,9,77.8,1,6,1,0,0,Union Berlin,2024-01-24 Bayern Munich-Union Berlin,GER-BL1,23-24,549b837b
+c4987edc,Diogo Leite,4,POR,CB,25-001,90,0,0,0,0,0,0,1,0,54,2,1,2,0.0,0.0,0.0,0,0,37,41,90.2,3,21,0,0,0,Union Berlin,2024-01-24 Bayern Munich-Union Berlin,GER-BL1,23-24,549b837b
+1d8e9add,Kevin Vogt,2,GER,CB,32-123,90,0,0,0,0,0,0,1,0,46,2,0,1,0.0,0.0,0.0,1,0,29,34,85.3,0,27,0,0,0,Union Berlin,2024-01-24 Bayern Munich-Union Berlin,GER-BL1,23-24,549b837b
+6bd5cd5d,Robin Knoche,31,GER,CB,31-247,90,0,0,0,0,0,0,0,0,35,2,1,1,0.0,0.0,0.0,1,0,19,27,70.4,0,18,0,0,0,Union Berlin,2024-01-24 Bayern Munich-Union Berlin,GER-BL1,23-24,549b837b
+056d2d95,Christopher Trimmel,28,AUT,RB,36-334,90,0,0,0,0,0,0,0,0,36,1,0,0,0.0,0.0,0.0,1,0,18,30,60.0,2,9,0,0,0,Union Berlin,2024-01-24 Bayern Munich-Union Berlin,GER-BL1,23-24,549b837b
+a70b8345,Frederik Rønnow,1,DEN,GK,31-173,90,0,0,0,0,0,0,0,0,55,0,0,0,0.0,0.0,0.0,0,0,36,48,75.0,0,27,0,0,0,Union Berlin,2024-01-24 Bayern Munich-Union Berlin,GER-BL1,23-24,549b837b

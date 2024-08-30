@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+527f063d,Edinson Cavani,9,URU,FW,30-277,90,2,0,0,0,5,4,0,0,31,0,0,0,0.6,0.6,0.6,5,0,22,23,95.7,5,12,4,2,1,Paris Saint-Germain,2017-11-18 Paris S-G-Nantes,FRA-L1,17-18,4155088a
+69384e5d,Neymar,10,BRA,LW,25-286,90,0,0,0,0,3,0,0,0,81,1,0,0,0.6,0.6,0.3,11,2,56,70,80.0,9,59,6,7,4,Paris Saint-Germain,2017-11-18 Paris S-G-Nantes,FRA-L1,17-18,4155088a
+19cda00b,Ángel Di María,11,ARG,RW,29-277,90,1,0,0,0,5,3,0,0,71,0,0,1,0.2,0.2,0.0,5,1,44,62,71.0,5,42,5,3,2,Paris Saint-Germain,2017-11-18 Paris S-G-Nantes,FRA-L1,17-18,4155088a
+881ef58c,Javier Pastore,27,ARG,LM,28-151,79,1,1,0,0,3,1,0,0,79,3,1,1,0.2,0.2,0.2,5,1,53,60,88.3,5,49,4,3,2,Paris Saint-Germain,2017-11-18 Paris S-G-Nantes,FRA-L1,17-18,4155088a
+1a992676,Julian Draxler,23,GER,LM,24-059,11,0,0,0,0,0,0,0,0,18,0,0,1,0.0,0.0,0.0,2,0,16,17,94.1,2,11,0,0,0,Paris Saint-Germain,2017-11-18 Paris S-G-Nantes,FRA-L1,17-18,4155088a
+8794e251,Adrien Rabiot,25,FRA,CM,22-229,85,0,0,0,0,1,0,0,0,96,5,1,1,0.1,0.1,0.0,3,0,77,87,88.5,6,68,2,2,2,Paris Saint-Germain,2017-11-18 Paris S-G-Nantes,FRA-L1,17-18,4155088a
+7c56da38,Christopher Nkunku,24,FRA,CM,20-004,5,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,3,3,100.0,0,3,1,0,0,Paris Saint-Germain,2017-11-18 Paris S-G-Nantes,FRA-L1,17-18,4155088a
+1467af0d,Marco Verratti,6,ITA,RM,25-013,79,0,1,0,0,0,0,1,0,89,4,2,1,0.0,0.0,0.1,5,2,74,84,88.1,5,59,1,2,2,Paris Saint-Germain,2017-11-18 Paris S-G-Nantes,FRA-L1,17-18,4155088a
+d7553721,Giovani Lo Celso,18,ARG,RM,21-223,11,0,0,0,0,1,0,0,0,9,1,0,0,0.0,0.0,0.0,0,0,7,7,100.0,0,5,0,0,0,Paris Saint-Germain,2017-11-18 Paris S-G-Nantes,FRA-L1,17-18,4155088a
+b6e50615,Yuri Berchiche,17,ESP,LB,27-281,90,0,0,0,0,1,0,1,0,86,5,2,1,0.0,0.0,0.0,3,0,64,70,91.4,6,47,2,1,1,Paris Saint-Germain,2017-11-18 Paris S-G-Nantes,FRA-L1,17-18,4155088a
+86e7deaf,Thiago Silva,2,BRA,CB,33-057,90,0,0,0,0,1,0,0,0,88,1,0,0,0.1,0.1,0.0,0,0,76,80,95.0,4,57,1,0,0,Paris Saint-Germain,2017-11-18 Paris S-G-Nantes,FRA-L1,17-18,4155088a
+d5f2f82b,Marquinhos,5,BRA,CB,23-188,90,0,0,0,0,0,0,0,0,79,4,0,2,0.0,0.0,0.0,0,0,68,71,95.8,4,47,0,0,0,Paris Saint-Germain,2017-11-18 Paris S-G-Nantes,FRA-L1,17-18,4155088a
+c9e99e49,Dani Alves,32,BRA,RB,34-196,90,0,1,0,0,2,1,0,0,112,4,0,2,0.1,0.1,0.1,4,2,87,102,85.3,5,62,2,0,0,Paris Saint-Germain,2017-11-18 Paris S-G-Nantes,FRA-L1,17-18,4155088a
+2f965a72,Alphonse Areola,16,FRA,GK,24-264,90,0,0,0,0,0,0,0,0,32,0,0,0,0.0,0.0,0.0,0,0,30,32,93.8,0,15,0,0,0,Paris Saint-Germain,2017-11-18 Paris S-G-Nantes,FRA-L1,17-18,4155088a
+5d59e0df,Emiliano Sala,9,ARG,FW,27-018,90,0,0,0,0,2,0,0,0,47,0,0,2,0.1,0.1,0.0,2,0,22,30,73.3,3,25,1,2,1,Nantes,2017-11-18 Paris S-G-Nantes,FRA-L1,17-18,4155088a
+ed45c4a5,Valentin Rongier,28,FRA,"FW,CM",22-346,90,0,0,0,0,0,0,0,0,51,6,2,4,0.0,0.0,0.0,1,0,31,39,79.5,6,27,1,1,1,Nantes,2017-11-18 Paris S-G-Nantes,FRA-L1,17-18,4155088a
+ff0ab48c,Leo Dubois,15,FRA,"LM,LB",23-065,90,0,1,0,0,2,0,0,0,47,0,0,3,0.1,0.1,0.8,3,1,28,37,75.7,6,31,2,4,2,Nantes,2017-11-18 Paris S-G-Nantes,FRA-L1,17-18,4155088a
+3befc2b6,Andrei Girotto,20,BRA,CM,25-274,58,0,0,0,0,1,0,0,0,25,2,2,1,0.0,0.0,0.0,1,0,13,18,72.2,4,15,0,1,1,Nantes,2017-11-18 Paris S-G-Nantes,FRA-L1,17-18,4155088a
+8e87af42,Préjuce Nakoulma,22,BFA,FW,30-211,32,1,0,0,0,1,1,0,0,19,1,0,0,0.7,0.7,0.0,0,0,11,14,78.6,1,19,1,5,2,Nantes,2017-11-18 Paris S-G-Nantes,FRA-L1,17-18,4155088a
+ef7cd87a,Abdoulaye Touré,19,GUI,CM,23-260,90,0,0,0,0,0,0,0,0,41,2,2,2,0.0,0.0,0.0,1,0,23,26,88.5,3,17,0,2,2,Nantes,2017-11-18 Paris S-G-Nantes,FRA-L1,17-18,4155088a
+0f52f925,Lucas Lima,6,BRA,RM,26-039,45,0,0,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.1,2,0,6,7,85.7,1,9,0,1,0,Nantes,2017-11-18 Paris S-G-Nantes,FRA-L1,17-18,4155088a
+f352a2db,Jules Iloki,7,FRA,RM,25-308,45,0,0,0,0,1,0,0,0,20,0,0,0,0.0,0.0,0.0,3,1,13,17,76.5,2,17,6,1,1,Nantes,2017-11-18 Paris S-G-Nantes,FRA-L1,17-18,4155088a
+933d3b51,Koffi Djidji,5,CIV,LB,24-353,69,0,0,0,0,0,0,1,0,29,2,2,0,0.0,0.0,0.0,0,0,12,22,54.5,0,8,1,0,0,Nantes,2017-11-18 Paris S-G-Nantes,FRA-L1,17-18,4155088a
+c76b7567,Adrien Thomasson,8,FRA,LM,23-343,21,0,0,0,0,0,0,0,0,12,0,0,2,0.0,0.0,0.0,0,0,5,8,62.5,2,5,0,1,1,Nantes,2017-11-18 Paris S-G-Nantes,FRA-L1,17-18,4155088a
+779847d6,Nicolas Pallois,4,FRA,CB,30-060,90,0,0,0,0,0,0,1,0,18,0,1,1,0.0,0.0,0.0,0,0,5,7,71.4,1,5,0,0,0,Nantes,2017-11-18 Paris S-G-Nantes,FRA-L1,17-18,4155088a
+b4a014b1,Diego Carlos,3,BRA,CB,24-248,90,0,0,0,0,0,0,0,0,25,3,1,3,0.0,0.0,0.0,1,0,7,13,53.8,1,12,0,0,0,Nantes,2017-11-18 Paris S-G-Nantes,FRA-L1,17-18,4155088a
+70d8e84c,Chidozie Awaziem,12,NGA,RB,20-321,90,0,0,0,0,1,0,1,0,43,2,1,3,0.0,0.0,0.0,0,0,20,29,69.0,2,19,0,0,0,Nantes,2017-11-18 Paris S-G-Nantes,FRA-L1,17-18,4155088a
+b056e3da,Ciprian Tătărușanu,30,ROU,GK,31-282,90,0,0,0,0,0,0,0,0,26,0,0,0,0.0,0.0,0.0,0,0,16,23,69.6,0,10,0,0,0,Nantes,2017-11-18 Paris S-G-Nantes,FRA-L1,17-18,4155088a

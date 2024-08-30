@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+a53649b7,Eddie Nketiah,30,ENG,FW,21-152,73,1,0,0,0,7,1,0,0,33,0,1,3,2.0,2.0,0.1,3,0,18,18,100.0,1,14,2,1,0,Arsenal,2020-10-29 Arsenal-Dundalk,UEL,20-21,6578dff1
+31822f8c,Folarin Balogun,38,USA,FW,19-118,17,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,1,0,4,5,80.0,0,2,1,0,0,Arsenal,2020-10-29 Arsenal-Dundalk,UEL,20-21,6578dff1
+c5bdb6e3,Reiss Nelson,24,ENG,AM,20-324,90,0,0,0,0,3,0,0,0,61,1,1,1,0.1,0.1,0.1,6,1,38,52,73.1,8,40,12,4,2,Arsenal,2020-10-29 Arsenal-Dundalk,UEL,20-21,6578dff1
+57e3f0c7,Nicolas Pépé,19,CIV,AM,25-153,61,1,0,0,0,5,1,0,0,62,0,0,2,0.2,0.2,0.1,4,2,37,49,75.5,6,43,2,3,0,Arsenal,2020-10-29 Arsenal-Dundalk,UEL,20-21,6578dff1
+8b9ebd03,Willian,12,BRA,AM,32-081,29,0,0,0,0,0,0,0,0,34,0,0,1,0.0,0.0,0.0,0,0,28,32,87.5,5,23,3,1,1,Arsenal,2020-10-29 Arsenal-Dundalk,UEL,20-21,6578dff1
+47a34c4f,Mohamed Elneny,25,EGY,"CM,CB",28-110,90,0,0,0,0,2,0,0,0,46,0,1,1,0.0,0.0,0.0,2,0,41,41,100.0,3,30,1,0,0,Arsenal,2020-10-29 Arsenal-Dundalk,UEL,20-21,6578dff1
+a3b03921,Joe Willock,28,ENG,CM,21-070,90,1,1,0,0,3,2,0,0,80,0,0,3,0.4,0.4,0.2,5,1,52,61,85.2,5,51,2,4,1,Arsenal,2020-10-29 Arsenal-Dundalk,UEL,20-21,6578dff1
+e3a5814e,Ainsley Maitland-Niles,15,ENG,WB,23-061,90,0,0,0,0,1,1,0,0,74,1,2,2,0.0,0.0,0.3,4,1,59,67,88.1,12,45,8,0,0,Arsenal,2020-10-29 Arsenal-Dundalk,UEL,20-21,6578dff1
+839c14e1,Cédric Soares,17,POR,WB,29-059,90,0,0,0,0,1,0,0,0,91,2,1,3,0.0,0.0,0.3,6,0,65,80,81.3,15,58,5,3,1,Arsenal,2020-10-29 Arsenal-Dundalk,UEL,20-21,6578dff1
+3935e52e,Sead Kolašinac,31,BIH,CB,27-131,90,0,0,0,0,1,1,0,0,78,0,0,0,0.0,0.0,0.1,4,0,72,76,94.7,13,61,5,3,2,Arsenal,2020-10-29 Arsenal-Dundalk,UEL,20-21,6578dff1
+e61b8aee,Granit Xhaka,34,SUI,CB,28-032,73,0,0,0,0,0,0,0,0,46,1,0,0,0.0,0.0,0.0,1,0,42,44,95.5,9,34,0,0,0,Arsenal,2020-10-29 Arsenal-Dundalk,UEL,20-21,6578dff1
+fce2302c,Kieran Tierney,3,SCO,CB,23-146,17,0,0,0,0,2,0,0,0,27,0,2,0,0.1,0.1,0.0,1,0,22,23,95.7,2,14,0,0,0,Arsenal,2020-10-29 Arsenal-Dundalk,UEL,20-21,6578dff1
+3f2d59fe,Shkodran Mustafi,20,GER,CB,28-195,61,0,0,0,0,0,0,0,0,42,2,1,0,0.0,0.0,0.0,1,0,34,38,89.5,8,28,0,0,0,Arsenal,2020-10-29 Arsenal-Dundalk,UEL,20-21,6578dff1
+c0617e2b,Dani Ceballos,8,ESP,CM,24-083,29,0,0,0,0,0,0,0,0,40,0,1,0,0.0,0.0,0.0,3,0,38,38,100.0,2,21,1,0,0,Arsenal,2020-10-29 Arsenal-Dundalk,UEL,20-21,6578dff1
+8fa8f8d2,Rúnar Alex Rúnarsson,13,ISL,GK,25-254,90,0,0,0,0,0,0,0,0,17,0,0,0,0.0,0.0,0.0,0,0,15,16,93.8,0,11,0,0,0,Arsenal,2020-10-29 Arsenal-Dundalk,UEL,20-21,6578dff1
+f934cffd,Patrick Hoban,9,IRL,FW,29-093,90,0,0,0,0,1,0,0,0,30,2,0,0,0.0,0.0,0.0,2,0,17,21,81.0,1,16,1,1,1,Dundalk,2020-10-29 Arsenal-Dundalk,UEL,20-21,6578dff1
+db123b51,Michael Duffy,7,NIR,FW,26-093,69,0,0,0,0,0,0,0,0,28,0,0,0,0.0,0.0,0.1,3,0,20,25,80.0,0,14,2,0,0,Dundalk,2020-10-29 Arsenal-Dundalk,UEL,20-21,6578dff1
+d5854b7a,Stefan Čolović,22,SRB,FW,26-196,21,0,0,0,0,0,0,0,0,16,0,1,0,0.0,0.0,0.0,0,0,12,14,85.7,0,8,0,0,0,Dundalk,2020-10-29 Arsenal-Dundalk,UEL,20-21,6578dff1
+f3b2463e,Patrick McEleney,11,IRL,CM,28-033,52,0,0,0,0,1,1,0,0,30,3,0,1,0.0,0.0,0.0,0,0,23,25,92.0,3,12,0,1,1,Dundalk,2020-10-29 Arsenal-Dundalk,UEL,20-21,6578dff1
+469be117,Jordan Flores,6,ENG,CM,25-025,38,0,0,0,0,0,0,0,0,15,3,0,0,0.0,0.0,0.0,0,0,7,9,77.8,2,9,0,0,0,Dundalk,2020-10-29 Arsenal-Dundalk,UEL,20-21,6578dff1
+ef4d73aa,Chris Shields,5,IRL,CM,29-307,61,0,0,0,0,1,0,0,0,24,1,1,0,0.0,0.0,0.0,1,0,14,20,70.0,0,16,0,0,0,Dundalk,2020-10-29 Arsenal-Dundalk,UEL,20-21,6578dff1
+4cb950ea,Sean Gannon,2,IRL,"WB,CM",29-110,29,0,0,0,0,0,0,0,0,17,1,0,0,0.0,0.0,0.0,0,0,8,13,61.5,0,7,0,1,1,Dundalk,2020-10-29 Arsenal-Dundalk,UEL,20-21,6578dff1
+11b4f41a,Sean Murray,16,IRL,CM,27-018,45,0,0,0,0,0,0,0,0,14,2,0,0,0.0,0.0,0.0,0,0,6,10,60.0,1,3,1,0,0,Dundalk,2020-10-29 Arsenal-Dundalk,UEL,20-21,6578dff1
+d035138b,Greg Sloggett,10,IRL,CM,24-118,45,0,0,0,0,0,0,0,0,17,0,1,0,0.0,0.0,0.0,0,0,16,16,100.0,0,8,0,0,0,Dundalk,2020-10-29 Arsenal-Dundalk,UEL,20-21,6578dff1
+e6631d18,Cameron Dummigan,23,NIR,WB,24-149,90,0,0,0,0,0,0,0,0,54,3,1,3,0.0,0.0,0.0,0,0,27,39,69.2,0,20,0,2,2,Dundalk,2020-10-29 Arsenal-Dundalk,UEL,20-21,6578dff1
+49aa1724,John Mountney,8,IRL,"WB,CM",27-250,90,0,0,0,0,0,0,0,0,41,1,2,0,0.0,0.0,0.0,2,0,24,34,70.6,0,22,0,0,0,Dundalk,2020-10-29 Arsenal-Dundalk,UEL,20-21,6578dff1
+bcdc8055,Daniel Cleary,21,IRL,CB,24-234,52,0,0,0,0,0,0,0,0,37,0,2,1,0.0,0.0,0.0,0,0,22,29,75.9,2,21,1,0,0,Dundalk,2020-10-29 Arsenal-Dundalk,UEL,20-21,6578dff1
+c8a4aafd,Sean Hoare,4,IRL,CB,26-228,38,0,0,0,0,0,0,0,0,22,1,2,1,0.0,0.0,0.0,0,0,14,17,82.4,0,11,0,0,0,Dundalk,2020-10-29 Arsenal-Dundalk,UEL,20-21,6578dff1
+e4ac16cf,Andy Boyle,44,IRL,CB,29-236,90,0,0,0,0,0,0,0,0,59,1,1,4,0.0,0.0,0.0,0,0,42,45,93.3,1,17,0,0,0,Dundalk,2020-10-29 Arsenal-Dundalk,UEL,20-21,6578dff1
+a0284e8e,Brian Gartland,3,IRL,CB,33-360,90,0,0,0,0,1,0,0,0,58,4,1,4,0.0,0.0,0.0,0,0,38,41,92.7,1,25,0,1,1,Dundalk,2020-10-29 Arsenal-Dundalk,UEL,20-21,6578dff1
+32f7976d,Gary Rogers,1,IRL,GK,39-034,90,0,0,0,0,0,0,0,0,30,0,0,0,0.0,0.0,0.0,0,0,19,26,73.1,0,8,0,0,0,Dundalk,2020-10-29 Arsenal-Dundalk,UEL,20-21,6578dff1

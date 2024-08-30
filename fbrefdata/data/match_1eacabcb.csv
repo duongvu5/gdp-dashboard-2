@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+da23d58d,Léo Bonatini,13,BRA,FW,25-189,64,0,0,0,0,3,0,0,0,23,0,0,1,0.3,0.3,0.0,1,0,7,13,53.8,1,14,0,0,0,Vitória Guimarães,2019-10-03 Vitória-Eint Frankfurt,UEL,19-20,1eacabcb
+d9b89391,Bruno Duarte,96,BRA,FW,23-193,26,0,0,0,0,3,1,0,0,9,0,0,0,0.1,0.1,0.0,0,0,2,5,40.0,0,3,0,0,0,Vitória Guimarães,2019-10-03 Vitória-Eint Frankfurt,UEL,19-20,1eacabcb
+b0c12a65,Davidson da Luz Pereira,91,BRA,LW,28-212,77,0,0,0,0,1,0,0,0,31,0,0,0,0.1,0.1,0.0,3,0,13,22,59.1,3,20,2,4,2,Vitória Guimarães,2019-10-03 Vitória-Eint Frankfurt,UEL,19-20,1eacabcb
+4515f00d,André Pereira,21,POR,LW,24-151,13,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.1,1,0,5,5,100.0,2,5,0,1,0,Vitória Guimarães,2019-10-03 Vitória-Eint Frankfurt,UEL,19-20,1eacabcb
+57760e66,Marcus Edwards,23,ENG,RW,20-304,90,0,0,0,0,0,0,0,0,45,1,1,1,0.0,0.0,0.1,4,0,23,29,79.3,6,24,2,5,3,Vitória Guimarães,2019-10-03 Vitória-Eint Frankfurt,UEL,19-20,1eacabcb
+5f4ce4b6,Lucas Evangelista,7,BRA,LM,24-150,90,0,0,0,0,1,0,0,0,51,3,1,1,0.1,0.1,0.0,4,0,25,36,69.4,3,24,1,4,3,Vitória Guimarães,2019-10-03 Vitória-Eint Frankfurt,UEL,19-20,1eacabcb
+5e9fa5c9,Mikel Agu,24,NGA,CM,26-129,90,0,0,0,0,1,0,0,0,53,3,3,0,0.0,0.0,0.0,2,0,34,42,81.0,4,15,0,2,2,Vitória Guimarães,2019-10-03 Vitória-Eint Frankfurt,UEL,19-20,1eacabcb
+854a2041,Denis-Will Poha,28,FRA,RM,22-128,90,0,0,0,0,3,2,0,0,44,2,1,0,0.1,0.1,0.1,2,0,25,32,78.1,6,12,0,0,0,Vitória Guimarães,2019-10-03 Vitória-Eint Frankfurt,UEL,19-20,1eacabcb
+6bfb4303,Florent Hanin,29,ALG,LB,29-241,90,0,0,0,0,0,0,0,0,63,2,1,1,0.0,0.0,0.2,3,0,38,53,71.7,3,17,0,2,1,Vitória Guimarães,2019-10-03 Vitória-Eint Frankfurt,UEL,19-20,1eacabcb
+fbafd1b0,Pedrão,2,BRA,CB,26-289,90,0,0,0,0,0,0,0,0,30,1,1,1,0.0,0.0,0.0,1,0,20,24,83.3,1,14,1,0,0,Vitória Guimarães,2019-10-03 Vitória-Eint Frankfurt,UEL,19-20,1eacabcb
+a73c8f95,Edmond Tapsoba,6,BFA,CB,20-243,90,0,0,0,0,1,0,1,0,47,1,0,0,0.1,0.1,0.0,0,0,31,40,77.5,3,19,3,2,1,Vitória Guimarães,2019-10-03 Vitória-Eint Frankfurt,UEL,19-20,1eacabcb
+6388e356,Falaye Sacko,17,MLI,RB,24-155,64,0,0,0,0,0,0,0,0,46,0,0,0,0.0,0.0,0.1,1,0,27,41,65.9,3,19,3,4,2,Vitória Guimarães,2019-10-03 Vitória-Eint Frankfurt,UEL,19-20,1eacabcb
+c738a5ec,Rochinha,16,POR,RB,24-153,26,0,0,0,0,0,0,0,0,31,1,0,0,0.0,0.0,0.0,0,0,11,19,57.9,0,14,1,6,3,Vitória Guimarães,2019-10-03 Vitória-Eint Frankfurt,UEL,19-20,1eacabcb
+1c98558c,João Miguel Macedo Silva,56,POR,GK,24-179,90,0,0,0,0,0,0,0,0,47,0,0,0,0.0,0.0,0.0,0,0,22,41,53.7,0,23,0,0,0,Vitória Guimarães,2019-10-03 Vitória-Eint Frankfurt,UEL,19-20,1eacabcb
+3effaa34,André Silva,33,POR,FW,23-331,90,0,0,0,0,3,2,0,0,36,0,0,0,1.0,1.0,0.0,1,0,17,25,68.0,1,23,1,4,3,Eintracht Frankfurt,2019-10-03 Vitória-Eint Frankfurt,UEL,19-20,1eacabcb
+962e54cb,Gonçalo Paciência,39,POR,FW,25-063,67,0,0,0,0,0,0,0,0,21,1,0,0,0.0,0.0,0.3,2,0,6,13,46.2,2,11,0,2,1,Eintracht Frankfurt,2019-10-03 Vitória-Eint Frankfurt,UEL,19-20,1eacabcb
+dc90cfbe,Bas Dost,9,NED,FW,30-125,23,0,0,0,0,0,0,0,0,10,1,0,0,0.0,0.0,0.0,0,0,3,9,33.3,1,4,0,0,0,Eintracht Frankfurt,2019-10-03 Vitória-Eint Frankfurt,UEL,19-20,1eacabcb
+b1cd37e6,Filip Kostić,10,SRB,"LW,WB",26-336,90,0,0,0,0,1,1,0,0,59,5,1,0,0.4,0.4,0.0,1,0,27,44,61.4,3,23,3,3,1,Eintracht Frankfurt,2019-10-03 Vitória-Eint Frankfurt,UEL,19-20,1eacabcb
+cf623c78,Erik Durm,25,GER,"RW,WB",27-144,77,0,0,0,0,1,1,1,0,38,2,0,1,0.0,0.0,0.0,1,0,21,30,70.0,2,13,1,0,0,Eintracht Frankfurt,2019-10-03 Vitória-Eint Frankfurt,UEL,19-20,1eacabcb
+5ddb8f9f,Danny da Costa,24,GER,WB,26-082,13,0,0,0,0,0,0,0,0,12,0,0,0,0.0,0.0,0.0,0,0,9,10,90.0,1,3,0,0,0,Eintracht Frankfurt,2019-10-03 Vitória-Eint Frankfurt,UEL,19-20,1eacabcb
+e12b0b5b,Sebastian Rode,17,GER,CM,28-357,59,0,0,0,0,0,0,0,0,46,2,2,0,0.0,0.0,0.0,0,0,30,40,75.0,2,28,1,1,0,Eintracht Frankfurt,2019-10-03 Vitória-Eint Frankfurt,UEL,19-20,1eacabcb
+15b287da,Daichi Kamada,15,JPN,"AM,CM",23-059,31,0,0,0,0,0,0,0,0,16,0,0,0,0.0,0.0,0.4,1,0,6,12,50.0,2,13,0,1,1,Eintracht Frankfurt,2019-10-03 Vitória-Eint Frankfurt,UEL,19-20,1eacabcb
+4c6facae,Djibril Sow,8,SUI,CM,22-239,90,0,1,0,0,0,0,0,0,43,7,1,0,0.0,0.0,0.1,1,1,29,34,85.3,1,21,1,2,2,Eintracht Frankfurt,2019-10-03 Vitória-Eint Frankfurt,UEL,19-20,1eacabcb
+8e58987d,Gelson Fernandes,5,SUI,"DM,CM",33-031,90,0,0,0,0,0,0,1,0,58,5,1,1,0.0,0.0,0.0,0,0,34,45,75.6,2,22,0,0,0,Eintracht Frankfurt,2019-10-03 Vitória-Eint Frankfurt,UEL,19-20,1eacabcb
+441197b8,Obite N'Dicka,2,CIV,CB,20-044,90,1,0,0,0,1,1,1,0,56,0,0,2,0.1,0.1,0.7,2,1,28,41,68.3,2,15,1,0,0,Eintracht Frankfurt,2019-10-03 Vitória-Eint Frankfurt,UEL,19-20,1eacabcb
+080440a4,Martin Hinteregger,13,AUT,CB,27-026,90,0,0,0,0,0,0,0,0,75,0,0,0,0.0,0.0,0.0,0,0,56,71,78.9,4,49,0,0,0,Eintracht Frankfurt,2019-10-03 Vitória-Eint Frankfurt,UEL,19-20,1eacabcb
+c8c60119,Almamy Touré,18,MLI,CB,23-158,90,0,0,0,0,0,0,1,0,65,1,1,0,0.0,0.0,0.0,0,0,44,59,74.6,6,33,1,0,0,Eintracht Frankfurt,2019-10-03 Vitória-Eint Frankfurt,UEL,19-20,1eacabcb
+a70b8345,Frederik Rønnow,32,DEN,GK,27-060,90,0,0,0,0,0,0,0,0,48,0,0,0,0.0,0.0,0.0,0,0,33,48,68.8,0,30,0,0,0,Eintracht Frankfurt,2019-10-03 Vitória-Eint Frankfurt,UEL,19-20,1eacabcb

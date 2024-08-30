@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+d9a5d930,Yevhen Konoplyanka,11,UKR,FW,27-346,90,0,0,0,0,1,0,0,0,32,0,0,2,0.1,0.1,0.2,5,0,16,27,59.3,3,14,3,1,0,Schalke 04,2017-09-10 Schalke 04-Stuttgart,GER-BL1,17-18,885af087
+e7d59f4f,Amine Harit,25,MAR,FW,20-084,75,0,1,0,0,1,0,0,0,25,1,0,0,0.0,0.0,0.4,4,3,16,20,80.0,2,21,4,1,0,Schalke 04,2017-09-10 Schalke 04-Stuttgart,GER-BL1,17-18,885af087
+01c3aff5,Weston McKennie,2,USA,FW,19-013,15,0,0,0,0,1,1,1,0,19,1,2,0,0.1,0.1,0.0,0,0,11,15,73.3,1,6,0,0,0,Schalke 04,2017-09-10 Schalke 04-Stuttgart,GER-BL1,17-18,885af087
+eba42d2b,Max Meyer,7,GER,AM,21-357,45,0,0,0,0,0,0,0,0,19,1,0,1,0.0,0.0,0.0,2,0,11,16,68.8,1,14,2,1,0,Schalke 04,2017-09-10 Schalke 04-Stuttgart,GER-BL1,17-18,885af087
+2bcc6d52,Guido Burgstaller,19,AUT,AM,28-134,45,1,0,0,0,1,1,0,0,19,0,0,0,0.4,0.4,0.0,2,1,12,15,80.0,1,11,2,2,1,Schalke 04,2017-09-10 Schalke 04-Stuttgart,GER-BL1,17-18,885af087
+3189f61a,Nabil Bentaleb,10,ALG,CM,22-290,45,1,0,1,1,1,0,0,0,30,2,0,0,0.8,0.0,0.0,0,0,17,23,73.9,0,16,1,2,1,Schalke 04,2017-09-10 Schalke 04-Stuttgart,GER-BL1,17-18,885af087
+d1273f09,Daniel Caligiuri,18,ITA,WB,29-238,45,0,0,0,0,0,0,0,0,25,0,0,0,0.0,0.0,0.1,1,0,21,24,87.5,2,9,0,0,0,Schalke 04,2017-09-10 Schalke 04-Stuttgart,GER-BL1,17-18,885af087
+cc86b9a3,Leon Goretzka,8,GER,CM,22-216,90,0,0,0,0,2,0,0,0,58,2,2,5,0.1,0.1,0.1,1,0,37,47,78.7,4,26,2,0,0,Schalke 04,2017-09-10 Schalke 04-Stuttgart,GER-BL1,17-18,885af087
+d1661819,Bastian Oczipka,24,GER,WB,28-241,90,0,1,0,0,0,0,0,0,64,1,2,1,0.0,0.0,0.2,5,1,38,58,65.5,4,26,1,0,0,Schalke 04,2017-09-10 Schalke 04-Stuttgart,GER-BL1,17-18,885af087
+51dbeea9,Thilo Kehrer,20,GER,"CB,WB",20-354,90,0,0,0,0,0,0,0,0,40,3,1,0,0.0,0.0,0.0,1,0,30,35,85.7,3,23,0,0,0,Schalke 04,2017-09-10 Schalke 04-Stuttgart,GER-BL1,17-18,885af087
+f35430a4,Matija Nastasić,5,SRB,CB,24-166,90,0,0,0,0,1,0,0,0,61,2,2,3,0.1,0.1,0.0,1,0,39,50,78.0,2,24,0,0,0,Schalke 04,2017-09-10 Schalke 04-Stuttgart,GER-BL1,17-18,885af087
+03bd0bf4,Naldo,29,BRA,CB,35-000,90,1,0,0,0,3,1,0,0,55,0,1,1,0.4,0.4,0.0,0,0,38,44,86.4,0,13,0,1,1,Schalke 04,2017-09-10 Schalke 04-Stuttgart,GER-BL1,17-18,885af087
+5939baa2,Benjamin Stambouli,17,FRA,"CM,CB",27-028,90,0,0,0,0,0,0,0,0,56,7,3,2,0.0,0.0,0.0,1,0,31,44,70.5,6,27,1,0,0,Schalke 04,2017-09-10 Schalke 04-Stuttgart,GER-BL1,17-18,885af087
+1e43fad8,Ralf Fährmann,1,GER,GK,28-348,90,0,0,0,0,0,0,0,0,33,0,0,0,0.0,0.0,0.0,0,0,25,32,78.1,0,13,0,0,0,Schalke 04,2017-09-10 Schalke 04-Stuttgart,GER-BL1,17-18,885af087
+863ff1ee,Simon Terodde,9,GER,FW,29-192,90,0,0,0,0,3,0,0,0,26,0,1,2,0.7,0.7,0.0,1,0,11,18,61.1,1,5,1,0,0,Stuttgart,2017-09-10 Schalke 04-Stuttgart,GER-BL1,17-18,885af087
+d4a2533d,Josip Brekalo,7,CRO,AM,19-079,90,0,1,0,0,0,0,0,0,58,0,1,0,0.0,0.0,0.3,4,1,45,51,88.2,3,48,2,6,2,Stuttgart,2017-09-10 Schalke 04-Stuttgart,GER-BL1,17-18,885af087
+debc2f28,Chadrac Akolo,19,COD,AM,22-162,58,1,0,0,0,2,1,0,0,32,1,0,2,0.1,0.1,0.1,1,0,18,23,78.3,0,20,1,3,1,Stuttgart,2017-09-10 Schalke 04-Stuttgart,GER-BL1,17-18,885af087
+0f26fd24,Anastasios Donis,14,GRE,AM,21-012,32,0,0,0,0,2,1,1,0,19,0,1,0,0.3,0.3,0.1,1,0,9,11,81.8,1,15,3,3,2,Stuttgart,2017-09-10 Schalke 04-Stuttgart,GER-BL1,17-18,885af087
+a4f94a0d,Christian Gentner,20,GER,CM,32-027,90,0,0,0,0,0,0,0,0,84,1,1,0,0.0,0.0,0.4,5,0,68,80,85.0,6,46,3,1,1,Stuttgart,2017-09-10 Schalke 04-Stuttgart,GER-BL1,17-18,885af087
+a572e291,Orel Mangala,23,BEL,CM,19-176,61,0,0,0,0,0,0,0,0,50,4,1,2,0.0,0.0,0.0,0,0,39,42,92.9,6,24,1,2,2,Stuttgart,2017-09-10 Schalke 04-Stuttgart,GER-BL1,17-18,885af087
+e26fcca3,Santiago Ascacíbar,6,ARG,CM,20-197,29,0,0,0,0,1,0,0,0,26,1,1,0,0.0,0.0,0.0,0,0,21,22,95.5,1,10,0,0,0,Stuttgart,2017-09-10 Schalke 04-Stuttgart,GER-BL1,17-18,885af087
+c311243f,Dennis Aogo,3,GER,WB,30-239,90,0,0,0,0,0,0,0,0,59,0,1,1,0.0,0.0,0.1,4,0,48,57,84.2,2,26,0,0,0,Stuttgart,2017-09-10 Schalke 04-Stuttgart,GER-BL1,17-18,885af087
+00a6485f,Andreas Beck,32,GER,WB,30-181,71,0,0,0,0,0,0,0,0,66,2,1,2,0.0,0.0,0.0,2,1,51,60,85.0,2,41,1,1,0,Stuttgart,2017-09-10 Schalke 04-Stuttgart,GER-BL1,17-18,885af087
+13ddc856,Takuma Asano,11,JPN,WB,22-304,19,0,0,0,0,1,0,0,0,14,0,0,2,0.1,0.1,0.3,2,0,6,8,75.0,1,10,2,2,0,Stuttgart,2017-09-10 Schalke 04-Stuttgart,GER-BL1,17-18,885af087
+463503e2,Marcin Kamiński,35,POL,CB,25-238,90,0,0,0,0,0,0,0,0,95,1,5,0,0.0,0.0,0.0,0,0,75,88,85.2,5,51,0,0,0,Stuttgart,2017-09-10 Schalke 04-Stuttgart,GER-BL1,17-18,885af087
+bd7d2e6d,Timo Baumgartl,5,GER,CB,21-190,90,0,0,0,0,1,0,0,0,125,2,3,2,0.1,0.1,0.0,0,0,107,118,90.7,2,79,1,0,0,Stuttgart,2017-09-10 Schalke 04-Stuttgart,GER-BL1,17-18,885af087
+45a03961,Benjamin Pavard,21,FRA,CB,21-166,90,0,0,0,0,1,0,0,0,105,1,2,0,0.1,0.1,0.0,0,0,93,98,94.9,2,56,0,0,0,Stuttgart,2017-09-10 Schalke 04-Stuttgart,GER-BL1,17-18,885af087
+a0606ae8,Ron-Robert Zieler,16,GER,GK,28-210,90,0,0,0,0,0,0,0,0,46,0,0,1,0.0,0.0,0.0,0,0,26,43,60.5,0,25,0,0,0,Stuttgart,2017-09-10 Schalke 04-Stuttgart,GER-BL1,17-18,885af087

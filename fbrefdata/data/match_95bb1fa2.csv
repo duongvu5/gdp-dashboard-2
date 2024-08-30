@@ -1,0 +1,31 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+942b4f90,Wissam Ben Yedder,10,FRA,FW,31-132,80,1,0,1,1,1,0,0,0,23,0,0,0,0.8,0.0,0.3,1,0,13,15,86.7,2,15,3,4,2,Monaco,2021-12-22 Monaco-Rennes,FRA-L1,21-22,95bb1fa2
+5b479568,Myron Boadu,9,NED,FW,20-342,10,0,0,0,0,1,0,0,0,5,0,0,0,0.1,0.1,0.0,1,0,1,3,33.3,0,5,0,0,0,Monaco,2021-12-22 Monaco-Rennes,FRA-L1,21-22,95bb1fa2
+30af8b93,Caio Henrique Oliveira Silva,12,BRA,LW,24-144,70,0,0,0,0,2,0,0,0,33,2,2,1,0.1,0.1,0.0,2,0,11,21,52.4,1,18,0,2,0,Monaco,2021-12-22 Monaco-Rennes,FRA-L1,21-22,95bb1fa2
+3ef0fa48,Gelson Martins,7,POR,"LW,RW,RM",26-225,20,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.1,1,0,6,6,100.0,0,6,0,0,0,Monaco,2021-12-22 Monaco-Rennes,FRA-L1,21-22,95bb1fa2
+19053e31,Sofiane Diop,37,FRA,"RW,LW,LM",21-196,90,0,1,0,0,3,0,0,0,67,1,0,1,0.4,0.4,0.3,3,2,41,57,71.9,6,43,5,0,0,Monaco,2021-12-22 Monaco-Rennes,FRA-L1,21-22,95bb1fa2
+64f69877,Kevin Volland,31,GER,AM,29-145,89,1,0,0,0,3,2,0,0,31,0,0,3,0.5,0.5,0.0,1,0,13,22,59.1,0,19,1,1,1,Monaco,2021-12-22 Monaco-Rennes,FRA-L1,21-22,95bb1fa2
+a99138af,Jean Lucas,11,BRA,CM,23-183,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Monaco,2021-12-22 Monaco-Rennes,FRA-L1,21-22,95bb1fa2
+15944afd,Eliot Matazo,36,BEL,DM,19-310,88,0,0,0,0,0,0,0,0,41,0,2,2,0.0,0.0,0.0,1,0,31,35,88.6,7,26,2,1,1,Monaco,2021-12-22 Monaco-Rennes,FRA-L1,21-22,95bb1fa2
+06df8256,Benoît Badiashile,5,FRA,"CB,DM",20-271,2,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,1,0,0,0,Monaco,2021-12-22 Monaco-Rennes,FRA-L1,21-22,95bb1fa2
+4f255115,Aurélien Tchouaméni,8,FRA,"DM,CM",21-329,90,0,0,0,0,0,0,1,0,78,1,4,3,0.0,0.0,0.1,2,0,55,68,80.9,10,46,3,1,1,Monaco,2021-12-22 Monaco-Rennes,FRA-L1,21-22,95bb1fa2
+a0415710,Ismail Jakobs,14,SEN,LB,22-127,90,0,0,0,0,0,0,0,0,60,1,1,0,0.0,0.0,0.1,3,0,32,52,61.5,1,31,3,2,2,Monaco,2021-12-22 Monaco-Rennes,FRA-L1,21-22,95bb1fa2
+ad82197c,Axel Disasi,6,FRA,CB,23-286,90,0,0,0,0,0,0,0,0,63,1,0,2,0.0,0.0,0.0,0,0,41,54,75.9,2,33,2,0,0,Monaco,2021-12-22 Monaco-Rennes,FRA-L1,21-22,95bb1fa2
+d9764034,Guillermo Maripán,3,CHI,CB,27-230,90,0,0,0,0,0,0,1,0,50,0,2,1,0.0,0.0,0.0,1,0,30,39,76.9,4,30,0,0,0,Monaco,2021-12-22 Monaco-Rennes,FRA-L1,21-22,95bb1fa2
+4c5b714f,Djibril Sidibé,19,FRA,RB,29-146,90,0,0,0,0,0,0,0,0,75,1,1,1,0.0,0.0,0.1,1,0,51,66,77.3,6,33,0,0,0,Monaco,2021-12-22 Monaco-Rennes,FRA-L1,21-22,95bb1fa2
+afb0c500,Alexander Nübel,16,GER,GK,25-083,90,0,0,0,0,0,0,0,0,34,0,0,0,0.0,0.0,0.0,0,0,16,32,50.0,0,20,0,0,0,Monaco,2021-12-22 Monaco-Rennes,FRA-L1,21-22,95bb1fa2
+7cdda3bf,Gaëtan Laborde,24,FRA,FW,27-233,90,0,1,0,0,3,2,0,0,38,0,0,0,0.3,0.3,0.6,2,1,22,26,84.6,0,21,2,1,1,Rennes,2021-12-22 Monaco-Rennes,FRA-L1,21-22,95bb1fa2
+5148dcc5,Martin Terrier,7,FRA,LW,24-293,75,1,0,0,0,3,2,0,0,37,2,0,1,0.8,0.8,0.0,4,1,18,25,72.0,5,21,3,0,0,Rennes,2021-12-22 Monaco-Rennes,FRA-L1,21-22,95bb1fa2
+a62f8bf1,Kamaldeen Sulemana,10,GHA,LM,19-310,15,0,0,0,0,1,0,0,0,16,0,0,0,0.0,0.0,0.1,3,0,9,10,90.0,2,12,1,5,4,Rennes,2021-12-22 Monaco-Rennes,FRA-L1,21-22,95bb1fa2
+20e73fac,Benjamin Bourigeaud,14,FRA,"RW,RM",27-342,90,0,0,0,0,2,2,0,0,64,2,1,1,0.1,0.1,0.1,7,0,34,54,63.0,5,41,0,0,0,Rennes,2021-12-22 Monaco-Rennes,FRA-L1,21-22,95bb1fa2
+a0f9b535,Flavien Tait,20,FRA,"LM,CM",28-323,90,0,0,0,0,1,0,0,0,60,1,2,0,0.0,0.0,0.1,5,0,37,49,75.5,4,48,1,2,1,Rennes,2021-12-22 Monaco-Rennes,FRA-L1,21-22,95bb1fa2
+468fdbad,Jonas Martin,28,FRA,CM,31-257,75,0,0,0,0,1,0,0,0,50,0,2,0,0.1,0.1,0.0,0,0,33,42,78.6,3,27,0,2,2,Rennes,2021-12-22 Monaco-Rennes,FRA-L1,21-22,95bb1fa2
+923f4dda,Serhou Guirassy,9,GUI,FW,25-285,15,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,1,0,2,3,66.7,0,3,0,0,0,Rennes,2021-12-22 Monaco-Rennes,FRA-L1,21-22,95bb1fa2
+fc46aab1,Lovro Majer,21,CRO,RM,23-339,61,0,0,0,0,1,0,0,0,30,3,0,0,0.0,0.0,0.1,1,0,15,20,75.0,3,18,1,1,1,Rennes,2021-12-22 Monaco-Rennes,FRA-L1,21-22,95bb1fa2
+5e22e2a4,Baptiste Santamaria,8,FRA,"CM,RM",26-288,29,0,0,0,0,1,0,0,0,22,0,1,1,0.1,0.1,0.0,0,0,15,19,78.9,2,14,0,0,0,Rennes,2021-12-22 Monaco-Rennes,FRA-L1,21-22,95bb1fa2
+5d0e0a1f,Adrien Truffert,3,FRA,LB,20-032,90,0,0,0,0,1,0,1,0,71,0,0,1,0.0,0.0,0.0,2,0,45,59,76.3,5,41,4,3,2,Rennes,2021-12-22 Monaco-Rennes,FRA-L1,21-22,95bb1fa2
+114bbdee,Loïc Bade,4,FRA,CB,21-255,90,0,0,0,0,1,0,0,0,72,0,3,2,0.0,0.0,0.0,1,0,48,59,81.4,6,47,0,2,2,Rennes,2021-12-22 Monaco-Rennes,FRA-L1,21-22,95bb1fa2
+4534a352,Warmed Omari,23,FRA,CB,21-243,90,0,0,0,0,0,0,0,0,49,1,0,2,0.0,0.0,0.0,0,0,32,39,82.1,4,30,2,0,0,Rennes,2021-12-22 Monaco-Rennes,FRA-L1,21-22,95bb1fa2
+a4b1028a,Hamari Traoré,27,MLI,RB,29-329,90,0,0,0,0,1,0,0,0,78,2,1,1,0.0,0.0,0.0,1,0,52,61,85.2,8,38,2,1,0,Rennes,2021-12-22 Monaco-Rennes,FRA-L1,21-22,95bb1fa2
+cecbce23,Alfred Gomis,16,SEN,GK,28-108,90,0,0,0,0,0,0,0,0,41,0,0,0,0.0,0.0,0.0,0,0,24,40,60.0,0,26,0,0,0,Rennes,2021-12-22 Monaco-Rennes,FRA-L1,21-22,95bb1fa2

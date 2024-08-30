@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+34e4343c,Anthony Modeste,27,FRA,FW,33-123,75,1,1,0,0,4,1,0,0,22,0,0,0,0.5,0.5,0.0,1,0,6,16,37.5,0,17,0,0,0,Köln,2021-08-15 Köln-Hertha BSC,GER-BL1,21-22,a4e198c5
+b4cf5806,Sebastian Andersson,9,SWE,FW,30-031,15,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,1,1,0,0,Köln,2021-08-15 Köln-Hertha BSC,GER-BL1,21-22,a4e198c5
+a3ddb1b9,Mark Uth,13,GER,FW,29-356,67,0,0,0,0,2,0,0,0,34,2,1,0,0.1,0.1,0.2,5,0,8,18,44.4,0,18,0,2,1,Köln,2021-08-15 Köln-Hertha BSC,GER-BL1,21-22,a4e198c5
+79ca3e23,Ondrej Duda,18,SVK,FW,26-253,23,0,0,0,0,0,0,0,0,20,1,0,0,0.0,0.0,0.0,0,0,9,15,60.0,1,12,0,1,0,Köln,2021-08-15 Köln-Hertha BSC,GER-BL1,21-22,a4e198c5
+c455a2b2,Dejan Ljubicic,7,AUT,AM,23-311,75,0,0,0,0,0,0,0,0,27,0,0,2,0.0,0.0,0.0,2,0,20,24,83.3,4,23,0,1,1,Köln,2021-08-15 Köln-Hertha BSC,GER-BL1,21-22,a4e198c5
+15413fa5,Salih Özcan,6,TUR,AM,23-216,15,0,0,0,0,0,0,0,0,12,1,0,0,0.0,0.0,0.0,0,0,7,9,77.8,0,8,0,0,0,Köln,2021-08-15 Köln-Hertha BSC,GER-BL1,21-22,a4e198c5
+94c18565,Florian Kainz,11,AUT,LM,28-295,75,2,0,0,0,3,3,0,0,40,2,2,0,0.7,0.7,0.2,6,2,21,30,70.0,8,28,2,2,1,Köln,2021-08-15 Köln-Hertha BSC,GER-BL1,21-22,a4e198c5
+b50ec54b,Louis Schaub,21,AUT,LM,26-229,15,0,0,0,0,1,0,0,0,7,0,0,0,0.1,0.1,0.0,1,0,4,6,66.7,3,6,3,1,1,Köln,2021-08-15 Köln-Hertha BSC,GER-BL1,21-22,a4e198c5
+fd53759d,Jan Thielmann,29,GER,RM,19-081,90,0,1,0,0,0,0,1,0,48,1,1,3,0.0,0.0,0.3,5,2,25,35,71.4,4,28,1,2,0,Köln,2021-08-15 Köln-Hertha BSC,GER-BL1,21-22,a4e198c5
+c2211709,Ellyes Skhiri,28,TUN,DM,26-097,90,0,0,0,0,3,1,1,0,66,0,5,1,0.1,0.1,0.0,0,0,44,52,84.6,5,41,0,2,2,Köln,2021-08-15 Köln-Hertha BSC,GER-BL1,21-22,a4e198c5
+c2009df3,Jonas Hector,14,GER,LB,31-080,90,0,0,0,0,0,0,0,0,76,2,4,0,0.0,0.0,0.0,1,0,54,64,84.4,6,49,2,1,0,Köln,2021-08-15 Köln-Hertha BSC,GER-BL1,21-22,a4e198c5
+b0a0698b,Rafael Czichos,5,GER,CB,31-093,90,0,0,0,0,0,0,1,0,87,3,1,2,0.0,0.0,0.0,1,1,67,77,87.0,12,64,1,0,0,Köln,2021-08-15 Köln-Hertha BSC,GER-BL1,21-22,a4e198c5
+94302c52,Timo Hübers,4,GER,CB,25-026,90,0,0,0,0,1,0,1,0,74,3,0,0,0.1,0.1,0.0,0,0,52,62,83.9,2,49,1,0,0,Köln,2021-08-15 Köln-Hertha BSC,GER-BL1,21-22,a4e198c5
+ad00b1a8,Benno Schmitz,2,GER,RB,26-271,83,0,1,0,0,0,0,0,0,59,4,2,0,0.0,0.0,0.3,3,1,36,51,70.6,8,28,2,0,0,Köln,2021-08-15 Köln-Hertha BSC,GER-BL1,21-22,a4e198c5
+76b2817e,Kingsley Ehizibue,19,NED,RB,26-082,7,0,0,0,0,0,0,0,0,11,0,1,0,0.0,0.0,0.1,1,0,6,9,66.7,1,7,1,1,1,Köln,2021-08-15 Köln-Hertha BSC,GER-BL1,21-22,a4e198c5
+3cd9e95a,Timo Horn,1,GER,GK,28-095,90,0,0,0,0,0,0,0,0,37,0,0,0,0.0,0.0,0.0,0,0,30,33,90.9,0,23,0,0,0,Köln,2021-08-15 Köln-Hertha BSC,GER-BL1,21-22,a4e198c5
+dc62b55d,Matheus Cunha,10,BRA,FW,22-080,64,0,1,0,0,2,1,0,0,21,0,0,0,0.3,0.3,0.9,3,2,11,13,84.6,1,13,2,2,1,Hertha BSC,2021-08-15 Köln-Hertha BSC,GER-BL1,21-22,a4e198c5
+0c61c77c,Dodi Lukebakio,11,BEL,FW,23-325,26,0,0,0,0,1,0,0,0,11,0,0,0,0.3,0.3,0.0,1,0,2,4,50.0,0,8,1,3,1,Hertha BSC,2021-08-15 Köln-Hertha BSC,GER-BL1,21-22,a4e198c5
+f36c432f,Stevan Jovetić,19,MNE,LW,31-286,64,1,0,0,0,2,2,0,0,28,0,0,0,0.9,0.9,0.1,2,0,12,21,57.1,2,21,1,2,1,Hertha BSC,2021-08-15 Köln-Hertha BSC,GER-BL1,21-22,a4e198c5
+f972644c,Marco Richter,23,GER,RW,23-264,26,0,0,0,0,0,0,0,0,15,0,2,0,0.0,0.0,0.0,0,0,3,4,75.0,0,8,0,0,0,Hertha BSC,2021-08-15 Köln-Hertha BSC,GER-BL1,21-22,a4e198c5
+b3325a30,Suat Serdar,8,GER,"RW,LW",24-126,90,0,0,0,0,1,1,1,0,34,4,3,1,0.1,0.1,0.1,2,0,13,20,65.0,0,22,1,3,2,Hertha BSC,2021-08-15 Köln-Hertha BSC,GER-BL1,21-22,a4e198c5
+e26fcca3,Santiago Ascacíbar,18,ARG,LM,24-171,90,0,0,0,0,1,0,0,0,49,1,1,3,0.1,0.1,0.1,2,0,28,36,77.8,5,24,2,1,1,Hertha BSC,2021-08-15 Köln-Hertha BSC,GER-BL1,21-22,a4e198c5
+f4ec4fd0,Kevin-Prince Boateng,27,GHA,CM,34-162,58,0,0,0,0,0,0,0,0,30,1,0,0,0.0,0.0,0.0,1,0,21,26,80.8,2,12,0,0,0,Hertha BSC,2021-08-15 Köln-Hertha BSC,GER-BL1,21-22,a4e198c5
+92948149,Lukas Klünter,13,GER,RB,25-081,32,0,0,0,0,0,0,0,0,14,0,0,0,0.0,0.0,0.3,2,0,12,14,85.7,3,7,0,1,1,Hertha BSC,2021-08-15 Köln-Hertha BSC,GER-BL1,21-22,a4e198c5
+71ec39ef,Lucas Tousart,29,FRA,"RM,CM",24-108,90,0,0,0,0,1,0,0,0,29,1,0,0,0.1,0.1,0.0,1,0,16,20,80.0,0,14,1,0,0,Hertha BSC,2021-08-15 Köln-Hertha BSC,GER-BL1,21-22,a4e198c5
+f7aa75bd,Marvin Plattenhardt,21,GER,LB,29-201,90,0,0,0,0,1,0,1,0,61,2,1,1,0.0,0.0,0.2,2,0,32,50,64.0,3,19,0,0,0,Hertha BSC,2021-08-15 Köln-Hertha BSC,GER-BL1,21-22,a4e198c5
+41bff4fa,Márton Dárdai,31,HUN,CB,19-184,90,0,0,0,0,1,1,0,0,49,0,1,3,0.1,0.1,0.0,0,0,20,34,58.8,2,24,2,0,0,Hertha BSC,2021-08-15 Köln-Hertha BSC,GER-BL1,21-22,a4e198c5
+aad48be9,Niklas Stark,5,GER,CB,26-123,90,0,0,0,0,0,0,0,0,45,0,0,0,0.0,0.0,0.0,0,0,26,35,74.3,0,20,0,0,0,Hertha BSC,2021-08-15 Köln-Hertha BSC,GER-BL1,21-22,a4e198c5
+c18d22f5,Peter Pekarík,2,SVK,RB,34-289,58,0,0,0,0,0,0,0,0,53,1,2,0,0.0,0.0,0.0,2,0,24,37,64.9,2,26,1,4,1,Hertha BSC,2021-08-15 Köln-Hertha BSC,GER-BL1,21-22,a4e198c5
+58a2e9f6,Deyovaisio Zeefuik,42,NED,"RM,CM",23-157,32,0,0,0,0,0,0,0,0,10,1,0,2,0.0,0.0,0.0,1,0,5,6,83.3,0,6,0,0,0,Hertha BSC,2021-08-15 Köln-Hertha BSC,GER-BL1,21-22,a4e198c5
+0d55d942,Alexander Schwolow,1,GER,GK,29-074,90,0,0,0,0,0,0,0,0,34,0,0,0,0.0,0.0,0.0,0,0,22,31,71.0,0,13,0,0,0,Hertha BSC,2021-08-15 Köln-Hertha BSC,GER-BL1,21-22,a4e198c5

@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+9dbb75ca,Alexandre Lacazette,10,FRA,FW,31-218,86,0,0,0,0,1,0,0,0,28,2,0,0,0.1,0.1,0.1,1,0,13,22,59.1,2,23,0,2,1,Lyon,2023-01-01 Lyon-Clermont Foot,FRA-L1,22-23,1e8f7f51
+d504b3e1,Jeff Reine-Adélaïde,22,FRA,CM,24-349,4,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,2,0,0,0,Lyon,2023-01-01 Lyon-Clermont Foot,FRA-L1,22-23,1e8f7f51
+5ceba7fc,Karl Toko Ekambi,7,CMR,"LW,LM,FW",30-109,90,0,0,0,0,3,0,0,0,63,1,1,1,0.2,0.2,0.0,2,0,40,49,81.6,1,49,3,5,0,Lyon,2023-01-01 Lyon-Clermont Foot,FRA-L1,22-23,1e8f7f51
+7120a04d,Tetê,11,BRA,RW,22-320,73,0,0,0,0,1,1,0,0,42,3,1,0,0.0,0.0,0.1,3,0,19,27,70.4,2,31,2,6,2,Lyon,2023-01-01 Lyon-Clermont Foot,FRA-L1,22-23,1e8f7f51
+745ca0a3,Romain Faivre,15,FRA,RM,24-171,17,0,0,0,0,0,0,0,0,8,0,0,1,0.0,0.0,0.0,0,0,4,4,100.0,0,6,0,3,2,Lyon,2023-01-01 Lyon-Clermont Foot,FRA-L1,22-23,1e8f7f51
+b34c63a5,Rayan Cherki,18,FRA,AM,19-137,72,0,0,0,0,2,0,0,0,47,2,0,0,0.1,0.1,0.4,9,0,31,38,81.6,7,37,4,7,3,Lyon,2023-01-01 Lyon-Clermont Foot,FRA-L1,22-23,1e8f7f51
+e7986081,Moussa Dembélé,9,FRA,FW,26-173,18,0,0,0,0,0,0,0,0,5,1,0,0,0.0,0.0,0.0,0,0,3,3,100.0,1,3,0,0,0,Lyon,2023-01-01 Lyon-Clermont Foot,FRA-L1,22-23,1e8f7f51
+f81ef10d,Maxence Caqueret,6,FRA,DM,22-320,73,0,0,0,0,1,0,0,0,44,2,2,2,0.0,0.0,0.0,3,0,28,35,80.0,5,29,0,2,1,Lyon,2023-01-01 Lyon-Clermont Foot,FRA-L1,22-23,1e8f7f51
+a5db0bec,Houssem Aouar,8,ALG,"CM,LM",24-185,17,0,0,0,0,0,0,0,0,17,0,1,1,0.0,0.0,0.0,0,0,10,12,83.3,1,12,0,0,0,Lyon,2023-01-01 Lyon-Clermont Foot,FRA-L1,22-23,1e8f7f51
+c6e5d20f,Thiago Mendes,23,BRA,"DM,CM",30-292,89,0,0,0,0,0,0,0,0,95,2,1,1,0.0,0.0,0.1,2,0,74,85,87.1,12,78,0,0,0,Lyon,2023-01-01 Lyon-Clermont Foot,FRA-L1,22-23,1e8f7f51
+a0d55a09,Bradley Barcola,26,FRA,LM,20-121,1,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,0,0,Lyon,2023-01-01 Lyon-Clermont Foot,FRA-L1,22-23,1e8f7f51
+1ec7e1c5,Damien Da Silva,21,FRA,LB,34-229,90,0,0,0,0,0,0,0,0,97,5,0,2,0.0,0.0,0.0,1,0,72,82,87.8,6,62,0,0,0,Lyon,2023-01-01 Lyon-Clermont Foot,FRA-L1,22-23,1e8f7f51
+5b9512c5,Castello Lukeba,4,FRA,CB,20-015,90,0,0,0,0,1,0,0,0,75,0,2,4,0.1,0.1,0.0,0,0,58,63,92.1,2,60,0,0,0,Lyon,2023-01-01 Lyon-Clermont Foot,FRA-L1,22-23,1e8f7f51
+6de23ab0,Sinaly Diomande,2,CIV,CB,21-267,90,0,0,0,0,2,0,0,0,88,3,3,1,0.1,0.1,0.0,0,0,68,78,87.2,7,65,1,0,0,Lyon,2023-01-01 Lyon-Clermont Foot,FRA-L1,22-23,1e8f7f51
+c385bf49,Sael Kumbedi,20,FRA,RB,17-281,90,0,0,0,0,2,1,1,0,72,0,0,0,0.1,0.1,0.0,2,0,50,56,89.3,2,54,0,5,2,Lyon,2023-01-01 Lyon-Clermont Foot,FRA-L1,22-23,1e8f7f51
+f00de885,Anthony Lopes,1,POR,GK,32-092,90,0,0,0,0,0,0,0,0,28,0,0,0,0.0,0.0,0.0,0,0,23,25,92.0,0,21,0,0,0,Lyon,2023-01-01 Lyon-Clermont Foot,FRA-L1,22-23,1e8f7f51
+af3ddb2e,Komnen Andrić,9,SRB,FW,27-184,80,0,0,0,0,2,1,0,0,34,1,0,0,0.1,0.1,0.0,2,0,13,22,59.1,1,22,0,0,0,Clermont Foot,2023-01-01 Lyon-Clermont Foot,FRA-L1,22-23,1e8f7f51
+397ba086,Grejohn Kyei,95,FRA,FW,27-142,10,0,0,0,0,2,0,0,0,11,0,0,0,0.1,0.1,0.0,1,0,2,4,50.0,0,8,2,2,0,Clermont Foot,2023-01-01 Lyon-Clermont Foot,FRA-L1,22-23,1e8f7f51
+25749008,Elba Rashani,18,KVX,AM,29-237,71,0,0,0,0,0,0,0,0,32,2,1,1,0.0,0.0,0.0,1,0,12,19,63.2,1,20,0,2,0,Clermont Foot,2023-01-01 Lyon-Clermont Foot,FRA-L1,22-23,1e8f7f51
+5680bf3f,Jérémie Bela,91,ANG,AM,29-268,19,0,0,0,0,0,0,0,0,13,0,1,1,0.0,0.0,0.0,1,0,7,10,70.0,0,10,1,1,0,Clermont Foot,2023-01-01 Lyon-Clermont Foot,FRA-L1,22-23,1e8f7f51
+796b1c41,Saîf-Eddine Khaoui,10,TUN,AM,27-249,89,0,0,0,0,2,0,1,0,33,1,1,1,0.0,0.0,0.1,3,0,15,26,57.7,1,20,0,2,2,Clermont Foot,2023-01-01 Lyon-Clermont Foot,FRA-L1,22-23,1e8f7f51
+7e3e825e,Brandon Baiye,23,BEL,AM,22-005,1,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,1,0,2,2,100.0,1,1,0,0,0,Clermont Foot,2023-01-01 Lyon-Clermont Foot,FRA-L1,22-23,1e8f7f51
+caa7aaea,Yohann Magnin,7,FRA,CM,25-194,90,0,0,0,0,1,0,0,0,50,4,1,0,0.0,0.0,0.1,1,0,34,40,85.0,4,33,0,2,0,Clermont Foot,2023-01-01 Lyon-Clermont Foot,FRA-L1,22-23,1e8f7f51
+868eaba0,Johan Gastien,25,FRA,CM,34-341,90,0,0,0,0,2,1,0,0,74,6,1,2,0.1,0.1,0.0,5,0,45,58,77.6,3,55,0,2,0,Clermont Foot,2023-01-01 Lyon-Clermont Foot,FRA-L1,22-23,1e8f7f51
+9f936061,Neto Borges,3,BRA,WB,26-110,90,0,0,0,0,2,0,0,0,46,6,3,2,0.1,0.1,0.0,2,0,25,31,80.6,3,26,4,2,1,Clermont Foot,2023-01-01 Lyon-Clermont Foot,FRA-L1,22-23,1e8f7f51
+1956b948,Jim Allevinah,11,GAB,WB,27-308,71,0,0,0,0,1,0,0,0,21,2,1,0,0.0,0.0,0.0,1,0,7,12,58.3,1,16,4,2,0,Clermont Foot,2023-01-01 Lyon-Clermont Foot,FRA-L1,22-23,1e8f7f51
+f527a32c,Muhammed Cham,70,AUT,WB,22-097,19,1,0,1,1,0,0,1,0,12,0,0,0,0.8,0.0,0.0,0,0,8,10,80.0,0,8,0,0,0,Clermont Foot,2023-01-01 Lyon-Clermont Foot,FRA-L1,22-23,1e8f7f51
+6993927b,Florent Ogier,21,FRA,CB,33-286,90,0,0,0,0,0,0,0,0,47,2,1,1,0.0,0.0,0.0,2,1,36,42,85.7,7,36,0,0,0,Clermont Foot,2023-01-01 Lyon-Clermont Foot,FRA-L1,22-23,1e8f7f51
+3ecc8c5f,Mateusz Wieteska,4,POL,CB,25-324,90,0,0,0,0,0,0,1,0,41,0,0,3,0.0,0.0,0.0,1,0,24,33,72.7,0,26,0,0,0,Clermont Foot,2023-01-01 Lyon-Clermont Foot,FRA-L1,22-23,1e8f7f51
+cea59f02,Alidu Seidu,36,GHA,CB,22-211,90,0,0,0,0,0,0,0,0,53,2,3,1,0.0,0.0,0.0,2,0,32,41,78.0,0,36,0,4,0,Clermont Foot,2023-01-01 Lyon-Clermont Foot,FRA-L1,22-23,1e8f7f51
+f41a69e6,Mory Diaw,99,SEN,GK,29-193,90,0,0,0,0,0,0,0,0,42,0,1,0,0.0,0.0,0.0,0,0,31,40,77.5,0,24,0,0,0,Clermont Foot,2023-01-01 Lyon-Clermont Foot,FRA-L1,22-23,1e8f7f51

@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+a4fe8cda,Patrick Cutrone,63,ITA,FW,20-064,68,0,0,0,0,1,0,0,0,18,0,0,0,0.1,0.1,0.0,0,0,10,12,83.3,0,8,1,1,1,Milan,2018-03-08 Milan-Arsenal,UEL,17-18,c8be2a0e
+3effaa34,André Silva,9,POR,FW,22-122,22,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,1,0,4,7,57.1,1,7,1,0,0,Milan,2018-03-08 Milan-Arsenal,UEL,17-18,c8be2a0e
+cd0fa27b,Hakan Çalhanoğlu,10,TUR,LW,24-028,61,0,0,0,0,1,0,0,0,47,2,0,0,0.0,0.0,0.7,6,0,33,42,78.6,3,32,6,0,0,Milan,2018-03-08 Milan-Arsenal,UEL,17-18,c8be2a0e
+d4931a5a,Nikola Kalinić,7,CRO,FW,30-062,29,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,1,0,0,0,Milan,2018-03-08 Milan-Arsenal,UEL,17-18,c8be2a0e
+4e219ad2,Suso,8,ESP,"RW,RM",24-109,90,0,0,0,0,3,0,0,0,61,1,0,0,0.1,0.1,0.0,3,0,27,49,55.1,5,44,4,4,3,Milan,2018-03-08 Milan-Arsenal,UEL,17-18,c8be2a0e
+d995ed27,Giacomo Bonaventura,5,ITA,LM,28-198,90,0,0,0,0,7,1,0,0,72,0,0,2,0.3,0.3,0.1,5,0,35,50,70.0,3,45,5,2,0,Milan,2018-03-08 Milan-Arsenal,UEL,17-18,c8be2a0e
+5710a281,Lucas Biglia,21,ARG,CM,32-037,90,0,0,0,0,0,0,0,0,81,9,2,4,0.0,0.0,0.0,2,0,59,63,93.7,7,45,0,0,0,Milan,2018-03-08 Milan-Arsenal,UEL,17-18,c8be2a0e
+05e19d6a,Franck Kessié,79,CIV,"RM,CM",21-079,90,0,0,0,0,1,0,0,0,61,5,1,0,0.1,0.1,0.0,2,0,43,50,86.0,5,48,3,1,1,Milan,2018-03-08 Milan-Arsenal,UEL,17-18,c8be2a0e
+7f78ad23,Ricardo Rodríguez,68,SUI,LB,25-195,90,0,0,0,0,1,0,0,0,79,0,0,1,0.0,0.0,0.0,2,0,58,72,80.6,10,58,3,0,0,Milan,2018-03-08 Milan-Arsenal,UEL,17-18,c8be2a0e
+3ead85f9,Alessio Romagnoli,13,ITA,CB,23-055,90,0,0,0,0,1,0,0,0,95,0,1,0,0.1,0.1,0.0,1,0,80,89,89.9,4,70,0,1,0,Milan,2018-03-08 Milan-Arsenal,UEL,17-18,c8be2a0e
+52ec54d0,Leonardo Bonucci,19,ITA,CB,30-311,90,0,0,0,0,1,0,0,0,63,1,0,0,0.5,0.5,0.0,3,0,41,57,71.9,9,42,1,0,0,Milan,2018-03-08 Milan-Arsenal,UEL,17-18,c8be2a0e
+2146785a,Davide Calabria,2,ITA,RB,21-092,78,0,0,0,0,0,0,0,0,63,3,1,1,0.0,0.0,0.1,2,0,38,51,74.5,7,31,3,1,0,Milan,2018-03-08 Milan-Arsenal,UEL,17-18,c8be2a0e
+ef5b337e,Fabio Borini,11,ITA,RB,26-344,12,0,0,0,0,0,0,0,0,18,0,0,0,0.0,0.0,0.1,1,0,9,16,56.3,3,9,2,0,0,Milan,2018-03-08 Milan-Arsenal,UEL,17-18,c8be2a0e
+08f5afaa,Gianluigi Donnarumma,99,ITA,GK,19-011,90,0,0,0,0,0,0,0,0,32,0,0,0,0.0,0.0,0.0,0,0,29,31,93.5,0,23,0,0,0,Milan,2018-03-08 Milan-Arsenal,UEL,17-18,c8be2a0e
+ce5143da,Danny Welbeck,23,ENG,FW,27-102,90,0,0,0,0,2,1,0,0,38,0,1,4,0.2,0.2,0.0,3,0,18,24,75.0,1,19,4,2,1,Arsenal,2018-03-08 Milan-Arsenal,UEL,17-18,c8be2a0e
+dd0daf32,Henrikh Mkhitaryan,77,ARM,"LW,AM",29-046,90,1,0,0,0,3,1,0,0,68,3,1,2,0.2,0.2,0.1,3,0,39,49,79.6,7,35,4,9,5,Arsenal,2018-03-08 Milan-Arsenal,UEL,17-18,c8be2a0e
+16380240,Mesut Özil,11,GER,RW,29-144,79,0,2,0,0,0,0,0,0,47,0,0,0,0.0,0.0,1.0,3,2,39,45,86.7,7,42,2,2,0,Arsenal,2018-03-08 Milan-Arsenal,UEL,17-18,c8be2a0e
+d79a8c87,Rob Holding,16,ENG,CB,22-169,11,0,0,0,0,0,0,0,0,5,1,0,1,0.0,0.0,0.0,0,0,2,3,66.7,0,1,0,0,0,Arsenal,2018-03-08 Milan-Arsenal,UEL,17-18,c8be2a0e
+9c318325,Jack Wilshere,10,ENG,AM,26-066,90,0,0,0,0,0,0,0,0,41,0,1,0,0.0,0.0,0.1,2,0,26,33,78.8,0,30,1,3,2,Arsenal,2018-03-08 Milan-Arsenal,UEL,17-18,c8be2a0e
+e61b8aee,Granit Xhaka,29,SUI,"DM,CM",25-162,90,0,0,0,0,1,0,0,0,86,0,2,2,0.0,0.0,0.0,1,0,73,77,94.8,6,57,0,1,0,Arsenal,2018-03-08 Milan-Arsenal,UEL,17-18,c8be2a0e
+ef619b0b,Aaron Ramsey,8,WAL,"DM,CM",27-072,90,1,0,0,0,1,1,1,0,80,1,1,1,0.9,0.9,0.0,3,2,60,72,83.3,5,52,2,2,1,Arsenal,2018-03-08 Milan-Arsenal,UEL,17-18,c8be2a0e
+3935e52e,Sead Kolašinac,31,BIH,LB,24-261,61,0,0,0,0,0,0,1,0,50,1,0,4,0.0,0.0,0.0,0,0,32,39,82.1,4,34,1,6,3,Arsenal,2018-03-08 Milan-Arsenal,UEL,17-18,c8be2a0e
+e3a5814e,Ainsley Maitland-Niles,30,ENG,"LB,WB",20-191,29,0,0,0,0,0,0,0,0,24,2,1,2,0.0,0.0,0.0,0,0,14,17,82.4,1,12,0,0,0,Arsenal,2018-03-08 Milan-Arsenal,UEL,17-18,c8be2a0e
+f5efb153,Laurent Koscielny,6,FRA,CB,32-179,90,0,0,0,0,0,0,0,0,57,0,4,1,0.0,0.0,0.0,0,0,38,43,88.4,1,36,0,0,0,Arsenal,2018-03-08 Milan-Arsenal,UEL,17-18,c8be2a0e
+3f2d59fe,Shkodran Mustafi,20,GER,CB,25-325,90,0,0,0,0,0,0,0,0,60,0,2,2,0.0,0.0,0.0,0,0,37,47,78.7,2,44,0,0,0,Arsenal,2018-03-08 Milan-Arsenal,UEL,17-18,c8be2a0e
+dc6f5bdd,Calum Chambers,21,ENG,"RB,WB",23-047,84,0,0,0,0,1,1,0,0,64,1,2,1,0.0,0.0,0.0,0,0,35,52,67.3,2,27,1,1,1,Arsenal,2018-03-08 Milan-Arsenal,UEL,17-18,c8be2a0e
+47a34c4f,Mohamed Elneny,35,EGY,WB,25-240,6,0,0,0,0,0,0,0,0,20,1,0,0,0.0,0.0,0.0,0,0,14,18,77.8,0,9,1,0,0,Arsenal,2018-03-08 Milan-Arsenal,UEL,17-18,c8be2a0e
+82b1198a,David Ospina,13,COL,GK,29-189,90,0,0,0,0,0,0,0,0,45,0,0,0,0.0,0.0,0.0,0,0,31,44,70.5,0,16,0,0,0,Arsenal,2018-03-08 Milan-Arsenal,UEL,17-18,c8be2a0e

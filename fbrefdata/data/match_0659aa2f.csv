@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+b70afb45,Thijs Dallinga,27,NED,FW,22-227,78,0,0,0,0,2,1,0,0,23,0,0,1,0.3,0.3,0.0,2,0,12,18,66.7,1,20,0,2,2,Toulouse,2023-03-18 Toulouse-Lille,FRA-L1,22-23,0659aa2f
+ff4df82e,Ado Onaiwu,7,JPN,FW,27-130,12,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.1,1,0,1,2,50.0,1,2,0,0,0,Toulouse,2023-03-18 Toulouse-Lille,FRA-L1,22-23,0659aa2f
+357103bd,Fares Chaïbi,28,ALG,"LW,AM",20-110,78,0,0,0,0,4,1,0,0,53,0,3,3,0.2,0.2,0.0,3,0,31,39,79.5,3,37,2,1,1,Toulouse,2023-03-18 Toulouse-Lille,FRA-L1,22-23,0659aa2f
+92ffb8f9,Vincent Sierro,13,SUI,AM,27-161,12,0,0,0,0,1,1,1,0,9,0,0,0,0.2,0.2,0.0,0,0,7,7,100.0,1,8,0,0,0,Toulouse,2023-03-18 Toulouse-Lille,FRA-L1,22-23,0659aa2f
+c2a6033c,Zakaria Aboukhlal,6,MAR,RW,23-028,90,0,0,0,0,2,0,0,0,52,2,3,0,0.9,0.9,0.0,1,0,25,37,67.6,7,44,4,3,1,Toulouse,2023-03-18 Toulouse-Lille,FRA-L1,22-23,0659aa2f
+4ca4f601,Brecht Dejaegere,10,BEL,AM,31-293,65,0,0,0,0,0,0,0,0,32,1,0,2,0.0,0.0,0.2,3,0,18,24,75.0,4,27,2,3,1,Toulouse,2023-03-18 Toulouse-Lille,FRA-L1,22-23,0659aa2f
+40ef7347,Rafael Ratão,21,BRA,LW,27-108,25,0,0,0,0,2,0,0,0,20,1,0,0,0.4,0.4,0.0,2,0,14,16,87.5,0,17,1,0,0,Toulouse,2023-03-18 Toulouse-Lille,FRA-L1,22-23,0659aa2f
+99d660b2,Branco van den Boomen,8,NED,DM,27-240,90,0,0,0,0,0,0,0,0,77,5,0,0,0.0,0.0,0.9,8,0,54,69,78.3,6,51,0,0,0,Toulouse,2023-03-18 Toulouse-Lille,FRA-L1,22-23,0659aa2f
+a08985b8,Stijn Spierings,17,NED,DM,27-006,87,0,0,0,0,4,0,0,0,61,1,0,5,0.2,0.2,0.9,3,0,39,48,81.3,2,43,1,0,0,Toulouse,2023-03-18 Toulouse-Lille,FRA-L1,22-23,0659aa2f
+badcdcae,Denis Genreau,5,AUS,DM,23-301,3,0,0,0,0,0,0,0,0,4,0,0,1,0.0,0.0,0.0,0,0,2,2,100.0,0,1,0,0,0,Toulouse,2023-03-18 Toulouse-Lille,FRA-L1,22-23,0659aa2f
+39b326ed,Gabriel Suazo,15,CHI,LB,25-221,90,0,0,0,0,0,0,0,0,72,5,3,2,0.0,0.0,0.0,2,0,53,57,93.0,5,57,0,2,2,Toulouse,2023-03-18 Toulouse-Lille,FRA-L1,22-23,0659aa2f
+3f319bb9,Rasmus Nicolaisen,2,DEN,CB,26-002,90,0,0,0,0,0,0,1,0,46,2,1,2,0.0,0.0,0.0,0,0,29,33,87.9,0,32,0,0,0,Toulouse,2023-03-18 Toulouse-Lille,FRA-L1,22-23,0659aa2f
+9b545925,Anthony Rouault,4,FRA,CB,21-293,90,0,0,0,0,1,1,0,0,52,3,1,1,0.2,0.2,0.1,1,0,36,43,83.7,2,43,0,1,1,Toulouse,2023-03-18 Toulouse-Lille,FRA-L1,22-23,0659aa2f
+a426a912,Waren Kamanzi,26,NOR,RB,22-127,90,0,0,0,0,0,0,0,0,65,1,2,2,0.0,0.0,0.0,1,0,47,55,85.5,4,41,4,4,3,Toulouse,2023-03-18 Toulouse-Lille,FRA-L1,22-23,0659aa2f
+0e12089d,Maxime Dupé,30,FRA,GK,30-014,90,0,0,0,0,0,0,0,0,36,0,0,0,0.0,0.0,0.0,0,0,32,35,91.4,0,27,0,0,0,Toulouse,2023-03-18 Toulouse-Lille,FRA-L1,22-23,0659aa2f
+ce50fd99,Jonathan David,9,CAN,FW,23-063,88,0,0,0,0,1,0,0,0,35,0,1,0,0.1,0.1,0.4,6,0,21,28,75.0,4,33,5,3,2,Lille,2023-03-18 Toulouse-Lille,FRA-L1,22-23,0659aa2f
+6763f716,Leny Yoro,15,FRA,CB,17-125,2,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Lille,2023-03-18 Toulouse-Lille,FRA-L1,22-23,0659aa2f
+b2bd0f6c,Jonathan Bamba,7,CIV,"LW,LM,AM",26-357,90,0,0,0,0,3,0,0,0,45,2,0,1,0.5,0.5,0.1,3,0,23,28,82.1,5,33,1,4,0,Lille,2023-03-18 Toulouse-Lille,FRA-L1,22-23,0659aa2f
+ed90babd,Adam Ounas,11,ALG,RW,26-127,69,0,0,0,0,2,1,0,0,38,1,1,0,0.1,0.1,0.1,1,0,20,30,66.7,1,28,2,6,4,Lille,2023-03-18 Toulouse-Lille,FRA-L1,22-23,0659aa2f
+34a88e3e,Edon Zhegrova,23,KVX,"RM,RW,AM",23-352,21,0,1,0,0,2,0,0,0,12,0,0,0,0.2,0.2,0.1,3,2,2,7,28.6,1,10,3,5,3,Lille,2023-03-18 Toulouse-Lille,FRA-L1,22-23,0659aa2f
+148e136f,Rémy Cabella,10,FRA,AM,33-010,78,0,0,0,0,1,0,0,0,47,1,0,0,0.0,0.0,0.2,6,0,33,44,75.0,7,34,5,5,3,Lille,2023-03-18 Toulouse-Lille,FRA-L1,22-23,0659aa2f
+01870104,Mohamed Lamine Bayo,27,GUI,FW,24-287,12,1,0,0,0,1,1,0,0,3,0,0,0,0.1,0.1,0.0,0,0,1,2,50.0,0,1,1,0,0,Lille,2023-03-18 Toulouse-Lille,FRA-L1,22-23,0659aa2f
+645a3363,Angel Gomes,20,ENG,DM,22-199,79,0,0,0,0,0,0,0,0,53,1,0,2,0.0,0.0,0.1,3,0,38,45,84.4,7,45,0,1,1,Lille,2023-03-18 Toulouse-Lille,FRA-L1,22-23,0659aa2f
+a1390d2f,Carlos Baleba,35,CMR,"CM,DM",19-074,11,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,3,0,0,0,Lille,2023-03-18 Toulouse-Lille,FRA-L1,22-23,0659aa2f
+1961b2aa,André Gomes,28,POR,"DM,CM",29-231,90,0,0,0,0,1,0,0,0,85,0,0,1,0.1,0.1,0.0,1,0,68,75,90.7,10,70,2,1,1,Lille,2023-03-18 Toulouse-Lille,FRA-L1,22-23,0659aa2f
+d5d22a58,Gabriel Gudmundsson,5,SWE,LB,23-323,90,0,0,0,0,1,0,0,0,68,4,0,3,0.0,0.0,0.1,2,0,46,55,83.6,1,44,2,2,2,Lille,2023-03-18 Toulouse-Lille,FRA-L1,22-23,0659aa2f
+102c9665,Alexsandro Ribeiro,4,BRA,CB,23-221,90,1,0,0,0,3,2,0,0,91,1,3,2,0.2,0.2,0.0,0,0,72,76,94.7,5,67,0,1,0,Lille,2023-03-18 Toulouse-Lille,FRA-L1,22-23,0659aa2f
+90f87966,José Fonte,6,POR,CB,39-086,90,0,0,0,0,0,0,0,0,81,0,1,0,0.0,0.0,0.0,0,0,71,77,92.2,2,68,0,0,0,Lille,2023-03-18 Toulouse-Lille,FRA-L1,22-23,0659aa2f
+8eec784d,Timothy Weah,22,USA,RB,23-024,89,0,0,0,0,3,0,0,0,69,1,1,2,0.1,0.1,0.0,4,0,54,60,90.0,4,55,12,4,3,Lille,2023-03-18 Toulouse-Lille,FRA-L1,22-23,0659aa2f
+ed8cecc9,Simon Ramet,38,FRA,RB,20-005,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Lille,2023-03-18 Toulouse-Lille,FRA-L1,22-23,0659aa2f
+b3d76d84,Lucas Chevalier,30,FRA,GK,21-132,90,0,0,0,0,0,0,0,0,28,0,0,0,0.0,0.0,0.0,0,0,21,24,87.5,0,16,0,0,0,Lille,2023-03-18 Toulouse-Lille,FRA-L1,22-23,0659aa2f

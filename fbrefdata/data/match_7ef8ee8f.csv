@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+d37b0350,Leonardo Pavoletti,30,ITA,FW,32-003,76,1,0,0,0,1,1,0,0,25,0,0,0,0.3,0.3,0.0,1,0,12,20,60.0,0,15,0,0,0,Cagliari,2020-11-29 Cagliari-Spezia,ITA-SERIA_A,20-21,7ef8ee8f
+1079c685,Alberto Cerri,27,ITA,FW,24-227,14,0,0,0,0,1,0,0,0,6,0,0,0,0.1,0.1,0.3,3,0,4,4,100.0,2,6,0,1,1,Cagliari,2020-11-29 Cagliari-Spezia,ITA-SERIA_A,20-21,7ef8ee8f
+94816803,Riccardo Sottil,33,ITA,LW,21-179,88,0,0,0,0,3,1,0,0,24,0,0,0,0.4,0.4,0.6,3,0,14,18,77.8,2,19,5,5,4,Cagliari,2020-11-29 Cagliari-Spezia,ITA-SERIA_A,20-21,7ef8ee8f
+22ca11f1,Fabrizio Caligara,12,ITA,LW,20-231,2,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,0,2,0.0,0,1,0,0,0,Cagliari,2020-11-29 Cagliari-Spezia,ITA-SERIA_A,20-21,7ef8ee8f
+ed90babd,Adam Ounas,37,ALG,RW,24-018,76,0,0,0,0,2,0,0,0,41,1,1,1,0.6,0.6,0.2,5,2,14,22,63.6,4,22,1,15,9,Cagliari,2020-11-29 Cagliari-Spezia,ITA-SERIA_A,20-21,7ef8ee8f
+9085dd7c,Paolo Faragò,24,ITA,RW,27-291,14,0,0,0,0,0,0,0,0,13,1,0,0,0.0,0.0,0.1,1,0,10,11,90.9,1,5,0,0,0,Cagliari,2020-11-29 Cagliari-Spezia,ITA-SERIA_A,20-21,7ef8ee8f
+81255c03,João Pedro,10,ITA,AM,28-265,90,1,0,0,0,3,2,0,0,37,0,0,1,0.3,0.3,0.0,1,0,13,25,52.0,2,23,1,5,2,Cagliari,2020-11-29 Cagliari-Spezia,ITA-SERIA_A,20-21,7ef8ee8f
+b6b2b820,Marko Rog,6,CRO,DM,25-133,90,0,0,0,0,1,0,0,0,45,6,1,0,0.0,0.0,0.0,2,0,29,33,87.9,3,19,2,1,0,Cagliari,2020-11-29 Cagliari-Spezia,ITA-SERIA_A,20-21,7ef8ee8f
+7fac99d4,Răzvan Marin,8,ROU,DM,24-190,90,0,0,0,0,0,0,0,0,43,1,3,1,0.0,0.0,0.2,1,0,31,36,86.1,3,22,0,1,0,Cagliari,2020-11-29 Cagliari-Spezia,ITA-SERIA_A,20-21,7ef8ee8f
+f7e2af2c,Andrea Carboni,44,ITA,LB,19-299,72,0,0,0,0,0,0,0,0,36,1,3,1,0.0,0.0,0.0,0,0,15,30,50.0,1,10,1,0,0,Cagliari,2020-11-29 Cagliari-Spezia,ITA-SERIA_A,20-21,7ef8ee8f
+4571fa88,Alessandro Tripaldelli,3,ITA,LB,21-294,18,0,0,0,0,0,0,0,0,9,0,1,0,0.0,0.0,0.0,0,0,3,6,50.0,1,2,0,0,0,Cagliari,2020-11-29 Cagliari-Spezia,ITA-SERIA_A,20-21,7ef8ee8f
+008a6e6d,Ragnar Klavan,15,EST,CB,35-030,90,0,0,0,0,0,0,0,0,48,1,0,0,0.0,0.0,0.0,1,0,27,41,65.9,1,20,0,0,0,Cagliari,2020-11-29 Cagliari-Spezia,ITA-SERIA_A,20-21,7ef8ee8f
+217875a4,Sebastian Walukiewicz,40,POL,CB,20-238,90,0,0,0,0,1,1,0,0,55,1,3,0,0.1,0.1,0.0,0,0,34,44,77.3,1,28,0,0,0,Cagliari,2020-11-29 Cagliari-Spezia,ITA-SERIA_A,20-21,7ef8ee8f
+ca3db240,Gabriele Zappa,25,ITA,RB,20-343,90,0,1,0,0,0,0,0,0,55,0,5,1,0.0,0.0,0.3,4,2,30,44,68.2,3,17,0,0,0,Cagliari,2020-11-29 Cagliari-Spezia,ITA-SERIA_A,20-21,7ef8ee8f
+f554e29b,Alessio Cragno,28,ITA,GK,26-154,90,0,0,0,0,0,0,0,0,46,0,0,0,0.0,0.0,0.0,0,0,28,43,65.1,0,21,0,0,0,Cagliari,2020-11-29 Cagliari-Spezia,ITA-SERIA_A,20-21,7ef8ee8f
+a4948e67,M'Bala Nzola,18,ANG,FW,24-103,90,1,0,1,1,0,0,0,0,32,0,0,1,0.8,0.0,0.2,3,0,20,23,87.0,2,21,1,0,0,Spezia,2020-11-29 Cagliari-Spezia,ITA-SERIA_A,20-21,7ef8ee8f
+f9758dae,Emmanuel Gyasi,11,GHA,LW,26-323,79,1,0,0,0,1,1,0,0,44,1,1,1,0.6,0.6,0.2,5,0,29,38,76.3,4,34,5,2,1,Spezia,2020-11-29 Cagliari-Spezia,ITA-SERIA_A,20-21,7ef8ee8f
+46fa7204,Kevin Agudelo,80,COL,LW,22-015,11,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,1,0,0,0,Spezia,2020-11-29 Cagliari-Spezia,ITA-SERIA_A,20-21,7ef8ee8f
+157d29b6,Diego Farias,17,BRA,RW,30-203,90,0,0,0,0,3,1,0,0,48,0,0,0,0.2,0.2,0.0,3,1,32,39,82.1,4,28,2,2,1,Spezia,2020-11-29 Cagliari-Spezia,ITA-SERIA_A,20-21,7ef8ee8f
+957e4c87,Giulio Maggiore,25,ITA,LM,22-262,90,0,0,0,0,5,1,0,0,54,2,2,1,0.6,0.6,0.0,0,0,25,35,71.4,2,26,0,3,2,Spezia,2020-11-29 Cagliari-Spezia,ITA-SERIA_A,20-21,7ef8ee8f
+3cf7dc7e,Matteo Ricci,8,ITA,CM,26-186,83,0,0,0,0,0,0,0,0,64,3,1,0,0.0,0.0,0.0,3,0,48,57,84.2,5,41,0,0,0,Spezia,2020-11-29 Cagliari-Spezia,ITA-SERIA_A,20-21,7ef8ee8f
+1cadaf34,Roberto Piccoli,91,ITA,CM,19-307,7,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,1,1,1,4,25.0,0,4,0,0,0,Spezia,2020-11-29 Cagliari-Spezia,ITA-SERIA_A,20-21,7ef8ee8f
+cec60a2f,Nahuel Estévez,24,ARG,RM,25-015,62,0,0,0,0,1,1,1,0,44,0,1,2,0.0,0.0,0.0,2,0,26,36,72.2,3,27,1,0,0,Spezia,2020-11-29 Cagliari-Spezia,ITA-SERIA_A,20-21,7ef8ee8f
+7f267d66,Alessandro Deiola,27,ITA,RM,25-120,28,0,0,0,0,0,0,0,0,19,0,0,0,0.0,0.0,0.1,2,0,14,17,82.4,4,8,0,1,1,Spezia,2020-11-29 Cagliari-Spezia,ITA-SERIA_A,20-21,7ef8ee8f
+1ac232b8,Simone Bastoni,20,ITA,LB,24-024,90,0,1,0,0,1,0,0,0,80,6,2,2,0.0,0.0,0.6,2,2,46,65,70.8,6,41,4,3,3,Spezia,2020-11-29 Cagliari-Spezia,ITA-SERIA_A,20-21,7ef8ee8f
+5570e6fb,Claudio Terzi,19,ITA,CB,36-163,62,0,0,0,0,0,0,1,0,64,0,4,0,0.0,0.0,0.0,0,0,50,57,87.7,4,53,2,0,0,Spezia,2020-11-29 Cagliari-Spezia,ITA-SERIA_A,20-21,7ef8ee8f
+ae7058f9,Julian Chabot,22,GER,CB,22-291,28,0,0,0,0,2,0,1,0,26,1,1,0,0.1,0.1,0.2,1,0,10,18,55.6,2,11,0,0,0,Spezia,2020-11-29 Cagliari-Spezia,ITA-SERIA_A,20-21,7ef8ee8f
+0fee6bda,Martin Erlic,28,CRO,CB,22-310,90,0,0,0,0,1,0,0,0,74,1,3,0,0.0,0.0,0.0,1,0,52,61,85.2,3,46,0,0,0,Spezia,2020-11-29 Cagliari-Spezia,ITA-SERIA_A,20-21,7ef8ee8f
+eb76987d,Salvador Ferrer,21,ESP,RB,22-313,45,0,0,0,0,0,0,1,0,41,0,3,0,0.0,0.0,0.0,0,0,31,38,81.6,3,27,2,1,1,Spezia,2020-11-29 Cagliari-Spezia,ITA-SERIA_A,20-21,7ef8ee8f
+da5a981b,Jacopo Sala,7,ITA,RB,28-360,45,0,0,0,0,0,0,0,0,36,5,2,0,0.0,0.0,0.3,2,0,25,29,86.2,3,18,1,1,1,Spezia,2020-11-29 Cagliari-Spezia,ITA-SERIA_A,20-21,7ef8ee8f
+277da414,Ivan Provedel,94,ITA,GK,26-257,90,0,0,0,0,0,0,0,0,58,1,0,0,0.0,0.0,0.0,0,0,43,54,79.6,0,41,0,0,0,Spezia,2020-11-29 Cagliari-Spezia,ITA-SERIA_A,20-21,7ef8ee8f

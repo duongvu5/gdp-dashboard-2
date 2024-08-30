@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+6f8cd6d0,Marcus Thuram,10,FRA,FW,25-064,90,1,0,0,0,5,2,0,0,29,0,0,2,0.9,0.9,0.0,2,0,13,14,92.9,1,20,2,3,2,Mönchengladbach,2022-10-09 Gladbach-Köln,GER-BL1,22-23,17ff2fd2
+7cd6badb,Lars Stindl,13,GER,LW,34-044,51,1,0,0,0,1,1,1,0,20,0,0,0,0.0,0.0,0.0,0,0,9,16,56.3,0,10,0,0,0,Mönchengladbach,2022-10-09 Gladbach-Köln,GER-BL1,22-23,17ff2fd2
+bc6bd723,Alassane Pléa,14,FRA,LW,29-213,39,0,1,0,0,2,0,0,0,35,0,0,1,0.4,0.4,0.2,2,2,25,31,80.6,6,32,3,0,0,Mönchengladbach,2022-10-09 Gladbach-Köln,GER-BL1,22-23,17ff2fd2
+2903a856,Jonas Hofmann,23,GER,RW,30-087,82,0,2,0,0,0,0,0,0,52,0,0,1,0.0,0.0,0.8,7,3,34,47,72.3,2,40,2,1,0,Mönchengladbach,2022-10-09 Gladbach-Köln,GER-BL1,22-23,17ff2fd2
+dfb6490a,Patrick Herrmann,7,GER,AM,31-239,8,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.3,1,0,4,6,66.7,2,6,1,0,0,Mönchengladbach,2022-10-09 Gladbach-Köln,GER-BL1,22-23,17ff2fd2
+496aeede,Christoph Kramer,6,GER,AM,31-232,77,0,0,0,0,0,0,0,0,42,1,0,2,0.0,0.0,0.0,0,0,22,31,71.0,3,21,0,3,0,Mönchengladbach,2022-10-09 Gladbach-Köln,GER-BL1,22-23,17ff2fd2
+36578017,Yvandro Borges Sanches,38,LUX,"RW,AM",18-138,13,0,0,0,0,1,0,0,0,8,1,0,0,0.1,0.1,0.0,2,0,4,5,80.0,0,5,1,1,1,Mönchengladbach,2022-10-09 Gladbach-Köln,GER-BL1,22-23,17ff2fd2
+86574238,Manu Koné,17,FRA,DM,21-145,90,0,0,0,0,0,0,0,0,62,1,0,1,0.0,0.0,0.2,6,2,47,49,95.9,9,52,1,8,5,Mönchengladbach,2022-10-09 Gladbach-Köln,GER-BL1,22-23,17ff2fd2
+346d51d9,Julian Weigl,8,GER,DM,27-031,90,0,0,0,0,0,0,0,0,76,6,1,1,0.0,0.0,0.0,1,0,57,65,87.7,5,43,1,3,3,Mönchengladbach,2022-10-09 Gladbach-Köln,GER-BL1,22-23,17ff2fd2
+378825c7,Ramy Bensebaini,25,ALG,LB,27-176,82,2,0,1,1,2,1,1,0,71,1,0,1,1.4,0.7,0.3,0,0,45,56,80.4,6,46,4,3,1,Mönchengladbach,2022-10-09 Gladbach-Köln,GER-BL1,22-23,17ff2fd2
+e79269bd,Luca Netz,20,GER,LB,19-147,8,0,0,0,0,0,0,0,0,8,2,0,0,0.0,0.0,0.0,0,0,5,5,100.0,0,5,0,0,0,Mönchengladbach,2022-10-09 Gladbach-Köln,GER-BL1,22-23,17ff2fd2
+48035304,Nico Elvedi,30,SUI,CB,26-009,90,0,0,0,0,1,0,0,0,97,0,0,0,0.1,0.1,0.0,0,0,82,86,95.3,5,75,0,0,0,Mönchengladbach,2022-10-09 Gladbach-Köln,GER-BL1,22-23,17ff2fd2
+b77f44a4,Marvin Friedrich,5,GER,CB,26-300,90,1,0,0,0,1,1,0,0,99,1,0,1,0.1,0.1,0.0,0,0,86,94,91.5,2,77,0,0,0,Mönchengladbach,2022-10-09 Gladbach-Köln,GER-BL1,22-23,17ff2fd2
+236f02cd,Joe Scally,29,USA,RB,19-282,82,0,0,0,0,0,0,0,0,64,0,0,0,0.0,0.0,0.3,3,1,52,61,85.2,4,39,2,3,2,Mönchengladbach,2022-10-09 Gladbach-Köln,GER-BL1,22-23,17ff2fd2
+4aea5077,Stefan Lainer,18,AUT,RB,30-043,8,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,4,8,50.0,0,2,0,0,0,Mönchengladbach,2022-10-09 Gladbach-Köln,GER-BL1,22-23,17ff2fd2
+420c18a1,Yann Sommer,1,SUI,GK,33-296,90,0,0,0,0,0,0,0,0,78,0,0,0,0.0,0.0,0.0,0,0,74,76,97.4,0,58,0,0,0,Mönchengladbach,2022-10-09 Gladbach-Köln,GER-BL1,22-23,17ff2fd2
+6b8887c2,Steffen Tigges,21,GER,FW,24-070,60,0,0,0,0,1,0,0,0,18,0,1,1,0.1,0.1,0.0,0,0,5,13,38.5,0,4,1,0,0,Köln,2022-10-09 Gladbach-Köln,GER-BL1,22-23,17ff2fd2
+8779ddf8,Florian Dietz,33,GER,FW,24-067,30,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,4,7,57.1,0,7,1,0,0,Köln,2022-10-09 Gladbach-Köln,GER-BL1,22-23,17ff2fd2
+e5d85da8,Linton Maina,37,GER,FW,23-108,74,0,0,0,0,0,0,0,0,22,0,0,0,0.0,0.0,0.0,1,0,11,16,68.8,2,18,2,2,0,Köln,2022-10-09 Gladbach-Köln,GER-BL1,22-23,17ff2fd2
+a3ddb1b9,Mark Uth,13,GER,FW,31-046,16,0,0,0,0,1,1,0,0,7,0,0,0,0.1,0.1,0.0,0,0,4,5,80.0,1,3,0,0,0,Köln,2022-10-09 Gladbach-Köln,GER-BL1,22-23,17ff2fd2
+94c18565,Florian Kainz,11,AUT,LM,29-350,44,1,0,1,1,0,0,2,1,21,1,1,0,0.8,0.0,0.0,1,1,9,16,56.3,2,10,2,1,1,Köln,2022-10-09 Gladbach-Köln,GER-BL1,22-23,17ff2fd2
+79ca3e23,Ondrej Duda,18,SVK,CM,27-308,59,0,0,0,0,0,0,0,0,18,1,0,0,0.0,0.0,0.0,1,0,9,13,69.2,1,9,0,0,0,Köln,2022-10-09 Gladbach-Köln,GER-BL1,22-23,17ff2fd2
+22919e97,Sargis Adamyan,23,ARM,CM,29-139,31,0,0,0,0,0,0,0,0,13,0,0,0,0.0,0.0,0.0,0,0,5,7,71.4,0,7,0,2,0,Köln,2022-10-09 Gladbach-Köln,GER-BL1,22-23,17ff2fd2
+c455a2b2,Dejan Ljubicic,7,AUT,RM,25-001,39,0,0,0,0,1,0,0,0,9,0,1,1,0.0,0.0,0.0,1,1,4,6,66.7,0,7,0,0,0,Köln,2022-10-09 Gladbach-Köln,GER-BL1,22-23,17ff2fd2
+bd527260,Kingsley Schindler,17,GHA,RM,29-089,51,0,0,0,0,0,0,0,0,19,1,1,0,0.0,0.0,0.0,0,0,9,14,64.3,1,13,1,1,0,Köln,2022-10-09 Gladbach-Köln,GER-BL1,22-23,17ff2fd2
+c2211709,Ellyes Skhiri,28,TUN,DM,27-152,90,0,0,0,0,0,0,1,0,53,3,3,2,0.0,0.0,0.1,2,1,34,40,85.0,1,20,1,1,0,Köln,2022-10-09 Gladbach-Köln,GER-BL1,22-23,17ff2fd2
+c2009df3,Jonas Hector,14,GER,LB,32-135,90,0,0,0,0,0,0,0,0,61,7,2,1,0.0,0.0,0.1,2,1,40,49,81.6,7,27,2,1,1,Köln,2022-10-09 Gladbach-Köln,GER-BL1,22-23,17ff2fd2
+94302c52,Timo Hübers,4,GER,CB,26-081,90,0,0,0,0,0,0,0,0,64,1,2,2,0.0,0.0,0.0,0,0,41,56,73.2,1,41,0,0,0,Köln,2022-10-09 Gladbach-Köln,GER-BL1,22-23,17ff2fd2
+610aa1e9,Luca Kilian,15,GER,CB,23-038,90,0,0,0,0,0,0,0,0,38,1,1,2,0.0,0.0,0.0,1,0,21,27,77.8,1,21,0,0,0,Köln,2022-10-09 Gladbach-Köln,GER-BL1,22-23,17ff2fd2
+ad00b1a8,Benno Schmitz,2,GER,RB,27-326,59,0,0,0,0,0,0,0,0,25,0,0,0,0.0,0.0,0.0,1,0,9,24,37.5,4,7,0,0,0,Köln,2022-10-09 Gladbach-Köln,GER-BL1,22-23,17ff2fd2
+b116c6e3,Denis Huseinbasic,8,BIH,RB,21-098,31,1,0,0,0,1,1,0,0,16,3,0,2,0.3,0.3,0.0,0,0,7,8,87.5,2,10,0,1,0,Köln,2022-10-09 Gladbach-Köln,GER-BL1,22-23,17ff2fd2
+87436846,Marvin Schwäbe,20,GER,GK,27-167,90,0,0,0,0,0,0,0,0,50,0,0,0,0.0,0.0,0.0,0,0,43,48,89.6,0,31,0,0,0,Köln,2022-10-09 Gladbach-Köln,GER-BL1,22-23,17ff2fd2

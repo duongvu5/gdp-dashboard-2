@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+19ba6c6d,Steve Mounié,15,BEN,FW,26-194,80,0,0,0,0,5,1,1,0,42,0,1,1,0.7,0.7,0.0,3,0,16,27,59.3,1,17,2,3,3,Brest,2021-04-11 Brest-Nîmes,FRA-L1,20-21,f07ab6e3
+f98b15f0,Romain Philippoteaux,12,FRA,FW,33-040,10,0,0,0,0,1,0,0,0,2,0,0,0,0.1,0.1,0.0,1,0,1,1,100.0,0,2,1,1,1,Brest,2021-04-11 Brest-Nîmes,FRA-L1,20-21,f07ab6e3
+5e080f73,Irvin Cardona,14,FRA,FW,23-246,74,0,0,0,0,2,0,0,0,24,0,1,2,0.1,0.1,0.2,1,0,9,15,60.0,0,12,1,1,0,Brest,2021-04-11 Brest-Nîmes,FRA-L1,20-21,f07ab6e3
+88c4d190,Jérémy Le Douaron,26,FRA,FW,22-355,16,0,0,0,0,2,1,0,0,13,0,0,1,0.8,0.8,0.0,0,0,2,5,40.0,0,7,0,0,0,Brest,2021-04-11 Brest-Nîmes,FRA-L1,20-21,f07ab6e3
+745ca0a3,Romain Faivre,21,FRA,LM,22-271,90,0,0,0,0,3,1,0,0,67,2,0,2,0.2,0.2,0.5,4,0,34,50,68.0,7,37,8,7,6,Brest,2021-04-11 Brest-Nîmes,FRA-L1,20-21,f07ab6e3
+a99138af,Jean Lucas,6,BRA,CM,22-293,90,0,0,0,0,2,0,1,0,84,3,0,0,0.1,0.1,0.0,4,0,65,71,91.5,10,45,3,6,4,Brest,2021-04-11 Brest-Nîmes,FRA-L1,20-21,f07ab6e3
+d4d35152,Hugo Magnetti,27,FRA,CM,22-316,90,0,0,0,0,0,0,1,0,76,3,3,0,0.0,0.0,0.0,1,0,58,62,93.5,7,41,0,1,1,Brest,2021-04-11 Brest-Nîmes,FRA-L1,20-21,f07ab6e3
+db7849ca,Franck Honorat,9,FRA,RM,24-243,81,0,0,0,0,3,0,0,0,44,3,1,0,0.2,0.2,0.3,6,0,25,35,71.4,6,8,1,0,0,Brest,2021-04-11 Brest-Nîmes,FRA-L1,20-21,f07ab6e3
+18ebca4b,Gaëtan Charbonnier,10,FRA,RM,32-105,9,0,0,0,0,0,0,0,0,10,0,0,1,0.0,0.0,0.0,0,0,3,4,75.0,0,7,0,1,0,Brest,2021-04-11 Brest-Nîmes,FRA-L1,20-21,f07ab6e3
+6dfd8f05,Romain Perraud,18,FRA,LB,23-201,90,0,0,0,0,0,0,1,0,67,1,0,1,0.0,0.0,0.3,7,0,41,60,68.3,3,34,4,1,0,Brest,2021-04-11 Brest-Nîmes,FRA-L1,20-21,f07ab6e3
+5b146df3,Lilian Brassier,3,FRA,CB,21-160,90,0,1,0,0,1,0,0,0,88,1,1,1,0.2,0.2,0.5,3,1,60,74,81.1,5,49,1,0,0,Brest,2021-04-11 Brest-Nîmes,FRA-L1,20-21,f07ab6e3
+16aa7d4c,Brendan Chardonnet,5,FRA,CB,26-110,90,1,0,0,0,2,1,0,0,96,0,6,0,0.5,0.5,0.0,2,0,65,80,81.3,12,48,0,0,0,Brest,2021-04-11 Brest-Nîmes,FRA-L1,20-21,f07ab6e3
+64ba07c0,Ronaël Pierre-Gabriel,20,FRA,RB,22-302,90,0,0,0,0,1,0,0,0,74,1,2,1,0.0,0.0,0.0,1,0,55,65,84.6,10,38,0,1,0,Brest,2021-04-11 Brest-Nîmes,FRA-L1,20-21,f07ab6e3
+b49729cb,Gautier Larsonneur,1,FRA,GK,24-047,90,0,0,0,0,0,0,0,0,34,0,0,0,0.0,0.0,0.0,0,0,31,31,100.0,0,16,0,0,0,Brest,2021-04-11 Brest-Nîmes,FRA-L1,20-21,f07ab6e3
+3ef68782,Moussa Koné,28,SEN,FW,24-102,66,1,0,0,0,1,1,0,0,22,0,0,1,0.2,0.2,0.1,1,0,5,10,50.0,0,11,1,1,0,Nîmes,2021-04-11 Brest-Nîmes,FRA-L1,20-21,f07ab6e3
+08534272,Karim Aribi,13,ALG,FW,26-291,24,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,2,0,0,0,Nîmes,2021-04-11 Brest-Nîmes,FRA-L1,20-21,f07ab6e3
+005c0807,Zinedine Ferhat,10,ALG,LM,28-041,90,0,1,0,0,2,1,0,0,43,2,1,0,0.6,0.6,0.2,4,1,17,26,65.4,1,24,3,5,3,Nîmes,2021-04-11 Brest-Nîmes,FRA-L1,20-21,f07ab6e3
+beae3a73,Renaud Ripart,20,FRA,CM,28-028,90,0,0,0,0,2,1,0,0,43,3,0,2,0.1,0.1,0.0,2,1,20,29,69.0,6,16,0,2,1,Nîmes,2021-04-11 Brest-Nîmes,FRA-L1,20-21,f07ab6e3
+2145368f,Lamine Fomba,12,FRA,"CM,DM",23-075,90,0,0,0,0,0,0,1,0,45,1,2,1,0.0,0.0,0.6,1,0,27,34,79.4,2,22,1,1,0,Nîmes,2021-04-11 Brest-Nîmes,FRA-L1,20-21,f07ab6e3
+0033fb1b,Niclas Eliasson,7,SWE,RM,25-125,66,0,0,0,0,0,0,0,0,24,0,2,4,0.0,0.0,0.0,0,0,5,12,41.7,0,11,0,0,0,Nîmes,2021-04-11 Brest-Nîmes,FRA-L1,20-21,f07ab6e3
+fbf76716,Yassine Benrahou,22,FRA,RM,22-077,24,0,0,0,0,0,0,0,0,18,0,1,0,0.0,0.0,0.0,0,0,7,13,53.8,0,8,0,2,0,Nîmes,2021-04-11 Brest-Nîmes,FRA-L1,20-21,f07ab6e3
+9b40a6ea,Andrés Cubas,18,PAR,DM,24-324,55,0,0,0,0,0,0,0,0,23,0,0,2,0.0,0.0,0.0,0,0,11,15,73.3,0,6,0,1,0,Nîmes,2021-04-11 Brest-Nîmes,FRA-L1,20-21,f07ab6e3
+44f8c299,Lucas Deaux,8,FRA,CM,32-106,35,0,0,0,0,0,0,0,0,20,2,1,1,0.0,0.0,0.0,0,0,10,13,76.9,1,4,0,0,0,Nîmes,2021-04-11 Brest-Nîmes,FRA-L1,20-21,f07ab6e3
+70c52749,Birger Meling,3,NOR,LB,26-115,90,0,0,0,0,0,0,0,0,54,1,3,1,0.0,0.0,0.0,0,0,24,36,66.7,2,13,2,1,1,Nîmes,2021-04-11 Brest-Nîmes,FRA-L1,20-21,f07ab6e3
+08082af0,Loïck Landre,5,FRA,CB,28-341,90,0,0,0,0,0,0,0,0,40,0,1,2,0.0,0.0,0.0,0,0,27,30,90.0,0,17,0,0,0,Nîmes,2021-04-11 Brest-Nîmes,FRA-L1,20-21,f07ab6e3
+539b4f25,Naomichi Ueda,27,JPN,CB,26-169,90,0,0,0,0,0,0,0,0,40,0,1,2,0.0,0.0,0.0,0,0,22,29,75.9,1,23,1,1,1,Nîmes,2021-04-11 Brest-Nîmes,FRA-L1,20-21,f07ab6e3
+5314e067,Sofiane Alakouch,29,MAR,RB,22-256,90,0,0,0,0,0,0,0,0,47,1,1,1,0.0,0.0,0.0,0,0,25,36,69.4,1,21,1,0,0,Nîmes,2021-04-11 Brest-Nîmes,FRA-L1,20-21,f07ab6e3
+bcf1b2e9,Baptiste Reynet,30,FRA,GK,30-165,90,0,0,0,0,0,0,0,0,51,0,0,0,0.0,0.0,0.0,1,0,23,50,46.0,0,27,0,0,0,Nîmes,2021-04-11 Brest-Nîmes,FRA-L1,20-21,f07ab6e3

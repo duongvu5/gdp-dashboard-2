@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+dea698d9,Cristiano Ronaldo,7,POR,FW,36-075,90,0,0,0,0,5,1,1,0,46,0,0,0,0.2,0.2,0.0,2,1,29,38,76.3,4,35,1,1,0,Juventus,2021-04-21 Juventus-Parma,ITA-SERIA_A,20-21,f27d2f16
+e0921a4f,Paulo Dybala,10,ARG,FW,27-157,83,0,0,0,0,3,1,0,0,73,2,0,0,0.4,0.4,0.2,9,0,50,62,80.6,8,44,5,5,5,Juventus,2021-04-21 Juventus-Parma,ITA-SERIA_A,20-21,f27d2f16
+129af0db,Álvaro Morata,9,ESP,FW,28-180,7,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,1,0,0,0,Juventus,2021-04-21 Juventus-Parma,ITA-SERIA_A,20-21,f27d2f16
+01c3aff5,Weston McKennie,14,USA,LM,22-236,73,0,0,0,0,1,0,1,0,37,0,0,0,0.3,0.3,0.0,1,0,30,36,83.3,3,21,2,1,1,Juventus,2021-04-21 Juventus-Parma,ITA-SERIA_A,20-21,f27d2f16
+ef619b0b,Aaron Ramsey,8,WAL,"LM,CM",30-116,17,0,0,0,0,0,0,0,0,17,0,0,1,0.0,0.0,0.0,1,0,13,15,86.7,3,9,1,1,1,Juventus,2021-04-21 Juventus-Parma,ITA-SERIA_A,20-21,f27d2f16
+48b3dd60,Arthur Melo,5,BRA,CM,24-252,86,0,0,0,0,0,0,0,0,92,0,1,1,0.0,0.0,0.0,2,0,81,85,95.3,8,69,3,3,2,Juventus,2021-04-21 Juventus-Parma,ITA-SERIA_A,20-21,f27d2f16
+ee93c1a9,Federico Bernardeschi,33,ITA,LM,27-064,4,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,4,4,100.0,0,4,0,2,1,Juventus,2021-04-21 Juventus-Parma,ITA-SERIA_A,20-21,f27d2f16
+3b8674e6,Rodrigo Bentancur,30,URU,CM,23-300,73,0,0,0,0,0,0,0,0,53,1,0,1,0.0,0.0,0.0,1,0,46,50,92.0,3,30,2,2,1,Juventus,2021-04-21 Juventus-Parma,ITA-SERIA_A,20-21,f27d2f16
+8794e251,Adrien Rabiot,25,FRA,CM,26-018,17,0,0,0,0,0,0,0,0,20,2,0,0,0.0,0.0,0.0,1,0,14,16,87.5,1,8,0,0,0,Juventus,2021-04-21 Juventus-Parma,ITA-SERIA_A,20-21,f27d2f16
+0ab1f153,Juan Cuadrado,16,COL,RM,32-330,73,0,2,0,0,2,1,0,0,68,0,0,0,0.1,0.1,0.9,5,3,50,62,80.6,5,38,4,3,0,Juventus,2021-04-21 Juventus-Parma,ITA-SERIA_A,20-21,f27d2f16
+df3cda47,Dejan Kulusevski,44,SWE,RM,20-361,17,0,0,0,0,0,0,0,0,8,0,1,0,0.0,0.0,0.2,1,0,6,7,85.7,1,6,0,0,0,Juventus,2021-04-21 Juventus-Parma,ITA-SERIA_A,20-21,f27d2f16
+0d82903c,Alex Sandro,12,BRA,LB,30-085,90,2,0,0,0,3,2,0,0,77,1,0,0,0.8,0.8,0.1,2,0,61,68,89.7,5,46,2,2,2,Juventus,2021-04-21 Juventus-Parma,ITA-SERIA_A,20-21,f27d2f16
+d6e53a3a,Matthijs de Ligt,4,NED,CB,21-252,90,1,1,0,0,1,1,0,0,93,0,0,0,0.2,0.2,0.1,1,1,80,84,95.2,1,55,0,1,1,Juventus,2021-04-21 Juventus-Parma,ITA-SERIA_A,20-21,f27d2f16
+52ec54d0,Leonardo Bonucci,19,ITA,CB,33-355,90,0,0,0,0,1,0,0,0,76,0,1,1,0.0,0.0,0.0,0,0,66,73,90.4,5,45,0,0,0,Juventus,2021-04-21 Juventus-Parma,ITA-SERIA_A,20-21,f27d2f16
+94b2001f,Danilo,13,BRA,RB,29-280,90,0,0,0,0,0,0,0,0,93,4,0,0,0.0,0.0,0.3,3,0,71,83,85.5,7,47,1,0,0,Juventus,2021-04-21 Juventus-Parma,ITA-SERIA_A,20-21,f27d2f16
+e40d028b,Gianluigi Buffon,77,ITA,GK,43-083,90,0,0,0,0,0,0,0,0,48,0,0,0,0.0,0.0,0.0,0,0,40,47,85.1,0,27,0,0,0,Juventus,2021-04-21 Juventus-Parma,ITA-SERIA_A,20-21,f27d2f16
+9654d8de,Graziano Pellè,9,ITA,FW,35-280,61,0,0,0,0,1,0,0,0,31,0,1,0,0.1,0.1,0.0,0,0,18,23,78.3,0,17,0,0,0,Parma,2021-04-21 Juventus-Parma,ITA-SERIA_A,20-21,f27d2f16
+c693347d,Andreas Cornelius,11,DEN,FW,28-036,29,0,0,0,0,2,0,0,0,14,0,0,0,0.2,0.2,0.0,1,0,6,8,75.0,1,5,1,0,0,Parma,2021-04-21 Juventus-Parma,ITA-SERIA_A,20-21,f27d2f16
+e468c053,Gervinho,27,CIV,LW,33-329,61,0,0,0,0,0,0,0,0,26,1,0,0,0.0,0.0,0.0,2,1,15,18,83.3,4,17,3,3,1,Parma,2021-04-21 Juventus-Parma,ITA-SERIA_A,20-21,f27d2f16
+81a4c239,Valentin Mihaila,28,ROU,LW,21-078,29,0,0,0,0,0,0,0,0,17,0,0,1,0.0,0.0,0.0,0,0,7,12,58.3,0,10,1,2,0,Parma,2021-04-21 Juventus-Parma,ITA-SERIA_A,20-21,f27d2f16
+2079b3cc,Dennis Man,98,ROU,RW,22-238,80,0,0,0,0,0,0,0,0,32,4,0,1,0.0,0.0,0.0,2,1,24,25,96.0,5,23,2,1,0,Parma,2021-04-21 Juventus-Parma,ITA-SERIA_A,20-21,f27d2f16
+8b66d9cc,Yann Karamoh,10,FRA,RW,22-287,10,0,0,0,0,2,1,1,0,7,0,1,0,0.5,0.5,0.0,1,0,2,2,100.0,1,5,0,1,0,Parma,2021-04-21 Juventus-Parma,ITA-SERIA_A,20-21,f27d2f16
+144607cc,Jasmin Kurtić,14,SVN,LM,32-101,90,0,0,0,0,0,0,0,0,54,2,1,1,0.0,0.0,0.4,3,0,42,46,91.3,4,28,0,0,0,Parma,2021-04-21 Juventus-Parma,ITA-SERIA_A,20-21,f27d2f16
+e947ee4a,Gastón Brugman,15,URU,CM,28-226,70,1,0,0,0,1,1,0,0,55,1,1,0,0.1,0.1,0.1,3,0,41,47,87.2,5,35,1,2,2,Parma,2021-04-21 Juventus-Parma,ITA-SERIA_A,20-21,f27d2f16
+6f5ead86,Hernani,23,BRA,CM,27-025,20,0,0,0,0,0,0,1,0,21,1,0,0,0.0,0.0,0.2,2,0,17,18,94.4,3,8,1,0,0,Parma,2021-04-21 Juventus-Parma,ITA-SERIA_A,20-21,f27d2f16
+6cc97b6a,Alberto Grassi,8,ITA,RM,26-045,90,0,0,0,0,1,0,0,0,36,2,2,0,0.1,0.1,0.0,0,0,21,30,70.0,1,19,2,0,0,Parma,2021-04-21 Juventus-Parma,ITA-SERIA_A,20-21,f27d2f16
+149c5f5d,Giuseppe Pezzella,3,ITA,LB,23-143,80,0,0,0,0,0,0,0,0,45,1,0,3,0.0,0.0,0.0,0,0,25,39,64.1,5,26,3,1,1,Parma,2021-04-21 Juventus-Parma,ITA-SERIA_A,20-21,f27d2f16
+7b082ec2,Maxime Busi,42,BEL,LB,21-189,10,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.1,2,0,7,8,87.5,0,5,1,1,1,Parma,2021-04-21 Juventus-Parma,ITA-SERIA_A,20-21,f27d2f16
+0821331c,Mattia Bani,13,ITA,CB,27-132,90,0,0,0,0,1,0,0,0,52,2,1,1,0.1,0.1,0.0,0,0,38,41,92.7,4,27,0,0,0,Parma,2021-04-21 Juventus-Parma,ITA-SERIA_A,20-21,f27d2f16
+4d17df3e,Yordan Osorio,24,VEN,CB,26-346,90,0,0,0,0,1,0,0,0,42,1,1,1,0.0,0.0,0.0,2,0,24,28,85.7,0,22,0,0,0,Parma,2021-04-21 Juventus-Parma,ITA-SERIA_A,20-21,f27d2f16
+3535098b,Vincent Laurini,16,FRA,RB,31-315,90,0,0,0,0,0,0,0,0,44,2,3,1,0.0,0.0,0.0,0,0,28,34,82.4,2,27,0,0,0,Parma,2021-04-21 Juventus-Parma,ITA-SERIA_A,20-21,f27d2f16
+72be9309,Simone Colombi,34,ITA,GK,29-294,90,0,0,0,0,0,0,0,0,35,0,0,0,0.0,0.0,0.0,0,0,21,30,70.0,0,17,0,0,0,Parma,2021-04-21 Juventus-Parma,ITA-SERIA_A,20-21,f27d2f16

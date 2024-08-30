@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+f209b81e,Arnór Sigurðsson,17,ISL,FW,20-162,79,0,0,0,0,2,1,0,0,24,0,0,0,0.5,0.5,0.6,5,0,14,16,87.5,1,20,2,1,0,CSKA Moscow,2019-10-24 CSKA Moscow-Ferencváros,UEL,19-20,2bfa1b83
+6fdac234,Jaka Bijol,29,SVN,CM,20-261,11,0,0,0,0,1,0,0,0,11,1,0,0,0.1,0.1,0.0,1,0,2,6,33.3,1,4,0,0,0,CSKA Moscow,2019-10-24 CSKA Moscow-Ferencváros,UEL,19-20,2bfa1b83
+042d286e,Fyodor Chalov,9,RUS,FW,21-197,90,0,0,0,0,2,0,0,0,34,0,0,2,0.2,0.2,0.1,4,0,15,22,68.2,1,23,1,3,1,CSKA Moscow,2019-10-24 CSKA Moscow-Ferencváros,UEL,19-20,2bfa1b83
+ccc66d00,Konstantin Kuchayev,20,RUS,LW,21-220,60,0,0,0,0,0,0,0,0,40,0,0,0,0.0,0.0,0.0,3,0,28,31,90.3,4,26,5,1,0,CSKA Moscow,2019-10-24 CSKA Moscow-Ferencváros,UEL,19-20,2bfa1b83
+79370f8c,Kristijan Bistrović,25,CRO,"CM,DM",21-198,30,0,0,0,0,1,0,1,0,24,0,0,0,0.1,0.1,0.0,1,0,20,22,90.9,3,14,1,0,0,CSKA Moscow,2019-10-24 CSKA Moscow-Ferencváros,UEL,19-20,2bfa1b83
+7c1a0c67,Mário Fernandes,2,RUS,"RW,WB",29-035,90,0,0,0,0,0,0,0,0,68,1,1,1,0.0,0.0,0.0,0,0,47,62,75.8,6,34,7,3,2,CSKA Moscow,2019-10-24 CSKA Moscow-Ferencváros,UEL,19-20,2bfa1b83
+15eb04ec,Ivan Oblyakov,98,RUS,"CM,WB,LW",21-111,90,0,0,0,0,4,1,0,0,67,2,0,1,0.1,0.1,0.3,9,0,35,54,64.8,4,39,1,2,2,CSKA Moscow,2019-10-24 CSKA Moscow-Ferencváros,UEL,19-20,2bfa1b83
+aa8e289e,Nikola Vlašić,8,CRO,"CM,AM",22-020,90,0,0,0,0,5,2,0,0,60,0,1,0,0.6,0.6,0.5,8,0,41,51,80.4,9,41,6,2,2,CSKA Moscow,2019-10-24 CSKA Moscow-Ferencváros,UEL,19-20,2bfa1b83
+e0d3e18d,Ilzat Akhmetov,7,RUS,"DM,CM",21-297,74,0,0,0,0,3,0,0,0,51,1,1,0,0.1,0.1,0.0,4,0,36,43,83.7,6,33,1,1,1,CSKA Moscow,2019-10-24 CSKA Moscow-Ferencváros,UEL,19-20,2bfa1b83
+8ee95cc6,Lucas Robinho,11,BRA,"FW,AM",20-231,16,0,0,0,0,0,0,0,0,7,0,0,1,0.0,0.0,0.0,0,0,2,3,66.7,0,6,0,0,0,CSKA Moscow,2019-10-24 CSKA Moscow-Ferencváros,UEL,19-20,2bfa1b83
+526541e5,Hörður Magnússon,23,ISL,CB,26-255,90,0,0,0,0,2,0,1,0,88,1,0,1,0.1,0.1,0.0,1,0,61,78,78.2,6,44,0,0,0,CSKA Moscow,2019-10-24 CSKA Moscow-Ferencváros,UEL,19-20,2bfa1b83
+65ad4d98,Igor Diveev,78,RUS,CB,20-027,90,0,0,0,0,0,0,0,0,70,0,4,1,0.0,0.0,0.0,1,0,52,60,86.7,2,35,0,0,0,CSKA Moscow,2019-10-24 CSKA Moscow-Ferencváros,UEL,19-20,2bfa1b83
+5a48195c,Vadim Karpov,62,RUS,CB,17-102,90,0,0,0,0,0,0,0,0,69,8,1,2,0.0,0.0,0.0,0,0,45,52,86.5,5,33,0,1,1,CSKA Moscow,2019-10-24 CSKA Moscow-Ferencváros,UEL,19-20,2bfa1b83
+42ec696a,Igor Akinfeev,35,RUS,GK,33-199,90,0,0,0,0,0,0,0,0,34,0,0,0,0.0,0.0,0.0,0,0,18,31,58.1,0,17,0,0,0,CSKA Moscow,2019-10-24 CSKA Moscow-Ferencváros,UEL,19-20,2bfa1b83
+9c2b4382,Franck Boli,70,CIV,FW,25-321,71,0,0,0,0,1,0,0,0,23,0,1,0,0.1,0.1,0.0,2,0,8,13,61.5,1,17,2,5,2,Ferencváros,2019-10-24 CSKA Moscow-Ferencváros,UEL,19-20,2bfa1b83
+d1f48bfc,Isael,88,BRA,FW,31-164,19,0,0,0,0,1,1,0,0,12,0,0,1,0.1,0.1,0.0,1,1,6,7,85.7,1,11,1,3,3,Ferencváros,2019-10-24 CSKA Moscow-Ferencváros,UEL,19-20,2bfa1b83
+36a79857,Tokmac Nguen,10,NOR,LW,26-004,83,0,0,0,0,3,0,0,0,40,1,0,1,0.6,0.6,0.1,2,0,20,23,87.0,2,24,6,6,2,Ferencváros,2019-10-24 CSKA Moscow-Ferencváros,UEL,19-20,2bfa1b83
+7586ae9b,Roland Varga,97,HUN,LW,29-274,7,1,0,0,0,1,1,0,0,8,0,0,0,0.8,0.8,0.0,0,0,5,6,83.3,1,5,0,1,0,Ferencváros,2019-10-24 CSKA Moscow-Ferencváros,UEL,19-20,2bfa1b83
+adfbe1f5,Oleksandr Zubkov,11,UKR,RW,23-082,88,0,1,0,0,1,0,0,0,49,4,1,0,0.0,0.0,0.8,4,0,24,40,60.0,0,30,1,4,4,Ferencváros,2019-10-24 CSKA Moscow-Ferencváros,UEL,19-20,2bfa1b83
+303636d2,Lasha Dvali,33,GEO,RW,24-163,2,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Ferencváros,2019-10-24 CSKA Moscow-Ferencváros,UEL,19-20,2bfa1b83
+65bbfba3,Danylo Ihnatenko,7,UKR,LM,22-225,90,0,0,0,0,1,1,1,0,56,0,0,1,0.0,0.0,0.1,4,0,38,48,79.2,6,36,2,1,1,Ferencváros,2019-10-24 CSKA Moscow-Ferencváros,UEL,19-20,2bfa1b83
+14e8fe86,Ihor Kharatin,14,UKR,CM,24-264,90,0,0,0,0,1,1,1,0,51,2,1,3,0.0,0.0,0.0,1,0,30,36,83.3,3,19,1,1,1,Ferencváros,2019-10-24 CSKA Moscow-Ferencváros,UEL,19-20,2bfa1b83
+3d2320f7,Dávid Sigér,18,HUN,RM,28-328,90,0,0,0,0,1,1,1,0,37,0,0,2,0.0,0.0,0.6,4,0,29,33,87.9,3,23,0,1,1,Ferencváros,2019-10-24 CSKA Moscow-Ferencváros,UEL,19-20,2bfa1b83
+5fcb90ac,Eldar Ćivić,17,BIH,LB,23-149,90,0,0,0,0,0,0,0,0,73,3,0,3,0.0,0.0,0.0,0,0,48,64,75.0,3,36,1,1,0,Ferencváros,2019-10-24 CSKA Moscow-Ferencváros,UEL,19-20,2bfa1b83
+2cb77ec6,Endre Botka,21,HUN,CB,25-060,90,0,0,0,0,0,0,0,0,53,3,2,3,0.0,0.0,0.0,0,0,30,38,78.9,1,32,1,0,0,Ferencváros,2019-10-24 CSKA Moscow-Ferencváros,UEL,19-20,2bfa1b83
+3cdfc63e,Miha Blažič,25,SVN,CB,26-169,90,0,0,0,0,0,0,0,0,62,0,1,3,0.0,0.0,0.0,1,0,42,46,91.3,1,37,0,0,0,Ferencváros,2019-10-24 CSKA Moscow-Ferencváros,UEL,19-20,2bfa1b83
+0176f037,Gergő Lovrencsics,8,HUN,RB,31-053,90,0,0,0,0,2,0,0,0,76,0,1,3,0.1,0.1,0.0,2,0,36,58,62.1,1,39,0,0,0,Ferencváros,2019-10-24 CSKA Moscow-Ferencváros,UEL,19-20,2bfa1b83
+4030c7ae,Dénes Dibusz,90,HUN,GK,28-342,90,0,0,0,0,0,0,0,0,38,0,0,0,0.0,0.0,0.0,0,0,23,32,71.9,0,13,0,0,0,Ferencváros,2019-10-24 CSKA Moscow-Ferencváros,UEL,19-20,2bfa1b83

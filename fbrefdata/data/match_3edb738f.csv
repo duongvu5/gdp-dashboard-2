@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+2054d037,M'Baye Niang,10,SEN,FW,27-122,90,0,0,0,0,1,0,0,0,40,1,1,2,0.1,0.1,0.1,4,0,11,22,50.0,0,30,2,7,2,Bordeaux,2022-04-20 Bordeaux-Saint-Étienne,FRA-L1,21-22,3edb738f
+3544641e,Sekou Mara,11,FRA,FW,19-264,74,1,0,0,0,4,4,0,0,20,1,0,0,0.3,0.3,0.0,0,0,6,11,54.5,0,15,0,2,1,Bordeaux,2022-04-20 Bordeaux-Saint-Étienne,FRA-L1,21-22,3edb738f
+26777636,Yacine Adli,19,FRA,AM,21-265,16,0,0,0,0,1,0,0,0,9,1,0,0,0.1,0.1,0.0,1,0,2,6,33.3,0,4,0,1,1,Bordeaux,2022-04-20 Bordeaux-Saint-Étienne,FRA-L1,21-22,3edb738f
+34a0f5ff,Javairô Dilrosun,21,NED,"AM,FW",23-302,80,0,1,0,0,0,0,0,0,30,1,0,0,0.0,0.0,0.5,7,1,19,24,79.2,4,15,0,1,0,Bordeaux,2022-04-20 Bordeaux-Saint-Étienne,FRA-L1,21-22,3edb738f
+db013c7d,Thibault Klidje,33,TOG,FW,20-284,10,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,1,0,3,3,100.0,2,5,0,1,1,Bordeaux,2022-04-20 Bordeaux-Saint-Étienne,FRA-L1,21-22,3edb738f
+65bbfba3,Danylo Ihnatenko,6,UKR,CM,25-038,90,0,1,0,0,0,0,1,0,53,2,2,0,0.0,0.0,0.1,1,1,32,43,74.4,2,30,0,0,0,Bordeaux,2022-04-20 Bordeaux-Saint-Étienne,FRA-L1,21-22,3edb738f
+b5bb8188,Jean Onana,8,CMR,CM,22-102,87,1,0,0,0,2,1,1,0,62,4,2,2,0.3,0.3,0.1,3,0,32,45,71.1,3,39,0,1,0,Bordeaux,2022-04-20 Bordeaux-Saint-Étienne,FRA-L1,21-22,3edb738f
+f83c8d6c,Jimmy Briand,7,FRA,CM,36-261,3,0,0,0,0,1,1,0,0,1,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,1,0,0,0,Bordeaux,2022-04-20 Bordeaux-Saint-Étienne,FRA-L1,21-22,3edb738f
+eef2d8ce,Ricardo Mangas,12,POR,WB,24-032,90,0,0,0,0,1,1,0,0,40,2,0,0,0.1,0.1,0.0,1,0,22,31,71.0,0,15,1,3,1,Bordeaux,2022-04-20 Bordeaux-Saint-Étienne,FRA-L1,21-22,3edb738f
+295ba708,Tom Lacoux,27,FRA,WB,20-085,74,0,0,0,0,0,0,1,0,59,5,1,4,0.0,0.0,0.0,2,2,23,45,51.1,2,30,0,2,1,Bordeaux,2022-04-20 Bordeaux-Saint-Étienne,FRA-L1,21-22,3edb738f
+ea02beaf,Remi Oudin,28,FRA,WB,25-153,16,0,0,0,0,1,0,0,0,9,1,0,1,0.0,0.0,0.0,1,0,3,6,50.0,2,2,0,0,0,Bordeaux,2022-04-20 Bordeaux-Saint-Étienne,FRA-L1,21-22,3edb738f
+5f011e05,Stian Rode Gregersen,2,NOR,CB,26-338,80,0,0,0,0,0,0,1,0,40,3,1,1,0.0,0.0,0.0,1,0,25,32,78.1,2,29,1,1,0,Bordeaux,2022-04-20 Bordeaux-Saint-Étienne,FRA-L1,21-22,3edb738f
+4bf69118,Enock Kwateng,25,FRA,CB,25-011,10,0,0,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.0,0,0,8,11,72.7,0,5,0,0,0,Bordeaux,2022-04-20 Bordeaux-Saint-Étienne,FRA-L1,21-22,3edb738f
+e6c43eec,Josuha Guilavogui,23,FRA,CB,31-213,90,0,0,0,0,0,0,0,0,75,4,3,1,0.0,0.0,0.0,0,0,51,63,81.0,2,44,0,1,1,Bordeaux,2022-04-20 Bordeaux-Saint-Étienne,FRA-L1,21-22,3edb738f
+eab957a3,Anel Ahmedhodžić,5,BIH,CB,23-025,90,0,0,0,0,0,0,1,0,53,5,1,0,0.0,0.0,0.0,0,0,39,45,86.7,3,37,0,0,0,Bordeaux,2022-04-20 Bordeaux-Saint-Étienne,FRA-L1,21-22,3edb738f
+c252c705,Gaëtan Poussin,16,FRA,GK,23-097,90,0,0,0,0,0,0,0,0,31,0,0,0,0.0,0.0,0.0,0,0,20,30,66.7,0,20,0,0,0,Bordeaux,2022-04-20 Bordeaux-Saint-Étienne,FRA-L1,21-22,3edb738f
+1001ae82,Ryad Boudebouz,7,ALG,"FW,LW",32-060,71,0,1,0,0,0,0,0,0,51,1,0,0,0.0,0.0,0.3,3,1,30,45,66.7,7,40,1,2,0,Saint-Étienne,2022-04-20 Bordeaux-Saint-Étienne,FRA-L1,21-22,3edb738f
+0ad37003,Yvan Neyou,19,CMR,CM,25-107,19,0,0,0,0,0,0,1,0,8,0,0,0,0.0,0.0,0.0,1,0,4,7,57.1,1,4,1,0,0,Saint-Étienne,2022-04-20 Bordeaux-Saint-Étienne,FRA-L1,21-22,3edb738f
+7b9a9e25,Arnaud Nordin,18,FRA,"LW,FW,RW",23-307,90,1,0,0,0,4,1,1,0,33,0,0,0,0.5,0.5,0.0,0,0,13,18,72.2,1,27,3,3,1,Saint-Étienne,2022-04-20 Bordeaux-Saint-Étienne,FRA-L1,21-22,3edb738f
+0b0cbe5b,Denis Bouanga,20,GAB,"RW,WB,LM",27-160,90,1,1,0,0,1,1,1,0,50,0,0,3,0.2,0.2,0.1,5,2,25,39,64.1,3,37,2,3,1,Saint-Étienne,2022-04-20 Bordeaux-Saint-Étienne,FRA-L1,21-22,3edb738f
+e4b72e34,Miguel Trauco,13,PER,LM,29-238,45,0,0,0,0,0,0,0,0,33,0,1,1,0.0,0.0,0.0,0,0,25,32,78.1,3,25,3,1,0,Saint-Étienne,2022-04-20 Bordeaux-Saint-Étienne,FRA-L1,21-22,3edb738f
+f4bc42b1,Sada Thioub,9,SEN,"RM,WB",26-323,45,0,0,0,0,0,0,0,0,24,0,0,0,0.0,0.0,0.0,0,0,15,21,71.4,3,17,2,1,0,Saint-Étienne,2022-04-20 Bordeaux-Saint-Étienne,FRA-L1,21-22,3edb738f
+3cd7820a,Lucas Gourna-Douath,6,FRA,CM,18-258,71,0,0,0,0,1,0,1,0,37,2,0,2,0.0,0.0,0.0,0,0,27,28,96.4,0,29,1,0,0,Saint-Étienne,2022-04-20 Bordeaux-Saint-Étienne,FRA-L1,21-22,3edb738f
+b94b8be1,Adil Aouchiche,17,FRA,CM,19-279,19,0,0,0,0,0,0,0,0,12,0,0,0,0.0,0.0,0.1,1,0,7,10,70.0,2,8,1,0,0,Saint-Étienne,2022-04-20 Bordeaux-Saint-Étienne,FRA-L1,21-22,3edb738f
+8577e60a,Mahdi Camara,8,FRA,CM,23-294,90,0,0,0,0,1,0,1,0,50,3,0,0,0.1,0.1,0.0,1,0,33,40,82.5,5,41,0,3,2,Saint-Étienne,2022-04-20 Bordeaux-Saint-Étienne,FRA-L1,21-22,3edb738f
+4914ed4a,Gabriel Silva,11,BRA,"RM,LM",30-342,56,0,0,0,0,0,0,0,0,36,1,2,1,0.0,0.0,0.0,0,0,19,25,76.0,0,14,0,2,0,Saint-Étienne,2022-04-20 Bordeaux-Saint-Étienne,FRA-L1,21-22,3edb738f
+2677a1de,Wahbi Khazri,10,TUN,FW,31-071,34,0,0,0,0,2,0,1,0,20,3,0,0,0.1,0.1,0.4,3,1,6,8,75.0,3,10,1,3,0,Saint-Étienne,2022-04-20 Bordeaux-Saint-Étienne,FRA-L1,21-22,3edb738f
+a6b6fa6e,Mickael Nade,3,FRA,CB,23-047,90,0,0,0,0,0,0,0,0,58,0,0,1,0.0,0.0,0.0,1,0,43,50,86.0,5,41,1,1,1,Saint-Étienne,2022-04-20 Bordeaux-Saint-Étienne,FRA-L1,21-22,3edb738f
+ab096c6f,Timothée Kolodziejczak,5,FRA,CB,30-201,90,0,0,0,0,0,0,0,0,86,3,1,0,0.0,0.0,0.0,0,0,61,77,79.2,6,50,3,0,0,Saint-Étienne,2022-04-20 Bordeaux-Saint-Étienne,FRA-L1,21-22,3edb738f
+ee95585f,Abdoulaye Bakayoko,33,FRA,CB,19-126,45,0,0,0,0,0,0,0,0,28,4,1,0,0.0,0.0,0.0,1,0,11,21,52.4,2,16,0,2,2,Saint-Étienne,2022-04-20 Bordeaux-Saint-Étienne,FRA-L1,21-22,3edb738f
+5f26e0c5,Harold Moukoudi,2,CMR,CB,24-144,45,0,0,0,0,0,0,0,0,28,1,0,0,0.0,0.0,0.0,0,0,21,25,84.0,0,19,0,0,0,Saint-Étienne,2022-04-20 Bordeaux-Saint-Étienne,FRA-L1,21-22,3edb738f
+28dabd43,Paul Bernardoni,50,FRA,GK,25-002,90,0,0,0,0,0,0,0,0,26,0,0,0,0.0,0.0,0.0,0,0,16,24,66.7,0,20,0,0,0,Saint-Étienne,2022-04-20 Bordeaux-Saint-Étienne,FRA-L1,21-22,3edb738f

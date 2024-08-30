@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+9dbb75ca,Alexandre Lacazette,91,FRA,FW,31-069,90,1,1,1,1,1,1,1,0,33,1,0,0,0.8,0.0,0.1,3,1,12,19,63.2,0,26,0,4,0,Lyon,2022-08-05 Lyon-Ajaccio,FRA-L1,22-23,47ab569b
+5ceba7fc,Karl Toko Ekambi,7,CMR,"LM,LW",29-325,74,0,0,0,0,0,0,0,0,36,1,1,2,0.0,0.0,0.0,1,0,25,31,80.6,1,30,1,0,0,Lyon,2022-08-05 Lyon-Ajaccio,FRA-L1,22-23,47ab569b
+a0d55a09,Bradley Barcola,26,FRA,LM,19-337,16,0,0,0,0,1,0,0,0,13,0,0,1,0.1,0.1,0.1,0,0,6,8,75.0,0,10,2,3,1,Lyon,2022-08-05 Lyon-Ajaccio,FRA-L1,22-23,47ab569b
+7120a04d,Tetê,20,BRA,"RM,RW",22-171,88,1,0,0,0,3,2,0,0,41,1,2,0,0.2,0.2,0.0,2,1,23,28,82.1,4,32,4,7,1,Lyon,2022-08-05 Lyon-Ajaccio,FRA-L1,22-23,47ab569b
+b34c63a5,Rayan Cherki,18,FRA,RM,18-353,2,0,0,0,0,1,1,0,0,11,0,0,0,0.1,0.1,0.0,0,0,9,10,90.0,1,10,1,2,0,Lyon,2022-08-05 Lyon-Ajaccio,FRA-L1,22-23,47ab569b
+a5db0bec,Houssem Aouar,8,ALG,LM,24-036,29,0,0,0,0,0,0,0,0,20,2,0,1,0.0,0.0,0.1,2,0,15,17,88.2,1,15,0,0,0,Lyon,2022-08-05 Lyon-Ajaccio,FRA-L1,22-23,47ab569b
+7f41ee30,Rémy Riou,35,FRA,GK,34-364,61,0,0,0,0,0,0,0,0,29,0,0,0,0.0,0.0,0.0,0,0,21,27,77.8,0,22,0,0,0,Lyon,2022-08-05 Lyon-Ajaccio,FRA-L1,22-23,47ab569b
+1e52971c,Johann Lepenant,24,FRA,CM,19-287,90,0,0,0,0,1,0,0,0,70,0,0,1,0.0,0.0,0.1,3,1,62,66,93.9,6,61,0,1,1,Lyon,2022-08-05 Lyon-Ajaccio,FRA-L1,22-23,47ab569b
+9b6f7fd5,Lucas Paquetá,10,BRA,"CM,RM",24-343,74,0,0,0,0,1,0,0,0,64,2,0,0,0.1,0.1,0.0,1,0,48,54,88.9,2,52,0,1,0,Lyon,2022-08-05 Lyon-Ajaccio,FRA-L1,22-23,47ab569b
+652d4c37,Corentin Tolisso,88,FRA,CM,28-002,16,0,0,0,0,0,0,0,0,26,0,0,0,0.0,0.0,0.0,0,0,22,25,88.0,1,24,0,0,0,Lyon,2022-08-05 Lyon-Ajaccio,FRA-L1,22-23,47ab569b
+f0661424,Nicolás Tagliafico,3,ARG,LB,29-339,90,0,0,0,0,1,0,0,0,77,3,3,0,0.0,0.0,0.0,1,0,60,67,89.6,8,56,0,2,0,Lyon,2022-08-05 Lyon-Ajaccio,FRA-L1,22-23,47ab569b
+5b9512c5,Castello Lukeba,4,FRA,CB,19-231,90,0,0,0,0,0,0,0,0,112,0,1,0,0.0,0.0,0.0,3,1,98,108,90.7,9,100,2,0,0,Lyon,2022-08-05 Lyon-Ajaccio,FRA-L1,22-23,47ab569b
+c6e5d20f,Thiago Mendes,23,BRA,CB,30-143,90,0,0,0,0,0,0,0,0,115,3,2,0,0.0,0.0,0.0,0,0,91,107,85.0,5,94,0,1,1,Lyon,2022-08-05 Lyon-Ajaccio,FRA-L1,22-23,47ab569b
+d56b9520,Malo Gusto,27,FRA,RB,19-078,90,0,0,0,0,1,1,0,0,95,2,2,0,0.0,0.0,0.0,2,0,78,91,85.7,5,74,4,3,2,Lyon,2022-08-05 Lyon-Ajaccio,FRA-L1,22-23,47ab569b
+f00de885,Anthony Lopes,1,POR,GK,31-308,26,0,0,0,0,0,0,0,1,13,0,0,0,0.0,0.0,0.0,0,0,13,13,100.0,0,8,0,0,0,Lyon,2022-08-05 Lyon-Ajaccio,FRA-L1,22-23,47ab569b
+0b4d8274,Romain Hamouma,17,FRA,FW,35-129,44,0,0,0,0,1,0,2,1,15,0,0,0,0.2,0.2,0.0,1,0,5,8,62.5,1,10,1,3,1,Ajaccio,2022-08-05 Lyon-Ajaccio,FRA-L1,22-23,47ab569b
+fb0ee44e,Mounaim El Idrissy,7,FRA,FW,23-176,70,0,0,0,0,1,1,1,0,22,1,0,0,0.0,0.0,0.0,1,1,13,17,76.5,1,16,1,0,0,Ajaccio,2022-08-05 Lyon-Ajaccio,FRA-L1,22-23,47ab569b
+71d10572,Bevic Moussiti-Oko,11,CGO,FW,27-189,20,0,0,0,0,1,1,0,0,3,0,0,0,0.1,0.1,0.0,0,0,1,1,100.0,0,3,0,0,0,Ajaccio,2022-08-05 Lyon-Ajaccio,FRA-L1,22-23,47ab569b
+374fbf7d,Riad Nouri,5,FRA,LM,37-059,70,0,0,0,0,2,1,0,0,25,2,1,0,0.2,0.2,0.0,1,0,15,19,78.9,1,20,0,1,1,Ajaccio,2022-08-05 Lyon-Ajaccio,FRA-L1,22-23,47ab569b
+7495aba7,Yanis Cimignani,22,FRA,LM,20-195,20,0,0,0,0,1,0,0,0,10,1,0,1,0.1,0.1,0.0,0,0,2,5,40.0,0,5,0,0,0,Ajaccio,2022-08-05 Lyon-Ajaccio,FRA-L1,22-23,47ab569b
+c801616a,Thomas Mangani,23,FRA,CM,35-098,88,1,0,1,1,1,0,0,0,68,3,1,1,0.9,0.1,0.1,2,0,35,59,59.3,7,42,1,0,0,Ajaccio,2022-08-05 Lyon-Ajaccio,FRA-L1,22-23,47ab569b
+eb0db257,Qazim Laçi,10,ALB,CM,26-198,2,0,0,0,0,0,0,0,0,5,1,0,0,0.0,0.0,0.0,0,0,2,4,50.0,0,3,0,0,0,Ajaccio,2022-08-05 Lyon-Ajaccio,FRA-L1,22-23,47ab569b
+740f00ac,Vincent Marchetti,8,FRA,CM,25-032,88,0,0,0,0,0,0,0,0,45,3,1,1,0.0,0.0,0.2,4,1,28,36,77.8,6,31,2,1,1,Ajaccio,2022-08-05 Lyon-Ajaccio,FRA-L1,22-23,47ab569b
+ef8ae23b,Mathieu Coutadeur,6,FRA,CM,36-138,2,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,6,7,85.7,1,7,0,0,0,Ajaccio,2022-08-05 Lyon-Ajaccio,FRA-L1,22-23,47ab569b
+20e0dd86,Cyrille Bayala,14,BFA,RM,26-073,70,0,0,0,0,0,0,0,0,30,4,1,0,0.0,0.0,0.0,2,0,17,21,81.0,2,20,3,3,0,Ajaccio,2022-08-05 Lyon-Ajaccio,FRA-L1,22-23,47ab569b
+a45a5d95,Kevin Spadanuda,27,SUI,RM,25-201,20,0,0,0,0,0,0,1,0,8,0,0,0,0.0,0.0,0.0,0,0,4,4,100.0,0,5,1,3,0,Ajaccio,2022-08-05 Lyon-Ajaccio,FRA-L1,22-23,47ab569b
+b3244eeb,Ismael Diallo,3,CIV,LB,25-188,90,0,0,0,0,0,0,1,0,41,0,0,2,0.0,0.0,0.1,1,0,22,31,71.0,3,30,2,3,1,Ajaccio,2022-08-05 Lyon-Ajaccio,FRA-L1,22-23,47ab569b
+a94d93be,Cédric Avinel,21,GLP,CB,35-328,90,0,0,0,0,0,0,1,0,35,1,1,0,0.0,0.0,0.0,0,0,27,32,84.4,2,25,0,0,0,Ajaccio,2022-08-05 Lyon-Ajaccio,FRA-L1,22-23,47ab569b
+a9d4c241,Oumar Gonzalez,25,CMR,CB,24-161,90,0,0,0,0,0,0,0,0,38,3,6,0,0.0,0.0,0.0,0,0,24,27,88.9,5,25,0,0,0,Ajaccio,2022-08-05 Lyon-Ajaccio,FRA-L1,22-23,47ab569b
+0a63446f,Mickaël Alphonse,2,GLP,RB,33-024,90,0,0,0,0,0,0,0,0,54,3,0,1,0.0,0.0,0.0,0,0,24,39,61.5,3,22,2,2,0,Ajaccio,2022-08-05 Lyon-Ajaccio,FRA-L1,22-23,47ab569b
+1e7aea56,Benjamin Leroy,1,FRA,GK,33-120,90,0,0,0,0,0,0,0,0,27,0,0,0,0.0,0.0,0.0,0,0,14,22,63.6,0,13,0,0,0,Ajaccio,2022-08-05 Lyon-Ajaccio,FRA-L1,22-23,47ab569b

@@ -1,0 +1,29 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+71a20ce8,Mario Gómez,33,GER,FW,32-131,90,0,0,0,0,4,3,0,0,45,1,0,1,0.6,0.6,0.0,3,3,18,31,58.1,4,22,1,1,1,Wolfsburg,2017-11-18 Wolfsburg-Freiburg,GER-BL1,17-18,1590e6e4
+f3722c97,Yunus Mallı,10,TUR,LW,25-267,89,2,0,0,0,4,2,0,0,43,1,1,2,1.0,1.0,0.1,8,1,19,26,73.1,7,30,4,4,3,Wolfsburg,2017-11-18 Wolfsburg-Freiburg,GER-BL1,17-18,1590e6e4
+da59a197,Riechedly Bazoer,6,NED,LW,21-037,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Wolfsburg,2017-11-18 Wolfsburg-Freiburg,GER-BL1,17-18,1590e6e4
+62ab9184,Yannick Gerhardt,13,GER,RW,23-250,90,1,1,0,0,2,1,0,0,56,5,1,1,0.2,0.2,0.5,4,1,29,44,65.9,4,28,2,3,2,Wolfsburg,2017-11-18 Wolfsburg-Freiburg,GER-BL1,17-18,1590e6e4
+d3096421,Daniel Didavi,11,GER,AM,27-270,86,0,2,0,0,4,1,0,0,36,0,0,0,0.2,0.2,0.5,3,1,22,28,78.6,4,20,1,2,1,Wolfsburg,2017-11-18 Wolfsburg-Freiburg,GER-BL1,17-18,1590e6e4
+43a166b4,Divock Origi,14,BEL,AM,22-214,4,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,0,2,0.0,0,0,0,0,0,Wolfsburg,2017-11-18 Wolfsburg-Freiburg,GER-BL1,17-18,1590e6e4
+86e119e0,Maximilian Arnold,27,GER,DM,23-175,90,0,0,0,0,0,0,0,0,55,2,2,1,0.0,0.0,0.0,1,0,38,51,74.5,2,29,1,2,1,Wolfsburg,2017-11-18 Wolfsburg-Freiburg,GER-BL1,17-18,1590e6e4
+e6c43eec,Josuha Guilavogui,23,FRA,DM,27-060,90,0,0,0,0,1,0,0,0,67,2,2,5,0.0,0.0,0.1,2,0,42,52,80.8,10,17,1,2,1,Wolfsburg,2017-11-18 Wolfsburg-Freiburg,GER-BL1,17-18,1590e6e4
+45954ec7,Marcel Tisserand,29,COD,LB,24-312,90,0,0,0,0,0,0,1,0,69,0,3,2,0.0,0.0,0.1,1,0,41,54,75.9,4,35,1,3,1,Wolfsburg,2017-11-18 Wolfsburg-Freiburg,GER-BL1,17-18,1590e6e4
+e27da244,John Brooks,25,USA,CB,24-294,90,0,0,0,0,0,0,0,0,69,2,3,1,0.0,0.0,0.0,0,0,52,57,91.2,0,34,0,2,2,Wolfsburg,2017-11-18 Wolfsburg-Freiburg,GER-BL1,17-18,1590e6e4
+6bd5cd5d,Robin Knoche,31,GER,CB,25-180,90,0,0,0,0,0,0,0,0,80,1,2,2,0.0,0.0,0.0,0,0,69,73,94.5,5,50,0,0,0,Wolfsburg,2017-11-18 Wolfsburg-Freiburg,GER-BL1,17-18,1590e6e4
+97655ccd,Paul Verhaegh,3,NED,RB,34-078,90,0,0,0,0,0,0,0,0,63,2,2,1,0.0,0.0,0.0,2,0,39,58,67.2,4,28,1,1,1,Wolfsburg,2017-11-18 Wolfsburg-Freiburg,GER-BL1,17-18,1590e6e4
+db401046,Koen Casteels,1,BEL,GK,25-146,90,0,0,0,0,0,0,0,0,56,0,0,0,0.0,0.0,0.0,0,0,37,52,71.2,0,28,0,0,0,Wolfsburg,2017-11-18 Wolfsburg-Freiburg,GER-BL1,17-18,1590e6e4
+f93e6e94,Nils Petersen,18,GER,FW,28-347,90,0,0,0,0,2,1,0,0,31,0,1,3,0.1,0.1,0.0,0,0,16,23,69.6,0,14,0,3,2,Freiburg,2017-11-18 Wolfsburg-Freiburg,GER-BL1,17-18,1590e6e4
+6a81a181,Florian Kath,38,GER,LW,23-028,76,0,0,0,0,1,0,1,0,32,0,3,0,0.0,0.0,0.0,3,1,16,26,61.5,2,25,1,1,1,Freiburg,2017-11-18 Wolfsburg-Freiburg,GER-BL1,17-18,1590e6e4
+4d74201d,Yoric Ravet,16,FRA,LW,28-067,14,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,2,0,5,6,83.3,1,4,1,0,0,Freiburg,2017-11-18 Wolfsburg-Freiburg,GER-BL1,17-18,1590e6e4
+79fa1799,Karim Guédé,31,SVK,RW,32-315,52,0,0,0,0,0,0,0,0,13,1,1,1,0.0,0.0,0.0,2,0,2,7,28.6,0,7,0,1,0,Freiburg,2017-11-18 Wolfsburg-Freiburg,GER-BL1,17-18,1590e6e4
+7364c4d1,Bartosz Kapustka,32,POL,RW,20-330,38,1,0,0,0,2,2,0,0,19,0,0,1,0.1,0.1,0.0,1,0,10,15,66.7,0,11,2,1,0,Freiburg,2017-11-18 Wolfsburg-Freiburg,GER-BL1,17-18,1590e6e4
+5d8e331f,Nicolas Höfler,27,GER,LM,27-254,90,0,0,0,0,0,0,0,0,67,2,1,5,0.0,0.0,0.0,0,0,51,61,83.6,10,39,1,1,1,Freiburg,2017-11-18 Wolfsburg-Freiburg,GER-BL1,17-18,1590e6e4
+d0421d25,Julian Schuster,23,GER,CM,32-217,79,0,0,0,0,1,0,0,0,72,2,1,2,0.0,0.0,0.0,1,0,53,66,80.3,5,43,1,1,1,Freiburg,2017-11-18 Wolfsburg-Freiburg,GER-BL1,17-18,1590e6e4
+7e689867,Marco Terrazzino,13,GER,CM,26-217,11,0,0,0,0,1,1,0,0,12,1,0,1,0.3,0.3,0.0,1,0,9,10,90.0,1,5,1,0,0,Freiburg,2017-11-18 Wolfsburg-Freiburg,GER-BL1,17-18,1590e6e4
+70dcf94d,Janik Haberer,19,GER,RM,23-230,90,0,1,0,0,1,1,0,0,51,6,2,1,0.0,0.0,0.1,4,1,33,41,80.5,4,20,0,1,1,Freiburg,2017-11-18 Wolfsburg-Freiburg,GER-BL1,17-18,1590e6e4
+8593f88c,Christian Günter,30,GER,LB,24-263,90,0,0,0,0,1,0,0,0,63,2,1,2,0.0,0.0,0.4,5,0,43,53,81.1,5,45,3,5,4,Freiburg,2017-11-18 Wolfsburg-Freiburg,GER-BL1,17-18,1590e6e4
+815c314f,Marc-Oliver Kempf,20,GER,CB,22-294,90,0,0,0,0,0,0,0,0,91,0,2,0,0.0,0.0,0.0,2,0,67,81,82.7,5,54,0,0,0,Freiburg,2017-11-18 Wolfsburg-Freiburg,GER-BL1,17-18,1590e6e4
+ea6bc03a,Robin Koch,25,GER,CB,21-124,90,0,0,0,0,0,0,1,0,67,2,1,0,0.0,0.0,0.0,1,0,56,62,90.3,1,43,1,0,0,Freiburg,2017-11-18 Wolfsburg-Freiburg,GER-BL1,17-18,1590e6e4
+99f7e9aa,Pascal Stenzel,15,GER,RB,21-243,90,0,0,0,0,3,1,0,0,70,1,2,0,0.1,0.1,0.0,1,0,49,60,81.7,4,42,2,0,0,Freiburg,2017-11-18 Wolfsburg-Freiburg,GER-BL1,17-18,1590e6e4
+0d55d942,Alexander Schwolow,1,GER,GK,25-169,90,0,0,0,0,0,0,0,0,64,0,0,0,0.0,0.0,0.0,0,0,39,58,67.2,0,32,0,0,0,Freiburg,2017-11-18 Wolfsburg-Freiburg,GER-BL1,17-18,1590e6e4

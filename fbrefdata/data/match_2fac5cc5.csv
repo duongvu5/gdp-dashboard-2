@@ -1,0 +1,29 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+18ebca4b,Gaëtan Charbonnier,10,FRA,FW,30-317,90,0,0,0,0,2,0,0,0,39,5,0,0,0.2,0.2,0.1,3,0,23,26,88.5,6,20,0,0,0,Brest,2019-11-09 Brest-Paris S-G,FRA-L1,19-20,2fac5cc5
+26e4447b,Yoann Court,8,FRA,LW,29-299,90,0,1,0,0,7,0,1,0,62,5,0,0,0.3,0.3,0.4,8,1,21,39,53.8,4,38,1,3,1,Brest,2019-11-09 Brest-Paris S-G,FRA-L1,19-20,2fac5cc5
+5e080f73,Irvin Cardona,14,FRA,RW,22-093,77,0,0,0,0,2,0,0,0,26,1,0,0,0.1,0.1,0.1,3,0,11,17,64.7,3,20,1,1,0,Brest,2019-11-09 Brest-Paris S-G,FRA-L1,19-20,2fac5cc5
+e067808c,Alexandre Mendy,15,GNB,RW,25-234,13,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,6,7,85.7,0,5,1,0,0,Brest,2019-11-09 Brest-Paris S-G,FRA-L1,19-20,2fac5cc5
+7dfbba27,Mathias Autret,23,FRA,AM,28-253,64,0,0,0,0,2,1,0,0,34,3,0,0,0.1,0.1,0.0,2,0,16,21,76.2,3,14,0,0,0,Brest,2019-11-09 Brest-Paris S-G,FRA-L1,19-20,2fac5cc5
+d2448564,Samuel Grandsir,25,FRA,AM,23-087,26,1,0,0,0,1,1,0,0,8,1,0,0,0.3,0.3,0.0,2,0,4,6,66.7,1,8,1,1,1,Brest,2019-11-09 Brest-Paris S-G,FRA-L1,19-20,2fac5cc5
+11ff3d56,Ibrahima Diallo,6,FRA,DM,20-246,90,0,0,0,0,0,0,0,0,56,1,1,1,0.0,0.0,0.0,1,0,46,54,85.2,6,37,1,1,1,Brest,2019-11-09 Brest-Paris S-G,FRA-L1,19-20,2fac5cc5
+2b1bed19,Haris Belkebla,7,ALG,DM,25-285,90,0,0,0,0,1,1,0,0,42,3,6,0,0.1,0.1,0.0,2,0,30,33,90.9,4,26,0,1,1,Brest,2019-11-09 Brest-Paris S-G,FRA-L1,19-20,2fac5cc5
+6dfd8f05,Romain Perraud,18,FRA,LB,22-048,90,0,0,0,0,1,1,0,0,55,2,0,0,0.0,0.0,0.1,4,0,39,50,78.0,6,32,5,0,0,Brest,2019-11-09 Brest-Paris S-G,FRA-L1,19-20,2fac5cc5
+5065d67d,Dénys Bain,17,FRA,CB,26-130,90,0,0,0,0,0,0,0,0,62,0,2,1,0.0,0.0,0.0,0,0,46,51,90.2,1,34,0,0,0,Brest,2019-11-09 Brest-Paris S-G,FRA-L1,19-20,2fac5cc5
+e0f3a1f6,Jean-Charles Castelletto,21,CMR,CB,24-287,90,0,0,0,0,0,0,0,0,44,1,2,1,0.0,0.0,0.0,0,0,28,36,77.8,2,24,0,0,0,Brest,2019-11-09 Brest-Paris S-G,FRA-L1,19-20,2fac5cc5
+767212e6,Julien Faussurier,22,FRA,RB,32-299,90,0,0,0,0,1,0,0,0,75,1,3,1,0.1,0.1,0.1,6,0,39,60,65.0,5,35,5,3,2,Brest,2019-11-09 Brest-Paris S-G,FRA-L1,19-20,2fac5cc5
+b49729cb,Gautier Larsonneur,1,FRA,GK,22-259,90,0,0,0,0,0,0,0,0,51,0,0,0,0.0,0.0,0.0,0,0,43,49,87.8,0,27,0,0,0,Brest,2019-11-09 Brest-Paris S-G,FRA-L1,19-20,2fac5cc5
+527f063d,Edinson Cavani,9,URU,FW,32-268,79,0,0,0,0,2,1,0,0,26,1,0,1,0.3,0.3,0.1,2,0,19,22,86.4,2,7,1,0,0,Paris Saint-Germain,2019-11-09 Brest-Paris S-G,FRA-L1,19-20,2fac5cc5
+43b78598,Mauro Icardi,18,ARG,FW,26-263,11,1,0,0,0,2,1,0,0,3,0,0,0,0.8,0.8,0.0,2,1,1,1,100.0,0,3,1,1,1,Paris Saint-Germain,2019-11-09 Brest-Paris S-G,FRA-L1,19-20,2fac5cc5
+19cda00b,Ángel Di María,11,ARG,"LW,RW",31-268,90,1,0,0,0,6,2,0,0,68,0,0,0,0.7,0.7,0.4,10,0,40,55,72.7,9,43,5,6,2,Paris Saint-Germain,2019-11-09 Brest-Paris S-G,FRA-L1,19-20,2fac5cc5
+9744ff80,Pablo Sarabia,19,ESP,RW,27-182,79,0,0,0,0,2,1,0,0,54,2,1,1,0.1,0.1,0.0,4,0,33,39,84.6,5,27,2,3,2,Paris Saint-Germain,2019-11-09 Brest-Paris S-G,FRA-L1,19-20,2fac5cc5
+0e6bc38c,Eric Maxim Choupo-Moting,17,CMR,LW,30-231,11,0,0,0,0,1,0,0,0,10,1,0,0,0.2,0.2,0.1,2,0,6,7,85.7,0,4,1,0,0,Paris Saint-Germain,2019-11-09 Brest-Paris S-G,FRA-L1,19-20,2fac5cc5
+1a992676,Julian Draxler,23,GER,AM,26-050,90,0,1,0,0,3,2,1,0,59,1,1,0,0.2,0.2,0.6,8,2,45,53,84.9,11,37,9,1,1,Paris Saint-Germain,2019-11-09 Brest-Paris S-G,FRA-L1,19-20,2fac5cc5
+1467af0d,Marco Verratti,6,ITA,DM,27-004,79,0,0,0,0,0,0,0,0,84,4,2,2,0.0,0.0,0.0,2,1,69,75,92.0,4,46,0,0,0,Paris Saint-Germain,2019-11-09 Brest-Paris S-G,FRA-L1,19-20,2fac5cc5
+d5f2f82b,Marquinhos,5,BRA,DM,25-179,11,0,0,0,0,0,0,0,0,11,1,0,0,0.0,0.0,0.0,0,0,8,10,80.0,0,6,0,1,1,Paris Saint-Germain,2019-11-09 Brest-Paris S-G,FRA-L1,19-20,2fac5cc5
+72c812f3,Idrissa Gana Gueye,27,SEN,DM,30-044,90,0,0,0,0,0,0,0,0,98,3,1,6,0.0,0.0,0.0,0,0,77,82,93.9,10,62,0,3,2,Paris Saint-Germain,2019-11-09 Brest-Paris S-G,FRA-L1,19-20,2fac5cc5
+41e7ef1c,Layvin Kurzawa,20,FRA,LB,27-066,90,0,0,0,0,1,1,0,0,79,1,2,2,0.1,0.1,0.0,2,0,45,60,75.0,5,45,3,4,1,Paris Saint-Germain,2019-11-09 Brest-Paris S-G,FRA-L1,19-20,2fac5cc5
+fc62f087,Abdou Diallo,22,SEN,CB,23-189,90,0,0,0,0,0,0,1,0,91,1,2,0,0.0,0.0,0.1,0,0,75,82,91.5,7,58,2,2,2,Paris Saint-Germain,2019-11-09 Brest-Paris S-G,FRA-L1,19-20,2fac5cc5
+86e7deaf,Thiago Silva,2,BRA,CB,35-048,90,0,0,0,0,1,0,0,0,94,1,0,1,0.1,0.1,0.0,1,0,75,83,90.4,2,64,0,0,0,Paris Saint-Germain,2019-11-09 Brest-Paris S-G,FRA-L1,19-20,2fac5cc5
+29c02c9f,Colin Dagba,31,FRA,RB,21-061,90,0,0,0,0,0,0,0,0,60,1,0,0,0.0,0.0,0.1,1,0,44,50,88.0,3,37,5,0,0,Paris Saint-Germain,2019-11-09 Brest-Paris S-G,FRA-L1,19-20,2fac5cc5
+5f0241b2,Sergio Rico,16,ESP,GK,26-069,90,0,0,0,0,0,0,0,0,29,0,0,0,0.0,0.0,0.0,0,0,21,26,80.8,0,9,0,1,1,Paris Saint-Germain,2019-11-09 Brest-Paris S-G,FRA-L1,19-20,2fac5cc5

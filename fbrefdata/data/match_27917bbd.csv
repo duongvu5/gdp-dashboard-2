@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+d3de9af0,Duván Zapata,91,COL,FW,28-055,90,1,0,0,0,2,2,0,0,32,2,0,0,1.0,1.0,0.0,0,0,13,19,68.4,3,19,1,0,0,Atalanta,2019-05-26 Atalanta-Sassuolo,ITA-SERIA_A,18-19,27917bbd
+68252d6d,Josip Iličić,72,SVN,FW,31-117,90,0,0,0,0,2,1,1,0,66,2,0,0,0.1,0.1,0.1,6,1,37,52,71.2,10,35,7,5,1,Atalanta,2019-05-26 Atalanta-Sassuolo,ITA-SERIA_A,18-19,27917bbd
+6e4df551,Papu Gómez,10,ARG,"AM,WB",31-100,89,1,1,0,0,5,2,0,0,75,0,1,2,0.7,0.7,0.2,5,1,50,63,79.4,5,43,4,3,1,Atalanta,2019-05-26 Atalanta-Sassuolo,ITA-SERIA_A,18-19,27917bbd
+5aa53281,Gianluca Mancini,23,ITA,"CB,WB",23-039,1,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,0,0,10,10,100.0,0,5,0,0,0,Atalanta,2019-05-26 Atalanta-Sassuolo,ITA-SERIA_A,18-19,27917bbd
+98d2c2c4,Remo Freuler,11,SUI,CM,27-041,90,0,0,0,0,2,0,0,0,95,5,0,4,0.1,0.1,0.0,3,1,66,78,84.6,7,44,3,1,0,Atalanta,2019-05-26 Atalanta-Sassuolo,ITA-SERIA_A,18-19,27917bbd
+2a1beb34,Marten de Roon,15,NED,"CM,CB",28-058,90,0,0,0,0,0,0,1,0,94,3,1,2,0.0,0.0,0.1,3,0,74,86,86.0,9,47,1,0,0,Atalanta,2019-05-26 Atalanta-Sassuolo,ITA-SERIA_A,18-19,27917bbd
+2d970560,Robin Gosens,8,GER,"WB,CM",24-325,90,0,0,0,0,1,0,0,0,73,3,1,2,0.1,0.1,0.0,0,0,43,57,75.4,5,34,6,0,0,Atalanta,2019-05-26 Atalanta-Sassuolo,ITA-SERIA_A,18-19,27917bbd
+197640fd,Timothy Castagne,21,BEL,WB,23-172,90,0,0,0,0,0,0,0,0,63,2,0,1,0.0,0.0,0.0,4,0,52,56,92.9,3,36,1,1,1,Atalanta,2019-05-26 Atalanta-Sassuolo,ITA-SERIA_A,18-19,27917bbd
+921f6058,José Luis Palomino,6,ARG,CB,29-141,90,0,0,0,0,0,0,0,0,69,2,1,1,0.0,0.0,0.0,0,0,56,62,90.3,3,36,0,1,1,Atalanta,2019-05-26 Atalanta-Sassuolo,ITA-SERIA_A,18-19,27917bbd
+6eee05f1,Berat Djimsiti,19,ALB,CB,26-096,90,0,0,0,0,1,0,0,0,78,2,1,1,0.1,0.1,0.1,4,1,67,68,98.5,5,42,0,0,0,Atalanta,2019-05-26 Atalanta-Sassuolo,ITA-SERIA_A,18-19,27917bbd
+e0314d87,Andrea Masiello,5,ITA,CB,33-110,61,0,0,0,0,0,0,0,0,38,1,0,1,0.0,0.0,0.0,0,0,33,34,97.1,5,17,1,0,0,Atalanta,2019-05-26 Atalanta-Sassuolo,ITA-SERIA_A,18-19,27917bbd
+e599253a,Mario Pašalić,88,CRO,AM,24-106,29,1,0,0,0,3,1,0,0,24,1,1,2,0.2,0.2,0.0,2,0,14,16,87.5,1,11,0,0,0,Atalanta,2019-05-26 Atalanta-Sassuolo,ITA-SERIA_A,18-19,27917bbd
+f0f7f62f,Pierluigi Gollini,95,ITA,GK,24-069,89,0,0,0,0,0,0,0,0,26,0,0,0,0.0,0.0,0.0,0,0,17,25,68.0,0,16,0,0,0,Atalanta,2019-05-26 Atalanta-Sassuolo,ITA-SERIA_A,18-19,27917bbd
+7b5f516f,Francesco Rossi,31,ITA,GK,28-029,1,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,0,0,0,0,Atalanta,2019-05-26 Atalanta-Sassuolo,ITA-SERIA_A,18-19,27917bbd
+a8a874f1,Manuel Locatelli,73,ITA,FW,21-138,58,0,0,0,0,0,0,0,0,47,1,0,1,0.0,0.0,0.1,1,0,36,40,90.0,4,34,1,0,0,Sassuolo,2019-05-26 Atalanta-Sassuolo,ITA-SERIA_A,18-19,27917bbd
+eccbe56a,Filip Đuričić,9,SRB,FW,27-116,32,0,0,0,0,1,1,0,0,22,0,0,1,0.2,0.2,0.0,1,0,13,15,86.7,0,17,1,2,1,Sassuolo,2019-05-26 Atalanta-Sassuolo,ITA-SERIA_A,18-19,27917bbd
+fe012aca,Jeremie Boga,20,CIV,LW,22-143,84,0,0,0,0,0,0,0,0,36,1,1,1,0.0,0.0,0.0,0,0,24,27,88.9,0,30,3,9,5,Sassuolo,2019-05-26 Atalanta-Sassuolo,ITA-SERIA_A,18-19,27917bbd
+dd7febd8,Leonardo Sernicola,17,ITA,LW,21-300,6,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,3,3,100.0,0,3,0,0,0,Sassuolo,2019-05-26 Atalanta-Sassuolo,ITA-SERIA_A,18-19,27917bbd
+53a0e358,Domenico Berardi,25,ITA,RW,24-298,44,1,0,0,0,2,1,0,1,29,0,1,2,0.4,0.4,0.0,0,0,10,20,50.0,1,14,1,2,2,Sassuolo,2019-05-26 Atalanta-Sassuolo,ITA-SERIA_A,18-19,27917bbd
+528492ea,Alfred Duncan,32,GHA,LM,26-077,90,0,1,0,0,1,0,0,0,41,1,0,0,0.1,0.1,0.6,4,1,25,30,83.3,2,28,1,3,2,Sassuolo,2019-05-26 Atalanta-Sassuolo,ITA-SERIA_A,18-19,27917bbd
+07767f42,Francesco Magnanelli,4,ITA,CM,34-195,82,0,0,0,0,0,0,2,1,43,2,0,0,0.0,0.0,0.0,0,0,37,40,92.5,3,32,0,1,1,Sassuolo,2019-05-26 Atalanta-Sassuolo,ITA-SERIA_A,18-19,27917bbd
+0d077b88,Mehdi Bourabia,68,MAR,RM,27-292,90,0,0,0,0,0,0,0,0,58,2,2,0,0.0,0.0,0.0,2,0,27,44,61.4,2,31,1,5,4,Sassuolo,2019-05-26 Atalanta-Sassuolo,ITA-SERIA_A,18-19,27917bbd
+10e7f486,Rogério,6,BRA,LB,21-133,90,0,0,0,0,0,0,1,0,60,2,0,1,0.0,0.0,0.0,0,0,37,54,68.5,1,37,1,2,2,Sassuolo,2019-05-26 Atalanta-Sassuolo,ITA-SERIA_A,18-19,27917bbd
+8650af85,Gian Marco Ferrari,31,ITA,CB,27-100,90,0,0,0,0,1,0,1,0,36,1,3,0,0.0,0.0,0.0,0,0,19,24,79.2,2,17,0,0,0,Sassuolo,2019-05-26 Atalanta-Sassuolo,ITA-SERIA_A,18-19,27917bbd
+e3cceee6,Merih Demiral,3,TUR,CB,21-082,90,0,0,0,0,0,0,0,0,44,4,3,3,0.0,0.0,0.0,0,0,19,26,73.1,2,14,0,0,0,Sassuolo,2019-05-26 Atalanta-Sassuolo,ITA-SERIA_A,18-19,27917bbd
+ff800ed8,Pol Lirola,21,ESP,RB,21-286,89,0,0,0,0,0,0,0,0,53,0,3,1,0.0,0.0,0.0,1,1,29,43,67.4,4,27,3,3,1,Sassuolo,2019-05-26 Atalanta-Sassuolo,ITA-SERIA_A,18-19,27917bbd
+6e058f06,Giacomo Raspadori,18,ITA,RB,19-097,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Sassuolo,2019-05-26 Atalanta-Sassuolo,ITA-SERIA_A,18-19,27917bbd
+f058ed1f,Gianluca Pegolo,79,ITA,GK,38-062,90,0,0,0,0,0,0,0,0,34,0,0,0,0.0,0.0,0.0,0,0,17,32,53.1,0,16,0,0,0,Sassuolo,2019-05-26 Atalanta-Sassuolo,ITA-SERIA_A,18-19,27917bbd

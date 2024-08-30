@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+85613cf0,Arkadiusz Milik,9,POL,FW,28-082,89,0,1,0,0,0,0,0,0,25,1,0,0,0.0,0.0,0.3,3,2,13,19,68.4,1,19,0,0,0,Marseille,2022-05-21 Marseille-Strasbourg,FRA-L1,21-22,e8335e4c
+0af4dcf0,Cédric Bakambu,13,COD,FW,31-040,1,1,0,0,0,2,2,0,0,3,0,0,0,0.6,0.6,0.0,1,0,1,1,100.0,0,0,0,0,0,Marseille,2022-05-21 Marseille-Strasbourg,FRA-L1,21-22,e8335e4c
+1880614f,Cengiz Ünder,17,TUR,LW,24-311,89,1,0,0,0,3,1,0,0,48,0,3,0,0.6,0.6,0.0,4,1,28,35,80.0,2,35,2,2,0,Marseille,2022-05-21 Marseille-Strasbourg,FRA-L1,21-22,e8335e4c
+ff800ed8,Pol Lirola,29,ESP,LW,24-281,1,0,0,0,0,1,0,0,0,2,0,0,0,0.1,0.1,0.0,1,0,0,0,,0,1,0,0,0,Marseille,2022-05-21 Marseille-Strasbourg,FRA-L1,21-22,e8335e4c
+e7d59f4f,Amine Harit,7,MAR,RW,24-337,89,0,1,0,0,2,2,0,0,47,0,0,0,0.3,0.3,0.7,7,0,34,38,89.5,2,37,5,3,0,Marseille,2022-05-21 Marseille-Strasbourg,FRA-L1,21-22,e8335e4c
+f36d5624,Luis Henrique,11,BRA,RW,20-158,1,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,2,1,0,0,Marseille,2022-05-21 Marseille-Strasbourg,FRA-L1,21-22,e8335e4c
+8827bf46,Gerson,8,BRA,CM,25-001,90,2,0,0,0,2,2,0,0,54,2,1,0,0.1,0.1,0.2,5,0,39,48,81.3,3,38,4,0,0,Marseille,2022-05-21 Marseille-Strasbourg,FRA-L1,21-22,e8335e4c
+5ea8ef20,Mattéo Guendouzi,6,FRA,CM,23-037,90,0,0,0,0,2,2,0,0,53,0,2,0,0.1,0.1,0.0,1,0,37,46,80.4,7,45,2,0,0,Marseille,2022-05-21 Marseille-Strasbourg,FRA-L1,21-22,e8335e4c
+7155e3e1,Pape Gueye,22,SEN,DM,23-117,89,0,0,0,0,1,0,1,0,44,3,1,0,0.4,0.4,0.0,1,0,31,34,91.2,5,34,2,2,1,Marseille,2022-05-21 Marseille-Strasbourg,FRA-L1,21-22,e8335e4c
+3935e52e,Sead Kolašinac,23,BIH,DM,28-335,1,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,1,1,0,0,0,Marseille,2022-05-21 Marseille-Strasbourg,FRA-L1,21-22,e8335e4c
+ed45c4a5,Valentin Rongier,21,FRA,DM,27-165,90,0,0,0,0,3,2,0,0,78,4,1,1,0.1,0.1,0.1,3,1,60,64,93.8,5,62,2,3,1,Marseille,2022-05-21 Marseille-Strasbourg,FRA-L1,21-22,e8335e4c
+a5549ec1,Luan Peres Petroni,14,BRA,LB,27-306,90,0,0,0,0,0,0,0,0,76,1,2,0,0.0,0.0,0.0,0,0,61,69,88.4,9,55,0,0,0,Marseille,2022-05-21 Marseille-Strasbourg,FRA-L1,21-22,e8335e4c
+cc77354e,Boubacar Kamara,4,FRA,CB,22-179,90,0,0,0,0,0,0,0,0,80,0,3,0,0.0,0.0,0.0,1,0,62,70,88.6,3,60,0,1,0,Marseille,2022-05-21 Marseille-Strasbourg,FRA-L1,21-22,e8335e4c
+94f8d10c,Duje Ćaleta-Car,15,CRO,RB,25-246,90,0,0,0,0,1,0,1,0,85,0,0,0,0.0,0.0,0.4,2,1,71,80,88.8,1,77,0,0,0,Marseille,2022-05-21 Marseille-Strasbourg,FRA-L1,21-22,e8335e4c
+1d2d5cc8,Steve Mandanda,30,FRA,GK,37-054,90,0,0,0,0,0,0,0,0,49,0,0,0,0.0,0.0,0.0,0,0,31,48,64.6,0,37,0,0,0,Marseille,2022-05-21 Marseille-Strasbourg,FRA-L1,21-22,e8335e4c
+42276181,Kévin Gameiro,9,FRA,FW,35-012,71,0,0,0,0,3,1,0,0,24,1,0,0,0.6,0.6,0.0,1,0,7,13,53.8,0,17,0,3,1,Strasbourg,2022-05-21 Marseille-Strasbourg,FRA-L1,21-22,e8335e4c
+6605d143,Habib Diallo,20,SEN,FW,26-337,19,0,0,0,0,0,0,0,0,6,0,0,1,0.0,0.0,0.0,0,0,2,2,100.0,0,4,0,1,0,Strasbourg,2022-05-21 Marseille-Strasbourg,FRA-L1,21-22,e8335e4c
+462475ed,Ludovic Ajorque,25,FRA,FW,28-085,90,0,0,0,0,1,1,0,0,26,0,0,0,0.0,0.0,0.3,0,0,16,18,88.9,1,15,1,1,0,Strasbourg,2022-05-21 Marseille-Strasbourg,FRA-L1,21-22,e8335e4c
+48b28bfd,Jean-Eudes Aholou,6,CIV,CM,28-062,72,0,0,0,0,2,0,0,0,29,1,0,0,0.0,0.0,0.0,3,0,17,20,85.0,1,21,0,1,0,Strasbourg,2022-05-21 Marseille-Strasbourg,FRA-L1,21-22,e8335e4c
+10f0fdd3,Jean-Ricner Bellegarde,17,FRA,CM,23-328,18,0,0,0,0,0,0,0,0,14,4,0,1,0.0,0.0,0.0,0,0,9,11,81.8,0,12,0,0,0,Strasbourg,2022-05-21 Marseille-Strasbourg,FRA-L1,21-22,e8335e4c
+51c30111,Sanjin Prcić,14,BIH,CM,28-182,71,0,0,0,0,0,0,0,0,38,1,0,0,0.0,0.0,0.0,0,0,29,34,85.3,2,29,1,1,1,Strasbourg,2022-05-21 Marseille-Strasbourg,FRA-L1,21-22,e8335e4c
+0f8418aa,Ibrahima Sissoko,27,MLI,CM,24-206,19,0,0,0,0,0,0,1,0,8,1,0,0,0.0,0.0,0.0,1,0,5,8,62.5,1,4,0,0,0,Strasbourg,2022-05-21 Marseille-Strasbourg,FRA-L1,21-22,e8335e4c
+c76b7567,Adrien Thomasson,10,FRA,CM,28-162,84,0,0,0,0,2,1,0,0,39,2,0,3,0.1,0.1,0.0,2,0,23,32,71.9,2,27,1,1,1,Strasbourg,2022-05-21 Marseille-Strasbourg,FRA-L1,21-22,e8335e4c
+c5908bc4,Nordine Kandil,34,FRA,CM,20-202,6,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,4,0,1,0,Strasbourg,2022-05-21 Marseille-Strasbourg,FRA-L1,21-22,e8335e4c
+0118c54c,Anthony Caci,19,FRA,LB,24-324,84,0,0,0,0,0,0,0,0,39,1,0,0,0.0,0.0,0.4,4,0,28,35,80.0,6,25,3,0,0,Strasbourg,2022-05-21 Marseille-Strasbourg,FRA-L1,21-22,e8335e4c
+50ac8941,Karol Fila,4,POL,LB,23-342,6,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,3,4,75.0,1,3,0,0,0,Strasbourg,2022-05-21 Marseille-Strasbourg,FRA-L1,21-22,e8335e4c
+43e7a164,Alexander Djiku,24,GHA,CB,27-285,90,0,0,0,0,0,0,0,0,53,0,0,0,0.0,0.0,0.0,3,0,39,44,88.6,9,36,1,1,0,Strasbourg,2022-05-21 Marseille-Strasbourg,FRA-L1,21-22,e8335e4c
+6043997c,Gerzino Nyamsi,22,FRA,CB,25-119,90,0,0,0,0,1,0,0,0,56,3,0,0,0.2,0.2,0.0,2,0,32,45,71.1,0,37,0,0,0,Strasbourg,2022-05-21 Marseille-Strasbourg,FRA-L1,21-22,e8335e4c
+49070d66,Lucas Perrin,5,FRA,CB,23-183,90,0,0,0,0,1,1,0,0,48,0,1,1,0.0,0.0,0.0,1,0,30,40,75.0,5,33,0,2,2,Strasbourg,2022-05-21 Marseille-Strasbourg,FRA-L1,21-22,e8335e4c
+5d8d7454,Frederic Guilbert,2,FRA,RB,27-148,90,0,0,0,0,0,0,0,0,46,4,1,1,0.0,0.0,0.1,3,0,22,35,62.9,3,26,2,3,2,Strasbourg,2022-05-21 Marseille-Strasbourg,FRA-L1,21-22,e8335e4c
+834b5c4c,Matz Sels,1,BEL,GK,30-084,90,0,0,0,0,0,0,0,0,31,0,0,0,0.0,0.0,0.0,0,0,13,25,52.0,0,19,0,0,0,Strasbourg,2022-05-21 Marseille-Strasbourg,FRA-L1,21-22,e8335e4c

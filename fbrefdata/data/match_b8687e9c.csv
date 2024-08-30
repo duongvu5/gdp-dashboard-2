@@ -1,0 +1,29 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+f93e6e94,Nils Petersen,18,GER,FW,29-045,90,0,0,0,0,0,0,0,0,37,1,2,2,0.0,0.0,0.0,2,0,11,19,57.9,1,15,3,6,1,Freiburg,2018-01-20 Freiburg-RB Leipzig,GER-BL1,17-18,b8687e9c
+70dcf94d,Janik Haberer,19,GER,LW,23-293,80,1,0,0,0,1,1,0,0,29,1,1,1,0.1,0.1,0.0,2,0,9,19,47.4,3,10,0,1,1,Freiburg,2018-01-20 Freiburg-RB Leipzig,GER-BL1,17-18,b8687e9c
+258a6f4d,Tim Kleindienst,34,GER,LW,22-142,10,0,0,0,0,0,0,0,0,7,1,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,2,0,1,0,Freiburg,2018-01-20 Freiburg-RB Leipzig,GER-BL1,17-18,b8687e9c
+ca618d23,Lucas Höler,9,GER,RW,23-194,89,0,0,0,0,1,1,0,0,38,6,0,2,0.1,0.1,0.0,2,1,7,21,33.3,2,16,0,2,1,Freiburg,2018-01-20 Freiburg-RB Leipzig,GER-BL1,17-18,b8687e9c
+381e52af,Caleb Stanko,33,USA,RW,24-178,1,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,1,0,0,0,Freiburg,2018-01-20 Freiburg-RB Leipzig,GER-BL1,17-18,b8687e9c
+8593f88c,Christian Günter,30,GER,LM,24-326,90,0,1,0,0,2,0,0,0,54,2,0,0,0.1,0.1,0.3,4,1,26,45,57.8,1,20,1,2,1,Freiburg,2018-01-20 Freiburg-RB Leipzig,GER-BL1,17-18,b8687e9c
+1c08a3c8,Amir Abrashi,6,ALB,CM,27-299,90,0,0,0,0,2,0,0,0,44,5,2,1,0.1,0.1,0.0,2,1,22,31,71.0,4,18,2,1,1,Freiburg,2018-01-20 Freiburg-RB Leipzig,GER-BL1,17-18,b8687e9c
+ea6bc03a,Robin Koch,25,GER,CM,21-187,90,1,0,0,0,1,1,0,0,42,3,1,1,0.1,0.1,0.0,1,1,24,31,77.4,5,14,2,1,1,Freiburg,2018-01-20 Freiburg-RB Leipzig,GER-BL1,17-18,b8687e9c
+99f7e9aa,Pascal Stenzel,15,GER,RM,21-306,90,0,0,0,0,0,0,0,0,59,2,1,2,0.0,0.0,0.1,3,0,40,53,75.5,9,24,0,3,2,Freiburg,2018-01-20 Freiburg-RB Leipzig,GER-BL1,17-18,b8687e9c
+815c314f,Marc-Oliver Kempf,20,GER,CB,22-357,90,0,0,0,0,1,0,0,0,52,1,0,1,0.1,0.1,0.0,0,0,34,45,75.6,3,27,0,0,0,Freiburg,2018-01-20 Freiburg-RB Leipzig,GER-BL1,17-18,b8687e9c
+25ab9c9c,Manuel Gulde,5,GER,CB,26-342,90,0,0,0,0,1,1,0,0,58,2,1,1,0.0,0.0,0.0,0,0,38,47,80.9,0,27,0,0,0,Freiburg,2018-01-20 Freiburg-RB Leipzig,GER-BL1,17-18,b8687e9c
+21166ff4,Çağlar Söyüncü,4,TUR,CB,21-242,90,0,0,0,0,0,0,0,0,45,2,0,0,0.0,0.0,0.0,0,0,30,40,75.0,0,33,0,1,0,Freiburg,2018-01-20 Freiburg-RB Leipzig,GER-BL1,17-18,b8687e9c
+0d55d942,Alexander Schwolow,1,GER,GK,25-232,26,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,0,0,5,10,50.0,0,4,0,0,0,Freiburg,2018-01-20 Freiburg-RB Leipzig,GER-BL1,17-18,b8687e9c
+17376543,Rafał Gikiewicz,44,POL,GK,30-086,64,0,0,0,0,0,0,0,0,36,0,0,0,0.0,0.0,0.0,0,0,21,35,60.0,0,17,0,0,0,Freiburg,2018-01-20 Freiburg-RB Leipzig,GER-BL1,17-18,b8687e9c
+97bfa797,Jean-Kévin Augustin,29,FRA,FW,20-218,70,0,0,0,0,1,1,0,0,19,1,0,4,0.1,0.1,0.0,0,0,8,11,72.7,1,10,1,3,2,RB Leipzig,2018-01-20 Freiburg-RB Leipzig,GER-BL1,17-18,b8687e9c
+d2416c2e,Yussuf Poulsen,9,DEN,FW,23-219,20,0,0,0,0,1,0,0,0,8,0,0,0,0.1,0.1,0.0,0,0,5,7,71.4,0,1,0,0,0,RB Leipzig,2018-01-20 Freiburg-RB Leipzig,GER-BL1,17-18,b8687e9c
+5caa62a7,Bruma,17,POR,LW,23-088,87,0,0,0,0,2,0,0,0,58,1,0,2,0.1,0.1,0.1,5,0,40,48,83.3,4,42,6,11,8,RB Leipzig,2018-01-20 Freiburg-RB Leipzig,GER-BL1,17-18,b8687e9c
+5ed9b537,Ibrahima Konaté,6,FRA,LW,18-240,3,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,1,0,0,0,RB Leipzig,2018-01-20 Freiburg-RB Leipzig,GER-BL1,17-18,b8687e9c
+49fe9070,Timo Werner,11,GER,RW,21-320,90,1,0,0,0,3,2,0,0,41,1,1,1,0.3,0.3,0.0,1,1,19,28,67.9,1,23,4,3,2,RB Leipzig,2018-01-20 Freiburg-RB Leipzig,GER-BL1,17-18,b8687e9c
+e280527c,Marcel Sabitzer,7,AUT,LM,23-309,90,0,1,0,0,2,0,0,0,60,1,1,2,0.1,0.1,0.3,4,1,32,43,74.4,4,28,1,1,0,RB Leipzig,2018-01-20 Freiburg-RB Leipzig,GER-BL1,17-18,b8687e9c
+dc3fa3b5,Diego Demme,31,GER,CM,26-060,90,0,0,0,0,0,0,0,0,109,5,1,0,0.0,0.0,0.0,2,0,84,105,80.0,19,67,2,1,1,RB Leipzig,2018-01-20 Freiburg-RB Leipzig,GER-BL1,17-18,b8687e9c
+b825a650,Kevin Kampl,44,SVN,RM,27-103,90,0,0,0,0,0,0,0,0,70,2,3,2,0.0,0.0,0.1,4,0,50,61,82.0,3,44,5,3,1,RB Leipzig,2018-01-20 Freiburg-RB Leipzig,GER-BL1,17-18,b8687e9c
+17370b95,Bernardo,3,BRA,LB,22-251,90,0,0,0,0,2,0,0,0,80,1,0,1,0.2,0.2,0.0,2,0,44,60,73.3,5,35,6,1,0,RB Leipzig,2018-01-20 Freiburg-RB Leipzig,GER-BL1,17-18,b8687e9c
+d248cd8f,Dayot Upamecano,5,FRA,CB,19-085,90,0,0,0,0,0,0,0,0,70,4,2,1,0.0,0.0,0.1,2,0,51,56,91.1,7,41,0,0,0,RB Leipzig,2018-01-20 Freiburg-RB Leipzig,GER-BL1,17-18,b8687e9c
+20030c06,Willi Orban,4,HUN,CB,25-078,90,0,0,0,0,1,0,0,0,72,2,1,3,0.0,0.0,0.0,0,0,40,55,72.7,1,27,0,0,0,RB Leipzig,2018-01-20 Freiburg-RB Leipzig,GER-BL1,17-18,b8687e9c
+c1b7847c,Konrad Laimer,27,AUT,RB,20-238,90,0,0,0,0,0,0,0,0,75,7,0,5,0.0,0.0,0.1,1,0,51,59,86.4,6,22,2,2,0,RB Leipzig,2018-01-20 Freiburg-RB Leipzig,GER-BL1,17-18,b8687e9c
+bcb2ccd8,Péter Gulácsi,32,HUN,GK,27-259,90,0,0,0,0,0,0,0,0,30,0,0,0,0.0,0.0,0.0,0,0,22,29,75.9,0,12,0,0,0,RB Leipzig,2018-01-20 Freiburg-RB Leipzig,GER-BL1,17-18,b8687e9c

@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+4be0b467,Lois Diony,9,FRA,FW,24-360,90,0,0,0,0,0,0,0,0,20,0,0,0,0.0,0.0,0.0,1,0,10,15,66.7,1,10,0,1,1,Saint-Étienne,2017-12-15 Saint-Étienne-Monaco,FRA-L1,17-18,a1e5f94e
+4a57580c,Kévin Monnet-Paquet,22,FRA,LW,29-118,90,0,0,0,0,3,0,0,0,45,2,2,1,0.2,0.2,0.0,2,0,21,28,75.0,2,28,2,3,1,Saint-Étienne,2017-12-15 Saint-Étienne-Monaco,FRA-L1,17-18,a1e5f94e
+743fd71f,Vagner Gonçalves,33,CPV,RW,21-339,55,0,0,0,0,0,0,0,0,19,0,0,2,0.0,0.0,0.1,1,0,7,12,58.3,0,10,2,2,1,Saint-Étienne,2017-12-15 Saint-Étienne-Monaco,FRA-L1,17-18,a1e5f94e
+28a65a2c,Jessy Moulin,30,FRA,GK,31-336,35,0,0,0,0,0,0,0,0,15,0,0,0,0.0,0.0,0.0,0,0,9,14,64.3,0,11,0,0,0,Saint-Étienne,2017-12-15 Saint-Étienne-Monaco,FRA-L1,17-18,a1e5f94e
+148e136f,Rémy Cabella,10,FRA,"AM,RW",27-282,87,0,0,0,0,1,1,0,0,66,1,2,1,0.1,0.1,0.0,1,0,44,58,75.9,7,43,5,5,4,Saint-Étienne,2017-12-15 Saint-Étienne-Monaco,FRA-L1,17-18,a1e5f94e
+689c9cf4,Saidy Janko,15,GAM,RW,22-054,3,0,0,0,0,0,0,0,0,3,0,1,0,0.0,0.0,0.0,0,0,1,3,33.3,0,3,0,0,0,Saint-Étienne,2017-12-15 Saint-Étienne-Monaco,FRA-L1,17-18,a1e5f94e
+f86ca403,Vincent Pajot,5,FRA,DM,27-118,90,0,0,0,0,0,0,1,0,51,4,4,1,0.0,0.0,0.0,0,0,32,41,78.0,6,12,0,1,1,Saint-Étienne,2017-12-15 Saint-Étienne-Monaco,FRA-L1,17-18,a1e5f94e
+6f5ead86,Hernani,20,BRA,DM,23-263,65,0,0,0,0,1,1,0,0,57,5,2,3,0.0,0.0,0.0,0,0,32,45,71.1,5,28,0,2,1,Saint-Étienne,2017-12-15 Saint-Étienne-Monaco,FRA-L1,17-18,a1e5f94e
+7f622eef,Assane Dioussé,8,SEN,DM,20-086,25,0,0,0,0,0,0,0,0,14,0,0,0,0.0,0.0,0.0,1,0,9,13,69.2,0,8,0,1,1,Saint-Étienne,2017-12-15 Saint-Étienne-Monaco,FRA-L1,17-18,a1e5f94e
+4914ed4a,Gabriel Silva,11,BRA,LB,26-216,90,0,0,0,0,0,0,0,0,45,1,1,1,0.0,0.0,0.1,2,0,23,33,69.7,4,17,1,2,1,Saint-Étienne,2017-12-15 Saint-Étienne-Monaco,FRA-L1,17-18,a1e5f94e
+88fdac8b,Cheikh M'Bengue,12,SEN,CB,29-145,90,0,0,0,0,0,0,0,0,47,1,2,4,0.0,0.0,0.0,0,0,30,35,85.7,3,18,0,0,0,Saint-Étienne,2017-12-15 Saint-Étienne-Monaco,FRA-L1,17-18,a1e5f94e
+6b994195,Kévin Théophile-Catherine,2,FRA,CB,28-048,90,0,0,0,0,0,0,0,0,39,1,1,1,0.0,0.0,0.0,0,0,24,30,80.0,2,17,0,1,0,Saint-Étienne,2017-12-15 Saint-Étienne-Monaco,FRA-L1,17-18,a1e5f94e
+e768de1f,Habib Maïga,13,CIV,RB,21-348,90,0,0,0,0,0,0,0,0,62,5,3,1,0.0,0.0,0.0,2,0,35,51,68.6,2,21,1,1,1,Saint-Étienne,2017-12-15 Saint-Étienne-Monaco,FRA-L1,17-18,a1e5f94e
+cac76a72,Stéphane Ruffier,16,FRA,GK,31-079,52,0,0,0,0,0,0,0,1,31,0,0,0,0.0,0.0,0.0,0,0,18,27,66.7,0,14,0,0,0,Saint-Étienne,2017-12-15 Saint-Étienne-Monaco,FRA-L1,17-18,a1e5f94e
+66116290,Radamel Falcao,9,COL,FW,31-308,90,0,0,0,0,5,3,0,0,35,0,0,1,1.0,1.0,0.0,2,1,17,22,77.3,0,23,0,4,0,Monaco,2017-12-15 Saint-Étienne-Monaco,FRA-L1,17-18,a1e5f94e
+509a4ccb,Keita Baldé,14,SEN,LW,22-282,76,1,1,0,0,4,2,0,0,48,1,0,3,0.3,0.3,0.2,7,2,32,35,91.4,3,32,9,3,2,Monaco,2017-12-15 Saint-Étienne-Monaco,FRA-L1,17-18,a1e5f94e
+8f898ba8,Guido Carrillo,11,ARG,FW,26-204,14,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,3,3,100.0,0,2,0,0,0,Monaco,2017-12-15 Saint-Étienne-Monaco,FRA-L1,17-18,a1e5f94e
+7c2965bb,Rony Lopes,20,POR,"RW,AM,LM",21-352,86,0,0,0,0,4,1,0,0,46,0,1,1,0.2,0.2,0.8,4,0,27,32,84.4,3,33,6,2,0,Monaco,2017-12-15 Saint-Étienne-Monaco,FRA-L1,17-18,a1e5f94e
+65585e3a,Adama Diakhaby,15,FRA,LM,21-163,4,0,0,0,0,0,0,0,0,4,0,1,1,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,0,0,Monaco,2017-12-15 Saint-Étienne-Monaco,FRA-L1,17-18,a1e5f94e
+4dbd0916,Thomas Lemar,27,FRA,AM,22-033,65,1,0,0,0,2,1,0,0,42,1,0,0,0.1,0.1,0.1,2,1,24,34,70.6,4,30,3,5,3,Monaco,2017-12-15 Saint-Étienne-Monaco,FRA-L1,17-18,a1e5f94e
+dc3a9a0d,Rachid Ghezzal,7,ALG,"RM,RW",25-220,25,0,0,0,0,1,0,0,0,35,1,0,1,0.1,0.1,0.1,2,0,24,30,80.0,3,22,0,1,0,Monaco,2017-12-15 Saint-Étienne-Monaco,FRA-L1,17-18,a1e5f94e
+7f3b388c,Fabinho,2,BRA,"DM,CM",24-053,90,1,1,0,0,2,1,0,0,89,7,0,2,0.7,0.7,0.3,7,2,72,76,94.7,16,61,2,3,3,Monaco,2017-12-15 Saint-Étienne-Monaco,FRA-L1,17-18,a1e5f94e
+f5a00fa4,João Moutinho,8,POR,"DM,CM",31-098,90,0,0,0,0,2,0,0,0,106,3,0,1,0.1,0.1,0.1,6,0,78,94,83.0,16,61,2,0,0,Monaco,2017-12-15 Saint-Étienne-Monaco,FRA-L1,17-18,a1e5f94e
+13c44fc5,Jorge,6,BRA,LB,21-262,90,0,0,0,0,0,0,0,0,78,6,7,1,0.0,0.0,0.0,1,0,42,54,77.8,6,45,4,4,1,Monaco,2017-12-15 Saint-Étienne-Monaco,FRA-L1,17-18,a1e5f94e
+7cab69b5,Jemerson,5,BRA,CB,25-113,90,0,0,0,0,0,0,0,0,48,1,3,0,0.0,0.0,0.0,0,0,38,41,92.7,2,27,0,1,1,Monaco,2017-12-15 Saint-Étienne-Monaco,FRA-L1,17-18,a1e5f94e
+c6056d58,Kamil Glik,25,POL,CB,29-315,90,0,0,0,0,0,0,0,0,48,0,1,0,0.0,0.0,0.0,0,0,32,38,84.2,1,29,0,0,0,Monaco,2017-12-15 Saint-Étienne-Monaco,FRA-L1,17-18,a1e5f94e
+4c5b714f,Djibril Sidibé,19,FRA,RB,25-139,90,1,0,0,0,2,1,0,0,101,5,2,0,0.1,0.1,0.0,2,0,72,88,81.8,7,62,0,0,0,Monaco,2017-12-15 Saint-Étienne-Monaco,FRA-L1,17-18,a1e5f94e
+f6db3bd5,Danijel Subašić,1,CRO,GK,33-049,90,0,0,0,0,0,0,0,0,23,0,0,0,0.0,0.0,0.0,0,0,12,20,60.0,0,10,0,0,0,Monaco,2017-12-15 Saint-Étienne-Monaco,FRA-L1,17-18,a1e5f94e

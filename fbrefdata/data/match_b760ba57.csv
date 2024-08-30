@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+7fff395a,Fotis Ioannidis,7,GRE,"FW,AM",23-289,90,1,0,1,1,7,2,0,0,48,0,0,3,1.5,0.7,0.1,6,0,20,27,74.1,5,33,1,3,1,Panathinaikos,2023-10-26 Panathinaikos-Rennes,UEL,23-24,b760ba57
+e4a47bec,Sebastián Palacios,34,ARG,LW,31-279,61,0,0,0,0,1,0,0,0,26,1,0,1,0.1,0.1,0.1,5,1,15,18,83.3,3,24,2,2,1,Panathinaikos,2023-10-26 Panathinaikos-Rennes,UEL,23-24,b760ba57
+5c1663e9,Daniel Mancini,17,ARG,RW,26-349,29,0,0,0,0,3,1,0,0,16,0,0,0,0.3,0.3,0.0,1,0,9,13,69.2,3,12,2,2,2,Panathinaikos,2023-10-26 Panathinaikos-Rennes,UEL,23-24,b760ba57
+ab4b3e35,Bernard,10,BRA,RW,31-048,60,0,0,0,0,1,0,1,0,37,1,0,0,0.1,0.1,0.3,4,1,30,35,85.7,6,32,2,1,1,Panathinaikos,2023-10-26 Panathinaikos-Rennes,UEL,23-24,b760ba57
+21a260a8,Aitor Cantalapiedra,22,ESP,LW,27-258,30,0,0,0,0,1,0,0,0,18,1,1,1,0.0,0.0,0.0,2,0,9,12,75.0,1,13,2,0,0,Panathinaikos,2023-10-26 Panathinaikos-Rennes,UEL,23-24,b760ba57
+eccbe56a,Filip Đuričić,31,SRB,AM,31-269,73,0,0,0,0,3,1,0,0,40,1,0,2,0.1,0.1,0.0,2,0,24,30,80.0,6,36,8,3,1,Panathinaikos,2023-10-26 Panathinaikos-Rennes,UEL,23-24,b760ba57
+878f0921,Andraž Šporar,9,SVN,"FW,AM",29-241,17,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,1,0,0,0,Panathinaikos,2023-10-26 Panathinaikos-Rennes,UEL,23-24,b760ba57
+f47a530a,Willian Arão,55,BRA,DM,30-327,90,0,0,0,0,0,0,1,0,73,2,1,1,0.0,0.0,0.0,2,0,62,68,91.2,6,54,1,0,0,Panathinaikos,2023-10-26 Panathinaikos-Rennes,UEL,23-24,b760ba57
+fe192f45,Adam Gnezda Čerin,16,SVN,DM,24-102,61,0,0,0,0,1,1,0,0,49,2,0,1,0.1,0.1,0.0,1,0,36,40,90.0,4,36,0,1,0,Panathinaikos,2023-10-26 Panathinaikos-Rennes,UEL,23-24,b760ba57
+c7069d87,Tonny Vilhena,52,NED,DM,28-296,29,0,0,0,0,1,0,0,0,20,1,0,3,0.0,0.0,0.1,1,0,10,14,71.4,0,12,0,2,2,Panathinaikos,2023-10-26 Panathinaikos-Rennes,UEL,23-24,b760ba57
+a3eabee0,Filip Mladenović,25,SRB,LB,32-072,90,0,0,0,0,0,0,0,0,88,1,0,1,0.0,0.0,0.3,5,0,68,83,81.9,8,72,3,2,0,Panathinaikos,2023-10-26 Panathinaikos-Rennes,UEL,23-24,b760ba57
+f820504e,Tin Jedvaj,21,CRO,CB,27-332,90,0,0,0,0,0,0,0,0,96,2,1,1,0.0,0.0,0.2,2,0,83,89,93.3,8,80,2,0,0,Panathinaikos,2023-10-26 Panathinaikos-Rennes,UEL,23-24,b760ba57
+e1ceafce,Bart Schenkeveld,5,NED,CB,32-059,90,0,0,0,0,0,0,0,0,65,1,1,2,0.0,0.0,0.0,0,0,52,58,89.7,3,45,0,0,0,Panathinaikos,2023-10-26 Panathinaikos-Rennes,UEL,23-24,b760ba57
+12ba7959,Georgios Vagiannidis,2,GRE,RB,22-044,79,0,0,0,0,0,0,0,0,51,2,2,0,0.0,0.0,0.1,2,0,36,44,81.8,1,35,3,0,0,Panathinaikos,2023-10-26 Panathinaikos-Rennes,UEL,23-24,b760ba57
+4e6e69b3,Giannis Kotsiras,27,GRE,RB,30-314,11,0,0,0,0,0,0,0,0,18,0,0,0,0.0,0.0,0.0,0,0,10,17,58.8,2,11,1,0,0,Panathinaikos,2023-10-26 Panathinaikos-Rennes,UEL,23-24,b760ba57
+6989550f,Alberto Brignoli,91,ITA,GK,32-068,90,0,0,0,0,0,0,0,0,55,0,0,0,0.0,0.0,0.0,0,0,40,52,76.9,0,45,0,0,0,Panathinaikos,2023-10-26 Panathinaikos-Rennes,UEL,23-24,b760ba57
+bf4c41f9,Arnaud Kalimuendo,9,FRA,FW,21-279,79,1,0,0,0,3,2,1,0,19,1,0,1,0.5,0.5,0.0,2,0,9,11,81.8,1,12,2,1,0,Rennes,2023-10-26 Panathinaikos-Rennes,UEL,23-24,b760ba57
+9e7483ff,Désiré Doué,33,FRA,FW,18-145,11,0,0,0,0,1,0,0,0,9,0,0,1,0.1,0.1,0.1,2,0,3,5,60.0,0,6,0,1,1,Rennes,2023-10-26 Panathinaikos-Rennes,UEL,23-24,b760ba57
+aad56ca3,Amine Gouiri,10,ALG,LW,23-252,89,1,0,0,0,4,2,0,0,41,3,0,1,0.6,0.6,0.5,6,0,18,25,72.0,3,31,2,3,1,Rennes,2023-10-26 Panathinaikos-Rennes,UEL,23-24,b760ba57
+5148dcc5,Martin Terrier,7,FRA,LW,26-236,1,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Rennes,2023-10-26 Panathinaikos-Rennes,UEL,23-24,b760ba57
+6191093d,Ludovic Blas,11,FRA,RW,25-299,90,0,0,0,0,2,1,1,0,30,1,1,1,0.2,0.2,0.0,1,0,17,21,81.0,1,21,1,0,0,Rennes,2023-10-26 Panathinaikos-Rennes,UEL,23-24,b760ba57
+6f806d99,Enzo Le Fée,28,FRA,LM,23-265,45,0,1,0,0,0,0,0,0,20,0,0,0,0.0,0.0,0.4,1,1,13,16,81.3,3,16,0,1,0,Rennes,2023-10-26 Panathinaikos-Rennes,UEL,23-24,b760ba57
+c2bd8585,Fabian Rieder,32,SUI,"AM,LM",21-252,45,0,1,0,0,0,0,0,0,24,2,0,1,0.0,0.0,0.3,3,1,13,18,72.2,2,13,0,0,0,Rennes,2023-10-26 Panathinaikos-Rennes,UEL,23-24,b760ba57
+eb7822d7,Nemanja Matić,21,SRB,"DM,CM",35-086,90,0,0,0,0,1,1,0,0,71,1,2,1,0.0,0.0,0.0,1,0,53,62,85.5,7,57,1,2,2,Rennes,2023-10-26 Panathinaikos-Rennes,UEL,23-24,b760ba57
+20e73fac,Benjamin Bourigeaud,14,FRA,RM,29-285,29,0,0,0,0,0,0,0,0,8,0,1,0,0.0,0.0,0.0,2,1,7,7,100.0,3,9,0,0,0,Rennes,2023-10-26 Panathinaikos-Rennes,UEL,23-24,b760ba57
+5e22e2a4,Baptiste Santamaria,8,FRA,"DM,RM",28-231,61,0,0,0,0,0,0,0,0,38,1,1,2,0.0,0.0,0.0,1,0,20,27,74.1,0,27,0,0,0,Rennes,2023-10-26 Panathinaikos-Rennes,UEL,23-24,b760ba57
+5d0e0a1f,Adrien Truffert,3,FRA,LB,21-340,79,0,0,0,0,0,0,1,0,53,1,0,1,0.0,0.0,0.1,1,0,36,45,80.0,3,33,1,2,1,Rennes,2023-10-26 Panathinaikos-Rennes,UEL,23-24,b760ba57
+df8d6029,Arthur Theate,5,BEL,LB,23-154,11,0,0,0,0,0,0,1,0,7,0,2,0,0.0,0.0,0.0,0,0,2,3,66.7,0,4,0,0,0,Rennes,2023-10-26 Panathinaikos-Rennes,UEL,23-24,b760ba57
+c678ddd7,Jeanuël Belocian,16,FRA,CB,18-251,90,0,0,0,0,0,0,1,0,44,1,1,4,0.0,0.0,0.0,0,0,29,32,90.6,0,28,0,0,0,Rennes,2023-10-26 Panathinaikos-Rennes,UEL,23-24,b760ba57
+4534a352,Warmed Omari,23,FRA,CB,23-186,90,0,0,0,0,1,0,0,0,34,0,1,2,0.1,0.1,0.0,0,0,20,26,76.9,1,20,0,0,0,Rennes,2023-10-26 Panathinaikos-Rennes,UEL,23-24,b760ba57
+b026bbf6,Lorenz Assignon,22,TOG,RB,23-126,90,0,0,0,0,1,0,0,0,41,2,0,2,0.1,0.1,0.0,1,1,22,32,68.8,2,22,1,1,0,Rennes,2023-10-26 Panathinaikos-Rennes,UEL,23-24,b760ba57
+1d2d5cc8,Steve Mandanda,30,FRA,GK,38-212,90,0,0,0,0,0,0,0,0,42,0,0,0,0.0,0.0,0.0,0,0,22,39,56.4,0,30,0,0,0,Rennes,2023-10-26 Panathinaikos-Rennes,UEL,23-24,b760ba57

@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+89b2c8a9,Dries Mertens,14,BEL,FW,33-351,71,1,1,0,0,1,1,1,0,18,0,0,0,0.1,0.1,0.0,1,1,10,15,66.7,1,9,0,2,2,Napoli,2021-04-22 Napoli-Lazio,ITA-SERIA_A,20-21,754b4ecd
+8c90fd7a,Victor Osimhen,9,NGA,FW,22-114,19,1,0,0,0,1,1,0,0,8,0,0,0,0.3,0.3,0.0,0,0,6,7,85.7,0,4,0,0,0,Napoli,2021-04-22 Napoli-Lazio,ITA-SERIA_A,20-21,754b4ecd
+2f557579,Lorenzo Insigne,24,ITA,LW,29-322,90,2,0,1,1,3,2,0,0,70,0,0,2,0.9,0.1,0.0,3,2,44,60,73.3,6,39,4,1,0,Napoli,2021-04-22 Napoli-Lazio,ITA-SERIA_A,20-21,754b4ecd
+5e861944,Matteo Politano,21,ITA,RW,27-262,70,1,0,0,0,3,2,0,0,37,0,2,3,0.1,0.1,0.0,1,0,23,27,85.2,3,26,4,3,2,Napoli,2021-04-22 Napoli-Lazio,ITA-SERIA_A,20-21,754b4ecd
+a69e4806,Hirving Lozano,11,MEX,RW,25-266,20,0,1,0,0,0,0,0,0,15,2,0,1,0.0,0.0,0.4,2,1,6,6,100.0,2,9,1,2,0,Napoli,2021-04-22 Napoli-Lazio,ITA-SERIA_A,20-21,754b4ecd
+a5296e55,Piotr Zieliński,20,POL,AM,26-337,81,0,1,0,0,0,0,0,0,36,1,1,0,0.0,0.0,0.1,2,2,24,26,92.3,4,23,5,5,4,Napoli,2021-04-22 Napoli-Lazio,ITA-SERIA_A,20-21,754b4ecd
+cf007308,Elif Elmas,7,MKD,AM,21-210,9,0,0,0,0,1,1,0,0,11,1,0,1,0.1,0.1,0.0,0,0,6,7,85.7,0,6,0,0,0,Napoli,2021-04-22 Napoli-Lazio,ITA-SERIA_A,20-21,754b4ecd
+59bf127b,Tiemoué Bakayoko,5,FRA,DM,26-248,88,0,0,0,0,0,0,0,0,52,5,1,2,0.0,0.0,0.0,0,0,36,41,87.8,9,26,0,3,3,Napoli,2021-04-22 Napoli-Lazio,ITA-SERIA_A,20-21,754b4ecd
+e1cbb531,Stanislav Lobotka,68,SVK,DM,26-148,2,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,4,4,100.0,1,3,0,0,0,Napoli,2021-04-22 Napoli-Lazio,ITA-SERIA_A,20-21,754b4ecd
+c0c7ff58,Fabián Ruiz Peña,8,ESP,DM,25-019,90,0,0,0,0,0,0,1,0,77,3,1,1,0.0,0.0,0.0,2,1,62,70,88.6,4,40,3,1,0,Napoli,2021-04-22 Napoli-Lazio,ITA-SERIA_A,20-21,754b4ecd
+2f3452eb,Elseid Hysaj,23,ALB,LB,27-061,90,0,1,0,0,0,0,0,0,55,0,1,1,0.0,0.0,0.1,3,1,42,46,91.3,2,30,2,5,3,Napoli,2021-04-22 Napoli-Lazio,ITA-SERIA_A,20-21,754b4ecd
+da974c7b,Kalidou Koulibaly,26,SEN,CB,29-306,90,0,0,0,0,0,0,0,0,58,2,0,0,0.0,0.0,0.0,1,0,42,53,79.2,1,34,0,0,0,Napoli,2021-04-22 Napoli-Lazio,ITA-SERIA_A,20-21,754b4ecd
+c707411f,Kostas Manolas,44,GRE,CB,29-312,70,0,0,0,0,0,0,1,0,45,0,1,2,0.0,0.0,0.0,2,1,33,37,89.2,1,20,0,0,0,Napoli,2021-04-22 Napoli-Lazio,ITA-SERIA_A,20-21,754b4ecd
+4b3e1a38,Amir Rrahmani,33,KVX,CB,27-057,20,0,0,0,0,0,0,0,0,16,0,0,1,0.0,0.0,0.0,0,0,13,13,100.0,0,6,0,0,0,Napoli,2021-04-22 Napoli-Lazio,ITA-SERIA_A,20-21,754b4ecd
+230a2fac,Giovanni Di Lorenzo,22,ITA,RB,27-261,90,0,0,0,0,0,0,1,0,81,6,1,1,0.0,0.0,0.0,2,1,61,66,92.4,7,43,3,3,1,Napoli,2021-04-22 Napoli-Lazio,ITA-SERIA_A,20-21,754b4ecd
+9413b19f,Alex Meret,1,ITA,GK,24-031,90,0,0,0,0,0,0,0,0,28,0,0,0,0.0,0.0,0.0,0,0,24,25,96.0,0,11,0,0,0,Napoli,2021-04-22 Napoli-Lazio,ITA-SERIA_A,20-21,754b4ecd
+4431aed2,Ciro Immobile,17,ITA,FW,31-061,82,1,0,0,0,6,1,1,0,34,0,0,0,0.9,0.9,0.0,3,1,16,23,69.6,4,20,1,4,3,Lazio,2021-04-22 Napoli-Lazio,ITA-SERIA_A,20-21,754b4ecd
+0cadc46d,Vedat Muriqi,94,KVX,FW,26-363,8,0,0,0,0,1,0,0,0,7,0,0,2,0.1,0.1,0.1,1,0,4,4,100.0,1,4,0,0,0,Lazio,2021-04-22 Napoli-Lazio,ITA-SERIA_A,20-21,754b4ecd
+45b9b619,Joaquín Correa,11,ARG,FW,26-252,90,0,0,0,0,2,0,0,0,41,2,1,2,0.3,0.3,0.1,3,0,20,22,90.9,5,21,3,7,3,Lazio,2021-04-22 Napoli-Lazio,ITA-SERIA_A,20-21,754b4ecd
+5294a83f,Luis Alberto,10,ESP,CM,28-206,63,0,0,0,0,1,0,0,0,53,2,2,2,0.0,0.0,0.1,2,0,40,43,93.0,3,35,4,1,1,Lazio,2021-04-22 Napoli-Lazio,ITA-SERIA_A,20-21,754b4ecd
+6639e500,Andreas Pereira,7,BRA,CM,25-111,27,0,1,0,0,0,0,1,0,19,0,0,1,0.0,0.0,0.3,2,1,13,18,72.2,1,8,0,0,0,Lazio,2021-04-22 Napoli-Lazio,ITA-SERIA_A,20-21,754b4ecd
+4c78b5ed,Lucas Leiva,6,BRA,CM,34-103,57,0,0,0,0,0,0,1,0,39,0,1,0,0.0,0.0,0.0,0,0,34,37,91.9,4,18,0,0,0,Lazio,2021-04-22 Napoli-Lazio,ITA-SERIA_A,20-21,754b4ecd
+ba3d3bea,Danilo Cataldi,32,ITA,CM,26-259,33,0,0,0,0,1,0,0,0,29,1,1,1,0.1,0.1,0.1,4,0,23,25,92.0,2,21,0,2,2,Lazio,2021-04-22 Napoli-Lazio,ITA-SERIA_A,20-21,754b4ecd
+4e6dbac4,Sergej Milinković-Savić,21,SRB,CM,26-054,82,1,0,0,0,3,2,1,0,52,1,1,1,0.5,0.5,0.4,4,1,39,46,84.8,7,26,3,2,2,Lazio,2021-04-22 Napoli-Lazio,ITA-SERIA_A,20-21,754b4ecd
+fdf4b948,Jean-Daniel Akpa-Akpro,92,CIV,CM,28-193,8,0,0,0,0,1,0,0,0,3,1,0,0,0.1,0.1,0.0,0,0,1,2,50.0,0,1,0,0,0,Lazio,2021-04-22 Napoli-Lazio,ITA-SERIA_A,20-21,754b4ecd
+b7a5bc86,Mohamed Fares,96,ALG,WB,25-066,64,0,0,0,0,0,0,0,0,34,0,0,0,0.0,0.0,0.0,2,0,22,31,71.0,1,18,2,1,0,Lazio,2021-04-22 Napoli-Lazio,ITA-SERIA_A,20-21,754b4ecd
+7fd58fe3,Senad Lulić,19,BIH,WB,35-094,26,0,0,0,0,0,0,0,0,22,3,0,0,0.0,0.0,0.0,1,0,12,17,70.6,0,8,0,2,1,Lazio,2021-04-22 Napoli-Lazio,ITA-SERIA_A,20-21,754b4ecd
+02caf6e0,Manuel Lazzari,29,ITA,WB,27-144,90,0,0,0,0,0,0,0,0,29,0,0,1,0.0,0.0,0.2,3,0,23,27,85.2,1,14,3,2,2,Lazio,2021-04-22 Napoli-Lazio,ITA-SERIA_A,20-21,754b4ecd
+53de807a,Ștefan Radu,26,ROU,CB,34-182,90,0,0,0,0,0,0,0,0,74,3,3,0,0.0,0.0,0.3,3,0,55,63,87.3,8,35,1,0,0,Lazio,2021-04-22 Napoli-Lazio,ITA-SERIA_A,20-21,754b4ecd
+b96b595c,Francesco Acerbi,33,ITA,CB,33-071,90,0,0,0,0,1,0,0,0,80,2,1,0,0.0,0.0,0.0,2,1,69,73,94.5,4,54,1,0,0,Lazio,2021-04-22 Napoli-Lazio,ITA-SERIA_A,20-21,754b4ecd
+d4535821,Adam Marušić,77,MNE,CB,28-187,90,0,0,0,0,0,0,0,0,72,3,1,2,0.0,0.0,0.0,1,0,57,65,87.7,5,48,0,1,1,Lazio,2021-04-22 Napoli-Lazio,ITA-SERIA_A,20-21,754b4ecd
+e358587b,Pepe Reina,25,ESP,GK,38-234,90,0,0,0,0,0,0,0,0,25,0,0,0,0.0,0.0,0.0,0,0,22,23,95.7,0,16,0,0,0,Lazio,2021-04-22 Napoli-Lazio,ITA-SERIA_A,20-21,754b4ecd

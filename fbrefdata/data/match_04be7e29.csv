@@ -1,0 +1,27 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+50871bcc,Thorgan Hazard,10,BEL,"FW,RW",24-311,90,0,0,0,0,2,1,0,0,46,1,1,2,0.3,0.3,0.1,6,0,26,36,72.2,4,25,5,5,3,Mönchengladbach,2018-02-03 Gladbach-RB Leipzig,GER-BL1,17-18,04be7e29
+7cd6badb,Lars Stindl,13,GER,FW,29-161,90,0,0,0,0,3,0,1,0,63,2,0,1,0.2,0.2,0.1,4,0,35,57,61.4,4,31,0,1,1,Mönchengladbach,2018-02-03 Gladbach-RB Leipzig,GER-BL1,17-18,04be7e29
+54e4866f,Vincenzo Grifo,32,ITA,"LM,LW",24-302,90,0,0,0,0,1,1,0,0,63,2,2,3,0.1,0.1,0.7,3,0,30,50,60.0,5,29,3,3,2,Mönchengladbach,2018-02-03 Gladbach-RB Leipzig,GER-BL1,17-18,04be7e29
+384d58d9,Denis Zakaria,8,SUI,"CM,DM",21-075,90,0,0,0,0,0,0,0,0,34,3,0,2,0.0,0.0,0.0,0,0,19,27,70.4,3,22,2,4,3,Mönchengladbach,2018-02-03 Gladbach-RB Leipzig,GER-BL1,17-18,04be7e29
+496aeede,Christoph Kramer,6,GER,"CM,DM",26-349,90,0,0,0,0,1,0,0,0,50,2,3,0,0.0,0.0,0.0,0,0,33,41,80.5,3,29,2,1,1,Mönchengladbach,2018-02-03 Gladbach-RB Leipzig,GER-BL1,17-18,04be7e29
+dfb6490a,Patrick Herrmann,7,GER,RM,26-356,57,0,0,0,0,1,1,0,0,28,1,2,2,0.4,0.4,0.1,3,0,11,20,55.0,1,13,1,3,2,Mönchengladbach,2018-02-03 Gladbach-RB Leipzig,GER-BL1,17-18,04be7e29
+5722eced,Mickaël Cuisance,27,FRA,"AM,RM",18-171,33,0,0,0,0,2,0,0,0,11,1,0,1,0.1,0.1,0.0,0,0,5,7,71.4,0,11,1,0,0,Mönchengladbach,2018-02-03 Gladbach-RB Leipzig,GER-BL1,17-18,04be7e29
+48035304,Nico Elvedi,30,SUI,LB,21-126,90,0,0,0,0,0,0,0,0,59,2,1,2,0.0,0.0,0.0,0,0,40,49,81.6,0,24,2,4,3,Mönchengladbach,2018-02-03 Gladbach-RB Leipzig,GER-BL1,17-18,04be7e29
+1900032e,Jannik Vestergaard,4,DEN,CB,25-184,90,0,0,0,0,0,0,0,0,69,2,0,2,0.0,0.0,0.0,1,0,42,58,72.4,4,34,0,0,0,Mönchengladbach,2018-02-03 Gladbach-RB Leipzig,GER-BL1,17-18,04be7e29
+f521b80a,Matthias Ginter,28,GER,CB,24-015,90,0,0,0,0,0,0,0,0,55,1,1,2,0.0,0.0,0.0,0,0,42,49,85.7,3,40,0,0,0,Mönchengladbach,2018-02-03 Gladbach-RB Leipzig,GER-BL1,17-18,04be7e29
+34b54da7,Tony Jantschke,24,GER,RB,27-302,90,0,0,0,0,0,0,1,0,51,5,1,1,0.0,0.0,0.0,1,0,21,37,56.8,2,13,0,1,0,Mönchengladbach,2018-02-03 Gladbach-RB Leipzig,GER-BL1,17-18,04be7e29
+0d8a37c2,Tobias Sippel,21,GER,GK,29-318,90,0,0,0,0,0,0,0,0,44,0,0,0,0.0,0.0,0.0,0,0,22,39,56.4,0,22,0,0,0,Mönchengladbach,2018-02-03 Gladbach-RB Leipzig,GER-BL1,17-18,04be7e29
+49fe9070,Timo Werner,11,GER,FW,21-334,90,0,0,0,0,5,0,0,0,45,0,0,0,0.3,0.3,0.0,1,1,22,29,75.9,2,28,3,5,0,RB Leipzig,2018-02-03 Gladbach-RB Leipzig,GER-BL1,17-18,04be7e29
+5caa62a7,Bruma,17,POR,LW,23-102,77,0,0,0,0,1,1,0,0,54,2,1,1,0.1,0.1,0.1,3,0,35,45,77.8,5,39,4,2,0,RB Leipzig,2018-02-03 Gladbach-RB Leipzig,GER-BL1,17-18,04be7e29
+7c104bb7,Ademola Lookman,18,NGA,LW,20-106,13,1,0,0,0,1,1,0,0,6,0,0,0,0.1,0.1,0.0,0,0,3,4,75.0,1,6,1,0,0,RB Leipzig,2018-02-03 Gladbach-RB Leipzig,GER-BL1,17-18,04be7e29
+e280527c,Marcel Sabitzer,7,AUT,RW,23-323,90,0,0,0,0,6,3,1,0,50,1,0,2,0.4,0.4,0.7,4,0,24,33,72.7,4,30,2,1,0,RB Leipzig,2018-02-03 Gladbach-RB Leipzig,GER-BL1,17-18,04be7e29
+f25c8e3a,Naby Keïta,8,GUI,LM,22-358,90,0,1,0,0,2,1,0,0,64,0,0,1,0.6,0.6,0.1,5,1,45,53,84.9,6,38,4,4,2,RB Leipzig,2018-02-03 Gladbach-RB Leipzig,GER-BL1,17-18,04be7e29
+dc3fa3b5,Diego Demme,31,GER,CM,26-074,89,0,0,0,0,0,0,0,0,95,4,4,3,0.0,0.0,0.1,3,0,65,79,82.3,12,57,1,0,0,RB Leipzig,2018-02-03 Gladbach-RB Leipzig,GER-BL1,17-18,04be7e29
+8494acc4,Stefan Ilsanker,13,AUT,CM,28-261,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,RB Leipzig,2018-02-03 Gladbach-RB Leipzig,GER-BL1,17-18,04be7e29
+b825a650,Kevin Kampl,44,SVN,RM,27-117,90,0,0,0,0,0,0,0,0,67,2,1,2,0.0,0.0,0.4,5,0,48,58,82.8,11,35,1,1,0,RB Leipzig,2018-02-03 Gladbach-RB Leipzig,GER-BL1,17-18,04be7e29
+ca8033cb,Lukas Klostermann,16,GER,LB,21-245,90,0,0,0,0,0,0,0,0,53,0,2,3,0.0,0.0,0.1,2,0,32,42,76.2,1,21,1,2,1,RB Leipzig,2018-02-03 Gladbach-RB Leipzig,GER-BL1,17-18,04be7e29
+d248cd8f,Dayot Upamecano,5,FRA,CB,19-099,90,0,0,0,0,1,0,0,0,75,1,3,1,0.0,0.0,0.0,1,0,52,62,83.9,4,41,0,0,0,RB Leipzig,2018-02-03 Gladbach-RB Leipzig,GER-BL1,17-18,04be7e29
+20030c06,Willi Orban,4,HUN,CB,25-092,90,0,0,0,0,0,0,0,0,58,1,1,5,0.0,0.0,0.0,1,0,34,48,70.8,3,27,0,0,0,RB Leipzig,2018-02-03 Gladbach-RB Leipzig,GER-BL1,17-18,04be7e29
+c1b7847c,Konrad Laimer,27,AUT,RB,20-252,90,0,0,0,0,0,0,1,0,63,0,1,4,0.0,0.0,0.0,5,0,40,50,80.0,8,26,2,3,1,RB Leipzig,2018-02-03 Gladbach-RB Leipzig,GER-BL1,17-18,04be7e29
+bcb2ccd8,Péter Gulácsi,32,HUN,GK,27-273,90,0,0,0,0,0,0,0,0,37,0,0,0,0.0,0.0,0.0,0,0,21,35,60.0,0,16,0,0,0,RB Leipzig,2018-02-03 Gladbach-RB Leipzig,GER-BL1,17-18,04be7e29

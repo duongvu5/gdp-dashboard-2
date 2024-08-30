@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+19ba6c6d,Steve Mounié,15,BEN,FW,28-247,90,0,0,0,0,4,1,0,0,29,0,0,1,0.3,0.3,0.1,3,0,17,21,81.0,2,12,3,1,0,Brest,2023-06-03 Brest-Rennes,FRA-L1,22-23,e9d9bb82
+88c4d190,Jérémy Le Douaron,22,FRA,LW,25-043,74,0,0,0,0,1,0,0,0,24,1,1,0,0.0,0.0,0.0,2,1,9,11,81.8,2,17,2,3,1,Brest,2023-06-03 Brest-Rennes,FRA-L1,22-23,e9d9bb82
+7304f3b1,Karamoko Dembélé,18,ENG,LW,20-101,16,0,0,0,0,0,0,0,0,9,0,0,1,0.0,0.0,0.0,1,0,5,8,62.5,1,5,1,0,0,Brest,2023-06-03 Brest-Rennes,FRA-L1,22-23,e9d9bb82
+0be95d34,Romain Del Castillo,10,FRA,RW,27-066,74,0,0,0,0,0,0,0,0,36,1,1,1,0.0,0.0,0.0,2,0,18,28,64.3,2,27,3,2,0,Brest,2023-06-03 Brest-Rennes,FRA-L1,22-23,e9d9bb82
+8846a40f,Mathias Pereira Lage,29,POR,RW,26-185,16,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,1,0,2,4,50.0,0,4,0,1,1,Brest,2023-06-03 Brest-Rennes,FRA-L1,22-23,e9d9bb82
+2b1bed19,Haris Belkebla,7,ALG,LM,29-126,86,1,0,1,1,0,0,0,0,44,2,0,0,0.8,0.0,0.0,3,0,31,36,86.1,5,35,0,2,1,Brest,2023-06-03 Brest-Rennes,FRA-L1,22-23,e9d9bb82
+8ca9415f,Félix Lemaréchal,37,FRA,LM,19-300,4,0,0,0,0,0,0,1,0,7,0,0,0,0.0,0.0,0.1,1,0,4,6,66.7,0,6,0,0,0,Brest,2023-06-03 Brest-Rennes,FRA-L1,22-23,e9d9bb82
+f5044e54,Pierre Lees-Melou,20,FRA,CM,30-009,90,0,0,0,0,3,1,1,0,65,1,2,3,0.1,0.1,0.0,3,0,41,53,77.4,5,50,0,3,2,Brest,2023-06-03 Brest-Rennes,FRA-L1,22-23,e9d9bb82
+d4d35152,Hugo Magnetti,8,FRA,RM,25-004,61,0,0,0,0,0,0,1,0,28,0,1,3,0.0,0.0,0.0,1,0,18,21,85.7,0,21,2,3,1,Brest,2023-06-03 Brest-Rennes,FRA-L1,22-23,e9d9bb82
+8577e60a,Mahdi Camara,45,FRA,RM,24-338,29,0,0,0,0,2,1,0,0,14,1,0,0,0.1,0.1,0.0,0,0,10,11,90.9,2,9,1,0,0,Brest,2023-06-03 Brest-Rennes,FRA-L1,22-23,e9d9bb82
+0cbc8baa,Jean-Kevin Duverne,2,HAI,LB,25-326,74,0,0,0,0,0,0,0,0,40,0,1,0,0.0,0.0,0.1,2,0,24,34,70.6,2,24,6,3,2,Brest,2023-06-03 Brest-Rennes,FRA-L1,22-23,e9d9bb82
+40221fa7,Bradley Locko,28,FRA,LB,21-028,16,0,0,0,0,0,0,0,0,13,0,0,0,0.0,0.0,0.0,0,0,8,11,72.7,1,11,2,3,1,Brest,2023-06-03 Brest-Rennes,FRA-L1,22-23,e9d9bb82
+5b146df3,Lilian Brassier,3,FRA,CB,23-213,90,0,0,0,0,2,1,0,0,74,2,1,1,0.1,0.1,0.0,1,0,48,63,76.2,1,49,0,0,0,Brest,2023-06-03 Brest-Rennes,FRA-L1,22-23,e9d9bb82
+16aa7d4c,Brendan Chardonnet,5,FRA,CB,28-163,90,0,0,0,0,0,0,0,0,62,1,5,2,0.0,0.0,0.1,1,0,40,51,78.4,7,43,3,1,1,Brest,2023-06-03 Brest-Rennes,FRA-L1,22-23,e9d9bb82
+770d7eb8,Kenny Lala,27,MAD,RB,31-243,90,0,0,0,0,1,0,0,0,71,1,1,3,0.0,0.0,0.1,4,0,54,65,83.1,7,49,2,0,0,Brest,2023-06-03 Brest-Rennes,FRA-L1,22-23,e9d9bb82
+3d214e5f,Marco Bizot,40,NED,GK,32-085,90,0,0,0,0,0,0,0,0,30,0,0,0,0.0,0.0,0.0,0,0,23,28,82.1,0,21,0,0,0,Brest,2023-06-03 Brest-Rennes,FRA-L1,22-23,e9d9bb82
+5ceba7fc,Karl Toko Ekambi,17,CMR,FW,30-262,86,0,0,0,0,1,1,0,0,32,0,0,0,0.3,0.3,0.0,2,0,14,23,60.9,1,26,2,0,0,Rennes,2023-06-03 Brest-Rennes,FRA-L1,22-23,e9d9bb82
+9e7483ff,Désiré Doué,33,FRA,"RW,FW",18-000,4,0,0,0,0,0,0,0,0,4,0,1,0,0.0,0.0,0.0,0,0,1,3,33.3,0,2,1,1,1,Rennes,2023-06-03 Brest-Rennes,FRA-L1,22-23,e9d9bb82
+aad56ca3,Amine Gouiri,19,ALG,LW,23-107,90,0,0,0,0,3,0,1,0,40,2,1,0,0.3,0.3,0.1,3,0,18,29,62.1,2,32,5,5,2,Rennes,2023-06-03 Brest-Rennes,FRA-L1,22-23,e9d9bb82
+fffea3e5,Jeremy Doku,10,BEL,RW,21-007,85,0,0,0,0,0,0,0,0,22,2,0,0,0.0,0.0,0.0,2,1,11,14,78.6,2,18,4,9,7,Rennes,2023-06-03 Brest-Rennes,FRA-L1,22-23,e9d9bb82
+bf4c41f9,Arnaud Kalimuendo,9,FRA,"FW,RW",21-134,5,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,0,0,0,0,Rennes,2023-06-03 Brest-Rennes,FRA-L1,22-23,e9d9bb82
+fc46aab1,Lovro Majer,21,CRO,LM,25-137,90,0,0,0,0,2,0,0,0,44,2,0,0,0.1,0.1,0.3,5,1,26,35,74.3,4,37,3,1,1,Rennes,2023-06-03 Brest-Rennes,FRA-L1,22-23,e9d9bb82
+5e22e2a4,Baptiste Santamaria,8,FRA,CM,28-086,90,0,0,0,0,0,0,0,0,51,0,1,3,0.0,0.0,0.0,0,0,32,42,76.2,3,31,3,0,0,Rennes,2023-06-03 Brest-Rennes,FRA-L1,22-23,e9d9bb82
+20e73fac,Benjamin Bourigeaud,14,FRA,RM,29-140,88,2,0,1,1,2,1,1,0,50,0,2,0,1.0,0.2,0.2,5,1,31,43,72.1,3,37,1,1,1,Rennes,2023-06-03 Brest-Rennes,FRA-L1,22-23,e9d9bb82
+1df4a109,Lesley Ugochukwu,6,FRA,RM,19-069,2,0,0,0,0,0,0,0,0,1,0,0,1,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Rennes,2023-06-03 Brest-Rennes,FRA-L1,22-23,e9d9bb82
+c678ddd7,Jeanuël Belocian,18,FRA,LB,18-106,78,0,0,0,0,0,0,0,0,42,2,0,0,0.0,0.0,0.0,0,0,32,38,84.2,7,28,0,0,0,Rennes,2023-06-03 Brest-Rennes,FRA-L1,22-23,e9d9bb82
+70c52749,Birger Meling,25,NOR,LB,28-168,12,0,0,0,0,0,0,1,0,3,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,1,1,0,0,0,Rennes,2023-06-03 Brest-Rennes,FRA-L1,22-23,e9d9bb82
+8d62d31a,Joe Rodon,2,WAL,CB,25-224,90,0,0,0,0,0,0,0,0,60,0,0,1,0.0,0.0,0.0,0,0,44,50,88.0,5,40,0,1,1,Rennes,2023-06-03 Brest-Rennes,FRA-L1,22-23,e9d9bb82
+4534a352,Warmed Omari,23,FRA,CB,23-041,90,0,0,0,0,0,0,0,0,52,1,1,0,0.0,0.0,0.0,1,1,42,45,93.3,1,37,1,0,0,Rennes,2023-06-03 Brest-Rennes,FRA-L1,22-23,e9d9bb82
+a4b1028a,Hamari Traoré,27,MLI,RB,31-127,85,0,0,0,0,3,0,0,0,50,5,1,0,0.2,0.2,0.0,1,0,30,40,75.0,4,26,2,0,0,Rennes,2023-06-03 Brest-Rennes,FRA-L1,22-23,e9d9bb82
+b026bbf6,Lorenz Assignon,22,TOG,RB,22-346,5,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,4,5,80.0,0,3,1,0,0,Rennes,2023-06-03 Brest-Rennes,FRA-L1,22-23,e9d9bb82
+9e17ccff,Doğan Alemdar,1,TUR,GK,20-217,90,0,0,0,0,0,0,1,0,36,0,0,0,0.0,0.0,0.1,1,0,21,34,61.8,0,25,0,0,0,Rennes,2023-06-03 Brest-Rennes,FRA-L1,22-23,e9d9bb82

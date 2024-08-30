@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+9efa1d25,Mario Götze,10,GER,FW,26-237,65,1,0,0,0,1,1,0,0,41,0,0,1,0.3,0.3,0.4,4,0,30,37,81.1,4,33,4,0,0,Dortmund,2019-01-26 Dortmund-Hannover 96,GER-BL1,18-19,74a75bd8
+a7a9d95a,Paco Alcácer,9,ESP,FW,25-149,25,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,1,0,7,7,100.0,0,6,0,0,0,Dortmund,2019-01-26 Dortmund-Hannover 96,GER-BL1,18-19,74a75bd8
+048a1cbc,Raphaël Guerreiro,13,POR,"LW,RW",25-035,90,1,1,0,0,4,3,0,0,63,0,0,0,0.5,0.5,0.2,4,1,35,50,70.0,1,44,1,2,1,Dortmund,2019-01-26 Dortmund-Hannover 96,GER-BL1,18-19,74a75bd8
+dbf053da,Jadon Sancho,7,ENG,"RW,LW",18-307,90,0,2,0,0,2,1,0,0,76,1,0,0,0.1,0.1,0.5,6,2,54,64,84.4,9,61,6,10,7,Dortmund,2019-01-26 Dortmund-Hannover 96,GER-BL1,18-19,74a75bd8
+36a3ff67,Marco Reus,11,GER,AM,29-240,90,1,1,0,0,4,1,0,0,56,2,0,3,1.4,1.4,0.5,3,1,33,45,73.3,4,34,2,1,0,Dortmund,2019-01-26 Dortmund-Hannover 96,GER-BL1,18-19,74a75bd8
+fe641c1a,Thomas Delaney,6,DEN,DM,27-145,78,0,0,0,0,1,1,0,0,68,5,1,5,0.1,0.1,0.0,2,1,40,48,83.3,4,38,0,0,0,Dortmund,2019-01-26 Dortmund-Hannover 96,GER-BL1,18-19,74a75bd8
+db4ed67b,Mahmoud Dahoud,19,GER,DM,23-025,12,0,0,0,0,0,0,0,0,24,0,0,0,0.0,0.0,0.0,0,0,22,24,91.7,2,24,0,0,0,Dortmund,2019-01-26 Dortmund-Hannover 96,GER-BL1,18-19,74a75bd8
+5dfc6ad5,Axel Witsel,28,BEL,DM,30-014,90,1,0,0,0,2,1,0,0,96,3,1,1,0.1,0.1,0.0,1,1,77,85,90.6,7,77,2,1,1,Dortmund,2019-01-26 Dortmund-Hannover 96,GER-BL1,18-19,74a75bd8
+e42d61c7,Achraf Hakimi,5,MAR,"LB,RB",20-083,90,1,1,0,0,1,1,1,0,97,4,2,0,0.0,0.0,0.3,3,3,76,89,85.4,6,53,7,2,2,Dortmund,2019-01-26 Dortmund-Hannover 96,GER-BL1,18-19,74a75bd8
+fc62f087,Abdou Diallo,4,SEN,CB,22-267,90,0,0,0,0,0,0,0,0,66,1,0,0,0.0,0.0,0.0,0,0,58,63,92.1,5,46,0,1,1,Dortmund,2019-01-26 Dortmund-Hannover 96,GER-BL1,18-19,74a75bd8
+346d51d9,Julian Weigl,33,GER,CB,23-140,90,0,0,0,0,0,0,0,0,72,1,3,0,0.0,0.0,0.0,0,0,57,66,86.4,2,34,0,0,0,Dortmund,2019-01-26 Dortmund-Hannover 96,GER-BL1,18-19,74a75bd8
+fe2db476,Łukasz Piszczek,26,POL,RB,33-237,69,0,0,0,0,3,0,0,0,59,1,1,1,0.1,0.1,0.7,6,0,40,50,80.0,5,31,1,0,0,Dortmund,2019-01-26 Dortmund-Hannover 96,GER-BL1,18-19,74a75bd8
+89565ac5,Marcel Schmelzer,29,GER,LB,31-004,21,0,0,0,0,0,0,0,0,21,1,1,2,0.0,0.0,0.0,0,0,16,16,100.0,0,16,0,1,0,Dortmund,2019-01-26 Dortmund-Hannover 96,GER-BL1,18-19,74a75bd8
+9d12e142,Roman Bürki,1,SUI,GK,28-073,90,0,0,0,0,0,0,0,0,33,0,0,0,0.0,0.0,0.0,0,0,18,32,56.3,0,22,0,0,0,Dortmund,2019-01-26 Dortmund-Hannover 96,GER-BL1,18-19,74a75bd8
+773968e4,Hendrik Weydandt,26,GER,FW,23-194,83,0,0,0,0,3,1,0,0,36,3,0,1,0.6,0.6,0.3,2,0,10,21,47.6,1,12,1,2,0,Hannover 96,2019-01-26 Dortmund-Hannover 96,GER-BL1,18-19,74a75bd8
+f765bb88,Benjamin Hadžić,29,BIH,FW,19-328,7,0,1,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,1,1,1,3,33.3,0,2,0,0,0,Hannover 96,2019-01-26 Dortmund-Hannover 96,GER-BL1,18-19,74a75bd8
+fbbc8e15,Noah Joel Sarenren Bazee,37,NGA,FW,22-158,42,0,0,0,0,3,0,0,0,15,0,0,0,0.4,0.4,0.0,0,0,3,3,100.0,0,10,0,2,0,Hannover 96,2019-01-26 Dortmund-Hannover 96,GER-BL1,18-19,74a75bd8
+13ddc856,Takuma Asano,11,JPN,FW,24-077,48,0,0,0,0,1,0,0,0,12,1,0,2,0.0,0.0,0.0,1,0,1,4,25.0,0,9,2,1,0,Hannover 96,2019-01-26 Dortmund-Hannover 96,GER-BL1,18-19,74a75bd8
+5e1df051,Nicolai Müller,21,GER,AM,31-123,74,0,0,0,0,0,0,0,0,31,3,0,0,0.0,0.0,0.0,0,0,15,23,65.2,2,21,2,2,1,Hannover 96,2019-01-26 Dortmund-Hannover 96,GER-BL1,18-19,74a75bd8
+96f8ab0c,Tim Dierßen,34,GER,AM,23-011,16,0,0,0,0,0,0,0,0,4,0,0,1,0.0,0.0,0.0,0,0,3,3,100.0,0,3,0,0,0,Hannover 96,2019-01-26 Dortmund-Hannover 96,GER-BL1,18-19,74a75bd8
+ce218223,Iver Fossum,18,NOR,CM,22-195,90,0,0,0,0,2,1,0,0,54,3,1,0,0.1,0.1,0.4,4,0,36,46,78.3,1,29,1,3,2,Hannover 96,2019-01-26 Dortmund-Hannover 96,GER-BL1,18-19,74a75bd8
+04c11885,Marvin Bakalorz,6,GER,CM,29-135,90,1,0,0,0,1,1,0,0,31,0,1,1,0.0,0.0,0.0,2,0,18,23,78.3,4,18,3,0,0,Hannover 96,2019-01-26 Dortmund-Hannover 96,GER-BL1,18-19,74a75bd8
+1cd87320,Matthias Ostrzolek,22,GER,WB,28-235,90,0,0,0,0,0,0,0,0,50,0,1,2,0.0,0.0,0.0,1,1,26,42,61.9,2,26,1,0,0,Hannover 96,2019-01-26 Dortmund-Hannover 96,GER-BL1,18-19,74a75bd8
+d459281d,Miiko Albornoz,3,CHI,WB,28-057,90,0,0,0,0,0,0,0,0,56,2,0,1,0.0,0.0,0.1,3,0,38,47,80.9,5,31,0,2,0,Hannover 96,2019-01-26 Dortmund-Hannover 96,GER-BL1,18-19,74a75bd8
+faf55ce4,Kevin Wimmer,28,AUT,CB,26-072,90,0,0,0,0,0,0,0,0,72,2,5,3,0.0,0.0,0.3,2,0,46,62,74.2,3,40,1,0,0,Hannover 96,2019-01-26 Dortmund-Hannover 96,GER-BL1,18-19,74a75bd8
+5e66fa06,Waldemar Anton,31,GER,CB,22-190,90,0,0,0,0,1,0,0,0,45,1,3,0,0.1,0.1,0.0,0,0,30,36,83.3,1,27,1,0,0,Hannover 96,2019-01-26 Dortmund-Hannover 96,GER-BL1,18-19,74a75bd8
+6ec6fde0,Kevin Akpoguma,14,NGA,CB,23-282,90,0,0,0,0,0,0,1,0,60,3,6,4,0.0,0.0,0.0,1,0,33,44,75.0,2,34,1,0,0,Hannover 96,2019-01-26 Dortmund-Hannover 96,GER-BL1,18-19,74a75bd8
+83e0eeb4,Michael Esser,23,GER,GK,31-065,90,0,0,0,0,0,0,0,0,40,1,0,0,0.0,0.0,0.0,0,0,34,37,91.9,0,20,0,0,0,Hannover 96,2019-01-26 Dortmund-Hannover 96,GER-BL1,18-19,74a75bd8

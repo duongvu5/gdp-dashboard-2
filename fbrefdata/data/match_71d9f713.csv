@@ -1,0 +1,29 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+beae3a73,Renaud Ripart,20,FRA,"FW,LW",26-303,90,1,0,0,0,2,2,0,0,46,2,1,2,0.4,0.4,0.0,2,0,16,24,66.7,1,27,2,3,1,Nîmes,2020-01-11 Nîmes-Reims,FRA-L1,19-20,71d9f713
+f98b15f0,Romain Philippoteaux,7,FRA,LW,31-315,83,0,0,0,0,0,0,0,0,20,1,0,1,0.0,0.0,0.0,2,1,10,16,62.5,3,11,2,1,1,Nîmes,2020-01-11 Nîmes-Reims,FRA-L1,19-20,71d9f713
+0d3585b5,Kévin Denkey,27,TOG,FW,19-042,7,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,2,4,0,0,0,Nîmes,2020-01-11 Nîmes-Reims,FRA-L1,19-20,71d9f713
+005c0807,Zinedine Ferhat,10,ALG,RW,26-316,90,0,0,0,0,2,1,0,0,53,3,1,1,0.3,0.3,0.0,2,0,19,35,54.3,1,27,3,5,0,Nîmes,2020-01-11 Nîmes-Reims,FRA-L1,19-20,71d9f713
+fbf76716,Yassine Benrahou,22,FRA,AM,20-352,90,1,0,0,0,3,1,0,0,52,1,0,1,0.2,0.2,0.8,6,1,28,39,71.8,2,22,3,3,3,Nîmes,2020-01-11 Nîmes-Reims,FRA-L1,19-20,71d9f713
+44f8c299,Lucas Deaux,8,FRA,DM,31-016,90,0,0,0,0,0,0,0,0,44,6,0,0,0.0,0.0,0.0,3,1,18,31,58.1,0,13,0,3,2,Nîmes,2020-01-11 Nîmes-Reims,FRA-L1,19-20,71d9f713
+c8090cb3,Theo Valls,18,FRA,DM,24-024,90,0,0,0,0,1,0,0,0,30,5,0,1,0.0,0.0,0.0,1,0,15,20,75.0,1,7,0,1,1,Nîmes,2020-01-11 Nîmes-Reims,FRA-L1,19-20,71d9f713
+b66d1d8a,Florian Miguel,26,FRA,LB,23-132,90,0,0,0,0,0,0,0,0,40,1,2,1,0.0,0.0,0.0,3,0,23,33,69.7,2,16,0,1,0,Nîmes,2020-01-11 Nîmes-Reims,FRA-L1,19-20,71d9f713
+1ad8cb67,Pablo Martinez,4,FRA,CB,30-324,90,0,1,0,0,2,0,1,0,45,2,4,1,0.1,0.1,0.4,3,1,28,32,87.5,6,24,0,0,0,Nîmes,2020-01-11 Nîmes-Reims,FRA-L1,19-20,71d9f713
+16324e1d,Anthony Briançon,23,FRA,CB,25-044,90,0,0,0,0,3,0,0,0,54,3,3,1,0.7,0.7,0.3,1,0,33,43,76.7,2,20,1,0,0,Nîmes,2020-01-11 Nîmes-Reims,FRA-L1,19-20,71d9f713
+5314e067,Sofiane Alakouch,29,MAR,RB,21-166,71,0,0,0,0,0,0,0,0,53,2,1,1,0.0,0.0,0.0,0,0,29,39,74.4,4,20,0,2,0,Nîmes,2020-01-11 Nîmes-Reims,FRA-L1,19-20,71d9f713
+475583ff,Gaëtan Paquiez,15,FRA,RB,25-330,19,0,0,0,0,0,0,0,0,12,0,0,0,0.0,0.0,0.0,0,0,8,9,88.9,1,3,0,0,0,Nîmes,2020-01-11 Nîmes-Reims,FRA-L1,19-20,71d9f713
+28dabd43,Paul Bernardoni,30,FRA,GK,22-268,90,0,0,0,0,0,0,0,0,22,0,0,0,0.0,0.0,0.0,0,0,8,21,38.1,0,7,0,0,0,Nîmes,2020-01-11 Nîmes-Reims,FRA-L1,19-20,71d9f713
+7ffaf233,Suk Hyun-jun,10,KOR,FW,28-196,59,0,0,0,0,1,1,1,0,20,1,0,0,0.0,0.0,0.0,0,0,3,11,27.3,0,7,1,2,0,Reims,2020-01-11 Nîmes-Reims,FRA-L1,19-20,71d9f713
+1b6862e8,Dereck Kutesa,8,SUI,RM,22-036,31,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,4,5,80.0,0,7,0,2,2,Reims,2020-01-11 Nîmes-Reims,FRA-L1,19-20,71d9f713
+244bc2c8,Boulaye Dia,11,SEN,FW,23-056,90,0,0,0,0,1,0,0,0,22,1,0,1,0.1,0.1,0.1,2,0,12,15,80.0,2,12,1,1,0,Reims,2020-01-11 Nîmes-Reims,FRA-L1,19-20,71d9f713
+19a12bed,Hassane Kamara,13,CIV,LM,25-312,78,0,0,0,0,1,0,1,0,31,3,2,1,0.1,0.1,0.0,0,0,13,19,68.4,0,13,1,1,1,Reims,2020-01-11 Nîmes-Reims,FRA-L1,19-20,71d9f713
+0f26fd24,Anastasios Donis,9,GRE,LM,23-135,12,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,1,1,0,0,Reims,2020-01-11 Nîmes-Reims,FRA-L1,19-20,71d9f713
+279ddf6a,Xavier Chavalerin,7,FRA,CM,28-310,90,0,0,0,0,0,0,0,0,57,3,3,2,0.0,0.0,0.0,2,0,29,44,65.9,4,25,0,2,0,Reims,2020-01-11 Nîmes-Reims,FRA-L1,19-20,71d9f713
+0aa874f4,Alaixys Romao,4,TOG,CM,35-358,56,0,0,0,0,0,0,2,1,43,3,1,0,0.0,0.0,0.0,0,0,25,29,86.2,3,18,1,1,0,Reims,2020-01-11 Nîmes-Reims,FRA-L1,19-20,71d9f713
+6481421d,Moussa Doumbia,25,MLI,RM,25-149,59,0,0,0,0,0,0,1,0,10,0,0,0,0.0,0.0,0.0,2,0,3,6,50.0,0,9,0,0,0,Reims,2020-01-11 Nîmes-Reims,FRA-L1,19-20,71d9f713
+2acf0cd7,Marshall Munetsi,15,ZIM,CM,23-203,31,0,0,0,0,0,0,0,0,18,1,3,0,0.0,0.0,0.1,2,0,10,12,83.3,1,10,2,2,2,Reims,2020-01-11 Nîmes-Reims,FRA-L1,19-20,71d9f713
+6b2c894b,Ghislain Konan,3,CIV,LB,24-015,90,0,0,0,0,1,0,0,0,71,4,1,1,0.0,0.0,0.0,0,0,32,48,66.7,6,29,3,10,3,Reims,2020-01-11 Nîmes-Reims,FRA-L1,19-20,71d9f713
+32c2d95f,Yunis Abdelhamid,5,MAR,CB,32-105,90,0,0,0,0,1,0,0,0,50,2,0,0,0.1,0.1,0.0,1,0,33,42,78.6,2,25,2,3,3,Reims,2020-01-11 Nîmes-Reims,FRA-L1,19-20,71d9f713
+ad82197c,Axel Disasi,6,FRA,CB,21-306,90,0,0,0,0,0,0,0,0,52,2,1,0,0.0,0.0,0.0,0,0,31,41,75.6,1,24,2,1,0,Reims,2020-01-11 Nîmes-Reims,FRA-L1,19-20,71d9f713
+90eb507d,Thomas Foket,32,BEL,RB,25-108,90,0,0,0,0,0,0,0,0,57,1,1,0,0.0,0.0,0.0,1,0,32,46,69.6,1,7,1,0,0,Reims,2020-01-11 Nîmes-Reims,FRA-L1,19-20,71d9f713
+58ad9383,Predrag Rajković,1,SRB,GK,24-072,90,0,0,0,0,0,0,0,0,43,0,0,0,0.0,0.0,0.0,0,0,24,40,60.0,0,27,0,0,0,Reims,2020-01-11 Nîmes-Reims,FRA-L1,19-20,71d9f713

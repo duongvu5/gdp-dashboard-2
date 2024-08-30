@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+03f946ed,Andrea Petagna,37,ITA,FW,25-176,70,0,0,0,0,0,0,0,0,12,0,0,1,0.0,0.0,0.1,0,0,4,7,57.1,1,2,0,0,0,Napoli,2020-12-23 Napoli-Torino,ITA-SERIA_A,20-21,83e1c7a4
+82dbf623,Fernando Llorente,18,ESP,FW,35-301,20,0,0,0,0,1,0,0,0,7,0,0,0,0.1,0.1,0.1,1,0,3,5,60.0,0,4,0,0,0,Napoli,2020-12-23 Napoli-Torino,ITA-SERIA_A,20-21,83e1c7a4
+2f557579,Lorenzo Insigne,24,ITA,LW,29-202,90,1,0,0,0,4,2,0,0,81,1,0,0,0.2,0.2,0.0,1,0,58,70,82.9,2,58,1,7,5,Napoli,2020-12-23 Napoli-Torino,ITA-SERIA_A,20-21,83e1c7a4
+5e861944,Matteo Politano,21,ITA,RW,27-142,62,0,0,0,0,1,0,0,0,31,1,1,0,0.0,0.0,0.1,2,0,17,26,65.4,3,24,1,3,3,Napoli,2020-12-23 Napoli-Torino,ITA-SERIA_A,20-21,83e1c7a4
+a69e4806,Hirving Lozano,11,MEX,RW,25-146,28,0,0,0,0,1,1,0,0,9,0,0,0,0.1,0.1,0.0,0,0,3,7,42.9,0,8,3,0,0,Napoli,2020-12-23 Napoli-Torino,ITA-SERIA_A,20-21,83e1c7a4
+a5296e55,Piotr Zieliński,20,POL,"DM,AM",26-217,90,0,1,0,0,5,2,0,0,57,0,0,0,0.3,0.3,0.1,7,1,37,48,77.1,2,46,5,6,5,Napoli,2020-12-23 Napoli-Torino,ITA-SERIA_A,20-21,83e1c7a4
+59bf127b,Tiemoué Bakayoko,5,FRA,DM,26-128,70,0,0,0,0,0,0,1,0,56,3,0,2,0.0,0.0,0.0,2,0,46,51,90.2,6,33,0,0,0,Napoli,2020-12-23 Napoli-Torino,ITA-SERIA_A,20-21,83e1c7a4
+c0c7ff58,Fabián Ruiz Peña,8,ESP,DM,24-264,20,0,0,0,0,0,0,0,0,30,0,0,0,0.0,0.0,0.0,2,1,26,29,89.7,10,23,0,1,1,Napoli,2020-12-23 Napoli-Torino,ITA-SERIA_A,20-21,83e1c7a4
+dc3fa3b5,Diego Demme,4,GER,DM,29-032,29,0,0,0,0,0,0,0,0,35,1,1,0,0.0,0.0,0.0,0,0,29,31,93.5,2,21,2,1,0,Napoli,2020-12-23 Napoli-Torino,ITA-SERIA_A,20-21,83e1c7a4
+cf007308,Elif Elmas,7,MKD,AM,21-090,61,0,0,0,0,0,0,1,0,39,2,0,0,0.0,0.0,0.1,4,0,35,35,100.0,0,25,1,0,0,Napoli,2020-12-23 Napoli-Torino,ITA-SERIA_A,20-21,83e1c7a4
+2f3452eb,Elseid Hysaj,23,ALB,LB,26-307,70,0,0,0,0,1,0,0,0,84,2,1,1,0.0,0.0,0.0,2,0,63,76,82.9,4,66,1,2,2,Napoli,2020-12-23 Napoli-Torino,ITA-SERIA_A,20-21,83e1c7a4
+0b5a292a,Mário Rui,6,POR,LB,29-210,20,0,0,0,0,0,0,0,0,28,1,0,0,0.0,0.0,0.1,2,0,21,26,80.8,0,21,2,0,0,Napoli,2020-12-23 Napoli-Torino,ITA-SERIA_A,20-21,83e1c7a4
+16b9d5cf,Nikola Maksimović,19,SRB,CB,29-028,90,0,0,0,0,0,0,0,0,94,3,2,1,0.0,0.0,0.0,0,0,80,84,95.2,2,64,0,0,0,Napoli,2020-12-23 Napoli-Torino,ITA-SERIA_A,20-21,83e1c7a4
+c707411f,Kostas Manolas,44,GRE,CB,29-192,90,0,0,0,0,0,0,0,0,90,2,0,2,0.0,0.0,0.0,2,0,78,83,94.0,3,68,0,0,0,Napoli,2020-12-23 Napoli-Torino,ITA-SERIA_A,20-21,83e1c7a4
+230a2fac,Giovanni Di Lorenzo,22,ITA,RB,27-141,90,0,0,0,0,2,1,1,0,101,4,1,2,0.1,0.1,0.2,3,0,76,88,86.4,9,71,3,2,1,Napoli,2020-12-23 Napoli-Torino,ITA-SERIA_A,20-21,83e1c7a4
+9413b19f,Alex Meret,1,ITA,GK,23-276,90,0,0,0,0,0,0,0,0,24,0,0,0,0.0,0.0,0.0,0,0,22,23,95.7,0,14,0,0,0,Napoli,2020-12-23 Napoli-Torino,ITA-SERIA_A,20-21,83e1c7a4
+d705ba44,Andrea Belotti,9,ITA,FW,27-003,88,0,0,0,0,4,1,0,0,28,0,0,0,0.1,0.1,0.1,4,0,9,14,64.3,0,17,3,3,2,Torino,2020-12-23 Napoli-Torino,ITA-SERIA_A,20-21,83e1c7a4
+9592289a,Simone Zaza,11,ITA,FW,29-181,2,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,2,0,0,0,Torino,2020-12-23 Napoli-Torino,ITA-SERIA_A,20-21,83e1c7a4
+0375723e,Simone Verdi,24,ITA,FW,28-164,90,0,0,0,0,1,1,0,0,38,0,0,0,0.0,0.0,0.1,4,1,21,30,70.0,3,23,1,4,0,Torino,2020-12-23 Napoli-Torino,ITA-SERIA_A,20-21,83e1c7a4
+d023d70f,Karol Linetty,77,POL,CM,25-325,89,0,0,0,0,1,0,1,0,30,3,0,0,0.0,0.0,0.1,2,0,18,20,90.0,2,18,1,1,0,Torino,2020-12-23 Napoli-Torino,ITA-SERIA_A,20-21,83e1c7a4
+3cb132e6,Jacopo Segre,6,ITA,CM,23-310,1,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,1,0,0,0,Torino,2020-12-23 Napoli-Torino,ITA-SERIA_A,20-21,83e1c7a4
+f1cfc209,Tomás Rincón,88,VEN,CM,32-345,90,0,0,0,0,0,0,0,0,36,1,1,2,0.0,0.0,0.0,0,0,25,29,86.2,2,23,0,4,3,Torino,2020-12-23 Napoli-Torino,ITA-SERIA_A,20-21,83e1c7a4
+c6e8cf1f,Saša Lukić,7,SRB,CM,24-132,88,0,0,0,0,0,0,0,0,33,1,1,3,0.0,0.0,0.0,0,0,19,23,82.6,4,20,0,2,1,Torino,2020-12-23 Napoli-Torino,ITA-SERIA_A,20-21,83e1c7a4
+5cec2c74,Soualiho Meïté,23,FRA,CM,26-281,2,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,1,0,0,0,Torino,2020-12-23 Napoli-Torino,ITA-SERIA_A,20-21,83e1c7a4
+7f78ad23,Ricardo Rodríguez,13,SUI,WB,28-120,87,0,0,0,0,0,0,0,0,48,1,2,2,0.0,0.0,0.0,2,1,33,40,82.5,2,25,1,1,0,Torino,2020-12-23 Napoli-Torino,ITA-SERIA_A,20-21,83e1c7a4
+be2706c0,Mërgim Vojvoda,27,KVX,WB,25-326,3,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,1,0,0,0,Torino,2020-12-23 Napoli-Torino,ITA-SERIA_A,20-21,83e1c7a4
+8b609c34,Wilfried Singo,17,CIV,WB,19-364,90,0,0,0,0,0,0,0,0,60,0,1,0,0.0,0.0,0.0,2,0,35,50,70.0,3,33,3,6,4,Torino,2020-12-23 Napoli-Torino,ITA-SERIA_A,20-21,83e1c7a4
+4ae67f27,Alessandro Buongiorno,99,ITA,CB,21-200,90,0,0,0,0,1,0,1,0,53,0,0,3,0.1,0.1,0.0,0,0,35,43,81.4,3,30,1,0,0,Torino,2020-12-23 Napoli-Torino,ITA-SERIA_A,20-21,83e1c7a4
+5fd5ed86,Gleison Bremer,3,BRA,CB,23-280,90,0,0,0,0,1,0,0,0,41,0,2,0,0.0,0.0,0.0,2,0,27,32,84.4,1,25,0,0,0,Torino,2020-12-23 Napoli-Torino,ITA-SERIA_A,20-21,83e1c7a4
+89976232,Armando Izzo,5,ITA,CB,28-296,90,1,0,0,0,2,1,1,0,56,3,3,0,0.1,0.1,0.0,1,0,42,46,91.3,4,36,1,1,0,Torino,2020-12-23 Napoli-Torino,ITA-SERIA_A,20-21,83e1c7a4
+10dc46f0,Salvatore Sirigu,39,ITA,GK,33-346,90,0,0,0,0,0,0,0,0,48,0,0,0,0.0,0.0,0.0,1,0,31,46,67.4,0,28,0,0,0,Torino,2020-12-23 Napoli-Torino,ITA-SERIA_A,20-21,83e1c7a4

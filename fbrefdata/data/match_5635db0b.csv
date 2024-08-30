@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+d705ba44,Andrea Belotti,9,ITA,FW,25-143,90,2,0,0,1,3,3,0,0,30,2,0,1,1.7,0.9,0.3,3,0,8,16,50.0,3,23,2,2,0,Torino,2019-05-12 Torino-Sassuolo,ITA-SERIA_A,18-19,5635db0b
+dc1c2fce,Álex Berenguer,21,ESP,"LM,WB,AM",23-312,90,0,0,0,0,3,0,0,0,70,2,1,1,0.1,0.1,0.3,3,0,40,53,75.5,0,36,3,6,1,Torino,2019-05-12 Torino-Sassuolo,ITA-SERIA_A,18-19,5635db0b
+ea06dd97,Daniele Baselli,8,ITA,"AM,CM",27-061,88,0,0,0,0,1,0,0,0,73,4,1,1,0.0,0.0,0.1,4,1,49,64,76.6,12,41,2,1,1,Torino,2019-05-12 Torino-Sassuolo,ITA-SERIA_A,18-19,5635db0b
+5fd5ed86,Gleison Bremer,36,BRA,CB,22-055,2,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,0,0,0,0,Torino,2019-05-12 Torino-Sassuolo,ITA-SERIA_A,18-19,5635db0b
+c6e8cf1f,Saša Lukić,7,SRB,CM,22-272,48,0,0,0,0,0,0,1,0,21,0,0,0,0.0,0.0,0.0,0,0,21,22,95.5,5,16,1,0,0,Torino,2019-05-12 Torino-Sassuolo,ITA-SERIA_A,18-19,5635db0b
+9592289a,Simone Zaza,11,ITA,FW,27-321,42,1,0,0,0,6,3,0,0,12,0,0,0,1.2,1.2,0.0,1,0,2,4,50.0,0,6,0,0,0,Torino,2019-05-12 Torino-Sassuolo,ITA-SERIA_A,18-19,5635db0b
+5cec2c74,Soualiho Meïté,23,FRA,CM,25-056,90,0,1,0,0,1,0,0,0,55,4,1,0,0.0,0.0,0.4,5,2,36,43,83.7,7,40,5,5,4,Torino,2019-05-12 Torino-Sassuolo,ITA-SERIA_A,18-19,5635db0b
+bbafc0c4,Cristian Ansaldi,15,ARG,WB,32-234,22,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,5,7,71.4,1,6,1,0,0,Torino,2019-05-12 Torino-Sassuolo,ITA-SERIA_A,18-19,5635db0b
+440c84ed,Iago Falque,14,ESP,"RM,AM",29-128,68,0,0,0,0,2,1,0,0,52,0,0,0,0.1,0.1,0.5,7,0,40,48,83.3,6,35,5,1,1,Torino,2019-05-12 Torino-Sassuolo,ITA-SERIA_A,18-19,5635db0b
+e74f0e59,Lorenzo De Silvestri,29,ITA,"WB,RB",30-354,90,0,2,0,0,1,1,0,0,68,0,2,1,0.3,0.3,0.9,5,2,45,60,75.0,7,33,3,2,1,Torino,2019-05-12 Torino-Sassuolo,ITA-SERIA_A,18-19,5635db0b
+55667895,Emiliano Moretti,24,ITA,CB,37-335,90,0,0,0,0,0,0,0,0,80,1,1,0,0.0,0.0,0.0,2,1,73,77,94.8,16,50,2,0,0,Torino,2019-05-12 Torino-Sassuolo,ITA-SERIA_A,18-19,5635db0b
+93cf32a8,Nicolas Nkoulou,33,CMR,CB,29-046,90,0,0,0,0,0,0,0,0,56,0,2,0,0.0,0.0,0.0,1,0,45,53,84.9,3,36,0,0,0,Torino,2019-05-12 Torino-Sassuolo,ITA-SERIA_A,18-19,5635db0b
+89976232,Armando Izzo,5,ITA,"CB,LB,CM",27-071,90,0,0,0,0,2,1,0,0,78,2,2,2,0.1,0.1,0.1,2,0,51,67,76.1,5,34,4,0,0,Torino,2019-05-12 Torino-Sassuolo,ITA-SERIA_A,18-19,5635db0b
+10dc46f0,Salvatore Sirigu,39,ITA,GK,32-120,90,0,0,0,0,0,0,0,0,33,0,0,0,0.0,0.0,0.0,0,0,26,31,83.9,1,17,0,0,0,Torino,2019-05-12 Torino-Sassuolo,ITA-SERIA_A,18-19,5635db0b
+b70bde8f,Stefano Sensi,12,ITA,"FW,CM,LM",23-280,90,0,0,0,0,0,0,0,0,40,0,1,2,0.0,0.0,0.5,3,0,25,34,73.5,3,21,2,2,2,Sassuolo,2019-05-12 Torino-Sassuolo,ITA-SERIA_A,18-19,5635db0b
+fe012aca,Jeremie Boga,20,CIV,"LW,FW",22-129,71,0,0,0,0,3,1,0,0,22,0,0,0,0.6,0.6,0.0,2,1,11,14,78.6,0,15,3,5,4,Sassuolo,2019-05-12 Torino-Sassuolo,ITA-SERIA_A,18-19,5635db0b
+422ec08a,Khouma Babacar,30,SEN,FW,26-056,19,0,0,0,0,1,0,0,0,12,0,0,1,0.0,0.0,0.0,1,0,5,6,83.3,0,4,0,0,0,Sassuolo,2019-05-12 Torino-Sassuolo,ITA-SERIA_A,18-19,5635db0b
+eccbe56a,Filip Đuričić,9,SRB,RW,27-102,63,0,1,0,0,1,0,0,0,32,0,0,0,0.1,0.1,0.0,2,1,23,27,85.2,1,20,1,1,0,Sassuolo,2019-05-12 Torino-Sassuolo,ITA-SERIA_A,18-19,5635db0b
+10e7f486,Rogério,6,BRA,LB,21-119,27,0,0,0,0,0,0,0,0,16,0,0,1,0.0,0.0,0.0,0,0,11,13,84.6,0,5,0,0,0,Sassuolo,2019-05-12 Torino-Sassuolo,ITA-SERIA_A,18-19,5635db0b
+0d077b88,Mehdi Bourabia,68,MAR,LM,27-278,27,1,0,0,0,1,1,2,1,11,1,0,0,0.0,0.0,0.0,0,0,4,5,80.0,0,7,0,1,0,Sassuolo,2019-05-12 Torino-Sassuolo,ITA-SERIA_A,18-19,5635db0b
+07767f42,Francesco Magnanelli,4,ITA,CM,34-181,90,0,0,0,0,1,0,0,0,55,5,0,3,0.0,0.0,0.0,0,0,38,47,80.9,1,23,0,1,1,Sassuolo,2019-05-12 Torino-Sassuolo,ITA-SERIA_A,18-19,5635db0b
+528492ea,Alfred Duncan,32,GHA,"RM,CM",26-063,78,0,0,0,0,0,0,0,0,32,1,1,1,0.0,0.0,0.0,2,0,21,26,80.8,3,17,2,3,2,Sassuolo,2019-05-12 Torino-Sassuolo,ITA-SERIA_A,18-19,5635db0b
+a8a874f1,Manuel Locatelli,73,ITA,CM,21-124,12,0,0,0,0,0,0,1,0,6,0,0,0,0.0,0.0,0.0,0,0,4,5,80.0,1,2,0,0,0,Sassuolo,2019-05-12 Torino-Sassuolo,ITA-SERIA_A,18-19,5635db0b
+4f2908e5,Federico Peluso,13,ITA,"LB,CB",35-112,90,0,0,0,0,0,0,0,0,49,1,2,1,0.0,0.0,0.0,0,0,37,44,84.1,2,21,1,0,0,Sassuolo,2019-05-12 Torino-Sassuolo,ITA-SERIA_A,18-19,5635db0b
+8650af85,Gian Marco Ferrari,31,ITA,CB,27-086,90,0,0,0,0,0,0,1,0,35,0,2,1,0.0,0.0,0.0,0,0,20,25,80.0,1,20,0,0,0,Sassuolo,2019-05-12 Torino-Sassuolo,ITA-SERIA_A,18-19,5635db0b
+e3cceee6,Merih Demiral,3,TUR,CB,21-068,90,0,0,0,0,0,0,1,0,45,1,1,2,0.0,0.0,0.0,0,0,12,19,63.2,0,11,0,1,1,Sassuolo,2019-05-12 Torino-Sassuolo,ITA-SERIA_A,18-19,5635db0b
+ff800ed8,Pol Lirola,21,ESP,RB,21-272,90,1,0,0,0,1,1,0,0,55,5,1,0,0.4,0.4,0.1,1,0,29,42,69.0,1,24,2,4,3,Sassuolo,2019-05-12 Torino-Sassuolo,ITA-SERIA_A,18-19,5635db0b
+8cabdc1e,Andrea Consigli,47,ITA,GK,32-105,90,0,0,0,0,0,0,0,0,37,0,0,0,0.0,0.0,0.0,0,0,13,30,43.3,0,7,0,0,0,Sassuolo,2019-05-12 Torino-Sassuolo,ITA-SERIA_A,18-19,5635db0b

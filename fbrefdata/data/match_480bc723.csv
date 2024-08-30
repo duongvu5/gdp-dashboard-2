@@ -1,0 +1,32 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+834d0be5,Lucas Alario,13,ARG,FW,28-343,65,0,0,0,0,4,2,0,0,23,0,0,1,0.4,0.4,0.3,4,0,12,14,85.7,3,13,0,2,2,Bayer Leverkusen,2021-09-16 Leverkusen-Ferencváros,UEL,21-22,480bc723
+5d4f7d61,Patrik Schick,14,CZE,FW,25-235,25,0,0,0,0,2,1,0,0,12,0,0,0,0.3,0.3,0.0,0,0,5,8,62.5,0,9,1,1,1,Bayer Leverkusen,2021-09-16 Leverkusen-Ferencváros,UEL,21-22,480bc723
+dcfb17f4,Amine Adli,31,MAR,LW,21-129,65,0,0,0,0,3,1,0,0,42,1,0,1,0.1,0.1,0.1,5,0,27,31,87.1,4,27,5,4,1,Bayer Leverkusen,2021-09-16 Leverkusen-Ferencváros,UEL,21-22,480bc723
+bee0bab1,Karim Bellarabi,38,GER,LW,31-161,25,0,0,0,0,0,0,0,0,12,1,0,0,0.0,0.0,0.0,0,0,8,9,88.9,2,9,0,1,1,Bayer Leverkusen,2021-09-16 Leverkusen-Ferencváros,UEL,21-22,480bc723
+aeed5c06,Moussa Diaby,19,FRA,RW,22-071,90,0,1,0,0,2,1,0,0,90,2,1,1,0.3,0.3,0.4,6,1,62,77,80.5,7,59,12,5,1,Bayer Leverkusen,2021-09-16 Leverkusen-Ferencváros,UEL,21-22,480bc723
+e7fcf289,Florian Wirtz,27,GER,AM,18-136,80,1,0,0,0,2,1,0,0,63,0,0,1,0.4,0.4,0.1,4,0,43,52,82.7,8,33,1,2,2,Bayer Leverkusen,2021-09-16 Leverkusen-Ferencváros,UEL,21-22,480bc723
+555d5edd,Nadiem Amiri,11,GER,AM,24-324,10,0,0,0,0,1,0,0,0,6,0,0,0,0.3,0.3,0.0,3,0,5,5,100.0,2,3,1,1,1,Bayer Leverkusen,2021-09-16 Leverkusen-Ferencváros,UEL,21-22,480bc723
+54b4dc4e,Kerem Demirbay,10,GER,DM,28-075,90,0,0,0,0,5,1,1,0,91,2,1,2,0.1,0.1,0.0,3,0,68,83,81.9,14,59,1,0,0,Bayer Leverkusen,2021-09-16 Leverkusen-Ferencváros,UEL,21-22,480bc723
+e82adcab,Exequiel Palacios,25,ARG,DM,22-346,49,1,0,0,0,2,1,0,0,46,1,1,1,0.2,0.2,0.0,1,0,37,39,94.9,5,28,0,0,0,Bayer Leverkusen,2021-09-16 Leverkusen-Ferencváros,UEL,21-22,480bc723
+56413b1f,Charles Aránguiz,20,CHI,DM,32-152,41,0,0,0,0,0,0,0,0,34,2,2,0,0.0,0.0,0.0,0,0,27,29,93.1,1,16,0,0,0,Bayer Leverkusen,2021-09-16 Leverkusen-Ferencváros,UEL,21-22,480bc723
+73000a79,Daley Sinkgraven,22,NED,LB,26-074,65,0,0,0,0,1,0,0,0,61,1,2,1,0.1,0.1,0.0,1,0,46,56,82.1,3,44,2,0,0,Bayer Leverkusen,2021-09-16 Leverkusen-Ferencváros,UEL,21-22,480bc723
+0c7a48f8,Piero Hincapié,33,ECU,LB,19-250,25,0,0,0,0,0,0,0,0,43,0,1,2,0.0,0.0,0.0,2,0,30,36,83.3,1,25,2,1,0,Bayer Leverkusen,2021-09-16 Leverkusen-Ferencváros,UEL,21-22,480bc723
+bd142efb,Jonathan Tah,4,GER,CB,25-217,90,0,0,0,0,0,0,0,0,91,1,2,1,0.0,0.0,0.0,1,0,83,84,98.8,5,64,0,0,0,Bayer Leverkusen,2021-09-16 Leverkusen-Ferencváros,UEL,21-22,480bc723
+1f3afdcb,Odilon Kossonou,6,CIV,CB,20-255,90,0,0,0,0,0,0,0,0,91,2,0,0,0.0,0.0,0.0,1,0,80,81,98.8,9,56,4,1,1,Bayer Leverkusen,2021-09-16 Leverkusen-Ferencváros,UEL,21-22,480bc723
+74f2e748,Jeremie Frimpong,30,NED,RB,20-280,90,0,1,0,0,0,0,0,0,84,1,1,2,0.0,0.0,0.6,5,2,57,71,80.3,7,48,7,5,3,Bayer Leverkusen,2021-09-16 Leverkusen-Ferencváros,UEL,21-22,480bc723
+ad3389d5,Lukáš Hrádecký,1,FIN,GK,31-296,90,0,0,0,0,0,0,0,0,37,0,0,0,0.0,0.0,0.0,1,0,32,37,86.5,0,24,0,0,0,Bayer Leverkusen,2021-09-16 Leverkusen-Ferencváros,UEL,21-22,480bc723
+36a79857,Tokmac Nguen,10,NOR,FW,27-331,90,0,1,0,0,1,0,0,0,29,0,0,1,0.1,0.1,0.9,3,1,12,16,75.0,3,15,2,5,0,Ferencváros,2021-09-16 Leverkusen-Ferencváros,UEL,21-22,480bc723
+8a56c04c,Ryan Mmaee,8,MAR,FW,23-319,90,1,0,0,0,3,2,0,0,45,3,0,0,1.0,1.0,0.0,3,0,21,26,80.8,2,22,1,5,3,Ferencváros,2021-09-16 Leverkusen-Ferencváros,UEL,21-22,480bc723
+816bdfdd,Stjepan Lončar,44,BIH,CM,24-310,75,0,0,0,0,0,0,0,0,29,1,1,1,0.0,0.0,0.0,0,0,15,21,71.4,0,23,2,0,0,Ferencváros,2021-09-16 Leverkusen-Ferencváros,UEL,21-22,480bc723
+264b6d64,Željko Gavrić,80,SRB,CM,20-285,15,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,3,3,100.0,0,4,0,0,0,Ferencváros,2021-09-16 Leverkusen-Ferencváros,UEL,21-22,480bc723
+173eb3cd,Bálint Vécsei,19,HUN,CM,28-065,65,0,0,0,0,0,0,0,0,38,2,2,1,0.0,0.0,0.0,3,1,23,31,74.2,1,20,0,0,0,Ferencváros,2021-09-16 Leverkusen-Ferencváros,UEL,21-22,480bc723
+01da7812,Myrto Uzuni,77,ALB,CM,26-108,25,0,0,0,0,0,0,0,0,13,1,0,0,0.0,0.0,0.1,1,0,6,10,60.0,2,5,0,0,0,Ferencváros,2021-09-16 Leverkusen-Ferencváros,UEL,21-22,480bc723
+47dbe004,Kristoffer Zachariassen,16,NOR,CM,26-324,90,0,0,0,0,1,0,0,0,35,2,1,0,0.0,0.0,0.1,2,0,23,26,88.5,3,22,2,0,0,Ferencváros,2021-09-16 Leverkusen-Ferencváros,UEL,21-22,480bc723
+adfbe1f5,Oleksandr Zubkov,11,UKR,LB,25-044,85,0,0,0,0,2,1,0,0,60,4,1,0,0.1,0.1,0.0,1,0,33,48,68.8,2,30,2,4,1,Ferencváros,2021-09-16 Leverkusen-Ferencváros,UEL,21-22,480bc723
+aa681ea5,Marijan Čabraja,23,CRO,LB,24-203,5,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,1,0,2,3,66.7,0,5,0,1,0,Ferencváros,2021-09-16 Leverkusen-Ferencváros,UEL,21-22,480bc723
+5fcb90ac,Eldar Ćivić,17,BIH,CB,25-111,90,0,0,0,0,0,0,0,0,62,2,1,5,0.0,0.0,0.0,1,0,41,50,82.0,5,29,0,1,1,Ferencváros,2021-09-16 Leverkusen-Ferencváros,UEL,21-22,480bc723
+bf80db4d,Samy Mmaee,3,MAR,CB,25-008,90,0,0,0,0,1,0,0,0,50,0,1,2,0.0,0.0,0.0,0,0,29,36,80.6,2,24,0,0,0,Ferencváros,2021-09-16 Leverkusen-Ferencváros,UEL,21-22,480bc723
+3cdfc63e,Miha Blažič,25,SVN,CB,28-131,90,0,0,0,0,0,0,0,0,47,1,3,1,0.0,0.0,0.0,0,0,30,34,88.2,1,22,0,1,0,Ferencváros,2021-09-16 Leverkusen-Ferencváros,UEL,21-22,480bc723
+0362c29e,Henry Wingo,31,USA,RB,25-347,90,0,0,0,0,2,1,0,0,55,1,2,0,0.1,0.1,0.2,1,0,25,35,71.4,0,28,1,2,1,Ferencváros,2021-09-16 Leverkusen-Ferencváros,UEL,21-22,480bc723
+4030c7ae,Dénes Dibusz,90,HUN,GK,30-304,90,0,0,0,0,0,0,0,0,45,0,0,0,0.0,0.0,0.0,0,0,32,38,84.2,0,12,0,0,0,Ferencváros,2021-09-16 Leverkusen-Ferencváros,UEL,21-22,480bc723

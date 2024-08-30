@@ -1,0 +1,32 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+2077ae86,Jonas Wind,23,DEN,FW,24-362,90,0,0,0,0,4,2,0,0,32,2,0,0,0.5,0.5,0.0,2,1,19,24,79.2,2,16,1,1,1,Wolfsburg,2024-02-04 Wolfsburg-Hoffenheim,GER-BL1,23-24,5832b0ba
+30ae134d,Kevin Behrens,17,GER,FW,33-001,83,0,1,0,0,2,1,0,0,31,0,0,1,0.2,0.2,0.0,1,1,14,27,51.9,2,13,2,0,0,Wolfsburg,2024-02-04 Wolfsburg-Hoffenheim,GER-BL1,23-24,5832b0ba
+80f252f6,Dženan Pejčinović,18,GER,FW,18-354,7,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Wolfsburg,2024-02-04 Wolfsburg-Hoffenheim,GER-BL1,23-24,5832b0ba
+5c50fdbc,Kevin Paredes,40,USA,LM,20-273,90,0,0,0,0,1,0,0,0,36,1,1,1,0.0,0.0,0.4,6,1,19,28,67.9,3,22,2,1,1,Wolfsburg,2024-02-04 Wolfsburg-Hoffenheim,GER-BL1,23-24,5832b0ba
+86e119e0,Maximilian Arnold,27,GER,CM,29-253,90,0,0,0,0,1,0,0,0,64,0,1,1,0.0,0.0,0.1,5,0,43,55,78.2,10,35,1,2,1,Wolfsburg,2024-02-04 Wolfsburg-Hoffenheim,GER-BL1,23-24,5832b0ba
+f86cd5df,Aster Vranckx,6,BEL,"CM,RM",21-123,54,0,0,0,0,0,0,0,0,29,1,0,2,0.0,0.0,0.0,0,0,18,20,90.0,1,16,0,2,1,Wolfsburg,2024-02-04 Wolfsburg-Hoffenheim,GER-BL1,23-24,5832b0ba
+fc46aab1,Lovro Majer,19,CRO,AM,26-018,36,2,0,1,1,1,1,1,0,30,1,1,0,0.8,0.0,0.0,2,1,13,20,65.0,2,17,0,3,1,Wolfsburg,2024-02-04 Wolfsburg-Hoffenheim,GER-BL1,23-24,5832b0ba
+bb1cf301,Václav Černý,7,CZE,RM,26-110,45,0,0,0,0,0,0,0,0,20,0,0,0,0.0,0.0,0.0,3,0,11,17,64.7,1,13,0,1,1,Wolfsburg,2024-02-04 Wolfsburg-Hoffenheim,GER-BL1,23-24,5832b0ba
+92d83c27,Mattias Svanberg,32,SWE,"RM,AM",25-030,45,0,0,0,0,1,1,0,0,18,1,0,3,0.0,0.0,0.0,1,0,6,10,60.0,1,9,1,1,0,Wolfsburg,2024-02-04 Wolfsburg-Hoffenheim,GER-BL1,23-24,5832b0ba
+10e7f486,Rogério,13,BRA,LB,26-022,90,0,0,0,0,0,0,0,0,68,2,0,1,0.0,0.0,0.2,4,0,40,52,76.9,7,32,0,1,0,Wolfsburg,2024-02-04 Wolfsburg-Hoffenheim,GER-BL1,23-24,5832b0ba
+ee644761,Moritz Jenz,25,GER,CB,24-280,90,0,0,0,0,0,0,1,0,59,2,0,4,0.0,0.0,0.0,1,0,37,42,88.1,4,30,0,0,0,Wolfsburg,2024-02-04 Wolfsburg-Hoffenheim,GER-BL1,23-24,5832b0ba
+01834aa0,Sebastiaan Bornauw,3,BEL,CB,24-319,90,0,0,0,0,2,1,0,0,48,3,1,0,0.1,0.1,0.0,0,0,29,36,80.6,1,26,0,0,0,Wolfsburg,2024-02-04 Wolfsburg-Hoffenheim,GER-BL1,23-24,5832b0ba
+c459a650,Joakim Mæhle,21,DEN,RB,26-260,54,0,0,0,0,0,0,0,0,36,1,0,0,0.0,0.0,0.1,2,0,26,32,81.3,3,20,2,1,1,Wolfsburg,2024-02-04 Wolfsburg-Hoffenheim,GER-BL1,23-24,5832b0ba
+442b56fa,Ridle Baku,20,GER,RB,25-302,36,0,0,0,0,1,0,0,0,18,0,0,1,0.1,0.1,0.0,0,0,7,11,63.6,0,7,0,1,1,Wolfsburg,2024-02-04 Wolfsburg-Hoffenheim,GER-BL1,23-24,5832b0ba
+db401046,Koen Casteels,1,BEL,GK,31-224,90,0,0,0,0,0,0,0,0,41,0,0,0,0.0,0.0,0.0,0,0,23,37,62.2,0,23,0,0,0,Wolfsburg,2024-02-04 Wolfsburg-Hoffenheim,GER-BL1,23-24,5832b0ba
+5db45ee5,Maximilian Beier,14,GER,FW,21-110,89,1,0,0,0,3,2,0,0,38,1,1,1,0.4,0.4,0.4,2,1,18,24,75.0,0,26,2,3,2,Hoffenheim,2024-02-04 Wolfsburg-Hoffenheim,GER-BL1,23-24,5832b0ba
+ab5b7dc1,Marius Bülter,21,GER,FW,30-312,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Hoffenheim,2024-02-04 Wolfsburg-Hoffenheim,GER-BL1,23-24,5832b0ba
+c4e87b8b,Wout Weghorst,10,NED,FW,31-181,64,0,0,0,0,3,1,0,0,29,1,0,0,0.4,0.4,0.2,5,0,16,21,76.2,1,21,0,0,0,Hoffenheim,2024-02-04 Wolfsburg-Hoffenheim,GER-BL1,23-24,5832b0ba
+a53b661f,Ihlas Bebou,9,TOG,FW,29-287,26,0,1,0,0,2,1,0,0,19,0,0,0,0.1,0.1,0.1,2,1,6,10,60.0,1,14,1,1,0,Hoffenheim,2024-02-04 Wolfsburg-Hoffenheim,GER-BL1,23-24,5832b0ba
+603cb947,Andrej Kramarić,27,CRO,AM,32-230,85,0,0,0,0,4,1,0,0,51,0,2,0,0.6,0.6,0.3,6,0,36,43,83.7,4,33,4,1,1,Hoffenheim,2024-02-04 Wolfsburg-Hoffenheim,GER-BL1,23-24,5832b0ba
+33b38f49,Bambasé Conté,31,GER,AM,20-212,5,0,0,0,0,1,0,0,0,5,1,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,3,1,2,1,Hoffenheim,2024-02-04 Wolfsburg-Hoffenheim,GER-BL1,23-24,5832b0ba
+e547d3cf,Umut Tohumcu,40,GER,LM,19-177,64,0,1,0,0,1,1,0,0,26,0,0,0,0.0,0.0,0.3,5,1,23,23,100.0,4,25,2,1,0,Hoffenheim,2024-02-04 Wolfsburg-Hoffenheim,GER-BL1,23-24,5832b0ba
+ff98492b,Robert Skov,29,DEN,WB,27-260,26,0,0,0,0,0,0,0,0,14,0,0,0,0.0,0.0,0.0,2,1,11,13,84.6,3,8,1,0,0,Hoffenheim,2024-02-04 Wolfsburg-Hoffenheim,GER-BL1,23-24,5832b0ba
+0f59a7bf,Anton Stach,16,GER,"RM,CM",25-081,90,0,0,0,0,2,0,0,0,70,2,2,2,0.0,0.0,0.0,2,0,40,54,74.1,6,47,2,6,5,Hoffenheim,2024-02-04 Wolfsburg-Hoffenheim,GER-BL1,23-24,5832b0ba
+924f9191,Grischa Prömel,6,GER,"DM,CM",29-026,90,1,0,0,0,1,1,0,0,59,2,3,3,0.1,0.1,0.0,2,0,34,47,72.3,5,34,4,0,0,Hoffenheim,2024-02-04 Wolfsburg-Hoffenheim,GER-BL1,23-24,5832b0ba
+61590953,Stanley N'Soki,34,FRA,"LB,CB",24-301,90,0,0,0,0,0,0,1,0,72,1,0,2,0.0,0.0,0.0,0,0,52,61,85.2,9,45,1,1,1,Hoffenheim,2024-02-04 Wolfsburg-Hoffenheim,GER-BL1,23-24,5832b0ba
+e27da244,John Brooks,23,USA,CB,31-007,90,0,0,0,0,0,0,1,0,72,2,2,0,0.0,0.0,0.0,0,0,47,58,81.0,1,48,0,0,0,Hoffenheim,2024-02-04 Wolfsburg-Hoffenheim,GER-BL1,23-24,5832b0ba
+2d61d13a,Ozan Kabak,5,TUR,CB,23-316,90,0,0,0,0,0,0,1,0,70,1,0,0,0.0,0.0,0.0,1,0,47,57,82.5,7,46,1,0,0,Hoffenheim,2024-02-04 Wolfsburg-Hoffenheim,GER-BL1,23-24,5832b0ba
+79c90e45,Pavel Kadeřábek,3,CZE,"RB,WB",31-285,90,0,0,0,0,0,0,0,0,68,1,1,1,0.0,0.0,0.2,3,0,41,60,68.3,5,37,1,0,0,Hoffenheim,2024-02-04 Wolfsburg-Hoffenheim,GER-BL1,23-24,5832b0ba
+47064058,Oliver Baumann,1,GER,GK,33-247,90,0,0,0,0,0,0,0,0,39,0,0,0,0.0,0.0,0.0,0,0,29,36,80.6,0,24,0,0,0,Hoffenheim,2024-02-04 Wolfsburg-Hoffenheim,GER-BL1,23-24,5832b0ba

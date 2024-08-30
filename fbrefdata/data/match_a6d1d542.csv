@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+157d29b6,Diego Farias,17,BRA,FW,27-158,90,0,0,0,0,1,1,0,0,48,1,0,2,0.1,0.1,0.0,3,1,32,40,80.0,2,32,1,0,0,Cagliari,2017-10-15 Cagliari-Genoa,ITA-SERIA_A,17-18,a6d1d542
+d37b0350,Leonardo Pavoletti,30,ITA,FW,28-323,90,1,0,0,0,5,1,1,0,32,0,0,0,0.3,0.3,0.0,2,0,11,17,64.7,1,15,0,0,0,Cagliari,2017-10-15 Cagliari-Genoa,ITA-SERIA_A,17-18,a6d1d542
+81255c03,João Pedro,10,ITA,AM,25-220,90,1,0,1,1,2,1,0,0,37,1,0,0,0.8,0.1,0.1,3,0,19,28,67.9,2,30,4,1,1,Cagliari,2017-10-15 Cagliari-Genoa,ITA-SERIA_A,17-18,a6d1d542
+cedb3e36,Artur Ioniță,21,MDA,"LM,RM",27-059,75,0,0,0,0,1,1,0,0,38,0,1,2,0.0,0.0,0.0,1,0,21,29,72.4,3,22,1,0,0,Cagliari,2017-10-15 Cagliari-Genoa,ITA-SERIA_A,17-18,a6d1d542
+1ad1f50d,Marco Sau,25,ITA,RM,29-346,15,0,0,0,0,0,0,0,0,3,0,0,1,0.0,0.0,0.0,0,0,1,2,50.0,0,1,0,0,0,Cagliari,2017-10-15 Cagliari-Genoa,ITA-SERIA_A,17-18,a6d1d542
+ae64d449,Luca Cigarini,8,ITA,CM,31-117,90,0,0,0,0,1,0,0,0,94,1,1,1,0.0,0.0,0.1,3,0,62,83,74.7,6,52,1,0,0,Cagliari,2017-10-15 Cagliari-Genoa,ITA-SERIA_A,17-18,a6d1d542
+6928979a,Nicolò Barella,18,ITA,"LM,RM",20-250,90,0,0,0,0,1,1,1,0,70,2,1,1,0.0,0.0,0.1,4,1,54,63,85.7,7,47,3,3,3,Cagliari,2017-10-15 Cagliari-Genoa,ITA-SERIA_A,17-18,a6d1d542
+5eb72339,Simone Padoin,20,ITA,LB,33-211,90,0,0,0,0,0,0,0,0,68,0,1,1,0.0,0.0,0.0,1,0,53,66,80.3,8,44,5,0,0,Cagliari,2017-10-15 Cagliari-Genoa,ITA-SERIA_A,17-18,a6d1d542
+56400c01,Fabio Pisacane,19,ITA,CB,31-260,90,0,0,0,0,2,1,0,0,93,5,0,1,0.1,0.1,0.0,2,0,67,79,84.8,7,64,0,0,0,Cagliari,2017-10-15 Cagliari-Genoa,ITA-SERIA_A,17-18,a6d1d542
+84594618,Filippo Romagna,56,ITA,CB,20-142,90,0,0,0,0,0,0,0,0,81,1,1,1,0.0,0.0,0.0,1,0,56,72,77.8,9,59,1,1,1,Cagliari,2017-10-15 Cagliari-Genoa,ITA-SERIA_A,17-18,a6d1d542
+2fb3ad46,Gregory van der Wiel,2,NED,RB,29-254,45,0,0,0,0,0,0,0,0,25,0,1,0,0.0,0.0,0.0,0,0,21,24,87.5,2,18,0,0,0,Cagliari,2017-10-15 Cagliari-Genoa,ITA-SERIA_A,17-18,a6d1d542
+9085dd7c,Paolo Faragò,24,ITA,RB,24-245,45,0,1,0,0,0,0,0,0,38,2,0,2,0.0,0.0,0.2,3,1,25,32,78.1,4,22,2,0,0,Cagliari,2017-10-15 Cagliari-Genoa,ITA-SERIA_A,17-18,a6d1d542
+f554e29b,Alessio Cragno,28,ITA,GK,23-109,63,0,0,0,0,0,0,0,0,16,0,0,0,0.0,0.0,0.0,0,0,12,12,100.0,0,8,0,0,0,Cagliari,2017-10-15 Cagliari-Genoa,ITA-SERIA_A,17-18,a6d1d542
+dd06d56c,Rafael,1,BRA,GK,35-226,27,0,0,0,0,0,0,0,0,17,0,0,0,0.0,0.0,0.0,0,0,14,15,93.3,0,7,0,0,0,Cagliari,2017-10-15 Cagliari-Genoa,ITA-SERIA_A,17-18,a6d1d542
+0a1efd3c,Andrey Galabinov,16,BUL,FW,28-322,90,1,0,0,0,5,4,0,0,43,1,0,2,1.3,1.3,0.0,4,0,20,28,71.4,2,22,3,2,1,Genoa,2017-10-15 Cagliari-Genoa,ITA-SERIA_A,17-18,a6d1d542
+47dc80f5,Adel Taarabt,11,MAR,AM,28-144,74,1,1,0,0,3,2,0,0,45,1,0,0,0.1,0.1,0.8,8,2,31,37,83.8,7,22,1,1,1,Genoa,2017-10-15 Cagliari-Genoa,ITA-SERIA_A,17-18,a6d1d542
+524eb8c5,Federico Ricci,27,ITA,AM,23-141,16,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,1,0,5,7,71.4,3,3,1,0,0,Genoa,2017-10-15 Cagliari-Genoa,ITA-SERIA_A,17-18,a6d1d542
+4dba2a97,Luca Rigoni,30,ITA,AM,32-312,84,1,1,0,0,3,3,0,0,38,1,0,0,0.8,0.8,0.2,3,1,19,25,76.0,1,21,3,1,1,Genoa,2017-10-15 Cagliari-Genoa,ITA-SERIA_A,17-18,a6d1d542
+72c803a0,Stephane Omeonga,40,BEL,AM,21-202,6,0,0,0,0,2,1,0,0,6,0,0,0,0.1,0.1,0.0,0,0,1,2,50.0,1,2,0,1,0,Genoa,2017-10-15 Cagliari-Genoa,ITA-SERIA_A,17-18,a6d1d542
+c75b6a02,Andrea Bertolacci,8,ITA,CM,26-277,89,0,0,0,0,0,0,0,0,50,0,1,2,0.0,0.0,0.1,3,0,34,41,82.9,6,20,1,0,0,Genoa,2017-10-15 Cagliari-Genoa,ITA-SERIA_A,17-18,a6d1d542
+4590c6e7,Petar Brlek,21,CRO,CM,23-259,1,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.1,1,0,1,3,33.3,1,0,0,0,0,Genoa,2017-10-15 Cagliari-Genoa,ITA-SERIA_A,17-18,a6d1d542
+ab1ca213,Miguel Veloso,44,POR,CM,31-157,90,0,0,0,0,0,0,0,0,59,2,0,4,0.0,0.0,0.4,5,0,35,51,68.6,6,21,0,0,0,Genoa,2017-10-15 Cagliari-Genoa,ITA-SERIA_A,17-18,a6d1d542
+f26e3c59,Diego Laxalt,93,URU,WB,24-250,90,0,0,0,0,2,0,0,0,43,0,0,2,0.1,0.1,0.0,3,0,29,34,85.3,3,19,3,1,1,Genoa,2017-10-15 Cagliari-Genoa,ITA-SERIA_A,17-18,a6d1d542
+1b729ba2,Aleandro Rosi,20,ITA,WB,30-151,90,0,1,0,0,2,0,0,0,53,3,2,0,0.3,0.3,0.7,1,1,26,39,66.7,3,20,2,0,0,Genoa,2017-10-15 Cagliari-Genoa,ITA-SERIA_A,17-18,a6d1d542
+1253a12e,Ervin Zukanović,87,BIH,CB,30-246,90,0,0,0,0,0,0,0,0,49,0,3,0,0.0,0.0,0.0,0,0,31,41,75.6,2,15,1,0,0,Genoa,2017-10-15 Cagliari-Genoa,ITA-SERIA_A,17-18,a6d1d542
+47a500ae,Luca Rossettini,13,ITA,CB,32-159,90,0,0,0,0,1,1,0,0,37,0,3,0,0.1,0.1,0.0,0,0,17,23,73.9,0,4,0,0,0,Genoa,2017-10-15 Cagliari-Genoa,ITA-SERIA_A,17-18,a6d1d542
+89976232,Armando Izzo,5,ITA,CB,25-227,90,0,0,0,0,0,0,0,0,45,0,2,1,0.0,0.0,0.0,2,0,31,36,86.1,3,12,0,0,0,Genoa,2017-10-15 Cagliari-Genoa,ITA-SERIA_A,17-18,a6d1d542
+4c62d0c8,Mattia Perin,1,ITA,GK,24-339,90,0,0,0,0,0,0,0,0,31,0,0,0,0.0,0.0,0.0,0,0,14,28,50.0,0,4,0,0,0,Genoa,2017-10-15 Cagliari-Genoa,ITA-SERIA_A,17-18,a6d1d542

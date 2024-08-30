@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+877bc844,Philipp Hofmann,33,GER,FW,30-044,90,0,1,0,0,2,1,1,0,36,1,0,0,0.3,0.3,0.0,2,1,15,26,57.7,5,11,0,1,0,Bochum,2023-05-13 Bochum-Augsburg,GER-BL1,22-23,fe49dbb7
+0a3f6cde,Christopher Antwi-Adjei,22,GHA,LW,29-095,75,1,0,0,0,1,1,0,0,39,0,0,1,0.0,0.0,0.0,1,1,11,29,37.9,1,22,7,5,2,Bochum,2023-05-13 Bochum-Augsburg,GER-BL1,22-23,fe49dbb7
+2979c05a,Gerrit Holtmann,17,PHI,LW,28-049,15,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,1,0,2,4,50.0,0,1,1,1,1,Bochum,2023-05-13 Bochum-Augsburg,GER-BL1,22-23,fe49dbb7
+13ddc856,Takuma Asano,11,JPN,RW,28-184,76,0,0,0,0,1,1,0,0,19,1,0,1,0.4,0.4,0.0,3,1,11,14,78.6,3,12,1,0,0,Bochum,2023-05-13 Bochum-Augsburg,GER-BL1,22-23,fe49dbb7
+29f7cfd9,Simon Zoller,9,GER,RW,31-321,14,0,0,0,0,0,0,0,0,4,1,0,0,0.0,0.0,0.0,0,0,2,3,66.7,1,0,0,0,0,Bochum,2023-05-13 Bochum-Augsburg,GER-BL1,22-23,fe49dbb7
+76fa965f,Philipp Förster,10,GER,LM,28-098,88,0,1,0,0,2,0,0,0,52,2,1,1,0.2,0.2,0.1,6,0,29,43,67.4,3,15,0,0,0,Bochum,2023-05-13 Bochum-Augsburg,GER-BL1,22-23,fe49dbb7
+591477c9,Vassilis Lambropoulos,24,GRE,LM,33-043,2,0,0,0,0,0,0,0,0,2,0,1,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Bochum,2023-05-13 Bochum-Augsburg,GER-BL1,22-23,fe49dbb7
+861e0116,Kostas Stafylidis,16,GRE,CM,29-162,35,0,0,0,0,1,1,1,0,14,0,0,0,0.0,0.0,0.0,1,0,6,10,60.0,0,6,0,2,1,Bochum,2023-05-13 Bochum-Augsburg,GER-BL1,22-23,fe49dbb7
+e5649a78,Kevin Stöger,7,AUT,CM,29-259,55,0,0,0,0,1,1,0,0,38,1,1,0,0.0,0.0,0.0,2,0,18,32,56.3,6,13,1,0,0,Bochum,2023-05-13 Bochum-Augsburg,GER-BL1,22-23,fe49dbb7
+07c7eb0c,Anthony Losilla,8,FRA,RM,37-064,90,1,0,0,0,4,2,0,0,42,1,1,2,0.3,0.3,0.6,2,0,23,30,76.7,4,13,0,0,0,Bochum,2023-05-13 Bochum-Augsburg,GER-BL1,22-23,fe49dbb7
+699fb8db,Dominique Heintz,30,GER,LB,29-271,88,0,0,0,0,1,1,0,0,42,3,1,0,0.0,0.0,0.1,1,0,26,35,74.3,1,13,1,1,1,Bochum,2023-05-13 Bochum-Augsburg,GER-BL1,22-23,fe49dbb7
+f6bdc830,Keven Schlotterbeck,31,GER,LB,26-015,2,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,0,0,0,0,Bochum,2023-05-13 Bochum-Augsburg,GER-BL1,22-23,fe49dbb7
+86c75897,Ivan Ordets,20,UKR,CB,30-309,90,0,0,0,0,0,0,0,0,46,0,4,0,0.0,0.0,0.0,0,0,20,32,62.5,1,15,1,0,0,Bochum,2023-05-13 Bochum-Augsburg,GER-BL1,22-23,fe49dbb7
+a396fb61,Erhan Mašović,4,SRB,CB,24-172,90,0,0,0,0,0,0,0,0,37,1,2,1,0.0,0.0,0.1,1,0,19,27,70.4,0,16,1,0,0,Bochum,2023-05-13 Bochum-Augsburg,GER-BL1,22-23,fe49dbb7
+689c9cf4,Saidy Janko,23,GAM,RB,27-203,90,0,0,0,0,0,0,0,0,43,0,0,1,0.0,0.0,0.0,1,0,26,35,74.3,2,15,2,2,0,Bochum,2023-05-13 Bochum-Augsburg,GER-BL1,22-23,fe49dbb7
+9f941969,Manuel Riemann,1,GER,GK,34-246,90,0,0,0,0,0,0,1,0,56,0,0,0,0.0,0.0,0.0,0,0,24,52,46.2,0,31,0,0,0,Bochum,2023-05-13 Bochum-Augsburg,GER-BL1,22-23,fe49dbb7
+9a2e3a23,Dion Drena Beljo,7,CRO,FW,21-073,90,0,2,0,0,2,0,0,0,17,1,0,0,0.3,0.3,0.7,3,2,3,6,50.0,0,13,0,0,0,Augsburg,2023-05-13 Bochum-Augsburg,GER-BL1,22-23,fe49dbb7
+ed79b7d3,Ermedin Demirović,9,BIH,LW,25-049,90,0,0,0,0,4,0,0,0,38,1,0,0,0.7,0.7,0.3,3,0,13,27,48.1,0,11,0,2,1,Augsburg,2023-05-13 Bochum-Augsburg,GER-BL1,22-23,fe49dbb7
+eb6e14be,Mergim Berisha,11,GER,RW,25-002,67,0,0,0,0,3,0,0,0,13,0,0,1,0.3,0.3,0.0,1,0,3,7,42.9,1,4,1,0,0,Augsburg,2023-05-13 Bochum-Augsburg,GER-BL1,22-23,fe49dbb7
+5e080f73,Irvin Cardona,48,FRA,RW,25-278,23,0,0,0,0,0,0,0,0,9,0,1,0,0.0,0.0,0.0,0,0,4,6,66.7,0,5,0,0,0,Augsburg,2023-05-13 Bochum-Augsburg,GER-BL1,22-23,fe49dbb7
+582a5247,Mads Pedersen,3,DEN,LM,26-254,90,0,0,0,0,0,0,0,0,45,0,0,2,0.0,0.0,0.1,6,0,22,35,62.9,4,21,6,5,3,Augsburg,2023-05-13 Bochum-Augsburg,GER-BL1,22-23,fe49dbb7
+1ae836b1,Elvis Rexhbeçaj,13,GER,CM,25-193,82,0,0,0,0,0,0,0,0,23,1,1,0,0.0,0.0,0.0,0,0,9,16,56.3,0,8,0,2,0,Augsburg,2023-05-13 Bochum-Augsburg,GER-BL1,22-23,fe49dbb7
+fc8fcbd1,Renato Veiga,8,POR,CM,19-288,8,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,4,6,66.7,0,5,0,0,0,Augsburg,2023-05-13 Bochum-Augsburg,GER-BL1,22-23,fe49dbb7
+7f73bdf4,Niklas Dorsch,30,GER,CM,25-118,90,0,0,0,0,0,0,0,0,36,3,1,1,0.0,0.0,0.0,3,0,23,29,79.3,1,16,0,3,2,Augsburg,2023-05-13 Bochum-Augsburg,GER-BL1,22-23,fe49dbb7
+ab700320,Arne Maier,10,GER,RM,24-125,77,1,0,0,0,2,1,0,0,48,0,1,1,0.1,0.1,0.1,3,0,11,34,32.4,1,19,3,4,2,Augsburg,2023-05-13 Bochum-Augsburg,GER-BL1,22-23,fe49dbb7
+ea0893d6,Kelvin Yeboah,45,ITA,RM,23-007,13,1,0,0,0,3,1,0,0,6,0,0,1,0.4,0.4,0.0,0,0,1,1,100.0,1,1,0,0,0,Augsburg,2023-05-13 Bochum-Augsburg,GER-BL1,22-23,fe49dbb7
+677da306,Ohis Felix Uduokhai,19,GER,CB,25-246,90,0,0,0,0,1,0,0,0,37,1,2,1,0.1,0.1,0.1,3,0,22,29,75.9,3,13,0,1,1,Augsburg,2023-05-13 Bochum-Augsburg,GER-BL1,22-23,fe49dbb7
+1025db8e,Jeffrey Gouweleeuw,6,NED,CB,31-307,90,0,0,0,0,0,0,0,0,42,0,0,0,0.0,0.0,0.2,1,0,20,30,66.7,2,13,0,0,0,Augsburg,2023-05-13 Bochum-Augsburg,GER-BL1,22-23,fe49dbb7
+44a20f0c,Maximilian Bauer,23,GER,CB,23-093,67,0,0,0,0,0,0,1,0,28,1,0,2,0.0,0.0,0.0,2,0,12,21,57.1,2,9,0,0,0,Augsburg,2023-05-13 Bochum-Augsburg,GER-BL1,22-23,fe49dbb7
+1df0c0b9,Robert Gumny,2,POL,CB,24-343,23,0,0,0,0,0,0,1,0,17,0,1,1,0.0,0.0,0.0,1,0,5,15,33.3,0,5,0,0,0,Augsburg,2023-05-13 Bochum-Augsburg,GER-BL1,22-23,fe49dbb7
+dc366c36,Tomáš Koubek,40,CZE,GK,30-260,90,0,0,0,0,0,0,0,0,50,0,0,0,0.0,0.0,0.0,0,0,24,46,52.2,0,30,0,0,0,Augsburg,2023-05-13 Bochum-Augsburg,GER-BL1,22-23,fe49dbb7

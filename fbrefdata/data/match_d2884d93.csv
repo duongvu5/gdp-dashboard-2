@@ -1,0 +1,29 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+20730eae,Rafael Leão,7,POR,FW,19-278,73,0,0,0,0,2,1,0,0,24,0,0,0,0.1,0.1,0.0,1,0,15,17,88.2,3,19,2,2,1,Lille,2019-03-15 Lille-Monaco,FRA-L1,18-19,d2884d93
+6ff8ef56,Rui Fonte,10,POR,FW,28-326,17,0,0,0,0,1,0,1,0,9,0,0,1,0.1,0.1,0.0,1,0,5,6,83.3,2,3,1,0,0,Lille,2019-03-15 Lille-Monaco,FRA-L1,18-19,d2884d93
+b2bd0f6c,Jonathan Bamba,14,CIV,LW,22-354,70,0,0,0,0,4,1,0,0,33,1,0,1,0.8,0.8,0.1,2,0,19,24,79.2,4,26,5,1,0,Lille,2019-03-15 Lille-Monaco,FRA-L1,18-19,d2884d93
+fa18c72e,Luiz Araújo,11,BRA,"AM,LW",22-286,20,0,0,0,0,2,0,1,0,13,0,0,0,0.1,0.1,0.0,2,0,3,6,50.0,2,10,1,2,1,Lille,2019-03-15 Lille-Monaco,FRA-L1,18-19,d2884d93
+57e3f0c7,Nicolas Pépé,19,CIV,"RW,FW",23-290,90,0,0,0,0,1,1,0,0,49,1,0,0,0.2,0.2,0.6,5,0,30,36,83.3,3,38,3,4,2,Lille,2019-03-15 Lille-Monaco,FRA-L1,18-19,d2884d93
+42eaa028,Jonathan Ikone,12,FRA,AM,20-317,90,0,0,0,0,1,0,0,0,41,0,0,0,0.1,0.1,0.6,5,0,24,30,80.0,4,32,3,6,5,Lille,2019-03-15 Lille-Monaco,FRA-L1,18-19,d2884d93
+f3600c02,Xeka,8,POR,DM,24-125,90,0,0,0,0,0,0,0,0,57,1,0,1,0.0,0.0,0.0,0,0,41,52,78.8,3,31,0,0,0,Lille,2019-03-15 Lille-Monaco,FRA-L1,18-19,d2884d93
+c6e5d20f,Thiago Mendes,23,BRA,DM,27-000,86,0,0,0,0,1,0,0,0,76,6,3,1,0.4,0.4,0.0,2,0,60,65,92.3,7,59,1,0,0,Lille,2019-03-15 Lille-Monaco,FRA-L1,18-19,d2884d93
+91e58f66,Thiago Maia,20,BRA,DM,21-357,4,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,3,3,100.0,0,1,0,0,0,Lille,2019-03-15 Lille-Monaco,FRA-L1,18-19,d2884d93
+e6eadfb8,Youssouf Koné,3,MLI,LB,23-253,90,0,0,0,0,0,0,0,0,68,3,1,1,0.0,0.0,0.1,2,0,42,58,72.4,2,34,3,0,0,Lille,2019-03-15 Lille-Monaco,FRA-L1,18-19,d2884d93
+67ac5bb8,Gabriel Magalhães,4,BRA,CB,21-086,90,0,0,0,0,0,0,0,0,82,0,1,2,0.0,0.0,0.0,0,0,63,73,86.3,7,57,3,0,0,Lille,2019-03-15 Lille-Monaco,FRA-L1,18-19,d2884d93
+90f87966,José Fonte,6,POR,CB,35-083,90,0,0,0,0,0,0,1,0,115,0,0,1,0.0,0.0,0.0,1,0,95,105,90.5,7,75,1,0,0,Lille,2019-03-15 Lille-Monaco,FRA-L1,18-19,d2884d93
+31a62dc7,Zeki Çelik,17,TUR,RB,22-026,90,0,0,0,0,0,0,0,0,55,2,1,0,0.0,0.0,0.4,2,0,36,49,73.5,7,29,1,2,1,Lille,2019-03-15 Lille-Monaco,FRA-L1,18-19,d2884d93
+fcb38f57,Mike Maignan,16,FRA,GK,23-255,90,0,0,0,0,0,0,0,0,30,0,0,0,0.0,0.0,0.0,0,0,20,23,87.0,0,17,0,0,0,Lille,2019-03-15 Lille-Monaco,FRA-L1,18-19,d2884d93
+8b529245,Carlos Vinícius,11,BRA,FW,23-355,90,1,0,0,0,1,1,0,0,25,0,0,0,0.4,0.4,0.0,3,1,5,13,38.5,0,12,0,2,2,Monaco,2019-03-15 Lille-Monaco,FRA-L1,18-19,d2884d93
+3ef0fa48,Gelson Martins,29,POR,"RW,LW",23-308,90,0,0,0,0,4,3,0,0,16,2,1,0,0.4,0.4,0.0,3,0,5,6,83.3,3,16,4,4,2,Monaco,2019-03-15 Lille-Monaco,FRA-L1,18-19,d2884d93
+7c2965bb,Rony Lopes,7,POR,"LW,RW",23-077,89,0,0,0,0,2,2,0,0,41,1,0,3,0.2,0.2,0.5,5,0,19,31,61.3,2,27,5,2,2,Monaco,2019-03-15 Lille-Monaco,FRA-L1,18-19,d2884d93
+5b54bf3b,Nacer Chadli,20,BEL,LW,29-225,1,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,0,0,0,0,Monaco,2019-03-15 Lille-Monaco,FRA-L1,18-19,d2884d93
+3708e9fa,Aleksandr Golovin,17,RUS,AM,22-289,78,0,0,0,0,1,1,0,0,25,1,0,0,0.4,0.4,0.1,2,0,18,21,85.7,2,18,3,2,1,Monaco,2019-03-15 Lille-Monaco,FRA-L1,18-19,d2884d93
+92cd4bef,William Vainqueur,12,FRA,DM,30-116,12,0,0,0,0,0,0,0,0,6,1,0,0,0.0,0.0,0.0,1,0,4,5,80.0,1,4,0,0,0,Monaco,2019-03-15 Lille-Monaco,FRA-L1,18-19,d2884d93
+48b28bfd,Jean-Eudes Aholou,4,CIV,DM,24-360,90,0,1,0,0,2,1,0,0,39,2,4,1,0.1,0.1,0.4,1,1,22,29,75.9,5,26,1,2,0,Monaco,2019-03-15 Lille-Monaco,FRA-L1,18-19,d2884d93
+d6f88a1d,Adrien Silva,15,POR,"DM,AM",30-000,90,0,0,0,0,0,0,0,0,37,1,3,0,0.0,0.0,0.0,1,0,22,30,73.3,6,18,1,3,3,Monaco,2019-03-15 Lille-Monaco,FRA-L1,18-19,d2884d93
+f449640d,Fodé Ballo-Touré,2,SEN,LB,22-071,90,0,0,0,0,0,0,0,0,64,3,2,0,0.0,0.0,0.0,0,0,33,51,64.7,0,25,1,2,1,Monaco,2019-03-15 Lille-Monaco,FRA-L1,18-19,d2884d93
+7cab69b5,Jemerson,5,BRA,CB,26-203,90,0,0,0,0,1,0,1,0,34,2,2,1,0.1,0.1,0.0,0,0,17,21,81.0,0,10,0,0,0,Monaco,2019-03-15 Lille-Monaco,FRA-L1,18-19,d2884d93
+c6056d58,Kamil Glik,25,POL,CB,31-040,90,0,0,0,0,0,0,0,0,30,1,2,1,0.0,0.0,0.0,0,0,16,18,88.9,0,12,0,0,0,Monaco,2019-03-15 Lille-Monaco,FRA-L1,18-19,d2884d93
+4c5b714f,Djibril Sidibé,19,FRA,RB,26-229,90,0,0,0,0,1,0,1,0,53,2,0,0,0.1,0.1,0.3,3,0,29,45,64.4,5,34,3,0,0,Monaco,2019-03-15 Lille-Monaco,FRA-L1,18-19,d2884d93
+f6db3bd5,Danijel Subašić,1,CRO,GK,34-139,90,0,0,0,0,0,0,0,0,31,0,0,0,0.0,0.0,0.0,0,0,13,27,48.1,0,13,0,0,0,Monaco,2019-03-15 Lille-Monaco,FRA-L1,18-19,d2884d93

@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+29ef0f49,Aaron Leya Iseka,10,BEL,FW,22-092,90,0,0,0,1,5,0,0,0,24,0,0,0,1.3,0.7,0.0,1,0,8,15,53.3,0,15,2,2,1,Toulouse,2020-02-15 Toulouse-Nice,FRA-L1,19-20,6e66b261
+90fcf472,Wesley Saïd,25,FRA,"LM,RM",24-302,78,0,0,0,0,2,1,0,0,28,0,2,0,0.1,0.1,0.1,3,0,20,23,87.0,3,24,4,0,0,Toulouse,2020-02-15 Toulouse-Nice,FRA-L1,19-20,6e66b261
+bcc81786,Kelvin Amian,2,FRA,RB,22-007,12,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,2,0,0,0,Toulouse,2020-02-15 Toulouse-Nice,FRA-L1,19-20,6e66b261
+22bfb57e,Jean-Victor Makengo,27,FRA,CM,21-248,29,0,0,0,0,2,1,0,0,15,0,0,0,0.1,0.1,0.0,1,0,10,12,83.3,1,14,1,1,1,Toulouse,2020-02-15 Toulouse-Nice,FRA-L1,19-20,6e66b261
+ea42c03f,Agustín Rogel,18,URU,CB,22-121,61,0,0,0,0,1,0,0,0,35,1,0,1,0.0,0.0,0.1,1,0,26,30,86.7,2,29,0,0,0,Toulouse,2020-02-15 Toulouse-Nice,FRA-L1,19-20,6e66b261
+92cd4bef,William Vainqueur,21,FRA,CM,31-088,90,0,0,0,0,1,0,0,0,45,2,1,2,0.0,0.0,0.0,1,0,33,39,84.6,2,31,2,5,5,Toulouse,2020-02-15 Toulouse-Nice,FRA-L1,19-20,6e66b261
+6421dd73,Mathieu Dossevi,14,TOG,RM,32-003,67,0,0,0,0,1,0,0,0,32,0,1,0,0.2,0.2,0.1,6,0,19,26,73.1,6,26,4,1,1,Toulouse,2020-02-15 Toulouse-Nice,FRA-L1,19-20,6e66b261
+c5a500ca,Max Gradel,7,CIV,"RM,LM",32-077,23,0,0,0,0,2,0,1,0,19,0,1,0,0.3,0.3,0.2,4,0,10,13,76.9,0,10,2,2,1,Toulouse,2020-02-15 Toulouse-Nice,FRA-L1,19-20,6e66b261
+bced0375,Ibrahim Sangaré,17,CIV,"DM,CM",22-075,90,0,0,0,0,2,0,1,0,69,5,5,2,0.1,0.1,0.1,6,0,44,52,84.6,11,50,0,1,0,Toulouse,2020-02-15 Toulouse-Nice,FRA-L1,19-20,6e66b261
+b99bec05,Issiaga Sylla,12,GUI,LB,26-045,90,0,0,0,0,0,0,0,0,61,4,3,0,0.0,0.0,0.3,4,0,36,47,76.6,1,35,3,5,2,Toulouse,2020-02-15 Toulouse-Nice,FRA-L1,19-20,6e66b261
+1bfb6fef,Bafodé Diakité,19,FRA,CB,19-040,90,0,0,0,0,2,2,0,0,50,5,2,1,0.2,0.2,0.0,0,0,37,39,94.9,0,32,0,1,1,Toulouse,2020-02-15 Toulouse-Nice,FRA-L1,19-20,6e66b261
+9e64fc85,Ruben Gabrielsen,4,NOR,CB,27-342,26,0,0,0,0,0,0,0,1,23,0,0,0,0.0,0.0,0.0,0,0,21,22,95.5,1,20,0,0,0,Toulouse,2020-02-15 Toulouse-Nice,FRA-L1,19-20,6e66b261
+f10983ae,Steven Moreira,5,CPV,RB,25-186,76,0,0,0,0,0,0,0,1,65,3,1,1,0.0,0.0,0.4,5,0,44,57,77.2,5,52,2,2,2,Toulouse,2020-02-15 Toulouse-Nice,FRA-L1,19-20,6e66b261
+bcf1b2e9,Baptiste Reynet,30,FRA,GK,29-110,90,0,0,0,0,0,0,0,0,42,0,0,0,0.0,0.0,0.0,1,0,29,40,72.5,0,25,0,0,0,Toulouse,2020-02-15 Toulouse-Nice,FRA-L1,19-20,6e66b261
+cc83b74d,Kasper Dolberg,9,DEN,FW,22-132,90,0,1,0,0,2,1,0,0,18,0,0,0,0.1,0.1,0.3,2,0,5,7,71.4,1,15,1,4,3,Nice,2020-02-15 Toulouse-Nice,FRA-L1,19-20,6e66b261
+54131505,Arnaud Lusamba,22,COD,FW,23-042,89,0,0,0,0,1,0,0,0,53,4,0,0,0.1,0.1,0.0,1,1,39,45,86.7,5,20,1,4,2,Nice,2020-02-15 Toulouse-Nice,FRA-L1,19-20,6e66b261
+808df563,Moussa Wagué,6,SEN,RB,21-134,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,1,0,0,0,Nice,2020-02-15 Toulouse-Nice,FRA-L1,19-20,6e66b261
+741418c3,Alexis Claude-Maurice,18,FRA,LM,21-254,58,0,0,0,0,1,0,0,0,33,2,0,1,0.0,0.0,0.1,2,0,15,18,83.3,0,24,3,2,1,Nice,2020-02-15 Toulouse-Nice,FRA-L1,19-20,6e66b261
+23c63b7f,Ignatius Ganago,14,CMR,LM,20-364,32,0,0,0,0,0,0,0,0,20,1,1,1,0.0,0.0,0.0,2,0,10,15,66.7,2,11,2,3,1,Nice,2020-02-15 Toulouse-Nice,FRA-L1,19-20,6e66b261
+7d9397f8,Khéphren Thuram,19,FRA,CM,18-326,90,0,0,0,0,1,0,0,0,78,3,1,1,0.1,0.1,0.0,3,0,66,72,91.7,3,40,0,1,1,Nice,2020-02-15 Toulouse-Nice,FRA-L1,19-20,6e66b261
+f5044e54,Pierre Lees-Melou,8,FRA,CM,26-266,90,1,0,0,0,5,1,0,0,72,2,3,1,0.6,0.6,0.1,2,0,47,55,85.5,8,32,1,1,0,Nice,2020-02-15 Toulouse-Nice,FRA-L1,19-20,6e66b261
+ed90babd,Adam Ounas,10,ALG,RM,23-096,78,0,1,0,0,0,0,0,0,44,0,1,0,0.0,0.0,0.4,3,1,30,36,83.3,5,20,3,5,3,Nice,2020-02-15 Toulouse-Nice,FRA-L1,19-20,6e66b261
+706a60e1,Myziane Maolida,7,COM,RM,21-001,12,0,0,0,0,1,1,0,0,11,0,0,0,0.1,0.1,0.0,1,0,6,10,60.0,0,6,3,0,0,Nice,2020-02-15 Toulouse-Nice,FRA-L1,19-20,6e66b261
+61590953,Stanley N'Soki,2,FRA,LB,20-312,90,0,0,0,0,0,0,0,0,87,0,1,1,0.0,0.0,0.0,1,0,76,77,98.7,7,39,2,0,0,Nice,2020-02-15 Toulouse-Nice,FRA-L1,19-20,6e66b261
+4315f30d,Malang Sarr,23,FRA,CB,21-023,90,0,0,0,0,1,0,0,0,120,0,0,1,0.0,0.0,0.0,1,0,103,111,92.8,9,68,1,0,0,Nice,2020-02-15 Toulouse-Nice,FRA-L1,19-20,6e66b261
+0557ff4f,Danilo Barbosa,21,BRA,CB,23-352,90,0,0,0,0,1,0,0,0,120,2,2,1,0.1,0.1,0.1,5,1,105,110,95.5,7,72,1,0,0,Nice,2020-02-15 Toulouse-Nice,FRA-L1,19-20,6e66b261
+3681cfff,Christophe Hérelle,29,MTQ,RB,27-177,90,1,0,0,0,1,1,0,0,97,1,0,4,0.3,0.3,0.0,1,1,77,83,92.8,11,38,1,2,0,Nice,2020-02-15 Toulouse-Nice,FRA-L1,19-20,6e66b261
+8a2248b4,Walter Benítez,40,ARG,GK,27-027,90,0,0,0,0,0,0,0,0,33,0,0,0,0.0,0.0,0.0,0,0,27,30,90.0,0,16,0,0,0,Nice,2020-02-15 Toulouse-Nice,FRA-L1,19-20,6e66b261

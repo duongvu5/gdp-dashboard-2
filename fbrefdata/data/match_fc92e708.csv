@@ -1,0 +1,29 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+3bb7f478,Edin Džeko,9,BIH,FW,33-056,90,1,1,0,0,2,1,1,0,31,1,0,0,0.6,0.6,0.5,4,1,11,22,50.0,4,17,0,0,0,Roma,2019-05-12 Roma-Juventus,ITA-SERIA_A,18-19,fc92e708
+d3aaad90,Stephan El Shaarawy,92,ITA,LW,26-197,90,0,0,0,0,4,1,0,0,47,0,3,0,0.2,0.2,0.3,5,0,29,37,78.4,7,27,5,2,2,Roma,2019-05-12 Roma-Juventus,ITA-SERIA_A,18-19,fc92e708
+4c3a6744,Justin Kluivert,34,NED,RW,20-007,77,0,0,0,0,1,0,0,0,32,2,1,0,0.1,0.1,0.1,2,0,16,22,72.7,0,23,1,2,0,Roma,2019-05-12 Roma-Juventus,ITA-SERIA_A,18-19,fc92e708
+1880614f,Cengiz Ünder,17,TUR,RW,21-302,13,0,1,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.4,1,1,4,9,44.4,3,5,2,0,0,Roma,2019-05-12 Roma-Juventus,ITA-SERIA_A,18-19,fc92e708
+9907b1c8,Nicolò Zaniolo,22,ITA,LM,19-314,90,0,0,0,0,0,0,1,0,41,1,1,0,0.0,0.0,0.1,2,0,30,35,85.7,1,25,1,0,0,Roma,2019-05-12 Roma-Juventus,ITA-SERIA_A,18-19,fc92e708
+c7526c18,Steven Nzonzi,42,FRA,CM,30-148,90,0,0,0,0,0,0,0,0,55,4,2,2,0.0,0.0,0.0,2,0,44,48,91.7,5,25,1,1,1,Roma,2019-05-12 Roma-Juventus,ITA-SERIA_A,18-19,fc92e708
+4a5a45c7,Lorenzo Pellegrini,7,ITA,RM,22-327,66,0,0,0,0,2,0,0,0,35,1,0,1,0.1,0.1,0.0,1,0,18,27,66.7,4,13,2,1,0,Roma,2019-05-12 Roma-Juventus,ITA-SERIA_A,18-19,fc92e708
+16657b95,Bryan Cristante,4,ITA,RM,24-070,24,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,6,8,75.0,1,4,0,0,0,Roma,2019-05-12 Roma-Juventus,ITA-SERIA_A,18-19,fc92e708
+eda40760,Aleksandar Kolarov,11,SRB,LB,33-183,90,0,0,0,0,0,0,1,0,63,0,1,0,0.0,0.0,0.0,2,0,41,56,73.2,3,40,3,2,2,Roma,2019-05-12 Roma-Juventus,ITA-SERIA_A,18-19,fc92e708
+4e358a2d,Federico Fazio,20,ARG,CB,32-056,90,0,0,0,0,0,0,0,0,49,1,1,2,0.0,0.0,0.0,1,0,35,38,92.1,2,22,1,3,2,Roma,2019-05-12 Roma-Juventus,ITA-SERIA_A,18-19,fc92e708
+c707411f,Kostas Manolas,44,GRE,CB,27-332,90,0,0,0,0,0,0,0,0,27,0,0,0,0.0,0.0,0.0,0,0,20,23,87.0,1,13,0,0,0,Roma,2019-05-12 Roma-Juventus,ITA-SERIA_A,18-19,fc92e708
+e288d4b3,Alessandro Florenzi,24,ITA,RB,28-062,90,1,0,0,0,4,1,0,0,71,3,2,0,0.4,0.4,0.0,3,1,38,58,65.5,3,26,2,1,1,Roma,2019-05-12 Roma-Juventus,ITA-SERIA_A,18-19,fc92e708
+30223b33,Antonio Mirante,83,ITA,GK,35-308,90,0,0,0,0,0,0,0,0,33,0,0,0,0.0,0.0,0.0,0,0,20,29,69.0,0,13,0,0,0,Roma,2019-05-12 Roma-Juventus,ITA-SERIA_A,18-19,fc92e708
+dea698d9,Cristiano Ronaldo,7,POR,FW,34-096,90,0,0,0,0,1,0,0,0,57,1,2,0,0.0,0.0,0.4,4,0,41,49,83.7,5,40,3,3,3,Juventus,2019-05-12 Roma-Juventus,ITA-SERIA_A,18-19,fc92e708
+e0921a4f,Paulo Dybala,10,ARG,FW,25-178,90,0,0,0,0,3,2,0,0,71,2,0,1,0.4,0.4,0.1,1,0,44,55,80.0,4,46,4,1,0,Juventus,2019-05-12 Roma-Juventus,ITA-SERIA_A,18-19,fc92e708
+c0cddebe,Blaise Matuidi,14,FRA,LM,32-033,83,0,0,0,0,0,0,0,0,64,4,0,0,0.0,0.0,0.0,3,0,46,53,86.8,3,42,0,0,0,Juventus,2019-05-12 Roma-Juventus,ITA-SERIA_A,18-19,fc92e708
+0d82903c,Alex Sandro,12,BRA,LM,28-106,7,0,0,0,0,0,0,0,0,5,0,1,0,0.0,0.0,0.0,0,0,3,3,100.0,0,3,0,0,0,Juventus,2019-05-12 Roma-Juventus,ITA-SERIA_A,18-19,fc92e708
+ad6df2d5,Miralem Pjanić,5,BIH,CM,29-040,70,0,0,0,0,0,0,0,0,105,0,1,0,0.0,0.0,0.1,1,0,88,100,88.0,12,74,1,0,0,Juventus,2019-05-12 Roma-Juventus,ITA-SERIA_A,18-19,fc92e708
+3b8674e6,Rodrigo Bentancur,30,URU,CM,21-321,20,0,0,0,0,0,0,0,0,19,0,0,0,0.0,0.0,0.0,0,0,13,17,76.5,5,11,2,0,0,Juventus,2019-05-12 Roma-Juventus,ITA-SERIA_A,18-19,fc92e708
+a65ce836,Emre Can,23,GER,CM,25-120,90,0,0,0,0,1,1,1,0,62,1,2,2,0.1,0.1,0.4,1,0,46,50,92.0,4,44,4,1,0,Juventus,2019-05-12 Roma-Juventus,ITA-SERIA_A,18-19,fc92e708
+0ab1f153,Juan Cuadrado,16,COL,RM,30-351,90,0,0,0,0,1,1,0,0,51,0,1,1,0.4,0.4,0.0,2,0,39,43,90.7,6,34,3,1,1,Juventus,2019-05-12 Roma-Juventus,ITA-SERIA_A,18-19,fc92e708
+3626daea,Leonardo Spinazzola,37,ITA,LB,26-048,90,0,0,0,0,1,0,0,0,55,3,1,1,0.1,0.1,0.0,0,0,33,41,80.5,2,33,8,2,2,Juventus,2019-05-12 Roma-Juventus,ITA-SERIA_A,18-19,fc92e708
+e85fb9b8,Giorgio Chiellini,3,ITA,CB,34-271,90,0,0,0,0,0,0,0,0,122,2,0,1,0.0,0.0,0.0,1,0,97,113,85.8,11,85,1,1,1,Juventus,2019-05-12 Roma-Juventus,ITA-SERIA_A,18-19,fc92e708
+e94d79e3,Martín Cáceres,4,URU,CB,32-035,90,0,0,0,0,0,0,0,0,80,0,1,1,0.0,0.0,0.0,0,0,68,72,94.4,1,54,0,0,0,Juventus,2019-05-12 Roma-Juventus,ITA-SERIA_A,18-19,fc92e708
+ae4e2852,Mattia De Sciglio,2,ITA,RB,26-204,84,0,0,0,0,0,0,0,0,70,1,1,0,0.0,0.0,0.0,1,0,56,63,88.9,5,39,2,0,0,Juventus,2019-05-12 Roma-Juventus,ITA-SERIA_A,18-19,fc92e708
+bd6351cd,João Cancelo,20,POR,RB,24-350,6,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,3,5,60.0,0,4,0,0,0,Juventus,2019-05-12 Roma-Juventus,ITA-SERIA_A,18-19,fc92e708
+01b8a2b2,Wojciech Szczęsny,1,POL,GK,29-024,90,0,0,0,0,0,0,0,0,33,0,0,0,0.0,0.0,0.0,0,0,28,32,87.5,0,17,0,0,0,Juventus,2019-05-12 Roma-Juventus,ITA-SERIA_A,18-19,fc92e708

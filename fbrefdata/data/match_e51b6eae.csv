@@ -1,0 +1,29 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+d3de9af0,Duván Zapata,91,COL,FW,27-006,90,0,0,0,0,1,0,0,0,40,1,0,0,0.1,0.1,0.0,3,0,14,22,63.6,0,28,2,3,1,Sampdoria,2018-04-07 Sampdoria-Genoa,ITA-SERIA_A,17-18,e51b6eae
+ee4f2f3b,Fabio Quagliarella,27,ITA,FW,35-066,90,0,0,0,0,3,2,0,0,34,0,0,3,0.1,0.1,0.2,5,0,16,22,72.7,1,20,1,2,1,Sampdoria,2018-04-07 Sampdoria-Genoa,ITA-SERIA_A,17-18,e51b6eae
+54e53b7e,Gianluca Caprari,17,ITA,AM,24-251,80,0,0,0,0,6,1,0,0,51,1,0,1,0.3,0.3,0.0,9,0,30,37,81.1,3,34,3,4,2,Sampdoria,2018-04-07 Sampdoria-Genoa,ITA-SERIA_A,17-18,e51b6eae
+2c851997,Gastón Ramírez,11,URU,AM,27-126,10,0,0,0,0,0,0,0,0,9,1,0,0,0.0,0.0,0.0,1,0,5,6,83.3,1,6,0,1,0,Sampdoria,2018-04-07 Sampdoria-Genoa,ITA-SERIA_A,17-18,e51b6eae
+d023d70f,Karol Linetty,16,POL,LM,23-064,90,0,0,0,0,4,1,0,0,59,2,1,0,0.2,0.2,0.0,5,0,35,46,76.1,5,29,3,3,3,Sampdoria,2018-04-07 Sampdoria-Genoa,ITA-SERIA_A,17-18,e51b6eae
+52611641,Lucas Torreira,34,URU,CM,22-055,90,0,0,0,0,3,0,0,0,69,3,2,2,0.1,0.1,0.0,1,0,48,58,82.8,7,32,2,0,0,Sampdoria,2018-04-07 Sampdoria-Genoa,ITA-SERIA_A,17-18,e51b6eae
+86695068,Dennis Praet,10,BEL,RM,23-328,90,0,0,0,0,1,0,0,0,58,2,1,0,0.0,0.0,0.0,3,0,37,45,82.2,3,37,1,4,2,Sampdoria,2018-04-07 Sampdoria-Genoa,ITA-SERIA_A,17-18,e51b6eae
+d183e9d6,Nicola Murru,29,ITA,LB,23-112,10,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,5,7,71.4,0,4,0,0,0,Sampdoria,2018-04-07 Sampdoria-Genoa,ITA-SERIA_A,17-18,e51b6eae
+339c6ed4,Vasco Regini,19,ITA,LB,27-210,80,0,0,0,0,0,0,0,0,74,0,0,1,0.0,0.0,0.0,1,0,48,64,75.0,5,32,3,0,0,Sampdoria,2018-04-07 Sampdoria-Genoa,ITA-SERIA_A,17-18,e51b6eae
+8650af85,Gian Marco Ferrari,13,ITA,CB,26-051,90,0,0,0,0,0,0,0,0,101,0,0,1,0.0,0.0,0.0,0,0,85,90,94.4,7,70,3,0,0,Sampdoria,2018-04-07 Sampdoria-Genoa,ITA-SERIA_A,17-18,e51b6eae
+b6ca47a2,Matías Silvestre,26,ARG,CB,33-194,90,0,0,0,0,0,0,0,0,108,0,0,2,0.0,0.0,0.0,0,0,91,102,89.2,3,74,0,0,0,Sampdoria,2018-04-07 Sampdoria-Genoa,ITA-SERIA_A,17-18,e51b6eae
+61b3978f,Bartosz Bereszyński,24,POL,RB,25-269,51,0,0,0,0,0,0,1,0,38,1,1,0,0.0,0.0,0.0,2,0,29,34,85.3,5,23,2,0,0,Sampdoria,2018-04-07 Sampdoria-Genoa,ITA-SERIA_A,17-18,e51b6eae
+da5a981b,Jacopo Sala,7,ITA,RB,26-123,39,0,0,0,0,0,0,0,0,49,0,0,0,0.0,0.0,0.1,1,0,40,46,87.0,4,35,4,0,0,Sampdoria,2018-04-07 Sampdoria-Genoa,ITA-SERIA_A,17-18,e51b6eae
+03760df0,Emiliano Viviano,2,ITA,GK,32-127,90,0,0,0,0,0,0,0,0,29,0,0,0,0.0,0.0,0.0,0,0,27,29,93.1,0,17,0,0,0,Sampdoria,2018-04-07 Sampdoria-Genoa,ITA-SERIA_A,17-18,e51b6eae
+2ead2809,Gianluca Lapadula,10,PER,FW,28-059,87,0,0,0,0,1,0,0,0,19,0,0,0,0.1,0.1,0.0,1,0,6,13,46.2,0,12,0,0,0,Genoa,2018-04-07 Sampdoria-Genoa,ITA-SERIA_A,17-18,e51b6eae
+0a1efd3c,Andrey Galabinov,16,BUL,FW,29-131,3,0,0,0,0,1,0,0,0,4,0,0,0,0.1,0.1,0.0,0,0,2,2,100.0,0,2,0,1,1,Genoa,2018-04-07 Sampdoria-Genoa,ITA-SERIA_A,17-18,e51b6eae
+d711d04f,Goran Pandev,19,MKD,FW,34-254,60,0,0,0,0,2,0,1,0,19,0,0,0,0.1,0.1,0.1,1,0,7,11,63.6,3,13,0,0,0,Genoa,2018-04-07 Sampdoria-Genoa,ITA-SERIA_A,17-18,e51b6eae
+c6dda86e,Isaac Cofie,4,GHA,DM,26-199,30,0,0,0,0,1,0,0,0,14,1,0,1,0.0,0.0,0.0,0,0,5,8,62.5,0,8,0,0,0,Genoa,2018-04-07 Sampdoria-Genoa,ITA-SERIA_A,17-18,e51b6eae
+4dba2a97,Luca Rigoni,30,ITA,DM,33-121,90,0,0,0,0,1,1,1,0,48,4,0,0,0.0,0.0,0.0,4,0,32,37,86.5,3,25,1,2,2,Genoa,2018-04-07 Sampdoria-Genoa,ITA-SERIA_A,17-18,e51b6eae
+c75b6a02,Andrea Bertolacci,8,ITA,"DM,FW",27-086,90,0,0,0,0,0,0,0,0,52,4,1,5,0.0,0.0,0.0,0,0,25,35,71.4,7,32,2,1,0,Genoa,2018-04-07 Sampdoria-Genoa,ITA-SERIA_A,17-18,e51b6eae
+98e958af,Oscar Hiljemark,88,SWE,DM,25-283,90,0,0,0,0,1,1,0,0,42,0,1,0,0.0,0.0,0.0,4,0,30,38,78.9,2,21,2,1,1,Genoa,2018-04-07 Sampdoria-Genoa,ITA-SERIA_A,17-18,e51b6eae
+f26e3c59,Diego Laxalt,93,URU,WB,25-059,90,0,0,0,0,0,0,0,0,50,4,0,1,0.0,0.0,0.0,0,0,29,41,70.7,0,26,2,3,1,Genoa,2018-04-07 Sampdoria-Genoa,ITA-SERIA_A,17-18,e51b6eae
+c77be0cf,Pedro Pereira,32,POR,WB,20-075,90,0,0,0,0,0,0,0,0,45,1,1,2,0.0,0.0,0.0,3,0,25,36,69.4,1,19,3,1,1,Genoa,2018-04-07 Sampdoria-Genoa,ITA-SERIA_A,17-18,e51b6eae
+1253a12e,Ervin Zukanović,87,BIH,CB,31-055,90,0,0,0,0,0,0,0,0,60,4,2,2,0.0,0.0,0.0,0,0,33,43,76.7,4,26,2,0,0,Genoa,2018-04-07 Sampdoria-Genoa,ITA-SERIA_A,17-18,e51b6eae
+9a560ebe,Nicolás Spolli,2,ARG,CB,35-046,90,0,0,0,0,0,0,0,0,31,3,2,1,0.0,0.0,0.0,0,0,12,17,70.6,0,10,0,0,0,Genoa,2018-04-07 Sampdoria-Genoa,ITA-SERIA_A,17-18,e51b6eae
+64cd167d,Davide Biraschi,14,ITA,CB,23-279,90,0,0,0,0,0,0,0,0,49,2,3,4,0.0,0.0,0.0,0,0,15,30,50.0,3,25,1,0,0,Genoa,2018-04-07 Sampdoria-Genoa,ITA-SERIA_A,17-18,e51b6eae
+4c62d0c8,Mattia Perin,1,ITA,GK,25-148,90,0,0,0,0,0,0,0,0,39,0,0,0,0.0,0.0,0.0,0,0,17,36,47.2,0,21,0,0,0,Genoa,2018-04-07 Sampdoria-Genoa,ITA-SERIA_A,17-18,e51b6eae

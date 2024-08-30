@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+23c63b7f,Ignatius Ganago,27,CMR,FW,21-216,74,1,0,0,0,4,2,0,0,28,0,1,1,1.1,1.1,0.5,7,3,13,16,81.3,1,15,3,4,4,Lens,2020-09-19 Lens-Bordeaux,FRA-L1,20-21,87a237ad
+7d9b37bf,Corentin Jean,25,FRA,FW,25-066,16,0,0,0,0,1,1,1,0,2,0,0,0,0.0,0.0,0.0,1,0,1,1,100.0,0,1,0,0,0,Lens,2020-09-19 Lens-Bordeaux,FRA-L1,20-21,87a237ad
+7a42d0df,Florian Sotoca,7,FRA,FW,29-330,73,0,0,0,0,4,1,0,0,38,2,0,0,0.3,0.3,0.0,3,0,22,29,75.9,3,17,1,2,0,Lens,2020-09-19 Lens-Bordeaux,FRA-L1,20-21,87a237ad
+be47b750,Simon Banza,23,COD,FW,24-037,17,0,0,0,0,0,0,0,0,8,0,0,2,0.0,0.0,0.0,0,0,5,6,83.3,0,1,0,0,0,Lens,2020-09-19 Lens-Bordeaux,FRA-L1,20-21,87a237ad
+5b1bf5e3,Gaël Kakuta,10,COD,AM,29-090,86,1,0,1,1,2,0,0,0,69,2,1,0,1.1,0.3,1.0,10,0,38,59,64.4,3,27,5,3,3,Lens,2020-09-19 Lens-Bordeaux,FRA-L1,20-21,87a237ad
+96e5168e,Tony Mauricio,22,FRA,AM,26-181,4,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,0,0,9,10,90.0,0,3,0,0,0,Lens,2020-09-19 Lens-Bordeaux,FRA-L1,20-21,87a237ad
+ce4f40c7,Cheick Doucouré,28,MLI,CM,20-255,62,0,0,0,0,2,0,1,0,35,1,3,1,0.0,0.0,0.0,3,0,25,28,89.3,4,24,4,3,3,Lens,2020-09-19 Lens-Bordeaux,FRA-L1,20-21,87a237ad
+5313ed43,Seko Fofana,8,CIV,CM,25-135,28,0,0,0,0,0,0,0,0,49,0,0,0,0.0,0.0,0.1,1,0,46,47,97.9,1,20,0,1,1,Lens,2020-09-19 Lens-Bordeaux,FRA-L1,20-21,87a237ad
+677ee102,Yannick Cahuzac,18,FRA,CM,35-245,90,0,0,0,0,0,0,0,0,51,1,1,3,0.0,0.0,0.1,2,0,40,46,87.0,4,19,2,0,0,Lens,2020-09-19 Lens-Bordeaux,FRA-L1,20-21,87a237ad
+b99bec05,Issiaga Sylla,3,GUI,WB,26-262,90,0,0,0,0,2,0,0,0,55,2,1,0,0.4,0.4,0.0,2,0,42,49,85.7,3,27,1,0,0,Lens,2020-09-19 Lens-Bordeaux,FRA-L1,20-21,87a237ad
+5219ab4a,Jonathan Clauss,11,FRA,WB,27-360,74,0,0,0,0,1,0,0,0,38,3,0,0,0.0,0.0,0.0,1,1,19,30,63.3,2,10,3,0,0,Lens,2020-09-19 Lens-Bordeaux,FRA-L1,20-21,87a237ad
+62e02107,Ismaëlben Boura,33,COM,WB,20-036,16,0,0,0,0,0,0,0,0,11,0,2,0,0.0,0.0,0.0,1,0,7,10,70.0,2,6,1,0,0,Lens,2020-09-19 Lens-Bordeaux,FRA-L1,20-21,87a237ad
+6f5ec8bb,Facundo Medina,14,ARG,CB,21-114,90,0,0,0,0,1,0,1,0,102,1,2,0,0.1,0.1,0.0,2,0,89,97,91.8,6,44,0,0,0,Lens,2020-09-19 Lens-Bordeaux,FRA-L1,20-21,87a237ad
+574aa9ec,Steven Fortes,15,CPV,CB,28-155,90,0,0,0,0,1,0,1,0,78,1,2,0,0.1,0.1,0.0,2,0,62,70,88.6,2,37,0,0,0,Lens,2020-09-19 Lens-Bordeaux,FRA-L1,20-21,87a237ad
+06c48679,Jonathan Gradit,24,FRA,CB,27-300,90,0,0,0,0,0,0,1,0,65,1,0,1,0.0,0.0,0.0,0,0,51,56,91.1,2,32,1,1,0,Lens,2020-09-19 Lens-Bordeaux,FRA-L1,20-21,87a237ad
+edbe46dc,Jean-Louis Leca,16,FRA,GK,34-364,90,0,0,0,0,0,0,0,0,38,0,0,0,0.0,0.0,0.0,0,0,20,37,54.1,0,16,0,0,0,Lens,2020-09-19 Lens-Bordeaux,FRA-L1,20-21,87a237ad
+a2d873dd,Hwang Ui-jo,18,KOR,"FW,RM",28-022,80,0,0,0,0,0,0,0,0,17,2,0,0,0.0,0.0,0.0,1,0,9,12,75.0,0,11,0,2,1,Bordeaux,2020-09-19 Lens-Bordeaux,FRA-L1,20-21,87a237ad
+2306bfde,Rubén Pardo,8,ESP,RM,27-333,10,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,3,3,100.0,1,2,0,0,0,Bordeaux,2020-09-19 Lens-Bordeaux,FRA-L1,20-21,87a237ad
+ea02beaf,Remi Oudin,28,FRA,"LW,LM",23-306,80,0,0,0,0,2,1,0,0,28,0,2,0,0.2,0.2,0.1,3,0,18,21,85.7,1,16,0,0,0,Bordeaux,2020-09-19 Lens-Bordeaux,FRA-L1,20-21,87a237ad
+b8d22478,Samuel Kalu,10,NGA,LM,23-024,10,1,0,0,0,1,1,0,0,6,0,1,0,0.1,0.1,0.0,0,0,2,3,66.7,0,4,0,0,0,Bordeaux,2020-09-19 Lens-Bordeaux,FRA-L1,20-21,87a237ad
+f83c8d6c,Jimmy Briand,7,FRA,RW,35-048,59,0,0,0,0,0,0,0,0,21,2,0,0,0.0,0.0,0.0,0,0,9,15,60.0,0,10,0,0,0,Bordeaux,2020-09-19 Lens-Bordeaux,FRA-L1,20-21,87a237ad
+29d8ad3f,Pablo,3,BRA,CB,29-090,31,0,0,0,0,0,0,0,0,20,1,0,0,0.0,0.0,0.0,0,0,13,15,86.7,0,7,0,0,0,Bordeaux,2020-09-19 Lens-Bordeaux,FRA-L1,20-21,87a237ad
+b0547a87,Nicolas de Préville,12,FRA,"AM,FW",29-255,80,0,0,0,0,1,0,0,0,44,2,1,2,0.0,0.0,0.0,3,0,24,34,70.6,3,22,1,6,5,Bordeaux,2020-09-19 Lens-Bordeaux,FRA-L1,20-21,87a237ad
+bc0bfc64,Josh Maja,9,NGA,FW,21-267,10,0,0,0,0,1,0,1,0,3,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,2,0,0,0,Bordeaux,2020-09-19 Lens-Bordeaux,FRA-L1,20-21,87a237ad
+243f4a0b,Otávio,5,BRA,"DM,CM",26-138,90,0,0,0,0,1,1,1,0,58,0,0,3,0.0,0.0,0.0,0,0,40,49,81.6,1,25,0,0,0,Bordeaux,2020-09-19 Lens-Bordeaux,FRA-L1,20-21,87a237ad
+80556f08,Toma Bašić,26,CRO,DM,23-299,25,0,0,0,0,0,0,0,0,10,1,1,0,0.0,0.0,0.0,0,0,4,5,80.0,0,6,0,0,0,Bordeaux,2020-09-19 Lens-Bordeaux,FRA-L1,20-21,87a237ad
+26777636,Yacine Adli,19,FRA,"CM,DM",20-052,65,0,1,0,0,0,0,0,0,42,1,1,2,0.0,0.0,0.1,3,1,31,35,88.6,3,27,1,3,2,Bordeaux,2020-09-19 Lens-Bordeaux,FRA-L1,20-21,87a237ad
+f5b6fb78,Loris Benito,23,SUI,LB,28-256,90,0,0,0,0,0,0,1,0,71,3,3,2,0.0,0.0,0.1,1,0,46,59,78.0,1,31,1,0,0,Bordeaux,2020-09-19 Lens-Bordeaux,FRA-L1,20-21,87a237ad
+f5efb153,Laurent Koscielny,6,FRA,CB,35-009,90,0,0,0,0,1,0,0,0,72,2,6,5,0.1,0.1,0.0,0,0,48,53,90.6,1,34,0,0,0,Bordeaux,2020-09-19 Lens-Bordeaux,FRA-L1,20-21,87a237ad
+2515040a,Paul Baysse,24,FRA,CB,32-124,57,0,0,0,0,0,0,2,1,47,1,1,0,0.0,0.0,0.0,0,0,32,41,78.0,1,28,2,0,0,Bordeaux,2020-09-19 Lens-Bordeaux,FRA-L1,20-21,87a237ad
+fbbb9269,Youssouf Sabaly,20,SEN,RB,27-198,90,0,0,0,0,0,0,0,0,36,0,1,0,0.0,0.0,0.1,2,1,23,30,76.7,1,18,1,1,1,Bordeaux,2020-09-19 Lens-Bordeaux,FRA-L1,20-21,87a237ad
+2434f24a,Benoît Costil,1,FRA,GK,33-078,90,0,0,0,0,0,0,0,0,37,0,0,0,0.0,0.0,0.0,0,0,22,32,68.8,0,12,0,0,0,Bordeaux,2020-09-19 Lens-Bordeaux,FRA-L1,20-21,87a237ad

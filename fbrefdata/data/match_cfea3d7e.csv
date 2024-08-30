@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+eb2fe5b6,Luis Muriel,29,COL,FW,27-363,86,0,0,0,0,2,1,1,0,38,0,0,0,0.2,0.2,0.1,4,0,17,27,63.0,8,19,0,2,0,Fiorentina,2019-04-14 Fiorentina-Bologna,ITA-SERIA_A,18-19,cfea3d7e
+79443529,Dušan Vlahović,28,SRB,FW,19-076,4,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Fiorentina,2019-04-14 Fiorentina-Bologna,ITA-SERIA_A,18-19,cfea3d7e
+343c0d52,Giovanni Simeone,9,ARG,FW,23-283,55,0,0,0,0,2,1,0,0,22,2,0,1,0.2,0.2,0.0,0,0,4,10,40.0,0,7,1,1,0,Fiorentina,2019-04-14 Fiorentina-Bologna,ITA-SERIA_A,18-19,cfea3d7e
+aa51343f,Kevin Mirallas,11,BEL,RW,31-191,35,0,0,0,0,2,1,0,0,15,1,0,0,0.1,0.1,0.0,2,0,4,8,50.0,0,12,3,3,2,Fiorentina,2019-04-14 Fiorentina-Bologna,ITA-SERIA_A,18-19,cfea3d7e
+9e1577aa,Cristiano Biraghi,3,ITA,"LW,LB",26-225,90,0,0,0,0,0,0,0,0,81,1,1,0,0.0,0.0,0.2,5,0,52,75,69.3,5,32,1,2,2,Fiorentina,2019-04-14 Fiorentina-Bologna,ITA-SERIA_A,18-19,cfea3d7e
+b0f7e36c,Federico Chiesa,25,ITA,"RW,FW,LW",21-171,90,0,0,0,0,5,2,0,0,46,2,1,2,0.2,0.2,0.0,1,0,20,31,64.5,2,21,5,0,0,Fiorentina,2019-04-14 Fiorentina-Bologna,ITA-SERIA_A,18-19,cfea3d7e
+8827bf46,Gerson,8,BRA,CM,21-329,76,0,0,0,0,0,0,0,0,49,2,0,1,0.0,0.0,0.1,3,0,36,41,87.8,7,22,0,0,0,Fiorentina,2019-04-14 Fiorentina-Bologna,ITA-SERIA_A,18-19,cfea3d7e
+0000acda,Marco Benassi,24,ITA,LM,24-218,14,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,4,5,80.0,2,2,0,0,0,Fiorentina,2019-04-14 Fiorentina-Bologna,ITA-SERIA_A,18-19,cfea3d7e
+c53083ad,Bryan Dabo,14,BFA,"CM,RM",27-055,90,0,0,0,0,1,1,0,0,65,3,0,1,0.0,0.0,0.0,1,0,47,55,85.5,7,25,3,2,1,Fiorentina,2019-04-14 Fiorentina-Bologna,ITA-SERIA_A,18-19,cfea3d7e
+4a56052c,Jordan Veretout,17,FRA,"DM,CM",26-044,90,0,0,0,0,1,0,1,0,78,1,0,1,0.0,0.0,0.1,2,0,46,72,63.9,10,44,2,2,1,Fiorentina,2019-04-14 Fiorentina-Bologna,ITA-SERIA_A,18-19,cfea3d7e
+d9624b51,Federico Ceccherini,5,ITA,CB,26-338,90,0,0,0,0,0,0,0,0,71,0,1,0,0.0,0.0,0.2,3,0,58,69,84.1,7,49,0,1,1,Fiorentina,2019-04-14 Fiorentina-Bologna,ITA-SERIA_A,18-19,cfea3d7e
+8c725b43,Germán Pezzella,20,ARG,CB,27-291,90,0,0,0,0,1,0,0,0,71,2,1,1,0.0,0.0,0.0,1,0,51,57,89.5,6,41,0,0,0,Fiorentina,2019-04-14 Fiorentina-Bologna,ITA-SERIA_A,18-19,cfea3d7e
+bee704fc,Nikola Milenković,4,SRB,"CB,RB",21-184,90,0,0,0,0,1,0,0,0,66,1,0,0,0.1,0.1,0.0,0,0,44,60,73.3,1,19,1,1,1,Fiorentina,2019-04-14 Fiorentina-Bologna,ITA-SERIA_A,18-19,cfea3d7e
+4e7db402,Alban Lafont,1,FRA,GK,20-081,90,0,0,0,0,0,0,0,0,30,0,0,0,0.0,0.0,0.0,1,0,19,28,67.9,0,13,0,1,1,Fiorentina,2019-04-14 Fiorentina-Bologna,ITA-SERIA_A,18-19,cfea3d7e
+8d8178ac,Rodrigo Palacio,24,ARG,FW,37-068,80,0,0,0,0,0,0,1,0,35,1,0,1,0.0,0.0,0.0,1,0,15,25,60.0,0,25,1,2,1,Bologna,2019-04-14 Fiorentina-Bologna,ITA-SERIA_A,18-19,cfea3d7e
+df85d472,Federico Santander,9,PAR,FW,27-314,10,0,0,0,0,0,0,1,0,6,1,0,1,0.0,0.0,0.1,1,0,1,1,100.0,1,0,0,0,0,Bologna,2019-04-14 Fiorentina-Bologna,ITA-SERIA_A,18-19,cfea3d7e
+7eb97a8e,Nicola Sansone,10,ITA,LW,27-216,90,0,0,0,0,0,0,0,0,31,3,0,1,0.0,0.0,0.0,1,0,13,20,65.0,1,22,1,2,1,Bologna,2019-04-14 Fiorentina-Bologna,ITA-SERIA_A,18-19,cfea3d7e
+e14ec482,Riccardo Orsolini,7,ITA,RW,22-080,90,0,0,0,0,2,1,0,0,55,2,2,2,0.1,0.1,0.0,3,0,23,39,59.0,4,44,4,5,4,Bologna,2019-04-14 Fiorentina-Bologna,ITA-SERIA_A,18-19,cfea3d7e
+9d4c45d6,Roberto Soriano,21,ITA,AM,28-065,90,0,0,0,0,0,0,0,0,40,0,0,0,0.0,0.0,0.0,0,0,32,38,84.2,3,36,0,2,2,Bologna,2019-04-14 Fiorentina-Bologna,ITA-SERIA_A,18-19,cfea3d7e
+b3fd7075,Andrea Poli,16,ITA,DM,29-197,77,0,0,0,0,1,0,0,0,33,2,3,3,0.0,0.0,0.0,0,0,16,21,76.2,1,19,0,0,0,Bologna,2019-04-14 Fiorentina-Bologna,ITA-SERIA_A,18-19,cfea3d7e
+384dd218,Godfred Donsah,17,GHA,DM,22-311,13,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,4,4,100.0,1,4,0,0,0,Bologna,2019-04-14 Fiorentina-Bologna,ITA-SERIA_A,18-19,cfea3d7e
+4611e028,Erick Pulgar,5,CHI,DM,25-089,71,0,0,0,0,0,0,0,0,45,1,1,2,0.0,0.0,0.0,0,0,20,32,62.5,3,20,0,0,0,Bologna,2019-04-14 Fiorentina-Bologna,ITA-SERIA_A,18-19,cfea3d7e
+756959aa,Blerim Džemaili,31,SUI,DM,33-002,19,0,0,0,0,1,0,0,0,11,0,1,0,0.0,0.0,0.0,0,0,6,7,85.7,2,6,0,1,0,Bologna,2019-04-14 Fiorentina-Bologna,ITA-SERIA_A,18-19,cfea3d7e
+0a3065c8,Mitchell Dijks,35,NED,LB,26-064,90,0,0,0,0,0,0,1,0,59,2,0,1,0.0,0.0,0.0,1,0,31,42,73.8,9,33,4,2,0,Bologna,2019-04-14 Fiorentina-Bologna,ITA-SERIA_A,18-19,cfea3d7e
+b5bf1770,Lyanco,4,BRA,CB,22-072,90,0,0,0,0,0,0,0,0,61,3,0,1,0.0,0.0,0.0,0,0,29,41,70.7,4,29,1,2,1,Bologna,2019-04-14 Fiorentina-Bologna,ITA-SERIA_A,18-19,cfea3d7e
+fed5f993,Danilo Larangeira,23,BRA,CB,34-339,90,0,0,0,0,0,0,0,0,53,1,0,0,0.0,0.0,0.0,0,0,24,33,72.7,0,18,0,1,0,Bologna,2019-04-14 Fiorentina-Bologna,ITA-SERIA_A,18-19,cfea3d7e
+cfbf9881,Ibrahima Mbaye,15,SEN,RB,24-146,90,0,0,0,0,0,0,0,0,67,0,0,0,0.0,0.0,0.0,1,0,52,62,83.9,6,42,2,0,0,Bologna,2019-04-14 Fiorentina-Bologna,ITA-SERIA_A,18-19,cfea3d7e
+ab4449d6,Łukasz Skorupski,28,POL,GK,27-344,90,0,0,0,0,0,0,0,0,39,0,0,0,0.0,0.0,0.0,0,0,27,33,81.8,0,16,0,0,0,Bologna,2019-04-14 Fiorentina-Bologna,ITA-SERIA_A,18-19,cfea3d7e

@@ -1,0 +1,29 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+d5dd5f1f,Pierre-Emerick Aubameyang,17,GAB,FW,28-223,90,0,0,0,0,1,0,0,0,19,0,1,1,0.1,0.1,0.0,1,0,10,15,66.7,1,2,0,0,0,Dortmund,2018-01-27 Dortmund-Freiburg,GER-BL1,17-18,07437edc
+dbf053da,Jadon Sancho,7,ENG,LW,17-308,90,0,0,0,0,1,1,0,0,70,1,0,0,0.0,0.0,0.1,4,0,47,62,75.8,6,51,9,6,1,Dortmund,2018-01-27 Dortmund-Freiburg,GER-BL1,17-18,07437edc
+1bf33a9a,Christian Pulisic,22,USA,RW,19-131,66,0,0,0,0,0,0,0,0,31,1,1,0,0.0,0.0,0.1,2,0,20,26,76.9,1,22,7,5,2,Dortmund,2018-01-27 Dortmund-Freiburg,GER-BL1,17-18,07437edc
+849c826a,Andriy Yarmolenko,9,UKR,RW,28-096,24,0,0,0,0,1,0,0,0,14,0,0,0,0.0,0.0,0.0,0,0,9,11,81.8,0,11,0,1,0,Dortmund,2018-01-27 Dortmund-Freiburg,GER-BL1,17-18,07437edc
+5afafbfe,Shinji Kagawa,23,JPN,"RM,LM",28-316,90,1,0,0,0,2,1,0,0,61,3,2,1,0.2,0.2,0.0,1,1,40,51,78.4,9,36,5,3,2,Dortmund,2018-01-27 Dortmund-Freiburg,GER-BL1,17-18,07437edc
+f4081572,Nuri Şahin,8,TUR,CM,29-144,77,0,0,0,0,1,0,0,0,109,5,1,0,0.0,0.0,0.0,0,0,90,102,88.2,12,67,1,0,0,Dortmund,2018-01-27 Dortmund-Freiburg,GER-BL1,17-18,07437edc
+8e92be30,Alexander Isak,14,SWE,CM,18-128,13,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,1,0,4,5,80.0,3,1,0,0,0,Dortmund,2018-01-27 Dortmund-Freiburg,GER-BL1,17-18,07437edc
+68829001,Gonzalo Castro,27,GER,RM,30-230,45,0,0,0,0,0,0,1,0,55,1,1,0,0.0,0.0,0.1,1,0,38,52,73.1,7,24,1,0,0,Dortmund,2018-01-27 Dortmund-Freiburg,GER-BL1,17-18,07437edc
+9efa1d25,Mario Götze,10,GER,LM,25-238,45,0,0,0,0,0,0,0,0,52,7,0,1,0.0,0.0,0.3,6,1,33,43,76.7,5,26,1,3,2,Dortmund,2018-01-27 Dortmund-Freiburg,GER-BL1,17-18,07437edc
+a96e5dc0,Jeremy Toljan,15,GER,LB,23-172,90,1,0,0,0,3,1,0,0,93,2,0,1,0.1,0.1,0.0,2,0,70,83,84.3,8,51,4,0,0,Dortmund,2018-01-27 Dortmund-Freiburg,GER-BL1,17-18,07437edc
+c5fd13e9,Ömer Toprak,36,TUR,CB,28-190,90,0,0,0,0,1,0,0,0,136,3,0,1,0.1,0.1,0.0,1,0,123,128,96.1,13,89,2,1,1,Dortmund,2018-01-27 Dortmund-Freiburg,GER-BL1,17-18,07437edc
+b682dcf6,Sokratis Papastathopoulos,25,GRE,CB,29-232,90,0,0,0,0,0,0,0,0,107,1,1,3,0.0,0.0,0.0,1,0,84,100,84.0,5,55,1,1,1,Dortmund,2018-01-27 Dortmund-Freiburg,GER-BL1,17-18,07437edc
+fe2db476,Łukasz Piszczek,26,POL,RB,32-238,90,0,0,0,0,2,1,0,0,68,1,2,2,0.2,0.2,0.0,2,1,44,60,73.3,3,31,3,0,0,Dortmund,2018-01-27 Dortmund-Freiburg,GER-BL1,17-18,07437edc
+9d12e142,Roman Bürki,38,SUI,GK,27-074,90,0,0,0,0,0,0,0,0,46,0,0,0,0.0,0.0,0.0,0,0,40,47,85.1,1,21,0,0,0,Dortmund,2018-01-27 Dortmund-Freiburg,GER-BL1,17-18,07437edc
+f93e6e94,Nils Petersen,18,GER,FW,29-052,90,2,0,0,0,3,2,0,0,41,2,2,3,0.7,0.7,0.0,1,1,15,23,65.2,1,17,0,6,1,Freiburg,2018-01-27 Dortmund-Freiburg,GER-BL1,17-18,07437edc
+70dcf94d,Janik Haberer,19,GER,LW,23-300,83,0,1,0,0,0,0,0,0,36,3,2,0,0.0,0.0,0.7,2,1,14,27,51.9,3,15,0,3,2,Freiburg,2018-01-27 Dortmund-Freiburg,GER-BL1,17-18,07437edc
+8954fddc,Mohamed Dräger,40,TUN,LW,21-216,7,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,3,0,0,0,Freiburg,2018-01-27 Dortmund-Freiburg,GER-BL1,17-18,07437edc
+ca618d23,Lucas Höler,9,GER,RW,23-201,81,0,0,0,0,0,0,0,0,23,2,2,0,0.0,0.0,0.0,0,0,7,13,53.8,1,15,0,0,0,Freiburg,2018-01-27 Dortmund-Freiburg,GER-BL1,17-18,07437edc
+258a6f4d,Tim Kleindienst,34,GER,RW,22-149,9,0,0,0,0,0,0,0,0,4,1,0,0,0.0,0.0,0.0,0,0,0,0,,0,3,0,1,0,Freiburg,2018-01-27 Dortmund-Freiburg,GER-BL1,17-18,07437edc
+8593f88c,Christian Günter,30,GER,LM,24-333,90,0,0,0,0,0,0,0,0,51,2,3,1,0.0,0.0,0.0,0,0,28,42,66.7,3,22,4,2,1,Freiburg,2018-01-27 Dortmund-Freiburg,GER-BL1,17-18,07437edc
+1c08a3c8,Amir Abrashi,6,ALB,CM,27-306,90,0,0,0,0,0,0,0,0,38,4,0,1,0.0,0.0,0.1,1,0,21,28,75.0,2,18,0,0,0,Freiburg,2018-01-27 Dortmund-Freiburg,GER-BL1,17-18,07437edc
+ea6bc03a,Robin Koch,25,GER,CM,21-194,90,0,0,0,0,0,0,0,0,32,0,2,1,0.0,0.0,0.0,1,0,21,27,77.8,2,11,1,0,0,Freiburg,2018-01-27 Dortmund-Freiburg,GER-BL1,17-18,07437edc
+2a29eb9b,Lukas Kübler,17,GER,RM,25-150,90,0,0,0,0,1,1,0,0,36,2,1,0,0.1,0.1,0.0,1,1,19,26,73.1,3,12,1,1,0,Freiburg,2018-01-27 Dortmund-Freiburg,GER-BL1,17-18,07437edc
+815c314f,Marc-Oliver Kempf,20,GER,CB,22-364,90,0,0,0,0,0,0,0,0,57,0,0,0,0.0,0.0,0.0,0,0,32,43,74.4,2,23,0,0,0,Freiburg,2018-01-27 Dortmund-Freiburg,GER-BL1,17-18,07437edc
+25ab9c9c,Manuel Gulde,5,GER,CB,26-349,90,0,0,0,0,0,0,0,0,35,0,3,1,0.0,0.0,0.0,0,0,19,25,76.0,0,10,0,0,0,Freiburg,2018-01-27 Dortmund-Freiburg,GER-BL1,17-18,07437edc
+21166ff4,Çağlar Söyüncü,4,TUR,CB,21-249,90,0,0,0,0,0,0,0,0,50,1,2,1,0.0,0.0,0.0,0,0,32,39,82.1,1,24,0,2,2,Freiburg,2018-01-27 Dortmund-Freiburg,GER-BL1,17-18,07437edc
+17376543,Rafał Gikiewicz,44,POL,GK,30-093,90,0,0,0,0,0,0,0,0,42,0,0,0,0.0,0.0,0.0,0,0,22,40,55.0,0,19,0,0,0,Freiburg,2018-01-27 Dortmund-Freiburg,GER-BL1,17-18,07437edc

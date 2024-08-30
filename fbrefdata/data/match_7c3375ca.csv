@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+49fe9070,Timo Werner,11,GER,FW,22-034,68,0,0,0,0,3,0,0,0,26,0,0,1,0.2,0.2,0.0,3,0,14,19,73.7,1,13,4,1,0,RB Leipzig,2018-04-09 RB Leipzig-Leverkusen,GER-BL1,17-18,7c3375ca
+7c104bb7,Ademola Lookman,18,NGA,FW,20-171,22,0,0,0,0,0,0,0,0,18,0,0,0,0.0,0.0,0.1,2,0,11,14,78.6,2,12,0,1,0,RB Leipzig,2018-04-09 RB Leipzig-Leverkusen,GER-BL1,17-18,7c3375ca
+d2416c2e,Yussuf Poulsen,9,DEN,FW,23-298,55,0,1,0,0,0,0,0,0,22,0,0,1,0.0,0.0,0.2,4,1,9,16,56.3,1,8,1,2,1,RB Leipzig,2018-04-09 RB Leipzig-Leverkusen,GER-BL1,17-18,7c3375ca
+5caa62a7,Bruma,17,POR,FW,23-167,35,0,0,0,0,3,0,0,0,18,0,0,2,0.2,0.2,0.0,3,0,8,10,80.0,0,14,3,2,0,RB Leipzig,2018-04-09 RB Leipzig-Leverkusen,GER-BL1,17-18,7c3375ca
+9a2e0ccc,Emil Forsberg,10,SWE,AM,26-168,90,0,0,0,0,1,0,0,0,49,0,0,3,0.1,0.1,0.3,8,0,26,39,66.7,5,26,1,5,3,RB Leipzig,2018-04-09 RB Leipzig-Leverkusen,GER-BL1,17-18,7c3375ca
+e280527c,Marcel Sabitzer,7,AUT,AM,24-023,90,1,0,0,0,5,2,0,0,52,1,1,1,0.2,0.2,0.0,3,1,22,34,64.7,11,31,3,6,2,RB Leipzig,2018-04-09 RB Leipzig-Leverkusen,GER-BL1,17-18,7c3375ca
+f25c8e3a,Naby Keïta,8,GUI,DM,23-058,75,0,0,0,0,2,0,0,0,55,1,1,2,0.1,0.1,0.0,6,0,33,45,73.3,5,32,4,4,2,RB Leipzig,2018-04-09 RB Leipzig-Leverkusen,GER-BL1,17-18,7c3375ca
+8494acc4,Stefan Ilsanker,13,AUT,DM,28-326,15,0,0,0,0,1,1,0,0,15,0,0,0,0.4,0.4,0.0,0,0,9,14,64.3,1,7,0,1,1,RB Leipzig,2018-04-09 RB Leipzig-Leverkusen,GER-BL1,17-18,7c3375ca
+b825a650,Kevin Kampl,44,SVN,DM,27-182,90,0,0,0,0,3,1,0,0,58,4,1,3,0.1,0.1,0.0,1,0,40,43,93.0,4,30,0,1,0,RB Leipzig,2018-04-09 RB Leipzig-Leverkusen,GER-BL1,17-18,7c3375ca
+17370b95,Bernardo,3,BRA,LB,22-330,90,0,0,0,0,0,0,0,0,81,5,1,3,0.0,0.0,0.0,0,0,43,65,66.2,3,26,1,4,1,RB Leipzig,2018-04-09 RB Leipzig-Leverkusen,GER-BL1,17-18,7c3375ca
+d248cd8f,Dayot Upamecano,5,FRA,CB,19-164,90,0,0,0,0,0,0,0,0,71,1,3,0,0.0,0.0,0.0,2,0,53,60,88.3,4,34,0,1,0,RB Leipzig,2018-04-09 RB Leipzig-Leverkusen,GER-BL1,17-18,7c3375ca
+20030c06,Willi Orban,4,HUN,CB,25-157,90,0,0,0,0,1,0,0,0,53,3,1,4,0.1,0.1,0.4,1,0,33,39,84.6,4,19,0,0,0,RB Leipzig,2018-04-09 RB Leipzig-Leverkusen,GER-BL1,17-18,7c3375ca
+ca8033cb,Lukas Klostermann,16,GER,RB,21-310,90,0,0,0,0,0,0,0,0,58,3,0,5,0.0,0.0,0.1,2,0,32,39,82.1,5,18,1,1,1,RB Leipzig,2018-04-09 RB Leipzig-Leverkusen,GER-BL1,17-18,7c3375ca
+bcb2ccd8,Péter Gulácsi,32,HUN,GK,27-338,90,0,0,0,0,0,0,0,0,30,0,0,0,0.0,0.0,0.0,0,0,15,26,57.7,0,16,0,0,0,RB Leipzig,2018-04-09 RB Leipzig-Leverkusen,GER-BL1,17-18,7c3375ca
+64f69877,Kevin Volland,31,GER,FW,25-253,90,1,0,0,0,1,1,0,0,40,2,0,1,0.3,0.3,0.0,1,0,19,26,73.1,5,21,1,3,0,Bayer Leverkusen,2018-04-09 RB Leipzig-Leverkusen,GER-BL1,17-18,7c3375ca
+a167537f,Julian Brandt,10,GER,LW,21-342,90,1,1,0,0,2,2,0,0,61,0,0,1,0.4,0.4,0.4,5,1,32,56,57.1,4,36,5,1,1,Bayer Leverkusen,2018-04-09 RB Leipzig-Leverkusen,GER-BL1,17-18,7c3375ca
+fed7cb61,Kai Havertz,29,GER,RW,18-302,90,1,0,0,0,2,1,0,0,60,2,0,1,0.4,0.4,0.4,2,1,36,44,81.8,4,38,2,3,1,Bayer Leverkusen,2018-04-09 RB Leipzig-Leverkusen,GER-BL1,17-18,7c3375ca
+3a233281,Leon Bailey,9,JAM,LM,20-243,90,0,1,0,0,1,0,0,0,53,0,0,1,0.0,0.0,0.4,6,2,25,43,58.1,6,32,2,4,1,Bayer Leverkusen,2018-04-09 RB Leipzig-Leverkusen,GER-BL1,17-18,7c3375ca
+56413b1f,Charles Aránguiz,20,CHI,CM,28-357,90,0,0,0,0,2,0,0,0,81,7,3,5,0.4,0.4,0.0,4,1,50,62,80.6,6,45,1,2,1,Bayer Leverkusen,2018-04-09 RB Leipzig-Leverkusen,GER-BL1,17-18,7c3375ca
+69374ff5,Julian Baumgartlinger,15,AUT,CM,30-097,90,0,0,0,0,2,1,0,0,62,2,0,1,0.1,0.1,0.0,1,0,48,54,88.9,3,39,0,0,0,Bayer Leverkusen,2018-04-09 RB Leipzig-Leverkusen,GER-BL1,17-18,7c3375ca
+c50281a0,Lars Bender,8,GER,RM,28-347,67,0,0,0,0,0,0,0,0,50,3,2,4,0.0,0.0,0.0,1,1,26,36,72.2,5,22,2,0,0,Bayer Leverkusen,2018-04-09 RB Leipzig-Leverkusen,GER-BL1,17-18,7c3375ca
+f820504e,Tin Jedvaj,16,CRO,RM,22-132,23,0,0,0,0,1,0,0,0,11,1,1,0,0.0,0.0,0.0,0,0,5,8,62.5,0,7,1,0,0,Bayer Leverkusen,2018-04-09 RB Leipzig-Leverkusen,GER-BL1,17-18,7c3375ca
+f9acca3a,Wendell,18,BRA,CB,24-263,62,0,0,0,0,0,0,0,0,47,3,2,1,0.0,0.0,0.0,0,0,34,42,81.0,4,22,1,0,0,Bayer Leverkusen,2018-04-09 RB Leipzig-Leverkusen,GER-BL1,17-18,7c3375ca
+0a89e877,Benjamin Henrichs,39,GER,CB,21-045,28,0,0,0,0,1,1,0,0,21,0,1,1,0.1,0.1,0.4,1,0,13,18,72.2,2,13,2,0,0,Bayer Leverkusen,2018-04-09 RB Leipzig-Leverkusen,GER-BL1,17-18,7c3375ca
+070ec0b1,Sven Bender,5,GER,CB,28-347,18,0,0,0,0,0,0,0,0,7,0,2,0,0.0,0.0,0.0,0,0,5,5,100.0,0,5,0,0,0,Bayer Leverkusen,2018-04-09 RB Leipzig-Leverkusen,GER-BL1,17-18,7c3375ca
+4bd00a50,Panagiotis Retsos,3,GRE,CB,19-243,72,1,0,0,0,1,1,0,0,57,3,2,1,0.1,0.1,0.0,1,0,36,47,76.6,3,34,1,0,0,Bayer Leverkusen,2018-04-09 RB Leipzig-Leverkusen,GER-BL1,17-18,7c3375ca
+bd142efb,Jonathan Tah,4,GER,CB,22-057,90,0,0,0,0,0,0,0,0,56,1,1,2,0.0,0.0,0.1,2,0,44,48,91.7,3,37,0,0,0,Bayer Leverkusen,2018-04-09 RB Leipzig-Leverkusen,GER-BL1,17-18,7c3375ca
+2628fd2b,Bernd Leno,1,GER,GK,26-036,90,0,0,0,0,0,0,0,0,42,0,0,0,0.0,0.0,0.0,0,0,26,40,65.0,0,23,0,0,0,Bayer Leverkusen,2018-04-09 RB Leipzig-Leverkusen,GER-BL1,17-18,7c3375ca

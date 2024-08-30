@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+d7d32194,Mattia Destro,22,ITA,FW,28-186,80,0,0,0,0,0,0,0,0,18,3,0,0,0.0,0.0,0.4,1,0,10,12,83.3,3,11,0,1,1,Bologna,2019-09-22 Bologna-Roma,ITA-SERIA_A,19-20,48229e4d
+df85d472,Federico Santander,9,PAR,FW,28-110,10,0,0,0,0,1,0,0,0,3,0,0,0,0.1,0.1,0.0,1,0,1,1,100.0,0,3,1,1,1,Bologna,2019-09-22 Bologna-Roma,ITA-SERIA_A,19-20,48229e4d
+7eb97a8e,Nicola Sansone,10,ITA,LW,28-012,90,1,0,1,1,2,1,0,0,45,1,0,3,0.8,0.0,0.0,3,1,21,29,72.4,4,32,6,3,2,Bologna,2019-09-22 Bologna-Roma,ITA-SERIA_A,19-20,48229e4d
+e14ec482,Riccardo Orsolini,7,ITA,RW,22-241,90,0,0,0,0,1,0,0,0,46,3,0,2,0.0,0.0,0.0,0,0,14,27,51.9,2,24,2,8,3,Bologna,2019-09-22 Bologna-Roma,ITA-SERIA_A,19-20,48229e4d
+9d4c45d6,Roberto Soriano,21,ITA,"AM,DM",28-226,90,0,0,0,0,1,1,0,0,19,0,0,1,0.4,0.4,0.0,1,1,13,15,86.7,3,18,1,0,0,Bologna,2019-09-22 Bologna-Roma,ITA-SERIA_A,19-20,48229e4d
+b3fd7075,Andrea Poli,16,ITA,DM,29-358,79,0,0,0,0,0,0,1,0,31,0,0,3,0.0,0.0,0.0,1,0,22,26,84.6,5,14,2,2,2,Bologna,2019-09-22 Bologna-Roma,ITA-SERIA_A,19-20,48229e4d
+8d8178ac,Rodrigo Palacio,24,ARG,AM,37-229,11,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,4,7,57.1,3,4,0,0,0,Bologna,2019-09-22 Bologna-Roma,ITA-SERIA_A,19-20,48229e4d
+563a68ad,Gary Medel,5,CHI,DM,32-050,90,0,0,0,0,0,0,0,0,49,3,1,3,0.0,0.0,0.0,0,0,35,38,92.1,1,23,0,0,0,Bologna,2019-09-22 Bologna-Roma,ITA-SERIA_A,19-20,48229e4d
+0a3065c8,Mitchell Dijks,35,NED,LB,26-225,45,0,0,0,0,0,0,1,0,22,0,1,1,0.0,0.0,0.0,1,0,15,19,78.9,1,11,3,0,0,Bologna,2019-09-22 Bologna-Roma,ITA-SERIA_A,19-20,48229e4d
+58027adc,Ladislav Krejčí,11,CZE,LB,27-079,45,0,0,0,0,0,0,0,0,20,2,1,1,0.0,0.0,0.0,0,0,12,14,85.7,1,6,1,0,0,Bologna,2019-09-22 Bologna-Roma,ITA-SERIA_A,19-20,48229e4d
+5832ebfe,Stefano Denswil,4,SUR,CB,26-138,90,0,0,0,0,0,0,0,0,55,1,1,2,0.0,0.0,0.0,2,0,41,46,89.1,1,34,0,0,0,Bologna,2019-09-22 Bologna-Roma,ITA-SERIA_A,19-20,48229e4d
+0821331c,Mattia Bani,13,ITA,CB,25-286,90,0,0,0,0,0,0,0,0,44,1,1,0,0.0,0.0,0.0,1,0,25,34,73.5,2,26,0,0,0,Bologna,2019-09-22 Bologna-Roma,ITA-SERIA_A,19-20,48229e4d
+b3af9be1,Takehiro Tomiyasu,14,JPN,RB,20-321,90,0,0,0,0,0,0,1,0,48,0,2,0,0.0,0.0,0.0,0,0,33,43,76.7,2,23,0,0,0,Bologna,2019-09-22 Bologna-Roma,ITA-SERIA_A,19-20,48229e4d
+ab4449d6,Łukasz Skorupski,28,POL,GK,28-140,90,0,0,0,0,0,0,0,0,51,0,0,0,0.0,0.0,0.0,1,0,32,50,64.0,0,31,0,0,0,Bologna,2019-09-22 Bologna-Roma,ITA-SERIA_A,19-20,48229e4d
+3bb7f478,Edin Džeko,9,BIH,FW,33-189,90,1,0,0,0,5,2,1,0,28,0,0,0,0.8,0.8,0.0,1,0,8,14,57.1,2,15,2,3,2,Roma,2019-09-22 Bologna-Roma,ITA-SERIA_A,19-20,48229e4d
+dd0daf32,Henrikh Mkhitaryan,77,ARM,LW,30-244,86,0,0,0,0,1,0,0,0,50,2,0,0,0.0,0.0,0.2,6,1,36,41,87.8,9,28,3,2,0,Roma,2019-09-22 Bologna-Roma,ITA-SERIA_A,19-20,48229e4d
+79083382,Juan Jesus,5,BRA,CB,28-104,4,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,1,0,0,0,Roma,2019-09-22 Bologna-Roma,ITA-SERIA_A,19-20,48229e4d
+4c3a6744,Justin Kluivert,99,NED,RW,20-140,50,0,0,0,0,0,0,0,0,24,0,1,0,0.0,0.0,0.0,1,0,20,22,90.9,1,12,1,2,2,Roma,2019-09-22 Bologna-Roma,ITA-SERIA_A,19-20,48229e4d
+9907b1c8,Nicolò Zaniolo,22,ITA,"RW,LM",20-082,40,0,0,0,0,1,0,1,0,23,2,0,0,0.0,0.0,0.0,1,0,13,18,72.2,1,12,2,1,1,Roma,2019-09-22 Bologna-Roma,ITA-SERIA_A,19-20,48229e4d
+4a5a45c7,Lorenzo Pellegrini,7,ITA,"AM,RM",23-095,90,0,1,0,0,6,1,0,0,64,1,1,2,0.3,0.3,0.7,9,2,35,46,76.1,3,37,6,4,2,Roma,2019-09-22 Bologna-Roma,ITA-SERIA_A,19-20,48229e4d
+4a56052c,Jordan Veretout,21,FRA,"DM,CM",26-205,90,0,0,0,0,0,0,1,0,63,2,0,0,0.0,0.0,0.0,1,1,51,60,85.0,5,33,2,5,5,Roma,2019-09-22 Bologna-Roma,ITA-SERIA_A,19-20,48229e4d
+16657b95,Bryan Cristante,4,ITA,"DM,CM",24-203,90,0,0,0,0,1,0,0,0,76,2,0,0,0.0,0.0,0.0,1,0,56,71,78.9,11,43,0,0,0,Roma,2019-09-22 Bologna-Roma,ITA-SERIA_A,19-20,48229e4d
+eda40760,Aleksandar Kolarov,11,SRB,LB,33-316,90,1,0,0,0,3,1,0,0,74,2,0,1,0.2,0.2,0.2,8,0,53,65,81.5,7,37,6,3,2,Roma,2019-09-22 Bologna-Roma,ITA-SERIA_A,19-20,48229e4d
+4e358a2d,Federico Fazio,20,ARG,CB,32-189,90,0,0,0,0,0,0,0,0,62,2,2,0,0.0,0.0,0.0,0,0,46,53,86.8,3,27,1,0,0,Roma,2019-09-22 Bologna-Roma,ITA-SERIA_A,19-20,48229e4d
+5aa53281,Gianluca Mancini,23,ITA,CB,23-158,84,0,0,0,0,0,0,2,1,47,0,2,0,0.0,0.0,0.0,0,0,40,44,90.9,5,26,0,0,0,Roma,2019-09-22 Bologna-Roma,ITA-SERIA_A,19-20,48229e4d
+e288d4b3,Alessandro Florenzi,24,ITA,RB,28-195,69,0,0,0,0,1,0,1,0,60,2,2,1,0.1,0.1,0.1,5,0,47,54,87.0,7,23,2,2,1,Roma,2019-09-22 Bologna-Roma,ITA-SERIA_A,19-20,48229e4d
+3626daea,Leonardo Spinazzola,37,ITA,RB,26-181,21,0,0,0,0,0,0,0,0,21,0,0,1,0.0,0.0,0.1,2,0,15,19,78.9,5,8,1,0,0,Roma,2019-09-22 Bologna-Roma,ITA-SERIA_A,19-20,48229e4d
+20b9f052,Pau López,13,ESP,GK,24-283,90,0,0,0,0,0,0,0,0,28,0,0,0,0.0,0.0,0.0,0,0,22,26,84.6,0,11,0,0,0,Roma,2019-09-22 Bologna-Roma,ITA-SERIA_A,19-20,48229e4d

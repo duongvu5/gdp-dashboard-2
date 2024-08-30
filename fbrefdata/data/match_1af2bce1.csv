@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+a889ffc7,Marco Borriello,22,ITA,FW,35-175,65,0,0,0,0,3,1,1,0,20,0,0,0,0.2,0.2,0.1,1,0,6,12,50.0,0,10,0,2,0,SPAL,2017-12-10 SPAL-Hellas Verona,ITA-SERIA_A,17-18,1af2bce1
+df301450,Sergio Floccari,10,ITA,FW,36-028,25,0,0,0,0,1,0,0,0,9,0,0,0,0.1,0.1,0.0,1,1,6,8,75.0,0,5,0,0,0,SPAL,2017-12-10 SPAL-Hellas Verona,ITA-SERIA_A,17-18,1af2bce1
+b5cae4e6,Alberto Paloschi,43,ITA,FW,27-340,90,1,0,0,0,2,1,0,0,25,0,0,0,0.5,0.5,0.1,5,0,13,19,68.4,1,12,0,0,0,SPAL,2017-12-10 SPAL-Hellas Verona,ITA-SERIA_A,17-18,1af2bce1
+6cc97b6a,Alberto Grassi,88,ITA,"CM,RM",22-278,90,0,0,0,0,5,2,0,0,33,3,0,0,0.6,0.6,0.0,4,0,21,24,87.5,2,20,0,1,1,SPAL,2017-12-10 SPAL-Hellas Verona,ITA-SERIA_A,17-18,1af2bce1
+2258c078,Federico Viviani,77,ITA,"CM,LM",25-261,90,0,0,0,0,1,0,1,0,82,1,0,1,0.0,0.0,0.2,5,0,62,79,78.5,11,43,2,0,0,SPAL,2017-12-10 SPAL-Hellas Verona,ITA-SERIA_A,17-18,1af2bce1
+a3e4b724,Luca Rizzo,11,ITA,CM,25-230,64,0,0,0,0,1,1,0,0,41,2,0,1,0.1,0.1,0.1,3,0,19,31,61.3,5,26,2,2,1,SPAL,2017-12-10 SPAL-Hellas Verona,ITA-SERIA_A,17-18,1af2bce1
+bd84fc61,Pasquale Schiattarella,28,ITA,CM,30-194,26,0,0,0,0,0,0,0,0,26,0,0,0,0.0,0.0,0.0,3,1,16,25,64.0,6,14,0,0,0,SPAL,2017-12-10 SPAL-Hellas Verona,ITA-SERIA_A,17-18,1af2bce1
+fba81826,Federico Mattiello,14,ITA,"WB,LB",22-149,90,0,0,0,0,3,1,0,0,49,1,0,0,0.1,0.1,0.0,3,0,29,43,67.4,2,34,3,2,2,SPAL,2017-12-10 SPAL-Hellas Verona,ITA-SERIA_A,17-18,1af2bce1
+02caf6e0,Manuel Lazzari,29,ITA,"WB,RB",24-011,90,0,0,0,0,2,2,0,0,66,1,1,2,0.1,0.1,0.3,4,0,38,54,70.4,4,37,8,6,2,SPAL,2017-12-10 SPAL-Hellas Verona,ITA-SERIA_A,17-18,1af2bce1
+53636fce,Michele Cremonesi,6,ITA,CB,29-239,79,0,0,0,0,0,0,0,0,46,1,1,0,0.0,0.0,0.0,0,0,37,40,92.5,7,23,3,0,0,SPAL,2017-12-10 SPAL-Hellas Verona,ITA-SERIA_A,17-18,1af2bce1
+43a2e16c,Mirco Antenucci,7,ITA,CM,33-093,11,1,0,1,1,0,0,0,0,5,0,0,0,0.8,0.0,0.0,1,0,3,4,75.0,0,3,1,0,0,SPAL,2017-12-10 SPAL-Hellas Verona,ITA-SERIA_A,17-18,1af2bce1
+de045b15,Francesco Vicari,23,ITA,CB,23-129,90,0,0,0,0,0,0,0,0,70,6,0,1,0.0,0.0,0.0,1,0,46,57,80.7,4,29,3,0,0,SPAL,2017-12-10 SPAL-Hellas Verona,ITA-SERIA_A,17-18,1af2bce1
+9b30df1e,Bartosz Salamon,21,POL,CB,26-223,90,0,0,0,0,0,0,1,0,88,1,1,2,0.0,0.0,0.1,3,1,61,77,79.2,13,42,7,0,0,SPAL,2017-12-10 SPAL-Hellas Verona,ITA-SERIA_A,17-18,1af2bce1
+cecbce23,Alfred Gomis,1,SEN,GK,24-096,90,0,0,0,0,0,0,0,0,32,0,0,0,0.0,0.0,0.0,0,0,22,27,81.5,0,11,0,0,0,SPAL,2017-12-10 SPAL-Hellas Verona,ITA-SERIA_A,17-18,1af2bce1
+3d50bcdb,Moise Kean,9,ITA,FW,17-285,63,0,0,0,0,2,1,0,0,21,0,1,0,0.1,0.1,0.1,3,0,11,14,78.6,1,17,5,4,3,Hellas Verona,2017-12-10 SPAL-Hellas Verona,ITA-SERIA_A,17-18,1af2bce1
+c414df9d,Mattia Valoti,27,ITA,FW,24-095,27,0,0,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.0,0,0,2,6,33.3,0,5,0,1,1,Hellas Verona,2017-12-10 SPAL-Hellas Verona,ITA-SERIA_A,17-18,1af2bce1
+5370cba7,Alessio Cerci,10,ITA,FW,30-140,72,1,0,1,1,3,2,0,0,41,0,1,0,1.0,0.2,0.0,5,2,22,28,78.6,4,22,6,6,3,Hellas Verona,2017-12-10 SPAL-Hellas Verona,ITA-SERIA_A,17-18,1af2bce1
+6ca663b4,Giampaolo Pazzini,11,ITA,FW,33-130,18,0,0,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.2,1,0,7,9,77.8,1,4,0,0,0,Hellas Verona,2017-12-10 SPAL-Hellas Verona,ITA-SERIA_A,17-18,1af2bce1
+d3298c99,Daniele Verde,7,ITA,LM,21-173,79,0,1,0,0,1,1,0,0,28,2,3,0,0.0,0.0,0.6,3,1,19,23,82.6,2,12,2,1,0,Hellas Verona,2017-12-10 SPAL-Hellas Verona,ITA-SERIA_A,17-18,1af2bce1
+9dabfcf5,Simone Calvano,23,ITA,LM,24-152,11,0,0,0,0,0,0,0,0,6,0,0,2,0.0,0.0,0.0,1,0,2,3,66.7,0,2,0,0,0,Hellas Verona,2017-12-10 SPAL-Hellas Verona,ITA-SERIA_A,17-18,1af2bce1
+88895312,Daniel Bessa,24,ITA,CM,24-330,90,0,0,0,0,0,0,0,0,53,1,2,3,0.0,0.0,0.0,4,0,40,45,88.9,3,28,1,0,0,Hellas Verona,2017-12-10 SPAL-Hellas Verona,ITA-SERIA_A,17-18,1af2bce1
+2edeb221,Marcel Büchel,77,LIE,CM,26-267,90,0,0,0,0,0,0,1,0,49,1,1,3,0.0,0.0,0.0,3,0,30,38,78.9,5,17,0,0,0,Hellas Verona,2017-12-10 SPAL-Hellas Verona,ITA-SERIA_A,17-18,1af2bce1
+07abb358,Rômulo,2,ITA,RM,30-202,90,0,0,0,0,4,2,0,0,40,0,0,1,0.4,0.4,0.1,3,0,25,34,73.5,2,22,6,2,1,Hellas Verona,2017-12-10 SPAL-Hellas Verona,ITA-SERIA_A,17-18,1af2bce1
+b7a5bc86,Mohamed Fares,93,ALG,LB,21-298,90,0,0,0,0,1,0,0,0,63,2,1,1,0.0,0.0,0.0,3,0,30,44,68.2,2,27,3,3,1,Hellas Verona,2017-12-10 SPAL-Hellas Verona,ITA-SERIA_A,17-18,1af2bce1
+d0dbca9f,Alex Ferrari,28,ITA,CB,23-162,90,0,0,0,0,0,0,0,0,38,1,2,2,0.0,0.0,0.0,0,0,22,30,73.3,0,10,0,0,0,Hellas Verona,2017-12-10 SPAL-Hellas Verona,ITA-SERIA_A,17-18,1af2bce1
+99d8fc35,Antonio Caracciolo,2,ITA,CB,27-163,90,0,0,0,0,2,0,0,0,39,0,1,3,0.1,0.1,0.0,1,0,17,23,73.9,0,9,0,0,0,Hellas Verona,2017-12-10 SPAL-Hellas Verona,ITA-SERIA_A,17-18,1af2bce1
+e94d79e3,Martín Cáceres,26,URU,RB,30-247,90,1,0,0,0,2,1,1,0,45,2,1,1,0.6,0.6,0.0,2,1,25,32,78.1,4,14,0,0,0,Hellas Verona,2017-12-10 SPAL-Hellas Verona,ITA-SERIA_A,17-18,1af2bce1
+326d09ef,Nícolas Andrade,1,BRA,GK,29-242,90,0,0,0,0,0,0,0,0,45,0,0,0,0.0,0.0,0.0,0,0,20,41,48.8,0,19,0,0,0,Hellas Verona,2017-12-10 SPAL-Hellas Verona,ITA-SERIA_A,17-18,1af2bce1

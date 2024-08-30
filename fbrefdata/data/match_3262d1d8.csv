@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+75a63397,Opa Nguette,11,SEN,FW,26-123,59,0,0,0,1,0,0,0,0,24,1,0,0,0.8,0.0,0.0,0,0,12,16,75.0,1,12,1,3,1,Metz,2020-11-08 Metz-Dijon,FRA-L1,20-21,3262d1d8
+29ef0f49,Aaron Leya Iseka,24,BEL,FW,22-359,31,0,0,0,0,1,1,0,0,4,0,0,0,0.3,0.3,0.0,1,0,1,2,50.0,0,4,0,1,1,Metz,2020-11-08 Metz-Dijon,FRA-L1,20-21,3262d1d8
+87e9c7cd,Papa Ndiaga Yade,26,MTN,LW,20-308,59,1,0,0,0,1,1,0,0,17,0,1,0,0.1,0.1,0.0,1,0,7,11,63.6,2,15,2,1,0,Metz,2020-11-08 Metz-Dijon,FRA-L1,20-21,3262d1d8
+743fd71f,Vagner Gonçalves,27,CPV,LW,24-303,31,0,0,0,0,1,0,1,0,8,0,0,0,0.1,0.1,0.0,1,0,4,4,100.0,1,9,0,0,0,Metz,2020-11-08 Metz-Dijon,FRA-L1,20-21,3262d1d8
+9d5dcc23,Lamine Gueye,13,SEN,RW,22-240,76,0,1,0,0,1,0,0,0,46,1,1,1,0.1,0.1,0.4,2,1,21,33,63.6,3,36,5,1,0,Metz,2020-11-08 Metz-Dijon,FRA-L1,20-21,3262d1d8
+2945f4b7,Thierry Ambrose,9,GLP,RW,23-225,14,0,0,0,0,1,1,0,0,9,0,0,0,0.0,0.0,0.0,0,0,4,6,66.7,1,6,1,1,0,Metz,2020-11-08 Metz-Dijon,FRA-L1,20-21,3262d1d8
+a0791826,Farid Boulaya,10,ALG,AM,27-257,90,0,0,0,0,3,0,0,0,53,0,0,1,0.1,0.1,0.7,9,0,37,47,78.7,10,39,6,4,4,Metz,2020-11-08 Metz-Dijon,FRA-L1,20-21,3262d1d8
+4c4ffacc,Mamadou Fofana,6,MLI,DM,22-292,90,0,0,0,0,1,0,0,0,45,2,0,0,0.3,0.3,0.0,2,0,37,41,90.2,7,33,1,0,0,Metz,2020-11-08 Metz-Dijon,FRA-L1,20-21,3262d1d8
+e768de1f,Habib Maïga,19,CIV,DM,24-312,90,0,0,0,0,0,0,0,0,40,4,2,0,0.0,0.0,0.1,1,0,24,35,68.6,5,29,2,1,1,Metz,2020-11-08 Metz-Dijon,FRA-L1,20-21,3262d1d8
+8332db56,Thomas Delaine,17,FRA,LB,28-229,90,0,0,0,0,1,0,1,0,53,3,0,2,0.0,0.0,0.0,1,0,30,42,71.4,6,35,8,0,0,Metz,2020-11-08 Metz-Dijon,FRA-L1,20-21,3262d1d8
+861227d2,John Boye,21,GHA,CB,33-199,90,0,0,0,0,2,0,0,0,57,1,1,1,0.4,0.4,0.0,1,0,46,47,97.9,2,42,0,0,0,Metz,2020-11-08 Metz-Dijon,FRA-L1,20-21,3262d1d8
+edd81e2a,Dylan Bronn,2,TUN,CB,25-142,90,0,0,0,0,1,0,0,0,65,0,1,0,0.1,0.1,0.0,3,0,54,59,91.5,4,54,1,0,0,Metz,2020-11-08 Metz-Dijon,FRA-L1,20-21,3262d1d8
+3c6bbbab,Fabien Centonze,18,FRA,RB,24-297,90,0,0,0,0,1,0,0,0,73,1,1,1,0.0,0.0,0.1,4,1,44,58,75.9,6,41,3,2,0,Metz,2020-11-08 Metz-Dijon,FRA-L1,20-21,3262d1d8
+ae7d0ecd,Alexandre Oukidja,16,ALG,GK,32-112,90,0,0,0,0,0,0,0,0,35,0,0,0,0.0,0.0,0.0,1,0,27,31,87.1,0,24,0,0,0,Metz,2020-11-08 Metz-Dijon,FRA-L1,20-21,3262d1d8
+fb14aa28,Mama Samba Baldé,17,GNB,FW,25-002,81,1,0,0,0,3,1,0,0,42,1,0,0,0.6,0.6,0.1,3,0,15,27,55.6,1,30,1,2,0,Dijon,2020-11-08 Metz-Dijon,FRA-L1,20-21,3262d1d8
+873ce3a2,Pape Cheikh Diop,6,SEN,FW,23-092,9,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,1,0,3,3,100.0,1,3,0,0,0,Dijon,2020-11-08 Metz-Dijon,FRA-L1,20-21,3262d1d8
+45c1c326,Mounir Chouiar,21,FRA,LW,21-290,90,0,1,0,1,4,2,1,0,54,2,0,0,1.1,0.3,0.6,11,1,34,40,85.0,2,34,3,7,3,Dijon,2020-11-08 Metz-Dijon,FRA-L1,20-21,3262d1d8
+5d5219b1,Roger Assalé,15,CIV,RW,26-361,62,0,0,0,0,1,1,0,0,24,0,0,1,0.0,0.0,0.0,1,1,13,18,72.2,0,17,3,1,1,Dijon,2020-11-08 Metz-Dijon,FRA-L1,20-21,3262d1d8
+fcbcbd94,Moussa Konaté,11,SEN,RW,27-219,28,0,0,0,0,3,0,0,0,14,0,1,0,0.2,0.2,0.0,1,0,8,10,80.0,1,8,0,0,0,Dijon,2020-11-08 Metz-Dijon,FRA-L1,20-21,3262d1d8
+3043d33f,Bersant Celina,9,KVX,AM,24-060,90,0,0,0,0,1,1,0,0,34,0,0,0,0.0,0.0,0.2,2,0,24,32,75.0,6,25,5,1,1,Dijon,2020-11-08 Metz-Dijon,FRA-L1,20-21,3262d1d8
+6e5b5a45,Wesley Lautoa,24,NCL,DM,33-075,90,0,0,0,0,0,0,0,0,60,1,0,1,0.0,0.0,0.0,1,0,52,56,92.9,4,44,0,0,0,Dijon,2020-11-08 Metz-Dijon,FRA-L1,20-21,3262d1d8
+885b7aa7,Didier Ibrahim Ndong,22,GAB,DM,26-144,90,0,0,0,0,0,0,0,0,74,2,0,1,0.0,0.0,0.0,3,0,60,64,93.8,3,65,0,2,0,Dijon,2020-11-08 Metz-Dijon,FRA-L1,20-21,3262d1d8
+6c8ddd52,Sacha Boey,2,FRA,"LB,RB",20-056,90,0,0,0,0,1,0,0,0,54,3,1,2,0.0,0.0,0.1,1,0,31,41,75.6,1,22,1,3,3,Dijon,2020-11-08 Metz-Dijon,FRA-L1,20-21,3262d1d8
+67b7357e,Senou Coulibaly,5,MLI,CB,26-065,90,0,0,0,0,0,0,0,0,74,3,1,2,0.0,0.0,0.0,0,0,54,62,87.1,1,53,0,1,1,Dijon,2020-11-08 Metz-Dijon,FRA-L1,20-21,3262d1d8
+72a0fb65,Bruno Ecuele Manga,25,GAB,CB,32-115,90,0,0,0,0,1,1,0,0,78,0,0,3,0.1,0.1,0.0,0,0,63,69,91.3,3,63,1,0,0,Dijon,2020-11-08 Metz-Dijon,FRA-L1,20-21,3262d1d8
+edd1466a,Fouad Chafik,26,MAR,RB,34-023,67,0,0,0,0,0,0,0,0,42,2,2,0,0.0,0.0,0.0,0,0,24,34,70.6,1,30,0,1,1,Dijon,2020-11-08 Metz-Dijon,FRA-L1,20-21,3262d1d8
+b748968d,Muzinga Ngonda,3,COD,LB,25-313,23,0,0,0,0,0,0,0,0,18,0,0,0,0.0,0.0,0.0,1,0,11,17,64.7,0,13,0,0,0,Dijon,2020-11-08 Metz-Dijon,FRA-L1,20-21,3262d1d8
+abc06eb3,Anthony Racioppi,1,SUI,GK,21-313,90,0,0,0,0,0,0,0,0,50,0,0,0,0.0,0.0,0.0,0,0,38,47,80.9,0,32,0,0,0,Dijon,2020-11-08 Metz-Dijon,FRA-L1,20-21,3262d1d8

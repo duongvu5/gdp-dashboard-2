@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+f83c8d6c,Jimmy Briand,23,FRA,FW,32-140,90,1,0,0,0,4,1,1,0,33,0,0,0,1.0,1.0,0.0,0,0,19,23,82.6,3,16,1,0,0,Guingamp,2017-12-20 Guingamp-Saint-Étienne,FRA-L1,17-18,43ebed63
+3010aefb,Marcus Coco,24,FRA,LW,21-179,79,0,0,0,0,4,0,0,0,43,0,0,0,0.2,0.2,0.4,11,0,32,36,88.9,3,32,3,3,3,Guingamp,2017-12-20 Guingamp-Saint-Étienne,FRA-L1,17-18,43ebed63
+6f8cd6d0,Marcus Thuram,21,FRA,LW,20-136,11,0,0,0,0,1,0,0,0,6,0,0,0,0.0,0.0,0.0,1,0,4,5,80.0,1,6,2,1,1,Guingamp,2017-12-20 Guingamp-Saint-Étienne,FRA-L1,17-18,43ebed63
+bb4a42be,Yannis Salibur,19,FRA,RW,26-330,90,0,0,0,0,4,0,0,0,75,0,0,0,0.2,0.2,0.3,8,0,52,68,76.5,2,54,5,2,0,Guingamp,2017-12-20 Guingamp-Saint-Étienne,FRA-L1,17-18,43ebed63
+6191093d,Ludovic Blas,7,FRA,"AM,DM",19-354,90,0,0,0,0,3,1,0,0,85,0,1,1,0.2,0.2,0.1,4,0,72,76,94.7,12,57,2,3,1,Guingamp,2017-12-20 Guingamp-Saint-Étienne,FRA-L1,17-18,43ebed63
+44f8c299,Lucas Deaux,8,FRA,DM,28-359,45,0,0,0,0,0,0,1,0,49,1,1,0,0.0,0.0,0.0,3,0,39,44,88.6,6,28,1,1,0,Guingamp,2017-12-20 Guingamp-Saint-Étienne,FRA-L1,17-18,43ebed63
+30395d3b,Nicolas Benezet,10,FRA,"DM,AM",26-299,45,1,0,0,0,2,2,1,0,56,0,0,0,0.1,0.1,0.1,5,2,41,51,80.4,10,28,2,3,3,Guingamp,2017-12-20 Guingamp-Saint-Étienne,FRA-L1,17-18,43ebed63
+6c6ecdd4,Mustapha Diallo,5,SEN,DM,31-220,90,0,0,0,0,5,1,0,0,80,4,1,0,0.5,0.5,0.1,1,0,62,70,88.6,6,37,2,1,1,Guingamp,2017-12-20 Guingamp-Saint-Étienne,FRA-L1,17-18,43ebed63
+15e1afd5,Franck Tabanou,27,FRA,LB,28-324,90,0,0,0,0,1,0,0,0,93,2,1,0,0.0,0.0,0.0,7,0,68,87,78.2,10,51,4,1,0,Guingamp,2017-12-20 Guingamp-Saint-Étienne,FRA-L1,17-18,43ebed63
+7768df30,Jérémy Sorbon,15,FRA,CB,34-137,90,0,0,0,0,0,0,0,0,73,1,2,1,0.0,0.0,0.0,0,0,67,70,95.7,6,39,1,0,0,Guingamp,2017-12-20 Guingamp-Saint-Étienne,FRA-L1,17-18,43ebed63
+0515a4cb,Christophe Kerbrat,29,FRA,CB,31-140,90,0,0,0,0,1,0,0,0,94,1,1,0,0.0,0.0,0.0,3,0,84,89,94.4,11,58,2,0,0,Guingamp,2017-12-20 Guingamp-Saint-Étienne,FRA-L1,17-18,43ebed63
+b51242ef,Jonathan Martins Pereira,22,FRA,RB,31-324,34,0,0,0,0,1,1,0,0,36,0,0,1,0.0,0.0,0.1,2,0,20,30,66.7,0,17,1,0,0,Guingamp,2017-12-20 Guingamp-Saint-Étienne,FRA-L1,17-18,43ebed63
+8ff4872e,Jordan Ikoko,2,COD,RB,23-320,56,0,0,0,0,2,1,0,0,38,0,1,0,0.1,0.1,0.1,2,0,33,35,94.3,6,19,3,0,0,Guingamp,2017-12-20 Guingamp-Saint-Étienne,FRA-L1,17-18,43ebed63
+a56bd2ee,Karl-Johan Johnsson,1,SWE,GK,27-326,90,0,0,0,0,0,0,0,0,13,0,0,0,0.0,0.0,0.0,0,0,12,13,92.3,0,9,0,0,0,Guingamp,2017-12-20 Guingamp-Saint-Étienne,FRA-L1,17-18,43ebed63
+e61d33f1,Alexander Søderlund,23,NOR,FW,30-139,23,0,0,0,0,0,0,0,1,5,0,0,0,0.0,0.0,0.0,0,0,2,5,40.0,0,0,0,0,0,Saint-Étienne,2017-12-20 Guingamp-Saint-Étienne,FRA-L1,17-18,43ebed63
+148e136f,Rémy Cabella,10,FRA,"FW,LW,CM",27-287,90,0,1,0,0,0,0,0,0,29,3,1,0,0.0,0.0,0.3,2,1,13,21,61.9,3,14,4,1,0,Saint-Étienne,2017-12-20 Guingamp-Saint-Étienne,FRA-L1,17-18,43ebed63
+4be0b467,Lois Diony,9,FRA,"RW,FW",25-000,45,0,0,0,0,0,0,0,0,10,0,1,0,0.0,0.0,0.0,0,0,1,5,20.0,1,3,0,1,0,Saint-Étienne,2017-12-20 Guingamp-Saint-Étienne,FRA-L1,17-18,43ebed63
+689c9cf4,Saidy Janko,15,GAM,"RB,FW",22-059,45,0,0,0,0,0,0,0,0,21,1,0,1,0.0,0.0,0.0,0,0,8,15,53.3,0,4,1,0,0,Saint-Étienne,2017-12-20 Guingamp-Saint-Étienne,FRA-L1,17-18,43ebed63
+7f622eef,Assane Dioussé,8,SEN,"CM,LM",20-091,54,0,0,0,0,1,1,0,0,16,1,1,0,0.0,0.0,0.0,0,0,9,12,75.0,0,3,0,0,0,Saint-Étienne,2017-12-20 Guingamp-Saint-Étienne,FRA-L1,17-18,43ebed63
+6f5ead86,Hernani,20,BRA,CM,23-268,36,1,0,0,0,1,1,0,0,10,2,0,0,0.3,0.3,0.0,0,0,5,5,100.0,2,6,0,2,1,Saint-Étienne,2017-12-20 Guingamp-Saint-Étienne,FRA-L1,17-18,43ebed63
+f86ca403,Vincent Pajot,5,FRA,CM,27-123,89,0,0,0,0,1,1,0,0,29,2,2,1,0.0,0.0,0.0,1,1,6,17,35.3,2,3,0,0,0,Saint-Étienne,2017-12-20 Guingamp-Saint-Étienne,FRA-L1,17-18,43ebed63
+e768de1f,Habib Maïga,13,CIV,CM,21-353,1,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,0,0,0,0,Saint-Étienne,2017-12-20 Guingamp-Saint-Étienne,FRA-L1,17-18,43ebed63
+c53083ad,Bryan Dabo,7,BFA,"CM,RM,RB",25-305,90,0,0,0,0,0,0,1,0,27,3,0,0,0.0,0.0,0.0,1,0,9,16,56.3,0,10,0,2,1,Saint-Étienne,2017-12-20 Guingamp-Saint-Étienne,FRA-L1,17-18,43ebed63
+88fdac8b,Cheikh M'Bengue,12,SEN,"LB,CB",29-150,90,0,0,0,0,0,0,1,0,24,1,2,0,0.0,0.0,0.0,0,0,10,19,52.6,1,7,0,1,1,Saint-Étienne,2017-12-20 Guingamp-Saint-Étienne,FRA-L1,17-18,43ebed63
+6b994195,Kévin Théophile-Catherine,2,FRA,CB,28-053,90,0,0,0,0,0,0,0,0,16,0,0,2,0.0,0.0,0.0,0,0,3,5,60.0,0,3,0,0,0,Saint-Étienne,2017-12-20 Guingamp-Saint-Étienne,FRA-L1,17-18,43ebed63
+5984e9f9,Léo Lacroix,4,SUI,CB,25-296,90,0,0,0,0,0,0,0,0,26,1,3,0,0.0,0.0,0.0,0,0,4,7,57.1,1,1,0,0,0,Saint-Étienne,2017-12-20 Guingamp-Saint-Étienne,FRA-L1,17-18,43ebed63
+4914ed4a,Gabriel Silva,11,BRA,"LB,CB,RB",26-221,90,0,0,0,0,0,0,0,0,17,1,2,1,0.0,0.0,0.0,0,0,4,9,44.4,1,6,0,0,0,Saint-Étienne,2017-12-20 Guingamp-Saint-Étienne,FRA-L1,17-18,43ebed63
+28a65a2c,Jessy Moulin,30,FRA,GK,31-341,90,0,0,0,0,0,0,0,0,47,0,0,0,0.0,0.0,0.0,0,0,16,42,38.1,0,13,0,0,0,Saint-Étienne,2017-12-20 Guingamp-Saint-Étienne,FRA-L1,17-18,43ebed63

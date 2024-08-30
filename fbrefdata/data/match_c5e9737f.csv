@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+4431aed2,Ciro Immobile,17,ITA,FW,31-020,75,0,1,0,0,6,1,0,0,28,0,0,0,0.5,0.5,0.2,3,0,12,20,60.0,0,17,2,1,1,Lazio,2021-03-12 Lazio-Crotone,ITA-SERIA_A,20-21,c5e9737f
+0cadc46d,Vedat Muriqi,94,KVX,FW,26-322,15,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,4,0,1,0,Lazio,2021-03-12 Lazio-Crotone,ITA-SERIA_A,20-21,c5e9737f
+45b9b619,Joaquín Correa,11,ARG,FW,26-211,75,0,0,0,0,3,0,0,0,37,2,0,0,0.1,0.1,0.0,5,0,23,26,88.5,4,29,2,3,2,Lazio,2021-03-12 Lazio-Crotone,ITA-SERIA_A,20-21,c5e9737f
+93b891d1,Felipe Caicedo,20,ECU,FW,32-188,15,1,0,0,0,1,1,0,0,10,0,0,0,0.3,0.3,0.2,2,0,4,6,66.7,0,3,0,2,1,Lazio,2021-03-12 Lazio-Crotone,ITA-SERIA_A,20-21,c5e9737f
+5294a83f,Luis Alberto,10,ESP,"CM,LM",28-165,90,1,0,0,0,6,2,0,0,99,2,0,3,0.4,0.4,1.1,10,0,69,84,82.1,15,64,7,2,2,Lazio,2021-03-12 Lazio-Crotone,ITA-SERIA_A,20-21,c5e9737f
+4c78b5ed,Lucas Leiva,6,BRA,CM,34-062,69,0,0,0,0,2,0,0,0,73,4,1,0,0.1,0.1,0.0,2,0,59,63,93.7,9,51,1,0,0,Lazio,2021-03-12 Lazio-Crotone,ITA-SERIA_A,20-21,c5e9737f
+3f79a1c8,Gonzalo Escalante,18,ARG,CM,27-350,21,0,1,0,0,1,0,0,0,24,1,1,1,0.0,0.0,0.3,1,1,16,19,84.2,1,16,2,1,1,Lazio,2021-03-12 Lazio-Crotone,ITA-SERIA_A,20-21,c5e9737f
+4e6dbac4,Sergej Milinković-Savić,21,SRB,"CM,RM",26-013,90,1,0,0,0,3,2,0,0,91,2,0,0,1.0,1.0,0.0,3,0,58,76,76.3,5,60,2,1,0,Lazio,2021-03-12 Lazio-Crotone,ITA-SERIA_A,20-21,c5e9737f
+b7a5bc86,Mohamed Fares,96,ALG,WB,25-025,69,0,0,0,0,0,0,0,0,34,1,1,1,0.0,0.0,0.1,4,0,23,25,92.0,1,16,0,0,0,Lazio,2021-03-12 Lazio-Crotone,ITA-SERIA_A,20-21,c5e9737f
+7fd58fe3,Senad Lulić,19,BIH,"WB,LB",35-053,21,0,0,0,0,0,0,0,0,21,0,1,1,0.0,0.0,0.0,0,0,11,18,61.1,1,7,0,0,0,Lazio,2021-03-12 Lazio-Crotone,ITA-SERIA_A,20-21,c5e9737f
+d4535821,Adam Marušić,77,MNE,"WB,RB",28-146,90,0,0,0,0,1,0,0,0,43,0,2,0,0.0,0.0,0.1,2,0,34,39,87.2,0,23,0,0,0,Lazio,2021-03-12 Lazio-Crotone,ITA-SERIA_A,20-21,c5e9737f
+53de807a,Ștefan Radu,26,ROU,CB,34-141,83,0,1,0,0,0,0,0,0,84,0,0,0,0.0,0.0,0.3,8,2,64,81,79.0,7,62,4,1,1,Lazio,2021-03-12 Lazio-Crotone,ITA-SERIA_A,20-21,c5e9737f
+6639e500,Andreas Pereira,7,BRA,AM,25-070,7,0,0,0,0,1,0,0,0,6,0,0,0,0.1,0.1,0.0,1,0,1,4,25.0,0,3,0,0,0,Lazio,2021-03-12 Lazio-Crotone,ITA-SERIA_A,20-21,c5e9737f
+b96b595c,Francesco Acerbi,33,ITA,CB,33-030,90,0,0,0,0,1,0,0,0,90,0,2,0,0.1,0.1,0.1,3,1,81,85,95.3,10,64,3,0,0,Lazio,2021-03-12 Lazio-Crotone,ITA-SERIA_A,20-21,c5e9737f
+f7223718,Patric,4,ESP,CB,27-329,90,0,0,0,0,0,0,0,0,92,3,0,0,0.0,0.0,0.0,2,1,76,85,89.4,6,66,3,0,0,Lazio,2021-03-12 Lazio-Crotone,ITA-SERIA_A,20-21,c5e9737f
+e358587b,Pepe Reina,25,ESP,GK,38-193,90,0,0,0,0,0,0,0,0,22,0,0,0,0.0,0.0,0.0,0,0,17,20,85.0,0,15,0,0,0,Lazio,2021-03-12 Lazio-Crotone,ITA-SERIA_A,20-21,c5e9737f
+80dbbd10,Simeon Nwankwo,25,NGA,FW,28-309,90,2,0,1,1,1,1,0,0,34,1,1,0,0.8,0.0,0.0,1,1,14,22,63.6,1,20,1,1,1,Crotone,2021-03-12 Lazio-Crotone,ITA-SERIA_A,20-21,c5e9737f
+ed90babd,Adam Ounas,7,ALG,FW,24-121,90,0,0,0,0,0,0,0,0,34,0,0,1,0.0,0.0,0.3,1,0,22,27,81.5,2,24,1,8,6,Crotone,2021-03-12 Lazio-Crotone,ITA-SERIA_A,20-21,c5e9737f
+54ab971f,Salvatore Molina,17,ITA,"CM,WB",29-070,90,0,0,0,0,0,0,0,0,51,2,1,0,0.0,0.0,0.0,1,0,34,46,73.9,4,35,0,1,1,Crotone,2021-03-12 Lazio-Crotone,ITA-SERIA_A,20-21,c5e9737f
+909bce7f,Jacopo Petriccione,44,ITA,CM,26-018,87,0,0,0,0,0,0,1,0,34,1,1,0,0.0,0.0,0.0,0,0,28,30,93.3,1,28,0,0,0,Crotone,2021-03-12 Lazio-Crotone,ITA-SERIA_A,20-21,c5e9737f
+ef94dc2f,Samuel Di Carmine,54,ITA,CM,32-164,3,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,0,0,Crotone,2021-03-12 Lazio-Crotone,ITA-SERIA_A,20-21,c5e9737f
+f49c4ae9,Junior Messias,30,BRA,CM,29-303,90,0,0,0,0,1,0,0,0,50,1,2,2,0.0,0.0,0.1,3,2,26,34,76.5,6,33,7,6,4,Crotone,2021-03-12 Lazio-Crotone,ITA-SERIA_A,20-21,c5e9737f
+6213fd82,Arkadiusz Reca,69,POL,WB,25-268,64,0,0,0,0,0,0,0,0,34,0,0,1,0.0,0.0,0.1,1,0,18,24,75.0,0,22,2,0,0,Crotone,2021-03-12 Lazio-Crotone,ITA-SERIA_A,20-21,c5e9737f
+39ee6cb6,Andrea Rispoli,33,ITA,WB,32-164,26,0,0,0,0,1,1,1,0,20,0,0,3,0.3,0.3,0.0,0,0,5,13,38.5,0,8,2,0,0,Crotone,2021-03-12 Lazio-Crotone,ITA-SERIA_A,20-21,c5e9737f
+c77be0cf,Pedro Pereira,32,POR,WB,23-049,69,0,0,0,0,1,0,0,0,20,1,2,1,0.1,0.1,0.0,1,0,5,10,50.0,0,9,0,0,0,Crotone,2021-03-12 Lazio-Crotone,ITA-SERIA_A,20-21,c5e9737f
+a128b07e,Ahmad Benali,10,LBY,CM,29-033,21,0,0,0,0,0,0,0,0,3,0,1,0,0.0,0.0,0.0,1,0,2,2,100.0,0,0,0,0,0,Crotone,2021-03-12 Lazio-Crotone,ITA-SERIA_A,20-21,c5e9737f
+997fff07,Sebastiano Luperto,13,ITA,CB,24-187,90,0,0,0,0,0,0,0,0,50,0,2,0,0.0,0.0,0.0,1,0,32,40,80.0,4,29,1,0,0,Crotone,2021-03-12 Lazio-Crotone,ITA-SERIA_A,20-21,c5e9737f
+1db295e5,Vladimir Golemić,5,SVN,CB,29-257,90,0,0,0,0,0,0,0,0,51,1,0,2,0.0,0.0,0.0,1,0,37,44,84.1,0,33,0,1,1,Crotone,2021-03-12 Lazio-Crotone,ITA-SERIA_A,20-21,c5e9737f
+01a49bd2,Lisandro Magallán,6,ARG,CB,27-166,45,0,1,0,0,0,0,0,0,30,0,0,2,0.0,0.0,0.0,1,1,23,28,82.1,3,23,0,0,0,Crotone,2021-03-12 Lazio-Crotone,ITA-SERIA_A,20-21,c5e9737f
+933d3b51,Koffi Djidji,26,CIV,CB,28-102,45,0,0,0,0,1,0,1,0,24,1,3,1,0.1,0.1,0.0,0,0,10,14,71.4,0,13,0,2,2,Crotone,2021-03-12 Lazio-Crotone,ITA-SERIA_A,20-21,c5e9737f
+e66ebabb,Alex Cordaz,1,ITA,GK,38-070,90,0,0,0,0,0,0,0,0,44,0,0,0,0.0,0.0,0.0,0,0,22,40,55.0,0,22,0,0,0,Crotone,2021-03-12 Lazio-Crotone,ITA-SERIA_A,20-21,c5e9737f

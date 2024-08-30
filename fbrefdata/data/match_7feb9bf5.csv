@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+42fd9c7f,Kylian Mbappé,7,FRA,"FW,RW",21-287,90,1,1,0,0,4,3,0,0,64,0,0,0,0.5,0.5,0.6,8,2,42,49,85.7,3,45,7,8,5,Paris Saint-Germain,2020-10-02 Paris S-G-Angers,FRA-L1,20-21,7feb9bf5
+43b78598,Mauro Icardi,9,ARG,FW,27-226,90,0,0,0,0,2,0,0,0,16,0,1,1,0.3,0.3,0.1,2,0,9,11,81.8,1,11,0,0,0,Paris Saint-Germain,2020-10-02 Paris S-G-Angers,FRA-L1,20-21,7feb9bf5
+69384e5d,Neymar,10,BRA,"LM,LW",28-240,90,2,1,0,0,5,3,0,0,104,2,0,1,0.9,0.9,0.4,8,4,65,85,76.5,10,82,6,14,7,Paris Saint-Germain,2020-10-02 Paris S-G-Angers,FRA-L1,20-21,7feb9bf5
+1467af0d,Marco Verratti,6,ITA,"CM,DM",27-332,81,0,0,0,0,1,1,0,0,157,2,2,2,0.0,0.0,0.1,4,1,139,146,95.2,15,114,4,2,2,Paris Saint-Germain,2020-10-02 Paris S-G-Angers,FRA-L1,20-21,7feb9bf5
+9744ff80,Pablo Sarabia,19,ESP,DM,28-144,9,0,1,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.3,1,1,5,5,100.0,2,3,0,0,0,Paris Saint-Germain,2020-10-02 Paris S-G-Angers,FRA-L1,20-21,7feb9bf5
+dff153a4,Leandro Paredes,8,ARG,CM,26-095,63,0,0,0,0,1,0,0,0,86,2,2,2,0.0,0.0,0.0,0,0,69,76,90.8,3,62,3,0,0,Paris Saint-Germain,2020-10-02 Paris S-G-Angers,FRA-L1,20-21,7feb9bf5
+436a9dd0,Ander Herrera,21,ESP,"DM,CM",31-049,27,0,0,0,0,0,0,0,0,20,0,0,1,0.0,0.0,0.0,1,0,17,17,100.0,1,18,0,0,0,Paris Saint-Germain,2020-10-02 Paris S-G-Angers,FRA-L1,20-21,7feb9bf5
+1a992676,Julian Draxler,23,GER,RM,27-012,63,1,0,0,0,1,1,0,0,45,4,1,0,0.3,0.3,0.0,2,1,32,35,91.4,3,22,5,3,2,Paris Saint-Germain,2020-10-02 Paris S-G-Angers,FRA-L1,20-21,7feb9bf5
+72c812f3,Idrissa Gana Gueye,27,SEN,"AM,RM",31-006,27,1,0,0,0,1,1,0,0,30,3,0,0,0.0,0.0,0.0,3,1,25,26,96.2,3,24,1,2,2,Paris Saint-Germain,2020-10-02 Paris S-G-Angers,FRA-L1,20-21,7feb9bf5
+a8567629,Mitchel Bakker,25,NED,LB,20-104,90,0,1,0,0,0,0,0,0,60,4,1,1,0.0,0.0,0.3,3,1,48,53,90.6,6,42,0,0,0,Paris Saint-Germain,2020-10-02 Paris S-G-Angers,FRA-L1,20-21,7feb9bf5
+aef6e670,Presnel Kimpembe,3,FRA,CB,25-050,71,0,0,0,0,0,0,1,0,66,3,2,2,0.0,0.0,0.0,1,1,52,56,92.9,3,42,0,0,0,Paris Saint-Germain,2020-10-02 Paris S-G-Angers,FRA-L1,20-21,7feb9bf5
+fc62f087,Abdou Diallo,22,SEN,CB,24-151,19,0,0,0,0,0,0,0,0,11,1,1,0,0.0,0.0,0.0,0,0,8,8,100.0,0,7,0,0,0,Paris Saint-Germain,2020-10-02 Paris S-G-Angers,FRA-L1,20-21,7feb9bf5
+d5f2f82b,Marquinhos,5,BRA,CB,26-141,90,0,0,0,0,1,1,0,0,50,0,1,0,0.1,0.1,0.0,0,0,42,44,95.5,1,38,1,0,0,Paris Saint-Germain,2020-10-02 Paris S-G-Angers,FRA-L1,20-21,7feb9bf5
+e288d4b3,Alessandro Florenzi,24,ITA,RB,29-205,71,1,0,0,0,2,2,0,0,38,0,0,1,0.3,0.3,0.0,0,0,28,34,82.4,0,24,1,2,2,Paris Saint-Germain,2020-10-02 Paris S-G-Angers,FRA-L1,20-21,7feb9bf5
+29c02c9f,Colin Dagba,31,FRA,RB,22-023,19,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.1,1,0,5,6,83.3,1,4,0,0,0,Paris Saint-Germain,2020-10-02 Paris S-G-Angers,FRA-L1,20-21,7feb9bf5
+ecada4fc,Keylor Navas,1,CRC,GK,33-292,90,0,0,0,0,0,0,0,0,21,0,0,0,0.0,0.0,0.0,0,0,20,21,95.2,0,9,0,0,0,Paris Saint-Germain,2020-10-02 Paris S-G-Angers,FRA-L1,20-21,7feb9bf5
+5046b7d4,Stéphane Bahoken,19,CMR,FW,28-127,67,0,0,0,0,2,1,1,0,33,0,1,1,0.6,0.6,0.0,0,0,19,24,79.2,1,11,0,2,1,Angers,2020-10-02 Paris S-G-Angers,FRA-L1,20-21,7feb9bf5
+4be0b467,Lois Diony,9,FRA,FW,27-287,23,0,0,0,0,0,0,0,0,8,1,0,0,0.0,0.0,0.0,0,0,4,5,80.0,1,3,0,1,0,Angers,2020-10-02 Paris S-G-Angers,FRA-L1,20-21,7feb9bf5
+4b96c347,Angelo Fulgini,10,FRA,LM,24-043,90,0,0,0,0,1,0,0,0,74,1,0,1,0.0,0.0,0.4,4,1,56,66,84.8,7,47,3,3,2,Angers,2020-10-02 Paris S-G-Angers,FRA-L1,20-21,7feb9bf5
+79b2399c,Pierrick Capelle,15,FRA,CM,33-170,76,0,1,0,0,2,0,0,0,72,4,2,0,0.1,0.1,0.3,2,1,54,62,87.1,5,32,1,0,0,Angers,2020-10-02 Paris S-G-Angers,FRA-L1,20-21,7feb9bf5
+c801616a,Thomas Mangani,5,FRA,CM,33-156,14,0,0,0,0,0,0,0,0,17,0,1,0,0.0,0.0,0.0,0,0,16,16,100.0,1,7,0,1,0,Angers,2020-10-02 Paris S-G-Angers,FRA-L1,20-21,7feb9bf5
+85a44ecc,Lassana Coulibaly,14,MLI,CM,24-175,90,0,0,0,0,0,0,0,0,50,8,1,0,0.0,0.0,0.0,0,0,40,43,93.0,3,28,1,0,0,Angers,2020-10-02 Paris S-G-Angers,FRA-L1,20-21,7feb9bf5
+f4bc42b1,Sada Thioub,22,SEN,RM,25-123,67,0,0,0,0,1,0,0,0,42,1,0,0,0.0,0.0,0.0,4,0,31,36,86.1,3,26,2,2,2,Angers,2020-10-02 Paris S-G-Angers,FRA-L1,20-21,7feb9bf5
+46359159,Jimmy Cabot,11,FRA,RM,26-167,23,0,0,0,0,0,0,1,0,16,0,0,0,0.0,0.0,0.0,0,0,9,12,75.0,0,10,2,2,0,Angers,2020-10-02 Paris S-G-Angers,FRA-L1,20-21,7feb9bf5
+9b398aea,Rayan Aït-Nouri,2,ALG,LB,19-118,81,0,0,0,0,0,0,0,0,71,0,0,0,0.0,0.0,0.1,4,0,60,64,93.8,6,44,3,6,5,Angers,2020-10-02 Paris S-G-Angers,FRA-L1,20-21,7feb9bf5
+f8405304,Mohamed Ali Cho,21,FRA,LB,16-257,9,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,2,0,0,0,Angers,2020-10-02 Paris S-G-Angers,FRA-L1,20-21,7feb9bf5
+9ba7b4fa,Enzo Ebosse,6,CMR,CB,21-205,90,0,0,0,0,0,0,0,0,50,1,0,1,0.0,0.0,0.0,0,0,39,43,90.7,2,20,0,0,0,Angers,2020-10-02 Paris S-G-Angers,FRA-L1,20-21,7feb9bf5
+450e277f,Mateo Pavlović,4,BIH,CB,30-115,90,0,0,0,0,1,0,0,0,38,1,1,2,0.1,0.1,0.0,1,0,30,31,96.8,1,22,0,0,0,Angers,2020-10-02 Paris S-G-Angers,FRA-L1,20-21,7feb9bf5
+b666421b,Ismaël Traoré,8,CIV,CB,34-045,90,1,0,0,0,1,1,0,0,40,0,0,1,0.2,0.2,0.0,0,0,30,34,88.2,0,19,0,1,1,Angers,2020-10-02 Paris S-G-Angers,FRA-L1,20-21,7feb9bf5
+7fecbcdb,Abdoulaye Bamba,25,CIV,RB,30-160,76,0,0,0,0,0,0,0,0,47,2,3,1,0.0,0.0,0.2,1,0,28,39,71.8,2,17,1,0,0,Angers,2020-10-02 Paris S-G-Angers,FRA-L1,20-21,7feb9bf5
+c26a3918,Vincent Manceau,29,FRA,RB,31-084,14,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,5,7,71.4,0,3,0,0,0,Angers,2020-10-02 Paris S-G-Angers,FRA-L1,20-21,7feb9bf5
+28dabd43,Paul Bernardoni,1,FRA,GK,23-167,90,0,0,0,0,0,0,0,0,28,0,1,0,0.0,0.0,0.0,0,0,16,24,66.7,0,10,0,0,0,Angers,2020-10-02 Paris S-G-Angers,FRA-L1,20-21,7feb9bf5

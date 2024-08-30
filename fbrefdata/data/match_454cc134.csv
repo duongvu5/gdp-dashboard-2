@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+9efa1d25,Mario Götze,10,GER,FW,27-117,71,1,0,0,0,3,2,0,0,58,2,0,1,0.5,0.5,0.4,2,0,39,46,84.8,4,25,2,3,0,Dortmund,2019-09-28 Dortmund-Werder Bremen,GER-BL1,19-20,454cc134
+a7a9d95a,Paco Alcácer,9,ESP,FW,26-029,19,0,0,0,0,1,0,0,0,2,0,1,0,0.1,0.1,0.0,0,0,0,0,,0,0,0,0,0,Dortmund,2019-09-28 Dortmund-Werder Bremen,GER-BL1,19-20,454cc134
+50871bcc,Thorgan Hazard,23,BEL,"LW,RW",26-183,90,0,1,0,0,4,1,0,0,83,1,0,1,0.2,0.2,0.1,5,1,51,73,69.9,4,40,8,1,1,Dortmund,2019-09-28 Dortmund-Werder Bremen,GER-BL1,19-20,454cc134
+dbf053da,Jadon Sancho,7,ENG,RW,19-187,79,0,0,0,0,1,1,0,0,80,1,1,1,0.0,0.0,0.1,5,0,58,67,86.6,7,45,2,6,3,Dortmund,2019-09-28 Dortmund-Werder Bremen,GER-BL1,19-20,454cc134
+048a1cbc,Raphaël Guerreiro,13,POR,"LW,RW",25-280,11,0,0,0,0,0,0,0,0,13,0,0,1,0.0,0.0,0.0,0,0,7,11,63.6,1,7,0,0,0,Dortmund,2019-09-28 Dortmund-Werder Bremen,GER-BL1,19-20,454cc134
+36a3ff67,Marco Reus,11,GER,AM,30-120,90,1,0,0,0,2,1,0,0,61,1,0,0,0.1,0.1,0.0,1,0,39,49,79.6,5,36,8,2,0,Dortmund,2019-09-28 Dortmund-Werder Bremen,GER-BL1,19-20,454cc134
+5dfc6ad5,Axel Witsel,28,BEL,DM,30-259,90,0,0,0,0,0,0,0,0,81,0,1,1,0.0,0.0,0.0,1,1,73,78,93.6,9,53,0,1,1,Dortmund,2019-09-28 Dortmund-Werder Bremen,GER-BL1,19-20,454cc134
+db4ed67b,Mahmoud Dahoud,8,GER,DM,23-270,66,0,0,0,0,3,1,0,0,74,1,0,1,0.5,0.5,0.1,3,0,56,58,96.6,6,47,1,1,0,Dortmund,2019-09-28 Dortmund-Werder Bremen,GER-BL1,19-20,454cc134
+a167537f,Julian Brandt,19,GER,DM,23-149,24,0,0,0,0,1,0,0,0,31,0,0,0,0.0,0.0,0.2,3,0,22,29,75.9,3,21,2,3,2,Dortmund,2019-09-28 Dortmund-Werder Bremen,GER-BL1,19-20,454cc134
+e42d61c7,Achraf Hakimi,5,MAR,LB,20-328,90,0,0,0,0,1,1,0,0,138,1,1,1,0.0,0.0,0.1,5,1,117,127,92.1,16,90,8,6,6,Dortmund,2019-09-28 Dortmund-Werder Bremen,GER-BL1,19-20,454cc134
+89ac64a6,Manuel Akanji,16,SUI,CB,24-071,90,0,0,0,0,0,0,0,0,89,3,0,0,0.0,0.0,0.0,0,0,83,85,97.6,4,56,0,0,0,Dortmund,2019-09-28 Dortmund-Werder Bremen,GER-BL1,19-20,454cc134
+346d51d9,Julian Weigl,33,GER,CB,24-020,90,0,0,0,0,1,0,1,0,85,1,0,0,0.0,0.0,0.0,0,0,74,80,92.5,1,51,0,0,0,Dortmund,2019-09-28 Dortmund-Werder Bremen,GER-BL1,19-20,454cc134
+fe2db476,Łukasz Piszczek,26,POL,RB,34-117,90,0,1,0,0,1,0,0,0,111,3,0,4,0.0,0.0,0.5,2,1,73,95,76.8,7,57,4,1,1,Dortmund,2019-09-28 Dortmund-Werder Bremen,GER-BL1,19-20,454cc134
+9d12e142,Roman Bürki,1,SUI,GK,28-318,90,0,0,0,0,0,0,0,0,23,0,0,0,0.0,0.0,0.0,0,0,18,20,90.0,0,7,0,0,0,Dortmund,2019-09-28 Dortmund-Werder Bremen,GER-BL1,19-20,454cc134
+a8d4428b,Josh Sargent,19,USA,FW,19-220,87,0,1,0,0,3,1,0,0,26,0,1,1,0.2,0.2,0.4,4,1,13,17,76.5,2,13,1,1,1,Werder Bremen,2019-09-28 Dortmund-Werder Bremen,GER-BL1,19-20,454cc134
+54b6ee79,Claudio Pizarro,14,PER,FW,40-360,3,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,1,0,1,1,100.0,0,2,0,0,0,Werder Bremen,2019-09-28 Dortmund-Werder Bremen,GER-BL1,19-20,454cc134
+15fd5593,Davy Klaassen,30,NED,LW,26-219,90,0,1,0,0,0,0,0,0,46,2,2,0,0.0,0.0,0.1,2,2,29,36,80.6,5,29,1,0,0,Werder Bremen,2019-09-28 Dortmund-Werder Bremen,GER-BL1,19-20,454cc134
+dc62fbee,Leonardo Bittencourt,10,GER,RW,25-283,81,0,0,0,0,1,1,0,0,40,4,0,0,0.0,0.0,0.0,1,0,19,27,70.4,2,31,1,2,1,Werder Bremen,2019-09-28 Dortmund-Werder Bremen,GER-BL1,19-20,454cc134
+d571df78,Johannes Eggestein,24,GER,RW,21-143,9,0,0,0,0,0,0,0,0,4,0,1,0,0.0,0.0,0.0,0,0,3,3,100.0,0,3,0,0,0,Werder Bremen,2019-09-28 Dortmund-Werder Bremen,GER-BL1,19-20,454cc134
+6c6a3300,Milot Rashica,7,KVX,AM,23-092,72,1,0,0,0,4,2,0,0,29,0,0,0,0.2,0.2,0.0,3,0,17,21,81.0,4,25,5,2,1,Werder Bremen,2019-09-28 Dortmund-Werder Bremen,GER-BL1,19-20,454cc134
+d5980989,Benjamin Goller,39,GER,AM,20-270,18,0,0,0,0,1,0,0,0,15,0,0,0,0.0,0.0,0.0,0,0,8,9,88.9,0,13,1,5,2,Werder Bremen,2019-09-28 Dortmund-Werder Bremen,GER-BL1,19-20,454cc134
+f4081572,Nuri Şahin,17,TUR,DM,31-023,90,0,0,0,0,1,0,0,0,69,0,4,0,0.0,0.0,0.1,4,0,45,58,77.6,3,44,1,2,1,Werder Bremen,2019-09-28 Dortmund-Werder Bremen,GER-BL1,19-20,454cc134
+beb882a8,Maximilian Eggestein,35,GER,DM,22-294,90,0,0,0,0,0,0,0,0,53,1,1,0,0.0,0.0,0.1,4,0,36,48,75.0,9,37,0,0,0,Werder Bremen,2019-09-28 Dortmund-Werder Bremen,GER-BL1,19-20,454cc134
+f86ad3f5,Marco Friedl,32,AUT,LB,21-196,90,1,0,0,0,1,1,0,0,57,3,0,3,0.3,0.3,0.0,1,0,36,43,83.7,1,31,0,1,0,Werder Bremen,2019-09-28 Dortmund-Werder Bremen,GER-BL1,19-20,454cc134
+14a7af33,Christian Groß,36,GER,CB,30-232,90,0,0,0,0,0,0,0,0,64,3,4,5,0.0,0.0,0.0,0,0,42,47,89.4,3,44,2,4,3,Werder Bremen,2019-09-28 Dortmund-Werder Bremen,GER-BL1,19-20,454cc134
+3f65898c,Theodor Gebre Selassie,23,CZE,CB,32-278,90,0,0,0,0,0,0,0,0,52,0,7,1,0.0,0.0,0.0,0,0,35,37,94.6,3,35,0,0,0,Werder Bremen,2019-09-28 Dortmund-Werder Bremen,GER-BL1,19-20,454cc134
+864db10a,Michael Lang,4,SUI,RB,28-232,90,0,0,0,0,0,0,0,0,61,3,1,2,0.0,0.0,0.0,1,0,36,43,83.7,2,30,2,1,1,Werder Bremen,2019-09-28 Dortmund-Werder Bremen,GER-BL1,19-20,454cc134
+0a1cb833,Jiří Pavlenka,1,CZE,GK,27-167,90,0,0,0,0,0,0,0,0,46,0,0,0,0.0,0.0,0.0,0,0,25,42,59.5,0,24,0,0,0,Werder Bremen,2019-09-28 Dortmund-Werder Bremen,GER-BL1,19-20,454cc134

@@ -1,0 +1,29 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+08aa9cd1,Andrea Pinamonti,89,ITA,"FW,AM",19-295,90,0,0,0,0,3,1,0,0,33,1,0,1,0.1,0.1,0.0,1,0,15,23,65.2,2,10,0,1,0,Frosinone,2019-03-10 Frosinone-Torino,ITA-SERIA_A,18-19,62b437d1
+2114abf9,Camillo Ciano,28,ITA,"FW,AM",29-016,90,0,1,0,0,3,0,1,0,45,0,1,0,0.2,0.2,0.4,5,1,18,30,60.0,3,23,2,0,0,Frosinone,2019-03-10 Frosinone-Torino,ITA-SERIA_A,18-19,62b437d1
+7d86864c,Mirko Gori,5,ITA,"CM,DM",26-034,90,0,0,0,0,1,1,0,0,48,6,0,1,0.1,0.1,0.0,1,0,21,37,56.8,3,24,2,1,0,Frosinone,2019-03-10 Frosinone-Torino,ITA-SERIA_A,18-19,62b437d1
+02febfdc,Raffaele Maiello,8,ITA,CM,27-243,72,0,0,0,0,0,0,0,0,40,1,2,0,0.0,0.0,0.0,0,0,19,30,63.3,3,16,1,0,0,Frosinone,2019-03-10 Frosinone-Torino,ITA-SERIA_A,18-19,62b437d1
+acdad0aa,Marcello Trotta,20,ITA,"AM,FW",26-162,18,0,0,0,0,0,0,0,0,12,1,0,0,0.0,0.0,0.0,1,0,5,8,62.5,0,3,0,0,0,Frosinone,2019-03-10 Frosinone-Torino,ITA-SERIA_A,18-19,62b437d1
+aa5a409a,Raman Chibsah,66,GHA,"CM,DM",26-000,90,0,0,0,0,1,0,0,0,40,3,0,0,0.1,0.1,0.0,4,0,20,29,69.0,6,23,4,3,3,Frosinone,2019-03-10 Frosinone-Torino,ITA-SERIA_A,18-19,62b437d1
+1c8c5aed,Cristian Molinaro,3,ITA,"WB,LB",35-223,90,0,0,0,0,0,0,0,0,49,2,1,0,0.0,0.0,0.2,4,0,21,41,51.2,4,23,5,0,0,Frosinone,2019-03-10 Frosinone-Torino,ITA-SERIA_A,18-19,62b437d1
+e5b98a70,Luca Paganini,7,ITA,"WB,RB",25-275,90,1,0,0,0,4,2,0,0,49,5,1,3,0.6,0.6,0.0,1,0,23,27,85.2,3,14,1,1,1,Frosinone,2019-03-10 Frosinone-Torino,ITA-SERIA_A,18-19,62b437d1
+616aea37,Marco Capuano,25,ITA,CB,27-147,82,0,0,0,0,1,0,1,0,36,1,3,0,0.1,0.1,0.0,1,1,18,24,75.0,0,12,0,0,0,Frosinone,2019-03-10 Frosinone-Torino,ITA-SERIA_A,18-19,62b437d1
+b09a3ecc,Daniel Ciofani,9,ITA,FW,33-222,8,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,0,0,6,9,66.7,1,2,0,0,0,Frosinone,2019-03-10 Frosinone-Torino,ITA-SERIA_A,18-19,62b437d1
+9b30df1e,Bartosz Salamon,27,POL,CB,27-313,90,0,0,0,0,0,0,0,0,46,0,1,1,0.0,0.0,0.0,1,0,24,32,75.0,1,18,0,0,0,Frosinone,2019-03-10 Frosinone-Torino,ITA-SERIA_A,18-19,62b437d1
+4b029b31,Edoardo Goldaniga,6,ITA,CB,25-128,90,0,0,0,0,0,0,0,0,54,1,2,0,0.0,0.0,0.0,2,0,24,49,49.0,3,23,1,1,0,Frosinone,2019-03-10 Frosinone-Torino,ITA-SERIA_A,18-19,62b437d1
+ac4003af,Marco Sportiello,57,ITA,GK,26-304,90,0,0,0,0,0,0,0,0,28,0,0,0,0.0,0.0,0.0,0,0,15,25,60.0,0,13,0,0,0,Frosinone,2019-03-10 Frosinone-Torino,ITA-SERIA_A,18-19,62b437d1
+d705ba44,Andrea Belotti,9,ITA,FW,25-080,90,2,0,0,0,4,3,0,0,22,0,0,1,0.7,0.7,0.1,1,0,6,10,60.0,2,15,1,1,1,Torino,2019-03-10 Frosinone-Torino,ITA-SERIA_A,18-19,62b437d1
+9592289a,Simone Zaza,11,ITA,FW,27-258,85,0,0,0,0,2,2,1,0,27,1,0,1,0.1,0.1,0.1,3,0,10,16,62.5,1,10,1,0,0,Torino,2019-03-10 Frosinone-Torino,ITA-SERIA_A,18-19,62b437d1
+dc1c2fce,Álex Berenguer,21,ESP,AM,23-249,5,0,0,0,0,0,0,0,0,4,0,1,0,0.0,0.0,0.3,1,0,2,2,100.0,1,3,1,0,0,Torino,2019-03-10 Frosinone-Torino,ITA-SERIA_A,18-19,62b437d1
+5cec2c74,Soualiho Meïté,23,FRA,CM,24-358,53,0,0,0,0,0,0,1,0,20,1,0,3,0.0,0.0,0.0,1,0,8,13,61.5,1,9,0,0,0,Torino,2019-03-10 Frosinone-Torino,ITA-SERIA_A,18-19,62b437d1
+440c84ed,Iago Falque,14,ESP,"AM,FW",29-065,37,0,1,0,0,1,0,0,0,27,0,0,0,0.1,0.1,0.1,5,1,22,24,91.7,4,18,0,1,1,Torino,2019-03-10 Frosinone-Torino,ITA-SERIA_A,18-19,62b437d1
+f1cfc209,Tomás Rincón,88,VEN,CM,31-056,90,0,0,0,0,2,0,1,0,73,3,0,0,0.1,0.1,0.0,5,1,38,57,66.7,5,30,2,3,2,Torino,2019-03-10 Frosinone-Torino,ITA-SERIA_A,18-19,62b437d1
+ea06dd97,Daniele Baselli,8,ITA,CM,26-363,90,0,0,0,0,0,0,0,0,57,3,1,1,0.0,0.0,0.0,1,0,34,46,73.9,7,30,2,0,0,Torino,2019-03-10 Frosinone-Torino,ITA-SERIA_A,18-19,62b437d1
+bbafc0c4,Cristian Ansaldi,15,ARG,WB,32-171,90,0,0,0,0,3,2,0,0,72,6,2,0,0.1,0.1,0.0,2,1,34,53,64.2,2,29,3,5,3,Torino,2019-03-10 Frosinone-Torino,ITA-SERIA_A,18-19,62b437d1
+e74f0e59,Lorenzo De Silvestri,29,ITA,WB,30-291,68,0,0,0,0,0,0,0,0,30,0,0,0,0.0,0.0,0.0,1,0,16,27,59.3,0,10,2,0,0,Torino,2019-03-10 Frosinone-Torino,ITA-SERIA_A,18-19,62b437d1
+246d153b,Ola Aina,34,NGA,WB,22-153,22,0,1,0,0,1,0,1,0,16,0,0,0,0.0,0.0,0.2,2,1,8,12,66.7,0,5,1,1,1,Torino,2019-03-10 Frosinone-Torino,ITA-SERIA_A,18-19,62b437d1
+55667895,Emiliano Moretti,24,ITA,CB,37-272,90,0,0,0,0,0,0,0,0,51,0,2,0,0.0,0.0,0.0,2,0,35,47,74.5,6,24,0,0,0,Torino,2019-03-10 Frosinone-Torino,ITA-SERIA_A,18-19,62b437d1
+93cf32a8,Nicolas Nkoulou,33,CMR,CB,28-348,90,0,0,0,0,0,0,0,0,59,1,1,0,0.0,0.0,0.0,0,0,40,47,85.1,1,30,0,0,0,Torino,2019-03-10 Frosinone-Torino,ITA-SERIA_A,18-19,62b437d1
+89976232,Armando Izzo,5,ITA,CB,27-008,90,0,0,0,0,1,0,0,0,70,1,1,1,0.0,0.0,0.0,0,0,41,54,75.9,6,28,1,1,1,Torino,2019-03-10 Frosinone-Torino,ITA-SERIA_A,18-19,62b437d1
+10dc46f0,Salvatore Sirigu,39,ITA,GK,32-057,90,0,0,0,0,0,0,0,0,37,0,0,0,0.0,0.0,0.0,0,0,19,35,54.3,0,17,0,0,0,Torino,2019-03-10 Frosinone-Torino,ITA-SERIA_A,18-19,62b437d1

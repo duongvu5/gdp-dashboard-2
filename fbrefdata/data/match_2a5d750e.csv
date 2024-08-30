@@ -1,0 +1,29 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+ea0ff634,Valère Germain,28,FRA,FW,27-146,90,0,0,0,0,2,1,0,0,20,0,0,0,0.2,0.2,0.0,1,0,11,15,73.3,1,14,1,1,1,Marseille,2017-09-10 Marseille-Rennes,FRA-L1,17-18,2a5d750e
+58ae47b2,Dimitri Payet,10,FRA,"LW,AM",30-165,90,0,1,0,0,1,0,0,0,66,0,0,0,0.0,0.0,0.6,5,1,48,60,80.0,9,47,3,1,0,Marseille,2017-09-10 Marseille-Rennes,FRA-L1,17-18,2a5d750e
+2b9fdeea,Florian Thauvin,26,FRA,RW,24-227,90,0,0,0,0,3,0,0,0,61,3,1,0,0.6,0.6,0.6,7,1,33,47,70.2,5,46,6,6,5,Marseille,2017-09-10 Marseille-Rennes,FRA-L1,17-18,2a5d750e
+6e7f1353,Morgan Sanson,8,FRA,"LM,LW",23-023,90,1,0,0,0,3,2,1,0,55,1,0,0,0.7,0.7,0.0,1,0,28,41,68.3,3,39,3,2,1,Marseille,2017-09-10 Marseille-Rennes,FRA-L1,17-18,2a5d750e
+c4527123,Grégory Sertic,22,FRA,"CM,DM",28-036,90,0,0,0,0,1,1,1,0,93,2,2,2,0.1,0.1,0.1,2,0,76,82,92.7,5,70,2,0,0,Marseille,2017-09-10 Marseille-Rennes,FRA-L1,17-18,2a5d750e
+20094685,Maxime Lopez,27,FRA,RM,19-280,57,0,0,0,0,0,0,0,0,54,1,0,1,0.0,0.0,0.2,1,0,44,51,86.3,8,47,2,1,1,Marseille,2017-09-10 Marseille-Rennes,FRA-L1,17-18,2a5d750e
+6bb2c084,Andre-Frank Zambo Anguissa,29,CMR,RM,21-298,33,0,0,0,0,0,0,0,0,33,0,2,0,0.0,0.0,0.0,0,0,24,25,96.0,2,23,0,1,0,Marseille,2017-09-10 Marseille-Rennes,FRA-L1,17-18,2a5d750e
+51a3caf1,Patrice Evra,21,FRA,LB,36-118,90,0,0,0,0,0,0,1,0,66,2,0,0,0.0,0.0,0.0,0,0,38,55,69.1,1,29,1,3,2,Marseille,2017-09-10 Marseille-Rennes,FRA-L1,17-18,2a5d750e
+2f798b41,Aymen Abdennour,13,TUN,CB,28-035,71,0,0,0,0,0,0,1,0,62,3,0,0,0.0,0.0,0.0,1,0,45,51,88.2,2,44,0,0,0,Marseille,2017-09-10 Marseille-Rennes,FRA-L1,17-18,2a5d750e
+0eeafda5,Rolando,6,POR,CB,32-010,19,0,0,0,0,0,0,1,0,11,0,0,1,0.0,0.0,0.0,0,0,9,10,90.0,1,9,0,0,0,Marseille,2017-09-10 Marseille-Rennes,FRA-L1,17-18,2a5d750e
+8dbff17c,Adil Rami,23,FRA,CB,31-257,90,0,0,0,0,0,0,1,0,77,0,6,0,0.0,0.0,0.0,0,0,54,62,87.1,0,54,0,0,0,Marseille,2017-09-10 Marseille-Rennes,FRA-L1,17-18,2a5d750e
+d63e2912,Hiroki Sakai,2,JPN,RB,27-151,37,0,0,0,0,0,0,0,0,28,3,0,3,0.0,0.0,0.0,0,0,13,18,72.2,1,8,0,2,1,Marseille,2017-09-10 Marseille-Rennes,FRA-L1,17-18,2a5d750e
+1a4b9094,Bouna Sarr,17,SEN,RB,25-222,53,0,0,0,0,0,0,0,0,44,2,1,0,0.0,0.0,0.0,2,0,30,37,81.1,1,29,2,4,3,Marseille,2017-09-10 Marseille-Rennes,FRA-L1,17-18,2a5d750e
+1d2d5cc8,Steve Mandanda,30,FRA,GK,32-166,90,0,0,0,0,0,0,0,0,33,0,0,0,0.0,0.0,0.0,0,0,25,31,80.6,0,15,0,0,0,Marseille,2017-09-10 Marseille-Rennes,FRA-L1,17-18,2a5d750e
+2677a1de,Wahbi Khazri,8,TUN,FW,26-214,59,1,0,0,0,4,1,0,0,23,0,1,2,0.7,0.7,0.1,4,0,10,14,71.4,2,17,3,5,5,Rennes,2017-09-10 Marseille-Rennes,FRA-L1,17-18,2a5d750e
+e54a9890,Faitout Maouassa,17,FRA,"LM,FW",19-066,31,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.1,2,0,8,9,88.9,0,5,1,0,0,Rennes,2017-09-10 Marseille-Rennes,FRA-L1,17-18,2a5d750e
+bfdb33aa,Ismaila Sarr,7,SEN,FW,19-197,90,0,1,0,0,2,1,0,0,24,0,0,1,0.1,0.1,0.2,5,2,8,12,66.7,3,19,3,5,3,Rennes,2017-09-10 Marseille-Rennes,FRA-L1,17-18,2a5d750e
+176674ab,Ndombe Mubele,9,COD,"LM,FW",23-146,90,0,0,0,1,2,0,0,0,41,2,0,1,0.9,0.1,0.0,4,1,10,23,43.5,2,25,3,5,3,Rennes,2017-09-10 Marseille-Rennes,FRA-L1,17-18,2a5d750e
+ef9c1c95,Benjamin André,21,FRA,CM,27-038,86,0,0,0,0,0,0,1,0,52,2,5,2,0.0,0.0,0.0,0,0,37,40,92.5,4,15,0,0,0,Rennes,2017-09-10 Marseille-Rennes,FRA-L1,17-18,2a5d750e
+7cf431a5,James Lea Siliki,12,CMR,CM,21-090,4,0,0,0,0,1,0,0,0,2,1,0,0,0.1,0.1,0.0,2,0,0,0,,0,1,0,0,0,Rennes,2017-09-10 Marseille-Rennes,FRA-L1,17-18,2a5d750e
+51c30111,Sanjin Prcić,10,BIH,CM,23-294,90,0,1,0,0,1,0,0,0,52,4,6,2,0.0,0.0,0.0,4,1,27,36,75.0,3,21,0,1,1,Rennes,2017-09-10 Marseille-Rennes,FRA-L1,17-18,2a5d750e
+20e73fac,Benjamin Bourigeaud,14,FRA,RM,23-239,90,1,1,0,0,3,1,0,0,51,2,0,0,0.2,0.2,0.2,4,1,30,44,68.2,5,18,3,1,1,Rennes,2017-09-10 Marseille-Rennes,FRA-L1,17-18,2a5d750e
+d3ce9f1f,Ludovic Baal,24,GUF,LB,31-109,90,0,0,0,0,0,0,0,0,60,3,1,2,0.0,0.0,0.0,2,0,34,52,65.4,6,21,0,1,0,Rennes,2017-09-10 Marseille-Rennes,FRA-L1,17-18,2a5d750e
+1232e1dc,Joris Gnagnon,5,FRA,CB,20-240,90,1,0,0,0,2,1,0,0,28,6,1,1,0.2,0.2,0.0,0,0,9,10,90.0,0,5,0,0,0,Rennes,2017-09-10 Marseille-Rennes,FRA-L1,17-18,2a5d750e
+6043997c,Gerzino Nyamsi,33,FRA,CB,20-231,90,0,0,0,0,0,0,0,0,24,2,2,0,0.0,0.0,0.0,0,0,12,14,85.7,1,7,0,1,1,Rennes,2017-09-10 Marseille-Rennes,FRA-L1,17-18,2a5d750e
+a4b1028a,Hamari Traoré,27,MLI,RB,25-226,90,0,0,0,0,1,0,0,0,51,1,1,0,0.1,0.1,0.0,1,0,30,40,75.0,5,13,3,4,3,Rennes,2017-09-10 Marseille-Rennes,FRA-L1,17-18,2a5d750e
+dc366c36,Tomáš Koubek,40,CZE,GK,25-015,90,0,0,0,0,0,0,0,0,29,0,0,0,0.0,0.0,0.0,0,0,6,26,23.1,0,11,0,0,0,Rennes,2017-09-10 Marseille-Rennes,FRA-L1,17-18,2a5d750e

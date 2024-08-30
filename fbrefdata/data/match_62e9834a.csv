@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+8f898ba8,Guido Carrillo,11,ARG,FW,26-163,90,2,0,0,0,4,2,0,0,28,1,0,0,0.6,0.6,0.0,2,2,13,20,65.0,3,14,0,0,0,Monaco,2017-11-04 Monaco-Guingamp,FRA-L1,17-18,62e9834a
+509a4ccb,Keita Baldé,14,SEN,LW,22-241,79,1,0,0,0,2,1,0,0,34,0,0,1,0.6,0.6,0.1,3,0,19,25,76.0,3,22,3,1,0,Monaco,2017-11-04 Monaco-Guingamp,FRA-L1,17-18,62e9834a
+e90af77c,Gabriel Boschilia,26,BRA,LW,21-244,11,0,0,0,0,1,1,0,0,8,1,0,0,0.0,0.0,0.0,1,0,6,6,100.0,0,6,0,0,0,Monaco,2017-11-04 Monaco-Guingamp,FRA-L1,17-18,62e9834a
+7c2965bb,Rony Lopes,20,POR,RW,21-311,76,0,1,0,0,2,1,0,0,37,0,2,1,0.1,0.1,0.6,4,2,21,28,75.0,3,26,7,4,3,Monaco,2017-11-04 Monaco-Guingamp,FRA-L1,17-18,62e9834a
+dc3a9a0d,Rachid Ghezzal,7,ALG,RW,25-179,14,0,1,0,0,2,0,0,0,17,0,0,0,0.1,0.1,0.3,2,2,11,14,78.6,0,10,2,2,2,Monaco,2017-11-04 Monaco-Guingamp,FRA-L1,17-18,62e9834a
+1a6f2a66,Adama Traoré,28,MLI,AM,22-129,90,2,0,0,0,3,2,0,0,60,2,1,2,0.5,0.5,0.0,7,0,39,45,86.7,4,37,1,3,3,Monaco,2017-11-04 Monaco-Guingamp,FRA-L1,17-18,62e9834a
+7f3b388c,Fabinho,2,BRA,DM,24-012,90,1,0,1,1,0,0,0,0,74,4,2,4,0.8,0.0,0.1,2,0,52,60,86.7,7,41,1,0,0,Monaco,2017-11-04 Monaco-Guingamp,FRA-L1,17-18,62e9834a
+56f7a928,Youri Tielemans,17,BEL,DM,20-181,90,0,0,0,0,2,1,0,0,58,2,0,2,0.1,0.1,0.0,3,1,41,47,87.2,5,30,2,1,1,Monaco,2017-11-04 Monaco-Guingamp,FRA-L1,17-18,62e9834a
+13c44fc5,Jorge,6,BRA,LB,21-221,90,0,0,0,0,0,0,0,0,49,2,5,1,0.0,0.0,0.1,1,0,34,42,81.0,1,20,4,1,0,Monaco,2017-11-04 Monaco-Guingamp,FRA-L1,17-18,62e9834a
+bd4f5f94,Andrea Raggi,24,ITA,CB,33-133,90,0,0,0,0,0,0,0,0,70,0,3,0,0.0,0.0,0.0,1,0,57,63,90.5,3,50,2,0,0,Monaco,2017-11-04 Monaco-Guingamp,FRA-L1,17-18,62e9834a
+c6056d58,Kamil Glik,25,POL,CB,29-274,90,0,0,0,0,0,0,0,0,70,0,1,1,0.0,0.0,0.0,0,0,56,63,88.9,4,44,0,0,0,Monaco,2017-11-04 Monaco-Guingamp,FRA-L1,17-18,62e9834a
+c8c60119,Almamy Touré,38,MLI,RB,21-190,90,0,3,0,0,1,0,1,0,60,4,2,1,0.0,0.0,0.6,7,4,37,49,75.5,5,29,5,3,3,Monaco,2017-11-04 Monaco-Guingamp,FRA-L1,17-18,62e9834a
+f6db3bd5,Danijel Subašić,1,CRO,GK,33-008,45,0,0,0,0,0,0,0,0,17,0,0,0,0.0,0.0,0.0,0,0,15,17,88.2,0,10,0,0,0,Monaco,2017-11-04 Monaco-Guingamp,FRA-L1,17-18,62e9834a
+b7e7937d,Diego Benaglio,16,SUI,GK,34-057,45,0,0,0,0,0,0,0,0,17,0,0,0,0.0,0.0,0.0,0,0,9,16,56.3,0,10,0,0,0,Monaco,2017-11-04 Monaco-Guingamp,FRA-L1,17-18,62e9834a
+6f8cd6d0,Marcus Thuram,21,FRA,FW,20-090,90,0,0,0,0,1,1,0,0,31,2,0,0,0.0,0.0,0.0,0,0,15,21,71.4,0,18,0,1,1,Guingamp,2017-11-04 Monaco-Guingamp,FRA-L1,17-18,62e9834a
+3010aefb,Marcus Coco,24,FRA,"LW,RM",21-133,78,0,0,0,0,2,0,0,0,37,1,0,1,0.1,0.1,0.0,0,0,21,29,72.4,0,20,3,1,0,Guingamp,2017-11-04 Monaco-Guingamp,FRA-L1,17-18,62e9834a
+b6dac747,Lebogang Phiri,18,RSA,"CM,RM",22-360,12,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,1,0,6,7,85.7,2,7,0,2,1,Guingamp,2017-11-04 Monaco-Guingamp,FRA-L1,17-18,62e9834a
+07296190,Abdoul Camara,9,GUI,"LM,RW",27-257,90,0,0,0,0,5,1,0,0,39,2,0,0,0.2,0.2,0.0,3,0,23,28,82.1,2,34,3,3,1,Guingamp,2017-11-04 Monaco-Guingamp,FRA-L1,17-18,62e9834a
+44f8c299,Lucas Deaux,8,FRA,"CM,LM",28-313,90,0,0,0,0,0,0,1,0,58,0,2,2,0.0,0.0,0.0,3,0,46,55,83.6,8,36,0,3,3,Guingamp,2017-11-04 Monaco-Guingamp,FRA-L1,17-18,62e9834a
+6c6ecdd4,Mustapha Diallo,5,SEN,CM,31-174,45,0,0,0,0,0,0,0,0,21,1,1,0,0.0,0.0,0.0,0,0,12,19,63.2,1,13,1,1,1,Guingamp,2017-11-04 Monaco-Guingamp,FRA-L1,17-18,62e9834a
+f83c8d6c,Jimmy Briand,23,FRA,FW,32-094,45,0,0,0,0,1,0,0,0,31,0,1,0,0.0,0.0,0.1,5,0,23,27,85.2,1,24,3,1,1,Guingamp,2017-11-04 Monaco-Guingamp,FRA-L1,17-18,62e9834a
+6191093d,Ludovic Blas,7,FRA,"RM,CM",19-308,90,0,0,0,0,2,1,0,0,60,1,1,1,0.1,0.1,0.0,1,0,43,51,84.3,5,47,2,3,3,Guingamp,2017-11-04 Monaco-Guingamp,FRA-L1,17-18,62e9834a
+15e1afd5,Franck Tabanou,27,FRA,LB,28-278,45,0,0,0,0,0,0,0,0,29,0,1,0,0.0,0.0,0.0,1,0,18,24,75.0,3,16,1,0,0,Guingamp,2017-11-04 Monaco-Guingamp,FRA-L1,17-18,62e9834a
+276cce2e,Pedro Rebocho,3,POR,LB,22-285,45,0,0,0,0,0,0,0,0,28,1,0,1,0.0,0.0,0.1,2,0,23,25,92.0,1,15,0,2,2,Guingamp,2017-11-04 Monaco-Guingamp,FRA-L1,17-18,62e9834a
+167d5018,Félix Eboa Eboa,20,CMR,CB,20-199,90,0,0,0,0,0,0,0,0,61,1,1,1,0.0,0.0,0.0,0,0,43,51,84.3,4,34,0,1,1,Guingamp,2017-11-04 Monaco-Guingamp,FRA-L1,17-18,62e9834a
+0515a4cb,Christophe Kerbrat,29,FRA,CB,31-094,90,0,0,0,0,0,0,0,0,55,1,0,1,0.0,0.0,0.0,1,0,46,49,93.9,1,38,0,0,0,Guingamp,2017-11-04 Monaco-Guingamp,FRA-L1,17-18,62e9834a
+b51242ef,Jonathan Martins Pereira,22,FRA,RB,31-278,90,0,0,0,0,1,0,0,0,61,2,6,1,0.0,0.0,0.1,3,0,30,47,63.8,3,29,4,1,1,Guingamp,2017-11-04 Monaco-Guingamp,FRA-L1,17-18,62e9834a
+a56bd2ee,Karl-Johan Johnsson,1,SWE,GK,27-280,90,0,0,0,0,0,0,0,0,48,0,0,0,0.0,0.0,0.0,0,0,38,46,82.6,0,27,0,0,0,Guingamp,2017-11-04 Monaco-Guingamp,FRA-L1,17-18,62e9834a

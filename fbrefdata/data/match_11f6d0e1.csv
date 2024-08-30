@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+5046b7d4,Stéphane Bahoken,19,CMR,FW,26-124,90,0,0,0,0,2,1,1,0,41,0,1,2,0.1,0.1,0.0,1,0,21,34,61.8,1,22,0,0,0,Angers,2018-09-29 Angers-Guingamp,FRA-L1,18-19,11f6d0e1
+a0f9b535,Flavien Tait,20,FRA,LW,25-239,90,0,0,0,0,3,2,0,0,75,0,1,1,0.2,0.2,0.0,3,0,42,58,72.4,6,47,2,0,0,Angers,2018-09-29 Angers-Guingamp,FRA-L1,18-19,11f6d0e1
+d504b3e1,Jeff Reine-Adélaïde,22,FRA,"RW,LM",20-255,90,0,0,0,0,1,1,0,0,51,2,0,0,0.0,0.0,0.1,2,0,26,37,70.3,6,38,6,4,3,Angers,2018-09-29 Angers-Guingamp,FRA-L1,18-19,11f6d0e1
+f86ca403,Vincent Pajot,6,FRA,LM,28-041,61,0,0,0,0,2,0,0,0,32,3,0,2,0.1,0.1,0.0,1,0,16,22,72.7,1,14,0,1,0,Angers,2018-09-29 Angers-Guingamp,FRA-L1,18-19,11f6d0e1
+b4c816a9,Wilfried Kanga,11,CIV,RW,20-220,29,0,0,0,0,1,0,0,0,18,0,0,1,0.1,0.1,0.0,0,0,4,11,36.4,0,8,1,0,0,Angers,2018-09-29 Angers-Guingamp,FRA-L1,18-19,11f6d0e1
+5e22e2a4,Baptiste Santamaria,18,FRA,CM,23-204,72,0,0,0,0,0,0,0,0,59,2,2,2,0.0,0.0,0.0,2,0,38,48,79.2,5,31,1,0,0,Angers,2018-09-29 Angers-Guingamp,FRA-L1,18-19,11f6d0e1
+c801616a,Thomas Mangani,5,FRA,CM,31-153,18,0,0,0,0,0,0,0,0,23,1,0,1,0.0,0.0,0.0,2,0,18,22,81.8,6,14,0,1,0,Angers,2018-09-29 Angers-Guingamp,FRA-L1,18-19,11f6d0e1
+f1b2365a,Cheikh N'Doye,17,SEN,RM,32-184,90,0,0,0,0,3,0,0,0,52,0,3,3,0.1,0.1,0.1,2,0,19,40,47.5,4,22,1,1,1,Angers,2018-09-29 Angers-Guingamp,FRA-L1,18-19,11f6d0e1
+7fecbcdb,Abdoulaye Bamba,25,CIV,LB,28-157,56,0,0,0,0,0,0,1,0,55,1,0,0,0.0,0.0,0.0,1,0,45,50,90.0,9,31,3,0,0,Angers,2018-09-29 Angers-Guingamp,FRA-L1,18-19,11f6d0e1
+79b2399c,Pierrick Capelle,15,FRA,LB,31-167,34,0,0,0,0,0,0,0,0,32,0,0,1,0.0,0.0,0.0,1,0,24,29,82.8,4,16,1,1,1,Angers,2018-09-29 Angers-Guingamp,FRA-L1,18-19,11f6d0e1
+275e2c51,Romain Thomas,24,FRA,CB,30-109,90,0,0,0,0,0,0,1,0,85,2,0,1,0.0,0.0,0.0,1,0,63,75,84.0,4,56,1,0,0,Angers,2018-09-29 Angers-Guingamp,FRA-L1,18-19,11f6d0e1
+b666421b,Ismaël Traoré,8,CIV,CB,32-042,90,0,0,0,0,0,0,0,0,73,0,1,0,0.0,0.0,0.0,0,0,61,67,91.0,5,58,1,0,0,Angers,2018-09-29 Angers-Guingamp,FRA-L1,18-19,11f6d0e1
+c26a3918,Vincent Manceau,29,FRA,RB,29-081,90,0,0,0,0,0,0,0,0,94,2,2,3,0.0,0.0,0.0,1,0,64,85,75.3,12,50,2,1,1,Angers,2018-09-29 Angers-Guingamp,FRA-L1,18-19,11f6d0e1
+26975a92,Ludovic Butelle,16,FRA,GK,35-179,90,0,0,0,0,0,0,0,0,28,0,0,0,0.0,0.0,0.0,0,0,21,25,84.0,0,7,0,0,0,Angers,2018-09-29 Angers-Guingamp,FRA-L1,18-19,11f6d0e1
+3071a619,Nolan Roux,26,FRA,FW,30-212,27,0,0,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.0,0,0,5,8,62.5,0,5,0,0,0,Guingamp,2018-09-29 Angers-Guingamp,FRA-L1,18-19,11f6d0e1
+39901146,Nathaël Julan,14,FRA,FW,22-072,63,0,0,0,0,5,2,1,0,39,0,0,0,0.7,0.7,0.0,1,0,9,23,39.1,4,14,0,1,0,Guingamp,2018-09-29 Angers-Guingamp,FRA-L1,18-19,11f6d0e1
+30395d3b,Nicolas Benezet,10,FRA,LW,27-217,90,1,0,0,0,2,2,1,0,68,2,3,0,0.1,0.1,1.1,7,0,38,50,76.0,5,34,2,5,1,Guingamp,2018-09-29 Angers-Guingamp,FRA-L1,18-19,11f6d0e1
+6191093d,Ludovic Blas,7,FRA,RW,20-272,87,0,1,0,0,1,0,0,0,30,0,1,2,0.1,0.1,0.1,1,1,12,19,63.2,3,20,2,3,1,Guingamp,2018-09-29 Angers-Guingamp,FRA-L1,18-19,11f6d0e1
+3010aefb,Marcus Coco,24,FRA,RW,22-097,3,0,0,0,0,1,0,0,0,10,1,0,1,0.1,0.1,0.0,1,0,4,5,80.0,1,9,2,1,1,Guingamp,2018-09-29 Angers-Guingamp,FRA-L1,18-19,11f6d0e1
+276cce2e,Pedro Rebocho,5,POR,LM,23-249,90,0,0,0,0,0,0,1,0,69,1,2,0,0.0,0.0,0.1,3,0,37,57,64.9,2,23,0,0,0,Guingamp,2018-09-29 Angers-Guingamp,FRA-L1,18-19,11f6d0e1
+d2aa8ac0,Étienne Didot,22,FRA,CM,35-067,82,0,0,0,0,0,0,0,0,45,1,3,3,0.0,0.0,0.0,0,0,23,36,63.9,3,20,0,0,0,Guingamp,2018-09-29 Angers-Guingamp,FRA-L1,18-19,11f6d0e1
+9dafff2a,Guessouma Fofana,18,MTN,CM,25-286,8,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,4,5,80.0,1,1,1,0,0,Guingamp,2018-09-29 Angers-Guingamp,FRA-L1,18-19,11f6d0e1
+44f8c299,Lucas Deaux,8,FRA,CM,29-277,90,0,0,0,0,1,1,0,0,36,1,0,0,0.1,0.1,0.1,2,1,21,27,77.8,4,14,1,0,0,Guingamp,2018-09-29 Angers-Guingamp,FRA-L1,18-19,11f6d0e1
+8ff4872e,Jordan Ikoko,2,COD,RM,24-238,90,0,0,0,0,0,0,0,0,43,0,1,0,0.0,0.0,0.1,6,0,28,37,75.7,3,16,3,1,1,Guingamp,2018-09-29 Angers-Guingamp,FRA-L1,18-19,11f6d0e1
+167d5018,Félix Eboa Eboa,20,CMR,CB,21-163,90,0,0,0,0,1,0,0,0,47,1,1,1,0.5,0.5,0.0,0,0,21,27,77.8,2,14,0,0,0,Guingamp,2018-09-29 Angers-Guingamp,FRA-L1,18-19,11f6d0e1
+7768df30,Jérémy Sorbon,15,FRA,CB,35-055,90,0,0,0,0,0,0,0,0,34,0,1,2,0.0,0.0,0.0,0,0,18,24,75.0,1,12,0,0,0,Guingamp,2018-09-29 Angers-Guingamp,FRA-L1,18-19,11f6d0e1
+0515a4cb,Christophe Kerbrat,29,FRA,CB,32-058,90,0,0,0,0,0,0,0,0,62,2,0,1,0.0,0.0,0.0,0,0,29,45,64.4,0,17,0,0,0,Guingamp,2018-09-29 Angers-Guingamp,FRA-L1,18-19,11f6d0e1
+a56bd2ee,Karl-Johan Johnsson,1,SWE,GK,28-244,90,0,0,0,0,0,0,0,0,36,0,0,0,0.0,0.0,0.0,0,0,18,35,51.4,0,20,0,0,0,Guingamp,2018-09-29 Angers-Guingamp,FRA-L1,18-19,11f6d0e1

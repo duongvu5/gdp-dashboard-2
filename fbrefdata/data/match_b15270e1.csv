@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+c68da769,Rafael Borré,19,COL,FW,28-008,65,1,0,0,0,2,1,0,0,29,1,1,0,0.7,0.7,0.1,3,0,15,18,83.3,1,17,0,2,0,Werder Bremen,2023-09-23 Werder Bremen-Köln,GER-BL1,23-24,b15270e1
+a45241d5,Justin Njinmah,17,GER,FW,22-312,25,1,0,0,0,2,1,0,0,15,1,0,0,0.6,0.6,0.3,4,0,5,8,62.5,1,10,1,2,1,Werder Bremen,2023-09-23 Werder Bremen-Köln,GER-BL1,23-24,b15270e1
+638a4d71,Marvin Ducksch,7,GER,FW,29-200,79,0,1,0,0,2,1,0,0,46,0,0,0,0.3,0.3,0.7,8,1,23,40,57.5,7,22,0,2,1,Werder Bremen,2023-09-23 Werder Bremen-Köln,GER-BL1,23-24,b15270e1
+7ca196eb,Nick Woltemade,29,GER,FW,21-221,11,0,0,0,0,0,0,0,0,16,2,0,0,0.0,0.0,0.0,1,0,6,7,85.7,0,5,0,2,0,Werder Bremen,2023-09-23 Werder Bremen-Köln,GER-BL1,23-24,b15270e1
+13210854,Olivier Deman,2,BEL,LW,23-170,79,0,0,0,0,2,1,0,0,51,3,0,3,0.1,0.1,0.0,3,0,31,40,77.5,4,32,0,1,1,Werder Bremen,2023-09-23 Werder Bremen-Köln,GER-BL1,23-24,b15270e1
+de838f86,Anthony Jung,3,GER,LW,31-324,11,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,4,4,100.0,0,1,0,0,0,Werder Bremen,2023-09-23 Werder Bremen-Köln,GER-BL1,23-24,b15270e1
+30c220c3,Mitchell Weiser,8,GER,RW,29-155,90,0,0,0,0,1,0,1,0,75,1,0,5,0.1,0.1,0.1,1,0,41,55,74.5,2,33,1,5,3,Werder Bremen,2023-09-23 Werder Bremen-Köln,GER-BL1,23-24,b15270e1
+1fffae99,Jens Stage,6,DEN,CM,26-319,90,0,0,0,0,1,0,0,0,44,0,1,1,0.1,0.1,0.1,3,0,21,40,52.5,0,15,0,0,0,Werder Bremen,2023-09-23 Werder Bremen-Köln,GER-BL1,23-24,b15270e1
+220ace7e,Romano Schmid,20,AUT,CM,23-239,89,0,0,0,0,2,2,0,0,66,4,0,1,0.1,0.1,0.3,7,2,31,45,68.9,6,49,8,10,6,Werder Bremen,2023-09-23 Werder Bremen-Köln,GER-BL1,23-24,b15270e1
+f25c8e3a,Naby Keïta,18,GUI,CM,28-225,1,0,0,0,0,2,0,0,0,3,0,0,0,0.1,0.1,0.0,0,0,1,1,100.0,0,2,0,0,0,Werder Bremen,2023-09-23 Werder Bremen-Köln,GER-BL1,23-24,b15270e1
+0ed60738,Senne Lynen,14,BEL,DM,24-216,79,0,1,0,0,1,0,0,0,46,2,0,3,0.0,0.0,0.5,2,1,38,39,97.4,3,25,0,0,0,Werder Bremen,2023-09-23 Werder Bremen-Köln,GER-BL1,23-24,b15270e1
+14a7af33,Christian Groß,36,GER,DM,34-227,11,0,0,0,0,0,0,0,0,11,0,0,1,0.0,0.0,0.0,0,0,4,8,50.0,3,4,0,0,0,Werder Bremen,2023-09-23 Werder Bremen-Köln,GER-BL1,23-24,b15270e1
+a5ae8f8e,Miloš Veljković,13,SRB,CB,27-362,90,0,0,0,0,0,0,1,0,51,2,0,0,0.0,0.0,0.0,0,0,39,46,84.8,5,22,0,0,0,Werder Bremen,2023-09-23 Werder Bremen-Köln,GER-BL1,23-24,b15270e1
+aad48be9,Niklas Stark,4,GER,CB,28-162,90,0,0,0,0,1,0,0,0,49,0,0,1,0.0,0.0,0.0,0,0,26,39,66.7,0,24,0,0,0,Werder Bremen,2023-09-23 Werder Bremen-Köln,GER-BL1,23-24,b15270e1
+526ea7cc,Amos Pieper,5,GER,CB,25-249,90,0,0,0,0,1,0,0,0,61,5,1,2,0.0,0.0,0.0,1,0,34,45,75.6,3,32,0,0,0,Werder Bremen,2023-09-23 Werder Bremen-Köln,GER-BL1,23-24,b15270e1
+0a1cb833,Jiří Pavlenka,1,CZE,GK,31-162,90,0,0,0,0,0,0,0,0,41,0,0,0,0.0,0.0,0.0,0,0,24,38,63.2,0,21,0,0,0,Werder Bremen,2023-09-23 Werder Bremen-Köln,GER-BL1,23-24,b15270e1
+1238a3f9,Davie Selke,27,GER,FW,28-246,90,1,0,0,0,1,1,0,0,25,1,0,0,0.6,0.6,0.1,4,0,12,18,66.7,4,19,1,3,2,Köln,2023-09-23 Werder Bremen-Köln,GER-BL1,23-24,b15270e1
+e5d85da8,Linton Maina,37,GER,LW,24-092,82,0,0,0,0,2,1,0,0,53,0,2,0,0.0,0.0,0.0,2,0,26,37,70.3,2,40,7,5,1,Köln,2023-09-23 Werder Bremen-Köln,GER-BL1,23-24,b15270e1
+640134d6,Damion Downs,42,USA,CM,19-079,8,0,0,0,0,1,0,0,0,7,0,0,0,0.2,0.2,0.0,0,0,3,5,60.0,0,4,0,1,1,Köln,2023-09-23 Werder Bremen-Köln,GER-BL1,23-24,b15270e1
+c455a2b2,Dejan Ljubicic,7,AUT,RW,25-350,82,0,0,0,0,2,0,0,0,34,1,0,1,0.1,0.1,0.0,1,0,19,25,76.0,1,22,1,3,0,Köln,2023-09-23 Werder Bremen-Köln,GER-BL1,23-24,b15270e1
+22919e97,Sargis Adamyan,23,ARM,LM,30-123,8,0,0,0,0,0,0,0,0,3,2,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,1,0,0,0,Köln,2023-09-23 Werder Bremen-Köln,GER-BL1,23-24,b15270e1
+e5a35ae9,Luca Waldschmidt,9,GER,AM,27-127,65,0,0,0,0,0,0,0,0,32,4,0,0,0.0,0.0,0.0,2,0,20,25,80.0,3,18,2,1,1,Köln,2023-09-23 Werder Bremen-Köln,GER-BL1,23-24,b15270e1
+00f518d8,Faride Alidou,40,GER,"AM,RM",22-067,25,0,0,0,0,1,0,1,0,12,0,0,0,0.0,0.0,0.0,1,0,5,9,55.6,1,8,1,0,0,Köln,2023-09-23 Werder Bremen-Köln,GER-BL1,23-24,b15270e1
+94c18565,Florian Kainz,11,AUT,DM,30-334,90,0,0,0,0,2,0,0,0,75,4,1,1,0.1,0.1,0.4,7,0,38,60,63.3,8,39,2,3,2,Köln,2023-09-23 Werder Bremen-Köln,GER-BL1,23-24,b15270e1
+b116c6e3,Denis Huseinbasic,8,BIH,DM,22-082,74,0,0,0,0,0,0,0,0,35,1,0,2,0.0,0.0,0.0,0,0,26,26,100.0,2,18,0,0,0,Köln,2023-09-23 Werder Bremen-Köln,GER-BL1,23-24,b15270e1
+6b8887c2,Steffen Tigges,21,GER,"FW,DM",25-054,16,0,0,0,0,1,1,0,0,7,0,0,0,0.1,0.1,0.0,0,0,2,4,50.0,0,6,0,0,0,Köln,2023-09-23 Werder Bremen-Köln,GER-BL1,23-24,b15270e1
+82bfc14d,Leart Paqarada,17,KVX,LB,28-350,90,0,0,0,0,0,0,0,0,87,4,0,4,0.0,0.0,0.2,4,0,54,78,69.2,6,49,2,0,0,Köln,2023-09-23 Werder Bremen-Köln,GER-BL1,23-24,b15270e1
+ae7058f9,Julian Chabot,24,GER,CB,25-223,90,0,0,0,0,1,0,0,0,85,7,2,2,0.2,0.2,0.0,1,1,55,70,78.6,3,46,0,1,1,Köln,2023-09-23 Werder Bremen-Köln,GER-BL1,23-24,b15270e1
+94302c52,Timo Hübers,4,GER,CB,27-065,90,0,0,0,0,2,0,0,0,72,0,1,2,0.2,0.2,0.2,1,0,48,57,84.2,1,38,0,0,0,Köln,2023-09-23 Werder Bremen-Köln,GER-BL1,23-24,b15270e1
+ad00b1a8,Benno Schmitz,2,GER,RB,28-310,90,0,0,0,0,1,1,0,0,54,3,1,1,0.0,0.0,0.0,1,0,33,46,71.7,5,24,3,1,1,Köln,2023-09-23 Werder Bremen-Köln,GER-BL1,23-24,b15270e1
+87436846,Marvin Schwäbe,1,GER,GK,28-151,90,0,0,0,0,0,0,0,0,64,0,0,0,0.0,0.0,0.0,0,0,43,62,69.4,0,46,0,0,0,Köln,2023-09-23 Werder Bremen-Köln,GER-BL1,23-24,b15270e1

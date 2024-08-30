@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+942b4f90,Wissam Ben Yedder,9,FRA,FW,30-186,90,2,0,1,1,3,2,0,0,53,0,0,1,1.7,0.9,0.0,1,0,30,39,76.9,3,19,4,1,1,Monaco,2021-02-14 Monaco-Lorient,FRA-L1,20-21,6c45a288
+64f69877,Kevin Volland,31,GER,FW,28-199,90,0,0,0,0,3,1,0,0,48,2,0,0,0.2,0.2,0.1,3,0,27,38,71.1,5,27,3,1,0,Monaco,2021-02-14 Monaco-Lorient,FRA-L1,20-21,6c45a288
+19053e31,Sofiane Diop,37,FRA,LM,20-250,66,0,0,0,0,2,0,1,0,43,1,1,0,0.1,0.1,0.0,1,0,29,36,80.6,5,25,1,3,2,Monaco,2021-02-14 Monaco-Lorient,FRA-L1,20-21,6c45a288
+3dd738a1,Ruben Aguilar,26,FRA,LM,27-294,24,0,0,0,0,0,0,0,0,30,2,2,0,0.0,0.0,0.0,0,0,19,21,90.5,2,16,0,1,0,Monaco,2021-02-14 Monaco-Lorient,FRA-L1,20-21,6c45a288
+4f255115,Aurélien Tchouaméni,8,FRA,CM,21-018,57,0,0,0,0,2,0,1,0,58,4,1,0,0.1,0.1,0.3,1,0,42,47,89.4,3,34,1,1,0,Monaco,2021-02-14 Monaco-Lorient,FRA-L1,20-21,6c45a288
+33508c78,Cesc Fàbregas,4,ESP,CM,33-286,33,0,0,0,0,0,0,0,0,42,0,1,1,0.0,0.0,0.0,1,1,30,39,76.9,8,27,0,0,0,Monaco,2021-02-14 Monaco-Lorient,FRA-L1,20-21,6c45a288
+822d51d7,Youssouf Fofana,22,FRA,CM,22-035,90,0,0,0,0,0,0,0,0,80,5,1,1,0.0,0.0,0.0,2,1,64,73,87.7,11,42,4,2,2,Monaco,2021-02-14 Monaco-Lorient,FRA-L1,20-21,6c45a288
+8104e41e,Krépin Diatta,27,SEN,RM,21-355,45,0,0,0,0,0,0,0,0,28,0,0,0,0.0,0.0,0.0,1,0,22,28,78.6,0,19,2,1,1,Monaco,2021-02-14 Monaco-Lorient,FRA-L1,20-21,6c45a288
+f36c432f,Stevan Jovetić,10,MNE,RM,31-104,45,0,0,0,0,0,0,0,0,28,0,0,0,0.0,0.0,0.1,1,0,14,24,58.3,2,17,2,0,0,Monaco,2021-02-14 Monaco-Lorient,FRA-L1,20-21,6c45a288
+30af8b93,Caio Henrique Oliveira Silva,12,BRA,LB,23-198,79,0,0,0,0,0,0,0,0,75,2,0,1,0.0,0.0,0.2,4,0,56,71,78.9,8,46,4,1,1,Monaco,2021-02-14 Monaco-Lorient,FRA-L1,20-21,6c45a288
+a44d3a3c,Pietro Pellegri,19,ITA,LB,19-334,11,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,2,5,40.0,0,3,0,0,0,Monaco,2021-02-14 Monaco-Lorient,FRA-L1,20-21,6c45a288
+06df8256,Benoît Badiashile,32,FRA,CB,19-325,90,0,1,0,0,1,0,0,0,112,0,5,0,0.1,0.1,0.5,1,1,91,107,85.0,6,75,0,0,0,Monaco,2021-02-14 Monaco-Lorient,FRA-L1,20-21,6c45a288
+d9764034,Guillermo Maripán,3,CHI,CB,26-284,90,0,0,0,0,0,0,0,0,111,2,4,0,0.0,0.0,0.0,1,0,92,101,91.1,7,86,4,0,0,Monaco,2021-02-14 Monaco-Lorient,FRA-L1,20-21,6c45a288
+4c5b714f,Djibril Sidibé,29,FRA,RB,28-200,66,0,0,0,0,0,0,0,0,104,0,1,0,0.0,0.0,0.2,4,0,87,103,84.5,7,73,5,0,0,Monaco,2021-02-14 Monaco-Lorient,FRA-L1,20-21,6c45a288
+f449640d,Fodé Ballo-Touré,2,SEN,RB,24-042,24,0,0,0,0,0,0,0,0,34,3,1,2,0.0,0.0,0.0,1,0,23,28,82.1,2,15,2,0,0,Monaco,2021-02-14 Monaco-Lorient,FRA-L1,20-21,6c45a288
+2fa2a875,Benjamin Lecomte,40,FRA,GK,29-294,90,0,0,0,0,0,0,1,0,33,0,0,0,0.0,0.0,0.0,0,0,31,32,96.9,0,24,0,0,0,Monaco,2021-02-14 Monaco-Lorient,FRA-L1,20-21,6c45a288
+065dc209,Terem Moffi,13,NGA,FW,21-265,90,2,0,1,1,3,1,0,0,29,0,0,0,1.3,0.5,0.0,2,0,14,19,73.7,3,13,1,4,3,Lorient,2021-02-14 Monaco-Lorient,FRA-L1,20-21,6c45a288
+2500cef9,Yoane Wissa,19,COD,LM,24-164,77,0,0,0,0,0,0,0,0,33,1,1,1,0.0,0.0,0.0,1,1,15,21,71.4,1,22,6,2,1,Lorient,2021-02-14 Monaco-Lorient,FRA-L1,20-21,6c45a288
+f6496133,Quentin Boisgard,11,FRA,LM,23-334,13,0,0,0,0,0,0,0,0,7,2,0,0,0.0,0.0,0.0,0,0,2,4,50.0,0,5,1,1,0,Lorient,2021-02-14 Monaco-Lorient,FRA-L1,20-21,6c45a288
+31626657,Laurent Abergel,6,FRA,CM,28-013,70,0,0,0,0,0,0,0,0,30,2,2,2,0.0,0.0,0.0,0,0,20,25,80.0,2,22,0,1,1,Lorient,2021-02-14 Monaco-Lorient,FRA-L1,20-21,6c45a288
+54d51e22,Fabien Lemoine,18,FRA,CM,33-335,20,0,0,0,0,0,0,0,0,18,0,0,2,0.0,0.0,0.0,0,0,12,15,80.0,1,8,0,0,0,Lorient,2021-02-14 Monaco-Lorient,FRA-L1,20-21,6c45a288
+84d94b91,Thomas Monconduit,23,FRA,CM,30-004,70,0,0,0,0,0,0,0,0,38,2,0,0,0.0,0.0,0.0,0,0,22,31,71.0,2,19,1,0,0,Lorient,2021-02-14 Monaco-Lorient,FRA-L1,20-21,6c45a288
+5515376c,Trevoh Chalobah,8,ENG,CM,21-224,20,0,0,0,0,0,0,1,0,6,0,0,0,0.0,0.0,0.0,0,0,2,6,33.3,0,3,0,0,0,Lorient,2021-02-14 Monaco-Lorient,FRA-L1,20-21,6c45a288
+6f806d99,Enzo Le Fée,10,FRA,RM,21-011,77,0,0,0,0,1,0,0,0,31,2,1,3,0.0,0.0,0.0,0,0,13,20,65.0,0,16,2,5,3,Lorient,2021-02-14 Monaco-Lorient,FRA-L1,20-21,6c45a288
+79685569,Jonathan Delaplace,22,FRA,"RB,RM",34-331,13,0,0,0,0,0,0,0,0,5,0,1,0,0.0,0.0,0.0,0,0,1,2,50.0,0,3,0,0,0,Lorient,2021-02-14 Monaco-Lorient,FRA-L1,20-21,6c45a288
+a84f9a4b,Jérôme Hergault,14,FRA,LB,34-315,90,0,0,0,0,0,0,0,0,53,3,3,0,0.0,0.0,0.0,0,0,30,41,73.2,1,30,1,3,3,Lorient,2021-02-14 Monaco-Lorient,FRA-L1,20-21,6c45a288
+e97150c0,Jérémy Morel,21,MAD,CB,36-318,90,0,0,0,0,0,0,0,0,44,1,2,3,0.0,0.0,0.0,1,0,24,34,70.6,0,22,0,0,0,Lorient,2021-02-14 Monaco-Lorient,FRA-L1,20-21,6c45a288
+f066022d,Julien Laporte,15,FRA,CB,27-102,90,0,0,0,0,0,0,0,0,42,1,6,1,0.0,0.0,0.0,0,0,16,22,72.7,0,11,0,0,0,Lorient,2021-02-14 Monaco-Lorient,FRA-L1,20-21,6c45a288
+49136c42,Andrew Gravillon,2,GLP,CB,23-006,90,0,0,0,0,0,0,0,0,50,0,1,3,0.0,0.0,0.0,1,1,23,33,69.7,3,26,2,0,0,Lorient,2021-02-14 Monaco-Lorient,FRA-L1,20-21,6c45a288
+1545cf15,Houboulang Mendes,17,GNB,RB,22-286,83,0,0,0,0,0,0,1,0,45,1,1,0,0.0,0.0,0.0,0,0,19,30,63.3,1,20,0,3,2,Lorient,2021-02-14 Monaco-Lorient,FRA-L1,20-21,6c45a288
+a99da9ec,Pierre-Yves Hamel,29,FRA,RM,27-011,7,0,0,0,0,0,0,0,0,4,1,0,0,0.0,0.0,0.0,0,0,1,3,33.3,0,1,0,0,0,Lorient,2021-02-14 Monaco-Lorient,FRA-L1,20-21,6c45a288
+fbf83734,Matthieu Dreyer,1,FRA,GK,31-331,90,0,0,0,0,0,0,1,0,31,0,0,0,0.0,0.0,0.0,0,0,13,26,50.0,0,13,0,0,0,Lorient,2021-02-14 Monaco-Lorient,FRA-L1,20-21,6c45a288

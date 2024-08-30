@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+ff182fdc,Ishak Belfodil,19,ALG,FW,28-356,75,0,1,0,0,1,1,0,0,29,1,1,0,0.1,0.1,0.4,2,1,17,21,81.0,2,19,1,4,2,Hoffenheim,2021-01-02 Hoffenheim-Freiburg,GER-BL1,20-21,a8653b9a
+22919e97,Sargis Adamyan,23,ARM,FW,27-224,15,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,2,0,0,0,Hoffenheim,2021-01-02 Hoffenheim-Freiburg,GER-BL1,20-21,a8653b9a
+437f2b00,Christoph Baumgartner,14,AUT,"DM,LW",21-154,90,0,0,0,0,0,0,0,0,66,1,3,0,0.0,0.0,0.1,2,1,36,53,67.9,6,44,3,6,4,Hoffenheim,2021-01-02 Hoffenheim-Freiburg,GER-BL1,20-21,a8653b9a
+a53b661f,Ihlas Bebou,9,TOG,RW,26-254,90,1,0,0,0,3,2,0,0,44,1,1,0,0.5,0.5,0.1,2,0,25,30,83.3,3,31,3,4,4,Hoffenheim,2021-01-02 Hoffenheim-Freiburg,GER-BL1,20-21,a8653b9a
+603cb947,Andrej Kramarić,27,CRO,AM,29-197,90,0,0,0,0,3,1,0,0,57,1,0,0,0.3,0.3,0.0,6,0,43,49,87.8,5,43,2,1,1,Hoffenheim,2021-01-02 Hoffenheim-Freiburg,GER-BL1,20-21,a8653b9a
+08593525,Diadie Samassékou,18,MLI,DM,24-357,75,0,0,0,0,0,0,0,0,69,3,2,3,0.0,0.0,0.0,3,0,54,61,88.5,3,50,0,3,1,Hoffenheim,2021-01-02 Hoffenheim-Freiburg,GER-BL1,20-21,a8653b9a
+eac044ad,Moanes Dabbur,10,ISR,DM,28-233,15,0,0,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.0,1,0,8,10,80.0,5,8,1,0,0,Hoffenheim,2021-01-02 Hoffenheim-Freiburg,GER-BL1,20-21,a8653b9a
+80f36c88,Sebastian Rudy,16,GER,DM,30-309,11,0,0,0,0,0,0,0,0,5,0,1,0,0.0,0.0,0.0,0,0,2,3,66.7,0,4,0,0,0,Hoffenheim,2021-01-02 Hoffenheim-Freiburg,GER-BL1,20-21,a8653b9a
+1fda91b3,Melayro Bogarde,32,NED,"RB,DM",18-219,79,0,0,0,0,3,1,0,0,59,1,1,0,0.1,0.1,0.1,1,0,45,53,84.9,4,42,0,3,2,Hoffenheim,2021-01-02 Hoffenheim-Freiburg,GER-BL1,20-21,a8653b9a
+6aa3e78b,Ryan Sessegnon,17,ENG,LB,20-229,90,0,0,0,0,0,0,0,0,97,3,3,0,0.0,0.0,0.1,2,0,73,88,83.0,7,63,5,3,2,Hoffenheim,2021-01-02 Hoffenheim-Freiburg,GER-BL1,20-21,a8653b9a
+1d8e9add,Kevin Vogt,22,GER,CB,29-101,90,0,0,0,0,0,0,1,0,123,0,0,0,0.0,0.0,0.0,2,0,110,118,93.2,9,91,1,1,1,Hoffenheim,2021-01-02 Hoffenheim-Freiburg,GER-BL1,20-21,a8653b9a
+93a50d2c,Kasim Nuhu,15,GHA,CB,25-194,90,0,0,0,0,1,0,0,0,98,0,1,1,0.0,0.0,0.0,0,0,82,93,88.2,4,67,0,1,1,Hoffenheim,2021-01-02 Hoffenheim-Freiburg,GER-BL1,20-21,a8653b9a
+6ec6fde0,Kevin Akpoguma,25,NGA,RB,25-258,16,0,0,0,0,0,0,1,0,7,0,0,0,0.0,0.0,0.0,0,0,4,6,66.7,0,5,0,1,0,Hoffenheim,2021-01-02 Hoffenheim-Freiburg,GER-BL1,20-21,a8653b9a
+ff98492b,Robert Skov,29,DEN,LW,24-227,74,0,0,0,0,4,1,0,0,44,2,1,0,0.2,0.2,0.2,4,0,22,33,66.7,1,27,2,0,0,Hoffenheim,2021-01-02 Hoffenheim-Freiburg,GER-BL1,20-21,a8653b9a
+47064058,Oliver Baumann,1,GER,GK,30-214,90,0,0,0,0,0,0,0,0,49,0,1,0,0.0,0.0,0.0,0,0,42,46,91.3,0,34,0,0,0,Hoffenheim,2021-01-02 Hoffenheim-Freiburg,GER-BL1,20-21,a8653b9a
+ed79b7d3,Ermedin Demirović,11,BIH,FW,22-283,64,0,1,0,0,1,0,0,0,13,1,0,0,0.1,0.1,0.3,1,0,2,8,25.0,1,7,1,0,0,Freiburg,2021-01-02 Hoffenheim-Freiburg,GER-BL1,20-21,a8653b9a
+f93e6e94,Nils Petersen,18,GER,FW,32-027,26,0,0,0,0,1,1,0,0,11,0,0,0,0.1,0.1,0.0,3,0,6,8,75.0,2,5,0,0,0,Freiburg,2021-01-02 Hoffenheim-Freiburg,GER-BL1,20-21,a8653b9a
+54e4866f,Vincenzo Grifo,32,ITA,"LW,CM",27-270,79,1,0,1,1,1,1,0,0,35,1,0,0,0.8,0.0,0.1,2,0,21,27,77.8,7,23,1,1,0,Freiburg,2021-01-02 Hoffenheim-Freiburg,GER-BL1,20-21,a8653b9a
+bf075f6b,Roland Sallai,22,HUN,CM,23-225,11,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,3,0,0,0,Freiburg,2021-01-02 Hoffenheim-Freiburg,GER-BL1,20-21,a8653b9a
+7961f7aa,Kwon Chang-hoon,28,KOR,RW,26-186,65,0,0,0,0,1,0,1,0,22,2,2,0,0.1,0.1,0.0,0,0,9,10,90.0,2,15,1,4,2,Freiburg,2021-01-02 Hoffenheim-Freiburg,GER-BL1,20-21,a8653b9a
+ca618d23,Lucas Höler,9,GER,FW,26-176,25,0,0,0,0,0,0,0,0,10,1,0,0,0.0,0.0,0.1,2,0,4,6,66.7,0,7,1,1,0,Freiburg,2021-01-02 Hoffenheim-Freiburg,GER-BL1,20-21,a8653b9a
+8593f88c,Christian Günter,30,GER,"LM,WB",27-309,90,0,0,0,0,0,0,0,0,36,4,0,1,0.0,0.0,0.1,2,0,17,26,65.4,2,17,2,1,0,Freiburg,2021-01-02 Hoffenheim-Freiburg,GER-BL1,20-21,a8653b9a
+5d8e331f,Nicolas Höfler,27,GER,CM,30-299,90,0,0,0,0,1,0,1,0,39,1,2,1,0.1,0.1,0.0,1,1,22,31,71.0,1,18,0,1,1,Freiburg,2021-01-02 Hoffenheim-Freiburg,GER-BL1,20-21,a8653b9a
+5e22e2a4,Baptiste Santamaria,8,FRA,CM,25-299,84,1,0,0,0,2,2,0,0,42,3,2,1,0.8,0.8,0.1,1,0,19,25,76.0,2,21,2,2,1,Freiburg,2021-01-02 Hoffenheim-Freiburg,GER-BL1,20-21,a8653b9a
+1c08a3c8,Amir Abrashi,6,ALB,CM,30-281,6,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,1,1,0,0,Freiburg,2021-01-02 Hoffenheim-Freiburg,GER-BL1,20-21,a8653b9a
+088ca1bd,Jonathan Schmid,7,FRA,RM,30-194,45,0,0,0,0,0,0,0,0,36,0,1,1,0.0,0.0,0.1,1,0,25,31,80.6,2,15,2,3,3,Freiburg,2021-01-02 Hoffenheim-Freiburg,GER-BL1,20-21,a8653b9a
+2a29eb9b,Lukas Kübler,17,GER,"WB,RM",28-125,45,0,0,0,0,0,0,0,0,27,1,4,1,0.0,0.0,0.0,1,0,7,16,43.8,0,9,0,0,0,Freiburg,2021-01-02 Hoffenheim-Freiburg,GER-BL1,20-21,a8653b9a
+25ab9c9c,Manuel Gulde,5,GER,CB,29-325,90,0,0,0,0,0,0,0,0,30,0,1,0,0.0,0.0,0.0,1,0,21,26,80.8,2,14,1,0,0,Freiburg,2021-01-02 Hoffenheim-Freiburg,GER-BL1,20-21,a8653b9a
+f6bdc830,Keven Schlotterbeck,31,GER,CB,23-249,90,0,0,0,0,1,0,0,0,30,3,4,2,0.0,0.0,0.0,0,0,12,17,70.6,0,8,0,0,0,Freiburg,2021-01-02 Hoffenheim-Freiburg,GER-BL1,20-21,a8653b9a
+302527b2,Philipp Lienhart,3,AUT,CB,24-175,90,0,0,0,0,1,0,0,0,47,2,2,1,0.1,0.1,0.0,0,0,24,35,68.6,2,29,0,1,0,Freiburg,2021-01-02 Hoffenheim-Freiburg,GER-BL1,20-21,a8653b9a
+cbac6ec9,Florian Müller,21,GER,GK,23-050,90,0,0,0,0,0,0,0,0,34,0,0,0,0.0,0.0,0.0,1,0,14,29,48.3,0,16,0,0,0,Freiburg,2021-01-02 Hoffenheim-Freiburg,GER-BL1,20-21,a8653b9a

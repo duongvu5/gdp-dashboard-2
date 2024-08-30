@@ -1,0 +1,32 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+58ae47b2,Dimitri Payet,10,FRA,FW,34-152,90,0,1,0,0,2,1,0,0,50,0,0,1,0.1,0.1,0.5,12,1,33,44,75.0,9,26,4,2,1,Marseille,2021-08-28 Marseille-Saint-Étienne,FRA-L1,21-22,35ab15f5
+4b77bb89,Konrad De La Fuente,20,USA,LW,20-043,55,0,1,0,0,1,0,0,0,25,0,0,2,0.1,0.1,0.1,3,2,15,18,83.3,0,15,0,2,0,Marseille,2021-08-28 Marseille-Saint-Étienne,FRA-L1,21-22,35ab15f5
+f36d5624,Luis Henrique,11,BRA,LW,19-257,35,0,0,0,0,2,0,0,0,7,0,1,0,0.6,0.6,0.0,1,0,4,4,100.0,1,2,0,0,0,Marseille,2021-08-28 Marseille-Saint-Étienne,FRA-L1,21-22,35ab15f5
+1880614f,Cengiz Ünder,17,TUR,RW,24-045,90,1,0,0,0,3,1,0,0,41,0,0,0,0.2,0.2,0.6,4,0,26,35,74.3,0,25,3,3,2,Marseille,2021-08-28 Marseille-Saint-Étienne,FRA-L1,21-22,35ab15f5
+8827bf46,Gerson,8,BRA,AM,24-100,84,1,0,0,0,2,1,0,0,41,2,0,0,0.4,0.4,0.1,2,0,29,32,90.6,1,18,2,0,0,Marseille,2021-08-28 Marseille-Saint-Étienne,FRA-L1,21-22,35ab15f5
+ff800ed8,Pol Lirola,29,ESP,DM,24-015,6,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,2,4,50.0,0,2,0,0,0,Marseille,2021-08-28 Marseille-Saint-Étienne,FRA-L1,21-22,35ab15f5
+5ea8ef20,Mattéo Guendouzi,6,FRA,"LM,RM",22-136,90,1,0,0,0,2,1,0,0,89,1,0,0,0.2,0.2,0.1,5,0,71,78,91.0,14,62,5,2,0,Marseille,2021-08-28 Marseille-Saint-Étienne,FRA-L1,21-22,35ab15f5
+ed45c4a5,Valentin Rongier,21,FRA,RM,26-264,73,0,1,0,0,4,1,0,0,86,6,1,2,0.5,0.5,0.3,3,1,71,72,98.6,6,32,2,0,0,Marseille,2021-08-28 Marseille-Saint-Étienne,FRA-L1,21-22,35ab15f5
+7155e3e1,Pape Gueye,22,SEN,LM,22-216,17,0,0,0,0,0,0,1,0,18,2,1,0,0.0,0.0,0.0,0,0,13,14,92.9,1,7,1,0,0,Marseille,2021-08-28 Marseille-Saint-Étienne,FRA-L1,21-22,35ab15f5
+cc77354e,Boubacar Kamara,4,FRA,DM,21-278,90,0,0,0,0,1,0,0,0,95,3,1,0,0.0,0.0,0.0,2,0,78,87,89.7,5,37,2,1,0,Marseille,2021-08-28 Marseille-Saint-Étienne,FRA-L1,21-22,35ab15f5
+a5549ec1,Luan Peres Petroni,14,BRA,CB,27-040,90,0,0,0,0,0,0,0,0,86,5,1,1,0.0,0.0,0.0,0,0,60,74,81.1,2,44,2,2,2,Marseille,2021-08-28 Marseille-Saint-Étienne,FRA-L1,21-22,35ab15f5
+42dcf26d,Álvaro González,3,ESP,CB,31-232,90,0,0,0,0,1,0,0,0,84,0,0,0,0.1,0.1,0.0,0,0,77,81,95.1,3,45,0,0,0,Marseille,2021-08-28 Marseille-Saint-Étienne,FRA-L1,21-22,35ab15f5
+972aeb2a,William Saliba,2,FRA,CB,20-157,90,0,0,0,0,1,0,0,0,107,1,1,0,0.1,0.1,0.0,1,0,94,98,95.9,5,55,2,6,6,Marseille,2021-08-28 Marseille-Saint-Étienne,FRA-L1,21-22,35ab15f5
+1d2d5cc8,Steve Mandanda,30,FRA,GK,36-153,90,0,0,0,0,0,0,0,0,32,0,0,0,0.0,0.0,0.0,2,0,25,27,92.6,0,10,0,0,0,Marseille,2021-08-28 Marseille-Saint-Étienne,FRA-L1,21-22,35ab15f5
+b94b8be1,Adil Aouchiche,17,FRA,FW,19-044,45,0,1,0,0,1,1,0,0,23,0,1,0,0.0,0.0,0.2,2,2,16,18,88.9,0,10,1,1,0,Saint-Étienne,2021-08-28 Marseille-Saint-Étienne,FRA-L1,21-22,35ab15f5
+7b9a9e25,Arnaud Nordin,18,FRA,"AM,RW",23-072,45,0,0,0,0,2,1,0,0,23,2,0,0,0.1,0.1,0.0,3,0,12,16,75.0,2,6,2,0,0,Saint-Étienne,2021-08-28 Marseille-Saint-Étienne,FRA-L1,21-22,35ab15f5
+2677a1de,Wahbi Khazri,10,TUN,"LW,FW",30-201,69,0,0,0,0,0,0,1,0,26,2,0,2,0.0,0.0,0.1,1,0,16,18,88.9,1,12,1,3,2,Saint-Étienne,2021-08-28 Marseille-Saint-Étienne,FRA-L1,21-22,35ab15f5
+037f2523,Jean-Philippe Krasso,14,CIV,FW,24-042,21,0,0,0,0,1,0,0,0,8,0,0,1,0.1,0.1,0.0,0,0,3,3,100.0,0,4,0,2,2,Saint-Étienne,2021-08-28 Marseille-Saint-Étienne,FRA-L1,21-22,35ab15f5
+0b0cbe5b,Denis Bouanga,20,GAB,"RW,AM,LW,LM",26-290,70,0,0,0,0,4,4,0,0,24,1,0,0,0.3,0.3,0.0,2,0,9,14,64.3,2,17,0,2,0,Saint-Étienne,2021-08-28 Marseille-Saint-Étienne,FRA-L1,21-22,35ab15f5
+7d9f3d69,Mathys Saban,32,FRA,AM,19-105,20,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,2,4,50.0,0,4,0,1,1,Saint-Étienne,2021-08-28 Marseille-Saint-Étienne,FRA-L1,21-22,35ab15f5
+0ad37003,Yvan Neyou,19,CMR,"LM,DM,RM",24-237,90,0,0,0,0,0,0,0,0,51,2,2,1,0.0,0.0,0.0,0,0,38,42,90.5,2,24,0,1,1,Saint-Étienne,2021-08-28 Marseille-Saint-Étienne,FRA-L1,21-22,35ab15f5
+3cd7820a,Lucas Gourna-Douath,6,FRA,CM,18-023,57,0,0,0,0,0,0,0,0,21,1,1,2,0.0,0.0,0.0,0,0,10,14,71.4,0,10,0,0,0,Saint-Étienne,2021-08-28 Marseille-Saint-Étienne,FRA-L1,21-22,35ab15f5
+0b4d8274,Romain Hamouma,21,FRA,FW,34-152,33,0,0,0,0,1,0,0,0,15,1,0,0,0.4,0.4,0.2,2,0,9,9,100.0,1,11,0,1,0,Saint-Étienne,2021-08-28 Marseille-Saint-Étienne,FRA-L1,21-22,35ab15f5
+8577e60a,Mahdi Camara,8,FRA,"RM,DM,CM",23-059,84,0,0,0,0,0,0,1,0,48,3,1,2,0.0,0.0,0.0,3,0,32,40,80.0,3,29,1,0,0,Saint-Étienne,2021-08-28 Marseille-Saint-Étienne,FRA-L1,21-22,35ab15f5
+e2f9bb5f,Zaydou Youssouf,28,FRA,DM,22-048,6,0,0,0,0,0,0,0,0,10,1,0,0,0.0,0.0,0.0,2,0,6,8,75.0,1,4,0,0,0,Saint-Étienne,2021-08-28 Marseille-Saint-Étienne,FRA-L1,21-22,35ab15f5
+ab096c6f,Timothée Kolodziejczak,5,FRA,LB,29-331,90,1,0,0,0,1,1,0,0,47,1,1,2,0.2,0.2,0.1,2,0,31,38,81.6,3,18,2,0,0,Saint-Étienne,2021-08-28 Marseille-Saint-Étienne,FRA-L1,21-22,35ab15f5
+5f26e0c5,Harold Moukoudi,2,CMR,CB,23-274,90,0,0,0,0,0,0,0,0,36,1,2,2,0.0,0.0,0.0,1,0,27,28,96.4,2,22,1,0,0,Saint-Étienne,2021-08-28 Marseille-Saint-Étienne,FRA-L1,21-22,35ab15f5
+f6b94e8d,Saidou Sow,4,GUI,CB,19-055,90,0,0,0,0,1,0,0,0,48,0,1,0,0.0,0.0,0.0,0,0,35,42,83.3,4,22,0,2,1,Saint-Étienne,2021-08-28 Marseille-Saint-Étienne,FRA-L1,21-22,35ab15f5
+0bb6e193,Yvann Macon,27,FRA,RB,22-331,90,0,0,0,0,0,0,1,0,72,4,2,1,0.0,0.0,0.4,1,0,47,55,85.5,5,29,2,5,1,Saint-Étienne,2021-08-28 Marseille-Saint-Étienne,FRA-L1,21-22,35ab15f5
+667b65da,Etienne Green,40,ENG,GK,21-040,90,0,0,0,0,0,0,0,0,31,0,0,0,0.0,0.0,0.0,1,0,20,30,66.7,0,10,0,0,0,Saint-Étienne,2021-08-28 Marseille-Saint-Étienne,FRA-L1,21-22,35ab15f5

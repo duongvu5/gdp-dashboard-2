@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+f83c8d6c,Jimmy Briand,23,FRA,FW,32-242,90,0,0,0,0,3,2,0,0,43,1,0,0,0.5,0.5,0.0,2,1,23,31,74.2,1,28,3,4,3,Guingamp,2018-04-01 Guingamp-Bordeaux,FRA-L1,17-18,513f5d21
+30395d3b,Nicolas Benezet,10,FRA,LW,27-036,88,0,0,0,0,0,0,0,0,51,1,0,0,0.0,0.0,0.0,4,1,31,46,67.4,3,44,7,6,5,Guingamp,2018-04-01 Guingamp-Bordeaux,FRA-L1,17-18,513f5d21
+167d5018,Félix Eboa Eboa,20,CMR,DM,20-347,2,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,0,0,Guingamp,2018-04-01 Guingamp-Bordeaux,FRA-L1,17-18,513f5d21
+bb4a42be,Yannis Salibur,19,FRA,RW,27-067,27,0,0,0,0,2,1,0,0,13,0,0,0,0.0,0.0,0.0,1,0,3,6,50.0,0,8,2,3,1,Guingamp,2018-04-01 Guingamp-Bordeaux,FRA-L1,17-18,513f5d21
+813aae2f,Yeni Ngbakoto,12,COD,RW,26-068,63,0,0,0,0,2,0,0,0,36,3,0,3,0.1,0.1,0.0,2,1,13,22,59.1,0,15,3,2,1,Guingamp,2018-04-01 Guingamp-Bordeaux,FRA-L1,17-18,513f5d21
+8b298f56,Clément Grenier,6,FRA,AM,27-084,90,1,0,0,0,3,1,0,0,72,5,3,2,0.2,0.2,0.1,5,0,37,56,66.1,8,44,1,1,1,Guingamp,2018-04-01 Guingamp-Bordeaux,FRA-L1,17-18,513f5d21
+d2aa8ac0,Étienne Didot,17,FRA,DM,34-251,90,0,0,0,0,0,0,1,0,70,3,0,2,0.0,0.0,0.0,1,0,50,61,82.0,7,38,3,0,0,Guingamp,2018-04-01 Guingamp-Bordeaux,FRA-L1,17-18,513f5d21
+6c6ecdd4,Mustapha Diallo,5,SEN,DM,31-322,61,1,0,0,0,2,2,0,0,47,5,0,6,0.1,0.1,0.0,1,0,28,33,84.8,1,23,0,0,0,Guingamp,2018-04-01 Guingamp-Bordeaux,FRA-L1,17-18,513f5d21
+6191093d,Ludovic Blas,7,FRA,"DM,LW",20-091,29,0,0,0,0,1,0,0,0,12,0,0,0,0.0,0.0,0.0,0,0,7,9,77.8,2,7,0,1,1,Guingamp,2018-04-01 Guingamp-Bordeaux,FRA-L1,17-18,513f5d21
+276cce2e,Pedro Rebocho,3,POR,LB,23-068,90,0,0,0,0,0,0,0,0,56,2,1,1,0.0,0.0,0.1,1,0,32,44,72.7,3,26,2,0,0,Guingamp,2018-04-01 Guingamp-Bordeaux,FRA-L1,17-18,513f5d21
+7768df30,Jérémy Sorbon,15,FRA,CB,34-239,90,0,0,0,0,0,0,0,0,46,1,4,3,0.0,0.0,0.0,0,0,27,33,81.8,1,23,0,0,0,Guingamp,2018-04-01 Guingamp-Bordeaux,FRA-L1,17-18,513f5d21
+0515a4cb,Christophe Kerbrat,29,FRA,CB,31-242,90,0,0,0,0,1,0,0,0,50,4,0,2,0.1,0.1,0.0,1,0,28,34,82.4,0,31,0,0,0,Guingamp,2018-04-01 Guingamp-Bordeaux,FRA-L1,17-18,513f5d21
+8ff4872e,Jordan Ikoko,2,COD,RB,24-057,90,0,0,0,0,0,0,0,0,53,1,1,3,0.0,0.0,0.1,3,0,36,43,83.7,3,29,2,2,2,Guingamp,2018-04-01 Guingamp-Bordeaux,FRA-L1,17-18,513f5d21
+a56bd2ee,Karl-Johan Johnsson,1,SWE,GK,28-063,90,0,0,0,0,0,0,0,0,31,0,0,0,0.0,0.0,0.0,0,0,15,26,57.7,0,11,0,0,0,Guingamp,2018-04-01 Guingamp-Bordeaux,FRA-L1,17-18,513f5d21
+b0547a87,Nicolas de Préville,12,FRA,FW,27-083,57,0,0,0,0,0,0,0,0,17,0,0,1,0.0,0.0,0.1,1,0,10,12,83.3,0,9,0,1,1,Bordeaux,2018-04-01 Guingamp-Bordeaux,FRA-L1,17-18,513f5d21
+c650629d,Younousse Sankharé,13,SEN,LM,28-203,33,0,0,0,0,3,1,0,0,12,1,0,1,0.2,0.2,0.0,2,0,5,6,83.3,1,5,0,0,0,Bordeaux,2018-04-01 Guingamp-Bordeaux,FRA-L1,17-18,513f5d21
+fd771f95,Martin Braithwaite,9,DEN,LW,26-300,76,0,0,0,0,0,0,0,0,20,0,0,0,0.0,0.0,0.3,1,0,10,13,76.9,1,15,0,2,0,Bordeaux,2018-04-01 Guingamp-Bordeaux,FRA-L1,17-18,513f5d21
+81d3318f,François Kamano,11,GUI,LW,21-334,14,0,0,0,0,0,0,0,0,8,0,0,1,0.0,0.0,0.0,1,0,4,6,66.7,0,5,2,1,0,Bordeaux,2018-04-01 Guingamp-Bordeaux,FRA-L1,17-18,513f5d21
+6853490f,Malcom,7,BRA,RW,21-034,90,1,0,0,1,4,2,0,0,70,0,1,0,1.3,0.3,0.3,9,1,43,57,75.4,5,50,3,7,4,Bordeaux,2018-04-01 Guingamp-Bordeaux,FRA-L1,17-18,513f5d21
+5cec2c74,Soualiho Meïté,10,FRA,"LM,CM",24-015,90,0,0,0,0,1,0,0,0,66,1,1,1,0.0,0.0,0.0,2,0,42,54,77.8,4,47,0,5,2,Bordeaux,2018-04-01 Guingamp-Bordeaux,FRA-L1,17-18,513f5d21
+243f4a0b,Otávio,5,BRA,CM,23-332,58,0,0,0,0,0,0,1,0,39,1,0,1,0.0,0.0,0.1,2,0,29,33,87.9,2,27,1,0,0,Bordeaux,2018-04-01 Guingamp-Bordeaux,FRA-L1,17-18,513f5d21
+7cdda3bf,Gaëtan Laborde,24,FRA,FW,23-333,32,0,0,0,0,2,1,0,0,12,0,0,0,0.7,0.7,0.0,1,0,3,7,42.9,0,8,3,0,0,Bordeaux,2018-04-01 Guingamp-Bordeaux,FRA-L1,17-18,513f5d21
+1b82f8df,Lukas Lerager,19,DEN,RM,24-263,90,0,0,0,0,2,1,0,0,55,3,4,1,0.1,0.1,0.0,2,0,32,46,69.6,3,28,1,0,0,Bordeaux,2018-04-01 Guingamp-Bordeaux,FRA-L1,17-18,513f5d21
+b92edde2,Maxime Poundjé,29,FRA,LB,25-228,90,0,0,0,0,1,0,1,0,68,6,2,1,0.0,0.0,0.1,1,0,38,52,73.1,5,28,2,3,1,Bordeaux,2018-04-01 Guingamp-Bordeaux,FRA-L1,17-18,513f5d21
+2515040a,Paul Baysse,8,FRA,CB,29-318,90,0,0,0,0,1,0,0,0,74,0,2,1,0.1,0.1,0.0,0,0,48,55,87.3,5,43,1,0,0,Bordeaux,2018-04-01 Guingamp-Bordeaux,FRA-L1,17-18,513f5d21
+4d1666ff,Jules Koundé,31,FRA,CB,19-140,90,0,0,0,0,0,0,0,0,71,2,1,1,0.0,0.0,0.0,3,0,43,57,75.4,6,39,3,1,1,Bordeaux,2018-04-01 Guingamp-Bordeaux,FRA-L1,17-18,513f5d21
+fbbb9269,Youssouf Sabaly,20,SEN,RB,25-027,90,0,0,0,0,0,0,0,0,81,3,2,2,0.0,0.0,0.0,1,0,57,73,78.1,5,44,4,4,4,Bordeaux,2018-04-01 Guingamp-Bordeaux,FRA-L1,17-18,513f5d21
+2434f24a,Benoît Costil,1,FRA,GK,30-272,90,0,0,0,0,0,0,0,0,41,0,0,0,0.0,0.0,0.0,0,0,27,39,69.2,0,22,0,0,0,Bordeaux,2018-04-01 Guingamp-Bordeaux,FRA-L1,17-18,513f5d21

@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+165a2e40,Burak Yılmaz,17,TUR,FW,36-069,90,0,2,0,0,1,1,0,0,41,2,0,2,0.1,0.1,0.4,3,2,21,28,75.0,0,23,4,2,0,Lille,2021-09-22 Lille-Reims,FRA-L1,21-22,68eb42e9
+ce50fd99,Jonathan David,9,CAN,FW,21-251,90,1,0,0,0,2,1,0,0,35,1,0,1,0.3,0.3,0.1,3,0,19,21,90.5,4,20,0,4,2,Lille,2021-09-22 Lille-Reims,FRA-L1,21-22,68eb42e9
+8eec784d,Timothy Weah,22,USA,LM,21-212,59,0,0,0,0,0,0,0,0,25,2,0,0,0.0,0.0,0.0,0,0,13,21,61.9,1,16,0,0,0,Lille,2021-09-22 Lille-Reims,FRA-L1,21-22,68eb42e9
+645a3363,Angel Gomes,20,ENG,LM,21-022,31,0,0,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.0,0,0,7,9,77.8,0,8,0,1,0,Lille,2021-09-22 Lille-Reims,FRA-L1,21-22,68eb42e9
+828657ff,Amadou Onana,24,BEL,CM,20-037,84,0,0,0,0,0,0,0,0,37,0,0,0,0.0,0.0,0.1,1,0,30,35,85.7,1,22,1,0,0,Lille,2021-09-22 Lille-Reims,FRA-L1,21-22,68eb42e9
+ff20acfe,Cheikh Niasse,27,SEN,CM,21-246,6,0,0,0,0,0,0,0,0,6,1,0,0,0.0,0.0,0.0,0,0,3,4,75.0,2,2,0,0,0,Lille,2021-09-22 Lille-Reims,FRA-L1,21-22,68eb42e9
+ef9c1c95,Benjamin André,21,FRA,CM,31-050,90,1,0,0,0,1,1,0,0,68,6,1,1,0.3,0.3,0.0,1,1,39,52,75.0,2,31,2,2,2,Lille,2021-09-22 Lille-Reims,FRA-L1,21-22,68eb42e9
+42eaa028,Jonathan Ikone,10,FRA,RM,23-143,74,0,0,0,0,1,1,0,0,34,0,1,0,0.0,0.0,0.0,3,1,20,27,74.1,6,26,3,0,0,Lille,2021-09-22 Lille-Reims,FRA-L1,21-22,68eb42e9
+f5c8b425,Yusuf Yazıcı,11,TUR,RM,24-236,16,0,0,0,0,0,0,1,0,8,0,0,0,0.0,0.0,0.0,0,0,3,8,37.5,0,3,0,0,0,Lille,2021-09-22 Lille-Reims,FRA-L1,21-22,68eb42e9
+d5d22a58,Gabriel Gudmundsson,5,SWE,LB,22-146,74,0,0,0,0,1,0,0,0,53,2,2,3,0.0,0.0,0.0,0,0,29,41,70.7,4,26,2,1,0,Lille,2021-09-22 Lille-Reims,FRA-L1,21-22,68eb42e9
+8bbe2df5,Domagoj Bradarić,29,CRO,LB,21-286,16,0,0,0,0,0,0,0,0,11,1,0,0,0.0,0.0,0.0,0,0,8,9,88.9,0,7,2,1,0,Lille,2021-09-22 Lille-Reims,FRA-L1,21-22,68eb42e9
+ccce7025,Sven Botman,4,NED,CB,21-253,90,0,0,0,0,0,0,1,0,70,1,0,1,0.0,0.0,0.0,0,0,53,62,85.5,1,49,1,0,0,Lille,2021-09-22 Lille-Reims,FRA-L1,21-22,68eb42e9
+90f87966,José Fonte,6,POR,CB,37-274,90,0,0,0,0,0,0,0,0,55,0,0,1,0.0,0.0,0.0,2,0,37,46,80.4,0,32,0,0,0,Lille,2021-09-22 Lille-Reims,FRA-L1,21-22,68eb42e9
+31a62dc7,Zeki Çelik,2,TUR,RB,24-217,90,0,0,0,0,1,0,0,0,70,1,3,0,0.0,0.0,0.0,1,0,45,57,78.9,3,36,1,2,2,Lille,2021-09-22 Lille-Reims,FRA-L1,21-22,68eb42e9
+3f034750,Ivo Grbić,1,CRO,GK,25-247,90,0,0,0,0,0,0,0,0,32,0,0,0,0.0,0.0,0.0,0,0,23,29,79.3,0,18,0,0,0,Lille,2021-09-22 Lille-Reims,FRA-L1,21-22,68eb42e9
+0b2c9aec,Mitchell van Bergen,19,NED,"FW,LW",22-026,75,0,0,0,0,1,0,0,0,18,0,1,0,0.0,0.0,0.0,2,0,8,9,88.9,1,12,0,1,0,Reims,2021-09-22 Lille-Reims,FRA-L1,21-22,68eb42e9
+0f26fd24,Anastasios Donis,17,GRE,LW,25-024,15,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,0,2,0.0,0,2,1,0,0,Reims,2021-09-22 Lille-Reims,FRA-L1,21-22,68eb42e9
+46750e9c,Nathanael Mbuku,11,FRA,"FW,RW",19-190,66,0,0,0,0,3,2,0,0,29,0,0,0,0.2,0.2,0.0,1,0,17,19,89.5,1,19,1,3,1,Reims,2021-09-22 Lille-Reims,FRA-L1,21-22,68eb42e9
+9f1c2822,Philippe Koffi,34,CIV,RW,19-197,24,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,1,1,3,3,100.0,0,6,1,1,1,Reims,2021-09-22 Lille-Reims,FRA-L1,21-22,68eb42e9
+d5575935,Valon Berisha,14,KVX,CM,28-227,7,0,0,0,0,0,0,0,0,5,0,1,0,0.0,0.0,0.0,0,0,3,3,100.0,0,1,0,0,0,Reims,2021-09-22 Lille-Reims,FRA-L1,21-22,68eb42e9
+5b92d896,Hugo Ekitike,22,FRA,"CM,FW",19-094,59,0,0,0,0,0,0,0,0,21,1,0,1,0.0,0.0,0.0,0,0,8,13,61.5,0,7,0,1,1,Reims,2021-09-22 Lille-Reims,FRA-L1,21-22,68eb42e9
+caef7840,Alexis Flips,12,FRA,FW,21-247,24,1,0,1,1,1,0,0,0,13,0,0,0,0.8,0.0,0.0,2,0,8,10,80.0,2,6,1,1,0,Reims,2021-09-22 Lille-Reims,FRA-L1,21-22,68eb42e9
+a17a94d6,Azor Matusiwa,21,NED,CM,23-147,90,0,0,0,0,0,0,0,0,55,4,2,1,0.0,0.0,0.0,2,0,33,42,78.6,4,28,0,1,1,Reims,2021-09-22 Lille-Reims,FRA-L1,21-22,68eb42e9
+2acf0cd7,Marshall Munetsi,15,ZIM,"LM,CM",25-092,90,0,0,0,0,2,1,0,0,38,0,1,4,0.1,0.1,0.0,3,1,19,23,82.6,3,23,0,0,0,Reims,2021-09-22 Lille-Reims,FRA-L1,21-22,68eb42e9
+6b2c894b,Ghislain Konan,3,CIV,LB,25-269,90,0,0,0,0,0,0,0,0,55,2,2,2,0.0,0.0,0.1,2,0,35,48,72.9,6,34,5,0,0,Reims,2021-09-22 Lille-Reims,FRA-L1,21-22,68eb42e9
+32c2d95f,Yunis Abdelhamid,5,MAR,CB,33-359,90,0,0,0,0,1,0,0,0,59,0,2,1,0.0,0.0,0.0,1,0,41,51,80.4,2,41,0,3,3,Reims,2021-09-22 Lille-Reims,FRA-L1,21-22,68eb42e9
+9c221d14,Wout Faes,2,BEL,CB,23-172,90,0,0,0,0,0,0,0,0,62,2,3,1,0.0,0.0,0.0,0,0,45,51,88.2,2,34,0,1,1,Reims,2021-09-22 Lille-Reims,FRA-L1,21-22,68eb42e9
+49136c42,Andrew Gravillon,6,GLP,"RB,CB",23-226,90,0,0,0,0,1,1,1,0,66,3,0,1,0.0,0.0,0.1,2,0,42,52,80.8,3,30,0,0,0,Reims,2021-09-22 Lille-Reims,FRA-L1,21-22,68eb42e9
+90eb507d,Thomas Foket,32,BEL,RB,26-362,45,0,0,0,0,0,0,0,0,33,2,0,1,0.0,0.0,0.0,0,0,20,27,74.1,1,17,4,1,0,Reims,2021-09-22 Lille-Reims,FRA-L1,21-22,68eb42e9
+37d04e90,Ilan Kebbal,20,ALG,RM,23-075,45,0,0,0,0,1,0,0,0,30,0,0,1,0.1,0.1,0.2,5,0,18,23,78.3,5,21,2,4,3,Reims,2021-09-22 Lille-Reims,FRA-L1,21-22,68eb42e9
+58ad9383,Predrag Rajković,1,SRB,GK,25-326,90,0,0,0,0,0,0,0,0,30,0,0,0,0.0,0.0,0.0,0,0,18,28,64.3,0,16,0,0,0,Reims,2021-09-22 Lille-Reims,FRA-L1,21-22,68eb42e9

@@ -1,0 +1,32 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+42fd9c7f,Kylian Mbappé,7,FRA,FW,23-104,90,2,3,0,0,5,3,0,0,68,0,0,0,0.4,0.4,1.1,11,5,43,50,86.0,8,63,11,13,6,Paris Saint-Germain,2022-04-03 Paris S-G-Lorient,FRA-L1,21-22,d5fd03e9
+d70ce98e,Lionel Messi,30,ARG,"FW,RM",34-283,90,1,0,0,0,4,1,0,0,65,0,0,0,0.4,0.4,0.0,3,0,47,58,81.0,9,57,3,4,3,Paris Saint-Germain,2022-04-03 Paris S-G-Lorient,FRA-L1,21-22,d5fd03e9
+69384e5d,Neymar,10,BRA,LM,30-057,90,2,0,0,0,4,3,0,0,84,2,0,1,1.0,1.0,0.5,8,2,58,68,85.3,6,75,6,11,4,Paris Saint-Germain,2022-04-03 Paris S-G-Lorient,FRA-L1,21-22,d5fd03e9
+72c812f3,Idrissa Gana Gueye,27,SEN,CM,32-189,90,0,1,0,0,0,0,1,0,87,3,3,1,0.0,0.0,0.1,3,1,76,79,96.2,10,73,0,1,1,Paris Saint-Germain,2022-04-03 Paris S-G-Lorient,FRA-L1,21-22,d5fd03e9
+dff153a4,Leandro Paredes,8,ARG,CM,27-278,42,0,0,0,0,0,0,0,0,43,0,0,0,0.0,0.0,0.0,0,0,43,43,100.0,5,38,0,0,0,Paris Saint-Germain,2022-04-03 Paris S-G-Lorient,FRA-L1,21-22,d5fd03e9
+eb58eef0,Georginio Wijnaldum,18,NED,CM,31-143,48,0,0,0,0,0,0,0,0,27,1,0,0,0.0,0.0,0.0,0,0,17,22,77.3,0,21,0,1,1,Paris Saint-Germain,2022-04-03 Paris S-G-Lorient,FRA-L1,21-22,d5fd03e9
+8fd9996f,Danilo Pereira,15,POR,RM,30-206,79,0,0,0,0,1,0,0,0,92,0,2,1,0.1,0.1,0.0,2,0,82,86,95.3,10,76,1,0,0,Paris Saint-Germain,2022-04-03 Paris S-G-Lorient,FRA-L1,21-22,d5fd03e9
+51dbeea9,Thilo Kehrer,24,GER,CB,25-194,11,0,0,0,0,0,0,0,0,10,1,0,0,0.0,0.0,0.0,0,0,9,9,100.0,0,8,0,0,0,Paris Saint-Germain,2022-04-03 Paris S-G-Lorient,FRA-L1,21-22,d5fd03e9
+f20e4cc9,Nuno Mendes,25,POR,LB,19-288,90,0,0,0,0,0,0,0,0,79,3,2,2,0.0,0.0,0.1,0,0,60,70,85.7,7,61,1,1,0,Paris Saint-Germain,2022-04-03 Paris S-G-Lorient,FRA-L1,21-22,d5fd03e9
+aef6e670,Presnel Kimpembe,3,FRA,CB,26-233,90,0,0,0,0,0,0,1,0,81,1,0,0,0.0,0.0,0.0,0,0,73,76,96.1,9,66,1,0,0,Paris Saint-Germain,2022-04-03 Paris S-G-Lorient,FRA-L1,21-22,d5fd03e9
+d5f2f82b,Marquinhos,5,BRA,CB,27-324,71,0,0,0,0,0,0,0,0,78,0,0,1,0.0,0.0,0.0,0,0,72,74,97.3,4,70,0,0,0,Paris Saint-Germain,2022-04-03 Paris S-G-Lorient,FRA-L1,21-22,d5fd03e9
+08511d65,Sergio Ramos,4,ESP,CB,36-004,19,0,0,0,0,0,0,0,0,19,1,0,0,0.0,0.0,0.0,0,0,15,16,93.8,0,15,0,0,0,Paris Saint-Germain,2022-04-03 Paris S-G-Lorient,FRA-L1,21-22,d5fd03e9
+e42d61c7,Achraf Hakimi,2,MAR,RB,23-150,90,0,1,0,0,1,0,0,0,97,4,3,0,0.0,0.0,0.1,1,1,73,82,89.0,4,76,5,4,1,Paris Saint-Germain,2022-04-03 Paris S-G-Lorient,FRA-L1,21-22,d5fd03e9
+08f5afaa,Gianluigi Donnarumma,50,ITA,GK,23-037,90,0,0,0,0,0,0,0,0,25,0,0,0,0.0,0.0,0.0,0,0,22,23,95.7,0,18,0,0,0,Paris Saint-Germain,2022-04-03 Paris S-G-Lorient,FRA-L1,21-22,d5fd03e9
+04bb2b06,Ibrahima Koné,9,MLI,FW,22-291,67,0,0,0,0,0,0,1,0,13,1,1,1,0.0,0.0,0.1,0,0,4,7,57.1,0,6,1,0,0,Lorient,2022-04-03 Paris S-G-Lorient,FRA-L1,21-22,d5fd03e9
+7cc00776,Sambou Soumano,22,SEN,LM,21-090,23,0,0,0,0,0,0,0,0,7,0,1,0,0.0,0.0,0.0,0,0,5,6,83.3,0,3,0,0,0,Lorient,2022-04-03 Paris S-G-Lorient,FRA-L1,21-22,d5fd03e9
+065dc209,Terem Moffi,13,NGA,FW,22-313,76,1,0,0,0,2,2,0,0,21,0,0,1,0.2,0.2,0.0,1,0,12,16,75.0,2,9,0,1,1,Lorient,2022-04-03 Paris S-G-Lorient,FRA-L1,21-22,d5fd03e9
+f6496133,Quentin Boisgard,11,FRA,FW,25-017,14,0,0,0,0,1,1,0,0,10,0,0,0,0.0,0.0,0.0,0,0,8,8,100.0,0,11,0,0,0,Lorient,2022-04-03 Paris S-G-Lorient,FRA-L1,21-22,d5fd03e9
+6f806d99,Enzo Le Fée,10,FRA,"LM,RM",22-059,88,0,0,0,0,3,0,0,0,62,3,1,0,0.2,0.2,0.0,4,0,42,51,82.4,2,51,2,3,0,Lorient,2022-04-03 Paris S-G-Lorient,FRA-L1,21-22,d5fd03e9
+54d51e22,Fabien Lemoine,18,FRA,RM,35-018,2,0,0,0,0,0,0,0,0,13,0,0,0,0.0,0.0,0.0,0,0,13,15,86.7,0,12,0,0,0,Lorient,2022-04-03 Paris S-G-Lorient,FRA-L1,21-22,d5fd03e9
+31626657,Laurent Abergel,6,FRA,CM,29-061,90,0,0,0,0,0,0,0,0,83,7,5,1,0.0,0.0,0.0,4,0,56,65,86.2,6,62,0,1,0,Lorient,2022-04-03 Paris S-G-Lorient,FRA-L1,21-22,d5fd03e9
+84d94b91,Thomas Monconduit,23,FRA,CM,31-052,88,0,0,0,0,1,0,0,0,59,3,1,0,0.0,0.0,0.0,3,0,37,47,78.7,4,42,1,0,0,Lorient,2022-04-03 Paris S-G-Lorient,FRA-L1,21-22,d5fd03e9
+e3e32fbb,Igor Carioca,2,BRA,CM,25-225,2,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,3,4,75.0,0,4,0,0,0,Lorient,2022-04-03 Paris S-G-Lorient,FRA-L1,21-22,d5fd03e9
+2f9e4435,Dango Ouattara,38,BFA,"RM,FW",20-051,76,0,0,0,0,2,1,0,0,26,1,1,3,0.1,0.1,0.0,1,0,12,16,75.0,1,18,3,2,0,Lorient,2022-04-03 Paris S-G-Lorient,FRA-L1,21-22,d5fd03e9
+2d22cea7,Armand Lauriente,28,FRA,FW,23-120,14,0,0,0,0,1,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,4,5,80.0,0,6,2,0,0,Lorient,2022-04-03 Paris S-G-Lorient,FRA-L1,21-22,d5fd03e9
+2321ea6e,Vincent Le Goff,25,FRA,LB,32-170,90,0,0,0,0,0,0,0,0,55,4,1,0,0.0,0.0,0.1,3,0,43,52,82.7,10,44,2,1,0,Lorient,2022-04-03 Paris S-G-Lorient,FRA-L1,21-22,d5fd03e9
+00638016,Léo Pétrot,19,FRA,CB,24-353,90,0,0,0,0,0,0,0,0,27,1,3,2,0.0,0.0,0.0,0,0,13,16,81.3,0,18,0,0,0,Lorient,2022-04-03 Paris S-G-Lorient,FRA-L1,21-22,d5fd03e9
+f066022d,Julien Laporte,15,FRA,CB,28-150,90,0,0,0,0,0,0,0,0,32,3,4,2,0.0,0.0,0.0,1,0,21,23,91.3,1,17,0,0,0,Lorient,2022-04-03 Paris S-G-Lorient,FRA-L1,21-22,d5fd03e9
+1545cf15,Houboulang Mendes,17,GNB,RB,23-334,90,0,0,0,0,1,0,0,0,47,3,0,0,0.0,0.0,0.0,0,0,35,41,85.4,3,26,2,0,0,Lorient,2022-04-03 Paris S-G-Lorient,FRA-L1,21-22,d5fd03e9
+fbf83734,Matthieu Dreyer,1,FRA,GK,33-014,90,0,0,0,0,0,0,0,0,18,0,0,0,0.0,0.0,0.0,0,0,10,14,71.4,0,5,0,0,0,Lorient,2022-04-03 Paris S-G-Lorient,FRA-L1,21-22,d5fd03e9

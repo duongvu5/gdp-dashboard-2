@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+23c63b7f,Ignatius Ganago,9,CMR,FW,23-053,45,0,0,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.0,0,0,4,9,44.4,0,11,1,0,0,Lens,2022-04-10 Lens-Nice,FRA-L1,21-22,96a51ad6
+bf4c41f9,Arnaud Kalimuendo,15,FRA,FW,20-080,45,2,0,0,0,2,2,0,0,17,0,0,0,0.6,0.6,0.0,1,1,8,8,100.0,1,14,1,6,1,Lens,2022-04-10 Lens-Nice,FRA-L1,21-22,96a51ad6
+7a42d0df,Florian Sotoca,7,FRA,"FW,LM",31-167,89,0,0,0,0,0,0,1,0,49,2,1,2,0.0,0.0,0.0,1,0,25,34,73.5,2,34,0,0,0,Lens,2022-04-10 Lens-Nice,FRA-L1,21-22,96a51ad6
+b3f8bdef,Deiver Machado,3,COL,LB,28-220,1,0,0,0,0,0,0,0,0,3,0,1,0,0.0,0.0,0.0,0,0,2,2,100.0,0,2,0,0,0,Lens,2022-04-10 Lens-Nice,FRA-L1,21-22,96a51ad6
+5167c97e,Massadio Haïdara,21,MLI,LW,29-129,16,0,0,0,0,0,0,0,1,6,0,0,0,0.0,0.0,0.0,0,0,4,4,100.0,1,3,0,0,0,Lens,2022-04-10 Lens-Nice,FRA-L1,21-22,96a51ad6
+00a8d210,Przemysław Frankowski,29,POL,"RW,RB",26-363,90,0,0,0,0,1,0,0,0,42,2,2,1,0.0,0.0,0.0,2,0,22,34,64.7,3,23,3,0,0,Lens,2022-04-10 Lens-Nice,FRA-L1,21-22,96a51ad6
+5313ed43,Seko Fofana,8,CIV,CM,26-338,82,0,0,0,0,1,0,0,0,34,4,0,1,0.1,0.1,0.0,1,1,22,26,84.6,2,27,2,0,0,Lens,2022-04-10 Lens-Nice,FRA-L1,21-22,96a51ad6
+e4114f5d,Patrick Berg,6,NOR,CM,24-137,8,0,0,0,0,0,0,0,0,8,1,0,0,0.0,0.0,0.0,0,0,6,7,85.7,0,7,1,0,0,Lens,2022-04-10 Lens-Nice,FRA-L1,21-22,96a51ad6
+59948ef7,David Pereira da Costa,20,POR,"LW,CM",21-095,73,0,1,0,0,0,0,0,0,35,1,1,0,0.0,0.0,0.1,2,2,21,32,65.6,0,30,3,1,1,Lens,2022-04-10 Lens-Nice,FRA-L1,21-22,96a51ad6
+5219ab4a,Jonathan Clauss,11,FRA,"RM,CM",29-197,17,0,0,0,0,0,0,0,0,14,1,0,0,0.0,0.0,0.0,0,0,8,10,80.0,1,8,1,3,1,Lens,2022-04-10 Lens-Nice,FRA-L1,21-22,96a51ad6
+ce4f40c7,Cheick Doucouré,28,MLI,"CM,DM",22-092,90,1,1,0,0,2,1,1,0,57,2,2,1,0.1,0.1,0.5,5,2,39,43,90.7,8,38,6,2,1,Lens,2022-04-10 Lens-Nice,FRA-L1,21-22,96a51ad6
+6f5ec8bb,Facundo Medina,14,ARG,"CB,LB",22-317,90,0,0,0,0,0,0,0,0,69,3,0,0,0.0,0.0,0.0,0,0,56,62,90.3,3,54,1,0,0,Lens,2022-04-10 Lens-Nice,FRA-L1,21-22,96a51ad6
+6e33125f,Kevin Danso,4,AUT,CB,23-203,90,0,0,0,0,0,0,0,0,54,2,1,2,0.0,0.0,0.0,0,0,34,42,81.0,1,35,0,0,0,Lens,2022-04-10 Lens-Nice,FRA-L1,21-22,96a51ad6
+06c48679,Jonathan Gradit,24,FRA,CB,29-137,90,0,0,0,0,0,0,0,0,48,4,1,0,0.0,0.0,0.0,0,0,27,33,81.8,0,28,0,1,0,Lens,2022-04-10 Lens-Nice,FRA-L1,21-22,96a51ad6
+edbe46dc,Jean-Louis Leca,16,FRA,GK,36-201,90,0,0,0,0,0,0,0,0,45,0,0,1,0.0,0.0,0.0,0,0,26,41,63.4,0,27,0,0,0,Lens,2022-04-10 Lens-Nice,FRA-L1,21-22,96a51ad6
+b73f17f8,Evann Guessand,24,CIV,FW,20-283,90,0,0,0,0,4,1,1,0,23,0,0,1,0.3,0.3,0.4,3,0,10,12,83.3,1,16,1,4,2,Nice,2022-04-10 Lens-Nice,FRA-L1,21-22,96a51ad6
+d33c706e,Andy Delort,7,ALG,FW,30-183,90,0,0,0,0,4,0,0,0,27,0,0,1,0.4,0.4,0.1,3,0,13,17,76.5,2,17,1,1,0,Nice,2022-04-10 Lens-Nice,FRA-L1,21-22,96a51ad6
+aad56ca3,Amine Gouiri,11,ALG,LM,22-053,67,0,0,0,0,3,3,1,0,41,0,0,2,0.5,0.5,0.0,3,0,22,30,73.3,2,33,3,3,1,Nice,2022-04-10 Lens-Nice,FRA-L1,21-22,96a51ad6
+7d9397f8,Khéphren Thuram,19,FRA,LM,21-015,23,0,0,0,0,0,0,0,0,21,0,1,0,0.0,0.0,0.0,0,0,15,20,75.0,2,20,3,1,1,Nice,2022-04-10 Lens-Nice,FRA-L1,21-22,96a51ad6
+2b471f99,Mario Lemina,18,GAB,CM,28-221,56,0,0,0,0,2,1,2,1,44,1,2,2,0.0,0.0,0.2,3,0,36,37,97.3,3,38,5,0,0,Nice,2022-04-10 Lens-Nice,FRA-L1,21-22,96a51ad6
+1a6b7ea4,Pablo Rosario,8,NED,CM,25-093,90,0,0,0,0,0,0,0,0,77,4,1,3,0.0,0.0,0.0,3,0,59,68,86.8,10,55,3,1,0,Nice,2022-04-10 Lens-Nice,FRA-L1,21-22,96a51ad6
+4c3a6744,Justin Kluivert,21,NED,RM,22-340,67,0,0,0,0,1,0,0,0,30,1,0,0,0.2,0.2,0.1,3,0,15,24,62.5,2,20,3,3,1,Nice,2022-04-10 Lens-Nice,FRA-L1,21-22,96a51ad6
+8f7e6783,Calvin Stengs,22,NED,RM,23-113,23,0,0,0,0,1,0,0,0,15,0,0,0,0.0,0.0,0.0,1,0,10,14,71.4,2,14,0,0,0,Nice,2022-04-10 Lens-Nice,FRA-L1,21-22,96a51ad6
+1ddbc7ca,Melvin Bard,26,FRA,LB,21-155,67,0,0,0,0,0,0,0,0,66,4,1,1,0.0,0.0,0.0,3,0,42,54,77.8,5,46,6,3,2,Nice,2022-04-10 Lens-Nice,FRA-L1,21-22,96a51ad6
+02bcaf8e,Bilal Brahimi,14,ALG,LB,22-027,23,0,0,0,0,0,0,0,0,17,0,0,0,0.0,0.0,0.0,1,0,15,17,88.2,0,13,4,0,0,Nice,2022-04-10 Lens-Nice,FRA-L1,21-22,96a51ad6
+fd2bc67d,Dante,4,BRA,CB,38-174,89,0,0,0,0,0,0,0,1,86,3,2,1,0.0,0.0,0.3,4,0,71,78,91.0,11,66,1,0,0,Nice,2022-04-10 Lens-Nice,FRA-L1,21-22,96a51ad6
+88f130ed,Jean-Clair Todibo,25,FRA,CB,22-101,80,0,0,0,0,1,1,0,0,74,1,0,2,0.0,0.0,0.0,1,0,61,69,88.4,8,60,3,1,1,Nice,2022-04-10 Lens-Nice,FRA-L1,21-22,96a51ad6
+7ef972c3,Flavius Daniliuc,5,AUT,CB,20-348,10,0,0,0,0,0,0,0,0,14,2,0,0,0.0,0.0,0.0,0,0,11,12,91.7,3,11,0,0,0,Nice,2022-04-10 Lens-Nice,FRA-L1,21-22,96a51ad6
+6a827d8e,Youcef Atal,20,ALG,RB,25-328,44,0,0,0,0,0,0,0,0,37,1,0,0,0.0,0.0,0.0,2,0,29,32,90.6,0,26,3,2,1,Nice,2022-04-10 Lens-Nice,FRA-L1,21-22,96a51ad6
+fc4cf6a7,Jordan Lotomba,23,SUI,RB,23-193,46,0,0,0,0,0,0,0,0,28,0,1,0,0.0,0.0,0.0,0,0,19,22,86.4,1,19,1,0,0,Nice,2022-04-10 Lens-Nice,FRA-L1,21-22,96a51ad6
+8a2248b4,Walter Benítez,40,ARG,GK,29-081,90,0,0,0,0,0,0,0,0,22,0,0,0,0.0,0.0,0.0,0,0,16,21,76.2,0,15,0,0,0,Nice,2022-04-10 Lens-Nice,FRA-L1,21-22,96a51ad6

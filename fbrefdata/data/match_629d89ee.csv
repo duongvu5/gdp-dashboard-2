@@ -1,0 +1,32 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+1f44ac21,Erling Haaland,9,NOR,FW,20-095,90,1,0,0,0,4,3,0,0,34,1,0,0,0.5,0.5,0.1,3,1,14,20,70.0,0,17,3,5,2,Dortmund,2020-10-24 Dortmund-Schalke 04,GER-BL1,20-21,629d89ee
+7fa4e703,Gio Reyna,32,USA,LW,17-346,70,0,0,0,0,3,0,0,0,63,1,0,1,0.2,0.2,0.0,1,0,31,43,72.1,1,31,3,9,4,Dortmund,2020-10-24 Dortmund-Schalke 04,GER-BL1,20-21,629d89ee
+5c899683,Felix Passlack,30,GER,LB,22-148,20,0,0,0,0,0,0,0,0,20,1,0,2,0.0,0.0,0.0,1,0,14,16,87.5,1,8,1,0,0,Dortmund,2020-10-24 Dortmund-Schalke 04,GER-BL1,20-21,629d89ee
+dbf053da,Jadon Sancho,7,ENG,RW,20-213,76,0,1,0,0,2,0,0,0,68,1,0,0,0.1,0.1,0.4,4,1,54,61,88.5,9,37,5,3,2,Dortmund,2020-10-24 Dortmund-Schalke 04,GER-BL1,20-21,629d89ee
+50871bcc,Thorgan Hazard,10,BEL,RW,27-209,14,0,0,0,0,0,0,0,0,12,0,0,1,0.0,0.0,0.0,0,0,9,10,90.0,1,3,0,0,0,Dortmund,2020-10-24 Dortmund-Schalke 04,GER-BL1,20-21,629d89ee
+a167537f,Julian Brandt,19,GER,AM,24-175,76,0,0,0,0,0,0,0,0,83,0,0,1,0.0,0.0,0.2,4,0,68,74,91.9,1,39,3,7,2,Dortmund,2020-10-24 Dortmund-Schalke 04,GER-BL1,20-21,629d89ee
+36a3ff67,Marco Reus,11,GER,AM,31-146,14,0,0,0,0,0,0,0,0,14,0,0,0,0.0,0.0,0.0,0,0,9,13,69.2,0,4,0,1,1,Dortmund,2020-10-24 Dortmund-Schalke 04,GER-BL1,20-21,629d89ee
+fe641c1a,Thomas Delaney,6,DEN,DM,29-051,90,0,0,0,0,0,0,0,0,80,1,1,2,0.0,0.0,0.0,4,0,67,73,91.8,4,29,1,0,0,Dortmund,2020-10-24 Dortmund-Schalke 04,GER-BL1,20-21,629d89ee
+db4ed67b,Mahmoud Dahoud,8,GER,DM,24-297,70,0,0,0,0,2,0,0,0,80,2,2,2,0.1,0.1,0.0,1,0,62,67,92.5,7,44,1,5,3,Dortmund,2020-10-24 Dortmund-Schalke 04,GER-BL1,20-21,629d89ee
+5dfc6ad5,Axel Witsel,28,BEL,DM,31-286,20,0,0,0,0,0,0,0,0,25,0,3,0,0.0,0.0,0.0,0,0,22,23,95.7,0,16,0,0,0,Dortmund,2020-10-24 Dortmund-Schalke 04,GER-BL1,20-21,629d89ee
+048a1cbc,Raphaël Guerreiro,13,POR,"LB,LW",26-307,90,0,1,0,0,3,1,0,0,146,0,3,1,0.1,0.1,0.3,6,2,116,136,85.3,16,81,4,5,4,Dortmund,2020-10-24 Dortmund-Schalke 04,GER-BL1,20-21,629d89ee
+05d548d8,Mats Hummels,15,GER,CB,31-313,90,1,0,0,0,1,1,0,0,129,3,1,0,0.1,0.1,0.0,0,0,109,119,91.6,6,64,0,0,0,Dortmund,2020-10-24 Dortmund-Schalke 04,GER-BL1,20-21,629d89ee
+89ac64a6,Manuel Akanji,16,SUI,CB,25-097,90,1,0,0,0,2,1,0,0,103,3,3,1,0.3,0.3,0.0,1,0,91,93,97.8,4,56,1,0,0,Dortmund,2020-10-24 Dortmund-Schalke 04,GER-BL1,20-21,629d89ee
+e162b013,Thomas Meunier,24,BEL,RB,29-042,79,0,0,0,0,1,1,0,0,67,2,4,1,0.1,0.1,0.2,4,0,52,59,88.1,5,30,4,0,0,Dortmund,2020-10-24 Dortmund-Schalke 04,GER-BL1,20-21,629d89ee
+5fd5e542,Mateu Morey,2,ESP,RB,20-236,11,0,0,0,0,0,0,0,0,19,0,0,0,0.0,0.0,0.0,0,0,17,18,94.4,1,9,0,0,0,Dortmund,2020-10-24 Dortmund-Schalke 04,GER-BL1,20-21,629d89ee
+9d12e142,Roman Bürki,1,SUI,GK,29-345,90,0,0,0,0,0,0,0,0,26,0,0,0,0.0,0.0,0.0,0,0,21,26,80.8,0,16,0,0,0,Dortmund,2020-10-24 Dortmund-Schalke 04,GER-BL1,20-21,629d89ee
+33144cc5,Rabbi Matondo,14,WAL,FW,20-045,70,0,0,0,0,0,0,0,0,15,1,1,1,0.0,0.0,0.1,3,0,8,9,88.9,2,11,1,2,1,Schalke 04,2020-10-24 Dortmund-Schalke 04,GER-BL1,20-21,629d89ee
+867501bf,Benito Raman,9,BEL,FW,25-352,20,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,2,4,50.0,0,1,0,0,0,Schalke 04,2020-10-24 Dortmund-Schalke 04,GER-BL1,20-21,629d89ee
+962e54cb,Gonçalo Paciência,18,POR,FW,26-084,55,0,0,0,0,1,0,0,0,22,2,0,0,0.0,0.0,0.0,1,0,4,10,40.0,1,14,2,4,1,Schalke 04,2020-10-24 Dortmund-Schalke 04,GER-BL1,20-21,629d89ee
+beda9675,Ahmed Kutucu,15,TUR,FW,20-237,35,0,0,0,0,0,0,0,0,13,0,0,1,0.0,0.0,0.0,0,0,4,7,57.1,1,10,1,1,0,Schalke 04,2020-10-24 Dortmund-Schalke 04,GER-BL1,20-21,629d89ee
+3189f61a,Nabil Bentaleb,10,ALG,CM,25-335,55,0,0,0,0,0,0,0,0,31,1,0,0,0.0,0.0,0.0,0,0,16,27,59.3,1,18,0,1,0,Schalke 04,2020-10-24 Dortmund-Schalke 04,GER-BL1,20-21,629d89ee
+b797f558,Can Bozdogan,40,GER,CM,19-202,35,0,0,0,0,0,0,0,0,16,0,1,0,0.0,0.0,0.0,0,0,8,10,80.0,0,12,0,0,0,Schalke 04,2020-10-24 Dortmund-Schalke 04,GER-BL1,20-21,629d89ee
+11fd2b75,Omar Mascarell,6,EQG,CM,27-265,90,0,0,0,0,0,0,1,0,35,3,2,0,0.0,0.0,0.0,0,0,19,28,67.9,0,20,0,0,0,Schalke 04,2020-10-24 Dortmund-Schalke 04,GER-BL1,20-21,629d89ee
+e7d59f4f,Amine Harit,25,MAR,CM,23-128,90,0,0,0,0,0,0,0,0,40,3,2,1,0.0,0.0,0.1,1,0,21,27,77.8,2,24,0,2,0,Schalke 04,2020-10-24 Dortmund-Schalke 04,GER-BL1,20-21,629d89ee
+d1661819,Bastian Oczipka,24,GER,WB,31-286,90,0,0,0,0,1,0,0,0,43,2,0,0,0.1,0.1,0.0,0,0,29,36,80.6,1,26,0,0,0,Schalke 04,2020-10-24 Dortmund-Schalke 04,GER-BL1,20-21,629d89ee
+9b1b7d78,Kilian Ludewig,2,GER,WB,20-233,90,0,0,0,0,0,0,0,0,53,4,1,2,0.0,0.0,0.0,0,0,25,39,64.1,1,17,1,0,0,Schalke 04,2020-10-24 Dortmund-Schalke 04,GER-BL1,20-21,629d89ee
+f35430a4,Matija Nastasić,5,SRB,CB,27-210,90,0,0,0,0,1,0,0,0,42,3,3,1,0.1,0.1,0.0,0,0,19,28,67.9,0,18,0,0,0,Schalke 04,2020-10-24 Dortmund-Schalke 04,GER-BL1,20-21,629d89ee
+791abba1,Salif Sané,26,SEN,CB,30-060,90,0,0,0,0,0,0,0,0,43,1,3,3,0.0,0.0,0.0,1,0,25,29,86.2,4,18,0,0,0,Schalke 04,2020-10-24 Dortmund-Schalke 04,GER-BL1,20-21,629d89ee
+ff5ea0bf,Malick Thiaw,33,GER,CB,19-077,90,0,0,0,0,0,0,0,0,41,4,1,2,0.0,0.0,0.0,0,0,19,25,76.0,1,19,0,0,0,Schalke 04,2020-10-24 Dortmund-Schalke 04,GER-BL1,20-21,629d89ee
+a70b8345,Frederik Rønnow,23,DEN,GK,28-081,90,0,0,0,0,0,0,0,0,30,0,0,0,0.0,0.0,0.0,0,0,15,27,55.6,0,18,0,0,0,Schalke 04,2020-10-24 Dortmund-Schalke 04,GER-BL1,20-21,629d89ee

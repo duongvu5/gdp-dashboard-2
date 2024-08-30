@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+bc6bd723,Alassane Pléa,14,FRA,FW,29-345,73,0,1,0,0,2,1,0,0,41,0,0,1,0.4,0.4,0.5,6,1,27,36,75.0,2,26,4,3,2,Mönchengladbach,2023-02-18 Gladbach-Bayern Munich,GER-BL1,22-23,a92f59f3
+36a59ba4,Florian Neuhaus,32,GER,AM,25-339,17,0,0,0,0,0,0,0,0,14,1,0,0,0.0,0.0,0.2,3,1,10,10,100.0,3,8,1,4,2,Mönchengladbach,2023-02-18 Gladbach-Bayern Munich,GER-BL1,22-23,a92f59f3
+be42a291,Hannes Wolf,11,AUT,LW,23-308,89,0,0,0,0,1,0,0,0,47,2,1,1,0.2,0.2,0.0,2,0,27,32,84.4,2,23,1,3,0,Mönchengladbach,2023-02-18 Gladbach-Bayern Munich,GER-BL1,22-23,a92f59f3
+dfb6490a,Patrick Herrmann,7,GER,LW,32-006,1,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,2,0,0,0,Mönchengladbach,2023-02-18 Gladbach-Bayern Munich,GER-BL1,22-23,a92f59f3
+2903a856,Jonas Hofmann,23,GER,RW,30-219,90,1,2,0,0,3,1,0,0,87,3,2,0,0.3,0.3,1.0,11,3,61,75,81.3,4,43,4,1,0,Mönchengladbach,2023-02-18 Gladbach-Bayern Munich,GER-BL1,22-23,a92f59f3
+7cd6badb,Lars Stindl,13,GER,AM,34-176,73,1,0,0,0,4,3,0,0,41,2,1,1,0.5,0.5,0.0,3,0,24,29,82.8,6,19,1,2,1,Mönchengladbach,2023-02-18 Gladbach-Bayern Munich,GER-BL1,22-23,a92f59f3
+6f8cd6d0,Marcus Thuram,10,FRA,FW,25-196,17,1,0,0,0,2,1,0,0,8,0,0,0,0.7,0.7,0.0,0,0,3,5,60.0,0,3,0,0,0,Mönchengladbach,2023-02-18 Gladbach-Bayern Munich,GER-BL1,22-23,a92f59f3
+86574238,Manu Koné,17,FRA,DM,21-277,90,0,0,0,0,1,1,0,0,81,5,0,3,0.0,0.0,0.4,2,0,56,59,94.9,10,44,1,7,4,Mönchengladbach,2023-02-18 Gladbach-Bayern Munich,GER-BL1,22-23,a92f59f3
+496aeede,Christoph Kramer,6,GER,DM,31-364,56,0,0,0,0,0,0,0,0,39,2,3,3,0.0,0.0,0.0,2,0,25,30,83.3,1,8,2,0,0,Mönchengladbach,2023-02-18 Gladbach-Bayern Munich,GER-BL1,22-23,a92f59f3
+346d51d9,Julian Weigl,8,GER,DM,27-163,33,0,0,0,0,0,0,0,0,26,1,0,0,0.0,0.0,0.0,0,0,24,25,96.0,6,12,0,0,0,Mönchengladbach,2023-02-18 Gladbach-Bayern Munich,GER-BL1,22-23,a92f59f3
+34b54da7,Tony Jantschke,24,GER,DM,32-317,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Mönchengladbach,2023-02-18 Gladbach-Bayern Munich,GER-BL1,22-23,a92f59f3
+378825c7,Ramy Bensebaini,25,ALG,LB,27-308,90,0,0,0,0,2,0,0,0,61,2,2,2,0.2,0.2,0.0,2,0,41,50,82.0,7,25,2,0,0,Mönchengladbach,2023-02-18 Gladbach-Bayern Munich,GER-BL1,22-23,a92f59f3
+48035304,Nico Elvedi,30,SUI,CB,26-141,90,0,0,0,0,0,0,0,0,72,0,1,2,0.0,0.0,0.0,0,0,63,64,98.4,3,42,0,0,0,Mönchengladbach,2023-02-18 Gladbach-Bayern Munich,GER-BL1,22-23,a92f59f3
+97d545ae,Ko Itakura,3,JPN,CB,26-022,90,0,0,0,0,2,0,0,0,84,1,2,1,0.1,0.1,0.0,0,0,72,76,94.7,1,45,0,0,0,Mönchengladbach,2023-02-18 Gladbach-Bayern Munich,GER-BL1,22-23,a92f59f3
+4aea5077,Stefan Lainer,18,AUT,RB,30-175,90,0,0,0,0,0,0,0,0,78,2,2,1,0.0,0.0,0.0,0,0,61,70,87.1,3,36,2,0,0,Mönchengladbach,2023-02-18 Gladbach-Bayern Munich,GER-BL1,22-23,a92f59f3
+c631f952,Jonas Omlin,1,SUI,GK,29-039,90,0,0,0,0,0,0,0,0,56,0,0,0,0.0,0.0,0.0,0,0,44,55,80.0,0,34,0,0,0,Mönchengladbach,2023-02-18 Gladbach-Bayern Munich,GER-BL1,22-23,a92f59f3
+0e6bc38c,Eric Maxim Choupo-Moting,13,CMR,FW,33-332,61,1,0,0,0,2,1,0,0,28,0,0,1,0.3,0.3,0.1,3,0,20,22,90.9,2,18,1,3,2,Bayern Munich,2023-02-18 Gladbach-Bayern Munich,GER-BL1,22-23,a92f59f3
+829aa60c,Mathys Tel,39,FRA,FW,17-297,29,1,0,0,0,1,1,0,0,8,1,0,0,0.2,0.2,0.1,1,0,4,6,66.7,0,5,0,0,0,Bayern Munich,2023-02-18 Gladbach-Bayern Munich,GER-BL1,22-23,a92f59f3
+3c6089ab,Thomas Müller,25,GER,FW,33-158,15,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.1,1,0,5,7,71.4,3,6,0,1,1,Bayern Munich,2023-02-18 Gladbach-Bayern Munich,GER-BL1,22-23,a92f59f3
+bd6351cd,João Cancelo,22,POR,"RW,CM",28-267,75,0,0,0,0,1,0,0,0,63,2,2,1,0.0,0.0,0.0,1,1,41,51,80.4,1,34,1,7,3,Bayern Munich,2023-02-18 Gladbach-Bayern Munich,GER-BL1,22-23,a92f59f3
+d781d855,Alphonso Davies,19,CAN,"LW,CM",22-108,90,0,2,0,0,2,1,0,0,66,2,0,3,0.2,0.2,0.5,5,3,37,47,78.7,2,46,10,11,7,Bayern Munich,2023-02-18 Gladbach-Bayern Munich,GER-BL1,22-23,a92f59f3
+88e357ef,Serge Gnabry,7,GER,"FW,RW",27-219,45,0,0,0,0,1,0,0,0,20,1,0,0,0.1,0.1,0.0,2,0,10,15,66.7,2,14,2,2,1,Bayern Munich,2023-02-18 Gladbach-Bayern Munich,GER-BL1,22-23,a92f59f3
+2b114be3,Leroy Sané,10,GER,"RW,FW",27-038,45,0,0,0,0,2,1,0,0,35,2,0,0,0.1,0.1,0.0,1,0,21,29,72.4,5,25,3,4,4,Bayern Munich,2023-02-18 Gladbach-Bayern Munich,GER-BL1,22-23,a92f59f3
+b8e740fb,Ryan Gravenberch,38,NED,CM,20-278,45,0,0,0,0,1,0,0,0,31,1,0,1,0.1,0.1,0.1,2,0,15,16,93.8,1,18,0,4,2,Bayern Munich,2023-02-18 Gladbach-Bayern Munich,GER-BL1,22-23,a92f59f3
+2c0558b8,Jamal Musiala,42,GER,"LW,CM",19-357,45,0,0,0,0,1,1,0,0,27,1,0,0,0.0,0.0,0.1,1,0,16,19,84.2,3,20,2,1,1,Bayern Munich,2023-02-18 Gladbach-Bayern Munich,GER-BL1,22-23,a92f59f3
+cc86b9a3,Leon Goretzka,8,GER,CM,28-012,61,0,0,0,0,1,0,1,0,39,3,0,2,0.1,0.1,0.0,1,0,29,34,85.3,8,17,0,1,1,Bayern Munich,2023-02-18 Gladbach-Bayern Munich,GER-BL1,22-23,a92f59f3
+d6e53a3a,Matthijs de Ligt,4,NED,CB,23-190,29,0,0,0,0,0,0,0,0,30,1,0,0,0.0,0.0,0.0,0,0,23,29,79.3,1,23,0,0,0,Bayern Munich,2023-02-18 Gladbach-Bayern Munich,GER-BL1,22-23,a92f59f3
+49296448,Joshua Kimmich,6,GER,"DM,CM",28-010,90,0,0,0,0,1,0,0,0,67,1,0,3,0.0,0.0,0.0,2,0,52,58,89.7,8,43,0,1,0,Bayern Munich,2023-02-18 Gladbach-Bayern Munich,GER-BL1,22-23,a92f59f3
+691bef82,Daley Blind,23,NED,CB,32-346,90,0,0,0,0,0,0,0,0,84,2,2,4,0.0,0.0,0.0,2,0,62,73,84.9,7,47,0,0,0,Bayern Munich,2023-02-18 Gladbach-Bayern Munich,GER-BL1,22-23,a92f59f3
+d248cd8f,Dayot Upamecano,2,FRA,CB,24-114,7,0,0,0,0,0,0,0,1,8,1,0,0,0.0,0.0,0.0,0,0,8,8,100.0,0,4,0,0,0,Bayern Munich,2023-02-18 Gladbach-Bayern Munich,GER-BL1,22-23,a92f59f3
+45a03961,Benjamin Pavard,5,FRA,CB,26-327,90,0,0,0,0,0,0,0,0,100,3,1,2,0.0,0.0,0.0,0,0,74,86,86.0,5,57,1,0,0,Bayern Munich,2023-02-18 Gladbach-Bayern Munich,GER-BL1,22-23,a92f59f3
+420c18a1,Yann Sommer,27,SUI,GK,34-063,90,0,0,0,0,0,0,0,0,44,0,0,0,0.0,0.0,0.0,0,0,34,42,81.0,0,31,0,0,0,Bayern Munich,2023-02-18 Gladbach-Bayern Munich,GER-BL1,22-23,a92f59f3

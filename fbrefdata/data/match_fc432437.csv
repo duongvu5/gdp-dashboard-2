@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+b0547a87,Nicolas de Préville,12,FRA,FW,26-315,75,1,0,0,0,2,1,1,0,32,1,1,2,0.1,0.1,0.0,2,2,21,24,87.5,1,16,1,1,1,Bordeaux,2017-11-19 Bordeaux-Marseille,FRA-L1,17-18,fc432437
+e067808c,Alexandre Mendy,15,GNB,FW,23-244,15,0,0,0,0,0,0,0,0,10,1,0,0,0.0,0.0,0.0,1,0,8,8,100.0,1,5,1,2,1,Bordeaux,2017-11-19 Bordeaux-Marseille,FRA-L1,17-18,fc432437
+81d3318f,François Kamano,11,GUI,LW,21-201,88,0,0,0,0,0,0,1,0,42,1,0,1,0.0,0.0,0.1,3,0,18,26,69.2,4,23,6,1,1,Bordeaux,2017-11-19 Bordeaux-Marseille,FRA-L1,17-18,fc432437
+8d043f1d,Jonathan Cafu,22,BRA,LW,26-132,2,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Bordeaux,2017-11-19 Bordeaux-Marseille,FRA-L1,17-18,fc432437
+6853490f,Malcom,7,BRA,RW,20-266,90,0,0,0,0,0,0,0,0,62,0,2,3,0.0,0.0,0.1,3,0,30,43,69.8,4,42,2,8,3,Bordeaux,2017-11-19 Bordeaux-Marseille,FRA-L1,17-18,fc432437
+c650629d,Younousse Sankharé,13,SEN,LM,28-070,90,0,0,0,0,4,2,0,0,42,2,3,0,0.2,0.2,0.0,0,0,18,27,66.7,4,21,1,0,0,Bordeaux,2017-11-19 Bordeaux-Marseille,FRA-L1,17-18,fc432437
+243f4a0b,Otávio,5,BRA,CM,23-199,90,0,0,0,0,2,0,0,0,56,3,3,5,0.1,0.1,0.0,2,0,30,38,78.9,4,14,0,0,0,Bordeaux,2017-11-19 Bordeaux-Marseille,FRA-L1,17-18,fc432437
+1b82f8df,Lukas Lerager,19,DEN,RM,24-130,90,0,0,0,0,1,0,1,0,47,1,3,1,0.0,0.0,0.0,2,0,25,37,67.6,2,13,0,1,0,Bordeaux,2017-11-19 Bordeaux-Marseille,FRA-L1,17-18,fc432437
+97fb4608,Théo Pellenard,21,FRA,LB,23-260,90,0,0,0,0,0,0,0,0,46,1,1,2,0.0,0.0,0.0,1,0,27,39,69.2,2,20,0,0,0,Bordeaux,2017-11-19 Bordeaux-Marseille,FRA-L1,17-18,fc432437
+7adea561,Jérémy Toulalan,14,FRA,CB,34-070,90,0,0,0,0,0,0,0,0,25,1,1,1,0.0,0.0,0.0,1,0,11,14,78.6,0,5,0,0,0,Bordeaux,2017-11-19 Bordeaux-Marseille,FRA-L1,17-18,fc432437
+6b9f2f3e,Igor Lewczuk,6,POL,CB,32-173,79,0,0,0,0,0,0,1,0,18,0,3,0,0.0,0.0,0.0,0,0,10,13,76.9,1,6,0,0,0,Bordeaux,2017-11-19 Bordeaux-Marseille,FRA-L1,17-18,fc432437
+7cb9de24,Olivier Verdon,26,BEN,CB,22-045,11,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,0,2,0.0,0,2,0,0,0,Bordeaux,2017-11-19 Bordeaux-Marseille,FRA-L1,17-18,fc432437
+fbbb9269,Youssouf Sabaly,20,SEN,RB,24-259,90,0,0,0,0,0,0,0,0,64,4,1,2,0.0,0.0,0.0,2,0,36,54,66.7,2,26,1,1,1,Bordeaux,2017-11-19 Bordeaux-Marseille,FRA-L1,17-18,fc432437
+2434f24a,Benoît Costil,1,FRA,GK,30-139,90,0,0,0,0,0,0,0,0,27,0,0,0,0.0,0.0,0.0,0,0,9,26,34.6,0,7,0,0,0,Bordeaux,2017-11-19 Bordeaux-Marseille,FRA-L1,17-18,fc432437
+c6ac6579,Kostas Mitroglou,11,GRE,FW,29-252,90,0,0,0,0,4,0,0,0,24,1,0,0,0.3,0.3,0.0,1,0,15,17,88.2,1,19,0,0,0,Marseille,2017-11-19 Bordeaux-Marseille,FRA-L1,17-18,fc432437
+a08b974a,Lucas Ocampos,5,ARG,LW,23-131,90,0,0,0,0,2,0,0,0,38,2,1,0,0.1,0.1,0.0,0,0,19,26,73.1,2,28,2,0,0,Marseille,2017-11-19 Bordeaux-Marseille,FRA-L1,17-18,fc432437
+2b9fdeea,Florian Thauvin,26,FRA,RW,24-297,90,0,0,0,0,4,1,1,0,69,3,0,0,0.4,0.4,0.4,7,0,34,51,66.7,6,53,6,7,7,Marseille,2017-11-19 Bordeaux-Marseille,FRA-L1,17-18,fc432437
+58ae47b2,Dimitri Payet,10,FRA,AM,30-235,45,0,0,0,0,2,1,0,0,47,0,2,1,0.1,0.1,0.2,3,0,30,40,75.0,6,34,2,1,0,Marseille,2017-11-19 Bordeaux-Marseille,FRA-L1,17-18,fc432437
+20094685,Maxime Lopez,27,FRA,DM,19-350,45,0,0,0,0,0,0,1,0,57,3,2,0,0.0,0.0,0.0,0,0,47,50,94.0,4,44,3,1,0,Marseille,2017-11-19 Bordeaux-Marseille,FRA-L1,17-18,fc432437
+6e7f1353,Morgan Sanson,8,FRA,"DM,AM",23-093,90,1,0,0,0,1,1,0,0,73,2,4,2,0.1,0.1,0.4,6,0,45,59,76.3,2,56,9,2,1,Marseille,2017-11-19 Bordeaux-Marseille,FRA-L1,17-18,fc432437
+6bb2c084,Andre-Frank Zambo Anguissa,29,CMR,DM,22-003,72,0,0,0,0,0,0,0,0,68,4,1,1,0.0,0.0,0.0,0,0,52,60,86.7,3,52,3,0,0,Marseille,2017-11-19 Bordeaux-Marseille,FRA-L1,17-18,fc432437
+ea0ff634,Valère Germain,28,FRA,AM,27-216,18,0,0,0,0,0,0,0,0,7,0,0,1,0.0,0.0,0.0,0,0,2,4,50.0,0,5,0,0,0,Marseille,2017-11-19 Bordeaux-Marseille,FRA-L1,17-18,fc432437
+22721b88,Jordan Amavi,18,FRA,LB,23-255,90,0,0,0,0,0,0,0,0,69,2,0,1,0.0,0.0,0.1,1,0,42,59,71.2,6,39,3,2,1,Marseille,2017-11-19 Bordeaux-Marseille,FRA-L1,17-18,fc432437
+0eeafda5,Rolando,6,POR,CB,32-080,90,0,0,0,0,0,0,0,0,78,3,3,0,0.0,0.0,0.0,1,1,64,69,92.8,3,54,1,0,0,Marseille,2017-11-19 Bordeaux-Marseille,FRA-L1,17-18,fc432437
+8dbff17c,Adil Rami,23,FRA,CB,31-327,90,0,0,0,0,1,0,0,0,79,0,0,0,0.4,0.4,0.1,2,0,63,71,88.7,9,67,5,1,1,Marseille,2017-11-19 Bordeaux-Marseille,FRA-L1,17-18,fc432437
+d63e2912,Hiroki Sakai,2,JPN,RB,27-221,79,0,0,0,0,0,0,0,0,67,0,1,0,0.0,0.0,0.0,2,0,50,61,82.0,4,39,1,0,0,Marseille,2017-11-19 Bordeaux-Marseille,FRA-L1,17-18,fc432437
+1a4b9094,Bouna Sarr,17,SEN,RB,25-292,11,0,0,0,0,0,0,0,0,12,0,0,0,0.0,0.0,0.0,1,1,9,10,90.0,2,7,0,1,1,Marseille,2017-11-19 Bordeaux-Marseille,FRA-L1,17-18,fc432437
+1d2d5cc8,Steve Mandanda,30,FRA,GK,32-236,90,0,0,0,0,0,0,0,0,30,0,0,0,0.0,0.0,0.0,0,0,26,29,89.7,0,20,0,0,0,Marseille,2017-11-19 Bordeaux-Marseille,FRA-L1,17-18,fc432437

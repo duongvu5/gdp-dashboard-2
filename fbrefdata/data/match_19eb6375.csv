@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+f5c8b425,Yusuf Yazıcı,12,TUR,FW,23-354,80,0,0,0,0,4,2,0,0,44,1,0,0,0.2,0.2,0.3,4,0,19,31,61.3,1,24,1,3,0,Lille,2021-01-17 Lille-Reims,FRA-L1,20-21,19eb6375
+8eec784d,Timothy Weah,22,USA,FW,20-330,10,0,0,0,0,0,0,0,0,2,0,1,0,0.0,0.0,0.0,0,0,1,1,100.0,0,0,0,0,0,Lille,2021-01-17 Lille-Reims,FRA-L1,20-21,19eb6375
+ce50fd99,Jonathan David,9,CAN,FW,21-003,90,1,0,0,0,2,2,0,0,37,1,0,1,0.9,0.9,0.2,2,0,24,27,88.9,1,21,1,2,0,Lille,2021-01-17 Lille-Reims,FRA-L1,20-21,19eb6375
+b2bd0f6c,Jonathan Bamba,7,CIV,LM,24-297,90,1,0,0,0,5,1,0,0,76,2,0,1,0.2,0.2,0.0,3,0,51,61,83.6,8,51,4,3,0,Lille,2021-01-17 Lille-Reims,FRA-L1,20-21,19eb6375
+ae59b359,Boubakary Soumaré,24,FRA,CM,21-325,90,0,0,0,0,0,0,0,0,118,1,1,0,0.0,0.0,0.1,4,0,99,110,90.0,11,84,4,3,2,Lille,2021-01-17 Lille-Reims,FRA-L1,20-21,19eb6375
+ef9c1c95,Benjamin André,21,FRA,CM,30-167,85,0,0,0,0,1,1,0,0,83,1,2,3,0.1,0.1,0.0,2,0,62,71,87.3,8,56,0,1,0,Lille,2021-01-17 Lille-Reims,FRA-L1,20-21,19eb6375
+f3600c02,Xeka,8,POR,CM,26-068,5,0,0,0,0,1,1,0,0,2,0,0,0,0.0,0.0,0.0,1,1,1,1,100.0,0,1,0,0,0,Lille,2021-01-17 Lille-Reims,FRA-L1,20-21,19eb6375
+42eaa028,Jonathan Ikone,10,FRA,RM,22-260,59,0,0,0,0,0,0,0,0,30,0,0,1,0.0,0.0,0.0,3,0,23,25,92.0,1,22,2,1,0,Lille,2021-01-17 Lille-Reims,FRA-L1,20-21,19eb6375
+fa18c72e,Luiz Araújo,11,BRA,RM,24-229,31,0,0,0,0,1,0,1,0,23,0,0,3,0.0,0.0,0.1,4,0,16,18,88.9,2,13,2,2,2,Lille,2021-01-17 Lille-Reims,FRA-L1,20-21,19eb6375
+8bbe2df5,Domagoj Bradarić,29,CRO,LB,21-038,90,0,0,0,0,0,0,0,0,75,0,1,0,0.0,0.0,0.0,0,0,58,72,80.6,3,52,4,0,0,Lille,2021-01-17 Lille-Reims,FRA-L1,20-21,19eb6375
+ccce7025,Sven Botman,5,NED,CB,21-005,90,0,0,0,0,0,0,0,0,99,2,0,0,0.0,0.0,0.0,0,0,77,90,85.6,8,61,1,0,0,Lille,2021-01-17 Lille-Reims,FRA-L1,20-21,19eb6375
+90f87966,José Fonte,6,POR,CB,37-026,90,0,0,0,0,2,1,0,0,88,0,0,0,0.2,0.2,0.0,3,0,73,82,89.0,7,58,0,0,0,Lille,2021-01-17 Lille-Reims,FRA-L1,20-21,19eb6375
+b2336681,Tiago Djaló,3,POR,RB,20-283,90,0,0,0,0,0,0,1,0,82,3,1,2,0.0,0.0,0.0,1,0,56,68,82.4,3,47,1,6,1,Lille,2021-01-17 Lille-Reims,FRA-L1,20-21,19eb6375
+fcb38f57,Mike Maignan,16,FRA,GK,25-198,90,0,0,0,0,0,0,0,0,24,0,0,0,0.0,0.0,0.0,0,0,18,23,78.3,0,16,0,0,0,Lille,2021-01-17 Lille-Reims,FRA-L1,20-21,19eb6375
+244bc2c8,Boulaye Dia,11,SEN,"FW,RM",24-062,90,0,0,0,0,1,1,0,0,33,0,0,0,0.0,0.0,0.1,3,0,22,24,91.7,4,25,2,0,0,Reims,2021-01-17 Lille-Reims,FRA-L1,20-21,19eb6375
+095e4199,Arber Zeneli,10,KVX,LM,25-327,80,1,0,0,0,1,1,0,0,39,4,0,1,0.0,0.0,0.1,2,1,15,24,62.5,3,23,4,5,4,Reims,2021-01-17 Lille-Reims,FRA-L1,20-21,19eb6375
+1b6862e8,Dereck Kutesa,8,SUI,LM,23-042,10,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,1,3,33.3,0,4,0,0,0,Reims,2021-01-17 Lille-Reims,FRA-L1,20-21,19eb6375
+279ddf6a,Xavier Chavalerin,7,FRA,CM,29-316,90,0,0,0,0,2,1,0,0,43,6,1,1,0.1,0.1,0.0,0,0,30,32,93.8,3,27,0,1,1,Reims,2021-01-17 Lille-Reims,FRA-L1,20-21,19eb6375
+2a657da0,Mathieu Cafaro,24,FRA,CM,23-298,90,0,0,0,0,1,0,0,0,50,1,1,0,0.0,0.0,0.1,2,0,26,44,59.1,4,33,3,3,2,Reims,2021-01-17 Lille-Reims,FRA-L1,20-21,19eb6375
+46750e9c,Nathanael Mbuku,21,FRA,RM,18-307,72,0,0,0,0,2,1,0,0,31,0,3,1,0.1,0.1,0.0,3,0,12,23,52.2,3,19,2,3,1,Reims,2021-01-17 Lille-Reims,FRA-L1,20-21,19eb6375
+47c609d5,El Bilal Touré,27,MLI,"FW,RM",19-106,18,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,5,6,83.3,0,3,1,0,0,Reims,2021-01-17 Lille-Reims,FRA-L1,20-21,19eb6375
+f54d2149,Moreto Cassamã,23,GNB,DM,22-336,59,0,0,0,0,0,0,1,0,41,2,0,0,0.0,0.0,0.0,0,0,33,36,91.7,2,32,0,1,0,Reims,2021-01-17 Lille-Reims,FRA-L1,20-21,19eb6375
+2acf0cd7,Marshall Munetsi,15,ZIM,DM,24-209,31,0,0,0,0,0,0,0,0,21,3,3,0,0.0,0.0,0.0,0,0,10,11,90.9,0,12,0,0,0,Reims,2021-01-17 Lille-Reims,FRA-L1,20-21,19eb6375
+6b2c894b,Ghislain Konan,3,CIV,LB,25-021,90,0,1,0,0,0,0,0,0,57,4,1,1,0.0,0.0,0.0,3,1,37,49,75.5,2,35,3,1,0,Reims,2021-01-17 Lille-Reims,FRA-L1,20-21,19eb6375
+32c2d95f,Yunis Abdelhamid,5,MAR,CB,33-111,90,0,0,0,0,0,0,0,0,60,1,2,1,0.0,0.0,0.0,0,0,45,52,86.5,0,42,0,0,0,Reims,2021-01-17 Lille-Reims,FRA-L1,20-21,19eb6375
+9c221d14,Wout Faes,2,BEL,CB,22-289,90,0,0,0,0,1,0,0,0,55,2,5,2,0.1,0.1,0.0,1,0,35,43,81.4,1,35,1,1,1,Reims,2021-01-17 Lille-Reims,FRA-L1,20-21,19eb6375
+90eb507d,Thomas Foket,32,BEL,RB,26-114,90,0,0,0,0,0,0,0,0,53,0,3,0,0.0,0.0,0.0,2,0,37,45,82.2,4,30,3,0,0,Reims,2021-01-17 Lille-Reims,FRA-L1,20-21,19eb6375
+58ad9383,Predrag Rajković,1,SRB,GK,25-078,90,0,0,0,0,0,0,0,0,48,0,0,0,0.0,0.0,0.0,0,0,31,44,70.5,0,37,0,0,0,Reims,2021-01-17 Lille-Reims,FRA-L1,20-21,19eb6375

@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+8d78e732,Robert Lewandowski,9,POL,FW,32-135,90,2,1,1,1,2,2,0,0,38,0,1,0,1.2,0.4,1.1,5,2,26,33,78.8,4,19,5,2,1,Bayern Munich,2021-01-03 Bayern Munich-Mainz 05,GER-BL1,20-21,a6010fb3
+88e357ef,Serge Gnabry,7,GER,LW,25-173,75,0,0,0,0,3,2,0,0,51,3,2,0,0.5,0.5,0.9,7,2,33,37,89.2,7,35,5,5,3,Bayern Munich,2021-01-03 Bayern Munich-Mainz 05,GER-BL1,20-21,a6010fb3
+2c0558b8,Jamal Musiala,42,GER,"LW,DM",17-312,15,0,0,0,0,0,0,0,0,13,1,0,0,0.0,0.0,0.0,1,1,10,12,83.3,2,8,1,0,0,Bayern Munich,2021-01-03 Bayern Munich-Mainz 05,GER-BL1,20-21,a6010fb3
+2b114be3,Leroy Sané,10,GER,RW,24-358,90,1,0,0,0,4,1,0,0,58,0,0,0,0.9,0.9,0.0,1,0,34,44,77.3,6,39,5,5,1,Bayern Munich,2021-01-03 Bayern Munich-Mainz 05,GER-BL1,20-21,a6010fb3
+3c6089ab,Thomas Müller,25,GER,AM,31-112,87,0,1,0,0,1,0,0,0,75,0,0,2,0.1,0.1,0.6,6,2,45,63,71.4,8,39,4,4,2,Bayern Munich,2021-01-03 Bayern Munich-Mainz 05,GER-BL1,20-21,a6010fb3
+0e6bc38c,Eric Maxim Choupo-Moting,13,CMR,AM,31-286,3,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,1,1,0,0,Bayern Munich,2021-01-03 Bayern Munich-Mainz 05,GER-BL1,20-21,a6010fb3
+49296448,Joshua Kimmich,6,GER,"RB,DM",25-330,90,1,1,0,0,1,1,0,0,102,1,1,0,0.6,0.6,0.7,3,1,83,99,83.8,8,60,3,3,3,Bayern Munich,2021-01-03 Bayern Munich-Mainz 05,GER-BL1,20-21,a6010fb3
+652d4c37,Corentin Tolisso,24,FRA,DM,26-153,86,0,0,0,0,3,2,0,0,65,7,0,2,0.9,0.9,0.1,2,0,43,52,82.7,7,33,1,2,1,Bayern Munich,2021-01-03 Bayern Munich-Mainz 05,GER-BL1,20-21,a6010fb3
+4fa7cb9b,Douglas Costa,11,BRA,"LW,DM",30-111,4,0,0,0,0,0,0,0,0,7,1,0,0,0.0,0.0,0.0,0,0,5,6,83.3,0,1,0,0,0,Bayern Munich,2021-01-03 Bayern Munich-Mainz 05,GER-BL1,20-21,a6010fb3
+d781d855,Alphonso Davies,19,CAN,LB,20-062,90,0,0,0,0,1,1,0,0,101,3,3,0,0.0,0.0,0.0,2,0,76,89,85.4,9,75,5,3,3,Bayern Munich,2021-01-03 Bayern Munich-Mainz 05,GER-BL1,20-21,a6010fb3
+05439de2,David Alaba,27,AUT,CB,28-193,90,0,0,0,0,0,0,1,0,107,0,2,0,0.0,0.0,0.0,0,0,98,106,92.5,14,83,0,0,0,Bayern Munich,2021-01-03 Bayern Munich-Mainz 05,GER-BL1,20-21,a6010fb3
+2db2fd7b,Jérôme Boateng,17,GER,CB,32-122,45,0,0,0,0,0,0,1,0,47,0,1,0,0.0,0.0,0.0,0,0,43,45,95.6,7,35,1,0,0,Bayern Munich,2021-01-03 Bayern Munich-Mainz 05,GER-BL1,20-21,a6010fb3
+e33c06cf,Niklas Süle,4,GER,CB,25-122,45,1,0,0,0,1,1,0,0,49,2,1,0,0.1,0.1,0.0,0,0,41,44,93.2,3,31,0,0,0,Bayern Munich,2021-01-03 Bayern Munich-Mainz 05,GER-BL1,20-21,a6010fb3
+45a03961,Benjamin Pavard,5,FRA,RB,24-281,45,0,0,0,0,0,0,0,0,60,0,2,0,0.0,0.0,0.0,1,0,54,56,96.4,14,40,2,0,0,Bayern Munich,2021-01-03 Bayern Munich-Mainz 05,GER-BL1,20-21,a6010fb3
+cc86b9a3,Leon Goretzka,18,GER,DM,25-332,45,0,0,0,0,0,0,0,0,44,0,1,1,0.0,0.0,0.0,1,1,38,40,95.0,2,25,1,0,0,Bayern Munich,2021-01-03 Bayern Munich-Mainz 05,GER-BL1,20-21,a6010fb3
+8778c910,Manuel Neuer,1,GER,GK,34-282,90,0,0,0,0,0,0,0,0,49,0,0,0,0.0,0.0,0.0,0,0,43,46,93.5,1,27,0,0,0,Bayern Munich,2021-01-03 Bayern Munich-Mainz 05,GER-BL1,20-21,a6010fb3
+74c7c2db,Robin Quaison,7,SWE,"FW,LW",27-086,87,0,0,0,0,5,2,0,0,26,0,0,0,0.3,0.3,0.7,1,0,11,17,64.7,1,17,3,0,0,Mainz 05,2021-01-03 Bayern Munich-Mainz 05,GER-BL1,20-21,a6010fb3
+53e07d0b,Ádám Szalai,28,HUN,LW,33-025,3,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Mainz 05,2021-01-03 Bayern Munich-Mainz 05,GER-BL1,20-21,a6010fb3
+05f99a4a,Jonathan Burkardt,29,GER,FW,20-176,79,1,0,0,0,3,2,0,0,31,1,0,2,0.2,0.2,0.0,2,1,13,16,81.3,0,23,4,2,0,Mainz 05,2021-01-03 Bayern Munich-Mainz 05,GER-BL1,20-21,a6010fb3
+50e6dc35,Jean-Philippe Mateta,9,FRA,FW,23-189,11,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,2,0,0,0,Mainz 05,2021-01-03 Bayern Munich-Mainz 05,GER-BL1,20-21,a6010fb3
+635f2732,Jean-Paul Boëtius,5,NED,AM,26-287,70,0,0,0,0,0,0,1,0,35,0,1,1,0.0,0.0,0.0,3,0,20,31,64.5,5,27,0,3,2,Mainz 05,2021-01-03 Bayern Munich-Mainz 05,GER-BL1,20-21,a6010fb3
+f26834c7,Karim Onisiwo,21,AUT,RW,28-292,20,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,3,4,75.0,1,3,0,1,0,Mainz 05,2021-01-03 Bayern Munich-Mainz 05,GER-BL1,20-21,a6010fb3
+33b554b7,Danny Latza,6,GER,LM,31-027,90,0,1,0,0,2,2,0,0,37,1,2,1,0.7,0.7,0.2,3,1,20,26,76.9,4,24,0,0,0,Mainz 05,2021-01-03 Bayern Munich-Mainz 05,GER-BL1,20-21,a6010fb3
+00242b75,Leandro Barreiro Martins,35,LUX,RM,21-000,90,0,0,0,0,1,0,0,0,31,2,3,1,0.0,0.0,0.1,4,0,10,19,52.6,1,19,0,3,1,Mainz 05,2021-01-03 Bayern Munich-Mainz 05,GER-BL1,20-21,a6010fb3
+3bb625ac,Edimilson Fernandes,20,SUI,"DM,CM",24-263,90,0,0,0,0,0,0,0,0,50,0,3,1,0.0,0.0,0.0,3,0,34,39,87.2,1,21,0,1,1,Mainz 05,2021-01-03 Bayern Munich-Mainz 05,GER-BL1,20-21,a6010fb3
+2ff76adc,Phillipp Mwene,23,AUT,LB,26-340,88,0,0,0,0,0,0,0,0,26,2,1,0,0.0,0.0,0.0,1,0,11,18,61.1,0,8,0,0,0,Mainz 05,2021-01-03 Bayern Munich-Mainz 05,GER-BL1,20-21,a6010fb3
+b4b08774,Merveille Papela,24,GER,LB,19-351,2,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,0,0,0,0,Mainz 05,2021-01-03 Bayern Munich-Mainz 05,GER-BL1,20-21,a6010fb3
+a5ec3ede,Alexander Hack,42,GER,CB,27-117,90,1,0,0,0,1,1,0,0,55,6,4,1,0.0,0.0,0.1,3,0,26,35,74.3,3,25,2,1,1,Mainz 05,2021-01-03 Bayern Munich-Mainz 05,GER-BL1,20-21,a6010fb3
+90339309,Jerry St. Juste,4,NED,CB,24-076,90,0,0,0,0,0,0,0,0,39,1,4,2,0.0,0.0,0.0,1,1,24,28,85.7,1,18,0,0,0,Mainz 05,2021-01-03 Bayern Munich-Mainz 05,GER-BL1,20-21,a6010fb3
+a7813ac4,Daniel Brosinski,18,GER,RB,32-170,79,0,1,0,0,0,0,0,0,45,1,2,2,0.0,0.0,0.1,2,1,26,38,68.4,3,19,0,0,0,Mainz 05,2021-01-03 Bayern Munich-Mainz 05,GER-BL1,20-21,a6010fb3
+e5649a78,Kevin Stöger,17,AUT,RB,27-129,11,0,0,0,0,0,0,0,0,5,1,0,0,0.0,0.0,0.0,0,0,0,3,0.0,0,3,0,0,0,Mainz 05,2021-01-03 Bayern Munich-Mainz 05,GER-BL1,20-21,a6010fb3
+dee3013b,Finn Dahmen,37,GER,GK,22-282,90,0,0,0,0,0,0,0,0,28,0,0,0,0.0,0.0,0.0,1,0,17,23,73.9,0,17,0,0,0,Mainz 05,2021-01-03 Bayern Munich-Mainz 05,GER-BL1,20-21,a6010fb3

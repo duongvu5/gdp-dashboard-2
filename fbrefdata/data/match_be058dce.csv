@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+4f16405e,Niclas Füllkrug,14,GER,FW,30-253,76,0,0,0,0,1,0,0,0,19,0,0,0,0.0,0.0,0.0,1,0,13,16,81.3,2,12,0,1,0,Dortmund,2023-10-20 Dortmund-Werder Bremen,GER-BL1,23-24,be058dce
+ba115a40,Sébastien Haller,9,CIV,FW,29-120,14,0,0,0,0,1,0,0,0,13,0,0,1,0.2,0.2,0.0,0,0,6,7,85.7,1,7,2,0,0,Dortmund,2023-10-20 Dortmund-Werder Bremen,GER-BL1,23-24,be058dce
+a167537f,Julian Brandt,19,GER,LW,27-171,89,1,0,0,0,2,1,0,0,69,1,0,0,0.7,0.7,0.8,11,0,42,56,75.0,2,47,5,4,1,Dortmund,2023-10-20 Dortmund-Werder Bremen,GER-BL1,23-24,be058dce
+501055d8,Karim Adeyemi,27,GER,LW,21-275,1,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,3,3,100.0,0,1,0,1,0,Dortmund,2023-10-20 Dortmund-Werder Bremen,GER-BL1,23-24,be058dce
+116c35df,Donyell Malen,21,NED,RW,24-284,76,0,0,0,0,4,3,0,0,39,1,0,1,0.4,0.4,0.0,2,0,20,26,76.9,6,30,3,6,3,Dortmund,2023-10-20 Dortmund-Werder Bremen,GER-BL1,23-24,be058dce
+e280527c,Marcel Sabitzer,20,AUT,RW,29-217,14,0,0,0,0,1,0,0,0,13,0,0,0,0.0,0.0,0.0,2,0,7,12,58.3,0,5,0,0,0,Dortmund,2023-10-20 Dortmund-Werder Bremen,GER-BL1,23-24,be058dce
+091c86e2,Felix Nmecha,8,GER,CM,23-010,90,0,0,0,0,4,0,1,0,61,0,1,1,0.3,0.3,0.3,6,0,41,47,87.2,6,42,3,4,2,Dortmund,2023-10-20 Dortmund-Werder Bremen,GER-BL1,23-24,be058dce
+a65ce836,Emre Can,23,GER,CM,29-281,90,0,1,0,0,0,0,0,0,76,6,2,0,0.0,0.0,0.7,1,1,58,69,84.1,7,58,2,2,1,Dortmund,2023-10-20 Dortmund-Werder Bremen,GER-BL1,23-24,be058dce
+36a3ff67,Marco Reus,11,GER,CM,34-142,61,0,0,0,0,1,0,0,0,24,1,0,0,0.4,0.4,0.1,2,0,19,22,86.4,4,19,1,1,0,Dortmund,2023-10-20 Dortmund-Werder Bremen,GER-BL1,23-24,be058dce
+7fa4e703,Gio Reyna,7,USA,CM,20-341,29,0,0,0,0,2,0,0,0,40,0,0,1,0.2,0.2,0.2,6,1,28,30,93.3,4,24,2,2,2,Dortmund,2023-10-20 Dortmund-Werder Bremen,GER-BL1,23-24,be058dce
+009a4f60,Julian Ryerson,26,NOR,"LB,RB",25-337,90,0,0,0,0,2,1,0,0,72,0,0,1,0.0,0.0,0.3,4,0,55,62,88.7,4,44,2,0,0,Dortmund,2023-10-20 Dortmund-Werder Bremen,GER-BL1,23-24,be058dce
+34e12499,Nico Schlotterbeck,4,GER,CB,23-323,90,0,0,0,0,3,0,0,0,89,2,1,1,0.1,0.1,0.1,2,0,74,81,91.4,10,68,6,0,0,Dortmund,2023-10-20 Dortmund-Werder Bremen,GER-BL1,23-24,be058dce
+05d548d8,Mats Hummels,15,GER,CB,34-308,90,0,0,0,0,0,0,0,0,87,0,3,1,0.0,0.0,0.0,1,0,67,76,88.2,5,65,1,0,0,Dortmund,2023-10-20 Dortmund-Werder Bremen,GER-BL1,23-24,be058dce
+fa661778,Marius Wolf,17,GER,RB,28-146,61,0,0,0,0,1,0,0,0,71,1,0,1,0.1,0.1,0.0,4,0,52,63,82.5,5,48,7,2,1,Dortmund,2023-10-20 Dortmund-Werder Bremen,GER-BL1,23-24,be058dce
+378825c7,Ramy Bensebaini,5,ALG,LB,28-187,29,0,0,0,0,1,0,0,0,16,0,0,0,0.1,0.1,0.0,1,0,13,14,92.9,1,6,0,0,0,Dortmund,2023-10-20 Dortmund-Werder Bremen,GER-BL1,23-24,be058dce
+cd59b9df,Gregor Kobel,1,SUI,GK,25-318,90,0,0,0,0,0,0,0,0,32,0,0,0,0.0,0.0,0.0,0,0,26,32,81.3,0,22,0,0,0,Dortmund,2023-10-20 Dortmund-Werder Bremen,GER-BL1,23-24,be058dce
+638a4d71,Marvin Ducksch,7,GER,FW,29-227,90,0,0,0,0,0,0,1,0,37,0,0,0,0.0,0.0,0.0,1,0,23,35,65.7,2,9,0,1,1,Werder Bremen,2023-10-20 Dortmund-Werder Bremen,GER-BL1,23-24,be058dce
+be5e1c4c,Dawid Kownacki,9,POL,FW,26-220,67,0,0,0,0,0,0,0,0,20,0,0,0,0.0,0.0,0.0,0,0,11,17,64.7,0,10,0,2,1,Werder Bremen,2023-10-20 Dortmund-Werder Bremen,GER-BL1,23-24,be058dce
+a45241d5,Justin Njinmah,17,GER,CM,22-339,23,0,0,0,0,2,1,0,0,7,0,0,1,0.2,0.2,0.0,0,0,0,2,0.0,0,3,0,1,0,Werder Bremen,2023-10-20 Dortmund-Werder Bremen,GER-BL1,23-24,be058dce
+dc62fbee,Leonardo Bittencourt,10,GER,CM,29-305,67,0,0,0,0,2,0,1,0,56,8,1,1,0.1,0.1,0.0,0,0,31,38,81.6,3,35,5,6,3,Werder Bremen,2023-10-20 Dortmund-Werder Bremen,GER-BL1,23-24,be058dce
+0ed60738,Senne Lynen,14,BEL,FW,24-243,23,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,5,7,71.4,0,5,1,0,0,Werder Bremen,2023-10-20 Dortmund-Werder Bremen,GER-BL1,23-24,be058dce
+1fffae99,Jens Stage,6,DEN,CM,26-346,90,0,0,0,0,1,0,1,0,41,4,1,2,0.0,0.0,0.3,4,0,21,28,75.0,3,12,2,0,0,Werder Bremen,2023-10-20 Dortmund-Werder Bremen,GER-BL1,23-24,be058dce
+220ace7e,Romano Schmid,20,AUT,CM,23-266,80,0,0,0,0,0,0,0,0,38,0,1,1,0.0,0.0,0.0,2,0,25,31,80.6,2,22,1,1,0,Werder Bremen,2023-10-20 Dortmund-Werder Bremen,GER-BL1,23-24,be058dce
+7ca196eb,Nick Woltemade,29,GER,CM,21-248,10,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,4,0,0,0,Werder Bremen,2023-10-20 Dortmund-Werder Bremen,GER-BL1,23-24,be058dce
+13210854,Olivier Deman,2,BEL,WB,23-197,90,0,0,0,0,0,0,1,0,56,2,2,2,0.0,0.0,0.0,1,0,35,47,74.5,4,21,1,0,0,Werder Bremen,2023-10-20 Dortmund-Werder Bremen,GER-BL1,23-24,be058dce
+30c220c3,Mitchell Weiser,8,GER,WB,29-182,90,0,0,0,0,0,0,0,0,67,2,0,2,0.0,0.0,0.0,0,0,44,57,77.2,3,35,2,1,1,Werder Bremen,2023-10-20 Dortmund-Werder Bremen,GER-BL1,23-24,be058dce
+de838f86,Anthony Jung,3,GER,CB,31-351,86,0,0,0,0,0,0,0,0,56,1,1,2,0.0,0.0,0.0,0,0,39,45,86.7,0,21,0,0,0,Werder Bremen,2023-10-20 Dortmund-Werder Bremen,GER-BL1,23-24,be058dce
+c68da769,Rafael Borré,19,COL,CB,28-035,4,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,0,0,0,0,Werder Bremen,2023-10-20 Dortmund-Werder Bremen,GER-BL1,23-24,be058dce
+f86ad3f5,Marco Friedl,32,AUT,CB,25-218,90,0,0,0,0,0,0,0,0,51,0,0,2,0.0,0.0,0.0,0,0,40,41,97.6,1,24,0,0,0,Werder Bremen,2023-10-20 Dortmund-Werder Bremen,GER-BL1,23-24,be058dce
+a5ae8f8e,Miloš Veljković,13,SRB,CB,28-024,90,0,0,0,0,0,0,1,0,69,3,1,3,0.0,0.0,0.0,0,0,48,58,82.8,3,40,0,0,0,Werder Bremen,2023-10-20 Dortmund-Werder Bremen,GER-BL1,23-24,be058dce
+9b688ae1,Michael Zetterer,30,GER,GK,28-100,90,0,0,0,0,0,0,0,0,53,0,0,0,0.0,0.0,0.0,0,0,41,50,82.0,0,33,0,0,0,Werder Bremen,2023-10-20 Dortmund-Werder Bremen,GER-BL1,23-24,be058dce

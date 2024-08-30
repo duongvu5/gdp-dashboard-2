@@ -1,0 +1,32 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+a53b661f,Ihlas Bebou,9,TOG,"FW,RW",27-029,90,0,1,0,0,3,0,0,0,55,1,1,1,0.6,0.6,0.3,6,1,23,32,71.9,2,33,5,4,0,Hoffenheim,2021-05-22 Hoffenheim-Hertha BSC,GER-BL1,20-21,f447b726
+22919e97,Sargis Adamyan,23,ARM,LW,27-364,90,1,0,0,0,6,2,0,0,48,3,0,1,0.6,0.6,0.2,5,0,27,32,84.4,7,35,3,1,0,Hoffenheim,2021-05-22 Hoffenheim-Hertha BSC,GER-BL1,20-21,f447b726
+ff98492b,Robert Skov,29,DEN,RW,25-002,63,0,0,0,0,3,0,0,0,40,0,0,1,0.1,0.1,0.1,3,0,21,31,67.7,6,31,1,2,1,Hoffenheim,2021-05-22 Hoffenheim-Hertha BSC,GER-BL1,20-21,f447b726
+c64c01fc,Georginio Rutter,33,FRA,"FW,RW",19-032,27,0,0,0,0,1,1,0,0,14,1,0,0,0.4,0.4,0.1,2,0,8,9,88.9,1,8,0,0,0,Hoffenheim,2021-05-22 Hoffenheim-Hertha BSC,GER-BL1,20-21,f447b726
+603cb947,Andrej Kramarić,27,CRO,"AM,LM",29-337,90,1,0,0,0,5,1,0,0,58,0,0,0,0.4,0.4,0.6,6,1,36,50,72.0,4,41,3,3,2,Hoffenheim,2021-05-22 Hoffenheim-Hertha BSC,GER-BL1,20-21,f447b726
+ffbbc83b,Florian Grillitsch,11,AUT,"DM,CM",25-288,90,0,0,0,0,0,0,0,0,81,2,4,1,0.0,0.0,0.1,3,1,66,70,94.3,11,61,2,0,0,Hoffenheim,2021-05-22 Hoffenheim-Hertha BSC,GER-BL1,20-21,f447b726
+08593525,Diadie Samassékou,18,MLI,DM,25-131,63,0,0,0,0,0,0,0,0,41,2,2,0,0.0,0.0,0.0,1,0,29,31,93.5,3,24,0,0,0,Hoffenheim,2021-05-22 Hoffenheim-Hertha BSC,GER-BL1,20-21,f447b726
+80f36c88,Sebastian Rudy,16,GER,"RM,DM",31-083,27,0,0,0,0,0,0,0,0,29,1,1,1,0.0,0.0,0.0,1,0,22,27,81.5,4,19,2,0,0,Hoffenheim,2021-05-22 Hoffenheim-Hertha BSC,GER-BL1,20-21,f447b726
+6aa3e78b,Ryan Sessegnon,17,ENG,LB,21-004,68,0,1,0,0,0,0,0,0,51,1,1,1,0.0,0.0,0.5,3,1,36,42,85.7,4,30,2,5,1,Hoffenheim,2021-05-22 Hoffenheim-Hertha BSC,GER-BL1,20-21,f447b726
+d9e196bf,Marco John,30,GER,LB,19-050,22,0,0,0,0,0,0,0,0,13,0,0,1,0.0,0.0,0.4,2,0,9,11,81.8,3,8,0,0,0,Hoffenheim,2021-05-22 Hoffenheim-Hertha BSC,GER-BL1,20-21,f447b726
+1d8e9add,Kevin Vogt,22,GER,CB,29-241,90,0,0,0,0,0,0,0,0,100,1,2,0,0.0,0.0,0.0,3,0,88,95,92.6,10,74,1,0,0,Hoffenheim,2021-05-22 Hoffenheim-Hertha BSC,GER-BL1,20-21,f447b726
+7f609bfc,Stefan Posch,38,AUT,CB,24-008,90,0,0,0,0,1,0,0,0,89,2,0,1,0.1,0.1,0.0,2,0,69,79,87.3,8,69,4,0,0,Hoffenheim,2021-05-22 Hoffenheim-Hertha BSC,GER-BL1,20-21,f447b726
+79c90e45,Pavel Kadeřábek,3,CZE,RB,29-027,90,0,0,0,0,2,0,0,0,65,1,0,1,0.2,0.2,0.1,2,0,47,58,81.0,3,40,3,2,1,Hoffenheim,2021-05-22 Hoffenheim-Hertha BSC,GER-BL1,20-21,f447b726
+c41f7379,Philipp Pentke,12,GER,GK,36-021,90,0,0,0,0,0,0,0,0,38,0,0,0,0.0,0.0,0.0,0,0,32,35,91.4,0,21,0,0,0,Hoffenheim,2021-05-22 Hoffenheim-Hertha BSC,GER-BL1,20-21,f447b726
+bc249af8,Jessic Ngankam,27,GER,FW,20-306,44,0,0,0,0,0,0,0,0,14,0,0,0,0.0,0.0,0.0,0,0,7,9,77.8,0,6,1,0,0,Hertha BSC,2021-05-22 Hoffenheim-Hertha BSC,GER-BL1,20-21,f447b726
+0c61c77c,Dodi Lukebakio,11,BEL,FW,23-240,46,0,0,0,0,1,1,0,0,18,0,0,0,0.1,0.1,0.0,0,0,12,15,80.0,1,7,1,1,1,Hertha BSC,2021-05-22 Hoffenheim-Hertha BSC,GER-BL1,20-21,f447b726
+0630eb63,Nemanja Radonjić,24,SRB,LW,25-096,90,0,0,0,0,2,1,0,0,40,1,0,0,0.1,0.1,0.1,5,1,13,24,54.2,3,21,1,2,1,Hertha BSC,2021-05-22 Hoffenheim-Hertha BSC,GER-BL1,20-21,f447b726
+b93b7882,Mathew Leckie,7,AUS,RW,30-107,58,0,0,0,0,0,0,0,0,30,4,1,1,0.0,0.0,0.1,2,0,14,18,77.8,2,18,2,3,1,Hertha BSC,2021-05-22 Hoffenheim-Hertha BSC,GER-BL1,20-21,f447b726
+16b4260e,Daishawn Redan,33,NED,RW,20-109,32,0,0,0,0,2,2,0,0,13,0,0,1,0.6,0.6,0.0,1,0,3,7,42.9,1,9,3,2,1,Hertha BSC,2021-05-22 Hoffenheim-Hertha BSC,GER-BL1,20-21,f447b726
+3eb0f2df,Vladimír Darida,6,CZE,AM,30-287,90,1,0,0,0,4,1,0,0,57,1,2,2,0.8,0.8,0.5,3,0,34,41,82.9,10,32,0,3,0,Hertha BSC,2021-05-22 Hoffenheim-Hertha BSC,GER-BL1,20-21,f447b726
+70678132,Eduard Löwen,23,GER,DM,24-114,44,0,0,0,0,0,0,0,0,37,1,0,0,0.0,0.0,0.0,1,0,30,34,88.2,1,18,1,0,0,Hertha BSC,2021-05-22 Hoffenheim-Hertha BSC,GER-BL1,20-21,f447b726
+e26fcca3,Santiago Ascacíbar,18,ARG,DM,24-086,46,0,0,0,0,0,0,0,0,33,3,1,4,0.0,0.0,0.1,1,0,15,20,75.0,3,14,0,1,1,Hertha BSC,2021-05-22 Hoffenheim-Hertha BSC,GER-BL1,20-21,f447b726
+38ac43d3,Sami Khedira,28,GER,DM,34-048,74,0,0,0,0,0,0,0,0,49,1,0,1,0.0,0.0,0.4,1,0,38,42,90.5,2,26,0,1,1,Hertha BSC,2021-05-22 Hoffenheim-Hertha BSC,GER-BL1,20-21,f447b726
+d699d8ef,Jonas Dirkner,41,GER,DM,18-311,16,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,1,3,33.3,0,3,0,0,0,Hertha BSC,2021-05-22 Hoffenheim-Hertha BSC,GER-BL1,20-21,f447b726
+f7aa75bd,Marvin Plattenhardt,21,GER,LB,29-116,90,0,1,0,0,0,0,0,0,67,3,0,0,0.0,0.0,0.4,2,1,40,54,74.1,3,23,0,0,0,Hertha BSC,2021-05-22 Hoffenheim-Hertha BSC,GER-BL1,20-21,f447b726
+aad48be9,Niklas Stark,5,GER,CB,26-038,63,0,0,0,0,0,0,0,0,59,3,0,2,0.0,0.0,0.0,0,0,41,48,85.4,4,40,1,1,0,Hertha BSC,2021-05-22 Hoffenheim-Hertha BSC,GER-BL1,20-21,f447b726
+41bff4fa,Márton Dárdai,31,HUN,CB,19-099,27,0,0,0,0,0,0,0,0,16,1,2,2,0.0,0.0,0.0,0,0,4,10,40.0,1,8,0,0,0,Hertha BSC,2021-05-22 Hoffenheim-Hertha BSC,GER-BL1,20-21,f447b726
+7c473e12,Dedryck Boyata,20,BEL,CB,30-175,90,0,0,0,0,0,0,0,0,68,1,1,3,0.0,0.0,0.0,0,0,50,55,90.9,0,42,0,0,0,Hertha BSC,2021-05-22 Hoffenheim-Hertha BSC,GER-BL1,20-21,f447b726
+c18d22f5,Peter Pekarík,2,SVK,RB,34-204,90,0,0,0,0,0,0,0,0,57,3,3,2,0.0,0.0,0.0,0,0,38,44,86.4,1,29,5,3,2,Hertha BSC,2021-05-22 Hoffenheim-Hertha BSC,GER-BL1,20-21,f447b726
+0d55d942,Alexander Schwolow,1,GER,GK,28-354,90,0,0,0,0,0,0,0,0,40,0,0,0,0.0,0.0,0.0,0,0,35,39,89.7,0,21,0,0,0,Hertha BSC,2021-05-22 Hoffenheim-Hertha BSC,GER-BL1,20-21,f447b726

@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+9efa1d25,Mario Götze,10,GER,FW,26-314,89,0,1,0,0,0,0,0,0,55,0,0,0,0.0,0.0,0.6,5,2,36,48,75.0,4,45,3,3,2,Dortmund,2019-04-13 Dortmund-Mainz 05,GER-BL1,18-19,a32f4fbb
+c5fd13e9,Ömer Toprak,36,TUR,"CB,FW",29-266,1,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,0,0,0,0,Dortmund,2019-04-13 Dortmund-Mainz 05,GER-BL1,18-19,a32f4fbb
+4e204552,Jacob Bruun Larsen,34,DEN,LW,20-206,71,0,0,0,0,3,1,0,0,47,1,2,1,0.4,0.4,0.0,2,0,25,35,71.4,2,38,4,2,1,Dortmund,2019-04-13 Dortmund-Mainz 05,GER-BL1,18-19,a32f4fbb
+061e8e23,Maximilian Philipp,20,GER,"LW,LM",25-043,19,0,0,0,0,0,0,0,0,9,1,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,2,0,0,0,Dortmund,2019-04-13 Dortmund-Mainz 05,GER-BL1,18-19,a32f4fbb
+dbf053da,Jadon Sancho,7,ENG,"RW,RM",19-019,90,2,0,0,0,2,2,0,0,82,0,0,2,1.0,1.0,0.7,6,0,60,72,83.3,5,46,7,4,1,Dortmund,2019-04-13 Dortmund-Mainz 05,GER-BL1,18-19,a32f4fbb
+36a3ff67,Marco Reus,11,GER,"AM,FW",29-317,90,0,0,0,0,4,1,0,0,60,2,1,3,0.5,0.5,0.0,3,0,31,40,77.5,5,38,5,4,2,Dortmund,2019-04-13 Dortmund-Mainz 05,GER-BL1,18-19,a32f4fbb
+fe641c1a,Thomas Delaney,6,DEN,"DM,CM",27-222,90,0,1,0,0,2,2,0,0,95,5,4,3,0.2,0.2,0.5,1,1,64,76,84.2,4,46,1,1,0,Dortmund,2019-04-13 Dortmund-Mainz 05,GER-BL1,18-19,a32f4fbb
+5dfc6ad5,Axel Witsel,28,BEL,"DM,CM",30-091,90,0,0,0,0,0,0,0,0,101,2,1,2,0.0,0.0,0.0,0,0,82,90,91.1,14,70,3,3,2,Dortmund,2019-04-13 Dortmund-Mainz 05,GER-BL1,18-19,a32f4fbb
+fc62f087,Abdou Diallo,4,SEN,LB,22-344,90,0,0,0,0,0,0,0,0,119,2,0,1,0.0,0.0,0.0,1,0,89,103,86.4,9,66,3,4,1,Dortmund,2019-04-13 Dortmund-Mainz 05,GER-BL1,18-19,a32f4fbb
+89ac64a6,Manuel Akanji,16,SUI,"CB,RB",23-268,90,0,0,0,0,0,0,0,0,105,1,1,0,0.0,0.0,0.0,0,0,87,97,89.7,5,83,2,1,1,Dortmund,2019-04-13 Dortmund-Mainz 05,GER-BL1,18-19,a32f4fbb
+346d51d9,Julian Weigl,33,GER,CB,23-217,90,0,0,0,0,0,0,0,0,87,0,2,1,0.0,0.0,0.0,0,0,71,78,91.0,1,56,0,0,0,Dortmund,2019-04-13 Dortmund-Mainz 05,GER-BL1,18-19,a32f4fbb
+fa661778,Marius Wolf,27,GER,RB,23-321,77,0,0,0,0,1,1,0,0,94,3,2,2,0.0,0.0,0.1,3,1,71,83,85.5,8,49,2,1,1,Dortmund,2019-04-13 Dortmund-Mainz 05,GER-BL1,18-19,a32f4fbb
+a4effc55,Dan-Axel Zagadou,2,FRA,"CB,RB",19-314,13,0,0,0,0,0,0,0,0,11,1,0,0,0.0,0.0,0.0,0,0,5,5,100.0,0,5,0,0,0,Dortmund,2019-04-13 Dortmund-Mainz 05,GER-BL1,18-19,a32f4fbb
+9d12e142,Roman Bürki,1,SUI,GK,28-150,90,0,0,0,0,0,0,0,0,45,0,0,0,0.0,0.0,0.0,0,0,25,40,62.5,0,29,0,0,0,Dortmund,2019-04-13 Dortmund-Mainz 05,GER-BL1,18-19,a32f4fbb
+f26834c7,Karim Onisiwo,21,AUT,FW,27-027,90,0,0,0,0,5,3,0,0,38,0,0,3,1.1,1.1,0.1,2,0,11,23,47.8,2,22,4,0,0,Mainz 05,2019-04-13 Dortmund-Mainz 05,GER-BL1,18-19,a32f4fbb
+50e6dc35,Jean-Philippe Mateta,9,FRA,FW,21-289,55,0,0,0,0,1,0,1,0,19,1,0,1,0.1,0.1,0.4,1,0,5,8,62.5,0,11,1,2,1,Mainz 05,2019-04-13 Dortmund-Mainz 05,GER-BL1,18-19,a32f4fbb
+74c7c2db,Robin Quaison,7,SWE,FW,25-186,35,1,0,0,0,3,1,0,0,14,0,0,0,0.9,0.9,0.5,0,0,6,8,75.0,1,11,1,1,0,Mainz 05,2019-04-13 Dortmund-Mainz 05,GER-BL1,18-19,a32f4fbb
+33b554b7,Danny Latza,6,GER,CM,29-127,81,0,0,0,0,1,0,0,0,56,2,0,3,0.1,0.1,0.0,2,0,34,44,77.3,7,38,2,2,1,Mainz 05,2019-04-13 Dortmund-Mainz 05,GER-BL1,18-19,a32f4fbb
+99be8fb5,Anthony Ujah,20,NGA,CM,28-181,9,0,0,0,0,3,3,0,0,6,0,0,0,0.8,0.8,0.0,2,0,1,1,100.0,0,2,0,0,0,Mainz 05,2019-04-13 Dortmund-Mainz 05,GER-BL1,18-19,a32f4fbb
+9ceb7642,Pierre Kunde,14,CMR,CM,23-261,45,0,0,0,0,0,0,0,0,33,0,0,0,0.0,0.0,0.0,2,0,28,32,87.5,4,26,0,0,0,Mainz 05,2019-04-13 Dortmund-Mainz 05,GER-BL1,18-19,a32f4fbb
+442b56fa,Ridle Baku,34,GER,CM,21-005,45,0,0,0,0,0,0,0,0,26,1,0,0,0.0,0.0,0.0,2,0,16,20,80.0,1,21,0,1,0,Mainz 05,2019-04-13 Dortmund-Mainz 05,GER-BL1,18-19,a32f4fbb
+635f2732,Jean-Paul Boëtius,5,NED,CM,25-022,90,0,0,0,0,2,1,0,0,69,6,2,6,0.1,0.1,0.1,5,0,36,46,78.3,7,45,1,1,0,Mainz 05,2019-04-13 Dortmund-Mainz 05,GER-BL1,18-19,a32f4fbb
+2f3e911a,Aarón Martín,3,ESP,LB,21-356,90,0,0,0,0,0,0,0,0,71,0,3,3,0.0,0.0,0.2,5,0,46,61,75.4,0,35,4,1,1,Mainz 05,2019-04-13 Dortmund-Mainz 05,GER-BL1,18-19,a32f4fbb
+00242715,Moussa Niakhate,19,SEN,CB,23-036,90,0,0,0,0,0,0,0,0,60,2,0,1,0.0,0.0,0.0,0,0,48,56,85.7,4,41,0,0,0,Mainz 05,2019-04-13 Dortmund-Mainz 05,GER-BL1,18-19,a32f4fbb
+a5ec3ede,Alexander Hack,42,GER,CB,25-217,90,0,0,0,0,1,0,0,0,61,3,3,3,0.1,0.1,0.0,4,1,38,52,73.1,5,34,3,0,0,Mainz 05,2019-04-13 Dortmund-Mainz 05,GER-BL1,18-19,a32f4fbb
+6bd603db,Jean-Philippe Gbamin,25,CIV,CB,23-200,90,0,0,0,0,1,1,0,0,62,1,0,3,0.0,0.0,0.0,1,0,38,50,76.0,4,37,2,1,1,Mainz 05,2019-04-13 Dortmund-Mainz 05,GER-BL1,18-19,a32f4fbb
+22051fbe,Giulio Donati,2,ITA,RB,29-067,90,0,0,0,0,0,0,0,0,76,2,3,0,0.0,0.0,0.0,3,0,46,67,68.7,5,45,2,5,4,Mainz 05,2019-04-13 Dortmund-Mainz 05,GER-BL1,18-19,a32f4fbb
+cbac6ec9,Florian Müller,22,GER,GK,21-151,90,0,0,0,0,0,0,0,0,39,0,0,0,0.0,0.0,0.0,1,0,27,38,71.1,0,28,0,0,0,Mainz 05,2019-04-13 Dortmund-Mainz 05,GER-BL1,18-19,a32f4fbb

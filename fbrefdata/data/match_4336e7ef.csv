@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+53e07d0b,Ádám Szalai,28,HUN,FW,30-266,90,2,0,0,0,8,4,1,0,42,0,0,0,2.3,2.3,0.0,3,0,17,23,73.9,2,22,0,1,1,Hoffenheim,2018-09-01 Hoffenheim-Freiburg,GER-BL1,18-19,4336e7ef
+c17bfb65,Joelinton,34,BRA,FW,22-018,90,0,0,0,0,2,1,0,0,45,2,1,4,0.1,0.1,0.1,4,0,21,25,84.0,0,26,1,2,1,Hoffenheim,2018-09-01 Hoffenheim-Freiburg,GER-BL1,18-19,4336e7ef
+dc62fbee,Leonardo Bittencourt,13,GER,CM,24-256,90,0,1,0,0,3,1,0,0,54,0,0,0,0.3,0.3,0.9,10,2,31,41,75.6,4,28,5,4,1,Hoffenheim,2018-09-01 Hoffenheim-Freiburg,GER-BL1,18-19,4336e7ef
+ffbbc83b,Florian Grillitsch,11,AUT,CM,23-025,90,0,0,0,0,1,0,0,0,64,2,4,1,0.0,0.0,0.0,2,1,42,55,76.4,8,32,3,2,2,Hoffenheim,2018-09-01 Hoffenheim-Freiburg,GER-BL1,18-19,4336e7ef
+b6a6e0a7,Steven Zuber,17,SUI,"CM,RM",27-015,90,0,0,0,0,2,1,0,0,47,2,0,1,0.1,0.1,0.5,3,0,28,40,70.0,4,21,0,0,0,Hoffenheim,2018-09-01 Hoffenheim-Freiburg,GER-BL1,18-19,4336e7ef
+fa274d97,Nico Schulz,16,GER,"WB,LB",25-153,90,0,1,0,0,1,0,0,0,69,0,3,0,0.1,0.1,1.0,3,1,41,60,68.3,7,33,3,0,0,Hoffenheim,2018-09-01 Hoffenheim-Freiburg,GER-BL1,18-19,4336e7ef
+79c90e45,Pavel Kadeřábek,3,CZE,"WB,RB",26-129,90,0,0,0,0,1,0,0,0,55,0,0,2,0.0,0.0,0.1,2,0,36,49,73.5,2,26,3,0,0,Hoffenheim,2018-09-01 Hoffenheim-Freiburg,GER-BL1,18-19,4336e7ef
+93a50d2c,Kasim Nuhu,15,GHA,CB,23-071,43,0,0,0,0,0,0,0,0,29,0,0,0,0.0,0.0,0.0,0,0,22,26,84.6,2,16,1,1,1,Hoffenheim,2018-09-01 Hoffenheim-Freiburg,GER-BL1,18-19,4336e7ef
+603cb947,Andrej Kramarić,27,CRO,"LM,CB",27-074,47,1,0,0,0,4,1,0,0,21,0,0,1,0.7,0.7,0.0,1,1,10,14,71.4,0,14,3,0,0,Hoffenheim,2018-09-01 Hoffenheim-Freiburg,GER-BL1,18-19,4336e7ef
+1d8e9add,Kevin Vogt,22,GER,CB,26-343,90,0,0,0,0,0,0,0,0,90,1,1,1,0.0,0.0,0.0,2,0,74,79,93.7,5,59,0,0,0,Hoffenheim,2018-09-01 Hoffenheim-Freiburg,GER-BL1,18-19,4336e7ef
+7aac47fe,Ermin Bičakčić,4,BIH,CB,28-220,18,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,0,0,8,9,88.9,0,4,1,0,0,Hoffenheim,2018-09-01 Hoffenheim-Freiburg,GER-BL1,18-19,4336e7ef
+6ec6fde0,Kevin Akpoguma,25,NGA,CB,23-135,27,0,0,0,0,0,0,0,0,23,0,1,0,0.0,0.0,0.0,1,0,16,19,84.2,3,14,0,0,0,Hoffenheim,2018-09-01 Hoffenheim-Freiburg,GER-BL1,18-19,4336e7ef
+6cafd68d,Håvard Nordtveit,6,NOR,CB,28-072,45,0,0,0,0,0,0,0,0,35,2,0,0,0.0,0.0,0.0,0,0,24,30,80.0,1,21,0,1,1,Hoffenheim,2018-09-01 Hoffenheim-Freiburg,GER-BL1,18-19,4336e7ef
+47064058,Oliver Baumann,1,GER,GK,28-091,90,0,0,0,0,0,0,0,0,50,0,0,0,0.0,0.0,0.0,1,0,38,47,80.9,0,31,0,0,0,Hoffenheim,2018-09-01 Hoffenheim-Freiburg,GER-BL1,18-19,4336e7ef
+f93e6e94,Nils Petersen,18,GER,FW,29-269,90,0,0,0,0,4,1,0,0,37,2,1,2,0.3,0.3,0.1,4,0,12,22,54.5,1,13,0,2,1,Freiburg,2018-09-01 Hoffenheim-Freiburg,GER-BL1,18-19,4336e7ef
+482b70ad,Mike Frantz,8,GER,LW,31-322,90,0,0,0,0,0,0,0,0,27,4,2,2,0.0,0.0,0.3,5,0,9,15,60.0,1,8,0,1,1,Freiburg,2018-09-01 Hoffenheim-Freiburg,GER-BL1,18-19,4336e7ef
+ca618d23,Lucas Höler,9,GER,RW,24-053,65,0,0,0,0,0,0,0,0,25,1,0,2,0.0,0.0,0.0,1,1,6,14,42.9,0,11,0,1,0,Freiburg,2018-09-01 Hoffenheim-Freiburg,GER-BL1,18-19,4336e7ef
+7e689867,Marco Terrazzino,13,GER,RW,27-139,25,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,0,0,5,9,55.6,0,5,2,0,0,Freiburg,2018-09-01 Hoffenheim-Freiburg,GER-BL1,18-19,4336e7ef
+d6862409,Florian Niederlechner,7,GER,AM,27-312,80,0,0,0,0,4,2,1,0,22,0,1,2,0.6,0.6,0.0,2,0,4,9,44.4,0,10,1,2,1,Freiburg,2018-09-01 Hoffenheim-Freiburg,GER-BL1,18-19,4336e7ef
+e5a35ae9,Luca Waldschmidt,11,GER,FW,22-105,10,0,0,0,0,0,0,0,0,8,1,0,1,0.0,0.0,0.0,0,0,4,5,80.0,1,4,1,0,0,Freiburg,2018-09-01 Hoffenheim-Freiburg,GER-BL1,18-19,4336e7ef
+5d8e331f,Nicolas Höfler,27,GER,DM,28-176,90,0,0,0,0,0,0,0,0,38,1,0,1,0.0,0.0,0.0,0,0,28,31,90.3,2,15,1,1,1,Freiburg,2018-09-01 Hoffenheim-Freiburg,GER-BL1,18-19,4336e7ef
+49ffe0f2,Jérôme Gondorf,20,GER,DM,30-067,90,0,0,0,0,1,0,1,0,55,4,2,0,0.1,0.1,0.4,1,0,31,43,72.1,4,22,6,1,0,Freiburg,2018-09-01 Hoffenheim-Freiburg,GER-BL1,18-19,4336e7ef
+8593f88c,Christian Günter,30,GER,LB,25-185,90,0,0,0,0,0,0,0,0,31,1,0,1,0.0,0.0,0.0,1,0,16,24,66.7,0,7,1,0,0,Freiburg,2018-09-01 Hoffenheim-Freiburg,GER-BL1,18-19,4336e7ef
+699fb8db,Dominique Heintz,23,GER,CB,25-017,90,1,0,0,0,1,1,0,0,64,0,2,1,0.3,0.3,0.0,3,0,30,46,65.2,7,18,3,0,0,Freiburg,2018-09-01 Hoffenheim-Freiburg,GER-BL1,18-19,4336e7ef
+25ab9c9c,Manuel Gulde,5,GER,CB,27-201,88,0,0,0,0,0,0,0,0,54,2,3,0,0.0,0.0,0.0,0,0,34,44,77.3,1,24,0,0,0,Freiburg,2018-09-01 Hoffenheim-Freiburg,GER-BL1,18-19,4336e7ef
+ea6bc03a,Robin Koch,25,GER,CB,22-046,2,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,1,3,33.3,0,0,0,0,0,Freiburg,2018-09-01 Hoffenheim-Freiburg,GER-BL1,18-19,4336e7ef
+99f7e9aa,Pascal Stenzel,15,GER,RB,22-165,90,0,0,0,0,1,0,0,0,70,4,1,1,0.0,0.0,0.0,1,1,47,60,78.3,3,23,0,1,1,Freiburg,2018-09-01 Hoffenheim-Freiburg,GER-BL1,18-19,4336e7ef
+0d55d942,Alexander Schwolow,1,GER,GK,26-091,90,0,0,0,0,0,0,0,0,43,0,0,0,0.0,0.0,0.0,1,0,21,38,55.3,0,20,0,0,0,Freiburg,2018-09-01 Hoffenheim-Freiburg,GER-BL1,18-19,4336e7ef

@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+8ff07990,Mario Balotelli,9,ITA,FW,27-028,73,2,0,1,1,2,1,1,0,30,0,0,0,1.7,0.9,0.0,1,1,15,24,62.5,3,12,1,0,0,Nice,2017-09-09 Nice-Monaco,FRA-L1,17-18,910a4a89
+23c63b7f,Ignatius Ganago,33,CMR,FW,18-205,17,1,0,0,0,1,1,0,0,7,0,0,0,0.6,0.6,0.0,1,1,2,2,100.0,0,4,1,1,1,Nice,2017-09-09 Nice-Monaco,FRA-L1,17-18,910a4a89
+bc6bd723,Alassane Pléa,14,FRA,FW,24-183,90,1,0,0,0,4,2,0,0,29,1,0,1,0.7,0.7,0.0,1,0,14,20,70.0,2,14,3,2,1,Nice,2017-09-09 Nice-Monaco,FRA-L1,17-18,910a4a89
+f5044e54,Pierre Lees-Melou,8,FRA,LM,24-107,90,0,1,0,0,0,0,0,0,56,4,0,2,0.0,0.0,0.6,2,1,32,41,78.0,3,21,1,0,0,Nice,2017-09-09 Nice-Monaco,FRA-L1,17-18,910a4a89
+10efd0e1,Jean Seri,6,CIV,CM,26-052,90,0,0,0,0,0,0,0,0,81,1,0,2,0.0,0.0,0.3,5,0,63,71,88.7,2,45,2,2,2,Nice,2017-09-09 Nice-Monaco,FRA-L1,17-18,910a4a89
+9a493fb7,Vincent Koziello,26,FRA,CM,21-316,84,0,0,0,0,0,0,0,0,42,2,0,0,0.0,0.0,0.0,0,0,31,32,96.9,1,15,0,1,0,Nice,2017-09-09 Nice-Monaco,FRA-L1,17-18,910a4a89
+1598599e,Nampalys Mendy,21,SEN,CM,25-078,6,0,0,0,0,0,0,0,0,9,0,1,0,0.0,0.0,0.0,0,0,7,9,77.8,0,6,0,0,0,Nice,2017-09-09 Nice-Monaco,FRA-L1,17-18,910a4a89
+2b16cb1a,Allan Saint-Maximin,7,FRA,RM,20-181,78,0,1,0,0,1,0,0,0,36,3,0,0,0.1,0.1,0.7,6,3,21,27,77.8,3,29,1,2,0,Nice,2017-09-09 Nice-Monaco,FRA-L1,17-18,910a4a89
+0984c5d5,Rémi Walter,18,FRA,RM,22-136,12,0,0,0,0,0,0,0,0,5,1,0,0,0.0,0.0,0.0,0,0,4,4,100.0,1,5,0,0,0,Nice,2017-09-09 Nice-Monaco,FRA-L1,17-18,910a4a89
+46d50339,Christophe Jallet,24,FRA,LB,33-313,90,0,0,0,0,1,0,1,0,60,2,1,1,0.0,0.0,0.0,2,0,40,47,85.1,2,25,5,1,0,Nice,2017-09-09 Nice-Monaco,FRA-L1,17-18,910a4a89
+321a71a7,Maxime Le Marchand,20,FRA,CB,27-333,90,0,0,0,0,0,0,0,0,53,3,2,1,0.0,0.0,0.0,0,0,32,40,80.0,1,23,0,2,2,Nice,2017-09-09 Nice-Monaco,FRA-L1,17-18,910a4a89
+cdf65d12,Marlon,4,BRA,CB,22-002,90,0,0,0,0,0,0,0,0,50,0,2,2,0.0,0.0,0.0,0,0,35,39,89.7,0,21,0,1,0,Nice,2017-09-09 Nice-Monaco,FRA-L1,17-18,910a4a89
+4e0afc5d,Arnaud Souquet,2,FRA,RB,25-209,90,0,1,0,0,0,0,0,0,63,7,3,2,0.0,0.0,0.7,1,1,34,45,75.6,0,23,1,1,0,Nice,2017-09-09 Nice-Monaco,FRA-L1,17-18,910a4a89
+950ff24d,Yoan Cardinale,30,FRA,GK,23-166,90,0,0,0,0,0,0,0,0,37,0,0,0,0.0,0.0,0.0,0,0,25,36,69.4,0,12,0,0,0,Nice,2017-09-09 Nice-Monaco,FRA-L1,17-18,910a4a89
+65585e3a,Adama Diakhaby,15,FRA,"LM,FW",21-066,90,0,0,0,0,2,0,0,0,36,2,2,0,0.1,0.1,0.0,1,0,22,28,78.6,1,23,3,1,0,Monaco,2017-09-09 Nice-Monaco,FRA-L1,17-18,910a4a89
+66116290,Radamel Falcao,9,COL,FW,31-211,68,0,0,0,0,1,0,0,0,23,0,0,0,0.0,0.0,0.0,0,0,15,19,78.9,1,13,1,2,1,Monaco,2017-09-09 Nice-Monaco,FRA-L1,17-18,910a4a89
+f36c432f,Stevan Jovetić,10,MNE,FW,27-311,22,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,1,0,5,8,62.5,0,7,0,0,0,Monaco,2017-09-09 Nice-Monaco,FRA-L1,17-18,910a4a89
+4dbd0916,Thomas Lemar,27,FRA,LM,21-301,45,0,0,0,0,0,0,0,0,35,0,1,0,0.0,0.0,0.0,2,0,25,30,83.3,4,24,1,2,0,Monaco,2017-09-09 Nice-Monaco,FRA-L1,17-18,910a4a89
+dc3a9a0d,Rachid Ghezzal,7,ALG,RM,25-123,45,0,0,0,0,1,0,0,0,33,3,2,0,0.0,0.0,0.1,2,0,12,21,57.1,2,13,2,3,1,Monaco,2017-09-09 Nice-Monaco,FRA-L1,17-18,910a4a89
+7f3b388c,Fabinho,2,BRA,CM,23-321,90,0,0,0,0,0,0,0,0,63,3,0,0,0.0,0.0,0.0,1,0,51,60,85.0,11,35,2,1,1,Monaco,2017-09-09 Nice-Monaco,FRA-L1,17-18,910a4a89
+f5a00fa4,João Moutinho,8,POR,CM,31-001,90,0,0,0,0,1,0,0,0,91,2,2,1,0.1,0.1,0.1,4,0,67,82,81.7,20,54,2,1,1,Monaco,2017-09-09 Nice-Monaco,FRA-L1,17-18,910a4a89
+7c2965bb,Rony Lopes,20,POR,RM,21-255,45,0,0,0,0,1,0,0,0,21,3,1,1,0.0,0.0,0.1,2,0,13,16,81.3,0,13,2,1,1,Monaco,2017-09-09 Nice-Monaco,FRA-L1,17-18,910a4a89
+8f898ba8,Guido Carrillo,11,ARG,FW,26-107,45,0,0,0,0,1,0,0,0,11,0,0,1,0.5,0.5,0.0,1,0,6,7,85.7,0,6,1,0,0,Monaco,2017-09-09 Nice-Monaco,FRA-L1,17-18,910a4a89
+13c44fc5,Jorge,6,BRA,LB,21-165,90,0,0,0,0,1,0,1,0,62,1,1,0,0.0,0.0,0.1,2,0,40,55,72.7,4,32,4,3,0,Monaco,2017-09-09 Nice-Monaco,FRA-L1,17-18,910a4a89
+7cab69b5,Jemerson,5,BRA,CB,25-016,90,0,0,0,0,0,0,0,0,67,1,5,0,0.0,0.0,0.0,1,0,48,53,90.6,4,37,1,0,0,Monaco,2017-09-09 Nice-Monaco,FRA-L1,17-18,910a4a89
+c6056d58,Kamil Glik,25,POL,CB,29-218,90,0,0,0,0,1,0,0,0,58,1,2,0,0.1,0.1,0.5,1,0,45,51,88.2,3,30,0,0,0,Monaco,2017-09-09 Nice-Monaco,FRA-L1,17-18,910a4a89
+4c5b714f,Djibril Sidibé,19,FRA,RB,25-042,90,0,0,0,0,2,1,1,0,70,0,2,0,0.1,0.1,0.0,2,0,47,61,77.0,9,40,1,0,0,Monaco,2017-09-09 Nice-Monaco,FRA-L1,17-18,910a4a89
+f6db3bd5,Danijel Subašić,1,CRO,GK,32-317,90,0,0,0,0,0,0,0,0,26,0,0,0,0.0,0.0,0.0,0,0,19,23,82.6,0,13,0,0,0,Monaco,2017-09-09 Nice-Monaco,FRA-L1,17-18,910a4a89

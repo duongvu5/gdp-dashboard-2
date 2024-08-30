@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+a7a9d95a,Paco Alcácer,9,ESP,FW,25-352,90,2,1,0,0,3,2,0,0,30,1,0,2,1.0,1.0,0.4,1,1,17,21,81.0,0,14,0,1,0,Dortmund,2019-08-17 Dortmund-Augsburg,GER-BL1,19-20,cc473b97
+50871bcc,Thorgan Hazard,23,BEL,LW,26-141,67,0,0,0,0,0,0,0,0,53,1,0,2,0.0,0.0,0.3,7,1,30,40,75.0,4,30,5,7,4,Dortmund,2019-08-17 Dortmund-Augsburg,GER-BL1,19-20,cc473b97
+a167537f,Julian Brandt,19,GER,LW,23-107,23,1,0,0,0,1,1,0,0,23,0,0,0,0.5,0.5,0.0,1,0,19,20,95.0,0,17,0,0,0,Dortmund,2019-08-17 Dortmund-Augsburg,GER-BL1,19-20,cc473b97
+dbf053da,Jadon Sancho,7,ENG,RW,19-145,90,1,1,0,0,1,1,0,0,119,0,1,1,0.2,0.2,0.1,5,3,91,104,87.5,4,86,13,10,4,Dortmund,2019-08-17 Dortmund-Augsburg,GER-BL1,19-20,cc473b97
+36a3ff67,Marco Reus,11,GER,AM,30-078,77,1,0,0,0,5,3,0,0,54,2,0,0,0.5,0.5,0.1,4,0,35,43,81.4,3,32,3,4,3,Dortmund,2019-08-17 Dortmund-Augsburg,GER-BL1,19-20,cc473b97
+9efa1d25,Mario Götze,10,GER,AM,27-075,13,0,0,0,0,1,0,0,0,12,1,0,0,0.0,0.0,0.0,2,0,6,7,85.7,0,8,0,1,0,Dortmund,2019-08-17 Dortmund-Augsburg,GER-BL1,19-20,cc473b97
+5dfc6ad5,Axel Witsel,28,BEL,DM,30-217,90,0,2,0,0,5,1,0,0,135,0,0,0,0.3,0.3,1.1,4,1,123,128,96.1,23,110,1,0,0,Dortmund,2019-08-17 Dortmund-Augsburg,GER-BL1,19-20,cc473b97
+346d51d9,Julian Weigl,33,GER,DM,23-343,90,0,0,0,0,1,1,0,0,124,1,1,2,0.0,0.0,0.0,4,0,104,112,92.9,7,95,1,2,1,Dortmund,2019-08-17 Dortmund-Augsburg,GER-BL1,19-20,cc473b97
+fa274d97,Nico Schulz,14,GER,LB,26-138,90,0,0,0,0,1,0,0,0,111,3,3,3,0.0,0.0,0.0,5,2,91,100,91.0,15,75,4,3,2,Dortmund,2019-08-17 Dortmund-Augsburg,GER-BL1,19-20,cc473b97
+05d548d8,Mats Hummels,15,GER,CB,30-244,90,0,0,0,0,3,0,0,0,119,1,1,0,0.2,0.2,0.0,3,1,102,112,91.1,8,94,2,0,0,Dortmund,2019-08-17 Dortmund-Augsburg,GER-BL1,19-20,cc473b97
+89ac64a6,Manuel Akanji,16,SUI,CB,24-029,90,0,0,0,0,0,0,0,0,119,2,0,0,0.0,0.0,0.0,1,1,110,114,96.5,12,97,1,0,0,Dortmund,2019-08-17 Dortmund-Augsburg,GER-BL1,19-20,cc473b97
+fe2db476,Łukasz Piszczek,26,POL,RB,34-075,67,0,0,0,0,0,0,0,0,91,1,1,0,0.0,0.0,0.2,1,0,78,85,91.8,7,56,1,2,0,Dortmund,2019-08-17 Dortmund-Augsburg,GER-BL1,19-20,cc473b97
+e42d61c7,Achraf Hakimi,5,MAR,RB,20-286,23,0,0,0,0,1,0,0,0,35,0,0,0,0.4,0.4,0.0,0,0,32,33,97.0,2,24,1,4,3,Dortmund,2019-08-17 Dortmund-Augsburg,GER-BL1,19-20,cc473b97
+2e7ff968,Marwin Hitz,35,SUI,GK,31-333,90,0,0,0,0,0,0,0,0,19,0,0,0,0.0,0.0,0.0,0,0,19,19,100.0,1,8,0,0,0,Dortmund,2019-08-17 Dortmund-Augsburg,GER-BL1,19-20,cc473b97
+d6862409,Florian Niederlechner,7,GER,FW,28-297,90,1,0,0,0,2,1,0,0,27,2,0,1,0.5,0.5,0.3,4,0,16,18,88.9,1,13,2,2,1,Augsburg,2019-08-17 Dortmund-Augsburg,GER-BL1,19-20,cc473b97
+6ecbddf6,Ruben Vargas,16,SUI,LW,21-012,82,0,0,0,0,1,0,0,0,29,2,0,0,0.2,0.2,0.0,1,0,8,12,66.7,1,13,2,3,2,Augsburg,2019-08-17 Dortmund-Augsburg,GER-BL1,19-20,cc473b97
+3eeb80e0,Fredrik Jensen,24,FIN,LW,21-342,8,0,0,0,0,0,0,0,0,2,1,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Augsburg,2019-08-17 Dortmund-Augsburg,GER-BL1,19-20,cc473b97
+cd82452e,André Hahn,28,GER,RW,29-004,59,0,0,0,0,1,0,0,0,28,3,0,0,0.1,0.1,0.0,0,0,7,15,46.7,0,6,1,0,0,Augsburg,2019-08-17 Dortmund-Augsburg,GER-BL1,19-20,cc473b97
+f972644c,Marco Richter,23,GER,RW,21-266,31,0,0,0,0,1,0,0,0,13,1,1,0,0.0,0.0,0.0,0,0,1,3,33.3,0,6,1,4,2,Augsburg,2019-08-17 Dortmund-Augsburg,GER-BL1,19-20,cc473b97
+8e235926,Michael Gregoritsch,11,AUT,AM,25-121,76,0,0,0,0,0,0,0,0,32,2,1,2,0.0,0.0,0.0,0,0,15,22,68.2,3,11,0,0,0,Augsburg,2019-08-17 Dortmund-Augsburg,GER-BL1,19-20,cc473b97
+8b6e0db2,Reece Oxford,36,ENG,AM,20-244,14,0,0,0,0,0,0,0,0,5,1,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,1,0,0,0,Augsburg,2019-08-17 Dortmund-Augsburg,GER-BL1,19-20,cc473b97
+f261abcb,Daniel Baier,10,GER,DM,35-091,90,0,0,0,0,0,0,0,0,37,4,5,1,0.0,0.0,0.1,1,0,13,24,54.2,2,20,0,0,0,Augsburg,2019-08-17 Dortmund-Augsburg,GER-BL1,19-20,cc473b97
+f2dd9a21,Carlos Gruezo,25,ECU,DM,24-120,90,0,0,0,0,0,0,0,0,31,1,1,1,0.0,0.0,0.0,1,1,18,26,69.2,3,15,1,0,0,Augsburg,2019-08-17 Dortmund-Augsburg,GER-BL1,19-20,cc473b97
+582a5247,Mads Pedersen,3,DEN,LB,22-350,90,0,1,0,0,0,0,0,0,41,4,2,2,0.0,0.0,0.5,2,1,19,26,73.1,0,13,3,2,0,Augsburg,2019-08-17 Dortmund-Augsburg,GER-BL1,19-20,cc473b97
+59e4b92e,Rani Khedira,8,GER,CB,25-202,90,0,0,0,0,0,0,0,0,36,2,2,2,0.0,0.0,0.0,1,0,21,29,72.4,1,19,0,0,0,Augsburg,2019-08-17 Dortmund-Augsburg,GER-BL1,19-20,cc473b97
+c5224618,Marek Suchý,5,CZE,CB,31-141,90,0,0,0,0,0,0,0,0,44,2,1,1,0.0,0.0,0.0,0,0,32,37,86.5,0,20,0,0,0,Augsburg,2019-08-17 Dortmund-Augsburg,GER-BL1,19-20,cc473b97
+c8cfb04d,Georg Teigl,34,AUT,RB,28-189,90,0,0,0,0,0,0,0,0,34,3,3,0,0.0,0.0,0.0,0,0,17,22,77.3,1,18,1,2,2,Augsburg,2019-08-17 Dortmund-Augsburg,GER-BL1,19-20,cc473b97
+dc366c36,Tomáš Koubek,21,CZE,GK,26-356,90,0,0,0,0,0,0,0,0,38,0,0,0,0.0,0.0,0.0,0,0,25,31,80.6,0,11,0,0,0,Augsburg,2019-08-17 Dortmund-Augsburg,GER-BL1,19-20,cc473b97

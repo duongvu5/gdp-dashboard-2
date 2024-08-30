@@ -1,0 +1,31 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+80dbbd10,Simeon Nwankwo,25,NGA,FW,28-177,90,1,0,0,0,2,1,0,0,33,1,0,0,0.4,0.4,0.0,0,0,17,20,85.0,1,23,0,3,1,Crotone,2020-10-31 Crotone-Atalanta,ITA-SERIA_A,20-21,6093ca64
+f49c4ae9,Junior Messias,30,BRA,FW,29-171,90,0,0,0,0,2,0,0,0,37,2,0,2,0.0,0.0,0.0,0,0,10,19,52.6,1,26,2,6,5,Crotone,2020-10-31 Crotone-Atalanta,ITA-SERIA_A,20-21,6093ca64
+5944af8f,Miloš Vulić,77,SRB,CM,24-073,90,0,1,0,0,1,0,0,0,52,2,0,0,0.0,0.0,0.3,2,0,28,45,62.2,1,43,2,2,0,Crotone,2020-10-31 Crotone-Atalanta,ITA-SERIA_A,20-21,6093ca64
+a128b07e,Ahmad Benali,10,LBY,CM,28-267,90,0,0,0,0,0,0,0,0,92,1,1,5,0.0,0.0,0.0,0,0,68,78,87.2,8,55,0,2,0,Crotone,2020-10-31 Crotone-Atalanta,ITA-SERIA_A,20-21,6093ca64
+741e058f,Niccolò Zanellato,21,ITA,CM,22-129,77,0,0,0,0,0,0,0,0,37,1,0,0,0.0,0.0,0.0,0,0,26,33,78.8,3,22,0,0,0,Crotone,2020-10-31 Crotone-Atalanta,ITA-SERIA_A,20-21,6093ca64
+1cac99dc,Luca Siligardi,28,ITA,CM,32-279,13,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,3,0,4,6,66.7,1,5,0,0,0,Crotone,2020-10-31 Crotone-Atalanta,ITA-SERIA_A,20-21,6093ca64
+6213fd82,Arkadiusz Reca,69,POL,WB,25-136,90,0,0,0,0,1,0,0,0,48,1,3,3,0.1,0.1,0.1,2,0,24,32,75.0,0,30,3,3,1,Crotone,2020-10-31 Crotone-Atalanta,ITA-SERIA_A,20-21,6093ca64
+c77be0cf,Pedro Pereira,32,POR,WB,22-283,77,0,0,0,0,0,0,0,0,33,2,0,1,0.0,0.0,0.0,0,0,18,28,64.3,1,14,0,1,1,Crotone,2020-10-31 Crotone-Atalanta,ITA-SERIA_A,20-21,6093ca64
+39ee6cb6,Andrea Rispoli,33,ITA,WB,32-032,13,0,0,0,0,0,0,0,0,8,1,0,1,0.0,0.0,0.0,0,0,4,5,80.0,0,3,0,0,0,Crotone,2020-10-31 Crotone-Atalanta,ITA-SERIA_A,20-21,6093ca64
+997fff07,Sebastiano Luperto,13,ITA,CB,24-055,90,0,0,0,0,0,0,0,0,66,2,0,0,0.0,0.0,0.1,1,0,46,59,78.0,4,41,0,0,0,Crotone,2020-10-31 Crotone-Atalanta,ITA-SERIA_A,20-21,6093ca64
+ea468ea8,Luca Marrone,34,ITA,CB,30-217,90,0,0,0,0,0,0,1,0,55,1,2,1,0.0,0.0,0.0,0,0,32,43,74.4,0,27,0,0,0,Crotone,2020-10-31 Crotone-Atalanta,ITA-SERIA_A,20-21,6093ca64
+01a49bd2,Lisandro Magallán,6,ARG,CB,27-034,90,0,0,0,0,0,0,0,0,54,4,0,1,0.0,0.0,0.0,0,0,37,42,88.1,1,34,0,0,0,Crotone,2020-10-31 Crotone-Atalanta,ITA-SERIA_A,20-21,6093ca64
+e66ebabb,Alex Cordaz,1,ITA,GK,37-304,90,0,0,0,0,0,0,0,0,65,0,0,0,0.0,0.0,0.0,0,0,50,61,82.0,0,38,0,0,0,Crotone,2020-10-31 Crotone-Atalanta,ITA-SERIA_A,20-21,6093ca64
+eb2fe5b6,Luis Muriel,9,COL,FW,29-198,45,2,0,0,0,6,4,0,0,29,0,1,1,0.8,0.8,0.0,1,0,11,16,68.8,3,14,3,4,2,Atalanta,2020-10-31 Crotone-Atalanta,ITA-SERIA_A,20-21,6093ca64
+d3de9af0,Duván Zapata,91,COL,FW,29-213,45,0,0,0,0,4,0,0,0,25,1,0,0,0.5,0.5,0.1,3,0,14,16,87.5,1,19,2,5,3,Atalanta,2020-10-31 Crotone-Atalanta,ITA-SERIA_A,20-21,6093ca64
+6e4df551,Papu Gómez,10,ARG,FW,32-259,45,0,0,0,0,2,1,0,0,41,1,1,0,0.8,0.8,0.1,2,0,25,32,78.1,7,24,1,1,1,Atalanta,2020-10-31 Crotone-Atalanta,ITA-SERIA_A,20-21,6093ca64
+68252d6d,Josip Iličić,72,SVN,AM,32-276,45,0,0,0,0,1,0,0,0,50,0,0,0,0.0,0.0,0.4,4,0,35,44,79.5,7,37,3,3,3,Atalanta,2020-10-31 Crotone-Atalanta,ITA-SERIA_A,20-21,6093ca64
+e599253a,Mario Pašalić,88,CRO,"CM,DM",25-265,90,0,0,0,0,0,0,0,0,79,6,1,1,0.0,0.0,0.0,4,1,64,70,91.4,11,41,1,0,0,Atalanta,2020-10-31 Crotone-Atalanta,ITA-SERIA_A,20-21,6093ca64
+98d2c2c4,Remo Freuler,11,SUI,"CM,DM",28-199,90,0,1,0,0,1,0,0,0,105,1,4,2,0.1,0.1,0.1,6,2,83,91,91.2,11,53,3,2,1,Atalanta,2020-10-31 Crotone-Atalanta,ITA-SERIA_A,20-21,6093ca64
+48d5bd33,Ruslan Malinovskyi,18,UKR,"DM,AM",27-180,88,0,1,0,0,3,1,0,0,69,1,2,0,0.4,0.4,1.2,8,1,50,61,82.0,10,49,8,5,4,Atalanta,2020-10-31 Crotone-Atalanta,ITA-SERIA_A,20-21,6093ca64
+780e3631,Matteo Pessina,32,ITA,AM,23-193,2,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,1,0,6,7,85.7,1,3,0,0,0,Atalanta,2020-10-31 Crotone-Atalanta,ITA-SERIA_A,20-21,6093ca64
+608f2092,Johan Mojica,26,COL,WB,28-071,90,0,0,0,0,1,0,0,0,61,1,3,0,0.0,0.0,0.2,2,0,43,52,82.7,3,32,2,2,2,Atalanta,2020-10-31 Crotone-Atalanta,ITA-SERIA_A,20-21,6093ca64
+3b333ac3,Hans Hateboer,33,NED,WB,26-296,67,0,0,0,0,0,0,1,0,54,1,1,0,0.0,0.0,0.1,3,0,38,47,80.9,3,38,2,1,1,Atalanta,2020-10-31 Crotone-Atalanta,ITA-SERIA_A,20-21,6093ca64
+1d0bb7e4,Bosko Sutalo,4,CRO,WB,20-304,23,0,0,0,0,0,0,0,0,26,2,0,0,0.0,0.0,0.0,1,0,14,24,58.3,2,9,2,1,1,Atalanta,2020-10-31 Crotone-Atalanta,ITA-SERIA_A,20-21,6093ca64
+6eee05f1,Berat Djimsiti,19,ALB,CB,27-255,90,0,0,0,0,0,0,0,0,77,2,4,1,0.0,0.0,0.0,0,0,60,69,87.0,10,29,2,0,0,Atalanta,2020-10-31 Crotone-Atalanta,ITA-SERIA_A,20-21,6093ca64
+a3d94a58,Cristian Romero,17,ARG,CB,22-187,72,0,0,0,0,0,0,1,0,49,3,6,0,0.0,0.0,0.0,0,0,35,39,89.7,2,19,2,0,0,Atalanta,2020-10-31 Crotone-Atalanta,ITA-SERIA_A,20-21,6093ca64
+921f6058,José Luis Palomino,6,ARG,CB,30-300,18,0,0,0,0,0,0,0,0,11,2,0,0,0.0,0.0,0.0,0,0,7,9,77.8,0,4,0,0,0,Atalanta,2020-10-31 Crotone-Atalanta,ITA-SERIA_A,20-21,6093ca64
+c56dc39e,Rafael Tolói,2,ITA,CB,30-021,90,0,0,0,0,1,0,1,0,63,1,1,1,0.1,0.1,0.1,1,0,48,57,84.2,7,26,1,0,0,Atalanta,2020-10-31 Crotone-Atalanta,ITA-SERIA_A,20-21,6093ca64
+ac4003af,Marco Sportiello,57,ITA,GK,28-174,90,0,0,0,0,0,0,0,0,25,0,0,0,0.0,0.0,0.0,0,0,21,25,84.0,0,16,0,0,0,Atalanta,2020-10-31 Crotone-Atalanta,ITA-SERIA_A,20-21,6093ca64

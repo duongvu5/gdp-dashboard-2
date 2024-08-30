@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+5592007b,Alfredo Donnarumma,9,ITA,FW,28-325,45,0,0,0,0,0,0,0,0,10,0,1,0,0.0,0.0,0.0,0,0,4,8,50.0,1,5,0,0,0,Brescia,2019-10-21 Brescia-Fiorentina,ITA-SERIA_A,19-20,2444c7ef
+8ff07990,Mario Balotelli,45,ITA,FW,29-070,45,0,0,0,0,1,0,0,0,16,0,0,0,0.1,0.1,0.0,0,0,11,15,73.3,1,12,0,0,0,Brescia,2019-10-21 Brescia-Fiorentina,ITA-SERIA_A,19-20,2444c7ef
+718b8afd,Florian Ayé,18,FRA,FW,22-275,90,0,0,0,0,1,0,0,0,33,0,0,1,0.4,0.4,0.0,2,0,15,21,71.4,1,15,1,0,0,Brescia,2019-10-21 Brescia-Fiorentina,ITA-SERIA_A,19-20,2444c7ef
+07abb358,Rômulo,28,ITA,"AM,LM",32-152,78,0,0,0,0,0,0,0,0,22,0,0,2,0.0,0.0,0.0,1,0,12,14,85.7,2,13,3,5,3,Brescia,2019-10-21 Brescia-Fiorentina,ITA-SERIA_A,19-20,2444c7ef
+cbec1196,Jaromír Zmrhal,8,CZE,LM,26-080,12,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,1,3,33.3,1,4,0,0,0,Brescia,2019-10-21 Brescia-Fiorentina,ITA-SERIA_A,19-20,2444c7ef
+02b2937c,Daniele Dessena,27,ITA,LM,32-164,56,0,0,0,0,0,0,0,0,22,0,0,0,0.0,0.0,0.0,0,0,12,16,75.0,3,16,1,3,0,Brescia,2019-10-21 Brescia-Fiorentina,ITA-SERIA_A,19-20,2444c7ef
+9e90fb5d,Nikolas Špalek,7,SVK,AM,22-251,34,0,0,0,0,0,0,0,0,12,0,0,0,0.0,0.0,0.0,0,0,3,10,30.0,0,3,1,0,0,Brescia,2019-10-21 Brescia-Fiorentina,ITA-SERIA_A,19-20,2444c7ef
+0db169ae,Sandro Tonali,4,ITA,CM,19-166,90,0,0,0,0,0,0,0,0,57,0,0,0,0.0,0.0,0.5,2,0,30,48,62.5,5,27,1,0,0,Brescia,2019-10-21 Brescia-Fiorentina,ITA-SERIA_A,19-20,2444c7ef
+16569fef,Dimitri Bisoli,25,ITA,RM,25-210,90,0,0,0,0,0,0,0,0,64,5,1,2,0.0,0.0,0.0,0,0,30,50,60.0,6,34,3,2,1,Brescia,2019-10-21 Brescia-Fiorentina,ITA-SERIA_A,19-20,2444c7ef
+deb748c9,Aleš Matějů,3,CZE,LB,23-140,90,0,0,0,0,0,0,0,0,48,3,2,1,0.0,0.0,0.0,0,0,31,41,75.6,2,23,0,0,0,Brescia,2019-10-21 Brescia-Fiorentina,ITA-SERIA_A,19-20,2444c7ef
+84b6acaa,Jhon Chancellor,14,VEN,CB,27-292,90,0,0,0,0,0,0,0,0,50,2,1,2,0.0,0.0,0.0,0,0,30,40,75.0,0,22,0,0,0,Brescia,2019-10-21 Brescia-Fiorentina,ITA-SERIA_A,19-20,2444c7ef
+fe6a7685,Andrea Cistana,15,ITA,CB,22-203,90,0,0,0,0,0,0,0,0,68,1,4,1,0.0,0.0,0.0,1,0,47,57,82.5,1,37,1,0,0,Brescia,2019-10-21 Brescia-Fiorentina,ITA-SERIA_A,19-20,2444c7ef
+0ccac09c,Stefano Sabelli,2,ITA,RB,26-281,90,0,0,0,0,1,1,0,0,82,2,1,0,0.0,0.0,0.0,0,0,49,72,68.1,8,50,3,0,0,Brescia,2019-10-21 Brescia-Fiorentina,ITA-SERIA_A,19-20,2444c7ef
+7f66ea09,Jesse Joronen,1,FIN,GK,26-214,90,0,0,0,0,0,0,0,0,34,0,1,0,0.0,0.0,0.0,0,0,18,30,60.0,0,17,0,0,0,Brescia,2019-10-21 Brescia-Fiorentina,ITA-SERIA_A,19-20,2444c7ef
+f61c7c4e,Franck Ribéry,7,FRA,FW,36-197,87,0,0,0,0,2,0,1,0,56,1,0,2,0.1,0.1,0.1,3,0,39,46,84.8,7,43,2,1,0,Fiorentina,2019-10-21 Brescia-Fiorentina,ITA-SERIA_A,19-20,2444c7ef
+f4ec4fd0,Kevin-Prince Boateng,10,GHA,FW,32-229,3,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,1,0,0,0,Fiorentina,2019-10-21 Brescia-Fiorentina,ITA-SERIA_A,19-20,2444c7ef
+b0f7e36c,Federico Chiesa,25,ITA,FW,21-361,67,0,0,0,0,1,1,1,0,22,1,0,1,0.0,0.0,0.1,4,0,11,15,73.3,2,15,1,1,0,Fiorentina,2019-10-21 Brescia-Fiorentina,ITA-SERIA_A,19-20,2444c7ef
+79443529,Dušan Vlahović,28,SRB,FW,19-266,23,0,0,0,0,1,1,0,0,6,0,0,0,0.1,0.1,0.0,0,0,2,5,40.0,0,3,1,0,0,Fiorentina,2019-10-21 Brescia-Fiorentina,ITA-SERIA_A,19-20,2444c7ef
+0728bebe,Gaetano Castrovilli,8,ITA,CM,22-246,90,0,0,0,0,2,1,0,0,56,3,1,1,0.1,0.1,0.0,1,0,30,37,81.1,4,45,4,4,3,Fiorentina,2019-10-21 Brescia-Fiorentina,ITA-SERIA_A,19-20,2444c7ef
+e8c930bb,Milan Badelj,5,CRO,CM,30-238,90,0,0,0,0,1,0,0,0,61,0,3,0,0.1,0.1,0.1,2,0,44,54,81.5,8,41,2,0,0,Fiorentina,2019-10-21 Brescia-Fiorentina,ITA-SERIA_A,19-20,2444c7ef
+4611e028,Erick Pulgar,78,CHI,CM,25-279,90,0,0,0,0,1,0,1,0,75,3,3,3,0.1,0.1,0.4,9,0,46,62,74.2,9,33,3,0,0,Fiorentina,2019-10-21 Brescia-Fiorentina,ITA-SERIA_A,19-20,2444c7ef
+f45f9427,Dalbert Henrique,29,BRA,WB,26-043,90,0,0,0,0,0,0,0,0,52,2,0,0,0.0,0.0,0.0,1,0,30,42,71.4,2,29,1,0,0,Fiorentina,2019-10-21 Brescia-Fiorentina,ITA-SERIA_A,19-20,2444c7ef
+ff800ed8,Pol Lirola,21,ESP,WB,22-069,78,0,0,0,0,1,1,0,0,47,1,0,1,0.1,0.1,0.0,2,0,29,35,82.9,3,29,2,1,0,Fiorentina,2019-10-21 Brescia-Fiorentina,ITA-SERIA_A,19-20,2444c7ef
+94816803,Riccardo Sottil,11,ITA,WB,20-140,12,0,0,0,0,0,0,0,0,18,0,0,1,0.0,0.0,0.0,1,0,11,16,68.8,1,11,2,1,1,Fiorentina,2019-10-21 Brescia-Fiorentina,ITA-SERIA_A,19-20,2444c7ef
+e94d79e3,Martín Cáceres,22,URU,CB,32-197,90,0,0,0,0,2,0,0,0,70,2,6,1,0.2,0.2,0.0,1,0,43,58,74.1,2,44,1,0,0,Fiorentina,2019-10-21 Brescia-Fiorentina,ITA-SERIA_A,19-20,2444c7ef
+8c725b43,Germán Pezzella,20,ARG,CB,28-116,90,0,0,0,0,2,0,0,0,67,0,2,0,0.1,0.1,0.0,0,0,47,59,79.7,0,49,0,0,0,Fiorentina,2019-10-21 Brescia-Fiorentina,ITA-SERIA_A,19-20,2444c7ef
+bee704fc,Nikola Milenković,4,SRB,CB,22-009,90,0,0,0,0,0,0,0,0,55,2,0,1,0.0,0.0,0.0,0,0,36,45,80.0,2,31,2,0,0,Fiorentina,2019-10-21 Brescia-Fiorentina,ITA-SERIA_A,19-20,2444c7ef
+085e71a7,Bartłomiej Drągowski,69,POL,GK,22-063,90,0,0,0,0,0,0,0,0,31,0,0,0,0.0,0.0,0.0,0,0,22,31,71.0,0,19,0,0,0,Fiorentina,2019-10-21 Brescia-Fiorentina,ITA-SERIA_A,19-20,2444c7ef

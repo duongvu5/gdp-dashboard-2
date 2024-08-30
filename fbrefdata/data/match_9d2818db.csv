@@ -1,0 +1,32 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+a820e429,Arthur Cabral,9,BRA,FW,25-296,86,0,0,0,0,3,1,0,0,30,0,0,2,0.2,0.2,0.0,1,0,13,14,92.9,1,22,2,3,0,Benfica,2024-02-15 Benfica-Toulouse,UEL,23-24,9d2818db
+3f47ebce,Marcos Leonardo,36,BRA,FW,20-289,4,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,1,1,1,1,100.0,0,1,0,0,0,Benfica,2024-02-15 Benfica-Toulouse,UEL,23-24,9d2818db
+f0021247,João Mário,20,POR,LW,31-027,58,0,0,0,0,4,0,0,0,41,1,0,2,0.5,0.5,0.3,5,0,24,32,75.0,3,35,2,4,2,Benfica,2024-02-15 Benfica-Toulouse,UEL,23-24,9d2818db
+4f1e6a0b,David Neres,7,BRA,LW,26-349,32,0,0,0,0,1,0,0,0,22,0,0,0,0.0,0.0,0.0,3,0,13,18,72.2,0,18,4,2,2,Benfica,2024-02-15 Benfica-Toulouse,UEL,23-24,9d2818db
+19cda00b,Ángel Di María,11,ARG,RW,36-001,90,2,0,2,2,5,0,0,0,81,2,0,1,1.9,0.3,0.5,10,2,44,67,65.7,9,59,3,5,3,Benfica,2024-02-15 Benfica-Toulouse,UEL,23-24,9d2818db
+70cf63ca,Rafa Silva,27,POR,AM,30-274,90,0,0,0,0,3,0,0,0,52,0,0,1,0.3,0.3,0.2,5,0,41,46,89.1,6,44,4,2,0,Benfica,2024-02-15 Benfica-Toulouse,UEL,23-24,9d2818db
+9bf914b4,Orkun Kökçü,10,TUR,DM,23-048,90,0,0,0,0,2,0,1,0,97,1,0,1,0.0,0.0,0.3,11,0,75,87,86.2,13,82,2,2,1,Benfica,2024-02-15 Benfica-Toulouse,UEL,23-24,9d2818db
+c2a15a27,João Neves,87,POR,DM,19-141,90,0,0,0,0,2,1,0,0,99,2,3,3,0.1,0.1,0.0,3,0,73,84,86.9,5,71,4,3,3,Benfica,2024-02-15 Benfica-Toulouse,UEL,23-24,9d2818db
+33a68b9b,Álvaro Carreras,3,ESP,LB,20-329,58,0,0,0,0,1,1,0,0,42,1,1,1,0.0,0.0,0.0,1,0,28,34,82.4,2,29,1,0,0,Benfica,2024-02-15 Benfica-Toulouse,UEL,23-24,9d2818db
+78f21137,Alexander Bah,6,DEN,RB,26-068,32,0,0,0,0,1,0,0,0,20,1,0,2,0.0,0.0,0.0,2,0,10,15,66.7,1,12,0,0,0,Benfica,2024-02-15 Benfica-Toulouse,UEL,23-24,9d2818db
+0d267745,Nicolás Otamendi,30,ARG,CB,36-003,90,0,0,0,0,3,0,0,0,65,1,2,2,0.2,0.2,0.0,1,0,47,51,92.2,5,42,1,0,0,Benfica,2024-02-15 Benfica-Toulouse,UEL,23-24,9d2818db
+8f0435c7,António Silva,4,POR,CB,20-108,90,0,0,0,0,0,0,0,0,74,4,1,1,0.0,0.0,0.0,2,0,62,67,92.5,7,54,1,1,1,Benfica,2024-02-15 Benfica-Toulouse,UEL,23-24,9d2818db
+f0677ed7,Fredrik Aursnes,8,NOR,"RB,LB",28-067,90,0,0,0,0,0,0,0,0,97,6,2,1,0.0,0.0,0.3,4,0,64,78,82.1,4,67,2,3,1,Benfica,2024-02-15 Benfica-Toulouse,UEL,23-24,9d2818db
+41f0b196,Anatolii Trubin,1,UKR,GK,22-198,90,0,0,0,0,0,0,0,0,16,0,0,0,0.0,0.0,0.0,0,0,14,16,87.5,0,11,0,0,0,Benfica,2024-02-15 Benfica-Toulouse,UEL,23-24,9d2818db
+b70afb45,Thijs Dallinga,9,NED,FW,23-196,76,0,1,0,0,2,0,0,0,44,1,0,1,0.1,0.1,0.3,3,2,19,31,61.3,2,34,1,2,2,Toulouse,2024-02-15 Benfica-Toulouse,UEL,23-24,9d2818db
+42fdb11d,Frank Magri,19,CMR,FW,24-164,14,0,0,0,0,0,0,1,0,2,0,1,0,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,0,0,Toulouse,2024-02-15 Benfica-Toulouse,UEL,23-24,9d2818db
+39b326ed,Gabriel Suazo,17,CHI,LW,26-190,90,0,0,0,0,0,0,0,0,74,1,0,4,0.0,0.0,0.1,4,0,49,60,81.7,3,45,3,2,1,Toulouse,2024-02-15 Benfica-Toulouse,UEL,23-24,9d2818db
+10cff752,Aron Dønnum,15,NOR,RW,25-301,69,0,0,0,0,1,0,0,0,28,1,0,1,0.0,0.0,0.0,0,0,16,22,72.7,3,20,4,2,1,Toulouse,2024-02-15 Benfica-Toulouse,UEL,23-24,9d2818db
+c6f0d5d4,Shavy Babicka,80,GAB,RW,23-259,21,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,2,5,40.0,0,7,1,2,1,Toulouse,2024-02-15 Benfica-Toulouse,UEL,23-24,9d2818db
+6be41a31,Yann Gboho,37,FRA,AM,23-032,85,0,0,0,0,0,0,0,0,32,1,1,2,0.0,0.0,0.1,4,0,14,18,77.8,4,24,12,10,2,Toulouse,2024-02-15 Benfica-Toulouse,UEL,23-24,9d2818db
+d7547531,Naatan Skyttä,22,FIN,AM,21-284,5,0,0,0,0,0,0,1,0,4,0,0,0,0.0,0.0,0.0,0,0,1,3,33.3,0,1,0,0,0,Toulouse,2024-02-15 Benfica-Toulouse,UEL,23-24,9d2818db
+92ffb8f9,Vincent Sierro,8,SUI,DM,28-130,90,0,0,0,0,1,1,0,0,61,6,3,2,0.0,0.0,0.0,0,0,36,46,78.3,3,40,0,0,0,Toulouse,2024-02-15 Benfica-Toulouse,UEL,23-24,9d2818db
+a08985b8,Stijn Spierings,4,NED,DM,27-340,76,0,0,0,0,0,0,1,0,57,3,0,3,0.0,0.0,0.0,0,0,35,39,89.7,4,35,1,0,0,Toulouse,2024-02-15 Benfica-Toulouse,UEL,23-24,9d2818db
+f86fe8c1,Cristian Cásseres Jr.,24,VEN,DM,24-026,14,0,0,0,0,0,0,0,0,13,0,1,0,0.0,0.0,0.0,0,0,4,8,50.0,0,4,0,0,0,Toulouse,2024-02-15 Benfica-Toulouse,UEL,23-24,9d2818db
+698f11e3,Moussa Diarra,23,MLI,LB,23-097,69,0,0,0,0,0,0,0,0,41,0,1,2,0.0,0.0,0.0,0,0,30,33,90.9,2,30,0,1,1,Toulouse,2024-02-15 Benfica-Toulouse,UEL,23-24,9d2818db
+2c70d915,Christian Mawissa,13,FRA,LB,18-303,20,0,0,0,0,0,0,2,1,9,0,0,0,0.0,0.0,0.0,0,0,5,6,83.3,0,4,0,0,0,Toulouse,2024-02-15 Benfica-Toulouse,UEL,23-24,9d2818db
+3f319bb9,Rasmus Nicolaisen,2,DEN,CB,26-336,90,0,0,0,0,0,0,0,0,43,1,0,1,0.0,0.0,0.0,0,0,27,33,81.8,2,27,0,0,0,Toulouse,2024-02-15 Benfica-Toulouse,UEL,23-24,9d2818db
+bfb2056e,Logan Costa,6,CPV,CB,22-320,90,0,0,0,0,0,0,0,0,55,3,2,0,0.0,0.0,0.0,0,0,39,49,79.6,2,31,0,0,0,Toulouse,2024-02-15 Benfica-Toulouse,UEL,23-24,9d2818db
+1d5c96f8,Mikkel Desler,3,DEN,RB,28-361,90,1,0,0,0,2,1,1,0,61,1,4,3,0.3,0.3,0.0,1,0,35,46,76.1,1,38,1,2,1,Toulouse,2024-02-15 Benfica-Toulouse,UEL,23-24,9d2818db
+6b91b999,Guillaume Restes,50,FRA,GK,18-341,90,0,0,0,0,0,0,1,0,43,0,0,0,0.0,0.0,0.0,0,0,25,39,64.1,0,30,0,0,0,Toulouse,2024-02-15 Benfica-Toulouse,UEL,23-24,9d2818db

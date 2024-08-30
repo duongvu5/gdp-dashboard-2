@@ -1,0 +1,32 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+165a2e40,Burak Yılmaz,17,TUR,FW,35-290,70,1,0,0,0,2,1,0,0,23,1,0,0,0.3,0.3,0.0,3,1,11,14,78.6,1,18,2,3,0,Lille,2021-05-01 Lille-Nice,FRA-L1,20-21,6a9a2087
+f5c8b425,Yusuf Yazıcı,12,TUR,FW,24-092,20,0,0,0,0,1,0,0,0,23,0,0,0,0.0,0.0,0.0,1,0,18,22,81.8,1,21,0,1,1,Lille,2021-05-01 Lille-Nice,FRA-L1,20-21,6a9a2087
+ce50fd99,Jonathan David,9,CAN,FW,21-107,87,0,1,0,0,1,0,0,0,23,0,0,1,0.1,0.1,0.3,4,1,10,12,83.3,0,14,1,1,0,Lille,2021-05-01 Lille-Nice,FRA-L1,20-21,6a9a2087
+8bbe2df5,Domagoj Bradarić,29,CRO,"LM,FW",21-142,3,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,6,7,85.7,0,4,0,0,0,Lille,2021-05-01 Lille-Nice,FRA-L1,20-21,6a9a2087
+b2bd0f6c,Jonathan Bamba,7,CIV,"LM,FW",25-036,90,0,0,0,0,1,1,0,0,62,1,0,2,0.0,0.0,0.1,4,0,40,49,81.6,8,38,4,2,1,Lille,2021-05-01 Lille-Nice,FRA-L1,20-21,6a9a2087
+ae59b359,Boubakary Soumaré,24,FRA,CM,22-063,74,0,0,0,0,0,0,0,0,76,0,2,0,0.0,0.0,0.0,1,1,65,71,91.5,7,65,1,0,0,Lille,2021-05-01 Lille-Nice,FRA-L1,20-21,6a9a2087
+f3600c02,Xeka,8,POR,CM,26-172,16,0,0,0,0,0,0,1,0,23,1,0,1,0.0,0.0,0.0,0,0,19,21,90.5,2,17,0,0,0,Lille,2021-05-01 Lille-Nice,FRA-L1,20-21,6a9a2087
+ef9c1c95,Benjamin André,21,FRA,CM,30-271,90,0,0,0,0,0,0,0,0,74,3,2,0,0.0,0.0,0.0,1,0,60,67,89.6,5,47,0,1,1,Lille,2021-05-01 Lille-Nice,FRA-L1,20-21,6a9a2087
+fa18c72e,Luiz Araújo,11,BRA,RM,24-333,74,0,0,0,0,2,0,0,0,27,2,0,0,0.1,0.1,0.0,0,0,20,23,87.0,1,17,1,1,1,Lille,2021-05-01 Lille-Nice,FRA-L1,20-21,6a9a2087
+42eaa028,Jonathan Ikone,10,FRA,RM,22-364,16,0,0,0,0,2,1,0,0,10,0,0,1,0.1,0.1,0.0,0,0,6,6,100.0,1,8,1,0,0,Lille,2021-05-01 Lille-Nice,FRA-L1,20-21,6a9a2087
+c20bdcd7,Reinildo Mandava,28,MOZ,LB,27-100,90,0,0,0,0,1,0,0,0,89,3,1,2,0.0,0.0,0.0,4,1,66,75,88.0,3,62,3,3,3,Lille,2021-05-01 Lille-Nice,FRA-L1,20-21,6a9a2087
+ccce7025,Sven Botman,5,NED,CB,21-109,90,0,0,0,0,1,0,0,0,102,0,1,0,0.1,0.1,0.0,1,0,91,99,91.9,4,84,0,0,0,Lille,2021-05-01 Lille-Nice,FRA-L1,20-21,6a9a2087
+90f87966,José Fonte,6,POR,CB,37-130,90,0,0,0,0,0,0,0,0,104,1,1,0,0.0,0.0,0.0,0,0,90,98,91.8,3,78,0,0,0,Lille,2021-05-01 Lille-Nice,FRA-L1,20-21,6a9a2087
+31a62dc7,Zeki Çelik,2,TUR,RB,24-073,90,1,0,0,0,1,1,1,0,69,1,0,1,0.0,0.0,0.0,0,0,48,61,78.7,1,43,0,1,1,Lille,2021-05-01 Lille-Nice,FRA-L1,20-21,6a9a2087
+fcb38f57,Mike Maignan,16,FRA,GK,25-302,90,0,0,0,0,0,0,0,0,32,0,0,0,0.0,0.0,0.1,1,0,26,31,83.9,0,24,0,0,0,Lille,2021-05-01 Lille-Nice,FRA-L1,20-21,6a9a2087
+cc83b74d,Kasper Dolberg,9,DEN,FW,23-207,90,0,0,0,0,0,0,0,0,20,0,0,1,0.0,0.0,0.0,0,0,10,11,90.9,1,7,0,2,0,Nice,2021-05-01 Lille-Nice,FRA-L1,20-21,6a9a2087
+7c2965bb,Rony Lopes,22,POR,LM,25-124,51,0,0,0,0,0,0,0,0,25,0,0,0,0.0,0.0,0.0,0,0,18,24,75.0,3,13,2,0,0,Nice,2021-05-01 Lille-Nice,FRA-L1,20-21,6a9a2087
+7ef972c3,Flavius Daniliuc,5,AUT,LM,20-004,39,0,0,0,0,0,0,0,0,38,0,1,2,0.0,0.0,0.0,0,0,29,33,87.9,1,23,0,0,0,Nice,2021-05-01 Lille-Nice,FRA-L1,20-21,6a9a2087
+f9d5908e,Hicham Boudaoui,28,ALG,CM,21-220,74,0,0,0,0,0,0,0,0,31,2,1,0,0.0,0.0,0.0,0,0,22,27,81.5,2,13,0,1,1,Nice,2021-05-01 Lille-Nice,FRA-L1,20-21,6a9a2087
+f5044e54,Pierre Lees-Melou,8,FRA,CM,27-341,16,0,0,0,0,0,0,0,0,11,2,0,0,0.0,0.0,0.0,0,0,9,9,100.0,1,6,0,0,0,Nice,2021-05-01 Lille-Nice,FRA-L1,20-21,6a9a2087
+741418c3,Alexis Claude-Maurice,10,FRA,CM,22-329,90,0,0,0,0,0,0,1,0,42,3,2,0,0.0,0.0,0.0,0,0,21,34,61.8,2,25,3,3,3,Nice,2021-05-01 Lille-Nice,FRA-L1,20-21,6a9a2087
+6a827d8e,Youcef Atal,20,ALG,RM,24-349,69,0,0,0,0,0,0,0,0,36,0,4,0,0.0,0.0,0.0,0,0,22,28,78.6,3,30,3,2,1,Nice,2021-05-01 Lille-Nice,FRA-L1,20-21,6a9a2087
+f18d7ab2,Andy Pelmard,24,FRA,RM,21-050,21,0,0,0,0,0,0,0,0,9,0,1,0,0.0,0.0,0.0,0,0,6,7,85.7,0,5,1,1,1,Nice,2021-05-01 Lille-Nice,FRA-L1,20-21,6a9a2087
+51b41c5c,Morgan Schneiderlin,6,FRA,DM,31-174,90,0,0,0,0,0,0,0,0,86,3,2,1,0.0,0.0,0.0,0,0,66,77,85.7,3,30,1,0,0,Nice,2021-05-01 Lille-Nice,FRA-L1,20-21,6a9a2087
+19a12bed,Hassane Kamara,13,CIV,LB,27-057,69,0,0,0,0,0,0,0,0,46,2,2,2,0.0,0.0,0.0,0,0,32,37,86.5,2,20,1,2,1,Nice,2021-05-01 Lille-Nice,FRA-L1,20-21,6a9a2087
+61590953,Stanley N'Soki,2,FRA,LB,22-022,21,0,0,0,0,0,0,0,0,13,0,1,0,0.0,0.0,0.0,0,0,10,11,90.9,1,5,1,2,1,Nice,2021-05-01 Lille-Nice,FRA-L1,20-21,6a9a2087
+972aeb2a,William Saliba,18,FRA,CB,20-038,90,0,0,0,0,0,0,0,0,79,0,1,2,0.0,0.0,0.0,0,0,67,73,91.8,1,49,0,0,0,Nice,2021-05-01 Lille-Nice,FRA-L1,20-21,6a9a2087
+88f130ed,Jean-Clair Todibo,25,FRA,CB,21-122,90,0,0,0,0,0,0,0,0,87,2,1,1,0.0,0.0,0.0,0,0,69,81,85.2,2,55,0,3,2,Nice,2021-05-01 Lille-Nice,FRA-L1,20-21,6a9a2087
+fc4cf6a7,Jordan Lotomba,23,SUI,RB,22-214,47,0,0,0,0,0,0,2,1,46,0,1,1,0.0,0.0,0.0,0,0,33,42,78.6,1,21,2,1,0,Nice,2021-05-01 Lille-Nice,FRA-L1,20-21,6a9a2087
+8a2248b4,Walter Benítez,40,ARG,GK,28-102,90,0,0,0,0,0,0,0,0,40,0,0,0,0.0,0.0,0.0,0,0,36,40,90.0,0,23,0,0,0,Nice,2021-05-01 Lille-Nice,FRA-L1,20-21,6a9a2087

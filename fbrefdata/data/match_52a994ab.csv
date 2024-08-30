@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+e7986081,Moussa Dembélé,9,FRA,FW,23-198,90,1,0,0,0,3,2,0,0,24,1,0,1,0.3,0.3,0.0,1,1,11,15,73.3,1,15,3,2,1,Lyon,2020-01-26 Lyon-Toulouse,FRA-L1,19-20,52a994ab
+beb391dd,Maxwel Cornet,27,CIV,"LW,RW",23-121,78,1,0,0,0,2,1,0,0,62,0,2,2,0.1,0.1,0.1,5,1,38,52,73.1,4,35,9,2,1,Lyon,2020-01-26 Lyon-Toulouse,FRA-L1,19-20,52a994ab
+c47541e0,Bertrand Traoré,10,BFA,RW,24-142,12,0,0,0,0,1,0,0,0,16,0,0,0,0.1,0.1,0.0,0,0,9,10,90.0,1,9,2,3,1,Lyon,2020-01-26 Lyon-Toulouse,FRA-L1,19-20,52a994ab
+5148dcc5,Martin Terrier,7,FRA,RW,22-328,25,0,0,0,0,0,0,0,0,18,0,1,1,0.0,0.0,0.0,0,0,9,14,64.3,1,5,1,0,0,Lyon,2020-01-26 Lyon-Toulouse,FRA-L1,19-20,52a994ab
+5ceba7fc,Karl Toko Ekambi,21,CMR,"LW,RW",27-134,65,1,0,0,0,1,1,0,0,46,1,3,1,0.1,0.1,0.0,1,0,32,37,86.5,1,27,4,4,2,Lyon,2020-01-26 Lyon-Toulouse,FRA-L1,19-20,52a994ab
+a5db0bec,Houssem Aouar,8,ALG,LM,21-210,72,0,1,0,0,2,0,0,0,55,1,0,1,0.1,0.1,0.1,4,1,44,47,93.6,14,35,2,4,0,Lyon,2020-01-26 Lyon-Toulouse,FRA-L1,19-20,52a994ab
+b34c63a5,Rayan Cherki,18,FRA,LM,16-162,18,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.1,1,0,7,10,70.0,0,7,0,0,0,Lyon,2020-01-26 Lyon-Toulouse,FRA-L1,19-20,52a994ab
+c6e5d20f,Thiago Mendes,12,BRA,CM,27-317,90,0,1,0,0,1,0,0,0,102,0,2,1,0.0,0.0,0.1,1,1,84,92,91.3,14,55,0,0,0,Lyon,2020-01-26 Lyon-Toulouse,FRA-L1,19-20,52a994ab
+f81ef10d,Maxence Caqueret,25,FRA,RM,19-345,90,0,0,0,0,0,0,0,0,75,2,1,0,0.0,0.0,0.1,1,0,62,65,95.4,7,40,1,0,0,Lyon,2020-01-26 Lyon-Toulouse,FRA-L1,19-20,52a994ab
+9ae9eaea,Fernando Marçal,20,BRA,LB,30-341,90,0,1,0,0,1,1,0,0,119,5,2,0,0.0,0.0,0.2,6,2,93,109,85.3,7,65,8,2,2,Lyon,2020-01-26 Lyon-Toulouse,FRA-L1,19-20,52a994ab
+47af88b8,Jason Denayer,5,BEL,CB,24-212,90,0,0,0,0,0,0,0,0,89,0,1,3,0.0,0.0,0.0,1,0,82,84,97.6,0,44,0,0,0,Lyon,2020-01-26 Lyon-Toulouse,FRA-L1,19-20,52a994ab
+e3d0b0c4,Marcelo,6,BRA,CB,32-251,90,0,0,0,0,1,0,0,0,103,0,1,1,0.1,0.1,0.0,0,0,86,96,89.6,5,48,0,0,0,Lyon,2020-01-26 Lyon-Toulouse,FRA-L1,19-20,52a994ab
+9a1f2e1c,Rafael,4,BRA,RB,29-201,90,0,0,0,0,1,0,0,0,84,4,0,0,0.0,0.0,0.0,2,0,57,69,82.6,6,39,5,5,2,Lyon,2020-01-26 Lyon-Toulouse,FRA-L1,19-20,52a994ab
+b056e3da,Ciprian Tătărușanu,30,ROU,GK,33-351,90,0,0,0,0,0,0,0,0,35,0,0,0,0.0,0.0,0.0,0,0,32,35,91.4,0,22,0,0,0,Lyon,2020-01-26 Lyon-Toulouse,FRA-L1,19-20,52a994ab
+29ef0f49,Aaron Leya Iseka,10,BEL,FW,22-072,68,0,0,0,0,2,1,0,0,19,0,0,1,0.1,0.1,0.0,1,0,8,9,88.9,2,10,0,0,0,Toulouse,2020-01-26 Lyon-Toulouse,FRA-L1,19-20,52a994ab
+21f8d950,Efthimis Koulouris,20,GRE,FW,23-326,22,0,0,0,0,0,0,0,0,14,0,0,0,0.0,0.0,0.0,0,0,8,14,57.1,0,6,1,0,0,Toulouse,2020-01-26 Lyon-Toulouse,FRA-L1,19-20,52a994ab
+f6496133,Quentin Boisgard,11,FRA,LW,22-315,83,0,0,0,0,1,0,0,0,35,2,0,1,0.0,0.0,0.0,1,0,20,25,80.0,0,15,2,5,3,Toulouse,2020-01-26 Lyon-Toulouse,FRA-L1,19-20,52a994ab
+dcfb17f4,Amine Adli,31,MAR,LW,19-261,7,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,1,0,3,4,75.0,0,4,0,1,1,Toulouse,2020-01-26 Lyon-Toulouse,FRA-L1,19-20,52a994ab
+6421dd73,Mathieu Dossevi,14,TOG,RW,31-348,74,0,0,0,0,0,0,0,0,36,1,0,1,0.0,0.0,0.2,4,0,21,29,72.4,3,21,3,1,1,Toulouse,2020-01-26 Lyon-Toulouse,FRA-L1,19-20,52a994ab
+90fcf472,Wesley Saïd,25,FRA,RW,24-282,16,0,0,0,0,2,2,0,0,12,0,0,0,0.0,0.0,0.0,1,0,8,8,100.0,0,10,1,0,0,Toulouse,2020-01-26 Lyon-Toulouse,FRA-L1,19-20,52a994ab
+bced0375,Ibrahim Sangaré,17,CIV,LM,22-055,90,0,0,0,0,1,0,0,0,78,8,2,2,0.0,0.0,0.1,6,0,54,64,84.4,4,36,0,1,1,Toulouse,2020-01-26 Lyon-Toulouse,FRA-L1,19-20,52a994ab
+92cd4bef,William Vainqueur,21,FRA,CM,31-068,90,0,0,0,0,2,0,1,0,62,3,1,0,0.0,0.0,0.0,2,0,44,51,86.3,2,39,1,0,0,Toulouse,2020-01-26 Lyon-Toulouse,FRA-L1,19-20,52a994ab
+86574238,Manu Koné,34,FRA,RM,18-254,90,0,0,0,0,1,0,0,0,47,4,2,1,0.0,0.0,0.0,3,0,26,33,78.8,2,25,5,3,3,Toulouse,2020-01-26 Lyon-Toulouse,FRA-L1,19-20,52a994ab
+b99bec05,Issiaga Sylla,12,GUI,LB,26-025,90,0,0,0,0,0,0,0,0,58,3,2,0,0.0,0.0,0.0,0,0,34,47,72.3,0,25,3,1,0,Toulouse,2020-01-26 Lyon-Toulouse,FRA-L1,19-20,52a994ab
+1bfb6fef,Bafodé Diakité,19,FRA,CB,19-020,90,0,0,0,0,0,0,0,0,34,1,1,0,0.0,0.0,0.0,0,0,27,30,90.0,0,20,0,0,0,Toulouse,2020-01-26 Lyon-Toulouse,FRA-L1,19-20,52a994ab
+9e64fc85,Ruben Gabrielsen,4,NOR,CB,27-322,90,0,0,0,0,1,1,0,0,51,0,2,1,0.1,0.1,0.0,1,0,31,42,73.8,1,25,0,0,0,Toulouse,2020-01-26 Lyon-Toulouse,FRA-L1,19-20,52a994ab
+f10983ae,Steven Moreira,5,CPV,RB,25-166,90,0,0,0,0,0,0,0,0,57,2,1,2,0.0,0.0,0.0,0,0,39,49,79.6,5,26,2,0,0,Toulouse,2020-01-26 Lyon-Toulouse,FRA-L1,19-20,52a994ab
+3a74f92b,Lovre Kalinić,40,CRO,GK,29-298,90,0,0,0,0,0,0,0,0,33,0,0,0,0.0,0.0,0.0,0,0,13,30,43.3,0,15,0,0,0,Toulouse,2020-01-26 Lyon-Toulouse,FRA-L1,19-20,52a994ab

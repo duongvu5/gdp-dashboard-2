@@ -1,0 +1,29 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+afa0d4e0,Mario Mandžukić,17,CRO,"FW,LW,RM",32-215,90,1,0,0,0,1,1,0,0,39,4,1,0,0.3,0.3,0.2,3,0,15,29,51.7,2,15,1,1,1,Juventus,2018-12-22 Juventus-Roma,ITA-SERIA_A,18-19,01a0dbbf
+dea698d9,Cristiano Ronaldo,7,POR,"LW,FW",33-320,90,0,0,0,0,10,3,0,0,48,0,0,0,0.8,0.8,0.0,3,0,24,31,77.4,4,31,6,2,1,Juventus,2018-12-22 Juventus-Roma,ITA-SERIA_A,18-19,01a0dbbf
+e0921a4f,Paulo Dybala,10,ARG,"RW,FW",25-037,79,0,0,0,0,0,0,0,0,61,1,0,0,0.0,0.0,0.2,4,0,42,51,82.4,9,37,3,3,2,Juventus,2018-12-22 Juventus-Roma,ITA-SERIA_A,18-19,01a0dbbf
+4fa7cb9b,Douglas Costa,11,BRA,RW,28-099,11,0,0,0,0,0,0,0,0,4,1,0,0,0.0,0.0,0.0,1,0,0,1,0.0,0,3,0,3,3,Juventus,2018-12-22 Juventus-Roma,ITA-SERIA_A,18-19,01a0dbbf
+c0cddebe,Blaise Matuidi,14,FRA,LM,31-257,90,0,0,0,0,1,0,0,0,42,3,0,3,0.0,0.0,0.0,2,0,24,30,80.0,2,22,1,0,0,Juventus,2018-12-22 Juventus-Roma,ITA-SERIA_A,18-19,01a0dbbf
+ad6df2d5,Miralem Pjanić,5,BIH,CM,28-264,70,0,0,0,0,0,0,0,0,63,1,2,1,0.0,0.0,0.1,3,0,47,58,81.0,5,29,1,0,0,Juventus,2018-12-22 Juventus-Roma,ITA-SERIA_A,18-19,01a0dbbf
+a65ce836,Emre Can,23,GER,CM,24-344,20,0,0,0,0,0,0,0,0,10,0,1,0,0.0,0.0,0.0,1,0,5,6,83.3,0,4,1,1,0,Juventus,2018-12-22 Juventus-Roma,ITA-SERIA_A,18-19,01a0dbbf
+3b8674e6,Rodrigo Bentancur,30,URU,"RM,CM",21-180,90,0,0,0,0,1,0,0,0,54,8,1,2,0.0,0.0,0.1,3,0,34,37,91.9,5,30,2,1,0,Juventus,2018-12-22 Juventus-Roma,ITA-SERIA_A,18-19,01a0dbbf
+0d82903c,Alex Sandro,12,BRA,LB,27-330,90,0,0,0,0,4,2,0,0,83,3,2,2,0.2,0.2,0.1,4,0,49,62,79.0,3,41,6,2,1,Juventus,2018-12-22 Juventus-Roma,ITA-SERIA_A,18-19,01a0dbbf
+e85fb9b8,Giorgio Chiellini,3,ITA,CB,34-130,90,0,0,0,0,1,0,0,0,59,0,3,2,0.1,0.1,0.0,4,0,44,47,93.6,4,27,0,0,0,Juventus,2018-12-22 Juventus-Roma,ITA-SERIA_A,18-19,01a0dbbf
+52ec54d0,Leonardo Bonucci,19,ITA,CB,31-235,90,0,0,0,0,1,0,0,0,65,0,2,0,0.0,0.0,0.4,2,0,47,58,81.0,2,35,0,0,0,Juventus,2018-12-22 Juventus-Roma,ITA-SERIA_A,18-19,01a0dbbf
+ae4e2852,Mattia De Sciglio,2,ITA,RB,26-063,90,0,1,0,0,1,0,0,0,75,2,1,0,0.0,0.0,0.3,5,1,50,64,78.1,1,28,0,0,0,Juventus,2018-12-22 Juventus-Roma,ITA-SERIA_A,18-19,01a0dbbf
+01b8a2b2,Wojciech Szczęsny,1,POL,GK,28-248,90,0,0,0,0,0,0,0,0,23,0,0,0,0.0,0.0,0.0,0,0,20,23,87.0,0,12,0,0,0,Juventus,2018-12-22 Juventus-Roma,ITA-SERIA_A,18-19,01a0dbbf
+5d4f7d61,Patrik Schick,14,CZE,FW,22-332,90,0,0,0,0,1,1,1,0,31,0,1,1,0.1,0.1,0.0,1,0,13,22,59.1,0,15,2,0,0,Roma,2018-12-22 Juventus-Roma,ITA-SERIA_A,18-19,01a0dbbf
+1880614f,Cengiz Ünder,17,TUR,"FW,RW",21-161,70,0,0,0,0,0,0,0,0,18,0,1,0,0.0,0.0,0.0,0,0,6,10,60.0,1,13,2,2,0,Roma,2018-12-22 Juventus-Roma,ITA-SERIA_A,18-19,01a0dbbf
+a40d5a0c,Diego Perotti,8,ARG,"LM,LW",30-149,20,0,0,0,0,0,0,0,0,20,1,0,0,0.0,0.0,0.2,2,0,14,19,73.7,2,14,4,0,0,Roma,2018-12-22 Juventus-Roma,ITA-SERIA_A,18-19,01a0dbbf
+9907b1c8,Nicolò Zaniolo,22,ITA,"CM,AM",19-173,90,0,0,0,0,2,0,1,0,62,5,2,1,0.1,0.1,0.0,2,0,39,44,88.6,6,41,1,2,0,Roma,2018-12-22 Juventus-Roma,ITA-SERIA_A,18-19,01a0dbbf
+c7526c18,Steven Nzonzi,42,FRA,"CM,DM",30-007,78,0,0,0,0,2,1,1,0,63,1,4,0,0.1,0.1,0.0,2,0,53,56,94.6,4,43,0,0,0,Roma,2018-12-22 Juventus-Roma,ITA-SERIA_A,18-19,01a0dbbf
+3bb7f478,Edin Džeko,9,BIH,FW,32-280,12,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,1,0,2,2,100.0,0,3,1,0,0,Roma,2018-12-22 Juventus-Roma,ITA-SERIA_A,18-19,01a0dbbf
+16657b95,Bryan Cristante,4,ITA,"CM,DM",23-294,90,0,0,0,0,1,1,0,0,79,1,0,1,0.1,0.1,0.0,1,0,57,71,80.3,8,50,2,0,0,Roma,2018-12-22 Juventus-Roma,ITA-SERIA_A,18-19,01a0dbbf
+e288d4b3,Alessandro Florenzi,24,ITA,LB,27-286,45,0,0,0,0,0,0,0,0,27,2,3,1,0.0,0.0,0.0,0,0,13,20,65.0,0,13,1,3,1,Roma,2018-12-22 Juventus-Roma,ITA-SERIA_A,18-19,01a0dbbf
+4c3a6744,Justin Kluivert,34,NED,"LW,RM,RW",19-231,45,0,0,0,0,0,0,0,0,19,1,0,0,0.0,0.0,0.0,1,0,12,14,85.7,1,13,1,2,0,Roma,2018-12-22 Juventus-Roma,ITA-SERIA_A,18-19,01a0dbbf
+eda40760,Aleksandar Kolarov,11,SRB,"LB,CB",33-042,90,0,0,0,0,0,0,0,0,66,2,2,0,0.0,0.0,0.1,2,0,39,54,72.2,5,33,4,4,1,Roma,2018-12-22 Juventus-Roma,ITA-SERIA_A,18-19,01a0dbbf
+4e358a2d,Federico Fazio,20,ARG,CB,31-280,90,0,0,0,0,1,1,0,0,48,0,2,0,0.1,0.1,0.0,0,0,34,40,85.0,2,22,0,0,0,Roma,2018-12-22 Juventus-Roma,ITA-SERIA_A,18-19,01a0dbbf
+c707411f,Kostas Manolas,44,GRE,CB,27-191,90,0,0,0,0,0,0,0,0,56,2,1,2,0.0,0.0,0.0,0,0,36,43,83.7,0,25,1,0,0,Roma,2018-12-22 Juventus-Roma,ITA-SERIA_A,18-19,01a0dbbf
+88c89891,Davide Santon,18,ITA,RB,27-354,90,0,0,0,0,0,0,0,0,63,3,1,0,0.0,0.0,0.1,2,0,42,57,73.7,2,38,3,0,0,Roma,2018-12-22 Juventus-Roma,ITA-SERIA_A,18-19,01a0dbbf
+e7ee38c3,Robin Olsen,1,SWE,GK,28-348,90,0,0,0,0,0,0,0,0,41,0,0,0,0.0,0.0,0.0,0,0,23,36,63.9,0,14,0,0,0,Roma,2018-12-22 Juventus-Roma,ITA-SERIA_A,18-19,01a0dbbf

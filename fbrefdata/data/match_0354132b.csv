@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+42fd9c7f,Kylian Mbappé,7,FRA,FW,24-061,90,2,0,0,0,4,4,1,0,31,0,0,1,0.4,0.4,0.1,4,2,20,22,90.9,3,29,5,7,6,Paris Saint-Germain,2023-02-19 Paris S-G-Lille,FRA-L1,22-23,0354132b
+d70ce98e,Lionel Messi,30,ARG,"FW,AM",35-240,90,1,0,0,0,2,2,0,0,35,0,0,0,0.3,0.3,0.2,5,1,19,27,70.4,3,29,0,7,3,Paris Saint-Germain,2023-02-19 Paris S-G-Lille,FRA-L1,22-23,0354132b
+69384e5d,Neymar,10,BRA,AM,31-014,50,1,1,0,0,2,1,0,0,28,0,1,0,0.9,0.9,0.5,2,1,18,23,78.3,7,25,1,3,2,Paris Saint-Germain,2023-02-19 Paris S-G-Lille,FRA-L1,22-23,0354132b
+5b92d896,Hugo Ekitike,44,FRA,FW,20-244,40,0,0,0,0,2,2,0,0,19,2,0,0,0.1,0.1,0.0,1,0,9,11,81.8,1,13,2,3,3,Paris Saint-Germain,2023-02-19 Paris S-G-Lille,FRA-L1,22-23,0354132b
+c0c7ff58,Fabián Ruiz Peña,8,ESP,LM,26-322,74,0,0,0,0,0,0,0,0,54,3,4,1,0.0,0.0,0.0,1,0,37,42,88.1,5,40,0,1,1,Paris Saint-Germain,2023-02-19 Paris S-G-Lille,FRA-L1,22-23,0354132b
+8fd9996f,Danilo Pereira,15,POR,CB,31-163,16,0,0,0,0,0,0,0,0,15,1,0,0,0.0,0.0,0.0,0,0,14,14,100.0,2,11,0,0,0,Paris Saint-Germain,2023-02-19 Paris S-G-Lille,FRA-L1,22-23,0354132b
+1467af0d,Marco Verratti,6,ITA,CM,30-106,90,0,0,0,0,0,0,1,0,82,2,1,1,0.0,0.0,0.1,4,2,65,79,82.3,7,64,2,5,3,Paris Saint-Germain,2023-02-19 Paris S-G-Lille,FRA-L1,22-23,0354132b
+3b029691,Vitinha,17,POR,RM,23-006,74,0,1,0,0,0,0,0,0,32,0,1,1,0.0,0.0,0.8,2,1,22,29,75.9,0,26,0,1,0,Paris Saint-Germain,2023-02-19 Paris S-G-Lille,FRA-L1,22-23,0354132b
+6b9960cf,Warren Zaïre-Emery,33,FRA,CM,16-348,16,0,0,0,0,0,0,0,0,13,1,0,1,0.0,0.0,0.0,0,0,9,9,100.0,1,11,0,2,1,Paris Saint-Germain,2023-02-19 Paris S-G-Lille,FRA-L1,22-23,0354132b
+f20e4cc9,Nuno Mendes,25,POR,LB,20-245,30,0,0,0,0,0,0,0,0,19,0,2,0,0.0,0.0,0.0,0,0,13,15,86.7,3,13,0,1,0,Paris Saint-Germain,2023-02-19 Paris S-G-Lille,FRA-L1,22-23,0354132b
+433dc9a2,Juan Bernat,14,ESP,"LB,WB",29-355,60,0,1,0,0,1,1,0,0,38,1,1,1,0.1,0.1,0.2,3,1,28,31,90.3,3,27,1,4,4,Paris Saint-Germain,2023-02-19 Paris S-G-Lille,FRA-L1,22-23,0354132b
+aef6e670,Presnel Kimpembe,3,FRA,CB,27-190,90,0,0,0,0,1,0,0,0,61,2,2,3,0.1,0.1,0.0,0,0,48,52,92.3,0,48,0,0,0,Paris Saint-Germain,2023-02-19 Paris S-G-Lille,FRA-L1,22-23,0354132b
+08511d65,Sergio Ramos,4,ESP,CB,36-326,90,0,0,0,0,0,0,0,0,66,2,0,3,0.0,0.0,0.0,0,0,53,58,91.4,1,48,1,0,0,Paris Saint-Germain,2023-02-19 Paris S-G-Lille,FRA-L1,22-23,0354132b
+f8ce97ca,Timothee Pembele,29,FRA,RB,20-163,74,0,0,0,0,0,0,0,0,19,0,0,0,0.0,0.0,0.0,0,0,13,14,92.9,4,12,0,1,1,Paris Saint-Germain,2023-02-19 Paris S-G-Lille,FRA-L1,22-23,0354132b
+fed17f5a,Carlos Soler,28,ESP,WB,26-048,16,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,4,6,66.7,0,7,0,0,0,Paris Saint-Germain,2023-02-19 Paris S-G-Lille,FRA-L1,22-23,0354132b
+08f5afaa,Gianluigi Donnarumma,99,ITA,GK,23-359,90,0,0,0,0,0,0,0,0,42,0,0,0,0.0,0.0,0.0,0,0,29,37,78.4,0,29,0,0,0,Paris Saint-Germain,2023-02-19 Paris S-G-Lille,FRA-L1,22-23,0354132b
+ce50fd99,Jonathan David,9,CAN,FW,23-036,90,1,0,1,1,6,2,1,0,39,0,0,1,1.4,0.6,0.1,5,1,22,29,75.9,3,30,3,0,0,Lille,2023-02-19 Paris S-G-Lille,FRA-L1,22-23,0354132b
+148e136f,Rémy Cabella,10,FRA,LW,32-348,87,0,0,0,0,2,0,0,0,58,2,1,0,0.4,0.4,0.1,4,0,40,50,80.0,8,41,2,1,1,Lille,2023-02-19 Paris S-G-Lille,FRA-L1,22-23,0354132b
+a1390d2f,Carlos Baleba,35,CMR,LW,19-047,3,0,0,0,0,1,1,0,0,5,1,0,0,0.0,0.0,0.0,0,0,2,2,100.0,1,5,0,2,1,Lille,2023-02-19 Paris S-G-Lille,FRA-L1,22-23,0354132b
+b2bd0f6c,Jonathan Bamba,7,CIV,RW,26-330,90,1,0,0,0,1,1,1,0,67,1,0,1,0.1,0.1,0.1,2,1,51,57,89.5,9,62,2,3,1,Lille,2023-02-19 Paris S-G-Lille,FRA-L1,22-23,0354132b
+645a3363,Angel Gomes,20,ENG,AM,22-172,87,0,0,0,0,1,0,0,0,42,3,0,0,0.1,0.1,0.0,1,0,28,33,84.8,3,38,0,2,1,Lille,2023-02-19 Paris S-G-Lille,FRA-L1,22-23,0354132b
+01becd60,Alan Virginius,26,FRA,AM,20-047,3,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,5,5,100.0,2,5,1,1,0,Lille,2023-02-19 Paris S-G-Lille,FRA-L1,22-23,0354132b
+1961b2aa,André Gomes,28,POR,DM,29-204,90,0,2,0,0,0,0,0,0,89,2,1,2,0.0,0.0,0.4,5,2,73,80,91.3,6,77,2,0,0,Lille,2023-02-19 Paris S-G-Lille,FRA-L1,22-23,0354132b
+ef9c1c95,Benjamin André,21,FRA,DM,32-200,90,0,0,0,0,0,0,1,0,71,3,2,3,0.0,0.0,0.0,2,1,49,61,80.3,4,53,0,1,0,Lille,2023-02-19 Paris S-G-Lille,FRA-L1,22-23,0354132b
+8eec784d,Timothy Weah,22,USA,"LB,RB",22-362,90,0,0,0,0,2,1,0,0,64,1,0,1,0.1,0.1,0.2,4,0,46,56,82.1,6,52,6,0,0,Lille,2023-02-19 Paris S-G-Lille,FRA-L1,22-23,0354132b
+b2336681,Tiago Djaló,3,POR,CB,22-316,90,0,0,0,0,1,0,0,0,46,0,1,0,0.1,0.1,0.0,1,1,39,42,92.9,1,42,0,2,1,Lille,2023-02-19 Paris S-G-Lille,FRA-L1,22-23,0354132b
+90f87966,José Fonte,6,POR,CB,39-059,13,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,4,4,100.0,0,4,0,0,0,Lille,2023-02-19 Paris S-G-Lille,FRA-L1,22-23,0354132b
+6763f716,Leny Yoro,15,FRA,CB,17-098,77,0,0,0,0,0,0,0,0,35,1,1,0,0.0,0.0,0.0,0,0,28,31,90.3,0,24,0,0,0,Lille,2023-02-19 Paris S-G-Lille,FRA-L1,22-23,0354132b
+1bfb6fef,Bafodé Diakité,18,FRA,RB,22-044,66,1,0,0,0,1,1,1,0,51,3,1,1,0.3,0.3,0.0,0,0,43,46,93.5,0,37,0,1,0,Lille,2023-02-19 Paris S-G-Lille,FRA-L1,22-23,0354132b
+d5d22a58,Gabriel Gudmundsson,5,SWE,"LB,RB",23-296,24,0,0,0,0,0,0,0,0,15,0,0,0,0.0,0.0,0.0,0,0,11,14,78.6,1,8,0,1,1,Lille,2023-02-19 Paris S-G-Lille,FRA-L1,22-23,0354132b
+b3d76d84,Lucas Chevalier,30,FRA,GK,21-105,90,0,0,0,0,0,0,0,0,38,0,0,0,0.0,0.0,0.0,0,0,33,37,89.2,0,37,0,0,0,Lille,2023-02-19 Paris S-G-Lille,FRA-L1,22-23,0354132b

@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+165a2e40,Burak Yılmaz,17,TUR,FW,36-310,80,0,0,0,0,1,0,0,0,33,0,0,0,0.0,0.0,0.1,3,0,23,29,79.3,0,35,1,0,0,Lille,2022-05-21 Lille-Rennes,FRA-L1,21-22,021ffc0c
+645a3363,Angel Gomes,20,ENG,FW,21-263,10,0,0,0,0,1,0,0,0,7,0,0,0,0.1,0.1,0.0,0,0,5,6,83.3,1,6,0,0,0,Lille,2022-05-21 Lille-Rennes,FRA-L1,21-22,021ffc0c
+ce50fd99,Jonathan David,9,CAN,FW,22-127,85,0,0,0,0,1,0,0,0,20,0,0,0,0.1,0.1,0.0,3,0,13,16,81.3,1,12,1,0,0,Lille,2022-05-21 Lille-Rennes,FRA-L1,21-22,021ffc0c
+34a88e3e,Edon Zhegrova,23,KVX,RM,23-051,5,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.1,1,0,3,3,100.0,2,5,1,1,0,Lille,2022-05-21 Lille-Rennes,FRA-L1,21-22,021ffc0c
+b2bd0f6c,Jonathan Bamba,7,CIV,LM,26-056,85,0,0,0,0,3,1,0,0,55,0,0,1,0.1,0.1,0.1,3,0,30,37,81.1,6,42,4,6,1,Lille,2022-05-21 Lille-Rennes,FRA-L1,21-22,021ffc0c
+d5d22a58,Gabriel Gudmundsson,5,SWE,LM,23-022,5,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Lille,2022-05-21 Lille-Rennes,FRA-L1,21-22,021ffc0c
+032f894e,Renato Sanches,10,POR,CM,24-276,90,0,0,0,0,0,0,1,0,72,0,1,1,0.0,0.0,0.0,5,1,59,68,86.8,12,54,0,0,0,Lille,2022-05-21 Lille-Rennes,FRA-L1,21-22,021ffc0c
+ef9c1c95,Benjamin André,21,FRA,CM,31-291,69,0,0,0,0,1,0,1,0,50,2,1,0,0.0,0.0,0.0,1,0,27,40,67.5,2,33,0,0,0,Lille,2022-05-21 Lille-Rennes,FRA-L1,21-22,021ffc0c
+828657ff,Amadou Onana,24,BEL,CM,20-278,21,0,0,0,0,0,0,0,0,16,1,0,0,0.0,0.0,0.0,1,0,14,14,100.0,2,12,1,0,0,Lille,2022-05-21 Lille-Rennes,FRA-L1,21-22,021ffc0c
+8eec784d,Timothy Weah,22,USA,"RM,FW",22-088,90,2,0,0,0,4,3,0,0,41,2,0,2,1.2,1.2,0.1,4,1,27,30,90.0,3,31,2,2,1,Lille,2022-05-21 Lille-Rennes,FRA-L1,21-22,021ffc0c
+b2336681,Tiago Djaló,3,POR,LB,22-042,90,0,0,0,0,0,0,0,0,65,1,1,1,0.0,0.0,0.0,0,0,50,59,84.7,2,45,0,2,0,Lille,2022-05-21 Lille-Rennes,FRA-L1,21-22,021ffc0c
+ccce7025,Sven Botman,4,NED,CB,22-129,90,0,0,0,0,1,0,0,0,62,0,2,2,0.1,0.1,0.0,0,0,46,54,85.2,0,45,0,0,0,Lille,2022-05-21 Lille-Rennes,FRA-L1,21-22,021ffc0c
+90f87966,José Fonte,6,POR,CB,38-150,90,0,0,0,0,0,0,0,0,68,0,3,1,0.0,0.0,0.1,1,0,47,55,85.5,4,46,0,0,0,Lille,2022-05-21 Lille-Rennes,FRA-L1,21-22,021ffc0c
+31a62dc7,Zeki Çelik,2,TUR,RB,25-093,90,0,1,0,0,1,0,0,0,69,1,1,1,0.1,0.1,0.2,3,1,44,57,77.2,4,40,0,0,0,Lille,2022-05-21 Lille-Rennes,FRA-L1,21-22,021ffc0c
+f5dfc256,Léo Jardim,30,BRA,GK,27-062,90,0,0,0,0,0,0,0,0,26,0,1,0,0.0,0.0,0.0,0,0,11,24,45.8,0,17,0,0,0,Lille,2022-05-21 Lille-Rennes,FRA-L1,21-22,021ffc0c
+7cdda3bf,Gaëtan Laborde,24,FRA,FW,28-018,58,0,0,0,0,0,0,0,0,23,0,0,3,0.0,0.0,0.0,2,0,9,14,64.3,1,14,1,0,0,Rennes,2022-05-21 Lille-Rennes,FRA-L1,21-22,021ffc0c
+923f4dda,Serhou Guirassy,9,GUI,FW,26-070,32,1,0,0,0,1,1,0,0,14,0,0,0,0.6,0.6,0.0,1,0,11,12,91.7,0,11,0,0,0,Rennes,2022-05-21 Lille-Rennes,FRA-L1,21-22,021ffc0c
+5148dcc5,Martin Terrier,7,FRA,LW,25-078,75,0,0,0,0,1,0,0,0,43,3,2,3,0.1,0.1,0.0,3,0,22,24,91.7,4,25,4,2,2,Rennes,2022-05-21 Lille-Rennes,FRA-L1,21-22,021ffc0c
+fffea3e5,Jeremy Doku,11,BEL,LW,19-359,15,0,0,0,0,1,0,0,0,11,0,0,0,0.0,0.0,0.0,1,0,6,8,75.0,2,9,2,0,0,Rennes,2022-05-21 Lille-Rennes,FRA-L1,21-22,021ffc0c
+20e73fac,Benjamin Bourigeaud,14,FRA,RW,28-127,74,1,0,0,0,2,2,0,0,42,0,0,1,0.2,0.2,0.1,2,1,25,38,65.8,4,30,2,0,0,Rennes,2022-05-21 Lille-Rennes,FRA-L1,21-22,021ffc0c
+b026bbf6,Lorenz Assignon,22,TOG,RW,21-333,16,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,1,0,6,9,66.7,1,10,1,0,0,Rennes,2022-05-21 Lille-Rennes,FRA-L1,21-22,021ffc0c
+a0f9b535,Flavien Tait,20,FRA,LM,29-108,82,0,0,0,0,1,0,0,0,52,3,0,0,0.0,0.0,0.0,3,0,34,42,81.0,7,46,1,2,1,Rennes,2022-05-21 Lille-Rennes,FRA-L1,21-22,021ffc0c
+1df4a109,Lesley Ugochukwu,26,FRA,LM,18-056,8,0,0,0,0,0,0,0,0,7,1,0,0,0.0,0.0,0.0,0,0,5,6,83.3,0,6,0,0,0,Rennes,2022-05-21 Lille-Rennes,FRA-L1,21-22,021ffc0c
+5e22e2a4,Baptiste Santamaria,8,FRA,"CM,CB",27-073,90,0,0,0,0,2,0,0,0,60,1,1,2,0.1,0.1,0.0,1,0,46,50,92.0,5,40,1,2,2,Rennes,2022-05-21 Lille-Rennes,FRA-L1,21-22,021ffc0c
+fc46aab1,Lovro Majer,21,CRO,RM,24-124,90,0,0,0,0,3,0,0,0,63,3,0,1,0.2,0.2,0.2,5,1,33,45,73.3,8,43,6,4,4,Rennes,2022-05-21 Lille-Rennes,FRA-L1,21-22,021ffc0c
+5d0e0a1f,Adrien Truffert,3,FRA,LB,20-182,90,0,1,0,0,0,0,1,0,74,4,4,1,0.0,0.0,0.6,1,1,46,58,79.3,2,45,3,1,0,Rennes,2022-05-21 Lille-Rennes,FRA-L1,21-22,021ffc0c
+288e1e13,Nayef Aguerd,6,MAR,CB,26-052,90,0,0,0,0,0,0,0,0,79,0,1,2,0.0,0.0,0.0,1,0,65,71,91.5,3,62,0,0,0,Rennes,2022-05-21 Lille-Rennes,FRA-L1,21-22,021ffc0c
+4534a352,Warmed Omari,23,FRA,CB,22-028,83,0,0,0,0,0,0,1,0,46,1,1,1,0.0,0.0,0.0,0,0,37,39,94.9,2,39,0,0,0,Rennes,2022-05-21 Lille-Rennes,FRA-L1,21-22,021ffc0c
+468fdbad,Jonas Martin,28,FRA,"CM,CB",32-042,7,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,5,5,100.0,0,5,0,0,0,Rennes,2022-05-21 Lille-Rennes,FRA-L1,21-22,021ffc0c
+a4b1028a,Hamari Traoré,27,MLI,RB,30-114,90,0,0,0,0,2,0,0,0,66,4,0,1,0.1,0.1,0.0,2,1,44,56,78.6,7,38,1,0,0,Rennes,2022-05-21 Lille-Rennes,FRA-L1,21-22,021ffc0c
+cecbce23,Alfred Gomis,16,SEN,GK,28-258,90,0,0,0,0,0,0,0,0,23,0,0,0,0.0,0.0,0.0,0,0,16,21,76.2,0,14,0,0,0,Rennes,2022-05-21 Lille-Rennes,FRA-L1,21-22,021ffc0c

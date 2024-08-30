@@ -1,0 +1,29 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+ee4f2f3b,Fabio Quagliarella,27,ITA,FW,34-320,90,0,0,0,0,3,1,0,0,24,0,0,0,0.2,0.2,0.0,2,0,14,18,77.8,0,10,0,0,0,Sampdoria,2017-12-17 Sampdoria-Sassuolo,ITA-SERIA_A,17-18,6e9ea592
+d3de9af0,Duván Zapata,91,COL,FW,26-260,56,0,0,0,0,1,0,0,0,24,0,0,0,0.5,0.5,0.0,3,0,13,20,65.0,0,13,2,0,0,Sampdoria,2017-12-17 Sampdoria-Sassuolo,ITA-SERIA_A,17-18,6e9ea592
+54e53b7e,Gianluca Caprari,17,ITA,FW,24-140,34,0,0,0,0,1,0,0,0,11,0,0,0,0.1,0.1,0.0,0,0,5,10,50.0,0,5,0,1,1,Sampdoria,2017-12-17 Sampdoria-Sassuolo,ITA-SERIA_A,17-18,6e9ea592
+2c851997,Gastón Ramírez,11,URU,AM,27-015,78,0,0,0,0,2,0,1,0,48,3,0,0,0.1,0.1,0.0,2,0,25,38,65.8,3,30,2,1,1,Sampdoria,2017-12-17 Sampdoria-Sassuolo,ITA-SERIA_A,17-18,6e9ea592
+be5e1c4c,Dawid Kownacki,99,POL,AM,20-278,12,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,3,5,60.0,0,6,0,0,0,Sampdoria,2017-12-17 Sampdoria-Sassuolo,ITA-SERIA_A,17-18,6e9ea592
+86695068,Dennis Praet,10,BEL,LM,23-217,90,0,0,0,0,3,0,0,0,57,2,0,2,0.1,0.1,0.0,2,0,38,48,79.2,8,29,4,4,4,Sampdoria,2017-12-17 Sampdoria-Sassuolo,ITA-SERIA_A,17-18,6e9ea592
+52611641,Lucas Torreira,34,URU,CM,21-309,90,0,0,0,0,1,0,0,0,86,2,1,0,0.1,0.1,0.2,6,0,63,78,80.8,5,30,0,2,1,Sampdoria,2017-12-17 Sampdoria-Sassuolo,ITA-SERIA_A,17-18,6e9ea592
+43a1bea5,Édgar Barreto,8,PAR,RM,33-155,90,0,0,0,0,0,0,0,0,54,1,0,2,0.0,0.0,0.5,5,0,34,46,73.9,5,22,2,0,0,Sampdoria,2017-12-17 Sampdoria-Sassuolo,ITA-SERIA_A,17-18,6e9ea592
+52e2ef8f,Ivan Strinić,17,CRO,LB,30-153,90,0,0,0,0,0,0,0,0,83,4,1,3,0.0,0.0,0.0,0,0,48,71,67.6,2,40,7,3,2,Sampdoria,2017-12-17 Sampdoria-Sassuolo,ITA-SERIA_A,17-18,6e9ea592
+8650af85,Gian Marco Ferrari,13,ITA,CB,25-305,90,0,0,0,0,1,1,0,0,72,0,1,2,0.0,0.0,0.0,0,0,56,65,86.2,4,38,0,1,1,Sampdoria,2017-12-17 Sampdoria-Sassuolo,ITA-SERIA_A,17-18,6e9ea592
+b6ca47a2,Matías Silvestre,26,ARG,CB,33-083,90,0,0,0,0,1,0,0,0,68,0,0,1,0.1,0.1,0.0,0,0,52,63,82.5,3,31,0,0,0,Sampdoria,2017-12-17 Sampdoria-Sassuolo,ITA-SERIA_A,17-18,6e9ea592
+61b3978f,Bartosz Bereszyński,24,POL,RB,25-158,90,0,0,0,0,0,0,0,0,88,3,2,1,0.0,0.0,0.1,2,0,63,77,81.8,12,39,3,1,1,Sampdoria,2017-12-17 Sampdoria-Sassuolo,ITA-SERIA_A,17-18,6e9ea592
+03760df0,Emiliano Viviano,2,ITA,GK,32-016,90,0,0,0,0,0,0,0,0,38,0,0,0,0.0,0.0,0.0,0,0,24,33,72.7,0,13,0,0,0,Sampdoria,2017-12-17 Sampdoria-Sassuolo,ITA-SERIA_A,17-18,6e9ea592
+a39b9ef6,Diego Falcinelli,11,ITA,"FW,LW",26-174,89,0,0,0,0,4,3,1,0,25,0,0,1,0.3,0.2,0.1,2,0,13,18,72.2,3,16,0,0,0,Sassuolo,2017-12-17 Sampdoria-Sassuolo,ITA-SERIA_A,17-18,6e9ea592
+46ed55b6,Paolo Cannavaro,28,ITA,"CB,LW",36-174,1,0,0,0,0,0,0,0,0,4,0,1,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Sassuolo,2017-12-17 Sampdoria-Sassuolo,ITA-SERIA_A,17-18,6e9ea592
+5e861944,Matteo Politano,16,ITA,"LW,RW",24-136,87,0,0,0,1,4,2,0,0,35,1,0,1,1.0,0.2,0.1,7,0,15,24,62.5,1,22,5,3,2,Sassuolo,2017-12-17 Sampdoria-Sassuolo,ITA-SERIA_A,17-18,6e9ea592
+e967e202,Antonino Ragusa,90,ITA,"FW,RW",27-265,3,0,1,0,0,0,0,1,0,3,0,1,0,0.0,0.0,0.1,1,1,3,3,100.0,0,3,1,0,0,Sassuolo,2017-12-17 Sampdoria-Sassuolo,ITA-SERIA_A,17-18,6e9ea592
+53a0e358,Domenico Berardi,25,ITA,RW,23-138,73,0,0,0,0,3,0,1,0,36,1,0,0,0.2,0.2,0.1,3,0,14,27,51.9,2,27,2,2,2,Sassuolo,2017-12-17 Sampdoria-Sassuolo,ITA-SERIA_A,17-18,6e9ea592
+58d97e77,Alessandro Matri,10,ITA,"FW,RW",33-120,17,1,0,0,0,2,1,0,0,5,1,0,0,0.2,0.2,0.0,0,0,0,3,0.0,0,5,0,0,0,Sassuolo,2017-12-17 Sampdoria-Sassuolo,ITA-SERIA_A,17-18,6e9ea592
+528492ea,Alfred Duncan,32,GHA,"LM,CM",24-282,90,0,0,0,0,2,0,0,0,36,0,1,2,0.1,0.1,0.1,4,1,14,28,50.0,5,23,1,3,2,Sassuolo,2017-12-17 Sampdoria-Sassuolo,ITA-SERIA_A,17-18,6e9ea592
+07767f42,Francesco Magnanelli,4,ITA,CM,33-035,90,0,0,0,0,0,0,0,0,45,2,1,3,0.0,0.0,0.1,2,0,26,37,70.3,10,15,0,1,1,Sassuolo,2017-12-17 Sampdoria-Sassuolo,ITA-SERIA_A,17-18,6e9ea592
+331c0a43,Simone Missiroli,7,ITA,"RM,CM",31-208,90,0,0,0,0,0,0,0,0,56,4,1,2,0.0,0.0,0.0,2,0,30,45,66.7,2,21,3,0,0,Sassuolo,2017-12-17 Sampdoria-Sassuolo,ITA-SERIA_A,17-18,6e9ea592
+4f2908e5,Federico Peluso,13,ITA,"LB,WB",33-331,90,0,0,0,0,0,0,0,0,38,1,1,1,0.0,0.0,0.1,3,0,15,25,60.0,0,12,0,1,0,Sassuolo,2017-12-17 Sampdoria-Sassuolo,ITA-SERIA_A,17-18,6e9ea592
+b96b595c,Francesco Acerbi,15,ITA,CB,29-310,90,0,0,0,0,0,0,0,0,30,1,2,0,0.0,0.0,0.0,0,0,11,15,73.3,1,3,0,0,0,Sassuolo,2017-12-17 Sampdoria-Sassuolo,ITA-SERIA_A,17-18,6e9ea592
+4b029b31,Edoardo Goldaniga,24,ITA,CB,24-045,90,0,0,0,0,0,0,1,0,27,1,1,1,0.0,0.0,0.0,0,0,10,18,55.6,0,7,0,0,0,Sassuolo,2017-12-17 Sampdoria-Sassuolo,ITA-SERIA_A,17-18,6e9ea592
+ff800ed8,Pol Lirola,21,ESP,"RB,WB",20-126,90,0,0,0,0,0,0,1,0,55,1,2,1,0.0,0.0,0.0,2,0,26,41,63.4,3,24,2,2,2,Sassuolo,2017-12-17 Sampdoria-Sassuolo,ITA-SERIA_A,17-18,6e9ea592
+8cabdc1e,Andrea Consigli,47,ITA,GK,30-324,90,0,0,0,0,0,0,1,0,37,0,0,0,0.0,0.0,0.0,1,0,28,37,75.7,0,20,0,0,0,Sassuolo,2017-12-17 Sampdoria-Sassuolo,ITA-SERIA_A,17-18,6e9ea592

@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+a889ffc7,Marco Borriello,22,ITA,FW,35-070,90,1,0,0,0,3,1,0,0,28,0,0,0,0.2,0.2,0.3,2,1,14,16,87.5,1,13,1,0,0,SPAL,2017-08-27 SPAL-Udinese,ITA-SERIA_A,17-18,588d7ade
+df301450,Sergio Floccari,10,ITA,FW,35-288,82,0,0,0,0,1,1,0,0,24,2,0,0,0.5,0.5,0.1,4,1,16,19,84.2,2,19,3,3,2,SPAL,2017-08-27 SPAL-Udinese,ITA-SERIA_A,17-18,588d7ade
+43a2e16c,Mirco Antenucci,7,ITA,FW,32-353,8,0,1,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,1,1,2,4,50.0,0,3,0,0,0,SPAL,2017-08-27 SPAL-Udinese,ITA-SERIA_A,17-18,588d7ade
+42fff925,Luca Mora,20,ITA,CM,29-109,73,0,0,0,0,0,0,0,0,33,0,1,0,0.0,0.0,0.0,3,0,21,29,72.4,6,16,0,2,2,SPAL,2017-08-27 SPAL-Udinese,ITA-SERIA_A,17-18,588d7ade
+c4f97172,Eros Schiavon,18,ITA,CM,34-125,17,0,0,0,0,1,0,0,0,9,0,0,0,0.0,0.0,0.0,1,0,6,8,75.0,0,2,1,0,0,SPAL,2017-08-27 SPAL-Udinese,ITA-SERIA_A,17-18,588d7ade
+2258c078,Federico Viviani,77,ITA,CM,25-156,90,0,0,0,0,2,0,1,0,73,1,2,3,0.4,0.4,0.0,1,0,57,63,90.5,3,31,0,0,0,SPAL,2017-08-27 SPAL-Udinese,ITA-SERIA_A,17-18,588d7ade
+bd84fc61,Pasquale Schiattarella,28,ITA,CM,30-089,90,0,0,0,0,1,0,0,0,58,2,0,0,0.0,0.0,0.5,1,1,40,50,80.0,11,25,5,1,1,SPAL,2017-08-27 SPAL-Udinese,ITA-SERIA_A,17-18,588d7ade
+fba81826,Federico Mattiello,14,ITA,WB,22-044,90,0,0,0,0,0,0,0,0,53,3,4,0,0.0,0.0,0.0,2,0,39,44,88.6,2,26,7,1,0,SPAL,2017-08-27 SPAL-Udinese,ITA-SERIA_A,17-18,588d7ade
+02caf6e0,Manuel Lazzari,29,ITA,WB,23-271,83,1,0,0,0,1,1,0,0,54,0,1,0,0.4,0.4,0.0,2,0,30,43,69.8,3,30,8,4,1,SPAL,2017-08-27 SPAL-Udinese,ITA-SERIA_A,17-18,588d7ade
+a3e4b724,Luca Rizzo,11,ITA,WB,25-125,7,1,0,0,0,1,1,0,0,7,0,0,0,0.0,0.0,0.0,1,1,4,6,66.7,0,6,1,0,0,SPAL,2017-08-27 SPAL-Udinese,ITA-SERIA_A,17-18,588d7ade
+23214a49,Sauli Väisänen,15,FIN,CB,23-083,90,0,0,0,0,0,0,1,0,56,5,2,0,0.0,0.0,0.0,0,0,42,47,89.4,2,22,0,0,0,SPAL,2017-08-27 SPAL-Udinese,ITA-SERIA_A,17-18,588d7ade
+de045b15,Francesco Vicari,23,ITA,CB,23-024,90,0,0,0,0,0,0,0,0,36,1,1,1,0.0,0.0,0.0,0,0,22,24,91.7,1,11,1,1,1,SPAL,2017-08-27 SPAL-Udinese,ITA-SERIA_A,17-18,588d7ade
+9b30df1e,Bartosz Salamon,21,POL,CB,26-118,90,0,0,0,0,0,0,1,0,52,0,2,0,0.0,0.0,0.0,0,0,37,44,84.1,3,24,0,0,0,SPAL,2017-08-27 SPAL-Udinese,ITA-SERIA_A,17-18,588d7ade
+cecbce23,Alfred Gomis,1,SEN,GK,23-356,90,0,0,0,0,0,0,0,0,39,0,0,0,0.0,0.0,0.0,0,0,25,36,69.4,0,10,0,0,0,SPAL,2017-08-27 SPAL-Udinese,ITA-SERIA_A,17-18,588d7ade
+4d3ab428,Cyril Théréau,77,FRA,"FW,AM",34-125,90,1,0,1,1,0,0,0,0,43,0,0,0,0.8,0.0,0.0,1,0,27,36,75.0,4,33,6,3,1,Udinese,2017-08-27 SPAL-Udinese,ITA-SERIA_A,17-18,588d7ade
+09538fdb,Kevin Lasagna,15,ITA,FW,25-017,90,0,0,0,0,2,0,0,0,25,0,0,1,0.1,0.1,0.0,1,1,11,19,57.9,1,18,1,1,0,Udinese,2017-08-27 SPAL-Udinese,ITA-SERIA_A,17-18,588d7ade
+1ea5f91c,Jakub Jankto,14,CZE,LM,21-220,90,0,1,0,0,0,0,0,0,53,0,3,0,0.0,0.0,0.1,1,1,39,52,75.0,7,35,4,0,0,Udinese,2017-08-27 SPAL-Udinese,ITA-SERIA_A,17-18,588d7ade
+86015b20,Emil Hallfreðsson,23,ISL,CM,33-059,55,0,0,0,0,0,0,0,0,46,1,1,0,0.0,0.0,0.1,5,0,34,41,82.9,4,35,2,3,2,Udinese,2017-08-27 SPAL-Udinese,ITA-SERIA_A,17-18,588d7ade
+01efac19,Antonín Barák,72,CZE,CM,22-267,35,0,0,0,0,0,0,0,0,27,2,0,0,0.0,0.0,0.0,2,1,21,23,91.3,5,19,0,2,1,Udinese,2017-08-27 SPAL-Udinese,ITA-SERIA_A,17-18,588d7ade
+5313ed43,Seko Fofana,6,CIV,CM,22-112,71,0,0,0,0,2,0,0,0,63,0,0,0,0.0,0.0,0.0,1,0,51,57,89.5,7,54,0,2,1,Udinese,2017-08-27 SPAL-Udinese,ITA-SERIA_A,17-18,588d7ade
+269b4638,Stipe Perica,18,CRO,FW,22-051,19,0,0,0,0,0,0,0,0,8,0,0,1,0.0,0.0,0.0,0,0,4,5,80.0,0,4,1,0,0,Udinese,2017-08-27 SPAL-Udinese,ITA-SERIA_A,17-18,588d7ade
+162efffd,Rodrigo De Paul,10,ARG,RM,23-095,90,0,0,0,0,4,1,0,0,71,2,2,1,0.1,0.1,0.0,3,1,42,56,75.0,6,59,8,3,1,Udinese,2017-08-27 SPAL-Udinese,ITA-SERIA_A,17-18,588d7ade
+92b4758e,Samir Santos,3,BRA,LB,22-265,45,0,0,0,0,1,0,0,0,43,3,0,0,0.0,0.0,0.0,2,0,33,36,91.7,4,24,0,0,0,Udinese,2017-08-27 SPAL-Udinese,ITA-SERIA_A,17-18,588d7ade
+149c5f5d,Giuseppe Pezzella,7,ITA,LB,19-271,45,0,0,0,0,0,0,1,0,29,0,0,0,0.0,0.0,0.0,1,0,22,27,81.5,2,20,1,0,0,Udinese,2017-08-27 SPAL-Udinese,ITA-SERIA_A,17-18,588d7ade
+e33f36d5,Bram Nuytinck,17,NED,CB,27-115,90,1,0,0,0,1,1,0,0,46,1,2,1,0.1,0.1,0.0,0,0,38,39,97.4,2,32,1,0,0,Udinese,2017-08-27 SPAL-Udinese,ITA-SERIA_A,17-18,588d7ade
+fed5f993,Danilo Larangeira,5,BRA,CB,33-109,90,0,0,0,0,0,0,0,0,47,2,3,2,0.0,0.0,0.0,0,0,32,33,97.0,0,30,0,0,0,Udinese,2017-08-27 SPAL-Udinese,ITA-SERIA_A,17-18,588d7ade
+0c971997,Gabriele Angella,4,ITA,RB,28-121,90,0,0,0,0,0,0,0,0,62,0,0,0,0.0,0.0,0.0,4,0,44,55,80.0,8,35,0,0,0,Udinese,2017-08-27 SPAL-Udinese,ITA-SERIA_A,17-18,588d7ade
+41bd99ea,Simone Scuffet,22,ITA,GK,21-088,90,0,0,0,0,0,0,0,0,20,0,0,0,0.0,0.0,0.0,0,0,14,19,73.7,0,9,0,0,0,Udinese,2017-08-27 SPAL-Udinese,ITA-SERIA_A,17-18,588d7ade

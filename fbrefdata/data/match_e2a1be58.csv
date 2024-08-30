@@ -1,0 +1,32 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+397ba086,Grejohn Kyei,9,FRA,FW,26-255,52,0,0,0,0,1,0,0,0,17,0,0,0,0.2,0.2,0.0,0,0,5,10,50.0,0,12,0,1,1,Clermont Foot,2022-04-24 Clermont Foot-Angers,FRA-L1,21-22,e2a1be58
+01870104,Mohamed Lamine Bayo,27,GUI,FW,23-324,38,1,1,0,0,2,1,0,0,6,0,0,0,1.1,1.1,0.0,1,1,3,4,75.0,0,2,0,0,0,Clermont Foot,2022-04-24 Clermont Foot-Angers,FRA-L1,21-22,e2a1be58
+796b1c41,Saîf-Eddine Khaoui,6,TUN,AM,26-362,65,0,0,0,0,4,2,0,0,28,1,1,1,0.2,0.2,0.0,4,0,15,20,75.0,0,18,2,0,0,Clermont Foot,2022-04-24 Clermont Foot-Angers,FRA-L1,21-22,e2a1be58
+007faf7a,Lucas Da Cunha,10,FRA,AM,20-319,25,1,0,0,0,2,2,0,0,12,0,0,0,0.6,0.6,0.0,1,0,9,9,100.0,1,13,1,0,0,Clermont Foot,2022-04-24 Clermont Foot-Angers,FRA-L1,21-22,e2a1be58
+a1dbfcb1,Jodel Dossou,24,BEN,AM,30-038,84,0,0,0,0,0,0,0,0,33,1,1,0,0.0,0.0,0.1,2,0,15,24,62.5,4,24,2,2,1,Clermont Foot,2022-04-24 Clermont Foot-Angers,FRA-L1,21-22,e2a1be58
+25749008,Elba Rashani,18,KVX,AM,28-350,6,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,3,3,100.0,0,3,0,0,0,Clermont Foot,2022-04-24 Clermont Foot-Angers,FRA-L1,21-22,e2a1be58
+82464ce3,Salis Abdul Samed,19,GHA,LM,22-029,45,0,0,0,0,0,0,0,0,28,1,1,0,0.0,0.0,0.0,0,0,16,21,76.2,1,22,0,2,1,Clermont Foot,2022-04-24 Clermont Foot-Angers,FRA-L1,21-22,e2a1be58
+1956b948,Jim Allevinah,11,GAB,LM,27-056,45,0,0,0,0,1,1,0,0,28,0,0,1,0.1,0.1,0.0,2,1,16,19,84.2,3,27,0,3,1,Clermont Foot,2022-04-24 Clermont Foot-Angers,FRA-L1,21-22,e2a1be58
+868eaba0,Johan Gastien,25,FRA,CM,34-089,90,0,0,0,0,1,0,0,0,105,2,4,1,0.0,0.0,0.3,3,0,74,93,79.6,9,79,1,1,1,Clermont Foot,2022-04-24 Clermont Foot-Angers,FRA-L1,21-22,e2a1be58
+caa7aaea,Yohann Magnin,7,FRA,RM,24-307,90,0,0,0,0,1,0,0,0,62,4,0,1,0.0,0.0,0.0,3,1,34,47,72.3,3,45,0,0,0,Clermont Foot,2022-04-24 Clermont Foot-Angers,FRA-L1,21-22,e2a1be58
+9f0f4b49,Arial Mendy,15,SEN,LB,27-168,45,0,0,0,0,0,0,0,0,27,0,2,0,0.0,0.0,0.0,0,0,17,23,73.9,1,16,1,0,0,Clermont Foot,2022-04-24 Clermont Foot-Angers,FRA-L1,21-22,e2a1be58
+249ac66d,Vital N'Simba,12,COD,LB,28-290,45,0,0,0,0,0,0,0,0,37,1,0,0,0.0,0.0,0.5,2,0,25,32,78.1,9,29,0,3,2,Clermont Foot,2022-04-24 Clermont Foot-Angers,FRA-L1,21-22,e2a1be58
+6993927b,Florent Ogier,21,FRA,CB,33-034,90,0,0,0,0,0,0,0,0,82,0,2,0,0.0,0.0,0.0,0,0,50,71,70.4,4,50,0,0,0,Clermont Foot,2022-04-24 Clermont Foot-Angers,FRA-L1,21-22,e2a1be58
+a3e1d20d,Jean-Claude Billong,5,CMR,CB,28-117,90,0,0,0,0,0,0,0,0,52,1,0,0,0.0,0.0,0.0,0,0,38,46,82.6,1,38,0,1,1,Clermont Foot,2022-04-24 Clermont Foot-Angers,FRA-L1,21-22,e2a1be58
+0ff630d0,Akim Zedadka,20,ALG,RB,26-329,90,0,0,0,0,0,0,0,0,71,3,1,1,0.0,0.0,0.0,2,0,49,64,76.6,7,45,4,1,1,Clermont Foot,2022-04-24 Clermont Foot-Angers,FRA-L1,21-22,e2a1be58
+62124972,Ouparine Djoco,40,GNB,GK,24-002,90,0,0,0,0,0,0,0,0,29,0,0,0,0.0,0.0,0.0,0,0,22,28,78.6,0,17,0,0,0,Clermont Foot,2022-04-24 Clermont Foot-Angers,FRA-L1,21-22,e2a1be58
+4b96c347,Angelo Fulgini,10,FRA,FW,25-247,80,0,0,0,0,1,1,0,0,48,0,0,1,0.1,0.1,0.0,3,1,27,36,75.0,5,40,0,1,0,Angers,2022-04-24 Clermont Foot-Angers,FRA-L1,21-22,e2a1be58
+96f4ebc0,Marin Jakoliš,22,CRO,FW,25-119,10,0,0,0,0,1,1,0,0,2,0,0,0,0.1,0.1,0.0,0,0,1,1,100.0,0,1,0,0,0,Angers,2022-04-24 Clermont Foot-Angers,FRA-L1,21-22,e2a1be58
+f8405304,Mohamed Ali Cho,21,FRA,FW,18-095,74,1,0,0,0,1,1,2,1,18,0,1,0,0.6,0.6,0.0,0,0,7,13,53.8,1,12,4,1,1,Angers,2022-04-24 Clermont Foot-Angers,FRA-L1,21-22,e2a1be58
+9daeac61,Souleyman Doumbia,3,CIV,LW,25-212,90,0,0,0,0,1,0,0,0,51,0,0,1,0.0,0.0,0.2,2,0,30,39,76.9,2,25,4,6,2,Angers,2022-04-24 Clermont Foot-Angers,FRA-L1,21-22,e2a1be58
+7fecbcdb,Abdoulaye Bamba,25,CIV,RW,31-364,90,0,0,0,0,0,0,1,0,50,2,1,0,0.0,0.0,0.1,2,0,30,41,73.2,3,30,1,0,0,Angers,2022-04-24 Clermont Foot-Angers,FRA-L1,21-22,e2a1be58
+83299cc0,Azzedine Ounahi,18,MAR,CM,22-005,89,0,0,0,0,2,0,0,0,50,1,1,0,0.1,0.1,0.0,1,0,35,38,92.1,2,39,1,5,2,Angers,2022-04-24 Clermont Foot-Angers,FRA-L1,21-22,e2a1be58
+c801616a,Thomas Mangani,5,FRA,CM,34-360,1,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,0,2,0.0,0,1,0,0,0,Angers,2022-04-24 Clermont Foot-Angers,FRA-L1,21-22,e2a1be58
+79b2399c,Pierrick Capelle,15,FRA,CM,35-009,40,0,0,0,0,1,0,0,0,25,0,1,1,0.2,0.2,0.0,2,1,11,15,73.3,2,18,0,3,2,Angers,2022-04-24 Clermont Foot-Angers,FRA-L1,21-22,e2a1be58
+e472a6f6,Batista Mendy,2,FRA,CM,22-102,50,0,0,0,0,0,0,1,0,25,3,0,1,0.0,0.0,0.1,2,1,15,19,78.9,3,17,0,0,0,Angers,2022-04-24 Clermont Foot-Angers,FRA-L1,21-22,e2a1be58
+3189f61a,Nabil Bentaleb,23,ALG,DM,27-151,90,0,0,0,0,0,0,1,0,84,2,3,2,0.0,0.0,0.0,1,0,61,71,85.9,8,56,0,1,1,Angers,2022-04-24 Clermont Foot-Angers,FRA-L1,21-22,e2a1be58
+275e2c51,Romain Thomas,24,FRA,CB,33-316,90,0,0,0,0,0,0,1,0,66,2,2,2,0.0,0.0,0.0,1,0,42,55,76.4,3,43,0,0,0,Angers,2022-04-24 Clermont Foot-Angers,FRA-L1,21-22,e2a1be58
+b666421b,Ismaël Traoré,8,CIV,CB,35-249,90,1,0,0,0,2,2,0,0,56,0,2,0,0.5,0.5,0.0,0,0,38,44,86.4,4,40,0,0,0,Angers,2022-04-24 Clermont Foot-Angers,FRA-L1,21-22,e2a1be58
+9ba7b4fa,Enzo Ebosse,6,CMR,CB,23-044,90,0,0,0,0,0,0,0,0,73,1,1,1,0.0,0.0,0.0,0,0,54,68,79.4,6,62,2,0,0,Angers,2022-04-24 Clermont Foot-Angers,FRA-L1,21-22,e2a1be58
+f7d3a773,Anthony Mandrea,16,ALG,GK,25-120,90,0,0,0,0,0,0,0,0,29,0,0,0,0.0,0.0,0.0,0,0,6,28,21.4,0,18,0,0,0,Angers,2022-04-24 Clermont Foot-Angers,FRA-L1,21-22,e2a1be58

@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+d14229f3,Adrien Hunou,23,FRA,FW,26-049,90,2,0,1,1,3,3,0,0,27,0,0,0,1.6,0.8,0.6,3,1,15,19,78.9,2,17,1,0,0,Rennes,2020-03-08 Rennes-Montpellier,FRA-L1,19-20,90e46e79
+a0f9b535,Flavien Tait,20,FRA,LW,27-035,90,1,1,0,0,2,1,0,0,59,2,0,2,0.1,0.1,0.6,8,2,35,44,79.5,4,36,6,6,5,Rennes,2020-03-08 Rennes-Montpellier,FRA-L1,19-20,90e46e79
+0be95d34,Romain Del Castillo,22,FRA,RW,23-345,75,1,0,1,1,3,1,0,0,45,1,1,0,1.4,0.7,0.3,2,0,28,32,87.5,2,31,7,1,1,Rennes,2020-03-08 Rennes-Montpellier,FRA-L1,19-20,90e46e79
+3423f250,Raphinha,7,BRA,RW,23-085,15,0,0,0,0,1,0,0,0,15,2,0,0,0.0,0.0,0.0,0,0,4,7,57.1,2,9,3,2,1,Rennes,2020-03-08 Rennes-Montpellier,FRA-L1,19-20,90e46e79
+7cf431a5,James Lea Siliki,12,CMR,LM,23-270,69,0,0,0,0,1,0,1,0,39,3,1,1,0.0,0.0,0.0,2,1,19,28,67.9,2,25,3,0,0,Rennes,2020-03-08 Rennes-Montpellier,FRA-L1,19-20,90e46e79
+20e73fac,Benjamin Bourigeaud,14,FRA,LM,26-054,21,0,0,0,0,0,0,1,0,8,1,1,0,0.0,0.0,0.0,1,1,5,5,100.0,0,3,0,0,0,Rennes,2020-03-08 Rennes-Montpellier,FRA-L1,19-20,90e46e79
+c7526c18,Steven Nzonzi,25,FRA,CM,31-084,90,0,0,0,0,0,0,0,0,78,0,1,0,0.0,0.0,0.0,1,0,68,72,94.4,4,53,0,1,1,Rennes,2020-03-08 Rennes-Montpellier,FRA-L1,19-20,90e46e79
+7b9c2d84,Eduardo Camavinga,18,FRA,RM,17-119,90,0,1,0,0,0,0,0,0,67,2,1,1,0.0,0.0,0.1,4,2,60,62,96.8,11,49,5,1,1,Rennes,2020-03-08 Rennes-Montpellier,FRA-L1,19-20,90e46e79
+e54a9890,Faitout Maouassa,17,FRA,LB,21-246,81,1,0,0,0,2,2,0,0,74,0,1,1,0.1,0.1,0.0,2,0,48,61,78.7,3,41,2,3,2,Rennes,2020-03-08 Rennes-Montpellier,FRA-L1,19-20,90e46e79
+6c8ddd52,Sacha Boey,31,FRA,LB,19-177,9,0,0,0,0,0,0,0,0,7,0,1,0,0.0,0.0,0.0,1,1,3,4,75.0,1,6,1,0,0,Rennes,2020-03-08 Rennes-Montpellier,FRA-L1,19-20,90e46e79
+1232e1dc,Joris Gnagnon,21,FRA,CB,23-055,90,0,0,0,0,0,0,0,0,59,0,1,1,0.0,0.0,0.0,0,0,50,54,92.6,5,46,0,0,0,Rennes,2020-03-08 Rennes-Montpellier,FRA-L1,19-20,90e46e79
+1ec7e1c5,Damien Da Silva,3,FRA,CB,31-296,90,0,0,0,0,0,0,0,0,72,2,1,2,0.0,0.0,0.0,0,0,56,61,91.8,0,52,0,1,1,Rennes,2020-03-08 Rennes-Montpellier,FRA-L1,19-20,90e46e79
+a4b1028a,Hamari Traoré,27,MLI,RB,28-041,90,0,1,0,0,2,0,0,0,83,1,2,2,0.1,0.1,0.1,6,2,59,69,85.5,6,55,5,2,2,Rennes,2020-03-08 Rennes-Montpellier,FRA-L1,19-20,90e46e79
+33887998,Edouard Mendy,16,SEN,GK,28-007,90,0,0,0,0,0,0,0,0,31,0,0,0,0.0,0.0,0.0,0,0,26,31,83.9,0,24,0,0,0,Rennes,2020-03-08 Rennes-Montpellier,FRA-L1,19-20,90e46e79
+d33c706e,Andy Delort,9,ALG,FW,28-151,90,0,0,0,0,5,0,0,0,33,0,0,0,0.3,0.3,0.6,2,0,17,22,77.3,2,16,2,1,0,Montpellier,2020-03-08 Rennes-Montpellier,FRA-L1,19-20,90e46e79
+7cdda3bf,Gaëtan Laborde,10,FRA,"LM,FW",25-310,90,0,0,0,0,4,1,0,0,35,1,0,1,0.6,0.6,0.1,3,0,13,17,76.5,2,18,2,4,0,Montpellier,2020-03-08 Rennes-Montpellier,FRA-L1,19-20,90e46e79
+7e82a78f,Florent Mollet,25,FRA,"FW,AM",28-110,90,0,0,0,0,1,0,0,0,47,0,0,1,0.0,0.0,0.1,4,0,32,42,76.2,4,28,1,1,1,Montpellier,2020-03-08 Rennes-Montpellier,FRA-L1,19-20,90e46e79
+6bde367b,Téji Savanier,11,FRA,"CM,RM",28-077,83,0,0,0,0,1,0,1,0,61,1,0,1,0.0,0.0,0.1,3,0,39,49,79.6,5,30,0,5,1,Montpellier,2020-03-08 Rennes-Montpellier,FRA-L1,19-20,90e46e79
+23bf644d,Yun Il-lok,24,KOR,RM,28-001,7,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,3,4,75.0,0,2,0,0,0,Montpellier,2020-03-08 Rennes-Montpellier,FRA-L1,19-20,90e46e79
+8f4d116f,Damien Le Tallec,14,FRA,CM,29-324,90,0,0,0,0,0,0,0,0,36,2,1,1,0.0,0.0,0.0,1,0,24,29,82.8,0,15,1,0,0,Montpellier,2020-03-08 Rennes-Montpellier,FRA-L1,19-20,90e46e79
+ea0aa7e0,Mihailo Ristić,26,SRB,"LB,WB",24-129,90,0,0,0,0,0,0,0,0,58,2,2,1,0.0,0.0,0.0,1,0,37,50,74.0,4,25,0,0,0,Montpellier,2020-03-08 Rennes-Montpellier,FRA-L1,19-20,90e46e79
+e9743d8a,Thibaut Vargas,23,FRA,"WB,RB,RM",19-291,62,0,0,0,0,0,0,0,0,44,3,0,0,0.0,0.0,0.1,3,0,24,30,80.0,2,16,0,3,0,Montpellier,2020-03-08 Rennes-Montpellier,FRA-L1,19-20,90e46e79
+375622c5,Jordan Ferri,12,FRA,"CM,RB",27-362,28,0,0,0,0,0,0,0,0,15,0,0,0,0.0,0.0,0.0,2,0,12,15,80.0,1,8,0,1,1,Montpellier,2020-03-08 Rennes-Montpellier,FRA-L1,19-20,90e46e79
+3f5b4635,Daniel Congré,3,FRA,"CB,RB",34-338,45,0,0,0,0,0,0,0,0,25,0,1,0,0.0,0.0,0.0,0,0,20,23,87.0,0,15,0,1,1,Montpellier,2020-03-08 Rennes-Montpellier,FRA-L1,19-20,90e46e79
+24eb7ed6,Junior Sambia,6,FRA,"RB,RM",23-183,45,0,0,0,0,0,0,1,0,17,0,3,0,0.0,0.0,0.0,0,0,12,13,92.3,2,11,2,4,4,Montpellier,2020-03-08 Rennes-Montpellier,FRA-L1,19-20,90e46e79
+c4bbea9f,Vitorino Hilton,4,BRA,CB,42-177,90,0,0,0,0,0,0,0,0,68,0,0,0,0.0,0.0,0.0,2,0,55,62,88.7,2,40,3,0,0,Montpellier,2020-03-08 Rennes-Montpellier,FRA-L1,19-20,90e46e79
+6690ef25,Pedro Mendes,5,POR,CB,29-159,90,0,0,0,0,0,0,1,0,72,0,3,1,0.0,0.0,0.0,0,0,52,60,86.7,6,43,0,0,0,Montpellier,2020-03-08 Rennes-Montpellier,FRA-L1,19-20,90e46e79
+625c144a,Gerónimo Rulli,1,ARG,GK,27-293,90,0,0,0,0,0,0,0,0,49,0,0,0,0.0,0.0,0.0,0,0,40,45,88.9,0,24,0,0,0,Montpellier,2020-03-08 Rennes-Montpellier,FRA-L1,19-20,90e46e79

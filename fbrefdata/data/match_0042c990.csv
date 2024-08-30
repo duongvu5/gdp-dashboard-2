@@ -1,0 +1,32 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+7a42d0df,Florian Sotoca,7,FRA,FW,30-101,90,1,0,0,0,7,1,0,0,47,1,0,0,0.6,0.6,0.0,2,0,24,37,64.9,6,33,1,1,1,Lens,2021-02-03 Lens-Marseille,FRA-L1,20-21,0042c990
+be47b750,Simon Banza,23,COD,FW,24-174,81,0,1,0,0,2,0,0,0,32,1,1,1,0.1,0.1,0.1,1,1,16,18,88.9,1,17,0,2,1,Lens,2021-02-03 Lens-Marseille,FRA-L1,20-21,0042c990
+7d9b37bf,Corentin Jean,25,FRA,FW,25-203,9,0,0,0,0,2,0,1,0,6,0,0,0,0.1,0.1,0.0,0,0,1,3,33.3,0,5,0,0,0,Lens,2021-02-03 Lens-Marseille,FRA-L1,20-21,0042c990
+5b1bf5e3,Gaël Kakuta,10,COD,AM,29-227,81,0,0,0,0,1,0,0,0,51,1,1,0,0.0,0.0,0.1,2,0,32,40,80.0,5,34,0,1,0,Lens,2021-02-03 Lens-Marseille,FRA-L1,20-21,0042c990
+96e5168e,Tony Mauricio,22,FRA,AM,26-318,9,0,0,0,0,1,0,0,0,10,0,0,0,0.0,0.0,0.0,3,0,6,9,66.7,1,4,0,0,0,Lens,2021-02-03 Lens-Marseille,FRA-L1,20-21,0042c990
+5313ed43,Seko Fofana,8,CIV,CM,25-272,90,0,0,0,0,3,0,1,0,69,0,4,1,0.1,0.1,0.1,7,0,43,52,82.7,5,50,4,5,2,Lens,2021-02-03 Lens-Marseille,FRA-L1,20-21,0042c990
+ce4f40c7,Cheick Doucouré,28,MLI,CM,21-026,90,0,0,0,0,2,0,1,0,65,3,0,0,0.0,0.0,0.0,5,1,48,55,87.3,9,40,1,0,0,Lens,2021-02-03 Lens-Marseille,FRA-L1,20-21,0042c990
+5167c97e,Massadio Haïdara,21,MLI,WB,28-063,90,0,0,0,0,0,0,0,0,64,4,2,1,0.0,0.0,0.1,2,0,44,53,83.0,1,32,4,1,0,Lens,2021-02-03 Lens-Marseille,FRA-L1,20-21,0042c990
+5219ab4a,Jonathan Clauss,11,FRA,WB,28-131,90,0,1,0,0,1,1,0,0,67,1,1,0,0.0,0.0,0.4,5,1,45,61,73.8,5,38,5,1,1,Lens,2021-02-03 Lens-Marseille,FRA-L1,20-21,0042c990
+6f5ec8bb,Facundo Medina,14,ARG,CB,21-251,90,1,0,0,0,1,1,1,0,102,1,1,7,0.2,0.2,0.1,4,0,72,87,82.8,7,71,1,1,1,Lens,2021-02-03 Lens-Marseille,FRA-L1,20-21,0042c990
+574aa9ec,Steven Fortes,15,CPV,CB,28-292,81,0,0,0,0,0,0,0,0,65,1,1,1,0.0,0.0,0.0,1,0,53,61,86.9,7,45,0,0,0,Lens,2021-02-03 Lens-Marseille,FRA-L1,20-21,0042c990
+114bbdee,Loïc Bade,4,FRA,CB,20-298,9,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,6,8,75.0,1,6,0,0,0,Lens,2021-02-03 Lens-Marseille,FRA-L1,20-21,0042c990
+cb9ec45d,Clément Michelin,13,FRA,CB,23-268,45,0,0,0,0,0,0,0,0,36,1,1,0,0.0,0.0,0.0,0,0,28,33,84.8,1,26,0,0,0,Lens,2021-02-03 Lens-Marseille,FRA-L1,20-21,0042c990
+bf4c41f9,Arnaud Kalimuendo,29,FRA,CB,19-014,45,0,0,0,0,1,0,0,0,17,0,0,1,0.0,0.0,0.1,4,1,11,13,84.6,0,14,3,1,0,Lens,2021-02-03 Lens-Marseille,FRA-L1,20-21,0042c990
+edbe46dc,Jean-Louis Leca,16,FRA,GK,35-135,90,0,0,0,0,0,0,0,0,34,0,0,0,0.0,0.0,0.0,0,0,24,34,70.6,0,17,0,0,0,Lens,2021-02-03 Lens-Marseille,FRA-L1,20-21,0042c990
+ea0ff634,Valère Germain,28,FRA,FW,30-292,90,0,0,0,0,1,0,0,0,30,1,0,2,0.1,0.1,0.1,2,0,17,22,77.3,1,15,0,1,0,Marseille,2021-02-03 Lens-Marseille,FRA-L1,20-21,0042c990
+85613cf0,Arkadiusz Milik,19,POL,FW,26-341,59,1,0,0,0,4,2,0,0,25,1,0,0,0.8,0.8,0.3,3,0,14,17,82.4,1,17,1,1,1,Marseille,2021-02-03 Lens-Marseille,FRA-L1,20-21,0042c990
+bef0a7ac,Darío Benedetto,9,ARG,FW,30-262,31,0,0,0,0,0,0,0,0,14,0,0,0,0.0,0.0,0.0,0,0,9,12,75.0,1,9,0,0,0,Marseille,2021-02-03 Lens-Marseille,FRA-L1,20-21,0042c990
+58ae47b2,Dimitri Payet,10,FRA,LM,33-311,90,0,0,0,0,0,0,0,0,57,2,0,0,0.0,0.0,0.1,5,0,29,48,60.4,6,44,1,3,2,Marseille,2021-02-03 Lens-Marseille,FRA-L1,20-21,0042c990
+42dcf26d,Álvaro González,3,ESP,CM,31-026,90,0,2,0,0,1,0,1,0,50,1,4,3,0.1,0.1,0.8,3,2,22,34,64.7,1,20,0,0,0,Marseille,2021-02-03 Lens-Marseille,FRA-L1,20-21,0042c990
+cc77354e,Boubacar Kamara,4,FRA,CM,21-072,80,0,0,0,0,2,1,0,0,47,3,0,0,0.1,0.1,0.0,0,0,29,38,76.3,2,27,2,2,0,Marseille,2021-02-03 Lens-Marseille,FRA-L1,20-21,0042c990
+39c0c75b,Cheick Souaré,34,FRA,CM,18-153,10,0,0,0,0,0,0,0,0,6,0,1,1,0.0,0.0,0.0,0,0,2,3,66.7,0,2,0,0,0,Marseille,2021-02-03 Lens-Marseille,FRA-L1,20-21,0042c990
+2b9fdeea,Florian Thauvin,26,FRA,RM,28-008,88,1,0,0,0,2,1,0,0,45,3,3,0,0.4,0.4,0.1,2,0,21,34,61.8,4,31,1,0,0,Marseille,2021-02-03 Lens-Marseille,FRA-L1,20-21,0042c990
+f36d5624,Luis Henrique,11,BRA,RM,19-051,2,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,1,0,0,0,Marseille,2021-02-03 Lens-Marseille,FRA-L1,20-21,0042c990
+d63e2912,Hiroki Sakai,2,JPN,"LB,RB",30-297,90,0,0,0,0,0,0,0,0,34,1,2,0,0.0,0.0,0.0,0,0,19,27,70.4,0,14,1,2,2,Marseille,2021-02-03 Lens-Marseille,FRA-L1,20-21,0042c990
+94f8d10c,Duje Ćaleta-Car,15,CRO,CB,24-139,90,0,0,0,0,0,0,0,0,36,1,0,0,0.0,0.0,0.0,0,0,23,30,76.7,2,17,0,0,0,Marseille,2021-02-03 Lens-Marseille,FRA-L1,20-21,0042c990
+49070d66,Lucas Perrin,32,FRA,CB,22-076,90,0,0,0,0,1,0,0,0,34,2,4,0,0.1,0.1,0.0,0,0,18,21,85.7,1,16,0,0,0,Marseille,2021-02-03 Lens-Marseille,FRA-L1,20-21,0042c990
+ff800ed8,Pol Lirola,29,ESP,RB,23-174,80,0,0,0,0,0,0,1,0,61,0,5,0,0.0,0.0,0.0,0,0,36,50,72.0,2,28,2,2,0,Marseille,2021-02-03 Lens-Marseille,FRA-L1,20-21,0042c990
+4b6960d2,Yuto Nagatomo,25,JPN,"LB,RB",34-144,10,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,4,4,100.0,0,2,0,0,0,Marseille,2021-02-03 Lens-Marseille,FRA-L1,20-21,0042c990
+1d2d5cc8,Steve Mandanda,30,FRA,GK,35-312,90,0,0,0,0,0,0,0,0,34,0,0,0,0.0,0.0,0.0,0,0,13,33,39.4,0,16,0,0,0,Marseille,2021-02-03 Lens-Marseille,FRA-L1,20-21,0042c990

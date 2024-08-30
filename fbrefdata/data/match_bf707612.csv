@@ -1,0 +1,32 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+e5bf73f3,Musa Barrow,99,GAM,FW,23-148,59,0,0,0,0,4,0,0,0,51,0,0,3,0.1,0.1,0.1,2,0,24,35,68.6,2,35,3,6,2,Bologna,2022-04-11 Bologna-Sampdoria,ITA-SERIA_A,21-22,bf707612
+7eb97a8e,Nicola Sansone,10,ITA,FW,30-213,31,0,0,0,0,3,0,0,0,24,1,0,0,0.8,0.8,0.2,4,0,14,18,77.8,3,15,5,2,2,Bologna,2022-04-11 Bologna-Sampdoria,ITA-SERIA_A,21-22,bf707612
+00459419,Marko Arnautović,9,AUT,FW,32-357,90,2,0,0,0,6,3,0,0,38,1,0,0,1.2,1.2,0.7,8,1,26,32,81.3,3,24,3,1,1,Bologna,2022-04-11 Bologna-Sampdoria,ITA-SERIA_A,21-22,bf707612
+92d83c27,Mattias Svanberg,32,SWE,CM,23-096,45,0,0,0,0,0,0,1,0,23,0,0,0,0.0,0.0,0.0,0,0,16,20,80.0,0,13,0,2,2,Bologna,2022-04-11 Bologna-Sampdoria,ITA-SERIA_A,21-22,bf707612
+9d4c45d6,Roberto Soriano,21,ITA,CM,31-062,45,0,0,0,0,0,0,0,0,31,0,0,0,0.0,0.0,0.0,3,1,21,27,77.8,3,18,0,2,1,Bologna,2022-04-11 Bologna-Sampdoria,ITA-SERIA_A,21-22,bf707612
+2cfae697,Jerdy Schouten,30,NED,CM,25-089,90,0,0,0,0,0,0,0,0,59,0,1,1,0.0,0.0,0.0,3,0,39,52,75.0,2,34,0,0,0,Bologna,2022-04-11 Bologna-Sampdoria,ITA-SERIA_A,21-22,bf707612
+f9c927de,Michel Aebischer,20,SUI,CM,25-095,59,0,0,0,0,0,0,0,0,42,0,2,0,0.0,0.0,0.1,1,0,32,33,97.0,3,22,0,1,0,Bologna,2022-04-11 Bologna-Sampdoria,ITA-SERIA_A,21-22,bf707612
+20b3a502,Nicolás Domínguez,8,ARG,CM,23-287,31,0,0,0,0,2,1,0,0,22,3,1,2,0.1,0.1,0.0,3,1,9,11,81.8,1,12,0,0,0,Bologna,2022-04-11 Bologna-Sampdoria,ITA-SERIA_A,21-22,bf707612
+0a3065c8,Mitchell Dijks,35,NED,WB,29-061,90,0,2,0,0,1,0,0,0,70,1,0,1,0.0,0.0,0.8,2,0,45,62,72.6,6,43,5,3,1,Bologna,2022-04-11 Bologna-Sampdoria,ITA-SERIA_A,21-22,bf707612
+1780bb4a,Aaron Hickey,3,SCO,WB,19-305,90,0,0,0,0,1,0,0,0,58,1,1,1,0.1,0.1,0.0,4,1,39,52,75.0,4,43,3,1,1,Bologna,2022-04-11 Bologna-Sampdoria,ITA-SERIA_A,21-22,bf707612
+df8d6029,Arthur Theate,6,BEL,CB,21-321,90,0,0,0,0,2,0,0,0,67,2,2,0,0.1,0.1,0.3,3,0,51,58,87.9,4,44,1,1,1,Bologna,2022-04-11 Bologna-Sampdoria,ITA-SERIA_A,21-22,bf707612
+563a68ad,Gary Medel,17,CHI,CB,34-251,73,0,0,0,0,0,0,0,0,67,1,2,2,0.0,0.0,0.0,1,0,51,58,87.9,0,40,1,0,0,Bologna,2022-04-11 Bologna-Sampdoria,ITA-SERIA_A,21-22,bf707612
+fb77bfef,Kevin Bonifazi,4,ITA,CB,25-327,17,0,0,0,0,0,0,0,0,13,1,0,0,0.0,0.0,0.0,0,0,9,12,75.0,0,10,0,0,0,Bologna,2022-04-11 Bologna-Sampdoria,ITA-SERIA_A,21-22,bf707612
+7b075c75,Adama Soumaoro,5,FRA,CB,29-297,90,0,0,0,0,0,0,0,0,48,0,2,0,0.0,0.0,0.0,0,0,37,43,86.0,2,28,0,0,0,Bologna,2022-04-11 Bologna-Sampdoria,ITA-SERIA_A,21-22,bf707612
+ab4449d6,Łukasz Skorupski,28,POL,GK,30-341,90,0,0,0,0,0,0,0,0,32,0,0,0,0.0,0.0,0.0,0,0,27,31,87.1,0,17,0,0,0,Bologna,2022-04-11 Bologna-Sampdoria,ITA-SERIA_A,21-22,bf707612
+5bd72174,Francesco Caputo,10,ITA,FW,34-248,90,0,0,0,0,2,1,0,0,28,0,0,0,0.5,0.5,0.1,2,0,18,18,100.0,1,14,0,0,0,Sampdoria,2022-04-11 Bologna-Sampdoria,ITA-SERIA_A,21-22,bf707612
+4830e0af,Abdelhamid Sabiri,11,MAR,"FW,AM",25-134,90,0,0,0,0,1,0,1,0,57,3,1,1,0.0,0.0,0.0,2,0,33,44,75.0,5,33,1,4,3,Sampdoria,2022-04-11 Bologna-Sampdoria,ITA-SERIA_A,21-22,bf707612
+d1b49282,Morten Thorsby,2,NOR,LM,25-341,90,0,0,0,0,1,0,0,0,59,1,1,3,0.1,0.1,0.0,1,0,39,48,81.3,3,22,0,1,0,Sampdoria,2022-04-11 Bologna-Sampdoria,ITA-SERIA_A,21-22,bf707612
+b70bde8f,Stefano Sensi,5,ITA,CM,26-249,90,0,0,0,0,2,0,0,0,77,1,0,0,0.1,0.1,0.0,0,0,59,67,88.1,5,51,4,2,2,Sampdoria,2022-04-11 Bologna-Sampdoria,ITA-SERIA_A,21-22,bf707612
+356c9002,Antonio Candreva,87,ITA,RM,35-042,79,0,0,0,0,1,0,0,0,64,2,0,1,0.0,0.0,0.0,1,0,44,54,81.5,9,36,2,0,0,Sampdoria,2022-04-11 Bologna-Sampdoria,ITA-SERIA_A,21-22,bf707612
+75e60d75,Ronaldo Vieira,14,ENG,RM,23-266,11,0,0,0,0,0,0,0,0,18,1,0,1,0.0,0.0,0.0,1,0,15,16,93.8,2,12,3,0,0,Sampdoria,2022-04-11 Bologna-Sampdoria,ITA-SERIA_A,21-22,bf707612
+f1cfc209,Tomás Rincón,88,VEN,DM,34-088,66,0,0,0,0,0,0,0,0,39,3,2,3,0.0,0.0,0.0,0,0,22,29,75.9,1,15,0,0,0,Sampdoria,2022-04-11 Bologna-Sampdoria,ITA-SERIA_A,21-22,bf707612
+ee4f2f3b,Fabio Quagliarella,27,ITA,FW,39-070,24,0,0,0,0,2,1,0,0,20,0,0,1,0.1,0.1,0.1,3,0,9,14,64.3,0,16,1,2,2,Sampdoria,2022-04-11 Bologna-Sampdoria,ITA-SERIA_A,21-22,bf707612
+d183e9d6,Nicola Murru,29,ITA,LB,27-116,79,0,0,0,0,0,0,0,0,41,4,1,1,0.0,0.0,0.0,2,0,25,32,78.1,2,18,3,0,0,Sampdoria,2022-04-11 Bologna-Sampdoria,ITA-SERIA_A,21-22,bf707612
+3cd3b384,Tommaso Augello,3,ITA,LB,27-224,11,0,0,0,0,0,0,0,0,8,1,0,0,0.0,0.0,0.0,0,0,4,7,57.1,1,4,0,0,0,Sampdoria,2022-04-11 Bologna-Sampdoria,ITA-SERIA_A,21-22,bf707612
+8b95acda,Omar Colley,15,GAM,CB,29-169,90,0,0,0,0,0,0,0,0,55,0,3,4,0.0,0.0,0.0,0,0,41,46,89.1,5,31,0,0,0,Sampdoria,2022-04-11 Bologna-Sampdoria,ITA-SERIA_A,21-22,bf707612
+d0dbca9f,Alex Ferrari,25,ITA,CB,27-284,58,0,0,0,0,0,0,1,0,32,3,1,3,0.0,0.0,0.0,1,0,18,21,85.7,1,13,0,1,1,Sampdoria,2022-04-11 Bologna-Sampdoria,ITA-SERIA_A,21-22,bf707612
+caffaf5a,Maya Yoshida,22,JPN,CB,33-230,32,0,0,0,0,0,0,0,0,18,0,1,0,0.0,0.0,0.0,1,0,15,15,100.0,1,9,0,0,0,Sampdoria,2022-04-11 Bologna-Sampdoria,ITA-SERIA_A,21-22,bf707612
+61b3978f,Bartosz Bereszyński,24,POL,RB,29-273,90,0,0,0,0,0,0,0,0,57,1,3,1,0.0,0.0,0.0,1,0,39,46,84.8,0,32,0,2,1,Sampdoria,2022-04-11 Bologna-Sampdoria,ITA-SERIA_A,21-22,bf707612
+649b01d8,Emil Audero,1,ITA,GK,25-083,90,0,0,0,0,0,0,0,0,41,0,0,0,0.0,0.0,0.5,1,0,20,38,52.6,0,26,0,0,0,Sampdoria,2022-04-11 Bologna-Sampdoria,ITA-SERIA_A,21-22,bf707612

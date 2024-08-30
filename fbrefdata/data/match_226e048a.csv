@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+21f8d950,Efthimis Koulouris,20,GRE,FW,23-203,76,0,0,0,0,1,0,0,0,26,0,0,1,0.0,0.0,0.0,0,0,16,21,76.2,3,12,1,0,0,Toulouse,2019-09-25 Toulouse-Angers,FRA-L1,19-20,226e048a
+29ef0f49,Aaron Leya Iseka,10,BEL,FW,21-314,14,0,0,0,0,1,1,0,0,4,0,0,0,0.1,0.1,0.0,1,0,3,3,100.0,0,2,1,0,0,Toulouse,2019-09-25 Toulouse-Angers,FRA-L1,19-20,226e048a
+f6496133,Quentin Boisgard,11,FRA,LW,22-192,65,0,0,0,0,0,0,0,0,35,1,1,1,0.0,0.0,0.0,0,0,23,27,85.2,1,18,0,0,0,Toulouse,2019-09-25 Toulouse-Angers,FRA-L1,19-20,226e048a
+c5a500ca,Max Gradel,7,CIV,LW,31-299,25,0,0,0,0,1,0,1,0,11,1,0,0,0.1,0.1,0.1,1,0,5,8,62.5,2,7,1,3,3,Toulouse,2019-09-25 Toulouse-Angers,FRA-L1,19-20,226e048a
+6421dd73,Mathieu Dossevi,14,TOG,RW,31-225,90,0,0,0,0,1,0,0,0,41,1,2,1,0.1,0.1,0.0,1,0,16,30,53.3,1,17,3,2,2,Toulouse,2019-09-25 Toulouse-Angers,FRA-L1,19-20,226e048a
+90fcf472,Wesley Saïd,25,FRA,LM,24-159,90,0,0,0,0,0,0,0,0,52,0,1,0,0.0,0.0,0.0,2,0,31,38,81.6,2,26,0,3,2,Toulouse,2019-09-25 Toulouse-Angers,FRA-L1,19-20,226e048a
+92cd4bef,William Vainqueur,21,FRA,CM,30-310,90,0,0,0,0,1,0,0,0,86,5,2,3,0.0,0.0,0.0,0,0,62,69,89.9,1,42,1,1,0,Toulouse,2019-09-25 Toulouse-Angers,FRA-L1,19-20,226e048a
+bced0375,Ibrahim Sangaré,17,CIV,RM,21-297,90,0,0,0,0,0,0,0,0,74,1,1,3,0.0,0.0,0.0,0,0,43,55,78.2,12,30,2,1,1,Toulouse,2019-09-25 Toulouse-Angers,FRA-L1,19-20,226e048a
+b99bec05,Issiaga Sylla,12,GUI,LB,25-267,90,0,0,0,0,1,0,0,0,86,3,2,2,0.0,0.0,0.0,2,0,54,73,74.0,5,41,5,0,0,Toulouse,2019-09-25 Toulouse-Angers,FRA-L1,19-20,226e048a
+14e8e9d7,Nicolas Isimat-Mirin,15,FRA,CB,27-314,90,0,0,0,0,0,0,0,0,81,0,1,1,0.0,0.0,0.1,1,0,58,67,86.6,7,42,3,1,1,Toulouse,2019-09-25 Toulouse-Angers,FRA-L1,19-20,226e048a
+8b28686a,Gen Shoji,3,JPN,CB,26-288,45,0,0,0,0,0,0,0,0,44,2,0,0,0.0,0.0,0.0,1,0,35,41,85.4,10,28,2,0,0,Toulouse,2019-09-25 Toulouse-Angers,FRA-L1,19-20,226e048a
+bcc81786,Kelvin Amian,2,FRA,CB,21-229,45,0,0,0,0,0,0,0,0,36,0,1,0,0.0,0.0,0.0,0,0,28,33,84.8,2,28,3,2,2,Toulouse,2019-09-25 Toulouse-Angers,FRA-L1,19-20,226e048a
+f10983ae,Steven Moreira,5,CPV,RB,25-043,90,0,0,0,0,0,0,0,0,62,1,0,0,0.0,0.0,0.0,2,0,46,58,79.3,3,23,4,0,0,Toulouse,2019-09-25 Toulouse-Angers,FRA-L1,19-20,226e048a
+bcf1b2e9,Baptiste Reynet,30,FRA,GK,28-332,90,0,0,0,0,0,0,0,0,41,0,0,0,0.0,0.0,0.0,0,0,28,38,73.7,0,19,0,0,0,Toulouse,2019-09-25 Toulouse-Angers,FRA-L1,19-20,226e048a
+5046b7d4,Stéphane Bahoken,19,CMR,FW,27-120,61,0,0,0,0,2,1,0,0,22,0,0,0,0.1,0.1,0.1,3,0,15,18,83.3,1,15,1,0,0,Angers,2019-09-25 Toulouse-Angers,FRA-L1,19-20,226e048a
+bdedd861,Rachid Alioui,7,MAR,FW,27-099,29,2,0,0,0,3,2,0,0,16,0,0,0,0.5,0.5,0.0,3,0,8,9,88.9,1,5,1,0,0,Angers,2019-09-25 Toulouse-Angers,FRA-L1,19-20,226e048a
+91f2da4c,Casimir Ninga,21,CHA,"LW,LM",26-131,90,0,1,0,0,5,1,0,0,45,1,2,0,0.4,0.4,0.6,11,2,25,29,86.2,3,34,7,5,3,Angers,2019-09-25 Toulouse-Angers,FRA-L1,19-20,226e048a
+4b96c347,Angelo Fulgini,10,FRA,RW,23-036,68,0,0,0,0,0,0,0,0,48,1,1,0,0.0,0.0,0.2,4,0,25,40,62.5,3,22,1,1,1,Angers,2019-09-25 Toulouse-Angers,FRA-L1,19-20,226e048a
+79b2399c,Pierrick Capelle,15,FRA,RM,32-163,22,0,0,0,0,1,1,0,0,14,1,0,0,0.0,0.0,0.1,1,0,6,9,66.7,1,12,0,0,0,Angers,2019-09-25 Toulouse-Angers,FRA-L1,19-20,226e048a
+7d937aa1,Antonin Bobichon,23,FRA,"LM,CM",24-011,80,0,0,0,0,5,1,0,0,55,1,2,1,0.1,0.1,0.1,6,0,32,42,76.2,10,28,1,0,0,Angers,2019-09-25 Toulouse-Angers,FRA-L1,19-20,226e048a
+f86ca403,Vincent Pajot,6,FRA,CM,29-037,10,0,0,0,0,0,0,0,0,1,0,1,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Angers,2019-09-25 Toulouse-Angers,FRA-L1,19-20,226e048a
+5e22e2a4,Baptiste Santamaria,18,FRA,"CM,DM",24-200,90,0,0,0,0,1,0,0,0,48,1,0,1,0.0,0.0,0.0,1,0,28,39,71.8,6,20,2,1,0,Angers,2019-09-25 Toulouse-Angers,FRA-L1,19-20,226e048a
+8846a40f,Mathias Pereira Lage,27,POR,"RM,CM",22-299,90,0,0,0,0,4,0,0,0,50,3,2,1,0.3,0.3,0.0,3,1,23,33,69.7,2,23,2,0,0,Angers,2019-09-25 Toulouse-Angers,FRA-L1,19-20,226e048a
+97fb4608,Théo Pellenard,26,FRA,LB,25-205,90,0,0,0,0,0,0,0,0,60,1,2,2,0.0,0.0,0.1,2,0,34,50,68.0,4,25,1,1,1,Angers,2019-09-25 Toulouse-Angers,FRA-L1,19-20,226e048a
+275e2c51,Romain Thomas,24,FRA,CB,31-105,90,0,0,0,0,0,0,0,0,46,3,1,0,0.0,0.0,0.0,1,1,28,32,87.5,1,17,0,0,0,Angers,2019-09-25 Toulouse-Angers,FRA-L1,19-20,226e048a
+450e277f,Mateo Pavlović,4,BIH,CB,29-108,90,0,0,0,0,1,0,0,0,45,1,0,0,0.1,0.1,0.0,1,0,29,37,78.4,2,17,0,0,0,Angers,2019-09-25 Toulouse-Angers,FRA-L1,19-20,226e048a
+c26a3918,Vincent Manceau,29,FRA,RB,30-077,90,0,0,0,0,0,0,0,0,76,0,1,2,0.0,0.0,0.1,1,0,50,63,79.4,10,25,0,1,0,Angers,2019-09-25 Toulouse-Angers,FRA-L1,19-20,226e048a
+26975a92,Ludovic Butelle,16,FRA,GK,36-175,90,0,0,0,0,0,0,0,0,31,0,0,0,0.0,0.0,0.1,2,0,21,29,72.4,0,14,0,0,0,Angers,2019-09-25 Toulouse-Angers,FRA-L1,19-20,226e048a

@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+603cb947,Andrej Kramarić,27,CRO,"FW,LM",30-315,90,1,1,0,0,4,2,0,0,59,0,1,1,0.5,0.5,0.2,4,1,32,47,68.1,4,35,0,0,0,Hoffenheim,2022-04-30 Hoffenheim-Freiburg,GER-BL1,21-22,c7076c62
+eac044ad,Moanes Dabbur,10,ISR,LW,29-351,64,0,0,0,0,3,0,0,0,37,2,1,0,0.3,0.3,0.2,4,0,17,27,63.0,3,23,1,4,3,Hoffenheim,2022-04-30 Hoffenheim-Freiburg,GER-BL1,21-22,c7076c62
+c64c01fc,Georginio Rutter,33,FRA,"FW,LW",20-010,26,0,0,0,0,2,1,0,0,9,0,0,0,0.2,0.2,0.0,3,1,5,7,71.4,1,6,2,2,2,Hoffenheim,2022-04-30 Hoffenheim-Freiburg,GER-BL1,21-22,c7076c62
+a53b661f,Ihlas Bebou,9,TOG,"RW,LW",28-007,90,0,0,0,0,2,0,0,0,35,1,0,1,0.1,0.1,0.0,1,0,18,22,81.8,1,24,2,2,1,Hoffenheim,2022-04-30 Hoffenheim-Freiburg,GER-BL1,21-22,c7076c62
+3b1ed320,Angelo Stiller,13,GER,"LM,CM",21-026,90,1,0,0,0,1,1,0,0,74,4,0,2,0.1,0.1,0.1,4,0,55,64,85.9,9,42,0,0,0,Hoffenheim,2022-04-30 Hoffenheim-Freiburg,GER-BL1,21-22,c7076c62
+08593525,Diadie Samassékou,18,MLI,CM,26-109,70,0,0,0,0,0,0,1,0,45,1,1,1,0.0,0.0,0.0,2,1,23,36,63.9,1,24,1,1,0,Hoffenheim,2022-04-30 Hoffenheim-Freiburg,GER-BL1,21-22,c7076c62
+ff98492b,Robert Skov,29,DEN,"RW,CM",25-345,20,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.1,1,0,3,6,50.0,1,5,0,0,0,Hoffenheim,2022-04-30 Hoffenheim-Freiburg,GER-BL1,21-22,c7076c62
+437f2b00,Christoph Baumgartner,14,AUT,RM,22-272,64,0,0,0,0,2,0,0,0,37,2,0,2,0.2,0.2,0.0,1,0,18,27,66.7,3,26,2,1,0,Hoffenheim,2022-04-30 Hoffenheim-Freiburg,GER-BL1,21-22,c7076c62
+80f36c88,Sebastian Rudy,16,GER,RM,32-061,26,1,0,0,0,4,2,0,0,18,0,0,1,0.5,0.5,0.0,0,0,11,13,84.6,3,14,0,0,0,Hoffenheim,2022-04-30 Hoffenheim-Freiburg,GER-BL1,21-22,c7076c62
+7d450ed3,David Raum,17,GER,LB,24-008,90,0,2,0,0,0,0,0,0,78,3,1,1,0.0,0.0,1.0,8,3,47,73,64.4,4,39,2,0,0,Hoffenheim,2022-04-30 Hoffenheim-Freiburg,GER-BL1,21-22,c7076c62
+1d8e9add,Kevin Vogt,22,GER,CB,30-219,90,0,0,0,0,0,0,0,0,85,0,0,0,0.0,0.0,0.0,1,0,66,80,82.5,5,58,0,0,0,Hoffenheim,2022-04-30 Hoffenheim-Freiburg,GER-BL1,21-22,c7076c62
+6ec6fde0,Kevin Akpoguma,25,NGA,CB,27-011,88,0,0,0,0,0,0,0,0,66,2,1,0,0.0,0.0,0.0,1,0,48,57,84.2,3,51,1,1,0,Hoffenheim,2022-04-30 Hoffenheim-Freiburg,GER-BL1,21-22,c7076c62
+93a50d2c,Kasim Nuhu,15,GHA,CB,26-312,2,0,0,0,0,1,1,0,0,5,0,0,0,0.1,0.1,0.0,1,0,3,4,75.0,0,5,0,0,0,Hoffenheim,2022-04-30 Hoffenheim-Freiburg,GER-BL1,21-22,c7076c62
+79c90e45,Pavel Kadeřábek,3,CZE,RB,30-005,88,0,0,0,0,0,0,0,0,57,1,3,3,0.0,0.0,0.0,2,0,39,47,83.0,2,30,2,1,0,Hoffenheim,2022-04-30 Hoffenheim-Freiburg,GER-BL1,21-22,c7076c62
+4e204552,Jacob Bruun Larsen,7,DEN,RB,23-223,2,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,0,0,0,0,Hoffenheim,2022-04-30 Hoffenheim-Freiburg,GER-BL1,21-22,c7076c62
+47064058,Oliver Baumann,1,GER,GK,31-332,90,0,0,0,0,0,0,0,0,41,0,0,0,0.0,0.0,0.0,0,0,36,40,90.0,0,29,0,0,0,Hoffenheim,2022-04-30 Hoffenheim-Freiburg,GER-BL1,21-22,c7076c62
+ca618d23,Lucas Höler,9,GER,FW,27-294,70,1,1,0,0,2,1,0,0,31,3,0,0,1.2,1.2,0.4,2,1,9,17,52.9,2,11,1,1,0,Freiburg,2022-04-30 Hoffenheim-Freiburg,GER-BL1,21-22,c7076c62
+ed79b7d3,Ermedin Demirović,11,BIH,FW,24-036,20,0,0,0,0,1,0,0,0,9,1,0,0,0.1,0.1,0.0,0,0,3,5,60.0,0,3,0,1,1,Freiburg,2022-04-30 Hoffenheim-Freiburg,GER-BL1,21-22,c7076c62
+54e4866f,Vincenzo Grifo,32,ITA,"AM,LM",29-023,87,0,1,0,0,2,1,0,0,44,1,0,0,0.1,0.1,0.1,4,1,18,36,50.0,0,18,2,1,1,Freiburg,2022-04-30 Hoffenheim-Freiburg,GER-BL1,21-22,c7076c62
+088ca1bd,Jonathan Schmid,7,FRA,LM,31-312,3,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,3,4,75.0,1,1,0,0,0,Freiburg,2022-04-30 Hoffenheim-Freiburg,GER-BL1,21-22,c7076c62
+bf075f6b,Roland Sallai,22,HUN,"AM,RM",24-343,70,1,0,0,0,3,1,0,0,19,0,0,1,0.4,0.4,0.4,2,1,5,9,55.6,0,16,0,1,0,Freiburg,2022-04-30 Hoffenheim-Freiburg,GER-BL1,21-22,c7076c62
+6190474d,Jeong Woo-yeong,29,KOR,RM,22-222,20,1,0,0,0,1,1,0,0,14,1,2,0,0.6,0.6,0.0,1,1,7,8,87.5,1,9,0,1,1,Freiburg,2022-04-30 Hoffenheim-Freiburg,GER-BL1,21-22,c7076c62
+5d8e331f,Nicolas Höfler,27,GER,CM,32-052,90,0,0,0,0,0,0,0,0,42,4,3,1,0.0,0.0,0.0,2,0,24,30,80.0,5,18,0,0,0,Freiburg,2022-04-30 Hoffenheim-Freiburg,GER-BL1,21-22,c7076c62
+beb882a8,Maximilian Eggestein,8,GER,CM,25-143,90,0,0,0,0,0,0,0,0,35,0,1,0,0.0,0.0,0.0,2,1,25,31,80.6,1,17,1,0,0,Freiburg,2022-04-30 Hoffenheim-Freiburg,GER-BL1,21-22,c7076c62
+8593f88c,Christian Günter,30,GER,"LB,WB",29-061,90,1,1,0,0,1,1,0,0,50,3,1,1,0.0,0.0,0.8,2,1,29,39,74.4,5,17,0,1,0,Freiburg,2022-04-30 Hoffenheim-Freiburg,GER-BL1,21-22,c7076c62
+2a29eb9b,Lukas Kübler,17,GER,"RB,WB",29-243,89,0,0,0,0,0,0,0,0,64,2,3,0,0.0,0.0,0.0,1,0,41,54,75.9,7,18,1,1,0,Freiburg,2022-04-30 Hoffenheim-Freiburg,GER-BL1,21-22,c7076c62
+313254a3,Kiliann Sildillia,25,FRA,RB,19-349,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Freiburg,2022-04-30 Hoffenheim-Freiburg,GER-BL1,21-22,c7076c62
+34e12499,Nico Schlotterbeck,4,GER,CB,22-150,90,0,1,0,0,1,0,0,0,74,6,1,3,0.1,0.1,0.6,2,1,40,54,74.1,5,35,2,3,2,Freiburg,2022-04-30 Hoffenheim-Freiburg,GER-BL1,21-22,c7076c62
+302527b2,Philipp Lienhart,3,AUT,CB,25-293,90,0,0,0,0,0,0,0,0,55,1,2,3,0.0,0.0,0.0,0,0,24,36,66.7,1,26,1,0,0,Freiburg,2022-04-30 Hoffenheim-Freiburg,GER-BL1,21-22,c7076c62
+25ab9c9c,Manuel Gulde,5,GER,CB,31-077,45,0,0,0,0,0,0,0,0,34,1,3,3,0.0,0.0,0.0,0,0,20,26,76.9,0,16,0,0,0,Freiburg,2022-04-30 Hoffenheim-Freiburg,GER-BL1,21-22,c7076c62
+f93e6e94,Nils Petersen,18,GER,FW,33-145,45,0,0,0,0,0,0,0,0,14,0,0,1,0.0,0.0,0.1,1,0,6,9,66.7,2,8,0,0,0,Freiburg,2022-04-30 Hoffenheim-Freiburg,GER-BL1,21-22,c7076c62
+a92ab7be,Mark Flekken,26,NED,GK,28-321,90,0,0,0,0,0,0,0,0,54,0,1,0,0.0,0.0,0.0,0,0,36,50,72.0,0,28,0,0,0,Freiburg,2022-04-30 Hoffenheim-Freiburg,GER-BL1,21-22,c7076c62

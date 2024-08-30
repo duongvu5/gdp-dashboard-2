@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+65857fdf,Tim Skarke,27,GER,"FW,LM",27-191,78,1,0,0,0,1,1,0,0,20,0,0,0,0.2,0.2,0.1,1,0,8,12,66.7,1,11,0,2,0,Darmstadt 98,2024-03-16 Darmstadt 98-Bayern Munich,GER-BL1,23-24,fbdd5729
+3745e8bd,Sebastian Polter,40,GER,"AM,LM",32-350,12,0,1,0,0,1,0,0,0,9,1,0,0,0.1,0.1,0.5,1,1,5,6,83.3,0,3,0,1,1,Darmstadt 98,2024-03-16 Darmstadt 98-Bayern Munich,GER-BL1,23-24,fbdd5729
+e7f4869a,Oscar Vilhelmsson,29,SWE,FW,20-166,90,1,0,0,0,4,1,0,0,32,1,1,1,0.8,0.8,0.0,3,0,12,17,70.6,2,9,1,1,0,Darmstadt 98,2024-03-16 Darmstadt 98-Bayern Munich,GER-BL1,23-24,fbdd5729
+3dbdbb6a,Mathias Honsak,18,AUT,LM,27-087,70,0,1,0,0,1,1,0,0,26,2,1,3,0.1,0.1,0.2,2,2,10,13,76.9,2,12,2,2,2,Darmstadt 98,2024-03-16 Darmstadt 98-Bayern Munich,GER-BL1,23-24,fbdd5729
+85b6462d,Aaron Seydel,22,GER,FW,28-038,20,0,0,0,0,0,0,0,0,14,1,0,0,0.0,0.0,0.1,2,1,9,13,69.2,1,8,0,1,1,Darmstadt 98,2024-03-16 Darmstadt 98-Bayern Munich,GER-BL1,23-24,fbdd5729
+697dc00a,Bartol Franjić,28,CRO,CM,24-062,78,0,0,0,0,0,0,1,0,27,0,3,0,0.0,0.0,0.0,0,0,14,20,70.0,2,13,0,1,1,Darmstadt 98,2024-03-16 Darmstadt 98-Bayern Munich,GER-BL1,23-24,fbdd5729
+431c837b,Klaus Gjasula,23,ALB,"RM,CM",34-093,12,0,0,0,0,0,0,0,0,5,0,1,0,0.0,0.0,0.0,0,0,3,4,75.0,1,3,0,0,0,Darmstadt 98,2024-03-16 Darmstadt 98-Bayern Munich,GER-BL1,23-24,fbdd5729
+d7cdfd81,Tobias Kempe,11,GER,CM,34-263,90,0,0,0,0,0,0,0,0,38,3,1,1,0.0,0.0,0.0,1,0,20,26,76.9,2,12,0,1,1,Darmstadt 98,2024-03-16 Darmstadt 98-Bayern Munich,GER-BL1,23-24,fbdd5729
+ab1a72b4,Julian Justvan,17,GER,"RM,LM",25-349,90,0,0,0,0,0,0,0,0,34,1,2,1,0.0,0.0,0.0,3,0,14,18,77.8,1,12,0,8,3,Darmstadt 98,2024-03-16 Darmstadt 98-Bayern Munich,GER-BL1,23-24,fbdd5729
+017018d1,Fabian Holland,32,GER,LB,33-249,70,0,0,0,0,0,0,0,0,25,2,3,2,0.0,0.0,0.2,1,0,8,15,53.3,1,5,0,0,0,Darmstadt 98,2024-03-16 Darmstadt 98-Bayern Munich,GER-BL1,23-24,fbdd5729
+7bbb0ac4,Emir Karic,19,AUT,LB,26-281,20,0,0,0,0,0,0,0,0,21,1,0,1,0.0,0.0,0.0,0,0,8,15,53.3,0,8,0,0,0,Darmstadt 98,2024-03-16 Darmstadt 98-Bayern Munich,GER-BL1,23-24,fbdd5729
+2be28a0c,Thomas Isherwood,3,SWE,CB,26-048,90,0,0,0,0,0,0,0,0,24,2,2,3,0.0,0.0,0.0,0,0,8,12,66.7,0,7,0,0,0,Darmstadt 98,2024-03-16 Darmstadt 98-Bayern Munich,GER-BL1,23-24,fbdd5729
+144e8717,Christoph Klarer,14,AUT,CB,23-276,49,0,0,0,0,0,0,0,0,21,2,0,3,0.0,0.0,0.0,0,0,7,8,87.5,1,3,0,0,0,Darmstadt 98,2024-03-16 Darmstadt 98-Bayern Munich,GER-BL1,23-24,fbdd5729
+2d5f03bf,Christoph Zimmermann,4,GER,CB,31-064,41,0,0,0,0,0,0,0,0,14,5,3,0,0.0,0.0,0.0,0,0,6,7,85.7,0,2,0,0,0,Darmstadt 98,2024-03-16 Darmstadt 98-Bayern Munich,GER-BL1,23-24,fbdd5729
+796a5f30,Jannik Müller,20,GER,RB,30-058,90,0,0,0,0,0,0,0,0,40,4,1,4,0.0,0.0,0.0,0,0,18,22,81.8,1,7,0,0,0,Darmstadt 98,2024-03-16 Darmstadt 98-Bayern Munich,GER-BL1,23-24,fbdd5729
+5fa2e0cf,Marcel Schuhen,1,GER,GK,31-063,90,0,0,0,0,0,0,0,0,30,0,1,0,0.0,0.0,0.0,0,0,12,29,41.4,0,11,0,0,0,Darmstadt 98,2024-03-16 Darmstadt 98-Bayern Munich,GER-BL1,23-24,fbdd5729
+21a66f6a,Harry Kane,9,ENG,FW,30-232,81,1,1,0,0,4,1,0,0,24,0,0,0,1.1,1.1,0.2,2,1,14,15,93.3,5,14,0,1,0,Bayern Munich,2024-03-16 Darmstadt 98-Bayern Munich,GER-BL1,23-24,fbdd5729
+0e6bc38c,Eric Maxim Choupo-Moting,13,CMR,FW,34-359,9,0,0,0,0,0,0,0,0,11,1,1,0,0.0,0.0,0.0,1,0,7,7,100.0,1,3,1,2,1,Bayern Munich,2024-03-16 Darmstadt 98-Bayern Munich,GER-BL1,23-24,fbdd5729
+2c0558b8,Jamal Musiala,42,GER,LW,21-019,90,2,0,0,0,9,2,0,0,62,0,0,0,1.5,1.5,0.6,13,2,36,45,80.0,10,48,7,12,10,Bayern Munich,2024-03-16 Darmstadt 98-Bayern Munich,GER-BL1,23-24,fbdd5729
+2b114be3,Leroy Sané,10,GER,RW,28-065,69,0,0,0,0,4,0,0,0,44,0,0,2,0.2,0.2,0.2,4,0,27,34,79.4,9,32,3,7,4,Bayern Munich,2024-03-16 Darmstadt 98-Bayern Munich,GER-BL1,23-24,fbdd5729
+829aa60c,Mathys Tel,39,FRA,RW,18-324,21,1,0,0,0,2,1,0,0,15,0,0,2,0.4,0.4,0.0,3,1,7,9,77.8,0,9,0,3,1,Bayern Munich,2024-03-16 Darmstadt 98-Bayern Munich,GER-BL1,23-24,fbdd5729
+3c6089ab,Thomas Müller,25,GER,AM,34-185,70,0,0,0,0,0,0,0,0,24,0,0,0,0.0,0.0,0.0,3,0,14,23,60.9,0,18,1,0,0,Bayern Munich,2024-03-16 Darmstadt 98-Bayern Munich,GER-BL1,23-24,fbdd5729
+88e357ef,Serge Gnabry,7,GER,AM,28-246,20,1,0,0,0,1,1,0,0,25,0,1,0,0.1,0.1,0.0,1,0,20,21,95.2,1,15,4,2,1,Bayern Munich,2024-03-16 Darmstadt 98-Bayern Munich,GER-BL1,23-24,fbdd5729
+cc86b9a3,Leon Goretzka,8,GER,DM,29-039,90,0,0,0,0,2,0,0,0,102,2,1,0,0.2,0.2,0.0,1,1,85,94,90.4,10,65,7,1,0,Bayern Munich,2024-03-16 Darmstadt 98-Bayern Munich,GER-BL1,23-24,fbdd5729
+2658c82f,Aleksandar Pavlovic,45,GER,DM,19-318,57,0,0,0,0,0,0,0,0,41,1,1,0,0.0,0.0,0.0,2,1,34,38,89.5,8,29,2,1,1,Bayern Munich,2024-03-16 Darmstadt 98-Bayern Munich,GER-BL1,23-24,fbdd5729
+c1b7847c,Konrad Laimer,27,AUT,DM,26-294,33,0,0,0,0,1,0,0,0,25,1,1,0,0.1,0.1,0.0,0,0,19,19,100.0,2,15,0,1,1,Bayern Munich,2024-03-16 Darmstadt 98-Bayern Munich,GER-BL1,23-24,fbdd5729
+048a1cbc,Raphaël Guerreiro,22,POR,LB,30-085,70,0,0,0,0,1,0,0,0,79,2,0,0,0.0,0.0,0.4,4,0,65,77,84.4,4,38,2,0,0,Bayern Munich,2024-03-16 Darmstadt 98-Bayern Munich,GER-BL1,23-24,fbdd5729
+d781d855,Alphonso Davies,19,CAN,LB,23-135,20,0,0,0,0,0,0,0,0,25,0,0,0,0.0,0.0,0.3,3,1,19,22,86.4,2,16,2,5,5,Bayern Munich,2024-03-16 Darmstadt 98-Bayern Munich,GER-BL1,23-24,fbdd5729
+ac861941,Eric Dier,15,ENG,CB,30-061,90,0,0,0,0,1,0,0,0,105,1,1,2,0.0,0.0,0.0,2,1,91,97,93.8,5,67,1,0,0,Bayern Munich,2024-03-16 Darmstadt 98-Bayern Munich,GER-BL1,23-24,fbdd5729
+d6e53a3a,Matthijs de Ligt,4,NED,CB,24-217,90,0,0,0,0,0,0,0,0,113,1,2,1,0.0,0.0,0.0,1,0,99,105,94.3,10,81,3,0,0,Bayern Munich,2024-03-16 Darmstadt 98-Bayern Munich,GER-BL1,23-24,fbdd5729
+49296448,Joshua Kimmich,6,GER,RB,29-037,90,0,1,0,0,2,1,0,0,116,0,1,0,0.2,0.2,1.0,7,2,89,112,79.5,14,78,3,4,3,Bayern Munich,2024-03-16 Darmstadt 98-Bayern Munich,GER-BL1,23-24,fbdd5729
+8778c910,Manuel Neuer,1,GER,GK,37-355,90,0,0,0,0,0,0,0,0,24,1,0,0,0.0,0.0,0.0,0,0,20,22,90.9,1,17,0,0,0,Bayern Munich,2024-03-16 Darmstadt 98-Bayern Munich,GER-BL1,23-24,fbdd5729

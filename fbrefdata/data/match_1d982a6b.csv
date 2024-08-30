@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+e468c053,Gervinho,27,CIV,FW,33-164,79,0,0,0,0,0,0,0,0,23,0,0,1,0.0,0.0,0.0,0,0,14,17,82.4,1,17,5,1,0,Parma,2020-11-07 Parma-Fiorentina,ITA-SERIA_A,20-21,1d982a6b
+d60099bc,Juan Brunetta,32,ARG,FW,23-179,11,0,0,0,0,0,0,0,0,11,0,0,1,0.0,0.0,0.0,0,0,7,10,70.0,0,7,0,1,1,Parma,2020-11-07 Parma-Fiorentina,ITA-SERIA_A,20-21,1d982a6b
+6c1f7328,Roberto Inglese,45,ITA,FW,28-361,54,0,0,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.0,0,0,3,8,37.5,0,5,0,0,0,Parma,2020-11-07 Parma-Fiorentina,ITA-SERIA_A,20-21,1d982a6b
+8b66d9cc,Yann Karamoh,10,FRA,FW,22-122,36,0,0,0,0,0,0,0,0,13,0,0,0,0.0,0.0,0.1,2,0,10,11,90.9,0,12,0,1,1,Parma,2020-11-07 Parma-Fiorentina,ITA-SERIA_A,20-21,1d982a6b
+144607cc,Jasmin Kurtić,14,SVN,CM,31-302,90,0,0,0,0,0,0,0,0,51,2,2,2,0.0,0.0,0.0,2,0,29,39,74.4,4,27,2,0,0,Parma,2020-11-07 Parma-Fiorentina,ITA-SERIA_A,20-21,1d982a6b
+6f5ead86,Hernani,23,BRA,CM,26-225,54,0,0,0,0,1,0,0,0,28,3,0,0,0.0,0.0,0.0,0,0,15,19,78.9,3,13,2,1,0,Parma,2020-11-07 Parma-Fiorentina,ITA-SERIA_A,20-21,1d982a6b
+a5f458d9,Simon Sohm,19,SUI,CM,19-210,36,0,0,0,0,0,0,0,0,32,2,0,0,0.0,0.0,0.0,1,0,28,31,90.3,1,18,1,0,0,Parma,2020-11-07 Parma-Fiorentina,ITA-SERIA_A,20-21,1d982a6b
+5aaef9ef,Juraj Kucka,33,SVK,CM,33-255,90,0,0,0,0,3,0,0,0,43,10,0,1,0.1,0.1,0.0,2,0,20,25,80.0,1,14,2,0,0,Parma,2020-11-07 Parma-Fiorentina,ITA-SERIA_A,20-21,1d982a6b
+149c5f5d,Giuseppe Pezzella,3,ITA,WB,22-344,90,0,0,0,0,0,0,1,0,52,2,1,0,0.0,0.0,0.0,0,0,37,47,78.7,4,28,1,2,2,Parma,2020-11-07 Parma-Fiorentina,ITA-SERIA_A,20-21,1d982a6b
+6cc97b6a,Alberto Grassi,8,ITA,WB,25-245,90,0,0,0,0,0,0,0,0,51,3,2,2,0.0,0.0,0.0,1,0,25,31,80.6,1,23,2,3,1,Parma,2020-11-07 Parma-Fiorentina,ITA-SERIA_A,20-21,1d982a6b
+173061c0,Riccardo Gagliolo,7,SWE,CB,30-193,90,0,0,0,0,0,0,0,0,86,6,1,0,0.0,0.0,0.0,1,0,65,80,81.3,7,50,0,0,0,Parma,2020-11-07 Parma-Fiorentina,ITA-SERIA_A,20-21,1d982a6b
+585a73a8,Bruno Alves,22,POR,CB,38-346,90,0,0,0,0,1,0,0,0,56,0,0,1,0.1,0.1,0.0,0,0,41,45,91.1,0,31,0,0,0,Parma,2020-11-07 Parma-Fiorentina,ITA-SERIA_A,20-21,1d982a6b
+4d17df3e,Yordan Osorio,24,VEN,CB,26-181,90,0,0,0,0,0,0,0,0,51,1,3,0,0.0,0.0,0.0,1,0,42,47,89.4,0,29,1,1,0,Parma,2020-11-07 Parma-Fiorentina,ITA-SERIA_A,20-21,1d982a6b
+343f753a,Luigi Sepe,1,ITA,GK,29-183,90,0,0,0,0,0,0,0,0,22,0,0,0,0.0,0.0,0.0,0,0,18,19,94.7,0,11,0,0,0,Parma,2020-11-07 Parma-Fiorentina,ITA-SERIA_A,20-21,1d982a6b
+f61c7c4e,Franck Ribéry,7,FRA,FW,37-214,90,0,0,0,0,1,1,1,0,86,1,0,2,0.0,0.0,0.1,5,0,65,71,91.5,4,59,7,7,3,Fiorentina,2020-11-07 Parma-Fiorentina,ITA-SERIA_A,20-21,1d982a6b
+58e933d2,Christian Kouamé,11,CIV,FW,22-337,68,0,0,0,0,1,0,0,0,24,0,0,0,0.2,0.2,0.0,0,0,13,14,92.9,0,17,0,6,1,Fiorentina,2020-11-07 Parma-Fiorentina,ITA-SERIA_A,20-21,1d982a6b
+a4fe8cda,Patrick Cutrone,63,ITA,FW,22-309,22,0,0,0,0,0,0,0,0,6,2,0,0,0.0,0.0,0.0,0,0,3,3,100.0,0,1,0,0,0,Fiorentina,2020-11-07 Parma-Fiorentina,ITA-SERIA_A,20-21,1d982a6b
+0728bebe,Gaetano Castrovilli,10,ITA,CM,23-264,82,0,0,0,0,1,1,0,0,57,1,0,0,0.0,0.0,0.0,0,0,39,45,86.7,3,39,3,8,5,Fiorentina,2020-11-07 Parma-Fiorentina,ITA-SERIA_A,20-21,1d982a6b
+d995ed27,Giacomo Bonaventura,5,ITA,CM,31-077,8,0,0,0,0,0,0,0,0,7,0,0,1,0.0,0.0,0.0,0,0,4,5,80.0,0,3,0,0,0,Fiorentina,2020-11-07 Parma-Fiorentina,ITA-SERIA_A,20-21,1d982a6b
+4611e028,Erick Pulgar,78,CHI,CM,26-297,90,0,0,0,0,0,0,0,0,98,2,2,1,0.0,0.0,0.1,1,0,81,90,90.0,6,51,0,1,0,Fiorentina,2020-11-07 Parma-Fiorentina,ITA-SERIA_A,20-21,1d982a6b
+5a2cb25d,Sofyan Amrabat,34,MAR,CM,24-078,90,0,0,0,0,1,0,0,0,93,1,2,0,0.1,0.1,0.0,0,0,74,88,84.1,4,71,1,5,4,Fiorentina,2020-11-07 Parma-Fiorentina,ITA-SERIA_A,20-21,1d982a6b
+9e1577aa,Cristiano Biraghi,3,ITA,WB,28-067,90,0,0,0,0,2,2,0,0,85,2,0,0,0.1,0.1,0.3,3,0,61,81,75.3,4,49,2,1,1,Fiorentina,2020-11-07 Parma-Fiorentina,ITA-SERIA_A,20-21,1d982a6b
+983ff2c7,Lorenzo Venuti,23,ITA,WB,25-209,72,0,0,0,0,0,0,0,0,44,1,0,2,0.0,0.0,0.0,0,0,33,37,89.2,2,21,0,1,0,Fiorentina,2020-11-07 Parma-Fiorentina,ITA-SERIA_A,20-21,1d982a6b
+ff800ed8,Pol Lirola,21,ESP,WB,23-086,18,0,0,0,0,0,0,0,0,15,0,2,0,0.0,0.0,0.0,0,0,6,12,50.0,1,5,1,2,1,Fiorentina,2020-11-07 Parma-Fiorentina,ITA-SERIA_A,20-21,1d982a6b
+a4e85758,Igor,98,BRA,CB,22-274,90,0,0,0,0,0,0,0,0,130,0,1,1,0.0,0.0,0.0,0,0,124,128,96.9,11,95,5,0,0,Fiorentina,2020-11-07 Parma-Fiorentina,ITA-SERIA_A,20-21,1d982a6b
+bee704fc,Nikola Milenković,4,SRB,CB,23-026,90,0,0,0,0,0,0,1,0,93,1,0,2,0.0,0.0,0.0,0,0,80,87,92.0,3,61,0,1,1,Fiorentina,2020-11-07 Parma-Fiorentina,ITA-SERIA_A,20-21,1d982a6b
+e94d79e3,Martín Cáceres,22,URU,CB,33-214,90,0,0,0,0,0,0,0,0,71,0,1,0,0.0,0.0,0.0,1,0,62,68,91.2,1,31,0,0,0,Fiorentina,2020-11-07 Parma-Fiorentina,ITA-SERIA_A,20-21,1d982a6b
+085e71a7,Bartłomiej Drągowski,69,POL,GK,23-080,90,0,0,0,0,0,0,0,0,22,0,0,0,0.0,0.0,0.0,0,0,21,22,95.5,0,14,0,0,0,Fiorentina,2020-11-07 Parma-Fiorentina,ITA-SERIA_A,20-21,1d982a6b

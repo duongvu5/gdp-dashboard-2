@@ -1,0 +1,32 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+ffec9769,Islam Slimani,20,ALG,FW,33-139,68,2,0,0,0,5,2,0,0,34,0,0,0,1.3,1.3,0.1,2,1,25,27,92.6,3,24,1,1,1,Lyon,2021-11-04 Lyon-Sparta Prague,UEL,21-22,8e18477b
+9b6f7fd5,Lucas Paquetá,10,BRA,FW,24-069,22,0,0,0,0,0,0,0,0,16,1,0,0,0.0,0.0,0.2,1,0,10,12,83.3,1,7,1,1,0,Lyon,2021-11-04 Lyon-Sparta Prague,UEL,21-22,8e18477b
+a5db0bec,Houssem Aouar,8,ALG,LW,23-127,68,0,0,0,0,1,1,0,0,47,0,2,1,0.2,0.2,0.1,3,0,31,39,79.5,6,31,2,4,3,Lyon,2021-11-04 Lyon-Sparta Prague,UEL,21-22,8e18477b
+5ceba7fc,Karl Toko Ekambi,7,CMR,LW,29-051,22,1,0,0,0,1,1,0,0,14,1,1,1,0.4,0.4,0.0,0,0,6,7,85.7,0,6,1,0,0,Lyon,2021-11-04 Lyon-Sparta Prague,UEL,21-22,8e18477b
+b34c63a5,Rayan Cherki,18,FRA,RW,18-079,80,0,0,0,0,1,0,0,0,62,1,1,0,0.0,0.0,0.6,6,2,33,46,71.7,5,38,3,8,2,Lyon,2021-11-04 Lyon-Sparta Prague,UEL,21-22,8e18477b
+a0d55a09,Bradley Barcola,45,FRA,RW,19-063,10,0,1,0,0,0,0,0,0,4,1,0,0,0.0,0.0,0.4,2,2,2,3,66.7,0,2,1,1,1,Lyon,2021-11-04 Lyon-Sparta Prague,UEL,21-22,8e18477b
+6421ec64,Xherdan Shaqiri,29,SUI,AM,30-025,90,0,0,0,0,3,2,0,0,54,0,0,1,0.3,0.3,0.7,3,0,35,50,70.0,11,36,2,0,0,Lyon,2021-11-04 Lyon-Sparta Prague,UEL,21-22,8e18477b
+c6e5d20f,Thiago Mendes,23,BRA,DM,29-234,90,0,0,0,0,2,0,0,0,68,2,5,1,0.0,0.0,0.0,4,0,40,50,80.0,5,41,2,2,2,Lyon,2021-11-04 Lyon-Sparta Prague,UEL,21-22,8e18477b
+f81ef10d,Maxence Caqueret,25,FRA,DM,21-262,68,0,1,0,0,0,0,0,0,61,2,2,0,0.0,0.0,0.1,4,1,44,55,80.0,7,32,0,2,1,Lyon,2021-11-04 Lyon-Sparta Prague,UEL,21-22,8e18477b
+82518f62,Bruno Guimarães,39,BRA,DM,23-353,22,0,0,0,0,1,1,0,0,18,1,0,1,0.2,0.2,0.0,1,0,11,12,91.7,1,12,0,1,1,Lyon,2021-11-04 Lyon-Sparta Prague,UEL,21-22,8e18477b
+f28474a4,Henrique,12,BRA,LB,27-193,90,0,0,0,0,0,0,0,0,58,1,1,2,0.0,0.0,0.2,1,0,39,49,79.6,2,31,1,0,0,Lyon,2021-11-04 Lyon-Sparta Prague,UEL,21-22,8e18477b
+47af88b8,Jason Denayer,5,BEL,CB,26-129,90,0,0,0,0,0,0,0,0,78,2,0,4,0.0,0.0,0.0,0,0,58,66,87.9,1,41,1,1,0,Lyon,2021-11-04 Lyon-Sparta Prague,UEL,21-22,8e18477b
+1ec7e1c5,Damien Da Silva,21,FRA,CB,33-171,90,0,0,0,0,1,0,0,0,93,2,1,1,0.0,0.0,0.0,0,0,68,81,84.0,3,40,0,1,0,Lyon,2021-11-04 Lyon-Sparta Prague,UEL,21-22,8e18477b
+6de23ab0,Sinaly Diomande,2,CIV,RB,20-209,90,0,0,0,0,0,0,0,0,71,1,2,0,0.0,0.0,0.0,1,0,49,59,83.1,1,29,1,1,1,Lyon,2021-11-04 Lyon-Sparta Prague,UEL,21-22,8e18477b
+f00de885,Anthony Lopes,1,POR,GK,31-034,90,0,0,0,0,0,0,0,0,51,0,0,0,0.0,0.0,0.0,0,0,40,48,83.3,0,27,0,0,0,Lyon,2021-11-04 Lyon-Sparta Prague,UEL,21-22,8e18477b
+6b88c810,Martin Minchev,11,BUL,"FW,RW",20-196,90,0,0,0,0,0,0,0,0,45,1,0,1,0.0,0.0,0.0,1,0,28,34,82.4,3,25,3,1,0,Sparta Prague,2021-11-04 Lyon-Sparta Prague,UEL,21-22,8e18477b
+5c397195,Lukáš Haraslín,22,SVK,LW,25-162,81,0,0,0,0,4,0,0,0,42,2,0,1,0.2,0.2,0.0,4,0,18,27,66.7,3,24,9,2,1,Sparta Prague,2021-11-04 Lyon-Sparta Prague,UEL,21-22,8e18477b
+f80d03ca,Adam Karabec,36,CZE,LW,18-125,9,0,0,0,0,3,1,0,0,8,0,0,0,0.3,0.3,0.0,2,0,4,4,100.0,2,5,0,1,0,Sparta Prague,2021-11-04 Lyon-Sparta Prague,UEL,21-22,8e18477b
+1d54e8f8,Jakub Pesek,21,CZE,RW,28-133,67,0,0,0,0,1,1,0,0,35,1,0,0,0.1,0.1,0.2,2,0,13,25,52.0,3,26,3,2,0,Sparta Prague,2021-11-04 Lyon-Sparta Prague,UEL,21-22,8e18477b
+2c320058,Matěj Pulkrab,18,CZE,FW,24-165,23,0,0,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.1,1,0,10,11,90.9,1,5,1,0,0,Sparta Prague,2021-11-04 Lyon-Sparta Prague,UEL,21-22,8e18477b
+5b5c2228,Ladislav Krejčí,37,CZE,LM,22-198,90,0,0,0,0,4,2,1,0,52,1,2,0,0.7,0.7,0.1,3,0,32,38,84.2,6,27,0,1,1,Sparta Prague,2021-11-04 Lyon-Sparta Prague,UEL,21-22,8e18477b
+1295b5e3,David Pavelka,8,CZE,CM,30-170,90,0,0,0,0,1,0,0,0,50,3,4,1,0.1,0.1,0.0,1,0,32,40,80.0,3,22,1,1,1,Sparta Prague,2021-11-04 Lyon-Sparta Prague,UEL,21-22,8e18477b
+e28245d9,Michal Sáček,16,CZE,RM,25-046,67,0,0,0,0,1,0,0,0,26,0,2,0,0.0,0.0,0.1,5,0,12,19,63.2,2,17,2,3,2,Sparta Prague,2021-11-04 Lyon-Sparta Prague,UEL,21-22,8e18477b
+5eb77bef,Bořek Dočkal,10,CZE,RM,33-035,23,0,0,0,0,0,0,0,0,20,0,0,1,0.0,0.0,0.3,4,0,12,18,66.7,1,6,2,0,0,Sparta Prague,2021-11-04 Lyon-Sparta Prague,UEL,21-22,8e18477b
+4fac8f81,Dávid Hancko,33,SVK,"CB,LB",23-326,90,0,0,0,0,1,0,0,0,56,0,0,2,0.0,0.0,0.1,2,0,34,46,73.9,7,25,0,0,0,Sparta Prague,2021-11-04 Lyon-Sparta Prague,UEL,21-22,8e18477b
+393a257c,Ondřej Čelůstka,3,CZE,CB,32-139,6,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,1,1,0,0,0,Sparta Prague,2021-11-04 Lyon-Sparta Prague,UEL,21-22,8e18477b
+7c7fdb0f,Andreas Vindheim,32,NOR,LB,26-092,84,0,0,0,0,0,0,1,0,60,2,0,2,0.0,0.0,0.0,0,0,37,50,74.0,4,32,3,1,1,Sparta Prague,2021-11-04 Lyon-Sparta Prague,UEL,21-22,8e18477b
+97e996a7,Filip Panák,27,CZE,CB,26-002,90,0,0,0,0,0,0,0,0,39,1,3,1,0.0,0.0,0.0,0,0,26,29,89.7,3,25,2,0,0,Sparta Prague,2021-11-04 Lyon-Sparta Prague,UEL,21-22,8e18477b
+25e6f8cb,Tomáš Wiesner,28,CZE,RB,24-110,90,0,0,0,0,0,0,0,0,55,4,1,1,0.0,0.0,0.0,0,0,29,43,67.4,4,25,2,2,1,Sparta Prague,2021-11-04 Lyon-Sparta Prague,UEL,21-22,8e18477b
+a9a3b55d,Florin Niță,1,ROU,GK,34-124,90,0,0,0,0,0,0,0,0,37,0,0,0,0.0,0.0,0.0,0,0,27,36,75.0,0,22,0,1,1,Sparta Prague,2021-11-04 Lyon-Sparta Prague,UEL,21-22,8e18477b

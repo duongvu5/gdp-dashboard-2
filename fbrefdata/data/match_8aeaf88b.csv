@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+8d78e732,Robert Lewandowski,9,POL,FW,31-157,90,1,1,0,0,8,4,0,0,35,0,0,0,1.1,1.1,0.5,5,2,15,19,78.9,2,17,3,4,2,Bayern Munich,2020-01-25 Bayern Munich-Schalke 04,GER-BL1,19-20,8aeaf88b
+6fe90922,Ivan Perišić,14,CRO,LW,30-357,67,0,0,0,0,1,0,0,0,54,0,1,0,0.1,0.1,0.0,3,1,31,49,63.3,2,34,7,0,0,Bayern Munich,2020-01-25 Bayern Munich-Schalke 04,GER-BL1,19-20,8aeaf88b
+88e357ef,Serge Gnabry,22,GER,LW,24-195,23,1,0,0,0,1,1,0,0,27,0,0,0,0.0,0.0,0.0,0,0,21,25,84.0,0,18,3,1,1,Bayern Munich,2020-01-25 Bayern Munich-Schalke 04,GER-BL1,19-20,8aeaf88b
+3c6089ab,Thomas Müller,25,GER,RW,30-134,90,1,0,0,0,2,2,0,0,75,4,0,0,0.9,0.9,0.7,3,0,49,62,79.0,3,37,2,1,1,Bayern Munich,2020-01-25 Bayern Munich-Schalke 04,GER-BL1,19-20,8aeaf88b
+cc86b9a3,Leon Goretzka,18,GER,AM,24-353,77,1,1,0,0,5,2,0,0,58,1,0,1,0.9,0.9,0.9,5,3,39,49,79.6,7,26,0,1,0,Bayern Munich,2020-01-25 Bayern Munich-Schalke 04,GER-BL1,19-20,8aeaf88b
+652d4c37,Corentin Tolisso,24,FRA,AM,25-175,13,0,0,0,0,0,0,0,0,16,1,0,0,0.0,0.0,0.0,1,1,14,16,87.5,2,11,0,0,0,Bayern Munich,2020-01-25 Bayern Munich-Schalke 04,GER-BL1,19-20,8aeaf88b
+77e84962,Thiago Alcántara,6,ESP,DM,28-289,61,1,0,0,0,2,2,0,0,66,1,1,1,0.5,0.5,0.0,4,0,56,60,93.3,12,41,0,1,1,Bayern Munich,2020-01-25 Bayern Munich-Schalke 04,GER-BL1,19-20,8aeaf88b
+0ef89a37,Philippe Coutinho,10,BRA,DM,27-227,29,0,1,0,0,2,2,0,0,36,2,0,0,0.1,0.1,0.0,6,1,28,31,90.3,2,23,6,5,3,Bayern Munich,2020-01-25 Bayern Munich-Schalke 04,GER-BL1,19-20,8aeaf88b
+49296448,Joshua Kimmich,32,GER,DM,24-351,90,0,0,0,0,1,0,0,0,117,2,1,3,0.0,0.0,0.2,5,0,94,109,86.2,6,81,2,2,2,Bayern Munich,2020-01-25 Bayern Munich-Schalke 04,GER-BL1,19-20,8aeaf88b
+d781d855,Alphonso Davies,19,CAN,LB,19-084,90,0,0,0,0,0,0,0,0,113,3,3,2,0.0,0.0,0.5,6,0,86,98,87.8,11,65,6,9,5,Bayern Munich,2020-01-25 Bayern Munich-Schalke 04,GER-BL1,19-20,8aeaf88b
+05439de2,David Alaba,27,AUT,CB,27-215,90,0,0,0,0,2,1,0,0,131,1,0,0,0.1,0.1,0.0,3,0,119,126,94.4,25,93,3,0,0,Bayern Munich,2020-01-25 Bayern Munich-Schalke 04,GER-BL1,19-20,8aeaf88b
+2db2fd7b,Jérôme Boateng,17,GER,CB,31-144,90,0,0,0,0,0,0,0,0,112,1,0,0,0.0,0.0,0.0,2,1,103,107,96.3,5,68,0,0,0,Bayern Munich,2020-01-25 Bayern Munich-Schalke 04,GER-BL1,19-20,8aeaf88b
+45a03961,Benjamin Pavard,5,FRA,RB,23-303,90,0,0,0,0,0,0,0,0,104,2,1,3,0.0,0.0,0.1,2,0,85,95,89.5,8,58,1,1,1,Bayern Munich,2020-01-25 Bayern Munich-Schalke 04,GER-BL1,19-20,8aeaf88b
+8778c910,Manuel Neuer,1,GER,GK,33-304,90,0,0,0,0,0,0,0,0,43,0,0,0,0.0,0.0,0.0,0,0,41,43,95.3,0,27,0,0,0,Bayern Munich,2020-01-25 Bayern Munich-Schalke 04,GER-BL1,19-20,8aeaf88b
+33144cc5,Rabbi Matondo,14,WAL,FW,19-138,56,0,0,0,0,1,0,0,0,15,1,1,0,0.1,0.1,0.1,4,0,6,6,100.0,1,10,2,2,2,Schalke 04,2020-01-25 Bayern Munich-Schalke 04,GER-BL1,19-20,8aeaf88b
+541127d5,Nassim Boujellab,16,MAR,"LM,FW",20-219,34,0,0,0,0,1,0,0,0,12,0,1,1,0.1,0.1,0.0,1,0,7,8,87.5,0,7,1,0,0,Schalke 04,2020-01-25 Bayern Munich-Schalke 04,GER-BL1,19-20,8aeaf88b
+8e235926,Michael Gregoritsch,11,AUT,FW,25-282,56,0,0,0,0,1,0,0,0,15,1,0,0,0.0,0.0,0.0,0,0,8,10,80.0,1,4,0,0,0,Schalke 04,2020-01-25 Bayern Munich-Schalke 04,GER-BL1,19-20,8aeaf88b
+beda9675,Ahmed Kutucu,15,TUR,FW,19-330,34,0,0,0,0,0,0,0,0,13,0,1,1,0.0,0.0,0.0,0,0,3,6,50.0,0,8,1,0,0,Schalke 04,2020-01-25 Bayern Munich-Schalke 04,GER-BL1,19-20,8aeaf88b
+e7d59f4f,Amine Harit,25,MAR,"AM,FW",22-221,90,0,0,0,0,2,0,0,0,37,0,1,0,0.1,0.1,0.0,1,0,25,29,86.2,4,30,3,2,2,Schalke 04,2020-01-25 Bayern Munich-Schalke 04,GER-BL1,19-20,8aeaf88b
+b3325a30,Suat Serdar,8,GER,"LM,CM",22-289,90,0,0,0,0,1,1,0,0,20,1,1,1,0.1,0.1,0.0,1,0,12,14,85.7,1,16,1,1,1,Schalke 04,2020-01-25 Bayern Munich-Schalke 04,GER-BL1,19-20,8aeaf88b
+d1273f09,Daniel Caligiuri,18,ITA,"RM,RB",32-010,90,0,0,0,0,1,0,0,0,52,5,3,2,0.0,0.0,0.0,1,0,20,33,60.6,0,25,2,8,4,Schalke 04,2020-01-25 Bayern Munich-Schalke 04,GER-BL1,19-20,8aeaf88b
+11fd2b75,Omar Mascarell,6,EQG,"DM,CM",26-357,90,0,0,0,0,0,0,0,0,30,1,1,1,0.0,0.0,0.0,1,0,20,23,87.0,1,9,0,0,0,Schalke 04,2020-01-25 Bayern Munich-Schalke 04,GER-BL1,19-20,8aeaf88b
+d1661819,Bastian Oczipka,24,GER,LB,31-013,90,0,0,0,0,0,0,0,0,43,1,2,2,0.0,0.0,0.0,0,0,18,29,62.1,1,16,1,4,0,Schalke 04,2020-01-25 Bayern Munich-Schalke 04,GER-BL1,19-20,8aeaf88b
+f35430a4,Matija Nastasić,5,SRB,CB,26-303,90,0,0,0,0,0,0,0,0,40,4,0,2,0.0,0.0,0.0,0,0,21,26,80.8,0,14,0,0,0,Schalke 04,2020-01-25 Bayern Munich-Schalke 04,GER-BL1,19-20,8aeaf88b
+2d61d13a,Ozan Kabak,4,TUR,CB,19-306,90,0,0,0,0,0,0,0,0,53,2,2,3,0.0,0.0,0.0,0,0,30,35,85.7,0,20,0,0,0,Schalke 04,2020-01-25 Bayern Munich-Schalke 04,GER-BL1,19-20,8aeaf88b
+099e666f,Jonjoe Kenny,20,ENG,RB,22-316,79,0,0,0,0,0,0,0,0,47,2,0,1,0.0,0.0,0.0,0,0,24,35,68.6,4,20,2,0,0,Schalke 04,2020-01-25 Bayern Munich-Schalke 04,GER-BL1,19-20,8aeaf88b
+01c3aff5,Weston McKennie,2,USA,"RM,RB",21-150,11,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,0,0,Schalke 04,2020-01-25 Bayern Munich-Schalke 04,GER-BL1,19-20,8aeaf88b
+289b90cd,Markus Schubert,23,GER,GK,21-227,90,0,0,0,0,0,0,0,0,54,0,0,0,0.0,0.0,0.0,1,0,27,45,60.0,0,23,0,0,0,Schalke 04,2020-01-25 Bayern Munich-Schalke 04,GER-BL1,19-20,8aeaf88b

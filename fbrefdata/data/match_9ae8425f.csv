@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+42fd9c7f,Kylian Mbappé,7,FRA,"FW,LW",22-119,90,2,0,1,1,5,1,0,0,50,1,1,0,1.5,0.7,0.1,3,1,17,29,58.6,1,31,6,8,3,Paris Saint-Germain,2021-04-18 Paris S-G-Saint-Étienne,FRA-L1,20-21,9ae8425f
+3d50bcdb,Moise Kean,18,ITA,LW,21-049,67,0,0,0,0,1,0,0,0,33,1,0,0,0.0,0.0,0.1,1,0,20,26,76.9,1,20,1,4,2,Paris Saint-Germain,2021-04-18 Paris S-G-Saint-Étienne,FRA-L1,20-21,9ae8425f
+43b78598,Mauro Icardi,9,ARG,FW,28-058,23,1,0,0,0,1,1,0,0,7,1,0,0,0.3,0.3,0.0,0,0,5,5,100.0,0,3,0,0,0,Paris Saint-Germain,2021-04-18 Paris S-G-Saint-Étienne,FRA-L1,20-21,9ae8425f
+9744ff80,Pablo Sarabia,19,ESP,RW,28-342,66,0,0,0,0,1,0,0,0,44,3,0,0,0.1,0.1,0.0,4,0,33,41,80.5,3,26,1,0,0,Paris Saint-Germain,2021-04-18 Paris S-G-Saint-Étienne,FRA-L1,20-21,9ae8425f
+19cda00b,Ángel Di María,11,ARG,RW,33-063,24,0,1,0,0,1,0,0,0,31,1,0,0,0.0,0.0,0.3,4,3,14,28,50.0,2,22,1,4,3,Paris Saint-Germain,2021-04-18 Paris S-G-Saint-Étienne,FRA-L1,20-21,9ae8425f
+0c2ac3cb,Rafinha,12,BRA,AM,28-065,66,0,0,0,0,3,1,0,0,78,1,0,1,0.1,0.1,0.1,3,0,55,65,84.6,6,56,4,1,1,Paris Saint-Germain,2021-04-18 Paris S-G-Saint-Étienne,FRA-L1,20-21,9ae8425f
+1467af0d,Marco Verratti,6,ITA,AM,28-164,24,0,0,0,0,0,0,0,0,28,0,2,1,0.0,0.0,0.1,2,0,17,21,81.0,6,20,1,0,0,Paris Saint-Germain,2021-04-18 Paris S-G-Saint-Étienne,FRA-L1,20-21,9ae8425f
+436a9dd0,Ander Herrera,21,ESP,DM,31-247,90,0,1,0,0,1,0,0,0,121,2,0,1,0.0,0.0,0.5,6,1,108,115,93.9,21,86,5,1,0,Paris Saint-Germain,2021-04-18 Paris S-G-Saint-Étienne,FRA-L1,20-21,9ae8425f
+8fd9996f,Danilo Pereira,15,POR,DM,29-221,90,0,0,0,0,2,0,0,0,98,2,0,0,0.1,0.1,0.0,2,1,80,90,88.9,14,75,1,0,0,Paris Saint-Germain,2021-04-18 Paris S-G-Saint-Étienne,FRA-L1,20-21,9ae8425f
+a8567629,Mitchel Bakker,25,NED,LB,20-302,90,0,0,0,0,0,0,0,0,79,2,1,0,0.0,0.0,0.0,3,0,63,74,85.1,5,43,2,2,2,Paris Saint-Germain,2021-04-18 Paris S-G-Saint-Étienne,FRA-L1,20-21,9ae8425f
+aef6e670,Presnel Kimpembe,3,FRA,CB,25-248,90,0,0,0,0,0,0,1,0,93,1,0,0,0.0,0.0,0.0,3,0,85,88,96.6,11,64,0,0,0,Paris Saint-Germain,2021-04-18 Paris S-G-Saint-Étienne,FRA-L1,20-21,9ae8425f
+51dbeea9,Thilo Kehrer,4,GER,CB,24-209,90,0,0,0,0,0,0,0,0,75,0,1,2,0.0,0.0,0.0,0,0,64,71,90.1,3,51,0,0,0,Paris Saint-Germain,2021-04-18 Paris S-G-Saint-Étienne,FRA-L1,20-21,9ae8425f
+e288d4b3,Alessandro Florenzi,24,ITA,RB,30-038,76,0,0,0,0,1,1,0,0,72,3,1,1,0.0,0.0,0.0,0,0,47,60,78.3,3,40,1,2,2,Paris Saint-Germain,2021-04-18 Paris S-G-Saint-Étienne,FRA-L1,20-21,9ae8425f
+29c02c9f,Colin Dagba,31,FRA,RB,22-221,14,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,0,0,8,9,88.9,1,3,0,0,0,Paris Saint-Germain,2021-04-18 Paris S-G-Saint-Étienne,FRA-L1,20-21,9ae8425f
+5f0241b2,Sergio Rico,16,ESP,GK,27-229,90,0,0,0,0,0,0,0,0,17,0,0,0,0.0,0.0,0.0,0,0,12,15,80.0,0,8,0,0,0,Paris Saint-Germain,2021-04-18 Paris S-G-Saint-Étienne,FRA-L1,20-21,9ae8425f
+0b4d8274,Romain Hamouma,21,FRA,FW,34-020,90,1,0,0,0,2,2,0,0,50,0,1,2,0.6,0.6,0.1,3,0,24,34,70.6,3,26,3,3,2,Saint-Étienne,2021-04-18 Paris S-G-Saint-Étienne,FRA-L1,20-21,9ae8425f
+2677a1de,Wahbi Khazri,10,TUN,FW,30-069,67,0,0,0,0,0,0,0,0,21,1,0,0,0.0,0.0,0.0,1,0,9,12,75.0,2,13,1,1,0,Saint-Étienne,2021-04-18 Paris S-G-Saint-Étienne,FRA-L1,20-21,9ae8425f
+b94b8be1,Adil Aouchiche,17,FRA,FW,18-277,23,0,0,0,0,0,0,0,0,18,1,0,0,0.0,0.0,0.0,0,0,9,12,75.0,0,8,1,2,1,Saint-Étienne,2021-04-18 Paris S-G-Saint-Étienne,FRA-L1,20-21,9ae8425f
+4a57580c,Kévin Monnet-Paquet,22,FRA,LM,32-242,45,0,0,0,0,1,0,0,0,18,0,0,0,0.1,0.1,0.0,0,0,8,11,72.7,0,7,1,1,0,Saint-Étienne,2021-04-18 Paris S-G-Saint-Étienne,FRA-L1,20-21,9ae8425f
+0b0cbe5b,Denis Bouanga,20,GAB,LM,26-158,45,1,0,0,0,2,2,0,0,21,0,1,1,0.4,0.4,0.0,1,1,8,12,66.7,1,9,1,1,0,Saint-Étienne,2021-04-18 Paris S-G-Saint-Étienne,FRA-L1,20-21,9ae8425f
+0ad37003,Yvan Neyou,19,CMR,CM,24-105,90,0,0,0,0,0,0,1,0,43,4,3,2,0.0,0.0,0.0,1,1,23,26,88.5,2,15,0,3,1,Saint-Étienne,2021-04-18 Paris S-G-Saint-Étienne,FRA-L1,20-21,9ae8425f
+8577e60a,Mahdi Camara,8,FRA,"CM,RB",22-292,90,0,0,0,0,0,0,0,0,42,2,2,0,0.0,0.0,0.0,0,0,23,30,76.7,1,13,0,2,0,Saint-Étienne,2021-04-18 Paris S-G-Saint-Étienne,FRA-L1,20-21,9ae8425f
+e2f9bb5f,Zaydou Youssouf,28,FRA,RM,21-281,45,0,0,0,0,0,0,0,0,25,0,3,1,0.0,0.0,0.0,0,0,14,18,77.8,1,13,0,0,0,Saint-Étienne,2021-04-18 Paris S-G-Saint-Étienne,FRA-L1,20-21,9ae8425f
+7b9a9e25,Arnaud Nordin,18,FRA,RM,22-305,45,0,0,0,0,1,1,0,0,22,0,2,0,0.0,0.0,0.0,1,0,8,14,57.1,1,10,1,3,2,Saint-Étienne,2021-04-18 Paris S-G-Saint-Étienne,FRA-L1,20-21,9ae8425f
+e4b72e34,Miguel Trauco,13,PER,LB,28-236,88,0,1,0,0,0,0,0,0,44,2,1,3,0.0,0.0,0.4,1,1,27,35,77.1,0,15,1,2,2,Saint-Étienne,2021-04-18 Paris S-G-Saint-Étienne,FRA-L1,20-21,9ae8425f
+469d3d84,Charles Abi,9,FRA,LB,21-006,2,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Saint-Étienne,2021-04-18 Paris S-G-Saint-Étienne,FRA-L1,20-21,9ae8425f
+8bc373ea,Pape Abou Cissé,6,SEN,CB,25-216,90,0,0,0,0,1,0,0,0,47,1,4,1,0.1,0.1,0.0,1,0,22,30,73.3,3,16,0,0,0,Saint-Étienne,2021-04-18 Paris S-G-Saint-Étienne,FRA-L1,20-21,9ae8425f
+5f26e0c5,Harold Moukoudi,2,CMR,CB,23-142,90,0,0,0,0,0,0,0,0,32,2,1,2,0.0,0.0,0.0,1,0,19,21,90.5,0,6,0,0,0,Saint-Étienne,2021-04-18 Paris S-G-Saint-Étienne,FRA-L1,20-21,9ae8425f
+92232aad,Mathieu Debuchy,26,FRA,RB,35-264,55,0,0,0,0,0,0,0,0,26,4,0,1,0.0,0.0,0.0,2,0,8,15,53.3,2,8,0,2,1,Saint-Étienne,2021-04-18 Paris S-G-Saint-Étienne,FRA-L1,20-21,9ae8425f
+2591b066,Aimen Moueffek,32,FRA,CM,20-009,35,0,0,0,0,0,0,0,0,14,0,0,2,0.0,0.0,0.0,0,0,3,9,33.3,0,6,1,2,1,Saint-Étienne,2021-04-18 Paris S-G-Saint-Étienne,FRA-L1,20-21,9ae8425f
+667b65da,Etienne Green,40,ENG,GK,20-273,90,0,0,0,0,0,0,0,0,28,0,0,0,0.0,0.0,0.0,0,0,14,25,56.0,0,9,0,0,0,Saint-Étienne,2021-04-18 Paris S-G-Saint-Étienne,FRA-L1,20-21,9ae8425f

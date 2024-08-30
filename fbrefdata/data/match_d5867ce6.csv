@@ -1,0 +1,29 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+ee4f2f3b,Fabio Quagliarella,27,ITA,FW,36-346,90,2,0,1,1,9,5,0,0,39,0,0,1,1.8,1.0,0.1,2,0,22,25,88.0,4,20,4,1,1,Sampdoria,2020-01-12 Sampdoria-Brescia,ITA-SERIA_A,19-20,d5867ce6
+8f866fe8,Manolo Gabbiadini,23,ITA,FW,28-047,75,0,0,0,0,7,0,0,0,45,0,0,1,0.3,0.3,0.1,8,2,24,35,68.6,5,20,2,0,0,Sampdoria,2020-01-12 Sampdoria-Brescia,ITA-SERIA_A,19-20,d5867ce6
+54e53b7e,Gianluca Caprari,17,ITA,FW,26-166,15,1,0,0,0,3,2,0,0,6,0,0,0,0.1,0.1,0.0,1,1,3,3,100.0,0,3,0,0,0,Sampdoria,2020-01-12 Sampdoria-Brescia,ITA-SERIA_A,19-20,d5867ce6
+1ea5f91c,Jakub Jankto,14,CZE,LM,23-358,90,1,2,0,0,3,1,0,0,57,2,1,0,0.2,0.2,0.4,7,2,34,46,73.9,2,33,0,1,0,Sampdoria,2020-01-12 Sampdoria-Brescia,ITA-SERIA_A,19-20,d5867ce6
+75e60d75,Ronaldo Vieira,4,ENG,CM,21-177,81,0,0,0,0,2,0,1,0,57,3,0,0,0.1,0.1,0.0,2,0,41,48,85.4,9,32,0,0,0,Sampdoria,2020-01-12 Sampdoria-Brescia,ITA-SERIA_A,19-20,d5867ce6
+f503ea63,Albin Ekdal,6,SWE,CM,30-168,9,0,0,0,0,0,0,0,0,13,0,0,0,0.0,0.0,0.0,1,0,13,13,100.0,2,6,0,0,0,Sampdoria,2020-01-12 Sampdoria-Brescia,ITA-SERIA_A,19-20,d5867ce6
+d1b49282,Morten Thorsby,18,NOR,CM,23-252,90,0,0,0,0,0,0,0,0,69,4,1,0,0.0,0.0,0.1,4,2,44,58,75.9,2,29,1,0,0,Sampdoria,2020-01-12 Sampdoria-Brescia,ITA-SERIA_A,19-20,d5867ce6
+d023d70f,Karol Linetty,7,POL,RM,24-344,90,1,1,0,0,2,1,0,0,53,1,1,0,0.2,0.2,0.9,8,1,38,46,82.6,3,41,3,2,2,Sampdoria,2020-01-12 Sampdoria-Brescia,ITA-SERIA_A,19-20,d5867ce6
+d183e9d6,Nicola Murru,29,ITA,LB,25-027,90,0,0,0,0,0,0,1,0,51,2,0,0,0.0,0.0,0.1,4,0,23,42,54.8,2,26,2,2,2,Sampdoria,2020-01-12 Sampdoria-Brescia,ITA-SERIA_A,19-20,d5867ce6
+339c6ed4,Vasco Regini,19,ITA,CB,29-125,90,0,0,0,0,0,0,0,0,45,2,1,3,0.0,0.0,0.0,0,0,29,37,78.4,1,13,1,0,0,Sampdoria,2020-01-12 Sampdoria-Brescia,ITA-SERIA_A,19-20,d5867ce6
+ae7058f9,Julian Chabot,5,GER,CB,21-334,90,0,0,0,0,0,0,0,0,46,1,3,0,0.0,0.0,0.0,1,0,35,39,89.7,4,25,0,1,1,Sampdoria,2020-01-12 Sampdoria-Brescia,ITA-SERIA_A,19-20,d5867ce6
+61b3978f,Bartosz Bereszyński,24,POL,RB,27-184,85,0,0,0,0,0,0,0,0,60,0,0,0,0.0,0.0,0.0,9,1,45,57,78.9,2,37,1,1,1,Sampdoria,2020-01-12 Sampdoria-Brescia,ITA-SERIA_A,19-20,d5867ce6
+b233e8e4,Jeison Murillo,21,COL,RB,27-230,5,0,0,0,0,1,0,0,0,10,1,0,0,0.1,0.1,0.0,2,0,6,8,75.0,0,4,1,2,2,Sampdoria,2020-01-12 Sampdoria-Brescia,ITA-SERIA_A,19-20,d5867ce6
+649b01d8,Emil Audero,1,ITA,GK,22-359,90,0,0,0,0,0,0,0,0,35,0,0,0,0.0,0.0,0.0,1,0,14,32,43.8,0,18,0,0,0,Sampdoria,2020-01-12 Sampdoria-Brescia,ITA-SERIA_A,19-20,d5867ce6
+8ff07990,Mario Balotelli,45,ITA,FW,29-153,90,0,0,0,0,5,3,0,0,40,0,0,0,0.5,0.5,0.0,1,0,16,28,57.1,2,20,2,1,1,Brescia,2020-01-12 Sampdoria-Brescia,ITA-SERIA_A,19-20,d5867ce6
+bf39bdec,Ernesto Torregrossa,11,VEN,FW,27-198,90,0,1,0,0,1,0,0,0,29,1,1,1,0.0,0.0,0.2,3,1,11,18,61.1,1,27,2,3,3,Brescia,2020-01-12 Sampdoria-Brescia,ITA-SERIA_A,19-20,d5867ce6
+9e90fb5d,Nikolas Špalek,7,SVK,AM,22-334,68,0,0,0,0,0,0,0,0,17,0,0,0,0.0,0.0,0.0,1,0,7,11,63.6,0,12,1,1,0,Brescia,2020-01-12 Sampdoria-Brescia,ITA-SERIA_A,19-20,d5867ce6
+482145e9,Emanuele Ndoj,6,ALB,AM,23-053,22,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,1,0,6,7,85.7,1,8,0,1,0,Brescia,2020-01-12 Sampdoria-Brescia,ITA-SERIA_A,19-20,d5867ce6
+07abb358,Rômulo,28,ITA,LM,32-235,90,0,0,0,0,0,0,1,0,44,4,1,0,0.0,0.0,0.1,5,0,24,35,68.6,2,25,2,4,2,Brescia,2020-01-12 Sampdoria-Brescia,ITA-SERIA_A,19-20,d5867ce6
+360b2bb1,Mattia Viviani,24,ITA,CM,19-130,90,0,0,0,0,2,0,0,0,53,0,1,2,0.1,0.1,0.3,2,0,33,45,73.3,4,30,0,0,0,Brescia,2020-01-12 Sampdoria-Brescia,ITA-SERIA_A,19-20,d5867ce6
+16569fef,Dimitri Bisoli,25,ITA,RM,25-293,90,0,0,0,0,1,0,1,0,39,0,0,2,0.1,0.1,0.0,2,0,20,27,74.1,5,22,0,2,1,Brescia,2020-01-12 Sampdoria-Brescia,ITA-SERIA_A,19-20,d5867ce6
+deb748c9,Aleš Matějů,3,CZE,LB,23-223,81,0,0,0,0,0,0,0,0,49,2,1,0,0.0,0.0,0.0,1,0,29,38,76.3,1,24,0,0,0,Brescia,2020-01-12 Sampdoria-Brescia,ITA-SERIA_A,19-20,d5867ce6
+1e12c53b,Bruno Martella,26,ITA,LB,27-151,9,0,0,0,0,1,0,0,0,7,1,0,0,0.0,0.0,0.1,1,0,3,4,75.0,0,5,0,0,0,Brescia,2020-01-12 Sampdoria-Brescia,ITA-SERIA_A,19-20,d5867ce6
+33914f14,Massimiliano Mangraviti,19,ITA,CB,21-353,90,0,0,0,0,0,0,1,0,77,0,1,1,0.0,0.0,0.0,0,0,53,63,84.1,8,47,5,0,0,Brescia,2020-01-12 Sampdoria-Brescia,ITA-SERIA_A,19-20,d5867ce6
+84b6acaa,Jhon Chancellor,14,VEN,CB,28-010,90,1,0,0,0,1,1,0,0,72,0,0,2,0.2,0.2,0.0,0,0,56,63,88.9,2,49,0,0,0,Brescia,2020-01-12 Sampdoria-Brescia,ITA-SERIA_A,19-20,d5867ce6
+0ccac09c,Stefano Sabelli,2,ITA,RB,26-364,90,0,0,0,0,0,0,0,0,76,3,2,1,0.0,0.0,0.0,2,0,50,68,73.5,6,47,2,1,1,Brescia,2020-01-12 Sampdoria-Brescia,ITA-SERIA_A,19-20,d5867ce6
+7f66ea09,Jesse Joronen,1,FIN,GK,26-297,90,0,0,0,0,0,0,0,0,35,0,0,0,0.0,0.0,0.0,0,0,24,31,77.4,0,11,0,0,0,Brescia,2020-01-12 Sampdoria-Brescia,ITA-SERIA_A,19-20,d5867ce6

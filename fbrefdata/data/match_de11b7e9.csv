@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+4d8cd038,Luka Jović,8,SRB,FW,20-049,57,0,1,0,0,2,0,0,0,24,0,0,0,0.1,0.1,0.7,2,1,15,21,71.4,1,11,0,0,0,Eintracht Frankfurt,2018-02-10 Eint Frankfurt-Köln,GER-BL1,17-18,de11b7e9
+ba115a40,Sébastien Haller,9,CIV,FW,23-233,33,0,0,0,0,1,0,0,0,15,0,0,0,0.1,0.1,0.0,1,0,5,8,62.5,1,10,0,2,0,Eintracht Frankfurt,2018-02-10 Eint Frankfurt-Köln,GER-BL1,17-18,de11b7e9
+536cebe5,Ante Rebić,4,CRO,AM,24-142,81,1,0,0,0,1,1,0,0,31,3,0,0,0.6,0.6,0.1,2,0,12,26,46.2,2,27,4,6,3,Eintracht Frankfurt,2018-02-10 Eint Frankfurt-Köln,GER-BL1,17-18,de11b7e9
+16daec92,Mijat Gaćinović,11,SRB,AM,23-002,9,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,4,4,100.0,0,4,1,1,0,Eintracht Frankfurt,2018-02-10 Eint Frankfurt-Köln,GER-BL1,17-18,de11b7e9
+fa661778,Marius Wolf,27,GER,AM,22-259,90,1,1,0,0,2,2,0,0,61,2,0,0,0.3,0.3,0.3,6,3,33,51,64.7,7,33,5,6,4,Eintracht Frankfurt,2018-02-10 Eint Frankfurt-Köln,GER-BL1,17-18,de11b7e9
+11fd2b75,Omar Mascarell,39,EQG,CM,25-008,90,0,0,0,0,0,0,1,0,66,0,0,2,0.0,0.0,0.0,1,0,50,60,83.3,4,41,0,0,0,Eintracht Frankfurt,2018-02-10 Eint Frankfurt-Köln,GER-BL1,17-18,de11b7e9
+f4ec4fd0,Kevin-Prince Boateng,17,GHA,CM,30-341,70,0,0,0,0,0,0,0,0,46,2,1,3,0.0,0.0,0.0,2,0,32,40,80.0,3,33,0,2,2,Eintracht Frankfurt,2018-02-10 Eint Frankfurt-Köln,GER-BL1,17-18,de11b7e9
+8e58987d,Gelson Fernandes,5,SUI,CM,31-161,20,0,0,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.0,0,0,9,10,90.0,0,3,0,0,0,Eintracht Frankfurt,2018-02-10 Eint Frankfurt-Köln,GER-BL1,17-18,de11b7e9
+b3b7f5a6,Timothy Chandler,22,USA,WB,27-318,90,0,0,0,0,3,1,0,0,69,1,4,0,0.2,0.2,0.1,3,1,43,57,75.4,4,32,4,0,0,Eintracht Frankfurt,2018-02-10 Eint Frankfurt-Köln,GER-BL1,17-18,de11b7e9
+5ddb8f9f,Danny da Costa,24,GER,WB,24-212,90,0,1,0,0,1,1,0,0,64,2,2,0,0.1,0.1,0.1,3,1,38,55,69.1,4,33,3,1,1,Eintracht Frankfurt,2018-02-10 Eint Frankfurt-Köln,GER-BL1,17-18,de11b7e9
+b82880c6,Simon Falette,3,GUI,CB,25-356,90,1,0,0,0,1,1,0,0,69,0,1,1,0.7,0.7,0.2,2,0,47,60,78.3,5,34,0,1,1,Eintracht Frankfurt,2018-02-10 Eint Frankfurt-Köln,GER-BL1,17-18,de11b7e9
+9ab16552,Makoto Hasebe,20,JPN,CB,34-023,90,0,0,0,0,0,0,0,0,75,1,3,2,0.0,0.0,0.0,0,0,60,65,92.3,4,40,0,0,0,Eintracht Frankfurt,2018-02-10 Eint Frankfurt-Köln,GER-BL1,17-18,de11b7e9
+e26c4233,Marco Russ,23,GER,CB,32-190,90,1,0,0,0,2,2,1,0,81,0,3,2,0.2,0.2,0.0,1,1,59,70,84.3,10,45,2,0,0,Eintracht Frankfurt,2018-02-10 Eint Frankfurt-Köln,GER-BL1,17-18,de11b7e9
+ad3389d5,Lukáš Hrádecký,1,FIN,GK,28-078,90,0,0,0,0,0,0,0,0,41,0,0,0,0.0,0.0,0.0,0,0,29,38,76.3,0,25,0,0,0,Eintracht Frankfurt,2018-02-10 Eint Frankfurt-Köln,GER-BL1,17-18,de11b7e9
+863ff1ee,Simon Terodde,9,GER,FW,29-345,90,2,0,1,1,1,1,0,0,35,2,1,0,0.9,0.1,0.1,2,1,15,25,60.0,4,12,0,1,1,Köln,2018-02-10 Eint Frankfurt-Köln,GER-BL1,17-18,de11b7e9
+9f381d8b,Jhon Córdoba,15,COL,FW,24-275,63,0,0,0,0,1,0,0,0,17,0,0,0,0.1,0.1,0.0,0,0,4,11,36.4,0,9,0,2,0,Köln,2018-02-10 Eint Frankfurt-Köln,GER-BL1,17-18,de11b7e9
+140afefb,Marcel Risse,7,GER,FW,28-055,27,0,1,0,0,2,1,0,0,18,0,0,0,0.1,0.1,0.1,1,1,5,15,33.3,0,9,0,0,0,Köln,2018-02-10 Eint Frankfurt-Köln,GER-BL1,17-18,de11b7e9
+fb59286d,Miloš Jojić,8,SRB,LM,25-328,57,0,0,0,0,1,0,0,0,19,0,0,2,0.1,0.1,0.0,1,0,7,13,53.8,1,7,1,0,0,Köln,2018-02-10 Eint Frankfurt-Köln,GER-BL1,17-18,de11b7e9
+29f7cfd9,Simon Zoller,11,GER,LM,26-229,33,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,1,0,3,6,50.0,0,7,1,0,0,Köln,2018-02-10 Eint Frankfurt-Köln,GER-BL1,17-18,de11b7e9
+4114f306,Marco Höger,6,GER,CM,28-147,90,0,0,0,0,0,0,0,0,60,3,0,1,0.0,0.0,0.0,2,1,40,52,76.9,4,33,1,2,1,Köln,2018-02-10 Eint Frankfurt-Köln,GER-BL1,17-18,de11b7e9
+abb42ce6,Matthias Lehmann,33,GER,CM,34-258,70,0,0,0,0,0,0,0,0,34,0,1,0,0.0,0.0,0.0,0,0,21,31,67.7,4,12,0,0,0,Köln,2018-02-10 Eint Frankfurt-Köln,GER-BL1,17-18,de11b7e9
+9a493fb7,Vincent Koziello,41,FRA,CM,22-105,20,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,0,0,9,10,90.0,1,5,0,0,0,Köln,2018-02-10 Eint Frankfurt-Köln,GER-BL1,17-18,de11b7e9
+15413fa5,Salih Özcan,20,TUR,RM,20-030,90,0,0,0,0,0,0,0,0,37,1,1,1,0.0,0.0,0.0,4,0,28,34,82.4,5,25,2,0,0,Köln,2018-02-10 Eint Frankfurt-Köln,GER-BL1,17-18,de11b7e9
+c2009df3,Jonas Hector,14,GER,LB,27-259,90,0,0,0,0,0,0,0,0,66,4,1,3,0.0,0.0,0.0,2,0,35,49,71.4,0,27,0,1,0,Köln,2018-02-10 Eint Frankfurt-Köln,GER-BL1,17-18,de11b7e9
+699fb8db,Dominique Heintz,3,GER,CB,24-179,90,0,0,0,0,0,0,0,0,50,2,2,2,0.0,0.0,0.0,0,0,31,38,81.6,4,23,0,1,1,Köln,2018-02-10 Eint Frankfurt-Köln,GER-BL1,17-18,de11b7e9
+9f979eb2,Jorge Meré,22,ESP,CB,20-299,90,0,0,0,0,0,0,1,0,54,3,2,3,0.0,0.0,0.0,2,0,34,38,89.5,5,18,0,0,0,Köln,2018-02-10 Eint Frankfurt-Köln,GER-BL1,17-18,de11b7e9
+68635c10,Frederik Sørensen,4,DEN,RB,25-302,90,0,0,0,0,2,1,0,0,74,1,0,0,0.2,0.2,0.0,1,1,43,67,64.2,6,31,3,0,0,Köln,2018-02-10 Eint Frankfurt-Köln,GER-BL1,17-18,de11b7e9
+3cd9e95a,Timo Horn,1,GER,GK,24-274,90,0,0,0,0,0,0,0,0,41,0,0,0,0.0,0.0,0.0,0,0,21,37,56.8,0,16,0,0,0,Köln,2018-02-10 Eint Frankfurt-Köln,GER-BL1,17-18,de11b7e9

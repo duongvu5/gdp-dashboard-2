@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+d705ba44,Andrea Belotti,9,ITA,FW,23-361,90,1,0,0,0,2,1,0,0,39,4,1,0,0.1,0.1,0.1,5,1,18,23,78.3,1,20,1,1,1,Torino,2017-12-16 Torino-Napoli,ITA-SERIA_A,17-18,726ea17d
+dc1c2fce,Álex Berenguer,21,ESP,LW,22-165,64,0,0,0,0,0,0,0,0,39,2,0,2,0.0,0.0,0.0,1,0,18,23,78.3,5,25,1,5,2,Torino,2017-12-16 Torino-Napoli,ITA-SERIA_A,17-18,726ea17d
+2054d037,M'Baye Niang,11,SEN,LW,22-362,26,0,0,0,0,0,0,0,0,18,1,2,1,0.0,0.0,0.0,0,0,7,11,63.6,0,11,1,3,1,Torino,2017-12-16 Torino-Napoli,ITA-SERIA_A,17-18,726ea17d
+440c84ed,Iago Falque,14,ESP,RW,27-346,77,0,0,0,0,1,1,0,0,39,1,0,1,0.1,0.1,0.5,2,0,20,32,62.5,2,23,3,2,1,Torino,2017-12-16 Torino-Napoli,ITA-SERIA_A,17-18,726ea17d
+8697c095,Simone Edera,20,ITA,RW,20-341,13,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,2,0,0,0,Torino,2017-12-16 Torino-Napoli,ITA-SERIA_A,17-18,726ea17d
+ea06dd97,Daniele Baselli,8,ITA,"DM,LM",25-279,90,0,0,0,0,2,0,1,0,71,3,5,0,0.5,0.5,0.0,1,0,51,61,83.6,4,50,0,2,1,Torino,2017-12-16 Torino-Napoli,ITA-SERIA_A,17-18,726ea17d
+c710f7d5,Mirko Valdifiori,2,ITA,CM,31-239,45,0,0,0,0,0,0,0,0,36,0,0,0,0.0,0.0,0.0,0,0,31,36,86.1,5,18,0,0,0,Torino,2017-12-16 Torino-Napoli,ITA-SERIA_A,17-18,726ea17d
+2648e18f,Adem Ljajić,10,SRB,AM,26-078,34,0,0,0,0,0,0,0,0,21,0,0,0,0.0,0.0,0.1,3,1,15,19,78.9,2,10,1,0,0,Torino,2017-12-16 Torino-Napoli,ITA-SERIA_A,17-18,726ea17d
+f1cfc209,Tomás Rincón,88,VEN,"DM,RM",29-337,90,0,0,0,0,0,0,0,0,35,1,4,0,0.0,0.0,0.0,3,0,25,28,89.3,5,23,1,1,1,Torino,2017-12-16 Torino-Napoli,ITA-SERIA_A,17-18,726ea17d
+1c8c5aed,Cristian Molinaro,3,ITA,LB,34-139,90,0,0,0,0,0,0,0,0,85,3,2,0,0.0,0.0,0.0,0,0,62,72,86.1,10,49,4,1,1,Torino,2017-12-16 Torino-Napoli,ITA-SERIA_A,17-18,726ea17d
+9417f322,Nicolás Burdisso,13,ARG,CB,36-248,90,0,0,0,0,0,0,0,0,68,0,2,1,0.0,0.0,0.0,0,0,48,59,81.4,6,43,0,0,0,Torino,2017-12-16 Torino-Napoli,ITA-SERIA_A,17-18,726ea17d
+93cf32a8,Nicolas Nkoulou,33,CMR,CB,27-264,90,0,0,0,0,2,0,0,0,53,1,4,2,0.3,0.3,0.0,0,0,36,40,90.0,2,29,0,0,0,Torino,2017-12-16 Torino-Napoli,ITA-SERIA_A,17-18,726ea17d
+e74f0e59,Lorenzo De Silvestri,29,ITA,RB,29-207,90,0,0,0,0,1,0,0,0,51,0,0,0,0.1,0.1,0.0,1,0,29,45,64.4,3,24,2,0,0,Torino,2017-12-16 Torino-Napoli,ITA-SERIA_A,17-18,726ea17d
+10dc46f0,Salvatore Sirigu,39,ITA,GK,30-338,90,0,0,0,0,0,0,0,0,42,0,1,0,0.0,0.0,0.0,0,0,36,42,85.7,0,22,0,0,0,Torino,2017-12-16 Torino-Napoli,ITA-SERIA_A,17-18,726ea17d
+89b2c8a9,Dries Mertens,14,BEL,FW,30-224,90,0,1,0,0,3,0,0,0,45,1,1,1,0.7,0.7,0.1,4,1,31,35,88.6,3,24,2,2,1,Napoli,2017-12-16 Torino-Napoli,ITA-SERIA_A,17-18,726ea17d
+a5296e55,Piotr Zieliński,20,POL,LW,23-210,69,1,0,0,0,2,2,0,0,31,1,0,0,0.5,0.5,0.0,1,0,18,25,72.0,1,24,3,0,0,Napoli,2017-12-16 Torino-Napoli,ITA-SERIA_A,17-18,726ea17d
+2f557579,Lorenzo Insigne,24,ITA,LW,26-195,21,0,0,0,0,1,0,0,0,32,0,1,0,0.1,0.1,0.0,1,0,24,30,80.0,4,21,2,1,1,Napoli,2017-12-16 Torino-Napoli,ITA-SERIA_A,17-18,726ea17d
+78841da9,José Callejón,7,ESP,RW,30-308,90,0,0,0,0,0,0,0,0,62,1,3,2,0.0,0.0,0.0,1,1,44,53,83.0,3,27,0,0,0,Napoli,2017-12-16 Torino-Napoli,ITA-SERIA_A,17-18,726ea17d
+e6ad16b2,Marek Hamšík,17,SVK,LM,30-142,82,1,0,0,0,3,1,0,0,77,1,0,1,0.1,0.1,0.0,0,0,57,69,82.6,5,42,4,1,1,Napoli,2017-12-16 Torino-Napoli,ITA-SERIA_A,17-18,726ea17d
+b6b2b820,Marko Rog,30,CRO,LM,22-150,8,0,0,0,0,0,0,0,0,17,0,0,0,0.0,0.0,0.0,0,0,16,17,94.1,0,11,1,0,0,Napoli,2017-12-16 Torino-Napoli,ITA-SERIA_A,17-18,726ea17d
+45db685d,Jorginho,8,ITA,CM,25-361,75,0,1,0,0,0,0,0,0,60,5,1,0,0.0,0.0,0.5,3,2,46,53,86.8,7,23,0,0,0,Napoli,2017-12-16 Torino-Napoli,ITA-SERIA_A,17-18,726ea17d
+bf309d24,Amadou Diawara,42,GUI,CM,20-152,15,0,0,0,0,0,0,0,0,38,0,0,1,0.0,0.0,0.0,0,0,35,37,94.6,3,27,0,0,0,Napoli,2017-12-16 Torino-Napoli,ITA-SERIA_A,17-18,726ea17d
+cc700722,Allan,5,BRA,RM,26-342,90,0,1,0,0,1,0,0,0,61,5,0,4,0.0,0.0,1.0,5,1,36,43,83.7,6,40,2,4,2,Napoli,2017-12-16 Torino-Napoli,ITA-SERIA_A,17-18,726ea17d
+0b5a292a,Mário Rui,6,POR,LB,26-203,90,0,0,0,0,0,0,0,0,70,0,0,3,0.0,0.0,0.1,2,0,48,62,77.4,7,35,1,2,1,Napoli,2017-12-16 Torino-Napoli,ITA-SERIA_A,17-18,726ea17d
+da974c7b,Kalidou Koulibaly,26,SEN,CB,26-179,90,1,0,0,0,2,1,0,0,90,3,1,0,0.4,0.4,0.0,0,0,73,79,92.4,2,62,0,0,0,Napoli,2017-12-16 Torino-Napoli,ITA-SERIA_A,17-18,726ea17d
+4bd414c1,Raúl Albiol,33,ESP,CB,32-103,90,0,0,0,0,0,0,1,0,112,1,1,0,0.0,0.0,0.0,0,0,93,100,93.0,12,81,1,1,0,Napoli,2017-12-16 Torino-Napoli,ITA-SERIA_A,17-18,726ea17d
+2f3452eb,Elseid Hysaj,23,ALB,RB,23-299,90,0,0,0,0,0,0,0,0,101,4,5,2,0.0,0.0,0.1,5,1,71,86,82.6,4,53,5,2,2,Napoli,2017-12-16 Torino-Napoli,ITA-SERIA_A,17-18,726ea17d
+e358587b,Pepe Reina,25,ESP,GK,35-107,90,0,0,0,0,0,0,0,0,49,0,0,0,0.0,0.0,0.0,0,0,40,49,81.6,0,22,0,0,0,Napoli,2017-12-16 Torino-Napoli,ITA-SERIA_A,17-18,726ea17d

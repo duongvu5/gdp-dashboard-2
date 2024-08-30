@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+942b4f90,Wissam Ben Yedder,10,FRA,FW,32-183,71,2,1,0,0,3,2,0,0,29,0,0,0,0.7,0.7,0.8,3,1,18,23,78.3,2,23,3,5,3,Monaco,2023-02-11 Monaco-Paris S-G,FRA-L1,22-23,72eb59cf
+0b4f388a,Breel Embolo,36,SUI,FW,25-362,19,0,0,0,0,2,1,0,0,17,0,0,1,0.4,0.4,0.2,5,0,12,13,92.3,2,14,0,4,4,Monaco,2023-02-11 Monaco-Paris S-G,FRA-L1,22-23,72eb59cf
+3bd65247,Eliesse Ben Seghir,44,MAR,FW,17-360,71,0,1,0,0,2,1,0,0,36,1,0,1,0.2,0.2,0.4,3,1,20,27,74.1,3,26,4,5,4,Monaco,2023-02-11 Monaco-Paris S-G,FRA-L1,22-23,72eb59cf
+f833a830,Takumi Minamino,18,JPN,FW,28-026,19,0,0,0,0,2,1,0,0,10,0,0,1,0.2,0.2,0.0,0,0,4,7,57.1,1,7,1,0,0,Monaco,2023-02-11 Monaco-Paris S-G,FRA-L1,22-23,72eb59cf
+3708e9fa,Aleksandr Golovin,17,RUS,AM,26-257,79,1,0,0,0,2,2,0,0,45,3,4,0,0.8,0.8,0.1,4,1,26,34,76.5,1,34,3,3,3,Monaco,2023-02-11 Monaco-Paris S-G,FRA-L1,22-23,72eb59cf
+a0415710,Ismail Jakobs,14,SEN,AM,23-178,11,0,0,0,0,1,0,0,0,8,0,0,0,0.1,0.1,0.1,2,0,6,7,85.7,1,7,2,2,2,Monaco,2023-02-11 Monaco-Paris S-G,FRA-L1,22-23,72eb59cf
+8104e41e,Krépin Diatta,27,SEN,AM,23-351,90,0,1,0,0,2,0,0,0,59,5,0,1,0.2,0.2,0.2,7,1,36,45,80.0,4,43,3,2,0,Monaco,2023-02-11 Monaco-Paris S-G,FRA-L1,22-23,72eb59cf
+489e80e3,Mohamed Camara,4,MLI,DM,23-036,89,0,0,0,0,0,0,0,0,75,7,2,3,0.0,0.0,0.0,0,0,51,59,86.4,6,63,0,2,1,Monaco,2023-02-11 Monaco-Paris S-G,FRA-L1,22-23,72eb59cf
+15944afd,Eliot Matazo,15,BEL,DM,20-361,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Monaco,2023-02-11 Monaco-Paris S-G,FRA-L1,22-23,72eb59cf
+822d51d7,Youssouf Fofana,19,FRA,DM,24-032,90,0,0,0,0,2,0,0,0,72,2,4,4,0.2,0.2,0.0,1,0,45,56,80.4,3,55,3,3,2,Monaco,2023-02-11 Monaco-Paris S-G,FRA-L1,22-23,72eb59cf
+30af8b93,Caio Henrique Oliveira Silva,12,BRA,LB,25-195,90,0,0,0,0,0,0,0,0,93,1,0,2,0.0,0.0,0.2,3,0,77,88,87.5,4,61,2,2,1,Monaco,2023-02-11 Monaco-Paris S-G,FRA-L1,22-23,72eb59cf
+d9764034,Guillermo Maripán,3,CHI,CB,28-281,90,0,0,0,0,1,0,0,0,62,1,0,1,0.0,0.0,0.0,0,0,52,56,92.9,1,50,0,0,0,Monaco,2023-02-11 Monaco-Paris S-G,FRA-L1,22-23,72eb59cf
+ad82197c,Axel Disasi,6,FRA,CB,24-337,90,0,0,0,0,0,0,0,0,50,0,1,3,0.0,0.0,0.0,1,0,39,44,88.6,3,42,0,0,0,Monaco,2023-02-11 Monaco-Paris S-G,FRA-L1,22-23,72eb59cf
+3dd738a1,Ruben Aguilar,26,FRA,RB,29-291,90,0,0,0,0,2,2,0,0,65,3,0,1,0.2,0.2,0.1,2,0,49,53,92.5,5,48,4,1,0,Monaco,2023-02-11 Monaco-Paris S-G,FRA-L1,22-23,72eb59cf
+afb0c500,Alexander Nübel,16,GER,GK,26-134,90,0,0,0,0,0,0,0,0,22,0,0,0,0.0,0.0,0.0,0,0,19,22,86.4,0,17,0,0,0,Monaco,2023-02-11 Monaco-Paris S-G,FRA-L1,22-23,72eb59cf
+69384e5d,Neymar,10,BRA,FW,31-006,90,0,0,0,0,1,0,0,0,93,1,0,0,0.0,0.0,0.0,2,0,63,80,78.8,8,88,5,10,5,Paris Saint-Germain,2023-02-11 Monaco-Paris S-G,FRA-L1,22-23,72eb59cf
+5b92d896,Hugo Ekitike,44,FRA,FW,20-236,79,0,0,0,0,0,0,0,0,26,0,0,2,0.0,0.0,0.0,0,0,17,20,85.0,2,19,0,2,0,Paris Saint-Germain,2023-02-11 Monaco-Paris S-G,FRA-L1,22-23,72eb59cf
+910e3cad,Ilyes Housni,37,FRA,FW,17-273,11,0,0,0,0,0,0,0,0,5,1,0,0,0.0,0.0,0.0,0,0,3,3,100.0,0,6,0,0,0,Paris Saint-Germain,2023-02-11 Monaco-Paris S-G,FRA-L1,22-23,72eb59cf
+fed17f5a,Carlos Soler,28,ESP,"LM,CM",26-040,90,0,0,0,0,1,1,0,0,59,2,0,0,0.0,0.0,0.0,1,1,46,53,86.8,3,50,4,1,1,Paris Saint-Germain,2023-02-11 Monaco-Paris S-G,FRA-L1,22-23,72eb59cf
+3b029691,Vitinha,17,POR,CM,22-363,79,0,0,0,0,0,0,0,0,88,3,0,3,0.0,0.0,0.1,3,0,72,82,87.8,6,79,3,1,1,Paris Saint-Germain,2023-02-11 Monaco-Paris S-G,FRA-L1,22-23,72eb59cf
+aef6e670,Presnel Kimpembe,3,FRA,CB,27-182,11,0,0,0,0,0,0,0,0,19,0,0,0,0.0,0.0,0.0,0,0,17,18,94.4,1,16,0,0,0,Paris Saint-Germain,2023-02-11 Monaco-Paris S-G,FRA-L1,22-23,72eb59cf
+6b9960cf,Warren Zaïre-Emery,33,FRA,"CM,RM",16-340,90,1,0,0,0,1,1,0,0,74,1,1,2,0.6,0.6,0.0,1,0,55,63,87.3,4,63,5,5,1,Paris Saint-Germain,2023-02-11 Monaco-Paris S-G,FRA-L1,22-23,72eb59cf
+433dc9a2,Juan Bernat,14,ESP,"LB,WB",29-347,90,0,1,0,0,1,0,0,0,83,3,1,1,0.0,0.0,0.7,3,1,68,73,93.2,3,65,3,1,1,Paris Saint-Germain,2023-02-11 Monaco-Paris S-G,FRA-L1,22-23,72eb59cf
+f8ce97ca,Timothee Pembele,29,FRA,"RB,WB",20-155,65,0,0,0,0,2,0,0,0,42,2,3,2,0.1,0.1,0.0,2,0,25,31,80.6,0,30,1,2,1,Paris Saint-Germain,2023-02-11 Monaco-Paris S-G,FRA-L1,22-23,72eb59cf
+e42d61c7,Achraf Hakimi,2,MAR,RB,24-099,25,0,0,0,0,0,0,1,0,20,1,0,0,0.0,0.0,0.0,0,0,17,18,94.4,1,16,0,0,0,Paris Saint-Germain,2023-02-11 Monaco-Paris S-G,FRA-L1,22-23,72eb59cf
+2180c761,El Chadaille Bitshiabu,31,FRA,CB,17-271,45,0,0,0,0,0,0,0,0,35,0,3,1,0.0,0.0,0.0,0,0,27,29,93.1,1,29,0,0,0,Paris Saint-Germain,2023-02-11 Monaco-Paris S-G,FRA-L1,22-23,72eb59cf
+08511d65,Sergio Ramos,4,ESP,CB,36-318,45,0,0,0,0,0,0,0,0,70,2,1,1,0.0,0.0,0.0,0,0,59,61,96.7,2,55,0,1,1,Paris Saint-Germain,2023-02-11 Monaco-Paris S-G,FRA-L1,22-23,72eb59cf
+d5f2f82b,Marquinhos,5,BRA,"CB,CM",28-273,90,0,0,0,0,0,0,0,0,92,0,1,2,0.0,0.0,0.0,0,0,78,82,95.1,5,76,0,0,0,Paris Saint-Germain,2023-02-11 Monaco-Paris S-G,FRA-L1,22-23,72eb59cf
+8fd9996f,Danilo Pereira,15,POR,"CM,CB",31-155,58,0,0,0,0,1,0,0,0,67,3,3,2,0.0,0.0,0.0,2,0,53,58,91.4,5,53,1,1,1,Paris Saint-Germain,2023-02-11 Monaco-Paris S-G,FRA-L1,22-23,72eb59cf
+5b3cfa12,Ismaël Gharbi,35,ESP,RM,18-307,32,0,0,0,0,0,0,0,0,24,0,3,0,0.0,0.0,0.0,0,0,18,22,81.8,0,22,1,1,1,Paris Saint-Germain,2023-02-11 Monaco-Paris S-G,FRA-L1,22-23,72eb59cf
+08f5afaa,Gianluigi Donnarumma,99,ITA,GK,23-351,90,0,0,0,0,0,0,0,0,36,0,0,0,0.0,0.0,0.0,0,0,27,31,87.1,0,22,0,0,0,Paris Saint-Germain,2023-02-11 Monaco-Paris S-G,FRA-L1,22-23,72eb59cf

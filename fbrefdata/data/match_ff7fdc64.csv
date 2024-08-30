@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+ba115a40,Sébastien Haller,9,CIV,FW,23-170,90,0,0,0,0,1,0,0,0,32,1,0,1,0.1,0.1,0.0,1,0,17,25,68.0,1,23,2,1,1,Eintracht Frankfurt,2017-12-09 Eint Frankfurt-Bayern Munich,GER-BL1,17-18,ff7fdc64
+536cebe5,Ante Rebić,4,CRO,LW,24-079,90,0,0,0,0,3,2,0,0,45,2,2,1,0.2,0.2,0.0,3,0,18,31,58.1,3,33,3,9,4,Eintracht Frankfurt,2017-12-09 Eint Frankfurt-Bayern Munich,GER-BL1,17-18,ff7fdc64
+a2a85828,Aymen Barkok,28,MAR,RW,19-202,81,0,0,0,0,1,0,0,0,34,1,0,2,0.0,0.0,0.1,3,0,21,25,84.0,2,20,0,2,0,Eintracht Frankfurt,2017-12-09 Eint Frankfurt-Bayern Munich,GER-BL1,17-18,ff7fdc64
+500cd987,Marc Stendera,21,GER,RW,21-364,9,0,0,0,0,0,0,0,0,6,2,0,1,0.0,0.0,0.0,1,0,1,3,33.3,1,0,0,0,0,Eintracht Frankfurt,2017-12-09 Eint Frankfurt-Bayern Munich,GER-BL1,17-18,ff7fdc64
+9050ddc4,Jetro Willems,15,NED,LM,23-254,77,0,0,0,0,1,1,0,0,52,1,0,0,0.0,0.0,0.1,1,0,32,44,72.7,7,26,2,3,1,Eintracht Frankfurt,2017-12-09 Eint Frankfurt-Bayern Munich,GER-BL1,17-18,ff7fdc64
+bbb496b5,Taleb Tawatha,33,ISR,LM,25-171,13,0,0,0,0,0,0,0,0,11,1,1,0,0.0,0.0,0.0,0,0,6,9,66.7,0,4,1,0,0,Eintracht Frankfurt,2017-12-09 Eint Frankfurt-Bayern Munich,GER-BL1,17-18,ff7fdc64
+8e58987d,Gelson Fernandes,5,SUI,CM,31-098,70,0,0,0,0,0,0,1,0,34,3,2,2,0.0,0.0,0.0,0,0,26,28,92.9,3,17,0,0,0,Eintracht Frankfurt,2017-12-09 Eint Frankfurt-Bayern Munich,GER-BL1,17-18,ff7fdc64
+4d8cd038,Luka Jović,8,SRB,CM,19-351,20,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,1,3,33.3,0,3,0,1,1,Eintracht Frankfurt,2017-12-09 Eint Frankfurt-Bayern Munich,GER-BL1,17-18,ff7fdc64
+f4ec4fd0,Kevin-Prince Boateng,17,GHA,CM,30-278,90,0,0,0,0,2,0,0,0,85,0,0,2,0.0,0.0,0.1,3,0,56,75,74.7,5,49,0,3,2,Eintracht Frankfurt,2017-12-09 Eint Frankfurt-Bayern Munich,GER-BL1,17-18,ff7fdc64
+fa661778,Marius Wolf,27,GER,RM,22-196,90,0,0,0,0,2,0,1,0,56,1,2,2,0.1,0.1,0.0,6,0,35,47,74.5,2,25,4,2,1,Eintracht Frankfurt,2017-12-09 Eint Frankfurt-Bayern Munich,GER-BL1,17-18,ff7fdc64
+b82880c6,Simon Falette,3,GUI,CB,25-293,90,0,0,0,0,0,0,0,0,65,0,5,2,0.0,0.0,0.0,0,0,46,55,83.6,4,36,1,0,0,Eintracht Frankfurt,2017-12-09 Eint Frankfurt-Bayern Munich,GER-BL1,17-18,ff7fdc64
+565bf0da,David Abraham,19,ARG,CB,31-147,90,0,0,0,0,0,0,0,0,96,0,1,2,0.0,0.0,0.0,0,0,83,89,93.3,8,63,0,0,0,Eintracht Frankfurt,2017-12-09 Eint Frankfurt-Bayern Munich,GER-BL1,17-18,ff7fdc64
+64c07ae1,Carlos Salcedo,13,MEX,CB,24-071,90,0,0,0,0,1,0,0,0,81,3,2,2,0.0,0.0,0.0,1,0,62,70,88.6,7,49,1,0,0,Eintracht Frankfurt,2017-12-09 Eint Frankfurt-Bayern Munich,GER-BL1,17-18,ff7fdc64
+ad3389d5,Lukáš Hrádecký,1,FIN,GK,28-015,90,0,0,0,0,0,0,0,0,36,0,0,0,0.0,0.0,0.0,0,0,28,36,77.8,0,27,0,0,0,Eintracht Frankfurt,2017-12-09 Eint Frankfurt-Bayern Munich,GER-BL1,17-18,ff7fdc64
+3c6089ab,Thomas Müller,25,GER,FW,28-087,90,0,0,0,0,0,0,1,0,42,0,0,0,0.0,0.0,0.0,0,0,21,32,65.6,1,26,1,2,0,Bayern Munich,2017-12-09 Eint Frankfurt-Bayern Munich,GER-BL1,17-18,ff7fdc64
+f61c7c4e,Franck Ribéry,7,FRA,LW,34-246,66,0,0,0,0,0,0,0,0,34,1,0,1,0.0,0.0,0.1,3,0,23,26,88.5,3,27,4,2,1,Bayern Munich,2017-12-09 Eint Frankfurt-Bayern Munich,GER-BL1,17-18,ff7fdc64
+05439de2,David Alaba,27,AUT,LW,25-168,24,0,0,0,0,0,0,0,0,16,2,0,1,0.0,0.0,0.0,0,0,7,12,58.3,0,8,0,1,0,Bayern Munich,2017-12-09 Eint Frankfurt-Bayern Munich,GER-BL1,17-18,ff7fdc64
+042e8a49,Kingsley Coman,29,FRA,RW,21-179,83,0,0,0,0,1,0,0,0,28,2,0,0,0.1,0.1,0.0,2,0,18,22,81.8,1,15,3,5,4,Bayern Munich,2017-12-09 Eint Frankfurt-Bayern Munich,GER-BL1,17-18,ff7fdc64
+8d78e732,Robert Lewandowski,9,POL,RW,29-110,7,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,5,6,83.3,1,8,2,1,1,Bayern Munich,2017-12-09 Eint Frankfurt-Bayern Munich,GER-BL1,17-18,ff7fdc64
+67cdbc0e,Arturo Vidal,23,CHI,LM,30-201,54,1,0,0,0,2,1,1,0,35,3,0,2,0.1,0.1,0.0,1,1,20,21,95.2,3,14,0,0,0,Bayern Munich,2017-12-09 Eint Frankfurt-Bayern Munich,GER-BL1,17-18,ff7fdc64
+652d4c37,Corentin Tolisso,24,FRA,LM,23-128,36,0,0,0,0,0,0,0,0,25,2,1,0,0.0,0.0,0.0,0,0,13,20,65.0,3,13,1,1,0,Bayern Munich,2017-12-09 Eint Frankfurt-Bayern Munich,GER-BL1,17-18,ff7fdc64
+7f97771d,Javi Martínez,8,ESP,CM,29-098,90,0,0,0,0,1,0,0,0,55,1,1,2,0.1,0.1,0.0,0,0,33,44,75.0,4,18,0,1,0,Bayern Munich,2017-12-09 Eint Frankfurt-Bayern Munich,GER-BL1,17-18,ff7fdc64
+715bf047,James Rodríguez,11,COL,RM,26-150,90,0,0,0,0,0,0,0,0,72,2,0,0,0.0,0.0,0.0,3,0,57,66,86.4,9,45,0,3,1,Bayern Munich,2017-12-09 Eint Frankfurt-Bayern Munich,GER-BL1,17-18,ff7fdc64
+d003e213,Rafinha,13,BRA,LB,32-093,90,0,0,0,0,1,0,1,0,91,3,5,3,0.0,0.0,0.0,0,0,64,75,85.3,2,42,0,2,1,Bayern Munich,2017-12-09 Eint Frankfurt-Bayern Munich,GER-BL1,17-18,ff7fdc64
+e33c06cf,Niklas Süle,4,GER,CB,22-097,90,0,0,0,0,0,0,0,0,61,0,0,0,0.0,0.0,0.0,0,0,46,55,83.6,5,33,1,0,0,Bayern Munich,2017-12-09 Eint Frankfurt-Bayern Munich,GER-BL1,17-18,ff7fdc64
+2db2fd7b,Jérôme Boateng,17,GER,CB,29-097,90,0,0,0,0,1,0,0,0,67,5,0,1,0.0,0.0,0.1,0,0,42,53,79.2,3,30,0,0,0,Bayern Munich,2017-12-09 Eint Frankfurt-Bayern Munich,GER-BL1,17-18,ff7fdc64
+49296448,Joshua Kimmich,32,GER,RB,22-304,90,0,1,0,0,0,0,0,0,54,1,1,1,0.0,0.0,0.1,3,1,33,48,68.8,4,26,1,1,0,Bayern Munich,2017-12-09 Eint Frankfurt-Bayern Munich,GER-BL1,17-18,ff7fdc64
+5b52d1f7,Tom Starke,22,GER,GK,36-266,90,0,0,0,0,0,0,0,0,33,0,0,0,0.0,0.0,0.0,0,0,16,31,51.6,0,16,0,0,0,Bayern Munich,2017-12-09 Eint Frankfurt-Bayern Munich,GER-BL1,17-18,ff7fdc64

@@ -1,0 +1,35 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+19ba6c6d,Steve Mounié,15,BEN,FW,27-073,76,0,0,0,0,4,1,0,0,41,0,0,0,0.5,0.5,0.0,1,0,16,29,55.2,2,16,4,0,0,Brest,2021-12-11 Brest-Montpellier,FRA-L1,21-22,cc87b9bb
+c2e5f306,Rafiki Said,19,COM,FW,21-271,14,0,0,0,0,2,1,0,0,14,1,0,0,0.0,0.0,0.0,1,0,4,8,50.0,0,8,2,2,0,Brest,2021-12-11 Brest-Montpellier,FRA-L1,21-22,cc87b9bb
+88c4d190,Jérémy Le Douaron,26,FRA,FW,23-234,60,0,0,0,0,1,0,0,0,21,0,0,1,0.0,0.0,0.0,1,0,9,15,60.0,1,9,1,2,1,Brest,2021-12-11 Brest-Montpellier,FRA-L1,21-22,cc87b9bb
+5e080f73,Irvin Cardona,14,FRA,FW,24-125,30,0,0,0,0,2,0,0,0,10,1,0,0,0.1,0.1,0.0,0,0,4,6,66.7,0,5,0,1,0,Brest,2021-12-11 Brest-Montpellier,FRA-L1,21-22,cc87b9bb
+db7849ca,Franck Honorat,9,FRA,LM,25-122,90,0,0,0,0,2,1,0,0,45,0,0,2,0.0,0.0,0.1,5,0,28,36,77.8,3,18,1,0,0,Brest,2021-12-11 Brest-Montpellier,FRA-L1,21-22,cc87b9bb
+2b1bed19,Haris Belkebla,7,ALG,CM,27-317,77,0,0,0,0,0,0,0,0,42,3,1,0,0.0,0.0,0.0,3,0,29,36,80.6,4,22,1,0,0,Brest,2021-12-11 Brest-Montpellier,FRA-L1,21-22,cc87b9bb
+542cc80f,Paul Lasne,8,FRA,CM,32-329,13,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,5,8,62.5,0,6,0,0,0,Brest,2021-12-11 Brest-Montpellier,FRA-L1,21-22,cc87b9bb
+8bc8829a,Lucien Agoume,10,FRA,CM,19-305,60,0,0,0,0,1,0,0,0,39,3,1,1,0.0,0.0,0.0,4,0,29,33,87.9,4,21,2,2,2,Brest,2021-12-11 Brest-Montpellier,FRA-L1,21-22,cc87b9bb
+d4d35152,Hugo Magnetti,27,FRA,CM,23-195,30,0,0,0,0,1,0,1,0,26,1,2,0,0.0,0.0,0.0,1,0,19,22,86.4,2,17,1,1,1,Brest,2021-12-11 Brest-Montpellier,FRA-L1,21-22,cc87b9bb
+745ca0a3,Romain Faivre,21,FRA,RM,23-150,84,0,0,0,0,2,2,0,0,64,0,0,0,0.1,0.1,0.3,6,0,37,49,75.5,5,39,8,7,1,Brest,2021-12-11 Brest-Montpellier,FRA-L1,21-22,cc87b9bb
+6a2b9aee,Youssouph Badji,29,SEN,RM,19-356,6,0,0,0,0,0,0,0,0,4,1,0,0,0.0,0.0,0.0,1,0,2,3,66.7,0,2,0,0,0,Brest,2021-12-11 Brest-Montpellier,FRA-L1,21-22,cc87b9bb
+0cbc8baa,Jean-Kevin Duverne,2,HAI,LB,24-152,90,0,0,0,0,0,0,0,0,62,3,2,0,0.0,0.0,0.2,4,0,44,58,75.9,9,35,6,1,0,Brest,2021-12-11 Brest-Montpellier,FRA-L1,21-22,cc87b9bb
+5b146df3,Lilian Brassier,3,FRA,CB,22-039,90,0,0,0,0,0,0,0,0,38,0,2,1,0.0,0.0,0.0,1,0,28,31,90.3,1,20,0,0,0,Brest,2021-12-11 Brest-Montpellier,FRA-L1,21-22,cc87b9bb
+3681cfff,Christophe Hérelle,23,MTQ,CB,29-111,90,0,0,0,0,1,0,1,0,50,4,0,0,0.0,0.0,0.0,2,0,38,41,92.7,1,33,0,1,1,Brest,2021-12-11 Brest-Montpellier,FRA-L1,21-22,cc87b9bb
+64ba07c0,Ronaël Pierre-Gabriel,18,FRA,RB,23-181,90,0,0,0,0,1,1,0,0,65,5,1,0,0.0,0.0,0.0,1,0,45,56,80.4,6,33,4,3,2,Brest,2021-12-11 Brest-Montpellier,FRA-L1,21-22,cc87b9bb
+3d214e5f,Marco Bizot,40,NED,GK,30-276,90,0,0,0,0,0,0,0,0,28,0,0,0,0.0,0.0,0.0,1,0,24,28,85.7,0,11,0,0,0,Brest,2021-12-11 Brest-Montpellier,FRA-L1,21-22,cc87b9bb
+0d7b6576,Elye Wahi,21,FRA,FW,18-343,45,1,0,0,0,1,1,0,0,5,0,0,0,0.2,0.2,0.0,0,0,2,3,66.7,0,4,0,0,0,Montpellier,2021-12-11 Brest-Montpellier,FRA-L1,21-22,cc87b9bb
+ea0ff634,Valère Germain,9,FRA,FW,31-238,45,1,1,0,0,1,1,0,0,17,0,0,1,0.1,0.1,1.0,2,1,13,14,92.9,0,11,0,0,0,Montpellier,2021-12-11 Brest-Montpellier,FRA-L1,21-22,cc87b9bb
+30144daa,Stephy Mavididi,10,ENG,LW,23-194,88,1,0,0,0,2,1,0,0,36,3,0,1,0.1,0.1,0.0,1,0,21,24,87.5,0,22,0,3,1,Montpellier,2021-12-11 Brest-Montpellier,FRA-L1,21-22,cc87b9bb
+fcc84a07,Léo Leroy,18,FRA,AM,21-300,2,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,3,0,1,1,Montpellier,2021-12-11 Brest-Montpellier,FRA-L1,21-22,cc87b9bb
+24eb7ed6,Junior Sambia,6,FRA,"RW,RB",25-095,90,1,0,0,0,2,1,0,0,47,5,1,1,1.0,1.0,0.0,2,0,25,34,73.5,4,19,1,1,1,Montpellier,2021-12-11 Brest-Montpellier,FRA-L1,21-22,cc87b9bb
+6bde367b,Téji Savanier,11,FRA,"AM,DM",29-354,90,0,1,0,0,2,0,0,0,83,1,3,1,0.1,0.1,0.2,4,3,47,69,68.1,8,59,3,6,6,Montpellier,2021-12-11 Brest-Montpellier,FRA-L1,21-22,cc87b9bb
+7909ffa4,Joris Chotard,13,FRA,DM,20-078,90,0,0,0,0,0,0,0,0,62,3,1,1,0.0,0.0,0.0,0,0,44,48,91.7,2,27,0,1,0,Montpellier,2021-12-11 Brest-Montpellier,FRA-L1,21-22,cc87b9bb
+375622c5,Jordan Ferri,12,FRA,DM,29-274,88,0,0,0,0,0,0,1,0,105,1,0,0,0.0,0.0,0.0,1,0,87,101,86.1,8,65,3,0,0,Montpellier,2021-12-11 Brest-Montpellier,FRA-L1,21-22,cc87b9bb
+e4448c8c,Sacha Delaye,34,FRA,LW,19-232,2,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,0,0,Montpellier,2021-12-11 Brest-Montpellier,FRA-L1,21-22,cc87b9bb
+ea0aa7e0,Mihailo Ristić,7,SRB,LB,26-041,70,0,0,0,0,0,0,0,0,43,1,0,0,0.0,0.0,0.0,1,1,32,38,84.2,2,25,1,2,2,Montpellier,2021-12-11 Brest-Montpellier,FRA-L1,21-22,cc87b9bb
+e3e05edf,Ambroise Oyongo,8,CMR,LB,30-172,20,0,0,0,0,0,0,0,0,17,0,0,1,0.0,0.0,0.0,0,0,12,14,85.7,0,10,0,1,1,Montpellier,2021-12-11 Brest-Montpellier,FRA-L1,21-22,cc87b9bb
+87935cf3,Mamadou Sakho,3,FRA,CB,31-301,90,0,0,0,0,0,0,0,0,96,3,0,4,0.0,0.0,0.0,0,0,80,81,98.8,0,48,1,0,0,Montpellier,2021-12-11 Brest-Montpellier,FRA-L1,21-22,cc87b9bb
+8f325097,Nicolas Cozza,31,FRA,CB,22-337,88,0,0,0,0,0,0,0,0,70,1,0,1,0.0,0.0,0.0,1,0,56,65,86.2,2,41,0,0,0,Montpellier,2021-12-11 Brest-Montpellier,FRA-L1,21-22,cc87b9bb
+db23d9fc,Thuler,26,BRA,CB,22-276,2,0,0,0,0,0,0,0,0,5,0,1,0,0.0,0.0,0.0,0,0,2,2,100.0,0,4,0,0,0,Montpellier,2021-12-11 Brest-Montpellier,FRA-L1,21-22,cc87b9bb
+4e0afc5d,Arnaud Souquet,2,FRA,RB,29-302,76,0,1,0,0,1,0,0,0,46,3,1,1,0.0,0.0,0.1,2,1,26,37,70.3,4,13,1,1,0,Montpellier,2021-12-11 Brest-Montpellier,FRA-L1,21-22,cc87b9bb
+79ab7593,Nicholas Gioacchini,23,USA,"RB,RW",21-139,14,0,1,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.3,3,2,3,3,100.0,1,3,1,1,1,Montpellier,2021-12-11 Brest-Montpellier,FRA-L1,21-22,cc87b9bb
+c631f952,Jonas Omlin,1,SUI,GK,27-335,90,0,0,0,0,0,0,0,0,44,0,0,0,0.0,0.0,0.0,0,0,37,42,88.1,0,23,0,0,0,Montpellier,2021-12-11 Brest-Montpellier,FRA-L1,21-22,cc87b9bb

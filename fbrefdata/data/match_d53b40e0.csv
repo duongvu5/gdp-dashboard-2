@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+29ef0f49,Aaron Leya Iseka,24,BEL,FW,23-080,52,0,0,0,0,0,0,1,0,17,0,0,1,0.0,0.0,0.0,1,0,11,12,91.7,0,9,0,0,0,Metz,2021-02-03 Metz-Montpellier,FRA-L1,20-21,d53b40e0
+2945f4b7,Thierry Ambrose,9,GLP,FW,23-312,38,0,0,0,0,0,0,1,0,13,0,0,0,0.0,0.0,0.0,0,0,8,8,100.0,0,10,1,0,0,Metz,2021-02-03 Metz-Montpellier,FRA-L1,20-21,d53b40e0
+87e9c7cd,Papa Ndiaga Yade,26,MTN,FW,21-029,65,0,1,0,0,0,0,0,0,22,0,0,1,0.0,0.0,0.2,4,1,13,14,92.9,1,13,1,3,1,Metz,2021-02-03 Metz-Montpellier,FRA-L1,20-21,d53b40e0
+9d5dcc23,Lamine Gueye,13,SEN,RW,22-327,25,0,0,0,0,2,0,0,0,13,0,0,0,0.1,0.1,0.1,3,0,8,9,88.9,0,11,2,0,0,Metz,2021-02-03 Metz-Montpellier,FRA-L1,20-21,d53b40e0
+a0791826,Farid Boulaya,10,ALG,"AM,LW",27-344,90,0,0,0,0,5,2,0,0,60,0,0,1,0.2,0.2,0.1,5,0,31,51,60.8,7,38,4,4,3,Metz,2021-02-03 Metz-Montpellier,FRA-L1,20-21,d53b40e0
+feb5d972,Pape Matar Sarr,15,SEN,CM,18-142,78,1,0,0,0,2,2,0,0,43,1,1,1,0.1,0.1,0.1,2,0,35,39,89.7,5,33,1,0,0,Metz,2021-02-03 Metz-Montpellier,FRA-L1,20-21,d53b40e0
+93b8f9f4,Warren Tchimbembé,12,CGO,CM,22-288,12,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,2,0,0,0,Metz,2021-02-03 Metz-Montpellier,FRA-L1,20-21,d53b40e0
+e768de1f,Habib Maïga,19,CIV,CM,25-033,90,0,0,0,0,1,0,1,0,54,2,0,0,0.0,0.0,0.1,7,1,42,45,93.3,4,38,1,3,3,Metz,2021-02-03 Metz-Montpellier,FRA-L1,20-21,d53b40e0
+8332db56,Thomas Delaine,17,FRA,"WB,LM",28-316,78,0,0,0,0,3,1,0,0,44,0,2,1,0.1,0.1,0.0,0,0,20,34,58.8,0,17,4,0,0,Metz,2021-02-03 Metz-Montpellier,FRA-L1,20-21,d53b40e0
+cc41f558,Matthieu Udol,3,FRA,LM,24-320,12,0,0,0,0,1,0,0,0,8,1,0,0,0.2,0.2,0.0,1,0,5,6,83.3,1,5,1,0,0,Metz,2021-02-03 Metz-Montpellier,FRA-L1,20-21,d53b40e0
+3c6bbbab,Fabien Centonze,18,FRA,"WB,RM",25-018,90,0,0,0,0,1,0,1,0,63,3,5,4,0.0,0.0,0.3,4,0,27,36,75.0,1,30,2,7,3,Metz,2021-02-03 Metz-Montpellier,FRA-L1,20-21,d53b40e0
+861227d2,John Boye,21,GHA,CB,33-286,52,0,0,0,0,0,0,1,0,23,0,1,0,0.0,0.0,0.0,0,0,18,20,90.0,0,16,0,0,0,Metz,2021-02-03 Metz-Montpellier,FRA-L1,20-21,d53b40e0
+4c4ffacc,Mamadou Fofana,6,MLI,CB,23-013,38,0,0,0,0,0,0,0,0,18,0,0,1,0.0,0.0,0.0,0,0,12,16,75.0,0,9,0,0,0,Metz,2021-02-03 Metz-Montpellier,FRA-L1,20-21,d53b40e0
+562a4799,Boubakar Kouyaté,23,MLI,CB,23-294,90,0,0,0,0,1,1,0,0,54,3,0,3,0.1,0.1,0.0,0,0,36,42,85.7,2,34,0,0,0,Metz,2021-02-03 Metz-Montpellier,FRA-L1,20-21,d53b40e0
+edd81e2a,Dylan Bronn,2,TUN,CB,25-229,90,0,0,0,0,1,0,1,0,69,0,2,4,0.1,0.1,0.0,2,0,44,54,81.5,6,44,4,0,0,Metz,2021-02-03 Metz-Montpellier,FRA-L1,20-21,d53b40e0
+ae7d0ecd,Alexandre Oukidja,16,ALG,GK,32-199,90,0,0,0,0,0,0,0,0,18,0,0,0,0.0,0.0,0.0,0,0,10,16,62.5,0,8,0,0,0,Metz,2021-02-03 Metz-Montpellier,FRA-L1,20-21,d53b40e0
+30144daa,Stephy Mavididi,19,ENG,"FW,LW",22-248,71,0,0,0,0,3,0,0,0,23,0,1,0,0.4,0.4,0.0,3,0,9,14,64.3,0,19,3,3,3,Montpellier,2021-02-03 Metz-Montpellier,FRA-L1,20-21,d53b40e0
+d9a66c60,Petar Škuletić,32,SRB,FW,30-219,19,0,0,0,0,1,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,3,0,0,0,Montpellier,2021-02-03 Metz-Montpellier,FRA-L1,20-21,d53b40e0
+7cdda3bf,Gaëtan Laborde,10,FRA,"LM,RW,FW",26-276,90,1,0,0,0,2,1,0,0,38,3,0,0,0.1,0.1,0.0,2,0,13,20,65.0,0,22,2,4,2,Montpellier,2021-02-03 Metz-Montpellier,FRA-L1,20-21,d53b40e0
+6bde367b,Téji Savanier,11,FRA,"CM,LM",29-043,71,0,0,0,0,0,0,0,0,50,1,0,1,0.0,0.0,0.1,3,0,26,40,65.0,3,33,1,1,1,Montpellier,2021-02-03 Metz-Montpellier,FRA-L1,20-21,d53b40e0
+8f4d116f,Damien Le Tallec,14,FRA,CM,30-290,19,0,0,0,0,0,0,0,0,6,0,0,1,0.0,0.0,0.0,0,0,4,4,100.0,0,2,0,0,0,Montpellier,2021-02-03 Metz-Montpellier,FRA-L1,20-21,d53b40e0
+7e82a78f,Florent Mollet,25,FRA,"CM,LM,RM",29-076,90,0,0,0,0,6,2,0,0,70,0,1,1,0.3,0.3,0.0,2,0,45,55,81.8,5,51,3,2,1,Montpellier,2021-02-03 Metz-Montpellier,FRA-L1,20-21,d53b40e0
+24eb7ed6,Junior Sambia,6,FRA,"RM,RW",24-149,52,0,0,0,0,0,0,0,0,36,0,1,1,0.0,0.0,0.1,3,0,28,32,87.5,1,16,0,1,0,Montpellier,2021-02-03 Metz-Montpellier,FRA-L1,20-21,d53b40e0
+4e0afc5d,Arnaud Souquet,2,FRA,"RB,RW",28-357,38,0,0,0,0,0,0,0,0,20,0,0,0,0.0,0.0,0.0,1,0,11,15,73.3,1,12,0,1,0,Montpellier,2021-02-03 Metz-Montpellier,FRA-L1,20-21,d53b40e0
+375622c5,Jordan Ferri,12,FRA,"DM,RM,CM",28-328,90,0,0,0,0,0,0,0,0,64,3,1,0,0.0,0.0,0.0,5,0,50,58,86.2,4,48,3,2,2,Montpellier,2021-02-03 Metz-Montpellier,FRA-L1,20-21,d53b40e0
+ea0aa7e0,Mihailo Ristić,7,SRB,"LB,LW",25-095,60,0,0,0,0,0,0,0,0,57,2,2,0,0.0,0.0,0.3,3,0,29,47,61.7,1,31,4,2,0,Montpellier,2021-02-03 Metz-Montpellier,FRA-L1,20-21,d53b40e0
+0d7b6576,Elye Wahi,33,FRA,"LW,FW",18-032,30,0,0,0,0,1,0,0,0,9,0,0,0,0.2,0.2,0.0,1,0,3,6,50.0,0,7,1,2,0,Montpellier,2021-02-03 Metz-Montpellier,FRA-L1,20-21,d53b40e0
+3f5b4635,Daniel Congré,3,FRA,CB,35-304,90,0,0,0,0,0,0,1,0,46,0,3,1,0.0,0.0,0.0,0,0,36,40,90.0,2,31,1,0,0,Montpellier,2021-02-03 Metz-Montpellier,FRA-L1,20-21,d53b40e0
+c4bbea9f,Vitorino Hilton,4,BRA,CB,43-143,90,0,0,0,0,1,0,0,0,67,0,1,2,0.1,0.1,0.0,0,0,55,60,91.7,5,51,1,0,0,Montpellier,2021-02-03 Metz-Montpellier,FRA-L1,20-21,d53b40e0
+6690ef25,Pedro Mendes,5,POR,RB,30-125,45,0,0,0,0,1,0,0,0,43,0,1,0,0.0,0.0,0.0,1,0,37,41,90.2,5,33,2,0,0,Montpellier,2021-02-03 Metz-Montpellier,FRA-L1,20-21,d53b40e0
+8f325097,Nicolas Cozza,31,FRA,"LB,CB",22-026,45,0,0,0,0,0,0,0,0,29,2,0,0,0.0,0.0,0.2,3,0,19,23,82.6,2,13,3,0,0,Montpellier,2021-02-03 Metz-Montpellier,FRA-L1,20-21,d53b40e0
+380a15e2,Dimitry Bertaud,16,COD,GK,22-242,90,0,0,0,0,0,0,0,0,38,0,0,0,0.0,0.0,0.0,0,0,34,37,91.9,0,25,0,0,0,Montpellier,2021-02-03 Metz-Montpellier,FRA-L1,20-21,d53b40e0

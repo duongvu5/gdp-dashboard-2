@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+0a1efd3c,Andrey Galabinov,16,BUL,FW,29-082,76,0,0,0,0,2,0,0,0,32,0,0,0,0.1,0.1,0.1,1,0,15,25,60.0,0,26,0,0,0,Genoa,2018-02-17 Genoa-Inter,ITA-SERIA_A,17-18,b46e8ac0
+2ead2809,Gianluca Lapadula,10,PER,FW,28-010,14,0,0,0,0,2,0,0,0,5,0,0,0,0.1,0.1,0.0,3,0,1,3,33.3,0,3,1,1,1,Genoa,2018-02-17 Genoa-Inter,ITA-SERIA_A,17-18,b46e8ac0
+d711d04f,Goran Pandev,19,MKD,FW,34-205,79,1,0,0,0,2,2,0,0,33,0,1,0,0.2,0.2,0.0,1,0,16,23,69.6,3,22,4,3,2,Genoa,2018-02-17 Genoa-Inter,ITA-SERIA_A,17-18,b46e8ac0
+5128bde4,Darko Lazović,22,SRB,FW,27-155,11,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,2,0,0,0,Genoa,2018-02-17 Genoa-Inter,ITA-SERIA_A,17-18,b46e8ac0
+98e958af,Oscar Hiljemark,88,SWE,DM,25-234,90,0,0,0,0,0,0,0,0,47,0,0,1,0.0,0.0,0.2,3,0,30,43,69.8,2,20,0,1,1,Genoa,2018-02-17 Genoa-Inter,ITA-SERIA_A,17-18,b46e8ac0
+c75b6a02,Andrea Bertolacci,8,ITA,DM,27-037,90,0,0,0,0,0,0,0,0,33,5,2,1,0.0,0.0,0.0,0,0,16,24,66.7,0,11,0,0,0,Genoa,2018-02-17 Genoa-Inter,ITA-SERIA_A,17-18,b46e8ac0
+88895312,Daniel Bessa,24,ITA,DM,25-034,55,0,0,0,0,0,0,0,0,36,0,1,3,0.0,0.0,0.0,0,0,18,26,69.2,2,12,1,1,1,Genoa,2018-02-17 Genoa-Inter,ITA-SERIA_A,17-18,b46e8ac0
+72c803a0,Stephane Omeonga,40,BEL,DM,21-327,35,0,0,0,0,1,0,0,0,13,2,0,0,0.0,0.0,0.0,4,0,4,6,66.7,1,4,1,2,2,Genoa,2018-02-17 Genoa-Inter,ITA-SERIA_A,17-18,b46e8ac0
+f26e3c59,Diego Laxalt,93,URU,WB,25-010,90,0,1,0,0,1,0,0,0,51,2,2,2,0.0,0.0,0.2,2,1,24,38,63.2,2,25,4,3,1,Genoa,2018-02-17 Genoa-Inter,ITA-SERIA_A,17-18,b46e8ac0
+1b729ba2,Aleandro Rosi,20,ITA,WB,30-276,90,0,0,0,0,0,0,0,0,63,2,1,2,0.0,0.0,0.0,0,0,30,44,68.2,1,22,1,4,1,Genoa,2018-02-17 Genoa-Inter,ITA-SERIA_A,17-18,b46e8ac0
+1253a12e,Ervin Zukanović,87,BIH,CB,31-006,90,0,0,0,0,1,0,0,0,42,2,2,2,0.1,0.1,0.0,0,0,21,28,75.0,3,18,1,0,0,Genoa,2018-02-17 Genoa-Inter,ITA-SERIA_A,17-18,b46e8ac0
+9a560ebe,Nicolás Spolli,2,ARG,CB,34-362,90,0,0,0,0,0,0,0,0,29,0,2,0,0.0,0.0,0.0,0,0,16,18,88.9,2,12,0,0,0,Genoa,2018-02-17 Genoa-Inter,ITA-SERIA_A,17-18,b46e8ac0
+47a500ae,Luca Rossettini,13,ITA,CB,32-284,90,0,0,0,0,0,0,0,0,47,2,2,1,0.0,0.0,0.0,0,0,22,34,64.7,0,19,0,0,0,Genoa,2018-02-17 Genoa-Inter,ITA-SERIA_A,17-18,b46e8ac0
+4c62d0c8,Mattia Perin,1,ITA,GK,25-099,90,0,0,0,0,0,0,0,0,38,0,0,0,0.0,0.0,0.0,0,0,18,37,48.6,0,12,0,0,0,Genoa,2018-02-17 Genoa-Inter,ITA-SERIA_A,17-18,b46e8ac0
+5a325298,Éder,23,ITA,"FW,LW",31-094,90,0,0,0,0,2,0,0,0,34,1,1,0,0.1,0.1,0.0,2,0,19,27,70.4,1,19,1,1,0,Internazionale,2018-02-17 Genoa-Inter,ITA-SERIA_A,17-18,b46e8ac0
+356c9002,Antonio Candreva,87,ITA,LW,30-354,76,0,0,0,0,4,3,0,0,55,1,1,2,0.1,0.1,0.5,3,0,25,37,67.6,4,34,6,3,1,Internazionale,2018-02-17 Genoa-Inter,ITA-SERIA_A,17-18,b46e8ac0
+08aa9cd1,Andrea Pinamonti,99,ITA,FW,18-274,14,0,0,0,0,1,0,0,0,5,0,0,0,0.1,0.1,0.0,0,0,4,4,100.0,0,2,0,0,0,Internazionale,2018-02-17 Genoa-Inter,ITA-SERIA_A,17-18,b46e8ac0
+8b66d9cc,Yann Karamoh,17,FRA,"RW,AM",19-224,90,0,0,0,0,2,0,0,0,60,0,0,0,0.5,0.5,0.1,6,0,39,51,76.5,4,46,3,1,0,Internazionale,2018-02-17 Genoa-Inter,ITA-SERIA_A,17-18,b46e8ac0
+0e21fc3c,Borja Valero,20,ESP,"AM,DM",33-036,75,0,0,0,0,0,0,0,0,58,2,1,0,0.0,0.0,0.0,2,0,44,50,88.0,8,33,3,0,0,Internazionale,2018-02-17 Genoa-Inter,ITA-SERIA_A,17-18,b46e8ac0
+33b8d077,Marcelo Brozović,77,CRO,DM,25-093,15,0,0,0,0,0,0,0,0,22,4,0,0,0.0,0.0,0.0,0,0,15,20,75.0,4,20,1,0,0,Internazionale,2018-02-17 Genoa-Inter,ITA-SERIA_A,17-18,b46e8ac0
+ce30bfc8,Roberto Gagliardini,5,ITA,DM,23-316,90,0,0,0,0,1,0,0,0,91,3,4,3,0.1,0.1,0.0,2,0,57,73,78.1,9,47,6,0,0,Internazionale,2018-02-17 Genoa-Inter,ITA-SERIA_A,17-18,b46e8ac0
+44ac04e9,Matías Vecino,11,URU,DM,26-177,61,0,0,0,0,1,0,0,0,56,2,0,2,0.1,0.1,0.0,0,0,46,48,95.8,4,37,0,1,0,Internazionale,2018-02-17 Genoa-Inter,ITA-SERIA_A,17-18,b46e8ac0
+0c2ac3cb,Rafinha,8,BRA,"RW,AM",25-005,29,0,0,0,0,1,0,0,0,46,0,0,0,0.0,0.0,0.1,5,0,40,43,93.0,7,37,4,1,1,Internazionale,2018-02-17 Genoa-Inter,ITA-SERIA_A,17-18,b46e8ac0
+44eb9093,Danilo D'Ambrosio,33,ITA,LB,29-161,90,0,0,0,0,1,1,0,0,73,5,0,1,0.1,0.1,0.0,1,0,52,62,83.9,1,37,2,0,0,Internazionale,2018-02-17 Genoa-Inter,ITA-SERIA_A,17-18,b46e8ac0
+30f5ffa9,Milan Škriniar,37,SVK,CB,23-006,90,0,0,0,0,0,0,0,0,88,1,0,1,0.0,0.0,0.0,0,0,66,74,89.2,5,43,1,2,2,Internazionale,2018-02-17 Genoa-Inter,ITA-SERIA_A,17-18,b46e8ac0
+539230cf,Andrea Ranocchia,13,ITA,CB,30-001,90,0,0,0,0,0,0,1,0,55,0,0,2,0.0,0.0,0.0,0,0,43,44,97.7,2,32,0,0,0,Internazionale,2018-02-17 Genoa-Inter,ITA-SERIA_A,17-18,b46e8ac0
+bd6351cd,João Cancelo,7,POR,RB,23-266,90,0,0,0,0,1,0,0,0,125,2,4,2,0.0,0.0,0.2,5,0,90,113,79.6,9,84,7,2,2,Internazionale,2018-02-17 Genoa-Inter,ITA-SERIA_A,17-18,b46e8ac0
+74419746,Samir Handanović,1,SVN,GK,33-218,90,0,0,0,0,0,0,0,0,22,0,0,0,0.0,0.0,0.0,0,0,20,21,95.2,0,11,0,0,0,Internazionale,2018-02-17 Genoa-Inter,ITA-SERIA_A,17-18,b46e8ac0

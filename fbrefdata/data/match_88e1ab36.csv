@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+d33c706e,Andy Delort,9,ALG,FW,29-163,90,0,1,0,0,8,2,0,0,45,0,0,0,1.1,1.1,0.1,4,2,17,26,65.4,3,25,0,1,1,Montpellier,2021-03-21 Montpellier-Bordeaux,FRA-L1,20-21,88e1ab36
+30144daa,Stephy Mavididi,19,ENG,LW,22-294,69,1,0,0,0,4,1,0,0,26,2,0,1,0.5,0.5,0.1,3,1,10,15,66.7,0,19,6,3,3,Montpellier,2021-03-21 Montpellier-Bordeaux,FRA-L1,20-21,88e1ab36
+0d7b6576,Elye Wahi,21,FRA,LW,18-078,21,0,0,0,0,1,1,0,0,11,0,0,0,0.2,0.2,0.0,1,0,6,6,100.0,0,7,0,4,1,Montpellier,2021-03-21 Montpellier-Bordeaux,FRA-L1,20-21,88e1ab36
+7cdda3bf,Gaëtan Laborde,10,FRA,RW,26-322,81,1,0,0,0,6,2,0,0,34,0,1,1,0.6,0.6,0.3,3,0,17,25,68.0,1,23,1,0,0,Montpellier,2021-03-21 Montpellier-Bordeaux,FRA-L1,20-21,88e1ab36
+6690ef25,Pedro Mendes,5,POR,RW,30-171,9,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,1,0,0,0,Montpellier,2021-03-21 Montpellier-Bordeaux,FRA-L1,20-21,88e1ab36
+7e82a78f,Florent Mollet,25,FRA,AM,29-122,69,0,0,0,0,0,0,0,0,47,0,1,0,0.0,0.0,0.3,8,1,33,43,76.7,4,37,1,2,1,Montpellier,2021-03-21 Montpellier-Bordeaux,FRA-L1,20-21,88e1ab36
+7909ffa4,Joris Chotard,13,FRA,AM,19-178,21,0,0,0,0,0,0,0,0,13,0,0,0,0.0,0.0,0.2,3,0,12,13,92.3,1,9,1,0,0,Montpellier,2021-03-21 Montpellier-Bordeaux,FRA-L1,20-21,88e1ab36
+375622c5,Jordan Ferri,12,FRA,DM,29-009,90,0,0,0,0,0,0,0,0,60,1,0,1,0.0,0.0,0.1,3,0,48,56,85.7,5,44,2,1,1,Montpellier,2021-03-21 Montpellier-Bordeaux,FRA-L1,20-21,88e1ab36
+6bde367b,Téji Savanier,11,FRA,DM,29-089,90,0,1,0,0,3,2,0,0,76,2,0,4,0.1,0.1,1.0,14,1,53,65,81.5,12,44,2,4,4,Montpellier,2021-03-21 Montpellier-Bordeaux,FRA-L1,20-21,88e1ab36
+8f325097,Nicolas Cozza,31,FRA,LB,22-072,73,0,0,0,0,0,0,1,0,34,3,3,0,0.0,0.0,0.1,1,0,19,23,82.6,3,21,0,0,0,Montpellier,2021-03-21 Montpellier-Bordeaux,FRA-L1,20-21,88e1ab36
+ea0aa7e0,Mihailo Ristić,7,SRB,LB,25-141,17,0,0,0,0,0,0,0,0,12,1,0,0,0.0,0.0,0.0,0,0,3,8,37.5,1,7,0,1,0,Montpellier,2021-03-21 Montpellier-Bordeaux,FRA-L1,20-21,88e1ab36
+3f5b4635,Daniel Congré,3,FRA,CB,35-350,90,0,0,0,0,0,0,0,0,40,1,1,1,0.0,0.0,0.0,0,0,34,35,97.1,2,23,0,0,0,Montpellier,2021-03-21 Montpellier-Bordeaux,FRA-L1,20-21,88e1ab36
+c4bbea9f,Vitorino Hilton,4,BRA,CB,43-189,90,0,0,0,0,0,0,0,0,61,0,4,1,0.0,0.0,0.0,1,0,41,46,89.1,7,40,0,0,0,Montpellier,2021-03-21 Montpellier-Bordeaux,FRA-L1,20-21,88e1ab36
+24eb7ed6,Junior Sambia,6,FRA,RB,24-195,73,1,0,0,0,1,1,0,0,42,0,1,1,0.1,0.1,0.1,1,1,26,34,76.5,2,26,5,2,1,Montpellier,2021-03-21 Montpellier-Bordeaux,FRA-L1,20-21,88e1ab36
+4e0afc5d,Arnaud Souquet,2,FRA,RB,29-037,17,0,0,0,0,0,0,0,0,14,1,0,1,0.0,0.0,0.0,0,0,7,10,70.0,0,7,1,1,1,Montpellier,2021-03-21 Montpellier-Bordeaux,FRA-L1,20-21,88e1ab36
+c631f952,Jonas Omlin,1,SUI,GK,27-070,90,0,0,0,0,0,0,0,0,29,0,0,0,0.0,0.0,0.0,0,0,19,27,70.4,0,16,0,0,0,Montpellier,2021-03-21 Montpellier-Bordeaux,FRA-L1,20-21,88e1ab36
+a2d873dd,Hwang Ui-jo,18,KOR,FW,28-205,90,1,0,0,0,4,1,0,0,30,0,0,0,0.7,0.7,0.1,2,0,18,21,85.7,0,19,2,4,3,Bordeaux,2021-03-21 Montpellier-Bordeaux,FRA-L1,20-21,88e1ab36
+b0547a87,Nicolas de Préville,12,FRA,LW,30-072,87,0,0,0,0,2,1,0,0,42,0,0,0,0.1,0.1,0.5,6,0,24,32,75.0,2,29,1,3,2,Bordeaux,2021-03-21 Montpellier-Bordeaux,FRA-L1,20-21,88e1ab36
+f83c8d6c,Jimmy Briand,7,FRA,LW,35-231,3,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,0,0,0,0,Bordeaux,2021-03-21 Montpellier-Bordeaux,FRA-L1,20-21,88e1ab36
+ea02beaf,Remi Oudin,28,FRA,RW,24-123,82,0,0,0,0,2,1,0,0,45,1,2,0,0.1,0.1,0.0,1,0,22,37,59.5,1,20,2,1,0,Bordeaux,2021-03-21 Montpellier-Bordeaux,FRA-L1,20-21,88e1ab36
+3544641e,Sekou Mara,36,FRA,RW,18-234,8,0,0,0,0,0,0,0,0,5,1,0,0,0.0,0.0,0.0,0,0,2,4,50.0,0,0,0,0,0,Bordeaux,2021-03-21 Montpellier-Bordeaux,FRA-L1,20-21,88e1ab36
+10efd0e1,Jean Seri,15,CIV,LM,29-245,73,0,0,0,0,0,0,1,0,55,1,1,0,0.0,0.0,0.0,3,0,42,48,87.5,4,33,1,2,2,Bordeaux,2021-03-21 Montpellier-Bordeaux,FRA-L1,20-21,88e1ab36
+4eb0686f,Amadou Traore,31,FRA,LM,19-014,17,0,0,0,0,0,0,0,0,12,0,0,0,0.0,0.0,0.1,1,0,6,9,66.7,0,9,1,2,2,Bordeaux,2021-03-21 Montpellier-Bordeaux,FRA-L1,20-21,88e1ab36
+80556f08,Toma Bašić,26,CRO,CM,24-116,82,0,0,0,0,3,0,0,0,50,0,1,1,0.2,0.2,0.0,0,0,32,39,82.1,1,31,1,0,0,Bordeaux,2021-03-21 Montpellier-Bordeaux,FRA-L1,20-21,88e1ab36
+792a9d41,Issouf Sissokho,33,MLI,CM,19-050,8,0,0,0,0,0,0,0,0,19,2,0,0,0.0,0.0,0.0,0,0,14,16,87.5,2,12,1,2,1,Bordeaux,2021-03-21 Montpellier-Bordeaux,FRA-L1,20-21,88e1ab36
+26777636,Yacine Adli,19,FRA,RM,20-235,90,0,0,0,0,1,0,0,0,71,2,0,0,0.5,0.5,0.1,3,0,59,66,89.4,8,48,4,1,1,Bordeaux,2021-03-21 Montpellier-Bordeaux,FRA-L1,20-21,88e1ab36
+f5b6fb78,Loris Benito,23,SUI,LB,29-073,90,0,0,0,0,0,0,1,0,62,1,1,2,0.0,0.0,0.0,0,0,37,53,69.8,5,27,5,0,0,Bordeaux,2021-03-21 Montpellier-Bordeaux,FRA-L1,20-21,88e1ab36
+f5efb153,Laurent Koscielny,6,FRA,CB,35-192,90,0,0,0,0,0,0,0,0,67,0,1,2,0.0,0.0,0.0,0,0,55,61,90.2,4,39,0,1,0,Bordeaux,2021-03-21 Montpellier-Bordeaux,FRA-L1,20-21,88e1ab36
+2515040a,Paul Baysse,24,FRA,CB,32-307,90,0,1,0,0,0,0,0,0,74,1,2,2,0.0,0.0,0.2,2,1,57,65,87.7,2,41,0,0,0,Bordeaux,2021-03-21 Montpellier-Bordeaux,FRA-L1,20-21,88e1ab36
+fbbb9269,Youssouf Sabaly,20,SEN,RB,28-016,90,0,0,0,0,1,0,0,0,78,3,1,0,0.0,0.0,0.0,2,1,54,67,80.6,8,44,3,3,2,Bordeaux,2021-03-21 Montpellier-Bordeaux,FRA-L1,20-21,88e1ab36
+2434f24a,Benoît Costil,1,FRA,GK,33-261,90,0,0,0,0,0,0,0,0,43,0,0,0,0.0,0.0,0.0,1,0,30,34,88.2,0,21,0,1,1,Bordeaux,2021-03-21 Montpellier-Bordeaux,FRA-L1,20-21,88e1ab36

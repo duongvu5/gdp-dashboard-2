@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+4f16405e,Niclas Füllkrug,24,GER,FW,24-338,90,3,0,1,1,8,3,0,0,53,0,0,1,1.8,1.0,0.1,7,0,29,37,78.4,1,30,4,2,1,Hannover 96,2018-01-13 Hannover 96-Mainz 05,GER-BL1,17-18,8defd102
+a53b661f,Ihlas Bebou,13,TOG,FW,23-265,89,0,0,0,0,3,1,0,0,44,2,1,1,0.1,0.1,0.5,10,1,21,29,72.4,3,29,4,6,5,Hannover 96,2018-01-13 Hannover 96-Mainz 05,GER-BL1,17-18,8defd102
+e87ad81a,Florian Hübner,19,GER,FW,26-318,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Hannover 96,2018-01-13 Hannover 96-Mainz 05,GER-BL1,17-18,8defd102
+aeda1f69,Felix Klaus,11,GER,AM,25-122,90,0,0,0,0,4,1,0,0,48,1,0,1,0.1,0.1,0.0,6,2,22,36,61.1,1,26,3,1,1,Hannover 96,2018-01-13 Hannover 96-Mainz 05,GER-BL1,17-18,8defd102
+04c11885,Marvin Bakalorz,6,GER,CM,28-122,90,0,0,0,0,2,2,0,0,47,2,1,1,0.1,0.1,0.0,2,0,22,36,61.1,3,23,0,2,0,Hannover 96,2018-01-13 Hannover 96-Mainz 05,GER-BL1,17-18,8defd102
+5528407e,Pirmin Schwegler,27,SUI,CM,30-310,61,0,1,0,0,0,0,0,0,39,1,1,0,0.0,0.0,0.2,6,2,27,35,77.1,4,10,0,0,0,Hannover 96,2018-01-13 Hannover 96-Mainz 05,GER-BL1,17-18,8defd102
+8f0f2230,Kenan Karaman,26,TUR,CM,23-314,29,0,0,0,0,1,0,0,0,14,0,0,0,0.1,0.1,0.0,0,0,5,8,62.5,1,9,2,1,0,Hannover 96,2018-01-13 Hannover 96-Mainz 05,GER-BL1,17-18,8defd102
+1cd87320,Matthias Ostrzolek,22,GER,WB,27-222,90,0,0,0,0,1,0,0,0,54,1,0,1,0.0,0.0,0.0,5,0,37,44,84.1,3,31,2,1,0,Hannover 96,2018-01-13 Hannover 96-Mainz 05,GER-BL1,17-18,8defd102
+3dffff26,Julian Korb,4,GER,WB,25-298,45,0,0,0,0,1,0,0,0,18,0,0,0,0.0,0.0,0.0,0,0,7,16,43.8,1,6,0,0,0,Hannover 96,2018-01-13 Hannover 96-Mainz 05,GER-BL1,17-18,8defd102
+ce218223,Iver Fossum,18,NOR,WB,21-182,45,0,0,0,0,2,0,0,0,33,1,0,3,0.1,0.1,0.0,3,0,21,25,84.0,5,10,1,2,1,Hannover 96,2018-01-13 Hannover 96-Mainz 05,GER-BL1,17-18,8defd102
+5e66fa06,Waldemar Anton,31,GER,CB,21-177,90,0,0,0,0,1,1,0,0,55,2,1,3,0.1,0.1,0.0,0,0,35,43,81.4,2,31,1,0,0,Hannover 96,2018-01-13 Hannover 96-Mainz 05,GER-BL1,17-18,8defd102
+791abba1,Salif Sané,20,SEN,CB,27-141,90,0,0,0,0,1,0,0,0,59,2,1,0,0.1,0.1,0.0,2,0,37,43,86.0,2,25,0,0,0,Hannover 96,2018-01-13 Hannover 96-Mainz 05,GER-BL1,17-18,8defd102
+541cdd20,Oliver Sorg,25,GER,CB,27-229,90,0,0,0,0,0,0,0,0,57,3,5,1,0.0,0.0,0.0,4,0,33,46,71.7,3,30,0,0,0,Hannover 96,2018-01-13 Hannover 96-Mainz 05,GER-BL1,17-18,8defd102
+83e0eeb4,Michael Esser,23,GER,GK,30-052,90,0,0,0,0,0,0,0,0,43,0,0,0,0.0,0.0,0.0,0,0,29,41,70.7,0,24,0,0,0,Hannover 96,2018-01-13 Hannover 96-Mainz 05,GER-BL1,17-18,8defd102
+74c7c2db,Robin Quaison,7,SWE,FW,24-096,90,0,0,0,0,2,1,0,0,30,0,0,1,0.1,0.1,0.0,1,0,13,19,68.4,0,21,0,1,0,Mainz 05,2018-01-13 Hannover 96-Mainz 05,GER-BL1,17-18,8defd102
+5343eb4e,Yoshinori Mutō,9,JPN,FW,25-182,80,1,0,0,0,1,1,0,0,22,1,0,0,0.1,0.1,0.0,1,1,11,16,68.8,2,14,1,1,1,Mainz 05,2018-01-13 Hannover 96-Mainz 05,GER-BL1,17-18,8defd102
+99be8fb5,Anthony Ujah,20,NGA,FW,27-091,10,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,0,4,0.0,0,2,0,0,0,Mainz 05,2018-01-13 Hannover 96-Mainz 05,GER-BL1,17-18,8defd102
+2979c05a,Gerrit Holtmann,38,PHI,LW,22-294,90,0,0,0,0,2,1,0,0,55,0,2,4,0.1,0.1,0.0,3,0,31,39,79.5,3,21,6,6,2,Mainz 05,2018-01-13 Hannover 96-Mainz 05,GER-BL1,17-18,8defd102
+a7813ac4,Daniel Brosinski,18,GER,RW,29-180,90,0,0,0,0,1,0,0,0,58,0,1,0,0.1,0.1,0.0,3,0,34,52,65.4,4,31,2,1,0,Mainz 05,2018-01-13 Hannover 96-Mainz 05,GER-BL1,17-18,8defd102
+9ab48bde,Pablo de Blasis,32,ARG,CM,29-343,90,0,0,0,0,0,0,0,0,63,2,1,2,0.0,0.0,0.0,3,1,40,57,70.2,5,31,0,0,0,Mainz 05,2018-01-13 Hannover 96-Mainz 05,GER-BL1,17-18,8defd102
+61fc9685,Alexandru Maxim,10,ROU,CM,27-189,62,0,1,0,0,1,1,0,0,34,1,0,1,0.0,0.0,0.3,4,1,21,30,70.0,3,19,4,2,2,Mainz 05,2018-01-13 Hannover 96-Mainz 05,GER-BL1,17-18,8defd102
+22051fbe,Giulio Donati,2,ITA,CM,27-342,28,0,0,0,0,1,0,0,0,26,0,0,0,0.0,0.0,0.1,1,0,21,24,87.5,4,14,1,0,0,Mainz 05,2018-01-13 Hannover 96-Mainz 05,GER-BL1,17-18,8defd102
+a0e209bc,Nigel de Jong,5,NED,DM,33-044,77,0,0,0,0,1,0,0,0,53,2,4,1,0.0,0.0,0.0,2,1,37,43,86.0,3,25,0,0,0,Mainz 05,2018-01-13 Hannover 96-Mainz 05,GER-BL1,17-18,8defd102
+8be4fd6a,Emil Berggreen,11,DEN,DM,24-248,13,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,1,3,33.3,1,4,0,1,0,Mainz 05,2018-01-13 Hannover 96-Mainz 05,GER-BL1,17-18,8defd102
+a5ec3ede,Alexander Hack,42,GER,CB,24-127,90,1,0,0,0,2,1,1,0,80,5,2,7,0.2,0.2,0.0,0,0,46,59,78.0,9,45,3,0,0,Mainz 05,2018-01-13 Hannover 96-Mainz 05,GER-BL1,17-18,8defd102
+6bd603db,Jean-Philippe Gbamin,25,CIV,CB,22-110,90,0,0,0,0,0,0,1,0,62,5,2,4,0.0,0.0,0.0,1,0,37,47,78.7,0,38,2,2,0,Mainz 05,2018-01-13 Hannover 96-Mainz 05,GER-BL1,17-18,8defd102
+857a5abe,Stefan Bell,16,GER,CB,26-142,90,0,0,0,0,0,0,0,0,54,0,0,4,0.0,0.0,0.0,0,0,32,46,69.6,4,26,1,0,0,Mainz 05,2018-01-13 Hannover 96-Mainz 05,GER-BL1,17-18,8defd102
+5c4bf6ba,Robin Zentner,27,GER,GK,23-077,90,0,0,0,0,0,0,0,0,46,0,0,0,0.0,0.0,0.0,0,0,31,40,77.5,0,21,0,0,0,Mainz 05,2018-01-13 Hannover 96-Mainz 05,GER-BL1,17-18,8defd102

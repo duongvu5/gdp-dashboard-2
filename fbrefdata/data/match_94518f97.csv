@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+42276181,Kévin Gameiro,9,FRA,FW,32-000,90,2,0,0,0,2,2,0,0,41,0,0,1,1.8,1.8,0.1,3,0,28,30,93.3,4,21,0,2,1,Valencia,2019-05-09 Valencia-Arsenal,UEL,18-19,94518f97
+1fb1c435,Rodrigo,19,ESP,FW,28-064,71,0,1,0,0,4,1,0,0,30,0,0,0,0.3,0.3,0.0,3,2,15,21,71.4,0,22,0,2,1,Valencia,2019-05-09 Valencia-Arsenal,UEL,18-19,94518f97
+0b90bb97,Santi Mina,22,ESP,FW,23-153,19,0,0,0,0,0,0,0,0,8,1,0,1,0.0,0.0,0.0,1,0,4,4,100.0,0,3,0,0,0,Valencia,2019-05-09 Valencia-Arsenal,UEL,18-19,94518f97
+e6bc67d7,Gonçalo Guedes,7,POR,LM,22-161,70,0,0,0,0,2,0,0,0,44,0,1,0,0.1,0.1,0.2,6,1,27,33,81.8,8,31,7,3,1,Valencia,2019-05-09 Valencia-Arsenal,UEL,18-19,94518f97
+9e1035f8,Ferrán Torres,20,ESP,LM,19-069,20,0,0,0,0,0,0,0,0,7,1,0,0,0.0,0.0,0.0,0,0,3,6,50.0,1,5,1,2,2,Valencia,2019-05-09 Valencia-Arsenal,UEL,18-19,94518f97
+a6951bf8,Francis Coquelin,17,FRA,CM,27-361,90,0,0,0,0,0,0,0,0,67,1,1,1,0.0,0.0,0.0,1,0,56,62,90.3,8,34,0,1,1,Valencia,2019-05-09 Valencia-Arsenal,UEL,18-19,94518f97
+7460ca0d,Daniel Parejo,10,ESP,CM,30-023,90,0,0,0,0,3,0,0,0,88,1,0,1,0.1,0.1,0.0,6,0,65,77,84.4,13,57,5,2,2,Valencia,2019-05-09 Valencia-Arsenal,UEL,18-19,94518f97
+d83bbc54,Daniel Wass,18,DEN,"RM,RB",29-343,90,0,0,0,0,1,0,0,0,71,4,1,1,0.1,0.1,0.2,6,0,49,61,80.3,4,33,4,1,1,Valencia,2019-05-09 Valencia-Arsenal,UEL,18-19,94518f97
+b05e2dbd,José Luis Gayà,14,ESP,LB,23-349,90,0,0,0,0,3,0,1,0,68,3,1,0,0.1,0.1,0.1,6,0,45,54,83.3,9,40,10,1,1,Valencia,2019-05-09 Valencia-Arsenal,UEL,18-19,94518f97
+b7ca5c51,Gabriel Paulista,5,BRA,CB,28-164,90,0,0,0,0,0,0,1,0,58,3,2,0,0.0,0.0,0.0,0,0,43,52,82.7,2,31,1,0,0,Valencia,2019-05-09 Valencia-Arsenal,UEL,18-19,94518f97
+ac3fb1be,Ezequiel Garay,24,ARG,CB,32-211,90,0,0,0,0,1,0,1,0,59,0,1,1,0.0,0.0,0.0,0,0,49,56,87.5,3,35,2,0,0,Valencia,2019-05-09 Valencia-Arsenal,UEL,18-19,94518f97
+32c0491f,Cristiano Piccini,21,ITA,RB,26-225,55,0,0,0,0,1,0,0,0,54,2,0,1,0.0,0.0,0.0,1,0,37,45,82.2,6,27,9,0,0,Valencia,2019-05-09 Valencia-Arsenal,UEL,18-19,94518f97
+fed17f5a,Carlos Soler,8,ESP,RM,22-127,35,0,0,0,0,1,0,0,0,34,0,0,0,0.0,0.0,0.0,1,0,21,32,65.6,4,22,1,0,0,Valencia,2019-05-09 Valencia-Arsenal,UEL,18-19,94518f97
+a9dc785c,Neto,13,BRA,GK,29-294,90,0,0,0,0,0,0,0,0,13,0,0,0,0.0,0.0,0.0,0,0,13,13,100.0,0,6,0,0,0,Valencia,2019-05-09 Valencia-Arsenal,UEL,18-19,94518f97
+9dbb75ca,Alexandre Lacazette,9,FRA,FW,27-346,90,1,1,0,0,2,1,1,0,44,1,1,2,0.2,0.2,0.0,3,2,26,32,81.3,2,25,1,6,4,Arsenal,2019-05-09 Valencia-Arsenal,UEL,18-19,94518f97
+d5dd5f1f,Pierre-Emerick Aubameyang,14,GAB,FW,29-325,90,3,0,0,0,6,4,0,0,46,1,1,1,0.5,0.5,0.1,2,0,19,28,67.9,1,28,4,6,3,Arsenal,2019-05-09 Valencia-Arsenal,UEL,18-19,94518f97
+16380240,Mesut Özil,10,GER,AM,30-206,61,0,0,0,0,0,0,1,0,28,0,0,0,0.0,0.0,0.1,2,0,23,25,92.0,2,19,1,2,0,Arsenal,2019-05-09 Valencia-Arsenal,UEL,18-19,94518f97
+dd0daf32,Henrikh Mkhitaryan,7,ARM,AM,30-108,29,0,1,0,0,0,0,0,0,19,1,2,0,0.0,0.0,0.1,1,1,14,18,77.8,3,11,2,0,0,Arsenal,2019-05-09 Valencia-Arsenal,UEL,18-19,94518f97
+e61b8aee,Granit Xhaka,34,SUI,CM,26-224,90,0,0,0,0,1,0,0,0,62,0,0,0,0.1,0.1,0.0,1,0,46,57,80.7,2,30,0,1,1,Arsenal,2019-05-09 Valencia-Arsenal,UEL,18-19,94518f97
+52611641,Lucas Torreira,11,URU,CM,23-087,79,0,1,0,0,0,0,0,0,27,1,1,0,0.0,0.0,0.1,1,1,15,18,83.3,3,12,0,0,0,Arsenal,2019-05-09 Valencia-Arsenal,UEL,18-19,94518f97
+5ea8ef20,Mattéo Guendouzi,29,FRA,CM,20-025,11,0,0,0,0,0,0,0,0,20,1,0,0,0.0,0.0,0.0,1,1,18,19,94.7,5,14,0,0,0,Arsenal,2019-05-09 Valencia-Arsenal,UEL,18-19,94518f97
+3935e52e,Sead Kolašinac,31,BIH,WB,25-323,70,0,0,0,0,0,0,0,0,53,2,1,0,0.0,0.0,0.0,2,0,38,47,80.9,2,18,2,0,0,Arsenal,2019-05-09 Valencia-Arsenal,UEL,18-19,94518f97
+3f2d59fe,Shkodran Mustafi,20,GER,CB,27-022,20,0,0,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.0,0,0,8,9,88.9,0,5,0,0,0,Arsenal,2019-05-09 Valencia-Arsenal,UEL,18-19,94518f97
+e3a5814e,Ainsley Maitland-Niles,15,ENG,WB,21-253,90,0,1,0,0,0,0,0,0,47,2,1,0,0.0,0.0,0.2,2,2,28,39,71.8,2,19,2,1,1,Arsenal,2019-05-09 Valencia-Arsenal,UEL,18-19,94518f97
+d4cb83cc,Nacho Monreal,18,ESP,"CB,WB",33-072,90,0,0,0,0,0,0,0,0,55,1,5,1,0.0,0.0,0.0,1,0,41,45,91.1,1,32,1,1,1,Arsenal,2019-05-09 Valencia-Arsenal,UEL,18-19,94518f97
+f5efb153,Laurent Koscielny,6,FRA,CB,33-241,90,0,0,0,0,0,0,0,0,40,1,0,1,0.0,0.0,0.0,0,0,25,32,78.1,2,17,0,0,0,Arsenal,2019-05-09 Valencia-Arsenal,UEL,18-19,94518f97
+b682dcf6,Sokratis Papastathopoulos,5,GRE,CB,30-334,90,0,0,0,0,0,0,0,0,27,0,0,1,0.0,0.0,0.0,0,0,16,19,84.2,0,12,0,0,0,Arsenal,2019-05-09 Valencia-Arsenal,UEL,18-19,94518f97
+71672fa0,Petr Čech,1,CZE,GK,36-354,90,0,0,0,0,0,0,0,0,47,0,0,0,0.0,0.0,0.0,1,0,19,45,42.2,0,15,0,0,0,Arsenal,2019-05-09 Valencia-Arsenal,UEL,18-19,94518f97

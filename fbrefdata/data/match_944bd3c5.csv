@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+88e357ef,Serge Gnabry,7,GER,FW,27-240,70,0,0,0,0,2,0,0,0,38,1,0,1,0.1,0.1,0.1,2,1,21,29,72.4,2,24,1,2,0,Bayern Munich,2023-03-11 Bayern Munich-Augsburg,GER-BL1,22-23,944bd3c5
+3c6089ab,Thomas Müller,25,GER,FW,33-179,20,0,0,0,0,0,0,0,0,14,0,0,0,0.0,0.0,0.0,1,0,9,10,90.0,1,8,0,0,0,Bayern Munich,2023-03-11 Bayern Munich-Augsburg,GER-BL1,22-23,944bd3c5
+c691bfe2,Sadio Mané,17,SEN,AM,30-335,71,0,1,0,0,4,1,0,0,27,0,0,1,0.4,0.4,0.3,5,1,12,16,75.0,1,21,2,0,0,Bayern Munich,2023-03-11 Bayern Munich-Augsburg,GER-BL1,22-23,944bd3c5
+829aa60c,Mathys Tel,39,FRA,AM,17-318,19,0,0,0,0,1,0,0,0,11,0,0,0,0.2,0.2,0.0,1,1,7,8,87.5,1,7,3,2,1,Bayern Munich,2023-03-11 Bayern Munich-Augsburg,GER-BL1,22-23,944bd3c5
+2b114be3,Leroy Sané,10,GER,AM,27-059,90,1,1,0,0,5,2,0,0,78,1,0,0,0.6,0.6,0.3,8,2,51,60,85.0,11,54,2,12,8,Bayern Munich,2023-03-11 Bayern Munich-Augsburg,GER-BL1,22-23,944bd3c5
+2c0558b8,Jamal Musiala,42,GER,CM,20-013,77,0,0,0,0,0,0,0,0,38,0,0,2,0.0,0.0,0.2,5,0,22,26,84.6,3,29,6,7,2,Bayern Munich,2023-03-11 Bayern Munich-Augsburg,GER-BL1,22-23,944bd3c5
+b8e740fb,Ryan Gravenberch,38,NED,CM,20-299,13,0,0,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.0,0,0,9,10,90.0,2,8,0,0,0,Bayern Munich,2023-03-11 Bayern Munich-Augsburg,GER-BL1,22-23,944bd3c5
+49296448,Joshua Kimmich,6,GER,CM,28-031,90,0,0,0,0,0,0,0,0,68,2,0,0,0.0,0.0,0.5,6,0,49,59,83.1,10,35,2,1,0,Bayern Munich,2023-03-11 Bayern Munich-Augsburg,GER-BL1,22-23,944bd3c5
+d781d855,Alphonso Davies,19,CAN,WB,22-129,77,1,0,0,0,1,1,0,0,56,1,1,1,0.3,0.3,0.2,5,1,36,44,81.8,3,41,3,5,2,Bayern Munich,2023-03-11 Bayern Munich-Augsburg,GER-BL1,22-23,944bd3c5
+b74277a0,Noussair Mazraoui,40,MAR,WB,25-117,13,0,0,0,0,0,0,0,0,15,0,0,0,0.0,0.0,0.0,0,0,11,14,78.6,1,9,1,2,1,Bayern Munich,2023-03-11 Bayern Munich-Augsburg,GER-BL1,22-23,944bd3c5
+bd6351cd,João Cancelo,22,POR,WB,28-288,90,1,1,0,0,4,2,1,0,81,5,1,0,0.2,0.2,0.3,5,1,55,67,82.1,6,59,8,4,2,Bayern Munich,2023-03-11 Bayern Munich-Augsburg,GER-BL1,22-23,944bd3c5
+d6e53a3a,Matthijs de Ligt,4,NED,CB,23-211,83,0,0,0,0,3,0,1,0,68,2,1,1,0.2,0.2,0.0,2,2,44,53,83.0,2,38,0,1,0,Bayern Munich,2023-03-11 Bayern Munich-Augsburg,GER-BL1,22-23,944bd3c5
+691bef82,Daley Blind,23,NED,CB,33-002,7,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,5,6,83.3,0,4,0,0,0,Bayern Munich,2023-03-11 Bayern Munich-Augsburg,GER-BL1,22-23,944bd3c5
+d248cd8f,Dayot Upamecano,2,FRA,CB,24-135,90,0,0,0,0,1,0,0,0,92,2,0,1,0.1,0.1,0.0,0,0,76,80,95.0,5,66,1,2,2,Bayern Munich,2023-03-11 Bayern Munich-Augsburg,GER-BL1,22-23,944bd3c5
+45a03961,Benjamin Pavard,5,FRA,CB,26-348,90,2,0,0,0,2,2,0,0,105,1,3,5,0.4,0.4,0.0,3,0,83,90,92.2,6,76,0,0,0,Bayern Munich,2023-03-11 Bayern Munich-Augsburg,GER-BL1,22-23,944bd3c5
+420c18a1,Yann Sommer,27,SUI,GK,34-084,90,0,0,0,0,0,0,0,0,50,0,0,0,0.0,0.0,0.0,0,0,43,48,89.6,0,39,0,1,1,Bayern Munich,2023-03-11 Bayern Munich-Augsburg,GER-BL1,22-23,944bd3c5
+eb6e14be,Mergim Berisha,11,GER,FW,24-304,90,2,0,1,1,3,1,0,0,21,2,0,1,1.2,0.4,0.0,2,1,7,10,70.0,1,12,1,1,1,Augsburg,2023-03-11 Bayern Munich-Augsburg,GER-BL1,22-23,944bd3c5
+ed79b7d3,Ermedin Demirović,9,BIH,LW,24-351,45,0,0,0,0,0,0,0,0,11,0,0,2,0.0,0.0,0.2,1,0,2,7,28.6,0,3,0,0,0,Augsburg,2023-03-11 Bayern Munich-Augsburg,GER-BL1,22-23,944bd3c5
+6ecbddf6,Ruben Vargas,16,SUI,LW,24-218,45,0,1,0,0,1,0,0,0,28,0,1,0,0.1,0.1,0.9,6,0,15,24,62.5,2,21,7,3,2,Augsburg,2023-03-11 Bayern Munich-Augsburg,GER-BL1,22-23,944bd3c5
+ab700320,Arne Maier,10,GER,RW,24-062,76,0,0,0,0,2,2,0,0,20,2,0,0,0.1,0.1,0.1,2,1,10,15,66.7,2,11,1,0,0,Augsburg,2023-03-11 Bayern Munich-Augsburg,GER-BL1,22-23,944bd3c5
+46750e9c,Nathanael Mbuku,34,FRA,RW,20-360,14,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,2,0,0,0,Augsburg,2023-03-11 Bayern Munich-Augsburg,GER-BL1,22-23,944bd3c5
+9a2e3a23,Dion Drena Beljo,7,CRO,AM,21-010,45,0,0,0,0,0,0,0,0,18,1,0,2,0.0,0.0,0.0,2,1,4,10,40.0,0,6,0,1,1,Augsburg,2023-03-11 Bayern Munich-Augsburg,GER-BL1,22-23,944bd3c5
+5e080f73,Irvin Cardona,48,FRA,AM,25-215,45,1,0,0,0,2,2,0,0,19,0,0,0,0.9,0.9,0.0,2,1,6,13,46.2,1,11,2,2,0,Augsburg,2023-03-11 Bayern Munich-Augsburg,GER-BL1,22-23,944bd3c5
+69374ff5,Julian Baumgartlinger,14,AUT,DM,35-068,90,0,0,0,0,0,0,0,0,46,3,0,1,0.0,0.0,0.1,3,0,30,35,85.7,2,20,0,1,0,Augsburg,2023-03-11 Bayern Munich-Augsburg,GER-BL1,22-23,944bd3c5
+554bcc91,Arne Engels,27,BEL,DM,19-184,45,0,0,0,0,1,0,0,0,25,2,2,1,0.0,0.0,0.0,1,0,8,15,53.3,2,7,0,0,0,Augsburg,2023-03-11 Bayern Munich-Augsburg,GER-BL1,22-23,944bd3c5
+1ae836b1,Elvis Rexhbeçaj,13,GER,DM,25-130,45,0,0,0,0,0,0,0,0,18,0,1,1,0.0,0.0,0.0,2,0,11,14,78.6,1,4,0,1,1,Augsburg,2023-03-11 Bayern Munich-Augsburg,GER-BL1,22-23,944bd3c5
+582a5247,Mads Pedersen,3,DEN,"RB,LB",26-191,90,0,0,0,0,1,0,1,0,39,4,1,2,0.0,0.0,0.0,1,0,18,26,69.2,1,14,2,0,0,Augsburg,2023-03-11 Bayern Munich-Augsburg,GER-BL1,22-23,944bd3c5
+1025db8e,Jeffrey Gouweleeuw,6,NED,CB,31-244,90,0,0,0,0,1,0,0,0,54,2,2,1,0.1,0.1,0.0,1,1,29,43,67.4,4,37,0,0,0,Augsburg,2023-03-11 Bayern Munich-Augsburg,GER-BL1,22-23,944bd3c5
+44a20f0c,Maximilian Bauer,23,GER,CB,23-030,90,0,0,0,0,0,0,0,0,47,3,0,4,0.0,0.0,0.0,0,0,28,36,77.8,0,26,0,0,0,Augsburg,2023-03-11 Bayern Munich-Augsburg,GER-BL1,22-23,944bd3c5
+1df0c0b9,Robert Gumny,2,POL,RB,24-280,45,0,0,0,0,0,0,0,0,21,1,1,1,0.0,0.0,0.0,1,0,9,15,60.0,1,8,0,2,1,Augsburg,2023-03-11 Bayern Munich-Augsburg,GER-BL1,22-23,944bd3c5
+054849d2,Iago,22,BRA,LB,25-353,45,0,0,0,0,1,0,0,0,34,1,0,1,0.0,0.0,0.0,0,0,18,22,81.8,0,12,1,0,0,Augsburg,2023-03-11 Bayern Munich-Augsburg,GER-BL1,22-23,944bd3c5
+17376543,Rafał Gikiewicz,1,POL,GK,35-136,90,0,0,0,0,0,0,0,0,50,0,0,0,0.0,0.0,0.0,0,0,39,46,84.8,0,27,0,0,0,Augsburg,2023-03-11 Bayern Munich-Augsburg,GER-BL1,22-23,944bd3c5

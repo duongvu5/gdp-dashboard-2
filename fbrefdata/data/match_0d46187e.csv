@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+dea698d9,Cristiano Ronaldo,7,POR,FW,34-235,90,1,0,0,0,6,5,0,0,60,1,0,0,0.6,0.6,0.9,7,1,36,48,75.0,3,39,5,6,4,Juventus,2019-09-28 Juventus-SPAL,ITA-SERIA_A,19-20,0d46187e
+e0921a4f,Paulo Dybala,10,ARG,FW,25-317,90,0,1,0,0,6,2,0,0,78,1,0,0,0.3,0.3,0.3,4,1,51,67,76.1,7,58,5,7,4,Juventus,2019-09-28 Juventus-SPAL,ITA-SERIA_A,19-20,0d46187e
+ef619b0b,Aaron Ramsey,8,WAL,AM,28-276,64,0,0,0,0,1,1,0,0,56,1,0,2,0.5,0.5,0.0,6,0,36,49,73.5,4,39,2,3,2,Juventus,2019-09-28 Juventus-SPAL,ITA-SERIA_A,19-20,0d46187e
+ee93c1a9,Federico Bernardeschi,33,ITA,AM,25-224,26,0,0,0,0,2,0,0,0,22,0,0,0,0.1,0.1,0.0,3,0,15,17,88.2,1,17,0,2,2,Juventus,2019-09-28 Juventus-SPAL,ITA-SERIA_A,19-20,0d46187e
+8794e251,Adrien Rabiot,25,FRA,LM,24-178,76,0,0,0,0,1,0,0,0,53,3,1,2,0.0,0.0,0.0,2,0,42,46,91.3,5,41,1,1,0,Juventus,2019-09-28 Juventus-SPAL,ITA-SERIA_A,19-20,0d46187e
+3b8674e6,Rodrigo Bentancur,30,URU,LM,22-095,14,0,0,0,0,0,0,0,0,14,1,0,0,0.0,0.0,0.0,0,0,7,9,77.8,1,8,2,0,0,Juventus,2019-09-28 Juventus-SPAL,ITA-SERIA_A,19-20,0d46187e
+38ac43d3,Sami Khedira,6,GER,RM,32-177,60,0,1,0,0,2,1,1,0,36,2,0,1,0.4,0.4,0.0,1,1,27,30,90.0,2,21,1,0,0,Juventus,2019-09-28 Juventus-SPAL,ITA-SERIA_A,19-20,0d46187e
+a65ce836,Emre Can,23,GER,RM,25-259,30,0,0,0,0,0,0,1,0,19,0,0,1,0.0,0.0,0.0,1,0,17,17,100.0,1,15,2,0,0,Juventus,2019-09-28 Juventus-SPAL,ITA-SERIA_A,19-20,0d46187e
+ad6df2d5,Miralem Pjanić,5,BIH,DM,29-179,90,1,0,0,0,1,1,0,0,127,0,3,1,0.0,0.0,0.1,8,1,105,119,88.2,13,82,3,0,0,Juventus,2019-09-28 Juventus-SPAL,ITA-SERIA_A,19-20,0d46187e
+c0cddebe,Blaise Matuidi,14,FRA,LB,32-172,90,0,0,0,0,0,0,0,0,90,1,1,0,0.0,0.0,0.0,1,0,70,82,85.4,8,60,4,1,0,Juventus,2019-09-28 Juventus-SPAL,ITA-SERIA_A,19-20,0d46187e
+d6e53a3a,Matthijs de Ligt,4,NED,CB,20-047,90,0,0,0,0,0,0,0,0,79,3,0,1,0.0,0.0,0.0,0,0,62,70,88.6,6,52,0,0,0,Juventus,2019-09-28 Juventus-SPAL,ITA-SERIA_A,19-20,0d46187e
+52ec54d0,Leonardo Bonucci,19,ITA,CB,32-150,90,0,0,0,0,1,0,0,0,69,0,0,0,0.1,0.1,0.0,1,0,55,62,88.7,4,53,1,0,0,Juventus,2019-09-28 Juventus-SPAL,ITA-SERIA_A,19-20,0d46187e
+0ab1f153,Juan Cuadrado,16,COL,RB,31-125,90,0,0,0,0,1,0,0,0,97,2,2,0,0.0,0.0,0.3,7,0,83,90,92.2,9,71,4,1,0,Juventus,2019-09-28 Juventus-SPAL,ITA-SERIA_A,19-20,0d46187e
+e40d028b,Gianluigi Buffon,77,ITA,GK,41-243,90,0,0,0,0,0,0,0,0,20,0,0,0,0.0,0.0,0.0,0,0,18,20,90.0,0,13,0,0,0,Juventus,2019-09-28 Juventus-SPAL,ITA-SERIA_A,19-20,0d46187e
+c4efe2b4,Gabriele Moncini,9,ITA,FW,23-155,75,0,0,0,0,1,0,0,0,17,1,1,1,0.1,0.1,0.0,0,0,4,8,50.0,0,8,0,0,0,SPAL,2019-09-28 Juventus-SPAL,ITA-SERIA_A,19-20,0d46187e
+b5cae4e6,Alberto Paloschi,43,ITA,FW,29-267,15,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,2,0,0,0,SPAL,2019-09-28 Juventus-SPAL,ITA-SERIA_A,19-20,0d46187e
+03f946ed,Andrea Petagna,37,ITA,FW,24-090,90,0,0,0,0,2,1,1,0,42,0,1,0,0.1,0.1,0.0,0,0,18,26,69.2,2,29,1,4,3,SPAL,2019-09-28 Juventus-SPAL,ITA-SERIA_A,19-20,0d46187e
+c710f7d5,Mirko Valdifiori,6,ITA,CM,33-160,90,0,0,0,0,0,0,0,0,55,0,1,1,0.0,0.0,0.1,2,0,37,51,72.5,2,24,1,3,3,SPAL,2019-09-28 Juventus-SPAL,ITA-SERIA_A,19-20,0d46187e
+331c0a43,Simone Missiroli,7,ITA,CM,33-128,90,0,0,0,0,0,0,0,0,41,3,1,2,0.0,0.0,0.0,1,0,28,33,84.8,0,21,1,1,1,SPAL,2019-09-28 Juventus-SPAL,ITA-SERIA_A,19-20,0d46187e
+fb2c533b,Alessandro Murgia,11,ITA,CM,23-050,56,0,0,0,0,0,0,0,0,25,2,1,0,0.0,0.0,0.0,0,0,15,18,83.3,1,13,0,0,0,SPAL,2019-09-28 Juventus-SPAL,ITA-SERIA_A,19-20,0d46187e
+ac4a4508,Gabriel Strefezza,21,BRA,CM,22-163,34,0,0,0,0,0,0,0,0,22,4,0,1,0.0,0.0,0.0,0,0,12,14,85.7,1,13,0,1,1,SPAL,2019-09-28 Juventus-SPAL,ITA-SERIA_A,19-20,0d46187e
+6213fd82,Arkadiusz Reca,13,POL,WB,24-103,90,0,0,0,0,1,0,0,0,45,1,1,1,0.1,0.1,0.1,3,0,27,36,75.0,0,28,5,1,1,SPAL,2019-09-28 Juventus-SPAL,ITA-SERIA_A,19-20,0d46187e
+da5a981b,Jacopo Sala,26,ITA,WB,27-297,71,0,0,0,0,1,0,0,0,44,3,1,2,0.0,0.0,0.0,0,0,23,31,74.2,1,18,0,1,0,SPAL,2019-09-28 Juventus-SPAL,ITA-SERIA_A,19-20,0d46187e
+9866afec,Marko Janković,95,MNE,WB,24-081,19,0,0,0,0,0,0,0,0,14,0,0,0,0.0,0.0,0.0,0,0,6,9,66.7,0,9,1,2,0,SPAL,2019-09-28 Juventus-SPAL,ITA-SERIA_A,19-20,0d46187e
+a4e85758,Igor,3,BRA,CB,21-233,90,0,0,0,0,0,0,1,0,47,0,0,2,0.0,0.0,0.0,3,0,34,41,82.9,1,30,0,1,1,SPAL,2019-09-28 Juventus-SPAL,ITA-SERIA_A,19-20,0d46187e
+de045b15,Francesco Vicari,23,ITA,CB,25-056,90,0,0,0,0,0,0,0,0,35,0,2,1,0.0,0.0,0.0,0,0,21,27,77.8,1,15,0,0,0,SPAL,2019-09-28 Juventus-SPAL,ITA-SERIA_A,19-20,0d46187e
+6aafdc27,Nenad Tomović,40,SRB,CB,32-029,90,0,0,0,0,0,0,0,0,47,6,4,1,0.0,0.0,0.0,0,0,24,32,75.0,2,20,0,0,0,SPAL,2019-09-28 Juventus-SPAL,ITA-SERIA_A,19-20,0d46187e
+ee833569,Etrit Berisha,99,ALB,GK,30-202,90,0,0,0,0,0,0,0,0,46,0,0,0,0.0,0.0,0.0,0,0,25,36,69.4,0,18,0,0,0,SPAL,2019-09-28 Juventus-SPAL,ITA-SERIA_A,19-20,0d46187e

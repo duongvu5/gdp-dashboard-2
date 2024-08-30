@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+eb2fe5b6,Luis Muriel,9,COL,FW,29-321,68,1,1,0,0,4,3,0,0,52,0,0,2,0.9,0.9,0.4,6,2,22,36,61.1,1,32,4,7,3,Atalanta,2021-03-03 Atalanta-Crotone,ITA-SERIA_A,20-21,431a5a5f
+d3de9af0,Duván Zapata,91,COL,FW,29-336,22,0,1,0,0,1,1,0,0,17,0,0,0,0.4,0.4,0.1,3,1,7,13,53.8,1,14,1,0,0,Atalanta,2021-03-03 Atalanta-Crotone,ITA-SERIA_A,20-21,431a5a5f
+48d5bd33,Ruslan Malinovskyi,18,UKR,AM,27-303,62,0,0,0,0,3,0,0,0,53,1,0,1,0.4,0.4,0.1,3,1,34,40,85.0,8,41,2,2,1,Atalanta,2021-03-03 Atalanta-Crotone,ITA-SERIA_A,20-21,431a5a5f
+a9aa0d1d,Aleksei Miranchuk,59,RUS,AM,25-137,28,1,0,0,0,2,1,0,0,18,1,0,0,0.4,0.4,0.1,1,0,15,15,100.0,3,18,3,0,0,Atalanta,2021-03-03 Atalanta-Crotone,ITA-SERIA_A,20-21,431a5a5f
+68252d6d,Josip Iličić,72,SVN,AM,33-033,90,1,1,0,0,5,2,0,0,89,0,0,0,0.2,0.2,0.6,11,2,58,76,76.3,12,74,4,2,0,Atalanta,2021-03-03 Atalanta-Crotone,ITA-SERIA_A,20-21,431a5a5f
+780e3631,Matteo Pessina,32,ITA,CM,23-316,90,0,0,0,0,1,1,0,0,72,0,1,1,0.3,0.3,0.4,2,0,52,60,86.7,8,53,2,0,0,Atalanta,2021-03-03 Atalanta-Crotone,ITA-SERIA_A,20-21,431a5a5f
+98d2c2c4,Remo Freuler,11,SUI,CM,28-322,62,0,0,0,0,0,0,0,0,68,2,0,4,0.0,0.0,0.0,4,1,53,61,86.9,5,45,4,0,0,Atalanta,2021-03-03 Atalanta-Crotone,ITA-SERIA_A,20-21,431a5a5f
+e599253a,Mario Pašalić,88,CRO,CM,26-022,28,0,0,0,0,0,0,0,0,23,0,0,0,0.0,0.0,0.0,1,0,21,23,91.3,2,17,1,2,2,Atalanta,2021-03-03 Atalanta-Crotone,ITA-SERIA_A,20-21,431a5a5f
+2d970560,Robin Gosens,8,GER,WB,26-241,85,1,0,0,0,3,2,0,0,72,0,0,1,0.2,0.2,0.0,3,3,51,62,82.3,2,42,0,1,0,Atalanta,2021-03-03 Atalanta-Crotone,ITA-SERIA_A,20-21,431a5a5f
+0e0e4422,Davide Angelo Ghislandi,41,ITA,WB,19-260,5,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,3,3,100.0,1,3,0,0,0,Atalanta,2021-03-03 Atalanta-Crotone,ITA-SERIA_A,20-21,431a5a5f
+c459a650,Joakim Mæhle,3,DEN,WB,23-287,90,0,0,0,0,1,0,0,0,68,0,0,0,0.0,0.0,0.3,3,0,50,62,80.6,3,44,3,1,0,Atalanta,2021-03-03 Atalanta-Crotone,ITA-SERIA_A,20-21,431a5a5f
+921f6058,José Luis Palomino,6,ARG,CB,31-057,90,1,0,0,0,1,1,0,0,98,2,3,0,0.1,0.1,0.0,0,0,74,91,81.3,13,70,2,0,0,Atalanta,2021-03-03 Atalanta-Crotone,ITA-SERIA_A,20-21,431a5a5f
+a3d94a58,Cristian Romero,17,ARG,CB,22-310,68,0,0,0,0,0,0,0,0,59,1,3,2,0.0,0.0,0.0,1,0,35,44,79.5,1,32,0,0,0,Atalanta,2021-03-03 Atalanta-Crotone,ITA-SERIA_A,20-21,431a5a5f
+ac7e640b,Mattia Caldara,13,ITA,CB,26-302,22,0,0,0,0,0,0,0,0,9,0,1,0,0.0,0.0,0.0,0,0,6,7,85.7,0,5,0,0,0,Atalanta,2021-03-03 Atalanta-Crotone,ITA-SERIA_A,20-21,431a5a5f
+6eee05f1,Berat Djimsiti,19,ALB,CB,28-012,90,0,1,0,0,0,0,0,0,75,0,1,0,0.0,0.0,0.1,4,0,66,71,93.0,9,62,0,0,0,Atalanta,2021-03-03 Atalanta-Crotone,ITA-SERIA_A,20-21,431a5a5f
+ac4003af,Marco Sportiello,57,ITA,GK,28-297,90,0,0,0,0,0,0,0,0,29,1,0,0,0.0,0.0,0.0,0,0,27,27,100.0,0,22,0,0,0,Atalanta,2021-03-03 Atalanta-Crotone,ITA-SERIA_A,20-21,431a5a5f
+80dbbd10,Simeon Nwankwo,25,NGA,FW,28-300,90,1,0,0,0,1,1,0,0,45,1,0,2,0.3,0.3,0.0,1,0,22,32,68.8,0,19,1,1,1,Crotone,2021-03-03 Atalanta-Crotone,ITA-SERIA_A,20-21,431a5a5f
+2bae5658,Emmanuel Rivière,97,FRA,LW,31-000,59,0,0,0,0,1,0,1,0,19,0,0,0,0.1,0.1,0.0,1,0,11,15,73.3,0,11,1,3,2,Crotone,2021-03-03 Atalanta-Crotone,ITA-SERIA_A,20-21,431a5a5f
+909bce7f,Jacopo Petriccione,44,ITA,CM,26-009,31,0,0,0,0,0,0,0,0,14,1,0,0,0.0,0.0,0.0,0,0,10,12,83.3,4,8,0,0,0,Crotone,2021-03-03 Atalanta-Crotone,ITA-SERIA_A,20-21,431a5a5f
+f49c4ae9,Junior Messias,30,BRA,"RW,FW",29-294,90,0,0,0,0,2,1,0,0,46,1,1,0,0.4,0.4,0.0,0,0,16,27,59.3,1,26,3,7,3,Crotone,2021-03-03 Atalanta-Crotone,ITA-SERIA_A,20-21,431a5a5f
+6213fd82,Arkadiusz Reca,69,POL,LM,25-259,45,0,0,0,0,0,0,0,0,29,1,1,0,0.0,0.0,0.0,0,0,15,22,68.2,2,15,1,1,1,Crotone,2021-03-03 Atalanta-Crotone,ITA-SERIA_A,20-21,431a5a5f
+39ee6cb6,Andrea Rispoli,33,ITA,"WB,RM",32-155,45,0,0,0,0,0,0,0,0,19,0,0,0,0.0,0.0,0.0,0,0,9,13,69.2,0,7,1,0,0,Crotone,2021-03-03 Atalanta-Crotone,ITA-SERIA_A,20-21,431a5a5f
+1bd5fc78,Eduardo Henrique,95,BRA,CM,25-290,78,0,0,0,0,0,0,0,0,40,0,1,1,0.0,0.0,0.0,0,0,26,35,74.3,8,19,1,2,1,Crotone,2021-03-03 Atalanta-Crotone,ITA-SERIA_A,20-21,431a5a5f
+ea468ea8,Luca Marrone,34,ITA,CM,30-340,12,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,2,4,50.0,0,2,0,0,0,Crotone,2021-03-03 Atalanta-Crotone,ITA-SERIA_A,20-21,431a5a5f
+741e058f,Niccolò Zanellato,21,ITA,CM,22-252,90,0,0,0,0,0,0,0,0,39,3,1,0,0.0,0.0,0.0,0,0,26,32,81.3,2,14,0,0,0,Crotone,2021-03-03 Atalanta-Crotone,ITA-SERIA_A,20-21,431a5a5f
+c77be0cf,Pedro Pereira,32,POR,"RM,WB,LM",23-040,90,0,0,0,0,0,0,0,0,41,3,0,1,0.0,0.0,0.1,1,0,15,33,45.5,1,21,0,1,1,Crotone,2021-03-03 Atalanta-Crotone,ITA-SERIA_A,20-21,431a5a5f
+997fff07,Sebastiano Luperto,13,ITA,CB,24-178,90,0,0,0,0,0,0,0,0,38,2,2,2,0.0,0.0,0.0,0,0,18,24,75.0,0,19,1,0,0,Crotone,2021-03-03 Atalanta-Crotone,ITA-SERIA_A,20-21,431a5a5f
+1db295e5,Vladimir Golemić,5,SVN,CB,29-248,90,0,0,0,0,0,0,0,0,48,5,7,2,0.0,0.0,0.0,1,1,21,32,65.6,1,17,0,0,0,Crotone,2021-03-03 Atalanta-Crotone,ITA-SERIA_A,20-21,431a5a5f
+01a49bd2,Lisandro Magallán,6,ARG,CB,27-157,50,0,0,0,0,0,0,1,0,23,3,2,1,0.0,0.0,0.0,0,0,6,15,40.0,0,6,0,0,0,Crotone,2021-03-03 Atalanta-Crotone,ITA-SERIA_A,20-21,431a5a5f
+ae5b04fe,Giuseppe Cuomo,3,ITA,CB,23-029,40,0,0,0,0,0,0,0,0,24,1,2,1,0.0,0.0,0.0,0,0,14,16,87.5,1,12,0,0,0,Crotone,2021-03-03 Atalanta-Crotone,ITA-SERIA_A,20-21,431a5a5f
+e66ebabb,Alex Cordaz,1,ITA,GK,38-061,90,0,0,0,0,0,0,0,0,51,0,0,0,0.0,0.0,0.0,0,0,25,48,52.1,0,27,0,0,0,Crotone,2021-03-03 Atalanta-Crotone,ITA-SERIA_A,20-21,431a5a5f

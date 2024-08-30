@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+d3de9af0,Duván Zapata,91,COL,FW,28-307,62,0,2,0,0,2,1,0,0,21,0,0,0,0.1,0.1,0.9,3,2,10,14,71.4,0,15,1,0,0,Atalanta,2020-02-02 Atalanta-Genoa,ITA-SERIA_A,19-20,f6a65910
+48d5bd33,Ruslan Malinovskyi,18,UKR,AM,26-274,28,0,0,0,0,2,2,0,0,25,2,1,0,0.1,0.1,0.0,3,0,12,18,66.7,1,15,0,2,1,Atalanta,2020-02-02 Atalanta-Genoa,ITA-SERIA_A,19-20,f6a65910
+68252d6d,Josip Iličić,72,SVN,FW,32-004,75,1,0,0,0,5,2,0,0,57,2,0,0,0.9,0.9,0.2,12,0,33,44,75.0,3,38,4,6,4,Atalanta,2020-02-02 Atalanta-Genoa,ITA-SERIA_A,19-20,f6a65910
+eb2fe5b6,Luis Muriel,9,COL,FW,28-292,15,0,0,0,0,0,0,0,0,8,1,1,0,0.0,0.0,0.6,2,0,4,6,66.7,0,5,0,0,0,Atalanta,2020-02-02 Atalanta-Genoa,ITA-SERIA_A,19-20,f6a65910
+6e4df551,Papu Gómez,10,ARG,AM,31-352,90,0,0,0,0,3,0,0,0,58,1,0,0,0.1,0.1,0.1,8,1,38,51,74.5,3,47,10,3,3,Atalanta,2020-02-02 Atalanta-Genoa,ITA-SERIA_A,19-20,f6a65910
+e599253a,Mario Pašalić,88,CRO,CM,24-358,53,0,0,0,0,2,0,1,0,39,0,0,1,0.1,0.1,0.0,2,0,28,35,80.0,2,22,1,1,1,Atalanta,2020-02-02 Atalanta-Genoa,ITA-SERIA_A,19-20,f6a65910
+98d2c2c4,Remo Freuler,11,SUI,CM,27-293,37,0,0,0,0,1,0,0,0,30,2,0,0,0.0,0.0,0.0,0,0,22,27,81.5,5,15,0,1,0,Atalanta,2020-02-02 Atalanta-Genoa,ITA-SERIA_A,19-20,f6a65910
+2a1beb34,Marten de Roon,15,NED,CM,28-310,90,0,0,0,0,1,0,1,0,84,4,1,1,0.0,0.0,0.2,5,0,62,71,87.3,5,55,1,4,3,Atalanta,2020-02-02 Atalanta-Genoa,ITA-SERIA_A,19-20,f6a65910
+2d970560,Robin Gosens,8,GER,WB,25-212,90,0,0,0,0,2,1,0,0,48,2,2,0,0.1,0.1,0.0,2,1,24,39,61.5,0,28,3,1,1,Atalanta,2020-02-02 Atalanta-Genoa,ITA-SERIA_A,19-20,f6a65910
+3b333ac3,Hans Hateboer,33,NED,WB,26-024,90,0,0,0,0,1,0,0,0,62,0,0,0,0.1,0.1,0.0,7,0,51,58,87.9,4,43,4,1,0,Atalanta,2020-02-02 Atalanta-Genoa,ITA-SERIA_A,19-20,f6a65910
+6eee05f1,Berat Djimsiti,19,ALB,CB,26-348,90,0,0,0,0,1,1,0,0,65,1,0,0,0.1,0.1,0.0,0,0,47,59,79.7,6,39,1,0,0,Atalanta,2020-02-02 Atalanta-Genoa,ITA-SERIA_A,19-20,f6a65910
+921f6058,José Luis Palomino,6,ARG,CB,30-028,90,0,0,0,0,1,0,0,0,66,1,3,2,0.6,0.6,0.0,1,0,47,57,82.5,7,28,0,0,0,Atalanta,2020-02-02 Atalanta-Genoa,ITA-SERIA_A,19-20,f6a65910
+c56dc39e,Rafael Tolói,2,ITA,CB,29-115,90,1,0,0,0,3,1,0,0,61,0,1,1,0.6,0.6,0.0,0,0,40,51,78.4,2,42,1,1,0,Atalanta,2020-02-02 Atalanta-Genoa,ITA-SERIA_A,19-20,f6a65910
+f0f7f62f,Pierluigi Gollini,95,ITA,GK,24-321,90,0,0,0,0,0,0,0,0,29,0,0,0,0.0,0.0,0.0,0,0,23,27,85.2,0,16,0,0,0,Atalanta,2020-02-02 Atalanta-Genoa,ITA-SERIA_A,19-20,f6a65910
+08aa9cd1,Andrea Pinamonti,99,ITA,FW,20-259,86,0,0,0,0,2,1,0,0,45,1,0,1,0.1,0.1,0.0,2,0,22,34,64.7,0,14,1,1,0,Genoa,2020-02-02 Atalanta-Genoa,ITA-SERIA_A,19-20,f6a65910
+d7d32194,Mattia Destro,23,ITA,FW,28-319,4,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,2,0,0,0,Genoa,2020-02-02 Atalanta-Genoa,ITA-SERIA_A,19-20,f6a65910
+0a447501,Antonio Sanabria,9,PAR,FW,23-335,82,1,0,0,0,4,3,0,0,35,1,0,1,0.5,0.5,0.1,2,0,15,21,71.4,1,20,1,1,0,Genoa,2020-02-02 Atalanta-Genoa,ITA-SERIA_A,19-20,f6a65910
+96960855,Francesco Cassata,29,ITA,DM,22-201,8,0,0,0,0,0,0,1,0,5,1,0,0,0.0,0.0,0.0,0,0,3,4,75.0,0,3,0,0,0,Genoa,2020-02-02 Atalanta-Genoa,ITA-SERIA_A,19-20,f6a65910
+2334478a,Stefano Sturaro,27,ITA,"CM,DM",26-330,90,0,1,0,0,0,0,0,0,31,3,0,2,0.0,0.0,0.4,2,2,9,19,47.4,1,15,0,4,2,Genoa,2020-02-02 Atalanta-Genoa,ITA-SERIA_A,19-20,f6a65910
+c3a8bcd8,Lasse Schöne,20,DEN,"CM,DM",33-251,90,0,0,0,0,0,0,0,0,57,2,0,0,0.0,0.0,0.0,6,0,36,48,75.0,4,27,1,2,2,Genoa,2020-02-02 Atalanta-Genoa,ITA-SERIA_A,19-20,f6a65910
+d3d758d8,Valon Behrami,85,SUI,CM,34-289,81,0,0,0,0,1,0,2,1,33,1,0,5,0.0,0.0,0.0,0,0,17,25,68.0,2,16,1,0,0,Genoa,2020-02-02 Atalanta-Genoa,ITA-SERIA_A,19-20,f6a65910
+35dd6d80,Domenico Criscito,4,ITA,WB,33-034,90,1,0,1,1,1,0,1,0,40,4,1,0,0.8,0.0,0.1,2,0,21,29,72.4,2,14,1,0,0,Genoa,2020-02-02 Atalanta-Genoa,ITA-SERIA_A,19-20,f6a65910
+71dc23da,Paolo Ghiglione,18,ITA,WB,23-000,89,0,0,0,0,2,0,0,0,57,0,1,0,0.0,0.0,0.0,3,1,32,42,76.2,1,19,0,2,1,Genoa,2020-02-02 Atalanta-Genoa,ITA-SERIA_A,19-20,f6a65910
+4b029b31,Edoardo Goldaniga,5,ITA,WB,26-092,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Genoa,2020-02-02 Atalanta-Genoa,ITA-SERIA_A,19-20,f6a65910
+e0314d87,Andrea Masiello,55,ITA,CB,33-362,90,0,0,0,0,0,0,0,0,37,1,0,2,0.0,0.0,0.0,0,0,21,27,77.8,1,13,0,0,0,Genoa,2020-02-02 Atalanta-Genoa,ITA-SERIA_A,19-20,f6a65910
+a3d94a58,Cristian Romero,17,ARG,CB,21-281,90,0,0,0,0,0,0,1,0,47,2,3,5,0.0,0.0,0.0,0,0,22,31,71.0,1,12,0,2,1,Genoa,2020-02-02 Atalanta-Genoa,ITA-SERIA_A,19-20,f6a65910
+64cd167d,Davide Biraschi,14,ITA,CB,25-215,90,0,0,0,0,0,0,0,0,60,1,0,1,0.0,0.0,0.0,0,0,41,52,78.8,3,25,1,2,2,Genoa,2020-02-02 Atalanta-Genoa,ITA-SERIA_A,19-20,f6a65910
+4c62d0c8,Mattia Perin,1,ITA,GK,27-084,90,0,0,0,0,0,0,1,0,43,0,0,0,0.0,0.0,0.0,0,0,19,39,48.7,0,21,0,0,0,Genoa,2020-02-02 Atalanta-Genoa,ITA-SERIA_A,19-20,f6a65910

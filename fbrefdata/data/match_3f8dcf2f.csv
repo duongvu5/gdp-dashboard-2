@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+08aa9cd1,Andrea Pinamonti,99,ITA,FW,22-235,76,0,0,0,0,3,1,0,0,20,1,1,1,0.2,0.2,0.0,1,0,8,11,72.7,0,13,1,0,0,Empoli,2022-01-09 Empoli-Sassuolo,ITA-SERIA_A,21-22,3f8dcf2f
+0fdcef0e,Kristjan Asllani,23,ALB,FW,19-306,14,0,0,0,0,0,0,0,0,13,0,0,0,0.0,0.0,0.2,1,0,11,12,91.7,1,7,1,0,0,Empoli,2022-01-09 Empoli-Sassuolo,ITA-SERIA_A,21-22,3f8dcf2f
+1fca9171,Federico Di Francesco,11,ITA,FW,27-209,28,0,0,0,0,0,0,0,0,9,1,0,0,0.0,0.0,0.0,2,1,6,7,85.7,1,3,0,0,0,Empoli,2022-01-09 Empoli-Sassuolo,ITA-SERIA_A,21-22,3f8dcf2f
+a4fe8cda,Patrick Cutrone,9,ITA,FW,24-006,62,0,0,0,0,7,0,0,0,31,1,1,0,0.5,0.5,0.0,1,0,14,19,73.7,2,13,2,2,2,Empoli,2022-01-09 Empoli-Sassuolo,ITA-SERIA_A,21-22,3f8dcf2f
+f42d6c13,Nedim Bajrami,10,ALB,AM,22-315,63,0,0,0,0,0,0,0,0,34,0,0,0,0.0,0.0,0.3,3,0,24,32,75.0,1,17,3,1,1,Empoli,2022-01-09 Empoli-Sassuolo,ITA-SERIA_A,21-22,3f8dcf2f
+9f9b9269,Riccardo Fiamozzi,20,ITA,"LB,AM",28-236,27,0,0,0,0,0,0,0,0,15,0,0,0,0.0,0.0,0.0,1,0,11,13,84.6,0,6,0,1,0,Empoli,2022-01-09 Empoli-Sassuolo,ITA-SERIA_A,21-22,3f8dcf2f
+d7918b13,Liam Henderson,8,SCO,LM,25-259,90,1,0,0,0,3,2,0,0,47,0,0,1,0.3,0.3,0.2,5,1,21,37,56.8,2,26,1,0,0,Empoli,2022-01-09 Empoli-Sassuolo,ITA-SERIA_A,21-22,3f8dcf2f
+92948398,Leo Štulac,5,SVN,CM,27-105,45,0,0,0,0,1,1,0,0,21,0,0,0,0.0,0.0,0.0,0,0,16,20,80.0,1,11,0,0,0,Empoli,2022-01-09 Empoli-Sassuolo,ITA-SERIA_A,21-22,3f8dcf2f
+9823be92,Samuele Ricci,28,ITA,CM,20-141,45,0,0,0,0,0,0,0,0,29,1,0,0,0.0,0.0,0.0,1,0,21,28,75.0,4,18,0,1,1,Empoli,2022-01-09 Empoli-Sassuolo,ITA-SERIA_A,21-22,3f8dcf2f
+4e1d5e59,Szymon Żurkowski,27,POL,RM,24-106,90,0,0,0,0,0,0,0,0,65,3,1,2,0.0,0.0,0.0,2,0,42,54,77.8,2,38,2,0,0,Empoli,2022-01-09 Empoli-Sassuolo,ITA-SERIA_A,21-22,3f8dcf2f
+91d0fabf,Riccardo Marchizza,3,ITA,LB,23-289,45,0,0,0,0,0,0,0,0,20,3,1,2,0.0,0.0,0.0,0,0,10,11,90.9,2,7,1,0,0,Empoli,2022-01-09 Empoli-Sassuolo,ITA-SERIA_A,21-22,3f8dcf2f
+8cc29864,Lorenzo Tonelli,26,ITA,CB,31-357,45,0,0,0,0,0,0,0,0,41,0,2,3,0.0,0.0,0.0,0,0,29,30,96.7,1,17,0,0,0,Empoli,2022-01-09 Empoli-Sassuolo,ITA-SERIA_A,21-22,3f8dcf2f
+75438a9a,Mattia Viti,42,ITA,"CB,LB",19-350,59,0,0,0,0,0,0,2,1,32,1,1,1,0.0,0.0,0.0,0,0,23,27,85.2,0,20,0,1,1,Empoli,2022-01-09 Empoli-Sassuolo,ITA-SERIA_A,21-22,3f8dcf2f
+6b635f5c,Ardian Ismajli,34,ALB,CB,25-101,90,0,0,0,0,0,0,0,0,69,0,2,0,0.0,0.0,0.0,0,0,59,65,90.8,5,41,3,0,0,Empoli,2022-01-09 Empoli-Sassuolo,ITA-SERIA_A,21-22,3f8dcf2f
+13b44b02,Petar Stojanović,30,SVN,RB,26-094,90,0,0,0,0,1,0,0,0,96,1,3,2,0.2,0.2,0.2,7,0,66,79,83.5,7,51,3,3,2,Empoli,2022-01-09 Empoli-Sassuolo,ITA-SERIA_A,21-22,3f8dcf2f
+77d6fd4d,Guglielmo Vicario,13,ITA,GK,25-094,90,0,0,0,0,0,0,0,0,38,0,0,0,0.0,0.0,0.0,0,0,32,32,100.0,0,14,0,0,0,Empoli,2022-01-09 Empoli-Sassuolo,ITA-SERIA_A,21-22,3f8dcf2f
+854ee61a,Grégoire Defrel,92,MTQ,FW,30-206,60,0,0,0,0,1,1,0,0,22,1,0,0,0.0,0.0,0.0,2,0,15,17,88.2,0,13,0,1,1,Sassuolo,2022-01-09 Empoli-Sassuolo,ITA-SERIA_A,21-22,3f8dcf2f
+8790f988,Gianluca Scamacca,91,ITA,FW,23-008,30,2,0,0,0,4,3,0,0,16,1,1,0,1.7,1.7,0.0,2,1,7,10,70.0,0,10,0,0,0,Sassuolo,2022-01-09 Empoli-Sassuolo,ITA-SERIA_A,21-22,3f8dcf2f
+0a483542,Giorgos Kyriakopoulos,77,GRE,"LW,LB",25-338,90,0,0,0,0,3,1,1,0,64,0,0,2,0.1,0.1,0.1,6,0,44,52,84.6,5,41,4,3,2,Sassuolo,2022-01-09 Empoli-Sassuolo,ITA-SERIA_A,21-22,3f8dcf2f
+53a0e358,Domenico Berardi,25,ITA,RW,27-161,88,1,2,1,1,4,2,1,0,80,1,1,0,1.2,0.4,0.9,13,4,51,66,77.3,7,54,4,1,0,Sassuolo,2022-01-09 Empoli-Sassuolo,ITA-SERIA_A,21-22,3f8dcf2f
+a378a02a,Ruan,44,BRA,RW,22-216,2,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,0,0,Sassuolo,2022-01-09 Empoli-Sassuolo,ITA-SERIA_A,21-22,3f8dcf2f
+6e058f06,Giacomo Raspadori,18,ITA,AM,21-325,90,2,0,0,0,4,2,0,0,55,0,0,0,1.0,1.0,0.4,5,1,32,43,74.4,4,33,2,5,3,Sassuolo,2022-01-09 Empoli-Sassuolo,ITA-SERIA_A,21-22,3f8dcf2f
+20094685,Maxime Lopez,8,FRA,DM,24-036,90,0,0,0,0,1,1,1,0,85,1,0,1,0.0,0.0,0.1,6,1,73,78,93.6,4,49,1,1,1,Sassuolo,2022-01-09 Empoli-Sassuolo,ITA-SERIA_A,21-22,3f8dcf2f
+65fd099c,Abdou Harroui,20,NED,DM,23-361,60,0,0,0,0,1,1,0,0,39,0,0,2,0.1,0.1,0.0,2,0,28,31,90.3,5,27,3,0,0,Sassuolo,2022-01-09 Empoli-Sassuolo,ITA-SERIA_A,21-22,3f8dcf2f
+2a7d27c1,Davide Frattesi,16,ITA,DM,22-079,30,0,1,0,0,3,1,0,0,31,1,0,0,0.1,0.1,0.9,1,0,24,26,92.3,2,23,3,0,0,Sassuolo,2022-01-09 Empoli-Sassuolo,ITA-SERIA_A,21-22,3f8dcf2f
+10e7f486,Rogério,6,BRA,LB,23-361,76,0,0,0,0,1,0,0,0,77,2,2,1,0.0,0.0,0.0,2,0,54,65,83.1,8,42,2,1,0,Sassuolo,2022-01-09 Empoli-Sassuolo,ITA-SERIA_A,21-22,3f8dcf2f
+1295552e,Mert Müldür,17,TUR,"LW,LB",22-281,14,0,0,0,0,0,0,0,0,13,2,1,0,0.0,0.0,0.0,0,0,6,9,66.7,0,10,0,0,0,Sassuolo,2022-01-09 Empoli-Sassuolo,ITA-SERIA_A,21-22,3f8dcf2f
+8650af85,Gian Marco Ferrari,31,ITA,CB,29-328,90,0,0,0,0,0,0,0,0,65,1,4,1,0.0,0.0,0.0,2,0,51,55,92.7,1,40,1,0,0,Sassuolo,2022-01-09 Empoli-Sassuolo,ITA-SERIA_A,21-22,3f8dcf2f
+c316607a,Vlad Chiricheș,21,ROU,CB,32-056,76,0,0,0,0,0,0,0,0,19,0,1,2,0.0,0.0,0.0,1,0,13,13,100.0,0,7,0,0,0,Sassuolo,2022-01-09 Empoli-Sassuolo,ITA-SERIA_A,21-22,3f8dcf2f
+2200181e,Kaan Ayhan,5,TUR,CB,27-060,14,0,0,0,0,0,0,0,0,17,0,0,1,0.0,0.0,0.0,0,0,15,15,100.0,1,13,1,0,0,Sassuolo,2022-01-09 Empoli-Sassuolo,ITA-SERIA_A,21-22,3f8dcf2f
+a96e5dc0,Jeremy Toljan,22,GER,RB,27-154,90,0,0,0,0,2,0,0,0,76,0,0,1,0.1,0.1,0.1,3,1,57,64,89.1,6,39,2,1,0,Sassuolo,2022-01-09 Empoli-Sassuolo,ITA-SERIA_A,21-22,3f8dcf2f
+8cabdc1e,Andrea Consigli,47,ITA,GK,34-347,90,0,0,0,0,0,0,0,0,32,0,0,0,0.0,0.0,0.0,0,0,24,30,80.0,0,18,0,0,0,Sassuolo,2022-01-09 Empoli-Sassuolo,ITA-SERIA_A,21-22,3f8dcf2f

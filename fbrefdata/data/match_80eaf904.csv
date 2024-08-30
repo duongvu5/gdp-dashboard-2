@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+40b58bfc,Janni Serra,23,GER,FW,23-343,63,0,0,0,0,2,0,0,0,22,0,0,0,0.1,0.1,0.1,2,0,9,15,60.0,0,13,0,0,0,Arminia,2022-02-19 Arminia-Union Berlin,GER-BL1,21-22,80eaf904
+e21042ae,Fabian Klos,9,GER,FW,34-079,27,0,0,0,0,0,0,0,0,22,0,0,0,0.0,0.0,0.0,0,0,5,16,31.3,1,8,0,1,1,Arminia,2022-02-19 Arminia-Union Berlin,GER-BL1,21-22,80eaf904
+63b9cc6d,Masaya Okugawa,11,JPN,LW,25-311,83,1,0,0,0,1,1,0,0,27,1,0,0,0.3,0.3,0.0,2,0,10,14,71.4,1,19,1,3,1,Arminia,2022-02-19 Arminia-Union Berlin,GER-BL1,21-22,80eaf904
+68829001,Gonzalo Castro,7,GER,LW,34-253,7,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,2,1,0,0,Arminia,2022-02-19 Arminia-Union Berlin,GER-BL1,21-22,80eaf904
+cb11b429,Patrick Wimmer,20,AUT,RW,20-265,79,0,1,0,0,3,0,0,0,53,1,1,4,0.1,0.1,0.3,3,1,23,40,57.5,6,21,1,6,3,Arminia,2022-02-19 Arminia-Union Berlin,GER-BL1,21-22,80eaf904
+f9f92b5f,Florian Krüger,18,GER,RW,23-006,11,0,0,0,0,1,0,0,0,6,0,0,0,0.1,0.1,0.0,1,0,3,5,60.0,0,4,1,1,1,Arminia,2022-02-19 Arminia-Union Berlin,GER-BL1,21-22,80eaf904
+106bca06,Alessandro Schöpf,8,AUT,AM,28-012,90,0,0,0,0,1,1,0,0,56,1,0,1,0.1,0.1,0.0,4,1,33,42,78.6,2,30,3,2,1,Arminia,2022-02-19 Arminia-Union Berlin,GER-BL1,21-22,80eaf904
+d25fee56,Fabian Kunze,16,GER,DM,23-250,90,0,0,0,0,0,0,0,0,51,4,1,1,0.0,0.0,0.0,4,0,34,42,81.0,5,14,0,2,1,Arminia,2022-02-19 Arminia-Union Berlin,GER-BL1,21-22,80eaf904
+d3112d86,Sebastian Vasiliadis,39,GRE,DM,24-138,90,0,0,0,0,1,0,0,0,35,2,2,2,0.1,0.1,0.0,3,0,12,21,57.1,2,13,2,0,0,Arminia,2022-02-19 Arminia-Union Berlin,GER-BL1,21-22,80eaf904
+c0d3bd23,Jacob Barrett Laursen,5,DEN,LB,27-094,63,0,0,0,0,0,0,0,0,36,1,0,1,0.0,0.0,0.0,1,0,25,33,75.8,2,17,1,0,0,Arminia,2022-02-19 Arminia-Union Berlin,GER-BL1,21-22,80eaf904
+d686dbc0,Nathan de Medina,15,BEL,LB,24-134,27,0,0,0,0,0,0,0,0,16,1,0,1,0.0,0.0,0.0,0,0,5,12,41.7,1,3,0,0,0,Arminia,2022-02-19 Arminia-Union Berlin,GER-BL1,21-22,80eaf904
+c562c5b4,Joakim Nilsson,4,SWE,CB,28-013,90,0,0,0,0,0,0,0,0,53,0,1,0,0.0,0.0,0.0,0,0,32,40,80.0,2,14,0,0,0,Arminia,2022-02-19 Arminia-Union Berlin,GER-BL1,21-22,80eaf904
+df9c3473,Guilherme Ramos,3,POR,CB,24-192,90,0,0,0,0,2,0,0,0,50,1,0,0,0.0,0.0,0.0,0,0,37,43,86.0,3,17,0,0,0,Arminia,2022-02-19 Arminia-Union Berlin,GER-BL1,21-22,80eaf904
+f0a37d36,Cédric Brunner,27,SUI,RB,28-002,90,0,0,0,0,1,0,0,0,66,1,1,0,0.0,0.0,0.1,1,0,33,49,67.3,0,20,1,0,0,Arminia,2022-02-19 Arminia-Union Berlin,GER-BL1,21-22,80eaf904
+c1242d4e,Stefan Ortega,1,GER,GK,29-105,90,0,0,0,0,0,0,0,0,64,0,0,0,0.0,0.0,0.0,0,0,47,61,77.0,0,29,0,0,0,Arminia,2022-02-19 Arminia-Union Berlin,GER-BL1,21-22,80eaf904
+1e274a0a,Sven Michel,10,GER,"FW,AM",31-219,83,0,0,0,0,2,0,0,0,24,2,0,0,0.1,0.1,0.0,2,0,6,14,42.9,1,13,0,1,0,Union Berlin,2022-02-19 Arminia-Union Berlin,GER-BL1,21-22,80eaf904
+30ae134d,Kevin Behrens,17,GER,FW,31-016,7,0,0,0,0,1,1,0,0,5,0,0,0,0.1,0.1,0.0,0,0,3,4,75.0,0,3,0,0,0,Union Berlin,2022-02-19 Arminia-Union Berlin,GER-BL1,21-22,80eaf904
+e5478b87,Taiwo Awoniyi,14,NGA,FW,24-191,74,0,0,0,0,2,1,0,0,26,0,0,1,0.3,0.3,0.1,1,0,8,16,50.0,0,15,2,0,0,Union Berlin,2022-02-19 Arminia-Union Berlin,GER-BL1,21-22,80eaf904
+1a83027b,Keita Endo,18,JPN,"AM,FW",24-089,16,0,0,0,0,0,0,0,0,13,0,0,1,0.0,0.0,0.0,0,0,7,11,63.6,0,9,0,0,0,Union Berlin,2022-02-19 Arminia-Union Berlin,GER-BL1,21-22,80eaf904
+924f9191,Grischa Prömel,21,GER,"CM,DM",27-041,90,0,0,0,0,0,0,0,0,57,2,1,0,0.0,0.0,0.0,1,0,38,50,76.0,3,33,0,0,0,Union Berlin,2022-02-19 Arminia-Union Berlin,GER-BL1,21-22,80eaf904
+59e4b92e,Rani Khedira,8,GER,"CM,DM",28-023,74,0,0,0,0,1,0,0,0,33,1,0,0,0.1,0.1,0.0,0,0,24,30,80.0,1,17,0,0,0,Union Berlin,2022-02-19 Arminia-Union Berlin,GER-BL1,21-22,80eaf904
+a5ce09f2,Kevin Möhwald,30,GER,DM,28-231,16,0,0,0,0,1,0,0,0,24,1,0,0,0.0,0.0,0.0,3,0,14,20,70.0,3,19,2,0,0,Union Berlin,2022-02-19 Arminia-Union Berlin,GER-BL1,21-22,80eaf904
+8eb55dbb,Sheraldo Becker,27,SUR,"CM,RW,AM",27-010,90,0,0,0,0,0,0,0,0,53,0,0,1,0.0,0.0,0.2,2,0,31,42,73.8,3,35,8,3,1,Union Berlin,2022-02-19 Arminia-Union Berlin,GER-BL1,21-22,80eaf904
+d1661819,Bastian Oczipka,20,GER,"WB,LB",33-038,83,0,0,0,0,0,0,0,0,71,2,1,2,0.0,0.0,0.0,2,0,46,65,70.8,4,44,3,1,0,Union Berlin,2022-02-19 Arminia-Union Berlin,GER-BL1,21-22,80eaf904
+7242b495,Niko Gießelmann,23,GER,LB,30-146,7,0,0,0,0,0,0,0,0,14,0,0,0,0.0,0.0,0.0,0,0,12,15,80.0,2,10,0,0,0,Union Berlin,2022-02-19 Arminia-Union Berlin,GER-BL1,21-22,80eaf904
+009a4f60,Julian Ryerson,6,NOR,"WB,RB",24-094,90,0,0,0,0,1,1,1,0,69,2,0,2,0.0,0.0,0.1,2,0,42,57,73.7,3,36,2,1,1,Union Berlin,2022-02-19 Arminia-Union Berlin,GER-BL1,21-22,80eaf904
+699fb8db,Dominique Heintz,33,GER,CB,28-188,56,0,0,0,0,0,0,0,0,40,2,2,1,0.0,0.0,0.0,0,0,24,31,77.4,0,29,0,0,0,Union Berlin,2022-02-19 Arminia-Union Berlin,GER-BL1,21-22,80eaf904
+daa78200,Andreas Voglsammer,9,GER,"LW,FW,CB",30-041,34,0,0,0,0,1,0,0,0,17,2,0,0,0.1,0.1,0.2,1,0,10,12,83.3,0,12,0,2,2,Union Berlin,2022-02-19 Arminia-Union Berlin,GER-BL1,21-22,80eaf904
+bd7d2e6d,Timo Baumgartl,25,GER,CB,25-352,90,0,0,0,0,0,0,0,0,106,3,4,2,0.0,0.0,0.0,2,0,76,88,86.4,11,68,0,0,0,Union Berlin,2022-02-19 Arminia-Union Berlin,GER-BL1,21-22,80eaf904
+a93b6f4e,Paul Jaeckel,3,GER,CB,23-212,90,0,0,0,0,1,0,1,0,112,3,5,0,0.0,0.0,0.0,1,0,83,96,86.5,7,78,1,0,0,Union Berlin,2022-02-19 Arminia-Union Berlin,GER-BL1,21-22,80eaf904
+7fe12375,Andreas Luthe,1,GER,GK,34-346,90,0,0,0,0,0,0,0,0,43,0,0,0,0.0,0.0,0.0,0,0,35,42,83.3,0,31,0,0,0,Union Berlin,2022-02-19 Arminia-Union Berlin,GER-BL1,21-22,80eaf904

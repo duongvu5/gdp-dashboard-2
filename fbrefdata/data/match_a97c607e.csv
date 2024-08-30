@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+d705ba44,Andrea Belotti,9,ITA,FW,26-215,90,0,0,0,0,4,1,0,0,42,0,0,1,0.5,0.5,0.1,1,0,12,28,42.9,4,25,7,3,2,Torino,2020-07-22 Torino-Hellas Verona,ITA-SERIA_A,19-20,a97c607e
+9592289a,Simone Zaza,11,ITA,FW,29-027,90,1,0,0,0,4,2,1,0,40,0,0,0,0.3,0.3,0.0,0,0,11,27,40.7,0,17,0,0,0,Torino,2020-07-22 Torino-Hellas Verona,ITA-SERIA_A,19-20,a97c607e
+0375723e,Simone Verdi,24,ITA,AM,28-010,90,0,0,0,0,1,0,1,0,51,1,1,1,0.1,0.1,0.1,3,0,26,39,66.7,6,27,2,1,1,Torino,2020-07-22 Torino-Hellas Verona,ITA-SERIA_A,19-20,a97c607e
+f1cfc209,Tomás Rincón,88,VEN,CM,32-191,90,0,0,0,0,0,0,0,0,44,0,1,0,0.0,0.0,0.1,2,0,28,38,73.7,3,24,4,2,2,Torino,2020-07-22 Torino-Hellas Verona,ITA-SERIA_A,19-20,a97c607e
+5cec2c74,Soualiho Meïté,23,FRA,"CM,RM",26-127,90,0,0,0,0,0,0,0,0,35,3,0,2,0.0,0.0,0.0,0,0,17,26,65.4,2,19,4,5,5,Torino,2020-07-22 Torino-Hellas Verona,ITA-SERIA_A,19-20,a97c607e
+bbafc0c4,Cristian Ansaldi,15,ARG,"WB,LB",33-306,90,0,1,0,0,0,0,0,0,54,1,1,1,0.0,0.0,0.1,3,1,33,48,68.8,0,29,2,2,0,Torino,2020-07-22 Torino-Hellas Verona,ITA-SERIA_A,19-20,a97c607e
+e74f0e59,Lorenzo De Silvestri,29,ITA,WB,32-060,13,0,0,0,0,0,0,0,0,1,0,1,0,0.0,0.0,0.0,0,0,1,1,100.0,0,2,0,0,0,Torino,2020-07-22 Torino-Hellas Verona,ITA-SERIA_A,19-20,a97c607e
+246d153b,Ola Aina,34,NGA,"WB,RB",23-288,77,0,0,0,0,0,0,0,0,40,3,1,1,0.0,0.0,0.0,1,0,23,31,74.2,2,12,0,0,0,Torino,2020-07-22 Torino-Hellas Verona,ITA-SERIA_A,19-20,a97c607e
+5fd5ed86,Gleison Bremer,36,BRA,CB,23-126,90,0,0,0,0,0,0,0,0,45,5,8,3,0.0,0.0,0.0,1,0,19,26,73.1,1,13,0,1,1,Torino,2020-07-22 Torino-Hellas Verona,ITA-SERIA_A,19-20,a97c607e
+93cf32a8,Nicolas Nkoulou,33,CMR,CB,30-117,90,0,0,0,0,0,0,1,0,64,2,6,2,0.0,0.0,0.0,2,0,38,47,80.9,2,15,0,0,0,Torino,2020-07-22 Torino-Hellas Verona,ITA-SERIA_A,19-20,a97c607e
+b5bf1770,Lyanco,4,BRA,CB,23-172,65,0,0,0,0,0,0,1,0,40,3,1,1,0.0,0.0,0.0,0,0,28,32,87.5,1,15,0,0,0,Torino,2020-07-22 Torino-Hellas Verona,ITA-SERIA_A,19-20,a97c607e
+dc1c2fce,Álex Berenguer,21,ESP,LM,25-018,25,0,0,0,0,0,0,0,0,15,0,1,0,0.0,0.0,0.3,4,1,12,12,100.0,2,9,2,2,2,Torino,2020-07-22 Torino-Hellas Verona,ITA-SERIA_A,19-20,a97c607e
+10dc46f0,Salvatore Sirigu,39,ITA,GK,33-192,90,0,0,0,0,0,0,0,0,52,0,0,0,0.0,0.0,0.0,0,0,33,51,64.7,0,27,0,0,0,Torino,2020-07-22 Torino-Hellas Verona,ITA-SERIA_A,19-20,a97c607e
+33ecf462,Valerio Verre,14,ITA,FW,26-193,50,0,0,0,0,2,2,0,0,27,0,0,1,0.2,0.2,0.0,0,0,13,18,72.2,2,24,0,1,0,Hellas Verona,2020-07-22 Torino-Hellas Verona,ITA-SERIA_A,19-20,a97c607e
+ae82fa48,Valentin Eysseric,8,FRA,FW,28-119,40,0,0,0,0,0,0,1,0,18,1,0,0,0.0,0.0,0.0,0,0,11,17,64.7,0,13,0,0,0,Hellas Verona,2020-07-22 Torino-Hellas Verona,ITA-SERIA_A,19-20,a97c607e
+ef5b337e,Fabio Borini,16,ITA,AM,29-115,78,1,0,1,1,4,2,0,0,36,0,0,0,1.0,0.2,0.1,4,2,16,22,72.7,3,33,4,5,2,Hellas Verona,2020-07-22 Torino-Hellas Verona,ITA-SERIA_A,19-20,a97c607e
+7b536033,Mariusz Stępiński,9,POL,AM,25-071,12,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,5,0,0,0,Hellas Verona,2020-07-22 Torino-Hellas Verona,ITA-SERIA_A,19-20,a97c607e
+0489bb30,Eddie Salcedo,29,ITA,AM,18-295,63,0,0,0,0,0,0,0,0,30,0,0,1,0.0,0.0,0.0,2,0,11,21,52.4,2,25,2,3,1,Hellas Verona,2020-07-22 Torino-Hellas Verona,ITA-SERIA_A,19-20,a97c607e
+d85c238b,Mattia Zaccagni,20,ITA,AM,25-036,27,0,0,0,0,0,0,0,0,14,0,0,0,0.0,0.0,0.0,0,0,7,12,58.3,0,9,2,4,4,Hellas Verona,2020-07-22 Torino-Hellas Verona,ITA-SERIA_A,19-20,a97c607e
+780e3631,Matteo Pessina,32,ITA,CM,23-092,90,0,0,0,0,1,0,0,0,96,2,1,1,0.1,0.1,0.0,3,0,75,87,86.2,16,69,3,1,1,Hellas Verona,2020-07-22 Torino-Hellas Verona,ITA-SERIA_A,19-20,a97c607e
+ab1ca213,Miguel Veloso,4,POR,CM,34-072,90,0,0,0,0,0,0,0,0,63,1,0,1,0.0,0.0,0.1,2,0,43,57,75.4,8,39,1,1,1,Hellas Verona,2020-07-22 Torino-Hellas Verona,ITA-SERIA_A,19-20,a97c607e
+5128bde4,Darko Lazović,88,SRB,WB,29-311,78,0,0,0,0,1,0,0,0,58,0,1,1,0.0,0.0,0.2,2,0,43,54,79.6,7,34,3,1,1,Hellas Verona,2020-07-22 Torino-Hellas Verona,ITA-SERIA_A,19-20,a97c607e
+970b8574,Federico Dimarco,23,ITA,WB,22-255,12,0,0,0,0,1,0,0,0,11,0,0,0,0.0,0.0,0.0,0,0,7,10,70.0,1,9,0,0,0,Hellas Verona,2020-07-22 Torino-Hellas Verona,ITA-SERIA_A,19-20,a97c607e
+aae9d04a,Davide Faraoni,5,ITA,WB,28-271,90,0,0,0,0,0,0,0,0,59,1,4,2,0.0,0.0,0.0,0,0,35,49,71.4,4,40,2,0,0,Hellas Verona,2020-07-22 Torino-Hellas Verona,ITA-SERIA_A,19-20,a97c607e
+825b8997,Alan Empereur,33,BRA,CB,26-134,90,0,0,0,0,0,0,1,0,61,0,3,0,0.0,0.0,0.0,0,0,44,51,86.3,4,33,0,0,0,Hellas Verona,2020-07-22 Torino-Hellas Verona,ITA-SERIA_A,19-20,a97c607e
+f1f1f238,Koray Günter,21,GER,CB,25-341,90,0,0,0,0,0,0,0,0,55,0,1,2,0.0,0.0,0.0,0,0,39,45,86.7,3,29,0,0,0,Hellas Verona,2020-07-22 Torino-Hellas Verona,ITA-SERIA_A,19-20,a97c607e
+4b3e1a38,Amir Rrahmani,13,KVX,CB,26-149,90,0,0,0,0,0,0,0,0,57,2,0,2,0.0,0.0,0.0,1,0,39,51,76.5,5,26,3,0,0,Hellas Verona,2020-07-22 Torino-Hellas Verona,ITA-SERIA_A,19-20,a97c607e
+0d422df7,Marco Silvestri,1,ITA,GK,29-142,90,0,0,0,0,0,0,0,0,37,0,0,0,0.0,0.0,0.0,1,0,14,33,42.4,0,21,0,0,0,Hellas Verona,2020-07-22 Torino-Hellas Verona,ITA-SERIA_A,19-20,a97c607e
