@@ -650,29 +650,31 @@ def player_season_compare():
     if st.button("Compare Players"):
         compare_players_and_create_radar(merged_df1, merged_df2, player1, player2, selected_params, param_mapping, lower_is_better_options)
 
-
-def main():
-    global folder_copied
-    folder_copied = False
+def copy_folder_once():
     fbrefdata_dir = os.getenv('FBREFDATA_DIR', os.path.expanduser('~/fbrefdata'))
     source_dir = os.path.join(os.getcwd(), 'fbrefdata')
     
     # Ensure the destination directory exists
     os.makedirs(fbrefdata_dir, exist_ok=True)
-    
-    # Copy the entire directory and replace files with the same name only if not already copied
-    if not folder_copied:
-        for item in os.listdir(source_dir):
-            source_item = os.path.join(source_dir, item)
-            dest_item = os.path.join(fbrefdata_dir, item)
-            
-            if os.path.isdir(source_item):
-                if os.path.exists(dest_item):
-                    shutil.rmtree(dest_item, ignore_errors=True)
-                shutil.copytree(source_item, dest_item, dirs_exist_ok=True)
-            else:
-                shutil.copy2(source_item, dest_item)
-        folder_copied = True
+
+    for item in os.listdir(source_dir):
+        source_item = os.path.join(source_dir, item)
+        dest_item = os.path.join(fbrefdata_dir, item)
+        
+        if os.path.isdir(source_item):
+            if os.path.exists(dest_item):
+                shutil.rmtree(dest_item, ignore_errors=True)
+            shutil.copytree(source_item, dest_item, dirs_exist_ok=True)
+        else:
+            shutil.copy2(source_item, dest_item)
+
+# Check if the folder has already been copied
+if 'folder_copied' not in st.session_state:
+    copy_folder_once()
+    st.session_state['folder_copied'] = True
+
+def main():
+
     
     st.title("Comparison Radar Chart")
     # 
