@@ -705,7 +705,15 @@ def check_and_copy_folder():
 # Initialize session state
 if 'folder_copied' not in st.session_state:
     check_and_copy_folder()
+# Function to load data
+def load_data():
+    # Simulate data loading
+    st.session_state['data_loaded'] = True
+    st.session_state['data'] = "Your data here"
 
+# Initialize session state for data loading
+if 'data_loaded' not in st.session_state:
+    load_data()
 def main():
 
     
