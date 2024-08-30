@@ -679,7 +679,7 @@ def main():
     # Load league dictionary
     
     # User selects the type of comparison
-    comparison_choice = st.radio("Choose comparison type", ('Player in Season', 'Player in Matches', 'Club in Season', 'Club in Matches'))
+    comparison_choice = st.radio("Choose comparison type", ('Player in Season', 'Player in Matches'))
 
     if comparison_choice == 'Player in Season':
         # Call the function for comparing players in matches
