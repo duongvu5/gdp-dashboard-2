@@ -668,10 +668,19 @@ def copy_folder_once():
         else:
             shutil.copy2(source_item, dest_item)
 
+def check_and_copy_folder():
+    flag_file = 'folder_copied.flag'
+    if not os.path.exists(flag_file):
+        copy_folder_once()
+        with open(flag_file, 'w') as f:
+            f.write('Folder copied')
+        st.session_state['folder_copied'] = True
+    else:
+        st.session_state['folder_copied'] = True
+
 # Check if the folder has already been copied
 if 'folder_copied' not in st.session_state:
-    copy_folder_once()
-    st.session_state['folder_copied'] = True
+    check_and_copy_folder()
 
 def main():
 
