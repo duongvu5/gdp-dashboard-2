@@ -650,16 +650,15 @@ def player_season_compare():
     if st.button("Compare Players"):
         compare_players_and_create_radar(merged_df1, merged_df2, player1, player2, selected_params, param_mapping, lower_is_better_options)
 
-def copy_folder_once():
-    fbrefdata_dir = os.getenv('FBREFDATA_DIR', os.path.expanduser('~/fbrefdata'))
-    source_dir = os.path.join(os.getcwd(), 'fbrefdata')
-    
+# Function to copy the folder
+def copy_folder(source_dir, dest_dir):
     # Ensure the destination directory exists
-    os.makedirs(fbrefdata_dir, exist_ok=True)
-
+    os.makedirs(dest_dir, exist_ok=True)
+    
+    # Copy the entire directory and replace files with the same name
     for item in os.listdir(source_dir):
         source_item = os.path.join(source_dir, item)
-        dest_item = os.path.join(fbrefdata_dir, item)
+        dest_item = os.path.join(dest_dir, item)
         
         if os.path.isdir(source_item):
             if os.path.exists(dest_item):
@@ -668,10 +667,43 @@ def copy_folder_once():
         else:
             shutil.copy2(source_item, dest_item)
 
+# Function to delete specific files
+def delete_specific_files(directory, pattern):
+    for item in os.listdir(directory):
+        if pattern in item:
+            file_path = os.path.join(directory, item)
+            if os.path.isfile(file_path):
+                os.remove(file_path)
+
+# Function to perform git operations
+def git_operations():
+    subprocess.run(['git', 'add', '.'])
+    subprocess.run(['git', 'commit', '-m', 'Auto commit from Streamlit app'])
+    subprocess.run(['git', 'push'])
+
 # Check if the folder has already been copied
+def check_and_copy_folder():
+    flag_file = 'folder_copied.flag'
+    fbrefdata_dir = os.getenv('FBREFDATA_DIR', os.path.expanduser('~/fbrefdata/data'))
+    source_dir = os.path.join(os.getcwd(), 'fbrefdata/data')
+    
+    if not os.path.exists(flag_file):
+        copy_folder(source_dir, fbrefdata_dir)
+        with open(flag_file, 'w') as f:
+            f.write('Folder copied')
+        st.session_state['folder_copied'] = True
+    else:
+        # Reverse copy after refresh
+        copy_folder(fbrefdata_dir, source_dir)
+        git_operations()
+        delete_specific_files(source_dir, 'teams')
+        delete_specific_files(fbrefdata_dir, 'teams')
+        os.remove(flag_file)
+        st.session_state['folder_copied'] = False
+
+# Initialize session state
 if 'folder_copied' not in st.session_state:
-    copy_folder_once()
-    st.session_state['folder_copied'] = True
+    check_and_copy_folder()
 
 def main():
 
