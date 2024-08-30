@@ -285,28 +285,24 @@ def get_player_match_values(merged_df, player_name, match_name, col):
     return player_values
 
 def player_match_compare():
-    if 'match_data_loaded' not in st.session_state:
-        with open('league_dict.json', 'r') as f:
-            league_dict = json.load(f)
-    
-        # Create a mapping from league names to keys
-        league_name_to_key = {v['FBref']: k for k, v in league_dict.items()}
-    
-        # User selects the league
-        league_options = list(league_name_to_key.keys())
-        selected_league_name = st.selectbox("Select the league", league_options)
-    
-        # Get the corresponding league key
-        selected_league_key = league_name_to_key[selected_league_name]
-    
-        # User selects the season
-        season = st.selectbox("Select the season", ['2024-2025', '2023-2024', '2022-2023', '2021-2022', '2020-2021', '2019-2020', '2018-2019', '2017-2018'])
-        fbref = initialize_fbref(selected_league_key, season)
-        stats_list, _, _ = get_stats_lists()
-        df_list = read_and_filter_stats_match_player(fbref)
-        st.session_state['match_data_loaded'] = True
-        st.session_state['merged_df'] = df_list[0]
-    
+    with open('league_dict.json', 'r') as f:
+        league_dict = json.load(f)
+
+    # Create a mapping from league names to keys
+    league_name_to_key = {v['FBref']: k for k, v in league_dict.items()}
+
+    # User selects the league
+    league_options = list(league_name_to_key.keys())
+    selected_league_name = st.selectbox("Select the league", league_options)
+
+    # Get the corresponding league key
+    selected_league_key = league_name_to_key[selected_league_name]
+
+    # User selects the season
+    season = st.selectbox("Select the season", ['2024-2025', '2023-2024', '2022-2023', '2021-2022', '2020-2021', '2019-2020', '2018-2019', '2017-2018'])
+    fbref = initialize_fbref(selected_league_key, season)
+    stats_list, _, _ = get_stats_lists()
+    df_list = read_and_filter_stats_match_player(fbref)
 
     param_mapping = {
         "Goals": ['Performance', 'Gls'],
@@ -336,7 +332,7 @@ def player_match_compare():
         "Successful Take-Ons": ['Take-Ons', 'Succ']
     }
 
-    merged_df = st.session_state['merged_df']
+    merged_df = df_list[0]
     # print(merged_df)
 
     # Get list of players
