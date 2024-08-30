@@ -364,6 +364,70 @@ def player_match_compare():
 
 
 
+# def player_season_compare():
+#     with open('league_dict.json', 'r') as f:
+#         league_dict = json.load(f)
+    
+#     # Create a mapping from league names to keys
+#     league_name_to_key = {v['FBref']: k for k, v in league_dict.items()}
+    
+#     # User selects the league
+#     league_options = list(league_name_to_key.keys())
+#     selected_league_name = st.selectbox("Select the league", league_options, key='season_league')
+    
+#     # Get the corresponding league key
+#     selected_league_key = league_name_to_key[selected_league_name]
+    
+#     # User selects the season
+#     season = st.selectbox("Select the season", ['2024-2025', '2023-2024', '2022-2023', '2021-2022', '2020-2021', '2019-2020', '2018-2019', '2017-2018'], key='season_season')
+
+#     if 'season_data_loaded' not in st.session_state or st.session_state['selected_league_name'] != selected_league_name or st.session_state['season'] != season:
+#         fbref = initialize_fbref(selected_league_key, season)
+
+#         # User selects the type of comparison
+#         comparison_type = st.radio("Choose comparison type", ('Outfielder', 'Goalkeeper'))
+
+#         if comparison_type == 'Outfielder':
+#             stats_list, _, _ = get_stats_lists()
+#             df_list1, df_list2 = read_and_filter_stats(fbref, stats_list)
+            
+#         else:
+#             stats_list, _, _ = get_stats_lists_gk()
+#             df_list1, df_list2 = read_and_filter_stats_gk(fbref, stats_list)
+            
+
+#         st.session_state['season_data_loaded'] = True
+#         st.session_state['merged_df1'], st.session_state['merged_df2'] = merge_dataframes(df_list1, df_list2)
+#         st.session_state['param_mapping'] = param_mapping
+#         st.session_state['selected_league_name'] = selected_league_name
+#         st.session_state['season'] = season
+#         st.session_state['comparison_type'] = comparison_type
+#     else:
+#         selected_league_name = st.session_state['selected_league_name']
+#         season = st.session_state['season']
+#         comparison_type = st.session_state['comparison_type']
+
+#     merged_df1 = st.session_state['merged_df1']
+#     merged_df2 = st.session_state['merged_df2']
+#     param_mapping = st.session_state['param_mapping']
+
+#     # Get list of players
+#     players = merged_df1['player'].unique().tolist()
+#     players.extend(merged_df2['player'].unique().tolist())
+#     players = list(set(players))  # Remove duplicates
+    
+#     player1 = st.selectbox("Select the first player", players)
+#     player2 = st.selectbox("Select the second player", players)
+    
+#     params = list(param_mapping.keys())
+#     selected_params = st.multiselect("Select parameters to compare (make sure to choose 3 or more parameters)", params, default=params[:5])
+    
+#     lower_is_better_options = st.multiselect("Select parameters where lower is better", params)
+    
+#     if st.button("Compare Players"):
+#         compare_players_and_create_radar(merged_df1, merged_df2, player1, player2, selected_params, param_mapping, lower_is_better_options)
+
+
 def player_season_compare():
     with open('league_dict.json', 'r') as f:
         league_dict = json.load(f)
@@ -381,11 +445,11 @@ def player_season_compare():
     # User selects the season
     season = st.selectbox("Select the season", ['2024-2025', '2023-2024', '2022-2023', '2021-2022', '2020-2021', '2019-2020', '2018-2019', '2017-2018'], key='season_season')
 
-    if 'season_data_loaded' not in st.session_state or st.session_state['selected_league_name'] != selected_league_name or st.session_state['season'] != season:
-        fbref = initialize_fbref(selected_league_key, season)
+    # User selects the type of comparison
+    comparison_type = st.radio("Choose comparison type", ('Outfielder', 'Goalkeeper'), key='comparison_type')
 
-        # User selects the type of comparison
-        comparison_type = st.radio("Choose comparison type", ('Outfielder', 'Goalkeeper'))
+    if 'season_data_loaded' not in st.session_state or st.session_state['selected_league_name'] != selected_league_name or st.session_state['season'] != season or st.session_state['comparison_type'] != comparison_type:
+        fbref = initialize_fbref(selected_league_key, season)
 
         if comparison_type == 'Outfielder':
             stats_list, _, _ = get_stats_lists()
@@ -673,55 +737,6 @@ def player_season_compare():
     
     if st.button("Compare Players"):
         compare_players_and_create_radar(merged_df1, merged_df2, player1, player2, selected_params, param_mapping, lower_is_better_options)
-
-
-# def player_season_compare():
-#     with open('league_dict.json', 'r') as f:
-#         league_dict = json.load(f)
-    
-#     # Create a mapping from league names to keys
-#     league_name_to_key = {v['FBref']: k for k, v in league_dict.items()}
-    
-#     # User selects the league
-#     league_options = list(league_name_to_key.keys())
-#     selected_league_name = st.selectbox("Select the league", league_options, key='season_league')
-    
-#     # Get the corresponding league key
-#     selected_league_key = league_name_to_key[selected_league_name]
-    
-#     # User selects the season
-#     season = st.selectbox("Select the season", ['2024-2025', '2023-2024', '2022-2023', '2021-2022', '2020-2021', '2019-2020', '2018-2019', '2017-2018'], key='season_season')
-
-#     if 'season_data_loaded' not in st.session_state or st.session_state['selected_league_name'] != selected_league_name or st.session_state['season'] != season:
-#         fbref = initialize_fbref(selected_league_key, season)
-
-#         # User selects the type of comparison
-#         comparison_type = st.radio("Choose comparison type", ('Outfielder', 'Goalkeeper'))
-
-#         if comparison_type == 'Outfielder':
-#             stats_list, _, _ = get_stats_lists()
-#             df_list1, df_list2 = read_and_filter_stats(fbref, stats_list)
-        
-#     else:
-#         stats_list, _, _ = get_stats_lists_gk()
-#         df_list1, df_list2 = read_and_filter_stats_gk(fbref, stats_list)
-        
-#     merged_df1, merged_df2 = merge_dataframes(df_list1, df_list2)
-#     # Get list of players
-#     players = merged_df1['player'].unique().tolist()
-#     players.extend(merged_df2['player'].unique().tolist())
-#     players = list(set(players))  # Remove duplicates
-    
-#     player1 = st.selectbox("Select the first player", players)
-#     player2 = st.selectbox("Select the second player", players)
-    
-#     params = list(param_mapping.keys())
-#     selected_params = st.multiselect("Select parameters to compare (make sure to choose 3 or more parameters)", params, default=params[:5])
-    
-#     lower_is_better_options = st.multiselect("Select parameters where lower is better", params)
-    
-#     if st.button("Compare Players"):
-#         compare_players_and_create_radar(merged_df1, merged_df2, player1, player2, selected_params, param_mapping, lower_is_better_options)
 
 # Function to copy the folder
 def copy_folder(source_dir, dest_dir):
