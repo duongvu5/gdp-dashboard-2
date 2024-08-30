@@ -1,0 +1,29 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+962e54cb,Gonçalo Paciência,39,POR,FW,25-127,90,0,0,0,0,2,0,1,0,24,0,0,1,0.1,0.1,0.1,1,0,11,13,84.6,1,14,0,2,2,Eintracht Frankfurt,2019-12-06 Eint Frankfurt-Hertha BSC,GER-BL1,19-20,d28dfa73
+3effaa34,André Silva,33,POR,FW,24-030,83,0,0,0,0,3,0,0,0,33,0,0,2,0.3,0.3,0.1,2,0,19,25,76.0,3,15,1,0,0,Eintracht Frankfurt,2019-12-06 Eint Frankfurt-Hertha BSC,GER-BL1,19-20,d28dfa73
+95a24690,Dejan Joveljić,7,SRB,FW,20-121,7,0,0,0,0,0,0,0,0,2,1,0,0,0.0,0.0,0.0,0,0,0,0,,0,1,0,0,0,Eintracht Frankfurt,2019-12-06 Eint Frankfurt-Hertha BSC,GER-BL1,19-20,d28dfa73
+15b287da,Daichi Kamada,15,JPN,AM,23-123,90,0,0,0,0,1,0,0,0,54,2,0,0,0.0,0.0,0.2,7,0,36,43,83.7,10,31,8,8,5,Eintracht Frankfurt,2019-12-06 Eint Frankfurt-Hertha BSC,GER-BL1,19-20,d28dfa73
+4c6facae,Djibril Sow,8,SUI,CM,22-303,90,0,0,0,0,2,0,0,0,64,0,1,0,0.1,0.1,0.1,2,0,43,51,84.3,7,39,1,0,0,Eintracht Frankfurt,2019-12-06 Eint Frankfurt-Hertha BSC,GER-BL1,19-20,d28dfa73
+8e58987d,Gelson Fernandes,5,SUI,CM,33-095,61,0,0,0,0,0,0,0,0,25,2,0,2,0.0,0.0,0.0,0,0,17,21,81.0,3,13,0,0,0,Eintracht Frankfurt,2019-12-06 Eint Frankfurt-Hertha BSC,GER-BL1,19-20,d28dfa73
+e12b0b5b,Sebastian Rode,17,GER,CM,29-056,29,1,0,0,0,3,1,0,0,28,0,0,0,0.2,0.2,0.0,2,0,19,23,82.6,4,13,1,2,2,Eintracht Frankfurt,2019-12-06 Eint Frankfurt-Hertha BSC,GER-BL1,19-20,d28dfa73
+b1cd37e6,Filip Kostić,10,SRB,WB,27-035,90,0,0,0,0,3,1,0,0,92,2,0,0,0.1,0.1,0.5,8,0,44,84,52.4,5,41,9,6,5,Eintracht Frankfurt,2019-12-06 Eint Frankfurt-Hertha BSC,GER-BL1,19-20,d28dfa73
+5ddb8f9f,Danny da Costa,24,GER,WB,26-146,90,0,0,0,0,1,1,0,0,49,1,0,0,0.0,0.0,0.0,3,0,28,44,63.6,2,25,3,3,2,Eintracht Frankfurt,2019-12-06 Eint Frankfurt-Hertha BSC,GER-BL1,19-20,d28dfa73
+080440a4,Martin Hinteregger,13,AUT,CB,27-090,90,1,1,0,0,4,2,0,0,92,2,0,1,0.4,0.4,0.1,4,1,51,77,66.2,8,39,3,3,1,Eintracht Frankfurt,2019-12-06 Eint Frankfurt-Hertha BSC,GER-BL1,19-20,d28dfa73
+9ab16552,Makoto Hasebe,20,JPN,CB,35-322,90,0,0,0,0,0,0,1,0,82,0,2,1,0.0,0.0,0.1,4,0,74,79,93.7,11,49,8,0,0,Eintracht Frankfurt,2019-12-06 Eint Frankfurt-Hertha BSC,GER-BL1,19-20,d28dfa73
+c8c60119,Almamy Touré,18,MLI,CB,23-222,90,0,1,0,0,6,1,1,0,85,2,3,2,1.1,1.1,0.4,7,1,45,64,70.3,10,41,4,2,1,Eintracht Frankfurt,2019-12-06 Eint Frankfurt-Hertha BSC,GER-BL1,19-20,d28dfa73
+a70b8345,Frederik Rønnow,32,DEN,GK,27-124,90,0,0,0,0,0,0,0,0,29,0,0,0,0.0,0.0,0.0,0,0,20,27,74.1,0,13,0,0,0,Eintracht Frankfurt,2019-12-06 Eint Frankfurt-Hertha BSC,GER-BL1,19-20,d28dfa73
+0c61c77c,Dodi Lukebakio,28,BEL,FW,22-073,79,1,0,0,0,2,1,0,0,30,0,1,2,0.4,0.4,0.0,0,0,11,13,84.6,1,13,2,3,1,Hertha BSC,2019-12-06 Eint Frankfurt-Hertha BSC,GER-BL1,19-20,d28dfa73
+fa661778,Marius Wolf,30,GER,RW,24-193,11,0,0,0,0,0,0,0,0,13,0,0,1,0.0,0.0,0.0,0,0,2,6,33.3,1,7,1,2,1,Hertha BSC,2019-12-06 Eint Frankfurt-Hertha BSC,GER-BL1,19-20,d28dfa73
+1238a3f9,Davie Selke,27,GER,FW,24-320,90,0,0,0,0,1,0,1,0,39,0,0,1,0.1,0.1,0.0,1,0,16,26,61.5,1,11,0,1,1,Hertha BSC,2019-12-06 Eint Frankfurt-Hertha BSC,GER-BL1,19-20,d28dfa73
+79ca3e23,Ondrej Duda,10,SVK,AM,25-001,48,0,0,0,0,1,1,1,0,30,1,0,0,0.0,0.0,0.0,0,0,14,21,66.7,1,12,0,1,1,Hertha BSC,2019-12-06 Eint Frankfurt-Hertha BSC,GER-BL1,19-20,d28dfa73
+70678132,Eduard Löwen,7,GER,CM,22-312,42,0,0,0,0,0,0,0,0,15,3,1,0,0.0,0.0,0.0,0,0,7,10,70.0,1,2,0,0,0,Hertha BSC,2019-12-06 Eint Frankfurt-Hertha BSC,GER-BL1,19-20,d28dfa73
+3eb0f2df,Vladimír Darida,6,CZE,CM,29-120,90,0,0,0,0,2,0,0,0,48,1,4,0,0.1,0.1,0.0,1,0,21,36,58.3,3,24,0,1,0,Hertha BSC,2019-12-06 Eint Frankfurt-Hertha BSC,GER-BL1,19-20,d28dfa73
+8b8e759d,Marko Grujić,15,SRB,CM,23-237,90,1,1,0,0,2,1,0,0,60,2,1,4,0.8,0.8,0.3,2,1,28,39,71.8,1,24,0,2,2,Hertha BSC,2019-12-06 Eint Frankfurt-Hertha BSC,GER-BL1,19-20,d28dfa73
+f7aa75bd,Marvin Plattenhardt,21,GER,"WB,LB",27-314,90,0,0,0,0,0,0,0,0,28,1,0,0,0.0,0.0,0.1,4,1,19,24,79.2,2,13,2,0,0,Hertha BSC,2019-12-06 Eint Frankfurt-Hertha BSC,GER-BL1,19-20,d28dfa73
+92948149,Lukas Klünter,13,GER,"WB,RB",23-194,90,0,0,0,0,0,0,0,0,52,4,0,2,0.0,0.0,0.1,2,0,19,40,47.5,2,14,2,2,2,Hertha BSC,2019-12-06 Eint Frankfurt-Hertha BSC,GER-BL1,19-20,d28dfa73
+3376a776,Karim Rekik,4,NED,CB,25-004,90,0,0,0,0,1,0,0,0,32,0,1,0,0.0,0.0,0.0,2,1,22,24,91.7,3,19,1,2,1,Hertha BSC,2019-12-06 Eint Frankfurt-Hertha BSC,GER-BL1,19-20,d28dfa73
+7c473e12,Dedryck Boyata,20,BEL,CB,29-008,90,0,1,0,0,0,0,0,0,37,1,4,2,0.0,0.0,0.7,1,1,13,18,72.2,0,9,0,0,0,Hertha BSC,2019-12-06 Eint Frankfurt-Hertha BSC,GER-BL1,19-20,d28dfa73
+aad48be9,Niklas Stark,5,GER,CB,24-236,78,0,0,0,0,0,0,1,0,32,2,0,2,0.0,0.0,0.0,0,0,6,17,35.3,0,7,0,0,0,Hertha BSC,2019-12-06 Eint Frankfurt-Hertha BSC,GER-BL1,19-20,d28dfa73
+88d4144a,Maximilian Mittelstädt,17,GER,"LW,CB",22-263,12,0,0,0,0,0,0,0,0,9,1,1,1,0.0,0.0,0.0,0,0,3,4,75.0,0,4,0,2,2,Hertha BSC,2019-12-06 Eint Frankfurt-Hertha BSC,GER-BL1,19-20,d28dfa73
+bb25c778,Thomas Kraft,1,GER,GK,31-137,90,0,0,0,0,0,0,1,0,46,0,0,0,0.0,0.0,0.0,0,0,23,42,54.8,0,18,0,0,0,Hertha BSC,2019-12-06 Eint Frankfurt-Hertha BSC,GER-BL1,19-20,d28dfa73

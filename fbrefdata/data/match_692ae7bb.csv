@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+09538fdb,Kevin Lasagna,15,ITA,FW,25-255,90,1,0,0,0,5,3,0,0,28,1,0,1,0.4,0.4,0.1,4,0,15,20,75.0,3,18,2,1,1,Udinese,2018-04-22 Udinese-Crotone,ITA-SERIA_A,17-18,692ae7bb
+ad469944,Maxi López,20,ARG,FW,34-019,61,0,1,0,0,0,0,0,0,20,0,0,0,0.0,0.0,0.1,2,1,8,17,47.1,4,17,0,0,0,Udinese,2018-04-22 Udinese-Crotone,ITA-SERIA_A,17-18,692ae7bb
+1ea5f91c,Jakub Jankto,14,CZE,FW,22-093,29,0,0,0,0,1,0,1,0,12,0,0,0,0.1,0.1,0.0,1,0,7,10,70.0,4,13,1,0,0,Udinese,2018-04-22 Udinese-Crotone,ITA-SERIA_A,17-18,692ae7bb
+01efac19,Antonín Barák,72,CZE,CM,23-140,90,0,0,0,0,1,0,0,0,41,2,1,0,0.1,0.1,0.1,3,0,21,31,67.7,4,27,2,0,0,Udinese,2018-04-22 Udinese-Crotone,ITA-SERIA_A,17-18,692ae7bb
+d3d758d8,Valon Behrami,85,SUI,CM,33-003,70,0,0,0,0,0,0,1,0,29,4,0,2,0.0,0.0,0.0,2,1,14,19,73.7,2,12,0,1,1,Udinese,2018-04-22 Udinese-Crotone,ITA-SERIA_A,17-18,692ae7bb
+9be4ee80,Andrija Balić,99,CRO,CM,20-254,20,0,0,0,0,1,0,0,0,19,0,0,0,0.0,0.0,0.0,1,0,13,16,81.3,3,10,0,1,1,Udinese,2018-04-22 Udinese-Crotone,ITA-SERIA_A,17-18,692ae7bb
+5313ed43,Seko Fofana,6,CIV,CM,22-350,90,0,0,0,0,6,3,0,0,54,2,1,1,0.2,0.2,0.2,5,0,27,36,75.0,7,42,5,8,4,Udinese,2018-04-22 Udinese-Crotone,ITA-SERIA_A,17-18,692ae7bb
+06050480,Ali Adnan Kadhim,53,IRQ,WB,24-124,90,0,0,0,0,0,0,0,0,64,3,0,3,0.0,0.0,0.1,4,0,29,54,53.7,4,25,2,3,2,Udinese,2018-04-22 Udinese-Crotone,ITA-SERIA_A,17-18,692ae7bb
+f68b64fc,Silvan Widmer,27,SUI,WB,25-048,52,0,0,0,0,0,0,0,0,23,1,0,0,0.0,0.0,0.0,0,0,11,20,55.0,4,11,4,1,1,Udinese,2018-04-22 Udinese-Crotone,ITA-SERIA_A,17-18,692ae7bb
+8e45910b,Francesco Zampano,11,ITA,WB,24-204,38,0,0,0,0,0,0,0,0,21,1,0,0,0.0,0.0,0.0,1,0,12,19,63.2,2,14,2,1,1,Udinese,2018-04-22 Udinese-Crotone,ITA-SERIA_A,17-18,692ae7bb
+92b4758e,Samir Santos,3,BRA,CB,23-138,90,0,0,0,0,0,0,0,0,54,1,6,2,0.0,0.0,0.0,0,0,30,43,69.8,2,19,1,0,0,Udinese,2018-04-22 Udinese-Crotone,ITA-SERIA_A,17-18,692ae7bb
+fed5f993,Danilo Larangeira,5,BRA,CB,33-347,90,0,0,0,0,1,0,0,0,66,1,1,2,0.0,0.0,0.0,3,0,32,56,57.1,0,22,1,0,0,Udinese,2018-04-22 Udinese-Crotone,ITA-SERIA_A,17-18,692ae7bb
+f91e81c9,Jens Stryger Larsen,19,DEN,CB,27-060,90,0,0,0,0,0,0,0,0,50,1,2,3,0.0,0.0,0.1,1,0,30,38,78.9,4,19,0,2,0,Udinese,2018-04-22 Udinese-Crotone,ITA-SERIA_A,17-18,692ae7bb
+32b9b5fa,Albano Bizzarri,1,ARG,GK,40-164,90,0,0,0,0,0,0,0,0,29,0,0,0,0.0,0.0,0.0,1,0,14,29,48.3,0,12,0,0,0,Udinese,2018-04-22 Udinese-Crotone,ITA-SERIA_A,17-18,692ae7bb
+80dbbd10,Simeon Nwankwo,99,NGA,FW,25-350,90,1,0,0,0,4,1,0,0,29,0,0,0,0.5,0.5,0.0,4,1,11,23,47.8,2,19,0,0,0,Crotone,2018-04-22 Udinese-Crotone,ITA-SERIA_A,17-18,692ae7bb
+65c75ea8,Andrea Nalini,9,ITA,LW,27-306,64,0,1,0,0,1,0,0,0,25,0,0,0,0.0,0.0,0.1,2,1,11,18,61.1,1,19,1,1,1,Crotone,2018-04-22 Udinese-Crotone,ITA-SERIA_A,17-18,692ae7bb
+524eb8c5,Federico Ricci,11,ITA,LW,23-330,26,0,0,0,0,0,0,0,0,17,0,0,0,0.0,0.0,0.0,1,0,9,14,64.3,0,14,0,1,0,Crotone,2018-04-22 Udinese-Crotone,ITA-SERIA_A,17-18,692ae7bb
+acdad0aa,Marcello Trotta,29,ITA,RW,25-205,72,0,0,0,0,3,0,0,0,24,1,0,2,0.1,0.1,0.0,4,0,12,14,85.7,1,18,1,3,2,Crotone,2018-04-22 Udinese-Crotone,ITA-SERIA_A,17-18,692ae7bb
+cda2ec29,Mario Sampirisi,69,ITA,RW,25-173,18,0,0,0,0,0,0,0,0,9,0,1,1,0.0,0.0,0.0,0,0,3,5,60.0,0,0,0,0,0,Crotone,2018-04-22 Udinese-Crotone,ITA-SERIA_A,17-18,692ae7bb
+b5b27493,Marcus Rohdén,6,SWE,LM,26-346,90,0,0,0,0,0,0,0,0,40,1,1,1,0.0,0.0,0.0,0,0,17,29,58.6,3,20,2,5,4,Crotone,2018-04-22 Udinese-Crotone,ITA-SERIA_A,17-18,692ae7bb
+c7259b83,Rolando Mandragora,38,ITA,CM,20-297,90,0,0,0,0,1,0,0,0,64,3,3,1,0.0,0.0,0.0,1,1,38,54,70.4,3,24,0,0,0,Crotone,2018-04-22 Udinese-Crotone,ITA-SERIA_A,17-18,692ae7bb
+32ebfe1e,Andrea Barberis,18,ITA,RM,24-132,90,0,0,0,0,1,0,0,0,40,6,1,0,0.0,0.0,0.4,1,0,23,32,71.9,4,18,0,0,0,Crotone,2018-04-22 Udinese-Crotone,ITA-SERIA_A,17-18,692ae7bb
+1e12c53b,Bruno Martella,87,ITA,LB,25-251,90,0,0,0,0,0,0,0,0,82,3,0,0,0.0,0.0,0.0,1,0,48,73,65.8,8,52,2,1,1,Crotone,2018-04-22 Udinese-Crotone,ITA-SERIA_A,17-18,692ae7bb
+616aea37,Marco Capuano,23,ITA,CB,26-190,90,0,0,0,0,0,0,0,0,48,1,4,0,0.0,0.0,0.0,0,0,28,36,77.8,2,17,0,0,0,Crotone,2018-04-22 Udinese-Crotone,ITA-SERIA_A,17-18,692ae7bb
+d9624b51,Federico Ceccherini,7,ITA,CB,25-346,90,0,0,0,0,0,0,0,0,46,1,0,2,0.0,0.0,0.0,0,0,19,28,67.9,0,18,0,1,1,Crotone,2018-04-22 Udinese-Crotone,ITA-SERIA_A,17-18,692ae7bb
+aae9d04a,Davide Faraoni,37,ITA,RB,26-179,89,1,0,0,0,1,1,0,0,67,0,0,1,0.3,0.3,0.0,4,0,40,56,71.4,6,35,0,0,0,Crotone,2018-04-22 Udinese-Crotone,ITA-SERIA_A,17-18,692ae7bb
+f9714604,Arlind Ajeti,93,ALB,RB,24-209,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Crotone,2018-04-22 Udinese-Crotone,ITA-SERIA_A,17-18,692ae7bb
+e66ebabb,Alex Cordaz,1,ITA,GK,35-111,90,0,0,0,0,0,0,0,0,52,0,0,0,0.0,0.0,0.0,1,0,24,49,49.0,0,23,0,0,0,Crotone,2018-04-22 Udinese-Crotone,ITA-SERIA_A,17-18,692ae7bb

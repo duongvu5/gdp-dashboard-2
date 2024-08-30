@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+8d78e732,Robert Lewandowski,9,POL,FW,31-031,70,2,0,0,0,4,2,0,0,33,1,0,0,0.9,0.9,0.0,2,0,17,23,73.9,1,20,0,2,2,Bayern Munich,2019-09-21 Bayern Munich-Köln,GER-BL1,19-20,31dd96bf
+3c6089ab,Thomas Müller,25,GER,FW,30-008,20,0,0,0,0,3,0,0,0,16,0,1,0,0.1,0.1,0.0,0,0,6,11,54.5,2,6,0,0,0,Bayern Munich,2019-09-21 Bayern Munich-Köln,GER-BL1,19-20,31dd96bf
+6fe90922,Ivan Perišić,14,CRO,LW,30-231,90,1,0,0,0,4,1,0,0,58,4,1,0,0.3,0.3,0.1,6,0,32,47,68.1,3,33,5,4,3,Bayern Munich,2019-09-21 Bayern Munich-Köln,GER-BL1,19-20,31dd96bf
+88e357ef,Serge Gnabry,22,GER,RW,24-069,90,0,0,0,0,4,0,0,0,48,0,1,1,0.2,0.2,0.0,3,0,25,33,75.8,3,35,5,6,2,Bayern Munich,2019-09-21 Bayern Munich-Köln,GER-BL1,19-20,31dd96bf
+0ef89a37,Philippe Coutinho,10,BRA,AM,27-101,90,1,1,1,1,4,0,0,0,69,1,1,1,1.0,0.2,0.7,9,2,45,54,83.3,10,44,6,2,1,Bayern Munich,2019-09-21 Bayern Munich-Köln,GER-BL1,19-20,31dd96bf
+652d4c37,Corentin Tolisso,24,FRA,DM,25-049,90,0,0,0,0,1,1,0,0,93,0,1,1,0.0,0.0,0.1,9,3,81,89,91.0,11,57,2,0,0,Bayern Munich,2019-09-21 Bayern Munich-Köln,GER-BL1,19-20,31dd96bf
+49296448,Joshua Kimmich,32,GER,DM,24-225,70,0,2,0,0,1,0,0,0,59,1,0,1,0.0,0.0,0.6,4,2,39,49,79.6,3,32,1,0,0,Bayern Munich,2019-09-21 Bayern Munich-Köln,GER-BL1,19-20,31dd96bf
+5722eced,Mickaël Cuisance,11,FRA,DM,20-036,20,0,0,0,0,1,0,1,0,17,0,0,0,0.0,0.0,0.0,1,0,10,12,83.3,0,11,0,4,2,Bayern Munich,2019-09-21 Bayern Munich-Köln,GER-BL1,19-20,31dd96bf
+c3ee18ef,Lucas Hernández,21,FRA,LB,23-219,90,0,0,0,0,0,0,1,0,67,1,1,1,0.0,0.0,0.0,1,0,45,56,80.4,5,34,1,1,1,Bayern Munich,2019-09-21 Bayern Munich-Köln,GER-BL1,19-20,31dd96bf
+2db2fd7b,Jérôme Boateng,17,GER,CB,31-018,58,0,0,0,0,1,0,1,0,61,1,1,0,0.0,0.0,0.0,1,1,52,56,92.9,1,43,0,0,0,Bayern Munich,2019-09-21 Bayern Munich-Köln,GER-BL1,19-20,31dd96bf
+7f97771d,Javi Martínez,8,ESP,CB,31-019,32,0,0,0,0,0,0,1,0,17,0,2,1,0.0,0.0,0.0,1,0,10,12,83.3,0,6,0,0,0,Bayern Munich,2019-09-21 Bayern Munich-Köln,GER-BL1,19-20,31dd96bf
+e33c06cf,Niklas Süle,4,GER,CB,24-018,90,0,0,0,0,0,0,0,0,72,0,1,3,0.0,0.0,0.0,2,0,55,60,91.7,6,44,2,0,0,Bayern Munich,2019-09-21 Bayern Munich-Köln,GER-BL1,19-20,31dd96bf
+45a03961,Benjamin Pavard,5,FRA,RB,23-177,90,0,0,0,0,1,0,0,0,61,0,1,0,0.0,0.0,0.0,2,0,48,52,92.3,0,34,0,0,0,Bayern Munich,2019-09-21 Bayern Munich-Köln,GER-BL1,19-20,31dd96bf
+8778c910,Manuel Neuer,1,GER,GK,33-178,90,0,0,0,0,0,0,0,0,38,0,0,0,0.0,0.0,0.0,1,0,32,35,91.4,0,13,0,0,0,Bayern Munich,2019-09-21 Bayern Munich-Köln,GER-BL1,19-20,31dd96bf
+9f381d8b,Jhon Córdoba,15,COL,FW,26-133,71,0,0,0,0,4,0,0,0,20,0,0,1,0.3,0.3,0.1,3,0,11,11,100.0,0,13,2,1,1,Köln,2019-09-21 Bayern Munich-Köln,GER-BL1,19-20,31dd96bf
+863ff1ee,Simon Terodde,9,GER,FW,31-203,19,0,0,0,0,2,0,0,0,8,0,0,0,0.6,0.6,0.0,1,0,4,5,80.0,0,5,0,0,0,Köln,2019-09-21 Bayern Munich-Köln,GER-BL1,19-20,31dd96bf
+94c18565,Florian Kainz,30,AUT,LW,26-332,63,0,0,0,0,4,1,0,0,42,0,1,0,0.1,0.1,0.0,1,0,22,34,64.7,3,31,2,0,0,Köln,2019-09-21 Bayern Munich-Köln,GER-BL1,19-20,31dd96bf
+9f979eb2,Jorge Meré,22,ESP,CB,22-157,27,0,0,0,0,0,0,0,0,13,0,1,1,0.0,0.0,0.0,0,0,4,7,57.1,0,5,0,0,0,Köln,2019-09-21 Bayern Munich-Köln,GER-BL1,19-20,31dd96bf
+bd527260,Kingsley Schindler,11,GHA,"RW,RB",26-071,90,0,0,0,0,0,0,0,0,43,0,2,0,0.0,0.0,0.1,1,0,19,31,61.3,1,20,2,1,1,Köln,2019-09-21 Bayern Munich-Köln,GER-BL1,19-20,31dd96bf
+809940aa,Dominick Drexler,24,GER,"AM,LW,RW",29-118,90,0,0,0,0,0,0,0,0,52,0,1,2,0.0,0.0,0.0,5,0,31,43,72.1,7,26,2,2,1,Köln,2019-09-21 Bayern Munich-Köln,GER-BL1,19-20,31dd96bf
+4114f306,Marco Höger,6,GER,DM,30-005,78,0,0,0,0,0,0,0,0,57,1,1,3,0.0,0.0,0.1,3,0,39,48,81.3,6,26,0,1,1,Köln,2019-09-21 Bayern Munich-Köln,GER-BL1,19-20,31dd96bf
+3489184e,Matthias Bader,35,GER,RB,22-096,12,0,0,0,0,0,0,0,0,10,1,0,0,0.0,0.0,0.0,0,0,6,8,75.0,0,6,0,0,0,Köln,2019-09-21 Bayern Munich-Köln,GER-BL1,19-20,31dd96bf
+c2211709,Ellyes Skhiri,28,TUN,DM,24-134,90,0,0,0,0,2,0,0,0,56,2,2,0,0.1,0.1,0.1,3,0,36,41,87.8,8,25,2,1,1,Köln,2019-09-21 Bayern Munich-Köln,GER-BL1,19-20,31dd96bf
+c2009df3,Jonas Hector,14,GER,LB,29-117,90,0,0,0,0,1,0,0,0,61,2,1,2,0.1,0.1,0.1,3,0,41,53,77.4,2,33,1,1,0,Köln,2019-09-21 Bayern Munich-Köln,GER-BL1,19-20,31dd96bf
+b0a0698b,Rafael Czichos,5,GER,CB,29-130,90,0,0,0,0,1,1,0,0,39,3,0,2,0.1,0.1,0.0,2,0,24,27,88.9,1,16,2,1,1,Köln,2019-09-21 Bayern Munich-Köln,GER-BL1,19-20,31dd96bf
+01834aa0,Sebastiaan Bornauw,33,BEL,"CB,RB,DM",20-183,90,0,0,0,0,0,0,0,0,36,1,2,2,0.0,0.0,0.0,1,0,25,30,83.3,3,22,0,1,1,Köln,2019-09-21 Bayern Munich-Köln,GER-BL1,19-20,31dd96bf
+76b2817e,Kingsley Ehizibue,19,NED,RB,24-119,58,0,0,0,0,0,0,0,1,38,1,0,0,0.0,0.0,0.0,0,0,14,26,53.8,0,17,2,4,2,Köln,2019-09-21 Bayern Munich-Köln,GER-BL1,19-20,31dd96bf
+3cd9e95a,Timo Horn,1,GER,GK,26-132,90,0,0,0,0,0,0,0,0,37,0,1,0,0.0,0.0,0.0,0,0,24,32,75.0,0,14,0,0,0,Köln,2019-09-21 Bayern Munich-Köln,GER-BL1,19-20,31dd96bf

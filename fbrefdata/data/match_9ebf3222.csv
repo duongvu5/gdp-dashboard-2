@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+ea0ff634,Valère Germain,9,FRA,FW,31-197,59,0,0,0,0,1,0,0,0,13,1,0,0,0.0,0.0,0.0,1,0,8,11,72.7,0,4,0,0,0,Montpellier,2021-10-31 Montpellier-Nantes,FRA-L1,21-22,9ebf3222
+0d7b6576,Elye Wahi,21,FRA,"FW,LW",18-302,31,1,0,0,0,1,1,0,0,15,2,0,1,0.3,0.3,0.1,3,0,5,7,71.4,1,7,0,2,0,Montpellier,2021-10-31 Montpellier-Nantes,FRA-L1,21-22,9ebf3222
+30144daa,Stephy Mavididi,10,ENG,"LW,FW",23-153,90,0,0,0,0,3,1,0,0,39,1,0,1,0.2,0.2,0.0,3,0,17,21,81.0,4,26,2,2,2,Montpellier,2021-10-31 Montpellier-Nantes,FRA-L1,21-22,9ebf3222
+7e82a78f,Florent Mollet,25,FRA,RW,29-346,78,1,0,0,0,2,1,0,0,43,1,0,0,0.2,0.2,0.1,4,1,29,36,80.6,9,25,0,1,1,Montpellier,2021-10-31 Montpellier-Nantes,FRA-L1,21-22,9ebf3222
+79ab7593,Nicholas Gioacchini,23,USA,RW,21-098,12,0,0,0,0,0,0,0,0,3,0,1,0,0.0,0.0,0.0,1,0,1,1,100.0,0,2,0,0,0,Montpellier,2021-10-31 Montpellier-Nantes,FRA-L1,21-22,9ebf3222
+6bde367b,Téji Savanier,11,FRA,AM,29-313,90,0,0,0,0,7,5,1,0,82,4,2,1,0.4,0.4,0.1,3,1,34,53,64.2,8,44,1,6,3,Montpellier,2021-10-31 Montpellier-Nantes,FRA-L1,21-22,9ebf3222
+7909ffa4,Joris Chotard,13,FRA,DM,20-037,90,0,0,0,0,0,0,0,0,41,3,1,1,0.0,0.0,0.1,1,0,29,33,87.9,8,22,1,1,1,Montpellier,2021-10-31 Montpellier-Nantes,FRA-L1,21-22,9ebf3222
+375622c5,Jordan Ferri,12,FRA,DM,29-233,90,0,1,0,0,1,1,1,0,65,5,0,0,0.0,0.0,0.3,7,1,43,55,78.2,13,37,3,4,2,Montpellier,2021-10-31 Montpellier-Nantes,FRA-L1,21-22,9ebf3222
+ea0aa7e0,Mihailo Ristić,7,SRB,LB,26-000,90,0,0,0,0,2,0,0,0,61,4,2,1,0.0,0.0,0.0,3,0,38,45,84.4,2,27,1,3,1,Montpellier,2021-10-31 Montpellier-Nantes,FRA-L1,21-22,9ebf3222
+87935cf3,Mamadou Sakho,3,FRA,CB,31-260,90,0,0,0,0,0,0,1,0,54,1,1,1,0.0,0.0,0.0,1,0,35,43,81.4,4,27,1,0,0,Montpellier,2021-10-31 Montpellier-Nantes,FRA-L1,21-22,9ebf3222
+1a066e69,Maxime Estève,14,FRA,CB,19-158,90,0,0,0,0,0,0,0,0,32,0,0,2,0.0,0.0,0.0,2,0,26,29,89.7,2,21,2,0,0,Montpellier,2021-10-31 Montpellier-Nantes,FRA-L1,21-22,9ebf3222
+4e0afc5d,Arnaud Souquet,2,FRA,RB,29-261,78,0,0,0,0,0,0,0,0,42,0,3,0,0.0,0.0,0.0,1,0,23,36,63.9,2,13,1,0,0,Montpellier,2021-10-31 Montpellier-Nantes,FRA-L1,21-22,9ebf3222
+24eb7ed6,Junior Sambia,6,FRA,RB,25-054,12,0,0,0,0,2,1,0,0,12,0,1,1,0.0,0.0,0.0,0,0,5,7,71.4,1,4,0,1,1,Montpellier,2021-10-31 Montpellier-Nantes,FRA-L1,21-22,9ebf3222
+c631f952,Jonas Omlin,1,SUI,GK,27-294,90,0,0,0,0,0,0,0,0,43,0,0,0,0.0,0.0,0.0,0,0,27,42,64.3,0,15,0,0,0,Montpellier,2021-10-31 Montpellier-Nantes,FRA-L1,21-22,9ebf3222
+c0b3669f,Randal Kolo Muani,23,FRA,FW,22-330,90,0,0,0,0,1,1,0,0,27,1,1,1,0.3,0.3,0.0,1,0,6,10,60.0,0,14,1,5,0,Nantes,2021-10-31 Montpellier-Nantes,FRA-L1,21-22,9ebf3222
+5f3eaaf5,Moses Simon,27,NGA,LW,26-111,90,0,0,0,0,1,0,0,0,41,1,0,1,0.2,0.2,0.2,8,0,17,30,56.7,4,22,5,5,3,Nantes,2021-10-31 Montpellier-Nantes,FRA-L1,21-22,9ebf3222
+3010aefb,Marcus Coco,11,FRA,RW,25-129,67,0,0,0,0,0,0,0,0,37,5,2,0,0.0,0.0,0.1,1,0,12,18,66.7,1,22,1,2,0,Nantes,2021-10-31 Montpellier-Nantes,FRA-L1,21-22,9ebf3222
+5c9ac7f0,Renaud Emond,28,BEL,RW,29-330,23,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,2,4,50.0,1,6,0,0,0,Nantes,2021-10-31 Montpellier-Nantes,FRA-L1,21-22,9ebf3222
+60f58477,Roli Pereira de Sa,6,FRA,AM,24-325,67,0,0,0,0,3,0,0,0,25,2,0,0,0.2,0.2,0.2,4,0,15,18,83.3,1,12,1,0,0,Nantes,2021-10-31 Montpellier-Nantes,FRA-L1,21-22,9ebf3222
+9980269a,Kalifa Coulibaly,7,MLI,AM,30-071,23,0,0,0,0,1,0,0,0,11,0,0,0,0.1,0.1,0.0,1,0,6,8,75.0,0,6,0,0,0,Nantes,2021-10-31 Montpellier-Nantes,FRA-L1,21-22,9ebf3222
+68a26d51,Pedro Chirivella,5,ESP,DM,24-161,76,0,0,0,0,2,0,0,0,29,3,0,1,0.1,0.1,0.0,1,0,17,23,73.9,3,18,1,0,0,Nantes,2021-10-31 Montpellier-Nantes,FRA-L1,21-22,9ebf3222
+af0c835b,Samuel Moutoussamy,18,COD,DM,25-080,14,0,0,0,0,0,0,0,0,9,3,0,0,0.0,0.0,0.0,0,0,4,6,66.7,1,3,0,0,0,Nantes,2021-10-31 Montpellier-Nantes,FRA-L1,21-22,9ebf3222
+3befc2b6,Andrei Girotto,3,BRA,DM,29-256,90,0,0,0,0,4,0,1,0,52,2,2,3,0.1,0.1,0.3,3,0,30,39,76.9,3,17,0,2,0,Nantes,2021-10-31 Montpellier-Nantes,FRA-L1,21-22,9ebf3222
+de488e56,Charles Traore,14,MLI,LB,29-303,90,0,0,0,0,0,0,1,0,51,4,1,2,0.0,0.0,0.0,0,0,23,38,60.5,1,13,1,0,0,Nantes,2021-10-31 Montpellier-Nantes,FRA-L1,21-22,9ebf3222
+779847d6,Nicolas Pallois,4,FRA,CB,34-042,90,0,0,0,0,0,0,1,0,39,0,1,1,0.0,0.0,0.0,0,0,17,26,65.4,4,18,1,0,0,Nantes,2021-10-31 Montpellier-Nantes,FRA-L1,21-22,9ebf3222
+e0f3a1f6,Jean-Charles Castelletto,21,CMR,CB,26-278,90,0,0,0,0,0,0,1,0,33,1,0,0,0.0,0.0,0.0,0,0,23,29,79.3,2,10,0,0,0,Nantes,2021-10-31 Montpellier-Nantes,FRA-L1,21-22,9ebf3222
+feb5d3ab,Dennis Appiah,12,FRA,RB,29-144,90,0,0,0,0,0,0,1,0,43,4,2,0,0.0,0.0,0.1,1,0,21,32,65.6,2,13,2,0,0,Nantes,2021-10-31 Montpellier-Nantes,FRA-L1,21-22,9ebf3222
+4e7db402,Alban Lafont,1,FRA,GK,22-281,90,0,0,0,0,0,0,0,0,38,0,0,0,0.0,0.0,0.0,0,0,20,33,60.6,0,19,0,0,0,Nantes,2021-10-31 Montpellier-Nantes,FRA-L1,21-22,9ebf3222

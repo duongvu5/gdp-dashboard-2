@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+ba115a40,Sébastien Haller,9,CIV,FW,28-304,76,0,0,0,0,1,0,0,0,29,0,0,0,0.1,0.1,0.1,4,1,15,26,57.7,5,11,0,1,0,Dortmund,2023-04-22 Dortmund-Eint Frankfurt,GER-BL1,22-23,6711d41f
+6ce43701,Youssoufa Moukoko,18,GER,FW,18-153,14,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.1,1,0,2,2,100.0,0,2,0,0,0,Dortmund,2023-04-22 Dortmund-Eint Frankfurt,GER-BL1,22-23,6711d41f
+501055d8,Karim Adeyemi,27,GER,LW,21-094,90,0,2,0,0,3,1,1,0,44,1,0,1,0.1,0.1,0.5,5,4,23,31,74.2,5,33,6,10,5,Dortmund,2023-04-22 Dortmund-Eint Frankfurt,GER-BL1,22-23,6711d41f
+116c35df,Donyell Malen,21,NED,RW,24-103,90,2,0,0,0,4,3,0,0,44,1,0,0,0.4,0.4,0.0,3,0,21,33,63.6,4,39,5,8,5,Dortmund,2023-04-22 Dortmund-Eint Frankfurt,GER-BL1,22-23,6711d41f
+a167537f,Julian Brandt,19,GER,LM,26-355,69,0,1,0,0,0,0,0,0,39,1,0,3,0.0,0.0,0.2,3,1,23,30,76.7,5,29,0,6,3,Dortmund,2023-04-22 Dortmund-Eint Frankfurt,GER-BL1,22-23,6711d41f
+36a3ff67,Marco Reus,11,GER,LM,33-326,21,0,0,0,0,1,0,0,0,16,0,1,1,0.1,0.1,0.0,1,0,10,12,83.3,3,12,0,1,0,Dortmund,2023-04-22 Dortmund-Eint Frankfurt,GER-BL1,22-23,6711d41f
+a65ce836,Emre Can,23,GER,CM,29-100,90,0,0,0,0,0,0,0,0,55,2,3,0,0.0,0.0,0.0,0,0,37,39,94.9,3,30,0,0,0,Dortmund,2023-04-22 Dortmund-Eint Frankfurt,GER-BL1,22-23,6711d41f
+57d88cf9,Jude Bellingham,22,ENG,RM,19-297,76,1,0,0,0,3,2,1,0,51,3,1,2,0.4,0.4,0.1,3,1,33,38,86.8,4,30,0,3,2,Dortmund,2023-04-22 Dortmund-Eint Frankfurt,GER-BL1,22-23,6711d41f
+15413fa5,Salih Özcan,6,TUR,RM,25-101,14,0,0,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.0,0,0,10,10,100.0,0,9,0,0,0,Dortmund,2023-04-22 Dortmund-Eint Frankfurt,GER-BL1,22-23,6711d41f
+048a1cbc,Raphaël Guerreiro,13,POR,LB,29-121,69,0,1,0,0,0,0,0,0,68,2,2,1,0.0,0.0,0.1,2,1,47,62,75.8,6,42,1,1,1,Dortmund,2023-04-22 Dortmund-Eint Frankfurt,GER-BL1,22-23,6711d41f
+fa661778,Marius Wolf,17,GER,RB,27-330,21,0,0,0,0,1,0,0,0,19,0,0,0,0.0,0.0,0.0,1,0,13,16,81.3,2,14,0,1,1,Dortmund,2023-04-22 Dortmund-Eint Frankfurt,GER-BL1,22-23,6711d41f
+34e12499,Nico Schlotterbeck,4,GER,CB,23-142,24,0,0,0,0,0,0,0,0,27,2,1,0,0.0,0.0,0.0,0,0,20,23,87.0,3,23,0,1,0,Dortmund,2023-04-22 Dortmund-Eint Frankfurt,GER-BL1,22-23,6711d41f
+e33c06cf,Niklas Süle,25,GER,CB,27-231,66,0,0,0,0,0,0,0,0,57,0,0,2,0.0,0.0,0.0,0,0,52,55,94.5,1,45,0,0,0,Dortmund,2023-04-22 Dortmund-Eint Frankfurt,GER-BL1,22-23,6711d41f
+05d548d8,Mats Hummels,15,GER,CB,34-127,90,1,0,0,0,1,1,0,0,89,2,2,3,0.1,0.1,0.0,1,0,64,78,82.1,4,63,1,1,1,Dortmund,2023-04-22 Dortmund-Eint Frankfurt,GER-BL1,22-23,6711d41f
+009a4f60,Julian Ryerson,26,NOR,"RB,LB",25-156,90,0,0,0,0,0,0,0,0,72,4,1,1,0.0,0.0,0.0,1,0,51,60,85.0,1,45,2,3,0,Dortmund,2023-04-22 Dortmund-Eint Frankfurt,GER-BL1,22-23,6711d41f
+cd59b9df,Gregor Kobel,1,SUI,GK,25-137,90,0,0,0,0,0,0,0,0,36,0,0,0,0.0,0.0,0.0,0,0,28,34,82.4,0,24,0,1,1,Dortmund,2023-04-22 Dortmund-Eint Frankfurt,GER-BL1,22-23,6711d41f
+c0b3669f,Randal Kolo Muani,9,FRA,FW,24-138,69,0,0,0,0,1,0,1,0,26,1,1,0,0.0,0.0,0.0,2,0,9,16,56.3,0,9,1,3,0,Eintracht Frankfurt,2023-04-22 Dortmund-Eint Frankfurt,GER-BL1,22-23,6711d41f
+4cd41883,Paxten Aaronson,30,USA,FW,19-239,21,0,0,0,0,0,0,0,0,13,2,0,0,0.0,0.0,0.0,0,0,8,9,88.9,0,7,0,2,2,Eintracht Frankfurt,2023-04-22 Dortmund-Eint Frankfurt,GER-BL1,22-23,6711d41f
+9efa1d25,Mario Götze,27,GER,AM,30-323,90,0,0,0,0,3,0,0,0,54,2,0,2,0.2,0.2,0.0,0,0,28,41,68.3,5,24,1,1,0,Eintracht Frankfurt,2023-04-22 Dortmund-Eint Frankfurt,GER-BL1,22-23,6711d41f
+95bb6ddc,Junior Dina Ebimbe,26,FRA,"AM,WB",22-152,83,0,0,0,0,1,1,0,0,46,2,0,4,0.1,0.1,0.0,0,0,27,35,77.1,2,15,0,1,0,Eintracht Frankfurt,2023-04-22 Dortmund-Eint Frankfurt,GER-BL1,22-23,6711d41f
+00f518d8,Faride Alidou,11,GER,WB,21-278,7,0,0,0,0,0,0,0,0,8,1,0,1,0.0,0.0,0.0,0,0,5,6,83.3,1,3,0,0,0,Eintracht Frankfurt,2023-04-22 Dortmund-Eint Frankfurt,GER-BL1,22-23,6711d41f
+4c6facae,Djibril Sow,8,SUI,CM,26-075,90,0,0,0,0,0,0,0,0,48,1,0,1,0.0,0.0,0.0,2,0,36,42,85.7,7,23,2,0,0,Eintracht Frankfurt,2023-04-22 Dortmund-Eint Frankfurt,GER-BL1,22-23,6711d41f
+e12b0b5b,Sebastian Rode,17,GER,CM,32-193,51,0,0,0,0,0,0,1,0,25,1,1,3,0.0,0.0,0.0,2,0,17,19,89.5,5,6,1,1,0,Eintracht Frankfurt,2023-04-22 Dortmund-Eint Frankfurt,GER-BL1,22-23,6711d41f
+c68da769,Rafael Borré,19,COL,AM,27-219,39,0,0,0,0,0,0,0,0,7,1,0,0,0.0,0.0,0.0,0,0,5,5,100.0,1,2,0,1,0,Eintracht Frankfurt,2023-04-22 Dortmund-Eint Frankfurt,GER-BL1,22-23,6711d41f
+19a967ab,Ansgar Knauff,36,GER,WB,21-102,45,0,0,0,0,1,0,0,0,38,5,1,0,0.0,0.0,0.2,3,0,16,30,53.3,1,17,0,3,3,Eintracht Frankfurt,2023-04-22 Dortmund-Eint Frankfurt,GER-BL1,22-23,6711d41f
+15b287da,Daichi Kamada,15,JPN,"CM,AM",26-260,45,0,0,0,0,1,0,0,0,33,3,0,3,0.1,0.1,0.0,2,0,22,25,88.0,3,13,0,2,1,Eintracht Frankfurt,2023-04-22 Dortmund-Eint Frankfurt,GER-BL1,22-23,6711d41f
+b4705807,Aurélio Buta,24,POR,WB,26-071,90,0,0,0,0,1,1,0,0,57,3,1,1,0.1,0.1,0.1,2,0,37,46,80.4,3,23,1,1,0,Eintracht Frankfurt,2023-04-22 Dortmund-Eint Frankfurt,GER-BL1,22-23,6711d41f
+bbd86530,Christopher Lenz,25,GER,CB,28-212,90,0,0,0,0,0,0,1,0,65,2,1,2,0.0,0.0,0.1,2,0,46,58,79.3,8,38,0,0,0,Eintracht Frankfurt,2023-04-22 Dortmund-Eint Frankfurt,GER-BL1,22-23,6711d41f
+9ab16552,Makoto Hasebe,20,JPN,CB,39-094,69,0,0,0,0,0,0,0,0,41,0,3,0,0.0,0.0,0.0,0,0,27,31,87.1,2,10,0,0,0,Eintracht Frankfurt,2023-04-22 Dortmund-Eint Frankfurt,GER-BL1,22-23,6711d41f
+277be51d,Dario Gebuhr,46,GER,CB,19-351,21,0,0,0,0,0,0,0,0,13,0,0,0,0.0,0.0,0.0,0,0,10,13,76.9,0,6,0,0,0,Eintracht Frankfurt,2023-04-22 Dortmund-Eint Frankfurt,GER-BL1,22-23,6711d41f
+35d64857,Tuta,35,BRA,CB,23-292,90,0,0,0,0,1,0,0,0,80,6,5,2,0.0,0.0,0.0,1,0,49,59,83.1,2,34,0,2,2,Eintracht Frankfurt,2023-04-22 Dortmund-Eint Frankfurt,GER-BL1,22-23,6711d41f
+ce17b5eb,Kevin Trapp,1,GER,GK,32-288,90,0,0,0,0,0,0,0,0,26,0,0,0,0.0,0.0,0.0,0,0,16,22,72.7,0,10,0,0,0,Eintracht Frankfurt,2023-04-22 Dortmund-Eint Frankfurt,GER-BL1,22-23,6711d41f

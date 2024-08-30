@@ -1,0 +1,32 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+bf4c41f9,Arnaud Kalimuendo,9,FRA,FW,22-043,81,0,0,0,0,4,2,0,0,17,1,0,1,0.3,0.3,0.0,0,0,7,10,70.0,0,11,1,1,0,Rennes,2024-03-03 Rennes-Lorient,FRA-L1,23-24,a3ae2f49
+7410d325,Bertuğ Yıldırım,99,TUR,FW,21-235,9,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,1,0,0,0,Rennes,2024-03-03 Rennes-Lorient,FRA-L1,23-24,a3ae2f49
+9e7483ff,Désiré Doué,33,FRA,LW,18-274,81,0,0,0,0,4,2,0,0,61,4,1,0,0.1,0.1,0.2,5,0,35,45,77.8,7,47,8,9,6,Rennes,2024-03-03 Rennes-Lorient,FRA-L1,23-24,a3ae2f49
+cad3fd4d,Ibrahim Salah,34,MAR,LW,22-186,9,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,6,7,85.7,1,7,0,2,1,Rennes,2024-03-03 Rennes-Lorient,FRA-L1,23-24,a3ae2f49
+6191093d,Ludovic Blas,11,FRA,"RW,DM",26-063,90,0,0,0,0,3,0,1,0,62,4,0,0,0.1,0.1,0.1,2,0,35,44,79.5,5,46,8,6,3,Rennes,2024-03-03 Rennes-Lorient,FRA-L1,23-24,a3ae2f49
+5148dcc5,Martin Terrier,7,FRA,AM,26-365,90,0,0,0,0,3,0,0,0,27,0,0,0,0.2,0.2,0.3,4,0,17,19,89.5,1,20,1,0,0,Rennes,2024-03-03 Rennes-Lorient,FRA-L1,23-24,a3ae2f49
+20e73fac,Benjamin Bourigeaud,14,FRA,DM,30-049,90,0,1,0,0,3,0,0,0,84,0,0,2,0.3,0.3,0.3,7,1,57,74,77.0,12,59,2,1,0,Rennes,2024-03-03 Rennes-Lorient,FRA-L1,23-24,a3ae2f49
+5e22e2a4,Baptiste Santamaria,8,FRA,DM,28-360,66,0,0,0,0,2,0,0,0,51,1,0,0,0.1,0.1,0.0,3,0,44,47,93.6,10,42,2,1,1,Rennes,2024-03-03 Rennes-Lorient,FRA-L1,23-24,a3ae2f49
+aad56ca3,Amine Gouiri,10,ALG,"RW,DM",24-016,24,1,0,0,0,2,2,0,0,11,0,0,0,0.1,0.1,0.0,2,1,7,8,87.5,2,9,4,1,1,Rennes,2024-03-03 Rennes-Lorient,FRA-L1,23-24,a3ae2f49
+5d0e0a1f,Adrien Truffert,3,FRA,LB,22-104,90,0,0,0,0,0,0,0,0,69,0,0,1,0.0,0.0,0.0,2,0,51,62,82.3,5,49,2,0,0,Rennes,2024-03-03 Rennes-Lorient,FRA-L1,23-24,a3ae2f49
+df8d6029,Arthur Theate,5,BEL,CB,23-283,90,0,0,0,0,0,0,0,0,81,0,2,0,0.0,0.0,0.1,5,0,70,78,89.7,16,65,4,0,0,Rennes,2024-03-03 Rennes-Lorient,FRA-L1,23-24,a3ae2f49
+4534a352,Warmed Omari,23,FRA,CB,23-315,81,0,0,0,0,0,0,0,0,67,1,0,1,0.0,0.0,0.0,2,0,54,61,88.5,9,51,1,0,0,Rennes,2024-03-03 Rennes-Lorient,FRA-L1,23-24,a3ae2f49
+b003239d,Christopher Wooh,4,CMR,CB,22-167,9,0,0,0,0,1,0,0,0,10,0,0,0,0.0,0.0,0.0,0,0,8,9,88.9,0,5,0,0,0,Rennes,2024-03-03 Rennes-Lorient,FRA-L1,23-24,a3ae2f49
+cea59f02,Alidu Seidu,36,GHA,RB,23-273,71,0,0,0,0,0,0,0,0,71,3,3,3,0.0,0.0,0.0,3,0,53,60,88.3,7,41,3,0,0,Rennes,2024-03-03 Rennes-Lorient,FRA-L1,23-24,a3ae2f49
+b4ef3fb5,Guela Doué,17,CIV,RB,21-138,19,0,0,0,0,0,0,0,0,17,0,0,1,0.0,0.0,0.0,1,0,7,15,46.7,0,9,1,0,0,Rennes,2024-03-03 Rennes-Lorient,FRA-L1,23-24,a3ae2f49
+1d2d5cc8,Steve Mandanda,30,FRA,GK,38-341,90,0,0,0,0,0,0,0,0,20,0,0,0,0.0,0.0,0.0,0,0,16,16,100.0,0,9,0,0,0,Rennes,2024-03-03 Rennes-Lorient,FRA-L1,23-24,a3ae2f49
+d469252b,Mohamed Bamba,9,CIV,FW,22-084,81,1,0,0,0,3,2,0,0,17,0,0,0,1.1,1.1,0.0,1,0,6,8,75.0,0,12,0,3,1,Lorient,2024-03-03 Rennes-Lorient,FRA-L1,23-24,a3ae2f49
+b2fe86e5,Eli Junior Kroupi,22,FRA,FW,17-254,9,1,0,0,0,1,1,0,0,9,0,0,0,0.5,0.5,0.0,0,0,5,6,83.3,0,6,0,0,0,Lorient,2024-03-03 Rennes-Lorient,FRA-L1,23-24,a3ae2f49
+e546b2e3,Julien Ponceau,21,FRA,AM,23-096,90,0,0,0,0,2,1,0,0,55,2,0,0,0.1,0.1,0.2,3,1,31,39,79.5,3,37,3,3,1,Lorient,2024-03-03 Rennes-Lorient,FRA-L1,23-24,a3ae2f49
+0e8d7b6c,Ayman Kari,44,FRA,AM,19-105,81,0,0,0,0,0,0,0,0,36,2,0,1,0.0,0.0,0.0,4,0,27,29,93.1,4,33,2,2,2,Lorient,2024-03-03 Rennes-Lorient,FRA-L1,23-24,a3ae2f49
+9c4f39b3,Tosin Aiyegun,27,BEN,AM,25-251,9,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,6,7,85.7,1,5,0,0,0,Lorient,2024-03-03 Rennes-Lorient,FRA-L1,23-24,a3ae2f49
+59bf127b,Tiemoué Bakayoko,14,FRA,CM,29-199,90,0,0,0,0,1,0,0,0,52,2,5,1,0.1,0.1,0.0,1,0,34,39,87.2,1,35,0,0,0,Lorient,2024-03-03 Rennes-Lorient,FRA-L1,23-24,a3ae2f49
+31626657,Laurent Abergel,19,FRA,CM,31-031,90,0,0,0,0,2,1,1,0,45,2,2,1,0.1,0.1,0.3,2,1,26,34,76.5,5,27,0,0,0,Lorient,2024-03-03 Rennes-Lorient,FRA-L1,23-24,a3ae2f49
+afe39ca8,Théo Le Bris,37,FRA,WB,21-154,90,0,0,0,0,1,0,0,0,41,3,1,1,0.0,0.0,0.0,1,0,26,31,83.9,2,27,2,3,2,Lorient,2024-03-03 Rennes-Lorient,FRA-L1,23-24,a3ae2f49
+c1597cf7,Panos Katseris,7,GRE,WB,22-242,81,0,0,0,0,1,1,0,0,34,3,1,1,0.0,0.0,0.1,2,0,15,24,62.5,1,24,3,1,1,Lorient,2024-03-03 Rennes-Lorient,FRA-L1,23-24,a3ae2f49
+dd211559,Gedeon Kalulu,24,COD,WB,26-187,9,0,1,0,0,0,0,0,0,7,1,0,1,0.0,0.0,0.5,1,1,2,3,66.7,0,4,0,0,0,Lorient,2024-03-03 Rennes-Lorient,FRA-L1,23-24,a3ae2f49
+01fd01e8,Souleymane Touré,95,FRA,CB,20-341,90,0,0,0,0,0,0,1,0,79,0,2,2,0.0,0.0,0.0,0,0,61,68,89.7,1,60,0,0,0,Lorient,2024-03-03 Rennes-Lorient,FRA-L1,23-24,a3ae2f49
+f066022d,Julien Laporte,15,FRA,CB,30-120,90,0,0,0,0,0,0,0,0,69,0,0,2,0.0,0.0,0.0,1,0,52,59,88.1,1,54,0,1,1,Lorient,2024-03-03 Rennes-Lorient,FRA-L1,23-24,a3ae2f49
+c55de1f5,Nathaniel Adjei,32,GHA,CB,21-195,90,0,0,0,0,1,0,0,0,46,1,0,0,0.1,0.1,0.0,0,0,29,37,78.4,0,33,2,3,3,Lorient,2024-03-03 Rennes-Lorient,FRA-L1,23-24,a3ae2f49
+dc29b608,Yvon Mvogo,38,SUI,GK,29-271,90,0,0,0,0,0,0,0,0,56,0,0,0,0.0,0.0,0.0,0,0,41,55,74.5,0,39,0,0,0,Lorient,2024-03-03 Rennes-Lorient,FRA-L1,23-24,a3ae2f49

@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+6190474d,Jeong Woo-yeong,29,KOR,FW,21-139,69,1,0,0,0,2,2,0,0,38,0,1,1,0.1,0.1,0.0,1,0,23,29,79.3,3,23,2,2,1,Freiburg,2021-02-06 Freiburg-Dortmund,GER-BL1,20-21,3e4cb54e
+70dcf94d,Janik Haberer,19,GER,"LM,FW",26-310,21,0,0,0,0,0,0,0,0,8,1,0,0,0.0,0.0,0.0,0,0,1,5,20.0,0,4,1,0,0,Freiburg,2021-02-06 Freiburg-Dortmund,GER-BL1,20-21,3e4cb54e
+ed79b7d3,Ermedin Demirović,11,BIH,FW,22-318,69,0,0,0,0,1,0,0,0,11,0,0,0,0.0,0.0,0.0,0,0,2,6,33.3,1,8,1,0,0,Freiburg,2021-02-06 Freiburg-Dortmund,GER-BL1,20-21,3e4cb54e
+f93e6e94,Nils Petersen,18,GER,FW,32-062,21,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,3,5,60.0,1,1,0,0,0,Freiburg,2021-02-06 Freiburg-Dortmund,GER-BL1,20-21,3e4cb54e
+54e4866f,Vincenzo Grifo,32,ITA,AM,27-305,76,0,1,0,0,2,0,0,0,49,3,5,0,0.1,0.1,0.1,4,2,26,35,74.3,6,31,4,3,2,Freiburg,2021-02-06 Freiburg-Dortmund,GER-BL1,20-21,3e4cb54e
+25ab9c9c,Manuel Gulde,5,GER,CB,29-360,14,0,0,0,0,0,0,0,0,6,0,1,0,0.0,0.0,0.0,0,0,1,2,50.0,0,1,0,0,0,Freiburg,2021-02-06 Freiburg-Dortmund,GER-BL1,20-21,3e4cb54e
+ca618d23,Lucas Höler,9,GER,"AM,RM",26-211,85,0,0,0,0,0,0,0,0,38,2,1,2,0.0,0.0,0.0,0,0,16,21,76.2,1,16,1,3,1,Freiburg,2021-02-06 Freiburg-Dortmund,GER-BL1,20-21,3e4cb54e
+d2c580ce,Yannik Keitel,36,GER,RM,20-357,5,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Freiburg,2021-02-06 Freiburg-Dortmund,GER-BL1,20-21,3e4cb54e
+5d8e331f,Nicolas Höfler,27,GER,"DM,CM",30-334,90,0,0,0,0,0,0,0,0,47,1,1,1,0.0,0.0,0.0,2,1,27,35,77.1,4,27,0,1,1,Freiburg,2021-02-06 Freiburg-Dortmund,GER-BL1,20-21,3e4cb54e
+5e22e2a4,Baptiste Santamaria,8,FRA,"DM,CM",25-334,90,0,0,0,0,0,0,0,0,48,0,4,4,0.0,0.0,0.0,2,0,27,34,79.4,4,20,2,2,2,Freiburg,2021-02-06 Freiburg-Dortmund,GER-BL1,20-21,3e4cb54e
+8593f88c,Christian Günter,30,GER,LB,27-344,90,0,0,0,0,0,0,0,0,33,1,0,2,0.0,0.0,0.0,0,0,22,29,75.9,3,11,2,0,0,Freiburg,2021-02-06 Freiburg-Dortmund,GER-BL1,20-21,3e4cb54e
+f6bdc830,Keven Schlotterbeck,31,GER,CB,23-284,90,0,0,0,0,0,0,0,0,55,0,0,4,0.0,0.0,0.0,1,0,33,43,76.7,2,26,0,1,1,Freiburg,2021-02-06 Freiburg-Dortmund,GER-BL1,20-21,3e4cb54e
+302527b2,Philipp Lienhart,3,AUT,CB,24-210,90,0,0,0,0,0,0,0,0,40,0,1,1,0.0,0.0,0.0,0,0,28,36,77.8,1,27,0,0,0,Freiburg,2021-02-06 Freiburg-Dortmund,GER-BL1,20-21,3e4cb54e
+088ca1bd,Jonathan Schmid,7,FRA,RB,30-229,85,1,0,0,0,1,1,0,0,45,2,1,2,0.0,0.0,0.0,0,0,22,31,71.0,0,9,1,0,0,Freiburg,2021-02-06 Freiburg-Dortmund,GER-BL1,20-21,3e4cb54e
+2a29eb9b,Lukas Kübler,17,GER,RB,28-160,5,0,0,0,0,0,0,0,0,1,0,0,1,0.0,0.0,0.0,0,0,0,0,,0,1,0,0,0,Freiburg,2021-02-06 Freiburg-Dortmund,GER-BL1,20-21,3e4cb54e
+cbac6ec9,Florian Müller,21,GER,GK,23-085,90,0,0,0,0,0,0,0,0,47,0,0,0,0.0,0.0,0.0,0,0,27,44,61.4,0,25,0,0,0,Freiburg,2021-02-06 Freiburg-Dortmund,GER-BL1,20-21,3e4cb54e
+1f44ac21,Erling Haaland,9,NOR,FW,20-200,90,0,1,0,0,2,2,0,0,25,1,0,1,0.7,0.7,0.2,2,1,12,20,60.0,2,9,0,0,0,Dortmund,2021-02-06 Freiburg-Dortmund,GER-BL1,20-21,3e4cb54e
+dbf053da,Jadon Sancho,7,ENG,"LM,LW",20-318,90,0,0,0,0,3,1,0,0,85,0,1,1,0.2,0.2,0.1,6,0,55,73,75.3,6,48,5,4,2,Dortmund,2021-02-06 Freiburg-Dortmund,GER-BL1,20-21,3e4cb54e
+a167537f,Julian Brandt,19,GER,CM,24-280,45,0,0,0,0,1,1,0,0,23,0,0,0,0.0,0.0,0.0,2,0,16,20,80.0,3,14,1,0,0,Dortmund,2021-02-06 Freiburg-Dortmund,GER-BL1,20-21,3e4cb54e
+57d88cf9,Jude Bellingham,22,ENG,"DM,CM",17-222,45,0,0,0,0,0,0,1,0,30,1,1,0,0.0,0.0,0.0,2,1,17,22,77.3,2,21,1,2,2,Dortmund,2021-02-06 Freiburg-Dortmund,GER-BL1,20-21,3e4cb54e
+36a3ff67,Marco Reus,11,GER,CM,31-251,59,0,0,0,0,0,0,0,0,34,0,2,0,0.0,0.0,0.0,1,0,22,28,78.6,2,19,3,2,1,Dortmund,2021-02-06 Freiburg-Dortmund,GER-BL1,20-21,3e4cb54e
+6ce43701,Youssoufa Moukoko,18,GER,AM,16-078,31,1,0,0,0,4,2,0,0,12,0,0,0,0.3,0.3,0.0,0,0,2,5,40.0,0,7,0,0,0,Dortmund,2021-02-06 Freiburg-Dortmund,GER-BL1,20-21,3e4cb54e
+7fa4e703,Gio Reyna,32,USA,"RM,RW",18-085,69,0,0,0,0,0,0,0,0,33,0,0,0,0.0,0.0,0.1,4,0,22,30,73.3,4,21,2,4,3,Dortmund,2021-02-06 Freiburg-Dortmund,GER-BL1,20-21,3e4cb54e
+6b21b7b5,Reinier,20,BRA,RW,19-018,21,0,0,0,0,0,0,0,0,12,1,0,0,0.0,0.0,0.0,0,0,9,10,90.0,1,8,1,0,0,Dortmund,2021-02-06 Freiburg-Dortmund,GER-BL1,20-21,3e4cb54e
+fe641c1a,Thomas Delaney,6,DEN,DM,29-156,59,0,0,0,0,0,0,0,0,41,1,1,0,0.0,0.0,0.0,0,0,33,34,97.1,5,19,0,0,0,Dortmund,2021-02-06 Freiburg-Dortmund,GER-BL1,20-21,3e4cb54e
+db4ed67b,Mahmoud Dahoud,8,GER,DM,25-036,31,0,0,0,0,2,0,0,0,31,1,0,0,0.1,0.1,0.0,1,0,26,28,92.9,3,20,1,0,0,Dortmund,2021-02-06 Freiburg-Dortmund,GER-BL1,20-21,3e4cb54e
+048a1cbc,Raphaël Guerreiro,13,POR,LB,27-046,90,0,0,0,0,0,0,0,0,99,0,0,1,0.0,0.0,0.1,5,0,79,88,89.8,10,56,0,1,0,Dortmund,2021-02-06 Freiburg-Dortmund,GER-BL1,20-21,3e4cb54e
+89ac64a6,Manuel Akanji,16,SUI,CB,25-202,90,0,0,0,0,2,0,1,0,121,2,1,1,0.1,0.1,0.0,1,0,105,112,93.8,8,81,3,0,0,Dortmund,2021-02-06 Freiburg-Dortmund,GER-BL1,20-21,3e4cb54e
+05d548d8,Mats Hummels,15,GER,CB,32-052,90,0,0,0,0,0,0,0,0,128,2,2,1,0.0,0.0,0.0,2,0,103,118,87.3,1,76,1,0,0,Dortmund,2021-02-06 Freiburg-Dortmund,GER-BL1,20-21,3e4cb54e
+a65ce836,Emre Can,23,GER,RB,27-025,90,0,0,0,0,2,0,0,0,107,0,3,1,0.1,0.1,0.0,2,0,83,97,85.6,8,60,5,2,1,Dortmund,2021-02-06 Freiburg-Dortmund,GER-BL1,20-21,3e4cb54e
+2e7ff968,Marwin Hitz,35,SUI,GK,33-141,90,0,0,0,0,0,0,0,0,49,0,0,0,0.0,0.0,0.0,0,0,46,49,93.9,0,27,0,0,0,Dortmund,2021-02-06 Freiburg-Dortmund,GER-BL1,20-21,3e4cb54e

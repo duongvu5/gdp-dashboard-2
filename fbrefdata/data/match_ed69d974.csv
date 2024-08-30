@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+aa51343f,Kevin Mirallas,11,BEL,FW,31-072,74,1,0,0,0,2,2,0,0,42,0,0,0,0.1,0.1,0.2,8,1,27,37,73.0,3,25,3,1,0,Fiorentina,2018-12-16 Fiorentina-Empoli,ITA-SERIA_A,18-19,ed69d974
+ae82fa48,Valentin Eysseric,7,FRA,FW,26-266,16,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.1,1,0,6,7,85.7,1,7,1,0,0,Fiorentina,2018-12-16 Fiorentina-Empoli,ITA-SERIA_A,18-19,ed69d974
+343c0d52,Giovanni Simeone,9,ARG,FW,23-164,90,1,1,0,0,3,1,0,0,20,3,0,0,0.5,0.5,0.1,3,1,7,12,58.3,2,10,1,0,0,Fiorentina,2018-12-16 Fiorentina-Empoli,ITA-SERIA_A,18-19,ed69d974
+0000acda,Marco Benassi,24,ITA,AM,24-099,90,0,0,0,0,2,0,1,0,46,1,1,0,0.1,0.1,0.3,5,1,26,36,72.2,5,24,1,0,0,Fiorentina,2018-12-16 Fiorentina-Empoli,ITA-SERIA_A,18-19,ed69d974
+8827bf46,Gerson,8,BRA,CM,21-210,90,0,0,0,0,2,0,1,0,71,1,2,1,0.1,0.1,0.0,7,1,53,62,85.5,9,41,7,1,1,Fiorentina,2018-12-16 Fiorentina-Empoli,ITA-SERIA_A,18-19,ed69d974
+df0a4c90,Christian Nørgaard,6,DEN,CM,24-281,74,0,0,0,0,0,0,0,0,52,2,3,1,0.0,0.0,0.1,1,0,39,44,88.6,3,29,2,0,0,Fiorentina,2018-12-16 Fiorentina-Empoli,ITA-SERIA_A,18-19,ed69d974
+c53083ad,Bryan Dabo,14,BFA,CM,26-301,16,1,0,0,0,1,1,0,0,17,0,0,0,0.0,0.0,0.0,0,0,10,15,66.7,1,9,1,0,0,Fiorentina,2018-12-16 Fiorentina-Empoli,ITA-SERIA_A,18-19,ed69d974
+9e1577aa,Cristiano Biraghi,3,ITA,WB,26-106,89,0,0,0,0,1,0,0,0,55,1,1,2,0.0,0.0,0.0,0,0,37,49,75.5,1,25,0,1,1,Fiorentina,2018-12-16 Fiorentina-Empoli,ITA-SERIA_A,18-19,ed69d974
+4fac8f81,Dávid Hancko,16,SVK,WB,21-003,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,1,0,0,0,Fiorentina,2018-12-16 Fiorentina-Empoli,ITA-SERIA_A,18-19,ed69d974
+b0f7e36c,Federico Chiesa,25,ITA,WB,21-052,90,0,0,0,0,8,4,0,0,64,2,1,0,0.5,0.5,0.1,7,0,34,41,82.9,4,45,5,12,6,Fiorentina,2018-12-16 Fiorentina-Empoli,ITA-SERIA_A,18-19,ed69d974
+f2c1300a,Vitor Hugo,31,BRA,CB,27-210,90,0,0,0,0,2,0,0,0,71,2,5,1,0.2,0.2,0.0,1,0,46,56,82.1,4,38,0,0,0,Fiorentina,2018-12-16 Fiorentina-Empoli,ITA-SERIA_A,18-19,ed69d974
+8c725b43,Germán Pezzella,20,ARG,CB,27-172,90,0,0,0,0,0,0,0,0,77,5,1,1,0.0,0.0,0.0,0,0,65,69,94.2,7,50,1,0,0,Fiorentina,2018-12-16 Fiorentina-Empoli,ITA-SERIA_A,18-19,ed69d974
+d9624b51,Federico Ceccherini,5,ITA,CB,26-219,90,0,0,0,0,0,0,0,0,75,1,1,3,0.0,0.0,0.0,4,0,56,60,93.3,5,38,1,0,0,Fiorentina,2018-12-16 Fiorentina-Empoli,ITA-SERIA_A,18-19,ed69d974
+4e7db402,Alban Lafont,1,FRA,GK,19-327,90,0,0,0,0,0,0,0,0,33,0,0,0,0.0,0.0,0.0,1,0,16,32,50.0,0,17,0,0,0,Fiorentina,2018-12-16 Fiorentina-Empoli,ITA-SERIA_A,18-19,ed69d974
+5bd72174,Francesco Caputo,11,ITA,FW,31-132,90,0,1,0,0,4,2,0,0,36,0,0,1,0.3,0.3,0.7,4,1,20,29,69.0,1,29,2,2,1,Empoli,2018-12-16 Fiorentina-Empoli,ITA-SERIA_A,18-19,ed69d974
+822a7761,Antonino La Gumina,20,ITA,FW,22-285,90,0,0,0,0,3,0,0,0,25,0,1,1,0.3,0.3,0.0,1,0,10,13,76.9,1,22,2,1,0,Empoli,2018-12-16 Fiorentina-Empoli,ITA-SERIA_A,18-19,ed69d974
+570bb4b9,Hamed Junior Traorè,8,CIV,CM,18-303,71,0,0,0,0,0,0,0,0,25,5,2,0,0.0,0.0,0.2,3,0,9,14,64.3,3,14,0,3,2,Empoli,2018-12-16 Fiorentina-Empoli,ITA-SERIA_A,18-19,ed69d974
+83e4643e,Miha Zajc,6,SVN,CM,24-168,19,0,0,0,0,0,0,0,0,14,0,0,1,0.0,0.0,0.0,2,0,7,12,58.3,4,10,0,1,0,Empoli,2018-12-16 Fiorentina-Empoli,ITA-SERIA_A,18-19,ed69d974
+db092d3b,Ismaël Bennacer,10,ALG,CM,21-015,52,0,0,0,0,1,0,0,0,28,0,2,1,0.1,0.1,0.1,1,0,17,21,81.0,2,13,0,0,0,Empoli,2018-12-16 Fiorentina-Empoli,ITA-SERIA_A,18-19,ed69d974
+07ea0ef2,Leonardo Capezzi,28,ITA,CM,23-263,38,0,0,0,0,0,0,0,0,25,0,0,0,0.0,0.0,0.0,1,0,22,24,91.7,3,16,0,0,0,Empoli,2018-12-16 Fiorentina-Empoli,ITA-SERIA_A,18-19,ed69d974
+817c6964,Rade Krunić,33,BIH,CM,25-070,90,1,0,0,0,1,1,1,0,49,2,0,1,0.7,0.7,0.1,4,0,25,36,69.4,3,35,5,2,1,Empoli,2018-12-16 Fiorentina-Empoli,ITA-SERIA_A,18-19,ed69d974
+40f0ed6c,Luca Antonelli,13,ITA,LB,31-308,70,0,0,0,0,1,0,0,0,33,2,0,2,0.1,0.1,0.0,1,1,12,22,54.5,4,14,2,1,0,Empoli,2018-12-16 Fiorentina-Empoli,ITA-SERIA_A,18-19,ed69d974
+3300c14c,Joel Untersee,27,SUI,LB,24-308,20,0,0,0,0,0,0,0,0,12,1,0,0,0.0,0.0,0.0,0,0,7,11,63.6,1,8,1,0,0,Empoli,2018-12-16 Fiorentina-Empoli,ITA-SERIA_A,18-19,ed69d974
+3d936ba9,Domenico Maietta,22,ITA,CB,36-135,90,0,0,0,0,1,1,0,0,44,3,2,0,0.0,0.0,0.0,1,0,25,32,78.1,4,18,1,0,0,Empoli,2018-12-16 Fiorentina-Empoli,ITA-SERIA_A,18-19,ed69d974
+b6ca47a2,Matías Silvestre,26,ARG,CB,34-082,90,0,0,0,0,0,0,0,0,33,1,0,1,0.0,0.0,0.0,0,0,19,23,82.6,1,13,0,0,0,Empoli,2018-12-16 Fiorentina-Empoli,ITA-SERIA_A,18-19,ed69d974
+d541e703,Freddie Veseli,5,ALB,CB,26-026,90,0,0,0,0,0,0,0,0,44,0,1,0,0.0,0.0,0.0,0,0,26,33,78.8,0,22,0,1,0,Empoli,2018-12-16 Fiorentina-Empoli,ITA-SERIA_A,18-19,ed69d974
+230a2fac,Giovanni Di Lorenzo,2,ITA,RB,25-134,90,0,0,0,0,0,0,0,0,58,1,2,0,0.0,0.0,0.0,1,0,33,48,68.8,9,32,1,0,0,Empoli,2018-12-16 Fiorentina-Empoli,ITA-SERIA_A,18-19,ed69d974
+277da414,Ivan Provedel,1,ITA,GK,24-274,90,0,0,0,0,0,0,0,0,36,0,0,0,0.0,0.0,0.0,0,0,25,33,75.8,0,17,0,0,0,Empoli,2018-12-16 Fiorentina-Empoli,ITA-SERIA_A,18-19,ed69d974

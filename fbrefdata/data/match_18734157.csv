@@ -1,0 +1,31 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+c691bfe2,Sadio Mané,17,SEN,FW,30-139,67,0,0,0,0,7,4,0,0,28,0,0,0,0.9,0.9,0.0,3,0,10,16,62.5,0,13,1,2,2,Bayern Munich,2022-08-27 Bayern Munich-Gladbach,GER-BL1,22-23,18734157
+88e357ef,Serge Gnabry,7,GER,"FW,AM",27-044,23,0,0,0,0,2,2,0,0,11,0,0,0,0.1,0.1,0.1,3,0,7,8,87.5,3,5,0,0,0,Bayern Munich,2022-08-27 Bayern Munich-Gladbach,GER-BL1,22-23,18734157
+3c6089ab,Thomas Müller,25,GER,FW,32-348,90,0,0,0,0,2,2,0,0,43,0,0,0,0.4,0.4,0.4,6,0,23,34,67.6,4,24,0,1,0,Bayern Munich,2022-08-27 Bayern Munich-Gladbach,GER-BL1,22-23,18734157
+2b114be3,Leroy Sané,10,GER,AM,26-228,84,1,0,0,0,8,4,1,0,50,1,0,0,0.8,0.8,0.2,9,0,29,31,93.5,5,29,2,7,5,Bayern Munich,2022-08-27 Bayern Munich-Gladbach,GER-BL1,22-23,18734157
+d6e53a3a,Matthijs de Ligt,4,NED,FW,23-015,6,0,0,0,0,2,1,0,0,4,0,0,0,0.1,0.1,0.0,0,0,0,0,,0,1,0,0,0,Bayern Munich,2022-08-27 Bayern Munich-Gladbach,GER-BL1,22-23,18734157
+042e8a49,Kingsley Coman,11,FRA,AM,26-075,90,0,0,0,0,2,0,0,0,74,1,0,1,0.1,0.1,0.4,10,0,52,60,86.7,5,53,5,10,4,Bayern Munich,2022-08-27 Bayern Munich-Gladbach,GER-BL1,22-23,18734157
+e280527c,Marcel Sabitzer,18,AUT,DM,28-163,66,0,0,0,0,1,1,1,0,72,4,2,0,0.0,0.0,0.1,2,0,59,63,93.7,9,50,0,1,0,Bayern Munich,2022-08-27 Bayern Munich-Gladbach,GER-BL1,22-23,18734157
+2c0558b8,Jamal Musiala,42,GER,DM,19-182,24,0,1,0,0,2,1,0,0,28,3,0,0,0.2,0.2,0.2,4,1,17,21,81.0,3,18,2,2,1,Bayern Munich,2022-08-27 Bayern Munich-Gladbach,GER-BL1,22-23,18734157
+49296448,Joshua Kimmich,6,GER,DM,27-200,90,0,0,0,0,1,1,1,0,128,4,3,1,0.1,0.1,0.2,11,0,93,115,80.9,25,79,2,0,0,Bayern Munich,2022-08-27 Bayern Munich-Gladbach,GER-BL1,22-23,18734157
+d781d855,Alphonso Davies,19,CAN,LB,21-298,90,0,0,0,0,2,2,0,0,84,0,0,1,0.1,0.1,0.1,8,1,60,73,82.2,5,52,9,4,2,Bayern Munich,2022-08-27 Bayern Munich-Gladbach,GER-BL1,22-23,18734157
+c3ee18ef,Lucas Hernández,21,FRA,CB,26-194,90,0,0,0,0,0,0,0,0,75,0,0,0,0.0,0.0,0.0,2,0,71,75,94.7,16,55,2,0,0,Bayern Munich,2022-08-27 Bayern Munich-Gladbach,GER-BL1,22-23,18734157
+d248cd8f,Dayot Upamecano,2,FRA,CB,23-304,90,0,0,0,0,0,0,0,0,79,1,2,0,0.0,0.0,0.0,0,0,64,71,90.1,11,55,1,0,0,Bayern Munich,2022-08-27 Bayern Munich-Gladbach,GER-BL1,22-23,18734157
+45a03961,Benjamin Pavard,5,FRA,RB,26-152,90,0,0,0,0,4,2,1,0,97,2,2,1,0.1,0.1,0.5,4,0,72,88,81.8,11,45,1,0,0,Bayern Munich,2022-08-27 Bayern Munich-Gladbach,GER-BL1,22-23,18734157
+8778c910,Manuel Neuer,1,GER,GK,36-153,90,0,0,0,0,0,0,0,0,20,0,0,0,0.0,0.0,0.0,0,0,19,20,95.0,0,12,0,0,0,Bayern Munich,2022-08-27 Bayern Munich-Gladbach,GER-BL1,22-23,18734157
+6f8cd6d0,Marcus Thuram,10,FRA,FW,25-021,90,1,0,0,0,2,2,0,0,32,0,1,0,0.4,0.4,0.1,2,0,11,17,64.7,1,16,1,0,0,Mönchengladbach,2022-08-27 Bayern Munich-Gladbach,GER-BL1,22-23,18734157
+bc6bd723,Alassane Pléa,14,FRA,LW,29-170,51,0,0,0,0,0,0,1,0,16,0,0,0,0.0,0.0,0.0,0,0,10,14,71.4,0,9,0,0,0,Mönchengladbach,2022-08-27 Bayern Munich-Gladbach,GER-BL1,22-23,18734157
+be42a291,Hannes Wolf,11,AUT,"LW,LM",23-133,39,0,0,0,0,0,0,0,0,17,2,0,0,0.0,0.0,0.0,1,0,5,7,71.4,1,5,1,2,1,Mönchengladbach,2022-08-27 Bayern Munich-Gladbach,GER-BL1,22-23,18734157
+2903a856,Jonas Hofmann,23,GER,"RW,RM",30-044,84,0,0,0,0,0,0,0,0,20,1,0,0,0.0,0.0,0.0,1,0,9,17,52.9,0,10,1,0,0,Mönchengladbach,2022-08-27 Bayern Munich-Gladbach,GER-BL1,22-23,18734157
+dfb6490a,Patrick Herrmann,7,GER,RM,31-196,6,0,0,0,0,1,0,0,0,8,0,0,0,0.0,0.0,0.1,2,0,3,7,42.9,0,5,1,0,0,Mönchengladbach,2022-08-27 Bayern Munich-Gladbach,GER-BL1,22-23,18734157
+36a59ba4,Florian Neuhaus,32,GER,AM,25-164,76,0,0,0,0,1,0,0,0,26,1,1,1,0.0,0.0,0.0,0,0,12,18,66.7,2,11,1,2,1,Mönchengladbach,2022-08-27 Bayern Munich-Gladbach,GER-BL1,22-23,18734157
+b77f44a4,Marvin Friedrich,5,GER,CB,26-257,14,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,1,5,20.0,0,0,0,0,0,Mönchengladbach,2022-08-27 Bayern Munich-Gladbach,GER-BL1,22-23,18734157
+86574238,Manu Koné,17,FRA,"DM,CM",21-102,84,0,0,0,0,0,0,0,0,39,5,0,1,0.0,0.0,0.0,1,0,24,29,82.8,1,15,0,4,2,Mönchengladbach,2022-08-27 Bayern Munich-Gladbach,GER-BL1,22-23,18734157
+34b54da7,Tony Jantschke,24,GER,CM,32-142,6,0,0,0,0,0,0,0,0,2,1,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,0,0,0,0,Mönchengladbach,2022-08-27 Bayern Munich-Gladbach,GER-BL1,22-23,18734157
+496aeede,Christoph Kramer,6,GER,"DM,CM",31-189,90,0,0,0,0,0,0,1,0,43,2,0,2,0.0,0.0,0.0,0,0,24,31,77.4,1,8,0,1,1,Mönchengladbach,2022-08-27 Bayern Munich-Gladbach,GER-BL1,22-23,18734157
+e79269bd,Luca Netz,20,GER,LB,19-104,90,0,0,0,0,0,0,0,0,42,5,0,0,0.0,0.0,0.0,0,0,17,28,60.7,1,9,1,1,0,Mönchengladbach,2022-08-27 Bayern Munich-Gladbach,GER-BL1,22-23,18734157
+48035304,Nico Elvedi,30,SUI,CB,25-331,90,0,0,0,0,0,0,0,0,43,1,1,0,0.0,0.0,0.0,0,0,30,35,85.7,0,12,0,0,0,Mönchengladbach,2022-08-27 Bayern Munich-Gladbach,GER-BL1,22-23,18734157
+97d545ae,Ko Itakura,3,JPN,CB,25-212,90,0,0,0,0,1,1,0,0,41,0,1,4,0.0,0.0,0.0,0,0,23,27,85.2,0,13,0,0,0,Mönchengladbach,2022-08-27 Bayern Munich-Gladbach,GER-BL1,22-23,18734157
+236f02cd,Joe Scally,29,USA,RB,19-239,90,0,0,0,0,0,0,0,0,35,3,0,2,0.0,0.0,0.0,1,1,14,21,66.7,0,9,0,0,0,Mönchengladbach,2022-08-27 Bayern Munich-Gladbach,GER-BL1,22-23,18734157
+420c18a1,Yann Sommer,1,SUI,GK,33-253,90,0,0,0,0,0,0,0,0,62,0,0,0,0.0,0.0,0.0,0,0,29,50,58.0,0,28,0,0,0,Mönchengladbach,2022-08-27 Bayern Munich-Gladbach,GER-BL1,22-23,18734157

@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+3d50bcdb,Moise Kean,18,ITA,FW,20-316,64,1,0,0,0,2,1,0,0,21,0,0,2,0.7,0.7,0.0,0,0,11,13,84.6,2,9,0,3,1,Paris Saint-Germain,2021-01-09 Paris S-G-Brest,FRA-L1,20-21,5123800a
+43b78598,Mauro Icardi,9,ARG,FW,27-325,26,1,1,0,0,4,2,0,0,9,0,0,0,0.7,0.7,0.0,2,1,3,4,75.0,0,6,0,0,0,Paris Saint-Germain,2021-01-09 Paris S-G-Brest,FRA-L1,20-21,5123800a
+42fd9c7f,Kylian Mbappé,7,FRA,LW,22-020,90,0,1,0,0,6,3,0,0,65,0,0,0,1.1,1.1,0.2,8,2,45,51,88.2,8,56,9,8,7,Paris Saint-Germain,2021-01-09 Paris S-G-Brest,FRA-L1,20-21,5123800a
+19cda00b,Ángel Di María,11,ARG,RW,32-330,85,0,0,0,0,2,0,0,0,94,3,0,1,0.1,0.1,0.7,12,0,61,78,78.2,8,72,6,8,3,Paris Saint-Germain,2021-01-09 Paris S-G-Brest,FRA-L1,20-21,5123800a
+1a992676,Julian Draxler,23,GER,RW,27-111,5,0,0,0,0,0,0,0,0,12,0,0,0,0.0,0.0,0.1,3,0,12,12,100.0,3,10,1,0,0,Paris Saint-Germain,2021-01-09 Paris S-G-Brest,FRA-L1,20-21,5123800a
+1467af0d,Marco Verratti,6,ITA,LM,28-065,90,0,0,0,0,2,1,1,0,113,0,1,0,0.2,0.2,0.0,2,0,95,103,92.2,9,93,2,6,6,Paris Saint-Germain,2021-01-09 Paris S-G-Brest,FRA-L1,20-21,5123800a
+72c812f3,Idrissa Gana Gueye,27,SEN,CM,31-105,55,0,0,0,0,1,1,0,0,67,3,3,1,0.0,0.0,0.0,0,0,52,56,92.9,7,50,1,1,0,Paris Saint-Germain,2021-01-09 Paris S-G-Brest,FRA-L1,20-21,5123800a
+9744ff80,Pablo Sarabia,19,ESP,CM,28-243,35,1,0,0,0,2,2,0,0,17,1,0,0,0.1,0.1,0.4,2,0,11,13,84.6,1,11,1,0,0,Paris Saint-Germain,2021-01-09 Paris S-G-Brest,FRA-L1,20-21,5123800a
+436a9dd0,Ander Herrera,21,ESP,RM,31-148,90,0,0,0,0,0,0,0,0,109,5,5,3,0.0,0.0,0.6,6,0,88,92,95.7,9,80,0,1,0,Paris Saint-Germain,2021-01-09 Paris S-G-Brest,FRA-L1,20-21,5123800a
+a8567629,Mitchel Bakker,25,NED,LB,20-203,64,0,0,0,0,0,0,0,0,61,0,0,0,0.0,0.0,0.0,1,0,46,55,83.6,1,40,2,2,0,Paris Saint-Germain,2021-01-09 Paris S-G-Brest,FRA-L1,20-21,5123800a
+41e7ef1c,Layvin Kurzawa,20,FRA,LB,28-127,26,0,0,0,0,0,0,0,0,16,0,0,0,0.0,0.0,0.0,0,0,13,15,86.7,1,13,0,0,0,Paris Saint-Germain,2021-01-09 Paris S-G-Brest,FRA-L1,20-21,5123800a
+fc62f087,Abdou Diallo,22,SEN,CB,24-250,90,0,0,0,0,1,0,0,0,78,0,2,2,0.0,0.0,0.0,0,0,60,67,89.6,6,57,1,0,0,Paris Saint-Germain,2021-01-09 Paris S-G-Brest,FRA-L1,20-21,5123800a
+d5f2f82b,Marquinhos,5,BRA,CB,26-240,90,0,0,0,0,2,1,0,0,73,4,0,1,0.2,0.2,0.0,2,2,59,63,93.7,7,56,0,0,0,Paris Saint-Germain,2021-01-09 Paris S-G-Brest,FRA-L1,20-21,5123800a
+29c02c9f,Colin Dagba,31,FRA,RB,22-122,85,0,0,0,0,0,0,0,0,68,1,1,0,0.0,0.0,0.1,1,0,56,64,87.5,4,52,0,1,1,Paris Saint-Germain,2021-01-09 Paris S-G-Brest,FRA-L1,20-21,5123800a
+e288d4b3,Alessandro Florenzi,24,ITA,RB,29-304,5,0,0,0,0,0,0,0,0,7,0,1,0,0.0,0.0,0.0,0,0,5,7,71.4,0,5,0,0,0,Paris Saint-Germain,2021-01-09 Paris S-G-Brest,FRA-L1,20-21,5123800a
+ecada4fc,Keylor Navas,1,CRC,GK,34-025,90,0,0,0,0,0,0,0,0,32,0,0,0,0.0,0.0,0.0,0,0,22,28,78.6,0,18,0,1,1,Paris Saint-Germain,2021-01-09 Paris S-G-Brest,FRA-L1,20-21,5123800a
+745ca0a3,Romain Faivre,21,FRA,FW,22-179,90,0,0,0,0,5,1,0,0,63,1,1,0,0.3,0.3,0.2,7,0,41,52,78.8,6,38,6,3,2,Brest,2021-01-09 Paris S-G-Brest,FRA-L1,20-21,5123800a
+5e080f73,Irvin Cardona,14,FRA,FW,23-154,90,0,0,0,0,2,0,0,0,34,0,1,0,0.1,0.1,0.1,2,0,16,23,69.6,5,20,4,2,0,Brest,2021-01-09 Paris S-G-Brest,FRA-L1,20-21,5123800a
+f98b15f0,Romain Philippoteaux,12,FRA,LM,32-313,68,0,0,0,0,0,0,0,0,32,3,1,0,0.0,0.0,0.1,3,0,17,22,77.3,1,20,0,2,0,Brest,2021-01-09 Paris S-G-Brest,FRA-L1,20-21,5123800a
+18ebca4b,Gaëtan Charbonnier,10,FRA,LM,32-013,22,0,0,0,0,0,0,0,0,10,1,0,0,0.0,0.0,0.0,0,0,5,8,62.5,0,6,0,0,0,Brest,2021-01-09 Paris S-G-Brest,FRA-L1,20-21,5123800a
+542cc80f,Paul Lasne,8,FRA,CM,31-359,76,0,0,0,0,0,0,1,0,46,6,0,1,0.0,0.0,0.0,0,0,31,36,86.1,3,24,1,1,1,Brest,2021-01-09 Paris S-G-Brest,FRA-L1,20-21,5123800a
+0f9b8301,Cristian Battocchio,11,ITA,CM,28-334,14,0,0,0,0,0,0,0,0,13,0,0,0,0.0,0.0,0.0,0,0,12,13,92.3,1,9,0,0,0,Brest,2021-01-09 Paris S-G-Brest,FRA-L1,20-21,5123800a
+2b1bed19,Haris Belkebla,7,ALG,CM,26-347,79,0,0,0,0,0,0,0,0,54,3,1,3,0.0,0.0,0.0,1,0,36,40,90.0,5,35,1,4,2,Brest,2021-01-09 Paris S-G-Brest,FRA-L1,20-21,5123800a
+19ba6c6d,Steve Mounié,15,BEN,CM,26-102,11,0,0,0,0,1,0,0,0,4,0,0,0,0.1,0.1,0.0,0,0,2,2,100.0,1,1,1,0,0,Brest,2021-01-09 Paris S-G-Brest,FRA-L1,20-21,5123800a
+db7849ca,Franck Honorat,9,FRA,RM,24-151,76,0,0,0,0,1,1,0,0,51,1,1,1,0.1,0.1,0.1,5,0,28,43,65.1,2,20,5,2,1,Brest,2021-01-09 Paris S-G-Brest,FRA-L1,20-21,5123800a
+88c4d190,Jérémy Le Douaron,26,FRA,RM,22-263,14,0,0,0,0,0,0,0,0,6,1,0,1,0.0,0.0,0.0,1,0,2,3,66.7,0,3,2,0,0,Brest,2021-01-09 Paris S-G-Brest,FRA-L1,20-21,5123800a
+6dfd8f05,Romain Perraud,18,FRA,LB,23-109,90,0,0,0,0,1,0,0,0,62,4,1,3,0.0,0.0,0.0,0,0,42,48,87.5,4,42,3,3,1,Brest,2021-01-09 Paris S-G-Brest,FRA-L1,20-21,5123800a
+0cbc8baa,Jean-Kevin Duverne,2,HAI,CB,23-181,90,0,0,0,0,0,0,0,0,56,2,4,1,0.0,0.0,0.0,1,0,43,47,91.5,1,46,0,2,2,Brest,2021-01-09 Paris S-G-Brest,FRA-L1,20-21,5123800a
+16aa7d4c,Brendan Chardonnet,5,FRA,CB,26-018,90,0,0,0,0,0,0,0,0,50,1,1,3,0.0,0.0,0.1,2,0,31,39,79.5,1,31,0,0,0,Brest,2021-01-09 Paris S-G-Brest,FRA-L1,20-21,5123800a
+64ba07c0,Ronaël Pierre-Gabriel,20,FRA,RB,22-210,90,0,0,0,0,2,0,0,0,62,2,0,2,0.1,0.1,0.0,1,0,42,54,77.8,5,38,5,3,1,Brest,2021-01-09 Paris S-G-Brest,FRA-L1,20-21,5123800a
+b49729cb,Gautier Larsonneur,1,FRA,GK,23-321,90,0,0,0,0,0,0,0,0,42,0,0,1,0.0,0.0,0.0,0,0,31,33,93.9,0,24,0,0,0,Brest,2021-01-09 Paris S-G-Brest,FRA-L1,20-21,5123800a

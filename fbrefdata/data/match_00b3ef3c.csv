@@ -1,0 +1,31 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+c68da769,Rafael Borré,19,COL,FW,26-074,67,0,0,0,0,1,0,0,0,28,0,0,2,0.3,0.3,0.1,1,0,12,15,80.0,1,18,0,3,2,Eintracht Frankfurt,2021-11-28 Eint Frankfurt-Union Berlin,GER-BL1,21-22,00b3ef3c
+962e54cb,Gonçalo Paciência,39,POR,FW,27-119,23,0,0,0,0,3,0,0,0,14,0,0,0,0.3,0.3,0.0,0,0,4,9,44.4,0,5,0,0,0,Eintracht Frankfurt,2021-11-28 Eint Frankfurt-Union Berlin,GER-BL1,21-22,00b3ef3c
+15b287da,Daichi Kamada,15,JPN,AM,25-115,90,0,0,0,0,3,0,0,0,61,3,0,3,0.4,0.4,0.1,4,0,35,45,77.8,12,32,3,3,1,Eintracht Frankfurt,2021-11-28 Eint Frankfurt-Union Berlin,GER-BL1,21-22,00b3ef3c
+37dc1a48,Jesper Lindstrøm,29,DEN,AM,21-272,76,0,0,0,0,1,0,0,0,33,1,1,0,0.0,0.0,0.0,3,1,13,21,61.9,1,15,2,2,2,Eintracht Frankfurt,2021-11-28 Eint Frankfurt-Union Berlin,GER-BL1,21-22,00b3ef3c
+dc38e3bc,Ragnar Ache,21,GER,FW,23-123,14,0,0,0,0,0,0,0,0,13,0,0,0,0.0,0.0,0.2,3,0,7,11,63.6,1,5,1,1,1,Eintracht Frankfurt,2021-11-28 Eint Frankfurt-Union Berlin,GER-BL1,21-22,00b3ef3c
+a8ee54ad,Kristijan Jakić,6,CRO,CM,24-198,90,0,0,0,0,1,0,0,0,68,2,0,3,0.1,0.1,0.0,1,0,48,58,82.8,7,24,1,0,0,Eintracht Frankfurt,2021-11-28 Eint Frankfurt-Union Berlin,GER-BL1,21-22,00b3ef3c
+4c6facae,Djibril Sow,8,SUI,CM,24-295,90,1,0,0,0,1,1,0,0,44,1,2,1,0.0,0.0,0.0,1,1,29,38,76.3,3,21,0,0,0,Eintracht Frankfurt,2021-11-28 Eint Frankfurt-Union Berlin,GER-BL1,21-22,00b3ef3c
+b1cd37e6,Filip Kostić,10,SRB,WB,29-027,90,0,1,0,0,2,0,0,0,85,0,1,2,0.1,0.1,0.7,7,1,48,73,65.8,6,44,10,7,4,Eintracht Frankfurt,2021-11-28 Eint Frankfurt-Union Berlin,GER-BL1,21-22,00b3ef3c
+b3b7f5a6,Timothy Chandler,22,USA,WB,31-244,90,0,0,0,0,0,0,0,0,55,0,2,1,0.0,0.0,0.0,1,0,27,45,60.0,4,17,1,0,0,Eintracht Frankfurt,2021-11-28 Eint Frankfurt-Union Berlin,GER-BL1,21-22,00b3ef3c
+441197b8,Obite N'Dicka,2,CIV,CB,22-100,90,1,0,0,0,1,1,0,0,77,0,4,1,0.1,0.1,0.0,3,1,55,67,82.1,8,37,6,0,0,Eintracht Frankfurt,2021-11-28 Eint Frankfurt-Union Berlin,GER-BL1,21-22,00b3ef3c
+9ab16552,Makoto Hasebe,20,JPN,CB,37-314,90,0,0,0,0,0,0,0,0,96,3,1,0,0.0,0.0,0.0,0,0,76,90,84.4,9,59,0,0,0,Eintracht Frankfurt,2021-11-28 Eint Frankfurt-Union Berlin,GER-BL1,21-22,00b3ef3c
+35d64857,Tuta,35,BRA,CB,22-147,90,0,0,0,0,0,0,0,0,75,0,0,2,0.0,0.0,0.0,0,0,56,71,78.9,5,44,4,1,1,Eintracht Frankfurt,2021-11-28 Eint Frankfurt-Union Berlin,GER-BL1,21-22,00b3ef3c
+ce17b5eb,Kevin Trapp,1,GER,GK,31-143,90,0,0,0,0,0,0,0,0,36,0,0,0,0.0,0.0,0.0,0,0,25,35,71.4,0,20,0,0,0,Eintracht Frankfurt,2021-11-28 Eint Frankfurt-Union Berlin,GER-BL1,21-22,00b3ef3c
+f9446dcd,Max Kruse,10,GER,FW,33-254,75,1,0,1,1,1,0,0,0,32,0,0,0,0.8,0.1,0.0,1,0,17,25,68.0,2,24,0,0,0,Union Berlin,2021-11-28 Eint Frankfurt-Union Berlin,GER-BL1,21-22,00b3ef3c
+66385c46,Levin Öztunalı,7,GER,FW,25-258,15,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,4,4,100.0,1,2,0,1,0,Union Berlin,2021-11-28 Eint Frankfurt-Union Berlin,GER-BL1,21-22,00b3ef3c
+e5478b87,Taiwo Awoniyi,14,NGA,FW,24-108,75,0,0,0,0,2,1,0,0,26,0,0,1,0.1,0.1,0.0,1,1,6,15,40.0,2,21,0,1,1,Union Berlin,2021-11-28 Eint Frankfurt-Union Berlin,GER-BL1,21-22,00b3ef3c
+daa78200,Andreas Voglsammer,9,GER,FW,29-323,15,0,0,0,0,1,1,0,0,8,0,0,0,0.1,0.1,0.0,0,0,2,7,28.6,1,5,0,1,1,Union Berlin,2021-11-28 Eint Frankfurt-Union Berlin,GER-BL1,21-22,00b3ef3c
+924f9191,Grischa Prömel,21,GER,CM,26-323,90,0,0,0,0,0,0,1,0,60,0,0,0,0.0,0.0,0.1,1,0,41,52,78.8,5,35,4,2,1,Union Berlin,2021-11-28 Eint Frankfurt-Union Berlin,GER-BL1,21-22,00b3ef3c
+59e4b92e,Rani Khedira,8,GER,CM,27-305,57,0,0,0,0,1,0,0,0,31,2,3,0,0.0,0.0,0.0,0,0,17,22,77.3,2,15,0,0,0,Union Berlin,2021-11-28 Eint Frankfurt-Union Berlin,GER-BL1,21-22,00b3ef3c
+009a4f60,Julian Ryerson,6,NOR,CM,24-011,33,0,0,0,0,1,1,0,0,17,0,0,2,0.0,0.0,0.0,1,1,7,10,70.0,1,8,1,1,1,Union Berlin,2021-11-28 Eint Frankfurt-Union Berlin,GER-BL1,21-22,00b3ef3c
+f24ea523,Genki Haraguchi,24,JPN,CM,30-203,57,0,0,0,0,0,0,0,0,27,1,0,1,0.0,0.0,0.0,3,0,17,21,81.0,2,15,0,0,0,Union Berlin,2021-11-28 Eint Frankfurt-Union Berlin,GER-BL1,21-22,00b3ef3c
+8eb55dbb,Sheraldo Becker,27,SUR,CM,26-292,33,0,0,0,0,0,0,1,0,12,0,0,0,0.0,0.0,0.0,1,0,5,9,55.6,0,10,1,1,1,Union Berlin,2021-11-28 Eint Frankfurt-Union Berlin,GER-BL1,21-22,00b3ef3c
+d1661819,Bastian Oczipka,20,GER,WB,32-320,89,0,0,0,0,0,0,0,0,56,0,2,0,0.0,0.0,0.0,1,0,33,47,70.2,3,25,1,1,1,Union Berlin,2021-11-28 Eint Frankfurt-Union Berlin,GER-BL1,21-22,00b3ef3c
+7242b495,Niko Gießelmann,23,GER,WB,30-063,1,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,1,0,1,1,100.0,1,0,0,0,0,Union Berlin,2021-11-28 Eint Frankfurt-Union Berlin,GER-BL1,21-22,00b3ef3c
+056d2d95,Christopher Trimmel,28,AUT,WB,34-277,90,0,0,0,0,0,0,0,0,55,4,0,0,0.0,0.0,0.1,1,0,28,40,70.0,2,27,3,3,3,Union Berlin,2021-11-28 Eint Frankfurt-Union Berlin,GER-BL1,21-22,00b3ef3c
+bd7d2e6d,Timo Baumgartl,25,GER,CB,25-269,90,0,0,0,0,0,0,0,0,62,5,0,2,0.0,0.0,0.0,1,0,42,53,79.2,4,39,1,0,0,Union Berlin,2021-11-28 Eint Frankfurt-Union Berlin,GER-BL1,21-22,00b3ef3c
+6bd5cd5d,Robin Knoche,31,GER,CB,29-190,90,0,0,0,0,0,0,1,0,83,1,5,2,0.0,0.0,0.0,0,0,51,63,81.0,2,51,1,1,1,Union Berlin,2021-11-28 Eint Frankfurt-Union Berlin,GER-BL1,21-22,00b3ef3c
+b77f44a4,Marvin Friedrich,5,GER,CB,25-350,90,0,0,0,0,0,0,0,0,78,2,1,1,0.0,0.0,0.0,0,0,50,63,79.4,0,44,0,0,0,Union Berlin,2021-11-28 Eint Frankfurt-Union Berlin,GER-BL1,21-22,00b3ef3c
+7fe12375,Andreas Luthe,1,GER,GK,34-263,90,0,0,0,0,0,0,1,0,57,0,0,0,0.0,0.0,0.0,0,0,37,55,67.3,0,29,0,0,0,Union Berlin,2021-11-28 Eint Frankfurt-Union Berlin,GER-BL1,21-22,00b3ef3c

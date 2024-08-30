@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+42fd9c7f,Kylian Mbappé,7,FRA,FW,21-023,90,0,0,0,0,4,1,0,0,54,1,0,0,0.5,0.5,0.1,3,2,27,40,67.5,2,34,8,4,1,Paris Saint-Germain,2020-01-12 Paris S-G-Monaco,FRA-L1,19-20,3848e3d0
+43b78598,Mauro Icardi,18,ARG,FW,26-327,85,0,0,0,0,0,0,0,0,14,0,0,1,0.0,0.0,0.1,2,0,10,11,90.9,1,6,0,1,0,Paris Saint-Germain,2020-01-12 Paris S-G-Monaco,FRA-L1,19-20,3848e3d0
+527f063d,Edinson Cavani,9,URU,FW,32-332,5,0,0,0,0,1,1,0,0,6,1,0,0,0.1,0.1,0.0,0,0,1,3,33.3,0,2,0,1,0,Paris Saint-Germain,2020-01-12 Paris S-G-Monaco,FRA-L1,19-20,3848e3d0
+69384e5d,Neymar,10,BRA,AM,27-341,90,2,0,1,1,6,3,0,0,93,1,1,0,1.7,0.9,0.3,8,0,49,68,72.1,13,72,7,18,12,Paris Saint-Germain,2020-01-12 Paris S-G-Monaco,FRA-L1,19-20,3848e3d0
+19cda00b,Ángel Di María,11,ARG,AM,31-332,79,0,0,0,0,0,0,0,0,59,0,0,1,0.0,0.0,0.4,4,0,36,51,70.6,7,39,3,3,2,Paris Saint-Germain,2020-01-12 Paris S-G-Monaco,FRA-L1,19-20,3848e3d0
+9744ff80,Pablo Sarabia,19,ESP,AM,27-246,11,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,1,3,33.3,0,3,1,0,0,Paris Saint-Germain,2020-01-12 Paris S-G-Monaco,FRA-L1,19-20,3848e3d0
+1467af0d,Marco Verratti,6,ITA,DM,27-068,79,0,1,0,0,0,0,0,0,100,3,2,0,0.0,0.0,0.3,4,2,83,89,93.3,8,57,2,1,0,Paris Saint-Germain,2020-01-12 Paris S-G-Monaco,FRA-L1,19-20,3848e3d0
+dff153a4,Leandro Paredes,8,ARG,DM,25-197,11,0,0,0,0,0,0,0,0,13,0,0,0,0.0,0.0,0.0,0,0,11,12,91.7,3,10,2,0,0,Paris Saint-Germain,2020-01-12 Paris S-G-Monaco,FRA-L1,19-20,3848e3d0
+72c812f3,Idrissa Gana Gueye,27,SEN,DM,30-108,90,0,0,0,0,0,0,0,0,92,4,0,2,0.0,0.0,0.0,1,0,73,82,89.0,9,52,4,0,0,Paris Saint-Germain,2020-01-12 Paris S-G-Monaco,FRA-L1,19-20,3848e3d0
+433dc9a2,Juan Bernat,14,ESP,LB,26-317,90,0,0,0,0,0,0,0,0,88,2,0,1,0.0,0.0,0.0,0,0,68,75,90.7,10,46,2,2,1,Paris Saint-Germain,2020-01-12 Paris S-G-Monaco,FRA-L1,19-20,3848e3d0
+86e7deaf,Thiago Silva,2,BRA,CB,35-112,90,0,0,0,0,0,0,0,0,85,0,0,2,0.0,0.0,0.0,1,0,78,80,97.5,4,54,0,0,0,Paris Saint-Germain,2020-01-12 Paris S-G-Monaco,FRA-L1,19-20,3848e3d0
+d5f2f82b,Marquinhos,5,BRA,CB,25-243,90,0,0,0,0,1,0,0,0,93,2,3,2,0.1,0.1,0.0,0,0,77,78,98.7,5,58,0,0,0,Paris Saint-Germain,2020-01-12 Paris S-G-Monaco,FRA-L1,19-20,3848e3d0
+e162b013,Thomas Meunier,12,BEL,RB,28-122,90,0,0,0,0,0,0,0,0,79,4,2,2,0.0,0.0,0.5,3,0,58,70,82.9,3,33,5,2,2,Paris Saint-Germain,2020-01-12 Paris S-G-Monaco,FRA-L1,19-20,3848e3d0
+ecada4fc,Keylor Navas,1,CRC,GK,33-028,90,0,0,0,0,0,0,0,0,20,0,0,0,0.0,0.0,0.0,0,0,13,16,81.3,0,5,0,0,0,Paris Saint-Germain,2020-01-12 Paris S-G-Monaco,FRA-L1,19-20,3848e3d0
+509a4ccb,Keita Baldé,14,SEN,"FW,LW,LM",24-310,90,0,1,0,0,1,1,1,0,42,0,1,1,0.4,0.4,0.1,3,1,23,29,79.3,3,28,2,1,0,Monaco,2020-01-12 Paris S-G-Monaco,FRA-L1,19-20,3848e3d0
+942b4f90,Wissam Ben Yedder,9,FRA,FW,29-153,84,1,1,0,0,2,1,0,0,47,0,1,0,0.2,0.2,1.0,5,0,26,36,72.2,4,34,6,6,5,Monaco,2020-01-12 Paris S-G-Monaco,FRA-L1,19-20,3848e3d0
+d6f88a1d,Adrien Silva,8,POR,DM,30-303,6,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,1,0,8,10,80.0,1,4,0,1,1,Monaco,2020-01-12 Paris S-G-Monaco,FRA-L1,19-20,3848e3d0
+3708e9fa,Aleksandr Golovin,17,RUS,"LM,CM,DM,AM",23-227,90,0,0,0,0,5,1,0,0,64,1,2,1,0.3,0.3,0.2,5,2,34,45,75.6,3,36,4,3,2,Monaco,2020-01-12 Paris S-G-Monaco,FRA-L1,19-20,3848e3d0
+59bf127b,Tiemoué Bakayoko,6,FRA,"CM,DM",25-148,90,0,0,0,0,2,0,1,0,59,5,1,0,0.1,0.1,0.0,3,0,33,40,82.5,1,34,0,4,2,Monaco,2020-01-12 Paris S-G-Monaco,FRA-L1,19-20,3848e3d0
+33508c78,Cesc Fàbregas,4,ESP,"CM,AM",32-253,64,0,0,0,0,0,0,0,0,36,1,0,0,0.0,0.0,0.1,2,1,25,32,78.1,4,19,0,0,0,Monaco,2020-01-12 Paris S-G-Monaco,FRA-L1,19-20,3848e3d0
+ffec9769,Islam Slimani,20,ALG,FW,31-208,26,1,0,0,0,3,2,0,0,13,0,0,0,0.8,0.8,0.0,0,0,8,10,80.0,1,10,1,0,0,Monaco,2020-01-12 Paris S-G-Monaco,FRA-L1,19-20,3848e3d0
+3ef0fa48,Gelson Martins,11,POR,"RM,RW",24-246,81,1,0,0,0,2,1,0,0,46,2,1,0,0.6,0.6,0.0,5,1,28,40,70.0,3,33,8,10,9,Monaco,2020-01-12 Paris S-G-Monaco,FRA-L1,19-20,3848e3d0
+3dd738a1,Ruben Aguilar,12,FRA,RB,26-261,9,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,2,0,0,0,Monaco,2020-01-12 Paris S-G-Monaco,FRA-L1,19-20,3848e3d0
+f449640d,Fodé Ballo-Touré,2,SEN,LB,23-009,90,0,0,0,0,0,0,1,0,54,1,3,0,0.0,0.0,0.0,2,0,38,42,90.5,2,37,2,2,2,Monaco,2020-01-12 Paris S-G-Monaco,FRA-L1,19-20,3848e3d0
+d9764034,Guillermo Maripán,3,CHI,CB,25-251,90,0,0,0,0,0,0,0,0,46,2,2,0,0.0,0.0,0.0,0,0,34,36,94.4,2,24,0,0,0,Monaco,2020-01-12 Paris S-G-Monaco,FRA-L1,19-20,3848e3d0
+c6056d58,Kamil Glik,25,POL,CB,31-343,90,0,0,0,0,1,0,0,0,47,4,3,2,0.1,0.1,0.0,0,0,27,31,87.1,0,20,0,0,0,Monaco,2020-01-12 Paris S-G-Monaco,FRA-L1,19-20,3848e3d0
+0a89e877,Benjamin Henrichs,39,GER,"RB,RW,RM",22-323,90,0,0,0,0,0,0,0,0,65,3,1,6,0.0,0.0,0.0,2,0,40,50,80.0,2,34,1,0,0,Monaco,2020-01-12 Paris S-G-Monaco,FRA-L1,19-20,3848e3d0
+2fa2a875,Benjamin Lecomte,40,FRA,GK,28-261,90,0,0,0,0,0,0,0,0,32,0,0,0,0.0,0.0,0.0,0,0,14,26,53.8,0,14,0,0,0,Monaco,2020-01-12 Paris S-G-Monaco,FRA-L1,19-20,3848e3d0

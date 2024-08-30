@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+e7986081,Moussa Dembélé,9,FRA,FW,22-268,62,0,0,0,0,4,1,0,0,25,0,0,0,0.6,0.6,0.1,4,0,12,14,85.7,0,10,0,1,1,Lyon,2019-04-06 Lyon-Dijon,FRA-L1,18-19,0541ac50
+8f696594,Memphis,11,NED,FW,25-052,28,0,0,0,0,1,0,1,0,15,0,0,0,0.0,0.0,0.2,6,0,9,10,90.0,1,10,0,3,2,Lyon,2019-04-06 Lyon-Dijon,FRA-L1,18-19,0541ac50
+5148dcc5,Martin Terrier,7,FRA,LW,22-033,74,1,0,0,0,1,1,0,0,37,1,0,0,0.6,0.6,0.0,2,0,25,30,83.3,3,25,3,2,2,Lyon,2019-04-06 Lyon-Dijon,FRA-L1,18-19,0541ac50
+c47541e0,Bertrand Traoré,10,BFA,"AM,RW",23-212,16,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,5,6,83.3,0,3,0,1,0,Lyon,2019-04-06 Lyon-Dijon,FRA-L1,18-19,0541ac50
+beb391dd,Maxwel Cornet,27,CIV,"RW,LB,LW",22-191,90,0,1,0,0,6,2,0,0,46,1,0,1,0.8,0.8,0.6,9,2,22,31,71.0,2,28,9,5,5,Lyon,2019-04-06 Lyon-Dijon,FRA-L1,18-19,0541ac50
+bece776f,Nabil Fekir,18,FRA,AM,25-262,90,0,0,0,0,5,1,0,0,54,2,0,0,0.5,0.5,0.6,7,0,29,41,70.7,6,25,2,2,2,Lyon,2019-04-06 Lyon-Dijon,FRA-L1,18-19,0541ac50
+a5db0bec,Houssem Aouar,8,ALG,DM,20-280,90,0,0,0,0,1,0,0,0,60,0,0,0,0.0,0.0,0.0,2,0,47,54,87.0,6,41,4,5,3,Lyon,2019-04-06 Lyon-Dijon,FRA-L1,18-19,0541ac50
+71ec39ef,Lucas Tousart,29,FRA,DM,21-342,62,0,0,0,0,3,0,0,0,53,1,1,2,0.1,0.1,0.1,0,0,36,44,81.8,3,29,0,0,0,Lyon,2019-04-06 Lyon-Dijon,FRA-L1,18-19,0541ac50
+5cdddffa,Tanguy Ndombele,28,FRA,DM,22-099,28,0,0,0,0,0,0,0,0,23,1,0,0,0.0,0.0,0.0,2,0,16,21,76.2,3,17,2,0,0,Lyon,2019-04-06 Lyon-Dijon,FRA-L1,18-19,0541ac50
+9a1f2e1c,Rafael,4,BRA,"LB,CB",28-271,90,0,0,0,0,0,0,0,0,59,0,0,2,0.0,0.0,0.0,1,0,41,48,85.4,2,35,5,2,1,Lyon,2019-04-06 Lyon-Dijon,FRA-L1,18-19,0541ac50
+47af88b8,Jason Denayer,5,BEL,CB,23-282,90,0,0,0,0,1,0,0,0,79,1,0,0,0.0,0.0,0.3,1,0,71,74,95.9,13,60,3,1,0,Lyon,2019-04-06 Lyon-Dijon,FRA-L1,18-19,0541ac50
+e3d0b0c4,Marcelo,6,BRA,CB,31-321,90,0,0,0,0,4,1,0,0,108,1,3,1,0.6,0.6,0.2,4,0,76,90,84.4,11,53,1,2,2,Lyon,2019-04-06 Lyon-Dijon,FRA-L1,18-19,0541ac50
+ff0ab48c,Leo Dubois,14,FRA,RB,24-204,90,0,0,0,0,1,0,0,0,78,4,1,3,0.0,0.0,0.3,6,0,46,62,74.2,8,39,1,1,1,Lyon,2019-04-06 Lyon-Dijon,FRA-L1,18-19,0541ac50
+f00de885,Anthony Lopes,1,POR,GK,28-187,90,0,0,0,0,0,0,0,0,25,0,0,0,0.0,0.0,0.0,0,0,23,24,95.8,0,14,0,0,0,Lyon,2019-04-06 Lyon-Dijon,FRA-L1,18-19,0541ac50
+2e52206e,Benjamin Jeannot,29,FRA,FW,27-074,83,0,0,0,0,0,0,0,0,26,1,1,1,0.0,0.0,0.0,2,0,9,14,64.3,1,12,0,2,1,Dijon,2019-04-06 Lyon-Dijon,FRA-L1,18-19,0541ac50
+d29202c2,Sory Kaba,28,GUI,FW,23-252,7,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,1,3,0,0,0,Dijon,2019-04-06 Lyon-Dijon,FRA-L1,18-19,0541ac50
+d520120b,Júlio Tavares,11,CPV,LM,30-138,90,0,1,0,0,3,0,0,0,47,0,1,0,0.3,0.3,0.6,5,1,19,37,51.4,2,24,2,2,1,Dijon,2019-04-06 Lyon-Dijon,FRA-L1,18-19,0541ac50
+d7bf3d19,Romain Amalfitano,20,FRA,CM,29-222,90,0,0,0,0,1,0,0,0,44,0,1,2,0.1,0.1,0.0,0,0,26,32,81.3,6,24,1,1,1,Dijon,2019-04-06 Lyon-Dijon,FRA-L1,18-19,0541ac50
+0d2158d5,Jordan Marié,14,FRA,CM,27-189,90,0,0,0,0,1,1,1,0,43,1,2,1,0.0,0.0,0.0,1,0,21,29,72.4,2,17,0,1,0,Dijon,2019-04-06 Lyon-Dijon,FRA-L1,18-19,0541ac50
+90fcf472,Wesley Saïd,9,FRA,RM,23-352,89,1,0,0,0,3,2,0,0,35,2,1,0,0.7,0.7,0.0,3,1,18,25,72.0,1,18,0,1,1,Dijon,2019-04-06 Lyon-Dijon,FRA-L1,18-19,0541ac50
+7961f7aa,Kwon Chang-hoon,22,KOR,RM,24-280,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Dijon,2019-04-06 Lyon-Dijon,FRA-L1,18-19,0541ac50
+4e7bfc23,Florent Balmont,15,FRA,DM,39-063,90,0,0,0,0,0,0,0,0,46,2,1,2,0.0,0.0,0.1,1,0,31,38,81.6,3,15,0,0,0,Dijon,2019-04-06 Lyon-Dijon,FRA-L1,18-19,0541ac50
+ec400194,Oussama Haddadi,5,TUN,LB,27-068,90,0,0,0,0,0,0,0,0,52,0,3,1,0.0,0.0,0.0,1,0,29,45,64.4,2,24,3,1,1,Dijon,2019-04-06 Lyon-Dijon,FRA-L1,18-19,0541ac50
+6e5b5a45,Wesley Lautoa,24,NCL,CB,31-224,90,0,0,0,0,0,0,1,0,37,4,1,1,0.0,0.0,0.0,1,0,21,26,80.8,1,16,0,0,0,Dijon,2019-04-06 Lyon-Dijon,FRA-L1,18-19,0541ac50
+1c344204,Cédric Yamberé,18,CTA,CB,28-151,90,0,0,0,0,0,0,0,0,19,0,0,2,0.0,0.0,0.0,0,0,9,12,75.0,1,5,1,0,0,Dijon,2019-04-06 Lyon-Dijon,FRA-L1,18-19,0541ac50
+edd1466a,Fouad Chafik,26,MAR,RB,32-172,85,0,0,0,0,0,0,0,0,36,4,1,1,0.0,0.0,0.2,2,0,12,25,48.0,2,10,1,3,1,Dijon,2019-04-06 Lyon-Dijon,FRA-L1,18-19,0541ac50
+0a63446f,Mickaël Alphonse,2,GLP,RB,29-268,5,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,4,4,100.0,0,3,0,0,0,Dijon,2019-04-06 Lyon-Dijon,FRA-L1,18-19,0541ac50
+8fa8f8d2,Rúnar Alex Rúnarsson,1,ISL,GK,24-047,90,0,0,0,0,0,0,0,0,42,0,0,0,0.0,0.0,0.0,0,0,20,39,51.3,0,7,0,0,0,Dijon,2019-04-06 Lyon-Dijon,FRA-L1,18-19,0541ac50

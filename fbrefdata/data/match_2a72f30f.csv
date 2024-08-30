@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+8f696594,Memphis,11,NED,FW,24-074,87,1,1,0,0,6,3,0,0,58,0,0,0,0.7,0.7,0.8,12,0,31,44,70.5,6,39,7,3,2,Lyon,2018-04-28 Lyon-Nantes,FRA-L1,17-18,2a72f30f
+beb391dd,Maxwel Cornet,27,CIV,FW,21-213,3,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,0,0,0,0,Lyon,2018-04-28 Lyon-Nantes,FRA-L1,17-18,2a72f30f
+c47541e0,Bertrand Traoré,10,BFA,FW,22-234,74,1,0,0,0,6,4,0,0,56,0,0,0,0.9,0.9,0.2,7,0,31,36,86.1,2,36,4,3,0,Lyon,2018-04-28 Lyon-Nantes,FRA-L1,17-18,2a72f30f
+5c4dc0ff,Mariano,9,DOM,FW,24-270,16,0,0,0,0,1,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,2,1,0,0,Lyon,2018-04-28 Lyon-Nantes,FRA-L1,17-18,2a72f30f
+bece776f,Nabil Fekir,18,FRA,AM,24-284,90,0,1,0,0,5,2,0,0,71,3,1,1,0.3,0.3,0.5,8,2,52,56,92.9,9,63,8,3,2,Lyon,2018-04-28 Lyon-Nantes,FRA-L1,17-18,2a72f30f
+a5db0bec,Houssem Aouar,8,ALG,LM,19-302,90,0,0,0,0,3,0,0,0,67,0,3,1,0.6,0.6,0.3,7,2,42,53,79.2,6,44,2,1,0,Lyon,2018-04-28 Lyon-Nantes,FRA-L1,17-18,2a72f30f
+5cdddffa,Tanguy Ndombele,28,FRA,RM,21-121,78,0,0,0,0,2,1,0,0,62,2,2,4,0.1,0.1,0.1,6,0,43,47,91.5,6,48,2,1,1,Lyon,2018-04-28 Lyon-Nantes,FRA-L1,17-18,2a72f30f
+375622c5,Jordan Ferri,12,FRA,RM,26-047,12,0,0,0,0,0,0,0,0,19,1,0,0,0.0,0.0,0.0,1,0,10,14,71.4,0,12,0,0,0,Lyon,2018-04-28 Lyon-Nantes,FRA-L1,17-18,2a72f30f
+71ec39ef,Lucas Tousart,29,FRA,DM,20-364,90,0,0,0,0,0,0,0,0,49,1,1,0,0.0,0.0,0.0,0,0,39,45,86.7,3,33,0,1,0,Lyon,2018-04-28 Lyon-Nantes,FRA-L1,17-18,2a72f30f
+3cefcaef,Ferland Mendy,22,FRA,LB,22-324,90,0,0,0,0,1,0,0,0,82,0,1,0,0.0,0.0,0.0,3,0,62,75,82.7,5,55,3,1,1,Lyon,2018-04-28 Lyon-Nantes,FRA-L1,17-18,2a72f30f
+e97150c0,Jérémy Morel,15,MAD,CB,34-026,90,0,0,0,0,0,0,1,0,79,2,2,0,0.0,0.0,0.0,0,0,65,69,94.2,4,55,1,0,0,Lyon,2018-04-28 Lyon-Nantes,FRA-L1,17-18,2a72f30f
+e3d0b0c4,Marcelo,6,BRA,CB,30-343,90,0,0,0,0,1,0,0,0,95,2,1,1,0.1,0.1,0.0,0,0,77,85,90.6,5,70,0,1,1,Lyon,2018-04-28 Lyon-Nantes,FRA-L1,17-18,2a72f30f
+9a1f2e1c,Rafael,4,BRA,RB,27-293,90,0,0,0,0,0,0,0,0,92,5,3,2,0.0,0.0,0.0,1,0,60,75,80.0,3,43,6,1,0,Lyon,2018-04-28 Lyon-Nantes,FRA-L1,17-18,2a72f30f
+f00de885,Anthony Lopes,1,POR,GK,27-209,90,0,0,0,0,0,0,0,0,42,0,0,0,0.0,0.0,0.0,0,0,36,42,85.7,0,26,0,0,0,Lyon,2018-04-28 Lyon-Nantes,FRA-L1,17-18,2a72f30f
+8e87af42,Préjuce Nakoulma,22,BFA,FW,31-007,68,0,0,0,0,3,1,0,0,22,1,0,0,0.2,0.2,0.0,1,0,10,13,76.9,1,16,1,0,0,Nantes,2018-04-28 Lyon-Nantes,FRA-L1,17-18,2a72f30f
+9980269a,Kalifa Coulibaly,26,MLI,FW,26-250,22,0,0,0,0,2,0,0,0,7,0,0,0,0.1,0.1,0.0,0,0,3,4,75.0,1,3,0,1,0,Nantes,2018-04-28 Lyon-Nantes,FRA-L1,17-18,2a72f30f
+c76b7567,Adrien Thomasson,8,FRA,LW,24-139,68,0,0,0,0,2,0,0,0,48,6,0,2,0.1,0.1,0.0,1,0,25,37,67.6,5,24,2,0,0,Nantes,2018-04-28 Lyon-Nantes,FRA-L1,17-18,2a72f30f
+0049d544,Yassine El Ghanassy,14,BEL,LW,27-290,22,0,0,0,0,0,0,1,0,24,0,0,0,0.0,0.0,0.0,1,0,15,20,75.0,2,20,1,3,1,Nantes,2018-04-28 Lyon-Nantes,FRA-L1,17-18,2a72f30f
+f352a2db,Jules Iloki,7,FRA,RW,26-104,73,0,0,0,0,0,0,0,0,25,0,0,0,0.0,0.0,0.0,2,0,16,23,69.6,1,18,1,0,0,Nantes,2018-04-28 Lyon-Nantes,FRA-L1,17-18,2a72f30f
+a1d04509,Yacine Bammou,10,MAR,RW,26-229,17,0,0,0,0,1,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,7,7,100.0,0,5,1,0,0,Nantes,2018-04-28 Lyon-Nantes,FRA-L1,17-18,2a72f30f
+ed45c4a5,Valentin Rongier,28,FRA,AM,23-142,90,0,0,0,0,0,0,0,0,55,3,1,1,0.0,0.0,0.0,2,0,43,50,86.0,4,33,2,3,3,Nantes,2018-04-28 Lyon-Nantes,FRA-L1,17-18,2a72f30f
+ef7cd87a,Abdoulaye Touré,19,GUI,DM,24-056,90,0,0,0,0,2,2,0,0,48,3,3,3,0.1,0.1,0.0,1,0,27,36,75.0,6,23,0,1,1,Nantes,2018-04-28 Lyon-Nantes,FRA-L1,17-18,2a72f30f
+af0c835b,Samuel Moutoussamy,18,COD,DM,21-259,90,0,0,0,0,1,0,0,0,42,3,0,0,0.0,0.0,0.0,4,0,30,37,81.1,12,31,3,1,1,Nantes,2018-04-28 Lyon-Nantes,FRA-L1,17-18,2a72f30f
+0f52f925,Lucas Lima,6,BRA,LB,26-200,90,0,0,0,0,0,0,0,0,93,2,1,1,0.0,0.0,0.1,4,0,51,80,63.8,3,45,2,3,1,Nantes,2018-04-28 Lyon-Nantes,FRA-L1,17-18,2a72f30f
+779847d6,Nicolas Pallois,4,FRA,CB,30-221,90,0,0,0,0,1,1,0,0,42,3,2,1,0.0,0.0,0.1,1,0,16,27,59.3,4,18,0,0,0,Nantes,2018-04-28 Lyon-Nantes,FRA-L1,17-18,2a72f30f
+933d3b51,Koffi Djidji,5,CIV,CB,25-149,90,0,0,0,0,0,0,0,0,24,1,1,4,0.0,0.0,0.0,0,0,10,11,90.9,1,8,0,0,0,Nantes,2018-04-28 Lyon-Nantes,FRA-L1,17-18,2a72f30f
+ff0ab48c,Leo Dubois,15,FRA,RB,23-226,90,0,0,0,0,0,0,0,0,55,0,1,1,0.0,0.0,0.1,3,0,34,48,70.8,3,27,5,1,0,Nantes,2018-04-28 Lyon-Nantes,FRA-L1,17-18,2a72f30f
+b056e3da,Ciprian Tătărușanu,30,ROU,GK,32-078,90,0,0,0,0,0,0,0,0,35,0,0,0,0.0,0.0,0.0,0,0,23,28,82.1,0,9,0,0,0,Nantes,2018-04-28 Lyon-Nantes,FRA-L1,17-18,2a72f30f

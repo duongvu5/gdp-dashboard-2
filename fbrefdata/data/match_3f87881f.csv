@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+c5a500ca,Max Gradel,7,CIV,FW,30-020,90,1,0,1,1,2,0,0,0,55,3,0,1,1.5,0.7,0.1,8,1,24,39,61.5,1,30,1,3,2,Toulouse,2017-12-20 Toulouse-Lyon,FRA-L1,17-18,3f87881f
+d33c706e,Andy Delort,10,ALG,FW,26-072,90,0,0,0,0,4,1,0,0,36,1,1,0,0.4,0.4,0.1,4,0,13,29,44.8,1,16,2,0,0,Toulouse,2017-12-20 Toulouse-Lyon,FRA-L1,17-18,3f87881f
+b99bec05,Issiaga Sylla,12,GUI,LB,23-353,90,0,0,0,0,2,0,0,0,68,5,3,1,0.1,0.1,0.1,5,0,39,54,72.2,5,35,3,1,1,Toulouse,2017-12-20 Toulouse-Lyon,FRA-L1,17-18,3f87881f
+c69ef855,Alexis Blin,27,FRA,CM,21-095,66,0,0,0,0,1,0,0,0,36,1,1,0,0.1,0.1,0.0,1,0,22,28,78.6,2,19,0,0,0,Toulouse,2017-12-20 Toulouse-Lyon,FRA-L1,17-18,3f87881f
+bced0375,Ibrahim Sangaré,17,CIV,CM,20-018,24,0,0,0,0,0,0,1,0,19,0,1,0,0.0,0.0,0.0,0,0,11,18,61.1,1,8,1,0,0,Toulouse,2017-12-20 Toulouse-Lyon,FRA-L1,17-18,3f87881f
+b86fe156,Giannelli Imbula,25,COD,CM,25-099,90,0,0,0,0,0,0,1,0,67,2,1,0,0.0,0.0,0.0,3,0,51,58,87.9,8,46,3,6,4,Toulouse,2017-12-20 Toulouse-Lyon,FRA-L1,17-18,3f87881f
+c1febb46,Somália,19,BRA,RM,29-083,77,0,0,0,0,2,1,0,0,30,1,1,0,0.1,0.1,0.1,4,0,19,22,86.4,5,18,4,3,1,Toulouse,2017-12-20 Toulouse-Lyon,FRA-L1,17-18,3f87881f
+7d9b37bf,Corentin Jean,8,FRA,RM,22-158,13,0,0,0,0,1,1,0,0,9,0,0,0,0.1,0.1,0.2,2,1,5,8,62.5,1,6,0,0,0,Toulouse,2017-12-20 Toulouse-Lyon,FRA-L1,17-18,3f87881f
+bcc81786,Kelvin Amian,2,FRA,LB,19-315,82,0,0,0,0,0,0,0,0,53,3,0,1,0.0,0.0,0.0,0,0,36,45,80.0,2,21,1,0,0,Toulouse,2017-12-20 Toulouse-Lyon,FRA-L1,17-18,3f87881f
+11ced928,Yaya Sanogo,9,FRA,LM,24-327,8,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,0,3,0.0,0,0,0,0,0,Toulouse,2017-12-20 Toulouse-Lyon,FRA-L1,17-18,3f87881f
+f323d995,Christopher Jullien,6,FRA,CB,24-273,90,0,0,0,0,3,1,0,0,56,5,1,1,0.4,0.4,0.0,1,0,36,42,85.7,6,26,2,0,0,Toulouse,2017-12-20 Toulouse-Lyon,FRA-L1,17-18,3f87881f
+a712ca2b,Issa Diop,5,FRA,CB,20-345,90,0,0,0,0,1,0,0,0,53,3,2,0,0.1,0.1,0.1,3,0,31,43,72.1,3,29,0,0,0,Toulouse,2017-12-20 Toulouse-Lyon,FRA-L1,17-18,3f87881f
+7f9111ea,Steeve Yago,20,BFA,RB,25-004,90,0,0,0,0,0,0,0,0,52,3,2,0,0.0,0.0,0.0,0,0,29,42,69.0,1,22,2,1,1,Toulouse,2017-12-20 Toulouse-Lyon,FRA-L1,17-18,3f87881f
+4e7db402,Alban Lafont,40,FRA,GK,18-331,90,0,0,0,0,0,0,1,0,36,0,0,0,0.0,0.0,0.0,0,0,23,31,74.2,1,20,0,0,0,Toulouse,2017-12-20 Toulouse-Lyon,FRA-L1,17-18,3f87881f
+5c4dc0ff,Mariano,9,DOM,FW,24-141,86,0,0,0,0,4,2,1,0,24,1,0,0,0.3,0.3,0.0,3,1,11,12,91.7,1,19,5,2,1,Lyon,2017-12-20 Toulouse-Lyon,FRA-L1,17-18,3f87881f
+d2110326,Mouctar Diakhaby,5,GUI,CB,21-001,4,0,0,0,0,0,0,0,0,6,0,1,0,0.0,0.0,0.0,0,0,3,3,100.0,1,3,1,1,1,Lyon,2017-12-20 Toulouse-Lyon,FRA-L1,17-18,3f87881f
+8f696594,Memphis,11,NED,LW,23-310,77,0,0,0,0,3,2,0,0,49,0,0,0,0.5,0.5,0.2,6,0,30,38,78.9,7,33,3,4,3,Lyon,2017-12-20 Toulouse-Lyon,FRA-L1,17-18,3f87881f
+9a1f2e1c,Rafael,4,BRA,"CM,LW",27-164,13,1,0,0,0,1,1,0,0,8,1,1,0,0.3,0.3,0.0,0,0,3,4,75.0,1,3,0,0,0,Lyon,2017-12-20 Toulouse-Lyon,FRA-L1,17-18,3f87881f
+bece776f,Nabil Fekir,18,FRA,"RW,FW",24-155,90,1,0,1,1,2,2,0,0,56,2,0,0,0.9,0.1,0.1,4,1,30,38,78.9,4,46,3,6,4,Lyon,2017-12-20 Toulouse-Lyon,FRA-L1,17-18,3f87881f
+a5db0bec,Houssem Aouar,8,ALG,LM,19-173,90,0,0,0,0,1,1,0,0,71,1,3,0,0.1,0.1,0.0,2,0,45,55,81.8,5,47,3,5,3,Lyon,2017-12-20 Toulouse-Lyon,FRA-L1,17-18,3f87881f
+71ec39ef,Lucas Tousart,29,FRA,CM,20-235,90,0,0,0,0,0,0,0,0,69,7,0,2,0.0,0.0,0.1,3,0,46,49,93.9,4,45,1,2,2,Lyon,2017-12-20 Toulouse-Lyon,FRA-L1,17-18,3f87881f
+5cdddffa,Tanguy Ndombele,28,FRA,RM,20-357,61,0,0,0,0,0,0,0,0,42,0,0,0,0.0,0.0,0.0,2,0,32,40,80.0,4,31,1,2,0,Lyon,2017-12-20 Toulouse-Lyon,FRA-L1,17-18,3f87881f
+375622c5,Jordan Ferri,12,FRA,RM,25-283,29,0,1,0,0,1,0,1,0,20,3,0,0,0.0,0.0,0.3,3,1,12,15,80.0,2,13,1,0,0,Lyon,2017-12-20 Toulouse-Lyon,FRA-L1,17-18,3f87881f
+9ae9eaea,Fernando Marçal,20,BRA,LB,28-304,90,0,0,0,0,1,1,0,0,93,3,2,2,0.0,0.0,0.1,2,1,62,70,88.6,4,55,0,1,0,Lyon,2017-12-20 Toulouse-Lyon,FRA-L1,17-18,3f87881f
+e97150c0,Jérémy Morel,15,MAD,CB,33-262,90,0,0,0,0,0,0,0,0,61,0,2,6,0.0,0.0,0.0,0,0,43,49,87.8,1,41,0,0,0,Lyon,2017-12-20 Toulouse-Lyon,FRA-L1,17-18,3f87881f
+e3d0b0c4,Marcelo,6,BRA,CB,30-214,90,0,0,0,0,0,0,0,0,79,2,2,2,0.0,0.0,0.0,0,0,49,57,86.0,3,42,0,0,0,Lyon,2017-12-20 Toulouse-Lyon,FRA-L1,17-18,3f87881f
+77d7c96f,Kenny Tete,23,NED,RB,22-072,90,0,0,0,0,0,0,0,0,59,3,2,1,0.0,0.0,0.1,2,0,40,47,85.1,1,29,3,2,1,Lyon,2017-12-20 Toulouse-Lyon,FRA-L1,17-18,3f87881f
+f00de885,Anthony Lopes,1,POR,GK,27-080,90,0,0,0,0,0,0,0,0,40,0,0,0,0.0,0.0,0.0,0,0,27,36,75.0,0,25,0,0,0,Lyon,2017-12-20 Toulouse-Lyon,FRA-L1,17-18,3f87881f

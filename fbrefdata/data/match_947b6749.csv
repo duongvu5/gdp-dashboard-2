@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+99be8fb5,Anthony Ujah,20,NGA,FW,28-216,55,0,0,0,0,1,0,0,0,19,0,0,1,0.1,0.1,0.7,3,0,11,14,78.6,1,12,3,0,0,Mainz 05,2019-05-18 Mainz 05-Hoffenheim,GER-BL1,18-19,947b6749
+f26834c7,Karim Onisiwo,21,AUT,FW,27-062,35,0,1,0,0,0,0,0,0,20,2,0,1,0.0,0.0,0.5,5,2,11,16,68.8,0,15,4,1,0,Mainz 05,2019-05-18 Mainz 05-Hoffenheim,GER-BL1,18-19,947b6749
+50e6dc35,Jean-Philippe Mateta,9,FRA,FW,21-324,90,1,0,0,0,7,4,0,0,32,0,0,1,1.3,1.3,0.0,4,1,11,16,68.8,0,13,3,2,2,Mainz 05,2019-05-18 Mainz 05-Hoffenheim,GER-BL1,18-19,947b6749
+635f2732,Jean-Paul Boëtius,5,NED,AM,25-057,90,2,0,0,0,4,2,1,0,60,2,0,1,0.2,0.2,0.1,5,0,37,43,86.0,8,30,2,4,0,Mainz 05,2019-05-18 Mainz 05-Hoffenheim,GER-BL1,18-19,947b6749
+33b554b7,Danny Latza,6,GER,LM,29-162,80,0,0,0,0,2,1,0,0,73,1,0,4,0.1,0.1,0.0,4,1,52,62,83.9,14,52,6,2,2,Mainz 05,2019-05-18 Mainz 05-Hoffenheim,GER-BL1,18-19,947b6749
+66385c46,Levin Öztunalı,8,GER,"RM,LM",23-064,10,0,0,0,0,0,0,0,0,6,0,0,1,0.0,0.0,0.0,0,0,4,5,80.0,0,3,1,0,0,Mainz 05,2019-05-18 Mainz 05-Hoffenheim,GER-BL1,18-19,947b6749
+9ceb7642,Pierre Kunde,14,CMR,CM,23-296,55,0,0,0,0,2,1,1,0,35,2,0,0,0.0,0.0,0.1,2,0,30,33,90.9,4,20,1,2,2,Mainz 05,2019-05-18 Mainz 05-Hoffenheim,GER-BL1,18-19,947b6749
+61fc9685,Alexandru Maxim,10,ROU,"CM,LM",28-314,35,0,0,0,0,3,1,0,0,33,2,1,0,0.2,0.2,0.1,3,1,18,25,72.0,4,21,1,0,0,Mainz 05,2019-05-18 Mainz 05-Hoffenheim,GER-BL1,18-19,947b6749
+6bd603db,Jean-Philippe Gbamin,25,CIV,"RM,CM",23-235,90,0,0,0,0,0,0,0,0,69,2,0,2,0.0,0.0,0.0,3,0,51,57,89.5,13,51,4,4,2,Mainz 05,2019-05-18 Mainz 05-Hoffenheim,GER-BL1,18-19,947b6749
+2f3e911a,Aarón Martín,3,ESP,LB,22-026,90,0,0,0,0,1,1,0,0,73,2,0,1,0.1,0.1,0.1,4,0,49,68,72.1,7,43,8,3,2,Mainz 05,2019-05-18 Mainz 05-Hoffenheim,GER-BL1,18-19,947b6749
+00242715,Moussa Niakhate,19,SEN,CB,23-071,90,0,1,0,0,0,0,0,0,56,0,0,3,0.0,0.0,0.1,3,1,47,49,95.9,5,33,3,1,1,Mainz 05,2019-05-18 Mainz 05-Hoffenheim,GER-BL1,18-19,947b6749
+0e0ab524,Niko Bungert,26,GER,CB,32-206,90,0,0,0,0,1,1,0,0,44,1,0,2,0.2,0.2,0.0,0,0,32,33,97.0,1,21,0,0,0,Mainz 05,2019-05-18 Mainz 05-Hoffenheim,GER-BL1,18-19,947b6749
+a7813ac4,Daniel Brosinski,18,GER,RB,30-305,90,1,0,1,1,0,0,0,0,68,0,1,1,0.8,0.0,0.2,2,0,40,56,71.4,5,35,3,1,0,Mainz 05,2019-05-18 Mainz 05-Hoffenheim,GER-BL1,18-19,947b6749
+5c4bf6ba,Robin Zentner,27,GER,GK,24-202,90,0,0,0,0,0,0,0,0,36,0,0,0,0.0,0.0,0.0,0,0,24,30,80.0,0,18,0,0,0,Mainz 05,2019-05-18 Mainz 05-Hoffenheim,GER-BL1,18-19,947b6749
+ff182fdc,Ishak Belfodil,19,ALG,FW,27-126,31,1,0,0,0,2,2,0,0,12,0,0,0,0.6,0.6,0.1,1,0,6,7,85.7,2,6,0,0,0,Hoffenheim,2019-05-18 Mainz 05-Hoffenheim,GER-BL1,18-19,947b6749
+53e07d0b,Ádám Szalai,28,HUN,FW,31-160,59,0,0,0,0,3,0,0,0,27,0,1,0,0.1,0.1,0.0,0,0,12,17,70.6,0,17,2,0,0,Hoffenheim,2019-05-18 Mainz 05-Hoffenheim,GER-BL1,18-19,947b6749
+c17bfb65,Joelinton,34,BRA,"AM,LM",22-277,65,0,0,0,0,0,0,1,0,28,2,0,0,0.0,0.0,0.1,2,0,11,17,64.7,1,13,0,3,0,Hoffenheim,2019-05-18 Mainz 05-Hoffenheim,GER-BL1,18-19,947b6749
+3faa1780,Lukas Rupp,7,GER,"LM,RB",28-130,25,0,0,0,0,0,0,0,0,20,1,0,0,0.0,0.0,0.0,1,0,9,16,56.3,1,9,1,0,0,Hoffenheim,2019-05-18 Mainz 05-Hoffenheim,GER-BL1,18-19,947b6749
+603cb947,Andrej Kramarić,27,CRO,"RM,AM,LM",27-333,90,1,0,0,0,5,2,0,0,47,1,2,3,0.6,0.6,0.0,5,0,21,30,70.0,5,23,2,2,0,Hoffenheim,2019-05-18 Mainz 05-Hoffenheim,GER-BL1,18-19,947b6749
+54b4dc4e,Kerem Demirbay,10,GER,"CM,LM",25-319,90,0,1,0,0,2,0,0,0,69,3,0,2,0.1,0.1,0.1,8,1,46,54,85.2,10,34,4,5,5,Hoffenheim,2019-05-18 Mainz 05-Hoffenheim,GER-BL1,18-19,947b6749
+ffbbc83b,Florian Grillitsch,11,AUT,CM,23-284,90,0,0,0,0,2,1,0,0,54,5,1,1,0.1,0.1,0.1,3,0,36,43,83.7,2,25,2,1,0,Hoffenheim,2019-05-18 Mainz 05-Hoffenheim,GER-BL1,18-19,947b6749
+437f2b00,Christoph Baumgartner,42,AUT,RM,19-290,40,0,0,0,0,1,0,2,1,24,1,0,1,0.0,0.0,0.0,4,3,11,15,73.3,2,17,6,2,1,Hoffenheim,2019-05-18 Mainz 05-Hoffenheim,GER-BL1,18-19,947b6749
+fa274d97,Nico Schulz,16,GER,LB,26-047,90,0,0,0,0,2,0,0,0,62,4,1,0,0.1,0.1,0.5,3,0,37,52,71.2,5,40,4,0,0,Hoffenheim,2019-05-18 Mainz 05-Hoffenheim,GER-BL1,18-19,947b6749
+7aac47fe,Ermin Bičakčić,4,BIH,CB,29-114,90,0,0,0,0,0,0,0,0,35,1,0,0,0.0,0.0,0.0,0,0,22,26,84.6,1,16,1,0,0,Hoffenheim,2019-05-18 Mainz 05-Hoffenheim,GER-BL1,18-19,947b6749
+1d8e9add,Kevin Vogt,22,GER,CB,27-237,90,0,0,0,0,0,0,1,0,45,2,2,1,0.0,0.0,0.0,0,0,28,33,84.8,3,20,0,0,0,Hoffenheim,2019-05-18 Mainz 05-Hoffenheim,GER-BL1,18-19,947b6749
+2b5527c4,Joshua Brenet,2,CUW,RB,25-059,84,0,0,0,0,1,1,0,0,61,5,1,2,0.0,0.0,0.1,5,0,34,43,79.1,3,23,2,0,0,Hoffenheim,2019-05-18 Mainz 05-Hoffenheim,GER-BL1,18-19,947b6749
+c5bdb6e3,Reiss Nelson,9,ENG,RM,19-159,6,0,0,0,0,1,1,0,0,5,1,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,4,1,2,1,Hoffenheim,2019-05-18 Mainz 05-Hoffenheim,GER-BL1,18-19,947b6749
+47064058,Oliver Baumann,1,GER,GK,28-350,90,0,0,0,0,0,0,0,0,43,0,0,0,0.0,0.0,0.0,0,0,30,36,83.3,0,19,0,0,0,Hoffenheim,2019-05-18 Mainz 05-Hoffenheim,GER-BL1,18-19,947b6749

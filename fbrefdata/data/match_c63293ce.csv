@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+c6637acf,Caiuby,30,BRA,FW,29-267,90,0,0,0,0,1,0,0,0,29,1,0,0,0.1,0.1,0.0,0,0,15,23,65.2,2,16,0,1,0,Augsburg,2018-04-07 Augsburg-Bayern Munich,GER-BL1,17-18,c63293ce
+229cd98a,Sergio Córdova,21,VEN,FW,20-241,62,0,0,0,0,1,1,0,0,22,1,0,2,0.3,0.3,0.0,1,0,5,13,38.5,0,14,2,3,1,Augsburg,2018-04-07 Augsburg-Bayern Munich,GER-BL1,17-18,c63293ce
+f972644c,Marco Richter,23,GER,FW,20-134,28,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,6,0,1,0,Augsburg,2018-04-07 Augsburg-Bayern Munich,GER-BL1,17-18,c63293ce
+8e235926,Michael Gregoritsch,11,AUT,AM,23-354,79,0,0,0,0,2,0,1,0,37,2,0,1,0.1,0.1,0.1,4,0,18,29,62.1,2,13,1,1,1,Augsburg,2018-04-07 Augsburg-Bayern Munich,GER-BL1,17-18,c63293ce
+e7d22eae,Jan Morávek,14,CZE,AM,28-157,11,0,0,0,0,0,0,0,0,4,0,1,1,0.0,0.0,0.0,0,0,2,2,100.0,0,3,0,0,0,Augsburg,2018-04-07 Augsburg-Bayern Munich,GER-BL1,17-18,c63293ce
+f261abcb,Daniel Baier,10,GER,CM,33-324,88,0,0,0,0,1,0,1,0,40,0,0,2,0.0,0.0,0.3,3,0,21,33,63.6,3,27,1,0,0,Augsburg,2018-04-07 Augsburg-Bayern Munich,GER-BL1,17-18,c63293ce
+cf01fe3a,Christoph Janker,16,GER,CM,33-052,2,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Augsburg,2018-04-07 Augsburg-Bayern Munich,GER-BL1,17-18,c63293ce
+3c05e082,Koo Ja-cheol,19,KOR,CM,29-039,90,0,0,0,0,1,0,0,0,32,4,0,0,0.3,0.3,0.0,2,0,16,21,76.2,0,14,0,3,1,Augsburg,2018-04-07 Augsburg-Bayern Munich,GER-BL1,17-18,c63293ce
+826e8b63,Philipp Max,31,GER,WB,24-189,90,0,0,0,0,0,0,0,0,28,0,0,1,0.0,0.0,0.0,0,0,17,25,68.0,1,10,0,0,0,Augsburg,2018-04-07 Augsburg-Bayern Munich,GER-BL1,17-18,c63293ce
+088ca1bd,Jonathan Schmid,17,FRA,WB,27-289,90,0,0,0,0,1,0,0,0,29,1,1,1,0.1,0.1,0.1,1,0,17,27,63.0,3,8,0,0,0,Augsburg,2018-04-07 Augsburg-Bayern Munich,GER-BL1,17-18,c63293ce
+080440a4,Martin Hinteregger,36,AUT,CB,25-212,90,0,0,0,0,0,0,0,0,44,4,0,2,0.0,0.0,0.0,0,0,21,33,63.6,3,18,0,1,0,Augsburg,2018-04-07 Augsburg-Bayern Munich,GER-BL1,17-18,c63293ce
+59e4b92e,Rani Khedira,8,GER,CB,24-070,90,0,0,0,0,0,0,1,0,35,4,0,2,0.0,0.0,0.0,0,0,18,23,78.3,0,12,0,0,0,Augsburg,2018-04-07 Augsburg-Bayern Munich,GER-BL1,17-18,c63293ce
+1025db8e,Jeffrey Gouweleeuw,6,NED,CB,26-271,90,0,0,0,0,0,0,0,0,50,0,1,3,0.0,0.0,0.0,0,0,31,41,75.6,3,23,0,0,0,Augsburg,2018-04-07 Augsburg-Bayern Munich,GER-BL1,17-18,c63293ce
+2e7ff968,Marwin Hitz,35,SUI,GK,30-201,90,0,0,0,0,0,0,0,0,31,0,0,0,0.0,0.0,0.0,0,0,17,27,63.0,0,12,0,0,0,Augsburg,2018-04-07 Augsburg-Bayern Munich,GER-BL1,17-18,c63293ce
+61b0b44d,Sandro Wagner,2,GER,FW,30-129,90,1,0,0,0,3,1,0,0,30,1,1,0,0.5,0.5,0.0,0,0,18,24,75.0,2,21,1,0,0,Bayern Munich,2018-04-07 Augsburg-Bayern Munich,GER-BL1,17-18,c63293ce
+433dc9a2,Juan Bernat,14,ESP,LW,25-037,81,0,1,0,0,0,0,0,0,52,2,0,2,0.0,0.0,0.4,3,1,38,42,90.5,4,37,2,5,4,Bayern Munich,2018-04-07 Augsburg-Bayern Munich,GER-BL1,17-18,c63293ce
+f61c7c4e,Franck Ribéry,7,FRA,LW,35-000,9,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,1,1,7,7,100.0,1,6,0,0,0,Bayern Munich,2018-04-07 Augsburg-Bayern Munich,GER-BL1,17-18,c63293ce
+09586899,Arjen Robben,10,NED,RW,34-074,82,1,0,0,0,3,2,0,0,53,0,0,1,0.2,0.2,0.3,4,0,31,40,77.5,6,39,7,9,6,Bayern Munich,2018-04-07 Augsburg-Bayern Munich,GER-BL1,17-18,c63293ce
+3c6089ab,Thomas Müller,25,GER,RW,28-206,8,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,3,6,50.0,0,2,0,0,0,Bayern Munich,2018-04-07 Augsburg-Bayern Munich,GER-BL1,17-18,c63293ce
+652d4c37,Corentin Tolisso,24,FRA,LM,23-247,90,1,0,0,0,3,2,0,0,81,2,0,0,0.6,0.6,0.1,2,1,70,73,95.9,10,51,0,3,0,Bayern Munich,2018-04-07 Augsburg-Bayern Munich,GER-BL1,17-18,c63293ce
+80f36c88,Sebastian Rudy,19,GER,CM,28-038,90,0,1,0,0,0,0,0,0,77,3,1,1,0.0,0.0,0.1,1,1,57,67,85.1,4,38,0,3,0,Bayern Munich,2018-04-07 Augsburg-Bayern Munich,GER-BL1,17-18,c63293ce
+715bf047,James Rodríguez,11,COL,RM,26-269,63,1,1,0,0,1,1,0,0,66,0,1,0,0.4,0.4,0.1,5,1,48,60,80.0,7,43,2,2,1,Bayern Munich,2018-04-07 Augsburg-Bayern Munich,GER-BL1,17-18,c63293ce
+7f97771d,Javi Martínez,8,ESP,RM,29-217,27,0,0,0,0,0,0,0,0,22,0,0,0,0.0,0.0,0.0,0,0,16,20,80.0,2,7,0,0,0,Bayern Munich,2018-04-07 Augsburg-Bayern Munich,GER-BL1,17-18,c63293ce
+d003e213,Rafinha,13,BRA,LB,32-212,90,0,0,0,0,0,0,0,0,96,2,0,0,0.0,0.0,0.1,1,0,81,88,92.0,6,56,0,1,1,Bayern Munich,2018-04-07 Augsburg-Bayern Munich,GER-BL1,17-18,c63293ce
+e33c06cf,Niklas Süle,4,GER,CB,22-216,90,0,0,0,0,0,0,0,0,85,3,1,0,0.0,0.0,0.0,2,1,71,78,91.0,1,39,0,0,0,Bayern Munich,2018-04-07 Augsburg-Bayern Munich,GER-BL1,17-18,c63293ce
+2db2fd7b,Jérôme Boateng,17,GER,CB,29-216,90,0,0,0,0,1,0,1,0,66,2,0,2,0.1,0.1,0.0,0,0,49,57,86.0,2,33,0,1,0,Bayern Munich,2018-04-07 Augsburg-Bayern Munich,GER-BL1,17-18,c63293ce
+49296448,Joshua Kimmich,32,GER,RB,23-058,90,0,1,0,0,1,1,0,0,82,0,0,0,0.1,0.1,0.5,3,2,72,79,91.1,4,52,3,1,1,Bayern Munich,2018-04-07 Augsburg-Bayern Munich,GER-BL1,17-18,c63293ce
+7d3e7da6,Sven Ulreich,26,GER,GK,29-247,90,0,0,0,0,0,0,0,0,51,0,0,0,0.0,0.0,0.0,0,0,34,50,68.0,0,30,0,0,0,Bayern Munich,2018-04-07 Augsburg-Bayern Munich,GER-BL1,17-18,c63293ce

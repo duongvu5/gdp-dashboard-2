@@ -1,0 +1,31 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+9d66fbe3,Roberto Soldado,9,ESP,FW,35-190,81,0,0,0,0,2,0,0,0,17,0,0,0,0.2,0.2,0.3,1,0,8,13,61.5,0,7,0,0,0,Granada,2020-12-03 Granada-PSV Eindhoven,UEL,20-21,be18cc15
+c77a8043,Antonio Puertas,10,ESP,LM,28-286,9,0,0,0,0,0,0,0,0,10,1,0,0,0.0,0.0,0.0,0,0,4,7,57.1,1,9,2,1,0,Granada,2020-12-03 Granada-PSV Eindhoven,UEL,20-21,be18cc15
+ed6ea4d9,Darwin Machís,11,VEN,"LM,RM,RW",27-300,90,0,0,0,0,3,0,1,0,47,0,2,1,0.1,0.1,0.1,7,0,25,34,73.5,6,29,4,7,3,Granada,2020-12-03 Granada-PSV Eindhoven,UEL,20-21,be18cc15
+19c36442,Luis Milla,5,ESP,CM,26-057,75,0,0,0,0,0,0,0,0,40,0,2,1,0.0,0.0,0.3,5,0,27,34,79.4,1,20,0,0,0,Granada,2020-12-03 Granada-PSV Eindhoven,UEL,20-21,be18cc15
+43f71e77,Jorge Molina,23,ESP,"FW,AM",38-225,15,0,0,0,0,0,0,0,0,12,0,1,0,0.0,0.0,0.0,0,0,6,12,50.0,0,3,0,0,0,Granada,2020-12-03 Granada-PSV Eindhoven,UEL,20-21,be18cc15
+5083a734,Yangel Herrera,21,VEN,"CM,DM",22-324,90,0,0,0,0,2,1,0,0,46,3,1,1,0.3,0.3,0.0,3,0,26,35,74.3,9,36,4,2,0,Granada,2020-12-03 Granada-PSV Eindhoven,UEL,20-21,be18cc15
+452c3055,Alberto Soro,26,ESP,RM,21-269,55,0,0,0,0,0,0,0,0,20,1,0,0,0.0,0.0,0.0,0,0,8,13,61.5,1,12,1,1,0,Granada,2020-12-03 Granada-PSV Eindhoven,UEL,20-21,be18cc15
+eeba07f8,Luis Javier Suárez,7,COL,"LM,FW,LW",23-001,35,0,0,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.0,0,0,4,7,57.1,2,10,1,2,0,Granada,2020-12-03 Granada-PSV Eindhoven,UEL,20-21,be18cc15
+b8c1de25,Maxime Gonalons,4,FRA,"DM,CM",31-268,90,0,0,0,0,0,0,0,0,66,3,3,0,0.0,0.0,0.0,0,0,52,58,89.7,8,43,2,0,0,Granada,2020-12-03 Granada-PSV Eindhoven,UEL,20-21,be18cc15
+8d47bb39,Carlos Neva,15,ESP,LB,24-174,90,0,0,0,0,0,0,0,0,72,1,2,3,0.0,0.0,0.0,0,0,41,61,67.2,9,35,1,1,1,Granada,2020-12-03 Granada-PSV Eindhoven,UEL,20-21,be18cc15
+93090f69,Domingos Duarte,22,POR,CB,25-268,90,0,0,0,0,3,1,1,0,59,1,0,0,0.2,0.2,0.0,0,0,47,54,87.0,4,46,1,1,1,Granada,2020-12-03 Granada-PSV Eindhoven,UEL,20-21,be18cc15
+ea9b2ef9,Germán Sánchez,6,ESP,CB,33-357,55,0,0,0,0,1,0,1,0,27,1,0,0,0.1,0.1,0.0,0,0,19,22,86.4,2,16,1,0,0,Granada,2020-12-03 Granada-PSV Eindhoven,UEL,20-21,be18cc15
+45e17712,Dimitri Foulquier,2,FRA,RB,27-255,35,0,0,0,0,0,0,0,0,28,1,0,0,0.0,0.0,0.1,2,0,17,23,73.9,2,18,1,1,0,Granada,2020-12-03 Granada-PSV Eindhoven,UEL,20-21,be18cc15
+c2111b45,Jesús Vallejo,20,ESP,"RB,CB",23-333,90,0,0,0,0,0,0,0,0,56,2,1,1,0.0,0.0,0.1,2,0,36,45,80.0,4,35,1,0,0,Granada,2020-12-03 Granada-PSV Eindhoven,UEL,20-21,be18cc15
+ea83bfa6,Rui Silva,1,POR,GK,26-300,90,0,0,0,0,0,0,0,0,35,0,0,0,0.0,0.0,0.0,0,0,26,32,81.3,0,16,0,0,0,Granada,2020-12-03 Granada-PSV Eindhoven,UEL,20-21,be18cc15
+116c35df,Donyell Malen,9,NED,"FW,LW",21-329,90,1,0,0,0,3,1,0,0,39,0,0,1,1.0,1.0,0.0,0,0,25,29,86.2,7,19,3,1,1,PSV Eindhoven,2020-12-03 Granada-PSV Eindhoven,UEL,20-21,be18cc15
+bf34eebd,Noni Madueke,23,ENG,FW,18-268,37,0,0,0,0,0,0,0,0,14,0,0,1,0.0,0.0,0.0,0,0,8,10,80.0,3,7,0,0,0,PSV Eindhoven,2020-12-03 Granada-PSV Eindhoven,UEL,20-21,be18cc15
+86b575a7,Eran Zahavi,7,ISR,FW,33-131,50,0,0,0,0,1,1,0,0,26,1,0,1,0.1,0.1,0.0,1,0,17,21,81.0,3,6,1,1,0,PSV Eindhoven,2020-12-03 Granada-PSV Eindhoven,UEL,20-21,be18cc15
+28eea0fc,Jorrit Hendrix,8,NED,AM,25-301,3,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,1,0,0,0,PSV Eindhoven,2020-12-03 Granada-PSV Eindhoven,UEL,20-21,be18cc15
+1971591f,Cody Gakpo,19,NED,"LM,RM,RW",21-210,90,0,0,0,0,1,1,0,0,46,3,1,2,0.0,0.0,0.3,1,0,20,30,66.7,4,16,6,9,5,PSV Eindhoven,2020-12-03 Granada-PSV Eindhoven,UEL,20-21,be18cc15
+bced0375,Ibrahim Sangaré,6,CIV,"CM,DM",23-001,90,0,0,0,0,0,0,1,0,67,4,0,1,0.0,0.0,0.0,0,0,42,49,85.7,5,28,1,4,1,PSV Eindhoven,2020-12-03 Granada-PSV Eindhoven,UEL,20-21,be18cc15
+1a6b7ea4,Pablo Rosario,18,NED,"CM,DM",23-331,90,0,0,0,0,0,0,0,0,56,2,2,1,0.0,0.0,0.0,1,0,41,47,87.2,4,23,0,0,0,PSV Eindhoven,2020-12-03 Granada-PSV Eindhoven,UEL,20-21,be18cc15
+9efa1d25,Mario Götze,27,GER,"RM,LM,AM,FW",28-183,90,0,0,0,0,0,0,1,0,66,0,1,1,0.0,0.0,0.3,6,0,38,55,69.1,4,33,4,5,3,PSV Eindhoven,2020-12-03 Granada-PSV Eindhoven,UEL,20-21,be18cc15
+826e8b63,Philipp Max,31,GER,LB,27-064,90,0,1,0,0,1,1,0,0,48,3,0,1,0.1,0.1,0.6,3,1,30,44,68.2,1,16,0,0,0,PSV Eindhoven,2020-12-03 Granada-PSV Eindhoven,UEL,20-21,be18cc15
+403f5d20,Olivier Boscagli,28,FRA,CB,23-015,90,0,0,0,0,0,0,0,0,57,0,1,0,0.0,0.0,0.0,1,1,35,47,74.5,6,31,0,0,0,PSV Eindhoven,2020-12-03 Granada-PSV Eindhoven,UEL,20-21,be18cc15
+82e9b1bb,Jordan Teze,33,NED,"CB,RB",21-064,90,0,0,0,0,0,0,0,0,65,3,0,2,0.0,0.0,0.0,0,0,47,52,90.4,3,25,1,1,1,PSV Eindhoven,2020-12-03 Granada-PSV Eindhoven,UEL,20-21,be18cc15
+481c9ece,Denzel Dumfries,22,NED,RB,24-229,70,0,0,0,0,1,1,0,0,55,1,1,1,0.1,0.1,0.0,1,0,38,50,76.0,1,17,2,0,0,PSV Eindhoven,2020-12-03 Granada-PSV Eindhoven,UEL,20-21,be18cc15
+bd7d2e6d,Timo Baumgartl,5,GER,CB,24-274,20,0,0,0,0,0,0,0,0,5,1,1,0,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,0,0,PSV Eindhoven,2020-12-03 Granada-PSV Eindhoven,UEL,20-21,be18cc15
+dc29b608,Yvon Mvogo,38,SUI,GK,26-180,90,0,0,0,0,0,0,0,0,35,0,0,0,0.0,0.0,0.0,0,0,21,34,61.8,0,17,0,0,0,PSV Eindhoven,2020-12-03 Granada-PSV Eindhoven,UEL,20-21,be18cc15

@@ -1,0 +1,32 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+ed79b7d3,Ermedin Demirović,11,BIH,FW,22-270,59,1,0,0,0,1,1,0,0,21,1,0,0,0.1,0.1,0.4,3,0,8,12,66.7,2,13,1,3,0,Freiburg,2020-12-20 Freiburg-Hertha BSC,GER-BL1,20-21,90e639ca
+ca618d23,Lucas Höler,9,GER,FW,26-163,31,0,0,0,0,3,0,0,0,22,1,0,0,0.9,0.9,0.1,4,2,8,14,57.1,1,16,1,0,0,Freiburg,2020-12-20 Freiburg-Hertha BSC,GER-BL1,20-21,90e639ca
+54e4866f,Vincenzo Grifo,32,ITA,AM,27-257,79,1,1,0,0,3,3,0,0,49,2,1,0,0.7,0.7,0.2,4,1,28,41,68.3,5,27,2,1,0,Freiburg,2020-12-20 Freiburg-Hertha BSC,GER-BL1,20-21,90e639ca
+f93e6e94,Nils Petersen,18,GER,AM,32-014,11,1,0,1,1,0,0,0,0,6,1,0,1,0.8,0.0,0.0,0,0,1,2,50.0,1,2,0,0,0,Freiburg,2020-12-20 Freiburg-Hertha BSC,GER-BL1,20-21,90e639ca
+bf075f6b,Roland Sallai,22,HUN,AM,23-212,59,0,0,0,0,3,0,0,0,28,2,1,1,0.1,0.1,0.0,1,0,15,19,78.9,3,20,1,0,0,Freiburg,2020-12-20 Freiburg-Hertha BSC,GER-BL1,20-21,90e639ca
+6190474d,Jeong Woo-yeong,29,KOR,AM,21-091,31,0,0,0,0,1,1,0,0,26,2,0,0,0.0,0.0,0.2,4,0,18,22,81.8,3,15,0,1,1,Freiburg,2020-12-20 Freiburg-Hertha BSC,GER-BL1,20-21,90e639ca
+5d8e331f,Nicolas Höfler,27,GER,CM,30-286,90,0,0,0,0,0,0,0,0,36,3,2,1,0.0,0.0,0.0,0,0,20,24,83.3,4,12,0,2,0,Freiburg,2020-12-20 Freiburg-Hertha BSC,GER-BL1,20-21,90e639ca
+5e22e2a4,Baptiste Santamaria,8,FRA,CM,25-286,89,0,0,0,0,2,1,0,0,52,5,2,2,0.0,0.0,0.0,1,0,21,37,56.8,5,26,1,1,1,Freiburg,2020-12-20 Freiburg-Hertha BSC,GER-BL1,20-21,90e639ca
+1c08a3c8,Amir Abrashi,6,ALB,CM,30-268,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Freiburg,2020-12-20 Freiburg-Hertha BSC,GER-BL1,20-21,90e639ca
+8593f88c,Christian Günter,30,GER,WB,27-296,90,0,0,0,0,0,0,0,0,52,2,0,0,0.0,0.0,0.7,5,0,38,49,77.6,2,21,0,1,1,Freiburg,2020-12-20 Freiburg-Hertha BSC,GER-BL1,20-21,90e639ca
+088ca1bd,Jonathan Schmid,7,FRA,WB,30-181,90,0,1,0,0,0,0,0,0,73,2,3,2,0.0,0.0,0.3,4,2,46,63,73.0,4,25,2,1,0,Freiburg,2020-12-20 Freiburg-Hertha BSC,GER-BL1,20-21,90e639ca
+25ab9c9c,Manuel Gulde,5,GER,CB,29-312,90,1,0,0,0,2,2,0,0,32,1,0,0,0.1,0.1,0.0,1,0,18,23,78.3,1,20,0,1,0,Freiburg,2020-12-20 Freiburg-Hertha BSC,GER-BL1,20-21,90e639ca
+f6bdc830,Keven Schlotterbeck,31,GER,CB,23-236,90,0,0,0,0,0,0,0,0,40,1,3,1,0.0,0.0,0.0,0,0,17,29,58.6,2,11,0,1,1,Freiburg,2020-12-20 Freiburg-Hertha BSC,GER-BL1,20-21,90e639ca
+302527b2,Philipp Lienhart,3,AUT,CB,24-162,90,0,0,0,0,1,0,0,0,31,1,0,0,0.1,0.1,0.0,0,0,21,27,77.8,1,16,1,0,0,Freiburg,2020-12-20 Freiburg-Hertha BSC,GER-BL1,20-21,90e639ca
+cbac6ec9,Florian Müller,21,GER,GK,23-037,90,0,0,0,0,0,0,0,0,42,0,0,0,0.0,0.0,0.0,1,1,16,41,39.0,0,19,0,0,0,Freiburg,2020-12-20 Freiburg-Hertha BSC,GER-BL1,20-21,90e639ca
+17f3620a,Krzysztof Piątek,9,POL,FW,25-172,85,0,0,0,0,2,1,0,0,26,1,0,1,0.6,0.6,0.0,0,0,11,19,57.9,0,11,0,0,0,Hertha BSC,2020-12-20 Freiburg-Hertha BSC,GER-BL1,20-21,90e639ca
+16b4260e,Daishawn Redan,33,NED,FW,19-322,5,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,1,0,0,0,0,Hertha BSC,2020-12-20 Freiburg-Hertha BSC,GER-BL1,20-21,90e639ca
+dc62b55d,Matheus Cunha,10,BRA,LW,21-207,45,0,0,0,0,0,0,0,0,19,0,1,0,0.0,0.0,0.0,0,0,9,10,90.0,3,14,0,3,1,Hertha BSC,2020-12-20 Freiburg-Hertha BSC,GER-BL1,20-21,90e639ca
+34a0f5ff,Javairô Dilrosun,16,NED,LW,22-181,45,0,0,0,0,1,0,0,0,22,0,0,0,0.1,0.1,0.0,1,0,11,18,61.1,2,16,5,2,2,Hertha BSC,2020-12-20 Freiburg-Hertha BSC,GER-BL1,20-21,90e639ca
+0c61c77c,Dodi Lukebakio,11,BEL,RW,23-087,90,1,0,0,0,1,1,0,0,33,1,0,1,0.8,0.8,0.2,2,0,20,27,74.1,1,25,2,3,1,Hertha BSC,2020-12-20 Freiburg-Hertha BSC,GER-BL1,20-21,90e639ca
+5ea8ef20,Mattéo Guendouzi,8,FRA,LM,21-250,90,0,0,0,0,0,0,0,0,70,0,1,1,0.0,0.0,0.1,2,0,58,62,93.5,6,56,0,3,2,Hertha BSC,2020-12-20 Freiburg-Hertha BSC,GER-BL1,20-21,90e639ca
+aad48be9,Niklas Stark,5,GER,CM,25-250,90,0,0,0,0,1,0,0,0,60,4,0,2,0.3,0.3,0.0,1,0,33,49,67.3,5,32,0,0,0,Hertha BSC,2020-12-20 Freiburg-Hertha BSC,GER-BL1,20-21,90e639ca
+3eb0f2df,Vladimír Darida,6,CZE,RM,30-134,90,0,0,0,0,2,1,0,0,68,2,1,2,0.1,0.1,0.6,6,1,46,55,83.6,7,42,2,1,1,Hertha BSC,2020-12-20 Freiburg-Hertha BSC,GER-BL1,20-21,90e639ca
+88d4144a,Maximilian Mittelstädt,17,GER,LB,23-277,90,0,0,0,0,1,0,0,0,85,5,6,4,0.1,0.1,0.0,2,0,49,62,79.0,6,34,1,2,1,Hertha BSC,2020-12-20 Freiburg-Hertha BSC,GER-BL1,20-21,90e639ca
+f86cabbd,Jordan Torunarigha,25,GER,CB,23-135,90,0,0,0,0,1,0,0,0,84,0,1,1,0.1,0.1,0.0,0,0,63,75,84.0,2,60,0,0,0,Hertha BSC,2020-12-20 Freiburg-Hertha BSC,GER-BL1,20-21,90e639ca
+7c473e12,Dedryck Boyata,20,BEL,CB,30-022,74,0,0,0,0,0,0,0,0,64,4,0,0,0.0,0.0,0.0,1,1,48,55,87.3,8,48,0,0,0,Hertha BSC,2020-12-20 Freiburg-Hertha BSC,GER-BL1,20-21,90e639ca
+bc249af8,Jessic Ngankam,27,GER,CB,20-153,16,0,0,0,0,0,0,0,0,4,1,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,2,0,0,0,Hertha BSC,2020-12-20 Freiburg-Hertha BSC,GER-BL1,20-21,90e639ca
+c18d22f5,Peter Pekarík,2,SVK,RB,34-051,73,0,0,0,0,0,0,0,0,52,1,1,3,0.0,0.0,0.0,1,0,35,44,79.5,6,29,2,0,0,Hertha BSC,2020-12-20 Freiburg-Hertha BSC,GER-BL1,20-21,90e639ca
+58a2e9f6,Deyovaisio Zeefuik,42,NED,RB,22-284,17,0,0,0,0,0,0,0,0,18,0,0,1,0.0,0.0,0.0,1,0,11,14,78.6,1,12,0,1,0,Hertha BSC,2020-12-20 Freiburg-Hertha BSC,GER-BL1,20-21,90e639ca
+0d55d942,Alexander Schwolow,1,GER,GK,28-201,90,0,0,0,0,0,0,0,0,48,0,0,0,0.0,0.0,0.0,0,0,36,42,85.7,0,27,0,0,0,Hertha BSC,2020-12-20 Freiburg-Hertha BSC,GER-BL1,20-21,90e639ca

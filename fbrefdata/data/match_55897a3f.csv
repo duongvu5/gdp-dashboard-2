@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+9dbb75ca,Alexandre Lacazette,10,FRA,FW,31-155,86,1,0,0,0,2,1,0,0,34,1,0,1,1.1,1.1,0.1,1,0,17,25,68.0,1,26,3,3,1,Lyon,2022-10-30 Lyon-Lille,FRA-L1,22-23,55897a3f
+b34c63a5,Rayan Cherki,18,FRA,FW,19-074,4,0,0,0,0,0,0,0,0,9,1,0,0,0.0,0.0,0.0,1,0,3,6,50.0,0,6,1,3,2,Lyon,2022-10-30 Lyon-Lille,FRA-L1,22-23,55897a3f
+e7986081,Moussa Dembélé,9,FRA,FW,26-110,65,0,0,0,0,2,1,0,0,24,0,0,0,0.1,0.1,0.0,0,0,11,14,78.6,3,19,2,2,1,Lyon,2022-10-30 Lyon-Lille,FRA-L1,22-23,55897a3f
+5ceba7fc,Karl Toko Ekambi,7,CMR,FW,30-046,25,0,0,0,0,1,1,0,0,11,0,0,0,0.4,0.4,0.0,0,0,8,8,100.0,2,10,1,0,0,Lyon,2022-10-30 Lyon-Lille,FRA-L1,22-23,55897a3f
+a5db0bec,Houssem Aouar,8,ALG,"CM,LM",24-122,65,0,0,0,0,0,0,0,0,51,3,0,3,0.0,0.0,0.0,1,0,32,40,80.0,7,42,4,5,2,Lyon,2022-10-30 Lyon-Lille,FRA-L1,22-23,55897a3f
+d504b3e1,Jeff Reine-Adélaïde,22,FRA,LM,24-286,25,0,0,0,0,0,0,0,0,18,1,1,0,0.0,0.0,0.4,2,1,13,15,86.7,3,17,2,2,2,Lyon,2022-10-30 Lyon-Lille,FRA-L1,22-23,55897a3f
+c6e5d20f,Thiago Mendes,23,BRA,CM,30-229,90,0,0,0,0,1,0,0,0,55,5,3,1,0.1,0.1,0.0,1,0,39,43,90.7,2,31,0,1,1,Lyon,2022-10-30 Lyon-Lille,FRA-L1,22-23,55897a3f
+f81ef10d,Maxence Caqueret,6,FRA,"CM,RM",22-257,71,0,0,0,0,0,0,0,0,42,3,1,1,0.0,0.0,0.0,1,0,26,34,76.5,5,32,1,3,1,Lyon,2022-10-30 Lyon-Lille,FRA-L1,22-23,55897a3f
+745ca0a3,Romain Faivre,15,FRA,RM,24-108,19,0,0,0,0,0,0,0,0,17,1,0,0,0.0,0.0,0.0,0,0,8,13,61.5,1,13,0,3,0,Lyon,2022-10-30 Lyon-Lille,FRA-L1,22-23,55897a3f
+f0661424,Nicolás Tagliafico,3,ARG,"LB,WB",30-060,90,0,1,0,0,0,0,0,0,67,6,5,1,0.0,0.0,1.0,2,1,43,52,82.7,2,40,0,1,1,Lyon,2022-10-30 Lyon-Lille,FRA-L1,22-23,55897a3f
+d56b9520,Malo Gusto,27,FRA,"RB,WB",19-164,90,0,0,0,0,0,0,0,0,63,1,1,1,0.0,0.0,0.1,1,0,35,50,70.0,2,40,4,4,0,Lyon,2022-10-30 Lyon-Lille,FRA-L1,22-23,55897a3f
+5b9512c5,Castello Lukeba,4,FRA,CB,19-317,90,0,0,0,0,0,0,1,0,68,2,4,2,0.0,0.0,0.0,0,0,46,57,80.7,3,49,0,0,0,Lyon,2022-10-30 Lyon-Lille,FRA-L1,22-23,55897a3f
+2db2fd7b,Jérôme Boateng,17,GER,CB,34-057,90,0,0,0,0,0,0,0,0,43,0,1,2,0.0,0.0,0.0,0,0,31,37,83.8,3,30,0,0,0,Lyon,2022-10-30 Lyon-Lille,FRA-L1,22-23,55897a3f
+1ec7e1c5,Damien Da Silva,21,FRA,CB,34-166,45,0,0,0,0,0,0,1,0,27,1,1,0,0.0,0.0,0.0,0,0,17,20,85.0,0,17,0,0,0,Lyon,2022-10-30 Lyon-Lille,FRA-L1,22-23,55897a3f
+1e52971c,Johann Lepenant,24,FRA,CM,20-008,45,0,0,0,0,0,0,1,0,33,2,3,0,0.0,0.0,0.0,0,0,20,26,76.9,1,23,0,1,0,Lyon,2022-10-30 Lyon-Lille,FRA-L1,22-23,55897a3f
+f00de885,Anthony Lopes,1,POR,GK,32-029,90,0,0,0,0,0,0,0,0,37,0,0,0,0.0,0.0,0.0,0,0,22,34,64.7,0,28,0,0,0,Lyon,2022-10-30 Lyon-Lille,FRA-L1,22-23,55897a3f
+ce50fd99,Jonathan David,9,CAN,FW,22-289,90,0,0,0,0,5,3,1,0,32,0,0,0,0.5,0.5,0.1,2,0,18,23,78.3,3,22,3,0,0,Lille,2022-10-30 Lyon-Lille,FRA-L1,22-23,55897a3f
+148e136f,Rémy Cabella,10,FRA,"LW,AM,CM",32-236,90,0,0,0,0,1,1,0,0,88,2,1,2,0.1,0.1,0.4,8,0,60,73,82.2,11,63,3,3,0,Lille,2022-10-30 Lyon-Lille,FRA-L1,22-23,55897a3f
+8eec784d,Timothy Weah,22,USA,RW,22-250,69,0,0,0,0,1,0,0,0,29,0,0,1,0.1,0.1,0.0,0,0,15,24,62.5,0,24,3,0,0,Lille,2022-10-30 Lyon-Lille,FRA-L1,22-23,55897a3f
+ed90babd,Adam Ounas,11,ALG,"RW,RM",25-353,21,0,0,0,0,1,0,0,0,18,1,0,2,0.1,0.1,0.0,1,0,4,11,36.4,0,12,4,6,1,Lille,2022-10-30 Lyon-Lille,FRA-L1,22-23,55897a3f
+645a3363,Angel Gomes,20,ENG,AM,22-060,69,0,0,0,0,3,1,0,0,38,1,0,0,0.3,0.3,0.0,1,0,24,29,82.8,5,34,0,3,1,Lille,2022-10-30 Lyon-Lille,FRA-L1,22-23,55897a3f
+b2bd0f6c,Jonathan Bamba,7,CIV,"LW,LM",26-218,21,0,0,0,0,0,0,0,0,23,0,0,0,0.0,0.0,0.1,3,0,18,20,90.0,2,23,1,2,1,Lille,2022-10-30 Lyon-Lille,FRA-L1,22-23,55897a3f
+1961b2aa,André Gomes,28,POR,DM,29-092,85,0,0,0,0,1,0,0,0,74,4,1,1,0.0,0.0,0.2,3,0,54,62,87.1,8,57,0,0,0,Lille,2022-10-30 Lyon-Lille,FRA-L1,22-23,55897a3f
+01870104,Mohamed Lamine Bayo,27,GUI,FW,24-148,5,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,0,0,Lille,2022-10-30 Lyon-Lille,FRA-L1,22-23,55897a3f
+ef9c1c95,Benjamin André,21,FRA,"DM,CM",32-088,90,0,0,0,0,1,0,0,0,79,7,1,3,0.1,0.1,0.0,4,0,48,61,78.7,8,50,1,1,1,Lille,2022-10-30 Lyon-Lille,FRA-L1,22-23,55897a3f
+cf182add,Ismaily,31,BRA,LB,32-292,45,0,0,0,0,0,0,0,0,38,2,1,0,0.0,0.0,0.0,0,0,24,33,72.7,1,29,0,0,0,Lille,2022-10-30 Lyon-Lille,FRA-L1,22-23,55897a3f
+102c9665,Alexsandro Ribeiro,4,BRA,CB,23-082,45,0,0,0,0,1,0,0,0,29,3,0,0,0.3,0.3,0.0,0,0,23,25,92.0,2,22,1,0,0,Lille,2022-10-30 Lyon-Lille,FRA-L1,22-23,55897a3f
+b2336681,Tiago Djaló,3,POR,"CB,RB",22-204,85,0,0,0,0,1,0,0,0,70,2,2,0,0.0,0.0,0.0,0,0,54,63,85.7,1,48,1,0,0,Lille,2022-10-30 Lyon-Lille,FRA-L1,22-23,55897a3f
+0ff630d0,Akim Zedadka,13,ALG,RB,27-153,5,0,0,0,0,0,0,0,0,8,1,0,0,0.0,0.0,0.0,0,0,6,7,85.7,0,7,0,0,0,Lille,2022-10-30 Lyon-Lille,FRA-L1,22-23,55897a3f
+90f87966,José Fonte,6,POR,CB,38-312,90,0,0,0,0,0,0,0,0,68,2,1,4,0.0,0.0,0.0,0,0,51,56,91.1,2,41,0,0,0,Lille,2022-10-30 Lyon-Lille,FRA-L1,22-23,55897a3f
+1bfb6fef,Bafodé Diakité,18,FRA,"LB,RB",21-297,90,0,0,0,0,0,0,0,0,78,2,0,0,0.0,0.0,0.2,2,0,59,67,88.1,3,53,2,1,0,Lille,2022-10-30 Lyon-Lille,FRA-L1,22-23,55897a3f
+b3d76d84,Lucas Chevalier,30,FRA,GK,20-358,90,0,0,0,0,0,0,0,0,30,0,0,0,0.0,0.0,0.0,0,0,22,30,73.3,0,26,0,0,0,Lille,2022-10-30 Lyon-Lille,FRA-L1,22-23,55897a3f

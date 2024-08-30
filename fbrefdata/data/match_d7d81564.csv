@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+8a08491a,Gonzalo Higuaín,21,ARG,FW,32-054,66,0,0,0,0,2,1,0,0,28,0,0,0,0.2,0.2,0.0,1,0,23,26,88.5,3,23,0,1,1,Juventus,2020-02-02 Juventus-Fiorentina,ITA-SERIA_A,19-20,d7d81564
+e0921a4f,Paulo Dybala,10,ARG,FW,26-079,24,0,1,0,0,2,0,0,0,29,1,0,0,0.1,0.1,0.5,6,2,18,23,78.3,3,21,6,1,1,Juventus,2020-02-02 Juventus-Fiorentina,ITA-SERIA_A,19-20,d7d81564
+dea698d9,Cristiano Ronaldo,7,POR,LW,34-362,90,2,0,2,2,2,0,0,0,43,0,0,0,1.7,0.1,0.1,5,0,27,30,90.0,2,36,5,6,4,Juventus,2020-02-02 Juventus-Fiorentina,ITA-SERIA_A,19-20,d7d81564
+4fa7cb9b,Douglas Costa,11,BRA,RW,29-141,82,0,0,0,0,0,0,0,0,76,0,1,0,0.0,0.0,0.5,5,0,52,68,76.5,7,53,4,5,4,Juventus,2020-02-02 Juventus-Fiorentina,ITA-SERIA_A,19-20,d7d81564
+ee93c1a9,Federico Bernardeschi,33,ITA,RW,25-351,8,0,0,0,0,0,0,0,0,14,0,0,0,0.0,0.0,0.0,0,0,13,13,100.0,0,10,0,0,0,Juventus,2020-02-02 Juventus-Fiorentina,ITA-SERIA_A,19-20,d7d81564
+8794e251,Adrien Rabiot,25,FRA,LM,24-305,87,0,0,0,0,1,1,0,0,44,1,1,0,0.0,0.0,0.0,0,0,34,38,89.5,2,35,1,5,5,Juventus,2020-02-02 Juventus-Fiorentina,ITA-SERIA_A,19-20,d7d81564
+c0cddebe,Blaise Matuidi,14,FRA,LM,32-299,3,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,5,5,100.0,0,4,0,0,0,Juventus,2020-02-02 Juventus-Fiorentina,ITA-SERIA_A,19-20,d7d81564
+ad6df2d5,Miralem Pjanić,5,BIH,CM,29-306,90,0,0,0,0,1,0,0,0,76,3,1,0,0.0,0.0,0.0,3,1,64,70,91.4,6,46,1,1,0,Juventus,2020-02-02 Juventus-Fiorentina,ITA-SERIA_A,19-20,d7d81564
+3b8674e6,Rodrigo Bentancur,30,URU,RM,22-222,90,0,0,0,0,1,1,0,0,89,2,1,1,0.0,0.0,0.0,4,2,68,74,91.9,3,65,1,7,2,Juventus,2020-02-02 Juventus-Fiorentina,ITA-SERIA_A,19-20,d7d81564
+0d82903c,Alex Sandro,12,BRA,LB,29-007,90,0,0,0,0,0,0,0,0,80,2,2,0,0.0,0.0,0.1,1,0,64,72,88.9,4,57,2,6,4,Juventus,2020-02-02 Juventus-Fiorentina,ITA-SERIA_A,19-20,d7d81564
+52ec54d0,Leonardo Bonucci,19,ITA,CB,32-277,90,0,0,0,0,1,1,1,0,108,4,1,1,0.3,0.3,0.0,0,0,81,91,89.0,6,81,3,2,1,Juventus,2020-02-02 Juventus-Fiorentina,ITA-SERIA_A,19-20,d7d81564
+d6e53a3a,Matthijs de Ligt,4,NED,CB,20-174,90,1,0,0,0,3,2,0,0,91,1,0,0,0.5,0.5,0.0,0,0,79,83,95.2,11,68,0,0,0,Juventus,2020-02-02 Juventus-Fiorentina,ITA-SERIA_A,19-20,d7d81564
+0ab1f153,Juan Cuadrado,16,COL,RB,31-252,90,0,0,0,0,0,0,0,0,123,1,0,0,0.0,0.0,0.0,2,0,102,117,87.2,12,98,6,2,0,Juventus,2020-02-02 Juventus-Fiorentina,ITA-SERIA_A,19-20,d7d81564
+01b8a2b2,Wojciech Szczęsny,1,POL,GK,29-290,90,0,0,0,0,0,0,0,0,31,0,0,0,0.0,0.0,0.0,0,0,24,29,82.8,0,16,0,0,0,Juventus,2020-02-02 Juventus-Fiorentina,ITA-SERIA_A,19-20,d7d81564
+b0f7e36c,Federico Chiesa,25,ITA,"FW,LW,CM",22-100,90,0,0,0,0,3,1,1,0,27,2,0,1,0.6,0.6,0.0,3,0,12,14,85.7,0,13,3,2,1,Fiorentina,2020-02-02 Juventus-Fiorentina,ITA-SERIA_A,19-20,d7d81564
+a4fe8cda,Patrick Cutrone,63,ITA,FW,22-030,72,0,0,0,0,1,0,0,0,20,1,0,1,0.1,0.1,0.0,2,0,7,11,63.6,0,7,0,0,0,Fiorentina,2020-02-02 Juventus-Fiorentina,ITA-SERIA_A,19-20,d7d81564
+94816803,Riccardo Sottil,11,ITA,"RW,WB",20-244,18,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,3,5,60.0,0,6,1,3,2,Fiorentina,2020-02-02 Juventus-Fiorentina,ITA-SERIA_A,19-20,d7d81564
+dc3a9a0d,Rachid Ghezzal,18,ALG,CM,27-269,59,0,0,0,0,0,0,1,0,16,3,0,0,0.0,0.0,0.1,1,0,8,11,72.7,1,8,4,1,1,Fiorentina,2020-02-02 Juventus-Fiorentina,ITA-SERIA_A,19-20,d7d81564
+79443529,Dušan Vlahović,28,SRB,FW,20-005,31,0,0,0,0,0,0,0,0,10,1,0,0,0.0,0.0,0.0,1,0,2,5,40.0,0,3,1,2,1,Fiorentina,2020-02-02 Juventus-Fiorentina,ITA-SERIA_A,19-20,d7d81564
+4611e028,Erick Pulgar,78,CHI,CM,26-018,90,0,0,0,0,1,1,0,0,43,0,2,1,0.0,0.0,0.0,3,0,26,35,74.3,4,17,0,1,0,Fiorentina,2020-02-02 Juventus-Fiorentina,ITA-SERIA_A,19-20,d7d81564
+0000acda,Marco Benassi,24,ITA,CM,25-147,90,0,0,0,0,2,0,0,0,35,1,0,2,0.1,0.1,0.6,2,0,16,25,64.0,3,20,2,2,1,Fiorentina,2020-02-02 Juventus-Fiorentina,ITA-SERIA_A,19-20,d7d81564
+f45f9427,Dalbert Henrique,29,BRA,"WB,LM",26-147,90,0,0,0,0,0,0,0,0,39,6,2,3,0.0,0.0,0.0,1,0,12,21,57.1,4,13,1,2,0,Fiorentina,2020-02-02 Juventus-Fiorentina,ITA-SERIA_A,19-20,d7d81564
+ff800ed8,Pol Lirola,21,ESP,"WB,RM",22-173,88,0,0,0,0,1,1,0,0,42,1,0,0,0.0,0.0,0.0,2,0,21,34,61.8,3,23,3,3,1,Fiorentina,2020-02-02 Juventus-Fiorentina,ITA-SERIA_A,19-20,d7d81564
+46fa7204,Kevin Agudelo,19,COL,CM,21-080,2,0,0,0,0,0,0,0,0,2,1,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,0,0,0,0,Fiorentina,2020-02-02 Juventus-Fiorentina,ITA-SERIA_A,19-20,d7d81564
+a4e85758,Igor,3,BRA,CB,21-360,90,0,0,0,0,0,0,0,0,39,5,0,1,0.0,0.0,0.0,0,0,24,30,80.0,2,23,0,1,1,Fiorentina,2020-02-02 Juventus-Fiorentina,ITA-SERIA_A,19-20,d7d81564
+8c725b43,Germán Pezzella,20,ARG,CB,28-220,90,0,0,0,0,1,0,1,0,36,1,3,2,0.1,0.1,0.0,1,0,14,19,73.7,0,14,0,0,0,Fiorentina,2020-02-02 Juventus-Fiorentina,ITA-SERIA_A,19-20,d7d81564
+d9624b51,Federico Ceccherini,17,ITA,CB,27-267,90,0,0,0,0,0,0,1,0,27,2,0,0,0.0,0.0,0.0,0,0,15,21,71.4,1,11,1,0,0,Fiorentina,2020-02-02 Juventus-Fiorentina,ITA-SERIA_A,19-20,d7d81564
+085e71a7,Bartłomiej Drągowski,69,POL,GK,22-167,90,0,0,0,0,0,0,0,0,32,0,0,0,0.0,0.0,0.0,0,0,18,27,66.7,0,17,0,0,0,Fiorentina,2020-02-02 Juventus-Fiorentina,ITA-SERIA_A,19-20,d7d81564

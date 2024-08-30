@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+d520120b,Júlio Tavares,11,CPV,FW,29-068,90,1,0,0,0,3,1,0,0,43,0,2,0,0.9,0.9,0.1,3,0,18,32,56.3,0,24,1,1,1,Dijon,2018-01-26 Dijon-Rennes,FRA-L1,17-18,4b9d2ad5
+2e0367a6,Naïm Sliti,10,TUN,LW,25-183,75,0,0,0,0,2,1,0,0,41,0,1,0,0.1,0.1,0.1,2,0,16,30,53.3,4,28,2,5,5,Dijon,2018-01-26 Dijon-Rennes,FRA-L1,17-18,4b9d2ad5
+90fcf472,Wesley Saïd,9,FRA,LW,22-282,15,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,1,3,33.3,0,0,0,0,0,Dijon,2018-01-26 Dijon-Rennes,FRA-L1,17-18,4b9d2ad5
+8802c1d5,Frédéric Sammaritano,7,FRA,RW,31-309,66,0,0,0,0,2,0,0,0,44,2,0,0,0.1,0.1,0.0,3,0,26,34,76.5,6,28,4,4,2,Dijon,2018-01-26 Dijon-Rennes,FRA-L1,17-18,4b9d2ad5
+7961f7aa,Kwon Chang-hoon,22,KOR,RW,23-210,24,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,0,0,9,10,90.0,1,8,1,0,0,Dijon,2018-01-26 Dijon-Rennes,FRA-L1,17-18,4b9d2ad5
+4e7bfc23,Florent Balmont,15,FRA,LM,37-358,84,1,1,0,0,2,2,1,0,56,1,0,2,0.2,0.2,0.8,8,3,40,49,81.6,12,43,1,1,1,Dijon,2018-01-26 Dijon-Rennes,FRA-L1,17-18,4b9d2ad5
+0d2158d5,Jordan Marié,14,FRA,LM,26-119,6,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,3,4,75.0,0,3,0,0,0,Dijon,2018-01-26 Dijon-Rennes,FRA-L1,17-18,4b9d2ad5
+a4c3f7af,Mehdi Abeid,8,ALG,CM,25-173,90,0,0,0,0,0,0,1,0,69,3,0,0,0.0,0.0,0.0,0,0,49,59,83.1,1,49,1,1,0,Dijon,2018-01-26 Dijon-Rennes,FRA-L1,17-18,4b9d2ad5
+f3600c02,Xeka,28,POR,RM,23-077,90,0,0,0,0,3,0,0,0,46,0,0,1,0.1,0.1,0.0,2,0,31,35,88.6,3,32,1,3,2,Dijon,2018-01-26 Dijon-Rennes,FRA-L1,17-18,4b9d2ad5
+ec400194,Oussama Haddadi,5,TUN,LB,25-363,90,0,0,0,0,0,0,0,0,59,1,0,1,0.0,0.0,0.1,3,0,43,56,76.8,1,35,5,2,2,Dijon,2018-01-26 Dijon-Rennes,FRA-L1,17-18,4b9d2ad5
+6e5b5a45,Wesley Lautoa,6,NCL,CB,30-154,90,0,0,0,0,1,0,0,0,67,2,3,3,0.1,0.1,0.0,0,0,50,56,89.3,3,42,2,2,2,Dijon,2018-01-26 Dijon-Rennes,FRA-L1,17-18,4b9d2ad5
+1c344204,Cédric Yamberé,18,CTA,CB,27-081,90,0,0,0,0,0,0,0,0,53,1,2,1,0.0,0.0,0.0,0,0,38,45,84.4,6,39,1,0,0,Dijon,2018-01-26 Dijon-Rennes,FRA-L1,17-18,4b9d2ad5
+9b6d9b53,Valentin Rosier,19,FRA,RB,21-160,90,0,1,0,0,0,0,1,0,74,2,1,1,0.0,0.0,0.2,4,1,51,63,81.0,6,38,2,6,4,Dijon,2018-01-26 Dijon-Rennes,FRA-L1,17-18,4b9d2ad5
+bcf1b2e9,Baptiste Reynet,30,FRA,GK,27-090,90,0,0,0,0,0,0,0,0,46,0,0,0,0.0,0.0,0.0,0,0,40,45,88.9,0,25,0,0,0,Dijon,2018-01-26 Dijon-Rennes,FRA-L1,17-18,4b9d2ad5
+2677a1de,Wahbi Khazri,8,TUN,FW,26-352,74,0,0,0,0,3,2,1,0,29,1,0,0,0.3,0.3,0.1,6,0,17,21,81.0,4,18,2,2,2,Rennes,2018-01-26 Dijon-Rennes,FRA-L1,17-18,4b9d2ad5
+51c30111,Sanjin Prcić,10,BIH,DM,24-067,16,0,0,0,0,0,0,0,0,16,0,0,0,0.0,0.0,0.0,0,0,13,15,86.7,2,9,1,0,0,Rennes,2018-01-26 Dijon-Rennes,FRA-L1,17-18,4b9d2ad5
+bfdb33aa,Ismaila Sarr,7,SEN,"LW,FW",19-335,82,1,0,0,0,3,1,0,0,31,1,0,2,0.3,0.3,0.0,0,0,13,19,68.4,2,24,6,4,4,Rennes,2018-01-26 Dijon-Rennes,FRA-L1,17-18,4b9d2ad5
+3e016e5a,Brandon,11,ESP,LW,22-356,8,0,0,0,0,0,0,0,0,11,0,1,1,0.0,0.0,0.0,0,0,5,8,62.5,0,5,1,0,0,Rennes,2018-01-26 Dijon-Rennes,FRA-L1,17-18,4b9d2ad5
+20e73fac,Benjamin Bourigeaud,14,FRA,"RW,RM",24-012,90,0,1,0,0,2,1,0,0,64,0,1,1,0.1,0.1,0.6,5,1,43,52,82.7,7,34,3,1,0,Rennes,2018-01-26 Dijon-Rennes,FRA-L1,17-18,4b9d2ad5
+d14229f3,Adrien Hunou,23,FRA,"AM,LM",24-007,66,0,0,0,0,0,0,0,0,22,1,0,2,0.0,0.0,0.0,1,0,15,17,88.2,1,10,1,0,0,Rennes,2018-01-26 Dijon-Rennes,FRA-L1,17-18,4b9d2ad5
+176674ab,Ndombe Mubele,9,COD,"FW,LW,LM",23-284,24,0,0,0,0,0,0,0,0,4,1,0,0,0.0,0.0,0.0,1,0,2,2,100.0,0,3,0,0,0,Rennes,2018-01-26 Dijon-Rennes,FRA-L1,17-18,4b9d2ad5
+4c700f46,Jérémy Gélin,26,FRA,"DM,CM",20-277,90,0,0,0,0,0,0,0,0,56,3,1,1,0.0,0.0,0.0,1,0,42,50,84.0,8,33,0,0,0,Rennes,2018-01-26 Dijon-Rennes,FRA-L1,17-18,4b9d2ad5
+ef9c1c95,Benjamin André,21,FRA,"DM,CM,AM",27-176,90,0,0,0,0,1,0,1,0,60,1,2,1,0.2,0.2,0.0,2,0,41,50,82.0,5,40,2,2,2,Rennes,2018-01-26 Dijon-Rennes,FRA-L1,17-18,4b9d2ad5
+d3ce9f1f,Ludovic Baal,24,GUF,LB,31-247,90,0,0,0,0,0,0,0,0,78,3,1,0,0.0,0.0,0.0,2,1,50,71,70.4,4,35,2,1,1,Rennes,2018-01-26 Dijon-Rennes,FRA-L1,17-18,4b9d2ad5
+378825c7,Ramy Bensebaini,15,ALG,CB,22-285,90,0,0,0,0,0,0,0,0,61,1,2,4,0.0,0.0,0.0,0,0,41,45,91.1,3,33,0,0,0,Rennes,2018-01-26 Dijon-Rennes,FRA-L1,17-18,4b9d2ad5
+1232e1dc,Joris Gnagnon,5,FRA,CB,21-013,90,0,0,0,0,1,0,0,0,50,1,2,0,0.1,0.1,0.0,0,0,36,42,85.7,2,31,3,1,1,Rennes,2018-01-26 Dijon-Rennes,FRA-L1,17-18,4b9d2ad5
+a4b1028a,Hamari Traoré,27,MLI,RB,25-364,90,0,0,0,0,0,0,0,0,74,1,2,3,0.0,0.0,0.1,1,0,44,56,78.6,6,37,1,1,1,Rennes,2018-01-26 Dijon-Rennes,FRA-L1,17-18,4b9d2ad5
+dc366c36,Tomáš Koubek,40,CZE,GK,25-153,90,0,0,0,0,0,0,0,0,28,0,0,0,0.0,0.0,0.0,0,0,18,27,66.7,0,17,0,0,0,Rennes,2018-01-26 Dijon-Rennes,FRA-L1,17-18,4b9d2ad5

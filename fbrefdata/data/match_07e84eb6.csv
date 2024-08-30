@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+5bd72174,Francesco Caputo,11,ITA,FW,31-195,90,0,0,0,0,1,1,0,0,20,0,0,0,0.1,0.1,0.0,0,0,13,18,72.2,1,14,1,0,0,Empoli,2019-02-17 Empoli-Sassuolo,ITA-SERIA_A,18-19,07e84eb6
+157d29b6,Diego Farias,17,BRA,FW,28-283,67,1,1,0,0,2,1,0,0,22,0,0,0,0.7,0.7,0.3,2,2,13,15,86.7,1,12,1,2,1,Empoli,2019-02-17 Empoli-Sassuolo,ITA-SERIA_A,18-19,07e84eb6
+822a7761,Antonino La Gumina,20,ITA,FW,22-348,23,0,0,0,0,1,0,0,0,8,0,0,0,0.1,0.1,0.0,0,0,3,4,75.0,0,4,0,0,0,Empoli,2019-02-17 Empoli-Sassuolo,ITA-SERIA_A,18-19,07e84eb6
+817c6964,Rade Krunić,33,BIH,CM,25-133,87,1,0,0,0,2,2,0,0,55,1,0,1,0.6,0.6,0.1,3,1,30,42,71.4,9,32,6,3,2,Empoli,2019-02-17 Empoli-Sassuolo,ITA-SERIA_A,18-19,07e84eb6
+fe154b26,Salih Uçan,48,TUR,CM,25-042,3,0,0,0,0,0,0,0,0,3,0,0,1,0.0,0.0,0.0,0,0,0,2,0.0,0,2,1,1,1,Empoli,2019-02-17 Empoli-Sassuolo,ITA-SERIA_A,18-19,07e84eb6
+db092d3b,Ismaël Bennacer,10,ALG,CM,21-078,90,0,2,0,0,0,0,0,0,56,3,0,0,0.0,0.0,1.2,3,2,45,49,91.8,10,28,2,1,0,Empoli,2019-02-17 Empoli-Sassuolo,ITA-SERIA_A,18-19,07e84eb6
+d7403bd5,Afriyie Acquah,18,GHA,CM,27-043,77,1,0,0,0,1,1,0,0,36,1,0,0,0.3,0.3,0.0,1,0,26,31,83.9,4,31,2,1,1,Empoli,2019-02-17 Empoli-Sassuolo,ITA-SERIA_A,18-19,07e84eb6
+d417b306,Matteo Brighi,4,ITA,CM,38-003,13,0,0,0,0,0,0,0,0,6,2,0,0,0.0,0.0,0.1,1,0,2,3,66.7,1,3,0,0,0,Empoli,2019-02-17 Empoli-Sassuolo,ITA-SERIA_A,18-19,07e84eb6
+548902cc,Manuel Pasqual,23,ITA,WB,36-341,90,0,0,0,0,0,0,1,0,62,3,1,0,0.0,0.0,0.0,1,0,35,56,62.5,2,19,1,0,0,Empoli,2019-02-17 Empoli-Sassuolo,ITA-SERIA_A,18-19,07e84eb6
+230a2fac,Giovanni Di Lorenzo,2,ITA,WB,25-197,90,0,0,0,0,0,0,0,0,52,2,0,2,0.0,0.0,0.1,3,1,32,44,72.7,5,26,4,4,2,Empoli,2019-02-17 Empoli-Sassuolo,ITA-SERIA_A,18-19,07e84eb6
+b0243215,Cristian Dell'Orco,39,ITA,CB,25-007,90,0,0,0,0,0,0,0,0,41,3,2,3,0.0,0.0,0.0,0,0,21,28,75.0,1,18,0,0,0,Empoli,2019-02-17 Empoli-Sassuolo,ITA-SERIA_A,18-19,07e84eb6
+b6ca47a2,Matías Silvestre,26,ARG,CB,34-145,90,0,0,0,0,0,0,0,0,23,0,0,0,0.0,0.0,0.0,0,0,14,19,73.7,0,11,0,0,0,Empoli,2019-02-17 Empoli-Sassuolo,ITA-SERIA_A,18-19,07e84eb6
+d541e703,Freddie Veseli,5,ALB,CB,26-089,90,0,0,0,0,0,0,0,0,36,0,3,1,0.0,0.0,0.0,0,0,24,32,75.0,1,14,0,0,0,Empoli,2019-02-17 Empoli-Sassuolo,ITA-SERIA_A,18-19,07e84eb6
+085e71a7,Bartłomiej Drągowski,69,POL,GK,21-182,90,0,0,0,0,0,0,0,0,31,0,0,0,0.0,0.0,0.0,0,0,20,28,71.4,0,15,0,0,0,Empoli,2019-02-17 Empoli-Sassuolo,ITA-SERIA_A,18-19,07e84eb6
+422ec08a,Khouma Babacar,30,SEN,FW,25-337,75,0,0,0,0,4,0,0,0,22,0,0,0,0.4,0.4,0.0,0,0,11,13,84.6,0,9,0,0,0,Sassuolo,2019-02-17 Empoli-Sassuolo,ITA-SERIA_A,18-19,07e84eb6
+58d97e77,Alessandro Matri,10,ITA,FW,34-182,15,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,1,4,0,0,0,Sassuolo,2019-02-17 Empoli-Sassuolo,ITA-SERIA_A,18-19,07e84eb6
+fe012aca,Jeremie Boga,20,CIV,LW,22-045,90,0,0,0,0,0,0,0,0,39,0,0,0,0.0,0.0,0.0,1,0,28,33,84.8,2,39,5,6,4,Sassuolo,2019-02-17 Empoli-Sassuolo,ITA-SERIA_A,18-19,07e84eb6
+d0643f8f,Enrico Brignola,99,ITA,RW,19-224,45,0,0,0,0,0,0,0,0,20,1,0,0,0.0,0.0,0.0,0,0,17,19,89.5,2,16,2,1,0,Sassuolo,2019-02-17 Empoli-Sassuolo,ITA-SERIA_A,18-19,07e84eb6
+53a0e358,Domenico Berardi,25,ITA,RW,24-200,45,0,0,0,0,1,1,1,0,30,0,1,0,0.0,0.0,0.0,1,0,19,25,76.0,2,26,0,1,0,Sassuolo,2019-02-17 Empoli-Sassuolo,ITA-SERIA_A,18-19,07e84eb6
+a8a874f1,Manuel Locatelli,73,ITA,LM,21-040,90,0,0,0,0,3,1,0,0,82,3,0,0,0.4,0.4,0.1,4,0,58,70,82.9,7,54,1,3,2,Sassuolo,2019-02-17 Empoli-Sassuolo,ITA-SERIA_A,18-19,07e84eb6
+b70bde8f,Stefano Sensi,12,ITA,CM,23-196,90,0,0,0,0,0,0,1,0,109,1,4,3,0.0,0.0,0.4,4,0,90,102,88.2,8,75,3,0,0,Sassuolo,2019-02-17 Empoli-Sassuolo,ITA-SERIA_A,18-19,07e84eb6
+528492ea,Alfred Duncan,32,GHA,RM,25-344,45,0,0,0,0,0,0,0,0,30,0,0,0,0.0,0.0,0.0,1,0,19,27,70.4,2,18,2,2,0,Sassuolo,2019-02-17 Empoli-Sassuolo,ITA-SERIA_A,18-19,07e84eb6
+0d077b88,Mehdi Bourabia,68,MAR,RM,27-194,45,0,0,0,0,0,0,1,0,30,0,0,1,0.0,0.0,0.0,0,0,21,28,75.0,3,21,0,0,0,Sassuolo,2019-02-17 Empoli-Sassuolo,ITA-SERIA_A,18-19,07e84eb6
+10e7f486,Rogério,6,BRA,LB,21-035,90,0,0,0,0,0,0,0,0,103,1,1,2,0.0,0.0,0.1,2,0,83,91,91.2,12,68,3,1,0,Sassuolo,2019-02-17 Empoli-Sassuolo,ITA-SERIA_A,18-19,07e84eb6
+4f2908e5,Federico Peluso,13,ITA,CB,35-028,90,0,0,0,0,0,0,0,0,133,2,2,0,0.0,0.0,0.0,1,0,113,121,93.4,11,111,1,0,0,Sassuolo,2019-02-17 Empoli-Sassuolo,ITA-SERIA_A,18-19,07e84eb6
+cce9f582,Giangiacomo Magnani,23,ITA,CB,23-136,90,0,0,0,0,0,0,0,0,104,1,2,0,0.0,0.0,0.0,1,0,86,96,89.6,10,87,8,0,0,Sassuolo,2019-02-17 Empoli-Sassuolo,ITA-SERIA_A,18-19,07e84eb6
+ff800ed8,Pol Lirola,21,ESP,RB,21-188,90,0,0,0,0,0,0,0,0,66,1,0,2,0.0,0.0,0.3,1,0,50,59,84.7,4,44,2,1,1,Sassuolo,2019-02-17 Empoli-Sassuolo,ITA-SERIA_A,18-19,07e84eb6
+8cabdc1e,Andrea Consigli,47,ITA,GK,32-021,90,0,0,0,0,0,0,0,0,33,0,0,0,0.0,0.0,0.0,0,0,31,31,100.0,0,21,0,0,0,Sassuolo,2019-02-17 Empoli-Sassuolo,ITA-SERIA_A,18-19,07e84eb6

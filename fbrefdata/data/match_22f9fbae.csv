@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+e7986081,Moussa Dembélé,9,FRA,FW,25-026,90,0,0,0,0,2,0,0,0,22,0,0,1,0.3,0.3,0.0,1,0,7,11,63.6,0,11,0,0,0,Lyon,2021-08-07 Lyon-Brest,FRA-L1,21-22,22f9fbae
+b34c63a5,Rayan Cherki,18,FRA,LW,17-355,59,0,0,0,0,0,0,0,0,48,0,0,1,0.0,0.0,0.1,5,0,30,40,75.0,2,34,3,4,1,Lyon,2021-08-07 Lyon-Brest,FRA-L1,21-22,22f9fbae
+9b6f7fd5,Lucas Paquetá,10,BRA,LW,23-345,31,0,0,0,0,0,0,0,0,32,2,0,1,0.0,0.0,0.0,3,0,22,28,78.6,4,26,0,2,1,Lyon,2021-08-07 Lyon-Brest,FRA-L1,21-22,22f9fbae
+5ceba7fc,Karl Toko Ekambi,7,CMR,RW,28-327,90,0,1,0,0,2,1,0,0,54,0,0,2,0.2,0.2,0.6,6,1,36,47,76.6,3,38,6,1,1,Lyon,2021-08-07 Lyon-Brest,FRA-L1,21-22,22f9fbae
+a5db0bec,Houssem Aouar,8,ALG,LM,23-038,90,0,0,0,0,4,1,0,0,65,0,0,1,0.3,0.3,0.2,4,0,48,54,88.9,8,54,3,2,1,Lyon,2021-08-07 Lyon-Brest,FRA-L1,21-22,22f9fbae
+c6e5d20f,Thiago Mendes,23,BRA,CM,29-145,59,0,0,0,0,0,0,0,0,42,1,0,0,0.0,0.0,0.0,1,0,32,37,86.5,1,32,0,1,0,Lyon,2021-08-07 Lyon-Brest,FRA-L1,21-22,22f9fbae
+ffec9769,Islam Slimani,20,ALG,CM,33-050,31,1,0,0,0,2,1,1,0,17,0,0,0,0.4,0.4,0.0,1,0,12,14,85.7,1,15,0,0,0,Lyon,2021-08-07 Lyon-Brest,FRA-L1,21-22,22f9fbae
+f81ef10d,Maxence Caqueret,25,FRA,RM,21-173,90,0,0,0,0,1,1,0,0,65,4,2,0,0.1,0.1,0.1,2,0,45,55,81.8,4,49,1,0,0,Lyon,2021-08-07 Lyon-Brest,FRA-L1,21-22,22f9fbae
+ff0ab48c,Leo Dubois,14,FRA,LB,26-327,90,0,0,0,0,1,0,0,0,104,2,0,1,0.0,0.0,0.2,6,1,87,100,87.0,12,68,5,0,0,Lyon,2021-08-07 Lyon-Brest,FRA-L1,21-22,22f9fbae
+5b9512c5,Castello Lukeba,4,FRA,CB,18-233,90,0,0,0,0,0,0,0,0,109,0,1,0,0.0,0.0,0.0,1,0,97,102,95.1,5,97,0,0,0,Lyon,2021-08-07 Lyon-Brest,FRA-L1,21-22,22f9fbae
+e3d0b0c4,Marcelo,6,BRA,CB,34-079,90,0,0,0,0,2,0,0,0,130,2,2,2,0.0,0.0,0.0,0,0,104,116,89.7,7,101,1,0,0,Lyon,2021-08-07 Lyon-Brest,FRA-L1,21-22,22f9fbae
+d56b9520,Malo Gusto,17,FRA,RB,18-080,90,0,0,0,0,3,0,0,0,125,5,1,1,0.1,0.1,0.0,0,0,94,106,88.7,5,93,2,1,0,Lyon,2021-08-07 Lyon-Brest,FRA-L1,21-22,22f9fbae
+f00de885,Anthony Lopes,1,POR,GK,30-310,90,0,0,0,0,0,0,0,0,28,0,1,0,0.0,0.0,0.0,0,0,25,25,100.0,0,18,0,0,0,Lyon,2021-08-07 Lyon-Brest,FRA-L1,21-22,22f9fbae
+19ba6c6d,Steve Mounié,15,BEN,FW,26-312,90,0,0,0,0,4,3,0,0,46,0,0,0,0.3,0.3,0.2,5,0,14,31,45.2,3,24,1,2,0,Brest,2021-08-07 Lyon-Brest,FRA-L1,21-22,22f9fbae
+5e080f73,Irvin Cardona,14,FRA,LW,23-364,63,1,0,0,0,2,2,0,0,24,1,0,2,0.1,0.1,0.0,1,0,12,15,80.0,0,7,1,1,0,Brest,2021-08-07 Lyon-Brest,FRA-L1,21-22,22f9fbae
+88c4d190,Jérémy Le Douaron,26,FRA,LW,23-108,27,0,0,0,0,0,0,0,0,12,0,1,0,0.0,0.0,0.0,0,0,2,4,50.0,0,5,2,2,0,Brest,2021-08-07 Lyon-Brest,FRA-L1,21-22,22f9fbae
+db7849ca,Franck Honorat,9,FRA,RW,24-361,77,0,0,0,0,1,0,0,0,31,1,0,1,0.0,0.0,0.3,4,0,20,24,83.3,1,16,4,0,0,Brest,2021-08-07 Lyon-Brest,FRA-L1,21-22,22f9fbae
+0cbc8baa,Jean-Kevin Duverne,2,HAI,RB,24-026,13,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,5,7,71.4,1,2,1,0,0,Brest,2021-08-07 Lyon-Brest,FRA-L1,21-22,22f9fbae
+745ca0a3,Romain Faivre,21,FRA,AM,23-024,90,0,0,0,0,3,1,0,0,48,0,1,0,0.3,0.3,0.0,3,0,28,37,75.7,7,21,5,1,0,Brest,2021-08-07 Lyon-Brest,FRA-L1,21-22,22f9fbae
+0f86995c,Hianga Mananga Mbock,28,FRA,DM,21-222,90,0,0,0,0,0,0,0,0,28,4,1,0,0.0,0.0,0.0,0,0,19,20,95.0,0,9,0,0,0,Brest,2021-08-07 Lyon-Brest,FRA-L1,21-22,22f9fbae
+2b1bed19,Haris Belkebla,7,ALG,DM,27-191,17,0,0,0,0,0,0,0,0,2,0,1,0,0.0,0.0,0.0,0,0,0,1,0.0,0,1,0,0,0,Brest,2021-08-07 Lyon-Brest,FRA-L1,21-22,22f9fbae
+d4d35152,Hugo Magnetti,27,FRA,DM,23-069,73,0,0,0,0,0,0,1,0,33,4,2,0,0.0,0.0,0.0,0,0,22,27,81.5,3,17,0,0,0,Brest,2021-08-07 Lyon-Brest,FRA-L1,21-22,22f9fbae
+d75f3980,Jere Uronen,20,FIN,LB,27-025,90,0,0,0,0,0,0,0,0,60,3,5,1,0.0,0.0,0.0,0,0,32,46,69.6,1,13,0,0,0,Brest,2021-08-07 Lyon-Brest,FRA-L1,21-22,22f9fbae
+5b146df3,Lilian Brassier,3,FRA,CB,21-278,90,0,0,0,0,1,0,0,0,47,0,2,1,0.0,0.0,0.0,1,0,29,37,78.4,0,23,2,0,0,Brest,2021-08-07 Lyon-Brest,FRA-L1,21-22,22f9fbae
+16aa7d4c,Brendan Chardonnet,5,FRA,CB,26-228,90,0,0,0,0,2,1,0,0,43,0,0,1,0.1,0.1,0.0,2,0,24,34,70.6,0,20,0,0,0,Brest,2021-08-07 Lyon-Brest,FRA-L1,21-22,22f9fbae
+64ba07c0,Ronaël Pierre-Gabriel,18,FRA,RB,23-055,76,0,0,0,0,0,0,0,0,31,2,2,0,0.0,0.0,0.0,1,0,15,18,83.3,0,8,0,2,2,Brest,2021-08-07 Lyon-Brest,FRA-L1,21-22,22f9fbae
+767212e6,Julien Faussurier,22,FRA,RW,34-205,14,0,0,0,0,0,0,0,0,8,1,0,1,0.0,0.0,0.1,1,0,3,5,60.0,1,5,1,1,0,Brest,2021-08-07 Lyon-Brest,FRA-L1,21-22,22f9fbae
+3d214e5f,Marco Bizot,40,NED,GK,30-150,90,0,0,0,0,0,0,0,0,41,0,0,0,0.0,0.0,0.0,1,0,32,39,82.1,0,20,0,0,0,Brest,2021-08-07 Lyon-Brest,FRA-L1,21-22,22f9fbae

@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+4be0b467,Lois Diony,9,FRA,FW,24-242,80,0,0,0,0,3,1,0,0,26,0,0,1,0.1,0.1,0.0,2,2,6,18,33.3,0,19,1,0,0,Saint-Étienne,2017-08-19 Saint-Étienne-Amiens,FRA-L1,17-18,63f60686
+6f5ead86,Hernani,20,BRA,FW,23-145,10,0,0,0,0,1,0,0,0,4,0,0,1,0.1,0.1,0.0,1,0,1,1,100.0,0,2,0,0,0,Saint-Étienne,2017-08-19 Saint-Étienne-Amiens,FRA-L1,17-18,63f60686
+b2bd0f6c,Jonathan Bamba,14,CIV,LW,21-146,90,1,0,1,1,1,0,0,0,38,1,1,0,1.2,0.4,0.1,2,0,18,29,62.1,2,27,2,2,1,Saint-Étienne,2017-08-19 Saint-Étienne-Amiens,FRA-L1,17-18,63f60686
+0b4d8274,Romain Hamouma,21,FRA,RW,30-143,90,0,0,0,0,4,1,0,0,47,2,2,0,0.4,0.4,0.1,5,0,17,28,60.7,1,26,4,2,1,Saint-Étienne,2017-08-19 Saint-Étienne-Amiens,FRA-L1,17-18,63f60686
+7f622eef,Assane Dioussé,8,SEN,LM,19-333,57,0,0,0,0,0,0,0,0,41,1,0,2,0.0,0.0,0.0,1,0,30,36,83.3,4,29,2,0,0,Saint-Étienne,2017-08-19 Saint-Étienne-Amiens,FRA-L1,17-18,63f60686
+e768de1f,Habib Maïga,13,CIV,LM,21-230,33,0,0,0,0,0,0,0,0,18,3,1,1,0.0,0.0,0.0,2,0,6,10,60.0,4,9,0,0,0,Saint-Étienne,2017-08-19 Saint-Étienne-Amiens,FRA-L1,17-18,63f60686
+4db2157a,Ole Selnæs,17,NOR,CM,23-043,90,0,0,0,0,0,0,0,0,65,2,3,3,0.0,0.0,0.3,1,0,42,52,80.8,6,42,1,0,0,Saint-Étienne,2017-08-19 Saint-Étienne-Amiens,FRA-L1,17-18,63f60686
+c53083ad,Bryan Dabo,7,BFA,RM,25-182,90,2,0,1,1,1,1,1,0,62,2,3,0,1.0,0.2,0.1,3,0,41,51,80.4,4,42,2,0,0,Saint-Étienne,2017-08-19 Saint-Étienne-Amiens,FRA-L1,17-18,63f60686
+64ba07c0,Ronaël Pierre-Gabriel,29,FRA,"LB,RB",19-067,90,0,0,0,0,0,0,0,0,59,9,2,0,0.0,0.0,0.1,1,0,38,46,82.6,2,29,2,2,1,Saint-Étienne,2017-08-19 Saint-Étienne-Amiens,FRA-L1,17-18,63f60686
+6b200d45,Loïc Perrin,24,FRA,CB,32-012,90,0,0,0,0,0,0,0,0,63,5,2,1,0.0,0.0,0.0,1,0,43,48,89.6,2,40,0,0,0,Saint-Étienne,2017-08-19 Saint-Étienne-Amiens,FRA-L1,17-18,63f60686
+6b994195,Kévin Théophile-Catherine,2,FRA,CB,27-295,90,0,0,0,0,1,0,0,0,61,0,3,1,0.1,0.1,0.1,2,1,44,54,81.5,6,46,0,0,0,Saint-Étienne,2017-08-19 Saint-Étienne-Amiens,FRA-L1,17-18,63f60686
+689c9cf4,Saidy Janko,15,GAM,RB,21-301,45,0,0,0,0,0,0,1,0,43,1,0,2,0.0,0.0,0.0,0,0,27,35,77.1,2,28,2,2,0,Saint-Étienne,2017-08-19 Saint-Étienne-Amiens,FRA-L1,17-18,63f60686
+4914ed4a,Gabriel Silva,11,BRA,LB,26-098,45,0,0,0,0,0,0,0,0,21,0,1,1,0.0,0.0,0.0,1,0,11,15,73.3,2,11,0,0,0,Saint-Étienne,2017-08-19 Saint-Étienne-Amiens,FRA-L1,17-18,63f60686
+cac76a72,Stéphane Ruffier,16,FRA,GK,30-326,90,0,0,0,0,0,0,0,0,37,0,0,0,0.0,0.0,0.0,0,0,24,36,66.7,0,21,0,0,0,Saint-Étienne,2017-08-19 Saint-Étienne-Amiens,FRA-L1,17-18,63f60686
+fcbcbd94,Moussa Konaté,15,SEN,"FW,LW",24-138,90,0,0,0,0,1,0,0,0,24,0,0,0,0.1,0.1,0.1,3,0,13,18,72.2,2,13,3,0,0,Amiens,2017-08-19 Saint-Étienne-Amiens,FRA-L1,17-18,63f60686
+5b1bf5e3,Gaël Kakuta,14,COD,LM,26-059,65,0,0,0,0,0,0,0,0,36,2,0,1,0.0,0.0,0.1,2,0,17,22,77.3,2,20,3,5,2,Amiens,2017-08-19 Saint-Étienne-Amiens,FRA-L1,17-18,63f60686
+d3b58e33,Seybou Koita,29,NIG,"FW,LM",23-126,25,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,1,0,3,6,50.0,1,5,1,0,0,Amiens,2017-08-19 Saint-Étienne-Amiens,FRA-L1,17-18,63f60686
+84d94b91,Thomas Monconduit,6,FRA,CM,26-190,90,0,0,0,0,1,0,0,0,63,2,2,1,0.0,0.0,0.1,1,0,41,57,71.9,5,28,0,0,0,Amiens,2017-08-19 Saint-Étienne-Amiens,FRA-L1,17-18,63f60686
+f3642ba8,Mathieu Bodmer,24,FRA,CM,34-270,64,0,0,0,0,0,0,0,0,60,1,0,0,0.0,0.0,0.0,0,0,52,59,88.1,7,26,0,0,0,Amiens,2017-08-19 Saint-Étienne-Amiens,FRA-L1,17-18,63f60686
+7cf9f0ed,Emmanuel Bourgaud,10,FRA,"LM,CM",29-298,26,0,0,0,0,1,0,0,0,27,0,0,0,0.0,0.0,0.3,7,0,17,24,70.8,3,10,1,0,0,Amiens,2017-08-19 Saint-Étienne-Amiens,FRA-L1,17-18,63f60686
+5cdddffa,Tanguy Ndombele,22,FRA,"RM,CM",20-234,90,0,0,0,0,5,0,0,0,74,1,1,1,0.3,0.3,0.0,9,0,45,60,75.0,10,40,7,10,7,Amiens,2017-08-19 Saint-Étienne-Amiens,FRA-L1,17-18,63f60686
+20c2c0e8,Julien Ielsch,23,FRA,LB,34-167,77,0,0,0,0,1,0,0,0,62,5,3,0,0.0,0.0,0.4,3,0,41,52,78.8,2,28,3,1,1,Amiens,2017-08-19 Saint-Étienne-Amiens,FRA-L1,17-18,63f60686
+392d98fc,Harrison Manzala,7,COD,RW,23-166,13,0,0,0,0,1,1,0,0,17,0,0,0,0.1,0.1,0.0,2,0,8,12,66.7,1,14,3,4,3,Amiens,2017-08-19 Saint-Étienne-Amiens,FRA-L1,17-18,63f60686
+247accfd,Bakaye Dibassy,12,MLI,"CB,LB",28-008,90,0,0,0,0,2,0,1,0,70,3,5,4,0.2,0.2,0.0,0,0,35,46,76.1,2,22,0,2,2,Amiens,2017-08-19 Saint-Étienne-Amiens,FRA-L1,17-18,63f60686
+16714a62,Khaled Adénon,3,BEN,CB,32-022,90,0,0,0,0,0,0,0,0,48,0,1,2,0.0,0.0,0.0,0,0,33,37,89.2,3,18,0,0,0,Amiens,2017-08-19 Saint-Étienne-Amiens,FRA-L1,17-18,63f60686
+7c6d6c96,Prince-Désir Gouano,2,FRA,CB,23-238,90,0,0,0,0,1,0,0,0,56,0,1,2,0.3,0.3,0.0,0,0,35,49,71.4,3,25,0,2,2,Amiens,2017-08-19 Saint-Étienne-Amiens,FRA-L1,17-18,63f60686
+9f29c204,Oualid El Hajjam,19,MAR,RB,26-181,90,0,0,0,0,3,0,0,0,50,2,0,2,0.1,0.1,0.0,3,0,29,41,70.7,4,23,1,1,1,Amiens,2017-08-19 Saint-Étienne-Amiens,FRA-L1,17-18,63f60686
+bc270726,Régis Gurtner,1,FRA,GK,30-254,90,0,0,0,0,0,0,1,0,31,0,1,0,0.0,0.0,0.0,0,0,18,26,69.2,0,15,0,0,0,Amiens,2017-08-19 Saint-Étienne-Amiens,FRA-L1,17-18,63f60686

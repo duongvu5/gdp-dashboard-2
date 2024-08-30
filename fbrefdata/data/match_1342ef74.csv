@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+d705ba44,Andrea Belotti,9,ITA,FW,26-324,90,0,0,0,0,1,0,1,0,38,1,0,0,0.0,0.0,0.1,1,0,21,27,77.8,0,22,3,3,0,Torino,2020-11-08 Torino-Crotone,ITA-SERIA_A,20-21,1342ef74
+0375723e,Simone Verdi,24,ITA,FW,28-119,79,0,0,0,0,0,0,1,0,31,0,0,0,0.0,0.0,0.0,1,0,16,25,64.0,2,14,1,3,1,Torino,2020-11-08 Torino-Crotone,ITA-SERIA_A,20-21,1342ef74
+bf57eaab,Federico Bonazzoli,26,ITA,FW,23-171,11,0,0,0,0,2,0,0,0,4,0,0,0,0.1,0.1,0.0,0,0,2,2,100.0,0,3,0,0,0,Torino,2020-11-08 Torino-Crotone,ITA-SERIA_A,20-21,1342ef74
+c6e8cf1f,Saša Lukić,7,SRB,AM,24-087,90,0,0,0,0,0,0,0,0,32,0,1,0,0.0,0.0,0.0,0,0,20,29,69.0,3,28,5,2,2,Torino,2020-11-08 Torino-Crotone,ITA-SERIA_A,20-21,1342ef74
+d023d70f,Karol Linetty,77,POL,LM,25-280,88,0,0,0,0,0,0,0,0,52,4,2,1,0.0,0.0,0.0,0,0,36,41,87.8,4,22,0,1,1,Torino,2020-11-08 Torino-Crotone,ITA-SERIA_A,20-21,1342ef74
+bbafc0c4,Cristian Ansaldi,15,ARG,LM,34-049,2,0,0,0,0,0,0,0,0,9,1,0,0,0.0,0.0,0.0,0,0,5,7,71.4,2,4,0,0,0,Torino,2020-11-08 Torino-Crotone,ITA-SERIA_A,20-21,1342ef74
+f1cfc209,Tomás Rincón,88,VEN,CM,32-300,90,0,0,0,0,0,0,0,0,80,4,1,3,0.0,0.0,0.0,1,0,59,69,85.5,3,40,0,0,0,Torino,2020-11-08 Torino-Crotone,ITA-SERIA_A,20-21,1342ef74
+5cec2c74,Soualiho Meïté,23,FRA,RM,26-236,79,0,0,0,0,0,0,0,0,34,2,0,2,0.0,0.0,0.0,0,0,20,29,69.0,1,21,0,1,0,Torino,2020-11-08 Torino-Crotone,ITA-SERIA_A,20-21,1342ef74
+51ffa295,Amer Gojak,10,BIH,RM,23-269,11,0,0,0,0,0,0,0,0,18,0,1,0,0.0,0.0,0.0,1,0,9,17,52.9,0,8,1,0,0,Torino,2020-11-08 Torino-Crotone,ITA-SERIA_A,20-21,1342ef74
+7f78ad23,Ricardo Rodríguez,13,SUI,LB,28-075,65,0,0,0,0,0,0,1,0,48,1,2,2,0.0,0.0,0.0,0,0,33,38,86.8,1,22,0,0,0,Torino,2020-11-08 Torino-Crotone,ITA-SERIA_A,20-21,1342ef74
+d183e9d6,Nicola Murru,29,ITA,LB,25-328,25,0,0,0,0,1,0,0,0,18,0,1,0,0.0,0.0,0.0,1,0,10,15,66.7,1,11,0,0,0,Torino,2020-11-08 Torino-Crotone,ITA-SERIA_A,20-21,1342ef74
+b5bf1770,Lyanco,4,BRA,CB,23-281,90,0,0,0,0,0,0,0,0,62,0,2,1,0.0,0.0,0.0,0,0,47,58,81.0,2,35,0,0,0,Torino,2020-11-08 Torino-Crotone,ITA-SERIA_A,20-21,1342ef74
+5fd5ed86,Gleison Bremer,3,BRA,CB,23-235,90,0,0,0,0,0,0,0,0,47,1,5,2,0.0,0.0,0.0,0,0,32,38,84.2,3,26,0,0,0,Torino,2020-11-08 Torino-Crotone,ITA-SERIA_A,20-21,1342ef74
+be2706c0,Mërgim Vojvoda,27,KVX,RB,25-281,64,0,0,0,0,0,0,0,0,46,4,0,1,0.0,0.0,0.0,0,0,32,38,84.2,2,23,1,0,0,Torino,2020-11-08 Torino-Crotone,ITA-SERIA_A,20-21,1342ef74
+8b609c34,Wilfried Singo,17,CIV,RB,19-319,26,0,0,0,0,0,0,0,0,17,0,1,0,0.0,0.0,0.0,1,0,13,13,100.0,1,11,1,3,3,Torino,2020-11-08 Torino-Crotone,ITA-SERIA_A,20-21,1342ef74
+10dc46f0,Salvatore Sirigu,39,ITA,GK,33-301,90,0,0,0,0,0,0,0,0,33,0,0,0,0.0,0.0,0.0,0,0,26,31,83.9,0,8,0,0,0,Torino,2020-11-08 Torino-Crotone,ITA-SERIA_A,20-21,1342ef74
+80dbbd10,Simeon Nwankwo,25,NGA,FW,28-185,90,0,0,0,0,0,0,0,0,31,0,0,1,0.0,0.0,0.0,1,0,9,17,52.9,2,15,0,3,3,Crotone,2020-11-08 Torino-Crotone,ITA-SERIA_A,20-21,1342ef74
+f49c4ae9,Junior Messias,30,BRA,FW,29-179,90,0,0,0,0,4,1,0,0,33,2,1,1,0.1,0.1,0.0,2,0,12,19,63.2,1,22,2,4,2,Crotone,2020-11-08 Torino-Crotone,ITA-SERIA_A,20-21,1342ef74
+5944af8f,Miloš Vulić,77,SRB,CM,24-081,83,0,0,0,0,1,0,1,0,43,2,0,2,0.0,0.0,0.1,1,0,22,30,73.3,1,22,1,4,2,Crotone,2020-11-08 Torino-Crotone,ITA-SERIA_A,20-21,1342ef74
+1cac99dc,Luca Siligardi,28,ITA,CM,32-287,5,0,0,0,0,0,0,0,0,1,1,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Crotone,2020-11-08 Torino-Crotone,ITA-SERIA_A,20-21,1342ef74
+ae5b04fe,Giuseppe Cuomo,3,ITA,"CM,CB",22-280,2,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,1,0,0,0,Crotone,2020-11-08 Torino-Crotone,ITA-SERIA_A,20-21,1342ef74
+ae64d449,Luca Cigarini,8,ITA,CM,34-141,66,0,0,0,0,1,0,0,0,63,0,0,0,0.1,0.1,0.0,3,0,47,58,81.0,6,41,0,0,0,Crotone,2020-11-08 Torino-Crotone,ITA-SERIA_A,20-21,1342ef74
+909bce7f,Jacopo Petriccione,44,ITA,CM,25-260,24,0,0,0,0,0,0,0,0,17,1,0,0,0.0,0.0,0.0,1,0,10,14,71.4,2,7,1,0,0,Crotone,2020-11-08 Torino-Crotone,ITA-SERIA_A,20-21,1342ef74
+a128b07e,Ahmad Benali,10,LBY,CM,28-275,90,0,0,0,0,0,0,0,0,50,1,0,1,0.0,0.0,0.0,1,0,38,41,92.7,3,32,3,5,2,Crotone,2020-11-08 Torino-Crotone,ITA-SERIA_A,20-21,1342ef74
+6213fd82,Arkadiusz Reca,69,POL,WB,25-144,90,0,0,0,0,0,0,0,0,57,4,3,0,0.0,0.0,0.0,3,0,29,44,65.9,4,32,3,4,2,Crotone,2020-11-08 Torino-Crotone,ITA-SERIA_A,20-21,1342ef74
+c77be0cf,Pedro Pereira,32,POR,WB,22-291,83,0,0,0,0,2,1,1,0,39,0,1,0,0.1,0.1,0.0,0,0,21,26,80.8,2,23,2,3,0,Crotone,2020-11-08 Torino-Crotone,ITA-SERIA_A,20-21,1342ef74
+39ee6cb6,Andrea Rispoli,33,ITA,WB,32-040,7,0,0,0,0,0,0,0,0,2,0,1,0,0.0,0.0,0.0,0,0,0,2,0.0,0,2,0,0,0,Crotone,2020-11-08 Torino-Crotone,ITA-SERIA_A,20-21,1342ef74
+997fff07,Sebastiano Luperto,13,ITA,CB,24-063,86,0,0,0,0,0,0,2,1,54,1,3,1,0.0,0.0,0.0,0,0,45,49,91.8,3,30,0,0,0,Crotone,2020-11-08 Torino-Crotone,ITA-SERIA_A,20-21,1342ef74
+ea468ea8,Luca Marrone,34,ITA,CB,30-225,90,0,0,0,0,0,0,0,0,104,0,1,0,0.0,0.0,0.0,0,0,84,98,85.7,1,79,0,0,0,Crotone,2020-11-08 Torino-Crotone,ITA-SERIA_A,20-21,1342ef74
+01a49bd2,Lisandro Magallán,6,ARG,CB,27-042,90,0,0,0,0,0,0,0,0,68,3,0,3,0.0,0.0,0.0,1,0,52,58,89.7,1,42,1,0,0,Crotone,2020-11-08 Torino-Crotone,ITA-SERIA_A,20-21,1342ef74
+e66ebabb,Alex Cordaz,1,ITA,GK,37-312,90,0,0,0,0,0,0,0,0,38,0,0,0,0.0,0.0,0.0,0,0,33,37,89.2,0,23,0,0,0,Crotone,2020-11-08 Torino-Crotone,ITA-SERIA_A,20-21,1342ef74

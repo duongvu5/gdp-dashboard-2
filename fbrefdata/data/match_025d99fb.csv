@@ -1,0 +1,32 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+9a2e0ccc,Emil Forsberg,10,SWE,FW,28-346,71,0,0,0,0,1,0,0,0,24,0,0,0,0.1,0.1,0.0,2,1,16,20,80.0,0,10,0,1,0,RB Leipzig,2020-10-03 RB Leipzig-Schalke 04,GER-BL1,20-21,025d99fb
+e92cd3f7,Alexander Sørloth,19,NOR,LW,24-303,19,0,0,0,0,0,0,1,0,5,0,0,0,0.0,0.0,0.0,1,0,3,5,60.0,0,4,0,0,0,RB Leipzig,2020-10-03 RB Leipzig-Schalke 04,GER-BL1,20-21,025d99fb
+30941e96,Angeliño,3,ESP,LW,23-273,82,1,0,0,0,2,2,0,0,59,3,2,0,0.7,0.7,1.0,4,0,42,50,84.0,1,35,0,0,0,RB Leipzig,2020-10-03 RB Leipzig-Schalke 04,GER-BL1,20-21,025d99fb
+80c9e555,Joscha Wosz,47,GER,LB,18-075,8,0,0,0,0,0,0,0,0,4,0,1,0,0.0,0.0,0.0,0,0,2,2,100.0,0,2,0,0,0,RB Leipzig,2020-10-03 RB Leipzig-Schalke 04,GER-BL1,20-21,025d99fb
+7c56da38,Christopher Nkunku,18,FRA,RW,22-324,90,0,1,0,0,2,2,0,0,61,2,1,1,0.2,0.2,0.8,6,1,43,56,76.8,5,31,5,1,1,RB Leipzig,2020-10-03 RB Leipzig-Schalke 04,GER-BL1,20-21,025d99fb
+ae44e8e2,Dani Olmo,25,ESP,AM,22-149,82,0,0,0,0,5,1,0,0,59,0,1,0,0.3,0.3,0.4,9,2,31,43,72.1,7,31,3,5,5,RB Leipzig,2020-10-03 RB Leipzig-Schalke 04,GER-BL1,20-21,025d99fb
+217c93a1,Lazar Samardzic,20,SRB,FW,18-222,8,0,0,0,0,0,0,0,0,2,1,0,0,0.0,0.0,0.0,0,0,0,0,,0,1,0,1,0,RB Leipzig,2020-10-03 RB Leipzig-Schalke 04,GER-BL1,20-21,025d99fb
+92432bc6,Amadou Haidara,8,MLI,DM,22-246,90,0,0,0,0,3,0,0,0,57,1,2,1,0.5,0.5,0.0,4,0,38,44,86.4,4,39,1,4,4,RB Leipzig,2020-10-03 RB Leipzig-Schalke 04,GER-BL1,20-21,025d99fb
+b825a650,Kevin Kampl,44,SVN,DM,29-360,75,0,0,0,0,1,0,0,0,74,1,2,1,0.0,0.0,0.0,1,0,61,66,92.4,3,50,0,0,0,RB Leipzig,2020-10-03 RB Leipzig-Schalke 04,GER-BL1,20-21,025d99fb
+0a89e877,Benjamin Henrichs,39,GER,RW,23-223,15,0,0,0,0,0,0,0,0,12,0,1,0,0.0,0.0,0.0,0,0,10,10,100.0,2,7,0,0,0,RB Leipzig,2020-10-03 RB Leipzig-Schalke 04,GER-BL1,20-21,025d99fb
+8ff2354e,Marcel Halstenberg,23,GER,LB,29-006,90,1,1,1,1,1,0,0,0,105,2,2,1,0.8,0.0,0.3,6,1,88,93,94.6,7,69,5,3,3,RB Leipzig,2020-10-03 RB Leipzig-Schalke 04,GER-BL1,20-21,025d99fb
+d248cd8f,Dayot Upamecano,5,FRA,CB,21-342,70,0,0,0,0,0,0,0,0,108,1,2,0,0.0,0.0,0.1,3,0,94,102,92.2,10,88,2,1,0,RB Leipzig,2020-10-03 RB Leipzig-Schalke 04,GER-BL1,20-21,025d99fb
+ca8033cb,Lukas Klostermann,16,GER,CB,24-122,20,0,0,0,0,0,0,0,0,21,0,0,0,0.0,0.0,0.0,0,0,18,21,85.7,1,15,0,0,0,RB Leipzig,2020-10-03 RB Leipzig-Schalke 04,GER-BL1,20-21,025d99fb
+20030c06,Willi Orban,4,HUN,CB,27-335,90,1,0,0,0,3,1,0,0,94,2,3,0,0.8,0.8,0.6,1,0,81,85,95.3,11,64,5,0,0,RB Leipzig,2020-10-03 RB Leipzig-Schalke 04,GER-BL1,20-21,025d99fb
+ac73ec79,Nordi Mukiele,22,FRA,RB,22-337,90,0,0,0,0,3,0,0,0,67,6,2,2,0.9,0.9,0.0,1,0,44,52,84.6,1,33,3,0,0,RB Leipzig,2020-10-03 RB Leipzig-Schalke 04,GER-BL1,20-21,025d99fb
+bcb2ccd8,Péter Gulácsi,1,HUN,GK,30-150,90,0,0,0,0,0,0,0,0,26,0,0,0,0.0,0.0,0.0,0,0,24,25,96.0,0,15,0,0,0,RB Leipzig,2020-10-03 RB Leipzig-Schalke 04,GER-BL1,20-21,025d99fb
+a3ddb1b9,Mark Uth,7,GER,FW,29-040,90,0,0,0,0,1,0,0,0,32,2,0,2,0.1,0.1,0.0,1,0,14,18,77.8,0,14,1,2,2,Schalke 04,2020-10-03 RB Leipzig-Schalke 04,GER-BL1,20-21,025d99fb
+962e54cb,Gonçalo Paciência,18,POR,FW,26-063,45,0,0,0,0,0,0,0,0,20,0,0,1,0.0,0.0,0.0,0,0,4,10,40.0,0,9,0,3,2,Schalke 04,2020-10-03 RB Leipzig-Schalke 04,GER-BL1,20-21,025d99fb
+c3fd9887,Vedad Ibišević,11,BIH,FW,36-058,45,0,0,0,0,0,0,1,0,10,0,0,0,0.0,0.0,0.0,1,0,3,7,42.9,0,6,1,0,0,Schalke 04,2020-10-03 RB Leipzig-Schalke 04,GER-BL1,20-21,025d99fb
+3189f61a,Nabil Bentaleb,10,ALG,CM,25-314,90,0,0,0,0,0,0,0,0,36,2,0,0,0.0,0.0,0.0,0,0,25,30,83.3,4,14,0,0,0,Schalke 04,2020-10-03 RB Leipzig-Schalke 04,GER-BL1,20-21,025d99fb
+11fd2b75,Omar Mascarell,6,EQG,CM,27-244,90,0,0,0,0,1,0,0,0,35,1,1,2,0.0,0.0,0.0,1,0,20,25,80.0,3,12,1,2,1,Schalke 04,2020-10-03 RB Leipzig-Schalke 04,GER-BL1,20-21,025d99fb
+b3325a30,Suat Serdar,8,GER,CM,23-175,21,0,0,0,0,1,0,0,0,8,2,1,0,0.0,0.0,0.0,0,0,3,3,100.0,0,1,0,0,0,Schalke 04,2020-10-03 RB Leipzig-Schalke 04,GER-BL1,20-21,025d99fb
+b797f558,Can Bozdogan,40,GER,CM,19-181,69,0,0,0,0,2,1,0,0,24,1,2,0,0.1,0.1,0.1,2,0,5,9,55.6,1,12,0,3,1,Schalke 04,2020-10-03 RB Leipzig-Schalke 04,GER-BL1,20-21,025d99fb
+d1661819,Bastian Oczipka,24,GER,WB,31-265,90,0,0,0,0,0,0,0,0,44,1,2,1,0.0,0.0,0.0,0,0,23,36,63.9,0,21,1,2,1,Schalke 04,2020-10-03 RB Leipzig-Schalke 04,GER-BL1,20-21,025d99fb
+106bca06,Alessandro Schöpf,28,AUT,WB,26-239,90,0,0,0,0,0,0,0,0,42,0,0,2,0.0,0.0,0.0,1,0,33,37,89.2,2,18,0,3,2,Schalke 04,2020-10-03 RB Leipzig-Schalke 04,GER-BL1,20-21,025d99fb
+f35430a4,Matija Nastasić,5,SRB,CB,27-189,90,0,0,0,0,0,0,1,0,47,0,2,1,0.0,0.0,0.0,1,0,32,39,82.1,1,12,0,0,0,Schalke 04,2020-10-03 RB Leipzig-Schalke 04,GER-BL1,20-21,025d99fb
+791abba1,Salif Sané,26,SEN,CB,30-039,90,0,0,0,0,0,0,1,0,42,2,3,2,0.0,0.0,0.0,0,0,27,32,84.4,0,17,0,0,0,Schalke 04,2020-10-03 RB Leipzig-Schalke 04,GER-BL1,20-21,025d99fb
+5939baa2,Benjamin Stambouli,17,FRA,CB,30-051,90,0,0,0,0,0,0,0,0,60,2,3,3,0.0,0.0,0.0,0,0,29,47,61.7,1,31,0,1,0,Schalke 04,2020-10-03 RB Leipzig-Schalke 04,GER-BL1,20-21,025d99fb
+1e43fad8,Ralf Fährmann,1,GER,GK,32-006,45,0,0,0,0,0,0,0,0,23,0,0,0,0.0,0.0,0.0,0,0,16,24,66.7,0,12,0,0,0,Schalke 04,2020-10-03 RB Leipzig-Schalke 04,GER-BL1,20-21,025d99fb
+a70b8345,Frederik Rønnow,23,DEN,GK,28-060,45,0,0,0,0,0,0,0,0,22,0,0,0,0.0,0.0,0.0,0,0,15,19,78.9,0,8,0,0,0,Schalke 04,2020-10-03 RB Leipzig-Schalke 04,GER-BL1,20-21,025d99fb

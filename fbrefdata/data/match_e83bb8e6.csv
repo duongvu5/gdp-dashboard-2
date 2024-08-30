@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+0b4d8274,Romain Hamouma,21,FRA,FW,33-257,73,0,0,0,0,0,0,0,0,44,1,0,1,0.0,0.0,0.0,1,0,24,33,72.7,2,34,4,6,4,Saint-Étienne,2020-12-11 Saint-Étienne-Angers,FRA-L1,20-21,e83bb8e6
+469d3d84,Charles Abi,9,FRA,FW,20-243,17,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,3,5,60.0,0,5,0,0,0,Saint-Étienne,2020-12-11 Saint-Étienne-Angers,FRA-L1,20-21,e83bb8e6
+7b9a9e25,Arnaud Nordin,18,FRA,LW,22-177,59,0,0,0,0,1,0,0,0,30,0,0,0,0.0,0.0,0.1,1,0,22,26,84.6,0,21,3,0,0,Saint-Étienne,2020-12-11 Saint-Étienne-Angers,FRA-L1,20-21,e83bb8e6
+2677a1de,Wahbi Khazri,10,TUN,"AM,LW",29-307,31,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,1,0,5,9,55.6,2,10,2,1,1,Saint-Étienne,2020-12-11 Saint-Étienne-Angers,FRA-L1,20-21,e83bb8e6
+1001ae82,Ryad Boudebouz,7,ALG,RW,30-296,73,0,0,0,0,4,0,0,0,72,1,0,0,0.2,0.2,0.5,5,0,49,63,77.8,6,47,2,4,2,Saint-Étienne,2020-12-11 Saint-Étienne-Angers,FRA-L1,20-21,e83bb8e6
+b94b8be1,Adil Aouchiche,17,FRA,"LW,RW",18-149,17,0,0,0,0,0,0,0,0,15,0,0,0,0.0,0.0,0.3,2,0,9,15,60.0,2,11,3,4,4,Saint-Étienne,2020-12-11 Saint-Étienne-Angers,FRA-L1,20-21,e83bb8e6
+0b0cbe5b,Denis Bouanga,20,GAB,"AM,RW",26-030,87,0,0,0,0,2,1,0,0,44,2,0,2,0.1,0.1,0.0,2,0,20,29,69.0,1,27,4,5,4,Saint-Étienne,2020-12-11 Saint-Étienne-Angers,FRA-L1,20-21,e83bb8e6
+3cd7820a,Lucas Gourna-Douath,33,FRA,RW,17-128,3,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,2,0,0,0,Saint-Étienne,2020-12-11 Saint-Étienne-Angers,FRA-L1,20-21,e83bb8e6
+8577e60a,Mahdi Camara,8,FRA,DM,22-164,88,0,0,0,0,0,0,1,0,84,2,1,2,0.0,0.0,0.0,2,0,69,72,95.8,9,69,3,3,2,Saint-Étienne,2020-12-11 Saint-Étienne-Angers,FRA-L1,20-21,e83bb8e6
+46a7b605,Maxence Rivera,32,FRA,DM,18-195,2,0,0,0,0,1,0,0,0,5,0,0,0,0.1,0.1,0.0,0,0,3,3,100.0,0,2,1,0,0,Saint-Étienne,2020-12-11 Saint-Étienne-Angers,FRA-L1,20-21,e83bb8e6
+0ad37003,Yvan Neyou,19,CMR,DM,23-343,90,0,0,0,0,2,2,0,0,80,4,1,0,0.3,0.3,0.0,2,0,62,70,88.6,3,57,3,4,4,Saint-Étienne,2020-12-11 Saint-Étienne-Angers,FRA-L1,20-21,e83bb8e6
+e4b72e34,Miguel Trauco,13,PER,LB,28-108,90,0,0,0,0,0,0,0,0,103,3,1,1,0.0,0.0,0.1,3,0,76,94,80.9,3,63,0,1,0,Saint-Étienne,2020-12-11 Saint-Étienne-Angers,FRA-L1,20-21,e83bb8e6
+ab096c6f,Timothée Kolodziejczak,5,FRA,CB,29-071,90,0,0,0,0,1,0,0,0,103,3,2,0,0.1,0.1,0.0,1,0,80,95,84.2,10,76,2,1,1,Saint-Étienne,2020-12-11 Saint-Étienne-Angers,FRA-L1,20-21,e83bb8e6
+5f26e0c5,Harold Moukoudi,2,CMR,CB,23-014,90,0,0,0,0,1,0,1,0,77,0,1,0,0.1,0.1,0.1,2,0,71,73,97.3,10,59,3,0,0,Saint-Étienne,2020-12-11 Saint-Étienne-Angers,FRA-L1,20-21,e83bb8e6
+92232aad,Mathieu Debuchy,26,FRA,RB,35-136,90,0,0,0,0,2,0,1,0,82,2,3,1,0.4,0.4,0.0,1,0,57,70,81.4,4,44,0,1,1,Saint-Étienne,2020-12-11 Saint-Étienne-Angers,FRA-L1,20-21,e83bb8e6
+28a65a2c,Jessy Moulin,30,FRA,GK,34-333,90,0,0,0,0,0,0,0,0,29,0,0,0,0.0,0.0,0.0,0,0,21,27,77.8,0,19,0,0,0,Saint-Étienne,2020-12-11 Saint-Étienne-Angers,FRA-L1,20-21,e83bb8e6
+5046b7d4,Stéphane Bahoken,19,CMR,FW,28-197,73,0,0,0,0,1,0,0,0,19,0,1,1,0.0,0.0,0.0,0,0,7,11,63.6,1,13,0,0,0,Angers,2020-12-11 Saint-Étienne-Angers,FRA-L1,20-21,e83bb8e6
+4be0b467,Lois Diony,9,FRA,FW,27-357,17,0,0,0,0,0,0,0,0,6,2,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,2,0,0,0,Angers,2020-12-11 Saint-Étienne-Angers,FRA-L1,20-21,e83bb8e6
+46359159,Jimmy Cabot,11,FRA,LW,26-237,67,0,0,0,0,2,1,0,0,37,0,1,1,0.3,0.3,0.0,2,0,20,24,83.3,3,27,1,5,2,Angers,2020-12-11 Saint-Étienne-Angers,FRA-L1,20-21,e83bb8e6
+d21e361a,Farid El Melali,28,ALG,LW,23-220,23,0,0,0,0,1,0,1,0,6,0,0,0,0.1,0.1,0.0,0,0,1,5,20.0,0,6,2,1,1,Angers,2020-12-11 Saint-Étienne-Angers,FRA-L1,20-21,e83bb8e6
+8846a40f,Mathias Pereira Lage,27,POR,RW,24-011,73,0,0,0,0,3,1,0,0,32,0,2,4,0.1,0.1,0.1,1,0,18,22,81.8,2,13,0,0,0,Angers,2020-12-11 Saint-Étienne-Angers,FRA-L1,20-21,e83bb8e6
+f8405304,Mohamed Ali Cho,21,FRA,RW,16-327,17,0,0,0,0,0,0,0,0,7,0,1,0,0.0,0.0,0.0,0,0,3,6,50.0,0,7,2,0,0,Angers,2020-12-11 Saint-Étienne-Angers,FRA-L1,20-21,e83bb8e6
+4b96c347,Angelo Fulgini,10,FRA,AM,24-113,82,0,0,0,0,1,1,0,0,49,1,0,0,0.1,0.1,0.1,4,0,34,43,79.1,4,41,3,1,1,Angers,2020-12-11 Saint-Étienne-Angers,FRA-L1,20-21,e83bb8e6
+7d937aa1,Antonin Bobichon,23,FRA,AM,25-088,8,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,2,4,50.0,0,1,0,0,0,Angers,2020-12-11 Saint-Étienne-Angers,FRA-L1,20-21,e83bb8e6
+c801616a,Thomas Mangani,5,FRA,DM,33-226,82,0,0,0,0,0,0,0,0,59,2,2,0,0.0,0.0,0.1,2,0,42,53,79.2,11,38,1,0,0,Angers,2020-12-11 Saint-Étienne-Angers,FRA-L1,20-21,e83bb8e6
+79b2399c,Pierrick Capelle,15,FRA,DM,33-240,8,0,0,0,0,0,0,1,0,6,0,1,0,0.0,0.0,0.0,0,0,3,5,60.0,2,7,1,0,0,Angers,2020-12-11 Saint-Étienne-Angers,FRA-L1,20-21,e83bb8e6
+85a44ecc,Lassana Coulibaly,14,MLI,DM,24-245,90,0,0,0,0,0,0,0,0,47,3,3,2,0.0,0.0,0.0,2,0,32,36,88.9,2,31,1,0,0,Angers,2020-12-11 Saint-Étienne-Angers,FRA-L1,20-21,e83bb8e6
+9daeac61,Souleyman Doumbia,3,CIV,LB,24-078,90,0,0,0,0,0,0,1,0,45,2,2,1,0.0,0.0,0.0,0,0,27,36,75.0,1,25,0,2,1,Angers,2020-12-11 Saint-Étienne-Angers,FRA-L1,20-21,e83bb8e6
+275e2c51,Romain Thomas,24,FRA,CB,32-182,90,0,0,0,0,0,0,0,0,42,1,0,1,0.0,0.0,0.0,0,0,26,34,76.5,0,24,0,0,0,Angers,2020-12-11 Saint-Étienne-Angers,FRA-L1,20-21,e83bb8e6
+b666421b,Ismaël Traoré,8,CIV,CB,34-115,90,0,0,0,0,0,0,0,0,57,1,3,0,0.0,0.0,0.0,0,0,37,46,80.4,1,39,0,1,1,Angers,2020-12-11 Saint-Étienne-Angers,FRA-L1,20-21,e83bb8e6
+c26a3918,Vincent Manceau,29,FRA,RB,31-154,90,0,0,0,0,0,0,0,0,70,2,2,1,0.0,0.0,0.0,1,0,48,60,80.0,6,35,2,0,0,Angers,2020-12-11 Saint-Étienne-Angers,FRA-L1,20-21,e83bb8e6
+28dabd43,Paul Bernardoni,1,FRA,GK,23-237,90,0,0,0,0,0,0,0,0,34,0,0,0,0.0,0.0,0.0,0,0,17,31,54.8,0,15,0,0,0,Angers,2020-12-11 Saint-Étienne-Angers,FRA-L1,20-21,e83bb8e6

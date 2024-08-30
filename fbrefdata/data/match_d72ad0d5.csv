@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+d705ba44,Andrea Belotti,9,ITA,FW,25-338,11,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,1,0,0,0,Torino,2019-11-23 Torino-Inter,ITA-SERIA_A,19-20,d72ad0d5
+9592289a,Simone Zaza,11,ITA,FW,28-151,79,0,0,0,0,1,0,0,0,15,1,0,1,0.0,0.0,0.0,1,0,6,8,75.0,0,6,0,0,0,Torino,2019-11-23 Torino-Inter,ITA-SERIA_A,19-20,d72ad0d5
+0375723e,Simone Verdi,24,ITA,"FW,RW",27-134,90,0,0,0,0,3,1,0,0,59,1,0,0,0.1,0.1,0.3,7,0,36,51,70.6,3,33,2,5,4,Torino,2019-11-23 Torino-Inter,ITA-SERIA_A,19-20,d72ad0d5
+5cec2c74,Soualiho Meïté,23,FRA,"CM,AM",25-251,90,0,0,0,0,1,0,0,0,58,1,1,0,0.0,0.0,0.1,3,0,40,46,87.0,6,40,5,5,3,Torino,2019-11-23 Torino-Inter,ITA-SERIA_A,19-20,d72ad0d5
+ea06dd97,Daniele Baselli,8,ITA,"CM,DM",27-256,70,0,0,0,0,0,0,0,0,81,0,0,1,0.0,0.0,0.0,2,0,64,76,84.2,7,38,0,1,1,Torino,2019-11-23 Torino-Inter,ITA-SERIA_A,19-20,d72ad0d5
+dc1c2fce,Álex Berenguer,21,ESP,LW,24-142,20,0,0,0,0,0,0,0,0,16,0,0,0,0.0,0.0,0.0,0,0,11,14,78.6,0,6,0,2,1,Torino,2019-11-23 Torino-Inter,ITA-SERIA_A,19-20,d72ad0d5
+c6e8cf1f,Saša Lukić,7,SRB,"CM,DM",23-102,90,0,0,0,0,1,1,0,0,60,2,0,2,0.0,0.0,0.0,3,0,43,51,84.3,8,40,6,5,4,Torino,2019-11-23 Torino-Inter,ITA-SERIA_A,19-20,d72ad0d5
+bbafc0c4,Cristian Ansaldi,15,ARG,"WB,DM,LW",33-064,90,0,0,0,0,4,0,0,0,74,1,0,1,0.1,0.1,0.0,1,0,42,55,76.4,4,44,1,5,1,Torino,2019-11-23 Torino-Inter,ITA-SERIA_A,19-20,d72ad0d5
+e74f0e59,Lorenzo De Silvestri,29,ITA,"WB,RB",31-184,90,0,0,0,0,0,0,0,0,53,0,1,0,0.0,0.0,0.1,2,0,34,48,70.8,3,26,2,0,0,Torino,2019-11-23 Torino-Inter,ITA-SERIA_A,19-20,d72ad0d5
+5fd5ed86,Gleison Bremer,36,BRA,CB,22-250,55,0,0,0,0,0,0,0,0,36,0,1,3,0.0,0.0,0.0,0,0,22,29,75.9,0,22,0,2,2,Torino,2019-11-23 Torino-Inter,ITA-SERIA_A,19-20,d72ad0d5
+246d153b,Ola Aina,34,NGA,LB,23-046,35,0,0,0,0,0,0,1,0,44,0,1,1,0.0,0.0,0.0,1,0,30,41,73.2,3,21,4,6,6,Torino,2019-11-23 Torino-Inter,ITA-SERIA_A,19-20,d72ad0d5
+93cf32a8,Nicolas Nkoulou,33,CMR,CB,29-241,90,0,0,0,0,1,0,0,0,53,0,0,2,0.1,0.1,0.0,0,0,43,48,89.6,0,29,0,0,0,Torino,2019-11-23 Torino-Inter,ITA-SERIA_A,19-20,d72ad0d5
+89976232,Armando Izzo,5,ITA,CB,27-266,90,0,0,0,0,1,0,1,0,81,2,3,1,0.1,0.1,0.0,4,0,56,68,82.4,6,43,4,0,0,Torino,2019-11-23 Torino-Inter,ITA-SERIA_A,19-20,d72ad0d5
+10dc46f0,Salvatore Sirigu,39,ITA,GK,32-315,90,0,0,0,0,0,0,0,0,30,0,0,0,0.0,0.0,0.0,0,0,16,28,57.1,0,16,0,0,0,Torino,2019-11-23 Torino-Inter,ITA-SERIA_A,19-20,d72ad0d5
+f7036e1c,Lautaro Martínez,10,ARG,FW,22-093,68,1,0,0,0,4,1,1,0,23,0,2,1,0.5,0.5,0.0,3,1,5,9,55.6,1,13,2,2,0,Internazionale,2019-11-23 Torino-Inter,ITA-SERIA_A,19-20,d72ad0d5
+356c9002,Antonio Candreva,87,ITA,RM,32-268,22,0,0,0,0,0,0,0,0,18,0,0,2,0.0,0.0,0.0,1,0,9,13,69.2,0,8,1,1,0,Internazionale,2019-11-23 Torino-Inter,ITA-SERIA_A,19-20,d72ad0d5
+5eae500a,Romelu Lukaku,9,BEL,FW,26-194,90,1,0,0,0,3,2,0,0,24,0,0,0,0.4,0.4,0.1,1,0,10,15,66.7,1,13,4,0,0,Internazionale,2019-11-23 Torino-Inter,ITA-SERIA_A,19-20,d72ad0d5
+6928979a,Nicolò Barella,23,ITA,CM,22-289,44,0,0,0,0,1,1,0,0,16,0,0,0,0.1,0.1,0.0,1,0,7,11,63.6,1,7,1,1,0,Internazionale,2019-11-23 Torino-Inter,ITA-SERIA_A,19-20,d72ad0d5
+0e21fc3c,Borja Valero,20,ESP,CM,34-315,46,0,0,0,0,0,0,0,0,44,1,0,0,0.0,0.0,0.0,0,0,30,38,78.9,0,20,2,2,2,Internazionale,2019-11-23 Torino-Inter,ITA-SERIA_A,19-20,d72ad0d5
+33b8d077,Marcelo Brozović,77,CRO,"CM,LM",27-007,90,0,1,0,0,1,0,0,0,81,3,2,0,0.0,0.0,0.5,6,2,51,70,72.9,7,44,3,1,1,Internazionale,2019-11-23 Torino-Inter,ITA-SERIA_A,19-20,d72ad0d5
+44ac04e9,Matías Vecino,8,URU,CM,28-091,90,0,1,0,0,0,0,0,0,48,8,2,2,0.0,0.0,0.3,1,1,19,30,63.3,2,17,1,1,1,Internazionale,2019-11-23 Torino-Inter,ITA-SERIA_A,19-20,d72ad0d5
+9e1577aa,Cristiano Biraghi,34,ITA,"WB,LB",27-083,90,0,1,0,0,0,0,0,0,60,3,0,2,0.0,0.0,0.4,2,1,31,46,67.4,2,23,1,2,1,Internazionale,2019-11-23 Torino-Inter,ITA-SERIA_A,19-20,d72ad0d5
+44eb9093,Danilo D'Ambrosio,33,ITA,"WB,RB",31-075,82,0,0,0,0,1,0,1,0,52,4,0,3,0.1,0.1,0.0,1,0,28,37,75.7,3,17,3,1,1,Internazionale,2019-11-23 Torino-Inter,ITA-SERIA_A,19-20,d72ad0d5
+970b8574,Federico Dimarco,21,ITA,RB,22-013,8,0,0,0,0,0,0,0,0,7,1,0,0,0.0,0.0,0.0,0,0,4,4,100.0,0,2,0,0,0,Internazionale,2019-11-23 Torino-Inter,ITA-SERIA_A,19-20,d72ad0d5
+30f5ffa9,Milan Škriniar,37,SVK,CB,24-285,90,0,0,0,0,0,0,1,0,54,1,2,1,0.0,0.0,0.0,1,0,39,47,83.0,1,28,0,0,0,Internazionale,2019-11-23 Torino-Inter,ITA-SERIA_A,19-20,d72ad0d5
+d0d8dd44,Stefan de Vrij,6,NED,CB,27-291,90,1,0,0,0,2,1,0,0,33,1,0,0,0.4,0.4,0.0,1,0,17,21,81.0,0,13,0,0,0,Internazionale,2019-11-23 Torino-Inter,ITA-SERIA_A,19-20,d72ad0d5
+fc4f85b1,Diego Godín,2,URU,CB,33-280,90,0,0,0,0,0,0,0,0,47,3,1,1,0.0,0.0,0.0,0,0,25,35,71.4,1,23,0,0,0,Internazionale,2019-11-23 Torino-Inter,ITA-SERIA_A,19-20,d72ad0d5
+74419746,Samir Handanović,1,SVN,GK,35-132,90,0,0,0,0,0,0,0,0,24,0,0,0,0.0,0.0,0.0,0,0,13,20,65.0,0,6,0,0,0,Internazionale,2019-11-23 Torino-Inter,ITA-SERIA_A,19-20,d72ad0d5

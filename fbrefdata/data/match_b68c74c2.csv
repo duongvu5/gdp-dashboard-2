@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+8f696594,Memphis,11,NED,FW,24-082,76,0,0,0,0,5,1,0,0,55,0,0,1,0.2,0.2,0.1,6,0,35,43,81.4,5,32,4,2,1,Lyon,2018-05-06 Lyon-Troyes,FRA-L1,17-18,b68c74c2
+5c4dc0ff,Mariano,9,DOM,FW,24-278,14,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,1,0,3,4,75.0,0,3,0,2,1,Lyon,2018-05-06 Lyon-Troyes,FRA-L1,17-18,b68c74c2
+c47541e0,Bertrand Traoré,10,BFA,"FW,RW",22-242,90,2,0,0,0,5,2,0,0,54,1,1,0,1.1,1.1,0.1,2,0,31,39,79.5,2,41,4,2,1,Lyon,2018-05-06 Lyon-Troyes,FRA-L1,17-18,b68c74c2
+bece776f,Nabil Fekir,18,FRA,AM,24-292,77,0,0,0,0,0,0,0,0,54,1,0,0,0.0,0.0,0.0,2,0,46,50,92.0,9,41,7,3,2,Lyon,2018-05-06 Lyon-Troyes,FRA-L1,17-18,b68c74c2
+beb391dd,Maxwel Cornet,27,CIV,LW,21-221,13,1,0,0,0,1,1,0,0,10,0,0,0,0.1,0.1,0.0,0,0,7,8,87.5,0,4,2,0,0,Lyon,2018-05-06 Lyon-Troyes,FRA-L1,17-18,b68c74c2
+a5db0bec,Houssem Aouar,8,ALG,LM,19-310,81,0,1,0,0,1,0,0,0,62,2,0,0,0.1,0.1,0.5,4,2,52,56,92.9,9,30,2,2,2,Lyon,2018-05-06 Lyon-Troyes,FRA-L1,17-18,b68c74c2
+375622c5,Jordan Ferri,12,FRA,LM,26-055,9,0,0,0,0,1,0,0,0,11,0,0,0,0.1,0.1,0.0,1,0,9,9,100.0,3,8,0,1,1,Lyon,2018-05-06 Lyon-Troyes,FRA-L1,17-18,b68c74c2
+5cdddffa,Tanguy Ndombele,28,FRA,RM,21-129,90,0,0,0,0,1,1,0,0,73,2,0,2,0.1,0.1,0.1,5,0,56,62,90.3,4,53,0,4,3,Lyon,2018-05-06 Lyon-Troyes,FRA-L1,17-18,b68c74c2
+71ec39ef,Lucas Tousart,29,FRA,"DM,CM",21-007,90,0,0,0,0,0,0,1,0,73,5,3,2,0.0,0.0,0.0,2,1,53,58,91.4,2,32,0,1,1,Lyon,2018-05-06 Lyon-Troyes,FRA-L1,17-18,b68c74c2
+3cefcaef,Ferland Mendy,22,FRA,LB,22-332,90,0,2,0,0,0,0,1,0,63,2,0,0,0.0,0.0,0.6,4,2,45,53,84.9,2,33,4,0,0,Lyon,2018-05-06 Lyon-Troyes,FRA-L1,17-18,b68c74c2
+e97150c0,Jérémy Morel,15,MAD,CB,34-034,90,0,0,0,0,1,0,0,0,65,2,0,2,0.0,0.0,0.0,0,0,47,52,90.4,1,42,1,0,0,Lyon,2018-05-06 Lyon-Troyes,FRA-L1,17-18,b68c74c2
+e3d0b0c4,Marcelo,6,BRA,CB,30-351,90,0,0,0,0,0,0,0,0,66,0,1,2,0.0,0.0,0.0,0,0,52,59,88.1,5,35,1,0,0,Lyon,2018-05-06 Lyon-Troyes,FRA-L1,17-18,b68c74c2
+9a1f2e1c,Rafael,4,BRA,RB,27-301,90,0,0,0,0,1,0,0,0,66,1,0,1,0.0,0.0,0.0,0,0,45,59,76.3,9,24,5,0,0,Lyon,2018-05-06 Lyon-Troyes,FRA-L1,17-18,b68c74c2
+4d3e9033,Mathieu Gorgelin,30,FRA,GK,27-274,90,0,0,0,0,0,0,0,0,25,0,0,0,0.0,0.0,0.0,0,0,21,22,95.5,0,12,0,0,0,Lyon,2018-05-06 Lyon-Troyes,FRA-L1,17-18,b68c74c2
+1ac3b888,Adama Niane,26,MLI,FW,24-324,73,0,0,0,0,4,1,0,0,35,0,0,1,0.3,0.3,0.0,2,0,14,21,66.7,3,14,1,2,0,Troyes,2018-05-06 Lyon-Troyes,FRA-L1,17-18,b68c74c2
+7ffaf233,Suk Hyun-jun,9,KOR,FW,26-311,17,0,0,0,0,0,0,1,0,5,0,0,0,0.0,0.0,0.0,0,0,3,3,100.0,0,4,0,0,0,Troyes,2018-05-06 Lyon-Troyes,FRA-L1,17-18,b68c74c2
+88615858,Bryan Pelé,28,FRA,"LM,LW",26-042,68,0,0,0,0,0,0,0,0,31,1,0,1,0.0,0.0,0.0,0,0,13,24,54.2,1,16,4,2,0,Troyes,2018-05-06 Lyon-Troyes,FRA-L1,17-18,b68c74c2
+61d618fa,Chaouki Ben Saada,18,TUN,"RW,LW",33-309,22,0,0,0,0,2,0,0,0,19,0,0,0,0.1,0.1,0.1,2,0,13,15,86.7,2,13,1,4,3,Troyes,2018-05-06 Lyon-Troyes,FRA-L1,17-18,b68c74c2
+0984c5d5,Rémi Walter,7,FRA,"DM,CM",23-010,90,0,0,0,0,0,0,0,0,50,0,0,0,0.0,0.0,0.0,1,0,37,44,84.1,4,29,0,1,0,Troyes,2018-05-06 Lyon-Troyes,FRA-L1,17-18,b68c74c2
+eaf71a5e,Karim Azamoum,6,FRA,"DM,CM",28-109,90,0,0,0,0,2,1,1,0,55,5,1,0,0.1,0.1,0.7,2,0,37,42,88.1,1,30,0,2,1,Troyes,2018-05-06 Lyon-Troyes,FRA-L1,17-18,b68c74c2
+d2448564,Samuel Grandsir,29,FRA,"RM,RW,LW",21-265,90,0,0,0,0,3,0,0,0,58,1,1,0,0.1,0.1,0.1,5,0,41,51,80.4,9,40,4,6,4,Troyes,2018-05-06 Lyon-Troyes,FRA-L1,17-18,b68c74c2
+2174bc8d,François Bellugou,14,FRA,DM,31-011,45,0,0,0,0,0,0,0,0,25,2,2,1,0.0,0.0,0.0,0,0,18,21,85.7,3,14,0,1,1,Troyes,2018-05-06 Lyon-Troyes,FRA-L1,17-18,b68c74c2
+1ec4e202,Benjamin Nivet,10,FRA,AM,41-124,45,0,0,0,0,0,0,0,0,36,2,0,1,0.0,0.0,0.2,5,0,29,32,90.6,4,24,1,0,0,Troyes,2018-05-06 Lyon-Troyes,FRA-L1,17-18,b68c74c2
+de488e56,Charles Traore,23,MLI,LB,26-125,90,0,0,0,0,1,1,0,0,72,2,2,0,0.0,0.0,0.0,3,0,49,65,75.4,5,46,4,1,1,Troyes,2018-05-06 Lyon-Troyes,FRA-L1,17-18,b68c74c2
+3681cfff,Christophe Hérelle,22,MTQ,CB,25-257,90,0,0,0,0,1,1,0,0,54,3,0,5,0.7,0.7,0.0,0,0,34,39,87.2,2,30,0,1,1,Troyes,2018-05-06 Lyon-Troyes,FRA-L1,17-18,b68c74c2
+6ba71da5,Jimmy Giraudon,24,FRA,CB,26-110,90,0,0,0,0,0,0,0,0,47,1,0,1,0.0,0.0,0.0,0,0,36,37,97.3,4,27,0,0,0,Troyes,2018-05-06 Lyon-Troyes,FRA-L1,17-18,b68c74c2
+7d45b97a,Jérémy Cordoval,2,GLP,RB,28-114,90,0,0,0,0,0,0,0,0,63,1,0,0,0.0,0.0,0.0,3,0,47,56,83.9,5,38,4,0,0,Troyes,2018-05-06 Lyon-Troyes,FRA-L1,17-18,b68c74c2
+e750cba4,Erwin Zelazny,1,FRA,GK,26-226,90,0,0,0,0,0,0,0,0,41,0,1,0,0.0,0.0,0.0,0,0,26,38,68.4,0,19,0,0,0,Troyes,2018-05-06 Lyon-Troyes,FRA-L1,17-18,b68c74c2

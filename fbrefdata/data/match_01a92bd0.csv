@@ -1,0 +1,32 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+dcfb17f4,Amine Adli,21,MAR,FW,23-365,90,0,0,0,0,7,3,0,0,54,1,0,0,0.8,0.8,0.1,3,0,36,40,90.0,8,40,4,1,0,Bayer Leverkusen,2024-05-09 Leverkusen-Roma,UEL,23-24,01a92bd0
+5521f419,Adam Hložek,23,CZE,AM,21-289,73,0,0,0,0,7,3,0,0,29,0,0,0,0.5,0.5,0.2,4,0,15,18,83.3,1,26,4,1,1,Bayer Leverkusen,2024-05-09 Leverkusen-Roma,UEL,23-24,01a92bd0
+5d4f7d61,Patrik Schick,14,CZE,AM,28-106,17,0,0,0,0,2,0,0,0,7,0,0,0,0.1,0.1,0.0,0,0,3,4,75.0,0,4,1,0,0,Bayer Leverkusen,2024-05-09 Leverkusen-Roma,UEL,23-24,01a92bd0
+2903a856,Jonas Hofmann,7,GER,AM,31-300,80,0,0,0,0,3,1,0,0,67,0,0,0,0.4,0.4,0.3,8,0,54,60,90.0,5,51,1,0,0,Bayer Leverkusen,2024-05-09 Leverkusen-Roma,UEL,23-24,01a92bd0
+e7fcf289,Florian Wirtz,10,GER,AM,21-006,10,0,0,0,0,1,0,1,0,16,0,0,0,0.0,0.0,0.0,2,0,13,14,92.9,1,13,1,0,0,Bayer Leverkusen,2024-05-09 Leverkusen-Roma,UEL,23-24,01a92bd0
+e61b8aee,Granit Xhaka,34,SUI,CM,31-225,90,0,1,0,0,1,0,0,0,104,0,1,1,0.0,0.0,0.5,14,1,90,98,91.8,20,91,2,1,0,Bayer Leverkusen,2024-05-09 Leverkusen-Roma,UEL,23-24,01a92bd0
+e82adcab,Exequiel Palacios,25,ARG,CM,25-217,90,0,0,0,0,2,2,0,0,99,4,1,1,0.1,0.1,0.1,9,0,81,85,95.3,3,79,3,1,0,Bayer Leverkusen,2024-05-09 Leverkusen-Roma,UEL,23-24,01a92bd0
+b1f4086c,Álex Grimaldo,20,ESP,WB,28-232,89,0,0,0,0,1,0,0,0,71,0,1,1,0.0,0.0,0.4,6,0,51,62,82.3,8,51,2,2,1,Bayer Leverkusen,2024-05-09 Leverkusen-Roma,UEL,23-24,01a92bd0
+1f3afdcb,Odilon Kossonou,6,CIV,WB,23-126,1,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,0,0,Bayer Leverkusen,2024-05-09 Leverkusen-Roma,UEL,23-24,01a92bd0
+74f2e748,Jeremie Frimpong,30,NED,WB,23-151,89,0,0,0,0,5,3,0,0,53,2,0,2,0.6,0.6,0.3,2,0,24,36,66.7,2,37,8,3,2,Bayer Leverkusen,2024-05-09 Leverkusen-Roma,UEL,23-24,01a92bd0
+7ed08d5c,Josip Stanišić,2,CRO,WB,24-037,1,1,0,0,0,1,1,0,0,6,0,0,0,0.1,0.1,0.1,2,1,3,5,60.0,0,5,1,1,1,Bayer Leverkusen,2024-05-09 Leverkusen-Roma,UEL,23-24,01a92bd0
+0c7a48f8,Piero Hincapié,3,ECU,CB,22-121,90,0,0,0,0,1,0,0,0,71,2,5,0,0.1,0.1,0.4,3,0,48,53,90.6,2,47,1,1,1,Bayer Leverkusen,2024-05-09 Leverkusen-Roma,UEL,23-24,01a92bd0
+bd142efb,Jonathan Tah,4,GER,CB,28-088,90,0,0,0,0,1,0,1,0,55,0,1,1,0.0,0.0,0.0,2,0,45,47,95.7,2,33,0,0,0,Bayer Leverkusen,2024-05-09 Leverkusen-Roma,UEL,23-24,01a92bd0
+a73c8f95,Edmond Tapsoba,12,BFA,CB,25-097,90,0,0,0,0,0,0,1,0,75,1,0,1,0.0,0.0,0.0,4,0,62,68,91.2,8,59,2,1,1,Bayer Leverkusen,2024-05-09 Leverkusen-Roma,UEL,23-24,01a92bd0
+bc67a0e1,Matej Kovar,17,CZE,GK,23-358,90,0,0,0,0,0,0,0,0,24,0,0,0,0.0,0.0,0.0,1,0,13,18,72.2,0,14,0,0,0,Bayer Leverkusen,2024-05-09 Leverkusen-Roma,UEL,23-24,01a92bd0
+5eae500a,Romelu Lukaku,90,BEL,FW,30-362,90,0,0,0,0,1,1,0,0,22,0,0,0,0.2,0.2,0.1,1,0,9,15,60.0,0,12,3,0,0,Roma,2024-05-09 Leverkusen-Roma,UEL,23-24,01a92bd0
+10549b49,Sardar Azmoun,17,IRN,FW,29-129,71,0,0,0,0,1,1,0,0,13,2,1,0,0.0,0.0,0.0,1,1,1,4,25.0,0,10,0,1,0,Roma,2024-05-09 Leverkusen-Roma,UEL,23-24,01a92bd0
+ae94a6c5,Edoardo Bove,52,ITA,CM,21-359,19,0,0,0,0,0,0,0,0,6,2,0,0,0.0,0.0,0.0,0,0,2,4,50.0,1,2,0,1,0,Roma,2024-05-09 Leverkusen-Roma,UEL,23-24,01a92bd0
+4a5a45c7,Lorenzo Pellegrini,7,ITA,"CM,FW",27-325,80,0,0,0,0,2,1,1,0,41,0,1,4,0.2,0.2,0.2,4,1,23,29,79.3,3,28,1,2,2,Roma,2024-05-09 Leverkusen-Roma,UEL,23-24,01a92bd0
+f586779e,Tammy Abraham,9,ENG,FW,26-220,10,0,0,0,0,0,0,0,0,6,0,1,0,0.0,0.0,0.0,0,0,2,4,50.0,0,2,0,0,0,Roma,2024-05-09 Leverkusen-Roma,UEL,23-24,01a92bd0
+dff153a4,Leandro Paredes,16,ARG,CM,29-315,90,2,0,2,2,0,0,1,0,73,0,0,1,1.6,0.0,0.0,3,0,59,68,86.8,4,57,0,0,0,Roma,2024-05-09 Leverkusen-Roma,UEL,23-24,01a92bd0
+16657b95,Bryan Cristante,4,ITA,CM,29-067,90,0,0,0,0,2,1,0,0,58,2,1,0,0.0,0.0,0.1,4,0,37,47,78.7,6,45,0,1,0,Roma,2024-05-09 Leverkusen-Roma,UEL,23-24,01a92bd0
+3626daea,Leonardo Spinazzola,37,ITA,WB,31-045,20,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,1,0,3,6,50.0,0,5,1,0,0,Roma,2024-05-09 Leverkusen-Roma,UEL,23-24,01a92bd0
+45191c29,Nicola Zalewski,59,POL,WB,22-107,70,0,0,0,0,0,0,1,0,30,0,0,0,0.0,0.0,0.0,2,0,15,27,55.6,1,18,2,0,0,Roma,2024-05-09 Leverkusen-Roma,UEL,23-24,01a92bd0
+d3aaad90,Stephan El Shaarawy,92,ITA,WB,31-195,90,0,0,0,0,3,1,0,0,41,2,0,3,0.1,0.1,0.0,2,0,19,31,61.3,1,21,2,0,0,Roma,2024-05-09 Leverkusen-Roma,UEL,23-24,01a92bd0
+30941e96,Angeliño,69,ESP,CB,27-126,80,0,0,0,0,0,0,0,0,52,3,1,4,0.0,0.0,0.0,1,1,26,38,68.4,5,28,3,0,0,Roma,2024-05-09 Leverkusen-Roma,UEL,23-24,01a92bd0
+b6964eb6,Chris Smalling,6,ENG,CB,34-169,10,0,0,0,0,0,0,0,0,9,0,0,1,0.0,0.0,0.0,0,0,6,7,85.7,0,7,2,0,0,Roma,2024-05-09 Leverkusen-Roma,UEL,23-24,01a92bd0
+441197b8,Obite N'Dicka,5,CIV,CB,24-263,90,0,0,0,0,0,0,0,0,64,2,0,0,0.0,0.0,0.0,0,0,55,55,100.0,3,48,1,0,0,Roma,2024-05-09 Leverkusen-Roma,UEL,23-24,01a92bd0
+5aa53281,Gianluca Mancini,23,ITA,CB,28-022,90,0,0,0,0,0,0,1,0,58,1,0,5,0.0,0.0,0.0,0,0,35,46,76.1,5,34,0,1,1,Roma,2024-05-09 Leverkusen-Roma,UEL,23-24,01a92bd0
+bcf5058a,Mile Svilar,99,SRB,GK,24-256,90,0,0,0,0,0,0,0,0,47,0,0,0,0.0,0.0,0.0,0,0,33,40,82.5,0,28,0,0,0,Roma,2024-05-09 Leverkusen-Roma,UEL,23-24,01a92bd0

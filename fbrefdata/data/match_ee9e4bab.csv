@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+f9446dcd,Max Kruse,10,GER,FW,29-258,90,1,0,0,0,3,1,0,0,71,1,0,1,0.1,0.1,0.1,4,0,54,64,84.4,8,32,1,2,1,Werder Bremen,2017-12-02 Werder Bremen-Stuttgart,GER-BL1,17-18,ee9e4bab
+dba67bc4,Zlatko Junuzović,16,AUT,LW,30-067,90,0,0,0,0,2,0,0,0,45,2,0,3,0.1,0.1,0.2,3,0,18,34,52.9,3,14,1,0,0,Werder Bremen,2017-12-02 Werder Bremen-Stuttgart,GER-BL1,17-18,ee9e4bab
+acc7b7ec,Fin Bartels,22,GER,RW,30-298,84,0,1,0,0,2,1,0,0,65,3,1,0,0.1,0.1,0.2,7,2,36,54,66.7,3,32,1,4,2,Werder Bremen,2017-12-02 Werder Bremen-Stuttgart,GER-BL1,17-18,ee9e4bab
+94c18565,Florian Kainz,7,AUT,RW,25-039,6,0,0,0,0,0,0,0,0,7,1,0,1,0.0,0.0,0.0,0,0,1,3,33.3,1,3,0,1,0,Werder Bremen,2017-12-02 Werder Bremen-Stuttgart,GER-BL1,17-18,ee9e4bab
+fe641c1a,Thomas Delaney,6,DEN,LM,26-090,90,0,0,0,0,2,1,0,0,44,4,1,2,0.2,0.2,0.0,4,0,19,32,59.4,2,9,2,0,0,Werder Bremen,2017-12-02 Werder Bremen-Stuttgart,GER-BL1,17-18,ee9e4bab
+3f7cd8f1,Philipp Bargfrede,44,GER,CM,28-274,73,0,0,0,0,2,2,1,0,44,4,5,2,0.0,0.0,0.0,2,0,23,33,69.7,2,12,1,0,0,Werder Bremen,2017-12-02 Werder Bremen-Stuttgart,GER-BL1,17-18,ee9e4bab
+125cb9fe,Lamine Sané,26,SEN,CM,30-255,17,0,0,0,0,0,0,0,0,3,0,0,1,0.0,0.0,0.0,0,0,2,2,100.0,0,1,0,0,0,Werder Bremen,2017-12-02 Werder Bremen-Stuttgart,GER-BL1,17-18,ee9e4bab
+beb882a8,Maximilian Eggestein,35,GER,RM,20-359,88,0,0,0,0,2,0,0,0,54,3,0,2,0.1,0.1,0.0,6,0,32,40,80.0,9,21,4,3,1,Werder Bremen,2017-12-02 Werder Bremen-Stuttgart,GER-BL1,17-18,ee9e4bab
+49ffe0f2,Jérôme Gondorf,8,GER,RM,29-159,2,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,1,1,0,0,0,Werder Bremen,2017-12-02 Werder Bremen-Stuttgart,GER-BL1,17-18,ee9e4bab
+9fec8860,Ludwig Augustinsson,5,SWE,LB,23-225,90,0,0,0,0,2,1,0,0,49,2,2,1,0.1,0.1,0.0,1,0,27,40,67.5,2,15,0,0,0,Werder Bremen,2017-12-02 Werder Bremen-Stuttgart,GER-BL1,17-18,ee9e4bab
+00844823,Niklas Moisander,18,FIN,CB,32-064,90,0,0,0,0,0,0,1,0,44,4,1,3,0.0,0.0,0.0,0,0,21,28,75.0,2,14,0,1,1,Werder Bremen,2017-12-02 Werder Bremen-Stuttgart,GER-BL1,17-18,ee9e4bab
+a5ae8f8e,Miloš Veljković,13,SRB,CB,22-067,90,0,0,0,0,0,0,0,0,44,2,1,1,0.0,0.0,0.0,0,0,24,34,70.6,1,8,1,0,0,Werder Bremen,2017-12-02 Werder Bremen-Stuttgart,GER-BL1,17-18,ee9e4bab
+3f65898c,Theodor Gebre Selassie,23,CZE,RB,30-343,90,0,0,0,0,0,0,0,0,54,5,2,0,0.0,0.0,0.0,0,0,35,42,83.3,5,10,0,0,0,Werder Bremen,2017-12-02 Werder Bremen-Stuttgart,GER-BL1,17-18,ee9e4bab
+0a1cb833,Jiří Pavlenka,1,CZE,GK,25-232,90,0,0,0,0,0,0,0,0,37,0,0,0,0.0,0.0,0.0,0,0,22,35,62.9,0,12,0,0,0,Werder Bremen,2017-12-02 Werder Bremen-Stuttgart,GER-BL1,17-18,ee9e4bab
+13ddc856,Takuma Asano,11,JPN,FW,23-022,56,0,0,0,0,2,1,0,0,18,1,0,0,0.1,0.1,0.0,0,0,7,7,100.0,1,10,1,3,0,Stuttgart,2017-12-02 Werder Bremen-Stuttgart,GER-BL1,17-18,ee9e4bab
+0f26fd24,Anastasios Donis,14,GRE,AM,21-095,34,0,0,0,0,1,0,0,0,6,0,0,0,0.1,0.1,0.2,1,0,4,5,80.0,0,5,1,1,1,Stuttgart,2017-12-02 Werder Bremen-Stuttgart,GER-BL1,17-18,ee9e4bab
+d4a2533d,Josip Brekalo,7,CRO,FW,19-162,90,0,0,0,0,1,0,0,0,46,1,0,0,0.3,0.3,0.1,3,0,22,35,62.9,0,28,1,6,1,Stuttgart,2017-12-02 Werder Bremen-Stuttgart,GER-BL1,17-18,ee9e4bab
+31114001,Berkay Özcan,31,TUR,AM,19-290,69,0,0,0,0,1,1,0,0,39,2,0,2,0.0,0.0,0.3,5,0,25,33,75.8,2,25,0,3,2,Stuttgart,2017-12-02 Werder Bremen-Stuttgart,GER-BL1,17-18,ee9e4bab
+debc2f28,Chadrac Akolo,19,COD,FW,22-245,21,0,0,0,0,1,0,0,0,11,0,0,1,0.1,0.1,0.0,3,0,4,6,66.7,1,5,0,4,1,Stuttgart,2017-12-02 Werder Bremen-Stuttgart,GER-BL1,17-18,ee9e4bab
+a4f94a0d,Christian Gentner,20,GER,CM,32-110,90,0,0,0,0,1,0,0,0,94,5,1,5,0.0,0.0,0.0,3,0,58,76,76.3,9,42,1,0,0,Stuttgart,2017-12-02 Werder Bremen-Stuttgart,GER-BL1,17-18,ee9e4bab
+e26fcca3,Santiago Ascacíbar,6,ARG,CM,20-280,90,0,0,0,0,1,0,1,0,65,1,2,3,0.0,0.0,0.0,1,0,47,56,83.9,3,30,1,0,0,Stuttgart,2017-12-02 Werder Bremen-Stuttgart,GER-BL1,17-18,ee9e4bab
+f3cccffe,Emiliano Insúa,2,ARG,WB,28-329,60,0,0,0,0,0,0,0,0,50,4,0,0,0.0,0.0,0.0,1,0,32,41,78.0,2,24,2,5,0,Stuttgart,2017-12-02 Werder Bremen-Stuttgart,GER-BL1,17-18,ee9e4bab
+863ff1ee,Simon Terodde,9,GER,WB,29-275,30,0,0,0,0,1,0,0,0,13,0,0,0,0.1,0.1,0.0,0,0,3,8,37.5,0,6,0,1,0,Stuttgart,2017-12-02 Werder Bremen-Stuttgart,GER-BL1,17-18,ee9e4bab
+00a6485f,Andreas Beck,32,GER,WB,30-264,90,0,0,0,0,0,0,0,0,77,1,2,2,0.0,0.0,0.0,3,0,56,70,80.0,6,43,3,0,0,Stuttgart,2017-12-02 Werder Bremen-Stuttgart,GER-BL1,17-18,ee9e4bab
+bd7d2e6d,Timo Baumgartl,5,GER,CB,21-273,90,0,0,0,0,1,0,0,0,90,2,3,1,0.1,0.1,0.0,0,0,69,84,82.1,7,40,0,0,0,Stuttgart,2017-12-02 Werder Bremen-Stuttgart,GER-BL1,17-18,ee9e4bab
+45b7edae,Holger Badstuber,28,GER,CB,28-264,90,0,0,0,0,2,1,0,0,77,1,3,2,0.3,0.3,0.0,0,0,56,63,88.9,2,35,0,0,0,Stuttgart,2017-12-02 Werder Bremen-Stuttgart,GER-BL1,17-18,ee9e4bab
+45a03961,Benjamin Pavard,21,FRA,CB,21-249,90,0,0,0,0,1,0,0,0,93,2,2,3,0.1,0.1,0.1,1,0,72,80,90.0,7,49,1,0,0,Stuttgart,2017-12-02 Werder Bremen-Stuttgart,GER-BL1,17-18,ee9e4bab
+a0606ae8,Ron-Robert Zieler,16,GER,GK,28-293,90,0,0,0,0,0,0,0,0,49,0,0,0,0.0,0.0,0.0,0,0,30,47,63.8,0,25,0,0,0,Stuttgart,2017-12-02 Werder Bremen-Stuttgart,GER-BL1,17-18,ee9e4bab

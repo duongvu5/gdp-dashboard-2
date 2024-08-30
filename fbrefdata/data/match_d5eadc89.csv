@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+4431aed2,Ciro Immobile,17,ITA,FW,32-200,69,0,1,0,0,2,0,0,0,34,0,0,0,0.5,0.5,0.3,4,1,21,28,75.0,2,32,1,2,0,Lazio,2022-09-08 Lazio-Feyenoord,UEL,22-23,d5eadc89
+b6a1cdf9,Matteo Cancellieri,11,ITA,FW,20-208,21,0,0,0,0,1,0,0,0,6,0,0,0,0.2,0.2,0.0,0,0,3,4,75.0,0,4,0,3,2,Lazio,2022-09-08 Lazio-Feyenoord,UEL,22-23,d5eadc89
+d85c238b,Mattia Zaccagni,20,ITA,LW,27-084,90,0,0,0,0,1,0,0,0,71,0,1,0,0.1,0.1,0.0,4,0,58,67,86.6,14,64,8,6,6,Lazio,2022-09-08 Lazio-Feyenoord,UEL,22-23,d5eadc89
+9f1893b9,Felipe Anderson,7,BRA,RW,29-146,90,1,0,0,0,1,1,1,0,50,5,0,1,0.1,0.1,0.5,2,0,29,39,74.4,4,37,2,1,0,Lazio,2022-09-08 Lazio-Feyenoord,UEL,22-23,d5eadc89
+5294a83f,Luis Alberto,10,ESP,LM,29-345,69,1,1,0,0,1,1,0,0,97,0,0,1,0.5,0.5,0.7,6,4,76,92,82.6,11,80,1,1,1,Lazio,2022-09-08 Lazio-Feyenoord,UEL,22-23,d5eadc89
+80556f08,Toma Bašić,88,CRO,LM,25-287,21,0,0,0,0,0,0,0,0,15,1,0,0,0.0,0.0,0.0,1,0,10,14,71.4,0,12,1,1,1,Lazio,2022-09-08 Lazio-Feyenoord,UEL,22-23,d5eadc89
+ba3d3bea,Danilo Cataldi,32,ITA,CM,28-033,90,0,0,0,0,0,0,0,0,85,1,2,0,0.0,0.0,0.1,3,1,72,78,92.3,3,75,0,0,0,Lazio,2022-09-08 Lazio-Feyenoord,UEL,22-23,d5eadc89
+44ac04e9,Matías Vecino,5,URU,RM,31-015,69,2,1,0,0,3,3,0,0,60,2,0,0,0.9,0.9,0.5,2,1,38,49,77.6,3,45,1,0,0,Lazio,2022-09-08 Lazio-Feyenoord,UEL,22-23,d5eadc89
+4e6dbac4,Sergej Milinković-Savić,21,SRB,RM,27-193,21,0,0,0,0,3,1,0,0,23,0,0,0,0.4,0.4,0.0,2,0,13,19,68.4,2,17,2,0,0,Lazio,2022-09-08 Lazio-Feyenoord,UEL,22-23,d5eadc89
+d4535821,Adam Marušić,77,MNE,LB,29-326,75,0,0,0,0,2,1,0,0,59,0,0,0,0.1,0.1,0.2,4,1,53,54,98.1,3,45,1,0,0,Lazio,2022-09-08 Lazio-Feyenoord,UEL,22-23,d5eadc89
+53de807a,Ștefan Radu,26,ROU,LB,35-321,15,0,0,0,0,0,0,0,0,19,1,0,1,0.0,0.0,0.0,0,0,13,17,76.5,2,14,1,0,0,Lazio,2022-09-08 Lazio-Feyenoord,UEL,22-23,d5eadc89
+3ead85f9,Alessio Romagnoli,13,ITA,CB,27-239,72,0,0,0,0,1,1,0,0,91,1,0,1,0.1,0.1,0.0,0,0,81,87,93.1,4,74,0,0,0,Lazio,2022-09-08 Lazio-Feyenoord,UEL,22-23,d5eadc89
+f7223718,Patric,4,ESP,CB,29-144,18,0,0,0,0,0,0,0,0,15,0,0,0,0.0,0.0,0.0,0,0,14,14,100.0,0,12,0,0,0,Lazio,2022-09-08 Lazio-Feyenoord,UEL,22-23,d5eadc89
+9c435456,Mario Gila,34,ESP,CB,22-010,90,0,0,0,0,0,0,0,0,95,2,1,3,0.0,0.0,0.0,0,0,83,87,95.4,1,86,0,0,0,Lazio,2022-09-08 Lazio-Feyenoord,UEL,22-23,d5eadc89
+2f3452eb,Elseid Hysaj,23,ALB,RB,28-200,90,0,0,0,0,0,0,0,0,87,0,2,0,0.0,0.0,0.0,1,0,69,80,86.3,4,66,6,3,1,Lazio,2022-09-08 Lazio-Feyenoord,UEL,22-23,d5eadc89
+277da414,Ivan Provedel,94,ITA,GK,28-175,90,0,0,0,0,0,0,0,0,39,0,0,0,0.0,0.0,0.0,0,0,35,36,97.2,0,28,0,1,1,Lazio,2022-09-08 Lazio-Feyenoord,UEL,22-23,d5eadc89
+ccd38335,Danilo,9,BRA,FW,23-154,63,0,0,0,0,2,0,0,0,18,0,0,0,0.1,0.1,0.0,2,0,14,15,93.3,2,10,0,0,0,Feyenoord,2022-09-08 Lazio-Feyenoord,UEL,22-23,d5eadc89
+37337aea,Santiago Giménez,29,MEX,FW,21-143,27,2,0,1,1,2,1,0,0,7,1,0,0,1.7,1.1,0.0,2,2,3,3,100.0,0,3,1,1,1,Feyenoord,2022-09-08 Lazio-Feyenoord,UEL,22-23,d5eadc89
+34a0f5ff,Javairô Dilrosun,11,NED,"LW,AM",24-078,63,0,0,0,0,0,0,0,0,15,0,1,0,0.0,0.0,0.2,2,0,9,9,100.0,0,12,1,1,0,Feyenoord,2022-09-08 Lazio-Feyenoord,UEL,22-23,d5eadc89
+4876c9ab,Mats Wieffer,20,NED,AM,22-296,27,0,0,0,0,1,0,0,0,18,1,0,0,0.1,0.1,0.0,1,0,12,13,92.3,2,14,1,0,0,Feyenoord,2022-09-08 Lazio-Feyenoord,UEL,22-23,d5eadc89
+7d7660da,Patrik Wålemark,23,SWE,"RW,LW",20-329,69,0,0,0,0,1,0,0,0,29,1,1,0,0.1,0.1,0.0,1,0,14,22,63.6,4,23,3,1,0,Feyenoord,2022-09-08 Lazio-Feyenoord,UEL,22-23,d5eadc89
+34caa4b3,Oussama Idrissi,26,MAR,LW,26-194,21,0,1,0,0,2,0,1,0,23,1,0,0,0.1,0.1,0.2,4,1,16,18,88.9,2,20,6,0,0,Feyenoord,2022-09-08 Lazio-Feyenoord,UEL,22-23,d5eadc89
+bb718263,Sebastian Szymański,17,POL,LM,23-121,45,0,0,0,0,2,2,0,0,14,0,1,3,0.3,0.3,0.0,0,0,3,6,50.0,1,8,1,0,0,Feyenoord,2022-09-08 Lazio-Feyenoord,UEL,22-23,d5eadc89
+08452314,Alireza Jahanbakhsh,7,IRN,RW,29-028,45,0,0,0,0,2,0,0,0,29,1,0,1,0.1,0.1,0.0,2,0,21,25,84.0,3,26,1,0,0,Feyenoord,2022-09-08 Lazio-Feyenoord,UEL,22-23,d5eadc89
+9bf914b4,Orkun Kökçü,10,TUR,"DM,CM",21-253,90,0,0,0,0,1,0,0,0,67,2,0,1,0.1,0.1,0.3,3,0,49,61,80.3,9,57,0,2,1,Feyenoord,2022-09-08 Lazio-Feyenoord,UEL,22-23,d5eadc89
+803e7aca,Quinten Timber,8,NED,"RM,DM",21-083,85,0,0,0,0,1,0,0,0,59,0,2,1,0.1,0.1,0.0,3,0,43,52,82.7,5,49,3,1,1,Feyenoord,2022-09-08 Lazio-Feyenoord,UEL,22-23,d5eadc89
+089c7323,Igor Paixão,14,BRA,DM,22-072,5,0,0,0,0,1,0,0,0,7,0,0,0,0.0,0.0,0.0,2,0,5,5,100.0,0,5,0,1,0,Feyenoord,2022-09-08 Lazio-Feyenoord,UEL,22-23,d5eadc89
+39e1138f,Quilindschy Hartman,19,NED,LB,20-298,90,0,0,0,0,1,0,0,0,66,2,5,3,0.0,0.0,0.0,2,0,38,50,76.0,4,44,1,0,0,Feyenoord,2022-09-08 Lazio-Feyenoord,UEL,22-23,d5eadc89
+4fac8f81,Dávid Hancko,33,SVK,CB,24-269,90,0,0,0,0,0,0,0,0,54,2,0,2,0.0,0.0,0.0,0,0,43,47,91.5,1,41,0,0,0,Feyenoord,2022-09-08 Lazio-Feyenoord,UEL,22-23,d5eadc89
+9d21da85,Gernot Trauner,18,AUT,CB,30-167,90,0,0,0,0,0,0,0,0,75,1,2,5,0.0,0.0,0.0,1,0,57,65,87.7,5,59,0,0,0,Feyenoord,2022-09-08 Lazio-Feyenoord,UEL,22-23,d5eadc89
+596cc50e,Marcus Pedersen,2,NOR,RB,22-054,90,0,0,0,0,0,0,0,0,42,0,0,2,0.0,0.0,0.3,3,0,24,33,72.7,1,27,4,1,1,Feyenoord,2022-09-08 Lazio-Feyenoord,UEL,22-23,d5eadc89
+53d93280,Justin Bijlow,1,NED,GK,24-229,90,0,0,0,0,0,0,0,0,34,0,0,0,0.0,0.0,0.0,0,0,28,30,93.3,0,22,0,0,0,Feyenoord,2022-09-08 Lazio-Feyenoord,UEL,22-23,d5eadc89

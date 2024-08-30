@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+d0e6399c,Simone Palombi,29,ITA,FW,21-214,90,0,0,0,0,2,1,0,0,14,0,0,1,0.4,0.4,0.0,0,0,9,9,100.0,0,9,0,0,0,Lazio,2017-11-23 Lazio-Vitesse,UEL,17-18,710dbc69
+15e9c7e6,Nani,7,POR,FW,31-006,53,0,0,0,0,0,0,0,0,27,2,0,0,0.0,0.0,0.0,1,0,17,21,81.0,3,22,3,4,2,Lazio,2017-11-23 Lazio-Vitesse,UEL,17-18,710dbc69
+7fd58fe3,Senad Lulić,19,BIH,"FW,DM",31-309,37,0,0,0,0,0,0,0,0,13,1,1,0,0.0,0.0,0.0,0,0,6,10,60.0,0,7,2,1,1,Lazio,2017-11-23 Lazio-Vitesse,UEL,17-18,710dbc69
+c7f24d4b,Luca Crecco,11,ITA,DM,22-078,90,0,0,0,0,1,1,0,0,48,0,0,0,0.0,0.0,0.0,0,0,33,40,82.5,3,28,2,0,0,Lazio,2017-11-23 Lazio-Vitesse,UEL,17-18,710dbc69
+5294a83f,Luis Alberto,18,ESP,"DM,FW",25-056,67,1,0,0,0,1,1,0,0,77,0,0,0,0.0,0.0,0.4,3,0,57,72,79.2,10,52,1,2,1,Lazio,2017-11-23 Lazio-Vitesse,UEL,17-18,710dbc69
+d4535821,Adam Marušić,77,MNE,WB,25-037,23,0,0,0,0,0,0,0,0,11,1,0,1,0.0,0.0,0.0,0,0,5,7,71.4,2,3,1,0,0,Lazio,2017-11-23 Lazio-Vitesse,UEL,17-18,710dbc69
+fb2c533b,Alessandro Murgia,96,ITA,DM,21-106,90,0,0,0,0,0,0,0,0,84,1,3,1,0.0,0.0,0.1,5,1,68,79,86.1,6,44,0,1,1,Lazio,2017-11-23 Lazio-Vitesse,UEL,17-18,710dbc69
+0cd0e21b,Jordan Lukaku,5,BEL,WB,23-121,90,0,0,0,0,0,0,0,0,69,0,2,2,0.0,0.0,0.0,0,0,47,57,82.5,4,38,3,9,4,Lazio,2017-11-23 Lazio-Vitesse,UEL,17-18,710dbc69
+3b57f7f8,Dušan Basta,8,SRB,"WB,DM",33-097,85,0,1,0,0,1,0,0,0,51,1,2,1,0.0,0.0,0.0,3,1,28,36,77.8,5,28,4,1,0,Lazio,2017-11-23 Lazio-Vitesse,UEL,17-18,710dbc69
+3a8b9635,Alessio Miceli,32,ITA,DM,18-084,5,0,0,0,0,0,0,0,0,4,0,1,0,0.0,0.0,0.0,0,0,2,3,66.7,0,0,0,0,0,Lazio,2017-11-23 Lazio-Vitesse,UEL,17-18,710dbc69
+c01c66d9,Bastos,15,ANG,CB,26-241,90,0,0,0,0,1,0,0,0,85,2,1,3,0.1,0.1,0.0,0,0,72,77,93.5,7,58,0,1,1,Lazio,2017-11-23 Lazio-Vitesse,UEL,17-18,710dbc69
+15d0c248,Luiz Felipe,27,ITA,CB,20-246,90,0,0,0,0,1,1,0,0,69,3,4,2,0.1,0.1,0.0,0,0,49,56,87.5,1,38,0,0,0,Lazio,2017-11-23 Lazio-Vitesse,UEL,17-18,710dbc69
+f7223718,Patric,4,ESP,CB,24-220,90,0,0,0,0,0,0,0,0,75,3,0,2,0.0,0.0,0.0,1,0,57,64,89.1,7,45,2,3,3,Lazio,2017-11-23 Lazio-Vitesse,UEL,17-18,710dbc69
+4d64b28e,Ivan Vargić,25,CRO,GK,30-253,90,0,0,0,0,0,0,0,0,34,0,0,0,0.0,0.0,0.0,0,0,27,33,81.8,0,10,0,0,0,Lazio,2017-11-23 Lazio-Vitesse,UEL,17-18,710dbc69
+ebc29a56,Tim Matavž,9,SVN,FW,28-314,61,0,0,0,0,3,0,0,0,12,0,0,0,0.1,0.1,0.0,2,1,2,6,33.3,0,8,2,2,1,Vitesse,2017-11-23 Lazio-Vitesse,UEL,17-18,710dbc69
+a19be070,Luc Castaignos,14,NED,FW,25-057,29,0,0,0,0,1,0,0,0,17,0,0,0,0.1,0.1,0.1,3,0,12,14,85.7,4,14,0,0,0,Vitesse,2017-11-23 Lazio-Vitesse,UEL,17-18,710dbc69
+5700824a,Bryan Linssen,11,NED,LW,27-046,90,1,0,0,0,5,2,0,0,35,1,0,0,0.2,0.2,0.0,1,0,16,24,66.7,3,20,2,2,0,Vitesse,2017-11-23 Lazio-Vitesse,UEL,17-18,710dbc69
+6c6a3300,Milot Rashica,7,KVX,RW,21-148,68,0,0,0,0,0,0,0,0,30,1,2,0,0.0,0.0,0.0,2,0,14,19,73.7,2,24,4,0,0,Vitesse,2017-11-23 Lazio-Vitesse,UEL,17-18,710dbc69
+0b2c9aec,Mitchell van Bergen,16,NED,RW,18-088,22,0,0,0,0,1,0,0,0,14,0,0,0,0.0,0.0,0.0,0,0,5,10,50.0,1,11,3,2,1,Vitesse,2017-11-23 Lazio-Vitesse,UEL,17-18,710dbc69
+9674002f,Mason Mount,19,ENG,AM,18-317,90,0,1,0,0,3,1,0,0,46,3,0,0,0.1,0.1,0.4,11,1,29,39,74.4,7,29,8,5,5,Vitesse,2017-11-23 Lazio-Vitesse,UEL,17-18,710dbc69
+5b0b23dc,Navarone Foor,25,NED,DM,25-292,90,0,0,0,0,2,0,0,0,85,4,3,2,0.1,0.1,0.0,1,0,60,70,85.7,3,57,2,2,1,Vitesse,2017-11-23 Lazio-Vitesse,UEL,17-18,710dbc69
+a78147dd,Thulani Serero,17,RSA,DM,27-226,90,0,0,0,0,0,0,0,0,69,3,1,2,0.0,0.0,0.0,1,0,56,61,91.8,6,40,1,0,0,Vitesse,2017-11-23 Lazio-Vitesse,UEL,17-18,710dbc69
+5d13b8ab,Lassana Faye,43,NED,LB,19-161,90,0,0,0,0,0,0,0,0,42,2,0,1,0.0,0.0,0.0,0,0,26,37,70.3,2,20,1,1,1,Vitesse,2017-11-23 Lazio-Vitesse,UEL,17-18,710dbc69
+9fc0f253,Matt Miazga,5,USA,CB,22-127,90,0,0,0,0,1,0,0,0,85,3,1,1,0.1,0.1,0.0,1,0,67,71,94.4,0,50,0,0,0,Vitesse,2017-11-23 Lazio-Vitesse,UEL,17-18,710dbc69
+a81f4896,Guram Kashia,37,GEO,CB,30-142,90,0,0,0,0,0,0,0,0,92,1,3,0,0.0,0.0,0.0,1,0,74,81,91.4,3,60,0,0,0,Vitesse,2017-11-23 Lazio-Vitesse,UEL,17-18,710dbc69
+fa7e8a83,Julian Lelieveld,29,NED,RB,19-364,80,0,0,0,0,0,0,0,0,63,4,2,0,0.0,0.0,0.0,3,0,55,58,94.8,4,41,1,0,0,Vitesse,2017-11-23 Lazio-Vitesse,UEL,17-18,710dbc69
+242dbdeb,Fankaty Dabo,2,ENG,RB,22-043,10,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,0,0,8,10,80.0,1,7,1,0,0,Vitesse,2017-11-23 Lazio-Vitesse,UEL,17-18,710dbc69
+3392603d,Remko Pasveer,22,NED,GK,34-015,90,0,0,0,0,0,0,0,0,45,0,0,0,0.0,0.0,0.0,1,0,28,44,63.6,0,24,0,0,0,Vitesse,2017-11-23 Lazio-Vitesse,UEL,17-18,710dbc69

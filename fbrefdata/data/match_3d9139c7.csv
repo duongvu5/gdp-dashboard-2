@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+bc6bd723,Alassane Pléa,14,FRA,FW,27-082,90,1,2,0,0,4,1,0,0,49,0,0,1,0.4,0.4,0.9,5,2,31,35,88.6,6,26,1,1,1,Mönchengladbach,2020-05-31 Gladbach-Union Berlin,GER-BL1,19-20,3d9139c7
+6f8cd6d0,Marcus Thuram,10,FRA,LW,22-299,90,2,0,0,0,4,4,0,0,50,0,1,1,1.1,1.1,0.1,1,0,25,36,69.4,4,31,7,7,3,Mönchengladbach,2020-05-31 Gladbach-Union Berlin,GER-BL1,19-20,3d9139c7
+dfb6490a,Patrick Herrmann,7,GER,RW,29-109,72,0,1,0,0,1,0,0,0,36,0,0,1,0.4,0.4,0.1,3,1,13,24,54.2,1,18,3,3,2,Mönchengladbach,2020-05-31 Gladbach-Union Berlin,GER-BL1,19-20,3d9139c7
+496aeede,Christoph Kramer,6,GER,DM,29-102,18,0,0,0,0,0,0,0,0,19,1,0,0,0.0,0.0,0.0,0,0,18,18,100.0,2,13,1,0,0,Mönchengladbach,2020-05-31 Gladbach-Union Berlin,GER-BL1,19-20,3d9139c7
+7cd6badb,Lars Stindl,13,GER,AM,31-279,81,0,0,0,0,2,1,0,0,63,1,1,1,0.1,0.1,0.4,7,2,43,53,81.1,8,30,0,3,1,Mönchengladbach,2020-05-31 Gladbach-Union Berlin,GER-BL1,19-20,3d9139c7
+fe888e39,László Bénes,22,SVK,AM,22-265,9,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,8,8,100.0,1,4,1,0,0,Mönchengladbach,2020-05-31 Gladbach-Union Berlin,GER-BL1,19-20,3d9139c7
+36a59ba4,Florian Neuhaus,32,GER,DM,23-076,89,1,0,0,0,2,2,1,0,67,1,1,0,0.1,0.1,0.0,3,1,49,59,83.1,3,44,3,4,3,Mönchengladbach,2020-05-31 Gladbach-Union Berlin,GER-BL1,19-20,3d9139c7
+7bd5b8fd,Mamadou Doucouré,4,FRA,DM,22-010,1,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,6,6,100.0,0,5,0,0,0,Mönchengladbach,2020-05-31 Gladbach-Union Berlin,GER-BL1,19-20,3d9139c7
+2903a856,Jonas Hofmann,23,GER,"DM,RW",27-322,81,0,0,0,0,1,0,1,0,63,2,0,1,0.0,0.0,0.0,0,0,44,52,84.6,4,34,0,1,0,Mönchengladbach,2020-05-31 Gladbach-Union Berlin,GER-BL1,19-20,3d9139c7
+096a77c4,Ibrahima Traoré,16,GUI,RW,32-040,9,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,0,0,5,8,62.5,1,6,1,3,1,Mönchengladbach,2020-05-31 Gladbach-Union Berlin,GER-BL1,19-20,3d9139c7
+378825c7,Ramy Bensebaini,25,ALG,LB,25-045,89,0,1,0,0,1,0,0,0,71,2,1,2,0.1,0.1,0.4,2,1,47,58,81.0,8,35,0,1,0,Mönchengladbach,2020-05-31 Gladbach-Union Berlin,GER-BL1,19-20,3d9139c7
+b69261a0,Oscar Wendt,17,SWE,LB,34-220,1,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,0,0,0,0,Mönchengladbach,2020-05-31 Gladbach-Union Berlin,GER-BL1,19-20,3d9139c7
+48035304,Nico Elvedi,30,SUI,CB,23-244,90,0,0,0,0,0,0,0,0,69,0,1,1,0.0,0.0,0.0,0,0,58,62,93.5,1,37,0,1,1,Mönchengladbach,2020-05-31 Gladbach-Union Berlin,GER-BL1,19-20,3d9139c7
+f521b80a,Matthias Ginter,28,GER,CB,26-133,90,0,0,0,0,0,0,0,0,86,2,0,0,0.0,0.0,0.0,0,0,67,77,87.0,6,53,0,0,0,Mönchengladbach,2020-05-31 Gladbach-Union Berlin,GER-BL1,19-20,3d9139c7
+4aea5077,Stefan Lainer,18,AUT,RB,27-278,90,0,0,0,0,0,0,1,0,63,0,2,1,0.0,0.0,0.1,2,0,43,47,91.5,3,30,2,1,1,Mönchengladbach,2020-05-31 Gladbach-Union Berlin,GER-BL1,19-20,3d9139c7
+420c18a1,Yann Sommer,1,SUI,GK,31-166,90,0,0,0,0,0,0,0,0,54,0,0,0,0.0,0.0,0.0,0,0,46,54,85.2,0,34,0,0,0,Mönchengladbach,2020-05-31 Gladbach-Union Berlin,GER-BL1,19-20,3d9139c7
+b4cf5806,Sebastian Andersson,10,SWE,FW,28-321,90,1,0,0,0,3,1,0,0,36,0,0,1,0.6,0.6,0.0,3,1,13,24,54.2,0,19,1,1,0,Union Berlin,2020-05-31 Gladbach-Union Berlin,GER-BL1,19-20,3d9139c7
+ab5b7dc1,Marius Bülter,15,GER,AM,27-063,90,0,0,0,0,2,1,1,0,35,1,0,1,0.1,0.1,0.0,1,0,18,26,69.2,3,21,3,2,1,Union Berlin,2020-05-31 Gladbach-Union Berlin,GER-BL1,19-20,3d9139c7
+271b8617,Marcus Ingvartsen,32,DEN,AM,24-148,79,0,1,0,0,1,0,0,0,39,2,0,0,0.0,0.0,0.4,2,0,25,32,78.1,1,22,1,1,0,Union Berlin,2020-05-31 Gladbach-Union Berlin,GER-BL1,19-20,3d9139c7
+f3722c97,Yunus Mallı,18,TUR,AM,28-097,11,0,0,0,0,1,1,0,0,9,0,0,0,0.0,0.0,0.0,0,0,6,6,100.0,1,8,1,1,0,Union Berlin,2020-05-31 Gladbach-Union Berlin,GER-BL1,19-20,3d9139c7
+a4f94a0d,Christian Gentner,34,GER,CM,34-291,79,0,0,0,0,1,0,0,0,47,1,2,1,0.0,0.0,0.3,3,0,24,40,60.0,3,27,1,0,0,Union Berlin,2020-05-31 Gladbach-Union Berlin,GER-BL1,19-20,3d9139c7
+99be8fb5,Anthony Ujah,11,NGA,CM,29-230,11,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,1,0,2,4,50.0,0,2,0,0,0,Union Berlin,2020-05-31 Gladbach-Union Berlin,GER-BL1,19-20,3d9139c7
+924f9191,Grischa Prömel,21,GER,CM,25-143,90,0,0,0,0,0,0,0,0,56,2,2,0,0.0,0.0,0.1,3,0,34,45,75.6,2,38,1,3,2,Union Berlin,2020-05-31 Gladbach-Union Berlin,GER-BL1,19-20,3d9139c7
+bbd86530,Christopher Lenz,25,GER,WB,25-252,59,0,0,0,0,0,0,0,0,32,0,1,1,0.0,0.0,0.0,0,0,15,26,57.7,2,11,0,1,0,Union Berlin,2020-05-31 Gladbach-Union Berlin,GER-BL1,19-20,3d9139c7
+009a4f60,Julian Ryerson,6,NOR,WB,22-196,5,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,1,0,1,1,100.0,0,2,1,0,0,Union Berlin,2020-05-31 Gladbach-Union Berlin,GER-BL1,19-20,3d9139c7
+4b6dd263,Joshua Mees,8,GER,WB,24-046,26,0,0,0,0,3,2,0,0,16,2,0,0,0.2,0.2,0.0,1,0,8,10,80.0,0,11,0,0,0,Union Berlin,2020-05-31 Gladbach-Union Berlin,GER-BL1,19-20,3d9139c7
+056d2d95,Christopher Trimmel,28,AUT,WB,33-097,90,0,0,0,0,0,0,0,0,77,1,1,2,0.0,0.0,0.2,3,0,44,69,63.8,4,36,1,0,0,Union Berlin,2020-05-31 Gladbach-Union Berlin,GER-BL1,19-20,3d9139c7
+821233cc,Neven Subotić,3,SRB,CB,31-173,45,0,0,0,0,0,0,0,0,23,1,0,3,0.0,0.0,0.0,1,0,11,15,73.3,1,7,0,0,0,Union Berlin,2020-05-31 Gladbach-Union Berlin,GER-BL1,19-20,3d9139c7
+4d7faad1,Felix Kroos,23,GER,CB,29-080,45,0,0,0,0,0,0,0,0,26,5,0,1,0.0,0.0,0.0,1,0,18,18,100.0,1,13,0,0,0,Union Berlin,2020-05-31 Gladbach-Union Berlin,GER-BL1,19-20,3d9139c7
+f6bdc830,Keven Schlotterbeck,31,GER,CB,23-033,90,0,0,0,0,0,0,0,0,56,1,2,1,0.0,0.0,0.0,0,0,43,46,93.5,7,37,0,0,0,Union Berlin,2020-05-31 Gladbach-Union Berlin,GER-BL1,19-20,3d9139c7
+b77f44a4,Marvin Friedrich,5,GER,CB,24-170,90,0,0,0,0,1,0,1,0,60,1,2,2,0.2,0.2,0.0,0,0,46,52,88.5,6,42,0,0,0,Union Berlin,2020-05-31 Gladbach-Union Berlin,GER-BL1,19-20,3d9139c7
+17376543,Rafał Gikiewicz,1,POL,GK,32-218,90,0,0,0,0,0,0,0,0,35,0,0,0,0.0,0.0,0.0,1,1,21,30,70.0,0,19,0,0,0,Union Berlin,2020-05-31 Gladbach-Union Berlin,GER-BL1,19-20,3d9139c7

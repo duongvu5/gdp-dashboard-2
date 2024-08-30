@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+9592289a,Simone Zaza,11,ITA,FW,27-160,90,0,0,0,0,5,3,1,0,31,1,0,0,0.6,0.6,0.1,3,0,16,18,88.9,1,26,6,0,0,Torino,2018-12-02 Torino-Genoa,ITA-SERIA_A,18-19,19f1af60
+d705ba44,Andrea Belotti,9,ITA,FW,24-347,90,1,0,1,1,5,3,0,0,47,1,0,1,1.2,0.4,0.0,2,0,18,31,58.1,4,33,2,3,1,Torino,2018-12-02 Torino-Genoa,ITA-SERIA_A,18-19,19f1af60
+440c84ed,Iago Falque,14,ESP,AM,28-332,84,0,0,0,0,3,1,0,0,85,2,0,2,0.1,0.1,0.1,7,2,58,72,80.6,9,58,9,0,0,Torino,2018-12-02 Torino-Genoa,ITA-SERIA_A,18-19,19f1af60
+75efed2e,Vittorio Parigini,27,ITA,AM,22-252,6,0,0,0,0,1,0,0,0,6,0,0,0,0.0,0.0,0.4,1,0,3,5,60.0,1,4,1,0,0,Torino,2018-12-02 Torino-Genoa,ITA-SERIA_A,18-19,19f1af60
+5cec2c74,Soualiho Meïté,23,FRA,CM,24-260,73,0,0,0,0,0,0,1,0,42,1,4,0,0.0,0.0,0.1,1,0,25,33,75.8,2,27,4,3,2,Torino,2018-12-02 Torino-Genoa,ITA-SERIA_A,18-19,19f1af60
+ea06dd97,Daniele Baselli,8,ITA,CM,26-265,17,0,0,0,0,2,0,0,0,18,0,1,1,0.1,0.1,0.1,3,0,11,14,78.6,2,10,0,0,0,Torino,2018-12-02 Torino-Genoa,ITA-SERIA_A,18-19,19f1af60
+f1cfc209,Tomás Rincón,88,VEN,CM,30-323,90,0,1,0,0,1,1,0,0,65,1,1,0,0.0,0.0,0.1,7,0,49,58,84.5,5,41,4,3,2,Torino,2018-12-02 Torino-Genoa,ITA-SERIA_A,18-19,19f1af60
+bbafc0c4,Cristian Ansaldi,15,ARG,WB,32-073,90,1,0,0,0,2,1,0,0,75,1,1,0,0.0,0.0,0.1,5,1,43,65,66.2,7,47,10,5,3,Torino,2018-12-02 Torino-Genoa,ITA-SERIA_A,18-19,19f1af60
+e74f0e59,Lorenzo De Silvestri,29,ITA,WB,30-193,58,0,0,0,0,0,0,0,0,40,0,0,0,0.0,0.0,0.1,2,0,27,39,69.2,5,21,1,0,0,Torino,2018-12-02 Torino-Genoa,ITA-SERIA_A,18-19,19f1af60
+246d153b,Ola Aina,34,NGA,WB,22-055,32,0,0,0,0,1,0,0,0,21,0,0,2,0.1,0.1,0.4,5,0,13,16,81.3,3,11,1,1,1,Torino,2018-12-02 Torino-Genoa,ITA-SERIA_A,18-19,19f1af60
+933d3b51,Koffi Djidji,30,CIV,CB,26-002,90,0,0,0,0,1,0,0,0,86,1,1,2,0.0,0.0,0.0,3,1,57,71,80.3,8,52,3,3,3,Torino,2018-12-02 Torino-Genoa,ITA-SERIA_A,18-19,19f1af60
+93cf32a8,Nicolas Nkoulou,33,CMR,CB,28-250,90,0,0,0,0,0,0,1,0,71,1,3,1,0.0,0.0,0.0,1,0,54,58,93.1,4,43,0,2,1,Torino,2018-12-02 Torino-Genoa,ITA-SERIA_A,18-19,19f1af60
+89976232,Armando Izzo,5,ITA,CB,26-275,90,0,0,0,0,0,0,0,0,75,4,2,1,0.0,0.0,0.0,1,0,50,62,80.6,4,42,4,0,0,Torino,2018-12-02 Torino-Genoa,ITA-SERIA_A,18-19,19f1af60
+10dc46f0,Salvatore Sirigu,39,ITA,GK,31-324,90,0,0,0,0,0,0,0,0,29,0,0,0,0.0,0.0,0.0,0,0,22,29,75.9,0,16,0,0,0,Torino,2018-12-02 Torino-Genoa,ITA-SERIA_A,18-19,19f1af60
+58e933d2,Christian Kouamé,11,CIV,FW,20-361,90,1,0,0,0,3,1,0,0,41,1,0,0,1.3,1.3,0.0,2,0,17,26,65.4,1,25,2,4,2,Genoa,2018-12-02 Torino-Genoa,ITA-SERIA_A,18-19,19f1af60
+17f3620a,Krzysztof Piątek,9,POL,FW,23-154,29,0,0,0,0,1,0,0,0,11,2,0,1,0.6,0.6,0.0,2,0,5,5,100.0,1,5,0,0,0,Genoa,2018-12-02 Torino-Genoa,ITA-SERIA_A,18-19,19f1af60
+f1f1f238,Koray Günter,3,GER,CB,24-108,61,0,0,0,0,0,0,0,0,30,1,1,1,0.0,0.0,0.0,0,0,15,27,55.6,1,15,1,0,0,Genoa,2018-12-02 Torino-Genoa,ITA-SERIA_A,18-19,19f1af60
+5128bde4,Darko Lazović,22,SRB,LW,28-078,90,0,0,0,0,1,0,0,0,31,1,0,0,0.0,0.0,0.1,1,0,11,24,45.8,1,18,4,2,2,Genoa,2018-12-02 Torino-Genoa,ITA-SERIA_A,18-19,19f1af60
+07abb358,Rômulo,8,ITA,RW,31-194,27,0,0,0,0,0,0,2,1,16,1,0,0,0.0,0.0,0.0,0,0,7,14,50.0,1,3,0,0,0,Genoa,2018-12-02 Torino-Genoa,ITA-SERIA_A,18-19,19f1af60
+88895312,Daniel Bessa,24,ITA,CM,25-322,90,0,0,0,0,1,0,1,0,41,2,0,1,0.0,0.0,0.7,6,0,21,34,61.8,1,15,0,0,0,Genoa,2018-12-02 Torino-Genoa,ITA-SERIA_A,18-19,19f1af60
+98e958af,Oscar Hiljemark,88,SWE,CM,26-157,81,0,0,0,0,0,0,0,0,25,0,0,0,0.0,0.0,0.0,3,0,14,21,66.7,3,15,3,1,0,Genoa,2018-12-02 Torino-Genoa,ITA-SERIA_A,18-19,19f1af60
+2ead2809,Gianluca Lapadula,10,PER,FW,28-298,9,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,2,0,0,0,Genoa,2018-12-02 Torino-Genoa,ITA-SERIA_A,18-19,19f1af60
+c1c2c925,Sandro,30,BRA,DM,29-262,73,0,0,0,0,0,0,0,0,34,1,0,0,0.0,0.0,0.0,0,0,16,27,59.3,2,10,0,0,0,Genoa,2018-12-02 Torino-Genoa,ITA-SERIA_A,18-19,19f1af60
+d711d04f,Goran Pandev,19,MKD,DM,35-128,17,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,3,4,75.0,1,2,0,0,0,Genoa,2018-12-02 Torino-Genoa,ITA-SERIA_A,18-19,19f1af60
+35dd6d80,Domenico Criscito,4,ITA,CB,31-337,90,0,0,0,0,0,0,0,0,41,2,4,1,0.0,0.0,0.0,0,0,17,26,65.4,2,11,2,0,0,Genoa,2018-12-02 Torino-Genoa,ITA-SERIA_A,18-19,19f1af60
+a3d94a58,Cristian Romero,17,ARG,CB,20-219,90,0,0,0,0,2,0,0,0,31,1,1,2,0.1,0.1,0.0,1,1,6,12,50.0,0,6,0,0,0,Genoa,2018-12-02 Torino-Genoa,ITA-SERIA_A,18-19,19f1af60
+64cd167d,Davide Biraschi,14,ITA,"RW,CB",24-153,90,0,0,0,0,1,0,1,0,62,1,5,1,0.0,0.0,0.0,0,0,21,45,46.7,2,20,3,3,2,Genoa,2018-12-02 Torino-Genoa,ITA-SERIA_A,18-19,19f1af60
+67f649be,Ionuț Radu,97,ROU,GK,21-188,90,0,0,0,0,0,0,0,0,42,0,0,0,0.0,0.0,0.0,0,0,16,38,42.1,0,20,0,0,0,Genoa,2018-12-02 Torino-Genoa,ITA-SERIA_A,18-19,19f1af60

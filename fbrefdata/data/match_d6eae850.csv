@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+f9446dcd,Max Kruse,10,GER,FW,29-245,87,3,1,0,0,5,3,0,0,62,1,0,0,1.4,1.4,0.5,6,2,44,55,80.0,7,47,1,2,2,Werder Bremen,2017-11-19 Werder Bremen-Hannover 96,GER-BL1,17-18,d6eae850
+94c18565,Florian Kainz,7,AUT,FW,25-026,3,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,4,0,0,0,Werder Bremen,2017-11-19 Werder Bremen-Hannover 96,GER-BL1,17-18,d6eae850
+dba67bc4,Zlatko Junuzović,16,AUT,LW,30-054,81,0,0,0,0,1,1,0,0,49,1,2,1,0.0,0.0,0.3,6,0,32,44,72.7,11,31,4,0,0,Werder Bremen,2017-11-19 Werder Bremen-Hannover 96,GER-BL1,17-18,d6eae850
+ff182fdc,Ishak Belfodil,29,ALG,LW,25-311,9,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,4,5,80.0,0,4,1,1,1,Werder Bremen,2017-11-19 Werder Bremen-Hannover 96,GER-BL1,17-18,d6eae850
+acc7b7ec,Fin Bartels,22,GER,RW,30-285,90,1,2,0,0,3,1,0,0,53,0,1,0,0.8,0.8,1.1,7,3,28,40,70.0,7,44,5,7,2,Werder Bremen,2017-11-19 Werder Bremen-Hannover 96,GER-BL1,17-18,d6eae850
+fe641c1a,Thomas Delaney,6,DEN,LM,26-077,90,0,0,0,0,2,0,0,0,51,2,0,1,0.1,0.1,0.0,1,0,33,44,75.0,6,31,1,1,0,Werder Bremen,2017-11-19 Werder Bremen-Hannover 96,GER-BL1,17-18,d6eae850
+3f7cd8f1,Philipp Bargfrede,44,GER,CM,28-261,70,0,1,0,0,1,0,0,0,49,4,3,2,0.1,0.1,0.5,4,2,31,40,77.5,5,29,2,0,0,Werder Bremen,2017-11-19 Werder Bremen-Hannover 96,GER-BL1,17-18,d6eae850
+49ffe0f2,Jérôme Gondorf,8,GER,CM,29-146,20,0,0,0,0,0,0,0,0,12,2,0,1,0.0,0.0,0.0,1,1,8,8,100.0,2,8,1,0,0,Werder Bremen,2017-11-19 Werder Bremen-Hannover 96,GER-BL1,17-18,d6eae850
+beb882a8,Maximilian Eggestein,35,GER,RM,20-346,90,0,0,0,0,2,0,0,0,42,1,0,0,0.3,0.3,0.0,2,0,24,36,66.7,6,34,3,4,2,Werder Bremen,2017-11-19 Werder Bremen-Hannover 96,GER-BL1,17-18,d6eae850
+9fec8860,Ludwig Augustinsson,5,SWE,LB,23-212,90,0,0,0,0,0,0,0,0,68,1,1,2,0.0,0.0,0.0,0,0,50,63,79.4,5,42,4,0,0,Werder Bremen,2017-11-19 Werder Bremen-Hannover 96,GER-BL1,17-18,d6eae850
+00844823,Niklas Moisander,18,FIN,CB,32-051,90,0,0,0,0,1,1,0,0,59,0,4,0,0.1,0.1,0.0,1,0,42,50,84.0,1,37,0,0,0,Werder Bremen,2017-11-19 Werder Bremen-Hannover 96,GER-BL1,17-18,d6eae850
+a5ae8f8e,Miloš Veljković,13,SRB,CB,22-054,90,0,0,0,0,0,0,0,0,36,2,0,0,0.0,0.0,0.0,0,0,23,30,76.7,2,22,0,0,0,Werder Bremen,2017-11-19 Werder Bremen-Hannover 96,GER-BL1,17-18,d6eae850
+3f65898c,Theodor Gebre Selassie,23,CZE,RB,30-330,90,0,0,0,0,1,1,0,0,88,2,3,1,0.0,0.0,0.1,3,0,68,80,85.0,6,40,3,0,0,Werder Bremen,2017-11-19 Werder Bremen-Hannover 96,GER-BL1,17-18,d6eae850
+0a1cb833,Jiří Pavlenka,1,CZE,GK,25-219,90,0,0,0,0,0,0,0,0,34,0,0,0,0.0,0.0,0.0,0,0,19,31,61.3,0,22,0,0,0,Werder Bremen,2017-11-19 Werder Bremen-Hannover 96,GER-BL1,17-18,d6eae850
+99b7584f,Martin Harnik,14,AUT,FW,30-162,73,0,0,0,0,1,1,0,0,28,1,1,1,0.4,0.4,0.3,3,0,18,21,85.7,2,9,2,1,0,Hannover 96,2017-11-19 Werder Bremen-Hannover 96,GER-BL1,17-18,d6eae850
+d8f5dc3d,Manuel Schmiedebach,8,GER,RW,28-349,17,0,0,0,0,0,0,0,0,12,0,1,1,0.0,0.0,0.1,1,0,8,10,80.0,2,7,0,0,0,Hannover 96,2017-11-19 Werder Bremen-Hannover 96,GER-BL1,17-18,d6eae850
+531807b3,Jonathas,9,BRA,FW,28-258,73,0,0,0,0,1,0,0,0,21,0,0,0,0.0,0.0,0.5,2,0,10,15,66.7,2,12,2,0,0,Hannover 96,2017-11-19 Werder Bremen-Hannover 96,GER-BL1,17-18,d6eae850
+4f16405e,Niclas Füllkrug,24,GER,FW,24-283,17,0,0,0,0,1,1,0,0,6,0,0,0,0.1,0.1,0.0,1,0,3,5,60.0,0,5,0,2,2,Hannover 96,2017-11-19 Werder Bremen-Hannover 96,GER-BL1,17-18,d6eae850
+04c11885,Marvin Bakalorz,6,GER,"AM,LM",28-067,90,0,0,0,0,0,0,0,0,31,0,0,1,0.0,0.0,0.1,3,0,25,29,86.2,4,29,2,2,2,Hannover 96,2017-11-19 Werder Bremen-Hannover 96,GER-BL1,17-18,d6eae850
+e8385ec4,Sebastian Maier,10,GER,LM,24-062,57,0,0,0,0,1,1,0,0,36,2,1,2,0.0,0.0,0.0,0,0,19,28,67.9,5,19,1,0,0,Hannover 96,2017-11-19 Werder Bremen-Hannover 96,GER-BL1,17-18,d6eae850
+a53b661f,Ihlas Bebou,13,TOG,"LM,LW",23-210,33,0,0,0,0,1,1,0,0,10,0,0,0,0.2,0.2,0.0,1,0,8,8,100.0,1,7,0,0,0,Hannover 96,2017-11-19 Werder Bremen-Hannover 96,GER-BL1,17-18,d6eae850
+aeda1f69,Felix Klaus,11,GER,RM,25-067,90,0,0,0,0,3,1,0,0,58,0,2,1,0.2,0.2,0.0,5,0,33,45,73.3,0,40,2,3,1,Hannover 96,2017-11-19 Werder Bremen-Hannover 96,GER-BL1,17-18,d6eae850
+5528407e,Pirmin Schwegler,27,SUI,"DM,CM",30-255,90,0,0,0,0,1,0,0,0,77,2,2,1,0.1,0.1,0.1,5,0,56,67,83.6,5,42,2,1,1,Hannover 96,2017-11-19 Werder Bremen-Hannover 96,GER-BL1,17-18,d6eae850
+d459281d,Miiko Albornoz,3,CHI,LB,26-354,90,0,0,0,0,0,0,0,0,57,1,2,3,0.0,0.0,0.0,2,0,42,50,84.0,1,34,0,2,1,Hannover 96,2017-11-19 Werder Bremen-Hannover 96,GER-BL1,17-18,d6eae850
+791abba1,Salif Sané,20,SEN,CB,27-086,90,0,0,0,0,3,2,0,0,91,5,0,4,0.1,0.1,0.0,0,0,61,75,81.3,3,62,2,1,1,Hannover 96,2017-11-19 Werder Bremen-Hannover 96,GER-BL1,17-18,d6eae850
+e87ad81a,Florian Hübner,19,GER,CB,26-263,90,0,0,0,0,0,0,1,0,61,2,3,3,0.0,0.0,0.0,0,0,46,51,90.2,1,34,1,0,0,Hannover 96,2017-11-19 Werder Bremen-Hannover 96,GER-BL1,17-18,d6eae850
+541cdd20,Oliver Sorg,25,GER,RB,27-174,90,0,0,0,0,1,0,0,0,69,1,1,2,0.1,0.1,0.0,0,0,43,62,69.4,1,34,1,0,0,Hannover 96,2017-11-19 Werder Bremen-Hannover 96,GER-BL1,17-18,d6eae850
+83e0eeb4,Michael Esser,23,GER,GK,29-362,90,0,0,0,0,0,0,0,0,36,0,0,0,0.0,0.0,0.0,0,0,26,34,76.5,0,16,0,0,0,Hannover 96,2017-11-19 Werder Bremen-Hannover 96,GER-BL1,17-18,d6eae850

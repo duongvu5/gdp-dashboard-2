@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+f36c432f,Stevan Jovetić,10,MNE,FW,27-318,58,0,0,0,0,3,1,0,0,31,0,0,1,0.2,0.2,0.0,3,1,16,23,69.6,2,18,1,1,1,Monaco,2017-09-16 Monaco-Strasbourg,FRA-L1,17-18,f92aecdf
+509a4ccb,Keita Baldé,14,SEN,"LM,FW",22-192,32,0,0,0,0,0,0,0,0,21,0,0,0,0.0,0.0,0.0,1,0,12,16,75.0,3,14,1,3,2,Monaco,2017-09-16 Monaco-Strasbourg,FRA-L1,17-18,f92aecdf
+66116290,Radamel Falcao,9,COL,FW,31-218,84,2,1,0,0,3,2,0,0,34,0,1,1,1.2,1.2,0.9,4,1,21,26,80.8,3,26,3,0,0,Monaco,2017-09-16 Monaco-Strasbourg,FRA-L1,17-18,f92aecdf
+5cec2c74,Soualiho Meïté,18,FRA,FW,23-183,6,0,0,0,0,0,0,0,0,16,0,0,0,0.0,0.0,0.0,0,0,13,15,86.7,0,9,0,0,0,Monaco,2017-09-16 Monaco-Strasbourg,FRA-L1,17-18,f92aecdf
+7c2965bb,Rony Lopes,20,POR,LM,21-262,71,1,0,0,0,3,1,0,0,33,0,1,0,0.9,0.9,0.0,1,0,24,26,92.3,3,16,1,3,2,Monaco,2017-09-16 Monaco-Strasbourg,FRA-L1,17-18,f92aecdf
+8f898ba8,Guido Carrillo,11,ARG,FW,26-114,19,0,0,0,0,0,0,0,0,5,1,0,0,0.0,0.0,0.0,0,0,4,4,100.0,0,1,0,0,0,Monaco,2017-09-16 Monaco-Strasbourg,FRA-L1,17-18,f92aecdf
+56f7a928,Youri Tielemans,17,BEL,CM,20-132,90,0,0,0,0,0,0,0,0,70,0,4,0,0.0,0.0,0.0,2,0,48,62,77.4,6,32,0,2,0,Monaco,2017-09-16 Monaco-Strasbourg,FRA-L1,17-18,f92aecdf
+7f3b388c,Fabinho,2,BRA,CM,23-328,90,0,0,0,0,1,0,0,0,75,5,1,2,0.1,0.1,0.0,1,0,52,59,88.1,10,41,2,1,1,Monaco,2017-09-16 Monaco-Strasbourg,FRA-L1,17-18,f92aecdf
+dc3a9a0d,Rachid Ghezzal,7,ALG,RM,25-130,90,0,0,0,0,3,1,0,0,66,1,0,0,0.1,0.1,0.1,7,1,38,53,71.7,5,43,2,5,2,Monaco,2017-09-16 Monaco-Strasbourg,FRA-L1,17-18,f92aecdf
+13c44fc5,Jorge,6,BRA,LB,21-172,90,0,1,0,0,0,0,1,0,77,2,3,1,0.0,0.0,0.8,2,1,35,57,61.4,3,30,5,2,1,Monaco,2017-09-16 Monaco-Strasbourg,FRA-L1,17-18,f92aecdf
+7cab69b5,Jemerson,5,BRA,CB,25-023,90,0,0,0,0,0,0,0,0,72,1,2,2,0.0,0.0,0.0,1,0,54,60,90.0,3,45,2,0,0,Monaco,2017-09-16 Monaco-Strasbourg,FRA-L1,17-18,f92aecdf
+c6056d58,Kamil Glik,25,POL,CB,29-225,90,0,0,0,0,1,0,0,0,75,0,2,1,0.1,0.1,0.0,0,0,48,59,81.4,3,48,1,0,0,Monaco,2017-09-16 Monaco-Strasbourg,FRA-L1,17-18,f92aecdf
+4c5b714f,Djibril Sidibé,19,FRA,RB,25-049,90,0,0,0,0,0,0,1,0,80,3,0,2,0.0,0.0,0.1,2,0,58,67,86.6,7,36,2,3,1,Monaco,2017-09-16 Monaco-Strasbourg,FRA-L1,17-18,f92aecdf
+b7e7937d,Diego Benaglio,16,SUI,GK,34-008,90,0,0,0,0,0,0,0,0,23,0,0,0,0.0,0.0,0.0,0,0,22,22,100.0,0,8,0,0,0,Monaco,2017-09-16 Monaco-Strasbourg,FRA-L1,17-18,f92aecdf
+17f29fb0,Idriss Saadi,9,ALG,FW,25-220,90,0,0,0,0,0,0,0,0,26,0,0,0,0.0,0.0,0.0,1,0,13,20,65.0,0,17,1,1,0,Strasbourg,2017-09-16 Monaco-Strasbourg,FRA-L1,17-18,f92aecdf
+5148dcc5,Martin Terrier,20,FRA,LW,20-196,73,0,0,0,0,0,0,0,0,32,3,0,0,0.0,0.0,0.1,2,0,14,23,60.9,0,20,1,1,0,Strasbourg,2017-09-16 Monaco-Strasbourg,FRA-L1,17-18,f92aecdf
+c27dfb82,Anthony Gonçalves,17,FRA,LW,31-194,17,0,0,0,0,1,0,0,0,29,1,0,1,0.1,0.1,0.0,1,0,18,25,72.0,0,19,2,1,0,Strasbourg,2017-09-16 Monaco-Strasbourg,FRA-L1,17-18,f92aecdf
+909222de,Nuno da Costa,29,CPV,RW,26-218,90,0,0,0,0,1,0,0,0,46,2,1,2,0.1,0.1,0.1,4,0,19,30,63.3,1,23,4,4,3,Strasbourg,2017-09-16 Monaco-Strasbourg,FRA-L1,17-18,f92aecdf
+68a87d66,Ihsan Sacko,7,FRA,AM,20-059,67,0,0,0,0,1,0,0,0,23,1,0,0,0.0,0.0,0.0,0,0,13,18,72.2,2,12,1,0,0,Strasbourg,2017-09-16 Monaco-Strasbourg,FRA-L1,17-18,f92aecdf
+53283127,Jérémy Grimm,6,FRA,DM,30-173,23,0,0,0,0,1,0,0,0,17,2,0,0,0.0,0.0,0.1,2,0,12,13,92.3,2,6,1,1,1,Strasbourg,2017-09-16 Monaco-Strasbourg,FRA-L1,17-18,f92aecdf
+48b28bfd,Jean-Eudes Aholou,8,CIV,DM,23-180,90,0,0,0,0,4,0,0,0,45,3,1,2,0.4,0.4,0.0,2,0,26,35,74.3,5,20,0,0,0,Strasbourg,2017-09-16 Monaco-Strasbourg,FRA-L1,17-18,f92aecdf
+468fdbad,Jonas Martin,28,FRA,"DM,AM",27-160,90,0,0,0,0,1,0,1,0,54,1,1,2,0.1,0.1,0.0,1,0,37,47,78.7,5,32,0,1,1,Strasbourg,2017-09-16 Monaco-Strasbourg,FRA-L1,17-18,f92aecdf
+1ad8cb67,Pablo Martinez,4,FRA,LB,28-207,45,0,0,0,0,0,0,0,0,22,2,2,1,0.0,0.0,0.0,0,0,9,13,69.2,0,10,0,1,0,Strasbourg,2017-09-16 Monaco-Strasbourg,FRA-L1,17-18,f92aecdf
+f7691f63,Dimitri Liénard,11,FRA,LB,29-215,45,0,0,0,0,1,1,0,0,42,1,2,3,0.1,0.1,0.0,3,0,19,31,61.3,2,20,0,1,0,Strasbourg,2017-09-16 Monaco-Strasbourg,FRA-L1,17-18,f92aecdf
+1f713024,Bakary Koné,26,BFA,CB,29-142,90,0,0,0,0,1,0,0,0,30,2,2,0,0.0,0.0,0.0,1,0,21,23,91.3,1,17,0,0,0,Strasbourg,2017-09-16 Monaco-Strasbourg,FRA-L1,17-18,f92aecdf
+dbb10755,Kader Mangane,12,SEN,CB,34-177,90,0,0,0,0,0,0,1,0,35,0,0,1,0.0,0.0,0.1,0,0,16,25,64.0,2,17,0,0,0,Strasbourg,2017-09-16 Monaco-Strasbourg,FRA-L1,17-18,f92aecdf
+e1b3413d,Ernest Seka,22,GUI,RB,30-086,90,0,0,0,0,0,0,0,0,51,0,7,0,0.0,0.0,0.0,0,0,29,39,74.4,6,27,3,3,2,Strasbourg,2017-09-16 Monaco-Strasbourg,FRA-L1,17-18,f92aecdf
+3814120d,Bingourou Kamara,30,SEN,GK,20-330,90,0,0,0,0,0,0,0,0,34,0,0,0,0.0,0.0,0.0,0,0,15,33,45.5,0,17,0,0,0,Strasbourg,2017-09-16 Monaco-Strasbourg,FRA-L1,17-18,f92aecdf

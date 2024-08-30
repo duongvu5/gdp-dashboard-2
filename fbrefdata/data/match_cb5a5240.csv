@@ -1,0 +1,35 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+5eae500a,Romelu Lukaku,90,BEL,FW,30-285,120,0,0,0,0,3,1,0,0,32,0,0,0,0.4,0.4,0.1,3,0,16,25,64.0,1,19,3,2,2,Roma,2024-02-22 Roma-Feyenoord,UEL,23-24,cb5a5240
+d3aaad90,Stephan El Shaarawy,92,ITA,LW,31-118,90,0,1,0,0,2,0,0,0,49,0,1,1,0.1,0.1,0.1,4,1,28,38,73.7,2,30,3,2,1,Roma,2024-02-22 Roma-Feyenoord,UEL,23-24,cb5a5240
+45191c29,Nicola Zalewski,59,POL,LW,22-030,30,0,0,0,0,0,0,0,0,13,0,1,0,0.0,0.0,0.0,0,0,7,8,87.5,2,6,0,1,0,Roma,2024-02-22 Roma-Feyenoord,UEL,23-24,cb5a5240
+e0921a4f,Paulo Dybala,21,ARG,RW,30-099,101,0,0,0,0,1,0,0,0,52,0,0,0,0.0,0.0,0.0,1,0,30,42,71.4,6,34,3,2,1,Roma,2024-02-22 Roma-Feyenoord,UEL,23-24,cb5a5240
+102e2599,Tommaso Baldanzi,35,ITA,RW,20-336,19,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,1,0,2,4,50.0,1,5,2,0,0,Roma,2024-02-22 Roma-Feyenoord,UEL,23-24,cb5a5240
+4a5a45c7,Lorenzo Pellegrini,7,ITA,LM,27-248,70,1,0,0,0,3,1,0,0,49,0,1,4,0.2,0.2,0.3,2,0,27,39,69.2,3,23,2,1,1,Roma,2024-02-22 Roma-Feyenoord,UEL,23-24,cb5a5240
+a5db0bec,Houssem Aouar,22,ALG,LM,25-237,50,0,0,0,0,0,0,0,0,21,0,1,1,0.0,0.0,0.0,1,0,18,19,94.7,4,8,3,1,1,Roma,2024-02-22 Roma-Feyenoord,UEL,23-24,cb5a5240
+dff153a4,Leandro Paredes,16,ARG,CM,29-238,120,0,0,0,0,1,0,1,0,110,1,1,3,0.0,0.0,0.1,4,1,91,103,88.3,9,60,1,1,1,Roma,2024-02-22 Roma-Feyenoord,UEL,23-24,cb5a5240
+16657b95,Bryan Cristante,4,ITA,RM,28-356,120,0,0,0,0,3,0,0,0,66,4,0,2,0.4,0.4,0.0,2,0,35,53,66.0,6,27,3,0,0,Roma,2024-02-22 Roma-Feyenoord,UEL,23-24,cb5a5240
+3626daea,Leonardo Spinazzola,37,ITA,LB,30-334,105,0,0,0,0,0,0,1,0,82,2,0,0,0.0,0.0,0.1,3,0,58,72,80.6,1,47,5,3,2,Roma,2024-02-22 Roma-Feyenoord,UEL,23-24,cb5a5240
+30941e96,Angeliño,69,ESP,LB,27-049,15,0,0,0,0,0,0,0,0,14,0,1,0,0.0,0.0,0.1,1,0,9,12,75.0,1,2,0,0,0,Roma,2024-02-22 Roma-Feyenoord,UEL,23-24,cb5a5240
+5aa53281,Gianluca Mancini,23,ITA,CB,27-311,120,0,0,0,0,1,0,0,0,102,1,2,0,0.0,0.0,0.3,2,0,87,95,91.6,9,69,2,0,0,Roma,2024-02-22 Roma-Feyenoord,UEL,23-24,cb5a5240
+bba30585,Diego Llorente,14,ESP,CB,30-190,84,0,0,0,0,0,0,0,0,62,2,0,0,0.0,0.0,0.0,1,0,53,56,94.6,3,39,0,0,0,Roma,2024-02-22 Roma-Feyenoord,UEL,23-24,cb5a5240
+441197b8,Obite N'Dicka,5,CIV,CB,24-186,36,0,0,0,0,0,0,1,0,56,0,0,0,0.0,0.0,0.0,0,0,44,51,86.3,5,34,2,0,0,Roma,2024-02-22 Roma-Feyenoord,UEL,23-24,cb5a5240
+9f84febe,Rick Karsdorp,2,NED,RB,29-011,66,0,0,0,0,1,0,0,0,45,1,2,1,0.0,0.0,0.0,1,0,32,39,82.1,2,25,0,0,0,Roma,2024-02-22 Roma-Feyenoord,UEL,23-24,cb5a5240
+31a62dc7,Zeki Çelik,19,TUR,RB,27-005,54,0,0,0,0,0,0,0,0,28,2,0,0,0.0,0.0,0.0,0,0,21,25,84.0,0,15,4,0,0,Roma,2024-02-22 Roma-Feyenoord,UEL,23-24,cb5a5240
+bcf5058a,Mile Svilar,99,SRB,GK,24-179,120,0,0,0,0,0,0,0,0,52,0,0,0,0.0,0.0,0.0,0,0,42,48,87.5,0,42,0,0,0,Roma,2024-02-22 Roma-Feyenoord,UEL,23-24,cb5a5240
+37337aea,Santiago Giménez,29,MEX,FW,22-310,77,1,0,0,0,2,1,0,0,18,0,0,1,0.3,0.3,0.3,1,0,7,10,70.0,1,9,1,0,0,Feyenoord,2024-02-22 Roma-Feyenoord,UEL,23-24,cb5a5240
+c0295327,Ayase Ueda,9,JPN,FW,25-165,43,0,0,0,0,1,0,0,0,18,0,0,1,0.0,0.0,0.0,1,0,6,9,66.7,0,5,0,0,0,Feyenoord,2024-02-22 Roma-Feyenoord,UEL,23-24,cb5a5240
+089c7323,Igor Paixão,14,BRA,LW,23-239,59,0,0,0,0,0,0,0,0,19,0,0,0,0.0,0.0,0.0,0,0,7,13,53.8,2,8,1,1,0,Feyenoord,2024-02-22 Roma-Feyenoord,UEL,23-24,cb5a5240
+29fbdc88,Luka Ivanušec,17,CRO,LW,25-088,61,0,0,0,0,1,1,0,0,36,0,2,0,0.0,0.0,0.1,2,0,21,28,75.0,1,21,1,4,2,Feyenoord,2024-02-22 Roma-Feyenoord,UEL,23-24,cb5a5240
+f40dd3c7,Bart Nieuwkoop,2,NED,RW,27-352,70,0,0,0,0,0,0,0,0,25,1,1,0,0.0,0.0,0.0,0,0,8,18,44.4,2,10,1,1,0,Feyenoord,2024-02-22 Roma-Feyenoord,UEL,23-24,cb5a5240
+c3cf087d,Yankuba Minteh,19,GAM,RW,19-215,50,0,0,0,0,1,1,0,0,16,2,0,2,0.0,0.0,0.0,0,0,4,6,66.7,1,8,1,1,0,Feyenoord,2024-02-22 Roma-Feyenoord,UEL,23-24,cb5a5240
+8f7e6783,Calvin Stengs,10,NED,AM,25-066,59,0,0,0,0,0,0,0,0,19,0,0,1,0.0,0.0,0.0,2,1,13,16,81.3,4,10,0,0,0,Feyenoord,2024-02-22 Roma-Feyenoord,UEL,23-24,cb5a5240
+c762b1a6,Ramiz Zerrouki,6,ALG,AM,25-272,61,0,0,0,0,0,0,0,0,37,0,1,1,0.0,0.0,0.0,0,0,30,32,93.8,1,20,0,2,1,Feyenoord,2024-02-22 Roma-Feyenoord,UEL,23-24,cb5a5240
+803e7aca,Quinten Timber,8,NED,DM,22-250,120,0,0,0,0,0,0,1,0,58,2,1,1,0.0,0.0,0.3,2,0,31,45,68.9,4,34,4,3,1,Feyenoord,2024-02-22 Roma-Feyenoord,UEL,23-24,cb5a5240
+4876c9ab,Mats Wieffer,20,NED,DM,24-098,119,0,0,0,0,2,1,1,0,57,1,2,4,0.3,0.3,0.0,1,0,35,43,81.4,5,25,2,1,1,Feyenoord,2024-02-22 Roma-Feyenoord,UEL,23-24,cb5a5240
+08452314,Alireza Jahanbakhsh,7,IRN,DM,30-195,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Feyenoord,2024-02-22 Roma-Feyenoord,UEL,23-24,cb5a5240
+39e1138f,Quilindschy Hartman,5,NED,LB,22-100,120,0,0,0,0,0,0,0,0,92,2,3,0,0.0,0.0,0.0,3,0,61,80,76.3,10,47,2,1,1,Feyenoord,2024-02-22 Roma-Feyenoord,UEL,23-24,cb5a5240
+4fac8f81,Dávid Hancko,33,SVK,CB,26-071,120,0,0,0,0,0,0,1,0,83,1,2,3,0.0,0.0,0.0,1,1,60,63,95.2,2,43,0,0,0,Feyenoord,2024-02-22 Roma-Feyenoord,UEL,23-24,cb5a5240
+530e7d85,Thomas Beelen,3,NED,CB,22-256,120,0,0,0,0,0,0,0,0,63,2,2,0,0.0,0.0,0.0,0,0,45,49,91.8,3,27,0,1,1,Feyenoord,2024-02-22 Roma-Feyenoord,UEL,23-24,cb5a5240
+242e1043,Lutsharel Geertruida,4,NED,RB,23-219,120,0,0,0,0,0,0,1,0,63,2,1,2,0.0,0.0,0.0,1,0,43,55,78.2,7,19,1,0,0,Feyenoord,2024-02-22 Roma-Feyenoord,UEL,23-24,cb5a5240
+2f18d0b8,Timon Wellenreuther,22,GER,GK,28-081,120,0,0,0,0,0,0,0,0,67,0,0,0,0.0,0.0,0.0,0,0,40,66,60.6,0,44,0,0,0,Feyenoord,2024-02-22 Roma-Feyenoord,UEL,23-24,cb5a5240

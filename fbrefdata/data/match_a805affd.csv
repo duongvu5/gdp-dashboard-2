@@ -1,0 +1,29 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+8c90fd7a,Victor Osimhen,7,NGA,FW,20-336,90,1,0,1,1,3,1,0,0,37,0,1,0,1.0,0.2,0.1,5,1,10,17,58.8,0,19,2,2,0,Lille,2019-11-30 Lille-Dijon,FRA-L1,19-20,a805affd
+b2bd0f6c,Jonathan Bamba,14,CIV,LW,23-249,90,0,0,0,0,3,2,0,0,46,1,0,0,0.1,0.1,0.0,1,0,25,36,69.4,5,26,4,5,3,Lille,2019-11-30 Lille-Dijon,FRA-L1,19-20,a805affd
+f5c8b425,Yusuf Yazıcı,12,TUR,RW,22-305,70,0,0,0,0,3,0,0,0,42,2,1,3,0.2,0.2,0.2,7,0,13,28,46.4,2,19,2,2,1,Lille,2019-11-30 Lille-Dijon,FRA-L1,19-20,a805affd
+ef9c1c95,Benjamin André,21,FRA,DM,29-119,20,0,0,0,0,0,0,0,0,8,0,1,1,0.0,0.0,0.0,1,0,4,6,66.7,0,3,0,0,0,Lille,2019-11-30 Lille-Dijon,FRA-L1,19-20,a805affd
+42eaa028,Jonathan Ikone,10,FRA,AM,21-212,77,0,0,0,0,1,0,0,0,31,0,0,0,0.0,0.0,0.3,3,1,15,24,62.5,1,15,1,1,0,Lille,2019-11-30 Lille-Dijon,FRA-L1,19-20,a805affd
+fa18c72e,Luiz Araújo,11,BRA,AM,23-181,13,0,0,0,0,1,0,0,0,13,0,0,1,0.0,0.0,0.0,1,0,7,10,70.0,2,9,1,0,0,Lille,2019-11-30 Lille-Dijon,FRA-L1,19-20,a805affd
+032f894e,Renato Sanches,18,POR,"DM,RW",22-104,90,0,0,0,0,3,1,0,0,61,2,1,1,0.1,0.1,0.1,7,0,39,49,79.6,1,35,3,9,8,Lille,2019-11-30 Lille-Dijon,FRA-L1,19-20,a805affd
+f3600c02,Xeka,8,POR,DM,25-020,90,0,0,0,0,1,0,0,0,59,3,1,1,0.1,0.1,0.0,8,0,42,50,84.0,8,31,4,2,1,Lille,2019-11-30 Lille-Dijon,FRA-L1,19-20,a805affd
+c20bdcd7,Reinildo Mandava,28,MOZ,LB,25-313,83,0,0,0,0,0,0,1,0,56,3,3,1,0.0,0.0,0.0,0,0,37,48,77.1,5,26,0,1,1,Lille,2019-11-30 Lille-Dijon,FRA-L1,19-20,a805affd
+8bbe2df5,Domagoj Bradarić,29,CRO,LB,19-355,7,0,0,0,0,0,0,0,0,4,1,2,0,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,0,0,Lille,2019-11-30 Lille-Dijon,FRA-L1,19-20,a805affd
+67ac5bb8,Gabriel Magalhães,4,BRA,CB,21-346,90,0,0,0,0,1,0,0,0,78,0,1,2,0.0,0.0,0.0,0,0,55,69,79.7,4,47,2,0,0,Lille,2019-11-30 Lille-Dijon,FRA-L1,19-20,a805affd
+90f87966,José Fonte,6,POR,CB,35-343,90,0,0,0,0,1,0,0,0,73,1,1,0,0.1,0.1,0.1,0,0,56,64,87.5,2,45,0,0,0,Lille,2019-11-30 Lille-Dijon,FRA-L1,19-20,a805affd
+a634b9d2,Jérémy Pied,26,FRA,RB,30-280,90,0,0,0,0,1,0,1,0,62,4,1,3,0.1,0.1,0.0,2,0,26,48,54.2,1,18,0,1,0,Lille,2019-11-30 Lille-Dijon,FRA-L1,19-20,a805affd
+fcb38f57,Mike Maignan,16,FRA,GK,24-150,90,0,0,0,0,0,0,0,0,24,0,0,0,0.0,0.0,0.0,0,0,12,24,50.0,0,5,0,0,0,Lille,2019-11-30 Lille-Dijon,FRA-L1,19-20,a805affd
+e8edfdc9,Jhonder Cádiz,19,VEN,FW,24-124,90,0,0,0,0,2,0,0,0,28,1,0,1,0.4,0.4,0.0,2,0,12,21,57.1,4,12,2,4,4,Dijon,2019-11-30 Lille-Dijon,FRA-L1,19-20,a805affd
+30144daa,Stephy Mavididi,9,ENG,LW,21-183,56,0,0,0,0,0,0,0,0,18,0,0,0,0.0,0.0,0.0,0,0,10,11,90.9,1,15,2,4,2,Dijon,2019-11-30 Lille-Dijon,FRA-L1,19-20,a805affd
+d520120b,Júlio Tavares,11,CPV,FW,31-011,34,0,0,0,0,1,0,0,0,14,0,0,0,0.1,0.1,0.0,1,0,2,8,25.0,2,7,0,0,0,Dijon,2019-11-30 Lille-Dijon,FRA-L1,19-20,a805affd
+fb14aa28,Mama Samba Baldé,17,GNB,"RW,RM",24-024,90,0,0,0,0,2,0,0,0,28,0,0,1,0.1,0.1,0.4,2,0,10,14,71.4,1,19,2,3,1,Dijon,2019-11-30 Lille-Dijon,FRA-L1,19-20,a805affd
+45c1c326,Mounir Chouiar,21,FRA,"AM,LM",20-311,90,0,0,0,0,0,0,0,0,45,4,0,1,0.0,0.0,0.2,4,0,22,34,64.7,2,27,5,7,4,Dijon,2019-11-30 Lille-Dijon,FRA-L1,19-20,a805affd
+885b7aa7,Didier Ibrahim Ndong,22,GAB,"DM,CM",25-166,90,0,0,0,0,0,0,0,0,59,5,2,2,0.0,0.0,0.0,0,0,36,47,76.6,3,32,1,0,0,Dijon,2019-11-30 Lille-Dijon,FRA-L1,19-20,a805affd
+6e5b5a45,Wesley Lautoa,24,NCL,"DM,CM",32-097,81,0,0,0,0,0,0,0,0,62,5,1,4,0.0,0.0,0.0,0,0,42,47,89.4,2,34,0,1,0,Dijon,2019-11-30 Lille-Dijon,FRA-L1,19-20,a805affd
+d7bf3d19,Romain Amalfitano,20,FRA,CM,30-095,9,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,4,6,66.7,2,6,1,2,1,Dijon,2019-11-30 Lille-Dijon,FRA-L1,19-20,a805affd
+0a63446f,Mickaël Alphonse,2,GLP,LB,30-141,90,0,0,0,0,0,0,0,0,68,2,2,0,0.0,0.0,0.0,0,0,36,58,62.1,2,36,0,1,1,Dijon,2019-11-30 Lille-Dijon,FRA-L1,19-20,a805affd
+72a0fb65,Bruno Ecuele Manga,25,GAB,CB,31-137,90,0,0,0,0,1,0,1,0,77,2,4,3,0.1,0.1,0.0,1,0,50,61,82.0,1,49,0,0,0,Dijon,2019-11-30 Lille-Dijon,FRA-L1,19-20,a805affd
+67b7357e,Senou Coulibaly,5,MLI,CB,25-087,90,0,0,0,0,1,0,0,0,69,3,2,1,0.1,0.1,0.0,0,0,46,55,83.6,1,42,0,0,0,Dijon,2019-11-30 Lille-Dijon,FRA-L1,19-20,a805affd
+edd1466a,Fouad Chafik,26,MAR,RB,33-045,90,0,0,0,0,1,0,0,0,70,2,3,0,0.0,0.0,0.1,4,0,39,62,62.9,3,34,1,2,2,Dijon,2019-11-30 Lille-Dijon,FRA-L1,19-20,a805affd
+cecbce23,Alfred Gomis,16,SEN,GK,26-086,90,0,0,0,0,0,0,0,0,49,0,0,0,0.0,0.0,0.0,1,0,26,47,55.3,0,29,0,0,0,Dijon,2019-11-30 Lille-Dijon,FRA-L1,19-20,a805affd

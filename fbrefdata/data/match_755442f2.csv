@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+e067808c,Alexandre Mendy,15,GNB,FW,25-269,80,0,0,0,0,2,0,0,0,18,0,0,0,0.4,0.4,0.0,0,0,9,15,60.0,2,8,0,0,0,Brest,2019-12-14 Brest-Nice,FRA-L1,19-20,755442f2
+26e4447b,Yoann Court,8,FRA,FW,29-334,10,0,0,0,0,1,0,0,0,10,1,0,0,0.0,0.0,0.0,1,0,6,7,85.7,1,6,0,1,0,Brest,2019-12-14 Brest-Nice,FRA-L1,19-20,755442f2
+5e080f73,Irvin Cardona,14,FRA,LW,22-128,90,0,0,0,0,2,2,0,0,45,0,0,1,0.3,0.3,0.2,4,0,26,38,68.4,8,26,7,1,0,Brest,2019-12-14 Brest-Nice,FRA-L1,19-20,755442f2
+18ebca4b,Gaëtan Charbonnier,10,FRA,RW,30-352,67,0,0,0,1,2,1,0,0,52,1,1,1,0.9,0.1,0.0,2,0,25,39,64.1,4,30,1,1,1,Brest,2019-12-14 Brest-Nice,FRA-L1,19-20,755442f2
+7dfbba27,Mathias Autret,23,FRA,RW,28-288,23,0,0,0,0,1,0,0,0,18,0,0,0,0.0,0.0,0.2,4,0,11,16,68.8,0,10,2,1,1,Brest,2019-12-14 Brest-Nice,FRA-L1,19-20,755442f2
+0f9b8301,Cristian Battocchio,11,ITA,LM,27-307,90,0,0,0,0,3,0,1,0,44,4,3,0,0.1,0.1,0.0,2,0,24,33,72.7,3,24,0,0,0,Brest,2019-12-14 Brest-Nice,FRA-L1,19-20,755442f2
+11ff3d56,Ibrahima Diallo,6,FRA,CM,20-281,90,0,0,0,0,1,0,1,0,73,3,3,0,0.0,0.0,0.0,1,0,57,65,87.7,9,44,2,2,2,Brest,2019-12-14 Brest-Nice,FRA-L1,19-20,755442f2
+542cc80f,Paul Lasne,13,FRA,RM,30-332,90,0,0,0,0,2,1,0,0,70,2,1,2,0.1,0.1,0.4,7,0,53,60,88.3,5,41,2,0,0,Brest,2019-12-14 Brest-Nice,FRA-L1,19-20,755442f2
+d3ce9f1f,Ludovic Baal,24,GUF,LB,33-204,90,0,0,0,0,0,0,0,0,102,3,1,3,0.0,0.0,0.0,1,0,77,93,82.8,5,54,1,2,2,Brest,2019-12-14 Brest-Nice,FRA-L1,19-20,755442f2
+0cbc8baa,Jean-Kevin Duverne,2,HAI,CB,22-155,90,0,0,0,0,0,0,0,0,84,2,4,1,0.0,0.0,0.0,2,0,67,76,88.2,4,48,2,0,0,Brest,2019-12-14 Brest-Nice,FRA-L1,19-20,755442f2
+e0f3a1f6,Jean-Charles Castelletto,21,CMR,CB,24-322,45,0,0,0,0,0,0,1,0,47,0,1,0,0.0,0.0,0.0,1,0,41,45,91.1,2,38,0,0,0,Brest,2019-12-14 Brest-Nice,FRA-L1,19-20,755442f2
+5065d67d,Dénys Bain,17,FRA,CB,26-165,45,0,0,0,0,1,0,0,0,33,1,1,1,0.1,0.1,0.0,1,0,23,27,85.2,2,19,0,0,0,Brest,2019-12-14 Brest-Nice,FRA-L1,19-20,755442f2
+767212e6,Julien Faussurier,22,FRA,RB,32-334,90,0,0,0,0,0,0,0,0,78,2,5,0,0.0,0.0,0.0,3,0,44,65,67.7,7,39,3,2,0,Brest,2019-12-14 Brest-Nice,FRA-L1,19-20,755442f2
+b49729cb,Gautier Larsonneur,1,FRA,GK,22-294,90,0,0,0,0,0,0,0,0,52,0,0,0,0.0,0.0,0.0,0,0,42,45,93.3,0,27,0,0,0,Brest,2019-12-14 Brest-Nice,FRA-L1,19-20,755442f2
+cc83b74d,Kasper Dolberg,9,DEN,FW,22-069,90,0,0,0,0,1,1,0,0,16,0,0,0,0.4,0.4,0.0,0,0,7,11,63.6,0,8,2,1,1,Nice,2019-12-14 Brest-Nice,FRA-L1,19-20,755442f2
+741418c3,Alexis Claude-Maurice,18,FRA,LW,21-191,72,0,0,0,0,3,2,0,0,41,1,2,3,0.4,0.4,0.0,1,0,21,26,80.8,3,25,5,1,1,Nice,2019-12-14 Brest-Nice,FRA-L1,19-20,755442f2
+706a60e1,Myziane Maolida,7,COM,LW,20-303,18,0,0,0,0,0,0,0,0,9,1,0,0,0.0,0.0,0.0,1,0,5,6,83.3,0,8,3,1,1,Nice,2019-12-14 Brest-Nice,FRA-L1,19-20,755442f2
+23c63b7f,Ignatius Ganago,14,CMR,RW,20-301,63,0,0,0,0,0,0,0,0,17,1,0,1,0.0,0.0,0.0,3,0,9,12,75.0,0,8,2,2,2,Nice,2019-12-14 Brest-Nice,FRA-L1,19-20,755442f2
+8da74c05,Adrien Tameze,5,CMR,"RM,RW",25-313,27,0,0,0,0,1,0,0,0,15,1,2,0,0.0,0.0,0.0,1,0,9,11,81.8,2,8,1,0,0,Nice,2019-12-14 Brest-Nice,FRA-L1,19-20,755442f2
+ed90babd,Adam Ounas,10,ALG,"AM,RW",23-033,89,0,0,0,0,2,1,0,0,30,1,0,1,0.1,0.1,0.4,2,0,14,20,70.0,3,24,3,6,4,Nice,2019-12-14 Brest-Nice,FRA-L1,19-20,755442f2
+7d9397f8,Khéphren Thuram,19,FRA,CM,18-263,1,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,0,2,0.0,0,0,0,0,0,Nice,2019-12-14 Brest-Nice,FRA-L1,19-20,755442f2
+f5044e54,Pierre Lees-Melou,8,FRA,"DM,LM,CM",26-203,90,0,0,0,0,3,2,0,0,59,1,1,2,0.1,0.1,0.1,5,0,34,45,75.6,9,26,2,2,2,Nice,2019-12-14 Brest-Nice,FRA-L1,19-20,755442f2
+3e092724,Wylan Cyprien,25,FRA,"DM,CM",24-320,90,0,0,0,0,3,1,0,0,62,1,0,0,0.1,0.1,0.1,5,0,41,54,75.9,6,26,2,1,1,Nice,2019-12-14 Brest-Nice,FRA-L1,19-20,755442f2
+61590953,Stanley N'Soki,2,FRA,LB,20-249,90,0,0,0,0,1,0,0,0,79,3,2,1,0.0,0.0,0.0,3,0,51,64,79.7,5,32,3,3,0,Nice,2019-12-14 Brest-Nice,FRA-L1,19-20,755442f2
+4315f30d,Malang Sarr,23,FRA,CB,20-325,90,0,0,0,0,0,0,0,0,49,1,3,1,0.0,0.0,0.0,1,0,27,34,79.4,0,18,0,0,0,Nice,2019-12-14 Brest-Nice,FRA-L1,19-20,755442f2
+fd2bc67d,Dante,4,BRA,CB,36-057,90,0,0,0,0,1,0,1,0,55,0,4,0,0.1,0.1,0.0,2,0,33,39,84.6,1,18,0,0,0,Nice,2019-12-14 Brest-Nice,FRA-L1,19-20,755442f2
+8746d5d0,Patrick Burner,15,MTQ,RB,23-247,90,0,0,0,0,0,0,1,0,56,0,4,2,0.0,0.0,0.0,0,0,34,44,77.3,4,21,1,1,1,Nice,2019-12-14 Brest-Nice,FRA-L1,19-20,755442f2
+8a2248b4,Walter Benítez,40,ARG,GK,26-329,90,0,0,0,0,0,0,0,0,34,0,0,0,0.0,0.0,0.0,1,0,19,29,65.5,0,13,0,0,0,Nice,2019-12-14 Brest-Nice,FRA-L1,19-20,755442f2

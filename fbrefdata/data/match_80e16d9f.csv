@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+9efa1d25,Mario Götze,10,GER,FW,26-160,58,0,0,0,0,0,0,0,0,29,1,0,1,0.0,0.0,0.0,0,0,15,23,65.2,4,23,0,2,2,Dortmund,2018-11-10 Dortmund-Bayern Munich,GER-BL1,18-19,80e16d9f
+a7a9d95a,Paco Alcácer,9,ESP,FW,25-072,32,1,0,0,0,1,1,0,0,7,0,0,0,0.6,0.6,0.0,0,0,2,4,50.0,0,7,1,0,0,Dortmund,2018-11-10 Dortmund-Bayern Munich,GER-BL1,18-19,80e16d9f
+4e204552,Jacob Bruun Larsen,34,DEN,LW,20-052,81,0,0,0,0,1,0,0,0,27,0,0,0,0.1,0.1,0.0,0,0,10,16,62.5,2,16,2,2,1,Dortmund,2018-11-10 Dortmund-Bayern Munich,GER-BL1,18-19,80e16d9f
+fe641c1a,Thomas Delaney,6,DEN,CM,27-068,9,0,0,0,0,0,0,0,0,5,0,1,0,0.0,0.0,0.0,0,0,0,2,0.0,0,0,0,0,0,Dortmund,2018-11-10 Dortmund-Bayern Munich,GER-BL1,18-19,80e16d9f
+dbf053da,Jadon Sancho,7,ENG,RW,18-230,90,0,0,0,0,1,0,0,0,55,2,0,0,0.0,0.0,0.0,4,1,30,41,73.2,3,44,3,7,3,Dortmund,2018-11-10 Dortmund-Bayern Munich,GER-BL1,18-19,80e16d9f
+36a3ff67,Marco Reus,11,GER,"AM,LW",29-163,90,2,0,1,1,5,2,0,0,46,4,0,1,1.9,1.1,0.0,6,2,23,32,71.9,6,31,6,3,3,Dortmund,2018-11-10 Dortmund-Bayern Munich,GER-BL1,18-19,80e16d9f
+5dfc6ad5,Axel Witsel,28,BEL,"DM,CM",29-302,90,0,1,0,0,1,0,0,0,58,0,1,1,0.0,0.0,0.6,2,1,52,54,96.3,6,44,1,3,3,Dortmund,2018-11-10 Dortmund-Bayern Munich,GER-BL1,18-19,80e16d9f
+346d51d9,Julian Weigl,33,GER,DM,23-063,45,0,0,0,0,0,0,1,0,31,1,0,1,0.0,0.0,0.0,0,0,19,24,79.2,1,19,0,0,0,Dortmund,2018-11-10 Dortmund-Bayern Munich,GER-BL1,18-19,80e16d9f
+db4ed67b,Mahmoud Dahoud,19,GER,"DM,CM",22-313,45,0,0,0,0,0,0,0,0,31,2,0,0,0.0,0.0,0.0,3,1,21,27,77.8,4,22,1,1,1,Dortmund,2018-11-10 Dortmund-Bayern Munich,GER-BL1,18-19,80e16d9f
+e42d61c7,Achraf Hakimi,5,MAR,LB,20-006,90,0,0,0,0,1,0,0,0,72,4,2,4,0.0,0.0,0.1,2,0,39,52,75.0,0,36,1,3,1,Dortmund,2018-11-10 Dortmund-Bayern Munich,GER-BL1,18-19,80e16d9f
+a4effc55,Dan-Axel Zagadou,2,FRA,CB,19-160,90,0,0,0,0,0,0,0,0,86,2,1,1,0.0,0.0,0.0,0,0,59,70,84.3,3,48,0,2,2,Dortmund,2018-11-10 Dortmund-Bayern Munich,GER-BL1,18-19,80e16d9f
+89ac64a6,Manuel Akanji,16,SUI,CB,23-114,90,0,0,0,0,0,0,1,0,75,1,1,3,0.0,0.0,0.0,0,0,56,62,90.3,2,54,1,1,1,Dortmund,2018-11-10 Dortmund-Bayern Munich,GER-BL1,18-19,80e16d9f
+fe2db476,Łukasz Piszczek,26,POL,RB,33-160,90,0,1,0,0,0,0,0,0,68,4,2,3,0.0,0.0,0.1,1,1,35,45,77.8,5,28,1,0,0,Dortmund,2018-11-10 Dortmund-Bayern Munich,GER-BL1,18-19,80e16d9f
+2e7ff968,Marwin Hitz,35,SUI,GK,31-053,90,0,0,0,0,0,0,1,0,40,0,0,0,0.0,0.0,0.0,0,0,30,39,76.9,0,25,0,0,0,Dortmund,2018-11-10 Dortmund-Bayern Munich,GER-BL1,18-19,80e16d9f
+8d78e732,Robert Lewandowski,9,POL,FW,30-081,90,2,0,0,0,2,2,0,0,26,0,0,0,1.4,1.4,0.1,2,0,11,16,68.8,3,19,1,0,0,Bayern Munich,2018-11-10 Dortmund-Bayern Munich,GER-BL1,18-19,80e16d9f
+f61c7c4e,Franck Ribéry,7,FRA,"LW,LM",35-217,90,0,0,0,0,6,1,1,0,79,4,0,0,0.4,0.4,0.0,1,0,43,58,74.1,8,60,10,5,2,Bayern Munich,2018-11-10 Dortmund-Bayern Munich,GER-BL1,18-19,80e16d9f
+88e357ef,Serge Gnabry,22,GER,RW,23-119,73,0,1,0,0,1,0,0,0,37,3,0,0,0.1,0.1,0.5,4,2,23,27,85.2,5,20,1,2,1,Bayern Munich,2018-11-10 Dortmund-Bayern Munich,GER-BL1,18-19,80e16d9f
+032f894e,Renato Sanches,35,POR,"RM,RW",21-084,17,0,0,0,0,0,0,0,0,20,0,0,1,0.0,0.0,0.0,4,0,13,17,76.5,2,11,2,3,3,Bayern Munich,2018-11-10 Dortmund-Bayern Munich,GER-BL1,18-19,80e16d9f
+3c6089ab,Thomas Müller,25,GER,AM,29-058,81,0,0,0,0,1,0,0,0,47,0,0,2,0.0,0.0,0.0,1,0,35,43,81.4,4,14,0,0,0,Bayern Munich,2018-11-10 Dortmund-Bayern Munich,GER-BL1,18-19,80e16d9f
+61b0b44d,Sandro Wagner,2,GER,FW,30-346,9,0,0,0,0,0,0,1,0,4,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,1,0,0,0,Bayern Munich,2018-11-10 Dortmund-Bayern Munich,GER-BL1,18-19,80e16d9f
+cc86b9a3,Leon Goretzka,18,GER,"DM,CM",23-277,90,0,0,0,0,0,0,0,0,58,1,2,0,0.0,0.0,0.0,2,0,43,51,84.3,8,28,1,2,2,Bayern Munich,2018-11-10 Dortmund-Bayern Munich,GER-BL1,18-19,80e16d9f
+7f97771d,Javi Martínez,8,ESP,"DM,CM",30-069,90,0,0,0,0,0,0,0,0,69,4,2,0,0.0,0.0,0.0,0,0,48,58,82.8,8,19,1,0,0,Bayern Munich,2018-11-10 Dortmund-Bayern Munich,GER-BL1,18-19,80e16d9f
+05439de2,David Alaba,27,AUT,LB,26-139,90,0,0,0,0,0,0,0,0,85,3,1,0,0.0,0.0,0.1,1,0,57,75,76.0,6,37,1,1,0,Bayern Munich,2018-11-10 Dortmund-Bayern Munich,GER-BL1,18-19,80e16d9f
+05d548d8,Mats Hummels,5,GER,CB,29-329,64,0,0,0,0,0,0,0,0,72,1,1,1,0.0,0.0,0.0,0,0,62,67,92.5,9,43,2,0,0,Bayern Munich,2018-11-10 Dortmund-Bayern Munich,GER-BL1,18-19,80e16d9f
+e33c06cf,Niklas Süle,4,GER,CB,23-068,26,0,0,0,0,0,0,1,0,32,0,1,0,0.0,0.0,0.0,0,0,25,30,83.3,3,18,2,0,0,Bayern Munich,2018-11-10 Dortmund-Bayern Munich,GER-BL1,18-19,80e16d9f
+2db2fd7b,Jérôme Boateng,17,GER,CB,30-068,90,0,0,0,0,0,0,0,0,92,3,0,0,0.0,0.0,0.0,1,0,71,84,84.5,10,44,1,0,0,Bayern Munich,2018-11-10 Dortmund-Bayern Munich,GER-BL1,18-19,80e16d9f
+49296448,Joshua Kimmich,32,GER,RB,23-275,90,0,1,0,0,0,0,0,0,104,1,1,1,0.0,0.0,1.0,4,2,79,94,84.0,7,47,3,0,0,Bayern Munich,2018-11-10 Dortmund-Bayern Munich,GER-BL1,18-19,80e16d9f
+8778c910,Manuel Neuer,1,GER,GK,32-228,90,0,0,0,0,0,0,0,0,49,0,0,0,0.0,0.0,0.0,0,0,36,47,76.6,0,28,0,0,0,Bayern Munich,2018-11-10 Dortmund-Bayern Munich,GER-BL1,18-19,80e16d9f

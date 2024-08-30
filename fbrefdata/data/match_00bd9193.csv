@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+4431aed2,Ciro Immobile,17,ITA,FW,31-249,90,0,0,0,0,2,0,1,0,26,0,0,1,0.6,0.6,0.0,1,1,10,16,62.5,1,18,1,2,1,Lazio,2021-10-27 Lazio-Fiorentina,ITA-SERIA_A,21-22,00bd9193
+3ca7254a,Pedro,9,ESP,LW,34-091,83,1,0,0,0,1,1,0,0,38,1,0,1,0.1,0.1,0.0,1,0,29,31,93.5,5,24,3,2,1,Lazio,2021-10-27 Lazio-Fiorentina,ITA-SERIA_A,21-22,00bd9193
+919dd4b1,Raúl Moro,27,ESP,LW,18-326,7,0,0,0,0,0,0,0,0,5,1,0,0,0.0,0.0,0.0,0,0,3,4,75.0,0,2,1,0,0,Lazio,2021-10-27 Lazio-Fiorentina,ITA-SERIA_A,21-22,00bd9193
+9f1893b9,Felipe Anderson,7,BRA,RW,28-195,90,0,0,0,0,0,0,0,0,57,3,1,4,0.0,0.0,0.0,3,0,25,36,69.4,4,20,4,0,0,Lazio,2021-10-27 Lazio-Fiorentina,ITA-SERIA_A,21-22,00bd9193
+5294a83f,Luis Alberto,10,ESP,"LM,RM",29-029,90,0,0,0,0,0,0,1,0,53,1,1,2,0.0,0.0,0.1,2,0,36,48,75.0,7,28,0,2,1,Lazio,2021-10-27 Lazio-Fiorentina,ITA-SERIA_A,21-22,00bd9193
+ba3d3bea,Danilo Cataldi,32,ITA,CM,27-082,83,0,0,0,0,0,0,1,0,66,2,0,0,0.0,0.0,0.0,0,0,55,62,88.7,2,35,1,0,0,Lazio,2021-10-27 Lazio-Fiorentina,ITA-SERIA_A,21-22,00bd9193
+4c78b5ed,Lucas Leiva,6,BRA,CM,34-291,7,0,0,0,0,0,0,0,0,6,0,0,1,0.0,0.0,0.0,0,0,3,3,100.0,0,0,0,0,0,Lazio,2021-10-27 Lazio-Fiorentina,ITA-SERIA_A,21-22,00bd9193
+4e6dbac4,Sergej Milinković-Savić,21,SRB,RM,26-242,78,0,1,0,0,1,0,0,0,59,0,2,1,0.1,0.1,0.1,1,1,38,51,74.5,6,28,3,4,3,Lazio,2021-10-27 Lazio-Fiorentina,ITA-SERIA_A,21-22,00bd9193
+80556f08,Toma Bašić,88,CRO,LM,24-336,12,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,5,8,62.5,1,4,0,0,0,Lazio,2021-10-27 Lazio-Fiorentina,ITA-SERIA_A,21-22,00bd9193
+d4535821,Adam Marušić,77,MNE,LB,29-010,90,0,0,0,0,0,0,0,0,49,0,1,0,0.0,0.0,0.0,0,0,36,39,92.3,0,23,0,2,2,Lazio,2021-10-27 Lazio-Fiorentina,ITA-SERIA_A,21-22,00bd9193
+b96b595c,Francesco Acerbi,33,ITA,CB,33-259,90,0,0,0,0,0,0,0,0,72,1,1,2,0.0,0.0,0.0,0,0,66,68,97.1,4,39,1,0,0,Lazio,2021-10-27 Lazio-Fiorentina,ITA-SERIA_A,21-22,00bd9193
+15d0c248,Luiz Felipe,3,ITA,CB,24-219,76,0,0,0,0,0,0,0,0,86,3,1,1,0.0,0.0,0.0,0,0,71,74,95.9,3,47,0,0,0,Lazio,2021-10-27 Lazio-Fiorentina,ITA-SERIA_A,21-22,00bd9193
+f7223718,Patric,4,ESP,CB,28-193,14,0,0,0,0,0,0,0,0,13,0,0,1,0.0,0.0,0.0,0,0,7,9,77.8,0,6,0,0,0,Lazio,2021-10-27 Lazio-Fiorentina,ITA-SERIA_A,21-22,00bd9193
+02caf6e0,Manuel Lazzari,29,ITA,RB,27-332,90,0,0,0,0,1,1,0,0,69,0,0,2,0.0,0.0,0.6,2,0,53,61,86.9,3,33,3,0,0,Lazio,2021-10-27 Lazio-Fiorentina,ITA-SERIA_A,21-22,00bd9193
+e358587b,Pepe Reina,25,ESP,GK,39-057,90,0,0,0,0,0,0,0,0,47,0,0,0,0.0,0.0,0.0,0,0,40,46,87.0,0,35,0,0,0,Lazio,2021-10-27 Lazio-Fiorentina,ITA-SERIA_A,21-22,00bd9193
+79443529,Dušan Vlahović,9,SRB,FW,21-272,90,0,0,0,0,4,0,0,0,20,0,0,0,0.2,0.2,0.0,2,0,8,11,72.7,2,8,1,1,1,Fiorentina,2021-10-27 Lazio-Fiorentina,ITA-SERIA_A,21-22,00bd9193
+94816803,Riccardo Sottil,33,ITA,"LW,RW",22-146,90,0,0,0,0,1,0,0,0,45,0,0,0,0.0,0.0,0.0,1,0,20,32,62.5,3,35,5,5,2,Fiorentina,2021-10-27 Lazio-Fiorentina,ITA-SERIA_A,21-22,00bd9193
+78841da9,José Callejón,7,ESP,RW,34-258,70,0,0,0,0,0,0,0,0,40,0,0,0,0.0,0.0,0.1,3,0,32,38,84.2,5,29,3,0,0,Fiorentina,2021-10-27 Lazio-Fiorentina,ITA-SERIA_A,21-22,00bd9193
+3bb7af3b,Riccardo Saponara,8,ITA,LW,29-310,20,0,0,0,0,0,0,0,0,15,0,0,0,0.0,0.0,0.0,1,0,9,14,64.3,1,11,3,0,0,Fiorentina,2021-10-27 Lazio-Fiorentina,ITA-SERIA_A,21-22,00bd9193
+0728bebe,Gaetano Castrovilli,10,ITA,LM,24-252,56,0,0,0,0,0,0,1,0,20,0,0,0,0.0,0.0,0.0,1,0,15,19,78.9,2,13,0,1,1,Fiorentina,2021-10-27 Lazio-Fiorentina,ITA-SERIA_A,21-22,00bd9193
+d995ed27,Giacomo Bonaventura,5,ITA,LM,32-066,34,0,0,0,0,0,0,0,0,13,0,0,0,0.0,0.0,0.0,0,0,9,12,75.0,0,10,0,0,0,Fiorentina,2021-10-27 Lazio-Fiorentina,ITA-SERIA_A,21-22,00bd9193
+52611641,Lucas Torreira,18,URU,CM,25-258,90,0,0,0,0,1,0,0,0,81,1,1,0,0.1,0.1,0.0,0,0,62,73,84.9,7,64,0,1,1,Fiorentina,2021-10-27 Lazio-Fiorentina,ITA-SERIA_A,21-22,00bd9193
+528492ea,Alfred Duncan,32,GHA,RM,28-231,83,0,0,0,0,0,0,1,0,41,1,0,2,0.0,0.0,0.1,1,0,28,38,73.7,3,31,3,0,0,Fiorentina,2021-10-27 Lazio-Fiorentina,ITA-SERIA_A,21-22,00bd9193
+0000acda,Marco Benassi,24,ITA,RM,27-049,7,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,3,3,100.0,0,2,0,0,0,Fiorentina,2021-10-27 Lazio-Fiorentina,ITA-SERIA_A,21-22,00bd9193
+9e1577aa,Cristiano Biraghi,3,ITA,LB,29-056,82,0,0,0,0,0,0,1,0,73,0,0,0,0.0,0.0,0.2,4,0,63,71,88.7,4,42,1,2,2,Fiorentina,2021-10-27 Lazio-Fiorentina,ITA-SERIA_A,21-22,00bd9193
+3ef0a2d7,Aleksa Terzić,17,SRB,LB,22-071,8,0,0,0,0,0,0,0,0,11,0,1,1,0.0,0.0,0.0,0,0,5,9,55.6,1,6,0,0,0,Fiorentina,2021-10-27 Lazio-Fiorentina,ITA-SERIA_A,21-22,00bd9193
+3ec3c1c9,Lucas Martínez Quarta,2,ARG,CB,25-170,90,0,0,0,0,3,1,0,0,99,1,2,2,0.2,0.2,0.0,0,0,84,88,95.5,3,74,0,1,1,Fiorentina,2021-10-27 Lazio-Fiorentina,ITA-SERIA_A,21-22,00bd9193
+bee704fc,Nikola Milenković,4,SRB,CB,24-015,90,0,0,0,0,0,0,0,0,87,3,2,2,0.0,0.0,0.0,0,0,68,73,93.2,2,65,0,1,1,Fiorentina,2021-10-27 Lazio-Fiorentina,ITA-SERIA_A,21-22,00bd9193
+983ff2c7,Lorenzo Venuti,23,ITA,RB,26-198,70,0,0,0,0,0,0,0,0,45,0,0,0,0.0,0.0,0.0,1,0,33,41,80.5,1,33,1,0,0,Fiorentina,2021-10-27 Lazio-Fiorentina,ITA-SERIA_A,21-22,00bd9193
+1d1691ad,Álvaro Odriozola,29,ESP,RB,25-317,20,0,0,0,0,0,0,0,0,13,0,0,0,0.0,0.0,0.0,0,0,9,13,69.2,1,8,1,2,2,Fiorentina,2021-10-27 Lazio-Fiorentina,ITA-SERIA_A,21-22,00bd9193
+e1b0a70d,Pietro Terracciano,1,ITA,GK,31-233,90,0,0,0,0,0,0,0,0,45,0,0,0,0.0,0.0,0.0,1,0,35,43,81.4,0,26,0,0,0,Fiorentina,2021-10-27 Lazio-Fiorentina,ITA-SERIA_A,21-22,00bd9193

@@ -1,0 +1,32 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+18ebca4b,Gaëtan Charbonnier,19,FRA,FW,33-230,45,0,0,0,0,0,0,1,0,9,0,0,0,0.0,0.0,0.0,1,0,6,6,100.0,2,5,1,0,0,Auxerre,2022-08-14 Auxerre-Angers,FRA-L1,22-23,f5a2eb8d
+909222de,Nuno da Costa,9,CPV,"FW,RM",31-185,45,0,0,0,0,1,1,1,0,18,2,0,0,0.1,0.1,0.0,2,0,5,7,71.4,0,12,1,2,2,Auxerre,2022-08-14 Auxerre-Angers,FRA-L1,22-23,f5a2eb8d
+7dfbba27,Mathias Autret,29,FRA,LM,31-166,84,0,0,0,0,1,1,0,0,43,1,1,2,0.0,0.0,0.0,2,0,28,35,80.0,5,33,3,3,1,Auxerre,2022-08-14 Auxerre-Angers,FRA-L1,22-23,f5a2eb8d
+10dd88f9,Gaëtan Perrin,10,FRA,LM,26-068,6,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,1,0,0,0,Auxerre,2022-08-14 Auxerre-Angers,FRA-L1,22-23,f5a2eb8d
+c9151d66,Hamza Sakhi,22,FRA,CM,26-068,90,0,0,0,0,4,1,0,0,53,5,1,0,0.1,0.1,0.3,5,0,33,41,80.5,3,39,1,3,1,Auxerre,2022-08-14 Auxerre-Angers,FRA-L1,22-23,f5a2eb8d
+563fcd6b,Gauthier Hein,7,FRA,CM,26-007,72,0,0,0,0,0,0,0,0,37,2,0,0,0.0,0.0,0.0,0,0,28,30,93.3,2,25,2,0,0,Auxerre,2022-08-14 Auxerre-Angers,FRA-L1,22-23,f5a2eb8d
+e05082d1,Youssouf M'Changama,6,COM,FW,31-350,18,0,0,0,0,0,0,0,0,13,1,0,0,0.0,0.0,0.1,1,0,7,10,70.0,1,10,0,3,2,Auxerre,2022-08-14 Auxerre-Angers,FRA-L1,22-23,f5a2eb8d
+5e5249c8,Lassine Sinayoko,17,MLI,RM,22-249,56,0,0,0,0,1,0,2,1,29,3,0,1,0.0,0.0,0.0,3,1,13,19,68.4,1,22,0,3,1,Auxerre,2022-08-14 Auxerre-Angers,FRA-L1,22-23,f5a2eb8d
+a4b798a9,Birama Touré,12,MLI,"DM,CM",30-069,90,0,0,0,0,1,0,0,0,42,3,3,2,0.0,0.0,0.0,0,0,18,29,62.1,2,24,0,0,0,Auxerre,2022-08-14 Auxerre-Angers,FRA-L1,22-23,f5a2eb8d
+3916b09c,Quentin Bernard,3,FRA,LB,33-038,90,0,0,0,0,0,0,0,0,57,2,2,0,0.0,0.0,0.0,0,0,35,48,72.9,4,35,0,0,0,Auxerre,2022-08-14 Auxerre-Angers,FRA-L1,22-23,f5a2eb8d
+5cb215fc,Julian Jeanvier,27,GUI,CB,30-136,90,1,0,0,0,1,1,0,0,37,0,1,2,0.3,0.3,0.0,0,0,20,24,83.3,0,22,0,0,0,Auxerre,2022-08-14 Auxerre-Angers,FRA-L1,22-23,f5a2eb8d
+56ae428b,Jubal,4,BRA,CB,28-350,90,0,1,0,0,1,0,0,0,44,0,4,1,0.2,0.2,0.3,0,0,22,30,73.3,1,28,0,0,0,Auxerre,2022-08-14 Auxerre-Angers,FRA-L1,22-23,f5a2eb8d
+5b4bc323,Paul Joly,26,FRA,RB,22-068,90,0,0,0,0,1,0,1,0,61,4,2,1,0.0,0.0,0.0,3,1,38,51,74.5,5,32,2,1,0,Auxerre,2022-08-14 Auxerre-Angers,FRA-L1,22-23,f5a2eb8d
+2434f24a,Benoît Costil,23,FRA,GK,35-042,90,0,0,0,0,0,0,0,0,32,0,0,0,0.0,0.0,0.0,0,0,16,32,50.0,0,14,0,0,0,Auxerre,2022-08-14 Auxerre-Angers,FRA-L1,22-23,f5a2eb8d
+4be0b467,Lois Diony,9,FRA,FW,29-237,90,1,0,0,0,3,1,0,0,33,1,0,0,0.6,0.6,0.0,0,0,19,25,76.0,1,24,4,1,0,Angers,2022-08-14 Auxerre-Angers,FRA-L1,22-23,f5a2eb8d
+d14229f3,Adrien Hunou,23,FRA,LW,28-207,69,0,0,0,0,1,0,0,0,33,0,0,3,0.0,0.0,0.0,1,0,16,23,69.6,1,28,1,3,1,Angers,2022-08-14 Auxerre-Angers,FRA-L1,22-23,f5a2eb8d
+b0c71810,Sofiane Boufal,7,MAR,LW,28-331,21,0,1,0,0,1,0,0,0,15,0,0,0,0.1,0.1,0.2,3,1,9,12,75.0,4,15,3,2,1,Angers,2022-08-14 Auxerre-Angers,FRA-L1,22-23,f5a2eb8d
+f4bc42b1,Sada Thioub,92,SEN,RW,27-074,68,0,1,0,0,0,0,0,0,29,0,0,1,0.0,0.0,0.6,4,1,20,26,76.9,4,23,0,4,1,Angers,2022-08-14 Auxerre-Angers,FRA-L1,22-23,f5a2eb8d
+bc7cc472,Amine Salama,11,FRA,RW,22-027,22,1,0,0,0,2,1,0,0,19,0,0,3,0.2,0.2,0.0,0,0,9,11,81.8,0,12,1,1,1,Angers,2022-08-14 Auxerre-Angers,FRA-L1,22-23,f5a2eb8d
+83299cc0,Azzedine Ounahi,8,MAR,AM,22-117,82,0,0,0,0,0,0,1,0,48,0,0,0,0.0,0.0,0.2,3,0,36,43,83.7,10,41,3,1,0,Angers,2022-08-14 Auxerre-Angers,FRA-L1,22-23,f5a2eb8d
+7d937aa1,Antonin Bobichon,21,FRA,AM,26-334,8,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,4,7,57.1,2,6,0,0,0,Angers,2022-08-14 Auxerre-Angers,FRA-L1,22-23,f5a2eb8d
+3189f61a,Nabil Bentaleb,6,ALG,DM,27-263,90,0,0,0,0,1,0,0,0,93,4,2,0,0.0,0.0,0.0,2,0,64,80,80.0,15,66,2,3,2,Angers,2022-08-14 Auxerre-Angers,FRA-L1,22-23,f5a2eb8d
+e472a6f6,Batista Mendy,2,FRA,DM,22-214,68,0,0,0,0,1,0,1,0,47,0,0,0,0.2,0.2,0.0,2,0,34,41,82.9,7,37,0,1,0,Angers,2022-08-14 Auxerre-Angers,FRA-L1,22-23,f5a2eb8d
+79b2399c,Pierrick Capelle,15,FRA,DM,35-121,22,0,0,0,0,1,0,0,0,18,0,0,1,0.1,0.1,0.0,0,0,14,16,87.5,6,12,0,1,1,Angers,2022-08-14 Auxerre-Angers,FRA-L1,22-23,f5a2eb8d
+9daeac61,Souleyman Doumbia,3,CIV,LB,25-324,77,0,0,0,0,0,0,0,0,52,2,1,0,0.0,0.0,0.0,1,0,32,41,78.0,5,29,0,3,1,Angers,2022-08-14 Auxerre-Angers,FRA-L1,22-23,f5a2eb8d
+9d498560,Ilyes Cheti,31,ALG,LB,27-204,13,0,0,0,0,0,0,0,0,17,1,0,0,0.0,0.0,0.0,1,0,12,13,92.3,2,13,0,1,0,Angers,2022-08-14 Auxerre-Angers,FRA-L1,22-23,f5a2eb8d
+3cdfc63e,Miha Blažič,5,SVN,CB,29-098,90,0,0,0,0,1,0,0,0,71,0,1,0,0.1,0.1,0.0,1,1,59,64,92.2,4,54,0,0,0,Angers,2022-08-14 Auxerre-Angers,FRA-L1,22-23,f5a2eb8d
+00891164,Cédric Hountondji,22,BEN,CB,28-207,90,0,0,0,0,0,0,0,0,66,0,0,0,0.0,0.0,0.0,1,0,56,61,91.8,5,52,0,0,0,Angers,2022-08-14 Auxerre-Angers,FRA-L1,22-23,f5a2eb8d
+8299e363,Halid Šabanović,4,BIH,RB,22-357,90,0,0,0,0,0,0,1,0,70,1,1,1,0.0,0.0,0.0,0,0,51,62,82.3,5,46,0,2,1,Angers,2022-08-14 Auxerre-Angers,FRA-L1,22-23,f5a2eb8d
+28dabd43,Paul Bernardoni,1,FRA,GK,25-118,90,0,0,0,0,0,0,0,0,25,0,0,0,0.0,0.0,0.0,0,0,18,24,75.0,0,16,0,0,0,Angers,2022-08-14 Auxerre-Angers,FRA-L1,22-23,f5a2eb8d

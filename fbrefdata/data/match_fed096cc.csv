@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+03f946ed,Andrea Petagna,37,ITA,FW,25-201,72,0,2,0,0,0,0,0,0,20,0,0,1,0.0,0.0,0.4,2,2,15,18,83.3,0,14,0,0,0,Napoli,2021-01-17 Napoli-Fiorentina,ITA-SERIA_A,20-21,fed096cc
+89b2c8a9,Dries Mertens,14,BEL,FW,33-256,18,0,0,0,0,0,0,0,0,7,0,1,0,0.0,0.0,0.0,0,0,3,4,75.0,0,1,0,0,0,Napoli,2021-01-17 Napoli-Fiorentina,ITA-SERIA_A,20-21,fed096cc
+2f557579,Lorenzo Insigne,24,ITA,LW,29-227,78,2,1,1,1,3,2,1,0,46,1,2,2,0.9,0.2,0.6,3,3,34,37,91.9,8,31,5,1,1,Napoli,2021-01-17 Napoli-Fiorentina,ITA-SERIA_A,20-21,fed096cc
+3f1107d5,Antonio Cioffi,58,ITA,LW,18-029,12,0,0,0,0,0,0,0,0,13,0,1,1,0.0,0.0,0.0,1,0,9,10,90.0,1,9,0,1,1,Napoli,2021-01-17 Napoli-Fiorentina,ITA-SERIA_A,20-21,fed096cc
+a69e4806,Hirving Lozano,11,MEX,RW,25-171,61,1,0,0,0,1,1,0,0,22,1,2,0,0.6,0.6,0.0,2,1,10,15,66.7,1,17,3,0,0,Napoli,2021-01-17 Napoli-Fiorentina,ITA-SERIA_A,20-21,fed096cc
+5e861944,Matteo Politano,21,ITA,RW,27-167,29,1,0,0,0,2,1,0,0,14,1,0,0,0.1,0.1,0.1,3,2,9,9,100.0,2,10,2,2,2,Napoli,2021-01-17 Napoli-Fiorentina,ITA-SERIA_A,20-21,fed096cc
+a5296e55,Piotr Zieliński,20,POL,AM,26-242,72,1,0,0,0,1,1,0,0,29,1,0,0,0.0,0.0,0.0,2,2,21,26,80.8,3,17,2,2,2,Napoli,2021-01-17 Napoli-Fiorentina,ITA-SERIA_A,20-21,fed096cc
+cf007308,Elif Elmas,7,MKD,AM,21-115,18,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,1,0,7,7,100.0,1,5,1,0,0,Napoli,2021-01-17 Napoli-Fiorentina,ITA-SERIA_A,20-21,fed096cc
+59bf127b,Tiemoué Bakayoko,5,FRA,DM,26-153,90,0,1,0,0,0,0,0,0,57,1,1,1,0.0,0.0,0.0,1,1,41,47,87.2,1,36,0,2,2,Napoli,2021-01-17 Napoli-Fiorentina,ITA-SERIA_A,20-21,fed096cc
+dc3fa3b5,Diego Demme,4,GER,DM,29-057,90,1,0,0,0,1,1,0,0,66,4,2,0,0.4,0.4,0.0,0,0,46,55,83.6,1,47,0,2,2,Napoli,2021-01-17 Napoli-Fiorentina,ITA-SERIA_A,20-21,fed096cc
+0b5a292a,Mário Rui,6,POR,LB,29-235,90,0,1,0,0,0,0,0,0,74,3,2,0,0.0,0.0,0.0,1,1,55,65,84.6,1,50,1,0,0,Napoli,2021-01-17 Napoli-Fiorentina,ITA-SERIA_A,20-21,fed096cc
+da974c7b,Kalidou Koulibaly,26,SEN,CB,29-211,90,0,0,0,0,0,0,0,0,81,0,1,7,0.0,0.0,0.0,0,0,62,72,86.1,1,51,0,1,1,Napoli,2021-01-17 Napoli-Fiorentina,ITA-SERIA_A,20-21,fed096cc
+c707411f,Kostas Manolas,44,GRE,CB,29-217,78,0,0,0,0,0,0,0,0,52,2,1,1,0.0,0.0,0.0,0,0,38,40,95.0,0,30,0,0,0,Napoli,2021-01-17 Napoli-Fiorentina,ITA-SERIA_A,20-21,fed096cc
+4b3e1a38,Amir Rrahmani,33,KVX,CB,26-328,12,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,8,8,100.0,0,6,0,0,0,Napoli,2021-01-17 Napoli-Fiorentina,ITA-SERIA_A,20-21,fed096cc
+2f3452eb,Elseid Hysaj,23,ALB,RB,26-332,90,0,0,0,0,1,0,0,0,54,1,1,0,0.0,0.0,0.0,1,0,41,46,89.1,3,37,3,0,0,Napoli,2021-01-17 Napoli-Fiorentina,ITA-SERIA_A,20-21,fed096cc
+82b1198a,David Ospina,25,COL,GK,32-139,90,0,0,0,0,0,0,0,0,48,0,0,0,0.0,0.0,0.0,1,0,36,47,76.6,0,41,0,0,0,Napoli,2021-01-17 Napoli-Fiorentina,ITA-SERIA_A,20-21,fed096cc
+79443529,Dušan Vlahović,9,SRB,FW,20-355,90,0,0,0,0,5,0,0,0,27,0,0,0,0.5,0.5,0.4,2,0,9,16,56.3,1,11,0,1,0,Fiorentina,2021-01-17 Napoli-Fiorentina,ITA-SERIA_A,20-21,fed096cc
+f61c7c4e,Franck Ribéry,7,FRA,AM,37-285,45,0,0,0,0,1,1,0,0,18,0,0,0,0.4,0.4,0.1,3,0,12,13,92.3,3,16,1,3,3,Fiorentina,2021-01-17 Napoli-Fiorentina,ITA-SERIA_A,20-21,fed096cc
+58e933d2,Christian Kouamé,11,CIV,AM,23-042,45,0,0,0,0,2,0,0,0,19,0,0,0,0.1,0.1,0.0,0,0,8,16,50.0,0,10,1,2,2,Fiorentina,2021-01-17 Napoli-Fiorentina,ITA-SERIA_A,20-21,fed096cc
+78841da9,José Callejón,77,ESP,AM,33-341,73,0,0,0,0,1,0,0,0,37,1,1,0,0.0,0.0,0.0,2,0,21,29,72.4,5,22,1,2,2,Fiorentina,2021-01-17 Napoli-Fiorentina,ITA-SERIA_A,20-21,fed096cc
+4611e028,Erick Pulgar,78,CHI,AM,27-002,17,0,0,0,0,0,0,0,0,10,0,2,0,0.0,0.0,0.0,0,0,7,8,87.5,0,4,0,0,0,Fiorentina,2021-01-17 Napoli-Fiorentina,ITA-SERIA_A,20-21,fed096cc
+0728bebe,Gaetano Castrovilli,10,ITA,CM,23-335,72,0,0,0,0,0,0,0,0,32,1,2,1,0.0,0.0,0.3,3,0,19,23,82.6,8,20,4,2,1,Fiorentina,2021-01-17 Napoli-Fiorentina,ITA-SERIA_A,20-21,fed096cc
+d995ed27,Giacomo Bonaventura,5,ITA,CM,31-148,18,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,6,8,75.0,2,6,1,0,0,Fiorentina,2021-01-17 Napoli-Fiorentina,ITA-SERIA_A,20-21,fed096cc
+5a2cb25d,Sofyan Amrabat,34,MAR,CM,24-149,84,0,0,0,0,1,0,0,0,60,1,0,0,0.0,0.0,0.0,1,0,47,56,83.9,9,39,0,1,1,Fiorentina,2021-01-17 Napoli-Fiorentina,ITA-SERIA_A,20-21,fed096cc
+0e21fc3c,Borja Valero,6,ESP,CM,36-005,6,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Fiorentina,2021-01-17 Napoli-Fiorentina,ITA-SERIA_A,20-21,fed096cc
+9e1577aa,Cristiano Biraghi,3,ITA,WB,28-138,90,0,0,0,0,1,0,0,0,57,0,0,0,0.1,0.1,0.1,5,0,41,54,75.9,4,37,2,1,1,Fiorentina,2021-01-17 Napoli-Fiorentina,ITA-SERIA_A,20-21,fed096cc
+983ff2c7,Lorenzo Venuti,23,ITA,WB,25-280,90,0,0,0,0,0,0,0,0,45,0,0,1,0.0,0.0,0.0,1,0,28,40,70.0,6,22,3,2,0,Fiorentina,2021-01-17 Napoli-Fiorentina,ITA-SERIA_A,20-21,fed096cc
+a4e85758,Igor,98,BRA,CB,22-345,90,0,0,0,0,0,0,0,0,89,0,1,1,0.0,0.0,0.0,0,0,79,84,94.0,11,68,3,1,1,Fiorentina,2021-01-17 Napoli-Fiorentina,ITA-SERIA_A,20-21,fed096cc
+8c725b43,Germán Pezzella,20,ARG,CB,29-204,90,0,0,0,0,0,0,0,0,96,0,0,0,0.0,0.0,0.0,0,0,87,96,90.6,2,72,0,0,0,Fiorentina,2021-01-17 Napoli-Fiorentina,ITA-SERIA_A,20-21,fed096cc
+bee704fc,Nikola Milenković,4,SRB,CB,23-097,84,0,0,0,0,0,0,0,0,76,1,1,0,0.0,0.0,0.0,1,0,67,70,95.7,6,39,2,1,0,Fiorentina,2021-01-17 Napoli-Fiorentina,ITA-SERIA_A,20-21,fed096cc
+3ec3c1c9,Lucas Martínez Quarta,2,ARG,CB,24-252,6,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,3,4,75.0,2,1,0,0,0,Fiorentina,2021-01-17 Napoli-Fiorentina,ITA-SERIA_A,20-21,fed096cc
+085e71a7,Bartłomiej Drągowski,69,POL,GK,23-151,90,0,0,0,0,0,0,0,0,23,0,0,0,0.0,0.0,0.0,0,0,18,22,81.8,0,14,0,0,0,Fiorentina,2021-01-17 Napoli-Fiorentina,ITA-SERIA_A,20-21,fed096cc

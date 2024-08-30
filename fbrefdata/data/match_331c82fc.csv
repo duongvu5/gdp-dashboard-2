@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+90fcf472,Wesley Saïd,22,FRA,FW,28-241,64,1,0,0,0,3,1,0,0,23,0,0,1,0.6,0.6,0.0,1,0,8,17,47.1,2,17,1,0,0,Lens,2023-12-16 Lens-Reims,FRA-L1,23-24,331c82fc
+79b51257,Morgan Guilavogui,27,GUI,"AM,FW",25-281,26,0,0,0,0,0,0,0,0,14,2,0,1,0.0,0.0,0.0,1,1,6,9,66.7,1,9,0,0,0,Lens,2023-12-16 Lens-Reims,FRA-L1,23-24,331c82fc
+4b96c347,Angelo Fulgini,11,FRA,AM,27-118,64,0,0,0,0,1,0,0,0,51,1,0,2,0.1,0.1,0.2,4,1,33,40,82.5,2,32,2,1,0,Lens,2023-12-16 Lens-Reims,FRA-L1,23-24,331c82fc
+59948ef7,David Pereira da Costa,10,POR,AM,22-345,26,0,0,0,0,0,0,0,0,18,0,0,1,0.0,0.0,0.0,0,0,11,14,78.6,2,11,1,0,0,Lens,2023-12-16 Lens-Reims,FRA-L1,23-24,331c82fc
+c76b7567,Adrien Thomasson,28,FRA,AM,30-006,64,0,0,0,0,1,0,0,0,40,2,0,0,0.1,0.1,0.1,1,0,19,30,63.3,2,31,0,1,0,Lens,2023-12-16 Lens-Reims,FRA-L1,23-24,331c82fc
+d2c12fe0,Oscar Cortés,15,COL,"FW,AM",20-013,26,1,0,0,0,1,1,0,0,17,0,0,1,0.5,0.5,0.0,0,0,7,10,70.0,1,13,0,0,0,Lens,2023-12-16 Lens-Reims,FRA-L1,23-24,331c82fc
+82464ce3,Salis Abdul Samed,6,GHA,CM,23-265,89,0,0,0,0,0,0,0,0,41,1,2,0,0.0,0.0,0.0,0,0,30,33,90.9,1,29,0,0,0,Lens,2023-12-16 Lens-Reims,FRA-L1,23-24,331c82fc
+9b5237b1,Andy Diouf,18,FRA,CM,20-213,1,0,0,0,0,0,0,0,0,4,0,0,2,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Lens,2023-12-16 Lens-Reims,FRA-L1,23-24,331c82fc
+17e1261b,Neil El Aynaoui,23,FRA,CM,22-167,90,0,0,0,0,0,0,0,0,39,1,0,1,0.0,0.0,0.0,0,0,23,26,88.5,3,27,2,3,2,Lens,2023-12-16 Lens-Reims,FRA-L1,23-24,331c82fc
+00a8d210,Przemysław Frankowski,29,POL,WB,28-248,87,0,0,0,0,0,0,0,0,57,3,2,1,0.0,0.0,0.0,1,0,31,48,64.6,2,38,4,1,1,Lens,2023-12-16 Lens-Reims,FRA-L1,23-24,331c82fc
+e54a9890,Faitout Maouassa,20,FRA,WB,25-163,3,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,4,5,80.0,0,1,0,0,0,Lens,2023-12-16 Lens-Reims,FRA-L1,23-24,331c82fc
+3dd738a1,Ruben Aguilar,2,FRA,WB,30-234,90,0,1,0,0,0,0,0,0,68,5,1,2,0.0,0.0,0.5,4,1,42,55,76.4,8,46,5,2,1,Lens,2023-12-16 Lens-Reims,FRA-L1,23-24,331c82fc
+5167c97e,Massadio Haïdara,21,MLI,CB,31-014,90,0,0,0,0,0,0,0,0,47,1,4,1,0.0,0.0,0.0,1,0,32,39,82.1,5,34,0,1,0,Lens,2023-12-16 Lens-Reims,FRA-L1,23-24,331c82fc
+6e33125f,Kevin Danso,4,AUT,CB,25-088,90,0,0,0,0,0,0,0,0,75,0,1,2,0.0,0.0,0.0,0,0,57,64,89.1,3,50,0,1,1,Lens,2023-12-16 Lens-Reims,FRA-L1,23-24,331c82fc
+d17ce930,Abdukodir Khusanov,25,UZB,CB,19-290,90,0,0,0,0,1,0,0,0,51,1,1,4,0.0,0.0,0.0,0,0,32,38,84.2,0,30,0,0,0,Lens,2023-12-16 Lens-Reims,FRA-L1,23-24,331c82fc
+60d90c55,Brice Samba,30,FRA,GK,29-235,90,0,0,0,0,0,0,0,0,44,0,0,0,0.0,0.0,0.0,1,1,27,41,65.9,0,35,0,0,0,Lens,2023-12-16 Lens-Reims,FRA-L1,23-24,331c82fc
+06a1d642,Mohammed Daramy,9,DEN,"FW,LW",21-343,77,0,0,0,0,0,0,0,0,34,0,0,0,0.0,0.0,0.1,3,0,20,27,74.1,2,28,2,3,2,Reims,2023-12-16 Lens-Reims,FRA-L1,23-24,331c82fc
+44435c8f,Oumar Diakité,22,CIV,FW,19-361,13,0,0,0,0,2,0,0,0,9,0,0,0,0.2,0.2,0.0,1,0,4,5,80.0,0,8,0,0,0,Reims,2023-12-16 Lens-Reims,FRA-L1,23-24,331c82fc
+d97af612,Keito Nakamura,17,JPN,LW,23-141,67,0,0,0,0,4,1,0,0,24,0,2,0,0.4,0.4,0.0,1,0,11,17,64.7,1,22,2,1,1,Reims,2023-12-16 Lens-Reims,FRA-L1,23-24,331c82fc
+bc7cc472,Amine Salama,11,FRA,"LW,FW",23-151,23,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,5,6,83.3,0,6,0,2,1,Reims,2023-12-16 Lens-Reims,FRA-L1,23-24,331c82fc
+dbd3a428,Junya Ito,7,JPN,RW,30-282,90,0,0,0,0,3,1,0,0,58,2,0,0,0.2,0.2,0.2,4,0,29,46,63.0,6,43,7,5,3,Reims,2023-12-16 Lens-Reims,FRA-L1,23-24,331c82fc
+5c26ca51,Teddy Teuma,10,MLT,LM,30-077,90,0,0,0,0,3,1,0,0,81,1,0,1,0.1,0.1,0.2,7,0,55,73,75.3,12,60,1,2,2,Reims,2023-12-16 Lens-Reims,FRA-L1,23-24,331c82fc
+a17a94d6,Azor Matusiwa,21,NED,CM,25-232,84,0,0,0,0,0,0,1,0,55,3,3,0,0.0,0.0,0.0,0,0,38,44,86.4,3,40,0,0,0,Reims,2023-12-16 Lens-Reims,FRA-L1,23-24,331c82fc
+6b5edd5d,Valentin Atangana Edoa,6,FRA,CM,18-113,6,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,1,0,4,4,100.0,2,5,1,0,0,Reims,2023-12-16 Lens-Reims,FRA-L1,23-24,331c82fc
+88acf83f,Reda Khadra,14,GER,RM,22-165,77,0,0,0,0,0,0,0,0,25,2,0,0,0.0,0.0,0.2,3,0,16,20,80.0,5,18,4,4,3,Reims,2023-12-16 Lens-Reims,FRA-L1,23-24,331c82fc
+2b7cdb79,Amir Richardson,8,MAR,RM,21-326,13,0,0,0,0,0,0,0,0,14,1,0,0,0.0,0.0,0.0,1,0,11,12,91.7,2,10,2,0,0,Reims,2023-12-16 Lens-Reims,FRA-L1,23-24,331c82fc
+5fdcb075,Thibault De Smet,25,BEL,LB,25-194,90,0,0,0,0,0,0,0,0,79,3,1,3,0.0,0.0,0.0,1,0,51,68,75.0,6,54,5,0,0,Reims,2023-12-16 Lens-Reims,FRA-L1,23-24,331c82fc
+32c2d95f,Yunis Abdelhamid,5,MAR,CB,36-079,90,0,0,0,0,1,0,0,0,73,1,2,1,0.1,0.1,0.0,0,0,52,62,83.9,4,57,2,0,0,Reims,2023-12-16 Lens-Reims,FRA-L1,23-24,331c82fc
+039f1983,Joseph Okumu,2,KEN,CB,26-204,90,0,0,0,0,0,0,0,0,75,2,3,1,0.0,0.0,0.0,0,0,51,62,82.3,3,53,0,0,0,Reims,2023-12-16 Lens-Reims,FRA-L1,23-24,331c82fc
+75f1ed80,Emmanuel Agbadou,24,CIV,RB,26-182,84,0,0,0,0,1,0,0,0,72,0,3,2,0.1,0.1,0.0,1,0,50,60,83.3,8,52,2,1,1,Reims,2023-12-16 Lens-Reims,FRA-L1,23-24,331c82fc
+d8c19a60,Ibrahim Diakité,41,GUI,RB,20-046,6,0,0,0,0,0,0,0,0,14,0,0,1,0.0,0.0,0.0,0,0,7,13,53.8,0,8,1,0,0,Reims,2023-12-16 Lens-Reims,FRA-L1,23-24,331c82fc
+eedea60b,Yehvann Diouf,94,FRA,GK,24-030,90,0,0,0,0,0,0,0,0,25,0,0,0,0.0,0.0,0.0,0,0,22,24,91.7,0,19,0,0,0,Reims,2023-12-16 Lens-Reims,FRA-L1,23-24,331c82fc

@@ -1,0 +1,28 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+0c3057a9,Mikael Ishak,9,SWE,FW,25-295,90,0,0,0,0,1,0,0,0,36,0,0,0,0.1,0.1,0.0,3,0,23,32,71.9,2,20,1,0,0,Nürnberg,2019-01-20 Nürnberg-Hertha BSC,GER-BL1,18-19,5270b553
+b04ee927,Matheus Pereira,27,POR,LM,22-260,81,0,0,0,0,0,0,0,0,46,1,2,0,0.0,0.0,0.0,1,0,27,38,71.1,2,34,1,3,3,Nürnberg,2019-01-20 Nürnberg-Hertha BSC,GER-BL1,18-19,5270b553
+cba16a46,Yuya Kubo,14,JPN,AM,25-027,9,0,0,0,0,0,0,0,0,4,0,0,1,0.0,0.0,0.0,0,0,1,1,100.0,0,3,0,0,0,Nürnberg,2019-01-20 Nürnberg-Hertha BSC,GER-BL1,18-19,5270b553
+70678132,Eduard Löwen,17,GER,CM,21-357,81,0,1,0,0,3,1,1,0,56,2,0,0,0.1,0.1,0.6,5,1,30,45,66.7,10,39,4,2,2,Nürnberg,2019-01-20 Nürnberg-Hertha BSC,GER-BL1,18-19,5270b553
+b883006f,Törles Knöll,19,GER,FW,21-129,9,0,0,0,0,0,0,0,0,5,0,0,1,0.0,0.0,0.0,0,0,3,3,100.0,1,1,0,0,0,Nürnberg,2019-01-20 Nürnberg-Hertha BSC,GER-BL1,18-19,5270b553
+77b41ac0,Hanno Behrens,18,GER,"CM,LM",28-300,90,1,0,0,0,3,1,0,0,52,1,1,4,0.6,0.6,0.0,2,0,20,38,52.6,7,31,1,1,0,Nürnberg,2019-01-20 Nürnberg-Hertha BSC,GER-BL1,18-19,5270b553
+09bcc566,Virgil Misidjan,24,SUR,RM,25-180,90,0,0,0,0,4,1,1,0,49,0,0,1,0.1,0.1,0.0,1,0,24,34,70.6,6,36,1,6,3,Nürnberg,2019-01-20 Nürnberg-Hertha BSC,GER-BL1,18-19,5270b553
+3e81a228,Ondřej Petrák,31,CZE,DM,26-315,90,0,0,0,0,1,0,0,0,38,2,3,0,0.0,0.0,0.0,1,0,24,32,75.0,2,13,0,0,0,Nürnberg,2019-01-20 Nürnberg-Hertha BSC,GER-BL1,18-19,5270b553
+f2571c91,Tim Leibold,23,GER,LB,25-051,90,0,0,0,0,1,0,0,0,63,1,4,0,0.0,0.0,0.1,6,0,41,52,78.8,5,37,2,1,1,Nürnberg,2019-01-20 Nürnberg-Hertha BSC,GER-BL1,18-19,5270b553
+78cd577c,Ewerton,4,BRA,CB,29-303,90,0,0,0,0,0,0,0,0,54,1,2,2,0.0,0.0,0.0,1,0,38,46,82.6,1,23,1,0,0,Nürnberg,2019-01-20 Nürnberg-Hertha BSC,GER-BL1,18-19,5270b553
+b5114f85,Georg Margreitter,33,AUT,CB,30-074,90,0,0,0,0,1,0,0,0,46,0,1,0,0.1,0.1,0.0,0,0,33,40,82.5,3,20,1,0,0,Nürnberg,2019-01-20 Nürnberg-Hertha BSC,GER-BL1,18-19,5270b553
+5c4d9be7,Enrico Valentini,22,ITA,RB,29-334,90,0,0,0,0,0,0,0,0,75,0,0,0,0.0,0.0,0.2,4,0,53,71,74.6,10,34,0,2,1,Nürnberg,2019-01-20 Nürnberg-Hertha BSC,GER-BL1,18-19,5270b553
+4a15e95b,Christian Mathenia,26,GER,GK,26-295,90,0,0,0,0,0,0,0,0,32,0,0,0,0.0,0.0,0.0,0,0,19,29,65.5,0,19,0,0,0,Nürnberg,2019-01-20 Nürnberg-Hertha BSC,GER-BL1,18-19,5270b553
+c3fd9887,Vedad Ibišević,19,BIH,FW,34-167,90,1,1,0,0,3,2,0,0,30,2,0,0,0.6,0.6,0.1,4,2,15,19,78.9,1,19,2,1,0,Hertha BSC,2019-01-20 Nürnberg-Hertha BSC,GER-BL1,18-19,5270b553
+1238a3f9,Davie Selke,27,GER,FW,24-000,88,0,2,0,0,2,1,0,0,31,1,0,0,0.5,0.5,0.5,6,2,17,26,65.4,3,19,2,1,1,Hertha BSC,2019-01-20 Nürnberg-Hertha BSC,GER-BL1,18-19,5270b553
+3861d9cc,Pascal Köpke,14,GER,FW,23-139,2,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,1,1,0,0,Hertha BSC,2019-01-20 Nürnberg-Hertha BSC,GER-BL1,18-19,5270b553
+ab700320,Arne Maier,23,GER,CM,20-012,90,0,0,0,0,1,1,0,0,88,0,0,2,0.1,0.1,0.5,9,0,70,82,85.4,6,69,4,2,2,Hertha BSC,2019-01-20 Nürnberg-Hertha BSC,GER-BL1,18-19,5270b553
+8b8e759d,Marko Grujić,15,SRB,CM,22-282,56,0,0,0,0,2,0,0,0,44,1,0,0,0.1,0.1,0.0,0,0,35,39,89.7,3,29,1,0,0,Hertha BSC,2019-01-20 Nürnberg-Hertha BSC,GER-BL1,18-19,5270b553
+3eb0f2df,Vladimír Darida,6,CZE,CM,28-165,34,0,0,0,0,1,0,0,0,18,0,0,1,0.0,0.0,0.1,3,0,15,15,100.0,3,12,0,0,0,Hertha BSC,2019-01-20 Nürnberg-Hertha BSC,GER-BL1,18-19,5270b553
+79ca3e23,Ondrej Duda,10,SVK,CM,24-046,90,2,0,0,0,4,4,1,0,59,2,1,2,0.5,0.5,0.3,3,0,34,44,77.3,6,41,1,1,1,Hertha BSC,2019-01-20 Nürnberg-Hertha BSC,GER-BL1,18-19,5270b553
+f7aa75bd,Marvin Plattenhardt,21,GER,LB,26-359,90,0,0,0,0,1,0,0,0,60,4,0,2,0.0,0.0,0.2,2,0,37,49,75.5,5,36,1,1,1,Hertha BSC,2019-01-20 Nürnberg-Hertha BSC,GER-BL1,18-19,5270b553
+3376a776,Karim Rekik,4,NED,CB,24-049,90,0,0,0,0,0,0,0,0,74,1,3,1,0.0,0.0,0.0,0,0,55,62,88.7,2,50,0,0,0,Hertha BSC,2019-01-20 Nürnberg-Hertha BSC,GER-BL1,18-19,5270b553
+a63a995f,Fabian Lustenberger,28,SUI,CB,30-263,90,0,0,0,0,0,0,0,0,84,0,0,1,0.0,0.0,0.0,0,0,65,74,87.8,2,57,1,0,0,Hertha BSC,2019-01-20 Nürnberg-Hertha BSC,GER-BL1,18-19,5270b553
+aad48be9,Niklas Stark,5,GER,CB,23-281,90,0,0,0,0,1,0,0,0,98,1,3,3,0.0,0.0,0.0,0,0,63,79,79.7,9,66,1,0,0,Hertha BSC,2019-01-20 Nürnberg-Hertha BSC,GER-BL1,18-19,5270b553
+016ff750,Valentino Lazaro,20,AUT,RB,22-302,90,0,0,0,0,1,0,0,0,57,0,0,4,0.0,0.0,0.1,4,2,34,48,70.8,3,38,3,2,2,Hertha BSC,2019-01-20 Nürnberg-Hertha BSC,GER-BL1,18-19,5270b553
+27d2618c,Rune Jarstein,22,NOR,GK,34-113,90,0,0,0,0,0,0,0,0,38,0,0,0,0.0,0.0,0.0,0,0,20,38,52.6,0,26,0,0,0,Hertha BSC,2019-01-20 Nürnberg-Hertha BSC,GER-BL1,18-19,5270b553

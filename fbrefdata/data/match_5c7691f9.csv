@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+1238a3f9,Davie Selke,27,GER,FW,28-112,23,1,0,0,0,2,1,0,0,8,0,0,1,0.3,0.3,0.0,0,0,2,5,40.0,0,2,0,0,0,Köln,2023-05-12 Köln-Hertha BSC,GER-BL1,22-23,5c7691f9
+6b8887c2,Steffen Tigges,21,GER,FW,24-285,67,0,0,0,0,6,2,0,0,26,3,0,0,1.3,1.3,0.1,2,0,7,12,58.3,1,9,0,0,0,Köln,2023-05-12 Köln-Hertha BSC,GER-BL1,22-23,5c7691f9
+e5d85da8,Linton Maina,37,GER,LW,23-323,83,0,2,0,0,0,0,0,0,46,0,0,1,0.0,0.0,1.2,9,3,34,39,87.2,3,29,5,5,3,Köln,2023-05-12 Köln-Hertha BSC,GER-BL1,22-23,5c7691f9
+792ffa71,Tim Lemperle,25,GER,LW,21-096,7,0,0,0,0,0,0,0,0,6,0,0,2,0.0,0.0,0.0,0,0,2,4,50.0,0,4,0,0,0,Köln,2023-05-12 Köln-Hertha BSC,GER-BL1,22-23,5c7691f9
+c455a2b2,Dejan Ljubicic,7,AUT,"DM,RW",25-216,90,0,0,0,0,3,2,0,0,58,1,0,1,0.2,0.2,0.1,5,0,38,46,82.6,4,31,2,6,3,Köln,2023-05-12 Köln-Hertha BSC,GER-BL1,22-23,5c7691f9
+94c18565,Florian Kainz,11,AUT,AM,30-200,69,0,1,0,0,1,1,0,0,51,0,1,0,0.1,0.1,0.9,11,2,36,49,73.5,6,31,4,3,2,Köln,2023-05-12 Köln-Hertha BSC,GER-BL1,22-23,5c7691f9
+b116c6e3,Denis Huseinbasic,8,BIH,AM,21-313,21,1,0,0,0,1,1,0,0,7,0,0,0,0.3,0.3,0.0,1,0,3,4,75.0,0,6,1,0,0,Köln,2023-05-12 Köln-Hertha BSC,GER-BL1,22-23,5c7691f9
+92a16062,Eric Martel,6,GER,DM,21-013,45,0,1,0,0,3,0,1,0,36,2,0,1,0.1,0.1,0.3,5,1,21,24,87.5,5,19,0,2,2,Köln,2023-05-12 Köln-Hertha BSC,GER-BL1,22-23,5c7691f9
+fd53759d,Jan Thielmann,29,GER,RW,20-351,45,0,0,0,0,1,1,0,0,18,0,1,0,0.3,0.3,0.3,6,0,8,14,57.1,1,16,3,1,1,Köln,2023-05-12 Köln-Hertha BSC,GER-BL1,22-23,5c7691f9
+c2211709,Ellyes Skhiri,28,TUN,DM,28-002,90,1,0,0,0,4,3,0,0,98,2,0,2,0.6,0.6,0.0,4,1,84,90,93.3,5,66,3,3,3,Köln,2023-05-12 Köln-Hertha BSC,GER-BL1,22-23,5c7691f9
+c2009df3,Jonas Hector,14,GER,LB,32-350,90,0,0,0,0,1,1,0,0,91,6,3,0,0.1,0.1,0.9,4,0,64,74,86.5,4,52,0,6,5,Köln,2023-05-12 Köln-Hertha BSC,GER-BL1,22-23,5c7691f9
+ae7058f9,Julian Chabot,24,GER,CB,25-089,90,0,0,0,0,2,0,0,0,79,1,2,1,0.1,0.1,0.0,0,0,54,69,78.3,6,42,1,0,0,Köln,2023-05-12 Köln-Hertha BSC,GER-BL1,22-23,5c7691f9
+94302c52,Timo Hübers,4,GER,CB,26-296,90,2,0,0,0,5,3,1,0,87,2,1,2,0.7,0.7,0.0,3,1,55,68,80.9,5,47,1,0,0,Köln,2023-05-12 Köln-Hertha BSC,GER-BL1,22-23,5c7691f9
+bd527260,Kingsley Schindler,17,GHA,RB,29-304,69,0,0,0,0,2,1,0,0,51,1,1,0,0.4,0.4,0.2,6,1,33,44,75.0,6,29,3,1,1,Köln,2023-05-12 Köln-Hertha BSC,GER-BL1,22-23,5c7691f9
+610aa1e9,Luca Kilian,15,GER,RB,23-253,21,0,0,0,0,0,0,0,0,7,0,1,0,0.0,0.0,0.0,1,1,4,6,66.7,3,7,2,0,0,Köln,2023-05-12 Köln-Hertha BSC,GER-BL1,22-23,5c7691f9
+87436846,Marvin Schwäbe,20,GER,GK,28-017,90,0,0,0,0,0,0,0,0,28,0,0,0,0.0,0.0,0.0,0,0,21,26,80.8,0,14,0,0,0,Köln,2023-05-12 Köln-Hertha BSC,GER-BL1,22-23,5c7691f9
+f36c432f,Stevan Jovetić,19,MNE,FW,33-191,90,1,0,0,0,2,1,0,0,41,0,1,0,0.2,0.2,0.0,2,1,22,31,71.0,5,32,2,3,1,Hertha BSC,2023-05-12 Köln-Hertha BSC,GER-BL1,22-23,5c7691f9
+d6862409,Florian Niederlechner,7,GER,FW,32-200,60,0,0,0,0,1,0,0,0,21,0,1,0,0.0,0.0,0.0,1,0,6,14,42.9,0,8,0,1,0,Hertha BSC,2023-05-12 Köln-Hertha BSC,GER-BL1,22-23,5c7691f9
+bc249af8,Jessic Ngankam,24,GER,FW,22-296,30,0,0,0,0,2,1,1,0,13,0,0,0,0.5,0.5,0.0,1,0,4,7,57.1,0,9,0,3,1,Hertha BSC,2023-05-12 Köln-Hertha BSC,GER-BL1,22-23,5c7691f9
+f972644c,Marco Richter,23,GER,LM,25-169,90,0,0,0,0,0,0,1,0,40,3,0,0,0.0,0.0,0.0,3,0,22,34,64.7,4,26,3,3,2,Hertha BSC,2023-05-12 Köln-Hertha BSC,GER-BL1,22-23,5c7691f9
+41bff4fa,Márton Dárdai,31,HUN,CM,21-089,60,0,0,0,0,0,0,1,0,21,1,1,2,0.0,0.0,0.0,2,1,7,17,41.2,1,10,0,0,0,Hertha BSC,2023-05-12 Köln-Hertha BSC,GER-BL1,22-23,5c7691f9
+b3325a30,Suat Serdar,8,GER,CM,26-031,30,0,0,0,0,0,0,1,0,10,0,0,0,0.0,0.0,0.0,0,0,7,9,77.8,1,9,0,0,0,Hertha BSC,2023-05-12 Köln-Hertha BSC,GER-BL1,22-23,5c7691f9
+71ec39ef,Lucas Tousart,29,FRA,CM,26-013,90,1,0,0,0,2,1,0,0,48,3,2,2,0.2,0.2,0.0,2,0,12,21,57.1,0,21,1,3,3,Hertha BSC,2023-05-12 Köln-Hertha BSC,GER-BL1,22-23,5c7691f9
+0c61c77c,Dodi Lukebakio,14,BEL,RM,25-230,79,0,1,0,0,2,0,1,0,30,0,2,0,0.1,0.1,0.2,3,2,12,18,66.7,0,19,3,5,3,Hertha BSC,2023-05-12 Köln-Hertha BSC,GER-BL1,22-23,5c7691f9
+e7f3e8a7,Chidera Ejuke,40,NGA,RM,25-130,11,0,0,0,0,0,0,0,0,6,0,1,0,0.0,0.0,0.0,0,0,4,4,100.0,1,6,1,3,3,Hertha BSC,2023-05-12 Köln-Hertha BSC,GER-BL1,22-23,5c7691f9
+f7aa75bd,Marvin Plattenhardt,21,GER,LB,31-106,60,0,0,0,0,0,0,0,0,23,1,0,1,0.0,0.0,0.0,0,0,13,16,81.3,2,9,0,1,0,Hertha BSC,2023-05-12 Köln-Hertha BSC,GER-BL1,22-23,5c7691f9
+88d4144a,Maximilian Mittelstädt,17,GER,LB,26-055,30,0,0,0,0,0,0,1,0,23,1,1,0,0.0,0.0,0.1,2,0,17,20,85.0,2,14,1,0,0,Hertha BSC,2023-05-12 Köln-Hertha BSC,GER-BL1,22-23,5c7691f9
+815c314f,Marc-Oliver Kempf,20,GER,CB,28-104,90,0,0,0,0,0,0,0,0,36,0,0,0,0.0,0.0,0.0,0,0,22,25,88.0,4,16,0,1,1,Hertha BSC,2023-05-12 Köln-Hertha BSC,GER-BL1,22-23,5c7691f9
+af842091,Filip Uremović,5,CRO,CB,26-090,11,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,2,0,0,0,Hertha BSC,2023-05-12 Köln-Hertha BSC,GER-BL1,22-23,5c7691f9
+ea42c03f,Agustín Rogel,3,URU,CB,25-207,79,0,0,0,0,0,0,1,0,33,1,0,2,0.0,0.0,0.0,0,0,16,25,64.0,2,18,0,0,0,Hertha BSC,2023-05-12 Köln-Hertha BSC,GER-BL1,22-23,5c7691f9
+099e666f,Jonjoe Kenny,16,ENG,RB,26-058,90,0,0,0,0,0,0,0,0,62,2,0,2,0.0,0.0,0.0,1,0,46,52,88.5,6,23,1,2,0,Hertha BSC,2023-05-12 Köln-Hertha BSC,GER-BL1,22-23,5c7691f9
+af104654,Oliver Christensen,1,DEN,GK,24-051,90,0,0,0,0,0,0,0,0,52,0,0,0,0.0,0.0,0.0,0,0,27,43,62.8,0,27,0,0,0,Hertha BSC,2023-05-12 Köln-Hertha BSC,GER-BL1,22-23,5c7691f9

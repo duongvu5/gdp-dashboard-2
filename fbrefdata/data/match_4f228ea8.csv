@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+81255c03,João Pedro,10,ITA,FW,26-282,90,0,0,0,0,1,0,0,0,39,0,0,1,0.0,0.0,0.0,1,0,21,30,70.0,0,21,1,0,0,Cagliari,2018-12-16 Cagliari-Napoli,ITA-SERIA_A,18-19,4f228ea8
+157d29b6,Diego Farias,17,BRA,FW,28-220,68,0,0,0,0,2,0,0,0,21,0,0,0,0.3,0.3,0.0,1,0,10,14,71.4,1,18,2,3,1,Cagliari,2018-12-16 Cagliari-Napoli,ITA-SERIA_A,18-19,4f228ea8
+1ad1f50d,Marco Sau,25,ITA,FW,31-043,22,0,0,0,0,0,0,1,0,9,0,0,0,0.0,0.0,0.1,1,0,2,4,50.0,0,6,0,0,0,Cagliari,2018-12-16 Cagliari-Napoli,ITA-SERIA_A,18-19,4f228ea8
+6928979a,Nicolò Barella,18,ITA,"AM,CM",21-312,90,0,0,0,0,0,0,0,0,65,5,1,3,0.0,0.0,0.0,1,0,40,48,83.3,5,35,2,4,2,Cagliari,2018-12-16 Cagliari-Napoli,ITA-SERIA_A,18-19,4f228ea8
+cedb3e36,Artur Ioniță,21,MDA,"LM,CM,RM",28-121,90,0,0,0,0,0,0,0,0,43,5,2,1,0.0,0.0,0.0,0,0,24,30,80.0,1,23,1,0,0,Cagliari,2018-12-16 Cagliari-Napoli,ITA-SERIA_A,18-19,4f228ea8
+605873e1,Filip Bradarić,6,CRO,"CM,CB,LM",26-339,90,0,0,0,0,5,0,0,0,65,2,3,2,0.2,0.2,0.0,3,0,37,48,77.1,5,30,2,0,0,Cagliari,2018-12-16 Cagliari-Napoli,ITA-SERIA_A,18-19,4f228ea8
+9085dd7c,Paolo Faragò,24,ITA,"RM,RB",25-307,90,0,0,0,0,1,1,0,0,44,1,0,0,0.1,0.1,0.1,3,0,24,33,72.7,2,21,1,1,1,Cagliari,2018-12-16 Cagliari-Napoli,ITA-SERIA_A,18-19,4f228ea8
+5eb72339,Simone Padoin,20,ITA,LB,34-273,90,0,0,0,0,1,1,1,0,50,0,2,0,0.0,0.0,0.0,2,0,27,39,69.2,2,20,1,3,1,Cagliari,2018-12-16 Cagliari-Napoli,ITA-SERIA_A,18-19,4f228ea8
+008a6e6d,Ragnar Klavan,15,EST,CB,33-047,90,0,0,0,0,0,0,0,0,38,0,1,2,0.0,0.0,0.0,0,0,14,28,50.0,1,19,0,0,0,Cagliari,2018-12-16 Cagliari-Napoli,ITA-SERIA_A,18-19,4f228ea8
+84594618,Filippo Romagna,56,ITA,CB,21-204,79,0,0,0,0,0,0,0,0,28,0,1,0,0.0,0.0,0.0,0,0,16,20,80.0,1,15,0,0,0,Cagliari,2018-12-16 Cagliari-Napoli,ITA-SERIA_A,18-19,4f228ea8
+13d820de,Marco Andreolli,3,ITA,CB,32-189,11,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,3,4,75.0,1,2,0,0,0,Cagliari,2018-12-16 Cagliari-Napoli,ITA-SERIA_A,18-19,4f228ea8
+56400c01,Fabio Pisacane,19,ITA,RB,32-322,86,0,0,0,0,0,0,0,0,51,1,0,2,0.0,0.0,0.3,1,0,29,39,74.4,1,21,0,1,0,Cagliari,2018-12-16 Cagliari-Napoli,ITA-SERIA_A,18-19,4f228ea8
+ae64d449,Luca Cigarini,8,ITA,CM,32-179,4,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,4,8,50.0,0,5,0,0,0,Cagliari,2018-12-16 Cagliari-Napoli,ITA-SERIA_A,18-19,4f228ea8
+f554e29b,Alessio Cragno,28,ITA,GK,24-171,90,0,0,0,0,0,0,0,0,46,0,0,0,0.0,0.0,0.0,0,0,22,43,51.2,0,20,0,0,0,Cagliari,2018-12-16 Cagliari-Napoli,ITA-SERIA_A,18-19,4f228ea8
+85613cf0,Arkadiusz Milik,99,POL,FW,24-291,90,1,0,0,0,7,3,0,0,32,1,1,0,0.4,0.4,0.0,0,0,15,17,88.2,5,25,1,0,0,Napoli,2018-12-16 Cagliari-Napoli,ITA-SERIA_A,18-19,4f228ea8
+a5296e55,Piotr Zieliński,20,POL,"LW,CM",24-210,90,0,0,0,0,2,0,0,0,56,2,0,1,0.1,0.1,0.1,4,0,41,45,91.1,6,42,3,2,1,Napoli,2018-12-16 Cagliari-Napoli,ITA-SERIA_A,18-19,4f228ea8
+ed90babd,Adam Ounas,11,ALG,"RW,RM",22-035,70,0,0,0,0,2,1,0,0,50,2,0,0,0.1,0.1,0.1,5,0,30,41,73.2,5,34,8,3,2,Napoli,2018-12-16 Cagliari-Napoli,ITA-SERIA_A,18-19,4f228ea8
+2f557579,Lorenzo Insigne,24,ITA,LM,27-195,20,0,0,0,0,1,0,1,0,15,1,0,0,0.0,0.0,0.0,1,0,10,12,83.3,2,13,2,0,0,Napoli,2018-12-16 Cagliari-Napoli,ITA-SERIA_A,18-19,4f228ea8
+c0c7ff58,Fabián Ruiz Peña,8,ESP,"AM,RM,LM",22-257,90,0,0,0,0,2,0,0,0,62,0,1,0,0.1,0.1,0.1,8,0,37,51,72.5,6,43,8,3,2,Napoli,2018-12-16 Cagliari-Napoli,ITA-SERIA_A,18-19,4f228ea8
+bf309d24,Amadou Diawara,42,GUI,DM,21-152,61,0,0,0,0,0,0,0,0,50,0,0,0,0.0,0.0,0.0,1,0,40,47,85.1,4,38,0,1,1,Napoli,2018-12-16 Cagliari-Napoli,ITA-SERIA_A,18-19,4f228ea8
+89b2c8a9,Dries Mertens,14,BEL,FW,31-224,29,0,0,0,0,0,0,0,0,16,0,0,0,0.0,0.0,0.2,5,1,10,15,66.7,2,12,0,1,1,Napoli,2018-12-16 Cagliari-Napoli,ITA-SERIA_A,18-19,4f228ea8
+cc700722,Allan,5,BRA,"DM,CM",27-342,90,0,0,0,0,1,0,0,0,80,0,1,2,0.1,0.1,0.0,2,1,63,70,90.0,14,51,1,1,0,Napoli,2018-12-16 Cagliari-Napoli,ITA-SERIA_A,18-19,4f228ea8
+c5adc293,Faouzi Ghoulam,31,ALG,LB,27-318,90,0,0,0,0,2,1,0,0,74,2,0,0,0.1,0.1,0.0,2,0,47,68,69.1,3,38,1,1,0,Napoli,2018-12-16 Cagliari-Napoli,ITA-SERIA_A,18-19,4f228ea8
+da974c7b,Kalidou Koulibaly,26,SEN,CB,27-179,90,0,0,0,0,1,0,0,0,95,3,0,0,0.2,0.2,0.1,2,0,65,80,81.3,12,59,6,0,0,Napoli,2018-12-16 Cagliari-Napoli,ITA-SERIA_A,18-19,4f228ea8
+16b9d5cf,Nikola Maksimović,19,SRB,CB,27-021,90,0,0,0,0,0,0,1,0,61,1,2,1,0.0,0.0,0.0,0,0,52,54,96.3,4,35,0,0,0,Napoli,2018-12-16 Cagliari-Napoli,ITA-SERIA_A,18-19,4f228ea8
+d6a889ea,Kévin Malcuit,2,MAR,RB,27-138,79,0,0,0,0,0,0,0,0,83,3,4,1,0.0,0.0,0.2,3,0,48,62,77.4,5,41,4,3,2,Napoli,2018-12-16 Cagliari-Napoli,ITA-SERIA_A,18-19,4f228ea8
+78841da9,José Callejón,7,ESP,RB,31-308,11,0,0,0,0,0,0,0,0,7,0,1,0,0.0,0.0,0.0,0,0,5,7,71.4,1,4,0,0,0,Napoli,2018-12-16 Cagliari-Napoli,ITA-SERIA_A,18-19,4f228ea8
+82b1198a,David Ospina,25,COL,GK,30-107,90,0,0,0,0,0,0,0,0,29,0,0,0,0.0,0.0,0.0,0,0,22,28,78.6,0,14,0,0,0,Napoli,2018-12-16 Cagliari-Napoli,ITA-SERIA_A,18-19,4f228ea8

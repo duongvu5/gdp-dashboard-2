@@ -1,0 +1,32 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+09a9e921,Carlos Bacca,9,COL,FW,34-044,69,1,0,0,1,2,1,0,0,26,0,1,1,1.0,0.2,0.0,5,0,16,20,80.0,1,8,0,2,2,Villarreal,2020-10-22 Villarreal-Sivasspor,UEL,20-21,c0f0611c
+a7a9d95a,Paco Alcácer,17,ESP,FW,27-053,21,2,0,0,0,4,4,0,0,12,0,1,0,1.4,1.4,0.0,2,1,5,6,83.3,1,6,1,0,0,Villarreal,2020-10-22 Villarreal-Sivasspor,UEL,20-21,c0f0611c
+518f2234,Alex Baena,32,ESP,LW,19-094,45,0,0,0,0,2,1,0,0,31,0,0,0,0.1,0.1,0.2,3,0,16,25,64.0,1,10,1,2,0,Villarreal,2020-10-22 Villarreal-Sivasspor,UEL,20-21,c0f0611c
+ad1ffcfd,Vicente Iborra,10,ESP,CM,32-280,45,0,0,0,0,1,0,0,0,54,1,0,0,0.1,0.1,0.0,2,1,44,46,95.7,2,30,1,0,0,Villarreal,2020-10-22 Villarreal-Sivasspor,UEL,20-21,c0f0611c
+b8a642fc,Samuel Chukwueze,11,NGA,"LW,RW",21-153,90,0,1,0,0,2,1,0,0,60,2,1,0,0.1,0.1,0.2,5,1,30,43,69.8,1,34,9,10,5,Villarreal,2020-10-22 Villarreal-Sivasspor,UEL,20-21,c0f0611c
+963829d0,Manu Trigueros,14,ESP,LM,29-005,57,0,0,0,0,0,0,0,0,49,0,0,1,0.0,0.0,0.0,2,0,36,44,81.8,8,22,2,2,2,Villarreal,2020-10-22 Villarreal-Sivasspor,UEL,20-21,c0f0611c
+5a626448,Moi Gómez,23,ESP,LM,26-121,33,0,0,0,0,0,0,0,0,37,0,0,0,0.0,0.0,0.0,2,0,28,36,77.8,3,25,3,1,1,Villarreal,2020-10-22 Villarreal-Sivasspor,UEL,20-21,c0f0611c
+a6951bf8,Francis Coquelin,19,FRA,"CM,RM",29-162,78,0,0,0,0,2,0,1,0,61,0,1,0,0.1,0.1,0.0,0,0,52,56,92.9,3,28,0,1,1,Villarreal,2020-10-22 Villarreal-Sivasspor,UEL,20-21,c0f0611c
+540ec57b,Yeremi Pino,30,ESP,RM,18-002,12,0,0,0,0,0,0,0,0,13,0,0,1,0.0,0.0,0.3,3,0,6,9,66.7,3,7,1,4,3,Villarreal,2020-10-22 Villarreal-Sivasspor,UEL,20-21,c0f0611c
+16aa3654,Takefusa Kubo,16,JPN,"RW,RM",19-140,90,1,2,0,0,3,1,0,0,58,2,0,0,0.5,0.5,0.2,5,2,32,48,66.7,8,32,5,3,1,Villarreal,2020-10-22 Villarreal-Sivasspor,UEL,20-21,c0f0611c
+808d48f3,Jaume Costa,21,ESP,LB,32-218,69,0,0,0,0,2,1,0,0,45,0,0,1,0.1,0.1,0.0,0,0,31,36,86.1,3,22,1,0,0,Villarreal,2020-10-22 Villarreal-Sivasspor,UEL,20-21,c0f0611c
+63f04c6c,Alfonso Pedraza,24,ESP,LB,24-196,21,0,0,0,0,0,0,1,0,11,1,0,0,0.0,0.0,0.1,1,0,6,8,75.0,1,4,2,0,0,Villarreal,2020-10-22 Villarreal-Sivasspor,UEL,20-21,c0f0611c
+4bd414c1,Raúl Albiol,3,ESP,CB,35-048,90,0,0,0,0,0,0,0,0,90,0,0,1,0.0,0.0,0.0,0,0,77,81,95.1,11,58,8,1,0,Villarreal,2020-10-22 Villarreal-Sivasspor,UEL,20-21,c0f0611c
+6c7762c3,Juan Foyth,8,ARG,CB,22-284,90,1,1,0,0,1,1,1,0,81,2,1,0,0.1,0.1,0.4,2,1,76,76,100.0,6,53,0,1,1,Villarreal,2020-10-22 Villarreal-Sivasspor,UEL,20-21,c0f0611c
+1f079188,Rubén Peña,20,ESP,RB,29-096,90,0,0,0,0,1,0,0,0,49,0,2,1,0.1,0.1,0.0,5,1,39,42,92.9,6,22,0,0,0,Villarreal,2020-10-22 Villarreal-Sivasspor,UEL,20-21,c0f0611c
+625c144a,Gerónimo Rulli,13,ARG,GK,28-155,90,0,0,0,0,0,0,0,0,47,0,0,0,0.0,0.0,0.0,0,0,42,45,93.3,0,26,0,0,0,Villarreal,2020-10-22 Villarreal-Sivasspor,UEL,20-21,c0f0611c
+d3272fba,Olarenwaju Kayode,80,NGA,FW,27-167,81,1,0,0,0,2,1,0,0,13,0,0,1,0.4,0.4,0.0,0,0,9,9,100.0,1,8,1,0,0,Sivasspor,2020-10-22 Villarreal-Sivasspor,UEL,20-21,c0f0611c
+f9a72ca4,Arouna Koné,2,CIV,FW,36-346,9,0,0,0,0,1,0,0,0,8,0,0,0,0.1,0.1,0.0,0,0,5,6,83.3,1,6,1,0,0,Sivasspor,2020-10-22 Villarreal-Sivasspor,UEL,20-21,c0f0611c
+c5a500ca,Max Gradel,7,CIV,LW,32-327,81,1,0,0,0,1,1,1,0,28,1,0,0,0.1,0.1,0.1,2,0,12,22,54.5,0,13,5,2,1,Sivasspor,2020-10-22 Villarreal-Sivasspor,UEL,20-21,c0f0611c
+474439fb,Yasin Öztekin,10,TUR,LW,33-217,9,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,5,7,71.4,1,8,2,0,0,Sivasspor,2020-10-22 Villarreal-Sivasspor,UEL,20-21,c0f0611c
+398dc4f4,Mustapha Yatabaré,9,MLI,RW,34-270,90,1,1,0,0,3,2,0,0,40,4,1,0,0.1,0.1,0.4,3,1,10,25,40.0,2,20,1,2,1,Sivasspor,2020-10-22 Villarreal-Sivasspor,UEL,20-21,c0f0611c
+79135368,Fayçal Fajr,76,MAR,AM,32-082,90,0,0,0,0,1,1,0,0,65,1,1,0,0.0,0.0,0.1,5,2,49,58,84.5,5,40,2,2,2,Sivasspor,2020-10-22 Villarreal-Sivasspor,UEL,20-21,c0f0611c
+c6dda86e,Isaac Cofie,5,GHA,"DM,RB",29-032,90,0,0,0,0,1,0,1,0,37,1,5,0,0.0,0.0,0.0,1,0,19,26,73.1,2,21,1,1,1,Sivasspor,2020-10-22 Villarreal-Sivasspor,UEL,20-21,c0f0611c
+2429a3ec,Hakan Arslan,37,TUR,DM,32-096,90,0,0,0,0,0,0,0,0,28,4,0,1,0.0,0.0,0.0,1,0,14,19,73.7,2,16,0,0,0,Sivasspor,2020-10-22 Villarreal-Sivasspor,UEL,20-21,c0f0611c
+e111bf12,Uğur Çiftçi,3,TUR,LB,28-171,90,0,0,0,0,0,0,0,0,47,2,1,3,0.0,0.0,0.1,3,0,26,39,66.7,4,26,2,2,2,Sivasspor,2020-10-22 Villarreal-Sivasspor,UEL,20-21,c0f0611c
+7c85e03f,Samba Camara,14,MLI,CB,27-343,78,0,0,0,0,1,1,0,0,40,2,0,1,0.1,0.1,0.0,0,0,25,34,73.5,2,32,0,0,0,Sivasspor,2020-10-22 Villarreal-Sivasspor,UEL,20-21,c0f0611c
+1b033987,Claudemir de Souza,6,BRA,"DM,CB",32-209,12,0,0,0,0,0,0,0,0,12,1,0,0,0.0,0.0,0.0,0,0,8,10,80.0,0,5,0,0,0,Sivasspor,2020-10-22 Villarreal-Sivasspor,UEL,20-21,c0f0611c
+35c54115,Caner Osmanpaşa,88,TUR,CB,32-281,90,0,0,0,0,0,0,0,0,24,0,2,4,0.0,0.0,0.0,0,0,15,17,88.2,0,13,0,2,1,Sivasspor,2020-10-22 Villarreal-Sivasspor,UEL,20-21,c0f0611c
+829ae874,Robin Yalçın,8,GER,"RB,CB",26-271,90,0,1,0,0,0,0,1,0,33,0,3,1,0.0,0.0,0.0,1,1,17,21,81.0,0,15,2,0,0,Sivasspor,2020-10-22 Villarreal-Sivasspor,UEL,20-21,c0f0611c
+cfe852d8,Mamadou Samassa,30,MLI,GK,30-249,90,0,0,0,0,0,0,0,0,30,0,0,0,0.0,0.0,0.0,0,0,11,22,50.0,0,14,0,0,0,Sivasspor,2020-10-22 Villarreal-Sivasspor,UEL,20-21,c0f0611c

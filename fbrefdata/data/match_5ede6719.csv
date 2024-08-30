@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+4a987ffa,Adrian Grbić,27,AUT,FW,24-117,60,0,0,0,0,0,0,0,0,17,1,0,0,0.0,0.0,0.0,1,0,7,12,58.3,0,11,0,1,0,Lorient,2020-11-29 Lorient-Montpellier,FRA-L1,20-21,5ede6719
+a99da9ec,Pierre-Yves Hamel,29,FRA,FW,26-300,30,0,0,0,0,1,0,0,0,12,1,0,0,0.0,0.0,0.0,1,0,5,9,55.6,0,4,0,0,0,Lorient,2020-11-29 Lorient-Montpellier,FRA-L1,20-21,5ede6719
+f6496133,Quentin Boisgard,11,FRA,LW,23-257,71,0,0,0,0,1,0,0,0,27,0,0,1,0.1,0.1,0.0,1,0,16,23,69.6,2,17,0,1,1,Lorient,2020-11-29 Lorient-Montpellier,FRA-L1,20-21,5ede6719
+54d51e22,Fabien Lemoine,18,FRA,LW,33-258,19,0,0,0,0,1,0,0,0,23,0,0,1,0.0,0.0,0.0,0,0,14,20,70.0,1,17,1,0,0,Lorient,2020-11-29 Lorient-Montpellier,FRA-L1,20-21,5ede6719
+6f806d99,Enzo Le Fée,10,FRA,RW,20-300,81,0,0,0,0,2,0,1,0,51,6,0,1,0.1,0.1,0.1,1,0,22,31,71.0,1,30,0,4,2,Lorient,2020-11-29 Lorient-Montpellier,FRA-L1,20-21,5ede6719
+065dc209,Terem Moffi,13,NGA,RW,21-188,9,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,1,0,0,0,Lorient,2020-11-29 Lorient-Montpellier,FRA-L1,20-21,5ede6719
+2500cef9,Yoane Wissa,19,COD,AM,24-087,71,0,0,0,0,0,0,0,0,23,1,1,0,0.0,0.0,0.0,1,0,11,14,78.6,0,12,2,1,0,Lorient,2020-11-29 Lorient-Montpellier,FRA-L1,20-21,5ede6719
+2d22cea7,Armand Lauriente,28,FRA,AM,21-361,19,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,1,0,3,3,100.0,0,2,0,0,0,Lorient,2020-11-29 Lorient-Montpellier,FRA-L1,20-21,5ede6719
+31626657,Laurent Abergel,6,FRA,DM,27-302,90,0,0,0,0,0,0,0,0,44,4,2,0,0.0,0.0,0.0,1,0,33,39,84.6,6,30,0,0,0,Lorient,2020-11-29 Lorient-Montpellier,FRA-L1,20-21,5ede6719
+5515376c,Trevoh Chalobah,8,ENG,DM,21-147,81,0,0,0,0,0,0,0,0,35,0,1,1,0.0,0.0,0.0,1,0,20,27,74.1,3,23,0,1,1,Lorient,2020-11-29 Lorient-Montpellier,FRA-L1,20-21,5ede6719
+29939a1d,Stéphane Diarra,7,FRA,DM,21-356,9,0,0,0,0,0,0,0,0,11,0,0,1,0.0,0.0,0.0,0,0,5,7,71.4,1,8,0,1,0,Lorient,2020-11-29 Lorient-Montpellier,FRA-L1,20-21,5ede6719
+2321ea6e,Vincent Le Goff,25,FRA,LB,31-045,90,0,0,0,0,1,1,0,0,55,0,2,0,0.1,0.1,0.0,0,0,37,46,80.4,3,30,1,0,0,Lorient,2020-11-29 Lorient-Montpellier,FRA-L1,20-21,5ede6719
+49136c42,Andrew Gravillon,2,GLP,CB,22-295,90,0,0,0,0,1,1,0,0,55,1,1,1,0.2,0.2,0.1,1,0,28,42,66.7,1,29,0,1,1,Lorient,2020-11-29 Lorient-Montpellier,FRA-L1,20-21,5ede6719
+f066022d,Julien Laporte,15,FRA,CB,27-025,90,0,0,0,0,1,0,1,0,65,0,3,2,0.0,0.0,0.0,2,0,43,53,81.1,2,38,0,0,0,Lorient,2020-11-29 Lorient-Montpellier,FRA-L1,20-21,5ede6719
+a84f9a4b,Jérôme Hergault,14,FRA,RB,34-238,90,0,0,0,0,0,0,0,0,55,1,3,2,0.0,0.0,0.0,0,0,31,44,70.5,1,26,0,1,1,Lorient,2020-11-29 Lorient-Montpellier,FRA-L1,20-21,5ede6719
+2d70dbe5,Paul Nardi,30,FRA,GK,26-195,90,0,0,0,0,0,0,0,0,32,0,0,0,0.0,0.0,0.2,2,0,18,31,58.1,0,13,0,0,0,Lorient,2020-11-29 Lorient-Montpellier,FRA-L1,20-21,5ede6719
+d33c706e,Andy Delort,9,ALG,FW,29-051,87,0,1,0,0,2,0,0,0,34,0,1,0,0.1,0.1,0.3,5,1,15,23,65.2,2,21,1,1,0,Montpellier,2020-11-29 Lorient-Montpellier,FRA-L1,20-21,5ede6719
+c4bbea9f,Vitorino Hilton,4,BRA,FW,43-077,3,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,0,3,0.0,0,0,0,0,0,Montpellier,2020-11-29 Lorient-Montpellier,FRA-L1,20-21,5ede6719
+6bde367b,Téji Savanier,11,FRA,LM,28-343,90,0,0,0,1,1,0,1,0,41,2,4,0,0.9,0.1,0.2,8,0,21,30,70.0,1,23,3,3,2,Montpellier,2020-11-29 Lorient-Montpellier,FRA-L1,20-21,5ede6719
+7cdda3bf,Gaëtan Laborde,10,FRA,CM,26-210,77,0,0,0,0,5,1,0,0,30,0,0,0,0.2,0.2,0.1,3,0,12,20,60.0,3,17,1,1,1,Montpellier,2020-11-29 Lorient-Montpellier,FRA-L1,20-21,5ede6719
+d9a66c60,Petar Škuletić,32,SRB,CM,30-153,13,1,0,0,0,1,1,0,0,9,1,0,0,0.1,0.1,0.0,0,0,3,6,50.0,0,3,1,0,0,Montpellier,2020-11-29 Lorient-Montpellier,FRA-L1,20-21,5ede6719
+7e82a78f,Florent Mollet,25,FRA,CM,29-010,77,0,0,0,0,1,0,0,0,55,1,1,1,0.1,0.1,0.0,2,0,41,49,83.7,8,35,2,0,0,Montpellier,2020-11-29 Lorient-Montpellier,FRA-L1,20-21,5ede6719
+ccb1c3af,Keagan Dolly,20,RSA,CM,27-312,13,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,2,4,50.0,0,3,1,0,0,Montpellier,2020-11-29 Lorient-Montpellier,FRA-L1,20-21,5ede6719
+30144daa,Stephy Mavididi,19,ENG,RM,22-182,66,0,0,0,0,1,1,0,0,27,1,0,0,0.1,0.1,0.0,1,0,13,16,81.3,1,17,0,2,0,Montpellier,2020-11-29 Lorient-Montpellier,FRA-L1,20-21,5ede6719
+23bf644d,Yun Il-lok,24,KOR,RM,28-267,24,0,0,0,0,1,0,0,0,11,0,1,0,0.0,0.0,0.0,2,1,6,8,75.0,1,7,1,1,1,Montpellier,2020-11-29 Lorient-Montpellier,FRA-L1,20-21,5ede6719
+375622c5,Jordan Ferri,12,FRA,DM,28-262,90,0,0,0,0,0,0,0,0,62,1,0,0,0.0,0.0,0.0,1,0,54,59,91.5,8,37,0,1,1,Montpellier,2020-11-29 Lorient-Montpellier,FRA-L1,20-21,5ede6719
+ea0aa7e0,Mihailo Ristić,7,SRB,LB,25-029,67,0,0,0,0,1,0,0,0,70,2,1,1,0.0,0.0,0.0,1,0,45,61,73.8,4,45,2,3,1,Montpellier,2020-11-29 Lorient-Montpellier,FRA-L1,20-21,5ede6719
+e3e05edf,Ambroise Oyongo,8,CMR,LB,29-160,23,0,0,0,0,0,0,0,0,13,1,0,0,0.0,0.0,0.0,1,0,8,11,72.7,1,9,0,0,0,Montpellier,2020-11-29 Lorient-Montpellier,FRA-L1,20-21,5ede6719
+3f5b4635,Daniel Congré,3,FRA,CB,35-238,90,0,0,0,0,1,0,0,0,97,2,2,2,0.1,0.1,0.0,1,0,70,82,85.4,2,58,1,0,0,Montpellier,2020-11-29 Lorient-Montpellier,FRA-L1,20-21,5ede6719
+6690ef25,Pedro Mendes,5,POR,CB,30-059,90,0,0,0,0,0,0,0,0,71,0,1,1,0.0,0.0,0.0,0,0,57,65,87.7,2,42,0,0,0,Montpellier,2020-11-29 Lorient-Montpellier,FRA-L1,20-21,5ede6719
+24eb7ed6,Junior Sambia,6,FRA,RB,24-083,90,0,0,0,0,1,0,0,0,73,1,1,0,0.0,0.0,0.0,4,0,55,69,79.7,8,44,3,1,1,Montpellier,2020-11-29 Lorient-Montpellier,FRA-L1,20-21,5ede6719
+c631f952,Jonas Omlin,1,SUI,GK,26-324,90,0,0,0,0,0,0,0,0,41,0,0,0,0.0,0.0,0.0,0,0,29,40,72.5,0,25,0,0,0,Montpellier,2020-11-29 Lorient-Montpellier,FRA-L1,20-21,5ede6719

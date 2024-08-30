@@ -1,0 +1,32 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+9dbb75ca,Alexandre Lacazette,10,FRA,FW,32-112,90,0,0,0,0,2,0,1,0,22,0,0,1,0.0,0.0,0.1,4,0,11,16,68.8,2,18,0,0,0,Lyon,2023-09-17 Lyon-Le Havre,FRA-L1,23-24,18b82351
+234a703c,Ernest Nuamah,37,GHA,"LM,RM",19-320,76,0,0,0,0,3,1,0,0,31,0,0,0,0.3,0.3,0.1,4,0,16,21,76.2,4,29,6,5,2,Lyon,2023-09-17 Lyon-Le Havre,FRA-L1,23-24,18b82351
+12de1b0d,Diego Moreira,19,POR,RM,19-042,14,0,0,0,0,2,1,0,0,21,0,0,0,0.1,0.1,0.3,2,0,14,19,73.7,2,16,3,0,0,Lyon,2023-09-17 Lyon-Le Havre,FRA-L1,23-24,18b82351
+652d4c37,Corentin Tolisso,8,FRA,CM,29-045,67,0,0,0,0,0,0,0,0,61,1,0,1,0.0,0.0,0.4,6,0,46,55,83.6,15,49,0,1,0,Lyon,2023-09-17 Lyon-Le Havre,FRA-L1,23-24,18b82351
+fb14aa28,Mama Samba Baldé,7,GNB,LM,27-315,23,0,0,0,0,2,1,0,0,11,0,0,0,0.0,0.0,0.2,1,0,4,5,80.0,0,8,2,1,1,Lyon,2023-09-17 Lyon-Le Havre,FRA-L1,23-24,18b82351
+f81ef10d,Maxence Caqueret,6,FRA,CM,23-214,90,0,0,0,0,1,0,0,0,65,5,2,1,0.1,0.1,0.2,11,0,40,53,75.5,7,41,3,3,2,Lyon,2023-09-17 Lyon-Le Havre,FRA-L1,23-24,18b82351
+b34c63a5,Rayan Cherki,18,FRA,"RM,CM",20-031,90,0,0,0,0,6,3,0,0,62,2,0,0,0.5,0.5,0.0,4,0,35,45,77.8,6,53,5,6,2,Lyon,2023-09-17 Lyon-Le Havre,FRA-L1,23-24,18b82351
+31f5b89b,Paul Akouokou,4,CIV,DM,25-271,76,0,0,0,0,1,0,0,0,55,3,1,4,0.1,0.1,0.0,2,0,37,44,84.1,5,39,0,1,0,Lyon,2023-09-17 Lyon-Le Havre,FRA-L1,23-24,18b82351
+1e52971c,Johann Lepenant,24,FRA,DM,20-330,14,0,0,0,0,0,0,0,0,14,0,0,0,0.0,0.0,0.0,1,0,12,14,85.7,1,13,0,0,0,Lyon,2023-09-17 Lyon-Le Havre,FRA-L1,23-24,18b82351
+f0661424,Nicolás Tagliafico,3,ARG,LB,31-017,90,0,0,0,0,1,0,0,0,65,3,2,1,0.0,0.0,0.1,5,0,45,52,86.5,6,47,2,1,0,Lyon,2023-09-17 Lyon-Le Havre,FRA-L1,23-24,18b82351
+6de23ab0,Sinaly Diomande,2,CIV,CB,22-161,90,0,0,0,0,2,0,0,0,82,1,1,0,0.2,0.2,0.0,1,0,76,77,98.7,7,74,0,1,1,Lyon,2023-09-17 Lyon-Le Havre,FRA-L1,23-24,18b82351
+55abe554,Clinton Mata,22,ANG,CB,30-314,90,0,0,0,0,1,0,1,0,92,0,1,1,0.0,0.0,0.0,2,0,74,86,86.0,2,79,0,1,0,Lyon,2023-09-17 Lyon-Le Havre,FRA-L1,23-24,18b82351
+c385bf49,Sael Kumbedi,20,FRA,RB,18-175,90,0,0,0,0,2,1,1,0,73,3,3,2,0.1,0.1,0.0,1,0,47,56,83.9,6,42,1,3,2,Lyon,2023-09-17 Lyon-Le Havre,FRA-L1,23-24,18b82351
+f00de885,Anthony Lopes,1,POR,GK,32-351,90,0,0,0,0,0,0,0,0,37,0,0,0,0.0,0.0,0.0,0,0,33,36,91.7,0,24,0,0,0,Lyon,2023-09-17 Lyon-Le Havre,FRA-L1,23-24,18b82351
+01870104,Mohamed Lamine Bayo,9,GUI,FW,25-105,57,0,0,0,0,0,0,1,0,19,1,0,0,0.0,0.0,0.0,1,0,9,15,60.0,0,10,0,0,0,Le Havre,2023-09-17 Lyon-Le Havre,FRA-L1,23-24,18b82351
+d2448564,Samuel Grandsir,29,FRA,FW,27-034,33,0,0,0,0,3,0,0,0,16,1,0,0,0.6,0.6,0.0,1,0,7,11,63.6,2,12,1,2,2,Le Havre,2023-09-17 Lyon-Le Havre,FRA-L1,23-24,18b82351
+d4e93bab,Daler Kuzyaev,14,RUS,FW,30-245,88,0,0,0,0,1,0,0,0,49,2,0,1,0.1,0.1,0.0,4,0,28,34,82.4,4,36,2,1,0,Le Havre,2023-09-17 Lyon-Le Havre,FRA-L1,23-24,18b82351
+1d8aa290,Issa Soumaré,45,SEN,FW,22-342,2,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,1,0,0,1,0.0,0,2,0,0,0,Le Havre,2023-09-17 Lyon-Le Havre,FRA-L1,23-24,18b82351
+b386310a,Nabil Alioui,10,FRA,LM,24-211,73,0,0,0,0,1,0,0,0,33,1,2,1,0.0,0.0,0.0,1,0,21,26,80.8,1,24,1,0,0,Le Havre,2023-09-17 Lyon-Le Havre,FRA-L1,23-24,18b82351
+2e1b7c83,Emmanuel Sabbi,11,USA,LM,25-267,17,0,0,0,0,0,0,0,0,7,2,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,4,0,1,0,Le Havre,2023-09-17 Lyon-Le Havre,FRA-L1,23-24,18b82351
+abefc3af,Yassine Kechta,8,MAR,CM,21-204,57,0,0,0,0,1,0,0,0,33,1,2,0,0.0,0.0,0.0,0,0,19,23,82.6,3,28,2,2,0,Le Havre,2023-09-17 Lyon-Le Havre,FRA-L1,23-24,18b82351
+36f65bdf,Rassoul Ndiaye,19,SEN,CM,21-280,33,0,0,0,0,0,0,0,0,22,1,0,1,0.0,0.0,0.0,1,0,10,14,71.4,2,15,1,2,1,Le Havre,2023-09-17 Lyon-Le Havre,FRA-L1,23-24,18b82351
+ef7cd87a,Abdoulaye Touré,94,GUI,CM,29-198,90,0,0,0,0,0,0,0,0,67,4,0,1,0.0,0.0,0.0,1,0,42,51,82.4,6,47,0,3,1,Le Havre,2023-09-17 Lyon-Le Havre,FRA-L1,23-24,18b82351
+481f76cf,Josué Casimir,23,FRA,RM,21-358,73,0,0,0,0,0,0,1,0,32,4,0,0,0.0,0.0,0.7,2,0,18,25,72.0,1,18,3,1,0,Le Havre,2023-09-17 Lyon-Le Havre,FRA-L1,23-24,18b82351
+daa11a4f,Andy Logbo,20,FRA,RM,19-134,17,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,5,5,100.0,0,3,0,0,0,Le Havre,2023-09-17 Lyon-Le Havre,FRA-L1,23-24,18b82351
+914bb955,Christopher Operi,27,CIV,LB,26-141,90,0,0,0,0,0,0,0,0,62,4,2,2,0.0,0.0,0.0,1,0,32,51,62.7,0,33,1,2,1,Le Havre,2023-09-17 Lyon-Le Havre,FRA-L1,23-24,18b82351
+ac89503b,Gautier Lloris,4,FRA,CB,28-061,90,0,0,0,0,0,0,0,0,69,3,2,3,0.0,0.0,0.0,0,0,47,53,88.7,3,47,0,1,0,Le Havre,2023-09-17 Lyon-Le Havre,FRA-L1,23-24,18b82351
+17bb562c,Arouna Sangante,93,SEN,CB,21-158,90,0,0,0,0,1,0,0,0,54,1,2,2,0.0,0.0,0.0,1,0,40,46,87.0,3,42,0,0,0,Le Havre,2023-09-17 Lyon-Le Havre,FRA-L1,23-24,18b82351
+c3725db2,Yoann Salmier,22,GUF,RB,30-300,90,0,0,0,0,0,0,0,0,46,1,4,2,0.0,0.0,0.0,0,0,28,34,82.4,1,28,0,0,0,Le Havre,2023-09-17 Lyon-Le Havre,FRA-L1,23-24,18b82351
+e8c5dd4d,Arthur Desmas,30,FRA,GK,29-163,90,0,0,0,0,0,0,0,0,36,0,0,0,0.0,0.0,0.0,0,0,26,34,76.5,0,23,0,0,0,Le Havre,2023-09-17 Lyon-Le Havre,FRA-L1,23-24,18b82351

@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+09538fdb,Kevin Lasagna,15,ITA,FW,27-330,81,1,0,0,0,3,3,0,0,15,0,0,0,0.2,0.2,0.0,1,1,7,8,87.5,2,9,1,0,0,Udinese,2020-07-05 Udinese-Genoa,ITA-SERIA_A,19-20,7da5685f
+7e81a17d,Łukasz Teodorczyk,91,POL,FW,29-032,9,0,0,0,0,0,0,0,0,7,0,0,1,0.0,0.0,0.0,0,0,2,5,40.0,1,1,0,0,0,Udinese,2020-07-05 Udinese-Genoa,ITA-SERIA_A,19-20,7da5685f
+b1236c63,Ilija Nestorovski,30,MKD,FW,30-115,57,0,0,0,0,0,0,0,0,23,0,0,0,0.0,0.0,0.0,2,1,14,20,70.0,2,12,0,0,0,Udinese,2020-07-05 Udinese-Genoa,ITA-SERIA_A,19-20,7da5685f
+601ef102,Stefano Okaka,7,ITA,FW,30-331,33,0,0,0,0,0,0,0,0,13,1,0,2,0.0,0.0,0.0,0,0,7,7,100.0,1,11,1,1,0,Udinese,2020-07-05 Udinese-Genoa,ITA-SERIA_A,19-20,7da5685f
+5313ed43,Seko Fofana,6,CIV,CM,25-059,82,1,1,0,0,1,1,1,0,51,0,0,3,0.3,0.3,0.1,4,1,36,43,83.7,4,31,4,1,1,Udinese,2020-07-05 Udinese-Genoa,ITA-SERIA_A,19-20,7da5685f
+26db8853,Walace,11,BRA,CM,25-092,8,0,0,0,0,0,0,0,0,13,1,0,0,0.0,0.0,0.0,0,0,6,10,60.0,0,7,0,1,0,Udinese,2020-07-05 Udinese-Genoa,ITA-SERIA_A,19-20,7da5685f
+8c65eb5f,Mato Jajalo,8,BIH,CM,32-041,90,0,0,0,0,0,0,0,0,66,2,0,0,0.0,0.0,0.0,2,0,55,61,90.2,1,28,1,2,2,Udinese,2020-07-05 Udinese-Genoa,ITA-SERIA_A,19-20,7da5685f
+162efffd,Rodrigo De Paul,10,ARG,CM,26-042,90,0,1,0,0,2,0,0,0,68,0,0,2,0.1,0.1,0.3,1,1,33,57,57.9,5,42,10,4,3,Udinese,2020-07-05 Udinese-Genoa,ITA-SERIA_A,19-20,7da5685f
+1770bd68,Ken Sema,12,SWE,WB,26-279,67,0,0,0,0,0,0,1,0,28,2,1,1,0.0,0.0,0.1,1,0,14,21,66.7,2,12,2,1,1,Udinese,2020-07-05 Udinese-Genoa,ITA-SERIA_A,19-20,7da5685f
+8abd0c03,Marvin Zeegelaar,77,NED,WB,29-328,23,0,0,0,0,0,0,0,0,12,1,0,1,0.0,0.0,0.1,1,0,9,9,100.0,1,3,1,0,0,Udinese,2020-07-05 Udinese-Genoa,ITA-SERIA_A,19-20,7da5685f
+f91e81c9,Jens Stryger Larsen,19,DEN,WB,29-135,57,0,0,0,0,1,0,1,0,46,0,1,0,0.1,0.1,0.0,0,0,32,41,78.0,3,21,3,0,0,Udinese,2020-07-05 Udinese-Genoa,ITA-SERIA_A,19-20,7da5685f
+18f9dbd0,Hidde ter Avest,18,NED,WB,23-046,33,0,0,0,0,0,0,0,0,23,0,1,0,0.0,0.0,0.0,0,0,13,20,65.0,0,10,0,0,0,Udinese,2020-07-05 Udinese-Genoa,ITA-SERIA_A,19-20,7da5685f
+92b4758e,Samir Santos,3,BRA,CB,25-213,90,0,0,0,0,0,0,0,0,58,4,6,0,0.0,0.0,0.0,0,0,40,47,85.1,1,35,0,2,2,Udinese,2020-07-05 Udinese-Genoa,ITA-SERIA_A,19-20,7da5685f
+e33f36d5,Bram Nuytinck,17,NED,CB,30-062,90,0,0,0,0,0,0,0,0,63,2,1,1,0.0,0.0,0.0,0,0,50,56,89.3,1,40,0,0,0,Udinese,2020-07-05 Udinese-Genoa,ITA-SERIA_A,19-20,7da5685f
+7ed4921e,William Troost-Ekong,5,NGA,CB,26-308,90,0,0,0,0,0,0,0,0,50,1,1,0,0.0,0.0,0.0,0,0,33,45,73.3,6,27,4,0,0,Udinese,2020-07-05 Udinese-Genoa,ITA-SERIA_A,19-20,7da5685f
+a111cf41,Juan Musso,1,ARG,GK,26-060,90,0,0,0,0,0,0,0,0,28,0,0,0,0.0,0.0,0.0,0,0,21,26,80.8,0,11,0,0,0,Udinese,2020-07-05 Udinese-Genoa,ITA-SERIA_A,19-20,7da5685f
+0a447501,Antonio Sanabria,9,PAR,FW,24-123,76,0,0,0,0,0,0,0,0,19,0,0,0,0.0,0.0,0.1,1,0,9,12,75.0,1,13,0,0,0,Genoa,2020-07-05 Udinese-Genoa,ITA-SERIA_A,19-20,7da5685f
+44510fde,Andrea Favilli,30,ITA,FW,23-049,14,0,0,0,0,0,0,0,0,9,0,0,1,0.0,0.0,0.0,0,0,2,5,40.0,0,7,1,0,0,Genoa,2020-07-05 Udinese-Genoa,ITA-SERIA_A,19-20,7da5685f
+440c84ed,Iago Falque,10,ESP,"FW,CM",30-183,58,0,0,0,0,2,1,0,0,42,0,0,0,0.2,0.2,0.0,1,0,29,36,80.6,2,28,0,2,2,Genoa,2020-07-05 Udinese-Genoa,ITA-SERIA_A,19-20,7da5685f
+d711d04f,Goran Pandev,19,MKD,CM,36-344,32,1,0,0,0,1,1,0,0,19,0,0,1,0.0,0.0,0.0,2,1,10,13,76.9,2,17,0,3,1,Genoa,2020-07-05 Udinese-Genoa,ITA-SERIA_A,19-20,7da5685f
+2334478a,Stefano Sturaro,27,ITA,CM,27-118,90,0,0,0,0,1,0,1,0,60,3,2,0,0.0,0.0,0.0,1,0,38,49,77.6,1,36,2,2,1,Genoa,2020-07-05 Udinese-Genoa,ITA-SERIA_A,19-20,7da5685f
+d3d758d8,Valon Behrami,85,SUI,CM,35-077,45,0,0,0,0,0,0,0,0,24,1,1,1,0.0,0.0,0.0,0,0,18,20,90.0,0,14,0,0,0,Genoa,2020-07-05 Udinese-Genoa,ITA-SERIA_A,19-20,7da5685f
+08aa9cd1,Andrea Pinamonti,99,ITA,FW,21-047,45,1,0,0,1,2,1,0,0,21,0,0,0,0.9,0.0,0.0,2,1,13,16,81.3,3,12,1,0,0,Genoa,2020-07-05 Udinese-Genoa,ITA-SERIA_A,19-20,7da5685f
+1b82f8df,Lukas Lerager,8,DEN,CM,26-359,90,0,0,0,0,0,0,0,0,40,0,0,1,0.0,0.0,0.0,1,1,29,37,78.4,4,21,0,1,1,Genoa,2020-07-05 Udinese-Genoa,ITA-SERIA_A,19-20,7da5685f
+96960855,Francesco Cassata,29,ITA,WB,22-355,82,0,0,0,0,0,0,0,0,52,0,0,2,0.0,0.0,0.1,2,0,37,47,78.7,1,36,2,0,0,Genoa,2020-07-05 Udinese-Genoa,ITA-SERIA_A,19-20,7da5685f
+d7d32194,Mattia Destro,23,ITA,WB,29-107,8,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,3,4,75.0,0,2,0,0,0,Genoa,2020-07-05 Udinese-Genoa,ITA-SERIA_A,19-20,7da5685f
+64cd167d,Davide Biraschi,14,ITA,WB,26-003,90,0,0,0,0,0,0,0,0,55,3,0,1,0.0,0.0,0.0,2,0,33,43,76.7,1,33,1,4,1,Genoa,2020-07-05 Udinese-Genoa,ITA-SERIA_A,19-20,7da5685f
+e0314d87,Andrea Masiello,55,ITA,CB,34-151,90,0,0,0,0,1,0,0,0,80,4,2,0,0.1,0.1,0.0,2,0,62,70,88.6,14,58,0,0,0,Genoa,2020-07-05 Udinese-Genoa,ITA-SERIA_A,19-20,7da5685f
+a3d94a58,Cristian Romero,17,ARG,CB,22-069,45,0,0,0,0,0,0,0,0,47,1,2,0,0.0,0.0,0.0,0,0,37,39,94.9,0,37,0,0,0,Genoa,2020-07-05 Udinese-Genoa,ITA-SERIA_A,19-20,7da5685f
+7b075c75,Adama Soumaoro,92,FRA,CB,28-017,45,0,0,0,0,0,0,0,0,39,0,1,0,0.0,0.0,0.0,0,0,34,36,94.4,3,25,0,0,0,Genoa,2020-07-05 Udinese-Genoa,ITA-SERIA_A,19-20,7da5685f
+4b029b31,Edoardo Goldaniga,5,ITA,CB,26-246,90,0,0,0,0,0,0,1,0,78,0,0,0,0.0,0.0,0.0,0,0,54,70,77.1,8,55,2,0,0,Genoa,2020-07-05 Udinese-Genoa,ITA-SERIA_A,19-20,7da5685f
+4c62d0c8,Mattia Perin,1,ITA,GK,27-238,90,0,0,0,0,0,0,0,0,44,0,0,0,0.0,0.0,0.0,0,0,29,41,70.7,0,26,0,0,0,Genoa,2020-07-05 Udinese-Genoa,ITA-SERIA_A,19-20,7da5685f

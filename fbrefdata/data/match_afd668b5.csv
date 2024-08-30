@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+d3de9af0,Duván Zapata,91,COL,FW,26-203,90,0,1,0,0,0,0,0,0,33,0,0,1,0.0,0.0,0.7,5,4,24,28,85.7,1,30,3,3,2,Sampdoria,2017-10-21 Sampdoria-Crotone,ITA-SERIA_A,17-18,afd668b5
+ee4f2f3b,Fabio Quagliarella,27,ITA,FW,34-263,55,1,0,1,1,0,0,0,0,23,0,1,2,0.8,0.0,0.0,0,0,7,14,50.0,1,9,1,0,0,Sampdoria,2017-10-21 Sampdoria-Crotone,ITA-SERIA_A,17-18,afd668b5
+2c851997,Gastón Ramírez,11,URU,"AM,FW",26-323,35,0,0,0,0,0,0,0,0,40,1,0,2,0.0,0.0,0.0,0,0,30,36,83.3,3,25,2,3,2,Sampdoria,2017-10-21 Sampdoria-Crotone,ITA-SERIA_A,17-18,afd668b5
+54e53b7e,Gianluca Caprari,17,ITA,"AM,FW",24-083,74,1,0,0,0,1,1,0,0,34,0,0,0,0.7,0.7,0.0,1,1,23,31,74.2,6,29,1,1,1,Sampdoria,2017-10-21 Sampdoria-Crotone,ITA-SERIA_A,17-18,afd668b5
+be5e1c4c,Dawid Kownacki,99,POL,FW,20-221,16,1,0,0,0,1,1,0,0,2,0,0,0,0.1,0.1,0.0,0,0,1,1,100.0,0,2,1,0,0,Sampdoria,2017-10-21 Sampdoria-Crotone,ITA-SERIA_A,17-18,afd668b5
+d023d70f,Karol Linetty,16,POL,LM,22-261,90,1,0,0,0,2,1,0,0,90,4,1,1,0.4,0.4,0.0,1,1,62,78,79.5,8,40,1,2,1,Sampdoria,2017-10-21 Sampdoria-Crotone,ITA-SERIA_A,17-18,afd668b5
+52611641,Lucas Torreira,34,URU,CM,21-252,90,0,1,0,0,0,0,1,0,106,2,2,0,0.0,0.0,0.1,0,0,87,99,87.9,9,45,1,3,3,Sampdoria,2017-10-21 Sampdoria-Crotone,ITA-SERIA_A,17-18,afd668b5
+86695068,Dennis Praet,10,BEL,RM,23-160,90,0,1,0,0,0,0,0,0,77,3,1,3,0.0,0.0,0.3,1,1,64,69,92.8,7,35,3,1,0,Sampdoria,2017-10-21 Sampdoria-Crotone,ITA-SERIA_A,17-18,afd668b5
+52e2ef8f,Ivan Strinić,17,CRO,LB,30-096,66,0,0,0,0,0,0,0,0,74,1,0,1,0.0,0.0,0.0,0,0,56,66,84.8,5,38,0,0,0,Sampdoria,2017-10-21 Sampdoria-Crotone,ITA-SERIA_A,17-18,afd668b5
+d183e9d6,Nicola Murru,29,ITA,LB,22-309,24,0,0,0,0,0,0,0,0,26,1,0,0,0.0,0.0,0.0,0,0,21,24,87.5,2,15,0,0,0,Sampdoria,2017-10-21 Sampdoria-Crotone,ITA-SERIA_A,17-18,afd668b5
+8650af85,Gian Marco Ferrari,13,ITA,CB,25-248,90,1,0,0,0,1,1,0,0,129,0,0,0,0.1,0.1,0.0,0,0,120,126,95.2,7,91,1,1,1,Sampdoria,2017-10-21 Sampdoria-Crotone,ITA-SERIA_A,17-18,afd668b5
+b6ca47a2,Matías Silvestre,26,ARG,CB,33-026,90,0,0,0,0,0,0,0,0,131,0,0,0,0.0,0.0,0.0,1,1,125,128,97.7,2,75,0,1,1,Sampdoria,2017-10-21 Sampdoria-Crotone,ITA-SERIA_A,17-18,afd668b5
+da5a981b,Jacopo Sala,7,ITA,RB,25-320,90,0,0,0,0,0,0,0,0,91,1,2,0,0.0,0.0,0.0,0,0,75,85,88.2,5,57,0,0,0,Sampdoria,2017-10-21 Sampdoria-Crotone,ITA-SERIA_A,17-18,afd668b5
+b39dfab0,Christian Puggioni,1,ITA,GK,36-277,90,0,0,0,0,0,0,0,0,30,0,0,0,0.0,0.0,0.0,0,0,24,27,88.9,0,13,0,0,0,Sampdoria,2017-10-21 Sampdoria-Crotone,ITA-SERIA_A,17-18,afd668b5
+8f3565b3,Ante Budimir,17,CRO,FW,26-091,90,0,0,0,0,3,1,1,0,39,2,2,0,0.5,0.5,0.0,2,0,18,23,78.3,0,21,2,1,0,Crotone,2017-10-21 Sampdoria-Crotone,ITA-SERIA_A,17-18,afd668b5
+4468b31a,Adrian Stoian,8,ROU,"LW,LM",26-252,90,0,0,0,0,1,0,1,0,42,0,1,0,0.0,0.0,0.4,3,0,27,36,75.0,12,40,3,2,2,Crotone,2017-10-21 Sampdoria-Crotone,ITA-SERIA_A,17-18,afd668b5
+65c75ea8,Andrea Nalini,9,ITA,"RW,RM",27-123,76,0,0,0,0,0,0,0,0,29,1,1,1,0.0,0.0,0.0,2,0,17,24,70.8,1,22,1,0,0,Crotone,2017-10-21 Sampdoria-Crotone,ITA-SERIA_A,17-18,afd668b5
+8c964914,Giovanni Crociata,89,ITA,RM,20-071,14,0,0,0,0,1,0,0,0,7,0,0,2,0.0,0.0,0.0,0,0,2,3,66.7,0,4,2,0,0,Crotone,2017-10-21 Sampdoria-Crotone,ITA-SERIA_A,17-18,afd668b5
+c7259b83,Rolando Mandragora,38,ITA,CM,20-114,90,0,0,0,0,1,0,1,0,51,1,5,2,0.0,0.0,0.0,4,0,34,41,82.9,7,35,0,1,1,Crotone,2017-10-21 Sampdoria-Crotone,ITA-SERIA_A,17-18,afd668b5
+32ebfe1e,Andrea Barberis,18,ITA,CM,23-314,90,0,0,0,0,0,0,0,0,47,2,2,1,0.0,0.0,0.0,1,0,33,39,84.6,3,26,0,0,0,Crotone,2017-10-21 Sampdoria-Crotone,ITA-SERIA_A,17-18,afd668b5
+0d2bdb4b,Mariano Julio Izco,13,ARG,CM,34-222,59,0,0,0,0,0,0,0,0,31,2,2,1,0.0,0.0,0.0,0,0,14,23,60.9,4,19,1,2,1,Crotone,2017-10-21 Sampdoria-Crotone,ITA-SERIA_A,17-18,afd668b5
+acdad0aa,Marcello Trotta,29,ITA,FW,25-022,31,0,0,0,0,1,1,0,0,20,0,1,0,0.0,0.0,0.0,0,0,13,16,81.3,0,18,0,1,1,Crotone,2017-10-21 Sampdoria-Crotone,ITA-SERIA_A,17-18,afd668b5
+47146acb,Daniel Pavlović,20,BIH,LB,29-182,90,0,0,0,0,0,0,0,0,50,2,2,0,0.0,0.0,0.0,2,0,31,46,67.4,3,31,3,0,0,Crotone,2017-10-21 Sampdoria-Crotone,ITA-SERIA_A,17-18,afd668b5
+d9624b51,Federico Ceccherini,7,ITA,CB,25-163,90,0,0,0,0,0,0,0,0,36,2,1,1,0.0,0.0,0.0,1,0,25,29,86.2,3,25,0,0,0,Crotone,2017-10-21 Sampdoria-Crotone,ITA-SERIA_A,17-18,afd668b5
+f9714604,Arlind Ajeti,93,ALB,CB,24-026,45,0,0,0,0,1,0,0,0,18,0,1,0,0.0,0.0,0.0,0,0,11,14,78.6,0,13,0,1,1,Crotone,2017-10-21 Sampdoria-Crotone,ITA-SERIA_A,17-18,afd668b5
+b5365398,Stefan Simić,34,CZE,CB,22-274,45,0,0,0,0,0,0,0,0,23,1,0,0,0.0,0.0,0.0,0,0,21,21,100.0,0,20,0,0,0,Crotone,2017-10-21 Sampdoria-Crotone,ITA-SERIA_A,17-18,afd668b5
+cda2ec29,Mario Sampirisi,69,ITA,RB,24-355,90,0,0,0,0,0,0,0,0,53,1,1,0,0.0,0.0,0.1,1,0,41,49,83.7,3,35,4,1,1,Crotone,2017-10-21 Sampdoria-Crotone,ITA-SERIA_A,17-18,afd668b5
+e66ebabb,Alex Cordaz,1,ITA,GK,34-293,90,0,0,0,0,0,0,0,0,30,0,0,0,0.0,0.0,0.0,0,0,17,29,58.6,0,17,0,0,0,Crotone,2017-10-21 Sampdoria-Crotone,ITA-SERIA_A,17-18,afd668b5

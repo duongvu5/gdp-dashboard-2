@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+d705ba44,Andrea Belotti,9,ITA,FW,28-138,90,0,0,0,0,4,2,0,0,33,1,0,2,0.4,0.4,0.0,2,0,10,16,62.5,2,20,1,2,2,Torino,2022-05-07 Torino-Napoli,ITA-SERIA_A,21-22,081edfb9
+d4a2533d,Josip Brekalo,14,CRO,AM,23-318,80,0,0,0,0,0,0,0,0,40,1,0,0,0.0,0.0,0.2,4,0,22,37,59.5,4,20,5,1,0,Torino,2022-05-07 Torino-Napoli,ITA-SERIA_A,21-22,081edfb9
+a44d3a3c,Pietro Pellegri,64,ITA,AM,21-051,10,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,2,0,1,0,Torino,2022-05-07 Torino-Napoli,ITA-SERIA_A,21-22,081edfb9
+86695068,Dennis Praet,22,BEL,AM,27-358,90,0,0,0,0,2,1,0,0,24,0,0,1,0.2,0.2,0.0,1,0,11,16,68.8,0,16,0,3,1,Torino,2022-05-07 Torino-Napoli,ITA-SERIA_A,21-22,081edfb9
+c7259b83,Rolando Mandragora,38,ITA,CM,24-312,64,0,0,0,0,1,0,0,0,33,3,0,1,0.0,0.0,0.0,3,0,26,27,96.3,1,13,0,0,0,Torino,2022-05-07 Torino-Napoli,ITA-SERIA_A,21-22,081edfb9
+55a1cac2,Tommaso Pobega,4,ITA,CM,22-296,26,0,0,0,0,0,0,0,0,22,1,0,0,0.0,0.0,0.0,0,0,13,18,72.2,1,12,0,1,0,Torino,2022-05-07 Torino-Napoli,ITA-SERIA_A,21-22,081edfb9
+9823be92,Samuele Ricci,28,ITA,CM,20-259,65,0,0,0,0,0,0,0,0,28,0,0,0,0.0,0.0,0.0,1,0,24,25,96.0,2,15,0,0,0,Torino,2022-05-07 Torino-Napoli,ITA-SERIA_A,21-22,081edfb9
+d023d70f,Karol Linetty,77,POL,CM,27-094,25,0,0,0,0,0,0,0,0,16,1,0,0,0.0,0.0,0.1,2,0,13,13,100.0,4,8,1,0,0,Torino,2022-05-07 Torino-Napoli,ITA-SERIA_A,21-22,081edfb9
+be2706c0,Mërgim Vojvoda,27,KVX,WB,27-095,64,0,0,0,0,0,0,1,0,37,2,0,1,0.0,0.0,0.3,3,0,28,33,84.8,8,25,2,1,1,Torino,2022-05-07 Torino-Napoli,ITA-SERIA_A,21-22,081edfb9
+bbafc0c4,Cristian Ansaldi,15,ARG,WB,35-229,26,0,0,0,0,0,0,0,0,23,3,0,3,0.0,0.0,0.0,0,0,9,16,56.3,0,8,0,1,0,Torino,2022-05-07 Torino-Napoli,ITA-SERIA_A,21-22,081edfb9
+8b609c34,Wilfried Singo,17,CIV,WB,21-133,90,0,0,0,0,3,0,1,0,44,1,1,0,0.0,0.0,0.0,2,0,26,34,76.5,2,16,2,4,3,Torino,2022-05-07 Torino-Napoli,ITA-SERIA_A,21-22,081edfb9
+7f78ad23,Ricardo Rodríguez,13,SUI,CB,29-255,90,0,0,0,0,0,0,0,0,43,0,1,0,0.0,0.0,0.0,1,0,35,40,87.5,0,18,0,0,0,Torino,2022-05-07 Torino-Napoli,ITA-SERIA_A,21-22,081edfb9
+5fd5ed86,Gleison Bremer,3,BRA,CB,25-050,90,0,0,0,0,0,0,0,0,30,2,1,1,0.0,0.0,0.0,0,0,22,26,84.6,1,17,0,0,0,Torino,2022-05-07 Torino-Napoli,ITA-SERIA_A,21-22,081edfb9
+89976232,Armando Izzo,5,ITA,CB,30-066,69,0,0,0,0,0,0,0,0,33,1,0,1,0.0,0.0,0.0,0,0,25,30,83.3,0,16,1,0,0,Torino,2022-05-07 Torino-Napoli,ITA-SERIA_A,21-22,081edfb9
+933d3b51,Koffi Djidji,26,CIV,CB,29-158,21,0,0,0,0,0,0,0,0,18,1,1,0,0.0,0.0,0.0,0,0,8,11,72.7,1,9,0,0,0,Torino,2022-05-07 Torino-Napoli,ITA-SERIA_A,21-22,081edfb9
+ee833569,Etrit Berisha,1,ALB,GK,33-058,90,0,0,0,0,0,0,0,0,38,0,0,0,0.0,0.0,0.0,0,0,20,35,57.1,0,28,0,0,0,Torino,2022-05-07 Torino-Napoli,ITA-SERIA_A,21-22,081edfb9
+8c90fd7a,Victor Osimhen,9,NGA,FW,23-129,89,0,0,0,0,3,2,0,0,37,1,0,1,0.1,0.1,0.0,5,0,16,25,64.0,2,25,1,3,2,Napoli,2022-05-07 Torino-Napoli,ITA-SERIA_A,21-22,081edfb9
+03f946ed,Andrea Petagna,37,ITA,FW,26-311,1,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,3,0,0,0,Napoli,2022-05-07 Torino-Napoli,ITA-SERIA_A,21-22,081edfb9
+2f557579,Lorenzo Insigne,24,ITA,LW,30-337,76,0,0,0,1,2,1,0,0,53,0,1,0,1.0,0.2,0.0,1,0,40,48,83.3,4,30,2,2,1,Napoli,2022-05-07 Torino-Napoli,ITA-SERIA_A,21-22,081edfb9
+cf007308,Elif Elmas,7,MKD,LW,22-225,14,0,0,0,0,0,0,1,0,8,0,0,0,0.0,0.0,0.0,0,0,4,6,66.7,0,5,0,0,0,Napoli,2022-05-07 Torino-Napoli,ITA-SERIA_A,21-22,081edfb9
+a69e4806,Hirving Lozano,11,MEX,RW,26-281,67,0,0,0,0,0,0,1,0,23,0,0,0,0.0,0.0,0.1,5,0,17,20,85.0,4,17,3,1,1,Napoli,2022-05-07 Torino-Napoli,ITA-SERIA_A,21-22,081edfb9
+5e861944,Matteo Politano,21,ITA,RW,28-277,23,0,0,0,0,0,0,0,0,12,0,0,0,0.0,0.0,0.0,0,0,8,11,72.7,1,9,0,0,0,Napoli,2022-05-07 Torino-Napoli,ITA-SERIA_A,21-22,081edfb9
+89b2c8a9,Dries Mertens,14,BEL,AM,35-001,67,0,0,0,0,2,0,1,0,17,0,0,0,0.1,0.1,0.2,2,0,13,15,86.7,4,10,0,1,1,Napoli,2022-05-07 Torino-Napoli,ITA-SERIA_A,21-22,081edfb9
+a5296e55,Piotr Zieliński,20,POL,AM,27-352,23,0,0,0,0,0,0,0,0,17,0,0,0,0.0,0.0,0.1,1,0,11,13,84.6,3,13,1,0,0,Napoli,2022-05-07 Torino-Napoli,ITA-SERIA_A,21-22,081edfb9
+c0c7ff58,Fabián Ruiz Peña,8,ESP,DM,26-034,76,1,0,0,0,1,1,0,0,68,4,0,3,0.1,0.1,0.0,2,0,47,57,82.5,1,30,0,0,0,Napoli,2022-05-07 Torino-Napoli,ITA-SERIA_A,21-22,081edfb9
+e1cbb531,Stanislav Lobotka,68,SVK,DM,27-163,14,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,6,6,100.0,2,5,0,0,0,Napoli,2022-05-07 Torino-Napoli,ITA-SERIA_A,21-22,081edfb9
+6bb2c084,Andre-Frank Zambo Anguissa,99,CMR,DM,26-172,90,0,0,0,0,2,1,0,0,60,5,0,0,0.1,0.1,0.0,1,0,42,48,87.5,2,34,0,2,0,Napoli,2022-05-07 Torino-Napoli,ITA-SERIA_A,21-22,081edfb9
+0b5a292a,Mário Rui,6,POR,LB,30-345,90,0,0,0,0,0,0,0,0,68,5,1,1,0.0,0.0,0.0,0,0,55,61,90.2,3,35,1,0,0,Napoli,2022-05-07 Torino-Napoli,ITA-SERIA_A,21-22,081edfb9
+da974c7b,Kalidou Koulibaly,26,SEN,CB,30-321,90,0,0,0,0,0,0,0,0,61,1,1,3,0.0,0.0,0.0,1,0,44,53,83.0,0,26,1,1,1,Napoli,2022-05-07 Torino-Napoli,ITA-SERIA_A,21-22,081edfb9
+4b3e1a38,Amir Rrahmani,13,KVX,CB,28-072,90,0,0,0,0,0,0,0,0,50,0,0,0,0.0,0.0,0.0,0,0,35,43,81.4,0,24,0,0,0,Napoli,2022-05-07 Torino-Napoli,ITA-SERIA_A,21-22,081edfb9
+230a2fac,Giovanni Di Lorenzo,22,ITA,RB,28-276,90,0,0,0,0,0,0,0,0,55,0,0,2,0.0,0.0,0.0,1,0,43,49,87.8,4,23,0,0,0,Napoli,2022-05-07 Torino-Napoli,ITA-SERIA_A,21-22,081edfb9
+82b1198a,David Ospina,25,COL,GK,33-249,90,0,0,0,0,0,0,0,0,55,0,0,0,0.0,0.0,0.0,0,0,44,53,83.0,0,43,0,0,0,Napoli,2022-05-07 Torino-Napoli,ITA-SERIA_A,21-22,081edfb9

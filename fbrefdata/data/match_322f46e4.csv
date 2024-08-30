@@ -1,0 +1,32 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+42fd9c7f,Kylian Mbappé,7,FRA,FW,24-074,90,1,0,0,0,5,3,0,0,72,1,0,0,0.5,0.5,0.0,6,0,51,60,85.0,3,65,7,10,4,Paris Saint-Germain,2023-03-04 Paris S-G-Nantes,FRA-L1,22-23,322f46e4
+d70ce98e,Lionel Messi,30,ARG,FW,35-253,90,1,0,0,0,7,4,0,0,95,0,0,0,0.6,0.6,0.1,6,1,62,78,79.5,13,83,5,15,8,Paris Saint-Germain,2023-03-04 Paris S-G-Nantes,FRA-L1,22-23,322f46e4
+c0c7ff58,Fabián Ruiz Peña,8,ESP,CM,26-335,90,0,0,0,0,0,0,0,0,127,3,0,2,0.0,0.0,0.2,2,1,111,118,94.1,6,107,1,2,2,Paris Saint-Germain,2023-03-04 Paris S-G-Nantes,FRA-L1,22-23,322f46e4
+6b9960cf,Warren Zaïre-Emery,33,FRA,CM,16-361,85,0,0,0,0,1,1,0,0,96,2,1,1,0.1,0.1,0.0,0,0,85,88,96.6,4,84,2,2,0,Paris Saint-Germain,2023-03-04 Paris S-G-Nantes,FRA-L1,22-23,322f46e4
+f8ce97ca,Timothee Pembele,29,FRA,WB,20-176,5,0,1,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.3,1,1,3,3,100.0,0,2,1,1,1,Paris Saint-Germain,2023-03-04 Paris S-G-Nantes,FRA-L1,22-23,322f46e4
+3b029691,Vitinha,17,POR,CM,23-019,90,0,0,0,0,1,1,0,0,92,2,1,0,0.0,0.0,0.1,6,0,78,83,94.0,4,81,1,2,0,Paris Saint-Germain,2023-03-04 Paris S-G-Nantes,FRA-L1,22-23,322f46e4
+f20e4cc9,Nuno Mendes,25,POR,WB,20-258,90,0,0,0,0,1,1,0,0,78,3,0,1,0.0,0.0,0.0,2,0,55,68,80.9,5,60,5,1,0,Paris Saint-Germain,2023-03-04 Paris S-G-Nantes,FRA-L1,22-23,322f46e4
+ac73ec79,Nordi Mukiele,26,FRA,WB,25-123,70,0,0,0,0,1,0,0,0,38,2,1,0,0.0,0.0,0.1,4,1,24,31,77.4,2,32,1,1,0,Paris Saint-Germain,2023-03-04 Paris S-G-Nantes,FRA-L1,22-23,322f46e4
+fed17f5a,Carlos Soler,28,ESP,"WB,CM",26-061,20,0,0,0,0,0,0,0,0,18,2,0,0,0.0,0.0,0.0,1,0,12,12,100.0,1,13,0,1,0,Paris Saint-Germain,2023-03-04 Paris S-G-Nantes,FRA-L1,22-23,322f46e4
+d5f2f82b,Marquinhos,5,BRA,CB,28-294,75,0,0,0,0,0,0,0,0,79,2,1,4,0.0,0.0,0.1,1,0,64,69,92.8,4,60,2,0,0,Paris Saint-Germain,2023-03-04 Paris S-G-Nantes,FRA-L1,22-23,322f46e4
+2180c761,El Chadaille Bitshiabu,31,FRA,CB,17-292,15,0,0,0,0,0,0,0,0,15,0,2,0,0.0,0.0,0.0,1,0,10,12,83.3,1,10,0,0,0,Paris Saint-Germain,2023-03-04 Paris S-G-Nantes,FRA-L1,22-23,322f46e4
+08511d65,Sergio Ramos,4,ESP,CB,36-339,90,0,0,0,0,0,0,0,0,90,0,0,1,0.0,0.0,0.0,0,0,79,83,95.2,6,77,1,0,0,Paris Saint-Germain,2023-03-04 Paris S-G-Nantes,FRA-L1,22-23,322f46e4
+8fd9996f,Danilo Pereira,15,POR,CB,31-176,90,1,0,0,0,1,1,0,0,86,2,1,0,0.1,0.1,0.0,1,0,72,76,94.7,6,69,3,1,1,Paris Saint-Germain,2023-03-04 Paris S-G-Nantes,FRA-L1,22-23,322f46e4
+08f5afaa,Gianluigi Donnarumma,99,ITA,GK,24-007,90,0,0,0,0,0,0,0,0,13,0,0,0,0.0,0.0,0.0,0,0,10,11,90.9,0,9,0,0,0,Paris Saint-Germain,2023-03-04 Paris S-G-Nantes,FRA-L1,22-23,322f46e4
+23c63b7f,Ignatius Ganago,14,CMR,FW,24-016,79,1,0,0,0,4,2,0,0,24,0,0,1,0.3,0.3,0.0,2,1,9,13,69.2,0,14,2,1,0,Nantes,2023-03-04 Paris S-G-Nantes,FRA-L1,22-23,322f46e4
+3010aefb,Marcus Coco,11,FRA,RM,26-253,11,0,0,0,0,0,0,0,0,4,1,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,2,0,1,0,Nantes,2023-03-04 Paris S-G-Nantes,FRA-L1,22-23,322f46e4
+6191093d,Ludovic Blas,10,FRA,"FW,CM,RM",25-063,90,1,0,0,0,1,1,0,0,43,2,1,1,0.0,0.0,0.0,0,0,28,31,90.3,5,38,1,8,4,Nantes,2023-03-04 Paris S-G-Nantes,FRA-L1,22-23,322f46e4
+af0c835b,Samuel Moutoussamy,8,COD,CM,26-204,90,0,0,0,0,0,0,0,0,73,5,0,3,0.0,0.0,0.0,1,1,55,61,90.2,7,61,2,3,1,Nantes,2023-03-04 Paris S-G-Nantes,FRA-L1,22-23,322f46e4
+7e82a78f,Florent Mollet,25,FRA,CM,31-105,68,0,1,0,0,1,1,0,0,42,1,1,1,0.0,0.0,0.1,3,1,30,33,90.9,0,28,0,2,1,Nantes,2023-03-04 Paris S-G-Nantes,FRA-L1,22-23,322f46e4
+595e6f3e,Mostafa Mohamed,31,EGY,"FW,CM",25-096,22,0,0,0,0,1,1,0,0,12,0,0,0,0.0,0.0,0.0,0,0,8,9,88.9,0,9,1,2,1,Nantes,2023-03-04 Paris S-G-Nantes,FRA-L1,22-23,322f46e4
+2acd49b9,Moussa Sissoko,17,FRA,CM,33-200,79,0,0,0,0,1,0,0,0,47,4,2,4,0.0,0.0,0.0,1,0,29,35,82.9,2,33,2,0,0,Nantes,2023-03-04 Paris S-G-Nantes,FRA-L1,22-23,322f46e4
+b73f17f8,Evann Guessand,7,CIV,FW,21-246,11,0,0,0,0,0,0,0,0,4,0,0,1,0.0,0.0,0.0,0,0,1,1,100.0,0,2,0,0,0,Nantes,2023-03-04 Paris S-G-Nantes,FRA-L1,22-23,322f46e4
+576817b7,Jaouen Hadjam,26,ALG,LB,19-343,69,0,1,0,0,0,0,1,0,39,1,0,0,0.0,0.0,0.0,3,1,21,30,70.0,2,28,2,4,3,Nantes,2023-03-04 Paris S-G-Nantes,FRA-L1,22-23,322f46e4
+d60cf08d,João Victor,38,BRA,RB,24-230,21,0,0,0,0,0,0,0,0,16,0,0,1,0.0,0.0,0.0,0,0,12,13,92.3,2,11,1,1,1,Nantes,2023-03-04 Paris S-G-Nantes,FRA-L1,22-23,322f46e4
+779847d6,Nicolas Pallois,4,FRA,CB,35-166,69,0,0,0,0,0,0,0,0,27,1,0,1,0.0,0.0,0.0,0,0,17,22,77.3,0,19,0,1,1,Nantes,2023-03-04 Paris S-G-Nantes,FRA-L1,22-23,322f46e4
+5f3eaaf5,Moses Simon,27,NGA,LM,27-235,21,0,0,0,0,0,0,0,0,14,0,0,0,0.0,0.0,0.0,1,0,5,12,41.7,2,11,5,4,2,Nantes,2023-03-04 Paris S-G-Nantes,FRA-L1,22-23,322f46e4
+3befc2b6,Andrei Girotto,3,BRA,CB,31-015,90,0,0,0,0,0,0,1,0,51,8,0,1,0.0,0.0,0.0,2,0,34,37,91.9,1,36,0,1,0,Nantes,2023-03-04 Paris S-G-Nantes,FRA-L1,22-23,322f46e4
+e0f3a1f6,Jean-Charles Castelletto,21,CMR,CB,28-037,90,0,0,0,0,0,0,0,0,34,1,3,3,0.0,0.0,0.0,0,0,20,25,80.0,1,22,1,1,1,Nantes,2023-03-04 Paris S-G-Nantes,FRA-L1,22-23,322f46e4
+3c6bbbab,Fabien Centonze,28,FRA,"RB,LB",27-047,90,0,0,0,0,0,0,0,0,58,4,4,0,0.0,0.0,0.2,2,0,36,44,81.8,5,44,2,3,2,Nantes,2023-03-04 Paris S-G-Nantes,FRA-L1,22-23,322f46e4
+4e7db402,Alban Lafont,1,FRA,GK,24-040,90,0,0,0,0,0,0,0,0,30,0,0,0,0.0,0.0,0.0,0,0,20,25,80.0,0,21,0,0,0,Nantes,2023-03-04 Paris S-G-Nantes,FRA-L1,22-23,322f46e4

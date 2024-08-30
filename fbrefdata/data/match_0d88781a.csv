@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+8d8178ac,Rodrigo Palacio,24,ARG,FW,37-292,90,1,0,0,0,3,1,0,0,40,0,0,1,0.2,0.2,0.0,1,0,21,32,65.6,3,30,5,2,2,Bologna,2019-11-24 Bologna-Parma,ITA-SERIA_A,19-20,0d88781a
+7eb97a8e,Nicola Sansone,10,ITA,LW,28-075,90,0,0,0,0,2,1,0,0,56,0,0,2,0.1,0.1,0.0,3,1,28,46,60.9,5,39,3,4,1,Bologna,2019-11-24 Bologna-Parma,ITA-SERIA_A,19-20,0d88781a
+e14ec482,Riccardo Orsolini,7,ITA,RW,22-304,90,0,1,0,0,4,1,0,0,66,0,1,0,0.2,0.2,0.2,5,1,26,51,51.0,5,42,6,5,1,Bologna,2019-11-24 Bologna-Parma,ITA-SERIA_A,19-20,0d88781a
+92d83c27,Mattias Svanberg,32,SWE,AM,20-323,64,0,0,0,0,0,0,0,0,19,0,0,0,0.0,0.0,0.0,3,0,14,16,87.5,0,11,0,0,0,Bologna,2019-11-24 Bologna-Parma,ITA-SERIA_A,19-20,0d88781a
+b3fd7075,Andrea Poli,16,ITA,"AM,DM",30-056,26,0,0,0,0,1,1,0,0,21,0,0,0,0.0,0.0,0.0,0,0,17,19,89.5,5,16,0,1,1,Bologna,2019-11-24 Bologna-Parma,ITA-SERIA_A,19-20,0d88781a
+756959aa,Blerim Džemaili,31,SUI,DM,33-226,90,1,0,0,0,4,2,0,0,67,3,1,0,0.1,0.1,0.2,5,0,50,54,92.6,10,45,3,2,2,Bologna,2019-11-24 Bologna-Parma,ITA-SERIA_A,19-20,0d88781a
+563a68ad,Gary Medel,5,CHI,"DM,RB",32-113,90,0,0,0,0,0,0,0,0,68,2,0,1,0.0,0.0,0.0,2,0,59,64,92.2,9,41,3,0,0,Bologna,2019-11-24 Bologna-Parma,ITA-SERIA_A,19-20,0d88781a
+58027adc,Ladislav Krejčí,11,CZE,LB,27-142,90,0,0,0,0,1,0,0,0,72,2,1,1,0.1,0.1,0.0,1,0,59,67,88.1,10,48,2,0,0,Bologna,2019-11-24 Bologna-Parma,ITA-SERIA_A,19-20,0d88781a
+5832ebfe,Stefano Denswil,4,SUR,CB,26-201,90,0,0,0,0,0,0,0,0,91,1,0,2,0.0,0.0,0.3,2,0,81,84,96.4,11,68,3,0,0,Bologna,2019-11-24 Bologna-Parma,ITA-SERIA_A,19-20,0d88781a
+b3af9be1,Takehiro Tomiyasu,14,JPN,CB,21-019,83,0,0,0,0,0,0,1,0,80,2,2,4,0.0,0.0,0.0,1,0,69,70,98.6,13,60,3,0,0,Bologna,2019-11-24 Bologna-Parma,ITA-SERIA_A,19-20,0d88781a
+42b1a58a,Nehuén Paz,6,ARG,CB,26-210,7,0,1,0,0,0,0,0,0,17,0,0,0,0.0,0.0,0.1,1,1,15,16,93.8,3,9,0,0,0,Bologna,2019-11-24 Bologna-Parma,ITA-SERIA_A,19-20,0d88781a
+cfbf9881,Ibrahima Mbaye,15,SEN,RB,25-005,77,0,0,0,0,1,1,0,0,60,0,1,0,0.3,0.3,0.0,2,0,45,56,80.4,7,41,5,0,0,Bologna,2019-11-24 Bologna-Parma,ITA-SERIA_A,19-20,0d88781a
+c50cee19,Andreas Skov Olsen,17,DEN,"AM,RB",19-330,13,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,3,4,75.0,1,4,0,0,0,Bologna,2019-11-24 Bologna-Parma,ITA-SERIA_A,19-20,0d88781a
+ab4449d6,Łukasz Skorupski,28,POL,GK,28-203,90,0,0,0,0,0,0,0,0,23,0,0,0,0.0,0.0,0.0,0,0,18,20,90.0,0,12,0,0,0,Bologna,2019-11-24 Bologna-Parma,ITA-SERIA_A,19-20,0d88781a
+bdd0692f,Mattia Sprocati,93,ITA,FW,26-210,84,0,0,0,0,1,0,0,0,41,1,0,0,0.1,0.1,0.1,3,0,23,35,65.7,5,20,3,2,0,Parma,2019-11-24 Bologna-Parma,ITA-SERIA_A,19-20,0d88781a
+3535098b,Vincent Laurini,16,FRA,"CM,FW",30-167,6,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,0,0,0,0,Parma,2019-11-24 Bologna-Parma,ITA-SERIA_A,19-20,0d88781a
+5aaef9ef,Juraj Kucka,33,SVK,FW,32-271,90,0,1,0,0,1,0,0,0,52,2,0,2,0.1,0.1,0.6,5,2,28,42,66.7,6,19,2,3,3,Parma,2019-11-24 Bologna-Parma,ITA-SERIA_A,19-20,0d88781a
+a64cbd35,Antonino Barillà,17,ITA,CM,31-237,73,0,0,0,0,1,0,1,0,31,5,0,0,0.0,0.0,0.0,1,0,12,17,70.6,1,13,0,1,0,Parma,2019-11-24 Bologna-Parma,ITA-SERIA_A,19-20,0d88781a
+6cc97b6a,Alberto Grassi,8,ITA,CM,24-262,17,0,0,0,0,0,0,1,0,4,0,0,0,0.0,0.0,0.0,0,0,3,3,100.0,0,1,0,0,0,Parma,2019-11-24 Bologna-Parma,ITA-SERIA_A,19-20,0d88781a
+ea164f99,Matteo Scozzarella,21,ITA,CM,31-172,59,0,0,0,0,0,0,0,0,31,1,1,3,0.0,0.0,0.0,0,0,20,24,83.3,3,14,0,0,0,Parma,2019-11-24 Bologna-Parma,ITA-SERIA_A,19-20,0d88781a
+e947ee4a,Gastón Brugman,15,URU,CM,27-078,31,0,0,0,0,0,0,0,0,10,1,0,0,0.0,0.0,0.0,0,0,8,9,88.9,2,3,1,0,0,Parma,2019-11-24 Bologna-Parma,ITA-SERIA_A,19-20,0d88781a
+df3cda47,Dejan Kulusevski,44,SWE,"CM,FW",19-213,90,1,0,0,0,7,3,0,0,56,1,0,0,0.3,0.3,0.2,9,1,29,36,80.6,6,33,8,5,5,Parma,2019-11-24 Bologna-Parma,ITA-SERIA_A,19-20,0d88781a
+173061c0,Riccardo Gagliolo,28,SWE,WB,29-210,90,0,0,0,0,0,0,1,0,34,3,4,0,0.0,0.0,0.1,1,0,17,22,77.3,1,11,2,1,0,Parma,2019-11-24 Bologna-Parma,ITA-SERIA_A,19-20,0d88781a
+96e0490d,Matteo Darmian,36,ITA,WB,29-357,90,0,0,0,0,1,0,0,0,41,1,0,0,0.1,0.1,0.2,5,1,23,33,69.7,4,11,2,0,0,Parma,2019-11-24 Bologna-Parma,ITA-SERIA_A,19-20,0d88781a
+585a73a8,Bruno Alves,22,POR,CB,37-362,90,0,0,0,0,1,1,0,0,47,1,1,1,0.0,0.0,0.0,0,0,18,25,72.0,1,13,0,0,0,Parma,2019-11-24 Bologna-Parma,ITA-SERIA_A,19-20,0d88781a
+2990c466,Kastriot Dermaku,3,ALB,CB,27-313,90,0,0,0,0,0,0,0,0,27,1,0,2,0.0,0.0,0.0,0,0,14,18,77.8,1,8,0,0,0,Parma,2019-11-24 Bologna-Parma,ITA-SERIA_A,19-20,0d88781a
+63071a3f,Simone Iacoponi,2,ITA,CB,32-208,90,1,0,0,0,2,1,0,0,41,5,1,1,0.7,0.7,0.0,1,0,21,24,87.5,3,10,0,1,1,Parma,2019-11-24 Bologna-Parma,ITA-SERIA_A,19-20,0d88781a
+343f753a,Luigi Sepe,1,ITA,GK,28-200,90,0,0,0,0,0,0,0,0,29,0,0,0,0.0,0.0,0.0,0,0,24,28,85.7,0,10,0,0,0,Parma,2019-11-24 Bologna-Parma,ITA-SERIA_A,19-20,0d88781a

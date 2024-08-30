@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+42fd9c7f,Kylian Mbappé,7,FRA,FW,21-071,90,2,1,0,0,9,5,0,0,69,2,0,0,1.2,1.2,1.8,10,1,37,49,75.5,6,47,10,8,5,Paris Saint-Germain,2020-02-29 Paris S-G-Dijon,FRA-L1,19-20,2eaba122
+527f063d,Edinson Cavani,9,URU,FW,33-015,70,0,0,0,0,2,0,0,0,24,1,0,1,1.3,1.3,0.1,7,0,17,17,100.0,5,8,0,1,1,Paris Saint-Germain,2020-02-29 Paris S-G-Dijon,FRA-L1,19-20,2eaba122
+43b78598,Mauro Icardi,18,ARG,FW,27-010,20,1,0,0,0,1,1,0,0,3,0,0,0,0.4,0.4,0.0,0,0,1,2,50.0,0,3,2,0,0,Paris Saint-Germain,2020-02-29 Paris S-G-Dijon,FRA-L1,19-20,2eaba122
+9744ff80,Pablo Sarabia,19,ESP,AM,27-294,90,1,0,0,0,4,1,0,0,62,2,1,2,0.3,0.3,0.4,6,0,33,51,64.7,5,34,3,1,1,Paris Saint-Germain,2020-02-29 Paris S-G-Dijon,FRA-L1,19-20,2eaba122
+19cda00b,Ángel Di María,11,ARG,AM,32-015,16,0,0,0,0,0,0,0,0,16,0,0,1,0.0,0.0,0.3,1,0,10,13,76.9,1,9,2,0,0,Paris Saint-Germain,2020-02-29 Paris S-G-Dijon,FRA-L1,19-20,2eaba122
+1a992676,Julian Draxler,23,GER,AM,26-162,74,0,1,0,0,3,2,0,0,49,0,1,1,0.2,0.2,0.5,3,2,36,39,92.3,5,27,2,3,1,Paris Saint-Germain,2020-02-29 Paris S-G-Dijon,FRA-L1,19-20,2eaba122
+d5f2f82b,Marquinhos,5,BRA,"DM,CB",25-291,90,0,1,0,0,2,0,0,0,109,1,1,1,0.1,0.1,0.1,3,1,91,101,90.1,8,65,0,0,0,Paris Saint-Germain,2020-02-29 Paris S-G-Dijon,FRA-L1,19-20,2eaba122
+72c812f3,Idrissa Gana Gueye,27,SEN,DM,30-156,90,0,0,0,0,0,0,0,0,109,3,2,1,0.0,0.0,0.1,4,0,89,97,91.8,8,69,0,1,1,Paris Saint-Germain,2020-02-29 Paris S-G-Dijon,FRA-L1,19-20,2eaba122
+433dc9a2,Juan Bernat,14,ESP,LB,26-365,90,0,0,0,0,1,1,1,0,115,1,0,0,0.1,0.1,0.0,2,0,93,109,85.3,5,68,3,0,0,Paris Saint-Germain,2020-02-29 Paris S-G-Dijon,FRA-L1,19-20,2eaba122
+aef6e670,Presnel Kimpembe,3,FRA,CB,24-200,90,0,0,0,0,0,0,0,0,139,1,0,0,0.0,0.0,0.0,2,0,130,135,96.3,15,116,0,0,0,Paris Saint-Germain,2020-02-29 Paris S-G-Dijon,FRA-L1,19-20,2eaba122
+5853ac44,Tanguy Nianzou,33,FRA,CB,17-267,71,0,0,0,0,0,0,0,0,90,0,0,0,0.0,0.0,0.0,1,0,78,88,88.6,3,65,0,0,0,Paris Saint-Germain,2020-02-29 Paris S-G-Dijon,FRA-L1,19-20,2eaba122
+dff153a4,Leandro Paredes,8,ARG,DM,25-245,19,0,0,0,0,0,0,0,0,34,0,0,0,0.0,0.0,0.0,3,2,30,33,90.9,3,19,0,0,0,Paris Saint-Germain,2020-02-29 Paris S-G-Dijon,FRA-L1,19-20,2eaba122
+51dbeea9,Thilo Kehrer,4,GER,RB,23-161,90,0,0,0,0,1,1,0,0,55,2,0,1,0.1,0.1,0.0,1,0,47,50,94.0,0,25,0,1,0,Paris Saint-Germain,2020-02-29 Paris S-G-Dijon,FRA-L1,19-20,2eaba122
+ecada4fc,Keylor Navas,1,CRC,GK,33-076,90,0,0,0,0,0,0,0,0,33,0,0,0,0.0,0.0,0.0,0,0,26,31,83.9,0,21,0,0,0,Paris Saint-Germain,2020-02-29 Paris S-G-Dijon,FRA-L1,19-20,2eaba122
+d520120b,Júlio Tavares,11,CPV,FW,31-102,90,0,0,0,0,0,0,0,0,26,0,0,0,0.0,0.0,0.1,2,0,13,21,61.9,2,8,0,0,0,Dijon,2020-02-29 Paris S-G-Dijon,FRA-L1,19-20,2eaba122
+30144daa,Stephy Mavididi,9,ENG,AM,21-274,63,0,0,0,0,1,0,0,0,20,0,1,0,0.0,0.0,0.1,2,0,13,16,81.3,2,8,0,0,0,Dijon,2020-02-29 Paris S-G-Dijon,FRA-L1,19-20,2eaba122
+8802c1d5,Frédéric Sammaritano,7,FRA,"LM,AM",33-343,27,0,0,0,0,0,0,0,0,13,0,1,0,0.0,0.0,0.1,1,0,9,11,81.8,1,13,0,0,0,Dijon,2020-02-29 Paris S-G-Dijon,FRA-L1,19-20,2eaba122
+fb14aa28,Mama Samba Baldé,17,GNB,"AM,RM",24-115,90,0,0,0,0,1,1,0,0,22,0,0,1,0.0,0.0,0.0,2,0,9,11,81.8,0,15,1,4,3,Dijon,2020-02-29 Paris S-G-Dijon,FRA-L1,19-20,2eaba122
+885b7aa7,Didier Ibrahim Ndong,22,GAB,CM,25-257,90,0,0,0,0,0,0,0,0,52,4,3,1,0.0,0.0,0.0,2,0,36,41,87.8,4,33,2,1,0,Dijon,2020-02-29 Paris S-G-Dijon,FRA-L1,19-20,2eaba122
+6e5b5a45,Wesley Lautoa,24,NCL,CM,32-188,71,0,0,0,0,1,0,0,0,32,1,3,0,0.1,0.1,0.0,1,0,20,23,87.0,3,14,0,4,3,Dijon,2020-02-29 Paris S-G-Dijon,FRA-L1,19-20,2eaba122
+d7bf3d19,Romain Amalfitano,20,FRA,CM,30-186,19,0,0,0,0,1,0,0,0,18,0,0,1,0.0,0.0,0.0,0,0,12,15,80.0,2,12,0,1,1,Dijon,2020-02-29 Paris S-G-Dijon,FRA-L1,19-20,2eaba122
+f99fe221,Hamza Mendyl,27,MAR,"WB,LB",22-131,90,0,0,0,0,2,0,0,0,45,1,2,2,0.1,0.1,0.0,1,0,24,35,68.6,2,30,1,0,0,Dijon,2020-02-29 Paris S-G-Dijon,FRA-L1,19-20,2eaba122
+0a63446f,Mickaël Alphonse,2,GLP,"WB,RB",30-232,90,0,0,0,0,1,0,0,0,58,3,3,2,0.0,0.0,0.0,1,0,23,34,67.6,3,22,1,0,0,Dijon,2020-02-29 Paris S-G-Dijon,FRA-L1,19-20,2eaba122
+288e1e13,Nayef Aguerd,4,MAR,CB,23-336,90,0,0,0,0,0,0,0,0,56,1,2,0,0.0,0.0,0.0,0,0,40,48,83.3,2,37,0,1,1,Dijon,2020-02-29 Paris S-G-Dijon,FRA-L1,19-20,2eaba122
+72a0fb65,Bruno Ecuele Manga,25,GAB,CB,31-228,90,0,0,0,0,0,0,0,0,48,0,2,2,0.0,0.0,0.0,0,0,36,39,92.3,0,29,0,0,0,Dijon,2020-02-29 Paris S-G-Dijon,FRA-L1,19-20,2eaba122
+67b7357e,Senou Coulibaly,5,MLI,CB,25-178,74,0,0,0,0,0,0,0,0,32,0,1,0,0.0,0.0,0.0,1,0,16,23,69.6,0,11,0,0,0,Dijon,2020-02-29 Paris S-G-Dijon,FRA-L1,19-20,2eaba122
+e8edfdc9,Jhonder Cádiz,19,VEN,FW,24-215,16,0,0,0,0,2,2,0,0,11,0,0,0,0.1,0.1,0.0,1,0,7,9,77.8,1,7,2,0,0,Dijon,2020-02-29 Paris S-G-Dijon,FRA-L1,19-20,2eaba122
+8fa8f8d2,Rúnar Alex Rúnarsson,1,ISL,GK,25-011,90,0,0,0,0,0,0,0,0,37,0,0,0,0.0,0.0,0.0,0,0,27,31,87.1,0,16,0,0,0,Dijon,2020-02-29 Paris S-G-Dijon,FRA-L1,19-20,2eaba122

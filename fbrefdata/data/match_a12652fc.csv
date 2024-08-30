@@ -1,0 +1,29 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+d33c706e,Andy Delort,9,ALG,FW,28-059,90,0,0,0,0,3,1,0,0,49,2,0,3,0.3,0.3,0.0,1,0,15,27,55.6,4,20,1,3,0,Montpellier,2019-12-07 Montpellier-Paris S-G,FRA-L1,19-20,a12652fc
+7cdda3bf,Gaëtan Laborde,10,FRA,FW,25-218,76,0,0,0,0,1,0,0,0,31,1,0,0,0.0,0.0,0.0,1,0,14,25,56.0,3,18,4,2,1,Montpellier,2019-12-07 Montpellier-Paris S-G,FRA-L1,19-20,a12652fc
+24eb7ed6,Junior Sambia,6,FRA,WB,23-091,14,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,1,4,0,1,0,Montpellier,2019-12-07 Montpellier-Paris S-G,FRA-L1,19-20,a12652fc
+6bde367b,Téji Savanier,11,FRA,CM,27-350,66,0,0,0,0,0,0,0,0,29,5,0,1,0.0,0.0,0.1,1,0,10,19,52.6,1,14,1,3,2,Montpellier,2019-12-07 Montpellier-Paris S-G,FRA-L1,19-20,a12652fc
+7e82a78f,Florent Mollet,25,FRA,CM,28-018,24,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.2,1,0,6,9,66.7,1,3,1,0,0,Montpellier,2019-12-07 Montpellier-Paris S-G,FRA-L1,19-20,a12652fc
+7909ffa4,Joris Chotard,13,FRA,"CM,AM",18-074,90,0,0,0,0,1,0,1,0,23,1,2,0,0.0,0.0,0.0,1,0,10,17,58.8,2,9,0,0,0,Montpellier,2019-12-07 Montpellier-Paris S-G,FRA-L1,19-20,a12652fc
+8f4d116f,Damien Le Tallec,14,FRA,CM,29-232,90,0,0,0,0,0,0,0,0,32,2,0,3,0.0,0.0,0.0,4,0,12,20,60.0,0,12,1,0,0,Montpellier,2019-12-07 Montpellier-Paris S-G,FRA-L1,19-20,a12652fc
+e3e05edf,Ambroise Oyongo,8,CMR,WB,28-168,90,0,0,0,0,0,0,1,0,31,1,0,0,0.0,0.0,0.0,0,0,14,24,58.3,0,12,0,2,0,Montpellier,2019-12-07 Montpellier-Paris S-G,FRA-L1,19-20,a12652fc
+4e0afc5d,Arnaud Souquet,2,FRA,"WB,CB",27-298,90,0,0,0,0,0,0,1,0,47,4,2,1,0.0,0.0,0.0,1,0,22,33,66.7,5,18,2,4,0,Montpellier,2019-12-07 Montpellier-Paris S-G,FRA-L1,19-20,a12652fc
+3f5b4635,Daniel Congré,3,FRA,CB,34-246,90,0,0,0,0,1,0,0,0,31,0,8,1,0.1,0.1,0.0,0,0,14,18,77.8,2,9,0,0,0,Montpellier,2019-12-07 Montpellier-Paris S-G,FRA-L1,19-20,a12652fc
+c4bbea9f,Vitorino Hilton,4,BRA,CB,42-085,90,0,0,0,0,0,0,0,0,25,1,1,0,0.0,0.0,0.0,1,0,18,20,90.0,1,14,0,0,0,Montpellier,2019-12-07 Montpellier-Paris S-G,FRA-L1,19-20,a12652fc
+6690ef25,Pedro Mendes,5,POR,CB,29-067,71,0,0,0,0,0,0,2,1,24,3,2,0,0.0,0.0,0.0,0,0,12,16,75.0,1,8,0,0,0,Montpellier,2019-12-07 Montpellier-Paris S-G,FRA-L1,19-20,a12652fc
+625c144a,Gerónimo Rulli,1,ARG,GK,27-201,90,0,0,0,0,0,0,0,0,25,0,0,0,0.0,0.0,0.0,0,0,15,23,65.2,0,7,0,0,0,Montpellier,2019-12-07 Montpellier-Paris S-G,FRA-L1,19-20,a12652fc
+43b78598,Mauro Icardi,18,ARG,FW,26-291,90,1,0,0,0,1,1,0,0,19,0,0,0,0.1,0.1,0.1,1,0,10,13,76.9,1,11,1,2,1,Paris Saint-Germain,2019-12-07 Montpellier-Paris S-G,FRA-L1,19-20,a12652fc
+42fd9c7f,Kylian Mbappé,7,FRA,FW,20-352,89,1,1,0,0,2,1,0,0,44,0,0,1,0.2,0.2,0.1,6,2,23,32,71.9,2,30,3,8,5,Paris Saint-Germain,2019-12-07 Montpellier-Paris S-G,FRA-L1,19-20,a12652fc
+0e6bc38c,Eric Maxim Choupo-Moting,17,CMR,FW,30-259,1,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,2,1,1,1,Paris Saint-Germain,2019-12-07 Montpellier-Paris S-G,FRA-L1,19-20,a12652fc
+69384e5d,Neymar,10,BRA,AM,27-305,90,1,1,0,0,4,2,0,0,78,0,0,4,0.2,0.2,0.6,11,4,43,57,75.4,14,56,8,6,4,Paris Saint-Germain,2019-12-07 Montpellier-Paris S-G,FRA-L1,19-20,a12652fc
+9744ff80,Pablo Sarabia,19,ESP,AM,27-210,90,0,0,0,0,3,1,0,0,55,0,1,4,0.2,0.2,0.1,1,0,29,40,72.5,5,36,1,0,0,Paris Saint-Germain,2019-12-07 Montpellier-Paris S-G,FRA-L1,19-20,a12652fc
+dff153a4,Leandro Paredes,8,ARG,DM,25-161,90,0,0,0,0,4,0,0,0,92,3,1,1,0.1,0.1,0.0,2,0,78,87,89.7,12,60,1,0,0,Paris Saint-Germain,2019-12-07 Montpellier-Paris S-G,FRA-L1,19-20,a12652fc
+72c812f3,Idrissa Gana Gueye,27,SEN,DM,30-072,24,0,0,0,0,0,0,0,0,15,0,0,0,0.0,0.0,0.0,1,0,11,13,84.6,5,11,0,1,0,Paris Saint-Germain,2019-12-07 Montpellier-Paris S-G,FRA-L1,19-20,a12652fc
+5853ac44,Tanguy Nianzou,33,FRA,DM,17-183,66,0,0,0,0,1,1,0,0,41,1,0,1,0.4,0.4,0.0,2,0,35,36,97.2,4,30,0,2,1,Paris Saint-Germain,2019-12-07 Montpellier-Paris S-G,FRA-L1,19-20,a12652fc
+433dc9a2,Juan Bernat,14,ESP,LB,26-281,90,0,0,0,0,0,0,1,0,65,8,0,1,0.0,0.0,0.0,1,0,48,52,92.3,5,45,4,4,3,Paris Saint-Germain,2019-12-07 Montpellier-Paris S-G,FRA-L1,19-20,a12652fc
+aef6e670,Presnel Kimpembe,3,FRA,CB,24-116,17,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,6,6,100.0,1,5,0,0,0,Paris Saint-Germain,2019-12-07 Montpellier-Paris S-G,FRA-L1,19-20,a12652fc
+fc62f087,Abdou Diallo,22,SEN,CB,23-217,73,0,0,0,0,0,0,1,0,46,1,1,1,0.0,0.0,0.0,0,0,30,34,88.2,0,26,0,2,1,Paris Saint-Germain,2019-12-07 Montpellier-Paris S-G,FRA-L1,19-20,a12652fc
+86e7deaf,Thiago Silva,2,BRA,CB,35-076,90,0,0,0,0,0,0,1,0,60,1,0,0,0.0,0.0,0.0,2,0,50,51,98.0,4,36,0,0,0,Paris Saint-Germain,2019-12-07 Montpellier-Paris S-G,FRA-L1,19-20,a12652fc
+e162b013,Thomas Meunier,12,BEL,RB,28-086,90,0,0,0,0,0,0,0,0,68,1,0,2,0.0,0.0,0.0,0,0,49,62,79.0,4,32,3,0,0,Paris Saint-Germain,2019-12-07 Montpellier-Paris S-G,FRA-L1,19-20,a12652fc
+ecada4fc,Keylor Navas,1,CRC,GK,32-357,90,0,0,0,0,0,0,0,0,26,0,0,0,0.0,0.0,0.0,0,0,20,25,80.0,0,14,0,0,0,Paris Saint-Germain,2019-12-07 Montpellier-Paris S-G,FRA-L1,19-20,a12652fc

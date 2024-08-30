@@ -1,0 +1,32 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+c4e87b8b,Wout Weghorst,9,NED,FW,29-056,90,0,0,0,0,2,0,1,0,45,1,0,1,0.2,0.1,0.2,2,0,22,31,71.0,0,20,1,1,0,Wolfsburg,2021-10-02 Wolfsburg-Gladbach,GER-BL1,21-22,e9ccaf2f
+e5a35ae9,Luca Waldschmidt,7,GER,LW,25-136,90,1,0,0,0,2,2,0,0,28,1,0,1,0.4,0.4,0.0,0,0,18,20,90.0,4,15,0,0,0,Wolfsburg,2021-10-02 Wolfsburg-Gladbach,GER-BL1,21-22,e9ccaf2f
+442b56fa,Ridle Baku,20,GER,RW,23-177,78,0,0,0,0,1,0,1,0,41,0,0,1,0.0,0.0,0.0,3,1,26,34,76.5,4,22,3,5,4,Wolfsburg,2021-10-02 Wolfsburg-Gladbach,GER-BL1,21-22,e9ccaf2f
+061e8e23,Maximilian Philipp,17,GER,RW,27-215,12,0,0,0,0,0,0,0,0,7,1,0,0,0.0,0.0,0.0,0,0,3,4,75.0,0,0,0,0,0,Wolfsburg,2021-10-02 Wolfsburg-Gladbach,GER-BL1,21-22,e9ccaf2f
+0c61c77c,Dodi Lukebakio,28,BEL,AM,24-008,65,0,0,0,0,1,1,0,0,29,0,0,0,0.4,0.4,0.0,1,0,13,19,68.4,0,15,0,3,1,Wolfsburg,2021-10-02 Wolfsburg-Gladbach,GER-BL1,21-22,e9ccaf2f
+0cc5f4a5,Lukas Nmecha,10,GER,AM,22-292,25,0,0,0,0,0,0,0,0,11,1,0,1,0.0,0.0,0.1,2,0,5,7,71.4,0,3,0,1,0,Wolfsburg,2021-10-02 Wolfsburg-Gladbach,GER-BL1,21-22,e9ccaf2f
+86e119e0,Maximilian Arnold,27,GER,DM,27-128,90,0,0,0,0,2,1,0,0,62,2,0,1,0.1,0.1,0.2,3,0,41,49,83.7,4,28,0,0,0,Wolfsburg,2021-10-02 Wolfsburg-Gladbach,GER-BL1,21-22,e9ccaf2f
+e6c43eec,Josuha Guilavogui,23,FRA,DM,31-013,78,0,0,0,0,1,0,0,0,54,3,1,1,0.1,0.1,0.0,0,0,27,38,71.1,3,17,1,1,1,Wolfsburg,2021-10-02 Wolfsburg-Gladbach,GER-BL1,21-22,e9ccaf2f
+e5f63987,Daniel Ginczek,33,GER,DM,30-172,12,0,0,0,0,1,1,0,0,5,0,0,0,0.1,0.1,0.0,0,0,1,3,33.3,0,3,0,0,0,Wolfsburg,2021-10-02 Wolfsburg-Gladbach,GER-BL1,21-22,e9ccaf2f
+62ab9184,Yannick Gerhardt,31,GER,LB,27-203,45,0,0,0,0,0,0,0,0,29,0,2,2,0.0,0.0,0.0,0,0,16,21,76.2,2,10,2,0,0,Wolfsburg,2021-10-02 Wolfsburg-Gladbach,GER-BL1,21-22,e9ccaf2f
+13203c45,Jérôme Roussillon,15,FRA,LB,28-269,45,0,0,0,0,0,0,1,0,26,0,1,0,0.0,0.0,0.0,0,0,16,21,76.2,3,14,2,2,2,Wolfsburg,2021-10-02 Wolfsburg-Gladbach,GER-BL1,21-22,e9ccaf2f
+01834aa0,Sebastiaan Bornauw,3,BEL,CB,22-194,45,0,0,0,0,1,0,1,0,22,0,2,0,0.0,0.0,0.0,0,0,13,16,81.3,1,8,0,0,0,Wolfsburg,2021-10-02 Wolfsburg-Gladbach,GER-BL1,21-22,e9ccaf2f
+e27da244,John Brooks,25,USA,CB,28-247,45,0,0,0,0,0,0,0,0,41,3,1,0,0.0,0.0,0.0,0,0,29,34,85.3,1,19,1,0,0,Wolfsburg,2021-10-02 Wolfsburg-Gladbach,GER-BL1,21-22,e9ccaf2f
+277c49ed,Maxence Lacroix,4,FRA,CB,21-179,75,0,0,0,0,0,0,2,1,68,4,0,3,0.0,0.0,0.1,1,0,49,57,86.0,2,30,0,0,0,Wolfsburg,2021-10-02 Wolfsburg-Gladbach,GER-BL1,21-22,e9ccaf2f
+493924a7,Kevin Mbabu,19,SUI,RB,26-166,90,0,0,0,0,1,0,1,0,86,3,1,3,0.0,0.0,0.0,3,0,44,67,65.7,5,32,3,8,2,Wolfsburg,2021-10-02 Wolfsburg-Gladbach,GER-BL1,21-22,e9ccaf2f
+db401046,Koen Casteels,1,BEL,GK,29-099,90,0,0,0,0,0,0,0,0,48,0,0,0,0.0,0.0,0.0,0,0,40,43,93.0,0,31,0,0,0,Wolfsburg,2021-10-02 Wolfsburg-Gladbach,GER-BL1,21-22,e9ccaf2f
+7cd6badb,Lars Stindl,13,GER,FW,33-037,81,0,0,0,1,2,0,1,0,33,1,0,0,0.9,0.1,0.0,3,0,21,28,75.0,6,15,2,0,0,Mönchengladbach,2021-10-02 Wolfsburg-Gladbach,GER-BL1,21-22,e9ccaf2f
+bc6bd723,Alassane Pléa,14,FRA,FW,28-206,9,0,0,0,0,1,1,0,0,10,1,0,0,0.1,0.1,0.1,1,0,4,6,66.7,0,6,2,3,1,Mönchengladbach,2021-10-02 Wolfsburg-Gladbach,GER-BL1,21-22,e9ccaf2f
+0b4f388a,Breel Embolo,36,SUI,FW,24-230,90,1,1,0,0,2,2,0,0,44,2,0,2,0.3,0.3,1.1,8,1,17,23,73.9,2,28,3,5,1,Mönchengladbach,2021-10-02 Wolfsburg-Gladbach,GER-BL1,21-22,e9ccaf2f
+86574238,Manu Koné,17,FRA,CM,20-138,59,0,0,0,0,1,1,0,0,37,0,1,1,0.1,0.1,0.1,3,0,21,29,72.4,2,21,1,3,2,Mönchengladbach,2021-10-02 Wolfsburg-Gladbach,GER-BL1,21-22,e9ccaf2f
+496aeede,Christoph Kramer,6,GER,CM,30-225,31,0,0,0,0,1,0,0,0,20,2,1,2,0.1,0.1,0.0,1,0,9,14,64.3,1,7,0,0,0,Mönchengladbach,2021-10-02 Wolfsburg-Gladbach,GER-BL1,21-22,e9ccaf2f
+384d58d9,Denis Zakaria,8,SUI,CM,24-316,90,0,1,0,0,1,0,1,0,47,1,1,3,0.0,0.0,0.3,1,1,23,29,79.3,4,23,0,3,2,Mönchengladbach,2021-10-02 Wolfsburg-Gladbach,GER-BL1,21-22,e9ccaf2f
+2903a856,Jonas Hofmann,23,GER,CM,29-080,90,1,0,0,0,3,2,0,0,63,3,1,0,1.1,1.1,0.3,9,1,37,52,71.2,7,34,4,1,1,Mönchengladbach,2021-10-02 Wolfsburg-Gladbach,GER-BL1,21-22,e9ccaf2f
+e79269bd,Luca Netz,20,GER,WB,18-140,57,0,0,0,0,1,0,0,0,26,0,1,0,0.0,0.0,0.0,1,0,14,18,77.8,1,15,0,2,0,Mönchengladbach,2021-10-02 Wolfsburg-Gladbach,GER-BL1,21-22,e9ccaf2f
+dfb6490a,Patrick Herrmann,7,GER,WB,30-232,33,0,0,0,0,1,1,0,0,25,1,0,1,0.1,0.1,0.0,0,0,12,20,60.0,0,11,3,0,0,Mönchengladbach,2021-10-02 Wolfsburg-Gladbach,GER-BL1,21-22,e9ccaf2f
+236f02cd,Joe Scally,29,USA,WB,18-275,90,1,0,0,0,1,1,0,0,62,4,1,1,0.4,0.4,0.0,2,0,29,44,65.9,0,33,0,3,0,Mönchengladbach,2021-10-02 Wolfsburg-Gladbach,GER-BL1,21-22,e9ccaf2f
+9af1f9ff,Jordan Beyer,15,GER,CB,21-136,90,0,0,0,0,2,0,1,0,60,5,0,0,0.1,0.1,0.0,2,0,34,42,81.0,1,35,0,0,0,Mönchengladbach,2021-10-02 Wolfsburg-Gladbach,GER-BL1,21-22,e9ccaf2f
+48035304,Nico Elvedi,30,SUI,CB,25-002,90,0,0,0,0,0,0,0,0,43,0,1,1,0.0,0.0,0.0,0,0,34,38,89.5,1,18,0,0,0,Mönchengladbach,2021-10-02 Wolfsburg-Gladbach,GER-BL1,21-22,e9ccaf2f
+f521b80a,Matthias Ginter,28,GER,CB,27-256,90,0,0,0,0,2,1,0,0,46,0,1,1,0.1,0.1,0.0,2,1,32,41,78.0,1,30,3,1,1,Mönchengladbach,2021-10-02 Wolfsburg-Gladbach,GER-BL1,21-22,e9ccaf2f
+420c18a1,Yann Sommer,1,SUI,GK,32-289,90,0,1,0,0,0,0,0,0,41,0,0,0,0.0,0.0,0.4,1,1,31,40,77.5,0,29,0,0,0,Mönchengladbach,2021-10-02 Wolfsburg-Gladbach,GER-BL1,21-22,e9ccaf2f

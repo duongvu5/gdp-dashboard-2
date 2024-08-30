@@ -1,0 +1,29 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+5c2da10f,Loïc Rémy,9,FRA,FW,33-033,67,1,0,0,0,2,1,1,0,19,0,0,0,0.1,0.1,0.0,1,0,12,16,75.0,0,11,3,0,0,Lille,2020-02-04 Lille-Rennes,FRA-L1,19-20,d9676438
+fa18c72e,Luiz Araújo,11,BRA,FW,23-247,23,0,0,0,0,2,0,0,0,8,0,0,0,0.1,0.1,0.0,1,0,4,5,80.0,1,5,1,2,2,Lille,2020-02-04 Lille-Rennes,FRA-L1,19-20,d9676438
+8c90fd7a,Victor Osimhen,7,NGA,FW,21-037,90,0,0,0,0,3,1,0,0,31,0,0,0,0.4,0.4,0.1,4,0,14,21,66.7,1,11,2,4,2,Lille,2020-02-04 Lille-Rennes,FRA-L1,19-20,d9676438
+b2bd0f6c,Jonathan Bamba,14,CIV,LM,23-315,86,0,0,0,0,2,1,0,0,46,1,0,1,0.1,0.1,0.0,4,0,24,31,77.4,3,30,4,5,2,Lille,2020-02-04 Lille-Rennes,FRA-L1,19-20,d9676438
+f3600c02,Xeka,8,POR,"CM,LM",25-086,4,0,0,0,0,0,0,0,0,5,0,0,2,0.0,0.0,0.0,0,0,4,4,100.0,1,2,0,0,0,Lille,2020-02-04 Lille-Rennes,FRA-L1,19-20,d9676438
+032f894e,Renato Sanches,18,POR,"CM,LM",22-170,90,0,0,0,0,1,0,1,0,61,2,0,2,0.0,0.0,0.0,3,0,37,48,77.1,5,18,1,4,3,Lille,2020-02-04 Lille-Rennes,FRA-L1,19-20,d9676438
+ef9c1c95,Benjamin André,21,FRA,CM,29-185,90,0,0,0,0,1,0,0,0,74,3,5,2,0.0,0.0,0.0,2,0,46,58,79.3,5,32,2,0,0,Lille,2020-02-04 Lille-Rennes,FRA-L1,19-20,d9676438
+42eaa028,Jonathan Ikone,10,FRA,RM,21-278,90,0,1,0,0,2,0,1,0,41,1,0,1,0.1,0.1,0.3,4,1,21,29,72.4,4,29,6,4,1,Lille,2020-02-04 Lille-Rennes,FRA-L1,19-20,d9676438
+c20bdcd7,Reinildo Mandava,28,MOZ,LB,26-014,90,0,0,0,0,0,0,0,0,59,1,0,0,0.0,0.0,0.1,1,0,44,54,81.5,4,23,1,0,0,Lille,2020-02-04 Lille-Rennes,FRA-L1,19-20,d9676438
+67ac5bb8,Gabriel Magalhães,4,BRA,CB,22-047,90,0,0,0,0,1,0,0,0,69,1,0,0,0.1,0.1,0.0,0,0,50,61,82.0,2,39,1,0,0,Lille,2020-02-04 Lille-Rennes,FRA-L1,19-20,d9676438
+90f87966,José Fonte,6,POR,CB,36-044,90,0,0,0,0,0,0,0,0,59,0,0,0,0.0,0.0,0.0,0,0,46,55,83.6,0,38,0,0,0,Lille,2020-02-04 Lille-Rennes,FRA-L1,19-20,d9676438
+31a62dc7,Zeki Çelik,17,TUR,RB,22-352,90,0,0,0,0,0,0,0,0,55,1,2,1,0.0,0.0,0.0,3,0,35,46,76.1,5,22,1,0,0,Lille,2020-02-04 Lille-Rennes,FRA-L1,19-20,d9676438
+fcb38f57,Mike Maignan,16,FRA,GK,24-216,90,0,0,0,0,0,0,0,0,22,0,1,0,0.0,0.0,0.0,1,0,8,19,42.1,0,6,0,0,0,Lille,2020-02-04 Lille-Rennes,FRA-L1,19-20,d9676438
+2054d037,M'Baye Niang,11,SEN,FW,25-047,90,0,0,0,0,2,0,0,0,35,0,1,1,0.1,0.1,0.0,0,0,18,25,72.0,2,18,1,0,0,Rennes,2020-02-04 Lille-Rennes,FRA-L1,19-20,d9676438
+6be41a31,Yann Gboho,34,FRA,FW,19-021,67,0,0,0,0,0,0,0,0,22,0,0,1,0.0,0.0,0.1,1,0,6,10,60.0,0,18,5,5,4,Rennes,2020-02-04 Lille-Rennes,FRA-L1,19-20,d9676438
+d14229f3,Adrien Hunou,23,FRA,FW,26-016,23,0,0,0,0,0,0,0,0,10,1,0,1,0.0,0.0,0.1,2,0,5,6,83.3,2,7,1,0,0,Rennes,2020-02-04 Lille-Rennes,FRA-L1,19-20,d9676438
+a0f9b535,Flavien Tait,20,FRA,LM,27-002,82,0,0,0,0,2,0,0,0,50,1,0,1,0.1,0.1,0.0,4,0,24,38,63.2,2,37,4,5,3,Rennes,2020-02-04 Lille-Rennes,FRA-L1,19-20,d9676438
+007faf7a,Lucas Da Cunha,32,FRA,LM,18-240,8,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,1,0,3,3,100.0,0,2,0,0,0,Rennes,2020-02-04 Lille-Rennes,FRA-L1,19-20,d9676438
+7b9c2d84,Eduardo Camavinga,18,FRA,CM,17-086,90,0,0,0,0,1,1,0,0,46,3,0,1,0.0,0.0,0.0,1,0,35,38,92.1,3,28,0,1,1,Rennes,2020-02-04 Lille-Rennes,FRA-L1,19-20,d9676438
+20e73fac,Benjamin Bourigeaud,14,FRA,CM,26-021,90,0,0,0,0,4,2,0,0,75,3,0,2,0.2,0.2,0.0,4,0,52,60,86.7,6,41,0,2,2,Rennes,2020-02-04 Lille-Rennes,FRA-L1,19-20,d9676438
+3423f250,Raphinha,7,BRA,RM,23-052,33,0,0,0,0,1,1,0,0,16,0,0,0,0.0,0.0,0.0,1,0,10,14,71.4,2,14,1,4,4,Rennes,2020-02-04 Lille-Rennes,FRA-L1,19-20,d9676438
+0be95d34,Romain Del Castillo,22,FRA,RM,23-312,57,0,0,0,0,1,0,0,0,30,2,0,1,0.0,0.0,0.0,1,0,15,22,68.2,2,17,2,1,0,Rennes,2020-02-04 Lille-Rennes,FRA-L1,19-20,d9676438
+e54a9890,Faitout Maouassa,17,FRA,LB,21-213,90,0,0,0,0,0,0,0,0,63,5,1,1,0.0,0.0,0.1,4,0,36,52,69.2,4,35,6,2,2,Rennes,2020-02-04 Lille-Rennes,FRA-L1,19-20,d9676438
+1232e1dc,Joris Gnagnon,21,FRA,CB,23-022,90,0,0,0,0,0,0,0,0,60,0,2,1,0.0,0.0,0.0,0,0,46,50,92.0,5,41,1,0,0,Rennes,2020-02-04 Lille-Rennes,FRA-L1,19-20,d9676438
+1ec7e1c5,Damien Da Silva,3,FRA,CB,31-263,90,0,0,0,0,0,0,0,0,61,0,0,0,0.0,0.0,0.0,1,0,46,53,86.8,2,36,0,0,0,Rennes,2020-02-04 Lille-Rennes,FRA-L1,19-20,d9676438
+a4b1028a,Hamari Traoré,27,MLI,RB,28-008,90,0,0,0,0,0,0,1,0,74,4,1,2,0.0,0.0,0.0,1,0,52,62,83.9,3,42,5,2,1,Rennes,2020-02-04 Lille-Rennes,FRA-L1,19-20,d9676438
+33887998,Edouard Mendy,16,SEN,GK,27-340,90,0,0,0,0,0,0,0,0,40,0,0,0,0.0,0.0,0.0,0,0,27,40,67.5,0,23,0,0,0,Rennes,2020-02-04 Lille-Rennes,FRA-L1,19-20,d9676438

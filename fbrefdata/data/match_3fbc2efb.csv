@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+81255c03,João Pedro,10,ITA,FW,27-029,77,0,0,0,0,1,0,0,0,31,0,0,4,0.1,0.1,0.0,2,0,16,21,76.2,1,15,1,4,2,Cagliari,2019-04-07 Cagliari-SPAL,ITA-SERIA_A,18-19,3fbc2efb
+455a2b79,Valter Birsa,14,SVN,FW,32-243,13,0,0,0,0,2,0,0,0,13,0,0,0,0.2,0.2,0.2,2,0,8,9,88.9,0,6,0,0,0,Cagliari,2019-04-07 Cagliari-SPAL,ITA-SERIA_A,18-19,3fbc2efb
+d37b0350,Leonardo Pavoletti,30,ITA,FW,30-132,90,1,0,0,0,2,1,1,0,41,2,0,0,0.6,0.6,0.0,1,0,22,28,78.6,1,10,0,0,0,Cagliari,2019-04-07 Cagliari-SPAL,ITA-SERIA_A,18-19,3fbc2efb
+6928979a,Nicolò Barella,18,ITA,AM,22-059,90,0,0,0,0,2,2,0,0,75,2,0,2,0.1,0.1,0.1,4,1,50,59,84.7,5,49,4,2,2,Cagliari,2019-04-07 Cagliari-SPAL,ITA-SERIA_A,18-19,3fbc2efb
+cedb3e36,Artur Ioniță,21,MDA,LM,28-233,86,0,0,0,0,2,1,0,0,45,2,2,1,0.2,0.2,0.0,0,0,22,31,71.0,2,19,3,2,1,Cagliari,2019-04-07 Cagliari-SPAL,ITA-SERIA_A,18-19,3fbc2efb
+5eb72339,Simone Padoin,20,ITA,LM,35-020,4,0,0,0,0,0,0,0,0,10,2,0,0,0.0,0.0,0.0,1,0,5,7,71.4,1,5,1,0,0,Cagliari,2019-04-07 Cagliari-SPAL,ITA-SERIA_A,18-19,3fbc2efb
+ae64d449,Luca Cigarini,8,ITA,CM,32-291,73,0,0,0,0,1,0,1,0,80,1,0,2,0.0,0.0,0.5,4,0,58,72,80.6,15,42,3,1,1,Cagliari,2019-04-07 Cagliari-SPAL,ITA-SERIA_A,18-19,3fbc2efb
+605873e1,Filip Bradarić,6,CRO,CM,27-086,17,0,0,0,0,0,0,0,0,15,0,2,0,0.0,0.0,0.0,0,0,10,11,90.9,1,8,0,0,0,Cagliari,2019-04-07 Cagliari-SPAL,ITA-SERIA_A,18-19,3fbc2efb
+9085dd7c,Paolo Faragò,24,ITA,RM,26-054,90,1,0,0,0,4,4,0,0,50,1,1,4,0.7,0.7,0.1,5,0,29,35,82.9,1,21,2,1,0,Cagliari,2019-04-07 Cagliari-SPAL,ITA-SERIA_A,18-19,3fbc2efb
+3b61c9ec,Luca Pellegrini,3,ITA,LB,20-031,90,0,0,0,0,0,0,0,0,61,1,0,0,0.0,0.0,0.2,3,0,38,56,67.9,3,28,6,2,2,Cagliari,2019-04-07 Cagliari-SPAL,ITA-SERIA_A,18-19,3fbc2efb
+84594618,Filippo Romagna,56,ITA,CB,21-316,90,0,0,0,0,0,0,0,0,51,1,2,0,0.0,0.0,0.0,0,0,40,47,85.1,0,29,2,0,0,Cagliari,2019-04-07 Cagliari-SPAL,ITA-SERIA_A,18-19,3fbc2efb
+7d50454d,Luca Ceppitelli,23,ITA,CB,29-239,90,0,0,0,0,1,0,1,0,68,1,1,2,0.3,0.3,0.0,2,1,51,60,85.0,2,36,1,0,0,Cagliari,2019-04-07 Cagliari-SPAL,ITA-SERIA_A,18-19,3fbc2efb
+00b0bb87,Fabrizio Cacciatore,12,ITA,RB,32-181,90,0,0,0,0,1,1,1,0,82,2,1,1,0.2,0.2,0.2,4,0,51,67,76.1,4,43,1,0,0,Cagliari,2019-04-07 Cagliari-SPAL,ITA-SERIA_A,18-19,3fbc2efb
+f554e29b,Alessio Cragno,28,ITA,GK,24-283,90,0,0,0,0,0,0,0,0,34,0,0,0,0.0,0.0,0.0,0,0,25,31,80.6,0,18,0,0,0,Cagliari,2019-04-07 Cagliari-SPAL,ITA-SERIA_A,18-19,3fbc2efb
+43a2e16c,Mirco Antenucci,7,ITA,"FW,AM",34-211,90,1,0,1,1,0,0,0,0,29,0,1,0,0.8,0.0,0.0,3,1,20,23,87.0,2,19,2,3,2,SPAL,2019-04-07 Cagliari-SPAL,ITA-SERIA_A,18-19,3fbc2efb
+b5cae4e6,Alberto Paloschi,43,ITA,FW,29-093,90,0,0,0,0,0,0,0,0,29,1,0,0,0.0,0.0,0.0,0,0,17,21,81.0,2,17,0,0,0,SPAL,2019-04-07 Cagliari-SPAL,ITA-SERIA_A,18-19,3fbc2efb
+144607cc,Jasmin Kurtić,19,SVN,CM,30-087,62,0,0,0,0,0,0,0,0,39,0,0,1,0.0,0.0,0.0,0,0,26,36,72.2,1,20,0,0,0,SPAL,2019-04-07 Cagliari-SPAL,ITA-SERIA_A,18-19,3fbc2efb
+00528660,Filippo Costa,33,ITA,"LB,CM",23-321,28,0,0,0,0,1,0,0,0,23,0,0,0,0.0,0.0,0.1,2,0,10,19,52.6,1,8,0,0,0,SPAL,2019-04-07 Cagliari-SPAL,ITA-SERIA_A,18-19,3fbc2efb
+331c0a43,Simone Missiroli,6,ITA,CM,32-319,90,0,0,0,0,1,0,0,0,59,2,2,1,0.0,0.0,0.0,2,0,43,51,84.3,5,40,3,0,0,SPAL,2019-04-07 Cagliari-SPAL,ITA-SERIA_A,18-19,3fbc2efb
+bd84fc61,Pasquale Schiattarella,28,ITA,"CM,RM",31-312,82,0,0,0,0,0,0,0,0,54,1,0,0,0.0,0.0,0.4,3,0,36,51,70.6,5,32,4,0,0,SPAL,2019-04-07 Cagliari-SPAL,ITA-SERIA_A,18-19,3fbc2efb
+c414df9d,Mattia Valoti,8,ITA,RM,25-213,8,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,2,0,0,0,SPAL,2019-04-07 Cagliari-SPAL,ITA-SERIA_A,18-19,3fbc2efb
+b7a5bc86,Mohamed Fares,93,ALG,"WB,LM",23-051,90,0,0,0,0,0,0,1,0,63,0,0,3,0.0,0.0,0.0,1,0,28,48,58.3,4,36,1,1,1,SPAL,2019-04-07 Cagliari-SPAL,ITA-SERIA_A,18-19,3fbc2efb
+12851227,Lorenzo Dickmann,24,ITA,WB,22-195,70,0,0,0,0,0,0,1,0,25,2,0,0,0.0,0.0,0.0,0,0,18,21,85.7,0,13,0,1,1,SPAL,2019-04-07 Cagliari-SPAL,ITA-SERIA_A,18-19,3fbc2efb
+03f946ed,Andrea Petagna,37,ITA,FW,23-281,20,0,0,0,0,4,1,0,0,13,0,0,0,0.6,0.6,0.0,1,0,3,7,42.9,0,9,1,2,2,SPAL,2019-04-07 Cagliari-SPAL,ITA-SERIA_A,18-19,3fbc2efb
+8cea6319,Felipe dal Belo,27,BRA,CB,34-250,90,0,0,0,0,0,0,1,0,49,0,0,0,0.0,0.0,0.0,0,0,32,38,84.2,2,23,0,0,0,SPAL,2019-04-07 Cagliari-SPAL,ITA-SERIA_A,18-19,3fbc2efb
+de045b15,Francesco Vicari,23,ITA,CB,24-247,90,0,0,0,0,0,0,0,0,60,1,3,1,0.0,0.0,0.0,0,0,35,45,77.8,2,32,0,0,0,SPAL,2019-04-07 Cagliari-SPAL,ITA-SERIA_A,18-19,3fbc2efb
+fb77bfef,Kevin Bonifazi,14,ITA,"CB,RB",22-323,90,0,0,0,0,0,0,0,0,55,0,2,3,0.0,0.0,0.0,1,0,37,47,78.7,3,32,1,0,0,SPAL,2019-04-07 Cagliari-SPAL,ITA-SERIA_A,18-19,3fbc2efb
+03760df0,Emiliano Viviano,2,ITA,GK,33-127,90,0,0,0,0,0,0,0,0,44,0,0,0,0.0,0.0,0.0,0,0,28,41,68.3,0,19,0,0,0,SPAL,2019-04-07 Cagliari-SPAL,ITA-SERIA_A,18-19,3fbc2efb

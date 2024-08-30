@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+d705ba44,Andrea Belotti,9,ITA,FW,24-053,87,1,0,0,0,2,2,0,0,30,2,0,2,0.2,0.2,0.2,4,1,8,15,53.3,1,18,3,3,2,Torino,2018-02-11 Torino-Udinese,ITA-SERIA_A,17-18,aec94eb1
+dc1c2fce,Álex Berenguer,21,ESP,FW,22-222,3,0,0,0,0,0,0,0,0,5,1,0,0,0.0,0.0,0.0,1,0,3,4,75.0,0,3,0,0,0,Torino,2018-02-11 Torino-Udinese,ITA-SERIA_A,17-18,aec94eb1
+2054d037,M'Baye Niang,11,SEN,LW,23-054,70,0,0,0,0,2,1,0,0,23,0,0,0,0.1,0.1,0.0,2,1,9,15,60.0,1,15,1,4,2,Torino,2018-02-11 Torino-Udinese,ITA-SERIA_A,17-18,aec94eb1
+bbafc0c4,Cristian Ansaldi,15,ARG,"LW,CM,DM",31-144,20,0,0,0,0,1,0,0,0,18,2,1,2,0.0,0.0,0.0,0,0,5,9,55.6,0,11,0,0,0,Torino,2018-02-11 Torino-Udinese,ITA-SERIA_A,17-18,aec94eb1
+440c84ed,Iago Falque,14,ESP,"RW,FW",28-038,90,0,1,0,0,2,0,0,0,42,4,0,0,0.1,0.1,0.2,5,1,19,31,61.3,3,28,1,2,1,Torino,2018-02-11 Torino-Udinese,ITA-SERIA_A,17-18,aec94eb1
+614c38fb,Joel Obi,22,NGA,LM,26-265,61,0,0,0,0,0,0,0,0,30,2,1,0,0.0,0.0,0.0,1,0,15,25,60.0,2,13,1,2,2,Torino,2018-02-11 Torino-Udinese,ITA-SERIA_A,17-18,aec94eb1
+55667895,Emiliano Moretti,24,ITA,CB,36-245,29,0,0,0,0,0,0,0,0,17,1,1,0,0.0,0.0,0.0,0,0,10,12,83.3,0,7,0,0,0,Torino,2018-02-11 Torino-Udinese,ITA-SERIA_A,17-18,aec94eb1
+f1cfc209,Tomás Rincón,88,VEN,CM,30-029,90,0,0,0,0,1,0,1,0,37,2,0,1,0.0,0.0,0.0,1,0,21,29,72.4,3,18,0,2,2,Torino,2018-02-11 Torino-Udinese,ITA-SERIA_A,17-18,aec94eb1
+ea06dd97,Daniele Baselli,8,ITA,"RM,CM",25-336,90,0,0,0,0,2,1,0,0,41,4,2,1,0.1,0.1,0.2,3,0,18,27,66.7,0,24,0,2,1,Torino,2018-02-11 Torino-Udinese,ITA-SERIA_A,17-18,aec94eb1
+1c8c5aed,Cristian Molinaro,3,ITA,"LB,LM,WB",34-196,90,0,0,0,0,0,0,0,0,58,1,0,1,0.0,0.0,0.0,0,0,37,50,74.0,6,28,1,1,1,Torino,2018-02-11 Torino-Udinese,ITA-SERIA_A,17-18,aec94eb1
+9417f322,Nicolás Burdisso,13,ARG,CB,36-305,90,0,0,0,0,1,0,1,0,57,1,2,3,0.1,0.1,0.1,2,0,37,43,86.0,0,32,0,0,0,Torino,2018-02-11 Torino-Udinese,ITA-SERIA_A,17-18,aec94eb1
+93cf32a8,Nicolas Nkoulou,33,CMR,CB,27-321,90,1,0,0,0,1,1,0,0,46,2,5,2,0.1,0.1,0.0,2,0,26,31,83.9,0,23,0,2,2,Torino,2018-02-11 Torino-Udinese,ITA-SERIA_A,17-18,aec94eb1
+e74f0e59,Lorenzo De Silvestri,29,ITA,"RB,RM,WB",29-264,90,0,1,0,0,2,1,0,0,69,0,2,2,0.1,0.1,0.1,2,1,35,57,61.4,5,33,1,1,0,Torino,2018-02-11 Torino-Udinese,ITA-SERIA_A,17-18,aec94eb1
+10dc46f0,Salvatore Sirigu,39,ITA,GK,31-030,90,0,0,0,0,0,0,0,0,35,0,0,0,0.0,0.0,0.0,0,0,20,33,60.6,0,15,0,0,0,Torino,2018-02-11 Torino-Udinese,ITA-SERIA_A,17-18,aec94eb1
+ad469944,Maxi López,20,ARG,FW,33-314,90,0,0,0,0,2,0,0,0,32,1,0,1,0.4,0.4,0.1,1,0,8,19,42.1,1,14,1,1,1,Udinese,2018-02-11 Torino-Udinese,ITA-SERIA_A,17-18,aec94eb1
+09538fdb,Kevin Lasagna,15,ITA,FW,25-185,53,0,0,0,0,1,0,0,0,17,0,1,3,0.1,0.1,0.0,2,0,5,10,50.0,0,4,0,0,0,Udinese,2018-02-11 Torino-Udinese,ITA-SERIA_A,17-18,aec94eb1
+269b4638,Stipe Perica,18,CRO,FW,22-219,37,0,0,0,0,0,0,0,0,20,0,0,0,0.0,0.0,0.0,2,0,14,17,82.4,2,12,0,0,0,Udinese,2018-02-11 Torino-Udinese,ITA-SERIA_A,17-18,aec94eb1
+1ea5f91c,Jakub Jankto,14,CZE,CM,22-023,90,0,0,0,0,2,0,0,0,52,1,0,2,0.1,0.1,0.2,5,0,29,42,69.0,6,20,1,0,0,Udinese,2018-02-11 Torino-Udinese,ITA-SERIA_A,17-18,aec94eb1
+d3d758d8,Valon Behrami,85,SUI,CM,32-298,66,0,0,0,0,1,0,0,0,36,4,1,1,0.1,0.1,0.0,1,0,19,24,79.2,1,14,0,0,0,Udinese,2018-02-11 Torino-Udinese,ITA-SERIA_A,17-18,aec94eb1
+162efffd,Rodrigo De Paul,10,ARG,CM,23-263,24,0,0,0,0,2,0,0,0,26,1,0,0,0.1,0.1,0.0,2,0,12,20,60.0,2,15,3,1,0,Udinese,2018-02-11 Torino-Udinese,ITA-SERIA_A,17-18,aec94eb1
+01efac19,Antonín Barák,72,CZE,"CM,WB",23-070,90,0,0,0,0,1,0,0,0,51,2,0,2,0.0,0.0,0.0,2,0,34,39,87.2,6,18,0,2,2,Udinese,2018-02-11 Torino-Udinese,ITA-SERIA_A,17-18,aec94eb1
+8e45910b,Francesco Zampano,11,ITA,WB,24-134,90,0,0,0,0,1,0,0,0,57,3,1,1,0.1,0.1,0.0,1,0,37,48,77.1,5,25,1,1,0,Udinese,2018-02-11 Torino-Udinese,ITA-SERIA_A,17-18,aec94eb1
+f68b64fc,Silvan Widmer,27,SUI,"WB,CB",24-343,90,0,0,0,0,1,0,0,0,78,5,2,1,0.1,0.1,0.0,0,0,45,64,70.3,6,29,4,1,1,Udinese,2018-02-11 Torino-Udinese,ITA-SERIA_A,17-18,aec94eb1
+92b4758e,Samir Santos,3,BRA,CB,23-068,90,0,0,0,0,0,0,0,0,69,2,1,1,0.0,0.0,0.0,0,0,48,58,82.8,3,35,1,1,1,Udinese,2018-02-11 Torino-Udinese,ITA-SERIA_A,17-18,aec94eb1
+e33f36d5,Bram Nuytinck,17,NED,CB,27-283,90,0,0,0,0,0,0,0,0,72,1,1,1,0.0,0.0,0.0,0,0,50,63,79.4,2,31,2,0,0,Udinese,2018-02-11 Torino-Udinese,ITA-SERIA_A,17-18,aec94eb1
+f91e81c9,Jens Stryger Larsen,19,DEN,CB,26-355,78,0,0,0,0,0,0,0,0,54,1,2,0,0.0,0.0,0.0,0,0,47,51,92.2,6,26,0,0,0,Udinese,2018-02-11 Torino-Udinese,ITA-SERIA_A,17-18,aec94eb1
+86015b20,Emil Hallfreðsson,23,ISL,"CM,CB",33-227,12,0,0,0,0,0,0,1,0,17,0,2,0,0.0,0.0,0.0,1,0,12,13,92.3,3,6,0,1,0,Udinese,2018-02-11 Torino-Udinese,ITA-SERIA_A,17-18,aec94eb1
+32b9b5fa,Albano Bizzarri,1,ARG,GK,40-094,90,0,0,0,0,0,0,0,0,31,0,0,0,0.0,0.0,0.0,0,0,17,28,60.7,0,13,0,0,0,Udinese,2018-02-11 Torino-Udinese,ITA-SERIA_A,17-18,aec94eb1

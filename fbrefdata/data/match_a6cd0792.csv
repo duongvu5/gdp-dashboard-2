@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+8e87af42,Préjuce Nakoulma,22,BFA,"FW,AM",30-183,90,0,0,0,0,1,0,1,0,37,2,1,0,0.1,0.1,0.0,1,0,21,29,72.4,1,29,4,4,3,Nantes,2017-10-21 Nantes-Guingamp,FRA-L1,17-18,a6cd0792
+0f52f925,Lucas Lima,6,BRA,LW,26-011,65,0,0,0,0,2,0,0,0,46,3,0,1,0.1,0.1,0.0,1,0,19,32,59.4,4,20,2,1,1,Nantes,2017-10-21 Nantes-Guingamp,FRA-L1,17-18,a6cd0792
+0049d544,Yassine El Ghanassy,14,BEL,"RW,LW",27-101,25,0,0,0,0,0,0,0,0,13,0,0,0,0.0,0.0,0.1,1,0,10,12,83.3,0,7,1,0,0,Nantes,2017-10-21 Nantes-Guingamp,FRA-L1,17-18,a6cd0792
+c76b7567,Adrien Thomasson,8,FRA,"RW,LW",23-315,79,0,0,0,0,0,0,0,0,45,2,0,3,0.0,0.0,0.2,2,0,28,39,71.8,1,25,3,0,0,Nantes,2017-10-21 Nantes-Guingamp,FRA-L1,17-18,a6cd0792
+f352a2db,Jules Iloki,7,FRA,LW,25-280,11,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.1,1,0,2,2,100.0,1,1,0,0,0,Nantes,2017-10-21 Nantes-Guingamp,FRA-L1,17-18,a6cd0792
+ed45c4a5,Valentin Rongier,28,FRA,AM,22-318,73,0,0,0,0,1,0,0,0,47,1,1,0,0.2,0.2,0.0,2,0,32,40,80.0,4,24,2,0,0,Nantes,2017-10-21 Nantes-Guingamp,FRA-L1,17-18,a6cd0792
+5d59e0df,Emiliano Sala,9,ARG,FW,26-355,17,0,0,0,0,1,0,0,0,12,0,0,0,0.1,0.1,0.0,0,0,6,9,66.7,0,7,0,0,0,Nantes,2017-10-21 Nantes-Guingamp,FRA-L1,17-18,a6cd0792
+9a506145,Rene Krhin,21,SVN,DM,27-153,90,0,0,0,0,0,0,0,0,49,2,2,1,0.0,0.0,0.0,1,1,35,40,87.5,3,30,1,0,0,Nantes,2017-10-21 Nantes-Guingamp,FRA-L1,17-18,a6cd0792
+ef7cd87a,Abdoulaye Touré,19,GUI,DM,23-232,90,1,0,0,0,2,2,1,0,62,2,5,1,0.0,0.0,0.1,3,1,29,41,70.7,6,33,3,4,3,Nantes,2017-10-21 Nantes-Guingamp,FRA-L1,17-18,a6cd0792
+933d3b51,Koffi Djidji,5,CIV,LB,24-325,90,0,0,0,0,0,0,0,0,63,2,5,1,0.0,0.0,0.0,0,0,32,51,62.7,3,19,0,1,1,Nantes,2017-10-21 Nantes-Guingamp,FRA-L1,17-18,a6cd0792
+b4a014b1,Diego Carlos,3,BRA,CB,24-220,90,0,0,0,0,0,0,1,0,50,2,0,1,0.0,0.0,0.1,1,0,31,40,77.5,4,24,0,0,0,Nantes,2017-10-21 Nantes-Guingamp,FRA-L1,17-18,a6cd0792
+70d8e84c,Chidozie Awaziem,12,NGA,CB,20-293,90,1,0,0,0,2,1,0,0,51,2,1,0,0.2,0.2,0.0,0,0,30,43,69.8,3,23,0,0,0,Nantes,2017-10-21 Nantes-Guingamp,FRA-L1,17-18,a6cd0792
+ff0ab48c,Leo Dubois,15,FRA,RB,23-037,90,0,2,0,0,0,0,0,0,73,0,3,0,0.0,0.0,0.1,4,2,40,64,62.5,4,29,6,1,1,Nantes,2017-10-21 Nantes-Guingamp,FRA-L1,17-18,a6cd0792
+b056e3da,Ciprian Tătărușanu,30,ROU,GK,31-254,90,0,0,0,0,0,0,0,0,30,0,0,0,0.0,0.0,0.0,0,0,20,29,69.0,0,20,0,0,0,Nantes,2017-10-21 Nantes-Guingamp,FRA-L1,17-18,a6cd0792
+f83c8d6c,Jimmy Briand,23,FRA,FW,32-080,90,0,0,0,0,2,0,0,0,37,0,0,1,0.1,0.1,0.0,1,0,18,26,69.2,4,18,2,0,0,Guingamp,2017-10-21 Nantes-Guingamp,FRA-L1,17-18,a6cd0792
+30395d3b,Nicolas Benezet,10,FRA,LW,26-239,63,0,0,0,0,0,0,0,0,50,2,0,1,0.0,0.0,0.2,3,0,30,42,71.4,4,25,1,5,3,Guingamp,2017-10-21 Nantes-Guingamp,FRA-L1,17-18,a6cd0792
+3010aefb,Marcus Coco,24,FRA,"RW,LW",21-119,27,0,1,0,0,0,0,0,0,13,0,0,0,0.0,0.0,0.5,1,1,10,13,76.9,4,10,2,0,0,Guingamp,2017-10-21 Nantes-Guingamp,FRA-L1,17-18,a6cd0792
+07296190,Abdoul Camara,9,GUI,"RW,LW",27-243,90,1,0,0,0,4,3,0,0,44,0,1,0,0.6,0.6,0.1,2,0,24,34,70.6,3,27,7,1,0,Guingamp,2017-10-21 Nantes-Guingamp,FRA-L1,17-18,a6cd0792
+6191093d,Ludovic Blas,7,FRA,LM,19-294,90,0,0,0,0,1,0,0,0,65,0,1,1,0.0,0.0,0.0,1,0,48,58,82.8,9,40,0,1,1,Guingamp,2017-10-21 Nantes-Guingamp,FRA-L1,17-18,a6cd0792
+d2aa8ac0,Étienne Didot,17,FRA,CM,34-089,86,0,0,0,0,0,0,0,0,77,3,1,2,0.0,0.0,0.0,2,0,55,68,80.9,3,30,0,0,0,Guingamp,2017-10-21 Nantes-Guingamp,FRA-L1,17-18,a6cd0792
+6c6ecdd4,Mustapha Diallo,5,SEN,CM,31-160,4,0,0,0,0,1,1,0,0,3,0,0,0,0.1,0.1,0.0,0,0,0,1,0.0,0,2,0,0,0,Guingamp,2017-10-21 Nantes-Guingamp,FRA-L1,17-18,a6cd0792
+44f8c299,Lucas Deaux,8,FRA,RM,28-299,90,0,0,0,0,1,0,0,0,61,3,0,4,0.1,0.1,0.0,2,1,34,45,75.6,4,24,1,0,0,Guingamp,2017-10-21 Nantes-Guingamp,FRA-L1,17-18,a6cd0792
+15e1afd5,Franck Tabanou,27,FRA,LB,28-264,90,0,0,0,0,1,0,0,0,80,0,3,0,0.0,0.0,0.0,1,0,49,68,72.1,3,35,4,2,2,Guingamp,2017-10-21 Nantes-Guingamp,FRA-L1,17-18,a6cd0792
+7768df30,Jérémy Sorbon,15,FRA,CB,34-077,90,0,0,0,0,0,0,0,0,63,1,4,0,0.0,0.0,0.0,0,0,46,56,82.1,1,24,0,0,0,Guingamp,2017-10-21 Nantes-Guingamp,FRA-L1,17-18,a6cd0792
+0515a4cb,Christophe Kerbrat,29,FRA,CB,31-080,90,0,0,0,0,0,0,1,0,72,3,7,0,0.0,0.0,0.0,1,0,43,56,76.8,5,31,0,0,0,Guingamp,2017-10-21 Nantes-Guingamp,FRA-L1,17-18,a6cd0792
+8ff4872e,Jordan Ikoko,2,COD,RB,23-260,45,0,0,0,0,0,0,0,0,31,1,0,0,0.0,0.0,0.0,0,0,22,27,81.5,2,11,1,0,0,Guingamp,2017-10-21 Nantes-Guingamp,FRA-L1,17-18,a6cd0792
+167d5018,Félix Eboa Eboa,20,CMR,RB,20-185,45,0,0,0,0,0,0,0,0,40,2,1,0,0.0,0.0,0.0,1,0,24,35,68.6,5,19,1,2,2,Guingamp,2017-10-21 Nantes-Guingamp,FRA-L1,17-18,a6cd0792
+a56bd2ee,Karl-Johan Johnsson,1,SWE,GK,27-266,90,0,0,0,0,0,0,0,0,38,0,0,0,0.0,0.0,0.0,0,0,23,37,62.2,0,19,0,0,0,Guingamp,2017-10-21 Nantes-Guingamp,FRA-L1,17-18,a6cd0792

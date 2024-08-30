@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+49fe9070,Timo Werner,11,GER,FW,22-193,86,2,0,0,0,6,2,0,0,32,0,2,3,0.9,0.9,0.0,1,0,8,13,61.5,1,15,4,2,0,RB Leipzig,2018-09-15 RB Leipzig-Hannover 96,GER-BL1,18-19,2ea0f5ef
+ca8033cb,Lukas Klostermann,16,GER,"CB,FW",22-104,4,0,0,0,0,0,0,0,0,3,1,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,1,0,0,0,RB Leipzig,2018-09-15 RB Leipzig-Hannover 96,GER-BL1,18-19,2ea0f5ef
+d2416c2e,Yussuf Poulsen,9,DEN,FW,24-092,90,1,0,0,0,4,2,0,0,39,0,0,3,1.2,1.2,0.1,4,0,14,25,56.0,1,12,2,0,0,RB Leipzig,2018-09-15 RB Leipzig-Hannover 96,GER-BL1,18-19,2ea0f5ef
+dc3fa3b5,Diego Demme,31,GER,LM,26-298,59,0,0,0,0,1,0,1,0,34,1,0,4,0.0,0.0,0.0,4,1,19,26,73.1,5,12,2,0,0,RB Leipzig,2018-09-15 RB Leipzig-Hannover 96,GER-BL1,18-19,2ea0f5ef
+c1b7847c,Konrad Laimer,27,AUT,"LM,CM,RM",21-111,31,0,0,0,0,1,1,0,0,17,5,0,0,0.0,0.0,0.0,0,0,4,8,50.0,1,5,1,0,0,RB Leipzig,2018-09-15 RB Leipzig-Hannover 96,GER-BL1,18-19,2ea0f5ef
+9a2e0ccc,Emil Forsberg,10,SWE,CM,26-327,73,0,2,0,0,0,0,0,0,21,0,0,0,0.0,0.0,0.4,2,2,11,16,68.8,3,6,0,1,0,RB Leipzig,2018-09-15 RB Leipzig-Hannover 96,GER-BL1,18-19,2ea0f5ef
+e280527c,Marcel Sabitzer,7,AUT,"CM,LM",24-182,17,0,0,0,0,0,0,1,0,16,0,1,1,0.0,0.0,0.1,2,0,9,12,75.0,2,7,1,0,0,RB Leipzig,2018-09-15 RB Leipzig-Hannover 96,GER-BL1,18-19,2ea0f5ef
+b825a650,Kevin Kampl,44,SVN,"RM,CM",27-341,90,0,0,0,0,0,0,1,0,51,1,0,0,0.0,0.0,0.1,3,1,36,47,76.6,5,18,2,1,1,RB Leipzig,2018-09-15 RB Leipzig-Hannover 96,GER-BL1,18-19,2ea0f5ef
+8494acc4,Stefan Ilsanker,13,AUT,"DM,CB,CM",29-120,90,0,0,0,0,0,0,0,0,44,3,1,0,0.0,0.0,0.1,0,0,24,32,75.0,4,13,0,0,0,RB Leipzig,2018-09-15 RB Leipzig-Hannover 96,GER-BL1,18-19,2ea0f5ef
+1c96ad85,Marcelo Saracchi,3,URU,LB,20-145,90,0,0,0,0,0,0,0,0,58,2,2,1,0.0,0.0,0.0,1,0,27,44,61.4,1,16,2,3,1,RB Leipzig,2018-09-15 RB Leipzig-Hannover 96,GER-BL1,18-19,2ea0f5ef
+20030c06,Willi Orban,4,HUN,CB,25-316,90,0,0,0,0,0,0,0,0,32,1,1,3,0.0,0.0,0.0,1,0,15,19,78.9,1,9,0,0,0,RB Leipzig,2018-09-15 RB Leipzig-Hannover 96,GER-BL1,18-19,2ea0f5ef
+5ed9b537,Ibrahima Konaté,6,FRA,CB,19-113,90,0,0,0,0,0,0,0,0,38,3,3,2,0.0,0.0,0.0,0,0,18,25,72.0,1,12,0,0,0,RB Leipzig,2018-09-15 RB Leipzig-Hannover 96,GER-BL1,18-19,2ea0f5ef
+ac73ec79,Nordi Mukiele,22,FRA,RB,20-318,90,0,0,0,0,2,1,1,0,46,1,2,5,0.1,0.1,0.7,3,0,17,25,68.0,1,17,5,2,1,RB Leipzig,2018-09-15 RB Leipzig-Hannover 96,GER-BL1,18-19,2ea0f5ef
+bcb2ccd8,Péter Gulácsi,1,HUN,GK,28-132,90,0,0,0,0,0,0,0,0,26,0,0,0,0.0,0.0,0.0,0,0,10,22,45.5,0,7,0,0,0,RB Leipzig,2018-09-15 RB Leipzig-Hannover 96,GER-BL1,18-19,2ea0f5ef
+4f16405e,Niclas Füllkrug,24,GER,FW,25-218,90,1,0,0,0,3,2,1,0,34,0,0,1,0.6,0.6,0.2,4,1,18,26,69.2,4,11,1,1,0,Hannover 96,2018-09-15 RB Leipzig-Hannover 96,GER-BL1,18-19,2ea0f5ef
+13ddc856,Takuma Asano,11,JPN,LW,23-309,64,0,0,0,0,6,1,0,0,22,1,0,0,0.4,0.4,0.0,2,0,8,11,72.7,1,16,2,2,1,Hannover 96,2018-09-15 RB Leipzig-Hannover 96,GER-BL1,18-19,2ea0f5ef
+f24ea523,Genki Haraguchi,10,JPN,LW,27-129,26,0,0,0,0,1,0,0,0,21,0,1,1,0.0,0.0,0.0,0,0,13,16,81.3,0,10,1,0,0,Hannover 96,2018-09-15 RB Leipzig-Hannover 96,GER-BL1,18-19,2ea0f5ef
+a53b661f,Ihlas Bebou,13,TOG,RW,24-145,90,0,0,0,0,2,1,0,0,41,0,1,2,0.1,0.1,0.1,6,1,18,31,58.1,3,28,4,5,4,Hannover 96,2018-09-15 RB Leipzig-Hannover 96,GER-BL1,18-19,2ea0f5ef
+d459281d,Miiko Albornoz,3,CHI,LM,27-289,90,1,0,0,0,1,1,0,0,86,0,1,1,0.1,0.1,0.0,2,0,62,78,79.5,9,38,0,2,0,Hannover 96,2018-09-15 RB Leipzig-Hannover 96,GER-BL1,18-19,2ea0f5ef
+5528407e,Pirmin Schwegler,27,SUI,CM,31-190,90,0,0,0,0,0,0,0,0,73,2,1,0,0.0,0.0,0.2,4,0,45,66,68.2,5,31,0,0,0,Hannover 96,2018-09-15 RB Leipzig-Hannover 96,GER-BL1,18-19,2ea0f5ef
+26db8853,Walace,8,BRA,CM,23-164,90,0,1,0,0,1,1,0,0,72,0,2,1,0.1,0.1,0.2,5,1,55,64,85.9,3,39,0,1,0,Hannover 96,2018-09-15 RB Leipzig-Hannover 96,GER-BL1,18-19,2ea0f5ef
+e5d85da8,Linton Maina,40,GER,RM,19-084,64,0,0,0,0,0,0,0,0,39,2,0,1,0.0,0.0,0.0,3,0,26,34,76.5,5,18,0,0,0,Hannover 96,2018-09-15 RB Leipzig-Hannover 96,GER-BL1,18-19,2ea0f5ef
+9853983f,Bobby Wood,17,USA,RM,25-304,26,0,0,0,0,0,0,1,0,6,0,0,0,0.0,0.0,0.0,0,0,3,3,100.0,0,6,0,1,0,Hannover 96,2018-09-15 RB Leipzig-Hannover 96,GER-BL1,18-19,2ea0f5ef
+faf55ce4,Kevin Wimmer,28,AUT,CB,25-304,90,0,0,0,0,0,0,0,0,96,1,2,0,0.0,0.0,0.0,1,0,79,92,85.9,2,64,0,0,0,Hannover 96,2018-09-15 RB Leipzig-Hannover 96,GER-BL1,18-19,2ea0f5ef
+5e66fa06,Waldemar Anton,31,GER,CB,22-057,90,0,0,0,0,2,1,1,0,116,0,2,0,0.1,0.1,0.0,1,0,102,109,93.6,5,76,1,1,0,Hannover 96,2018-09-15 RB Leipzig-Hannover 96,GER-BL1,18-19,2ea0f5ef
+541cdd20,Oliver Sorg,25,GER,CB,28-109,86,0,0,0,0,0,0,1,0,72,4,5,4,0.0,0.0,0.0,1,1,47,57,82.5,6,45,2,0,0,Hannover 96,2018-09-15 RB Leipzig-Hannover 96,GER-BL1,18-19,2ea0f5ef
+04c11885,Marvin Bakalorz,6,GER,CB,29-002,4,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,2,0,0,0,Hannover 96,2018-09-15 RB Leipzig-Hannover 96,GER-BL1,18-19,2ea0f5ef
+83e0eeb4,Michael Esser,23,GER,GK,30-297,90,0,0,0,0,0,0,0,0,55,0,0,0,0.0,0.0,0.0,1,0,43,53,81.1,0,32,0,0,0,Hannover 96,2018-09-15 RB Leipzig-Hannover 96,GER-BL1,18-19,2ea0f5ef

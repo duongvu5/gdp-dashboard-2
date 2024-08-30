@@ -1,0 +1,32 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+2c0f8e9e,Alexis Sánchez,70,CHI,"FW,AM",34-146,72,1,1,0,0,3,2,0,0,21,0,0,0,0.9,0.9,0.1,4,2,11,18,61.1,2,17,0,1,1,Marseille,2023-05-14 Marseille-Angers,FRA-L1,22-23,01b6ff4d
+c066d1a5,Issa Kaboré,29,BFA,WB,22-002,18,0,0,0,0,0,0,0,0,5,1,0,0,0.0,0.0,0.0,0,0,3,3,100.0,0,2,0,0,0,Marseille,2023-05-14 Marseille-Angers,FRA-L1,22-23,01b6ff4d
+58ae47b2,Dimitri Payet,10,FRA,AM,36-046,64,1,0,0,0,4,2,0,0,56,0,0,0,0.5,0.5,0.0,2,0,37,46,80.4,5,44,1,6,3,Marseille,2023-05-14 Marseille-Angers,FRA-L1,22-23,01b6ff4d
+74d4cec6,Vitinha,9,POR,FW,23-060,26,0,0,0,0,1,0,0,0,11,1,0,0,0.2,0.2,0.0,0,0,2,5,40.0,0,5,0,1,1,Marseille,2023-05-14 Marseille-Angers,FRA-L1,22-23,01b6ff4d
+48d5bd33,Ruslan Malinovskyi,18,UKR,AM,30-010,90,0,0,0,0,1,0,0,0,48,2,0,1,0.0,0.0,0.0,0,0,36,42,85.7,5,36,3,3,3,Marseille,2023-05-14 Marseille-Angers,FRA-L1,22-23,01b6ff4d
+4a56052c,Jordan Veretout,27,FRA,CM,30-074,90,1,0,1,1,1,0,0,0,93,2,1,1,0.9,0.1,0.1,1,0,78,85,91.8,11,78,2,1,1,Marseille,2023-05-14 Marseille-Angers,FRA-L1,22-23,01b6ff4d
+5ea8ef20,Mattéo Guendouzi,6,FRA,CM,24-030,72,0,0,0,0,0,0,0,0,54,2,0,2,0.0,0.0,0.0,0,0,43,48,89.6,6,45,2,0,0,Marseille,2023-05-14 Marseille-Angers,FRA-L1,22-23,01b6ff4d
+e76cb9cc,Chancel Mbemba,99,COD,CB,28-279,18,0,0,0,0,0,0,0,0,9,1,0,0,0.0,0.0,0.0,0,0,6,8,75.0,0,7,1,0,0,Marseille,2023-05-14 Marseille-Angers,FRA-L1,22-23,01b6ff4d
+5219ab4a,Jonathan Clauss,7,FRA,WB,30-231,64,0,1,0,0,0,0,0,0,40,1,1,2,0.0,0.0,0.9,3,1,26,33,78.8,2,31,1,3,2,Marseille,2023-05-14 Marseille-Angers,FRA-L1,22-23,01b6ff4d
+a65c844b,Nuno Tavares,30,POR,WB,23-108,26,0,0,0,0,0,0,1,0,11,1,0,0,0.0,0.0,0.0,1,0,6,9,66.7,3,8,1,1,1,Marseille,2023-05-14 Marseille-Angers,FRA-L1,22-23,01b6ff4d
+1880614f,Cengiz Ünder,17,TUR,"WB,AM",25-304,90,0,0,0,0,1,0,0,0,61,2,0,0,0.1,0.1,0.5,6,0,40,49,81.6,9,43,3,3,0,Marseille,2023-05-14 Marseille-Angers,FRA-L1,22-23,01b6ff4d
+3935e52e,Sead Kolašinac,23,BIH,CB,29-328,82,0,0,0,0,0,0,0,0,60,2,3,0,0.0,0.0,0.0,1,1,42,50,84.0,2,49,1,1,0,Marseille,2023-05-14 Marseille-Angers,FRA-L1,22-23,01b6ff4d
+a1232f4e,Eric Bailly,3,CIV,CB,29-032,8,0,0,0,0,0,0,0,0,7,2,0,0,0.0,0.0,0.0,0,0,4,5,80.0,0,3,0,0,0,Marseille,2023-05-14 Marseille-Angers,FRA-L1,22-23,01b6ff4d
+7c3ed041,Leonardo Balerdi,5,ARG,CB,24-108,90,0,0,0,0,1,0,0,0,84,0,5,1,0.1,0.1,0.0,1,1,58,70,82.9,2,59,0,0,0,Marseille,2023-05-14 Marseille-Angers,FRA-L1,22-23,01b6ff4d
+ed45c4a5,Valentin Rongier,21,FRA,"CB,CM",28-158,90,0,0,0,0,1,1,0,0,81,4,0,1,0.2,0.2,0.1,3,0,66,73,90.4,9,68,2,1,1,Marseille,2023-05-14 Marseille-Angers,FRA-L1,22-23,01b6ff4d
+20b9f052,Pau López,16,ESP,GK,28-152,90,0,0,0,0,0,0,0,0,30,0,0,0,0.0,0.0,0.0,0,0,23,30,76.7,0,25,0,0,0,Marseille,2023-05-14 Marseille-Angers,FRA-L1,22-23,01b6ff4d
+46faabfa,Ibrahima Niane,7,SEN,FW,24-064,82,0,0,0,0,1,0,1,0,36,1,0,0,0.1,0.1,0.0,1,1,16,20,80.0,0,27,0,2,0,Angers,2023-05-14 Marseille-Angers,FRA-L1,22-23,01b6ff4d
+70d4c949,Jean Mattéo Bahoya,24,FRA,FW,18-007,8,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,3,0,1,0,Angers,2023-05-14 Marseille-Angers,FRA-L1,22-23,01b6ff4d
+fdbde523,Abdallah Sima,19,SEN,FW,21-331,90,1,0,0,0,1,1,0,0,18,2,1,0,0.2,0.2,0.0,0,0,7,9,77.8,0,16,1,2,0,Angers,2023-05-14 Marseille-Angers,FRA-L1,22-23,01b6ff4d
+7978cbf0,Himad Abdelli,10,ALG,CM,23-178,90,0,1,0,0,0,0,0,0,48,3,3,0,0.0,0.0,0.2,1,1,27,38,71.1,2,34,1,2,0,Angers,2023-05-14 Marseille-Angers,FRA-L1,22-23,01b6ff4d
+e472a6f6,Batista Mendy,2,FRA,CM,23-122,86,0,0,0,0,0,0,0,0,39,1,0,0,0.0,0.0,0.0,0,0,26,34,76.5,3,29,1,1,0,Angers,2023-05-14 Marseille-Angers,FRA-L1,22-23,01b6ff4d
+d14229f3,Adrien Hunou,23,FRA,CM,29-115,4,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,5,5,100.0,0,4,0,0,0,Angers,2023-05-14 Marseille-Angers,FRA-L1,22-23,01b6ff4d
+3189f61a,Nabil Bentaleb,6,ALG,CM,28-171,90,0,0,0,0,1,0,1,0,65,2,2,0,0.0,0.0,0.1,2,0,48,55,87.3,3,39,0,0,0,Angers,2023-05-14 Marseille-Angers,FRA-L1,22-23,01b6ff4d
+32e2163d,Justin-Noël Kalumba,17,FRA,LB,18-140,82,0,0,0,0,0,0,0,0,22,1,0,1,0.0,0.0,0.0,1,0,14,17,82.4,1,18,3,3,1,Angers,2023-05-14 Marseille-Angers,FRA-L1,22-23,01b6ff4d
+8299e363,Halid Šabanović,4,BIH,LB,23-265,8,0,0,0,0,0,0,0,0,6,0,0,1,0.0,0.0,0.0,0,0,4,5,80.0,0,4,0,0,0,Angers,2023-05-14 Marseille-Angers,FRA-L1,22-23,01b6ff4d
+7fecbcdb,Abdoulaye Bamba,25,CIV,CB,33-019,90,0,0,0,0,0,0,0,0,45,0,0,0,0.0,0.0,0.0,0,0,36,39,92.3,1,30,1,1,0,Angers,2023-05-14 Marseille-Angers,FRA-L1,22-23,01b6ff4d
+3cdfc63e,Miha Blažič,5,SVN,CB,30-006,90,0,0,0,0,0,0,0,0,25,1,1,1,0.0,0.0,0.0,0,0,11,13,84.6,2,5,0,0,0,Angers,2023-05-14 Marseille-Angers,FRA-L1,22-23,01b6ff4d
+531a4aa8,Yan Valery,94,TUN,CB,24-081,90,0,0,0,0,1,0,0,0,44,1,2,0,0.1,0.1,0.0,1,0,21,34,61.8,1,29,2,1,1,Angers,2023-05-14 Marseille-Angers,FRA-L1,22-23,01b6ff4d
+f4bc42b1,Sada Thioub,92,SEN,RB,27-347,90,0,0,0,0,0,0,0,0,48,2,2,1,0.0,0.0,0.0,2,0,30,41,73.2,0,33,3,5,3,Angers,2023-05-14 Marseille-Angers,FRA-L1,22-23,01b6ff4d
+28dabd43,Paul Bernardoni,1,FRA,GK,26-026,90,0,0,0,0,0,0,0,0,40,0,0,0,0.0,0.0,0.0,0,0,12,37,32.4,0,21,0,0,0,Angers,2023-05-14 Marseille-Angers,FRA-L1,22-23,01b6ff4d

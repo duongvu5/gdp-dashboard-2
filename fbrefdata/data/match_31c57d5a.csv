@@ -1,0 +1,29 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+cc83b74d,Kasper Dolberg,9,DEN,FW,22-110,90,1,0,0,0,6,2,0,0,27,1,0,0,0.9,0.9,0.0,4,0,7,10,70.0,0,12,0,2,1,Nice,2020-01-24 Nice-Rennes,FRA-L1,19-20,31c57d5a
+741418c3,Alexis Claude-Maurice,18,FRA,FW,21-232,90,0,0,0,0,2,0,0,0,34,0,0,0,0.3,0.3,0.0,3,0,21,25,84.0,3,28,1,4,3,Nice,2020-01-24 Nice-Rennes,FRA-L1,19-20,31c57d5a
+ed90babd,Adam Ounas,10,ALG,LM,23-074,90,0,0,0,0,0,0,0,0,62,1,2,1,0.0,0.0,0.6,11,0,39,50,78.0,8,31,3,7,5,Nice,2020-01-24 Nice-Rennes,FRA-L1,19-20,31c57d5a
+3e092724,Wylan Cyprien,25,FRA,CM,24-361,90,0,0,0,0,3,1,0,0,74,1,1,2,0.1,0.1,0.2,8,0,53,64,82.8,11,33,3,3,3,Nice,2020-01-24 Nice-Rennes,FRA-L1,19-20,31c57d5a
+f5044e54,Pierre Lees-Melou,8,FRA,CM,26-244,90,0,1,0,0,8,0,0,0,49,2,2,2,0.3,0.3,0.7,4,1,26,33,78.8,5,30,2,2,2,Nice,2020-01-24 Nice-Rennes,FRA-L1,19-20,31c57d5a
+706a60e1,Myziane Maolida,7,COM,RM,20-344,73,0,0,0,0,2,0,0,0,42,1,2,0,0.4,0.4,0.0,2,0,26,35,74.3,4,29,4,2,1,Nice,2020-01-24 Nice-Rennes,FRA-L1,19-20,31c57d5a
+23c63b7f,Ignatius Ganago,14,CMR,RM,20-342,17,0,0,0,0,0,0,0,0,15,0,1,0,0.0,0.0,0.0,1,0,8,13,61.5,0,8,0,1,0,Nice,2020-01-24 Nice-Rennes,FRA-L1,19-20,31c57d5a
+4315f30d,Malang Sarr,23,FRA,LB,21-001,73,0,0,0,0,1,0,0,0,61,4,2,0,0.0,0.0,0.0,2,0,46,51,90.2,3,30,0,0,0,Nice,2020-01-24 Nice-Rennes,FRA-L1,19-20,31c57d5a
+61590953,Stanley N'Soki,2,FRA,LB,20-290,17,0,0,0,0,0,0,0,0,20,3,3,0,0.0,0.0,0.0,0,0,12,14,85.7,0,10,0,1,0,Nice,2020-01-24 Nice-Rennes,FRA-L1,19-20,31c57d5a
+fd2bc67d,Dante,4,BRA,CB,36-098,90,0,0,0,0,1,1,0,0,88,1,0,0,0.1,0.1,0.0,0,0,70,81,86.4,4,55,0,1,1,Nice,2020-01-24 Nice-Rennes,FRA-L1,19-20,31c57d5a
+0557ff4f,Danilo Barbosa,21,BRA,CB,23-330,90,0,0,0,0,0,0,0,0,60,1,3,5,0.0,0.0,0.0,2,0,47,49,95.9,2,28,0,0,0,Nice,2020-01-24 Nice-Rennes,FRA-L1,19-20,31c57d5a
+3681cfff,Christophe Hérelle,29,MTQ,RB,27-155,90,0,0,0,0,0,0,0,0,84,2,2,0,0.0,0.0,0.0,3,1,67,76,88.2,9,43,2,0,0,Nice,2020-01-24 Nice-Rennes,FRA-L1,19-20,31c57d5a
+8a2248b4,Walter Benítez,40,ARG,GK,27-005,90,0,0,0,0,0,0,0,0,29,0,0,0,0.0,0.0,0.0,0,0,21,25,84.0,0,13,0,0,0,Nice,2020-01-24 Nice-Rennes,FRA-L1,19-20,31c57d5a
+2054d037,M'Baye Niang,11,SEN,FW,25-036,90,0,0,0,0,5,2,0,0,39,1,0,1,0.6,0.6,0.1,5,1,18,25,72.0,3,26,2,2,2,Rennes,2020-01-24 Nice-Rennes,FRA-L1,19-20,31c57d5a
+d14229f3,Adrien Hunou,23,FRA,FW,26-005,75,0,0,0,0,0,0,0,0,23,2,1,3,0.0,0.0,0.1,2,0,12,17,70.6,1,16,2,0,0,Rennes,2020-01-24 Nice-Rennes,FRA-L1,19-20,31c57d5a
+6be41a31,Yann Gboho,34,FRA,AM,19-010,15,0,0,0,0,1,0,0,0,10,1,0,0,0.1,0.1,0.0,1,0,3,4,75.0,1,6,1,2,1,Rennes,2020-01-24 Nice-Rennes,FRA-L1,19-20,31c57d5a
+a0f9b535,Flavien Tait,20,FRA,"LM,LW",26-356,90,1,0,0,0,3,1,0,0,55,1,1,0,0.6,0.6,0.2,9,0,37,45,82.2,13,35,8,2,1,Rennes,2020-01-24 Nice-Rennes,FRA-L1,19-20,31c57d5a
+7cf431a5,James Lea Siliki,12,CMR,"CM,DM",23-226,90,0,0,0,0,1,0,1,0,38,3,0,0,0.1,0.1,0.0,0,0,24,29,82.8,3,24,0,1,1,Rennes,2020-01-24 Nice-Rennes,FRA-L1,19-20,31c57d5a
+7b9c2d84,Eduardo Camavinga,18,FRA,"CM,DM",17-075,90,0,0,0,0,0,0,0,0,50,4,1,2,0.0,0.0,0.0,1,0,34,37,91.9,4,34,3,1,0,Rennes,2020-01-24 Nice-Rennes,FRA-L1,19-20,31c57d5a
+3423f250,Raphinha,7,BRA,"RM,RW",23-041,90,0,0,0,0,4,1,0,0,57,0,2,1,0.6,0.6,0.7,10,0,28,43,65.1,6,41,8,9,4,Rennes,2020-01-24 Nice-Rennes,FRA-L1,19-20,31c57d5a
+e54a9890,Faitout Maouassa,17,FRA,LB,21-202,26,0,0,0,0,0,0,0,0,14,1,1,0,0.0,0.0,0.0,0,0,5,9,55.6,0,7,0,0,0,Rennes,2020-01-24 Nice-Rennes,FRA-L1,19-20,31c57d5a
+6043997c,Gerzino Nyamsi,4,FRA,CB,23-002,23,0,0,0,0,0,0,0,0,12,0,0,0,0.0,0.0,0.0,0,0,8,8,100.0,0,8,0,0,0,Rennes,2020-01-24 Nice-Rennes,FRA-L1,19-20,31c57d5a
+4c700f46,Jérémy Gélin,26,FRA,CB,22-275,41,0,0,0,0,1,0,0,0,36,1,1,2,0.3,0.3,0.0,0,0,26,29,89.7,2,23,0,0,0,Rennes,2020-01-24 Nice-Rennes,FRA-L1,19-20,31c57d5a
+e97150c0,Jérémy Morel,15,MAD,"LB,CB",35-297,90,0,0,0,0,4,1,0,0,68,1,0,4,0.2,0.2,0.7,2,0,48,54,88.9,5,34,0,1,0,Rennes,2020-01-24 Nice-Rennes,FRA-L1,19-20,31c57d5a
+1232e1dc,Joris Gnagnon,21,FRA,CB,23-011,90,0,0,0,0,0,0,0,0,52,2,0,2,0.0,0.0,0.0,0,0,39,40,97.5,3,38,1,2,2,Rennes,2020-01-24 Nice-Rennes,FRA-L1,19-20,31c57d5a
+6c8ddd52,Sacha Boey,31,FRA,RB,19-133,90,0,0,0,0,1,0,0,0,60,5,1,0,0.1,0.1,0.1,3,0,40,50,80.0,3,36,2,0,0,Rennes,2020-01-24 Nice-Rennes,FRA-L1,19-20,31c57d5a
+33887998,Edouard Mendy,16,SEN,GK,27-329,90,0,0,0,0,0,0,0,0,34,0,0,0,0.0,0.0,0.0,0,0,24,34,70.6,0,20,0,0,0,Rennes,2020-01-24 Nice-Rennes,FRA-L1,19-20,31c57d5a

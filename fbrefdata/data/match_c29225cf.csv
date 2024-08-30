@@ -1,0 +1,29 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+791af558,Raffael,11,BRA,FW,33-221,63,0,0,0,0,0,0,0,0,31,1,0,1,0.0,0.0,0.5,7,0,19,24,79.2,2,20,2,2,2,Mönchengladbach,2018-11-04 Gladbach-Düsseldorf,GER-BL1,18-19,c29225cf
+76e5da9d,Fabian Johnson,19,USA,"LM,FW",30-328,27,0,0,0,0,0,0,0,0,18,0,0,0,0.0,0.0,0.0,0,0,12,14,85.7,4,14,1,1,0,Mönchengladbach,2018-11-04 Gladbach-Düsseldorf,GER-BL1,18-19,c29225cf
+bc6bd723,Alassane Pléa,14,FRA,"LM,FW",25-239,90,0,1,0,0,5,0,1,0,48,0,1,2,0.5,0.5,0.1,6,2,27,33,81.8,4,41,1,1,1,Mönchengladbach,2018-11-04 Gladbach-Düsseldorf,GER-BL1,18-19,c29225cf
+2903a856,Jonas Hofmann,23,GER,CM,26-113,84,1,0,0,0,1,1,0,0,77,0,0,3,0.4,0.4,0.0,3,0,54,69,78.3,10,59,7,1,0,Mönchengladbach,2018-11-04 Gladbach-Düsseldorf,GER-BL1,18-19,c29225cf
+7cd6badb,Lars Stindl,13,GER,CM,30-070,6,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,5,6,83.3,1,5,1,0,0,Mönchengladbach,2018-11-04 Gladbach-Düsseldorf,GER-BL1,18-19,c29225cf
+36a59ba4,Florian Neuhaus,32,GER,CM,21-233,90,0,1,0,0,5,1,0,0,55,1,0,1,1.0,1.0,0.5,7,2,37,44,84.1,7,38,5,2,2,Mönchengladbach,2018-11-04 Gladbach-Düsseldorf,GER-BL1,18-19,c29225cf
+50871bcc,Thorgan Hazard,10,BEL,RM,25-220,90,2,0,1,1,3,3,0,0,59,0,0,0,0.9,0.1,0.3,4,0,29,46,63.0,7,42,8,3,2,Mönchengladbach,2018-11-04 Gladbach-Düsseldorf,GER-BL1,18-19,c29225cf
+17780d2b,Tobias Strobl,5,GER,DM,28-176,90,0,0,0,0,1,0,0,0,64,0,4,0,0.1,0.1,0.0,1,0,49,55,89.1,11,34,0,0,0,Mönchengladbach,2018-11-04 Gladbach-Düsseldorf,GER-BL1,18-19,c29225cf
+b69261a0,Oscar Wendt,17,SWE,LB,33-011,90,0,0,0,0,1,1,0,0,80,3,0,4,0.0,0.0,0.5,3,0,59,66,89.4,6,47,0,0,0,Mönchengladbach,2018-11-04 Gladbach-Düsseldorf,GER-BL1,18-19,c29225cf
+48035304,Nico Elvedi,30,SUI,CB,22-035,45,0,0,0,0,0,0,0,0,34,0,3,1,0.0,0.0,0.0,0,0,27,30,90.0,3,21,0,1,1,Mönchengladbach,2018-11-04 Gladbach-Düsseldorf,GER-BL1,18-19,c29225cf
+34b54da7,Tony Jantschke,24,GER,CB,28-211,45,0,0,0,0,1,0,0,0,58,1,1,0,0.1,0.1,0.0,0,0,53,53,100.0,0,49,0,0,0,Mönchengladbach,2018-11-04 Gladbach-Düsseldorf,GER-BL1,18-19,c29225cf
+f521b80a,Matthias Ginter,28,GER,CB,24-289,90,0,0,0,0,1,0,0,0,78,1,3,0,0.1,0.1,0.0,1,1,64,69,92.8,7,58,2,0,0,Mönchengladbach,2018-11-04 Gladbach-Düsseldorf,GER-BL1,18-19,c29225cf
+864db10a,Michael Lang,3,SUI,RB,27-269,90,0,0,0,0,1,0,0,0,59,0,2,0,0.1,0.1,0.0,0,0,42,49,85.7,5,30,1,1,0,Mönchengladbach,2018-11-04 Gladbach-Düsseldorf,GER-BL1,18-19,c29225cf
+420c18a1,Yann Sommer,1,SUI,GK,29-322,90,0,0,0,0,0,0,0,0,42,0,0,0,0.0,0.0,0.0,0,0,35,38,92.1,0,25,0,0,0,Mönchengladbach,2018-11-04 Gladbach-Düsseldorf,GER-BL1,18-19,c29225cf
+17611373,Rouwen Hennings,28,GER,FW,31-068,90,0,0,0,0,5,2,0,0,29,2,0,0,0.4,0.4,0.0,2,0,8,20,40.0,1,13,2,0,0,Düsseldorf,2018-11-04 Gladbach-Düsseldorf,GER-BL1,18-19,c29225cf
+638a4d71,Marvin Ducksch,10,GER,FW,24-242,65,0,0,0,0,0,0,0,0,26,0,0,0,0.0,0.0,0.0,1,0,10,20,50.0,4,13,1,1,0,Düsseldorf,2018-11-04 Gladbach-Düsseldorf,GER-BL1,18-19,c29225cf
+8f0f2230,Kenan Karaman,11,TUR,FW,24-244,25,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,3,5,60.0,0,3,1,0,0,Düsseldorf,2018-11-04 Gladbach-Düsseldorf,GER-BL1,18-19,c29225cf
+2bed2986,Takashi Usami,33,JPN,AM,26-182,77,0,0,0,0,1,0,0,0,33,3,0,3,0.0,0.0,0.1,4,0,17,23,73.9,4,20,0,1,1,Düsseldorf,2018-11-04 Gladbach-Düsseldorf,GER-BL1,18-19,c29225cf
+58007d77,Davor Lovren,19,CRO,AM,20-032,13,0,0,0,0,1,1,0,0,2,0,0,0,0.0,0.0,0.0,1,0,1,1,100.0,1,2,0,0,0,Düsseldorf,2018-11-04 Gladbach-Düsseldorf,GER-BL1,18-19,c29225cf
+0c61c77c,Dodi Lukebakio,20,BEL,AM,21-041,90,0,0,0,0,4,2,1,0,42,3,0,0,0.2,0.2,0.0,5,0,15,28,53.6,1,27,6,12,8,Düsseldorf,2018-11-04 Gladbach-Düsseldorf,GER-BL1,18-19,c29225cf
+ff45add5,Alfredo Morales,6,USA,DM,28-176,90,0,0,0,0,1,1,0,0,53,3,1,2,0.0,0.0,0.0,1,0,35,40,87.5,2,29,1,0,0,Düsseldorf,2018-11-04 Gladbach-Düsseldorf,GER-BL1,18-19,c29225cf
+e199d5b0,Matthias Zimmermann,25,GER,DM,26-141,90,0,0,0,0,0,0,0,0,65,3,1,1,0.0,0.0,0.0,2,0,51,61,83.6,2,45,1,1,1,Düsseldorf,2018-11-04 Gladbach-Düsseldorf,GER-BL1,18-19,c29225cf
+7242b495,Niko Gießelmann,23,GER,LB,27-039,90,0,0,0,0,0,0,0,0,49,3,0,0,0.0,0.0,0.3,2,0,34,38,89.5,1,23,0,0,0,Düsseldorf,2018-11-04 Gladbach-Düsseldorf,GER-BL1,18-19,c29225cf
+d728acae,Robin Bormuth,32,GER,CB,23-046,90,0,0,0,0,0,0,0,0,76,1,2,0,0.0,0.0,0.0,0,0,59,65,90.8,1,51,0,0,0,Düsseldorf,2018-11-04 Gladbach-Düsseldorf,GER-BL1,18-19,c29225cf
+2200181e,Kaan Ayhan,5,TUR,CB,23-359,90,0,0,0,0,1,0,1,0,87,2,5,2,0.0,0.0,0.0,3,0,61,72,84.7,5,57,0,2,2,Düsseldorf,2018-11-04 Gladbach-Düsseldorf,GER-BL1,18-19,c29225cf
+912e63b5,Jean Zimmer,39,GER,RB,24-333,90,0,0,0,0,0,0,0,0,52,2,2,1,0.0,0.0,0.2,4,0,27,40,67.5,5,23,4,1,0,Düsseldorf,2018-11-04 Gladbach-Düsseldorf,GER-BL1,18-19,c29225cf
+c476b0c0,Michael Rensing,1,GER,GK,34-174,90,0,0,0,0,0,0,0,0,32,0,0,0,0.0,0.0,0.0,0,0,20,29,69.0,0,16,0,0,0,Düsseldorf,2018-11-04 Gladbach-Düsseldorf,GER-BL1,18-19,c29225cf

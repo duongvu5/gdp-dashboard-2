@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+bfdb33aa,Ismaila Sarr,7,SEN,"FW,RW",20-245,90,0,0,0,0,1,0,1,0,34,1,1,0,0.1,0.1,0.0,0,0,11,22,50.0,2,26,6,7,6,Rennes,2018-10-28 Rennes-Reims,FRA-L1,18-19,cc86cdf3
+0be95d34,Romain Del Castillo,22,FRA,"LW,RW",22-213,55,0,0,0,0,0,0,0,0,27,0,0,1,0.0,0.0,0.0,0,0,13,20,65.0,2,13,0,2,0,Rennes,2018-10-28 Rennes-Reims,FRA-L1,18-19,cc86cdf3
+2054d037,M'Baye Niang,11,SEN,"FW,RW",23-313,35,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,2,0,5,5,100.0,1,4,0,2,1,Rennes,2018-10-28 Rennes-Reims,FRA-L1,18-19,cc86cdf3
+20e73fac,Benjamin Bourigeaud,14,FRA,"LW,RW",24-287,90,0,0,0,0,0,0,1,0,61,1,1,1,0.0,0.0,0.0,4,0,34,47,72.3,5,28,2,3,0,Rennes,2018-10-28 Rennes-Reims,FRA-L1,18-19,cc86cdf3
+74dc806c,Hatem Ben Arfa,18,FRA,AM,31-235,69,0,0,0,0,3,2,0,0,40,0,0,0,0.1,0.1,0.0,0,0,21,31,67.7,3,27,3,7,3,Rennes,2018-10-28 Rennes-Reims,FRA-L1,18-19,cc86cdf3
+7cf431a5,James Lea Siliki,12,CMR,DM,22-138,21,0,0,0,0,1,0,0,0,19,1,0,1,0.0,0.0,0.0,2,0,7,16,43.8,1,10,0,0,0,Rennes,2018-10-28 Rennes-Reims,FRA-L1,18-19,cc86cdf3
+ef9c1c95,Benjamin André,21,FRA,DM,28-086,90,0,0,0,0,2,2,0,0,70,1,0,3,0.2,0.2,0.1,3,0,48,60,80.0,16,33,4,0,0,Rennes,2018-10-28 Rennes-Reims,FRA-L1,18-19,cc86cdf3
+8b298f56,Clément Grenier,8,FRA,"DM,AM",27-294,90,0,0,0,0,2,0,0,0,100,3,1,0,0.1,0.1,0.1,5,0,75,93,80.6,15,48,0,3,2,Rennes,2018-10-28 Rennes-Reims,FRA-L1,18-19,cc86cdf3
+378825c7,Ramy Bensebaini,15,ALG,LB,23-195,90,0,0,0,0,1,0,1,0,77,1,2,1,0.0,0.0,0.1,4,0,58,69,84.1,7,40,2,1,0,Rennes,2018-10-28 Rennes-Reims,FRA-L1,18-19,cc86cdf3
+1ec7e1c5,Damien Da Silva,3,FRA,CB,30-164,90,0,0,0,0,0,0,0,0,79,1,4,0,0.0,0.0,0.0,1,0,62,68,91.2,3,41,1,0,0,Rennes,2018-10-28 Rennes-Reims,FRA-L1,18-19,cc86cdf3
+4c700f46,Jérémy Gélin,26,FRA,CB,21-187,90,0,0,0,0,0,0,0,0,92,0,0,0,0.0,0.0,0.0,0,0,79,90,87.8,6,56,0,1,1,Rennes,2018-10-28 Rennes-Reims,FRA-L1,18-19,cc86cdf3
+a4b1028a,Hamari Traoré,27,MLI,RB,26-274,90,0,0,0,0,1,1,0,0,92,2,2,1,0.0,0.0,0.0,1,0,72,83,86.7,10,33,0,2,2,Rennes,2018-10-28 Rennes-Reims,FRA-L1,18-19,cc86cdf3
+26383ea5,Abdoulaye Diallo,16,SEN,GK,26-212,45,0,0,0,0,0,0,0,0,19,1,0,0,0.0,0.0,0.0,0,0,14,18,77.8,0,8,0,0,0,Rennes,2018-10-28 Rennes-Reims,FRA-L1,18-19,cc86cdf3
+dc366c36,Tomáš Koubek,40,CZE,GK,26-063,45,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,4,7,57.1,0,1,0,0,0,Rennes,2018-10-28 Rennes-Reims,FRA-L1,18-19,cc86cdf3
+4207e578,Pablo Chavarría,12,ARG,FW,30-299,90,0,0,0,0,0,0,0,0,27,2,0,0,0.0,0.0,0.0,1,0,10,17,58.8,0,14,1,1,0,Reims,2018-10-28 Rennes-Reims,FRA-L1,18-19,cc86cdf3
+6481421d,Moussa Doumbia,25,MLI,LW,24-074,69,0,0,0,0,1,1,0,0,31,1,1,0,0.0,0.0,0.0,2,1,15,22,68.2,6,25,2,2,2,Reims,2018-10-28 Rennes-Reims,FRA-L1,18-19,cc86cdf3
+2a657da0,Mathieu Cafaro,24,FRA,LW,21-217,21,0,0,0,0,0,0,0,0,5,1,0,0,0.0,0.0,0.0,0,0,1,3,33.3,0,3,0,0,0,Reims,2018-10-28 Rennes-Reims,FRA-L1,18-19,cc86cdf3
+ea02beaf,Remi Oudin,18,FRA,RW,21-344,80,2,0,0,0,3,2,1,0,26,3,1,1,0.2,0.2,0.0,1,0,5,12,41.7,3,12,1,2,0,Reims,2018-10-28 Rennes-Reims,FRA-L1,18-19,cc86cdf3
+df819670,Aly Ndom,17,FRA,RW,22-151,10,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,2,0,0,0,Reims,2018-10-28 Rennes-Reims,FRA-L1,18-19,cc86cdf3
+f4319ee8,Marvin Martin,8,FRA,AM,30-291,60,0,1,0,0,0,0,0,0,25,0,0,1,0.0,0.0,0.2,3,2,12,17,70.6,2,18,1,1,0,Reims,2018-10-28 Rennes-Reims,FRA-L1,18-19,cc86cdf3
+92b56413,Tristan Dingomé,20,CMR,AM,27-253,30,0,0,0,0,0,0,0,0,11,1,0,0,0.0,0.0,0.0,0,0,5,8,62.5,0,6,0,1,1,Reims,2018-10-28 Rennes-Reims,FRA-L1,18-19,cc86cdf3
+279ddf6a,Xavier Chavalerin,7,FRA,DM,27-235,90,0,1,0,0,1,0,0,0,40,2,0,2,0.0,0.0,0.0,2,1,19,32,59.4,4,17,1,0,0,Reims,2018-10-28 Rennes-Reims,FRA-L1,18-19,cc86cdf3
+0aa874f4,Alaixys Romao,4,TOG,DM,34-283,90,0,0,0,0,1,0,0,0,47,5,1,1,0.0,0.0,0.0,1,0,21,32,65.6,1,24,0,3,2,Reims,2018-10-28 Rennes-Reims,FRA-L1,18-19,cc86cdf3
+6b2c894b,Ghislain Konan,3,CIV,LB,22-305,90,0,0,0,0,0,0,0,0,54,4,2,0,0.0,0.0,0.0,1,0,31,43,72.1,4,24,1,0,0,Reims,2018-10-28 Rennes-Reims,FRA-L1,18-19,cc86cdf3
+32c2d95f,Yunis Abdelhamid,5,MAR,CB,31-030,90,0,0,0,0,0,0,0,0,44,1,2,0,0.0,0.0,0.0,0,0,19,28,67.9,0,18,0,0,0,Reims,2018-10-28 Rennes-Reims,FRA-L1,18-19,cc86cdf3
+4fdf1fd9,Björn Engels,2,BEL,CB,24-043,90,0,0,0,0,0,0,0,0,43,1,1,2,0.0,0.0,0.0,0,0,16,24,66.7,1,9,0,0,0,Reims,2018-10-28 Rennes-Reims,FRA-L1,18-19,cc86cdf3
+90eb507d,Thomas Foket,32,BEL,RB,24-033,90,0,0,0,0,0,0,1,0,40,3,2,2,0.0,0.0,0.0,0,0,18,32,56.3,0,11,0,0,0,Reims,2018-10-28 Rennes-Reims,FRA-L1,18-19,cc86cdf3
+33887998,Edouard Mendy,16,SEN,GK,26-241,90,0,0,0,0,0,0,0,0,40,0,0,0,0.0,0.0,0.0,0,0,10,35,28.6,0,16,0,0,0,Reims,2018-10-28 Rennes-Reims,FRA-L1,18-19,cc86cdf3

@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+8d78e732,Robert Lewandowski,9,POL,FW,32-106,90,0,0,0,0,2,1,0,0,27,1,0,0,0.2,0.2,0.0,2,1,14,20,70.0,2,13,0,1,0,Bayern Munich,2020-12-05 Bayern Munich-RB Leipzig,GER-BL1,20-21,c8992842
+042e8a49,Kingsley Coman,29,FRA,LW,24-175,82,0,3,0,0,2,0,0,0,43,0,0,0,0.1,0.1,0.7,3,3,31,37,83.8,4,30,2,0,0,Bayern Munich,2020-12-05 Bayern Munich-RB Leipzig,GER-BL1,20-21,c8992842
+4fa7cb9b,Douglas Costa,11,BRA,LW,30-082,8,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,1,0,6,10,60.0,2,7,0,0,0,Bayern Munich,2020-12-05 Bayern Munich-RB Leipzig,GER-BL1,20-21,c8992842
+2b114be3,Leroy Sané,10,GER,RW,24-329,63,0,0,0,0,0,0,0,0,30,0,0,4,0.0,0.0,0.0,1,0,12,19,63.2,3,12,4,2,1,Bayern Munich,2020-12-05 Bayern Munich-RB Leipzig,GER-BL1,20-21,c8992842
+88e357ef,Serge Gnabry,7,GER,RW,25-144,27,0,0,0,0,1,0,0,0,21,0,0,0,0.0,0.0,0.0,0,0,12,18,66.7,0,11,2,0,0,Bayern Munich,2020-12-05 Bayern Munich-RB Leipzig,GER-BL1,20-21,c8992842
+3c6089ab,Thomas Müller,25,GER,AM,31-083,90,2,0,0,0,2,2,0,0,62,1,1,2,0.7,0.7,0.2,3,1,34,53,64.2,3,31,2,0,0,Bayern Munich,2020-12-05 Bayern Munich-RB Leipzig,GER-BL1,20-21,c8992842
+7f97771d,Javi Martínez,8,ESP,DM,32-094,24,0,0,0,0,0,0,0,0,20,1,1,0,0.0,0.0,0.0,0,0,14,17,82.4,3,12,0,0,0,Bayern Munich,2020-12-05 Bayern Munich-RB Leipzig,GER-BL1,20-21,c8992842
+2c0558b8,Jamal Musiala,42,GER,DM,17-283,66,1,0,0,0,1,1,0,0,60,0,0,0,0.0,0.0,0.0,3,1,38,52,73.1,3,40,1,2,2,Bayern Munich,2020-12-05 Bayern Munich-RB Leipzig,GER-BL1,20-21,c8992842
+cc86b9a3,Leon Goretzka,18,GER,DM,25-303,90,0,0,0,0,0,0,0,0,62,2,0,1,0.0,0.0,0.0,0,0,50,56,89.3,7,39,0,0,0,Bayern Munich,2020-12-05 Bayern Munich-RB Leipzig,GER-BL1,20-21,c8992842
+05439de2,David Alaba,27,AUT,LB,28-164,90,0,0,0,0,0,0,0,0,84,2,2,0,0.0,0.0,0.0,0,0,56,79,70.9,6,49,0,2,2,Bayern Munich,2020-12-05 Bayern Munich-RB Leipzig,GER-BL1,20-21,c8992842
+e33c06cf,Niklas Süle,4,GER,CB,25-093,90,0,0,0,0,0,0,0,0,112,0,0,1,0.0,0.0,0.0,1,0,99,106,93.4,14,75,1,0,0,Bayern Munich,2020-12-05 Bayern Munich-RB Leipzig,GER-BL1,20-21,c8992842
+2db2fd7b,Jérôme Boateng,17,GER,CB,32-093,83,0,0,0,0,0,0,0,0,106,0,1,1,0.0,0.0,0.0,1,0,83,103,80.6,11,83,1,0,0,Bayern Munich,2020-12-05 Bayern Munich-RB Leipzig,GER-BL1,20-21,c8992842
+0a3d6d2b,Chris Richards,41,USA,CB,20-252,7,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,7,8,87.5,1,7,0,0,0,Bayern Munich,2020-12-05 Bayern Munich-RB Leipzig,GER-BL1,20-21,c8992842
+45a03961,Benjamin Pavard,5,FRA,RB,24-252,90,0,0,0,0,1,1,0,0,87,2,4,1,0.0,0.0,0.0,1,0,57,76,75.0,4,40,1,0,0,Bayern Munich,2020-12-05 Bayern Munich-RB Leipzig,GER-BL1,20-21,c8992842
+8778c910,Manuel Neuer,1,GER,GK,34-253,90,0,0,0,0,0,0,0,0,42,0,0,0,0.0,0.0,0.0,0,0,32,42,76.2,0,26,0,0,0,Bayern Munich,2020-12-05 Bayern Munich-RB Leipzig,GER-BL1,20-21,c8992842
+9a2e0ccc,Emil Forsberg,10,SWE,FW,29-043,61,1,1,0,0,1,1,0,0,21,0,0,0,0.6,0.6,0.5,4,1,13,17,76.5,3,14,1,1,0,RB Leipzig,2020-12-05 Bayern Munich-RB Leipzig,GER-BL1,20-21,c8992842
+d2416c2e,Yussuf Poulsen,9,DEN,FW,26-173,29,0,0,0,0,0,0,0,0,14,1,0,2,0.0,0.0,0.0,0,0,5,8,62.5,1,4,0,0,0,RB Leipzig,2020-12-05 Bayern Munich-RB Leipzig,GER-BL1,20-21,c8992842
+7c56da38,Christopher Nkunku,18,FRA,LW,23-021,90,1,0,0,0,3,1,0,0,31,0,0,0,0.5,0.5,0.1,3,2,14,21,66.7,1,18,1,1,1,RB Leipzig,2020-12-05 Bayern Munich-RB Leipzig,GER-BL1,20-21,c8992842
+4c3a6744,Justin Kluivert,21,NED,RW,21-214,77,1,0,0,0,1,1,0,0,25,1,2,0,0.4,0.4,0.0,0,0,11,17,64.7,0,12,2,0,0,RB Leipzig,2020-12-05 Bayern Munich-RB Leipzig,GER-BL1,20-21,c8992842
+20030c06,Willi Orban,4,HUN,RM,28-032,13,0,0,0,0,0,0,0,0,14,1,2,0,0.0,0.0,0.0,0,0,8,10,80.0,2,5,0,0,0,RB Leipzig,2020-12-05 Bayern Munich-RB Leipzig,GER-BL1,20-21,c8992842
+e280527c,Marcel Sabitzer,7,AUT,LM,26-263,71,0,0,0,0,1,0,0,0,42,2,1,1,0.0,0.0,0.0,1,0,26,36,72.2,7,23,0,0,0,RB Leipzig,2020-12-05 Bayern Munich-RB Leipzig,GER-BL1,20-21,c8992842
+b825a650,Kevin Kampl,44,SVN,RB,30-057,19,0,0,0,0,0,0,0,0,9,0,1,0,0.0,0.0,0.0,0,0,8,8,100.0,1,7,0,0,0,RB Leipzig,2020-12-05 Bayern Munich-RB Leipzig,GER-BL1,20-21,c8992842
+2b09d998,Tyler Adams,14,USA,CM,21-295,90,0,0,0,0,0,0,0,0,53,0,2,1,0.0,0.0,0.0,1,0,29,42,69.0,2,29,2,4,3,RB Leipzig,2020-12-05 Bayern Munich-RB Leipzig,GER-BL1,20-21,c8992842
+92432bc6,Amadou Haidara,8,MLI,RM,22-309,76,0,1,0,0,0,0,0,0,40,4,0,3,0.0,0.0,0.4,1,1,23,29,79.3,3,24,1,1,0,RB Leipzig,2020-12-05 Bayern Munich-RB Leipzig,GER-BL1,20-21,c8992842
+e92cd3f7,Alexander Sørloth,19,NOR,RW,25-000,14,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,2,4,50.0,1,6,0,1,1,RB Leipzig,2020-12-05 Bayern Munich-RB Leipzig,GER-BL1,20-21,c8992842
+30941e96,Angeliño,3,ESP,LB,23-336,90,0,1,0,0,0,0,0,0,81,1,3,1,0.0,0.0,0.6,1,1,38,69,55.1,3,33,1,0,0,RB Leipzig,2020-12-05 Bayern Munich-RB Leipzig,GER-BL1,20-21,c8992842
+d248cd8f,Dayot Upamecano,5,FRA,CB,22-039,90,0,0,0,0,1,1,0,0,71,0,1,1,0.1,0.1,0.0,1,0,45,58,77.6,1,44,0,0,0,RB Leipzig,2020-12-05 Bayern Munich-RB Leipzig,GER-BL1,20-21,c8992842
+5ed9b537,Ibrahima Konaté,6,FRA,CB,21-194,90,0,0,0,0,0,0,0,0,58,2,1,0,0.0,0.0,0.0,0,0,34,46,73.9,2,33,0,0,0,RB Leipzig,2020-12-05 Bayern Munich-RB Leipzig,GER-BL1,20-21,c8992842
+ac73ec79,Nordi Mukiele,22,FRA,RB,23-034,71,0,0,0,0,0,0,1,0,44,1,1,0,0.0,0.0,0.0,2,1,29,38,76.3,4,21,1,0,0,RB Leipzig,2020-12-05 Bayern Munich-RB Leipzig,GER-BL1,20-21,c8992842
+ae44e8e2,Dani Olmo,25,ESP,LM,22-212,19,0,0,0,0,0,0,0,0,14,0,0,1,0.0,0.0,0.0,0,0,10,12,83.3,1,7,0,1,1,RB Leipzig,2020-12-05 Bayern Munich-RB Leipzig,GER-BL1,20-21,c8992842
+bcb2ccd8,Péter Gulácsi,1,HUN,GK,30-213,90,0,0,0,0,0,0,0,0,43,0,1,0,0.0,0.0,0.0,0,0,32,37,86.5,0,29,0,0,0,RB Leipzig,2020-12-05 Bayern Munich-RB Leipzig,GER-BL1,20-21,c8992842

@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+bf4c41f9,Arnaud Kalimuendo,29,FRA,FW,19-081,76,1,0,0,0,2,1,0,0,26,0,0,2,0.6,0.6,0.0,2,1,10,15,66.7,0,18,2,2,1,Lens,2021-04-11 Lens-Lorient,FRA-L1,20-21,8bd928a1
+be47b750,Simon Banza,23,COD,FW,24-241,14,1,0,1,1,0,0,0,0,7,0,0,0,0.8,0.0,0.1,2,1,3,4,75.0,0,6,0,2,1,Lens,2021-04-11 Lens-Lorient,FRA-L1,20-21,8bd928a1
+7d9b37bf,Corentin Jean,25,FRA,FW,25-270,65,1,0,0,0,1,1,0,0,26,1,0,0,0.5,0.5,0.1,5,2,13,18,72.2,4,16,2,7,4,Lens,2021-04-11 Lens-Lorient,FRA-L1,20-21,8bd928a1
+59948ef7,David Pereira da Costa,33,POR,FW,20-096,25,0,0,0,0,1,0,0,0,13,1,0,1,0.1,0.1,0.0,2,1,6,6,100.0,0,8,3,4,3,Lens,2021-04-11 Lens-Lorient,FRA-L1,20-21,8bd928a1
+5b1bf5e3,Gaël Kakuta,10,COD,AM,29-294,84,1,0,1,1,2,0,0,0,49,1,2,2,0.9,0.1,0.0,2,0,19,32,59.4,4,30,2,4,4,Lens,2021-04-11 Lens-Lorient,FRA-L1,20-21,8bd928a1
+754d5c33,Ansou Sow,34,SEN,AM,20-337,6,0,0,0,0,0,0,0,0,3,0,0,1,0.0,0.0,0.0,0,0,1,2,50.0,0,1,0,0,0,Lens,2021-04-11 Lens-Lorient,FRA-L1,20-21,8bd928a1
+ce4f40c7,Cheick Doucouré,28,MLI,CM,21-093,90,0,0,0,0,1,0,0,0,48,1,2,1,0.0,0.0,0.1,3,0,31,35,88.6,4,23,0,5,3,Lens,2021-04-11 Lens-Lorient,FRA-L1,20-21,8bd928a1
+677ee102,Yannick Cahuzac,18,FRA,CM,36-083,90,0,0,0,0,0,0,0,0,47,0,2,0,0.0,0.0,0.0,0,0,26,37,70.3,6,20,2,2,1,Lens,2021-04-11 Lens-Lorient,FRA-L1,20-21,8bd928a1
+5167c97e,Massadio Haïdara,21,MLI,WB,28-130,90,0,0,0,0,1,1,0,0,51,1,2,0,0.5,0.5,0.0,2,1,24,37,64.9,1,21,1,2,1,Lens,2021-04-11 Lens-Lorient,FRA-L1,20-21,8bd928a1
+5219ab4a,Jonathan Clauss,11,FRA,WB,28-198,76,0,0,0,0,1,0,0,0,34,1,2,0,0.1,0.1,0.8,6,1,21,27,77.8,3,13,2,0,0,Lens,2021-04-11 Lens-Lorient,FRA-L1,20-21,8bd928a1
+bfcef334,Cheick Traoré,20,MLI,WB,26-011,14,0,0,0,0,0,0,0,0,6,2,0,0,0.0,0.0,0.0,0,0,3,3,100.0,0,1,0,1,1,Lens,2021-04-11 Lens-Lorient,FRA-L1,20-21,8bd928a1
+cb9ec45d,Clément Michelin,13,FRA,CB,23-335,90,0,0,0,0,2,1,0,0,57,2,6,2,0.1,0.1,0.0,1,0,28,41,68.3,0,30,1,2,2,Lens,2021-04-11 Lens-Lorient,FRA-L1,20-21,8bd928a1
+574aa9ec,Steven Fortes,15,CPV,CB,28-359,90,0,0,0,0,1,0,0,0,67,2,3,3,0.1,0.1,0.0,0,0,43,48,89.6,3,35,0,1,1,Lens,2021-04-11 Lens-Lorient,FRA-L1,20-21,8bd928a1
+06c48679,Jonathan Gradit,24,FRA,CB,28-138,90,0,0,0,0,0,0,0,0,48,1,3,0,0.0,0.0,0.0,0,0,35,38,92.1,4,28,0,2,2,Lens,2021-04-11 Lens-Lorient,FRA-L1,20-21,8bd928a1
+edbe46dc,Jean-Louis Leca,16,FRA,GK,35-202,90,0,0,0,0,0,0,0,0,24,0,0,0,0.0,0.0,0.0,0,0,17,21,81.0,0,10,0,0,0,Lens,2021-04-11 Lens-Lorient,FRA-L1,20-21,8bd928a1
+2500cef9,Yoane Wissa,19,COD,"FW,LM",24-220,79,0,0,0,0,1,0,0,0,36,0,1,0,0.0,0.0,0.7,6,0,20,26,76.9,3,27,2,6,4,Lorient,2021-04-11 Lens-Lorient,FRA-L1,20-21,8bd928a1
+29939a1d,Stéphane Diarra,7,FRA,LM,22-123,11,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,1,0,3,7,42.9,0,7,1,1,0,Lorient,2021-04-11 Lens-Lorient,FRA-L1,20-21,8bd928a1
+065dc209,Terem Moffi,13,NGA,FW,21-321,81,1,0,0,0,7,4,0,0,23,1,0,0,1.3,1.3,0.0,1,1,7,11,63.6,0,12,1,0,0,Lorient,2021-04-11 Lens-Lorient,FRA-L1,20-21,8bd928a1
+a99da9ec,Pierre-Yves Hamel,29,FRA,FW,27-067,9,0,0,0,0,1,0,0,0,3,0,0,0,0.1,0.1,0.0,0,0,1,2,50.0,0,0,0,0,0,Lorient,2021-04-11 Lens-Lorient,FRA-L1,20-21,8bd928a1
+6f806d99,Enzo Le Fée,10,FRA,AM,21-067,64,0,1,0,0,1,0,0,0,56,3,1,2,0.1,0.1,0.1,4,1,31,43,72.1,2,29,0,1,1,Lorient,2021-04-11 Lens-Lorient,FRA-L1,20-21,8bd928a1
+2d22cea7,Armand Lauriente,28,FRA,RM,22-128,26,0,0,0,0,1,0,0,0,22,0,1,0,0.0,0.0,0.0,1,0,14,19,73.7,2,16,3,0,0,Lorient,2021-04-11 Lens-Lorient,FRA-L1,20-21,8bd928a1
+31626657,Laurent Abergel,6,FRA,CM,28-069,90,0,0,0,0,3,0,0,0,76,2,1,2,0.2,0.2,0.3,5,0,53,64,82.8,6,50,3,2,2,Lorient,2021-04-11 Lens-Lorient,FRA-L1,20-21,8bd928a1
+54d51e22,Fabien Lemoine,18,FRA,CM,34-026,90,0,0,0,0,1,1,0,0,92,3,1,1,0.0,0.0,0.5,6,0,75,81,92.6,7,69,1,2,2,Lorient,2021-04-11 Lens-Lorient,FRA-L1,20-21,8bd928a1
+2321ea6e,Vincent Le Goff,25,FRA,"WB,LB",31-178,90,0,0,0,0,1,0,0,0,45,0,0,2,0.1,0.1,0.0,2,0,30,42,71.4,5,23,2,0,0,Lorient,2021-04-11 Lens-Lorient,FRA-L1,20-21,8bd928a1
+a84f9a4b,Jérôme Hergault,14,FRA,WB,35-006,64,0,0,0,0,0,0,0,0,64,4,0,2,0.0,0.0,0.1,2,0,43,57,75.4,6,26,0,0,0,Lorient,2021-04-11 Lens-Lorient,FRA-L1,20-21,8bd928a1
+79685569,Jonathan Delaplace,22,FRA,RB,35-022,26,0,0,0,0,0,0,0,0,25,1,0,0,0.0,0.0,0.0,1,0,18,24,75.0,1,14,0,0,0,Lorient,2021-04-11 Lens-Lorient,FRA-L1,20-21,8bd928a1
+5515376c,Trevoh Chalobah,8,ENG,CB,21-280,90,0,0,0,0,0,0,0,0,79,1,2,1,0.0,0.0,0.0,1,0,65,74,87.8,2,54,2,0,0,Lorient,2021-04-11 Lens-Lorient,FRA-L1,20-21,8bd928a1
+f066022d,Julien Laporte,15,FRA,CB,27-158,90,0,0,0,0,1,0,0,0,100,2,3,4,0.2,0.2,0.0,0,0,77,84,91.7,7,76,1,1,1,Lorient,2021-04-11 Lens-Lorient,FRA-L1,20-21,8bd928a1
+49136c42,Andrew Gravillon,2,GLP,CB,23-062,64,0,0,0,0,0,0,0,0,53,1,2,1,0.0,0.0,0.0,1,0,34,44,77.3,4,36,1,0,0,Lorient,2021-04-11 Lens-Lorient,FRA-L1,20-21,8bd928a1
+4a987ffa,Adrian Grbić,27,AUT,FW,24-250,26,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,3,6,50.0,0,6,0,1,0,Lorient,2021-04-11 Lens-Lorient,FRA-L1,20-21,8bd928a1
+fbf83734,Matthieu Dreyer,1,FRA,GK,32-022,90,0,0,0,0,0,0,0,0,24,0,0,0,0.0,0.0,0.0,0,0,14,20,70.0,0,11,0,0,0,Lorient,2021-04-11 Lens-Lorient,FRA-L1,20-21,8bd928a1

@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+17f3620a,Krzysztof Piątek,19,POL,FW,26-300,45,0,0,0,0,3,2,0,0,18,0,1,0,0.5,0.5,0.1,0,0,7,9,77.8,0,6,0,0,0,Fiorentina,2022-04-27 Fiorentina-Udinese,ITA-SERIA_A,21-22,49dea116
+a820e429,Arthur Cabral,9,BRA,FW,24-002,45,0,0,0,0,3,0,0,0,20,1,0,1,0.5,0.5,0.1,2,0,9,11,81.8,1,15,0,1,0,Fiorentina,2022-04-27 Fiorentina-Udinese,ITA-SERIA_A,21-22,49dea116
+94816803,Riccardo Sottil,33,ITA,LW,22-328,69,0,0,0,0,2,1,0,0,28,0,0,0,0.1,0.1,0.3,7,0,15,20,75.0,4,25,8,5,5,Fiorentina,2022-04-27 Fiorentina-Udinese,ITA-SERIA_A,21-22,49dea116
+78841da9,José Callejón,7,ESP,RW,35-075,21,0,0,0,0,0,0,0,0,7,1,0,0,0.0,0.0,0.0,0,0,5,6,83.3,1,4,0,0,0,Fiorentina,2022-04-27 Fiorentina-Udinese,ITA-SERIA_A,21-22,49dea116
+2374aaca,Nicolás González,22,ARG,"RW,LW",24-021,90,0,0,0,0,2,1,1,0,41,0,0,0,0.2,0.2,0.0,4,0,18,31,58.1,4,33,4,9,4,Fiorentina,2022-04-27 Fiorentina-Udinese,ITA-SERIA_A,21-22,49dea116
+528492ea,Alfred Duncan,32,GHA,LM,29-048,69,0,0,0,0,0,0,0,0,38,0,0,1,0.0,0.0,0.1,1,0,31,35,88.6,10,20,0,1,0,Fiorentina,2022-04-27 Fiorentina-Udinese,ITA-SERIA_A,21-22,49dea116
+42eaa028,Jonathan Ikone,11,FRA,LM,23-360,21,0,0,0,0,0,0,0,0,18,0,0,2,0.0,0.0,0.0,0,0,13,13,100.0,2,14,0,1,0,Fiorentina,2022-04-27 Fiorentina-Udinese,ITA-SERIA_A,21-22,49dea116
+52611641,Lucas Torreira,18,URU,CM,26-075,90,0,0,0,0,1,1,1,0,54,0,0,1,0.1,0.1,0.3,3,0,40,49,81.6,7,31,0,2,1,Fiorentina,2022-04-27 Fiorentina-Udinese,ITA-SERIA_A,21-22,49dea116
+d995ed27,Giacomo Bonaventura,5,ITA,RM,32-248,45,0,0,0,0,0,0,0,0,25,2,0,1,0.0,0.0,0.0,0,0,15,19,78.9,2,16,0,0,0,Fiorentina,2022-04-27 Fiorentina-Udinese,ITA-SERIA_A,21-22,49dea116
+4c8845f7,Youssef Maleh,14,MAR,RM,23-248,45,0,0,0,0,1,1,1,0,23,1,0,0,0.1,0.1,0.1,2,0,20,21,95.2,3,9,0,0,0,Fiorentina,2022-04-27 Fiorentina-Udinese,ITA-SERIA_A,21-22,49dea116
+9e1577aa,Cristiano Biraghi,3,ITA,LB,29-238,90,0,0,0,0,2,0,0,0,85,2,1,0,0.1,0.1,0.8,9,0,59,87,67.8,6,35,0,0,0,Fiorentina,2022-04-27 Fiorentina-Udinese,ITA-SERIA_A,21-22,49dea116
+3ec3c1c9,Lucas Martínez Quarta,2,ARG,CB,25-352,90,0,0,0,0,2,0,0,0,93,2,3,0,0.3,0.3,0.0,0,0,75,81,92.6,7,63,2,2,0,Fiorentina,2022-04-27 Fiorentina-Udinese,ITA-SERIA_A,21-22,49dea116
+bee704fc,Nikola Milenković,4,SRB,CB,24-197,45,0,0,0,0,0,0,0,0,57,0,0,1,0.0,0.0,0.0,1,0,48,54,88.9,4,39,1,0,0,Fiorentina,2022-04-27 Fiorentina-Udinese,ITA-SERIA_A,21-22,49dea116
+a4e85758,Igor,98,BRA,CB,24-079,45,0,0,0,0,1,0,0,0,41,2,0,0,0.0,0.0,0.0,2,0,34,38,89.5,4,25,0,0,0,Fiorentina,2022-04-27 Fiorentina-Udinese,ITA-SERIA_A,21-22,49dea116
+1d1691ad,Álvaro Odriozola,29,ESP,RB,26-134,90,0,0,0,0,1,1,0,0,76,2,0,4,0.7,0.7,0.3,4,0,53,65,81.5,3,43,5,0,0,Fiorentina,2022-04-27 Fiorentina-Udinese,ITA-SERIA_A,21-22,49dea116
+e1b0a70d,Pietro Terracciano,1,ITA,GK,32-050,90,0,0,0,0,0,0,0,0,49,0,0,0,0.0,0.0,0.0,0,0,35,45,77.8,0,33,0,0,0,Fiorentina,2022-04-27 Fiorentina-Udinese,ITA-SERIA_A,21-22,49dea116
+39583cfd,Gerard Deulofeu,10,ESP,FW,28-045,89,1,0,0,0,3,2,1,0,24,0,0,0,1.0,1.0,0.3,5,0,9,15,60.0,6,11,6,2,1,Udinese,2022-04-27 Fiorentina-Udinese,ITA-SERIA_A,21-22,49dea116
+b1236c63,Ilija Nestorovski,30,MKD,FW,32-046,1,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,1,1,2,2,100.0,1,0,0,0,0,Udinese,2022-04-27 Fiorentina-Udinese,ITA-SERIA_A,21-22,49dea116
+f573a8bf,Isaac Success,7,NGA,FW,26-110,65,0,0,0,0,2,0,0,0,20,0,0,1,0.1,0.1,0.0,3,0,5,12,41.7,0,9,0,2,1,Udinese,2022-04-27 Fiorentina-Udinese,ITA-SERIA_A,21-22,49dea116
+62437b4f,Ignacio Pussetto,23,ARG,FW,26-127,25,0,1,0,0,1,0,0,0,15,2,0,0,0.2,0.2,0.4,3,1,2,4,50.0,0,7,1,4,1,Udinese,2022-04-27 Fiorentina-Udinese,ITA-SERIA_A,21-22,49dea116
+22bfb57e,Jean-Victor Makengo,6,FRA,CM,23-319,90,0,1,0,0,1,0,1,0,25,1,0,3,0.1,0.1,0.4,1,1,12,14,85.7,1,13,4,2,0,Udinese,2022-04-27 Fiorentina-Udinese,ITA-SERIA_A,21-22,49dea116
+26db8853,Walace,11,BRA,CM,27-023,90,1,0,0,0,1,1,0,0,32,1,2,0,0.1,0.1,0.0,3,0,20,27,74.1,4,12,0,0,0,Udinese,2022-04-27 Fiorentina-Udinese,ITA-SERIA_A,21-22,49dea116
+963a328b,Tolgay Arslan,5,GER,CM,31-254,58,0,0,0,0,0,0,0,0,17,1,0,0,0.0,0.0,0.1,3,1,11,11,100.0,3,3,0,1,0,Udinese,2022-04-27 Fiorentina-Udinese,ITA-SERIA_A,21-22,49dea116
+8c65eb5f,Mato Jajalo,8,BIH,CM,33-337,32,0,0,0,0,0,0,0,0,14,2,0,0,0.0,0.0,0.0,0,0,7,10,70.0,0,3,0,0,0,Udinese,2022-04-27 Fiorentina-Udinese,ITA-SERIA_A,21-22,49dea116
+7cd520e8,Destiny Udogie,13,ITA,WB,19-150,90,1,0,0,0,4,2,1,0,31,4,1,1,0.6,0.6,0.0,2,1,4,11,36.4,0,12,1,2,1,Udinese,2022-04-27 Fiorentina-Udinese,ITA-SERIA_A,21-22,49dea116
+23610943,Nahuel Molina,16,ARG,WB,24-021,89,0,0,0,0,3,2,0,0,37,2,0,0,0.8,0.8,0.2,4,0,13,25,52.0,1,12,1,2,0,Udinese,2022-04-27 Fiorentina-Udinese,ITA-SERIA_A,21-22,49dea116
+28f66c2e,Brandon Soppy,93,FRA,WB,20-065,1,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,0,0,0,0,Udinese,2022-04-27 Fiorentina-Udinese,ITA-SERIA_A,21-22,49dea116
+e33f36d5,Bram Nuytinck,17,NED,CB,31-358,90,0,0,0,0,0,0,1,0,34,3,0,2,0.0,0.0,0.0,0,0,16,24,66.7,1,4,0,0,0,Udinese,2022-04-27 Fiorentina-Udinese,ITA-SERIA_A,21-22,49dea116
+aa54ec6f,Pablo Marí,22,ESP,CB,28-239,90,1,0,0,0,1,1,0,0,36,2,1,1,0.0,0.0,0.2,2,1,15,23,65.2,0,8,1,1,1,Udinese,2022-04-27 Fiorentina-Udinese,ITA-SERIA_A,21-22,49dea116
+19e4eab9,Rodrigo Becão,50,BRA,CB,26-098,90,0,0,0,0,1,0,0,0,38,3,0,0,0.0,0.0,0.0,0,0,16,22,72.7,1,5,0,0,0,Udinese,2022-04-27 Fiorentina-Udinese,ITA-SERIA_A,21-22,49dea116
+0d422df7,Marco Silvestri,1,ITA,GK,31-056,90,0,0,0,0,0,0,0,0,34,0,0,0,0.0,0.0,0.0,0,0,11,28,39.3,0,12,0,0,0,Udinese,2022-04-27 Fiorentina-Udinese,ITA-SERIA_A,21-22,49dea116

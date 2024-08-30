@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+e23f56c1,Filippo Falco,10,ITA,FW,27-356,90,1,0,0,0,2,1,0,0,70,1,0,0,0.1,0.1,0.1,7,2,46,61,75.4,10,39,5,4,4,Lecce,2020-02-02 Lecce-Torino,ITA-SERIA_A,19-20,6eaa2d6c
+2ead2809,Gianluca Lapadula,9,PER,FW,29-360,90,1,0,1,1,5,4,1,0,35,1,0,1,1.7,0.9,0.0,3,1,15,22,68.2,0,29,4,0,0,Lecce,2020-02-02 Lecce-Torino,ITA-SERIA_A,19-20,6eaa2d6c
+3bb7af3b,Riccardo Saponara,18,ITA,AM,28-043,71,0,2,0,0,2,0,0,0,46,0,1,0,0.1,0.1,0.8,10,2,27,38,71.1,5,30,5,2,0,Lecce,2020-02-02 Lecce-Torino,ITA-SERIA_A,19-20,6eaa2d6c
+ff764de3,Yevhen Shakhov,11,UKR,"AM,CM",29-064,19,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,1,1,8,10,80.0,1,6,0,0,0,Lecce,2020-02-02 Lecce-Torino,ITA-SERIA_A,19-20,6eaa2d6c
+01efac19,Antonín Barák,72,CZE,"LM,CM",25-061,90,1,0,0,0,1,1,0,0,60,2,2,1,0.1,0.1,0.0,3,0,42,50,84.0,7,39,2,0,0,Lecce,2020-02-02 Lecce-Torino,ITA-SERIA_A,19-20,6eaa2d6c
+7f267d66,Alessandro Deiola,14,ITA,CM,24-185,56,1,0,0,0,3,1,1,0,23,2,0,0,0.1,0.1,0.0,0,0,13,16,81.3,1,9,0,1,1,Lecce,2020-02-02 Lecce-Torino,ITA-SERIA_A,19-20,6eaa2d6c
+909bce7f,Jacopo Petriccione,4,ITA,CM,24-345,34,0,0,0,0,0,0,0,0,18,0,1,0,0.0,0.0,0.0,0,0,13,14,92.9,1,9,0,0,0,Lecce,2020-02-02 Lecce-Torino,ITA-SERIA_A,19-20,6eaa2d6c
+bf13975c,Žan Majer,37,SVN,RM,27-192,81,0,0,0,0,1,1,1,0,49,4,2,2,0.0,0.0,0.0,2,0,28,37,75.7,3,18,2,1,1,Lecce,2020-02-02 Lecce-Torino,ITA-SERIA_A,19-20,6eaa2d6c
+42b1a58a,Nehuén Paz,6,ARG,CB,26-280,9,0,0,0,0,0,0,0,0,9,0,0,1,0.0,0.0,0.0,0,0,3,4,75.0,0,1,0,0,0,Lecce,2020-02-02 Lecce-Torino,ITA-SERIA_A,19-20,6eaa2d6c
+22051fbe,Giulio Donati,7,ITA,LB,29-362,90,0,0,0,0,0,0,0,0,65,3,1,0,0.0,0.0,0.3,4,0,50,57,87.7,3,30,3,0,0,Lecce,2020-02-02 Lecce-Torino,ITA-SERIA_A,19-20,6eaa2d6c
+47a500ae,Luca Rossettini,13,ITA,CB,34-269,90,0,0,0,0,1,0,0,0,43,3,2,0,0.0,0.0,0.0,0,0,33,36,91.7,0,14,0,0,0,Lecce,2020-02-02 Lecce-Torino,ITA-SERIA_A,19-20,6eaa2d6c
+8efa621b,Fabio Lucioni,5,ITA,CB,32-130,90,0,0,0,0,0,0,0,0,53,2,1,1,0.0,0.0,0.0,1,0,39,44,88.6,0,23,0,0,0,Lecce,2020-02-02 Lecce-Torino,ITA-SERIA_A,19-20,6eaa2d6c
+39ee6cb6,Andrea Rispoli,29,ITA,RB,31-126,90,0,0,0,0,2,1,0,0,54,0,3,1,0.1,0.1,0.0,2,1,37,48,77.1,6,31,4,0,0,Lecce,2020-02-02 Lecce-Torino,ITA-SERIA_A,19-20,6eaa2d6c
+582a251c,Mauro Vigorito,22,ITA,GK,29-256,90,0,0,0,0,0,0,0,0,36,0,0,0,0.0,0.0,0.0,1,0,20,34,58.8,0,15,0,0,0,Lecce,2020-02-02 Lecce-Torino,ITA-SERIA_A,19-20,6eaa2d6c
+d705ba44,Andrea Belotti,9,ITA,FW,26-044,90,0,0,0,0,3,1,0,0,38,0,0,0,0.3,0.3,0.2,4,0,22,31,71.0,2,20,6,6,5,Torino,2020-02-02 Lecce-Torino,ITA-SERIA_A,19-20,6eaa2d6c
+dc1c2fce,Álex Berenguer,21,ESP,AM,24-213,90,0,0,0,0,4,1,0,0,55,0,0,0,0.2,0.2,0.3,8,0,36,45,80.0,4,42,7,9,5,Torino,2020-02-02 Lecce-Torino,ITA-SERIA_A,19-20,6eaa2d6c
+0375723e,Simone Verdi,24,ITA,AM,27-205,23,0,0,0,0,1,0,0,0,12,0,0,0,0.1,0.1,0.0,1,0,7,7,100.0,1,8,0,2,1,Torino,2020-02-02 Lecce-Torino,ITA-SERIA_A,19-20,6eaa2d6c
+6817095b,Vincenzo Millico,22,ITA,FW,19-174,67,0,0,0,0,1,0,0,0,23,0,0,1,0.0,0.0,0.0,1,0,14,19,73.7,1,19,4,0,0,Torino,2020-02-02 Lecce-Torino,ITA-SERIA_A,19-20,6eaa2d6c
+f1cfc209,Tomás Rincón,88,VEN,"CM,DM",32-020,69,0,0,0,0,0,0,0,0,43,0,0,0,0.0,0.0,0.1,3,0,33,39,84.6,9,27,4,0,0,Torino,2020-02-02 Lecce-Torino,ITA-SERIA_A,19-20,6eaa2d6c
+b5bf1770,Lyanco,4,BRA,DM,23-001,21,0,0,0,0,1,0,0,0,18,0,0,0,0.1,0.1,0.0,1,0,13,15,86.7,2,14,1,1,1,Torino,2020-02-02 Lecce-Torino,ITA-SERIA_A,19-20,6eaa2d6c
+5cec2c74,Soualiho Meïté,23,FRA,"CM,DM",25-322,90,0,0,0,0,0,0,1,0,45,1,2,0,0.0,0.0,0.1,1,0,30,34,88.2,4,30,0,3,3,Torino,2020-02-02 Lecce-Torino,ITA-SERIA_A,19-20,6eaa2d6c
+246d153b,Ola Aina,34,NGA,"WB,LB",23-117,90,0,0,0,0,0,0,1,0,72,0,4,0,0.0,0.0,0.1,5,0,50,62,80.6,8,47,9,6,5,Torino,2020-02-02 Lecce-Torino,ITA-SERIA_A,19-20,6eaa2d6c
+e74f0e59,Lorenzo De Silvestri,29,ITA,"WB,RB",31-255,90,0,0,0,0,2,0,0,0,69,1,0,2,0.2,0.2,0.0,0,0,51,61,83.6,6,36,3,0,0,Torino,2020-02-02 Lecce-Torino,ITA-SERIA_A,19-20,6eaa2d6c
+5fd5ed86,Gleison Bremer,36,BRA,CB,22-321,90,0,0,0,0,1,0,0,0,65,3,5,0,0.0,0.0,0.0,1,0,35,43,81.4,2,26,0,0,0,Torino,2020-02-02 Lecce-Torino,ITA-SERIA_A,19-20,6eaa2d6c
+93cf32a8,Nicolas Nkoulou,33,CMR,CB,29-312,90,0,0,0,0,0,0,1,0,47,1,2,0,0.0,0.0,0.0,0,0,41,41,100.0,4,29,0,1,1,Torino,2020-02-02 Lecce-Torino,ITA-SERIA_A,19-20,6eaa2d6c
+933d3b51,Koffi Djidji,30,CIV,CB,27-064,57,0,0,0,0,0,0,0,0,53,2,1,3,0.0,0.0,0.0,1,0,40,42,95.2,2,32,0,0,0,Torino,2020-02-02 Lecce-Torino,ITA-SERIA_A,19-20,6eaa2d6c
+8697c095,Simone Edera,20,ITA,AM,23-024,33,0,0,0,0,2,1,0,0,28,1,0,0,0.1,0.1,0.0,1,0,16,21,76.2,2,16,3,3,1,Torino,2020-02-02 Lecce-Torino,ITA-SERIA_A,19-20,6eaa2d6c
+10dc46f0,Salvatore Sirigu,39,ITA,GK,33-021,90,0,0,0,0,0,0,0,0,27,0,0,0,0.0,0.0,0.0,0,0,18,24,75.0,0,17,0,0,0,Torino,2020-02-02 Lecce-Torino,ITA-SERIA_A,19-20,6eaa2d6c

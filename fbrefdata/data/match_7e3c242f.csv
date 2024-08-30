@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+1f44ac21,Erling Haaland,9,NOR,FW,21-147,82,2,0,1,1,4,1,0,0,32,0,0,0,1.1,0.3,0.0,4,1,11,19,57.9,3,13,0,3,2,Dortmund,2021-12-15 Dortmund-Greuther Fürth,GER-BL1,21-22,7e3c242f
+6b8887c2,Steffen Tigges,27,GER,FW,23-137,8,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,2,0,0,0,Dortmund,2021-12-15 Dortmund-Greuther Fürth,GER-BL1,21-22,7e3c242f
+50871bcc,Thorgan Hazard,10,BEL,LW,28-261,74,0,0,0,0,2,0,0,0,60,1,0,0,0.1,0.1,0.0,1,0,45,51,88.2,4,27,3,3,2,Dortmund,2021-12-15 Dortmund-Greuther Fürth,GER-BL1,21-22,7e3c242f
+116c35df,Donyell Malen,21,NED,LW,22-340,16,1,0,0,0,1,1,0,0,7,0,0,0,0.1,0.1,0.0,0,0,2,3,66.7,1,4,0,0,0,Dortmund,2021-12-15 Dortmund-Greuther Fürth,GER-BL1,21-22,7e3c242f
+a167537f,Julian Brandt,19,GER,RW,25-227,89,0,2,0,0,0,0,0,0,70,0,0,0,0.0,0.0,0.6,5,2,52,65,80.0,6,42,5,1,1,Dortmund,2021-12-15 Dortmund-Greuther Fürth,GER-BL1,21-22,7e3c242f
+6b21b7b5,Reinier,20,BRA,RW,19-330,1,0,0,0,0,0,0,0,0,3,1,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,3,0,0,0,Dortmund,2021-12-15 Dortmund-Greuther Fürth,GER-BL1,21-22,7e3c242f
+36a3ff67,Marco Reus,11,GER,AM,32-198,74,0,0,0,0,2,2,0,0,51,1,0,3,0.4,0.4,0.0,2,0,28,33,84.8,4,32,1,4,0,Dortmund,2021-12-15 Dortmund-Greuther Fürth,GER-BL1,21-22,7e3c242f
+a65ce836,Emre Can,23,GER,AM,27-337,16,0,0,0,0,0,0,0,0,14,0,0,0,0.0,0.0,0.1,1,0,12,13,92.3,0,5,0,0,0,Dortmund,2021-12-15 Dortmund-Greuther Fürth,GER-BL1,21-22,7e3c242f
+57d88cf9,Jude Bellingham,22,ENG,DM,18-169,45,0,0,0,0,0,0,1,0,43,0,1,2,0.0,0.0,0.0,2,0,27,32,84.4,1,24,0,1,0,Dortmund,2021-12-15 Dortmund-Greuther Fürth,GER-BL1,21-22,7e3c242f
+db4ed67b,Mahmoud Dahoud,8,GER,DM,25-348,45,0,0,0,0,1,0,0,0,47,2,0,1,0.0,0.0,0.0,0,0,32,39,82.1,6,25,0,3,2,Dortmund,2021-12-15 Dortmund-Greuther Fürth,GER-BL1,21-22,7e3c242f
+5dfc6ad5,Axel Witsel,28,BEL,DM,32-337,90,0,0,0,0,0,0,0,0,70,5,0,0,0.0,0.0,0.0,0,0,55,61,90.2,7,38,0,1,0,Dortmund,2021-12-15 Dortmund-Greuther Fürth,GER-BL1,21-22,7e3c242f
+fa274d97,Nico Schulz,14,GER,LB,28-258,90,0,0,0,0,0,0,0,0,110,2,0,1,0.0,0.0,0.0,0,0,89,102,87.3,13,64,4,2,1,Dortmund,2021-12-15 Dortmund-Greuther Fürth,GER-BL1,21-22,7e3c242f
+a4effc55,Dan-Axel Zagadou,5,FRA,CB,22-195,90,0,0,0,0,0,0,0,0,114,1,5,1,0.0,0.0,0.0,1,0,97,102,95.1,2,76,0,2,0,Dortmund,2021-12-15 Dortmund-Greuther Fürth,GER-BL1,21-22,7e3c242f
+05d548d8,Mats Hummels,15,GER,CB,32-364,90,0,0,0,0,1,0,1,0,99,5,1,0,0.1,0.1,0.0,0,0,81,88,92.0,2,54,0,0,0,Dortmund,2021-12-15 Dortmund-Greuther Fürth,GER-BL1,21-22,7e3c242f
+e162b013,Thomas Meunier,24,BEL,RB,30-094,90,0,0,0,0,0,0,0,0,110,2,2,0,0.0,0.0,0.1,5,2,87,106,82.1,12,62,7,0,0,Dortmund,2021-12-15 Dortmund-Greuther Fürth,GER-BL1,21-22,7e3c242f
+cd59b9df,Gregor Kobel,1,SUI,GK,24-009,90,0,0,0,0,0,0,0,0,31,0,0,0,0.0,0.0,0.0,0,0,28,29,96.6,0,17,0,0,0,Dortmund,2021-12-15 Dortmund-Greuther Fürth,GER-BL1,21-22,7e3c242f
+ef233486,Cedric Itten,19,SUI,FW,24-353,45,0,0,0,0,1,0,0,0,16,1,0,1,0.1,0.1,0.0,0,0,5,7,71.4,1,8,1,0,0,Greuther Fürth,2021-12-15 Dortmund-Greuther Fürth,GER-BL1,21-22,7e3c242f
+b18ef366,Håvard Nielsen,16,NOR,FW,28-153,45,0,0,0,0,0,0,0,0,20,1,1,0,0.0,0.0,0.0,0,0,9,13,69.2,1,14,3,5,3,Greuther Fürth,2021-12-15 Dortmund-Greuther Fürth,GER-BL1,21-22,7e3c242f
+5a8d6540,Jeremy Dudziak,28,TUN,LW,26-109,63,0,0,0,0,0,0,0,0,33,2,0,0,0.0,0.0,0.1,3,0,17,25,68.0,2,14,0,2,0,Greuther Fürth,2021-12-15 Dortmund-Greuther Fürth,GER-BL1,21-22,7e3c242f
+ad1d6fa4,Julian Green,37,USA,LW,26-192,27,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,1,0,4,10,40.0,0,5,0,0,0,Greuther Fürth,2021-12-15 Dortmund-Greuther Fürth,GER-BL1,21-22,7e3c242f
+13fe7b69,Jamie Leweling,40,GER,RW,20-292,63,0,0,0,0,2,0,0,0,20,0,0,1,0.2,0.2,0.1,2,0,5,10,50.0,3,18,3,2,2,Greuther Fürth,2021-12-15 Dortmund-Greuther Fürth,GER-BL1,21-22,7e3c242f
+710fbdd1,Branimir Hrgota,10,SWE,RW,28-337,27,0,0,0,0,1,0,0,0,8,1,0,0,0.0,0.0,0.0,2,0,1,5,20.0,0,6,1,0,0,Greuther Fürth,2021-12-15 Dortmund-Greuther Fürth,GER-BL1,21-22,7e3c242f
+a5bea1fb,Timmy Tillman,21,GER,LM,22-345,77,0,0,0,0,0,0,0,0,26,1,0,0,0.0,0.0,0.0,0,0,17,22,77.3,1,23,0,1,0,Greuther Fürth,2021-12-15 Dortmund-Greuther Fürth,GER-BL1,21-22,7e3c242f
+cadd666a,Dickson Abiama,11,NGA,LM,23-042,13,0,0,0,0,0,0,0,0,4,0,0,2,0.0,0.0,0.0,0,0,1,2,50.0,0,3,0,0,0,Greuther Fürth,2021-12-15 Dortmund-Greuther Fürth,GER-BL1,21-22,7e3c242f
+e7b899b8,Max Christiansen,13,GER,CM,25-081,90,0,0,0,0,0,0,0,0,34,1,5,2,0.0,0.0,0.0,1,0,21,24,87.5,2,18,0,0,0,Greuther Fürth,2021-12-15 Dortmund-Greuther Fürth,GER-BL1,21-22,7e3c242f
+8872ed17,Paul Seguin,33,GER,RM,26-261,90,0,0,0,0,3,1,0,0,59,4,0,3,0.1,0.1,0.0,1,0,37,44,84.1,7,34,2,2,2,Greuther Fürth,2021-12-15 Dortmund-Greuther Fürth,GER-BL1,21-22,7e3c242f
+9050ddc4,Jetro Willems,15,NED,LB,27-260,77,0,0,0,0,0,0,1,0,43,1,1,1,0.0,0.0,0.1,1,0,28,35,80.0,6,31,1,3,1,Greuther Fürth,2021-12-15 Dortmund-Greuther Fürth,GER-BL1,21-22,7e3c242f
+e6c15f6e,Gian-Luca Itter,27,GER,LB,22-344,13,0,0,0,0,0,0,0,0,9,1,0,0,0.0,0.0,0.0,1,0,4,8,50.0,0,4,0,0,0,Greuther Fürth,2021-12-15 Dortmund-Greuther Fürth,GER-BL1,21-22,7e3c242f
+44a20f0c,Maximilian Bauer,4,GER,CB,21-309,90,0,0,0,0,1,0,1,0,45,1,2,1,0.0,0.0,0.0,1,0,27,35,77.1,0,24,0,0,0,Greuther Fürth,2021-12-15 Dortmund-Greuther Fürth,GER-BL1,21-22,7e3c242f
+a8db7ebb,Sebastian Griesbeck,22,GER,CB,31-073,90,0,0,0,0,0,0,0,0,43,5,2,0,0.0,0.0,0.0,0,0,26,34,76.5,1,29,0,0,0,Greuther Fürth,2021-12-15 Dortmund-Greuther Fürth,GER-BL1,21-22,7e3c242f
+0b104510,Marco Meyerhöfer,18,GER,RB,26-027,90,0,0,0,0,0,0,0,0,55,3,3,2,0.0,0.0,0.0,1,0,35,41,85.4,2,22,0,0,0,Greuther Fürth,2021-12-15 Dortmund-Greuther Fürth,GER-BL1,21-22,7e3c242f
+25bdea4b,Sascha Burchert,30,GER,GK,32-046,90,0,0,0,0,0,0,0,0,41,0,0,0,0.0,0.0,0.0,0,0,13,38,34.2,0,23,0,0,0,Greuther Fürth,2021-12-15 Dortmund-Greuther Fürth,GER-BL1,21-22,7e3c242f

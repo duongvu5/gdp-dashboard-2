@@ -1,0 +1,32 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+ca618d23,Lucas Höler,9,GER,FW,26-114,78,1,0,0,0,1,1,0,0,26,0,1,0,0.3,0.3,0.0,1,0,13,18,72.2,0,14,2,2,1,Freiburg,2020-11-01 Freiburg-Leverkusen,GER-BL1,20-21,6fe64a38
+ed79b7d3,Ermedin Demirović,11,BIH,FW,22-221,12,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,1,0,2,2,100.0,2,4,0,0,0,Freiburg,2020-11-01 Freiburg-Leverkusen,GER-BL1,20-21,6fe64a38
+bf075f6b,Roland Sallai,22,HUN,"FW,AM",23-163,78,0,0,0,0,0,0,0,0,22,2,0,0,0.0,0.0,0.0,1,1,9,15,60.0,4,13,3,2,1,Freiburg,2020-11-01 Freiburg-Leverkusen,GER-BL1,20-21,6fe64a38
+6190474d,Jeong Woo-yeong,29,KOR,AM,21-042,12,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,1,0,3,5,60.0,1,4,1,1,0,Freiburg,2020-11-01 Freiburg-Leverkusen,GER-BL1,20-21,6fe64a38
+54e4866f,Vincenzo Grifo,32,ITA,AM,27-208,78,0,1,0,0,3,1,0,0,50,2,1,2,0.4,0.4,0.4,2,1,22,36,61.1,3,24,1,2,0,Freiburg,2020-11-01 Freiburg-Leverkusen,GER-BL1,20-21,6fe64a38
+7961f7aa,Kwon Chang-hoon,28,KOR,AM,26-124,12,0,0,0,0,0,0,0,0,8,0,0,2,0.0,0.0,0.1,2,0,5,5,100.0,0,4,0,0,0,Freiburg,2020-11-01 Freiburg-Leverkusen,GER-BL1,20-21,6fe64a38
+088ca1bd,Jonathan Schmid,7,FRA,"AM,RB",30-132,90,0,0,0,0,0,0,0,0,37,1,0,1,0.0,0.0,0.3,2,1,26,33,78.8,5,17,0,0,0,Freiburg,2020-11-01 Freiburg-Leverkusen,GER-BL1,20-21,6fe64a38
+5d8e331f,Nicolas Höfler,27,GER,DM,30-237,90,0,0,0,0,0,0,0,0,42,1,0,1,0.0,0.0,0.0,1,0,28,37,75.7,1,21,1,0,0,Freiburg,2020-11-01 Freiburg-Leverkusen,GER-BL1,20-21,6fe64a38
+5e22e2a4,Baptiste Santamaria,8,FRA,DM,25-237,90,0,0,0,0,2,1,0,0,49,3,0,3,0.0,0.0,0.0,0,0,30,36,83.3,4,20,1,1,0,Freiburg,2020-11-01 Freiburg-Leverkusen,GER-BL1,20-21,6fe64a38
+8593f88c,Christian Günter,30,GER,LB,27-247,90,0,0,0,0,0,0,0,0,53,1,2,2,0.0,0.0,0.0,2,0,32,41,78.0,4,22,1,1,0,Freiburg,2020-11-01 Freiburg-Leverkusen,GER-BL1,20-21,6fe64a38
+699fb8db,Dominique Heintz,23,GER,CB,27-078,90,0,0,0,0,0,0,1,0,71,1,1,0,0.0,0.0,0.0,0,0,52,63,82.5,3,51,0,1,1,Freiburg,2020-11-01 Freiburg-Leverkusen,GER-BL1,20-21,6fe64a38
+302527b2,Philipp Lienhart,3,AUT,CB,24-113,90,0,0,0,0,0,0,0,0,58,0,0,1,0.0,0.0,0.0,0,0,45,56,80.4,0,35,1,0,0,Freiburg,2020-11-01 Freiburg-Leverkusen,GER-BL1,20-21,6fe64a38
+2a29eb9b,Lukas Kübler,17,GER,RB,28-063,62,0,1,0,0,0,0,1,0,37,1,2,1,0.0,0.0,0.3,1,1,17,27,63.0,3,16,0,0,0,Freiburg,2020-11-01 Freiburg-Leverkusen,GER-BL1,20-21,6fe64a38
+f93e6e94,Nils Petersen,18,GER,FW,31-331,28,1,0,0,0,2,2,0,0,5,0,0,0,0.4,0.4,0.0,0,0,2,3,66.7,0,1,0,0,0,Freiburg,2020-11-01 Freiburg-Leverkusen,GER-BL1,20-21,6fe64a38
+cbac6ec9,Florian Müller,21,GER,GK,22-354,90,0,0,0,0,0,0,0,0,43,0,0,0,0.0,0.0,0.0,0,0,29,41,70.7,0,29,0,0,0,Freiburg,2020-11-01 Freiburg-Leverkusen,GER-BL1,20-21,6fe64a38
+834d0be5,Lucas Alario,13,ARG,FW,28-024,88,2,0,0,0,3,2,0,0,33,0,1,0,0.6,0.6,0.0,1,0,16,21,76.2,2,19,1,0,0,Bayer Leverkusen,2020-11-01 Freiburg-Leverkusen,GER-BL1,20-21,6fe64a38
+e82adcab,Exequiel Palacios,25,ARG,FW,22-027,2,0,0,0,0,0,0,0,0,3,1,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,2,0,0,0,Bayer Leverkusen,2020-11-01 Freiburg-Leverkusen,GER-BL1,20-21,6fe64a38
+aeed5c06,Moussa Diaby,19,FRA,LW,21-117,78,0,0,0,0,1,1,1,0,26,0,1,0,0.0,0.0,0.1,2,0,14,19,73.7,2,18,2,4,1,Bayer Leverkusen,2020-11-01 Freiburg-Leverkusen,GER-BL1,20-21,6fe64a38
+bee0bab1,Karim Bellarabi,38,GER,LW,30-207,12,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,3,5,60.0,0,4,0,1,1,Bayer Leverkusen,2020-11-01 Freiburg-Leverkusen,GER-BL1,20-21,6fe64a38
+3a233281,Leon Bailey,9,JAM,RW,23-084,90,0,0,0,0,6,2,0,0,50,3,2,2,0.2,0.2,0.1,5,0,21,33,63.6,2,25,5,5,3,Bayer Leverkusen,2020-11-01 Freiburg-Leverkusen,GER-BL1,20-21,6fe64a38
+555d5edd,Nadiem Amiri,11,GER,LM,24-005,90,1,0,0,0,4,1,0,0,52,0,0,0,0.1,0.1,0.0,3,1,36,41,87.8,0,30,0,5,3,Bayer Leverkusen,2020-11-01 Freiburg-Leverkusen,GER-BL1,20-21,6fe64a38
+69374ff5,Julian Baumgartlinger,15,AUT,CM,32-304,64,0,0,0,0,0,0,0,0,35,0,0,1,0.0,0.0,0.0,1,0,27,33,81.8,0,19,0,1,1,Bayer Leverkusen,2020-11-01 Freiburg-Leverkusen,GER-BL1,20-21,6fe64a38
+54b4dc4e,Kerem Demirbay,10,GER,CM,27-121,26,0,1,0,0,1,0,0,0,25,1,0,0,0.0,0.0,0.1,4,2,20,21,95.2,1,10,0,0,0,Bayer Leverkusen,2020-11-01 Freiburg-Leverkusen,GER-BL1,20-21,6fe64a38
+e7fcf289,Florian Wirtz,27,GER,RM,17-182,90,0,1,0,0,0,0,0,0,43,1,0,0,0.0,0.0,0.2,7,2,30,38,78.9,7,22,2,3,2,Bayer Leverkusen,2020-11-01 Freiburg-Leverkusen,GER-BL1,20-21,6fe64a38
+73000a79,Daley Sinkgraven,22,NED,LB,25-120,90,0,0,0,0,1,0,0,0,72,2,0,0,0.1,0.1,0.0,2,0,50,62,80.6,5,37,3,1,1,Bayer Leverkusen,2020-11-01 Freiburg-Leverkusen,GER-BL1,20-21,6fe64a38
+a73c8f95,Edmond Tapsoba,12,BFA,CB,21-273,90,0,0,0,0,1,0,0,0,116,0,0,0,0.0,0.0,0.0,2,0,106,114,93.0,4,87,1,0,0,Bayer Leverkusen,2020-11-01 Freiburg-Leverkusen,GER-BL1,20-21,6fe64a38
+070ec0b1,Sven Bender,5,GER,CB,31-188,64,0,0,0,0,0,0,1,0,86,2,0,0,0.0,0.0,0.0,3,0,77,83,92.8,9,57,0,0,0,Bayer Leverkusen,2020-11-01 Freiburg-Leverkusen,GER-BL1,20-21,6fe64a38
+bd142efb,Jonathan Tah,4,GER,CB,24-264,26,1,0,0,0,1,1,0,0,19,0,0,0,0.1,0.1,0.0,0,0,16,17,94.1,0,9,0,0,0,Bayer Leverkusen,2020-11-01 Freiburg-Leverkusen,GER-BL1,20-21,6fe64a38
+c50281a0,Lars Bender,8,GER,RB,31-188,90,0,1,0,0,0,0,0,0,77,0,3,1,0.0,0.0,0.4,1,1,51,68,75.0,4,37,2,0,0,Bayer Leverkusen,2020-11-01 Freiburg-Leverkusen,GER-BL1,20-21,6fe64a38
+ad3389d5,Lukáš Hrádecký,1,FIN,GK,30-343,90,0,0,0,0,0,0,0,0,67,0,0,0,0.0,0.0,0.0,0,0,43,65,66.2,0,40,0,0,0,Bayer Leverkusen,2020-11-01 Freiburg-Leverkusen,GER-BL1,20-21,6fe64a38

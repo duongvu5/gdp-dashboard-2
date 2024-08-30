@@ -1,0 +1,29 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+fcbcbd94,Moussa Konaté,15,SEN,FW,24-292,81,2,0,1,1,1,1,0,0,24,1,0,0,0.9,0.1,0.0,2,0,9,16,56.3,1,17,2,1,0,Amiens,2018-01-20 Amiens-Guingamp,FRA-L1,17-18,2df1fed9
+f3642ba8,Mathieu Bodmer,24,FRA,"FW,AM",35-059,9,1,0,0,0,1,1,0,0,6,0,0,1,0.3,0.3,0.0,0,0,1,4,25.0,0,1,0,0,0,Amiens,2018-01-20 Amiens-Guingamp,FRA-L1,17-18,2df1fed9
+e68f2cb4,Stiven Mendoza,27,COL,LW,25-207,86,0,0,0,0,2,1,0,0,40,1,1,0,0.1,0.1,0.0,3,1,21,31,67.7,3,23,2,2,1,Amiens,2018-01-20 Amiens-Guingamp,FRA-L1,17-18,2df1fed9
+9dafff2a,Guessouma Fofana,8,MTN,RW,25-034,4,0,0,0,0,0,0,0,0,2,1,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,1,0,0,0,Amiens,2018-01-20 Amiens-Guingamp,FRA-L1,17-18,2df1fed9
+cf4053e2,Serge Gakpé,37,TOG,RW,30-258,66,0,0,0,0,1,1,0,0,32,0,0,2,0.1,0.1,0.0,1,0,14,23,60.9,3,25,1,2,1,Amiens,2018-01-20 Amiens-Guingamp,FRA-L1,17-18,2df1fed9
+392d98fc,Harrison Manzala,7,COD,"RW,LW",23-320,24,0,1,0,0,1,0,0,0,11,1,1,0,0.1,0.1,0.5,6,2,6,8,75.0,1,10,1,4,3,Amiens,2018-01-20 Amiens-Guingamp,FRA-L1,17-18,2df1fed9
+5b1bf5e3,Gaël Kakuta,14,COD,"AM,FW",26-213,90,0,0,0,0,4,1,0,0,69,1,2,1,0.6,0.6,0.1,4,0,38,58,65.5,3,38,5,2,1,Amiens,2018-01-20 Amiens-Guingamp,FRA-L1,17-18,2df1fed9
+84d94b91,Thomas Monconduit,6,FRA,DM,26-344,90,0,0,0,0,0,0,0,0,53,2,2,1,0.0,0.0,0.0,3,1,38,44,86.4,3,31,4,5,4,Amiens,2018-01-20 Amiens-Guingamp,FRA-L1,17-18,2df1fed9
+a8797cf1,Bongani Zungu,34,RSA,DM,25-103,90,0,0,0,0,0,0,0,0,71,4,3,2,0.0,0.0,0.0,0,0,52,66,78.8,7,53,1,0,0,Amiens,2018-01-20 Amiens-Guingamp,FRA-L1,17-18,2df1fed9
+247accfd,Bakaye Dibassy,12,MLI,LB,28-162,90,0,0,0,0,0,0,0,0,64,2,4,3,0.0,0.0,0.0,0,0,36,50,72.0,4,29,5,3,2,Amiens,2018-01-20 Amiens-Guingamp,FRA-L1,17-18,2df1fed9
+16714a62,Khaled Adénon,3,BEN,CB,32-176,90,0,0,0,0,0,0,0,0,56,0,1,0,0.0,0.0,0.0,1,0,45,48,93.8,4,41,1,0,0,Amiens,2018-01-20 Amiens-Guingamp,FRA-L1,17-18,2df1fed9
+7c6d6c96,Prince-Désir Gouano,2,FRA,CB,24-027,90,0,0,0,0,1,0,0,0,55,3,2,0,0.0,0.0,0.0,0,0,44,48,91.7,6,39,0,0,0,Amiens,2018-01-20 Amiens-Guingamp,FRA-L1,17-18,2df1fed9
+9f29c204,Oualid El Hajjam,19,MAR,RB,26-335,90,0,0,0,0,1,0,0,0,58,3,3,3,0.0,0.0,0.0,3,1,32,46,69.6,3,27,1,2,1,Amiens,2018-01-20 Amiens-Guingamp,FRA-L1,17-18,2df1fed9
+bc270726,Régis Gurtner,1,FRA,GK,31-043,90,0,0,0,0,0,0,0,0,20,0,0,0,0.0,0.0,0.0,0,0,14,20,70.0,0,12,0,0,0,Amiens,2018-01-20 Amiens-Guingamp,FRA-L1,17-18,2df1fed9
+f83c8d6c,Jimmy Briand,23,FRA,FW,32-171,90,0,0,0,0,1,0,0,0,43,1,0,1,0.1,0.1,0.0,1,0,22,31,71.0,2,21,1,0,0,Guingamp,2018-01-20 Amiens-Guingamp,FRA-L1,17-18,2df1fed9
+3010aefb,Marcus Coco,24,FRA,LW,21-210,90,1,0,0,0,1,1,0,0,53,5,3,2,0.0,0.0,0.0,2,0,29,39,74.4,4,26,7,3,2,Guingamp,2018-01-20 Amiens-Guingamp,FRA-L1,17-18,2df1fed9
+bb4a42be,Yannis Salibur,19,FRA,RW,26-361,63,0,1,0,0,2,0,1,0,24,0,0,0,0.0,0.0,0.0,2,1,15,19,78.9,3,20,3,0,0,Guingamp,2018-01-20 Amiens-Guingamp,FRA-L1,17-18,2df1fed9
+813aae2f,Yeni Ngbakoto,12,COD,RW,25-362,27,0,0,0,0,1,0,0,0,21,1,0,1,0.0,0.0,0.0,1,0,11,13,84.6,0,14,1,5,0,Guingamp,2018-01-20 Amiens-Guingamp,FRA-L1,17-18,2df1fed9
+30395d3b,Nicolas Benezet,10,FRA,AM,26-330,82,0,0,0,0,0,0,0,0,76,0,2,1,0.0,0.0,0.1,2,0,47,67,70.1,3,59,5,2,0,Guingamp,2018-01-20 Amiens-Guingamp,FRA-L1,17-18,2df1fed9
+81d9a76b,Thibault Giresse,26,FRA,AM,36-240,8,0,0,0,0,0,0,0,0,7,0,1,0,0.0,0.0,0.0,0,0,4,6,66.7,0,4,0,0,0,Guingamp,2018-01-20 Amiens-Guingamp,FRA-L1,17-18,2df1fed9
+44f8c299,Lucas Deaux,8,FRA,DM,29-025,90,0,0,0,0,0,0,0,0,76,2,0,4,0.0,0.0,0.0,1,0,57,66,86.4,9,37,1,1,1,Guingamp,2018-01-20 Amiens-Guingamp,FRA-L1,17-18,2df1fed9
+6c6ecdd4,Mustapha Diallo,5,SEN,DM,31-251,90,0,0,0,0,1,0,0,0,47,3,3,0,0.1,0.1,0.0,0,0,29,36,80.6,0,25,0,1,1,Guingamp,2018-01-20 Amiens-Guingamp,FRA-L1,17-18,2df1fed9
+276cce2e,Pedro Rebocho,3,POR,LB,22-362,90,0,0,0,0,0,0,0,0,78,2,2,0,0.0,0.0,0.0,0,0,55,67,82.1,6,39,2,0,0,Guingamp,2018-01-20 Amiens-Guingamp,FRA-L1,17-18,2df1fed9
+7768df30,Jérémy Sorbon,15,FRA,CB,34-168,90,0,0,0,0,0,0,0,0,31,1,3,0,0.0,0.0,0.0,0,0,21,25,84.0,0,17,0,0,0,Guingamp,2018-01-20 Amiens-Guingamp,FRA-L1,17-18,2df1fed9
+0515a4cb,Christophe Kerbrat,29,FRA,CB,31-171,90,0,0,0,0,0,0,1,0,53,2,2,2,0.0,0.0,0.0,0,0,33,44,75.0,2,28,1,0,0,Guingamp,2018-01-20 Amiens-Guingamp,FRA-L1,17-18,2df1fed9
+8ff4872e,Jordan Ikoko,2,COD,RB,23-351,90,0,0,0,0,0,0,0,0,66,5,2,4,0.0,0.0,0.1,2,1,42,50,84.0,2,20,0,1,0,Guingamp,2018-01-20 Amiens-Guingamp,FRA-L1,17-18,2df1fed9
+a56bd2ee,Karl-Johan Johnsson,1,SWE,GK,27-357,90,0,0,0,0,0,0,0,0,32,0,0,0,0.0,0.0,0.0,0,0,19,30,63.3,0,13,0,0,0,Guingamp,2018-01-20 Amiens-Guingamp,FRA-L1,17-18,2df1fed9

@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+b70afb45,Thijs Dallinga,27,NED,FW,22-254,90,0,0,0,0,3,1,0,0,39,0,0,0,0.2,0.2,0.2,3,0,16,32,50.0,0,30,1,1,0,Toulouse,2023-04-14 Toulouse-Lyon,FRA-L1,22-23,fbcb2095
+357103bd,Fares Chaïbi,28,ALG,LW,20-137,81,0,0,0,0,0,0,0,0,56,5,3,1,0.0,0.0,0.0,3,0,36,47,76.6,3,41,0,1,0,Toulouse,2023-04-14 Toulouse-Lyon,FRA-L1,22-23,fbcb2095
+636247ca,Veljko Birmančević,19,SRB,LW,25-040,9,0,0,0,0,1,0,0,0,7,0,0,0,0.1,0.1,0.0,1,0,2,4,50.0,0,6,1,1,0,Toulouse,2023-04-14 Toulouse-Lyon,FRA-L1,22-23,fbcb2095
+c2a6033c,Zakaria Aboukhlal,6,MAR,RW,23-055,67,1,0,0,0,1,1,0,0,29,0,0,1,0.5,0.5,0.0,0,0,14,14,100.0,2,18,2,2,0,Toulouse,2023-04-14 Toulouse-Lyon,FRA-L1,22-23,fbcb2095
+ff4df82e,Ado Onaiwu,7,JPN,RW,27-157,23,0,0,0,0,0,0,0,0,9,0,0,1,0.0,0.0,0.0,0,0,4,7,57.1,0,8,0,0,0,Toulouse,2023-04-14 Toulouse-Lyon,FRA-L1,22-23,fbcb2095
+badcdcae,Denis Genreau,5,AUS,AM,23-328,75,0,0,0,0,2,0,0,0,46,4,2,2,0.1,0.1,0.0,2,0,25,30,83.3,3,29,0,2,1,Toulouse,2023-04-14 Toulouse-Lyon,FRA-L1,22-23,fbcb2095
+92ffb8f9,Vincent Sierro,13,SUI,AM,27-188,15,0,0,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.0,0,0,8,10,80.0,1,6,0,0,0,Toulouse,2023-04-14 Toulouse-Lyon,FRA-L1,22-23,fbcb2095
+99d660b2,Branco van den Boomen,8,NED,DM,27-267,90,0,0,0,0,1,0,0,0,74,5,0,3,0.1,0.1,0.1,5,1,44,65,67.7,9,52,1,3,2,Toulouse,2023-04-14 Toulouse-Lyon,FRA-L1,22-23,fbcb2095
+a08985b8,Stijn Spierings,17,NED,DM,27-033,90,0,0,0,0,1,1,0,0,74,1,1,1,0.1,0.1,0.1,4,0,54,64,84.4,2,55,1,4,1,Toulouse,2023-04-14 Toulouse-Lyon,FRA-L1,22-23,fbcb2095
+39b326ed,Gabriel Suazo,15,CHI,LB,25-248,90,0,0,0,0,0,0,1,0,56,1,2,0,0.0,0.0,0.1,1,0,37,50,74.0,2,41,2,0,0,Toulouse,2023-04-14 Toulouse-Lyon,FRA-L1,22-23,fbcb2095
+bfb2056e,Logan Costa,14,CPV,CB,22-013,90,0,0,0,0,1,0,0,0,51,1,0,1,0.1,0.1,0.0,1,0,36,42,85.7,1,37,0,0,0,Toulouse,2023-04-14 Toulouse-Lyon,FRA-L1,22-23,fbcb2095
+9b545925,Anthony Rouault,4,FRA,CB,21-320,90,0,0,0,0,2,1,0,0,65,2,0,3,0.2,0.2,0.0,0,0,41,52,78.8,3,45,0,0,0,Toulouse,2023-04-14 Toulouse-Lyon,FRA-L1,22-23,fbcb2095
+a426a912,Waren Kamanzi,26,NOR,RB,22-154,90,0,0,0,0,1,1,0,0,59,5,0,1,0.2,0.2,0.0,1,0,41,45,91.1,7,37,3,4,2,Toulouse,2023-04-14 Toulouse-Lyon,FRA-L1,22-23,fbcb2095
+0e12089d,Maxime Dupé,30,FRA,GK,30-041,90,0,0,0,0,0,0,0,0,28,0,0,0,0.0,0.0,0.0,0,0,20,26,76.9,0,14,0,0,0,Toulouse,2023-04-14 Toulouse-Lyon,FRA-L1,22-23,fbcb2095
+9dbb75ca,Alexandre Lacazette,10,FRA,FW,31-321,90,1,0,1,1,3,0,1,0,49,2,0,1,1.5,0.7,0.2,3,0,26,32,81.3,4,28,4,1,1,Lyon,2023-04-14 Toulouse-Lyon,FRA-L1,22-23,fbcb2095
+b34c63a5,Rayan Cherki,18,FRA,LW,19-240,90,0,0,0,0,3,1,0,0,71,0,0,1,0.2,0.2,0.5,4,1,47,57,82.5,6,64,7,12,8,Lyon,2023-04-14 Toulouse-Lyon,FRA-L1,22-23,fbcb2095
+45cce300,Jeffinho,47,BRA,RW,23-105,90,0,0,0,0,2,1,1,0,43,2,0,0,0.1,0.1,0.0,3,1,26,29,89.7,3,37,9,13,7,Lyon,2023-04-14 Toulouse-Lyon,FRA-L1,22-23,fbcb2095
+f81ef10d,Maxence Caqueret,6,FRA,LM,23-058,80,0,0,0,0,2,0,0,0,62,2,1,1,0.2,0.2,0.2,3,0,37,47,78.7,2,42,2,2,0,Lyon,2023-04-14 Toulouse-Lyon,FRA-L1,22-23,fbcb2095
+a5db0bec,Houssem Aouar,8,ALG,LM,24-288,10,0,0,0,0,0,0,0,0,13,1,1,1,0.0,0.0,0.0,0,0,9,10,90.0,0,7,0,0,0,Lyon,2023-04-14 Toulouse-Lyon,FRA-L1,22-23,fbcb2095
+652d4c37,Corentin Tolisso,88,FRA,"CM,RM",28-254,90,0,0,0,0,3,0,0,0,119,3,1,2,0.3,0.3,0.4,5,0,91,105,86.7,12,96,1,0,0,Lyon,2023-04-14 Toulouse-Lyon,FRA-L1,22-23,fbcb2095
+1e52971c,Johann Lepenant,24,FRA,RM,20-174,80,0,0,0,0,0,0,0,0,53,1,1,0,0.0,0.0,0.0,0,0,39,48,81.3,3,42,0,1,0,Lyon,2023-04-14 Toulouse-Lyon,FRA-L1,22-23,fbcb2095
+c6e5d20f,Thiago Mendes,23,BRA,"CM,RM",31-030,10,0,0,0,0,0,0,1,0,9,0,1,1,0.0,0.0,0.0,0,0,4,5,80.0,0,6,0,0,0,Lyon,2023-04-14 Toulouse-Lyon,FRA-L1,22-23,fbcb2095
+f28474a4,Henrique,12,BRA,LB,28-354,90,0,0,0,0,0,0,0,0,74,1,3,2,0.0,0.0,0.0,0,0,55,62,88.7,4,52,1,3,1,Lyon,2023-04-14 Toulouse-Lyon,FRA-L1,22-23,fbcb2095
+5b9512c5,Castello Lukeba,4,FRA,CB,20-118,90,0,0,0,0,0,0,0,0,98,0,1,3,0.0,0.0,0.0,0,0,81,87,93.1,3,79,1,0,0,Lyon,2023-04-14 Toulouse-Lyon,FRA-L1,22-23,fbcb2095
+1a2935f6,Dejan Lovren,5,CRO,CB,33-283,90,0,0,0,0,0,0,0,0,92,2,5,4,0.0,0.0,0.0,0,0,66,75,88.0,7,69,0,0,0,Lyon,2023-04-14 Toulouse-Lyon,FRA-L1,22-23,fbcb2095
+c385bf49,Sael Kumbedi,20,FRA,RB,18-019,62,0,0,0,0,0,0,1,0,56,1,0,2,0.0,0.0,0.0,0,0,35,43,81.4,2,34,0,3,0,Lyon,2023-04-14 Toulouse-Lyon,FRA-L1,22-23,fbcb2095
+6de23ab0,Sinaly Diomande,2,CIV,RB,22-005,28,0,0,0,0,0,0,0,0,17,0,0,1,0.0,0.0,0.0,0,0,13,14,92.9,2,13,1,0,0,Lyon,2023-04-14 Toulouse-Lyon,FRA-L1,22-23,fbcb2095
+f00de885,Anthony Lopes,1,POR,GK,32-195,90,0,0,0,0,0,0,0,0,39,0,0,0,0.0,0.0,0.0,0,0,28,34,82.4,0,26,0,0,0,Lyon,2023-04-14 Toulouse-Lyon,FRA-L1,22-23,fbcb2095

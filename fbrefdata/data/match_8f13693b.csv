@@ -1,0 +1,29 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+aad9c3f3,Mario Gavranović,11,SUI,FW,30-333,53,0,0,0,0,2,1,0,0,17,0,0,0,0.1,0.1,0.0,0,0,10,14,71.4,0,6,0,0,0,Dinamo Zagreb,2020-10-22 Dinamo Zagreb-Feyenoord,UEL,20-21,8f13693b
+24228180,Bruno Petković,21,CRO,FW,26-036,37,0,0,0,0,1,0,1,0,14,0,0,0,0.1,0.1,0.0,1,0,4,10,40.0,0,9,0,2,1,Dinamo Zagreb,2020-10-22 Dinamo Zagreb-Feyenoord,UEL,20-21,8f13693b
+ee950928,Mislav Oršić,99,CRO,LW,27-298,90,0,0,0,0,1,1,0,0,41,0,0,0,0.0,0.0,0.2,4,0,29,33,87.9,4,19,2,2,1,Dinamo Zagreb,2020-10-22 Dinamo Zagreb-Feyenoord,UEL,20-21,8f13693b
+e872ca65,Lirim Kastrati,20,KVX,RW,21-280,53,0,0,0,0,0,0,1,0,28,1,0,0,0.0,0.0,0.0,1,0,11,23,47.8,2,15,1,1,1,Dinamo Zagreb,2020-10-22 Dinamo Zagreb-Feyenoord,UEL,20-21,8f13693b
+29fbdc88,Luka Ivanušec,17,CRO,RW,21-331,37,0,0,0,0,2,1,0,0,29,0,0,0,1.1,1.1,0.1,7,0,22,26,84.6,4,21,1,2,2,Dinamo Zagreb,2020-10-22 Dinamo Zagreb-Feyenoord,UEL,20-21,8f13693b
+fc46aab1,Lovro Majer,10,CRO,AM,22-279,90,0,0,0,0,1,0,0,0,70,2,0,2,0.0,0.0,0.2,5,0,44,58,75.9,8,38,2,3,3,Dinamo Zagreb,2020-10-22 Dinamo Zagreb-Feyenoord,UEL,20-21,8f13693b
+a8ee54ad,Kristijan Jakić,97,CRO,DM,23-161,70,0,0,0,0,0,0,0,0,37,1,4,0,0.0,0.0,0.0,1,0,20,29,69.0,2,15,1,0,0,Dinamo Zagreb,2020-10-22 Dinamo Zagreb-Feyenoord,UEL,20-21,8f13693b
+697dc00a,Bartol Franjić,38,CRO,DM,20-282,20,0,0,0,0,2,0,0,0,25,0,1,0,0.1,0.1,0.0,0,0,21,23,91.3,3,17,0,0,0,Dinamo Zagreb,2020-10-22 Dinamo Zagreb-Feyenoord,UEL,20-21,8f13693b
+ee926a02,Arijan Ademi,5,MKD,DM,29-146,90,0,0,0,0,2,0,0,0,47,1,1,2,0.1,0.1,0.5,1,0,35,39,89.7,5,24,1,2,1,Dinamo Zagreb,2020-10-22 Dinamo Zagreb-Feyenoord,UEL,20-21,8f13693b
+5ad50391,Joško Gvardiol,32,CRO,LB,18-273,90,0,0,0,0,0,0,0,0,74,0,2,1,0.0,0.0,0.0,2,0,59,69,85.5,7,37,0,0,0,Dinamo Zagreb,2020-10-22 Dinamo Zagreb-Feyenoord,UEL,20-21,8f13693b
+8b929ec2,Rasmus Lauritsen,6,DEN,CB,24-238,90,0,0,0,0,2,0,0,0,70,0,0,0,0.1,0.1,0.0,1,0,58,65,89.2,3,43,0,0,0,Dinamo Zagreb,2020-10-22 Dinamo Zagreb-Feyenoord,UEL,20-21,8f13693b
+6b994195,Kévin Théophile-Catherine,28,FRA,CB,30-360,90,0,0,0,0,0,0,0,0,77,0,0,1,0.0,0.0,0.0,0,0,59,71,83.1,4,48,1,0,0,Dinamo Zagreb,2020-10-22 Dinamo Zagreb-Feyenoord,UEL,20-21,8f13693b
+13b44b02,Petar Stojanović,30,SVN,RB,25-015,90,0,0,0,0,0,0,0,0,88,0,0,0,0.0,0.0,0.0,2,0,58,80,72.5,8,48,4,1,0,Dinamo Zagreb,2020-10-22 Dinamo Zagreb-Feyenoord,UEL,20-21,8f13693b
+58f077c0,Dominik Livaković,40,CRO,GK,25-287,90,0,0,0,0,0,0,0,0,31,0,0,1,0.0,0.0,0.0,0,0,19,30,63.3,0,14,0,0,0,Dinamo Zagreb,2020-10-22 Dinamo Zagreb-Feyenoord,UEL,20-21,8f13693b
+5700824a,Bryan Linssen,11,NED,"FW,LM,LW",30-014,90,0,0,0,0,3,2,0,0,22,0,0,2,0.8,0.8,0.2,3,0,10,12,83.3,3,11,1,1,1,Feyenoord,2020-10-22 Dinamo Zagreb-Feyenoord,UEL,20-21,8f13693b
+8a6e0e81,Mark Diemers,6,NED,"LW,LM",27-011,80,0,0,0,0,1,0,0,0,37,1,1,3,0.1,0.1,0.7,3,0,24,29,82.8,1,25,0,1,1,Feyenoord,2020-10-22 Dinamo Zagreb-Feyenoord,UEL,20-21,8f13693b
+dff19848,Nicolai Jørgensen,9,DEN,LW,29-281,10,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,3,0,0,0,Feyenoord,2020-10-22 Dinamo Zagreb-Feyenoord,UEL,20-21,8f13693b
+713c144a,Steven Berghuis,10,NED,RW,28-308,90,0,0,0,1,0,0,0,0,43,2,0,0,0.8,0.0,0.1,5,0,25,35,71.4,3,28,0,0,0,Feyenoord,2020-10-22 Dinamo Zagreb-Feyenoord,UEL,20-21,8f13693b
+9bf914b4,Orkun Kökçü,23,TUR,LM,19-298,73,0,0,0,0,2,0,0,0,58,0,1,0,0.1,0.1,0.0,0,0,35,48,72.9,5,34,1,1,1,Feyenoord,2020-10-22 Dinamo Zagreb-Feyenoord,UEL,20-21,8f13693b
+eef95b11,Eric Botteghin,33,BRA,CB,33-052,17,0,0,0,0,0,0,0,0,3,2,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,0,0,0,0,Feyenoord,2020-10-22 Dinamo Zagreb-Feyenoord,UEL,20-21,8f13693b
+ade993b9,Jens Toornstra,28,NED,"CM,RM",31-201,90,0,0,0,0,1,1,0,0,64,2,2,0,0.0,0.0,0.0,2,0,43,56,76.8,11,29,1,2,2,Feyenoord,2020-10-22 Dinamo Zagreb-Feyenoord,UEL,20-21,8f13693b
+601299e9,João Carlos Teixeira,20,POR,"RM,CM",27-278,90,0,0,0,0,2,1,1,0,49,0,0,2,0.1,0.1,0.1,3,0,27,34,79.4,2,26,2,2,1,Feyenoord,2020-10-22 Dinamo Zagreb-Feyenoord,UEL,20-21,8f13693b
+c8d7131c,Ridgeciano Haps,5,SUR,LB,27-132,90,0,0,0,0,2,0,0,0,47,2,3,1,0.1,0.1,0.0,3,0,22,33,66.7,0,14,1,0,0,Feyenoord,2020-10-22 Dinamo Zagreb-Feyenoord,UEL,20-21,8f13693b
+35141f4c,Marcos Senesi,4,ARG,CB,23-165,71,0,0,0,0,0,0,2,1,51,0,1,0,0.0,0.0,0.0,1,0,33,44,75.0,3,22,2,0,0,Feyenoord,2020-10-22 Dinamo Zagreb-Feyenoord,UEL,20-21,8f13693b
+02ce2030,Uroš Spajić,25,SRB,CB,27-252,90,0,0,0,0,0,0,0,0,48,0,1,3,0.0,0.0,0.0,0,0,30,37,81.1,2,23,0,0,0,Feyenoord,2020-10-22 Dinamo Zagreb-Feyenoord,UEL,20-21,8f13693b
+f40dd3c7,Bart Nieuwkoop,2,NED,RB,24-229,90,0,0,0,0,0,0,1,0,40,2,0,1,0.0,0.0,0.0,2,0,23,30,76.7,0,6,0,0,0,Feyenoord,2020-10-22 Dinamo Zagreb-Feyenoord,UEL,20-21,8f13693b
+53d93280,Justin Bijlow,1,NED,GK,22-274,90,0,0,0,0,0,0,0,0,31,0,0,0,0.0,0.0,0.0,0,0,15,28,53.6,0,16,0,0,0,Feyenoord,2020-10-22 Dinamo Zagreb-Feyenoord,UEL,20-21,8f13693b

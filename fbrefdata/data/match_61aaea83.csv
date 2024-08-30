@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+89b2c8a9,Dries Mertens,14,BEL,FW,34-212,66,1,0,0,0,3,1,0,0,33,1,0,0,0.2,0.2,0.2,2,0,20,27,74.1,2,24,2,0,0,Napoli,2021-12-04 Napoli-Atalanta,ITA-SERIA_A,21-22,61aaea83
+ed90babd,Adam Ounas,33,ALG,"FW,AM",25-023,24,0,0,0,0,0,0,0,0,22,0,0,0,0.0,0.0,0.0,0,0,12,17,70.6,5,21,2,3,3,Napoli,2021-12-04 Napoli-Atalanta,ITA-SERIA_A,21-22,61aaea83
+cf007308,Elif Elmas,7,MKD,LW,22-071,90,0,0,0,0,1,0,0,0,38,1,0,0,0.0,0.0,0.0,2,0,24,30,80.0,1,27,4,5,3,Napoli,2021-12-04 Napoli-Atalanta,ITA-SERIA_A,21-22,61aaea83
+a69e4806,Hirving Lozano,11,MEX,RW,26-127,66,0,0,0,0,2,1,0,0,43,0,0,0,0.1,0.1,0.1,6,1,22,29,75.9,0,33,0,3,2,Napoli,2021-12-04 Napoli-Atalanta,ITA-SERIA_A,21-22,61aaea83
+03f946ed,Andrea Petagna,37,ITA,"RW,FW",26-157,24,0,0,0,0,1,0,0,0,9,0,0,0,0.1,0.1,0.0,0,0,6,7,85.7,1,8,0,1,1,Napoli,2021-12-04 Napoli-Atalanta,ITA-SERIA_A,21-22,61aaea83
+0b5a292a,Mário Rui,6,POR,"LM,LB",30-191,90,0,0,0,0,4,1,0,0,81,1,1,2,0.2,0.2,0.0,3,0,57,68,83.8,3,56,4,1,1,Napoli,2021-12-04 Napoli-Atalanta,ITA-SERIA_A,21-22,61aaea83
+e1cbb531,Stanislav Lobotka,68,SVK,CM,27-009,54,0,0,0,0,0,0,0,0,56,0,0,0,0.0,0.0,0.0,1,0,45,53,84.9,4,42,0,0,0,Napoli,2021-12-04 Napoli-Atalanta,ITA-SERIA_A,21-22,61aaea83
+dc3fa3b5,Diego Demme,4,GER,"CM,DM",30-013,36,0,0,0,0,0,0,0,0,29,2,0,1,0.0,0.0,0.0,0,0,25,28,89.3,4,21,0,0,0,Napoli,2021-12-04 Napoli-Atalanta,ITA-SERIA_A,21-22,61aaea83
+a5296e55,Piotr Zieliński,20,POL,"CM,DM",27-198,90,1,0,0,0,2,1,0,0,65,0,0,0,0.4,0.4,0.1,3,1,51,59,86.4,6,45,2,5,3,Napoli,2021-12-04 Napoli-Atalanta,ITA-SERIA_A,21-22,61aaea83
+d6a889ea,Kévin Malcuit,2,MAR,RM,30-126,84,0,1,0,0,1,0,1,0,43,1,0,1,0.0,0.0,0.1,3,1,26,36,72.2,3,24,2,3,3,Napoli,2021-12-04 Napoli-Atalanta,ITA-SERIA_A,21-22,61aaea83
+5e861944,Matteo Politano,21,ITA,RW,28-123,6,0,0,0,0,0,0,0,0,12,0,0,0,0.0,0.0,0.1,4,0,7,10,70.0,0,7,2,2,2,Napoli,2021-12-04 Napoli-Atalanta,ITA-SERIA_A,21-22,61aaea83
+79083382,Juan Jesus,5,BRA,CB,30-177,90,0,0,0,0,1,0,0,0,79,1,0,3,0.1,0.1,0.0,1,0,60,70,85.7,0,53,0,0,0,Napoli,2021-12-04 Napoli-Atalanta,ITA-SERIA_A,21-22,61aaea83
+4b3e1a38,Amir Rrahmani,13,KVX,CB,27-283,90,0,0,0,0,0,0,1,0,51,2,1,2,0.0,0.0,0.0,0,0,41,42,97.6,3,30,1,1,0,Napoli,2021-12-04 Napoli-Atalanta,ITA-SERIA_A,21-22,61aaea83
+230a2fac,Giovanni Di Lorenzo,22,ITA,"CB,RB",28-122,90,0,0,0,0,0,0,0,0,73,1,2,3,0.0,0.0,0.0,3,0,54,60,90.0,4,41,1,1,0,Napoli,2021-12-04 Napoli-Atalanta,ITA-SERIA_A,21-22,61aaea83
+82b1198a,David Ospina,25,COL,GK,33-095,90,0,0,0,0,0,0,0,0,36,0,0,0,0.0,0.0,0.0,0,0,30,33,90.9,0,23,0,0,0,Napoli,2021-12-04 Napoli-Atalanta,ITA-SERIA_A,21-22,61aaea83
+d3de9af0,Duván Zapata,91,COL,FW,30-247,81,0,1,0,0,3,1,0,0,34,0,0,0,0.4,0.4,0.3,6,1,15,22,68.2,4,23,1,3,2,Atalanta,2021-12-04 Napoli-Atalanta,ITA-SERIA_A,21-22,61aaea83
+eb2fe5b6,Luis Muriel,9,COL,FW,30-232,9,0,0,0,0,2,0,0,0,7,0,0,0,0.1,0.1,0.0,0,0,3,4,75.0,0,4,1,0,0,Atalanta,2021-12-04 Napoli-Atalanta,ITA-SERIA_A,21-22,61aaea83
+780e3631,Matteo Pessina,32,ITA,LW,24-227,55,0,0,0,0,2,1,0,0,39,2,0,2,0.1,0.1,0.1,3,0,26,30,86.7,3,25,5,0,0,Atalanta,2021-12-04 Napoli-Atalanta,ITA-SERIA_A,21-22,61aaea83
+68252d6d,Josip Iličić,72,SVN,"RW,LW",33-309,35,0,1,0,0,1,0,0,0,18,0,0,0,0.0,0.0,0.3,4,1,13,14,92.9,0,11,1,0,0,Atalanta,2021-12-04 Napoli-Atalanta,ITA-SERIA_A,21-22,61aaea83
+48d5bd33,Ruslan Malinovskyi,18,UKR,"RW,LW",28-214,72,1,0,0,0,2,1,1,0,52,2,0,2,0.2,0.2,0.2,7,0,29,42,69.0,2,25,2,1,1,Atalanta,2021-12-04 Napoli-Atalanta,ITA-SERIA_A,21-22,61aaea83
+e599253a,Mario Pašalić,88,CRO,LW,26-298,18,0,0,0,0,0,0,1,0,12,1,0,1,0.0,0.0,0.1,1,0,5,10,50.0,2,9,1,0,0,Atalanta,2021-12-04 Napoli-Atalanta,ITA-SERIA_A,21-22,61aaea83
+c459a650,Joakim Mæhle,3,DEN,LM,24-198,81,0,0,0,0,1,0,0,0,52,0,3,1,0.0,0.0,0.1,3,0,41,46,89.1,2,37,1,0,0,Atalanta,2021-12-04 Napoli-Atalanta,ITA-SERIA_A,21-22,61aaea83
+6eee05f1,Berat Djimsiti,19,ALB,LM,28-288,9,0,0,0,0,0,0,1,0,3,0,0,0,0.0,0.0,0.0,0,0,3,3,100.0,1,3,0,0,0,Atalanta,2021-12-04 Napoli-Atalanta,ITA-SERIA_A,21-22,61aaea83
+98d2c2c4,Remo Freuler,11,SUI,CM,29-233,90,1,0,0,0,2,1,0,0,67,1,1,2,0.2,0.2,0.0,6,0,50,54,92.6,6,37,3,2,2,Atalanta,2021-12-04 Napoli-Atalanta,ITA-SERIA_A,21-22,61aaea83
+2a1beb34,Marten de Roon,15,NED,CM,30-250,90,0,0,0,0,0,0,0,0,48,1,1,1,0.0,0.0,0.0,3,1,35,42,83.3,4,26,1,0,0,Atalanta,2021-12-04 Napoli-Atalanta,ITA-SERIA_A,21-22,61aaea83
+7fe90ccd,Davide Zappacosta,77,ITA,RM,29-176,45,0,0,0,0,2,1,0,0,31,1,0,1,0.1,0.1,0.0,1,0,20,23,87.0,1,13,2,1,0,Atalanta,2021-12-04 Napoli-Atalanta,ITA-SERIA_A,21-22,61aaea83
+3b333ac3,Hans Hateboer,33,NED,RM,27-329,45,0,0,0,0,1,0,0,0,28,2,1,0,0.0,0.0,0.0,0,0,16,21,76.2,1,12,1,0,0,Atalanta,2021-12-04 Napoli-Atalanta,ITA-SERIA_A,21-22,61aaea83
+921f6058,José Luis Palomino,6,ARG,CB,31-333,90,0,0,0,0,1,0,0,0,51,3,1,1,0.1,0.1,0.0,1,1,41,45,91.1,7,30,0,0,0,Atalanta,2021-12-04 Napoli-Atalanta,ITA-SERIA_A,21-22,61aaea83
+e3cceee6,Merih Demiral,28,TUR,CB,23-274,90,1,0,0,0,3,2,0,0,34,1,1,1,0.4,0.4,0.0,0,0,24,26,92.3,1,14,0,0,0,Atalanta,2021-12-04 Napoli-Atalanta,ITA-SERIA_A,21-22,61aaea83
+c56dc39e,Rafael Tolói,2,ITA,CB,31-055,90,0,1,0,0,1,0,0,0,61,3,2,3,0.0,0.0,0.3,4,2,37,49,75.5,5,39,1,0,0,Atalanta,2021-12-04 Napoli-Atalanta,ITA-SERIA_A,21-22,61aaea83
+a111cf41,Juan Musso,1,ARG,GK,27-212,90,0,0,0,0,0,0,0,0,35,0,0,0,0.0,0.0,0.0,0,0,24,35,68.6,0,18,0,0,0,Atalanta,2021-12-04 Napoli-Atalanta,ITA-SERIA_A,21-22,61aaea83

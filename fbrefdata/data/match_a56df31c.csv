@@ -1,0 +1,32 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+3260690c,Benjamin Šeško,30,SVN,FW,20-234,73,0,0,0,0,3,1,0,0,30,2,0,2,0.6,0.6,0.0,1,1,11,16,68.8,0,12,1,2,1,RB Leipzig,2024-01-20 RB Leipzig-Leverkusen,GER-BL1,23-24,a56df31c
+d2416c2e,Yussuf Poulsen,9,DEN,FW,29-219,17,0,0,0,0,0,0,0,0,8,2,0,0,0.0,0.0,0.0,0,0,3,6,50.0,1,2,0,1,1,RB Leipzig,2024-01-20 RB Leipzig-Leverkusen,GER-BL1,23-24,a56df31c
+8652a85c,Loïs Openda,17,BEL,FW,23-338,90,1,0,0,0,2,2,0,0,28,0,1,1,0.6,0.6,0.1,2,0,11,17,64.7,1,15,1,2,1,RB Leipzig,2024-01-20 RB Leipzig-Leverkusen,GER-BL1,23-24,a56df31c
+ae44e8e2,Dani Olmo,7,ESP,AM,25-258,73,0,1,0,0,1,0,0,0,37,1,0,0,0.0,0.0,1.1,4,1,22,31,71.0,2,19,3,3,2,RB Leipzig,2024-01-20 RB Leipzig-Leverkusen,GER-BL1,23-24,a56df31c
+437f2b00,Christoph Baumgartner,14,AUT,AM,24-172,17,0,0,0,0,0,0,0,0,8,0,0,2,0.0,0.0,0.0,0,0,2,5,40.0,0,4,0,1,0,RB Leipzig,2024-01-20 RB Leipzig-Leverkusen,GER-BL1,23-24,a56df31c
+da4d670f,Xavi Simons,20,NED,AM,20-274,83,1,0,0,0,1,1,1,0,39,2,0,0,0.1,0.1,0.1,4,1,22,30,73.3,6,24,4,4,3,RB Leipzig,2024-01-20 RB Leipzig-Leverkusen,GER-BL1,23-24,a56df31c
+cf007308,Elif Elmas,6,MKD,AM,24-118,7,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,7,7,100.0,0,5,1,0,0,RB Leipzig,2024-01-20 RB Leipzig-Leverkusen,GER-BL1,23-24,a56df31c
+8f056768,Xaver Schlager,24,AUT,DM,26-114,90,0,1,0,0,0,0,1,0,44,4,1,1,0.0,0.0,0.1,2,1,31,33,93.9,4,23,1,0,0,RB Leipzig,2024-01-20 RB Leipzig-Leverkusen,GER-BL1,23-24,a56df31c
+28c6e925,Nicolas Seiwald,13,AUT,DM,22-261,73,0,0,0,0,0,0,0,0,46,1,1,0,0.0,0.0,0.0,1,0,32,42,76.2,2,18,0,0,0,RB Leipzig,2024-01-20 RB Leipzig-Leverkusen,GER-BL1,23-24,a56df31c
+b825a650,Kevin Kampl,44,SVN,DM,33-103,17,0,0,0,0,0,0,0,0,9,0,0,1,0.0,0.0,0.0,1,0,5,6,83.3,0,2,0,1,0,RB Leipzig,2024-01-20 RB Leipzig-Leverkusen,GER-BL1,23-24,a56df31c
+7d450ed3,David Raum,22,GER,LB,25-273,90,0,0,0,0,0,0,0,0,71,3,1,1,0.0,0.0,0.2,1,0,44,59,74.6,2,36,0,2,1,RB Leipzig,2024-01-20 RB Leipzig-Leverkusen,GER-BL1,23-24,a56df31c
+5b9512c5,Castello Lukeba,23,FRA,CB,21-034,90,0,0,0,0,0,0,0,0,67,0,0,3,0.0,0.0,0.0,0,0,56,62,90.3,2,42,0,0,0,RB Leipzig,2024-01-20 RB Leipzig-Leverkusen,GER-BL1,23-24,a56df31c
+ca8033cb,Lukas Klostermann,16,GER,CB,27-231,90,0,0,0,0,0,0,0,0,55,1,2,3,0.0,0.0,0.0,0,0,40,42,95.2,1,26,0,0,0,RB Leipzig,2024-01-20 RB Leipzig-Leverkusen,GER-BL1,23-24,a56df31c
+fcb27134,Mohamed Simakan,2,FRA,RB,23-262,73,0,0,0,0,2,2,0,0,44,2,1,1,0.1,0.1,0.0,1,0,28,37,75.7,1,25,1,1,1,RB Leipzig,2024-01-20 RB Leipzig-Leverkusen,GER-BL1,23-24,a56df31c
+0a89e877,Benjamin Henrichs,39,GER,RB,26-331,17,0,0,0,0,1,0,0,0,7,0,0,0,0.2,0.2,0.0,0,0,5,6,83.3,2,4,2,1,1,RB Leipzig,2024-01-20 RB Leipzig-Leverkusen,GER-BL1,23-24,a56df31c
+663e080e,Janis Blaswich,21,GER,GK,32-263,90,0,0,0,0,0,0,0,0,62,0,0,0,0.0,0.0,0.0,0,0,46,60,76.7,0,41,0,0,0,RB Leipzig,2024-01-20 RB Leipzig-Leverkusen,GER-BL1,23-24,a56df31c
+5d4f7d61,Patrik Schick,14,CZE,FW,27-361,89,0,0,0,0,3,0,0,0,31,1,0,0,0.1,0.1,0.1,1,0,19,25,76.0,3,7,0,1,0,Bayer Leverkusen,2024-01-20 RB Leipzig-Leverkusen,GER-BL1,23-24,a56df31c
+5521f419,Adam Hložek,23,CZE,FW,21-179,1,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,0,0,Bayer Leverkusen,2024-01-20 RB Leipzig-Leverkusen,GER-BL1,23-24,a56df31c
+e7fcf289,Florian Wirtz,10,GER,AM,20-262,90,0,0,0,0,3,1,1,0,74,3,0,1,0.2,0.2,0.1,6,1,48,56,85.7,6,40,7,5,1,Bayer Leverkusen,2024-01-20 RB Leipzig-Leverkusen,GER-BL1,23-24,a56df31c
+2903a856,Jonas Hofmann,7,GER,AM,31-190,90,0,1,0,0,1,0,0,0,60,0,0,3,0.0,0.0,0.4,6,2,41,56,73.2,3,31,3,0,0,Bayer Leverkusen,2024-01-20 RB Leipzig-Leverkusen,GER-BL1,23-24,a56df31c
+e82adcab,Exequiel Palacios,25,ARG,CM,25-107,87,0,0,0,0,1,0,0,0,104,6,3,0,0.1,0.1,0.1,3,1,80,91,87.9,8,43,0,1,1,Bayer Leverkusen,2024-01-20 RB Leipzig-Leverkusen,GER-BL1,23-24,a56df31c
+e0b113a7,Robert Andrich,8,GER,CM,29-120,3,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,1,0,0,0,0,Bayer Leverkusen,2024-01-20 RB Leipzig-Leverkusen,GER-BL1,23-24,a56df31c
+e61b8aee,Granit Xhaka,34,SUI,CM,31-115,90,0,0,0,0,1,0,0,0,102,2,2,1,0.0,0.0,0.0,5,0,81,86,94.2,10,44,1,1,1,Bayer Leverkusen,2024-01-20 RB Leipzig-Leverkusen,GER-BL1,23-24,a56df31c
+b1f4086c,Álex Grimaldo,20,ESP,WB,28-122,90,0,2,0,0,2,0,0,0,81,1,1,2,0.1,0.1,1.2,7,2,63,73,86.3,9,37,3,2,1,Bayer Leverkusen,2024-01-20 RB Leipzig-Leverkusen,GER-BL1,23-24,a56df31c
+74f2e748,Jeremie Frimpong,30,NED,WB,23-041,30,0,0,0,0,0,0,0,0,16,0,0,2,0.0,0.0,0.0,0,0,10,11,90.9,0,4,1,0,0,Bayer Leverkusen,2024-01-20 RB Leipzig-Leverkusen,GER-BL1,23-24,a56df31c
+f1e94cd6,Nathan Tella,19,NGA,WB,24-199,60,1,0,0,0,1,1,0,0,41,3,0,0,0.7,0.7,0.0,0,0,25,29,86.2,3,16,3,3,0,Bayer Leverkusen,2024-01-20 RB Leipzig-Leverkusen,GER-BL1,23-24,a56df31c
+0c7a48f8,Piero Hincapié,3,ECU,CB,22-011,90,1,0,0,0,4,2,0,0,94,3,0,3,0.4,0.4,0.0,2,0,72,75,96.0,9,46,1,0,0,Bayer Leverkusen,2024-01-20 RB Leipzig-Leverkusen,GER-BL1,23-24,a56df31c
+bd142efb,Jonathan Tah,4,GER,CB,27-343,90,1,0,0,0,1,1,1,0,96,1,1,0,0.3,0.3,0.0,3,0,81,86,94.2,0,51,0,0,0,Bayer Leverkusen,2024-01-20 RB Leipzig-Leverkusen,GER-BL1,23-24,a56df31c
+7ed08d5c,Josip Stanišić,2,CRO,CB,23-293,90,0,0,0,0,1,0,1,0,80,3,1,0,0.0,0.0,0.0,2,0,64,70,91.4,7,34,4,2,2,Bayer Leverkusen,2024-01-20 RB Leipzig-Leverkusen,GER-BL1,23-24,a56df31c
+ad3389d5,Lukáš Hrádecký,1,FIN,GK,34-057,90,0,0,0,0,0,0,0,0,23,0,0,0,0.0,0.0,0.0,0,0,15,19,78.9,0,11,0,0,0,Bayer Leverkusen,2024-01-20 RB Leipzig-Leverkusen,GER-BL1,23-24,a56df31c

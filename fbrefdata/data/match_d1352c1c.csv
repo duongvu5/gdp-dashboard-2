@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+718b8afd,Florian Ayé,18,FRA,FW,23-195,67,0,0,0,0,1,0,0,0,19,1,0,0,0.0,0.0,0.0,2,1,9,13,69.2,0,16,1,3,3,Brescia,2020-08-01 Brescia-Sampdoria,ITA-SERIA_A,19-20,d1352c1c
+5592007b,Alfredo Donnarumma,9,ITA,FW,29-245,10,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,1,0,0,0,Brescia,2020-08-01 Brescia-Sampdoria,ITA-SERIA_A,19-20,d1352c1c
+360b2bb1,Mattia Viviani,24,ITA,DM,19-332,13,0,0,0,0,0,0,0,0,19,0,1,0,0.0,0.0,0.0,1,0,16,18,88.9,3,18,1,0,0,Brescia,2020-08-01 Brescia-Sampdoria,ITA-SERIA_A,19-20,d1352c1c
+bf39bdec,Ernesto Torregrossa,11,VEN,FW,28-034,90,1,0,1,1,4,1,0,0,41,1,0,1,0.9,0.1,0.2,4,0,22,28,78.6,4,33,2,0,0,Brescia,2020-08-01 Brescia-Sampdoria,ITA-SERIA_A,19-20,d1352c1c
+9e90fb5d,Nikolas Špalek,7,SVK,LM,23-171,58,0,0,0,0,3,1,0,0,31,2,0,1,0.3,0.3,0.0,2,0,15,21,71.4,1,23,1,1,0,Brescia,2020-08-01 Brescia-Sampdoria,ITA-SERIA_A,19-20,d1352c1c
+482145e9,Emanuele Ndoj,6,ALB,"LM,CM",23-255,32,0,0,0,0,1,0,0,0,35,1,1,0,0.0,0.0,0.0,2,0,22,29,75.9,7,27,2,0,0,Brescia,2020-08-01 Brescia-Sampdoria,ITA-SERIA_A,19-20,d1352c1c
+0db169ae,Sandro Tonali,4,ITA,"CM,DM,LM",20-085,90,0,0,0,0,2,0,0,0,69,2,2,0,0.1,0.1,0.0,5,1,50,60,83.3,8,51,2,1,0,Brescia,2020-08-01 Brescia-Sampdoria,ITA-SERIA_A,19-20,d1352c1c
+02b2937c,Daniele Dessena,27,ITA,"CM,RM",33-083,90,0,0,0,0,0,0,0,0,52,2,0,0,0.0,0.0,0.3,3,0,42,49,85.7,8,39,3,2,1,Brescia,2020-08-01 Brescia-Sampdoria,ITA-SERIA_A,19-20,d1352c1c
+cbec1196,Jaromír Zmrhal,8,CZE,"RM,CM,FW",26-365,90,0,0,0,0,4,1,0,0,41,0,0,1,0.3,0.3,0.0,1,0,22,33,66.7,2,25,2,0,0,Brescia,2020-08-01 Brescia-Sampdoria,ITA-SERIA_A,19-20,d1352c1c
+deb748c9,Aleš Matějů,3,CZE,"LB,CB",24-059,90,0,0,0,0,0,0,0,0,41,0,1,2,0.0,0.0,0.0,1,0,28,35,80.0,0,24,2,0,0,Brescia,2020-08-01 Brescia-Sampdoria,ITA-SERIA_A,19-20,d1352c1c
+33914f14,Massimiliano Mangraviti,19,ITA,"CB,LB",22-190,90,0,0,0,0,0,0,0,0,44,0,3,1,0.0,0.0,0.0,0,0,31,36,86.1,0,28,0,0,0,Brescia,2020-08-01 Brescia-Sampdoria,ITA-SERIA_A,19-20,d1352c1c
+13f89eaa,Daniele Gastaldello,5,ITA,CB,37-037,58,0,0,0,0,0,0,1,0,35,0,2,1,0.0,0.0,0.0,0,0,19,23,82.6,1,14,0,0,0,Brescia,2020-08-01 Brescia-Sampdoria,ITA-SERIA_A,19-20,d1352c1c
+dd29f81d,Alessandro Semprini,29,ITA,LB,22-159,32,0,0,0,0,0,0,0,0,32,1,0,1,0.0,0.0,0.1,4,0,25,30,83.3,3,18,2,0,0,Brescia,2020-08-01 Brescia-Sampdoria,ITA-SERIA_A,19-20,d1352c1c
+0ccac09c,Stefano Sabelli,2,ITA,RB,27-201,90,0,0,0,0,0,0,0,0,82,1,1,1,0.0,0.0,0.1,5,0,58,70,82.9,8,56,5,2,0,Brescia,2020-08-01 Brescia-Sampdoria,ITA-SERIA_A,19-20,d1352c1c
+fe471a89,Lorenzo Andrenacci,12,ITA,GK,25-212,90,0,0,0,0,0,0,0,0,35,1,0,0,0.0,0.0,0.0,0,0,28,31,90.3,0,17,0,0,0,Brescia,2020-08-01 Brescia-Sampdoria,ITA-SERIA_A,19-20,d1352c1c
+ee4f2f3b,Fabio Quagliarella,27,ITA,FW,37-183,90,0,0,0,1,5,2,0,0,36,0,0,0,1.0,0.2,0.1,4,0,22,28,78.6,2,20,1,0,0,Sampdoria,2020-08-01 Brescia-Sampdoria,ITA-SERIA_A,19-20,d1352c1c
+8f866fe8,Manolo Gabbiadini,23,ITA,FW,28-249,90,0,0,0,0,4,0,0,0,33,1,0,0,0.2,0.2,0.6,6,1,14,23,60.9,0,20,3,1,0,Sampdoria,2020-08-01 Brescia-Sampdoria,ITA-SERIA_A,19-20,d1352c1c
+7d3cbc67,Mehdi Léris,26,ALG,LM,22-070,67,1,0,0,0,2,1,0,0,46,2,3,2,0.1,0.1,0.0,1,0,21,29,72.4,2,31,0,2,1,Sampdoria,2020-08-01 Brescia-Sampdoria,ITA-SERIA_A,19-20,d1352c1c
+d023d70f,Karol Linetty,7,POL,RM,25-181,23,0,0,0,0,1,1,0,0,11,0,0,1,0.0,0.0,0.0,0,0,4,8,50.0,0,7,0,0,0,Sampdoria,2020-08-01 Brescia-Sampdoria,ITA-SERIA_A,19-20,d1352c1c
+c75b6a02,Andrea Bertolacci,91,ITA,CM,29-203,71,0,0,0,0,0,0,0,0,56,0,0,1,0.0,0.0,0.0,4,0,37,49,75.5,7,31,2,1,0,Sampdoria,2020-08-01 Brescia-Sampdoria,ITA-SERIA_A,19-20,d1352c1c
+a69cc629,Kristoffer Askildsen,16,NOR,CM,19-205,18,0,0,0,0,0,0,2,1,11,0,0,0,0.0,0.0,0.0,1,0,9,10,90.0,0,9,0,0,0,Sampdoria,2020-08-01 Brescia-Sampdoria,ITA-SERIA_A,19-20,d1352c1c
+75e60d75,Ronaldo Vieira,4,ENG,CM,22-013,71,0,0,0,0,1,0,1,0,34,1,0,1,0.1,0.1,0.0,2,0,27,28,96.4,4,17,2,1,1,Sampdoria,2020-08-01 Brescia-Sampdoria,ITA-SERIA_A,19-20,d1352c1c
+d1b49282,Morten Thorsby,18,NOR,CM,24-088,19,0,0,0,0,0,0,0,0,16,1,0,0,0.0,0.0,0.0,2,0,12,14,85.7,1,6,0,0,0,Sampdoria,2020-08-01 Brescia-Sampdoria,ITA-SERIA_A,19-20,d1352c1c
+e01ca8f4,Gonzalo Maroni,20,ARG,RM,21-136,67,0,0,0,0,2,0,0,0,37,0,1,1,0.1,0.1,0.2,5,0,28,32,87.5,4,31,5,3,3,Sampdoria,2020-08-01 Brescia-Sampdoria,ITA-SERIA_A,19-20,d1352c1c
+1ea5f91c,Jakub Jankto,14,CZE,LM,24-195,23,0,0,0,0,0,0,0,0,14,0,0,1,0.0,0.0,0.1,1,0,10,13,76.9,3,9,2,0,0,Sampdoria,2020-08-01 Brescia-Sampdoria,ITA-SERIA_A,19-20,d1352c1c
+3cd3b384,Tommaso Augello,3,ITA,LB,25-337,90,0,1,0,0,0,0,0,0,71,1,0,0,0.0,0.0,0.1,5,1,56,65,86.2,6,45,5,3,3,Sampdoria,2020-08-01 Brescia-Sampdoria,ITA-SERIA_A,19-20,d1352c1c
+8cc29864,Lorenzo Tonelli,21,ITA,CB,30-197,18,0,0,0,0,0,0,0,0,10,2,0,0,0.0,0.0,0.0,0,0,8,8,100.0,1,4,0,0,0,Sampdoria,2020-08-01 Brescia-Sampdoria,ITA-SERIA_A,19-20,d1352c1c
+8b95acda,Omar Colley,15,GAM,CB,27-282,72,0,0,0,0,2,1,0,0,41,1,0,0,0.5,0.5,0.0,0,0,26,29,89.7,1,23,0,0,0,Sampdoria,2020-08-01 Brescia-Sampdoria,ITA-SERIA_A,19-20,d1352c1c
+caffaf5a,Maya Yoshida,34,JPN,CB,31-343,90,0,0,0,0,0,0,0,0,45,0,1,0,0.0,0.0,0.0,0,0,34,38,89.5,1,26,1,1,1,Sampdoria,2020-08-01 Brescia-Sampdoria,ITA-SERIA_A,19-20,d1352c1c
+d97f2e8d,Fabio Depaoli,12,ITA,RB,23-099,90,0,0,0,0,0,0,0,0,47,1,0,1,0.0,0.0,0.0,1,0,32,40,80.0,2,26,2,0,0,Sampdoria,2020-08-01 Brescia-Sampdoria,ITA-SERIA_A,19-20,d1352c1c
+9f5a610b,Wladimiro Falcone,30,ITA,GK,25-111,90,0,0,0,0,0,0,1,0,32,0,0,0,0.0,0.0,0.0,0,0,18,28,64.3,0,13,0,0,0,Sampdoria,2020-08-01 Brescia-Sampdoria,ITA-SERIA_A,19-20,d1352c1c

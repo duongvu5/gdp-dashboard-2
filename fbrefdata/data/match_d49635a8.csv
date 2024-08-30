@@ -1,0 +1,32 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+601ef102,Stefano Okaka,7,ITA,FW,31-280,73,0,0,0,0,0,0,1,0,10,0,0,1,0.0,0.0,0.0,0,0,7,8,87.5,0,4,0,0,0,Udinese,2021-05-16 Udinese-Sampdoria,ITA-SERIA_A,20-21,d49635a8
+82dbf623,Fernando Llorente,32,ESP,FW,36-079,17,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,1,0,5,7,71.4,0,4,0,1,0,Udinese,2021-05-16 Udinese-Sampdoria,ITA-SERIA_A,20-21,d49635a8
+75f2c59f,Roberto Pereyra,37,ARG,"FW,DM,LM",30-129,90,0,0,0,0,2,0,0,0,63,2,0,2,0.1,0.1,0.0,2,0,39,48,81.3,3,41,2,2,1,Udinese,2021-05-16 Udinese-Sampdoria,ITA-SERIA_A,20-21,d49635a8
+22bfb57e,Jean-Victor Makengo,6,FRA,DM,22-338,58,0,0,0,0,1,0,0,0,45,0,1,1,0.0,0.0,0.0,2,0,32,36,88.9,4,28,1,3,1,Udinese,2021-05-16 Udinese-Sampdoria,ITA-SERIA_A,20-21,d49635a8
+d60c26fc,Fernando Forestieri,45,ITA,FW,31-121,32,0,0,0,0,1,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,5,5,100.0,1,6,1,1,0,Udinese,2021-05-16 Udinese-Sampdoria,ITA-SERIA_A,20-21,d49635a8
+26db8853,Walace,11,BRA,"DM,CM",26-042,90,0,0,0,0,1,1,1,0,63,1,2,1,0.0,0.0,0.0,0,0,52,57,91.2,2,35,0,1,1,Udinese,2021-05-16 Udinese-Sampdoria,ITA-SERIA_A,20-21,d49635a8
+162efffd,Rodrigo De Paul,10,ARG,"DM,CM",26-357,90,0,0,0,0,3,1,0,0,83,0,0,0,0.2,0.2,0.1,5,0,54,77,70.1,13,51,7,6,4,Udinese,2021-05-16 Udinese-Sampdoria,ITA-SERIA_A,20-21,d49635a8
+f91e81c9,Jens Stryger Larsen,19,DEN,"WB,RB",30-084,90,0,0,0,0,0,0,0,0,47,0,1,0,0.0,0.0,0.0,0,0,30,41,73.2,3,28,1,0,0,Udinese,2021-05-16 Udinese-Sampdoria,ITA-SERIA_A,20-21,d49635a8
+23610943,Nahuel Molina,16,ARG,"WB,RM",23-040,90,0,0,0,0,1,0,0,0,68,0,1,3,0.0,0.0,0.0,1,0,47,56,83.9,3,26,1,0,0,Udinese,2021-05-16 Udinese-Sampdoria,ITA-SERIA_A,20-21,d49635a8
+8abd0c03,Marvin Zeegelaar,90,NED,CB,30-277,58,0,0,0,0,0,0,0,0,60,3,0,0,0.0,0.0,0.0,0,0,49,54,90.7,4,31,1,0,0,Udinese,2021-05-16 Udinese-Sampdoria,ITA-SERIA_A,20-21,d49635a8
+92b4758e,Samir Santos,3,BRA,CB,26-162,32,0,0,0,0,0,0,0,0,20,0,0,0,0.0,0.0,0.0,0,0,16,18,88.9,1,11,0,0,0,Udinese,2021-05-16 Udinese-Sampdoria,ITA-SERIA_A,20-21,d49635a8
+fb77bfef,Kevin Bonifazi,14,ITA,CB,24-362,90,0,0,0,0,0,0,1,0,79,0,1,2,0.0,0.0,0.2,4,0,64,70,91.4,1,51,0,0,0,Udinese,2021-05-16 Udinese-Sampdoria,ITA-SERIA_A,20-21,d49635a8
+19e4eab9,Rodrigo Becão,50,BRA,CB,25-117,88,0,0,0,0,0,0,0,0,70,1,5,3,0.0,0.0,0.0,1,0,51,58,87.9,1,45,0,0,0,Udinese,2021-05-16 Udinese-Sampdoria,ITA-SERIA_A,20-21,d49635a8
+36d9dabe,Thomas Ouwejan,5,NED,"LB,CB",24-228,2,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,1,0,2,3,66.7,0,2,0,0,0,Udinese,2021-05-16 Udinese-Sampdoria,ITA-SERIA_A,20-21,d49635a8
+a111cf41,Juan Musso,1,ARG,GK,27-010,90,0,0,0,0,0,0,0,0,33,0,0,0,0.0,0.0,0.0,0,0,25,31,80.6,0,21,0,0,0,Udinese,2021-05-16 Udinese-Sampdoria,ITA-SERIA_A,20-21,d49635a8
+509a4ccb,Keita Baldé,10,SEN,FW,26-069,74,0,0,0,0,1,0,0,0,26,1,0,0,0.1,0.1,0.0,1,0,15,18,83.3,0,23,1,2,1,Sampdoria,2021-05-16 Udinese-Sampdoria,ITA-SERIA_A,20-21,d49635a8
+33ecf462,Valerio Verre,8,ITA,FW,27-125,16,0,0,0,0,2,1,0,0,11,0,0,0,0.1,0.1,0.0,3,1,8,9,88.9,4,9,0,0,0,Sampdoria,2021-05-16 Udinese-Sampdoria,ITA-SERIA_A,20-21,d49635a8
+8f866fe8,Manolo Gabbiadini,23,ITA,FW,29-171,74,0,0,0,0,4,1,0,0,31,1,0,0,0.1,0.1,0.1,3,0,20,24,83.3,2,22,1,3,1,Sampdoria,2021-05-16 Udinese-Sampdoria,ITA-SERIA_A,20-21,d49635a8
+ee4f2f3b,Fabio Quagliarella,27,ITA,FW,38-105,16,1,0,1,1,1,1,0,0,9,0,0,0,0.9,0.1,0.0,1,0,5,6,83.3,1,5,0,0,0,Sampdoria,2021-05-16 Udinese-Sampdoria,ITA-SERIA_A,20-21,d49635a8
+d1b49282,Morten Thorsby,18,NOR,CM,25-011,90,0,0,0,0,1,0,1,0,35,4,0,3,0.1,0.1,0.1,3,0,23,25,92.0,0,16,0,0,0,Sampdoria,2021-05-16 Udinese-Sampdoria,ITA-SERIA_A,20-21,d49635a8
+f503ea63,Albin Ekdal,6,SWE,CM,31-292,90,0,0,0,0,0,0,0,0,59,1,2,0,0.0,0.0,0.0,4,0,43,51,84.3,3,41,2,2,2,Sampdoria,2021-05-16 Udinese-Sampdoria,ITA-SERIA_A,20-21,d49635a8
+356c9002,Antonio Candreva,87,ITA,"CM,RM",34-077,88,0,0,0,0,2,2,0,0,84,2,0,0,0.0,0.0,0.1,4,0,58,74,78.4,11,68,4,2,0,Sampdoria,2021-05-16 Udinese-Sampdoria,ITA-SERIA_A,20-21,d49635a8
+215f3907,Mikkel Damsgaard,38,DEN,RM,20-317,2,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.1,2,0,5,5,100.0,1,3,0,0,0,Sampdoria,2021-05-16 Udinese-Sampdoria,ITA-SERIA_A,20-21,d49635a8
+3cd3b384,Tommaso Augello,3,ITA,LB,26-259,90,0,0,0,0,2,0,0,0,64,1,1,2,0.1,0.1,0.1,1,0,43,53,81.1,4,42,4,2,2,Sampdoria,2021-05-16 Udinese-Sampdoria,ITA-SERIA_A,20-21,d49635a8
+8b95acda,Omar Colley,15,GAM,CB,28-204,90,0,0,0,0,0,0,0,0,74,2,6,1,0.0,0.0,0.0,0,0,50,57,87.7,4,53,0,0,0,Sampdoria,2021-05-16 Udinese-Sampdoria,ITA-SERIA_A,20-21,d49635a8
+caffaf5a,Maya Yoshida,22,JPN,CB,32-265,90,0,0,0,0,1,0,0,0,50,1,4,0,0.1,0.1,0.0,1,0,33,38,86.8,1,29,0,0,0,Sampdoria,2021-05-16 Udinese-Sampdoria,ITA-SERIA_A,20-21,d49635a8
+61b3978f,Bartosz Bereszyński,24,POL,"CB,RB",28-308,90,0,0,0,0,0,0,0,0,80,2,3,3,0.0,0.0,0.0,0,0,61,67,91.0,4,52,3,0,0,Sampdoria,2021-05-16 Udinese-Sampdoria,ITA-SERIA_A,20-21,d49635a8
+7d3cbc67,Mehdi Léris,26,ALG,RB,22-358,65,0,0,0,0,0,0,0,0,47,3,1,3,0.0,0.0,0.1,4,0,29,36,80.6,3,30,1,1,1,Sampdoria,2021-05-16 Udinese-Sampdoria,ITA-SERIA_A,20-21,d49635a8
+1ea5f91c,Jakub Jankto,14,CZE,LM,25-117,25,0,0,0,0,1,0,0,0,18,0,1,0,0.0,0.0,0.1,2,0,12,16,75.0,4,13,3,0,0,Sampdoria,2021-05-16 Udinese-Sampdoria,ITA-SERIA_A,20-21,d49635a8
+649b01d8,Emil Audero,1,ITA,GK,24-118,90,0,0,0,0,0,0,0,0,31,0,0,0,0.0,0.0,0.0,1,0,27,30,90.0,0,21,0,0,0,Sampdoria,2021-05-16 Udinese-Sampdoria,ITA-SERIA_A,20-21,d49635a8

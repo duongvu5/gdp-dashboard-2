@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+603cb947,Andrej Kramarić,27,CRO,FW,27-095,77,0,0,0,0,4,0,0,0,31,0,0,0,0.2,0.2,0.2,4,0,17,23,73.9,1,22,3,1,0,Hoffenheim,2018-09-22 Hoffenheim-Dortmund,GER-BL1,18-19,c5cdb30a
+53e07d0b,Ádám Szalai,28,HUN,FW,30-287,13,0,0,0,0,1,0,0,0,4,1,0,0,0.1,0.1,0.0,1,0,1,2,50.0,0,2,0,0,0,Hoffenheim,2018-09-22 Hoffenheim-Dortmund,GER-BL1,18-19,c5cdb30a
+c17bfb65,Joelinton,34,BRA,FW,22-039,85,1,0,0,0,4,3,0,0,33,1,2,1,0.2,0.2,0.0,1,1,14,19,73.7,4,14,2,2,0,Hoffenheim,2018-09-22 Hoffenheim-Dortmund,GER-BL1,18-19,c5cdb30a
+ff182fdc,Ishak Belfodil,19,ALG,FW,26-253,5,0,0,0,0,1,0,0,0,4,0,0,0,0.7,0.7,0.1,1,0,2,3,66.7,1,3,0,0,0,Hoffenheim,2018-09-22 Hoffenheim-Dortmund,GER-BL1,18-19,c5cdb30a
+b6a6e0a7,Steven Zuber,17,SUI,CM,27-036,69,0,0,0,0,2,0,0,0,27,1,0,0,0.1,0.1,0.1,4,0,17,23,73.9,5,18,3,0,0,Hoffenheim,2018-09-22 Hoffenheim-Dortmund,GER-BL1,18-19,c5cdb30a
+6cafd68d,Håvard Nordtveit,6,NOR,CM,28-093,21,0,0,0,0,0,0,1,0,6,1,0,0,0.0,0.0,0.0,0,0,5,5,100.0,1,1,0,0,0,Hoffenheim,2018-09-22 Hoffenheim-Dortmund,GER-BL1,18-19,c5cdb30a
+ffbbc83b,Florian Grillitsch,11,AUT,CM,23-046,90,0,0,0,0,0,0,0,0,41,2,1,2,0.0,0.0,0.0,1,0,24,31,77.4,5,22,1,1,1,Hoffenheim,2018-09-22 Hoffenheim-Dortmund,GER-BL1,18-19,c5cdb30a
+dc62fbee,Leonardo Bittencourt,13,GER,CM,24-277,90,0,0,0,0,2,2,0,0,42,6,2,2,0.5,0.5,0.0,2,0,18,28,64.3,1,19,2,0,0,Hoffenheim,2018-09-22 Hoffenheim-Dortmund,GER-BL1,18-19,c5cdb30a
+fa274d97,Nico Schulz,16,GER,WB,25-174,90,0,0,0,0,1,0,0,0,51,0,0,0,0.0,0.0,1.1,6,0,36,45,80.0,4,30,6,2,2,Hoffenheim,2018-09-22 Hoffenheim-Dortmund,GER-BL1,18-19,c5cdb30a
+2b5527c4,Joshua Brenet,2,CUW,WB,24-186,90,0,0,0,0,1,0,0,0,53,4,1,3,0.1,0.1,0.0,3,1,28,39,71.8,4,25,2,1,0,Hoffenheim,2018-09-22 Hoffenheim-Dortmund,GER-BL1,18-19,c5cdb30a
+7f609bfc,Stefan Posch,38,AUT,CB,21-131,90,0,0,0,0,0,0,1,0,76,4,0,2,0.0,0.0,0.0,3,0,60,67,89.6,6,47,1,1,1,Hoffenheim,2018-09-22 Hoffenheim-Dortmund,GER-BL1,18-19,c5cdb30a
+1d8e9add,Kevin Vogt,22,GER,CB,26-364,90,0,0,0,0,0,0,0,0,68,4,3,1,0.0,0.0,0.0,1,0,54,61,88.5,2,37,0,0,0,Hoffenheim,2018-09-22 Hoffenheim-Dortmund,GER-BL1,18-19,c5cdb30a
+7aac47fe,Ermin Bičakčić,4,BIH,CB,28-241,90,0,0,0,0,1,0,0,0,50,4,4,3,0.1,0.1,0.0,0,0,31,35,88.6,5,22,1,0,0,Hoffenheim,2018-09-22 Hoffenheim-Dortmund,GER-BL1,18-19,c5cdb30a
+47064058,Oliver Baumann,1,GER,GK,28-112,90,0,0,0,0,0,0,0,0,50,0,0,0,0.0,0.0,0.1,1,0,41,50,82.0,0,29,0,0,0,Hoffenheim,2018-09-22 Hoffenheim-Dortmund,GER-BL1,18-19,c5cdb30a
+fa661778,Marius Wolf,27,GER,FW,23-118,59,0,0,0,0,0,0,0,0,16,0,0,0,0.0,0.0,0.0,0,0,13,14,92.9,1,8,0,1,0,Dortmund,2018-09-22 Hoffenheim-Dortmund,GER-BL1,18-19,c5cdb30a
+dbf053da,Jadon Sancho,7,ENG,LW,18-181,31,0,0,0,0,0,0,0,0,17,0,0,0,0.0,0.0,0.0,1,0,11,13,84.6,0,15,1,3,1,Dortmund,2018-09-22 Hoffenheim-Dortmund,GER-BL1,18-19,c5cdb30a
+36a3ff67,Marco Reus,11,GER,"LW,AM,FW",29-114,90,0,1,0,0,1,0,0,0,39,4,0,1,0.1,0.1,0.5,2,1,19,26,73.1,4,18,2,3,0,Dortmund,2018-09-22 Hoffenheim-Dortmund,GER-BL1,18-19,c5cdb30a
+1bf33a9a,Christian Pulisic,22,USA,RW,20-004,90,1,0,0,0,1,1,0,0,50,0,0,2,0.5,0.5,0.4,4,0,30,41,73.2,2,35,5,6,5,Dortmund,2018-09-22 Hoffenheim-Dortmund,GER-BL1,18-19,c5cdb30a
+5afafbfe,Shinji Kagawa,23,JPN,AM,29-189,69,0,0,0,0,2,1,0,0,49,0,0,0,0.4,0.4,0.0,1,0,38,47,80.9,1,30,0,0,0,Dortmund,2018-09-22 Hoffenheim-Dortmund,GER-BL1,18-19,c5cdb30a
+061e8e23,Maximilian Philipp,20,GER,FW,24-205,21,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,0,0,7,8,87.5,0,7,0,2,1,Dortmund,2018-09-22 Hoffenheim-Dortmund,GER-BL1,18-19,c5cdb30a
+5dfc6ad5,Axel Witsel,28,BEL,"DM,CB",29-253,90,0,0,0,0,2,0,0,0,75,2,0,0,0.2,0.2,0.0,2,0,65,69,94.2,5,46,3,2,0,Dortmund,2018-09-22 Hoffenheim-Dortmund,GER-BL1,18-19,c5cdb30a
+db4ed67b,Mahmoud Dahoud,19,GER,DM,22-264,59,0,0,0,0,0,0,1,0,42,2,0,0,0.0,0.0,0.0,0,0,35,38,92.1,2,29,3,0,0,Dortmund,2018-09-22 Hoffenheim-Dortmund,GER-BL1,18-19,c5cdb30a
+fe641c1a,Thomas Delaney,6,DEN,DM,27-019,31,0,0,0,0,1,0,0,0,24,2,1,0,0.0,0.0,0.0,0,0,18,20,90.0,1,10,1,0,0,Dortmund,2018-09-22 Hoffenheim-Dortmund,GER-BL1,18-19,c5cdb30a
+89565ac5,Marcel Schmelzer,29,GER,LB,30-243,90,0,0,0,0,0,0,0,0,91,2,2,1,0.0,0.0,0.0,3,1,69,81,85.2,10,40,6,1,0,Dortmund,2018-09-22 Hoffenheim-Dortmund,GER-BL1,18-19,c5cdb30a
+fc62f087,Abdou Diallo,4,SEN,CB,22-141,74,0,0,0,0,0,0,0,1,99,4,0,1,0.0,0.0,0.0,1,0,79,87,90.8,7,68,2,1,0,Dortmund,2018-09-22 Hoffenheim-Dortmund,GER-BL1,18-19,c5cdb30a
+89ac64a6,Manuel Akanji,16,SUI,CB,23-065,90,0,0,0,0,0,0,0,0,89,1,1,2,0.0,0.0,0.0,0,0,79,82,96.3,1,63,0,0,0,Dortmund,2018-09-22 Hoffenheim-Dortmund,GER-BL1,18-19,c5cdb30a
+fe2db476,Łukasz Piszczek,26,POL,RB,33-111,90,0,0,0,0,1,0,0,0,81,2,1,0,0.1,0.1,0.0,0,0,62,70,88.6,11,42,3,0,0,Dortmund,2018-09-22 Hoffenheim-Dortmund,GER-BL1,18-19,c5cdb30a
+9d12e142,Roman Bürki,1,SUI,GK,27-312,90,0,0,0,0,0,0,0,0,45,0,0,0,0.0,0.0,0.0,0,0,35,40,87.5,0,24,0,0,0,Dortmund,2018-09-22 Hoffenheim-Dortmund,GER-BL1,18-19,c5cdb30a

@@ -1,0 +1,29 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+5bd72174,Francesco Caputo,11,ITA,FW,31-208,90,1,0,1,1,0,0,0,0,28,1,0,0,0.8,0.0,0.3,3,1,16,23,69.6,0,16,2,0,0,Empoli,2019-03-02 Empoli-Parma,ITA-SERIA_A,18-19,94f40f4f
+157d29b6,Diego Farias,17,BRA,FW,28-296,83,0,1,0,0,2,2,0,0,32,0,0,1,0.2,0.2,0.6,3,1,24,27,88.9,3,25,4,3,3,Empoli,2019-03-02 Empoli-Parma,ITA-SERIA_A,18-19,94f40f4f
+822a7761,Antonino La Gumina,20,ITA,FW,22-361,7,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.1,1,0,3,3,100.0,0,3,0,2,1,Empoli,2019-03-02 Empoli-Parma,ITA-SERIA_A,18-19,94f40f4f
+817c6964,Rade Krunić,33,BIH,CM,25-146,90,0,0,0,0,5,2,0,0,59,0,0,1,0.3,0.3,0.1,7,0,42,47,89.4,10,36,7,5,4,Empoli,2019-03-02 Empoli-Parma,ITA-SERIA_A,18-19,94f40f4f
+db092d3b,Ismaël Bennacer,10,ALG,CM,21-091,90,0,0,0,0,1,1,0,0,75,1,3,0,0.0,0.0,0.0,3,0,56,69,81.2,10,40,3,1,1,Empoli,2019-03-02 Empoli-Parma,ITA-SERIA_A,18-19,94f40f4f
+d7403bd5,Afriyie Acquah,18,GHA,CM,27-056,63,0,0,0,0,3,0,0,0,47,1,0,0,0.2,0.2,0.0,2,0,30,40,75.0,4,33,4,0,0,Empoli,2019-03-02 Empoli-Parma,ITA-SERIA_A,18-19,94f40f4f
+570bb4b9,Hamed Junior Traorè,8,CIV,CM,19-014,27,0,0,0,0,3,0,0,0,15,1,0,0,0.1,0.1,0.0,1,0,4,8,50.0,0,6,1,3,2,Empoli,2019-03-02 Empoli-Parma,ITA-SERIA_A,18-19,94f40f4f
+548902cc,Manuel Pasqual,23,ITA,WB,36-354,86,0,0,0,0,0,0,0,0,84,2,0,0,0.0,0.0,0.2,8,0,55,78,70.5,7,38,4,0,0,Empoli,2019-03-02 Empoli-Parma,ITA-SERIA_A,18-19,94f40f4f
+af45e954,Dimitri Oberlin,37,SUI,WB,21-156,4,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.1,0,0,0,3,0.0,0,2,0,1,0,Empoli,2019-03-02 Empoli-Parma,ITA-SERIA_A,18-19,94f40f4f
+230a2fac,Giovanni Di Lorenzo,2,ITA,WB,25-210,90,0,0,0,0,1,1,0,0,94,1,2,1,0.3,0.3,0.1,5,1,67,77,87.0,9,59,7,5,2,Empoli,2019-03-02 Empoli-Parma,ITA-SERIA_A,18-19,94f40f4f
+b0243215,Cristian Dell'Orco,39,ITA,CB,25-020,90,1,0,0,0,1,1,0,0,75,4,2,0,0.6,0.6,0.0,1,1,62,67,92.5,8,44,2,0,0,Empoli,2019-03-02 Empoli-Parma,ITA-SERIA_A,18-19,94f40f4f
+b6ca47a2,Matías Silvestre,26,ARG,CB,34-158,90,0,0,0,0,3,0,0,0,67,6,0,0,0.2,0.2,0.0,0,0,50,59,84.7,2,39,0,0,0,Empoli,2019-03-02 Empoli-Parma,ITA-SERIA_A,18-19,94f40f4f
+d541e703,Freddie Veseli,5,ALB,CB,26-102,90,0,0,0,0,0,0,0,0,54,1,1,0,0.0,0.0,0.0,1,0,43,49,87.8,6,26,0,0,0,Empoli,2019-03-02 Empoli-Parma,ITA-SERIA_A,18-19,94f40f4f
+085e71a7,Bartłomiej Drągowski,69,POL,GK,21-195,90,0,0,0,0,0,0,1,0,32,0,0,0,0.0,0.0,0.0,0,0,23,27,85.2,0,15,0,0,0,Empoli,2019-03-02 Empoli-Parma,ITA-SERIA_A,18-19,94f40f4f
+6c1f7328,Roberto Inglese,45,ITA,FW,27-110,90,0,0,0,0,2,2,0,0,18,0,1,0,0.4,0.4,0.0,1,0,12,14,85.7,1,10,1,0,0,Parma,2019-03-02 Empoli-Parma,ITA-SERIA_A,18-19,94f40f4f
+e468c053,Gervinho,27,CIV,LW,31-279,90,1,0,0,0,1,1,1,0,35,4,1,1,0.1,0.1,0.0,2,1,17,21,81.0,4,17,3,8,4,Parma,2019-03-02 Empoli-Parma,ITA-SERIA_A,18-19,94f40f4f
+1cac99dc,Luca Siligardi,26,ITA,RW,31-035,70,0,1,0,0,1,1,0,0,33,0,0,1,0.0,0.0,0.1,4,2,12,20,60.0,0,15,0,4,1,Parma,2019-03-02 Empoli-Parma,ITA-SERIA_A,18-19,94f40f4f
+6b99d135,Jonathan Biabiany,77,FRA,RW,30-308,20,0,0,0,0,0,0,0,0,12,1,1,0,0.0,0.0,0.0,2,0,4,7,57.1,2,5,1,4,4,Parma,2019-03-02 Empoli-Parma,ITA-SERIA_A,18-19,94f40f4f
+a64cbd35,Antonino Barillà,17,ITA,LM,30-335,89,0,0,0,0,0,0,0,0,23,3,0,1,0.0,0.0,0.1,1,0,12,17,70.6,1,9,0,1,0,Parma,2019-03-02 Empoli-Parma,ITA-SERIA_A,18-19,94f40f4f
+93390969,Marcello Gazzola,23,ITA,LM,33-333,1,0,0,0,0,0,0,0,0,3,1,0,0,0.0,0.0,0.0,0,0,1,2,50.0,1,2,0,0,0,Parma,2019-03-02 Empoli-Parma,ITA-SERIA_A,18-19,94f40f4f
+4dba2a97,Luca Rigoni,32,ITA,CM,34-085,90,1,0,0,0,1,1,0,0,41,1,0,3,0.3,0.3,0.3,1,0,22,31,71.0,1,13,1,0,0,Parma,2019-03-02 Empoli-Parma,ITA-SERIA_A,18-19,94f40f4f
+5aaef9ef,Juraj Kucka,87,SVK,RM,32-004,90,0,1,0,0,2,1,1,0,43,3,2,1,0.2,0.2,0.5,2,1,25,33,75.8,6,17,0,2,2,Parma,2019-03-02 Empoli-Parma,ITA-SERIA_A,18-19,94f40f4f
+635b0bae,Massimo Gobbi,18,ITA,LB,38-122,90,0,0,0,0,0,0,0,0,51,1,0,2,0.0,0.0,0.0,0,0,34,48,70.8,2,19,1,0,0,Parma,2019-03-02 Empoli-Parma,ITA-SERIA_A,18-19,94f40f4f
+173061c0,Riccardo Gagliolo,28,SWE,CB,28-308,90,0,0,0,0,0,0,0,0,53,1,1,1,0.0,0.0,0.0,0,0,34,44,77.3,2,27,0,0,0,Parma,2019-03-02 Empoli-Parma,ITA-SERIA_A,18-19,94f40f4f
+585a73a8,Bruno Alves,22,POR,CB,37-095,90,1,1,0,0,1,1,0,0,67,0,1,1,0.4,0.4,0.3,2,1,45,52,86.5,2,28,0,0,0,Parma,2019-03-02 Empoli-Parma,ITA-SERIA_A,18-19,94f40f4f
+63071a3f,Simone Iacoponi,2,ITA,RB,31-306,90,0,0,0,0,0,0,1,0,56,3,1,2,0.0,0.0,0.0,0,0,32,43,74.4,2,23,0,1,0,Parma,2019-03-02 Empoli-Parma,ITA-SERIA_A,18-19,94f40f4f
+343f753a,Luigi Sepe,55,ITA,GK,27-298,90,0,0,0,0,0,0,0,0,33,0,0,0,0.0,0.0,0.0,0,0,22,28,78.6,0,12,0,0,0,Parma,2019-03-02 Empoli-Parma,ITA-SERIA_A,18-19,94f40f4f

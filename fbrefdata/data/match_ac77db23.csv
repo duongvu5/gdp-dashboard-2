@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+0b4f388a,Breel Embolo,36,SUI,FW,22-290,83,2,1,0,1,4,2,0,0,37,1,0,0,1.9,1.1,0.9,12,2,21,27,77.8,3,29,3,3,3,Mönchengladbach,2019-12-01 Gladbach-Freiburg,GER-BL1,19-20,ac77db23
+bc6bd723,Alassane Pléa,14,FRA,FW,26-266,7,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.4,2,0,3,3,100.0,2,5,0,1,1,Mönchengladbach,2019-12-01 Gladbach-Freiburg,GER-BL1,19-20,ac77db23
+6f8cd6d0,Marcus Thuram,10,FRA,LW,22-117,88,1,0,0,0,5,4,0,0,44,0,0,2,1.2,1.2,0.0,3,0,19,30,63.3,3,24,7,4,2,Mönchengladbach,2019-12-01 Gladbach-Freiburg,GER-BL1,19-20,ac77db23
+2903a856,Jonas Hofmann,23,GER,LW,27-140,2,0,0,0,0,2,2,0,0,6,0,0,0,0.6,0.6,0.0,0,0,2,4,50.0,0,5,1,0,0,Mönchengladbach,2019-12-01 Gladbach-Freiburg,GER-BL1,19-20,ac77db23
+dfb6490a,Patrick Herrmann,7,GER,RW,28-292,90,1,1,0,0,4,2,1,0,45,0,1,1,0.9,0.9,0.6,2,1,24,32,75.0,0,28,3,0,0,Mönchengladbach,2019-12-01 Gladbach-Freiburg,GER-BL1,19-20,ac77db23
+fe888e39,László Bénes,22,SVK,AM,22-083,64,0,0,0,0,1,0,1,0,41,0,0,0,0.1,0.1,0.2,3,0,26,35,74.3,1,21,0,0,0,Mönchengladbach,2019-12-01 Gladbach-Freiburg,GER-BL1,19-20,ac77db23
+496aeede,Christoph Kramer,6,GER,AM,28-285,26,0,0,0,0,0,0,0,0,18,1,2,0,0.0,0.0,0.0,1,0,12,14,85.7,2,7,0,0,0,Mönchengladbach,2019-12-01 Gladbach-Freiburg,GER-BL1,19-20,ac77db23
+384d58d9,Denis Zakaria,8,SUI,DM,23-011,90,0,0,0,0,3,1,0,0,52,2,3,1,0.1,0.1,0.6,4,1,34,39,87.2,7,27,0,0,0,Mönchengladbach,2019-12-01 Gladbach-Freiburg,GER-BL1,19-20,ac77db23
+36a59ba4,Florian Neuhaus,32,GER,DM,22-260,90,0,1,0,0,2,1,0,0,46,0,1,0,0.3,0.2,0.5,5,1,33,38,86.8,8,23,1,0,0,Mönchengladbach,2019-12-01 Gladbach-Freiburg,GER-BL1,19-20,ac77db23
+378825c7,Ramy Bensebaini,25,ALG,LB,24-229,90,0,0,0,0,1,1,0,0,71,3,1,1,0.1,0.1,0.1,6,1,51,57,89.5,3,33,2,3,2,Mönchengladbach,2019-12-01 Gladbach-Freiburg,GER-BL1,19-20,ac77db23
+48035304,Nico Elvedi,30,SUI,CB,23-062,90,0,0,0,0,0,0,0,0,69,3,0,1,0.0,0.0,0.0,0,0,50,54,92.6,1,32,0,1,1,Mönchengladbach,2019-12-01 Gladbach-Freiburg,GER-BL1,19-20,ac77db23
+34b54da7,Tony Jantschke,24,GER,CB,29-238,90,0,0,0,0,0,0,1,0,70,2,1,0,0.0,0.0,0.0,0,0,45,55,81.8,6,48,2,0,0,Mönchengladbach,2019-12-01 Gladbach-Freiburg,GER-BL1,19-20,ac77db23
+4aea5077,Stefan Lainer,18,AUT,RB,27-096,90,0,0,0,0,0,0,0,0,61,2,0,2,0.0,0.0,0.0,0,0,36,55,65.5,6,29,0,0,0,Mönchengladbach,2019-12-01 Gladbach-Freiburg,GER-BL1,19-20,ac77db23
+420c18a1,Yann Sommer,1,SUI,GK,30-349,90,0,0,0,0,0,0,0,0,44,0,0,0,0.0,0.0,0.0,0,0,31,43,72.1,0,26,0,0,0,Mönchengladbach,2019-12-01 Gladbach-Freiburg,GER-BL1,19-20,ac77db23
+ca618d23,Lucas Höler,9,GER,FW,25-144,90,1,0,0,0,1,1,0,0,38,1,0,1,0.5,0.5,0.0,1,0,21,28,75.0,0,24,1,2,1,Freiburg,2019-12-01 Gladbach-Freiburg,GER-BL1,19-20,ac77db23
+f93e6e94,Nils Petersen,18,GER,FW,30-360,90,0,0,0,0,3,1,0,0,25,0,0,1,0.2,0.2,0.0,1,1,9,13,69.2,1,17,0,0,0,Freiburg,2019-12-01 Gladbach-Freiburg,GER-BL1,19-20,ac77db23
+70dcf94d,Janik Haberer,19,GER,"AM,CM",25-243,90,0,0,0,0,1,0,0,0,66,1,4,1,0.0,0.0,0.0,4,1,47,56,83.9,5,39,1,1,0,Freiburg,2019-12-01 Gladbach-Freiburg,GER-BL1,19-20,ac77db23
+5d8e331f,Nicolas Höfler,27,GER,"CM,DM",29-267,90,0,0,0,0,0,0,0,0,49,2,1,1,0.0,0.0,0.0,1,0,38,41,92.7,6,29,0,2,2,Freiburg,2019-12-01 Gladbach-Freiburg,GER-BL1,19-20,ac77db23
+ea6bc03a,Robin Koch,25,GER,"CM,CB",23-137,90,0,0,0,0,2,0,1,0,64,2,1,1,0.6,0.6,0.0,2,0,46,51,90.2,3,37,0,1,1,Freiburg,2019-12-01 Gladbach-Freiburg,GER-BL1,19-20,ac77db23
+8593f88c,Christian Günter,30,GER,"WB,LB,LW",26-276,90,0,1,0,0,1,0,0,0,58,0,2,0,0.0,0.0,0.6,4,1,32,46,69.6,2,34,3,2,0,Freiburg,2019-12-01 Gladbach-Freiburg,GER-BL1,19-20,ac77db23
+088ca1bd,Jonathan Schmid,7,FRA,"WB,RW,RB",29-162,89,1,0,0,0,1,1,0,0,70,0,2,0,0.2,0.2,0.2,2,0,44,57,77.2,9,40,1,1,0,Freiburg,2019-12-01 Gladbach-Freiburg,GER-BL1,19-20,ac77db23
+482b70ad,Mike Frantz,8,GER,RB,33-048,1,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,1,0,0,0,Freiburg,2019-12-01 Gladbach-Freiburg,GER-BL1,19-20,ac77db23
+34e12499,Nico Schlotterbeck,4,GER,CB,20-000,55,0,0,0,0,1,1,0,0,33,0,1,3,0.0,0.0,0.0,1,0,20,24,83.3,3,12,3,1,1,Freiburg,2019-12-01 Gladbach-Freiburg,GER-BL1,19-20,ac77db23
+bf075f6b,Roland Sallai,22,HUN,"LM,CM",22-193,35,0,0,0,0,0,0,0,0,18,0,1,0,0.0,0.0,0.1,3,1,10,15,66.7,0,15,5,1,0,Freiburg,2019-12-01 Gladbach-Freiburg,GER-BL1,19-20,ac77db23
+699fb8db,Dominique Heintz,23,GER,CB,26-108,90,0,0,0,0,1,0,1,0,52,3,4,0,0.0,0.0,0.0,0,0,34,40,85.0,4,32,0,0,0,Freiburg,2019-12-01 Gladbach-Freiburg,GER-BL1,19-20,ac77db23
+25ab9c9c,Manuel Gulde,5,GER,CB,28-292,72,0,0,0,0,1,0,0,0,44,3,0,1,0.1,0.1,0.0,2,0,22,32,68.8,1,21,0,0,0,Freiburg,2019-12-01 Gladbach-Freiburg,GER-BL1,19-20,ac77db23
+7961f7aa,Kwon Chang-hoon,28,KOR,"RM,CB",25-154,18,0,0,0,0,0,0,0,0,21,0,0,0,0.0,0.0,0.0,0,0,14,18,77.8,4,12,0,1,0,Freiburg,2019-12-01 Gladbach-Freiburg,GER-BL1,19-20,ac77db23
+a92ab7be,Mark Flekken,26,NED,GK,26-171,90,0,0,0,0,0,0,0,0,58,0,0,0,0.0,0.0,0.0,0,0,41,50,82.0,0,27,0,0,0,Freiburg,2019-12-01 Gladbach-Freiburg,GER-BL1,19-20,ac77db23

@@ -1,0 +1,29 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+9dbb75ca,Alexandre Lacazette,9,FRA,FW,27-290,69,0,0,0,0,3,0,1,0,29,1,0,1,0.1,0.1,0.1,4,0,10,16,62.5,3,12,1,2,1,Arsenal,2019-03-14 Arsenal-Rennes,UEL,18-19,bb2ba13b
+6ca5ec4b,Alex Iwobi,17,NGA,AM,22-315,21,0,0,0,0,1,0,0,0,23,0,0,0,0.1,0.1,0.4,2,0,14,17,82.4,2,15,2,3,1,Arsenal,2019-03-14 Arsenal-Rennes,UEL,18-19,bb2ba13b
+d5dd5f1f,Pierre-Emerick Aubameyang,14,GAB,FW,29-269,90,2,1,0,0,5,2,1,0,43,1,0,0,2.3,2.3,0.5,1,1,22,32,68.8,2,21,3,1,0,Arsenal,2019-03-14 Arsenal-Rennes,UEL,18-19,bb2ba13b
+16380240,Mesut Özil,10,GER,AM,30-150,68,0,0,0,0,0,0,0,0,35,2,0,0,0.0,0.0,0.1,3,0,23,29,79.3,3,22,2,1,0,Arsenal,2019-03-14 Arsenal-Rennes,UEL,18-19,bb2ba13b
+dd0daf32,Henrikh Mkhitaryan,7,ARM,AM,30-052,22,0,0,0,0,0,0,1,0,20,1,0,0,0.0,0.0,0.0,1,1,14,16,87.5,1,8,1,0,0,Arsenal,2019-03-14 Arsenal-Rennes,UEL,18-19,bb2ba13b
+e61b8aee,Granit Xhaka,34,SUI,CM,26-168,90,0,0,0,0,0,0,0,0,92,3,2,2,0.0,0.0,0.1,3,0,66,83,79.5,8,41,1,0,0,Arsenal,2019-03-14 Arsenal-Rennes,UEL,18-19,bb2ba13b
+ef619b0b,Aaron Ramsey,8,WAL,CM,28-078,86,0,1,0,0,1,1,0,0,61,2,1,0,0.1,0.1,1.2,5,2,42,51,82.4,6,28,5,4,2,Arsenal,2019-03-14 Arsenal-Rennes,UEL,18-19,bb2ba13b
+52611641,Lucas Torreira,11,URU,CM,23-031,4,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,0,0,0,0,Arsenal,2019-03-14 Arsenal-Rennes,UEL,18-19,bb2ba13b
+3935e52e,Sead Kolašinac,31,BIH,WB,25-267,90,0,1,0,0,0,0,1,0,68,3,1,4,0.0,0.0,0.6,1,1,41,54,75.9,6,23,6,1,1,Arsenal,2019-03-14 Arsenal-Rennes,UEL,18-19,bb2ba13b
+e3a5814e,Ainsley Maitland-Niles,15,ENG,WB,21-197,90,1,0,0,0,1,1,0,0,47,4,2,1,0.5,0.5,0.0,2,1,25,33,75.8,2,19,1,2,1,Arsenal,2019-03-14 Arsenal-Rennes,UEL,18-19,bb2ba13b
+d4cb83cc,Nacho Monreal,18,ESP,CB,33-016,90,0,0,0,0,0,0,0,0,58,1,5,3,0.0,0.0,0.0,0,0,36,47,76.6,1,18,1,0,0,Arsenal,2019-03-14 Arsenal-Rennes,UEL,18-19,bb2ba13b
+f5efb153,Laurent Koscielny,6,FRA,CB,33-185,90,0,0,0,0,0,0,0,0,43,0,0,3,0.0,0.0,0.0,0,0,30,36,83.3,0,15,1,0,0,Arsenal,2019-03-14 Arsenal-Rennes,UEL,18-19,bb2ba13b
+3f2d59fe,Shkodran Mustafi,20,GER,CB,26-331,90,0,0,0,0,1,0,0,0,59,1,3,2,0.0,0.0,0.1,1,0,28,44,63.6,1,27,0,0,0,Arsenal,2019-03-14 Arsenal-Rennes,UEL,18-19,bb2ba13b
+71672fa0,Petr Čech,1,CZE,GK,36-298,90,0,0,0,0,0,0,0,0,28,0,0,0,0.0,0.0,0.0,0,0,11,27,40.7,0,15,0,0,0,Arsenal,2019-03-14 Arsenal-Rennes,UEL,18-19,bb2ba13b
+2054d037,M'Baye Niang,11,SEN,"FW,LM",24-085,90,0,0,0,0,2,0,0,0,28,0,0,1,0.1,0.1,0.1,1,0,10,17,58.8,3,18,1,1,0,Rennes,2019-03-14 Arsenal-Rennes,UEL,18-19,bb2ba13b
+74dc806c,Hatem Ben Arfa,18,FRA,FW,32-007,90,0,0,0,0,1,1,0,0,48,0,0,0,0.0,0.0,0.1,5,0,31,40,77.5,6,32,4,7,5,Rennes,2019-03-14 Arsenal-Rennes,UEL,18-19,bb2ba13b
+20e73fac,Benjamin Bourigeaud,14,FRA,"LM,CM",25-059,90,0,0,0,0,0,0,1,0,53,1,2,1,0.0,0.0,0.0,1,0,34,44,77.3,3,30,0,1,0,Rennes,2019-03-14 Arsenal-Rennes,UEL,18-19,bb2ba13b
+8b298f56,Clément Grenier,8,FRA,CM,28-066,69,0,0,0,0,1,0,1,0,45,3,2,0,0.0,0.0,0.0,1,0,25,36,69.4,3,19,0,0,0,Rennes,2019-03-14 Arsenal-Rennes,UEL,18-19,bb2ba13b
+d14229f3,Adrien Hunou,23,FRA,FW,25-054,21,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,1,0,3,3,100.0,0,1,0,0,0,Rennes,2019-03-14 Arsenal-Rennes,UEL,18-19,bb2ba13b
+ef9c1c95,Benjamin André,21,FRA,CM,28-223,77,0,0,0,0,0,0,0,0,45,2,2,0,0.0,0.0,0.0,2,0,25,34,73.5,6,16,0,0,0,Rennes,2019-03-14 Arsenal-Rennes,UEL,18-19,bb2ba13b
+7cf431a5,James Lea Siliki,12,CMR,CM,22-275,13,0,0,0,0,0,0,0,0,10,0,1,0,0.0,0.0,0.0,0,0,4,8,50.0,0,7,0,0,0,Rennes,2019-03-14 Arsenal-Rennes,UEL,18-19,bb2ba13b
+bfdb33aa,Ismaila Sarr,7,SEN,RM,21-017,90,0,0,0,0,4,1,0,0,25,0,0,0,0.2,0.2,0.0,0,0,9,12,75.0,2,18,1,0,0,Rennes,2019-03-14 Arsenal-Rennes,UEL,18-19,bb2ba13b
+378825c7,Ramy Bensebaini,15,ALG,LB,23-332,90,0,0,0,0,1,0,0,0,81,2,1,0,0.1,0.1,0.0,3,0,47,71,66.2,5,39,8,2,1,Rennes,2019-03-14 Arsenal-Rennes,UEL,18-19,bb2ba13b
+ce492295,Mexer,4,MOZ,CB,30-187,90,0,0,0,0,0,0,1,0,39,1,4,0,0.0,0.0,0.0,1,0,25,32,78.1,2,20,0,0,0,Rennes,2019-03-14 Arsenal-Rennes,UEL,18-19,bb2ba13b
+1ec7e1c5,Damien Da Silva,3,FRA,CB,30-301,90,0,0,0,0,0,0,0,0,53,2,1,3,0.0,0.0,0.0,1,0,32,44,72.7,1,26,1,1,1,Rennes,2019-03-14 Arsenal-Rennes,UEL,18-19,bb2ba13b
+a4b1028a,Hamari Traoré,27,MLI,RB,27-046,90,0,0,0,0,2,0,1,0,74,1,2,0,0.1,0.1,0.0,1,0,38,61,62.3,5,27,4,3,2,Rennes,2019-03-14 Arsenal-Rennes,UEL,18-19,bb2ba13b
+dc366c36,Tomáš Koubek,40,CZE,GK,26-200,90,0,0,0,0,0,0,0,0,32,0,0,0,0.0,0.0,0.0,0,0,12,31,38.7,0,15,0,0,0,Rennes,2019-03-14 Arsenal-Rennes,UEL,18-19,bb2ba13b

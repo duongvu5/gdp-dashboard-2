@@ -1,0 +1,29 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+03f946ed,Andrea Petagna,29,ITA,FW,22-170,70,0,1,0,0,1,0,0,0,38,4,0,2,0.1,0.1,0.3,4,2,17,24,70.8,1,24,1,3,2,Atalanta,2017-12-17 Atalanta-Lazio,ITA-SERIA_A,17-18,177d0d64
+144607cc,Jasmin Kurtić,27,SVN,AM,28-341,20,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,2,0,0,0,Atalanta,2017-12-17 Atalanta-Lazio,ITA-SERIA_A,17-18,177d0d64
+6e4df551,Papu Gómez,10,ARG,"AM,FW",29-305,90,0,1,0,0,6,2,0,0,67,0,0,0,0.5,0.5,0.6,6,2,44,54,81.5,7,61,8,6,2,Atalanta,2017-12-17 Atalanta-Lazio,ITA-SERIA_A,17-18,177d0d64
+68252d6d,Josip Iličić,72,SVN,"AM,FW",29-322,90,2,0,1,1,3,1,0,0,64,0,1,1,1.0,0.2,0.1,5,1,44,55,80.0,2,40,0,2,2,Atalanta,2017-12-17 Atalanta-Lazio,ITA-SERIA_A,17-18,177d0d64
+98d2c2c4,Remo Freuler,11,SUI,CM,25-246,90,0,0,0,0,0,0,1,0,73,2,1,0,0.0,0.0,0.1,2,1,56,67,83.6,7,46,1,3,2,Atalanta,2017-12-17 Atalanta-Lazio,ITA-SERIA_A,17-18,177d0d64
+16657b95,Bryan Cristante,4,ITA,CM,22-289,90,0,0,0,0,1,1,0,0,59,4,0,2,0.5,0.5,0.0,2,0,40,49,81.6,3,28,2,1,1,Atalanta,2017-12-17 Atalanta-Lazio,ITA-SERIA_A,17-18,177d0d64
+3626daea,Leonardo Spinazzola,37,ITA,WB,24-267,90,0,0,0,0,0,0,0,0,65,2,1,1,0.0,0.0,0.0,2,0,47,59,79.7,1,31,3,3,1,Atalanta,2017-12-17 Atalanta-Lazio,ITA-SERIA_A,17-18,177d0d64
+3b333ac3,Hans Hateboer,33,NED,WB,23-342,90,0,0,0,0,0,0,1,0,48,2,3,1,0.0,0.0,0.0,0,0,24,35,68.6,2,31,0,0,0,Atalanta,2017-12-17 Atalanta-Lazio,ITA-SERIA_A,17-18,177d0d64
+921f6058,José Luis Palomino,6,ARG,CB,27-346,58,0,0,0,0,0,0,0,0,46,3,2,3,0.0,0.0,0.0,0,0,34,38,89.5,0,25,0,0,0,Atalanta,2017-12-17 Atalanta-Lazio,ITA-SERIA_A,17-18,177d0d64
+c56dc39e,Rafael Tolói,3,ITA,CB,27-068,32,0,0,0,0,0,0,0,0,21,2,1,2,0.0,0.0,0.0,0,0,9,15,60.0,1,6,1,1,1,Atalanta,2017-12-17 Atalanta-Lazio,ITA-SERIA_A,17-18,177d0d64
+ac7e640b,Mattia Caldara,13,ITA,CB,23-226,90,1,0,0,0,1,1,0,0,52,3,1,1,0.3,0.3,0.0,0,0,37,40,92.5,2,26,1,1,1,Atalanta,2017-12-17 Atalanta-Lazio,ITA-SERIA_A,17-18,177d0d64
+e0314d87,Andrea Masiello,5,ITA,CB,31-315,90,0,0,0,0,0,0,0,0,69,2,1,2,0.0,0.0,0.0,1,0,43,54,79.6,7,35,0,1,0,Atalanta,2017-12-17 Atalanta-Lazio,ITA-SERIA_A,17-18,177d0d64
+ee833569,Etrit Berisha,1,ALB,GK,28-282,90,0,0,0,0,0,0,0,0,29,0,0,0,0.0,0.0,0.0,0,0,18,27,66.7,0,18,0,0,0,Atalanta,2017-12-17 Atalanta-Lazio,ITA-SERIA_A,17-18,177d0d64
+93b891d1,Felipe Caicedo,20,ECU,FW,29-103,90,0,1,0,0,1,0,0,0,40,2,0,0,0.1,0.1,0.4,3,1,30,33,90.9,3,26,0,2,1,Lazio,2017-12-17 Atalanta-Lazio,ITA-SERIA_A,17-18,177d0d64
+5294a83f,Luis Alberto,18,ESP,FW,25-080,90,1,0,0,0,3,1,0,0,64,3,2,0,0.4,0.4,0.8,7,1,37,51,72.5,6,45,4,8,7,Lazio,2017-12-17 Atalanta-Lazio,ITA-SERIA_A,17-18,177d0d64
+4e6dbac4,Sergej Milinković-Savić,21,SRB,DM,22-293,90,2,0,0,0,2,2,0,0,77,3,2,0,0.1,0.1,0.2,4,0,48,60,80.0,7,57,5,5,2,Lazio,2017-12-17 Atalanta-Lazio,ITA-SERIA_A,17-18,177d0d64
+4c78b5ed,Lucas Leiva,6,BRA,DM,30-342,74,0,1,0,0,1,1,0,0,54,3,0,1,0.1,0.1,0.0,3,1,43,47,91.5,6,40,2,2,2,Lazio,2017-12-17 Atalanta-Lazio,ITA-SERIA_A,17-18,177d0d64
+9f1893b9,Felipe Anderson,10,BRA,DM,24-246,16,0,0,0,0,0,0,0,0,19,0,0,0,0.0,0.0,0.0,1,1,6,12,50.0,1,16,1,2,1,Lazio,2017-12-17 Atalanta-Lazio,ITA-SERIA_A,17-18,177d0d64
+ed5886d2,Marco Parolo,16,ITA,DM,32-326,90,0,1,0,0,3,0,0,0,49,2,0,0,0.2,0.2,0.1,2,1,31,41,75.6,10,33,1,0,0,Lazio,2017-12-17 Atalanta-Lazio,ITA-SERIA_A,17-18,177d0d64
+7fd58fe3,Senad Lulić,19,BIH,WB,31-333,74,0,0,0,0,0,0,0,0,65,2,2,1,0.0,0.0,0.0,0,0,32,50,64.0,1,37,1,5,3,Lazio,2017-12-17 Atalanta-Lazio,ITA-SERIA_A,17-18,177d0d64
+0cd0e21b,Jordan Lukaku,5,BEL,WB,23-145,16,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,3,6,50.0,0,7,0,0,0,Lazio,2017-12-17 Atalanta-Lazio,ITA-SERIA_A,17-18,177d0d64
+d4535821,Adam Marušić,77,MNE,WB,25-061,90,0,0,0,0,1,0,0,0,47,3,0,2,0.0,0.0,0.0,1,0,29,37,78.4,1,30,1,1,0,Lazio,2017-12-17 Atalanta-Lazio,ITA-SERIA_A,17-18,177d0d64
+53de807a,Ștefan Radu,26,ROU,CB,31-056,90,0,0,0,0,0,0,0,0,55,1,4,2,0.0,0.0,0.0,0,0,38,44,86.4,3,29,1,0,0,Lazio,2017-12-17 Atalanta-Lazio,ITA-SERIA_A,17-18,177d0d64
+d0d8dd44,Stefan de Vrij,3,NED,CB,25-315,90,0,0,0,0,0,0,0,0,65,2,0,1,0.0,0.0,0.0,0,0,50,57,87.7,8,47,1,1,0,Lazio,2017-12-17 Atalanta-Lazio,ITA-SERIA_A,17-18,177d0d64
+c01c66d9,Bastos,15,ANG,CB,26-265,53,0,0,0,0,2,0,1,0,39,2,0,1,0.8,0.8,0.0,0,0,27,32,84.4,0,29,0,1,1,Lazio,2017-12-17 Atalanta-Lazio,ITA-SERIA_A,17-18,177d0d64
+d61b3354,Wallace,13,BRA,CB,23-064,37,0,0,0,0,0,0,1,0,23,1,3,0,0.0,0.0,0.0,0,0,12,16,75.0,0,13,0,0,0,Lazio,2017-12-17 Atalanta-Lazio,ITA-SERIA_A,17-18,177d0d64
+339fe0e8,Thomas Strakosha,1,ALB,GK,22-273,90,0,0,0,0,0,0,0,0,44,0,1,0,0.0,0.0,0.0,0,0,30,39,76.9,0,18,0,0,0,Lazio,2017-12-17 Atalanta-Lazio,ITA-SERIA_A,17-18,177d0d64

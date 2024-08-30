@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+ee4f2f3b,Fabio Quagliarella,27,ITA,FW,36-101,90,1,0,1,1,9,4,0,0,42,0,0,1,1.4,0.6,0.1,2,0,16,24,66.7,1,27,0,4,3,Sampdoria,2019-05-12 Sampdoria-Empoli,ITA-SERIA_A,18-19,8133d8c8
+8f866fe8,Manolo Gabbiadini,23,ITA,FW,27-167,79,0,0,0,0,2,0,0,0,39,1,2,0,0.1,0.1,0.1,2,0,25,33,75.8,3,20,2,2,2,Sampdoria,2019-05-12 Sampdoria-Empoli,ITA-SERIA_A,18-19,8133d8c8
+2c851997,Gastón Ramírez,11,URU,"FW,AM",28-161,11,0,0,0,0,1,0,0,0,15,0,0,0,0.1,0.1,0.0,0,0,11,14,78.6,2,7,3,0,0,Sampdoria,2019-05-12 Sampdoria-Empoli,ITA-SERIA_A,18-19,8133d8c8
+54e53b7e,Gianluca Caprari,17,ITA,AM,25-286,71,0,0,0,0,2,0,0,0,48,3,1,0,0.1,0.1,0.3,7,0,33,41,80.5,6,31,3,2,1,Sampdoria,2019-05-12 Sampdoria-Empoli,ITA-SERIA_A,18-19,8133d8c8
+75e60d75,Ronaldo Vieira,4,ENG,"AM,CM",20-297,19,0,0,0,0,0,0,0,0,22,1,1,1,0.0,0.0,0.0,1,0,19,19,100.0,1,13,1,1,1,Sampdoria,2019-05-12 Sampdoria-Empoli,ITA-SERIA_A,18-19,8133d8c8
+1ea5f91c,Jakub Jankto,14,CZE,LM,23-113,90,0,0,0,0,3,1,0,0,58,0,1,1,0.2,0.2,0.1,6,1,39,52,75.0,4,33,5,1,1,Sampdoria,2019-05-12 Sampdoria-Empoli,ITA-SERIA_A,18-19,8133d8c8
+f503ea63,Albin Ekdal,6,SWE,CM,29-288,71,0,0,0,0,0,0,1,0,83,2,3,2,0.0,0.0,0.0,4,0,71,77,92.2,10,55,6,1,1,Sampdoria,2019-05-12 Sampdoria-Empoli,ITA-SERIA_A,18-19,8133d8c8
+1ad1f50d,Marco Sau,20,ITA,"CM,FW",31-190,19,0,0,0,0,0,0,0,0,12,0,0,1,0.0,0.0,0.0,1,1,7,7,100.0,1,11,0,2,1,Sampdoria,2019-05-12 Sampdoria-Empoli,ITA-SERIA_A,18-19,8133d8c8
+86695068,Dennis Praet,10,BEL,RM,24-363,90,0,0,0,0,0,0,0,0,92,4,1,0,0.0,0.0,0.0,3,0,77,84,91.7,10,62,5,4,1,Sampdoria,2019-05-12 Sampdoria-Empoli,ITA-SERIA_A,18-19,8133d8c8
+d183e9d6,Nicola Murru,29,ITA,LB,24-147,90,0,0,0,0,0,0,0,0,84,1,1,0,0.0,0.0,0.1,4,0,71,79,89.9,12,53,0,1,1,Sampdoria,2019-05-12 Sampdoria-Empoli,ITA-SERIA_A,18-19,8133d8c8
+d0dbca9f,Alex Ferrari,25,ITA,CB,24-315,90,0,0,0,0,0,0,0,0,56,1,6,1,0.0,0.0,0.0,1,0,38,45,84.4,1,28,0,0,0,Sampdoria,2019-05-12 Sampdoria-Empoli,ITA-SERIA_A,18-19,8133d8c8
+8cc29864,Lorenzo Tonelli,26,ITA,CB,29-115,90,0,0,0,0,0,0,1,0,56,1,2,2,0.0,0.0,0.0,0,0,33,44,75.0,6,17,0,0,0,Sampdoria,2019-05-12 Sampdoria-Empoli,ITA-SERIA_A,18-19,8133d8c8
+da5a981b,Jacopo Sala,7,ITA,RB,27-158,90,0,0,0,0,0,0,0,0,96,1,0,2,0.0,0.0,0.2,3,0,74,91,81.3,8,60,5,0,0,Sampdoria,2019-05-12 Sampdoria-Empoli,ITA-SERIA_A,18-19,8133d8c8
+649b01d8,Emil Audero,1,ITA,GK,22-114,90,0,0,0,0,0,0,0,0,23,0,0,0,0.0,0.0,0.0,0,0,15,18,83.3,0,10,0,0,0,Sampdoria,2019-05-12 Sampdoria-Empoli,ITA-SERIA_A,18-19,8133d8c8
+5bd72174,Francesco Caputo,11,ITA,FW,31-279,90,0,0,0,1,1,1,0,0,24,0,0,0,1.2,0.4,0.0,3,1,14,19,73.7,1,15,2,0,0,Empoli,2019-05-12 Sampdoria-Empoli,ITA-SERIA_A,18-19,8133d8c8
+157d29b6,Diego Farias,17,BRA,FW,29-002,78,1,0,0,0,3,1,0,0,34,3,0,0,0.8,0.8,0.1,3,1,20,24,83.3,6,24,6,2,1,Empoli,2019-05-12 Sampdoria-Empoli,ITA-SERIA_A,18-19,8133d8c8
+d7403bd5,Afriyie Acquah,18,GHA,DM,27-127,12,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,3,4,75.0,0,3,0,0,0,Empoli,2019-05-12 Sampdoria-Empoli,ITA-SERIA_A,18-19,8133d8c8
+5df4ef30,Marko Pajač,6,CRO,"LW,WB",26-001,90,0,0,0,0,1,0,0,0,64,2,1,1,0.0,0.0,0.1,1,0,42,52,80.8,4,33,1,0,0,Empoli,2019-05-12 Sampdoria-Empoli,ITA-SERIA_A,18-19,8133d8c8
+230a2fac,Giovanni Di Lorenzo,2,ITA,"RW,WB",25-281,90,1,0,0,0,1,1,1,0,54,2,1,0,0.3,0.0,0.0,0,0,35,44,79.5,2,28,2,1,0,Empoli,2019-05-12 Sampdoria-Empoli,ITA-SERIA_A,18-19,8133d8c8
+817c6964,Rade Krunić,33,BIH,"CM,FW",25-217,90,0,0,0,0,1,0,0,0,58,2,0,2,0.1,0.1,0.0,2,0,36,42,85.7,5,36,4,4,3,Empoli,2019-05-12 Sampdoria-Empoli,ITA-SERIA_A,18-19,8133d8c8
+570bb4b9,Hamed Junior Traorè,8,CIV,"CM,DM",19-085,86,0,1,0,0,0,0,0,0,61,3,1,2,0.0,0.0,1.1,3,1,39,49,79.6,7,40,2,4,2,Empoli,2019-05-12 Sampdoria-Empoli,ITA-SERIA_A,18-19,8133d8c8
+07ea0ef2,Leonardo Capezzi,28,ITA,DM,24-045,4,0,0,0,0,0,0,0,0,6,0,0,1,0.0,0.0,0.0,0,0,4,5,80.0,0,3,0,0,0,Empoli,2019-05-12 Sampdoria-Empoli,ITA-SERIA_A,18-19,8133d8c8
+db092d3b,Ismaël Bennacer,10,ALG,DM,21-162,89,0,0,0,0,0,0,0,0,64,0,1,1,0.0,0.0,0.0,0,0,39,53,73.6,2,33,1,4,4,Empoli,2019-05-12 Sampdoria-Empoli,ITA-SERIA_A,18-19,8133d8c8
+d417b306,Matteo Brighi,4,ITA,DM,38-087,1,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,2,0,0,0,Empoli,2019-05-12 Sampdoria-Empoli,ITA-SERIA_A,18-19,8133d8c8
+b0243215,Cristian Dell'Orco,39,ITA,CB,25-091,90,0,0,0,0,0,0,0,0,44,4,1,2,0.0,0.0,0.0,0,0,26,33,78.8,0,21,0,0,0,Empoli,2019-05-12 Sampdoria-Empoli,ITA-SERIA_A,18-19,8133d8c8
+b6ca47a2,Matías Silvestre,26,ARG,CB,34-229,90,0,0,0,0,0,0,0,0,52,1,0,2,0.0,0.0,0.0,0,0,41,44,93.2,3,29,0,0,0,Empoli,2019-05-12 Sampdoria-Empoli,ITA-SERIA_A,18-19,8133d8c8
+d541e703,Freddie Veseli,5,ALB,CB,26-173,90,0,0,0,0,0,0,0,0,46,0,1,0,0.0,0.0,0.0,0,0,30,39,76.9,0,20,1,0,0,Empoli,2019-05-12 Sampdoria-Empoli,ITA-SERIA_A,18-19,8133d8c8
+085e71a7,Bartłomiej Drągowski,69,POL,GK,21-266,90,0,0,0,0,0,0,0,0,38,0,0,0,0.0,0.0,0.0,0,0,20,35,57.1,0,21,0,0,0,Empoli,2019-05-12 Sampdoria-Empoli,ITA-SERIA_A,18-19,8133d8c8

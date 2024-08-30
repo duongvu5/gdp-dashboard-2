@@ -1,0 +1,32 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+42fd9c7f,Kylian Mbappé,7,FRA,FW,22-335,90,1,1,0,0,4,2,0,0,61,1,0,1,0.6,0.6,0.2,3,1,38,49,77.6,2,34,4,7,7,Paris Saint-Germain,2021-11-20 Paris S-G-Nantes,FRA-L1,21-22,01aabfc9
+69384e5d,Neymar,10,BRA,LW,29-288,67,0,0,0,0,2,1,0,0,69,0,0,0,0.1,0.1,0.5,7,0,52,63,82.5,6,35,4,5,4,Paris Saint-Germain,2021-11-20 Paris S-G-Nantes,FRA-L1,21-22,01aabfc9
+5f0241b2,Sergio Rico,16,ESP,GK,28-080,23,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,0,0,5,7,71.4,0,6,0,0,0,Paris Saint-Germain,2021-11-20 Paris S-G-Nantes,FRA-L1,21-22,01aabfc9
+d70ce98e,Lionel Messi,30,ARG,RW,34-149,90,1,0,0,0,6,4,0,0,106,0,0,0,1.0,1.0,0.4,8,0,79,90,87.8,14,64,7,5,2,Paris Saint-Germain,2021-11-20 Paris S-G-Nantes,FRA-L1,21-22,01aabfc9
+1467af0d,Marco Verratti,6,ITA,LM,29-015,74,0,0,0,0,0,0,1,0,99,2,0,1,0.0,0.0,0.2,2,0,87,92,94.6,9,38,0,2,1,Paris Saint-Germain,2021-11-20 Paris S-G-Nantes,FRA-L1,21-22,01aabfc9
+eb58eef0,Georginio Wijnaldum,18,NED,LM,31-009,16,0,0,0,0,0,0,0,0,17,0,1,0,0.0,0.0,0.0,0,0,14,15,93.3,1,9,0,0,0,Paris Saint-Germain,2021-11-20 Paris S-G-Nantes,FRA-L1,21-22,01aabfc9
+dff153a4,Leandro Paredes,8,ARG,CM,27-144,88,0,1,0,0,1,0,0,0,110,1,1,0,0.0,0.0,0.2,2,2,105,106,99.1,3,54,1,1,0,Paris Saint-Germain,2021-11-20 Paris S-G-Nantes,FRA-L1,21-22,01aabfc9
+8fd9996f,Danilo Pereira,15,POR,CM,30-072,2,0,0,0,0,1,0,0,0,6,0,0,0,0.1,0.1,0.0,0,0,4,5,80.0,0,4,0,0,0,Paris Saint-Germain,2021-11-20 Paris S-G-Nantes,FRA-L1,21-22,01aabfc9
+72c812f3,Idrissa Gana Gueye,27,SEN,RM,32-055,90,0,0,0,0,0,0,0,0,97,6,1,1,0.0,0.0,0.0,2,0,77,85,90.6,5,45,0,0,0,Paris Saint-Germain,2021-11-20 Paris S-G-Nantes,FRA-L1,21-22,01aabfc9
+433dc9a2,Juan Bernat,14,ESP,LB,28-264,90,0,0,0,0,0,0,0,0,68,4,0,1,0.0,0.0,0.0,0,0,54,58,93.1,3,28,3,0,0,Paris Saint-Germain,2021-11-20 Paris S-G-Nantes,FRA-L1,21-22,01aabfc9
+fc62f087,Abdou Diallo,22,SEN,CB,25-200,90,0,0,0,0,0,0,0,0,79,0,0,1,0.0,0.0,0.0,0,0,70,76,92.1,5,49,2,1,1,Paris Saint-Germain,2021-11-20 Paris S-G-Nantes,FRA-L1,21-22,01aabfc9
+51dbeea9,Thilo Kehrer,24,GER,CB,25-060,90,0,0,0,0,0,0,0,0,74,0,1,1,0.0,0.0,0.0,0,0,66,68,97.1,3,43,0,0,0,Paris Saint-Germain,2021-11-20 Paris S-G-Nantes,FRA-L1,21-22,01aabfc9
+e42d61c7,Achraf Hakimi,2,MAR,RB,23-016,90,0,0,0,0,0,0,0,0,95,8,1,3,0.0,0.0,0.0,0,0,72,78,92.3,3,30,0,3,1,Paris Saint-Germain,2021-11-20 Paris S-G-Nantes,FRA-L1,21-22,01aabfc9
+ecada4fc,Keylor Navas,1,CRC,GK,34-340,64,0,0,0,0,0,0,0,1,17,0,0,0,0.0,0.0,0.0,0,0,16,16,100.0,0,13,0,0,0,Paris Saint-Germain,2021-11-20 Paris S-G-Nantes,FRA-L1,21-22,01aabfc9
+9980269a,Kalifa Coulibaly,7,MLI,FW,30-091,57,0,0,0,0,2,1,0,0,16,1,0,0,1.0,1.0,0.1,2,0,5,8,62.5,1,3,0,2,1,Nantes,2021-11-20 Paris S-G-Nantes,FRA-L1,21-22,01aabfc9
+eab85789,Osman Bukari,26,GHA,RW,22-342,33,0,0,0,0,1,0,0,0,18,1,0,0,0.0,0.0,0.0,0,0,13,14,92.9,1,17,5,4,1,Nantes,2021-11-20 Paris S-G-Nantes,FRA-L1,21-22,01aabfc9
+c0b3669f,Randal Kolo Muani,23,FRA,"LW,FW",22-350,90,1,0,0,0,3,2,0,0,43,3,0,1,0.2,0.2,0.1,4,1,21,26,80.8,1,28,5,5,1,Nantes,2021-11-20 Paris S-G-Nantes,FRA-L1,21-22,01aabfc9
+3010aefb,Marcus Coco,11,FRA,"RW,LW",25-149,76,0,0,0,0,2,0,0,0,32,0,0,1,0.1,0.1,1.0,2,0,15,20,75.0,1,22,5,3,2,Nantes,2021-11-20 Paris S-G-Nantes,FRA-L1,21-22,01aabfc9
+9836e892,Willem Geubbels,19,FRA,LW,20-096,14,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,4,5,80.0,0,4,2,1,1,Nantes,2021-11-20 Paris S-G-Nantes,FRA-L1,21-22,01aabfc9
+6191093d,Ludovic Blas,10,FRA,AM,23-324,90,0,0,0,0,3,3,1,0,54,0,1,1,0.2,0.2,0.0,2,0,40,44,90.9,5,37,4,1,0,Nantes,2021-11-20 Paris S-G-Nantes,FRA-L1,21-22,01aabfc9
+68a26d51,Pedro Chirivella,5,ESP,DM,24-181,90,0,0,0,0,0,0,1,0,86,3,1,0,0.0,0.0,0.0,4,0,70,78,89.7,10,52,1,1,1,Nantes,2021-11-20 Paris S-G-Nantes,FRA-L1,21-22,01aabfc9
+af0c835b,Samuel Moutoussamy,18,COD,DM,25-100,76,0,0,0,0,1,0,0,0,50,0,1,1,0.1,0.1,0.0,3,0,40,44,90.9,3,28,0,1,0,Nantes,2021-11-20 Paris S-G-Nantes,FRA-L1,21-22,01aabfc9
+3e092724,Wylan Cyprien,8,FRA,DM,26-296,14,0,0,0,0,0,0,0,0,13,2,0,0,0.0,0.0,0.0,0,0,10,11,90.9,1,11,0,0,0,Nantes,2021-11-20 Paris S-G-Nantes,FRA-L1,21-22,01aabfc9
+bc7b4580,Fábio,2,BRA,LB,31-134,57,0,0,0,0,0,0,0,0,37,2,0,1,0.0,0.0,0.0,0,0,20,28,71.4,2,20,4,6,4,Nantes,2021-11-20 Paris S-G-Nantes,FRA-L1,21-22,01aabfc9
+0bfca6a1,Quentin Merlin,29,FRA,LB,19-188,33,0,0,0,0,0,0,0,0,29,0,1,0,0.0,0.0,0.2,3,0,26,29,89.7,3,18,0,0,0,Nantes,2021-11-20 Paris S-G-Nantes,FRA-L1,21-22,01aabfc9
+3befc2b6,Andrei Girotto,3,BRA,CB,29-276,90,0,0,0,0,0,0,0,0,45,4,3,5,0.0,0.0,0.0,0,0,27,30,90.0,3,18,0,0,0,Nantes,2021-11-20 Paris S-G-Nantes,FRA-L1,21-22,01aabfc9
+e0f3a1f6,Jean-Charles Castelletto,21,CMR,CB,26-298,90,0,0,0,0,0,0,0,0,22,2,1,2,0.0,0.0,0.0,0,0,14,15,93.3,1,13,0,0,0,Nantes,2021-11-20 Paris S-G-Nantes,FRA-L1,21-22,01aabfc9
+0e7ccfc4,Sébastien Corchia,24,FRA,RB,31-019,41,0,0,0,0,0,0,0,0,15,1,2,0,0.0,0.0,0.0,0,0,6,10,60.0,2,8,0,0,0,Nantes,2021-11-20 Paris S-G-Nantes,FRA-L1,21-22,01aabfc9
+feb5d3ab,Dennis Appiah,12,FRA,RB,29-164,49,0,0,0,0,0,0,0,0,30,0,0,0,0.0,0.0,0.0,1,0,23,25,92.0,3,20,1,1,0,Nantes,2021-11-20 Paris S-G-Nantes,FRA-L1,21-22,01aabfc9
+4e7db402,Alban Lafont,1,FRA,GK,22-301,90,0,0,0,0,0,0,0,0,28,0,0,0,0.0,0.0,0.0,0,0,18,23,78.3,0,6,0,0,0,Nantes,2021-11-20 Paris S-G-Nantes,FRA-L1,21-22,01aabfc9

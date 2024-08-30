@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+116c35df,Donyell Malen,21,NED,FW,25-031,90,2,0,0,0,4,3,1,0,40,0,0,2,0.4,0.4,0.6,8,0,24,26,92.3,6,27,2,2,0,Dortmund,2024-02-09 Dortmund-Freiburg,GER-BL1,23-24,d8ec709e
+4f16405e,Niclas Füllkrug,14,GER,FW,31-000,90,1,2,0,0,2,2,0,0,34,0,0,0,0.4,0.4,0.3,4,2,15,25,60.0,4,21,2,1,0,Dortmund,2024-02-09 Dortmund-Freiburg,GER-BL1,23-24,d8ec709e
+10745192,Jamie Gittens,43,ENG,AM,19-185,65,0,0,0,0,1,1,0,0,36,0,0,0,0.0,0.0,0.1,1,0,19,24,79.2,1,25,3,7,2,Dortmund,2024-02-09 Dortmund-Freiburg,GER-BL1,23-24,d8ec709e
+a167537f,Julian Brandt,19,GER,AM,27-283,25,0,0,0,0,0,0,0,0,20,0,0,0,0.0,0.0,0.3,4,1,14,18,77.8,1,11,1,1,0,Dortmund,2024-02-09 Dortmund-Freiburg,GER-BL1,23-24,d8ec709e
+36a3ff67,Marco Reus,11,GER,AM,34-254,87,0,0,0,0,3,1,0,0,39,0,0,1,0.3,0.3,0.0,1,0,18,24,75.0,2,23,5,1,0,Dortmund,2024-02-09 Dortmund-Freiburg,GER-BL1,23-24,d8ec709e
+dbf053da,Jadon Sancho,10,ENG,AM,23-321,3,0,0,0,0,3,1,0,0,6,0,0,0,0.4,0.4,0.0,1,0,3,3,100.0,0,4,0,0,0,Dortmund,2024-02-09 Dortmund-Freiburg,GER-BL1,23-24,d8ec709e
+a65ce836,Emre Can,23,GER,DM,30-028,87,0,0,0,0,2,0,0,0,98,2,4,0,0.0,0.0,0.0,1,0,74,87,85.1,2,72,0,3,1,Dortmund,2024-02-09 Dortmund-Freiburg,GER-BL1,23-24,d8ec709e
+05d548d8,Mats Hummels,15,GER,DM,35-055,3,0,0,0,0,0,0,0,0,18,0,0,0,0.0,0.0,0.0,0,0,16,18,88.9,2,16,0,0,0,Dortmund,2024-02-09 Dortmund-Freiburg,GER-BL1,23-24,d8ec709e
+e280527c,Marcel Sabitzer,20,AUT,DM,29-329,90,0,0,0,0,0,0,0,0,68,1,1,0,0.0,0.0,0.0,2,1,51,59,86.4,5,36,1,4,0,Dortmund,2024-02-09 Dortmund-Freiburg,GER-BL1,23-24,d8ec709e
+cab9634e,Ian Maatsen,22,NED,LB,21-336,87,0,1,0,0,1,0,0,0,77,3,0,0,0.0,0.0,0.2,3,1,61,66,92.4,4,39,3,5,2,Dortmund,2024-02-09 Dortmund-Freiburg,GER-BL1,23-24,d8ec709e
+5fd5e542,Mateu Morey,2,ESP,LB,23-344,3,0,0,0,0,0,0,0,0,5,0,1,0,0.0,0.0,0.0,0,0,5,5,100.0,0,3,0,0,0,Dortmund,2024-02-09 Dortmund-Freiburg,GER-BL1,23-24,d8ec709e
+34e12499,Nico Schlotterbeck,4,GER,CB,24-070,90,0,0,0,0,0,0,0,0,128,1,1,1,0.0,0.0,0.0,3,0,108,119,90.8,9,78,2,0,0,Dortmund,2024-02-09 Dortmund-Freiburg,GER-BL1,23-24,d8ec709e
+e33c06cf,Niklas Süle,25,GER,CB,28-159,90,0,0,0,0,0,0,0,0,125,3,1,0,0.0,0.0,0.0,2,0,103,115,89.6,6,102,1,0,0,Dortmund,2024-02-09 Dortmund-Freiburg,GER-BL1,23-24,d8ec709e
+009a4f60,Julian Ryerson,26,NOR,RB,26-084,78,0,0,0,0,1,0,1,0,65,2,0,1,0.3,0.3,0.2,1,0,51,57,89.5,2,38,1,1,0,Dortmund,2024-02-09 Dortmund-Freiburg,GER-BL1,23-24,d8ec709e
+fa661778,Marius Wolf,17,GER,RB,28-258,12,0,0,0,0,0,0,0,0,7,0,0,1,0.0,0.0,0.0,0,0,5,5,100.0,0,5,0,0,0,Dortmund,2024-02-09 Dortmund-Freiburg,GER-BL1,23-24,d8ec709e
+cd59b9df,Gregor Kobel,1,SUI,GK,26-065,90,0,0,0,0,0,0,0,0,59,0,0,0,0.0,0.0,0.0,0,0,58,59,98.3,0,46,0,0,0,Dortmund,2024-02-09 Dortmund-Freiburg,GER-BL1,23-24,d8ec709e
+8e235926,Michael Gregoritsch,38,AUT,FW,29-297,58,0,0,0,0,1,1,0,0,14,0,0,1,0.1,0.1,0.0,0,0,7,10,70.0,0,9,0,0,0,Freiburg,2024-02-09 Dortmund-Freiburg,GER-BL1,23-24,d8ec709e
+d01bbb6f,Ritsu Doan,42,JPN,RW,25-238,32,0,0,0,0,1,1,0,0,18,1,0,1,0.0,0.0,0.0,0,0,5,10,50.0,2,8,0,0,0,Freiburg,2024-02-09 Dortmund-Freiburg,GER-BL1,23-24,d8ec709e
+54e4866f,Vincenzo Grifo,32,ITA,LW,30-308,58,0,0,0,0,0,0,0,0,46,0,1,2,0.0,0.0,0.0,1,0,20,35,57.1,2,25,0,2,0,Freiburg,2024-02-09 Dortmund-Freiburg,GER-BL1,23-24,d8ec709e
+dd676a97,Noah Weißhaupt,7,GER,LW,22-142,32,0,0,0,0,0,0,0,0,12,0,0,0,0.0,0.0,0.0,1,0,5,9,55.6,2,9,0,1,0,Freiburg,2024-02-09 Dortmund-Freiburg,GER-BL1,23-24,d8ec709e
+bf075f6b,Roland Sallai,22,HUN,"RW,FW",26-263,79,0,0,0,0,0,0,0,0,20,1,0,1,0.0,0.0,0.0,0,0,8,14,57.1,0,15,3,5,2,Freiburg,2024-02-09 Dortmund-Freiburg,GER-BL1,23-24,d8ec709e
+061e8e23,Maximilian Philipp,26,GER,FW,29-345,11,0,0,0,0,1,1,0,0,5,0,0,0,0.0,0.0,0.0,1,0,2,4,50.0,0,3,0,0,0,Freiburg,2024-02-09 Dortmund-Freiburg,GER-BL1,23-24,d8ec709e
+ca618d23,Lucas Höler,9,GER,AM,29-214,90,0,0,0,0,1,0,0,0,31,0,0,0,0.0,0.0,0.0,1,0,14,21,66.7,3,15,1,2,1,Freiburg,2024-02-09 Dortmund-Freiburg,GER-BL1,23-24,d8ec709e
+5d8e331f,Nicolas Höfler,27,GER,DM,33-337,90,0,0,0,0,0,0,0,0,34,4,3,1,0.0,0.0,0.0,0,0,21,26,80.8,1,15,1,1,1,Freiburg,2024-02-09 Dortmund-Freiburg,GER-BL1,23-24,d8ec709e
+beb882a8,Maximilian Eggestein,8,GER,DM,27-063,90,0,0,0,0,1,0,0,0,52,1,2,2,0.1,0.1,0.1,4,0,35,45,77.8,8,26,2,2,1,Freiburg,2024-02-09 Dortmund-Freiburg,GER-BL1,23-24,d8ec709e
+14b09c41,Jordy Makengo,33,FRA,LB,22-190,78,0,0,0,0,1,0,0,0,26,0,0,1,0.0,0.0,0.0,1,0,21,23,91.3,4,16,2,0,0,Freiburg,2024-02-09 Dortmund-Freiburg,GER-BL1,23-24,d8ec709e
+8593f88c,Christian Günter,30,GER,LB,30-346,12,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,6,8,75.0,1,2,0,0,0,Freiburg,2024-02-09 Dortmund-Freiburg,GER-BL1,23-24,d8ec709e
+25ab9c9c,Manuel Gulde,5,GER,CB,32-362,22,0,0,0,0,0,0,0,0,6,2,0,0,0.0,0.0,0.0,0,0,2,4,50.0,1,0,0,0,0,Freiburg,2024-02-09 Dortmund-Freiburg,GER-BL1,23-24,d8ec709e
+50ff205b,Attila Szalai,6,HUN,CB,26-020,68,0,0,0,0,0,0,0,0,39,1,1,2,0.0,0.0,0.0,0,0,23,30,76.7,2,20,0,0,0,Freiburg,2024-02-09 Dortmund-Freiburg,GER-BL1,23-24,d8ec709e
+313254a3,Kiliann Sildillia,25,FRA,CB,21-269,90,0,0,0,0,0,0,0,0,58,2,0,2,0.0,0.0,0.0,0,0,38,48,79.2,2,31,0,1,0,Freiburg,2024-02-09 Dortmund-Freiburg,GER-BL1,23-24,d8ec709e
+2a29eb9b,Lukas Kübler,17,GER,RB,31-163,90,0,0,0,0,0,0,0,0,63,7,1,1,0.0,0.0,0.1,1,0,37,49,75.5,3,31,0,0,0,Freiburg,2024-02-09 Dortmund-Freiburg,GER-BL1,23-24,d8ec709e
+dbd1b101,Noah Atubolu,1,GER,GK,21-260,90,0,0,0,0,0,0,0,0,37,0,0,0,0.0,0.0,0.0,0,0,23,33,69.7,0,19,0,0,0,Freiburg,2024-02-09 Dortmund-Freiburg,GER-BL1,23-24,d8ec709e

@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+23c63b7f,Ignatius Ganago,14,CMR,FW,23-256,90,0,1,0,0,3,1,0,0,24,1,0,1,0.2,0.2,0.8,1,1,6,13,46.2,1,14,0,0,0,Nantes,2022-10-30 Nantes-Clermont Foot,FRA-L1,22-23,d73b5aa4
+5f3eaaf5,Moses Simon,27,NGA,LW,27-110,83,0,0,0,0,1,1,0,0,40,1,0,1,0.0,0.0,0.2,4,0,20,30,66.7,0,32,4,5,2,Nantes,2022-10-30 Nantes-Clermont Foot,FRA-L1,22-23,d73b5aa4
+0e7ccfc4,Sébastien Corchia,24,FRA,RB,31-363,7,0,0,0,0,0,0,0,0,14,0,0,1,0.0,0.0,0.0,0,0,10,13,76.9,2,7,0,0,0,Nantes,2022-10-30 Nantes-Clermont Foot,FRA-L1,22-23,d73b5aa4
+6191093d,Ludovic Blas,10,FRA,"RW,CM",24-303,90,0,0,0,0,1,0,0,0,56,0,3,1,0.0,0.0,0.0,3,0,35,48,72.9,2,45,4,2,2,Nantes,2022-10-30 Nantes-Clermont Foot,FRA-L1,22-23,d73b5aa4
+2acd49b9,Moussa Sissoko,17,FRA,"AM,CM",33-075,90,0,0,0,0,0,0,0,0,47,0,0,2,0.0,0.0,0.2,3,0,31,41,75.6,3,36,0,3,0,Nantes,2022-10-30 Nantes-Clermont Foot,FRA-L1,22-23,d73b5aa4
+af0c835b,Samuel Moutoussamy,8,COD,DM,26-079,57,0,0,0,0,1,0,0,0,27,1,0,0,0.1,0.1,0.0,2,0,23,25,92.0,4,19,0,0,0,Nantes,2022-10-30 Nantes-Clermont Foot,FRA-L1,22-23,d73b5aa4
+595e6f3e,Mostafa Mohamed,31,EGY,"DM,FW",24-336,33,1,0,0,0,2,1,0,0,8,0,0,0,1.1,1.1,0.0,0,0,2,4,50.0,0,4,0,0,0,Nantes,2022-10-30 Nantes-Clermont Foot,FRA-L1,22-23,d73b5aa4
+68a26d51,Pedro Chirivella,5,ESP,DM,25-160,66,0,0,0,0,0,0,0,0,75,1,1,2,0.0,0.0,0.0,1,0,62,71,87.3,13,60,0,1,0,Nantes,2022-10-30 Nantes-Clermont Foot,FRA-L1,22-23,d73b5aa4
+b73f17f8,Evann Guessand,7,CIV,"DM,RM",21-121,24,0,0,0,0,1,0,0,0,14,1,0,0,0.1,0.1,0.0,0,0,6,11,54.5,0,9,0,0,0,Nantes,2022-10-30 Nantes-Clermont Foot,FRA-L1,22-23,d73b5aa4
+0bfca6a1,Quentin Merlin,29,FRA,LB,20-167,83,0,0,0,0,2,1,0,0,88,1,0,2,0.1,0.1,0.3,3,0,58,80,72.5,7,65,4,3,2,Nantes,2022-10-30 Nantes-Clermont Foot,FRA-L1,22-23,d73b5aa4
+3010aefb,Marcus Coco,11,FRA,LM,26-128,7,0,0,0,0,0,0,0,0,6,1,0,0,0.0,0.0,0.0,0,0,4,4,100.0,0,5,0,2,1,Nantes,2022-10-30 Nantes-Clermont Foot,FRA-L1,22-23,d73b5aa4
+779847d6,Nicolas Pallois,4,FRA,CB,35-041,90,0,0,0,0,0,0,0,0,84,3,2,1,0.0,0.0,0.0,0,0,59,69,85.5,4,59,1,0,0,Nantes,2022-10-30 Nantes-Clermont Foot,FRA-L1,22-23,d73b5aa4
+3befc2b6,Andrei Girotto,3,BRA,CB,30-255,90,0,0,0,0,0,0,0,0,80,3,1,0,0.0,0.0,0.0,0,0,62,67,92.5,10,54,0,0,0,Nantes,2022-10-30 Nantes-Clermont Foot,FRA-L1,22-23,d73b5aa4
+3c6bbbab,Fabien Centonze,28,FRA,RB,26-287,57,0,0,0,0,2,0,0,0,62,2,1,0,0.1,0.1,0.0,1,0,43,53,81.1,9,53,3,3,2,Nantes,2022-10-30 Nantes-Clermont Foot,FRA-L1,22-23,d73b5aa4
+feb5d3ab,Dennis Appiah,12,FRA,"RB,LB",30-143,33,0,0,0,0,0,0,0,0,29,0,0,0,0.0,0.0,0.0,1,1,20,28,71.4,5,24,0,1,0,Nantes,2022-10-30 Nantes-Clermont Foot,FRA-L1,22-23,d73b5aa4
+477e50ce,Rémy Descamps,16,FRA,GK,26-127,90,0,0,0,0,0,0,0,0,28,0,0,0,0.0,0.0,0.0,0,0,22,26,84.6,0,18,0,0,0,Nantes,2022-10-30 Nantes-Clermont Foot,FRA-L1,22-23,d73b5aa4
+af3ddb2e,Komnen Andrić,9,SRB,FW,27-121,87,0,0,0,0,0,0,0,0,52,0,2,1,0.0,0.0,0.0,2,0,30,39,76.9,5,30,1,0,0,Clermont Foot,2022-10-30 Nantes-Clermont Foot,FRA-L1,22-23,d73b5aa4
+397ba086,Grejohn Kyei,95,FRA,FW,27-079,3,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,2,0,0,0,Clermont Foot,2022-10-30 Nantes-Clermont Foot,FRA-L1,22-23,d73b5aa4
+caa7aaea,Yohann Magnin,7,FRA,AM,25-131,90,0,0,0,0,0,0,1,0,46,2,2,0,0.0,0.0,0.0,2,0,29,35,82.9,7,31,1,4,0,Clermont Foot,2022-10-30 Nantes-Clermont Foot,FRA-L1,22-23,d73b5aa4
+25749008,Elba Rashani,18,KVX,AM,29-174,68,0,0,0,0,3,2,0,0,42,1,0,0,0.3,0.3,0.0,0,0,23,32,71.9,1,36,2,2,0,Clermont Foot,2022-10-30 Nantes-Clermont Foot,FRA-L1,22-23,d73b5aa4
+1956b948,Jim Allevinah,11,GAB,AM,27-245,22,0,0,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.0,0,0,7,8,87.5,0,13,0,3,0,Clermont Foot,2022-10-30 Nantes-Clermont Foot,FRA-L1,22-23,d73b5aa4
+796b1c41,Saîf-Eddine Khaoui,10,TUN,CM,27-186,87,0,0,0,0,1,1,0,0,56,3,2,0,0.0,0.0,0.0,2,0,31,45,68.9,0,43,2,1,1,Clermont Foot,2022-10-30 Nantes-Clermont Foot,FRA-L1,22-23,d73b5aa4
+f527a32c,Muhammed Cham,70,AUT,CM,22-034,3,0,0,0,0,0,0,0,0,4,1,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,1,0,0,0,Clermont Foot,2022-10-30 Nantes-Clermont Foot,FRA-L1,22-23,d73b5aa4
+868eaba0,Johan Gastien,25,FRA,CM,34-278,90,0,0,0,0,1,1,0,0,88,4,1,0,0.0,0.0,0.0,5,1,67,75,89.3,4,64,0,0,0,Clermont Foot,2022-10-30 Nantes-Clermont Foot,FRA-L1,22-23,d73b5aa4
+9f936061,Neto Borges,3,BRA,WB,26-047,73,1,0,0,0,3,1,0,0,42,3,1,2,0.3,0.3,0.0,1,0,25,30,83.3,2,24,2,3,2,Clermont Foot,2022-10-30 Nantes-Clermont Foot,FRA-L1,22-23,d73b5aa4
+9f0f4b49,Arial Mendy,19,SEN,WB,27-357,17,0,0,0,0,0,0,0,0,16,0,2,0,0.0,0.0,0.0,1,0,7,13,53.8,2,7,0,1,0,Clermont Foot,2022-10-30 Nantes-Clermont Foot,FRA-L1,22-23,d73b5aa4
+5680bf3f,Jérémie Bela,91,ANG,WB,29-205,90,0,1,0,0,0,0,0,0,60,0,1,1,0.0,0.0,0.2,1,1,42,55,76.4,8,39,5,2,1,Clermont Foot,2022-10-30 Nantes-Clermont Foot,FRA-L1,22-23,d73b5aa4
+6993927b,Florent Ogier,21,FRA,CB,33-223,90,0,0,0,0,0,0,0,0,42,0,0,1,0.0,0.0,0.0,0,0,26,31,83.9,2,28,0,0,0,Clermont Foot,2022-10-30 Nantes-Clermont Foot,FRA-L1,22-23,d73b5aa4
+3ecc8c5f,Mateusz Wieteska,4,POL,CB,25-261,90,0,0,0,0,2,1,0,0,42,0,3,1,0.0,0.0,0.0,1,0,24,34,70.6,2,26,1,0,0,Clermont Foot,2022-10-30 Nantes-Clermont Foot,FRA-L1,22-23,d73b5aa4
+c92c24f0,Maximiliano Caufriez,5,BEL,CB,25-256,90,0,0,0,0,0,0,1,0,48,3,1,2,0.0,0.0,0.0,0,0,31,36,86.1,2,25,0,0,0,Clermont Foot,2022-10-30 Nantes-Clermont Foot,FRA-L1,22-23,d73b5aa4
+f41a69e6,Mory Diaw,99,SEN,GK,29-130,90,0,0,0,0,0,0,0,0,43,0,0,0,0.0,0.0,0.0,0,0,21,40,52.5,0,26,0,0,0,Clermont Foot,2022-10-30 Nantes-Clermont Foot,FRA-L1,22-23,d73b5aa4

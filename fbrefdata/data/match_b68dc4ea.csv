@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+8d8178ac,Rodrigo Palacio,24,ARG,"FW,LW",37-270,90,0,0,0,0,2,1,0,0,42,1,0,0,0.1,0.1,0.0,1,0,18,26,69.2,2,29,1,2,0,Bologna,2019-11-02 Bologna-Inter,ITA-SERIA_A,19-20,b68dc4ea
+7eb97a8e,Nicola Sansone,10,ITA,LW,28-053,83,0,0,0,0,2,1,0,0,40,0,0,0,0.0,0.0,0.0,6,1,23,29,79.3,0,31,3,1,0,Bologna,2019-11-02 Bologna-Inter,ITA-SERIA_A,19-20,b68dc4ea
+df85d472,Federico Santander,9,PAR,FW,28-151,7,0,0,0,0,0,0,0,0,4,0,1,0,0.0,0.0,0.1,1,0,2,3,66.7,0,1,0,0,0,Bologna,2019-11-02 Bologna-Inter,ITA-SERIA_A,19-20,b68dc4ea
+e14ec482,Riccardo Orsolini,7,ITA,RW,22-282,90,0,0,0,0,1,0,0,0,51,1,2,1,0.0,0.0,0.1,1,0,24,40,60.0,2,32,1,3,3,Bologna,2019-11-02 Bologna-Inter,ITA-SERIA_A,19-20,b68dc4ea
+9d4c45d6,Roberto Soriano,21,ITA,AM,28-267,75,1,0,0,0,1,1,0,0,41,3,0,0,0.0,0.0,0.0,1,0,32,34,94.1,5,21,0,1,0,Bologna,2019-11-02 Bologna-Inter,ITA-SERIA_A,19-20,b68dc4ea
+756959aa,Blerim Džemaili,31,SUI,"DM,AM",33-204,15,0,0,0,0,1,0,0,0,13,2,0,1,0.0,0.0,0.0,2,0,7,9,77.8,3,7,1,1,1,Bologna,2019-11-02 Bologna-Inter,ITA-SERIA_A,19-20,b68dc4ea
+92d83c27,Mattias Svanberg,32,SWE,"DM,AM",20-301,90,0,1,0,0,2,0,0,0,57,1,1,4,0.1,0.1,0.1,4,1,37,43,86.0,3,24,2,2,0,Bologna,2019-11-02 Bologna-Inter,ITA-SERIA_A,19-20,b68dc4ea
+b3fd7075,Andrea Poli,16,ITA,DM,30-034,71,0,0,0,0,0,0,0,0,55,0,4,0,0.0,0.0,0.0,1,0,43,48,89.6,3,30,1,0,0,Bologna,2019-11-02 Bologna-Inter,ITA-SERIA_A,19-20,b68dc4ea
+563a68ad,Gary Medel,5,CHI,DM,32-091,19,0,0,0,0,0,0,1,0,11,0,0,1,0.0,0.0,0.0,0,0,6,8,75.0,0,6,0,0,0,Bologna,2019-11-02 Bologna-Inter,ITA-SERIA_A,19-20,b68dc4ea
+58027adc,Ladislav Krejčí,11,CZE,LB,27-120,90,0,0,0,0,0,0,0,0,84,1,3,1,0.0,0.0,0.0,2,0,56,72,77.8,5,38,5,5,2,Bologna,2019-11-02 Bologna-Inter,ITA-SERIA_A,19-20,b68dc4ea
+0821331c,Mattia Bani,13,ITA,CB,25-327,90,0,0,0,0,1,0,1,0,32,3,0,5,0.2,0.2,0.0,0,0,18,22,81.8,2,8,0,0,0,Bologna,2019-11-02 Bologna-Inter,ITA-SERIA_A,19-20,b68dc4ea
+fed5f993,Danilo Larangeira,23,BRA,CB,35-176,90,0,0,0,0,1,0,1,0,53,1,0,0,0.0,0.0,0.0,1,0,34,45,75.6,2,23,0,0,0,Bologna,2019-11-02 Bologna-Inter,ITA-SERIA_A,19-20,b68dc4ea
+cfbf9881,Ibrahima Mbaye,15,SEN,RB,24-348,90,0,0,0,0,0,0,0,0,52,0,2,0,0.0,0.0,0.0,0,0,36,45,80.0,2,29,1,1,1,Bologna,2019-11-02 Bologna-Inter,ITA-SERIA_A,19-20,b68dc4ea
+ab4449d6,Łukasz Skorupski,28,POL,GK,28-181,90,0,0,0,0,0,0,0,0,42,0,0,0,0.0,0.0,0.0,0,0,28,37,75.7,0,17,0,0,0,Bologna,2019-11-02 Bologna-Inter,ITA-SERIA_A,19-20,b68dc4ea
+f7036e1c,Lautaro Martínez,10,ARG,FW,22-072,90,0,0,0,0,2,1,0,0,29,0,2,0,0.1,0.1,0.2,7,2,13,16,81.3,1,22,1,2,1,Internazionale,2019-11-02 Bologna-Inter,ITA-SERIA_A,19-20,b68dc4ea
+5eae500a,Romelu Lukaku,9,BEL,FW,26-173,90,2,0,1,1,6,4,0,0,38,0,0,0,1.9,1.1,0.0,1,0,15,26,57.7,3,27,1,1,0,Internazionale,2019-11-02 Bologna-Inter,ITA-SERIA_A,19-20,b68dc4ea
+6928979a,Nicolò Barella,23,ITA,CM,22-268,90,0,0,0,0,0,0,0,0,71,2,2,3,0.0,0.0,0.1,4,0,41,55,74.5,12,49,3,3,3,Internazionale,2019-11-02 Bologna-Inter,ITA-SERIA_A,19-20,b68dc4ea
+33b8d077,Marcelo Brozović,77,CRO,CM,26-351,90,0,0,0,0,0,0,1,0,74,4,0,2,0.0,0.0,0.1,2,0,46,61,75.4,8,43,1,3,3,Internazionale,2019-11-02 Bologna-Inter,ITA-SERIA_A,19-20,b68dc4ea
+ce30bfc8,Roberto Gagliardini,5,ITA,CM,25-209,71,0,0,0,0,1,0,1,0,45,1,1,1,0.0,0.0,0.1,1,0,26,36,72.2,5,30,6,0,0,Internazionale,2019-11-02 Bologna-Inter,ITA-SERIA_A,19-20,b68dc4ea
+44ac04e9,Matías Vecino,8,URU,CM,28-070,19,0,0,0,0,2,0,1,0,8,0,0,0,0.1,0.1,0.0,0,0,5,6,83.3,0,7,1,0,0,Internazionale,2019-11-02 Bologna-Inter,ITA-SERIA_A,19-20,b68dc4ea
+9e1577aa,Cristiano Biraghi,34,ITA,WB,27-062,73,0,0,0,0,0,0,0,0,47,2,0,0,0.0,0.0,0.1,4,0,32,41,78.0,2,31,5,1,1,Internazionale,2019-11-02 Bologna-Inter,ITA-SERIA_A,19-20,b68dc4ea
+356c9002,Antonio Candreva,87,ITA,WB,32-247,17,0,0,0,0,0,0,0,0,16,0,0,0,0.0,0.0,0.0,1,0,10,15,66.7,2,11,2,0,0,Internazionale,2019-11-02 Bologna-Inter,ITA-SERIA_A,19-20,b68dc4ea
+016ff750,Valentino Lazaro,19,AUT,WB,23-223,84,0,0,0,0,0,0,0,0,72,3,0,2,0.0,0.0,0.8,6,0,40,58,69.0,6,44,3,5,2,Internazionale,2019-11-02 Bologna-Inter,ITA-SERIA_A,19-20,b68dc4ea
+5e861944,Matteo Politano,16,ITA,WB,26-091,6,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,4,8,50.0,0,3,0,0,0,Internazionale,2019-11-02 Bologna-Inter,ITA-SERIA_A,19-20,b68dc4ea
+75b86fb3,Alessandro Bastoni,95,ITA,CB,20-203,90,0,0,0,0,0,0,0,0,68,1,0,0,0.0,0.0,0.0,1,0,56,62,90.3,3,54,1,0,0,Internazionale,2019-11-02 Bologna-Inter,ITA-SERIA_A,19-20,b68dc4ea
+d0d8dd44,Stefan de Vrij,6,NED,CB,27-270,90,0,0,0,0,1,0,0,0,45,2,3,1,0.1,0.1,0.0,0,0,32,34,94.1,1,29,0,0,0,Internazionale,2019-11-02 Bologna-Inter,ITA-SERIA_A,19-20,b68dc4ea
+30f5ffa9,Milan Škriniar,37,SVK,CB,24-264,90,0,0,0,0,2,2,1,0,69,3,3,1,0.2,0.2,0.0,1,1,50,56,89.3,3,46,0,0,0,Internazionale,2019-11-02 Bologna-Inter,ITA-SERIA_A,19-20,b68dc4ea
+74419746,Samir Handanović,1,SVN,GK,35-111,90,0,0,0,0,0,0,0,0,34,0,0,0,0.0,0.0,0.0,0,0,27,33,81.8,0,16,0,0,0,Internazionale,2019-11-02 Bologna-Inter,ITA-SERIA_A,19-20,b68dc4ea

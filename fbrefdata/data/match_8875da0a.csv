@@ -1,0 +1,32 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+9f381d8b,Jhon Córdoba,15,COL,FW,27-334,90,1,1,0,0,5,2,0,0,34,1,0,0,1.0,1.0,0.1,5,1,15,23,65.2,1,26,1,3,3,Hertha BSC,2021-04-10 Hertha BSC-Gladbach,GER-BL1,20-21,8875da0a
+dc62b55d,Matheus Cunha,10,BRA,LW,21-318,90,0,1,0,0,6,2,0,0,61,0,0,0,0.3,0.3,1.0,11,1,34,49,69.4,8,28,1,5,4,Hertha BSC,2021-04-10 Hertha BSC-Gladbach,GER-BL1,20-21,8875da0a
+0c61c77c,Dodi Lukebakio,11,BEL,RW,23-198,45,0,0,0,0,4,0,0,0,20,0,0,0,0.2,0.2,0.0,2,0,11,13,84.6,1,13,1,0,0,Hertha BSC,2021-04-10 Hertha BSC-Gladbach,GER-BL1,20-21,8875da0a
+17f3620a,Krzysztof Piątek,9,POL,RW,25-283,45,0,0,0,0,1,0,0,0,14,0,0,0,0.1,0.1,0.0,3,0,7,10,70.0,1,7,0,0,0,Hertha BSC,2021-04-10 Hertha BSC-Gladbach,GER-BL1,20-21,8875da0a
+88d4144a,Maximilian Mittelstädt,17,GER,LM,24-023,45,0,0,0,0,0,0,1,0,34,1,0,0,0.0,0.0,0.1,1,0,26,30,86.7,1,21,1,0,0,Hertha BSC,2021-04-10 Hertha BSC-Gladbach,GER-BL1,20-21,8875da0a
+f7aa75bd,Marvin Plattenhardt,21,GER,LM,29-074,45,0,0,0,0,0,0,0,0,29,0,0,0,0.0,0.0,0.0,1,0,24,28,85.7,1,20,2,0,0,Hertha BSC,2021-04-10 Hertha BSC-Gladbach,GER-BL1,20-21,8875da0a
+5ea8ef20,Mattéo Guendouzi,8,FRA,CM,21-361,90,0,0,0,0,1,1,0,0,76,0,1,2,0.0,0.0,0.0,3,0,58,66,87.9,9,53,2,0,0,Hertha BSC,2021-04-10 Hertha BSC-Gladbach,GER-BL1,20-21,8875da0a
+e26fcca3,Santiago Ascacíbar,18,ARG,CM,24-044,56,1,0,0,0,3,2,0,0,42,4,2,1,0.1,0.1,0.0,2,1,27,31,87.1,5,22,0,0,0,Hertha BSC,2021-04-10 Hertha BSC-Gladbach,GER-BL1,20-21,8875da0a
+38ac43d3,Sami Khedira,28,GER,CM,34-006,34,0,0,0,0,0,0,0,0,34,1,2,1,0.0,0.0,0.1,1,0,23,30,76.7,3,20,1,0,0,Hertha BSC,2021-04-10 Hertha BSC-Gladbach,GER-BL1,20-21,8875da0a
+58a2e9f6,Deyovaisio Zeefuik,42,NED,RM,23-030,45,0,0,0,0,0,0,1,0,38,0,1,2,0.0,0.0,0.2,4,0,23,28,82.1,2,16,0,3,0,Hertha BSC,2021-04-10 Hertha BSC-Gladbach,GER-BL1,20-21,8875da0a
+0630eb63,Nemanja Radonjić,24,SRB,RM,25-054,45,0,0,0,0,1,0,0,0,44,0,0,0,0.0,0.0,0.1,2,0,26,41,63.4,8,29,6,2,1,Hertha BSC,2021-04-10 Hertha BSC-Gladbach,GER-BL1,20-21,8875da0a
+41bff4fa,Márton Dárdai,31,HUN,CB,19-057,90,0,0,0,0,1,0,0,0,89,1,3,2,0.1,0.1,0.1,4,0,71,80,88.8,8,55,3,0,0,Hertha BSC,2021-04-10 Hertha BSC-Gladbach,GER-BL1,20-21,8875da0a
+aad48be9,Niklas Stark,5,GER,CB,25-361,90,0,0,0,0,1,0,0,0,98,0,0,0,0.0,0.0,0.0,0,0,88,94,93.6,10,73,1,0,0,Hertha BSC,2021-04-10 Hertha BSC-Gladbach,GER-BL1,20-21,8875da0a
+92948149,Lukas Klünter,13,GER,CB,24-319,90,0,0,0,0,0,0,0,0,85,0,0,0,0.0,0.0,0.0,4,1,64,81,79.0,9,57,2,1,0,Hertha BSC,2021-04-10 Hertha BSC-Gladbach,GER-BL1,20-21,8875da0a
+0d55d942,Alexander Schwolow,1,GER,GK,28-312,90,0,0,0,0,0,0,0,0,20,0,0,0,0.0,0.0,0.0,0,0,18,18,100.0,1,9,0,0,0,Hertha BSC,2021-04-10 Hertha BSC-Gladbach,GER-BL1,20-21,8875da0a
+6f8cd6d0,Marcus Thuram,10,FRA,FW,23-247,76,0,1,0,0,0,0,0,0,33,3,2,2,0.0,0.0,0.0,2,1,15,21,71.4,0,18,3,2,0,Mönchengladbach,2021-04-10 Hertha BSC-Gladbach,GER-BL1,20-21,8875da0a
+0b4f388a,Breel Embolo,36,SUI,FW,24-055,14,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,0,0,5,7,71.4,0,5,1,1,1,Mönchengladbach,2021-04-10 Hertha BSC-Gladbach,GER-BL1,20-21,8875da0a
+bc6bd723,Alassane Pléa,14,FRA,LW,28-031,90,1,0,0,0,1,1,0,0,43,0,0,0,0.3,0.3,0.0,3,1,23,31,74.2,3,24,1,2,1,Mönchengladbach,2021-04-10 Hertha BSC-Gladbach,GER-BL1,20-21,8875da0a
+7cd6badb,Lars Stindl,13,GER,RW,32-227,59,1,0,1,1,2,2,0,0,34,1,0,0,0.9,0.1,0.0,3,1,23,27,85.2,1,10,1,0,0,Mönchengladbach,2021-04-10 Hertha BSC-Gladbach,GER-BL1,20-21,8875da0a
+016ff750,Valentino Lazaro,19,AUT,RW,25-017,31,0,0,0,0,0,0,0,0,19,0,1,2,0.0,0.0,0.0,1,0,10,16,62.5,1,8,2,0,0,Mönchengladbach,2021-04-10 Hertha BSC-Gladbach,GER-BL1,20-21,8875da0a
+b69261a0,Oscar Wendt,17,SWE,LM,35-168,16,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,0,0,0,0,Mönchengladbach,2021-04-10 Hertha BSC-Gladbach,GER-BL1,20-21,8875da0a
+0d8a37c2,Tobias Sippel,21,GER,GK,33-019,74,0,0,0,0,0,0,0,0,40,0,1,0,0.0,0.0,0.0,0,0,18,32,56.3,0,15,0,0,0,Mönchengladbach,2021-04-10 Hertha BSC-Gladbach,GER-BL1,20-21,8875da0a
+36a59ba4,Florian Neuhaus,32,GER,CM,24-025,90,0,0,0,0,1,0,0,0,53,2,1,3,0.0,0.0,0.1,3,0,33,38,86.8,2,23,3,4,3,Mönchengladbach,2021-04-10 Hertha BSC-Gladbach,GER-BL1,20-21,8875da0a
+496aeede,Christoph Kramer,6,GER,CM,30-050,90,0,0,0,0,1,0,1,0,62,1,2,0,0.0,0.0,0.0,1,1,40,50,80.0,3,29,1,1,0,Mönchengladbach,2021-04-10 Hertha BSC-Gladbach,GER-BL1,20-21,8875da0a
+4aea5077,Stefan Lainer,18,AUT,RM,28-226,90,0,0,0,0,0,0,0,0,42,0,3,0,0.0,0.0,0.0,1,0,23,29,79.3,4,22,1,1,1,Mönchengladbach,2021-04-10 Hertha BSC-Gladbach,GER-BL1,20-21,8875da0a
+378825c7,Ramy Bensebaini,25,ALG,CB,25-359,76,0,0,0,0,0,0,0,0,51,4,1,4,0.0,0.0,0.0,0,0,29,38,76.3,2,20,0,0,0,Mönchengladbach,2021-04-10 Hertha BSC-Gladbach,GER-BL1,20-21,8875da0a
+dfb6490a,Patrick Herrmann,7,GER,CB,30-057,14,0,0,0,0,0,0,0,0,8,0,0,1,0.0,0.0,0.0,0,0,5,5,100.0,0,5,0,0,0,Mönchengladbach,2021-04-10 Hertha BSC-Gladbach,GER-BL1,20-21,8875da0a
+384d58d9,Denis Zakaria,8,SUI,CB,24-141,90,0,0,0,0,0,0,0,0,45,0,4,1,0.0,0.0,0.0,0,0,31,34,91.2,1,22,1,0,0,Mönchengladbach,2021-04-10 Hertha BSC-Gladbach,GER-BL1,20-21,8875da0a
+f521b80a,Matthias Ginter,28,GER,CB,27-081,90,0,0,0,0,1,0,0,0,47,0,2,2,0.0,0.0,0.0,0,0,27,39,69.2,2,23,2,2,2,Mönchengladbach,2021-04-10 Hertha BSC-Gladbach,GER-BL1,20-21,8875da0a
+420c18a1,Yann Sommer,1,SUI,GK,32-114,12,0,0,0,0,0,0,0,1,7,0,0,0,0.0,0.0,0.0,0,0,5,7,71.4,0,5,0,0,0,Mönchengladbach,2021-04-10 Hertha BSC-Gladbach,GER-BL1,20-21,8875da0a

@@ -1,0 +1,32 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+bef0a7ac,Darío Benedetto,9,ARG,FW,30-216,67,0,1,0,0,2,2,0,0,16,0,1,1,0.2,0.2,0.4,2,1,4,10,40.0,0,5,1,1,1,Marseille,2020-12-19 Marseille-Reims,FRA-L1,20-21,bea6f7ea
+ea0ff634,Valère Germain,28,FRA,FW,30-246,23,0,0,0,0,0,0,0,0,10,1,0,0,0.0,0.0,0.0,0,0,8,8,100.0,0,4,0,0,0,Marseille,2020-12-19 Marseille-Reims,FRA-L1,20-21,bea6f7ea
+58ae47b2,Dimitri Payet,10,FRA,LW,33-265,90,0,0,0,0,0,0,0,0,61,1,0,1,0.0,0.0,0.4,3,0,42,57,73.7,7,39,3,3,2,Marseille,2020-12-19 Marseille-Reims,FRA-L1,20-21,bea6f7ea
+2b9fdeea,Florian Thauvin,26,FRA,RW,27-328,90,1,0,0,0,3,1,0,0,66,0,1,1,0.7,0.7,0.0,5,0,37,49,75.5,13,51,6,4,4,Marseille,2020-12-19 Marseille-Reims,FRA-L1,20-21,bea6f7ea
+ed45c4a5,Valentin Rongier,21,FRA,"AM,DM",26-012,84,0,0,0,0,2,1,0,0,89,3,1,2,0.1,0.1,0.0,2,1,67,73,91.8,5,58,3,2,0,Marseille,2020-12-19 Marseille-Reims,FRA-L1,20-21,bea6f7ea
+0630eb63,Nemanja Radonjić,7,SRB,DM,24-308,6,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,1,5,20.0,1,5,2,0,0,Marseille,2020-12-19 Marseille-Reims,FRA-L1,20-21,bea6f7ea
+7155e3e1,Pape Gueye,22,SEN,DM,21-330,55,0,0,0,0,2,0,0,0,61,0,1,1,0.1,0.1,0.0,0,0,47,55,85.5,1,44,1,0,0,Marseille,2020-12-19 Marseille-Reims,FRA-L1,20-21,bea6f7ea
+5722eced,Mickaël Cuisance,17,FRA,"AM,DM",21-125,35,0,0,0,0,0,0,0,0,37,3,0,0,0.0,0.0,0.0,0,0,28,31,90.3,2,31,2,1,1,Marseille,2020-12-19 Marseille-Reims,FRA-L1,20-21,bea6f7ea
+cc77354e,Boubacar Kamara,4,FRA,DM,21-026,90,0,0,0,0,1,0,0,0,114,7,0,1,0.0,0.0,0.2,3,0,89,101,88.1,16,79,2,4,2,Marseille,2020-12-19 Marseille-Reims,FRA-L1,20-21,bea6f7ea
+4b6960d2,Yuto Nagatomo,25,JPN,LB,34-098,55,0,0,0,0,0,0,1,0,36,2,1,0,0.0,0.0,0.0,0,0,29,32,90.6,1,22,1,3,3,Marseille,2020-12-19 Marseille-Reims,FRA-L1,20-21,bea6f7ea
+796b1c41,Saîf-Eddine Khaoui,24,TUN,LB,25-236,35,0,0,0,0,2,2,0,0,29,1,2,0,0.2,0.2,0.0,1,0,16,22,72.7,0,14,1,3,2,Marseille,2020-12-19 Marseille-Reims,FRA-L1,20-21,bea6f7ea
+94f8d10c,Duje Ćaleta-Car,15,CRO,CB,24-093,90,0,0,0,0,0,0,0,0,88,1,2,1,0.0,0.0,0.0,0,0,80,83,96.4,4,67,3,0,0,Marseille,2020-12-19 Marseille-Reims,FRA-L1,20-21,bea6f7ea
+42dcf26d,Álvaro González,3,ESP,CB,30-346,90,0,0,0,0,0,0,0,0,97,0,1,0,0.0,0.0,0.0,1,0,85,94,90.4,6,74,1,0,0,Marseille,2020-12-19 Marseille-Reims,FRA-L1,20-21,bea6f7ea
+d63e2912,Hiroki Sakai,2,JPN,RB,30-251,90,0,0,0,0,0,0,0,0,81,5,2,0,0.0,0.0,0.0,1,0,57,69,82.6,1,41,4,2,0,Marseille,2020-12-19 Marseille-Reims,FRA-L1,20-21,bea6f7ea
+1d2d5cc8,Steve Mandanda,30,FRA,GK,35-266,90,0,0,0,0,0,0,0,0,25,0,0,0,0.0,0.0,0.0,0,0,24,25,96.0,0,19,0,0,0,Marseille,2020-12-19 Marseille-Reims,FRA-L1,20-21,bea6f7ea
+244bc2c8,Boulaye Dia,11,SEN,"FW,RW",24-033,87,0,0,0,0,0,0,0,0,26,2,0,0,0.0,0.0,0.2,2,0,10,15,66.7,0,13,1,4,2,Reims,2020-12-19 Marseille-Reims,FRA-L1,20-21,bea6f7ea
+1b6862e8,Dereck Kutesa,8,SUI,RW,23-013,3,0,0,0,0,0,0,0,0,2,1,0,0,0.0,0.0,0.0,0,0,0,0,,0,1,0,0,0,Reims,2020-12-19 Marseille-Reims,FRA-L1,20-21,bea6f7ea
+095e4199,Arber Zeneli,10,KVX,LW,25-298,71,0,0,0,0,0,0,0,0,25,0,0,1,0.0,0.0,0.0,0,0,10,16,62.5,1,23,4,6,4,Reims,2020-12-19 Marseille-Reims,FRA-L1,20-21,bea6f7ea
+46750e9c,Nathanael Mbuku,21,FRA,LW,18-278,19,0,0,0,0,0,0,0,0,9,1,0,1,0.0,0.0,0.0,1,0,2,3,66.7,0,7,2,3,0,Reims,2020-12-19 Marseille-Reims,FRA-L1,20-21,bea6f7ea
+2a657da0,Mathieu Cafaro,24,FRA,RW,23-269,71,0,0,0,0,1,0,0,0,33,4,0,0,0.0,0.0,0.0,0,0,15,22,68.2,3,24,1,3,1,Reims,2020-12-19 Marseille-Reims,FRA-L1,20-21,bea6f7ea
+47c609d5,El Bilal Touré,27,MLI,FW,19-077,19,0,0,0,0,0,0,1,0,8,2,0,0,0.0,0.0,0.0,0,0,3,4,75.0,0,6,1,2,1,Reims,2020-12-19 Marseille-Reims,FRA-L1,20-21,bea6f7ea
+279ddf6a,Xavier Chavalerin,7,FRA,CM,29-287,90,0,0,0,0,0,0,0,0,21,1,0,0,0.0,0.0,0.0,0,0,11,17,64.7,1,9,3,1,1,Reims,2020-12-19 Marseille-Reims,FRA-L1,20-21,bea6f7ea
+f54d2149,Moreto Cassamã,23,GNB,CM,22-307,90,0,0,0,0,1,0,1,0,48,1,1,2,0.0,0.0,0.0,0,0,28,34,82.4,0,26,0,1,1,Reims,2020-12-19 Marseille-Reims,FRA-L1,20-21,bea6f7ea
+d5575935,Valon Berisha,14,KVX,CM,27-316,90,0,0,0,0,0,0,0,0,47,2,1,0,0.0,0.0,0.0,0,0,23,38,60.5,3,25,1,1,0,Reims,2020-12-19 Marseille-Reims,FRA-L1,20-21,bea6f7ea
+5fdcb075,Thibault De Smet,28,BEL,LB,22-197,62,0,0,0,0,0,0,1,0,37,3,2,1,0.0,0.0,0.0,0,0,20,30,66.7,1,14,1,0,0,Reims,2020-12-19 Marseille-Reims,FRA-L1,20-21,bea6f7ea
+1bfe34dc,Fodé Doucouré,33,MLI,RB,19-320,28,0,0,0,0,1,1,0,0,13,1,0,0,0.2,0.2,0.0,2,0,8,11,72.7,1,8,3,0,0,Reims,2020-12-19 Marseille-Reims,FRA-L1,20-21,bea6f7ea
+32c2d95f,Yunis Abdelhamid,5,MAR,CB,33-082,90,0,0,0,0,0,0,0,0,39,3,1,1,0.0,0.0,0.0,0,0,24,26,92.3,0,23,0,0,0,Reims,2020-12-19 Marseille-Reims,FRA-L1,20-21,bea6f7ea
+9c221d14,Wout Faes,2,BEL,CB,22-260,90,0,0,0,0,0,0,0,0,36,0,4,1,0.0,0.0,0.0,1,0,20,23,87.0,1,15,0,0,0,Reims,2020-12-19 Marseille-Reims,FRA-L1,20-21,bea6f7ea
+90eb507d,Thomas Foket,32,BEL,"RB,LB",26-085,90,0,0,0,0,0,0,0,0,49,4,1,0,0.0,0.0,0.0,0,0,28,34,82.4,1,20,2,0,0,Reims,2020-12-19 Marseille-Reims,FRA-L1,20-21,bea6f7ea
+58ad9383,Predrag Rajković,1,SRB,GK,25-049,90,0,0,0,0,0,0,0,0,36,0,0,0,0.0,0.0,0.0,0,0,14,32,43.8,0,18,0,0,0,Reims,2020-12-19 Marseille-Reims,FRA-L1,20-21,bea6f7ea

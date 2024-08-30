@@ -1,0 +1,32 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+08534272,Karim Aribi,13,ALG,FW,26-137,45,0,0,0,0,0,0,0,0,7,0,0,1,0.0,0.0,0.0,0,0,3,4,75.0,0,3,0,0,0,Nîmes,2020-11-08 Nîmes-Angers,FRA-L1,20-21,d7b1fb5b
+0d3585b5,Kévin Denkey,27,TOG,FW,19-344,45,0,0,0,0,3,1,0,0,14,0,0,0,0.5,0.5,0.1,2,0,6,11,54.5,0,6,1,0,0,Nîmes,2020-11-08 Nîmes-Angers,FRA-L1,20-21,d7b1fb5b
+0033fb1b,Niclas Eliasson,7,SWE,LW,24-337,65,0,0,0,0,0,0,0,0,24,1,1,1,0.0,0.0,0.4,4,0,10,19,52.6,1,17,2,1,1,Nîmes,2020-11-08 Nîmes-Angers,FRA-L1,20-21,d7b1fb5b
+beae3a73,Renaud Ripart,20,FRA,LW,27-239,25,0,0,0,0,1,1,0,0,12,0,0,1,0.0,0.0,0.0,1,0,8,10,80.0,2,3,1,1,1,Nîmes,2020-11-08 Nîmes-Angers,FRA-L1,20-21,d7b1fb5b
+005c0807,Zinedine Ferhat,10,ALG,RW,27-252,90,0,1,0,0,3,1,0,0,47,2,0,1,0.1,0.1,0.5,1,1,24,40,60.0,2,25,2,2,2,Nîmes,2020-11-08 Nîmes-Angers,FRA-L1,20-21,d7b1fb5b
+44f8c299,Lucas Deaux,8,FRA,LM,31-318,90,0,0,0,0,0,0,1,0,83,3,2,5,0.0,0.0,0.1,3,1,49,65,75.4,6,36,2,2,2,Nîmes,2020-11-08 Nîmes-Angers,FRA-L1,20-21,d7b1fb5b
+9b40a6ea,Andrés Cubas,18,PAR,CM,24-170,66,0,0,0,0,0,0,0,0,48,1,1,2,0.0,0.0,0.0,2,0,41,43,95.3,4,34,0,0,0,Nîmes,2020-11-08 Nîmes-Angers,FRA-L1,20-21,d7b1fb5b
+3ef68782,Moussa Koné,28,SEN,CM,23-314,24,1,0,0,0,1,1,0,0,8,0,0,1,0.5,0.5,0.0,0,0,7,7,100.0,1,5,0,1,1,Nîmes,2020-11-08 Nîmes-Angers,FRA-L1,20-21,d7b1fb5b
+fbf76716,Yassine Benrahou,22,FRA,RM,21-289,90,0,0,0,0,1,0,1,0,76,0,0,0,0.0,0.0,0.6,2,0,55,73,75.3,8,37,1,4,3,Nîmes,2020-11-08 Nîmes-Angers,FRA-L1,20-21,d7b1fb5b
+5314e067,Sofiane Alakouch,29,MAR,LB,22-102,90,0,0,0,0,0,0,0,0,63,3,1,2,0.0,0.0,0.0,1,0,39,50,78.0,8,34,6,3,2,Nîmes,2020-11-08 Nîmes-Angers,FRA-L1,20-21,d7b1fb5b
+08082af0,Loïck Landre,5,FRA,CB,28-187,90,0,0,0,0,2,0,0,0,67,0,1,1,0.7,0.7,0.0,1,0,55,58,94.8,6,40,2,0,0,Nîmes,2020-11-08 Nîmes-Angers,FRA-L1,20-21,d7b1fb5b
+16324e1d,Anthony Briançon,23,FRA,CB,25-346,90,0,0,0,0,0,0,0,0,98,1,4,3,0.0,0.0,0.1,3,0,71,88,80.7,11,49,2,0,0,Nîmes,2020-11-08 Nîmes-Angers,FRA-L1,20-21,d7b1fb5b
+8746d5d0,Patrick Burner,21,MTQ,RB,24-211,90,0,0,0,0,0,0,0,0,53,1,2,0,0.0,0.0,0.0,0,0,38,47,80.9,1,24,0,1,0,Nîmes,2020-11-08 Nîmes-Angers,FRA-L1,20-21,d7b1fb5b
+bcf1b2e9,Baptiste Reynet,30,FRA,GK,30-011,90,0,0,0,0,0,0,0,0,32,0,0,0,0.0,0.0,0.0,0,0,27,29,93.1,0,19,0,0,0,Nîmes,2020-11-08 Nîmes-Angers,FRA-L1,20-21,d7b1fb5b
+5046b7d4,Stéphane Bahoken,19,CMR,FW,28-164,68,2,0,0,0,3,2,0,0,19,0,0,0,0.6,0.6,0.0,3,1,7,9,77.8,1,15,4,2,2,Angers,2020-11-08 Nîmes-Angers,FRA-L1,20-21,d7b1fb5b
+4be0b467,Lois Diony,9,FRA,FW,27-324,22,1,0,1,1,1,1,0,0,10,0,0,0,0.8,0.0,0.0,2,0,4,6,66.7,0,4,0,0,0,Angers,2020-11-08 Nîmes-Angers,FRA-L1,20-21,d7b1fb5b
+8846a40f,Mathias Pereira Lage,27,POR,LW,23-344,68,1,0,0,0,2,1,1,0,17,1,0,0,0.5,0.5,0.0,0,0,4,10,40.0,1,8,2,0,0,Angers,2020-11-08 Nîmes-Angers,FRA-L1,20-21,d7b1fb5b
+46359159,Jimmy Cabot,11,FRA,LW,26-204,22,1,0,0,0,1,1,0,0,19,0,1,0,0.1,0.1,0.1,2,0,12,16,75.0,2,8,1,0,0,Angers,2020-11-08 Nîmes-Angers,FRA-L1,20-21,d7b1fb5b
+f4bc42b1,Sada Thioub,22,SEN,RW,25-160,74,0,1,0,0,0,0,0,0,34,1,1,3,0.0,0.0,0.6,5,1,17,23,73.9,0,22,0,2,0,Angers,2020-11-08 Nîmes-Angers,FRA-L1,20-21,d7b1fb5b
+d21e361a,Farid El Melali,28,ALG,RW,23-187,16,0,0,0,0,1,0,0,0,7,0,0,0,0.0,0.0,0.0,2,1,6,6,100.0,1,5,2,1,1,Angers,2020-11-08 Nîmes-Angers,FRA-L1,20-21,d7b1fb5b
+4b96c347,Angelo Fulgini,10,FRA,AM,24-080,90,0,1,0,0,3,1,0,0,53,0,1,1,0.4,0.4,0.1,3,1,30,40,75.0,2,32,0,4,2,Angers,2020-11-08 Nîmes-Angers,FRA-L1,20-21,d7b1fb5b
+c801616a,Thomas Mangani,5,FRA,DM,33-193,83,0,0,0,0,1,0,1,0,46,0,1,0,0.1,0.1,0.0,3,1,33,42,78.6,6,19,0,1,0,Angers,2020-11-08 Nîmes-Angers,FRA-L1,20-21,d7b1fb5b
+7d937aa1,Antonin Bobichon,23,FRA,DM,25-055,7,0,0,0,0,1,0,0,0,10,0,0,1,0.0,0.0,0.1,3,1,8,8,100.0,1,6,0,0,0,Angers,2020-11-08 Nîmes-Angers,FRA-L1,20-21,d7b1fb5b
+9260926b,Ibrahim Amadou,18,FRA,DM,27-216,74,0,0,0,0,3,1,1,0,39,1,1,0,0.2,0.2,0.0,2,0,21,30,70.0,3,17,0,0,0,Angers,2020-11-08 Nîmes-Angers,FRA-L1,20-21,d7b1fb5b
+85a44ecc,Lassana Coulibaly,14,MLI,DM,24-212,16,0,0,0,0,0,0,1,0,8,1,1,0,0.0,0.0,0.0,1,0,4,7,57.1,0,4,0,0,0,Angers,2020-11-08 Nîmes-Angers,FRA-L1,20-21,d7b1fb5b
+9daeac61,Souleyman Doumbia,3,CIV,LB,24-045,90,0,0,0,0,0,0,0,0,51,2,1,0,0.0,0.0,0.3,2,0,28,41,68.3,0,22,3,2,1,Angers,2020-11-08 Nîmes-Angers,FRA-L1,20-21,d7b1fb5b
+275e2c51,Romain Thomas,24,FRA,CB,32-149,90,0,0,0,0,0,0,0,0,44,1,2,1,0.0,0.0,0.0,1,0,28,32,87.5,1,12,0,0,0,Angers,2020-11-08 Nîmes-Angers,FRA-L1,20-21,d7b1fb5b
+b666421b,Ismaël Traoré,8,CIV,CB,34-082,90,0,2,0,0,1,0,0,0,39,1,0,1,0.1,0.1,0.6,4,2,21,28,75.0,2,17,0,0,0,Angers,2020-11-08 Nîmes-Angers,FRA-L1,20-21,d7b1fb5b
+c26a3918,Vincent Manceau,29,FRA,RB,31-121,90,0,0,0,0,0,0,1,0,52,1,3,1,0.0,0.0,0.0,1,1,35,45,77.8,2,21,1,1,1,Angers,2020-11-08 Nîmes-Angers,FRA-L1,20-21,d7b1fb5b
+28dabd43,Paul Bernardoni,1,FRA,GK,23-204,90,0,0,0,0,0,0,0,0,30,0,0,0,0.0,0.0,0.0,0,0,12,28,42.9,0,17,0,0,0,Angers,2020-11-08 Nîmes-Angers,FRA-L1,20-21,d7b1fb5b

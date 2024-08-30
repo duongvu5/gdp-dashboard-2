@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+7c56da38,Christopher Nkunku,18,FRA,FW,25-181,90,0,2,0,0,3,1,0,0,35,0,0,0,0.3,0.3,1.0,9,3,20,23,87.0,1,24,2,7,4,RB Leipzig,2023-05-14 RB Leipzig-Werder Bremen,GER-BL1,22-23,2d19cb2b
+49fe9070,Timo Werner,11,GER,FW,27-069,90,0,0,0,0,3,0,0,0,25,1,0,1,0.4,0.4,0.0,1,0,12,16,75.0,2,16,3,2,1,RB Leipzig,2023-05-14 RB Leipzig-Werder Bremen,GER-BL1,22-23,2d19cb2b
+9a2e0ccc,Emil Forsberg,10,SWE,AM,31-203,75,0,0,0,0,1,0,0,0,31,2,0,2,0.1,0.1,0.0,1,0,16,20,80.0,3,19,0,2,0,RB Leipzig,2023-05-14 RB Leipzig-Werder Bremen,GER-BL1,22-23,2d19cb2b
+d2416c2e,Yussuf Poulsen,9,DEN,AM,28-333,15,0,0,0,0,2,0,0,0,13,0,0,0,0.2,0.2,0.1,1,0,4,9,44.4,1,3,0,0,0,RB Leipzig,2023-05-14 RB Leipzig-Werder Bremen,GER-BL1,22-23,2d19cb2b
+934e1968,Dominik Szoboszlai,17,HUN,AM,22-201,90,1,0,0,0,2,1,1,0,83,2,0,6,0.7,0.7,0.0,6,0,45,62,72.6,4,34,3,8,5,RB Leipzig,2023-05-14 RB Leipzig-Werder Bremen,GER-BL1,22-23,2d19cb2b
+92432bc6,Amadou Haidara,8,MLI,DM,25-103,70,0,0,0,0,2,1,0,0,39,2,1,0,0.1,0.1,0.0,3,0,28,32,87.5,10,20,0,1,1,RB Leipzig,2023-05-14 RB Leipzig-Werder Bremen,GER-BL1,22-23,2d19cb2b
+b825a650,Kevin Kampl,44,SVN,DM,32-217,20,0,0,0,0,0,0,0,0,25,1,0,1,0.0,0.0,0.0,1,0,21,22,95.5,3,11,1,0,0,RB Leipzig,2023-05-14 RB Leipzig-Werder Bremen,GER-BL1,22-23,2d19cb2b
+c1b7847c,Konrad Laimer,27,AUT,DM,25-352,81,0,0,0,0,2,2,0,0,62,2,1,1,0.1,0.1,0.5,2,0,42,51,82.4,6,39,1,4,3,RB Leipzig,2023-05-14 RB Leipzig-Werder Bremen,GER-BL1,22-23,2d19cb2b
+8f056768,Xaver Schlager,24,AUT,DM,25-228,9,0,0,0,0,0,0,0,0,9,1,1,0,0.0,0.0,0.0,0,0,5,5,100.0,1,7,1,2,1,RB Leipzig,2023-05-14 RB Leipzig-Werder Bremen,GER-BL1,22-23,2d19cb2b
+0a89e877,Benjamin Henrichs,39,GER,LB,26-080,70,0,0,0,0,1,0,1,0,63,1,1,1,0.0,0.0,0.0,3,0,48,57,84.2,1,37,2,0,0,RB Leipzig,2023-05-14 RB Leipzig-Werder Bremen,GER-BL1,22-23,2d19cb2b
+8ff2354e,Marcel Halstenberg,23,GER,LB,31-229,20,0,0,0,0,0,0,0,0,27,0,0,0,0.0,0.0,0.2,5,1,21,26,80.8,4,10,2,1,1,RB Leipzig,2023-05-14 RB Leipzig-Werder Bremen,GER-BL1,22-23,2d19cb2b
+20030c06,Willi Orban,4,HUN,CB,30-192,90,1,0,0,0,3,2,0,0,110,2,0,2,0.2,0.2,0.1,2,0,88,100,88.0,12,59,1,1,0,RB Leipzig,2023-05-14 RB Leipzig-Werder Bremen,GER-BL1,22-23,2d19cb2b
+ca8033cb,Lukas Klostermann,16,GER,CB,26-345,70,0,0,0,0,0,0,0,0,82,1,1,2,0.0,0.0,0.0,1,0,72,74,97.3,4,45,0,0,0,RB Leipzig,2023-05-14 RB Leipzig-Werder Bremen,GER-BL1,22-23,2d19cb2b
+5ad50391,Joško Gvardiol,32,CRO,CB,21-111,20,0,0,0,0,0,0,0,0,23,0,2,0,0.0,0.0,0.0,0,0,17,20,85.0,0,10,1,0,0,RB Leipzig,2023-05-14 RB Leipzig-Werder Bremen,GER-BL1,22-23,2d19cb2b
+fcb27134,Mohamed Simakan,2,FRA,RB,23-011,90,0,0,0,0,1,0,0,0,79,2,2,1,0.1,0.1,0.0,2,0,51,64,79.7,9,35,2,2,1,RB Leipzig,2023-05-14 RB Leipzig-Werder Bremen,GER-BL1,22-23,2d19cb2b
+663e080e,Janis Blaswich,21,GER,GK,32-012,90,0,0,0,0,0,0,0,0,40,0,0,0,0.0,0.0,0.0,0,0,32,39,82.1,0,14,0,0,0,RB Leipzig,2023-05-14 RB Leipzig-Werder Bremen,GER-BL1,22-23,2d19cb2b
+638a4d71,Marvin Ducksch,7,GER,FW,29-068,75,0,0,0,0,1,1,0,0,26,0,1,0,0.5,0.5,0.0,2,1,10,23,43.5,3,11,0,0,0,Werder Bremen,2023-05-14 RB Leipzig-Werder Bremen,GER-BL1,22-23,2d19cb2b
+061e8e23,Maximilian Philipp,17,GER,"FW,CM",29-074,15,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,3,0,0,0,Werder Bremen,2023-05-14 RB Leipzig-Werder Bremen,GER-BL1,22-23,2d19cb2b
+220ace7e,Romano Schmid,20,AUT,FW,23-107,85,0,0,0,0,3,0,0,0,34,1,0,0,0.4,0.4,0.0,0,0,17,22,77.3,2,24,0,1,0,Werder Bremen,2023-05-14 RB Leipzig-Werder Bremen,GER-BL1,22-23,2d19cb2b
+1a5d7cb9,Jean-Manuel Mbom,34,GER,CM,23-079,5,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,1,1,0,0,0,Werder Bremen,2023-05-14 RB Leipzig-Werder Bremen,GER-BL1,22-23,2d19cb2b
+de838f86,Anthony Jung,3,GER,LW,31-192,90,0,0,0,0,0,0,1,0,67,0,0,0,0.0,0.0,0.0,2,0,45,57,78.9,6,23,1,2,1,Werder Bremen,2023-05-14 RB Leipzig-Werder Bremen,GER-BL1,22-23,2d19cb2b
+30c220c3,Mitchell Weiser,8,GER,RW,29-023,90,0,0,0,0,0,0,0,0,55,2,0,3,0.0,0.0,0.5,4,0,30,40,75.0,3,29,4,4,2,Werder Bremen,2023-05-14 RB Leipzig-Werder Bremen,GER-BL1,22-23,2d19cb2b
+dc62fbee,Leonardo Bittencourt,10,GER,CM,29-146,76,1,0,0,0,2,1,1,0,32,1,0,0,0.3,0.3,0.0,0,0,17,23,73.9,4,23,1,3,2,Werder Bremen,2023-05-14 RB Leipzig-Werder Bremen,GER-BL1,22-23,2d19cb2b
+4ccd8957,Eren Dinkçi,21,GER,"FW,CM",21-152,14,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,0,0,Werder Bremen,2023-05-14 RB Leipzig-Werder Bremen,GER-BL1,22-23,2d19cb2b
+1fffae99,Jens Stage,6,DEN,CM,26-187,90,0,1,0,0,0,0,0,0,41,3,1,0,0.0,0.0,0.2,2,1,21,31,67.7,3,18,0,0,0,Werder Bremen,2023-05-14 RB Leipzig-Werder Bremen,GER-BL1,22-23,2d19cb2b
+1fc4f3d1,Ilia Gruev,28,BUL,DM,23-008,75,0,0,0,0,0,0,0,0,35,2,1,1,0.0,0.0,0.0,0,0,20,26,76.9,2,19,2,0,0,Werder Bremen,2023-05-14 RB Leipzig-Werder Bremen,GER-BL1,22-23,2d19cb2b
+b9ae8560,Niklas Schmidt,22,GER,DM,25-074,15,0,0,0,0,0,0,0,0,14,2,1,1,0.0,0.0,0.0,0,0,3,9,33.3,0,8,1,1,1,Werder Bremen,2023-05-14 RB Leipzig-Werder Bremen,GER-BL1,22-23,2d19cb2b
+f86ad3f5,Marco Friedl,32,AUT,CB,25-059,90,0,0,0,0,0,0,1,0,48,1,0,2,0.0,0.0,0.0,0,0,31,41,75.6,1,28,0,0,0,Werder Bremen,2023-05-14 RB Leipzig-Werder Bremen,GER-BL1,22-23,2d19cb2b
+aad48be9,Niklas Stark,4,GER,CB,28-030,90,0,0,0,0,0,0,1,0,30,3,1,1,0.0,0.0,0.0,0,0,20,23,87.0,1,18,0,0,0,Werder Bremen,2023-05-14 RB Leipzig-Werder Bremen,GER-BL1,22-23,2d19cb2b
+a5ae8f8e,Miloš Veljković,13,SRB,CB,27-230,90,0,0,0,0,0,0,0,0,56,1,1,1,0.0,0.0,0.0,0,0,36,51,70.6,1,32,0,0,0,Werder Bremen,2023-05-14 RB Leipzig-Werder Bremen,GER-BL1,22-23,2d19cb2b
+0a1cb833,Jiří Pavlenka,1,CZE,GK,31-030,90,0,0,0,0,0,0,0,0,38,0,0,0,0.0,0.0,0.0,0,0,24,36,66.7,0,17,0,0,0,Werder Bremen,2023-05-14 RB Leipzig-Werder Bremen,GER-BL1,22-23,2d19cb2b

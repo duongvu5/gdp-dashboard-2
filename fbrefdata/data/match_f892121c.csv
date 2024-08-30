@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+64f69877,Kevin Volland,31,GER,FW,27-323,63,0,0,0,0,1,0,0,0,32,1,1,1,0.0,0.0,0.0,1,0,11,23,47.8,0,23,0,0,0,Bayer Leverkusen,2020-06-17 Leverkusen-Köln,GER-BL1,19-20,f892121c
+53070b63,Paulinho,7,BRA,FW,19-338,27,0,0,0,0,1,0,0,0,18,2,0,1,0.3,0.3,0.0,1,0,11,13,84.6,1,15,1,1,0,Bayer Leverkusen,2020-06-17 Leverkusen-Köln,GER-BL1,19-20,f892121c
+3a233281,Leon Bailey,9,JAM,LW,22-313,63,0,1,0,0,0,0,0,0,32,0,0,1,0.0,0.0,0.1,2,2,16,28,57.1,0,23,2,1,1,Bayer Leverkusen,2020-06-17 Leverkusen-Köln,GER-BL1,19-20,f892121c
+e7fcf289,Florian Wirtz,27,GER,LW,17-045,27,0,0,0,0,1,1,0,0,21,0,0,0,0.1,0.1,0.0,0,0,13,18,72.2,1,19,0,3,2,Bayer Leverkusen,2020-06-17 Leverkusen-Köln,GER-BL1,19-20,f892121c
+aeed5c06,Moussa Diaby,19,FRA,RW,20-346,90,1,0,0,0,2,2,0,0,54,0,1,0,0.7,0.7,0.6,8,1,38,47,80.9,6,44,12,7,6,Bayer Leverkusen,2020-06-17 Leverkusen-Köln,GER-BL1,19-20,f892121c
+fed7cb61,Kai Havertz,29,GER,AM,21-006,85,1,1,0,0,5,1,0,0,70,1,0,1,1.1,1.1,0.1,5,2,49,58,84.5,7,58,4,4,2,Bayer Leverkusen,2020-06-17 Leverkusen-Köln,GER-BL1,19-20,f892121c
+555d5edd,Nadiem Amiri,11,GER,AM,23-234,5,0,0,0,0,1,1,0,0,9,0,0,0,0.0,0.0,0.4,3,0,7,8,87.5,2,9,1,0,0,Bayer Leverkusen,2020-06-17 Leverkusen-Köln,GER-BL1,19-20,f892121c
+69374ff5,Julian Baumgartlinger,15,AUT,DM,32-167,90,0,0,0,0,0,0,0,0,61,1,1,3,0.0,0.0,0.6,1,0,49,52,94.2,1,38,0,1,1,Bayer Leverkusen,2020-06-17 Leverkusen-Köln,GER-BL1,19-20,f892121c
+56413b1f,Charles Aránguiz,20,CHI,DM,31-061,85,0,0,0,0,0,0,1,0,79,2,2,3,0.0,0.0,0.0,0,0,58,69,84.1,3,58,1,1,1,Bayer Leverkusen,2020-06-17 Leverkusen-Köln,GER-BL1,19-20,f892121c
+54b4dc4e,Kerem Demirbay,10,GER,DM,26-350,5,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,2,0,5,6,83.3,1,6,0,0,0,Bayer Leverkusen,2020-06-17 Leverkusen-Köln,GER-BL1,19-20,f892121c
+f9acca3a,Wendell,18,BRA,LB,26-333,90,0,0,0,0,1,0,0,0,108,1,1,0,0.1,0.1,0.0,1,1,86,98,87.8,1,75,2,0,0,Bayer Leverkusen,2020-06-17 Leverkusen-Köln,GER-BL1,19-20,f892121c
+070ec0b1,Sven Bender,5,GER,CB,31-051,32,1,0,0,0,1,1,0,0,33,0,0,0,0.1,0.1,0.0,0,0,28,30,93.3,0,27,0,0,0,Bayer Leverkusen,2020-06-17 Leverkusen-Köln,GER-BL1,19-20,f892121c
+bd142efb,Jonathan Tah,4,GER,CB,24-127,58,0,0,0,0,0,0,0,0,59,1,2,1,0.0,0.0,0.0,0,0,44,47,93.6,3,34,0,1,1,Bayer Leverkusen,2020-06-17 Leverkusen-Köln,GER-BL1,19-20,f892121c
+a73c8f95,Edmond Tapsoba,12,BFA,CB,21-136,90,0,0,0,0,0,0,0,0,93,2,0,0,0.0,0.0,0.0,0,0,79,85,92.9,1,71,0,0,0,Bayer Leverkusen,2020-06-17 Leverkusen-Köln,GER-BL1,19-20,f892121c
+6fd8a334,Aleksandar Dragović,6,AUT,RB,29-103,90,0,0,0,0,0,0,1,0,79,1,0,0,0.0,0.0,0.0,2,0,66,76,86.8,8,52,1,0,0,Bayer Leverkusen,2020-06-17 Leverkusen-Köln,GER-BL1,19-20,f892121c
+ad3389d5,Lukáš Hrádecký,1,FIN,GK,30-206,90,0,0,0,0,0,0,0,0,43,0,0,0,0.0,0.0,0.0,0,0,30,43,69.8,0,27,0,0,0,Bayer Leverkusen,2020-06-17 Leverkusen-Köln,GER-BL1,19-20,f892121c
+9f381d8b,Jhon Córdoba,15,COL,FW,27-037,90,0,0,0,0,1,0,0,0,34,0,0,1,0.2,0.2,0.0,4,0,14,21,66.7,1,24,0,2,1,Köln,2020-06-17 Leverkusen-Köln,GER-BL1,19-20,f892121c
+fd53759d,Jan Thielmann,29,GER,LW,18-022,77,0,0,0,0,1,0,0,0,24,0,2,1,0.0,0.0,0.0,0,0,6,15,40.0,0,18,0,2,0,Köln,2020-06-17 Leverkusen-Köln,GER-BL1,19-20,f892121c
+a3ddb1b9,Mark Uth,23,GER,LW,28-298,13,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,2,0,0,0,Köln,2020-06-17 Leverkusen-Köln,GER-BL1,19-20,f892121c
+809940aa,Dominick Drexler,24,GER,RW,30-022,90,0,0,0,0,0,0,0,0,40,0,1,0,0.0,0.0,0.1,2,0,22,30,73.3,3,29,3,2,1,Köln,2020-06-17 Leverkusen-Köln,GER-BL1,19-20,f892121c
+34e4343c,Anthony Modeste,27,FRA,AM,32-064,90,0,0,0,0,2,0,0,0,30,0,0,0,0.1,0.1,0.0,1,0,12,22,54.5,2,21,2,1,1,Köln,2020-06-17 Leverkusen-Köln,GER-BL1,19-20,f892121c
+1ae836b1,Elvis Rexhbeçaj,20,GER,DM,22-229,77,0,1,0,0,2,0,0,0,29,1,0,1,0.1,0.1,0.1,3,2,19,24,79.2,2,17,0,2,1,Köln,2020-06-17 Leverkusen-Köln,GER-BL1,19-20,f892121c
+94c18565,Florian Kainz,30,AUT,DM,27-237,13,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,0,2,0.0,0,1,0,0,0,Köln,2020-06-17 Leverkusen-Köln,GER-BL1,19-20,f892121c
+c2211709,Ellyes Skhiri,28,TUN,DM,25-038,55,0,0,0,0,0,0,0,0,36,3,2,0,0.0,0.0,0.0,2,0,20,28,71.4,3,23,0,1,0,Köln,2020-06-17 Leverkusen-Köln,GER-BL1,19-20,f892121c
+4114f306,Marco Höger,6,GER,DM,30-275,35,0,0,0,0,0,0,0,0,14,0,0,0,0.0,0.0,0.0,1,0,9,12,75.0,0,11,0,1,1,Köln,2020-06-17 Leverkusen-Köln,GER-BL1,19-20,f892121c
+e27de4fa,Noah Katterbach,34,GER,LB,19-065,90,0,0,0,0,0,0,0,0,44,2,3,0,0.0,0.0,0.0,0,0,20,37,54.1,0,32,2,2,2,Köln,2020-06-17 Leverkusen-Köln,GER-BL1,19-20,f892121c
+b0a0698b,Rafael Czichos,5,GER,CB,30-034,55,0,0,0,0,0,0,1,0,24,1,3,0,0.0,0.0,0.0,0,0,11,18,61.1,3,13,0,1,1,Köln,2020-06-17 Leverkusen-Köln,GER-BL1,19-20,f892121c
+364445b2,Toni Leistner,37,GER,CB,29-303,35,0,0,0,0,0,0,1,0,15,3,2,0,0.0,0.0,0.0,0,0,8,10,80.0,0,3,0,0,0,Köln,2020-06-17 Leverkusen-Köln,GER-BL1,19-20,f892121c
+01834aa0,Sebastiaan Bornauw,33,BEL,CB,21-087,90,1,0,0,0,2,1,0,0,49,1,0,2,0.1,0.1,0.2,1,0,31,39,79.5,2,31,2,0,0,Köln,2020-06-17 Leverkusen-Köln,GER-BL1,19-20,f892121c
+76b2817e,Kingsley Ehizibue,19,NED,RB,25-023,90,0,0,0,0,0,0,0,0,45,3,1,1,0.0,0.0,0.0,0,0,22,34,64.7,1,22,2,0,0,Köln,2020-06-17 Leverkusen-Köln,GER-BL1,19-20,f892121c
+3cd9e95a,Timo Horn,1,GER,GK,27-036,90,0,0,0,0,0,0,0,0,45,0,0,0,0.0,0.0,0.0,0,0,34,45,75.6,0,26,0,0,0,Köln,2020-06-17 Leverkusen-Köln,GER-BL1,19-20,f892121c

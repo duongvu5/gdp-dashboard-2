@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+e7986081,Moussa Dembélé,9,FRA,FW,23-035,65,2,0,0,0,2,2,0,0,13,0,0,0,0.1,0.1,0.0,1,0,4,8,50.0,0,8,0,1,0,Lyon,2019-08-16 Lyon-Angers,FRA-L1,19-20,7e480f83
+5148dcc5,Martin Terrier,7,FRA,FW,22-165,25,0,0,0,0,2,1,0,0,14,1,0,1,0.1,0.1,0.0,0,0,8,9,88.9,1,7,1,0,0,Lyon,2019-08-16 Lyon-Angers,FRA-L1,19-20,7e480f83
+8f696594,Memphis,11,NED,LW,25-184,90,2,1,0,0,3,3,0,0,58,0,0,0,0.5,0.5,0.4,2,1,40,47,85.1,7,46,5,3,2,Lyon,2019-08-16 Lyon-Angers,FRA-L1,19-20,7e480f83
+c47541e0,Bertrand Traoré,10,BFA,RW,23-344,90,0,0,0,0,1,1,1,0,69,6,3,4,0.1,0.1,0.0,1,0,38,49,77.6,1,51,2,3,2,Lyon,2019-08-16 Lyon-Angers,FRA-L1,19-20,7e480f83
+a5db0bec,Houssem Aouar,8,ALG,LM,21-047,90,1,2,0,0,1,1,0,0,74,3,1,0,0.0,0.0,0.5,4,3,59,64,92.2,6,56,6,4,4,Lyon,2019-08-16 Lyon-Angers,FRA-L1,19-20,7e480f83
+71ec39ef,Lucas Tousart,29,FRA,CM,22-109,90,0,0,0,0,0,0,0,0,123,5,1,1,0.0,0.0,0.0,2,2,101,108,93.5,7,87,2,1,1,Lyon,2019-08-16 Lyon-Angers,FRA-L1,19-20,7e480f83
+c6e5d20f,Thiago Mendes,12,BRA,RM,27-154,68,0,1,0,0,0,0,0,0,41,1,2,2,0.0,0.0,0.0,3,2,22,31,71.0,5,23,1,1,0,Lyon,2019-08-16 Lyon-Angers,FRA-L1,19-20,7e480f83
+a99138af,Jean Lucas,22,BRA,RM,21-055,22,1,0,0,0,1,1,0,0,28,0,0,0,0.3,0.3,0.1,1,0,22,26,84.6,2,20,0,0,0,Lyon,2019-08-16 Lyon-Angers,FRA-L1,19-20,7e480f83
+e6eadfb8,Youssouf Koné,28,MLI,LB,24-042,90,0,0,0,0,0,0,0,0,110,0,0,0,0.0,0.0,0.0,2,1,97,107,90.7,7,84,4,3,3,Lyon,2019-08-16 Lyon-Angers,FRA-L1,19-20,7e480f83
+47af88b8,Jason Denayer,5,BEL,CB,24-049,90,0,0,0,0,0,0,0,0,120,0,1,2,0.0,0.0,0.0,1,0,114,114,100.0,1,99,0,1,1,Lyon,2019-08-16 Lyon-Angers,FRA-L1,19-20,7e480f83
+e34fc66d,Joachim Andersen,3,DEN,CB,23-077,90,0,0,0,0,0,0,0,0,123,0,1,2,0.0,0.0,0.0,1,0,109,117,93.2,5,99,0,0,0,Lyon,2019-08-16 Lyon-Angers,FRA-L1,19-20,7e480f83
+ff0ab48c,Leo Dubois,14,FRA,RB,24-336,69,0,0,0,0,1,0,0,0,67,3,1,2,0.0,0.0,0.0,0,0,51,58,87.9,3,41,0,0,0,Lyon,2019-08-16 Lyon-Angers,FRA-L1,19-20,7e480f83
+77d7c96f,Kenny Tete,23,NED,RB,23-311,21,0,0,0,0,0,0,0,0,23,0,1,0,0.0,0.0,0.0,0,0,20,20,100.0,0,14,1,0,0,Lyon,2019-08-16 Lyon-Angers,FRA-L1,19-20,7e480f83
+f00de885,Anthony Lopes,1,POR,GK,28-319,90,0,0,0,0,0,0,0,0,29,0,0,0,0.0,0.0,0.0,0,0,26,28,92.9,0,20,0,0,0,Lyon,2019-08-16 Lyon-Angers,FRA-L1,19-20,7e480f83
+bdedd861,Rachid Alioui,7,MAR,FW,27-059,68,0,0,0,0,2,2,0,0,37,0,0,0,0.1,0.1,0.0,1,0,31,32,96.9,1,19,1,1,1,Angers,2019-08-16 Lyon-Angers,FRA-L1,19-20,7e480f83
+b4c816a9,Wilfried Kanga,11,CIV,FW,21-176,22,0,0,0,0,1,0,0,0,8,0,0,0,0.1,0.1,0.1,2,0,4,6,66.7,1,5,0,0,0,Angers,2019-08-16 Lyon-Angers,FRA-L1,19-20,7e480f83
+8846a40f,Mathias Pereira Lage,27,POR,"LM,RM",22-259,68,0,0,0,0,2,1,0,0,34,1,1,2,0.1,0.1,0.0,0,0,15,24,62.5,0,19,6,0,0,Angers,2019-08-16 Lyon-Angers,FRA-L1,19-20,7e480f83
+5046b7d4,Stéphane Bahoken,19,CMR,RM,27-080,22,0,0,0,0,1,0,1,0,10,0,0,0,0.1,0.1,0.0,1,0,5,9,55.6,0,8,1,0,0,Angers,2019-08-16 Lyon-Angers,FRA-L1,19-20,7e480f83
+c801616a,Thomas Mangani,5,FRA,CM,32-109,90,0,0,0,0,0,0,0,0,62,1,0,0,0.0,0.0,0.2,6,0,53,62,85.5,10,32,3,0,0,Angers,2019-08-16 Lyon-Angers,FRA-L1,19-20,7e480f83
+f86ca403,Vincent Pajot,6,FRA,CM,28-362,53,0,0,0,0,1,0,0,0,25,0,1,1,0.0,0.0,0.1,2,0,16,22,72.7,1,16,2,0,0,Angers,2019-08-16 Lyon-Angers,FRA-L1,19-20,7e480f83
+91f2da4c,Casimir Ninga,21,CHA,LM,26-091,37,0,0,0,0,0,0,0,0,15,1,0,0,0.0,0.0,0.0,1,0,7,10,70.0,0,11,1,0,0,Angers,2019-08-16 Lyon-Angers,FRA-L1,19-20,7e480f83
+79b2399c,Pierrick Capelle,15,FRA,"RM,CM",32-123,90,0,0,0,0,2,0,1,0,35,1,1,1,0.1,0.1,0.0,1,0,16,23,69.6,4,20,2,2,2,Angers,2019-08-16 Lyon-Angers,FRA-L1,19-20,7e480f83
+5e22e2a4,Baptiste Santamaria,18,FRA,DM,24-160,90,0,0,0,0,1,0,0,0,59,3,3,1,0.0,0.0,0.0,0,0,39,49,79.6,5,30,0,1,1,Angers,2019-08-16 Lyon-Angers,FRA-L1,19-20,7e480f83
+9b398aea,Rayan Aït-Nouri,2,ALG,LB,18-071,90,0,0,0,0,0,0,0,0,55,2,3,0,0.0,0.0,0.0,1,0,30,45,66.7,2,21,1,2,2,Angers,2019-08-16 Lyon-Angers,FRA-L1,19-20,7e480f83
+275e2c51,Romain Thomas,24,FRA,CB,31-065,90,0,0,0,0,0,0,0,0,42,2,4,0,0.0,0.0,0.0,0,0,33,36,91.7,1,17,0,0,0,Angers,2019-08-16 Lyon-Angers,FRA-L1,19-20,7e480f83
+450e277f,Mateo Pavlović,4,BIH,CB,29-068,90,0,0,0,0,0,0,0,0,26,1,1,0,0.0,0.0,0.0,0,0,19,22,86.4,1,14,0,0,0,Angers,2019-08-16 Lyon-Angers,FRA-L1,19-20,7e480f83
+c26a3918,Vincent Manceau,29,FRA,RB,30-037,90,0,0,0,0,0,0,0,0,51,0,2,0,0.0,0.0,0.0,2,0,35,41,85.4,4,23,2,1,0,Angers,2019-08-16 Lyon-Angers,FRA-L1,19-20,7e480f83
+26975a92,Ludovic Butelle,16,FRA,GK,36-135,90,0,0,0,0,0,0,0,0,20,0,0,0,0.0,0.0,0.0,0,0,7,17,41.2,0,8,0,0,0,Angers,2019-08-16 Lyon-Angers,FRA-L1,19-20,7e480f83

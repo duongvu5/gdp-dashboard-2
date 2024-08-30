@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+81255c03,João Pedro,10,ITA,FW,27-235,90,2,0,0,0,4,2,0,0,35,0,0,1,0.2,0.2,0.0,1,0,15,21,71.4,3,20,2,1,0,Cagliari,2019-10-30 Cagliari-Bologna,ITA-SERIA_A,19-20,c3c909d6
+343c0d52,Giovanni Simeone,99,ARG,FW,24-117,90,1,0,0,0,5,2,0,0,36,1,1,1,0.6,0.6,0.1,2,1,11,18,61.1,0,19,0,3,0,Cagliari,2019-10-30 Cagliari-Bologna,ITA-SERIA_A,19-20,c3c909d6
+1f9328da,Radja Nainggolan,4,BEL,AM,31-179,81,0,1,0,0,2,1,0,0,50,2,0,2,0.1,0.1,0.5,4,1,25,35,71.4,5,24,2,3,2,Cagliari,2019-10-30 Cagliari-Bologna,ITA-SERIA_A,19-20,c3c909d6
+cedb3e36,Artur Ioniță,21,MDA,AM,29-074,9,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.1,1,0,6,7,85.7,2,5,0,0,0,Cagliari,2019-10-30 Cagliari-Bologna,ITA-SERIA_A,19-20,c3c909d6
+b6b2b820,Marko Rog,6,CRO,LM,24-103,90,0,0,0,0,0,0,0,0,67,5,2,0,0.0,0.0,0.1,5,1,38,52,73.1,3,30,5,5,3,Cagliari,2019-10-30 Cagliari-Bologna,ITA-SERIA_A,19-20,c3c909d6
+ae64d449,Luca Cigarini,8,ITA,CM,33-132,70,0,0,0,0,0,0,1,0,73,0,1,1,0.0,0.0,0.1,3,0,45,66,68.2,11,21,0,0,0,Cagliari,2019-10-30 Cagliari-Bologna,ITA-SERIA_A,19-20,c3c909d6
+d3b888e3,Christian Oliva,17,URU,CM,23-151,20,0,0,0,0,0,0,0,0,8,1,1,1,0.0,0.0,0.0,1,1,5,5,100.0,2,2,0,0,0,Cagliari,2019-10-30 Cagliari-Bologna,ITA-SERIA_A,19-20,c3c909d6
+95facda1,Nahitan Nández,18,URU,RM,23-306,64,0,0,0,0,0,0,0,0,33,1,1,2,0.0,0.0,0.0,2,0,16,25,64.0,2,11,0,2,1,Cagliari,2019-10-30 Cagliari-Bologna,ITA-SERIA_A,19-20,c3c909d6
+56b2957b,Lucas Castro,29,ARG,RM,30-204,26,0,0,0,0,1,0,0,0,18,1,0,0,0.1,0.1,0.0,1,1,10,14,71.4,4,6,1,0,0,Cagliari,2019-10-30 Cagliari-Bologna,ITA-SERIA_A,19-20,c3c909d6
+3b61c9ec,Luca Pellegrini,33,ITA,LB,20-237,90,0,1,0,0,0,0,1,0,52,1,0,0,0.0,0.0,0.2,2,1,30,48,62.5,5,23,1,2,2,Cagliari,2019-10-30 Cagliari-Bologna,ITA-SERIA_A,19-20,c3c909d6
+008a6e6d,Ragnar Klavan,15,EST,CB,34-000,90,0,0,0,0,1,0,0,0,48,0,1,1,0.1,0.1,0.0,0,0,32,38,84.2,3,21,0,0,0,Cagliari,2019-10-30 Cagliari-Bologna,ITA-SERIA_A,19-20,c3c909d6
+56400c01,Fabio Pisacane,19,ITA,CB,33-275,90,0,0,0,0,0,0,0,0,27,0,1,0,0.0,0.0,0.0,0,0,20,22,90.9,1,12,0,0,0,Cagliari,2019-10-30 Cagliari-Bologna,ITA-SERIA_A,19-20,c3c909d6
+9085dd7c,Paolo Faragò,24,ITA,RB,26-260,90,0,0,0,0,1,0,0,0,72,3,1,0,0.1,0.1,0.0,1,0,44,63,69.8,2,31,0,1,1,Cagliari,2019-10-30 Cagliari-Bologna,ITA-SERIA_A,19-20,c3c909d6
+e7ee38c3,Robin Olsen,90,SWE,GK,29-295,90,0,0,0,0,0,0,0,0,27,0,0,0,0.0,0.0,0.0,0,0,15,23,65.2,0,13,0,0,0,Cagliari,2019-10-30 Cagliari-Bologna,ITA-SERIA_A,19-20,c3c909d6
+df85d472,Federico Santander,9,PAR,FW,28-148,59,1,0,1,1,1,0,0,0,20,1,0,0,0.8,0.0,0.0,0,0,7,11,63.6,2,11,1,0,0,Bologna,2019-10-30 Cagliari-Bologna,ITA-SERIA_A,19-20,c3c909d6
+8d8178ac,Rodrigo Palacio,24,ARG,FW,37-267,31,0,0,0,0,0,0,0,0,14,0,0,0,0.0,0.0,0.0,0,0,5,10,50.0,0,10,2,1,1,Bologna,2019-10-30 Cagliari-Bologna,ITA-SERIA_A,19-20,c3c909d6
+7eb97a8e,Nicola Sansone,10,ITA,LW,28-050,90,0,0,0,0,2,1,0,0,50,3,1,1,0.1,0.1,0.0,3,0,22,34,64.7,3,36,1,3,1,Bologna,2019-10-30 Cagliari-Bologna,ITA-SERIA_A,19-20,c3c909d6
+e14ec482,Riccardo Orsolini,7,ITA,RW,22-279,69,0,0,0,0,3,1,1,0,38,0,1,0,0.2,0.2,0.1,4,1,15,23,65.2,0,26,1,3,1,Bologna,2019-10-30 Cagliari-Bologna,ITA-SERIA_A,19-20,c3c909d6
+c50cee19,Andreas Skov Olsen,17,DEN,RW,19-305,21,0,0,0,0,0,0,0,0,15,1,0,0,0.0,0.0,0.0,0,0,6,12,50.0,1,13,1,2,1,Bologna,2019-10-30 Cagliari-Bologna,ITA-SERIA_A,19-20,c3c909d6
+9d4c45d6,Roberto Soriano,21,ITA,AM,28-264,81,0,0,0,0,0,0,0,0,36,0,1,1,0.0,0.0,0.1,5,1,25,31,80.6,5,27,1,2,2,Bologna,2019-10-30 Cagliari-Bologna,ITA-SERIA_A,19-20,c3c909d6
+92d83c27,Mattias Svanberg,32,SWE,AM,20-298,9,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,5,5,100.0,0,4,0,0,0,Bologna,2019-10-30 Cagliari-Bologna,ITA-SERIA_A,19-20,c3c909d6
+756959aa,Blerim Džemaili,31,SUI,DM,33-201,90,0,0,0,0,2,0,0,0,72,3,2,0,0.1,0.1,0.0,1,0,46,60,76.7,3,47,3,5,5,Bologna,2019-10-30 Cagliari-Bologna,ITA-SERIA_A,19-20,c3c909d6
+2cfae697,Jerdy Schouten,30,NED,DM,22-291,90,0,0,0,0,0,0,0,0,60,5,1,1,0.0,0.0,0.0,1,0,39,48,81.3,3,29,1,2,2,Bologna,2019-10-30 Cagliari-Bologna,ITA-SERIA_A,19-20,c3c909d6
+58027adc,Ladislav Krejčí,11,CZE,LB,27-117,90,0,0,0,0,1,0,0,0,59,2,0,0,0.1,0.1,0.0,1,0,43,52,82.7,5,34,6,1,1,Bologna,2019-10-30 Cagliari-Bologna,ITA-SERIA_A,19-20,c3c909d6
+5832ebfe,Stefano Denswil,4,SUR,CB,26-176,90,0,0,0,0,0,0,0,0,71,6,2,2,0.0,0.0,0.0,1,0,47,53,88.7,3,34,1,0,0,Bologna,2019-10-30 Cagliari-Bologna,ITA-SERIA_A,19-20,c3c909d6
+0821331c,Mattia Bani,13,ITA,CB,25-324,90,0,0,0,0,0,0,0,0,64,2,5,0,0.0,0.0,0.0,0,0,34,47,72.3,2,32,0,0,0,Bologna,2019-10-30 Cagliari-Bologna,ITA-SERIA_A,19-20,c3c909d6
+cfbf9881,Ibrahima Mbaye,15,SEN,RB,24-345,90,0,0,0,0,0,0,0,0,61,0,0,0,0.0,0.0,0.0,1,0,42,53,79.2,6,29,0,1,1,Bologna,2019-10-30 Cagliari-Bologna,ITA-SERIA_A,19-20,c3c909d6
+ab4449d6,Łukasz Skorupski,28,POL,GK,28-178,90,0,0,0,0,0,0,0,0,36,0,0,0,0.0,0.0,0.0,0,0,26,34,76.5,0,15,0,0,0,Bologna,2019-10-30 Cagliari-Bologna,ITA-SERIA_A,19-20,c3c909d6

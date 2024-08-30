@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+17f3620a,Krzysztof Piątek,19,POL,FW,26-255,58,0,0,0,0,2,1,0,0,9,0,0,0,0.1,0.1,0.0,0,0,5,6,83.3,1,4,0,0,0,Fiorentina,2022-03-13 Fiorentina-Bologna,ITA-SERIA_A,21-22,dedaf43b
+a820e429,Arthur Cabral,9,BRA,FW,23-322,32,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,3,6,50.0,0,2,0,0,0,Fiorentina,2022-03-13 Fiorentina-Bologna,ITA-SERIA_A,21-22,dedaf43b
+94816803,Riccardo Sottil,33,ITA,LW,22-283,58,0,0,0,0,0,0,0,0,26,1,0,1,0.0,0.0,0.1,1,0,13,19,68.4,1,18,2,0,0,Fiorentina,2022-03-13 Fiorentina-Bologna,ITA-SERIA_A,21-22,dedaf43b
+42eaa028,Jonathan Ikone,11,FRA,LW,23-315,32,0,0,0,0,0,0,0,0,15,0,0,0,0.0,0.0,0.0,1,0,12,13,92.3,3,10,0,1,0,Fiorentina,2022-03-13 Fiorentina-Bologna,ITA-SERIA_A,21-22,dedaf43b
+2374aaca,Nicolás González,22,ARG,RW,23-341,90,0,0,0,0,1,0,0,0,58,1,1,2,0.2,0.2,0.0,3,0,31,43,72.1,3,29,2,3,2,Fiorentina,2022-03-13 Fiorentina-Bologna,ITA-SERIA_A,21-22,dedaf43b
+0728bebe,Gaetano Castrovilli,10,ITA,LM,25-024,90,0,0,0,0,2,0,0,0,46,3,0,2,0.2,0.2,0.0,2,0,26,37,70.3,5,20,2,0,0,Fiorentina,2022-03-13 Fiorentina-Bologna,ITA-SERIA_A,21-22,dedaf43b
+52611641,Lucas Torreira,18,URU,CM,26-030,90,1,0,0,0,3,2,1,0,92,2,2,2,1.0,1.0,0.0,5,1,68,77,88.3,11,45,2,0,0,Fiorentina,2022-03-13 Fiorentina-Bologna,ITA-SERIA_A,21-22,dedaf43b
+d995ed27,Giacomo Bonaventura,5,ITA,RM,32-203,63,0,0,0,0,4,0,0,0,42,0,0,2,0.1,0.1,0.0,1,0,22,33,66.7,3,16,6,1,1,Fiorentina,2022-03-13 Fiorentina-Bologna,ITA-SERIA_A,21-22,dedaf43b
+528492ea,Alfred Duncan,32,GHA,RM,29-003,27,0,0,0,0,0,0,0,0,17,0,1,0,0.0,0.0,0.0,0,0,9,14,64.3,3,9,0,1,0,Fiorentina,2022-03-13 Fiorentina-Bologna,ITA-SERIA_A,21-22,dedaf43b
+9e1577aa,Cristiano Biraghi,3,ITA,LB,29-193,76,0,0,0,0,2,2,0,0,75,2,0,0,0.1,0.1,0.0,6,0,42,67,62.7,3,34,5,2,1,Fiorentina,2022-03-13 Fiorentina-Bologna,ITA-SERIA_A,21-22,dedaf43b
+3ef0a2d7,Aleksa Terzić,17,SRB,LB,22-208,14,0,0,0,0,0,0,0,0,19,0,0,0,0.0,0.0,0.0,0,0,15,17,88.2,1,10,1,0,0,Fiorentina,2022-03-13 Fiorentina-Bologna,ITA-SERIA_A,21-22,dedaf43b
+a4e85758,Igor,98,BRA,CB,24-034,90,0,0,0,0,0,0,0,0,59,3,1,1,0.0,0.0,0.0,2,0,47,52,90.4,5,31,0,0,0,Fiorentina,2022-03-13 Fiorentina-Bologna,ITA-SERIA_A,21-22,dedaf43b
+bee704fc,Nikola Milenković,4,SRB,CB,24-152,90,0,0,0,0,0,0,0,0,58,1,1,0,0.0,0.0,0.0,2,0,46,50,92.0,3,25,1,0,0,Fiorentina,2022-03-13 Fiorentina-Bologna,ITA-SERIA_A,21-22,dedaf43b
+1d1691ad,Álvaro Odriozola,29,ESP,RB,26-089,76,0,0,0,0,0,0,0,0,54,0,0,0,0.0,0.0,0.1,4,0,45,48,93.8,2,29,4,2,1,Fiorentina,2022-03-13 Fiorentina-Bologna,ITA-SERIA_A,21-22,dedaf43b
+983ff2c7,Lorenzo Venuti,23,ITA,RB,26-335,14,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,5,6,83.3,0,5,1,0,0,Fiorentina,2022-03-13 Fiorentina-Bologna,ITA-SERIA_A,21-22,dedaf43b
+e1b0a70d,Pietro Terracciano,1,ITA,GK,32-005,90,0,0,0,0,0,0,0,0,37,0,0,0,0.0,0.0,0.0,0,0,28,37,75.7,0,23,0,0,0,Fiorentina,2022-03-13 Fiorentina-Bologna,ITA-SERIA_A,21-22,dedaf43b
+00459419,Marko Arnautović,9,AUT,FW,32-328,90,0,0,0,0,2,0,0,0,20,0,0,0,0.1,0.1,0.0,0,0,9,13,69.2,4,11,0,0,0,Bologna,2022-03-13 Fiorentina-Bologna,ITA-SERIA_A,21-22,dedaf43b
+9d4c45d6,Roberto Soriano,21,ITA,"AM,WB",31-033,57,0,0,0,0,1,0,0,0,18,2,1,0,0.4,0.4,0.0,1,0,10,11,90.9,2,9,1,0,0,Bologna,2022-03-13 Fiorentina-Bologna,ITA-SERIA_A,21-22,dedaf43b
+e5bf73f3,Musa Barrow,99,GAM,"FW,RM",23-119,33,0,0,0,0,0,0,0,0,19,1,0,0,0.0,0.0,0.1,1,0,10,15,66.7,1,7,0,1,1,Bologna,2022-03-13 Fiorentina-Bologna,ITA-SERIA_A,21-22,dedaf43b
+e14ec482,Riccardo Orsolini,7,ITA,AM,25-048,57,0,0,0,0,1,0,0,0,31,1,1,0,0.6,0.6,0.4,2,0,9,18,50.0,1,16,1,5,3,Bologna,2022-03-13 Fiorentina-Bologna,ITA-SERIA_A,21-22,dedaf43b
+36e88fbc,Luis Binks,2,ENG,CB,20-192,33,0,0,0,0,0,0,0,0,13,1,1,0,0.0,0.0,0.0,0,0,8,8,100.0,2,4,0,0,0,Bologna,2022-03-13 Fiorentina-Bologna,ITA-SERIA_A,21-22,dedaf43b
+92d83c27,Mattias Svanberg,32,SWE,CM,23-067,77,0,0,0,0,0,0,0,0,24,0,0,0,0.0,0.0,0.0,1,0,11,20,55.0,2,10,0,2,1,Bologna,2022-03-13 Fiorentina-Bologna,ITA-SERIA_A,21-22,dedaf43b
+f9c927de,Michel Aebischer,20,SUI,CM,25-066,13,0,0,0,0,0,0,0,0,11,0,1,0,0.0,0.0,0.0,0,0,9,10,90.0,2,4,0,0,0,Bologna,2022-03-13 Fiorentina-Bologna,ITA-SERIA_A,21-22,dedaf43b
+2cfae697,Jerdy Schouten,30,NED,CM,25-060,90,0,0,0,0,0,0,0,0,61,2,0,3,0.0,0.0,0.0,1,0,40,46,87.0,3,18,0,1,1,Bologna,2022-03-13 Fiorentina-Bologna,ITA-SERIA_A,21-22,dedaf43b
+1780bb4a,Aaron Hickey,3,SCO,"WB,LB,RB,CB",19-276,90,0,0,0,0,0,0,1,0,50,3,1,2,0.0,0.0,0.0,0,0,22,34,64.7,0,19,2,0,0,Bologna,2022-03-13 Fiorentina-Bologna,ITA-SERIA_A,21-22,dedaf43b
+e74f0e59,Lorenzo De Silvestri,29,ITA,"WB,RB",33-294,78,0,0,0,0,0,0,0,0,43,0,0,1,0.0,0.0,0.0,1,0,22,36,61.1,5,12,0,0,0,Bologna,2022-03-13 Fiorentina-Bologna,ITA-SERIA_A,21-22,dedaf43b
+0a3065c8,Mitchell Dijks,35,NED,LB,29-032,12,0,0,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.0,0,0,4,8,50.0,1,4,2,3,2,Bologna,2022-03-13 Fiorentina-Bologna,ITA-SERIA_A,21-22,dedaf43b
+fb77bfef,Kevin Bonifazi,4,ITA,CB,25-298,40,0,0,0,0,0,0,2,1,28,1,0,1,0.0,0.0,0.6,1,0,17,25,68.0,1,13,0,0,0,Bologna,2022-03-13 Fiorentina-Bologna,ITA-SERIA_A,21-22,dedaf43b
+563a68ad,Gary Medel,17,CHI,CB,34-222,78,0,0,0,0,0,0,0,0,32,0,0,3,0.0,0.0,0.0,0,0,22,24,91.7,3,6,0,0,0,Bologna,2022-03-13 Fiorentina-Bologna,ITA-SERIA_A,21-22,dedaf43b
+7eb97a8e,Nicola Sansone,10,ITA,FW,30-184,12,0,0,0,0,0,0,1,0,8,0,0,0,0.0,0.0,0.0,0,0,3,7,42.9,0,5,2,0,0,Bologna,2022-03-13 Fiorentina-Bologna,ITA-SERIA_A,21-22,dedaf43b
+7b075c75,Adama Soumaoro,5,FRA,CB,29-268,90,0,0,0,0,0,0,1,0,37,1,2,1,0.0,0.0,0.0,0,0,18,27,66.7,4,12,0,1,1,Bologna,2022-03-13 Fiorentina-Bologna,ITA-SERIA_A,21-22,dedaf43b
+ab4449d6,Łukasz Skorupski,28,POL,GK,30-312,90,0,0,0,0,0,0,0,0,41,0,0,0,0.0,0.0,0.0,0,0,24,36,66.7,0,17,0,0,0,Bologna,2022-03-13 Fiorentina-Bologna,ITA-SERIA_A,21-22,dedaf43b

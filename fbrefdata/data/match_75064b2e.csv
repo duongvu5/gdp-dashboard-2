@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+e7986081,Moussa Dembélé,9,FRA,FW,25-244,90,1,0,1,1,4,1,0,0,23,0,1,1,1.0,0.2,0.0,2,1,9,12,75.0,0,10,0,1,1,Lyon,2022-03-13 Lyon-Rennes,FRA-L1,21-22,75064b2e
+5ceba7fc,Karl Toko Ekambi,7,CMR,LW,29-180,77,0,0,0,0,3,0,0,0,42,0,0,0,0.1,0.1,0.1,3,0,25,33,75.8,1,30,3,0,0,Lyon,2022-03-13 Lyon-Rennes,FRA-L1,21-22,75064b2e
+d504b3e1,Jeff Reine-Adélaïde,22,FRA,LB,24-055,13,0,0,0,0,0,0,0,0,16,1,0,0,0.0,0.0,0.0,0,0,10,13,76.9,0,14,0,0,0,Lyon,2022-03-13 Lyon-Rennes,FRA-L1,21-22,75064b2e
+745ca0a3,Romain Faivre,15,FRA,RW,23-242,90,0,0,0,0,0,0,0,0,62,2,2,0,0.0,0.0,0.2,7,0,44,51,86.3,6,45,5,4,2,Lyon,2022-03-13 Lyon-Rennes,FRA-L1,21-22,75064b2e
+9b6f7fd5,Lucas Paquetá,10,BRA,AM,24-198,78,0,0,0,0,1,0,0,0,52,1,0,0,0.0,0.0,0.0,0,0,25,41,61.0,2,42,3,5,5,Lyon,2022-03-13 Lyon-Rennes,FRA-L1,21-22,75064b2e
+a5db0bec,Houssem Aouar,8,ALG,FW,23-256,12,0,0,0,0,0,0,0,0,16,0,0,0,0.0,0.0,0.0,0,0,13,14,92.9,0,15,0,0,0,Lyon,2022-03-13 Lyon-Rennes,FRA-L1,21-22,75064b2e
+5cdddffa,Tanguy Ndombele,28,FRA,DM,25-075,78,0,0,0,0,1,0,1,0,59,6,0,0,0.1,0.1,0.0,0,0,40,48,83.3,6,47,0,6,4,Lyon,2022-03-13 Lyon-Rennes,FRA-L1,21-22,75064b2e
+1ec7e1c5,Damien Da Silva,21,FRA,DM,33-300,12,0,0,0,0,0,0,0,0,15,0,0,0,0.0,0.0,0.0,1,1,14,15,93.3,4,13,2,0,0,Lyon,2022-03-13 Lyon-Rennes,FRA-L1,21-22,75064b2e
+f81ef10d,Maxence Caqueret,25,FRA,DM,22-026,90,0,0,0,0,0,0,0,0,57,2,0,1,0.0,0.0,0.0,0,0,42,47,89.4,2,47,0,1,0,Lyon,2022-03-13 Lyon-Rennes,FRA-L1,21-22,75064b2e
+e0bc6fdc,Emerson Palmieri,3,ITA,LB,27-222,90,0,0,0,0,0,0,0,0,92,4,0,0,0.0,0.0,0.0,1,0,64,78,82.1,4,59,1,1,0,Lyon,2022-03-13 Lyon-Rennes,FRA-L1,21-22,75064b2e
+5b9512c5,Castello Lukeba,4,FRA,CB,19-086,90,0,0,0,0,0,0,0,0,101,1,2,2,0.0,0.0,0.0,0,0,84,95,88.4,4,82,2,0,0,Lyon,2022-03-13 Lyon-Rennes,FRA-L1,21-22,75064b2e
+c6e5d20f,Thiago Mendes,23,BRA,CB,29-363,45,0,0,0,0,0,0,1,0,49,0,0,0,0.0,0.0,0.0,0,0,39,45,86.7,3,39,0,0,0,Lyon,2022-03-13 Lyon-Rennes,FRA-L1,21-22,75064b2e
+7d08063d,Tino Kadewere,11,ZIM,CB,26-067,45,0,0,0,0,1,0,0,0,14,0,1,1,0.1,0.1,0.0,0,0,9,11,81.8,0,10,0,0,0,Lyon,2022-03-13 Lyon-Rennes,FRA-L1,21-22,75064b2e
+ff0ab48c,Leo Dubois,14,FRA,RB,27-180,45,0,0,0,0,0,0,0,0,44,2,1,1,0.0,0.0,0.1,4,0,26,36,72.2,6,30,1,1,1,Lyon,2022-03-13 Lyon-Rennes,FRA-L1,21-22,75064b2e
+d56b9520,Malo Gusto,17,FRA,RB,18-298,45,0,0,0,0,0,0,0,0,61,0,1,0,0.0,0.0,0.0,2,0,54,58,93.1,5,53,1,0,0,Lyon,2022-03-13 Lyon-Rennes,FRA-L1,21-22,75064b2e
+f00de885,Anthony Lopes,1,POR,GK,31-163,90,0,0,0,0,0,0,0,0,37,0,0,0,0.0,0.0,0.0,0,0,33,36,91.7,0,31,0,0,0,Lyon,2022-03-13 Lyon-Rennes,FRA-L1,21-22,75064b2e
+7cdda3bf,Gaëtan Laborde,24,FRA,FW,27-314,89,0,1,0,0,2,1,0,0,41,2,1,0,0.2,0.2,0.4,3,3,18,30,60.0,4,19,0,0,0,Rennes,2022-03-13 Lyon-Rennes,FRA-L1,21-22,75064b2e
+923f4dda,Serhou Guirassy,9,GUI,FW,26-001,1,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,3,4,75.0,0,3,0,0,0,Rennes,2022-03-13 Lyon-Rennes,FRA-L1,21-22,75064b2e
+5148dcc5,Martin Terrier,7,FRA,LW,25-009,64,1,0,0,0,1,1,0,0,37,1,0,0,0.1,0.1,0.3,5,1,19,27,70.4,2,27,2,4,1,Rennes,2022-03-13 Lyon-Rennes,FRA-L1,21-22,75064b2e
+fffea3e5,Jeremy Doku,11,BEL,RW,19-290,26,0,0,0,0,0,0,1,0,13,0,0,0,0.0,0.0,0.0,0,0,6,9,66.7,1,15,1,2,1,Rennes,2022-03-13 Lyon-Rennes,FRA-L1,21-22,75064b2e
+20e73fac,Benjamin Bourigeaud,14,FRA,"RW,LW",28-058,90,1,1,0,0,1,1,0,0,38,1,1,1,0.4,0.4,0.5,1,1,20,31,64.5,3,30,1,0,0,Rennes,2022-03-13 Lyon-Rennes,FRA-L1,21-22,75064b2e
+5e22e2a4,Baptiste Santamaria,8,FRA,"LM,RM",27-004,90,1,0,0,0,1,1,0,0,59,4,0,1,0.0,0.0,0.0,1,0,35,42,83.3,6,36,2,3,0,Rennes,2022-03-13 Lyon-Rennes,FRA-L1,21-22,75064b2e
+468fdbad,Jonas Martin,28,FRA,CM,31-338,90,0,0,0,0,1,1,0,0,54,1,0,1,0.0,0.0,0.0,0,0,40,46,87.0,2,36,0,1,1,Rennes,2022-03-13 Lyon-Rennes,FRA-L1,21-22,75064b2e
+fc46aab1,Lovro Majer,21,CRO,RM,24-055,65,1,1,0,0,3,2,0,0,32,0,2,2,0.7,0.7,0.2,2,1,14,18,77.8,3,24,3,0,0,Rennes,2022-03-13 Lyon-Rennes,FRA-L1,21-22,75064b2e
+a0f9b535,Flavien Tait,20,FRA,LM,29-039,25,0,0,0,0,0,0,0,0,9,2,1,2,0.0,0.0,0.0,0,0,3,4,75.0,1,3,0,0,0,Rennes,2022-03-13 Lyon-Rennes,FRA-L1,21-22,75064b2e
+5d0e0a1f,Adrien Truffert,3,FRA,LB,20-113,76,0,0,0,0,0,0,1,0,40,0,1,1,0.0,0.0,0.0,0,0,25,31,80.6,3,27,2,1,1,Rennes,2022-03-13 Lyon-Rennes,FRA-L1,21-22,75064b2e
+70c52749,Birger Meling,25,NOR,LB,27-086,14,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,2,0,0,0,Rennes,2022-03-13 Lyon-Rennes,FRA-L1,21-22,75064b2e
+288e1e13,Nayef Aguerd,6,MAR,CB,25-348,90,0,0,0,0,0,0,0,0,40,2,3,1,0.0,0.0,0.0,0,0,23,30,76.7,3,24,0,0,0,Rennes,2022-03-13 Lyon-Rennes,FRA-L1,21-22,75064b2e
+4534a352,Warmed Omari,23,FRA,CB,21-324,90,0,0,0,0,0,0,0,0,35,1,1,0,0.0,0.0,0.0,0,0,26,29,89.7,2,23,0,0,0,Rennes,2022-03-13 Lyon-Rennes,FRA-L1,21-22,75064b2e
+a4b1028a,Hamari Traoré,27,MLI,RB,30-045,90,0,0,0,0,0,0,0,0,72,1,3,1,0.0,0.0,0.0,1,0,43,56,76.8,4,33,1,1,0,Rennes,2022-03-13 Lyon-Rennes,FRA-L1,21-22,75064b2e
+cecbce23,Alfred Gomis,16,SEN,GK,28-189,90,0,0,0,0,0,0,1,0,42,0,0,0,0.0,0.0,0.0,0,0,20,40,50.0,0,29,0,0,0,Rennes,2022-03-13 Lyon-Rennes,FRA-L1,21-22,75064b2e

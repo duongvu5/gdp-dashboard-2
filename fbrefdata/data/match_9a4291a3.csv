@@ -1,0 +1,32 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+2077ae86,Jonas Wind,23,DEN,FW,24-256,90,0,0,0,0,5,3,0,0,27,0,0,0,0.5,0.5,0.5,6,0,16,19,84.2,5,15,0,3,2,Wolfsburg,2023-10-21 Wolfsburg-Leverkusen,GER-BL1,23-24,9a4291a3
+b492126a,Tiago Tomás,11,POR,AM,21-127,45,0,0,0,0,2,1,0,0,15,0,0,0,0.4,0.4,0.0,1,0,6,9,66.7,0,7,1,2,0,Wolfsburg,2023-10-21 Wolfsburg-Leverkusen,GER-BL1,23-24,9a4291a3
+d5326924,Amin Sarr,9,SWE,"AM,LW",22-224,45,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,2,6,33.3,0,4,1,2,1,Wolfsburg,2023-10-21 Wolfsburg-Leverkusen,GER-BL1,23-24,9a4291a3
+62ab9184,Yannick Gerhardt,31,GER,AM,29-222,77,0,0,0,0,2,0,0,0,30,0,1,1,0.1,0.1,0.0,2,0,20,25,80.0,2,18,1,0,0,Wolfsburg,2023-10-21 Wolfsburg-Leverkusen,GER-BL1,23-24,9a4291a3
+5c50fdbc,Kevin Paredes,40,USA,AM,20-167,13,0,0,0,0,2,1,0,0,12,1,3,0,0.1,0.1,0.0,1,0,7,7,100.0,0,8,0,1,0,Wolfsburg,2023-10-21 Wolfsburg-Leverkusen,GER-BL1,23-24,9a4291a3
+86e119e0,Maximilian Arnold,27,GER,"CM,DM",29-147,90,0,0,0,0,1,0,1,0,72,2,2,0,0.1,0.1,0.0,3,0,54,64,84.4,7,29,0,0,0,Wolfsburg,2023-10-21 Wolfsburg-Leverkusen,GER-BL1,23-24,9a4291a3
+92d83c27,Mattias Svanberg,32,SWE,CM,24-289,70,0,0,0,0,3,0,0,0,41,0,1,0,0.1,0.1,0.0,3,1,21,30,70.0,3,14,1,1,1,Wolfsburg,2023-10-21 Wolfsburg-Leverkusen,GER-BL1,23-24,9a4291a3
+fc46aab1,Lovro Majer,19,CRO,"DM,CM",25-277,20,0,0,0,0,1,0,0,0,13,0,0,0,0.0,0.0,0.2,1,0,10,13,76.9,2,7,4,0,0,Wolfsburg,2023-10-21 Wolfsburg-Leverkusen,GER-BL1,23-24,9a4291a3
+c459a650,Joakim Mæhle,21,DEN,"WB,LB",26-154,90,0,0,0,0,0,0,1,0,41,2,0,3,0.0,0.0,0.0,1,0,31,35,88.6,1,12,0,0,0,Wolfsburg,2023-10-21 Wolfsburg-Leverkusen,GER-BL1,23-24,9a4291a3
+442b56fa,Ridle Baku,20,GER,"WB,RB",25-196,90,0,0,0,0,1,0,1,0,65,0,1,0,0.0,0.0,0.2,5,0,38,55,69.1,6,36,2,1,0,Wolfsburg,2023-10-21 Wolfsburg-Leverkusen,GER-BL1,23-24,9a4291a3
+277c49ed,Maxence Lacroix,4,FRA,CB,23-198,90,1,0,0,0,1,1,0,0,81,2,4,1,0.2,0.2,0.0,2,0,55,64,85.9,3,39,0,1,0,Wolfsburg,2023-10-21 Wolfsburg-Leverkusen,GER-BL1,23-24,9a4291a3
+ee644761,Moritz Jenz,25,GER,CB,24-174,90,0,1,0,0,0,0,0,0,73,2,2,1,0.0,0.0,0.2,3,1,54,61,88.5,3,36,0,0,0,Wolfsburg,2023-10-21 Wolfsburg-Leverkusen,GER-BL1,23-24,9a4291a3
+01834aa0,Sebastiaan Bornauw,3,BEL,CB,24-213,77,0,0,0,0,0,0,0,0,43,2,0,2,0.0,0.0,0.0,0,0,26,35,74.3,4,16,1,1,1,Wolfsburg,2023-10-21 Wolfsburg-Leverkusen,GER-BL1,23-24,9a4291a3
+202b3b68,Jakub Kamiński,16,POL,RW,21-138,13,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,4,1,0,0,Wolfsburg,2023-10-21 Wolfsburg-Leverkusen,GER-BL1,23-24,9a4291a3
+c89e8aae,Pavao Pervan,12,AUT,GK,35-342,90,0,0,0,0,0,0,0,0,45,0,0,0,0.0,0.0,0.0,0,0,27,42,64.3,0,24,0,0,0,Wolfsburg,2023-10-21 Wolfsburg-Leverkusen,GER-BL1,23-24,9a4291a3
+b146275b,Victor Boniface,22,NGA,FW,22-302,90,0,1,0,0,4,2,0,0,42,0,0,0,0.8,0.8,0.2,3,1,17,29,58.6,3,28,4,6,3,Bayer Leverkusen,2023-10-21 Wolfsburg-Leverkusen,GER-BL1,23-24,9a4291a3
+dcfb17f4,Amine Adli,21,MAR,AM,23-164,59,0,0,0,0,1,1,1,0,34,1,2,1,0.1,0.1,0.3,3,0,23,28,82.1,4,20,5,1,1,Bayer Leverkusen,2023-10-21 Wolfsburg-Leverkusen,GER-BL1,23-24,9a4291a3
+e7fcf289,Florian Wirtz,10,GER,AM,20-171,31,0,0,0,0,2,0,0,0,35,0,0,0,0.1,0.1,0.0,1,0,26,30,86.7,6,29,2,4,3,Bayer Leverkusen,2023-10-21 Wolfsburg-Leverkusen,GER-BL1,23-24,9a4291a3
+2903a856,Jonas Hofmann,7,GER,AM,31-099,87,0,0,0,0,0,0,1,0,75,0,0,0,0.0,0.0,0.2,7,0,56,66,84.8,5,40,0,1,0,Bayer Leverkusen,2023-10-21 Wolfsburg-Leverkusen,GER-BL1,23-24,9a4291a3
+555d5edd,Nadiem Amiri,11,GER,AM,26-359,3,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,1,0,1,0,Bayer Leverkusen,2023-10-21 Wolfsburg-Leverkusen,GER-BL1,23-24,9a4291a3
+e61b8aee,Granit Xhaka,34,SUI,CM,31-024,90,0,0,0,0,0,0,1,0,97,1,0,0,0.0,0.0,0.1,2,0,88,94,93.6,6,49,0,2,2,Bayer Leverkusen,2023-10-21 Wolfsburg-Leverkusen,GER-BL1,23-24,9a4291a3
+e82adcab,Exequiel Palacios,25,ARG,CM,25-016,90,0,0,0,0,0,0,1,0,80,0,0,0,0.0,0.0,0.5,2,1,70,79,88.6,10,30,0,0,0,Bayer Leverkusen,2023-10-21 Wolfsburg-Leverkusen,GER-BL1,23-24,9a4291a3
+b1f4086c,Álex Grimaldo,20,ESP,WB,28-031,90,1,0,0,0,1,1,0,0,76,2,1,2,0.1,0.1,0.1,3,0,55,63,87.3,0,39,0,1,0,Bayer Leverkusen,2023-10-21 Wolfsburg-Leverkusen,GER-BL1,23-24,9a4291a3
+74f2e748,Jeremie Frimpong,30,NED,WB,22-315,87,1,1,0,0,3,2,0,0,48,1,0,1,0.8,0.8,0.5,3,2,23,33,69.7,2,31,6,3,1,Bayer Leverkusen,2023-10-21 Wolfsburg-Leverkusen,GER-BL1,23-24,9a4291a3
+f1e94cd6,Nathan Tella,19,NGA,WB,24-108,3,0,0,0,0,0,0,0,0,6,0,1,0,0.0,0.0,0.0,0,0,3,3,100.0,0,2,0,1,0,Bayer Leverkusen,2023-10-21 Wolfsburg-Leverkusen,GER-BL1,23-24,9a4291a3
+a73c8f95,Edmond Tapsoba,12,BFA,CB,24-261,90,0,0,0,0,1,0,1,0,80,0,3,0,0.0,0.0,0.0,0,0,69,75,92.0,3,48,2,0,0,Bayer Leverkusen,2023-10-21 Wolfsburg-Leverkusen,GER-BL1,23-24,9a4291a3
+bd142efb,Jonathan Tah,4,GER,CB,27-252,90,0,0,0,0,1,1,0,0,67,2,0,2,0.0,0.0,0.0,0,0,52,55,94.5,1,30,0,0,0,Bayer Leverkusen,2023-10-21 Wolfsburg-Leverkusen,GER-BL1,23-24,9a4291a3
+7ed08d5c,Josip Stanišić,2,CRO,CB,23-202,87,0,0,0,0,0,0,0,0,66,2,1,1,0.0,0.0,0.1,2,0,49,57,86.0,5,32,3,1,0,Bayer Leverkusen,2023-10-21 Wolfsburg-Leverkusen,GER-BL1,23-24,9a4291a3
+1f3afdcb,Odilon Kossonou,6,CIV,CB,22-290,3,0,0,0,0,0,0,0,0,1,0,0,1,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Bayer Leverkusen,2023-10-21 Wolfsburg-Leverkusen,GER-BL1,23-24,9a4291a3
+ad3389d5,Lukáš Hrádecký,1,FIN,GK,33-331,90,0,0,0,0,0,0,0,0,47,0,0,0,0.0,0.0,0.0,0,0,31,41,75.6,0,30,0,0,0,Bayer Leverkusen,2023-10-21 Wolfsburg-Leverkusen,GER-BL1,23-24,9a4291a3

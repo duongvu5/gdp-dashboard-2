@@ -1,0 +1,32 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+0b4f388a,Breel Embolo,36,SUI,FW,24-223,90,0,0,0,0,2,0,0,0,35,2,0,0,0.2,0.2,0.1,2,0,15,23,65.2,1,22,2,5,4,Mönchengladbach,2021-09-25 Gladbach-Dortmund,GER-BL1,21-22,b871a58d
+7cd6badb,Lars Stindl,13,GER,"AM,FW",33-030,90,0,0,0,0,0,0,1,0,51,1,0,1,0.0,0.0,0.3,3,0,34,45,75.6,8,24,1,0,0,Mönchengladbach,2021-09-25 Gladbach-Dortmund,GER-BL1,21-22,b871a58d
+2903a856,Jonas Hofmann,23,GER,AM,29-073,82,0,0,0,0,3,1,0,0,75,2,0,1,0.2,0.2,0.4,6,0,57,67,85.1,4,30,1,1,1,Mönchengladbach,2021-09-25 Gladbach-Dortmund,GER-BL1,21-22,b871a58d
+fe888e39,László Bénes,22,SVK,CM,24-016,8,0,0,0,0,0,0,0,0,6,0,0,1,0.0,0.0,0.0,0,0,1,2,50.0,0,1,0,0,0,Mönchengladbach,2021-09-25 Gladbach-Dortmund,GER-BL1,21-22,b871a58d
+86574238,Manu Koné,17,FRA,CM,20-131,72,0,0,0,0,1,0,1,0,49,3,2,0,0.0,0.0,0.0,2,0,35,40,87.5,4,31,2,5,4,Mönchengladbach,2021-09-25 Gladbach-Dortmund,GER-BL1,21-22,b871a58d
+496aeede,Christoph Kramer,6,GER,CM,30-218,18,0,0,0,0,0,0,0,0,13,2,1,0,0.0,0.0,0.0,0,0,5,7,71.4,2,3,0,0,0,Mönchengladbach,2021-09-25 Gladbach-Dortmund,GER-BL1,21-22,b871a58d
+384d58d9,Denis Zakaria,8,SUI,"CM,DM",24-309,90,1,0,0,0,2,2,1,0,63,0,1,1,0.4,0.4,0.0,3,1,48,57,84.2,8,37,5,1,1,Mönchengladbach,2021-09-25 Gladbach-Dortmund,GER-BL1,21-22,b871a58d
+e79269bd,Luca Netz,20,GER,WB,18-133,69,0,0,0,0,3,0,1,0,22,0,1,0,0.4,0.4,0.0,1,0,11,15,73.3,0,8,0,0,0,Mönchengladbach,2021-09-25 Gladbach-Dortmund,GER-BL1,21-22,b871a58d
+be42a291,Hannes Wolf,11,AUT,"WB,LW",22-162,21,0,0,0,0,1,0,0,0,18,0,1,2,0.1,0.1,0.0,1,0,11,13,84.6,1,7,1,2,2,Mönchengladbach,2021-09-25 Gladbach-Dortmund,GER-BL1,21-22,b871a58d
+236f02cd,Joe Scally,29,USA,"WB,RW",18-268,90,0,0,0,0,1,0,0,0,54,1,2,2,0.1,0.1,0.0,2,0,32,43,74.4,4,25,4,0,0,Mönchengladbach,2021-09-25 Gladbach-Dortmund,GER-BL1,21-22,b871a58d
+34b54da7,Tony Jantschke,24,GER,CB,31-171,90,0,0,0,0,0,0,0,0,63,4,1,1,0.0,0.0,0.0,0,0,47,57,82.5,3,27,0,0,0,Mönchengladbach,2021-09-25 Gladbach-Dortmund,GER-BL1,21-22,b871a58d
+48035304,Nico Elvedi,30,SUI,CB,24-360,90,0,0,0,0,2,0,0,0,83,1,1,0,0.2,0.2,0.0,1,0,76,77,98.7,3,46,0,0,0,Mönchengladbach,2021-09-25 Gladbach-Dortmund,GER-BL1,21-22,b871a58d
+f521b80a,Matthias Ginter,28,GER,CB,27-249,90,0,0,0,0,0,0,0,0,102,4,1,0,0.0,0.0,0.1,4,1,80,91,87.9,5,51,4,1,0,Mönchengladbach,2021-09-25 Gladbach-Dortmund,GER-BL1,21-22,b871a58d
+420c18a1,Yann Sommer,1,SUI,GK,32-282,90,0,0,0,0,0,0,0,0,46,0,0,0,0.0,0.0,0.0,0,0,39,45,86.7,0,25,0,0,0,Mönchengladbach,2021-09-25 Gladbach-Dortmund,GER-BL1,21-22,b871a58d
+6ce43701,Youssoufa Moukoko,18,GER,FW,16-309,56,0,0,0,0,1,0,0,0,10,0,0,1,0.0,0.0,0.0,1,0,4,4,100.0,1,5,1,1,0,Dortmund,2021-09-25 Gladbach-Dortmund,GER-BL1,21-22,b871a58d
+19a967ab,Ansgar Knauff,36,GER,LM,19-258,34,0,0,0,0,0,0,0,0,21,2,0,0,0.0,0.0,0.0,0,0,5,13,38.5,0,14,0,3,0,Dortmund,2021-09-25 Gladbach-Dortmund,GER-BL1,21-22,b871a58d
+116c35df,Donyell Malen,21,NED,"FW,LM",22-259,81,0,0,0,0,1,0,0,0,28,0,1,1,0.0,0.0,0.0,1,0,19,19,100.0,0,18,0,1,0,Dortmund,2021-09-25 Gladbach-Dortmund,GER-BL1,21-22,b871a58d
+6b21b7b5,Reinier,20,BRA,FW,19-249,9,0,0,0,0,0,0,0,0,10,2,0,0,0.0,0.0,0.0,1,0,5,8,62.5,0,5,0,0,0,Dortmund,2021-09-25 Gladbach-Dortmund,GER-BL1,21-22,b871a58d
+db4ed67b,Mahmoud Dahoud,8,GER,CM,25-267,39,0,0,0,0,0,0,2,1,18,1,0,0,0.0,0.0,0.0,1,0,11,17,64.7,1,12,1,0,0,Dortmund,2021-09-25 Gladbach-Dortmund,GER-BL1,21-22,b871a58d
+5dfc6ad5,Axel Witsel,28,BEL,CM,32-256,90,0,0,0,0,0,0,0,0,56,2,0,1,0.0,0.0,0.0,0,0,46,48,95.8,6,38,0,1,1,Dortmund,2021-09-25 Gladbach-Dortmund,GER-BL1,21-22,b871a58d
+57d88cf9,Jude Bellingham,22,ENG,CM,18-088,90,0,0,0,0,1,0,1,0,58,0,1,2,0.0,0.0,0.1,5,0,32,40,80.0,5,31,3,6,3,Dortmund,2021-09-25 Gladbach-Dortmund,GER-BL1,21-22,b871a58d
+048a1cbc,Raphaël Guerreiro,13,POR,"WB,LB",27-277,81,0,0,0,0,1,0,0,0,51,2,2,1,0.1,0.1,0.0,2,0,34,39,87.2,4,27,1,2,0,Dortmund,2021-09-25 Gladbach-Dortmund,GER-BL1,21-22,b871a58d
+fa274d97,Nico Schulz,14,GER,LB,28-177,9,0,0,0,0,0,0,0,0,15,2,1,0,0.0,0.0,0.0,1,0,7,11,63.6,0,5,0,0,0,Dortmund,2021-09-25 Gladbach-Dortmund,GER-BL1,21-22,b871a58d
+e162b013,Thomas Meunier,24,BEL,"WB,RB",30-013,81,0,0,0,0,1,0,0,0,50,0,0,1,0.0,0.0,0.0,2,0,38,45,84.4,6,32,2,0,0,Dortmund,2021-09-25 Gladbach-Dortmund,GER-BL1,21-22,b871a58d
+fa661778,Marius Wolf,39,GER,RB,26-121,9,0,0,0,0,1,0,0,0,17,0,0,1,0.0,0.0,0.0,0,0,10,13,76.9,3,13,1,1,1,Dortmund,2021-09-25 Gladbach-Dortmund,GER-BL1,21-22,b871a58d
+05d548d8,Mats Hummels,15,GER,CB,32-283,90,0,0,0,0,0,0,0,0,71,2,4,3,0.0,0.0,0.0,0,0,48,58,82.8,0,40,2,3,2,Dortmund,2021-09-25 Gladbach-Dortmund,GER-BL1,21-22,b871a58d
+2a6cd437,Marin Pongračić,34,CRO,CB,24-014,45,0,0,0,0,0,0,1,0,45,1,0,0,0.0,0.0,0.0,0,0,32,39,82.1,0,31,0,1,1,Dortmund,2021-09-25 Gladbach-Dortmund,GER-BL1,21-22,b871a58d
+50871bcc,Thorgan Hazard,10,BEL,RM,28-180,45,0,0,0,0,2,0,0,0,28,0,0,1,0.2,0.2,0.0,2,0,15,21,71.4,3,18,0,2,2,Dortmund,2021-09-25 Gladbach-Dortmund,GER-BL1,21-22,b871a58d
+89ac64a6,Manuel Akanji,16,SUI,CB,26-068,90,0,0,0,0,0,0,0,0,65,1,1,1,0.0,0.0,0.0,0,0,51,61,83.6,1,44,2,0,0,Dortmund,2021-09-25 Gladbach-Dortmund,GER-BL1,21-22,b871a58d
+cd59b9df,Gregor Kobel,1,SUI,GK,23-293,90,0,0,0,0,0,0,0,0,36,0,0,0,0.0,0.0,0.0,0,0,23,32,71.9,0,23,0,0,0,Dortmund,2021-09-25 Gladbach-Dortmund,GER-BL1,21-22,b871a58d

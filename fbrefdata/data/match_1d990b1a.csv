@@ -1,0 +1,32 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+116c35df,Donyell Malen,21,NED,FW,22-230,83,0,0,0,0,3,3,0,0,40,2,1,0,0.1,0.1,0.1,5,0,19,26,73.1,6,30,6,3,1,Dortmund,2021-08-27 Dortmund-Hoffenheim,GER-BL1,21-22,1d990b1a
+6ce43701,Youssoufa Moukoko,18,GER,FW,16-280,7,0,0,0,0,1,1,0,0,6,0,0,0,0.4,0.4,0.0,1,1,1,1,100.0,0,2,0,2,0,Dortmund,2021-08-27 Dortmund-Hoffenheim,GER-BL1,21-22,1d990b1a
+1f44ac21,Erling Haaland,9,NOR,FW,21-037,90,1,0,0,0,6,3,0,0,37,0,0,1,0.7,0.7,0.2,3,0,17,25,68.0,1,16,4,1,1,Dortmund,2021-08-27 Dortmund-Hoffenheim,GER-BL1,21-22,1d990b1a
+36a3ff67,Marco Reus,11,GER,AM,32-088,90,0,0,0,0,3,0,0,0,76,5,2,2,0.7,0.7,0.2,7,1,48,53,90.6,7,48,4,5,2,Dortmund,2021-08-27 Dortmund-Hoffenheim,GER-BL1,21-22,1d990b1a
+7fa4e703,Gio Reyna,7,USA,LM,18-287,63,1,0,0,0,3,2,0,0,55,2,1,2,0.5,0.5,0.2,3,0,34,42,81.0,2,35,2,2,1,Dortmund,2021-08-27 Dortmund-Hoffenheim,GER-BL1,21-22,1d990b1a
+a167537f,Julian Brandt,19,GER,LM,25-117,27,0,0,0,0,0,0,0,0,18,0,0,0,0.0,0.0,0.5,3,0,15,16,93.8,2,11,0,1,1,Dortmund,2021-08-27 Dortmund-Hoffenheim,GER-BL1,21-22,1d990b1a
+57d88cf9,Jude Bellingham,22,ENG,RM,18-059,71,1,1,0,0,1,1,0,0,56,1,1,5,0.1,0.1,0.1,1,1,35,43,81.4,4,35,2,2,2,Dortmund,2021-08-27 Dortmund-Hoffenheim,GER-BL1,21-22,1d990b1a
+fa661778,Marius Wolf,39,GER,RM,26-092,19,0,0,0,0,2,2,0,0,15,0,0,1,0.3,0.3,0.0,4,0,7,9,77.8,1,6,0,0,0,Dortmund,2021-08-27 Dortmund-Hoffenheim,GER-BL1,21-22,1d990b1a
+db4ed67b,Mahmoud Dahoud,8,GER,DM,25-238,90,0,0,0,0,1,0,1,0,71,2,0,0,0.0,0.0,0.0,3,0,54,62,87.1,8,50,0,1,1,Dortmund,2021-08-27 Dortmund-Hoffenheim,GER-BL1,21-22,1d990b1a
+048a1cbc,Raphaël Guerreiro,13,POR,LB,27-248,83,0,0,0,0,0,0,0,0,86,3,2,1,0.0,0.0,0.6,6,0,64,74,86.5,8,68,5,2,0,Dortmund,2021-08-27 Dortmund-Hoffenheim,GER-BL1,21-22,1d990b1a
+5c899683,Felix Passlack,30,GER,LB,23-090,7,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,3,6,50.0,0,2,0,0,0,Dortmund,2021-08-27 Dortmund-Hoffenheim,GER-BL1,21-22,1d990b1a
+89ac64a6,Manuel Akanji,16,SUI,CB,26-039,90,0,0,0,0,2,1,0,0,85,1,1,2,0.7,0.7,0.0,3,1,70,76,92.1,10,61,0,1,1,Dortmund,2021-08-27 Dortmund-Hoffenheim,GER-BL1,21-22,1d990b1a
+5dfc6ad5,Axel Witsel,28,BEL,CB,32-227,90,0,0,0,0,1,0,0,0,75,0,1,1,0.0,0.0,0.0,3,1,61,66,92.4,4,50,0,0,0,Dortmund,2021-08-27 Dortmund-Hoffenheim,GER-BL1,21-22,1d990b1a
+e162b013,Thomas Meunier,24,BEL,RB,29-349,90,0,0,0,0,1,0,1,0,78,1,1,1,0.1,0.1,0.7,4,0,59,71,83.1,8,44,0,0,0,Dortmund,2021-08-27 Dortmund-Hoffenheim,GER-BL1,21-22,1d990b1a
+cd59b9df,Gregor Kobel,1,SUI,GK,23-264,90,0,0,0,0,0,0,0,0,26,0,0,0,0.0,0.0,0.0,0,0,16,22,72.7,0,17,0,0,0,Dortmund,2021-08-27 Dortmund-Hoffenheim,GER-BL1,21-22,1d990b1a
+603cb947,Andrej Kramarić,27,CRO,"AM,FW",30-069,90,0,0,0,0,5,2,0,0,45,0,0,0,0.9,0.9,0.0,1,0,26,31,83.9,3,22,3,1,1,Hoffenheim,2021-08-27 Dortmund-Hoffenheim,GER-BL1,21-22,1d990b1a
+437f2b00,Christoph Baumgartner,14,AUT,LW,22-026,69,1,0,0,0,3,2,1,0,38,1,2,2,0.5,0.5,0.6,2,0,14,23,60.9,1,24,1,0,0,Hoffenheim,2021-08-27 Dortmund-Hoffenheim,GER-BL1,21-22,1d990b1a
+22919e97,Sargis Adamyan,23,ARM,LW,28-096,21,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,1,0,3,6,50.0,0,6,1,1,0,Hoffenheim,2021-08-27 Dortmund-Hoffenheim,GER-BL1,21-22,1d990b1a
+4e204552,Jacob Bruun Larsen,7,DEN,RW,22-342,69,0,0,0,0,0,0,0,0,19,1,1,1,0.0,0.0,0.3,3,0,14,16,87.5,2,14,2,1,1,Hoffenheim,2021-08-27 Dortmund-Hoffenheim,GER-BL1,21-22,1d990b1a
+16daec92,Mijat Gaćinović,20,SRB,RW,26-200,21,0,0,0,0,0,0,0,0,16,3,0,1,0.0,0.0,0.0,1,0,9,12,75.0,0,9,1,0,0,Hoffenheim,2021-08-27 Dortmund-Hoffenheim,GER-BL1,21-22,1d990b1a
+80f36c88,Sebastian Rudy,16,GER,"DM,AM",31-180,90,0,0,0,0,0,0,0,0,54,4,4,0,0.0,0.0,0.2,4,1,33,46,71.7,2,26,1,0,0,Hoffenheim,2021-08-27 Dortmund-Hoffenheim,GER-BL1,21-22,1d990b1a
+3b1ed320,Angelo Stiller,13,GER,DM,20-145,45,0,0,0,0,0,0,0,0,17,2,1,1,0.0,0.0,0.0,0,0,9,11,81.8,2,4,0,0,0,Hoffenheim,2021-08-27 Dortmund-Hoffenheim,GER-BL1,21-22,1d990b1a
+c64c01fc,Georginio Rutter,33,FRA,FW,19-129,45,0,0,0,0,0,0,0,0,16,0,0,0,0.0,0.0,0.0,0,0,6,12,50.0,0,13,1,4,2,Hoffenheim,2021-08-27 Dortmund-Hoffenheim,GER-BL1,21-22,1d990b1a
+37f606f0,Dennis Geiger,8,GER,DM,23-078,82,0,1,0,0,0,0,1,0,45,4,1,0,0.0,0.0,0.2,4,1,33,41,80.5,4,27,3,2,2,Hoffenheim,2021-08-27 Dortmund-Hoffenheim,GER-BL1,21-22,1d990b1a
+eac044ad,Moanes Dabbur,10,ISR,DM,29-105,8,1,0,0,0,1,1,0,0,4,0,0,0,0.8,0.8,0.0,0,0,2,2,100.0,0,1,0,0,0,Hoffenheim,2021-08-27 Dortmund-Hoffenheim,GER-BL1,21-22,1d990b1a
+7d450ed3,David Raum,17,GER,LB,23-127,90,0,0,0,0,0,0,0,0,63,1,0,2,0.0,0.0,0.1,1,0,36,50,72.0,6,31,5,4,3,Hoffenheim,2021-08-27 Dortmund-Hoffenheim,GER-BL1,21-22,1d990b1a
+7f609bfc,Stefan Posch,38,AUT,CB,24-105,90,0,0,0,0,0,0,1,0,39,0,0,2,0.0,0.0,0.0,0,0,22,31,71.0,2,25,0,0,0,Hoffenheim,2021-08-27 Dortmund-Hoffenheim,GER-BL1,21-22,1d990b1a
+1d8e9add,Kevin Vogt,22,GER,CB,29-338,90,0,0,0,0,0,0,0,0,50,5,1,2,0.0,0.0,0.0,0,0,31,38,81.6,4,23,0,0,0,Hoffenheim,2021-08-27 Dortmund-Hoffenheim,GER-BL1,21-22,1d990b1a
+6ec6fde0,Kevin Akpoguma,25,NGA,RB,26-130,90,0,1,0,0,1,0,0,0,60,2,2,0,0.1,0.1,0.8,1,1,36,51,70.6,3,30,3,3,2,Hoffenheim,2021-08-27 Dortmund-Hoffenheim,GER-BL1,21-22,1d990b1a
+47064058,Oliver Baumann,1,GER,GK,31-086,90,0,0,0,0,0,0,0,0,51,0,0,0,0.0,0.0,0.0,0,0,31,46,67.4,0,28,0,0,0,Hoffenheim,2021-08-27 Dortmund-Hoffenheim,GER-BL1,21-22,1d990b1a

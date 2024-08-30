@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+afa0d4e0,Mario Mandžukić,17,CRO,FW,31-125,79,0,0,0,0,3,1,0,0,36,3,0,1,0.3,0.3,0.0,1,0,19,24,79.2,2,15,1,1,1,Juventus,2017-09-23 Juventus-Torino,ITA-SERIA_A,17-18,f24d21f2
+8a08491a,Gonzalo Higuaín,9,ARG,FW,29-287,11,0,1,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.5,3,1,7,8,87.5,1,3,0,0,0,Juventus,2017-09-23 Juventus-Torino,ITA-SERIA_A,17-18,f24d21f2
+e0921a4f,Paulo Dybala,10,ARG,FW,23-312,90,2,0,0,0,10,2,0,0,71,0,1,0,1.0,1.0,0.2,7,1,48,54,88.9,5,45,5,4,3,Juventus,2017-09-23 Juventus-Torino,ITA-SERIA_A,17-18,f24d21f2
+4fa7cb9b,Douglas Costa,11,BRA,LM,27-009,90,0,0,0,0,1,1,0,0,62,0,0,0,0.2,0.2,0.6,5,0,50,55,90.9,0,45,2,3,2,Juventus,2017-09-23 Juventus-Torino,ITA-SERIA_A,17-18,f24d21f2
+c0cddebe,Blaise Matuidi,14,FRA,CM,30-167,71,0,0,0,0,0,0,0,0,62,0,0,2,0.0,0.0,0.0,1,0,53,56,94.6,10,44,1,0,0,Juventus,2017-09-23 Juventus-Torino,ITA-SERIA_A,17-18,f24d21f2
+3b8674e6,Rodrigo Bentancur,30,URU,CM,20-090,19,0,0,0,0,0,0,0,0,28,0,0,0,0.0,0.0,0.0,2,0,27,28,96.4,3,20,0,1,1,Juventus,2017-09-23 Juventus-Torino,ITA-SERIA_A,17-18,f24d21f2
+ad6df2d5,Miralem Pjanić,5,BIH,CM,27-174,90,1,2,0,0,2,2,0,0,115,3,5,0,0.1,0.1,0.2,9,2,103,107,96.3,9,66,0,1,1,Juventus,2017-09-23 Juventus-Torino,ITA-SERIA_A,17-18,f24d21f2
+0ab1f153,Juan Cuadrado,7,COL,RM,29-120,61,0,1,0,0,1,0,0,0,47,3,0,1,0.1,0.1,0.1,4,1,32,37,86.5,3,30,4,4,3,Juventus,2017-09-23 Juventus-Torino,ITA-SERIA_A,17-18,f24d21f2
+ee93c1a9,Federico Bernardeschi,33,ITA,RM,23-219,29,0,0,0,0,2,1,0,0,27,0,0,0,0.1,0.1,0.0,3,0,21,22,95.5,2,20,0,2,1,Juventus,2017-09-23 Juventus-Torino,ITA-SERIA_A,17-18,f24d21f2
+0d82903c,Alex Sandro,12,BRA,LB,26-240,90,1,0,0,0,3,1,0,0,91,3,1,1,0.1,0.1,0.0,2,1,68,80,85.0,2,60,3,2,0,Juventus,2017-09-23 Juventus-Torino,ITA-SERIA_A,17-18,f24d21f2
+e85fb9b8,Giorgio Chiellini,3,ITA,CB,33-040,90,0,0,0,0,0,0,0,0,75,1,2,1,0.0,0.0,0.0,0,0,63,69,91.3,10,55,1,1,1,Juventus,2017-09-23 Juventus-Torino,ITA-SERIA_A,17-18,f24d21f2
+3b15ef2d,Medhi Benatia,4,MAR,CB,30-159,90,0,0,0,0,1,1,1,0,97,1,0,0,0.5,0.5,0.0,0,0,88,90,97.8,2,73,0,0,0,Juventus,2017-09-23 Juventus-Torino,ITA-SERIA_A,17-18,f24d21f2
+99b1d0e6,Stephan Lichtsteiner,26,SUI,RB,33-250,90,0,0,0,0,0,0,0,0,95,2,2,0,0.0,0.0,0.2,4,0,71,85,83.5,9,65,6,4,3,Juventus,2017-09-23 Juventus-Torino,ITA-SERIA_A,17-18,f24d21f2
+e40d028b,Gianluigi Buffon,1,ITA,GK,39-238,90,0,0,0,0,0,0,0,0,25,0,0,0,0.0,0.0,0.0,0,0,22,23,95.7,0,19,0,0,0,Juventus,2017-09-23 Juventus-Torino,ITA-SERIA_A,17-18,f24d21f2
+d705ba44,Andrea Belotti,9,ITA,FW,23-277,90,0,0,0,0,1,0,0,0,30,1,1,2,0.0,0.0,0.0,1,0,16,18,88.9,0,20,0,1,0,Torino,2017-09-23 Juventus-Torino,ITA-SERIA_A,17-18,f24d21f2
+2054d037,M'Baye Niang,11,SEN,LW,22-278,69,0,0,0,0,0,0,0,0,28,4,0,1,0.0,0.0,0.0,1,0,10,15,66.7,0,13,1,1,0,Torino,2017-09-23 Juventus-Torino,ITA-SERIA_A,17-18,f24d21f2
+d49f3e6b,Lucas Boyé,31,ARG,LW,21-207,21,0,0,0,0,0,0,0,0,12,3,0,2,0.0,0.0,0.0,0,0,4,5,80.0,1,8,1,0,0,Torino,2017-09-23 Juventus-Torino,ITA-SERIA_A,17-18,f24d21f2
+440c84ed,Iago Falque,14,ESP,RW,27-262,29,0,0,0,0,1,0,0,0,13,0,0,0,0.1,0.1,0.0,0,0,8,9,88.9,0,8,0,1,0,Torino,2017-09-23 Juventus-Torino,ITA-SERIA_A,17-18,f24d21f2
+d7403bd5,Afriyie Acquah,6,GHA,DM,25-261,61,0,0,0,0,0,0,1,0,31,1,0,0,0.0,0.0,0.0,0,0,25,29,86.2,2,26,1,0,0,Torino,2017-09-23 Juventus-Torino,ITA-SERIA_A,17-18,f24d21f2
+2648e18f,Adem Ljajić,10,SRB,"RW,AM",25-359,90,0,0,0,0,2,0,1,0,46,1,0,0,0.1,0.1,0.1,2,0,33,42,78.6,3,30,2,3,3,Torino,2017-09-23 Juventus-Torino,ITA-SERIA_A,17-18,f24d21f2
+ea06dd97,Daniele Baselli,8,ITA,DM,25-195,23,0,0,0,0,0,0,2,1,10,0,0,0,0.0,0.0,0.0,0,0,9,10,90.0,0,10,0,2,2,Torino,2017-09-23 Juventus-Torino,ITA-SERIA_A,17-18,f24d21f2
+f1cfc209,Tomás Rincón,88,VEN,DM,29-253,74,0,0,0,0,0,0,0,0,39,2,2,0,0.0,0.0,0.0,1,0,28,36,77.8,2,30,0,1,1,Torino,2017-09-23 Juventus-Torino,ITA-SERIA_A,17-18,f24d21f2
+b1e61f23,Samuel Gustafson,16,SWE,DM,22-255,16,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,6,6,100.0,0,4,0,0,0,Torino,2017-09-23 Juventus-Torino,ITA-SERIA_A,17-18,f24d21f2
+bbafc0c4,Cristian Ansaldi,15,ARG,LB,31-003,90,0,0,0,0,0,0,0,0,70,1,2,3,0.0,0.0,0.0,1,0,45,57,78.9,4,43,2,5,3,Torino,2017-09-23 Juventus-Torino,ITA-SERIA_A,17-18,f24d21f2
+b5bf1770,Lyanco,97,BRA,CB,20-234,90,0,0,0,0,1,0,0,0,57,2,1,2,0.0,0.0,0.0,1,0,34,40,85.0,7,43,2,4,3,Torino,2017-09-23 Juventus-Torino,ITA-SERIA_A,17-18,f24d21f2
+93cf32a8,Nicolas Nkoulou,33,CMR,CB,27-180,90,0,0,0,0,0,0,0,0,47,2,0,1,0.0,0.0,0.0,2,0,39,40,97.5,1,35,0,1,1,Torino,2017-09-23 Juventus-Torino,ITA-SERIA_A,17-18,f24d21f2
+e74f0e59,Lorenzo De Silvestri,29,ITA,RB,29-123,90,0,0,0,0,1,1,0,0,52,0,1,2,0.0,0.0,0.0,0,0,32,40,80.0,0,29,1,0,0,Torino,2017-09-23 Juventus-Torino,ITA-SERIA_A,17-18,f24d21f2
+10dc46f0,Salvatore Sirigu,39,ITA,GK,30-254,90,0,0,0,0,0,0,0,0,47,0,0,0,0.0,0.0,0.0,0,0,23,41,56.1,0,24,0,0,0,Torino,2017-09-23 Juventus-Torino,ITA-SERIA_A,17-18,f24d21f2

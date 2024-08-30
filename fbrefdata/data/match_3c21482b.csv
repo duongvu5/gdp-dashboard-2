@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+61b0b44d,Sandro Wagner,14,GER,FW,29-354,62,0,0,0,0,3,1,0,0,25,0,0,0,0.4,0.4,0.0,0,0,12,19,63.2,2,17,0,0,0,Hoffenheim,2017-11-18 Hoffenheim-Eint Frankfurt,GER-BL1,17-18,3c21482b
+603cb947,Andrej Kramarić,27,CRO,FW,26-152,28,0,0,0,0,0,0,0,0,18,0,0,0,0.0,0.0,0.0,1,0,12,15,80.0,2,13,3,1,1,Hoffenheim,2017-11-18 Hoffenheim-Eint Frankfurt,GER-BL1,17-18,3c21482b
+a3ddb1b9,Mark Uth,19,GER,"FW,RW",26-086,90,1,0,0,0,2,1,0,0,42,2,1,0,0.6,0.6,0.3,3,0,26,31,83.9,2,31,2,5,2,Hoffenheim,2017-11-18 Hoffenheim-Eint Frankfurt,GER-BL1,17-18,3c21482b
+fa274d97,Nico Schulz,16,GER,"LW,LB",24-231,90,0,0,0,0,1,1,0,0,88,1,1,0,0.0,0.0,0.1,3,0,60,74,81.1,11,66,8,5,3,Hoffenheim,2017-11-18 Hoffenheim-Eint Frankfurt,GER-BL1,17-18,3c21482b
+3faa1780,Lukas Rupp,7,GER,RW,26-314,52,0,0,0,0,0,0,0,0,38,2,0,0,0.0,0.0,0.0,1,0,24,34,70.6,4,13,1,1,1,Hoffenheim,2017-11-18 Hoffenheim-Eint Frankfurt,GER-BL1,17-18,3c21482b
+88e357ef,Serge Gnabry,29,GER,"LW,RW",22-127,38,0,1,0,0,0,0,0,0,27,0,1,0,0.0,0.0,0.5,3,2,18,23,78.3,0,20,3,7,4,Hoffenheim,2017-11-18 Hoffenheim-Eint Frankfurt,GER-BL1,17-18,3c21482b
+37f606f0,Dennis Geiger,32,GER,"CM,LM",19-161,72,0,0,0,0,2,0,0,0,45,2,0,2,0.1,0.1,0.0,1,0,33,35,94.3,3,25,2,1,0,Hoffenheim,2017-11-18 Hoffenheim-Eint Frankfurt,GER-BL1,17-18,3c21482b
+555d5edd,Nadiem Amiri,18,GER,LM,21-022,18,0,0,0,0,2,2,0,0,30,0,0,0,0.1,0.1,0.1,3,0,21,27,77.8,5,22,5,0,0,Hoffenheim,2017-11-18 Hoffenheim-Eint Frankfurt,GER-BL1,17-18,3c21482b
+54b4dc4e,Kerem Demirbay,10,GER,"CM,RM",24-138,90,0,0,0,0,2,0,0,0,84,5,1,0,0.1,0.1,0.2,6,0,52,71,73.2,9,55,3,2,1,Hoffenheim,2017-11-18 Hoffenheim-Eint Frankfurt,GER-BL1,17-18,3c21482b
+ffbbc83b,Florian Grillitsch,11,AUT,"DM,CM",22-103,90,0,0,0,0,1,1,0,0,81,9,5,2,0.0,0.0,0.0,2,0,59,70,84.3,7,36,0,1,1,Hoffenheim,2017-11-18 Hoffenheim-Eint Frankfurt,GER-BL1,17-18,3c21482b
+6ec6fde0,Kevin Akpoguma,25,NGA,CB,22-213,90,0,0,0,0,0,0,0,0,108,4,3,1,0.0,0.0,0.0,0,0,87,97,89.7,11,62,4,3,2,Hoffenheim,2017-11-18 Hoffenheim-Eint Frankfurt,GER-BL1,17-18,3c21482b
+1d8e9add,Kevin Vogt,22,GER,CB,26-056,90,0,0,0,0,0,0,0,0,105,0,2,0,0.0,0.0,0.0,1,0,94,102,92.2,6,70,1,0,0,Hoffenheim,2017-11-18 Hoffenheim-Eint Frankfurt,GER-BL1,17-18,3c21482b
+7f609bfc,Stefan Posch,38,AUT,"CB,RB",20-188,90,0,0,0,0,0,0,0,0,80,4,4,0,0.0,0.0,0.0,1,0,56,67,83.6,4,35,2,2,1,Hoffenheim,2017-11-18 Hoffenheim-Eint Frankfurt,GER-BL1,17-18,3c21482b
+47064058,Oliver Baumann,1,GER,GK,27-169,90,0,0,0,0,0,0,0,0,42,0,0,0,0.0,0.0,0.0,0,0,36,40,90.0,0,18,0,0,0,Hoffenheim,2017-11-18 Hoffenheim-Eint Frankfurt,GER-BL1,17-18,3c21482b
+536cebe5,Ante Rebić,4,CRO,FW,24-058,90,0,0,0,0,2,1,0,0,40,3,0,0,0.2,0.2,0.2,4,0,9,26,34.6,3,26,1,8,5,Eintracht Frankfurt,2017-11-18 Hoffenheim-Eint Frankfurt,GER-BL1,17-18,3c21482b
+ba115a40,Sébastien Haller,9,CIV,FW,23-149,69,0,0,0,0,0,0,0,0,41,1,0,1,0.0,0.0,0.0,1,0,19,30,63.3,3,23,2,1,0,Eintracht Frankfurt,2017-11-18 Hoffenheim-Eint Frankfurt,GER-BL1,17-18,3c21482b
+4d8cd038,Luka Jović,8,SRB,FW,19-330,21,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,3,5,60.0,0,3,0,0,0,Eintracht Frankfurt,2017-11-18 Hoffenheim-Eint Frankfurt,GER-BL1,17-18,3c21482b
+16daec92,Mijat Gaćinović,11,SRB,AM,22-283,74,0,0,0,0,1,0,1,0,36,5,2,0,0.1,0.1,0.0,0,0,12,21,57.1,1,18,1,6,0,Eintracht Frankfurt,2017-11-18 Hoffenheim-Eint Frankfurt,GER-BL1,17-18,3c21482b
+8e58987d,Gelson Fernandes,5,SUI,AM,31-077,16,0,0,0,0,0,0,0,0,5,1,0,0,0.0,0.0,0.0,1,0,1,3,33.3,0,4,1,0,0,Eintracht Frankfurt,2017-11-18 Hoffenheim-Eint Frankfurt,GER-BL1,17-18,3c21482b
+f4ec4fd0,Kevin-Prince Boateng,17,GHA,CM,30-257,90,1,0,0,0,1,1,0,0,57,7,3,0,0.0,0.0,0.0,2,1,30,41,73.2,7,25,1,0,0,Eintracht Frankfurt,2017-11-18 Hoffenheim-Eint Frankfurt,GER-BL1,17-18,3c21482b
+500cd987,Marc Stendera,21,GER,CM,21-343,59,0,0,0,0,1,1,1,0,36,4,3,1,0.1,0.1,0.0,1,0,18,28,64.3,6,19,0,0,0,Eintracht Frankfurt,2017-11-18 Hoffenheim-Eint Frankfurt,GER-BL1,17-18,3c21482b
+9ab16552,Makoto Hasebe,20,JPN,CM,33-304,31,0,0,0,0,0,0,0,0,12,1,1,3,0.0,0.0,0.0,0,0,5,5,100.0,0,3,0,0,0,Eintracht Frankfurt,2017-11-18 Hoffenheim-Eint Frankfurt,GER-BL1,17-18,3c21482b
+9050ddc4,Jetro Willems,15,NED,WB,23-233,90,0,0,0,0,0,0,0,0,38,3,0,1,0.0,0.0,0.0,0,0,21,30,70.0,2,15,1,2,1,Eintracht Frankfurt,2017-11-18 Hoffenheim-Eint Frankfurt,GER-BL1,17-18,3c21482b
+fa661778,Marius Wolf,27,GER,WB,22-175,90,0,0,0,0,0,0,0,0,49,2,4,4,0.0,0.0,0.0,0,0,25,37,67.6,2,18,2,1,1,Eintracht Frankfurt,2017-11-18 Hoffenheim-Eint Frankfurt,GER-BL1,17-18,3c21482b
+b82880c6,Simon Falette,3,GUI,CB,25-272,90,0,0,0,0,0,0,0,0,33,1,4,1,0.0,0.0,0.0,0,0,19,24,79.2,1,15,3,0,0,Eintracht Frankfurt,2017-11-18 Hoffenheim-Eint Frankfurt,GER-BL1,17-18,3c21482b
+565bf0da,David Abraham,19,ARG,CB,31-126,90,0,0,0,0,0,0,0,0,20,2,1,2,0.0,0.0,0.0,0,0,6,10,60.0,0,3,0,0,0,Eintracht Frankfurt,2017-11-18 Hoffenheim-Eint Frankfurt,GER-BL1,17-18,3c21482b
+64c07ae1,Carlos Salcedo,13,MEX,CB,24-050,90,0,0,0,0,0,0,0,0,39,2,2,2,0.0,0.0,0.0,0,0,26,31,83.9,1,19,1,1,1,Eintracht Frankfurt,2017-11-18 Hoffenheim-Eint Frankfurt,GER-BL1,17-18,3c21482b
+ad3389d5,Lukáš Hrádecký,1,FIN,GK,27-359,90,0,0,0,0,0,0,0,0,40,0,0,0,0.0,0.0,0.0,0,0,26,40,65.0,0,15,0,0,0,Eintracht Frankfurt,2017-11-18 Hoffenheim-Eint Frankfurt,GER-BL1,17-18,3c21482b

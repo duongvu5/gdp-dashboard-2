@@ -1,0 +1,28 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+5d59e0df,Emiliano Sala,9,ARG,FW,27-040,90,0,1,0,0,3,0,0,0,35,0,0,1,0.3,0.3,0.1,5,1,21,26,80.8,1,23,2,1,0,Nantes,2017-12-10 Nantes-Nice,FRA-L1,17-18,cfe6f30a
+a1d04509,Yacine Bammou,10,MAR,LM,26-090,64,1,0,0,0,1,1,0,0,36,3,0,1,0.0,0.0,0.0,1,0,17,27,63.0,1,19,1,1,0,Nantes,2017-12-10 Nantes-Nice,FRA-L1,17-18,cfe6f30a
+f352a2db,Jules Iloki,7,FRA,LM,25-330,26,0,0,0,0,1,1,0,0,12,1,0,0,0.4,0.4,0.0,2,0,7,11,63.6,0,6,0,0,0,Nantes,2017-12-10 Nantes-Nice,FRA-L1,17-18,cfe6f30a
+c76b7567,Adrien Thomasson,8,FRA,CM,24-000,90,0,0,0,0,1,0,0,0,61,1,0,2,0.0,0.0,0.0,3,0,45,54,83.3,9,35,4,2,2,Nantes,2017-12-10 Nantes-Nice,FRA-L1,17-18,cfe6f30a
+ed45c4a5,Valentin Rongier,28,FRA,CM,23-003,77,0,0,0,0,1,0,0,0,55,2,2,2,0.0,0.0,0.4,3,0,41,45,91.1,5,33,0,2,1,Nantes,2017-12-10 Nantes-Nice,FRA-L1,17-18,cfe6f30a
+3befc2b6,Andrei Girotto,20,BRA,CM,25-296,13,0,0,0,0,1,0,0,0,5,0,0,0,0.1,0.1,0.0,0,0,4,4,100.0,1,1,0,0,0,Nantes,2017-12-10 Nantes-Nice,FRA-L1,17-18,cfe6f30a
+45076ff8,Santy Ngom,33,SEN,RM,24-278,63,0,0,0,0,1,0,0,0,24,2,0,0,0.0,0.0,0.1,5,0,15,19,78.9,0,20,1,0,0,Nantes,2017-12-10 Nantes-Nice,FRA-L1,17-18,cfe6f30a
+0049d544,Yassine El Ghanassy,14,BEL,RM,27-151,27,0,0,0,0,2,0,0,0,14,0,0,0,0.1,0.1,0.0,3,0,9,9,100.0,1,9,3,0,0,Nantes,2017-12-10 Nantes-Nice,FRA-L1,17-18,cfe6f30a
+ef7cd87a,Abdoulaye Touré,19,GUI,DM,23-282,90,0,0,0,0,3,0,0,0,73,1,2,1,0.1,0.1,0.0,3,0,55,64,85.9,13,52,0,0,0,Nantes,2017-12-10 Nantes-Nice,FRA-L1,17-18,cfe6f30a
+933d3b51,Koffi Djidji,5,CIV,LB,25-010,90,0,0,0,0,1,0,0,0,46,5,1,1,0.0,0.0,0.0,1,0,27,36,75.0,2,25,2,3,3,Nantes,2017-12-10 Nantes-Nice,FRA-L1,17-18,cfe6f30a
+b4a014b1,Diego Carlos,3,BRA,CB,24-270,90,0,0,0,0,3,1,1,0,45,1,1,2,0.3,0.3,0.0,0,0,28,36,77.8,3,20,0,0,0,Nantes,2017-12-10 Nantes-Nice,FRA-L1,17-18,cfe6f30a
+779847d6,Nicolas Pallois,4,FRA,CB,30-082,90,0,0,0,0,3,1,0,0,48,3,3,1,0.6,0.6,0.0,1,0,26,33,78.8,3,27,1,1,1,Nantes,2017-12-10 Nantes-Nice,FRA-L1,17-18,cfe6f30a
+ff0ab48c,Leo Dubois,15,FRA,RB,23-087,90,0,0,0,0,1,0,0,0,79,3,4,4,0.0,0.0,0.9,9,0,49,62,79.0,6,34,4,2,2,Nantes,2017-12-10 Nantes-Nice,FRA-L1,17-18,cfe6f30a
+b056e3da,Ciprian Tătărușanu,30,ROU,GK,31-304,90,0,0,0,0,0,0,0,0,18,0,0,0,0.0,0.0,0.0,0,0,14,17,82.4,0,12,0,0,0,Nantes,2017-12-10 Nantes-Nice,FRA-L1,17-18,cfe6f30a
+8ff07990,Mario Balotelli,9,ITA,FW,27-120,90,1,0,0,0,6,3,1,0,44,1,0,1,0.3,0.3,0.1,6,0,23,30,76.7,0,25,1,5,2,Nice,2017-12-10 Nantes-Nice,FRA-L1,17-18,cfe6f30a
+bc6bd723,Alassane Pléa,14,FRA,LW,24-275,90,1,0,0,0,4,2,0,0,54,0,0,0,0.2,0.2,0.0,2,1,29,41,70.7,6,34,4,6,3,Nice,2017-12-10 Nantes-Nice,FRA-L1,17-18,cfe6f30a
+2b16cb1a,Allan Saint-Maximin,7,FRA,RW,20-273,83,0,1,0,0,1,0,0,0,58,0,0,0,0.1,0.1,0.2,2,1,37,52,71.2,6,50,9,3,2,Nice,2017-12-10 Nantes-Nice,FRA-L1,17-18,cfe6f30a
+84549a07,Bassem Srarfi,11,TUN,RW,20-168,7,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,0,2,0.0,0,2,2,1,1,Nice,2017-12-10 Nantes-Nice,FRA-L1,17-18,cfe6f30a
+10efd0e1,Jean Seri,6,CIV,LM,26-144,90,0,1,0,0,0,0,0,0,101,1,0,2,0.0,0.0,0.3,5,1,85,96,88.5,2,46,0,1,1,Nice,2017-12-10 Nantes-Nice,FRA-L1,17-18,cfe6f30a
+8da74c05,Adrien Tameze,5,CMR,CM,23-309,90,0,0,0,0,1,0,1,0,64,2,1,1,0.0,0.0,0.0,1,1,50,55,90.9,3,32,0,1,1,Nice,2017-12-10 Nantes-Nice,FRA-L1,17-18,cfe6f30a
+f5044e54,Pierre Lees-Melou,8,FRA,RM,24-199,90,0,0,0,0,0,0,1,0,56,1,0,1,0.0,0.0,0.0,0,0,45,52,86.5,7,32,2,0,0,Nice,2017-12-10 Nantes-Nice,FRA-L1,17-18,cfe6f30a
+321a71a7,Maxime Le Marchand,20,FRA,LB,28-060,90,0,0,0,0,0,0,0,0,82,2,0,0,0.0,0.0,0.0,2,0,66,72,91.7,4,41,3,0,0,Nice,2017-12-10 Nantes-Nice,FRA-L1,17-18,cfe6f30a
+4315f30d,Malang Sarr,23,FRA,CB,18-321,90,0,0,0,0,0,0,0,0,99,1,2,1,0.0,0.0,0.0,0,0,83,92,90.2,3,50,0,0,0,Nice,2017-12-10 Nantes-Nice,FRA-L1,17-18,cfe6f30a
+cdf65d12,Marlon,4,BRA,CB,22-094,90,0,0,0,0,0,0,0,0,72,0,0,0,0.0,0.0,0.0,0,0,67,69,97.1,3,37,0,0,0,Nice,2017-12-10 Nantes-Nice,FRA-L1,17-18,cfe6f30a
+4e0afc5d,Arnaud Souquet,2,FRA,RB,25-301,90,0,0,0,0,0,0,1,0,95,2,3,1,0.0,0.0,0.0,1,0,81,87,93.1,11,38,1,1,0,Nice,2017-12-10 Nantes-Nice,FRA-L1,17-18,cfe6f30a
+8a2248b4,Walter Benítez,40,ARG,GK,24-325,90,0,0,0,0,0,0,0,0,40,0,0,0,0.0,0.0,0.0,0,0,30,39,76.9,0,16,0,0,0,Nice,2017-12-10 Nantes-Nice,FRA-L1,17-18,cfe6f30a

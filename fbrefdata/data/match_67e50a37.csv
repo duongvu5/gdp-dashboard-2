@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+1f44ac21,Erling Haaland,9,NOR,FW,20-179,90,0,0,0,0,1,1,0,0,15,0,0,0,0.1,0.1,0.1,1,0,10,11,90.9,0,10,0,1,0,Dortmund,2021-01-16 Dortmund-Mainz 05,GER-BL1,20-21,67e50a37
+a167537f,Julian Brandt,19,GER,LW,24-259,90,0,0,0,0,3,2,0,0,70,1,0,1,0.2,0.2,0.0,6,1,46,58,79.3,6,45,2,0,0,Dortmund,2021-01-16 Dortmund-Mainz 05,GER-BL1,20-21,67e50a37
+dbf053da,Jadon Sancho,7,ENG,RW,20-297,90,0,0,0,0,1,0,0,0,89,2,2,0,0.1,0.1,0.2,4,0,54,78,69.2,13,75,8,6,5,Dortmund,2021-01-16 Dortmund-Mainz 05,GER-BL1,20-21,67e50a37
+36a3ff67,Marco Reus,11,GER,AM,31-230,90,0,0,0,1,5,2,0,0,61,3,1,1,1.5,0.7,0.0,5,1,40,47,85.1,5,45,2,1,1,Dortmund,2021-01-16 Dortmund-Mainz 05,GER-BL1,20-21,67e50a37
+57d88cf9,Jude Bellingham,22,ENG,DM,17-201,59,0,0,0,0,3,0,0,0,64,2,2,1,0.2,0.2,0.0,3,0,42,51,82.4,5,45,0,3,2,Dortmund,2021-01-16 Dortmund-Mainz 05,GER-BL1,20-21,67e50a37
+6ce43701,Youssoufa Moukoko,18,GER,DM,16-057,31,0,0,0,0,1,0,0,0,9,0,0,0,0.1,0.1,0.0,1,0,0,2,0.0,0,5,0,2,1,Dortmund,2021-01-16 Dortmund-Mainz 05,GER-BL1,20-21,67e50a37
+a65ce836,Emre Can,23,GER,DM,27-004,90,0,0,0,0,0,0,1,0,81,1,6,0,0.0,0.0,0.5,3,0,67,74,90.5,10,54,0,0,0,Dortmund,2021-01-16 Dortmund-Mainz 05,GER-BL1,20-21,67e50a37
+048a1cbc,Raphaël Guerreiro,13,POR,LB,27-025,90,0,0,0,0,1,1,0,0,118,1,2,2,0.0,0.0,0.1,3,0,97,110,88.2,14,91,10,3,3,Dortmund,2021-01-16 Dortmund-Mainz 05,GER-BL1,20-21,67e50a37
+a4effc55,Dan-Axel Zagadou,5,FRA,CB,21-227,44,0,0,0,0,0,0,0,0,53,0,1,0,0.0,0.0,0.0,0,0,46,50,92.0,2,41,0,0,0,Dortmund,2021-01-16 Dortmund-Mainz 05,GER-BL1,20-21,67e50a37
+89ac64a6,Manuel Akanji,16,SUI,CB,25-181,46,0,0,0,0,0,0,0,0,52,0,1,1,0.0,0.0,0.0,0,0,47,50,94.0,11,35,0,2,2,Dortmund,2021-01-16 Dortmund-Mainz 05,GER-BL1,20-21,67e50a37
+05d548d8,Mats Hummels,15,GER,CB,32-031,90,0,0,0,0,0,0,0,0,114,1,5,0,0.0,0.0,0.0,0,0,97,101,96.0,5,74,0,0,0,Dortmund,2021-01-16 Dortmund-Mainz 05,GER-BL1,20-21,67e50a37
+e162b013,Thomas Meunier,24,BEL,RB,29-126,90,1,0,0,0,1,1,0,0,112,3,2,0,0.1,0.1,0.1,2,0,86,103,83.5,11,90,17,3,3,Dortmund,2021-01-16 Dortmund-Mainz 05,GER-BL1,20-21,67e50a37
+9d12e142,Roman Bürki,1,SUI,GK,30-063,90,0,0,0,0,0,0,0,0,31,0,0,0,0.0,0.0,0.0,0,0,29,30,96.7,0,21,0,0,0,Dortmund,2021-01-16 Dortmund-Mainz 05,GER-BL1,20-21,67e50a37
+74c7c2db,Robin Quaison,7,SWE,FW,27-099,64,0,0,0,0,1,1,0,0,17,0,1,0,0.0,0.0,0.0,1,0,13,14,92.9,1,5,0,0,0,Mainz 05,2021-01-16 Dortmund-Mainz 05,GER-BL1,20-21,67e50a37
+f26834c7,Karim Onisiwo,21,AUT,FW,28-305,26,0,0,0,0,1,0,0,0,15,0,0,0,0.1,0.1,0.1,0,0,6,7,85.7,2,7,0,1,0,Mainz 05,2021-01-16 Dortmund-Mainz 05,GER-BL1,20-21,67e50a37
+05f99a4a,Jonathan Burkardt,29,GER,FW,20-189,78,0,0,0,0,2,0,0,0,36,1,0,2,0.1,0.1,0.1,2,1,17,22,77.3,1,20,2,1,1,Mainz 05,2021-01-16 Dortmund-Mainz 05,GER-BL1,20-21,67e50a37
+53e07d0b,Ádám Szalai,28,HUN,FW,33-038,12,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,2,5,40.0,0,3,0,0,0,Mainz 05,2021-01-16 Dortmund-Mainz 05,GER-BL1,20-21,67e50a37
+635f2732,Jean-Paul Boëtius,5,NED,CM,26-300,78,0,0,0,0,0,0,0,0,48,3,4,0,0.0,0.0,0.0,1,0,25,38,65.8,5,19,2,2,2,Mainz 05,2021-01-16 Dortmund-Mainz 05,GER-BL1,20-21,67e50a37
+27270af4,Niklas Tauer,25,GER,CM,19-334,12,0,0,0,0,0,0,0,0,8,0,1,1,0.0,0.0,0.0,0,0,2,4,50.0,2,2,0,1,1,Mainz 05,2021-01-16 Dortmund-Mainz 05,GER-BL1,20-21,67e50a37
+00242b75,Leandro Barreiro Martins,35,LUX,CM,21-013,90,0,0,0,0,0,0,0,0,26,0,3,3,0.0,0.0,0.0,0,0,9,14,64.3,1,9,0,0,0,Mainz 05,2021-01-16 Dortmund-Mainz 05,GER-BL1,20-21,67e50a37
+33b554b7,Danny Latza,6,GER,CM,31-040,89,0,1,0,0,2,1,0,0,42,1,1,5,0.2,0.2,0.1,5,1,14,26,53.8,2,10,0,1,1,Mainz 05,2021-01-16 Dortmund-Mainz 05,GER-BL1,20-21,67e50a37
+e5649a78,Kevin Stöger,17,AUT,CM,27-142,1,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,0,0,Mainz 05,2021-01-16 Dortmund-Mainz 05,GER-BL1,20-21,67e50a37
+2ff76adc,Phillipp Mwene,23,AUT,LB,26-353,90,0,0,0,0,0,0,1,0,35,0,3,2,0.0,0.0,0.0,0,0,18,29,62.1,2,14,1,2,1,Mainz 05,2021-01-16 Dortmund-Mainz 05,GER-BL1,20-21,67e50a37
+a5ec3ede,Alexander Hack,42,GER,CB,27-130,90,0,0,0,0,1,0,1,0,42,2,4,2,0.1,0.1,0.0,0,0,17,29,58.6,0,18,0,0,0,Mainz 05,2021-01-16 Dortmund-Mainz 05,GER-BL1,20-21,67e50a37
+857a5abe,Stefan Bell,16,GER,CB,29-145,90,0,0,0,0,0,0,0,0,19,1,1,0,0.0,0.0,0.0,0,0,8,11,72.7,1,4,0,0,0,Mainz 05,2021-01-16 Dortmund-Mainz 05,GER-BL1,20-21,67e50a37
+00242715,Moussa Niakhate,19,SEN,CB,24-314,90,0,0,0,0,1,0,0,0,36,2,2,1,0.1,0.1,0.0,3,0,19,26,73.1,1,17,1,2,1,Mainz 05,2021-01-16 Dortmund-Mainz 05,GER-BL1,20-21,67e50a37
+66385c46,Levin Öztunalı,8,GER,RB,24-307,90,1,0,0,0,1,1,0,0,39,4,1,0,0.0,0.0,0.1,4,0,16,29,55.2,2,16,4,3,2,Mainz 05,2021-01-16 Dortmund-Mainz 05,GER-BL1,20-21,67e50a37
+5c4bf6ba,Robin Zentner,27,GER,GK,26-080,90,0,0,0,0,0,0,0,0,44,1,0,0,0.0,0.0,0.0,0,0,26,41,63.4,0,14,0,0,0,Mainz 05,2021-01-16 Dortmund-Mainz 05,GER-BL1,20-21,67e50a37

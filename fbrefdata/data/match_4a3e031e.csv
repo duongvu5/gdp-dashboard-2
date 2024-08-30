@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+49fe9070,Timo Werner,11,GER,FW,22-271,89,2,0,0,0,4,3,0,0,45,1,0,0,0.5,0.5,0.1,3,0,28,34,82.4,3,20,2,2,1,RB Leipzig,2018-12-02 RB Leipzig-Gladbach,GER-BL1,18-19,4a3e031e
+dc62b55d,Matheus Cunha,20,BRA,FW,19-189,1,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,1,0,2,2,100.0,0,2,1,0,0,RB Leipzig,2018-12-02 RB Leipzig-Gladbach,GER-BL1,18-19,4a3e031e
+d2416c2e,Yussuf Poulsen,9,DEN,"FW,LM",24-170,90,0,1,0,0,2,0,0,0,42,0,1,0,0.1,0.1,0.4,7,3,25,34,73.5,5,26,3,3,2,RB Leipzig,2018-12-02 RB Leipzig-Gladbach,GER-BL1,18-19,4a3e031e
+5caa62a7,Bruma,17,POR,AM,24-039,68,0,0,0,0,0,0,0,0,46,0,0,0,0.0,0.0,0.0,2,0,40,44,90.9,2,31,3,0,0,RB Leipzig,2018-12-02 RB Leipzig-Gladbach,GER-BL1,18-19,4a3e031e
+c1b7847c,Konrad Laimer,27,AUT,"AM,CM",21-189,22,0,0,0,0,0,0,0,0,14,1,0,1,0.0,0.0,0.3,1,0,6,9,66.7,1,5,1,0,0,RB Leipzig,2018-12-02 RB Leipzig-Gladbach,GER-BL1,18-19,4a3e031e
+b825a650,Kevin Kampl,44,SVN,LM,28-054,82,0,0,0,0,0,0,0,0,78,1,1,2,0.0,0.0,0.0,3,0,59,72,81.9,8,44,2,2,1,RB Leipzig,2018-12-02 RB Leipzig-Gladbach,GER-BL1,18-19,4a3e031e
+8494acc4,Stefan Ilsanker,13,AUT,CB,29-198,8,0,0,0,0,0,0,0,0,5,0,1,0,0.0,0.0,0.0,0,0,0,1,0.0,0,0,0,0,0,RB Leipzig,2018-12-02 RB Leipzig-Gladbach,GER-BL1,18-19,4a3e031e
+e280527c,Marcel Sabitzer,7,AUT,RM,24-260,90,0,1,0,0,7,3,0,0,56,3,0,0,1.1,1.1,0.2,4,1,26,40,65.0,4,21,3,1,0,RB Leipzig,2018-12-02 RB Leipzig-Gladbach,GER-BL1,18-19,4a3e031e
+dc3fa3b5,Diego Demme,31,GER,"DM,CM",27-011,90,0,0,0,0,0,0,1,0,74,1,0,1,0.0,0.0,0.0,0,0,50,63,79.4,6,32,2,0,0,RB Leipzig,2018-12-02 RB Leipzig-Gladbach,GER-BL1,18-19,4a3e031e
+8ff2354e,Marcel Halstenberg,23,GER,LB,27-066,90,0,0,0,0,0,0,0,0,72,0,1,0,0.0,0.0,0.8,3,0,53,66,80.3,1,21,3,3,3,RB Leipzig,2018-12-02 RB Leipzig-Gladbach,GER-BL1,18-19,4a3e031e
+d248cd8f,Dayot Upamecano,5,FRA,CB,20-036,90,0,0,0,0,0,0,1,0,65,1,3,3,0.0,0.0,0.0,0,0,50,55,90.9,2,39,0,0,0,RB Leipzig,2018-12-02 RB Leipzig-Gladbach,GER-BL1,18-19,4a3e031e
+5ed9b537,Ibrahima Konaté,6,FRA,CB,19-191,90,0,0,0,0,0,0,0,0,57,1,3,1,0.0,0.0,0.0,1,0,38,48,79.2,9,28,1,0,0,RB Leipzig,2018-12-02 RB Leipzig-Gladbach,GER-BL1,18-19,4a3e031e
+ca8033cb,Lukas Klostermann,16,GER,RB,22-182,90,0,0,0,0,1,0,0,0,42,1,0,2,0.3,0.3,0.0,1,0,26,38,68.4,2,10,3,0,0,RB Leipzig,2018-12-02 RB Leipzig-Gladbach,GER-BL1,18-19,4a3e031e
+bcb2ccd8,Péter Gulácsi,1,HUN,GK,28-210,90,0,0,0,0,0,0,0,0,34,0,0,0,0.0,0.0,0.0,0,0,18,31,58.1,0,14,0,0,0,RB Leipzig,2018-12-02 RB Leipzig-Gladbach,GER-BL1,18-19,4a3e031e
+7cd6badb,Lars Stindl,13,GER,"FW,CM",30-098,90,0,0,0,0,2,2,1,0,64,1,0,3,0.4,0.4,0.0,1,0,43,51,84.3,5,37,1,1,0,Mönchengladbach,2018-12-02 RB Leipzig-Gladbach,GER-BL1,18-19,4a3e031e
+bc6bd723,Alassane Pléa,14,FRA,"LM,FW",25-267,90,0,0,0,0,0,0,0,0,35,0,0,3,0.0,0.0,0.1,2,0,17,25,68.0,2,18,1,0,0,Mönchengladbach,2018-12-02 RB Leipzig-Gladbach,GER-BL1,18-19,4a3e031e
+384d58d9,Denis Zakaria,8,SUI,CM,22-012,90,0,0,0,0,1,0,1,0,57,1,3,2,0.0,0.0,0.0,1,0,41,46,89.1,5,40,1,2,1,Mönchengladbach,2018-12-02 RB Leipzig-Gladbach,GER-BL1,18-19,4a3e031e
+36a59ba4,Florian Neuhaus,32,GER,CM,21-261,59,0,0,0,0,2,1,0,0,34,0,0,0,0.1,0.1,0.0,1,0,24,31,77.4,2,25,2,0,0,Mönchengladbach,2018-12-02 RB Leipzig-Gladbach,GER-BL1,18-19,4a3e031e
+096a77c4,Ibrahima Traoré,16,GUI,"CM,WB",30-225,31,0,0,0,0,0,0,0,0,27,0,0,0,0.0,0.0,0.0,0,0,17,24,70.8,2,19,3,1,1,Mönchengladbach,2018-12-02 RB Leipzig-Gladbach,GER-BL1,18-19,4a3e031e
+50871bcc,Thorgan Hazard,10,BEL,"RM,WB",25-248,90,0,0,0,0,2,1,0,0,66,3,0,1,0.1,0.1,0.4,3,0,34,52,65.4,3,35,1,1,0,Mönchengladbach,2018-12-02 RB Leipzig-Gladbach,GER-BL1,18-19,4a3e031e
+17780d2b,Tobias Strobl,5,GER,"DM,CB",28-204,90,0,0,0,0,0,0,0,0,64,3,3,0,0.0,0.0,0.0,1,0,50,54,92.6,4,35,0,0,0,Mönchengladbach,2018-12-02 RB Leipzig-Gladbach,GER-BL1,18-19,4a3e031e
+b69261a0,Oscar Wendt,17,SWE,LB,33-039,76,0,0,0,0,0,0,0,0,75,2,1,2,0.0,0.0,0.1,2,0,51,67,76.1,7,38,2,2,0,Mönchengladbach,2018-12-02 RB Leipzig-Gladbach,GER-BL1,18-19,4a3e031e
+5722eced,Mickaël Cuisance,27,FRA,"CM,LB",19-108,14,0,0,0,0,0,0,0,0,17,2,0,0,0.0,0.0,0.0,0,0,8,11,72.7,0,11,1,3,2,Mönchengladbach,2018-12-02 RB Leipzig-Gladbach,GER-BL1,18-19,4a3e031e
+34b54da7,Tony Jantschke,24,GER,CB,28-239,90,0,0,0,0,0,0,0,0,104,0,2,1,0.0,0.0,0.0,0,0,89,96,92.7,4,73,1,1,1,Mönchengladbach,2018-12-02 RB Leipzig-Gladbach,GER-BL1,18-19,4a3e031e
+48035304,Nico Elvedi,30,SUI,CB,22-063,90,0,0,0,0,0,0,0,0,85,2,0,2,0.0,0.0,0.0,0,0,68,77,88.3,3,62,0,1,1,Mönchengladbach,2018-12-02 RB Leipzig-Gladbach,GER-BL1,18-19,4a3e031e
+864db10a,Michael Lang,3,SUI,RB,27-297,76,0,0,0,0,0,0,0,0,58,1,2,2,0.0,0.0,0.0,1,0,35,49,71.4,1,27,1,0,0,Mönchengladbach,2018-12-02 RB Leipzig-Gladbach,GER-BL1,18-19,4a3e031e
+791af558,Raffael,11,BRA,"FW,RB",33-249,14,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,4,5,80.0,1,3,1,1,1,Mönchengladbach,2018-12-02 RB Leipzig-Gladbach,GER-BL1,18-19,4a3e031e
+420c18a1,Yann Sommer,1,SUI,GK,29-350,90,0,0,0,0,0,0,0,0,50,0,0,0,0.0,0.0,0.0,0,0,39,44,88.6,0,31,0,1,1,Mönchengladbach,2018-12-02 RB Leipzig-Gladbach,GER-BL1,18-19,4a3e031e

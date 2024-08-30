@@ -1,0 +1,29 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+b0547a87,Nicolas de Préville,12,FRA,FW,26-346,90,0,0,0,0,2,0,0,0,38,1,0,0,0.1,0.1,0.0,0,0,17,29,58.6,0,21,1,2,2,Bordeaux,2017-12-20 Bordeaux-Montpellier,FRA-L1,17-18,16a3b502
+81d3318f,François Kamano,11,GUI,LW,21-232,61,0,0,0,0,0,0,0,0,32,0,3,3,0.0,0.0,0.0,1,0,16,17,94.1,0,18,2,1,1,Bordeaux,2017-12-20 Bordeaux-Montpellier,FRA-L1,17-18,16a3b502
+942c6dc3,Ervin Taha,33,FRA,LW,18-281,29,0,0,0,0,1,1,0,0,14,1,0,0,0.0,0.0,0.0,1,0,9,12,75.0,2,4,1,0,0,Bordeaux,2017-12-20 Bordeaux-Montpellier,FRA-L1,17-18,16a3b502
+6853490f,Malcom,7,BRA,"RW,AM",20-297,90,0,0,0,0,0,0,1,0,58,0,0,1,0.0,0.0,0.2,4,0,45,54,83.3,2,32,3,4,4,Bordeaux,2017-12-20 Bordeaux-Montpellier,FRA-L1,17-18,16a3b502
+dcf7cf44,Valentín Vada,23,ARG,AM,21-289,73,0,0,0,0,3,0,0,0,48,1,0,1,0.2,0.2,0.0,2,0,34,39,87.2,3,23,3,1,1,Bordeaux,2017-12-20 Bordeaux-Montpellier,FRA-L1,17-18,16a3b502
+8d043f1d,Jonathan Cafu,22,BRA,"RW,AM",26-163,17,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,6,6,100.0,0,7,1,2,1,Bordeaux,2017-12-20 Bordeaux-Montpellier,FRA-L1,17-18,16a3b502
+243f4a0b,Otávio,5,BRA,DM,23-230,79,0,0,0,0,0,0,0,0,65,5,3,1,0.0,0.0,0.0,1,0,48,55,87.3,7,36,3,3,3,Bordeaux,2017-12-20 Bordeaux-Montpellier,FRA-L1,17-18,16a3b502
+516dc25b,Jaroslav Plašil,18,CZE,DM,35-349,11,0,0,0,0,0,0,1,0,13,1,1,0,0.0,0.0,0.0,0,0,9,11,81.8,1,5,0,0,0,Bordeaux,2017-12-20 Bordeaux-Montpellier,FRA-L1,17-18,16a3b502
+1b82f8df,Lukas Lerager,19,DEN,DM,24-161,90,0,0,0,0,1,0,0,0,60,1,2,1,0.0,0.0,0.0,3,0,36,52,69.2,5,21,1,0,0,Bordeaux,2017-12-20 Bordeaux-Montpellier,FRA-L1,17-18,16a3b502
+b92edde2,Maxime Poundjé,29,FRA,LB,25-126,90,0,0,0,0,1,0,0,0,44,2,0,0,0.2,0.2,0.0,0,0,23,36,63.9,1,22,3,3,3,Bordeaux,2017-12-20 Bordeaux-Montpellier,FRA-L1,17-18,16a3b502
+97fb4608,Théo Pellenard,21,FRA,CB,23-291,90,0,0,0,0,0,0,1,0,62,3,3,1,0.0,0.0,0.0,0,0,44,54,81.5,7,34,2,1,1,Bordeaux,2017-12-20 Bordeaux-Montpellier,FRA-L1,17-18,16a3b502
+7adea561,Jérémy Toulalan,14,FRA,CB,34-101,90,0,0,0,0,0,0,0,0,73,4,1,2,0.0,0.0,0.0,0,0,51,61,83.6,9,41,2,0,0,Bordeaux,2017-12-20 Bordeaux-Montpellier,FRA-L1,17-18,16a3b502
+fbbb9269,Youssouf Sabaly,20,SEN,RB,24-290,90,0,0,0,0,0,0,0,0,101,2,2,0,0.0,0.0,0.1,3,0,72,88,81.8,7,56,7,4,3,Bordeaux,2017-12-20 Bordeaux-Montpellier,FRA-L1,17-18,16a3b502
+1061c207,Jérôme Prior,30,FRA,GK,22-134,90,0,0,0,0,0,0,0,0,24,0,0,0,0.0,0.0,0.0,0,0,12,19,63.2,0,9,0,0,0,Bordeaux,2017-12-20 Bordeaux-Montpellier,FRA-L1,17-18,16a3b502
+0fe7f7bc,Giovanni Sio,14,CIV,FW,28-264,90,0,0,0,0,3,0,1,0,35,0,1,0,0.1,0.1,0.4,5,0,15,25,60.0,1,25,3,5,4,Montpellier,2017-12-20 Bordeaux-Montpellier,FRA-L1,17-18,16a3b502
+24eb7ed6,Junior Sambia,6,FRA,AM,21-104,89,0,1,0,0,4,2,0,0,41,0,0,0,0.6,0.6,0.0,5,1,24,31,77.4,5,24,3,5,3,Montpellier,2017-12-20 Bordeaux-Montpellier,FRA-L1,17-18,16a3b502
+aa1a8c7e,Isaac Mbenza,18,BEL,AM,21-287,1,1,0,0,0,1,1,0,0,2,0,0,0,0.1,0.1,0.0,1,1,0,0,,0,2,1,1,1,Montpellier,2017-12-20 Bordeaux-Montpellier,FRA-L1,17-18,16a3b502
+42eaa028,Jonathan Ikone,9,FRA,AM,19-232,81,1,0,0,0,4,2,0,0,48,1,1,0,0.2,0.2,0.1,5,0,29,40,72.5,3,30,4,5,3,Montpellier,2017-12-20 Bordeaux-Montpellier,FRA-L1,17-18,16a3b502
+542cc80f,Paul Lasne,7,FRA,AM,28-338,9,0,0,0,0,0,0,0,0,10,1,1,0,0.0,0.0,0.0,0,0,7,8,87.5,1,7,1,0,0,Montpellier,2017-12-20 Bordeaux-Montpellier,FRA-L1,17-18,16a3b502
+fca455cc,Facundo Píriz,27,URU,CM,27-268,90,0,0,0,0,1,0,1,0,64,2,3,3,0.1,0.1,0.0,0,0,43,48,89.6,3,20,1,2,2,Montpellier,2017-12-20 Bordeaux-Montpellier,FRA-L1,17-18,16a3b502
+c2211709,Ellyes Skhiri,13,TUN,CM,22-224,90,0,0,0,0,0,0,1,0,50,3,2,3,0.0,0.0,0.0,2,0,26,41,63.4,5,25,1,1,1,Montpellier,2017-12-20 Bordeaux-Montpellier,FRA-L1,17-18,16a3b502
+13203c45,Jérôme Roussillon,24,FRA,WB,24-348,90,0,1,0,0,0,0,0,0,69,1,0,2,0.0,0.0,0.1,4,2,47,58,81.0,7,22,2,4,3,Montpellier,2017-12-20 Bordeaux-Montpellier,FRA-L1,17-18,16a3b502
+3dd738a1,Ruben Aguilar,2,FRA,WB,24-238,90,0,0,0,0,1,1,0,0,55,4,1,0,0.1,0.1,0.0,2,0,33,43,76.7,1,19,2,0,0,Montpellier,2017-12-20 Bordeaux-Montpellier,FRA-L1,17-18,16a3b502
+3f5b4635,Daniel Congré,3,FRA,CB,32-259,90,0,0,0,0,0,0,0,0,43,1,1,1,0.0,0.0,0.0,0,0,28,35,80.0,3,22,0,0,0,Montpellier,2017-12-20 Bordeaux-Montpellier,FRA-L1,17-18,16a3b502
+6690ef25,Pedro Mendes,5,POR,CB,27-080,90,0,0,0,0,0,0,0,0,36,1,1,1,0.0,0.0,0.0,1,0,23,24,95.8,0,15,1,1,1,Montpellier,2017-12-20 Bordeaux-Montpellier,FRA-L1,17-18,16a3b502
+ac73ec79,Nordi Mukiele,23,FRA,CB,20-049,90,0,0,0,0,0,0,0,0,74,5,4,2,0.0,0.0,0.1,3,0,43,58,74.1,5,37,0,1,1,Montpellier,2017-12-20 Bordeaux-Montpellier,FRA-L1,17-18,16a3b502
+2fa2a875,Benjamin Lecomte,40,FRA,GK,26-238,90,0,0,0,0,0,0,0,0,34,0,0,0,0.0,0.0,0.0,0,0,23,34,67.6,0,18,0,0,0,Montpellier,2017-12-20 Bordeaux-Montpellier,FRA-L1,17-18,16a3b502

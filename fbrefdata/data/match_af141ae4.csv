@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+d9b89391,Bruno Duarte,96,BRA,FW,23-249,44,0,0,0,0,2,0,0,0,9,0,0,0,0.2,0.2,0.1,1,0,1,5,20.0,1,4,1,0,0,Vitória Guimarães,2019-11-28 Vitória-Standard Liège,UEL,19-20,af141ae4
+b0c12a65,Davidson da Luz Pereira,91,BRA,LM,28-268,46,0,0,0,0,6,2,0,0,23,1,0,1,0.6,0.6,0.1,5,0,7,13,53.8,1,16,2,1,1,Vitória Guimarães,2019-11-28 Vitória-Standard Liège,UEL,19-20,af141ae4
+4515f00d,André Pereira,21,POR,"LM,FW",24-207,85,1,0,0,0,5,2,0,0,30,0,1,1,0.5,0.5,0.0,2,0,6,14,42.9,1,15,1,1,1,Vitória Guimarães,2019-11-28 Vitória-Standard Liège,UEL,19-20,af141ae4
+da23d58d,Léo Bonatini,13,BRA,FW,25-245,5,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,0,3,0.0,0,3,1,0,0,Vitória Guimarães,2019-11-28 Vitória-Standard Liège,UEL,19-20,af141ae4
+5f4ce4b6,Lucas Evangelista,7,BRA,CM,24-206,90,0,1,0,0,3,1,1,0,44,2,2,2,0.1,0.1,0.4,3,1,27,33,81.8,5,20,3,0,0,Vitória Guimarães,2019-11-28 Vitória-Standard Liège,UEL,19-20,af141ae4
+854a2041,Denis-Will Poha,28,FRA,CM,22-184,90,0,0,0,0,2,0,0,0,50,0,0,0,0.2,0.2,0.1,7,0,29,43,67.4,7,26,6,0,0,Vitória Guimarães,2019-11-28 Vitória-Standard Liège,UEL,19-20,af141ae4
+57760e66,Marcus Edwards,23,ENG,RM,20-360,75,0,0,0,0,2,1,0,0,28,2,1,0,0.1,0.1,0.1,4,0,14,22,63.6,3,17,1,1,1,Vitória Guimarães,2019-11-28 Vitória-Standard Liège,UEL,19-20,af141ae4
+c738a5ec,Rochinha,16,POR,RM,24-209,15,0,0,0,0,0,0,0,0,10,0,1,0,0.0,0.0,0.0,0,0,4,8,50.0,0,3,1,1,1,Vitória Guimarães,2019-11-28 Vitória-Standard Liège,UEL,19-20,af141ae4
+5e9fa5c9,Mikel Agu,24,NGA,DM,26-185,90,0,0,0,0,0,0,1,0,43,1,3,1,0.0,0.0,0.0,3,0,23,32,71.9,5,17,2,1,1,Vitória Guimarães,2019-11-28 Vitória-Standard Liège,UEL,19-20,af141ae4
+6bfb4303,Florent Hanin,29,ALG,LB,29-297,90,0,0,0,0,0,0,1,0,54,2,0,0,0.0,0.0,0.0,0,0,27,48,56.3,4,27,4,1,1,Vitória Guimarães,2019-11-28 Vitória-Standard Liège,UEL,19-20,af141ae4
+fbafd1b0,Pedrão,2,BRA,CB,26-345,90,0,0,0,0,1,0,0,0,49,3,1,0,0.0,0.0,0.0,4,0,27,39,69.2,1,26,1,1,1,Vitória Guimarães,2019-11-28 Vitória-Standard Liège,UEL,19-20,af141ae4
+a73c8f95,Edmond Tapsoba,6,BFA,CB,20-299,90,0,0,0,0,1,0,1,0,64,0,5,3,0.0,0.0,0.0,2,0,39,48,81.3,2,36,1,1,1,Vitória Guimarães,2019-11-28 Vitória-Standard Liège,UEL,19-20,af141ae4
+6388e356,Falaye Sacko,17,MLI,RB,24-211,90,0,0,0,0,1,1,0,0,60,0,1,1,0.0,0.0,0.1,5,1,36,54,66.7,5,28,9,0,0,Vitória Guimarães,2019-11-28 Vitória-Standard Liège,UEL,19-20,af141ae4
+e961d3ac,Douglas,1,BRA,GK,36-264,90,0,0,0,0,0,0,0,0,57,0,0,0,0.0,0.0,0.0,0,0,40,54,74.1,0,29,0,0,0,Vitória Guimarães,2019-11-28 Vitória-Standard Liège,UEL,19-20,af141ae4
+5c9ac7f0,Renaud Emond,9,BEL,FW,27-358,69,0,0,0,0,1,0,0,0,18,0,0,2,0.4,0.4,0.0,2,0,10,15,66.7,0,5,0,0,0,Standard Liège,2019-11-28 Vitória-Standard Liège,UEL,19-20,af141ae4
+9e49c320,Obbi Oulare,17,BEL,FW,23-324,21,0,0,0,0,1,0,0,0,17,2,1,0,0.0,0.0,0.1,3,0,6,10,60.0,0,11,0,0,0,Standard Liège,2019-11-28 Vitória-Standard Liège,UEL,19-20,af141ae4
+ac290817,Maxime Lestienne,22,BEL,LW,27-164,70,1,0,1,1,1,1,0,0,27,1,0,0,0.9,0.1,0.1,4,1,12,19,63.2,3,15,3,0,0,Standard Liège,2019-11-28 Vitória-Standard Liège,UEL,19-20,af141ae4
+00eba9c9,Selim Amallah,19,MAR,LW,23-013,20,0,0,0,0,3,2,0,0,15,0,1,0,0.7,0.7,0.0,1,0,7,9,77.8,2,7,0,1,1,Standard Liège,2019-11-28 Vitória-Standard Liège,UEL,19-20,af141ae4
+dc415e39,Mehdi Carcela,10,MAR,RW,30-150,90,0,0,0,0,1,0,0,0,54,2,0,4,0.1,0.1,0.7,4,0,25,36,69.4,6,27,7,7,3,Standard Liège,2019-11-28 Vitória-Standard Liège,UEL,19-20,af141ae4
+6ec1ddf1,Paul-Jose M'Poku,40,COD,CM,27-223,81,0,0,0,0,0,0,1,0,45,0,0,0,0.0,0.0,0.5,4,0,34,44,77.3,8,29,3,1,1,Standard Liège,2019-11-28 Vitória-Standard Liège,UEL,19-20,af141ae4
+8b0b02c9,Duje Čop,7,CRO,CM,29-300,9,0,0,0,0,0,0,0,0,8,0,0,1,0.0,0.0,0.1,1,0,3,5,60.0,2,6,1,0,0,Standard Liège,2019-11-28 Vitória-Standard Liège,UEL,19-20,af141ae4
+fae880d5,Gojko Cimirot,8,BIH,CM,26-344,90,0,0,0,0,2,0,0,0,54,2,0,1,0.1,0.1,0.0,0,0,37,45,82.2,8,30,0,1,1,Standard Liège,2019-11-28 Vitória-Standard Liège,UEL,19-20,af141ae4
+ec30b9c8,Samuel Bastien,28,COD,CM,23-063,90,0,0,0,0,3,1,1,0,46,0,1,0,0.1,0.1,0.0,2,1,33,38,86.8,1,26,2,0,0,Standard Liège,2019-11-28 Vitória-Standard Liège,UEL,19-20,af141ae4
+47a0b54d,Nicolas Gavory,24,FRA,LB,24-285,90,0,0,0,0,0,0,0,0,54,0,3,1,0.0,0.0,0.0,0,0,29,41,70.7,2,23,1,0,0,Standard Liège,2019-11-28 Vitória-Standard Liège,UEL,19-20,af141ae4
+ebca82e8,Konstantinos Laifis,34,CYP,CB,26-193,90,0,0,0,0,1,0,1,0,78,2,5,2,0.0,0.0,0.0,0,0,48,60,80.0,4,43,0,0,0,Standard Liège,2019-11-28 Vitória-Standard Liège,UEL,19-20,af141ae4
+afbf187b,Zinho Vanheusden,3,BEL,CB,20-122,90,0,0,0,0,0,0,1,0,77,1,4,1,0.0,0.0,0.0,2,0,48,60,80.0,7,42,4,0,0,Standard Liège,2019-11-28 Vitória-Standard Liège,UEL,19-20,af141ae4
+be2706c0,Mërgim Vojvoda,27,KVX,RB,24-300,90,0,0,0,0,0,0,0,0,80,1,2,2,0.0,0.0,0.0,1,0,44,62,71.0,3,38,3,2,1,Standard Liège,2019-11-28 Vitória-Standard Liège,UEL,19-20,af141ae4
+79c536d7,Arnaud Bodart,16,BEL,GK,21-262,90,0,0,0,0,0,0,0,0,34,0,0,0,0.0,0.0,0.0,0,0,22,29,75.9,0,14,0,0,0,Standard Liège,2019-11-28 Vitória-Standard Liège,UEL,19-20,af141ae4

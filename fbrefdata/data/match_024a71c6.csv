@@ -1,0 +1,32 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+5dbefa9d,André Ayew,28,GHA,FW,34-139,90,1,0,0,0,4,1,0,0,33,4,0,0,0.6,0.6,0.0,1,0,12,21,57.1,0,18,1,0,0,Le Havre,2024-05-04 Le Havre-Strasbourg,FRA-L1,23-24,024a71c6
+abefc3af,Yassine Kechta,8,MAR,LW,22-069,79,2,0,0,0,2,2,1,0,26,1,0,0,0.6,0.6,0.0,1,0,16,22,72.7,1,22,1,0,0,Le Havre,2024-05-04 Le Havre-Strasbourg,FRA-L1,23-24,024a71c6
+9f29c204,Oualid El Hajjam,17,MAR,LW,33-075,11,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,0,4,0.0,0,4,1,1,0,Le Havre,2024-05-04 Le Havre-Strasbourg,FRA-L1,23-24,024a71c6
+481f76cf,Josué Casimir,23,FRA,RW,22-223,89,0,2,0,0,2,0,0,0,36,1,0,0,0.2,0.2,0.6,6,2,20,29,69.0,0,29,5,2,1,Le Havre,2024-05-04 Le Havre-Strasbourg,FRA-L1,23-24,024a71c6
+535b0343,Alois Confais,25,FRA,RW,27-240,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Le Havre,2024-05-04 Le Havre-Strasbourg,FRA-L1,23-24,024a71c6
+2e1b7c83,Emmanuel Sabbi,11,USA,AM,26-132,89,0,0,0,0,1,0,0,0,28,4,0,0,0.0,0.0,0.3,6,1,12,19,63.2,4,19,1,3,2,Le Havre,2024-05-04 Le Havre-Strasbourg,FRA-L1,23-24,024a71c6
+d2448564,Samuel Grandsir,29,FRA,AM,27-264,1,0,1,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.1,0,0,0,0,,0,1,0,0,0,Le Havre,2024-05-04 Le Havre-Strasbourg,FRA-L1,23-24,024a71c6
+ef7cd87a,Abdoulaye Touré,94,GUI,DM,30-062,90,0,0,0,0,2,0,0,0,58,4,0,0,0.1,0.1,0.0,3,1,36,46,78.3,6,34,1,1,1,Le Havre,2024-05-04 Le Havre-Strasbourg,FRA-L1,23-24,024a71c6
+abd56820,Oussama Targhalline,5,MAR,DM,21-350,79,0,0,0,0,0,0,0,0,61,5,5,0,0.0,0.0,0.0,3,1,34,45,75.6,4,40,2,1,0,Le Havre,2024-05-04 Le Havre-Strasbourg,FRA-L1,23-24,024a71c6
+d4e93bab,Daler Kuzyaev,14,RUS,DM,31-110,11,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,1,0,4,6,66.7,1,3,0,0,0,Le Havre,2024-05-04 Le Havre-Strasbourg,FRA-L1,23-24,024a71c6
+914bb955,Christopher Operi,27,CIV,LB,27-005,90,0,0,0,0,2,2,0,0,58,3,1,2,0.2,0.2,0.2,3,0,34,47,72.3,0,34,0,1,1,Le Havre,2024-05-04 Le Havre-Strasbourg,FRA-L1,23-24,024a71c6
+ac89503b,Gautier Lloris,4,FRA,CB,28-291,90,0,0,0,0,1,0,0,0,37,1,1,0,0.2,0.2,0.0,0,0,20,25,80.0,0,23,0,0,0,Le Havre,2024-05-04 Le Havre-Strasbourg,FRA-L1,23-24,024a71c6
+12a4e38c,Etienne Youte Kinkoue,6,FRA,CB,22-111,90,0,0,0,0,0,0,0,0,42,0,2,1,0.0,0.0,0.0,0,0,29,37,78.4,0,28,0,0,0,Le Havre,2024-05-04 Le Havre-Strasbourg,FRA-L1,23-24,024a71c6
+c3725db2,Yoann Salmier,22,GUF,RB,31-165,90,0,0,0,0,1,1,1,0,54,1,1,0,0.1,0.1,0.0,3,1,41,52,78.8,6,33,0,0,0,Le Havre,2024-05-04 Le Havre-Strasbourg,FRA-L1,23-24,024a71c6
+e8c5dd4d,Arthur Desmas,30,FRA,GK,30-027,90,0,0,0,0,0,0,1,0,29,0,0,0,0.0,0.0,0.0,0,0,11,29,37.9,0,14,0,0,0,Le Havre,2024-05-04 Le Havre-Strasbourg,FRA-L1,23-24,024a71c6
+a0c590b9,Emanuel Emegha,10,NED,FW,21-091,90,0,0,0,0,2,1,0,0,26,0,0,1,0.7,0.7,0.1,2,0,17,21,81.0,0,17,0,0,0,Strasbourg,2024-05-04 Le Havre-Strasbourg,FRA-L1,23-24,024a71c6
+0b6911e4,Jérémy Sebas,40,MTQ,AM,21-020,61,0,0,0,0,0,0,0,0,13,1,1,2,0.0,0.0,0.0,0,0,2,3,66.7,0,6,1,3,0,Strasbourg,2024-05-04 Le Havre-Strasbourg,FRA-L1,23-24,024a71c6
+42276181,Kévin Gameiro,9,FRA,AM,36-361,29,0,0,0,0,0,0,0,0,20,0,0,1,0.0,0.0,0.0,0,0,14,16,87.5,0,15,0,0,0,Strasbourg,2024-05-04 Le Havre-Strasbourg,FRA-L1,23-24,024a71c6
+2b5a35e5,Dilane Bakwa,26,FRA,AM,21-252,90,0,1,0,0,1,0,0,0,61,0,0,1,0.1,0.1,0.5,4,1,35,50,70.0,6,45,4,4,1,Strasbourg,2024-05-04 Le Havre-Strasbourg,FRA-L1,23-24,024a71c6
+dd745366,Andrey Santos,8,BRA,CM,20-001,77,0,0,0,0,1,0,0,0,59,0,0,0,0.1,0.1,0.0,0,0,42,49,85.7,5,51,0,4,2,Strasbourg,2024-05-04 Le Havre-Strasbourg,FRA-L1,23-24,024a71c6
+ee158be5,Junior Mwanga,18,FRA,CM,20-359,13,0,0,0,0,0,0,0,0,9,0,0,2,0.0,0.0,0.0,0,0,5,6,83.3,0,6,0,0,0,Strasbourg,2024-05-04 Le Havre-Strasbourg,FRA-L1,23-24,024a71c6
+0f8418aa,Ibrahima Sissoko,27,MLI,CM,26-190,90,0,0,0,0,0,0,1,0,66,4,2,1,0.0,0.0,0.5,2,0,46,55,83.6,11,45,1,0,0,Strasbourg,2024-05-04 Le Havre-Strasbourg,FRA-L1,23-24,024a71c6
+8332db56,Thomas Delaine,3,FRA,WB,32-041,89,0,0,0,0,0,0,0,0,53,1,0,0,0.0,0.0,0.0,0,0,35,45,77.8,1,34,4,1,0,Strasbourg,2024-05-04 Le Havre-Strasbourg,FRA-L1,23-24,024a71c6
+133d2aa5,Aboubacar Ali,33,FRA,WB,18-032,1,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,2,0,0,0,Strasbourg,2024-05-04 Le Havre-Strasbourg,FRA-L1,23-24,024a71c6
+1d383c10,Marvin Senaya,28,TOG,WB,23-097,61,0,0,0,0,0,0,0,0,52,0,1,0,0.0,0.0,0.0,0,0,34,43,79.1,1,40,2,4,1,Strasbourg,2024-05-04 Le Havre-Strasbourg,FRA-L1,23-24,024a71c6
+cdc4458b,Dion Moise Sahi,11,CIV,WB,22-136,29,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,6,7,85.7,0,8,0,1,0,Strasbourg,2024-05-04 Le Havre-Strasbourg,FRA-L1,23-24,024a71c6
+29c91632,Abakar Sylla,24,CIV,CB,21-131,90,0,0,0,0,0,0,0,0,100,1,0,3,0.0,0.0,0.0,0,0,84,94,89.4,11,78,2,0,0,Strasbourg,2024-05-04 Le Havre-Strasbourg,FRA-L1,23-24,024a71c6
+49070d66,Lucas Perrin,5,FRA,CB,25-167,90,0,0,0,0,0,0,0,0,101,1,0,2,0.0,0.0,0.0,0,0,89,97,91.8,10,81,1,0,0,Strasbourg,2024-05-04 Le Havre-Strasbourg,FRA-L1,23-24,024a71c6
+5d8d7454,Frederic Guilbert,2,FRA,CB,29-132,90,1,0,0,0,1,1,0,0,109,2,1,2,0.1,0.1,0.0,1,1,83,97,85.6,7,78,1,1,1,Strasbourg,2024-05-04 Le Havre-Strasbourg,FRA-L1,23-24,024a71c6
+0595569d,Alaa Bellaarouch,36,MAR,GK,22-124,90,0,0,0,0,0,0,0,0,30,0,0,0,0.0,0.0,0.0,0,0,24,26,92.3,0,17,0,0,0,Strasbourg,2024-05-04 Le Havre-Strasbourg,FRA-L1,23-24,024a71c6

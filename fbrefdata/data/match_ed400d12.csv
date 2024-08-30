@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+bbd79358,Moritz Broschinski,29,GER,FW,23-133,78,1,0,0,0,2,2,1,0,29,0,0,0,0.2,0.2,0.3,3,0,7,16,43.8,0,18,2,1,1,Bochum,2024-02-03 Bochum-Augsburg,GER-BL1,23-24,ed400d12
+edb2712b,Maximilian Wittek,32,GER,FW,28-166,12,0,0,0,0,0,0,0,0,6,1,0,1,0.0,0.0,0.0,0,0,2,3,66.7,0,2,0,0,0,Bochum,2024-02-03 Bochum-Augsburg,GER-BL1,23-24,ed400d12
+0a3f6cde,Christopher Antwi-Adjei,22,GHA,LW,29-361,67,0,0,0,0,1,1,0,0,33,0,1,0,0.1,0.1,0.1,3,1,18,26,69.2,1,15,2,2,1,Bochum,2024-02-03 Bochum-Augsburg,GER-BL1,23-24,ed400d12
+1e2057aa,Moritz-Broni Kwarteng,27,GHA,FW,25-281,23,0,0,0,0,1,0,0,0,14,0,0,1,0.1,0.1,0.0,0,0,5,9,55.6,1,8,1,1,0,Bochum,2024-02-03 Bochum-Augsburg,GER-BL1,23-24,ed400d12
+b5e0af76,Matúš Bero,19,SVK,"RW,CM",28-150,89,0,0,0,0,2,1,0,0,53,1,0,2,0.4,0.4,0.0,1,0,27,42,64.3,4,16,0,3,2,Bochum,2024-02-03 Bochum-Augsburg,GER-BL1,23-24,ed400d12
+877bc844,Philipp Hofmann,33,GER,CM,30-310,1,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,1,0,0,0,Bochum,2024-02-03 Bochum-Augsburg,GER-BL1,23-24,ed400d12
+e5649a78,Kevin Stöger,7,AUT,AM,30-160,67,0,0,0,0,1,0,0,0,46,0,0,0,0.0,0.0,0.1,3,1,27,39,69.2,5,21,2,1,0,Bochum,2024-02-03 Bochum-Augsburg,GER-BL1,23-24,ed400d12
+f6bdc830,Keven Schlotterbeck,31,GER,CB,26-281,23,0,0,0,0,0,0,0,0,8,1,0,0,0.0,0.0,0.0,0,0,2,6,33.3,1,1,0,0,0,Bochum,2024-02-03 Bochum-Augsburg,GER-BL1,23-24,ed400d12
+9662c9ec,Patrick Osterhage,6,GER,"DM,CM",24-002,90,0,0,0,0,2,0,1,0,71,2,1,2,0.1,0.1,0.1,4,0,42,56,75.0,6,26,1,2,1,Bochum,2024-02-03 Bochum-Augsburg,GER-BL1,23-24,ed400d12
+07c7eb0c,Anthony Losilla,8,FRA,"DM,CM",37-330,90,0,0,0,0,0,0,0,0,46,4,1,0,0.0,0.0,0.0,0,0,18,31,58.1,5,13,0,2,1,Bochum,2024-02-03 Bochum-Augsburg,GER-BL1,23-24,ed400d12
+17370b95,Bernardo,5,BRA,LB,28-265,90,0,0,0,0,0,0,0,0,60,0,3,3,0.0,0.0,0.0,1,0,22,42,52.4,4,24,0,3,3,Bochum,2024-02-03 Bochum-Augsburg,GER-BL1,23-24,ed400d12
+86c75897,Ivan Ordets,20,UKR,CB,31-210,90,0,0,0,0,0,0,0,0,41,1,0,2,0.0,0.0,0.0,0,0,15,29,51.7,1,7,1,0,0,Bochum,2024-02-03 Bochum-Augsburg,GER-BL1,23-24,ed400d12
+a396fb61,Erhan Mašović,4,SRB,CB,25-073,90,0,0,0,0,0,0,0,0,32,0,3,3,0.0,0.0,0.0,0,0,15,20,75.0,1,8,0,0,0,Bochum,2024-02-03 Bochum-Augsburg,GER-BL1,23-24,ed400d12
+57ec75bf,Tim Oermann,14,GER,RB,20-120,90,0,0,0,0,1,0,1,0,64,1,0,5,0.0,0.0,0.0,1,0,28,41,68.3,4,22,1,3,0,Bochum,2024-02-03 Bochum-Augsburg,GER-BL1,23-24,ed400d12
+9f941969,Manuel Riemann,1,GER,GK,35-147,90,0,0,0,0,0,0,0,0,58,0,0,0,0.0,0.0,0.1,1,0,32,57,56.1,1,26,0,0,0,Bochum,2024-02-03 Bochum-Augsburg,GER-BL1,23-24,ed400d12
+3397e7b5,Phillip Tietz,21,GER,FW,26-209,59,0,0,0,0,2,1,0,0,16,0,0,0,0.2,0.2,0.0,0,0,5,12,41.7,1,10,0,0,0,Augsburg,2024-02-03 Bochum-Augsburg,GER-BL1,23-24,ed400d12
+1c59240b,Pep Biel,11,ESP,"LM,FW",27-151,31,0,0,0,0,0,0,0,0,18,1,0,1,0.0,0.0,0.0,2,0,8,13,61.5,0,8,0,2,1,Augsburg,2024-02-03 Bochum-Augsburg,GER-BL1,23-24,ed400d12
+ed79b7d3,Ermedin Demirović,9,BIH,FW,25-315,90,1,0,1,1,2,0,0,0,33,2,0,2,0.9,0.1,0.0,1,0,9,19,47.4,2,15,0,0,0,Augsburg,2024-02-03 Bochum-Augsburg,GER-BL1,23-24,ed400d12
+6ecbddf6,Ruben Vargas,16,SUI,AM,25-182,80,0,0,0,0,1,1,0,0,47,1,1,1,0.2,0.2,0.2,5,0,19,33,57.6,3,27,4,3,1,Augsburg,2024-02-03 Bochum-Augsburg,GER-BL1,23-24,ed400d12
+582a5247,Mads Pedersen,3,DEN,LB,27-155,10,0,0,0,0,1,0,0,0,17,0,0,0,0.1,0.1,0.0,3,0,13,15,86.7,1,7,0,1,1,Augsburg,2024-02-03 Bochum-Augsburg,GER-BL1,23-24,ed400d12
+1ae836b1,Elvis Rexhbeçaj,8,GER,LM,26-094,67,0,0,0,0,0,0,0,0,29,2,1,2,0.0,0.0,0.0,0,0,9,18,50.0,4,11,1,3,1,Augsburg,2024-02-03 Bochum-Augsburg,GER-BL1,23-24,ed400d12
+554bcc91,Arne Engels,27,BEL,RM,20-148,23,0,0,0,0,1,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,5,6,83.3,1,5,0,0,0,Augsburg,2024-02-03 Bochum-Augsburg,GER-BL1,23-24,ed400d12
+3eeb80e0,Fredrik Jensen,24,FIN,RM,26-147,67,0,0,0,0,0,0,0,0,37,0,2,1,0.0,0.0,0.0,0,0,15,30,50.0,5,18,2,0,0,Augsburg,2024-02-03 Bochum-Augsburg,GER-BL1,23-24,ed400d12
+1e274a0a,Sven Michel,20,GER,FW,33-203,23,0,0,0,0,0,0,0,0,15,0,0,0,0.0,0.0,0.1,1,0,5,12,41.7,1,9,0,1,0,Augsburg,2024-02-03 Bochum-Augsburg,GER-BL1,23-24,ed400d12
+a8ee54ad,Kristijan Jakić,17,CRO,DM,26-265,80,0,0,0,0,0,0,1,0,40,2,1,0,0.0,0.0,0.0,0,0,17,29,58.6,3,9,1,0,0,Augsburg,2024-02-03 Bochum-Augsburg,GER-BL1,23-24,ed400d12
+ab700320,Arne Maier,10,GER,AM,25-026,10,0,0,0,0,2,0,0,0,12,1,0,0,0.1,0.1,0.0,2,1,8,10,80.0,0,5,0,0,0,Augsburg,2024-02-03 Bochum-Augsburg,GER-BL1,23-24,ed400d12
+054849d2,Iago,22,BRA,"LB,DM",26-317,90,0,0,0,0,3,0,0,0,69,3,1,3,0.1,0.1,0.0,4,0,28,51,54.9,6,29,0,2,0,Augsburg,2024-02-03 Bochum-Augsburg,GER-BL1,23-24,ed400d12
+677da306,Ohis Felix Uduokhai,19,GER,CB,26-147,90,0,0,0,0,0,0,0,0,58,2,3,0,0.0,0.0,0.0,2,0,29,45,64.4,2,31,1,0,0,Augsburg,2024-02-03 Bochum-Augsburg,GER-BL1,23-24,ed400d12
+1025db8e,Jeffrey Gouweleeuw,6,NED,CB,32-208,90,0,0,0,0,1,0,0,0,61,1,2,1,0.1,0.1,0.2,2,0,35,51,68.6,5,25,4,0,0,Augsburg,2024-02-03 Bochum-Augsburg,GER-BL1,23-24,ed400d12
+493924a7,Kevin Mbabu,43,SUI,RB,28-290,90,0,0,0,0,0,0,0,0,67,2,1,1,0.0,0.0,0.0,1,0,27,58,46.6,7,25,4,4,2,Augsburg,2024-02-03 Bochum-Augsburg,GER-BL1,23-24,ed400d12
+dee3013b,Finn Dahmen,1,GER,GK,25-313,90,0,0,0,0,0,0,0,0,39,0,0,0,0.0,0.0,0.0,0,0,26,36,72.2,0,20,0,0,0,Augsburg,2024-02-03 Bochum-Augsburg,GER-BL1,23-24,ed400d12

@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+8c90fd7a,Victor Osimhen,9,NGA,FW,22-271,76,1,0,0,0,4,2,1,0,27,1,0,1,0.5,0.5,0.0,3,1,10,17,58.8,0,18,6,2,2,Napoli,2021-09-26 Napoli-Cagliari,ITA-SERIA_A,21-22,4cb4842e
+03f946ed,Andrea Petagna,37,ITA,FW,26-088,14,0,0,0,0,1,1,0,0,7,1,0,0,0.1,0.1,0.0,1,0,3,3,100.0,0,3,0,0,0,Napoli,2021-09-26 Napoli-Cagliari,ITA-SERIA_A,21-22,4cb4842e
+2f557579,Lorenzo Insigne,24,ITA,LW,30-114,76,1,0,1,1,3,1,0,0,81,2,1,2,0.9,0.1,0.2,3,0,58,67,86.6,13,48,4,2,1,Napoli,2021-09-26 Napoli-Cagliari,ITA-SERIA_A,21-22,4cb4842e
+ed90babd,Adam Ounas,33,ALG,RW,24-319,14,0,0,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.1,2,0,9,10,90.0,1,10,3,2,1,Napoli,2021-09-26 Napoli-Cagliari,ITA-SERIA_A,21-22,4cb4842e
+5e861944,Matteo Politano,21,ITA,RW,28-054,68,0,0,0,0,2,1,0,0,46,1,0,1,0.0,0.0,0.0,3,0,31,40,77.5,7,34,5,0,0,Napoli,2021-09-26 Napoli-Cagliari,ITA-SERIA_A,21-22,4cb4842e
+a69e4806,Hirving Lozano,11,MEX,"LW,RW",26-058,22,0,0,0,0,1,1,0,0,12,0,0,0,0.1,0.1,0.0,1,0,8,10,80.0,0,6,4,1,1,Napoli,2021-09-26 Napoli-Cagliari,ITA-SERIA_A,21-22,4cb4842e
+a5296e55,Piotr Zieliński,20,POL,LM,27-129,68,0,1,0,0,2,0,0,0,35,1,0,0,0.2,0.2,0.4,4,1,28,32,87.5,5,22,2,0,0,Napoli,2021-09-26 Napoli-Cagliari,ITA-SERIA_A,21-22,4cb4842e
+cf007308,Elif Elmas,7,MKD,"AM,LM",22-002,22,0,0,0,0,0,0,1,0,34,1,0,1,0.0,0.0,0.0,0,0,24,28,85.7,2,18,0,1,0,Napoli,2021-09-26 Napoli-Cagliari,ITA-SERIA_A,21-22,4cb4842e
+c0c7ff58,Fabián Ruiz Peña,8,ESP,"CM,DM",25-176,87,0,0,0,0,1,0,0,0,99,0,1,1,0.0,0.0,0.1,3,0,90,94,95.7,10,55,2,1,0,Napoli,2021-09-26 Napoli-Cagliari,ITA-SERIA_A,21-22,4cb4842e
+dc3fa3b5,Diego Demme,4,GER,DM,29-309,3,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,7,7,100.0,0,4,0,0,0,Napoli,2021-09-26 Napoli-Cagliari,ITA-SERIA_A,21-22,4cb4842e
+6bb2c084,Andre-Frank Zambo Anguissa,99,CMR,"RM,DM",25-314,90,0,0,0,0,2,0,0,0,104,1,2,0,0.0,0.0,0.0,3,2,85,90,94.4,8,62,2,5,2,Napoli,2021-09-26 Napoli-Cagliari,ITA-SERIA_A,21-22,4cb4842e
+0b5a292a,Mário Rui,6,POR,LB,30-122,90,0,0,0,0,0,0,0,0,83,1,1,1,0.0,0.0,0.0,5,0,66,74,89.2,4,48,1,2,1,Napoli,2021-09-26 Napoli-Cagliari,ITA-SERIA_A,21-22,4cb4842e
+da974c7b,Kalidou Koulibaly,26,SEN,CB,30-098,90,0,0,0,0,0,0,0,0,83,0,0,0,0.0,0.0,0.0,0,0,72,76,94.7,0,54,1,1,1,Napoli,2021-09-26 Napoli-Cagliari,ITA-SERIA_A,21-22,4cb4842e
+4b3e1a38,Amir Rrahmani,13,KVX,CB,27-214,90,0,0,0,0,0,0,0,0,116,0,0,0,0.0,0.0,0.0,1,0,114,115,99.1,2,83,0,0,0,Napoli,2021-09-26 Napoli-Cagliari,ITA-SERIA_A,21-22,4cb4842e
+230a2fac,Giovanni Di Lorenzo,22,ITA,RB,28-053,90,0,0,0,0,0,0,0,0,99,0,2,1,0.0,0.0,0.0,1,0,83,91,91.2,3,56,0,2,2,Napoli,2021-09-26 Napoli-Cagliari,ITA-SERIA_A,21-22,4cb4842e
+82b1198a,David Ospina,25,COL,GK,33-026,90,0,0,0,0,0,0,0,0,17,0,0,0,0.0,0.0,0.0,0,0,16,17,94.1,0,13,0,0,0,Napoli,2021-09-26 Napoli-Cagliari,ITA-SERIA_A,21-22,4cb4842e
+81255c03,João Pedro,10,ITA,FW,29-201,90,0,0,0,0,0,0,0,0,19,0,0,0,0.0,0.0,0.0,0,0,11,12,91.7,1,13,0,0,0,Cagliari,2021-09-26 Napoli-Cagliari,ITA-SERIA_A,21-22,4cb4842e
+5efc5389,Charalambos Lykogiannis,22,GRE,LW,27-339,84,0,0,0,0,2,0,0,0,35,0,2,0,0.0,0.0,0.0,2,0,16,27,59.3,1,24,2,1,1,Cagliari,2021-09-26 Napoli-Cagliari,ITA-SERIA_A,21-22,4cb4842e
+7ec7738e,Gastón Pereiro,20,URU,LB,26-107,6,0,0,0,0,1,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,2,1,0,0,Cagliari,2021-09-26 Napoli-Cagliari,ITA-SERIA_A,21-22,4cb4842e
+95facda1,Nahitan Nández,18,URU,RW,25-272,90,0,0,0,0,0,0,0,0,34,3,0,1,0.0,0.0,0.0,0,0,17,28,60.7,3,22,5,3,2,Cagliari,2021-09-26 Napoli-Cagliari,ITA-SERIA_A,21-22,4cb4842e
+7fac99d4,Răzvan Marin,8,ROU,"AM,DM",25-126,90,0,0,0,0,0,0,0,0,40,0,0,0,0.0,0.0,0.0,3,0,28,35,80.0,1,21,1,1,0,Cagliari,2021-09-26 Napoli-Cagliari,ITA-SERIA_A,21-22,4cb4842e
+7f267d66,Alessandro Deiola,14,ITA,DM,26-056,67,0,0,0,0,1,1,0,0,21,0,0,1,0.0,0.0,0.0,1,0,14,16,87.5,2,10,0,0,0,Cagliari,2021-09-26 Napoli-Cagliari,ITA-SERIA_A,21-22,4cb4842e
+509a4ccb,Keita Baldé,9,SEN,AM,26-202,23,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,3,0,1,0,Cagliari,2021-09-26 Napoli-Cagliari,ITA-SERIA_A,21-22,4cb4842e
+ef2e5e1a,Kevin Strootman,16,NED,DM,31-225,84,0,0,0,0,0,0,0,0,49,1,2,3,0.0,0.0,0.0,0,0,32,42,76.2,7,33,0,0,0,Cagliari,2021-09-26 Napoli-Cagliari,ITA-SERIA_A,21-22,4cb4842e
+6cc97b6a,Alberto Grassi,27,ITA,LW,26-203,6,0,0,0,0,0,0,0,0,7,2,0,0,0.0,0.0,0.0,0,0,4,4,100.0,0,3,0,0,0,Cagliari,2021-09-26 Napoli-Cagliari,ITA-SERIA_A,21-22,4cb4842e
+e94d79e3,Martín Cáceres,4,URU,LB,34-172,90,0,0,0,0,1,0,0,0,48,1,4,0,0.0,0.0,0.0,2,0,31,42,73.8,5,25,1,0,0,Cagliari,2021-09-26 Napoli-Cagliari,ITA-SERIA_A,21-22,4cb4842e
+fc4f85b1,Diego Godín,2,URU,CB,35-222,90,0,0,0,0,1,0,0,0,64,3,2,0,0.0,0.0,0.0,1,0,39,45,86.7,0,35,1,1,0,Cagliari,2021-09-26 Napoli-Cagliari,ITA-SERIA_A,21-22,4cb4842e
+217875a4,Sebastian Walukiewicz,40,POL,CB,21-174,67,0,0,0,0,0,0,1,0,35,1,2,2,0.0,0.0,0.0,1,0,25,28,89.3,2,27,1,0,0,Cagliari,2021-09-26 Napoli-Cagliari,ITA-SERIA_A,21-22,4cb4842e
+7d50454d,Luca Ceppitelli,23,ITA,CB,32-046,23,0,0,0,0,0,0,0,0,20,0,1,0,0.0,0.0,0.0,1,0,16,19,84.2,1,12,1,0,0,Cagliari,2021-09-26 Napoli-Cagliari,ITA-SERIA_A,21-22,4cb4842e
+ca3db240,Gabriele Zappa,25,ITA,RB,21-278,90,0,0,0,0,0,0,0,0,53,2,1,2,0.0,0.0,0.0,1,0,31,41,75.6,1,27,0,4,2,Cagliari,2021-09-26 Napoli-Cagliari,ITA-SERIA_A,21-22,4cb4842e
+f554e29b,Alessio Cragno,28,ITA,GK,27-090,90,0,0,0,0,0,0,0,0,29,0,0,0,0.0,0.0,0.0,0,0,21,28,75.0,0,14,0,0,0,Cagliari,2021-09-26 Napoli-Cagliari,ITA-SERIA_A,21-22,4cb4842e

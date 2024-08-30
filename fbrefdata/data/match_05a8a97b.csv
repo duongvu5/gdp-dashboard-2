@@ -1,0 +1,29 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+5bd72174,Francesco Caputo,11,ITA,FW,31-180,90,2,0,0,0,2,2,0,0,29,0,0,0,0.9,0.9,0.0,4,1,20,25,80.0,1,17,1,1,1,Empoli,2019-02-02 Empoli-Chievo,ITA-SERIA_A,18-19,05a8a97b
+157d29b6,Diego Farias,17,BRA,FW,28-268,57,0,0,0,0,2,1,0,0,34,0,0,1,0.4,0.4,0.1,2,0,22,28,78.6,3,24,2,0,0,Empoli,2019-02-02 Empoli-Chievo,ITA-SERIA_A,18-19,05a8a97b
+af45e954,Dimitri Oberlin,37,SUI,FW,21-128,33,0,0,0,0,0,0,0,0,15,0,0,0,0.0,0.0,0.0,0,0,10,11,90.9,0,10,1,2,0,Empoli,2019-02-02 Empoli-Chievo,ITA-SERIA_A,18-19,05a8a97b
+570bb4b9,Hamed Junior Traorè,8,CIV,CM,18-351,90,0,0,0,0,4,4,0,0,60,0,1,0,0.4,0.4,0.1,5,0,38,52,73.1,6,34,7,5,4,Empoli,2019-02-02 Empoli-Chievo,ITA-SERIA_A,18-19,05a8a97b
+db092d3b,Ismaël Bennacer,10,ALG,CM,21-063,90,0,0,0,0,0,0,0,0,72,2,2,1,0.0,0.0,0.0,0,0,53,65,81.5,4,36,0,0,0,Empoli,2019-02-02 Empoli-Chievo,ITA-SERIA_A,18-19,05a8a97b
+817c6964,Rade Krunić,33,BIH,CM,25-118,81,0,0,0,0,1,1,0,0,54,0,3,0,0.1,0.1,0.0,4,1,33,48,68.8,4,34,4,2,2,Empoli,2019-02-02 Empoli-Chievo,ITA-SERIA_A,18-19,05a8a97b
+54ab361e,Levan Mchedlidze,7,GEO,CM,28-315,9,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,1,2,0,0,0,Empoli,2019-02-02 Empoli-Chievo,ITA-SERIA_A,18-19,05a8a97b
+548902cc,Manuel Pasqual,23,ITA,WB,36-326,90,0,0,0,0,0,0,0,0,106,2,1,1,0.0,0.0,0.0,0,0,63,102,61.8,12,50,2,0,0,Empoli,2019-02-02 Empoli-Chievo,ITA-SERIA_A,18-19,05a8a97b
+230a2fac,Giovanni Di Lorenzo,2,ITA,WB,25-182,90,0,1,0,0,2,0,0,0,87,2,0,0,0.4,0.4,0.8,3,1,60,77,77.9,15,50,8,5,3,Empoli,2019-02-02 Empoli-Chievo,ITA-SERIA_A,18-19,05a8a97b
+283699b4,Jacob Rasmussen,32,DEN,CB,21-250,90,0,0,0,0,0,0,0,0,69,2,0,0,0.0,0.0,0.0,0,0,46,59,78.0,2,26,0,0,0,Empoli,2019-02-02 Empoli-Chievo,ITA-SERIA_A,18-19,05a8a97b
+b6ca47a2,Matías Silvestre,26,ARG,CB,34-130,90,0,0,0,0,0,0,0,0,49,1,1,0,0.0,0.0,0.0,1,0,35,43,81.4,0,25,0,0,0,Empoli,2019-02-02 Empoli-Chievo,ITA-SERIA_A,18-19,05a8a97b
+d541e703,Freddie Veseli,5,ALB,CB,26-074,90,0,0,0,0,0,0,0,0,42,0,1,0,0.0,0.0,0.0,0,0,32,37,86.5,2,20,3,0,0,Empoli,2019-02-02 Empoli-Chievo,ITA-SERIA_A,18-19,05a8a97b
+277da414,Ivan Provedel,1,ITA,GK,24-322,90,0,0,0,0,0,0,0,0,35,0,0,0,0.0,0.0,0.0,0,0,28,34,82.4,0,11,0,0,0,Empoli,2019-02-02 Empoli-Chievo,ITA-SERIA_A,18-19,05a8a97b
+878ee034,Sergio Pellissier,31,ITA,FW,39-296,28,0,0,0,0,0,0,0,0,7,1,0,2,0.0,0.0,0.1,1,0,4,4,100.0,0,3,0,0,0,Chievo,2019-02-02 Empoli-Chievo,ITA-SERIA_A,18-19,05a8a97b
+dfb933e0,Filip Đorđević,20,SRB,FW,31-127,62,0,1,0,0,0,0,0,0,35,0,1,0,0.0,0.0,0.1,1,1,19,30,63.3,0,21,0,1,0,Chievo,2019-02-02 Empoli-Chievo,ITA-SERIA_A,18-19,05a8a97b
+7b536033,Mariusz Stępiński,9,POL,FW,23-266,90,1,0,0,0,2,1,0,0,31,0,0,0,0.8,0.8,0.0,2,0,18,23,78.3,0,21,1,0,0,Chievo,2019-02-02 Empoli-Chievo,ITA-SERIA_A,18-19,05a8a97b
+1c50f354,Emanuele Giaccherini,17,ITA,AM,33-273,90,1,0,0,0,3,1,0,0,87,1,0,0,0.2,0.2,0.2,4,1,54,75,72.0,6,54,9,3,1,Chievo,2019-02-02 Empoli-Chievo,ITA-SERIA_A,18-19,05a8a97b
+90b70194,Përparim Hetemaj,56,FIN,CM,32-052,90,0,0,0,0,1,1,0,0,48,1,0,3,0.0,0.0,0.0,3,0,33,38,86.8,4,26,1,3,2,Chievo,2019-02-02 Empoli-Chievo,ITA-SERIA_A,18-19,05a8a97b
+e327bd76,Nicola Rigoni,4,ITA,CM,28-082,90,0,0,0,0,1,0,0,0,53,0,2,2,0.2,0.2,0.0,0,0,36,44,81.8,3,21,1,0,0,Chievo,2019-02-02 Empoli-Chievo,ITA-SERIA_A,18-19,05a8a97b
+958a601f,Paweł Jaroszyński,44,POL,WB,24-123,82,0,0,0,0,0,0,1,0,57,0,3,0,0.0,0.0,0.3,3,1,31,43,72.1,3,30,2,2,2,Chievo,2019-02-02 Empoli-Chievo,ITA-SERIA_A,18-19,05a8a97b
+6378443d,Nicolas Frey,6,FRA,WB,34-333,8,0,0,0,0,0,0,0,0,9,1,0,0,0.0,0.0,0.0,1,0,4,7,57.1,1,3,0,0,0,Chievo,2019-02-02 Empoli-Chievo,ITA-SERIA_A,18-19,05a8a97b
+ce1806be,Sofian Kiyine,13,MAR,WB,21-123,57,0,0,0,0,2,0,0,0,32,0,0,3,0.1,0.1,0.0,3,0,19,25,76.0,5,24,4,4,3,Chievo,2019-02-02 Empoli-Chievo,ITA-SERIA_A,18-19,05a8a97b
+7f622eef,Assane Dioussé,8,SEN,WB,21-135,33,0,0,0,0,1,0,0,0,35,1,1,0,0.0,0.0,0.0,1,0,28,31,90.3,3,19,1,1,1,Chievo,2019-02-02 Empoli-Chievo,ITA-SERIA_A,18-19,05a8a97b
+c010b898,Federico Barba,5,ITA,CB,25-154,90,0,0,0,0,2,0,1,0,61,3,1,2,0.1,0.1,0.2,1,0,39,46,84.8,5,31,1,0,0,Chievo,2019-02-02 Empoli-Chievo,ITA-SERIA_A,18-19,05a8a97b
+47a500ae,Luca Rossettini,15,ITA,CB,33-269,90,0,0,0,0,0,0,0,0,41,1,3,0,0.0,0.0,0.0,0,0,24,28,85.7,1,15,0,0,0,Chievo,2019-02-02 Empoli-Chievo,ITA-SERIA_A,18-19,05a8a97b
+0821331c,Mattia Bani,14,ITA,CB,25-054,90,0,0,0,0,0,0,0,0,73,3,4,0,0.0,0.0,0.0,0,0,40,55,72.7,3,28,0,0,0,Chievo,2019-02-02 Empoli-Chievo,ITA-SERIA_A,18-19,05a8a97b
+048877f5,Stefano Sorrentino,70,ITA,GK,39-311,90,0,0,0,0,0,0,0,0,34,0,0,0,0.0,0.0,0.0,0,0,19,31,61.3,0,15,0,0,0,Chievo,2019-02-02 Empoli-Chievo,ITA-SERIA_A,18-19,05a8a97b

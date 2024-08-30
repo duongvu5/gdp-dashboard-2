@@ -1,0 +1,36 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+d705ba44,Andrea Belotti,11,ITA,FW,29-121,71,0,0,0,0,1,0,0,0,20,0,0,2,0.0,0.0,0.2,4,0,9,11,81.8,2,13,2,2,2,Roma,2023-04-20 Roma-Feyenoord,UEL,22-23,6ff39099
+f586779e,Tammy Abraham,9,ENG,FW,25-200,49,0,2,0,0,5,3,1,0,18,0,0,1,1.7,1.7,0.5,4,2,3,8,37.5,1,9,0,0,0,Roma,2023-04-20 Roma-Feyenoord,UEL,22-23,6ff39099
+4a5a45c7,Lorenzo Pellegrini,7,ITA,"AM,CM",26-305,120,1,1,0,0,7,3,0,0,65,5,0,1,1.6,1.6,0.3,7,3,27,44,61.4,4,31,2,1,1,Roma,2023-04-20 Roma-Feyenoord,UEL,22-23,6ff39099
+eb58eef0,Georginio Wijnaldum,25,NED,AM,32-160,20,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,3,3,100.0,1,2,0,0,0,Roma,2023-04-20 Roma-Feyenoord,UEL,22-23,6ff39099
+d3aaad90,Stephan El Shaarawy,92,ITA,AM,30-175,84,1,0,0,0,4,2,0,0,44,2,0,1,0.8,0.8,0.1,7,0,27,36,75.0,5,37,5,2,2,Roma,2023-04-20 Roma-Feyenoord,UEL,22-23,6ff39099
+a40819d9,Marash Kumbulla,24,ALB,CB,23-071,16,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,1,0,0,0,Roma,2023-04-20 Roma-Feyenoord,UEL,22-23,6ff39099
+eb7822d7,Nemanja Matić,8,SRB,CM,34-262,120,0,0,0,0,0,0,0,0,77,4,3,2,0.0,0.0,0.1,3,0,56,68,82.4,12,53,3,0,0,Roma,2023-04-20 Roma-Feyenoord,UEL,22-23,6ff39099
+16657b95,Bryan Cristante,4,ITA,CM,28-048,120,0,0,0,0,3,1,0,0,53,1,1,2,0.2,0.2,0.1,2,0,31,43,72.1,3,31,1,1,0,Roma,2023-04-20 Roma-Feyenoord,UEL,22-23,6ff39099
+3626daea,Leonardo Spinazzola,37,ITA,"WB,LB",30-026,120,1,0,0,0,2,1,0,0,76,1,0,1,0.1,0.1,0.2,8,0,49,63,77.8,3,46,14,5,3,Roma,2023-04-20 Roma-Feyenoord,UEL,22-23,6ff39099
+45191c29,Nicola Zalewski,59,POL,WB,21-087,72,0,0,0,0,0,0,0,0,39,1,0,0,0.0,0.0,0.6,4,0,23,35,65.7,0,26,2,4,2,Roma,2023-04-20 Roma-Feyenoord,UEL,22-23,6ff39099
+e0921a4f,Paulo Dybala,21,ARG,"WB,FW",29-156,48,1,0,0,0,6,3,1,0,37,0,0,1,0.3,0.3,0.6,8,1,19,24,79.2,3,19,1,3,1,Roma,2023-04-20 Roma-Feyenoord,UEL,22-23,6ff39099
+bba30585,Diego Llorente,14,ESP,CB,29-247,71,0,0,0,0,0,0,1,0,49,1,1,2,0.0,0.0,0.0,1,0,34,39,87.2,0,37,0,1,1,Roma,2023-04-20 Roma-Feyenoord,UEL,22-23,6ff39099
+82efe6fa,Roger Ibanez,3,BRA,CB,24-148,49,0,0,0,0,1,0,0,0,22,0,2,1,0.1,0.1,0.0,3,0,18,19,94.7,0,14,1,0,0,Roma,2023-04-20 Roma-Feyenoord,UEL,22-23,6ff39099
+b6964eb6,Chris Smalling,6,ENG,CB,33-149,77,0,0,0,0,1,0,0,0,52,2,1,1,0.1,0.1,0.3,1,0,40,44,90.9,1,41,0,1,0,Roma,2023-04-20 Roma-Feyenoord,UEL,22-23,6ff39099
+31a62dc7,Zeki Çelik,19,TUR,"CB,RB",26-062,43,0,0,0,0,0,0,0,0,26,1,0,0,0.0,0.0,0.0,0,0,17,23,73.9,2,17,0,1,1,Roma,2023-04-20 Roma-Feyenoord,UEL,22-23,6ff39099
+5aa53281,Gianluca Mancini,23,ITA,CB,27-003,120,0,0,0,0,3,0,0,0,85,1,1,2,0.4,0.4,0.6,3,0,60,75,80.0,11,62,1,0,0,Roma,2023-04-20 Roma-Feyenoord,UEL,22-23,6ff39099
+79b0d6a0,Rui Patrício,1,POR,GK,35-064,120,0,0,0,0,0,0,1,0,31,0,0,0,0.0,0.0,0.0,0,0,22,29,75.9,0,17,0,0,0,Roma,2023-04-20 Roma-Feyenoord,UEL,22-23,6ff39099
+37337aea,Santiago Giménez,29,MEX,FW,22-002,118,0,0,0,0,1,0,1,1,33,1,0,2,0.1,0.1,0.0,1,0,13,18,72.2,0,24,2,3,1,Feyenoord,2023-04-20 Roma-Feyenoord,UEL,22-23,6ff39099
+34caa4b3,Oussama Idrissi,26,MAR,LW,27-053,63,0,0,0,0,1,1,0,0,28,2,0,0,0.0,0.0,0.0,2,0,20,23,87.0,3,21,6,1,1,Feyenoord,2023-04-20 Roma-Feyenoord,UEL,22-23,6ff39099
+089c7323,Igor Paixão,14,BRA,"LM,LW,RM",22-296,57,1,0,0,0,2,2,0,0,17,1,0,1,0.1,0.1,0.1,2,0,8,9,88.9,1,12,2,0,0,Feyenoord,2023-04-20 Roma-Feyenoord,UEL,22-23,6ff39099
+08452314,Alireza Jahanbakhsh,7,IRN,RW,29-252,73,0,0,0,0,0,0,0,0,38,1,0,1,0.0,0.0,0.4,3,0,15,30,50.0,3,28,3,1,1,Feyenoord,2023-04-20 Roma-Feyenoord,UEL,22-23,6ff39099
+ccd38335,Danilo,9,BRA,"FW,RW",24-013,47,0,0,0,0,2,0,0,0,20,0,1,0,0.2,0.2,0.0,2,0,12,15,80.0,2,15,0,0,0,Feyenoord,2023-04-20 Roma-Feyenoord,UEL,22-23,6ff39099
+bb718263,Sebastian Szymański,17,POL,AM,23-345,90,0,1,0,0,3,2,0,0,35,0,0,1,0.4,0.4,0.1,1,1,19,27,70.4,3,20,0,0,0,Feyenoord,2023-04-20 Roma-Feyenoord,UEL,22-23,6ff39099
+596cc50e,Marcus Pedersen,2,NOR,"RM,RB",22-278,30,0,0,0,0,1,0,0,0,13,0,1,0,0.1,0.1,0.0,0,0,7,9,77.8,0,12,3,0,0,Feyenoord,2023-04-20 Roma-Feyenoord,UEL,22-23,6ff39099
+4876c9ab,Mats Wieffer,20,NED,"DM,CM",23-155,104,0,0,0,0,0,0,1,0,72,2,3,3,0.0,0.0,0.1,1,0,40,49,81.6,8,44,1,3,1,Feyenoord,2023-04-20 Roma-Feyenoord,UEL,22-23,6ff39099
+34a0f5ff,Javairô Dilrosun,11,NED,CM,24-302,16,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.1,3,0,6,7,85.7,1,9,3,1,1,Feyenoord,2023-04-20 Roma-Feyenoord,UEL,22-23,6ff39099
+9bf914b4,Orkun Kökçü,10,TUR,"DM,CM",22-112,120,0,0,0,0,3,1,0,0,96,0,0,1,0.2,0.2,0.0,7,1,75,86,87.2,17,74,4,3,1,Feyenoord,2023-04-20 Roma-Feyenoord,UEL,22-23,6ff39099
+39e1138f,Quilindschy Hartman,5,NED,LB,21-157,104,0,0,0,0,1,0,1,0,75,1,4,1,0.0,0.0,0.2,3,0,48,61,78.7,8,48,1,0,0,Feyenoord,2023-04-20 Roma-Feyenoord,UEL,22-23,6ff39099
+9b3ab988,Marcos López,15,PER,LB,23-151,16,0,0,0,0,0,0,0,0,11,1,0,0,0.0,0.0,0.0,0,0,8,9,88.9,0,4,1,0,0,Feyenoord,2023-04-20 Roma-Feyenoord,UEL,22-23,6ff39099
+4fac8f81,Dávid Hancko,33,SVK,CB,25-128,120,0,0,0,0,1,0,0,0,90,0,2,4,0.0,0.0,0.0,0,0,60,72,83.3,6,66,0,0,0,Feyenoord,2023-04-20 Roma-Feyenoord,UEL,22-23,6ff39099
+9d21da85,Gernot Trauner,18,AUT,CB,31-026,104,0,0,0,0,0,0,0,0,67,1,0,2,0.0,0.0,0.0,1,0,51,58,87.9,4,50,0,1,0,Feyenoord,2023-04-20 Roma-Feyenoord,UEL,22-23,6ff39099
+e0b5ac38,Ezequiel Bullaude,30,ARG,"CB,FW",22-176,16,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,0,2,0.0,0,1,0,0,0,Feyenoord,2023-04-20 Roma-Feyenoord,UEL,22-23,6ff39099
+242e1043,Lutsharel Geertruida,4,NED,RB,22-276,120,0,0,0,0,0,0,0,0,71,1,1,1,0.0,0.0,0.1,3,0,51,56,91.1,9,49,3,4,3,Feyenoord,2023-04-20 Roma-Feyenoord,UEL,22-23,6ff39099
+53d93280,Justin Bijlow,1,NED,GK,25-088,120,0,0,0,0,0,0,0,0,80,0,0,0,0.0,0.0,0.0,0,0,64,73,87.7,0,59,0,0,0,Feyenoord,2023-04-20 Roma-Feyenoord,UEL,22-23,6ff39099

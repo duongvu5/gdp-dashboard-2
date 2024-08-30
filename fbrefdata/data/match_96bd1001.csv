@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+527f063d,Edinson Cavani,9,URU,FW,30-337,90,1,0,0,0,3,1,0,0,32,0,1,0,0.4,0.4,1.0,7,1,18,24,75.0,3,16,0,1,1,Paris Saint-Germain,2018-01-17 Paris S-G-Dijon,FRA-L1,17-18,96bd1001
+69384e5d,Neymar,10,BRA,LW,25-346,90,4,2,1,1,10,6,0,0,103,1,0,0,2.4,1.6,1.2,10,5,61,81,75.3,10,74,8,11,7,Paris Saint-Germain,2018-01-17 Paris S-G-Dijon,FRA-L1,17-18,96bd1001
+19cda00b,Ángel Di María,11,ARG,RW,29-337,67,2,1,0,0,4,2,0,0,52,1,0,1,1.1,1.1,0.3,2,1,28,42,66.7,3,33,2,3,0,Paris Saint-Germain,2018-01-17 Paris S-G-Dijon,FRA-L1,17-18,96bd1001
+42fd9c7f,Kylian Mbappé,29,FRA,RW,19-028,23,1,0,0,0,1,1,0,0,18,0,0,0,0.3,0.3,0.1,2,0,13,15,86.7,2,14,0,2,1,Paris Saint-Germain,2018-01-17 Paris S-G-Dijon,FRA-L1,17-18,96bd1001
+1a992676,Julian Draxler,23,GER,LM,24-119,90,0,0,0,0,0,0,0,0,82,4,3,2,0.0,0.0,0.0,1,1,68,72,94.4,7,48,5,4,3,Paris Saint-Germain,2018-01-17 Paris S-G-Dijon,FRA-L1,17-18,96bd1001
+d7553721,Giovani Lo Celso,18,ARG,CM,21-283,77,0,1,0,0,0,0,0,0,109,6,1,4,0.0,0.0,0.0,3,2,84,95,88.4,6,62,5,4,4,Paris Saint-Germain,2018-01-17 Paris S-G-Dijon,FRA-L1,17-18,96bd1001
+8794e251,Adrien Rabiot,25,FRA,CM,22-289,13,0,0,0,0,0,0,0,0,14,0,0,0,0.0,0.0,0.1,1,0,14,14,100.0,2,8,0,0,0,Paris Saint-Germain,2018-01-17 Paris S-G-Dijon,FRA-L1,17-18,96bd1001
+1467af0d,Marco Verratti,6,ITA,RM,25-073,60,0,0,0,0,0,0,0,0,71,6,2,0,0.0,0.0,0.0,3,2,58,62,93.5,6,40,0,0,0,Paris Saint-Germain,2018-01-17 Paris S-G-Dijon,FRA-L1,17-18,96bd1001
+7c56da38,Christopher Nkunku,24,FRA,RM,20-064,30,0,0,0,0,2,2,0,0,27,1,0,0,0.1,0.1,0.0,1,0,22,24,91.7,2,16,0,0,0,Paris Saint-Germain,2018-01-17 Paris S-G-Dijon,FRA-L1,17-18,96bd1001
+b6e50615,Yuri Berchiche,17,ESP,LB,27-341,90,0,1,0,0,0,0,0,0,67,1,1,0,0.0,0.0,0.1,4,1,59,65,90.8,1,38,1,0,0,Paris Saint-Germain,2018-01-17 Paris S-G-Dijon,FRA-L1,17-18,96bd1001
+aef6e670,Presnel Kimpembe,3,FRA,CB,22-157,90,0,0,0,0,1,1,0,0,61,1,0,2,0.0,0.0,0.0,3,0,52,54,96.3,4,44,2,2,2,Paris Saint-Germain,2018-01-17 Paris S-G-Dijon,FRA-L1,17-18,96bd1001
+86e7deaf,Thiago Silva,2,BRA,CB,33-117,90,0,0,0,0,0,0,0,0,85,2,0,2,0.0,0.0,0.1,2,0,74,79,93.7,4,54,1,0,0,Paris Saint-Germain,2018-01-17 Paris S-G-Dijon,FRA-L1,17-18,96bd1001
+e162b013,Thomas Meunier,12,BEL,RB,26-127,90,0,0,0,0,0,0,0,0,68,4,0,0,0.0,0.0,0.0,0,0,51,60,85.0,3,38,1,2,1,Paris Saint-Germain,2018-01-17 Paris S-G-Dijon,FRA-L1,17-18,96bd1001
+2f965a72,Alphonse Areola,16,FRA,GK,24-324,90,0,0,0,0,0,0,0,0,24,0,0,0,0.0,0.0,0.0,0,0,23,23,100.0,0,13,0,0,0,Paris Saint-Germain,2018-01-17 Paris S-G-Dijon,FRA-L1,17-18,96bd1001
+2e52206e,Benjamin Jeannot,29,FRA,FW,25-360,90,0,0,0,0,1,0,0,0,34,0,0,2,0.0,0.0,0.0,0,0,17,22,77.3,0,19,0,2,1,Dijon,2018-01-17 Paris S-G-Dijon,FRA-L1,17-18,96bd1001
+90fcf472,Wesley Saïd,9,FRA,LM,22-273,90,0,0,0,0,1,0,0,0,34,3,2,1,0.0,0.0,0.0,0,0,17,24,70.8,3,24,2,1,1,Dijon,2018-01-17 Paris S-G-Dijon,FRA-L1,17-18,96bd1001
+f3600c02,Xeka,28,POR,CM,23-068,71,0,0,0,0,0,0,0,0,32,2,1,0,0.0,0.0,0.0,0,0,20,26,76.9,3,22,0,0,0,Dijon,2018-01-17 Paris S-G-Dijon,FRA-L1,17-18,96bd1001
+4e7bfc23,Florent Balmont,15,FRA,CM,37-349,19,0,0,0,0,0,0,0,0,11,1,0,0,0.0,0.0,0.0,0,0,8,10,80.0,0,6,0,0,0,Dijon,2018-01-17 Paris S-G-Dijon,FRA-L1,17-18,96bd1001
+0d2158d5,Jordan Marié,14,FRA,CM,26-110,90,0,0,0,0,2,0,0,0,35,4,3,1,0.0,0.0,0.0,1,0,21,24,87.5,4,24,1,0,0,Dijon,2018-01-17 Paris S-G-Dijon,FRA-L1,17-18,96bd1001
+7961f7aa,Kwon Chang-hoon,22,KOR,RM,23-201,90,0,0,0,0,1,0,0,0,34,2,3,2,0.0,0.0,0.1,2,0,14,21,66.7,3,21,2,2,0,Dijon,2018-01-17 Paris S-G-Dijon,FRA-L1,17-18,96bd1001
+a4c3f7af,Mehdi Abeid,8,ALG,DM,25-164,61,0,0,0,0,1,1,0,0,36,1,2,0,0.0,0.0,0.0,1,0,28,31,90.3,0,33,0,0,0,Dijon,2018-01-17 Paris S-G-Dijon,FRA-L1,17-18,96bd1001
+639b42f5,Eden Massouema,21,CGO,DM,20-202,29,0,0,0,0,0,0,1,0,15,1,0,0,0.0,0.0,0.0,0,0,7,11,63.6,0,10,0,1,1,Dijon,2018-01-17 Paris S-G-Dijon,FRA-L1,17-18,96bd1001
+edd1466a,Fouad Chafik,26,MAR,LB,31-093,90,0,0,0,0,0,0,0,0,31,4,0,0,0.0,0.0,0.0,1,0,16,21,76.2,2,18,1,3,2,Dijon,2018-01-17 Paris S-G-Dijon,FRA-L1,17-18,96bd1001
+1c344204,Cédric Yamberé,18,CTA,CB,27-072,90,0,0,0,0,0,0,0,0,36,1,3,0,0.0,0.0,0.0,2,0,18,28,64.3,1,27,1,0,0,Dijon,2018-01-17 Paris S-G-Dijon,FRA-L1,17-18,96bd1001
+8cb8dc58,Cédric Varrault,27,FRA,CB,37-352,45,0,0,0,0,0,0,0,0,20,1,1,1,0.0,0.0,0.0,2,0,11,15,73.3,1,13,0,0,0,Dijon,2018-01-17 Paris S-G-Dijon,FRA-L1,17-18,96bd1001
+ec400194,Oussama Haddadi,5,TUN,CB,25-354,45,0,0,0,0,0,0,0,0,18,0,0,2,0.0,0.0,0.0,0,0,7,11,63.6,0,9,0,0,0,Dijon,2018-01-17 Paris S-G-Dijon,FRA-L1,17-18,96bd1001
+9b6d9b53,Valentin Rosier,19,FRA,RB,21-151,90,0,0,0,0,0,0,0,0,53,3,3,1,0.0,0.0,0.0,0,0,30,45,66.7,2,34,2,3,3,Dijon,2018-01-17 Paris S-G-Dijon,FRA-L1,17-18,96bd1001
+bcf1b2e9,Baptiste Reynet,30,FRA,GK,27-081,90,0,0,0,0,0,0,0,0,40,0,0,1,0.0,0.0,0.0,0,0,21,32,65.6,0,16,0,0,0,Dijon,2018-01-17 Paris S-G-Dijon,FRA-L1,17-18,96bd1001

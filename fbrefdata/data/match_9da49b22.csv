@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+4f16405e,Niclas Füllkrug,14,GER,FW,31-016,74,0,0,0,0,3,1,0,0,22,2,0,2,0.2,0.2,0.0,1,0,9,14,64.3,1,11,1,0,0,Dortmund,2024-02-25 Dortmund-Hoffenheim,GER-BL1,23-24,9da49b22
+6ce43701,Youssoufa Moukoko,18,GER,FW,19-097,16,0,0,0,0,0,0,0,0,6,1,0,0,0.0,0.0,0.0,1,0,1,2,50.0,1,5,1,1,0,Dortmund,2024-02-25 Dortmund-Hoffenheim,GER-BL1,23-24,9da49b22
+116c35df,Donyell Malen,21,NED,"LW,FW",25-047,90,1,0,0,0,4,2,1,0,37,0,0,0,0.6,0.6,0.1,1,0,19,29,65.5,2,29,2,2,1,Dortmund,2024-02-25 Dortmund-Hoffenheim,GER-BL1,23-24,9da49b22
+dbf053da,Jadon Sancho,10,ENG,RW,23-337,74,0,0,0,0,0,0,0,0,53,0,0,3,0.0,0.0,0.2,7,0,40,46,87.0,6,39,6,5,4,Dortmund,2024-02-25 Dortmund-Hoffenheim,GER-BL1,23-24,9da49b22
+10745192,Jamie Gittens,43,ENG,"RW,WB",19-201,16,0,0,0,0,0,0,0,0,14,1,0,1,0.0,0.0,0.1,1,0,9,11,81.8,0,9,1,2,0,Dortmund,2024-02-25 Dortmund-Hoffenheim,GER-BL1,23-24,9da49b22
+36a3ff67,Marco Reus,11,GER,AM,34-270,86,0,2,0,0,3,1,0,0,60,1,1,0,0.2,0.2,0.9,4,3,45,51,88.2,7,29,2,0,0,Dortmund,2024-02-25 Dortmund-Hoffenheim,GER-BL1,23-24,9da49b22
+b06a7ae9,Julien Duranville,16,BEL,AM,17-296,4,0,0,0,0,0,0,0,0,10,1,0,0,0.0,0.0,0.0,0,0,0,2,0.0,0,6,1,3,2,Dortmund,2024-02-25 Dortmund-Hoffenheim,GER-BL1,23-24,9da49b22
+e280527c,Marcel Sabitzer,20,AUT,"DM,CM",29-345,90,0,0,0,0,6,2,1,0,84,0,0,0,0.2,0.2,0.1,6,0,64,73,87.7,12,51,2,2,2,Dortmund,2024-02-25 Dortmund-Hoffenheim,GER-BL1,23-24,9da49b22
+a167537f,Julian Brandt,19,GER,"DM,CM",27-299,90,0,0,0,0,0,0,0,0,100,0,0,0,0.0,0.0,0.2,6,1,81,95,85.3,3,59,5,1,1,Dortmund,2024-02-25 Dortmund-Hoffenheim,GER-BL1,23-24,9da49b22
+cab9634e,Ian Maatsen,22,NED,LB,21-352,74,0,0,0,0,1,0,0,0,67,1,0,1,0.0,0.0,0.0,1,0,54,63,85.7,3,44,2,1,1,Dortmund,2024-02-25 Dortmund-Hoffenheim,GER-BL1,23-24,9da49b22
+501055d8,Karim Adeyemi,27,GER,"LB,WB",22-038,16,0,0,0,0,1,0,0,0,17,0,0,0,0.0,0.0,0.0,1,0,8,15,53.3,0,8,3,1,1,Dortmund,2024-02-25 Dortmund-Hoffenheim,GER-BL1,23-24,9da49b22
+34e12499,Nico Schlotterbeck,4,GER,CB,24-086,90,1,0,0,0,2,1,0,0,117,4,0,4,0.5,0.5,0.1,1,0,93,102,91.2,10,74,1,0,0,Dortmund,2024-02-25 Dortmund-Hoffenheim,GER-BL1,23-24,9da49b22
+a65ce836,Emre Can,23,GER,CB,30-044,90,0,0,0,0,1,0,0,0,114,3,0,1,0.1,0.1,0.0,0,0,93,105,88.6,3,70,3,0,0,Dortmund,2024-02-25 Dortmund-Hoffenheim,GER-BL1,23-24,9da49b22
+009a4f60,Julian Ryerson,26,NOR,RB,26-100,78,0,0,0,0,0,0,0,0,83,0,1,1,0.0,0.0,0.0,1,0,73,77,94.8,9,63,4,5,2,Dortmund,2024-02-25 Dortmund-Hoffenheim,GER-BL1,23-24,9da49b22
+05d548d8,Mats Hummels,15,GER,"CB,RB",35-071,12,0,0,0,0,0,0,0,0,9,0,0,1,0.0,0.0,0.0,0,0,8,8,100.0,2,6,0,1,1,Dortmund,2024-02-25 Dortmund-Hoffenheim,GER-BL1,23-24,9da49b22
+b56dd813,Alexander Meyer,33,GER,GK,32-318,90,0,0,0,0,0,0,0,0,40,0,0,0,0.0,0.0,0.0,0,0,34,39,87.2,0,26,0,0,0,Dortmund,2024-02-25 Dortmund-Hoffenheim,GER-BL1,23-24,9da49b22
+5db45ee5,Maximilian Beier,14,GER,FW,21-131,78,2,0,0,0,3,2,0,0,17,2,0,0,0.6,0.6,0.0,1,0,7,9,77.8,0,10,2,1,0,Hoffenheim,2024-02-25 Dortmund-Hoffenheim,GER-BL1,23-24,9da49b22
+c4e87b8b,Wout Weghorst,10,NED,FW,31-202,12,0,0,0,0,0,0,0,0,11,1,1,1,0.0,0.0,0.0,0,0,1,5,20.0,1,4,0,0,0,Hoffenheim,2024-02-25 Dortmund-Hoffenheim,GER-BL1,23-24,9da49b22
+a53b661f,Ihlas Bebou,9,TOG,FW,29-308,78,1,0,0,0,2,1,0,0,19,0,1,0,0.2,0.2,0.0,2,1,7,12,58.3,1,12,2,2,1,Hoffenheim,2024-02-25 Dortmund-Hoffenheim,GER-BL1,23-24,9da49b22
+ab5b7dc1,Marius Bülter,21,GER,FW,30-333,12,0,0,0,0,0,0,0,0,12,1,0,1,0.0,0.0,0.0,0,0,2,5,40.0,1,9,0,0,0,Hoffenheim,2024-02-25 Dortmund-Hoffenheim,GER-BL1,23-24,9da49b22
+603cb947,Andrej Kramarić,27,CRO,AM,32-251,66,0,0,0,0,0,0,0,0,31,1,0,1,0.0,0.0,0.0,3,1,20,28,71.4,1,20,0,0,0,Hoffenheim,2024-02-25 Dortmund-Hoffenheim,GER-BL1,23-24,9da49b22
+37f606f0,Dennis Geiger,8,GER,"CM,AM",25-260,24,0,0,0,0,0,0,1,0,1,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,1,0,0,0,Hoffenheim,2024-02-25 Dortmund-Hoffenheim,GER-BL1,23-24,9da49b22
+e547d3cf,Umut Tohumcu,40,GER,CM,19-198,78,0,0,0,0,1,1,1,0,23,0,0,2,0.1,0.1,0.0,0,0,9,14,64.3,1,13,1,0,0,Hoffenheim,2024-02-25 Dortmund-Hoffenheim,GER-BL1,23-24,9da49b22
+dd2e62da,Finn Ole Becker,20,GER,CM,23-262,12,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,0,0,6,7,85.7,0,3,0,1,0,Hoffenheim,2024-02-25 Dortmund-Hoffenheim,GER-BL1,23-24,9da49b22
+0f59a7bf,Anton Stach,16,GER,CM,25-102,90,0,1,0,0,1,0,0,0,54,2,2,3,0.0,0.0,0.8,2,1,29,37,78.4,6,23,3,3,0,Hoffenheim,2024-02-25 Dortmund-Hoffenheim,GER-BL1,23-24,9da49b22
+ff98492b,Robert Skov,29,DEN,WB,27-281,48,0,0,0,0,0,0,0,0,32,2,0,0,0.0,0.0,0.1,1,0,20,25,80.0,2,17,0,1,0,Hoffenheim,2024-02-25 Dortmund-Hoffenheim,GER-BL1,23-24,9da49b22
+d7a03bf3,David Jurásek,19,CZE,WB,23-202,42,0,0,0,0,0,0,0,0,19,3,0,0,0.0,0.0,0.0,1,0,7,10,70.0,1,5,1,0,0,Hoffenheim,2024-02-25 Dortmund-Hoffenheim,GER-BL1,23-24,9da49b22
+79c90e45,Pavel Kadeřábek,3,CZE,WB,31-306,90,0,0,0,0,1,0,0,0,46,0,0,1,0.1,0.1,0.0,2,0,28,38,73.7,7,20,0,0,0,Hoffenheim,2024-02-25 Dortmund-Hoffenheim,GER-BL1,23-24,9da49b22
+e27da244,John Brooks,23,USA,CB,31-028,90,0,0,0,0,1,1,1,0,48,1,2,2,0.2,0.2,0.0,0,0,25,34,73.5,5,23,1,1,1,Hoffenheim,2024-02-25 Dortmund-Hoffenheim,GER-BL1,23-24,9da49b22
+ffbbc83b,Florian Grillitsch,11,AUT,CB,28-202,90,0,1,0,0,0,0,0,0,50,2,2,1,0.0,0.0,0.0,2,2,30,35,85.7,1,27,0,0,0,Hoffenheim,2024-02-25 Dortmund-Hoffenheim,GER-BL1,23-24,9da49b22
+2d61d13a,Ozan Kabak,5,TUR,CB,23-337,90,0,0,0,0,0,0,0,0,49,5,2,3,0.0,0.0,0.0,0,0,21,29,72.4,1,16,0,0,0,Hoffenheim,2024-02-25 Dortmund-Hoffenheim,GER-BL1,23-24,9da49b22
+47064058,Oliver Baumann,1,GER,GK,33-268,90,0,0,0,0,0,0,0,0,36,0,0,0,0.0,0.0,0.0,0,0,24,33,72.7,0,19,0,0,0,Hoffenheim,2024-02-25 Dortmund-Hoffenheim,GER-BL1,23-24,9da49b22

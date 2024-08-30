@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+0fe7f7bc,Giovanni Sio,14,CIV,FW,28-162,83,0,0,0,0,4,1,0,1,30,0,0,2,0.2,0.2,0.0,1,0,11,18,61.1,1,16,0,3,1,Montpellier,2017-09-09 Montpellier-Nantes,FRA-L1,17-18,ea63e8ef
+3250c6cd,Kévin Bérigaud,11,FRA,FW,29-123,81,0,0,0,0,0,0,0,0,25,1,0,1,0.0,0.0,0.0,4,0,17,20,85.0,1,13,1,2,1,Montpellier,2017-09-09 Montpellier-Nantes,FRA-L1,17-18,ea63e8ef
+c58270f8,Souleymane Camara,19,SEN,FW,34-261,9,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,0,0,Montpellier,2017-09-09 Montpellier-Nantes,FRA-L1,17-18,ea63e8ef
+42eaa028,Jonathan Ikone,9,FRA,LM,19-130,64,0,0,0,0,1,1,0,0,39,1,1,0,0.0,0.0,0.0,3,0,22,31,71.0,2,25,4,6,4,Montpellier,2017-09-09 Montpellier-Nantes,FRA-L1,17-18,ea63e8ef
+ccb1c3af,Keagan Dolly,20,RSA,LM,24-230,26,0,0,0,0,1,0,0,0,19,1,0,0,0.0,0.0,0.2,3,0,13,15,86.7,2,8,0,2,1,Montpellier,2017-09-09 Montpellier-Nantes,FRA-L1,17-18,ea63e8ef
+542cc80f,Paul Lasne,7,FRA,CM,28-236,90,0,0,0,0,2,1,0,0,81,4,1,0,0.0,0.0,0.0,0,0,48,67,71.6,7,44,1,1,1,Montpellier,2017-09-09 Montpellier-Nantes,FRA-L1,17-18,ea63e8ef
+c2211709,Ellyes Skhiri,13,TUN,CM,22-122,90,0,0,0,0,1,0,0,0,70,2,1,6,0.0,0.0,0.1,3,0,44,48,91.7,7,23,0,0,0,Montpellier,2017-09-09 Montpellier-Nantes,FRA-L1,17-18,ea63e8ef
+aa1a8c7e,Isaac Mbenza,18,BEL,RM,21-185,71,0,0,0,0,0,0,0,0,50,0,0,0,0.0,0.0,0.1,2,0,28,43,65.1,5,28,4,0,0,Montpellier,2017-09-09 Montpellier-Nantes,FRA-L1,17-18,ea63e8ef
+91f2da4c,Casimir Ninga,29,CHA,RM,24-115,19,0,0,0,0,1,0,0,0,13,0,0,0,0.1,0.1,0.0,1,0,5,9,55.6,0,7,1,1,0,Montpellier,2017-09-09 Montpellier-Nantes,FRA-L1,17-18,ea63e8ef
+13203c45,Jérôme Roussillon,24,FRA,LB,24-246,90,0,0,0,0,1,0,0,0,92,1,2,1,0.0,0.0,0.0,1,0,63,85,74.1,12,43,7,3,2,Montpellier,2017-09-09 Montpellier-Nantes,FRA-L1,17-18,ea63e8ef
+c4bbea9f,Vitorino Hilton,4,BRA,CB,39-361,90,0,0,0,0,0,0,0,0,66,1,4,0,0.0,0.0,0.0,0,0,50,57,87.7,3,32,1,0,0,Montpellier,2017-09-09 Montpellier-Nantes,FRA-L1,17-18,ea63e8ef
+6690ef25,Pedro Mendes,5,POR,CB,26-343,90,0,0,0,0,0,0,0,0,60,2,2,1,0.0,0.0,0.0,0,0,44,52,84.6,4,22,0,0,0,Montpellier,2017-09-09 Montpellier-Nantes,FRA-L1,17-18,ea63e8ef
+ac73ec79,Nordi Mukiele,23,FRA,RB,19-312,90,0,0,0,0,0,0,1,0,117,0,0,2,0.0,0.0,0.1,4,0,83,109,76.1,14,55,2,4,3,Montpellier,2017-09-09 Montpellier-Nantes,FRA-L1,17-18,ea63e8ef
+2fa2a875,Benjamin Lecomte,40,FRA,GK,26-136,90,0,0,0,0,0,0,0,0,26,0,0,0,0.0,0.0,0.0,0,0,21,25,84.0,0,15,0,0,0,Montpellier,2017-09-09 Montpellier-Nantes,FRA-L1,17-18,ea63e8ef
+5d59e0df,Emiliano Sala,9,ARG,FW,26-313,73,0,0,0,0,2,0,1,0,29,0,0,0,0.1,0.1,0.1,3,0,15,22,68.2,1,18,1,0,0,Nantes,2017-09-09 Montpellier-Nantes,FRA-L1,17-18,ea63e8ef
+9980269a,Kalifa Coulibaly,26,MLI,FW,26-019,17,0,0,0,0,0,0,0,0,10,1,0,0,0.0,0.0,0.0,1,0,6,7,85.7,1,3,0,0,0,Nantes,2017-09-09 Montpellier-Nantes,FRA-L1,17-18,ea63e8ef
+0f52f925,Lucas Lima,6,BRA,LW,25-334,62,0,0,0,0,1,0,0,0,37,2,0,1,0.0,0.0,0.2,3,0,16,27,59.3,1,17,1,0,0,Nantes,2017-09-09 Montpellier-Nantes,FRA-L1,17-18,ea63e8ef
+56b52c4e,Najib Gandi,29,FRA,LW,23-078,28,0,0,0,0,1,0,1,0,22,2,1,2,0.0,0.0,0.0,0,0,7,9,77.8,1,11,1,2,2,Nantes,2017-09-09 Montpellier-Nantes,FRA-L1,17-18,ea63e8ef
+f352a2db,Jules Iloki,7,FRA,RW,25-238,70,0,0,0,0,0,0,0,0,36,0,0,1,0.0,0.0,0.1,4,0,18,25,72.0,4,22,0,1,1,Nantes,2017-09-09 Montpellier-Nantes,FRA-L1,17-18,ea63e8ef
+0049d544,Yassine El Ghanassy,14,BEL,RW,27-059,20,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,3,2,4,4,100.0,1,6,1,3,2,Nantes,2017-09-09 Montpellier-Nantes,FRA-L1,17-18,ea63e8ef
+c76b7567,Adrien Thomasson,8,FRA,AM,23-273,90,0,0,0,0,3,1,0,0,54,1,1,1,0.2,0.2,0.2,5,0,31,45,68.9,5,33,1,1,1,Nantes,2017-09-09 Montpellier-Nantes,FRA-L1,17-18,ea63e8ef
+ef7cd87a,Abdoulaye Touré,19,GUI,DM,23-190,90,0,0,0,0,2,1,0,0,54,0,1,2,0.1,0.1,0.0,0,0,30,43,69.8,6,22,1,2,2,Nantes,2017-09-09 Montpellier-Nantes,FRA-L1,17-18,ea63e8ef
+3befc2b6,Andrei Girotto,20,BRA,DM,25-204,90,0,0,0,0,2,1,0,0,46,3,1,0,0.2,0.2,0.0,1,0,25,39,64.1,3,23,1,0,0,Nantes,2017-09-09 Montpellier-Nantes,FRA-L1,17-18,ea63e8ef
+933d3b51,Koffi Djidji,5,CIV,LB,24-283,90,0,0,0,0,0,0,0,0,49,1,1,0,0.0,0.0,0.0,0,0,31,40,77.5,1,22,1,0,0,Nantes,2017-09-09 Montpellier-Nantes,FRA-L1,17-18,ea63e8ef
+779847d6,Nicolas Pallois,4,FRA,CB,29-355,90,0,0,0,0,0,0,0,0,35,0,2,1,0.0,0.0,0.0,0,0,11,19,57.9,1,10,0,0,0,Nantes,2017-09-09 Montpellier-Nantes,FRA-L1,17-18,ea63e8ef
+b4a014b1,Diego Carlos,3,BRA,CB,24-178,90,1,0,0,0,1,1,0,0,45,5,2,2,0.1,0.1,0.0,1,0,19,23,82.6,4,16,0,0,0,Nantes,2017-09-09 Montpellier-Nantes,FRA-L1,17-18,ea63e8ef
+ff0ab48c,Leo Dubois,15,FRA,RB,22-360,90,0,0,0,0,0,0,0,0,49,0,0,0,0.0,0.0,0.0,1,0,26,46,56.5,5,23,2,0,0,Nantes,2017-09-09 Montpellier-Nantes,FRA-L1,17-18,ea63e8ef
+b056e3da,Ciprian Tătărușanu,30,ROU,GK,31-212,90,0,0,0,0,0,0,0,0,32,0,0,0,0.0,0.0,0.0,0,0,19,29,65.5,0,13,0,0,0,Nantes,2017-09-09 Montpellier-Nantes,FRA-L1,17-18,ea63e8ef

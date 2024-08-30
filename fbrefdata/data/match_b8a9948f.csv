@@ -1,0 +1,32 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+42fd9c7f,Kylian Mbappé,7,FRA,FW,22-147,76,1,0,0,0,10,4,0,0,54,0,0,0,1.9,1.9,0.4,4,1,35,40,87.5,3,37,5,1,1,Paris Saint-Germain,2021-05-16 Paris S-G-Reims,FRA-L1,20-21,b8a9948f
+3d50bcdb,Moise Kean,18,ITA,FW,21-077,14,1,0,0,0,2,1,0,0,5,0,0,0,0.1,0.1,0.0,1,0,2,2,100.0,0,4,1,1,1,Paris Saint-Germain,2021-05-16 Paris S-G-Reims,FRA-L1,20-21,b8a9948f
+1a992676,Julian Draxler,23,GER,LW,27-238,39,0,0,0,0,1,0,0,0,21,0,2,0,0.0,0.0,0.0,1,0,15,18,83.3,1,16,2,0,0,Paris Saint-Germain,2021-05-16 Paris S-G-Reims,FRA-L1,20-21,b8a9948f
+0c2ac3cb,Rafinha,12,BRA,LW,28-093,51,0,0,0,0,1,0,0,0,45,3,2,0,0.0,0.0,0.0,4,1,38,39,97.4,7,35,2,0,0,Paris Saint-Germain,2021-05-16 Paris S-G-Reims,FRA-L1,20-21,b8a9948f
+19cda00b,Ángel Di María,11,ARG,RW,33-091,76,0,0,0,0,7,1,0,0,82,0,0,0,0.5,0.5,0.9,9,0,58,74,78.4,15,61,8,0,0,Paris Saint-Germain,2021-05-16 Paris S-G-Reims,FRA-L1,20-21,b8a9948f
+9744ff80,Pablo Sarabia,19,ESP,RW,29-005,14,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,5,7,71.4,0,7,0,0,0,Paris Saint-Germain,2021-05-16 Paris S-G-Reims,FRA-L1,20-21,b8a9948f
+69384e5d,Neymar,10,BRA,AM,29-100,90,1,1,1,1,3,1,0,0,91,3,0,0,1.0,0.2,1.0,15,2,59,71,83.1,14,71,9,10,6,Paris Saint-Germain,2021-05-16 Paris S-G-Reims,FRA-L1,20-21,b8a9948f
+8fd9996f,Danilo Pereira,15,POR,DM,29-249,76,0,0,0,0,0,0,0,0,71,1,8,0,0.0,0.0,0.0,3,0,60,61,98.4,6,49,0,0,0,Paris Saint-Germain,2021-05-16 Paris S-G-Reims,FRA-L1,20-21,b8a9948f
+dff153a4,Leandro Paredes,8,ARG,DM,26-321,14,0,0,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.0,0,0,10,11,90.9,1,9,1,0,0,Paris Saint-Germain,2021-05-16 Paris S-G-Reims,FRA-L1,20-21,b8a9948f
+436a9dd0,Ander Herrera,21,ESP,DM,31-275,90,0,0,0,0,2,0,0,0,94,0,1,1,0.1,0.1,0.1,2,0,82,85,96.5,10,70,1,1,1,Paris Saint-Germain,2021-05-16 Paris S-G-Reims,FRA-L1,20-21,b8a9948f
+a8567629,Mitchel Bakker,25,NED,LB,20-330,90,0,0,0,0,0,0,0,0,77,2,2,0,0.0,0.0,0.1,1,0,66,71,93.0,1,51,1,1,0,Paris Saint-Germain,2021-05-16 Paris S-G-Reims,FRA-L1,20-21,b8a9948f
+51dbeea9,Thilo Kehrer,4,GER,CB,24-237,90,0,0,0,0,0,0,0,0,61,2,1,0,0.0,0.0,0.0,0,0,55,56,98.2,3,40,0,0,0,Paris Saint-Germain,2021-05-16 Paris S-G-Reims,FRA-L1,20-21,b8a9948f
+d5f2f82b,Marquinhos,5,BRA,CB,27-002,90,1,0,0,0,1,1,0,0,54,1,2,0,0.3,0.3,0.0,1,0,40,42,95.2,6,39,0,0,0,Paris Saint-Germain,2021-05-16 Paris S-G-Reims,FRA-L1,20-21,b8a9948f
+29c02c9f,Colin Dagba,31,FRA,RB,22-249,85,0,0,0,0,0,0,0,0,42,1,0,0,0.0,0.0,0.1,2,0,38,41,92.7,4,28,1,1,1,Paris Saint-Germain,2021-05-16 Paris S-G-Reims,FRA-L1,20-21,b8a9948f
+f8ce97ca,Timothee Pembele,32,FRA,RB,18-249,5,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,1,1,2,3,66.7,1,2,1,0,0,Paris Saint-Germain,2021-05-16 Paris S-G-Reims,FRA-L1,20-21,b8a9948f
+ecada4fc,Keylor Navas,1,CRC,GK,34-152,90,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,0,0,9,10,90.0,0,5,0,0,0,Paris Saint-Germain,2021-05-16 Paris S-G-Reims,FRA-L1,20-21,b8a9948f
+244bc2c8,Boulaye Dia,11,SEN,FW,24-181,72,0,0,0,0,1,0,0,0,26,2,1,0,0.0,0.0,0.0,1,0,16,19,84.2,1,13,1,0,0,Reims,2021-05-16 Paris S-G-Reims,FRA-L1,20-21,b8a9948f
+47c609d5,El Bilal Touré,27,MLI,FW,19-225,18,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,7,9,77.8,0,4,1,2,2,Reims,2021-05-16 Paris S-G-Reims,FRA-L1,20-21,b8a9948f
+2a657da0,Mathieu Cafaro,24,FRA,LM,24-052,55,0,0,0,0,0,0,0,0,20,2,1,0,0.0,0.0,0.0,0,0,5,11,45.5,1,9,1,1,0,Reims,2021-05-16 Paris S-G-Reims,FRA-L1,20-21,b8a9948f
+095e4199,Arber Zeneli,10,KVX,LM,26-080,35,0,0,0,0,0,0,0,0,21,1,0,0,0.0,0.0,0.0,0,0,13,15,86.7,1,15,1,1,0,Reims,2021-05-16 Paris S-G-Reims,FRA-L1,20-21,b8a9948f
+279ddf6a,Xavier Chavalerin,7,FRA,CM,30-070,90,0,0,0,0,1,0,0,0,70,6,4,1,0.0,0.0,0.0,0,0,52,55,94.5,6,40,1,1,1,Reims,2021-05-16 Paris S-G-Reims,FRA-L1,20-21,b8a9948f
+2acf0cd7,Marshall Munetsi,15,ZIM,"CB,CM",24-328,90,0,0,0,0,0,0,0,0,59,3,2,3,0.0,0.0,0.0,0,0,37,43,86.0,0,31,0,0,0,Reims,2021-05-16 Paris S-G-Reims,FRA-L1,20-21,b8a9948f
+46750e9c,Nathanael Mbuku,21,FRA,RM,19-061,83,0,0,0,0,0,0,0,0,36,3,0,0,0.0,0.0,0.0,1,0,24,28,85.7,4,25,2,4,3,Reims,2021-05-16 Paris S-G-Reims,FRA-L1,20-21,b8a9948f
+1b6862e8,Dereck Kutesa,8,SUI,RM,23-161,7,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,2,0,1,0,Reims,2021-05-16 Paris S-G-Reims,FRA-L1,20-21,b8a9948f
+f54d2149,Moreto Cassamã,23,GNB,DM,23-089,90,0,0,0,0,0,0,0,0,97,6,1,1,0.0,0.0,0.0,1,0,74,86,86.0,7,70,0,2,1,Reims,2021-05-16 Paris S-G-Reims,FRA-L1,20-21,b8a9948f
+6b2c894b,Ghislain Konan,3,CIV,LB,25-140,90,0,0,0,0,0,0,0,0,54,0,1,0,0.0,0.0,0.0,0,0,40,47,85.1,4,40,3,3,2,Reims,2021-05-16 Paris S-G-Reims,FRA-L1,20-21,b8a9948f
+32c2d95f,Yunis Abdelhamid,5,MAR,CB,33-230,9,0,0,0,0,0,0,0,1,9,0,0,0,0.0,0.0,0.0,0,0,7,8,87.5,0,8,0,0,0,Reims,2021-05-16 Paris S-G-Reims,FRA-L1,20-21,b8a9948f
+9c221d14,Wout Faes,2,BEL,CB,23-043,90,0,0,0,0,0,0,0,0,51,0,0,3,0.0,0.0,0.0,0,0,35,39,89.7,1,30,1,1,0,Reims,2021-05-16 Paris S-G-Reims,FRA-L1,20-21,b8a9948f
+90eb507d,Thomas Foket,32,BEL,RB,26-233,90,0,0,0,0,0,0,0,0,67,1,1,0,0.0,0.0,0.0,1,0,54,61,88.5,2,46,3,4,3,Reims,2021-05-16 Paris S-G-Reims,FRA-L1,20-21,b8a9948f
+58ad9383,Predrag Rajković,1,SRB,GK,25-197,90,0,0,0,0,0,0,0,0,50,0,0,0,0.0,0.0,0.0,0,0,32,44,72.7,0,23,0,0,0,Reims,2021-05-16 Paris S-G-Reims,FRA-L1,20-21,b8a9948f

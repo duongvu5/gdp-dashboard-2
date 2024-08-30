@@ -1,0 +1,31 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+34e4343c,Anthony Modeste,14,FRA,FW,32-312,58,0,0,0,0,3,0,0,0,15,0,0,0,0.2,0.2,0.0,0,0,4,10,40.0,0,12,2,0,0,Saint-Étienne,2021-02-20 Saint-Étienne-Reims,FRA-L1,20-21,01026fa4
+469d3d84,Charles Abi,9,FRA,FW,20-314,32,1,0,0,0,1,1,0,0,12,0,1,0,0.2,0.2,0.0,0,0,3,6,50.0,0,6,0,0,0,Saint-Étienne,2021-02-20 Saint-Étienne-Reims,FRA-L1,20-21,01026fa4
+2677a1de,Wahbi Khazri,10,TUN,LM,30-012,45,0,0,0,0,1,1,0,0,24,4,0,0,0.0,0.0,0.0,0,0,5,9,55.6,3,16,3,6,2,Saint-Étienne,2021-02-20 Saint-Étienne-Reims,FRA-L1,20-21,01026fa4
+7b9a9e25,Arnaud Nordin,18,FRA,LM,22-248,45,0,0,0,0,1,1,0,0,23,1,0,0,0.0,0.0,0.3,3,0,11,15,73.3,2,15,1,1,1,Saint-Étienne,2021-02-20 Saint-Étienne-Reims,FRA-L1,20-21,01026fa4
+0ad37003,Yvan Neyou,19,CMR,CM,24-048,90,0,0,0,0,2,0,0,0,54,1,3,0,0.1,0.1,0.0,5,0,31,42,73.8,4,37,2,3,2,Saint-Étienne,2021-02-20 Saint-Étienne-Reims,FRA-L1,20-21,01026fa4
+8577e60a,Mahdi Camara,8,FRA,CM,22-235,78,0,0,0,0,1,1,0,0,45,2,3,2,0.0,0.0,0.0,1,0,23,34,67.6,0,31,4,2,0,Saint-Étienne,2021-02-20 Saint-Étienne-Reims,FRA-L1,20-21,01026fa4
+e2f9bb5f,Zaydou Youssouf,28,FRA,CM,21-224,12,0,0,0,0,0,0,0,0,7,0,1,0,0.0,0.0,0.0,0,0,5,6,83.3,0,7,0,0,0,Saint-Étienne,2021-02-20 Saint-Étienne-Reims,FRA-L1,20-21,01026fa4
+0b0cbe5b,Denis Bouanga,20,GAB,RM,26-101,90,0,0,0,0,4,1,0,0,42,1,2,1,0.9,0.9,0.1,6,0,18,29,62.1,4,27,2,1,1,Saint-Étienne,2021-02-20 Saint-Étienne-Reims,FRA-L1,20-21,01026fa4
+3cd7820a,Lucas Gourna-Douath,33,FRA,DM,17-199,45,0,0,0,0,0,0,0,0,37,2,2,0,0.0,0.0,0.0,2,0,26,30,86.7,1,26,1,1,0,Saint-Étienne,2021-02-20 Saint-Étienne-Reims,FRA-L1,20-21,01026fa4
+b94b8be1,Adil Aouchiche,17,FRA,DM,18-220,45,0,0,0,0,3,2,0,0,26,1,0,0,0.4,0.4,0.0,4,0,12,20,60.0,4,16,0,1,1,Saint-Étienne,2021-02-20 Saint-Étienne-Reims,FRA-L1,20-21,01026fa4
+e4b72e34,Miguel Trauco,13,PER,LB,28-179,90,0,0,0,0,0,0,0,0,82,2,0,0,0.0,0.0,0.0,2,0,56,77,72.7,7,46,1,3,1,Saint-Étienne,2021-02-20 Saint-Étienne-Reims,FRA-L1,20-21,01026fa4
+8bc373ea,Pape Abou Cissé,6,SEN,CB,25-159,90,0,0,0,0,0,0,0,0,57,0,1,0,0.0,0.0,0.0,1,0,39,52,75.0,5,38,0,0,0,Saint-Étienne,2021-02-20 Saint-Étienne-Reims,FRA-L1,20-21,01026fa4
+5f26e0c5,Harold Moukoudi,2,CMR,CB,23-085,90,0,0,0,0,1,0,0,0,54,5,1,0,0.1,0.1,0.0,1,1,39,44,88.6,1,37,3,0,0,Saint-Étienne,2021-02-20 Saint-Étienne-Reims,FRA-L1,20-21,01026fa4
+92232aad,Mathieu Debuchy,26,FRA,RB,35-207,90,0,0,0,0,2,0,0,0,71,7,1,0,0.2,0.2,0.0,2,0,37,53,69.8,1,28,2,0,0,Saint-Étienne,2021-02-20 Saint-Étienne-Reims,FRA-L1,20-21,01026fa4
+28a65a2c,Jessy Moulin,30,FRA,GK,35-038,90,0,0,0,0,0,0,0,0,29,0,1,0,0.0,0.0,0.0,1,0,17,28,60.7,0,13,0,0,0,Saint-Étienne,2021-02-20 Saint-Étienne-Reims,FRA-L1,20-21,01026fa4
+244bc2c8,Boulaye Dia,11,SEN,FW,24-096,79,0,0,0,0,1,0,0,0,23,2,0,0,0.1,0.1,0.0,2,0,13,16,81.3,2,17,2,1,1,Reims,2021-02-20 Saint-Étienne-Reims,FRA-L1,20-21,01026fa4
+309937e7,Mouhamadou Drammeh,34,FRA,"CM,FW",21-281,11,0,0,0,0,0,0,0,0,8,0,1,0,0.0,0.0,0.0,0,0,3,4,75.0,0,5,1,1,1,Reims,2021-02-20 Saint-Étienne-Reims,FRA-L1,20-21,01026fa4
+095e4199,Arber Zeneli,10,KVX,LM,25-361,59,0,0,0,0,0,0,0,0,30,1,0,0,0.0,0.0,0.0,0,0,10,17,58.8,1,17,0,4,1,Reims,2021-02-20 Saint-Étienne-Reims,FRA-L1,20-21,01026fa4
+47c609d5,El Bilal Touré,27,MLI,"LM,FW",19-140,31,1,0,0,0,1,1,0,0,11,0,0,0,0.1,0.1,0.0,0,0,5,8,62.5,0,4,0,0,0,Reims,2021-02-20 Saint-Étienne-Reims,FRA-L1,20-21,01026fa4
+d5575935,Valon Berisha,14,KVX,CM,28-013,90,0,0,0,0,0,0,0,0,64,4,2,1,0.0,0.0,0.0,1,1,40,50,80.0,9,36,3,2,2,Reims,2021-02-20 Saint-Étienne-Reims,FRA-L1,20-21,01026fa4
+46750e9c,Nathanael Mbuku,21,FRA,"CM,RW",18-341,90,0,0,0,0,2,1,1,0,23,0,1,0,0.2,0.2,0.1,1,0,13,17,76.5,3,18,3,1,1,Reims,2021-02-20 Saint-Étienne-Reims,FRA-L1,20-21,01026fa4
+1b6862e8,Dereck Kutesa,8,SUI,RM,23-076,58,0,0,0,0,0,0,0,0,27,2,1,2,0.0,0.0,0.1,1,0,8,14,57.1,0,13,2,5,4,Reims,2021-02-20 Saint-Étienne-Reims,FRA-L1,20-21,01026fa4
+6481421d,Moussa Doumbia,25,MLI,"RM,LW",26-189,32,0,1,0,0,0,0,1,0,19,0,0,0,0.0,0.0,0.1,1,1,9,15,60.0,1,13,3,2,0,Reims,2021-02-20 Saint-Étienne-Reims,FRA-L1,20-21,01026fa4
+f54d2149,Moreto Cassamã,23,GNB,"DM,CM",23-004,90,0,0,0,0,0,0,0,0,71,6,5,3,0.0,0.0,0.0,0,0,49,54,90.7,4,46,0,0,0,Reims,2021-02-20 Saint-Étienne-Reims,FRA-L1,20-21,01026fa4
+6b2c894b,Ghislain Konan,3,CIV,LB,25-055,90,0,0,0,0,0,0,0,0,63,1,2,2,0.0,0.0,0.1,2,0,38,50,76.0,1,35,4,3,2,Reims,2021-02-20 Saint-Étienne-Reims,FRA-L1,20-21,01026fa4
+9c221d14,Wout Faes,2,BEL,CB,22-323,90,0,0,0,0,0,0,0,0,81,1,3,0,0.0,0.0,0.0,0,0,58,68,85.3,5,56,0,1,1,Reims,2021-02-20 Saint-Étienne-Reims,FRA-L1,20-21,01026fa4
+2acf0cd7,Marshall Munetsi,15,ZIM,CB,24-243,90,0,0,0,0,0,0,0,0,73,1,3,3,0.0,0.0,0.0,0,0,45,55,81.8,2,39,0,0,0,Reims,2021-02-20 Saint-Étienne-Reims,FRA-L1,20-21,01026fa4
+90eb507d,Thomas Foket,32,BEL,RB,26-148,90,0,0,0,0,0,0,0,0,78,7,2,0,0.0,0.0,0.0,0,0,37,60,61.7,1,35,4,4,2,Reims,2021-02-20 Saint-Étienne-Reims,FRA-L1,20-21,01026fa4
+58ad9383,Predrag Rajković,1,SRB,GK,25-112,90,0,0,0,0,0,0,0,0,49,0,0,0,0.0,0.0,0.0,0,0,29,48,60.4,0,30,0,0,0,Reims,2021-02-20 Saint-Étienne-Reims,FRA-L1,20-21,01026fa4

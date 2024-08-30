@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+2ccd39ed,Akor Adams,8,NGA,FW,23-196,76,2,0,0,0,2,2,0,0,21,0,0,0,0.4,0.4,0.0,0,0,8,11,72.7,0,14,2,1,0,Montpellier,2023-08-13 Montpellier-Le Havre,FRA-L1,23-24,ca893ead
+0d7b6576,Elye Wahi,21,FRA,FW,20-223,14,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.6,1,0,6,6,100.0,1,8,1,1,1,Montpellier,2023-08-13 Montpellier-Le Havre,FRA-L1,23-24,ca893ead
+2677a1de,Wahbi Khazri,10,TUN,LW,32-186,68,0,0,0,0,4,1,0,0,24,1,0,1,0.3,0.3,0.0,1,0,10,14,71.4,4,21,1,2,0,Montpellier,2023-08-13 Montpellier-Le Havre,FRA-L1,23-24,ca893ead
+7b9a9e25,Arnaud Nordin,7,FRA,"RW,LW",25-057,22,0,0,0,0,0,0,0,0,6,1,0,0,0.0,0.0,0.0,0,0,4,4,100.0,2,6,0,1,0,Montpellier,2023-08-13 Montpellier-Le Havre,FRA-L1,23-24,ca893ead
+f15f8b2b,Musa Al-Taamari,9,JOR,"RW,LW",26-064,90,0,0,0,0,3,2,0,0,37,1,1,1,0.1,0.1,0.1,5,0,14,20,70.0,2,26,5,4,3,Montpellier,2023-08-13 Montpellier-Le Havre,FRA-L1,23-24,ca893ead
+6bde367b,Téji Savanier,11,FRA,AM,31-234,70,0,1,0,0,2,0,0,0,65,0,0,0,0.2,0.2,0.3,8,2,37,56,66.1,4,46,3,2,2,Montpellier,2023-08-13 Montpellier-Le Havre,FRA-L1,23-24,ca893ead
+faf00ab8,Khalil Fayad,22,FRA,AM,19-065,20,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,9,9,100.0,0,7,0,1,1,Montpellier,2023-08-13 Montpellier-Le Havre,FRA-L1,23-24,ca893ead
+375622c5,Jordan Ferri,12,FRA,DM,31-154,76,0,0,0,0,1,0,0,0,65,2,0,0,0.0,0.0,0.1,3,0,47,56,83.9,11,53,3,0,0,Montpellier,2023-08-13 Montpellier-Le Havre,FRA-L1,23-24,ca893ead
+fcc84a07,Léo Leroy,18,FRA,DM,23-180,14,0,0,0,0,1,0,0,0,7,0,0,0,0.6,0.6,0.0,0,0,2,3,66.7,1,3,0,0,0,Montpellier,2023-08-13 Montpellier-Le Havre,FRA-L1,23-24,ca893ead
+7909ffa4,Joris Chotard,13,FRA,DM,21-323,90,0,0,0,0,0,0,0,0,66,6,2,2,0.0,0.0,0.0,2,0,45,53,84.9,4,43,1,2,0,Montpellier,2023-08-13 Montpellier-Le Havre,FRA-L1,23-24,ca893ead
+b99bec05,Issiaga Sylla,3,GUI,LB,29-224,85,0,0,0,0,0,0,0,0,53,1,0,1,0.0,0.0,0.0,2,0,39,49,79.6,2,36,2,1,1,Montpellier,2023-08-13 Montpellier-Le Havre,FRA-L1,23-24,ca893ead
+02b3733e,Lucas Mincarelli,35,FRA,LB,19-220,5,0,0,0,0,0,0,0,0,3,1,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,1,0,0,0,Montpellier,2023-08-13 Montpellier-Le Havre,FRA-L1,23-24,ca893ead
+562a4799,Boubakar Kouyaté,4,MLI,CB,26-120,90,0,1,0,0,0,0,0,0,85,1,1,1,0.0,0.0,0.1,1,1,64,77,83.1,6,66,0,0,0,Montpellier,2023-08-13 Montpellier-Le Havre,FRA-L1,23-24,ca893ead
+f323d995,Christopher Jullien,6,FRA,CB,30-144,90,0,0,0,0,1,0,1,0,83,1,2,1,0.0,0.0,0.0,2,0,66,73,90.4,2,63,1,0,0,Montpellier,2023-08-13 Montpellier-Le Havre,FRA-L1,23-24,ca893ead
+6388e356,Falaye Sacko,77,MLI,RB,28-104,90,0,0,0,0,0,0,0,0,76,2,1,3,0.0,0.0,0.0,0,0,51,67,76.1,6,53,2,0,0,Montpellier,2023-08-13 Montpellier-Le Havre,FRA-L1,23-24,ca893ead
+2fa2a875,Benjamin Lecomte,40,FRA,GK,32-109,90,0,0,0,0,0,0,0,0,38,0,0,0,0.0,0.0,0.0,0,0,24,37,64.9,0,24,0,0,0,Montpellier,2023-08-13 Montpellier-Le Havre,FRA-L1,23-24,ca893ead
+b386310a,Nabil Alioui,10,FRA,FW,24-176,60,0,0,0,0,0,0,0,0,19,0,1,1,0.0,0.0,0.3,2,0,7,13,53.8,1,8,1,1,0,Le Havre,2023-08-13 Montpellier-Le Havre,FRA-L1,23-24,ca893ead
+f9124307,Antoine Joujou,21,FRA,"RB,FW",20-154,30,0,0,0,0,0,0,0,0,21,0,0,0,0.0,0.0,0.0,0,0,13,17,76.5,2,19,1,4,2,Le Havre,2023-08-13 Montpellier-Le Havre,FRA-L1,23-24,ca893ead
+1d8aa290,Issa Soumaré,45,SEN,FW,22-307,60,0,0,0,0,2,0,0,0,31,0,0,0,0.2,0.2,0.0,3,0,6,14,42.9,1,20,1,5,1,Le Havre,2023-08-13 Montpellier-Le Havre,FRA-L1,23-24,ca893ead
+daa11a4f,Andy Logbo,20,FRA,FW,19-099,30,0,0,0,0,0,0,0,0,11,0,0,2,0.0,0.0,0.0,1,0,5,5,100.0,0,7,0,1,1,Le Havre,2023-08-13 Montpellier-Le Havre,FRA-L1,23-24,ca893ead
+d4e93bab,Daler Kuzyaev,14,RUS,CM,30-210,85,0,0,0,0,1,0,0,0,47,0,0,2,0.0,0.0,0.0,1,0,28,39,71.8,4,31,1,2,0,Le Havre,2023-08-13 Montpellier-Le Havre,FRA-L1,23-24,ca893ead
+ef7cd87a,Abdoulaye Touré,94,GUI,CM,29-163,5,0,0,0,0,1,1,0,0,5,0,0,0,0.0,0.0,0.0,0,0,4,4,100.0,0,4,1,0,0,Le Havre,2023-08-13 Montpellier-Le Havre,FRA-L1,23-24,ca893ead
+abd56820,Oussama Targhalline,5,MAR,CM,21-085,90,0,0,0,0,1,0,1,0,65,2,2,3,0.0,0.0,0.2,4,0,46,55,83.6,11,50,8,1,1,Le Havre,2023-08-13 Montpellier-Le Havre,FRA-L1,23-24,ca893ead
+36f65bdf,Rassoul Ndiaye,19,SEN,CM,21-245,69,0,0,0,0,1,0,0,0,28,2,1,0,0.0,0.0,0.0,0,0,13,22,59.1,2,22,1,0,0,Le Havre,2023-08-13 Montpellier-Le Havre,FRA-L1,23-24,ca893ead
+d2448564,Samuel Grandsir,29,FRA,FW,26-364,21,1,0,0,0,1,1,0,0,26,1,0,0,0.2,0.2,0.0,4,1,18,22,81.8,2,22,2,3,1,Le Havre,2023-08-13 Montpellier-Le Havre,FRA-L1,23-24,ca893ead
+481f76cf,Josué Casimir,23,FRA,LB,21-323,90,0,1,0,0,0,0,0,0,52,0,0,2,0.0,0.0,0.2,3,1,25,40,62.5,3,28,3,4,2,Le Havre,2023-08-13 Montpellier-Le Havre,FRA-L1,23-24,ca893ead
+ac89503b,Gautier Lloris,4,FRA,CB,28-026,90,1,0,0,0,1,1,0,0,42,3,2,1,0.3,0.3,0.0,0,0,24,32,75.0,1,30,0,0,0,Le Havre,2023-08-13 Montpellier-Le Havre,FRA-L1,23-24,ca893ead
+17bb562c,Arouna Sangante,93,SEN,CB,21-123,90,0,0,0,0,0,0,1,0,34,0,2,0,0.0,0.0,0.0,1,0,20,28,71.4,3,19,0,0,0,Le Havre,2023-08-13 Montpellier-Le Havre,FRA-L1,23-24,ca893ead
+c3725db2,Yoann Salmier,22,GUF,CB,30-265,90,0,1,0,0,2,1,0,0,45,1,0,2,0.3,0.3,0.3,1,1,20,31,64.5,1,15,0,0,0,Le Havre,2023-08-13 Montpellier-Le Havre,FRA-L1,23-24,ca893ead
+c3b6fa1e,Loïc Nego,7,HUN,RB,32-210,69,0,0,0,0,1,0,0,0,37,2,1,1,0.1,0.1,0.0,1,0,24,29,82.8,2,22,0,4,1,Le Havre,2023-08-13 Montpellier-Le Havre,FRA-L1,23-24,ca893ead
+abefc3af,Yassine Kechta,8,MAR,CM,21-169,21,0,0,0,0,1,0,0,0,22,1,0,0,0.0,0.0,0.0,1,0,15,19,78.9,4,19,3,1,0,Le Havre,2023-08-13 Montpellier-Le Havre,FRA-L1,23-24,ca893ead
+e8c5dd4d,Arthur Desmas,30,FRA,GK,29-128,90,0,0,0,0,0,0,0,0,25,0,0,0,0.0,0.0,0.0,0,0,15,23,65.2,0,16,0,0,0,Le Havre,2023-08-13 Montpellier-Le Havre,FRA-L1,23-24,ca893ead

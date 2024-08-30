@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+fed7cb61,Kai Havertz,29,GER,FW,20-270,61,1,1,0,0,1,1,0,0,43,0,0,0,0.4,0.4,0.4,2,1,34,36,94.4,3,25,2,3,2,Bayer Leverkusen,2020-03-07 Leverkusen-Eint Frankfurt,GER-BL1,19-20,ae288926
+3a233281,Leon Bailey,9,JAM,FW,22-211,29,0,0,0,0,1,0,0,0,11,0,0,0,0.1,0.1,0.0,2,0,4,7,57.1,0,10,1,3,3,Bayer Leverkusen,2020-03-07 Leverkusen-Eint Frankfurt,GER-BL1,19-20,ae288926
+aeed5c06,Moussa Diaby,19,FRA,LW,20-244,90,0,1,0,0,1,0,0,0,38,0,0,1,0.1,0.1,0.5,2,1,24,30,80.0,3,31,7,6,6,Bayer Leverkusen,2020-03-07 Leverkusen-Eint Frankfurt,GER-BL1,19-20,ae288926
+bee0bab1,Karim Bellarabi,38,GER,RW,29-334,90,1,1,0,0,3,2,0,0,52,1,0,1,0.8,0.8,0.4,2,0,26,44,59.1,2,35,5,4,3,Bayer Leverkusen,2020-03-07 Leverkusen-Eint Frankfurt,GER-BL1,19-20,ae288926
+53070b63,Paulinho,7,BRA,AM,19-236,90,2,1,0,0,5,2,0,0,35,0,0,0,1.0,1.0,0.8,6,3,21,24,87.5,3,26,4,4,3,Bayer Leverkusen,2020-03-07 Leverkusen-Eint Frankfurt,GER-BL1,19-20,ae288926
+56413b1f,Charles Aránguiz,20,CHI,DM,30-325,66,0,0,0,0,0,0,0,0,53,2,0,1,0.0,0.0,0.1,3,0,35,45,77.8,7,28,0,1,1,Bayer Leverkusen,2020-03-07 Leverkusen-Eint Frankfurt,GER-BL1,19-20,ae288926
+e82adcab,Exequiel Palacios,25,ARG,DM,21-154,24,0,0,0,0,0,0,0,0,14,0,0,0,0.0,0.0,0.0,1,0,13,14,92.9,2,8,0,0,0,Bayer Leverkusen,2020-03-07 Leverkusen-Eint Frankfurt,GER-BL1,19-20,ae288926
+69374ff5,Julian Baumgartlinger,15,AUT,DM,32-065,90,0,0,0,0,0,0,0,0,70,2,2,2,0.0,0.0,0.0,1,1,53,57,93.0,6,29,0,0,0,Bayer Leverkusen,2020-03-07 Leverkusen-Eint Frankfurt,GER-BL1,19-20,ae288926
+f9acca3a,Wendell,18,BRA,LB,26-231,90,0,0,0,0,1,0,0,0,92,2,1,2,0.0,0.0,0.0,2,2,70,81,86.4,10,53,2,1,1,Bayer Leverkusen,2020-03-07 Leverkusen-Eint Frankfurt,GER-BL1,19-20,ae288926
+a73c8f95,Edmond Tapsoba,12,BFA,CB,21-034,90,0,0,0,0,1,0,0,0,104,2,1,0,0.0,0.0,0.0,0,0,86,93,92.5,1,64,0,1,1,Bayer Leverkusen,2020-03-07 Leverkusen-Eint Frankfurt,GER-BL1,19-20,ae288926
+070ec0b1,Sven Bender,5,GER,CB,30-315,34,0,0,0,0,0,0,0,0,31,2,1,0,0.0,0.0,0.0,0,0,26,26,100.0,0,16,0,0,0,Bayer Leverkusen,2020-03-07 Leverkusen-Eint Frankfurt,GER-BL1,19-20,ae288926
+bd142efb,Jonathan Tah,4,GER,CB,24-025,56,0,0,0,0,0,0,0,0,72,1,1,1,0.0,0.0,0.0,0,0,65,67,97.0,3,43,0,1,1,Bayer Leverkusen,2020-03-07 Leverkusen-Eint Frankfurt,GER-BL1,19-20,ae288926
+30c220c3,Mitchell Weiser,23,GER,RB,25-321,90,0,0,0,0,0,0,1,0,94,5,2,3,0.0,0.0,0.0,1,0,60,74,81.1,7,33,4,2,1,Bayer Leverkusen,2020-03-07 Leverkusen-Eint Frankfurt,GER-BL1,19-20,ae288926
+ad3389d5,Lukáš Hrádecký,1,FIN,GK,30-104,90,0,0,0,0,0,0,0,0,71,0,0,0,0.0,0.0,0.0,0,0,55,68,80.9,0,30,0,0,0,Bayer Leverkusen,2020-03-07 Leverkusen-Eint Frankfurt,GER-BL1,19-20,ae288926
+3effaa34,André Silva,33,POR,FW,24-122,73,0,0,0,0,0,0,0,0,35,0,1,1,0.0,0.0,0.0,0,0,14,24,58.3,0,14,1,2,1,Eintracht Frankfurt,2020-03-07 Leverkusen-Eint Frankfurt,GER-BL1,19-20,ae288926
+962e54cb,Gonçalo Paciência,39,POR,FW,25-219,17,0,0,0,0,1,0,0,0,7,0,0,0,0.1,0.1,0.0,0,0,3,4,75.0,1,4,0,0,0,Eintracht Frankfurt,2020-03-07 Leverkusen-Eint Frankfurt,GER-BL1,19-20,ae288926
+b1cd37e6,Filip Kostić,10,SRB,LW,27-127,90,0,0,0,0,2,1,0,0,37,0,0,1,0.1,0.1,0.2,4,0,16,28,57.1,2,25,3,3,0,Eintracht Frankfurt,2020-03-07 Leverkusen-Eint Frankfurt,GER-BL1,19-20,ae288926
+15b287da,Daichi Kamada,15,JPN,RW,23-215,56,0,0,0,0,1,1,0,0,24,0,0,1,0.1,0.1,0.1,1,0,4,14,28.6,0,9,2,3,0,Eintracht Frankfurt,2020-03-07 Leverkusen-Eint Frankfurt,GER-BL1,19-20,ae288926
+16daec92,Mijat Gaćinović,11,SRB,RW,25-028,34,0,0,0,0,1,0,0,0,18,0,3,1,0.0,0.0,0.1,1,0,9,12,75.0,2,6,0,1,0,Eintracht Frankfurt,2020-03-07 Leverkusen-Eint Frankfurt,GER-BL1,19-20,ae288926
+e12b0b5b,Sebastian Rode,17,GER,AM,29-148,90,0,0,0,0,0,0,0,0,60,6,1,0,0.0,0.0,0.1,6,0,38,48,79.2,5,31,5,0,0,Eintracht Frankfurt,2020-03-07 Leverkusen-Eint Frankfurt,GER-BL1,19-20,ae288926
+9ab16552,Makoto Hasebe,20,JPN,DM,36-049,90,0,0,0,0,0,0,0,0,65,4,0,3,0.0,0.0,0.0,0,0,41,51,80.4,5,21,0,0,0,Eintracht Frankfurt,2020-03-07 Leverkusen-Eint Frankfurt,GER-BL1,19-20,ae288926
+0fbecd11,Dominik Kohr,28,GER,DM,26-036,56,0,0,0,0,0,0,0,0,35,2,2,2,0.0,0.0,0.0,0,0,20,26,76.9,2,13,0,1,1,Eintracht Frankfurt,2020-03-07 Leverkusen-Eint Frankfurt,GER-BL1,19-20,ae288926
+4c6facae,Djibril Sow,8,SUI,DM,23-030,34,0,0,0,0,0,0,0,0,20,0,0,0,0.0,0.0,0.0,1,0,14,17,82.4,2,9,0,0,0,Eintracht Frankfurt,2020-03-07 Leverkusen-Eint Frankfurt,GER-BL1,19-20,ae288926
+441197b8,Obite N'Dicka,2,CIV,LB,20-200,90,0,0,0,0,2,0,0,0,55,0,1,2,0.2,0.2,0.0,1,0,32,43,74.4,2,24,3,0,0,Eintracht Frankfurt,2020-03-07 Leverkusen-Eint Frankfurt,GER-BL1,19-20,ae288926
+080440a4,Martin Hinteregger,13,AUT,CB,27-182,90,0,0,0,0,2,1,0,0,55,2,1,1,0.4,0.4,0.0,1,0,32,40,80.0,2,23,0,0,0,Eintracht Frankfurt,2020-03-07 Leverkusen-Eint Frankfurt,GER-BL1,19-20,ae288926
+8494acc4,Stefan Ilsanker,3,AUT,CB,30-294,90,0,0,0,0,0,0,0,0,56,3,3,0,0.0,0.0,0.0,0,0,33,45,73.3,5,26,1,2,2,Eintracht Frankfurt,2020-03-07 Leverkusen-Eint Frankfurt,GER-BL1,19-20,ae288926
+c8c60119,Almamy Touré,18,MLI,RB,23-314,90,0,0,0,0,0,0,0,0,41,1,0,0,0.0,0.0,0.0,0,0,24,37,64.9,2,14,3,1,1,Eintracht Frankfurt,2020-03-07 Leverkusen-Eint Frankfurt,GER-BL1,19-20,ae288926
+ce17b5eb,Kevin Trapp,1,GER,GK,29-243,90,0,0,0,0,0,0,0,0,38,0,1,0,0.0,0.0,0.0,0,0,29,36,80.6,0,25,0,0,0,Eintracht Frankfurt,2020-03-07 Leverkusen-Eint Frankfurt,GER-BL1,19-20,ae288926

@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+8d78e732,Robert Lewandowski,9,POL,FW,33-007,90,3,0,0,0,5,3,0,0,32,1,0,1,1.8,1.8,0.2,6,1,20,23,87.0,6,25,3,3,3,Bayern Munich,2021-08-28 Bayern Munich-Hertha BSC,GER-BL1,21-22,7b0c7704
+2c0558b8,Jamal Musiala,42,GER,LW,18-183,60,1,0,0,0,1,1,0,0,36,2,1,0,0.2,0.2,0.2,2,0,19,21,90.5,8,28,2,7,4,Bayern Munich,2021-08-28 Bayern Munich-Hertha BSC,GER-BL1,21-22,7b0c7704
+2b114be3,Leroy Sané,10,GER,LW,25-229,30,0,1,0,0,0,0,0,0,16,0,0,0,0.0,0.0,0.5,1,1,10,12,83.3,1,13,3,4,1,Bayern Munich,2021-08-28 Bayern Munich-Hertha BSC,GER-BL1,21-22,7b0c7704
+88e357ef,Serge Gnabry,7,GER,RW,26-045,66,0,0,0,0,0,0,0,0,48,0,0,1,0.0,0.0,0.1,3,1,34,43,79.1,4,37,1,4,2,Bayern Munich,2021-08-28 Bayern Munich-Hertha BSC,GER-BL1,21-22,7b0c7704
+042e8a49,Kingsley Coman,11,FRA,RW,25-076,24,0,0,0,0,3,0,0,0,18,0,0,0,0.2,0.2,0.0,0,0,8,13,61.5,1,17,2,1,1,Bayern Munich,2021-08-28 Bayern Munich-Hertha BSC,GER-BL1,21-22,7b0c7704
+3c6089ab,Thomas Müller,25,GER,AM,31-349,80,1,1,0,0,1,1,0,0,48,1,1,0,0.2,0.2,0.2,4,3,34,44,77.3,7,38,1,0,0,Bayern Munich,2021-08-28 Bayern Munich-Hertha BSC,GER-BL1,21-22,7b0c7704
+0e6bc38c,Eric Maxim Choupo-Moting,13,CMR,AM,32-158,10,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,6,7,85.7,1,4,0,0,0,Bayern Munich,2021-08-28 Bayern Munich-Hertha BSC,GER-BL1,21-22,7b0c7704
+cc86b9a3,Leon Goretzka,8,GER,DM,26-203,90,0,0,0,0,5,1,0,0,88,1,2,1,0.4,0.4,0.0,3,0,66,76,86.8,7,60,1,2,1,Bayern Munich,2021-08-28 Bayern Munich-Hertha BSC,GER-BL1,21-22,7b0c7704
+49296448,Joshua Kimmich,6,GER,DM,26-201,90,0,0,0,0,0,0,0,0,89,1,2,2,0.0,0.0,0.2,5,1,65,81,80.2,8,57,4,0,0,Bayern Munich,2021-08-28 Bayern Munich-Hertha BSC,GER-BL1,21-22,7b0c7704
+d781d855,Alphonso Davies,19,CAN,LB,20-299,90,0,1,0,0,0,0,0,0,72,0,1,1,0.0,0.0,0.2,2,1,54,63,85.7,0,48,4,2,2,Bayern Munich,2021-08-28 Bayern Munich-Hertha BSC,GER-BL1,21-22,7b0c7704
+e33c06cf,Niklas Süle,4,GER,CB,25-359,90,0,0,0,0,1,0,0,0,97,1,0,0,0.0,0.0,0.1,0,0,82,91,90.1,7,70,1,0,0,Bayern Munich,2021-08-28 Bayern Munich-Hertha BSC,GER-BL1,21-22,7b0c7704
+d248cd8f,Dayot Upamecano,2,FRA,CB,22-305,45,0,0,0,0,0,0,0,0,50,1,0,0,0.0,0.0,0.0,0,0,43,48,89.6,5,42,0,0,0,Bayern Munich,2021-08-28 Bayern Munich-Hertha BSC,GER-BL1,21-22,7b0c7704
+5853ac44,Tanguy Nianzou,23,FRA,CB,19-082,45,0,1,0,0,0,0,0,0,44,1,0,0,0.0,0.0,0.7,1,1,36,41,87.8,1,30,1,0,0,Bayern Munich,2021-08-28 Bayern Munich-Hertha BSC,GER-BL1,21-22,7b0c7704
+7ed08d5c,Josip Stanišić,44,CRO,RB,21-148,80,0,0,0,0,0,0,0,0,73,4,0,3,0.0,0.0,0.1,2,0,55,58,94.8,4,39,1,0,0,Bayern Munich,2021-08-28 Bayern Munich-Hertha BSC,GER-BL1,21-22,7b0c7704
+1a4b9094,Bouna Sarr,20,SEN,RB,29-209,10,0,0,0,0,0,0,0,0,9,2,1,1,0.0,0.0,0.0,0,0,5,5,100.0,0,4,0,0,0,Bayern Munich,2021-08-28 Bayern Munich-Hertha BSC,GER-BL1,21-22,7b0c7704
+8778c910,Manuel Neuer,1,GER,GK,35-154,90,0,0,0,0,0,0,0,0,43,0,0,0,0.0,0.0,0.0,0,0,39,43,90.7,0,29,0,0,0,Bayern Munich,2021-08-28 Bayern Munich-Hertha BSC,GER-BL1,21-22,7b0c7704
+1238a3f9,Davie Selke,7,GER,FW,26-220,59,0,0,0,0,2,1,0,0,17,0,0,0,0.1,0.1,0.0,0,0,9,13,69.2,0,10,0,0,0,Hertha BSC,2021-08-28 Bayern Munich-Hertha BSC,GER-BL1,21-22,7b0c7704
+92948149,Lukas Klünter,13,GER,"RB,FW",25-094,31,0,0,0,0,0,0,0,0,15,1,1,1,0.0,0.0,0.0,0,0,6,12,50.0,0,10,1,1,1,Hertha BSC,2021-08-28 Bayern Munich-Hertha BSC,GER-BL1,21-22,7b0c7704
+f36c432f,Stevan Jovetić,19,MNE,LW,31-299,19,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,3,4,75.0,1,5,1,1,1,Hertha BSC,2021-08-28 Bayern Munich-Hertha BSC,GER-BL1,21-22,7b0c7704
+34a0f5ff,Javairô Dilrosun,16,NED,LW,23-067,71,0,0,0,0,0,0,0,0,29,0,0,1,0.0,0.0,0.0,0,0,14,19,73.7,2,19,2,3,1,Hertha BSC,2021-08-28 Bayern Munich-Hertha BSC,GER-BL1,21-22,7b0c7704
+0c61c77c,Dodi Lukebakio,11,BEL,RW,23-338,60,0,0,0,0,0,0,0,0,21,1,1,1,0.0,0.0,0.0,0,0,9,11,81.8,2,15,1,2,1,Hertha BSC,2021-08-28 Bayern Munich-Hertha BSC,GER-BL1,21-22,7b0c7704
+ff182fdc,Ishak Belfodil,14,ALG,FW,29-228,30,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,1,0,5,7,71.4,2,7,0,0,0,Hertha BSC,2021-08-28 Bayern Munich-Hertha BSC,GER-BL1,21-22,7b0c7704
+b3325a30,Suat Serdar,8,GER,AM,24-139,78,0,0,0,0,1,1,0,0,24,1,0,1,0.0,0.0,0.2,2,0,13,19,68.4,1,16,3,2,2,Hertha BSC,2021-08-28 Bayern Munich-Hertha BSC,GER-BL1,21-22,7b0c7704
+3eb0f2df,Vladimír Darida,6,CZE,AM,31-020,12,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.1,1,0,5,7,71.4,1,5,0,0,0,Hertha BSC,2021-08-28 Bayern Munich-Hertha BSC,GER-BL1,21-22,7b0c7704
+e26fcca3,Santiago Ascacíbar,18,ARG,DM,24-184,90,0,0,0,0,0,0,0,0,64,4,3,1,0.0,0.0,0.0,1,0,38,52,73.1,3,34,1,0,0,Hertha BSC,2021-08-28 Bayern Munich-Hertha BSC,GER-BL1,21-22,7b0c7704
+71ec39ef,Lucas Tousart,29,FRA,DM,24-121,90,0,0,0,0,3,1,0,0,59,0,4,3,0.3,0.3,0.0,3,0,39,44,88.6,5,42,1,3,1,Hertha BSC,2021-08-28 Bayern Munich-Hertha BSC,GER-BL1,21-22,7b0c7704
+88d4144a,Maximilian Mittelstädt,17,GER,LB,24-163,90,0,0,0,0,0,0,0,0,79,5,2,2,0.0,0.0,0.0,2,0,41,59,69.5,3,34,1,3,1,Hertha BSC,2021-08-28 Bayern Munich-Hertha BSC,GER-BL1,21-22,7b0c7704
+aad48be9,Niklas Stark,5,GER,CB,26-136,90,0,0,0,0,0,0,0,0,40,0,1,2,0.0,0.0,0.0,0,0,28,30,93.3,0,24,0,0,0,Hertha BSC,2021-08-28 Bayern Munich-Hertha BSC,GER-BL1,21-22,7b0c7704
+7c473e12,Dedryck Boyata,4,BEL,CB,30-273,90,0,0,0,0,0,0,0,0,49,2,1,2,0.0,0.0,0.0,0,0,34,40,85.0,0,32,0,0,0,Hertha BSC,2021-08-28 Bayern Munich-Hertha BSC,GER-BL1,21-22,7b0c7704
+58a2e9f6,Deyovaisio Zeefuik,42,NED,RB,23-170,60,0,0,0,0,0,0,0,0,41,2,1,0,0.0,0.0,0.0,1,0,25,31,80.6,1,24,3,3,1,Hertha BSC,2021-08-28 Bayern Munich-Hertha BSC,GER-BL1,21-22,7b0c7704
+f972644c,Marco Richter,23,GER,RW,23-277,30,0,0,0,0,1,0,0,0,21,1,0,0,0.0,0.0,0.0,1,0,10,16,62.5,1,16,4,2,1,Hertha BSC,2021-08-28 Bayern Munich-Hertha BSC,GER-BL1,21-22,7b0c7704
+0d55d942,Alexander Schwolow,1,GER,GK,29-087,90,0,0,0,0,0,0,0,0,37,0,0,0,0.0,0.0,0.0,0,0,27,36,75.0,0,20,0,0,0,Hertha BSC,2021-08-28 Bayern Munich-Hertha BSC,GER-BL1,21-22,7b0c7704

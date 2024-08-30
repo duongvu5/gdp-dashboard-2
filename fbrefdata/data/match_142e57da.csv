@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+1f44ac21,Erling Haaland,9,NOR,FW,21-255,90,0,0,0,0,1,0,0,0,26,0,0,0,0.1,0.1,0.0,1,0,15,23,65.2,2,9,0,0,0,Dortmund,2022-04-02 Dortmund-RB Leipzig,GER-BL1,21-22,142e57da
+36a3ff67,Marco Reus,11,GER,AM,32-306,73,0,0,0,0,0,0,0,0,40,3,0,1,0.0,0.0,0.0,2,0,26,34,76.5,3,20,0,0,0,Dortmund,2022-04-02 Dortmund-RB Leipzig,GER-BL1,21-22,142e57da
+a167537f,Julian Brandt,19,GER,RW,25-335,17,0,0,0,0,0,0,0,0,16,0,0,0,0.0,0.0,0.0,2,0,13,16,81.3,2,8,1,1,1,Dortmund,2022-04-02 Dortmund-RB Leipzig,GER-BL1,21-22,142e57da
+fa661778,Marius Wolf,39,GER,"AM,LW",26-310,60,0,0,0,0,1,0,0,0,20,1,0,1,0.0,0.0,0.0,0,0,10,15,66.7,0,11,2,1,0,Dortmund,2022-04-02 Dortmund-RB Leipzig,GER-BL1,21-22,142e57da
+116c35df,Donyell Malen,21,NED,LW,23-083,30,1,0,0,0,3,1,1,0,18,0,0,0,0.4,0.4,0.0,2,1,12,14,85.7,2,12,2,2,2,Dortmund,2022-04-02 Dortmund-RB Leipzig,GER-BL1,21-22,142e57da
+57d88cf9,Jude Bellingham,22,ENG,"DM,CM",18-277,90,0,0,0,0,1,0,0,0,83,1,0,1,0.0,0.0,0.1,2,0,57,71,80.3,6,62,1,5,2,Dortmund,2022-04-02 Dortmund-RB Leipzig,GER-BL1,21-22,142e57da
+5dfc6ad5,Axel Witsel,28,BEL,"CM,DM",33-080,60,0,0,0,0,0,0,0,0,44,2,1,2,0.0,0.0,0.0,0,0,29,36,80.6,4,20,0,0,0,Dortmund,2022-04-02 Dortmund-RB Leipzig,GER-BL1,21-22,142e57da
+db4ed67b,Mahmoud Dahoud,8,GER,DM,26-091,30,0,0,0,0,0,0,0,0,19,1,0,0,0.0,0.0,0.0,0,0,10,15,66.7,3,10,2,1,0,Dortmund,2022-04-02 Dortmund-RB Leipzig,GER-BL1,21-22,142e57da
+048a1cbc,Raphaël Guerreiro,13,POR,"LB,WB",28-101,90,0,0,0,0,4,1,0,0,101,3,1,4,0.2,0.2,0.0,2,0,70,84,83.3,4,56,3,5,2,Dortmund,2022-04-02 Dortmund-RB Leipzig,GER-BL1,21-22,142e57da
+50871bcc,Thorgan Hazard,10,BEL,"WB,RW",29-004,73,0,0,0,0,0,0,1,0,55,1,1,0,0.0,0.0,0.1,4,0,36,50,72.0,3,29,2,2,2,Dortmund,2022-04-02 Dortmund-RB Leipzig,GER-BL1,21-22,142e57da
+7fa4e703,Gio Reyna,7,USA,AM,19-140,17,0,0,0,0,0,0,0,0,15,0,0,0,0.0,0.0,0.0,0,0,9,13,69.2,1,10,1,1,0,Dortmund,2022-04-02 Dortmund-RB Leipzig,GER-BL1,21-22,142e57da
+89ac64a6,Manuel Akanji,16,SUI,CB,26-257,90,0,0,0,0,0,0,0,0,107,1,1,1,0.0,0.0,0.0,0,0,97,106,91.5,5,77,4,0,0,Dortmund,2022-04-02 Dortmund-RB Leipzig,GER-BL1,21-22,142e57da
+05d548d8,Mats Hummels,15,GER,CB,33-107,90,0,0,0,0,0,0,0,0,108,1,2,0,0.0,0.0,0.0,0,0,91,102,89.2,5,73,3,0,0,Dortmund,2022-04-02 Dortmund-RB Leipzig,GER-BL1,21-22,142e57da
+a65ce836,Emre Can,23,GER,"RB,CB",28-080,90,0,1,0,0,0,0,1,0,112,1,1,2,0.0,0.0,0.2,1,1,81,99,81.8,9,61,3,2,0,Dortmund,2022-04-02 Dortmund-RB Leipzig,GER-BL1,21-22,142e57da
+cd59b9df,Gregor Kobel,1,SUI,GK,24-117,90,0,0,0,0,0,0,0,0,28,0,0,0,0.0,0.0,0.0,0,0,25,27,92.6,0,18,0,0,0,Dortmund,2022-04-02 Dortmund-RB Leipzig,GER-BL1,21-22,142e57da
+3effaa34,André Silva,33,POR,FW,26-147,77,0,0,0,0,2,0,0,0,26,0,0,1,0.1,0.1,0.0,1,1,8,17,47.1,0,13,1,2,1,RB Leipzig,2022-04-02 Dortmund-RB Leipzig,GER-BL1,21-22,142e57da
+934e1968,Dominik Szoboszlai,17,HUN,"FW,CM",21-159,13,0,0,0,0,1,0,0,0,12,0,0,0,0.2,0.2,0.0,2,0,9,11,81.8,0,5,2,2,2,RB Leipzig,2022-04-02 Dortmund-RB Leipzig,GER-BL1,21-22,142e57da
+7c56da38,Christopher Nkunku,18,FRA,FW,24-139,90,1,2,0,0,1,1,0,0,39,0,2,0,0.2,0.2,0.4,5,3,22,30,73.3,3,22,2,4,4,RB Leipzig,2022-04-02 Dortmund-RB Leipzig,GER-BL1,21-22,142e57da
+ae44e8e2,Dani Olmo,25,ESP,CM,23-330,88,1,0,0,0,3,1,0,0,49,3,2,0,0.2,0.2,0.0,3,1,25,33,75.8,2,21,0,2,0,RB Leipzig,2022-04-02 Dortmund-RB Leipzig,GER-BL1,21-22,142e57da
+5458f670,Hugo Novoa,38,ESP,"FW,CM",19-091,2,0,0,0,0,0,0,0,0,1,0,0,1,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,RB Leipzig,2022-04-02 Dortmund-RB Leipzig,GER-BL1,21-22,142e57da
+b825a650,Kevin Kampl,44,SVN,CM,31-175,67,0,0,0,0,0,0,1,0,47,1,3,0,0.0,0.0,0.0,1,1,30,35,85.7,2,24,2,2,1,RB Leipzig,2022-04-02 Dortmund-RB Leipzig,GER-BL1,21-22,142e57da
+9a2e0ccc,Emil Forsberg,10,SWE,CM,30-161,23,0,0,0,0,0,0,0,0,13,0,0,0,0.0,0.0,0.0,0,0,11,11,100.0,3,9,3,1,1,RB Leipzig,2022-04-02 Dortmund-RB Leipzig,GER-BL1,21-22,142e57da
+c1b7847c,Konrad Laimer,27,AUT,CM,24-310,90,2,1,0,0,2,2,0,0,51,3,0,2,0.4,0.4,0.3,3,2,29,38,76.3,3,19,3,4,3,RB Leipzig,2022-04-02 Dortmund-RB Leipzig,GER-BL1,21-22,142e57da
+30941e96,Angeliño,3,ESP,WB,25-088,90,0,0,0,0,0,0,0,0,46,2,1,0,0.0,0.0,0.0,2,0,22,37,59.5,1,9,0,0,0,RB Leipzig,2022-04-02 Dortmund-RB Leipzig,GER-BL1,21-22,142e57da
+ac73ec79,Nordi Mukiele,22,FRA,WB,24-152,67,0,0,0,0,1,1,0,0,28,2,0,1,0.0,0.0,0.0,0,0,16,23,69.6,0,10,1,1,1,RB Leipzig,2022-04-02 Dortmund-RB Leipzig,GER-BL1,21-22,142e57da
+ca8033cb,Lukas Klostermann,16,GER,"CB,WB",25-303,23,0,0,0,0,0,0,0,0,11,0,2,0,0.0,0.0,0.0,0,0,6,10,60.0,1,3,1,0,0,RB Leipzig,2022-04-02 Dortmund-RB Leipzig,GER-BL1,21-22,142e57da
+5ad50391,Joško Gvardiol,32,CRO,CB,20-069,90,0,0,0,0,0,0,0,0,65,3,2,2,0.0,0.0,0.0,0,0,39,49,79.6,2,35,1,3,2,RB Leipzig,2022-04-02 Dortmund-RB Leipzig,GER-BL1,21-22,142e57da
+20030c06,Willi Orban,4,HUN,CB,29-150,90,0,0,0,0,0,0,0,0,46,1,1,6,0.0,0.0,0.0,0,0,29,36,80.6,0,10,0,0,0,RB Leipzig,2022-04-02 Dortmund-RB Leipzig,GER-BL1,21-22,142e57da
+fcb27134,Mohamed Simakan,2,FRA,CB,21-334,77,0,0,0,0,0,0,0,0,35,3,1,0,0.0,0.0,0.0,1,0,22,28,78.6,3,15,0,0,0,RB Leipzig,2022-04-02 Dortmund-RB Leipzig,GER-BL1,21-22,142e57da
+8ff2354e,Marcel Halstenberg,23,GER,WB,30-187,13,0,0,0,0,0,0,0,0,6,1,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,1,0,1,0,RB Leipzig,2022-04-02 Dortmund-RB Leipzig,GER-BL1,21-22,142e57da
+bcb2ccd8,Péter Gulácsi,1,HUN,GK,31-331,90,0,0,0,0,0,0,0,0,44,0,1,0,0.0,0.0,0.0,1,0,30,43,69.8,0,21,0,0,0,RB Leipzig,2022-04-02 Dortmund-RB Leipzig,GER-BL1,21-22,142e57da

@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+66116290,Radamel Falcao,9,COL,FW,31-313,90,1,0,0,0,2,1,0,0,29,0,0,0,0.5,0.5,0.0,4,1,17,23,73.9,1,19,0,2,2,Monaco,2017-12-20 Monaco-Rennes,FRA-L1,17-18,1d159233
+7c2965bb,Rony Lopes,20,POR,LW,21-357,61,0,0,0,0,3,0,0,0,29,1,0,0,0.2,0.2,0.0,1,1,15,23,65.2,1,20,1,0,0,Monaco,2017-12-20 Monaco-Rennes,FRA-L1,17-18,1d159233
+8f898ba8,Guido Carrillo,11,ARG,FW,26-209,29,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,4,5,80.0,0,5,0,0,0,Monaco,2017-12-20 Monaco-Rennes,FRA-L1,17-18,1d159233
+509a4ccb,Keita Baldé,14,SEN,"RW,RM,LM",22-287,83,1,0,0,0,4,1,0,0,34,0,0,0,0.9,0.9,0.1,3,0,15,23,65.2,2,21,8,5,4,Monaco,2017-12-20 Monaco-Rennes,FRA-L1,17-18,1d159233
+c8c60119,Almamy Touré,38,MLI,LB,21-236,7,0,0,0,0,0,0,0,0,7,0,0,1,0.0,0.0,0.0,0,0,3,5,60.0,0,2,0,0,0,Monaco,2017-12-20 Monaco-Rennes,FRA-L1,17-18,1d159233
+4dbd0916,Thomas Lemar,27,FRA,"AM,LM,LB",22-038,90,0,1,0,0,2,1,0,0,63,1,0,0,0.1,0.1,0.6,2,0,37,52,71.2,8,36,2,7,3,Monaco,2017-12-20 Monaco-Rennes,FRA-L1,17-18,1d159233
+7f3b388c,Fabinho,2,BRA,"DM,CM",24-058,90,0,0,0,0,0,0,1,0,71,2,0,1,0.0,0.0,0.1,4,0,59,68,86.8,8,46,0,1,1,Monaco,2017-12-20 Monaco-Rennes,FRA-L1,17-18,1d159233
+f5a00fa4,João Moutinho,8,POR,"DM,CM",31-103,90,0,0,0,0,0,0,0,0,84,3,1,1,0.0,0.0,0.1,4,0,61,74,82.4,14,48,1,2,1,Monaco,2017-12-20 Monaco-Rennes,FRA-L1,17-18,1d159233
+1f9a3a04,Terence Kongolo,4,NED,LB,23-309,77,0,0,0,0,1,0,0,0,70,0,0,2,0.2,0.2,0.0,1,0,51,65,78.5,3,31,1,1,1,Monaco,2017-12-20 Monaco-Rennes,FRA-L1,17-18,1d159233
+dc3a9a0d,Rachid Ghezzal,7,ALG,RM,25-225,13,0,0,0,0,0,0,0,0,6,0,0,1,0.0,0.0,0.0,1,1,1,2,50.0,1,2,0,0,0,Monaco,2017-12-20 Monaco-Rennes,FRA-L1,17-18,1d159233
+7cab69b5,Jemerson,5,BRA,CB,25-118,90,0,0,0,0,1,0,0,0,54,0,3,1,0.0,0.0,0.2,1,0,38,47,80.9,3,37,0,0,0,Monaco,2017-12-20 Monaco-Rennes,FRA-L1,17-18,1d159233
+c6056d58,Kamil Glik,25,POL,CB,29-320,90,0,0,0,0,0,0,1,0,58,0,3,0,0.0,0.0,0.0,0,0,37,47,78.7,2,34,1,0,0,Monaco,2017-12-20 Monaco-Rennes,FRA-L1,17-18,1d159233
+4c5b714f,Djibril Sidibé,19,FRA,RB,25-144,90,0,1,0,0,1,1,1,0,79,1,0,0,0.0,0.0,0.4,3,1,51,67,76.1,5,43,1,1,0,Monaco,2017-12-20 Monaco-Rennes,FRA-L1,17-18,1d159233
+f6db3bd5,Danijel Subašić,1,CRO,GK,33-054,90,0,0,0,0,0,0,0,0,26,0,0,0,0.0,0.0,0.0,0,0,16,25,64.0,0,10,0,0,0,Monaco,2017-12-20 Monaco-Rennes,FRA-L1,17-18,1d159233
+2677a1de,Wahbi Khazri,8,TUN,FW,26-315,90,1,0,1,1,1,0,0,0,36,0,0,0,0.8,0.1,0.0,0,0,17,31,54.8,3,21,1,1,1,Rennes,2017-12-20 Monaco-Rennes,FRA-L1,17-18,1d159233
+d14229f3,Adrien Hunou,23,FRA,"LM,RM",23-335,82,0,0,0,0,1,0,0,0,30,2,0,1,0.1,0.1,0.0,0,0,14,18,77.8,0,15,1,2,1,Rennes,2017-12-20 Monaco-Rennes,FRA-L1,17-18,1d159233
+4f093689,Jordan Tell,19,GLP,RM,20-193,8,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,2,0,1,0,Rennes,2017-12-20 Monaco-Rennes,FRA-L1,17-18,1d159233
+7cf431a5,James Lea Siliki,12,CMR,CM,21-191,90,0,0,0,0,1,0,0,0,35,1,1,0,0.0,0.0,0.0,1,1,19,25,76.0,4,19,3,5,3,Rennes,2017-12-20 Monaco-Rennes,FRA-L1,17-18,1d159233
+ab914649,Morgan Amalfitano,18,FRA,CM,32-275,90,0,0,0,0,1,0,0,0,35,2,1,0,0.2,0.2,0.2,2,0,23,27,85.2,0,23,0,0,0,Rennes,2017-12-20 Monaco-Rennes,FRA-L1,17-18,1d159233
+20e73fac,Benjamin Bourigeaud,14,FRA,RM,23-340,45,0,0,0,0,0,0,0,0,33,2,0,4,0.0,0.0,0.1,2,0,19,25,76.0,1,17,1,0,0,Rennes,2017-12-20 Monaco-Rennes,FRA-L1,17-18,1d159233
+378825c7,Ramy Bensebaini,15,ALG,LB,22-248,45,0,0,0,0,0,0,0,0,33,0,0,0,0.0,0.0,0.0,0,0,20,25,80.0,1,10,0,1,1,Rennes,2017-12-20 Monaco-Rennes,FRA-L1,17-18,1d159233
+4c700f46,Jérémy Gélin,26,FRA,DM,20-240,90,0,0,0,0,0,0,1,0,43,2,4,1,0.0,0.0,0.1,1,0,25,32,78.1,5,17,1,1,0,Rennes,2017-12-20 Monaco-Rennes,FRA-L1,17-18,1d159233
+c8c02ac7,Mehdi Zeffane,2,ALG,"LB,RM,LM",25-215,82,0,0,0,0,2,0,0,0,37,3,1,0,0.2,0.2,0.0,1,0,18,26,69.2,1,13,1,0,0,Rennes,2017-12-20 Monaco-Rennes,FRA-L1,17-18,1d159233
+176674ab,Ndombe Mubele,9,COD,LM,23-247,8,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,3,1,1,1,Rennes,2017-12-20 Monaco-Rennes,FRA-L1,17-18,1d159233
+ce492295,Mexer,4,MOZ,CB,29-103,90,0,0,0,0,0,0,0,0,41,0,0,0,0.0,0.0,0.0,0,0,17,31,54.8,3,17,0,0,0,Rennes,2017-12-20 Monaco-Rennes,FRA-L1,17-18,1d159233
+1232e1dc,Joris Gnagnon,5,FRA,CB,20-341,90,0,0,0,0,1,1,1,0,35,0,1,1,0.0,0.0,0.0,1,0,24,29,82.8,2,21,1,1,1,Rennes,2017-12-20 Monaco-Rennes,FRA-L1,17-18,1d159233
+a4b1028a,Hamari Traoré,27,MLI,RB,25-327,90,0,0,0,0,0,0,0,0,66,3,1,1,0.0,0.0,0.0,2,0,31,51,60.8,4,20,1,2,2,Rennes,2017-12-20 Monaco-Rennes,FRA-L1,17-18,1d159233
+dc366c36,Tomáš Koubek,40,CZE,GK,25-116,90,0,0,0,0,0,0,0,0,37,0,0,0,0.0,0.0,0.0,0,0,17,35,48.6,0,19,0,0,0,Rennes,2017-12-20 Monaco-Rennes,FRA-L1,17-18,1d159233

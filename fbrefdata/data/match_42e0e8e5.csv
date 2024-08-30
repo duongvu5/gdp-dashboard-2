@@ -1,0 +1,32 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+86383d0e,Martin Satriano,11,URU,FW,21-076,90,0,0,0,0,1,0,1,0,20,0,0,0,0.1,0.1,0.0,0,0,8,11,72.7,1,16,0,1,0,Brest,2022-05-07 Brest-Strasbourg,FRA-L1,21-22,42e0e8e5
+19ba6c6d,Steve Mounié,15,BEN,FW,27-220,90,0,0,0,0,2,0,0,0,42,0,1,0,0.1,0.1,0.0,5,0,23,33,69.7,3,27,1,0,0,Brest,2022-05-07 Brest-Strasbourg,FRA-L1,21-22,42e0e8e5
+1a248246,Youcef Belaïli,24,ALG,LM,30-054,76,0,0,0,0,1,1,0,0,47,0,0,0,0.0,0.0,0.1,2,0,30,40,75.0,4,35,3,3,3,Brest,2022-05-07 Brest-Strasbourg,FRA-L1,21-22,42e0e8e5
+c2e5f306,Rafiki Said,19,COM,LM,22-053,14,0,0,0,0,0,0,0,0,7,1,0,0,0.0,0.0,0.0,0,0,3,4,75.0,0,3,0,0,0,Brest,2022-05-07 Brest-Strasbourg,FRA-L1,21-22,42e0e8e5
+542cc80f,Paul Lasne,8,FRA,CM,33-111,75,0,0,0,0,1,0,0,0,47,1,6,1,0.1,0.1,0.0,1,0,27,35,77.1,2,36,1,2,2,Brest,2022-05-07 Brest-Strasbourg,FRA-L1,21-22,42e0e8e5
+8bc8829a,Lucien Agoume,10,FRA,CM,20-087,15,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,4,5,80.0,0,3,0,0,0,Brest,2022-05-07 Brest-Strasbourg,FRA-L1,21-22,42e0e8e5
+2b1bed19,Haris Belkebla,7,ALG,CM,28-099,90,0,0,0,0,0,0,0,0,57,0,2,3,0.0,0.0,0.1,1,0,40,46,87.0,5,39,1,2,2,Brest,2022-05-07 Brest-Strasbourg,FRA-L1,21-22,42e0e8e5
+db7849ca,Franck Honorat,9,FRA,RM,25-269,57,0,0,0,0,1,0,0,0,36,1,0,0,0.0,0.0,0.0,1,0,18,30,60.0,2,25,3,1,0,Brest,2022-05-07 Brest-Strasbourg,FRA-L1,21-22,42e0e8e5
+5e080f73,Irvin Cardona,14,FRA,RM,24-272,33,0,0,0,0,0,0,0,0,14,1,0,0,0.0,0.0,0.0,0,0,4,10,40.0,0,10,1,2,1,Brest,2022-05-07 Brest-Strasbourg,FRA-L1,21-22,42e0e8e5
+0cbc8baa,Jean-Kevin Duverne,2,HAI,LB,24-299,90,0,0,0,0,1,1,0,0,67,1,2,0,0.0,0.0,0.0,2,0,42,55,76.4,10,47,3,2,0,Brest,2022-05-07 Brest-Strasbourg,FRA-L1,21-22,42e0e8e5
+3681cfff,Christophe Hérelle,23,MTQ,CB,29-258,90,0,0,0,0,0,0,0,0,54,7,4,1,0.0,0.0,0.0,0,0,31,34,91.2,1,31,0,0,0,Brest,2022-05-07 Brest-Strasbourg,FRA-L1,21-22,42e0e8e5
+16aa7d4c,Brendan Chardonnet,5,FRA,CB,27-136,90,0,0,0,0,0,0,0,0,54,1,4,2,0.0,0.0,0.0,0,0,37,44,84.1,1,42,1,0,0,Brest,2022-05-07 Brest-Strasbourg,FRA-L1,21-22,42e0e8e5
+64ba07c0,Ronaël Pierre-Gabriel,18,FRA,RB,23-328,75,0,0,0,0,0,0,0,0,57,3,0,1,0.0,0.0,0.0,1,0,42,48,87.5,4,36,3,3,1,Brest,2022-05-07 Brest-Strasbourg,FRA-L1,21-22,42e0e8e5
+5b146df3,Lilian Brassier,3,FRA,RB,22-186,15,0,0,0,0,0,0,0,0,12,0,0,0,0.0,0.0,0.0,0,0,4,11,36.4,1,5,0,0,0,Brest,2022-05-07 Brest-Strasbourg,FRA-L1,21-22,42e0e8e5
+3d214e5f,Marco Bizot,40,NED,GK,31-058,90,0,0,0,0,0,0,0,0,43,0,0,0,0.0,0.0,0.0,0,0,26,38,68.4,0,28,0,0,0,Brest,2022-05-07 Brest-Strasbourg,FRA-L1,21-22,42e0e8e5
+42276181,Kévin Gameiro,9,FRA,FW,34-363,90,1,0,0,0,3,2,0,0,39,1,0,1,1.5,1.5,0.1,4,1,21,31,67.7,3,29,3,3,0,Strasbourg,2022-05-07 Brest-Strasbourg,FRA-L1,21-22,42e0e8e5
+6605d143,Habib Diallo,20,SEN,FW,26-323,67,0,0,0,0,3,2,0,0,32,2,0,1,0.3,0.3,0.1,3,0,15,21,71.4,3,20,1,1,0,Strasbourg,2022-05-07 Brest-Strasbourg,FRA-L1,21-22,42e0e8e5
+462475ed,Ludovic Ajorque,25,FRA,FW,28-071,23,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.1,1,0,3,4,75.0,0,5,0,0,0,Strasbourg,2022-05-07 Brest-Strasbourg,FRA-L1,21-22,42e0e8e5
+10f0fdd3,Jean-Ricner Bellegarde,17,FRA,CM,23-314,72,0,0,0,0,3,1,0,0,40,2,0,0,0.2,0.2,0.1,4,0,23,28,82.1,4,30,3,3,0,Strasbourg,2022-05-07 Brest-Strasbourg,FRA-L1,21-22,42e0e8e5
+48b28bfd,Jean-Eudes Aholou,6,CIV,CM,28-048,18,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,3,3,100.0,0,1,0,1,1,Strasbourg,2022-05-07 Brest-Strasbourg,FRA-L1,21-22,42e0e8e5
+51c30111,Sanjin Prcić,14,BIH,CM,28-168,90,0,0,0,0,2,0,0,0,60,1,2,0,0.1,0.1,0.1,4,0,39,50,78.0,6,39,0,0,0,Strasbourg,2022-05-07 Brest-Strasbourg,FRA-L1,21-22,42e0e8e5
+c76b7567,Adrien Thomasson,10,FRA,CM,28-148,72,0,0,0,0,1,0,0,0,62,3,0,2,0.0,0.0,0.4,3,0,38,47,80.9,7,47,0,1,0,Strasbourg,2022-05-07 Brest-Strasbourg,FRA-L1,21-22,42e0e8e5
+0f8418aa,Ibrahima Sissoko,27,MLI,CM,24-192,18,0,0,0,0,1,0,0,0,7,0,0,0,0.1,0.1,0.0,1,0,1,3,33.3,0,4,0,1,0,Strasbourg,2022-05-07 Brest-Strasbourg,FRA-L1,21-22,42e0e8e5
+f7691f63,Dimitri Liénard,11,FRA,LB,34-083,90,0,0,0,0,0,0,1,0,68,3,1,0,0.0,0.0,0.0,0,0,43,57,75.4,3,45,1,0,0,Strasbourg,2022-05-07 Brest-Strasbourg,FRA-L1,21-22,42e0e8e5
+321a71a7,Maxime Le Marchand,23,FRA,CB,32-208,90,0,0,0,0,0,0,0,0,82,1,1,1,0.0,0.0,0.0,0,0,65,72,90.3,5,69,0,1,1,Strasbourg,2022-05-07 Brest-Strasbourg,FRA-L1,21-22,42e0e8e5
+6043997c,Gerzino Nyamsi,22,FRA,CB,25-105,90,0,0,0,0,0,0,1,0,63,1,1,0,0.0,0.0,0.0,0,0,48,56,85.7,3,51,1,0,0,Strasbourg,2022-05-07 Brest-Strasbourg,FRA-L1,21-22,42e0e8e5
+0118c54c,Anthony Caci,19,FRA,CB,24-310,90,0,0,0,0,1,0,0,0,77,1,1,1,0.0,0.0,0.0,0,0,56,70,80.0,9,58,1,0,0,Strasbourg,2022-05-07 Brest-Strasbourg,FRA-L1,21-22,42e0e8e5
+50ac8941,Karol Fila,4,POL,RB,23-328,73,0,0,0,0,0,0,0,0,52,1,0,2,0.0,0.0,0.0,2,0,39,48,81.3,9,32,2,0,0,Strasbourg,2022-05-07 Brest-Strasbourg,FRA-L1,21-22,42e0e8e5
+0512a60a,Ismaël Doukouré,29,FRA,RB,18-287,17,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,1,3,33.3,0,2,0,0,0,Strasbourg,2022-05-07 Brest-Strasbourg,FRA-L1,21-22,42e0e8e5
+834b5c4c,Matz Sels,1,BEL,GK,30-070,90,0,0,0,0,0,0,0,0,32,0,0,0,0.0,0.0,0.0,0,0,23,31,74.2,0,18,0,0,0,Strasbourg,2022-05-07 Brest-Strasbourg,FRA-L1,21-22,42e0e8e5

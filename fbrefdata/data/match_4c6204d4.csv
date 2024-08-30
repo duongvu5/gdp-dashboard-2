@@ -1,0 +1,29 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+a29b1131,Steven Bergwijn,10,NED,FW,22-016,90,0,0,0,0,1,1,0,0,50,0,0,0,0.1,0.1,0.1,7,0,25,34,73.5,4,36,8,13,9,PSV Eindhoven,2019-10-24 PSV Eindhoven-LASK,UEL,19-20,4c6204d4
+1971591f,Cody Gakpo,19,NED,LW,20-170,83,0,0,0,0,1,1,0,0,32,0,0,2,0.1,0.1,0.2,3,0,11,21,52.4,1,19,2,2,2,PSV Eindhoven,2019-10-24 PSV Eindhoven-LASK,UEL,19-20,4c6204d4
+c6ac6579,Kostas Mitroglou,11,GRE,LW,31-226,7,0,0,0,0,0,0,0,0,4,0,0,1,0.0,0.0,0.0,0,0,0,1,0.0,0,2,0,0,0,PSV Eindhoven,2019-10-24 PSV Eindhoven-LASK,UEL,19-20,4c6204d4
+86878265,Mohammed Ihattaren,24,NED,"RW,RM",17-254,83,0,0,0,0,2,0,0,0,58,1,0,1,0.2,0.2,0.6,4,0,28,46,60.9,8,25,1,4,2,PSV Eindhoven,2019-10-24 PSV Eindhoven-LASK,UEL,19-20,4c6204d4
+95efdac2,Ryan Thomas,30,NZL,RM,24-308,7,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,3,5,60.0,0,3,0,0,0,PSV Eindhoven,2019-10-24 PSV Eindhoven-LASK,UEL,19-20,4c6204d4
+c7842dab,Erick Gutiérrez,15,MEX,LM,24-131,90,0,0,0,0,0,0,1,0,70,7,3,2,0.0,0.0,0.0,1,0,42,55,76.4,2,24,1,4,3,PSV Eindhoven,2019-10-24 PSV Eindhoven-LASK,UEL,19-20,4c6204d4
+1a6b7ea4,Pablo Rosario,18,NED,CM,22-290,90,0,0,0,0,1,1,0,0,77,1,2,3,0.1,0.1,0.0,1,0,50,64,78.1,6,25,0,1,1,PSV Eindhoven,2019-10-24 PSV Eindhoven-LASK,UEL,19-20,4c6204d4
+d01bbb6f,Ritsu Doan,25,JPN,RM,21-130,73,0,0,0,0,1,1,0,0,23,1,0,0,0.0,0.0,0.1,1,0,11,19,57.9,1,12,1,0,0,PSV Eindhoven,2019-10-24 PSV Eindhoven-LASK,UEL,19-20,4c6204d4
+5caa62a7,Bruma,7,POR,RW,25-000,17,0,0,0,0,1,1,0,0,15,0,0,0,0.0,0.0,0.0,0,0,7,9,77.8,2,9,0,1,0,PSV Eindhoven,2019-10-24 PSV Eindhoven-LASK,UEL,19-20,4c6204d4
+7c9fa389,Michal Sadílek,32,CZE,LB,20-146,90,0,0,0,0,0,0,0,0,105,1,0,3,0.0,0.0,0.0,1,0,54,91,59.3,7,43,3,3,1,PSV Eindhoven,2019-10-24 PSV Eindhoven-LASK,UEL,19-20,4c6204d4
+e38f1636,Nick Viergever,4,NED,CB,30-082,90,0,0,0,0,0,0,0,0,66,1,0,2,0.0,0.0,0.0,0,0,44,56,78.6,1,30,0,0,0,PSV Eindhoven,2019-10-24 PSV Eindhoven-LASK,UEL,19-20,4c6204d4
+824bd41a,Daniel Schwaab,6,GER,CB,31-062,90,0,0,0,0,2,1,0,0,96,2,1,2,0.5,0.5,0.0,0,0,63,82,76.8,4,42,0,1,1,PSV Eindhoven,2019-10-24 PSV Eindhoven-LASK,UEL,19-20,4c6204d4
+481c9ece,Denzel Dumfries,22,NED,RB,23-189,90,0,0,0,0,1,0,0,0,75,4,0,0,0.1,0.1,0.0,0,0,39,61,63.9,2,24,3,6,3,PSV Eindhoven,2019-10-24 PSV Eindhoven-LASK,UEL,19-20,4c6204d4
+cc1a0c57,Jeroen Zoet,1,NED,GK,28-291,90,0,0,0,0,0,0,0,0,46,0,0,0,0.0,0.0,0.0,0,0,28,46,60.9,0,21,0,0,0,PSV Eindhoven,2019-10-24 PSV Eindhoven-LASK,UEL,19-20,4c6204d4
+49e9d799,Marko Raguž,29,AUT,FW,21-136,70,0,0,0,0,1,0,0,0,28,3,0,1,0.4,0.4,0.0,2,0,10,15,66.7,1,14,0,2,2,LASK,2019-10-24 PSV Eindhoven-LASK,UEL,19-20,4c6204d4
+f5ae006d,Klauss,9,BRA,FW,22-237,20,0,0,0,0,2,1,0,0,14,0,0,0,0.4,0.4,0.0,1,0,7,11,63.6,2,8,0,0,0,LASK,2019-10-24 PSV Eindhoven-LASK,UEL,19-20,4c6204d4
+59a7d912,Dominik Frieser,28,AUT,LW,26-045,59,0,0,0,0,1,0,0,0,23,1,0,1,0.0,0.0,0.0,1,0,8,12,66.7,1,10,0,2,0,LASK,2019-10-24 PSV Eindhoven-LASK,UEL,19-20,4c6204d4
+a2560346,Samuel Tetteh,20,GHA,LW,23-088,31,0,0,0,0,0,0,0,0,17,1,0,0,0.0,0.0,0.0,3,0,7,11,63.6,2,8,0,0,0,LASK,2019-10-24 PSV Eindhoven-LASK,UEL,19-20,4c6204d4
+e1ba3d5a,Thomas Goiginger,27,AUT,RW,26-223,90,0,0,0,0,1,0,0,0,33,1,1,2,0.1,0.1,0.0,4,0,15,17,88.2,0,20,2,2,1,LASK,2019-10-24 PSV Eindhoven-LASK,UEL,19-20,4c6204d4
+8023bcab,Marvin Potzmann,16,AUT,LM,25-321,90,0,0,0,0,1,0,1,0,71,7,3,1,0.0,0.0,0.0,4,0,34,53,64.2,3,26,2,0,0,LASK,2019-10-24 PSV Eindhoven-LASK,UEL,19-20,4c6204d4
+5ad141cb,Peter Michorl,8,AUT,CM,24-168,90,0,0,0,0,3,0,0,0,58,0,0,1,0.1,0.1,0.0,0,0,28,50,56.0,1,14,0,1,0,LASK,2019-10-24 PSV Eindhoven-LASK,UEL,19-20,4c6204d4
+efc13588,James Holland,25,AUS,CM,30-162,90,0,0,0,0,1,0,0,0,54,3,1,0,0.0,0.0,0.4,3,0,27,42,64.3,6,21,0,1,0,LASK,2019-10-24 PSV Eindhoven-LASK,UEL,19-20,4c6204d4
+06a10001,Reinhold Ranftl,26,AUT,RM,27-273,90,0,0,0,0,0,0,1,0,66,1,2,3,0.0,0.0,0.4,1,0,30,51,58.8,4,31,3,1,1,LASK,2019-10-24 PSV Eindhoven-LASK,UEL,19-20,4c6204d4
+908eea67,Petar Filipović,5,GER,CB,29-040,90,0,0,0,0,0,0,0,0,43,3,1,1,0.0,0.0,0.0,0,0,21,33,63.6,5,16,1,1,0,LASK,2019-10-24 PSV Eindhoven-LASK,UEL,19-20,4c6204d4
+9d21da85,Gernot Trauner,18,AUT,CB,27-213,90,0,0,0,0,0,0,0,0,58,1,7,1,0.0,0.0,0.0,0,0,16,40,40.0,3,13,0,0,0,LASK,2019-10-24 PSV Eindhoven-LASK,UEL,19-20,4c6204d4
+bdc8912c,Philipp Wiesinger,6,AUT,CB,25-154,90,0,0,0,0,1,0,1,0,71,4,6,2,0.1,0.1,0.0,0,0,35,52,67.3,9,18,0,0,0,LASK,2019-10-24 PSV Eindhoven-LASK,UEL,19-20,4c6204d4
+6fe5c35b,Alexander Schlager,1,AUT,GK,23-265,90,0,0,0,0,0,0,0,0,40,1,0,0,0.0,0.0,0.0,0,0,19,35,54.3,0,18,0,0,0,LASK,2019-10-24 PSV Eindhoven-LASK,UEL,19-20,4c6204d4

@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+4f16405e,Niclas Füllkrug,14,GER,FW,30-289,75,1,1,0,0,2,2,0,0,19,0,0,0,0.2,0.2,0.7,3,1,11,15,73.3,1,11,1,0,0,Dortmund,2023-11-25 Dortmund-Gladbach,GER-BL1,23-24,f681bb3c
+6ce43701,Youssoufa Moukoko,18,GER,FW,19-005,15,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,3,0,0,0,Dortmund,2023-11-25 Dortmund-Gladbach,GER-BL1,23-24,f681bb3c
+10745192,Jamie Gittens,43,ENG,LW,19-109,66,1,1,0,0,6,5,0,0,38,0,1,0,0.5,0.5,0.1,4,1,18,26,69.2,3,30,6,4,1,Dortmund,2023-11-25 Dortmund-Gladbach,GER-BL1,23-24,f681bb3c
+116c35df,Donyell Malen,21,NED,"RW,AM,LW",24-320,24,1,0,0,0,3,2,0,0,11,1,1,0,1.0,1.0,0.0,2,1,2,2,100.0,0,5,2,3,1,Dortmund,2023-11-25 Dortmund-Gladbach,GER-BL1,23-24,f681bb3c
+36a3ff67,Marco Reus,11,GER,"RW,LW,AM",34-178,89,0,0,0,0,4,2,0,0,45,2,2,1,0.5,0.5,0.3,9,1,29,33,87.9,3,25,1,0,0,Dortmund,2023-11-25 Dortmund-Gladbach,GER-BL1,23-24,f681bb3c
+fa661778,Marius Wolf,17,GER,AM,28-182,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Dortmund,2023-11-25 Dortmund-Gladbach,GER-BL1,23-24,f681bb3c
+a167537f,Julian Brandt,19,GER,"AM,DM,WB",27-207,90,0,1,0,0,0,0,1,0,48,0,1,0,0.0,0.0,0.4,6,2,31,41,75.6,2,31,1,4,2,Dortmund,2023-11-25 Dortmund-Gladbach,GER-BL1,23-24,f681bb3c
+e280527c,Marcel Sabitzer,20,AUT,DM,29-253,45,1,0,0,0,2,2,0,0,14,0,0,0,0.3,0.3,0.0,1,0,9,10,90.0,0,8,0,0,0,Dortmund,2023-11-25 Dortmund-Gladbach,GER-BL1,23-24,f681bb3c
+7fa4e703,Gio Reyna,7,USA,"DM,AM,CM",21-012,45,0,0,0,0,1,0,0,0,24,2,0,1,0.4,0.4,0.1,4,0,13,17,76.5,0,18,0,0,0,Dortmund,2023-11-25 Dortmund-Gladbach,GER-BL1,23-24,f681bb3c
+a65ce836,Emre Can,23,GER,DM,29-317,66,0,0,0,0,1,0,0,0,59,5,1,0,0.0,0.0,0.1,3,0,41,49,83.7,5,38,1,0,0,Dortmund,2023-11-25 Dortmund-Gladbach,GER-BL1,23-24,f681bb3c
+15413fa5,Salih Özcan,6,TUR,"DM,CM",25-318,24,0,0,0,0,0,0,0,0,10,0,0,1,0.0,0.0,0.0,0,0,6,6,100.0,1,7,2,0,0,Dortmund,2023-11-25 Dortmund-Gladbach,GER-BL1,23-24,f681bb3c
+378825c7,Ramy Bensebaini,5,ALG,"LB,CB",28-223,90,0,0,0,0,2,0,0,0,104,3,3,2,0.2,0.2,0.0,1,1,82,93,88.2,8,82,0,1,1,Dortmund,2023-11-25 Dortmund-Gladbach,GER-BL1,23-24,f681bb3c
+34e12499,Nico Schlotterbeck,4,GER,CB,23-359,90,0,0,0,0,0,0,0,0,95,3,1,3,0.0,0.0,0.0,0,0,82,85,96.5,3,73,0,0,0,Dortmund,2023-11-25 Dortmund-Gladbach,GER-BL1,23-24,f681bb3c
+05d548d8,Mats Hummels,15,GER,CB,34-344,90,0,0,0,0,1,0,0,0,113,3,0,2,0.0,0.0,0.1,3,0,90,97,92.8,9,79,1,2,0,Dortmund,2023-11-25 Dortmund-Gladbach,GER-BL1,23-24,f681bb3c
+009a4f60,Julian Ryerson,26,NOR,"RB,WB",26-008,90,0,0,0,0,1,0,0,0,59,5,0,1,0.0,0.0,0.1,2,0,35,45,77.8,0,35,4,1,1,Dortmund,2023-11-25 Dortmund-Gladbach,GER-BL1,23-24,f681bb3c
+cd59b9df,Gregor Kobel,1,SUI,GK,25-354,90,0,0,0,0,0,0,0,0,37,0,0,0,0.0,0.0,0.0,0,0,26,35,74.3,0,26,0,0,0,Dortmund,2023-11-25 Dortmund-Gladbach,GER-BL1,23-24,f681bb3c
+bc6bd723,Alassane Pléa,14,FRA,FW,30-260,72,0,1,0,0,2,0,0,0,39,0,0,0,0.1,0.1,0.6,2,1,21,32,65.6,3,23,4,3,0,Mönchengladbach,2023-11-25 Dortmund-Gladbach,GER-BL1,23-24,f681bb3c
+36a59ba4,Florian Neuhaus,10,GER,FW,26-254,18,0,0,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.0,0,0,9,10,90.0,0,8,0,1,0,Mönchengladbach,2023-11-25 Dortmund-Gladbach,GER-BL1,23-24,f681bb3c
+b684a484,Jordan Pefok,13,USA,FW,27-213,45,0,0,0,0,1,0,0,0,15,1,0,0,0.0,0.0,0.0,1,0,8,9,88.9,1,10,0,0,0,Mönchengladbach,2023-11-25 Dortmund-Gladbach,GER-BL1,23-24,f681bb3c
+298c8aa1,Tomáš Čvančara,31,CZE,FW,23-104,45,0,0,0,0,0,0,0,0,12,0,0,0,0.0,0.0,0.0,0,0,9,10,90.0,0,10,1,0,0,Mönchengladbach,2023-11-25 Dortmund-Gladbach,GER-BL1,23-24,f681bb3c
+86574238,Manu Koné,17,FRA,CM,22-192,90,1,0,0,0,2,1,1,0,65,2,0,0,0.1,0.1,0.0,2,0,42,49,85.7,3,39,1,10,5,Mönchengladbach,2023-11-25 Dortmund-Gladbach,GER-BL1,23-24,f681bb3c
+346d51d9,Julian Weigl,8,GER,CM,28-078,81,0,0,0,0,1,0,1,0,54,4,2,2,0.0,0.0,0.0,0,0,39,43,90.7,1,29,0,0,0,Mönchengladbach,2023-11-25 Dortmund-Gladbach,GER-BL1,23-24,f681bb3c
+496aeede,Christoph Kramer,23,GER,CM,32-279,9,0,0,0,0,1,0,0,0,19,2,0,0,0.1,0.1,0.1,1,0,16,17,94.1,2,7,0,0,0,Mönchengladbach,2023-11-25 Dortmund-Gladbach,GER-BL1,23-24,f681bb3c
+cc971106,Rocco Reitz,27,GER,CM,21-180,60,1,0,0,0,1,1,0,0,21,2,0,0,0.6,0.6,0.0,2,0,12,17,70.6,7,13,2,1,1,Mönchengladbach,2023-11-25 Dortmund-Gladbach,GER-BL1,23-24,f681bb3c
+e110ea4b,Nathan N'Goumou,19,FRA,LM,23-256,30,0,0,0,0,0,0,0,0,15,0,0,1,0.0,0.0,0.0,1,0,8,9,88.9,2,12,1,3,2,Mönchengladbach,2023-11-25 Dortmund-Gladbach,GER-BL1,23-24,f681bb3c
+e79269bd,Luca Netz,20,GER,"WB,LB",20-194,90,0,0,0,0,1,1,0,0,78,1,1,3,0.0,0.0,0.0,2,0,50,64,78.1,6,40,5,3,0,Mönchengladbach,2023-11-25 Dortmund-Gladbach,GER-BL1,23-24,f681bb3c
+db7849ca,Franck Honorat,9,FRA,"WB,RM",27-106,72,0,0,0,0,0,0,0,0,46,0,0,1,0.0,0.0,0.0,1,1,22,37,59.5,5,22,0,0,0,Mönchengladbach,2023-11-25 Dortmund-Gladbach,GER-BL1,23-24,f681bb3c
+0174ba21,Robin Hack,25,GER,RM,25-090,18,0,0,0,0,0,0,0,0,15,0,0,0,0.0,0.0,0.0,1,0,7,11,63.6,1,9,2,2,0,Mönchengladbach,2023-11-25 Dortmund-Gladbach,GER-BL1,23-24,f681bb3c
+4b803b3c,Maximilian Wöber,39,AUT,CB,25-294,90,0,0,0,0,1,0,0,0,78,2,0,1,0.1,0.1,0.0,2,1,62,70,88.6,5,49,0,0,0,Mönchengladbach,2023-11-25 Dortmund-Gladbach,GER-BL1,23-24,f681bb3c
+48035304,Nico Elvedi,30,SUI,CB,27-056,90,0,1,0,0,0,0,0,0,61,2,1,0,0.0,0.0,0.0,1,1,55,56,98.2,5,39,0,0,0,Mönchengladbach,2023-11-25 Dortmund-Gladbach,GER-BL1,23-24,f681bb3c
+236f02cd,Joe Scally,29,USA,"CB,RB",20-329,90,0,0,0,0,0,0,0,0,86,4,1,0,0.0,0.0,0.0,1,0,64,78,82.1,7,41,0,1,1,Mönchengladbach,2023-11-25 Dortmund-Gladbach,GER-BL1,23-24,f681bb3c
+226ddf9d,Moritz Nicolas,33,GER,GK,26-035,90,0,0,0,0,0,0,0,0,35,0,0,0,0.0,0.0,0.0,0,0,28,31,90.3,0,19,0,0,0,Mönchengladbach,2023-11-25 Dortmund-Gladbach,GER-BL1,23-24,f681bb3c

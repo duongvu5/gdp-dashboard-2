@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+061e8e23,Maximilian Philipp,20,GER,FW,24-219,58,0,0,0,0,2,1,0,0,36,0,0,1,0.1,0.1,0.0,0,0,23,29,79.3,0,20,1,0,0,Dortmund,2018-10-06 Dortmund-Augsburg,GER-BL1,18-19,b8631e1e
+a7a9d95a,Paco Alcácer,9,ESP,FW,25-037,32,3,0,0,0,6,3,0,0,21,0,0,1,0.9,0.9,0.0,1,0,10,13,76.9,1,10,0,1,1,Dortmund,2018-10-06 Dortmund-Augsburg,GER-BL1,18-19,b8631e1e
+4e204552,Jacob Bruun Larsen,34,DEN,LW,20-017,68,0,0,0,0,0,0,0,0,40,0,0,0,0.0,0.0,0.1,3,0,25,36,69.4,2,23,3,0,0,Dortmund,2018-10-06 Dortmund-Augsburg,GER-BL1,18-19,b8631e1e
+048a1cbc,Raphaël Guerreiro,13,POR,LW,24-288,22,0,1,0,0,2,1,0,0,29,1,0,0,0.1,0.1,0.1,3,1,16,22,72.7,2,12,2,1,1,Dortmund,2018-10-06 Dortmund-Augsburg,GER-BL1,18-19,b8631e1e
+dbf053da,Jadon Sancho,7,ENG,RW,18-195,90,0,1,0,0,0,0,0,0,55,0,0,1,0.0,0.0,1.0,9,2,42,51,82.4,6,34,6,1,1,Dortmund,2018-10-06 Dortmund-Augsburg,GER-BL1,18-19,b8631e1e
+36a3ff67,Marco Reus,11,GER,AM,29-128,90,0,0,0,0,1,0,1,0,43,0,0,0,0.4,0.4,0.1,1,0,27,34,79.4,3,25,2,3,2,Dortmund,2018-10-06 Dortmund-Augsburg,GER-BL1,18-19,b8631e1e
+346d51d9,Julian Weigl,33,GER,DM,23-028,76,0,0,0,0,0,0,0,0,46,3,1,0,0.0,0.0,0.0,0,0,38,40,95.0,3,28,1,0,0,Dortmund,2018-10-06 Dortmund-Augsburg,GER-BL1,18-19,b8631e1e
+9efa1d25,Mario Götze,10,GER,DM,26-125,14,1,0,0,0,1,1,0,0,12,0,0,0,0.3,0.3,0.0,3,0,10,11,90.9,5,7,2,0,0,Dortmund,2018-10-06 Dortmund-Augsburg,GER-BL1,18-19,b8631e1e
+5dfc6ad5,Axel Witsel,28,BEL,DM,29-267,90,0,0,0,0,4,0,0,0,72,1,1,2,0.2,0.2,0.0,3,1,57,62,91.9,8,37,2,0,0,Dortmund,2018-10-06 Dortmund-Augsburg,GER-BL1,18-19,b8631e1e
+fc62f087,Abdou Diallo,4,SEN,LB,22-155,90,0,0,0,0,0,0,0,0,91,0,0,2,0.0,0.0,0.0,1,0,73,83,88.0,3,46,4,0,0,Dortmund,2018-10-06 Dortmund-Augsburg,GER-BL1,18-19,b8631e1e
+a4effc55,Dan-Axel Zagadou,2,FRA,CB,19-125,90,0,0,0,0,1,0,0,0,80,1,2,1,0.1,0.1,0.0,3,0,55,66,83.3,4,37,1,2,2,Dortmund,2018-10-06 Dortmund-Augsburg,GER-BL1,18-19,b8631e1e
+89ac64a6,Manuel Akanji,16,SUI,CB,23-079,90,0,0,0,0,1,0,0,0,60,0,2,0,0.1,0.1,0.0,1,1,46,52,88.5,2,39,2,0,0,Dortmund,2018-10-06 Dortmund-Augsburg,GER-BL1,18-19,b8631e1e
+e42d61c7,Achraf Hakimi,5,MAR,RB,19-336,90,0,1,0,0,2,1,0,0,86,1,0,4,0.0,0.0,0.3,3,2,62,75,82.7,4,46,6,2,0,Dortmund,2018-10-06 Dortmund-Augsburg,GER-BL1,18-19,b8631e1e
+9d12e142,Roman Bürki,1,SUI,GK,27-326,90,0,0,0,0,0,0,0,0,45,0,0,0,0.0,0.0,0.0,1,0,29,42,69.0,0,28,0,0,0,Dortmund,2018-10-06 Dortmund-Augsburg,GER-BL1,18-19,b8631e1e
+f9e7c4ac,Alfreð Finnbogason,27,ISL,FW,29-247,82,1,0,0,0,3,1,1,0,24,0,0,0,0.7,0.7,0.5,5,0,12,19,63.2,4,19,0,0,0,Augsburg,2018-10-06 Dortmund-Augsburg,GER-BL1,18-19,b8631e1e
+229cd98a,Sergio Córdova,21,VEN,FW,21-058,8,0,0,0,0,0,0,1,0,6,0,0,0,0.0,0.0,0.0,0,0,3,4,75.0,0,3,0,0,0,Augsburg,2018-10-06 Dortmund-Augsburg,GER-BL1,18-19,b8631e1e
+8e235926,Michael Gregoritsch,11,AUT,FW,24-171,90,1,0,0,0,2,2,0,0,37,0,0,4,0.3,0.3,0.0,3,0,14,25,56.0,2,18,1,0,0,Augsburg,2018-10-06 Dortmund-Augsburg,GER-BL1,18-19,b8631e1e
+c6637acf,Caiuby,30,BRA,AM,30-084,90,0,0,0,0,2,0,1,0,40,1,0,2,0.5,0.5,0.1,3,0,18,29,62.1,3,19,2,2,0,Augsburg,2018-10-06 Dortmund-Augsburg,GER-BL1,18-19,b8631e1e
+cd82452e,André Hahn,28,GER,AM,28-054,74,0,1,0,0,2,1,1,0,18,1,0,1,0.1,0.1,0.5,1,1,6,10,60.0,0,9,1,0,0,Augsburg,2018-10-06 Dortmund-Augsburg,GER-BL1,18-19,b8631e1e
+e7d22eae,Jan Morávek,14,CZE,CM,28-339,16,0,0,0,0,0,0,0,0,7,0,0,1,0.0,0.0,0.0,0,0,3,4,75.0,0,1,0,0,0,Augsburg,2018-10-06 Dortmund-Augsburg,GER-BL1,18-19,b8631e1e
+f261abcb,Daniel Baier,10,GER,DM,34-141,63,0,0,0,0,1,0,1,0,23,1,1,0,0.1,0.1,0.0,0,0,8,17,47.1,0,15,2,1,0,Augsburg,2018-10-06 Dortmund-Augsburg,GER-BL1,18-19,b8631e1e
+ee7cdd0c,Felix Götze,4,GER,"CM,DM",20-237,27,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,1,0,0,0,Augsburg,2018-10-06 Dortmund-Augsburg,GER-BL1,18-19,b8631e1e
+59e4b92e,Rani Khedira,8,GER,"DM,CB",24-252,90,0,0,0,0,0,0,1,0,34,1,2,2,0.0,0.0,0.0,0,0,17,23,73.9,1,9,0,0,0,Augsburg,2018-10-06 Dortmund-Augsburg,GER-BL1,18-19,b8631e1e
+826e8b63,Philipp Max,31,GER,"LB,WB",25-006,90,1,1,0,0,1,1,0,0,46,2,2,0,0.5,0.5,0.1,5,3,25,40,62.5,7,24,7,1,1,Augsburg,2018-10-06 Dortmund-Augsburg,GER-BL1,18-19,b8631e1e
+080440a4,Martin Hinteregger,36,AUT,CB,26-029,90,0,0,0,0,0,0,0,0,43,3,2,3,0.0,0.0,0.0,1,1,22,32,68.8,3,19,0,0,0,Augsburg,2018-10-06 Dortmund-Augsburg,GER-BL1,18-19,b8631e1e
+1025db8e,Jeffrey Gouweleeuw,6,NED,CB,27-088,90,0,0,0,0,1,1,1,0,58,2,2,3,0.4,0.4,0.1,1,0,34,45,75.6,7,31,0,0,0,Augsburg,2018-10-06 Dortmund-Augsburg,GER-BL1,18-19,b8631e1e
+626fab5f,Raphael Framberger,32,GER,"RB,WB",23-030,90,0,0,0,0,0,0,0,0,51,1,3,2,0.0,0.0,0.7,2,0,24,42,57.1,4,26,4,0,0,Augsburg,2018-10-06 Dortmund-Augsburg,GER-BL1,18-19,b8631e1e
+7fe12375,Andreas Luthe,1,GER,GK,31-210,90,0,0,0,0,0,0,0,0,38,0,0,0,0.0,0.0,0.0,0,0,26,35,74.3,0,14,0,0,0,Augsburg,2018-10-06 Dortmund-Augsburg,GER-BL1,18-19,b8631e1e

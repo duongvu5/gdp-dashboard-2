@@ -1,0 +1,29 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+d705ba44,Andrea Belotti,9,ITA,FW,23-347,90,0,0,0,0,2,1,0,0,44,1,1,0,0.1,0.1,0.0,3,0,15,31,48.4,3,29,1,3,3,Torino,2017-12-02 Torino-Atalanta,ITA-SERIA_A,17-18,173a7912
+2648e18f,Adem Ljajić,10,SRB,"LW,AM",26-064,90,0,1,0,0,3,1,0,0,63,1,1,0,0.2,0.2,0.2,5,1,29,53,54.7,4,31,1,2,1,Torino,2017-12-02 Torino-Atalanta,ITA-SERIA_A,17-18,173a7912
+440c84ed,Iago Falque,14,ESP,RW,27-332,79,0,0,0,0,2,1,0,0,40,0,2,1,0.1,0.1,0.1,1,0,30,35,85.7,2,26,0,1,0,Torino,2017-12-02 Torino-Atalanta,ITA-SERIA_A,17-18,173a7912
+8697c095,Simone Edera,20,ITA,RW,20-327,11,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,3,4,75.0,1,3,0,1,0,Torino,2017-12-02 Torino-Atalanta,ITA-SERIA_A,17-18,173a7912
+614c38fb,Joel Obi,22,NGA,LM,26-194,72,0,0,0,0,1,1,1,0,31,4,0,2,0.1,0.1,0.0,1,0,17,22,77.3,4,17,3,2,2,Torino,2017-12-02 Torino-Atalanta,ITA-SERIA_A,17-18,173a7912
+d49f3e6b,Lucas Boyé,31,ARG,LW,21-277,18,0,0,0,0,0,0,0,0,15,1,0,1,0.0,0.0,0.0,2,0,6,9,66.7,0,10,1,1,1,Torino,2017-12-02 Torino-Atalanta,ITA-SERIA_A,17-18,173a7912
+f1cfc209,Tomás Rincón,88,VEN,"CM,DM",29-323,90,0,0,0,0,1,0,0,0,55,1,5,0,0.0,0.0,0.1,3,0,32,39,82.1,5,31,0,1,0,Torino,2017-12-02 Torino-Atalanta,ITA-SERIA_A,17-18,173a7912
+ea06dd97,Daniele Baselli,8,ITA,"RM,DM",25-265,90,0,0,0,0,1,1,1,0,56,4,0,1,0.0,0.0,0.0,1,0,31,42,73.8,4,26,0,1,0,Torino,2017-12-02 Torino-Atalanta,ITA-SERIA_A,17-18,173a7912
+bbafc0c4,Cristian Ansaldi,15,ARG,LB,31-073,14,0,0,0,0,0,0,0,0,19,0,2,0,0.0,0.0,0.0,0,0,10,16,62.5,1,13,0,0,0,Torino,2017-12-02 Torino-Atalanta,ITA-SERIA_A,17-18,173a7912
+6a189491,Antonio Barreca,23,ITA,LB,22-259,76,0,0,0,0,0,0,0,0,65,3,2,1,0.0,0.0,0.0,0,0,37,49,75.5,3,25,1,3,0,Torino,2017-12-02 Torino-Atalanta,ITA-SERIA_A,17-18,173a7912
+9417f322,Nicolás Burdisso,13,ARG,CB,36-234,90,0,0,0,0,0,0,0,0,43,2,1,0,0.0,0.0,0.0,0,0,27,32,84.4,2,19,0,0,0,Torino,2017-12-02 Torino-Atalanta,ITA-SERIA_A,17-18,173a7912
+93cf32a8,Nicolas Nkoulou,33,CMR,CB,27-250,90,1,0,0,0,1,1,0,0,59,1,1,0,0.1,0.1,0.0,0,0,46,49,93.9,2,38,0,0,0,Torino,2017-12-02 Torino-Atalanta,ITA-SERIA_A,17-18,173a7912
+e74f0e59,Lorenzo De Silvestri,29,ITA,RB,29-193,90,0,0,0,0,0,0,0,0,75,5,3,1,0.0,0.0,0.0,1,0,40,59,67.8,5,32,2,1,1,Torino,2017-12-02 Torino-Atalanta,ITA-SERIA_A,17-18,173a7912
+10dc46f0,Salvatore Sirigu,39,ITA,GK,30-324,90,0,0,0,0,0,0,0,0,58,0,0,0,0.0,0.0,0.0,0,0,43,54,79.6,0,30,0,0,0,Torino,2017-12-02 Torino-Atalanta,ITA-SERIA_A,17-18,173a7912
+03f946ed,Andrea Petagna,29,ITA,FW,22-155,71,0,1,0,0,3,1,0,0,31,0,0,0,0.3,0.3,0.4,5,1,18,23,78.3,2,25,1,1,1,Atalanta,2017-12-02 Torino-Atalanta,ITA-SERIA_A,17-18,173a7912
+c693347d,Andreas Cornelius,9,DEN,FW,24-261,19,0,0,0,0,0,0,0,0,14,1,0,0,0.0,0.0,0.0,1,0,7,10,70.0,0,9,1,2,1,Atalanta,2017-12-02 Torino-Atalanta,ITA-SERIA_A,17-18,173a7912
+6e4df551,Papu Gómez,10,ARG,AM,29-290,90,0,0,0,0,3,2,0,0,53,0,1,2,0.1,0.1,0.2,4,0,28,42,66.7,4,35,8,6,5,Atalanta,2017-12-02 Torino-Atalanta,ITA-SERIA_A,17-18,173a7912
+144607cc,Jasmin Kurtić,27,SVN,AM,28-326,45,0,0,0,0,3,1,0,0,31,2,1,1,0.2,0.2,0.0,2,0,16,21,76.2,1,14,1,2,2,Atalanta,2017-12-02 Torino-Atalanta,ITA-SERIA_A,17-18,173a7912
+68252d6d,Josip Iličić,72,SVN,AM,29-307,45,1,0,0,0,2,2,0,0,40,2,0,0,0.4,0.4,0.1,2,0,27,35,77.1,6,27,3,4,3,Atalanta,2017-12-02 Torino-Atalanta,ITA-SERIA_A,17-18,173a7912
+98d2c2c4,Remo Freuler,11,SUI,CM,25-231,90,0,0,0,0,0,0,0,0,54,2,1,3,0.0,0.0,0.0,4,0,30,39,76.9,0,18,0,1,1,Atalanta,2017-12-02 Torino-Atalanta,ITA-SERIA_A,17-18,173a7912
+16657b95,Bryan Cristante,4,ITA,CM,22-274,90,0,0,0,0,0,0,0,0,55,4,2,3,0.0,0.0,0.2,3,0,25,42,59.5,7,18,1,2,1,Atalanta,2017-12-02 Torino-Atalanta,ITA-SERIA_A,17-18,173a7912
+3626daea,Leonardo Spinazzola,37,ITA,WB,24-252,90,0,0,0,0,3,1,0,0,58,0,0,2,0.1,0.1,0.1,3,0,33,43,76.7,7,30,3,5,2,Atalanta,2017-12-02 Torino-Atalanta,ITA-SERIA_A,17-18,173a7912
+3b333ac3,Hans Hateboer,33,NED,WB,23-327,90,0,0,0,0,0,0,0,0,80,4,1,1,0.0,0.0,0.0,1,0,45,65,69.2,4,36,3,3,0,Atalanta,2017-12-02 Torino-Atalanta,ITA-SERIA_A,17-18,173a7912
+e0314d87,Andrea Masiello,5,ITA,CB,31-300,90,0,0,0,0,0,0,1,0,50,1,2,0,0.0,0.0,0.0,1,0,30,41,73.2,2,22,0,1,1,Atalanta,2017-12-02 Torino-Atalanta,ITA-SERIA_A,17-18,173a7912
+ac7e640b,Mattia Caldara,13,ITA,CB,23-211,90,0,0,0,0,1,0,0,0,36,2,3,1,0.0,0.0,0.0,0,0,20,24,83.3,1,11,0,1,1,Atalanta,2017-12-02 Torino-Atalanta,ITA-SERIA_A,17-18,173a7912
+c56dc39e,Rafael Tolói,3,ITA,CB,27-053,90,0,0,0,0,0,0,1,0,49,2,4,1,0.0,0.0,0.0,1,1,23,34,67.6,3,19,0,2,1,Atalanta,2017-12-02 Torino-Atalanta,ITA-SERIA_A,17-18,173a7912
+ee833569,Etrit Berisha,1,ALB,GK,28-267,90,0,0,0,0,0,0,0,0,28,0,0,0,0.0,0.0,0.0,0,0,13,24,54.2,0,13,0,0,0,Atalanta,2017-12-02 Torino-Atalanta,ITA-SERIA_A,17-18,173a7912

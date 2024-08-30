@@ -1,0 +1,29 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+15f24fe7,Sasa Kalajdzic,9,AUT,FW,24-241,90,1,0,0,0,5,1,0,0,30,0,0,0,0.7,0.7,0.4,3,1,16,23,69.6,0,9,0,2,1,Stuttgart,2022-03-05 Stuttgart-Gladbach,GER-BL1,21-22,ec0566d3
+0e0102eb,Omar Marmoush,17,EGY,LW,23-026,88,0,0,0,0,4,1,0,0,35,1,0,1,0.1,0.1,0.1,3,0,16,20,80.0,0,20,3,7,2,Stuttgart,2022-03-05 Stuttgart-Gladbach,GER-BL1,21-22,ec0566d3
+05ba9d7c,Tanguy Coulibaly,7,FRA,LW,21-015,2,0,0,0,0,0,0,0,0,4,0,0,1,0.0,0.0,0.0,0,0,0,1,0.0,0,2,1,0,0,Stuttgart,2022-03-05 Stuttgart-Gladbach,GER-BL1,21-22,ec0566d3
+b492126a,Tiago Tomás,18,POR,RW,19-262,89,0,0,0,0,2,2,0,0,36,1,0,2,0.7,0.7,0.0,5,0,11,21,52.4,0,24,5,8,5,Stuttgart,2022-03-05 Stuttgart-Gladbach,GER-BL1,21-22,ec0566d3
+2f7fec15,Lilian Egloff,25,GER,RW,19-197,1,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,0,0,0,0,Stuttgart,2022-03-05 Stuttgart-Gladbach,GER-BL1,21-22,ec0566d3
+0cf778df,Chris Führich,22,GER,LM,24-055,89,1,0,0,0,2,2,0,0,53,3,0,1,0.5,0.5,0.0,0,0,38,44,86.4,5,26,2,5,3,Stuttgart,2022-03-05 Stuttgart-Gladbach,GER-BL1,21-22,ec0566d3
+76fa965f,Philipp Förster,20,GER,LM,27-029,1,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,0,0,0,0,Stuttgart,2022-03-05 Stuttgart-Gladbach,GER-BL1,21-22,ec0566d3
+5762be5c,Atakan Karazor,16,GER,CM,25-143,90,0,0,0,0,1,0,0,0,77,5,0,4,0.0,0.0,0.3,2,0,55,61,90.2,8,23,0,2,2,Stuttgart,2022-03-05 Stuttgart-Gladbach,GER-BL1,21-22,ec0566d3
+c149016b,Wataru Endo,3,JPN,RM,29-024,90,1,0,0,0,2,1,0,0,68,2,0,2,0.1,0.1,0.0,2,1,46,55,83.6,7,30,0,3,1,Stuttgart,2022-03-05 Stuttgart-Gladbach,GER-BL1,21-22,ec0566d3
+af0d79a9,Borna Sosa,24,CRO,LB,24-043,90,0,1,0,0,1,0,0,0,88,0,0,2,0.1,0.1,0.6,10,3,61,82,74.4,8,40,8,4,3,Stuttgart,2022-03-05 Stuttgart-Gladbach,GER-BL1,21-22,ec0566d3
+204dded0,Hiroki Ito,37,JPN,CB,22-297,90,0,0,0,0,1,0,0,0,101,0,0,1,0.0,0.0,0.1,3,0,86,97,88.7,9,65,0,0,0,Stuttgart,2022-03-05 Stuttgart-Gladbach,GER-BL1,21-22,ec0566d3
+5e66fa06,Waldemar Anton,2,GER,CB,25-228,90,0,0,0,0,0,0,1,0,105,0,0,2,0.0,0.0,0.0,2,0,92,97,94.8,8,79,1,0,0,Stuttgart,2022-03-05 Stuttgart-Gladbach,GER-BL1,21-22,ec0566d3
+00963611,Konstantinos Mavropanos,5,GRE,RB,24-084,90,0,0,0,0,1,0,0,0,84,4,0,0,0.1,0.1,0.0,2,0,55,72,76.4,9,28,2,2,0,Stuttgart,2022-03-05 Stuttgart-Gladbach,GER-BL1,21-22,ec0566d3
+cbac6ec9,Florian Müller,1,GER,GK,24-112,90,0,0,0,0,0,0,0,0,28,0,0,0,0.0,0.0,0.0,0,0,22,27,81.5,0,14,0,0,0,Stuttgart,2022-03-05 Stuttgart-Gladbach,GER-BL1,21-22,ec0566d3
+6f8cd6d0,Marcus Thuram,10,FRA,FW,24-211,90,1,0,0,0,1,1,0,0,30,0,0,0,0.3,0.3,0.0,1,0,13,19,68.4,1,19,2,1,0,Mönchengladbach,2022-03-05 Stuttgart-Gladbach,GER-BL1,21-22,ec0566d3
+bc6bd723,Alassane Pléa,14,FRA,"LW,LM",28-360,84,1,1,0,0,3,1,0,0,35,0,0,0,0.3,0.3,0.3,3,2,15,21,71.4,5,21,0,5,0,Mönchengladbach,2022-03-05 Stuttgart-Gladbach,GER-BL1,21-22,ec0566d3
+e79269bd,Luca Netz,20,GER,LM,18-294,6,0,0,0,0,0,0,0,0,6,1,0,0,0.0,0.0,0.0,0,0,4,5,80.0,2,4,0,2,2,Mönchengladbach,2022-03-05 Stuttgart-Gladbach,GER-BL1,21-22,ec0566d3
+2903a856,Jonas Hofmann,23,GER,"RW,RM",29-234,90,0,0,0,0,0,0,0,0,33,3,1,0,0.0,0.0,0.1,5,1,18,28,64.3,2,14,0,1,1,Mönchengladbach,2022-03-05 Stuttgart-Gladbach,GER-BL1,21-22,ec0566d3
+86574238,Manu Koné,17,FRA,"LM,RM",20-292,71,0,0,0,0,0,0,0,0,47,0,0,1,0.0,0.0,0.0,1,0,33,37,89.2,1,26,0,0,0,Mönchengladbach,2022-03-05 Stuttgart-Gladbach,GER-BL1,21-22,ec0566d3
+0b4f388a,Breel Embolo,36,SUI,FW,25-019,19,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,2,5,40.0,0,2,0,1,0,Mönchengladbach,2022-03-05 Stuttgart-Gladbach,GER-BL1,21-22,ec0566d3
+496aeede,Christoph Kramer,6,GER,CM,31-014,90,0,0,0,0,0,0,0,0,67,6,1,1,0.0,0.0,0.0,0,0,43,55,78.2,4,26,1,2,1,Mönchengladbach,2022-03-05 Stuttgart-Gladbach,GER-BL1,21-22,ec0566d3
+36a59ba4,Florian Neuhaus,32,GER,"RM,LM,CM",24-354,90,0,1,0,0,2,1,0,0,44,3,0,4,0.1,0.1,0.2,3,1,21,31,67.7,4,21,2,1,1,Mönchengladbach,2022-03-05 Stuttgart-Gladbach,GER-BL1,21-22,ec0566d3
+378825c7,Ramy Bensebaini,25,ALG,LB,26-323,90,0,0,0,0,1,0,1,0,62,4,2,2,0.1,0.1,0.1,2,0,34,45,75.6,4,23,1,0,0,Mönchengladbach,2022-03-05 Stuttgart-Gladbach,GER-BL1,21-22,ec0566d3
+48035304,Nico Elvedi,30,SUI,CB,25-156,90,0,0,0,0,0,0,0,0,72,4,1,1,0.0,0.0,0.0,0,0,56,63,88.9,2,50,0,0,0,Mönchengladbach,2022-03-05 Stuttgart-Gladbach,GER-BL1,21-22,ec0566d3
+f521b80a,Matthias Ginter,28,GER,CB,28-045,90,0,0,0,0,1,0,0,0,68,2,0,0,0.2,0.2,0.0,0,0,49,58,84.5,3,42,0,0,0,Mönchengladbach,2022-03-05 Stuttgart-Gladbach,GER-BL1,21-22,ec0566d3
+236f02cd,Joe Scally,29,USA,RB,19-064,90,0,0,0,0,0,0,1,0,41,3,2,3,0.0,0.0,0.0,0,0,19,27,70.4,1,14,1,2,1,Mönchengladbach,2022-03-05 Stuttgart-Gladbach,GER-BL1,21-22,ec0566d3
+420c18a1,Yann Sommer,1,SUI,GK,33-078,90,0,0,0,0,0,0,0,0,60,0,0,0,0.0,0.0,0.0,0,0,39,56,69.6,0,37,0,0,0,Mönchengladbach,2022-03-05 Stuttgart-Gladbach,GER-BL1,21-22,ec0566d3

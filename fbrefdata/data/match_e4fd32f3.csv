@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+5046b7d4,Stéphane Bahoken,19,CMR,FW,27-088,61,0,0,0,0,1,0,1,0,19,0,0,0,0.4,0.4,0.1,3,0,9,12,75.0,1,19,1,0,0,Angers,2019-08-24 Angers-Metz,FRA-L1,19-20,e4fd32f3
+bdedd861,Rachid Alioui,7,MAR,FW,27-067,29,1,0,0,0,1,1,0,0,14,1,1,0,0.6,0.6,0.0,0,0,7,9,77.8,0,8,0,0,0,Angers,2019-08-24 Angers-Metz,FRA-L1,19-20,e4fd32f3
+8846a40f,Mathias Pereira Lage,27,POR,"CM,LW",22-267,90,0,0,0,0,4,1,0,0,42,2,3,0,0.2,0.2,0.4,2,0,20,32,62.5,2,16,6,0,0,Angers,2019-08-24 Angers-Metz,FRA-L1,19-20,e4fd32f3
+d21e361a,Farid El Melali,28,ALG,"RM,RW",22-111,73,1,0,0,0,1,1,0,0,33,0,0,1,0.3,0.3,0.0,2,1,10,20,50.0,2,20,3,6,3,Angers,2019-08-24 Angers-Metz,FRA-L1,19-20,e4fd32f3
+91f2da4c,Casimir Ninga,21,CHA,"LM,RM",26-099,17,0,0,0,0,1,0,0,0,8,0,0,1,0.1,0.1,0.0,1,0,5,5,100.0,1,4,1,0,0,Angers,2019-08-24 Angers-Metz,FRA-L1,19-20,e4fd32f3
+79b2399c,Pierrick Capelle,15,FRA,"LM,RM,AM",32-131,90,0,2,0,0,0,0,0,0,44,3,1,0,0.0,0.0,0.7,4,3,27,36,75.0,3,29,4,1,1,Angers,2019-08-24 Angers-Metz,FRA-L1,19-20,e4fd32f3
+c801616a,Thomas Mangani,5,FRA,"CM,DM",32-117,90,0,0,0,0,2,0,0,0,54,0,0,1,0.2,0.2,0.1,4,1,40,47,85.1,3,25,0,0,0,Angers,2019-08-24 Angers-Metz,FRA-L1,19-20,e4fd32f3
+5e22e2a4,Baptiste Santamaria,18,FRA,DM,24-168,75,1,0,0,0,3,2,0,0,53,2,4,0,0.2,0.2,0.0,5,0,30,36,83.3,8,17,0,1,0,Angers,2019-08-24 Angers-Metz,FRA-L1,19-20,e4fd32f3
+f86ca403,Vincent Pajot,6,FRA,DM,29-005,15,0,0,0,0,1,0,0,0,13,1,0,0,0.0,0.0,0.0,0,0,8,11,72.7,0,2,0,0,0,Angers,2019-08-24 Angers-Metz,FRA-L1,19-20,e4fd32f3
+9b398aea,Rayan Aït-Nouri,2,ALG,LB,18-079,90,0,1,0,0,1,0,0,0,57,2,1,0,0.0,0.0,0.3,3,1,39,50,78.0,5,25,1,1,1,Angers,2019-08-24 Angers-Metz,FRA-L1,19-20,e4fd32f3
+275e2c51,Romain Thomas,24,FRA,CB,31-073,90,0,0,0,0,0,0,0,0,45,0,1,0,0.0,0.0,0.0,0,0,30,37,81.1,0,18,0,0,0,Angers,2019-08-24 Angers-Metz,FRA-L1,19-20,e4fd32f3
+b666421b,Ismaël Traoré,8,CIV,CB,33-006,90,0,0,0,0,0,0,0,0,40,3,2,1,0.0,0.0,0.0,1,0,27,34,79.4,3,14,0,0,0,Angers,2019-08-24 Angers-Metz,FRA-L1,19-20,e4fd32f3
+7fecbcdb,Abdoulaye Bamba,25,CIV,RB,29-121,90,0,0,0,0,0,0,0,0,58,2,0,1,0.0,0.0,0.0,2,0,36,49,73.5,3,12,2,0,0,Angers,2019-08-24 Angers-Metz,FRA-L1,19-20,e4fd32f3
+26975a92,Ludovic Butelle,16,FRA,GK,36-143,90,0,0,0,0,0,0,0,0,24,0,0,0,0.0,0.0,0.0,1,0,15,23,65.2,0,12,0,0,0,Angers,2019-08-24 Angers-Metz,FRA-L1,19-20,e4fd32f3
+6605d143,Habib Diallo,20,SEN,FW,24-067,90,0,0,0,0,1,1,0,0,32,0,0,1,0.1,0.1,0.0,0,0,16,21,76.2,0,16,1,1,1,Metz,2019-08-24 Angers-Metz,FRA-L1,19-20,e4fd32f3
+75a63397,Opa Nguette,11,SEN,"LW,RW",25-047,84,0,0,0,0,0,0,0,0,42,2,0,1,0.0,0.0,0.0,1,0,23,30,76.7,3,22,1,5,2,Metz,2019-08-24 Angers-Metz,FRA-L1,19-20,e4fd32f3
+2945f4b7,Thierry Ambrose,9,GLP,RW,22-149,6,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,6,6,100.0,1,4,0,0,0,Metz,2019-08-24 Angers-Metz,FRA-L1,19-20,e4fd32f3
+46faabfa,Ibrahima Niane,7,SEN,RW,20-166,66,0,0,0,0,1,0,0,0,28,0,3,0,0.0,0.0,0.0,0,0,16,18,88.9,2,20,3,3,2,Metz,2019-08-24 Angers-Metz,FRA-L1,19-20,e4fd32f3
+a0791826,Farid Boulaya,27,ALG,"LW,RW",26-180,24,0,0,0,0,0,0,0,0,21,0,0,0,0.0,0.0,0.0,0,0,12,20,60.0,2,16,1,0,0,Metz,2019-08-24 Angers-Metz,FRA-L1,19-20,e4fd32f3
+d8992b84,Victorien Angban,5,CIV,"LM,RM",22-329,90,0,0,0,0,0,0,0,0,94,2,1,0,0.0,0.0,0.0,1,0,75,86,87.2,17,52,3,0,0,Metz,2019-08-24 Angers-Metz,FRA-L1,19-20,e4fd32f3
+e50623a0,Kévin N'Doram,4,FRA,CM,23-214,90,0,0,0,0,0,0,0,0,108,6,1,1,0.0,0.0,0.0,3,0,94,101,93.1,4,60,0,3,3,Metz,2019-08-24 Angers-Metz,FRA-L1,19-20,e4fd32f3
+4e7d66f8,Renaud Cohade,24,FRA,RM,34-329,66,0,0,0,0,0,0,0,0,69,1,0,1,0.0,0.0,0.0,1,0,53,66,80.3,6,29,0,0,0,Metz,2019-08-24 Angers-Metz,FRA-L1,19-20,e4fd32f3
+c1b16364,Marvin Gakpa,10,FRA,"LM,RM",25-296,24,0,0,0,0,1,0,0,0,27,0,1,1,0.0,0.0,0.0,0,0,20,21,95.2,1,19,0,1,1,Metz,2019-08-24 Angers-Metz,FRA-L1,19-20,e4fd32f3
+8332db56,Thomas Delaine,17,FRA,LB,27-153,90,0,0,0,0,1,1,0,0,62,1,0,1,0.0,0.0,0.0,1,0,39,50,78.0,0,19,5,2,1,Metz,2019-08-24 Angers-Metz,FRA-L1,19-20,e4fd32f3
+861227d2,John Boye,21,GHA,CB,32-123,90,0,0,0,0,0,0,0,0,84,2,2,0,0.0,0.0,0.0,0,0,67,75,89.3,4,38,0,0,0,Metz,2019-08-24 Angers-Metz,FRA-L1,19-20,e4fd32f3
+1bab7b66,Stoppila Sunzu,13,ZAM,CB,30-063,90,0,0,0,0,0,0,1,0,70,1,2,0,0.0,0.0,0.0,0,0,58,60,96.7,0,26,0,0,0,Metz,2019-08-24 Angers-Metz,FRA-L1,19-20,e4fd32f3
+3c6bbbab,Fabien Centonze,18,FRA,RB,23-220,90,0,0,0,0,0,0,1,0,67,3,1,1,0.0,0.0,0.0,0,0,48,54,88.9,3,28,1,0,0,Metz,2019-08-24 Angers-Metz,FRA-L1,19-20,e4fd32f3
+ae7d0ecd,Alexandre Oukidja,16,ALG,GK,31-036,90,0,0,0,0,0,0,0,0,37,0,0,0,0.0,0.0,0.0,0,0,23,35,65.7,0,18,0,0,0,Metz,2019-08-24 Angers-Metz,FRA-L1,19-20,e4fd32f3

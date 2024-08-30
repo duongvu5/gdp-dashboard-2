@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+9dbb75ca,Alexandre Lacazette,10,FRA,FW,32-196,90,3,0,0,0,5,4,0,0,35,1,0,0,1.1,1.1,0.0,2,0,19,23,82.6,2,26,1,0,0,Lyon,2023-12-10 Lyon-Toulouse,FRA-L1,23-24,015e7632
+b34c63a5,Rayan Cherki,18,FRA,LW,20-115,58,0,0,0,0,0,0,0,0,43,0,0,0,0.0,0.0,0.2,5,0,35,40,87.5,6,36,1,2,1,Lyon,2023-12-10 Lyon-Toulouse,FRA-L1,23-24,015e7632
+12de1b0d,Diego Moreira,19,POR,LW,19-126,32,0,0,0,0,0,0,1,0,11,0,0,1,0.0,0.0,0.0,1,0,7,9,77.8,1,13,2,0,0,Lyon,2023-12-10 Lyon-Toulouse,FRA-L1,23-24,015e7632
+234a703c,Ernest Nuamah,37,GHA,RW,20-039,66,0,0,0,0,1,1,0,0,37,0,0,0,0.1,0.1,0.3,5,0,22,25,88.0,2,26,3,6,3,Lyon,2023-12-10 Lyon-Toulouse,FRA-L1,23-24,015e7632
+7d08063d,Tino Kadewere,11,ZIM,RW,27-339,24,0,0,0,0,1,0,0,0,10,0,2,0,0.0,0.0,0.2,3,0,6,6,100.0,1,6,1,0,0,Lyon,2023-12-10 Lyon-Toulouse,FRA-L1,23-24,015e7632
+f0661424,Nicolás Tagliafico,3,ARG,LM,31-101,90,0,0,0,0,0,0,0,0,44,1,1,0,0.0,0.0,0.0,1,0,34,39,87.2,1,30,2,2,1,Lyon,2023-12-10 Lyon-Toulouse,FRA-L1,23-24,015e7632
+f81ef10d,Maxence Caqueret,6,FRA,CM,23-298,90,0,0,0,0,2,0,0,0,70,2,3,1,0.2,0.2,0.0,2,0,50,60,83.3,5,54,4,3,1,Lyon,2023-12-10 Lyon-Toulouse,FRA-L1,23-24,015e7632
+652d4c37,Corentin Tolisso,8,FRA,CM,29-129,66,0,0,0,0,1,0,0,0,46,0,0,1,0.1,0.1,0.1,3,1,40,42,95.2,6,40,0,0,0,Lyon,2023-12-10 Lyon-Toulouse,FRA-L1,23-24,015e7632
+1906b842,Mahamadou Diawara,34,FRA,CM,18-296,24,0,0,0,0,2,0,1,0,18,2,0,0,0.2,0.2,0.0,2,1,11,12,91.7,1,11,0,1,1,Lyon,2023-12-10 Lyon-Toulouse,FRA-L1,23-24,015e7632
+55abe554,Clinton Mata,22,ANG,RM,31-033,58,0,0,0,0,0,0,0,0,44,0,0,0,0.0,0.0,0.0,0,0,32,37,86.5,1,31,1,1,0,Lyon,2023-12-10 Lyon-Toulouse,FRA-L1,23-24,015e7632
+c385bf49,Sael Kumbedi,20,FRA,RM,18-259,32,0,0,0,0,0,0,0,0,14,1,1,0,0.0,0.0,0.0,0,0,6,10,60.0,0,8,0,0,0,Lyon,2023-12-10 Lyon-Toulouse,FRA-L1,23-24,015e7632
+94f8d10c,Duje Ćaleta-Car,55,CRO,CB,27-084,90,0,0,0,0,1,1,0,0,68,0,3,2,0.0,0.0,0.1,1,0,50,57,87.7,3,53,1,0,0,Lyon,2023-12-10 Lyon-Toulouse,FRA-L1,23-24,015e7632
+1a2935f6,Dejan Lovren,5,CRO,CB,34-158,82,0,0,0,0,1,1,0,0,49,0,2,2,0.1,0.1,0.0,0,0,32,35,91.4,0,31,0,0,0,Lyon,2023-12-10 Lyon-Toulouse,FRA-L1,23-24,015e7632
+61f80c89,Mamadou Sarr,29,FRA,CB,18-103,8,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,4,4,100.0,0,4,0,0,0,Lyon,2023-12-10 Lyon-Toulouse,FRA-L1,23-24,015e7632
+25f2ef01,Jake O'Brien,12,IRL,CB,22-209,90,0,1,0,0,1,0,0,0,68,0,0,0,0.1,0.1,0.5,1,1,56,63,88.9,0,55,0,1,1,Lyon,2023-12-10 Lyon-Toulouse,FRA-L1,23-24,015e7632
+f00de885,Anthony Lopes,1,POR,GK,33-070,90,0,0,0,0,0,0,0,0,53,0,0,0,0.0,0.0,0.0,0,0,30,50,60.0,0,42,0,0,0,Lyon,2023-12-10 Lyon-Toulouse,FRA-L1,23-24,015e7632
+b70afb45,Thijs Dallinga,9,NED,FW,23-129,90,0,0,0,1,2,0,0,0,29,0,0,1,0.8,0.1,0.1,2,0,18,23,78.3,0,19,2,0,0,Toulouse,2023-12-10 Lyon-Toulouse,FRA-L1,23-24,015e7632
+42fdb11d,Frank Magri,19,CMR,"LW,FW",24-097,82,0,0,0,0,3,2,1,0,25,1,0,1,0.1,0.1,0.0,2,0,14,20,70.0,1,19,2,0,0,Toulouse,2023-12-10 Lyon-Toulouse,FRA-L1,23-24,015e7632
+5e6355f8,Yanis Begraoui,14,MAR,FW,22-159,8,0,0,0,0,1,1,0,0,5,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,5,0,0,0,Toulouse,2023-12-10 Lyon-Toulouse,FRA-L1,23-24,015e7632
+10cff752,Aron Dønnum,15,NOR,"RW,RM",25-234,82,0,0,0,0,2,0,1,0,43,1,1,1,0.1,0.1,0.3,6,0,26,31,83.9,4,36,6,5,3,Toulouse,2023-12-10 Lyon-Toulouse,FRA-L1,23-24,015e7632
+ed55b838,Gelabert,11,ESP,RM,23-040,8,0,0,0,0,0,0,0,0,4,1,0,0,0.0,0.0,0.0,0,0,1,3,33.3,0,2,1,0,0,Toulouse,2023-12-10 Lyon-Toulouse,FRA-L1,23-24,015e7632
+b9ae8560,Niklas Schmidt,20,GER,"LM,CM",25-284,90,0,0,0,0,0,0,0,0,70,4,0,0,0.0,0.0,0.1,5,0,50,64,78.1,13,56,3,1,1,Toulouse,2023-12-10 Lyon-Toulouse,FRA-L1,23-24,015e7632
+a08985b8,Stijn Spierings,4,NED,CM,27-273,82,0,0,0,0,1,0,0,0,83,1,2,2,0.0,0.0,0.0,1,0,66,74,89.2,13,68,2,0,0,Toulouse,2023-12-10 Lyon-Toulouse,FRA-L1,23-24,015e7632
+f86fe8c1,Cristian Cásseres Jr.,24,VEN,CM,23-324,8,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,4,0,0,0,Toulouse,2023-12-10 Lyon-Toulouse,FRA-L1,23-24,015e7632
+92ffb8f9,Vincent Sierro,8,SUI,RM,28-063,69,0,0,0,0,2,0,1,0,61,1,1,0,0.1,0.1,0.0,1,0,47,56,83.9,5,52,0,0,0,Toulouse,2023-12-10 Lyon-Toulouse,FRA-L1,23-24,015e7632
+abddf25d,Ibrahim Cissoko,10,NED,LM,20-259,21,0,0,0,0,0,0,0,0,8,0,0,1,0.0,0.0,0.0,2,0,4,7,57.1,1,10,2,3,3,Toulouse,2023-12-10 Lyon-Toulouse,FRA-L1,23-24,015e7632
+39b326ed,Gabriel Suazo,17,CHI,LB,26-123,69,0,0,0,0,1,0,0,0,50,3,1,3,0.1,0.1,0.1,3,0,36,42,85.7,5,37,0,0,0,Toulouse,2023-12-10 Lyon-Toulouse,FRA-L1,23-24,015e7632
+698f11e3,Moussa Diarra,23,MLI,LB,23-030,21,0,0,0,0,0,0,1,0,12,0,0,1,0.0,0.0,0.0,0,0,10,11,90.9,0,6,0,0,0,Toulouse,2023-12-10 Lyon-Toulouse,FRA-L1,23-24,015e7632
+3f319bb9,Rasmus Nicolaisen,2,DEN,CB,26-269,90,0,0,0,0,0,0,0,0,60,0,1,1,0.0,0.0,0.0,0,0,47,56,83.9,6,49,0,1,1,Toulouse,2023-12-10 Lyon-Toulouse,FRA-L1,23-24,015e7632
+bfb2056e,Logan Costa,6,CPV,CB,22-253,90,0,0,0,0,2,2,0,0,80,3,1,0,0.3,0.3,0.0,1,0,60,70,85.7,4,57,1,1,0,Toulouse,2023-12-10 Lyon-Toulouse,FRA-L1,23-24,015e7632
+a426a912,Waren Kamanzi,12,NOR,RB,23-029,90,0,0,0,0,1,0,0,0,59,3,0,0,0.1,0.1,0.0,2,0,48,53,90.6,1,42,0,0,0,Toulouse,2023-12-10 Lyon-Toulouse,FRA-L1,23-24,015e7632
+6b91b999,Guillaume Restes,50,FRA,GK,18-274,90,0,0,0,0,0,0,0,0,25,0,0,0,0.0,0.0,0.0,0,0,20,22,90.9,0,17,0,0,0,Toulouse,2023-12-10 Lyon-Toulouse,FRA-L1,23-24,015e7632

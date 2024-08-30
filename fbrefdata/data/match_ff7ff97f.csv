@@ -1,0 +1,32 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+7cdda3bf,Gaëtan Laborde,24,FRA,FW,27-362,74,0,0,0,0,2,0,0,0,26,1,0,1,0.3,0.3,0.0,1,0,11,19,57.9,1,18,1,0,0,Rennes,2022-04-30 Rennes-Saint-Étienne,FRA-L1,21-22,ff7ff97f
+923f4dda,Serhou Guirassy,9,GUI,FW,26-049,16,0,0,0,0,1,1,0,0,7,0,0,0,0.2,0.2,0.0,0,0,5,6,83.3,0,8,1,0,0,Rennes,2022-04-30 Rennes-Saint-Étienne,FRA-L1,21-22,ff7ff97f
+5148dcc5,Martin Terrier,7,FRA,LW,25-057,88,0,1,0,0,2,0,0,0,49,0,0,2,0.1,0.1,0.4,3,0,30,37,81.1,8,39,2,1,0,Rennes,2022-04-30 Rennes-Saint-Étienne,FRA-L1,21-22,ff7ff97f
+b026bbf6,Lorenz Assignon,22,TOG,LW,21-312,2,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,2,0,0,0,Rennes,2022-04-30 Rennes-Saint-Étienne,FRA-L1,21-22,ff7ff97f
+20e73fac,Benjamin Bourigeaud,14,FRA,RW,28-106,90,0,0,0,0,1,0,0,0,81,2,0,3,0.1,0.1,0.2,4,0,55,68,80.9,8,57,0,0,0,Rennes,2022-04-30 Rennes-Saint-Étienne,FRA-L1,21-22,ff7ff97f
+a0f9b535,Flavien Tait,20,FRA,LM,29-087,90,0,0,0,0,1,0,0,0,69,1,0,0,0.0,0.0,0.0,3,0,53,61,86.9,9,63,2,2,1,Rennes,2022-04-30 Rennes-Saint-Étienne,FRA-L1,21-22,ff7ff97f
+468fdbad,Jonas Martin,28,FRA,CM,32-021,90,0,0,0,0,0,0,1,0,105,1,1,0,0.0,0.0,0.0,0,0,98,100,98.0,8,93,0,0,0,Rennes,2022-04-30 Rennes-Saint-Étienne,FRA-L1,21-22,ff7ff97f
+fc46aab1,Lovro Majer,21,CRO,RM,24-103,90,2,0,0,0,3,2,0,0,67,6,0,2,0.9,0.9,0.2,5,0,42,56,75.0,6,56,2,5,3,Rennes,2022-04-30 Rennes-Saint-Étienne,FRA-L1,21-22,ff7ff97f
+5d0e0a1f,Adrien Truffert,3,FRA,LB,20-161,55,0,0,0,0,1,0,0,0,62,0,1,1,0.0,0.0,0.0,0,0,47,53,88.7,4,42,1,0,0,Rennes,2022-04-30 Rennes-Saint-Étienne,FRA-L1,21-22,ff7ff97f
+70c52749,Birger Meling,25,NOR,LB,27-134,35,0,0,0,0,0,0,0,0,31,0,0,1,0.0,0.0,0.0,2,1,25,27,92.6,2,21,1,0,0,Rennes,2022-04-30 Rennes-Saint-Étienne,FRA-L1,21-22,ff7ff97f
+5e22e2a4,Baptiste Santamaria,8,FRA,CB,27-052,90,0,0,0,0,2,0,0,0,146,1,0,1,0.1,0.1,0.0,2,2,124,135,91.9,7,119,1,0,0,Rennes,2022-04-30 Rennes-Saint-Étienne,FRA-L1,21-22,ff7ff97f
+4534a352,Warmed Omari,23,FRA,CB,22-007,90,0,0,0,0,0,0,0,0,110,0,1,2,0.0,0.0,0.0,2,1,98,104,94.2,7,102,0,0,0,Rennes,2022-04-30 Rennes-Saint-Étienne,FRA-L1,21-22,ff7ff97f
+a4b1028a,Hamari Traoré,27,MLI,RB,30-093,90,0,0,0,0,0,0,0,0,99,3,1,1,0.0,0.0,0.2,2,0,74,88,84.1,4,67,1,1,0,Rennes,2022-04-30 Rennes-Saint-Étienne,FRA-L1,21-22,ff7ff97f
+9e17ccff,Doğan Alemdar,40,TUR,GK,19-183,90,0,0,0,0,0,0,0,0,26,0,0,0,0.0,0.0,0.0,0,0,22,24,91.7,0,21,0,0,0,Rennes,2022-04-30 Rennes-Saint-Étienne,FRA-L1,21-22,ff7ff97f
+7b9a9e25,Arnaud Nordin,18,FRA,FW,23-317,76,0,0,0,0,1,1,0,0,12,0,0,0,0.4,0.4,0.0,0,0,7,10,70.0,0,9,1,1,1,Saint-Étienne,2022-04-30 Rennes-Saint-Étienne,FRA-L1,21-22,ff7ff97f
+381d7d54,Bakary Sako,26,MLI,FW,34-004,14,0,0,0,0,2,0,0,0,11,0,0,0,0.1,0.1,0.0,0,0,3,4,75.0,1,4,0,0,0,Saint-Étienne,2022-04-30 Rennes-Saint-Étienne,FRA-L1,21-22,ff7ff97f
+b94b8be1,Adil Aouchiche,17,FRA,LM,19-289,72,0,0,0,0,1,1,0,0,29,3,0,3,0.0,0.0,0.4,2,0,9,16,56.3,2,21,1,3,0,Saint-Étienne,2022-04-30 Rennes-Saint-Étienne,FRA-L1,21-22,ff7ff97f
+e2f9bb5f,Zaydou Youssouf,28,FRA,LM,22-293,18,0,0,0,0,0,0,0,0,14,0,1,0,0.0,0.0,0.0,0,0,11,12,91.7,1,13,0,0,0,Saint-Étienne,2022-04-30 Rennes-Saint-Étienne,FRA-L1,21-22,ff7ff97f
+3cd7820a,Lucas Gourna-Douath,6,FRA,CM,18-268,72,0,0,0,0,0,0,1,0,17,0,1,0,0.0,0.0,0.0,0,0,13,15,86.7,1,12,0,1,1,Saint-Étienne,2022-04-30 Rennes-Saint-Étienne,FRA-L1,21-22,ff7ff97f
+0ad37003,Yvan Neyou,19,CMR,CM,25-117,18,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,1,0,9,10,90.0,2,9,0,0,0,Saint-Étienne,2022-04-30 Rennes-Saint-Étienne,FRA-L1,21-22,ff7ff97f
+8577e60a,Mahdi Camara,8,FRA,CM,23-304,90,0,0,0,0,1,1,0,0,28,3,2,0,0.0,0.0,0.0,2,0,13,17,76.5,1,19,1,3,2,Saint-Étienne,2022-04-30 Rennes-Saint-Étienne,FRA-L1,21-22,ff7ff97f
+0b0cbe5b,Denis Bouanga,20,GAB,RM,27-170,90,0,0,0,0,2,0,0,0,42,0,1,1,0.1,0.1,0.0,5,0,18,27,66.7,6,23,4,2,2,Saint-Étienne,2022-04-30 Rennes-Saint-Étienne,FRA-L1,21-22,ff7ff97f
+e4b72e34,Miguel Trauco,13,PER,LB,29-248,72,0,0,0,0,0,0,1,0,31,1,0,0,0.0,0.0,0.0,0,0,14,26,53.8,2,15,0,1,0,Saint-Étienne,2022-04-30 Rennes-Saint-Étienne,FRA-L1,21-22,ff7ff97f
+f4bc42b1,Sada Thioub,9,SEN,LB,26-333,18,0,0,0,0,0,0,0,0,12,0,1,0,0.0,0.0,0.1,3,0,10,12,83.3,3,9,0,0,0,Saint-Étienne,2022-04-30 Rennes-Saint-Étienne,FRA-L1,21-22,ff7ff97f
+a6b6fa6e,Mickael Nade,3,FRA,CB,23-057,90,0,0,0,0,0,0,1,0,36,2,2,0,0.0,0.0,0.0,0,0,24,29,82.8,4,24,0,0,0,Saint-Étienne,2022-04-30 Rennes-Saint-Étienne,FRA-L1,21-22,ff7ff97f
+5f26e0c5,Harold Moukoudi,2,CMR,CB,24-154,90,0,0,0,0,0,0,0,0,35,2,0,3,0.0,0.0,0.0,0,0,20,21,95.2,0,17,0,1,1,Saint-Étienne,2022-04-30 Rennes-Saint-Étienne,FRA-L1,21-22,ff7ff97f
+f520049f,Eliaquim Mangala,22,FRA,CB,31-076,90,0,0,0,0,0,0,0,0,35,0,1,1,0.0,0.0,0.0,1,0,13,23,56.5,2,20,1,1,1,Saint-Étienne,2022-04-30 Rennes-Saint-Étienne,FRA-L1,21-22,ff7ff97f
+0bb6e193,Yvann Macon,27,FRA,RB,23-211,84,0,0,0,0,1,0,1,0,42,1,0,1,0.0,0.0,0.0,1,0,21,35,60.0,3,17,0,1,1,Saint-Étienne,2022-04-30 Rennes-Saint-Étienne,FRA-L1,21-22,ff7ff97f
+4914ed4a,Gabriel Silva,11,BRA,RB,30-352,6,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,3,3,100.0,0,2,0,0,0,Saint-Étienne,2022-04-30 Rennes-Saint-Étienne,FRA-L1,21-22,ff7ff97f
+28dabd43,Paul Bernardoni,50,FRA,GK,25-012,90,0,0,0,0,0,0,0,0,41,0,0,0,0.0,0.0,0.0,0,0,13,39,33.3,0,20,0,0,0,Saint-Étienne,2022-04-30 Rennes-Saint-Étienne,FRA-L1,21-22,ff7ff97f

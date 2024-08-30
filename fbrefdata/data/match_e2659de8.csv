@@ -1,0 +1,31 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+942b4f90,Wissam Ben Yedder,10,FRA,FW,31-108,69,1,0,1,1,1,0,0,0,26,0,0,0,1.0,0.2,0.1,1,0,17,22,77.3,0,10,1,0,0,Monaco,2021-11-28 Monaco-Strasbourg,FRA-L1,21-22,e2659de8
+3ef0fa48,Gelson Martins,7,POR,RM,26-201,21,0,0,0,0,0,0,0,0,12,0,1,1,0.0,0.0,0.0,0,0,5,7,71.4,0,6,0,1,0,Monaco,2021-11-28 Monaco-Strasbourg,FRA-L1,21-22,e2659de8
+19053e31,Sofiane Diop,37,FRA,LW,21-172,59,0,0,0,0,0,0,0,0,34,2,0,2,0.0,0.0,0.0,2,0,14,23,60.9,1,14,0,3,1,Monaco,2021-11-28 Monaco-Strasbourg,FRA-L1,21-22,e2659de8
+5b479568,Myron Boadu,9,NED,"FW,LW",20-318,31,0,0,0,0,1,0,0,0,10,0,0,0,0.6,0.6,0.0,1,0,5,7,71.4,0,4,0,0,0,Monaco,2021-11-28 Monaco-Strasbourg,FRA-L1,21-22,e2659de8
+3708e9fa,Aleksandr Golovin,17,RUS,"RW,LM",25-182,90,0,0,0,0,1,0,0,0,66,1,1,1,0.1,0.1,0.3,4,1,40,59,67.8,4,35,6,4,3,Monaco,2021-11-28 Monaco-Strasbourg,FRA-L1,21-22,e2659de8
+64f69877,Kevin Volland,31,GER,"AM,FW",29-121,90,0,0,0,0,2,2,1,0,31,0,0,2,0.4,0.4,0.0,2,1,10,19,52.6,1,17,1,1,0,Monaco,2021-11-28 Monaco-Strasbourg,FRA-L1,21-22,e2659de8
+a99138af,Jean Lucas,11,BRA,DM,23-159,52,0,0,0,0,0,0,0,0,36,0,1,1,0.0,0.0,0.0,0,0,25,30,83.3,4,17,2,2,2,Monaco,2021-11-28 Monaco-Strasbourg,FRA-L1,21-22,e2659de8
+4f255115,Aurélien Tchouaméni,8,FRA,"CM,DM",21-305,38,0,0,0,0,0,0,0,0,37,1,2,0,0.0,0.0,0.0,0,0,29,33,87.9,6,20,4,0,0,Monaco,2021-11-28 Monaco-Strasbourg,FRA-L1,21-22,e2659de8
+822d51d7,Youssouf Fofana,22,FRA,DM,22-322,69,0,0,0,0,1,0,1,0,56,6,1,2,0.0,0.0,0.0,0,0,30,41,73.2,6,25,2,0,0,Monaco,2021-11-28 Monaco-Strasbourg,FRA-L1,21-22,e2659de8
+15944afd,Eliot Matazo,36,BEL,CM,19-286,21,0,0,0,0,0,0,0,0,16,1,0,0,0.0,0.0,0.0,1,0,10,14,71.4,1,11,1,0,0,Monaco,2021-11-28 Monaco-Strasbourg,FRA-L1,21-22,e2659de8
+30af8b93,Caio Henrique Oliveira Silva,12,BRA,LB,24-120,59,0,0,0,0,0,0,0,0,57,1,0,0,0.0,0.0,0.0,0,0,37,54,68.5,2,27,0,1,0,Monaco,2021-11-28 Monaco-Strasbourg,FRA-L1,21-22,e2659de8
+a0415710,Ismail Jakobs,14,SEN,LB,22-103,31,0,0,0,0,0,0,0,0,29,1,0,0,0.0,0.0,0.6,4,0,22,27,81.5,5,15,2,0,0,Monaco,2021-11-28 Monaco-Strasbourg,FRA-L1,21-22,e2659de8
+d9764034,Guillermo Maripán,3,CHI,CB,27-206,90,0,0,0,0,1,0,0,0,92,3,3,1,0.0,0.0,0.0,0,0,69,78,88.5,2,45,0,1,1,Monaco,2021-11-28 Monaco-Strasbourg,FRA-L1,21-22,e2659de8
+ad82197c,Axel Disasi,6,FRA,CB,23-262,90,0,0,0,0,0,0,0,0,73,0,0,0,0.0,0.0,0.0,0,0,63,71,88.7,5,43,1,0,0,Monaco,2021-11-28 Monaco-Strasbourg,FRA-L1,21-22,e2659de8
+3dd738a1,Ruben Aguilar,26,FRA,RB,28-216,90,0,0,0,0,0,0,0,0,101,1,1,0,0.0,0.0,0.2,1,0,76,91,83.5,10,50,7,0,0,Monaco,2021-11-28 Monaco-Strasbourg,FRA-L1,21-22,e2659de8
+afb0c500,Alexander Nübel,16,GER,GK,25-059,90,0,0,0,0,0,0,0,0,50,0,0,0,0.0,0.0,0.0,0,0,38,49,77.6,0,32,0,0,0,Monaco,2021-11-28 Monaco-Strasbourg,FRA-L1,21-22,e2659de8
+6605d143,Habib Diallo,20,SEN,FW,26-163,90,0,0,0,0,1,0,0,0,30,0,0,0,0.0,0.0,0.0,1,0,14,21,66.7,2,23,2,2,0,Strasbourg,2021-11-28 Monaco-Strasbourg,FRA-L1,21-22,e2659de8
+462475ed,Ludovic Ajorque,25,FRA,FW,27-276,71,1,0,1,1,2,1,0,0,40,0,0,0,0.8,0.1,0.0,1,1,24,32,75.0,4,25,0,0,0,Strasbourg,2021-11-28 Monaco-Strasbourg,FRA-L1,21-22,e2659de8
+42276181,Kévin Gameiro,9,FRA,FW,34-203,19,0,0,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.0,0,0,9,9,100.0,1,9,0,0,0,Strasbourg,2021-11-28 Monaco-Strasbourg,FRA-L1,21-22,e2659de8
+0f8418aa,Ibrahima Sissoko,27,MLI,CM,24-032,86,0,0,0,0,0,0,1,0,45,1,4,1,0.0,0.0,0.0,2,0,23,31,74.2,3,31,4,5,3,Strasbourg,2021-11-28 Monaco-Strasbourg,FRA-L1,21-22,e2659de8
+f7691f63,Dimitri Liénard,11,FRA,CM,33-288,4,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,2,4,50.0,0,1,0,0,0,Strasbourg,2021-11-28 Monaco-Strasbourg,FRA-L1,21-22,e2659de8
+10f0fdd3,Jean-Ricner Bellegarde,17,FRA,CM,23-154,90,0,0,0,0,1,1,0,0,48,0,1,1,0.0,0.0,0.0,1,0,32,40,80.0,3,30,1,2,2,Strasbourg,2021-11-28 Monaco-Strasbourg,FRA-L1,21-22,e2659de8
+c76b7567,Adrien Thomasson,10,FRA,CM,27-353,90,0,0,0,0,0,0,0,0,55,3,0,3,0.0,0.0,0.1,4,1,34,37,91.9,4,33,2,3,2,Strasbourg,2021-11-28 Monaco-Strasbourg,FRA-L1,21-22,e2659de8
+0118c54c,Anthony Caci,19,FRA,LB,24-150,90,0,0,0,0,0,0,0,0,72,2,0,1,0.0,0.0,0.0,1,0,41,63,65.1,9,40,3,0,0,Strasbourg,2021-11-28 Monaco-Strasbourg,FRA-L1,21-22,e2659de8
+43e7a164,Alexander Djiku,24,GHA,CB,27-111,90,0,0,0,0,0,0,0,0,57,4,4,4,0.0,0.0,0.0,0,0,27,37,73.0,0,27,0,2,2,Strasbourg,2021-11-28 Monaco-Strasbourg,FRA-L1,21-22,e2659de8
+6043997c,Gerzino Nyamsi,22,FRA,CB,24-310,90,0,0,0,0,1,1,0,0,41,1,0,0,0.0,0.0,0.0,0,0,27,36,75.0,3,25,0,0,0,Strasbourg,2021-11-28 Monaco-Strasbourg,FRA-L1,21-22,e2659de8
+49070d66,Lucas Perrin,5,FRA,CB,23-009,90,0,0,0,0,0,0,0,0,41,1,1,1,0.0,0.0,0.0,0,0,27,33,81.8,3,28,1,0,0,Strasbourg,2021-11-28 Monaco-Strasbourg,FRA-L1,21-22,e2659de8
+5d8d7454,Frederic Guilbert,2,FRA,RB,26-339,90,0,0,0,0,1,0,0,0,67,3,0,3,0.0,0.0,0.0,0,0,35,56,62.5,4,41,1,2,1,Strasbourg,2021-11-28 Monaco-Strasbourg,FRA-L1,21-22,e2659de8
+834b5c4c,Matz Sels,1,BEL,GK,29-275,90,0,0,0,0,0,0,0,0,38,0,0,0,0.0,0.0,0.0,0,0,20,35,57.1,0,25,0,0,0,Strasbourg,2021-11-28 Monaco-Strasbourg,FRA-L1,21-22,e2659de8

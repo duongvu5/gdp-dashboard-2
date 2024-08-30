@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+dea698d9,Cristiano Ronaldo,7,POR,FW,34-256,90,1,0,0,0,6,3,0,0,62,1,0,0,0.4,0.4,0.9,7,2,36,50,72.0,6,51,6,4,2,Juventus,2019-10-19 Juventus-Bologna,ITA-SERIA_A,19-20,7bdb3ce3
+8a08491a,Gonzalo Higuaín,21,ARG,FW,31-313,81,0,0,0,0,5,3,0,0,44,0,1,1,1.2,1.2,0.2,5,0,30,34,88.2,4,31,1,0,0,Juventus,2019-10-19 Juventus-Bologna,ITA-SERIA_A,19-20,7bdb3ce3
+e0921a4f,Paulo Dybala,10,ARG,FW,25-338,9,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,6,8,75.0,1,7,0,1,1,Juventus,2019-10-19 Juventus-Bologna,ITA-SERIA_A,19-20,7bdb3ce3
+ee93c1a9,Federico Bernardeschi,33,ITA,AM,25-245,90,0,0,0,0,3,1,0,0,65,0,0,0,0.1,0.1,0.2,5,0,44,55,80.0,5,50,4,4,1,Juventus,2019-10-19 Juventus-Bologna,ITA-SERIA_A,19-20,7bdb3ce3
+8794e251,Adrien Rabiot,25,FRA,LM,24-199,72,0,0,0,0,1,0,1,0,67,2,2,0,0.0,0.0,0.1,5,0,51,60,85.0,2,58,4,1,1,Juventus,2019-10-19 Juventus-Bologna,ITA-SERIA_A,19-20,7bdb3ce3
+c0cddebe,Blaise Matuidi,14,FRA,LM,32-193,18,0,0,0,0,0,0,0,0,15,0,0,0,0.0,0.0,0.0,0,0,11,13,84.6,1,14,0,0,0,Juventus,2019-10-19 Juventus-Bologna,ITA-SERIA_A,19-20,7bdb3ce3
+ad6df2d5,Miralem Pjanić,5,BIH,CM,29-200,90,1,0,0,0,3,1,0,0,79,0,0,1,0.1,0.1,0.3,4,0,61,73,83.6,9,53,0,2,1,Juventus,2019-10-19 Juventus-Bologna,ITA-SERIA_A,19-20,7bdb3ce3
+38ac43d3,Sami Khedira,6,GER,RM,32-198,61,0,0,0,0,4,1,0,0,27,2,1,1,0.2,0.2,0.0,1,0,18,20,90.0,1,22,0,0,0,Juventus,2019-10-19 Juventus-Bologna,ITA-SERIA_A,19-20,7bdb3ce3
+3b8674e6,Rodrigo Bentancur,30,URU,RM,22-116,29,0,0,0,0,0,0,1,0,33,3,1,0,0.0,0.0,0.0,1,0,27,29,93.1,2,24,0,1,1,Juventus,2019-10-19 Juventus-Bologna,ITA-SERIA_A,19-20,7bdb3ce3
+0d82903c,Alex Sandro,12,BRA,LB,28-266,90,0,0,0,0,1,1,0,0,73,1,1,1,0.0,0.0,0.1,3,0,58,65,89.2,7,54,4,0,0,Juventus,2019-10-19 Juventus-Bologna,ITA-SERIA_A,19-20,7bdb3ce3
+d6e53a3a,Matthijs de Ligt,4,NED,CB,20-068,90,0,0,0,0,0,0,0,0,75,1,0,1,0.0,0.0,0.0,0,0,61,67,91.0,9,60,1,0,0,Juventus,2019-10-19 Juventus-Bologna,ITA-SERIA_A,19-20,7bdb3ce3
+52ec54d0,Leonardo Bonucci,19,ITA,CB,32-171,90,0,0,0,0,0,0,0,0,83,2,0,1,0.0,0.0,0.0,2,0,70,79,88.6,9,72,0,0,0,Juventus,2019-10-19 Juventus-Bologna,ITA-SERIA_A,19-20,7bdb3ce3
+0ab1f153,Juan Cuadrado,16,COL,RB,31-146,90,0,0,0,0,0,0,0,0,87,1,0,0,0.0,0.0,0.1,7,0,74,82,90.2,4,67,3,2,1,Juventus,2019-10-19 Juventus-Bologna,ITA-SERIA_A,19-20,7bdb3ce3
+e40d028b,Gianluigi Buffon,77,ITA,GK,41-264,90,0,0,0,0,0,0,0,0,24,0,0,0,0.0,0.0,0.0,0,0,21,22,95.5,0,14,0,0,0,Juventus,2019-10-19 Juventus-Bologna,ITA-SERIA_A,19-20,7bdb3ce3
+8d8178ac,Rodrigo Palacio,24,ARG,"FW,LW",37-256,90,0,0,0,0,1,0,0,0,43,2,1,0,0.0,0.0,0.1,2,0,23,33,69.7,2,26,4,6,4,Bologna,2019-10-19 Juventus-Bologna,ITA-SERIA_A,19-20,7bdb3ce3
+7eb97a8e,Nicola Sansone,10,ITA,LW,28-039,79,0,0,0,0,2,0,1,0,42,1,1,0,0.2,0.2,0.0,2,0,22,30,73.3,2,34,2,3,1,Bologna,2019-10-19 Juventus-Bologna,ITA-SERIA_A,19-20,7bdb3ce3
+df85d472,Federico Santander,9,PAR,FW,28-137,11,0,0,0,0,2,1,0,0,5,1,0,0,0.5,0.5,0.0,1,0,2,2,100.0,0,1,0,0,0,Bologna,2019-10-19 Juventus-Bologna,ITA-SERIA_A,19-20,7bdb3ce3
+e14ec482,Riccardo Orsolini,7,ITA,RW,22-268,90,0,0,0,0,2,0,0,0,48,1,1,0,0.2,0.2,0.4,3,0,21,33,63.6,2,31,2,1,1,Bologna,2019-10-19 Juventus-Bologna,ITA-SERIA_A,19-20,7bdb3ce3
+9d4c45d6,Roberto Soriano,21,ITA,AM,28-253,90,0,0,0,0,0,0,0,0,28,2,0,0,0.0,0.0,0.0,0,0,19,21,90.5,4,21,1,2,2,Bologna,2019-10-19 Juventus-Bologna,ITA-SERIA_A,19-20,7bdb3ce3
+92d83c27,Mattias Svanberg,32,SWE,DM,20-287,79,0,0,0,0,1,0,0,0,47,0,1,2,0.0,0.0,0.0,0,0,32,39,82.1,0,29,0,0,0,Bologna,2019-10-19 Juventus-Bologna,ITA-SERIA_A,19-20,7bdb3ce3
+c50cee19,Andreas Skov Olsen,17,DEN,DM,19-294,11,0,0,0,0,0,0,0,0,6,0,1,0,0.0,0.0,0.0,1,0,2,4,50.0,0,3,1,0,0,Bologna,2019-10-19 Juventus-Bologna,ITA-SERIA_A,19-20,7bdb3ce3
+b3fd7075,Andrea Poli,16,ITA,DM,30-020,81,0,0,0,0,0,0,0,0,38,1,2,1,0.0,0.0,0.0,2,1,29,33,87.9,2,29,0,2,1,Bologna,2019-10-19 Juventus-Bologna,ITA-SERIA_A,19-20,7bdb3ce3
+756959aa,Blerim Džemaili,31,SUI,DM,33-190,9,0,0,0,0,0,0,0,0,8,0,1,1,0.0,0.0,0.0,0,0,4,5,80.0,1,5,0,0,0,Bologna,2019-10-19 Juventus-Bologna,ITA-SERIA_A,19-20,7bdb3ce3
+58027adc,Ladislav Krejčí,11,CZE,LB,27-106,90,0,0,0,0,0,0,0,0,53,1,2,2,0.0,0.0,0.0,1,0,34,42,81.0,6,41,2,1,0,Bologna,2019-10-19 Juventus-Bologna,ITA-SERIA_A,19-20,7bdb3ce3
+0821331c,Mattia Bani,13,ITA,CB,25-313,90,0,0,0,0,0,0,1,0,49,2,4,3,0.0,0.0,0.0,2,1,30,32,93.8,1,32,0,0,0,Bologna,2019-10-19 Juventus-Bologna,ITA-SERIA_A,19-20,7bdb3ce3
+fed5f993,Danilo Larangeira,23,BRA,CB,35-162,90,1,0,0,0,1,1,1,0,36,1,2,1,0.0,0.0,0.0,0,0,23,28,82.1,3,23,0,0,0,Bologna,2019-10-19 Juventus-Bologna,ITA-SERIA_A,19-20,7bdb3ce3
+cfbf9881,Ibrahima Mbaye,15,SEN,RB,24-334,90,0,1,0,0,0,0,0,0,40,2,1,3,0.0,0.0,0.0,0,0,15,22,68.2,0,17,0,1,1,Bologna,2019-10-19 Juventus-Bologna,ITA-SERIA_A,19-20,7bdb3ce3
+ab4449d6,Łukasz Skorupski,28,POL,GK,28-167,90,0,0,0,0,0,0,0,0,39,0,0,0,0.0,0.0,0.0,0,0,25,30,83.3,0,21,0,0,0,Bologna,2019-10-19 Juventus-Bologna,ITA-SERIA_A,19-20,7bdb3ce3

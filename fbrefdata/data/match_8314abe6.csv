@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+a4948e67,M'Bala Nzola,18,ANG,FW,24-075,90,0,0,0,0,1,0,0,0,35,1,1,1,0.1,0.1,0.2,7,0,23,24,95.8,1,21,3,3,1,Spezia,2020-11-01 Spezia-Juventus,ITA-SERIA_A,20-21,8314abe6
+157d29b6,Diego Farias,17,BRA,LW,30-175,72,0,0,0,0,2,0,0,0,40,0,1,3,0.1,0.1,0.0,2,0,28,33,84.8,1,31,2,1,0,Spezia,2020-11-01 Spezia-Juventus,ITA-SERIA_A,20-21,8314abe6
+f9758dae,Emmanuel Gyasi,11,GHA,LW,26-295,18,0,0,0,0,0,0,0,0,13,0,0,0,0.0,0.0,0.0,0,0,12,12,100.0,0,13,2,1,0,Spezia,2020-11-01 Spezia-Juventus,ITA-SERIA_A,20-21,8314abe6
+d3298c99,Daniele Verde,31,ITA,RW,24-134,45,0,0,0,0,0,0,0,0,16,0,0,0,0.0,0.0,0.0,1,1,13,16,81.3,2,15,0,0,0,Spezia,2020-11-01 Spezia-Juventus,ITA-SERIA_A,20-21,8314abe6
+46fa7204,Kevin Agudelo,80,COL,RW,21-353,45,0,0,0,0,0,0,0,0,12,0,1,0,0.0,0.0,0.0,0,0,5,8,62.5,2,9,3,4,3,Spezia,2020-11-01 Spezia-Juventus,ITA-SERIA_A,20-21,8314abe6
+55a1cac2,Tommaso Pobega,26,ITA,LM,21-109,73,1,0,0,0,2,1,0,0,32,0,1,2,0.1,0.1,0.0,0,0,19,26,73.1,2,27,0,0,0,Spezia,2020-11-01 Spezia-Juventus,ITA-SERIA_A,20-21,8314abe6
+cec60a2f,Nahuel Estévez,24,ARG,LM,24-353,17,0,0,0,0,1,0,1,0,16,0,0,1,0.0,0.0,0.0,0,0,14,14,100.0,3,15,0,1,1,Spezia,2020-11-01 Spezia-Juventus,ITA-SERIA_A,20-21,8314abe6
+3cf7dc7e,Matteo Ricci,8,ITA,CM,26-158,90,0,0,0,0,2,1,0,0,51,2,1,0,0.1,0.1,0.0,1,0,41,46,89.1,6,40,0,0,0,Spezia,2020-11-01 Spezia-Juventus,ITA-SERIA_A,20-21,8314abe6
+6029a945,Paolo Bartolomei,16,ITA,RM,31-071,90,0,1,0,0,3,0,1,0,42,1,0,0,0.1,0.1,0.2,6,1,28,38,73.7,4,34,3,1,1,Spezia,2020-11-01 Spezia-Juventus,ITA-SERIA_A,20-21,8314abe6
+1ac232b8,Simone Bastoni,20,ITA,LB,23-362,90,0,0,0,0,2,0,0,0,72,2,0,0,0.1,0.1,0.1,3,0,51,60,85.0,2,55,2,4,2,Spezia,2020-11-01 Spezia-Juventus,ITA-SERIA_A,20-21,8314abe6
+ae7058f9,Julian Chabot,22,GER,CB,22-263,73,0,0,0,0,1,1,1,0,45,5,2,1,0.1,0.1,0.0,0,0,27,33,81.8,2,25,0,0,0,Spezia,2020-11-01 Spezia-Juventus,ITA-SERIA_A,20-21,8314abe6
+b0243215,Cristian Dell'Orco,39,ITA,CB,26-265,17,0,0,0,0,0,0,0,0,21,0,0,0,0.0,0.0,0.0,0,0,19,20,95.0,2,14,0,0,0,Spezia,2020-11-01 Spezia-Juventus,ITA-SERIA_A,20-21,8314abe6
+5570e6fb,Claudio Terzi,19,ITA,CB,36-135,87,0,0,0,0,1,0,0,0,50,1,0,0,0.1,0.1,0.0,1,0,39,47,83.0,4,40,0,0,0,Spezia,2020-11-01 Spezia-Juventus,ITA-SERIA_A,20-21,8314abe6
+6b635f5c,Ardian Ismajli,34,ALB,CB,24-032,3,0,0,0,0,1,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,1,3,33.3,0,2,0,0,0,Spezia,2020-11-01 Spezia-Juventus,ITA-SERIA_A,20-21,8314abe6
+eb76987d,Salvador Ferrer,21,ESP,RB,22-285,90,0,0,0,0,0,0,0,0,49,3,1,0,0.0,0.0,0.1,6,0,36,43,83.7,3,32,4,2,2,Spezia,2020-11-01 Spezia-Juventus,ITA-SERIA_A,20-21,8314abe6
+277da414,Ivan Provedel,94,ITA,GK,26-229,90,0,0,0,0,0,0,0,0,49,0,0,0,0.0,0.0,0.0,1,0,37,48,77.1,0,38,0,0,0,Spezia,2020-11-01 Spezia-Juventus,ITA-SERIA_A,20-21,8314abe6
+129af0db,Álvaro Morata,9,ESP,FW,28-009,77,1,1,0,0,2,1,0,0,30,0,1,0,0.5,0.5,1.0,2,1,17,23,73.9,1,16,3,1,1,Juventus,2020-11-01 Spezia-Juventus,ITA-SERIA_A,20-21,8314abe6
+df3cda47,Dejan Kulusevski,44,SWE,RW,20-190,13,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,3,3,100.0,1,3,2,0,0,Juventus,2020-11-01 Spezia-Juventus,ITA-SERIA_A,20-21,8314abe6
+e0921a4f,Paulo Dybala,10,ARG,FW,26-352,55,0,0,0,0,0,0,0,0,44,0,0,0,0.0,0.0,0.1,2,0,31,35,88.6,5,28,3,4,1,Juventus,2020-11-01 Spezia-Juventus,ITA-SERIA_A,20-21,8314abe6
+dea698d9,Cristiano Ronaldo,7,POR,FW,35-270,35,2,0,1,1,1,1,0,0,13,0,0,0,1.4,0.6,0.0,1,1,7,9,77.8,2,8,3,1,1,Juventus,2020-11-01 Spezia-Juventus,ITA-SERIA_A,20-21,8314abe6
+b0f7e36c,Federico Chiesa,22,ITA,"LM,LW",23-007,90,0,1,0,0,2,0,0,0,33,1,0,0,0.4,0.4,0.4,3,3,16,23,69.6,4,23,7,5,2,Juventus,2020-11-01 Spezia-Juventus,ITA-SERIA_A,20-21,8314abe6
+3b8674e6,Rodrigo Bentancur,30,URU,CM,23-129,61,0,0,0,0,0,0,0,0,46,1,4,1,0.0,0.0,0.0,1,0,33,40,82.5,4,19,0,1,1,Juventus,2020-11-01 Spezia-Juventus,ITA-SERIA_A,20-21,8314abe6
+8794e251,Adrien Rabiot,25,FRA,"CM,DM",25-212,29,1,0,0,0,1,1,1,0,14,0,1,1,0.4,0.4,0.0,1,1,8,8,100.0,0,9,0,3,2,Juventus,2020-11-01 Spezia-Juventus,ITA-SERIA_A,20-21,8314abe6
+48b3dd60,Arthur Melo,5,BRA,"CM,DM",24-081,90,0,0,0,0,0,0,0,0,98,0,1,0,0.0,0.0,0.0,0,0,92,97,94.8,8,63,0,1,0,Juventus,2020-11-01 Spezia-Juventus,ITA-SERIA_A,20-21,8314abe6
+01c3aff5,Weston McKennie,14,USA,RM,22-065,61,0,1,0,0,0,0,0,0,22,0,0,1,0.0,0.0,0.4,2,1,13,19,68.4,0,10,0,1,1,Juventus,2020-11-01 Spezia-Juventus,ITA-SERIA_A,20-21,8314abe6
+ef619b0b,Aaron Ramsey,8,WAL,"AM,RM",29-311,29,0,0,0,0,0,0,0,0,15,0,0,1,0.0,0.0,0.0,0,0,10,13,76.9,0,4,0,0,0,Juventus,2020-11-01 Spezia-Juventus,ITA-SERIA_A,20-21,8314abe6
+94b2001f,Danilo,13,BRA,"LB,CB",29-109,90,0,0,0,0,0,0,0,0,67,2,2,1,0.0,0.0,0.1,2,1,55,58,94.8,6,33,2,0,0,Juventus,2020-11-01 Spezia-Juventus,ITA-SERIA_A,20-21,8314abe6
+52ec54d0,Leonardo Bonucci,19,ITA,CB,33-184,76,0,0,0,0,0,0,0,0,95,1,1,1,0.0,0.0,0.0,0,0,80,92,87.0,4,57,0,0,0,Juventus,2020-11-01 Spezia-Juventus,ITA-SERIA_A,20-21,8314abe6
+d80b1835,Gianluca Frabotta,38,ITA,LB,21-130,14,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,0,0,8,9,88.9,0,6,0,0,0,Juventus,2020-11-01 Spezia-Juventus,ITA-SERIA_A,20-21,8314abe6
+e3cceee6,Merih Demiral,28,TUR,CB,22-241,90,0,0,0,0,0,0,0,0,73,0,3,1,0.0,0.0,0.0,0,0,62,68,91.2,2,36,0,0,0,Juventus,2020-11-01 Spezia-Juventus,ITA-SERIA_A,20-21,8314abe6
+0ab1f153,Juan Cuadrado,16,COL,RB,32-159,90,0,0,0,0,0,0,0,0,65,5,3,1,0.0,0.0,0.0,0,0,45,53,84.9,4,30,3,3,2,Juventus,2020-11-01 Spezia-Juventus,ITA-SERIA_A,20-21,8314abe6
+e40d028b,Gianluigi Buffon,77,ITA,GK,42-278,90,0,0,0,0,0,0,0,0,43,0,0,0,0.0,0.0,0.0,0,0,34,42,81.0,0,17,0,0,0,Juventus,2020-11-01 Spezia-Juventus,ITA-SERIA_A,20-21,8314abe6

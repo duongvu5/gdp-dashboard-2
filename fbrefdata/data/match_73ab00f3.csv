@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+2ead2809,Gianluca Lapadula,10,PER,FW,27-355,90,0,0,0,0,4,0,0,0,31,0,0,0,0.6,0.6,0.0,3,0,14,19,73.7,2,18,3,2,1,Genoa,2018-01-28 Genoa-Udinese,ITA-SERIA_A,17-18,73ab00f3
+d711d04f,Goran Pandev,19,MKD,"FW,WB",34-185,90,0,0,0,0,3,0,0,0,47,0,0,1,0.1,0.1,0.1,6,0,22,32,68.8,6,40,2,3,2,Genoa,2018-01-28 Genoa-Udinese,ITA-SERIA_A,17-18,73ab00f3
+c75b6a02,Andrea Bertolacci,8,ITA,CM,27-017,90,0,0,0,0,0,0,1,0,79,5,0,2,0.0,0.0,0.1,3,0,48,66,72.7,10,33,1,0,0,Genoa,2018-01-28 Genoa-Udinese,ITA-SERIA_A,17-18,73ab00f3
+ab1ca213,Miguel Veloso,44,POR,CM,31-262,55,0,0,0,0,1,0,0,0,43,0,0,1,0.0,0.0,0.0,1,0,31,41,75.6,6,10,1,0,0,Genoa,2018-01-28 Genoa-Udinese,ITA-SERIA_A,17-18,73ab00f3
+4dba2a97,Luca Rigoni,30,ITA,CM,33-052,35,0,0,0,0,2,1,0,0,15,0,0,0,0.8,0.8,0.0,0,0,11,13,84.6,3,10,1,0,0,Genoa,2018-01-28 Genoa-Udinese,ITA-SERIA_A,17-18,73ab00f3
+72c803a0,Stephane Omeonga,40,BEL,CM,21-307,62,0,0,0,0,2,0,0,0,29,1,0,4,0.1,0.1,0.0,2,0,14,19,73.7,2,16,0,1,1,Genoa,2018-01-28 Genoa-Udinese,ITA-SERIA_A,17-18,73ab00f3
+47dc80f5,Adel Taarabt,11,MAR,CM,28-249,28,0,0,0,0,1,0,0,0,48,1,0,0,0.0,0.0,0.1,4,0,32,44,72.7,8,25,5,1,0,Genoa,2018-01-28 Genoa-Udinese,ITA-SERIA_A,17-18,73ab00f3
+1a584cb2,Francesco Migliore,18,ITA,WB,29-286,90,0,0,0,0,1,0,0,0,63,0,1,0,0.0,0.0,0.1,2,0,38,55,69.1,5,34,9,2,1,Genoa,2018-01-28 Genoa-Udinese,ITA-SERIA_A,17-18,73ab00f3
+64cd167d,Davide Biraschi,14,ITA,WB,23-210,69,0,0,0,0,1,0,0,0,35,0,0,1,0.0,0.0,0.0,1,0,15,28,53.6,2,16,2,2,2,Genoa,2018-01-28 Genoa-Udinese,ITA-SERIA_A,17-18,73ab00f3
+0a1efd3c,Andrey Galabinov,16,BUL,FW,29-062,21,0,0,0,0,1,1,0,0,8,0,0,1,0.0,0.0,0.0,0,0,2,5,40.0,0,2,0,0,0,Genoa,2018-01-28 Genoa-Udinese,ITA-SERIA_A,17-18,73ab00f3
+1253a12e,Ervin Zukanović,87,BIH,CB,30-351,90,0,0,0,0,0,0,0,0,82,0,0,2,0.0,0.0,0.0,2,0,63,79,79.7,15,42,1,0,0,Genoa,2018-01-28 Genoa-Udinese,ITA-SERIA_A,17-18,73ab00f3
+9a560ebe,Nicolás Spolli,2,ARG,CB,34-342,90,0,0,0,0,2,0,1,0,65,1,0,2,0.2,0.2,0.0,3,0,50,53,94.3,5,22,0,0,0,Genoa,2018-01-28 Genoa-Udinese,ITA-SERIA_A,17-18,73ab00f3
+89976232,Armando Izzo,5,ITA,CB,25-332,90,0,0,0,0,1,0,0,0,84,1,2,1,0.0,0.0,0.1,2,0,58,76,76.3,14,43,5,0,0,Genoa,2018-01-28 Genoa-Udinese,ITA-SERIA_A,17-18,73ab00f3
+4c62d0c8,Mattia Perin,1,ITA,GK,25-079,90,0,0,0,0,0,0,0,0,21,0,0,0,0.0,0.0,0.0,0,0,13,17,76.5,0,7,0,0,0,Genoa,2018-01-28 Genoa-Udinese,ITA-SERIA_A,17-18,73ab00f3
+09538fdb,Kevin Lasagna,15,ITA,FW,25-171,68,0,0,0,0,0,0,0,0,19,0,1,0,0.0,0.0,0.0,1,0,7,14,50.0,1,4,1,0,0,Udinese,2018-01-28 Genoa-Udinese,ITA-SERIA_A,17-18,73ab00f3
+0c971997,Gabriele Angella,4,ITA,CB,28-275,22,0,0,0,0,0,0,0,0,9,1,0,0,0.0,0.0,0.0,0,0,4,5,80.0,0,1,0,0,0,Udinese,2018-01-28 Genoa-Udinese,ITA-SERIA_A,17-18,73ab00f3
+162efffd,Rodrigo De Paul,10,ARG,FW,23-249,58,0,0,0,0,2,0,0,0,41,1,0,0,0.0,0.0,0.0,0,0,17,34,50.0,5,27,1,1,1,Udinese,2018-01-28 Genoa-Udinese,ITA-SERIA_A,17-18,73ab00f3
+ad469944,Maxi López,20,ARG,FW,33-300,32,0,0,0,0,2,0,0,0,15,1,0,0,0.1,0.1,0.0,3,1,2,6,33.3,1,6,1,1,1,Udinese,2018-01-28 Genoa-Udinese,ITA-SERIA_A,17-18,73ab00f3
+1ea5f91c,Jakub Jankto,14,CZE,DM,22-009,90,0,0,0,0,1,0,0,0,38,0,0,1,0.0,0.0,0.0,1,0,22,32,68.8,7,17,4,0,0,Udinese,2018-01-28 Genoa-Udinese,ITA-SERIA_A,17-18,73ab00f3
+d3d758d8,Valon Behrami,85,SUI,DM,32-284,61,1,0,0,0,1,1,0,0,39,2,0,2,0.0,0.0,0.0,0,0,25,30,83.3,3,17,1,0,0,Udinese,2018-01-28 Genoa-Udinese,ITA-SERIA_A,17-18,73ab00f3
+86015b20,Emil Hallfreðsson,23,ISL,DM,33-213,29,0,0,0,0,0,0,0,0,17,0,0,1,0.0,0.0,0.0,0,0,5,6,83.3,0,6,0,0,0,Udinese,2018-01-28 Genoa-Udinese,ITA-SERIA_A,17-18,73ab00f3
+5313ed43,Seko Fofana,6,CIV,DM,22-266,90,0,0,0,0,0,0,0,0,41,1,2,2,0.0,0.0,0.0,0,0,20,28,71.4,0,23,3,7,5,Udinese,2018-01-28 Genoa-Udinese,ITA-SERIA_A,17-18,73ab00f3
+149c5f5d,Giuseppe Pezzella,7,ITA,WB,20-060,90,0,0,0,0,0,0,0,0,49,2,0,1,0.0,0.0,0.0,0,0,22,39,56.4,3,21,1,0,0,Udinese,2018-01-28 Genoa-Udinese,ITA-SERIA_A,17-18,73ab00f3
+f91e81c9,Jens Stryger Larsen,19,DEN,WB,26-341,90,0,0,0,0,0,0,0,0,47,0,0,2,0.0,0.0,0.0,0,0,32,44,72.7,3,23,1,1,1,Udinese,2018-01-28 Genoa-Udinese,ITA-SERIA_A,17-18,73ab00f3
+92b4758e,Samir Santos,3,BRA,CB,23-054,63,0,0,0,0,0,0,0,1,50,2,5,3,0.0,0.0,0.1,2,0,25,38,65.8,4,29,1,0,0,Udinese,2018-01-28 Genoa-Udinese,ITA-SERIA_A,17-18,73ab00f3
+fed5f993,Danilo Larangeira,5,BRA,CB,33-263,90,0,0,0,0,0,0,0,0,48,1,2,3,0.0,0.0,0.0,2,0,23,30,76.7,2,16,0,0,0,Udinese,2018-01-28 Genoa-Udinese,ITA-SERIA_A,17-18,73ab00f3
+e33f36d5,Bram Nuytinck,17,NED,CB,27-269,90,0,0,0,0,0,0,0,0,45,1,1,0,0.0,0.0,0.0,0,0,22,29,75.9,1,17,0,0,0,Udinese,2018-01-28 Genoa-Udinese,ITA-SERIA_A,17-18,73ab00f3
+32b9b5fa,Albano Bizzarri,1,ARG,GK,40-080,90,0,0,0,0,0,0,0,0,42,1,0,0,0.0,0.0,0.0,1,0,21,42,50.0,0,19,0,0,0,Udinese,2018-01-28 Genoa-Udinese,ITA-SERIA_A,17-18,73ab00f3

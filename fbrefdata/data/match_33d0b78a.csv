@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+e33fb79d,Shamar Nicholson,23,JAM,FW,26-332,65,0,0,0,0,3,1,0,0,35,0,0,0,0.8,0.8,0.0,2,0,17,26,65.4,4,25,0,3,1,Clermont Foot,2024-02-11 Clermont Foot-Brest,FRA-L1,23-24,33d0b78a
+397ba086,Grejohn Kyei,95,FRA,FW,28-183,25,1,0,0,0,2,1,0,0,7,0,1,0,0.3,0.3,0.0,0,0,2,4,50.0,0,2,0,0,0,Clermont Foot,2024-02-11 Clermont Foot-Brest,FRA-L1,23-24,33d0b78a
+01becd60,Alan Virginius,26,FRA,LW,21-039,65,0,0,0,0,0,0,0,0,21,1,0,0,0.0,0.0,0.0,0,0,7,11,63.6,1,15,1,1,0,Clermont Foot,2024-02-11 Clermont Foot-Brest,FRA-L1,23-24,33d0b78a
+1956b948,Jim Allevinah,11,GAB,LW,28-349,25,0,1,0,0,0,0,0,0,10,0,1,0,0.0,0.0,0.2,1,1,4,6,66.7,1,9,2,1,1,Clermont Foot,2024-02-11 Clermont Foot-Brest,FRA-L1,23-24,33d0b78a
+e8a65bc8,Bilal Boutobba,8,FRA,RW,25-166,75,0,0,0,0,0,0,0,0,33,2,1,1,0.0,0.0,0.0,0,0,15,23,65.2,1,28,6,6,3,Clermont Foot,2024-02-11 Clermont Foot-Brest,FRA-L1,23-24,33d0b78a
+25749008,Elba Rashani,18,KVX,RW,30-278,11,0,0,0,0,0,0,0,1,6,0,0,0,0.0,0.0,0.0,0,0,3,5,60.0,0,4,0,0,0,Clermont Foot,2024-02-11 Clermont Foot-Brest,FRA-L1,23-24,33d0b78a
+f527a32c,Muhammed Cham,10,AUT,AM,23-138,90,0,0,0,0,0,0,0,0,48,0,0,0,0.0,0.0,0.2,2,0,35,44,79.5,7,39,5,3,1,Clermont Foot,2024-02-11 Clermont Foot-Brest,FRA-L1,23-24,33d0b78a
+868eaba0,Johan Gastien,25,FRA,DM,36-017,80,0,0,0,0,0,0,1,0,60,1,2,0,0.0,0.0,0.6,3,0,43,56,76.8,4,41,1,0,0,Clermont Foot,2024-02-11 Clermont Foot-Brest,FRA-L1,23-24,33d0b78a
+caa7aaea,Yohann Magnin,7,FRA,DM,26-235,10,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,5,7,71.4,0,7,1,0,0,Clermont Foot,2024-02-11 Clermont Foot-Brest,FRA-L1,23-24,33d0b78a
+b8c1de25,Maxime Gonalons,12,FRA,DM,34-338,75,0,0,0,0,1,0,0,0,48,0,1,0,0.0,0.0,0.0,1,1,36,43,83.7,5,34,0,0,0,Clermont Foot,2024-02-11 Clermont Foot-Brest,FRA-L1,23-24,33d0b78a
+cc588cbe,Habib Keita,6,MLI,DM,22-006,15,0,0,0,0,0,0,0,0,14,3,1,1,0.0,0.0,0.0,0,0,10,10,100.0,0,10,0,2,2,Clermont Foot,2024-02-11 Clermont Foot-Brest,FRA-L1,23-24,33d0b78a
+9f936061,Neto Borges,3,BRA,LB,27-151,90,0,0,0,0,1,0,0,0,62,3,2,0,0.0,0.0,0.1,1,0,39,50,78.0,4,37,2,0,0,Clermont Foot,2024-02-11 Clermont Foot-Brest,FRA-L1,23-24,33d0b78a
+c92c24f0,Maximiliano Caufriez,5,BEL,CB,26-360,90,0,0,0,0,0,0,1,0,39,0,1,1,0.0,0.0,0.0,0,0,30,33,90.9,3,29,0,2,1,Clermont Foot,2024-02-11 Clermont Foot-Brest,FRA-L1,23-24,33d0b78a
+cf1ef7ec,Chrislain Matsima,4,FRA,CB,21-272,90,0,0,0,0,0,0,0,0,43,0,3,1,0.0,0.0,0.0,0,0,24,33,72.7,2,23,0,1,1,Clermont Foot,2024-02-11 Clermont Foot-Brest,FRA-L1,23-24,33d0b78a
+f18d7ab2,Andy Pelmard,17,FRA,RB,23-336,90,0,0,0,0,0,0,0,0,40,0,3,0,0.0,0.0,0.0,0,0,27,34,79.4,4,23,1,0,0,Clermont Foot,2024-02-11 Clermont Foot-Brest,FRA-L1,23-24,33d0b78a
+f41a69e6,Mory Diaw,99,SEN,GK,30-234,90,0,0,0,0,0,0,0,0,42,0,0,0,0.0,0.0,0.0,0,0,24,39,61.5,0,29,0,0,0,Clermont Foot,2024-02-11 Clermont Foot-Brest,FRA-L1,23-24,33d0b78a
+19ba6c6d,Steve Mounié,9,BEN,FW,29-135,90,0,0,0,0,2,1,0,0,33,0,0,2,0.1,0.1,0.1,1,0,10,19,52.6,1,20,1,0,0,Brest,2024-02-11 Clermont Foot-Brest,FRA-L1,23-24,33d0b78a
+8846a40f,Mathias Pereira Lage,26,POR,"LW,RW",27-073,83,0,0,0,0,2,2,1,0,28,0,0,1,0.1,0.1,0.0,2,0,15,21,71.4,0,20,1,0,0,Brest,2024-02-11 Clermont Foot-Brest,FRA-L1,23-24,33d0b78a
+02bcaf8e,Bilal Brahimi,21,ALG,RW,23-334,7,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,1,0,4,6,66.7,0,4,0,0,0,Brest,2024-02-11 Clermont Foot-Brest,FRA-L1,23-24,33d0b78a
+0be95d34,Romain Del Castillo,10,FRA,RW,27-319,71,0,0,0,0,3,0,1,0,50,1,1,1,0.6,0.6,0.3,9,0,24,36,66.7,5,34,4,5,3,Brest,2024-02-11 Clermont Foot-Brest,FRA-L1,23-24,33d0b78a
+88c4d190,Jérémy Le Douaron,22,FRA,"LW,AM",25-296,19,0,0,0,0,1,1,0,0,11,0,0,0,0.1,0.1,0.4,2,0,5,7,71.4,1,9,1,2,0,Brest,2024-02-11 Clermont Foot-Brest,FRA-L1,23-24,33d0b78a
+8577e60a,Mahdi Camara,45,FRA,AM,25-226,71,0,0,0,0,1,0,0,0,39,2,1,0,0.0,0.0,0.3,3,0,24,29,82.8,0,31,0,2,1,Brest,2024-02-11 Clermont Foot-Brest,FRA-L1,23-24,33d0b78a
+9226aa22,Kamory Doumbia,23,MLI,"RM,RW",20-358,18,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,0,0,7,10,70.0,1,10,0,0,0,Brest,2024-02-11 Clermont Foot-Brest,FRA-L1,23-24,33d0b78a
+ca95200f,Grégoire Coudert,30,FRA,GK,24-314,1,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,1,0,2,5,40.0,0,4,0,0,0,Brest,2024-02-11 Clermont Foot-Brest,FRA-L1,23-24,33d0b78a
+f5044e54,Pierre Lees-Melou,20,FRA,"DM,CM",30-262,90,1,0,0,0,3,3,0,0,65,2,3,3,0.1,0.1,0.0,2,0,35,45,77.8,4,37,1,0,0,Brest,2024-02-11 Clermont Foot-Brest,FRA-L1,23-24,33d0b78a
+d4d35152,Hugo Magnetti,8,FRA,DM,25-257,72,0,0,0,0,0,0,0,0,36,1,0,0,0.0,0.0,0.0,1,0,30,32,93.8,5,28,1,0,0,Brest,2024-02-11 Clermont Foot-Brest,FRA-L1,23-24,33d0b78a
+468fdbad,Jonas Martin,28,FRA,"LM,DM",33-308,18,0,0,0,0,1,1,1,0,17,1,0,1,0.4,0.4,0.0,0,0,11,14,78.6,2,12,1,0,0,Brest,2024-02-11 Clermont Foot-Brest,FRA-L1,23-24,33d0b78a
+40221fa7,Bradley Locko,2,FRA,LB,21-281,90,0,1,0,0,0,0,0,0,66,3,2,1,0.0,0.0,0.3,4,2,51,59,86.4,7,48,4,3,2,Brest,2024-02-11 Clermont Foot-Brest,FRA-L1,23-24,33d0b78a
+547a72ad,Julien Le Cardinal,25,FRA,CB,26-192,90,0,0,0,0,2,1,1,0,76,3,1,1,0.1,0.1,0.0,1,0,57,63,90.5,7,56,1,1,1,Brest,2024-02-11 Clermont Foot-Brest,FRA-L1,23-24,33d0b78a
+16aa7d4c,Brendan Chardonnet,5,FRA,CB,29-051,90,0,0,0,0,1,0,0,0,63,0,4,0,0.1,0.1,0.1,1,0,44,57,77.2,7,43,1,0,0,Brest,2024-02-11 Clermont Foot-Brest,FRA-L1,23-24,33d0b78a
+770d7eb8,Kenny Lala,27,MAD,RB,32-131,90,0,0,0,0,0,0,0,0,75,4,1,1,0.0,0.0,0.0,2,0,52,65,80.0,7,40,0,0,0,Brest,2024-02-11 Clermont Foot-Brest,FRA-L1,23-24,33d0b78a
+3d214e5f,Marco Bizot,40,NED,GK,32-338,86,0,0,0,0,0,0,0,1,31,0,0,0,0.0,0.0,0.0,0,0,20,30,66.7,0,23,0,0,0,Brest,2024-02-11 Clermont Foot-Brest,FRA-L1,23-24,33d0b78a

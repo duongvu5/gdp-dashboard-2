@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+f4ec4fd0,Kevin-Prince Boateng,27,GHA,FW,31-199,61,1,0,0,0,3,2,0,0,38,0,0,1,0.6,0.6,0.0,2,0,27,31,87.1,2,22,2,0,0,Sassuolo,2018-09-21 Sassuolo-Empoli,ITA-SERIA_A,18-19,fa7d3c6d
+422ec08a,Khouma Babacar,30,SEN,FW,25-188,29,0,0,0,0,2,0,0,0,17,0,0,0,0.1,0.1,0.0,0,0,12,13,92.3,0,13,2,0,0,Sassuolo,2018-09-21 Sassuolo-Empoli,ITA-SERIA_A,18-19,fa7d3c6d
+1fca9171,Federico Di Francesco,34,ITA,AM,24-099,90,1,2,0,0,4,2,1,0,49,1,0,0,0.9,0.9,0.7,6,2,37,39,94.9,2,32,1,0,0,Sassuolo,2018-09-21 Sassuolo-Empoli,ITA-SERIA_A,18-19,fa7d3c6d
+53a0e358,Domenico Berardi,25,ITA,AM,24-051,80,0,0,0,0,5,1,0,0,57,1,1,1,0.2,0.2,0.0,10,1,43,47,91.5,7,34,0,1,0,Sassuolo,2018-09-21 Sassuolo-Empoli,ITA-SERIA_A,18-19,fa7d3c6d
+d0643f8f,Enrico Brignola,99,ITA,AM,19-075,10,0,0,0,0,2,0,0,0,13,0,0,0,0.1,0.1,0.0,1,1,11,11,100.0,2,7,0,0,0,Sassuolo,2018-09-21 Sassuolo-Empoli,ITA-SERIA_A,18-19,fa7d3c6d
+b70bde8f,Stefano Sensi,12,ITA,LM,23-047,66,0,0,0,0,1,0,0,0,56,1,1,0,0.0,0.0,0.2,6,0,42,49,85.7,7,37,3,0,0,Sassuolo,2018-09-21 Sassuolo-Empoli,ITA-SERIA_A,18-19,fa7d3c6d
+0d077b88,Mehdi Bourabia,68,MAR,LM,27-045,24,0,0,0,0,1,0,0,0,30,1,0,2,0.0,0.0,0.1,3,0,23,25,92.0,5,17,1,1,1,Sassuolo,2018-09-21 Sassuolo-Empoli,ITA-SERIA_A,18-19,fa7d3c6d
+a8a874f1,Manuel Locatelli,73,ITA,CM,20-256,90,0,0,0,0,1,0,0,0,99,0,1,1,0.0,0.0,0.1,4,0,89,93,95.7,12,46,0,0,0,Sassuolo,2018-09-21 Sassuolo-Empoli,ITA-SERIA_A,18-19,fa7d3c6d
+528492ea,Alfred Duncan,32,GHA,RM,25-195,90,0,0,0,0,1,1,0,0,67,4,0,0,0.0,0.0,0.1,5,1,50,59,84.7,7,39,3,1,1,Sassuolo,2018-09-21 Sassuolo-Empoli,ITA-SERIA_A,18-19,fa7d3c6d
+10e7f486,Rogério,6,BRA,LB,20-251,90,0,0,0,0,0,0,0,0,69,0,1,1,0.0,0.0,0.0,3,0,55,64,85.9,7,33,2,1,1,Sassuolo,2018-09-21 Sassuolo-Empoli,ITA-SERIA_A,18-19,fa7d3c6d
+8650af85,Gian Marco Ferrari,31,ITA,CB,26-218,90,1,0,0,0,1,1,0,0,60,2,1,2,0.2,0.2,0.0,1,0,51,53,96.2,5,28,0,0,0,Sassuolo,2018-09-21 Sassuolo-Empoli,ITA-SERIA_A,18-19,fa7d3c6d
+cdf65d12,Marlon,2,BRA,CB,23-014,90,0,0,0,0,0,0,0,0,77,0,1,5,0.0,0.0,0.0,0,0,69,70,98.6,3,45,1,0,0,Sassuolo,2018-09-21 Sassuolo-Empoli,ITA-SERIA_A,18-19,fa7d3c6d
+ff800ed8,Pol Lirola,21,ESP,RB,21-039,90,0,1,0,0,2,0,0,0,78,0,2,1,0.0,0.0,0.8,3,1,63,70,90.0,7,43,3,0,0,Sassuolo,2018-09-21 Sassuolo-Empoli,ITA-SERIA_A,18-19,fa7d3c6d
+8cabdc1e,Andrea Consigli,47,ITA,GK,31-237,90,0,0,0,0,0,0,0,0,33,0,0,0,0.0,0.0,0.0,0,0,22,32,68.8,0,15,0,0,0,Sassuolo,2018-09-21 Sassuolo-Empoli,ITA-SERIA_A,18-19,fa7d3c6d
+822a7761,Antonino La Gumina,20,ITA,FW,22-199,65,0,0,0,0,3,0,0,0,9,0,0,0,0.2,0.2,0.0,2,0,3,5,60.0,0,7,1,2,1,Empoli,2018-09-21 Sassuolo-Empoli,ITA-SERIA_A,18-19,fa7d3c6d
+be6c1ccc,Samuel Mráz,66,SVK,FW,21-131,25,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,4,1,1,0,Empoli,2018-09-21 Sassuolo-Empoli,ITA-SERIA_A,18-19,fa7d3c6d
+5bd72174,Francesco Caputo,11,ITA,FW,31-046,90,1,0,0,0,3,1,0,0,41,1,0,0,0.2,0.2,0.2,7,0,26,34,76.5,2,27,8,2,1,Empoli,2018-09-21 Sassuolo-Empoli,ITA-SERIA_A,18-19,fa7d3c6d
+83e4643e,Miha Zajc,6,SVN,AM,24-082,70,0,0,0,0,6,1,2,1,46,0,0,0,0.4,0.4,0.0,3,0,32,35,91.4,4,34,3,4,2,Empoli,2018-09-21 Sassuolo-Empoli,ITA-SERIA_A,18-19,fa7d3c6d
+817c6964,Rade Krunić,33,BIH,LM,24-349,90,0,0,0,0,1,0,1,0,45,3,2,0,0.1,0.1,0.0,3,0,27,32,84.4,7,20,6,1,1,Empoli,2018-09-21 Sassuolo-Empoli,ITA-SERIA_A,18-19,fa7d3c6d
+07ea0ef2,Leonardo Capezzi,28,ITA,CM,23-177,80,0,0,0,0,1,0,1,0,49,2,0,0,0.1,0.1,0.0,1,0,33,43,76.7,5,26,3,0,0,Empoli,2018-09-21 Sassuolo-Empoli,ITA-SERIA_A,18-19,fa7d3c6d
+570bb4b9,Hamed Junior Traorè,8,CIV,CM,18-217,10,0,0,0,0,1,0,0,0,10,0,0,0,0.0,0.0,0.0,0,0,7,9,77.8,1,7,0,0,0,Empoli,2018-09-21 Sassuolo-Empoli,ITA-SERIA_A,18-19,fa7d3c6d
+d7403bd5,Afriyie Acquah,18,GHA,RM,26-259,13,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,3,4,75.0,2,3,0,1,0,Empoli,2018-09-21 Sassuolo-Empoli,ITA-SERIA_A,18-19,fa7d3c6d
+db092d3b,Ismaël Bennacer,10,ALG,RM,20-294,77,0,0,0,0,0,0,0,0,67,6,3,1,0.0,0.0,0.0,1,0,44,52,84.6,3,44,3,1,1,Empoli,2018-09-21 Sassuolo-Empoli,ITA-SERIA_A,18-19,fa7d3c6d
+d541e703,Freddie Veseli,5,ALB,LB,25-305,90,0,0,0,0,0,0,0,0,55,0,0,2,0.0,0.0,0.1,2,0,43,52,82.7,6,29,6,1,1,Empoli,2018-09-21 Sassuolo-Empoli,ITA-SERIA_A,18-19,fa7d3c6d
+3d936ba9,Domenico Maietta,22,ITA,CB,36-049,90,0,0,0,0,0,0,0,0,49,2,3,2,0.0,0.0,0.0,0,0,36,42,85.7,3,25,0,1,0,Empoli,2018-09-21 Sassuolo-Empoli,ITA-SERIA_A,18-19,fa7d3c6d
+b6ca47a2,Matías Silvestre,26,ARG,CB,33-361,90,0,0,0,0,0,0,0,0,53,0,2,2,0.0,0.0,0.0,0,0,43,48,89.6,5,29,0,0,0,Empoli,2018-09-21 Sassuolo-Empoli,ITA-SERIA_A,18-19,fa7d3c6d
+230a2fac,Giovanni Di Lorenzo,2,ITA,RB,25-048,90,0,0,0,0,0,0,0,0,64,2,0,0,0.0,0.0,0.1,3,0,40,56,71.4,9,36,1,0,0,Empoli,2018-09-21 Sassuolo-Empoli,ITA-SERIA_A,18-19,fa7d3c6d
+e1b0a70d,Pietro Terracciano,21,ITA,GK,28-197,90,0,0,0,0,0,0,0,0,26,0,0,0,0.0,0.0,0.0,1,0,20,23,87.0,0,6,0,0,0,Empoli,2018-09-21 Sassuolo-Empoli,ITA-SERIA_A,18-19,fa7d3c6d

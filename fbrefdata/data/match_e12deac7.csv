@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+d705ba44,Andrea Belotti,9,ITA,FW,24-311,90,0,0,0,0,3,0,0,0,51,1,1,0,0.1,0.1,0.0,4,0,29,40,72.5,2,31,3,1,0,Torino,2018-10-27 Torino-Fiorentina,ITA-SERIA_A,18-19,e12deac7
+440c84ed,Iago Falque,14,ESP,"FW,AM",28-296,84,0,0,0,0,8,1,0,0,59,0,1,1,0.3,0.3,0.2,9,0,33,45,73.3,7,40,3,1,0,Torino,2018-10-27 Torino-Fiorentina,ITA-SERIA_A,18-19,e12deac7
+9d4c45d6,Roberto Soriano,6,ITA,AM,27-261,6,0,0,0,0,0,0,0,0,3,1,0,0,0.0,0.0,0.0,1,0,0,2,0.0,0,1,0,0,0,Torino,2018-10-27 Torino-Fiorentina,ITA-SERIA_A,18-19,e12deac7
+ea06dd97,Daniele Baselli,8,ITA,CM,26-229,64,0,0,0,0,3,0,0,0,45,1,0,0,0.1,0.1,0.0,5,0,32,37,86.5,6,26,1,0,0,Torino,2018-10-27 Torino-Fiorentina,ITA-SERIA_A,18-19,e12deac7
+9592289a,Simone Zaza,11,ITA,FW,27-124,26,0,0,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.0,1,0,5,8,62.5,0,7,0,0,0,Torino,2018-10-27 Torino-Fiorentina,ITA-SERIA_A,18-19,e12deac7
+f1cfc209,Tomás Rincón,88,VEN,CM,30-287,90,0,0,0,0,1,0,1,0,51,1,2,0,0.0,0.0,0.2,7,0,32,46,69.6,9,18,2,2,2,Torino,2018-10-27 Torino-Fiorentina,ITA-SERIA_A,18-19,e12deac7
+5cec2c74,Soualiho Meïté,23,FRA,CM,24-224,90,0,0,0,0,2,0,1,0,52,4,0,2,0.1,0.1,0.1,7,0,34,40,85.0,10,22,3,2,1,Torino,2018-10-27 Torino-Fiorentina,ITA-SERIA_A,18-19,e12deac7
+246d153b,Ola Aina,34,NGA,WB,22-019,90,0,0,0,0,2,0,0,0,56,4,1,0,0.1,0.1,0.3,3,0,31,43,72.1,8,18,5,4,3,Torino,2018-10-27 Torino-Fiorentina,ITA-SERIA_A,18-19,e12deac7
+e74f0e59,Lorenzo De Silvestri,29,ITA,WB,30-157,82,0,0,0,0,1,1,0,0,59,0,2,3,0.0,0.0,0.1,2,0,31,49,63.3,1,18,2,1,0,Torino,2018-10-27 Torino-Fiorentina,ITA-SERIA_A,18-19,e12deac7
+75efed2e,Vittorio Parigini,27,ITA,WB,22-216,8,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,3,4,75.0,0,3,0,0,0,Torino,2018-10-27 Torino-Fiorentina,ITA-SERIA_A,18-19,e12deac7
+933d3b51,Koffi Djidji,30,CIV,CB,25-331,90,0,0,0,0,0,0,0,0,38,3,1,1,0.0,0.0,0.0,1,0,20,29,69.0,5,22,0,3,3,Torino,2018-10-27 Torino-Fiorentina,ITA-SERIA_A,18-19,e12deac7
+93cf32a8,Nicolas Nkoulou,33,CMR,CB,28-214,90,0,0,0,0,0,0,0,0,25,1,3,0,0.0,0.0,0.0,0,0,13,16,81.3,0,8,0,0,0,Torino,2018-10-27 Torino-Fiorentina,ITA-SERIA_A,18-19,e12deac7
+89976232,Armando Izzo,5,ITA,CB,26-239,90,0,0,0,0,1,0,0,0,62,7,2,1,0.2,0.2,0.0,0,0,28,49,57.1,3,29,2,1,0,Torino,2018-10-27 Torino-Fiorentina,ITA-SERIA_A,18-19,e12deac7
+10dc46f0,Salvatore Sirigu,39,ITA,GK,31-288,90,0,0,0,0,0,0,0,0,23,0,0,0,0.0,0.0,0.0,0,0,17,21,81.0,0,8,0,0,0,Torino,2018-10-27 Torino-Fiorentina,ITA-SERIA_A,18-19,e12deac7
+aa51343f,Kevin Mirallas,11,BEL,"LW,FW",31-022,90,0,0,0,0,1,1,1,0,26,0,0,2,0.3,0.3,0.0,1,0,10,18,55.6,0,13,1,1,0,Fiorentina,2018-10-27 Torino-Fiorentina,ITA-SERIA_A,18-19,e12deac7
+ae82fa48,Valentin Eysseric,7,FRA,LW,26-216,45,0,0,0,0,0,0,0,0,21,3,0,2,0.0,0.0,0.0,1,0,6,13,46.2,0,7,0,0,0,Fiorentina,2018-10-27 Torino-Fiorentina,ITA-SERIA_A,18-19,e12deac7
+343c0d52,Giovanni Simeone,9,ARG,FW,23-114,45,0,0,0,0,2,1,0,0,21,0,0,0,0.4,0.4,0.0,1,0,7,11,63.6,0,15,0,2,0,Fiorentina,2018-10-27 Torino-Fiorentina,ITA-SERIA_A,18-19,e12deac7
+b0f7e36c,Federico Chiesa,25,ITA,RW,21-002,90,0,0,0,0,3,2,0,0,43,0,2,2,0.1,0.1,0.3,1,0,14,23,60.9,2,21,2,9,3,Fiorentina,2018-10-27 Torino-Fiorentina,ITA-SERIA_A,18-19,e12deac7
+3bb625ac,Edimilson Fernandes,26,SUI,LM,22-195,45,0,0,0,0,1,0,0,0,19,0,1,0,0.0,0.0,0.0,1,1,10,14,71.4,1,13,0,1,0,Fiorentina,2018-10-27 Torino-Fiorentina,ITA-SERIA_A,18-19,e12deac7
+8827bf46,Gerson,8,BRA,"LM,AM",21-160,45,0,0,0,0,0,0,1,0,31,0,1,3,0.0,0.0,0.0,3,0,23,27,85.2,3,13,1,1,1,Fiorentina,2018-10-27 Torino-Fiorentina,ITA-SERIA_A,18-19,e12deac7
+4a56052c,Jordan Veretout,17,FRA,"CM,DM",25-240,90,0,0,0,0,0,0,1,0,48,1,3,4,0.0,0.0,0.1,3,0,26,38,68.4,8,17,1,1,0,Fiorentina,2018-10-27 Torino-Fiorentina,ITA-SERIA_A,18-19,e12deac7
+0000acda,Marco Benassi,24,ITA,RM,24-049,83,1,0,0,0,1,1,0,0,25,2,0,0,0.5,0.5,0.0,2,0,14,20,70.0,4,13,0,1,1,Fiorentina,2018-10-27 Torino-Fiorentina,ITA-SERIA_A,18-19,e12deac7
+c53083ad,Bryan Dabo,14,BFA,"RM,DM",26-251,7,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,1,0,0,0,Fiorentina,2018-10-27 Torino-Fiorentina,ITA-SERIA_A,18-19,e12deac7
+9e1577aa,Cristiano Biraghi,3,ITA,LB,26-056,90,0,0,0,0,0,0,0,0,50,4,1,3,0.0,0.0,0.0,0,0,27,37,73.0,2,16,2,1,1,Fiorentina,2018-10-27 Torino-Fiorentina,ITA-SERIA_A,18-19,e12deac7
+f2c1300a,Vitor Hugo,31,BRA,CB,27-160,90,0,0,0,0,1,0,0,0,53,4,2,1,0.1,0.1,0.0,0,0,28,33,84.8,2,16,0,0,0,Fiorentina,2018-10-27 Torino-Fiorentina,ITA-SERIA_A,18-19,e12deac7
+8c725b43,Germán Pezzella,20,ARG,CB,27-122,90,0,0,0,0,0,0,0,0,51,5,5,2,0.0,0.0,0.0,0,0,26,36,72.2,2,19,0,0,0,Fiorentina,2018-10-27 Torino-Fiorentina,ITA-SERIA_A,18-19,e12deac7
+bee704fc,Nikola Milenković,4,SRB,RB,21-015,90,0,0,0,0,0,0,1,0,62,5,4,1,0.0,0.0,0.0,1,1,31,47,66.0,6,17,0,1,1,Fiorentina,2018-10-27 Torino-Fiorentina,ITA-SERIA_A,18-19,e12deac7
+4e7db402,Alban Lafont,1,FRA,GK,19-277,90,0,0,0,0,0,0,0,0,36,0,0,0,0.0,0.0,0.0,0,0,15,31,48.4,0,9,0,0,0,Fiorentina,2018-10-27 Torino-Fiorentina,ITA-SERIA_A,18-19,e12deac7

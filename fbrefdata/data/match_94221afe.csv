@@ -1,0 +1,28 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+343c0d52,Giovanni Simeone,99,ARG,FW,24-211,83,1,1,0,0,5,3,0,0,20,1,0,0,0.9,0.9,0.1,2,1,9,9,100.0,0,17,1,2,2,Cagliari,2020-02-01 Cagliari-Parma,ITA-SERIA_A,19-20,94221afe
+b5cae4e6,Alberto Paloschi,9,ITA,FW,30-028,7,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,0,0,Cagliari,2020-02-01 Cagliari-Parma,ITA-SERIA_A,19-20,94221afe
+81255c03,João Pedro,10,ITA,AM,27-329,90,1,0,0,1,3,1,0,0,48,0,1,1,1.0,0.2,0.1,3,0,22,34,64.7,4,31,0,1,0,Cagliari,2020-02-01 Cagliari-Parma,ITA-SERIA_A,19-20,94221afe
+1f9328da,Radja Nainggolan,4,BEL,AM,31-273,90,0,0,0,0,3,1,1,0,61,1,1,2,0.1,0.1,0.3,10,0,37,44,84.1,6,34,4,1,0,Cagliari,2020-02-01 Cagliari-Parma,ITA-SERIA_A,19-20,94221afe
+cedb3e36,Artur Ioniță,21,MDA,LM,29-168,90,0,0,0,0,1,0,0,0,38,2,2,2,0.0,0.0,0.0,0,0,19,24,79.2,5,17,0,1,1,Cagliari,2020-02-01 Cagliari-Parma,ITA-SERIA_A,19-20,94221afe
+ae64d449,Luca Cigarini,8,ITA,CM,33-226,71,0,0,0,0,2,0,1,0,62,2,1,1,0.1,0.1,0.1,6,1,42,53,79.2,12,28,2,1,0,Cagliari,2020-02-01 Cagliari-Parma,ITA-SERIA_A,19-20,94221afe
+d3b888e3,Christian Oliva,17,URU,CM,23-245,19,0,0,0,0,0,0,0,0,7,0,1,0,0.0,0.0,0.0,0,0,3,7,42.9,1,1,0,0,0,Cagliari,2020-02-01 Cagliari-Parma,ITA-SERIA_A,19-20,94221afe
+95facda1,Nahitan Nández,18,URU,RM,24-035,90,0,0,0,0,2,2,1,0,33,2,1,0,0.2,0.2,0.0,8,1,18,27,66.7,3,22,3,2,2,Cagliari,2020-02-01 Cagliari-Parma,ITA-SERIA_A,19-20,94221afe
+3b61c9ec,Luca Pellegrini,33,ITA,LB,20-331,90,0,1,0,0,2,1,0,0,53,3,1,1,0.3,0.3,0.7,2,1,29,41,70.7,2,25,4,2,2,Cagliari,2020-02-01 Cagliari-Parma,ITA-SERIA_A,19-20,94221afe
+008a6e6d,Ragnar Klavan,15,EST,CB,34-094,90,0,0,0,0,0,0,0,0,52,1,2,0,0.0,0.0,0.3,1,0,37,45,82.2,1,30,0,0,0,Cagliari,2020-02-01 Cagliari-Parma,ITA-SERIA_A,19-20,94221afe
+56400c01,Fabio Pisacane,19,ITA,CB,34-004,90,0,0,0,0,0,0,0,0,56,0,0,1,0.0,0.0,0.0,1,0,43,48,89.6,1,33,0,0,0,Cagliari,2020-02-01 Cagliari-Parma,ITA-SERIA_A,19-20,94221afe
+9085dd7c,Paolo Faragò,24,ITA,RB,26-354,90,0,0,0,0,1,0,0,0,59,0,1,1,0.1,0.1,0.0,2,0,35,51,68.6,2,28,2,2,2,Cagliari,2020-02-01 Cagliari-Parma,ITA-SERIA_A,19-20,94221afe
+f554e29b,Alessio Cragno,28,ITA,GK,25-218,90,0,0,0,0,0,0,0,0,42,0,0,0,0.0,0.0,0.0,0,0,27,41,65.9,0,18,0,0,0,Cagliari,2020-02-01 Cagliari-Parma,ITA-SERIA_A,19-20,94221afe
+c693347d,Andreas Cornelius,11,DEN,FW,26-322,90,1,0,0,0,3,1,0,0,38,2,0,1,0.9,0.9,0.0,1,0,12,19,63.2,0,17,0,0,0,Parma,2020-02-01 Cagliari-Parma,ITA-SERIA_A,19-20,94221afe
+144607cc,Jasmin Kurtić,19,SVN,LM,31-022,90,0,1,0,0,1,0,0,0,44,1,3,1,0.0,0.0,0.9,3,1,28,34,82.4,5,20,1,0,0,Parma,2020-02-01 Cagliari-Parma,ITA-SERIA_A,19-20,94221afe
+5aaef9ef,Juraj Kucka,33,SVK,CM,32-340,90,1,0,0,0,5,1,0,0,54,1,4,1,1.0,1.0,0.0,3,1,24,37,64.9,3,26,0,2,1,Parma,2020-02-01 Cagliari-Parma,ITA-SERIA_A,19-20,94221afe
+1cac99dc,Luca Siligardi,26,ITA,CM,32-006,56,0,0,0,0,0,0,0,0,27,1,0,0,0.0,0.0,0.1,1,0,14,20,70.0,2,12,0,1,0,Parma,2020-02-01 Cagliari-Parma,ITA-SERIA_A,19-20,94221afe
+54e53b7e,Gianluca Caprari,20,ITA,CM,26-186,34,0,0,0,0,1,0,0,0,10,0,0,0,0.0,0.0,0.0,2,0,6,8,75.0,1,8,1,2,1,Parma,2020-02-01 Cagliari-Parma,ITA-SERIA_A,19-20,94221afe
+6f5ead86,Hernani,10,BRA,"RM,DM",25-311,90,0,0,0,0,2,1,0,0,50,0,1,1,0.1,0.1,0.0,4,1,23,38,60.5,1,17,1,5,3,Parma,2020-02-01 Cagliari-Parma,ITA-SERIA_A,19-20,94221afe
+e947ee4a,Gastón Brugman,15,URU,DM,27-147,79,0,1,0,0,1,0,0,0,52,5,2,2,0.0,0.0,0.8,4,1,30,41,73.2,10,19,3,1,1,Parma,2020-02-01 Cagliari-Parma,ITA-SERIA_A,19-20,94221afe
+bdd0692f,Mattia Sprocati,93,ITA,RM,26-279,11,0,0,0,0,1,1,0,0,14,0,0,1,0.1,0.1,0.1,3,0,7,11,63.6,0,4,0,0,0,Parma,2020-02-01 Cagliari-Parma,ITA-SERIA_A,19-20,94221afe
+173061c0,Riccardo Gagliolo,28,SWE,LB,29-279,90,0,0,0,0,0,0,1,0,51,0,1,0,0.0,0.0,0.0,1,0,34,48,70.8,7,18,2,0,0,Parma,2020-02-01 Cagliari-Parma,ITA-SERIA_A,19-20,94221afe
+585a73a8,Bruno Alves,22,POR,CB,38-066,90,0,0,0,0,2,0,0,0,44,0,0,1,0.2,0.2,0.0,2,0,33,38,86.8,6,15,0,0,0,Parma,2020-02-01 Cagliari-Parma,ITA-SERIA_A,19-20,94221afe
+63071a3f,Simone Iacoponi,2,ITA,CB,32-277,90,0,0,0,0,0,0,0,0,34,1,1,1,0.0,0.0,0.0,1,0,22,25,88.0,2,7,0,0,0,Parma,2020-02-01 Cagliari-Parma,ITA-SERIA_A,19-20,94221afe
+96e0490d,Matteo Darmian,36,ITA,RB,30-061,90,0,0,0,0,0,0,1,0,62,1,4,0,0.0,0.0,0.0,2,0,38,51,74.5,6,18,0,0,0,Parma,2020-02-01 Cagliari-Parma,ITA-SERIA_A,19-20,94221afe
+72be9309,Simone Colombi,34,ITA,GK,28-215,90,0,0,0,0,0,0,0,0,33,0,0,0,0.0,0.0,0.0,0,0,18,24,75.0,0,4,0,0,0,Parma,2020-02-01 Cagliari-Parma,ITA-SERIA_A,19-20,94221afe

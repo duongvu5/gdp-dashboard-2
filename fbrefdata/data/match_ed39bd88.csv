@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+ff182fdc,Ishak Belfodil,29,ALG,FW,25-276,90,0,0,0,0,1,0,0,0,33,0,1,0,0.1,0.1,0.1,4,0,17,27,63.0,4,21,5,3,2,Werder Bremen,2017-10-15 Werder Bremen-Gladbach,GER-BL1,17-18,ed39bd88
+acc7b7ec,Fin Bartels,22,GER,FW,30-250,90,0,0,0,0,1,0,0,0,44,0,0,0,0.1,0.1,0.3,5,0,30,37,81.1,6,30,4,2,0,Werder Bremen,2017-10-15 Werder Bremen-Gladbach,GER-BL1,17-18,ed39bd88
+9fec8860,Ludwig Augustinsson,5,SWE,"LW,LB",23-177,79,0,0,0,0,0,0,0,0,52,4,1,2,0.0,0.0,0.1,3,0,39,45,86.7,0,21,1,0,0,Werder Bremen,2017-10-15 Werder Bremen-Gladbach,GER-BL1,17-18,ed39bd88
+d571df78,Johannes Eggestein,24,GER,LB,19-160,11,0,0,0,0,1,1,0,0,5,0,0,0,0.1,0.1,0.0,0,0,2,2,100.0,0,3,0,1,0,Werder Bremen,2017-10-15 Werder Bremen-Gladbach,GER-BL1,17-18,ed39bd88
+9b88e120,Robert Bauer,4,GER,"RB,RW",22-189,90,0,0,0,0,0,0,0,0,67,1,1,2,0.0,0.0,0.1,4,0,46,60,76.7,6,32,3,0,0,Werder Bremen,2017-10-15 Werder Bremen-Gladbach,GER-BL1,17-18,ed39bd88
+fe641c1a,Thomas Delaney,6,DEN,CM,26-042,90,0,0,0,0,6,1,0,0,54,2,1,1,0.5,0.5,0.0,0,0,32,39,82.1,4,25,0,0,0,Werder Bremen,2017-10-15 Werder Bremen-Gladbach,GER-BL1,17-18,ed39bd88
+dba67bc4,Zlatko Junuzović,16,AUT,CM,30-019,90,0,0,0,0,5,1,0,0,54,1,1,1,0.5,0.5,0.2,6,0,36,47,76.6,6,26,1,1,1,Werder Bremen,2017-10-15 Werder Bremen-Gladbach,GER-BL1,17-18,ed39bd88
+3f7cd8f1,Philipp Bargfrede,44,GER,DM,28-226,45,0,0,0,0,1,1,0,0,19,0,1,0,0.0,0.0,0.0,1,0,13,16,81.3,1,10,1,0,0,Werder Bremen,2017-10-15 Werder Bremen-Gladbach,GER-BL1,17-18,ed39bd88
+94c18565,Florian Kainz,7,AUT,LM,24-356,45,0,0,0,0,1,0,0,0,37,0,0,2,0.1,0.1,0.1,3,0,23,32,71.9,4,24,4,3,1,Werder Bremen,2017-10-15 Werder Bremen-Gladbach,GER-BL1,17-18,ed39bd88
+00844823,Niklas Moisander,18,FIN,CB,32-016,90,0,0,0,0,2,0,0,0,65,2,1,2,0.2,0.2,0.3,2,0,52,56,92.9,4,43,1,0,0,Werder Bremen,2017-10-15 Werder Bremen-Gladbach,GER-BL1,17-18,ed39bd88
+125cb9fe,Lamine Sané,26,SEN,CB,30-207,90,0,0,0,0,0,0,0,0,65,3,0,0,0.0,0.0,0.0,0,0,50,61,82.0,7,42,1,2,2,Werder Bremen,2017-10-15 Werder Bremen-Gladbach,GER-BL1,17-18,ed39bd88
+a5ae8f8e,Miloš Veljković,13,SRB,CB,22-019,45,0,0,0,0,0,0,0,0,28,0,0,1,0.0,0.0,0.2,2,0,19,25,76.0,4,13,0,0,0,Werder Bremen,2017-10-15 Werder Bremen-Gladbach,GER-BL1,17-18,ed39bd88
+55537f53,Izet Hajrović,15,BIH,RM,26-072,45,0,0,0,0,1,1,1,0,29,1,1,0,0.0,0.0,0.1,4,0,14,21,66.7,1,20,2,5,3,Werder Bremen,2017-10-15 Werder Bremen-Gladbach,GER-BL1,17-18,ed39bd88
+0a1cb833,Jiří Pavlenka,1,CZE,GK,25-184,90,0,0,0,0,0,0,0,0,41,0,0,0,0.0,0.0,0.0,0,0,21,37,56.8,0,21,0,0,0,Werder Bremen,2017-10-15 Werder Bremen-Gladbach,GER-BL1,17-18,ed39bd88
+791af558,Raffael,11,BRA,FW,32-201,82,0,0,0,0,1,0,0,0,49,0,0,1,0.1,0.1,0.2,5,0,35,43,81.4,4,31,4,1,0,Mönchengladbach,2017-10-15 Werder Bremen-Gladbach,GER-BL1,17-18,ed39bd88
+5722eced,Mickaël Cuisance,27,FRA,FW,18-060,8,0,0,0,0,1,0,0,0,10,0,0,0,0.0,0.0,0.0,1,0,7,8,87.5,1,10,3,1,1,Mönchengladbach,2017-10-15 Werder Bremen-Gladbach,GER-BL1,17-18,ed39bd88
+7cd6badb,Lars Stindl,13,GER,FW,29-050,90,1,0,0,0,2,1,0,0,79,0,0,3,0.1,0.1,0.5,3,1,61,70,87.1,7,36,1,2,2,Mönchengladbach,2017-10-15 Werder Bremen-Gladbach,GER-BL1,17-18,ed39bd88
+76e5da9d,Fabian Johnson,19,USA,LM,29-308,73,0,0,0,0,1,1,0,0,26,1,0,2,0.1,0.1,0.1,1,0,15,22,68.2,3,13,1,0,0,Mönchengladbach,2017-10-15 Werder Bremen-Gladbach,GER-BL1,17-18,ed39bd88
+096a77c4,Ibrahima Traoré,16,GUI,LM,29-177,17,0,0,0,0,1,1,0,0,17,0,0,0,0.0,0.0,0.0,2,0,14,15,93.3,3,15,4,1,1,Mönchengladbach,2017-10-15 Werder Bremen-Gladbach,GER-BL1,17-18,ed39bd88
+384d58d9,Denis Zakaria,8,SUI,CM,20-329,90,0,0,0,0,0,0,0,0,61,3,3,1,0.0,0.0,0.0,2,0,43,50,86.0,3,29,1,0,0,Mönchengladbach,2017-10-15 Werder Bremen-Gladbach,GER-BL1,17-18,ed39bd88
+496aeede,Christoph Kramer,6,GER,CM,26-238,90,0,0,0,0,1,0,0,0,68,4,0,0,0.1,0.1,0.1,3,0,55,60,91.7,3,42,1,0,0,Mönchengladbach,2017-10-15 Werder Bremen-Gladbach,GER-BL1,17-18,ed39bd88
+50871bcc,Thorgan Hazard,10,BEL,RM,24-200,88,0,0,0,0,4,3,0,0,62,0,0,0,0.5,0.5,0.3,6,1,42,49,85.7,2,32,3,7,2,Mönchengladbach,2017-10-15 Werder Bremen-Gladbach,GER-BL1,17-18,ed39bd88
+54e4866f,Vincenzo Grifo,32,ITA,RM,24-191,2,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,2,1,0,0,Mönchengladbach,2017-10-15 Werder Bremen-Gladbach,GER-BL1,17-18,ed39bd88
+b69261a0,Oscar Wendt,17,SWE,LB,31-356,90,0,1,0,0,2,0,0,0,77,1,2,1,0.1,0.1,0.1,2,1,52,63,82.5,4,32,0,0,0,Mönchengladbach,2017-10-15 Werder Bremen-Gladbach,GER-BL1,17-18,ed39bd88
+1900032e,Jannik Vestergaard,4,DEN,CB,25-073,90,1,0,0,0,1,1,0,0,73,1,0,3,0.0,0.0,0.0,0,0,52,61,85.2,2,32,0,0,0,Mönchengladbach,2017-10-15 Werder Bremen-Gladbach,GER-BL1,17-18,ed39bd88
+f521b80a,Matthias Ginter,28,GER,CB,23-269,90,0,0,0,0,1,0,0,0,52,0,0,0,0.1,0.1,0.0,0,0,39,45,86.7,1,34,2,0,0,Mönchengladbach,2017-10-15 Werder Bremen-Gladbach,GER-BL1,17-18,ed39bd88
+48035304,Nico Elvedi,30,SUI,RB,21-015,90,0,0,0,0,1,1,0,0,66,3,3,3,0.1,0.1,0.1,4,1,40,52,76.9,4,25,1,2,2,Mönchengladbach,2017-10-15 Werder Bremen-Gladbach,GER-BL1,17-18,ed39bd88
+420c18a1,Yann Sommer,1,SUI,GK,28-302,90,0,0,0,0,0,0,0,0,59,0,0,0,0.0,0.0,0.0,0,0,44,56,78.6,0,37,0,0,0,Mönchengladbach,2017-10-15 Werder Bremen-Gladbach,GER-BL1,17-18,ed39bd88

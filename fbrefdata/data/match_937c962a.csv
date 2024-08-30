@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+a3ddb1b9,Mark Uth,19,GER,FW,26-100,90,1,0,0,0,3,2,1,0,34,1,0,2,0.3,0.3,0.1,3,0,16,23,69.6,1,22,1,0,0,Hoffenheim,2017-12-02 Hoffenheim-RB Leipzig,GER-BL1,17-18,937c962a
+88e357ef,Serge Gnabry,29,GER,FW,22-141,64,2,0,0,0,2,2,0,0,23,2,0,2,0.5,0.5,0.1,1,0,12,15,80.0,2,13,2,3,1,Hoffenheim,2017-12-02 Hoffenheim-RB Leipzig,GER-BL1,17-18,937c962a
+603cb947,Andrej Kramarić,27,CRO,FW,26-166,26,0,0,0,0,1,1,0,0,14,0,0,1,0.0,0.0,0.0,2,1,5,10,50.0,1,9,2,1,0,Hoffenheim,2017-12-02 Hoffenheim-RB Leipzig,GER-BL1,17-18,937c962a
+b6a6e0a7,Steven Zuber,17,SUI,LW,26-107,90,0,0,0,0,0,0,0,0,46,1,0,1,0.0,0.0,0.0,0,0,30,39,76.9,0,20,0,1,0,Hoffenheim,2017-12-02 Hoffenheim-RB Leipzig,GER-BL1,17-18,937c962a
+79c90e45,Pavel Kadeřábek,3,CZE,RW,25-221,90,0,0,0,0,2,2,0,0,62,4,1,1,0.1,0.1,0.0,2,1,38,53,71.7,2,22,4,0,0,Hoffenheim,2017-12-02 Hoffenheim-RB Leipzig,GER-BL1,17-18,937c962a
+555d5edd,Nadiem Amiri,18,GER,CM,21-036,69,1,1,0,0,1,1,0,0,33,1,0,0,0.3,0.3,0.0,1,1,20,28,71.4,2,20,3,2,1,Hoffenheim,2017-12-02 Hoffenheim-RB Leipzig,GER-BL1,17-18,937c962a
+54b4dc4e,Kerem Demirbay,10,GER,CM,24-152,21,0,0,0,0,0,0,0,0,12,1,0,1,0.0,0.0,0.0,0,0,7,9,77.8,1,5,1,0,0,Hoffenheim,2017-12-02 Hoffenheim-RB Leipzig,GER-BL1,17-18,937c962a
+3faa1780,Lukas Rupp,7,GER,CM,26-328,90,0,0,0,0,1,0,0,0,53,2,1,3,0.1,0.1,0.1,3,0,23,37,62.2,3,26,0,1,0,Hoffenheim,2017-12-02 Hoffenheim-RB Leipzig,GER-BL1,17-18,937c962a
+37f606f0,Dennis Geiger,32,GER,DM,19-175,90,0,0,0,0,0,0,1,0,46,4,2,5,0.0,0.0,0.0,1,1,28,31,90.3,2,18,0,1,1,Hoffenheim,2017-12-02 Hoffenheim-RB Leipzig,GER-BL1,17-18,937c962a
+99de6b6f,Benjamin Hübner,21,GER,CB,28-151,75,0,0,0,0,0,0,0,0,43,2,4,4,0.0,0.0,0.0,0,0,21,31,67.7,0,19,0,0,0,Hoffenheim,2017-12-02 Hoffenheim-RB Leipzig,GER-BL1,17-18,937c962a
+6cafd68d,Håvard Nordtveit,6,NOR,CB,27-164,15,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,1,3,33.3,0,2,0,0,0,Hoffenheim,2017-12-02 Hoffenheim-RB Leipzig,GER-BL1,17-18,937c962a
+7f609bfc,Stefan Posch,38,AUT,CB,20-202,90,0,0,0,0,0,0,0,0,54,1,5,2,0.0,0.0,0.0,2,1,30,40,75.0,2,22,1,0,0,Hoffenheim,2017-12-02 Hoffenheim-RB Leipzig,GER-BL1,17-18,937c962a
+6ec6fde0,Kevin Akpoguma,25,NGA,CB,22-227,90,0,1,0,0,0,0,0,0,39,1,3,3,0.0,0.0,0.5,2,1,22,25,88.0,1,17,0,0,0,Hoffenheim,2017-12-02 Hoffenheim-RB Leipzig,GER-BL1,17-18,937c962a
+47064058,Oliver Baumann,1,GER,GK,27-183,90,0,0,0,0,0,0,0,0,39,0,0,0,0.0,0.0,0.0,0,0,16,38,42.1,0,22,0,0,0,Hoffenheim,2017-12-02 Hoffenheim-RB Leipzig,GER-BL1,17-18,937c962a
+d2416c2e,Yussuf Poulsen,9,DEN,FW,23-170,69,0,0,0,0,0,0,0,0,30,2,1,0,0.0,0.0,0.0,0,0,10,25,40.0,0,18,3,0,0,RB Leipzig,2017-12-02 Hoffenheim-RB Leipzig,GER-BL1,17-18,937c962a
+97bfa797,Jean-Kévin Augustin,29,FRA,FW,20-169,21,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,3,4,75.0,0,3,1,1,0,RB Leipzig,2017-12-02 Hoffenheim-RB Leipzig,GER-BL1,17-18,937c962a
+49fe9070,Timo Werner,11,GER,FW,21-271,90,0,0,0,0,3,1,0,0,50,0,0,0,0.1,0.1,0.0,4,0,30,40,75.0,2,32,4,2,2,RB Leipzig,2017-12-02 Hoffenheim-RB Leipzig,GER-BL1,17-18,937c962a
+9a2e0ccc,Emil Forsberg,10,SWE,AM,26-040,90,0,0,0,0,5,3,0,0,66,2,2,3,0.2,0.2,0.1,5,0,35,50,70.0,2,38,1,7,5,RB Leipzig,2017-12-02 Hoffenheim-RB Leipzig,GER-BL1,17-18,937c962a
+b825a650,Kevin Kampl,44,SVN,AM,27-054,90,0,0,0,0,0,0,0,0,58,1,2,1,0.0,0.0,0.1,3,0,43,49,87.8,5,34,0,3,2,RB Leipzig,2017-12-02 Hoffenheim-RB Leipzig,GER-BL1,17-18,937c962a
+dc3fa3b5,Diego Demme,31,GER,DM,26-011,90,0,0,0,0,0,0,0,0,131,3,1,1,0.0,0.0,0.0,3,0,108,121,89.3,13,92,1,2,1,RB Leipzig,2017-12-02 Hoffenheim-RB Leipzig,GER-BL1,17-18,937c962a
+f25c8e3a,Naby Keïta,8,GUI,DM,22-295,90,0,0,0,0,2,1,0,0,83,4,0,1,0.0,0.0,0.0,3,0,56,66,84.8,2,54,11,10,8,RB Leipzig,2017-12-02 Hoffenheim-RB Leipzig,GER-BL1,17-18,937c962a
+8ff2354e,Marcel Halstenberg,23,GER,LB,26-066,90,0,0,0,0,1,0,0,0,88,3,4,3,0.1,0.1,0.0,0,0,62,70,88.6,5,41,1,0,0,RB Leipzig,2017-12-02 Hoffenheim-RB Leipzig,GER-BL1,17-18,937c962a
+d248cd8f,Dayot Upamecano,5,FRA,CB,19-036,45,0,0,0,0,0,0,0,0,64,3,0,0,0.0,0.0,0.0,0,0,49,61,80.3,2,44,0,0,0,RB Leipzig,2017-12-02 Hoffenheim-RB Leipzig,GER-BL1,17-18,937c962a
+8494acc4,Stefan Ilsanker,13,AUT,CB,28-198,45,0,0,0,0,0,0,0,0,43,3,1,2,0.0,0.0,0.0,1,0,30,36,83.3,3,23,0,0,0,RB Leipzig,2017-12-02 Hoffenheim-RB Leipzig,GER-BL1,17-18,937c962a
+5ed9b537,Ibrahima Konaté,6,FRA,CB,18-191,90,0,0,0,0,0,0,0,0,83,1,3,1,0.0,0.0,0.0,1,0,65,79,82.3,6,59,1,0,0,RB Leipzig,2017-12-02 Hoffenheim-RB Leipzig,GER-BL1,17-18,937c962a
+ca8033cb,Lukas Klostermann,16,GER,RB,21-182,45,0,0,0,0,0,0,0,0,37,0,1,0,0.0,0.0,0.0,0,0,25,34,73.5,2,27,4,0,0,RB Leipzig,2017-12-02 Hoffenheim-RB Leipzig,GER-BL1,17-18,937c962a
+5caa62a7,Bruma,17,POR,RB,23-039,45,0,0,0,0,0,0,0,0,26,0,0,1,0.0,0.0,0.0,1,0,14,22,63.6,0,12,5,5,2,RB Leipzig,2017-12-02 Hoffenheim-RB Leipzig,GER-BL1,17-18,937c962a
+bcb2ccd8,Péter Gulácsi,32,HUN,GK,27-210,90,0,0,0,0,0,0,0,0,33,0,0,0,0.0,0.0,0.0,1,0,32,32,100.0,0,21,0,0,0,RB Leipzig,2017-12-02 Hoffenheim-RB Leipzig,GER-BL1,17-18,937c962a

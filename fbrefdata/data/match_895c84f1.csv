@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+4431aed2,Ciro Immobile,17,ITA,FW,30-223,90,0,0,0,0,4,0,1,0,42,0,0,0,0.7,0.7,0.1,3,0,23,30,76.7,1,25,5,1,0,Lazio,2020-09-30 Lazio-Atalanta,ITA-SERIA_A,20-21,895c84f1
+93b891d1,Felipe Caicedo,20,ECU,FW,32-025,90,1,0,0,0,4,1,1,0,59,1,0,1,1.1,1.1,0.0,4,1,29,47,61.7,3,34,1,4,3,Lazio,2020-09-30 Lazio-Atalanta,ITA-SERIA_A,20-21,895c84f1
+5294a83f,Luis Alberto,10,ESP,CM,28-002,69,0,0,0,0,1,0,1,0,75,2,0,1,0.0,0.0,0.1,4,0,48,68,70.6,7,45,3,1,0,Lazio,2020-09-30 Lazio-Atalanta,ITA-SERIA_A,20-21,895c84f1
+3f79a1c8,Gonzalo Escalante,18,ARG,CM,27-187,21,0,0,0,0,0,0,0,0,34,1,0,2,0.0,0.0,0.0,0,0,26,30,86.7,3,24,0,1,1,Lazio,2020-09-30 Lazio-Atalanta,ITA-SERIA_A,20-21,895c84f1
+4c78b5ed,Lucas Leiva,6,BRA,CM,33-265,48,0,0,0,0,1,1,1,0,40,0,0,1,0.0,0.0,0.0,0,0,31,35,88.6,3,24,0,1,0,Lazio,2020-09-30 Lazio-Atalanta,ITA-SERIA_A,20-21,895c84f1
+ba3d3bea,Danilo Cataldi,32,ITA,CM,26-055,42,0,0,0,0,0,0,1,0,62,0,0,1,0.0,0.0,0.0,1,0,48,60,80.0,7,40,1,0,0,Lazio,2020-09-30 Lazio-Atalanta,ITA-SERIA_A,20-21,895c84f1
+4e6dbac4,Sergej Milinković-Savić,21,SRB,CM,25-216,69,0,1,0,0,1,0,0,0,51,0,0,5,0.1,0.1,0.7,5,1,31,41,75.6,5,32,0,0,0,Lazio,2020-09-30 Lazio-Atalanta,ITA-SERIA_A,20-21,895c84f1
+fdf4b948,Jean-Daniel Akpa-Akpro,92,CIV,CM,27-355,21,0,0,0,0,0,0,0,0,12,1,0,0,0.0,0.0,0.0,0,0,8,12,66.7,0,10,0,0,0,Lazio,2020-09-30 Lazio-Atalanta,ITA-SERIA_A,20-21,895c84f1
+d4535821,Adam Marušić,77,MNE,WB,27-349,90,0,0,0,0,3,3,1,0,51,0,1,0,0.4,0.4,0.0,2,0,30,42,71.4,1,30,1,0,0,Lazio,2020-09-30 Lazio-Atalanta,ITA-SERIA_A,20-21,895c84f1
+02caf6e0,Manuel Lazzari,29,ITA,WB,26-306,70,0,0,0,0,0,0,0,0,35,0,0,1,0.0,0.0,0.3,1,0,26,31,83.9,0,21,2,0,0,Lazio,2020-09-30 Lazio-Atalanta,ITA-SERIA_A,20-21,895c84f1
+ca241ad3,Djavan Anderson,8,NED,WB,25-162,20,0,0,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.0,0,0,6,9,66.7,0,7,0,1,0,Lazio,2020-09-30 Lazio-Atalanta,ITA-SERIA_A,20-21,895c84f1
+53de807a,Ștefan Radu,26,ROU,CB,33-344,57,0,0,0,0,0,0,0,0,51,1,4,0,0.0,0.0,0.0,2,0,37,42,88.1,3,28,0,2,2,Lazio,2020-09-30 Lazio-Atalanta,ITA-SERIA_A,20-21,895c84f1
+c01c66d9,Bastos,15,ANG,CB,29-187,33,0,0,0,0,0,0,0,0,36,1,0,1,0.0,0.0,0.0,2,0,30,31,96.8,3,30,1,3,2,Lazio,2020-09-30 Lazio-Atalanta,ITA-SERIA_A,20-21,895c84f1
+b96b595c,Francesco Acerbi,33,ITA,CB,32-233,90,0,0,0,0,0,0,1,0,82,2,8,1,0.0,0.0,0.0,1,0,56,65,86.2,4,44,0,0,0,Lazio,2020-09-30 Lazio-Atalanta,ITA-SERIA_A,20-21,895c84f1
+f7223718,Patric,4,ESP,CB,27-166,90,0,0,0,0,0,0,0,0,98,0,1,1,0.0,0.0,0.0,0,0,83,92,90.2,5,74,2,1,0,Lazio,2020-09-30 Lazio-Atalanta,ITA-SERIA_A,20-21,895c84f1
+339fe0e8,Thomas Strakosha,1,ALB,GK,25-195,90,0,0,0,0,0,0,0,0,57,0,0,0,0.0,0.0,0.0,0,0,48,56,85.7,0,41,0,0,0,Lazio,2020-09-30 Lazio-Atalanta,ITA-SERIA_A,20-21,895c84f1
+d3de9af0,Duván Zapata,91,COL,FW,29-182,81,0,0,0,0,1,1,0,0,30,0,0,0,0.1,0.1,0.0,1,0,13,17,76.5,1,18,1,2,1,Atalanta,2020-09-30 Lazio-Atalanta,ITA-SERIA_A,20-21,895c84f1
+c283ddef,Sam Lammers,7,NED,FW,23-153,9,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,2,0,0,0,Atalanta,2020-09-30 Lazio-Atalanta,ITA-SERIA_A,20-21,895c84f1
+6e4df551,Papu Gómez,10,ARG,AM,32-228,81,2,0,0,0,4,2,0,0,47,0,0,2,0.6,0.6,0.1,5,2,27,35,77.1,7,32,5,2,2,Atalanta,2020-09-30 Lazio-Atalanta,ITA-SERIA_A,20-21,895c84f1
+eb2fe5b6,Luis Muriel,9,COL,AM,29-167,9,0,0,0,0,1,0,0,0,9,0,0,0,0.2,0.2,0.0,1,0,4,5,80.0,1,5,1,0,0,Atalanta,2020-09-30 Lazio-Atalanta,ITA-SERIA_A,20-21,895c84f1
+48d5bd33,Ruslan Malinovskyi,18,UKR,AM,27-149,90,0,1,0,0,1,0,0,0,58,3,0,1,0.0,0.0,0.3,6,2,32,47,68.1,8,32,3,5,4,Atalanta,2020-09-30 Lazio-Atalanta,ITA-SERIA_A,20-21,895c84f1
+e599253a,Mario Pašalić,88,CRO,CM,25-234,55,0,0,0,0,0,0,0,0,29,1,0,1,0.0,0.0,0.0,2,1,18,23,78.3,1,17,2,0,0,Atalanta,2020-09-30 Lazio-Atalanta,ITA-SERIA_A,20-21,895c84f1
+2a1beb34,Marten de Roon,15,NED,CM,29-185,35,0,0,0,0,0,0,0,0,20,1,1,0,0.0,0.0,0.0,2,1,14,17,82.4,2,6,1,0,0,Atalanta,2020-09-30 Lazio-Atalanta,ITA-SERIA_A,20-21,895c84f1
+98d2c2c4,Remo Freuler,11,SUI,CM,28-168,90,0,0,0,0,0,0,1,0,71,5,1,2,0.0,0.0,0.0,1,1,52,59,88.1,5,25,0,1,1,Atalanta,2020-09-30 Lazio-Atalanta,ITA-SERIA_A,20-21,895c84f1
+2d970560,Robin Gosens,8,GER,WB,26-087,89,1,1,0,0,1,1,0,0,57,2,1,0,0.5,0.5,0.4,1,1,30,46,65.2,6,23,3,1,1,Atalanta,2020-09-30 Lazio-Atalanta,ITA-SERIA_A,20-21,895c84f1
+608f2092,Johan Mojica,26,COL,WB,28-040,1,0,0,0,0,0,0,0,0,5,1,0,0,0.0,0.0,0.0,0,0,4,4,100.0,0,4,0,0,0,Atalanta,2020-09-30 Lazio-Atalanta,ITA-SERIA_A,20-21,895c84f1
+3b333ac3,Hans Hateboer,33,NED,WB,26-265,90,1,0,0,0,1,1,0,0,41,1,3,0,0.4,0.4,0.1,1,0,21,32,65.6,2,13,0,0,0,Atalanta,2020-09-30 Lazio-Atalanta,ITA-SERIA_A,20-21,895c84f1
+c56dc39e,Rafael Tolói,2,ITA,CB,29-356,90,0,0,0,0,1,1,0,0,61,5,2,1,0.0,0.0,0.0,0,0,30,44,68.2,1,22,0,0,0,Atalanta,2020-09-30 Lazio-Atalanta,ITA-SERIA_A,20-21,895c84f1
+921f6058,José Luis Palomino,6,ARG,CB,30-269,90,0,0,0,0,0,0,0,0,52,2,1,2,0.0,0.0,0.0,0,0,33,43,76.7,1,15,0,0,0,Atalanta,2020-09-30 Lazio-Atalanta,ITA-SERIA_A,20-21,895c84f1
+6eee05f1,Berat Djimsiti,19,ALB,CB,27-224,45,0,0,0,0,0,0,1,0,32,1,2,3,0.0,0.0,0.0,0,0,19,25,76.0,2,8,0,0,0,Atalanta,2020-09-30 Lazio-Atalanta,ITA-SERIA_A,20-21,895c84f1
+a3d94a58,Cristian Romero,17,ARG,CB,22-156,45,0,0,0,0,0,0,0,0,23,0,2,1,0.0,0.0,0.0,0,0,8,14,57.1,0,6,0,0,0,Atalanta,2020-09-30 Lazio-Atalanta,ITA-SERIA_A,20-21,895c84f1
+ac4003af,Marco Sportiello,57,ITA,GK,28-143,90,0,0,0,0,0,0,0,0,32,0,0,0,0.0,0.0,0.0,0,0,20,28,71.4,0,17,0,0,0,Atalanta,2020-09-30 Lazio-Atalanta,ITA-SERIA_A,20-21,895c84f1

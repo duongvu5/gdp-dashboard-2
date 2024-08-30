@@ -1,0 +1,29 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+d33c706e,Andy Delort,9,ALG,FW,27-322,90,0,0,0,1,7,1,0,0,51,5,0,1,1.4,0.6,0.0,4,1,18,32,56.3,4,28,2,4,0,Montpellier,2019-08-27 Montpellier-Lyon,FRA-L1,19-20,9e7ac97e
+7cdda3bf,Gaëtan Laborde,10,FRA,FW,25-116,90,0,0,0,0,2,0,0,0,50,0,0,1,0.2,0.2,0.6,7,0,23,37,62.2,4,25,7,2,1,Montpellier,2019-08-27 Montpellier-Lyon,FRA-L1,19-20,9e7ac97e
+7e82a78f,Florent Mollet,25,FRA,AM,27-281,73,0,0,0,0,1,1,0,0,44,0,0,0,0.0,0.0,0.4,9,1,35,41,85.4,5,28,2,1,1,Montpellier,2019-08-27 Montpellier-Lyon,FRA-L1,19-20,9e7ac97e
+ccb1c3af,Keagan Dolly,20,RSA,AM,26-217,17,0,0,0,0,2,1,0,0,16,1,0,0,0.1,0.1,0.0,2,0,11,13,84.6,2,9,1,0,0,Montpellier,2019-08-27 Montpellier-Lyon,FRA-L1,19-20,9e7ac97e
+375622c5,Jordan Ferri,12,FRA,CM,27-168,90,0,0,0,0,1,1,0,0,79,4,1,1,0.0,0.0,0.1,4,0,66,69,95.7,13,51,3,1,1,Montpellier,2019-08-27 Montpellier-Lyon,FRA-L1,19-20,9e7ac97e
+8f4d116f,Damien Le Tallec,14,FRA,CM,29-130,90,0,0,0,0,0,0,0,0,47,2,0,0,0.0,0.0,0.1,3,0,35,44,79.5,3,20,0,0,0,Montpellier,2019-08-27 Montpellier-Lyon,FRA-L1,19-20,9e7ac97e
+e3e05edf,Ambroise Oyongo,8,CMR,WB,28-066,89,0,0,0,0,2,0,0,0,55,1,1,0,0.1,0.1,0.0,1,0,35,44,79.5,3,29,1,2,0,Montpellier,2019-08-27 Montpellier-Lyon,FRA-L1,19-20,9e7ac97e
+ea0aa7e0,Mihailo Ristić,26,SRB,WB,23-300,1,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,3,4,75.0,1,2,0,0,0,Montpellier,2019-08-27 Montpellier-Lyon,FRA-L1,19-20,9e7ac97e
+4e0afc5d,Arnaud Souquet,2,FRA,WB,27-196,90,1,0,0,0,1,1,1,0,51,2,0,0,0.0,0.0,0.0,2,0,30,38,78.9,6,27,4,7,3,Montpellier,2019-08-27 Montpellier-Lyon,FRA-L1,19-20,9e7ac97e
+8f325097,Nicolas Cozza,31,FRA,CB,20-231,90,0,0,0,0,1,0,0,0,63,2,1,0,0.2,0.2,0.0,1,0,51,58,87.9,2,38,0,1,1,Montpellier,2019-08-27 Montpellier-Lyon,FRA-L1,19-20,9e7ac97e
+c4bbea9f,Vitorino Hilton,4,BRA,CB,41-348,90,0,0,0,0,1,0,0,0,61,0,1,0,0.1,0.1,0.0,2,0,46,53,86.8,2,30,0,0,0,Montpellier,2019-08-27 Montpellier-Lyon,FRA-L1,19-20,9e7ac97e
+6690ef25,Pedro Mendes,5,POR,CB,28-330,90,0,0,0,0,0,0,1,0,66,1,2,6,0.0,0.0,0.0,0,0,45,52,86.5,7,28,0,1,1,Montpellier,2019-08-27 Montpellier-Lyon,FRA-L1,19-20,9e7ac97e
+625c144a,Gerónimo Rulli,1,ARG,GK,27-099,90,0,0,0,0,0,0,0,0,36,0,0,0,0.0,0.0,0.0,2,0,32,35,91.4,0,22,0,0,0,Montpellier,2019-08-27 Montpellier-Lyon,FRA-L1,19-20,9e7ac97e
+e7986081,Moussa Dembélé,9,FRA,FW,23-046,90,0,0,0,0,1,0,0,0,34,1,0,0,0.0,0.0,0.0,1,0,19,23,82.6,0,18,1,1,0,Lyon,2019-08-27 Montpellier-Lyon,FRA-L1,19-20,9e7ac97e
+8f696594,Memphis,11,NED,"LW,FW",25-195,90,0,0,0,0,6,2,0,0,54,0,0,0,0.5,0.5,0.0,3,0,34,44,77.3,3,31,8,4,3,Lyon,2019-08-27 Montpellier-Lyon,FRA-L1,19-20,9e7ac97e
+c47541e0,Bertrand Traoré,10,BFA,RW,23-355,67,0,0,0,0,0,0,0,0,41,1,1,0,0.0,0.0,0.4,6,0,27,35,77.1,2,21,1,3,1,Lyon,2019-08-27 Montpellier-Lyon,FRA-L1,19-20,9e7ac97e
+beb391dd,Maxwel Cornet,27,CIV,"RW,RM",22-334,23,0,0,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.0,0,0,7,11,63.6,0,7,1,0,0,Lyon,2019-08-27 Montpellier-Lyon,FRA-L1,19-20,9e7ac97e
+a5db0bec,Houssem Aouar,8,ALG,"LM,DM",21-058,90,0,0,0,0,3,1,0,0,70,1,1,0,0.1,0.1,0.0,4,0,46,53,86.8,4,47,7,3,1,Lyon,2019-08-27 Montpellier-Lyon,FRA-L1,19-20,9e7ac97e
+71ec39ef,Lucas Tousart,29,FRA,"CM,DM",22-120,64,0,0,0,0,1,0,1,0,28,2,1,0,0.0,0.0,0.0,2,0,17,22,77.3,3,10,0,0,0,Lyon,2019-08-27 Montpellier-Lyon,FRA-L1,19-20,9e7ac97e
+77d7c96f,Kenny Tete,23,NED,RB,23-322,26,0,0,0,0,1,0,1,0,27,1,1,0,0.0,0.0,0.0,1,0,16,20,80.0,2,13,0,0,0,Lyon,2019-08-27 Montpellier-Lyon,FRA-L1,19-20,9e7ac97e
+c6e5d20f,Thiago Mendes,12,BRA,"RM,DM,LB",27-165,82,0,0,0,0,1,1,1,0,51,2,1,0,0.0,0.0,0.0,5,0,39,45,86.7,6,32,2,1,1,Lyon,2019-08-27 Montpellier-Lyon,FRA-L1,19-20,9e7ac97e
+5148dcc5,Martin Terrier,7,FRA,LM,22-176,8,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,2,1,1,1,Lyon,2019-08-27 Montpellier-Lyon,FRA-L1,19-20,9e7ac97e
+e6eadfb8,Youssouf Koné,28,MLI,LB,24-053,50,0,0,0,0,0,0,0,1,55,3,2,0,0.0,0.0,0.1,2,0,40,48,83.3,5,25,2,1,0,Lyon,2019-08-27 Montpellier-Lyon,FRA-L1,19-20,9e7ac97e
+47af88b8,Jason Denayer,5,BEL,CB,24-060,90,0,0,0,0,1,0,0,0,61,0,1,3,0.2,0.2,0.0,0,0,44,48,91.7,3,27,1,0,0,Lyon,2019-08-27 Montpellier-Lyon,FRA-L1,19-20,9e7ac97e
+e34fc66d,Joachim Andersen,3,DEN,CB,23-088,90,0,0,0,0,0,0,1,0,65,1,0,3,0.0,0.0,0.0,0,0,48,56,85.7,4,41,0,1,1,Lyon,2019-08-27 Montpellier-Lyon,FRA-L1,19-20,9e7ac97e
+ff0ab48c,Leo Dubois,14,FRA,"RB,LB",24-347,90,0,0,0,0,0,0,0,0,84,3,2,0,0.0,0.0,0.0,3,0,63,74,85.1,5,48,0,0,0,Lyon,2019-08-27 Montpellier-Lyon,FRA-L1,19-20,9e7ac97e
+f00de885,Anthony Lopes,1,POR,GK,28-330,90,0,0,0,0,0,0,0,0,40,0,0,0,0.0,0.0,0.0,0,0,34,38,89.5,0,20,0,0,0,Lyon,2019-08-27 Montpellier-Lyon,FRA-L1,19-20,9e7ac97e

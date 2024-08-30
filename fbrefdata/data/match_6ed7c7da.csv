@@ -1,0 +1,32 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+89b2c8a9,Dries Mertens,14,BEL,FW,33-074,30,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,1,0,4,5,80.0,0,7,0,0,0,Napoli,2020-07-19 Napoli-Udinese,ITA-SERIA_A,19-20,6ed7c7da
+85613cf0,Arkadiusz Milik,99,POL,FW,26-142,60,1,0,0,0,3,2,1,0,31,0,1,0,0.2,0.2,0.1,3,0,21,25,84.0,2,22,0,0,0,Napoli,2020-07-19 Napoli-Udinese,ITA-SERIA_A,19-20,6ed7c7da
+2f557579,Lorenzo Insigne,24,ITA,LW,29-045,90,0,0,0,0,7,2,0,0,76,0,0,1,0.3,0.3,0.6,9,0,49,61,80.3,1,53,9,5,2,Napoli,2020-07-19 Napoli-Udinese,ITA-SERIA_A,19-20,6ed7c7da
+78841da9,José Callejón,7,ESP,RW,33-159,69,0,0,0,0,3,0,0,0,35,0,0,0,0.3,0.3,0.0,3,1,24,29,82.8,2,19,0,1,0,Napoli,2020-07-19 Napoli-Udinese,ITA-SERIA_A,19-20,6ed7c7da
+5e861944,Matteo Politano,21,ITA,RW,26-351,21,1,0,0,0,1,1,0,0,13,0,0,0,0.0,0.0,0.0,2,0,7,12,58.3,0,11,2,1,1,Napoli,2020-07-19 Napoli-Udinese,ITA-SERIA_A,19-20,6ed7c7da
+a5296e55,Piotr Zieliński,20,POL,LM,26-060,79,0,0,0,0,4,1,0,0,68,0,1,2,0.2,0.2,0.0,3,0,53,59,89.8,6,49,4,2,1,Napoli,2020-07-19 Napoli-Udinese,ITA-SERIA_A,19-20,6ed7c7da
+cc700722,Allan,5,BRA,"RM,LM",29-193,11,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,2,1,8,9,88.9,1,8,0,0,0,Napoli,2020-07-19 Napoli-Udinese,ITA-SERIA_A,19-20,6ed7c7da
+e1cbb531,Stanislav Lobotka,68,SVK,CM,25-237,70,0,0,0,0,0,0,0,0,90,2,0,0,0.0,0.0,0.0,3,0,83,86,96.5,4,59,0,1,1,Napoli,2020-07-19 Napoli-Udinese,ITA-SERIA_A,19-20,6ed7c7da
+dc3fa3b5,Diego Demme,4,GER,CM,28-241,20,0,0,0,0,0,0,1,0,24,0,0,0,0.0,0.0,0.0,0,0,22,24,91.7,1,16,2,0,0,Napoli,2020-07-19 Napoli-Udinese,ITA-SERIA_A,19-20,6ed7c7da
+c0c7ff58,Fabián Ruiz Peña,8,ESP,RM,24-107,79,0,1,0,0,1,0,0,0,108,1,0,2,0.0,0.0,0.2,4,1,90,99,90.9,4,84,0,1,1,Napoli,2020-07-19 Napoli-Udinese,ITA-SERIA_A,19-20,6ed7c7da
+cf007308,Elif Elmas,12,MKD,"LM,RM",20-299,11,0,0,0,0,0,0,0,0,10,0,1,0,0.0,0.0,0.0,0,0,7,8,87.5,0,6,0,0,0,Napoli,2020-07-19 Napoli-Udinese,ITA-SERIA_A,19-20,6ed7c7da
+0b5a292a,Mário Rui,6,POR,LB,29-053,90,0,0,0,0,5,3,0,0,138,2,0,0,0.2,0.2,0.0,5,0,114,127,89.8,8,88,10,3,3,Napoli,2020-07-19 Napoli-Udinese,ITA-SERIA_A,19-20,6ed7c7da
+da974c7b,Kalidou Koulibaly,26,SEN,CB,29-029,90,0,0,0,0,0,0,1,0,133,1,1,5,0.0,0.0,0.0,1,0,119,125,95.2,8,93,1,0,0,Napoli,2020-07-19 Napoli-Udinese,ITA-SERIA_A,19-20,6ed7c7da
+c707411f,Kostas Manolas,44,GRE,CB,29-035,90,0,0,0,0,0,0,0,0,100,4,0,0,0.0,0.0,0.0,1,0,91,94,96.8,12,70,1,0,0,Napoli,2020-07-19 Napoli-Udinese,ITA-SERIA_A,19-20,6ed7c7da
+2f3452eb,Elseid Hysaj,23,ALB,RB,26-150,90,0,1,0,0,0,0,0,0,87,0,0,0,0.0,0.0,0.3,8,1,75,84,89.3,9,61,4,0,0,Napoli,2020-07-19 Napoli-Udinese,ITA-SERIA_A,19-20,6ed7c7da
+82b1198a,David Ospina,25,COL,GK,31-323,90,0,0,0,0,0,0,0,0,23,0,0,0,0.0,0.0,0.0,1,0,18,21,85.7,0,15,0,0,0,Napoli,2020-07-19 Napoli-Udinese,ITA-SERIA_A,19-20,6ed7c7da
+b1236c63,Ilija Nestorovski,30,MKD,FW,30-129,90,0,0,0,0,1,0,0,0,26,1,1,1,0.1,0.1,0.0,1,1,11,15,73.3,2,17,1,1,0,Udinese,2020-07-19 Napoli-Udinese,ITA-SERIA_A,19-20,6ed7c7da
+09538fdb,Kevin Lasagna,15,ITA,FW,27-344,89,0,0,0,0,1,1,0,0,18,1,0,1,0.1,0.1,0.4,2,0,7,10,70.0,2,10,1,2,0,Udinese,2020-07-19 Napoli-Udinese,ITA-SERIA_A,19-20,6ed7c7da
+1770bd68,Ken Sema,12,SWE,FW,26-293,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,1,0,0,0,Udinese,2020-07-19 Napoli-Udinese,ITA-SERIA_A,19-20,6ed7c7da
+5313ed43,Seko Fofana,6,CIV,CM,25-073,90,0,0,0,0,0,0,0,0,43,2,0,2,0.0,0.0,0.0,0,0,31,35,88.6,1,30,0,4,2,Udinese,2020-07-19 Napoli-Udinese,ITA-SERIA_A,19-20,6ed7c7da
+26db8853,Walace,11,BRA,CM,25-106,88,0,0,0,0,0,0,1,0,67,1,4,1,0.0,0.0,0.0,1,0,45,50,90.0,3,41,1,1,1,Udinese,2020-07-19 Napoli-Udinese,ITA-SERIA_A,19-20,6ed7c7da
+7ed4921e,William Troost-Ekong,5,NGA,"CB,CM",26-322,2,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,2,1,0,0,0,Udinese,2020-07-19 Napoli-Udinese,ITA-SERIA_A,19-20,6ed7c7da
+162efffd,Rodrigo De Paul,10,ARG,CM,26-056,90,1,0,0,0,2,1,0,0,47,2,0,0,0.6,0.6,0.0,0,0,25,39,64.1,0,33,2,0,0,Udinese,2020-07-19 Napoli-Udinese,ITA-SERIA_A,19-20,6ed7c7da
+8abd0c03,Marvin Zeegelaar,77,NED,WB,29-342,81,0,0,0,0,0,0,0,0,46,0,0,0,0.0,0.0,0.0,1,1,33,41,80.5,2,29,0,0,0,Udinese,2020-07-19 Napoli-Udinese,ITA-SERIA_A,19-20,6ed7c7da
+18f9dbd0,Hidde ter Avest,18,NED,WB,23-060,9,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,0,0,0,0,Udinese,2020-07-19 Napoli-Udinese,ITA-SERIA_A,19-20,6ed7c7da
+f91e81c9,Jens Stryger Larsen,19,DEN,WB,29-149,90,0,0,0,0,0,0,0,0,51,1,1,1,0.0,0.0,0.0,0,0,35,45,77.8,5,34,1,1,1,Udinese,2020-07-19 Napoli-Udinese,ITA-SERIA_A,19-20,6ed7c7da
+e33f36d5,Bram Nuytinck,17,NED,"CB,CM",30-076,90,0,0,0,0,0,0,0,0,66,1,3,2,0.0,0.0,0.0,0,0,46,56,82.1,0,44,0,0,0,Udinese,2020-07-19 Napoli-Udinese,ITA-SERIA_A,19-20,6ed7c7da
+952a03fe,Sebastien De Maio,87,FRA,CB,33-136,90,0,0,0,0,0,0,0,0,47,1,1,3,0.0,0.0,0.0,0,0,28,36,77.8,0,26,0,0,0,Udinese,2020-07-19 Napoli-Udinese,ITA-SERIA_A,19-20,6ed7c7da
+19e4eab9,Rodrigo Becão,50,BRA,CB,24-182,90,0,0,0,0,0,0,1,0,44,1,0,2,0.0,0.0,0.0,1,0,33,41,80.5,1,32,0,0,0,Udinese,2020-07-19 Napoli-Udinese,ITA-SERIA_A,19-20,6ed7c7da
+a111cf41,Juan Musso,1,ARG,GK,26-074,90,0,0,0,0,0,0,0,0,40,0,0,0,0.0,0.0,0.0,0,0,28,39,71.8,0,26,0,1,1,Udinese,2020-07-19 Napoli-Udinese,ITA-SERIA_A,19-20,6ed7c7da

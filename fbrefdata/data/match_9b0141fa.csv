@@ -1,0 +1,28 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+d33c706e,Andy Delort,9,ALG,FW,27-351,90,0,0,0,0,3,0,1,0,52,0,1,1,0.1,0.1,0.1,2,0,23,36,63.9,2,22,0,2,1,Montpellier,2019-09-25 Montpellier-Nîmes,FRA-L1,19-20,9b0141fa
+7cdda3bf,Gaëtan Laborde,10,FRA,FW,25-145,90,0,0,0,0,0,0,0,0,50,2,0,1,0.0,0.0,0.0,4,0,27,33,81.8,6,22,0,5,1,Montpellier,2019-09-25 Montpellier-Nîmes,FRA-L1,19-20,9b0141fa
+7e82a78f,Florent Mollet,25,FRA,AM,27-310,77,0,0,0,0,3,0,1,0,49,0,0,0,0.1,0.1,0.2,2,0,28,43,65.1,1,31,3,1,1,Montpellier,2019-09-25 Montpellier-Nîmes,FRA-L1,19-20,9b0141fa
+ea0aa7e0,Mihailo Ristić,26,SRB,CM,23-329,13,0,0,0,0,1,1,0,0,7,0,0,0,0.1,0.1,0.0,1,0,4,5,80.0,0,3,1,0,0,Montpellier,2019-09-25 Montpellier-Nîmes,FRA-L1,19-20,9b0141fa
+8f4d116f,Damien Le Tallec,14,FRA,CM,29-159,90,0,0,0,0,0,0,0,0,38,0,0,1,0.0,0.0,0.0,1,0,25,28,89.3,4,10,1,0,0,Montpellier,2019-09-25 Montpellier-Nîmes,FRA-L1,19-20,9b0141fa
+7909ffa4,Joris Chotard,13,FRA,CM,18-001,90,0,0,0,0,2,1,0,0,51,1,1,0,0.0,0.0,0.0,1,0,26,39,66.7,2,25,2,1,0,Montpellier,2019-09-25 Montpellier-Nîmes,FRA-L1,19-20,9b0141fa
+e3e05edf,Ambroise Oyongo,8,CMR,WB,28-095,90,0,0,0,0,0,0,0,0,58,1,0,1,0.0,0.0,0.0,3,0,37,50,74.0,3,30,3,1,0,Montpellier,2019-09-25 Montpellier-Nîmes,FRA-L1,19-20,9b0141fa
+4e0afc5d,Arnaud Souquet,2,FRA,WB,27-225,90,1,0,0,0,2,1,0,0,67,3,0,1,0.1,0.1,0.0,3,0,35,46,76.1,4,30,1,7,3,Montpellier,2019-09-25 Montpellier-Nîmes,FRA-L1,19-20,9b0141fa
+8f325097,Nicolas Cozza,31,FRA,CB,20-260,90,0,0,0,0,0,0,0,0,49,2,1,1,0.0,0.0,0.0,1,0,32,40,80.0,2,27,0,0,0,Montpellier,2019-09-25 Montpellier-Nîmes,FRA-L1,19-20,9b0141fa
+c4bbea9f,Vitorino Hilton,4,BRA,CB,42-012,90,0,0,0,0,1,0,1,0,71,2,2,4,0.2,0.2,0.1,1,0,48,57,84.2,2,32,0,0,0,Montpellier,2019-09-25 Montpellier-Nîmes,FRA-L1,19-20,9b0141fa
+3f5b4635,Daniel Congré,3,FRA,CB,34-173,90,0,0,0,0,0,0,0,0,58,3,2,1,0.0,0.0,0.0,1,0,33,46,71.7,4,26,1,1,1,Montpellier,2019-09-25 Montpellier-Nîmes,FRA-L1,19-20,9b0141fa
+625c144a,Gerónimo Rulli,1,ARG,GK,27-128,90,0,0,0,0,0,0,0,0,42,0,0,0,0.0,0.0,0.0,0,0,30,40,75.0,0,22,0,0,0,Montpellier,2019-09-25 Montpellier-Nîmes,FRA-L1,19-20,9b0141fa
+beae3a73,Renaud Ripart,20,FRA,FW,26-195,83,0,0,0,0,3,2,0,0,30,2,1,0,0.3,0.3,0.1,4,0,15,18,83.3,2,13,1,2,0,Nîmes,2019-09-25 Montpellier-Nîmes,FRA-L1,19-20,9b0141fa
+0d3585b5,Kévin Denkey,27,TOG,FW,18-299,7,0,0,0,0,1,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,3,0,0,0,Nîmes,2019-09-25 Montpellier-Nîmes,FRA-L1,19-20,9b0141fa
+005c0807,Zinedine Ferhat,10,ALG,FW,26-208,76,0,0,0,0,3,0,0,0,35,0,0,1,0.1,0.1,0.2,3,0,14,27,51.9,2,18,1,3,0,Nîmes,2019-09-25 Montpellier-Nîmes,FRA-L1,19-20,9b0141fa
+c8090cb3,Theo Valls,18,FRA,RM,23-281,14,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,2,0,6,10,60.0,1,8,3,0,0,Nîmes,2019-09-25 Montpellier-Nîmes,FRA-L1,19-20,9b0141fa
+2145368f,Lamine Fomba,12,FRA,"CM,AM",21-242,90,0,0,0,0,2,0,1,0,50,4,3,1,0.1,0.1,0.1,6,0,22,34,64.7,4,24,2,2,2,Nîmes,2019-09-25 Montpellier-Nîmes,FRA-L1,19-20,9b0141fa
+44f8c299,Lucas Deaux,8,FRA,"CM,DM",30-273,90,0,0,0,0,1,0,1,0,48,1,1,1,0.0,0.0,0.0,3,0,31,38,81.6,5,13,0,0,0,Nîmes,2019-09-25 Montpellier-Nîmes,FRA-L1,19-20,9b0141fa
+a0b65401,Sidy Sarr,6,SEN,"CM,FW",23-112,90,0,0,0,0,2,1,0,0,29,3,0,1,0.1,0.1,0.2,2,0,8,17,47.1,2,9,1,2,0,Nîmes,2019-09-25 Montpellier-Nîmes,FRA-L1,19-20,9b0141fa
+b66d1d8a,Florian Miguel,26,FRA,LB,23-024,90,0,0,0,0,1,0,1,0,71,3,4,0,0.1,0.1,0.0,0,0,29,53,54.7,4,33,3,4,0,Nîmes,2019-09-25 Montpellier-Nîmes,FRA-L1,19-20,9b0141fa
+1ad8cb67,Pablo Martinez,4,FRA,CB,30-216,90,0,0,0,0,0,0,0,0,43,4,7,1,0.0,0.0,0.0,0,0,25,30,83.3,3,19,2,0,0,Nîmes,2019-09-25 Montpellier-Nîmes,FRA-L1,19-20,9b0141fa
+16324e1d,Anthony Briançon,23,FRA,CB,24-301,90,0,0,0,0,1,0,0,0,52,0,3,1,0.0,0.0,0.0,1,0,34,44,77.3,2,28,0,2,2,Nîmes,2019-09-25 Montpellier-Nîmes,FRA-L1,19-20,9b0141fa
+08082af0,Loïck Landre,5,FRA,CB,27-143,76,0,0,0,0,0,0,1,0,21,0,2,1,0.0,0.0,0.0,0,0,11,17,64.7,0,11,0,0,0,Nîmes,2019-09-25 Montpellier-Nîmes,FRA-L1,19-20,9b0141fa
+f98b15f0,Romain Philippoteaux,7,FRA,LM,31-207,14,0,0,0,0,1,0,0,0,7,0,0,0,0.0,0.0,0.0,2,0,5,6,83.3,1,5,2,1,1,Nîmes,2019-09-25 Montpellier-Nîmes,FRA-L1,19-20,9b0141fa
+475583ff,Gaëtan Paquiez,15,FRA,RB,25-222,90,0,0,0,0,0,0,0,0,61,0,1,3,0.0,0.0,0.0,0,0,31,50,62.0,6,26,0,1,1,Nîmes,2019-09-25 Montpellier-Nîmes,FRA-L1,19-20,9b0141fa
+28dabd43,Paul Bernardoni,30,FRA,GK,22-160,90,0,0,0,0,0,0,0,0,28,0,0,0,0.0,0.0,0.0,0,0,19,28,67.9,0,9,0,0,0,Nîmes,2019-09-25 Montpellier-Nîmes,FRA-L1,19-20,9b0141fa

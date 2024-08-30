@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+877bc844,Philipp Hofmann,33,GER,FW,30-247,58,0,0,0,0,1,1,0,0,21,1,0,0,0.0,0.0,0.0,0,0,7,11,63.6,0,12,0,0,0,Bochum,2023-12-02 Bochum-Wolfsburg,GER-BL1,23-24,a700767e
+bbd79358,Moritz Broschinski,29,GER,FW,23-070,32,0,0,0,0,1,0,0,0,13,0,0,0,0.2,0.2,0.0,0,0,3,6,50.0,1,7,0,3,0,Bochum,2023-12-02 Bochum-Wolfsburg,GER-BL1,23-24,a700767e
+13ddc856,Takuma Asano,11,JPN,LW,29-022,71,0,0,0,0,4,1,1,0,29,0,0,1,0.2,0.2,0.1,2,0,12,15,80.0,1,18,5,0,0,Bochum,2023-12-02 Bochum-Wolfsburg,GER-BL1,23-24,a700767e
+1e2057aa,Moritz-Broni Kwarteng,27,GHA,LW,25-218,19,0,1,0,0,1,0,0,0,11,1,0,0,0.1,0.1,0.5,4,1,6,7,85.7,1,3,0,1,0,Bochum,2023-12-02 Bochum-Wolfsburg,GER-BL1,23-24,a700767e
+b5e0af76,Matúš Bero,19,SVK,RW,28-087,71,0,0,0,0,1,1,1,0,29,1,0,2,0.1,0.1,0.0,2,0,15,18,83.3,1,17,0,0,0,Bochum,2023-12-02 Bochum-Wolfsburg,GER-BL1,23-24,a700767e
+0a3f6cde,Christopher Antwi-Adjei,22,GHA,RW,29-298,19,1,0,0,0,1,1,0,0,13,1,0,2,0.5,0.5,0.0,1,0,3,5,60.0,0,8,1,2,0,Bochum,2023-12-02 Bochum-Wolfsburg,GER-BL1,23-24,a700767e
+e5649a78,Kevin Stöger,7,AUT,AM,30-097,59,0,1,0,0,1,1,1,0,71,2,1,0,0.0,0.0,0.2,10,2,45,61,73.8,7,35,2,1,0,Bochum,2023-12-02 Bochum-Wolfsburg,GER-BL1,23-24,a700767e
+edb2712b,Maximilian Wittek,32,GER,AM,28-103,31,0,0,0,0,2,1,1,0,26,2,2,0,0.0,0.0,0.1,3,0,11,19,57.9,4,6,0,0,0,Bochum,2023-12-02 Bochum-Wolfsburg,GER-BL1,23-24,a700767e
+07c7eb0c,Anthony Losilla,8,FRA,DM,37-267,90,0,1,0,0,2,0,0,0,39,3,0,2,0.1,0.1,0.1,2,0,18,19,94.7,5,10,1,1,0,Bochum,2023-12-02 Bochum-Wolfsburg,GER-BL1,23-24,a700767e
+9662c9ec,Patrick Osterhage,6,GER,DM,23-304,90,1,0,0,0,1,1,0,0,51,1,1,0,0.1,0.1,0.0,2,1,32,39,82.1,3,22,1,2,1,Bochum,2023-12-02 Bochum-Wolfsburg,GER-BL1,23-24,a700767e
+17370b95,Bernardo,5,BRA,LB,28-202,90,1,0,0,0,4,1,0,0,66,1,2,4,0.1,0.1,0.0,2,0,34,45,75.6,1,28,1,0,0,Bochum,2023-12-02 Bochum-Wolfsburg,GER-BL1,23-24,a700767e
+f6bdc830,Keven Schlotterbeck,31,GER,CB,26-218,90,0,0,0,0,0,0,1,0,49,1,2,2,0.0,0.0,0.0,1,0,28,36,77.8,5,13,0,0,0,Bochum,2023-12-02 Bochum-Wolfsburg,GER-BL1,23-24,a700767e
+a396fb61,Erhan Mašović,4,SRB,CB,25-010,90,0,0,0,0,1,0,0,0,36,3,2,0,0.0,0.0,0.0,2,0,22,27,81.5,2,11,0,0,0,Bochum,2023-12-02 Bochum-Wolfsburg,GER-BL1,23-24,a700767e
+f27680d9,Cristian Gamboa,2,CRC,RB,34-039,80,0,0,0,0,0,0,1,0,58,2,0,3,0.0,0.0,0.0,3,1,35,50,70.0,7,19,0,1,0,Bochum,2023-12-02 Bochum-Wolfsburg,GER-BL1,23-24,a700767e
+57ec75bf,Tim Oermann,14,GER,RB,20-057,10,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,2,1,1,1,Bochum,2023-12-02 Bochum-Wolfsburg,GER-BL1,23-24,a700767e
+9f941969,Manuel Riemann,1,GER,GK,35-084,90,0,0,0,0,0,0,0,0,47,0,0,0,0.0,0.0,0.0,1,1,28,45,62.2,0,29,0,0,0,Bochum,2023-12-02 Bochum-Wolfsburg,GER-BL1,23-24,a700767e
+2077ae86,Jonas Wind,23,DEN,FW,24-298,90,0,1,0,0,3,1,0,0,42,1,0,0,0.2,0.2,0.5,4,1,21,32,65.6,4,12,1,1,0,Wolfsburg,2023-12-02 Bochum-Wolfsburg,GER-BL1,23-24,a700767e
+fc46aab1,Lovro Majer,19,CRO,AM,25-319,62,0,0,0,0,2,0,0,0,37,0,0,0,0.1,0.1,0.0,0,0,20,29,69.0,2,24,1,5,4,Wolfsburg,2023-12-02 Bochum-Wolfsburg,GER-BL1,23-24,a700767e
+62ab9184,Yannick Gerhardt,31,GER,AM,29-264,28,0,0,0,0,2,2,0,0,18,0,0,0,0.2,0.2,0.0,3,0,11,16,68.8,1,9,0,0,0,Wolfsburg,2023-12-02 Bochum-Wolfsburg,GER-BL1,23-24,a700767e
+bb1cf301,Václav Černý,7,CZE,AM,26-046,75,0,0,0,0,0,0,0,0,49,0,0,2,0.0,0.0,0.1,3,0,30,39,76.9,2,18,0,5,2,Wolfsburg,2023-12-02 Bochum-Wolfsburg,GER-BL1,23-24,a700767e
+5c50fdbc,Kevin Paredes,40,USA,AM,20-209,15,0,0,0,0,1,0,0,0,13,0,1,1,0.0,0.0,0.0,1,0,6,9,66.7,3,6,1,0,0,Wolfsburg,2023-12-02 Bochum-Wolfsburg,GER-BL1,23-24,a700767e
+f86cd5df,Aster Vranckx,6,BEL,CM,21-059,90,0,0,0,0,0,0,1,0,66,5,0,3,0.0,0.0,0.1,1,0,43,54,79.6,6,29,0,1,1,Wolfsburg,2023-12-02 Bochum-Wolfsburg,GER-BL1,23-24,a700767e
+92d83c27,Mattias Svanberg,32,SWE,CM,24-331,90,1,0,0,0,3,1,0,0,51,2,1,0,0.6,0.6,0.0,2,0,24,36,66.7,2,15,0,4,2,Wolfsburg,2023-12-02 Bochum-Wolfsburg,GER-BL1,23-24,a700767e
+10e7f486,Rogério,13,BRA,WB,25-323,75,0,0,0,0,0,0,0,0,43,0,1,1,0.0,0.0,0.0,1,0,27,36,75.0,1,22,1,2,0,Wolfsburg,2023-12-02 Bochum-Wolfsburg,GER-BL1,23-24,a700767e
+b492126a,Tiago Tomás,11,POR,WB,21-169,15,0,0,0,0,2,0,0,0,11,0,0,0,0.2,0.2,0.1,3,0,3,4,75.0,1,6,1,2,1,Wolfsburg,2023-12-02 Bochum-Wolfsburg,GER-BL1,23-24,a700767e
+442b56fa,Ridle Baku,20,GER,WB,25-238,62,0,0,0,0,1,0,0,0,61,2,0,2,0.0,0.0,0.1,2,0,36,50,72.0,4,21,1,0,0,Wolfsburg,2023-12-02 Bochum-Wolfsburg,GER-BL1,23-24,a700767e
+c459a650,Joakim Mæhle,21,DEN,WB,26-196,28,0,0,0,0,0,0,0,0,28,0,0,0,0.0,0.0,0.0,0,0,18,24,75.0,1,8,1,2,0,Wolfsburg,2023-12-02 Bochum-Wolfsburg,GER-BL1,23-24,a700767e
+2bab583c,Cedric Zesiger,5,SUI,CB,25-161,90,0,0,0,0,1,1,0,0,66,2,0,3,0.0,0.0,0.0,1,1,35,52,67.3,2,25,0,0,0,Wolfsburg,2023-12-02 Bochum-Wolfsburg,GER-BL1,23-24,a700767e
+ee644761,Moritz Jenz,25,GER,CB,24-216,90,0,0,0,0,0,0,1,0,55,3,0,2,0.0,0.0,0.0,1,0,38,43,88.4,2,20,0,0,0,Wolfsburg,2023-12-02 Bochum-Wolfsburg,GER-BL1,23-24,a700767e
+277c49ed,Maxence Lacroix,4,FRA,CB,23-240,90,0,0,0,0,1,1,0,0,75,5,1,0,0.0,0.0,0.1,4,0,46,60,76.7,2,22,0,1,0,Wolfsburg,2023-12-02 Bochum-Wolfsburg,GER-BL1,23-24,a700767e
+db401046,Koen Casteels,1,BEL,GK,31-160,90,0,0,0,0,0,0,0,0,41,0,0,0,0.0,0.0,0.0,0,0,26,38,68.4,0,25,0,0,0,Wolfsburg,2023-12-02 Bochum-Wolfsburg,GER-BL1,23-24,a700767e

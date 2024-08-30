@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+a7a9d95a,Paco Alcácer,9,ESP,FW,25-113,33,0,0,0,0,1,0,0,0,10,0,0,0,0.1,0.1,0.4,1,0,5,7,71.4,1,6,0,0,0,Dortmund,2018-12-21 Dortmund-Gladbach,GER-BL1,18-19,46a281bb
+9efa1d25,Mario Götze,10,GER,FW,26-201,57,0,2,0,0,0,0,0,0,38,2,1,0,0.0,0.0,1.0,5,2,27,31,87.1,3,25,4,0,0,Dortmund,2018-12-21 Dortmund-Gladbach,GER-BL1,18-19,46a281bb
+048a1cbc,Raphaël Guerreiro,13,POR,LW,24-364,89,0,0,0,0,1,0,0,0,82,2,1,0,0.1,0.1,0.0,3,0,65,72,90.3,7,65,1,0,0,Dortmund,2018-12-21 Dortmund-Gladbach,GER-BL1,18-19,46a281bb
+4e204552,Jacob Bruun Larsen,34,DEN,LW,20-093,1,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,4,0,0,0,Dortmund,2018-12-21 Dortmund-Gladbach,GER-BL1,18-19,46a281bb
+dbf053da,Jadon Sancho,7,ENG,RW,18-271,89,1,0,0,0,2,1,0,0,54,0,0,0,0.1,0.1,0.1,4,1,36,45,80.0,6,41,6,6,4,Dortmund,2018-12-21 Dortmund-Gladbach,GER-BL1,18-19,46a281bb
+fa661778,Marius Wolf,27,GER,RW,23-208,1,0,0,0,0,0,0,0,0,3,0,1,0,0.0,0.0,0.0,0,0,2,2,100.0,0,1,0,0,0,Dortmund,2018-12-21 Dortmund-Gladbach,GER-BL1,18-19,46a281bb
+36a3ff67,Marco Reus,11,GER,AM,29-204,90,1,0,0,0,3,2,0,0,56,1,1,1,1.3,1.3,0.1,4,1,38,42,90.5,5,43,5,3,1,Dortmund,2018-12-21 Dortmund-Gladbach,GER-BL1,18-19,46a281bb
+fe641c1a,Thomas Delaney,6,DEN,DM,27-109,90,0,0,0,0,1,0,0,0,102,2,3,2,0.2,0.2,0.0,2,0,87,92,94.6,8,71,0,0,0,Dortmund,2018-12-21 Dortmund-Gladbach,GER-BL1,18-19,46a281bb
+5dfc6ad5,Axel Witsel,28,BEL,DM,29-343,90,0,0,0,0,2,1,0,0,111,2,0,0,0.1,0.1,0.0,1,0,97,102,95.1,7,90,2,0,0,Dortmund,2018-12-21 Dortmund-Gladbach,GER-BL1,18-19,46a281bb
+e42d61c7,Achraf Hakimi,5,MAR,LB,20-047,90,0,0,0,0,1,0,0,0,103,0,0,2,0.0,0.0,0.0,1,0,86,98,87.8,5,73,1,4,3,Dortmund,2018-12-21 Dortmund-Gladbach,GER-BL1,18-19,46a281bb
+c5fd13e9,Ömer Toprak,36,TUR,CB,29-153,90,0,0,0,0,1,0,0,0,66,1,0,0,0.1,0.1,0.0,0,0,56,57,98.2,3,49,0,0,0,Dortmund,2018-12-21 Dortmund-Gladbach,GER-BL1,18-19,46a281bb
+346d51d9,Julian Weigl,33,GER,CB,23-104,90,0,0,0,0,0,0,0,0,78,3,0,1,0.0,0.0,0.0,0,0,65,69,94.2,1,54,0,1,1,Dortmund,2018-12-21 Dortmund-Gladbach,GER-BL1,18-19,46a281bb
+fe2db476,Łukasz Piszczek,26,POL,RB,33-201,90,0,0,0,0,0,0,0,0,87,5,2,2,0.0,0.0,0.0,2,0,67,77,87.0,8,51,1,0,0,Dortmund,2018-12-21 Dortmund-Gladbach,GER-BL1,18-19,46a281bb
+9d12e142,Roman Bürki,1,SUI,GK,28-037,90,0,0,0,0,0,0,0,0,27,0,0,0,0.0,0.0,0.0,0,0,19,27,70.4,0,13,0,0,0,Dortmund,2018-12-21 Dortmund-Gladbach,GER-BL1,18-19,46a281bb
+bc6bd723,Alassane Pléa,14,FRA,FW,25-286,90,0,0,0,0,0,0,0,0,24,1,0,0,0.0,0.0,0.0,1,0,10,16,62.5,2,17,0,1,1,Mönchengladbach,2018-12-21 Dortmund-Gladbach,GER-BL1,18-19,46a281bb
+50871bcc,Thorgan Hazard,10,BEL,"LW,FW",25-267,90,0,0,0,0,0,0,0,0,49,0,1,1,0.0,0.0,0.0,1,1,26,37,70.3,4,35,4,4,3,Mönchengladbach,2018-12-21 Dortmund-Gladbach,GER-BL1,18-19,46a281bb
+dfb6490a,Patrick Herrmann,7,GER,RW,27-312,72,0,0,0,0,1,0,0,0,26,1,0,0,0.0,0.0,0.0,1,0,17,21,81.0,1,19,2,3,2,Mönchengladbach,2018-12-21 Dortmund-Gladbach,GER-BL1,18-19,46a281bb
+096a77c4,Ibrahima Traoré,16,GUI,RW,30-244,18,0,0,0,0,0,0,0,0,14,0,0,0,0.0,0.0,0.0,0,0,10,12,83.3,1,10,0,1,1,Mönchengladbach,2018-12-21 Dortmund-Gladbach,GER-BL1,18-19,46a281bb
+384d58d9,Denis Zakaria,8,SUI,"LM,DM",22-031,90,0,0,0,0,0,0,0,0,48,3,3,0,0.0,0.0,0.0,1,1,35,40,87.5,3,32,2,2,1,Mönchengladbach,2018-12-21 Dortmund-Gladbach,GER-BL1,18-19,46a281bb
+496aeede,Christoph Kramer,6,GER,CM,27-305,67,1,0,0,0,1,1,0,0,40,0,3,0,0.7,0.7,0.0,0,0,26,29,89.7,1,19,1,1,0,Mönchengladbach,2018-12-21 Dortmund-Gladbach,GER-BL1,18-19,46a281bb
+2903a856,Jonas Hofmann,23,GER,CM,26-160,23,0,0,0,0,0,0,0,0,18,1,2,2,0.0,0.0,0.0,0,0,13,14,92.9,1,12,1,0,0,Mönchengladbach,2018-12-21 Dortmund-Gladbach,GER-BL1,18-19,46a281bb
+36a59ba4,Florian Neuhaus,32,GER,RM,21-280,81,0,0,0,0,1,1,0,0,40,0,0,2,0.0,0.0,0.0,0,0,22,30,73.3,1,25,1,3,1,Mönchengladbach,2018-12-21 Dortmund-Gladbach,GER-BL1,18-19,46a281bb
+5722eced,Mickaël Cuisance,27,FRA,"CM,RM",19-127,9,0,0,0,0,0,0,1,0,7,0,0,0,0.0,0.0,0.0,0,0,4,6,66.7,0,4,0,0,0,Mönchengladbach,2018-12-21 Dortmund-Gladbach,GER-BL1,18-19,46a281bb
+b69261a0,Oscar Wendt,17,SWE,"LB,CB",33-058,90,0,0,0,0,0,0,0,0,95,2,0,1,0.0,0.0,0.0,0,0,80,85,94.1,4,59,0,1,1,Mönchengladbach,2018-12-21 Dortmund-Gladbach,GER-BL1,18-19,46a281bb
+17780d2b,Tobias Strobl,5,GER,CB,28-223,90,0,0,0,0,0,0,0,0,127,0,0,0,0.0,0.0,0.0,1,0,113,120,94.2,4,107,0,0,0,Mönchengladbach,2018-12-21 Dortmund-Gladbach,GER-BL1,18-19,46a281bb
+9af1f9ff,Jordan Beyer,15,GER,CB,18-216,90,0,0,0,0,0,0,0,0,112,3,2,0,0.0,0.0,0.0,0,0,96,103,93.2,3,83,3,3,3,Mönchengladbach,2018-12-21 Dortmund-Gladbach,GER-BL1,18-19,46a281bb
+76e5da9d,Fabian Johnson,19,USA,"RB,LW",31-010,90,0,0,0,0,0,0,0,0,65,1,0,2,0.0,0.0,0.0,0,0,52,60,86.7,6,47,1,0,0,Mönchengladbach,2018-12-21 Dortmund-Gladbach,GER-BL1,18-19,46a281bb
+420c18a1,Yann Sommer,1,SUI,GK,30-004,90,0,0,0,0,0,0,0,0,48,0,0,0,0.0,0.0,0.0,0,0,41,47,87.2,0,35,0,0,0,Mönchengladbach,2018-12-21 Dortmund-Gladbach,GER-BL1,18-19,46a281bb

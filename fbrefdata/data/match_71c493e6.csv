@@ -1,0 +1,32 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+e468c053,Gervinho,27,CIV,FW,33-053,81,1,0,0,0,2,1,0,0,32,2,0,0,0.1,0.1,0.1,3,1,19,24,79.2,1,19,4,1,1,Parma,2020-07-19 Parma-Sampdoria,ITA-SERIA_A,19-20,71c493e6
+8b66d9cc,Yann Karamoh,7,FRA,FW,22-011,9,0,0,0,0,1,1,0,0,5,0,0,0,0.0,0.0,0.0,1,0,3,4,75.0,0,3,0,1,1,Parma,2020-07-19 Parma-Sampdoria,ITA-SERIA_A,19-20,71c493e6
+54e53b7e,Gianluca Caprari,20,ITA,LW,26-355,62,0,0,0,0,1,0,0,0,36,0,0,1,0.1,0.1,0.1,3,0,21,27,77.8,1,23,2,5,2,Parma,2020-07-19 Parma-Sampdoria,ITA-SERIA_A,19-20,71c493e6
+6c1f7328,Roberto Inglese,9,ITA,FW,28-250,28,0,0,0,0,0,0,0,0,8,0,0,1,0.0,0.0,0.1,2,0,5,6,83.3,1,7,0,1,1,Parma,2020-07-19 Parma-Sampdoria,ITA-SERIA_A,19-20,71c493e6
+df3cda47,Dejan Kulusevski,44,SWE,"RW,CM",20-085,90,0,0,0,0,2,1,0,0,64,2,0,2,0.5,0.5,0.1,6,0,32,43,74.4,8,43,5,7,4,Parma,2020-07-19 Parma-Sampdoria,ITA-SERIA_A,19-20,71c493e6
+144607cc,Jasmin Kurtić,19,SVN,"LM,RM",31-191,78,0,0,0,0,1,1,0,0,45,0,0,1,0.0,0.0,0.0,2,0,35,40,87.5,8,29,0,1,0,Parma,2020-07-19 Parma-Sampdoria,ITA-SERIA_A,19-20,71c493e6
+2990c466,Kastriot Dermaku,3,ALB,CB,28-186,12,0,0,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.0,0,0,8,11,72.7,1,5,0,0,0,Parma,2020-07-19 Parma-Sampdoria,ITA-SERIA_A,19-20,71c493e6
+e947ee4a,Gastón Brugman,15,URU,"CM,DM",27-316,90,0,1,0,0,3,0,0,0,76,2,3,2,0.1,0.1,0.1,3,1,59,68,86.8,6,49,0,2,1,Parma,2020-07-19 Parma-Sampdoria,ITA-SERIA_A,19-20,71c493e6
+6f5ead86,Hernani,10,BRA,RM,26-114,62,0,0,0,0,2,0,0,0,41,1,0,3,0.1,0.1,0.0,2,0,21,29,72.4,5,26,1,1,0,Parma,2020-07-19 Parma-Sampdoria,ITA-SERIA_A,19-20,71c493e6
+a64cbd35,Antonino Barillà,17,ITA,LM,32-109,28,0,0,0,0,2,1,0,0,15,0,0,0,0.1,0.1,0.0,1,0,9,12,75.0,2,8,0,1,0,Parma,2020-07-19 Parma-Sampdoria,ITA-SERIA_A,19-20,71c493e6
+149c5f5d,Giuseppe Pezzella,97,ITA,LB,22-233,90,0,0,0,0,1,0,0,0,56,0,0,2,0.0,0.0,0.1,5,0,37,47,78.7,0,30,3,3,0,Parma,2020-07-19 Parma-Sampdoria,ITA-SERIA_A,19-20,71c493e6
+173061c0,Riccardo Gagliolo,28,SWE,CB,30-082,78,0,0,0,0,1,0,0,0,70,2,3,2,0.0,0.0,0.0,2,0,54,59,91.5,6,46,2,0,0,Parma,2020-07-19 Parma-Sampdoria,ITA-SERIA_A,19-20,71c493e6
+1cac99dc,Luca Siligardi,26,ITA,"RM,CB",32-175,12,0,0,0,0,1,0,0,0,12,0,0,0,0.1,0.1,0.1,2,0,5,9,55.6,0,7,1,0,0,Parma,2020-07-19 Parma-Sampdoria,ITA-SERIA_A,19-20,71c493e6
+63071a3f,Simone Iacoponi,2,ITA,CB,33-080,90,0,0,0,0,0,0,0,0,60,0,0,1,0.0,0.0,0.0,0,0,51,58,87.9,2,44,0,1,1,Parma,2020-07-19 Parma-Sampdoria,ITA-SERIA_A,19-20,71c493e6
+3535098b,Vincent Laurini,16,FRA,RB,31-039,90,0,0,0,0,0,0,0,0,63,1,0,0,0.0,0.0,0.0,0,0,45,59,76.3,7,47,3,4,4,Parma,2020-07-19 Parma-Sampdoria,ITA-SERIA_A,19-20,71c493e6
+343f753a,Luigi Sepe,1,ITA,GK,29-072,90,0,0,0,0,0,0,0,0,41,0,0,0,0.0,0.0,0.0,0,0,33,39,84.6,0,18,0,0,0,Parma,2020-07-19 Parma-Sampdoria,ITA-SERIA_A,19-20,71c493e6
+ee4f2f3b,Fabio Quagliarella,27,ITA,FW,37-170,89,1,1,0,0,7,1,0,0,40,1,1,0,0.9,0.9,0.5,6,1,19,29,65.5,4,28,2,1,1,Sampdoria,2020-07-19 Parma-Sampdoria,ITA-SERIA_A,19-20,71c493e6
+8f866fe8,Manolo Gabbiadini,23,ITA,FW,28-236,1,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,1,3,33.3,0,2,0,0,0,Sampdoria,2020-07-19 Parma-Sampdoria,ITA-SERIA_A,19-20,71c493e6
+2c851997,Gastón Ramírez,11,URU,FW,29-230,45,0,0,0,0,0,0,0,0,21,2,0,0,0.0,0.0,0.1,3,0,13,14,92.9,2,13,0,1,0,Sampdoria,2020-07-19 Parma-Sampdoria,ITA-SERIA_A,19-20,71c493e6
+bf57eaab,Federico Bonazzoli,9,ITA,FW,23-059,45,1,0,0,0,4,2,0,0,23,0,1,0,0.6,0.6,0.1,5,1,10,12,83.3,2,17,1,4,2,Sampdoria,2020-07-19 Parma-Sampdoria,ITA-SERIA_A,19-20,71c493e6
+1ea5f91c,Jakub Jankto,14,CZE,LM,24-182,90,0,0,0,0,2,0,0,0,38,0,1,1,0.1,0.1,0.1,2,0,22,28,78.6,7,26,6,1,0,Sampdoria,2020-07-19 Parma-Sampdoria,ITA-SERIA_A,19-20,71c493e6
+f503ea63,Albin Ekdal,6,SWE,CM,30-357,90,0,0,0,0,2,0,1,0,48,5,0,0,0.0,0.0,0.0,3,0,34,39,87.2,5,29,1,0,0,Sampdoria,2020-07-19 Parma-Sampdoria,ITA-SERIA_A,19-20,71c493e6
+d1b49282,Morten Thorsby,18,NOR,"RM,CM",24-075,90,0,1,0,0,1,0,0,0,52,4,3,1,0.1,0.1,0.1,4,2,33,39,84.6,6,31,1,2,2,Sampdoria,2020-07-19 Parma-Sampdoria,ITA-SERIA_A,19-20,71c493e6
+d97f2e8d,Fabio Depaoli,12,ITA,RM,23-086,45,0,0,0,0,0,0,0,0,11,1,1,1,0.0,0.0,0.0,1,0,5,7,71.4,2,6,1,0,0,Sampdoria,2020-07-19 Parma-Sampdoria,ITA-SERIA_A,19-20,71c493e6
+e01ca8f4,Gonzalo Maroni,20,ARG,AM,21-123,45,0,1,0,0,1,0,0,0,38,2,0,0,0.1,0.1,0.3,9,2,23,32,71.9,3,27,6,2,2,Sampdoria,2020-07-19 Parma-Sampdoria,ITA-SERIA_A,19-20,71c493e6
+d183e9d6,Nicola Murru,29,ITA,LB,25-216,90,0,0,0,0,0,0,0,0,47,1,0,1,0.0,0.0,0.0,0,0,25,43,58.1,3,26,1,2,1,Sampdoria,2020-07-19 Parma-Sampdoria,ITA-SERIA_A,19-20,71c493e6
+ae7058f9,Julian Chabot,5,GER,CB,22-158,90,1,0,0,0,1,1,0,0,63,4,4,0,0.1,0.1,0.0,0,0,43,50,86.0,3,35,1,0,0,Sampdoria,2020-07-19 Parma-Sampdoria,ITA-SERIA_A,19-20,71c493e6
+caffaf5a,Maya Yoshida,34,JPN,CB,31-330,90,0,0,0,0,2,0,0,0,44,2,2,0,0.1,0.1,0.0,0,0,25,29,86.2,0,24,0,0,0,Sampdoria,2020-07-19 Parma-Sampdoria,ITA-SERIA_A,19-20,71c493e6
+61b3978f,Bartosz Bereszyński,24,POL,RB,28-007,90,0,0,0,0,0,0,0,0,43,0,2,2,0.0,0.0,0.0,1,0,30,36,83.3,4,24,0,0,0,Sampdoria,2020-07-19 Parma-Sampdoria,ITA-SERIA_A,19-20,71c493e6
+649b01d8,Emil Audero,1,ITA,GK,23-183,90,0,0,0,0,0,0,0,0,41,0,0,0,0.0,0.0,0.0,0,0,29,38,76.3,0,17,0,0,0,Sampdoria,2020-07-19 Parma-Sampdoria,ITA-SERIA_A,19-20,71c493e6

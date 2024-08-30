@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+df85d472,Federico Santander,9,PAR,FW,27-076,90,0,0,0,0,3,1,0,0,26,1,1,1,0.2,0.2,0.3,3,0,9,16,56.3,2,11,1,1,0,Bologna,2018-08-19 Bologna-SPAL,ITA-SERIA_A,18-19,76ad12fa
+8d8178ac,Rodrigo Palacio,24,ARG,"FW,AM",36-195,90,0,0,0,0,3,1,0,0,34,0,0,0,0.3,0.3,0.1,3,0,11,21,52.4,3,25,4,5,2,Bologna,2018-08-19 Bologna-SPAL,ITA-SERIA_A,18-19,76ad12fa
+b3fd7075,Andrea Poli,16,ITA,CM,28-324,76,0,0,0,0,0,0,0,0,28,2,2,2,0.0,0.0,0.1,4,0,20,21,95.2,1,18,0,0,0,Bologna,2018-08-19 Bologna-SPAL,ITA-SERIA_A,18-19,76ad12fa
+e14ec482,Riccardo Orsolini,7,ITA,WB,21-207,14,0,0,0,0,0,0,0,0,10,2,1,0,0.0,0.0,0.1,2,0,2,5,40.0,0,3,0,0,0,Bologna,2018-08-19 Bologna-SPAL,ITA-SERIA_A,18-19,76ad12fa
+4611e028,Erick Pulgar,5,CHI,CM,24-216,55,0,0,0,0,1,0,1,0,45,0,2,2,0.0,0.0,0.1,4,0,27,41,65.9,9,17,0,0,0,Bologna,2018-08-19 Bologna-SPAL,ITA-SERIA_A,18-19,76ad12fa
+788b31e2,Ádám Nagy,8,HUN,CM,23-063,33,0,0,0,0,0,0,2,1,21,1,0,2,0.0,0.0,0.0,1,0,14,18,77.8,1,11,2,0,0,Bologna,2018-08-19 Bologna-SPAL,ITA-SERIA_A,18-19,76ad12fa
+756959aa,Blerim Džemaili,31,SUI,"CM,WB",32-129,90,0,0,0,0,2,0,0,0,45,8,2,1,0.1,0.1,0.0,3,0,19,31,61.3,5,24,3,4,3,Bologna,2018-08-19 Bologna-SPAL,ITA-SERIA_A,18-19,76ad12fa
+0a3065c8,Mitchell Dijks,35,NED,WB,25-191,90,0,0,0,0,1,1,0,0,53,2,2,0,0.0,0.0,0.1,2,0,28,40,70.0,8,27,5,2,1,Bologna,2018-08-19 Bologna-SPAL,ITA-SERIA_A,18-19,76ad12fa
+fba81826,Federico Mattiello,14,ITA,"WB,CB",23-036,90,0,0,0,0,1,0,1,0,44,3,0,0,0.3,0.3,0.1,2,0,23,35,65.7,3,23,6,1,0,Bologna,2018-08-19 Bologna-SPAL,ITA-SERIA_A,18-19,76ad12fa
+27f0ddef,Filip Helander,18,SWE,CB,25-119,90,0,0,0,0,2,0,0,0,41,1,1,0,0.1,0.1,0.0,0,0,24,36,66.7,2,16,1,0,0,Bologna,2018-08-19 Bologna-SPAL,ITA-SERIA_A,18-19,76ad12fa
+fed5f993,Danilo Larangeira,23,BRA,CB,34-101,90,0,0,0,0,0,0,0,0,55,1,1,2,0.0,0.0,0.0,1,0,35,47,74.5,3,21,0,0,0,Bologna,2018-08-19 Bologna-SPAL,ITA-SERIA_A,18-19,76ad12fa
+117beb8f,Giancarlo González,3,CRC,CB,30-192,71,0,0,0,0,0,0,0,0,42,1,0,0,0.0,0.0,0.0,0,0,24,38,63.2,5,25,1,0,0,Bologna,2018-08-19 Bologna-SPAL,ITA-SERIA_A,18-19,76ad12fa
+a39b9ef6,Diego Falcinelli,91,ITA,FW,27-054,19,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,5,5,100.0,1,5,0,1,0,Bologna,2018-08-19 Bologna-SPAL,ITA-SERIA_A,18-19,76ad12fa
+ab4449d6,Łukasz Skorupski,28,POL,GK,27-106,90,0,0,0,0,0,0,0,0,36,0,0,0,0.0,0.0,0.0,0,0,28,33,84.8,0,22,0,0,0,Bologna,2018-08-19 Bologna-SPAL,ITA-SERIA_A,18-19,76ad12fa
+43a2e16c,Mirco Antenucci,7,ITA,FW,33-345,90,0,0,0,0,3,2,0,0,36,1,0,1,0.2,0.2,0.0,1,0,13,24,54.2,1,25,5,6,3,SPAL,2018-08-19 Bologna-SPAL,ITA-SERIA_A,18-19,76ad12fa
+03f946ed,Andrea Petagna,37,ITA,FW,23-050,90,0,0,0,0,3,2,0,0,37,0,0,0,0.2,0.2,0.0,0,0,20,28,71.4,0,30,1,1,0,SPAL,2018-08-19 Bologna-SPAL,ITA-SERIA_A,18-19,76ad12fa
+331c0a43,Simone Missiroli,6,ITA,CM,32-088,68,0,0,0,0,1,0,0,0,40,3,0,0,0.0,0.0,0.1,4,0,21,30,70.0,5,27,3,3,3,SPAL,2018-08-19 Bologna-SPAL,ITA-SERIA_A,18-19,76ad12fa
+3799e138,Everton Luiz,25,BRA,CM,30-087,22,0,0,0,0,0,0,0,0,16,0,1,0,0.0,0.0,0.0,0,0,6,9,66.7,0,10,0,2,1,SPAL,2018-08-19 Bologna-SPAL,ITA-SERIA_A,18-19,76ad12fa
+bd84fc61,Pasquale Schiattarella,28,ITA,CM,31-081,90,0,0,0,0,0,0,0,0,78,2,2,1,0.0,0.0,0.0,4,1,65,72,90.3,9,44,2,0,0,SPAL,2018-08-19 Bologna-SPAL,ITA-SERIA_A,18-19,76ad12fa
+144607cc,Jasmin Kurtić,19,SVN,CM,29-221,82,1,0,0,0,3,1,0,0,63,2,0,0,0.1,0.1,0.0,1,0,49,54,90.7,5,43,3,0,0,SPAL,2018-08-19 Bologna-SPAL,ITA-SERIA_A,18-19,76ad12fa
+c710f7d5,Mirko Valdifiori,16,ITA,CM,32-120,8,0,0,0,0,1,0,0,0,8,0,0,0,0.0,0.0,0.1,3,0,5,7,71.4,1,3,0,1,1,SPAL,2018-08-19 Bologna-SPAL,ITA-SERIA_A,18-19,76ad12fa
+b7a5bc86,Mohamed Fares,93,ALG,"WB,LB",22-185,90,0,0,0,0,0,0,1,0,55,1,2,3,0.0,0.0,0.0,1,0,35,44,79.5,2,30,2,3,1,SPAL,2018-08-19 Bologna-SPAL,ITA-SERIA_A,18-19,76ad12fa
+02caf6e0,Manuel Lazzari,29,ITA,"WB,RB",24-263,88,0,0,0,0,2,0,0,0,62,0,1,0,0.1,0.1,0.1,4,0,44,52,84.6,2,37,6,6,4,SPAL,2018-08-19 Bologna-SPAL,ITA-SERIA_A,18-19,76ad12fa
+65e4dede,Lorenco Šimić,5,CRO,CB,22-035,2,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,SPAL,2018-08-19 Bologna-SPAL,ITA-SERIA_A,18-19,76ad12fa
+8cea6319,Felipe dal Belo,27,BRA,CB,34-019,90,0,1,0,0,0,0,1,0,60,1,1,1,0.0,0.0,0.0,2,1,41,55,74.5,4,43,1,1,1,SPAL,2018-08-19 Bologna-SPAL,ITA-SERIA_A,18-19,76ad12fa
+de045b15,Francesco Vicari,23,ITA,CB,24-016,90,0,0,0,0,0,0,0,0,67,0,3,4,0.0,0.0,0.0,0,0,48,54,88.9,1,42,2,0,0,SPAL,2018-08-19 Bologna-SPAL,ITA-SERIA_A,18-19,76ad12fa
+46f5c54d,Thiago Cionek,4,POL,"CB,RB",32-120,90,0,0,0,0,0,0,0,0,95,4,2,0,0.0,0.0,0.0,1,0,68,81,84.0,6,61,4,1,1,SPAL,2018-08-19 Bologna-SPAL,ITA-SERIA_A,18-19,76ad12fa
+cecbce23,Alfred Gomis,1,SEN,GK,24-348,90,0,0,0,0,0,0,0,0,48,0,0,0,0.0,0.0,0.0,0,0,36,46,78.3,0,26,0,0,0,SPAL,2018-08-19 Bologna-SPAL,ITA-SERIA_A,18-19,76ad12fa

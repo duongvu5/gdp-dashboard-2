@@ -1,0 +1,29 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+8d78e732,Robert Lewandowski,9,POL,FW,32-178,90,1,0,0,0,6,3,0,0,42,1,0,0,1.4,1.4,0.0,1,0,17,21,81.0,1,25,1,6,2,Bayern Munich,2021-02-15 Bayern Munich-Arminia,GER-BL1,20-21,0616847d
+042e8a49,Kingsley Coman,29,FRA,LW,24-247,90,0,0,0,0,3,3,0,0,63,0,0,0,0.1,0.1,0.0,7,0,39,53,73.6,6,41,7,10,7,Bayern Munich,2021-02-15 Bayern Munich-Arminia,GER-BL1,20-21,0616847d
+2b114be3,Leroy Sané,10,GER,RW,25-035,90,0,1,0,0,4,1,0,0,67,1,0,2,0.1,0.1,0.4,4,1,31,50,62.0,6,33,3,8,3,Bayern Munich,2021-02-15 Bayern Munich-Arminia,GER-BL1,20-21,0616847d
+0e6bc38c,Eric Maxim Choupo-Moting,13,CMR,AM,31-329,90,0,0,0,0,2,2,0,0,22,0,0,1,0.4,0.4,0.0,0,0,12,16,75.0,2,15,0,3,3,Bayern Munich,2021-02-15 Bayern Munich-Arminia,GER-BL1,20-21,0616847d
+05439de2,David Alaba,27,AUT,DM,28-236,90,0,1,0,0,1,0,0,0,96,2,0,1,0.0,0.0,0.5,8,1,70,91,76.9,14,59,4,3,3,Bayern Munich,2021-02-15 Bayern Munich-Arminia,GER-BL1,20-21,0616847d
+652d4c37,Corentin Tolisso,24,FRA,DM,26-196,90,1,0,0,0,1,1,1,0,84,3,0,2,0.4,0.4,0.1,2,0,67,74,90.5,13,53,3,0,0,Bayern Munich,2021-02-15 Bayern Munich-Arminia,GER-BL1,20-21,0616847d
+d781d855,Alphonso Davies,19,CAN,LB,20-105,90,1,0,0,0,1,1,0,0,97,2,0,4,0.1,0.1,0.1,5,1,79,82,96.3,4,43,4,6,4,Bayern Munich,2021-02-15 Bayern Munich-Arminia,GER-BL1,20-21,0616847d
+c3ee18ef,Lucas Hernández,21,FRA,CB,25-001,90,0,0,0,0,1,0,0,0,112,2,2,2,0.0,0.0,0.0,1,0,88,101,87.1,8,73,4,1,1,Bayern Munich,2021-02-15 Bayern Munich-Arminia,GER-BL1,20-21,0616847d
+e33c06cf,Niklas Süle,4,GER,CB,25-165,90,0,0,0,0,0,0,0,0,94,4,0,0,0.0,0.0,0.0,1,0,74,88,84.1,5,60,4,0,0,Bayern Munich,2021-02-15 Bayern Munich-Arminia,GER-BL1,20-21,0616847d
+1a4b9094,Bouna Sarr,20,SEN,RB,29-015,57,0,0,0,0,0,0,0,0,58,1,3,1,0.0,0.0,0.0,3,2,38,49,77.6,3,23,3,4,3,Bayern Munich,2021-02-15 Bayern Munich-Arminia,GER-BL1,20-21,0616847d
+49296448,Joshua Kimmich,6,GER,RB,26-007,33,0,0,0,0,0,0,0,0,32,0,1,2,0.0,0.0,0.2,2,1,22,29,75.9,4,16,0,0,0,Bayern Munich,2021-02-15 Bayern Munich-Arminia,GER-BL1,20-21,0616847d
+8778c910,Manuel Neuer,1,GER,GK,34-325,90,0,0,0,0,0,0,0,0,33,0,0,0,0.0,0.0,0.0,0,0,31,33,93.9,0,17,0,0,0,Bayern Munich,2021-02-15 Bayern Munich-Arminia,GER-BL1,20-21,0616847d
+e21042ae,Fabian Klos,9,GER,FW,33-075,88,0,0,0,0,0,0,0,0,41,1,0,2,0.0,0.0,0.0,2,1,19,30,63.3,2,20,0,3,0,Arminia,2021-02-15 Bayern Munich-Arminia,GER-BL1,20-21,0616847d
+25f50295,Mike van der Hoorn,6,NED,FW,28-123,2,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,0,0,0,0,Arminia,2021-02-15 Bayern Munich-Arminia,GER-BL1,20-21,0616847d
+daa78200,Andreas Voglsammer,21,GER,LW,29-037,61,0,1,0,0,0,0,0,0,23,2,1,2,0.0,0.0,0.9,1,1,6,11,54.5,0,16,3,1,1,Arminia,2021-02-15 Bayern Munich-Arminia,GER-BL1,20-21,0616847d
+0da32a38,Nils Seufert,20,GER,LW,24-012,29,0,0,0,0,0,0,0,0,19,0,0,0,0.0,0.0,0.0,1,0,12,18,66.7,0,12,0,0,0,Arminia,2021-02-15 Bayern Munich-Arminia,GER-BL1,20-21,0616847d
+d01bbb6f,Ritsu Doan,8,JPN,RW,22-244,40,0,0,0,0,0,0,0,0,20,1,1,2,0.0,0.0,0.0,0,0,4,8,50.0,0,15,1,4,1,Arminia,2021-02-15 Bayern Munich-Arminia,GER-BL1,20-21,0616847d
+d847944b,Christian Gebauer,7,AUT,RW,27-057,50,1,0,0,0,1,1,0,0,19,0,1,0,0.9,0.9,0.0,0,0,8,14,57.1,0,5,0,0,0,Arminia,2021-02-15 Bayern Munich-Arminia,GER-BL1,20-21,0616847d
+02760e49,Michel Vlap,28,NED,AM,23-258,61,1,1,0,0,1,1,0,0,30,0,0,2,0.3,0.3,0.1,2,2,17,22,77.3,3,17,1,0,0,Arminia,2021-02-15 Bayern Munich-Arminia,GER-BL1,20-21,0616847d
+229cd98a,Sergio Córdova,18,VEN,AM,23-190,29,0,0,0,0,1,0,0,0,13,0,1,0,0.1,0.1,0.0,0,0,7,10,70.0,0,10,1,0,0,Arminia,2021-02-15 Bayern Munich-Arminia,GER-BL1,20-21,0616847d
+901c0f97,Manuel Prietl,19,AUT,DM,29-196,90,0,1,0,0,2,0,0,0,54,4,2,2,0.0,0.0,0.3,2,1,32,37,86.5,5,23,0,3,2,Arminia,2021-02-15 Bayern Munich-Arminia,GER-BL1,20-21,0616847d
+d25fee56,Fabian Kunze,16,GER,DM,22-246,90,0,0,0,0,1,0,1,0,47,5,0,0,0.0,0.0,0.1,2,0,23,32,71.9,3,21,0,1,0,Arminia,2021-02-15 Bayern Munich-Arminia,GER-BL1,20-21,0616847d
+c0d3bd23,Jacob Barrett Laursen,5,DEN,LB,26-090,90,0,0,0,0,0,0,0,0,55,7,1,3,0.0,0.0,0.0,1,0,30,36,83.3,2,15,0,2,2,Arminia,2021-02-15 Bayern Munich-Arminia,GER-BL1,20-21,0616847d
+c562c5b4,Joakim Nilsson,4,SWE,CB,27-009,90,0,0,0,0,0,0,0,0,32,2,1,1,0.0,0.0,0.0,0,0,16,21,76.2,0,13,0,0,0,Arminia,2021-02-15 Bayern Munich-Arminia,GER-BL1,20-21,0616847d
+526ea7cc,Amos Pieper,2,GER,CB,23-029,90,1,0,0,0,1,1,0,0,42,0,3,2,0.1,0.1,0.0,0,0,25,28,89.3,0,20,0,1,1,Arminia,2021-02-15 Bayern Munich-Arminia,GER-BL1,20-21,0616847d
+f0a37d36,Cédric Brunner,27,SUI,RB,26-364,90,0,0,0,0,0,0,0,0,71,3,0,0,0.0,0.0,0.0,0,0,38,59,64.4,4,29,0,0,0,Arminia,2021-02-15 Bayern Munich-Arminia,GER-BL1,20-21,0616847d
+c1242d4e,Stefan Ortega,1,GER,GK,28-101,90,0,0,0,0,0,0,0,0,64,0,0,0,0.0,0.0,0.0,0,0,39,57,68.4,0,45,0,0,0,Arminia,2021-02-15 Bayern Munich-Arminia,GER-BL1,20-21,0616847d

@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+e21042ae,Fabian Klos,9,GER,FW,33-353,82,1,0,1,1,1,0,0,0,42,0,0,1,0.8,0.0,0.1,1,0,17,29,58.6,1,18,0,3,0,Arminia,2021-11-20 Arminia-Wolfsburg,GER-BL1,21-22,c5c97f25
+ebac0ace,Bryan Lasme,10,FRA,FW,23-006,8,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,0,3,0.0,0,3,2,2,1,Arminia,2021-11-20 Arminia-Wolfsburg,GER-BL1,21-22,c5c97f25
+63b9cc6d,Masaya Okugawa,11,JPN,LW,25-220,82,1,0,0,0,1,1,0,0,25,0,0,1,0.3,0.3,0.0,3,1,10,16,62.5,3,16,0,1,0,Arminia,2021-11-20 Arminia-Wolfsburg,GER-BL1,21-22,c5c97f25
+0174ba21,Robin Hack,21,GER,LW,23-085,8,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,2,0,1,4,25.0,0,5,0,1,1,Arminia,2021-11-20 Arminia-Wolfsburg,GER-BL1,21-22,c5c97f25
+cb11b429,Patrick Wimmer,20,AUT,RW,20-174,29,0,1,0,0,0,0,0,0,13,1,1,0,0.0,0.0,0.3,1,1,6,6,100.0,2,5,0,4,0,Arminia,2021-11-20 Arminia-Wolfsburg,GER-BL1,21-22,c5c97f25
+3bb625ac,Edimilson Fernandes,22,SUI,RW,25-219,61,0,0,0,0,1,1,0,0,23,1,0,0,0.0,0.0,0.0,0,0,16,20,80.0,2,14,0,0,0,Arminia,2021-11-20 Arminia-Wolfsburg,GER-BL1,21-22,c5c97f25
+106bca06,Alessandro Schöpf,8,AUT,AM,27-286,90,0,0,0,0,2,0,1,0,48,1,0,1,0.1,0.1,0.0,5,1,31,36,86.1,4,25,3,2,1,Arminia,2021-11-20 Arminia-Wolfsburg,GER-BL1,21-22,c5c97f25
+d3112d86,Sebastian Vasiliadis,39,GRE,DM,24-047,65,0,0,0,0,2,0,1,0,25,3,1,2,0.0,0.0,0.0,1,1,9,10,90.0,0,10,0,2,0,Arminia,2021-11-20 Arminia-Wolfsburg,GER-BL1,21-22,c5c97f25
+d25fee56,Fabian Kunze,16,GER,DM,23-159,25,0,0,0,0,0,0,0,0,19,0,0,1,0.0,0.0,0.0,0,0,12,13,92.3,5,6,0,1,1,Arminia,2021-11-20 Arminia-Wolfsburg,GER-BL1,21-22,c5c97f25
+901c0f97,Manuel Prietl,19,AUT,DM,30-109,90,0,0,0,0,0,0,0,0,37,4,3,1,0.0,0.0,0.0,0,0,15,21,71.4,1,14,1,0,0,Arminia,2021-11-20 Arminia-Wolfsburg,GER-BL1,21-22,c5c97f25
+c0d3bd23,Jacob Barrett Laursen,5,DEN,LB,27-003,65,0,0,0,0,1,0,0,0,39,1,2,0,0.0,0.0,0.0,1,0,18,32,56.3,1,13,0,1,0,Arminia,2021-11-20 Arminia-Wolfsburg,GER-BL1,21-22,c5c97f25
+d686dbc0,Nathan de Medina,15,BEL,LB,24-043,25,0,0,0,0,1,0,1,0,9,0,0,2,0.0,0.0,0.0,0,0,2,5,40.0,0,2,0,0,0,Arminia,2021-11-20 Arminia-Wolfsburg,GER-BL1,21-22,c5c97f25
+c562c5b4,Joakim Nilsson,4,SWE,CB,27-287,90,0,0,0,0,0,0,0,0,33,0,1,0,0.0,0.0,0.0,1,0,16,24,66.7,1,13,1,0,0,Arminia,2021-11-20 Arminia-Wolfsburg,GER-BL1,21-22,c5c97f25
+526ea7cc,Amos Pieper,2,GER,CB,23-307,90,0,0,0,0,0,0,1,0,44,1,5,0,0.0,0.0,0.0,0,0,24,34,70.6,1,24,0,0,0,Arminia,2021-11-20 Arminia-Wolfsburg,GER-BL1,21-22,c5c97f25
+f0a37d36,Cédric Brunner,27,SUI,RB,27-276,90,0,0,0,0,0,0,0,0,72,3,4,1,0.0,0.0,0.0,2,0,34,58,58.6,4,30,2,1,1,Arminia,2021-11-20 Arminia-Wolfsburg,GER-BL1,21-22,c5c97f25
+c1242d4e,Stefan Ortega,1,GER,GK,29-014,90,0,0,0,0,0,0,0,0,40,0,0,0,0.0,0.0,0.0,0,0,23,38,60.5,0,20,0,0,0,Arminia,2021-11-20 Arminia-Wolfsburg,GER-BL1,21-22,c5c97f25
+c4e87b8b,Wout Weghorst,9,NED,FW,29-105,90,1,0,0,0,1,1,0,0,36,1,0,0,0.8,0.8,0.1,3,1,24,29,82.8,3,30,1,1,1,Wolfsburg,2021-11-20 Arminia-Wolfsburg,GER-BL1,21-22,c5c97f25
+0cc5f4a5,Lukas Nmecha,10,GER,AM,22-341,87,1,0,0,0,3,2,1,0,45,1,0,2,0.4,0.4,0.3,4,0,14,25,56.0,2,29,1,3,1,Wolfsburg,2021-11-20 Arminia-Wolfsburg,GER-BL1,21-22,c5c97f25
+f86cd5df,Aster Vranckx,8,BEL,AM,19-047,3,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,2,0,0,0,Wolfsburg,2021-11-20 Arminia-Wolfsburg,GER-BL1,21-22,c5c97f25
+dd669209,Renato Steffen,11,SUI,AM,30-017,45,0,0,0,0,1,0,0,0,17,0,1,1,0.1,0.1,0.0,1,0,9,12,75.0,0,12,0,0,0,Wolfsburg,2021-11-20 Arminia-Wolfsburg,GER-BL1,21-22,c5c97f25
+061e8e23,Maximilian Philipp,17,GER,AM,27-264,45,0,1,0,0,1,0,0,0,25,1,0,2,0.0,0.0,0.1,2,1,13,19,68.4,3,17,1,3,2,Wolfsburg,2021-11-20 Arminia-Wolfsburg,GER-BL1,21-22,c5c97f25
+62ab9184,Yannick Gerhardt,31,GER,CM,27-252,90,0,0,0,0,1,0,0,0,53,1,0,1,0.1,0.1,0.0,0,0,30,44,68.2,7,28,1,1,1,Wolfsburg,2021-11-20 Arminia-Wolfsburg,GER-BL1,21-22,c5c97f25
+86e119e0,Maximilian Arnold,27,GER,CM,27-177,90,0,0,0,0,3,1,0,0,82,2,1,2,0.1,0.1,0.4,3,0,51,71,71.8,7,31,0,0,0,Wolfsburg,2021-11-20 Arminia-Wolfsburg,GER-BL1,21-22,c5c97f25
+1cbe4984,Paulo Otávio,6,BRA,WB,26-362,24,0,0,0,0,0,0,0,0,18,2,0,1,0.0,0.0,0.0,0,0,9,12,75.0,1,8,0,0,0,Wolfsburg,2021-11-20 Arminia-Wolfsburg,GER-BL1,21-22,c5c97f25
+13203c45,Jérôme Roussillon,15,FRA,WB,28-318,66,0,0,0,0,0,0,0,0,51,0,0,2,0.0,0.0,0.0,3,0,35,44,79.5,3,39,1,3,2,Wolfsburg,2021-11-20 Arminia-Wolfsburg,GER-BL1,21-22,c5c97f25
+442b56fa,Ridle Baku,20,GER,"WB,CB",23-226,90,0,0,0,0,0,0,0,0,86,3,1,3,0.0,0.0,0.1,4,0,57,70,81.4,5,53,1,6,3,Wolfsburg,2021-11-20 Arminia-Wolfsburg,GER-BL1,21-22,c5c97f25
+e27da244,John Brooks,25,USA,CB,28-296,90,0,0,0,0,0,0,0,0,101,4,2,0,0.0,0.0,0.0,2,0,69,88,78.4,11,74,0,0,0,Wolfsburg,2021-11-20 Arminia-Wolfsburg,GER-BL1,21-22,c5c97f25
+01834aa0,Sebastiaan Bornauw,3,BEL,CB,22-243,90,0,0,0,0,2,1,0,0,86,0,2,1,0.4,0.4,0.0,1,0,69,76,90.8,2,65,0,0,0,Wolfsburg,2021-11-20 Arminia-Wolfsburg,GER-BL1,21-22,c5c97f25
+493924a7,Kevin Mbabu,19,SUI,CB,26-215,60,0,0,0,0,1,0,0,0,59,4,1,0,0.0,0.0,0.0,0,0,42,49,85.7,2,41,2,2,2,Wolfsburg,2021-11-20 Arminia-Wolfsburg,GER-BL1,21-22,c5c97f25
+0c61c77c,Dodi Lukebakio,28,BEL,WB,24-057,30,0,1,0,0,0,0,0,0,18,1,0,0,0.0,0.0,0.8,2,2,11,14,78.6,1,15,3,2,2,Wolfsburg,2021-11-20 Arminia-Wolfsburg,GER-BL1,21-22,c5c97f25
+db401046,Koen Casteels,1,BEL,GK,29-148,90,0,0,0,0,0,0,0,0,35,0,0,0,0.0,0.0,0.0,0,0,32,33,97.0,0,26,0,0,0,Wolfsburg,2021-11-20 Arminia-Wolfsburg,GER-BL1,21-22,c5c97f25

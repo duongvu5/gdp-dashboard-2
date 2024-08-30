@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+e5bf73f3,Musa Barrow,99,GAM,FW,23-164,76,0,1,0,0,2,0,0,0,39,0,0,0,0.1,0.1,0.1,3,1,29,34,85.3,4,24,1,1,0,Bologna,2022-04-27 Bologna-Inter,ITA-SERIA_A,21-22,a44bfac1
+7eb97a8e,Nicola Sansone,10,ITA,FW,30-229,14,1,0,0,0,1,1,0,0,6,0,0,0,1.0,1.0,0.0,0,0,3,3,100.0,0,3,1,0,0,Bologna,2022-04-27 Bologna-Inter,ITA-SERIA_A,21-22,a44bfac1
+00459419,Marko Arnautović,9,AUT,FW,33-008,87,1,0,0,0,2,2,1,0,40,0,1,1,0.1,0.1,0.1,3,0,27,33,81.8,1,20,0,2,1,Bologna,2022-04-27 Bologna-Inter,ITA-SERIA_A,21-22,a44bfac1
+e14ec482,Riccardo Orsolini,7,ITA,FW,25-093,3,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,0,0,0,0,Bologna,2022-04-27 Bologna-Inter,ITA-SERIA_A,21-22,a44bfac1
+92d83c27,Mattias Svanberg,32,SWE,CM,23-112,65,0,0,0,0,0,0,0,0,33,1,1,1,0.0,0.0,0.0,0,0,18,23,78.3,3,26,1,2,1,Bologna,2022-04-27 Bologna-Inter,ITA-SERIA_A,21-22,a44bfac1
+f9c927de,Michel Aebischer,20,SUI,CM,25-111,25,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,6,7,85.7,1,5,0,0,0,Bologna,2022-04-27 Bologna-Inter,ITA-SERIA_A,21-22,a44bfac1
+2cfae697,Jerdy Schouten,30,NED,CM,25-105,90,0,0,0,0,0,0,0,0,64,2,2,1,0.0,0.0,0.0,0,0,44,52,84.6,2,31,0,1,1,Bologna,2022-04-27 Bologna-Inter,ITA-SERIA_A,21-22,a44bfac1
+9d4c45d6,Roberto Soriano,21,ITA,CM,31-078,65,0,0,0,0,0,0,0,0,41,1,0,1,0.0,0.0,0.0,0,0,28,35,80.0,1,22,1,1,0,Bologna,2022-04-27 Bologna-Inter,ITA-SERIA_A,21-22,a44bfac1
+20b3a502,Nicolás Domínguez,8,ARG,CM,23-303,25,0,0,0,0,0,0,0,0,10,1,0,2,0.0,0.0,0.0,0,0,0,3,0.0,0,3,0,2,0,Bologna,2022-04-27 Bologna-Inter,ITA-SERIA_A,21-22,a44bfac1
+1780bb4a,Aaron Hickey,3,SCO,WB,19-321,90,0,0,0,0,0,0,0,0,38,4,0,2,0.0,0.0,0.0,1,0,18,20,90.0,1,16,1,3,1,Bologna,2022-04-27 Bologna-Inter,ITA-SERIA_A,21-22,a44bfac1
+e74f0e59,Lorenzo De Silvestri,29,ITA,WB,33-339,90,0,0,0,0,0,0,0,0,56,0,0,0,0.0,0.0,0.0,0,0,34,48,70.8,3,28,1,0,0,Bologna,2022-04-27 Bologna-Inter,ITA-SERIA_A,21-22,a44bfac1
+df8d6029,Arthur Theate,6,BEL,CB,21-337,90,0,0,0,0,0,0,0,0,55,1,1,2,0.0,0.0,0.0,1,1,40,45,88.9,3,37,2,0,0,Bologna,2022-04-27 Bologna-Inter,ITA-SERIA_A,21-22,a44bfac1
+563a68ad,Gary Medel,17,CHI,CB,34-267,90,0,0,0,0,0,0,0,0,55,1,1,1,0.0,0.0,0.0,0,0,42,47,89.4,2,26,0,0,0,Bologna,2022-04-27 Bologna-Inter,ITA-SERIA_A,21-22,a44bfac1
+7b075c75,Adama Soumaoro,5,FRA,CB,29-313,90,0,0,0,0,0,0,0,0,56,0,0,3,0.0,0.0,0.0,0,0,40,43,93.0,1,29,0,0,0,Bologna,2022-04-27 Bologna-Inter,ITA-SERIA_A,21-22,a44bfac1
+ab4449d6,Łukasz Skorupski,28,POL,GK,30-357,90,0,0,0,0,0,0,0,0,50,0,0,0,0.0,0.0,0.0,0,0,35,47,74.5,0,21,0,0,0,Bologna,2022-04-27 Bologna-Inter,ITA-SERIA_A,21-22,a44bfac1
+45b9b619,Joaquín Correa,19,ARG,FW,27-257,62,0,0,0,0,2,1,0,0,36,1,0,1,0.2,0.2,0.1,3,0,23,26,88.5,3,22,2,2,2,Internazionale,2022-04-27 Bologna-Inter,ITA-SERIA_A,21-22,a44bfac1
+3bb7f478,Edin Džeko,9,BIH,"FW,RW",36-041,28,0,0,0,0,1,0,0,0,7,0,0,0,0.1,0.1,0.3,1,0,3,4,75.0,1,4,0,1,0,Internazionale,2022-04-27 Bologna-Inter,ITA-SERIA_A,21-22,a44bfac1
+f7036e1c,Lautaro Martínez,10,ARG,"FW,RW",24-248,90,0,0,0,0,6,1,0,0,35,0,0,1,0.8,0.8,0.0,2,0,19,23,82.6,3,18,2,2,1,Internazionale,2022-04-27 Bologna-Inter,ITA-SERIA_A,21-22,a44bfac1
+cd0fa27b,Hakan Çalhanoğlu,20,TUR,CM,28-078,79,0,0,0,0,1,0,1,0,81,1,1,0,0.0,0.0,0.3,7,0,63,75,84.0,11,56,4,0,0,Internazionale,2022-04-27 Bologna-Inter,ITA-SERIA_A,21-22,a44bfac1
+ce30bfc8,Roberto Gagliardini,5,ITA,CM,28-020,11,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,1,0,8,8,100.0,1,8,0,0,0,Internazionale,2022-04-27 Bologna-Inter,ITA-SERIA_A,21-22,a44bfac1
+33b8d077,Marcelo Brozović,77,CRO,CM,29-162,90,0,0,0,0,1,0,0,0,73,1,0,0,0.0,0.0,0.1,6,0,63,68,92.6,12,45,1,1,1,Internazionale,2022-04-27 Bologna-Inter,ITA-SERIA_A,21-22,a44bfac1
+6928979a,Nicolò Barella,23,ITA,CM,25-079,62,0,0,0,0,1,0,1,0,70,2,2,1,0.0,0.0,0.3,4,1,56,63,88.9,6,48,7,1,1,Internazionale,2022-04-27 Bologna-Inter,ITA-SERIA_A,21-22,a44bfac1
+2c0f8e9e,Alexis Sánchez,7,CHI,LW,33-129,28,0,0,0,0,1,0,0,0,28,2,0,0,0.1,0.1,0.2,2,0,16,25,64.0,2,15,1,1,1,Internazionale,2022-04-27 Bologna-Inter,ITA-SERIA_A,21-22,a44bfac1
+6fe90922,Ivan Perišić,14,CRO,"WB,LM",33-084,90,1,0,0,0,1,1,0,0,67,0,1,0,0.0,0.0,0.3,7,1,48,61,78.7,8,39,7,2,1,Internazionale,2022-04-27 Bologna-Inter,ITA-SERIA_A,21-22,a44bfac1
+481c9ece,Denzel Dumfries,2,NED,"WB,RM",26-009,79,0,0,0,0,2,0,1,0,41,1,0,0,0.2,0.2,0.1,1,0,24,34,70.6,0,27,0,0,0,Internazionale,2022-04-27 Bologna-Inter,ITA-SERIA_A,21-22,a44bfac1
+96e0490d,Matteo Darmian,36,ITA,RM,32-146,11,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,0,0,8,10,80.0,3,3,0,0,0,Internazionale,2022-04-27 Bologna-Inter,ITA-SERIA_A,21-22,a44bfac1
+970b8574,Federico Dimarco,32,ITA,CB,24-168,69,0,0,0,0,5,3,0,0,82,3,0,0,0.3,0.3,0.2,6,0,63,71,88.7,8,46,3,1,1,Internazionale,2022-04-27 Bologna-Inter,ITA-SERIA_A,21-22,a44bfac1
+44eb9093,Danilo D'Ambrosio,33,ITA,CB,33-230,21,0,0,0,0,4,0,0,0,21,1,1,0,0.3,0.3,0.0,1,0,11,15,73.3,0,11,0,0,0,Internazionale,2022-04-27 Bologna-Inter,ITA-SERIA_A,21-22,a44bfac1
+d0d8dd44,Stefan de Vrij,6,NED,CB,30-081,90,0,0,0,0,0,0,0,0,53,0,1,0,0.0,0.0,0.0,0,0,42,50,84.0,4,31,1,0,0,Internazionale,2022-04-27 Bologna-Inter,ITA-SERIA_A,21-22,a44bfac1
+30f5ffa9,Milan Škriniar,37,SVK,CB,27-075,90,0,0,0,0,1,0,0,0,82,1,0,0,0.1,0.1,0.0,4,0,69,74,93.2,5,51,1,1,1,Internazionale,2022-04-27 Bologna-Inter,ITA-SERIA_A,21-22,a44bfac1
+67f649be,Ionuț Radu,97,ROU,GK,24-334,90,0,0,0,0,0,0,0,0,24,0,0,0,0.0,0.0,0.0,0,0,19,23,82.6,0,15,0,0,0,Internazionale,2022-04-27 Bologna-Inter,ITA-SERIA_A,21-22,a44bfac1

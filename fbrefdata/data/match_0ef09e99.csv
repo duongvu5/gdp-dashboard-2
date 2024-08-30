@@ -1,0 +1,32 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+e468c053,Gervinho,27,CIV,"FW,CM",33-130,90,0,0,0,0,2,0,0,0,36,0,0,0,0.1,0.1,0.1,3,0,21,26,80.8,1,22,5,4,2,Parma,2020-10-04 Parma-Hellas Verona,ITA-SERIA_A,20-21,0ef09e99
+8b66d9cc,Yann Karamoh,10,FRA,FW,22-088,62,0,1,0,0,1,0,0,0,22,0,0,0,0.0,0.0,0.6,3,1,16,18,88.9,3,13,6,0,0,Parma,2020-10-04 Parma-Hellas Verona,ITA-SERIA_A,20-21,0ef09e99
+c693347d,Andreas Cornelius,11,DEN,FW,27-202,28,0,0,0,0,1,1,0,0,8,0,0,0,0.1,0.1,0.0,0,0,2,5,40.0,0,5,0,0,0,Parma,2020-10-04 Parma-Hellas Verona,ITA-SERIA_A,20-21,0ef09e99
+5aaef9ef,Juraj Kucka,33,SVK,"AM,RM",33-221,90,0,0,0,0,2,0,0,0,52,4,1,1,0.1,0.1,0.1,4,0,19,36,52.8,0,15,0,2,0,Parma,2020-10-04 Parma-Hellas Verona,ITA-SERIA_A,20-21,0ef09e99
+144607cc,Jasmin Kurtić,14,SVN,LM,31-268,73,1,0,0,0,3,2,0,0,31,1,0,0,0.7,0.7,0.0,1,0,21,25,84.0,2,16,0,0,0,Parma,2020-10-04 Parma-Hellas Verona,ITA-SERIA_A,20-21,0ef09e99
+6cc97b6a,Alberto Grassi,8,ITA,LM,25-211,17,0,0,0,0,0,0,0,0,7,0,2,0,0.0,0.0,0.0,0,0,1,2,50.0,0,4,0,1,0,Parma,2020-10-04 Parma-Hellas Verona,ITA-SERIA_A,20-21,0ef09e99
+e947ee4a,Gastón Brugman,15,URU,CM,28-027,90,0,0,0,0,1,1,0,0,54,1,1,1,0.1,0.1,0.0,1,0,37,46,80.4,5,16,0,0,0,Parma,2020-10-04 Parma-Hellas Verona,ITA-SERIA_A,20-21,0ef09e99
+6f5ead86,Hernani,23,BRA,RM,26-191,62,0,0,0,0,1,0,0,0,44,1,2,1,0.0,0.0,0.0,2,0,24,32,75.0,2,19,1,0,0,Parma,2020-10-04 Parma-Hellas Verona,ITA-SERIA_A,20-21,0ef09e99
+173061c0,Riccardo Gagliolo,7,SWE,CB,30-159,28,0,0,0,0,0,0,0,0,15,0,0,0,0.0,0.0,0.1,1,0,11,15,73.3,1,1,0,1,1,Parma,2020-10-04 Parma-Hellas Verona,ITA-SERIA_A,20-21,0ef09e99
+149c5f5d,Giuseppe Pezzella,3,ITA,LB,22-310,90,0,0,0,0,0,0,0,0,43,1,2,2,0.0,0.0,0.0,1,0,23,32,71.9,4,22,0,2,1,Parma,2020-10-04 Parma-Hellas Verona,ITA-SERIA_A,20-21,0ef09e99
+585a73a8,Bruno Alves,22,POR,CB,38-312,90,0,0,0,0,0,0,1,0,28,0,2,1,0.0,0.0,0.0,0,0,16,21,76.2,2,6,0,0,0,Parma,2020-10-04 Parma-Hellas Verona,ITA-SERIA_A,20-21,0ef09e99
+2990c466,Kastriot Dermaku,21,ALB,CB,28-263,90,0,0,0,0,0,0,0,0,42,1,1,0,0.0,0.0,0.0,0,0,31,33,93.9,0,10,0,0,0,Parma,2020-10-04 Parma-Hellas Verona,ITA-SERIA_A,20-21,0ef09e99
+3535098b,Vincent Laurini,16,FRA,RB,31-116,62,0,0,0,0,0,0,0,0,39,0,1,1,0.0,0.0,0.0,1,1,25,34,73.5,2,11,0,0,0,Parma,2020-10-04 Parma-Hellas Verona,ITA-SERIA_A,20-21,0ef09e99
+96e0490d,Matteo Darmian,36,ITA,RB,30-307,28,0,0,0,0,0,0,0,0,10,0,1,0,0.0,0.0,0.0,1,0,3,7,42.9,0,0,0,0,0,Parma,2020-10-04 Parma-Hellas Verona,ITA-SERIA_A,20-21,0ef09e99
+343f753a,Luigi Sepe,1,ITA,GK,29-149,90,0,0,0,0,0,0,0,0,45,0,0,0,0.0,0.0,0.0,0,0,23,41,56.1,0,16,0,0,0,Parma,2020-10-04 Parma-Hellas Verona,ITA-SERIA_A,20-21,0ef09e99
+44510fde,Andrea Favilli,11,ITA,FW,23-140,90,0,0,0,0,3,0,0,0,23,0,0,0,0.1,0.1,0.0,0,0,8,13,61.5,0,16,3,2,1,Hellas Verona,2020-10-04 Parma-Hellas Verona,ITA-SERIA_A,20-21,0ef09e99
+d85c238b,Mattia Zaccagni,20,ITA,AM,25-110,57,0,0,0,0,0,0,0,0,17,0,0,0,0.0,0.0,0.0,0,0,9,15,60.0,1,12,2,0,0,Hellas Verona,2020-10-04 Parma-Hellas Verona,ITA-SERIA_A,20-21,0ef09e99
+bf356094,Ebrima Colley,90,GAM,"AM,LW",20-246,33,0,0,0,0,0,0,0,0,20,0,0,0,0.0,0.0,0.0,0,0,13,18,72.2,1,14,4,1,0,Hellas Verona,2020-10-04 Parma-Hellas Verona,ITA-SERIA_A,20-21,0ef09e99
+01efac19,Antonín Barák,7,CZE,AM,25-306,57,0,0,0,0,1,1,0,0,22,0,0,0,0.0,0.0,0.1,1,0,15,19,78.9,2,15,1,0,0,Hellas Verona,2020-10-04 Parma-Hellas Verona,ITA-SERIA_A,20-21,0ef09e99
+0489bb30,Eddie Salcedo,9,ITA,"AM,RM",19-003,33,0,0,0,0,0,0,0,0,12,1,0,2,0.0,0.0,0.0,0,0,6,8,75.0,0,4,1,1,0,Hellas Verona,2020-10-04 Parma-Hellas Verona,ITA-SERIA_A,20-21,0ef09e99
+bb376bed,Ivan Ilić,14,SRB,CM,19-201,90,0,0,0,0,0,0,0,0,89,1,1,0,0.0,0.0,0.0,2,0,67,80,83.8,12,54,6,1,1,Hellas Verona,2020-10-04 Parma-Hellas Verona,ITA-SERIA_A,20-21,0ef09e99
+8da74c05,Adrien Tameze,61,CMR,CM,26-243,90,0,0,0,0,0,0,0,0,67,1,0,0,0.0,0.0,0.0,1,0,54,62,87.1,10,39,5,1,1,Hellas Verona,2020-10-04 Parma-Hellas Verona,ITA-SERIA_A,20-21,0ef09e99
+970b8574,Federico Dimarco,3,ITA,"CB,WB",22-329,90,0,0,0,0,0,0,1,0,100,4,2,1,0.0,0.0,0.4,6,0,70,92,76.1,12,59,6,1,1,Hellas Verona,2020-10-04 Parma-Hellas Verona,ITA-SERIA_A,20-21,0ef09e99
+aae9d04a,Davide Faraoni,5,ITA,"WB,CB",28-345,90,0,0,0,0,1,0,0,0,48,1,0,2,0.3,0.3,0.0,0,0,27,42,64.3,2,19,1,1,1,Hellas Verona,2020-10-04 Parma-Hellas Verona,ITA-SERIA_A,20-21,0ef09e99
+5fa57166,Matteo Lovato,6,ITA,CB,20-233,44,0,0,0,0,0,0,0,0,28,0,0,0,0.0,0.0,0.0,2,0,22,27,81.5,7,16,3,0,0,Hellas Verona,2020-10-04 Parma-Hellas Verona,ITA-SERIA_A,20-21,0ef09e99
+5128bde4,Darko Lazović,8,SRB,"WB,LM",30-019,46,0,0,0,0,1,0,0,0,33,0,1,0,0.1,0.1,0.0,0,0,17,24,70.8,6,21,1,2,1,Hellas Verona,2020-10-04 Parma-Hellas Verona,ITA-SERIA_A,20-21,0ef09e99
+f1f1f238,Koray Günter,21,GER,CB,26-049,90,0,0,0,0,1,1,0,0,101,1,4,3,0.1,0.1,0.0,1,0,82,87,94.3,8,55,1,1,1,Hellas Verona,2020-10-04 Parma-Hellas Verona,ITA-SERIA_A,20-21,0ef09e99
+c730da00,Yıldırım Mert Çetin,15,TUR,CB,23-277,85,0,0,0,0,0,0,0,0,51,1,0,1,0.0,0.0,0.0,0,0,37,45,82.2,2,24,2,1,0,Hellas Verona,2020-10-04 Parma-Hellas Verona,ITA-SERIA_A,20-21,0ef09e99
+b02af64f,Ľubomír Tupta,29,SVK,RW,22-191,5,0,0,0,0,1,0,0,0,3,0,0,0,0.0,0.0,0.0,1,0,2,2,100.0,0,1,0,0,0,Hellas Verona,2020-10-04 Parma-Hellas Verona,ITA-SERIA_A,20-21,0ef09e99
+0d422df7,Marco Silvestri,1,ITA,GK,29-216,90,0,0,0,0,0,0,0,0,31,0,0,0,0.0,0.0,0.0,0,0,26,29,89.7,0,16,0,0,0,Hellas Verona,2020-10-04 Parma-Hellas Verona,ITA-SERIA_A,20-21,0ef09e99

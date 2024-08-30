@@ -1,0 +1,29 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+d5dd5f1f,Pierre-Emerick Aubameyang,14,GAB,FW,30-163,90,1,0,0,0,2,1,0,0,46,1,0,0,0.6,0.6,0.1,2,0,23,33,69.7,5,20,1,1,0,Arsenal,2019-11-28 Arsenal-Eint Frankfurt,UEL,19-20,d38f5b61
+bc7dc64d,Bukayo Saka,77,ENG,LW,18-084,90,0,0,0,0,3,2,0,0,44,2,0,2,0.2,0.2,0.6,6,1,17,24,70.8,2,27,4,5,4,Arsenal,2019-11-28 Arsenal-Eint Frankfurt,UEL,19-20,d38f5b61
+48a5a5d6,Gabriel Martinelli,35,BRA,RW,18-163,59,0,1,0,0,2,1,1,0,36,4,0,0,0.3,0.3,0.0,3,1,13,21,61.9,5,14,1,1,0,Arsenal,2019-11-28 Arsenal-Eint Frankfurt,UEL,19-20,d38f5b61
+16380240,Mesut Özil,10,GER,RW,31-044,31,0,0,0,0,0,0,0,0,24,0,0,0,0.0,0.0,0.0,1,0,18,23,78.3,1,19,0,2,2,Arsenal,2019-11-28 Arsenal-Eint Frankfurt,UEL,19-20,d38f5b61
+a3b03921,Joe Willock,28,ENG,AM,20-100,90,0,0,0,0,1,0,0,0,56,2,1,1,0.1,0.1,0.1,3,0,26,37,70.3,2,34,7,6,4,Arsenal,2019-11-28 Arsenal-Eint Frankfurt,UEL,19-20,d38f5b61
+e61b8aee,Granit Xhaka,34,SUI,"DM,CB",27-062,90,0,0,0,0,1,0,1,0,62,3,0,1,0.1,0.1,0.2,4,0,43,53,81.1,6,29,1,2,2,Arsenal,2019-11-28 Arsenal-Eint Frankfurt,UEL,19-20,d38f5b61
+c0e27d1a,David Luiz,23,BRA,DM,32-220,30,0,0,0,0,0,0,0,0,18,2,1,0,0.0,0.0,0.0,0,0,6,12,50.0,0,7,0,0,0,Arsenal,2019-11-28 Arsenal-Eint Frankfurt,UEL,19-20,d38f5b61
+5ea8ef20,Mattéo Guendouzi,29,FRA,DM,20-228,60,0,0,0,0,0,0,1,0,55,5,0,1,0.0,0.0,0.0,1,0,38,42,90.5,7,30,0,0,0,Arsenal,2019-11-28 Arsenal-Eint Frankfurt,UEL,19-20,d38f5b61
+fce2302c,Kieran Tierney,3,SCO,LB,22-176,90,0,0,0,0,0,0,0,0,69,0,0,3,0.0,0.0,0.0,0,0,42,58,72.4,4,31,2,1,0,Arsenal,2019-11-28 Arsenal-Eint Frankfurt,UEL,19-20,d38f5b61
+b682dcf6,Sokratis Papastathopoulos,5,GRE,CB,31-172,90,0,0,0,0,0,0,0,0,62,0,0,1,0.0,0.0,0.0,0,0,54,58,93.1,1,42,1,0,0,Arsenal,2019-11-28 Arsenal-Eint Frankfurt,UEL,19-20,d38f5b61
+3f2d59fe,Shkodran Mustafi,20,GER,CB,27-225,75,0,0,0,0,0,0,1,0,57,1,3,0,0.0,0.0,0.0,0,0,39,50,78.0,1,32,0,0,0,Arsenal,2019-11-28 Arsenal-Eint Frankfurt,UEL,19-20,d38f5b61
+52611641,Lucas Torreira,11,URU,DM,23-290,15,0,0,0,0,0,0,0,0,16,0,0,0,0.0,0.0,0.0,0,0,14,15,93.3,2,11,0,2,1,Arsenal,2019-11-28 Arsenal-Eint Frankfurt,UEL,19-20,d38f5b61
+dc6f5bdd,Calum Chambers,21,ENG,RB,24-312,90,0,0,0,0,2,1,0,0,83,4,2,2,0.1,0.1,0.0,0,0,49,65,75.4,9,26,1,1,1,Arsenal,2019-11-28 Arsenal-Eint Frankfurt,UEL,19-20,d38f5b61
+7956236f,Emiliano Martínez,26,ARG,GK,27-087,90,0,0,0,0,0,0,0,0,31,0,0,0,0.0,0.0,0.0,0,0,23,30,76.7,0,16,0,0,0,Arsenal,2019-11-28 Arsenal-Eint Frankfurt,UEL,19-20,d38f5b61
+962e54cb,Gonçalo Paciência,39,POR,FW,25-119,90,0,0,0,0,1,0,1,0,42,0,1,4,0.2,0.2,0.0,1,0,10,19,52.6,2,21,0,2,1,Eintracht Frankfurt,2019-11-28 Arsenal-Eint Frankfurt,UEL,19-20,d38f5b61
+3effaa34,André Silva,33,POR,FW,24-022,45,0,0,0,0,0,0,0,0,18,0,0,0,0.0,0.0,0.0,1,0,12,14,85.7,3,8,1,0,0,Eintracht Frankfurt,2019-11-28 Arsenal-Eint Frankfurt,UEL,19-20,d38f5b61
+16daec92,Mijat Gaćinović,11,SRB,AM,24-293,45,0,0,0,0,1,0,0,0,19,1,0,0,0.1,0.1,0.0,0,0,11,14,78.6,0,11,2,1,0,Eintracht Frankfurt,2019-11-28 Arsenal-Eint Frankfurt,UEL,19-20,d38f5b61
+15b287da,Daichi Kamada,15,JPN,AM,23-115,90,2,0,0,0,2,2,0,0,42,2,1,1,0.1,0.1,0.7,3,0,20,28,71.4,5,20,3,2,2,Eintracht Frankfurt,2019-11-28 Arsenal-Eint Frankfurt,UEL,19-20,d38f5b61
+8e58987d,Gelson Fernandes,5,SUI,CM,33-087,45,0,0,0,0,0,0,0,0,31,0,2,3,0.0,0.0,0.0,0,0,19,23,82.6,3,8,0,0,0,Eintracht Frankfurt,2019-11-28 Arsenal-Eint Frankfurt,UEL,19-20,d38f5b61
+0fbecd11,Dominik Kohr,28,GER,CM,25-301,45,0,0,0,0,1,0,0,0,23,0,1,3,0.0,0.0,0.0,2,1,11,14,78.6,4,7,0,2,1,Eintracht Frankfurt,2019-11-28 Arsenal-Eint Frankfurt,UEL,19-20,d38f5b61
+4c6facae,Djibril Sow,8,SUI,CM,22-295,90,0,0,0,0,0,0,0,0,53,4,0,0,0.0,0.0,0.1,4,0,37,45,82.2,9,26,1,2,1,Eintracht Frankfurt,2019-11-28 Arsenal-Eint Frankfurt,UEL,19-20,d38f5b61
+b1cd37e6,Filip Kostić,10,SRB,WB,27-027,90,0,0,0,0,3,2,1,0,47,6,0,1,0.1,0.1,0.0,1,1,15,34,44.1,3,26,3,2,1,Eintracht Frankfurt,2019-11-28 Arsenal-Eint Frankfurt,UEL,19-20,d38f5b61
+5ddb8f9f,Danny da Costa,24,GER,WB,26-138,90,0,1,0,0,1,0,0,0,42,1,1,2,0.7,0.7,0.2,3,1,19,31,61.3,0,13,1,0,0,Eintracht Frankfurt,2019-11-28 Arsenal-Eint Frankfurt,UEL,19-20,d38f5b61
+080440a4,Martin Hinteregger,13,AUT,CB,27-082,90,0,0,0,0,0,0,0,0,50,2,2,1,0.0,0.0,0.0,0,0,30,41,73.2,4,18,0,3,3,Eintracht Frankfurt,2019-11-28 Arsenal-Eint Frankfurt,UEL,19-20,d38f5b61
+9ab16552,Makoto Hasebe,20,JPN,CB,35-314,90,0,0,0,0,0,0,0,0,46,2,1,0,0.0,0.0,0.0,1,0,26,36,72.2,3,24,0,1,1,Eintracht Frankfurt,2019-11-28 Arsenal-Eint Frankfurt,UEL,19-20,d38f5b61
+565bf0da,David Abraham,19,ARG,CB,33-136,90,0,0,0,0,0,0,1,0,43,4,1,3,0.0,0.0,0.0,0,0,24,35,68.6,3,13,0,0,0,Eintracht Frankfurt,2019-11-28 Arsenal-Eint Frankfurt,UEL,19-20,d38f5b61
+a70b8345,Frederik Rønnow,32,DEN,GK,27-116,90,0,0,0,0,0,0,0,0,42,0,0,0,0.0,0.0,0.0,0,0,24,38,63.2,0,18,0,0,0,Eintracht Frankfurt,2019-11-28 Arsenal-Eint Frankfurt,UEL,19-20,d38f5b61

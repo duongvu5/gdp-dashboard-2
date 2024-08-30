@@ -1,0 +1,32 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+e468c053,Gervinho,27,CIV,"FW,LW",33-151,90,0,0,0,0,1,0,0,0,18,0,0,0,0.0,0.0,0.1,2,0,11,14,78.6,1,15,4,7,4,Parma,2020-10-25 Parma-Spezia,ITA-SERIA_A,20-21,537f2b44
+c693347d,Andreas Cornelius,11,DEN,FW,27-223,90,0,0,0,0,2,1,0,0,33,0,0,1,0.1,0.1,0.6,3,1,17,24,70.8,2,18,0,2,1,Parma,2020-10-25 Parma-Spezia,ITA-SERIA_A,20-21,537f2b44
+5aaef9ef,Juraj Kucka,33,SVK,AM,33-242,90,1,0,1,1,1,0,0,0,32,2,0,0,1.1,0.3,0.1,5,0,22,25,88.0,3,17,0,0,0,Parma,2020-10-25 Parma-Spezia,ITA-SERIA_A,20-21,537f2b44
+144607cc,Jasmin Kurtić,14,SVN,"LM,DM",31-289,78,0,0,0,0,1,1,0,0,44,1,1,2,0.1,0.1,0.1,4,1,25,35,71.4,3,21,2,1,0,Parma,2020-10-25 Parma-Spezia,ITA-SERIA_A,20-21,537f2b44
+a5f458d9,Simon Sohm,19,SUI,DM,19-197,12,0,0,0,0,0,0,1,0,10,0,0,0,0.0,0.0,0.0,0,0,6,10,60.0,0,6,0,0,0,Parma,2020-10-25 Parma-Spezia,ITA-SERIA_A,20-21,537f2b44
+e947ee4a,Gastón Brugman,15,URU,CM,28-048,52,0,0,0,0,1,0,0,0,44,0,0,5,0.1,0.1,0.1,3,0,31,36,86.1,4,16,0,1,1,Parma,2020-10-25 Parma-Spezia,ITA-SERIA_A,20-21,537f2b44
+3e092724,Wylan Cyprien,18,FRA,DM,25-271,38,0,0,0,0,1,0,0,0,40,1,0,1,0.1,0.1,0.1,4,1,29,38,76.3,1,15,1,1,1,Parma,2020-10-25 Parma-Spezia,ITA-SERIA_A,20-21,537f2b44
+6f5ead86,Hernani,23,BRA,RM,26-212,52,0,0,0,0,0,0,1,0,23,2,2,2,0.0,0.0,0.0,1,0,7,13,53.8,1,11,1,1,0,Parma,2020-10-25 Parma-Spezia,ITA-SERIA_A,20-21,537f2b44
+8b66d9cc,Yann Karamoh,10,FRA,RW,22-109,38,0,0,0,0,3,2,0,0,17,1,0,0,1.0,1.0,0.0,0,0,9,12,75.0,2,10,0,1,1,Parma,2020-10-25 Parma-Spezia,ITA-SERIA_A,20-21,537f2b44
+149c5f5d,Giuseppe Pezzella,3,ITA,LB,22-331,90,0,0,0,0,2,0,0,0,77,3,2,1,0.0,0.0,0.1,2,0,47,62,75.8,4,39,4,4,2,Parma,2020-10-25 Parma-Spezia,ITA-SERIA_A,20-21,537f2b44
+173061c0,Riccardo Gagliolo,7,SWE,CB,30-180,90,1,0,0,0,4,1,0,0,78,2,2,2,1.1,1.1,0.0,2,0,53,67,79.1,6,43,0,1,1,Parma,2020-10-25 Parma-Spezia,ITA-SERIA_A,20-21,537f2b44
+63071a3f,Simone Iacoponi,2,ITA,CB,33-178,90,0,0,0,0,0,0,0,0,62,1,0,0,0.0,0.0,0.0,1,0,47,61,77.0,5,39,0,0,0,Parma,2020-10-25 Parma-Spezia,ITA-SERIA_A,20-21,537f2b44
+6cc97b6a,Alberto Grassi,8,ITA,RB,25-232,90,0,0,0,0,0,0,1,0,51,2,1,2,0.0,0.0,0.3,1,0,39,44,88.6,3,12,2,0,0,Parma,2020-10-25 Parma-Spezia,ITA-SERIA_A,20-21,537f2b44
+343f753a,Luigi Sepe,1,ITA,GK,29-170,90,0,0,0,0,0,0,0,0,29,0,0,0,0.0,0.0,0.0,1,0,20,28,71.4,0,14,0,0,0,Parma,2020-10-25 Parma-Spezia,ITA-SERIA_A,20-21,537f2b44
+a4948e67,M'Bala Nzola,18,ANG,FW,24-068,81,0,1,0,0,2,1,0,0,37,0,0,0,0.1,0.1,0.2,4,2,17,26,65.4,1,20,1,2,2,Spezia,2020-10-25 Parma-Spezia,ITA-SERIA_A,20-21,537f2b44
+1cadaf34,Roberto Piccoli,91,ITA,FW,19-272,9,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,1,3,33.3,0,3,0,0,0,Spezia,2020-10-25 Parma-Spezia,ITA-SERIA_A,20-21,537f2b44
+f9758dae,Emmanuel Gyasi,11,GHA,LW,26-288,90,0,0,0,0,2,2,0,0,22,0,0,0,0.1,0.1,0.1,2,0,15,18,83.3,1,16,4,0,0,Spezia,2020-10-25 Parma-Spezia,ITA-SERIA_A,20-21,537f2b44
+46fa7204,Kevin Agudelo,80,COL,RW,21-346,62,1,0,0,0,1,1,0,0,30,2,1,1,0.1,0.1,0.1,1,0,15,22,68.2,3,16,2,3,2,Spezia,2020-10-25 Parma-Spezia,ITA-SERIA_A,20-21,537f2b44
+d3298c99,Daniele Verde,31,ITA,RW,24-127,28,0,0,0,0,3,0,0,0,15,0,0,0,0.1,0.1,0.0,3,0,10,11,90.9,2,12,2,3,2,Spezia,2020-10-25 Parma-Spezia,ITA-SERIA_A,20-21,537f2b44
+55a1cac2,Tommaso Pobega,26,ITA,LM,21-102,53,0,0,0,0,0,0,1,0,28,0,1,0,0.0,0.0,0.0,1,0,18,26,69.2,3,12,1,0,0,Spezia,2020-10-25 Parma-Spezia,ITA-SERIA_A,20-21,537f2b44
+cec60a2f,Nahuel Estévez,24,ARG,LM,24-346,37,0,0,0,0,2,1,0,0,19,1,0,1,0.1,0.1,0.0,1,0,9,13,69.2,2,6,1,0,0,Spezia,2020-10-25 Parma-Spezia,ITA-SERIA_A,20-21,537f2b44
+8bc8829a,Lucien Agoume,10,FRA,CM,18-259,90,0,0,0,0,1,0,0,0,66,1,1,1,0.1,0.1,0.0,3,0,52,58,89.7,8,33,1,0,0,Spezia,2020-10-25 Parma-Spezia,ITA-SERIA_A,20-21,537f2b44
+6029a945,Paolo Bartolomei,16,ITA,RM,31-064,90,0,0,0,0,0,0,0,0,48,4,0,1,0.0,0.0,0.1,2,1,33,42,78.6,2,24,4,2,2,Spezia,2020-10-25 Parma-Spezia,ITA-SERIA_A,20-21,537f2b44
+1ac232b8,Simone Bastoni,20,ITA,LB,23-355,62,0,1,0,0,1,0,0,0,51,2,0,2,0.0,0.0,0.1,3,1,32,42,76.2,5,24,0,2,2,Spezia,2020-10-25 Parma-Spezia,ITA-SERIA_A,20-21,537f2b44
+b0243215,Cristian Dell'Orco,39,ITA,LB,26-258,28,0,0,0,0,1,0,0,0,14,0,0,0,0.1,0.1,0.0,0,0,6,11,54.5,0,4,0,0,0,Spezia,2020-10-25 Parma-Spezia,ITA-SERIA_A,20-21,537f2b44
+ae7058f9,Julian Chabot,22,GER,CB,22-256,90,1,0,0,0,1,1,0,0,50,1,2,0,0.1,0.1,0.1,2,0,37,44,84.1,3,33,0,0,0,Spezia,2020-10-25 Parma-Spezia,ITA-SERIA_A,20-21,537f2b44
+5570e6fb,Claudio Terzi,19,ITA,CB,36-128,90,0,0,0,0,0,0,0,0,73,0,3,2,0.0,0.0,0.0,0,0,59,64,92.2,2,43,0,0,0,Spezia,2020-10-25 Parma-Spezia,ITA-SERIA_A,20-21,537f2b44
+da5a981b,Jacopo Sala,7,ITA,RB,28-325,54,0,0,0,0,0,0,0,0,52,2,2,0,0.0,0.0,0.0,0,0,39,47,83.0,4,27,1,0,0,Spezia,2020-10-25 Parma-Spezia,ITA-SERIA_A,20-21,537f2b44
+eb76987d,Salvador Ferrer,21,ESP,RB,22-278,36,0,0,0,0,0,0,1,0,25,1,1,1,0.0,0.0,0.0,0,0,15,19,78.9,2,10,1,0,0,Spezia,2020-10-25 Parma-Spezia,ITA-SERIA_A,20-21,537f2b44
+277da414,Ivan Provedel,94,ITA,GK,26-222,90,0,0,0,0,0,0,0,0,50,0,0,0,0.0,0.0,0.0,0,0,36,44,81.8,0,24,0,0,0,Spezia,2020-10-25 Parma-Spezia,ITA-SERIA_A,20-21,537f2b44

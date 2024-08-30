@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+8ff07990,Mario Balotelli,45,ITA,FW,29-089,45,0,0,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.0,0,0,4,8,50.0,1,6,1,1,1,Brescia,2019-11-09 Brescia-Torino,ITA-SERIA_A,19-20,a95e968b
+1e12c53b,Bruno Martella,26,ITA,LB,27-087,45,0,0,0,0,2,0,0,0,31,1,0,0,0.1,0.1,0.0,1,0,18,27,66.7,3,15,0,3,2,Brescia,2019-11-09 Brescia-Torino,ITA-SERIA_A,19-20,a95e968b
+718b8afd,Florian Ayé,18,FRA,"FW,LM",22-294,83,0,0,0,0,2,1,0,0,26,1,0,0,0.2,0.2,0.0,1,0,9,13,69.2,1,15,0,0,0,Brescia,2019-11-09 Brescia-Torino,ITA-SERIA_A,19-20,a95e968b
+cbec1196,Jaromír Zmrhal,8,CZE,LM,26-099,7,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,2,0,0,0,Brescia,2019-11-09 Brescia-Torino,ITA-SERIA_A,19-20,a95e968b
+9e90fb5d,Nikolas Špalek,7,SVK,"AM,LM",22-270,59,0,0,0,0,1,1,0,0,25,2,0,2,0.1,0.1,0.1,2,0,14,18,77.8,1,11,2,0,0,Brescia,2019-11-09 Brescia-Torino,ITA-SERIA_A,19-20,a95e968b
+5592007b,Alfredo Donnarumma,9,ITA,FW,28-344,31,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,4,6,66.7,0,5,0,1,1,Brescia,2019-11-09 Brescia-Torino,ITA-SERIA_A,19-20,a95e968b
+07abb358,Rômulo,28,ITA,"CM,LM",32-171,90,0,0,0,0,0,0,0,0,41,2,0,2,0.0,0.0,0.0,2,0,30,33,90.9,1,22,0,2,1,Brescia,2019-11-09 Brescia-Torino,ITA-SERIA_A,19-20,a95e968b
+0db169ae,Sandro Tonali,4,ITA,CM,19-185,90,0,0,0,0,1,0,1,0,54,0,1,1,0.1,0.1,0.2,5,0,36,46,78.3,7,22,1,2,1,Brescia,2019-11-09 Brescia-Torino,ITA-SERIA_A,19-20,a95e968b
+16569fef,Dimitri Bisoli,25,ITA,RM,25-229,90,0,0,0,0,1,0,0,0,41,3,2,0,0.1,0.1,0.1,3,0,15,31,48.4,2,25,2,3,3,Brescia,2019-11-09 Brescia-Torino,ITA-SERIA_A,19-20,a95e968b
+deb748c9,Aleš Matějů,3,CZE,LB,23-159,40,0,0,0,0,0,0,2,1,36,3,1,1,0.0,0.0,0.0,0,0,22,27,81.5,5,20,0,0,0,Brescia,2019-11-09 Brescia-Torino,ITA-SERIA_A,19-20,a95e968b
+cce9f582,Giangiacomo Magnani,20,ITA,CB,24-036,90,0,0,0,0,2,1,1,0,47,0,0,1,0.2,0.2,0.0,0,0,26,35,74.3,0,22,0,1,1,Brescia,2019-11-09 Brescia-Torino,ITA-SERIA_A,19-20,a95e968b
+fe6a7685,Andrea Cistana,15,ITA,CB,22-222,90,0,0,0,0,0,0,1,0,53,2,2,0,0.0,0.0,0.0,0,0,38,44,86.4,4,27,1,0,0,Brescia,2019-11-09 Brescia-Torino,ITA-SERIA_A,19-20,a95e968b
+0ccac09c,Stefano Sabelli,2,ITA,RB,26-300,90,0,0,0,0,0,0,0,0,67,2,2,1,0.0,0.0,0.1,3,0,46,58,79.3,7,34,4,3,2,Brescia,2019-11-09 Brescia-Torino,ITA-SERIA_A,19-20,a95e968b
+7f66ea09,Jesse Joronen,1,FIN,GK,26-233,90,0,0,0,0,0,0,0,0,30,0,0,0,0.0,0.0,0.0,0,0,19,26,73.1,0,8,0,0,0,Brescia,2019-11-09 Brescia-Torino,ITA-SERIA_A,19-20,a95e968b
+d705ba44,Andrea Belotti,9,ITA,FW,25-324,90,2,0,2,2,4,3,0,0,35,1,1,1,2.0,0.5,0.0,4,1,15,18,83.3,1,15,3,2,2,Torino,2019-11-09 Brescia-Torino,ITA-SERIA_A,19-20,a95e968b
+0375723e,Simone Verdi,24,ITA,FW,27-120,61,0,0,0,0,4,0,0,0,51,1,0,0,0.5,0.5,0.1,4,1,30,39,76.9,4,33,3,2,2,Torino,2019-11-09 Brescia-Torino,ITA-SERIA_A,19-20,a95e968b
+dc1c2fce,Álex Berenguer,21,ESP,FW,24-128,29,2,0,0,0,2,2,0,0,17,1,0,0,0.5,0.5,0.1,3,1,9,12,75.0,0,13,3,1,1,Torino,2019-11-09 Brescia-Torino,ITA-SERIA_A,19-20,a95e968b
+c6e8cf1f,Saša Lukić,7,SRB,DM,23-088,66,0,0,0,0,1,0,1,0,37,2,1,1,0.0,0.0,0.1,4,0,23,28,82.1,2,22,3,1,1,Torino,2019-11-09 Brescia-Torino,ITA-SERIA_A,19-20,a95e968b
+f26e3c59,Diego Laxalt,93,URU,DM,26-275,24,0,1,0,0,1,0,0,0,16,1,0,0,0.1,0.1,0.1,2,1,13,16,81.3,1,9,1,1,1,Torino,2019-11-09 Brescia-Torino,ITA-SERIA_A,19-20,a95e968b
+f1cfc209,Tomás Rincón,88,VEN,DM,31-300,90,0,0,0,0,1,0,0,0,65,2,1,1,0.0,0.0,0.0,3,0,52,60,86.7,4,29,3,1,1,Torino,2019-11-09 Brescia-Torino,ITA-SERIA_A,19-20,a95e968b
+5cec2c74,Soualiho Meïté,23,FRA,DM,25-237,90,0,1,0,0,3,0,1,0,45,0,0,1,0.1,0.1,0.4,3,1,25,32,78.1,5,26,3,5,3,Torino,2019-11-09 Brescia-Torino,ITA-SERIA_A,19-20,a95e968b
+bbafc0c4,Cristian Ansaldi,15,ARG,WB,33-050,77,0,0,0,0,1,0,1,0,56,1,1,0,0.0,0.0,0.3,6,1,33,47,70.2,4,25,2,1,0,Torino,2019-11-09 Brescia-Torino,ITA-SERIA_A,19-20,a95e968b
+e74f0e59,Lorenzo De Silvestri,29,ITA,WB,31-170,13,0,0,0,0,0,0,0,0,10,0,0,1,0.0,0.0,0.0,1,0,5,7,71.4,0,3,0,1,0,Torino,2019-11-09 Brescia-Torino,ITA-SERIA_A,19-20,a95e968b
+246d153b,Ola Aina,34,NGA,WB,23-032,90,0,0,0,0,1,0,0,0,61,2,1,0,0.0,0.0,0.4,4,0,45,53,84.9,6,41,7,2,1,Torino,2019-11-09 Brescia-Torino,ITA-SERIA_A,19-20,a95e968b
+5fd5ed86,Gleison Bremer,36,BRA,CB,22-236,90,0,0,0,0,0,0,0,0,73,5,0,5,0.0,0.0,0.0,1,0,54,60,90.0,0,44,1,0,0,Torino,2019-11-09 Brescia-Torino,ITA-SERIA_A,19-20,a95e968b
+93cf32a8,Nicolas Nkoulou,33,CMR,CB,29-227,90,0,0,0,0,1,0,0,0,50,0,1,1,0.2,0.2,0.0,1,0,38,40,95.0,0,26,0,0,0,Torino,2019-11-09 Brescia-Torino,ITA-SERIA_A,19-20,a95e968b
+89976232,Armando Izzo,5,ITA,CB,27-252,90,0,0,0,0,0,0,0,0,58,3,1,0,0.0,0.0,0.1,1,0,47,50,94.0,2,35,0,0,0,Torino,2019-11-09 Brescia-Torino,ITA-SERIA_A,19-20,a95e968b
+10dc46f0,Salvatore Sirigu,39,ITA,GK,32-301,90,0,0,0,0,0,0,0,0,25,0,0,0,0.0,0.0,0.0,0,0,15,22,68.2,0,9,0,0,0,Torino,2019-11-09 Brescia-Torino,ITA-SERIA_A,19-20,a95e968b

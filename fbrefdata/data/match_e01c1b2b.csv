@@ -1,0 +1,32 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+923f4dda,Serhou Guirassy,9,GUI,FW,25-359,71,0,0,0,0,4,1,0,0,31,0,1,0,0.2,0.2,0.0,2,0,19,22,86.4,4,21,1,0,0,Rennes,2022-03-06 Rennes-Angers,FRA-L1,21-22,e01c1b2b
+fffea3e5,Jeremy Doku,11,BEL,FW,19-283,19,0,1,0,0,0,0,0,0,13,1,0,0,0.0,0.0,0.5,1,1,5,7,71.4,1,9,2,2,2,Rennes,2022-03-06 Rennes-Angers,FRA-L1,21-22,e01c1b2b
+7cdda3bf,Gaëtan Laborde,24,FRA,FW,27-307,90,1,1,0,0,3,2,0,0,46,2,1,2,0.8,0.8,0.1,2,1,21,33,63.6,3,21,2,0,0,Rennes,2022-03-06 Rennes-Angers,FRA-L1,21-22,e01c1b2b
+5148dcc5,Martin Terrier,7,FRA,LM,25-002,83,0,0,0,0,3,0,0,0,37,3,3,0,0.2,0.2,0.1,2,0,19,25,76.0,3,16,4,1,0,Rennes,2022-03-06 Rennes-Angers,FRA-L1,21-22,e01c1b2b
+a0f9b535,Flavien Tait,20,FRA,LM,29-032,7,0,0,0,0,0,0,0,0,7,0,1,0,0.0,0.0,0.0,0,0,4,5,80.0,0,4,0,0,0,Rennes,2022-03-06 Rennes-Angers,FRA-L1,21-22,e01c1b2b
+468fdbad,Jonas Martin,28,FRA,CM,31-331,89,0,0,0,0,0,0,0,0,72,0,2,0,0.0,0.0,0.2,1,0,59,66,89.4,8,38,0,0,0,Rennes,2022-03-06 Rennes-Angers,FRA-L1,21-22,e01c1b2b
+9b5237b1,Andy Diouf,19,FRA,CM,18-293,1,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,0,0,Rennes,2022-03-06 Rennes-Angers,FRA-L1,21-22,e01c1b2b
+5e22e2a4,Baptiste Santamaria,8,FRA,CM,26-362,90,0,0,0,0,1,0,0,0,78,3,4,3,0.1,0.1,0.0,2,0,53,62,85.5,5,37,0,2,0,Rennes,2022-03-06 Rennes-Angers,FRA-L1,21-22,e01c1b2b
+20e73fac,Benjamin Bourigeaud,14,FRA,RM,28-051,89,1,0,0,0,2,1,0,0,75,0,1,0,0.1,0.1,0.5,4,0,48,69,69.6,8,34,2,0,0,Rennes,2022-03-06 Rennes-Angers,FRA-L1,21-22,e01c1b2b
+a3c8b4d3,Loum Tchaouna,17,FRA,RM,18-179,1,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,1,0,1,1,100.0,0,0,0,0,0,Rennes,2022-03-06 Rennes-Angers,FRA-L1,21-22,e01c1b2b
+70c52749,Birger Meling,25,NOR,LB,27-079,70,0,0,0,0,0,0,0,0,81,2,1,2,0.0,0.0,0.1,3,1,57,69,82.6,5,45,2,1,1,Rennes,2022-03-06 Rennes-Angers,FRA-L1,21-22,e01c1b2b
+5d0e0a1f,Adrien Truffert,3,FRA,LB,20-106,20,0,0,0,0,0,0,0,0,13,0,1,0,0.0,0.0,0.0,1,1,8,12,66.7,2,6,1,0,0,Rennes,2022-03-06 Rennes-Angers,FRA-L1,21-22,e01c1b2b
+288e1e13,Nayef Aguerd,6,MAR,CB,25-341,90,0,0,0,0,1,0,1,0,78,5,1,0,0.1,0.1,0.0,1,0,59,65,90.8,2,44,2,0,0,Rennes,2022-03-06 Rennes-Angers,FRA-L1,21-22,e01c1b2b
+4534a352,Warmed Omari,23,FRA,CB,21-317,90,0,0,0,0,0,0,0,0,66,1,1,0,0.0,0.0,0.0,2,0,58,59,98.3,7,42,0,1,1,Rennes,2022-03-06 Rennes-Angers,FRA-L1,21-22,e01c1b2b
+a4b1028a,Hamari Traoré,27,MLI,RB,30-038,90,0,0,0,0,1,0,0,0,93,7,2,2,0.0,0.0,0.1,3,0,73,81,90.1,7,58,6,0,0,Rennes,2022-03-06 Rennes-Angers,FRA-L1,21-22,e01c1b2b
+cecbce23,Alfred Gomis,16,SEN,GK,28-182,90,0,0,0,0,0,0,0,0,36,0,0,0,0.0,0.0,0.0,2,0,28,36,77.8,0,24,0,0,0,Rennes,2022-03-06 Rennes-Angers,FRA-L1,21-22,e01c1b2b
+b0c71810,Sofiane Boufal,7,MAR,FW,28-170,87,0,0,0,0,1,1,0,0,47,1,1,0,0.0,0.0,0.0,0,0,18,27,66.7,4,33,3,10,3,Angers,2022-03-06 Rennes-Angers,FRA-L1,21-22,e01c1b2b
+5046b7d4,Stéphane Bahoken,19,CMR,FW,29-282,3,0,0,0,0,2,1,0,0,5,0,0,0,0.1,0.1,0.0,0,0,2,3,66.7,0,4,1,0,0,Angers,2022-03-06 Rennes-Angers,FRA-L1,21-22,e01c1b2b
+96f4ebc0,Marin Jakoliš,22,CRO,FW,25-070,68,0,0,0,0,1,0,0,0,16,0,0,0,0.3,0.3,0.0,1,0,9,14,64.3,1,13,0,0,0,Angers,2022-03-06 Rennes-Angers,FRA-L1,21-22,e01c1b2b
+91f2da4c,Casimir Ninga,9,CHA,FW,28-293,22,0,0,0,0,0,0,1,0,10,0,0,0,0.0,0.0,0.0,1,0,3,3,100.0,1,8,0,1,1,Angers,2022-03-06 Rennes-Angers,FRA-L1,21-22,e01c1b2b
+9daeac61,Souleyman Doumbia,3,CIV,LW,25-163,90,0,0,0,0,0,0,0,0,49,0,2,0,0.0,0.0,0.1,1,0,29,36,80.6,1,30,1,6,5,Angers,2022-03-06 Rennes-Angers,FRA-L1,21-22,e01c1b2b
+83299cc0,Azzedine Ounahi,18,MAR,RW,21-321,90,0,0,0,0,0,0,0,0,77,2,2,0,0.0,0.0,0.3,2,0,49,64,76.6,2,36,3,3,1,Angers,2022-03-06 Rennes-Angers,FRA-L1,21-22,e01c1b2b
+3189f61a,Nabil Bentaleb,23,ALG,CM,27-102,87,0,0,0,0,0,0,0,0,71,2,0,3,0.0,0.0,0.0,1,0,48,59,81.4,3,39,1,1,0,Angers,2022-03-06 Rennes-Angers,FRA-L1,21-22,e01c1b2b
+79b2399c,Pierrick Capelle,15,FRA,CM,34-325,3,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,2,4,50.0,1,3,0,0,0,Angers,2022-03-06 Rennes-Angers,FRA-L1,21-22,e01c1b2b
+4b96c347,Angelo Fulgini,10,FRA,CM,25-198,90,0,0,0,0,2,0,0,0,45,1,1,0,0.2,0.2,0.0,5,0,31,35,88.6,6,23,2,5,2,Angers,2022-03-06 Rennes-Angers,FRA-L1,21-22,e01c1b2b
+c801616a,Thomas Mangani,5,FRA,DM,34-311,90,0,0,0,0,0,0,0,0,66,1,0,1,0.0,0.0,0.0,0,0,48,59,81.4,7,31,0,0,0,Angers,2022-03-06 Rennes-Angers,FRA-L1,21-22,e01c1b2b
+9ba7b4fa,Enzo Ebosse,6,CMR,CB,22-360,90,0,0,0,0,1,0,0,0,47,0,1,2,0.0,0.0,0.0,1,0,39,41,95.1,2,27,0,1,0,Angers,2022-03-06 Rennes-Angers,FRA-L1,21-22,e01c1b2b
+b666421b,Ismaël Traoré,8,CIV,CB,35-200,90,0,0,0,0,0,0,0,0,59,1,4,2,0.0,0.0,0.1,1,0,42,49,85.7,1,35,0,1,0,Angers,2022-03-06 Rennes-Angers,FRA-L1,21-22,e01c1b2b
+e472a6f6,Batista Mendy,2,FRA,CB,22-053,90,0,0,0,0,0,0,0,0,73,1,4,1,0.0,0.0,0.0,0,0,45,60,75.0,1,43,1,0,0,Angers,2022-03-06 Rennes-Angers,FRA-L1,21-22,e01c1b2b
+b98cea65,Danijel Petković,30,MNE,GK,28-285,90,0,0,0,0,0,0,0,0,42,0,0,0,0.0,0.0,0.0,0,0,28,38,73.7,0,20,0,0,0,Angers,2022-03-06 Rennes-Angers,FRA-L1,21-22,e01c1b2b

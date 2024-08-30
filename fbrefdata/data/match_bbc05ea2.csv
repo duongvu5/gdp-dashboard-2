@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+923f4dda,Serhou Guirassy,19,GUI,FW,21-273,90,1,0,1,1,2,1,1,0,37,0,0,2,1.1,0.3,0.0,2,2,13,19,68.4,1,27,2,3,0,Köln,2017-12-10 Köln-Freiburg,GER-BL1,17-18,bbc05ea2
+fb59286d,Miloš Jojić,8,SRB,AM,25-266,69,0,1,0,0,0,0,0,0,34,3,0,3,0.0,0.0,0.5,3,1,13,22,59.1,3,17,2,5,2,Köln,2017-12-10 Köln-Freiburg,GER-BL1,17-18,bbc05ea2
+3963c25b,Yann Aurel Bisseck,40,GER,"DM,AM",17-011,21,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,0,0,Köln,2017-12-10 Köln-Freiburg,GER-BL1,17-18,bbc05ea2
+92948149,Lukas Klünter,24,GER,"AM,FW",21-198,79,1,0,0,0,1,1,1,0,13,1,0,2,0.4,0.4,0.0,0,0,2,7,28.6,0,6,2,0,0,Köln,2017-12-10 Köln-Freiburg,GER-BL1,17-18,bbc05ea2
+612cb8d3,Christian Clemens,17,GER,FW,26-128,11,0,0,0,0,0,0,0,0,2,1,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,0,0,0,0,Köln,2017-12-10 Köln-Freiburg,GER-BL1,17-18,bbc05ea2
+abb42ce6,Matthias Lehmann,33,GER,CM,34-196,90,0,0,0,0,1,0,0,0,34,2,1,1,0.0,0.0,0.0,0,0,14,28,50.0,6,11,0,0,0,Köln,2017-12-10 Köln-Freiburg,GER-BL1,17-18,bbc05ea2
+15413fa5,Salih Özcan,20,TUR,CM,19-333,90,0,0,0,0,0,0,1,0,40,5,2,2,0.0,0.0,0.0,1,0,14,34,41.2,3,15,0,1,1,Köln,2017-12-10 Köln-Freiburg,GER-BL1,17-18,bbc05ea2
+6435e737,Konstantin Rausch,34,RUS,WB,27-270,71,0,0,0,0,1,0,0,0,43,2,2,3,0.0,0.0,0.0,1,1,20,31,64.5,3,15,1,1,0,Köln,2017-12-10 Köln-Freiburg,GER-BL1,17-18,bbc05ea2
+c70b221c,Birk Risa,31,NOR,LW,19-300,19,0,0,0,0,0,0,0,0,6,1,0,1,0.0,0.0,0.0,0,0,2,4,50.0,0,0,0,0,0,Köln,2017-12-10 Köln-Freiburg,GER-BL1,17-18,bbc05ea2
+896c126c,Paweł Olkowski,16,POL,"WB,RW",27-300,90,0,0,0,0,0,0,0,0,48,6,1,2,0.0,0.0,0.0,3,0,14,34,41.2,0,17,3,5,3,Köln,2017-12-10 Köln-Freiburg,GER-BL1,17-18,bbc05ea2
+699fb8db,Dominique Heintz,3,GER,CB,24-117,90,0,0,0,0,0,0,0,0,50,3,2,0,0.0,0.0,0.0,0,0,20,38,52.6,3,17,0,1,0,Köln,2017-12-10 Köln-Freiburg,GER-BL1,17-18,bbc05ea2
+2b83fa49,Jannes Horn,23,GER,CB,20-307,90,0,0,0,0,0,0,0,0,31,1,2,3,0.0,0.0,0.0,0,0,12,17,70.6,1,11,0,0,0,Köln,2017-12-10 Köln-Freiburg,GER-BL1,17-18,bbc05ea2
+68635c10,Frederik Sørensen,4,DEN,CB,25-240,90,0,0,0,0,0,0,0,0,38,2,2,3,0.0,0.0,0.0,0,0,11,20,55.0,1,6,0,0,0,Köln,2017-12-10 Köln-Freiburg,GER-BL1,17-18,bbc05ea2
+3cd9e95a,Timo Horn,1,GER,GK,24-212,90,0,0,0,0,0,0,0,0,34,0,0,0,0.0,0.0,0.0,0,0,11,28,39.3,0,17,0,0,0,Köln,2017-12-10 Köln-Freiburg,GER-BL1,17-18,bbc05ea2
+f93e6e94,Nils Petersen,18,GER,FW,29-004,90,3,0,2,2,5,1,0,0,50,1,0,1,2.1,0.5,0.3,3,0,22,32,68.8,2,21,2,3,0,Freiburg,2017-12-10 Köln-Freiburg,GER-BL1,17-18,bbc05ea2
+7e689867,Marco Terrazzino,13,GER,LW,26-239,62,0,0,0,0,1,1,0,0,32,1,0,0,0.1,0.1,0.0,3,0,24,26,92.3,4,18,1,0,0,Freiburg,2017-12-10 Köln-Freiburg,GER-BL1,17-18,bbc05ea2
+6a81a181,Florian Kath,38,GER,LW,23-050,28,0,0,0,0,4,2,0,0,19,1,1,1,0.3,0.3,0.1,8,1,7,11,63.6,3,13,0,1,1,Freiburg,2017-12-10 Köln-Freiburg,GER-BL1,17-18,bbc05ea2
+4d74201d,Yoric Ravet,16,FRA,RW,28-089,90,0,2,0,0,3,1,0,0,59,3,0,1,0.1,0.1,0.9,9,2,22,45,48.9,2,29,3,4,2,Freiburg,2017-12-10 Köln-Freiburg,GER-BL1,17-18,bbc05ea2
+8593f88c,Christian Günter,30,GER,LM,24-285,90,0,0,0,0,0,0,0,0,81,5,1,0,0.0,0.0,0.0,7,0,55,70,78.6,5,48,5,6,3,Freiburg,2017-12-10 Köln-Freiburg,GER-BL1,17-18,bbc05ea2
+5d8e331f,Nicolas Höfler,27,GER,CM,27-276,90,0,0,0,0,0,0,1,0,65,1,1,2,0.0,0.0,0.0,3,1,44,55,80.0,3,31,1,0,0,Freiburg,2017-12-10 Köln-Freiburg,GER-BL1,17-18,bbc05ea2
+70dcf94d,Janik Haberer,19,GER,CM,23-252,90,1,0,0,0,3,2,1,0,60,0,0,1,0.1,0.1,0.0,5,1,43,54,79.6,8,27,1,4,4,Freiburg,2017-12-10 Köln-Freiburg,GER-BL1,17-18,bbc05ea2
+99f7e9aa,Pascal Stenzel,15,GER,RM,21-265,90,0,0,0,0,1,0,0,0,81,0,0,0,0.0,0.0,0.0,3,1,57,77,74.0,5,43,3,5,4,Freiburg,2017-12-10 Köln-Freiburg,GER-BL1,17-18,bbc05ea2
+302527b2,Philipp Lienhart,3,AUT,CB,21-152,16,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,1,4,25.0,0,3,0,0,0,Freiburg,2017-12-10 Köln-Freiburg,GER-BL1,17-18,bbc05ea2
+381e52af,Caleb Stanko,33,USA,CB,24-137,74,0,0,0,0,1,0,0,0,66,0,0,3,0.0,0.0,0.0,0,0,47,56,83.9,4,34,1,2,2,Freiburg,2017-12-10 Köln-Freiburg,GER-BL1,17-18,bbc05ea2
+d0421d25,Julian Schuster,23,GER,CB,32-239,17,0,0,0,0,0,0,0,0,8,1,0,1,0.0,0.0,0.0,0,0,2,5,40.0,0,3,0,0,0,Freiburg,2017-12-10 Köln-Freiburg,GER-BL1,17-18,bbc05ea2
+258a6f4d,Tim Kleindienst,34,GER,CB,22-101,73,0,0,0,0,5,2,1,0,32,0,0,0,0.7,0.7,0.2,4,1,14,25,56.0,3,16,4,1,1,Freiburg,2017-12-10 Köln-Freiburg,GER-BL1,17-18,bbc05ea2
+ea6bc03a,Robin Koch,25,GER,CB,21-146,90,0,0,0,0,0,0,0,0,49,2,0,0,0.0,0.0,0.0,0,0,27,45,60.0,0,26,0,1,1,Freiburg,2017-12-10 Köln-Freiburg,GER-BL1,17-18,bbc05ea2
+0d55d942,Alexander Schwolow,1,GER,GK,25-191,90,0,0,0,0,0,0,0,0,25,0,0,0,0.0,0.0,0.0,0,0,13,23,56.5,0,7,0,0,0,Freiburg,2017-12-10 Köln-Freiburg,GER-BL1,17-18,bbc05ea2

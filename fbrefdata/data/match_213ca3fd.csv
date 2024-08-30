@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+c3fd9887,Vedad Ibišević,19,BIH,FW,33-119,81,0,0,0,0,2,1,0,0,28,1,0,0,0.4,0.4,0.0,2,0,10,17,58.8,1,18,0,1,0,Hertha BSC,2017-12-03 Hertha BSC-Eint Frankfurt,GER-BL1,17-18,213ca3fd
+b48215cd,Alexander Esswein,7,GER,FW,27-253,9,0,0,0,0,0,0,0,0,10,1,1,0,0.0,0.0,0.0,0,0,6,8,75.0,1,3,0,0,0,Hertha BSC,2017-12-03 Hertha BSC-Eint Frankfurt,GER-BL1,17-18,213ca3fd
+1238a3f9,Davie Selke,27,GER,FW,22-317,90,1,0,0,0,5,3,0,0,37,1,0,1,0.7,0.7,0.0,3,0,11,25,44.0,0,19,1,2,1,Hertha BSC,2017-12-03 Hertha BSC-Eint Frankfurt,GER-BL1,17-18,213ca3fd
+88d4144a,Maximilian Mittelstädt,17,GER,LM,20-260,61,0,0,0,0,1,0,0,0,35,1,0,1,0.0,0.0,0.1,1,0,22,32,68.8,3,26,2,1,1,Hertha BSC,2017-12-03 Hertha BSC-Eint Frankfurt,GER-BL1,17-18,213ca3fd
+016ff750,Valentino Lazaro,20,AUT,LM,21-254,29,0,0,0,0,0,0,0,0,17,4,0,1,0.0,0.0,0.0,1,0,5,8,62.5,1,9,0,2,0,Hertha BSC,2017-12-03 Hertha BSC-Eint Frankfurt,GER-BL1,17-18,213ca3fd
+ecab64a0,Per Ciljan Skjelbred,3,NOR,CM,30-170,90,0,0,0,0,1,0,0,0,59,7,2,1,0.0,0.0,0.0,2,1,36,45,80.0,0,25,0,0,0,Hertha BSC,2017-12-03 Hertha BSC-Eint Frankfurt,GER-BL1,17-18,213ca3fd
+ab700320,Arne Maier,26,GER,CM,18-329,61,0,0,0,0,0,0,0,0,33,0,0,1,0.0,0.0,0.0,1,0,27,31,87.1,4,20,0,1,1,Hertha BSC,2017-12-03 Hertha BSC-Eint Frankfurt,GER-BL1,17-18,213ca3fd
+a63a995f,Fabian Lustenberger,28,SUI,CM,29-215,29,0,0,0,0,1,0,0,0,31,0,0,1,0.0,0.0,0.0,2,0,19,26,73.1,1,17,0,0,0,Hertha BSC,2017-12-03 Hertha BSC-Eint Frankfurt,GER-BL1,17-18,213ca3fd
+b93b7882,Mathew Leckie,11,AUS,RM,26-302,90,0,1,0,0,1,0,0,0,63,2,1,1,0.0,0.0,0.5,3,1,32,52,61.5,3,38,2,3,0,Hertha BSC,2017-12-03 Hertha BSC-Eint Frankfurt,GER-BL1,17-18,213ca3fd
+f7aa75bd,Marvin Plattenhardt,21,GER,LB,25-311,90,0,0,0,0,2,1,0,0,73,2,1,0,0.0,0.0,0.0,4,0,61,67,91.0,7,44,1,2,0,Hertha BSC,2017-12-03 Hertha BSC-Eint Frankfurt,GER-BL1,17-18,213ca3fd
+3376a776,Karim Rekik,4,NED,CB,23-001,90,0,0,0,0,1,0,0,0,65,4,0,2,0.0,0.0,0.0,0,0,47,57,82.5,1,35,0,0,0,Hertha BSC,2017-12-03 Hertha BSC-Eint Frankfurt,GER-BL1,17-18,213ca3fd
+74d70fb5,Sebastian Langkamp,15,GER,CB,29-322,90,0,0,0,0,0,0,1,0,60,0,2,1,0.0,0.0,0.0,1,0,45,52,86.5,5,29,0,0,0,Hertha BSC,2017-12-03 Hertha BSC-Eint Frankfurt,GER-BL1,17-18,213ca3fd
+30c220c3,Mitchell Weiser,23,GER,RB,23-226,90,0,0,0,0,1,0,0,0,79,9,1,0,0.0,0.0,0.2,7,0,44,65,67.7,5,33,2,5,3,Hertha BSC,2017-12-03 Hertha BSC-Eint Frankfurt,GER-BL1,17-18,213ca3fd
+27d2618c,Rune Jarstein,22,NOR,GK,33-065,90,0,0,0,0,0,0,0,0,35,0,0,0,0.0,0.0,0.0,0,0,23,33,69.7,0,17,0,0,0,Hertha BSC,2017-12-03 Hertha BSC-Eint Frankfurt,GER-BL1,17-18,213ca3fd
+ba115a40,Sébastien Haller,9,CIV,FW,23-164,89,0,0,0,0,0,0,0,0,32,1,1,0,0.0,0.0,0.0,1,0,13,22,59.1,2,21,1,2,0,Eintracht Frankfurt,2017-12-03 Hertha BSC-Eint Frankfurt,GER-BL1,17-18,213ca3fd
+4d8cd038,Luka Jović,8,SRB,FW,19-345,1,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,0,0,0,0,Eintracht Frankfurt,2017-12-03 Hertha BSC-Eint Frankfurt,GER-BL1,17-18,213ca3fd
+536cebe5,Ante Rebić,4,CRO,LW,24-073,87,0,0,0,0,3,1,1,0,38,3,0,4,0.2,0.2,0.0,2,2,11,16,68.8,4,23,7,4,0,Eintracht Frankfurt,2017-12-03 Hertha BSC-Eint Frankfurt,GER-BL1,17-18,213ca3fd
+bbb496b5,Taleb Tawatha,33,ISR,LW,25-165,3,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Eintracht Frankfurt,2017-12-03 Hertha BSC-Eint Frankfurt,GER-BL1,17-18,213ca3fd
+16daec92,Mijat Gaćinović,11,SRB,RW,22-298,45,0,0,0,0,0,0,0,0,21,0,0,1,0.0,0.0,0.0,1,0,8,14,57.1,2,11,1,1,1,Eintracht Frankfurt,2017-12-03 Hertha BSC-Eint Frankfurt,GER-BL1,17-18,213ca3fd
+a2a85828,Aymen Barkok,28,MAR,RW,19-196,45,0,0,0,0,0,0,0,0,21,2,0,1,0.0,0.0,0.0,1,0,12,17,70.6,2,12,0,1,0,Eintracht Frankfurt,2017-12-03 Hertha BSC-Eint Frankfurt,GER-BL1,17-18,213ca3fd
+9050ddc4,Jetro Willems,15,NED,LM,23-248,90,0,1,0,0,1,1,1,0,54,4,2,2,0.1,0.1,0.2,3,1,30,42,71.4,5,18,0,3,1,Eintracht Frankfurt,2017-12-03 Hertha BSC-Eint Frankfurt,GER-BL1,17-18,213ca3fd
+9ab16552,Makoto Hasebe,20,JPN,CM,33-319,90,0,0,0,0,0,0,0,0,46,5,1,1,0.0,0.0,0.0,1,1,34,38,89.5,3,24,0,0,0,Eintracht Frankfurt,2017-12-03 Hertha BSC-Eint Frankfurt,GER-BL1,17-18,213ca3fd
+f4ec4fd0,Kevin-Prince Boateng,17,GHA,CM,30-272,90,1,0,0,0,1,1,1,0,37,1,1,2,0.1,0.1,0.0,2,0,19,25,76.0,3,15,0,2,0,Eintracht Frankfurt,2017-12-03 Hertha BSC-Eint Frankfurt,GER-BL1,17-18,213ca3fd
+fa661778,Marius Wolf,27,GER,RM,22-190,90,1,0,0,0,2,2,0,0,57,5,3,2,0.1,0.1,0.0,0,0,27,40,67.5,5,29,5,6,2,Eintracht Frankfurt,2017-12-03 Hertha BSC-Eint Frankfurt,GER-BL1,17-18,213ca3fd
+b82880c6,Simon Falette,3,GUI,CB,25-287,90,0,0,0,0,0,0,0,0,62,0,1,2,0.0,0.0,0.0,2,0,40,51,78.4,5,33,0,1,0,Eintracht Frankfurt,2017-12-03 Hertha BSC-Eint Frankfurt,GER-BL1,17-18,213ca3fd
+565bf0da,David Abraham,19,ARG,CB,31-141,90,0,0,0,0,0,0,0,0,72,4,4,0,0.0,0.0,0.0,0,0,50,60,83.3,2,48,0,0,0,Eintracht Frankfurt,2017-12-03 Hertha BSC-Eint Frankfurt,GER-BL1,17-18,213ca3fd
+64c07ae1,Carlos Salcedo,13,MEX,CB,24-065,90,0,0,0,0,0,0,0,0,80,1,2,1,0.0,0.0,0.0,0,0,56,72,77.8,9,49,1,0,0,Eintracht Frankfurt,2017-12-03 Hertha BSC-Eint Frankfurt,GER-BL1,17-18,213ca3fd
+ad3389d5,Lukáš Hrádecký,1,FIN,GK,28-009,90,0,0,0,0,0,0,0,0,32,0,0,0,0.0,0.0,0.0,0,0,17,30,56.7,0,16,0,0,0,Eintracht Frankfurt,2017-12-03 Hertha BSC-Eint Frankfurt,GER-BL1,17-18,213ca3fd

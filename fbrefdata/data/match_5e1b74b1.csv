@@ -1,0 +1,28 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+43b78598,Mauro Icardi,9,ARG,FW,27-360,90,0,1,0,0,4,0,0,0,31,1,0,1,0.9,0.9,0.7,2,2,16,20,80.0,0,9,0,0,0,Paris Saint-Germain,2021-02-13 Paris S-G-Nice,FRA-L1,20-21,5e1b74b1
+42fd9c7f,Kylian Mbappé,7,FRA,LW,22-055,90,0,0,0,0,6,1,1,0,57,0,0,0,0.7,0.7,0.0,1,1,35,43,81.4,2,42,8,5,2,Paris Saint-Germain,2021-02-13 Paris S-G-Nice,FRA-L1,20-21,5e1b74b1
+3d50bcdb,Moise Kean,18,ITA,RW,20-351,82,1,0,0,0,2,2,0,0,38,1,2,0,0.7,0.7,0.0,3,0,21,26,80.8,3,26,3,3,1,Paris Saint-Germain,2021-02-13 Paris S-G-Nice,FRA-L1,20-21,5e1b74b1
+436a9dd0,Ander Herrera,21,ESP,"AM,RW",31-183,8,0,0,0,0,0,0,1,0,7,1,0,0,0.0,0.0,0.0,0,0,6,7,85.7,0,4,0,0,0,Paris Saint-Germain,2021-02-13 Paris S-G-Nice,FRA-L1,20-21,5e1b74b1
+1a992676,Julian Draxler,23,GER,AM,27-146,76,1,0,0,0,1,1,0,0,48,0,1,1,0.4,0.4,0.2,4,0,38,44,86.4,6,35,2,1,0,Paris Saint-Germain,2021-02-13 Paris S-G-Nice,FRA-L1,20-21,5e1b74b1
+a8567629,Mitchel Bakker,25,NED,LB,20-238,14,0,0,0,0,0,0,0,0,6,1,0,0,0.0,0.0,0.0,0,0,5,5,100.0,0,2,0,0,0,Paris Saint-Germain,2021-02-13 Paris S-G-Nice,FRA-L1,20-21,5e1b74b1
+dff153a4,Leandro Paredes,8,ARG,DM,26-229,82,0,0,0,0,2,0,0,0,128,0,2,2,0.1,0.1,0.6,6,0,112,122,91.8,18,105,2,0,0,Paris Saint-Germain,2021-02-13 Paris S-G-Nice,FRA-L1,20-21,5e1b74b1
+8fd9996f,Danilo Pereira,15,POR,DM,29-157,8,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,4,5,80.0,0,3,0,0,0,Paris Saint-Germain,2021-02-13 Paris S-G-Nice,FRA-L1,20-21,5e1b74b1
+72c812f3,Idrissa Gana Gueye,27,SEN,DM,31-140,90,0,0,0,0,0,0,0,0,101,5,0,4,0.0,0.0,0.1,6,0,92,93,98.9,7,76,0,2,2,Paris Saint-Germain,2021-02-13 Paris S-G-Nice,FRA-L1,20-21,5e1b74b1
+41e7ef1c,Layvin Kurzawa,20,FRA,LB,28-162,76,0,0,0,0,2,0,0,0,67,1,1,1,0.1,0.1,0.1,4,0,52,57,91.2,2,42,1,1,1,Paris Saint-Germain,2021-02-13 Paris S-G-Nice,FRA-L1,20-21,5e1b74b1
+9744ff80,Pablo Sarabia,19,ESP,"RW,AM",28-278,14,0,0,0,0,0,0,0,0,9,1,0,0,0.0,0.0,0.0,0,0,1,6,16.7,0,4,0,0,0,Paris Saint-Germain,2021-02-13 Paris S-G-Nice,FRA-L1,20-21,5e1b74b1
+aef6e670,Presnel Kimpembe,3,FRA,CB,25-184,90,0,0,0,0,0,0,0,0,69,2,0,0,0.0,0.0,0.0,1,0,57,63,90.5,1,52,0,1,1,Paris Saint-Germain,2021-02-13 Paris S-G-Nice,FRA-L1,20-21,5e1b74b1
+d5f2f82b,Marquinhos,5,BRA,CB,26-275,90,0,0,0,0,0,0,0,0,79,0,3,0,0.0,0.0,0.0,1,0,62,69,89.9,6,56,0,0,0,Paris Saint-Germain,2021-02-13 Paris S-G-Nice,FRA-L1,20-21,5e1b74b1
+51dbeea9,Thilo Kehrer,4,GER,RB,24-145,90,0,0,0,0,0,0,0,0,67,2,2,2,0.0,0.0,0.7,2,0,45,54,83.3,0,39,0,0,0,Paris Saint-Germain,2021-02-13 Paris S-G-Nice,FRA-L1,20-21,5e1b74b1
+ecada4fc,Keylor Navas,1,CRC,GK,34-060,90,0,0,0,0,0,0,0,0,36,0,0,0,0.0,0.0,0.0,1,0,29,34,85.3,0,17,0,0,0,Paris Saint-Germain,2021-02-13 Paris S-G-Nice,FRA-L1,20-21,5e1b74b1
+706a60e1,Myziane Maolida,7,COM,FW,21-365,90,0,0,0,0,1,0,0,0,28,3,1,0,0.0,0.0,0.4,3,0,15,19,78.9,2,18,1,2,1,Nice,2021-02-13 Paris S-G-Nice,FRA-L1,20-21,5e1b74b1
+aad56ca3,Amine Gouiri,11,ALG,LM,20-363,90,0,0,0,0,4,2,0,0,50,0,0,1,0.6,0.6,0.0,4,0,33,42,78.6,0,37,2,1,1,Nice,2021-02-13 Paris S-G-Nice,FRA-L1,20-21,5e1b74b1
+f5044e54,Pierre Lees-Melou,8,FRA,CM,27-264,90,0,0,0,0,2,0,0,0,62,4,1,3,0.1,0.1,0.0,2,0,46,52,88.5,2,36,0,1,1,Nice,2021-02-13 Paris S-G-Nice,FRA-L1,20-21,5e1b74b1
+741418c3,Alexis Claude-Maurice,10,FRA,CM,22-252,90,0,0,0,0,1,0,0,0,49,2,1,0,0.1,0.1,0.2,5,0,38,41,92.7,6,39,7,4,3,Nice,2021-02-13 Paris S-G-Nice,FRA-L1,20-21,5e1b74b1
+7c2965bb,Rony Lopes,22,POR,RM,25-047,90,1,0,0,0,3,2,0,0,53,1,1,1,0.1,0.1,0.1,3,0,36,44,81.8,6,44,5,3,3,Nice,2021-02-13 Paris S-G-Nice,FRA-L1,20-21,5e1b74b1
+f9d5908e,Hicham Boudaoui,28,ALG,DM,21-143,90,0,0,0,0,1,1,0,0,65,2,2,0,0.0,0.0,0.0,1,0,50,57,87.7,4,46,3,2,2,Nice,2021-02-13 Paris S-G-Nice,FRA-L1,20-21,5e1b74b1
+19a12bed,Hassane Kamara,13,CIV,LB,26-345,90,0,0,0,0,0,0,0,0,84,1,2,1,0.0,0.0,0.2,2,0,56,70,80.0,7,57,6,5,3,Nice,2021-02-13 Paris S-G-Nice,FRA-L1,20-21,5e1b74b1
+972aeb2a,William Saliba,18,FRA,CB,19-326,90,0,0,0,0,0,0,0,0,74,1,3,0,0.0,0.0,0.0,0,0,61,65,93.8,5,54,0,0,0,Nice,2021-02-13 Paris S-G-Nice,FRA-L1,20-21,5e1b74b1
+88f130ed,Jean-Clair Todibo,25,FRA,CB,21-045,90,0,0,0,0,1,0,0,0,70,1,0,1,0.1,0.1,0.0,0,0,53,61,86.9,3,42,0,1,0,Nice,2021-02-13 Paris S-G-Nice,FRA-L1,20-21,5e1b74b1
+f18d7ab2,Andy Pelmard,24,FRA,RB,20-338,90,0,0,0,0,0,0,0,0,56,3,1,2,0.0,0.0,0.0,0,0,40,45,88.9,2,31,1,1,1,Nice,2021-02-13 Paris S-G-Nice,FRA-L1,20-21,5e1b74b1
+8a2248b4,Walter Benítez,40,ARG,GK,28-025,90,0,0,0,0,0,0,0,0,36,0,0,0,0.0,0.0,0.0,0,0,30,35,85.7,0,21,0,0,0,Nice,2021-02-13 Paris S-G-Nice,FRA-L1,20-21,5e1b74b1

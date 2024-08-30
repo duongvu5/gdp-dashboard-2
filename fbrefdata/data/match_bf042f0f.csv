@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+877bc844,Philipp Hofmann,33,GER,FW,29-353,90,0,0,0,0,0,0,0,0,34,1,0,1,0.0,0.0,0.4,3,0,18,26,69.2,3,11,1,1,0,Bochum,2023-03-18 Bochum-RB Leipzig,GER-BL1,22-23,bf042f0f
+0a3f6cde,Christopher Antwi-Adjei,22,GHA,FW,29-039,68,0,0,0,0,1,0,0,0,31,0,0,0,0.0,0.0,0.3,2,0,16,23,69.6,2,21,4,3,0,Bochum,2023-03-18 Bochum-RB Leipzig,GER-BL1,22-23,bf042f0f
+2979c05a,Gerrit Holtmann,17,PHI,FW,27-358,22,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,1,3,33.3,0,1,0,3,1,Bochum,2023-03-18 Bochum-RB Leipzig,GER-BL1,22-23,bf042f0f
+13ddc856,Takuma Asano,11,JPN,AM,28-128,68,0,1,0,0,4,1,0,0,16,1,0,1,0.7,0.7,0.0,1,1,2,5,40.0,0,8,1,2,1,Bochum,2023-03-18 Bochum-RB Leipzig,GER-BL1,22-23,bf042f0f
+9ceb7642,Pierre Kunde,28,CMR,"LM,AM",27-235,22,0,0,0,0,1,0,0,0,13,0,0,2,0.0,0.0,0.0,0,0,4,7,57.1,1,4,0,1,0,Bochum,2023-03-18 Bochum-RB Leipzig,GER-BL1,22-23,bf042f0f
+e5649a78,Kevin Stöger,7,AUT,LM,29-203,68,0,0,0,0,0,0,0,0,43,5,0,2,0.0,0.0,0.1,3,0,21,35,60.0,5,18,2,2,2,Bochum,2023-03-18 Bochum-RB Leipzig,GER-BL1,22-23,bf042f0f
+76fa965f,Philipp Förster,10,GER,"AM,LM",28-042,22,0,0,0,0,0,0,0,0,7,0,1,0,0.0,0.0,0.0,0,0,4,5,80.0,0,2,0,0,0,Bochum,2023-03-18 Bochum-RB Leipzig,GER-BL1,22-23,bf042f0f
+07c7eb0c,Anthony Losilla,8,FRA,CM,37-008,90,0,0,0,0,0,0,0,0,30,2,0,3,0.0,0.0,0.0,0,0,13,19,68.4,1,4,0,0,0,Bochum,2023-03-18 Bochum-RB Leipzig,GER-BL1,22-23,bf042f0f
+9662c9ec,Patrick Osterhage,6,GER,RM,23-045,86,0,0,0,0,1,0,0,0,28,3,0,1,0.1,0.1,0.0,1,0,17,20,85.0,2,14,0,0,0,Bochum,2023-03-18 Bochum-RB Leipzig,GER-BL1,22-23,bf042f0f
+591477c9,Vassilis Lambropoulos,24,GRE,RM,32-352,4,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Bochum,2023-03-18 Bochum-RB Leipzig,GER-BL1,22-23,bf042f0f
+c05f2f8c,Danilo Soares,3,BRA,LB,31-140,57,0,0,0,0,0,0,1,0,42,4,3,0,0.0,0.0,0.0,1,0,22,30,73.3,2,21,1,2,0,Bochum,2023-03-18 Bochum-RB Leipzig,GER-BL1,22-23,bf042f0f
+699fb8db,Dominique Heintz,30,GER,LB,29-215,33,0,0,0,0,0,0,0,0,15,1,2,1,0.0,0.0,0.0,0,0,3,9,33.3,0,3,1,0,0,Bochum,2023-03-18 Bochum-RB Leipzig,GER-BL1,22-23,bf042f0f
+a396fb61,Erhan Mašović,4,SRB,CB,24-116,90,1,0,0,0,1,1,1,0,34,3,1,1,0.4,0.4,0.0,0,0,19,23,82.6,1,16,0,0,0,Bochum,2023-03-18 Bochum-RB Leipzig,GER-BL1,22-23,bf042f0f
+86c75897,Ivan Ordets,20,UKR,CB,30-253,90,0,0,0,0,0,0,0,0,40,0,4,3,0.0,0.0,0.0,0,0,20,27,74.1,0,16,0,0,0,Bochum,2023-03-18 Bochum-RB Leipzig,GER-BL1,22-23,bf042f0f
+861e0116,Kostas Stafylidis,16,GRE,RB,29-106,90,0,0,0,0,0,0,0,0,37,0,0,2,0.0,0.0,0.0,0,0,23,33,69.7,0,13,0,0,0,Bochum,2023-03-18 Bochum-RB Leipzig,GER-BL1,22-23,bf042f0f
+9f941969,Manuel Riemann,1,GER,GK,34-190,90,0,0,0,0,0,0,0,0,63,0,0,0,0.0,0.0,0.0,0,0,28,57,49.1,0,32,0,0,0,Bochum,2023-03-18 Bochum-RB Leipzig,GER-BL1,22-23,bf042f0f
+d2416c2e,Yussuf Poulsen,9,DEN,FW,28-276,67,0,0,0,0,0,0,0,0,21,1,0,0,0.0,0.0,0.0,0,0,9,14,64.3,0,15,0,2,1,RB Leipzig,2023-03-18 Bochum-RB Leipzig,GER-BL1,22-23,bf042f0f
+9a2e0ccc,Emil Forsberg,10,SWE,AM,31-146,23,0,0,0,0,2,1,0,0,8,0,0,0,0.1,0.1,0.0,2,0,3,5,60.0,1,3,0,0,0,RB Leipzig,2023-03-18 Bochum-RB Leipzig,GER-BL1,22-23,bf042f0f
+3effaa34,André Silva,19,POR,FW,27-132,90,0,0,0,0,7,2,0,0,40,1,0,0,0.7,0.7,0.0,2,0,13,23,56.5,1,27,1,4,1,RB Leipzig,2023-03-18 Bochum-RB Leipzig,GER-BL1,22-23,bf042f0f
+49fe9070,Timo Werner,11,GER,"AM,LW",27-012,70,0,0,0,0,2,1,0,0,39,1,1,1,0.1,0.1,0.1,4,0,24,31,77.4,5,30,3,1,1,RB Leipzig,2023-03-18 Bochum-RB Leipzig,GER-BL1,22-23,bf042f0f
+ae44e8e2,Dani Olmo,7,ESP,LW,24-315,20,0,0,0,0,4,3,1,0,13,0,0,0,0.7,0.7,0.1,1,0,4,7,57.1,0,9,0,2,2,RB Leipzig,2023-03-18 Bochum-RB Leipzig,GER-BL1,22-23,bf042f0f
+934e1968,Dominik Szoboszlai,17,HUN,"AM,RW",22-144,90,0,0,0,0,3,0,0,0,90,2,1,1,0.1,0.1,0.2,9,0,60,73,82.2,8,54,2,11,7,RB Leipzig,2023-03-18 Bochum-RB Leipzig,GER-BL1,22-23,bf042f0f
+c1b7847c,Konrad Laimer,27,AUT,DM,25-295,81,0,0,0,0,0,0,1,0,61,2,3,2,0.0,0.0,0.0,3,0,39,48,81.3,5,43,3,7,6,RB Leipzig,2023-03-18 Bochum-RB Leipzig,GER-BL1,22-23,bf042f0f
+92432bc6,Amadou Haidara,8,MLI,DM,25-046,9,0,0,0,0,1,0,0,0,5,0,0,0,0.0,0.0,0.0,1,0,3,4,75.0,0,2,0,0,0,RB Leipzig,2023-03-18 Bochum-RB Leipzig,GER-BL1,22-23,bf042f0f
+b825a650,Kevin Kampl,44,SVN,DM,32-160,90,0,0,0,0,0,0,1,0,40,1,1,1,0.0,0.0,0.0,2,0,33,37,89.2,5,25,1,0,0,RB Leipzig,2023-03-18 Bochum-RB Leipzig,GER-BL1,22-23,bf042f0f
+8ff2354e,Marcel Halstenberg,23,GER,LB,31-172,81,0,0,0,0,0,0,0,0,72,0,0,0,0.0,0.0,0.1,2,0,54,66,81.8,4,51,2,2,1,RB Leipzig,2023-03-18 Bochum-RB Leipzig,GER-BL1,22-23,bf042f0f
+7d450ed3,David Raum,22,GER,LB,24-330,9,0,0,0,0,0,0,0,0,13,0,0,0,0.0,0.0,0.2,5,0,12,13,92.3,1,8,0,1,1,RB Leipzig,2023-03-18 Bochum-RB Leipzig,GER-BL1,22-23,bf042f0f
+5ad50391,Joško Gvardiol,32,CRO,CB,21-054,90,0,0,0,0,1,0,0,0,83,2,3,2,0.1,0.1,0.1,2,0,69,72,95.8,3,58,0,0,0,RB Leipzig,2023-03-18 Bochum-RB Leipzig,GER-BL1,22-23,bf042f0f
+20030c06,Willi Orban,4,HUN,CB,30-135,90,0,0,0,0,2,1,0,0,75,2,0,1,0.1,0.1,0.0,1,0,49,67,73.1,3,42,0,1,0,RB Leipzig,2023-03-18 Bochum-RB Leipzig,GER-BL1,22-23,bf042f0f
+fcb27134,Mohamed Simakan,2,FRA,RB,22-319,70,0,0,0,0,0,0,0,0,66,1,0,3,0.0,0.0,0.2,4,0,49,56,87.5,4,35,7,2,1,RB Leipzig,2023-03-18 Bochum-RB Leipzig,GER-BL1,22-23,bf042f0f
+0a89e877,Benjamin Henrichs,39,GER,RB,26-023,20,0,0,0,0,0,0,0,0,27,3,1,0,0.0,0.0,0.0,2,0,14,21,66.7,2,18,3,1,1,RB Leipzig,2023-03-18 Bochum-RB Leipzig,GER-BL1,22-23,bf042f0f
+663e080e,Janis Blaswich,21,GER,GK,31-320,90,0,0,0,0,0,0,0,0,62,0,0,0,0.0,0.0,0.0,0,0,57,61,93.4,0,46,0,0,0,RB Leipzig,2023-03-18 Bochum-RB Leipzig,GER-BL1,22-23,bf042f0f

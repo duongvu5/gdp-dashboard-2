@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+d125f22f,David Okereke,77,NGA,"FW,LM,LW",24-161,90,0,0,0,0,1,1,0,0,26,0,0,0,0.1,0.1,0.1,3,0,14,19,73.7,1,15,3,3,1,Venezia,2022-02-06 Venezia-Napoli,ITA-SERIA_A,21-22,3c6f1dc5
+15e9c7e6,Nani,20,POR,LW,35-081,61,0,0,0,0,0,0,0,0,17,0,0,0,0.0,0.0,0.0,1,0,13,14,92.9,1,11,2,2,1,Venezia,2022-02-06 Venezia-Napoli,ITA-SERIA_A,21-22,3c6f1dc5
+9ef42479,Thomas Henry,14,FRA,FW,27-139,29,0,0,0,0,2,1,0,0,18,0,0,2,0.1,0.1,0.0,1,0,6,11,54.5,2,6,1,0,0,Venezia,2022-02-06 Venezia-Napoli,ITA-SERIA_A,21-22,3c6f1dc5
+66784dee,Dennis Johnsen,17,NOR,RW,23-354,69,0,0,0,0,0,0,0,0,25,0,1,1,0.0,0.0,0.0,1,0,12,20,60.0,2,14,0,2,1,Venezia,2022-02-06 Venezia-Napoli,ITA-SERIA_A,21-22,3c6f1dc5
+0847b5a5,Mattia Aramu,10,ITA,"RM,RW",26-268,21,0,0,0,0,0,0,0,0,9,1,0,0,0.0,0.0,0.0,0,0,4,6,66.7,0,7,0,1,0,Venezia,2022-02-06 Venezia-Napoli,ITA-SERIA_A,21-22,3c6f1dc5
+5722eced,Mickaël Cuisance,21,FRA,"LM,RM",22-174,77,0,0,0,0,1,0,0,0,33,0,1,0,0.1,0.1,0.1,1,0,20,24,83.3,1,14,0,1,1,Venezia,2022-02-06 Venezia-Napoli,ITA-SERIA_A,21-22,3c6f1dc5
+12e6d21a,Jean-Pierre Nsame,9,CMR,FW,28-281,13,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,1,0,0,0,Venezia,2022-02-06 Venezia-Napoli,ITA-SERIA_A,21-22,3c6f1dc5
+10b9fa99,Ethan Ampadu,44,WAL,CM,21-145,77,0,0,0,0,0,0,0,0,49,0,1,1,0.0,0.0,0.1,1,0,29,38,76.3,5,17,1,0,0,Venezia,2022-02-06 Venezia-Napoli,ITA-SERIA_A,21-22,3c6f1dc5
+9bb1ad91,Luca Fiordilino,16,ITA,"CM,CB",25-196,13,0,0,0,0,0,0,0,0,18,2,0,1,0.0,0.0,0.0,0,0,16,16,100.0,3,12,0,0,0,Venezia,2022-02-06 Venezia-Napoli,ITA-SERIA_A,21-22,3c6f1dc5
+22cd43d2,Domen Črnigoj,33,SVN,RM,26-080,69,0,0,0,0,1,1,0,0,33,0,2,2,0.0,0.0,0.0,1,0,15,21,71.4,4,17,0,3,1,Venezia,2022-02-06 Venezia-Napoli,ITA-SERIA_A,21-22,3c6f1dc5
+4a0b7f07,Gianluca Busio,27,USA,"CM,LM",19-254,21,0,0,0,0,0,0,1,0,18,0,1,0,0.0,0.0,0.0,0,0,12,15,80.0,1,10,1,0,0,Venezia,2022-02-06 Venezia-Napoli,ITA-SERIA_A,21-22,3c6f1dc5
+c8d7131c,Ridgeciano Haps,55,SUR,LB,28-239,90,0,0,0,0,0,0,0,0,45,2,2,1,0.0,0.0,0.0,1,0,21,33,63.6,3,22,1,1,1,Venezia,2022-02-06 Venezia-Napoli,ITA-SERIA_A,21-22,3c6f1dc5
+4d1efb48,Pietro Ceccaroni,32,ITA,CB,26-047,90,0,0,0,0,0,0,1,0,66,2,1,3,0.0,0.0,0.0,0,0,44,56,78.6,1,35,0,0,0,Venezia,2022-02-06 Venezia-Napoli,ITA-SERIA_A,21-22,3c6f1dc5
+ac7e640b,Mattia Caldara,31,ITA,"CB,RB",27-277,90,0,0,0,0,0,0,0,0,55,5,6,1,0.0,0.0,0.0,2,0,33,40,82.5,5,23,0,0,0,Venezia,2022-02-06 Venezia-Napoli,ITA-SERIA_A,21-22,3c6f1dc5
+6af30900,Tyronne Ebuehi,22,NGA,RB,26-052,89,0,0,0,0,2,0,0,1,50,2,2,0,0.1,0.1,0.0,2,0,29,37,78.4,0,19,3,2,2,Venezia,2022-02-06 Venezia-Napoli,ITA-SERIA_A,21-22,3c6f1dc5
+c9c32262,Luca Lezzerini,12,ITA,GK,26-319,90,0,0,0,0,0,0,0,0,47,0,0,0,0.0,0.0,0.0,0,0,37,45,82.2,0,23,0,0,0,Venezia,2022-02-06 Venezia-Napoli,ITA-SERIA_A,21-22,3c6f1dc5
+8c90fd7a,Victor Osimhen,9,NGA,FW,23-039,88,1,0,0,0,4,1,0,0,19,0,0,1,0.5,0.5,0.0,3,0,5,10,50.0,0,19,2,4,3,Napoli,2022-02-06 Venezia-Napoli,ITA-SERIA_A,21-22,3c6f1dc5
+03f946ed,Andrea Petagna,37,ITA,FW,26-221,2,1,0,0,0,2,2,0,0,8,0,0,0,0.4,0.4,0.1,1,0,3,5,60.0,1,6,2,0,0,Napoli,2022-02-06 Venezia-Napoli,ITA-SERIA_A,21-22,3c6f1dc5
+2f557579,Lorenzo Insigne,24,ITA,LW,30-247,78,0,0,0,0,3,1,0,0,67,4,0,0,0.2,0.2,0.1,3,0,49,59,83.1,6,51,5,1,1,Napoli,2022-02-06 Venezia-Napoli,ITA-SERIA_A,21-22,3c6f1dc5
+89b2c8a9,Dries Mertens,14,BEL,"AM,LW",34-276,12,0,0,0,0,1,1,0,0,10,0,0,0,0.1,0.1,0.0,3,1,5,8,62.5,1,7,0,1,1,Napoli,2022-02-06 Venezia-Napoli,ITA-SERIA_A,21-22,3c6f1dc5
+5e861944,Matteo Politano,21,ITA,RW,28-187,78,0,1,0,0,1,0,0,0,45,1,0,1,0.1,0.1,0.4,3,1,23,37,62.2,3,26,2,0,0,Napoli,2022-02-06 Venezia-Napoli,ITA-SERIA_A,21-22,3c6f1dc5
+cf007308,Elif Elmas,7,MKD,RW,22-135,12,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.1,1,0,5,6,83.3,1,5,1,1,0,Napoli,2022-02-06 Venezia-Napoli,ITA-SERIA_A,21-22,3c6f1dc5
+a5296e55,Piotr Zieliński,20,POL,AM,27-262,88,0,0,0,0,2,1,0,0,58,1,0,1,0.1,0.1,0.1,4,1,42,51,82.4,4,46,2,2,1,Napoli,2022-02-06 Venezia-Napoli,ITA-SERIA_A,21-22,3c6f1dc5
+c5adc293,Faouzi Ghoulam,31,ALG,LW,31-005,2,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.1,1,0,6,8,75.0,0,3,0,0,0,Napoli,2022-02-06 Venezia-Napoli,ITA-SERIA_A,21-22,3c6f1dc5
+e1cbb531,Stanislav Lobotka,68,SVK,DM,27-073,90,0,0,0,0,0,0,1,0,108,5,0,0,0.0,0.0,0.2,4,0,89,95,93.7,9,80,3,2,2,Napoli,2022-02-06 Venezia-Napoli,ITA-SERIA_A,21-22,3c6f1dc5
+c0c7ff58,Fabián Ruiz Peña,8,ESP,DM,25-309,90,0,0,0,0,1,0,0,0,114,3,0,2,0.0,0.0,0.0,3,0,95,104,91.3,10,84,1,1,0,Napoli,2022-02-06 Venezia-Napoli,ITA-SERIA_A,21-22,3c6f1dc5
+0b5a292a,Mário Rui,6,POR,LB,30-255,90,0,0,0,0,1,0,1,0,101,1,0,1,0.0,0.0,0.0,1,0,80,94,85.1,4,69,2,0,0,Napoli,2022-02-06 Venezia-Napoli,ITA-SERIA_A,21-22,3c6f1dc5
+79083382,Juan Jesus,5,BRA,CB,30-241,90,0,0,0,0,0,0,0,0,94,1,1,1,0.0,0.0,0.0,0,0,82,89,92.1,2,73,1,0,0,Napoli,2022-02-06 Venezia-Napoli,ITA-SERIA_A,21-22,3c6f1dc5
+4b3e1a38,Amir Rrahmani,13,KVX,CB,27-347,90,0,0,0,0,0,0,0,0,104,0,2,0,0.0,0.0,0.0,0,0,94,101,93.1,5,83,0,0,0,Napoli,2022-02-06 Venezia-Napoli,ITA-SERIA_A,21-22,3c6f1dc5
+230a2fac,Giovanni Di Lorenzo,22,ITA,RB,28-186,90,0,0,0,0,1,0,0,0,83,1,1,0,0.1,0.1,0.1,2,0,63,78,80.8,8,51,2,0,0,Napoli,2022-02-06 Venezia-Napoli,ITA-SERIA_A,21-22,3c6f1dc5
+82b1198a,David Ospina,25,COL,GK,33-159,90,0,0,0,0,0,0,0,0,36,0,0,0,0.0,0.0,0.0,0,0,29,35,82.9,0,28,0,0,0,Napoli,2022-02-06 Venezia-Napoli,ITA-SERIA_A,21-22,3c6f1dc5

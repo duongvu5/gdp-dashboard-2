@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+4431aed2,Ciro Immobile,17,ITA,FW,28-039,73,2,0,0,0,6,2,0,0,38,0,0,0,1.2,1.2,0.1,2,1,21,27,77.8,2,23,7,3,2,Lazio,2018-03-31 Lazio-Benevento,ITA-SERIA_A,17-18,83c07ccf
+15e9c7e6,Nani,7,POR,FW,31-134,17,0,0,0,0,3,3,0,0,11,0,0,0,0.1,0.1,0.0,2,1,7,8,87.5,1,7,2,0,0,Lazio,2018-03-31 Lazio-Benevento,ITA-SERIA_A,17-18,83c07ccf
+9f1893b9,Felipe Anderson,10,BRA,"RM,FW",24-350,90,0,1,0,0,2,0,0,0,70,2,1,0,0.1,0.1,0.7,13,2,47,58,81.0,14,46,5,6,5,Lazio,2018-03-31 Lazio-Benevento,ITA-SERIA_A,17-18,83c07ccf
+5294a83f,Luis Alberto,18,ESP,"LM,CM",25-184,90,1,2,1,1,2,0,0,0,91,1,0,0,0.9,0.1,1.1,12,2,66,83,79.5,11,58,2,2,2,Lazio,2018-03-31 Lazio-Benevento,ITA-SERIA_A,17-18,83c07ccf
+4c78b5ed,Lucas Leiva,6,BRA,CM,31-081,90,1,0,0,0,4,3,0,0,92,5,2,1,0.6,0.6,0.1,6,1,69,80,86.3,18,54,1,2,2,Lazio,2018-03-31 Lazio-Benevento,ITA-SERIA_A,17-18,83c07ccf
+ed5886d2,Marco Parolo,16,ITA,CM,33-065,73,0,0,0,0,1,0,0,0,36,0,0,0,0.1,0.1,0.0,1,0,30,33,90.9,6,20,0,0,0,Lazio,2018-03-31 Lazio-Benevento,ITA-SERIA_A,17-18,83c07ccf
+4e6dbac4,Sergej Milinković-Savić,21,SRB,CM,23-032,17,0,0,0,0,1,0,0,0,13,0,1,0,0.1,0.1,0.1,3,0,9,10,90.0,2,6,1,0,0,Lazio,2018-03-31 Lazio-Benevento,ITA-SERIA_A,17-18,83c07ccf
+f7223718,Patric,4,ESP,"LB,WB",24-348,90,0,1,0,0,1,0,0,0,56,1,0,0,0.1,0.1,0.1,4,2,44,52,84.6,1,28,1,0,0,Lazio,2018-03-31 Lazio-Benevento,ITA-SERIA_A,17-18,83c07ccf
+d4535821,Adam Marušić,77,MNE,"RB,WB",25-165,90,0,0,0,0,0,0,0,0,51,1,0,1,0.0,0.0,0.0,1,0,35,47,74.5,4,24,4,0,0,Lazio,2018-03-31 Lazio-Benevento,ITA-SERIA_A,17-18,83c07ccf
+15d0c248,Luiz Felipe,27,ITA,CB,21-009,90,0,0,0,0,0,0,0,0,80,3,0,0,0.0,0.0,0.0,3,1,69,76,90.8,10,50,6,0,0,Lazio,2018-03-31 Lazio-Benevento,ITA-SERIA_A,17-18,83c07ccf
+d0d8dd44,Stefan de Vrij,3,NED,CB,26-054,90,1,0,0,0,3,2,0,0,61,0,2,1,0.2,0.2,0.0,1,0,51,54,94.4,2,40,2,0,0,Lazio,2018-03-31 Lazio-Benevento,ITA-SERIA_A,17-18,83c07ccf
+c01c66d9,Bastos,15,ANG,CB,27-004,45,0,0,0,0,0,0,0,0,32,1,3,1,0.0,0.0,0.0,1,0,28,28,100.0,5,22,1,0,0,Lazio,2018-03-31 Lazio-Benevento,ITA-SERIA_A,17-18,83c07ccf
+93b891d1,Felipe Caicedo,20,ECU,FW,29-207,45,1,0,0,0,3,3,0,0,17,0,0,0,0.5,0.5,0.0,2,1,6,11,54.5,1,7,0,2,1,Lazio,2018-03-31 Lazio-Benevento,ITA-SERIA_A,17-18,83c07ccf
+339fe0e8,Thomas Strakosha,1,ALB,GK,23-012,90,0,0,0,0,0,0,0,0,27,0,0,0,0.0,0.0,0.0,0,0,25,26,96.2,0,16,0,0,0,Lazio,2018-03-31 Lazio-Benevento,ITA-SERIA_A,17-18,83c07ccf
+0861b8d6,Pietro Iemmello,33,ITA,FW,26-025,9,0,0,0,0,0,0,0,0,2,0,1,0,0.0,0.0,0.0,0,0,1,1,100.0,0,0,0,0,0,Benevento,2018-03-31 Lazio-Benevento,ITA-SERIA_A,17-18,83c07ccf
+6989550f,Alberto Brignoli,22,ITA,GK,26-224,81,0,0,0,0,0,0,1,0,53,0,0,0,0.0,0.0,0.0,0,0,17,46,37.0,0,25,0,0,0,Benevento,2018-03-31 Lazio-Benevento,ITA-SERIA_A,17-18,83c07ccf
+eccbe56a,Filip Đuričić,31,SRB,"LM,DM,AM",26-060,73,0,0,0,0,1,1,0,0,27,1,0,1,0.0,0.0,0.0,3,1,16,17,94.1,1,14,0,2,1,Benevento,2018-03-31 Lazio-Benevento,ITA-SERIA_A,17-18,83c07ccf
+081b6080,Lorenzo Del Pinto,4,ITA,LM,27-287,17,0,0,0,0,0,0,0,0,6,0,0,1,0.0,0.0,0.0,0,0,3,5,60.0,0,5,0,0,0,Benevento,2018-03-31 Lazio-Benevento,ITA-SERIA_A,17-18,83c07ccf
+9e61c019,Guilherme,66,BRA,"FW,AM",26-314,90,1,0,0,0,1,1,0,0,39,1,0,1,0.1,0.1,0.1,3,0,22,30,73.3,3,30,2,4,2,Benevento,2018-03-31 Lazio-Benevento,ITA-SERIA_A,17-18,83c07ccf
+c1c2c925,Sandro,30,BRA,"CM,DM",29-016,90,0,0,0,0,0,0,1,0,39,2,0,3,0.0,0.0,0.0,0,0,21,30,70.0,1,15,0,0,0,Benevento,2018-03-31 Lazio-Benevento,ITA-SERIA_A,17-18,83c07ccf
+ba3d3bea,Danilo Cataldi,8,ITA,"CM,DM",23-237,90,1,0,0,0,2,1,0,0,38,1,0,1,0.1,0.1,0.0,1,0,21,28,75.0,7,22,2,0,0,Benevento,2018-03-31 Lazio-Benevento,ITA-SERIA_A,17-18,83c07ccf
+3dd45b70,Gaetano Letizia,3,ITA,"RB,WB",27-275,64,0,0,0,0,0,0,1,0,27,0,1,2,0.0,0.0,0.0,0,0,17,21,81.0,1,13,1,2,2,Benevento,2018-03-31 Lazio-Benevento,ITA-SERIA_A,17-18,83c07ccf
+983ff2c7,Lorenzo Venuti,23,ITA,RB,22-353,26,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,7,8,87.5,0,5,1,0,0,Benevento,2018-03-31 Lazio-Benevento,ITA-SERIA_A,17-18,83c07ccf
+f124b4c9,Cristiano Lombardi,87,ITA,"RM,WB",22-224,90,0,1,0,0,1,0,0,0,26,1,0,0,0.1,0.1,0.1,2,2,14,17,82.4,1,10,1,4,2,Benevento,2018-03-31 Lazio-Benevento,ITA-SERIA_A,17-18,83c07ccf
+322ba2df,Alin Toșca,16,ROU,"LB,CB",26-017,90,0,0,0,0,0,0,0,0,45,1,1,3,0.0,0.0,0.0,2,0,22,32,68.8,1,18,2,0,0,Benevento,2018-03-31 Lazio-Benevento,ITA-SERIA_A,17-18,83c07ccf
+f5e9a8bd,Andrea Costa,15,ITA,CB,32-058,90,0,0,0,0,0,0,1,0,26,0,2,0,0.0,0.0,0.0,0,0,13,17,76.5,0,15,0,0,0,Benevento,2018-03-31 Lazio-Benevento,ITA-SERIA_A,17-18,83c07ccf
+6eee05f1,Berat Djimsiti,6,ALB,CB,25-040,90,0,0,0,0,1,0,0,0,39,0,0,1,0.0,0.0,0.0,0,0,25,29,86.2,0,14,0,1,1,Benevento,2018-03-31 Lazio-Benevento,ITA-SERIA_A,17-18,83c07ccf
+b39dfab0,Christian Puggioni,1,ITA,GK,37-073,6,0,0,0,0,0,0,0,1,1,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,0,0,0,0,Benevento,2018-03-31 Lazio-Benevento,ITA-SERIA_A,17-18,83c07ccf

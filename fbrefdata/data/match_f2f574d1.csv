@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+f93e6e94,Nils Petersen,18,GER,FW,30-051,90,0,0,0,0,3,2,0,0,28,0,0,0,0.2,0.2,0.3,2,0,17,22,77.3,2,15,1,0,0,Freiburg,2019-01-26 Freiburg-Hoffenheim,GER-BL1,18-19,f2f574d1
+482b70ad,Mike Frantz,8,GER,"LW,RB",32-104,90,0,0,0,0,2,0,0,0,27,4,2,0,0.1,0.1,0.0,2,0,9,12,75.0,0,10,2,3,2,Freiburg,2019-01-26 Freiburg-Hoffenheim,GER-BL1,18-19,f2f574d1
+49ffe0f2,Jérôme Gondorf,20,GER,"RW,LW",30-214,74,0,0,0,0,0,0,0,0,43,2,6,0,0.0,0.0,0.0,1,0,16,33,48.5,3,23,2,1,1,Freiburg,2019-01-26 Freiburg-Hoffenheim,GER-BL1,18-19,f2f574d1
+4d74201d,Yoric Ravet,16,FRA,LW,29-136,16,0,0,0,0,1,0,0,0,16,0,0,0,0.1,0.1,0.0,2,1,7,14,50.0,1,8,0,1,1,Freiburg,2019-01-26 Freiburg-Hoffenheim,GER-BL1,18-19,f2f574d1
+ca618d23,Lucas Höler,9,GER,AM,24-200,64,1,0,0,0,3,1,0,0,35,1,0,0,0.7,0.7,0.0,1,0,10,22,45.5,0,25,1,0,0,Freiburg,2019-01-26 Freiburg-Hoffenheim,GER-BL1,18-19,f2f574d1
+e5a35ae9,Luca Waldschmidt,11,GER,"RW,AM",22-252,26,0,0,0,0,1,1,0,0,14,0,2,0,0.0,0.0,0.1,2,0,8,10,80.0,2,6,0,1,0,Freiburg,2019-01-26 Freiburg-Hoffenheim,GER-BL1,18-19,f2f574d1
+ea6bc03a,Robin Koch,25,GER,DM,22-193,90,0,0,0,0,2,1,0,0,45,0,1,2,0.3,0.3,0.1,1,0,26,34,76.5,4,20,0,1,1,Freiburg,2019-01-26 Freiburg-Hoffenheim,GER-BL1,18-19,f2f574d1
+70dcf94d,Janik Haberer,19,GER,DM,24-299,90,0,0,0,0,1,0,0,0,70,6,3,1,0.1,0.1,0.1,6,0,42,56,75.0,2,25,1,2,2,Freiburg,2019-01-26 Freiburg-Hoffenheim,GER-BL1,18-19,f2f574d1
+8593f88c,Christian Günter,30,GER,LB,25-332,90,0,1,0,0,1,0,0,0,43,0,0,1,0.1,0.1,0.3,8,1,33,40,82.5,3,20,7,2,2,Freiburg,2019-01-26 Freiburg-Hoffenheim,GER-BL1,18-19,f2f574d1
+699fb8db,Dominique Heintz,23,GER,CB,25-164,90,0,0,0,0,0,0,0,0,45,4,3,0,0.0,0.0,0.1,1,0,28,38,73.7,6,32,1,0,0,Freiburg,2019-01-26 Freiburg-Hoffenheim,GER-BL1,18-19,f2f574d1
+25ab9c9c,Manuel Gulde,5,GER,CB,27-348,90,0,0,0,0,2,1,0,0,58,1,1,1,0.2,0.2,0.0,2,1,38,48,79.2,3,26,2,0,0,Freiburg,2019-01-26 Freiburg-Hoffenheim,GER-BL1,18-19,f2f574d1
+99f7e9aa,Pascal Stenzel,15,GER,RB,22-312,65,0,0,0,0,2,0,0,0,55,2,4,1,0.1,0.1,0.1,2,0,27,42,64.3,3,21,1,0,0,Freiburg,2019-01-26 Freiburg-Hoffenheim,GER-BL1,18-19,f2f574d1
+d6862409,Florian Niederlechner,7,GER,"AM,RB",28-094,25,1,0,0,0,2,2,0,0,13,0,0,0,0.1,0.1,0.1,4,0,3,6,50.0,0,10,1,5,2,Freiburg,2019-01-26 Freiburg-Hoffenheim,GER-BL1,18-19,f2f574d1
+0d55d942,Alexander Schwolow,1,GER,GK,26-238,90,0,0,0,0,0,0,0,0,40,0,0,0,0.0,0.0,0.0,2,0,31,35,88.6,0,23,0,0,0,Freiburg,2019-01-26 Freiburg-Hoffenheim,GER-BL1,18-19,f2f574d1
+53e07d0b,Ádám Szalai,28,HUN,FW,31-048,63,0,0,0,0,1,1,0,0,16,1,0,0,0.1,0.1,0.0,1,0,11,13,84.6,1,8,0,1,1,Hoffenheim,2019-01-26 Freiburg-Hoffenheim,GER-BL1,18-19,f2f574d1
+7f609bfc,Stefan Posch,38,AUT,CB,21-257,27,0,0,0,0,0,0,0,0,17,0,2,0,0.0,0.0,0.0,0,0,12,14,85.7,0,10,0,0,0,Hoffenheim,2019-01-26 Freiburg-Hoffenheim,GER-BL1,18-19,f2f574d1
+603cb947,Andrej Kramarić,27,CRO,"LW,FW",27-221,90,2,0,1,1,2,2,0,0,49,0,0,0,1.5,0.7,0.1,5,0,29,39,74.4,5,28,4,2,2,Hoffenheim,2019-01-26 Freiburg-Hoffenheim,GER-BL1,18-19,f2f574d1
+c17bfb65,Joelinton,34,BRA,"RW,FW",22-165,90,1,1,0,0,4,2,0,0,51,1,0,4,1.0,1.0,0.0,2,1,24,34,70.6,2,24,0,1,0,Hoffenheim,2019-01-26 Freiburg-Hoffenheim,GER-BL1,18-19,f2f574d1
+54b4dc4e,Kerem Demirbay,10,GER,"LM,CM",25-207,90,1,1,0,0,5,3,0,0,63,1,1,1,0.6,0.6,0.5,7,2,40,49,81.6,6,35,4,4,4,Hoffenheim,2019-01-26 Freiburg-Hoffenheim,GER-BL1,18-19,f2f574d1
+ffbbc83b,Florian Grillitsch,11,AUT,CM,23-172,90,0,0,0,0,1,0,1,0,76,4,1,1,0.0,0.0,0.0,2,1,59,66,89.4,3,36,2,1,1,Hoffenheim,2019-01-26 Freiburg-Hoffenheim,GER-BL1,18-19,f2f574d1
+37f606f0,Dennis Geiger,8,GER,"RM,CM",20-230,76,0,0,0,0,1,1,0,0,52,1,0,0,0.0,0.0,0.4,4,0,40,45,88.9,7,29,1,1,0,Hoffenheim,2019-01-26 Freiburg-Hoffenheim,GER-BL1,18-19,f2f574d1
+555d5edd,Nadiem Amiri,18,GER,CM,22-091,14,0,0,0,0,0,0,0,0,5,1,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,3,1,1,0,Hoffenheim,2019-01-26 Freiburg-Hoffenheim,GER-BL1,18-19,f2f574d1
+fa274d97,Nico Schulz,16,GER,"LB,WB",25-300,88,0,0,0,0,0,0,1,0,70,0,2,3,0.0,0.0,1.2,6,2,46,57,80.7,5,35,4,3,1,Hoffenheim,2019-01-26 Freiburg-Hoffenheim,GER-BL1,18-19,f2f574d1
+2b5527c4,Joshua Brenet,2,CUW,WB,24-312,2,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,2,4,50.0,0,0,0,0,0,Hoffenheim,2019-01-26 Freiburg-Hoffenheim,GER-BL1,18-19,f2f574d1
+99de6b6f,Benjamin Hübner,21,GER,CB,29-206,90,0,0,0,0,1,1,0,0,86,5,2,4,0.1,0.1,0.0,0,0,45,62,72.6,4,46,0,0,0,Hoffenheim,2019-01-26 Freiburg-Hoffenheim,GER-BL1,18-19,f2f574d1
+1d8e9add,Kevin Vogt,22,GER,CB,27-125,90,0,0,0,0,0,0,0,0,63,1,1,1,0.0,0.0,0.0,0,0,48,56,85.7,0,36,0,0,0,Hoffenheim,2019-01-26 Freiburg-Hoffenheim,GER-BL1,18-19,f2f574d1
+79c90e45,Pavel Kadeřábek,3,CZE,"RB,WB",26-276,90,0,0,0,0,0,0,0,0,60,1,1,1,0.0,0.0,0.0,0,0,34,47,72.3,1,27,3,0,0,Hoffenheim,2019-01-26 Freiburg-Hoffenheim,GER-BL1,18-19,f2f574d1
+47064058,Oliver Baumann,1,GER,GK,28-238,90,0,0,0,0,0,0,0,0,57,0,0,0,0.0,0.0,0.0,0,0,41,52,78.8,0,34,0,0,0,Hoffenheim,2019-01-26 Freiburg-Hoffenheim,GER-BL1,18-19,f2f574d1

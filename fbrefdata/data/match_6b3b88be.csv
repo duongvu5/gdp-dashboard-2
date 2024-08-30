@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+9453d2f4,Baptiste Guillaume,25,BEL,FW,23-132,69,0,0,0,0,0,0,0,0,19,0,0,1,0.0,0.0,0.0,2,0,8,16,50.0,1,7,0,0,0,Nîmes,2018-10-26 Nîmes-Saint-Étienne,FRA-L1,18-19,6b3b88be
+bdedd861,Rachid Alioui,7,MAR,FW,26-130,21,1,0,0,0,1,1,0,0,14,0,1,0,0.4,0.4,0.0,1,0,7,10,70.0,0,7,2,0,0,Nîmes,2018-10-26 Nîmes-Saint-Étienne,FRA-L1,18-19,6b3b88be
+6e2c94ad,Umut Bozok,19,TUR,FW,22-037,88,0,1,0,0,0,0,0,0,24,0,0,0,0.0,0.0,0.8,3,1,14,18,77.8,3,20,1,4,3,Nîmes,2018-10-26 Nîmes-Saint-Étienne,FRA-L1,18-19,6b3b88be
+e53ab10b,Clément Depres,9,FRA,FW,23-335,2,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,0,0,0,0,Nîmes,2018-10-26 Nîmes-Saint-Étienne,FRA-L1,18-19,6b3b88be
+beae3a73,Renaud Ripart,20,FRA,"RB,LM",25-226,90,0,0,0,0,2,0,0,0,81,2,4,1,0.1,0.1,0.0,0,0,45,65,69.2,1,37,1,0,0,Nîmes,2018-10-26 Nîmes-Saint-Étienne,FRA-L1,18-19,6b3b88be
+6bde367b,Téji Savanier,11,FRA,CM,26-308,90,0,0,0,0,4,3,0,0,91,2,1,2,0.1,0.1,0.2,3,0,42,70,60.0,9,42,0,2,1,Nîmes,2018-10-26 Nîmes-Saint-Étienne,FRA-L1,18-19,6b3b88be
+c8090cb3,Theo Valls,18,FRA,CM,22-312,90,0,0,0,0,0,0,0,0,65,0,2,0,0.0,0.0,0.0,2,0,49,59,83.1,6,33,1,0,0,Nîmes,2018-10-26 Nîmes-Saint-Étienne,FRA-L1,18-19,6b3b88be
+f4bc42b1,Sada Thioub,22,SEN,RM,23-147,90,0,0,0,0,1,1,0,0,67,3,0,1,0.0,0.0,0.0,3,0,34,48,70.8,4,41,6,7,4,Nîmes,2018-10-26 Nîmes-Saint-Étienne,FRA-L1,18-19,6b3b88be
+e54a9890,Faitout Maouassa,12,FRA,LB,20-112,90,0,0,0,0,0,0,0,0,58,4,3,1,0.0,0.0,0.0,2,0,31,44,70.5,6,31,4,2,1,Nîmes,2018-10-26 Nîmes-Saint-Étienne,FRA-L1,18-19,6b3b88be
+08082af0,Loïck Landre,5,FRA,CB,26-174,90,0,0,0,0,0,0,0,0,52,1,1,0,0.0,0.0,0.0,1,0,37,45,82.2,2,34,0,0,0,Nîmes,2018-10-26 Nîmes-Saint-Étienne,FRA-L1,18-19,6b3b88be
+16324e1d,Anthony Briançon,23,FRA,CB,23-332,90,0,0,0,0,1,1,0,0,67,0,1,5,0.0,0.0,0.0,0,0,50,57,87.7,8,42,1,0,0,Nîmes,2018-10-26 Nîmes-Saint-Étienne,FRA-L1,18-19,6b3b88be
+5314e067,Sofiane Alakouch,29,MAR,RB,20-089,28,0,0,0,0,0,0,0,0,23,4,0,0,0.0,0.0,0.0,2,0,12,15,80.0,1,10,0,2,2,Nîmes,2018-10-26 Nîmes-Saint-Étienne,FRA-L1,18-19,6b3b88be
+0b0cbe5b,Denis Bouanga,10,GAB,LM,23-349,62,0,0,0,0,4,0,1,0,27,1,0,1,0.6,0.6,0.0,3,0,10,15,66.7,1,21,4,3,2,Nîmes,2018-10-26 Nîmes-Saint-Étienne,FRA-L1,18-19,6b3b88be
+28dabd43,Paul Bernardoni,30,FRA,GK,21-191,90,0,0,0,0,0,0,0,0,31,0,0,0,0.0,0.0,0.0,0,0,18,26,69.2,0,16,0,0,0,Nîmes,2018-10-26 Nîmes-Saint-Étienne,FRA-L1,18-19,6b3b88be
+2677a1de,Wahbi Khazri,10,TUN,FW,27-260,90,0,0,0,0,2,0,1,0,41,2,0,0,0.1,0.1,0.1,3,0,15,30,50.0,1,24,4,2,1,Saint-Étienne,2018-10-26 Nîmes-Saint-Étienne,FRA-L1,18-19,6b3b88be
+4a57580c,Kévin Monnet-Paquet,22,FRA,LW,30-068,77,0,0,0,0,2,1,0,0,41,0,0,0,0.1,0.1,0.1,4,0,23,35,65.7,4,24,7,2,2,Saint-Étienne,2018-10-26 Nîmes-Saint-Étienne,FRA-L1,18-19,6b3b88be
+4be0b467,Lois Diony,9,FRA,LW,25-310,13,0,0,0,0,0,0,0,0,10,1,0,0,0.0,0.0,0.0,0,0,2,7,28.6,1,4,1,0,0,Saint-Étienne,2018-10-26 Nîmes-Saint-Étienne,FRA-L1,18-19,6b3b88be
+7b9a9e25,Arnaud Nordin,18,FRA,RW,20-131,61,0,0,0,0,1,1,0,0,25,1,0,1,0.0,0.0,0.0,1,1,10,13,76.9,1,18,0,2,1,Saint-Étienne,2018-10-26 Nîmes-Saint-Étienne,FRA-L1,18-19,6b3b88be
+bb4a42be,Yannis Salibur,19,FRA,RW,27-275,29,0,0,0,0,1,0,0,0,12,0,0,1,0.1,0.1,0.0,1,0,4,7,57.1,2,11,2,1,0,Saint-Étienne,2018-10-26 Nîmes-Saint-Étienne,FRA-L1,18-19,6b3b88be
+148e136f,Rémy Cabella,7,FRA,AM,28-232,90,1,0,0,0,5,2,1,0,62,2,1,0,0.4,0.4,0.1,2,0,38,42,90.5,6,29,5,6,3,Saint-Étienne,2018-10-26 Nîmes-Saint-Étienne,FRA-L1,18-19,6b3b88be
+d4133fa1,Yann M'Vila,6,FRA,DM,28-119,90,0,0,0,0,1,0,1,0,68,3,6,0,0.0,0.0,0.0,3,0,44,54,81.5,3,23,0,0,0,Saint-Étienne,2018-10-26 Nîmes-Saint-Étienne,FRA-L1,18-19,6b3b88be
+4db2157a,Ole Selnæs,17,NOR,DM,24-111,82,0,0,0,0,1,0,0,0,45,3,1,0,0.0,0.0,0.0,1,0,29,35,82.9,3,17,0,0,0,Saint-Étienne,2018-10-26 Nîmes-Saint-Étienne,FRA-L1,18-19,6b3b88be
+7f622eef,Assane Dioussé,25,SEN,DM,21-036,8,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,6,7,85.7,1,3,0,0,0,Saint-Étienne,2018-10-26 Nîmes-Saint-Étienne,FRA-L1,18-19,6b3b88be
+ab096c6f,Timothée Kolodziejczak,5,FRA,LB,27-025,90,0,0,0,0,0,0,0,0,77,1,0,1,0.0,0.0,0.0,0,0,46,67,68.7,3,30,2,2,2,Saint-Étienne,2018-10-26 Nîmes-Saint-Étienne,FRA-L1,18-19,6b3b88be
+821233cc,Neven Subotić,28,SRB,CB,29-320,90,0,0,0,0,0,0,0,0,54,0,2,1,0.0,0.0,0.0,0,0,33,37,89.2,1,23,0,0,0,Saint-Étienne,2018-10-26 Nîmes-Saint-Étienne,FRA-L1,18-19,6b3b88be
+6b200d45,Loïc Perrin,24,FRA,CB,33-080,90,0,0,0,0,0,0,0,0,51,1,1,0,0.0,0.0,0.0,2,0,34,41,82.9,1,26,0,1,1,Saint-Étienne,2018-10-26 Nîmes-Saint-Étienne,FRA-L1,18-19,6b3b88be
+92232aad,Mathieu Debuchy,26,FRA,RB,33-090,90,0,1,0,0,0,0,0,0,60,1,3,0,0.0,0.0,0.3,4,1,34,48,70.8,4,21,1,0,0,Saint-Étienne,2018-10-26 Nîmes-Saint-Étienne,FRA-L1,18-19,6b3b88be
+cac76a72,Stéphane Ruffier,16,FRA,GK,32-029,90,0,0,0,0,0,0,0,0,39,0,0,0,0.0,0.0,0.0,0,0,22,37,59.5,0,18,0,0,0,Saint-Étienne,2018-10-26 Nîmes-Saint-Étienne,FRA-L1,18-19,6b3b88be

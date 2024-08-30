@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+d70ce98e,Lionel Messi,30,ARG,FW,34-171,90,0,1,0,0,4,0,0,0,55,1,1,0,0.3,0.3,0.3,5,2,35,41,85.4,8,43,4,3,1,Paris Saint-Germain,2021-12-12 Paris S-G-Monaco,FRA-L1,21-22,acd226cc
+42fd9c7f,Kylian Mbappé,7,FRA,"LW,FW",22-357,87,2,0,1,1,1,1,1,0,49,0,0,0,1.0,0.2,0.2,5,1,30,37,81.1,5,42,6,7,6,Paris Saint-Germain,2021-12-12 Paris S-G-Monaco,FRA-L1,21-22,acd226cc
+43b78598,Mauro Icardi,9,ARG,FW,28-296,3,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,1,0,0,0,Paris Saint-Germain,2021-12-12 Paris S-G-Monaco,FRA-L1,21-22,acd226cc
+19cda00b,Ángel Di María,11,ARG,RW,33-301,80,0,0,0,0,1,0,0,0,61,1,2,1,0.1,0.1,0.0,4,1,39,50,78.0,7,47,4,5,2,Paris Saint-Germain,2021-12-12 Paris S-G-Monaco,FRA-L1,21-22,acd226cc
+436a9dd0,Ander Herrera,21,ESP,"RM,RW",32-120,10,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,1,0,7,7,100.0,0,2,0,1,1,Paris Saint-Germain,2021-12-12 Paris S-G-Monaco,FRA-L1,21-22,acd226cc
+72c812f3,Idrissa Gana Gueye,27,SEN,LM,32-077,80,0,0,0,0,0,0,1,0,59,2,1,4,0.0,0.0,0.0,1,0,43,49,87.8,3,32,1,1,1,Paris Saint-Germain,2021-12-12 Paris S-G-Monaco,FRA-L1,21-22,acd226cc
+dff153a4,Leandro Paredes,8,ARG,"CM,LM",27-166,10,0,0,0,0,0,0,0,0,12,0,0,0,0.0,0.0,0.0,0,0,11,12,91.7,0,10,0,0,0,Paris Saint-Germain,2021-12-12 Paris S-G-Monaco,FRA-L1,21-22,acd226cc
+1467af0d,Marco Verratti,6,ITA,CM,29-037,90,0,0,0,0,0,0,1,0,90,0,3,3,0.0,0.0,0.1,1,0,74,78,94.9,5,66,0,3,3,Paris Saint-Germain,2021-12-12 Paris S-G-Monaco,FRA-L1,21-22,acd226cc
+eb58eef0,Georginio Wijnaldum,18,NED,"RM,LM",31-031,90,0,0,0,0,1,0,0,0,29,2,0,1,0.3,0.3,0.0,0,0,19,22,86.4,1,18,0,1,0,Paris Saint-Germain,2021-12-12 Paris S-G-Monaco,FRA-L1,21-22,acd226cc
+433dc9a2,Juan Bernat,14,ESP,LB,28-286,49,0,0,0,0,0,0,0,0,26,0,0,1,0.0,0.0,0.3,1,0,25,25,100.0,1,16,1,0,0,Paris Saint-Germain,2021-12-12 Paris S-G-Monaco,FRA-L1,21-22,acd226cc
+51dbeea9,Thilo Kehrer,24,GER,CB,25-082,41,0,0,0,0,0,0,0,0,29,1,0,0,0.0,0.0,0.0,0,0,23,26,88.5,0,17,0,1,1,Paris Saint-Germain,2021-12-12 Paris S-G-Monaco,FRA-L1,21-22,acd226cc
+fc62f087,Abdou Diallo,22,SEN,"CB,LB",25-222,90,0,0,0,0,0,0,0,0,78,4,4,1,0.0,0.0,0.0,0,0,50,62,80.6,1,51,1,2,0,Paris Saint-Germain,2021-12-12 Paris S-G-Monaco,FRA-L1,21-22,acd226cc
+d5f2f82b,Marquinhos,5,BRA,CB,27-212,90,0,0,0,0,0,0,0,0,74,1,0,1,0.0,0.0,0.0,0,0,60,65,92.3,3,48,0,1,1,Paris Saint-Germain,2021-12-12 Paris S-G-Monaco,FRA-L1,21-22,acd226cc
+e42d61c7,Achraf Hakimi,2,MAR,RB,23-038,90,0,0,0,0,1,0,0,0,61,1,5,0,0.1,0.1,0.0,0,0,47,53,88.7,3,39,2,0,0,Paris Saint-Germain,2021-12-12 Paris S-G-Monaco,FRA-L1,21-22,acd226cc
+08f5afaa,Gianluigi Donnarumma,50,ITA,GK,22-290,90,0,0,0,0,0,0,0,0,45,0,0,0,0.0,0.0,0.0,0,0,33,43,76.7,0,29,0,0,0,Paris Saint-Germain,2021-12-12 Paris S-G-Monaco,FRA-L1,21-22,acd226cc
+942b4f90,Wissam Ben Yedder,10,FRA,FW,31-122,54,0,0,0,0,0,0,0,0,20,0,0,1,0.0,0.0,0.3,2,0,13,14,92.9,1,9,1,1,0,Monaco,2021-12-12 Paris S-G-Monaco,FRA-L1,21-22,acd226cc
+5b479568,Myron Boadu,9,NED,FW,20-332,36,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,1,0,1,2,50.0,0,4,0,1,0,Monaco,2021-12-12 Paris S-G-Monaco,FRA-L1,21-22,acd226cc
+3ef0fa48,Gelson Martins,7,POR,"RW,LW",26-215,84,0,0,0,0,0,0,1,0,41,4,1,0,0.0,0.0,0.1,3,0,23,29,79.3,3,27,0,2,2,Monaco,2021-12-12 Paris S-G-Monaco,FRA-L1,21-22,acd226cc
+a671316d,Wilson Isidor,39,FRA,RW,21-107,6,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,0,2,0.0,0,0,0,0,0,Monaco,2021-12-12 Paris S-G-Monaco,FRA-L1,21-22,acd226cc
+3708e9fa,Aleksandr Golovin,17,RUS,"LW,RW",25-196,90,0,0,0,0,3,2,0,0,43,3,0,1,0.2,0.2,0.1,5,0,28,34,82.4,2,29,5,2,2,Monaco,2021-12-12 Paris S-G-Monaco,FRA-L1,21-22,acd226cc
+19053e31,Sofiane Diop,37,FRA,AM,21-186,64,0,0,0,0,3,0,0,0,31,2,0,0,0.3,0.3,0.1,3,0,18,23,78.3,3,19,3,1,1,Monaco,2021-12-12 Paris S-G-Monaco,FRA-L1,21-22,acd226cc
+15944afd,Eliot Matazo,36,BEL,DM,19-300,26,0,0,0,0,0,0,0,0,18,0,0,1,0.0,0.0,0.0,3,0,14,17,82.4,1,15,2,1,1,Monaco,2021-12-12 Paris S-G-Monaco,FRA-L1,21-22,acd226cc
+4f255115,Aurélien Tchouaméni,8,FRA,DM,21-319,90,0,0,0,0,4,0,0,0,87,3,7,0,0.2,0.2,0.0,3,0,64,72,88.9,6,55,0,0,0,Monaco,2021-12-12 Paris S-G-Monaco,FRA-L1,21-22,acd226cc
+822d51d7,Youssouf Fofana,22,FRA,DM,22-336,54,0,0,0,0,1,0,1,0,61,1,1,2,0.0,0.0,0.0,3,0,45,58,77.6,7,36,3,3,2,Monaco,2021-12-12 Paris S-G-Monaco,FRA-L1,21-22,acd226cc
+a99138af,Jean Lucas,11,BRA,"AM,DM",23-173,36,0,0,0,0,0,0,0,0,19,2,0,1,0.0,0.0,0.0,0,0,10,15,66.7,1,8,0,1,0,Monaco,2021-12-12 Paris S-G-Monaco,FRA-L1,21-22,acd226cc
+30af8b93,Caio Henrique Oliveira Silva,12,BRA,LB,24-134,45,0,0,0,0,0,0,0,0,31,0,0,0,0.0,0.0,0.0,0,0,25,30,83.3,1,20,3,0,0,Monaco,2021-12-12 Paris S-G-Monaco,FRA-L1,21-22,acd226cc
+a0415710,Ismail Jakobs,14,SEN,LB,22-117,45,0,0,0,0,0,0,0,0,27,1,0,0,0.0,0.0,0.0,0,0,17,24,70.8,0,17,1,0,0,Monaco,2021-12-12 Paris S-G-Monaco,FRA-L1,21-22,acd226cc
+ad82197c,Axel Disasi,6,FRA,CB,23-276,90,0,0,0,0,1,0,0,0,61,3,1,2,0.1,0.1,0.0,0,0,46,52,88.5,4,36,1,0,0,Monaco,2021-12-12 Paris S-G-Monaco,FRA-L1,21-22,acd226cc
+d9764034,Guillermo Maripán,3,CHI,CB,27-220,90,0,0,0,0,1,1,1,0,57,3,2,0,0.0,0.0,0.0,0,0,44,50,88.0,2,37,0,1,0,Monaco,2021-12-12 Paris S-G-Monaco,FRA-L1,21-22,acd226cc
+4c5b714f,Djibril Sidibé,19,FRA,RB,29-136,90,0,0,0,0,0,0,1,0,69,4,2,0,0.0,0.0,0.0,1,0,44,59,74.6,7,46,4,0,0,Monaco,2021-12-12 Paris S-G-Monaco,FRA-L1,21-22,acd226cc
+afb0c500,Alexander Nübel,16,GER,GK,25-073,90,0,0,0,0,0,0,0,0,35,0,0,0,0.0,0.0,0.0,0,0,32,34,94.1,0,18,0,0,0,Monaco,2021-12-12 Paris S-G-Monaco,FRA-L1,21-22,acd226cc

@@ -1,0 +1,31 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+731f1f5a,Steve Ngoura,13,FRA,FW,19-059,60,0,0,0,0,1,0,0,0,17,1,0,0,0.0,0.0,0.0,1,0,5,10,50.0,0,11,1,2,2,Le Havre,2024-04-21 Le Havre-Metz,FRA-L1,23-24,488e12d3
+01870104,Mohamed Lamine Bayo,9,GUI,FW,25-322,30,0,0,0,0,1,1,0,0,11,1,0,0,0.0,0.0,0.0,2,0,4,8,50.0,0,5,1,0,0,Le Havre,2024-04-21 Le Havre-Metz,FRA-L1,23-24,488e12d3
+481f76cf,Josué Casimir,23,FRA,LW,22-210,60,0,0,0,0,2,1,0,0,36,0,1,0,0.1,0.1,0.0,2,0,19,28,67.9,2,27,1,2,0,Le Havre,2024-04-21 Le Havre-Metz,FRA-L1,23-24,488e12d3
+c3b6fa1e,Loïc Nego,7,HUN,RB,33-097,30,0,0,0,0,0,0,1,0,14,0,0,0,0.0,0.0,0.0,0,0,11,14,78.6,2,12,0,0,0,Le Havre,2024-04-21 Le Havre-Metz,FRA-L1,23-24,488e12d3
+2e1b7c83,Emmanuel Sabbi,11,USA,RW,26-119,90,0,0,0,0,3,0,0,0,55,4,2,2,0.2,0.2,0.0,4,0,26,39,66.7,0,34,4,6,2,Le Havre,2024-04-21 Le Havre-Metz,FRA-L1,23-24,488e12d3
+d4e93bab,Daler Kuzyaev,14,RUS,AM,31-097,68,0,0,0,0,0,0,0,0,34,1,0,0,0.0,0.0,0.1,3,0,23,31,74.2,6,25,0,0,0,Le Havre,2024-04-21 Le Havre-Metz,FRA-L1,23-24,488e12d3
+d2448564,Samuel Grandsir,29,FRA,AM,27-251,22,0,0,0,0,2,0,0,0,17,0,0,0,0.1,0.1,0.1,2,0,10,14,71.4,1,11,2,1,0,Le Havre,2024-04-21 Le Havre-Metz,FRA-L1,23-24,488e12d3
+abefc3af,Yassine Kechta,8,MAR,DM,22-056,80,0,0,0,0,0,0,0,0,52,0,0,0,0.0,0.0,0.1,4,0,40,50,80.0,5,46,1,1,0,Le Havre,2024-04-21 Le Havre-Metz,FRA-L1,23-24,488e12d3
+36f65bdf,Rassoul Ndiaye,19,SEN,DM,22-132,10,0,0,0,0,1,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,3,6,50.0,0,4,0,0,0,Le Havre,2024-04-21 Le Havre-Metz,FRA-L1,23-24,488e12d3
+abd56820,Oussama Targhalline,5,MAR,DM,21-337,90,0,0,0,0,2,0,0,0,89,2,0,1,0.1,0.1,0.0,3,0,65,78,83.3,9,71,4,3,0,Le Havre,2024-04-21 Le Havre-Metz,FRA-L1,23-24,488e12d3
+9f29c204,Oualid El Hajjam,17,MAR,LB,33-062,90,0,0,0,0,1,0,0,0,81,5,1,0,0.1,0.1,0.0,3,0,51,66,77.3,4,52,4,0,0,Le Havre,2024-04-21 Le Havre-Metz,FRA-L1,23-24,488e12d3
+c3725db2,Yoann Salmier,22,GUF,CB,31-152,90,0,0,0,0,1,1,0,0,65,1,0,2,0.0,0.0,0.1,2,0,48,59,81.4,2,45,1,0,0,Le Havre,2024-04-21 Le Havre-Metz,FRA-L1,23-24,488e12d3
+12a4e38c,Etienne Youte Kinkoue,6,FRA,CB,22-098,60,0,0,0,0,0,0,0,0,41,0,0,0,0.0,0.0,0.0,0,0,38,41,92.7,2,33,5,1,1,Le Havre,2024-04-21 Le Havre-Metz,FRA-L1,23-24,488e12d3
+f9124307,Antoine Joujou,21,FRA,LW,21-040,30,0,0,0,0,0,0,0,0,10,1,0,0,0.0,0.0,0.1,2,0,9,10,90.0,0,8,2,1,1,Le Havre,2024-04-21 Le Havre-Metz,FRA-L1,23-24,488e12d3
+17bb562c,Arouna Sangante,93,SEN,"RB,CB",22-009,90,0,0,0,0,2,1,1,0,87,2,2,0,0.1,0.1,0.0,2,0,55,76,72.4,6,57,2,0,0,Le Havre,2024-04-21 Le Havre-Metz,FRA-L1,23-24,488e12d3
+e8c5dd4d,Arthur Desmas,30,FRA,GK,30-014,90,0,0,0,0,0,0,0,0,29,0,0,0,0.0,0.0,0.0,0,0,22,27,81.5,0,19,0,0,0,Le Havre,2024-04-21 Le Havre-Metz,FRA-L1,23-24,488e12d3
+4788cb6b,Georges Mikautadze,10,GEO,FW,23-173,90,1,0,0,0,3,1,0,0,31,0,0,1,0.4,0.4,0.4,3,1,12,16,75.0,3,21,3,7,3,Metz,2024-04-21 Le Havre-Metz,FRA-L1,23-24,488e12d3
+d638ab17,Papa Amadou Diallo,7,SEN,LW,19-301,80,0,0,0,0,1,0,0,0,38,2,0,1,0.3,0.3,0.2,2,0,16,23,69.6,2,20,2,1,0,Metz,2024-04-21 Le Havre-Metz,FRA-L1,23-24,488e12d3
+10e51236,Abou Lô,15,SEN,LW,24-110,10,0,0,0,0,0,0,0,0,4,0,0,2,0.0,0.0,0.0,0,0,1,2,50.0,0,1,0,0,0,Metz,2024-04-21 Le Havre-Metz,FRA-L1,23-24,488e12d3
+f6a3c84d,Kévin Van Den Kerkhof,22,ALG,RW,28-038,89,0,0,0,0,2,0,0,0,35,0,0,0,0.5,0.5,0.1,2,0,18,27,66.7,0,28,2,3,1,Metz,2024-04-21 Le Havre-Metz,FRA-L1,23-24,488e12d3
+9ddf7fae,Cheikh Tidiane Sabaly,14,SEN,RW,25-048,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Metz,2024-04-21 Le Havre-Metz,FRA-L1,23-24,488e12d3
+d3ddf88b,Arthur Atta,25,FRA,CM,21-098,90,0,0,0,0,2,1,0,0,42,1,0,0,0.1,0.1,0.0,1,1,18,29,62.1,1,27,1,3,1,Metz,2024-04-21 Le Havre-Metz,FRA-L1,23-24,488e12d3
+e50623a0,Kévin N'Doram,6,FRA,CM,28-090,90,0,0,0,0,0,0,1,0,41,4,2,1,0.0,0.0,0.0,1,0,21,30,70.0,1,22,0,0,0,Metz,2024-04-21 Le Havre-Metz,FRA-L1,23-24,488e12d3
+59fcbd6d,Danley Jean-Jacques,27,HAI,CM,23-337,90,0,0,0,0,0,0,1,0,35,1,1,4,0.0,0.0,0.0,1,0,20,25,80.0,4,19,0,0,0,Metz,2024-04-21 Le Havre-Metz,FRA-L1,23-24,488e12d3
+cc41f558,Matthieu Udol,3,FRA,LB,28-032,90,0,0,0,0,1,0,0,0,54,3,4,3,0.0,0.0,0.0,2,0,25,35,71.4,0,24,0,3,1,Metz,2024-04-21 Le Havre-Metz,FRA-L1,23-24,488e12d3
+b2009f99,Sadibou Sané,38,SEN,CB,19-316,90,0,0,0,0,0,0,0,0,43,0,1,2,0.0,0.0,0.0,0,0,27,29,93.1,1,24,0,0,0,Metz,2024-04-21 Le Havre-Metz,FRA-L1,23-24,488e12d3
+b666421b,Ismaël Traoré,8,CIV,CB,37-247,90,0,0,0,0,0,0,0,0,32,0,1,0,0.0,0.0,0.0,0,0,20,26,76.9,0,20,0,0,0,Metz,2024-04-21 Le Havre-Metz,FRA-L1,23-24,488e12d3
+2f71c116,Maxime Colin,2,FRA,RB,32-158,90,0,0,0,0,0,0,0,0,47,2,3,1,0.0,0.0,0.0,1,0,27,41,65.9,1,25,0,2,1,Metz,2024-04-21 Le Havre-Metz,FRA-L1,23-24,488e12d3
+ae7d0ecd,Alexandre Oukidja,16,ALG,GK,35-277,90,0,0,0,0,0,0,1,0,36,0,0,0,0.0,0.0,0.0,1,0,11,33,33.3,0,14,0,0,0,Metz,2024-04-21 Le Havre-Metz,FRA-L1,23-24,488e12d3

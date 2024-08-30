@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+6f8cd6d0,Marcus Thuram,21,FRA,FW,20-115,84,0,0,0,0,1,1,0,0,27,1,0,3,0.1,0.1,0.0,1,0,11,16,68.8,0,12,0,4,3,Guingamp,2017-11-29 Guingamp-Montpellier,FRA-L1,17-18,b2edc088
+6191093d,Ludovic Blas,7,FRA,"AM,RM",19-333,6,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,3,3,100.0,0,3,1,2,2,Guingamp,2017-11-29 Guingamp-Montpellier,FRA-L1,17-18,b2edc088
+f83c8d6c,Jimmy Briand,23,FRA,FW,32-119,90,0,0,0,0,1,0,0,0,52,4,0,1,0.0,0.0,0.0,4,0,31,40,77.5,2,32,1,1,1,Guingamp,2017-11-29 Guingamp-Montpellier,FRA-L1,17-18,b2edc088
+30395d3b,Nicolas Benezet,10,FRA,LM,26-278,45,0,0,0,0,0,0,0,0,35,1,1,1,0.0,0.0,0.0,2,0,16,28,57.1,3,22,3,2,1,Guingamp,2017-11-29 Guingamp-Montpellier,FRA-L1,17-18,b2edc088
+3010aefb,Marcus Coco,24,FRA,"LM,LW",21-158,45,0,0,0,0,0,0,0,0,26,1,1,0,0.0,0.0,0.1,4,0,14,18,77.8,1,12,1,1,0,Guingamp,2017-11-29 Guingamp-Montpellier,FRA-L1,17-18,b2edc088
+44f8c299,Lucas Deaux,8,FRA,"CM,DM",28-338,90,0,0,0,0,3,0,0,0,81,2,4,3,0.2,0.2,0.0,1,0,57,70,81.4,9,41,3,2,2,Guingamp,2017-11-29 Guingamp-Montpellier,FRA-L1,17-18,b2edc088
+6c6ecdd4,Mustapha Diallo,5,SEN,"CM,DM",31-199,90,0,0,0,0,2,0,0,0,57,4,2,1,0.1,0.1,0.0,0,0,43,50,86.0,5,32,0,0,0,Guingamp,2017-11-29 Guingamp-Montpellier,FRA-L1,17-18,b2edc088
+07296190,Abdoul Camara,9,GUI,RM,27-282,75,0,0,0,0,1,0,0,0,39,0,1,2,0.0,0.0,0.1,2,0,21,30,70.0,1,25,3,7,4,Guingamp,2017-11-29 Guingamp-Montpellier,FRA-L1,17-18,b2edc088
+bb4a42be,Yannis Salibur,19,FRA,"RM,RW,FW",26-309,15,0,0,0,0,1,0,1,0,8,0,0,0,0.0,0.0,0.0,1,0,3,4,75.0,1,5,0,4,2,Guingamp,2017-11-29 Guingamp-Montpellier,FRA-L1,17-18,b2edc088
+8ff4872e,Jordan Ikoko,2,COD,LB,23-299,90,0,0,0,0,0,0,0,0,93,0,2,0,0.0,0.0,0.0,0,0,67,85,78.8,5,50,4,1,1,Guingamp,2017-11-29 Guingamp-Montpellier,FRA-L1,17-18,b2edc088
+7768df30,Jérémy Sorbon,15,FRA,CB,34-116,90,0,0,0,0,0,0,0,0,62,2,0,2,0.0,0.0,0.0,0,0,46,49,93.9,4,25,0,0,0,Guingamp,2017-11-29 Guingamp-Montpellier,FRA-L1,17-18,b2edc088
+0515a4cb,Christophe Kerbrat,29,FRA,CB,31-119,90,0,0,0,0,0,0,0,0,60,2,2,1,0.0,0.0,0.0,1,0,44,49,89.8,7,36,0,0,0,Guingamp,2017-11-29 Guingamp-Montpellier,FRA-L1,17-18,b2edc088
+b51242ef,Jonathan Martins Pereira,22,FRA,RB,31-303,90,0,0,0,0,1,0,0,0,76,2,1,0,0.0,0.0,0.0,1,0,52,61,85.2,8,31,2,0,0,Guingamp,2017-11-29 Guingamp-Montpellier,FRA-L1,17-18,b2edc088
+a56bd2ee,Karl-Johan Johnsson,1,SWE,GK,27-305,90,0,0,0,0,0,0,0,0,16,0,0,0,0.0,0.0,0.0,0,0,14,15,93.3,0,8,0,0,0,Guingamp,2017-11-29 Guingamp-Montpellier,FRA-L1,17-18,b2edc088
+91f2da4c,Casimir Ninga,29,CHA,FW,24-196,57,0,0,0,0,2,1,0,0,15,0,0,0,0.1,0.1,0.0,0,0,6,11,54.5,0,7,2,2,2,Montpellier,2017-11-29 Guingamp-Montpellier,FRA-L1,17-18,b2edc088
+aa1a8c7e,Isaac Mbenza,18,BEL,FW,21-266,33,0,0,0,0,1,1,1,0,6,0,0,0,0.2,0.2,0.0,0,0,2,3,66.7,0,3,0,0,0,Montpellier,2017-11-29 Guingamp-Montpellier,FRA-L1,17-18,b2edc088
+0fe7f7bc,Giovanni Sio,14,CIV,FW,28-243,57,0,0,0,0,0,0,1,0,18,0,0,0,0.0,0.0,0.0,0,0,6,12,50.0,0,10,1,2,0,Montpellier,2017-11-29 Guingamp-Montpellier,FRA-L1,17-18,b2edc088
+c58270f8,Souleymane Camara,19,SEN,FW,34-342,33,0,0,0,0,0,0,0,0,10,0,0,1,0.0,0.0,0.2,1,0,3,7,42.9,1,4,1,1,1,Montpellier,2017-11-29 Guingamp-Montpellier,FRA-L1,17-18,b2edc088
+542cc80f,Paul Lasne,7,FRA,CM,28-317,90,0,0,0,0,1,0,0,0,48,1,0,0,0.0,0.0,0.1,2,0,34,41,82.9,5,30,3,2,1,Montpellier,2017-11-29 Guingamp-Montpellier,FRA-L1,17-18,b2edc088
+24eb7ed6,Junior Sambia,6,FRA,CM,21-083,85,0,0,0,0,1,1,0,0,46,1,1,0,0.0,0.0,0.0,2,0,26,36,72.2,3,21,2,2,2,Montpellier,2017-11-29 Guingamp-Montpellier,FRA-L1,17-18,b2edc088
+fca455cc,Facundo Píriz,27,URU,CM,27-247,5,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,0,0,Montpellier,2017-11-29 Guingamp-Montpellier,FRA-L1,17-18,b2edc088
+c2211709,Ellyes Skhiri,13,TUN,CM,22-203,90,0,0,0,0,1,1,0,0,61,2,3,2,0.0,0.0,0.0,3,0,37,47,78.7,3,19,1,1,1,Montpellier,2017-11-29 Guingamp-Montpellier,FRA-L1,17-18,b2edc088
+13203c45,Jérôme Roussillon,24,FRA,LB,24-327,90,0,0,0,0,0,0,0,0,50,5,1,0,0.0,0.0,0.0,0,0,22,33,66.7,2,19,2,1,0,Montpellier,2017-11-29 Guingamp-Montpellier,FRA-L1,17-18,b2edc088
+3f5b4635,Daniel Congré,3,FRA,CB,32-238,90,0,0,0,0,0,0,0,0,43,3,1,1,0.0,0.0,0.0,1,0,29,33,87.9,3,15,0,0,0,Montpellier,2017-11-29 Guingamp-Montpellier,FRA-L1,17-18,b2edc088
+6690ef25,Pedro Mendes,5,POR,CB,27-059,90,0,0,0,0,0,0,1,0,46,0,2,1,0.0,0.0,0.0,0,0,26,34,76.5,2,17,0,1,1,Montpellier,2017-11-29 Guingamp-Montpellier,FRA-L1,17-18,b2edc088
+ac73ec79,Nordi Mukiele,23,FRA,CB,20-028,90,0,0,0,0,0,0,0,0,60,3,5,2,0.0,0.0,0.0,1,0,35,46,76.1,6,32,2,2,1,Montpellier,2017-11-29 Guingamp-Montpellier,FRA-L1,17-18,b2edc088
+3dd738a1,Ruben Aguilar,2,FRA,RB,24-217,90,0,0,0,0,0,0,0,0,72,2,2,1,0.0,0.0,0.1,2,0,47,59,79.7,4,24,3,2,2,Montpellier,2017-11-29 Guingamp-Montpellier,FRA-L1,17-18,b2edc088
+2fa2a875,Benjamin Lecomte,40,FRA,GK,26-217,90,0,0,0,0,0,0,0,0,30,0,0,0,0.0,0.0,0.0,0,0,15,29,51.7,0,13,0,0,0,Montpellier,2017-11-29 Guingamp-Montpellier,FRA-L1,17-18,b2edc088

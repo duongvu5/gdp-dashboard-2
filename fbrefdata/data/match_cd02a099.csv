@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+061e8e23,Maximilian Philipp,20,GER,FW,24-051,80,1,0,0,0,1,1,0,0,21,1,0,2,0.3,0.3,0.0,1,0,10,11,90.9,0,8,0,1,0,Dortmund,2018-04-21 Dortmund-Leverkusen,GER-BL1,17-18,cd02a099
+a96e5dc0,Jeremy Toljan,15,GER,FW,23-256,10,0,0,0,0,0,0,0,0,4,0,1,1,0.0,0.0,0.0,0,0,0,1,0.0,0,1,1,1,1,Dortmund,2018-04-21 Dortmund-Leverkusen,GER-BL1,17-18,cd02a099
+dbf053da,Jadon Sancho,7,ENG,LW,18-027,90,1,2,0,0,2,2,0,0,55,1,1,4,0.6,0.6,1.3,10,2,27,31,87.1,4,30,5,10,3,Dortmund,2018-04-21 Dortmund-Leverkusen,GER-BL1,17-18,cd02a099
+1bf33a9a,Christian Pulisic,22,USA,RW,19-215,71,0,1,0,0,1,0,0,0,38,2,0,1,0.2,0.2,0.3,6,2,17,26,65.4,2,25,6,6,2,Dortmund,2018-04-21 Dortmund-Leverkusen,GER-BL1,17-18,cd02a099
+db4ed67b,Mahmoud Dahoud,19,GER,RW,22-110,19,0,0,0,0,1,0,0,0,13,1,0,0,0.1,0.1,0.0,1,1,5,8,62.5,1,6,2,1,0,Dortmund,2018-04-21 Dortmund-Leverkusen,GER-BL1,17-18,cd02a099
+36a3ff67,Marco Reus,11,GER,LM,28-325,85,2,0,0,1,5,2,0,0,39,1,0,1,1.7,0.9,0.5,6,1,21,27,77.8,5,14,2,2,1,Dortmund,2018-04-21 Dortmund-Leverkusen,GER-BL1,17-18,cd02a099
+01e5f06e,Sergio Gómez,34,ESP,LM,17-229,5,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,1,0,0,0,Dortmund,2018-04-21 Dortmund-Leverkusen,GER-BL1,17-18,cd02a099
+346d51d9,Julian Weigl,33,GER,CM,22-225,90,0,0,0,0,0,0,0,0,50,3,2,0,0.0,0.0,0.0,1,0,38,44,86.4,6,27,1,1,1,Dortmund,2018-04-21 Dortmund-Leverkusen,GER-BL1,17-18,cd02a099
+9efa1d25,Mario Götze,10,GER,RM,25-322,90,0,1,0,0,2,0,0,0,49,1,2,1,0.5,0.5,0.6,4,1,29,41,70.7,5,25,1,2,0,Dortmund,2018-04-21 Dortmund-Leverkusen,GER-BL1,17-18,cd02a099
+89ac64a6,Manuel Akanji,16,SUI,LB,22-276,90,0,0,0,0,2,1,0,0,45,3,1,1,0.1,0.1,0.0,2,1,24,34,70.6,5,14,1,1,1,Dortmund,2018-04-21 Dortmund-Leverkusen,GER-BL1,17-18,cd02a099
+c5fd13e9,Ömer Toprak,36,TUR,CB,28-274,90,0,0,0,0,0,0,0,0,46,2,3,0,0.0,0.0,0.0,0,0,31,37,83.8,3,24,1,0,0,Dortmund,2018-04-21 Dortmund-Leverkusen,GER-BL1,17-18,cd02a099
+b682dcf6,Sokratis Papastathopoulos,25,GRE,CB,29-316,90,0,0,0,0,1,1,0,0,52,7,1,1,0.1,0.1,0.0,2,0,36,42,85.7,3,33,0,1,1,Dortmund,2018-04-21 Dortmund-Leverkusen,GER-BL1,17-18,cd02a099
+fe2db476,Łukasz Piszczek,26,POL,RB,32-322,90,0,0,0,0,1,0,0,0,77,1,2,4,0.1,0.1,0.0,0,0,49,66,74.2,9,17,1,0,0,Dortmund,2018-04-21 Dortmund-Leverkusen,GER-BL1,17-18,cd02a099
+9d12e142,Roman Bürki,38,SUI,GK,27-158,90,0,0,0,0,0,0,0,0,34,0,0,0,0.0,0.0,0.0,0,0,22,33,66.7,0,17,0,0,0,Dortmund,2018-04-21 Dortmund-Leverkusen,GER-BL1,17-18,cd02a099
+834d0be5,Lucas Alario,13,ARG,FW,25-195,68,0,0,0,0,2,0,0,0,21,2,0,0,0.1,0.1,0.0,1,0,13,16,81.3,0,15,1,0,0,Bayer Leverkusen,2018-04-21 Dortmund-Leverkusen,GER-BL1,17-18,cd02a099
+bee0bab1,Karim Bellarabi,38,GER,FW,28-013,22,0,0,0,0,2,2,0,0,17,0,0,1,0.1,0.1,0.0,1,0,11,14,78.6,1,13,2,0,0,Bayer Leverkusen,2018-04-21 Dortmund-Leverkusen,GER-BL1,17-18,cd02a099
+a167537f,Julian Brandt,10,GER,LW,21-354,90,0,0,0,0,1,0,0,0,57,1,0,3,0.0,0.0,0.3,6,0,33,48,68.8,7,42,2,4,2,Bayer Leverkusen,2018-04-21 Dortmund-Leverkusen,GER-BL1,17-18,cd02a099
+3a233281,Leon Bailey,9,JAM,RW,20-255,45,0,0,0,0,0,0,0,0,22,1,0,0,0.0,0.0,0.0,1,0,11,17,64.7,1,17,1,1,0,Bayer Leverkusen,2018-04-21 Dortmund-Leverkusen,GER-BL1,17-18,cd02a099
+fed7cb61,Kai Havertz,29,GER,RW,18-314,45,0,0,0,0,2,1,0,0,35,1,0,0,0.1,0.1,0.0,1,0,24,28,85.7,8,27,2,3,0,Bayer Leverkusen,2018-04-21 Dortmund-Leverkusen,GER-BL1,17-18,cd02a099
+64f69877,Kevin Volland,31,GER,AM,25-265,90,0,0,0,0,0,0,0,0,39,1,0,0,0.0,0.0,0.0,1,0,25,33,75.8,6,34,1,3,1,Bayer Leverkusen,2018-04-21 Dortmund-Leverkusen,GER-BL1,17-18,cd02a099
+56413b1f,Charles Aránguiz,20,CHI,DM,29-004,90,0,0,0,0,0,0,0,0,60,3,2,1,0.0,0.0,0.0,2,0,44,53,83.0,7,46,0,1,1,Bayer Leverkusen,2018-04-21 Dortmund-Leverkusen,GER-BL1,17-18,cd02a099
+0fbecd11,Dominik Kohr,21,GER,DM,24-080,90,0,0,0,0,1,0,0,0,68,2,3,1,0.1,0.1,0.1,3,0,48,58,82.8,4,47,2,0,0,Bayer Leverkusen,2018-04-21 Dortmund-Leverkusen,GER-BL1,17-18,cd02a099
+4bd00a50,Panagiotis Retsos,3,GRE,LB,19-255,90,0,0,0,0,1,0,0,0,66,6,2,2,0.1,0.1,0.0,1,0,42,49,85.7,3,39,0,2,1,Bayer Leverkusen,2018-04-21 Dortmund-Leverkusen,GER-BL1,17-18,cd02a099
+070ec0b1,Sven Bender,5,GER,CB,28-359,90,0,0,0,0,0,0,0,0,76,2,3,2,0.0,0.0,0.0,1,0,54,62,87.1,5,48,0,1,1,Bayer Leverkusen,2018-04-21 Dortmund-Leverkusen,GER-BL1,17-18,cd02a099
+bd142efb,Jonathan Tah,4,GER,CB,22-069,41,0,0,0,0,0,0,0,0,21,0,0,1,0.0,0.0,0.0,0,0,16,17,94.1,3,17,0,1,0,Bayer Leverkusen,2018-04-21 Dortmund-Leverkusen,GER-BL1,17-18,cd02a099
+f820504e,Tin Jedvaj,16,CRO,CB,22-144,49,0,0,0,0,0,0,0,0,36,3,1,1,0.0,0.0,0.0,1,0,22,32,68.8,2,14,3,3,2,Bayer Leverkusen,2018-04-21 Dortmund-Leverkusen,GER-BL1,17-18,cd02a099
+0a89e877,Benjamin Henrichs,39,GER,RB,21-057,90,0,0,0,0,1,0,0,0,64,2,1,2,0.0,0.0,0.0,1,0,41,55,74.5,8,34,2,2,0,Bayer Leverkusen,2018-04-21 Dortmund-Leverkusen,GER-BL1,17-18,cd02a099
+a165a577,Ramazan Özcan,28,AUT,GK,33-297,90,0,0,0,0,0,0,0,0,41,0,0,0,0.0,0.0,0.0,0,0,30,39,76.9,0,26,0,0,0,Bayer Leverkusen,2018-04-21 Dortmund-Leverkusen,GER-BL1,17-18,cd02a099

@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+7a42d0df,Florian Sotoca,7,FRA,FW,30-119,90,0,0,0,0,2,0,0,0,30,0,0,0,0.5,0.5,0.1,2,0,21,22,95.5,4,18,1,1,0,Lens,2021-02-21 Lens-Dijon,FRA-L1,20-21,a8149604
+bf4c41f9,Arnaud Kalimuendo,29,FRA,FW,19-032,61,0,0,0,0,0,0,0,0,23,1,0,2,0.0,0.0,0.0,0,0,9,12,75.0,1,16,0,2,0,Lens,2021-02-21 Lens-Dijon,FRA-L1,20-21,a8149604
+be47b750,Simon Banza,23,COD,FW,24-192,29,1,0,0,0,2,2,0,0,14,1,1,0,0.2,0.2,0.0,0,0,8,11,72.7,0,8,0,0,0,Lens,2021-02-21 Lens-Dijon,FRA-L1,20-21,a8149604
+5b1bf5e3,Gaël Kakuta,10,COD,AM,29-245,73,0,0,0,0,2,0,0,0,37,0,0,2,0.1,0.1,0.0,1,1,15,27,55.6,1,24,3,3,1,Lens,2021-02-21 Lens-Dijon,FRA-L1,20-21,a8149604
+96e5168e,Tony Mauricio,22,FRA,AM,26-336,17,0,0,0,0,0,0,0,0,23,1,0,0,0.0,0.0,0.0,1,0,19,22,86.4,3,14,1,0,0,Lens,2021-02-21 Lens-Dijon,FRA-L1,20-21,a8149604
+5313ed43,Seko Fofana,8,CIV,CM,25-290,89,1,0,0,0,1,1,0,0,57,1,1,0,0.1,0.1,0.1,4,0,37,43,86.0,5,43,3,2,0,Lens,2021-02-21 Lens-Dijon,FRA-L1,20-21,a8149604
+677ee102,Yannick Cahuzac,18,FRA,CM,36-034,1,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,1,0,0,0,Lens,2021-02-21 Lens-Dijon,FRA-L1,20-21,a8149604
+ce4f40c7,Cheick Doucouré,28,MLI,CM,21-044,90,0,0,0,0,2,0,1,0,68,2,0,0,0.1,0.1,0.0,4,0,51,61,83.6,7,49,2,3,3,Lens,2021-02-21 Lens-Dijon,FRA-L1,20-21,a8149604
+5167c97e,Massadio Haïdara,21,MLI,WB,28-081,89,0,0,0,0,0,0,1,0,53,2,1,1,0.0,0.0,0.0,3,0,25,36,69.4,1,21,1,5,2,Lens,2021-02-21 Lens-Dijon,FRA-L1,20-21,a8149604
+b99bec05,Issiaga Sylla,3,GUI,WB,27-051,1,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,2,0,0,0,Lens,2021-02-21 Lens-Dijon,FRA-L1,20-21,a8149604
+5219ab4a,Jonathan Clauss,11,FRA,WB,28-149,72,0,1,0,0,1,0,0,0,51,1,1,2,0.0,0.0,0.6,3,2,33,44,75.0,2,20,0,1,1,Lens,2021-02-21 Lens-Dijon,FRA-L1,20-21,a8149604
+cb9ec45d,Clément Michelin,13,FRA,WB,23-286,18,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,0,0,9,10,90.0,0,6,0,0,0,Lens,2021-02-21 Lens-Dijon,FRA-L1,20-21,a8149604
+574aa9ec,Steven Fortes,15,CPV,CB,28-310,90,0,0,0,0,0,0,0,0,64,3,1,1,0.0,0.0,0.0,1,0,45,56,80.4,6,44,3,0,0,Lens,2021-02-21 Lens-Dijon,FRA-L1,20-21,a8149604
+114bbdee,Loïc Bade,4,FRA,CB,20-316,90,0,0,0,0,1,1,1,0,93,2,3,1,0.0,0.0,0.0,2,1,76,84,90.5,3,67,0,1,0,Lens,2021-02-21 Lens-Dijon,FRA-L1,20-21,a8149604
+06c48679,Jonathan Gradit,24,FRA,CB,28-089,90,0,0,0,0,0,0,0,0,79,1,5,2,0.0,0.0,0.0,0,0,56,61,91.8,8,58,1,1,0,Lens,2021-02-21 Lens-Dijon,FRA-L1,20-21,a8149604
+edbe46dc,Jean-Louis Leca,16,FRA,GK,35-153,90,0,0,0,0,0,0,0,0,30,0,0,0,0.0,0.0,0.0,0,0,19,28,67.9,0,17,0,0,0,Lens,2021-02-21 Lens-Dijon,FRA-L1,20-21,a8149604
+4047c976,Aboubakar Kamara,27,MTN,FW,25-351,73,0,0,0,0,2,1,0,1,22,0,0,0,0.5,0.5,0.1,4,1,12,18,66.7,0,11,0,0,0,Dijon,2021-02-21 Lens-Dijon,FRA-L1,20-21,a8149604
+45c1c326,Mounir Chouiar,21,FRA,FW,22-029,45,0,0,0,0,1,0,0,0,28,1,0,0,0.1,0.1,0.6,5,0,17,23,73.9,3,16,3,2,2,Dijon,2021-02-21 Lens-Dijon,FRA-L1,20-21,a8149604
+fcbcbd94,Moussa Konaté,11,SEN,FW,27-324,45,0,0,0,0,2,0,0,0,17,1,0,0,0.2,0.2,0.0,1,0,11,14,78.6,0,11,0,0,0,Dijon,2021-02-21 Lens-Dijon,FRA-L1,20-21,a8149604
+0d2158d5,Jordan Marié,14,FRA,CM,29-145,45,0,0,0,0,1,0,0,0,30,2,0,2,0.0,0.0,0.0,0,0,16,22,72.7,0,13,1,0,0,Dijon,2021-02-21 Lens-Dijon,FRA-L1,20-21,a8149604
+3043d33f,Bersant Celina,9,KVX,CM,24-165,45,0,0,0,0,0,0,0,0,29,0,0,0,0.0,0.0,0.2,3,0,18,28,64.3,1,16,1,0,0,Dijon,2021-02-21 Lens-Dijon,FRA-L1,20-21,a8149604
+6e5b5a45,Wesley Lautoa,24,NCL,CM,33-180,90,0,0,0,0,1,0,0,0,55,3,0,1,0.1,0.1,0.0,1,0,38,47,80.9,4,25,0,2,1,Dijon,2021-02-21 Lens-Dijon,FRA-L1,20-21,a8149604
+885b7aa7,Didier Ibrahim Ndong,22,GAB,CM,26-249,90,0,0,0,0,0,0,0,0,46,1,1,0,0.0,0.0,0.0,1,0,29,36,80.6,3,27,2,1,0,Dijon,2021-02-21 Lens-Dijon,FRA-L1,20-21,a8149604
+b748968d,Muzinga Ngonda,3,COD,LB,26-052,72,1,0,0,0,1,1,0,0,49,2,1,2,0.0,0.0,0.0,0,0,21,38,55.3,4,15,1,0,0,Dijon,2021-02-21 Lens-Dijon,FRA-L1,20-21,a8149604
+84c0768a,Aníbal Chalá,13,ECU,LB,24-288,18,0,0,0,0,0,0,0,0,5,0,1,0,0.0,0.0,0.0,0,0,2,3,66.7,0,2,1,0,0,Dijon,2021-02-21 Lens-Dijon,FRA-L1,20-21,a8149604
+c795c408,Jonathan Panzo,4,ENG,CB,20-119,90,0,0,0,0,0,0,0,0,48,1,1,1,0.0,0.0,0.0,0,0,33,42,78.6,2,27,1,0,0,Dijon,2021-02-21 Lens-Dijon,FRA-L1,20-21,a8149604
+72a0fb65,Bruno Ecuele Manga,25,GAB,CB,32-220,90,0,0,0,0,2,1,0,0,56,0,1,1,0.1,0.1,0.0,1,0,38,45,84.4,2,28,0,0,0,Dijon,2021-02-21 Lens-Dijon,FRA-L1,20-21,a8149604
+67b7357e,Senou Coulibaly,5,MLI,CB,26-170,84,0,0,0,0,0,0,0,0,47,3,1,1,0.0,0.0,0.0,1,0,29,39,74.4,3,26,1,1,0,Dijon,2021-02-21 Lens-Dijon,FRA-L1,20-21,a8149604
+a1f3f5a0,Mihai Dobre,29,ROU,CB,22-175,6,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,1,2,1,1,1,Dijon,2021-02-21 Lens-Dijon,FRA-L1,20-21,a8149604
+6c8ddd52,Sacha Boey,2,FRA,RB,20-161,72,0,0,0,0,2,0,0,0,43,4,1,0,0.1,0.1,0.1,3,1,26,32,81.3,1,10,1,1,1,Dijon,2021-02-21 Lens-Dijon,FRA-L1,20-21,a8149604
+edd1466a,Fouad Chafik,26,MAR,RB,34-128,18,0,0,0,0,0,0,0,0,11,1,1,0,0.0,0.0,0.0,0,0,7,9,77.8,0,4,0,0,0,Dijon,2021-02-21 Lens-Dijon,FRA-L1,20-21,a8149604
+abc06eb3,Anthony Racioppi,1,SUI,GK,22-052,90,0,0,0,0,0,0,0,0,40,0,0,0,0.0,0.0,0.0,0,0,29,39,74.4,0,16,0,1,1,Dijon,2021-02-21 Lens-Dijon,FRA-L1,20-21,a8149604

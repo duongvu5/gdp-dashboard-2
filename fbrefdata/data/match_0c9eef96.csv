@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+a4fe8cda,Patrick Cutrone,63,ITA,FW,19-289,90,0,0,0,0,5,5,0,0,38,2,0,0,0.4,0.4,0.0,2,0,13,25,52.0,0,23,1,1,0,Milan,2017-10-19 Milan-AEK Athens,UEL,17-18,0c9eef96
+3effaa34,André Silva,9,POR,FW,21-347,61,0,0,0,0,5,0,0,0,31,1,1,0,0.4,0.4,0.1,5,0,18,20,90.0,2,21,2,3,2,Milan,2017-10-19 Milan-AEK Athens,UEL,17-18,0c9eef96
+d4931a5a,Nikola Kalinić,7,CRO,FW,29-287,29,0,0,0,0,1,0,0,0,7,0,0,0,0.1,0.1,0.8,2,0,5,6,83.3,2,3,1,0,0,Milan,2017-10-19 Milan-AEK Athens,UEL,17-18,0c9eef96
+cd0fa27b,Hakan Çalhanoğlu,10,TUR,"CM,WB",23-253,90,0,0,0,0,1,1,0,0,57,0,1,1,0.1,0.1,0.2,6,0,39,51,76.5,6,31,4,1,1,Milan,2017-10-19 Milan-AEK Athens,UEL,17-18,0c9eef96
+a8a874f1,Manuel Locatelli,73,ITA,CM,19-284,90,0,0,0,0,5,1,1,0,82,5,4,0,0.2,0.2,0.0,5,0,51,64,79.7,5,37,2,3,3,Milan,2017-10-19 Milan-AEK Athens,UEL,17-18,0c9eef96
+4e219ad2,Suso,8,ESP,CM,23-334,82,0,0,0,0,3,1,0,0,69,2,0,2,0.6,0.6,0.3,7,0,47,56,83.9,8,33,6,5,4,Milan,2017-10-19 Milan-AEK Athens,UEL,17-18,0c9eef96
+ef5b337e,Fabio Borini,11,ITA,CM,26-204,8,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,3,0,1,0,Milan,2017-10-19 Milan-AEK Athens,UEL,17-18,0c9eef96
+d995ed27,Giacomo Bonaventura,5,ITA,WB,28-058,72,0,0,0,0,1,0,0,0,45,1,1,0,0.1,0.1,0.0,5,0,30,37,81.1,0,22,2,3,2,Milan,2017-10-19 Milan-AEK Athens,UEL,17-18,0c9eef96
+05e19d6a,Franck Kessié,79,CIV,"CM,WB",20-304,18,0,0,0,0,0,0,0,0,14,2,0,0,0.0,0.0,0.0,2,0,8,12,66.7,0,5,1,1,1,Milan,2017-10-19 Milan-AEK Athens,UEL,17-18,0c9eef96
+2146785a,Davide Calabria,2,ITA,WB,20-317,90,0,0,0,0,0,0,0,0,76,7,3,1,0.0,0.0,0.0,1,0,43,57,75.4,2,16,4,0,0,Milan,2017-10-19 Milan-AEK Athens,UEL,17-18,0c9eef96
+7f78ad23,Ricardo Rodríguez,68,SUI,CB,25-055,90,0,0,0,0,0,0,0,0,76,2,3,0,0.0,0.0,0.1,2,0,61,66,92.4,5,42,5,0,0,Milan,2017-10-19 Milan-AEK Athens,UEL,17-18,0c9eef96
+52ec54d0,Leonardo Bonucci,19,ITA,CB,30-171,90,0,0,0,0,1,0,0,0,90,1,1,0,0.0,0.0,0.0,1,0,67,82,81.7,7,61,1,0,0,Milan,2017-10-19 Milan-AEK Athens,UEL,17-18,0c9eef96
+91899ca8,Mateo Musacchio,22,ARG,CB,27-054,90,0,0,0,0,0,0,0,0,83,2,3,2,0.0,0.0,0.0,2,0,64,75,85.3,7,33,0,0,0,Milan,2017-10-19 Milan-AEK Athens,UEL,17-18,0c9eef96
+08f5afaa,Gianluigi Donnarumma,99,ITA,GK,18-236,90,0,0,0,0,0,0,0,0,32,0,0,0,0.0,0.0,0.0,0,0,25,28,89.3,0,13,0,0,0,Milan,2017-10-19 Milan-AEK Athens,UEL,17-18,0c9eef96
+6e5497ca,Marko Livaja,10,CRO,FW,24-054,75,0,0,0,0,1,0,1,0,27,4,0,0,0.0,0.0,0.0,0,0,10,15,66.7,2,18,1,4,0,AEK Athens,2017-10-19 Milan-AEK Athens,UEL,17-18,0c9eef96
+dead55e5,Anastasios Bakasetas,14,GRE,FW,24-113,15,0,0,0,0,1,1,0,0,12,0,0,0,0.0,0.0,0.0,1,0,9,11,81.8,0,8,0,0,0,AEK Athens,2017-10-19 Milan-AEK Athens,UEL,17-18,0c9eef96
+f73abe54,Lazaros Christodoulopoulos,7,GRE,FW,30-304,63,0,0,0,0,0,0,0,0,38,1,0,0,0.0,0.0,0.2,6,0,23,31,74.2,4,28,2,2,2,AEK Athens,2017-10-19 Milan-AEK Athens,UEL,17-18,0c9eef96
+080ac8d8,Sergio Araujo,11,ARG,FW,25-264,27,0,0,0,0,1,0,0,0,12,1,0,0,0.1,0.1,0.0,0,0,7,9,77.8,1,9,1,0,0,AEK Athens,2017-10-19 Milan-AEK Athens,UEL,17-18,0c9eef96
+88a9ea33,Petros Mantalos,20,GRE,AM,26-049,89,0,0,0,0,2,0,1,0,52,0,0,0,0.1,0.1,0.0,3,0,28,44,63.6,1,37,2,3,2,AEK Athens,2017-10-19 Milan-AEK Athens,UEL,17-18,0c9eef96
+a8327abd,Konstantinos Galanopoulos,25,GRE,AM,19-295,1,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,2,0,0,0,AEK Athens,2017-10-19 Milan-AEK Athens,UEL,17-18,0c9eef96
+fd4ee68b,André Simões,8,POR,CM,27-307,90,0,0,0,0,0,0,1,0,55,3,3,4,0.0,0.0,0.0,0,0,32,42,76.2,1,32,1,1,0,AEK Athens,2017-10-19 Milan-AEK Athens,UEL,17-18,0c9eef96
+e4a26a91,Jakob Johansson,18,SWE,CM,27-120,90,0,0,0,0,0,0,0,0,55,2,2,3,0.0,0.0,0.0,0,0,33,39,84.6,2,23,0,1,1,AEK Athens,2017-10-19 Milan-AEK Athens,UEL,17-18,0c9eef96
+9a34c46d,Hélder Lopes,3,POR,WB,28-288,90,0,0,0,0,1,0,0,0,69,4,3,4,0.1,0.1,0.0,1,0,33,47,70.2,3,33,1,2,0,AEK Athens,2017-10-19 Milan-AEK Athens,UEL,17-18,0c9eef96
+b4825073,Rodrigo Galo Brito,12,BRA,WB,31-030,90,0,0,0,0,0,0,0,0,48,0,0,0,0.0,0.0,0.1,1,0,37,45,82.2,2,30,2,0,0,AEK Athens,2017-10-19 Milan-AEK Athens,UEL,17-18,0c9eef96
+50ccf47d,Michalis Bakakis,2,GRE,CB,26-215,90,0,0,0,0,0,0,0,0,39,3,0,1,0.0,0.0,0.0,0,0,20,25,80.0,1,17,1,1,1,AEK Athens,2017-10-19 Milan-AEK Athens,UEL,17-18,0c9eef96
+02f4b798,Adam Tzanetopoulos,55,GRE,CB,22-251,90,0,0,0,0,1,0,0,0,29,0,3,0,0.1,0.1,0.1,1,0,15,19,78.9,0,12,0,0,0,AEK Athens,2017-10-19 Milan-AEK Athens,UEL,17-18,0c9eef96
+b8ae831b,Ognjen Vranješ,4,BIH,CB,27-360,90,0,0,0,0,0,0,0,0,40,2,3,0,0.0,0.0,0.0,0,0,18,27,66.7,2,15,0,1,1,AEK Athens,2017-10-19 Milan-AEK Athens,UEL,17-18,0c9eef96
+d3149135,Giannis Anestis,22,GRE,GK,26-224,90,0,0,0,0,0,0,0,0,50,0,0,0,0.0,0.0,0.0,0,0,20,43,46.5,0,20,0,0,0,AEK Athens,2017-10-19 Milan-AEK Athens,UEL,17-18,0c9eef96

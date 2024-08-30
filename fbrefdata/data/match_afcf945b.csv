@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+f0e3b343,Andrija Pavlović,20,SRB,FW,25-307,90,2,0,0,0,4,3,0,0,42,0,0,0,1.1,1.1,0.0,2,0,23,29,79.3,1,30,1,1,0,APOEL,2019-09-19 APOEL-F91 Dudelange,UEL,19-20,afcf945b
+8e3e66a0,Tomas De Vincenti,10,ARG,FW,30-222,75,1,1,1,1,2,1,0,0,59,3,1,1,0.9,0.1,0.0,4,1,35,41,85.4,11,46,1,3,2,APOEL,2019-09-19 APOEL-F91 Dudelange,UEL,19-20,afcf945b
+65553d96,Giorgos Efrem,7,CYP,FW,30-076,15,0,0,0,0,0,0,0,0,21,0,0,0,0.0,0.0,0.0,0,0,16,21,76.2,2,15,2,3,3,APOEL,2019-09-19 APOEL-F91 Dudelange,UEL,19-20,afcf945b
+8ed17872,Savvas Gentsoglou,6,GRE,CM,29-000,90,0,0,0,0,2,2,1,0,59,5,1,3,0.1,0.1,0.0,0,0,37,45,82.2,5,37,0,2,1,APOEL,2019-09-19 APOEL-F91 Dudelange,UEL,19-20,afcf945b
+26a796c1,Uroš Matić,14,MKD,CM,29-119,90,0,0,0,0,3,1,0,0,63,1,3,2,0.1,0.1,0.2,8,0,38,49,77.6,4,48,4,4,3,APOEL,2019-09-19 APOEL-F91 Dudelange,UEL,19-20,afcf945b
+be4e7e47,Lucas Souza,8,BRA,CM,29-077,45,0,0,0,0,1,1,0,0,43,3,3,0,0.1,0.1,0.0,1,0,29,34,85.3,2,32,1,0,0,APOEL,2019-09-19 APOEL-F91 Dudelange,UEL,19-20,afcf945b
+86168d75,Joãozinho,23,POR,LB,30-079,45,0,1,0,0,0,0,0,0,37,2,0,0,0.0,0.0,0.4,4,1,25,31,80.6,5,27,3,2,1,APOEL,2019-09-19 APOEL-F91 Dudelange,UEL,19-20,afcf945b
+c082d484,Roman Bezjak,89,SVN,"LM,LB",30-210,90,0,0,0,0,1,0,0,0,48,1,2,2,0.0,0.0,0.0,1,1,32,41,78.0,1,37,1,1,1,APOEL,2019-09-19 APOEL-F91 Dudelange,UEL,19-20,afcf945b
+50d85cd8,Nicholas Ioannou,44,CYP,CB,23-313,90,0,0,0,0,0,0,0,0,82,1,1,2,0.0,0.0,0.0,0,0,55,67,82.1,7,61,3,3,2,APOEL,2019-09-19 APOEL-F91 Dudelange,UEL,19-20,afcf945b
+63c3659d,Giorgos Merkis,30,CYP,CB,35-051,90,0,0,0,0,1,0,0,0,58,0,2,3,0.0,0.0,0.0,0,0,41,48,85.4,2,35,0,0,0,APOEL,2019-09-19 APOEL-F91 Dudelange,UEL,19-20,afcf945b
+3904e745,Dragan Mihajlović,91,SUI,"RB,CB",28-028,90,0,0,0,0,1,1,0,0,71,3,0,0,0.0,0.0,0.0,3,0,54,65,83.1,9,55,6,2,1,APOEL,2019-09-19 APOEL-F91 Dudelange,UEL,19-20,afcf945b
+f7815d38,Antonio Jakoliš,17,CRO,RB,27-203,45,0,0,0,0,0,0,0,0,27,1,0,0,0.0,0.0,0.0,1,0,17,23,73.9,1,24,3,1,0,APOEL,2019-09-19 APOEL-F91 Dudelange,UEL,19-20,afcf945b
+f15f8b2b,Musa Al-Taamari,11,JOR,RM,22-101,45,0,0,0,0,1,0,0,0,30,0,0,0,0.0,0.0,0.2,5,1,7,16,43.8,0,18,4,5,2,APOEL,2019-09-19 APOEL-F91 Dudelange,UEL,19-20,afcf945b
+4f8ce0e1,Vid Belec,27,SVN,GK,29-105,90,0,0,0,0,0,0,0,0,24,0,0,0,0.0,0.0,0.0,0,0,17,22,77.3,0,13,0,0,0,APOEL,2019-09-19 APOEL-F91 Dudelange,UEL,19-20,afcf945b
+984b3198,Laurent Mendy,98,SEN,FW,20-275,66,0,0,0,0,0,0,0,0,31,0,0,0,0.0,0.0,0.0,1,0,12,24,50.0,1,12,2,2,2,F91 Dudelange,2019-09-19 APOEL-F91 Dudelange,UEL,19-20,afcf945b
+9c0a65df,Corenthyn Lavie,26,FRA,"RM,FW",24-197,24,0,0,0,0,1,1,0,0,7,1,0,0,0.1,0.1,0.0,0,0,4,5,80.0,2,7,2,0,0,F91 Dudelange,2019-09-19 APOEL-F91 Dudelange,UEL,19-20,afcf945b
+cda90ea8,Antoine Bernier,22,BEL,"LW,LM",22-009,90,1,1,0,0,2,2,0,0,25,1,0,0,0.1,0.1,0.6,1,1,14,16,87.5,2,18,3,5,2,F91 Dudelange,2019-09-19 APOEL-F91 Dudelange,UEL,19-20,afcf945b
+d2a802b8,Dominik Stolz,10,GER,"RW,FW",29-138,89,1,1,0,0,4,3,0,0,45,0,0,0,0.6,0.6,0.1,3,1,22,33,66.7,3,27,5,4,0,F91 Dudelange,2019-09-19 APOEL-F91 Dudelange,UEL,19-20,afcf945b
+7e871b0a,Kobe Cools,4,BEL,FW,22-056,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,F91 Dudelange,2019-09-19 APOEL-F91 Dudelange,UEL,19-20,afcf945b
+96ddfa79,Danel Sinani,9,LUX,"AM,FW",22-167,90,2,1,0,0,6,2,0,0,66,1,1,1,0.8,0.8,0.2,6,1,37,46,80.4,6,48,6,7,4,F91 Dudelange,2019-09-19 APOEL-F91 Dudelange,UEL,19-20,afcf945b
+f294b8cc,Mario Pokar,8,GER,"DM,CM",29-244,90,0,0,0,0,0,0,0,0,69,2,2,1,0.0,0.0,0.3,7,1,49,62,79.0,6,25,0,0,0,F91 Dudelange,2019-09-19 APOEL-F91 Dudelange,UEL,19-20,afcf945b
+8558593d,Charles Morren,28,BEL,"DM,CM",27-203,90,0,0,0,0,1,0,1,0,50,1,3,1,0.1,0.1,0.0,2,1,30,43,69.8,3,22,0,1,1,F91 Dudelange,2019-09-19 APOEL-F91 Dudelange,UEL,19-20,afcf945b
+a489c26e,Mehdi Kirch,24,FRA,LB,29-235,62,0,0,0,0,0,0,0,0,32,2,2,0,0.0,0.0,0.0,1,0,21,26,80.8,0,12,1,1,1,F91 Dudelange,2019-09-19 APOEL-F91 Dudelange,UEL,19-20,afcf945b
+d82c6542,Thibaut Lesquoy,16,BEL,LB,24-074,28,0,0,0,0,0,0,1,0,22,3,1,1,0.0,0.0,0.0,1,1,13,15,86.7,0,10,1,0,0,F91 Dudelange,2019-09-19 APOEL-F91 Dudelange,UEL,19-20,afcf945b
+2402b0e8,Mickaël Garos,20,FRA,CB,31-132,90,0,0,0,0,0,0,0,0,36,1,4,2,0.0,0.0,0.0,1,0,16,20,80.0,1,11,0,0,0,F91 Dudelange,2019-09-19 APOEL-F91 Dudelange,UEL,19-20,afcf945b
+f4021366,Tom Schnell,5,LUX,CB,33-346,90,0,0,0,0,1,0,0,0,51,3,2,0,0.1,0.1,0.0,2,0,22,31,71.0,0,17,0,0,0,F91 Dudelange,2019-09-19 APOEL-F91 Dudelange,UEL,19-20,afcf945b
+2f52874b,Mohamed Bouchouari,34,BEL,RB,18-308,90,0,1,0,0,0,0,0,0,75,2,1,0,0.0,0.0,0.5,1,1,43,62,69.4,4,25,2,3,2,F91 Dudelange,2019-09-19 APOEL-F91 Dudelange,UEL,19-20,afcf945b
+068830ca,Jonathan Joubert,1,LUX,GK,40-007,90,0,0,0,0,0,0,0,0,38,0,0,0,0.0,0.0,0.0,0,0,14,29,48.3,0,13,0,0,0,F91 Dudelange,2019-09-19 APOEL-F91 Dudelange,UEL,19-20,afcf945b

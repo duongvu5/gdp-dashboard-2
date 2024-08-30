@@ -1,0 +1,31 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+d705ba44,Andrea Belotti,9,ITA,FW,27-134,81,0,0,0,0,4,1,0,0,31,1,0,1,0.5,0.5,0.0,1,0,12,17,70.6,1,18,2,2,1,Torino,2021-05-03 Torino-Parma,ITA-SERIA_A,20-21,6c10dfd1
+9592289a,Simone Zaza,11,ITA,FW,29-312,9,0,0,0,0,1,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,2,1,0,0,Torino,2021-05-03 Torino-Parma,ITA-SERIA_A,20-21,6c10dfd1
+0a447501,Antonio Sanabria,19,PAR,FW,25-060,90,0,0,0,0,2,1,0,0,34,0,0,0,0.1,0.1,0.0,4,0,20,29,69.0,4,27,2,4,2,Torino,2021-05-03 Torino-Parma,ITA-SERIA_A,20-21,6c10dfd1
+bbafc0c4,Cristian Ansaldi,15,ARG,LW,34-225,90,0,1,0,0,1,0,0,0,57,0,0,1,0.0,0.0,0.7,5,2,37,49,75.5,5,26,4,5,2,Torino,2021-05-03 Torino-Parma,ITA-SERIA_A,20-21,6c10dfd1
+be2706c0,Mërgim Vojvoda,27,KVX,RW,26-091,90,1,0,0,0,2,1,0,0,63,0,1,1,0.6,0.6,0.1,2,0,41,54,75.9,7,44,0,1,0,Torino,2021-05-03 Torino-Parma,ITA-SERIA_A,20-21,6c10dfd1
+c6e8cf1f,Saša Lukić,7,SRB,CM,24-263,90,0,0,0,0,2,0,0,0,54,2,0,1,0.2,0.2,0.1,6,0,34,44,77.3,3,31,4,3,3,Torino,2021-05-03 Torino-Parma,ITA-SERIA_A,20-21,6c10dfd1
+f1cfc209,Tomás Rincón,88,VEN,CM,33-110,81,0,0,0,0,0,0,0,0,44,1,0,2,0.0,0.0,0.0,2,0,28,39,71.8,6,24,1,1,0,Torino,2021-05-03 Torino-Parma,ITA-SERIA_A,20-21,6c10dfd1
+d023d70f,Karol Linetty,77,POL,CM,26-090,9,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,3,5,60.0,0,3,1,0,0,Torino,2021-05-03 Torino-Parma,ITA-SERIA_A,20-21,6c10dfd1
+ea06dd97,Daniele Baselli,8,ITA,DM,29-052,90,0,0,0,0,0,0,0,0,63,4,3,2,0.0,0.0,0.1,1,0,37,49,75.5,4,30,2,2,1,Torino,2021-05-03 Torino-Parma,ITA-SERIA_A,20-21,6c10dfd1
+5fd5ed86,Gleison Bremer,3,BRA,CB,24-046,90,0,0,0,0,1,0,0,0,60,1,3,1,0.1,0.1,0.0,0,0,30,45,66.7,3,31,1,0,0,Torino,2021-05-03 Torino-Parma,ITA-SERIA_A,20-21,6c10dfd1
+93cf32a8,Nicolas Nkoulou,33,CMR,CB,31-037,90,0,0,0,0,0,0,0,0,50,0,1,2,0.0,0.0,0.0,1,0,34,41,82.9,2,27,0,0,0,Torino,2021-05-03 Torino-Parma,ITA-SERIA_A,20-21,6c10dfd1
+89976232,Armando Izzo,5,ITA,CB,29-062,90,0,0,0,0,0,0,0,0,69,1,2,2,0.0,0.0,0.0,3,0,46,58,79.3,4,42,2,1,1,Torino,2021-05-03 Torino-Parma,ITA-SERIA_A,20-21,6c10dfd1
+10dc46f0,Salvatore Sirigu,39,ITA,GK,34-111,90,0,0,0,0,0,0,0,0,28,0,0,0,0.0,0.0,0.0,0,0,19,28,67.9,0,15,0,0,0,Torino,2021-05-03 Torino-Parma,ITA-SERIA_A,20-21,6c10dfd1
+5aaef9ef,Juraj Kucka,33,SVK,FW,34-066,90,0,0,0,0,1,0,1,0,36,1,0,0,0.0,0.0,0.0,3,0,21,26,80.8,3,18,1,1,0,Parma,2021-05-03 Torino-Parma,ITA-SERIA_A,20-21,6c10dfd1
+e468c053,Gervinho,27,CIV,FW,33-341,90,0,0,0,0,0,0,0,0,23,1,1,0,0.0,0.0,0.0,0,0,13,22,59.1,0,14,4,0,0,Parma,2021-05-03 Torino-Parma,ITA-SERIA_A,20-21,6c10dfd1
+c693347d,Andreas Cornelius,11,DEN,AM,28-048,90,0,0,0,0,1,0,0,0,46,0,0,1,0.0,0.0,0.0,0,0,19,38,50.0,2,22,1,0,0,Parma,2021-05-03 Torino-Parma,ITA-SERIA_A,20-21,6c10dfd1
+6f5ead86,Hernani,23,BRA,LM,27-037,83,0,0,0,0,0,0,1,0,57,1,2,2,0.0,0.0,0.0,2,0,34,44,77.3,2,36,2,1,0,Parma,2021-05-03 Torino-Parma,ITA-SERIA_A,20-21,6c10dfd1
+9654d8de,Graziano Pellè,9,ITA,LM,35-292,7,0,0,0,0,0,0,0,0,6,0,0,1,0.0,0.0,0.1,1,0,4,5,80.0,0,2,0,0,0,Parma,2021-05-03 Torino-Parma,ITA-SERIA_A,20-21,6c10dfd1
+e947ee4a,Gastón Brugman,15,URU,CM,28-238,31,0,0,0,0,1,1,0,0,27,2,1,0,0.0,0.0,0.0,0,0,20,22,90.9,1,20,1,0,0,Parma,2021-05-03 Torino-Parma,ITA-SERIA_A,20-21,6c10dfd1
+144607cc,Jasmin Kurtić,14,SVN,CM,32-113,59,0,0,0,0,0,0,0,0,41,4,1,0,0.0,0.0,0.0,0,0,20,31,64.5,3,20,1,0,0,Parma,2021-05-03 Torino-Parma,ITA-SERIA_A,20-21,6c10dfd1
+6cc97b6a,Alberto Grassi,8,ITA,RM,26-057,74,0,0,0,0,1,0,0,0,31,4,0,1,0.1,0.1,0.0,0,0,12,16,75.0,1,11,0,1,0,Parma,2021-05-03 Torino-Parma,ITA-SERIA_A,20-21,6c10dfd1
+d60099bc,Juan Brunetta,32,ARG,RM,23-356,16,0,0,0,0,1,0,0,0,8,0,0,0,0.1,0.1,0.0,1,0,6,7,85.7,1,5,1,0,0,Parma,2021-05-03 Torino-Parma,ITA-SERIA_A,20-21,6c10dfd1
+149c5f5d,Giuseppe Pezzella,3,ITA,LB,23-155,90,0,0,0,0,2,0,0,0,61,4,0,1,0.1,0.1,0.1,2,0,38,49,77.6,5,34,1,2,2,Parma,2021-05-03 Torino-Parma,ITA-SERIA_A,20-21,6c10dfd1
+585a73a8,Bruno Alves,22,POR,CB,39-157,90,0,0,0,0,1,0,0,0,51,2,0,0,0.0,0.0,0.0,2,0,32,39,82.1,3,20,0,0,0,Parma,2021-05-03 Torino-Parma,ITA-SERIA_A,20-21,6c10dfd1
+3a35db3d,Daan Dierckx,29,BEL,CB,18-068,45,0,0,0,0,0,0,1,0,22,0,0,0,0.0,0.0,0.0,0,0,15,20,75.0,0,13,0,0,0,Parma,2021-05-03 Torino-Parma,ITA-SERIA_A,20-21,6c10dfd1
+173061c0,Riccardo Gagliolo,7,SWE,CB,31-005,45,0,0,0,0,2,0,0,0,25,0,0,0,0.1,0.1,0.0,2,0,19,23,82.6,3,20,0,0,0,Parma,2021-05-03 Torino-Parma,ITA-SERIA_A,20-21,6c10dfd1
+3535098b,Vincent Laurini,16,FRA,RB,31-327,74,0,0,0,0,0,0,0,0,51,2,0,2,0.0,0.0,0.0,1,0,30,42,71.4,4,22,3,0,0,Parma,2021-05-03 Torino-Parma,ITA-SERIA_A,20-21,6c10dfd1
+7b082ec2,Maxime Busi,42,BEL,RB,21-201,16,0,0,0,0,0,0,0,0,25,0,1,0,0.0,0.0,0.0,2,0,16,21,76.2,1,17,0,2,1,Parma,2021-05-03 Torino-Parma,ITA-SERIA_A,20-21,6c10dfd1
+343f753a,Luigi Sepe,1,ITA,GK,29-360,90,0,0,0,0,0,0,0,0,41,0,0,0,0.0,0.0,0.0,0,0,38,40,95.0,0,20,0,0,0,Parma,2021-05-03 Torino-Parma,ITA-SERIA_A,20-21,6c10dfd1

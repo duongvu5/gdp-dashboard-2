@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+1f44ac21,Erling Haaland,9,NOR,FW,20-074,90,2,1,0,0,4,2,0,0,39,0,2,1,0.6,0.6,0.5,3,2,16,29,55.2,1,25,3,0,0,Dortmund,2020-10-03 Dortmund-Freiburg,GER-BL1,20-21,9d4a82ad
+7fa4e703,Gio Reyna,32,USA,AM,17-325,79,0,3,0,0,1,0,0,0,62,4,0,0,0.1,0.1,0.7,8,4,46,54,85.2,3,44,6,5,4,Dortmund,2020-10-03 Dortmund-Freiburg,GER-BL1,20-21,9d4a82ad
+6b21b7b5,Reinier,20,BRA,AM,18-258,11,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,1,0,5,5,100.0,0,5,0,0,0,Dortmund,2020-10-03 Dortmund-Freiburg,GER-BL1,20-21,9d4a82ad
+36a3ff67,Marco Reus,11,GER,AM,31-125,70,0,0,0,0,1,0,0,0,52,2,0,0,0.5,0.5,0.0,3,1,34,45,75.6,5,33,4,1,1,Dortmund,2020-10-03 Dortmund-Freiburg,GER-BL1,20-21,9d4a82ad
+a167537f,Julian Brandt,19,GER,AM,24-154,20,0,0,0,0,2,0,0,0,19,0,0,0,0.1,0.1,0.1,2,1,14,16,87.5,5,13,1,1,0,Dortmund,2020-10-03 Dortmund-Freiburg,GER-BL1,20-21,9d4a82ad
+5dfc6ad5,Axel Witsel,28,BEL,CM,31-265,90,0,0,0,0,2,1,0,0,87,1,2,0,0.2,0.2,0.0,3,0,77,79,97.5,7,66,1,0,0,Dortmund,2020-10-03 Dortmund-Freiburg,GER-BL1,20-21,9d4a82ad
+57d88cf9,Jude Bellingham,22,ENG,CM,17-096,70,0,0,0,0,1,0,0,0,69,2,1,2,0.0,0.0,0.6,2,0,49,56,87.5,3,44,2,4,3,Dortmund,2020-10-03 Dortmund-Freiburg,GER-BL1,20-21,9d4a82ad
+fe641c1a,Thomas Delaney,6,DEN,CM,29-030,20,0,0,0,0,0,0,0,0,17,1,0,0,0.0,0.0,0.0,0,0,15,15,100.0,1,13,1,0,0,Dortmund,2020-10-03 Dortmund-Freiburg,GER-BL1,20-21,9d4a82ad
+048a1cbc,Raphaël Guerreiro,13,POR,WB,26-286,83,0,0,0,0,0,0,0,0,89,2,0,0,0.0,0.0,0.1,3,0,71,81,87.7,6,62,3,1,0,Dortmund,2020-10-03 Dortmund-Freiburg,GER-BL1,20-21,9d4a82ad
+fa274d97,Nico Schulz,14,GER,WB,27-185,7,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,3,5,60.0,1,2,1,0,0,Dortmund,2020-10-03 Dortmund-Freiburg,GER-BL1,20-21,9d4a82ad
+e162b013,Thomas Meunier,24,BEL,WB,29-021,83,0,0,0,0,2,1,0,0,77,0,2,0,0.1,0.1,0.0,3,0,67,73,91.8,5,44,4,0,0,Dortmund,2020-10-03 Dortmund-Freiburg,GER-BL1,20-21,9d4a82ad
+5c899683,Felix Passlack,30,GER,WB,22-127,7,1,0,0,0,1,1,0,0,5,0,0,0,0.5,0.5,0.0,0,0,2,3,66.7,0,2,0,0,0,Dortmund,2020-10-03 Dortmund-Freiburg,GER-BL1,20-21,9d4a82ad
+89ac64a6,Manuel Akanji,16,SUI,CB,25-076,90,0,0,0,0,0,0,0,0,112,1,2,0,0.0,0.0,0.0,0,0,97,107,90.7,2,80,1,1,1,Dortmund,2020-10-03 Dortmund-Freiburg,GER-BL1,20-21,9d4a82ad
+05d548d8,Mats Hummels,15,GER,CB,31-292,90,0,0,0,0,1,1,1,0,115,0,1,2,0.3,0.3,0.0,1,0,97,107,90.7,6,83,0,1,1,Dortmund,2020-10-03 Dortmund-Freiburg,GER-BL1,20-21,9d4a82ad
+a65ce836,Emre Can,23,GER,CB,26-265,90,1,0,0,0,1,1,0,0,111,1,2,0,0.1,0.1,0.0,2,0,91,98,92.9,1,90,1,0,0,Dortmund,2020-10-03 Dortmund-Freiburg,GER-BL1,20-21,9d4a82ad
+2e7ff968,Marwin Hitz,35,SUI,GK,33-015,90,0,0,0,0,0,0,0,0,36,0,0,0,0.0,0.0,0.0,0,0,32,36,88.9,0,24,0,0,0,Dortmund,2020-10-03 Dortmund-Freiburg,GER-BL1,20-21,9d4a82ad
+f93e6e94,Nils Petersen,18,GER,FW,31-302,54,0,0,0,0,0,0,0,0,16,0,1,1,0.0,0.0,0.0,1,0,6,9,66.7,1,9,0,1,0,Freiburg,2020-10-03 Dortmund-Freiburg,GER-BL1,20-21,9d4a82ad
+7961f7aa,Kwon Chang-hoon,28,KOR,AM,26-095,36,0,0,0,0,0,0,1,0,12,0,1,0,0.0,0.0,0.0,0,0,10,11,90.9,0,11,0,0,0,Freiburg,2020-10-03 Dortmund-Freiburg,GER-BL1,20-21,9d4a82ad
+ca618d23,Lucas Höler,9,GER,AM,26-085,54,0,0,0,0,0,0,0,0,15,1,0,2,0.0,0.0,0.0,1,0,7,10,70.0,0,11,0,0,0,Freiburg,2020-10-03 Dortmund-Freiburg,GER-BL1,20-21,9d4a82ad
+6190474d,Jeong Woo-yeong,29,KOR,FW,21-013,36,0,0,0,0,0,0,0,0,19,1,0,0,0.0,0.0,0.0,0,0,15,18,83.3,2,16,3,1,1,Freiburg,2020-10-03 Dortmund-Freiburg,GER-BL1,20-21,9d4a82ad
+bf075f6b,Roland Sallai,22,HUN,AM,23-134,54,0,0,0,0,0,0,0,0,24,1,1,2,0.0,0.0,0.0,1,0,10,15,66.7,0,15,2,2,1,Freiburg,2020-10-03 Dortmund-Freiburg,GER-BL1,20-21,9d4a82ad
+54e4866f,Vincenzo Grifo,32,ITA,AM,27-179,36,0,0,0,0,2,1,0,0,20,1,1,1,0.3,0.3,0.0,1,0,11,14,78.6,0,17,1,0,0,Freiburg,2020-10-03 Dortmund-Freiburg,GER-BL1,20-21,9d4a82ad
+5d8e331f,Nicolas Höfler,27,GER,CM,30-208,90,0,0,0,0,1,0,0,0,50,1,1,0,0.0,0.0,0.0,2,0,35,44,79.5,0,35,2,3,3,Freiburg,2020-10-03 Dortmund-Freiburg,GER-BL1,20-21,9d4a82ad
+5e22e2a4,Baptiste Santamaria,8,FRA,CM,25-208,90,0,0,0,0,2,1,0,0,61,0,3,1,0.1,0.1,0.0,2,0,43,48,89.6,6,40,0,1,0,Freiburg,2020-10-03 Dortmund-Freiburg,GER-BL1,20-21,9d4a82ad
+8593f88c,Christian Günter,30,GER,WB,27-218,90,0,0,0,0,0,0,0,0,43,0,3,2,0.0,0.0,0.0,0,0,21,34,61.8,1,25,0,0,0,Freiburg,2020-10-03 Dortmund-Freiburg,GER-BL1,20-21,9d4a82ad
+088ca1bd,Jonathan Schmid,7,FRA,WB,30-103,83,0,0,0,0,1,0,0,0,39,0,1,1,0.1,0.1,0.0,0,0,25,32,78.1,2,20,0,2,0,Freiburg,2020-10-03 Dortmund-Freiburg,GER-BL1,20-21,9d4a82ad
+2a29eb9b,Lukas Kübler,17,GER,WB,28-034,7,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,5,5,100.0,0,5,0,0,0,Freiburg,2020-10-03 Dortmund-Freiburg,GER-BL1,20-21,9d4a82ad
+699fb8db,Dominique Heintz,23,GER,CB,27-049,90,0,0,0,0,0,0,0,0,54,0,3,1,0.0,0.0,0.0,0,0,42,48,87.5,3,39,0,0,0,Freiburg,2020-10-03 Dortmund-Freiburg,GER-BL1,20-21,9d4a82ad
+302527b2,Philipp Lienhart,3,AUT,CB,24-084,90,0,0,0,0,0,0,0,0,51,1,0,0,0.0,0.0,0.0,0,0,38,42,90.5,1,34,3,0,0,Freiburg,2020-10-03 Dortmund-Freiburg,GER-BL1,20-21,9d4a82ad
+25ab9c9c,Manuel Gulde,5,GER,CB,29-234,54,0,0,0,0,0,0,0,0,29,2,1,1,0.0,0.0,0.0,0,0,14,23,60.9,1,18,1,1,1,Freiburg,2020-10-03 Dortmund-Freiburg,GER-BL1,20-21,9d4a82ad
+f6bdc830,Keven Schlotterbeck,31,GER,CB,23-158,36,0,0,0,0,0,0,0,0,25,0,0,1,0.0,0.0,0.0,0,0,23,24,95.8,1,21,0,0,0,Freiburg,2020-10-03 Dortmund-Freiburg,GER-BL1,20-21,9d4a82ad
+cbac6ec9,Florian Müller,21,GER,GK,22-325,90,0,0,0,0,0,0,0,0,42,0,0,0,0.0,0.0,0.0,0,0,27,40,67.5,0,27,0,0,0,Freiburg,2020-10-03 Dortmund-Freiburg,GER-BL1,20-21,9d4a82ad

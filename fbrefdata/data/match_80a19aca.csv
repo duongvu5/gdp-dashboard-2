@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+74dc806c,Hatem Ben Arfa,8,FRA,FW,33-284,90,0,0,0,0,1,1,0,0,50,1,0,0,0.0,0.0,0.3,3,0,26,41,63.4,2,27,3,3,2,Bordeaux,2020-12-16 Bordeaux-Saint-Étienne,FRA-L1,20-21,80a19aca
+bc0bfc64,Josh Maja,9,NGA,FW,21-355,60,0,0,0,0,1,1,0,0,17,0,0,1,0.1,0.1,0.1,2,0,8,12,66.7,1,13,1,0,0,Bordeaux,2020-12-16 Bordeaux-Saint-Étienne,FRA-L1,20-21,80a19aca
+f83c8d6c,Jimmy Briand,7,FRA,FW,35-136,30,0,0,0,0,1,0,0,0,8,0,0,0,0.1,0.1,0.0,0,0,5,7,71.4,1,2,0,0,0,Bordeaux,2020-12-16 Bordeaux-Saint-Étienne,FRA-L1,20-21,80a19aca
+a2d873dd,Hwang Ui-jo,18,KOR,LM,28-110,60,1,0,0,0,3,1,0,0,32,3,0,1,0.3,0.3,0.0,1,0,12,18,66.7,2,19,1,3,0,Bordeaux,2020-12-16 Bordeaux-Saint-Étienne,FRA-L1,20-21,80a19aca
+b0547a87,Nicolas de Préville,12,FRA,LM,29-343,30,0,0,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.0,0,0,5,8,62.5,1,9,0,3,2,Bordeaux,2020-12-16 Bordeaux-Saint-Étienne,FRA-L1,20-21,80a19aca
+80556f08,Toma Bašić,26,CRO,CM,24-021,61,0,0,0,0,0,0,0,0,44,1,1,0,0.0,0.0,0.0,2,0,36,37,97.3,6,31,0,0,0,Bordeaux,2020-12-16 Bordeaux-Saint-Étienne,FRA-L1,20-21,80a19aca
+53f6306f,Mehdi Zerkane,17,ALG,RM,21-154,29,0,0,0,0,0,0,0,0,17,0,0,0,0.0,0.0,0.0,0,0,13,16,81.3,4,10,1,1,0,Bordeaux,2020-12-16 Bordeaux-Saint-Étienne,FRA-L1,20-21,80a19aca
+243f4a0b,Otávio,5,BRA,CM,26-226,80,0,0,0,0,0,0,1,0,42,2,2,1,0.0,0.0,0.0,1,0,34,39,87.2,2,17,0,1,1,Bordeaux,2020-12-16 Bordeaux-Saint-Étienne,FRA-L1,20-21,80a19aca
+ea02beaf,Remi Oudin,28,FRA,CM,24-028,10,0,0,0,0,2,0,0,0,7,0,1,0,0.1,0.1,0.0,1,0,1,3,33.3,0,1,0,0,0,Bordeaux,2020-12-16 Bordeaux-Saint-Étienne,FRA-L1,20-21,80a19aca
+26777636,Yacine Adli,19,FRA,"RM,CM",20-140,90,0,0,0,0,0,0,0,0,67,5,1,2,0.0,0.0,0.1,3,0,44,54,81.5,14,40,4,1,1,Bordeaux,2020-12-16 Bordeaux-Saint-Étienne,FRA-L1,20-21,80a19aca
+fbbb9269,Youssouf Sabaly,20,SEN,"LB,RB",27-286,90,0,0,0,0,3,0,1,0,73,3,2,2,0.1,0.1,0.0,2,0,45,61,73.8,4,31,2,0,0,Bordeaux,2020-12-16 Bordeaux-Saint-Étienne,FRA-L1,20-21,80a19aca
+29d8ad3f,Pablo,3,BRA,CB,29-178,90,0,0,0,0,0,0,0,0,77,2,1,3,0.0,0.0,0.0,0,0,53,63,84.1,1,30,0,0,0,Bordeaux,2020-12-16 Bordeaux-Saint-Étienne,FRA-L1,20-21,80a19aca
+2515040a,Paul Baysse,24,FRA,CB,32-212,90,0,1,0,0,0,0,0,0,84,3,1,2,0.0,0.0,0.1,1,1,74,77,96.1,5,48,2,0,0,Bordeaux,2020-12-16 Bordeaux-Saint-Étienne,FRA-L1,20-21,80a19aca
+4bf69118,Enock Kwateng,25,FRA,RB,23-251,61,0,0,0,0,0,0,1,0,53,0,3,1,0.0,0.0,0.0,3,1,38,43,88.4,5,28,1,1,0,Bordeaux,2020-12-16 Bordeaux-Saint-Étienne,FRA-L1,20-21,80a19aca
+b92edde2,Maxime Poundjé,29,FRA,LB,28-122,29,0,0,0,0,0,0,0,0,6,0,1,1,0.0,0.0,0.0,0,0,3,4,75.0,1,5,0,0,0,Bordeaux,2020-12-16 Bordeaux-Saint-Étienne,FRA-L1,20-21,80a19aca
+2434f24a,Benoît Costil,1,FRA,GK,33-166,90,0,0,0,0,0,0,0,0,45,0,0,0,0.0,0.0,0.0,1,0,30,41,73.2,1,19,0,0,0,Bordeaux,2020-12-16 Bordeaux-Saint-Étienne,FRA-L1,20-21,80a19aca
+0b0cbe5b,Denis Bouanga,20,GAB,FW,26-035,64,0,1,0,0,3,3,0,0,23,0,2,1,0.9,0.9,0.1,4,1,10,13,76.9,0,8,2,3,1,Saint-Étienne,2020-12-16 Bordeaux-Saint-Étienne,FRA-L1,20-21,80a19aca
+0b4d8274,Romain Hamouma,21,FRA,FW,33-262,26,0,0,0,0,2,1,0,0,24,1,1,0,0.8,0.8,0.0,4,0,12,15,80.0,2,14,2,1,0,Saint-Étienne,2020-12-16 Bordeaux-Saint-Étienne,FRA-L1,20-21,80a19aca
+b94b8be1,Adil Aouchiche,17,FRA,LW,18-154,72,0,0,0,0,2,1,0,0,45,2,2,0,0.1,0.1,0.4,4,0,22,29,75.9,6,27,5,2,1,Saint-Étienne,2020-12-16 Bordeaux-Saint-Étienne,FRA-L1,20-21,80a19aca
+e2f9bb5f,Zaydou Youssouf,28,FRA,"RW,LW",21-158,18,0,0,0,0,0,0,0,0,5,1,0,0,0.0,0.0,0.0,1,0,2,2,100.0,0,2,0,2,2,Saint-Étienne,2020-12-16 Bordeaux-Saint-Étienne,FRA-L1,20-21,80a19aca
+7b9a9e25,Arnaud Nordin,18,FRA,RW,22-182,72,1,0,0,0,4,1,0,0,41,1,0,3,0.2,0.2,0.0,3,1,25,29,86.2,1,26,3,6,4,Saint-Étienne,2020-12-16 Bordeaux-Saint-Étienne,FRA-L1,20-21,80a19aca
+3cd7820a,Lucas Gourna-Douath,33,FRA,"DM,RW",17-133,18,0,0,0,0,0,0,0,0,11,1,1,0,0.0,0.0,0.0,2,0,7,9,77.8,1,3,1,0,0,Saint-Étienne,2020-12-16 Bordeaux-Saint-Étienne,FRA-L1,20-21,80a19aca
+1001ae82,Ryad Boudebouz,7,ALG,AM,30-301,64,0,0,0,0,1,0,1,0,49,0,0,0,0.1,0.1,0.6,8,0,41,46,89.1,7,32,3,5,4,Saint-Étienne,2020-12-16 Bordeaux-Saint-Étienne,FRA-L1,20-21,80a19aca
+2677a1de,Wahbi Khazri,10,TUN,"LW,AM",29-312,26,0,0,0,0,1,0,1,0,14,1,0,1,0.0,0.0,0.0,1,0,5,5,100.0,1,9,2,2,1,Saint-Étienne,2020-12-16 Bordeaux-Saint-Étienne,FRA-L1,20-21,80a19aca
+0ad37003,Yvan Neyou,19,CMR,"DM,AM",23-348,90,1,0,0,0,3,1,0,0,55,0,0,0,0.1,0.1,0.8,1,0,43,48,89.6,2,33,3,3,2,Saint-Étienne,2020-12-16 Bordeaux-Saint-Étienne,FRA-L1,20-21,80a19aca
+8577e60a,Mahdi Camara,8,FRA,DM,22-169,90,0,0,0,0,0,0,0,0,42,4,1,1,0.0,0.0,0.0,1,0,33,36,91.7,0,25,0,0,0,Saint-Étienne,2020-12-16 Bordeaux-Saint-Étienne,FRA-L1,20-21,80a19aca
+e4b72e34,Miguel Trauco,13,PER,LB,28-113,90,0,0,0,0,0,0,0,0,86,2,0,1,0.0,0.0,0.0,3,0,57,79,72.2,7,45,2,0,0,Saint-Étienne,2020-12-16 Bordeaux-Saint-Étienne,FRA-L1,20-21,80a19aca
+ab096c6f,Timothée Kolodziejczak,5,FRA,CB,29-076,89,0,0,0,0,0,0,0,0,67,1,2,3,0.0,0.0,0.0,1,0,44,54,81.5,2,31,0,0,0,Saint-Étienne,2020-12-16 Bordeaux-Saint-Étienne,FRA-L1,20-21,80a19aca
+f6b94e8d,Saidou Sow,35,GUI,CB,18-165,1,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,0,0,0,0,Saint-Étienne,2020-12-16 Bordeaux-Saint-Étienne,FRA-L1,20-21,80a19aca
+5f26e0c5,Harold Moukoudi,2,CMR,CB,23-019,90,0,0,0,0,0,0,0,0,57,3,2,1,0.0,0.0,0.0,0,0,43,47,91.5,3,35,0,0,0,Saint-Étienne,2020-12-16 Bordeaux-Saint-Étienne,FRA-L1,20-21,80a19aca
+92232aad,Mathieu Debuchy,26,FRA,RB,35-141,90,0,0,0,0,3,1,0,0,52,1,1,2,0.1,0.1,0.1,3,1,26,34,76.5,1,22,0,2,0,Saint-Étienne,2020-12-16 Bordeaux-Saint-Étienne,FRA-L1,20-21,80a19aca
+28a65a2c,Jessy Moulin,30,FRA,GK,34-338,90,0,0,0,0,0,0,0,0,29,0,0,0,0.0,0.0,0.0,0,0,18,28,64.3,0,13,0,0,0,Saint-Étienne,2020-12-16 Bordeaux-Saint-Étienne,FRA-L1,20-21,80a19aca

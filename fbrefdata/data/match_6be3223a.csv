@@ -1,0 +1,29 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+ce50fd99,Jonathan David,9,CAN,FW,21-031,89,0,0,0,0,1,0,0,0,15,0,0,0,0.0,0.0,0.2,2,0,6,10,60.0,2,9,0,3,1,Lille,2021-02-14 Lille-Brest,FRA-L1,20-21,6be3223a
+57a46f3f,Isaac Lihadji,19,FRA,FW,18-310,1,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,2,0,0,0,Lille,2021-02-14 Lille-Brest,FRA-L1,20-21,6be3223a
+42eaa028,Jonathan Ikone,10,FRA,FW,22-288,60,0,0,0,0,3,0,0,0,32,1,0,0,0.1,0.1,0.0,1,0,20,24,83.3,0,21,1,3,1,Lille,2021-02-14 Lille-Brest,FRA-L1,20-21,6be3223a
+f5c8b425,Yusuf Yazıcı,12,TUR,FW,24-016,30,0,0,0,0,1,0,0,0,17,1,0,0,0.1,0.1,0.0,2,0,6,13,46.2,0,7,0,0,0,Lille,2021-02-14 Lille-Brest,FRA-L1,20-21,6be3223a
+b2bd0f6c,Jonathan Bamba,7,CIV,LM,24-325,90,0,0,0,0,4,0,1,0,63,1,0,0,0.2,0.2,0.2,7,0,34,47,72.3,2,38,2,4,1,Lille,2021-02-14 Lille-Brest,FRA-L1,20-21,6be3223a
+f3600c02,Xeka,8,POR,CM,26-096,70,0,0,0,0,1,0,0,0,66,1,1,0,0.1,0.1,0.0,2,0,56,60,93.3,6,46,2,0,0,Lille,2021-02-14 Lille-Brest,FRA-L1,20-21,6be3223a
+032f894e,Renato Sanches,18,POR,CM,23-180,20,0,0,0,0,0,0,0,0,33,0,0,1,0.0,0.0,0.1,1,0,26,29,89.7,5,24,2,0,0,Lille,2021-02-14 Lille-Brest,FRA-L1,20-21,6be3223a
+ef9c1c95,Benjamin André,21,FRA,CM,30-195,90,0,0,0,0,1,0,0,0,93,0,0,0,0.1,0.1,0.0,3,0,67,84,79.8,13,68,1,1,0,Lille,2021-02-14 Lille-Brest,FRA-L1,20-21,6be3223a
+fa18c72e,Luiz Araújo,11,BRA,RM,24-257,60,0,0,0,0,2,0,0,0,38,1,0,0,0.0,0.0,0.1,3,0,22,31,71.0,1,29,3,1,0,Lille,2021-02-14 Lille-Brest,FRA-L1,20-21,6be3223a
+8eec784d,Timothy Weah,22,USA,RM,20-358,30,0,0,0,0,0,0,0,0,17,0,0,0,0.0,0.0,0.0,1,0,11,16,68.8,2,8,2,2,2,Lille,2021-02-14 Lille-Brest,FRA-L1,20-21,6be3223a
+c20bdcd7,Reinildo Mandava,28,MOZ,LB,27-024,90,0,0,0,0,0,0,0,0,86,4,0,2,0.0,0.0,0.0,1,0,59,77,76.6,8,49,3,2,2,Lille,2021-02-14 Lille-Brest,FRA-L1,20-21,6be3223a
+b2336681,Tiago Djaló,3,POR,CB,20-311,90,0,0,0,0,0,0,0,0,118,1,0,3,0.0,0.0,0.0,3,0,104,110,94.5,8,87,2,2,1,Lille,2021-02-14 Lille-Brest,FRA-L1,20-21,6be3223a
+90f87966,José Fonte,6,POR,CB,37-054,90,0,0,0,0,2,0,0,0,133,0,0,1,0.1,0.1,0.0,1,0,123,126,97.6,12,99,1,1,1,Lille,2021-02-14 Lille-Brest,FRA-L1,20-21,6be3223a
+31a62dc7,Zeki Çelik,2,TUR,RB,23-363,90,0,0,0,0,0,0,1,0,105,0,0,2,0.0,0.0,0.0,2,0,76,95,80.0,11,66,6,1,0,Lille,2021-02-14 Lille-Brest,FRA-L1,20-21,6be3223a
+fcb38f57,Mike Maignan,16,FRA,GK,25-226,90,0,0,0,0,0,0,0,0,19,0,0,0,0.0,0.0,0.0,0,0,15,17,88.2,1,7,0,0,0,Lille,2021-02-14 Lille-Brest,FRA-L1,20-21,6be3223a
+19ba6c6d,Steve Mounié,15,BEN,FW,26-138,90,0,0,0,0,0,0,0,0,33,0,0,0,0.0,0.0,0.0,1,0,11,25,44.0,0,15,1,2,2,Brest,2021-02-14 Lille-Brest,FRA-L1,20-21,6be3223a
+a99138af,Jean Lucas,6,BRA,FW,22-237,90,0,0,0,0,1,0,0,0,33,2,0,0,0.0,0.0,0.0,2,0,22,25,88.0,1,14,1,2,2,Brest,2021-02-14 Lille-Brest,FRA-L1,20-21,6be3223a
+db7849ca,Franck Honorat,9,FRA,LM,24-187,89,0,0,0,0,0,0,0,0,33,1,0,0,0.0,0.0,0.0,0,0,12,26,46.2,2,23,4,2,1,Brest,2021-02-14 Lille-Brest,FRA-L1,20-21,6be3223a
+88c4d190,Jérémy Le Douaron,26,FRA,LM,22-299,1,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Brest,2021-02-14 Lille-Brest,FRA-L1,20-21,6be3223a
+542cc80f,Paul Lasne,8,FRA,CM,32-029,90,0,0,0,0,0,0,0,0,51,3,2,1,0.0,0.0,0.0,1,0,31,35,88.6,1,23,0,0,0,Brest,2021-02-14 Lille-Brest,FRA-L1,20-21,6be3223a
+2b1bed19,Haris Belkebla,7,ALG,CM,27-017,90,0,0,0,0,0,0,1,0,32,5,2,0,0.0,0.0,0.0,0,0,15,18,83.3,1,6,0,0,0,Brest,2021-02-14 Lille-Brest,FRA-L1,20-21,6be3223a
+745ca0a3,Romain Faivre,21,FRA,RM,22-215,90,0,0,0,0,1,0,0,0,37,2,1,1,0.0,0.0,0.0,0,0,17,27,63.0,2,18,1,4,3,Brest,2021-02-14 Lille-Brest,FRA-L1,20-21,6be3223a
+6dfd8f05,Romain Perraud,18,FRA,LB,23-145,90,0,0,0,0,1,1,0,0,41,2,3,0,0.0,0.0,0.0,1,0,17,29,58.6,1,19,1,0,0,Brest,2021-02-14 Lille-Brest,FRA-L1,20-21,6be3223a
+3681cfff,Christophe Hérelle,23,MTQ,CB,28-176,90,0,0,0,0,0,0,0,0,46,1,3,2,0.0,0.0,0.0,0,0,28,34,82.4,0,22,0,0,0,Brest,2021-02-14 Lille-Brest,FRA-L1,20-21,6be3223a
+16aa7d4c,Brendan Chardonnet,5,FRA,CB,26-054,90,0,0,0,0,0,0,0,0,50,1,3,2,0.0,0.0,0.0,0,0,29,37,78.4,1,24,0,0,0,Brest,2021-02-14 Lille-Brest,FRA-L1,20-21,6be3223a
+64ba07c0,Ronaël Pierre-Gabriel,20,FRA,RB,22-246,90,0,0,0,0,0,0,0,0,65,3,2,1,0.0,0.0,0.0,0,0,36,49,73.5,2,24,2,2,1,Brest,2021-02-14 Lille-Brest,FRA-L1,20-21,6be3223a
+2b9b37b2,Sébastien Cibois,16,FRA,GK,22-349,90,0,0,0,0,0,0,0,0,37,0,0,0,0.0,0.0,0.0,0,0,25,37,67.6,0,14,0,0,0,Brest,2021-02-14 Lille-Brest,FRA-L1,20-21,6be3223a

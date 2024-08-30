@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+7cdda3bf,Gaëtan Laborde,24,FRA,"FW,LW",28-253,90,0,1,0,0,3,2,0,0,36,2,0,3,0.3,0.3,0.1,4,3,14,21,66.7,2,24,3,6,4,Nice,2023-01-11 Nice-Montpellier,FRA-L1,22-23,45abc300
+19053e31,Sofiane Diop,10,FRA,LW,22-216,66,0,0,0,0,1,0,0,0,53,1,0,0,0.1,0.1,0.1,4,1,31,44,70.5,5,39,3,2,0,Nice,2023-01-11 Nice-Montpellier,FRA-L1,22-23,45abc300
+d33c706e,Andy Delort,7,ALG,FW,31-094,24,1,1,0,0,1,1,0,0,10,0,0,0,0.1,0.1,0.4,2,1,6,9,66.7,1,8,0,0,0,Nice,2023-01-11 Nice-Montpellier,FRA-L1,22-23,45abc300
+57e3f0c7,Nicolas Pépé,29,CIV,RW,27-227,66,2,0,0,0,3,3,1,0,40,1,0,4,0.6,0.6,0.3,2,0,20,27,74.1,2,30,5,5,0,Nice,2023-01-11 Nice-Montpellier,FRA-L1,22-23,45abc300
+0400dd2f,Badredine Bouanani,35,ALG,RW,18-034,24,0,1,0,0,0,0,0,0,14,0,0,0,0.0,0.0,0.3,1,1,12,14,85.7,2,14,0,1,1,Nice,2023-01-11 Nice-Montpellier,FRA-L1,22-23,45abc300
+7d9397f8,Khéphren Thuram,19,FRA,"AM,DM",21-291,77,1,1,0,0,3,1,0,0,46,1,2,0,0.6,0.6,0.6,7,2,28,33,84.8,3,37,5,6,2,Nice,2023-01-11 Nice-Montpellier,FRA-L1,22-23,45abc300
+1a6b7ea4,Pablo Rosario,8,NED,DM,26-004,13,0,0,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.1,1,0,10,10,100.0,3,10,1,1,0,Nice,2023-01-11 Nice-Montpellier,FRA-L1,22-23,45abc300
+ef619b0b,Aaron Ramsey,16,WAL,DM,32-016,66,0,1,0,0,2,0,0,0,44,3,1,0,0.2,0.2,0.1,1,1,30,32,93.8,6,30,0,1,0,Nice,2023-01-11 Nice-Montpellier,FRA-L1,22-23,45abc300
+3a24769f,Ross Barkley,11,ENG,AM,29-037,24,2,0,0,0,2,2,0,0,19,0,0,0,0.6,0.6,0.0,2,1,17,17,100.0,1,17,2,1,1,Nice,2023-01-11 Nice-Montpellier,FRA-L1,22-23,45abc300
+f9d5908e,Hicham Boudaoui,28,ALG,DM,23-110,42,0,0,0,0,0,0,0,0,41,3,2,0,0.0,0.0,0.1,2,1,33,35,94.3,5,31,0,0,0,Nice,2023-01-11 Nice-Montpellier,FRA-L1,22-23,45abc300
+2b471f99,Mario Lemina,99,GAB,DM,29-132,48,0,0,0,0,1,1,0,0,24,0,0,0,0.1,0.1,0.0,1,0,19,20,95.0,2,20,0,1,0,Nice,2023-01-11 Nice-Montpellier,FRA-L1,22-23,45abc300
+1ddbc7ca,Melvin Bard,26,FRA,LB,22-066,90,0,0,0,0,0,0,0,0,57,9,0,0,0.0,0.0,0.1,0,0,43,50,86.0,2,40,3,1,0,Nice,2023-01-11 Nice-Montpellier,FRA-L1,22-23,45abc300
+fd2bc67d,Dante,4,BRA,CB,39-085,90,0,1,0,0,0,0,0,0,77,0,1,0,0.0,0.0,0.4,2,1,64,68,94.1,5,57,1,1,0,Nice,2023-01-11 Nice-Montpellier,FRA-L1,22-23,45abc300
+88f130ed,Jean-Clair Todibo,25,FRA,CB,23-012,90,0,0,0,0,0,0,0,0,66,6,0,0,0.0,0.0,0.0,0,0,44,53,83.0,2,45,0,1,1,Nice,2023-01-11 Nice-Montpellier,FRA-L1,22-23,45abc300
+fc4cf6a7,Jordan Lotomba,23,SUI,RB,24-104,90,0,0,0,0,0,0,0,0,87,6,1,3,0.0,0.0,0.0,1,0,47,67,70.1,3,53,4,8,2,Nice,2023-01-11 Nice-Montpellier,FRA-L1,22-23,45abc300
+53af52f3,Kasper Schmeichel,1,DEN,GK,36-067,90,0,0,0,0,0,0,0,0,20,0,0,0,0.0,0.0,0.0,0,0,19,19,100.0,0,12,0,0,0,Nice,2023-01-11 Nice-Montpellier,FRA-L1,22-23,45abc300
+0d7b6576,Elye Wahi,21,FRA,FW,20-009,90,0,0,0,0,0,0,0,0,21,0,0,0,0.0,0.0,0.0,0,0,11,15,73.3,0,15,1,4,2,Montpellier,2023-01-11 Nice-Montpellier,FRA-L1,22-23,45abc300
+30144daa,Stephy Mavididi,10,ENG,LW,24-225,60,0,0,0,0,1,0,0,0,26,3,0,1,0.0,0.0,0.0,0,0,7,9,77.8,0,13,1,4,0,Montpellier,2023-01-11 Nice-Montpellier,FRA-L1,22-23,45abc300
+ea0ff634,Valère Germain,9,FRA,RW,32-269,30,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,6,6,100.0,0,6,0,0,0,Montpellier,2023-01-11 Nice-Montpellier,FRA-L1,22-23,45abc300
+654f49ca,Béni Makouana,28,CGO,RW,20-105,45,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,0,0,2,5,40.0,0,7,2,5,1,Montpellier,2023-01-11 Nice-Montpellier,FRA-L1,22-23,45abc300
+7b9a9e25,Arnaud Nordin,7,FRA,"RM,RW",24-208,45,0,0,0,0,0,0,0,0,14,1,1,0,0.0,0.0,0.0,0,0,6,9,66.7,1,13,0,1,0,Montpellier,2023-01-11 Nice-Montpellier,FRA-L1,22-23,45abc300
+6bde367b,Téji Savanier,11,FRA,"AM,LW",31-020,90,1,0,0,0,2,2,0,0,73,2,3,1,0.1,0.1,0.0,2,1,39,57,68.4,5,54,0,5,1,Montpellier,2023-01-11 Nice-Montpellier,FRA-L1,22-23,45abc300
+fcc84a07,Léo Leroy,18,FRA,DM,22-331,60,0,0,0,0,1,0,0,0,33,7,0,2,0.0,0.0,0.0,1,0,13,18,72.2,2,20,0,2,0,Montpellier,2023-01-11 Nice-Montpellier,FRA-L1,22-23,45abc300
+2677a1de,Wahbi Khazri,99,TUN,LM,31-337,30,0,0,0,0,0,0,1,0,9,1,0,1,0.0,0.0,0.0,2,1,5,7,71.4,1,7,0,0,0,Montpellier,2023-01-11 Nice-Montpellier,FRA-L1,22-23,45abc300
+375622c5,Jordan Ferri,12,FRA,"DM,CM",30-305,90,0,0,0,0,0,0,0,0,58,2,2,2,0.0,0.0,0.0,0,0,44,50,88.0,6,48,1,0,0,Montpellier,2023-01-11 Nice-Montpellier,FRA-L1,22-23,45abc300
+e54a9890,Faitout Maouassa,27,FRA,LB,24-189,90,0,0,0,0,0,0,0,0,49,2,0,0,0.0,0.0,0.0,0,0,32,41,78.0,4,29,1,3,1,Montpellier,2023-01-11 Nice-Montpellier,FRA-L1,22-23,45abc300
+1a066e69,Maxime Estève,14,FRA,CB,20-230,73,0,0,0,0,0,0,0,0,46,5,1,0,0.0,0.0,0.0,0,0,26,33,78.8,1,25,0,0,0,Montpellier,2023-01-11 Nice-Montpellier,FRA-L1,22-23,45abc300
+87935cf3,Mamadou Sakho,75,FRA,CB,32-332,17,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,0,0,10,10,100.0,1,10,0,0,0,Montpellier,2023-01-11 Nice-Montpellier,FRA-L1,22-23,45abc300
+f323d995,Christopher Jullien,6,FRA,CB,29-295,90,0,0,0,0,0,0,0,0,53,7,0,1,0.0,0.0,0.0,1,0,34,40,85.0,1,35,0,0,0,Montpellier,2023-01-11 Nice-Montpellier,FRA-L1,22-23,45abc300
+6388e356,Falaye Sacko,77,MLI,RB,27-255,90,0,0,0,0,0,0,0,0,69,2,3,4,0.0,0.0,0.0,1,0,42,54,77.8,2,36,0,1,0,Montpellier,2023-01-11 Nice-Montpellier,FRA-L1,22-23,45abc300
+c631f952,Jonas Omlin,1,SUI,GK,29-001,90,0,0,0,0,0,0,0,0,27,0,0,0,0.0,0.0,0.0,0,0,22,27,81.5,0,20,0,0,0,Montpellier,2023-01-11 Nice-Montpellier,FRA-L1,22-23,45abc300

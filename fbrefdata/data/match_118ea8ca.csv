@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+877bc844,Philipp Hofmann,33,GER,FW,30-029,69,0,0,0,0,2,1,0,0,19,0,0,0,0.2,0.2,0.0,1,1,11,15,73.3,0,3,0,0,0,Bochum,2023-04-28 Bochum-Dortmund,GER-BL1,22-23,118ea8ca
+bbd79358,Moritz Broschinski,29,GER,FW,22-217,21,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,1,0,0,0,Bochum,2023-04-28 Bochum-Dortmund,GER-BL1,22-23,118ea8ca
+0a3f6cde,Christopher Antwi-Adjei,22,GHA,LW,29-080,90,0,0,0,0,0,0,0,0,47,1,0,1,0.0,0.0,0.1,5,0,19,31,61.3,1,24,2,2,0,Bochum,2023-04-28 Bochum-Dortmund,GER-BL1,22-23,118ea8ca
+13ddc856,Takuma Asano,11,JPN,RW,28-169,77,0,0,0,0,5,1,0,0,29,1,0,1,0.5,0.5,0.0,2,0,9,14,64.3,1,15,2,2,1,Bochum,2023-04-28 Bochum-Dortmund,GER-BL1,22-23,118ea8ca
+29f7cfd9,Simon Zoller,9,GER,RW,31-306,13,0,0,0,0,0,0,0,0,2,0,0,1,0.0,0.0,0.0,0,0,0,1,0.0,0,1,1,0,0,Bochum,2023-04-28 Bochum-Dortmund,GER-BL1,22-23,118ea8ca
+e5649a78,Kevin Stöger,7,AUT,AM,29-244,90,0,0,0,0,2,1,0,0,51,3,0,2,0.0,0.0,0.3,7,0,29,41,70.7,5,23,3,2,2,Bochum,2023-04-28 Bochum-Dortmund,GER-BL1,22-23,118ea8ca
+9662c9ec,Patrick Osterhage,6,GER,DM,23-086,84,0,0,0,0,1,0,0,0,31,2,1,0,0.0,0.0,0.0,1,0,13,19,68.4,3,15,0,0,0,Bochum,2023-04-28 Bochum-Dortmund,GER-BL1,22-23,118ea8ca
+9ceb7642,Pierre Kunde,28,CMR,DM,27-276,6,0,0,0,0,0,0,0,0,4,0,1,0,0.0,0.0,0.0,0,0,0,0,,0,1,0,0,0,Bochum,2023-04-28 Bochum-Dortmund,GER-BL1,22-23,118ea8ca
+07c7eb0c,Anthony Losilla,8,FRA,DM,37-049,90,1,0,0,0,1,1,0,0,31,3,0,3,0.1,0.1,0.2,1,0,8,19,42.1,1,8,0,0,0,Bochum,2023-04-28 Bochum-Dortmund,GER-BL1,22-23,118ea8ca
+c05f2f8c,Danilo Soares,3,BRA,LB,31-181,84,0,0,0,0,0,0,1,0,42,6,2,3,0.0,0.0,0.0,4,1,22,27,81.5,1,13,0,0,0,Bochum,2023-04-28 Bochum-Dortmund,GER-BL1,22-23,118ea8ca
+861e0116,Kostas Stafylidis,16,GRE,LB,29-147,6,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,0,0,0,0,Bochum,2023-04-28 Bochum-Dortmund,GER-BL1,22-23,118ea8ca
+a396fb61,Erhan Mašović,4,SRB,CB,24-157,90,0,0,0,0,0,0,0,0,31,0,3,1,0.0,0.0,0.0,0,0,19,24,79.2,2,14,0,0,0,Bochum,2023-04-28 Bochum-Dortmund,GER-BL1,22-23,118ea8ca
+86c75897,Ivan Ordets,20,UKR,CB,30-294,90,0,0,0,0,1,0,0,0,43,0,0,4,0.1,0.1,0.0,0,0,15,27,55.6,1,12,0,0,0,Bochum,2023-04-28 Bochum-Dortmund,GER-BL1,22-23,118ea8ca
+f27680d9,Cristian Gamboa,2,CRC,RB,33-186,77,0,0,0,0,1,0,0,0,30,3,1,1,0.0,0.0,0.0,1,0,15,24,62.5,2,13,1,1,1,Bochum,2023-04-28 Bochum-Dortmund,GER-BL1,22-23,118ea8ca
+689c9cf4,Saidy Janko,23,GAM,RB,27-188,13,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Bochum,2023-04-28 Bochum-Dortmund,GER-BL1,22-23,118ea8ca
+9f941969,Manuel Riemann,1,GER,GK,34-231,90,0,0,0,0,0,0,0,0,42,0,0,0,0.0,0.0,0.0,0,0,22,37,59.5,0,16,0,0,0,Bochum,2023-04-28 Bochum-Dortmund,GER-BL1,22-23,118ea8ca
+ba115a40,Sébastien Haller,9,CIV,FW,28-310,72,0,1,0,0,1,0,1,0,20,0,0,1,0.4,0.4,0.6,3,1,12,16,75.0,1,8,1,0,0,Dortmund,2023-04-28 Bochum-Dortmund,GER-BL1,22-23,118ea8ca
+6ce43701,Youssoufa Moukoko,18,GER,FW,18-159,18,0,0,0,0,2,1,0,0,4,0,0,0,0.2,0.2,0.0,2,0,0,0,,0,3,1,1,1,Dortmund,2023-04-28 Bochum-Dortmund,GER-BL1,22-23,118ea8ca
+501055d8,Karim Adeyemi,27,GER,LW,21-100,80,1,0,0,0,4,1,1,0,29,0,0,1,0.9,0.9,0.2,1,0,8,13,61.5,2,17,4,5,1,Dortmund,2023-04-28 Bochum-Dortmund,GER-BL1,22-23,118ea8ca
+7fa4e703,Gio Reyna,7,USA,LW,20-166,10,0,0,0,0,2,1,0,0,9,0,0,0,0.1,0.1,0.0,1,0,6,6,100.0,1,5,0,0,0,Dortmund,2023-04-28 Bochum-Dortmund,GER-BL1,22-23,118ea8ca
+116c35df,Donyell Malen,21,NED,RW,24-109,87,0,0,0,0,4,1,0,0,36,0,0,0,0.4,0.4,0.4,1,0,16,24,66.7,1,25,7,8,3,Dortmund,2023-04-28 Bochum-Dortmund,GER-BL1,22-23,118ea8ca
+fa661778,Marius Wolf,17,GER,RW,27-336,3,0,0,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.0,0,0,6,10,60.0,0,4,1,0,0,Dortmund,2023-04-28 Bochum-Dortmund,GER-BL1,22-23,118ea8ca
+a167537f,Julian Brandt,19,GER,LM,26-361,73,0,0,0,0,1,1,0,0,43,0,0,1,0.2,0.2,0.0,1,0,31,36,86.1,3,18,1,1,1,Dortmund,2023-04-28 Bochum-Dortmund,GER-BL1,22-23,118ea8ca
+36a3ff67,Marco Reus,11,GER,LM,33-332,17,0,0,0,0,0,0,0,0,19,0,0,0,0.0,0.0,0.1,1,0,15,19,78.9,2,6,0,0,0,Dortmund,2023-04-28 Bochum-Dortmund,GER-BL1,22-23,118ea8ca
+a65ce836,Emre Can,23,GER,CM,29-106,90,0,0,0,0,1,0,0,0,61,0,0,0,0.1,0.1,0.2,9,0,44,50,88.0,8,30,4,2,1,Dortmund,2023-04-28 Bochum-Dortmund,GER-BL1,22-23,118ea8ca
+57d88cf9,Jude Bellingham,22,ENG,RM,19-303,90,0,0,0,0,4,2,0,0,55,1,1,1,0.5,0.5,0.1,6,0,28,42,66.7,5,29,4,6,5,Dortmund,2023-04-28 Bochum-Dortmund,GER-BL1,22-23,118ea8ca
+048a1cbc,Raphaël Guerreiro,13,POR,LB,29-127,90,0,0,0,0,0,0,0,0,84,1,2,1,0.0,0.0,0.4,8,0,63,79,79.7,7,41,5,1,0,Dortmund,2023-04-28 Bochum-Dortmund,GER-BL1,22-23,118ea8ca
+05d548d8,Mats Hummels,15,GER,CB,34-133,90,0,0,0,0,0,0,0,0,86,2,0,1,0.0,0.0,0.0,4,0,69,76,90.8,5,51,3,0,0,Dortmund,2023-04-28 Bochum-Dortmund,GER-BL1,22-23,118ea8ca
+e33c06cf,Niklas Süle,25,GER,CB,27-237,90,0,0,0,0,2,0,0,0,87,1,1,2,0.1,0.1,0.1,3,0,65,78,83.3,3,36,4,0,0,Dortmund,2023-04-28 Bochum-Dortmund,GER-BL1,22-23,118ea8ca
+009a4f60,Julian Ryerson,26,NOR,RB,25-162,87,0,0,0,0,0,0,0,0,60,0,0,1,0.0,0.0,0.3,2,0,35,54,64.8,3,21,2,1,0,Dortmund,2023-04-28 Bochum-Dortmund,GER-BL1,22-23,118ea8ca
+34e4343c,Anthony Modeste,20,FRA,RB,35-014,3,0,0,0,0,1,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,0,3,0.0,0,1,0,0,0,Dortmund,2023-04-28 Bochum-Dortmund,GER-BL1,22-23,118ea8ca
+cd59b9df,Gregor Kobel,1,SUI,GK,25-143,90,0,0,0,0,0,0,0,0,49,0,0,0,0.0,0.0,0.0,0,0,45,49,91.8,0,29,0,0,0,Dortmund,2023-04-28 Bochum-Dortmund,GER-BL1,22-23,118ea8ca

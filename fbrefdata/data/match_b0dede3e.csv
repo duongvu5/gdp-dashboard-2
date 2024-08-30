@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+d7d32194,Mattia Destro,23,ITA,FW,30-014,69,1,0,0,0,2,1,0,0,16,0,0,0,0.7,0.7,0.0,0,0,8,13,61.5,0,16,0,0,0,Genoa,2021-04-03 Genoa-Fiorentina,ITA-SERIA_A,20-21,b0dede3e
+2c38b327,Marko Pjaca,37,CRO,FW,25-332,21,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,1,0,9,10,90.0,0,7,0,0,0,Genoa,2021-04-03 Genoa-Fiorentina,ITA-SERIA_A,20-21,b0dede3e
+8790f988,Gianluca Scamacca,9,ITA,FW,22-092,82,0,1,0,0,1,0,0,0,29,0,3,0,0.0,0.0,0.5,1,1,21,23,91.3,0,16,1,0,0,Genoa,2021-04-03 Genoa-Fiorentina,ITA-SERIA_A,20-21,b0dede3e
+57469b2d,Eldor Shomurodov,61,UZB,FW,25-278,8,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,1,3,33.3,0,3,0,0,0,Genoa,2021-04-03 Genoa-Fiorentina,ITA-SERIA_A,20-21,b0dede3e
+ef2e5e1a,Kevin Strootman,20,NED,CM,31-049,82,0,0,0,0,0,0,1,0,77,1,2,2,0.0,0.0,0.3,4,0,58,72,80.6,9,50,0,0,0,Genoa,2021-04-03 Genoa-Fiorentina,ITA-SERIA_A,20-21,b0dede3e
+6604165d,Filippo Melegoni,24,ITA,CM,22-044,8,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,4,6,66.7,0,6,1,0,0,Genoa,2021-04-03 Genoa-Fiorentina,ITA-SERIA_A,20-21,b0dede3e
+e8c930bb,Milan Badelj,47,CRO,CM,32-037,90,0,0,0,0,1,0,0,0,89,3,1,1,0.0,0.0,0.0,1,0,73,79,92.4,8,60,2,1,1,Genoa,2021-04-03 Genoa-Fiorentina,ITA-SERIA_A,20-21,b0dede3e
+d3d758d8,Valon Behrami,11,SUI,"CM,WB",35-349,69,0,0,0,0,0,0,0,0,14,1,1,0,0.0,0.0,0.0,1,0,6,9,66.7,1,7,0,0,0,Genoa,2021-04-03 Genoa-Fiorentina,ITA-SERIA_A,20-21,b0dede3e
+71dc23da,Paolo Ghiglione,18,ITA,WB,24-060,21,0,0,0,0,0,0,0,0,17,0,0,0,0.0,0.0,0.2,1,0,9,16,56.3,0,7,0,0,0,Genoa,2021-04-03 Genoa-Fiorentina,ITA-SERIA_A,20-21,b0dede3e
+7fe90ccd,Davide Zappacosta,77,ITA,WB,28-296,90,0,0,0,0,3,0,0,0,63,3,0,0,0.2,0.2,0.0,3,1,33,44,75.0,1,38,5,7,3,Genoa,2021-04-03 Genoa-Fiorentina,ITA-SERIA_A,20-21,b0dede3e
+64cd167d,Davide Biraschi,14,ITA,WB,26-275,61,0,0,0,0,0,0,0,0,38,1,1,2,0.0,0.0,0.0,0,0,21,28,75.0,2,20,0,2,0,Genoa,2021-04-03 Genoa-Fiorentina,ITA-SERIA_A,20-21,b0dede3e
+83e4643e,Miha Zajc,16,SVN,CM,26-276,29,0,0,0,0,0,0,1,0,25,1,0,0,0.0,0.0,0.0,0,0,21,23,91.3,2,18,3,2,1,Genoa,2021-04-03 Genoa-Fiorentina,ITA-SERIA_A,20-21,b0dede3e
+35dd6d80,Domenico Criscito,4,ITA,CB,34-094,90,0,0,0,0,0,0,0,0,91,2,0,1,0.0,0.0,0.0,0,0,61,83,73.5,9,63,7,0,0,Genoa,2021-04-03 Genoa-Fiorentina,ITA-SERIA_A,20-21,b0dede3e
+023937a9,Ivan Radovanović,21,SRB,CB,32-217,90,0,0,0,0,1,0,0,0,58,1,0,0,0.1,0.1,0.0,0,0,46,51,90.2,1,44,0,0,0,Genoa,2021-04-03 Genoa-Fiorentina,ITA-SERIA_A,20-21,b0dede3e
+e0314d87,Andrea Masiello,55,ITA,CB,35-057,90,0,0,0,0,0,0,0,0,78,1,1,0,0.0,0.0,0.0,2,0,64,71,90.1,7,60,0,0,0,Genoa,2021-04-03 Genoa-Fiorentina,ITA-SERIA_A,20-21,b0dede3e
+4c62d0c8,Mattia Perin,1,ITA,GK,28-144,90,0,0,0,0,0,0,0,0,32,0,0,0,0.0,0.0,0.0,0,0,26,31,83.9,0,21,0,0,0,Genoa,2021-04-03 Genoa-Fiorentina,ITA-SERIA_A,20-21,b0dede3e
+f61c7c4e,Franck Ribéry,7,FRA,FW,37-361,50,0,0,0,0,0,0,0,1,24,1,0,0,0.0,0.0,0.0,2,0,14,18,77.8,0,21,5,1,1,Fiorentina,2021-04-03 Genoa-Fiorentina,ITA-SERIA_A,20-21,b0dede3e
+79443529,Dušan Vlahović,9,SRB,FW,21-065,88,1,0,0,0,3,1,0,0,32,1,0,0,0.2,0.2,0.0,2,0,19,23,82.6,1,19,0,4,3,Fiorentina,2021-04-03 Genoa-Fiorentina,ITA-SERIA_A,20-21,b0dede3e
+58e933d2,Christian Kouamé,11,CIV,FW,23-118,2,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,3,0,0,0,Fiorentina,2021-04-03 Genoa-Fiorentina,ITA-SERIA_A,20-21,b0dede3e
+0728bebe,Gaetano Castrovilli,10,ITA,CM,24-045,82,0,1,0,0,1,0,0,0,36,0,0,0,0.1,0.1,0.1,3,1,20,25,80.0,3,27,0,2,1,Fiorentina,2021-04-03 Genoa-Fiorentina,ITA-SERIA_A,20-21,b0dede3e
+78841da9,José Callejón,77,ESP,CM,34-051,8,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,1,0,0,0,Fiorentina,2021-04-03 Genoa-Fiorentina,ITA-SERIA_A,20-21,b0dede3e
+4611e028,Erick Pulgar,78,CHI,CM,27-078,90,0,0,0,0,1,0,1,0,66,1,2,1,0.0,0.0,0.1,2,0,47,59,79.7,7,37,0,0,0,Fiorentina,2021-04-03 Genoa-Fiorentina,ITA-SERIA_A,20-21,b0dede3e
+d995ed27,Giacomo Bonaventura,5,ITA,CM,31-224,70,0,0,0,0,2,0,0,0,34,0,1,2,0.5,0.5,0.0,2,0,21,25,84.0,1,26,2,2,1,Fiorentina,2021-04-03 Genoa-Fiorentina,ITA-SERIA_A,20-21,b0dede3e
+ae82fa48,Valentin Eysseric,92,FRA,CM,29-009,20,0,0,0,0,0,0,0,0,10,0,2,0,0.0,0.0,0.0,1,0,5,7,71.4,1,6,1,0,0,Fiorentina,2021-04-03 Genoa-Fiorentina,ITA-SERIA_A,20-21,b0dede3e
+983ff2c7,Lorenzo Venuti,23,ITA,WB,25-356,88,0,0,0,0,0,0,0,0,61,2,2,0,0.0,0.0,0.5,1,0,39,54,72.2,6,32,3,1,1,Fiorentina,2021-04-03 Genoa-Fiorentina,ITA-SERIA_A,20-21,b0dede3e
+5a2cb25d,Sofyan Amrabat,34,MAR,WB,24-225,2,0,0,0,0,0,0,0,0,4,1,0,1,0.0,0.0,0.0,0,0,2,2,100.0,0,2,0,0,0,Fiorentina,2021-04-03 Genoa-Fiorentina,ITA-SERIA_A,20-21,b0dede3e
+e94d79e3,Martín Cáceres,22,URU,WB,33-361,70,0,0,0,0,1,1,0,0,25,1,0,0,0.0,0.0,0.0,3,0,22,23,95.7,3,18,0,0,0,Fiorentina,2021-04-03 Genoa-Fiorentina,ITA-SERIA_A,20-21,b0dede3e
+9e1577aa,Cristiano Biraghi,3,ITA,WB,28-214,20,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,0,0,3,5,60.0,0,4,0,0,0,Fiorentina,2021-04-03 Genoa-Fiorentina,ITA-SERIA_A,20-21,b0dede3e
+3ec3c1c9,Lucas Martínez Quarta,2,ARG,CB,24-328,90,0,0,0,0,0,0,0,0,57,1,3,0,0.0,0.0,0.0,0,0,45,48,93.8,6,34,0,0,0,Fiorentina,2021-04-03 Genoa-Fiorentina,ITA-SERIA_A,20-21,b0dede3e
+8c725b43,Germán Pezzella,20,ARG,CB,29-280,90,0,0,0,0,0,0,0,0,63,2,2,1,0.0,0.0,0.0,1,1,49,56,87.5,5,39,0,0,0,Fiorentina,2021-04-03 Genoa-Fiorentina,ITA-SERIA_A,20-21,b0dede3e
+bee704fc,Nikola Milenković,4,SRB,CB,23-173,90,0,0,0,0,2,1,0,0,72,2,0,0,0.1,0.1,0.0,1,0,49,58,84.5,6,43,1,1,0,Fiorentina,2021-04-03 Genoa-Fiorentina,ITA-SERIA_A,20-21,b0dede3e
+085e71a7,Bartłomiej Drągowski,69,POL,GK,23-227,90,0,0,0,0,0,0,0,0,36,0,0,0,0.0,0.0,0.0,0,0,19,36,52.8,0,21,0,0,0,Fiorentina,2021-04-03 Genoa-Fiorentina,ITA-SERIA_A,20-21,b0dede3e

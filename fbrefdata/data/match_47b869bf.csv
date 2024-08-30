@@ -1,0 +1,31 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+7b536033,Mariusz Stępiński,9,POL,FW,25-058,53,0,0,0,0,2,0,0,0,20,1,0,0,0.1,0.1,0.0,1,0,8,11,72.7,0,14,0,1,1,Hellas Verona,2020-07-09 Hellas Verona-Inter,ITA-SERIA_A,19-20,47b869bf
+ef94dc2f,Samuel Di Carmine,10,ITA,FW,31-284,37,0,0,0,0,0,0,0,0,10,0,0,1,0.0,0.0,0.0,0,0,1,5,20.0,0,4,0,0,0,Hellas Verona,2020-07-09 Hellas Verona-Inter,ITA-SERIA_A,19-20,47b869bf
+5128bde4,Darko Lazović,88,SRB,AM,29-298,83,1,0,0,0,1,1,0,0,39,0,1,0,0.1,0.1,0.1,4,1,25,35,71.4,5,26,4,1,1,Hellas Verona,2020-07-09 Hellas Verona-Inter,ITA-SERIA_A,19-20,47b869bf
+33ecf462,Valerio Verre,14,ITA,AM,26-180,7,0,0,0,0,0,0,0,0,7,1,0,0,0.0,0.0,0.0,0,0,2,6,33.3,0,6,0,0,0,Hellas Verona,2020-07-09 Hellas Verona-Inter,ITA-SERIA_A,19-20,47b869bf
+780e3631,Matteo Pessina,32,ITA,AM,23-079,90,0,0,0,0,1,0,0,0,38,0,1,0,0.0,0.0,0.0,0,0,23,32,71.9,1,24,2,1,1,Hellas Verona,2020-07-09 Hellas Verona-Inter,ITA-SERIA_A,19-20,47b869bf
+ab1ca213,Miguel Veloso,4,POR,CM,34-059,90,1,0,0,0,2,1,0,0,46,1,3,0,0.1,0.1,0.0,2,0,32,37,86.5,6,28,1,1,0,Hellas Verona,2020-07-09 Hellas Verona-Inter,ITA-SERIA_A,19-20,47b869bf
+5a2cb25d,Sofyan Amrabat,34,MAR,CM,23-323,90,0,0,0,0,1,0,1,0,66,3,3,0,0.5,0.5,0.2,2,0,49,51,96.1,5,42,1,6,5,Hellas Verona,2020-07-09 Hellas Verona-Inter,ITA-SERIA_A,19-20,47b869bf
+970b8574,Federico Dimarco,23,ITA,WB,22-242,65,0,1,0,0,1,0,1,0,46,0,0,1,0.2,0.2,0.1,1,1,30,42,71.4,8,27,1,1,1,Hellas Verona,2020-07-09 Hellas Verona-Inter,ITA-SERIA_A,19-20,47b869bf
+ce5b170a,Claud Adjapong,98,ITA,WB,22-064,25,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,6,8,75.0,0,3,1,0,0,Hellas Verona,2020-07-09 Hellas Verona-Inter,ITA-SERIA_A,19-20,47b869bf
+aae9d04a,Davide Faraoni,5,ITA,WB,28-258,90,0,0,0,0,0,0,0,0,61,1,0,0,0.0,0.0,0.0,2,0,31,49,63.3,4,23,0,1,0,Hellas Verona,2020-07-09 Hellas Verona-Inter,ITA-SERIA_A,19-20,47b869bf
+a40819d9,Marash Kumbulla,24,ALB,CB,20-152,83,0,0,0,0,0,0,0,0,55,2,10,2,0.0,0.0,0.0,0,0,26,36,72.2,0,30,1,0,0,Hellas Verona,2020-07-09 Hellas Verona-Inter,ITA-SERIA_A,19-20,47b869bf
+825b8997,Alan Empereur,33,BRA,CB,26-121,7,0,0,0,0,0,0,0,0,6,0,3,0,0.0,0.0,0.0,0,0,3,3,100.0,1,2,0,0,0,Hellas Verona,2020-07-09 Hellas Verona-Inter,ITA-SERIA_A,19-20,47b869bf
+f1f1f238,Koray Günter,21,GER,CB,25-328,90,0,0,0,0,0,0,1,0,39,0,2,1,0.0,0.0,0.0,0,0,26,34,76.5,2,12,0,1,1,Hellas Verona,2020-07-09 Hellas Verona-Inter,ITA-SERIA_A,19-20,47b869bf
+4b3e1a38,Amir Rrahmani,13,KVX,CB,26-136,90,0,1,0,0,0,0,0,0,40,0,1,1,0.0,0.0,0.1,2,2,24,33,72.7,3,20,3,2,1,Hellas Verona,2020-07-09 Hellas Verona-Inter,ITA-SERIA_A,19-20,47b869bf
+0d422df7,Marco Silvestri,1,ITA,GK,29-129,90,0,0,0,0,0,0,0,0,27,0,1,0,0.0,0.0,0.0,0,0,15,22,68.2,0,9,0,0,0,Hellas Verona,2020-07-09 Hellas Verona-Inter,ITA-SERIA_A,19-20,47b869bf
+2c0f8e9e,Alexis Sánchez,7,CHI,FW,31-203,90,0,0,0,0,1,1,0,0,58,2,0,1,0.1,0.1,0.2,5,0,34,54,63.0,9,36,2,2,2,Internazionale,2020-07-09 Hellas Verona-Inter,ITA-SERIA_A,19-20,47b869bf
+5eae500a,Romelu Lukaku,9,BEL,FW,27-057,76,0,0,0,0,1,0,0,0,35,0,0,0,0.1,0.1,0.0,6,1,17,30,56.7,4,15,0,0,0,Internazionale,2020-07-09 Hellas Verona-Inter,ITA-SERIA_A,19-20,47b869bf
+f7036e1c,Lautaro Martínez,10,ARG,FW,22-322,14,0,0,0,0,1,1,0,0,8,0,0,0,0.1,0.1,0.0,2,0,1,5,20.0,0,5,1,2,2,Internazionale,2020-07-09 Hellas Verona-Inter,ITA-SERIA_A,19-20,47b869bf
+0e21fc3c,Borja Valero,20,ESP,AM,35-179,87,0,0,0,0,3,1,1,0,43,3,0,3,0.3,0.3,0.0,2,0,24,34,70.6,4,22,1,0,0,Internazionale,2020-07-09 Hellas Verona-Inter,ITA-SERIA_A,19-20,47b869bf
+980522ec,Christian Eriksen,24,DEN,AM,28-146,3,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,3,6,50.0,1,2,0,0,0,Internazionale,2020-07-09 Hellas Verona-Inter,ITA-SERIA_A,19-20,47b869bf
+33b8d077,Marcelo Brozović,77,CRO,CM,27-236,69,0,0,0,0,2,0,0,0,52,1,1,0,0.1,0.1,0.0,1,0,40,46,87.0,5,21,0,0,0,Internazionale,2020-07-09 Hellas Verona-Inter,ITA-SERIA_A,19-20,47b869bf
+44ac04e9,Matías Vecino,8,URU,CM,28-320,21,0,0,0,0,1,0,0,0,11,0,0,0,0.1,0.1,0.0,0,0,5,10,50.0,1,3,0,0,0,Internazionale,2020-07-09 Hellas Verona-Inter,ITA-SERIA_A,19-20,47b869bf
+ce30bfc8,Roberto Gagliardini,5,ITA,CM,26-093,90,0,0,0,0,1,1,0,0,44,2,0,0,0.0,0.0,0.3,3,0,33,39,84.6,5,21,2,1,1,Internazionale,2020-07-09 Hellas Verona-Inter,ITA-SERIA_A,19-20,47b869bf
+be927d03,Ashley Young,15,ENG,WB,35-000,90,0,0,0,0,0,0,1,0,64,1,2,1,0.0,0.0,0.1,5,0,39,52,75.0,9,32,4,0,0,Internazionale,2020-07-09 Hellas Verona-Inter,ITA-SERIA_A,19-20,47b869bf
+356c9002,Antonio Candreva,87,ITA,WB,33-132,90,1,0,0,0,4,2,0,0,56,0,0,0,0.5,0.5,0.0,3,0,38,51,74.5,5,33,3,1,1,Internazionale,2020-07-09 Hellas Verona-Inter,ITA-SERIA_A,19-20,47b869bf
+fc4f85b1,Diego Godín,2,URU,CB,34-144,90,0,0,0,0,1,0,0,0,81,2,8,1,0.0,0.0,0.1,1,0,53,66,80.3,3,34,2,0,0,Internazionale,2020-07-09 Hellas Verona-Inter,ITA-SERIA_A,19-20,47b869bf
+d0d8dd44,Stefan de Vrij,6,NED,CB,28-155,90,0,0,0,0,0,0,0,0,39,1,1,0,0.0,0.0,0.0,0,0,30,33,90.9,1,13,0,0,0,Internazionale,2020-07-09 Hellas Verona-Inter,ITA-SERIA_A,19-20,47b869bf
+30f5ffa9,Milan Škriniar,37,SVK,CB,25-149,90,0,0,0,0,2,0,0,0,61,0,1,0,0.1,0.1,0.0,0,0,51,57,89.5,6,27,1,0,0,Internazionale,2020-07-09 Hellas Verona-Inter,ITA-SERIA_A,19-20,47b869bf
+74419746,Samir Handanović,1,SVN,GK,35-361,90,0,0,0,0,0,0,0,0,63,0,0,0,0.0,0.0,0.1,0,0,52,63,82.5,0,30,0,0,0,Internazionale,2020-07-09 Hellas Verona-Inter,ITA-SERIA_A,19-20,47b869bf

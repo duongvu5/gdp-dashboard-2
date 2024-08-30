@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+8ff07990,Mario Balotelli,9,ITA,FW,28-259,67,1,0,0,0,3,1,1,0,17,1,1,0,0.8,0.8,0.0,2,0,9,12,75.0,3,8,1,3,1,Marseille,2019-04-28 Marseille-Nantes,FRA-L1,18-19,a4b7f64b
+0630eb63,Nemanja Radonjić,7,SRB,LW,23-072,23,0,0,0,0,1,0,0,0,15,1,0,0,0.0,0.0,0.0,0,0,8,10,80.0,1,13,2,1,1,Marseille,2019-04-28 Marseille-Nantes,FRA-L1,18-19,a4b7f64b
+a08b974a,Lucas Ocampos,5,ARG,"LW,RW",24-291,90,0,1,0,0,5,1,1,0,65,3,0,2,0.2,0.2,0.4,4,1,38,48,79.2,6,46,0,3,3,Marseille,2019-04-28 Marseille-Nantes,FRA-L1,18-19,a4b7f64b
+ea0ff634,Valère Germain,28,FRA,"RW,FW",29-011,90,0,0,0,0,3,0,0,0,36,1,0,1,0.3,0.3,0.4,2,0,19,26,73.1,0,24,0,1,0,Marseille,2019-04-28 Marseille-Nantes,FRA-L1,18-19,a4b7f64b
+58ae47b2,Dimitri Payet,10,FRA,AM,32-030,77,0,0,0,0,1,0,1,0,41,0,0,0,0.0,0.0,0.1,3,0,22,36,61.1,7,32,2,1,1,Marseille,2019-04-28 Marseille-Nantes,FRA-L1,18-19,a4b7f64b
+20094685,Maxime Lopez,27,FRA,DM,21-145,13,0,0,0,0,0,0,0,0,16,0,0,0,0.0,0.0,0.0,0,0,11,15,73.3,3,11,1,1,0,Marseille,2019-04-28 Marseille-Nantes,FRA-L1,18-19,a4b7f64b
+82671804,Luiz Gustavo,19,BRA,DM,31-279,90,0,0,0,0,3,0,1,0,66,3,0,3,0.1,0.1,0.0,1,0,46,52,88.5,4,48,0,2,2,Marseille,2019-04-28 Marseille-Nantes,FRA-L1,18-19,a4b7f64b
+6e7f1353,Morgan Sanson,8,FRA,"DM,AM",24-253,90,0,0,0,0,1,0,0,0,47,0,2,0,0.0,0.0,0.0,4,0,33,42,78.6,3,36,4,1,1,Marseille,2019-04-28 Marseille-Nantes,FRA-L1,18-19,a4b7f64b
+d63e2912,Hiroki Sakai,2,JPN,"LB,RB",29-016,90,0,0,0,0,0,0,0,0,67,3,0,1,0.0,0.0,0.2,2,0,40,56,71.4,5,40,0,1,1,Marseille,2019-04-28 Marseille-Nantes,FRA-L1,18-19,a4b7f64b
+94f8d10c,Duje Ćaleta-Car,15,CRO,CB,22-223,90,0,0,0,0,0,0,0,0,80,3,0,1,0.0,0.0,0.0,4,0,61,70,87.1,9,50,5,0,0,Marseille,2019-04-28 Marseille-Nantes,FRA-L1,18-19,a4b7f64b
+cc77354e,Boubacar Kamara,4,FRA,CB,19-156,90,0,0,0,0,0,0,0,0,74,1,4,1,0.0,0.0,0.1,4,0,54,60,90.0,9,52,4,0,0,Marseille,2019-04-28 Marseille-Nantes,FRA-L1,18-19,a4b7f64b
+1a4b9094,Bouna Sarr,17,SEN,RB,27-087,56,0,0,0,0,0,0,0,0,36,1,1,1,0.0,0.0,0.0,1,1,23,27,85.2,3,23,1,3,2,Marseille,2019-04-28 Marseille-Nantes,FRA-L1,18-19,a4b7f64b
+22721b88,Jordan Amavi,18,FRA,LB,25-050,34,0,0,0,0,0,0,0,0,37,3,0,0,0.0,0.0,0.0,3,0,22,33,66.7,2,19,0,0,0,Marseille,2019-04-28 Marseille-Nantes,FRA-L1,18-19,a4b7f64b
+1d2d5cc8,Steve Mandanda,30,FRA,GK,34-031,90,0,0,0,0,0,0,0,0,40,0,0,0,0.0,0.0,0.0,1,0,30,38,78.9,0,29,0,0,0,Marseille,2019-04-28 Marseille-Nantes,FRA-L1,18-19,a4b7f64b
+9980269a,Kalifa Coulibaly,7,MLI,FW,27-250,90,0,1,0,0,4,2,0,0,38,2,0,0,0.4,0.4,0.1,4,0,8,17,47.1,2,16,1,1,0,Nantes,2019-04-28 Marseille-Nantes,FRA-L1,18-19,a4b7f64b
+af0c835b,Samuel Moutoussamy,18,COD,LM,22-259,89,1,0,0,0,1,1,0,0,30,2,0,1,0.0,0.0,0.2,3,0,14,20,70.0,1,18,0,3,2,Nantes,2019-04-28 Marseille-Nantes,FRA-L1,18-19,a4b7f64b
+ccee698e,Anthony Limbombe,22,BEL,LM,24-287,1,0,0,0,0,1,0,0,0,2,0,0,0,0.1,0.1,0.0,0,0,0,1,0.0,0,2,1,0,0,Nantes,2019-04-28 Marseille-Nantes,FRA-L1,18-19,a4b7f64b
+ed45c4a5,Valentin Rongier,28,FRA,CM,24-142,90,0,0,0,0,2,1,0,0,56,1,2,2,0.1,0.1,0.3,5,0,32,46,69.6,4,29,1,1,1,Nantes,2019-04-28 Marseille-Nantes,FRA-L1,18-19,a4b7f64b
+ef7cd87a,Abdoulaye Touré,19,GUI,CM,25-056,90,0,0,0,0,1,0,0,0,35,2,0,1,0.0,0.0,0.0,2,0,23,29,79.3,3,23,0,2,2,Nantes,2019-04-28 Marseille-Nantes,FRA-L1,18-19,a4b7f64b
+46907171,Abdul Majeed Waris,10,GHA,RM,27-221,89,0,0,0,0,2,0,0,0,35,0,2,0,0.1,0.1,0.0,4,1,16,21,76.2,2,23,1,5,3,Nantes,2019-04-28 Marseille-Nantes,FRA-L1,18-19,a4b7f64b
+e90af77c,Gabriel Boschilia,12,BRA,RM,23-054,1,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,0,0,0,0,Nantes,2019-04-28 Marseille-Nantes,FRA-L1,18-19,a4b7f64b
+3befc2b6,Andrei Girotto,20,BRA,DM,27-070,90,1,0,0,0,1,1,0,0,36,1,0,2,0.3,0.3,0.0,0,0,13,19,68.4,2,12,0,0,0,Nantes,2019-04-28 Marseille-Nantes,FRA-L1,18-19,a4b7f64b
+de488e56,Charles Traore,14,MLI,LB,27-117,90,0,0,0,0,0,0,1,0,41,3,0,1,0.0,0.0,0.0,2,0,24,31,77.4,0,17,1,0,0,Nantes,2019-04-28 Marseille-Nantes,FRA-L1,18-19,a4b7f64b
+779847d6,Nicolas Pallois,4,FRA,CB,31-221,90,0,0,0,0,0,0,0,0,26,1,0,1,0.0,0.0,0.0,0,0,12,19,63.2,2,9,0,0,0,Nantes,2019-04-28 Marseille-Nantes,FRA-L1,18-19,a4b7f64b
+b4a014b1,Diego Carlos,3,BRA,CB,26-044,90,0,0,0,0,2,1,0,0,40,0,2,2,0.2,0.2,0.0,1,1,13,23,56.5,1,19,0,1,1,Nantes,2019-04-28 Marseille-Nantes,FRA-L1,18-19,a4b7f64b
+3767b3b7,Edgar Ié,5,GNB,RB,24-362,89,0,0,0,0,0,0,0,0,45,1,0,0,0.0,0.0,0.0,1,0,25,34,73.5,1,17,0,0,0,Nantes,2019-04-28 Marseille-Nantes,FRA-L1,18-19,a4b7f64b
+bc7b4580,Fábio,2,BRA,RB,28-293,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Nantes,2019-04-28 Marseille-Nantes,FRA-L1,18-19,a4b7f64b
+0e12089d,Maxime Dupé,1,FRA,GK,26-055,90,0,0,0,0,0,0,0,0,37,0,0,0,0.0,0.0,0.0,0,0,10,35,28.6,0,10,0,0,0,Nantes,2019-04-28 Marseille-Nantes,FRA-L1,18-19,a4b7f64b

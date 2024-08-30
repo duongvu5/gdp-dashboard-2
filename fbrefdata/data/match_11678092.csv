@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+8d78e732,Robert Lewandowski,9,POL,FW,32-028,90,1,2,1,1,3,0,0,0,39,0,0,0,1.3,0.5,0.1,5,3,21,27,77.8,4,22,1,0,0,Bayern Munich,2020-09-18 Bayern Munich-Schalke 04,GER-BL1,20-21,11678092
+88e357ef,Serge Gnabry,7,GER,LW,25-066,72,3,0,0,0,5,3,0,0,53,3,2,0,1.0,1.0,0.8,6,1,32,40,80.0,3,28,2,2,0,Bayern Munich,2020-09-18 Bayern Munich-Schalke 04,GER-BL1,20-21,11678092
+2c0558b8,Jamal Musiala,42,GER,LW,17-205,18,1,0,0,0,1,1,0,0,10,0,0,0,0.1,0.1,0.0,0,0,6,7,85.7,1,5,1,2,1,Bayern Munich,2020-09-18 Bayern Munich-Schalke 04,GER-BL1,20-21,11678092
+2b114be3,Leroy Sané,10,GER,RW,24-251,72,1,2,0,0,2,2,0,0,29,0,0,3,0.4,0.4,1.4,6,2,15,19,78.9,3,17,4,3,1,Bayern Munich,2020-09-18 Bayern Munich-Schalke 04,GER-BL1,20-21,11678092
+5722eced,Mickaël Cuisance,11,FRA,RW,21-033,18,0,0,0,0,0,0,0,0,12,0,0,1,0.0,0.0,0.0,0,0,9,10,90.0,0,4,1,0,0,Bayern Munich,2020-09-18 Bayern Munich-Schalke 04,GER-BL1,20-21,11678092
+3c6089ab,Thomas Müller,25,GER,AM,31-005,82,1,1,0,0,1,1,0,0,61,3,2,0,0.1,0.1,0.1,3,2,34,49,69.4,5,20,0,1,1,Bayern Munich,2020-09-18 Bayern Munich-Schalke 04,GER-BL1,20-21,11678092
+028e70b9,Joshua Zirkzee,14,NED,AM,19-119,8,0,0,0,0,0,0,0,0,3,1,0,0,0.0,0.0,0.0,1,0,2,2,100.0,0,0,0,0,0,Bayern Munich,2020-09-18 Bayern Munich-Schalke 04,GER-BL1,20-21,11678092
+49296448,Joshua Kimmich,6,GER,DM,25-223,90,0,2,0,0,2,1,1,0,85,1,1,2,0.4,0.4,0.5,9,4,66,72,91.7,11,41,1,1,0,Bayern Munich,2020-09-18 Bayern Munich-Schalke 04,GER-BL1,20-21,11678092
+cc86b9a3,Leon Goretzka,18,GER,DM,25-225,50,1,0,0,0,2,1,0,0,38,0,1,0,0.1,0.1,0.0,2,0,31,35,88.6,3,29,1,1,1,Bayern Munich,2020-09-18 Bayern Munich-Schalke 04,GER-BL1,20-21,11678092
+652d4c37,Corentin Tolisso,24,FRA,DM,26-046,40,0,0,0,0,2,1,0,0,34,0,0,0,0.4,0.4,0.0,4,2,28,31,90.3,2,17,0,1,1,Bayern Munich,2020-09-18 Bayern Munich-Schalke 04,GER-BL1,20-21,11678092
+c3ee18ef,Lucas Hernández,21,FRA,LB,24-217,90,0,0,0,0,0,0,0,0,78,2,1,4,0.0,0.0,0.0,1,1,52,66,78.8,3,34,2,3,1,Bayern Munich,2020-09-18 Bayern Munich-Schalke 04,GER-BL1,20-21,11678092
+2db2fd7b,Jérôme Boateng,17,GER,CB,32-015,72,0,0,0,0,1,0,0,0,72,1,1,1,0.0,0.0,0.0,1,0,60,65,92.3,4,44,0,0,0,Bayern Munich,2020-09-18 Bayern Munich-Schalke 04,GER-BL1,20-21,11678092
+0a3d6d2b,Chris Richards,41,USA,CB,20-174,18,0,0,0,0,0,0,0,0,21,0,1,0,0.0,0.0,0.0,0,0,19,20,95.0,0,14,0,0,0,Bayern Munich,2020-09-18 Bayern Munich-Schalke 04,GER-BL1,20-21,11678092
+e33c06cf,Niklas Süle,4,GER,CB,25-015,90,0,0,0,0,1,0,0,0,106,2,1,0,0.1,0.1,0.0,0,0,91,98,92.9,8,55,0,0,0,Bayern Munich,2020-09-18 Bayern Munich-Schalke 04,GER-BL1,20-21,11678092
+45a03961,Benjamin Pavard,5,FRA,RB,24-174,90,0,0,0,0,0,0,0,0,83,1,2,0,0.0,0.0,0.0,0,0,68,77,88.3,3,38,1,0,0,Bayern Munich,2020-09-18 Bayern Munich-Schalke 04,GER-BL1,20-21,11678092
+8778c910,Manuel Neuer,1,GER,GK,34-175,90,0,0,0,0,0,0,0,0,38,0,0,0,0.0,0.0,0.0,0,0,37,37,100.0,0,23,0,0,0,Bayern Munich,2020-09-18 Bayern Munich-Schalke 04,GER-BL1,20-21,11678092
+962e54cb,Gonçalo Paciência,18,POR,FW,26-048,78,0,0,0,0,2,1,0,0,26,0,0,0,0.1,0.1,0.0,3,0,9,18,50.0,1,16,0,1,1,Schalke 04,2020-09-18 Bayern Munich-Schalke 04,GER-BL1,20-21,11678092
+543ddcaf,Timo Becker,31,GER,RB,23-177,12,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,2,4,50.0,0,3,0,0,0,Schalke 04,2020-09-18 Bayern Munich-Schalke 04,GER-BL1,20-21,11678092
+a3ddb1b9,Mark Uth,7,GER,FW,29-025,90,0,0,0,0,0,0,0,0,32,2,0,1,0.0,0.0,0.0,0,0,20,27,74.1,0,14,0,0,0,Schalke 04,2020-09-18 Bayern Munich-Schalke 04,GER-BL1,20-21,11678092
+e7d59f4f,Amine Harit,25,MAR,LM,23-092,78,0,0,0,0,0,0,0,0,27,0,1,1,0.0,0.0,0.1,1,0,16,22,72.7,3,18,2,4,2,Schalke 04,2020-09-18 Bayern Munich-Schalke 04,GER-BL1,20-21,11678092
+58ce23e5,Steven Skrzybski,22,GER,FW,27-305,12,0,0,0,0,0,0,0,0,3,0,0,1,0.0,0.0,0.0,0,0,2,2,100.0,0,0,0,0,0,Schalke 04,2020-09-18 Bayern Munich-Schalke 04,GER-BL1,20-21,11678092
+3189f61a,Nabil Bentaleb,10,ALG,CM,25-299,90,0,0,0,0,0,0,0,0,57,4,2,2,0.0,0.0,0.0,0,0,40,46,87.0,5,27,0,0,0,Schalke 04,2020-09-18 Bayern Munich-Schalke 04,GER-BL1,20-21,11678092
+b3325a30,Suat Serdar,8,GER,CM,23-160,29,0,0,0,0,0,0,0,0,14,2,0,2,0.0,0.0,0.0,1,0,6,9,66.7,1,7,0,0,0,Schalke 04,2020-09-18 Bayern Munich-Schalke 04,GER-BL1,20-21,11678092
+106bca06,Alessandro Schöpf,28,AUT,"CM,LM",26-224,61,0,0,0,0,0,0,0,0,27,1,0,1,0.0,0.0,0.0,0,0,22,22,100.0,1,15,1,1,0,Schalke 04,2020-09-18 Bayern Munich-Schalke 04,GER-BL1,20-21,11678092
+33144cc5,Rabbi Matondo,14,WAL,RM,20-009,65,0,0,0,0,0,0,0,0,18,0,0,0,0.0,0.0,0.1,1,0,9,12,75.0,1,12,1,2,0,Schalke 04,2020-09-18 Bayern Munich-Schalke 04,GER-BL1,20-21,11678092
+867501bf,Benito Raman,9,BEL,RM,25-316,25,0,0,0,0,1,0,0,0,11,1,0,1,0.1,0.1,0.0,0,0,5,8,62.5,1,7,0,0,0,Schalke 04,2020-09-18 Bayern Munich-Schalke 04,GER-BL1,20-21,11678092
+d1661819,Bastian Oczipka,24,GER,LB,31-250,90,0,0,0,0,1,0,0,0,59,2,4,0,0.0,0.0,0.0,1,0,34,47,72.3,2,42,5,2,1,Schalke 04,2020-09-18 Bayern Munich-Schalke 04,GER-BL1,20-21,11678092
+5939baa2,Benjamin Stambouli,17,FRA,CB,30-036,90,0,0,0,0,0,0,1,0,58,1,3,2,0.0,0.0,0.0,0,0,36,49,73.5,2,36,0,1,1,Schalke 04,2020-09-18 Bayern Munich-Schalke 04,GER-BL1,20-21,11678092
+2d61d13a,Ozan Kabak,4,TUR,CB,20-177,90,0,0,0,0,0,0,1,0,47,2,0,0,0.0,0.0,0.0,0,0,37,39,94.9,4,23,0,6,4,Schalke 04,2020-09-18 Bayern Munich-Schalke 04,GER-BL1,20-21,11678092
+80f36c88,Sebastian Rudy,13,GER,"RB,CM",30-203,90,0,0,0,0,1,0,0,0,58,4,1,3,0.0,0.0,0.0,0,0,26,42,61.9,4,24,0,0,0,Schalke 04,2020-09-18 Bayern Munich-Schalke 04,GER-BL1,20-21,11678092
+1e43fad8,Ralf Fährmann,1,GER,GK,31-357,90,0,0,0,0,0,0,0,0,47,1,0,0,0.0,0.0,0.0,0,0,23,42,54.8,0,20,0,0,0,Schalke 04,2020-09-18 Bayern Munich-Schalke 04,GER-BL1,20-21,11678092

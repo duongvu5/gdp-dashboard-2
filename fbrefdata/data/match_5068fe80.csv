@@ -1,0 +1,31 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+f93e6e94,Nils Petersen,18,GER,FW,31-169,90,0,0,0,0,1,1,0,0,27,1,0,3,0.0,0.0,0.1,1,0,12,19,63.2,0,9,0,0,0,Freiburg,2020-05-23 Freiburg-Werder Bremen,GER-BL1,19-20,5068fe80
+ca618d23,Lucas Höler,9,GER,FW,25-318,90,0,0,0,0,2,1,0,0,43,0,0,2,0.1,0.1,0.0,1,0,23,31,74.2,1,27,1,1,1,Freiburg,2020-05-23 Freiburg-Werder Bremen,GER-BL1,19-20,5068fe80
+54e4866f,Vincenzo Grifo,32,ITA,LM,27-046,90,0,0,0,0,3,1,0,0,65,1,0,0,0.1,0.1,0.0,1,0,47,57,82.5,6,40,1,0,0,Freiburg,2020-05-23 Freiburg-Werder Bremen,GER-BL1,19-20,5068fe80
+5d8e331f,Nicolas Höfler,27,GER,CM,30-075,90,0,0,0,0,1,1,0,0,81,4,3,4,0.0,0.0,0.0,5,0,59,67,88.1,9,46,2,4,2,Freiburg,2020-05-23 Freiburg-Werder Bremen,GER-BL1,19-20,5068fe80
+70dcf94d,Janik Haberer,19,GER,CM,26-051,71,0,0,0,0,0,0,0,0,54,0,1,1,0.0,0.0,0.0,2,0,40,50,80.0,5,23,1,0,0,Freiburg,2020-05-23 Freiburg-Werder Bremen,GER-BL1,19-20,5068fe80
+1c08a3c8,Amir Abrashi,6,ALB,CM,30-057,19,0,0,0,0,0,0,0,0,27,1,0,0,0.0,0.0,0.0,2,0,24,25,96.0,3,23,1,1,1,Freiburg,2020-05-23 Freiburg-Werder Bremen,GER-BL1,19-20,5068fe80
+bf075f6b,Roland Sallai,22,HUN,RM,23-001,80,0,0,0,0,5,2,0,0,46,0,0,0,0.3,0.3,0.1,5,0,24,36,66.7,5,32,5,0,0,Freiburg,2020-05-23 Freiburg-Werder Bremen,GER-BL1,19-20,5068fe80
+7961f7aa,Kwon Chang-hoon,28,KOR,RM,25-328,10,0,0,0,0,1,0,0,0,13,0,0,0,0.0,0.0,0.1,1,0,7,11,63.6,1,7,0,0,0,Freiburg,2020-05-23 Freiburg-Werder Bremen,GER-BL1,19-20,5068fe80
+8593f88c,Christian Günter,30,GER,LB,27-085,90,0,0,0,0,0,0,0,0,73,0,0,0,0.0,0.0,0.2,4,0,52,72,72.2,4,40,5,1,1,Freiburg,2020-05-23 Freiburg-Werder Bremen,GER-BL1,19-20,5068fe80
+25ab9c9c,Manuel Gulde,5,GER,CB,29-101,90,0,0,0,0,1,1,0,0,100,0,2,2,0.1,0.1,0.0,3,0,83,91,91.2,5,61,3,0,0,Freiburg,2020-05-23 Freiburg-Werder Bremen,GER-BL1,19-20,5068fe80
+ea6bc03a,Robin Koch,25,GER,CB,23-311,90,0,0,0,0,2,0,0,0,93,1,1,0,0.1,0.1,0.0,1,0,79,86,91.9,9,60,1,0,0,Freiburg,2020-05-23 Freiburg-Werder Bremen,GER-BL1,19-20,5068fe80
+088ca1bd,Jonathan Schmid,7,FRA,RB,29-336,90,0,0,0,0,1,0,0,0,91,0,6,1,0.0,0.0,0.2,7,0,66,80,82.5,9,36,0,1,0,Freiburg,2020-05-23 Freiburg-Werder Bremen,GER-BL1,19-20,5068fe80
+0d55d942,Alexander Schwolow,1,GER,GK,27-356,90,0,0,0,0,0,0,0,0,49,0,0,1,0.0,0.0,0.0,0,0,41,47,87.2,0,32,0,0,0,Freiburg,2020-05-23 Freiburg-Werder Bremen,GER-BL1,19-20,5068fe80
+a8d4428b,Josh Sargent,19,USA,FW,20-093,62,0,0,0,0,0,0,0,0,21,0,0,2,0.0,0.0,0.0,0,0,6,13,46.2,0,12,0,1,0,Werder Bremen,2020-05-23 Freiburg-Werder Bremen,GER-BL1,19-20,5068fe80
+f69fba57,Yuya Osako,8,JPN,"FW,CM",30-005,28,0,0,0,0,1,0,0,0,14,1,0,1,0.1,0.1,0.1,2,0,5,8,62.5,0,6,1,1,1,Werder Bremen,2020-05-23 Freiburg-Werder Bremen,GER-BL1,19-20,5068fe80
+6c6a3300,Milot Rashica,7,KVX,"LW,LM",23-330,81,0,0,0,0,2,0,0,0,36,0,0,1,0.1,0.1,0.1,3,0,18,23,78.3,1,24,1,0,0,Werder Bremen,2020-05-23 Freiburg-Werder Bremen,GER-BL1,19-20,5068fe80
+1238a3f9,Davie Selke,9,GER,"LM,FW",25-124,9,0,0,0,0,0,0,0,0,7,1,0,0,0.0,0.0,0.0,0,0,0,2,0.0,0,4,0,1,0,Werder Bremen,2020-05-23 Freiburg-Werder Bremen,GER-BL1,19-20,5068fe80
+dc62fbee,Leonardo Bittencourt,10,GER,RW,26-156,62,1,0,0,0,2,1,0,0,30,1,0,0,0.1,0.1,0.0,2,0,12,22,54.5,2,19,2,2,0,Werder Bremen,2020-05-23 Freiburg-Werder Bremen,GER-BL1,19-20,5068fe80
+acc7b7ec,Fin Bartels,22,GER,"RM,CM",33-106,28,0,0,0,0,1,0,0,0,7,1,0,1,0.1,0.1,0.1,1,0,2,2,100.0,0,3,1,0,0,Werder Bremen,2020-05-23 Freiburg-Werder Bremen,GER-BL1,19-20,5068fe80
+15fd5593,Davy Klaassen,30,NED,"LM,FW,CM",27-092,90,0,1,0,0,3,1,0,0,42,0,0,5,0.2,0.2,0.1,2,1,20,28,71.4,5,25,1,2,1,Werder Bremen,2020-05-23 Freiburg-Werder Bremen,GER-BL1,19-20,5068fe80
+1d8e9add,Kevin Vogt,3,GER,CM,28-243,34,0,0,0,0,0,0,0,0,30,0,0,0,0.0,0.0,0.0,0,0,25,28,89.3,2,22,0,1,1,Werder Bremen,2020-05-23 Freiburg-Werder Bremen,GER-BL1,19-20,5068fe80
+3f7cd8f1,Philipp Bargfrede,44,GER,"CM,CB",31-081,53,0,0,0,0,0,0,2,1,26,0,2,1,0.0,0.0,0.0,0,0,11,19,57.9,1,15,0,1,1,Werder Bremen,2020-05-23 Freiburg-Werder Bremen,GER-BL1,19-20,5068fe80
+beb882a8,Maximilian Eggestein,35,GER,"RM,CM,CB",23-167,90,0,0,0,0,1,0,0,0,32,2,1,1,0.0,0.0,0.0,1,0,13,22,59.1,2,13,1,1,0,Werder Bremen,2020-05-23 Freiburg-Werder Bremen,GER-BL1,19-20,5068fe80
+f86ad3f5,Marco Friedl,32,AUT,LB,22-068,81,0,0,0,0,0,0,1,0,47,1,0,1,0.0,0.0,0.1,2,1,27,38,71.1,2,23,1,4,4,Werder Bremen,2020-05-23 Freiburg-Werder Bremen,GER-BL1,19-20,5068fe80
+864db10a,Michael Lang,4,SUI,LB,29-105,9,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Werder Bremen,2020-05-23 Freiburg-Werder Bremen,GER-BL1,19-20,5068fe80
+00844823,Niklas Moisander,18,FIN,CB,34-237,90,0,0,0,0,0,0,0,0,74,0,0,0,0.0,0.0,0.0,1,0,56,67,83.6,3,44,1,0,0,Werder Bremen,2020-05-23 Freiburg-Werder Bremen,GER-BL1,19-20,5068fe80
+a5ae8f8e,Miloš Veljković,13,SRB,CB,24-240,90,0,0,0,0,0,0,0,0,45,1,0,1,0.0,0.0,0.0,1,0,28,37,75.7,1,25,0,0,0,Werder Bremen,2020-05-23 Freiburg-Werder Bremen,GER-BL1,19-20,5068fe80
+3f65898c,Theodor Gebre Selassie,23,CZE,RB,33-151,90,0,0,0,0,0,0,0,0,48,1,2,1,0.0,0.0,0.1,2,0,37,40,92.5,0,28,2,0,0,Werder Bremen,2020-05-23 Freiburg-Werder Bremen,GER-BL1,19-20,5068fe80
+0a1cb833,Jiří Pavlenka,1,CZE,GK,28-039,90,0,0,0,0,0,0,0,0,46,0,0,0,0.0,0.0,0.0,0,0,26,42,61.9,0,26,0,0,0,Werder Bremen,2020-05-23 Freiburg-Werder Bremen,GER-BL1,19-20,5068fe80

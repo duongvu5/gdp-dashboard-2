@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+d5dd5f1f,Pierre-Emerick Aubameyang,14,GAB,FW,29-297,90,0,0,0,0,5,3,0,0,39,1,1,2,0.3,0.3,0.2,2,0,15,19,78.9,1,16,2,4,0,Arsenal,2019-04-11 Arsenal-Napoli,UEL,18-19,0e51d888
+9dbb75ca,Alexandre Lacazette,9,FRA,FW,27-318,66,0,0,0,0,1,0,0,0,28,0,0,1,0.1,0.1,0.0,4,1,17,20,85.0,4,17,0,1,0,Arsenal,2019-04-11 Arsenal-Napoli,UEL,18-19,0e51d888
+6ca5ec4b,Alex Iwobi,17,NGA,AM,22-343,24,0,0,0,0,0,0,0,0,18,0,0,1,0.0,0.0,0.0,1,0,9,11,81.8,2,15,0,2,1,Arsenal,2019-04-11 Arsenal-Napoli,UEL,18-19,0e51d888
+16380240,Mesut Özil,10,GER,AM,30-178,66,0,0,0,0,0,0,0,0,50,1,0,0,0.0,0.0,0.1,5,0,38,44,86.4,6,26,3,3,2,Arsenal,2019-04-11 Arsenal-Napoli,UEL,18-19,0e51d888
+dd0daf32,Henrikh Mkhitaryan,7,ARM,AM,30-080,24,0,0,0,0,0,0,0,0,19,1,1,0,0.0,0.0,0.6,3,0,10,14,71.4,1,12,3,2,0,Arsenal,2019-04-11 Arsenal-Napoli,UEL,18-19,0e51d888
+ef619b0b,Aaron Ramsey,8,WAL,CM,28-106,90,1,0,0,0,5,3,0,0,69,1,2,1,1.1,1.1,0.0,2,0,43,55,78.2,7,26,1,2,2,Arsenal,2019-04-11 Arsenal-Napoli,UEL,18-19,0e51d888
+52611641,Lucas Torreira,11,URU,CM,23-059,76,0,0,0,0,1,0,0,0,55,2,2,5,0.1,0.1,0.3,4,0,36,44,81.8,1,17,2,1,1,Arsenal,2019-04-11 Arsenal-Napoli,UEL,18-19,0e51d888
+47a34c4f,Mohamed Elneny,4,EGY,CM,26-274,14,0,0,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.0,0,0,9,11,81.8,2,5,0,0,0,Arsenal,2019-04-11 Arsenal-Napoli,UEL,18-19,0e51d888
+3935e52e,Sead Kolašinac,31,BIH,WB,25-295,90,0,0,0,0,0,0,0,0,74,3,1,4,0.0,0.0,0.2,4,0,47,62,75.8,8,27,4,1,1,Arsenal,2019-04-11 Arsenal-Napoli,UEL,18-19,0e51d888
+e3a5814e,Ainsley Maitland-Niles,15,ENG,WB,21-225,90,0,1,0,0,2,1,0,0,63,2,2,4,0.1,0.1,0.4,3,1,35,48,72.9,3,25,4,1,1,Arsenal,2019-04-11 Arsenal-Napoli,UEL,18-19,0e51d888
+d4cb83cc,Nacho Monreal,18,ESP,CB,33-044,90,0,0,0,0,1,0,0,0,48,1,3,0,0.3,0.3,0.0,0,0,32,38,84.2,4,22,0,1,1,Arsenal,2019-04-11 Arsenal-Napoli,UEL,18-19,0e51d888
+f5efb153,Laurent Koscielny,6,FRA,CB,33-213,90,0,0,0,0,1,0,0,0,50,0,4,0,0.1,0.1,0.0,0,0,33,41,80.5,0,28,0,0,0,Arsenal,2019-04-11 Arsenal-Napoli,UEL,18-19,0e51d888
+b682dcf6,Sokratis Papastathopoulos,5,GRE,CB,30-306,90,0,0,0,0,0,0,0,0,48,1,2,1,0.0,0.0,0.0,0,0,27,34,79.4,5,25,0,0,0,Arsenal,2019-04-11 Arsenal-Napoli,UEL,18-19,0e51d888
+71672fa0,Petr Čech,1,CZE,GK,36-326,90,0,0,0,0,0,0,0,0,36,0,0,0,0.0,0.0,0.0,0,0,16,32,50.0,0,13,0,0,0,Arsenal,2019-04-11 Arsenal-Napoli,UEL,18-19,0e51d888
+2f557579,Lorenzo Insigne,24,ITA,FW,27-311,82,0,0,0,0,1,0,0,0,49,2,0,0,0.1,0.1,0.4,1,0,34,42,81.0,5,35,2,2,1,Napoli,2019-04-11 Arsenal-Napoli,UEL,18-19,0e51d888
+ed90babd,Adam Ounas,11,ALG,AM,22-151,8,0,0,0,0,2,1,0,0,6,0,0,0,0.1,0.1,0.0,0,0,3,4,75.0,0,4,2,0,0,Napoli,2019-04-11 Arsenal-Napoli,UEL,18-19,0e51d888
+89b2c8a9,Dries Mertens,14,BEL,FW,31-340,65,0,0,0,0,0,0,0,0,26,0,0,1,0.0,0.0,0.1,3,0,17,25,68.0,0,14,1,0,0,Napoli,2019-04-11 Arsenal-Napoli,UEL,18-19,0e51d888
+85613cf0,Arkadiusz Milik,99,POL,FW,25-042,25,0,0,0,0,0,0,0,0,15,1,0,1,0.0,0.0,0.0,0,0,7,12,58.3,1,12,1,0,0,Napoli,2019-04-11 Arsenal-Napoli,UEL,18-19,0e51d888
+a5296e55,Piotr Zieliński,20,POL,"LM,DM",24-326,90,0,0,0,0,1,0,0,0,60,1,2,2,0.4,0.4,0.0,1,0,41,52,78.8,3,42,1,0,0,Napoli,2019-04-11 Arsenal-Napoli,UEL,18-19,0e51d888
+cc700722,Allan,5,BRA,"CM,DM",28-093,90,0,0,0,0,0,0,0,0,78,4,2,2,0.0,0.0,0.1,4,0,51,65,78.5,3,51,0,3,1,Napoli,2019-04-11 Arsenal-Napoli,UEL,18-19,0e51d888
+c0c7ff58,Fabián Ruiz Peña,8,ESP,CM,23-008,82,0,0,0,0,1,0,0,0,83,3,0,2,0.0,0.0,0.0,1,0,62,70,88.6,7,57,5,0,0,Napoli,2019-04-11 Arsenal-Napoli,UEL,18-19,0e51d888
+228f73ae,Amin Younes,34,GER,LW,25-248,8,0,0,0,0,0,0,0,0,14,0,0,0,0.0,0.0,0.0,0,0,10,13,76.9,0,11,0,0,0,Napoli,2019-04-11 Arsenal-Napoli,UEL,18-19,0e51d888
+78841da9,José Callejón,7,ESP,"RM,RW",32-059,90,0,0,0,0,0,0,0,0,62,0,0,0,0.0,0.0,0.1,2,0,41,59,69.5,2,41,1,0,0,Napoli,2019-04-11 Arsenal-Napoli,UEL,18-19,0e51d888
+0b5a292a,Mário Rui,6,POR,LB,27-319,90,0,0,0,0,2,0,0,0,84,3,1,0,0.1,0.1,0.1,2,0,50,75,66.7,5,46,4,2,1,Napoli,2019-04-11 Arsenal-Napoli,UEL,18-19,0e51d888
+da974c7b,Kalidou Koulibaly,26,SEN,CB,27-295,90,0,0,0,0,2,1,0,0,74,2,0,4,0.1,0.1,0.0,0,0,48,57,84.2,3,42,0,0,0,Napoli,2019-04-11 Arsenal-Napoli,UEL,18-19,0e51d888
+16b9d5cf,Nikola Maksimović,19,SRB,CB,27-137,90,0,0,0,0,0,0,0,0,75,2,1,2,0.0,0.0,0.0,0,0,60,65,92.3,1,51,0,0,0,Napoli,2019-04-11 Arsenal-Napoli,UEL,18-19,0e51d888
+2f3452eb,Elseid Hysaj,23,ALB,RB,25-050,90,0,0,0,0,0,0,1,0,102,2,1,1,0.0,0.0,0.0,1,0,77,92,83.7,3,59,2,1,1,Napoli,2019-04-11 Arsenal-Napoli,UEL,18-19,0e51d888
+9413b19f,Alex Meret,1,ITA,GK,22-020,90,0,0,0,0,0,0,0,0,29,0,0,0,0.0,0.0,0.0,0,0,18,24,75.0,0,15,0,0,0,Napoli,2019-04-11 Arsenal-Napoli,UEL,18-19,0e51d888

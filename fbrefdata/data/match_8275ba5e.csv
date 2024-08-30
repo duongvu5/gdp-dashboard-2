@@ -1,0 +1,32 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+5723931e,Hamadi Al Ghaddioui,18,MAR,FW,30-340,90,1,1,0,0,4,1,0,0,38,0,0,1,0.6,0.6,0.8,7,1,20,26,76.9,1,18,1,2,0,Stuttgart,2021-08-28 Stuttgart-Freiburg,GER-BL1,21-22,8275ba5e
+2b7c56b4,Mateo Klimowicz,31,GER,AM,21-053,90,0,0,0,0,4,2,1,0,41,1,0,1,0.4,0.4,0.0,1,0,20,29,69.0,5,27,3,7,3,Stuttgart,2021-08-28 Stuttgart-Freiburg,GER-BL1,21-22,8275ba5e
+76fa965f,Philipp Förster,20,GER,AM,26-205,68,0,0,0,0,1,0,1,0,39,1,0,2,0.0,0.0,0.0,4,1,30,33,90.9,3,24,1,0,0,Stuttgart,2021-08-28 Stuttgart-Freiburg,GER-BL1,21-22,8275ba5e
+d3096421,Daniel Didavi,10,GER,AM,31-188,22,0,0,0,0,0,0,0,0,11,0,0,1,0.0,0.0,0.0,0,0,8,11,72.7,1,9,2,0,0,Stuttgart,2021-08-28 Stuttgart-Freiburg,GER-BL1,21-22,8275ba5e
+0cddeaa7,Philipp Klement,21,GER,CM,28-353,76,0,0,0,0,1,1,0,0,56,2,0,2,0.0,0.0,0.0,1,0,38,48,79.2,4,38,0,1,0,Stuttgart,2021-08-28 Stuttgart-Freiburg,GER-BL1,21-22,8275ba5e
+f76022e7,Enzo Millot,8,FRA,CM,19-042,14,0,0,0,0,0,0,0,0,14,0,0,0,0.0,0.0,0.0,0,0,10,11,90.9,1,12,0,1,0,Stuttgart,2021-08-28 Stuttgart-Freiburg,GER-BL1,21-22,8275ba5e
+c149016b,Wataru Endo,3,JPN,CM,28-200,90,0,1,0,0,2,1,0,0,80,1,0,1,0.1,0.1,0.3,6,1,61,71,85.9,7,58,1,3,2,Stuttgart,2021-08-28 Stuttgart-Freiburg,GER-BL1,21-22,8275ba5e
+af0d79a9,Borna Sosa,24,CRO,WB,23-219,90,0,0,0,0,0,0,0,0,60,0,0,1,0.0,0.0,0.0,1,0,33,52,63.5,2,35,7,4,2,Stuttgart,2021-08-28 Stuttgart-Freiburg,GER-BL1,21-22,8275ba5e
+fc62fdf4,Roberto Massimo,30,GER,WB,20-320,90,0,0,0,0,2,1,0,0,54,0,0,1,0.0,0.0,0.0,2,0,31,42,73.8,1,35,3,5,2,Stuttgart,2021-08-28 Stuttgart-Freiburg,GER-BL1,21-22,8275ba5e
+815c314f,Marc-Oliver Kempf,4,GER,CB,26-212,90,0,0,0,0,1,0,0,0,73,1,0,2,0.0,0.0,0.0,2,0,49,62,79.0,3,46,0,0,0,Stuttgart,2021-08-28 Stuttgart-Freiburg,GER-BL1,21-22,8275ba5e
+5e66fa06,Waldemar Anton,2,GER,CB,25-039,90,0,0,0,0,1,0,0,0,98,0,0,0,0.0,0.0,0.3,4,0,79,87,90.8,8,73,1,2,1,Stuttgart,2021-08-28 Stuttgart-Freiburg,GER-BL1,21-22,8275ba5e
+00963611,Konstantinos Mavropanos,5,GRE,CB,23-260,60,1,0,0,0,1,1,0,0,64,0,2,1,0.6,0.6,0.0,2,1,45,55,81.8,8,47,0,2,1,Stuttgart,2021-08-28 Stuttgart-Freiburg,GER-BL1,21-22,8275ba5e
+204dded0,Hiroki Ito,37,JPN,CB,22-108,30,0,0,0,0,0,0,0,0,40,2,0,1,0.0,0.0,0.0,0,0,29,37,78.4,1,29,0,0,0,Stuttgart,2021-08-28 Stuttgart-Freiburg,GER-BL1,21-22,8275ba5e
+cbac6ec9,Florian Müller,1,GER,GK,23-288,90,0,0,0,0,0,0,0,0,37,0,0,0,0.0,0.0,0.0,0,0,30,34,88.2,0,22,0,0,0,Stuttgart,2021-08-28 Stuttgart-Freiburg,GER-BL1,21-22,8275ba5e
+ca618d23,Lucas Höler,9,GER,FW,27-049,90,1,0,0,0,2,2,0,0,43,1,0,1,0.4,0.4,0.1,2,0,17,27,63.0,1,21,1,1,0,Freiburg,2021-08-28 Stuttgart-Freiburg,GER-BL1,21-22,8275ba5e
+6190474d,Jeong Woo-yeong,29,KOR,FW,21-342,88,2,0,0,0,2,2,0,0,35,0,0,1,0.1,0.1,0.0,2,0,21,27,77.8,5,13,0,1,0,Freiburg,2021-08-28 Stuttgart-Freiburg,GER-BL1,21-22,8275ba5e
+ed79b7d3,Ermedin Demirović,11,BIH,FW,23-156,2,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,1,0,1,2,50.0,0,1,0,1,1,Freiburg,2021-08-28 Stuttgart-Freiburg,GER-BL1,21-22,8275ba5e
+54e4866f,Vincenzo Grifo,32,ITA,LM,28-143,45,0,0,0,0,1,1,0,0,26,2,1,0,0.1,0.1,0.1,3,1,15,19,78.9,2,16,2,1,1,Freiburg,2021-08-28 Stuttgart-Freiburg,GER-BL1,21-22,8275ba5e
+70dcf94d,Janik Haberer,19,GER,CM,27-148,45,0,0,0,0,1,0,0,0,20,1,1,1,0.0,0.0,0.0,0,0,12,14,85.7,2,8,0,0,0,Freiburg,2021-08-28 Stuttgart-Freiburg,GER-BL1,21-22,8275ba5e
+5d8e331f,Nicolas Höfler,27,GER,CM,31-172,45,0,0,0,0,0,0,0,0,16,1,1,2,0.0,0.0,0.0,0,0,9,10,90.0,1,3,0,0,0,Freiburg,2021-08-28 Stuttgart-Freiburg,GER-BL1,21-22,8275ba5e
+beb882a8,Maximilian Eggestein,8,GER,CM,24-263,45,0,0,0,0,1,0,0,0,27,2,2,3,0.1,0.1,0.0,1,0,10,18,55.6,4,9,0,1,1,Freiburg,2021-08-28 Stuttgart-Freiburg,GER-BL1,21-22,8275ba5e
+d2c580ce,Yannik Keitel,14,GER,CM,21-194,45,0,0,0,0,1,0,0,0,21,0,0,1,0.0,0.0,0.0,2,0,9,14,64.3,0,7,0,1,0,Freiburg,2021-08-28 Stuttgart-Freiburg,GER-BL1,21-22,8275ba5e
+25ab9c9c,Manuel Gulde,5,GER,CB,30-197,45,0,0,0,0,0,0,0,0,17,2,0,0,0.0,0.0,0.0,0,0,11,14,78.6,1,6,0,0,0,Freiburg,2021-08-28 Stuttgart-Freiburg,GER-BL1,21-22,8275ba5e
+bf075f6b,Roland Sallai,22,HUN,"RM,CM",24-098,81,0,1,0,0,3,1,0,0,20,0,0,1,0.3,0.3,0.4,2,1,6,11,54.5,1,15,3,1,0,Freiburg,2021-08-28 Stuttgart-Freiburg,GER-BL1,21-22,8275ba5e
+52afb588,Kevin Schade,20,GER,CM,19-274,9,0,0,0,0,1,1,1,0,5,0,0,0,0.1,0.1,0.0,2,0,1,1,100.0,0,5,2,1,1,Freiburg,2021-08-28 Stuttgart-Freiburg,GER-BL1,21-22,8275ba5e
+8593f88c,Christian Günter,30,GER,LB,28-181,90,0,1,0,0,0,0,0,0,58,2,0,1,0.0,0.0,0.4,5,1,32,49,65.3,2,20,1,0,0,Freiburg,2021-08-28 Stuttgart-Freiburg,GER-BL1,21-22,8275ba5e
+34e12499,Nico Schlotterbeck,4,GER,CB,21-270,90,0,0,0,0,1,0,0,0,46,5,0,1,0.2,0.2,0.1,2,1,26,31,83.9,5,21,0,3,2,Freiburg,2021-08-28 Stuttgart-Freiburg,GER-BL1,21-22,8275ba5e
+302527b2,Philipp Lienhart,3,AUT,CB,25-048,90,0,0,0,0,2,0,0,0,43,1,0,1,0.2,0.2,0.0,0,0,18,25,72.0,1,15,0,0,0,Freiburg,2021-08-28 Stuttgart-Freiburg,GER-BL1,21-22,8275ba5e
+2a29eb9b,Lukas Kübler,17,GER,RB,28-363,90,0,0,0,0,0,0,0,0,38,2,2,0,0.0,0.0,0.0,0,0,15,32,46.9,0,18,0,0,0,Freiburg,2021-08-28 Stuttgart-Freiburg,GER-BL1,21-22,8275ba5e
+a92ab7be,Mark Flekken,26,NED,GK,28-076,90,0,0,0,0,0,0,0,0,47,0,0,1,0.0,0.0,0.0,2,1,27,44,61.4,0,26,0,0,0,Freiburg,2021-08-28 Stuttgart-Freiburg,GER-BL1,21-22,8275ba5e

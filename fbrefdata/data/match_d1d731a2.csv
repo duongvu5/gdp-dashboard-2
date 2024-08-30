@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+d520120b,Júlio Tavares,11,CPV,FW,29-111,90,0,0,0,0,3,1,0,0,30,0,0,0,0.6,0.6,0.0,2,0,10,18,55.6,3,21,0,0,0,Dijon,2018-03-10 Dijon-Amiens,FRA-L1,17-18,d1d731a2
+90fcf472,Wesley Saïd,9,FRA,FW,22-325,90,1,0,0,0,4,2,0,0,28,2,0,0,0.3,0.3,0.5,5,1,14,20,70.0,3,16,2,5,5,Dijon,2018-03-10 Dijon-Amiens,FRA-L1,17-18,d1d731a2
+8802c1d5,Frédéric Sammaritano,7,FRA,LM,31-352,79,0,0,0,0,1,0,0,0,46,1,0,1,0.0,0.0,0.0,1,0,24,40,60.0,2,30,2,1,1,Dijon,2018-03-10 Dijon-Amiens,FRA-L1,17-18,d1d731a2
+2e52206e,Benjamin Jeannot,29,FRA,RM,26-047,11,0,0,0,0,0,0,0,0,6,0,0,1,0.0,0.0,0.0,1,0,2,3,66.7,0,2,0,0,0,Dijon,2018-03-10 Dijon-Amiens,FRA-L1,17-18,d1d731a2
+d7bf3d19,Romain Amalfitano,20,FRA,CM,28-195,90,0,0,0,0,0,0,0,0,70,1,0,1,0.0,0.0,0.1,2,0,51,63,81.0,9,53,3,2,1,Dijon,2018-03-10 Dijon-Amiens,FRA-L1,17-18,d1d731a2
+6e5b5a45,Wesley Lautoa,6,NCL,CM,30-197,60,0,0,0,0,0,0,0,0,44,1,2,2,0.0,0.0,0.0,1,0,36,42,85.7,1,26,1,0,0,Dijon,2018-03-10 Dijon-Amiens,FRA-L1,17-18,d1d731a2
+0d2158d5,Jordan Marié,14,FRA,CM,26-162,30,0,0,0,0,0,0,1,0,18,0,1,0,0.0,0.0,0.0,0,0,14,15,93.3,2,7,0,0,0,Dijon,2018-03-10 Dijon-Amiens,FRA-L1,17-18,d1d731a2
+7961f7aa,Kwon Chang-hoon,22,KOR,RM,23-253,55,0,0,0,0,0,0,0,0,41,2,0,1,0.0,0.0,0.0,0,0,22,33,66.7,3,30,1,4,2,Dijon,2018-03-10 Dijon-Amiens,FRA-L1,17-18,d1d731a2
+2e0367a6,Naïm Sliti,10,TUN,"RM,LM",25-226,35,0,0,0,0,1,0,0,0,19,1,0,0,0.0,0.0,0.0,1,0,9,15,60.0,1,14,2,6,5,Dijon,2018-03-10 Dijon-Amiens,FRA-L1,17-18,d1d731a2
+f3085377,Arnold Bouka Moutou,3,CGO,LB,29-102,90,0,0,0,0,1,0,1,0,68,1,1,1,0.0,0.0,0.0,2,0,47,55,85.5,9,40,5,3,2,Dijon,2018-03-10 Dijon-Amiens,FRA-L1,17-18,d1d731a2
+083525e5,Papy Djilobodji,4,SEN,CB,29-099,90,0,1,0,0,0,0,1,0,95,1,3,3,0.0,0.0,0.2,2,1,60,83,72.3,11,62,2,2,1,Dijon,2018-03-10 Dijon-Amiens,FRA-L1,17-18,d1d731a2
+1c344204,Cédric Yamberé,18,CTA,CB,27-124,90,0,0,0,0,0,0,0,0,53,1,2,1,0.0,0.0,0.0,0,0,33,36,91.7,8,31,3,2,2,Dijon,2018-03-10 Dijon-Amiens,FRA-L1,17-18,d1d731a2
+9b6d9b53,Valentin Rosier,19,FRA,RB,21-203,90,0,0,0,0,0,0,0,0,62,0,0,1,0.0,0.0,0.1,2,0,46,55,83.6,3,37,2,3,2,Dijon,2018-03-10 Dijon-Amiens,FRA-L1,17-18,d1d731a2
+bcf1b2e9,Baptiste Reynet,30,FRA,GK,27-133,90,0,0,0,0,0,0,0,0,51,0,0,0,0.0,0.0,0.0,0,0,38,49,77.6,0,36,0,0,0,Dijon,2018-03-10 Dijon-Amiens,FRA-L1,17-18,d1d731a2
+fcbcbd94,Moussa Konaté,15,SEN,FW,24-341,90,1,0,0,0,4,2,0,0,24,0,0,0,0.6,0.6,0.3,1,0,12,17,70.6,2,16,2,0,0,Amiens,2018-03-10 Dijon-Amiens,FRA-L1,17-18,d1d731a2
+eacb45fd,Danilo Avelar,35,BRA,"LB,LW",28-274,90,0,0,0,0,0,0,0,0,40,1,3,0,0.0,0.0,0.0,1,0,21,34,61.8,6,22,3,1,1,Amiens,2018-03-10 Dijon-Amiens,FRA-L1,17-18,d1d731a2
+5b1bf5e3,Gaël Kakuta,14,COD,RW,26-262,76,0,0,0,0,1,1,0,0,31,1,0,0,0.1,0.1,0.0,1,0,13,26,50.0,4,20,1,0,0,Amiens,2018-03-10 Dijon-Amiens,FRA-L1,17-18,d1d731a2
+883f251e,Lacina Traoré,28,CIV,FW,27-294,14,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,1,0,4,4,100.0,0,6,0,0,0,Amiens,2018-03-10 Dijon-Amiens,FRA-L1,17-18,d1d731a2
+e68f2cb4,Stiven Mendoza,27,COL,"AM,RM",25-256,90,0,0,0,0,4,1,0,0,35,1,0,0,0.4,0.4,0.1,3,0,19,26,73.1,1,30,4,1,1,Amiens,2018-03-10 Dijon-Amiens,FRA-L1,17-18,d1d731a2
+a8797cf1,Bongani Zungu,34,RSA,"DM,CM",25-152,90,0,0,0,0,0,0,0,0,52,1,0,0,0.0,0.0,0.0,1,0,36,46,78.3,4,31,1,0,0,Amiens,2018-03-10 Dijon-Amiens,FRA-L1,17-18,d1d731a2
+84d94b91,Thomas Monconduit,6,FRA,"DM,CM",27-028,90,0,0,0,0,1,0,0,0,44,8,1,3,0.0,0.0,0.1,3,0,24,32,75.0,7,23,0,2,2,Amiens,2018-03-10 Dijon-Amiens,FRA-L1,17-18,d1d731a2
+247accfd,Bakaye Dibassy,12,MLI,"CB,LB",28-211,90,0,0,0,0,0,0,0,0,31,1,1,3,0.0,0.0,0.0,0,0,10,15,66.7,1,11,2,1,1,Amiens,2018-03-10 Dijon-Amiens,FRA-L1,17-18,d1d731a2
+16714a62,Khaled Adénon,3,BEN,CB,32-225,90,0,0,0,0,0,0,0,0,46,1,0,1,0.0,0.0,0.0,2,0,19,28,67.9,0,18,0,0,0,Amiens,2018-03-10 Dijon-Amiens,FRA-L1,17-18,d1d731a2
+7c6d6c96,Prince-Désir Gouano,2,FRA,CB,24-076,27,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,8,8,100.0,0,7,0,0,0,Amiens,2018-03-10 Dijon-Amiens,FRA-L1,17-18,d1d731a2
+cf4053e2,Serge Gakpé,37,TOG,LW,30-307,35,0,1,0,0,0,0,0,0,13,0,0,0,0.0,0.0,0.4,2,2,9,13,69.2,2,9,0,1,1,Amiens,2018-03-10 Dijon-Amiens,FRA-L1,17-18,d1d731a2
+7cf9f0ed,Emmanuel Bourgaud,10,FRA,"LM,LW",30-136,28,0,0,0,0,0,0,0,0,14,2,0,0,0.0,0.0,0.0,0,0,4,12,33.3,0,11,0,2,2,Amiens,2018-03-10 Dijon-Amiens,FRA-L1,17-18,d1d731a2
+9f29c204,Oualid El Hajjam,19,MAR,RB,27-019,90,0,0,0,0,0,0,0,0,50,2,3,1,0.0,0.0,0.0,2,0,24,35,68.6,4,25,2,4,2,Amiens,2018-03-10 Dijon-Amiens,FRA-L1,17-18,d1d731a2
+bc270726,Régis Gurtner,1,FRA,GK,31-092,90,0,0,0,0,0,0,0,0,42,0,0,0,0.0,0.0,0.0,0,0,14,41,34.1,0,20,0,0,0,Amiens,2018-03-10 Dijon-Amiens,FRA-L1,17-18,d1d731a2

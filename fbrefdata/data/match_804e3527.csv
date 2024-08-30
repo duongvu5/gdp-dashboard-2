@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+8c90fd7a,Victor Osimhen,9,NGA,FW,21-293,82,1,0,0,0,5,4,0,0,33,1,0,0,0.2,0.2,0.1,3,0,16,23,69.6,2,27,4,2,1,Napoli,2020-10-17 Napoli-Atalanta,ITA-SERIA_A,20-21,804e3527
+03f946ed,Andrea Petagna,37,ITA,FW,25-109,8,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.1,1,0,6,7,85.7,1,9,0,0,0,Napoli,2020-10-17 Napoli-Atalanta,ITA-SERIA_A,20-21,804e3527
+a69e4806,Hirving Lozano,11,MEX,"LW,RW,FW",25-079,90,2,0,0,0,5,3,1,0,38,1,1,2,1.1,1.1,0.0,3,0,17,25,68.0,5,22,5,3,2,Napoli,2020-10-17 Napoli-Atalanta,ITA-SERIA_A,20-21,804e3527
+5e861944,Matteo Politano,21,ITA,RW,27-075,60,1,0,0,0,3,2,0,0,39,1,1,0,0.1,0.1,0.1,4,0,24,33,72.7,5,28,4,1,1,Napoli,2020-10-17 Napoli-Atalanta,ITA-SERIA_A,20-21,804e3527
+c5adc293,Faouzi Ghoulam,31,ALG,"LW,LM",29-259,30,0,0,0,0,0,0,0,0,11,1,0,0,0.0,0.0,0.0,1,0,6,10,60.0,0,5,0,0,0,Napoli,2020-10-17 Napoli-Atalanta,ITA-SERIA_A,20-21,804e3527
+89b2c8a9,Dries Mertens,14,BEL,AM,33-164,74,0,1,0,0,3,1,0,0,51,1,1,1,0.1,0.1,0.1,5,1,30,43,69.8,7,24,2,2,0,Napoli,2020-10-17 Napoli-Atalanta,ITA-SERIA_A,20-21,804e3527
+e1cbb531,Stanislav Lobotka,68,SVK,"CM,AM",25-327,16,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,7,9,77.8,0,7,0,1,1,Napoli,2020-10-17 Napoli-Atalanta,ITA-SERIA_A,20-21,804e3527
+59bf127b,Tiemoué Bakayoko,5,FRA,DM,26-061,74,0,0,0,0,0,0,0,0,45,3,0,1,0.0,0.0,0.1,0,0,32,38,84.2,2,25,2,2,1,Napoli,2020-10-17 Napoli-Atalanta,ITA-SERIA_A,20-21,804e3527
+d6a889ea,Kévin Malcuit,2,MAR,"RM,DM",29-078,16,0,0,0,0,0,0,0,0,10,1,1,0,0.0,0.0,0.0,0,0,5,5,100.0,0,3,0,0,0,Napoli,2020-10-17 Napoli-Atalanta,ITA-SERIA_A,20-21,804e3527
+c0c7ff58,Fabián Ruiz Peña,8,ESP,DM,24-197,82,0,1,0,0,0,0,0,0,70,3,1,0,0.0,0.0,0.0,4,3,57,63,90.5,4,46,1,1,1,Napoli,2020-10-17 Napoli-Atalanta,ITA-SERIA_A,20-21,804e3527
+dc3fa3b5,Diego Demme,4,GER,CM,28-331,8,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,5,6,83.3,2,5,1,0,0,Napoli,2020-10-17 Napoli-Atalanta,ITA-SERIA_A,20-21,804e3527
+2f3452eb,Elseid Hysaj,23,ALB,LB,26-240,90,0,0,0,0,1,0,0,0,84,0,0,2,0.0,0.0,0.0,1,0,67,81,82.7,5,50,3,1,1,Napoli,2020-10-17 Napoli-Atalanta,ITA-SERIA_A,20-21,804e3527
+da974c7b,Kalidou Koulibaly,26,SEN,CB,29-119,90,0,0,0,0,1,0,0,0,62,1,1,0,0.1,0.1,0.0,2,0,45,57,78.9,3,45,1,1,1,Napoli,2020-10-17 Napoli-Atalanta,ITA-SERIA_A,20-21,804e3527
+c707411f,Kostas Manolas,44,GRE,CB,29-125,90,0,0,0,0,0,0,0,0,33,2,1,1,0.0,0.0,0.0,1,0,23,26,88.5,2,16,0,0,0,Napoli,2020-10-17 Napoli-Atalanta,ITA-SERIA_A,20-21,804e3527
+230a2fac,Giovanni Di Lorenzo,22,ITA,RB,27-074,90,0,0,0,0,1,1,0,0,65,6,1,0,0.0,0.0,0.1,6,1,52,58,89.7,6,40,1,2,0,Napoli,2020-10-17 Napoli-Atalanta,ITA-SERIA_A,20-21,804e3527
+82b1198a,David Ospina,25,COL,GK,32-047,90,0,1,0,0,0,0,0,0,43,0,0,0,0.0,0.0,0.0,2,1,31,42,73.8,0,32,0,0,0,Napoli,2020-10-17 Napoli-Atalanta,ITA-SERIA_A,20-21,804e3527
+d3de9af0,Duván Zapata,91,COL,FW,29-199,45,0,0,0,0,1,0,0,0,16,0,0,0,0.0,0.0,0.0,0,0,10,12,83.3,0,10,2,0,0,Atalanta,2020-10-17 Napoli-Atalanta,ITA-SERIA_A,20-21,804e3527
+608f2092,Johan Mojica,26,COL,"FW,CB",28-057,45,0,0,0,0,0,0,0,0,38,0,1,1,0.0,0.0,0.1,1,0,24,31,77.4,2,31,1,2,0,Atalanta,2020-10-17 Napoli-Atalanta,ITA-SERIA_A,20-21,804e3527
+6e4df551,Papu Gómez,10,ARG,AM,32-245,54,0,0,0,0,4,2,0,0,44,0,0,0,0.2,0.2,0.0,3,0,30,38,78.9,4,37,7,3,3,Atalanta,2020-10-17 Napoli-Atalanta,ITA-SERIA_A,20-21,804e3527
+c283ddef,Sam Lammers,7,NED,AM,23-170,36,1,0,0,0,1,1,0,0,7,0,0,0,0.2,0.2,0.0,2,0,3,3,100.0,0,6,1,2,1,Atalanta,2020-10-17 Napoli-Atalanta,ITA-SERIA_A,20-21,804e3527
+68252d6d,Josip Iličić,72,SVN,AM,32-262,62,0,0,0,0,0,0,0,0,35,0,0,0,0.0,0.0,0.1,3,0,18,26,69.2,3,27,2,3,1,Atalanta,2020-10-17 Napoli-Atalanta,ITA-SERIA_A,20-21,804e3527
+48d5bd33,Ruslan Malinovskyi,18,UKR,AM,27-166,28,0,0,0,0,1,0,0,0,10,0,0,0,0.0,0.0,0.0,2,0,7,8,87.5,2,11,0,1,1,Atalanta,2020-10-17 Napoli-Atalanta,ITA-SERIA_A,20-21,804e3527
+e599253a,Mario Pašalić,88,CRO,CM,25-251,90,0,0,0,0,1,0,0,0,67,1,0,1,0.0,0.0,0.0,3,0,63,67,94.0,8,57,4,1,1,Atalanta,2020-10-17 Napoli-Atalanta,ITA-SERIA_A,20-21,804e3527
+2a1beb34,Marten de Roon,15,NED,CM,29-202,90,0,0,0,0,1,0,0,0,88,4,1,2,0.0,0.0,0.0,5,0,63,77,81.8,6,65,1,0,0,Atalanta,2020-10-17 Napoli-Atalanta,ITA-SERIA_A,20-21,804e3527
+2d970560,Robin Gosens,8,GER,WB,26-104,80,0,0,0,0,3,0,1,0,57,1,3,1,0.2,0.2,0.0,2,0,38,42,90.5,5,40,1,2,0,Atalanta,2020-10-17 Napoli-Atalanta,ITA-SERIA_A,20-21,804e3527
+eb2fe5b6,Luis Muriel,9,COL,WB,29-184,10,0,0,0,0,0,0,0,0,6,1,0,0,0.0,0.0,0.0,0,0,3,4,75.0,0,4,0,0,0,Atalanta,2020-10-17 Napoli-Atalanta,ITA-SERIA_A,20-21,804e3527
+d97f2e8d,Fabio Depaoli,27,ITA,WB,23-176,90,0,0,0,0,0,0,0,0,46,0,1,0,0.0,0.0,0.0,0,0,33,39,84.6,4,25,0,1,0,Atalanta,2020-10-17 Napoli-Atalanta,ITA-SERIA_A,20-21,804e3527
+921f6058,José Luis Palomino,6,ARG,CB,30-286,45,0,0,0,0,0,0,0,0,28,1,0,0,0.0,0.0,0.0,1,0,19,23,82.6,2,22,0,0,0,Atalanta,2020-10-17 Napoli-Atalanta,ITA-SERIA_A,20-21,804e3527
+6eee05f1,Berat Djimsiti,19,ALB,"CB,FW",27-241,45,0,0,0,0,0,0,1,0,34,2,3,0,0.0,0.0,0.0,0,0,26,26,100.0,4,21,1,0,0,Atalanta,2020-10-17 Napoli-Atalanta,ITA-SERIA_A,20-21,804e3527
+a3d94a58,Cristian Romero,17,ARG,CB,22-173,90,0,1,0,0,0,0,0,0,55,2,3,1,0.0,0.0,0.2,2,2,41,43,95.3,2,35,0,2,1,Atalanta,2020-10-17 Napoli-Atalanta,ITA-SERIA_A,20-21,804e3527
+c56dc39e,Rafael Tolói,2,ITA,CB,30-007,90,0,0,0,0,1,1,1,0,75,1,4,2,0.0,0.0,0.0,1,0,55,64,85.9,11,56,0,0,0,Atalanta,2020-10-17 Napoli-Atalanta,ITA-SERIA_A,20-21,804e3527
+ac4003af,Marco Sportiello,57,ITA,GK,28-160,90,0,0,0,0,0,0,0,0,32,0,1,0,0.0,0.0,0.0,0,0,23,28,82.1,0,25,0,0,0,Atalanta,2020-10-17 Napoli-Atalanta,ITA-SERIA_A,20-21,804e3527

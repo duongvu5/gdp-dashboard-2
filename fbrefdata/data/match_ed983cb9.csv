@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+42fd9c7f,Kylian Mbappé,7,FRA,FW,23-139,90,0,0,0,0,2,2,0,0,47,0,0,0,0.1,0.1,0.2,5,1,30,38,78.9,1,40,3,5,1,Paris Saint-Germain,2022-05-08 Paris S-G-Troyes,FRA-L1,21-22,ed983cb9
+69384e5d,Neymar,10,BRA,LW,30-092,90,1,0,1,1,1,1,1,0,73,3,0,0,0.8,0.0,0.1,6,1,52,60,86.7,5,65,3,3,2,Paris Saint-Germain,2022-05-08 Paris S-G-Troyes,FRA-L1,21-22,ed983cb9
+19cda00b,Ángel Di María,11,ARG,RW,34-083,88,0,1,0,0,2,1,0,0,64,4,0,3,0.1,0.1,1.2,6,1,41,50,82.0,5,50,6,3,1,Paris Saint-Germain,2022-05-08 Paris S-G-Troyes,FRA-L1,21-22,ed983cb9
+5b3cfa12,Ismaël Gharbi,35,ESP,RW,18-028,2,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,4,4,100.0,1,4,0,0,0,Paris Saint-Germain,2022-05-08 Paris S-G-Troyes,FRA-L1,21-22,ed983cb9
+d70ce98e,Lionel Messi,30,ARG,AM,34-318,90,0,0,0,0,6,1,0,0,80,1,0,0,0.5,0.5,0.0,6,0,58,66,87.9,11,73,3,3,2,Paris Saint-Germain,2022-05-08 Paris S-G-Troyes,FRA-L1,21-22,ed983cb9
+1467af0d,Marco Verratti,6,ITA,DM,29-184,77,0,0,0,0,0,0,0,0,91,3,1,2,0.0,0.0,0.1,1,0,73,79,92.4,5,72,0,3,1,Paris Saint-Germain,2022-05-08 Paris S-G-Troyes,FRA-L1,21-22,ed983cb9
+eb58eef0,Georginio Wijnaldum,18,NED,DM,31-178,13,0,0,0,0,0,0,0,0,15,0,0,0,0.0,0.0,0.1,2,0,13,13,100.0,3,13,0,0,0,Paris Saint-Germain,2022-05-08 Paris S-G-Troyes,FRA-L1,21-22,ed983cb9
+8fd9996f,Danilo Pereira,15,POR,DM,30-241,76,0,0,0,0,1,0,0,0,60,3,1,0,0.3,0.3,0.0,0,0,53,55,96.4,5,52,0,0,0,Paris Saint-Germain,2022-05-08 Paris S-G-Troyes,FRA-L1,21-22,ed983cb9
+72c812f3,Idrissa Gana Gueye,27,SEN,DM,32-224,14,0,0,0,0,1,0,0,0,20,1,0,0,0.0,0.0,0.0,1,0,18,18,100.0,2,14,0,0,0,Paris Saint-Germain,2022-05-08 Paris S-G-Troyes,FRA-L1,21-22,ed983cb9
+f20e4cc9,Nuno Mendes,25,POR,LB,19-323,90,0,0,0,0,0,0,0,0,67,1,0,1,0.0,0.0,0.0,4,1,54,61,88.5,1,49,1,1,1,Paris Saint-Germain,2022-05-08 Paris S-G-Troyes,FRA-L1,21-22,ed983cb9
+aef6e670,Presnel Kimpembe,3,FRA,CB,26-268,90,0,0,0,0,1,0,0,0,74,1,0,0,0.1,0.1,0.0,0,0,65,65,100.0,5,58,0,0,0,Paris Saint-Germain,2022-05-08 Paris S-G-Troyes,FRA-L1,21-22,ed983cb9
+d5f2f82b,Marquinhos,5,BRA,CB,27-359,90,1,0,0,0,2,1,0,0,88,1,0,1,0.6,0.6,0.0,0,0,71,80,88.8,2,68,0,0,0,Paris Saint-Germain,2022-05-08 Paris S-G-Troyes,FRA-L1,21-22,ed983cb9
+e42d61c7,Achraf Hakimi,2,MAR,RB,23-185,90,0,0,0,0,0,0,0,0,65,3,0,0,0.0,0.0,0.0,0,0,52,57,91.2,3,54,4,0,0,Paris Saint-Germain,2022-05-08 Paris S-G-Troyes,FRA-L1,21-22,ed983cb9
+ecada4fc,Keylor Navas,1,CRC,GK,35-144,90,0,0,0,0,0,0,0,0,18,0,0,0,0.0,0.0,0.0,0,0,16,16,100.0,0,9,0,0,0,Paris Saint-Germain,2022-05-08 Paris S-G-Troyes,FRA-L1,21-22,ed983cb9
+8a53d24b,Ike Ugbo,13,CAN,FW,23-229,76,1,0,0,0,1,1,0,0,17,1,0,0,0.1,0.1,0.0,0,0,11,12,91.7,0,11,1,0,0,Troyes,2022-05-08 Paris S-G-Troyes,FRA-L1,21-22,ed983cb9
+fb14aa28,Mama Samba Baldé,25,GNB,FW,26-183,14,0,0,0,0,1,1,0,0,8,0,0,0,0.0,0.0,0.0,0,0,4,5,80.0,0,6,0,0,0,Troyes,2022-05-08 Paris S-G-Troyes,FRA-L1,21-22,ed983cb9
+279ddf6a,Xavier Chavalerin,24,FRA,"LM,CM",31-062,90,0,0,0,0,0,0,0,0,43,1,1,0,0.0,0.0,0.0,2,0,26,38,68.4,1,36,0,1,1,Troyes,2022-05-08 Paris S-G-Troyes,FRA-L1,21-22,ed983cb9
+ed39121c,Florian Tardieu,10,FRA,CM,30-016,90,1,0,1,1,1,0,0,0,66,0,1,0,0.8,0.0,0.7,2,0,54,63,85.7,5,57,0,1,1,Troyes,2022-05-08 Paris S-G-Troyes,FRA-L1,21-22,ed983cb9
+86a2ba20,Rominigue Kouamé,6,MLI,CM,25-142,88,0,0,0,0,1,0,1,0,59,2,1,2,0.0,0.0,0.0,0,0,46,49,93.9,7,44,2,4,2,Troyes,2022-05-08 Paris S-G-Troyes,FRA-L1,21-22,ed983cb9
+92b56413,Tristan Dingomé,5,CMR,"LM,CM",31-080,2,0,0,0,0,0,0,0,0,2,1,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Troyes,2022-05-08 Paris S-G-Troyes,FRA-L1,21-22,ed983cb9
+beae3a73,Renaud Ripart,20,FRA,RM,29-055,90,0,0,0,0,1,0,1,0,39,4,1,2,0.0,0.0,0.0,1,1,19,25,76.0,4,31,0,2,1,Troyes,2022-05-08 Paris S-G-Troyes,FRA-L1,21-22,ed983cb9
+0ed063d6,Yasser Larouci,22,ALG,LB,21-127,76,0,0,0,0,0,0,0,0,47,0,0,0,0.0,0.0,0.1,5,0,28,35,80.0,1,36,7,7,2,Troyes,2022-05-08 Paris S-G-Troyes,FRA-L1,21-22,ed983cb9
+c3725db2,Yoann Salmier,17,GUF,CB,29-168,14,0,0,0,0,0,0,0,0,7,1,0,2,0.0,0.0,0.0,0,0,3,4,75.0,0,4,0,0,0,Troyes,2022-05-08 Paris S-G-Troyes,FRA-L1,21-22,ed983cb9
+cfa49cc1,Abdu Conté,12,POR,"CB,LB",24-045,90,0,0,0,0,0,0,0,0,41,0,1,1,0.0,0.0,0.0,1,0,31,37,83.8,1,35,1,1,0,Troyes,2022-05-08 Paris S-G-Troyes,FRA-L1,21-22,ed983cb9
+e5c1e0ca,Erik Palmer-Brown,2,USA,CB,25-014,90,0,0,0,0,2,0,0,0,26,2,0,1,0.7,0.7,0.0,0,0,13,18,72.2,0,16,0,0,0,Troyes,2022-05-08 Paris S-G-Troyes,FRA-L1,21-22,ed983cb9
+de40e38c,Giulian Biancone,4,FRA,CB,22-038,90,0,0,0,0,0,0,0,0,43,7,2,0,0.0,0.0,0.0,0,0,24,29,82.8,0,30,0,0,0,Troyes,2022-05-08 Paris S-G-Troyes,FRA-L1,21-22,ed983cb9
+c066d1a5,Issa Kaboré,29,BFA,RB,20-361,90,0,0,0,0,1,0,0,0,46,0,1,0,0.0,0.0,0.0,1,1,35,41,85.4,5,32,5,5,3,Troyes,2022-05-08 Paris S-G-Troyes,FRA-L1,21-22,ed983cb9
+28a65a2c,Jessy Moulin,40,FRA,GK,36-115,90,0,0,0,0,0,0,0,0,35,0,0,0,0.0,0.0,0.0,0,0,21,30,70.0,0,14,0,0,0,Troyes,2022-05-08 Paris S-G-Troyes,FRA-L1,21-22,ed983cb9

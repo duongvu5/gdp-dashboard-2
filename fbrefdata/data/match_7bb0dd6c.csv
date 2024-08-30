@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+5faa73aa,Markus Rosenberg,9,SWE,FW,36-140,90,0,1,0,0,1,0,0,0,31,2,0,1,0.0,0.0,0.6,2,1,9,17,52.9,3,18,1,0,0,Malmö,2019-02-14 Malmö-Chelsea,UEL,18-19,7bb0dd6c
+ba3378a5,Marcus Antonsson,23,SWE,FW,27-282,69,0,0,0,0,0,0,0,0,14,0,0,0,0.0,0.0,0.0,1,0,6,10,60.0,1,6,0,1,1,Malmö,2019-02-14 Malmö-Chelsea,UEL,18-19,7bb0dd6c
+8c70d3ee,Carlos Strandberg,10,SWE,FW,22-306,21,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,1,1,1,3,33.3,1,2,0,0,0,Malmö,2019-02-14 Malmö-Chelsea,UEL,18-19,7bb0dd6c
+7d036b4a,Arnór Ingvi Traustason,8,ISL,CM,25-290,69,0,0,0,0,3,0,0,0,24,2,0,2,0.1,0.1,0.0,2,0,13,15,86.7,1,8,0,0,0,Malmö,2019-02-14 Malmö-Chelsea,UEL,18-19,7bb0dd6c
+0c09c984,Oscar Lewicki,6,SWE,CM,26-215,21,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,0,0,7,9,77.8,0,4,0,0,0,Malmö,2019-02-14 Malmö-Chelsea,UEL,18-19,7bb0dd6c
+75229233,Fouad Bachirou,7,COM,CM,28-305,90,0,0,0,0,0,0,0,0,32,3,2,0,0.0,0.0,0.1,1,0,24,25,96.0,4,15,1,2,2,Malmö,2019-02-14 Malmö-Chelsea,UEL,18-19,7bb0dd6c
+770ebf00,Anders Christiansen,14,DEN,CM,28-251,81,1,0,0,0,3,1,0,0,35,3,2,0,0.6,0.6,0.0,3,0,21,28,75.0,1,17,1,1,1,Malmö,2019-02-14 Malmö-Chelsea,UEL,18-19,7bb0dd6c
+3da8cba0,Romain Gall,18,USA,CM,24-014,9,0,0,0,0,0,0,0,0,4,1,0,0,0.0,0.0,0.0,0,0,0,2,0.0,0,1,0,1,1,Malmö,2019-02-14 Malmö-Chelsea,UEL,18-19,7bb0dd6c
+572498c7,Søren Rieks,5,DEN,LB,31-313,90,0,0,0,0,3,1,0,0,31,0,1,2,0.1,0.1,0.0,4,0,12,16,75.0,2,16,2,2,1,Malmö,2019-02-14 Malmö-Chelsea,UEL,18-19,7bb0dd6c
+5c6ba09a,Behrang Safari,4,SWE,CB,34-005,90,0,0,0,0,0,0,0,0,53,2,0,0,0.0,0.0,0.0,4,0,33,47,70.2,3,17,2,1,1,Malmö,2019-02-14 Malmö-Chelsea,UEL,18-19,7bb0dd6c
+5a28b2d9,Rasmus Bengtsson,17,SWE,CB,32-233,90,0,0,0,0,1,0,0,0,48,1,4,2,0.1,0.1,0.0,3,0,30,37,81.1,1,22,0,0,0,Malmö,2019-02-14 Malmö-Chelsea,UEL,18-19,7bb0dd6c
+06e5b0e4,Lasse Nielsen,24,DEN,CB,31-037,90,0,0,0,0,1,0,0,0,40,2,5,1,0.1,0.1,0.0,2,0,28,32,87.5,0,17,0,0,0,Malmö,2019-02-14 Malmö-Chelsea,UEL,18-19,7bb0dd6c
+7c7fdb0f,Andreas Vindheim,26,NOR,RB,23-194,90,0,0,0,0,3,0,0,0,45,0,1,2,0.1,0.1,0.0,1,0,18,34,52.9,2,24,2,1,1,Malmö,2019-02-14 Malmö-Chelsea,UEL,18-19,7bb0dd6c
+a04e2dd2,Johan Dahlin,27,SWE,GK,32-159,90,0,0,0,0,0,0,0,0,27,0,0,0,0.0,0.0,0.0,0,0,11,25,44.0,0,8,0,0,0,Malmö,2019-02-14 Malmö-Chelsea,UEL,18-19,7bb0dd6c
+16ceb862,Olivier Giroud,18,FRA,FW,32-137,90,1,0,0,0,7,2,0,0,44,3,0,1,1.8,1.8,0.1,3,1,24,32,75.0,0,18,0,0,0,Chelsea,2019-02-14 Malmö-Chelsea,UEL,18-19,7bb0dd6c
+8b9ebd03,Willian,22,BRA,LW,30-189,70,0,1,0,0,0,0,0,0,44,0,0,0,0.0,0.0,1.2,4,2,32,41,78.0,6,26,4,2,2,Chelsea,2019-02-14 Malmö-Chelsea,UEL,18-19,7bb0dd6c
+a39bb753,Eden Hazard,10,BEL,LW,28-038,20,0,0,0,0,0,0,0,0,26,0,1,0,0.0,0.0,0.5,4,0,20,22,90.9,5,22,4,5,4,Chelsea,2019-02-14 Malmö-Chelsea,UEL,18-19,7bb0dd6c
+3ca7254a,Pedro,11,ESP,RW,31-201,83,0,1,0,0,1,0,0,0,71,0,1,1,0.1,0.1,0.4,2,1,59,66,89.4,0,47,4,4,3,Chelsea,2019-02-14 Malmö-Chelsea,UEL,18-19,7bb0dd6c
+15f3ec41,Callum Hudson-Odoi,20,ENG,RW,18-099,7,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,8,8,100.0,1,6,1,2,2,Chelsea,2019-02-14 Malmö-Chelsea,UEL,18-19,7bb0dd6c
+3a24769f,Ross Barkley,8,ENG,LM,25-071,90,1,0,0,0,3,2,0,0,61,1,2,1,0.5,0.5,0.1,4,0,43,48,89.6,6,34,2,3,2,Chelsea,2019-02-14 Malmö-Chelsea,UEL,18-19,7bb0dd6c
+45db685d,Jorginho,5,ITA,CM,27-056,73,0,0,0,0,0,0,0,0,63,2,2,2,0.0,0.0,0.0,0,0,48,53,90.6,4,34,1,1,0,Chelsea,2019-02-14 Malmö-Chelsea,UEL,18-19,7bb0dd6c
+b9fbae28,N'Golo Kanté,7,FRA,RM,27-322,17,0,0,0,0,0,0,0,0,18,1,0,0,0.0,0.0,0.0,0,0,14,17,82.4,1,15,1,0,0,Chelsea,2019-02-14 Malmö-Chelsea,UEL,18-19,7bb0dd6c
+79c0821a,Mateo Kovačić,17,CRO,"RM,CM",24-284,90,0,0,0,0,0,0,0,0,127,1,3,0,0.0,0.0,0.0,3,0,115,118,97.5,12,90,4,3,3,Chelsea,2019-02-14 Malmö-Chelsea,UEL,18-19,7bb0dd6c
+e0bc6fdc,Emerson Palmieri,33,ITA,LB,24-195,90,0,0,0,0,0,0,0,0,96,0,2,1,0.0,0.0,0.0,0,0,79,88,89.8,4,57,9,4,2,Chelsea,2019-02-14 Malmö-Chelsea,UEL,18-19,7bb0dd6c
+c0e27d1a,David Luiz,30,BRA,CB,31-298,90,0,0,0,0,0,0,0,0,113,0,1,3,0.0,0.0,0.0,0,0,95,104,91.3,9,69,1,0,0,Chelsea,2019-02-14 Malmö-Chelsea,UEL,18-19,7bb0dd6c
+1cb49278,Andreas Christensen,27,DEN,CB,22-310,90,0,0,0,0,0,0,0,0,88,1,1,2,0.0,0.0,0.0,0,0,75,79,94.9,2,45,0,0,0,Chelsea,2019-02-14 Malmö-Chelsea,UEL,18-19,7bb0dd6c
+53cad200,César Azpilicueta,28,ESP,RB,29-170,90,0,0,0,0,0,0,0,0,119,2,3,1,0.0,0.0,0.1,2,0,95,103,92.2,0,50,3,0,0,Chelsea,2019-02-14 Malmö-Chelsea,UEL,18-19,7bb0dd6c
+28d596a0,Kepa Arrizabalaga,1,ESP,GK,24-134,90,0,0,0,0,0,0,0,0,23,0,0,0,0.0,0.0,0.0,0,0,18,21,85.7,0,12,0,0,0,Chelsea,2019-02-14 Malmö-Chelsea,UEL,18-19,7bb0dd6c

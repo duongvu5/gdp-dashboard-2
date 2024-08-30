@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+ea0ff634,Valère Germain,28,FRA,FW,27-304,69,2,0,0,0,4,2,0,0,27,0,0,0,1.0,1.0,0.1,1,0,13,21,61.9,1,19,0,0,0,Marseille,2018-02-15 Marseille-Braga,UEL,17-18,15b447cb
+2b9fdeea,Florian Thauvin,26,FRA,RW,25-020,21,1,0,0,0,2,1,0,0,33,1,0,0,0.1,0.1,0.1,2,1,22,28,78.6,5,29,0,3,1,Marseille,2018-02-15 Marseille-Braga,UEL,17-18,15b447cb
+a08b974a,Lucas Ocampos,5,ARG,LW,23-219,90,0,0,0,0,3,3,0,0,45,2,2,2,1.1,1.1,0.1,5,0,27,33,81.8,3,27,4,3,3,Marseille,2018-02-15 Marseille-Braga,UEL,17-18,15b447cb
+77f278a0,Clinton N'Jie,14,CMR,"RW,FW",24-184,90,0,0,0,0,4,2,0,0,37,1,1,2,0.2,0.2,0.1,4,0,19,26,73.1,1,27,1,4,2,Marseille,2018-02-15 Marseille-Braga,UEL,17-18,15b447cb
+58ae47b2,Dimitri Payet,10,FRA,AM,30-323,77,0,1,0,0,3,1,0,0,70,1,0,0,0.2,0.2,1.3,7,1,44,58,75.9,7,47,5,7,3,Marseille,2018-02-15 Marseille-Braga,UEL,17-18,15b447cb
+6bb2c084,Andre-Frank Zambo Anguissa,29,CMR,DM,22-091,13,0,0,0,0,0,0,0,0,23,1,0,2,0.0,0.0,0.0,0,0,15,17,88.2,0,18,1,2,2,Marseille,2018-02-15 Marseille-Braga,UEL,17-18,15b447cb
+82671804,Luiz Gustavo,19,BRA,DM,30-207,90,0,0,0,0,2,0,0,0,74,1,1,2,0.1,0.1,0.1,3,0,54,63,85.7,6,53,1,3,3,Marseille,2018-02-15 Marseille-Braga,UEL,17-18,15b447cb
+20094685,Maxime Lopez,27,FRA,"DM,AM",20-073,90,0,1,0,0,0,0,0,0,129,1,0,1,0.0,0.0,0.2,13,2,114,123,92.7,14,98,3,3,1,Marseille,2018-02-15 Marseille-Braga,UEL,17-18,15b447cb
+22721b88,Jordan Amavi,18,FRA,LB,23-343,58,0,0,0,0,0,0,1,0,53,4,3,1,0.0,0.0,0.0,1,0,31,37,83.8,2,29,0,1,0,Marseille,2018-02-15 Marseille-Braga,UEL,17-18,15b447cb
+d63e2912,Hiroki Sakai,2,JPN,LB,27-309,32,0,1,0,0,0,0,0,0,22,0,1,0,0.0,0.0,0.1,1,1,16,20,80.0,2,8,1,0,0,Marseille,2018-02-15 Marseille-Braga,UEL,17-18,15b447cb
+0eeafda5,Rolando,6,POR,CB,32-168,90,0,0,0,0,1,0,0,0,61,1,2,1,0.1,0.1,0.0,0,0,43,50,86.0,1,32,0,1,1,Marseille,2018-02-15 Marseille-Braga,UEL,17-18,15b447cb
+8dbff17c,Adil Rami,23,FRA,CB,32-050,90,0,0,0,0,0,0,0,0,66,1,2,1,0.0,0.0,0.0,0,0,53,60,88.3,3,46,2,1,1,Marseille,2018-02-15 Marseille-Braga,UEL,17-18,15b447cb
+1a4b9094,Bouna Sarr,17,SEN,RB,26-015,90,0,0,0,0,2,1,0,0,91,2,1,1,0.1,0.1,0.0,3,0,60,77,77.9,2,64,5,7,5,Marseille,2018-02-15 Marseille-Braga,UEL,17-18,15b447cb
+76806215,Yohann Pelé,16,FRA,GK,35-103,90,0,0,0,0,0,0,0,0,32,0,0,0,0.0,0.0,0.0,0,0,24,31,77.4,0,21,0,0,0,Marseille,2018-02-15 Marseille-Braga,UEL,17-18,15b447cb
+e4738e91,Dyego Sousa,99,POR,FW,28-154,74,0,0,0,0,1,0,0,0,23,1,2,2,0.0,0.0,0.0,0,0,9,13,69.2,0,13,0,1,1,Braga,2018-02-15 Marseille-Braga,UEL,17-18,15b447cb
+9fc2531b,Koka,9,EGY,FW,24-347,16,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,2,0,0,0,Braga,2018-02-15 Marseille-Braga,UEL,17-18,15b447cb
+a62c16d0,Paulinho,20,POR,FW,25-098,60,0,0,0,0,1,1,0,0,18,0,0,0,0.3,0.3,0.0,1,0,7,12,58.3,2,13,0,2,1,Braga,2018-02-15 Marseille-Braga,UEL,17-18,15b447cb
+b3b310f0,Wilson Eduardo,7,ANG,"RM,FW",27-222,30,0,0,0,0,0,0,0,0,10,2,0,1,0.0,0.0,0.0,0,0,2,4,50.0,0,4,0,0,0,Braga,2018-02-15 Marseille-Braga,UEL,17-18,15b447cb
+601299e9,João Carlos Teixeira,23,POR,"LM,RM",25-028,71,0,0,0,0,0,0,0,0,30,2,4,2,0.0,0.0,0.1,1,0,9,15,60.0,0,14,0,1,1,Braga,2018-02-15 Marseille-Braga,UEL,17-18,15b447cb
+951f1739,André Horta,15,POR,"FW,RM",21-100,19,0,0,0,0,0,0,0,0,10,0,0,1,0.0,0.0,0.0,0,0,8,9,88.9,1,6,0,0,0,Braga,2018-02-15 Marseille-Braga,UEL,17-18,15b447cb
+4442fbcd,Nikola Vukčević,35,MNE,CM,26-064,90,0,0,0,0,1,0,1,0,42,3,2,2,0.1,0.1,0.0,0,0,27,32,84.4,1,18,1,0,0,Braga,2018-02-15 Marseille-Braga,UEL,17-18,15b447cb
+0557ff4f,Danilo Barbosa,11,BRA,CM,21-352,90,0,0,0,0,0,0,1,0,39,2,1,2,0.0,0.0,0.0,0,0,17,26,65.4,2,22,0,3,3,Braga,2018-02-15 Marseille-Braga,UEL,17-18,15b447cb
+12dcbdcc,Ricardo Esgaio,47,POR,"RM,LM",24-275,90,0,0,0,0,0,0,0,0,49,3,1,1,0.0,0.0,0.3,2,0,24,40,60.0,1,19,3,0,0,Braga,2018-02-15 Marseille-Braga,UEL,17-18,15b447cb
+7a2cf111,Nuno Sequeira,5,POR,LB,27-180,90,0,0,0,0,0,0,0,0,52,3,1,2,0.0,0.0,0.0,1,0,19,37,51.4,7,16,0,1,0,Braga,2018-02-15 Marseille-Braga,UEL,17-18,15b447cb
+c5ea2dab,Bruno Viana,36,BRA,CB,23-010,90,0,0,0,0,0,0,0,0,49,2,3,0,0.0,0.0,0.0,1,0,32,39,82.1,6,29,1,0,0,Braga,2018-02-15 Marseille-Braga,UEL,17-18,15b447cb
+3c285843,Lazar Rosić,3,SRB,CB,24-231,90,0,0,0,0,0,0,0,0,44,0,0,0,0.0,0.0,0.0,0,0,36,41,87.8,3,33,0,0,0,Braga,2018-02-15 Marseille-Braga,UEL,17-18,15b447cb
+3e587547,Diogo Figueiras,2,POR,RB,26-229,90,0,0,0,0,0,0,0,0,66,4,1,1,0.0,0.0,0.0,0,0,48,54,88.9,2,38,0,2,0,Braga,2018-02-15 Marseille-Braga,UEL,17-18,15b447cb
+ef3909cd,Matheus,1,BRA,GK,25-211,90,0,0,0,0,0,0,0,0,46,1,0,0,0.0,0.0,0.0,0,0,29,38,76.3,0,16,0,0,0,Braga,2018-02-15 Marseille-Braga,UEL,17-18,15b447cb

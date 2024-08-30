@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+d33c706e,Andy Delort,9,ALG,FW,28-339,84,0,2,0,0,3,3,0,0,38,0,1,0,0.1,0.1,0.4,7,2,23,28,82.1,2,21,2,3,2,Montpellier,2020-09-12 Montpellier-Nice,FRA-L1,20-21,e1ed5031
+30144daa,Stephy Mavididi,19,ENG,FW,22-104,6,0,0,0,0,1,0,0,0,4,0,0,0,0.1,0.1,0.0,1,0,2,2,100.0,0,3,1,0,0,Montpellier,2020-09-12 Montpellier-Nice,FRA-L1,20-21,e1ed5031
+7cdda3bf,Gaëtan Laborde,10,FRA,FW,26-132,90,1,0,0,0,7,5,0,0,33,0,0,0,1.0,1.0,0.0,1,0,16,21,76.2,2,12,1,1,0,Montpellier,2020-09-12 Montpellier-Nice,FRA-L1,20-21,e1ed5031
+6bde367b,Téji Savanier,11,FRA,AM,28-265,67,0,1,0,0,4,2,0,0,42,1,0,2,0.1,0.1,0.3,10,2,20,32,62.5,8,21,3,6,6,Montpellier,2020-09-12 Montpellier-Nice,FRA-L1,20-21,e1ed5031
+24eb7ed6,Junior Sambia,6,FRA,"AM,WB",24-005,23,0,0,0,0,0,0,0,0,9,0,0,1,0.0,0.0,0.1,2,0,4,6,66.7,2,3,0,0,0,Montpellier,2020-09-12 Montpellier-Nice,FRA-L1,20-21,e1ed5031
+8f4d116f,Damien Le Tallec,14,FRA,CM,30-146,90,0,0,0,0,0,0,0,0,33,3,1,0,0.0,0.0,0.0,0,0,21,23,91.3,3,12,0,0,0,Montpellier,2020-09-12 Montpellier-Nice,FRA-L1,20-21,e1ed5031
+375622c5,Jordan Ferri,12,FRA,CM,28-184,72,0,0,0,0,1,0,0,0,43,2,1,0,0.0,0.0,0.1,5,0,21,33,63.6,3,21,2,0,0,Montpellier,2020-09-12 Montpellier-Nice,FRA-L1,20-21,e1ed5031
+7909ffa4,Joris Chotard,13,FRA,CM,18-354,18,0,0,0,0,0,0,0,0,6,1,0,1,0.0,0.0,0.0,0,0,1,3,33.3,0,2,0,0,0,Montpellier,2020-09-12 Montpellier-Nice,FRA-L1,20-21,e1ed5031
+ea0aa7e0,Mihailo Ristić,7,SRB,WB,24-317,83,0,0,0,0,2,1,0,0,48,2,0,1,0.0,0.0,0.3,4,1,24,32,75.0,2,21,1,2,1,Montpellier,2020-09-12 Montpellier-Nice,FRA-L1,20-21,e1ed5031
+e3e05edf,Ambroise Oyongo,8,CMR,WB,29-082,7,0,0,0,0,0,0,0,0,2,1,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Montpellier,2020-09-12 Montpellier-Nice,FRA-L1,20-21,e1ed5031
+4e0afc5d,Arnaud Souquet,2,FRA,WB,28-213,84,0,0,0,0,0,0,0,0,48,3,0,0,0.0,0.0,0.1,4,1,25,41,61.0,3,23,4,0,0,Montpellier,2020-09-12 Montpellier-Nice,FRA-L1,20-21,e1ed5031
+ccb1c3af,Keagan Dolly,20,RSA,AM,27-234,6,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,0,0,Montpellier,2020-09-12 Montpellier-Nice,FRA-L1,20-21,e1ed5031
+3f5b4635,Daniel Congré,3,FRA,CB,35-160,90,2,0,0,0,2,2,0,0,27,0,1,1,0.3,0.3,0.0,0,0,17,20,85.0,0,13,0,0,0,Montpellier,2020-09-12 Montpellier-Nice,FRA-L1,20-21,e1ed5031
+c4bbea9f,Vitorino Hilton,4,BRA,CB,42-365,90,0,0,0,0,0,0,0,0,34,0,2,0,0.0,0.0,0.0,1,0,23,28,82.1,2,15,0,0,0,Montpellier,2020-09-12 Montpellier-Nice,FRA-L1,20-21,e1ed5031
+6690ef25,Pedro Mendes,5,POR,CB,29-347,90,0,0,0,0,0,0,0,0,35,0,2,2,0.0,0.0,0.3,2,0,23,27,85.2,2,15,0,0,0,Montpellier,2020-09-12 Montpellier-Nice,FRA-L1,20-21,e1ed5031
+c631f952,Jonas Omlin,1,SUI,GK,26-246,90,0,0,0,0,0,0,0,0,33,0,0,0,0.0,0.0,0.0,0,0,20,32,62.5,0,22,0,0,0,Montpellier,2020-09-12 Montpellier-Nice,FRA-L1,20-21,e1ed5031
+cc83b74d,Kasper Dolberg,9,DEN,FW,22-342,90,0,0,0,0,2,0,1,0,16,0,0,0,0.3,0.3,0.0,3,0,8,10,80.0,0,11,0,0,0,Nice,2020-09-12 Montpellier-Nice,FRA-L1,20-21,e1ed5031
+706a60e1,Myziane Maolida,7,COM,LW,21-211,62,0,0,0,0,0,0,1,0,23,1,0,1,0.0,0.0,0.0,0,0,13,20,65.0,0,15,1,2,2,Nice,2020-09-12 Montpellier-Nice,FRA-L1,20-21,e1ed5031
+aad56ca3,Amine Gouiri,11,ALG,LW,20-209,28,0,1,0,0,1,0,0,0,16,0,0,0,0.0,0.0,0.1,3,1,9,13,69.2,1,10,1,1,1,Nice,2020-09-12 Montpellier-Nice,FRA-L1,20-21,e1ed5031
+7c2965bb,Rony Lopes,22,POR,RW,24-259,79,0,0,0,0,0,0,0,0,46,0,0,1,0.0,0.0,0.3,3,0,27,35,77.1,2,22,2,5,3,Nice,2020-09-12 Montpellier-Nice,FRA-L1,20-21,e1ed5031
+8e697a8f,Dan Ndoye,14,SUI,RW,19-323,11,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,3,3,100.0,1,4,0,1,0,Nice,2020-09-12 Montpellier-Nice,FRA-L1,20-21,e1ed5031
+f5044e54,Pierre Lees-Melou,8,FRA,LM,27-110,90,0,0,0,0,1,0,0,0,58,2,1,3,0.1,0.1,0.0,1,0,32,42,76.2,1,29,1,0,0,Nice,2020-09-12 Montpellier-Nice,FRA-L1,20-21,e1ed5031
+51b41c5c,Morgan Schneiderlin,6,FRA,CM,30-309,90,0,0,0,0,0,0,0,0,64,1,0,1,0.0,0.0,0.0,0,0,53,58,91.4,5,35,0,1,1,Nice,2020-09-12 Montpellier-Nice,FRA-L1,20-21,e1ed5031
+7d9397f8,Khéphren Thuram,19,FRA,RM,19-170,45,0,0,0,0,0,0,0,0,27,0,0,2,0.0,0.0,0.0,0,0,17,20,85.0,0,13,1,0,0,Nice,2020-09-12 Montpellier-Nice,FRA-L1,20-21,e1ed5031
+741418c3,Alexis Claude-Maurice,10,FRA,RM,22-098,45,0,0,0,0,2,0,0,0,22,0,2,0,0.1,0.1,0.0,0,0,15,18,83.3,0,12,0,0,0,Nice,2020-09-12 Montpellier-Nice,FRA-L1,20-21,e1ed5031
+19a12bed,Hassane Kamara,13,CIV,LB,26-191,90,0,0,0,0,1,0,0,0,89,3,3,0,0.0,0.0,0.2,4,1,57,74,77.0,7,61,9,1,0,Nice,2020-09-12 Montpellier-Nice,FRA-L1,20-21,e1ed5031
+fd2bc67d,Dante,4,BRA,CB,36-330,90,1,0,0,0,2,1,0,0,77,0,1,0,0.2,0.2,0.0,0,0,64,70,91.4,4,54,1,0,0,Nice,2020-09-12 Montpellier-Nice,FRA-L1,20-21,e1ed5031
+f18d7ab2,Andy Pelmard,24,FRA,CB,20-184,90,0,0,0,0,0,0,0,0,71,0,0,0,0.0,0.0,0.0,0,0,63,66,95.5,3,47,0,0,0,Nice,2020-09-12 Montpellier-Nice,FRA-L1,20-21,e1ed5031
+6a827d8e,Youcef Atal,20,ALG,RB,24-118,88,0,0,0,0,0,0,0,0,79,3,5,1,0.0,0.0,0.0,2,0,52,64,81.3,4,46,9,1,0,Nice,2020-09-12 Montpellier-Nice,FRA-L1,20-21,e1ed5031
+ff3a6a60,Eddy Sylvestre,34,FRA,RB,21-014,2,0,0,0,0,0,0,0,0,6,0,1,0,0.0,0.0,0.0,0,0,4,5,80.0,0,2,0,1,1,Nice,2020-09-12 Montpellier-Nice,FRA-L1,20-21,e1ed5031
+8a2248b4,Walter Benítez,40,ARG,GK,27-237,90,0,0,0,0,0,0,0,0,34,0,0,0,0.0,0.0,0.0,0,0,19,26,73.1,0,15,0,0,0,Nice,2020-09-12 Montpellier-Nice,FRA-L1,20-21,e1ed5031

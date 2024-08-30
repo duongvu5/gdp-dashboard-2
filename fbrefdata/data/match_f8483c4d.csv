@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+603cb947,Andrej Kramarić,27,CRO,FW,26-264,65,0,0,0,0,5,2,0,0,39,0,0,0,0.3,0.3,0.2,4,0,16,29,55.2,4,21,4,4,2,Hoffenheim,2018-03-10 Hoffenheim-Wolfsburg,GER-BL1,17-18,f8483c4d
+a3ddb1b9,Mark Uth,19,GER,FW,26-198,25,0,1,0,0,2,0,0,0,13,2,0,1,0.1,0.1,0.1,1,1,7,8,87.5,0,12,1,0,0,Hoffenheim,2018-03-10 Hoffenheim-Wolfsburg,GER-BL1,17-18,f8483c4d
+88e357ef,Serge Gnabry,29,GER,FW,22-239,90,1,0,0,0,4,1,0,0,40,0,0,0,0.3,0.3,0.0,5,1,22,30,73.3,4,20,5,1,1,Hoffenheim,2018-03-10 Hoffenheim-Wolfsburg,GER-BL1,17-18,f8483c4d
+fa274d97,Nico Schulz,16,GER,LW,24-343,90,1,0,0,0,2,1,0,0,58,1,2,3,0.5,0.5,0.0,3,0,40,53,75.5,4,30,5,2,2,Hoffenheim,2018-03-10 Hoffenheim-Wolfsburg,GER-BL1,17-18,f8483c4d
+79c90e45,Pavel Kadeřábek,3,CZE,RW,25-319,90,0,0,0,0,1,0,0,0,53,0,0,0,0.0,0.0,0.0,5,2,28,46,60.9,4,23,6,0,0,Hoffenheim,2018-03-10 Hoffenheim-Wolfsburg,GER-BL1,17-18,f8483c4d
+37f606f0,Dennis Geiger,32,GER,CM,19-273,42,0,0,0,0,0,0,0,0,27,0,0,0,0.0,0.0,0.1,2,0,27,27,100.0,7,15,1,0,0,Hoffenheim,2018-03-10 Hoffenheim-Wolfsburg,GER-BL1,17-18,f8483c4d
+fb2a63bb,Eugen Polanski,8,POL,CM,31-358,48,0,0,0,0,1,0,1,0,26,1,1,0,0.1,0.1,0.0,2,0,19,21,90.5,6,18,2,0,0,Hoffenheim,2018-03-10 Hoffenheim-Wolfsburg,GER-BL1,17-18,f8483c4d
+3faa1780,Lukas Rupp,7,GER,CM,27-061,90,0,0,0,0,0,0,0,0,34,2,3,0,0.0,0.0,0.1,1,0,23,29,79.3,3,21,2,1,1,Hoffenheim,2018-03-10 Hoffenheim-Wolfsburg,GER-BL1,17-18,f8483c4d
+ffbbc83b,Florian Grillitsch,11,AUT,DM,22-215,77,0,0,0,0,0,0,0,0,34,2,0,1,0.0,0.0,0.1,2,0,22,31,71.0,7,17,2,0,0,Hoffenheim,2018-03-10 Hoffenheim-Wolfsburg,GER-BL1,17-18,f8483c4d
+555d5edd,Nadiem Amiri,18,GER,DM,21-134,13,0,0,0,0,0,0,0,0,15,0,1,0,0.0,0.0,0.0,0,0,12,14,85.7,1,8,0,1,1,Hoffenheim,2018-03-10 Hoffenheim-Wolfsburg,GER-BL1,17-18,f8483c4d
+99de6b6f,Benjamin Hübner,21,GER,CB,28-249,90,0,0,0,0,0,0,0,0,70,1,2,2,0.0,0.0,0.0,1,0,48,59,81.4,4,30,0,0,0,Hoffenheim,2018-03-10 Hoffenheim-Wolfsburg,GER-BL1,17-18,f8483c4d
+1d8e9add,Kevin Vogt,22,GER,CB,26-168,90,0,0,0,0,0,0,0,0,63,2,1,0,0.0,0.0,0.0,0,0,52,58,89.7,6,30,0,0,0,Hoffenheim,2018-03-10 Hoffenheim-Wolfsburg,GER-BL1,17-18,f8483c4d
+6ec6fde0,Kevin Akpoguma,25,NGA,CB,22-325,90,0,0,0,0,1,0,0,0,46,2,2,0,0.0,0.0,0.1,1,0,33,37,89.2,5,28,1,0,0,Hoffenheim,2018-03-10 Hoffenheim-Wolfsburg,GER-BL1,17-18,f8483c4d
+47064058,Oliver Baumann,1,GER,GK,27-281,90,0,0,0,0,0,0,0,0,40,0,0,0,0.0,0.0,0.0,0,0,29,39,74.4,0,23,0,0,0,Hoffenheim,2018-03-10 Hoffenheim-Wolfsburg,GER-BL1,17-18,f8483c4d
+43a166b4,Divock Origi,14,BEL,FW,22-326,41,0,0,0,0,0,0,0,0,14,0,0,0,0.0,0.0,0.0,0,0,8,9,88.9,1,7,0,1,0,Wolfsburg,2018-03-10 Hoffenheim-Wolfsburg,GER-BL1,17-18,f8483c4d
+d4a2533d,Josip Brekalo,21,CRO,"RW,FW,AM",19-260,12,0,0,0,0,1,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,6,7,85.7,1,8,3,1,1,Wolfsburg,2018-03-10 Hoffenheim-Wolfsburg,GER-BL1,17-18,f8483c4d
+b5f63410,Landry Dimata,9,BEL,FW,20-190,37,0,0,0,0,0,0,0,0,13,0,0,0,0.0,0.0,0.1,2,0,11,11,100.0,1,6,0,0,0,Wolfsburg,2018-03-10 Hoffenheim-Wolfsburg,GER-BL1,17-18,f8483c4d
+f3722c97,Yunus Mallı,10,TUR,LW,26-014,81,0,0,0,0,1,0,0,0,44,0,0,1,0.0,0.0,0.0,2,0,20,36,55.6,3,23,6,1,1,Wolfsburg,2018-03-10 Hoffenheim-Wolfsburg,GER-BL1,17-18,f8483c4d
+dd669209,Renato Steffen,8,SUI,LW,26-127,9,0,0,0,0,1,1,0,0,3,0,0,0,0.1,0.1,0.0,0,0,1,1,100.0,0,1,0,0,0,Wolfsburg,2018-03-10 Hoffenheim-Wolfsburg,GER-BL1,17-18,f8483c4d
+d3096421,Daniel Didavi,11,GER,"RW,AM",28-017,90,0,0,0,0,2,0,0,0,50,0,0,1,0.1,0.1,0.0,0,0,35,44,79.5,6,20,0,1,1,Wolfsburg,2018-03-10 Hoffenheim-Wolfsburg,GER-BL1,17-18,f8483c4d
+b500b384,Admir Mehmedi,22,SUI,"AM,FW",26-359,90,0,0,0,0,1,0,0,0,41,0,1,0,0.0,0.0,0.1,2,0,26,35,74.3,3,21,1,0,0,Wolfsburg,2018-03-10 Hoffenheim-Wolfsburg,GER-BL1,17-18,f8483c4d
+da59a197,Riechedly Bazoer,6,NED,DM,21-149,90,0,0,0,0,0,0,0,0,50,2,0,0,0.0,0.0,0.0,2,0,40,46,87.0,4,17,1,0,0,Wolfsburg,2018-03-10 Hoffenheim-Wolfsburg,GER-BL1,17-18,f8483c4d
+e6c43eec,Josuha Guilavogui,23,FRA,DM,27-172,90,0,0,0,0,0,0,0,0,83,2,2,3,0.0,0.0,0.0,1,0,53,67,79.1,4,28,2,1,0,Wolfsburg,2018-03-10 Hoffenheim-Wolfsburg,GER-BL1,17-18,f8483c4d
+1ae836b1,Elvis Rexhbeçaj,37,GER,LB,20-129,90,0,0,0,0,0,0,0,0,54,3,1,3,0.0,0.0,0.0,0,0,36,46,78.3,2,15,2,1,0,Wolfsburg,2018-03-10 Hoffenheim-Wolfsburg,GER-BL1,17-18,f8483c4d
+6bd5cd5d,Robin Knoche,31,GER,CB,25-292,90,0,0,0,0,0,0,0,0,71,1,1,1,0.0,0.0,0.0,0,0,56,63,88.9,3,33,0,0,0,Wolfsburg,2018-03-10 Hoffenheim-Wolfsburg,GER-BL1,17-18,f8483c4d
+fbffc4b1,Jeffrey Bruma,5,NED,CB,26-117,90,0,0,0,0,0,0,1,0,69,0,2,2,0.0,0.0,0.0,0,0,59,63,93.7,3,36,0,0,0,Wolfsburg,2018-03-10 Hoffenheim-Wolfsburg,GER-BL1,17-18,f8483c4d
+97655ccd,Paul Verhaegh,3,NED,RB,34-190,90,0,0,0,0,0,0,0,0,92,0,2,2,0.0,0.0,0.0,3,0,66,79,83.5,9,40,2,0,0,Wolfsburg,2018-03-10 Hoffenheim-Wolfsburg,GER-BL1,17-18,f8483c4d
+db401046,Koen Casteels,1,BEL,GK,25-258,90,0,0,0,0,0,0,0,0,55,0,0,0,0.0,0.0,0.0,0,0,44,52,84.6,0,25,0,0,0,Wolfsburg,2018-03-10 Hoffenheim-Wolfsburg,GER-BL1,17-18,f8483c4d

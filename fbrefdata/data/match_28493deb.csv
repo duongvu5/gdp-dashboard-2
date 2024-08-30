@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+afa0d4e0,Mario Mandžukić,17,CRO,FW,31-189,90,1,0,0,0,5,2,0,0,58,2,1,0,0.5,0.5,0.1,3,0,32,47,68.1,3,26,0,0,0,Juventus,2017-11-26 Juventus-Crotone,ITA-SERIA_A,17-18,28493deb
+4fa7cb9b,Douglas Costa,11,BRA,"AM,LM",27-073,90,0,0,0,0,5,2,0,0,102,0,0,0,0.2,0.2,0.4,10,2,69,87,79.3,6,83,7,8,5,Juventus,2017-11-26 Juventus-Crotone,ITA-SERIA_A,17-18,28493deb
+e0921a4f,Paulo Dybala,10,ARG,"AM,FW",24-011,90,0,0,0,0,5,2,0,0,67,0,0,0,0.2,0.2,0.2,7,1,45,59,76.3,6,49,1,3,2,Juventus,2017-11-26 Juventus-Crotone,ITA-SERIA_A,17-18,28493deb
+c0cddebe,Blaise Matuidi,14,FRA,CM,30-231,90,0,0,0,0,3,0,1,0,109,2,3,0,0.3,0.3,0.0,6,0,92,99,92.9,7,79,2,2,2,Juventus,2017-11-26 Juventus-Crotone,ITA-SERIA_A,17-18,28493deb
+e304acd5,Claudio Marchisio,8,ITA,CM,31-311,76,0,0,0,0,2,1,0,0,89,1,0,0,0.0,0.0,0.0,3,0,74,83,89.2,6,60,4,1,1,Juventus,2017-11-26 Juventus-Crotone,ITA-SERIA_A,17-18,28493deb
+2334478a,Stefano Sturaro,27,ITA,RM,24-262,14,0,0,0,0,0,0,0,0,6,0,1,0,0.0,0.0,0.0,0,0,3,4,75.0,0,4,0,0,0,Juventus,2017-11-26 Juventus-Crotone,ITA-SERIA_A,17-18,28493deb
+0d82903c,Alex Sandro,12,BRA,"WB,LB",26-304,90,0,0,0,0,1,1,0,0,122,2,0,1,0.0,0.0,0.0,4,0,99,111,89.2,12,88,3,4,1,Juventus,2017-11-26 Juventus-Crotone,ITA-SERIA_A,17-18,28493deb
+99b1d0e6,Stephan Lichtsteiner,26,SUI,WB,33-314,56,0,0,0,0,0,0,0,0,40,1,0,0,0.0,0.0,0.0,1,0,32,37,86.5,5,30,5,0,0,Juventus,2017-11-26 Juventus-Crotone,ITA-SERIA_A,17-18,28493deb
+ae4e2852,Mattia De Sciglio,2,ITA,"WB,RB",25-037,34,1,0,0,0,1,1,0,0,35,0,0,0,0.0,0.0,0.0,0,0,26,31,83.9,2,28,0,0,0,Juventus,2017-11-26 Juventus-Crotone,ITA-SERIA_A,17-18,28493deb
+3b15ef2d,Medhi Benatia,4,MAR,CB,30-223,90,1,0,0,0,3,1,1,0,125,1,4,0,0.9,0.9,0.0,3,0,101,111,91.0,8,81,1,4,2,Juventus,2017-11-26 Juventus-Crotone,ITA-SERIA_A,17-18,28493deb
+d5c04323,Benedikt Höwedes,21,GER,CB,29-270,67,0,0,0,0,0,0,0,0,89,0,2,0,0.0,0.0,0.0,2,1,83,85,97.6,8,68,1,0,0,Juventus,2017-11-26 Juventus-Crotone,ITA-SERIA_A,17-18,28493deb
+ad6df2d5,Miralem Pjanić,5,BIH,"CM,CB",27-238,23,0,0,0,0,0,0,0,0,34,0,0,0,0.0,0.0,0.1,2,1,29,33,87.9,3,21,1,1,0,Juventus,2017-11-26 Juventus-Crotone,ITA-SERIA_A,17-18,28493deb
+7c0000fd,Andrea Barzagli,15,ITA,CB,36-202,90,0,1,0,0,0,0,0,0,135,0,0,1,0.0,0.0,0.3,3,1,123,130,94.6,13,100,1,0,0,Juventus,2017-11-26 Juventus-Crotone,ITA-SERIA_A,17-18,28493deb
+e40d028b,Gianluigi Buffon,1,ITA,GK,39-302,90,0,0,0,0,0,0,0,0,22,0,0,0,0.0,0.0,0.0,0,0,19,21,90.5,0,11,0,0,0,Juventus,2017-11-26 Juventus-Crotone,ITA-SERIA_A,17-18,28493deb
+8f3565b3,Ante Budimir,17,CRO,FW,26-127,90,0,0,0,0,1,1,1,0,46,3,1,2,0.0,0.0,0.0,0,0,14,23,60.9,0,22,3,0,0,Crotone,2017-11-26 Juventus-Crotone,ITA-SERIA_A,17-18,28493deb
+c15d1af9,Aleksandar Tonev,24,BUL,FW,27-296,74,0,0,0,0,2,0,0,0,7,0,1,1,0.1,0.1,0.0,1,0,1,2,50.0,0,5,2,1,1,Crotone,2017-11-26 Juventus-Crotone,ITA-SERIA_A,17-18,28493deb
+acdad0aa,Marcello Trotta,29,ITA,FW,25-058,16,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,3,6,50.0,1,4,1,1,1,Crotone,2017-11-26 Juventus-Crotone,ITA-SERIA_A,17-18,28493deb
+c7259b83,Rolando Mandragora,38,ITA,DM,20-150,90,0,0,0,0,1,0,0,0,25,1,1,1,0.0,0.0,0.0,0,0,13,17,76.5,0,12,1,0,0,Crotone,2017-11-26 Juventus-Crotone,ITA-SERIA_A,17-18,28493deb
+32ebfe1e,Andrea Barberis,18,ITA,DM,23-350,78,0,0,0,0,0,0,0,0,40,5,4,1,0.0,0.0,0.1,2,0,19,26,73.1,1,20,0,1,1,Crotone,2017-11-26 Juventus-Crotone,ITA-SERIA_A,17-18,28493deb
+9f069180,Aristóteles Romero,8,VEN,DM,22-039,12,0,0,0,0,0,0,0,0,4,2,0,0,0.0,0.0,0.0,0,0,1,3,33.3,0,1,0,0,0,Crotone,2017-11-26 Juventus-Crotone,ITA-SERIA_A,17-18,28493deb
+b5b27493,Marcus Rohdén,6,SWE,DM,26-199,90,0,0,0,0,0,0,1,0,35,2,0,1,0.0,0.0,0.0,1,0,19,28,67.9,1,9,1,0,0,Crotone,2017-11-26 Juventus-Crotone,ITA-SERIA_A,17-18,28493deb
+47146acb,Daniel Pavlović,20,BIH,WB,29-218,90,0,0,0,0,0,0,0,0,34,2,1,2,0.0,0.0,0.0,0,0,10,20,50.0,0,7,2,0,0,Crotone,2017-11-26 Juventus-Crotone,ITA-SERIA_A,17-18,28493deb
+65c75ea8,Andrea Nalini,9,ITA,WB,27-159,84,0,0,0,0,0,0,0,0,33,3,2,1,0.0,0.0,0.0,0,0,10,24,41.7,1,13,1,0,0,Crotone,2017-11-26 Juventus-Crotone,ITA-SERIA_A,17-18,28493deb
+aae9d04a,Davide Faraoni,37,ITA,WB,26-032,6,0,0,0,0,0,0,0,0,5,0,1,0,0.0,0.0,0.0,0,0,3,4,75.0,0,2,0,0,0,Crotone,2017-11-26 Juventus-Crotone,ITA-SERIA_A,17-18,28493deb
+d9624b51,Federico Ceccherini,7,ITA,CB,25-199,90,0,0,0,0,0,0,0,0,28,1,1,0,0.0,0.0,0.0,0,0,8,12,66.7,0,7,0,1,1,Crotone,2017-11-26 Juventus-Crotone,ITA-SERIA_A,17-18,28493deb
+f9714604,Arlind Ajeti,93,ALB,CB,24-062,90,0,0,0,0,0,0,0,0,28,7,3,2,0.0,0.0,0.0,2,0,7,10,70.0,1,5,1,0,0,Crotone,2017-11-26 Juventus-Crotone,ITA-SERIA_A,17-18,28493deb
+cda2ec29,Mario Sampirisi,69,ITA,CB,25-026,90,0,0,0,0,0,0,0,0,32,3,3,3,0.0,0.0,0.0,0,0,9,22,40.9,0,8,0,0,0,Crotone,2017-11-26 Juventus-Crotone,ITA-SERIA_A,17-18,28493deb
+e66ebabb,Alex Cordaz,1,ITA,GK,34-329,90,0,0,0,0,0,0,0,0,36,0,0,0,0.0,0.0,0.0,0,0,11,34,32.4,0,16,0,0,0,Crotone,2017-11-26 Juventus-Crotone,ITA-SERIA_A,17-18,28493deb

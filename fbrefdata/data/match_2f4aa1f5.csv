@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+8d78e732,Robert Lewandowski,9,POL,FW,30-242,90,0,0,0,0,8,2,0,0,37,1,0,0,0.7,0.7,0.0,4,0,14,21,66.7,2,25,3,5,3,Bayern Munich,2019-04-20 Bayern Munich-Werder Bremen,GER-BL1,18-19,2f4aa1f5
+042e8a49,Kingsley Coman,29,FRA,LW,22-311,90,0,0,0,0,0,0,0,0,55,0,0,2,0.0,0.0,0.4,3,0,36,46,78.3,2,41,5,6,1,Bayern Munich,2019-04-20 Bayern Munich-Werder Bremen,GER-BL1,18-19,2f4aa1f5
+88e357ef,Serge Gnabry,22,GER,RW,23-280,86,0,0,0,0,5,2,0,0,52,1,0,1,0.5,0.5,0.0,3,0,32,40,80.0,0,35,5,0,0,Bayern Munich,2019-04-20 Bayern Munich-Werder Bremen,GER-BL1,18-19,2f4aa1f5
+032f894e,Renato Sanches,35,POR,RW,21-245,4,0,0,0,0,1,0,0,0,5,0,0,0,0.1,0.1,0.0,0,0,1,2,50.0,1,4,2,0,0,Bayern Munich,2019-04-20 Bayern Munich-Werder Bremen,GER-BL1,18-19,2f4aa1f5
+3c6089ab,Thomas Müller,25,GER,AM,29-219,69,0,0,0,0,2,1,0,0,45,0,1,0,0.2,0.2,0.0,3,0,28,40,70.0,6,24,4,0,0,Bayern Munich,2019-04-20 Bayern Munich-Werder Bremen,GER-BL1,18-19,2f4aa1f5
+f61c7c4e,Franck Ribéry,7,FRA,AM,36-013,21,0,0,0,0,1,0,0,0,19,0,0,0,0.1,0.1,0.0,0,0,15,17,88.2,3,14,3,2,1,Bayern Munich,2019-04-20 Bayern Munich-Werder Bremen,GER-BL1,18-19,2f4aa1f5
+7f97771d,Javi Martínez,8,ESP,DM,30-230,58,0,0,0,0,1,0,0,0,45,0,1,0,0.1,0.1,0.1,3,0,38,40,95.0,3,26,1,0,0,Bayern Munich,2019-04-20 Bayern Munich-Werder Bremen,GER-BL1,18-19,2f4aa1f5
+cc86b9a3,Leon Goretzka,18,GER,DM,24-073,32,0,0,0,0,2,0,0,0,18,0,0,0,0.5,0.5,0.4,4,0,14,15,93.3,5,10,1,0,0,Bayern Munich,2019-04-20 Bayern Munich-Werder Bremen,GER-BL1,18-19,2f4aa1f5
+77e84962,Thiago Alcántara,6,ESP,DM,28-009,90,0,1,0,0,2,0,0,0,88,2,0,0,0.1,0.1,0.6,9,1,69,80,86.3,11,41,2,1,1,Bayern Munich,2019-04-20 Bayern Munich-Werder Bremen,GER-BL1,18-19,2f4aa1f5
+05439de2,David Alaba,27,AUT,LB,26-300,90,0,0,0,0,4,1,0,0,104,1,0,1,0.2,0.2,0.0,3,1,80,97,82.5,13,64,6,1,1,Bayern Munich,2019-04-20 Bayern Munich-Werder Bremen,GER-BL1,18-19,2f4aa1f5
+2db2fd7b,Jérôme Boateng,17,GER,CB,30-229,90,0,0,0,0,0,0,0,0,90,0,1,0,0.0,0.0,0.2,3,0,73,85,85.9,6,54,1,1,1,Bayern Munich,2019-04-20 Bayern Munich-Werder Bremen,GER-BL1,18-19,2f4aa1f5
+e33c06cf,Niklas Süle,4,GER,CB,23-229,90,1,0,0,0,2,1,0,0,84,0,0,3,0.1,0.1,0.0,3,0,74,77,96.1,8,61,0,0,0,Bayern Munich,2019-04-20 Bayern Munich-Werder Bremen,GER-BL1,18-19,2f4aa1f5
+49296448,Joshua Kimmich,32,GER,RB,24-071,90,0,0,0,0,0,0,0,0,114,3,1,1,0.0,0.0,0.5,10,0,88,107,82.2,9,69,6,2,1,Bayern Munich,2019-04-20 Bayern Munich-Werder Bremen,GER-BL1,18-19,2f4aa1f5
+7d3e7da6,Sven Ulreich,26,GER,GK,30-260,90,0,0,0,0,0,0,0,0,25,0,0,0,0.0,0.0,0.0,1,0,20,25,80.0,0,14,0,0,0,Bayern Munich,2019-04-20 Bayern Munich-Werder Bremen,GER-BL1,18-19,2f4aa1f5
+6c6a3300,Milot Rashica,11,KVX,FW,22-296,72,0,0,0,0,1,0,0,0,19,0,0,1,0.0,0.0,0.0,1,0,8,10,80.0,0,12,1,2,2,Werder Bremen,2019-04-20 Bayern Munich-Werder Bremen,GER-BL1,18-19,2f4aa1f5
+f69fba57,Yuya Osako,8,JPN,FW,28-337,18,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,3,3,100.0,0,5,0,0,0,Werder Bremen,2019-04-20 Bayern Munich-Werder Bremen,GER-BL1,18-19,2f4aa1f5
+f9446dcd,Max Kruse,10,GER,FW,31-032,90,0,0,0,0,1,0,0,0,42,1,0,3,0.0,0.0,0.0,1,0,24,33,72.7,3,21,3,2,1,Werder Bremen,2019-04-20 Bayern Munich-Werder Bremen,GER-BL1,18-19,2f4aa1f5
+beb882a8,Maximilian Eggestein,35,GER,AM,22-133,90,0,0,0,0,1,0,0,0,32,2,0,1,0.1,0.1,0.1,2,0,14,21,66.7,4,11,0,2,0,Werder Bremen,2019-04-20 Bayern Munich-Werder Bremen,GER-BL1,18-19,2f4aa1f5
+15fd5593,Davy Klaassen,30,NED,LM,26-058,90,0,0,0,0,0,0,0,0,30,0,1,3,0.0,0.0,0.0,1,0,12,22,54.5,3,11,0,1,0,Werder Bremen,2019-04-20 Bayern Munich-Werder Bremen,GER-BL1,18-19,2f4aa1f5
+f4081572,Nuri Şahin,17,TUR,CM,30-227,80,0,0,0,0,0,0,0,0,52,3,2,0,0.0,0.0,0.0,0,0,30,39,76.9,1,16,1,0,0,Werder Bremen,2019-04-20 Bayern Munich-Werder Bremen,GER-BL1,18-19,2f4aa1f5
+54b6ee79,Claudio Pizarro,4,PER,CM,40-199,10,0,0,0,0,0,0,0,0,5,1,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,1,0,0,0,Werder Bremen,2019-04-20 Bayern Munich-Werder Bremen,GER-BL1,18-19,2f4aa1f5
+a5ce09f2,Kevin Möhwald,6,GER,RM,25-291,59,0,0,0,0,0,0,0,0,27,1,0,1,0.0,0.0,0.0,0,0,14,21,66.7,0,8,1,1,1,Werder Bremen,2019-04-20 Bayern Munich-Werder Bremen,GER-BL1,18-19,2f4aa1f5
+74d70fb5,Sebastian Langkamp,15,GER,CB,31-095,31,0,0,0,0,0,0,0,0,9,1,0,0,0.0,0.0,0.0,0,0,4,5,80.0,0,5,0,0,0,Werder Bremen,2019-04-20 Bayern Munich-Werder Bremen,GER-BL1,18-19,2f4aa1f5
+9fec8860,Ludwig Augustinsson,5,SWE,LB,24-364,90,0,0,0,0,0,0,0,0,50,2,2,2,0.0,0.0,0.0,0,0,24,35,68.6,0,14,1,0,0,Werder Bremen,2019-04-20 Bayern Munich-Werder Bremen,GER-BL1,18-19,2f4aa1f5
+00844823,Niklas Moisander,18,FIN,CB,33-203,90,0,0,0,0,0,0,0,0,42,0,0,3,0.0,0.0,0.0,0,0,23,30,76.7,1,24,0,0,0,Werder Bremen,2019-04-20 Bayern Munich-Werder Bremen,GER-BL1,18-19,2f4aa1f5
+a5ae8f8e,Miloš Veljković,13,SRB,CB,23-206,57,0,0,0,0,0,0,2,1,27,1,2,1,0.0,0.0,0.0,0,0,13,17,76.5,1,6,0,0,0,Werder Bremen,2019-04-20 Bayern Munich-Werder Bremen,GER-BL1,18-19,2f4aa1f5
+3f65898c,Theodor Gebre Selassie,23,CZE,RB,32-117,90,0,0,0,0,0,0,0,0,37,4,5,1,0.0,0.0,0.1,1,0,19,25,76.0,2,9,1,0,0,Werder Bremen,2019-04-20 Bayern Munich-Werder Bremen,GER-BL1,18-19,2f4aa1f5
+0a1cb833,Jiří Pavlenka,1,CZE,GK,27-006,90,0,0,0,0,0,0,0,0,50,0,0,0,0.0,0.0,0.0,0,0,28,44,63.6,0,14,0,0,0,Werder Bremen,2019-04-20 Bayern Munich-Werder Bremen,GER-BL1,18-19,2f4aa1f5

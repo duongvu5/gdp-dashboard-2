@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+b39bf63f,Marcus Berg,33,SWE,FW,33-047,90,0,0,0,0,2,1,1,0,41,0,1,0,0.7,0.7,0.0,2,0,19,32,59.4,2,31,1,0,0,Krasnodar,2019-10-03 Krasnodar-Getafe,UEL,19-20,cf2cc427
+1a672e2d,Younes Namli,21,DEN,LM,25-105,69,0,0,0,0,0,0,0,0,35,1,0,0,0.0,0.0,0.1,2,0,19,32,59.4,3,27,1,1,1,Krasnodar,2019-10-03 Krasnodar-Getafe,UEL,19-20,cf2cc427
+13ac19de,Manuel Fernandes,99,POR,LM,33-240,21,0,0,0,0,1,0,0,0,15,0,1,0,0.0,0.0,0.0,0,0,6,9,66.7,0,11,1,1,0,Krasnodar,2019-10-03 Krasnodar-Getafe,UEL,19-20,cf2cc427
+fa73ccc7,Kristoffer Olsson,14,SWE,CM,24-095,73,0,0,0,0,0,0,0,0,33,1,1,0,0.0,0.0,0.1,1,0,26,29,89.7,0,27,0,0,0,Krasnodar,2019-10-03 Krasnodar-Getafe,UEL,19-20,cf2cc427
+9ddb85e8,Daniil Utkin,47,RUS,CM,19-356,17,0,0,0,0,1,0,0,0,14,0,0,0,0.4,0.4,0.0,1,0,9,12,75.0,1,10,0,0,0,Krasnodar,2019-10-03 Krasnodar-Getafe,UEL,19-20,cf2cc427
+c7069d87,Tonny Vilhena,52,NED,CM,24-273,90,0,0,0,0,2,0,1,0,51,1,1,0,0.1,0.1,0.0,2,0,29,39,74.4,3,32,1,1,1,Krasnodar,2019-10-03 Krasnodar-Getafe,UEL,19-20,cf2cc427
+d94653be,Magomed-Shapi Suleymanov,93,RUS,RM,19-291,90,0,1,0,0,0,0,0,0,35,3,0,0,0.0,0.0,0.6,0,0,17,26,65.4,3,24,2,0,0,Krasnodar,2019-10-03 Krasnodar-Getafe,UEL,19-20,cf2cc427
+7b8ff0ac,Jón Guðni Fjóluson,3,ISL,DM,30-176,45,0,0,0,0,0,0,1,0,25,0,0,0,0.0,0.0,0.0,0,0,14,22,63.6,1,17,0,1,1,Krasnodar,2019-10-03 Krasnodar-Getafe,UEL,19-20,cf2cc427
+30643ce2,Ari,9,RUS,FW,33-296,45,1,0,0,0,2,2,1,0,32,1,0,1,0.6,0.6,0.4,3,1,15,20,75.0,1,21,0,2,2,Krasnodar,2019-10-03 Krasnodar-Getafe,UEL,19-20,cf2cc427
+8a1d7b51,Cristian Ramírez,6,ECU,LB,25-052,90,0,0,0,0,3,0,0,0,77,0,0,0,0.1,0.1,0.0,4,1,58,69,84.1,2,56,5,3,2,Krasnodar,2019-10-03 Krasnodar-Getafe,UEL,19-20,cf2cc427
+02ce2030,Uroš Spajić,5,SRB,CB,26-232,90,0,0,0,0,0,0,0,0,66,1,1,0,0.0,0.0,0.0,0,0,39,56,69.6,6,39,0,0,0,Krasnodar,2019-10-03 Krasnodar-Getafe,UEL,19-20,cf2cc427
+675b0427,Alyaksandr Martynovich,4,BLR,CB,32-038,90,0,0,0,0,0,0,0,0,67,2,3,1,0.0,0.0,0.0,1,0,43,55,78.2,3,47,0,0,0,Krasnodar,2019-10-03 Krasnodar-Getafe,UEL,19-20,cf2cc427
+17145c90,Sergei Petrov,98,RUS,RB,28-274,90,0,0,0,0,0,0,0,0,61,2,0,1,0.0,0.0,0.0,3,0,42,55,76.4,5,34,2,1,1,Krasnodar,2019-10-03 Krasnodar-Getafe,UEL,19-20,cf2cc427
+d97b252e,Matvei Safonov,39,RUS,GK,20-220,90,0,0,0,0,0,0,0,0,38,0,0,0,0.0,0.0,0.0,0,0,24,36,66.7,0,15,0,0,0,Krasnodar,2019-10-03 Krasnodar-Getafe,UEL,19-20,cf2cc427
+82e9b89d,Enric Gallego,10,ESP,FW,33-021,90,0,0,0,0,5,1,0,0,39,1,0,1,0.7,0.7,0.4,4,2,13,21,61.9,0,18,0,3,2,Getafe,2019-10-03 Krasnodar-Getafe,UEL,19-20,cf2cc427
+8cfc2f69,Ángel Rodríguez,9,ESP,FW,32-160,83,2,0,0,0,4,2,1,0,22,1,0,0,1.0,1.0,0.1,3,0,10,12,83.3,1,14,2,0,0,Getafe,2019-10-03 Krasnodar-Getafe,UEL,19-20,cf2cc427
+00b28772,Nemanja Maksimović,20,SRB,FW,24-250,7,0,0,0,0,0,0,0,0,9,0,1,0,0.0,0.0,0.0,0,0,5,6,83.3,0,2,0,0,0,Getafe,2019-10-03 Krasnodar-Getafe,UEL,19-20,cf2cc427
+5eebbfdf,Kenedy,25,BRA,LM,23-237,75,0,1,0,0,1,0,0,0,29,0,1,0,0.1,0.1,0.5,2,1,8,16,50.0,1,20,3,4,2,Getafe,2019-10-03 Krasnodar-Getafe,UEL,19-20,cf2cc427
+1daec722,Marc Cucurella,15,ESP,LM,21-073,15,0,0,0,0,0,0,0,0,8,2,0,0,0.0,0.0,0.0,1,0,5,6,83.3,1,3,1,0,0,Getafe,2019-10-03 Krasnodar-Getafe,UEL,19-20,cf2cc427
+174651c8,David Timor,24,ESP,CM,29-351,80,0,0,0,0,2,0,2,1,27,0,0,0,0.4,0.4,0.0,1,0,15,20,75.0,2,9,0,1,1,Getafe,2019-10-03 Krasnodar-Getafe,UEL,19-20,cf2cc427
+79135368,Fayçal Fajr,21,MAR,CM,31-063,90,0,0,0,0,3,0,0,0,60,5,2,0,0.1,0.1,0.1,4,0,30,47,63.8,2,25,2,0,0,Getafe,2019-10-03 Krasnodar-Getafe,UEL,19-20,cf2cc427
+8e010ff4,Francisco Portillo,8,ESP,RM,29-112,71,0,0,0,0,0,0,0,0,36,0,0,0,0.0,0.0,0.2,3,0,21,31,67.7,3,23,1,0,0,Getafe,2019-10-03 Krasnodar-Getafe,UEL,19-20,cf2cc427
+9038c2a1,Jason,23,ESP,RM,25-089,19,0,0,0,0,0,0,0,0,10,2,0,0,0.0,0.0,0.0,1,0,7,9,77.8,1,3,1,0,0,Getafe,2019-10-03 Krasnodar-Getafe,UEL,19-20,cf2cc427
+1a317a1b,Raúl García,14,ESP,LB,30-156,90,0,1,0,0,0,0,1,0,50,2,1,1,0.0,0.0,0.5,5,1,23,38,60.5,1,14,2,0,0,Getafe,2019-10-03 Krasnodar-Getafe,UEL,19-20,cf2cc427
+69cbc8b6,Leandro Cabrera,6,URU,CB,28-108,90,0,0,0,0,1,0,0,0,28,0,1,0,0.1,0.1,0.0,1,0,13,20,65.0,0,6,0,0,0,Getafe,2019-10-03 Krasnodar-Getafe,UEL,19-20,cf2cc427
+f11fe861,Bruno González,4,ESP,CB,29-132,90,0,0,0,0,0,0,1,0,38,2,0,2,0.0,0.0,0.0,1,0,17,28,60.7,1,9,0,0,0,Getafe,2019-10-03 Krasnodar-Getafe,UEL,19-20,cf2cc427
+97572117,Allan Nyom,12,CMR,RB,31-146,90,0,0,0,0,1,0,0,0,50,1,3,0,0.0,0.0,0.0,1,0,23,37,62.2,2,19,1,2,2,Getafe,2019-10-03 Krasnodar-Getafe,UEL,19-20,cf2cc427
+8d957256,Leandro Chichizola,1,ARG,GK,29-190,90,0,0,0,0,0,0,0,0,36,0,0,0,0.0,0.0,0.0,0,0,10,33,30.3,0,17,0,0,0,Getafe,2019-10-03 Krasnodar-Getafe,UEL,19-20,cf2cc427

@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+d705ba44,Andrea Belotti,11,ITA,FW,29-289,90,2,0,0,0,4,2,0,0,32,2,0,1,0.5,0.5,0.6,5,1,15,19,78.9,1,25,2,3,1,Roma,2023-10-05 Roma-Servette FC,UEL,23-24,ca9df6d6
+5eae500a,Romelu Lukaku,90,BEL,FW,30-145,63,1,0,0,0,3,2,0,0,31,0,0,0,0.8,0.8,0.0,3,1,12,22,54.5,1,22,0,1,0,Roma,2023-10-05 Roma-Servette FC,UEL,23-24,ca9df6d6
+45191c29,Nicola Zalewski,59,POL,WB,21-255,27,0,0,0,0,1,0,0,0,22,1,0,0,0.1,0.1,0.0,0,0,15,16,93.8,2,15,1,2,0,Roma,2023-10-05 Roma-Servette FC,UEL,23-24,ca9df6d6
+a5db0bec,Houssem Aouar,22,ALG,CM,25-097,45,0,0,0,0,1,0,0,0,21,0,0,0,0.0,0.0,0.0,1,0,14,18,77.8,4,20,2,1,1,Roma,2023-10-05 Roma-Servette FC,UEL,23-24,ca9df6d6
+4a5a45c7,Lorenzo Pellegrini,7,ITA,CM,27-108,12,1,1,0,0,1,1,0,0,12,0,0,0,0.1,0.1,0.2,2,1,9,9,100.0,4,10,0,2,0,Roma,2023-10-05 Roma-Servette FC,UEL,23-24,ca9df6d6
+b5b9bde7,Riccardo Pagano,60,ITA,CM,18-311,33,0,0,0,0,2,0,0,0,13,1,1,0,0.1,0.1,0.0,3,1,7,8,87.5,0,10,0,0,0,Roma,2023-10-05 Roma-Servette FC,UEL,23-24,ca9df6d6
+dff153a4,Leandro Paredes,16,ARG,CM,29-098,90,0,1,0,0,1,0,0,0,83,2,0,2,0.0,0.0,0.5,4,1,64,71,90.1,7,58,0,2,1,Roma,2023-10-05 Roma-Servette FC,UEL,23-24,ca9df6d6
+ae94a6c5,Edoardo Bove,52,ITA,CM,21-142,76,0,0,0,0,0,0,0,0,41,1,1,0,0.0,0.0,0.3,3,0,28,34,82.4,3,33,0,2,1,Roma,2023-10-05 Roma-Servette FC,UEL,23-24,ca9df6d6
+38bf8baa,Francesco D'Alessio,68,ITA,CM,19-226,14,0,0,0,0,0,0,0,0,11,2,1,1,0.0,0.0,0.0,0,0,5,6,83.3,0,7,0,0,0,Roma,2023-10-05 Roma-Servette FC,UEL,23-24,ca9df6d6
+d3aaad90,Stephan El Shaarawy,92,ITA,"WB,FW",30-343,90,0,0,0,0,4,1,0,0,59,0,0,0,0.6,0.6,0.0,2,1,41,51,80.4,3,43,6,1,0,Roma,2023-10-05 Roma-Servette FC,UEL,23-24,ca9df6d6
+31a62dc7,Zeki Çelik,19,TUR,"WB,CB",26-230,90,0,2,0,0,0,0,0,0,66,7,1,2,0.0,0.0,0.5,4,2,46,53,86.8,4,37,0,1,0,Roma,2023-10-05 Roma-Servette FC,UEL,23-24,ca9df6d6
+441197b8,Obite N'Dicka,5,CIV,CB,24-046,90,0,0,0,0,1,1,0,0,74,0,0,1,0.0,0.0,0.0,0,0,59,67,88.1,5,64,0,0,0,Roma,2023-10-05 Roma-Servette FC,UEL,23-24,ca9df6d6
+16657b95,Bryan Cristante,4,ITA,CB,28-216,90,0,0,0,0,0,0,0,0,70,2,2,2,0.0,0.0,0.0,0,0,59,64,92.2,2,59,0,0,0,Roma,2023-10-05 Roma-Servette FC,UEL,23-24,ca9df6d6
+5aa53281,Gianluca Mancini,23,ITA,CB,27-171,63,0,0,0,0,0,0,0,0,40,1,0,1,0.0,0.0,0.0,1,0,33,38,86.8,4,30,0,0,0,Roma,2023-10-05 Roma-Servette FC,UEL,23-24,ca9df6d6
+9f84febe,Rick Karsdorp,2,NED,WB,28-236,27,0,0,0,0,0,0,0,0,22,1,1,0,0.0,0.0,0.0,1,0,16,18,88.9,1,20,0,1,0,Roma,2023-10-05 Roma-Servette FC,UEL,23-24,ca9df6d6
+bcf5058a,Mile Svilar,99,SRB,GK,24-039,90,0,0,0,0,0,0,0,0,26,0,0,0,0.0,0.0,0.0,1,0,20,25,80.0,0,16,0,0,0,Roma,2023-10-05 Roma-Servette FC,UEL,23-24,ca9df6d6
+1b6862e8,Dereck Kutesa,17,SUI,"FW,LM",25-303,63,0,0,0,0,1,1,0,0,16,0,0,2,0.0,0.0,0.0,0,0,8,8,100.0,1,14,1,3,1,Servette FC,2023-10-05 Roma-Servette FC,UEL,23-24,ca9df6d6
+b6ca3ab3,Bendegúz Bolla,77,HUN,LM,23-317,27,0,0,0,0,0,0,0,0,14,1,0,0,0.0,0.0,0.0,0,0,10,13,76.9,0,12,1,0,0,Servette FC,2023-10-05 Roma-Servette FC,UEL,23-24,ca9df6d6
+ec11ecf8,Chris Bedia,29,CIV,FW,27-214,73,0,0,0,0,1,0,0,0,11,0,0,1,0.1,0.1,0.0,0,0,5,6,83.3,0,9,0,1,1,Servette FC,2023-10-05 Roma-Servette FC,UEL,23-24,ca9df6d6
+1c358b2e,David Douline,28,FRA,FW,30-130,17,0,0,0,0,1,0,1,0,12,1,0,0,0.0,0.0,0.0,0,0,8,8,100.0,2,7,0,0,0,Servette FC,2023-10-05 Roma-Servette FC,UEL,23-24,ca9df6d6
+06f33dc8,Enzo Crivelli,27,FRA,"LM,FW",28-241,62,0,0,0,0,1,0,0,0,18,0,0,1,0.0,0.0,0.0,0,0,9,14,64.3,0,9,0,0,0,Servette FC,2023-10-05 Roma-Servette FC,UEL,23-24,ca9df6d6
+8d5d4b89,Jérémy Guillemenot,21,SUI,FW,25-272,28,0,0,0,0,2,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,3,0,0,0,Servette FC,2023-10-05 Roma-Servette FC,UEL,23-24,ca9df6d6
+7c41b738,Gaël Ondoua,5,CMR,CM,27-335,90,0,0,0,0,0,0,1,0,71,2,0,3,0.0,0.0,0.0,1,0,57,60,95.0,4,55,1,1,0,Servette FC,2023-10-05 Roma-Servette FC,UEL,23-24,ca9df6d6
+c0eeaa39,Alexis Antunes,10,SUI,CM,23-066,63,0,0,0,0,0,0,0,0,36,6,3,2,0.0,0.0,0.0,3,0,16,21,76.2,1,24,1,2,1,Servette FC,2023-10-05 Roma-Servette FC,UEL,23-24,ca9df6d6
+a1932f00,Timothé Cognat,8,FRA,CM,25-253,27,0,0,0,0,0,0,0,0,22,1,0,0,0.0,0.0,0.0,1,0,17,19,89.5,1,19,1,0,0,Servette FC,2023-10-05 Roma-Servette FC,UEL,23-24,ca9df6d6
+73d430c6,Miroslav Stevanović,9,BIH,RM,33-068,87,0,0,0,0,2,0,0,0,39,0,0,1,0.1,0.1,0.1,4,0,17,29,58.6,3,25,3,1,1,Servette FC,2023-10-05 Roma-Servette FC,UEL,23-24,ca9df6d6
+756ff73f,Hussayn Touati,45,FRA,RM,22-002,3,0,0,0,0,0,0,0,0,7,1,0,0,0.0,0.0,0.0,2,0,4,5,80.0,0,5,0,0,0,Servette FC,2023-10-05 Roma-Servette FC,UEL,23-24,ca9df6d6
+d1562e2e,Bradley Mazikou,18,CGO,LB,27-125,90,0,0,0,0,0,0,0,0,88,3,0,0,0.0,0.0,0.1,1,0,66,81,81.5,5,68,2,3,1,Servette FC,2023-10-05 Roma-Servette FC,UEL,23-24,ca9df6d6
+55bf8287,Yoan Severin,19,FRA,CB,26-254,90,0,0,0,0,0,0,0,0,59,1,4,2,0.0,0.0,0.0,1,0,43,46,93.5,2,38,0,0,0,Servette FC,2023-10-05 Roma-Servette FC,UEL,23-24,ca9df6d6
+88d56da3,Nicolas Vouilloz,33,SUI,CB,22-147,90,0,0,0,0,0,0,0,0,60,2,1,3,0.0,0.0,0.1,2,0,47,52,90.4,5,45,1,0,0,Servette FC,2023-10-05 Roma-Servette FC,UEL,23-24,ca9df6d6
+5e5273eb,Keigo Tsunemoto,3,JPN,RB,24-349,90,0,0,0,0,0,0,0,0,48,1,0,4,0.0,0.0,0.0,0,0,33,38,86.8,4,32,3,1,1,Servette FC,2023-10-05 Roma-Servette FC,UEL,23-24,ca9df6d6
+a88c2e88,Jérémy Frick,32,SUI,GK,30-211,90,0,0,0,0,0,0,0,0,33,0,0,0,0.0,0.0,0.0,0,0,24,32,75.0,0,25,0,0,0,Servette FC,2023-10-05 Roma-Servette FC,UEL,23-24,ca9df6d6

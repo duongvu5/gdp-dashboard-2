@@ -1,0 +1,29 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+5d59e0df,Emiliano Sala,9,ARG,FW,28-074,74,0,0,0,0,2,0,0,0,25,0,1,2,0.1,0.1,0.0,2,0,11,16,68.8,1,13,0,0,0,Nantes,2019-01-13 Nantes-Rennes,FRA-L1,18-19,4bf2a5d7
+9980269a,Kalifa Coulibaly,7,MLI,FW,27-145,16,0,0,0,0,1,0,0,0,8,0,0,0,0.1,0.1,0.1,2,0,3,6,50.0,0,4,1,0,0,Nantes,2019-01-13 Nantes-Rennes,FRA-L1,18-19,4bf2a5d7
+ccee698e,Anthony Limbombe,22,BEL,LW,24-182,82,0,0,0,0,6,1,0,0,35,1,0,0,0.7,0.7,0.1,6,0,13,20,65.0,1,24,1,2,2,Nantes,2019-01-13 Nantes-Rennes,FRA-L1,18-19,4bf2a5d7
+af0c835b,Samuel Moutoussamy,18,COD,AM,22-154,8,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,3,3,100.0,0,3,0,1,1,Nantes,2019-01-13 Nantes-Rennes,FRA-L1,18-19,4bf2a5d7
+46907171,Abdul Majeed Waris,10,GHA,"RW,LW",27-116,90,0,0,0,0,3,1,1,0,40,2,1,0,0.4,0.4,0.5,5,0,15,23,65.2,3,31,1,3,1,Nantes,2019-01-13 Nantes-Rennes,FRA-L1,18-19,4bf2a5d7
+ed45c4a5,Valentin Rongier,28,FRA,"LM,DM",24-037,90,0,0,0,0,2,0,0,0,70,5,1,0,0.1,0.1,0.4,8,0,51,62,82.3,14,45,7,1,0,Nantes,2019-01-13 Nantes-Rennes,FRA-L1,18-19,4bf2a5d7
+3befc2b6,Andrei Girotto,20,BRA,CM,26-330,63,0,0,0,0,2,1,1,0,46,1,0,0,0.0,0.0,0.0,1,0,30,39,76.9,3,30,1,0,0,Nantes,2019-01-13 Nantes-Rennes,FRA-L1,18-19,4bf2a5d7
+e90af77c,Gabriel Boschilia,12,BRA,"AM,RW",22-314,27,0,0,0,0,0,0,0,0,15,0,0,0,0.0,0.0,0.1,4,0,11,11,100.0,2,10,1,0,0,Nantes,2019-01-13 Nantes-Rennes,FRA-L1,18-19,4bf2a5d7
+ef7cd87a,Abdoulaye Touré,19,GUI,"RM,DM",24-316,90,0,0,0,0,4,0,0,0,66,3,1,1,0.2,0.2,0.1,6,0,37,50,74.0,6,45,6,4,3,Nantes,2019-01-13 Nantes-Rennes,FRA-L1,18-19,4bf2a5d7
+0f52f925,Lucas Lima,6,BRA,LB,27-095,90,0,0,0,0,0,0,1,0,74,1,1,2,0.0,0.0,0.1,4,0,45,68,66.2,5,39,1,2,1,Nantes,2019-01-13 Nantes-Rennes,FRA-L1,18-19,4bf2a5d7
+779847d6,Nicolas Pallois,4,FRA,CB,31-116,90,0,0,0,0,1,0,1,0,80,2,0,0,0.1,0.1,0.0,0,0,59,73,80.8,11,56,2,5,3,Nantes,2019-01-13 Nantes-Rennes,FRA-L1,18-19,4bf2a5d7
+b4a014b1,Diego Carlos,3,BRA,CB,25-304,90,0,0,0,0,1,0,0,0,86,2,1,3,0.0,0.0,0.0,1,0,69,77,89.6,6,58,3,0,0,Nantes,2019-01-13 Nantes-Rennes,FRA-L1,18-19,4bf2a5d7
+bc7b4580,Fábio,2,BRA,RB,28-188,90,0,0,0,0,0,0,1,0,68,7,0,4,0.0,0.0,0.0,1,0,31,50,62.0,5,31,2,1,0,Nantes,2019-01-13 Nantes-Rennes,FRA-L1,18-19,4bf2a5d7
+b056e3da,Ciprian Tătărușanu,30,ROU,GK,32-338,90,0,0,0,0,0,0,0,0,24,0,0,0,0.0,0.0,0.0,0,0,23,24,95.8,0,19,0,0,0,Nantes,2019-01-13 Nantes-Rennes,FRA-L1,18-19,4bf2a5d7
+bfdb33aa,Ismaila Sarr,7,SEN,"FW,LM",20-322,90,0,0,0,0,1,0,0,0,30,1,1,0,0.0,0.0,0.0,2,1,12,15,80.0,1,19,4,6,0,Rennes,2019-01-13 Nantes-Rennes,FRA-L1,18-19,4bf2a5d7
+74dc806c,Hatem Ben Arfa,18,FRA,FW,31-312,90,0,1,0,0,0,0,0,0,37,1,0,0,0.0,0.0,0.2,4,1,27,29,93.1,3,26,6,6,4,Rennes,2019-01-13 Nantes-Rennes,FRA-L1,18-19,4bf2a5d7
+2054d037,M'Baye Niang,11,SEN,LM,24-025,60,0,0,0,0,0,0,1,0,26,1,0,1,0.0,0.0,0.0,2,0,8,15,53.3,2,19,1,4,1,Rennes,2019-01-13 Nantes-Rennes,FRA-L1,18-19,4bf2a5d7
+e4a26a91,Jakob Johansson,6,SWE,"CM,LM",28-206,30,0,0,0,0,0,0,0,0,20,2,0,1,0.0,0.0,0.0,0,0,11,15,73.3,0,8,0,1,0,Rennes,2019-01-13 Nantes-Rennes,FRA-L1,18-19,4bf2a5d7
+ef9c1c95,Benjamin André,21,FRA,CM,28-163,90,0,0,0,0,0,0,1,0,68,4,3,0,0.0,0.0,0.0,0,0,28,48,58.3,4,31,1,2,1,Rennes,2019-01-13 Nantes-Rennes,FRA-L1,18-19,4bf2a5d7
+8b298f56,Clément Grenier,8,FRA,"CM,FW",28-006,90,0,0,0,0,2,0,1,0,57,2,3,3,0.1,0.1,0.0,0,0,32,42,76.2,1,32,2,1,0,Rennes,2019-01-13 Nantes-Rennes,FRA-L1,18-19,4bf2a5d7
+20e73fac,Benjamin Bourigeaud,14,FRA,RM,24-364,75,0,0,0,0,0,0,0,0,38,1,2,3,0.0,0.0,0.0,0,0,19,30,63.3,3,16,0,0,0,Rennes,2019-01-13 Nantes-Rennes,FRA-L1,18-19,4bf2a5d7
+7cf431a5,James Lea Siliki,12,CMR,RM,22-215,15,0,0,0,0,0,0,0,0,6,1,0,1,0.0,0.0,0.0,0,0,1,1,100.0,0,3,0,0,0,Rennes,2019-01-13 Nantes-Rennes,FRA-L1,18-19,4bf2a5d7
+378825c7,Ramy Bensebaini,15,ALG,LB,23-272,90,0,0,0,0,0,0,0,0,61,6,2,2,0.0,0.0,0.0,0,0,26,43,60.5,1,21,3,1,1,Rennes,2019-01-13 Nantes-Rennes,FRA-L1,18-19,4bf2a5d7
+ce492295,Mexer,4,MOZ,CB,30-127,90,0,0,0,0,1,0,0,0,40,0,0,1,0.1,0.1,0.0,0,0,29,34,85.3,0,27,0,1,1,Rennes,2019-01-13 Nantes-Rennes,FRA-L1,18-19,4bf2a5d7
+1ec7e1c5,Damien Da Silva,3,FRA,CB,30-241,90,1,0,0,0,1,1,0,0,59,1,2,4,0.2,0.2,0.0,0,0,35,38,92.1,3,32,1,1,1,Rennes,2019-01-13 Nantes-Rennes,FRA-L1,18-19,4bf2a5d7
+a4b1028a,Hamari Traoré,27,MLI,RB,26-351,90,0,0,0,0,1,0,0,0,43,1,2,1,0.0,0.0,0.0,2,0,25,32,78.1,0,24,2,4,3,Rennes,2019-01-13 Nantes-Rennes,FRA-L1,18-19,4bf2a5d7
+dc366c36,Tomáš Koubek,40,CZE,GK,26-140,90,0,0,0,0,0,0,0,0,40,0,0,0,0.0,0.0,0.0,0,0,22,39,56.4,0,19,0,0,0,Rennes,2019-01-13 Nantes-Rennes,FRA-L1,18-19,4bf2a5d7

@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+f93e6e94,Nils Petersen,18,GER,FW,30-339,90,1,0,0,0,1,1,0,0,29,1,1,0,0.1,0.1,0.0,0,0,12,17,70.6,4,7,0,0,0,Freiburg,2019-11-10 Freiburg-Eint Frankfurt,GER-BL1,19-20,111515b4
+ca618d23,Lucas Höler,9,GER,"FW,LW",25-123,89,0,0,0,0,1,1,1,0,24,1,0,0,0.1,0.1,0.0,4,0,11,19,57.9,3,18,1,1,1,Freiburg,2019-11-10 Freiburg-Eint Frankfurt,GER-BL1,19-20,111515b4
+34e12499,Nico Schlotterbeck,4,GER,CB,19-344,1,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,0,0,0,0,Freiburg,2019-11-10 Freiburg-Eint Frankfurt,GER-BL1,19-20,111515b4
+54e4866f,Vincenzo Grifo,32,ITA,LM,26-217,56,0,0,0,0,4,1,0,1,43,1,2,0,0.2,0.2,0.1,3,0,17,31,54.8,0,27,1,2,1,Freiburg,2019-11-10 Freiburg-Eint Frankfurt,GER-BL1,19-20,111515b4
+e5a35ae9,Luca Waldschmidt,11,GER,"AM,LW",23-175,34,0,1,0,0,1,0,0,0,15,0,0,1,0.0,0.0,0.1,0,0,5,11,45.5,0,5,0,0,0,Freiburg,2019-11-10 Freiburg-Eint Frankfurt,GER-BL1,19-20,111515b4
+5d8e331f,Nicolas Höfler,27,GER,"CM,DM",29-246,90,0,0,0,0,0,0,0,0,49,2,3,2,0.0,0.0,0.0,2,0,31,37,83.8,8,13,0,0,0,Freiburg,2019-11-10 Freiburg-Eint Frankfurt,GER-BL1,19-20,111515b4
+ea6bc03a,Robin Koch,25,GER,"CM,DM",23-116,90,0,0,0,0,1,1,0,0,53,0,1,0,0.0,0.0,0.0,0,0,44,49,89.8,2,38,1,0,0,Freiburg,2019-11-10 Freiburg-Eint Frankfurt,GER-BL1,19-20,111515b4
+bf075f6b,Roland Sallai,22,HUN,"RM,RW",22-172,75,0,0,0,0,2,2,0,0,25,1,0,0,0.4,0.4,0.1,2,0,13,18,72.2,6,19,3,2,0,Freiburg,2019-11-10 Freiburg-Eint Frankfurt,GER-BL1,19-20,111515b4
+7961f7aa,Kwon Chang-hoon,28,KOR,RW,25-133,15,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,2,5,40.0,0,3,0,0,0,Freiburg,2019-11-10 Freiburg-Eint Frankfurt,GER-BL1,19-20,111515b4
+8593f88c,Christian Günter,30,GER,"LB,LM",26-255,90,0,0,0,0,2,1,0,0,60,0,1,4,0.1,0.1,0.4,5,1,33,48,68.8,3,30,4,4,1,Freiburg,2019-11-10 Freiburg-Eint Frankfurt,GER-BL1,19-20,111515b4
+699fb8db,Dominique Heintz,23,GER,CB,26-087,90,0,0,0,0,0,0,0,0,69,1,1,3,0.0,0.0,0.0,1,0,48,56,85.7,3,46,3,0,0,Freiburg,2019-11-10 Freiburg-Eint Frankfurt,GER-BL1,19-20,111515b4
+302527b2,Philipp Lienhart,3,AUT,CB,23-122,90,0,0,0,0,1,0,0,0,69,2,3,0,0.0,0.0,0.0,1,1,52,57,91.2,5,49,2,0,0,Freiburg,2019-11-10 Freiburg-Eint Frankfurt,GER-BL1,19-20,111515b4
+088ca1bd,Jonathan Schmid,7,FRA,"RB,RM",29-141,90,0,0,0,0,0,0,0,0,58,1,1,1,0.0,0.0,0.1,6,0,34,52,65.4,7,25,0,2,2,Freiburg,2019-11-10 Freiburg-Eint Frankfurt,GER-BL1,19-20,111515b4
+a92ab7be,Mark Flekken,26,NED,GK,26-150,90,0,0,0,0,0,0,0,0,48,0,0,0,0.0,0.0,0.0,0,0,32,43,74.4,0,28,0,0,0,Freiburg,2019-11-10 Freiburg-Eint Frankfurt,GER-BL1,19-20,111515b4
+962e54cb,Gonçalo Paciência,39,POR,FW,25-101,45,0,0,0,0,2,0,0,0,23,0,0,0,0.1,0.1,0.0,1,0,8,13,61.5,2,11,2,2,1,Eintracht Frankfurt,2019-11-10 Freiburg-Eint Frankfurt,GER-BL1,19-20,111515b4
+0fbecd11,Dominik Kohr,28,GER,CM,25-283,45,0,0,0,0,2,1,0,0,30,0,0,0,0.1,0.1,0.0,3,0,18,21,85.7,0,15,2,3,3,Eintracht Frankfurt,2019-11-10 Freiburg-Eint Frankfurt,GER-BL1,19-20,111515b4
+dc90cfbe,Bas Dost,9,NED,FW,30-163,90,0,0,0,0,1,0,0,0,43,0,0,1,0.2,0.2,0.4,5,0,17,36,47.2,4,10,0,0,0,Eintracht Frankfurt,2019-11-10 Freiburg-Eint Frankfurt,GER-BL1,19-20,111515b4
+15b287da,Daichi Kamada,15,JPN,"AM,FW,RM",23-097,66,0,0,0,0,0,0,0,0,39,1,0,1,0.0,0.0,0.1,2,0,20,28,71.4,2,16,1,1,0,Eintracht Frankfurt,2019-11-10 Freiburg-Eint Frankfurt,GER-BL1,19-20,111515b4
+16daec92,Mijat Gaćinović,11,SRB,"WB,RM",24-275,24,0,0,0,0,1,0,0,0,15,1,0,0,0.0,0.0,0.0,1,0,9,12,75.0,0,4,3,0,0,Eintracht Frankfurt,2019-11-10 Freiburg-Eint Frankfurt,GER-BL1,19-20,111515b4
+8e58987d,Gelson Fernandes,5,SUI,CM,33-069,44,0,0,0,0,0,0,2,1,29,1,1,1,0.0,0.0,0.0,0,0,23,25,92.0,2,7,0,0,0,Eintracht Frankfurt,2019-11-10 Freiburg-Eint Frankfurt,GER-BL1,19-20,111515b4
+4c6facae,Djibril Sow,8,SUI,CM,22-277,90,0,0,0,0,0,0,0,0,53,1,3,1,0.0,0.0,0.4,3,0,35,40,87.5,3,30,2,0,0,Eintracht Frankfurt,2019-11-10 Freiburg-Eint Frankfurt,GER-BL1,19-20,111515b4
+b1cd37e6,Filip Kostić,10,SRB,"WB,LM,LW",27-009,90,0,0,0,0,2,1,0,0,56,2,1,0,0.1,0.1,0.0,3,0,23,46,50.0,4,24,4,3,2,Eintracht Frankfurt,2019-11-10 Freiburg-Eint Frankfurt,GER-BL1,19-20,111515b4
+cf623c78,Erik Durm,25,GER,"WB,RB,RW",27-182,82,0,0,0,0,4,1,0,0,39,2,0,1,0.1,0.1,0.0,1,0,12,24,50.0,2,11,0,1,1,Eintracht Frankfurt,2019-11-10 Freiburg-Eint Frankfurt,GER-BL1,19-20,111515b4
+3effaa34,André Silva,33,POR,FW,24-004,8,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.2,2,0,4,6,66.7,0,5,1,0,0,Eintracht Frankfurt,2019-11-10 Freiburg-Eint Frankfurt,GER-BL1,19-20,111515b4
+441197b8,Obite N'Dicka,2,CIV,"CB,LB",20-082,90,0,0,0,0,0,0,0,0,49,2,2,1,0.0,0.0,0.0,0,0,30,37,81.1,1,16,0,0,0,Eintracht Frankfurt,2019-11-10 Freiburg-Eint Frankfurt,GER-BL1,19-20,111515b4
+080440a4,Martin Hinteregger,13,AUT,CB,27-064,90,0,0,0,0,5,3,0,0,76,2,0,2,0.9,0.9,0.0,6,0,45,58,77.6,5,38,3,1,1,Eintracht Frankfurt,2019-11-10 Freiburg-Eint Frankfurt,GER-BL1,19-20,111515b4
+565bf0da,David Abraham,19,ARG,CB,33-118,89,0,0,0,0,0,0,1,1,39,2,0,0,0.0,0.0,0.1,1,0,23,32,71.9,2,14,0,1,1,Eintracht Frankfurt,2019-11-10 Freiburg-Eint Frankfurt,GER-BL1,19-20,111515b4
+a70b8345,Frederik Rønnow,32,DEN,GK,27-098,90,0,0,0,0,0,0,0,0,43,0,0,0,0.0,0.0,0.0,0,0,33,39,84.6,0,22,0,0,0,Eintracht Frankfurt,2019-11-10 Freiburg-Eint Frankfurt,GER-BL1,19-20,111515b4

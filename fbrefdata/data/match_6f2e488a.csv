@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+c283ddef,Sam Lammers,9,NED,FW,24-148,60,0,0,0,0,1,0,0,0,21,0,0,1,0.1,0.1,0.0,0,0,9,13,69.2,1,9,0,3,2,Eintracht Frankfurt,2021-09-25 Eint Frankfurt-Köln,GER-BL1,21-22,6f2e488a
+15b287da,Daichi Kamada,15,JPN,FW,25-051,30,0,0,0,0,1,0,0,0,21,2,0,0,0.2,0.2,0.0,2,0,8,10,80.0,1,13,0,4,2,Eintracht Frankfurt,2021-09-25 Eint Frankfurt-Köln,GER-BL1,21-22,6f2e488a
+b1cd37e6,Filip Kostić,10,SRB,LW,28-328,90,0,1,0,0,2,1,0,0,59,1,0,1,0.1,0.1,0.3,3,1,17,45,37.8,3,28,5,3,0,Eintracht Frankfurt,2021-09-25 Eint Frankfurt-Köln,GER-BL1,21-22,6f2e488a
+12c35abe,Jens Petter Hauge,23,NOR,RW,21-348,61,0,0,0,0,0,0,0,0,37,1,0,1,0.0,0.0,0.0,2,1,16,27,59.3,3,17,2,7,3,Eintracht Frankfurt,2021-09-25 Eint Frankfurt-Köln,GER-BL1,21-22,6f2e488a
+37dc1a48,Jesper Lindstrøm,29,DEN,RW,21-208,29,0,0,0,0,1,0,0,0,14,1,0,0,0.1,0.1,0.2,2,0,8,11,72.7,1,6,1,0,0,Eintracht Frankfurt,2021-09-25 Eint Frankfurt-Köln,GER-BL1,21-22,6f2e488a
+c68da769,Rafael Borré,19,COL,AM,26-010,90,1,0,0,0,2,1,0,0,29,2,0,0,0.2,0.2,0.0,0,0,11,23,47.8,0,17,2,0,0,Eintracht Frankfurt,2021-09-25 Eint Frankfurt-Köln,GER-BL1,21-22,6f2e488a
+a8ee54ad,Kristijan Jakić,6,CRO,DM,24-134,90,0,0,0,0,1,0,0,0,56,1,1,1,0.0,0.0,0.0,1,0,29,46,63.0,6,18,0,2,2,Eintracht Frankfurt,2021-09-25 Eint Frankfurt-Köln,GER-BL1,21-22,6f2e488a
+4c6facae,Djibril Sow,8,SUI,DM,24-231,84,0,0,0,0,0,0,0,0,42,2,2,1,0.0,0.0,0.0,0,0,23,31,74.2,6,14,0,2,0,Eintracht Frankfurt,2021-09-25 Eint Frankfurt-Köln,GER-BL1,21-22,6f2e488a
+8494acc4,Stefan Ilsanker,3,AUT,DM,32-130,6,0,0,0,0,0,0,0,0,2,1,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,2,0,0,0,Eintracht Frankfurt,2021-09-25 Eint Frankfurt-Köln,GER-BL1,21-22,6f2e488a
+b3b7f5a6,Timothy Chandler,22,USA,LB,31-180,90,0,0,0,0,0,0,1,0,52,1,2,2,0.0,0.0,0.0,1,0,24,42,57.1,1,19,4,2,1,Eintracht Frankfurt,2021-09-25 Eint Frankfurt-Köln,GER-BL1,21-22,6f2e488a
+080440a4,Martin Hinteregger,13,AUT,CB,29-018,90,0,0,0,0,2,1,1,0,46,2,5,2,0.2,0.2,0.0,1,0,19,30,63.3,2,19,0,0,0,Eintracht Frankfurt,2021-09-25 Eint Frankfurt-Köln,GER-BL1,21-22,6f2e488a
+441197b8,Obite N'Dicka,2,CIV,CB,22-036,90,0,0,0,0,0,0,0,0,28,1,1,1,0.0,0.0,0.0,1,0,14,19,73.7,1,8,0,0,0,Eintracht Frankfurt,2021-09-25 Eint Frankfurt-Köln,GER-BL1,21-22,6f2e488a
+cf623c78,Erik Durm,37,GER,RB,29-136,10,0,0,0,0,0,0,0,0,5,1,0,0,0.0,0.0,0.0,0,0,3,4,75.0,1,0,0,0,0,Eintracht Frankfurt,2021-09-25 Eint Frankfurt-Köln,GER-BL1,21-22,6f2e488a
+5ddb8f9f,Danny da Costa,24,GER,RB,28-074,80,0,0,0,0,0,0,0,0,61,1,2,1,0.0,0.0,0.0,2,0,29,48,60.4,2,30,2,4,3,Eintracht Frankfurt,2021-09-25 Eint Frankfurt-Köln,GER-BL1,21-22,6f2e488a
+ce17b5eb,Kevin Trapp,1,GER,GK,31-079,90,0,0,0,0,0,0,0,0,37,0,0,0,0.0,0.0,0.0,0,0,18,35,51.4,0,13,0,0,0,Eintracht Frankfurt,2021-09-25 Eint Frankfurt-Köln,GER-BL1,21-22,6f2e488a
+34e4343c,Anthony Modeste,27,FRA,FW,33-164,90,0,0,0,0,1,0,0,0,32,0,0,0,0.1,0.1,0.0,1,0,13,20,65.0,1,16,0,0,0,Köln,2021-09-25 Eint Frankfurt-Köln,GER-BL1,21-22,6f2e488a
+b4cf5806,Sebastian Andersson,9,SWE,FW,30-072,90,0,0,0,0,6,0,1,0,38,1,0,2,0.3,0.3,0.1,3,0,17,20,85.0,2,21,2,1,1,Köln,2021-09-25 Eint Frankfurt-Köln,GER-BL1,21-22,6f2e488a
+79ca3e23,Ondrej Duda,18,SVK,AM,26-294,84,0,0,0,0,3,1,0,0,46,1,1,1,0.1,0.1,0.0,1,0,22,33,66.7,5,28,3,4,2,Köln,2021-09-25 Eint Frankfurt-Köln,GER-BL1,21-22,6f2e488a
+a3ddb1b9,Mark Uth,13,GER,AM,30-032,6,0,0,0,0,1,0,0,0,6,0,0,0,0.1,0.1,0.0,0,0,4,5,80.0,1,5,0,0,0,Köln,2021-09-25 Eint Frankfurt-Köln,GER-BL1,21-22,6f2e488a
+94c18565,Florian Kainz,11,AUT,LM,28-336,71,0,0,0,0,0,0,0,0,42,2,1,1,0.0,0.0,0.1,3,0,25,34,73.5,6,28,0,4,2,Köln,2021-09-25 Eint Frankfurt-Köln,GER-BL1,21-22,6f2e488a
+b50ec54b,Louis Schaub,21,AUT,LM,26-270,19,0,0,0,0,0,0,0,0,20,2,1,0,0.0,0.0,0.0,1,0,6,13,46.2,2,13,2,1,0,Köln,2021-09-25 Eint Frankfurt-Köln,GER-BL1,21-22,6f2e488a
+c455a2b2,Dejan Ljubicic,7,AUT,RM,23-352,45,0,0,0,0,0,0,1,0,24,1,0,0,0.0,0.0,0.2,2,0,11,18,61.1,2,18,2,1,1,Köln,2021-09-25 Eint Frankfurt-Köln,GER-BL1,21-22,6f2e488a
+fd53759d,Jan Thielmann,29,GER,RM,19-122,45,0,0,0,0,1,0,0,0,27,1,1,0,0.0,0.0,0.1,2,0,10,20,50.0,2,22,2,3,3,Köln,2021-09-25 Eint Frankfurt-Köln,GER-BL1,21-22,6f2e488a
+c2211709,Ellyes Skhiri,28,TUN,DM,26-138,90,1,0,0,0,2,1,0,0,66,5,2,6,0.4,0.4,0.0,0,0,38,44,86.4,2,28,0,0,0,Köln,2021-09-25 Eint Frankfurt-Köln,GER-BL1,21-22,6f2e488a
+c2009df3,Jonas Hector,14,GER,LB,31-121,90,0,1,0,0,0,0,0,0,70,2,1,3,0.0,0.0,0.4,3,1,42,54,77.8,4,29,3,0,0,Köln,2021-09-25 Eint Frankfurt-Köln,GER-BL1,21-22,6f2e488a
+b0a0698b,Rafael Czichos,5,GER,CB,31-134,90,0,0,0,0,0,0,0,0,61,1,3,1,0.0,0.0,0.0,0,0,33,44,75.0,2,27,0,1,0,Köln,2021-09-25 Eint Frankfurt-Köln,GER-BL1,21-22,6f2e488a
+610aa1e9,Luca Kilian,15,GER,CB,22-024,34,0,0,0,0,0,0,0,0,18,0,0,1,0.0,0.0,0.0,1,0,13,15,86.7,2,9,0,0,0,Köln,2021-09-25 Eint Frankfurt-Köln,GER-BL1,21-22,6f2e488a
+9f979eb2,Jorge Meré,22,ESP,CB,24-161,56,0,0,0,0,0,0,0,0,49,5,1,1,0.0,0.0,0.0,1,0,24,33,72.7,2,20,0,2,0,Köln,2021-09-25 Eint Frankfurt-Köln,GER-BL1,21-22,6f2e488a
+ad00b1a8,Benno Schmitz,2,GER,RB,26-312,45,0,0,0,0,0,0,0,0,45,1,2,1,0.0,0.0,0.0,2,1,30,37,81.1,10,25,1,0,0,Köln,2021-09-25 Eint Frankfurt-Köln,GER-BL1,21-22,6f2e488a
+76b2817e,Kingsley Ehizibue,19,NED,RB,26-123,45,0,0,0,0,0,0,1,0,32,1,0,0,0.0,0.0,0.0,1,0,11,17,64.7,1,14,2,1,0,Köln,2021-09-25 Eint Frankfurt-Köln,GER-BL1,21-22,6f2e488a
+3cd9e95a,Timo Horn,1,GER,GK,28-136,90,0,0,0,0,0,0,0,0,39,0,0,0,0.0,0.0,0.0,0,0,31,38,81.6,0,24,0,0,0,Köln,2021-09-25 Eint Frankfurt-Köln,GER-BL1,21-22,6f2e488a

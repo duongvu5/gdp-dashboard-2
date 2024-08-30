@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+58e933d2,Christian Kouamé,11,CIV,FW,21-016,70,0,0,0,0,3,0,0,0,34,0,1,0,0.5,0.5,0.1,5,0,16,23,69.6,2,14,0,1,1,Genoa,2018-12-22 Genoa-Atalanta,ITA-SERIA_A,18-19,d99e1cc3
+c1c2c925,Sandro,30,BRA,FW,29-282,20,0,0,0,0,0,0,0,0,7,2,1,0,0.0,0.0,0.0,1,0,2,3,66.7,0,1,0,0,0,Genoa,2018-12-22 Genoa-Atalanta,ITA-SERIA_A,18-19,d99e1cc3
+17f3620a,Krzysztof Piątek,9,POL,FW,23-174,90,1,0,0,0,7,3,0,0,31,0,0,0,0.5,0.5,0.4,2,0,12,17,70.6,2,18,2,0,0,Genoa,2018-12-22 Genoa-Atalanta,ITA-SERIA_A,18-19,d99e1cc3
+5128bde4,Darko Lazović,22,SRB,LW,28-098,81,1,0,0,0,2,1,0,0,31,1,0,1,0.1,0.1,0.1,5,0,15,24,62.5,3,12,4,4,2,Genoa,2018-12-22 Genoa-Atalanta,ITA-SERIA_A,18-19,d99e1cc3
+c77be0cf,Pedro Pereira,32,POR,LW,20-334,9,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,1,1,2,4,50.0,0,2,1,0,0,Genoa,2018-12-22 Genoa-Atalanta,ITA-SERIA_A,18-19,d99e1cc3
+07abb358,Rômulo,8,ITA,RW,31-214,90,0,1,0,0,3,0,0,0,56,2,0,0,0.2,0.2,0.1,4,1,18,48,37.5,3,14,3,0,0,Genoa,2018-12-22 Genoa-Atalanta,ITA-SERIA_A,18-19,d99e1cc3
+88895312,Daniel Bessa,24,ITA,CM,25-342,90,0,1,0,0,1,1,0,0,44,4,2,0,0.1,0.1,0.1,3,1,25,30,83.3,5,16,4,0,0,Genoa,2018-12-22 Genoa-Atalanta,ITA-SERIA_A,18-19,d99e1cc3
+98e958af,Oscar Hiljemark,88,SWE,CM,26-177,90,0,0,0,0,3,0,0,0,38,3,0,1,0.1,0.1,0.1,3,1,21,25,84.0,5,12,1,2,1,Genoa,2018-12-22 Genoa-Atalanta,ITA-SERIA_A,18-19,d99e1cc3
+ab1ca213,Miguel Veloso,44,POR,DM,32-225,45,0,0,0,0,0,0,0,0,26,0,1,1,0.0,0.0,0.0,1,0,14,21,66.7,4,6,0,0,0,Genoa,2018-12-22 Genoa-Atalanta,ITA-SERIA_A,18-19,d99e1cc3
+10e25802,Esteban Rolón,18,ARG,DM,23-272,45,0,0,0,0,0,0,1,0,30,3,1,2,0.0,0.0,0.1,3,0,21,24,87.5,3,10,2,0,0,Genoa,2018-12-22 Genoa-Atalanta,ITA-SERIA_A,18-19,d99e1cc3
+35dd6d80,Domenico Criscito,4,ITA,CB,31-357,90,0,0,0,0,0,0,1,0,41,6,3,1,0.0,0.0,0.2,4,0,18,25,72.0,1,10,1,1,1,Genoa,2018-12-22 Genoa-Atalanta,ITA-SERIA_A,18-19,d99e1cc3
+a3d94a58,Cristian Romero,17,ARG,CB,20-239,90,0,0,0,0,0,0,1,0,28,0,0,1,0.0,0.0,0.0,0,0,13,17,76.5,0,7,0,0,0,Genoa,2018-12-22 Genoa-Atalanta,ITA-SERIA_A,18-19,d99e1cc3
+64cd167d,Davide Biraschi,14,ITA,CB,24-173,90,0,0,0,0,0,0,0,0,40,1,2,1,0.0,0.0,0.0,0,0,19,29,65.5,4,12,0,1,0,Genoa,2018-12-22 Genoa-Atalanta,ITA-SERIA_A,18-19,d99e1cc3
+67f649be,Ionuț Radu,97,ROU,GK,21-208,90,0,0,0,0,0,0,0,0,35,0,0,0,0.0,0.0,0.0,0,0,8,30,26.7,0,10,0,0,0,Genoa,2018-12-22 Genoa-Atalanta,ITA-SERIA_A,18-19,d99e1cc3
+d3de9af0,Duván Zapata,91,COL,FW,27-265,74,1,0,1,1,1,0,0,0,29,0,0,0,0.9,0.1,0.0,1,1,9,17,52.9,1,17,2,1,0,Atalanta,2018-12-22 Genoa-Atalanta,ITA-SERIA_A,18-19,d99e1cc3
+e5bf73f3,Musa Barrow,99,GAM,FW,20-038,16,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,3,0,1,0,Atalanta,2018-12-22 Genoa-Atalanta,ITA-SERIA_A,18-19,d99e1cc3
+68252d6d,Josip Iličić,72,SVN,FW,30-327,90,0,0,0,1,1,0,0,0,51,0,0,0,0.8,0.0,0.1,2,0,33,45,73.3,4,45,4,2,1,Atalanta,2018-12-22 Genoa-Atalanta,ITA-SERIA_A,18-19,d99e1cc3
+6e4df551,Papu Gómez,10,ARG,AM,30-310,62,0,0,0,0,2,1,0,0,47,1,0,1,0.5,0.5,0.1,6,0,25,37,67.6,8,27,3,0,0,Atalanta,2018-12-22 Genoa-Atalanta,ITA-SERIA_A,18-19,d99e1cc3
+a1216563,Emiliano Rigoni,24,ARG,AM,25-321,28,0,0,0,0,0,0,0,0,17,0,0,0,0.0,0.0,0.0,0,0,9,13,69.2,1,11,2,1,1,Atalanta,2018-12-22 Genoa-Atalanta,ITA-SERIA_A,18-19,d99e1cc3
+98d2c2c4,Remo Freuler,11,SUI,CM,26-251,90,0,0,0,0,2,0,0,0,56,1,0,4,0.1,0.1,0.1,6,1,39,44,88.6,8,36,3,2,1,Atalanta,2018-12-22 Genoa-Atalanta,ITA-SERIA_A,18-19,d99e1cc3
+2a1beb34,Marten de Roon,15,NED,CM,27-268,4,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Atalanta,2018-12-22 Genoa-Atalanta,ITA-SERIA_A,18-19,d99e1cc3
+780e3631,Matteo Pessina,22,ITA,CM,21-245,86,0,0,0,0,1,0,0,0,76,2,0,1,0.0,0.0,0.0,0,0,55,68,80.9,11,38,0,0,0,Atalanta,2018-12-22 Genoa-Atalanta,ITA-SERIA_A,18-19,d99e1cc3
+2d970560,Robin Gosens,8,GER,WB,24-170,90,0,0,0,0,0,0,0,0,57,3,1,3,0.0,0.0,0.0,3,0,24,43,55.8,4,28,3,1,0,Atalanta,2018-12-22 Genoa-Atalanta,ITA-SERIA_A,18-19,d99e1cc3
+3b333ac3,Hans Hateboer,33,NED,WB,24-347,90,0,0,0,0,1,0,0,0,62,2,0,0,0.0,0.0,0.0,0,0,50,59,84.7,5,34,2,0,0,Atalanta,2018-12-22 Genoa-Atalanta,ITA-SERIA_A,18-19,d99e1cc3
+5aa53281,Gianluca Mancini,23,ITA,CB,22-249,90,0,0,0,0,0,0,0,0,71,3,0,2,0.0,0.0,0.0,2,0,44,59,74.6,5,37,2,0,0,Atalanta,2018-12-22 Genoa-Atalanta,ITA-SERIA_A,18-19,d99e1cc3
+921f6058,José Luis Palomino,6,ARG,CB,28-351,80,0,0,0,0,0,0,2,1,55,1,4,1,0.0,0.0,0.0,1,0,36,43,83.7,2,25,0,0,0,Atalanta,2018-12-22 Genoa-Atalanta,ITA-SERIA_A,18-19,d99e1cc3
+c56dc39e,Rafael Tolói,2,ITA,CB,28-073,89,0,0,0,0,3,2,0,1,73,0,1,2,0.1,0.1,0.0,1,0,49,59,83.1,5,39,3,0,0,Atalanta,2018-12-22 Genoa-Atalanta,ITA-SERIA_A,18-19,d99e1cc3
+ee833569,Etrit Berisha,1,ALB,GK,29-287,90,0,0,0,0,0,0,0,0,32,0,0,0,0.0,0.0,0.0,0,0,23,29,79.3,0,11,0,0,0,Atalanta,2018-12-22 Genoa-Atalanta,ITA-SERIA_A,18-19,d99e1cc3

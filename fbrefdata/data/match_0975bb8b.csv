@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+e7199efb,Opoku Ampomah,27,GHA,FW,24-044,64,0,0,0,0,1,0,0,0,14,1,0,0,0.1,0.1,0.0,0,0,2,3,66.7,0,12,2,4,0,Düsseldorf,2020-02-15 Düsseldorf-Gladbach,GER-BL1,19-20,0975bb8b
+58ce23e5,Steven Skrzybski,20,GER,FW,27-089,26,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,1,0,2,4,50.0,0,3,0,0,0,Düsseldorf,2020-02-15 Düsseldorf-Gladbach,GER-BL1,19-20,0975bb8b
+17611373,Rouwen Hennings,28,GER,FW,32-171,90,0,0,0,0,3,0,0,0,24,0,0,0,0.1,0.1,0.0,1,0,12,15,80.0,3,12,1,1,1,Düsseldorf,2020-02-15 Düsseldorf-Gladbach,GER-BL1,19-20,0975bb8b
+df8e7b62,Erik Thommy,15,GER,LW,25-179,90,1,0,0,0,3,2,0,0,54,1,0,0,0.4,0.4,0.0,0,0,36,43,83.7,4,31,3,2,2,Düsseldorf,2020-02-15 Düsseldorf-Gladbach,GER-BL1,19-20,0975bb8b
+e199d5b0,Matthias Zimmermann,25,GER,RW,27-244,90,0,0,0,0,0,0,0,0,42,0,1,2,0.0,0.0,0.1,2,1,28,37,75.7,1,23,0,0,0,Düsseldorf,2020-02-15 Düsseldorf-Gladbach,GER-BL1,19-20,0975bb8b
+d5575935,Valon Berisha,10,KVX,CM,27-008,77,0,0,0,0,1,1,0,0,39,2,0,0,0.2,0.2,0.1,2,0,26,36,72.2,5,20,1,0,0,Düsseldorf,2020-02-15 Düsseldorf-Gladbach,GER-BL1,19-20,0975bb8b
+bb8a42fa,Adam Bodzek,13,GER,CM,34-161,13,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,5,5,100.0,0,3,0,0,0,Düsseldorf,2020-02-15 Düsseldorf-Gladbach,GER-BL1,19-20,0975bb8b
+ff45add5,Alfredo Morales,6,USA,CM,29-279,90,0,0,0,0,0,0,0,0,36,3,1,2,0.0,0.0,0.0,1,0,21,23,91.3,3,20,2,0,0,Düsseldorf,2020-02-15 Düsseldorf-Gladbach,GER-BL1,19-20,0975bb8b
+e5649a78,Kevin Stöger,22,AUT,DM,26-172,90,0,0,0,0,1,1,0,0,68,0,2,0,0.1,0.1,0.0,4,0,56,62,90.3,8,34,1,2,2,Düsseldorf,2020-02-15 Düsseldorf-Gladbach,GER-BL1,19-20,0975bb8b
+93a50d2c,Kasim Nuhu,4,GHA,CB,24-238,80,0,0,0,0,0,0,0,0,59,0,3,2,0.0,0.0,0.1,1,0,41,49,83.7,3,38,1,1,1,Düsseldorf,2020-02-15 Düsseldorf-Gladbach,GER-BL1,19-20,0975bb8b
+7391c2d9,Markus Suttner,29,AUT,CB,32-305,10,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,4,6,66.7,1,6,2,0,0,Düsseldorf,2020-02-15 Düsseldorf-Gladbach,GER-BL1,19-20,0975bb8b
+0db5d2c8,Mathias Jørgensen,19,DEN,CB,29-298,90,0,0,0,0,0,0,1,0,64,1,5,1,0.0,0.0,0.0,1,0,44,49,89.8,1,31,0,0,0,Düsseldorf,2020-02-15 Düsseldorf-Gladbach,GER-BL1,19-20,0975bb8b
+2200181e,Kaan Ayhan,5,TUR,CB,25-097,90,0,1,0,0,0,0,1,0,70,0,2,1,0.0,0.0,0.5,3,1,59,67,88.1,5,50,2,2,1,Düsseldorf,2020-02-15 Düsseldorf-Gladbach,GER-BL1,19-20,0975bb8b
+dc2e4736,Florian Kastenmeier,33,GER,GK,22-232,90,0,0,0,0,0,0,0,0,50,0,0,0,0.0,0.0,0.0,0,0,36,47,76.6,0,26,0,0,0,Düsseldorf,2020-02-15 Düsseldorf-Gladbach,GER-BL1,19-20,0975bb8b
+6f8cd6d0,Marcus Thuram,10,FRA,FW,22-193,80,0,2,0,0,1,1,1,0,32,0,0,0,0.3,0.3,1.0,7,3,14,20,70.0,2,20,2,6,5,Mönchengladbach,2020-02-15 Düsseldorf-Gladbach,GER-BL1,19-20,0975bb8b
+0b4f388a,Breel Embolo,36,SUI,FW,23-001,10,0,1,0,0,1,0,0,0,4,1,0,0,0.6,0.6,0.1,3,1,2,2,100.0,0,2,1,1,1,Mönchengladbach,2020-02-15 Düsseldorf-Gladbach,GER-BL1,19-20,0975bb8b
+7cd6badb,Lars Stindl,13,GER,"AM,FW",31-173,84,2,0,0,0,3,2,1,0,41,0,0,0,0.9,0.9,0.1,1,0,30,35,85.7,2,35,0,0,0,Mönchengladbach,2020-02-15 Düsseldorf-Gladbach,GER-BL1,19-20,0975bb8b
+096a77c4,Ibrahima Traoré,16,GUI,LM,31-300,6,0,0,0,0,1,0,0,0,2,0,0,0,0.1,0.1,0.0,0,0,1,1,100.0,0,1,0,0,0,Mönchengladbach,2020-02-15 Düsseldorf-Gladbach,GER-BL1,19-20,0975bb8b
+2903a856,Jonas Hofmann,23,GER,"AM,RM",27-216,74,1,0,0,0,1,1,0,0,28,1,0,1,0.1,0.1,0.1,2,0,14,22,63.6,1,19,2,0,0,Mönchengladbach,2020-02-15 Düsseldorf-Gladbach,GER-BL1,19-20,0975bb8b
+dfb6490a,Patrick Herrmann,7,GER,"RM,FW",29-003,16,0,0,0,0,0,0,0,0,3,0,1,0,0.0,0.0,0.6,1,0,2,2,100.0,1,3,1,0,0,Mönchengladbach,2020-02-15 Düsseldorf-Gladbach,GER-BL1,19-20,0975bb8b
+36a59ba4,Florian Neuhaus,32,GER,"CM,AM,RM",22-336,90,1,0,0,0,5,2,0,0,50,2,2,0,0.3,0.3,0.0,9,2,29,37,78.4,5,35,5,5,4,Mönchengladbach,2020-02-15 Düsseldorf-Gladbach,GER-BL1,19-20,0975bb8b
+384d58d9,Denis Zakaria,8,SUI,"CM,LM,AM",23-087,90,0,1,0,0,3,0,0,0,46,1,1,0,0.5,0.5,0.4,4,1,33,37,89.2,3,43,3,6,3,Mönchengladbach,2020-02-15 Düsseldorf-Gladbach,GER-BL1,19-20,0975bb8b
+b69261a0,Oscar Wendt,17,SWE,"LB,WB",34-114,90,0,0,0,0,0,0,0,0,43,1,0,0,0.0,0.0,0.0,1,1,24,38,63.2,1,20,0,0,0,Mönchengladbach,2020-02-15 Düsseldorf-Gladbach,GER-BL1,19-20,0975bb8b
+4aea5077,Stefan Lainer,18,AUT,"RB,WB",27-172,90,0,0,0,0,1,0,0,0,44,0,0,1,0.1,0.1,0.0,1,0,25,31,80.6,0,21,0,1,1,Mönchengladbach,2020-02-15 Düsseldorf-Gladbach,GER-BL1,19-20,0975bb8b
+48035304,Nico Elvedi,30,SUI,CB,23-138,90,0,0,0,0,0,0,0,0,68,3,1,0,0.0,0.0,0.0,0,0,55,64,85.9,3,55,0,0,0,Mönchengladbach,2020-02-15 Düsseldorf-Gladbach,GER-BL1,19-20,0975bb8b
+17780d2b,Tobias Strobl,5,GER,"DM,CB",29-279,90,0,0,0,0,0,0,0,0,62,0,0,2,0.0,0.0,0.0,0,0,50,57,87.7,3,50,0,0,0,Mönchengladbach,2020-02-15 Düsseldorf-Gladbach,GER-BL1,19-20,0975bb8b
+f521b80a,Matthias Ginter,28,GER,CB,26-027,90,0,0,0,0,1,0,0,0,66,1,1,0,0.1,0.1,0.0,2,0,48,57,84.2,2,50,0,0,0,Mönchengladbach,2020-02-15 Düsseldorf-Gladbach,GER-BL1,19-20,0975bb8b
+420c18a1,Yann Sommer,1,SUI,GK,31-060,90,0,0,0,0,0,0,0,0,44,0,0,0,0.0,0.0,0.0,0,0,37,43,86.0,0,34,0,0,0,Mönchengladbach,2020-02-15 Düsseldorf-Gladbach,GER-BL1,19-20,0975bb8b

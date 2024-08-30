@@ -1,0 +1,35 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+9c4f39b3,Tosin Aiyegun,27,BEN,FW,25-174,70,0,0,0,0,0,0,0,0,20,0,0,0,0.0,0.0,0.0,2,0,12,15,80.0,0,15,1,1,0,Lorient,2023-12-17 Lorient-Strasbourg,FRA-L1,23-24,f3cfe34d
+92d90c8f,Siriné Doucouré,29,MLI,FW,21-253,20,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,7,0,2,0,Lorient,2023-12-17 Lorient-Strasbourg,FRA-L1,23-24,f3cfe34d
+40774c6b,Bamba Dieng,11,SEN,FW,23-269,54,1,0,0,0,3,1,1,0,19,0,0,1,0.3,0.3,0.0,0,0,8,11,72.7,0,8,1,1,0,Lorient,2023-12-17 Lorient-Strasbourg,FRA-L1,23-24,f3cfe34d
+b2fe86e5,Eli Junior Kroupi,22,FRA,FW,17-177,36,0,0,0,0,1,0,0,0,8,0,0,0,0.3,0.3,0.0,2,0,4,5,80.0,0,7,0,0,0,Lorient,2023-12-17 Lorient-Strasbourg,FRA-L1,23-24,f3cfe34d
+e546b2e3,Julien Ponceau,21,FRA,LM,23-019,78,0,0,0,0,1,0,0,0,43,0,0,0,0.0,0.0,0.0,3,0,29,37,78.4,9,33,4,5,2,Lorient,2023-12-17 Lorient-Strasbourg,FRA-L1,23-24,f3cfe34d
+afe39ca8,Théo Le Bris,37,FRA,LM,21-077,12,0,0,0,0,0,0,0,0,13,0,0,0,0.0,0.0,0.0,0,0,8,10,80.0,1,11,3,1,0,Lorient,2023-12-17 Lorient-Strasbourg,FRA-L1,23-24,f3cfe34d
+546bb36e,Bonke Innocent,8,NGA,CM,27-331,78,0,0,0,0,0,0,0,0,43,4,1,1,0.0,0.0,0.0,0,0,34,35,97.1,3,31,0,0,0,Lorient,2023-12-17 Lorient-Strasbourg,FRA-L1,23-24,f3cfe34d
+22bfb57e,Jean-Victor Makengo,17,FRA,CM,25-188,12,0,0,0,0,0,0,0,0,21,2,0,0,0.0,0.0,0.0,0,0,16,19,84.2,5,17,1,2,2,Lorient,2023-12-17 Lorient-Strasbourg,FRA-L1,23-24,f3cfe34d
+31626657,Laurent Abergel,19,FRA,CM,30-319,90,0,0,0,0,0,0,0,0,74,0,1,1,0.0,0.0,0.1,1,0,48,64,75.0,6,53,1,4,3,Lorient,2023-12-17 Lorient-Strasbourg,FRA-L1,23-24,f3cfe34d
+745ca0a3,Romain Faivre,10,FRA,RM,25-156,90,0,0,0,0,1,0,0,0,43,2,1,0,0.0,0.0,0.1,2,1,28,36,77.8,7,38,5,4,3,Lorient,2023-12-17 Lorient-Strasbourg,FRA-L1,23-24,f3cfe34d
+5271c8f1,Benjamin Mendy,5,FRA,LB,29-153,70,0,0,0,0,0,0,1,0,52,0,1,1,0.0,0.0,0.3,2,0,25,43,58.1,3,28,3,1,0,Lorient,2023-12-17 Lorient-Strasbourg,FRA-L1,23-24,f3cfe34d
+061266cd,Darlin Yongwa,12,CMR,LB,23-086,20,0,0,0,0,0,0,0,0,30,1,0,0,0.0,0.0,0.0,0,0,16,28,57.1,2,22,1,1,1,Lorient,2023-12-17 Lorient-Strasbourg,FRA-L1,23-24,f3cfe34d
+01fd01e8,Souleymane Touré,95,FRA,CB,20-264,90,0,0,0,0,0,0,1,0,73,2,3,1,0.0,0.0,0.0,0,0,51,60,85.0,5,51,1,1,1,Lorient,2023-12-17 Lorient-Strasbourg,FRA-L1,23-24,f3cfe34d
+a4a44eb0,Montassar Talbi,3,TUN,CB,25-205,90,0,0,0,0,1,0,0,0,67,1,0,0,0.1,0.1,0.0,0,0,51,59,86.4,3,50,0,0,0,Lorient,2023-12-17 Lorient-Strasbourg,FRA-L1,23-24,f3cfe34d
+c21983bf,Formose Mendy,13,SEN,RB,22-349,90,0,0,0,0,0,0,0,0,73,1,0,3,0.0,0.0,0.0,0,0,49,65,75.4,5,41,0,0,0,Lorient,2023-12-17 Lorient-Strasbourg,FRA-L1,23-24,f3cfe34d
+dc29b608,Yvon Mvogo,38,SUI,GK,29-194,90,0,0,0,0,0,0,0,0,39,0,0,0,0.0,0.0,0.0,0,0,28,32,87.5,0,26,0,0,0,Lorient,2023-12-17 Lorient-Strasbourg,FRA-L1,23-24,f3cfe34d
+a0c590b9,Emanuel Emegha,10,NED,FW,20-317,75,0,1,0,0,1,1,0,0,20,0,0,0,0.3,0.3,0.0,1,1,5,9,55.6,0,14,1,1,1,Strasbourg,2023-12-17 Lorient-Strasbourg,FRA-L1,23-24,f3cfe34d
+0b6911e4,Jérémy Sebas,33,MTQ,FW,20-247,15,0,0,0,0,1,1,0,0,7,1,0,0,0.0,0.0,0.0,0,0,2,3,66.7,1,6,1,1,1,Strasbourg,2023-12-17 Lorient-Strasbourg,FRA-L1,23-24,f3cfe34d
+6d0fe035,Habib Diarra,19,SEN,LW,19-348,84,0,0,0,0,3,1,0,0,40,0,0,2,0.1,0.1,0.0,1,1,25,30,83.3,2,27,1,2,1,Strasbourg,2023-12-17 Lorient-Strasbourg,FRA-L1,23-24,f3cfe34d
+a6138e4a,Jessy Deminguet,7,FRA,LW,25-344,6,0,0,0,0,0,0,0,0,11,0,1,0,0.0,0.0,0.0,1,0,8,8,100.0,2,7,1,1,0,Strasbourg,2023-12-17 Lorient-Strasbourg,FRA-L1,23-24,f3cfe34d
+2b5a35e5,Dilane Bakwa,26,FRA,RW,21-113,83,1,0,0,0,3,3,0,0,46,3,0,0,0.2,0.2,0.0,4,0,21,34,61.8,1,34,6,4,3,Strasbourg,2023-12-17 Lorient-Strasbourg,FRA-L1,23-24,f3cfe34d
+737945d9,Ângelo Borges,23,BRA,RW,18-361,7,0,0,0,0,1,1,0,0,14,0,0,1,0.1,0.1,0.0,3,0,6,8,75.0,1,9,2,2,1,Strasbourg,2023-12-17 Lorient-Strasbourg,FRA-L1,23-24,f3cfe34d
+42276181,Kévin Gameiro,9,FRA,AM,36-222,75,1,0,0,0,1,1,0,0,32,1,0,0,0.0,0.0,0.4,4,0,19,23,82.6,4,22,0,1,0,Strasbourg,2023-12-17 Lorient-Strasbourg,FRA-L1,23-24,f3cfe34d
+3eaf8817,Lebo Mothiba,12,RSA,AM,27-323,15,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,2,0,0,0,Strasbourg,2023-12-17 Lorient-Strasbourg,FRA-L1,23-24,f3cfe34d
+ee158be5,Junior Mwanga,18,FRA,DM,20-220,90,0,1,0,0,0,0,0,0,62,0,2,1,0.0,0.0,0.1,2,1,47,56,83.9,4,49,4,3,3,Strasbourg,2023-12-17 Lorient-Strasbourg,FRA-L1,23-24,f3cfe34d
+0f8418aa,Ibrahima Sissoko,27,MLI,DM,26-051,90,0,0,0,0,1,0,0,0,56,4,2,1,0.0,0.0,0.0,2,0,36,42,85.7,4,39,0,1,1,Strasbourg,2023-12-17 Lorient-Strasbourg,FRA-L1,23-24,f3cfe34d
+8332db56,Thomas Delaine,3,FRA,LB,31-268,36,0,0,0,0,0,0,0,0,14,1,0,0,0.0,0.0,0.0,0,0,8,11,72.7,0,9,1,2,2,Strasbourg,2023-12-17 Lorient-Strasbourg,FRA-L1,23-24,f3cfe34d
+1d383c10,Marvin Senaya,28,TOG,LB,22-323,54,0,0,0,0,0,0,0,0,31,1,0,0,0.0,0.0,0.0,1,1,18,21,85.7,2,15,2,1,1,Strasbourg,2023-12-17 Lorient-Strasbourg,FRA-L1,23-24,f3cfe34d
+29c91632,Abakar Sylla,24,CIV,CB,20-357,66,0,0,0,0,1,1,0,0,63,1,1,1,0.2,0.2,0.0,1,0,49,54,90.7,1,42,0,0,0,Strasbourg,2023-12-17 Lorient-Strasbourg,FRA-L1,23-24,f3cfe34d
+f6b94e8d,Saidou Sow,13,GUI,CB,21-166,24,0,0,0,0,0,0,0,0,13,1,1,0,0.0,0.0,0.0,0,0,7,7,100.0,0,6,0,0,0,Strasbourg,2023-12-17 Lorient-Strasbourg,FRA-L1,23-24,f3cfe34d
+49070d66,Lucas Perrin,5,FRA,CB,25-028,90,0,0,0,0,0,0,1,0,82,1,0,0,0.0,0.0,0.0,0,0,64,74,86.5,0,66,0,0,0,Strasbourg,2023-12-17 Lorient-Strasbourg,FRA-L1,23-24,f3cfe34d
+5d8d7454,Frederic Guilbert,2,FRA,RB,28-358,90,0,0,0,0,0,0,0,0,79,3,3,2,0.0,0.0,0.0,1,0,45,65,69.2,3,56,0,0,0,Strasbourg,2023-12-17 Lorient-Strasbourg,FRA-L1,23-24,f3cfe34d
+834b5c4c,Matz Sels,1,BEL,GK,31-294,90,0,0,0,0,0,0,1,0,32,0,0,0,0.0,0.0,0.0,0,0,23,32,71.9,0,22,0,0,0,Strasbourg,2023-12-17 Lorient-Strasbourg,FRA-L1,23-24,f3cfe34d

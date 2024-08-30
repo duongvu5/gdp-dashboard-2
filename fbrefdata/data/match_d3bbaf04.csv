@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+0b4f388a,Breel Embolo,36,SUI,FW,22-255,34,0,1,0,0,0,0,0,0,17,0,0,1,0.0,0.0,0.7,1,1,9,10,90.0,2,14,1,1,0,Mönchengladbach,2019-10-27 Gladbach-Eint Frankfurt,GER-BL1,19-20,d3bbaf04
+7cd6badb,Lars Stindl,13,GER,FW,31-062,56,0,1,0,0,1,0,0,0,29,0,0,1,0.1,0.1,0.3,6,3,20,24,83.3,1,22,3,3,2,Mönchengladbach,2019-10-27 Gladbach-Eint Frankfurt,GER-BL1,19-20,d3bbaf04
+6f8cd6d0,Marcus Thuram,10,FRA,LW,22-082,90,1,1,0,0,3,2,0,0,46,0,1,2,1.0,1.0,0.2,3,0,14,22,63.6,1,35,4,9,3,Mönchengladbach,2019-10-27 Gladbach-Eint Frankfurt,GER-BL1,19-20,d3bbaf04
+dfb6490a,Patrick Herrmann,7,GER,RW,28-257,81,0,0,0,0,1,0,0,0,41,1,2,3,0.1,0.1,0.0,1,1,15,27,55.6,1,26,2,1,1,Mönchengladbach,2019-10-27 Gladbach-Eint Frankfurt,GER-BL1,19-20,d3bbaf04
+2903a856,Jonas Hofmann,23,GER,RW,27-105,9,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,8,9,88.9,0,5,1,0,0,Mönchengladbach,2019-10-27 Gladbach-Eint Frankfurt,GER-BL1,19-20,d3bbaf04
+36a59ba4,Florian Neuhaus,32,GER,LM,22-225,90,0,0,0,0,0,0,1,0,38,2,1,0,0.0,0.0,0.0,0,0,22,28,78.6,3,23,0,0,0,Mönchengladbach,2019-10-27 Gladbach-Eint Frankfurt,GER-BL1,19-20,d3bbaf04
+384d58d9,Denis Zakaria,8,SUI,CM,22-341,90,1,0,0,0,1,1,0,0,46,3,2,2,0.3,0.3,0.0,0,0,28,33,84.8,2,29,2,0,0,Mönchengladbach,2019-10-27 Gladbach-Eint Frankfurt,GER-BL1,19-20,d3bbaf04
+fe888e39,László Bénes,22,SVK,RM,22-048,90,0,1,0,0,2,1,0,0,54,0,1,1,0.1,0.1,0.3,7,2,30,51,58.8,4,38,0,0,0,Mönchengladbach,2019-10-27 Gladbach-Eint Frankfurt,GER-BL1,19-20,d3bbaf04
+b69261a0,Oscar Wendt,17,SWE,LB,34-003,90,1,0,0,0,3,1,0,0,66,3,1,4,0.1,0.1,0.0,1,0,42,48,87.5,5,39,1,0,0,Mönchengladbach,2019-10-27 Gladbach-Eint Frankfurt,GER-BL1,19-20,d3bbaf04
+48035304,Nico Elvedi,30,SUI,CB,23-027,90,1,0,0,0,1,1,0,0,63,4,1,2,0.0,0.0,0.0,1,0,44,48,91.7,1,38,0,1,1,Mönchengladbach,2019-10-27 Gladbach-Eint Frankfurt,GER-BL1,19-20,d3bbaf04
+34b54da7,Tony Jantschke,24,GER,CB,29-203,45,0,0,0,0,1,0,0,0,37,1,3,1,0.1,0.1,0.0,0,0,21,29,72.4,2,22,0,0,0,Mönchengladbach,2019-10-27 Gladbach-Eint Frankfurt,GER-BL1,19-20,d3bbaf04
+9af1f9ff,Jordan Beyer,15,GER,CB,19-161,45,0,0,0,0,0,0,0,0,17,1,0,2,0.0,0.0,0.0,0,0,9,13,69.2,0,10,0,0,0,Mönchengladbach,2019-10-27 Gladbach-Eint Frankfurt,GER-BL1,19-20,d3bbaf04
+4aea5077,Stefan Lainer,18,AUT,RB,27-061,90,0,0,0,0,0,0,0,0,71,4,2,1,0.0,0.0,0.1,1,0,35,62,56.5,7,36,1,2,1,Mönchengladbach,2019-10-27 Gladbach-Eint Frankfurt,GER-BL1,19-20,d3bbaf04
+420c18a1,Yann Sommer,1,SUI,GK,30-314,90,0,0,0,0,0,0,0,0,59,0,0,0,0.0,0.0,0.0,0,0,42,59,71.2,0,41,0,0,0,Mönchengladbach,2019-10-27 Gladbach-Eint Frankfurt,GER-BL1,19-20,d3bbaf04
+15b287da,Daichi Kamada,15,JPN,FW,23-083,90,0,2,0,0,3,0,0,0,52,4,0,1,0.2,0.2,0.6,7,2,25,39,64.1,5,31,3,1,1,Eintracht Frankfurt,2019-10-27 Gladbach-Eint Frankfurt,GER-BL1,19-20,d3bbaf04
+962e54cb,Gonçalo Paciência,39,POR,FW,25-087,90,0,0,0,0,2,1,0,0,37,1,0,0,0.1,0.1,0.0,1,0,18,23,78.3,3,22,0,4,3,Eintracht Frankfurt,2019-10-27 Gladbach-Eint Frankfurt,GER-BL1,19-20,d3bbaf04
+b1cd37e6,Filip Kostić,10,SRB,LW,26-360,78,0,0,0,0,2,0,0,0,56,1,1,4,0.1,0.1,0.1,5,1,29,41,70.7,3,28,6,4,2,Eintracht Frankfurt,2019-10-27 Gladbach-Eint Frankfurt,GER-BL1,19-20,d3bbaf04
+b3b7f5a6,Timothy Chandler,22,USA,LW,29-212,12,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,3,5,60.0,0,3,0,0,0,Eintracht Frankfurt,2019-10-27 Gladbach-Eint Frankfurt,GER-BL1,19-20,d3bbaf04
+5ddb8f9f,Danny da Costa,24,GER,RW,26-106,90,1,0,0,0,3,1,0,0,59,2,3,0,0.6,0.6,0.1,5,1,25,45,55.6,5,24,2,2,1,Eintracht Frankfurt,2019-10-27 Gladbach-Eint Frankfurt,GER-BL1,19-20,d3bbaf04
+e12b0b5b,Sebastian Rode,17,GER,CM,29-016,45,0,0,0,0,0,0,0,0,19,0,1,0,0.0,0.0,0.0,0,0,10,15,66.7,0,8,0,0,0,Eintracht Frankfurt,2019-10-27 Gladbach-Eint Frankfurt,GER-BL1,19-20,d3bbaf04
+0fbecd11,Dominik Kohr,28,GER,CM,25-269,45,0,0,0,0,0,0,0,0,21,1,0,1,0.0,0.0,0.0,1,0,15,18,83.3,3,12,1,0,0,Eintracht Frankfurt,2019-10-27 Gladbach-Eint Frankfurt,GER-BL1,19-20,d3bbaf04
+4c6facae,Djibril Sow,8,SUI,CM,22-263,90,0,0,0,0,2,0,0,0,56,4,3,0,0.0,0.0,0.0,1,0,38,48,79.2,2,31,1,0,0,Eintracht Frankfurt,2019-10-27 Gladbach-Eint Frankfurt,GER-BL1,19-20,d3bbaf04
+8e58987d,Gelson Fernandes,5,SUI,DM,33-055,82,0,0,0,0,0,0,0,0,46,5,2,2,0.0,0.0,0.0,0,0,24,34,70.6,3,22,0,1,0,Eintracht Frankfurt,2019-10-27 Gladbach-Eint Frankfurt,GER-BL1,19-20,d3bbaf04
+95a24690,Dejan Joveljić,7,SRB,DM,20-081,8,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,1,3,33.3,0,2,0,0,0,Eintracht Frankfurt,2019-10-27 Gladbach-Eint Frankfurt,GER-BL1,19-20,d3bbaf04
+080440a4,Martin Hinteregger,13,AUT,CB,27-050,90,1,0,0,0,3,1,0,0,67,0,1,3,0.2,0.2,0.0,3,0,41,56,73.2,5,35,0,0,0,Eintracht Frankfurt,2019-10-27 Gladbach-Eint Frankfurt,GER-BL1,19-20,d3bbaf04
+9ab16552,Makoto Hasebe,20,JPN,CB,35-282,90,0,0,0,0,0,0,0,0,78,2,1,1,0.0,0.0,0.1,1,0,58,67,86.6,4,43,1,0,0,Eintracht Frankfurt,2019-10-27 Gladbach-Eint Frankfurt,GER-BL1,19-20,d3bbaf04
+565bf0da,David Abraham,19,ARG,CB,33-104,90,0,0,0,0,0,0,1,0,65,2,2,2,0.0,0.0,0.0,1,0,43,53,81.1,5,34,0,0,0,Eintracht Frankfurt,2019-10-27 Gladbach-Eint Frankfurt,GER-BL1,19-20,d3bbaf04
+a70b8345,Frederik Rønnow,32,DEN,GK,27-084,90,0,0,0,0,0,0,0,0,42,0,0,0,0.0,0.0,0.0,0,0,19,40,47.5,0,26,0,0,0,Eintracht Frankfurt,2019-10-27 Gladbach-Eint Frankfurt,GER-BL1,19-20,d3bbaf04

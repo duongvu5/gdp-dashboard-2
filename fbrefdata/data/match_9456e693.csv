@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+ee4f2f3b,Fabio Quagliarella,27,ITA,FW,34-201,90,2,0,0,0,5,2,0,0,33,0,1,1,1.3,1.3,0.0,1,0,15,25,60.0,3,16,0,2,1,Sampdoria,2017-08-20 Sampdoria-Benevento,ITA-SERIA_A,17-18,9456e693
+54e53b7e,Gianluca Caprari,17,ITA,FW,24-021,62,0,0,0,0,0,0,0,0,23,0,0,0,0.0,0.0,0.5,4,0,17,20,85.0,3,17,3,1,1,Sampdoria,2017-08-20 Sampdoria-Benevento,ITA-SERIA_A,17-18,9456e693
+bf57eaab,Federico Bonazzoli,97,ITA,FW,20-091,28,0,0,0,0,1,0,0,0,16,0,0,0,0.1,0.1,0.0,0,0,12,13,92.3,0,9,0,1,1,Sampdoria,2017-08-20 Sampdoria-Benevento,ITA-SERIA_A,17-18,9456e693
+2c851997,Gastón Ramírez,11,URU,AM,26-261,67,0,1,0,0,3,1,0,0,36,0,1,0,0.5,0.5,0.4,6,2,23,30,76.7,5,25,1,4,4,Sampdoria,2017-08-20 Sampdoria-Benevento,ITA-SERIA_A,17-18,9456e693
+d023d70f,Karol Linetty,16,POL,AM,22-199,23,0,0,0,0,0,0,0,0,22,0,0,0,0.0,0.0,0.0,1,0,16,20,80.0,4,22,3,2,2,Sampdoria,2017-08-20 Sampdoria-Benevento,ITA-SERIA_A,17-18,9456e693
+86695068,Dennis Praet,10,BEL,LM,23-098,83,0,0,0,0,2,1,0,0,73,2,1,3,0.1,0.1,0.1,4,1,51,63,81.0,7,47,4,6,4,Sampdoria,2017-08-20 Sampdoria-Benevento,ITA-SERIA_A,17-18,9456e693
+eccbe56a,Filip Đuričić,10,SRB,LM,25-202,7,0,0,0,0,0,0,0,0,13,0,0,0,0.0,0.0,0.1,1,0,6,10,60.0,0,8,1,0,0,Sampdoria,2017-08-20 Sampdoria-Benevento,ITA-SERIA_A,17-18,9456e693
+52611641,Lucas Torreira,34,URU,CM,21-190,90,0,0,0,0,1,0,0,0,83,4,0,1,0.0,0.0,0.1,4,0,65,75,86.7,13,43,1,3,2,Sampdoria,2017-08-20 Sampdoria-Benevento,ITA-SERIA_A,17-18,9456e693
+43a1bea5,Édgar Barreto,8,PAR,RM,33-036,90,0,0,0,0,2,1,1,0,66,4,0,1,0.1,0.1,0.0,2,0,50,57,87.7,4,31,1,2,2,Sampdoria,2017-08-20 Sampdoria-Benevento,ITA-SERIA_A,17-18,9456e693
+47146acb,Daniel Pavlović,20,BIH,LB,29-120,90,0,0,0,0,0,0,0,0,75,3,0,0,0.0,0.0,0.0,2,0,52,67,77.6,5,38,0,0,0,Sampdoria,2017-08-20 Sampdoria-Benevento,ITA-SERIA_A,17-18,9456e693
+339c6ed4,Vasco Regini,19,ITA,CB,26-345,90,0,0,0,0,1,0,0,0,101,0,2,2,0.1,0.1,0.7,1,0,81,88,92.0,2,69,0,0,0,Sampdoria,2017-08-20 Sampdoria-Benevento,ITA-SERIA_A,17-18,9456e693
+b6ca47a2,Matías Silvestre,26,ARG,CB,32-329,90,0,0,0,0,1,1,0,0,97,0,0,1,0.7,0.7,0.0,0,0,87,91,95.6,4,64,0,0,0,Sampdoria,2017-08-20 Sampdoria-Benevento,ITA-SERIA_A,17-18,9456e693
+da5a981b,Jacopo Sala,7,ITA,RB,25-258,90,0,0,0,0,0,0,0,0,88,4,0,1,0.0,0.0,0.0,1,0,64,77,83.1,6,49,4,1,1,Sampdoria,2017-08-20 Sampdoria-Benevento,ITA-SERIA_A,17-18,9456e693
+b39dfab0,Christian Puggioni,1,ITA,GK,36-215,90,0,0,0,0,0,0,0,0,45,0,0,0,0.0,0.0,0.0,0,0,36,43,83.7,0,24,0,0,0,Sampdoria,2017-08-20 Sampdoria-Benevento,ITA-SERIA_A,17-18,9456e693
+c23c8e0d,George Pușcaș,32,ROU,FW,21-134,81,0,0,0,0,4,1,0,0,23,0,1,0,0.4,0.4,0.0,4,0,14,14,100.0,1,14,3,0,0,Benevento,2017-08-20 Sampdoria-Benevento,ITA-SERIA_A,17-18,9456e693
+b39569c0,Karamoko Cissé,19,GUI,FW,28-279,9,0,0,0,0,0,0,0,0,2,1,0,0,0.0,0.0,0.0,0,0,1,1,100.0,1,1,0,0,0,Benevento,2017-08-20 Sampdoria-Benevento,ITA-SERIA_A,17-18,9456e693
+4c7940d6,Massimo Coda,9,ITA,FW,28-283,90,0,0,0,0,5,4,0,0,36,0,1,1,0.2,0.2,0.1,5,1,19,27,70.4,4,21,4,2,1,Benevento,2017-08-20 Sampdoria-Benevento,ITA-SERIA_A,17-18,9456e693
+060606ec,Marco D'Alessandro,7,ITA,LM,26-184,90,0,0,0,0,1,0,0,0,37,3,2,1,0.0,0.0,0.1,6,0,14,22,63.6,0,24,5,4,3,Benevento,2017-08-20 Sampdoria-Benevento,ITA-SERIA_A,17-18,9456e693
+081b6080,Lorenzo Del Pinto,4,ITA,CM,27-064,82,0,0,0,0,0,0,1,0,36,3,2,0,0.0,0.0,0.0,1,0,24,27,88.9,2,11,0,0,0,Benevento,2017-08-20 Sampdoria-Benevento,ITA-SERIA_A,17-18,9456e693
+45392b06,Nicolas Viola,10,ITA,CM,27-312,8,0,0,0,0,0,0,0,0,8,1,0,0,0.0,0.0,0.0,0,0,4,7,57.1,1,6,0,0,0,Benevento,2017-08-20 Sampdoria-Benevento,ITA-SERIA_A,17-18,9456e693
+ba3d3bea,Danilo Cataldi,8,ITA,CM,23-014,90,0,1,0,0,2,0,1,0,54,3,2,1,0.0,0.0,0.1,6,1,37,46,80.4,7,29,2,2,2,Benevento,2017-08-20 Sampdoria-Benevento,ITA-SERIA_A,17-18,9456e693
+1ab0b878,Amato Ciciretti,10,ITA,RM,23-232,90,1,0,0,0,5,2,0,0,53,1,0,0,0.2,0.2,0.4,6,0,34,43,79.1,1,41,4,2,2,Benevento,2017-08-20 Sampdoria-Benevento,ITA-SERIA_A,17-18,9456e693
+3dd45b70,Gaetano Letizia,3,ITA,LB,27-052,71,0,0,0,0,1,0,0,0,39,1,1,1,0.0,0.0,0.1,1,0,22,32,68.8,1,16,2,0,0,Benevento,2017-08-20 Sampdoria-Benevento,ITA-SERIA_A,17-18,9456e693
+68852c0a,Gianluca Di Chiara,17,ITA,LB,23-237,19,0,0,0,0,0,0,0,0,17,0,0,2,0.0,0.0,0.0,0,0,9,15,60.0,1,10,2,0,0,Benevento,2017-08-20 Sampdoria-Benevento,ITA-SERIA_A,17-18,9456e693
+f5e9a8bd,Andrea Costa,15,ITA,CB,31-200,90,0,0,0,0,0,0,0,0,46,1,3,6,0.0,0.0,0.0,2,0,25,30,83.3,0,21,0,2,2,Benevento,2017-08-20 Sampdoria-Benevento,ITA-SERIA_A,17-18,9456e693
+8efa621b,Fabio Lucioni,5,ITA,CB,29-329,90,0,0,0,0,0,0,0,0,51,2,0,2,0.0,0.0,0.0,1,0,27,39,69.2,2,22,0,0,0,Benevento,2017-08-20 Sampdoria-Benevento,ITA-SERIA_A,17-18,9456e693
+983ff2c7,Lorenzo Venuti,23,ITA,RB,22-130,90,0,0,0,0,0,0,0,0,65,2,0,2,0.0,0.0,0.1,3,0,43,50,86.0,4,26,2,0,0,Benevento,2017-08-20 Sampdoria-Benevento,ITA-SERIA_A,17-18,9456e693
+4f8ce0e1,Vid Belec,1,SVN,GK,27-075,90,0,0,0,0,0,0,0,0,32,0,0,0,0.0,0.0,0.0,0,0,20,29,69.0,0,14,0,0,0,Benevento,2017-08-20 Sampdoria-Benevento,ITA-SERIA_A,17-18,9456e693

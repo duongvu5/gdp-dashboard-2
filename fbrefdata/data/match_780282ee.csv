@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+0b4d8274,Romain Hamouma,21,FRA,FW,33-217,90,0,0,0,0,2,0,1,0,32,2,0,1,0.1,0.1,0.4,3,0,13,22,59.1,2,21,1,4,1,Saint-Étienne,2020-11-01 Saint-Étienne-Montpellier,FRA-L1,20-21,780282ee
+2677a1de,Wahbi Khazri,10,TUN,LW,29-267,70,0,0,0,0,1,0,1,0,30,2,0,0,0.1,0.1,0.0,1,0,15,24,62.5,5,20,2,3,2,Saint-Étienne,2020-11-01 Saint-Étienne-Montpellier,FRA-L1,20-21,780282ee
+469d3d84,Charles Abi,9,FRA,LW,20-203,20,0,0,0,0,0,0,0,0,6,1,0,1,0.0,0.0,0.0,0,0,2,4,50.0,1,1,0,0,0,Saint-Étienne,2020-11-01 Saint-Étienne-Montpellier,FRA-L1,20-21,780282ee
+b6047994,Bilal Benkhedim,15,FRA,RW,19-195,59,0,0,0,0,0,0,0,0,43,0,0,0,0.0,0.0,0.1,1,0,23,35,65.7,1,25,0,2,1,Saint-Étienne,2020-11-01 Saint-Étienne-Montpellier,FRA-L1,20-21,780282ee
+0b0cbe5b,Denis Bouanga,20,GAB,RW,25-356,31,0,0,0,0,2,0,0,0,12,0,0,0,0.2,0.2,0.0,0,0,3,5,60.0,1,11,3,2,0,Saint-Étienne,2020-11-01 Saint-Étienne-Montpellier,FRA-L1,20-21,780282ee
+8577e60a,Mahdi Camara,8,FRA,LM,22-124,85,0,0,0,0,0,0,0,0,49,3,3,0,0.0,0.0,0.0,2,0,34,39,87.2,9,31,2,0,0,Saint-Étienne,2020-11-01 Saint-Étienne-Montpellier,FRA-L1,20-21,780282ee
+46a7b605,Maxence Rivera,32,FRA,LM,18-155,5,0,0,0,0,0,0,0,0,4,0,0,1,0.0,0.0,0.0,0,0,1,2,50.0,0,2,0,0,0,Saint-Étienne,2020-11-01 Saint-Étienne-Montpellier,FRA-L1,20-21,780282ee
+0ad37003,Yvan Neyou,19,CMR,CM,23-303,90,0,0,0,0,1,0,0,0,83,1,2,3,0.1,0.1,0.0,4,0,64,71,90.1,10,50,4,5,5,Saint-Étienne,2020-11-01 Saint-Étienne-Montpellier,FRA-L1,20-21,780282ee
+e2f9bb5f,Zaydou Youssouf,28,FRA,RM,21-113,45,0,0,0,0,0,0,0,0,28,1,1,0,0.0,0.0,0.0,1,0,22,26,84.6,1,21,0,2,2,Saint-Étienne,2020-11-01 Saint-Étienne-Montpellier,FRA-L1,20-21,780282ee
+b94b8be1,Adil Aouchiche,17,FRA,CM,18-109,45,0,0,0,0,1,0,1,0,32,1,0,1,0.3,0.3,0.0,1,0,19,28,67.9,2,22,1,4,4,Saint-Étienne,2020-11-01 Saint-Étienne-Montpellier,FRA-L1,20-21,780282ee
+4914ed4a,Gabriel Silva,11,BRA,LB,29-172,85,0,0,0,0,0,0,0,0,54,1,1,1,0.0,0.0,0.0,1,0,40,49,81.6,0,27,0,0,0,Saint-Étienne,2020-11-01 Saint-Étienne-Montpellier,FRA-L1,20-21,780282ee
+e3ad3368,Rayan Souici,35,FRA,LB,22-247,5,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,8,9,88.9,0,6,0,0,0,Saint-Étienne,2020-11-01 Saint-Étienne-Montpellier,FRA-L1,20-21,780282ee
+ab096c6f,Timothée Kolodziejczak,5,FRA,CB,29-031,90,0,0,0,0,1,0,0,0,79,0,1,0,0.1,0.1,0.0,0,0,62,69,89.9,7,54,1,0,0,Saint-Étienne,2020-11-01 Saint-Étienne-Montpellier,FRA-L1,20-21,780282ee
+f6b94e8d,Saidou Sow,31,GUI,CB,18-120,90,0,0,0,0,0,0,0,0,63,1,2,0,0.0,0.0,0.0,0,0,49,56,87.5,3,43,1,0,0,Saint-Étienne,2020-11-01 Saint-Étienne-Montpellier,FRA-L1,20-21,780282ee
+2591b066,Aimen Moueffek,34,FRA,RB,19-206,90,0,0,0,0,0,0,0,0,82,4,3,4,0.0,0.0,0.1,2,0,45,57,78.9,6,44,2,9,6,Saint-Étienne,2020-11-01 Saint-Étienne-Montpellier,FRA-L1,20-21,780282ee
+28a65a2c,Jessy Moulin,30,FRA,GK,34-293,90,0,0,0,0,0,0,0,0,29,0,0,0,0.0,0.0,0.0,0,0,23,29,79.3,0,20,0,0,0,Saint-Étienne,2020-11-01 Saint-Étienne-Montpellier,FRA-L1,20-21,780282ee
+d33c706e,Andy Delort,9,ALG,FW,29-023,90,0,0,0,0,1,0,0,0,48,0,0,1,0.0,0.0,0.3,4,0,24,42,57.1,3,23,0,2,1,Montpellier,2020-11-01 Saint-Étienne-Montpellier,FRA-L1,20-21,780282ee
+7cdda3bf,Gaëtan Laborde,10,FRA,LW,26-182,90,0,0,0,0,3,1,1,0,33,1,0,0,0.4,0.4,0.1,5,0,15,26,57.7,2,26,3,1,1,Montpellier,2020-11-01 Saint-Étienne-Montpellier,FRA-L1,20-21,780282ee
+30144daa,Stephy Mavididi,19,ENG,RW,22-154,76,1,0,0,0,1,1,0,0,31,1,2,0,0.0,0.0,0.1,1,0,18,22,81.8,1,20,2,3,1,Montpellier,2020-11-01 Saint-Étienne-Montpellier,FRA-L1,20-21,780282ee
+d9a66c60,Petar Škuletić,32,SRB,RW,30-125,14,0,0,0,0,2,0,0,0,9,0,0,1,0.1,0.1,0.0,1,0,3,5,60.0,0,8,0,0,0,Montpellier,2020-11-01 Saint-Étienne-Montpellier,FRA-L1,20-21,780282ee
+7e82a78f,Florent Mollet,25,FRA,LM,28-348,62,0,0,0,0,2,0,0,0,46,0,2,0,0.1,0.1,0.0,0,0,29,38,76.3,3,30,0,2,1,Montpellier,2020-11-01 Saint-Étienne-Montpellier,FRA-L1,20-21,780282ee
+23bf644d,Yun Il-lok,24,KOR,LM,28-239,28,0,0,0,0,0,0,1,0,9,0,0,0,0.0,0.0,0.0,0,0,5,8,62.5,1,6,0,2,1,Montpellier,2020-11-01 Saint-Étienne-Montpellier,FRA-L1,20-21,780282ee
+375622c5,Jordan Ferri,12,FRA,CM,28-234,90,0,0,0,0,0,0,0,0,70,1,0,0,0.0,0.0,0.0,1,0,50,62,80.6,4,46,1,1,0,Montpellier,2020-11-01 Saint-Étienne-Montpellier,FRA-L1,20-21,780282ee
+ccb1c3af,Keagan Dolly,20,RSA,RM,27-284,68,0,0,0,0,0,0,1,0,26,1,1,0,0.0,0.0,0.0,3,0,23,23,100.0,1,17,2,1,1,Montpellier,2020-11-01 Saint-Étienne-Montpellier,FRA-L1,20-21,780282ee
+7909ffa4,Joris Chotard,13,FRA,RM,19-038,22,0,0,0,0,1,0,0,0,5,0,0,0,0.0,0.0,0.1,2,0,2,2,100.0,0,2,0,2,2,Montpellier,2020-11-01 Saint-Étienne-Montpellier,FRA-L1,20-21,780282ee
+e3e05edf,Ambroise Oyongo,8,CMR,LB,29-132,90,0,0,0,0,0,0,0,0,65,3,1,0,0.0,0.0,0.0,1,0,38,52,73.1,5,37,1,1,0,Montpellier,2020-11-01 Saint-Étienne-Montpellier,FRA-L1,20-21,780282ee
+3f5b4635,Daniel Congré,3,FRA,CB,35-210,90,0,0,0,0,0,0,0,0,41,1,1,1,0.0,0.0,0.0,0,0,29,35,82.9,1,21,0,0,0,Montpellier,2020-11-01 Saint-Étienne-Montpellier,FRA-L1,20-21,780282ee
+6690ef25,Pedro Mendes,5,POR,CB,30-031,75,0,0,0,0,0,0,0,0,46,0,2,2,0.0,0.0,0.0,0,0,34,36,94.4,1,27,0,0,0,Montpellier,2020-11-01 Saint-Étienne-Montpellier,FRA-L1,20-21,780282ee
+8f325097,Nicolas Cozza,31,FRA,CB,21-298,15,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,1,0,0,0,Montpellier,2020-11-01 Saint-Étienne-Montpellier,FRA-L1,20-21,780282ee
+24eb7ed6,Junior Sambia,6,FRA,RB,24-055,90,0,0,0,0,0,0,0,0,71,3,5,1,0.0,0.0,0.0,0,0,47,56,83.9,2,42,5,5,3,Montpellier,2020-11-01 Saint-Étienne-Montpellier,FRA-L1,20-21,780282ee
+380a15e2,Dimitry Bertaud,16,COD,GK,22-148,90,0,0,0,0,0,0,0,0,40,0,0,0,0.0,0.0,0.0,0,0,30,40,75.0,0,27,0,0,0,Montpellier,2020-11-01 Saint-Étienne-Montpellier,FRA-L1,20-21,780282ee

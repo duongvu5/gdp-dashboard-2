@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+21a66f6a,Harry Kane,9,ENG,FW,30-260,90,0,0,0,0,5,1,0,0,21,0,1,1,0.5,0.5,0.0,2,0,7,12,58.3,2,11,1,3,1,Bayern Munich,2024-04-13 Bayern Munich-Köln,GER-BL1,23-24,40ea8291
+829aa60c,Mathys Tel,39,FRA,LW,18-352,90,0,0,0,0,4,2,0,0,57,1,2,1,0.3,0.3,0.0,1,0,35,41,85.4,4,42,10,6,2,Bayern Munich,2024-04-13 Bayern Munich-Köln,GER-BL1,23-24,40ea8291
+042e8a49,Kingsley Coman,11,FRA,RW,27-305,49,0,0,0,0,0,0,0,0,54,1,0,1,0.0,0.0,0.1,3,0,37,44,84.1,10,34,5,5,2,Bayern Munich,2024-04-13 Bayern Munich-Köln,GER-BL1,23-24,40ea8291
+2c0558b8,Jamal Musiala,42,GER,RW,21-047,41,0,0,0,0,2,0,0,0,18,0,1,0,0.1,0.1,0.0,1,1,13,14,92.9,1,15,4,3,2,Bayern Munich,2024-04-13 Bayern Munich-Köln,GER-BL1,23-24,40ea8291
+3c6089ab,Thomas Müller,25,GER,AM,34-213,90,1,0,0,0,2,1,0,0,68,2,0,0,0.6,0.6,0.4,6,0,48,62,77.4,10,31,2,1,0,Bayern Munich,2024-04-13 Bayern Munich-Köln,GER-BL1,23-24,40ea8291
+048a1cbc,Raphaël Guerreiro,22,POR,DM,30-113,78,1,0,0,0,2,2,0,0,59,0,0,0,0.7,0.7,0.2,3,0,44,53,83.0,4,19,0,0,0,Bayern Munich,2024-04-13 Bayern Munich-Köln,GER-BL1,23-24,40ea8291
+c1b7847c,Konrad Laimer,27,AUT,DM,26-322,12,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,1,0,8,10,80.0,0,4,0,1,1,Bayern Munich,2024-04-13 Bayern Munich-Köln,GER-BL1,23-24,40ea8291
+2658c82f,Aleksandar Pavlovic,45,GER,DM,19-346,78,0,0,0,0,0,0,0,0,68,0,1,0,0.0,0.0,0.0,1,0,59,62,95.2,7,42,1,2,1,Bayern Munich,2024-04-13 Bayern Munich-Köln,GER-BL1,23-24,40ea8291
+cc86b9a3,Leon Goretzka,8,GER,DM,29-067,12,0,0,0,0,0,0,0,0,14,2,0,2,0.0,0.0,0.0,0,0,7,11,63.6,2,4,1,0,0,Bayern Munich,2024-04-13 Bayern Munich-Köln,GER-BL1,23-24,40ea8291
+b74277a0,Noussair Mazraoui,40,MAR,LB,26-151,61,0,0,0,0,0,0,0,0,54,3,0,1,0.0,0.0,0.0,2,0,44,48,91.7,6,22,0,3,2,Bayern Munich,2024-04-13 Bayern Munich-Köln,GER-BL1,23-24,40ea8291
+d781d855,Alphonso Davies,19,CAN,LB,23-163,29,0,0,0,0,0,0,0,0,29,0,2,1,0.0,0.0,0.0,0,0,18,22,81.8,2,19,1,0,0,Bayern Munich,2024-04-13 Bayern Munich-Köln,GER-BL1,23-24,40ea8291
+ac861941,Eric Dier,15,ENG,CB,30-089,90,0,0,0,0,0,0,0,0,113,1,0,1,0.0,0.0,0.1,1,0,104,108,96.3,4,65,0,0,0,Bayern Munich,2024-04-13 Bayern Munich-Köln,GER-BL1,23-24,40ea8291
+d6e53a3a,Matthijs de Ligt,4,NED,CB,24-245,60,0,0,0,0,1,0,0,0,67,2,1,1,0.0,0.0,0.0,0,0,58,60,96.7,7,41,0,0,0,Bayern Munich,2024-04-13 Bayern Munich-Köln,GER-BL1,23-24,40ea8291
+d248cd8f,Dayot Upamecano,2,FRA,CB,25-169,30,0,0,0,0,0,0,0,0,38,0,1,0,0.0,0.0,0.0,0,0,35,36,97.2,2,24,1,0,0,Bayern Munich,2024-04-13 Bayern Munich-Köln,GER-BL1,23-24,40ea8291
+49296448,Joshua Kimmich,6,GER,RB,29-065,90,0,1,0,0,0,0,0,0,121,3,0,0,0.0,0.0,0.2,6,1,100,114,87.7,20,65,3,3,2,Bayern Munich,2024-04-13 Bayern Munich-Köln,GER-BL1,23-24,40ea8291
+7d3e7da6,Sven Ulreich,26,GER,GK,35-254,90,0,0,0,0,0,0,0,0,36,0,0,0,0.0,0.0,0.0,0,0,30,34,88.2,0,17,0,0,0,Bayern Munich,2024-04-13 Bayern Munich-Köln,GER-BL1,23-24,40ea8291
+e5d85da8,Linton Maina,37,GER,"FW,LM",24-295,66,0,0,0,0,1,1,1,0,23,2,0,0,0.0,0.0,0.0,1,0,14,16,87.5,4,16,2,1,0,Köln,2024-04-13 Bayern Munich-Köln,GER-BL1,23-24,40ea8291
+ad00b1a8,Benno Schmitz,2,GER,RB,29-148,24,0,0,0,0,1,1,0,0,22,1,1,2,0.0,0.0,0.0,1,0,11,17,64.7,2,12,1,0,0,Köln,2024-04-13 Bayern Munich-Köln,GER-BL1,23-24,40ea8291
+22919e97,Sargis Adamyan,23,ARM,FW,30-326,66,0,0,0,0,2,1,1,0,18,2,0,1,0.3,0.3,0.0,1,0,11,11,100.0,1,10,0,0,0,Köln,2024-04-13 Bayern Munich-Köln,GER-BL1,23-24,40ea8291
+6b8887c2,Steffen Tigges,21,GER,FW,25-257,24,0,0,0,0,1,1,0,0,7,1,0,0,0.1,0.1,0.0,1,0,3,4,75.0,0,2,0,0,0,Köln,2024-04-13 Bayern Munich-Köln,GER-BL1,23-24,40ea8291
+94c18565,Florian Kainz,11,AUT,LM,31-172,53,0,0,0,0,2,1,0,0,26,1,0,2,0.1,0.1,0.0,2,0,13,17,76.5,2,16,0,2,1,Köln,2024-04-13 Bayern Munich-Köln,GER-BL1,23-24,40ea8291
+e5a35ae9,Luca Waldschmidt,9,GER,FW,27-330,37,0,0,0,0,1,0,0,0,20,0,0,0,0.1,0.1,0.0,2,0,13,17,76.5,1,8,0,0,0,Köln,2024-04-13 Bayern Munich-Köln,GER-BL1,23-24,40ea8291
+324ff0da,Jacob Christensen,22,DEN,CM,22-293,90,0,0,0,0,0,0,1,0,41,6,2,3,0.0,0.0,0.0,2,0,23,27,85.2,4,22,1,0,0,Köln,2024-04-13 Bayern Munich-Köln,GER-BL1,23-24,40ea8291
+c455a2b2,Dejan Ljubicic,7,AUT,CM,26-188,90,0,0,0,0,0,0,0,0,33,2,0,0,0.0,0.0,0.1,4,0,22,28,78.6,3,19,5,0,0,Köln,2024-04-13 Bayern Munich-Köln,GER-BL1,23-24,40ea8291
+00f518d8,Faride Alidou,40,GER,"RM,LM",22-270,75,0,0,0,0,2,0,0,0,24,0,0,2,0.2,0.2,0.0,2,0,8,12,66.7,5,17,2,5,0,Köln,2024-04-13 Bayern Munich-Köln,GER-BL1,23-24,40ea8291
+640134d6,Damion Downs,42,USA,RM,19-282,15,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,3,0,2,0,Köln,2024-04-13 Bayern Munich-Köln,GER-BL1,23-24,40ea8291
+7ebd0896,Max Finkgräfe,35,GER,"LB,LM",20-017,90,0,0,0,0,0,0,0,0,51,4,1,1,0.0,0.0,0.4,2,0,26,37,70.3,2,24,4,1,0,Köln,2024-04-13 Bayern Munich-Köln,GER-BL1,23-24,40ea8291
+ae7058f9,Julian Chabot,24,GER,CB,26-061,90,0,0,0,0,1,0,0,0,55,0,3,2,0.1,0.1,0.0,0,0,40,45,88.9,1,24,0,0,0,Köln,2024-04-13 Bayern Munich-Köln,GER-BL1,23-24,40ea8291
+94302c52,Timo Hübers,4,GER,CB,27-268,90,0,0,0,0,0,0,0,0,41,2,5,1,0.0,0.0,0.0,1,0,19,25,76.0,0,19,0,0,0,Köln,2024-04-13 Bayern Munich-Köln,GER-BL1,23-24,40ea8291
+fd53759d,Jan Thielmann,29,GER,"RB,RM",21-323,75,0,0,0,0,0,0,0,0,40,2,1,0,0.0,0.0,0.0,0,0,18,32,56.3,2,19,1,1,1,Köln,2024-04-13 Bayern Munich-Köln,GER-BL1,23-24,40ea8291
+699fb8db,Dominique Heintz,3,GER,LB,30-242,15,0,0,0,0,0,0,0,0,13,1,0,0,0.0,0.0,0.0,0,0,10,12,83.3,1,9,0,0,0,Köln,2024-04-13 Bayern Munich-Köln,GER-BL1,23-24,40ea8291
+87436846,Marvin Schwäbe,1,GER,GK,28-354,90,0,0,0,0,0,0,0,0,35,0,0,0,0.0,0.0,0.0,0,0,26,32,81.3,0,23,0,0,0,Köln,2024-04-13 Bayern Munich-Köln,GER-BL1,23-24,40ea8291

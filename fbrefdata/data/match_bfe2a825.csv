@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+165a2e40,Burak Yılmaz,17,TUR,FW,36-283,90,0,0,0,0,3,1,0,0,18,0,0,1,0.1,0.1,0.0,0,0,7,11,63.6,0,13,3,0,0,Lille,2022-04-24 Lille-Strasbourg,FRA-L1,21-22,bfe2a825
+ce50fd99,Jonathan David,9,CAN,FW,22-100,90,0,0,0,0,0,0,0,0,33,1,0,2,0.0,0.0,0.1,4,0,15,23,65.2,4,23,3,3,1,Lille,2022-04-24 Lille-Strasbourg,FRA-L1,21-22,bfe2a825
+8eec784d,Timothy Weah,22,USA,"LM,RM",22-061,90,0,0,0,0,2,0,0,0,43,1,0,1,0.0,0.0,0.0,3,0,19,29,65.5,2,30,3,1,1,Lille,2022-04-24 Lille-Strasbourg,FRA-L1,21-22,bfe2a825
+032f894e,Renato Sanches,10,POR,CM,24-249,90,0,0,0,0,1,0,0,0,79,1,2,3,0.1,0.1,0.0,3,1,49,63,77.8,3,53,3,1,0,Lille,2022-04-24 Lille-Strasbourg,FRA-L1,21-22,bfe2a825
+ef9c1c95,Benjamin André,21,FRA,CM,31-264,72,0,0,0,0,0,0,0,0,47,1,1,4,0.0,0.0,0.0,1,0,30,37,81.1,5,35,1,0,0,Lille,2022-04-24 Lille-Strasbourg,FRA-L1,21-22,bfe2a825
+828657ff,Amadou Onana,24,BEL,CM,20-251,18,0,0,0,0,0,0,0,0,9,0,1,0,0.0,0.0,0.0,0,0,5,6,83.3,1,6,0,0,0,Lille,2022-04-24 Lille-Strasbourg,FRA-L1,21-22,bfe2a825
+34a88e3e,Edon Zhegrova,23,KVX,RM,23-024,63,0,0,0,0,0,0,0,0,20,2,1,0,0.0,0.0,0.0,0,0,12,13,92.3,0,17,2,4,2,Lille,2022-04-24 Lille-Strasbourg,FRA-L1,21-22,bfe2a825
+645a3363,Angel Gomes,20,ENG,LM,21-236,27,0,0,0,0,1,0,0,0,11,3,0,0,0.0,0.0,0.0,0,0,4,6,66.7,1,6,1,1,0,Lille,2022-04-24 Lille-Strasbourg,FRA-L1,21-22,bfe2a825
+d5d22a58,Gabriel Gudmundsson,5,SWE,LB,22-360,90,0,0,0,0,2,1,1,0,77,2,4,1,0.0,0.0,0.0,1,1,43,62,69.4,10,48,2,3,1,Lille,2022-04-24 Lille-Strasbourg,FRA-L1,21-22,bfe2a825
+ccce7025,Sven Botman,4,NED,CB,22-102,90,0,0,0,0,1,0,1,0,66,0,0,1,0.0,0.0,0.0,1,0,45,53,84.9,2,44,0,0,0,Lille,2022-04-24 Lille-Strasbourg,FRA-L1,21-22,bfe2a825
+90f87966,José Fonte,6,POR,CB,38-123,90,0,0,0,0,0,0,0,0,41,0,2,1,0.0,0.0,0.0,1,0,26,31,83.9,0,26,0,0,0,Lille,2022-04-24 Lille-Strasbourg,FRA-L1,21-22,bfe2a825
+31a62dc7,Zeki Çelik,2,TUR,RB,25-066,90,1,0,0,0,1,1,0,0,60,3,2,1,0.1,0.1,0.0,1,0,33,46,71.7,5,35,4,1,0,Lille,2022-04-24 Lille-Strasbourg,FRA-L1,21-22,bfe2a825
+f5dfc256,Léo Jardim,30,BRA,GK,27-035,90,0,0,0,0,0,0,0,0,29,0,0,0,0.0,0.0,0.0,0,0,12,25,48.0,0,15,0,0,0,Lille,2022-04-24 Lille-Strasbourg,FRA-L1,21-22,bfe2a825
+42276181,Kévin Gameiro,9,FRA,FW,34-350,69,0,0,0,0,2,1,0,0,35,0,0,3,0.4,0.4,0.0,1,0,20,25,80.0,1,25,3,1,0,Strasbourg,2022-04-24 Lille-Strasbourg,FRA-L1,21-22,bfe2a825
+6605d143,Habib Diallo,20,SEN,FW,26-310,21,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,0,0,0,0,Strasbourg,2022-04-24 Lille-Strasbourg,FRA-L1,21-22,bfe2a825
+462475ed,Ludovic Ajorque,25,FRA,FW,28-058,90,0,0,0,0,2,0,0,0,32,1,0,0,0.2,0.2,0.4,3,0,15,24,62.5,1,19,0,0,0,Strasbourg,2022-04-24 Lille-Strasbourg,FRA-L1,21-22,bfe2a825
+10f0fdd3,Jean-Ricner Bellegarde,17,FRA,CM,23-301,90,0,0,0,0,1,0,0,0,54,1,0,0,0.0,0.0,0.0,0,0,34,43,79.1,4,40,3,4,3,Strasbourg,2022-04-24 Lille-Strasbourg,FRA-L1,21-22,bfe2a825
+51c30111,Sanjin Prcić,14,BIH,CM,28-155,69,0,0,0,0,2,0,0,0,56,2,2,1,0.0,0.0,0.0,1,0,37,46,80.4,5,43,0,0,0,Strasbourg,2022-04-24 Lille-Strasbourg,FRA-L1,21-22,bfe2a825
+0f8418aa,Ibrahima Sissoko,27,MLI,CM,24-179,21,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,1,0,4,9,44.4,1,4,0,0,0,Strasbourg,2022-04-24 Lille-Strasbourg,FRA-L1,21-22,bfe2a825
+c76b7567,Adrien Thomasson,10,FRA,CM,28-135,90,0,0,0,0,2,2,0,0,57,3,0,3,0.2,0.2,0.0,3,0,31,42,73.8,4,38,3,2,2,Strasbourg,2022-04-24 Lille-Strasbourg,FRA-L1,21-22,bfe2a825
+0118c54c,Anthony Caci,19,FRA,LB,24-297,90,0,0,0,0,0,0,0,0,61,0,1,0,0.0,0.0,0.1,3,0,34,48,70.8,5,37,2,5,2,Strasbourg,2022-04-24 Lille-Strasbourg,FRA-L1,21-22,bfe2a825
+43e7a164,Alexander Djiku,24,GHA,CB,27-258,82,0,0,0,0,0,0,1,0,58,1,1,0,0.0,0.0,0.0,1,0,34,49,69.4,4,33,1,0,0,Strasbourg,2022-04-24 Lille-Strasbourg,FRA-L1,21-22,bfe2a825
+321a71a7,Maxime Le Marchand,23,FRA,CB,32-195,8,0,0,0,0,0,0,0,0,7,0,1,0,0.0,0.0,0.0,0,0,4,5,80.0,0,1,0,0,0,Strasbourg,2022-04-24 Lille-Strasbourg,FRA-L1,21-22,bfe2a825
+6043997c,Gerzino Nyamsi,22,FRA,CB,25-092,90,0,0,0,0,2,0,0,0,49,1,1,1,0.1,0.1,0.0,0,0,27,39,69.2,2,30,1,0,0,Strasbourg,2022-04-24 Lille-Strasbourg,FRA-L1,21-22,bfe2a825
+49070d66,Lucas Perrin,5,FRA,CB,23-156,88,0,0,0,0,0,0,1,0,62,3,0,1,0.0,0.0,0.0,1,0,42,56,75.0,4,45,0,0,0,Strasbourg,2022-04-24 Lille-Strasbourg,FRA-L1,21-22,bfe2a825
+cdc4458b,Dion Moise Sahi,15,CIV,CB,20-125,2,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,1,1,0,0,0,Strasbourg,2022-04-24 Lille-Strasbourg,FRA-L1,21-22,bfe2a825
+5d8d7454,Frederic Guilbert,2,FRA,RB,27-121,90,0,0,0,0,0,0,1,0,79,2,2,1,0.0,0.0,0.3,6,0,44,64,68.8,6,36,3,3,1,Strasbourg,2022-04-24 Lille-Strasbourg,FRA-L1,21-22,bfe2a825
+834b5c4c,Matz Sels,1,BEL,GK,30-057,90,0,0,0,0,0,0,0,0,25,0,0,0,0.0,0.0,0.0,0,0,16,24,66.7,0,17,0,0,0,Strasbourg,2022-04-24 Lille-Strasbourg,FRA-L1,21-22,bfe2a825

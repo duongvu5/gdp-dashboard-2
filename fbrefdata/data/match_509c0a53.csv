@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+e0921a4f,Paulo Dybala,10,ARG,"FW,RM",24-353,90,1,0,0,0,3,1,0,0,76,2,1,1,0.5,0.5,0.0,5,2,53,63,84.1,1,49,1,5,3,Juventus,2018-11-03 Juventus-Cagliari,ITA-SERIA_A,18-19,509c0a53
+dea698d9,Cristiano Ronaldo,7,POR,"FW,LW",33-271,90,0,1,0,0,5,0,0,0,41,0,0,0,0.5,0.5,0.5,2,1,25,32,78.1,4,26,8,1,1,Juventus,2018-11-03 Juventus-Cagliari,ITA-SERIA_A,18-19,509c0a53
+4fa7cb9b,Douglas Costa,11,BRA,RW,28-050,45,0,0,0,0,1,1,0,0,34,1,0,0,0.0,0.0,0.1,5,0,23,27,85.2,5,33,5,3,2,Juventus,2018-11-03 Juventus-Cagliari,ITA-SERIA_A,18-19,509c0a53
+0ab1f153,Juan Cuadrado,16,COL,"RM,CM",30-161,45,1,0,0,0,1,1,0,0,43,1,0,0,0.4,0.4,0.2,4,0,34,41,82.9,4,30,5,1,0,Juventus,2018-11-03 Juventus-Cagliari,ITA-SERIA_A,18-19,509c0a53
+c0cddebe,Blaise Matuidi,14,FRA,"LM,CM",31-208,82,0,0,0,0,2,0,1,0,48,1,0,1,0.1,0.1,0.0,1,0,34,37,91.9,5,30,0,3,2,Juventus,2018-11-03 Juventus-Cagliari,ITA-SERIA_A,18-19,509c0a53
+7c0000fd,Andrea Barzagli,15,ITA,CB,37-179,8,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,0,0,0,0,Juventus,2018-11-03 Juventus-Cagliari,ITA-SERIA_A,18-19,509c0a53
+ad6df2d5,Miralem Pjanić,5,BIH,CM,28-215,69,0,0,0,0,0,0,0,0,72,1,3,0,0.0,0.0,0.0,1,0,56,65,86.2,5,36,1,0,0,Juventus,2018-11-03 Juventus-Cagliari,ITA-SERIA_A,18-19,509c0a53
+0d82903c,Alex Sandro,12,BRA,LM,27-281,21,0,0,0,0,0,0,0,0,12,0,2,1,0.0,0.0,0.0,1,0,5,8,62.5,1,6,0,0,0,Juventus,2018-11-03 Juventus-Cagliari,ITA-SERIA_A,18-19,509c0a53
+3b8674e6,Rodrigo Bentancur,30,URU,"CM,RM",21-131,90,0,1,0,0,2,0,0,0,63,3,5,0,0.2,0.2,0.4,2,1,44,49,89.8,7,38,2,1,0,Juventus,2018-11-03 Juventus-Cagliari,ITA-SERIA_A,18-19,509c0a53
+ae4e2852,Mattia De Sciglio,2,ITA,LB,26-014,90,0,0,0,0,0,0,0,0,69,1,1,1,0.0,0.0,0.0,2,0,51,62,82.3,2,40,4,1,1,Juventus,2018-11-03 Juventus-Cagliari,ITA-SERIA_A,18-19,509c0a53
+3b15ef2d,Medhi Benatia,4,MAR,CB,31-200,90,0,0,0,0,1,0,0,0,65,3,3,4,0.0,0.0,0.0,0,0,46,50,92.0,2,40,0,0,0,Juventus,2018-11-03 Juventus-Cagliari,ITA-SERIA_A,18-19,509c0a53
+52ec54d0,Leonardo Bonucci,19,ITA,CB,31-186,90,0,0,0,0,1,0,0,0,68,1,2,0,0.0,0.0,0.0,0,0,55,60,91.7,5,44,0,0,0,Juventus,2018-11-03 Juventus-Cagliari,ITA-SERIA_A,18-19,509c0a53
+bd6351cd,João Cancelo,20,POR,RB,24-160,90,0,0,0,0,0,0,0,0,86,3,1,0,0.0,0.0,0.3,6,0,66,79,83.5,9,64,5,3,3,Juventus,2018-11-03 Juventus-Cagliari,ITA-SERIA_A,18-19,509c0a53
+01b8a2b2,Wojciech Szczęsny,1,POL,GK,28-199,90,0,0,0,0,0,0,0,0,19,0,0,0,0.0,0.0,0.0,0,0,15,18,83.3,0,12,0,0,0,Juventus,2018-11-03 Juventus-Cagliari,ITA-SERIA_A,18-19,509c0a53
+d37b0350,Leonardo Pavoletti,30,ITA,FW,29-342,90,0,0,0,0,2,1,1,0,38,1,0,1,0.6,0.6,0.0,0,0,17,31,54.8,1,11,1,0,0,Cagliari,2018-11-03 Juventus-Cagliari,ITA-SERIA_A,18-19,509c0a53
+81255c03,João Pedro,10,ITA,"FW,AM",26-239,90,1,0,0,0,1,1,0,0,33,0,0,0,0.0,0.0,0.1,2,0,17,29,58.6,3,18,1,2,0,Cagliari,2018-11-03 Juventus-Cagliari,ITA-SERIA_A,18-19,509c0a53
+56b2957b,Lucas Castro,29,ARG,"AM,CM,RM",29-208,90,0,0,0,0,0,0,0,0,60,2,1,1,0.0,0.0,0.0,1,0,38,51,74.5,3,32,0,3,2,Cagliari,2018-11-03 Juventus-Cagliari,ITA-SERIA_A,18-19,509c0a53
+6928979a,Nicolò Barella,18,ITA,LM,21-269,90,0,0,0,0,1,0,0,0,61,2,1,0,0.0,0.0,0.0,2,1,47,56,83.9,3,42,1,1,0,Cagliari,2018-11-03 Juventus-Cagliari,ITA-SERIA_A,18-19,509c0a53
+605873e1,Filip Bradarić,6,CRO,CM,26-296,55,0,0,0,0,0,0,1,0,56,1,0,0,0.0,0.0,0.0,0,0,45,52,86.5,3,29,0,0,0,Cagliari,2018-11-03 Juventus-Cagliari,ITA-SERIA_A,18-19,509c0a53
+ae64d449,Luca Cigarini,8,ITA,CM,32-136,35,0,0,0,0,1,0,0,0,38,0,0,0,0.1,0.1,0.0,2,0,30,35,85.7,4,27,1,1,1,Cagliari,2018-11-03 Juventus-Cagliari,ITA-SERIA_A,18-19,509c0a53
+cedb3e36,Artur Ioniță,21,MDA,RM,28-078,66,0,0,0,0,1,0,0,0,42,3,0,1,0.0,0.0,0.0,1,0,28,34,82.4,0,19,2,0,0,Cagliari,2018-11-03 Juventus-Cagliari,ITA-SERIA_A,18-19,509c0a53
+9085dd7c,Paolo Faragò,24,ITA,"LB,RM",25-264,24,0,0,0,0,0,0,0,0,13,1,0,0,0.0,0.0,0.0,0,0,8,11,72.7,0,7,1,0,0,Cagliari,2018-11-03 Juventus-Cagliari,ITA-SERIA_A,18-19,509c0a53
+5eb72339,Simone Padoin,20,ITA,LB,34-230,79,0,0,0,0,0,0,0,0,44,1,1,0,0.0,0.0,0.0,0,0,33,39,84.6,1,17,3,1,0,Cagliari,2018-11-03 Juventus-Cagliari,ITA-SERIA_A,18-19,509c0a53
+1ad1f50d,Marco Sau,25,ITA,FW,31-000,11,0,0,0,0,0,0,0,0,5,0,0,1,0.0,0.0,0.1,2,0,4,4,100.0,0,2,0,0,0,Cagliari,2018-11-03 Juventus-Cagliari,ITA-SERIA_A,18-19,509c0a53
+56400c01,Fabio Pisacane,19,ITA,CB,32-279,90,0,0,0,0,0,0,1,0,55,3,1,1,0.0,0.0,0.0,0,0,39,42,92.9,2,31,0,0,0,Cagliari,2018-11-03 Juventus-Cagliari,ITA-SERIA_A,18-19,509c0a53
+7d50454d,Luca Ceppitelli,23,ITA,CB,29-084,90,0,0,0,0,0,0,0,0,44,1,1,6,0.0,0.0,0.0,0,0,28,32,87.5,0,23,0,0,0,Cagliari,2018-11-03 Juventus-Cagliari,ITA-SERIA_A,18-19,509c0a53
+edd6c8e9,Darijo Srna,33,CRO,RB,36-186,90,0,0,0,0,0,0,0,0,93,0,0,0,0.0,0.0,0.5,2,1,71,87,81.6,9,54,2,1,1,Cagliari,2018-11-03 Juventus-Cagliari,ITA-SERIA_A,18-19,509c0a53
+f554e29b,Alessio Cragno,28,ITA,GK,24-128,90,0,0,0,0,0,0,0,0,26,0,0,0,0.0,0.0,0.0,0,0,20,25,80.0,0,11,0,0,0,Cagliari,2018-11-03 Juventus-Cagliari,ITA-SERIA_A,18-19,509c0a53

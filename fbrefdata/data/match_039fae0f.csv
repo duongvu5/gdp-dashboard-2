@@ -1,0 +1,29 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+74d4cec6,Vitinha,9,POR,FW,23-318,90,0,0,0,0,6,1,0,0,31,1,0,0,1.3,1.3,0.1,4,1,9,18,50.0,1,24,2,3,2,Marseille,2024-01-27 Marseille-Monaco,FRA-L1,23-24,039fae0f
+d5dd5f1f,Pierre-Emerick Aubameyang,10,GAB,LW,34-223,90,1,0,0,0,6,3,0,0,51,1,2,2,0.8,0.8,0.1,4,0,20,33,60.6,2,39,6,3,1,Marseille,2024-01-27 Marseille-Monaco,FRA-L1,23-24,039fae0f
+f36d5624,Luis Henrique,44,BRA,RW,22-044,90,0,0,0,0,2,0,0,0,66,0,1,2,0.2,0.2,0.4,5,0,47,54,87.0,5,49,5,4,3,Marseille,2024-01-27 Marseille-Monaco,FRA-L1,23-24,039fae0f
+4a56052c,Jordan Veretout,27,FRA,LM,30-332,90,0,0,0,0,2,1,0,0,79,1,1,0,0.1,0.1,0.5,6,0,57,70,81.4,12,62,6,1,0,Marseille,2024-01-27 Marseille-Monaco,FRA-L1,23-24,039fae0f
+cce181df,Geoffrey Kondogbia,19,CTA,CM,30-346,90,0,0,0,0,0,0,0,0,81,1,3,0,0.0,0.0,0.2,2,0,65,73,89.0,7,71,0,1,1,Marseille,2024-01-27 Marseille-Monaco,FRA-L1,23-24,039fae0f
+b5bb8188,Jean Onana,17,CMR,RM,24-019,85,0,0,0,0,2,1,0,0,89,5,3,0,0.1,0.1,0.1,3,1,69,77,89.6,4,69,3,0,0,Marseille,2024-01-27 Marseille-Monaco,FRA-L1,23-24,039fae0f
+1609700b,Sofiane Sidi Ali,41,FRA,RM,28-197,5,0,0,0,0,0,0,0,0,7,2,1,0,0.0,0.0,0.0,0,0,3,3,100.0,1,4,0,0,0,Marseille,2024-01-27 Marseille-Monaco,FRA-L1,23-24,039fae0f
+c952f633,Ulisses Garcia,6,SUI,LB,28-016,90,0,0,0,0,2,2,0,0,102,4,1,1,0.0,0.0,0.4,2,0,71,89,79.8,13,66,3,4,2,Marseille,2024-01-27 Marseille-Monaco,FRA-L1,23-24,039fae0f
+7c3ed041,Leonardo Balerdi,5,ARG,CB,25-001,90,1,0,0,0,1,1,0,0,91,6,4,0,0.0,0.0,0.0,0,0,73,76,96.1,5,67,0,0,0,Marseille,2024-01-27 Marseille-Monaco,FRA-L1,23-24,039fae0f
+04ac78d2,Bamo Meïté,18,CIV,CB,22-055,90,0,0,0,0,0,0,0,0,88,1,3,1,0.0,0.0,0.0,3,0,64,71,90.1,7,59,0,1,1,Marseille,2024-01-27 Marseille-Monaco,FRA-L1,23-24,039fae0f
+5219ab4a,Jonathan Clauss,7,FRA,RB,31-124,36,0,0,0,0,1,0,0,0,31,0,0,0,0.0,0.0,0.0,2,0,20,29,69.0,2,20,1,0,0,Marseille,2024-01-27 Marseille-Monaco,FRA-L1,23-24,039fae0f
+47f82561,Emran Soglo,37,ENG,RB,18-200,41,0,1,0,0,0,0,1,0,29,0,0,2,0.0,0.0,0.0,1,1,21,23,91.3,2,20,0,2,1,Marseille,2024-01-27 Marseille-Monaco,FRA-L1,23-24,039fae0f
+45b9b619,Joaquín Correa,20,ARG,RB,29-167,13,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,1,0,2,4,50.0,0,4,1,0,0,Marseille,2024-01-27 Marseille-Monaco,FRA-L1,23-24,039fae0f
+20b9f052,Pau López,16,ESP,GK,29-045,90,0,0,0,0,0,0,0,0,28,0,0,0,0.0,0.0,0.0,0,0,23,26,88.5,0,23,0,0,0,Marseille,2024-01-27 Marseille-Monaco,FRA-L1,23-24,039fae0f
+942b4f90,Wissam Ben Yedder,10,FRA,"AM,FW",33-168,88,1,1,0,0,3,2,0,0,26,0,0,1,0.2,0.2,0.2,2,1,15,17,88.2,3,19,2,1,1,Monaco,2024-01-27 Marseille-Monaco,FRA-L1,23-24,039fae0f
+cf1ef7ec,Chrislain Matsima,34,FRA,"CB,AM",21-257,2,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,1,0,0,0,Monaco,2024-01-27 Marseille-Monaco,FRA-L1,23-24,039fae0f
+3708e9fa,Aleksandr Golovin,17,RUS,"CM,AM",27-242,90,0,1,0,0,1,1,0,0,55,1,5,3,0.1,0.1,0.1,2,1,25,44,56.8,5,37,3,4,4,Monaco,2024-01-27 Marseille-Monaco,FRA-L1,23-24,039fae0f
+b625b241,Maghnes Akliouche,21,FRA,AM,21-336,85,1,0,0,0,1,1,0,0,38,2,0,3,0.2,0.2,0.1,4,1,15,22,68.2,5,27,4,4,1,Monaco,2024-01-27 Marseille-Monaco,FRA-L1,23-24,039fae0f
+3bd65247,Eliesse Ben Seghir,7,MAR,AM,18-345,5,0,0,0,0,0,0,0,0,3,1,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,2,1,0,0,Monaco,2024-01-27 Marseille-Monaco,FRA-L1,23-24,039fae0f
+384d58d9,Denis Zakaria,6,SUI,"CB,CM",27-068,85,0,0,0,0,1,1,2,1,31,3,3,2,0.0,0.0,0.0,1,0,12,16,75.0,0,15,0,1,0,Monaco,2024-01-27 Marseille-Monaco,FRA-L1,23-24,039fae0f
+822d51d7,Youssouf Fofana,19,FRA,CM,25-017,90,0,0,0,0,0,0,0,0,52,1,0,0,0.0,0.0,0.0,1,1,27,42,64.3,2,37,2,4,3,Monaco,2024-01-27 Marseille-Monaco,FRA-L1,23-24,039fae0f
+6620c21a,Kassoum Ouattara,20,FRA,WB,19-105,90,0,0,0,0,0,0,0,0,42,3,1,0,0.0,0.0,0.0,0,0,16,30,53.3,1,21,2,4,3,Monaco,2024-01-27 Marseille-Monaco,FRA-L1,23-24,039fae0f
+ee45fd85,Vanderson,2,BRA,WB,22-220,90,0,0,0,0,0,0,0,0,60,5,1,2,0.0,0.0,0.0,0,0,22,38,57.9,2,25,1,6,0,Monaco,2024-01-27 Marseille-Monaco,FRA-L1,23-24,039fae0f
+0b33f6ad,Mohammed Salisu,22,GHA,CB,24-285,90,0,0,0,0,0,0,0,0,44,1,3,5,0.0,0.0,0.0,0,0,23,28,82.1,1,20,0,0,0,Monaco,2024-01-27 Marseille-Monaco,FRA-L1,23-24,039fae0f
+d9764034,Guillermo Maripán,3,CHI,CB,29-266,10,0,0,0,0,0,0,0,1,8,1,0,0,0.0,0.0,0.0,0,0,5,6,83.3,1,5,0,0,0,Monaco,2024-01-27 Marseille-Monaco,FRA-L1,23-24,039fae0f
+51dbeea9,Thilo Kehrer,5,GER,CB,27-128,90,0,0,0,0,0,0,1,0,29,1,0,2,0.0,0.0,0.0,0,0,17,21,81.0,2,13,0,0,0,Monaco,2024-01-27 Marseille-Monaco,FRA-L1,23-24,039fae0f
+ff74841d,Philipp Köhn,16,SUI,GK,25-300,90,0,0,0,0,0,0,0,0,35,0,0,0,0.0,0.0,0.0,0,0,14,32,43.8,0,24,0,0,0,Monaco,2024-01-27 Marseille-Monaco,FRA-L1,23-24,039fae0f

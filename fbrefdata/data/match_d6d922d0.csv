@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+21a66f6a,Harry Kane,9,ENG,FW,30-049,84,1,0,0,0,2,2,0,0,27,0,0,0,0.9,0.9,0.0,1,0,9,18,50.0,2,20,0,3,1,Bayern Munich,2023-09-15 Bayern Munich-Leverkusen,GER-BL1,23-24,d6d922d0
+0e6bc38c,Eric Maxim Choupo-Moting,13,CMR,FW,34-176,6,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,2,2,Bayern Munich,2023-09-15 Bayern Munich-Leverkusen,GER-BL1,23-24,d6d922d0
+88e357ef,Serge Gnabry,7,GER,LW,28-063,69,0,0,0,0,4,1,0,0,42,1,0,2,0.5,0.5,0.0,3,0,22,29,75.9,3,28,3,1,0,Bayern Munich,2023-09-15 Bayern Munich-Leverkusen,GER-BL1,23-24,d6d922d0
+829aa60c,Mathys Tel,39,FRA,"LW,LM",18-141,21,0,1,0,0,0,0,0,0,15,0,0,0,0.0,0.0,0.2,2,2,13,13,100.0,2,11,2,1,1,Bayern Munich,2023-09-15 Bayern Munich-Leverkusen,GER-BL1,23-24,d6d922d0
+2b114be3,Leroy Sané,10,GER,"RW,RM",27-247,90,0,0,0,0,2,1,0,0,62,1,0,1,0.1,0.1,0.1,5,0,35,50,70.0,8,46,6,6,3,Bayern Munich,2023-09-15 Bayern Munich-Leverkusen,GER-BL1,23-24,d6d922d0
+3c6089ab,Thomas Müller,25,GER,AM,34-002,60,0,0,0,0,1,1,0,0,38,4,0,1,0.1,0.1,0.4,5,0,21,26,80.8,3,22,1,0,0,Bayern Munich,2023-09-15 Bayern Munich-Leverkusen,GER-BL1,23-24,d6d922d0
+2c0558b8,Jamal Musiala,42,GER,"AM,CM",20-201,30,0,0,0,0,0,0,0,0,24,2,1,1,0.0,0.0,0.0,0,0,17,19,89.5,3,19,1,2,1,Bayern Munich,2023-09-15 Bayern Munich-Leverkusen,GER-BL1,23-24,d6d922d0
+cc86b9a3,Leon Goretzka,8,GER,"DM,CM",28-221,90,1,0,0,0,2,2,0,0,58,0,0,1,0.3,0.3,0.0,1,0,43,51,84.3,6,44,2,0,0,Bayern Munich,2023-09-15 Bayern Munich-Leverkusen,GER-BL1,23-24,d6d922d0
+49296448,Joshua Kimmich,6,GER,DM,28-219,60,0,0,0,0,1,1,0,0,79,4,0,2,0.0,0.0,0.1,2,0,62,71,87.3,7,58,0,0,0,Bayern Munich,2023-09-15 Bayern Munich-Leverkusen,GER-BL1,23-24,d6d922d0
+b74277a0,Noussair Mazraoui,40,MAR,RB,25-305,30,0,0,0,0,0,0,0,0,22,0,1,0,0.0,0.0,0.0,0,0,14,19,73.7,1,15,0,1,0,Bayern Munich,2023-09-15 Bayern Munich-Leverkusen,GER-BL1,23-24,d6d922d0
+d781d855,Alphonso Davies,19,CAN,LB,22-317,90,0,0,0,0,0,0,0,0,72,2,3,2,0.0,0.0,0.0,2,0,55,58,94.8,4,57,3,4,3,Bayern Munich,2023-09-15 Bayern Munich-Leverkusen,GER-BL1,23-24,d6d922d0
+e0f8151c,Kim Min-jae,3,KOR,CB,26-304,90,0,0,0,0,1,0,0,0,118,2,1,6,0.1,0.1,0.1,1,0,92,101,91.1,6,91,0,0,0,Bayern Munich,2023-09-15 Bayern Munich-Leverkusen,GER-BL1,23-24,d6d922d0
+d248cd8f,Dayot Upamecano,2,FRA,CB,24-323,90,0,0,0,0,1,0,0,0,88,2,0,2,0.1,0.1,0.0,2,0,70,78,89.7,6,71,1,0,0,Bayern Munich,2023-09-15 Bayern Munich-Leverkusen,GER-BL1,23-24,d6d922d0
+c1b7847c,Konrad Laimer,27,AUT,"RB,DM",26-111,84,0,0,0,0,2,1,0,0,78,5,3,3,0.1,0.1,0.1,2,0,57,63,90.5,4,48,2,1,0,Bayern Munich,2023-09-15 Bayern Munich-Leverkusen,GER-BL1,23-24,d6d922d0
+d6e53a3a,Matthijs de Ligt,4,NED,"CB,DM",24-034,6,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,1,1,0,0,0,Bayern Munich,2023-09-15 Bayern Munich-Leverkusen,GER-BL1,23-24,d6d922d0
+7d3e7da6,Sven Ulreich,26,GER,GK,35-043,90,0,0,0,0,0,0,0,0,39,0,0,0,0.0,0.0,0.0,0,0,26,35,74.3,0,29,0,0,0,Bayern Munich,2023-09-15 Bayern Munich-Leverkusen,GER-BL1,23-24,d6d922d0
+b146275b,Victor Boniface,22,NGA,FW,22-266,90,0,0,0,0,8,2,0,0,35,0,0,0,0.8,0.8,0.3,4,0,6,13,46.2,1,23,2,6,4,Bayer Leverkusen,2023-09-15 Bayern Munich-Leverkusen,GER-BL1,23-24,d6d922d0
+e7fcf289,Florian Wirtz,10,GER,AM,20-135,89,0,0,0,0,1,0,1,0,78,1,0,1,0.3,0.3,0.2,6,1,53,64,82.8,13,47,2,6,3,Bayer Leverkusen,2023-09-15 Bayern Munich-Leverkusen,GER-BL1,23-24,d6d922d0
+555d5edd,Nadiem Amiri,11,GER,AM,26-323,1,0,0,0,0,0,0,0,0,2,2,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Bayer Leverkusen,2023-09-15 Bayern Munich-Leverkusen,GER-BL1,23-24,d6d922d0
+2903a856,Jonas Hofmann,7,GER,AM,31-063,89,0,0,0,0,0,0,1,0,75,2,1,1,0.0,0.0,0.2,4,2,52,64,81.3,3,55,5,4,0,Bayer Leverkusen,2023-09-15 Bayern Munich-Leverkusen,GER-BL1,23-24,d6d922d0
+0c7a48f8,Piero Hincapié,3,ECU,AM,21-249,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Bayer Leverkusen,2023-09-15 Bayern Munich-Leverkusen,GER-BL1,23-24,d6d922d0
+e61b8aee,Granit Xhaka,34,SUI,CM,30-353,90,0,0,0,0,1,1,0,0,95,2,5,2,0.0,0.0,0.0,0,0,68,79,86.1,12,57,1,3,1,Bayer Leverkusen,2023-09-15 Bayern Munich-Leverkusen,GER-BL1,23-24,d6d922d0
+e0b113a7,Robert Andrich,8,GER,CM,28-358,45,0,0,0,0,0,0,0,0,37,0,2,1,0.0,0.0,0.0,0,0,24,31,77.4,5,14,0,0,0,Bayer Leverkusen,2023-09-15 Bayern Munich-Leverkusen,GER-BL1,23-24,d6d922d0
+e82adcab,Exequiel Palacios,25,ARG,CM,24-345,45,1,0,1,1,0,0,0,0,51,2,5,0,0.8,0.0,0.0,1,0,38,44,86.4,2,37,0,0,0,Bayer Leverkusen,2023-09-15 Bayern Munich-Leverkusen,GER-BL1,23-24,d6d922d0
+b1f4086c,Álex Grimaldo,20,ESP,WB,27-360,90,1,0,0,0,2,1,0,0,82,6,1,0,0.1,0.1,0.4,4,1,57,66,86.4,5,46,2,2,0,Bayer Leverkusen,2023-09-15 Bayern Munich-Leverkusen,GER-BL1,23-24,d6d922d0
+74f2e748,Jeremie Frimpong,30,NED,WB,22-279,81,0,0,0,0,0,0,0,0,45,2,1,0,0.0,0.0,0.0,0,0,21,33,63.6,2,19,2,4,1,Bayer Leverkusen,2023-09-15 Bayern Munich-Leverkusen,GER-BL1,23-24,d6d922d0
+dcfb17f4,Amine Adli,21,MAR,WB,23-128,9,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.1,2,0,6,8,75.0,1,4,0,0,0,Bayer Leverkusen,2023-09-15 Bayern Munich-Leverkusen,GER-BL1,23-24,d6d922d0
+a73c8f95,Edmond Tapsoba,12,BFA,CB,24-225,89,0,0,0,0,0,0,1,0,76,3,1,0,0.0,0.0,0.0,1,0,62,66,93.9,1,58,1,1,0,Bayer Leverkusen,2023-09-15 Bayern Munich-Leverkusen,GER-BL1,23-24,d6d922d0
+5521f419,Adam Hložek,23,CZE,CB,21-052,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Bayer Leverkusen,2023-09-15 Bayern Munich-Leverkusen,GER-BL1,23-24,d6d922d0
+bd142efb,Jonathan Tah,4,GER,CB,27-216,90,0,0,0,0,0,0,0,0,69,1,1,2,0.0,0.0,0.0,0,0,56,56,100.0,2,48,1,1,1,Bayer Leverkusen,2023-09-15 Bayern Munich-Leverkusen,GER-BL1,23-24,d6d922d0
+1f3afdcb,Odilon Kossonou,6,CIV,CB,22-254,90,0,0,0,0,0,0,0,0,58,2,4,2,0.0,0.0,0.0,1,0,46,49,93.9,3,39,2,6,6,Bayer Leverkusen,2023-09-15 Bayern Munich-Leverkusen,GER-BL1,23-24,d6d922d0
+ad3389d5,Lukáš Hrádecký,1,FIN,GK,33-295,90,0,0,0,0,0,0,0,0,33,0,0,0,0.0,0.0,0.0,0,0,23,28,82.1,0,18,0,0,0,Bayer Leverkusen,2023-09-15 Bayern Munich-Leverkusen,GER-BL1,23-24,d6d922d0

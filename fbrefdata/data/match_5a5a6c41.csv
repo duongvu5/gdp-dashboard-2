@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+bef0a7ac,Darío Benedetto,9,ARG,FW,30-132,90,0,0,0,0,6,1,0,0,46,0,0,1,0.3,0.3,0.1,7,1,22,29,75.9,3,21,2,5,5,Marseille,2020-09-26 Marseille-Metz,FRA-L1,20-21,5a5a6c41
+58ae47b2,Dimitri Payet,10,FRA,LW,33-181,90,0,0,0,0,3,1,0,0,59,2,0,1,0.2,0.2,0.2,8,0,33,47,70.2,7,44,7,2,2,Marseille,2020-09-26 Marseille-Metz,FRA-L1,20-21,5a5a6c41
+2b9fdeea,Florian Thauvin,26,FRA,RW,27-244,83,0,0,0,0,2,0,0,0,47,0,0,0,0.1,0.1,0.1,2,0,26,42,61.9,3,32,0,2,2,Marseille,2020-09-26 Marseille-Metz,FRA-L1,20-21,5a5a6c41
+0630eb63,Nemanja Radonjić,7,SRB,RW,24-224,7,0,1,0,0,1,0,0,0,7,0,0,0,0.0,0.0,0.1,1,1,1,3,33.3,0,3,0,2,1,Marseille,2020-09-26 Marseille-Metz,FRA-L1,20-21,5a5a6c41
+6e7f1353,Morgan Sanson,8,FRA,AM,26-039,90,1,0,0,0,2,1,0,0,65,4,1,1,0.2,0.2,0.1,1,0,41,54,75.9,4,42,1,3,3,Marseille,2020-09-26 Marseille-Metz,FRA-L1,20-21,5a5a6c41
+cc77354e,Boubacar Kamara,4,FRA,DM,20-308,84,0,0,0,0,1,0,0,0,85,3,3,1,0.0,0.0,0.0,4,0,69,74,93.2,8,52,1,1,1,Marseille,2020-09-26 Marseille-Metz,FRA-L1,20-21,5a5a6c41
+7155e3e1,Pape Gueye,22,SEN,DM,21-246,6,0,0,0,0,0,0,0,0,7,0,0,1,0.0,0.0,0.0,0,0,4,5,80.0,0,2,0,0,0,Marseille,2020-09-26 Marseille-Metz,FRA-L1,20-21,5a5a6c41
+ed45c4a5,Valentin Rongier,21,FRA,DM,25-294,76,0,0,0,0,0,0,0,0,68,3,1,2,0.0,0.0,0.0,1,0,50,58,86.2,2,31,2,0,0,Marseille,2020-09-26 Marseille-Metz,FRA-L1,20-21,5a5a6c41
+ea0ff634,Valère Germain,28,FRA,DM,30-162,14,0,0,0,0,0,0,0,0,10,0,1,0,0.0,0.0,0.0,1,0,5,9,55.6,0,3,0,0,0,Marseille,2020-09-26 Marseille-Metz,FRA-L1,20-21,5a5a6c41
+4b6960d2,Yuto Nagatomo,25,JPN,LB,34-014,76,0,0,0,0,0,0,0,0,66,1,2,1,0.0,0.0,0.0,1,0,49,57,86.0,2,36,2,4,2,Marseille,2020-09-26 Marseille-Metz,FRA-L1,20-21,5a5a6c41
+796b1c41,Saîf-Eddine Khaoui,24,TUN,LB,25-152,14,0,0,0,0,1,0,0,0,22,0,1,0,0.0,0.0,0.0,2,0,14,18,77.8,5,11,0,2,2,Marseille,2020-09-26 Marseille-Metz,FRA-L1,20-21,5a5a6c41
+94f8d10c,Duje Ćaleta-Car,15,CRO,CB,24-009,84,0,0,0,0,0,0,0,0,70,0,3,4,0.0,0.0,0.0,0,0,55,61,90.2,0,41,1,0,0,Marseille,2020-09-26 Marseille-Metz,FRA-L1,20-21,5a5a6c41
+20094685,Maxime Lopez,27,FRA,CB,22-297,6,0,0,0,0,0,0,0,0,8,1,0,0,0.0,0.0,0.0,1,0,7,7,100.0,1,5,0,0,0,Marseille,2020-09-26 Marseille-Metz,FRA-L1,20-21,5a5a6c41
+42dcf26d,Álvaro González,3,ESP,CB,30-262,90,0,0,0,0,1,0,0,0,73,3,2,0,0.1,0.1,0.0,1,0,54,60,90.0,5,35,3,0,0,Marseille,2020-09-26 Marseille-Metz,FRA-L1,20-21,5a5a6c41
+d63e2912,Hiroki Sakai,2,JPN,RB,30-167,90,0,0,0,0,0,0,0,0,72,6,3,2,0.0,0.0,0.0,1,0,45,56,80.4,2,27,3,1,0,Marseille,2020-09-26 Marseille-Metz,FRA-L1,20-21,5a5a6c41
+1d2d5cc8,Steve Mandanda,30,FRA,GK,35-182,90,0,0,0,0,0,0,0,0,38,0,0,0,0.0,0.0,0.0,0,0,33,35,94.3,0,22,0,0,0,Marseille,2020-09-26 Marseille-Metz,FRA-L1,20-21,5a5a6c41
+46faabfa,Ibrahima Niane,7,SEN,FW,21-199,75,1,0,0,0,4,2,0,0,23,0,0,0,0.7,0.7,0.0,1,0,11,14,78.6,0,16,0,1,1,Metz,2020-09-26 Marseille-Metz,FRA-L1,20-21,5a5a6c41
+6605d143,Habib Diallo,20,SEN,FW,25-100,15,0,0,0,0,0,0,0,0,13,1,0,0,0.0,0.0,0.0,0,0,3,8,37.5,0,6,0,0,0,Metz,2020-09-26 Marseille-Metz,FRA-L1,20-21,5a5a6c41
+a0791826,Farid Boulaya,10,ALG,FW,27-214,86,0,0,0,0,4,1,0,0,55,0,0,1,0.2,0.2,0.0,6,0,27,40,67.5,1,33,4,6,3,Metz,2020-09-26 Marseille-Metz,FRA-L1,20-21,5a5a6c41
+93b8f9f4,Warren Tchimbembé,12,CGO,FW,22-158,4,0,0,0,0,0,0,0,0,4,0,0,1,0.0,0.0,0.0,0,0,2,2,100.0,0,1,0,0,0,Metz,2020-09-26 Marseille-Metz,FRA-L1,20-21,5a5a6c41
+75a63397,Opa Nguette,11,SEN,LM,26-080,85,0,0,0,0,1,0,0,0,35,0,1,0,0.0,0.0,0.0,1,0,11,21,52.4,1,24,3,8,6,Metz,2020-09-26 Marseille-Metz,FRA-L1,20-21,5a5a6c41
+87e9c7cd,Papa Ndiaga Yade,26,MTN,LM,20-265,5,0,0,0,0,1,0,0,0,6,2,0,0,0.1,0.1,0.1,1,0,3,3,100.0,1,3,1,0,0,Metz,2020-09-26 Marseille-Metz,FRA-L1,20-21,5a5a6c41
+d8992b84,Victorien Angban,5,CIV,CM,23-363,89,0,0,0,0,0,0,1,0,51,0,0,0,0.0,0.0,0.0,2,0,45,47,95.7,5,41,0,1,1,Metz,2020-09-26 Marseille-Metz,FRA-L1,20-21,5a5a6c41
+562a4799,Boubakar Kouyaté,23,MLI,CM,23-164,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Metz,2020-09-26 Marseille-Metz,FRA-L1,20-21,5a5a6c41
+4c4ffacc,Mamadou Fofana,6,MLI,CM,22-249,90,0,0,0,0,1,0,0,0,48,0,5,2,0.0,0.0,0.0,0,0,33,41,80.5,2,30,0,0,0,Metz,2020-09-26 Marseille-Metz,FRA-L1,20-21,5a5a6c41
+e768de1f,Habib Maïga,19,CIV,RM,24-269,90,0,0,0,0,3,0,1,0,58,3,1,1,0.2,0.2,0.5,4,0,33,45,73.3,2,41,1,3,1,Metz,2020-09-26 Marseille-Metz,FRA-L1,20-21,5a5a6c41
+cc41f558,Matthieu Udol,3,FRA,LB,24-190,90,0,1,0,0,0,0,0,0,53,0,5,1,0.0,0.0,0.3,3,1,36,43,83.7,5,27,2,0,0,Metz,2020-09-26 Marseille-Metz,FRA-L1,20-21,5a5a6c41
+861227d2,John Boye,21,GHA,CB,33-156,90,0,0,0,0,0,0,0,0,51,1,4,0,0.0,0.0,0.0,3,1,36,43,83.7,1,36,0,0,0,Metz,2020-09-26 Marseille-Metz,FRA-L1,20-21,5a5a6c41
+edd81e2a,Dylan Bronn,2,TUN,CB,25-099,90,0,0,0,0,0,0,0,0,40,2,0,1,0.0,0.0,0.0,0,0,23,28,82.1,0,22,0,1,1,Metz,2020-09-26 Marseille-Metz,FRA-L1,20-21,5a5a6c41
+3c6bbbab,Fabien Centonze,18,FRA,RB,24-254,90,0,0,0,0,0,0,0,0,59,2,8,1,0.0,0.0,0.1,2,0,27,40,67.5,3,22,4,4,2,Metz,2020-09-26 Marseille-Metz,FRA-L1,20-21,5a5a6c41
+ae7d0ecd,Alexandre Oukidja,16,ALG,GK,32-069,90,0,0,0,0,0,0,0,0,32,0,0,0,0.0,0.0,0.0,0,0,12,31,38.7,0,17,0,0,0,Metz,2020-09-26 Marseille-Metz,FRA-L1,20-21,5a5a6c41

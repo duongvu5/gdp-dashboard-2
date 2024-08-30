@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+75645f0e,Borja Iglesias,9,ESP,FW,30-261,74,0,0,0,0,3,0,0,0,23,0,1,0,0.2,0.2,0.1,3,0,8,12,66.7,0,8,1,0,0,Real Betis,2023-10-05 Betis-Sparta Prague,UEL,23-24,eca58409
+d87e2cae,Willian José,12,BRA,FW,31-316,16,0,0,0,0,1,1,0,0,7,0,0,0,0.0,0.0,0.0,0,0,3,4,75.0,1,3,0,0,0,Real Betis,2023-10-05 Betis-Sparta Prague,UEL,23-24,eca58409
+bed68338,Abde Ezzalzouli,7,MAR,LW,21-292,45,0,0,0,0,1,0,0,0,22,0,0,0,0.1,0.1,0.0,0,0,10,13,76.9,1,16,0,1,0,Real Betis,2023-10-05 Betis-Sparta Prague,UEL,23-24,eca58409
+819aa8e7,Ayoze Pérez,10,ESP,LW,30-068,45,0,0,0,0,1,0,0,0,21,1,0,1,0.0,0.0,0.0,1,0,9,11,81.8,2,18,1,1,0,Real Betis,2023-10-05 Betis-Sparta Prague,UEL,23-24,eca58409
+8ae7d0ec,Assane Diao,38,ESP,RW,18-028,84,1,0,0,0,2,1,1,0,39,2,1,1,0.5,0.5,0.1,2,0,16,21,76.2,2,31,4,2,1,Real Betis,2023-10-05 Betis-Sparta Prague,UEL,23-24,eca58409
+f874dd44,Héctor Bellerín,2,ESP,RW,28-200,6,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,4,4,100.0,1,1,0,0,0,Real Betis,2023-10-05 Betis-Sparta Prague,UEL,23-24,eca58409
+a0b4bb3e,Isco,22,ESP,AM,31-167,90,1,0,0,0,4,1,0,0,66,0,1,0,0.3,0.3,0.0,2,0,44,58,75.9,6,49,3,2,2,Real Betis,2023-10-05 Betis-Sparta Prague,UEL,23-24,eca58409
+dee86451,William Carvalho,14,POR,DM,31-181,59,0,0,0,0,0,0,0,0,40,0,0,0,0.0,0.0,0.0,0,0,33,38,86.8,3,23,0,1,1,Real Betis,2023-10-05 Betis-Sparta Prague,UEL,23-24,eca58409
+ef322658,Andrés Guardado,18,MEX,DM,37-007,31,0,0,0,0,1,0,0,0,13,0,0,0,0.1,0.1,0.0,2,0,10,11,90.9,1,7,1,1,1,Real Betis,2023-10-05 Betis-Sparta Prague,UEL,23-24,eca58409
+34e393f2,Guido Rodríguez,5,ARG,DM,29-176,90,0,1,0,0,0,0,1,0,61,0,3,3,0.0,0.0,0.3,4,1,41,48,85.4,5,34,2,0,0,Real Betis,2023-10-05 Betis-Sparta Prague,UEL,23-24,eca58409
+ead61f73,Juan Miranda,3,ESP,LB,23-259,45,0,0,0,0,0,0,0,0,23,0,0,1,0.0,0.0,0.0,0,0,19,20,95.0,1,12,0,0,0,Real Betis,2023-10-05 Betis-Sparta Prague,UEL,23-24,eca58409
+7f9c5d2d,Abner,20,BRA,LB,23-131,45,0,0,0,0,1,0,1,0,33,0,1,1,0.0,0.0,0.0,3,0,19,25,76.0,2,19,1,1,0,Real Betis,2023-10-05 Betis-Sparta Prague,UEL,23-24,eca58409
+da27e268,Marc Roca,21,ESP,CB,26-313,90,0,0,0,0,2,0,0,0,59,1,4,0,0.1,0.1,0.0,0,0,46,53,86.8,5,37,0,0,0,Real Betis,2023-10-05 Betis-Sparta Prague,UEL,23-24,eca58409
+8c725b43,Germán Pezzella,6,ARG,CB,32-100,90,0,0,0,0,0,0,0,0,56,1,1,2,0.0,0.0,0.0,1,1,41,48,85.4,1,35,0,0,0,Real Betis,2023-10-05 Betis-Sparta Prague,UEL,23-24,eca58409
+a55d8df5,Aitor Ruibal,24,ESP,RB,27-197,90,0,0,0,0,1,1,1,0,49,0,0,1,0.1,0.1,0.0,4,1,40,44,90.9,5,28,1,1,1,Real Betis,2023-10-05 Betis-Sparta Prague,UEL,23-24,eca58409
+ea83bfa6,Rui Silva,13,POR,GK,29-240,90,0,0,0,0,0,0,0,0,41,0,0,0,0.0,0.0,0.0,1,0,29,41,70.7,0,22,0,0,0,Real Betis,2023-10-05 Betis-Sparta Prague,UEL,23-24,eca58409
+4bce9c16,Jan Kuchta,9,CZE,FW,26-270,79,0,0,0,0,0,0,0,0,20,1,0,0,0.0,0.0,0.0,2,1,8,14,57.1,0,9,0,0,0,Sparta Prague,2023-10-05 Betis-Sparta Prague,UEL,23-24,eca58409
+743ffce1,Victor Olatunji,7,NGA,FW,24-030,11,0,0,0,0,1,1,0,0,5,0,0,0,0.1,0.1,0.0,3,0,1,2,50.0,1,2,0,0,0,Sparta Prague,2023-10-05 Betis-Sparta Prague,UEL,23-24,eca58409
+5c397195,Lukáš Haraslín,22,SVK,AM,27-132,79,0,0,0,0,1,0,1,0,26,0,0,1,0.0,0.0,0.0,1,0,16,21,76.2,0,16,0,1,1,Sparta Prague,2023-10-05 Betis-Sparta Prague,UEL,23-24,eca58409
+f80d03ca,Adam Karabec,10,CZE,AM,20-095,11,0,0,0,0,2,0,0,0,9,0,0,1,0.4,0.4,0.0,1,0,5,5,100.0,0,4,0,0,0,Sparta Prague,2023-10-05 Betis-Sparta Prague,UEL,23-24,eca58409
+636247ca,Veljko Birmančević,14,SRB,AM,25-214,67,1,0,0,0,1,1,1,0,30,2,0,1,0.4,0.4,0.2,2,0,12,25,48.0,3,14,5,2,2,Sparta Prague,2023-10-05 Betis-Sparta Prague,UEL,23-24,eca58409
+1d54e8f8,Jakub Pesek,21,CZE,AM,30-103,23,0,0,0,0,1,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,1,4,25.0,0,1,0,0,0,Sparta Prague,2023-10-05 Betis-Sparta Prague,UEL,23-24,eca58409
+eb0db257,Qazim Laçi,20,ALB,CM,27-259,67,0,0,0,0,2,0,0,0,60,3,3,2,0.2,0.2,0.0,2,0,42,49,85.7,4,29,2,1,1,Sparta Prague,2023-10-05 Betis-Sparta Prague,UEL,23-24,eca58409
+fa18b6cc,Lukáš Sadílek,18,CZE,CM,27-135,23,0,0,0,0,0,0,0,0,13,1,0,1,0.0,0.0,0.0,1,0,9,11,81.8,0,2,0,0,0,Sparta Prague,2023-10-05 Betis-Sparta Prague,UEL,23-24,eca58409
+b3dcc2cf,Kaan Kairinen,6,FIN,CM,24-287,90,0,0,0,0,0,0,0,0,58,1,2,0,0.0,0.0,0.0,1,0,45,53,84.9,4,21,0,1,1,Sparta Prague,2023-10-05 Betis-Sparta Prague,UEL,23-24,eca58409
+3170788d,Matěj Ryneš,32,CZE,WB,22-128,90,0,1,0,0,1,0,1,0,65,3,0,1,0.1,0.1,0.4,1,1,40,52,76.9,2,34,2,1,1,Sparta Prague,2023-10-05 Betis-Sparta Prague,UEL,23-24,eca58409
+25e6f8cb,Tomáš Wiesner,28,CZE,WB,26-080,59,0,0,0,0,0,0,0,0,30,0,0,0,0.0,0.0,0.0,0,0,19,27,70.4,2,16,4,0,0,Sparta Prague,2023-10-05 Betis-Sparta Prague,UEL,23-24,eca58409
+eadc8e4f,Ángelo Preciado,2,ECU,WB,25-229,31,0,0,0,0,0,0,0,0,10,1,0,1,0.0,0.0,0.5,2,0,6,8,75.0,0,7,1,1,1,Sparta Prague,2023-10-05 Betis-Sparta Prague,UEL,23-24,eca58409
+5b5c2228,Ladislav Krejčí,37,CZE,CB,24-168,90,0,0,0,0,1,0,0,0,91,1,3,1,0.0,0.0,0.0,0,0,70,81,86.4,1,52,0,0,0,Sparta Prague,2023-10-05 Betis-Sparta Prague,UEL,23-24,eca58409
+97e996a7,Filip Panák,27,CZE,CB,27-337,90,0,0,0,0,0,0,0,0,64,0,3,0,0.0,0.0,0.0,0,0,48,55,87.3,1,32,0,1,0,Sparta Prague,2023-10-05 Betis-Sparta Prague,UEL,23-24,eca58409
+6d445ffc,Asger Sørensen,25,DEN,CB,27-122,90,0,0,0,0,0,0,0,0,77,0,1,2,0.0,0.0,0.0,0,0,64,69,92.8,1,41,0,1,0,Sparta Prague,2023-10-05 Betis-Sparta Prague,UEL,23-24,eca58409
+7b433ed0,Peter Vindahl Jensen,1,DEN,GK,25-231,90,0,0,0,0,0,0,0,0,56,0,0,0,0.0,0.0,0.0,0,0,46,54,85.2,0,21,0,1,1,Sparta Prague,2023-10-05 Betis-Sparta Prague,UEL,23-24,eca58409

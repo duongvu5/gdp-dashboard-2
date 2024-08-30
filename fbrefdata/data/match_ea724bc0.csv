@@ -1,0 +1,31 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+595e6f3e,Mostafa Mohamed,31,EGY,FW,25-270,80,2,0,1,1,1,1,0,0,38,2,0,4,1.0,0.2,0.0,1,1,16,23,69.6,3,26,0,3,1,Nantes,2023-08-25 Nantes-Monaco,FRA-L1,23-24,ea724bc0
+7e82a78f,Florent Mollet,25,FRA,FW,31-279,10,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,1,2,0,0,0,Nantes,2023-08-25 Nantes-Monaco,FRA-L1,23-24,ea724bc0
+32f3d97e,Abdoul Kader Bamba,12,FRA,AM,29-092,59,0,1,0,0,0,0,0,0,31,0,0,0,0.0,0.0,0.1,2,2,25,30,83.3,2,29,0,1,0,Nantes,2023-08-25 Nantes-Monaco,FRA-L1,23-24,ea724bc0
+af0c835b,Samuel Moutoussamy,8,COD,AM,27-013,31,0,0,0,0,0,0,1,0,10,1,1,0,0.0,0.0,0.0,0,0,6,7,85.7,2,6,0,0,0,Nantes,2023-08-25 Nantes-Monaco,FRA-L1,23-24,ea724bc0
+5f3eaaf5,Moses Simon,27,NGA,AM,28-044,68,0,0,0,0,0,0,0,0,26,1,0,1,0.0,0.0,0.0,2,2,9,13,69.2,1,19,6,3,0,Nantes,2023-08-25 Nantes-Monaco,FRA-L1,23-24,ea724bc0
+23c63b7f,Ignatius Ganago,7,CMR,AM,24-190,22,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,3,5,60.0,2,6,0,0,0,Nantes,2023-08-25 Nantes-Monaco,FRA-L1,23-24,ea724bc0
+301c287b,Douglas,6,BRA,CM,26-224,68,0,0,0,0,0,0,0,0,54,6,0,2,0.0,0.0,0.0,0,0,33,40,82.5,4,36,1,0,0,Nantes,2023-08-25 Nantes-Monaco,FRA-L1,23-24,ea724bc0
+2acd49b9,Moussa Sissoko,17,FRA,CM,34-009,22,0,0,0,0,0,0,0,0,12,0,0,0,0.0,0.0,0.0,0,0,8,11,72.7,1,10,0,0,0,Nantes,2023-08-25 Nantes-Monaco,FRA-L1,23-24,ea724bc0
+68a26d51,Pedro Chirivella,5,ESP,CM,26-094,90,0,0,0,0,0,0,0,0,60,2,1,1,0.0,0.0,0.0,0,0,45,52,86.5,10,46,0,0,0,Nantes,2023-08-25 Nantes-Monaco,FRA-L1,23-24,ea724bc0
+0bfca6a1,Quentin Merlin,29,FRA,WB,21-101,80,0,1,0,0,0,0,0,0,45,2,0,2,0.0,0.0,0.2,1,1,23,36,63.9,3,33,2,1,0,Nantes,2023-08-25 Nantes-Monaco,FRA-L1,23-24,ea724bc0
+576817b7,Jaouen Hadjam,26,ALG,WB,20-152,10,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,4,7,57.1,0,5,0,0,0,Nantes,2023-08-25 Nantes-Monaco,FRA-L1,23-24,ea724bc0
+3010aefb,Marcus Coco,11,FRA,WB,27-062,90,0,0,0,0,0,0,0,0,47,0,3,3,0.0,0.0,0.0,0,0,29,38,76.3,2,29,0,1,1,Nantes,2023-08-25 Nantes-Monaco,FRA-L1,23-24,ea724bc0
+e0f3a1f6,Jean-Charles Castelletto,21,CMR,CB,28-211,90,1,0,0,0,1,1,1,0,39,0,0,1,0.1,0.1,0.0,0,0,29,34,85.3,2,26,0,0,0,Nantes,2023-08-25 Nantes-Monaco,FRA-L1,23-24,ea724bc0
+779847d6,Nicolas Pallois,4,FRA,CB,35-340,90,0,0,0,0,0,0,0,0,42,2,2,2,0.0,0.0,0.0,0,0,19,24,79.2,1,22,0,3,3,Nantes,2023-08-25 Nantes-Monaco,FRA-L1,23-24,ea724bc0
+64ba07c0,Ronaël Pierre-Gabriel,18,FRA,CB,25-073,90,0,0,0,0,0,0,0,0,38,3,4,2,0.0,0.0,0.0,0,0,19,25,76.0,1,22,3,1,1,Nantes,2023-08-25 Nantes-Monaco,FRA-L1,23-24,ea724bc0
+477e50ce,Rémy Descamps,16,FRA,GK,27-061,90,0,0,0,0,0,0,0,0,51,0,0,0,0.0,0.0,0.0,0,0,26,45,57.8,0,28,0,0,0,Nantes,2023-08-25 Nantes-Monaco,FRA-L1,23-24,ea724bc0
+942b4f90,Wissam Ben Yedder,10,FRA,FW,33-013,90,1,0,0,0,3,2,0,0,40,0,0,0,0.6,0.6,0.0,1,0,27,34,79.4,5,32,0,2,0,Monaco,2023-08-25 Nantes-Monaco,FRA-L1,23-24,ea724bc0
+3708e9fa,Aleksandr Golovin,17,RUS,AM,27-087,90,0,0,0,0,3,1,1,0,76,1,0,1,0.3,0.3,0.0,6,1,50,66,75.8,3,67,1,2,2,Monaco,2023-08-25 Nantes-Monaco,FRA-L1,23-24,ea724bc0
+f833a830,Takumi Minamino,18,JPN,AM,28-221,90,1,0,0,0,3,2,0,0,62,3,0,0,0.4,0.4,0.3,4,0,44,52,84.6,3,52,3,2,0,Monaco,2023-08-25 Nantes-Monaco,FRA-L1,23-24,ea724bc0
+489e80e3,Mohamed Camara,4,MLI,CM,23-231,90,0,0,0,0,2,0,0,0,105,2,0,0,0.0,0.0,0.0,3,0,86,94,91.5,11,93,2,0,0,Monaco,2023-08-25 Nantes-Monaco,FRA-L1,23-24,ea724bc0
+822d51d7,Youssouf Fofana,19,FRA,CM,24-227,90,0,0,0,0,4,2,0,0,95,2,0,1,1.5,1.5,0.2,11,2,64,81,79.0,15,72,2,1,0,Monaco,2023-08-25 Nantes-Monaco,FRA-L1,23-24,ea724bc0
+30af8b93,Caio Henrique Oliveira Silva,12,BRA,WB,26-025,90,0,1,0,0,3,0,0,0,96,2,0,2,0.1,0.1,0.7,6,1,61,84,72.6,4,63,4,1,1,Monaco,2023-08-25 Nantes-Monaco,FRA-L1,23-24,ea724bc0
+ee45fd85,Vanderson,2,BRA,WB,22-065,73,0,0,0,0,3,0,0,0,63,1,1,1,0.1,0.1,0.0,4,0,39,52,75.0,3,43,0,1,1,Monaco,2023-08-25 Nantes-Monaco,FRA-L1,23-24,ea724bc0
+8104e41e,Krépin Diatta,27,SEN,WB,24-181,17,0,0,0,0,0,0,0,0,18,0,0,0,0.0,0.0,0.0,1,0,11,16,68.8,3,12,1,1,1,Monaco,2023-08-25 Nantes-Monaco,FRA-L1,23-24,ea724bc0
+dfc5d4fa,Soungoutou Magassa,88,FRA,CB,19-321,84,0,0,0,0,2,0,0,0,89,4,3,0,0.1,0.1,0.0,1,0,68,75,90.7,13,71,3,1,0,Monaco,2023-08-25 Nantes-Monaco,FRA-L1,23-24,ea724bc0
+5b479568,Myron Boadu,9,NED,CB,22-223,6,1,0,0,0,1,1,0,0,3,0,0,0,0.4,0.4,0.0,0,0,1,1,100.0,0,2,0,0,0,Monaco,2023-08-25 Nantes-Monaco,FRA-L1,23-24,ea724bc0
+384d58d9,Denis Zakaria,6,SUI,CB,26-278,90,0,0,0,0,2,1,0,0,86,1,1,1,0.0,0.0,0.0,2,0,77,80,96.3,3,72,3,1,1,Monaco,2023-08-25 Nantes-Monaco,FRA-L1,23-24,ea724bc0
+8b609c34,Wilfried Singo,99,CIV,CB,22-243,90,0,0,0,0,1,0,1,0,100,1,5,0,0.0,0.0,0.4,3,0,81,89,91.0,11,78,1,0,0,Monaco,2023-08-25 Nantes-Monaco,FRA-L1,23-24,ea724bc0
+ff74841d,Philipp Köhn,16,SUI,GK,25-145,90,0,0,0,0,0,0,0,0,21,0,0,0,0.0,0.0,0.0,0,0,18,20,90.0,0,16,0,0,0,Monaco,2023-08-25 Nantes-Monaco,FRA-L1,23-24,ea724bc0

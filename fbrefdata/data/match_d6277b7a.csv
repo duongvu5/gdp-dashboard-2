@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+d33c706e,Andy Delort,9,ALG,FW,29-068,90,0,0,0,0,1,0,0,0,44,0,0,0,0.0,0.0,0.0,3,0,17,35,48.6,5,25,0,4,1,Montpellier,2020-12-16 Montpellier-Metz,FRA-L1,20-21,d6277b7a
+30144daa,Stephy Mavididi,19,ENG,LW,22-199,79,0,0,0,0,0,0,1,0,36,1,0,0,0.0,0.0,0.0,0,0,19,27,70.4,1,20,6,1,0,Montpellier,2020-12-16 Montpellier-Metz,FRA-L1,20-21,d6277b7a
+d9a66c60,Petar Škuletić,32,SRB,LW,30-170,11,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.6,2,0,4,6,66.7,0,4,0,0,0,Montpellier,2020-12-16 Montpellier-Metz,FRA-L1,20-21,d6277b7a
+7cdda3bf,Gaëtan Laborde,10,FRA,RW,26-227,85,0,0,0,0,2,1,1,0,33,0,0,0,0.2,0.2,0.0,1,0,15,24,62.5,0,16,2,2,1,Montpellier,2020-12-16 Montpellier-Metz,FRA-L1,20-21,d6277b7a
+0d7b6576,Elye Wahi,33,FRA,RW,17-349,5,0,0,0,0,1,0,0,0,5,0,0,1,0.5,0.5,0.0,0,0,2,2,100.0,0,2,0,1,0,Montpellier,2020-12-16 Montpellier-Metz,FRA-L1,20-21,d6277b7a
+7e82a78f,Florent Mollet,25,FRA,LM,29-027,78,0,0,0,0,0,0,1,0,54,0,1,0,0.0,0.0,0.2,3,0,46,51,90.2,11,35,1,1,1,Montpellier,2020-12-16 Montpellier-Metz,FRA-L1,20-21,d6277b7a
+23bf644d,Yun Il-lok,24,KOR,LM,28-284,12,0,0,0,0,1,0,0,0,10,0,0,0,0.0,0.0,0.0,0,0,5,8,62.5,0,5,0,1,0,Montpellier,2020-12-16 Montpellier-Metz,FRA-L1,20-21,d6277b7a
+375622c5,Jordan Ferri,12,FRA,CM,28-279,90,0,0,0,0,0,0,0,0,88,0,0,1,0.0,0.0,0.1,5,0,74,85,87.1,11,56,1,1,1,Montpellier,2020-12-16 Montpellier-Metz,FRA-L1,20-21,d6277b7a
+6bde367b,Téji Savanier,11,FRA,RM,28-360,89,0,0,0,0,2,1,0,0,78,3,2,0,0.1,0.1,0.1,5,0,39,65,60.0,9,34,1,1,0,Montpellier,2020-12-16 Montpellier-Metz,FRA-L1,20-21,d6277b7a
+ccb1c3af,Keagan Dolly,20,RSA,RM,27-329,1,0,0,0,0,1,0,0,0,3,1,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Montpellier,2020-12-16 Montpellier-Metz,FRA-L1,20-21,d6277b7a
+ea0aa7e0,Mihailo Ristić,7,SRB,LB,25-046,90,0,0,0,0,3,1,0,0,65,0,0,0,0.1,0.1,0.0,2,0,39,55,70.9,3,38,6,3,1,Montpellier,2020-12-16 Montpellier-Metz,FRA-L1,20-21,d6277b7a
+3f5b4635,Daniel Congré,3,FRA,CB,35-255,90,0,0,0,0,2,0,0,0,63,4,1,1,0.1,0.1,0.0,1,0,49,54,90.7,3,34,0,0,0,Montpellier,2020-12-16 Montpellier-Metz,FRA-L1,20-21,d6277b7a
+6690ef25,Pedro Mendes,5,POR,CB,30-076,90,0,0,0,0,0,0,0,0,67,2,1,0,0.0,0.0,0.0,0,0,55,60,91.7,3,40,1,0,0,Montpellier,2020-12-16 Montpellier-Metz,FRA-L1,20-21,d6277b7a
+24eb7ed6,Junior Sambia,6,FRA,RB,24-100,79,0,0,0,0,1,0,0,0,71,2,0,0,0.0,0.0,0.0,3,0,56,67,83.6,8,31,3,1,0,Montpellier,2020-12-16 Montpellier-Metz,FRA-L1,20-21,d6277b7a
+4e0afc5d,Arnaud Souquet,2,FRA,RB,28-308,11,0,0,0,0,0,0,0,0,15,0,0,0,0.0,0.0,0.0,0,0,13,15,86.7,1,11,1,0,0,Montpellier,2020-12-16 Montpellier-Metz,FRA-L1,20-21,d6277b7a
+c631f952,Jonas Omlin,1,SUI,GK,26-341,90,0,0,0,0,0,0,0,0,31,0,0,0,0.0,0.0,0.0,0,0,27,28,96.4,0,13,0,0,0,Montpellier,2020-12-16 Montpellier-Metz,FRA-L1,20-21,d6277b7a
+29ef0f49,Aaron Leya Iseka,24,BEL,FW,23-031,62,1,0,1,1,0,0,1,0,22,0,0,0,0.8,0.0,0.1,1,0,10,12,83.3,1,12,0,1,0,Metz,2020-12-16 Montpellier-Metz,FRA-L1,20-21,d6277b7a
+75a63397,Opa Nguette,11,SEN,FW,26-161,28,0,0,0,0,0,0,0,0,19,1,0,1,0.0,0.0,0.0,1,0,4,7,57.1,1,10,0,5,2,Metz,2020-12-16 Montpellier-Metz,FRA-L1,20-21,d6277b7a
+a0791826,Farid Boulaya,10,ALG,FW,27-295,89,0,0,0,0,3,1,0,0,59,1,1,1,0.1,0.1,0.2,3,2,30,48,62.5,4,35,2,2,1,Metz,2020-12-16 Montpellier-Metz,FRA-L1,20-21,d6277b7a
+d8992b84,Victorien Angban,5,CIV,CM,24-078,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Metz,2020-12-16 Montpellier-Metz,FRA-L1,20-21,d6277b7a
+4c4ffacc,Mamadou Fofana,6,MLI,CM,22-330,90,0,0,0,0,0,0,0,0,55,1,2,3,0.0,0.0,0.0,0,0,39,44,88.6,0,29,0,0,0,Metz,2020-12-16 Montpellier-Metz,FRA-L1,20-21,d6277b7a
+e768de1f,Habib Maïga,19,CIV,CM,24-350,89,1,0,0,0,1,1,1,0,68,3,3,2,0.6,0.6,0.0,2,1,41,50,82.0,6,36,1,2,2,Metz,2020-12-16 Montpellier-Metz,FRA-L1,20-21,d6277b7a
+743fd71f,Vagner Gonçalves,27,CPV,FW,24-341,1,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,0,0,Metz,2020-12-16 Montpellier-Metz,FRA-L1,20-21,d6277b7a
+9d5dcc23,Lamine Gueye,13,SEN,CM,22-278,69,0,0,0,0,0,0,0,0,24,0,0,0,0.0,0.0,0.0,1,0,17,20,85.0,2,12,0,0,0,Metz,2020-12-16 Montpellier-Metz,FRA-L1,20-21,d6277b7a
+87e9c7cd,Papa Ndiaga Yade,26,MTN,CM,20-346,21,0,1,0,0,1,1,0,0,10,1,0,0,0.0,0.0,0.6,2,1,7,7,100.0,3,7,2,0,0,Metz,2020-12-16 Montpellier-Metz,FRA-L1,20-21,d6277b7a
+8332db56,Thomas Delaine,17,FRA,LB,28-267,90,0,0,0,0,2,1,1,0,37,2,0,0,0.1,0.1,0.0,0,0,18,27,66.7,0,13,1,1,0,Metz,2020-12-16 Montpellier-Metz,FRA-L1,20-21,d6277b7a
+861227d2,John Boye,21,GHA,CB,33-237,90,0,0,0,0,0,0,0,0,51,0,4,0,0.0,0.0,0.0,1,0,32,37,86.5,0,26,0,1,1,Metz,2020-12-16 Montpellier-Metz,FRA-L1,20-21,d6277b7a
+562a4799,Boubakar Kouyaté,23,MLI,CB,23-245,90,0,0,0,0,1,0,0,0,54,4,2,0,0.2,0.2,0.0,0,0,34,37,91.9,0,30,0,0,0,Metz,2020-12-16 Montpellier-Metz,FRA-L1,20-21,d6277b7a
+edd81e2a,Dylan Bronn,2,TUN,CB,25-180,90,0,0,0,0,0,0,0,0,64,1,2,1,0.0,0.0,0.0,1,0,49,55,89.1,7,45,3,0,0,Metz,2020-12-16 Montpellier-Metz,FRA-L1,20-21,d6277b7a
+3c6bbbab,Fabien Centonze,18,FRA,RB,24-335,90,0,0,0,0,0,0,0,0,45,1,2,2,0.0,0.0,0.1,1,0,18,26,69.2,1,18,2,2,1,Metz,2020-12-16 Montpellier-Metz,FRA-L1,20-21,d6277b7a
+ae7d0ecd,Alexandre Oukidja,16,ALG,GK,32-150,90,0,0,0,0,0,0,0,0,38,0,0,0,0.0,0.0,0.0,0,0,24,36,66.7,0,12,0,0,0,Metz,2020-12-16 Montpellier-Metz,FRA-L1,20-21,d6277b7a

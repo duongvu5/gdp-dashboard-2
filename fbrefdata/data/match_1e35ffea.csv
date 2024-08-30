@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+e7986081,Moussa Dembélé,9,FRA,FW,25-279,90,2,1,0,0,2,2,0,0,22,1,0,1,0.2,0.2,0.1,2,2,9,12,75.0,1,17,2,5,4,Lyon,2022-04-17 Lyon-Bordeaux,FRA-L1,21-22,1e35ffea
+5ceba7fc,Karl Toko Ekambi,7,CMR,LW,29-215,90,2,0,0,0,5,4,0,0,34,0,1,0,1.1,1.1,0.0,2,0,14,22,63.6,3,25,3,4,2,Lyon,2022-04-17 Lyon-Bordeaux,FRA-L1,21-22,1e35ffea
+7120a04d,Tetê,20,BRA,RW,22-061,72,0,0,0,0,0,0,0,0,28,0,2,1,0.0,0.0,0.0,3,1,15,19,78.9,1,23,0,3,1,Lyon,2022-04-17 Lyon-Bordeaux,FRA-L1,21-22,1e35ffea
+a0d55a09,Bradley Barcola,26,FRA,RW,19-227,18,0,1,0,0,0,0,0,0,8,1,0,1,0.0,0.0,0.2,1,1,3,4,75.0,1,5,2,0,0,Lyon,2022-04-17 Lyon-Bordeaux,FRA-L1,21-22,1e35ffea
+9b6f7fd5,Lucas Paquetá,10,BRA,LM,24-233,64,1,0,0,0,2,1,0,0,66,1,1,2,0.1,0.1,0.0,0,0,38,53,71.7,2,52,0,1,0,Lyon,2022-04-17 Lyon-Bordeaux,FRA-L1,21-22,1e35ffea
+a5db0bec,Houssem Aouar,8,ALG,LM,23-291,26,0,0,0,0,1,0,0,0,15,0,0,0,0.0,0.0,0.0,2,0,11,14,78.6,4,9,0,1,1,Lyon,2022-04-17 Lyon-Bordeaux,FRA-L1,21-22,1e35ffea
+c6e5d20f,Thiago Mendes,23,BRA,CM,30-033,83,0,0,0,0,0,0,0,0,91,3,1,2,0.0,0.0,0.0,4,2,69,79,87.3,4,65,1,0,0,Lyon,2022-04-17 Lyon-Bordeaux,FRA-L1,21-22,1e35ffea
+2db2fd7b,Jérôme Boateng,27,GER,CM,33-226,7,0,0,0,0,0,0,0,0,10,1,0,0,0.0,0.0,0.2,1,0,8,9,88.9,1,7,0,0,0,Lyon,2022-04-17 Lyon-Bordeaux,FRA-L1,21-22,1e35ffea
+745ca0a3,Romain Faivre,15,FRA,RM,23-277,64,1,0,0,0,1,1,0,0,46,0,0,0,0.1,0.1,0.2,4,1,31,39,79.5,8,36,5,3,1,Lyon,2022-04-17 Lyon-Bordeaux,FRA-L1,21-22,1e35ffea
+d504b3e1,Jeff Reine-Adélaïde,22,FRA,RM,24-090,26,0,1,0,0,2,1,0,0,33,0,0,0,0.1,0.1,0.3,2,1,24,31,77.4,2,25,0,0,0,Lyon,2022-04-17 Lyon-Bordeaux,FRA-L1,21-22,1e35ffea
+f28474a4,Henrique,12,BRA,LB,27-357,90,0,0,0,0,1,0,0,0,75,0,2,3,0.2,0.2,0.0,3,0,58,64,90.6,4,58,3,3,0,Lyon,2022-04-17 Lyon-Bordeaux,FRA-L1,21-22,1e35ffea
+5b9512c5,Castello Lukeba,4,FRA,CB,19-121,90,0,0,0,0,0,0,0,0,79,3,2,1,0.0,0.0,0.0,0,0,64,69,92.8,0,64,0,0,0,Lyon,2022-04-17 Lyon-Bordeaux,FRA-L1,21-22,1e35ffea
+1ec7e1c5,Damien Da Silva,21,FRA,CB,33-335,90,0,0,0,0,1,0,0,0,85,1,2,2,0.0,0.0,0.0,0,0,64,76,84.2,3,64,0,0,0,Lyon,2022-04-17 Lyon-Bordeaux,FRA-L1,21-22,1e35ffea
+d56b9520,Malo Gusto,17,FRA,RB,18-333,64,0,1,0,0,0,0,0,0,59,0,1,3,0.0,0.0,0.0,1,1,43,53,81.1,2,40,3,1,1,Lyon,2022-04-17 Lyon-Bordeaux,FRA-L1,21-22,1e35ffea
+e0bc6fdc,Emerson Palmieri,3,ITA,RB,27-257,26,0,0,0,0,0,0,0,0,23,0,0,0,0.0,0.0,0.0,1,0,18,21,85.7,2,15,0,0,0,Lyon,2022-04-17 Lyon-Bordeaux,FRA-L1,21-22,1e35ffea
+d6f6ce93,Julian Pollersbeck,30,GER,GK,27-244,90,0,0,0,0,0,0,0,0,52,0,0,0,0.0,0.0,0.0,0,0,44,51,86.3,0,44,0,0,0,Lyon,2022-04-17 Lyon-Bordeaux,FRA-L1,21-22,1e35ffea
+a2d873dd,Hwang Ui-jo,18,KOR,FW,29-232,72,0,0,0,0,1,1,0,0,21,1,1,0,0.0,0.0,0.0,0,0,12,16,75.0,0,12,0,0,0,Bordeaux,2022-04-17 Lyon-Bordeaux,FRA-L1,21-22,1e35ffea
+3544641e,Sekou Mara,11,FRA,FW,19-261,18,1,0,1,1,4,1,0,0,13,0,1,0,1.3,0.5,0.1,5,1,3,5,60.0,1,6,0,1,0,Bordeaux,2022-04-17 Lyon-Bordeaux,FRA-L1,21-22,1e35ffea
+2054d037,M'Baye Niang,10,SEN,FW,27-119,63,0,0,0,0,0,0,0,0,24,1,0,0,0.0,0.0,0.0,0,0,8,18,44.4,1,16,1,0,0,Bordeaux,2022-04-17 Lyon-Bordeaux,FRA-L1,21-22,1e35ffea
+ea02beaf,Remi Oudin,28,FRA,FW,25-150,27,0,0,0,0,2,1,0,0,14,1,0,0,0.1,0.1,0.3,1,0,6,11,54.5,1,9,0,0,0,Bordeaux,2022-04-17 Lyon-Bordeaux,FRA-L1,21-22,1e35ffea
+26777636,Yacine Adli,19,FRA,AM,21-262,63,0,0,0,0,1,0,0,0,40,2,2,1,0.1,0.1,0.1,5,0,25,34,73.5,3,25,0,0,0,Bordeaux,2022-04-17 Lyon-Bordeaux,FRA-L1,21-22,1e35ffea
+34a0f5ff,Javairô Dilrosun,21,NED,AM,23-299,27,0,0,0,0,1,1,0,0,12,0,0,1,0.3,0.3,0.0,3,1,5,9,55.6,0,9,1,4,3,Bordeaux,2022-04-17 Lyon-Bordeaux,FRA-L1,21-22,1e35ffea
+e6c43eec,Josuha Guilavogui,23,FRA,"CM,CB",31-210,90,0,0,0,0,2,0,0,0,62,5,1,0,0.1,0.1,0.1,4,0,40,50,80.0,9,47,1,1,1,Bordeaux,2022-04-17 Lyon-Bordeaux,FRA-L1,21-22,1e35ffea
+b5bb8188,Jean Onana,8,CMR,CM,22-099,90,0,0,0,0,3,0,0,0,68,7,0,4,0.1,0.1,0.3,4,0,34,47,72.3,5,38,0,0,0,Bordeaux,2022-04-17 Lyon-Bordeaux,FRA-L1,21-22,1e35ffea
+9bdd8118,Gideon Mensah,14,GHA,WB,23-273,90,0,0,0,0,0,0,0,0,50,0,1,0,0.0,0.0,0.0,2,0,32,43,74.4,5,33,1,1,0,Bordeaux,2022-04-17 Lyon-Bordeaux,FRA-L1,21-22,1e35ffea
+295ba708,Tom Lacoux,27,FRA,WB,20-082,72,0,0,0,0,0,0,0,0,37,2,0,0,0.0,0.0,0.0,0,0,22,32,68.8,1,19,2,0,0,Bordeaux,2022-04-17 Lyon-Bordeaux,FRA-L1,21-22,1e35ffea
+4bf69118,Enock Kwateng,25,FRA,WB,25-008,18,0,0,0,0,0,0,0,0,18,1,0,0,0.0,0.0,0.0,2,0,9,15,60.0,5,11,0,0,0,Bordeaux,2022-04-17 Lyon-Bordeaux,FRA-L1,21-22,1e35ffea
+eef2d8ce,Ricardo Mangas,12,POR,CB,24-029,90,0,0,0,0,0,0,0,0,43,0,0,3,0.0,0.0,0.0,2,0,29,32,90.6,1,25,0,2,2,Bordeaux,2022-04-17 Lyon-Bordeaux,FRA-L1,21-22,1e35ffea
+4937a9f7,Abdel Jalil Medioub,3,ALG,CB,24-232,85,0,0,0,0,0,0,0,0,30,3,2,0,0.0,0.0,0.0,0,0,19,22,86.4,2,16,0,1,1,Bordeaux,2022-04-17 Lyon-Bordeaux,FRA-L1,21-22,1e35ffea
+deba6b05,Fransérgio,13,BRA,"CM,CB",31-181,5,0,0,0,0,1,0,0,0,3,0,0,0,0.3,0.3,0.0,0,0,0,2,0.0,0,2,0,0,0,Bordeaux,2022-04-17 Lyon-Bordeaux,FRA-L1,21-22,1e35ffea
+eab957a3,Anel Ahmedhodžić,5,BIH,CB,23-022,90,0,0,0,0,1,0,0,0,46,2,3,1,0.0,0.0,0.4,1,0,30,34,88.2,2,28,1,0,0,Bordeaux,2022-04-17 Lyon-Bordeaux,FRA-L1,21-22,1e35ffea
+c252c705,Gaëtan Poussin,16,FRA,GK,23-094,90,0,0,0,0,0,0,0,0,42,0,0,0,0.0,0.0,0.0,0,0,18,38,47.4,0,22,0,0,0,Bordeaux,2022-04-17 Lyon-Bordeaux,FRA-L1,21-22,1e35ffea

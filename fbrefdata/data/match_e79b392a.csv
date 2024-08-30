@@ -1,0 +1,32 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+36a3ff67,Marco Reus,11,GER,FW,32-187,90,0,0,0,0,0,0,0,0,45,2,1,1,0.0,0.0,0.4,3,0,26,38,68.4,6,25,2,2,1,Dortmund,2021-12-04 Dortmund-Bayern Munich,GER-BL1,21-22,e79b392a
+1f44ac21,Erling Haaland,9,NOR,FW,21-136,81,1,0,0,0,3,1,0,0,27,0,0,1,0.3,0.3,0.0,2,0,10,18,55.6,3,14,2,0,0,Dortmund,2021-12-04 Dortmund-Bayern Munich,GER-BL1,21-22,e79b392a
+6b8887c2,Steffen Tigges,27,GER,FW,23-126,9,0,0,0,0,0,0,0,0,8,1,0,0,0.0,0.0,0.0,0,0,2,5,40.0,0,3,0,0,0,Dortmund,2021-12-04 Dortmund-Bayern Munich,GER-BL1,21-22,e79b392a
+57d88cf9,Jude Bellingham,22,ENG,"LM,CM,RM",18-158,90,0,2,0,0,3,0,1,0,60,2,1,1,0.3,0.3,0.5,5,2,34,44,77.3,3,35,2,4,2,Dortmund,2021-12-04 Dortmund-Bayern Munich,GER-BL1,21-22,e79b392a
+db4ed67b,Mahmoud Dahoud,8,GER,CM,25-337,59,0,0,0,0,0,0,0,0,37,0,3,0,0.0,0.0,0.0,1,0,15,30,50.0,2,18,1,2,2,Dortmund,2021-12-04 Dortmund-Bayern Munich,GER-BL1,21-22,e79b392a
+116c35df,Donyell Malen,21,NED,LM,22-329,31,0,0,0,0,1,1,0,0,16,1,0,1,0.0,0.0,0.0,0,0,8,10,80.0,0,12,1,1,1,Dortmund,2021-12-04 Dortmund-Bayern Munich,GER-BL1,21-22,e79b392a
+a167537f,Julian Brandt,19,GER,"RM,CM",25-216,69,1,0,0,0,3,1,0,0,47,3,0,2,0.5,0.5,0.0,3,2,29,36,80.6,5,23,3,1,1,Dortmund,2021-12-04 Dortmund-Bayern Munich,GER-BL1,21-22,e79b392a
+fa661778,Marius Wolf,39,GER,RM,26-191,21,0,0,0,0,1,0,0,0,8,0,1,0,0.1,0.1,0.0,1,0,3,6,50.0,1,1,0,0,0,Dortmund,2021-12-04 Dortmund-Bayern Munich,GER-BL1,21-22,e79b392a
+a65ce836,Emre Can,23,GER,DM,27-326,90,0,0,0,0,0,0,1,0,57,2,3,3,0.0,0.0,0.1,1,0,39,46,84.8,3,27,0,0,0,Dortmund,2021-12-04 Dortmund-Bayern Munich,GER-BL1,21-22,e79b392a
+048a1cbc,Raphaël Guerreiro,13,POR,LB,27-347,81,0,0,0,0,0,0,0,0,50,0,2,1,0.0,0.0,0.0,0,0,35,47,74.5,2,28,1,0,0,Dortmund,2021-12-04 Dortmund-Bayern Munich,GER-BL1,21-22,e79b392a
+fa274d97,Nico Schulz,14,GER,LB,28-247,9,0,0,0,0,0,0,0,0,24,1,0,0,0.0,0.0,0.0,0,0,19,22,86.4,0,15,0,1,0,Dortmund,2021-12-04 Dortmund-Bayern Munich,GER-BL1,21-22,e79b392a
+05d548d8,Mats Hummels,15,GER,CB,32-353,90,0,0,0,0,0,0,0,0,70,1,0,4,0.0,0.0,0.0,1,0,48,58,82.8,3,29,0,0,0,Dortmund,2021-12-04 Dortmund-Bayern Munich,GER-BL1,21-22,e79b392a
+89ac64a6,Manuel Akanji,16,SUI,CB,26-138,90,0,0,0,0,0,0,0,0,50,0,3,0,0.0,0.0,0.0,2,0,41,45,91.1,4,34,0,0,0,Dortmund,2021-12-04 Dortmund-Bayern Munich,GER-BL1,21-22,e79b392a
+e162b013,Thomas Meunier,24,BEL,RB,30-083,90,0,0,0,0,1,1,0,0,69,3,4,1,0.1,0.1,0.0,0,0,39,53,73.6,2,38,1,0,0,Dortmund,2021-12-04 Dortmund-Bayern Munich,GER-BL1,21-22,e79b392a
+cd59b9df,Gregor Kobel,1,SUI,GK,23-363,90,0,0,0,0,0,0,0,0,39,0,0,0,0.0,0.0,0.0,0,0,28,36,77.8,0,26,0,0,0,Dortmund,2021-12-04 Dortmund-Bayern Munich,GER-BL1,21-22,e79b392a
+8d78e732,Robert Lewandowski,9,POL,FW,33-105,90,2,0,1,1,4,1,1,0,36,0,0,1,1.3,0.6,0.6,8,1,19,27,70.4,6,22,1,5,5,Bayern Munich,2021-12-04 Dortmund-Bayern Munich,GER-BL1,21-22,e79b392a
+2b114be3,Leroy Sané,10,GER,LW,25-327,64,0,0,0,0,3,1,0,0,31,3,0,0,0.7,0.7,0.2,4,0,17,22,77.3,4,18,2,3,2,Bayern Munich,2021-12-04 Dortmund-Bayern Munich,GER-BL1,21-22,e79b392a
+88e357ef,Serge Gnabry,7,GER,"LW,RW",26-143,26,0,0,0,0,0,0,0,0,17,1,0,1,0.0,0.0,0.0,0,0,9,14,64.3,2,9,1,0,0,Bayern Munich,2021-12-04 Dortmund-Bayern Munich,GER-BL1,21-22,e79b392a
+042e8a49,Kingsley Coman,11,FRA,RW,25-174,87,1,0,0,0,4,3,0,0,44,0,0,1,0.4,0.4,0.6,2,1,22,31,71.0,4,25,1,3,2,Bayern Munich,2021-12-04 Dortmund-Bayern Munich,GER-BL1,21-22,e79b392a
+5853ac44,Tanguy Nianzou,23,FRA,DM,19-180,3,0,0,0,0,0,0,0,0,13,0,0,0,0.0,0.0,0.0,0,0,7,10,70.0,2,3,0,0,0,Bayern Munich,2021-12-04 Dortmund-Bayern Munich,GER-BL1,21-22,e79b392a
+3c6089ab,Thomas Müller,25,GER,AM,32-082,90,0,1,0,0,3,0,0,0,59,0,1,1,0.2,0.2,0.4,4,0,35,50,70.0,7,31,4,2,2,Bayern Munich,2021-12-04 Dortmund-Bayern Munich,GER-BL1,21-22,e79b392a
+652d4c37,Corentin Tolisso,24,FRA,DM,27-123,90,0,0,0,0,1,0,0,0,74,1,4,0,0.5,0.5,0.0,2,1,52,62,83.9,10,42,3,0,0,Bayern Munich,2021-12-04 Dortmund-Bayern Munich,GER-BL1,21-22,e79b392a
+cc86b9a3,Leon Goretzka,8,GER,DM,26-301,64,0,0,0,0,0,0,0,0,48,0,1,1,0.0,0.0,0.0,2,0,34,39,87.2,9,17,0,1,1,Bayern Munich,2021-12-04 Dortmund-Bayern Munich,GER-BL1,21-22,e79b392a
+2c0558b8,Jamal Musiala,42,GER,"DM,LW",18-281,26,0,0,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.0,0,0,6,8,75.0,0,9,0,2,0,Bayern Munich,2021-12-04 Dortmund-Bayern Munich,GER-BL1,21-22,e79b392a
+d781d855,Alphonso Davies,19,CAN,LB,21-032,90,0,0,0,0,0,0,0,0,58,1,1,4,0.0,0.0,0.0,3,1,34,44,77.3,2,28,6,8,4,Bayern Munich,2021-12-04 Dortmund-Bayern Munich,GER-BL1,21-22,e79b392a
+c3ee18ef,Lucas Hernández,21,FRA,CB,25-293,73,0,0,0,0,0,0,0,0,60,4,2,3,0.0,0.0,0.0,0,0,41,47,87.2,2,35,0,0,0,Bayern Munich,2021-12-04 Dortmund-Bayern Munich,GER-BL1,21-22,e79b392a
+e33c06cf,Niklas Süle,4,GER,CB,26-092,17,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,8,9,88.9,0,4,0,0,0,Bayern Munich,2021-12-04 Dortmund-Bayern Munich,GER-BL1,21-22,e79b392a
+d248cd8f,Dayot Upamecano,2,FRA,CB,23-038,90,0,0,0,0,0,0,1,0,70,0,1,0,0.0,0.0,0.0,0,0,53,64,82.8,5,39,0,0,0,Bayern Munich,2021-12-04 Dortmund-Bayern Munich,GER-BL1,21-22,e79b392a
+45a03961,Benjamin Pavard,5,FRA,RB,25-251,90,0,0,0,0,1,0,0,0,85,1,2,2,0.0,0.0,0.0,2,0,59,74,79.7,9,29,0,0,0,Bayern Munich,2021-12-04 Dortmund-Bayern Munich,GER-BL1,21-22,e79b392a
+8778c910,Manuel Neuer,1,GER,GK,35-252,90,0,0,0,0,0,0,0,0,50,0,0,0,0.0,0.0,0.0,0,0,38,49,77.6,0,22,0,0,0,Bayern Munich,2021-12-04 Dortmund-Bayern Munich,GER-BL1,21-22,e79b392a

@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+5ed97752,Iliman Ndiaye,29,SEN,FW,23-159,66,0,1,0,0,1,0,0,0,18,0,1,0,0.1,0.1,0.1,3,1,9,13,69.2,2,20,2,1,1,Marseille,2023-08-12 Marseille-Reims,FRA-L1,23-24,fdbcc9e3
+d5dd5f1f,Pierre-Emerick Aubameyang,10,GAB,FW,34-055,24,0,0,0,0,0,0,0,0,9,1,0,0,0.0,0.0,0.0,0,0,2,7,28.6,1,6,0,0,0,Marseille,2023-08-12 Marseille-Reims,FRA-L1,23-24,fdbcc9e3
+74d4cec6,Vitinha,9,POR,FW,23-150,82,1,0,0,0,3,1,0,0,23,0,0,1,0.3,0.3,0.3,5,1,13,17,76.5,3,16,2,4,4,Marseille,2023-08-12 Marseille-Reims,FRA-L1,23-24,fdbcc9e3
+e7d59f4f,Amine Harit,11,MAR,LW,26-055,8,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,2,0,0,0,Marseille,2023-08-12 Marseille-Reims,FRA-L1,23-24,fdbcc9e3
+83299cc0,Azzedine Ounahi,8,MAR,LM,23-115,82,1,0,0,0,3,1,0,0,35,0,2,0,0.1,0.1,0.1,4,0,19,25,76.0,3,29,2,3,0,Marseille,2023-08-12 Marseille-Reims,FRA-L1,23-24,fdbcc9e3
+5ea8ef20,Mattéo Guendouzi,6,FRA,RM,24-120,8,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,2,4,50.0,0,3,1,0,0,Marseille,2023-08-12 Marseille-Reims,FRA-L1,23-24,fdbcc9e3
+cce181df,Geoffrey Kondogbia,19,CTA,"CM,LM",30-178,90,0,0,0,0,2,0,0,0,39,1,0,2,0.1,0.1,0.0,2,0,23,24,95.8,3,21,0,1,1,Marseille,2023-08-12 Marseille-Reims,FRA-L1,23-24,fdbcc9e3
+ed45c4a5,Valentin Rongier,21,FRA,CM,28-248,66,0,0,0,0,0,0,0,0,37,3,4,2,0.0,0.0,0.0,2,1,24,25,96.0,2,26,1,0,0,Marseille,2023-08-12 Marseille-Reims,FRA-L1,23-24,fdbcc9e3
+4a56052c,Jordan Veretout,27,FRA,CM,30-164,24,0,0,0,0,0,0,0,0,20,1,0,0,0.0,0.0,0.0,1,0,14,17,82.4,1,14,0,0,0,Marseille,2023-08-12 Marseille-Reims,FRA-L1,23-24,fdbcc9e3
+7af655fe,François Mughe,24,CMR,RM,19-057,50,0,0,0,0,0,0,0,0,18,0,0,0,0.0,0.0,0.0,2,0,6,9,66.7,1,13,4,2,1,Marseille,2023-08-12 Marseille-Reims,FRA-L1,23-24,fdbcc9e3
+bfdb33aa,Ismaila Sarr,23,SEN,"RM,RW",25-168,40,0,1,0,0,1,0,0,0,20,0,0,1,0.2,0.2,0.3,2,1,12,15,80.0,2,19,4,3,1,Marseille,2023-08-12 Marseille-Reims,FRA-L1,23-24,fdbcc9e3
+ed9f7cfe,Renan Lodi,12,BRA,LB,25-126,90,0,0,0,0,1,1,1,0,46,1,2,1,0.1,0.1,0.0,1,0,23,36,63.9,4,23,0,2,1,Marseille,2023-08-12 Marseille-Reims,FRA-L1,23-24,fdbcc9e3
+e76cb9cc,Chancel Mbemba,99,COD,CB,29-004,90,0,0,0,0,0,0,0,0,46,2,2,2,0.0,0.0,0.0,0,0,25,32,78.1,2,24,0,1,1,Marseille,2023-08-12 Marseille-Reims,FRA-L1,23-24,fdbcc9e3
+41eebdf5,Samuel Gigot,4,FRA,CB,29-304,90,0,0,0,0,2,1,0,0,50,2,3,1,0.2,0.2,0.0,2,0,25,33,75.8,3,26,1,0,0,Marseille,2023-08-12 Marseille-Reims,FRA-L1,23-24,fdbcc9e3
+5219ab4a,Jonathan Clauss,7,FRA,RB,30-321,90,0,0,0,0,1,0,0,0,64,4,2,0,0.0,0.0,0.0,3,0,36,51,70.6,6,33,2,1,0,Marseille,2023-08-12 Marseille-Reims,FRA-L1,23-24,fdbcc9e3
+20b9f052,Pau López,16,ESP,GK,28-242,90,0,0,0,0,0,0,0,0,41,0,0,0,0.0,0.0,0.0,0,0,25,41,61.0,0,30,0,0,0,Marseille,2023-08-12 Marseille-Reims,FRA-L1,23-24,fdbcc9e3
+44435c8f,Oumar Diakité,22,CIV,FW,19-235,59,0,0,0,0,0,0,0,0,17,1,0,0,0.0,0.0,0.0,0,0,7,13,53.8,1,10,1,0,0,Reims,2023-08-12 Marseille-Reims,FRA-L1,23-24,fdbcc9e3
+bc7cc472,Amine Salama,11,FRA,FW,23-025,31,0,0,0,0,1,1,0,0,9,0,0,1,0.2,0.2,0.0,0,0,4,6,66.7,1,7,1,2,1,Reims,2023-08-12 Marseille-Reims,FRA-L1,23-24,fdbcc9e3
+88acf83f,Reda Khadra,14,GER,LW,22-039,59,0,0,0,0,2,1,0,0,26,1,2,0,0.1,0.1,0.0,1,0,9,17,52.9,1,19,0,2,0,Reims,2023-08-12 Marseille-Reims,FRA-L1,23-24,fdbcc9e3
+d97af612,Keito Nakamura,17,JPN,LW,23-015,31,0,0,0,0,1,0,0,0,15,0,0,2,0.0,0.0,0.2,3,0,8,11,72.7,2,13,1,1,1,Reims,2023-08-12 Marseille-Reims,FRA-L1,23-24,fdbcc9e3
+dbd3a428,Junya Ito,7,JPN,RW,30-156,90,1,0,0,0,2,1,0,0,59,1,2,0,0.3,0.3,0.2,5,0,30,47,63.8,7,44,7,2,2,Reims,2023-08-12 Marseille-Reims,FRA-L1,23-24,fdbcc9e3
+2acf0cd7,Marshall Munetsi,15,ZIM,AM,27-051,79,0,1,0,0,1,0,1,0,18,2,0,0,0.0,0.0,0.1,2,1,5,9,55.6,1,12,1,1,0,Reims,2023-08-12 Marseille-Reims,FRA-L1,23-24,fdbcc9e3
+6b5edd5d,Valentin Atangana Edoa,6,FRA,AM,17-352,11,0,0,0,0,0,0,0,0,9,0,0,1,0.0,0.0,0.0,0,0,4,5,80.0,1,5,0,0,0,Reims,2023-08-12 Marseille-Reims,FRA-L1,23-24,fdbcc9e3
+a17a94d6,Azor Matusiwa,21,NED,DM,25-106,90,0,0,0,0,1,0,0,0,55,2,0,3,0.0,0.0,0.0,2,0,33,44,75.0,7,30,0,2,2,Reims,2023-08-12 Marseille-Reims,FRA-L1,23-24,fdbcc9e3
+2b7cdb79,Amir Richardson,8,MAR,DM,21-200,59,0,0,0,0,0,0,1,0,29,1,1,2,0.0,0.0,0.0,1,0,20,22,90.9,2,21,1,0,0,Reims,2023-08-12 Marseille-Reims,FRA-L1,23-24,fdbcc9e3
+5c26ca51,Teddy Teuma,10,MLT,DM,29-316,31,0,0,0,0,0,0,0,0,28,1,0,0,0.0,0.0,0.1,1,0,17,21,81.0,3,18,0,2,0,Reims,2023-08-12 Marseille-Reims,FRA-L1,23-24,fdbcc9e3
+c19a2df1,Josh Wilson-Esbrand,19,ENG,LB,20-229,79,0,0,0,0,1,0,1,0,62,2,1,1,0.0,0.0,0.0,0,0,40,53,75.5,2,39,0,1,0,Reims,2023-08-12 Marseille-Reims,FRA-L1,23-24,fdbcc9e3
+059a83b8,Therence Koudou,45,FRA,LB,18-242,11,0,0,0,0,1,0,0,0,17,0,0,0,0.0,0.0,0.0,1,0,11,15,73.3,1,12,2,0,0,Reims,2023-08-12 Marseille-Reims,FRA-L1,23-24,fdbcc9e3
+32c2d95f,Yunis Abdelhamid,5,MAR,CB,35-318,90,0,0,0,0,0,0,0,0,72,4,1,0,0.0,0.0,0.0,0,0,58,63,92.1,6,50,1,0,0,Reims,2023-08-12 Marseille-Reims,FRA-L1,23-24,fdbcc9e3
+039f1983,Joseph Okumu,2,KEN,CB,26-078,90,0,0,0,0,1,1,0,0,79,1,1,0,0.1,0.1,0.0,0,0,60,71,84.5,6,62,0,2,2,Reims,2023-08-12 Marseille-Reims,FRA-L1,23-24,fdbcc9e3
+90eb507d,Thomas Foket,32,BEL,RB,28-321,90,0,0,0,0,0,0,0,0,61,0,1,1,0.0,0.0,0.0,2,1,45,55,81.8,2,41,1,0,0,Reims,2023-08-12 Marseille-Reims,FRA-L1,23-24,fdbcc9e3
+eedea60b,Yehvann Diouf,94,FRA,GK,23-269,90,0,0,0,0,0,0,0,0,36,0,0,0,0.0,0.0,0.0,0,0,33,35,94.3,0,27,0,0,0,Reims,2023-08-12 Marseille-Reims,FRA-L1,23-24,fdbcc9e3

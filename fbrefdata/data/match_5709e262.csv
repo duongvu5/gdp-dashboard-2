@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+2ead2809,Gianluca Lapadula,10,PER,FW,28-075,85,0,0,0,0,6,1,0,0,39,1,0,1,0.9,0.9,0.1,3,1,16,23,69.6,1,11,0,2,2,Genoa,2018-04-23 Genoa-Hellas Verona,ITA-SERIA_A,17-18,5709e262
+fe48a073,Giuseppe Rossi,49,ITA,FW,31-081,5,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,2,0,0,0,Genoa,2018-04-23 Genoa-Hellas Verona,ITA-SERIA_A,17-18,5709e262
+97e2aa67,Iuri Medeiros,45,POR,FW,23-287,80,1,0,0,0,2,2,0,0,54,0,0,0,0.1,0.1,0.4,6,0,35,47,74.5,5,32,5,4,2,Genoa,2018-04-23 Genoa-Hellas Verona,ITA-SERIA_A,17-18,5709e262
+d711d04f,Goran Pandev,19,MKD,FW,34-270,10,1,0,0,0,2,2,0,0,14,0,0,0,0.1,0.1,0.0,1,1,6,9,66.7,1,7,4,3,1,Genoa,2018-04-23 Genoa-Hellas Verona,ITA-SERIA_A,17-18,5709e262
+c75b6a02,Andrea Bertolacci,8,ITA,CM,27-102,90,0,0,0,0,0,0,0,0,74,2,0,3,0.0,0.0,0.0,3,0,50,64,78.1,5,33,1,0,0,Genoa,2018-04-23 Genoa-Hellas Verona,ITA-SERIA_A,17-18,5709e262
+c6dda86e,Isaac Cofie,4,GHA,CM,26-215,64,0,0,0,0,0,0,1,0,55,2,0,1,0.0,0.0,0.0,0,0,40,47,85.1,4,29,0,0,0,Genoa,2018-04-23 Genoa-Hellas Verona,ITA-SERIA_A,17-18,5709e262
+88895312,Daniel Bessa,24,ITA,CM,25-099,26,1,0,0,0,1,1,0,0,20,0,0,1,0.6,0.6,0.1,1,0,14,15,93.3,1,12,0,0,0,Genoa,2018-04-23 Genoa-Hellas Verona,ITA-SERIA_A,17-18,5709e262
+98e958af,Oscar Hiljemark,88,SWE,CM,25-299,90,0,0,0,0,0,0,1,0,40,1,0,0,0.0,0.0,0.6,5,0,28,37,75.7,3,23,3,2,1,Genoa,2018-04-23 Genoa-Hellas Verona,ITA-SERIA_A,17-18,5709e262
+f26e3c59,Diego Laxalt,93,URU,WB,25-075,90,0,1,0,0,4,2,0,0,76,2,1,2,0.2,0.2,0.1,4,2,43,54,79.6,1,39,6,7,3,Genoa,2018-04-23 Genoa-Hellas Verona,ITA-SERIA_A,17-18,5709e262
+5128bde4,Darko Lazović,22,SRB,WB,27-220,90,0,2,0,0,1,0,0,0,60,2,0,0,0.1,0.1,0.6,4,2,37,52,71.2,0,32,4,3,2,Genoa,2018-04-23 Genoa-Hellas Verona,ITA-SERIA_A,17-18,5709e262
+1253a12e,Ervin Zukanović,87,BIH,CB,31-071,90,0,0,0,0,2,0,0,0,43,0,1,2,0.2,0.2,0.0,0,0,31,33,93.9,2,16,0,0,0,Genoa,2018-04-23 Genoa-Hellas Verona,ITA-SERIA_A,17-18,5709e262
+47a500ae,Luca Rossettini,13,ITA,CB,32-349,90,0,0,0,0,0,0,0,0,55,0,1,3,0.0,0.0,0.0,0,0,39,44,88.6,1,26,0,0,0,Genoa,2018-04-23 Genoa-Hellas Verona,ITA-SERIA_A,17-18,5709e262
+64cd167d,Davide Biraschi,14,ITA,CB,23-295,90,0,0,0,0,0,0,0,0,58,1,3,0,0.0,0.0,0.0,0,0,36,47,76.6,3,37,3,3,3,Genoa,2018-04-23 Genoa-Hellas Verona,ITA-SERIA_A,17-18,5709e262
+4c62d0c8,Mattia Perin,1,ITA,GK,25-164,90,0,0,0,0,0,0,0,0,28,0,0,0,0.0,0.0,0.0,0,0,16,26,61.5,0,12,0,0,0,Genoa,2018-04-23 Genoa-Hellas Verona,ITA-SERIA_A,17-18,5709e262
+5370cba7,Alessio Cerci,10,ITA,"FW,RW",30-274,90,0,0,0,0,2,1,1,0,45,1,0,0,0.1,0.1,0.1,4,1,27,36,75.0,5,24,2,3,3,Hellas Verona,2018-04-23 Genoa-Hellas Verona,ITA-SERIA_A,17-18,5709e262
+b7a5bc86,Mohamed Fares,93,ALG,"LW,LB",22-067,90,0,0,0,0,2,0,0,0,49,0,0,0,0.1,0.1,0.0,3,0,26,36,72.2,4,30,1,2,1,Hellas Verona,2018-04-23 Genoa-Hellas Verona,ITA-SERIA_A,17-18,5709e262
+7280b54f,Ryder Matos,7,BRA,RW,25-055,62,0,0,0,0,2,0,0,0,25,0,0,1,0.1,0.1,0.0,2,0,13,17,76.5,1,20,5,2,2,Hellas Verona,2018-04-23 Genoa-Hellas Verona,ITA-SERIA_A,17-18,5709e262
+24228180,Bruno Petković,70,CRO,FW,23-219,28,0,0,0,0,1,0,0,0,16,0,0,1,0.1,0.1,0.0,1,0,10,13,76.9,1,8,3,0,0,Hellas Verona,2018-04-23 Genoa-Hellas Verona,ITA-SERIA_A,17-18,5709e262
+c414df9d,Mattia Valoti,27,ITA,LM,24-229,90,0,0,0,0,2,1,1,0,57,2,2,3,0.2,0.2,0.0,3,0,38,44,86.4,6,37,0,1,1,Hellas Verona,2018-04-23 Genoa-Hellas Verona,ITA-SERIA_A,17-18,5709e262
+263b855a,Andrea Danzi,72,ITA,CM,19-057,90,0,0,0,0,0,0,1,0,53,3,1,2,0.0,0.0,0.0,1,0,39,44,88.6,3,32,1,0,0,Hellas Verona,2018-04-23 Genoa-Hellas Verona,ITA-SERIA_A,17-18,5709e262
+07abb358,Rômulo,2,ITA,"RM,RB",30-336,90,1,0,1,1,3,0,0,0,82,1,2,0,1.2,0.4,0.1,3,0,52,70,74.3,2,51,7,3,3,Hellas Verona,2018-04-23 Genoa-Hellas Verona,ITA-SERIA_A,17-18,5709e262
+f7c9fcd6,Samuel Souprayen,26,FRA,LB,29-064,57,0,0,0,0,0,0,0,0,49,1,0,1,0.0,0.0,0.1,1,0,38,44,86.4,1,27,0,0,0,Hellas Verona,2018-04-23 Genoa-Hellas Verona,ITA-SERIA_A,17-18,5709e262
+d3298c99,Daniele Verde,7,ITA,LW,21-307,33,0,0,0,0,0,0,0,0,13,1,1,0,0.0,0.0,0.0,2,0,9,9,100.0,1,6,2,0,0,Hellas Verona,2018-04-23 Genoa-Hellas Verona,ITA-SERIA_A,17-18,5709e262
+ba06950a,Jagoš Vuković,26,SRB,CB,29-317,90,0,0,0,0,0,0,0,0,65,1,0,0,0.0,0.0,0.0,1,0,42,48,87.5,3,33,0,1,1,Hellas Verona,2018-04-23 Genoa-Hellas Verona,ITA-SERIA_A,17-18,5709e262
+99d8fc35,Antonio Caracciolo,2,ITA,CB,27-297,90,0,0,0,0,0,0,0,0,59,1,0,2,0.0,0.0,0.0,0,0,39,46,84.8,1,40,1,3,3,Hellas Verona,2018-04-23 Genoa-Hellas Verona,ITA-SERIA_A,17-18,5709e262
+c67836b8,Enrico Bearzotti,37,ITA,RB,21-176,78,0,0,0,0,0,0,0,0,60,2,0,0,0.0,0.0,0.0,0,0,40,48,83.3,4,27,1,0,0,Hellas Verona,2018-04-23 Genoa-Hellas Verona,ITA-SERIA_A,17-18,5709e262
+0f22b650,Lee Seung-woo,9,KOR,"RM,RB",20-107,12,0,0,0,0,0,0,0,0,16,0,0,0,0.0,0.0,0.0,0,0,11,13,84.6,2,13,0,1,1,Hellas Verona,2018-04-23 Genoa-Hellas Verona,ITA-SERIA_A,17-18,5709e262
+326d09ef,Nícolas Andrade,1,BRA,GK,30-011,90,0,0,0,0,0,0,0,0,31,0,0,0,0.0,0.0,0.0,0,0,24,29,82.8,0,15,0,0,0,Hellas Verona,2018-04-23 Genoa-Hellas Verona,ITA-SERIA_A,17-18,5709e262

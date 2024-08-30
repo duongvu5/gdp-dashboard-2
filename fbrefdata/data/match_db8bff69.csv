@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+343c0d52,Giovanni Simeone,99,ARG,"FW,AM",24-226,90,0,0,0,0,2,0,0,0,26,1,0,0,0.1,0.1,0.0,0,0,11,19,57.9,0,13,1,2,1,Cagliari,2020-02-16 Cagliari-Napoli,ITA-SERIA_A,19-20,db8bff69
+81255c03,João Pedro,10,ITA,AM,27-344,90,0,0,0,0,0,0,1,0,29,2,1,1,0.0,0.0,0.0,0,0,19,23,82.6,3,14,1,1,0,Cagliari,2020-02-16 Cagliari-Napoli,ITA-SERIA_A,19-20,db8bff69
+7ec7738e,Gastón Pereiro,20,URU,AM,24-250,66,0,0,0,0,3,1,0,0,27,0,0,1,0.1,0.1,0.0,1,0,18,21,85.7,6,16,4,2,1,Cagliari,2020-02-16 Cagliari-Napoli,ITA-SERIA_A,19-20,db8bff69
+b5cae4e6,Alberto Paloschi,9,ITA,FW,30-043,24,0,0,0,0,1,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,5,5,100.0,0,7,1,0,0,Cagliari,2020-02-16 Cagliari-Napoli,ITA-SERIA_A,19-20,db8bff69
+cedb3e36,Artur Ioniță,21,MDA,LM,29-183,90,0,0,0,0,0,0,0,0,44,1,1,2,0.0,0.0,0.0,3,0,30,35,85.7,3,23,3,1,1,Cagliari,2020-02-16 Cagliari-Napoli,ITA-SERIA_A,19-20,db8bff69
+ae64d449,Luca Cigarini,8,ITA,CM,33-241,82,0,0,0,0,0,0,0,0,82,0,4,3,0.0,0.0,0.0,1,0,60,71,84.5,7,39,1,1,1,Cagliari,2020-02-16 Cagliari-Napoli,ITA-SERIA_A,19-20,db8bff69
+455a2b79,Valter Birsa,14,SVN,RM,33-193,8,0,0,0,0,1,0,0,0,11,0,0,0,0.0,0.0,0.0,0,0,8,10,80.0,0,4,1,0,0,Cagliari,2020-02-16 Cagliari-Napoli,ITA-SERIA_A,19-20,db8bff69
+95facda1,Nahitan Nández,18,URU,"RM,CM",24-050,90,0,0,0,0,0,0,1,0,63,2,1,1,0.0,0.0,0.0,2,0,50,57,87.7,5,41,2,0,0,Cagliari,2020-02-16 Cagliari-Napoli,ITA-SERIA_A,19-20,db8bff69
+3b61c9ec,Luca Pellegrini,33,ITA,LB,20-346,90,0,0,0,0,2,1,0,0,63,0,1,1,0.1,0.1,0.0,2,0,32,52,61.5,3,31,3,2,1,Cagliari,2020-02-16 Cagliari-Napoli,ITA-SERIA_A,19-20,db8bff69
+008a6e6d,Ragnar Klavan,15,EST,CB,34-109,90,0,0,0,0,1,0,0,0,80,0,0,1,0.0,0.0,0.0,2,0,69,73,94.5,7,54,0,0,0,Cagliari,2020-02-16 Cagliari-Napoli,ITA-SERIA_A,19-20,db8bff69
+217875a4,Sebastian Walukiewicz,40,POL,CB,19-317,69,0,0,0,0,0,0,1,0,61,1,0,0,0.0,0.0,0.0,1,0,50,55,90.9,3,40,0,1,1,Cagliari,2020-02-16 Cagliari-Napoli,ITA-SERIA_A,19-20,db8bff69
+fba81826,Federico Mattiello,3,ITA,RB,24-217,21,0,0,0,0,0,0,0,0,18,0,0,1,0.0,0.0,0.0,1,0,14,16,87.5,3,13,1,0,0,Cagliari,2020-02-16 Cagliari-Napoli,ITA-SERIA_A,19-20,db8bff69
+56400c01,Fabio Pisacane,19,ITA,"RB,CB",34-019,90,0,0,0,0,0,0,0,0,73,0,0,1,0.0,0.0,0.1,2,0,57,63,90.5,2,44,1,3,1,Cagliari,2020-02-16 Cagliari-Napoli,ITA-SERIA_A,19-20,db8bff69
+f554e29b,Alessio Cragno,28,ITA,GK,25-233,90,0,0,0,0,0,0,0,0,29,0,0,0,0.0,0.0,0.0,0,0,23,27,85.2,0,10,0,0,0,Cagliari,2020-02-16 Cagliari-Napoli,ITA-SERIA_A,19-20,db8bff69
+89b2c8a9,Dries Mertens,14,BEL,FW,32-286,90,1,0,0,0,5,2,0,0,42,0,2,0,0.3,0.3,0.1,4,1,25,32,78.1,3,30,4,2,2,Napoli,2020-02-16 Cagliari-Napoli,ITA-SERIA_A,19-20,db8bff69
+cf007308,Elif Elmas,12,MKD,"LW,RM",20-145,90,0,0,0,0,3,1,0,0,53,0,1,0,0.2,0.2,0.1,3,0,37,44,84.1,4,39,1,4,4,Napoli,2020-02-16 Cagliari-Napoli,ITA-SERIA_A,19-20,db8bff69
+78841da9,José Callejón,7,ESP,RW,33-005,66,0,0,0,0,0,0,0,0,39,0,1,0,0.0,0.0,0.4,4,0,31,38,81.6,2,29,3,2,2,Napoli,2020-02-16 Cagliari-Napoli,ITA-SERIA_A,19-20,db8bff69
+5e861944,Matteo Politano,21,ITA,RW,26-197,24,0,0,0,0,1,0,0,0,23,2,0,0,0.1,0.1,0.0,2,0,13,16,81.3,1,15,2,2,2,Napoli,2020-02-16 Cagliari-Napoli,ITA-SERIA_A,19-20,db8bff69
+a5296e55,Piotr Zieliński,20,POL,LM,25-272,90,0,0,0,0,3,1,1,0,60,0,1,0,0.1,0.1,0.1,3,0,36,47,76.6,7,38,3,4,2,Napoli,2020-02-16 Cagliari-Napoli,ITA-SERIA_A,19-20,db8bff69
+dc3fa3b5,Diego Demme,4,GER,CM,28-087,60,0,0,0,0,0,0,0,0,55,4,0,0,0.0,0.0,0.0,1,0,44,50,88.0,4,31,0,1,0,Napoli,2020-02-16 Cagliari-Napoli,ITA-SERIA_A,19-20,db8bff69
+2f557579,Lorenzo Insigne,24,ITA,LW,28-257,30,0,0,0,0,0,0,0,0,28,0,0,1,0.0,0.0,0.0,0,0,22,26,84.6,4,19,0,0,0,Napoli,2020-02-16 Cagliari-Napoli,ITA-SERIA_A,19-20,db8bff69
+c0c7ff58,Fabián Ruiz Peña,8,ESP,"RM,CM",23-319,90,0,0,0,0,1,0,0,0,76,2,5,0,0.0,0.0,0.1,4,0,59,66,89.4,3,56,3,0,0,Napoli,2020-02-16 Cagliari-Napoli,ITA-SERIA_A,19-20,db8bff69
+2f3452eb,Elseid Hysaj,23,ALB,LB,25-361,79,0,1,0,0,0,0,0,0,73,1,2,0,0.0,0.0,0.1,3,1,57,70,81.4,8,52,2,0,0,Napoli,2020-02-16 Cagliari-Napoli,ITA-SERIA_A,19-20,db8bff69
+0b5a292a,Mário Rui,6,POR,LB,28-265,11,0,0,0,0,0,0,0,0,13,0,0,0,0.0,0.0,0.0,0,0,12,12,100.0,1,8,2,0,0,Napoli,2020-02-16 Cagliari-Napoli,ITA-SERIA_A,19-20,db8bff69
+16b9d5cf,Nikola Maksimović,19,SRB,CB,28-083,90,0,0,0,0,0,0,0,0,83,2,0,1,0.0,0.0,0.0,0,0,73,78,93.6,1,55,0,0,0,Napoli,2020-02-16 Cagliari-Napoli,ITA-SERIA_A,19-20,db8bff69
+c707411f,Kostas Manolas,44,GRE,CB,28-247,90,0,0,0,0,1,0,0,0,68,0,0,0,0.2,0.2,0.0,0,0,62,64,96.9,1,52,0,0,0,Napoli,2020-02-16 Cagliari-Napoli,ITA-SERIA_A,19-20,db8bff69
+230a2fac,Giovanni Di Lorenzo,22,ITA,RB,26-196,90,0,0,0,0,0,0,0,0,77,0,0,2,0.0,0.0,0.0,0,0,67,73,91.8,8,52,1,0,0,Napoli,2020-02-16 Cagliari-Napoli,ITA-SERIA_A,19-20,db8bff69
+82b1198a,David Ospina,25,COL,GK,31-169,90,0,0,0,0,0,0,0,0,42,0,0,0,0.0,0.0,0.0,0,0,35,41,85.4,0,26,0,0,0,Napoli,2020-02-16 Cagliari-Napoli,ITA-SERIA_A,19-20,db8bff69

@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+74c7c2db,Robin Quaison,7,SWE,FW,25-319,64,1,0,0,0,4,2,0,0,22,0,0,0,0.6,0.6,0.3,3,0,8,12,66.7,2,12,1,1,1,Mainz 05,2019-08-24 Mainz 05-Gladbach,GER-BL1,19-20,c8ba489a
+e5478b87,Taiwo Awoniyi,22,NGA,FW,22-012,26,0,0,0,0,1,0,0,0,10,0,0,0,0.1,0.1,0.0,0,0,4,7,57.1,0,4,0,0,0,Mainz 05,2019-08-24 Mainz 05-Gladbach,GER-BL1,19-20,c8ba489a
+f26834c7,Karim Onisiwo,21,AUT,FW,27-160,90,0,0,0,0,5,1,1,0,38,2,0,0,0.5,0.5,0.0,3,0,12,23,52.2,2,20,0,2,0,Mainz 05,2019-08-24 Mainz 05-Gladbach,GER-BL1,19-20,c8ba489a
+635f2732,Jean-Paul Boëtius,5,NED,AM,25-155,90,0,0,0,0,0,0,0,0,55,4,1,1,0.0,0.0,0.1,4,1,35,43,81.4,5,25,0,0,0,Mainz 05,2019-08-24 Mainz 05-Gladbach,GER-BL1,19-20,c8ba489a
+33b554b7,Danny Latza,6,GER,LM,29-260,90,0,0,0,0,2,0,0,0,69,3,0,2,0.1,0.1,0.2,6,0,48,54,88.9,8,45,1,3,0,Mainz 05,2019-08-24 Mainz 05-Gladbach,GER-BL1,19-20,c8ba489a
+9ceb7642,Pierre Kunde,14,CMR,CM,24-029,80,0,0,0,0,0,0,0,0,52,1,3,0,0.0,0.0,0.0,2,0,33,41,80.5,2,22,0,0,0,Mainz 05,2019-08-24 Mainz 05-Gladbach,GER-BL1,19-20,c8ba489a
+05f99a4a,Jonathan Burkardt,29,GER,CM,19-044,10,0,0,0,0,1,0,0,0,3,1,0,0,0.1,0.1,0.0,0,0,0,0,,0,0,0,0,0,Mainz 05,2019-08-24 Mainz 05-Gladbach,GER-BL1,19-20,c8ba489a
+3bb625ac,Edimilson Fernandes,20,SUI,RM,23-131,70,0,0,0,0,1,0,0,0,33,0,1,1,0.0,0.0,0.0,1,0,14,23,60.9,1,17,1,2,1,Mainz 05,2019-08-24 Mainz 05-Gladbach,GER-BL1,19-20,c8ba489a
+442b56fa,Ridle Baku,34,GER,RM,21-138,20,0,0,0,0,0,0,0,0,18,1,0,0,0.0,0.0,0.0,1,0,11,15,73.3,2,16,1,1,1,Mainz 05,2019-08-24 Mainz 05-Gladbach,GER-BL1,19-20,c8ba489a
+2f3e911a,Aarón Martín,3,ESP,LB,22-124,90,0,0,0,0,0,0,0,0,57,0,1,1,0.0,0.0,0.3,5,0,44,52,84.6,3,31,3,1,1,Mainz 05,2019-08-24 Mainz 05-Gladbach,GER-BL1,19-20,c8ba489a
+a5ec3ede,Alexander Hack,42,GER,CB,25-350,90,0,0,0,0,2,0,0,0,69,7,5,5,0.1,0.1,0.0,1,0,30,38,78.9,4,26,0,1,1,Mainz 05,2019-08-24 Mainz 05-Gladbach,GER-BL1,19-20,c8ba489a
+00242715,Moussa Niakhate,19,SEN,CB,23-169,90,0,0,0,0,1,1,1,0,41,2,0,1,0.1,0.1,0.1,2,0,27,32,84.4,1,21,0,0,0,Mainz 05,2019-08-24 Mainz 05-Gladbach,GER-BL1,19-20,c8ba489a
+a7813ac4,Daniel Brosinski,18,GER,RB,31-038,90,0,1,0,0,3,0,0,0,68,1,2,1,0.1,0.1,0.5,8,1,38,55,69.1,8,36,4,0,0,Mainz 05,2019-08-24 Mainz 05-Gladbach,GER-BL1,19-20,c8ba489a
+cbac6ec9,Florian Müller,1,GER,GK,21-284,90,0,0,0,0,0,0,0,0,32,0,0,0,0.0,0.0,0.0,0,0,22,29,75.9,0,19,0,0,0,Mainz 05,2019-08-24 Mainz 05-Gladbach,GER-BL1,19-20,c8ba489a
+bc6bd723,Alassane Pléa,14,FRA,FW,26-167,90,1,1,0,0,5,3,0,0,48,0,1,0,0.8,0.8,0.4,4,2,20,30,66.7,3,34,4,6,2,Mönchengladbach,2019-08-24 Mainz 05-Gladbach,GER-BL1,19-20,c8ba489a
+6f8cd6d0,Marcus Thuram,10,FRA,FW,22-018,62,0,0,0,0,1,1,0,0,35,0,0,1,0.1,0.1,0.2,4,0,15,21,71.4,0,19,0,3,1,Mönchengladbach,2019-08-24 Mainz 05-Gladbach,GER-BL1,19-20,c8ba489a
+0b4f388a,Breel Embolo,36,SUI,FW,22-191,28,1,0,0,0,1,1,0,0,15,1,0,0,0.4,0.4,0.0,1,1,5,6,83.3,1,14,2,4,1,Mönchengladbach,2019-08-24 Mainz 05-Gladbach,GER-BL1,19-20,c8ba489a
+36a59ba4,Florian Neuhaus,32,GER,AM,22-161,90,0,0,0,0,1,0,0,0,50,0,0,0,0.1,0.1,0.6,7,1,33,44,75.0,10,28,5,0,0,Mönchengladbach,2019-08-24 Mainz 05-Gladbach,GER-BL1,19-20,c8ba489a
+76e5da9d,Fabian Johnson,19,USA,LM,31-256,80,0,0,0,0,0,0,0,0,35,1,1,1,0.0,0.0,0.0,1,0,22,27,81.5,4,21,2,1,0,Mönchengladbach,2019-08-24 Mainz 05-Gladbach,GER-BL1,19-20,c8ba489a
+496aeede,Christoph Kramer,6,GER,LM,28-186,10,0,0,0,0,0,0,1,0,14,0,0,0,0.0,0.0,0.0,1,0,10,10,100.0,0,7,0,1,1,Mönchengladbach,2019-08-24 Mainz 05-Gladbach,GER-BL1,19-20,c8ba489a
+384d58d9,Denis Zakaria,8,SUI,CM,22-277,90,0,0,0,0,0,0,1,0,43,3,0,3,0.0,0.0,0.0,0,0,28,32,87.5,6,23,2,1,1,Mönchengladbach,2019-08-24 Mainz 05-Gladbach,GER-BL1,19-20,c8ba489a
+fe888e39,László Bénes,22,SVK,RM,21-349,90,0,1,0,0,6,0,0,0,54,3,1,0,0.5,0.5,0.1,6,1,32,43,74.4,4,32,2,0,0,Mönchengladbach,2019-08-24 Mainz 05-Gladbach,GER-BL1,19-20,c8ba489a
+b69261a0,Oscar Wendt,17,SWE,LB,33-304,90,0,0,0,0,0,0,0,0,63,0,0,1,0.0,0.0,0.1,1,0,41,58,70.7,1,30,1,1,1,Mönchengladbach,2019-08-24 Mainz 05-Gladbach,GER-BL1,19-20,c8ba489a
+48035304,Nico Elvedi,30,SUI,CB,22-328,44,0,0,0,0,0,0,0,0,34,2,2,0,0.0,0.0,0.0,0,0,25,26,96.2,1,22,1,0,0,Mönchengladbach,2019-08-24 Mainz 05-Gladbach,GER-BL1,19-20,c8ba489a
+34b54da7,Tony Jantschke,24,GER,CB,29-139,46,0,0,0,0,0,0,0,0,30,1,0,3,0.0,0.0,0.0,0,0,20,23,87.0,0,15,0,0,0,Mönchengladbach,2019-08-24 Mainz 05-Gladbach,GER-BL1,19-20,c8ba489a
+f521b80a,Matthias Ginter,28,GER,CB,25-217,90,0,0,0,0,0,0,0,0,49,2,0,0,0.0,0.0,0.0,0,0,38,44,86.4,1,28,0,0,0,Mönchengladbach,2019-08-24 Mainz 05-Gladbach,GER-BL1,19-20,c8ba489a
+4aea5077,Stefan Lainer,18,AUT,RB,26-362,90,1,0,0,0,1,1,0,0,70,5,4,0,0.3,0.3,0.2,3,0,39,55,70.9,7,40,3,3,0,Mönchengladbach,2019-08-24 Mainz 05-Gladbach,GER-BL1,19-20,c8ba489a
+420c18a1,Yann Sommer,1,SUI,GK,30-250,90,0,0,0,0,0,0,0,0,44,0,0,0,0.0,0.0,0.0,0,0,30,42,71.4,0,23,0,0,0,Mönchengladbach,2019-08-24 Mainz 05-Gladbach,GER-BL1,19-20,c8ba489a

@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+16ceb862,Olivier Giroud,18,FRA,FW,32-025,90,0,0,0,0,1,1,0,0,26,2,0,0,0.4,0.4,0.0,0,0,16,21,76.2,0,7,0,0,0,Chelsea,2018-10-25 Chelsea-BATE Borisov,UEL,18-19,253aa0ff
+8b9ebd03,Willian,22,BRA,LW,30-077,56,0,1,0,0,5,2,0,0,63,1,0,2,0.2,0.2,1.2,6,2,40,53,75.5,8,31,7,4,2,Chelsea,2018-10-25 Chelsea-BATE Borisov,UEL,18-19,253aa0ff
+e726e11e,Victor Moses,15,NGA,LW,27-317,34,0,0,0,0,1,1,0,0,31,1,0,1,0.0,0.0,0.5,1,0,19,22,86.4,1,18,2,3,1,Chelsea,2018-10-25 Chelsea-BATE Borisov,UEL,18-19,253aa0ff
+3ca7254a,Pedro,11,ESP,RW,31-089,59,0,0,0,0,2,0,0,0,54,0,1,0,0.1,0.1,0.0,2,0,42,48,87.5,6,32,3,1,0,Chelsea,2018-10-25 Chelsea-BATE Borisov,UEL,18-19,253aa0ff
+15f3ec41,Callum Hudson-Odoi,20,ENG,RW,17-352,31,0,0,0,0,2,0,0,0,24,0,1,0,0.1,0.1,0.0,2,0,13,17,76.5,1,17,5,6,5,Chelsea,2018-10-25 Chelsea-BATE Borisov,UEL,18-19,253aa0ff
+e97fd090,Ruben Loftus-Cheek,12,ENG,LM,22-275,90,3,0,0,0,5,4,0,0,92,0,0,1,1.1,1.1,0.1,8,1,73,77,94.8,10,62,10,8,6,Chelsea,2018-10-25 Chelsea-BATE Borisov,UEL,18-19,253aa0ff
+33508c78,Cesc Fàbregas,4,ESP,CM,31-174,90,0,0,0,0,1,0,0,0,160,0,0,3,0.0,0.0,0.1,7,0,139,153,90.8,16,67,3,0,0,Chelsea,2018-10-25 Chelsea-BATE Borisov,UEL,18-19,253aa0ff
+79c0821a,Mateo Kovačić,17,CRO,RM,24-172,76,0,0,0,0,1,0,0,0,107,2,1,2,0.0,0.0,0.0,6,0,91,95,95.8,15,66,3,5,5,Chelsea,2018-10-25 Chelsea-BATE Borisov,UEL,18-19,253aa0ff
+b9fbae28,N'Golo Kanté,7,FRA,RM,27-210,14,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,8,8,100.0,1,7,0,0,0,Chelsea,2018-10-25 Chelsea-BATE Borisov,UEL,18-19,253aa0ff
+e0bc6fdc,Emerson Palmieri,33,ITA,LB,24-083,90,0,0,0,0,1,0,0,0,98,2,1,0,0.0,0.0,0.1,2,0,76,88,86.4,4,47,7,5,5,Chelsea,2018-10-25 Chelsea-BATE Borisov,UEL,18-19,253aa0ff
+1cb49278,Andreas Christensen,27,DEN,CB,22-198,90,0,0,0,0,1,1,0,0,88,0,1,1,0.8,0.8,0.0,0,0,74,78,94.9,4,47,2,0,0,Chelsea,2018-10-25 Chelsea-BATE Borisov,UEL,18-19,253aa0ff
+7914b9fe,Gary Cahill,24,ENG,CB,32-310,90,0,0,0,0,1,0,0,0,79,1,0,1,0.6,0.6,0.8,1,0,73,74,98.6,1,45,0,0,0,Chelsea,2018-10-25 Chelsea-BATE Borisov,UEL,18-19,253aa0ff
+7fe90ccd,Davide Zappacosta,21,ITA,RB,26-136,90,0,1,0,0,2,1,0,0,86,1,1,1,0.1,0.1,0.2,7,3,69,81,85.2,7,51,3,5,4,Chelsea,2018-10-25 Chelsea-BATE Borisov,UEL,18-19,253aa0ff
+28d596a0,Kepa Arrizabalaga,1,ESP,GK,24-022,90,0,0,0,0,0,0,0,0,26,0,0,0,0.0,0.0,0.0,0,0,24,25,96.0,0,16,0,0,0,Chelsea,2018-10-25 Chelsea-BATE Borisov,UEL,18-19,253aa0ff
+cea0df32,Mikalay Signevich,13,BLR,FW,26-247,70,0,0,0,0,0,0,0,0,42,0,0,1,0.0,0.0,0.0,2,0,18,34,52.9,1,13,0,2,2,BATE Borisov,2018-10-25 Chelsea-BATE Borisov,UEL,18-19,253aa0ff
+aaee68f1,Jasse Tuominen,24,FIN,FW,22-347,20,0,0,0,0,0,0,0,0,7,1,1,0,0.0,0.0,0.0,0,0,2,3,66.7,2,3,2,1,0,BATE Borisov,2018-10-25 Chelsea-BATE Borisov,UEL,18-19,253aa0ff
+4e80a8ef,Ihar Stasevich,22,BLR,LW,33-004,90,0,1,0,0,0,0,0,0,44,2,0,2,0.0,0.0,0.7,3,1,26,35,74.3,3,22,3,2,1,BATE Borisov,2018-10-25 Chelsea-BATE Borisov,UEL,18-19,253aa0ff
+489e5d93,Maksim Skavysh,15,BLR,RW,28-346,90,0,0,0,0,1,0,0,0,35,1,0,0,0.0,0.0,0.0,1,1,17,25,68.0,2,20,4,0,0,BATE Borisov,2018-10-25 Chelsea-BATE Borisov,UEL,18-19,253aa0ff
+35cf43aa,Alexander Hleb,11,BLR,LM,37-177,58,0,0,0,0,1,0,1,0,27,0,0,0,0.0,0.0,0.0,0,0,22,23,95.7,2,13,0,3,2,BATE Borisov,2018-10-25 Chelsea-BATE Borisov,UEL,18-19,253aa0ff
+4c82730b,Mirko Ivanić,10,MNE,LM,25-042,32,0,0,0,0,2,1,0,0,21,1,0,0,0.1,0.1,0.0,1,0,9,14,64.3,3,10,3,2,0,BATE Borisov,2018-10-25 Chelsea-BATE Borisov,UEL,18-19,253aa0ff
+a5d101a9,Stanislaw Drahun,8,BLR,CM,30-143,90,0,0,0,0,0,0,0,0,53,2,1,4,0.0,0.0,0.0,0,0,32,42,76.2,3,19,0,0,0,BATE Borisov,2018-10-25 Chelsea-BATE Borisov,UEL,18-19,253aa0ff
+ce538b0b,Dzmitry Baha,25,BLR,RM,28-294,75,0,0,0,0,0,0,0,0,29,3,1,2,0.0,0.0,0.0,1,0,20,21,95.2,1,5,0,0,0,BATE Borisov,2018-10-25 Chelsea-BATE Borisov,UEL,18-19,253aa0ff
+474cf8e0,Evgeni Yablonski,5,BLR,RM,23-168,15,0,0,0,0,0,0,0,0,8,1,0,0,0.0,0.0,0.0,0,0,5,6,83.3,1,6,0,0,0,BATE Borisov,2018-10-25 Chelsea-BATE Borisov,UEL,18-19,253aa0ff
+eddcbbc4,Maksim Valadzko,42,BLR,LB,25-349,90,0,0,0,0,0,0,0,0,54,1,3,2,0.0,0.0,0.0,1,0,32,44,72.7,2,23,1,3,2,BATE Borisov,2018-10-25 Chelsea-BATE Borisov,UEL,18-19,253aa0ff
+1321d6f0,Egor Filipenko,21,BLR,CB,30-198,90,0,0,0,0,0,0,0,0,51,4,1,2,0.0,0.0,0.0,1,0,32,37,86.5,0,16,0,0,0,BATE Borisov,2018-10-25 Chelsea-BATE Borisov,UEL,18-19,253aa0ff
+a5e16eba,Aleksandar Filipović,4,SRB,CB,23-309,90,0,0,0,0,0,0,0,0,42,1,1,5,0.0,0.0,0.0,0,0,23,27,85.2,0,11,0,0,0,BATE Borisov,2018-10-25 Chelsea-BATE Borisov,UEL,18-19,253aa0ff
+826313e2,Alexei Rios,17,BLR,RB,31-164,90,1,0,0,0,1,1,0,0,53,4,2,1,0.7,0.7,0.0,0,0,28,39,71.8,3,13,0,0,0,BATE Borisov,2018-10-25 Chelsea-BATE Borisov,UEL,18-19,253aa0ff
+110a95ca,Denis Scherbitskiy,48,BLR,GK,22-194,90,0,0,0,0,0,0,0,0,39,0,0,0,0.0,0.0,0.0,0,0,23,35,65.7,0,10,0,0,0,BATE Borisov,2018-10-25 Chelsea-BATE Borisov,UEL,18-19,253aa0ff

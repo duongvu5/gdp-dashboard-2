@@ -1,0 +1,31 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+f620b04f,Lassina Franck Traoré,2,BFA,FW,22-035,76,0,0,0,0,1,0,0,0,18,0,0,0,0.1,0.1,0.0,0,0,5,11,45.5,0,13,1,0,0,Shakhtar Donetsk,2023-02-16 Shakhtar-Rennes,UEL,22-23,297774ea
+03998238,Danylo Sikan,14,UKR,FW,21-306,14,0,0,0,0,1,0,0,0,6,0,0,0,0.1,0.1,0.0,0,0,1,3,33.3,1,4,0,1,0,Shakhtar Donetsk,2023-02-16 Shakhtar-Rennes,UEL,22-23,297774ea
+47420f02,Dmytro Kryskiv,16,UKR,LM,22-133,76,1,0,0,0,2,1,0,0,31,3,0,1,0.6,0.6,0.1,5,1,19,22,86.4,0,20,0,0,0,Shakhtar Donetsk,2023-02-16 Shakhtar-Rennes,UEL,22-23,297774ea
+6db16dda,Ivan Petryak,34,UKR,LM,28-340,14,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,4,5,80.0,0,2,0,0,0,Shakhtar Donetsk,2023-02-16 Shakhtar-Rennes,UEL,22-23,297774ea
+a793f5a8,Heorhiy Sudakov,8,UKR,CM,20-168,90,0,0,0,0,0,0,0,0,67,1,1,1,0.0,0.0,0.1,5,0,53,59,89.8,6,49,1,0,0,Shakhtar Donetsk,2023-02-16 Shakhtar-Rennes,UEL,22-23,297774ea
+415568b5,Artem Bondarenko,21,UKR,CM,22-179,90,1,0,1,1,1,0,0,0,51,2,1,2,0.9,0.1,0.1,1,0,33,38,86.8,3,31,0,1,0,Shakhtar Donetsk,2023-02-16 Shakhtar-Rennes,UEL,22-23,297774ea
+adfbe1f5,Oleksandr Zubkov,11,UKR,RM,26-197,90,0,0,0,0,4,0,1,0,43,2,0,1,0.1,0.1,0.2,8,0,27,33,81.8,6,35,3,3,2,Shakhtar Donetsk,2023-02-16 Shakhtar-Rennes,UEL,22-23,297774ea
+ee3519f5,Taras Stepanenko,6,UKR,DM,33-192,90,0,0,0,0,2,0,1,0,45,2,3,1,0.1,0.1,0.0,2,0,28,35,80.0,2,23,0,0,0,Shakhtar Donetsk,2023-02-16 Shakhtar-Rennes,UEL,22-23,297774ea
+3e9bd29d,Bohdan Mykhaylychenko,15,UKR,LB,25-332,90,0,1,0,0,1,1,1,0,61,4,3,1,0.1,0.1,0.0,2,1,42,50,84.0,1,38,2,1,1,Shakhtar Donetsk,2023-02-16 Shakhtar-Rennes,UEL,22-23,297774ea
+1adcf39e,Mykola Matviyenko,22,UKR,CB,26-290,90,0,0,0,0,0,0,0,0,94,2,3,0,0.0,0.0,0.0,0,0,75,84,89.3,0,66,0,0,0,Shakhtar Donetsk,2023-02-16 Shakhtar-Rennes,UEL,22-23,297774ea
+7713c72a,Valerii Bondar,5,UKR,CB,23-354,90,0,0,0,0,0,0,0,0,78,0,1,1,0.0,0.0,0.0,2,0,68,70,97.1,0,56,0,0,0,Shakhtar Donetsk,2023-02-16 Shakhtar-Rennes,UEL,22-23,297774ea
+aee634bf,Yukhym Konoplia,26,UKR,RB,23-174,90,0,0,0,0,1,0,0,0,50,3,1,2,0.1,0.1,0.0,2,1,26,37,70.3,1,28,3,2,0,Shakhtar Donetsk,2023-02-16 Shakhtar-Rennes,UEL,22-23,297774ea
+41f0b196,Anatolii Trubin,81,UKR,GK,21-199,90,0,0,0,0,0,0,0,0,48,0,0,0,0.0,0.0,0.0,0,0,36,45,80.0,0,35,0,0,0,Shakhtar Donetsk,2023-02-16 Shakhtar-Rennes,UEL,22-23,297774ea
+aad56ca3,Amine Gouiri,19,ALG,FW,23-000,70,0,0,0,0,2,0,0,0,20,0,1,0,0.2,0.2,0.0,3,0,12,17,70.6,1,13,0,0,0,Rennes,2023-02-16 Shakhtar-Rennes,UEL,22-23,297774ea
+9e7483ff,Désiré Doué,33,FRA,RM,17-258,20,0,0,0,0,0,0,0,0,11,0,0,1,0.0,0.0,0.0,0,0,5,8,62.5,1,8,3,3,3,Rennes,2023-02-16 Shakhtar-Rennes,UEL,22-23,297774ea
+bf4c41f9,Arnaud Kalimuendo,9,FRA,FW,21-027,85,0,0,0,0,1,1,0,0,22,0,1,0,0.1,0.1,0.1,2,0,13,17,76.5,1,12,0,1,1,Rennes,2023-02-16 Shakhtar-Rennes,UEL,22-23,297774ea
+70c52749,Birger Meling,25,NOR,FW,28-061,5,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,1,0,0,0,0,Rennes,2023-02-16 Shakhtar-Rennes,UEL,22-23,297774ea
+5ceba7fc,Karl Toko Ekambi,17,CMR,"LM,FW",30-155,76,1,0,0,0,5,3,0,0,34,4,1,0,1.1,1.1,0.1,4,0,16,21,76.2,2,23,2,6,3,Rennes,2023-02-16 Shakhtar-Rennes,UEL,22-23,297774ea
+fc46aab1,Lovro Majer,21,CRO,FW,25-030,14,0,0,0,0,0,0,0,0,13,0,0,0,0.0,0.0,0.0,0,0,8,11,72.7,2,6,0,1,0,Rennes,2023-02-16 Shakhtar-Rennes,UEL,22-23,297774ea
+1df4a109,Lesley Ugochukwu,6,FRA,CM,18-327,76,0,0,0,0,0,0,1,0,54,2,0,2,0.0,0.0,0.1,1,0,38,44,86.4,3,23,1,1,0,Rennes,2023-02-16 Shakhtar-Rennes,UEL,22-23,297774ea
+5e22e2a4,Baptiste Santamaria,8,FRA,CM,27-344,14,0,0,0,0,0,0,0,0,19,1,0,0,0.0,0.0,0.0,1,0,16,18,88.9,2,16,0,0,0,Rennes,2023-02-16 Shakhtar-Rennes,UEL,22-23,297774ea
+20e73fac,Benjamin Bourigeaud,14,FRA,CM,29-033,90,0,0,0,0,3,2,1,0,74,1,0,0,0.1,0.1,0.1,5,0,53,67,79.1,9,32,0,0,0,Rennes,2023-02-16 Shakhtar-Rennes,UEL,22-23,297774ea
+fffea3e5,Jeremy Doku,10,BEL,RM,20-265,70,0,0,0,0,1,0,0,0,33,1,0,0,0.1,0.1,0.7,3,1,21,26,80.8,5,28,3,10,7,Rennes,2023-02-16 Shakhtar-Rennes,UEL,22-23,297774ea
+cad3fd4d,Ibrahim Salah,34,MAR,LM,21-170,20,0,0,0,0,1,0,0,0,17,0,0,1,0.0,0.0,0.0,2,0,9,11,81.8,1,10,0,2,0,Rennes,2023-02-16 Shakhtar-Rennes,UEL,22-23,297774ea
+5d0e0a1f,Adrien Truffert,3,FRA,LB,21-088,90,0,0,0,0,1,0,0,0,52,3,0,0,0.0,0.0,0.1,4,1,31,42,73.8,3,28,1,5,4,Rennes,2023-02-16 Shakhtar-Rennes,UEL,22-23,297774ea
+c678ddd7,Jeanuël Belocian,18,FRA,CB,17-364,90,0,0,0,0,2,0,0,0,75,1,0,1,0.1,0.1,0.0,1,0,59,67,88.1,2,53,0,0,0,Rennes,2023-02-16 Shakhtar-Rennes,UEL,22-23,297774ea
+4534a352,Warmed Omari,23,FRA,CB,22-299,90,0,0,0,0,0,0,1,0,74,0,0,1,0.0,0.0,0.0,1,0,60,68,88.2,5,50,2,1,0,Rennes,2023-02-16 Shakhtar-Rennes,UEL,22-23,297774ea
+9bc9a519,Djed Spence,90,ENG,RB,22-191,90,0,0,0,0,1,0,0,0,60,0,2,3,0.0,0.0,0.0,2,0,40,50,80.0,7,34,2,4,1,Rennes,2023-02-16 Shakhtar-Rennes,UEL,22-23,297774ea
+1d2d5cc8,Steve Mandanda,30,FRA,GK,37-325,90,0,0,0,0,0,0,0,0,39,0,0,0,0.0,0.0,0.0,0,0,29,37,78.4,0,18,0,0,0,Rennes,2023-02-16 Shakhtar-Rennes,UEL,22-23,297774ea

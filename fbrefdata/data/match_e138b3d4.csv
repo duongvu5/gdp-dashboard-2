@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+8c90fd7a,Victor Osimhen,9,NGA,FW,22-133,69,0,0,0,0,5,2,0,0,18,0,1,2,1.0,1.0,0.5,6,1,8,10,80.0,0,6,2,2,2,Napoli,2021-05-11 Napoli-Udinese,ITA-SERIA_A,20-21,e138b3d4
+89b2c8a9,Dries Mertens,14,BEL,FW,34-005,21,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,1,0,7,9,77.8,3,6,1,1,1,Napoli,2021-05-11 Napoli-Udinese,ITA-SERIA_A,20-21,e138b3d4
+2f557579,Lorenzo Insigne,24,ITA,LW,29-341,90,1,0,0,0,5,2,0,0,90,1,4,1,0.2,0.2,0.2,5,0,60,74,81.1,7,54,5,4,3,Napoli,2021-05-11 Napoli-Udinese,ITA-SERIA_A,20-21,e138b3d4
+a69e4806,Hirving Lozano,11,MEX,RW,25-285,75,1,0,0,0,2,1,0,0,32,0,1,1,0.3,0.3,0.0,2,1,16,23,69.6,2,21,1,4,2,Napoli,2021-05-11 Napoli-Udinese,ITA-SERIA_A,20-21,e138b3d4
+5e861944,Matteo Politano,21,ITA,RW,27-281,15,0,0,0,0,2,0,0,0,7,0,1,0,0.1,0.1,0.0,3,1,4,4,100.0,0,7,1,1,1,Napoli,2021-05-11 Napoli-Udinese,ITA-SERIA_A,20-21,e138b3d4
+a5296e55,Piotr Zieliński,20,POL,AM,26-356,75,1,1,0,0,2,1,0,0,39,0,1,2,0.3,0.3,0.8,7,1,27,32,84.4,5,13,2,1,0,Napoli,2021-05-11 Napoli-Udinese,ITA-SERIA_A,20-21,e138b3d4
+cf007308,Elif Elmas,7,MKD,AM,21-229,15,0,0,0,0,0,0,0,0,5,0,0,1,0.0,0.0,0.0,0,0,3,4,75.0,0,2,0,0,0,Napoli,2021-05-11 Napoli-Udinese,ITA-SERIA_A,20-21,e138b3d4
+c0c7ff58,Fabián Ruiz Peña,8,ESP,DM,25-038,90,1,0,0,0,2,1,0,0,120,3,3,2,0.0,0.0,0.1,4,0,99,107,92.5,10,79,7,1,1,Napoli,2021-05-11 Napoli-Udinese,ITA-SERIA_A,20-21,e138b3d4
+59bf127b,Tiemoué Bakayoko,5,FRA,DM,26-267,83,0,0,0,0,1,0,0,0,63,3,6,0,0.0,0.0,0.0,1,0,46,54,85.2,3,33,0,0,0,Napoli,2021-05-11 Napoli-Udinese,ITA-SERIA_A,20-21,e138b3d4
+dc3fa3b5,Diego Demme,4,GER,DM,29-171,7,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,1,0,7,8,87.5,0,5,0,0,0,Napoli,2021-05-11 Napoli-Udinese,ITA-SERIA_A,20-21,e138b3d4
+2f3452eb,Elseid Hysaj,23,ALB,LB,27-080,83,0,0,0,0,0,0,0,0,64,2,2,2,0.0,0.0,0.0,3,1,47,56,83.9,2,37,2,1,1,Napoli,2021-05-11 Napoli-Udinese,ITA-SERIA_A,20-21,e138b3d4
+0b5a292a,Mário Rui,6,POR,LB,29-349,7,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,6,7,85.7,0,6,1,0,0,Napoli,2021-05-11 Napoli-Udinese,ITA-SERIA_A,20-21,e138b3d4
+4b3e1a38,Amir Rrahmani,33,KVX,CB,27-076,90,0,0,0,0,0,0,0,0,60,1,0,0,0.0,0.0,0.0,0,0,53,54,98.1,2,33,0,0,0,Napoli,2021-05-11 Napoli-Udinese,ITA-SERIA_A,20-21,e138b3d4
+c707411f,Kostas Manolas,44,GRE,CB,29-331,90,0,0,0,0,1,1,0,0,50,1,1,0,0.1,0.1,0.0,2,1,39,42,92.9,2,23,0,0,0,Napoli,2021-05-11 Napoli-Udinese,ITA-SERIA_A,20-21,e138b3d4
+230a2fac,Giovanni Di Lorenzo,22,ITA,RB,27-280,90,1,0,0,0,2,1,0,0,78,4,2,0,0.9,0.9,0.0,1,0,61,68,89.7,3,39,2,0,0,Napoli,2021-05-11 Napoli-Udinese,ITA-SERIA_A,20-21,e138b3d4
+9413b19f,Alex Meret,1,ITA,GK,24-050,90,0,0,0,0,0,0,0,0,16,0,0,0,0.0,0.0,0.0,0,0,16,16,100.0,0,5,0,0,0,Napoli,2021-05-11 Napoli-Udinese,ITA-SERIA_A,20-21,e138b3d4
+601ef102,Stefano Okaka,7,ITA,FW,31-275,75,1,0,0,0,1,1,0,0,19,0,0,0,0.1,0.1,0.1,1,0,9,9,100.0,1,6,0,0,0,Udinese,2021-05-11 Napoli-Udinese,ITA-SERIA_A,20-21,e138b3d4
+259deea9,Petar Mićin,29,SRB,CM,22-224,15,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,8,9,88.9,0,7,0,0,0,Udinese,2021-05-11 Napoli-Udinese,ITA-SERIA_A,20-21,e138b3d4
+75f2c59f,Roberto Pereyra,37,ARG,"FW,CM",30-124,90,0,0,0,0,1,0,0,0,54,0,1,0,0.1,0.1,0.0,1,0,36,42,85.7,1,41,1,3,0,Udinese,2021-05-11 Napoli-Udinese,ITA-SERIA_A,20-21,e138b3d4
+22bfb57e,Jean-Victor Makengo,6,FRA,"DM,CM",22-333,85,0,0,0,0,0,0,0,0,45,1,2,2,0.0,0.0,0.0,0,0,28,39,71.8,3,31,2,2,2,Udinese,2021-05-11 Napoli-Udinese,ITA-SERIA_A,20-21,e138b3d4
+f8d41a8c,Martin Palumbo,64,NOR,CM,19-067,5,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,1,1,0,0,0,Udinese,2021-05-11 Napoli-Udinese,ITA-SERIA_A,20-21,e138b3d4
+26db8853,Walace,11,BRA,DM,26-037,53,0,0,0,0,0,0,0,0,41,0,4,0,0.0,0.0,0.0,0,0,32,35,91.4,0,32,0,1,1,Udinese,2021-05-11 Napoli-Udinese,ITA-SERIA_A,20-21,e138b3d4
+d60c26fc,Fernando Forestieri,45,ITA,FW,31-116,37,0,0,0,0,0,0,0,0,11,1,1,0,0.0,0.0,0.0,0,0,9,9,100.0,1,9,1,3,2,Udinese,2021-05-11 Napoli-Udinese,ITA-SERIA_A,20-21,e138b3d4
+162efffd,Rodrigo De Paul,10,ARG,"DM,CM",26-352,90,0,1,0,0,0,0,0,0,76,0,1,0,0.0,0.0,0.1,3,1,60,71,84.5,10,61,1,3,2,Udinese,2021-05-11 Napoli-Udinese,ITA-SERIA_A,20-21,e138b3d4
+f91e81c9,Jens Stryger Larsen,19,DEN,"WB,CB",30-079,90,0,0,0,0,0,0,0,0,60,0,3,2,0.0,0.0,0.0,0,0,38,51,74.5,5,44,2,0,0,Udinese,2021-05-11 Napoli-Udinese,ITA-SERIA_A,20-21,e138b3d4
+23610943,Nahuel Molina,16,ARG,WB,23-035,90,0,0,0,0,0,0,0,0,50,0,0,2,0.0,0.0,0.0,3,1,38,47,80.9,3,36,0,0,0,Udinese,2021-05-11 Napoli-Udinese,ITA-SERIA_A,20-21,e138b3d4
+8abd0c03,Marvin Zeegelaar,90,NED,CB,30-272,75,0,0,0,0,0,0,0,0,65,3,3,1,0.0,0.0,0.0,0,0,49,54,90.7,5,47,0,0,0,Udinese,2021-05-11 Napoli-Udinese,ITA-SERIA_A,20-21,e138b3d4
+92b4758e,Samir Santos,3,BRA,CB,26-157,15,0,0,0,0,1,0,0,0,12,0,0,1,0.0,0.0,0.0,0,0,9,10,90.0,0,10,0,0,0,Udinese,2021-05-11 Napoli-Udinese,ITA-SERIA_A,20-21,e138b3d4
+fb77bfef,Kevin Bonifazi,14,ITA,CB,24-357,90,0,0,0,0,0,0,1,0,68,1,1,1,0.0,0.0,0.0,0,0,60,63,95.2,0,61,1,0,0,Udinese,2021-05-11 Napoli-Udinese,ITA-SERIA_A,20-21,e138b3d4
+19e4eab9,Rodrigo Becão,50,BRA,CB,25-112,53,0,0,0,0,0,0,0,0,41,1,1,0,0.0,0.0,0.0,0,0,29,37,78.4,1,34,0,0,0,Udinese,2021-05-11 Napoli-Udinese,ITA-SERIA_A,20-21,e138b3d4
+36d9dabe,Thomas Ouwejan,5,NED,WB,24-223,37,0,0,0,0,1,0,0,0,22,0,0,0,0.0,0.0,0.0,0,0,13,17,76.5,1,18,1,4,2,Udinese,2021-05-11 Napoli-Udinese,ITA-SERIA_A,20-21,e138b3d4
+a111cf41,Juan Musso,1,ARG,GK,27-005,90,0,0,0,0,0,0,0,0,36,0,0,0,0.0,0.0,0.0,0,0,27,32,84.4,0,20,0,0,0,Udinese,2021-05-11 Napoli-Udinese,ITA-SERIA_A,20-21,e138b3d4

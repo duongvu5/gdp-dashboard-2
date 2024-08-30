@@ -1,0 +1,28 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+4d8cd038,Luka Jović,8,SRB,FW,21-130,90,1,0,0,0,1,1,0,0,32,1,0,0,0.1,0.1,0.0,1,1,13,24,54.2,1,16,1,2,1,Eintracht Frankfurt,2019-05-02 Eint Frankfurt-Chelsea,UEL,18-19,3227f384
+16daec92,Mijat Gaćinović,11,SRB,"FW,AM",24-083,89,0,0,0,0,0,0,0,0,30,1,2,2,0.0,0.0,0.0,0,0,12,17,70.6,1,17,1,2,1,Eintracht Frankfurt,2019-05-02 Eint Frankfurt-Chelsea,UEL,18-19,3227f384
+9050ddc4,Jetro Willems,15,NED,"DM,AM",25-033,1,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,2,0,0,0,Eintracht Frankfurt,2019-05-02 Eint Frankfurt-Chelsea,UEL,18-19,3227f384
+e12b0b5b,Sebastian Rode,17,GER,"DM,CM",28-203,90,0,0,0,0,0,0,0,0,44,3,2,1,0.0,0.0,0.4,3,0,27,34,79.4,3,19,0,1,1,Eintracht Frankfurt,2019-05-02 Eint Frankfurt-Chelsea,UEL,18-19,3227f384
+9ab16552,Makoto Hasebe,20,JPN,"DM,CM",35-104,90,0,0,0,0,0,0,1,0,43,2,2,3,0.0,0.0,0.0,0,0,27,34,79.4,3,21,0,0,0,Eintracht Frankfurt,2019-05-02 Eint Frankfurt-Chelsea,UEL,18-19,3227f384
+8e58987d,Gelson Fernandes,5,SUI,DM,32-242,72,0,0,0,0,0,0,1,0,24,4,1,2,0.0,0.0,0.0,0,0,8,14,57.1,0,6,0,0,0,Eintracht Frankfurt,2019-05-02 Eint Frankfurt-Chelsea,UEL,18-19,3227f384
+962e54cb,Gonçalo Paciência,39,POR,FW,24-274,18,0,0,0,0,1,0,0,0,10,0,0,1,0.1,0.1,0.0,0,0,2,4,50.0,2,5,2,1,1,Eintracht Frankfurt,2019-05-02 Eint Frankfurt-Chelsea,UEL,18-19,3227f384
+b1cd37e6,Filip Kostić,10,SRB,WB,26-182,90,0,1,0,0,1,0,0,0,55,0,1,2,0.0,0.0,0.1,2,1,23,43,53.5,4,31,3,3,2,Eintracht Frankfurt,2019-05-02 Eint Frankfurt-Chelsea,UEL,18-19,3227f384
+5ddb8f9f,Danny da Costa,24,GER,WB,25-293,90,0,0,0,0,0,0,0,0,50,5,0,4,0.0,0.0,0.0,1,0,23,35,65.7,3,20,3,2,2,Eintracht Frankfurt,2019-05-02 Eint Frankfurt-Chelsea,UEL,18-19,3227f384
+b82880c6,Simon Falette,3,GUI,CB,27-072,90,0,0,0,0,0,0,0,0,41,1,1,4,0.0,0.0,0.0,0,0,20,29,69.0,3,15,0,0,0,Eintracht Frankfurt,2019-05-02 Eint Frankfurt-Chelsea,UEL,18-19,3227f384
+080440a4,Martin Hinteregger,13,AUT,CB,26-237,90,0,0,0,0,1,0,0,0,39,1,3,2,0.1,0.1,0.0,1,0,21,29,72.4,1,18,0,1,1,Eintracht Frankfurt,2019-05-02 Eint Frankfurt-Chelsea,UEL,18-19,3227f384
+565bf0da,David Abraham,19,ARG,CB,32-291,90,0,0,0,0,2,0,0,0,37,3,3,1,0.4,0.4,0.0,0,0,15,20,75.0,2,16,1,0,0,Eintracht Frankfurt,2019-05-02 Eint Frankfurt-Chelsea,UEL,18-19,3227f384
+ce17b5eb,Kevin Trapp,31,GER,GK,28-298,90,0,0,0,0,0,0,0,0,40,0,0,0,0.0,0.0,0.0,0,0,23,38,60.5,0,22,0,0,0,Eintracht Frankfurt,2019-05-02 Eint Frankfurt-Chelsea,UEL,18-19,3227f384
+16ceb862,Olivier Giroud,18,FRA,FW,32-214,90,0,0,0,0,2,0,0,0,49,1,0,1,0.1,0.1,0.1,2,0,20,33,60.6,1,20,0,1,0,Chelsea,2019-05-02 Eint Frankfurt-Chelsea,UEL,18-19,3227f384
+8b9ebd03,Willian,22,BRA,LW,30-266,60,0,0,0,0,2,1,0,0,51,1,0,0,0.1,0.1,0.0,2,0,27,42,64.3,3,33,4,5,3,Chelsea,2019-05-02 Eint Frankfurt-Chelsea,UEL,18-19,3227f384
+a39bb753,Eden Hazard,10,BEL,LW,28-115,30,0,0,0,0,1,0,0,0,30,0,0,0,0.1,0.1,0.2,1,0,20,22,90.9,2,21,2,4,1,Chelsea,2019-05-02 Eint Frankfurt-Chelsea,UEL,18-19,3227f384
+3ca7254a,Pedro,11,ESP,RW,31-278,90,1,0,0,0,3,1,0,0,69,1,0,1,0.1,0.1,0.5,5,0,39,52,75.0,10,49,5,4,3,Chelsea,2019-05-02 Eint Frankfurt-Chelsea,UEL,18-19,3227f384
+e97fd090,Ruben Loftus-Cheek,12,ENG,LM,23-099,82,0,1,0,0,4,1,0,0,57,0,1,0,0.6,0.6,0.1,6,1,39,45,86.7,4,36,6,11,9,Chelsea,2019-05-02 Eint Frankfurt-Chelsea,UEL,18-19,3227f384
+79c0821a,Mateo Kovačić,17,CRO,LM,24-361,8,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,0,0,8,9,88.9,0,9,0,1,1,Chelsea,2019-05-02 Eint Frankfurt-Chelsea,UEL,18-19,3227f384
+45db685d,Jorginho,5,ITA,CM,27-133,90,0,0,0,0,0,0,0,0,79,2,1,1,0.0,0.0,0.1,2,0,65,71,91.5,16,36,0,3,2,Chelsea,2019-05-02 Eint Frankfurt-Chelsea,UEL,18-19,3227f384
+b9fbae28,N'Golo Kanté,7,FRA,RM,28-034,90,0,0,0,0,1,0,0,0,73,3,0,2,0.0,0.0,0.0,4,0,48,58,82.8,4,32,1,0,0,Chelsea,2019-05-02 Eint Frankfurt-Chelsea,UEL,18-19,3227f384
+e0bc6fdc,Emerson Palmieri,33,ITA,LB,24-272,90,0,0,0,0,1,0,0,0,81,1,2,1,0.0,0.0,0.0,2,0,62,74,83.8,4,43,3,1,1,Chelsea,2019-05-02 Eint Frankfurt-Chelsea,UEL,18-19,3227f384
+c0e27d1a,David Luiz,30,BRA,CB,32-010,90,0,0,0,0,2,2,0,0,82,1,0,2,0.3,0.3,0.0,1,0,61,72,84.7,12,50,1,0,0,Chelsea,2019-05-02 Eint Frankfurt-Chelsea,UEL,18-19,3227f384
+1cb49278,Andreas Christensen,27,DEN,CB,23-022,90,0,0,0,0,0,0,1,0,76,2,2,0,0.0,0.0,0.0,3,1,65,72,90.3,4,44,2,0,0,Chelsea,2019-05-02 Eint Frankfurt-Chelsea,UEL,18-19,3227f384
+53cad200,César Azpilicueta,28,ESP,RB,29-247,90,0,0,0,0,0,0,0,0,71,3,2,4,0.0,0.0,0.0,1,0,44,59,74.6,2,26,0,0,0,Chelsea,2019-05-02 Eint Frankfurt-Chelsea,UEL,18-19,3227f384
+28d596a0,Kepa Arrizabalaga,1,ESP,GK,24-211,90,0,0,0,0,0,0,0,0,34,0,0,0,0.0,0.0,0.0,0,0,30,34,88.2,0,20,0,0,0,Chelsea,2019-05-02 Eint Frankfurt-Chelsea,UEL,18-19,3227f384

@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+603cb947,Andrej Kramarić,27,CRO,FW,28-227,90,1,0,0,0,6,3,0,0,39,0,1,0,1.5,1.5,0.5,5,0,18,23,78.3,1,25,1,5,2,Hoffenheim,2020-02-01 Hoffenheim-Leverkusen,GER-BL1,19-20,b616453a
+eac044ad,Moanes Dabbur,10,ISR,AM,27-263,59,0,0,0,0,1,1,0,0,23,2,1,1,0.4,0.4,0.1,3,1,8,14,57.1,2,15,1,6,3,Hoffenheim,2020-02-01 Hoffenheim-Leverkusen,GER-BL1,19-20,b616453a
+22919e97,Sargis Adamyan,23,ARM,AM,26-254,23,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.4,2,0,4,5,80.0,0,9,2,2,1,Hoffenheim,2020-02-01 Hoffenheim-Leverkusen,GER-BL1,19-20,b616453a
+7aac47fe,Ermin Bičakčić,4,BIH,AM,30-008,8,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Hoffenheim,2020-02-01 Hoffenheim-Leverkusen,GER-BL1,19-20,b616453a
+437f2b00,Christoph Baumgartner,14,AUT,AM,20-184,65,0,0,0,0,3,1,1,0,23,1,2,1,0.3,0.3,0.1,2,1,10,12,83.3,0,12,2,3,1,Hoffenheim,2020-02-01 Hoffenheim-Leverkusen,GER-BL1,19-20,b616453a
+ffbbc83b,Florian Grillitsch,11,AUT,AM,24-178,25,0,0,0,0,0,0,0,0,8,1,3,0,0.0,0.0,0.0,1,0,3,3,100.0,0,5,0,0,0,Hoffenheim,2020-02-01 Hoffenheim-Leverkusen,GER-BL1,19-20,b616453a
+08593525,Diadie Samassékou,18,MLI,CM,24-021,90,0,0,0,0,0,0,0,0,32,5,5,0,0.0,0.0,0.0,0,0,14,21,66.7,0,15,0,1,1,Hoffenheim,2020-02-01 Hoffenheim-Leverkusen,GER-BL1,19-20,b616453a
+80f36c88,Sebastian Rudy,16,GER,CM,29-338,90,0,0,0,0,1,0,1,0,59,2,1,1,0.0,0.0,0.2,7,1,32,48,66.7,6,26,0,2,1,Hoffenheim,2020-02-01 Hoffenheim-Leverkusen,GER-BL1,19-20,b616453a
+ff98492b,Robert Skov,29,DEN,WB,23-257,90,1,0,0,0,1,1,0,0,40,0,0,1,0.4,0.4,0.0,0,0,14,27,51.9,1,17,3,1,1,Hoffenheim,2020-02-01 Hoffenheim-Leverkusen,GER-BL1,19-20,b616453a
+79c90e45,Pavel Kadeřábek,3,CZE,WB,27-282,90,0,1,0,0,2,0,0,0,43,3,0,1,0.1,0.1,0.8,3,0,16,36,44.4,4,18,3,1,1,Hoffenheim,2020-02-01 Hoffenheim-Leverkusen,GER-BL1,19-20,b616453a
+99de6b6f,Benjamin Hübner,21,GER,CB,30-212,90,0,0,0,0,0,0,0,0,40,1,1,2,0.0,0.0,0.0,0,0,22,31,71.0,0,18,1,0,0,Hoffenheim,2020-02-01 Hoffenheim-Leverkusen,GER-BL1,19-20,b616453a
+6ec6fde0,Kevin Akpoguma,25,NGA,CB,24-288,90,0,0,0,0,0,0,0,0,44,3,0,5,0.0,0.0,0.0,1,0,22,28,78.6,1,16,1,0,0,Hoffenheim,2020-02-01 Hoffenheim-Leverkusen,GER-BL1,19-20,b616453a
+7f609bfc,Stefan Posch,38,AUT,CB,22-263,90,0,0,0,0,0,0,0,0,54,2,1,1,0.0,0.0,0.0,1,0,27,44,61.4,0,22,1,0,0,Hoffenheim,2020-02-01 Hoffenheim-Leverkusen,GER-BL1,19-20,b616453a
+c41f7379,Philipp Pentke,12,GER,GK,34-276,90,0,0,0,0,0,0,1,0,53,0,0,0,0.0,0.0,0.0,1,0,27,45,60.0,0,24,0,0,0,Hoffenheim,2020-02-01 Hoffenheim-Leverkusen,GER-BL1,19-20,b616453a
+64f69877,Kevin Volland,31,GER,"FW,LW",27-186,90,0,0,0,0,5,1,0,0,32,0,0,0,0.7,0.7,0.0,2,0,14,23,60.9,1,23,2,1,1,Bayer Leverkusen,2020-02-01 Hoffenheim-Leverkusen,GER-BL1,19-20,b616453a
+aeed5c06,Moussa Diaby,19,FRA,"LW,RW,RM",20-209,90,1,0,0,0,3,3,0,0,54,1,0,1,0.7,0.7,1.1,10,1,35,44,79.5,5,42,9,7,6,Bayer Leverkusen,2020-02-01 Hoffenheim-Leverkusen,GER-BL1,19-20,b616453a
+bee0bab1,Karim Bellarabi,38,GER,"RW,LW",29-299,45,0,1,0,0,4,1,0,0,36,1,0,1,1.0,1.0,0.6,4,1,16,26,61.5,2,24,2,3,0,Bayer Leverkusen,2020-02-01 Hoffenheim-Leverkusen,GER-BL1,19-20,b616453a
+3a233281,Leon Bailey,9,JAM,"LW,LM",22-176,45,0,0,0,0,1,1,0,0,29,1,0,1,0.1,0.1,0.1,1,0,9,21,42.9,0,17,2,0,0,Bayer Leverkusen,2020-02-01 Hoffenheim-Leverkusen,GER-BL1,19-20,b616453a
+fed7cb61,Kai Havertz,29,GER,"AM,RW",20-235,90,0,0,0,0,4,2,0,0,55,1,0,0,0.3,0.3,0.1,8,0,36,44,81.8,6,37,8,4,3,Bayer Leverkusen,2020-02-01 Hoffenheim-Leverkusen,GER-BL1,19-20,b616453a
+54b4dc4e,Kerem Demirbay,10,GER,"DM,CM",26-213,89,0,0,0,0,1,0,2,1,85,4,0,3,0.0,0.0,0.7,4,0,58,73,79.5,6,48,3,4,3,Bayer Leverkusen,2020-02-01 Hoffenheim-Leverkusen,GER-BL1,19-20,b616453a
+69374ff5,Julian Baumgartlinger,15,AUT,DM,32-030,73,0,0,0,0,0,0,0,0,37,3,1,1,0.0,0.0,0.0,0,0,26,31,83.9,2,17,0,0,0,Bayer Leverkusen,2020-02-01 Hoffenheim-Leverkusen,GER-BL1,19-20,b616453a
+555d5edd,Nadiem Amiri,11,GER,CM,23-097,17,0,0,0,0,2,1,0,0,28,0,0,0,0.1,0.1,0.0,2,0,20,24,83.3,4,21,1,1,1,Bayer Leverkusen,2020-02-01 Hoffenheim-Leverkusen,GER-BL1,19-20,b616453a
+73000a79,Daley Sinkgraven,22,NED,LB,24-212,73,0,0,0,0,0,0,0,0,59,2,0,1,0.0,0.0,0.0,4,0,40,53,75.5,3,31,2,0,0,Bayer Leverkusen,2020-02-01 Hoffenheim-Leverkusen,GER-BL1,19-20,b616453a
+834d0be5,Lucas Alario,13,ARG,FW,27-116,17,0,0,0,0,1,1,0,0,10,1,0,1,0.1,0.1,0.1,1,0,6,6,100.0,1,7,0,0,0,Bayer Leverkusen,2020-02-01 Hoffenheim-Leverkusen,GER-BL1,19-20,b616453a
+070ec0b1,Sven Bender,5,GER,CB,30-280,90,0,0,0,0,0,0,0,0,91,3,1,1,0.0,0.0,0.0,2,0,70,79,88.6,6,49,0,0,0,Bayer Leverkusen,2020-02-01 Hoffenheim-Leverkusen,GER-BL1,19-20,b616453a
+bd142efb,Jonathan Tah,4,GER,CB,23-355,90,0,0,0,0,1,0,0,0,84,1,0,2,0.1,0.1,0.0,1,0,61,73,83.6,6,49,2,0,0,Bayer Leverkusen,2020-02-01 Hoffenheim-Leverkusen,GER-BL1,19-20,b616453a
+c50281a0,Lars Bender,8,GER,"RB,CB",30-280,90,0,0,0,0,0,0,1,0,81,1,3,2,0.0,0.0,0.2,1,0,63,71,88.7,9,40,2,3,3,Bayer Leverkusen,2020-02-01 Hoffenheim-Leverkusen,GER-BL1,19-20,b616453a
+ad3389d5,Lukáš Hrádecký,1,FIN,GK,30-069,90,0,0,0,0,0,0,0,0,39,0,0,0,0.0,0.0,0.0,1,0,26,34,76.5,0,18,0,0,0,Bayer Leverkusen,2020-02-01 Hoffenheim-Leverkusen,GER-BL1,19-20,b616453a

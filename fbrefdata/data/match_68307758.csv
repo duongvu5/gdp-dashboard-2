@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+601ef102,Stefano Okaka,7,ITA,FW,29-233,73,1,0,0,0,2,1,0,0,28,4,0,0,0.7,0.7,0.0,1,0,12,15,80.0,2,22,1,3,2,Udinese,2019-03-30 Udinese-Genoa,ITA-SERIA_A,18-19,68307758
+09538fdb,Kevin Lasagna,15,ITA,FW,26-232,17,0,0,0,0,2,1,0,0,10,0,0,0,0.4,0.4,0.0,1,0,2,4,50.0,0,7,2,1,0,Udinese,2019-03-30 Udinese-Genoa,ITA-SERIA_A,18-19,68307758
+162efffd,Rodrigo De Paul,10,ARG,LW,24-310,90,0,0,0,0,2,0,0,0,48,0,1,0,0.4,0.4,0.2,4,1,21,34,61.8,6,39,7,6,4,Udinese,2019-03-30 Udinese-Genoa,ITA-SERIA_A,18-19,68307758
+62437b4f,Ignacio Pussetto,23,ARG,RW,23-099,90,0,1,0,0,4,2,0,0,53,2,3,2,0.5,0.5,0.4,9,1,21,36,58.3,2,33,6,5,4,Udinese,2019-03-30 Udinese-Genoa,ITA-SERIA_A,18-19,68307758
+c7259b83,Rolando Mandragora,38,ITA,LM,21-274,90,1,0,0,0,2,1,0,0,37,2,0,1,0.1,0.1,0.0,1,0,24,28,85.7,1,20,0,0,0,Udinese,2019-03-30 Udinese-Genoa,ITA-SERIA_A,18-19,68307758
+c1c2c925,Sandro,30,BRA,CM,30-015,62,0,0,0,0,0,0,1,0,25,3,1,0,0.0,0.0,0.0,1,0,13,20,65.0,5,7,0,0,0,Udinese,2019-03-30 Udinese-Genoa,ITA-SERIA_A,18-19,68307758
+d3d758d8,Valon Behrami,11,SUI,CM,33-345,28,0,0,0,0,0,0,0,0,10,1,0,0,0.0,0.0,0.0,0,0,4,6,66.7,0,3,0,0,0,Udinese,2019-03-30 Udinese-Genoa,ITA-SERIA_A,18-19,68307758
+5313ed43,Seko Fofana,6,CIV,RM,23-327,84,0,1,0,0,0,0,0,0,39,0,1,0,0.0,0.0,0.6,3,2,25,31,80.6,1,24,3,0,0,Udinese,2019-03-30 Udinese-Genoa,ITA-SERIA_A,18-19,68307758
+fe0b8f0e,Emmanuel Agyemang-Badu,8,GHA,RM,28-118,6,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,1,0,0,0,Udinese,2019-03-30 Udinese-Genoa,ITA-SERIA_A,18-19,68307758
+8abd0c03,Marvin Zeegelaar,90,NED,LB,28-230,90,0,0,0,0,0,0,1,0,47,5,2,2,0.0,0.0,0.0,1,0,23,29,79.3,0,15,0,1,0,Udinese,2019-03-30 Udinese-Genoa,ITA-SERIA_A,18-19,68307758
+952a03fe,Sebastien De Maio,87,FRA,CB,32-025,90,0,0,0,0,0,0,0,0,45,2,0,1,0.0,0.0,0.0,1,0,21,31,67.7,0,20,0,0,0,Udinese,2019-03-30 Udinese-Genoa,ITA-SERIA_A,18-19,68307758
+7ed4921e,William Troost-Ekong,5,NGA,CB,25-210,90,0,0,0,0,0,0,0,0,33,0,2,0,0.0,0.0,0.0,0,0,17,21,81.0,0,16,0,0,0,Udinese,2019-03-30 Udinese-Genoa,ITA-SERIA_A,18-19,68307758
+f91e81c9,Jens Stryger Larsen,19,DEN,RB,28-037,90,0,0,0,0,0,0,1,0,51,0,0,0,0.0,0.0,0.0,0,0,33,43,76.7,2,25,0,0,0,Udinese,2019-03-30 Udinese-Genoa,ITA-SERIA_A,18-19,68307758
+a111cf41,Juan Musso,1,ARG,GK,24-328,90,0,0,0,0,0,0,0,0,45,0,0,0,0.0,0.0,0.0,0,0,24,42,57.1,0,21,0,0,0,Udinese,2019-03-30 Udinese-Genoa,ITA-SERIA_A,18-19,68307758
+58e933d2,Christian Kouamé,11,CIV,"FW,LW",21-114,90,0,0,0,0,5,2,0,0,37,0,0,0,1.1,1.1,0.0,3,0,21,29,72.4,3,25,3,0,0,Genoa,2019-03-30 Udinese-Genoa,ITA-SERIA_A,18-19,68307758
+2334478a,Stefano Sturaro,27,ITA,"FW,CM",26-021,69,0,0,0,0,1,0,0,0,34,2,0,1,0.0,0.0,0.0,2,0,14,22,63.6,4,24,1,2,2,Genoa,2019-03-30 Udinese-Genoa,ITA-SERIA_A,18-19,68307758
+2ead2809,Gianluca Lapadula,10,PER,FW,29-051,21,0,0,0,0,4,2,0,0,7,0,0,0,0.6,0.6,0.0,2,0,1,3,33.3,0,4,0,0,0,Genoa,2019-03-30 Udinese-Genoa,ITA-SERIA_A,18-19,68307758
+5128bde4,Darko Lazović,22,SRB,LM,28-196,45,0,0,0,0,0,0,0,0,23,0,0,1,0.0,0.0,0.1,1,0,11,19,57.9,1,18,3,1,0,Genoa,2019-03-30 Udinese-Genoa,ITA-SERIA_A,18-19,68307758
+88895312,Daniel Bessa,24,ITA,LM,26-075,45,0,0,0,0,0,0,1,0,29,0,0,0,0.0,0.0,0.1,2,0,26,29,89.7,2,26,4,0,0,Genoa,2019-03-30 Udinese-Genoa,ITA-SERIA_A,18-19,68307758
+10e25802,Esteban Rolón,18,ARG,CM,24-005,45,0,0,0,0,1,0,1,0,17,1,0,0,0.1,0.1,0.0,2,0,10,14,71.4,0,10,0,1,1,Genoa,2019-03-30 Udinese-Genoa,ITA-SERIA_A,18-19,68307758
+d711d04f,Goran Pandev,19,MKD,"FW,RW",35-246,45,0,0,0,0,0,0,0,0,23,0,0,1,0.0,0.0,0.0,2,0,11,16,68.8,1,18,1,2,0,Genoa,2019-03-30 Udinese-Genoa,ITA-SERIA_A,18-19,68307758
+023937a9,Ivan Radovanović,21,SRB,CM,30-213,90,0,0,0,0,6,1,0,0,93,1,0,0,0.2,0.2,0.0,6,0,67,80,83.8,14,72,6,1,0,Genoa,2019-03-30 Udinese-Genoa,ITA-SERIA_A,18-19,68307758
+1b82f8df,Lukas Lerager,8,DEN,RM,25-261,90,0,0,0,0,0,0,0,0,44,3,0,1,0.0,0.0,0.1,3,0,27,35,77.1,6,22,3,2,1,Genoa,2019-03-30 Udinese-Genoa,ITA-SERIA_A,18-19,68307758
+35dd6d80,Domenico Criscito,4,ITA,LB,32-090,90,0,0,0,0,3,0,1,0,87,1,0,2,0.2,0.2,0.4,5,0,62,79,78.5,13,48,3,1,1,Genoa,2019-03-30 Udinese-Genoa,ITA-SERIA_A,18-19,68307758
+1253a12e,Ervin Zukanović,87,BIH,CB,32-047,90,0,0,0,0,1,1,0,0,72,0,1,0,0.0,0.0,0.0,3,0,63,70,90.0,7,58,1,1,1,Genoa,2019-03-30 Udinese-Genoa,ITA-SERIA_A,18-19,68307758
+a3d94a58,Cristian Romero,17,ARG,CB,20-337,90,0,0,0,0,0,0,0,0,58,3,0,1,0.0,0.0,0.0,2,0,46,53,86.8,7,41,1,1,1,Genoa,2019-03-30 Udinese-Genoa,ITA-SERIA_A,18-19,68307758
+c77be0cf,Pedro Pereira,32,POR,RB,21-067,90,0,0,0,0,0,0,1,0,78,3,0,0,0.0,0.0,0.6,5,0,39,62,62.9,4,45,7,5,3,Genoa,2019-03-30 Udinese-Genoa,ITA-SERIA_A,18-19,68307758
+67f649be,Ionuț Radu,97,ROU,GK,21-306,90,0,0,0,0,0,0,0,0,24,0,0,0,0.0,0.0,0.0,0,0,15,23,65.2,0,6,0,0,0,Genoa,2019-03-30 Udinese-Genoa,ITA-SERIA_A,18-19,68307758

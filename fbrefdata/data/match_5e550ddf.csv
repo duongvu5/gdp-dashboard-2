@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+d33c706e,Andy Delort,11,ALG,"FW,RM",27-138,90,0,1,0,0,4,0,0,0,57,0,0,0,0.2,0.2,0.3,4,1,30,44,68.2,7,23,0,1,1,Montpellier,2019-02-24 Montpellier-Reims,FRA-L1,18-19,5e550ddf
+7cdda3bf,Gaëtan Laborde,10,FRA,"FW,LM",24-297,90,1,0,0,0,3,1,0,0,47,1,0,0,0.4,0.4,0.4,2,0,26,38,68.4,5,30,2,0,0,Montpellier,2019-02-24 Montpellier-Reims,FRA-L1,18-19,5e550ddf
+7e82a78f,Florent Mollet,25,FRA,"AM,CM",27-097,90,0,0,0,0,3,1,0,0,81,0,0,1,0.1,0.1,0.3,6,0,58,74,78.4,11,54,0,2,1,Montpellier,2019-02-24 Montpellier-Reims,FRA-L1,18-19,5e550ddf
+8f4d116f,Damien Le Tallec,14,FRA,CM,28-311,77,0,0,0,0,1,0,0,0,35,6,2,1,0.0,0.0,0.0,1,0,20,24,83.3,1,15,1,0,0,Montpellier,2019-02-24 Montpellier-Reims,FRA-L1,18-19,5e550ddf
+d9a66c60,Petar Škuletić,32,SRB,FW,28-240,13,0,0,0,0,1,1,0,0,6,0,1,0,0.2,0.2,0.0,2,0,4,4,100.0,0,3,0,0,0,Montpellier,2019-02-24 Montpellier-Reims,FRA-L1,18-19,5e550ddf
+c2211709,Ellyes Skhiri,13,TUN,"CM,DM",23-290,90,0,0,0,0,2,0,0,0,66,5,2,1,0.4,0.4,0.0,1,0,50,57,87.7,4,36,2,1,1,Montpellier,2019-02-24 Montpellier-Reims,FRA-L1,18-19,5e550ddf
+542cc80f,Paul Lasne,7,FRA,"WB,LB",30-039,90,0,0,0,0,0,0,0,0,52,2,1,1,0.0,0.0,0.3,4,1,34,42,81.0,2,31,1,2,1,Montpellier,2019-02-24 Montpellier-Reims,FRA-L1,18-19,5e550ddf
+3dd738a1,Ruben Aguilar,2,FRA,WB,25-304,29,0,0,0,0,0,0,0,0,26,1,0,0,0.0,0.0,0.0,0,0,22,24,91.7,1,12,2,0,0,Montpellier,2019-02-24 Montpellier-Reims,FRA-L1,18-19,5e550ddf
+0c291a1a,Mathías Suárez,24,URU,"RB,WB",22-245,61,0,0,0,0,0,0,0,0,60,2,1,1,0.0,0.0,0.0,4,1,48,50,96.0,2,28,0,2,0,Montpellier,2019-02-24 Montpellier-Reims,FRA-L1,18-19,5e550ddf
+8f325097,Nicolas Cozza,31,FRA,CB,20-047,59,0,0,0,0,0,0,0,0,50,1,2,0,0.0,0.0,0.0,1,0,36,41,87.8,5,34,0,2,2,Montpellier,2019-02-24 Montpellier-Reims,FRA-L1,18-19,5e550ddf
+e8a65bc8,Bilal Boutobba,12,FRA,"RM,FW",20-179,31,0,0,0,0,3,0,0,0,19,0,0,0,0.1,0.1,0.1,6,0,12,13,92.3,3,17,7,4,2,Montpellier,2019-02-24 Montpellier-Reims,FRA-L1,18-19,5e550ddf
+c4bbea9f,Vitorino Hilton,4,BRA,CB,41-164,90,0,1,0,0,0,0,0,0,80,1,2,2,0.0,0.0,0.1,3,1,62,72,86.1,5,47,0,0,0,Montpellier,2019-02-24 Montpellier-Reims,FRA-L1,18-19,5e550ddf
+3f5b4635,Daniel Congré,3,FRA,CB,33-325,90,1,0,0,0,2,1,0,0,78,3,3,0,0.3,0.3,0.1,1,0,58,67,86.6,5,40,1,0,0,Montpellier,2019-02-24 Montpellier-Reims,FRA-L1,18-19,5e550ddf
+2fa2a875,Benjamin Lecomte,40,FRA,GK,27-304,90,0,0,0,0,0,0,0,0,46,0,0,0,0.0,0.0,0.0,0,0,37,43,86.0,0,33,0,0,0,Montpellier,2019-02-24 Montpellier-Reims,FRA-L1,18-19,5e550ddf
+244bc2c8,Boulaye Dia,33,SEN,FW,22-100,65,0,0,0,0,2,2,0,0,27,0,0,1,0.4,0.4,0.0,4,2,13,18,72.2,0,15,3,5,3,Reims,2019-02-24 Montpellier-Reims,FRA-L1,18-19,5e550ddf
+4207e578,Pablo Chavarría,12,ARG,FW,31-053,25,1,0,0,0,2,2,0,0,6,1,0,0,0.1,0.1,0.1,2,1,2,3,66.7,0,5,1,0,0,Reims,2019-02-24 Montpellier-Reims,FRA-L1,18-19,5e550ddf
+ea02beaf,Remi Oudin,18,FRA,"LW,AM",22-098,79,2,0,0,0,5,3,0,0,27,2,1,0,0.6,0.6,0.0,0,0,9,17,52.9,0,15,2,0,0,Reims,2019-02-24 Montpellier-Reims,FRA-L1,18-19,5e550ddf
+19a12bed,Hassane Kamara,13,CIV,LW,24-356,11,0,0,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.0,0,0,9,10,90.0,0,9,1,3,3,Reims,2019-02-24 Montpellier-Reims,FRA-L1,18-19,5e550ddf
+095e4199,Arber Zeneli,17,KVX,"RW,AM",23-364,90,1,1,1,1,2,0,0,0,43,3,0,0,0.9,0.1,0.5,8,3,17,30,56.7,3,31,6,6,4,Reims,2019-02-24 Montpellier-Reims,FRA-L1,18-19,5e550ddf
+92b56413,Tristan Dingomé,20,CMR,AM,28-007,70,0,1,0,0,0,0,0,0,35,2,0,0,0.0,0.0,0.4,2,1,18,29,62.1,3,19,0,2,1,Reims,2019-02-24 Montpellier-Reims,FRA-L1,18-19,5e550ddf
+6481421d,Moussa Doumbia,25,MLI,"RW,LW",24-193,20,0,0,0,0,0,0,0,0,7,1,0,1,0.0,0.0,0.0,1,1,2,5,40.0,0,7,1,2,2,Reims,2019-02-24 Montpellier-Reims,FRA-L1,18-19,5e550ddf
+279ddf6a,Xavier Chavalerin,7,FRA,DM,27-354,90,0,0,0,0,2,0,0,0,54,5,6,3,0.1,0.1,0.0,2,0,28,39,71.8,4,31,2,2,2,Reims,2019-02-24 Montpellier-Reims,FRA-L1,18-19,5e550ddf
+0aa874f4,Alaixys Romao,4,TOG,DM,35-037,90,0,0,0,0,0,0,0,0,58,1,2,0,0.0,0.0,0.1,1,0,40,50,80.0,5,41,1,0,0,Reims,2019-02-24 Montpellier-Reims,FRA-L1,18-19,5e550ddf
+e4086af3,Baba Rahman,21,GHA,LB,24-237,90,0,0,0,0,0,0,0,0,61,5,2,2,0.0,0.0,0.0,1,0,37,44,84.1,2,33,2,3,1,Reims,2019-02-24 Montpellier-Reims,FRA-L1,18-19,5e550ddf
+32c2d95f,Yunis Abdelhamid,5,MAR,CB,31-149,90,0,0,0,0,0,0,0,0,49,2,0,1,0.0,0.0,0.0,0,0,37,42,88.1,2,33,0,0,0,Reims,2019-02-24 Montpellier-Reims,FRA-L1,18-19,5e550ddf
+4fdf1fd9,Björn Engels,2,BEL,CB,24-162,90,0,0,0,0,0,0,0,0,37,0,0,3,0.0,0.0,0.0,0,0,28,30,93.3,0,22,0,0,0,Reims,2019-02-24 Montpellier-Reims,FRA-L1,18-19,5e550ddf
+90eb507d,Thomas Foket,32,BEL,RB,24-152,90,0,0,0,0,1,0,0,0,70,3,2,1,0.0,0.0,0.1,5,0,48,58,82.8,8,38,2,1,0,Reims,2019-02-24 Montpellier-Reims,FRA-L1,18-19,5e550ddf
+33887998,Edouard Mendy,16,SEN,GK,26-360,90,0,0,0,0,0,0,1,0,45,0,0,0,0.0,0.0,0.0,0,0,35,44,79.5,0,14,0,0,0,Reims,2019-02-24 Montpellier-Reims,FRA-L1,18-19,5e550ddf

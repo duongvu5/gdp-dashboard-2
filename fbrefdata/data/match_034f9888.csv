@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+42fd9c7f,Kylian Mbappé,7,FRA,FW,20-349,77,1,0,0,0,4,3,0,0,45,0,1,0,0.7,0.7,0.1,1,0,19,31,61.3,3,23,2,3,0,Paris Saint-Germain,2019-12-04 Paris S-G-Nantes,FRA-L1,19-20,034f9888
+43b78598,Mauro Icardi,18,ARG,FW,26-288,13,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,1,1,1,1,100.0,1,1,0,0,0,Paris Saint-Germain,2019-12-04 Paris S-G-Nantes,FRA-L1,19-20,034f9888
+69384e5d,Neymar,10,BRA,"LW,FW",27-302,86,1,0,1,1,2,2,0,0,67,1,0,0,1.1,0.3,0.0,4,1,42,52,80.8,11,50,6,9,5,Paris Saint-Germain,2019-12-04 Paris S-G-Nantes,FRA-L1,19-20,034f9888
+527f063d,Edinson Cavani,9,URU,FW,32-293,4,0,0,0,0,1,0,0,0,4,0,0,0,0.1,0.1,0.0,1,0,2,2,100.0,2,4,0,0,0,Paris Saint-Germain,2019-12-04 Paris S-G-Nantes,FRA-L1,19-20,034f9888
+19cda00b,Ángel Di María,11,ARG,"AM,RW",31-293,90,0,1,0,0,2,0,0,0,73,0,0,1,0.1,0.1,0.6,5,1,37,56,66.1,6,53,5,10,4,Paris Saint-Germain,2019-12-04 Paris S-G-Nantes,FRA-L1,19-20,034f9888
+1a992676,Julian Draxler,23,GER,"LM,AM",26-075,77,0,0,0,0,0,0,1,0,88,1,1,0,0.0,0.0,0.0,0,0,71,80,88.8,6,45,1,1,0,Paris Saint-Germain,2019-12-04 Paris S-G-Nantes,FRA-L1,19-20,034f9888
+9744ff80,Pablo Sarabia,19,ESP,AM,27-207,13,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,0,0,7,10,70.0,1,5,0,0,0,Paris Saint-Germain,2019-12-04 Paris S-G-Nantes,FRA-L1,19-20,034f9888
+d5f2f82b,Marquinhos,5,BRA,"DM,CM",25-204,90,0,0,0,0,0,0,0,0,103,2,2,2,0.0,0.0,0.3,1,0,81,91,89.0,8,56,1,1,1,Paris Saint-Germain,2019-12-04 Paris S-G-Nantes,FRA-L1,19-20,034f9888
+72c812f3,Idrissa Gana Gueye,27,SEN,"DM,RM",30-069,90,0,0,0,0,0,0,0,0,102,8,2,1,0.0,0.0,0.0,0,0,76,83,91.6,5,62,1,7,5,Paris Saint-Germain,2019-12-04 Paris S-G-Nantes,FRA-L1,19-20,034f9888
+41e7ef1c,Layvin Kurzawa,20,FRA,LB,27-091,90,0,0,0,0,0,0,0,0,62,3,0,1,0.0,0.0,0.0,0,0,51,56,91.1,3,25,1,2,1,Paris Saint-Germain,2019-12-04 Paris S-G-Nantes,FRA-L1,19-20,034f9888
+fc62f087,Abdou Diallo,22,SEN,CB,23-214,90,0,0,0,0,0,0,0,0,95,1,1,0,0.0,0.0,0.0,0,0,85,90,94.4,4,65,2,4,4,Paris Saint-Germain,2019-12-04 Paris S-G-Nantes,FRA-L1,19-20,034f9888
+86e7deaf,Thiago Silva,2,BRA,CB,35-073,90,0,0,0,0,0,0,0,0,110,1,3,1,0.0,0.0,0.0,0,0,95,100,95.0,8,63,0,1,1,Paris Saint-Germain,2019-12-04 Paris S-G-Nantes,FRA-L1,19-20,034f9888
+e162b013,Thomas Meunier,12,BEL,RB,28-083,90,0,0,0,0,0,0,0,0,85,3,3,1,0.0,0.0,0.1,2,0,61,72,84.7,3,37,1,1,0,Paris Saint-Germain,2019-12-04 Paris S-G-Nantes,FRA-L1,19-20,034f9888
+ecada4fc,Keylor Navas,1,CRC,GK,32-354,90,0,0,0,0,0,0,0,0,24,0,0,0,0.0,0.0,0.0,0,0,17,20,85.0,0,12,0,0,0,Paris Saint-Germain,2019-12-04 Paris S-G-Nantes,FRA-L1,19-20,034f9888
+698b37b8,Elie Youan,24,FRA,FW,20-241,60,0,0,0,0,0,0,0,0,30,0,0,2,0.0,0.0,0.0,1,0,15,21,71.4,0,17,2,1,1,Nantes,2019-12-04 Paris S-G-Nantes,FRA-L1,19-20,034f9888
+af0c835b,Samuel Moutoussamy,18,COD,"LM,FW",23-114,30,0,0,0,0,1,0,0,0,27,0,0,0,0.0,0.0,0.0,1,0,16,21,76.2,2,17,0,2,0,Nantes,2019-12-04 Paris S-G-Nantes,FRA-L1,19-20,034f9888
+6191093d,Ludovic Blas,17,FRA,"FW,RM",21-338,90,0,0,0,0,3,1,0,0,51,0,0,1,0.1,0.1,0.0,4,0,38,40,95.0,4,38,1,6,4,Nantes,2019-12-04 Paris S-G-Nantes,FRA-L1,19-20,034f9888
+5f3eaaf5,Moses Simon,27,NGA,"LM,FW",24-145,90,0,0,0,0,1,0,0,0,37,0,2,1,0.0,0.0,0.0,2,0,15,26,57.7,3,28,5,1,0,Nantes,2019-12-04 Paris S-G-Nantes,FRA-L1,19-20,034f9888
+e1df6989,Imran Louza,26,MAR,CM,20-217,84,0,0,0,0,1,1,0,0,71,8,0,0,0.1,0.1,0.0,3,0,43,59,72.9,2,33,0,2,0,Nantes,2019-12-04 Paris S-G-Nantes,FRA-L1,19-20,034f9888
+60f58477,Roli Pereira de Sa,6,FRA,CM,22-359,6,0,0,0,0,1,0,0,0,14,0,0,0,0.0,0.0,0.2,2,0,12,13,92.3,1,12,0,0,0,Nantes,2019-12-04 Paris S-G-Nantes,FRA-L1,19-20,034f9888
+a4c3f7af,Mehdi Abeid,11,ALG,CM,27-120,90,0,0,0,0,2,1,1,0,39,4,2,0,0.1,0.1,0.0,1,0,22,26,84.6,4,20,0,0,0,Nantes,2019-12-04 Paris S-G-Nantes,FRA-L1,19-20,034f9888
+32f3d97e,Abdoul Kader Bamba,32,FRA,RM,25-193,76,0,0,0,0,0,0,1,0,40,1,3,0,0.0,0.0,0.2,4,0,23,29,79.3,4,25,3,5,3,Nantes,2019-12-04 Paris S-G-Nantes,FRA-L1,19-20,034f9888
+3b5cd50d,Cristian Benavente,10,PER,"FW,RM",25-199,14,0,0,0,0,0,0,0,0,9,1,0,0,0.0,0.0,0.0,0,0,5,7,71.4,0,4,0,1,0,Nantes,2019-12-04 Paris S-G-Nantes,FRA-L1,19-20,034f9888
+de488e56,Charles Traore,14,MLI,LB,27-337,90,0,0,0,0,0,0,0,0,68,1,2,1,0.0,0.0,0.0,0,0,47,58,81.0,3,29,1,1,1,Nantes,2019-12-04 Paris S-G-Nantes,FRA-L1,19-20,034f9888
+779847d6,Nicolas Pallois,4,FRA,CB,32-076,90,0,0,0,0,1,1,0,0,41,3,2,0,0.2,0.2,0.0,0,0,29,33,87.9,0,23,0,1,1,Nantes,2019-12-04 Paris S-G-Nantes,FRA-L1,19-20,034f9888
+3befc2b6,Andrei Girotto,20,BRA,CB,27-290,90,0,0,0,0,0,0,0,0,46,9,4,0,0.0,0.0,0.0,0,0,22,25,88.0,0,16,0,0,0,Nantes,2019-12-04 Paris S-G-Nantes,FRA-L1,19-20,034f9888
+feb5d3ab,Dennis Appiah,12,FRA,RB,27-178,90,0,0,0,0,1,0,0,0,63,6,2,0,0.1,0.1,0.0,2,0,37,50,74.0,10,39,1,2,2,Nantes,2019-12-04 Paris S-G-Nantes,FRA-L1,19-20,034f9888
+4e7db402,Alban Lafont,1,FRA,GK,20-315,90,0,0,0,0,0,0,0,0,38,0,0,0,0.0,0.0,0.0,0,0,19,34,55.9,0,12,0,0,0,Nantes,2019-12-04 Paris S-G-Nantes,FRA-L1,19-20,034f9888

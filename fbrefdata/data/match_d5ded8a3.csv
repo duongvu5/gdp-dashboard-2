@@ -1,0 +1,29 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+42fd9c7f,Kylian Mbappé,29,FRA,FW,19-143,90,0,0,0,0,3,0,0,0,20,0,0,0,0.4,0.4,0.1,3,0,14,15,93.3,1,14,1,2,1,Paris Saint-Germain,2018-05-12 Paris S-G-Rennes,FRA-L1,17-18,d5ded8a3
+7c56da38,Christopher Nkunku,24,FRA,LW,20-179,60,0,0,0,0,1,1,0,0,25,0,0,1,0.1,0.1,0.0,0,0,15,18,83.3,0,19,2,0,0,Paris Saint-Germain,2018-05-12 Paris S-G-Rennes,FRA-L1,17-18,d5ded8a3
+1a992676,Julian Draxler,23,GER,LW,24-234,30,0,0,0,0,1,0,0,0,16,0,0,0,0.0,0.0,0.0,1,0,13,14,92.9,3,9,0,1,0,Paris Saint-Germain,2018-05-12 Paris S-G-Rennes,FRA-L1,17-18,d5ded8a3
+19cda00b,Ángel Di María,11,ARG,RW,30-087,90,0,0,0,0,5,2,0,0,64,1,1,0,0.3,0.3,0.3,9,0,25,45,55.6,4,37,5,11,6,Paris Saint-Germain,2018-05-12 Paris S-G-Rennes,FRA-L1,17-18,d5ded8a3
+d7553721,Giovani Lo Celso,18,ARG,"LM,RM,DM",22-033,90,0,0,0,0,1,0,0,0,74,2,0,2,0.0,0.0,0.0,2,0,56,65,86.2,9,58,8,7,6,Paris Saint-Germain,2018-05-12 Paris S-G-Rennes,FRA-L1,17-18,d5ded8a3
+57ef0d97,Thiago Motta,8,ITA,CM,35-257,76,0,0,0,0,0,0,0,0,80,1,1,0,0.0,0.0,0.0,1,0,69,76,90.8,7,48,2,0,0,Paris Saint-Germain,2018-05-12 Paris S-G-Rennes,FRA-L1,17-18,d5ded8a3
+881ef58c,Javier Pastore,27,ARG,AM,28-326,14,0,0,0,0,2,2,0,0,16,1,0,0,0.1,0.1,0.0,1,0,6,13,46.2,1,12,1,0,0,Paris Saint-Germain,2018-05-12 Paris S-G-Rennes,FRA-L1,17-18,d5ded8a3
+79584585,Lassana Diarra,19,FRA,RM,33-063,61,0,0,0,0,0,0,0,0,50,0,0,1,0.0,0.0,0.0,1,0,39,44,88.6,4,39,5,7,6,Paris Saint-Germain,2018-05-12 Paris S-G-Rennes,FRA-L1,17-18,d5ded8a3
+8794e251,Adrien Rabiot,25,FRA,"LM,DM",23-039,29,0,0,0,0,0,0,0,0,26,0,0,0,0.0,0.0,0.0,1,0,23,26,88.5,8,21,3,1,1,Paris Saint-Germain,2018-05-12 Paris S-G-Rennes,FRA-L1,17-18,d5ded8a3
+b6e50615,Yuri Berchiche,17,ESP,LB,28-091,90,0,0,0,0,0,0,0,0,75,1,0,2,0.0,0.0,0.1,1,0,57,67,85.1,8,42,0,1,0,Paris Saint-Germain,2018-05-12 Paris S-G-Rennes,FRA-L1,17-18,d5ded8a3
+aef6e670,Presnel Kimpembe,3,FRA,CB,22-272,90,0,0,0,0,1,0,1,0,74,0,1,1,0.1,0.1,0.0,0,0,67,69,97.1,2,61,3,1,1,Paris Saint-Germain,2018-05-12 Paris S-G-Rennes,FRA-L1,17-18,d5ded8a3
+d5f2f82b,Marquinhos,5,BRA,CB,23-363,90,0,0,0,0,0,0,0,0,63,2,0,0,0.0,0.0,0.0,1,0,56,57,98.2,3,41,1,0,0,Paris Saint-Germain,2018-05-12 Paris S-G-Rennes,FRA-L1,17-18,d5ded8a3
+e162b013,Thomas Meunier,12,BEL,RB,26-242,90,0,0,0,0,0,0,0,0,77,2,1,2,0.0,0.0,0.2,2,0,59,73,80.8,4,44,3,0,0,Paris Saint-Germain,2018-05-12 Paris S-G-Rennes,FRA-L1,17-18,d5ded8a3
+ce17b5eb,Kevin Trapp,1,GER,GK,27-308,90,0,0,0,0,0,0,0,0,17,0,0,0,0.0,0.0,0.0,0,0,15,16,93.8,0,10,0,0,0,Paris Saint-Germain,2018-05-12 Paris S-G-Rennes,FRA-L1,17-18,d5ded8a3
+d14229f3,Adrien Hunou,23,FRA,"FW,RM",24-113,90,1,0,0,0,2,1,0,0,26,1,1,2,0.1,0.1,0.1,4,1,16,17,94.1,1,14,3,1,1,Rennes,2018-05-12 Paris S-G-Rennes,FRA-L1,17-18,d5ded8a3
+20e73fac,Benjamin Bourigeaud,14,FRA,LM,24-118,90,1,0,1,1,0,0,0,0,46,1,2,0,0.8,0.0,0.0,0,0,32,43,74.4,5,22,1,0,0,Rennes,2018-05-12 Paris S-G-Rennes,FRA-L1,17-18,d5ded8a3
+7cf431a5,James Lea Siliki,12,CMR,CM,21-334,90,0,0,0,0,0,0,0,0,40,2,1,0,0.0,0.0,0.1,3,1,23,34,67.6,3,23,6,3,1,Rennes,2018-05-12 Paris S-G-Rennes,FRA-L1,17-18,d5ded8a3
+ef9c1c95,Benjamin André,21,FRA,CM,27-282,90,0,0,0,0,0,0,0,0,36,4,1,1,0.0,0.0,0.0,2,0,23,29,79.3,4,19,2,0,0,Rennes,2018-05-12 Paris S-G-Rennes,FRA-L1,17-18,d5ded8a3
+c8c02ac7,Mehdi Zeffane,2,ALG,"RM,RB",25-358,90,0,0,0,0,2,0,0,0,52,4,1,0,0.0,0.0,0.0,1,0,28,40,70.0,2,28,2,1,1,Rennes,2018-05-12 Paris S-G-Rennes,FRA-L1,17-18,d5ded8a3
+51c30111,Sanjin Prcić,10,BIH,DM,24-173,89,0,0,0,0,2,0,0,0,43,2,0,1,0.1,0.1,0.0,1,0,28,35,80.0,2,21,1,0,0,Rennes,2018-05-12 Paris S-G-Rennes,FRA-L1,17-18,d5ded8a3
+e54a9890,Faitout Maouassa,17,FRA,DM,19-310,1,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,1,0,1,0,Rennes,2018-05-12 Paris S-G-Rennes,FRA-L1,17-18,d5ded8a3
+378825c7,Ramy Bensebaini,15,ALG,LB,23-026,90,0,0,0,0,2,0,0,0,52,3,0,1,0.1,0.1,0.0,1,0,28,41,68.3,4,20,4,1,1,Rennes,2018-05-12 Paris S-G-Rennes,FRA-L1,17-18,d5ded8a3
+1232e1dc,Joris Gnagnon,5,FRA,CB,21-119,90,0,0,0,0,1,0,0,0,27,0,0,0,0.1,0.1,0.0,2,0,21,23,91.3,2,18,0,0,0,Rennes,2018-05-12 Paris S-G-Rennes,FRA-L1,17-18,d5ded8a3
+4c700f46,Jérémy Gélin,26,FRA,CB,21-018,90,0,1,0,0,0,0,0,0,43,0,3,2,0.0,0.0,0.1,2,1,30,34,88.2,2,18,0,0,0,Rennes,2018-05-12 Paris S-G-Rennes,FRA-L1,17-18,d5ded8a3
+a4b1028a,Hamari Traoré,27,MLI,RB,26-105,73,0,0,0,0,0,0,0,0,28,1,1,0,0.0,0.0,0.0,0,0,20,24,83.3,0,10,1,0,0,Rennes,2018-05-12 Paris S-G-Rennes,FRA-L1,17-18,d5ded8a3
+bfdb33aa,Ismaila Sarr,7,SEN,FW,20-076,17,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,0,2,0.0,0,0,0,0,0,Rennes,2018-05-12 Paris S-G-Rennes,FRA-L1,17-18,d5ded8a3
+dc366c36,Tomáš Koubek,40,CZE,GK,25-259,90,0,0,0,0,0,0,0,0,41,0,0,0,0.0,0.0,0.0,0,0,19,35,54.3,0,18,0,0,0,Rennes,2018-05-12 Paris S-G-Rennes,FRA-L1,17-18,d5ded8a3

@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+42fd9c7f,Kylian Mbappé,7,FRA,FW,20-062,90,1,0,0,0,6,3,0,0,47,0,0,0,1.4,1.4,0.0,3,1,27,36,75.0,3,27,4,4,4,Paris Saint-Germain,2019-02-20 Paris S-G-Montpellier,FRA-L1,18-19,92a540fc
+19cda00b,Ángel Di María,11,ARG,FW,31-006,67,1,0,0,0,3,3,0,0,48,0,0,0,0.5,0.5,0.3,1,0,25,39,64.1,4,31,5,5,1,Paris Saint-Germain,2019-02-20 Paris S-G-Montpellier,FRA-L1,18-19,92a540fc
+0e6bc38c,Eric Maxim Choupo-Moting,17,CMR,FW,29-334,23,0,0,0,0,1,0,0,0,15,0,0,0,0.2,0.2,0.0,3,1,13,13,100.0,3,6,1,2,1,Paris Saint-Germain,2019-02-20 Paris S-G-Montpellier,FRA-L1,18-19,92a540fc
+1a992676,Julian Draxler,23,GER,LM,25-153,90,0,0,0,0,2,1,0,0,96,1,0,2,0.4,0.4,0.4,4,0,73,88,83.0,9,59,7,2,2,Paris Saint-Germain,2019-02-20 Paris S-G-Montpellier,FRA-L1,18-19,92a540fc
+1467af0d,Marco Verratti,6,ITA,CM,26-107,90,0,0,0,0,0,0,1,0,141,4,0,2,0.0,0.0,0.2,3,0,123,133,92.5,13,97,1,4,3,Paris Saint-Germain,2019-02-20 Paris S-G-Montpellier,FRA-L1,18-19,92a540fc
+c9e99e49,Dani Alves,13,BRA,"CM,RM",35-290,76,0,1,0,0,1,0,1,0,92,2,0,0,0.0,0.0,0.4,3,2,76,85,89.4,14,61,2,1,0,Paris Saint-Germain,2019-02-20 Paris S-G-Montpellier,FRA-L1,18-19,92a540fc
+29c02c9f,Colin Dagba,31,FRA,RM,20-164,14,0,0,0,0,0,0,0,0,19,1,0,0,0.0,0.0,0.0,0,0,18,18,100.0,0,14,0,0,0,Paris Saint-Germain,2019-02-20 Paris S-G-Montpellier,FRA-L1,18-19,92a540fc
+7c56da38,Christopher Nkunku,24,FRA,"RM,AM",21-098,90,1,0,0,0,2,1,0,0,53,0,0,2,0.3,0.3,0.8,5,0,43,48,89.6,6,38,5,1,1,Paris Saint-Germain,2019-02-20 Paris S-G-Montpellier,FRA-L1,18-19,92a540fc
+41e7ef1c,Layvin Kurzawa,20,FRA,LB,26-169,90,1,1,0,0,1,1,0,0,50,3,3,0,0.3,0.3,0.9,3,1,41,45,91.1,5,23,3,1,1,Paris Saint-Germain,2019-02-20 Paris S-G-Montpellier,FRA-L1,18-19,92a540fc
+aef6e670,Presnel Kimpembe,3,FRA,CB,23-191,90,0,0,0,0,0,0,0,0,75,4,1,0,0.0,0.0,0.0,1,0,63,66,95.5,2,43,0,2,1,Paris Saint-Germain,2019-02-20 Paris S-G-Montpellier,FRA-L1,18-19,92a540fc
+d5f2f82b,Marquinhos,5,BRA,CB,24-282,90,0,0,0,0,0,0,0,0,80,1,1,2,0.0,0.0,0.0,1,0,71,75,94.7,9,53,1,0,0,Paris Saint-Germain,2019-02-20 Paris S-G-Montpellier,FRA-L1,18-19,92a540fc
+51dbeea9,Thilo Kehrer,4,GER,RB,22-152,82,0,0,0,0,1,0,0,0,85,2,2,1,0.1,0.1,0.0,2,1,66,77,85.7,3,43,2,0,0,Paris Saint-Germain,2019-02-20 Paris S-G-Montpellier,FRA-L1,18-19,92a540fc
+aeed5c06,Moussa Diaby,27,FRA,RB,19-228,8,0,0,0,0,1,0,0,0,9,0,0,0,0.0,0.0,0.0,1,0,7,8,87.5,1,7,3,0,0,Paris Saint-Germain,2019-02-20 Paris S-G-Montpellier,FRA-L1,18-19,92a540fc
+e40d028b,Gianluigi Buffon,1,ITA,GK,41-023,90,0,0,0,0,0,0,0,0,23,0,0,0,0.0,0.0,0.0,0,0,19,19,100.0,0,10,0,0,0,Paris Saint-Germain,2019-02-20 Paris S-G-Montpellier,FRA-L1,18-19,92a540fc
+d9a66c60,Petar Škuletić,32,SRB,FW,28-236,90,0,0,0,0,3,2,0,0,44,1,1,1,0.2,0.2,0.4,1,0,24,30,80.0,3,17,0,3,2,Montpellier,2019-02-20 Paris S-G-Montpellier,FRA-L1,18-19,92a540fc
+7e82a78f,Florent Mollet,25,FRA,AM,27-093,90,1,0,0,0,6,3,0,0,57,1,0,2,0.2,0.2,0.1,5,1,37,44,84.1,2,32,1,2,1,Montpellier,2019-02-20 Paris S-G-Montpellier,FRA-L1,18-19,92a540fc
+7cdda3bf,Gaëtan Laborde,10,FRA,AM,24-293,73,0,0,0,0,3,0,0,0,32,1,0,0,0.1,0.1,0.0,0,0,17,24,70.8,1,24,6,2,0,Montpellier,2019-02-20 Paris S-G-Montpellier,FRA-L1,18-19,92a540fc
+24eb7ed6,Junior Sambia,6,FRA,AM,22-166,17,0,0,0,0,1,0,0,0,6,0,0,0,0.1,0.1,0.0,2,0,4,4,100.0,1,4,0,0,0,Montpellier,2019-02-20 Paris S-G-Montpellier,FRA-L1,18-19,92a540fc
+8f4d116f,Damien Le Tallec,14,FRA,CM,28-307,80,0,0,0,0,1,1,0,0,47,2,4,0,0.4,0.4,0.0,1,0,31,42,73.8,5,18,0,0,0,Montpellier,2019-02-20 Paris S-G-Montpellier,FRA-L1,18-19,92a540fc
+542cc80f,Paul Lasne,7,FRA,CM,30-035,10,0,0,0,0,0,0,0,0,10,1,0,0,0.0,0.0,0.0,0,0,8,9,88.9,0,7,1,0,0,Montpellier,2019-02-20 Paris S-G-Montpellier,FRA-L1,18-19,92a540fc
+c2211709,Ellyes Skhiri,13,TUN,CM,23-286,90,0,0,0,0,0,0,0,0,65,4,3,5,0.0,0.0,0.1,6,1,50,53,94.3,4,33,1,3,2,Montpellier,2019-02-20 Paris S-G-Montpellier,FRA-L1,18-19,92a540fc
+e3e05edf,Ambroise Oyongo,8,CMR,WB,27-243,90,0,0,0,0,0,0,1,0,47,0,0,1,0.0,0.0,0.0,2,0,25,36,69.4,2,30,2,4,2,Montpellier,2019-02-20 Paris S-G-Montpellier,FRA-L1,18-19,92a540fc
+3dd738a1,Ruben Aguilar,2,FRA,WB,25-300,90,0,0,0,0,0,0,0,0,51,3,2,1,0.0,0.0,0.1,5,0,38,41,92.7,5,31,3,2,2,Montpellier,2019-02-20 Paris S-G-Montpellier,FRA-L1,18-19,92a540fc
+3f5b4635,Daniel Congré,3,FRA,CB,33-321,90,0,0,0,0,0,0,0,0,26,3,1,1,0.0,0.0,0.0,0,0,16,21,76.2,0,10,0,0,0,Montpellier,2019-02-20 Paris S-G-Montpellier,FRA-L1,18-19,92a540fc
+c4bbea9f,Vitorino Hilton,4,BRA,CB,41-160,90,0,0,0,0,1,1,0,0,47,3,2,2,0.1,0.1,0.0,2,0,28,32,87.5,2,20,0,0,0,Montpellier,2019-02-20 Paris S-G-Montpellier,FRA-L1,18-19,92a540fc
+6690ef25,Pedro Mendes,5,POR,CB,28-142,18,0,0,0,0,0,0,0,0,5,0,1,0,0.0,0.0,0.0,0,0,1,3,33.3,0,2,0,0,0,Montpellier,2019-02-20 Paris S-G-Montpellier,FRA-L1,18-19,92a540fc
+8f325097,Nicolas Cozza,31,FRA,CB,20-043,72,0,0,0,0,0,0,0,0,28,0,3,2,0.0,0.0,0.0,0,0,14,18,77.8,0,15,0,1,1,Montpellier,2019-02-20 Paris S-G-Montpellier,FRA-L1,18-19,92a540fc
+2fa2a875,Benjamin Lecomte,40,FRA,GK,27-300,90,0,0,0,0,0,0,0,0,44,0,1,0,0.0,0.0,0.0,2,0,25,39,64.1,0,19,0,0,0,Montpellier,2019-02-20 Paris S-G-Montpellier,FRA-L1,18-19,92a540fc

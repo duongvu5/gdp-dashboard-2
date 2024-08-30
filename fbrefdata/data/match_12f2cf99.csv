@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+d520120b,Júlio Tavares,11,CPV,FW,29-300,90,0,0,0,0,1,0,0,0,23,0,1,1,0.4,0.4,0.0,1,0,14,16,87.5,1,9,0,1,1,Dijon,2018-09-15 Dijon-Angers,FRA-L1,18-19,12f2cf99
+2e0367a6,Naïm Sliti,10,TUN,LW,26-050,62,0,0,0,0,3,1,0,0,40,0,1,0,0.1,0.1,0.2,6,1,20,30,66.7,4,32,4,3,1,Dijon,2018-09-15 Dijon-Angers,FRA-L1,18-19,12f2cf99
+3acddfdd,Yoann Gourcuff,28,FRA,"AM,LW",32-066,28,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,0,0,9,10,90.0,0,6,1,0,0,Dijon,2018-09-15 Dijon-Angers,FRA-L1,18-19,12f2cf99
+8c955557,Jules Keita,23,GUI,"RW,LW",20-057,90,0,0,0,0,3,0,0,0,37,3,0,0,0.1,0.1,0.1,4,0,15,20,75.0,1,26,6,8,3,Dijon,2018-09-15 Dijon-Angers,FRA-L1,18-19,12f2cf99
+90fcf472,Wesley Saïd,9,FRA,AM,23-149,75,1,0,0,0,2,2,0,0,29,0,2,2,0.3,0.3,0.0,0,0,14,20,70.0,3,16,1,3,1,Dijon,2018-09-15 Dijon-Angers,FRA-L1,18-19,12f2cf99
+8802c1d5,Frédéric Sammaritano,7,FRA,RW,32-176,15,0,0,0,0,1,0,0,0,15,1,0,0,0.1,0.1,0.0,1,0,10,13,76.9,2,11,1,0,0,Dijon,2018-09-15 Dijon-Angers,FRA-L1,18-19,12f2cf99
+d7bf3d19,Romain Amalfitano,20,FRA,DM,29-019,90,0,0,0,0,1,0,0,0,74,1,2,1,0.0,0.0,0.0,1,0,54,65,83.1,13,59,6,4,2,Dijon,2018-09-15 Dijon-Angers,FRA-L1,18-19,12f2cf99
+6bca20fe,Enzo Loiodice,12,FRA,DM,17-292,66,0,0,0,0,0,0,1,0,58,3,0,1,0.0,0.0,0.1,2,0,43,51,84.3,8,37,3,0,0,Dijon,2018-09-15 Dijon-Angers,FRA-L1,18-19,12f2cf99
+a4c3f7af,Mehdi Abeid,8,ALG,DM,26-040,24,0,0,0,0,0,0,0,0,31,1,0,0,0.0,0.0,0.0,2,0,25,27,92.6,4,24,1,1,0,Dijon,2018-09-15 Dijon-Angers,FRA-L1,18-19,12f2cf99
+ec400194,Oussama Haddadi,5,TUN,LB,26-230,90,0,0,0,0,0,0,1,0,81,2,3,0,0.0,0.0,0.1,2,0,55,68,80.9,7,49,5,0,0,Dijon,2018-09-15 Dijon-Angers,FRA-L1,18-19,12f2cf99
+5113d9a7,Laurent Ciman,6,BEL,CB,33-041,90,0,0,0,0,1,0,0,0,82,1,1,1,0.1,0.1,0.0,1,0,64,76,84.2,5,58,0,0,0,Dijon,2018-09-15 Dijon-Angers,FRA-L1,18-19,12f2cf99
+1c344204,Cédric Yamberé,18,CTA,CB,27-313,90,0,0,0,0,0,0,0,0,72,2,5,2,0.0,0.0,0.0,2,0,50,58,86.2,4,49,1,0,0,Dijon,2018-09-15 Dijon-Angers,FRA-L1,18-19,12f2cf99
+9b6d9b53,Valentin Rosier,19,FRA,RB,22-027,90,0,0,0,0,2,0,0,0,51,3,1,1,0.1,0.1,0.0,2,0,37,43,86.0,1,36,1,1,1,Dijon,2018-09-15 Dijon-Angers,FRA-L1,18-19,12f2cf99
+8fa8f8d2,Rúnar Alex Rúnarsson,1,ISL,GK,23-209,90,0,0,0,0,0,0,0,0,40,0,1,0,0.0,0.0,0.0,0,0,38,39,97.4,0,27,0,0,0,Dijon,2018-09-15 Dijon-Angers,FRA-L1,18-19,12f2cf99
+5046b7d4,Stéphane Bahoken,19,CMR,FW,26-110,69,1,0,0,0,3,2,0,0,21,1,0,0,0.1,0.1,0.0,0,0,5,10,50.0,0,12,1,1,1,Angers,2018-09-15 Dijon-Angers,FRA-L1,18-19,12f2cf99
+b4c816a9,Wilfried Kanga,11,CIV,FW,20-206,21,0,0,0,0,1,0,1,0,9,0,0,0,0.0,0.0,0.0,0,0,4,5,80.0,0,6,1,0,0,Angers,2018-09-15 Dijon-Angers,FRA-L1,18-19,12f2cf99
+a0f9b535,Flavien Tait,20,FRA,LW,25-225,72,1,1,0,0,2,1,0,0,52,0,0,1,0.2,0.2,0.6,4,2,36,45,80.0,5,37,5,0,0,Angers,2018-09-15 Dijon-Angers,FRA-L1,18-19,12f2cf99
+4b96c347,Angelo Fulgini,10,FRA,LW,22-026,18,0,0,0,0,1,1,0,0,18,1,1,1,0.1,0.1,0.1,2,0,6,9,66.7,1,6,0,0,0,Angers,2018-09-15 Dijon-Angers,FRA-L1,18-19,12f2cf99
+d504b3e1,Jeff Reine-Adélaïde,22,FRA,RW,20-241,79,0,0,0,0,0,0,0,0,42,0,0,1,0.0,0.0,0.3,6,1,24,29,82.8,4,33,4,8,5,Angers,2018-09-15 Dijon-Angers,FRA-L1,18-19,12f2cf99
+392d98fc,Harrison Manzala,7,COD,RW,24-193,11,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,2,4,50.0,0,3,0,0,0,Angers,2018-09-15 Dijon-Angers,FRA-L1,18-19,12f2cf99
+79b2399c,Pierrick Capelle,15,FRA,LM,31-153,90,0,0,0,0,4,1,0,0,47,1,1,1,0.4,0.4,0.1,2,0,32,36,88.9,6,32,3,1,1,Angers,2018-09-15 Dijon-Angers,FRA-L1,18-19,12f2cf99
+5e22e2a4,Baptiste Santamaria,18,FRA,CM,23-190,90,1,0,0,0,1,1,0,0,45,1,1,1,0.5,0.5,0.0,0,0,29,35,82.9,5,12,0,0,0,Angers,2018-09-15 Dijon-Angers,FRA-L1,18-19,12f2cf99
+f1b2365a,Cheikh N'Doye,17,SEN,RM,32-170,90,0,0,0,0,1,0,0,0,39,1,2,0,0.1,0.1,0.0,4,0,24,31,77.4,6,15,0,0,0,Angers,2018-09-15 Dijon-Angers,FRA-L1,18-19,12f2cf99
+7fecbcdb,Abdoulaye Bamba,25,CIV,LB,28-143,90,0,0,0,0,0,0,0,0,41,4,1,0,0.0,0.0,0.0,0,0,27,33,81.8,2,19,1,2,2,Angers,2018-09-15 Dijon-Angers,FRA-L1,18-19,12f2cf99
+450e277f,Mateo Pavlović,4,BIH,CB,28-098,90,0,0,0,0,1,0,1,0,34,3,1,2,0.1,0.1,0.0,0,0,18,26,69.2,1,6,0,0,0,Angers,2018-09-15 Dijon-Angers,FRA-L1,18-19,12f2cf99
+b666421b,Ismaël Traoré,8,CIV,CB,32-028,90,0,0,0,0,0,0,0,0,31,2,2,0,0.0,0.0,0.0,1,0,12,15,80.0,0,4,0,0,0,Angers,2018-09-15 Dijon-Angers,FRA-L1,18-19,12f2cf99
+c26a3918,Vincent Manceau,29,FRA,RB,29-067,90,0,1,0,0,0,0,0,0,48,6,0,0,0.0,0.0,0.2,2,1,27,35,77.1,2,18,0,1,0,Angers,2018-09-15 Dijon-Angers,FRA-L1,18-19,12f2cf99
+26975a92,Ludovic Butelle,16,FRA,GK,35-165,90,0,0,0,0,0,0,0,0,32,0,0,0,0.0,0.0,0.0,0,0,14,28,50.0,0,13,0,0,0,Angers,2018-09-15 Dijon-Angers,FRA-L1,18-19,12f2cf99

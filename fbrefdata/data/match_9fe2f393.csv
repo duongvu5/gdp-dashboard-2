@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+8e235926,Michael Gregoritsch,38,AUT,FW,30-023,77,0,0,0,0,4,2,0,0,39,3,0,1,0.5,0.5,0.1,4,0,20,27,74.1,5,13,0,1,0,Freiburg,2024-05-11 Freiburg-Heidenheim,GER-BL1,23-24,9fe2f393
+ca618d23,Lucas Höler,9,GER,FW,29-306,13,0,0,0,0,1,0,0,0,6,0,0,0,0.1,0.1,0.0,0,0,4,4,100.0,0,2,0,0,0,Freiburg,2024-05-11 Freiburg-Heidenheim,GER-BL1,23-24,9fe2f393
+54e4866f,Vincenzo Grifo,32,ITA,AM,31-034,90,0,0,0,0,5,0,1,0,90,1,1,0,0.3,0.3,0.1,4,0,63,74,85.1,7,51,6,3,0,Freiburg,2024-05-11 Freiburg-Heidenheim,GER-BL1,23-24,9fe2f393
+bf075f6b,Roland Sallai,22,HUN,AM,26-355,88,0,0,0,0,1,0,0,0,61,1,1,1,0.1,0.1,0.0,3,1,39,49,79.6,3,39,4,2,1,Freiburg,2024-05-11 Freiburg-Heidenheim,GER-BL1,23-24,9fe2f393
+061e8e23,Maximilian Philipp,26,GER,AM,30-071,2,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,3,4,75.0,0,1,0,0,0,Freiburg,2024-05-11 Freiburg-Heidenheim,GER-BL1,23-24,9fe2f393
+5d8e331f,Nicolas Höfler,27,GER,CM,34-063,90,0,0,0,0,2,0,0,0,61,2,0,1,0.1,0.1,0.1,3,0,42,54,77.8,5,20,0,2,2,Freiburg,2024-05-11 Freiburg-Heidenheim,GER-BL1,23-24,9fe2f393
+beb882a8,Maximilian Eggestein,8,GER,CM,27-155,90,0,0,0,0,2,1,0,0,58,1,1,0,0.1,0.1,0.0,4,0,47,51,92.2,9,33,5,1,1,Freiburg,2024-05-11 Freiburg-Heidenheim,GER-BL1,23-24,9fe2f393
+8593f88c,Christian Günter,30,GER,WB,31-073,77,0,1,0,0,0,0,0,0,39,1,0,0,0.0,0.0,0.3,5,1,31,36,86.1,1,21,2,0,0,Freiburg,2024-05-11 Freiburg-Heidenheim,GER-BL1,23-24,9fe2f393
+dd676a97,Noah Weißhaupt,7,GER,WB,22-234,13,0,0,0,0,0,0,0,0,17,2,0,0,0.0,0.0,0.0,1,0,7,9,77.8,0,9,0,3,0,Freiburg,2024-05-11 Freiburg-Heidenheim,GER-BL1,23-24,9fe2f393
+d01bbb6f,Ritsu Doan,42,JPN,WB,25-330,90,1,0,0,0,2,1,0,0,49,0,0,1,0.2,0.2,0.2,7,0,35,43,81.4,5,36,2,1,1,Freiburg,2024-05-11 Freiburg-Heidenheim,GER-BL1,23-24,9fe2f393
+25ab9c9c,Manuel Gulde,5,GER,CB,33-089,56,0,0,0,0,1,0,0,0,22,0,0,0,0.0,0.0,0.0,1,0,19,19,100.0,2,12,0,0,0,Freiburg,2024-05-11 Freiburg-Heidenheim,GER-BL1,23-24,9fe2f393
+14b09c41,Jordy Makengo,33,FRA,CB,22-282,34,0,0,0,0,0,0,0,0,33,0,0,0,0.0,0.0,0.0,0,0,28,33,84.8,2,19,2,1,1,Freiburg,2024-05-11 Freiburg-Heidenheim,GER-BL1,23-24,9fe2f393
+d2c580ce,Yannik Keitel,14,GER,CB,24-086,90,0,0,0,0,2,0,0,0,68,3,0,0,0.1,0.1,0.0,2,0,51,60,85.0,3,42,0,0,0,Freiburg,2024-05-11 Freiburg-Heidenheim,GER-BL1,23-24,9fe2f393
+2a29eb9b,Lukas Kübler,17,GER,CB,31-255,90,0,0,0,0,0,0,0,0,67,2,2,1,0.0,0.0,0.0,1,0,47,62,75.8,0,32,3,0,0,Freiburg,2024-05-11 Freiburg-Heidenheim,GER-BL1,23-24,9fe2f393
+dbd1b101,Noah Atubolu,1,GER,GK,21-352,90,0,0,0,0,0,0,0,0,28,0,0,0,0.0,0.0,0.0,0,0,19,28,67.9,0,12,0,0,0,Freiburg,2024-05-11 Freiburg-Heidenheim,GER-BL1,23-24,9fe2f393
+11407d95,Marvin Pieringer,18,GER,FW,24-220,73,0,0,0,0,1,0,0,0,30,0,0,0,0.1,0.1,0.1,1,0,14,21,66.7,2,19,0,1,0,Heidenheim,2024-05-11 Freiburg-Heidenheim,GER-BL1,23-24,9fe2f393
+b9ac6e0e,Denis Thomalla,11,GER,FW,31-269,17,0,0,0,0,0,0,0,0,6,1,0,1,0.0,0.0,0.0,0,0,1,3,33.3,0,2,0,0,0,Heidenheim,2024-05-11 Freiburg-Heidenheim,GER-BL1,23-24,9fe2f393
+57382429,Jan-Niklas Beste,37,GER,LW,25-128,88,0,0,0,0,1,0,0,0,38,1,1,0,0.0,0.0,0.0,1,0,20,32,62.5,1,25,2,2,1,Heidenheim,2024-05-11 Freiburg-Heidenheim,GER-BL1,23-24,9fe2f393
+616c09f5,Adrian Beck,21,GER,LW,26-337,2,0,0,0,0,0,0,0,0,7,0,0,1,0.0,0.0,0.0,0,0,1,4,25.0,1,6,0,2,1,Heidenheim,2024-05-11 Freiburg-Heidenheim,GER-BL1,23-24,9fe2f393
+4ccd8957,Eren Dinkçi,8,GER,RW,22-150,64,0,1,0,0,0,0,0,0,28,2,1,1,0.0,0.0,0.3,2,1,17,20,85.0,0,16,1,0,0,Heidenheim,2024-05-11 Freiburg-Heidenheim,GER-BL1,23-24,9fe2f393
+57d9f511,Nikola Dovedan,20,AUT,RW,29-310,26,0,0,0,0,0,0,0,0,12,0,0,1,0.0,0.0,0.0,0,0,3,8,37.5,0,5,0,0,0,Heidenheim,2024-05-11 Freiburg-Heidenheim,GER-BL1,23-24,9fe2f393
+fd82af8c,Kevin Sessa,16,GER,AM,23-310,73,1,0,0,0,1,1,1,0,32,0,0,0,0.3,0.3,0.1,4,0,22,25,88.0,2,23,1,1,0,Heidenheim,2024-05-11 Freiburg-Heidenheim,GER-BL1,23-24,9fe2f393
+00e36323,Florian Pick,17,GER,AM,28-246,17,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,3,6,50.0,0,5,0,1,0,Heidenheim,2024-05-11 Freiburg-Heidenheim,GER-BL1,23-24,9fe2f393
+0cbf4c54,Norman Theuerkauf,30,GER,DM,37-108,90,0,0,0,0,0,0,0,0,45,2,1,2,0.0,0.0,0.0,2,0,32,38,84.2,1,27,1,0,0,Heidenheim,2024-05-11 Freiburg-Heidenheim,GER-BL1,23-24,9fe2f393
+932bfcac,Jan Schöppner,3,GER,DM,24-334,90,0,0,0,0,1,1,0,0,37,0,2,1,0.0,0.0,0.0,0,0,17,25,68.0,2,10,1,0,0,Heidenheim,2024-05-11 Freiburg-Heidenheim,GER-BL1,23-24,9fe2f393
+1b4be8eb,Jonas Föhrenbach,19,GER,LB,28-106,65,0,0,0,0,1,0,0,0,42,0,2,1,0.1,0.1,0.0,1,0,27,37,73.0,2,15,1,1,0,Heidenheim,2024-05-11 Freiburg-Heidenheim,GER-BL1,23-24,9fe2f393
+75402e99,Lennard Maloney,33,USA,LB,24-216,25,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,5,7,71.4,0,3,0,0,0,Heidenheim,2024-05-11 Freiburg-Heidenheim,GER-BL1,23-24,9fe2f393
+e5f76710,Benedikt Gimber,5,GER,CB,27-082,90,0,0,0,0,2,1,0,0,69,3,1,1,0.1,0.1,0.0,0,0,52,55,94.5,2,45,0,0,0,Heidenheim,2024-05-11 Freiburg-Heidenheim,GER-BL1,23-24,9fe2f393
+dd9caa07,Patrick Mainka,6,GER,CB,29-187,90,0,0,0,0,1,0,0,0,74,0,2,1,0.1,0.1,0.0,2,0,60,66,90.9,3,51,2,0,0,Heidenheim,2024-05-11 Freiburg-Heidenheim,GER-BL1,23-24,9fe2f393
+f44e8a73,Omar Traoré,23,GER,RB,26-097,90,0,0,0,0,0,0,0,0,53,4,1,1,0.0,0.0,0.0,3,1,31,41,75.6,5,25,4,3,1,Heidenheim,2024-05-11 Freiburg-Heidenheim,GER-BL1,23-24,9fe2f393
+f256f213,Kevin Müller,1,GER,GK,33-057,90,0,0,0,0,0,0,0,0,54,1,0,0,0.0,0.0,0.0,0,0,43,52,82.7,0,32,0,0,0,Heidenheim,2024-05-11 Freiburg-Heidenheim,GER-BL1,23-24,9fe2f393

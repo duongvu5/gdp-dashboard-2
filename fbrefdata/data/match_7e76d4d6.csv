@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+5eae500a,Romelu Lukaku,9,BEL,FW,26-135,82,0,0,0,0,4,0,0,0,31,1,0,0,0.2,0.2,0.0,2,0,15,23,65.2,1,19,2,0,0,Internazionale,2019-09-25 Inter-Lazio,ITA-SERIA_A,19-20,7e76d4d6
+2c0f8e9e,Alexis Sánchez,7,CHI,FW,30-280,8,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,2,0,5,7,71.4,1,10,2,0,0,Internazionale,2019-09-25 Inter-Lazio,ITA-SERIA_A,19-20,7e76d4d6
+5e861944,Matteo Politano,16,ITA,FW,26-053,76,0,0,0,0,3,1,0,0,39,0,0,1,0.1,0.1,0.0,2,0,17,25,68.0,0,29,2,4,2,Internazionale,2019-09-25 Inter-Lazio,ITA-SERIA_A,19-20,7e76d4d6
+f7036e1c,Lautaro Martínez,10,ARG,FW,22-034,14,0,0,0,0,3,0,1,0,13,1,1,0,0.3,0.3,0.0,0,0,3,6,50.0,1,7,1,0,0,Internazionale,2019-09-25 Inter-Lazio,ITA-SERIA_A,19-20,7e76d4d6
+44ac04e9,Matías Vecino,8,URU,AM,28-032,56,0,0,0,0,1,0,0,0,32,1,0,0,0.1,0.1,0.0,2,1,21,29,72.4,2,28,0,0,0,Internazionale,2019-09-25 Inter-Lazio,ITA-SERIA_A,19-20,7e76d4d6
+b70bde8f,Stefano Sensi,12,ITA,AM,24-051,34,0,0,0,0,1,0,0,0,44,1,2,3,0.0,0.0,0.1,1,0,24,34,70.6,5,25,3,1,1,Internazionale,2019-09-25 Inter-Lazio,ITA-SERIA_A,19-20,7e76d4d6
+33b8d077,Marcelo Brozović,77,CRO,CM,26-313,90,0,0,0,0,0,0,0,0,102,4,4,1,0.0,0.0,0.0,2,0,79,90,87.8,7,69,1,1,1,Internazionale,2019-09-25 Inter-Lazio,ITA-SERIA_A,19-20,7e76d4d6
+6928979a,Nicolò Barella,23,ITA,CM,22-230,90,0,0,0,0,1,1,0,0,94,3,0,0,0.4,0.4,0.2,8,0,71,83,85.5,11,70,3,4,2,Internazionale,2019-09-25 Inter-Lazio,ITA-SERIA_A,19-20,7e76d4d6
+9e1577aa,Cristiano Biraghi,34,ITA,WB,27-024,90,0,1,0,0,0,0,0,0,60,1,0,2,0.0,0.0,0.5,3,1,43,56,76.8,3,36,3,0,0,Internazionale,2019-09-25 Inter-Lazio,ITA-SERIA_A,19-20,7e76d4d6
+44eb9093,Danilo D'Ambrosio,33,ITA,WB,31-016,90,1,0,0,0,1,1,1,0,74,1,1,0,0.4,0.4,0.1,2,0,60,66,90.9,5,43,1,1,0,Internazionale,2019-09-25 Inter-Lazio,ITA-SERIA_A,19-20,7e76d4d6
+30f5ffa9,Milan Škriniar,37,SVK,CB,24-226,90,0,0,0,0,0,0,0,0,108,1,0,0,0.0,0.0,0.0,1,0,95,101,94.1,2,84,1,0,0,Internazionale,2019-09-25 Inter-Lazio,ITA-SERIA_A,19-20,7e76d4d6
+d0d8dd44,Stefan de Vrij,6,NED,CB,27-232,90,0,0,0,0,1,0,0,0,99,1,3,4,0.1,0.1,0.0,0,0,85,88,96.6,1,79,0,1,1,Internazionale,2019-09-25 Inter-Lazio,ITA-SERIA_A,19-20,7e76d4d6
+fc4f85b1,Diego Godín,2,URU,CB,33-221,90,0,0,0,0,0,0,0,0,99,1,4,1,0.0,0.0,0.0,2,0,77,91,84.6,7,68,3,1,1,Internazionale,2019-09-25 Inter-Lazio,ITA-SERIA_A,19-20,7e76d4d6
+74419746,Samir Handanović,1,SVN,GK,35-073,90,0,0,0,0,0,0,0,0,31,0,0,0,0.0,0.0,0.0,0,0,28,29,96.6,0,17,0,0,0,Internazionale,2019-09-25 Inter-Lazio,ITA-SERIA_A,19-20,7e76d4d6
+45b9b619,Joaquín Correa,11,ARG,FW,25-043,90,0,0,0,0,6,3,0,0,44,2,0,0,0.9,0.9,0.2,4,0,22,30,73.3,2,26,2,3,3,Lazio,2019-09-25 Inter-Lazio,ITA-SERIA_A,19-20,7e76d4d6
+93b891d1,Felipe Caicedo,20,ECU,FW,31-020,52,0,0,0,0,0,0,0,0,20,1,0,1,0.0,0.0,0.6,4,0,14,15,93.3,2,13,0,1,0,Lazio,2019-09-25 Inter-Lazio,ITA-SERIA_A,19-20,7e76d4d6
+4431aed2,Ciro Immobile,17,ITA,FW,29-217,38,0,0,0,0,1,0,0,0,17,1,1,0,0.1,0.1,0.0,0,0,6,9,66.7,2,9,1,1,0,Lazio,2019-09-25 Inter-Lazio,ITA-SERIA_A,19-20,7e76d4d6
+5294a83f,Luis Alberto,10,ESP,CM,26-362,65,0,0,0,0,1,0,1,0,52,1,0,0,0.1,0.1,0.1,4,0,38,44,86.4,6,29,3,3,2,Lazio,2019-09-25 Inter-Lazio,ITA-SERIA_A,19-20,7e76d4d6
+4c78b5ed,Lucas Leiva,6,BRA,CM,32-259,25,0,0,0,0,0,0,0,0,24,0,0,1,0.0,0.0,0.0,0,0,15,19,78.9,4,10,1,0,0,Lazio,2019-09-25 Inter-Lazio,ITA-SERIA_A,19-20,7e76d4d6
+ed5886d2,Marco Parolo,16,ITA,CM,34-243,90,0,0,0,0,0,0,1,0,38,3,0,1,0.0,0.0,0.1,1,0,27,28,96.4,3,12,0,0,0,Lazio,2019-09-25 Inter-Lazio,ITA-SERIA_A,19-20,7e76d4d6
+4e6dbac4,Sergej Milinković-Savić,21,SRB,CM,24-210,72,0,0,0,0,1,0,0,0,58,2,1,3,0.1,0.1,0.0,3,0,30,43,69.8,5,31,1,2,1,Lazio,2019-09-25 Inter-Lazio,ITA-SERIA_A,19-20,7e76d4d6
+d5575935,Valon Berisha,7,KVX,CM,26-230,18,0,0,0,0,0,0,0,0,6,1,0,0,0.0,0.0,0.0,0,0,3,4,75.0,0,2,1,0,0,Lazio,2019-09-25 Inter-Lazio,ITA-SERIA_A,19-20,7e76d4d6
+244f57b9,Jony,22,ESP,WB,28-078,90,0,0,0,0,0,0,0,0,51,1,3,2,0.0,0.0,0.1,1,0,25,40,62.5,0,17,1,1,0,Lazio,2019-09-25 Inter-Lazio,ITA-SERIA_A,19-20,7e76d4d6
+02caf6e0,Manuel Lazzari,29,ITA,WB,25-300,90,0,0,0,0,0,0,0,0,27,0,0,0,0.0,0.0,0.0,0,0,17,21,81.0,1,13,2,0,0,Lazio,2019-09-25 Inter-Lazio,ITA-SERIA_A,19-20,7e76d4d6
+c01c66d9,Bastos,15,ANG,CB,28-182,90,0,0,0,0,1,1,1,0,65,2,5,4,0.1,0.1,0.0,0,0,32,38,84.2,2,28,2,6,4,Lazio,2019-09-25 Inter-Lazio,ITA-SERIA_A,19-20,7e76d4d6
+b96b595c,Francesco Acerbi,33,ITA,CB,31-227,90,0,0,0,0,0,0,0,0,65,2,3,2,0.0,0.0,0.1,1,0,45,56,80.4,10,31,1,1,1,Lazio,2019-09-25 Inter-Lazio,ITA-SERIA_A,19-20,7e76d4d6
+15d0c248,Luiz Felipe,3,ITA,CB,22-187,90,0,0,0,0,0,0,0,0,44,1,3,1,0.0,0.0,0.0,0,0,28,33,84.8,0,19,1,1,1,Lazio,2019-09-25 Inter-Lazio,ITA-SERIA_A,19-20,7e76d4d6
+339fe0e8,Thomas Strakosha,1,ALB,GK,24-190,90,0,0,0,0,0,0,0,0,27,0,0,0,0.0,0.0,0.0,0,0,16,25,64.0,0,9,0,0,0,Lazio,2019-09-25 Inter-Lazio,ITA-SERIA_A,19-20,7e76d4d6

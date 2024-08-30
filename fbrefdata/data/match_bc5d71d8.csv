@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+8c90fd7a,Victor Osimhen,9,NGA,FW,23-137,90,1,0,0,0,3,3,0,0,31,0,0,1,0.7,0.7,0.0,3,0,17,21,81.0,2,17,1,4,1,Napoli,2022-05-15 Napoli-Genoa,ITA-SERIA_A,21-22,bc5d71d8
+2f557579,Lorenzo Insigne,24,ITA,LW,30-345,87,1,0,1,1,4,1,0,0,76,0,0,2,1.2,0.4,0.1,9,1,49,62,79.0,10,35,4,5,3,Napoli,2022-05-15 Napoli-Genoa,ITA-SERIA_A,21-22,bc5d71d8
+cf007308,Elif Elmas,7,MKD,LW,22-233,3,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Napoli,2022-05-15 Napoli-Genoa,ITA-SERIA_A,21-22,bc5d71d8
+a69e4806,Hirving Lozano,11,MEX,RW,26-289,90,0,0,0,0,2,0,0,0,41,4,1,0,0.1,0.1,0.1,2,0,26,32,81.3,4,24,4,1,1,Napoli,2022-05-15 Napoli-Genoa,ITA-SERIA_A,21-22,bc5d71d8
+89b2c8a9,Dries Mertens,14,BEL,AM,35-009,72,0,0,0,0,3,2,0,0,52,2,0,0,0.2,0.2,0.9,7,0,36,47,76.6,11,18,2,1,0,Napoli,2022-05-15 Napoli-Genoa,ITA-SERIA_A,21-22,bc5d71d8
+a5296e55,Piotr Zieliński,20,POL,AM,27-360,18,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,1,0,6,7,85.7,2,3,2,1,0,Napoli,2022-05-15 Napoli-Genoa,ITA-SERIA_A,21-22,bc5d71d8
+c0c7ff58,Fabián Ruiz Peña,8,ESP,DM,26-042,72,0,0,0,0,1,1,0,0,77,2,1,2,0.1,0.1,0.0,0,0,63,68,92.6,8,23,5,1,1,Napoli,2022-05-15 Napoli-Genoa,ITA-SERIA_A,21-22,bc5d71d8
+e1cbb531,Stanislav Lobotka,68,SVK,DM,27-171,18,1,0,0,0,1,1,1,0,12,1,0,0,0.1,0.1,0.0,0,0,9,11,81.8,0,9,1,0,0,Napoli,2022-05-15 Napoli-Genoa,ITA-SERIA_A,21-22,bc5d71d8
+6bb2c084,Andre-Frank Zambo Anguissa,99,CMR,DM,26-180,82,0,0,0,0,0,0,0,0,59,2,0,2,0.0,0.0,0.1,1,1,46,49,93.9,7,26,3,6,6,Napoli,2022-05-15 Napoli-Genoa,ITA-SERIA_A,21-22,bc5d71d8
+dc3fa3b5,Diego Demme,4,GER,DM,30-175,8,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,3,3,100.0,0,3,0,0,0,Napoli,2022-05-15 Napoli-Genoa,ITA-SERIA_A,21-22,bc5d71d8
+0b5a292a,Mário Rui,6,POR,LB,30-353,72,0,0,0,0,0,0,0,0,63,1,0,2,0.0,0.0,0.0,0,0,39,57,68.4,2,19,0,0,0,Napoli,2022-05-15 Napoli-Genoa,ITA-SERIA_A,21-22,bc5d71d8
+c5adc293,Faouzi Ghoulam,31,ALG,LB,31-103,18,0,0,0,0,0,0,0,0,14,0,0,1,0.0,0.0,0.0,1,0,10,12,83.3,1,7,0,0,0,Napoli,2022-05-15 Napoli-Genoa,ITA-SERIA_A,21-22,bc5d71d8
+da974c7b,Kalidou Koulibaly,26,SEN,CB,30-329,90,0,0,0,0,0,0,0,0,69,1,0,2,0.0,0.0,0.0,0,0,45,57,78.9,1,24,0,2,1,Napoli,2022-05-15 Napoli-Genoa,ITA-SERIA_A,21-22,bc5d71d8
+4b3e1a38,Amir Rrahmani,13,KVX,CB,28-080,90,0,0,0,0,0,0,0,0,68,0,1,0,0.0,0.0,0.0,2,2,58,64,90.6,1,28,0,0,0,Napoli,2022-05-15 Napoli-Genoa,ITA-SERIA_A,21-22,bc5d71d8
+230a2fac,Giovanni Di Lorenzo,22,ITA,RB,28-284,90,0,1,0,0,2,0,0,0,67,3,1,1,0.1,0.1,0.1,3,1,46,54,85.2,5,19,1,1,0,Napoli,2022-05-15 Napoli-Genoa,ITA-SERIA_A,21-22,bc5d71d8
+82b1198a,David Ospina,25,COL,GK,33-257,90,0,0,0,0,0,0,0,0,32,0,0,0,0.0,0.0,0.0,0,0,27,30,90.0,0,19,0,0,0,Napoli,2022-05-15 Napoli-Genoa,ITA-SERIA_A,21-22,bc5d71d8
+ea0893d6,Kelvin Yeboah,45,ITA,"FW,LM",22-009,90,0,0,0,0,1,0,0,0,31,1,0,3,0.1,0.1,0.1,6,0,12,16,75.0,0,19,1,2,1,Genoa,2022-05-15 Napoli-Genoa,ITA-SERIA_A,21-22,bc5d71d8
+b79858d5,Albert Guðmundsson,11,ISL,"LW,LM",24-334,73,0,0,0,0,3,0,0,0,29,0,2,0,0.1,0.1,0.0,1,0,16,20,80.0,1,24,1,2,1,Genoa,2022-05-15 Napoli-Genoa,ITA-SERIA_A,21-22,bc5d71d8
+d7d32194,Mattia Destro,23,ITA,FW,31-056,17,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,1,0,Genoa,2022-05-15 Napoli-Genoa,ITA-SERIA_A,21-22,bc5d71d8
+c8c0dccd,Manolo Portanova,90,ITA,RW,21-347,55,0,0,0,0,2,1,0,0,18,0,1,0,0.8,0.8,0.0,1,0,6,9,66.7,1,13,1,1,1,Genoa,2022-05-15 Napoli-Genoa,ITA-SERIA_A,21-22,bc5d71d8
+7afbd2c3,Caleb Ekuban,20,GHA,RM,28-053,35,0,0,0,0,0,0,0,0,16,0,0,0,0.0,0.0,0.0,1,0,7,12,58.3,1,11,0,1,0,Genoa,2022-05-15 Napoli-Genoa,ITA-SERIA_A,21-22,bc5d71d8
+555d5edd,Nadiem Amiri,8,GER,"AM,FW",25-200,90,0,0,0,0,2,1,0,0,45,0,0,0,0.1,0.1,0.8,5,0,28,35,80.0,3,34,3,2,0,Genoa,2022-05-15 Napoli-Genoa,ITA-SERIA_A,21-22,bc5d71d8
+e8c930bb,Milan Badelj,47,CRO,DM,33-079,23,0,0,0,0,0,0,0,0,20,2,4,1,0.0,0.0,0.0,0,0,9,11,81.8,2,7,0,1,1,Genoa,2022-05-15 Napoli-Genoa,ITA-SERIA_A,21-22,bc5d71d8
+f4d60499,Morten Frendrup,32,DEN,"RB,DM",21-038,67,0,0,0,0,0,0,0,0,24,1,2,3,0.0,0.0,0.0,0,0,11,16,68.8,1,7,0,0,0,Genoa,2022-05-15 Napoli-Genoa,ITA-SERIA_A,21-22,bc5d71d8
+dd403465,Pablo Galdames Millán,99,CHI,"DM,CM",25-136,73,0,0,0,0,0,0,1,0,25,0,1,1,0.0,0.0,0.0,0,0,14,21,66.7,4,14,0,0,0,Genoa,2022-05-15 Napoli-Genoa,ITA-SERIA_A,21-22,bc5d71d8
+6604165d,Filippo Melegoni,10,ITA,CM,23-086,17,0,0,0,0,0,0,0,0,13,2,0,0,0.0,0.0,0.0,2,0,8,9,88.9,1,7,1,1,1,Genoa,2022-05-15 Napoli-Genoa,ITA-SERIA_A,21-22,bc5d71d8
+35dd6d80,Domenico Criscito,4,ITA,LB,35-136,90,0,0,0,0,1,0,0,0,43,1,1,3,0.1,0.1,0.0,0,0,29,32,90.6,1,17,1,0,0,Genoa,2022-05-15 Napoli-Genoa,ITA-SERIA_A,21-22,bc5d71d8
+b35a7399,Leo Skiri Østigård,55,NOR,CB,22-168,90,0,0,0,0,0,0,0,0,44,2,1,0,0.0,0.0,0.0,0,0,29,35,82.9,3,29,1,0,0,Genoa,2022-05-15 Napoli-Genoa,ITA-SERIA_A,21-22,bc5d71d8
+0821331c,Mattia Bani,13,ITA,CB,28-156,90,0,0,0,0,0,0,0,0,37,2,1,0,0.0,0.0,0.0,1,0,20,26,76.9,1,21,0,0,0,Genoa,2022-05-15 Napoli-Genoa,ITA-SERIA_A,21-22,bc5d71d8
+f8342731,Silvan Hefti,36,SUI,RB,24-202,55,0,0,0,0,0,0,0,0,22,2,0,0,0.0,0.0,0.0,0,0,12,13,92.3,2,9,1,2,1,Genoa,2022-05-15 Napoli-Genoa,ITA-SERIA_A,21-22,bc5d71d8
+6f5ead86,Hernani,33,BRA,CM,28-049,35,0,0,0,0,2,1,0,0,17,0,1,1,0.1,0.1,0.0,0,0,9,12,75.0,2,9,1,0,0,Genoa,2022-05-15 Napoli-Genoa,ITA-SERIA_A,21-22,bc5d71d8
+10dc46f0,Salvatore Sirigu,57,ITA,GK,35-123,90,0,0,0,0,0,0,0,0,31,1,0,0,0.0,0.0,0.0,0,0,14,28,50.0,0,19,0,0,0,Genoa,2022-05-15 Napoli-Genoa,ITA-SERIA_A,21-22,bc5d71d8

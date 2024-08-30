@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+e7f4869a,Oscar Vilhelmsson,29,SWE,FW,20-019,63,0,0,0,0,1,0,0,0,14,0,0,0,0.1,0.1,0.0,1,0,4,10,40.0,0,5,0,1,0,Darmstadt 98,2023-10-21 Darmstadt 98-RB Leipzig,GER-BL1,23-24,48110abe
+3dbdbb6a,Mathias Honsak,18,AUT,FW,26-305,27,0,0,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.0,1,0,5,7,71.4,0,7,1,1,0,Darmstadt 98,2023-10-21 Darmstadt 98-RB Leipzig,GER-BL1,23-24,48110abe
+83e1f40e,Luca Pfeiffer,24,GER,FW,27-062,63,0,0,0,0,3,2,0,0,18,2,0,0,0.3,0.3,0.0,0,0,5,10,50.0,2,8,0,1,0,Darmstadt 98,2023-10-21 Darmstadt 98-RB Leipzig,GER-BL1,23-24,48110abe
+29aee77c,Fraser Hornby,9,SCO,FW,24-038,27,0,0,0,0,0,0,0,0,15,0,0,0,0.0,0.0,0.0,0,0,6,12,50.0,0,5,1,0,0,Darmstadt 98,2023-10-21 Darmstadt 98-RB Leipzig,GER-BL1,23-24,48110abe
+10876d02,Marvin Mehlem,6,GER,AM,26-040,90,0,0,0,0,5,1,0,0,37,1,1,2,0.8,0.8,0.0,4,1,16,23,69.6,1,16,2,0,0,Darmstadt 98,2023-10-21 Darmstadt 98-RB Leipzig,GER-BL1,23-24,48110abe
+017018d1,Fabian Holland,32,GER,CM,33-102,57,0,0,0,0,0,0,1,0,26,3,1,1,0.0,0.0,0.0,0,0,13,19,68.4,3,13,0,0,0,Darmstadt 98,2023-10-21 Darmstadt 98-RB Leipzig,GER-BL1,23-24,48110abe
+8575037f,Fabian Schnellhardt,8,GER,CM,29-282,33,0,0,0,0,1,0,0,0,22,1,1,1,0.1,0.1,0.0,2,0,16,18,88.9,3,9,2,1,1,Darmstadt 98,2023-10-21 Darmstadt 98-RB Leipzig,GER-BL1,23-24,48110abe
+d7cdfd81,Tobias Kempe,11,GER,CM,34-116,90,1,0,1,1,2,0,0,0,44,0,0,0,0.9,0.1,0.6,11,1,29,39,74.4,4,17,2,0,0,Darmstadt 98,2023-10-21 Darmstadt 98-RB Leipzig,GER-BL1,23-24,48110abe
+178018f9,Fabian Nürnberger,15,GER,WB,24-085,90,0,0,0,0,1,0,1,0,63,1,2,0,0.1,0.1,0.6,3,0,49,57,86.0,6,36,3,3,1,Darmstadt 98,2023-10-21 Darmstadt 98-RB Leipzig,GER-BL1,23-24,48110abe
+65857fdf,Tim Skarke,27,GER,WB,27-044,90,0,0,0,0,2,0,1,0,64,1,0,1,0.1,0.1,0.0,4,0,37,55,67.3,3,40,6,3,3,Darmstadt 98,2023-10-21 Darmstadt 98-RB Leipzig,GER-BL1,23-24,48110abe
+36cf2caf,Matej Maglica,5,CRO,CB,25-026,90,0,0,0,0,0,0,1,0,76,1,1,2,0.0,0.0,0.0,0,0,45,65,69.2,7,43,0,1,0,Darmstadt 98,2023-10-21 Darmstadt 98-RB Leipzig,GER-BL1,23-24,48110abe
+796a5f30,Jannik Müller,20,GER,CB,29-276,90,0,0,0,0,0,0,1,0,60,2,1,2,0.0,0.0,0.0,1,0,40,46,87.0,2,26,0,0,0,Darmstadt 98,2023-10-21 Darmstadt 98-RB Leipzig,GER-BL1,23-24,48110abe
+144e8717,Christoph Klarer,14,AUT,CB,23-129,63,0,0,0,0,1,0,1,0,47,3,2,1,0.1,0.1,0.0,2,0,31,37,83.8,3,15,0,0,0,Darmstadt 98,2023-10-21 Darmstadt 98-RB Leipzig,GER-BL1,23-24,48110abe
+431c837b,Klaus Gjasula,23,ALB,CB,33-311,27,0,0,0,0,1,0,0,0,27,0,0,0,0.1,0.1,0.0,0,0,19,24,79.2,3,15,0,0,0,Darmstadt 98,2023-10-21 Darmstadt 98-RB Leipzig,GER-BL1,23-24,48110abe
+5fa2e0cf,Marcel Schuhen,1,GER,GK,30-281,90,0,0,0,0,0,0,0,0,57,0,0,0,0.0,0.0,0.0,0,0,45,55,81.8,0,33,0,0,0,Darmstadt 98,2023-10-21 Darmstadt 98-RB Leipzig,GER-BL1,23-24,48110abe
+d2416c2e,Yussuf Poulsen,9,DEN,FW,29-128,90,0,0,0,0,2,2,0,0,33,2,0,0,0.3,0.3,0.0,3,0,15,20,75.0,0,21,1,3,2,RB Leipzig,2023-10-21 Darmstadt 98-RB Leipzig,GER-BL1,23-24,48110abe
+8652a85c,Loïs Openda,17,BEL,FW,23-247,79,2,0,0,0,3,3,1,0,23,0,0,0,1.0,1.0,0.0,3,2,8,13,61.5,3,13,1,2,0,RB Leipzig,2023-10-21 Darmstadt 98-RB Leipzig,GER-BL1,23-24,48110abe
+49fe9070,Timo Werner,11,GER,FW,27-229,11,0,0,0,0,1,1,0,0,8,0,0,1,0.4,0.4,0.0,1,0,4,6,66.7,0,5,3,1,0,RB Leipzig,2023-10-21 Darmstadt 98-RB Leipzig,GER-BL1,23-24,48110abe
+da4d670f,Xavi Simons,20,NED,AM,20-183,79,0,0,0,0,0,0,0,0,31,0,1,0,0.0,0.0,0.2,3,1,18,25,72.0,3,26,4,4,1,RB Leipzig,2023-10-21 Darmstadt 98-RB Leipzig,GER-BL1,23-24,48110abe
+ae44e8e2,Dani Olmo,7,ESP,AM,25-167,11,0,0,0,0,1,0,0,0,7,0,0,0,0.1,0.1,0.4,1,0,2,4,50.0,1,5,0,0,0,RB Leipzig,2023-10-21 Darmstadt 98-RB Leipzig,GER-BL1,23-24,48110abe
+9a2e0ccc,Emil Forsberg,10,SWE,AM,31-363,61,1,0,0,0,2,1,0,0,25,1,0,0,0.1,0.1,0.0,1,1,9,16,56.3,2,17,0,0,0,RB Leipzig,2023-10-21 Darmstadt 98-RB Leipzig,GER-BL1,23-24,48110abe
+437f2b00,Christoph Baumgartner,14,AUT,AM,24-081,29,0,1,0,0,0,0,0,0,15,2,0,0,0.0,0.0,0.4,1,0,5,7,71.4,1,8,1,0,0,RB Leipzig,2023-10-21 Darmstadt 98-RB Leipzig,GER-BL1,23-24,48110abe
+b825a650,Kevin Kampl,44,SVN,DM,33-012,90,0,0,0,0,0,0,1,0,34,1,1,0,0.0,0.0,0.4,1,0,20,27,74.1,4,13,1,0,0,RB Leipzig,2023-10-21 Darmstadt 98-RB Leipzig,GER-BL1,23-24,48110abe
+92432bc6,Amadou Haidara,8,MLI,DM,25-263,61,0,0,0,0,0,0,0,0,27,1,1,2,0.0,0.0,0.1,1,1,13,20,65.0,4,5,0,0,0,RB Leipzig,2023-10-21 Darmstadt 98-RB Leipzig,GER-BL1,23-24,48110abe
+28c6e925,Nicolas Seiwald,13,AUT,DM,22-170,29,0,0,0,0,0,0,0,0,6,1,0,0,0.0,0.0,0.0,0,0,2,5,40.0,0,1,0,0,0,RB Leipzig,2023-10-21 Darmstadt 98-RB Leipzig,GER-BL1,23-24,48110abe
+7d450ed3,David Raum,22,GER,LB,25-182,90,0,0,0,0,1,0,1,0,55,1,0,0,0.0,0.0,0.0,0,0,29,49,59.2,3,30,0,1,0,RB Leipzig,2023-10-21 Darmstadt 98-RB Leipzig,GER-BL1,23-24,48110abe
+5b9512c5,Castello Lukeba,23,FRA,CB,20-308,90,0,0,0,0,0,0,0,0,37,1,0,2,0.0,0.0,0.0,0,0,23,28,82.1,1,15,0,2,0,RB Leipzig,2023-10-21 Darmstadt 98-RB Leipzig,GER-BL1,23-24,48110abe
+fcb27134,Mohamed Simakan,2,FRA,CB,23-171,90,0,0,0,0,0,0,0,0,50,2,2,5,0.0,0.0,0.0,0,0,24,35,68.6,1,23,1,0,0,RB Leipzig,2023-10-21 Darmstadt 98-RB Leipzig,GER-BL1,23-24,48110abe
+0a89e877,Benjamin Henrichs,39,GER,RB,26-240,61,0,1,0,0,0,0,0,0,41,0,1,0,0.0,0.0,0.3,2,1,29,38,76.3,1,26,2,1,0,RB Leipzig,2023-10-21 Darmstadt 98-RB Leipzig,GER-BL1,23-24,48110abe
+ca8033cb,Lukas Klostermann,16,GER,RB,27-140,29,0,0,0,0,0,0,0,0,23,0,1,1,0.0,0.0,0.0,0,0,9,15,60.0,1,3,0,0,0,RB Leipzig,2023-10-21 Darmstadt 98-RB Leipzig,GER-BL1,23-24,48110abe
+663e080e,Janis Blaswich,21,GER,GK,32-172,90,0,0,0,0,0,0,0,0,53,0,0,0,0.0,0.0,0.0,0,0,28,50,56.0,0,32,0,0,0,RB Leipzig,2023-10-21 Darmstadt 98-RB Leipzig,GER-BL1,23-24,48110abe

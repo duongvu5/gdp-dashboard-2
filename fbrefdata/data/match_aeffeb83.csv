@@ -1,0 +1,31 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+b0c71810,Sofiane Boufal,7,MAR,FW,28-044,90,1,0,1,1,1,0,0,0,33,1,0,0,1.0,0.2,0.0,1,1,9,23,39.1,1,25,1,1,1,Angers,2021-10-31 Angers-Nice,FRA-L1,21-22,aeffeb83
+f8405304,Mohamed Ali Cho,21,FRA,FW,17-285,74,0,0,0,0,0,0,0,0,12,0,0,0,0.0,0.0,0.2,2,0,5,6,83.3,2,7,0,1,1,Angers,2021-10-31 Angers-Nice,FRA-L1,21-22,aeffeb83
+02bcaf8e,Bilal Brahimi,14,ALG,FW,21-231,16,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.2,1,0,2,2,100.0,0,3,1,1,0,Angers,2021-10-31 Angers-Nice,FRA-L1,21-22,aeffeb83
+4b96c347,Angelo Fulgini,10,FRA,AM,25-072,83,0,0,0,0,1,1,1,0,40,1,0,1,0.2,0.2,0.0,0,0,24,31,77.4,2,28,1,6,2,Angers,2021-10-31 Angers-Nice,FRA-L1,21-22,aeffeb83
+83299cc0,Azzedine Ounahi,18,MAR,AM,21-195,7,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,1,0,0,0,Angers,2021-10-31 Angers-Nice,FRA-L1,21-22,aeffeb83
+c801616a,Thomas Mangani,5,FRA,CM,34-185,90,0,0,0,0,0,0,0,0,35,1,1,1,0.0,0.0,0.0,0,0,24,28,85.7,1,22,0,0,0,Angers,2021-10-31 Angers-Nice,FRA-L1,21-22,aeffeb83
+e472a6f6,Batista Mendy,2,FRA,CM,21-292,90,0,0,0,0,0,0,0,0,40,2,3,1,0.0,0.0,0.0,0,0,22,30,73.3,1,20,0,0,0,Angers,2021-10-31 Angers-Nice,FRA-L1,21-22,aeffeb83
+9daeac61,Souleyman Doumbia,3,CIV,WB,25-037,73,0,0,0,0,0,0,0,0,37,1,2,1,0.0,0.0,0.0,0,0,24,30,80.0,1,27,1,2,0,Angers,2021-10-31 Angers-Nice,FRA-L1,21-22,aeffeb83
+79b2399c,Pierrick Capelle,15,FRA,WB,34-199,17,0,0,0,0,0,0,0,0,13,1,0,0,0.0,0.0,0.0,1,0,6,11,54.5,0,3,0,0,0,Angers,2021-10-31 Angers-Nice,FRA-L1,21-22,aeffeb83
+46359159,Jimmy Cabot,11,FRA,WB,27-196,73,0,0,0,0,0,0,0,0,53,3,1,2,0.0,0.0,0.0,0,0,33,46,71.7,1,31,2,3,2,Angers,2021-10-31 Angers-Nice,FRA-L1,21-22,aeffeb83
+8846a40f,Mathias Pereira Lage,27,POR,WB,24-335,17,0,0,0,0,0,0,0,0,7,0,0,1,0.0,0.0,0.0,0,0,2,5,40.0,0,4,0,0,0,Angers,2021-10-31 Angers-Nice,FRA-L1,21-22,aeffeb83
+275e2c51,Romain Thomas,24,FRA,CB,33-141,90,0,0,0,0,0,0,0,0,80,2,2,1,0.0,0.0,0.0,0,0,54,66,81.8,0,54,0,1,0,Angers,2021-10-31 Angers-Nice,FRA-L1,21-22,aeffeb83
+b666421b,Ismaël Traoré,8,CIV,CB,35-074,90,0,0,0,0,0,0,0,0,66,1,3,1,0.0,0.0,0.0,0,0,47,52,90.4,1,43,0,0,0,Angers,2021-10-31 Angers-Nice,FRA-L1,21-22,aeffeb83
+c26a3918,Vincent Manceau,29,FRA,CB,32-113,90,0,0,0,0,0,0,0,0,77,0,1,1,0.0,0.0,0.0,1,1,52,63,82.5,3,60,0,1,1,Angers,2021-10-31 Angers-Nice,FRA-L1,21-22,aeffeb83
+28dabd43,Paul Bernardoni,1,FRA,GK,24-196,90,0,0,0,0,0,0,0,0,38,0,0,0,0.0,0.0,0.0,0,0,23,36,63.9,0,20,0,0,0,Angers,2021-10-31 Angers-Nice,FRA-L1,21-22,aeffeb83
+aad56ca3,Amine Gouiri,11,ALG,FW,21-257,90,0,1,0,0,2,2,0,0,64,1,0,0,0.1,0.1,0.0,6,1,41,55,74.5,7,51,6,4,4,Nice,2021-10-31 Angers-Nice,FRA-L1,21-22,aeffeb83
+d33c706e,Andy Delort,7,ALG,FW,30-022,90,2,0,0,0,4,2,0,0,44,1,0,1,0.1,0.1,0.0,2,2,19,35,54.3,4,27,0,0,0,Nice,2021-10-31 Angers-Nice,FRA-L1,21-22,aeffeb83
+19a12bed,Hassane Kamara,13,CIV,LM,27-240,64,0,0,0,0,0,0,1,0,44,1,0,2,0.0,0.0,0.0,0,0,32,37,86.5,1,24,3,3,1,Nice,2021-10-31 Angers-Nice,FRA-L1,21-22,aeffeb83
+741418c3,Alexis Claude-Maurice,10,FRA,LM,23-147,26,0,0,0,0,2,0,0,0,25,0,1,0,0.2,0.2,0.0,2,1,15,17,88.2,1,14,0,1,1,Nice,2021-10-31 Angers-Nice,FRA-L1,21-22,aeffeb83
+2b471f99,Mario Lemina,18,GAB,CM,28-060,90,0,0,0,0,1,0,0,0,101,2,2,1,0.0,0.0,0.0,2,0,83,93,89.2,13,68,1,0,0,Nice,2021-10-31 Angers-Nice,FRA-L1,21-22,aeffeb83
+1a6b7ea4,Pablo Rosario,8,NED,CM,24-297,73,0,0,0,0,0,0,0,0,76,4,0,0,0.0,0.0,0.0,1,0,62,71,87.3,2,46,0,2,2,Nice,2021-10-31 Angers-Nice,FRA-L1,21-22,aeffeb83
+7d9397f8,Khéphren Thuram,19,FRA,CM,20-219,17,0,0,0,0,0,0,0,0,27,0,1,1,0.0,0.0,0.0,0,0,21,25,84.0,2,18,0,0,0,Nice,2021-10-31 Angers-Nice,FRA-L1,21-22,aeffeb83
+007faf7a,Lucas Da Cunha,29,FRA,RM,20-144,72,0,0,0,0,3,0,0,0,40,1,0,0,0.4,0.4,0.0,3,0,22,31,71.0,3,30,4,3,2,Nice,2021-10-31 Angers-Nice,FRA-L1,21-22,aeffeb83
+f9d5908e,Hicham Boudaoui,28,ALG,RM,22-038,18,0,0,0,0,0,0,0,0,11,1,1,0,0.0,0.0,0.0,0,0,3,7,42.9,0,6,3,0,0,Nice,2021-10-31 Angers-Nice,FRA-L1,21-22,aeffeb83
+1ddbc7ca,Melvin Bard,26,FRA,LB,20-359,90,0,0,0,0,0,0,0,0,107,1,0,0,0.0,0.0,0.0,2,0,88,100,88.0,5,75,5,2,0,Nice,2021-10-31 Angers-Nice,FRA-L1,21-22,aeffeb83
+fd2bc67d,Dante,4,BRA,CB,38-013,90,0,0,0,0,0,0,1,0,97,1,1,1,0.0,0.0,0.1,1,0,87,94,92.6,3,68,0,0,0,Nice,2021-10-31 Angers-Nice,FRA-L1,21-22,aeffeb83
+88f130ed,Jean-Clair Todibo,25,FRA,CB,21-305,90,0,0,0,0,0,0,0,0,87,1,0,2,0.0,0.0,0.0,0,0,69,81,85.2,7,53,1,1,1,Nice,2021-10-31 Angers-Nice,FRA-L1,21-22,aeffeb83
+6a827d8e,Youcef Atal,20,ALG,RB,25-167,90,0,0,0,0,2,1,0,0,54,2,1,0,0.0,0.0,0.2,5,0,33,46,71.7,3,35,3,2,2,Nice,2021-10-31 Angers-Nice,FRA-L1,21-22,aeffeb83
+8a2248b4,Walter Benítez,40,ARG,GK,28-285,90,0,0,0,0,0,0,0,0,32,0,0,0,0.0,0.0,0.0,0,0,24,28,85.7,0,20,0,0,0,Nice,2021-10-31 Angers-Nice,FRA-L1,21-22,aeffeb83

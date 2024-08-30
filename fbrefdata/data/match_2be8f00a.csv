@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+f716e4e4,Nélson Oliveira,18,POR,FW,29-117,59,1,0,0,0,4,1,0,0,29,0,0,0,1.5,1.5,0.0,1,1,13,20,65.0,2,17,2,1,1,AEK Athens,2020-12-03 AEK Athens-Braga,UEL,20-21,2be8f00a
+50cddd19,Karim Ansarifard,11,IRN,FW,30-244,31,0,0,0,0,0,0,0,0,13,0,0,1,0.0,0.0,0.0,0,0,8,11,72.7,2,9,0,1,1,AEK Athens,2020-12-03 AEK Athens-Braga,UEL,20-21,2be8f00a
+6e5497ca,Marko Livaja,10,CRO,LW,27-099,90,0,0,0,0,2,1,0,0,43,0,0,2,0.1,0.1,0.1,2,0,18,35,51.4,5,27,0,2,1,AEK Athens,2020-12-03 AEK Athens-Braga,UEL,20-21,2be8f00a
+b39b2cba,Christos Almpanis,14,GRE,RW,26-028,59,0,0,0,0,1,0,0,0,29,1,0,1,0.0,0.0,0.6,1,0,13,17,76.5,1,17,0,3,2,AEK Athens,2020-12-03 AEK Athens-Braga,UEL,20-21,2be8f00a
+b44c39da,Muamer Tanković,17,SWE,RW,25-285,31,0,0,0,0,2,0,0,0,17,0,0,1,0.0,0.0,0.0,2,1,11,14,78.6,1,9,1,0,0,AEK Athens,2020-12-03 AEK Athens-Braga,UEL,20-21,2be8f00a
+88a9ea33,Petros Mantalos,20,GRE,LM,29-094,73,0,0,0,0,0,0,1,0,41,1,0,0,0.0,0.0,0.1,3,0,29,39,74.4,4,31,2,3,3,AEK Athens,2020-12-03 AEK Athens-Braga,UEL,20-21,2be8f00a
+5a9dab86,Levi Garcia,9,TRI,LM,23-013,17,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,3,5,60.0,1,4,0,1,0,AEK Athens,2020-12-03 AEK Athens-Braga,UEL,20-21,2be8f00a
+fd4ee68b,André Simões,8,POR,CM,30-353,90,0,0,0,0,0,0,0,0,72,2,2,1,0.0,0.0,0.1,3,0,54,62,87.1,10,42,0,0,0,AEK Athens,2020-12-03 AEK Athens-Braga,UEL,20-21,2be8f00a
+a8327abd,Konstantinos Galanopoulos,25,GRE,RM,22-341,90,0,0,0,0,0,0,0,0,43,0,2,3,0.0,0.0,0.0,1,0,34,37,91.9,12,29,1,1,0,AEK Athens,2020-12-03 AEK Athens-Braga,UEL,20-21,2be8f00a
+792c7b94,Emanuel Insúa,22,ARG,LB,29-237,90,0,0,0,0,0,0,1,0,58,1,1,0,0.0,0.0,0.0,1,0,38,54,70.4,7,37,2,1,1,AEK Athens,2020-12-03 AEK Athens-Braga,UEL,20-21,2be8f00a
+7e40455a,Ionuț Nedelcearu,5,ROU,CB,24-222,90,0,0,0,0,0,0,0,0,56,1,4,1,0.0,0.0,0.0,0,0,40,49,81.6,2,35,1,0,0,AEK Athens,2020-12-03 AEK Athens-Braga,UEL,20-21,2be8f00a
+3e8c66c3,Nassim El Hnid,26,TUN,CB,23-266,90,0,0,0,0,1,1,0,0,60,2,0,1,0.1,0.1,0.0,0,0,41,50,82.0,0,38,0,0,0,AEK Athens,2020-12-03 AEK Athens-Braga,UEL,20-21,2be8f00a
+50ccf47d,Michalis Bakakis,2,GRE,RB,29-260,45,0,0,0,0,0,0,0,0,31,1,4,0,0.0,0.0,0.0,0,0,16,23,69.6,2,14,1,1,1,AEK Athens,2020-12-03 AEK Athens-Braga,UEL,20-21,2be8f00a
+734b6a70,Stavros Vasilantonopoulos,88,GRE,RB,28-310,45,1,0,0,0,1,1,1,0,28,0,1,0,0.0,0.0,0.0,0,0,17,24,70.8,2,13,0,0,0,AEK Athens,2020-12-03 AEK Athens-Braga,UEL,20-21,2be8f00a
+705f5269,Panagiotis Tsintotas,1,GRE,GK,27-152,90,0,0,0,0,0,0,0,0,40,0,0,0,0.0,0.0,0.0,0,0,29,37,78.4,0,25,0,0,0,AEK Athens,2020-12-03 AEK Athens-Braga,UEL,20-21,2be8f00a
+a62c16d0,Paulinho,20,POR,FW,28-024,70,0,0,0,0,1,0,0,0,26,0,0,0,0.1,0.1,0.0,0,0,17,20,85.0,3,13,0,2,1,Braga,2020-12-03 AEK Athens-Braga,UEL,20-21,2be8f00a
+6b074beb,Guilherme Schettine,95,BRA,FW,25-054,20,0,0,0,0,0,0,0,0,6,0,0,1,0.0,0.0,0.0,0,0,4,5,80.0,0,2,0,0,0,Braga,2020-12-03 AEK Athens-Braga,UEL,20-21,2be8f00a
+6603fed7,Ricardo Horta,21,POR,AM,26-079,90,1,0,0,0,4,4,0,0,40,0,0,0,0.8,0.8,0.2,4,3,23,29,79.3,6,22,2,2,2,Braga,2020-12-03 AEK Athens-Braga,UEL,20-21,2be8f00a
+97e2aa67,Iuri Medeiros,45,POR,AM,26-146,55,0,1,0,0,0,0,0,0,27,1,0,1,0.0,0.0,0.6,3,1,14,19,73.7,2,14,0,4,2,Braga,2020-12-03 AEK Athens-Braga,UEL,20-21,2be8f00a
+951f1739,André Horta,15,POR,AM,24-026,35,0,0,0,0,2,0,0,0,25,0,0,3,0.1,0.1,0.1,3,0,17,19,89.5,5,13,1,2,2,Braga,2020-12-03 AEK Athens-Braga,UEL,20-21,2be8f00a
+37d0048f,André Castro,88,POR,CM,32-245,77,0,0,0,0,0,0,1,0,45,2,0,0,0.0,0.0,0.0,1,1,32,40,80.0,4,20,1,3,3,Braga,2020-12-03 AEK Athens-Braga,UEL,20-21,2be8f00a
+282faa70,João Novais,7,POR,CM,27-146,13,0,0,0,0,0,0,0,0,13,1,1,0,0.0,0.0,0.0,0,0,9,11,81.8,2,7,1,1,1,Braga,2020-12-03 AEK Athens-Braga,UEL,20-21,2be8f00a
+cd6a1a59,Almoatasem Al Musrati,8,LBY,CM,24-241,56,0,0,0,0,1,0,1,0,38,0,0,0,0.0,0.0,0.0,2,0,25,35,71.4,6,15,0,0,0,Braga,2020-12-03 AEK Athens-Braga,UEL,20-21,2be8f00a
+deba6b05,Fransérgio,27,BRA,CM,30-046,34,0,0,0,0,0,0,0,0,21,0,3,1,0.0,0.0,0.0,1,0,12,17,70.6,1,9,0,0,0,Braga,2020-12-03 AEK Athens-Braga,UEL,20-21,2be8f00a
+5b3d1a7a,Galeno,90,BRA,WB,23-042,90,1,2,0,0,2,2,0,0,42,0,1,0,0.1,0.1,1.0,6,2,25,31,80.6,2,21,3,5,3,Braga,2020-12-03 AEK Athens-Braga,UEL,20-21,2be8f00a
+12dcbdcc,Ricardo Esgaio,47,POR,WB,27-201,90,1,0,0,0,1,1,1,0,51,3,2,1,0.9,0.9,0.6,3,0,38,42,90.5,1,13,0,0,0,Braga,2020-12-03 AEK Athens-Braga,UEL,20-21,2be8f00a
+7a2cf111,Nuno Sequeira,5,POR,CB,30-106,90,0,0,0,0,0,0,0,0,64,4,3,0,0.0,0.0,0.0,1,0,36,52,69.2,0,22,3,1,1,Braga,2020-12-03 AEK Athens-Braga,UEL,20-21,2be8f00a
+c5ea2dab,Bruno Viana,36,BRA,CB,25-302,45,0,0,0,0,0,0,1,0,30,1,0,0,0.0,0.0,0.0,0,0,23,27,85.2,2,17,1,0,0,Braga,2020-12-03 AEK Athens-Braga,UEL,20-21,2be8f00a
+3ce20eda,David Carmo,16,ANG,CB,21-137,45,0,0,0,0,0,0,0,0,28,0,2,1,0.0,0.0,0.0,0,0,11,21,52.4,0,18,0,0,0,Braga,2020-12-03 AEK Athens-Braga,UEL,20-21,2be8f00a
+ed1cc44a,Vítor Tormena,3,BRA,CB,24-334,90,1,0,0,0,2,1,0,0,66,0,2,1,0.5,0.5,0.0,0,0,40,56,71.4,1,34,0,0,0,Braga,2020-12-03 AEK Athens-Braga,UEL,20-21,2be8f00a
+ef3909cd,Matheus,1,BRA,GK,28-137,90,0,0,0,0,0,0,0,0,49,0,0,0,0.0,0.0,0.0,0,0,33,46,71.7,0,23,0,0,0,Braga,2020-12-03 AEK Athens-Braga,UEL,20-21,2be8f00a

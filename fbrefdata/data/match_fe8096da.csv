@@ -1,0 +1,32 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+0d7b6576,Elye Wahi,9,FRA,FW,20-314,70,0,0,0,0,2,0,0,0,19,0,0,1,0.2,0.2,0.0,2,0,7,8,87.5,1,14,1,3,1,Lens,2023-11-12 Lens-Marseille,FRA-L1,23-24,fe8096da
+90fcf472,Wesley Saïd,22,FRA,FW,28-207,20,0,0,0,0,2,0,0,0,10,0,0,0,0.1,0.1,0.0,0,0,4,6,66.7,0,10,0,0,0,Lens,2023-11-12 Lens-Marseille,FRA-L1,23-24,fe8096da
+c76b7567,Adrien Thomasson,28,FRA,AM,29-337,59,0,0,0,0,1,0,0,0,42,2,1,2,0.0,0.0,0.3,4,0,22,32,68.8,3,24,0,0,0,Lens,2023-11-12 Lens-Marseille,FRA-L1,23-24,fe8096da
+79b51257,Morgan Guilavogui,27,GUI,AM,25-247,31,0,0,0,0,0,0,0,0,24,0,0,0,0.0,0.0,0.1,2,0,17,23,73.9,2,24,1,0,0,Lens,2023-11-12 Lens-Marseille,FRA-L1,23-24,fe8096da
+7a42d0df,Florian Sotoca,7,FRA,AM,33-018,59,0,0,0,0,1,0,0,0,40,0,1,2,0.0,0.0,0.0,3,0,23,29,79.3,3,31,1,3,2,Lens,2023-11-12 Lens-Marseille,FRA-L1,23-24,fe8096da
+4b96c347,Angelo Fulgini,11,FRA,AM,27-084,31,0,1,0,0,2,0,0,0,29,0,1,0,0.1,0.1,0.2,4,1,23,23,100.0,4,19,2,1,0,Lens,2023-11-12 Lens-Marseille,FRA-L1,23-24,fe8096da
+17e1261b,Neil El Aynaoui,23,FRA,CM,22-133,85,0,0,0,0,3,1,0,0,53,1,0,1,0.3,0.3,0.0,0,0,35,42,83.3,8,45,2,4,2,Lens,2023-11-12 Lens-Marseille,FRA-L1,23-24,fe8096da
+59948ef7,David Pereira da Costa,10,POR,CM,22-311,5,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,1,0,5,5,100.0,0,5,1,1,1,Lens,2023-11-12 Lens-Marseille,FRA-L1,23-24,fe8096da
+82464ce3,Salis Abdul Samed,6,GHA,CM,23-231,90,0,0,0,0,0,0,1,0,31,2,2,1,0.0,0.0,0.2,1,0,17,21,81.0,3,20,0,0,0,Lens,2023-11-12 Lens-Marseille,FRA-L1,23-24,fe8096da
+5167c97e,Massadio Haïdara,21,MLI,WB,30-345,70,0,0,0,0,0,0,0,0,38,1,1,1,0.0,0.0,0.0,1,0,19,32,59.4,2,21,1,1,0,Lens,2023-11-12 Lens-Marseille,FRA-L1,23-24,fe8096da
+b3f8bdef,Deiver Machado,3,COL,WB,30-071,20,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,2,0,8,9,88.9,2,8,1,0,0,Lens,2023-11-12 Lens-Marseille,FRA-L1,23-24,fe8096da
+3dd738a1,Ruben Aguilar,2,FRA,WB,30-200,90,0,0,0,0,1,0,0,0,72,4,0,4,0.0,0.0,0.0,0,0,43,56,76.8,9,47,5,4,3,Lens,2023-11-12 Lens-Marseille,FRA-L1,23-24,fe8096da
+6f5ec8bb,Facundo Medina,14,ARG,CB,24-168,90,0,0,0,0,0,0,0,0,59,1,1,3,0.0,0.0,0.0,2,1,41,49,83.7,6,44,1,3,1,Lens,2023-11-12 Lens-Marseille,FRA-L1,23-24,fe8096da
+6e33125f,Kevin Danso,4,AUT,CB,25-054,90,0,0,0,0,1,0,0,0,51,0,2,0,0.1,0.1,0.0,0,0,35,41,85.4,5,32,0,0,0,Lens,2023-11-12 Lens-Marseille,FRA-L1,23-24,fe8096da
+06c48679,Jonathan Gradit,24,FRA,CB,30-353,90,1,0,0,0,1,1,1,0,50,1,4,1,0.1,0.1,0.0,2,0,35,42,83.3,11,34,0,0,0,Lens,2023-11-12 Lens-Marseille,FRA-L1,23-24,fe8096da
+60d90c55,Brice Samba,30,FRA,GK,29-201,90,0,0,0,0,0,0,0,0,20,0,0,0,0.0,0.0,0.0,0,0,16,19,84.2,0,14,0,0,0,Lens,2023-11-12 Lens-Marseille,FRA-L1,23-24,fe8096da
+74d4cec6,Vitinha,9,POR,FW,23-242,69,0,0,0,0,0,0,1,0,22,1,0,1,0.0,0.0,0.0,0,0,13,16,81.3,2,17,1,2,2,Marseille,2023-11-12 Lens-Marseille,FRA-L1,23-24,fe8096da
+d5dd5f1f,Pierre-Emerick Aubameyang,10,GAB,FW,34-147,21,0,0,0,0,1,0,0,0,8,1,0,0,0.3,0.3,0.0,0,0,3,5,60.0,0,5,1,2,2,Marseille,2023-11-12 Lens-Marseille,FRA-L1,23-24,fe8096da
+45b9b619,Joaquín Correa,20,ARG,LW,29-091,55,0,0,0,0,0,0,0,0,28,1,1,2,0.0,0.0,0.0,1,0,19,22,86.4,2,23,1,2,0,Marseille,2023-11-12 Lens-Marseille,FRA-L1,23-24,fe8096da
+5ed97752,Iliman Ndiaye,29,SEN,LW,23-251,35,0,0,0,0,0,0,0,0,18,0,0,1,0.0,0.0,0.0,1,0,12,14,85.7,1,13,0,1,0,Marseille,2023-11-12 Lens-Marseille,FRA-L1,23-24,fe8096da
+bfdb33aa,Ismaila Sarr,23,SEN,RW,25-260,85,0,0,0,0,0,0,0,0,33,2,2,1,0.0,0.0,0.0,0,0,13,24,54.2,2,25,2,2,0,Marseille,2023-11-12 Lens-Marseille,FRA-L1,23-24,fe8096da
+349cae8f,Michael Amir Murillo,62,PAN,RW,27-274,5,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,1,0,0,1,0.0,0,1,0,0,0,Marseille,2023-11-12 Lens-Marseille,FRA-L1,23-24,fe8096da
+e7d59f4f,Amine Harit,11,MAR,AM,26-147,90,0,0,0,0,3,0,0,0,53,2,1,1,0.3,0.3,0.4,4,0,39,45,86.7,4,46,5,3,3,Marseille,2023-11-12 Lens-Marseille,FRA-L1,23-24,fe8096da
+4a56052c,Jordan Veretout,27,FRA,DM,30-256,90,0,0,0,0,0,0,0,0,63,2,1,2,0.0,0.0,0.0,1,0,40,52,76.9,9,43,0,2,2,Marseille,2023-11-12 Lens-Marseille,FRA-L1,23-24,fe8096da
+cce181df,Geoffrey Kondogbia,19,CTA,DM,30-270,90,0,0,0,0,0,0,0,0,53,4,3,0,0.0,0.0,0.0,0,0,34,42,81.0,1,42,0,4,3,Marseille,2023-11-12 Lens-Marseille,FRA-L1,23-24,fe8096da
+ed9f7cfe,Renan Lodi,12,BRA,LB,25-218,90,0,0,0,0,0,0,1,0,78,1,0,1,0.0,0.0,0.2,2,0,54,70,77.1,4,51,2,1,0,Marseille,2023-11-12 Lens-Marseille,FRA-L1,23-24,fe8096da
+7c3ed041,Leonardo Balerdi,5,ARG,CB,24-290,90,0,0,0,0,0,0,0,0,79,2,1,4,0.0,0.0,0.0,0,0,50,60,83.3,2,53,0,0,0,Marseille,2023-11-12 Lens-Marseille,FRA-L1,23-24,fe8096da
+41eebdf5,Samuel Gigot,4,FRA,CB,30-031,90,0,0,0,0,2,2,0,0,60,2,1,1,0.3,0.3,0.1,1,0,42,48,87.5,0,35,1,0,0,Marseille,2023-11-12 Lens-Marseille,FRA-L1,23-24,fe8096da
+5219ab4a,Jonathan Clauss,7,FRA,RB,31-048,90,0,0,0,0,2,0,0,0,72,4,3,0,0.1,0.1,0.3,2,0,43,59,72.9,5,42,1,3,2,Marseille,2023-11-12 Lens-Marseille,FRA-L1,23-24,fe8096da
+20b9f052,Pau López,16,ESP,GK,28-334,90,0,0,0,0,0,0,0,0,40,0,0,0,0.0,0.0,0.0,0,0,32,39,82.1,0,34,0,0,0,Marseille,2023-11-12 Lens-Marseille,FRA-L1,23-24,fe8096da

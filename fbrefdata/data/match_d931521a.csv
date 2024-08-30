@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+8f696594,Memphis,11,NED,FW,24-222,59,0,0,0,0,1,0,0,0,20,0,0,0,0.3,0.3,0.1,3,0,10,14,71.4,0,11,0,1,0,Lyon,2018-09-23 Lyon-Marseille,FRA-L1,18-19,d931521a
+e7986081,Moussa Dembélé,9,FRA,FW,22-073,31,0,0,0,0,2,0,0,0,15,0,0,0,0.1,0.1,0.0,1,0,7,12,58.3,0,10,1,0,0,Lyon,2018-09-23 Lyon-Marseille,FRA-L1,18-19,d931521a
+bece776f,Nabil Fekir,18,FRA,FW,25-067,87,1,1,1,1,5,1,0,0,52,3,1,2,1.0,0.3,0.7,7,1,31,37,83.8,4,33,4,1,0,Lyon,2018-09-23 Lyon-Marseille,FRA-L1,18-19,d931521a
+5148dcc5,Martin Terrier,7,FRA,LW,21-203,3,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,1,0,0,0,Lyon,2018-09-23 Lyon-Marseille,FRA-L1,18-19,d931521a
+a5db0bec,Houssem Aouar,8,ALG,LM,20-085,90,1,0,0,0,2,1,0,0,56,4,1,5,0.1,0.1,0.0,0,0,36,42,85.7,3,38,1,2,2,Lyon,2018-09-23 Lyon-Marseille,FRA-L1,18-19,d931521a
+5cdddffa,Tanguy Ndombele,28,FRA,"CM,RM",21-269,90,0,2,0,0,1,0,0,0,61,3,0,3,0.0,0.0,0.2,6,2,46,50,92.0,5,39,1,1,1,Lyon,2018-09-23 Lyon-Marseille,FRA-L1,18-19,d931521a
+873ce3a2,Pape Cheikh Diop,24,SEN,CM,21-046,74,0,0,0,0,1,0,1,0,39,1,0,0,0.2,0.2,0.0,1,0,28,32,87.5,2,20,0,0,0,Lyon,2018-09-23 Lyon-Marseille,FRA-L1,18-19,d931521a
+71ec39ef,Lucas Tousart,29,FRA,CM,21-147,16,0,0,0,0,0,0,0,0,20,0,1,0,0.0,0.0,0.0,2,0,19,19,100.0,4,15,0,0,0,Lyon,2018-09-23 Lyon-Marseille,FRA-L1,18-19,d931521a
+c47541e0,Bertrand Traoré,10,BFA,"RM,RW",23-017,90,2,0,0,0,3,2,0,0,61,7,1,0,0.2,0.2,0.0,6,3,30,39,76.9,2,35,4,3,2,Lyon,2018-09-23 Lyon-Marseille,FRA-L1,18-19,d931521a
+3cefcaef,Ferland Mendy,22,FRA,LB,23-107,90,0,0,0,0,0,0,0,0,64,1,1,1,0.0,0.0,0.0,2,0,52,56,92.9,1,38,1,2,1,Lyon,2018-09-23 Lyon-Marseille,FRA-L1,18-19,d931521a
+47af88b8,Jason Denayer,5,BEL,CB,23-087,90,0,0,0,0,0,0,0,0,56,0,1,1,0.0,0.0,0.0,0,0,46,48,95.8,0,42,0,0,0,Lyon,2018-09-23 Lyon-Marseille,FRA-L1,18-19,d931521a
+e3d0b0c4,Marcelo,6,BRA,CB,31-126,90,0,0,0,0,1,0,0,0,67,0,1,1,0.0,0.0,0.0,1,1,56,59,94.9,0,50,0,0,0,Lyon,2018-09-23 Lyon-Marseille,FRA-L1,18-19,d931521a
+ff0ab48c,Leo Dubois,14,FRA,RB,24-009,90,0,0,0,0,0,0,0,0,72,1,1,0,0.0,0.0,0.0,2,0,59,65,90.8,4,38,4,0,0,Lyon,2018-09-23 Lyon-Marseille,FRA-L1,18-19,d931521a
+f00de885,Anthony Lopes,1,POR,GK,27-357,90,0,0,0,0,0,0,0,0,27,0,0,1,0.0,0.0,0.0,0,0,15,24,62.5,0,11,0,0,0,Lyon,2018-09-23 Lyon-Marseille,FRA-L1,18-19,d931521a
+c6ac6579,Kostas Mitroglou,11,GRE,FW,30-195,63,0,0,0,0,1,0,0,0,17,0,0,0,0.0,0.0,0.0,3,1,9,15,60.0,1,12,1,0,0,Marseille,2018-09-23 Lyon-Marseille,FRA-L1,18-19,d931521a
+ea0ff634,Valère Germain,28,FRA,"FW,RW",28-159,27,0,0,0,0,0,0,0,0,4,0,0,1,0.0,0.0,0.0,0,0,2,3,66.7,0,2,0,0,0,Marseille,2018-09-23 Lyon-Marseille,FRA-L1,18-19,d931521a
+a08b974a,Lucas Ocampos,5,ARG,LW,24-074,63,0,0,0,0,1,0,0,0,29,3,2,0,0.1,0.1,0.1,2,0,12,21,57.1,2,19,2,3,1,Marseille,2018-09-23 Lyon-Marseille,FRA-L1,18-19,d931521a
+cc77354e,Boubacar Kamara,4,FRA,CB,18-304,27,0,0,0,0,0,0,0,0,19,0,0,2,0.0,0.0,0.0,0,0,13,15,86.7,0,9,1,0,0,Marseille,2018-09-23 Lyon-Marseille,FRA-L1,18-19,d931521a
+2b9fdeea,Florian Thauvin,26,FRA,"RW,FW",25-240,90,1,0,0,0,1,1,0,0,39,0,0,0,0.2,0.2,0.0,2,0,22,33,66.7,5,33,4,3,3,Marseille,2018-09-23 Lyon-Marseille,FRA-L1,18-19,d931521a
+58ae47b2,Dimitri Payet,10,FRA,"AM,LW,LM",31-178,90,0,2,0,0,1,1,0,0,57,2,1,0,0.0,0.0,0.4,6,2,33,53,62.3,3,40,4,1,1,Marseille,2018-09-23 Lyon-Marseille,FRA-L1,18-19,d931521a
+ef2e5e1a,Kevin Strootman,12,NED,DM,28-222,75,0,0,0,0,0,0,1,0,36,4,1,0,0.0,0.0,0.0,0,0,26,31,83.9,2,25,0,0,0,Marseille,2018-09-23 Lyon-Marseille,FRA-L1,18-19,d931521a
+77f278a0,Clinton N'Jie,14,CMR,LW,25-039,15,1,0,0,0,1,1,0,0,7,0,0,0,0.1,0.1,0.0,0,0,4,5,80.0,0,7,0,0,0,Marseille,2018-09-23 Lyon-Marseille,FRA-L1,18-19,d931521a
+6e7f1353,Morgan Sanson,8,FRA,"DM,AM,RM",24-036,90,0,0,0,0,3,0,0,0,47,2,1,0,0.1,0.1,0.0,0,0,29,38,76.3,8,37,2,0,0,Marseille,2018-09-23 Lyon-Marseille,FRA-L1,18-19,d931521a
+22721b88,Jordan Amavi,18,FRA,"LB,CB",24-198,90,0,0,0,0,1,0,0,0,55,0,0,0,0.0,0.0,0.0,1,1,31,45,68.9,2,26,1,3,1,Marseille,2018-09-23 Lyon-Marseille,FRA-L1,18-19,d931521a
+82671804,Luiz Gustavo,19,BRA,"CB,DM",31-062,90,0,0,0,0,0,0,1,0,54,1,1,2,0.0,0.0,0.0,0,0,42,49,85.7,2,41,0,0,0,Marseille,2018-09-23 Lyon-Marseille,FRA-L1,18-19,d931521a
+94f8d10c,Duje Ćaleta-Car,15,CRO,CB,22-006,82,0,0,0,0,0,0,0,1,30,1,1,0,0.0,0.0,0.0,0,0,25,26,96.2,1,22,0,0,0,Marseille,2018-09-23 Lyon-Marseille,FRA-L1,18-19,d931521a
+d63e2912,Hiroki Sakai,2,JPN,"RB,CB",28-164,90,0,0,0,0,0,0,0,0,55,0,2,2,0.0,0.0,0.0,2,0,39,46,84.8,4,33,3,2,0,Marseille,2018-09-23 Lyon-Marseille,FRA-L1,18-19,d931521a
+76806215,Yohann Pelé,16,FRA,GK,35-323,90,0,0,0,0,0,0,0,0,19,0,0,0,0.0,0.0,0.0,0,0,8,17,47.1,0,8,0,0,0,Marseille,2018-09-23 Lyon-Marseille,FRA-L1,18-19,d931521a

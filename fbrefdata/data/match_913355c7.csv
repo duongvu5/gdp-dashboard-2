@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+d87e2cae,Willian José,12,BRA,FW,30-324,68,0,0,0,0,1,0,0,0,35,1,1,0,0.1,0.1,0.0,4,1,20,24,83.3,2,20,2,1,0,Real Betis,2022-10-13 Betis-Roma,UEL,22-23,913355c7
+75645f0e,Borja Iglesias,9,ESP,FW,29-269,22,0,0,0,0,1,0,0,0,13,1,0,0,0.0,0.0,0.0,0,0,8,9,88.9,0,10,0,0,0,Real Betis,2022-10-13 Betis-Roma,UEL,22-23,913355c7
+4c5b14d2,Joaquín,17,ESP,LW,41-084,68,0,0,0,0,0,0,1,0,45,0,0,0,0.0,0.0,0.2,2,0,35,38,92.1,1,40,6,7,3,Real Betis,2022-10-13 Betis-Roma,UEL,22-23,913355c7
+8059806f,Luiz Henrique,11,BRA,LW,21-284,22,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,5,6,83.3,0,6,0,0,0,Real Betis,2022-10-13 Betis-Roma,UEL,22-23,913355c7
+85bed4ee,Rodri,28,ESP,RW,22-150,90,0,1,0,0,1,1,1,0,54,3,0,0,0.1,0.1,0.0,2,1,41,45,91.1,7,46,1,5,4,Real Betis,2022-10-13 Betis-Roma,UEL,22-23,913355c7
+a6de370d,Sergio Canales,10,ESP,AM,31-239,79,1,0,0,0,4,1,0,0,76,0,0,0,0.2,0.2,0.1,1,0,61,70,87.1,9,63,2,2,1,Real Betis,2022-10-13 Betis-Roma,UEL,22-23,913355c7
+34e393f2,Guido Rodríguez,5,ARG,AM,28-184,11,0,0,0,0,0,0,0,0,12,1,0,1,0.0,0.0,0.0,0,0,9,9,100.0,1,8,0,0,0,Real Betis,2022-10-13 Betis-Roma,UEL,22-23,913355c7
+ef322658,Andrés Guardado,18,MEX,DM,36-015,79,0,0,0,0,0,0,1,0,45,1,2,3,0.0,0.0,0.0,0,0,33,37,89.2,3,34,0,1,0,Real Betis,2022-10-13 Betis-Roma,UEL,22-23,913355c7
+dee86451,William Carvalho,14,POR,DM,30-189,11,0,0,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.0,1,0,8,10,80.0,1,9,0,0,0,Real Betis,2022-10-13 Betis-Roma,UEL,22-23,913355c7
+31f5b89b,Paul Akouokou,4,CIV,DM,24-297,90,0,0,0,0,0,0,0,0,45,1,2,2,0.0,0.0,0.0,0,0,32,37,86.5,1,36,0,0,0,Real Betis,2022-10-13 Betis-Roma,UEL,22-23,913355c7
+ead61f73,Juan Miranda,33,ESP,LB,22-267,85,0,0,0,0,0,0,1,0,53,1,0,0,0.0,0.0,0.0,1,0,33,44,75.0,3,32,1,1,0,Real Betis,2022-10-13 Betis-Roma,UEL,22-23,913355c7
+16e9d0ea,Álex Moreno,15,ESP,LB,29-127,5,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,0,0,Real Betis,2022-10-13 Betis-Roma,UEL,22-23,913355c7
+15d0c248,Luiz Felipe,19,ITA,CB,25-205,90,0,0,0,0,0,0,0,0,53,1,1,5,0.0,0.0,0.0,0,0,33,41,80.5,1,30,0,0,0,Real Betis,2022-10-13 Betis-Roma,UEL,22-23,913355c7
+8c725b43,Germán Pezzella,16,ARG,CB,31-108,90,0,0,0,0,0,0,0,0,35,0,1,2,0.0,0.0,0.0,1,0,24,28,85.7,2,20,0,0,0,Real Betis,2022-10-13 Betis-Roma,UEL,22-23,913355c7
+a55d8df5,Aitor Ruibal,24,ESP,RB,26-205,90,0,0,0,0,0,0,0,0,81,3,1,1,0.0,0.0,0.0,0,0,59,70,84.3,5,64,3,1,0,Real Betis,2022-10-13 Betis-Roma,UEL,22-23,913355c7
+10072610,Claudio Bravo,1,CHI,GK,39-183,90,0,0,0,0,0,0,0,0,30,0,0,1,0.0,0.0,0.0,0,0,13,29,44.8,0,17,0,0,0,Real Betis,2022-10-13 Betis-Roma,UEL,22-23,913355c7
+d705ba44,Andrea Belotti,11,ITA,FW,28-297,75,1,0,0,0,2,1,0,0,25,1,1,0,1.0,1.0,0.0,1,0,11,19,57.9,1,19,1,0,0,Roma,2022-10-13 Betis-Roma,UEL,22-23,913355c7
+ae94a6c5,Edoardo Bove,52,ITA,FW,20-150,15,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,7,8,87.5,0,6,1,0,0,Roma,2022-10-13 Betis-Roma,UEL,22-23,913355c7
+f586779e,Tammy Abraham,9,ENG,FW,25-011,90,0,0,0,0,0,0,0,0,33,2,0,0,0.0,0.0,0.0,1,1,13,22,59.1,3,23,2,3,0,Roma,2022-10-13 Betis-Roma,UEL,22-23,913355c7
+4a5a45c7,Lorenzo Pellegrini,7,ITA,CM,26-116,86,0,0,0,0,1,1,0,0,53,2,1,0,0.1,0.1,0.0,0,0,29,44,65.9,3,32,1,2,2,Roma,2022-10-13 Betis-Roma,UEL,22-23,913355c7
+d3aaad90,Stephan El Shaarawy,92,ITA,CM,29-351,4,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,2,0,0,0,Roma,2022-10-13 Betis-Roma,UEL,22-23,913355c7
+eb7822d7,Nemanja Matić,8,SRB,CM,34-073,45,0,0,0,0,0,0,1,0,43,0,2,0,0.0,0.0,0.0,1,0,33,38,86.8,7,35,0,1,0,Roma,2022-10-13 Betis-Roma,UEL,22-23,913355c7
+13ea2544,Mohamed Camara,20,GUI,CM,25-227,45,0,1,0,0,0,0,1,0,24,1,0,0,0.0,0.0,0.9,1,1,17,22,77.3,1,17,1,0,0,Roma,2022-10-13 Betis-Roma,UEL,22-23,913355c7
+16657b95,Bryan Cristante,4,ITA,CM,27-224,90,0,0,0,0,0,0,0,0,63,1,4,0,0.0,0.0,0.0,1,0,49,55,89.1,5,41,0,0,0,Roma,2022-10-13 Betis-Roma,UEL,22-23,913355c7
+3626daea,Leonardo Spinazzola,37,ITA,LB,29-202,70,0,0,0,0,1,0,0,0,40,0,1,0,0.0,0.0,0.0,1,0,19,34,55.9,1,33,3,8,4,Roma,2022-10-13 Betis-Roma,UEL,22-23,913355c7
+08eb3b58,Matías Viña,17,URU,LB,24-338,20,0,0,0,0,0,0,0,0,8,0,0,1,0.0,0.0,0.0,0,0,5,7,71.4,0,5,2,0,0,Roma,2022-10-13 Betis-Roma,UEL,22-23,913355c7
+82efe6fa,Roger Ibanez,3,BRA,CB,23-324,90,0,0,0,0,0,0,0,0,76,2,2,1,0.0,0.0,0.0,1,0,66,68,97.1,0,64,1,1,1,Roma,2022-10-13 Betis-Roma,UEL,22-23,913355c7
+b6964eb6,Chris Smalling,6,ENG,CB,32-325,90,0,0,0,0,0,0,0,0,71,0,1,2,0.0,0.0,0.0,0,0,60,66,90.9,0,53,0,1,0,Roma,2022-10-13 Betis-Roma,UEL,22-23,913355c7
+5aa53281,Gianluca Mancini,23,ITA,CB,26-179,90,0,0,0,0,0,0,1,0,68,2,1,1,0.0,0.0,0.0,0,0,54,63,85.7,4,55,1,0,0,Roma,2022-10-13 Betis-Roma,UEL,22-23,913355c7
+45191c29,Nicola Zalewski,59,POL,RB,20-263,90,0,0,0,0,0,0,0,0,64,0,1,2,0.0,0.0,0.0,0,0,37,57,64.9,4,46,3,2,1,Roma,2022-10-13 Betis-Roma,UEL,22-23,913355c7
+79b0d6a0,Rui Patrício,1,POR,GK,34-240,90,0,0,0,0,0,0,0,0,31,0,0,0,0.0,0.0,0.0,0,0,28,31,90.3,0,24,0,0,0,Roma,2022-10-13 Betis-Roma,UEL,22-23,913355c7

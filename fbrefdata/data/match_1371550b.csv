@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+1eec640e,Marko Šćepović,44,SRB,FW,27-120,90,0,0,0,0,1,1,0,0,31,1,0,0,0.1,0.1,0.0,2,0,9,21,42.9,1,18,3,2,0,Vidi,2018-09-20 Vidi-BATE Borisov,UEL,18-19,1371550b
+b2484b77,Georgi Milanov,77,BUL,AM,26-213,75,0,0,0,0,2,0,1,0,48,0,0,0,0.1,0.1,0.1,3,0,31,44,70.5,7,33,3,2,1,Vidi,2018-09-20 Vidi-BATE Borisov,UEL,18-19,1371550b
+b6ccdcda,Szilveszter Hangya,65,HUN,AM,24-261,15,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,1,0,4,5,80.0,2,3,1,0,0,Vidi,2018-09-20 Vidi-BATE Borisov,UEL,18-19,1371550b
+66f5432f,István Kovács,10,HUN,"AM,RM",26-177,90,0,0,0,0,3,1,0,0,50,0,1,1,0.1,0.1,0.1,2,0,19,32,59.4,6,37,2,2,1,Vidi,2018-09-20 Vidi-BATE Borisov,UEL,18-19,1371550b
+35862524,Boban Nikolov,19,MKD,LM,24-054,77,0,0,0,0,1,0,0,0,37,4,2,0,0.0,0.0,0.0,0,0,23,29,79.3,5,22,4,0,0,Vidi,2018-09-20 Vidi-BATE Borisov,UEL,18-19,1371550b
+b36b3f96,Zsombor Berecz,13,HUN,LM,22-281,13,0,0,0,0,0,0,0,0,12,0,0,0,0.0,0.0,0.1,2,0,8,9,88.9,3,9,0,0,0,Vidi,2018-09-20 Vidi-BATE Borisov,UEL,18-19,1371550b
+e556a911,Anel Hadžić,8,BIH,CM,29-035,90,0,0,0,0,1,0,0,0,69,1,0,0,0.0,0.0,0.0,0,0,58,64,90.6,10,44,1,0,0,Vidi,2018-09-20 Vidi-BATE Borisov,UEL,18-19,1371550b
+c3b6fa1e,Loïc Nego,11,HUN,"RM,RB",27-248,90,0,0,0,0,1,0,0,0,52,0,1,1,0.0,0.0,0.2,7,0,33,43,76.7,8,31,6,3,1,Vidi,2018-09-20 Vidi-BATE Borisov,UEL,18-19,1371550b
+e9517008,Stopira,22,CPV,LB,30-123,90,0,0,0,0,1,0,1,0,78,1,1,0,0.1,0.1,0.0,0,0,46,67,68.7,8,37,6,4,3,Vidi,2018-09-20 Vidi-BATE Borisov,UEL,18-19,1371550b
+ef13f203,Paulo Vinícius,3,HUN,CB,28-211,90,0,0,0,0,0,0,0,0,59,3,3,1,0.0,0.0,0.0,0,0,45,51,88.2,1,32,0,1,1,Vidi,2018-09-20 Vidi-BATE Borisov,UEL,18-19,1371550b
+2535e885,Roland Juhász,23,HUN,CB,35-081,90,0,0,0,0,0,0,0,0,67,2,3,2,0.0,0.0,0.0,1,0,38,56,67.9,4,30,2,2,1,Vidi,2018-09-20 Vidi-BATE Borisov,UEL,18-19,1371550b
+bb17ccd0,Attila Fiola,5,HUN,RB,28-215,63,0,0,0,0,0,0,0,0,51,0,1,2,0.0,0.0,0.0,1,0,30,45,66.7,4,22,2,2,1,Vidi,2018-09-20 Vidi-BATE Borisov,UEL,18-19,1371550b
+19003991,Armin Hodžić,15,BIH,"AM,RM",23-307,27,0,0,0,0,0,0,0,0,12,1,0,0,0.0,0.0,0.0,1,0,8,11,72.7,1,6,1,1,1,Vidi,2018-09-20 Vidi-BATE Borisov,UEL,18-19,1371550b
+7a8779f3,Tomáš Tujvel,12,SVK,GK,35-001,90,0,0,0,0,0,0,0,0,37,0,0,0,0.0,0.0,0.0,0,0,27,35,77.1,0,20,0,0,0,Vidi,2018-09-20 Vidi-BATE Borisov,UEL,18-19,1371550b
+aaee68f1,Jasse Tuominen,24,FIN,FW,22-312,60,1,0,0,0,2,1,0,0,27,0,0,2,0.2,0.2,0.0,1,1,12,19,63.2,1,13,1,1,1,BATE Borisov,2018-09-20 Vidi-BATE Borisov,UEL,18-19,1371550b
+489e5d93,Maksim Skavysh,15,BLR,FW,28-311,30,0,0,0,0,1,1,0,0,18,0,0,0,0.3,0.3,0.2,2,0,5,13,38.5,1,8,1,1,0,BATE Borisov,2018-09-20 Vidi-BATE Borisov,UEL,18-19,1371550b
+4e80a8ef,Ihar Stasevich,22,BLR,LW,32-334,87,0,1,0,0,1,0,0,0,64,6,2,3,0.0,0.0,0.5,3,1,29,50,58.0,5,27,6,0,0,BATE Borisov,2018-09-20 Vidi-BATE Borisov,UEL,18-19,1371550b
+eddcbbc4,Maksim Valadzko,42,BLR,LW,25-314,3,0,0,0,0,1,1,0,0,2,0,0,1,0.2,0.2,0.0,0,0,0,0,,0,1,1,0,0,BATE Borisov,2018-09-20 Vidi-BATE Borisov,UEL,18-19,1371550b
+4c82730b,Mirko Ivanić,10,MNE,RW,25-007,66,0,0,0,0,3,1,0,0,29,1,1,1,0.1,0.1,0.0,1,0,13,21,61.9,3,15,4,1,1,BATE Borisov,2018-09-20 Vidi-BATE Borisov,UEL,18-19,1371550b
+20c1ef47,Mikhail Gordeichuk,62,BLR,RW,28-332,24,0,0,0,0,1,0,0,0,8,0,0,1,0.0,0.0,0.0,0,0,3,3,100.0,1,3,0,0,0,BATE Borisov,2018-09-20 Vidi-BATE Borisov,UEL,18-19,1371550b
+a5d101a9,Stanislaw Drahun,8,BLR,LM,30-108,90,0,0,0,0,0,0,0,0,47,1,1,4,0.0,0.0,0.1,4,1,26,36,72.2,0,16,1,1,0,BATE Borisov,2018-09-20 Vidi-BATE Borisov,UEL,18-19,1371550b
+474cf8e0,Evgeni Yablonski,5,BLR,CM,23-133,90,0,1,0,0,0,0,0,0,49,3,2,3,0.0,0.0,0.1,1,1,24,32,75.0,5,3,0,0,0,BATE Borisov,2018-09-20 Vidi-BATE Borisov,UEL,18-19,1371550b
+ce538b0b,Dzmitry Baha,25,BLR,RM,28-259,90,0,0,0,0,0,0,0,0,42,4,1,0,0.0,0.0,0.0,3,0,30,34,88.2,6,15,0,1,1,BATE Borisov,2018-09-20 Vidi-BATE Borisov,UEL,18-19,1371550b
+a5e16eba,Aleksandar Filipović,4,SRB,LB,23-274,89,0,0,0,0,0,0,2,1,51,4,2,2,0.0,0.0,0.0,0,0,24,32,75.0,4,9,0,0,0,BATE Borisov,2018-09-20 Vidi-BATE Borisov,UEL,18-19,1371550b
+1321d6f0,Egor Filipenko,21,BLR,CB,30-163,90,1,0,0,0,2,2,0,0,45,0,0,0,0.5,0.5,0.0,1,0,30,33,90.9,1,14,0,0,0,BATE Borisov,2018-09-20 Vidi-BATE Borisov,UEL,18-19,1371550b
+746b64a7,Nemanja Milunović,19,SRB,CB,29-112,90,0,0,0,0,0,0,1,0,38,1,1,1,0.0,0.0,0.0,0,0,21,28,75.0,1,14,0,0,0,BATE Borisov,2018-09-20 Vidi-BATE Borisov,UEL,18-19,1371550b
+8ed1d91b,Dzyanis Palyakow,33,BLR,RB,27-156,90,0,0,0,0,0,0,0,0,64,0,2,2,0.0,0.0,0.0,0,0,36,46,78.3,2,11,0,0,0,BATE Borisov,2018-09-20 Vidi-BATE Borisov,UEL,18-19,1371550b
+110a95ca,Denis Scherbitskiy,48,BLR,GK,22-159,90,0,0,0,0,0,0,1,0,36,0,0,0,0.0,0.0,0.0,0,0,12,35,34.3,0,6,0,0,0,BATE Borisov,2018-09-20 Vidi-BATE Borisov,UEL,18-19,1371550b

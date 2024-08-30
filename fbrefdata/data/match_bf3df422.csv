@@ -1,0 +1,31 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+bef0a7ac,Darío Benedetto,9,ARG,FW,30-234,78,0,0,0,0,4,0,0,0,19,0,0,0,0.9,0.9,0.0,1,0,9,13,69.2,1,17,0,1,1,Marseille,2021-01-06 Marseille-Montpellier,FRA-L1,20-21,bf3df422
+ea0ff634,Valère Germain,28,FRA,FW,30-264,12,1,0,0,0,1,1,0,0,4,0,0,0,0.3,0.3,0.0,0,0,2,2,100.0,1,3,0,0,0,Marseille,2021-01-06 Marseille-Montpellier,FRA-L1,20-21,bf3df422
+0630eb63,Nemanja Radonjić,7,SRB,LW,24-326,72,1,0,0,0,3,2,0,0,40,1,0,0,0.6,0.6,0.1,2,0,21,30,70.0,1,32,5,5,3,Marseille,2021-01-06 Marseille-Montpellier,FRA-L1,20-21,bf3df422
+58ae47b2,Dimitri Payet,10,FRA,LW,33-283,18,1,0,0,0,1,1,0,0,15,0,0,0,0.1,0.1,0.0,1,1,12,13,92.3,0,13,2,2,1,Marseille,2021-01-06 Marseille-Montpellier,FRA-L1,20-21,bf3df422
+2b9fdeea,Florian Thauvin,26,FRA,RW,27-346,90,0,1,0,0,5,2,0,0,95,2,0,2,0.3,0.3,0.9,7,1,63,82,76.8,13,77,12,9,7,Marseille,2021-01-06 Marseille-Montpellier,FRA-L1,20-21,bf3df422
+5722eced,Mickaël Cuisance,17,FRA,AM,21-143,64,0,0,0,0,1,0,0,0,44,1,0,0,0.0,0.0,0.1,2,0,31,35,88.6,4,32,0,2,0,Marseille,2021-01-06 Marseille-Montpellier,FRA-L1,20-21,bf3df422
+ef2e5e1a,Kevin Strootman,6,NED,AM,30-328,26,0,0,0,0,0,0,0,0,25,0,0,0,0.0,0.0,0.1,1,0,20,23,87.0,3,22,1,0,0,Marseille,2021-01-06 Marseille-Montpellier,FRA-L1,20-21,bf3df422
+7155e3e1,Pape Gueye,22,SEN,DM,21-348,90,0,0,0,0,0,0,0,0,92,1,3,1,0.0,0.0,0.4,4,1,67,79,84.8,8,66,1,0,0,Marseille,2021-01-06 Marseille-Montpellier,FRA-L1,20-21,bf3df422
+cc77354e,Boubacar Kamara,4,FRA,DM,21-044,90,0,1,0,0,1,1,0,0,90,2,4,1,0.0,0.0,0.3,7,2,68,76,89.5,8,62,2,3,2,Marseille,2021-01-06 Marseille-Montpellier,FRA-L1,20-21,bf3df422
+4b6960d2,Yuto Nagatomo,25,JPN,LB,34-116,78,0,0,0,0,0,0,0,0,80,4,3,1,0.0,0.0,0.0,1,0,57,71,80.3,4,45,3,0,0,Marseille,2021-01-06 Marseille-Montpellier,FRA-L1,20-21,bf3df422
+796b1c41,Saîf-Eddine Khaoui,24,TUN,LB,25-254,12,0,1,0,0,0,0,0,0,12,1,0,0,0.0,0.0,0.3,1,1,8,9,88.9,0,7,0,0,0,Marseille,2021-01-06 Marseille-Montpellier,FRA-L1,20-21,bf3df422
+94f8d10c,Duje Ćaleta-Car,15,CRO,CB,24-111,90,0,0,0,0,0,0,0,0,70,0,3,3,0.0,0.0,0.1,1,0,57,61,93.4,1,49,0,0,0,Marseille,2021-01-06 Marseille-Montpellier,FRA-L1,20-21,bf3df422
+42dcf26d,Álvaro González,3,ESP,CB,30-364,90,0,0,0,0,1,0,0,0,58,0,0,1,0.1,0.1,0.0,0,0,47,52,90.4,5,33,0,0,0,Marseille,2021-01-06 Marseille-Montpellier,FRA-L1,20-21,bf3df422
+d63e2912,Hiroki Sakai,2,JPN,RB,30-269,90,0,0,0,0,1,0,0,0,67,3,2,1,0.1,0.1,0.0,2,0,49,54,90.7,6,48,3,0,0,Marseille,2021-01-06 Marseille-Montpellier,FRA-L1,20-21,bf3df422
+1d2d5cc8,Steve Mandanda,30,FRA,GK,35-284,90,0,0,0,0,0,0,0,0,31,0,0,0,0.0,0.0,0.0,0,0,26,30,86.7,0,19,0,0,0,Marseille,2021-01-06 Marseille-Montpellier,FRA-L1,20-21,bf3df422
+7cdda3bf,Gaëtan Laborde,10,FRA,FW,26-248,90,0,0,0,0,2,0,0,0,34,3,1,0,0.1,0.1,0.1,3,0,16,22,72.7,2,19,4,3,2,Montpellier,2021-01-06 Marseille-Montpellier,FRA-L1,20-21,bf3df422
+d33c706e,Andy Delort,9,ALG,FW,29-089,90,0,0,0,0,5,2,0,0,48,0,0,0,0.5,0.5,0.0,1,0,18,38,47.4,2,31,3,2,0,Montpellier,2021-01-06 Marseille-Montpellier,FRA-L1,20-21,bf3df422
+23bf644d,Yun Il-lok,24,KOR,AM,28-305,45,0,0,0,0,0,0,0,0,28,0,2,0,0.0,0.0,0.4,2,0,17,20,85.0,2,13,1,1,0,Montpellier,2021-01-06 Marseille-Montpellier,FRA-L1,20-21,bf3df422
+ccb1c3af,Keagan Dolly,20,RSA,"LM,AM",27-350,45,0,0,0,0,0,0,0,0,17,0,0,0,0.0,0.0,0.0,1,0,15,17,88.2,2,11,0,0,0,Montpellier,2021-01-06 Marseille-Montpellier,FRA-L1,20-21,bf3df422
+7909ffa4,Joris Chotard,13,FRA,LM,19-104,72,0,0,0,0,1,0,0,0,25,0,2,1,0.0,0.0,0.0,1,0,11,18,61.1,1,15,1,2,2,Montpellier,2021-01-06 Marseille-Montpellier,FRA-L1,20-21,bf3df422
+8f4d116f,Damien Le Tallec,14,FRA,DM,30-262,18,0,0,0,0,0,0,0,0,9,1,1,0,0.0,0.0,0.0,1,0,7,7,100.0,3,7,0,0,0,Montpellier,2021-01-06 Marseille-Montpellier,FRA-L1,20-21,bf3df422
+7e82a78f,Florent Mollet,25,FRA,"RM,AM",29-048,90,1,0,0,0,2,1,0,0,62,0,1,2,0.5,0.5,0.1,3,0,43,53,81.1,6,46,5,3,2,Montpellier,2021-01-06 Marseille-Montpellier,FRA-L1,20-21,bf3df422
+375622c5,Jordan Ferri,12,FRA,DM,28-300,90,0,1,0,0,1,1,0,0,96,4,0,2,0.0,0.0,0.1,6,1,74,90,82.2,8,67,0,0,0,Montpellier,2021-01-06 Marseille-Montpellier,FRA-L1,20-21,bf3df422
+ea0aa7e0,Mihailo Ristić,7,SRB,LB,25-067,84,0,0,0,0,2,1,0,0,52,1,1,0,0.1,0.1,0.0,1,0,26,42,61.9,4,32,3,1,1,Montpellier,2021-01-06 Marseille-Montpellier,FRA-L1,20-21,bf3df422
+c4bbea9f,Vitorino Hilton,4,BRA,CB,43-115,6,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,3,3,100.0,0,3,0,0,0,Montpellier,2021-01-06 Marseille-Montpellier,FRA-L1,20-21,bf3df422
+8f325097,Nicolas Cozza,31,FRA,"CB,LB",21-364,90,0,0,0,0,0,0,0,0,60,1,1,2,0.0,0.0,0.0,1,0,46,51,90.2,4,41,3,0,0,Montpellier,2021-01-06 Marseille-Montpellier,FRA-L1,20-21,bf3df422
+3f5b4635,Daniel Congré,3,FRA,CB,35-276,90,0,0,0,0,0,0,0,0,61,3,3,2,0.0,0.0,0.0,0,0,41,51,80.4,4,35,3,0,0,Montpellier,2021-01-06 Marseille-Montpellier,FRA-L1,20-21,bf3df422
+24eb7ed6,Junior Sambia,6,FRA,RB,24-121,90,0,0,0,0,0,0,0,0,62,4,0,0,0.0,0.0,0.5,2,0,34,48,70.8,1,30,3,2,1,Montpellier,2021-01-06 Marseille-Montpellier,FRA-L1,20-21,bf3df422
+c631f952,Jonas Omlin,1,SUI,GK,26-362,90,0,0,0,0,0,0,0,0,36,0,0,0,0.0,0.0,0.0,0,0,29,35,82.9,0,20,0,0,0,Montpellier,2021-01-06 Marseille-Montpellier,FRA-L1,20-21,bf3df422

@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+065dc209,Terem Moffi,13,NGA,FW,22-341,82,1,0,0,0,1,1,0,0,19,2,0,0,0.6,0.6,0.2,5,2,9,11,81.8,1,14,2,3,2,Lorient,2022-05-01 Lorient-Reims,FRA-L1,21-22,ec6c5c2d
+7cc00776,Sambou Soumano,22,SEN,FW,21-118,8,0,0,0,0,1,0,0,0,5,1,0,0,0.0,0.0,0.0,0,0,3,3,100.0,0,5,2,0,0,Lorient,2022-05-01 Lorient-Reims,FRA-L1,21-22,ec6c5c2d
+2d22cea7,Armand Lauriente,28,FRA,LW,23-148,90,0,0,0,0,8,4,0,0,32,0,1,0,0.9,0.9,0.0,4,0,16,19,84.2,2,25,5,2,0,Lorient,2022-05-01 Lorient-Reims,FRA-L1,21-22,ec6c5c2d
+6f806d99,Enzo Le Fée,10,FRA,RW,22-087,90,0,1,0,0,1,0,0,0,87,3,0,2,0.0,0.0,0.7,6,0,50,72,69.4,6,62,3,4,1,Lorient,2022-05-01 Lorient-Reims,FRA-L1,21-22,ec6c5c2d
+84d94b91,Thomas Monconduit,23,FRA,LM,31-080,67,0,0,0,0,4,1,1,0,40,1,0,0,0.1,0.1,0.0,2,0,29,32,90.6,4,36,1,1,0,Lorient,2022-05-01 Lorient-Reims,FRA-L1,21-22,ec6c5c2d
+29939a1d,Stéphane Diarra,7,FRA,LM,23-143,23,0,0,0,0,1,0,0,0,16,0,0,0,0.0,0.0,0.0,1,0,10,14,71.4,2,14,3,1,0,Lorient,2022-05-01 Lorient-Reims,FRA-L1,21-22,ec6c5c2d
+546bb36e,Bonke Innocent,8,NGA,CM,26-101,67,0,0,0,0,0,0,0,0,33,2,0,1,0.0,0.0,0.0,1,0,26,28,92.9,4,20,0,0,0,Lorient,2022-05-01 Lorient-Reims,FRA-L1,21-22,ec6c5c2d
+04bb2b06,Ibrahima Koné,9,MLI,CM,22-319,23,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.1,2,0,6,7,85.7,1,5,0,0,0,Lorient,2022-05-01 Lorient-Reims,FRA-L1,21-22,ec6c5c2d
+31626657,Laurent Abergel,6,FRA,RM,29-089,82,0,0,0,0,0,0,1,0,66,4,2,1,0.0,0.0,0.7,8,0,41,58,70.7,7,48,1,3,3,Lorient,2022-05-01 Lorient-Reims,FRA-L1,21-22,ec6c5c2d
+54d51e22,Fabien Lemoine,18,FRA,RM,35-046,8,0,0,0,0,1,0,0,0,11,0,1,0,0.1,0.1,0.0,0,0,9,9,100.0,2,7,1,0,0,Lorient,2022-05-01 Lorient-Reims,FRA-L1,21-22,ec6c5c2d
+2321ea6e,Vincent Le Goff,25,FRA,LB,32-198,90,0,0,0,0,0,0,0,0,51,1,0,1,0.0,0.0,0.0,1,0,37,44,84.1,5,38,2,0,0,Lorient,2022-05-01 Lorient-Reims,FRA-L1,21-22,ec6c5c2d
+00638016,Léo Pétrot,19,FRA,CB,25-016,83,0,0,0,0,0,0,0,0,57,2,0,1,0.0,0.0,0.0,1,0,40,50,80.0,0,48,0,0,0,Lorient,2022-05-01 Lorient-Reims,FRA-L1,21-22,ec6c5c2d
+e97150c0,Jérémy Morel,21,MAD,CB,38-029,7,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,6,8,75.0,0,7,0,0,0,Lorient,2022-05-01 Lorient-Reims,FRA-L1,21-22,ec6c5c2d
+f066022d,Julien Laporte,15,FRA,CB,28-178,90,0,0,0,0,1,0,0,0,65,3,2,3,0.0,0.0,0.0,0,0,40,50,80.0,2,40,2,0,0,Lorient,2022-05-01 Lorient-Reims,FRA-L1,21-22,ec6c5c2d
+1545cf15,Houboulang Mendes,17,GNB,RB,23-362,90,0,0,0,0,2,2,0,0,70,4,2,1,0.1,0.1,0.0,3,0,45,56,80.4,3,39,2,1,0,Lorient,2022-05-01 Lorient-Reims,FRA-L1,21-22,ec6c5c2d
+fbf83734,Matthieu Dreyer,1,FRA,GK,33-042,90,0,0,0,0,0,0,0,0,35,0,0,0,0.0,0.0,0.0,0,0,26,35,74.3,0,21,0,0,0,Lorient,2022-05-01 Lorient-Reims,FRA-L1,21-22,ec6c5c2d
+47c609d5,El Bilal Touré,7,MLI,FW,20-210,89,1,1,0,0,2,1,0,0,32,1,0,0,0.4,0.4,0.5,3,1,21,24,87.5,2,21,2,2,2,Reims,2022-05-01 Lorient-Reims,FRA-L1,21-22,ec6c5c2d
+6751b938,Samuel Koeberlé,34,FRA,FW,17-156,1,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,2,0,0,0,Reims,2022-05-01 Lorient-Reims,FRA-L1,21-22,ec6c5c2d
+095e4199,Arber Zeneli,10,KVX,FW,27-065,63,1,0,0,0,3,1,0,0,22,0,1,0,0.7,0.7,0.0,1,0,7,11,63.6,2,18,0,1,1,Reims,2022-05-01 Lorient-Reims,FRA-L1,21-22,ec6c5c2d
+46750e9c,Nathanael Mbuku,11,FRA,FW,20-046,27,0,0,0,0,0,0,0,0,17,0,0,0,0.0,0.0,0.1,3,0,7,11,63.6,2,18,1,1,0,Reims,2022-05-01 Lorient-Reims,FRA-L1,21-22,ec6c5c2d
+64c14d49,Dion Lopy,26,SEN,CM,20-088,90,0,0,0,0,2,0,0,0,60,4,1,2,0.1,0.1,0.0,3,0,38,44,86.4,2,44,0,2,1,Reims,2022-05-01 Lorient-Reims,FRA-L1,21-22,ec6c5c2d
+a17a94d6,Azor Matusiwa,21,NED,CM,24-003,90,0,0,0,0,0,0,0,0,55,1,2,7,0.0,0.0,0.0,1,1,37,41,90.2,8,31,1,0,0,Reims,2022-05-01 Lorient-Reims,FRA-L1,21-22,ec6c5c2d
+37d04e90,Ilan Kebbal,20,ALG,CM,23-296,53,0,0,0,0,0,0,0,0,27,0,0,0,0.0,0.0,0.1,2,0,19,25,76.0,3,24,2,0,0,Reims,2022-05-01 Lorient-Reims,FRA-L1,21-22,ec6c5c2d
+9226aa22,Kamory Doumbia,33,MLI,CM,19-072,37,0,1,0,0,1,0,1,0,27,1,1,0,0.1,0.1,0.2,2,1,16,19,84.2,5,22,1,4,3,Reims,2022-05-01 Lorient-Reims,FRA-L1,21-22,ec6c5c2d
+40221fa7,Bradley Locko,28,FRA,LB,19-360,63,0,0,0,0,1,0,0,0,55,2,2,0,0.0,0.0,0.0,0,0,34,45,75.6,2,36,0,1,1,Reims,2022-05-01 Lorient-Reims,FRA-L1,21-22,ec6c5c2d
+7b082ec2,Maxime Busi,4,BEL,RB,22-199,27,0,0,0,0,0,0,0,0,22,2,0,1,0.0,0.0,0.2,2,0,16,20,80.0,2,15,1,0,0,Reims,2022-05-01 Lorient-Reims,FRA-L1,21-22,ec6c5c2d
+32c2d95f,Yunis Abdelhamid,5,MAR,CB,34-215,90,0,0,0,0,0,0,0,0,57,4,1,3,0.0,0.0,0.0,0,0,32,41,78.0,2,37,0,1,1,Reims,2022-05-01 Lorient-Reims,FRA-L1,21-22,ec6c5c2d
+9c221d14,Wout Faes,2,BEL,CB,24-028,90,0,0,0,0,0,0,0,0,60,2,3,1,0.0,0.0,0.0,0,0,40,47,85.1,3,40,1,1,1,Reims,2022-05-01 Lorient-Reims,FRA-L1,21-22,ec6c5c2d
+49136c42,Andrew Gravillon,6,GLP,CB,24-082,90,0,0,0,0,3,0,0,0,48,0,0,0,0.2,0.2,0.0,2,1,37,41,90.2,4,33,0,0,0,Reims,2022-05-01 Lorient-Reims,FRA-L1,21-22,ec6c5c2d
+90eb507d,Thomas Foket,32,BEL,"RB,LB",27-218,90,0,0,0,0,0,0,0,0,70,1,0,2,0.0,0.0,0.1,1,0,48,62,77.4,4,48,1,3,1,Reims,2022-05-01 Lorient-Reims,FRA-L1,21-22,ec6c5c2d
+58ad9383,Predrag Rajković,1,SRB,GK,26-182,90,0,0,0,0,0,0,0,0,36,0,0,0,0.0,0.0,0.0,0,0,22,28,78.6,0,21,0,0,0,Reims,2022-05-01 Lorient-Reims,FRA-L1,21-22,ec6c5c2d

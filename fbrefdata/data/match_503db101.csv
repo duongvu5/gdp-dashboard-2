@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+4d77b365,Darwin Núñez,9,URU,FW,21-127,71,0,0,0,0,2,0,0,0,30,1,0,2,0.2,0.2,0.0,2,0,15,18,83.3,1,13,1,0,0,Benfica,2020-10-29 Benfica-Standard Liège,UEL,20-21,503db101
+a45eac1f,Haris Seferović,14,SUI,FW,28-250,19,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,2,0,0,0,Benfica,2020-10-29 Benfica-Standard Liège,UEL,20-21,503db101
+e5a35ae9,Luca Waldschmidt,10,GER,FW,24-163,67,1,0,1,1,4,0,0,0,41,2,0,0,1.0,0.2,0.2,4,1,22,32,68.8,2,26,2,0,0,Benfica,2020-10-29 Benfica-Standard Liège,UEL,20-21,503db101
+47dc80f5,Adel Taarabt,49,MAR,CM,31-158,23,0,0,0,0,0,0,0,0,33,0,1,0,0.0,0.0,0.0,0,0,29,32,90.6,1,19,2,2,2,Benfica,2020-10-29 Benfica-Standard Liège,UEL,20-21,503db101
+b1cbc666,Everton Soares,7,BRA,LM,24-221,90,0,1,0,0,1,1,0,0,53,0,0,1,0.0,0.0,0.1,4,0,37,42,88.1,2,36,5,8,7,Benfica,2020-10-29 Benfica-Standard Liège,UEL,20-21,503db101
+96094cbc,Pizzi,21,POR,"CM,RM",31-023,78,2,0,1,1,2,1,0,0,106,2,0,0,0.9,0.1,0.2,6,1,90,98,91.8,21,69,5,3,2,Benfica,2020-10-29 Benfica-Standard Liège,UEL,20-21,503db101
+f63cda26,Gonçalo Ramos,88,POR,"FW,RM",19-131,12,0,0,0,0,1,0,0,0,6,1,0,0,0.0,0.0,0.0,1,0,2,2,100.0,0,3,1,0,0,Benfica,2020-10-29 Benfica-Standard Liège,UEL,20-21,503db101
+0d10333c,Gabriel,8,BRA,CM,27-041,71,0,0,0,0,0,0,0,0,96,1,1,1,0.0,0.0,0.0,2,1,81,93,87.1,13,67,0,0,0,Benfica,2020-10-29 Benfica-Standard Liège,UEL,20-21,503db101
+346d51d9,Julian Weigl,28,GER,CM,25-051,19,0,0,0,0,0,0,0,0,24,0,0,0,0.0,0.0,0.0,0,0,22,22,100.0,2,11,0,1,0,Benfica,2020-10-29 Benfica-Standard Liège,UEL,20-21,503db101
+6796e284,Pedrinho,38,BRA,RM,22-199,45,0,0,0,0,1,1,0,0,35,1,0,0,0.0,0.0,0.1,2,0,27,29,93.1,0,32,3,4,3,Benfica,2020-10-29 Benfica-Standard Liège,UEL,20-21,503db101
+70cf63ca,Rafa Silva,27,POR,"RM,FW",27-165,45,0,0,0,0,1,0,0,0,39,2,1,0,0.2,0.2,0.0,1,0,22,30,73.3,4,25,2,3,2,Benfica,2020-10-29 Benfica-Standard Liège,UEL,20-21,503db101
+a65c844b,Nuno Tavares,71,POR,LB,20-277,90,0,0,0,0,1,0,0,0,87,4,2,1,0.0,0.0,0.1,5,2,52,65,80.0,6,57,8,12,6,Benfica,2020-10-29 Benfica-Standard Liège,UEL,20-21,503db101
+ba23a904,Jan Vertonghen,5,BEL,CB,33-188,90,0,0,0,0,0,0,0,0,70,0,0,1,0.0,0.0,0.0,0,0,60,64,93.8,5,46,0,1,1,Benfica,2020-10-29 Benfica-Standard Liège,UEL,20-21,503db101
+0d267745,Nicolás Otamendi,30,ARG,CB,32-260,90,0,0,0,0,1,0,0,0,88,3,1,0,0.1,0.1,0.0,1,0,78,81,96.3,5,60,0,0,0,Benfica,2020-10-29 Benfica-Standard Liège,UEL,20-21,503db101
+f4b52308,Diogo Gonçalves,17,POR,RB,23-266,90,0,0,0,0,0,0,1,0,94,3,0,1,0.0,0.0,0.0,3,1,70,82,85.4,6,53,5,5,0,Benfica,2020-10-29 Benfica-Standard Liège,UEL,20-21,503db101
+03df04ff,Odisseas Vlachodimos,99,GRE,GK,26-186,90,0,0,0,0,0,0,0,0,32,0,0,0,0.0,0.0,0.0,0,0,26,31,83.9,0,15,0,0,0,Benfica,2020-10-29 Benfica-Standard Liège,UEL,20-21,503db101
+9e49c320,Obbi Oulare,9,BEL,FW,24-295,69,0,0,0,0,0,0,0,0,27,1,0,0,0.0,0.0,0.0,0,0,12,21,57.1,0,10,0,3,3,Standard Liège,2020-10-29 Benfica-Standard Liège,UEL,20-21,503db101
+d8d25850,Aleksandar Boljević,18,MNE,"LM,FW",24-322,21,0,0,0,0,1,0,0,0,11,0,1,0,0.1,0.1,0.0,0,0,2,5,40.0,0,6,0,1,0,Standard Liège,2020-10-29 Benfica-Standard Liège,UEL,20-21,503db101
+00eba9c9,Selim Amallah,19,MAR,"LM,FW",23-349,80,0,0,0,0,0,0,0,0,42,1,2,1,0.0,0.0,0.1,2,0,17,25,68.0,2,25,1,9,3,Standard Liège,2020-10-29 Benfica-Standard Liège,UEL,20-21,503db101
+23f9e9d3,Felipe Avenatti,25,URU,FW,27-186,10,0,0,0,0,1,0,0,0,1,0,0,0,0.1,0.1,0.0,0,0,0,0,,0,1,0,0,0,Standard Liège,2020-10-29 Benfica-Standard Liège,UEL,20-21,503db101
+fae880d5,Gojko Cimirot,8,BIH,CM,27-315,74,0,0,0,0,0,0,0,0,28,1,1,1,0.0,0.0,0.0,0,0,21,22,95.5,1,17,0,1,0,Standard Liège,2020-10-29 Benfica-Standard Liège,UEL,20-21,503db101
+6959bef9,Joachim Carcela,29,BEL,CM,20-318,16,0,0,0,0,0,0,0,0,9,2,0,1,0.0,0.0,0.0,1,0,5,6,83.3,0,7,1,1,1,Standard Liège,2020-10-29 Benfica-Standard Liège,UEL,20-21,503db101
+ec30b9c8,Samuel Bastien,28,COD,CM,24-033,90,0,0,0,0,0,0,0,0,28,1,2,0,0.0,0.0,0.0,1,0,20,23,87.0,0,17,0,0,0,Standard Liège,2020-10-29 Benfica-Standard Liège,UEL,20-21,503db101
+dc415e39,Mehdi Carcela,10,MAR,RM,31-120,90,0,0,0,0,2,0,0,0,47,2,3,1,0.1,0.1,0.0,1,0,18,34,52.9,1,29,2,3,2,Standard Liège,2020-10-29 Benfica-Standard Liège,UEL,20-21,503db101
+47a0b54d,Nicolas Gavory,24,FRA,LB,25-256,90,0,0,0,0,0,0,0,0,55,5,1,2,0.0,0.0,0.1,3,0,37,45,82.2,2,33,5,2,2,Standard Liège,2020-10-29 Benfica-Standard Liège,UEL,20-21,503db101
+8b9b8e43,Noë Dussenne,6,BEL,CB,28-205,90,0,0,0,0,0,0,0,0,55,7,2,0,0.0,0.0,0.0,1,0,31,41,75.6,1,22,0,1,1,Standard Liège,2020-10-29 Benfica-Standard Liège,UEL,20-21,503db101
+4398b5cb,Merveille Bokadi,20,COD,CB,28-161,90,0,0,0,0,0,0,0,0,41,3,4,2,0.0,0.0,0.0,0,0,21,25,84.0,0,10,0,0,0,Standard Liège,2020-10-29 Benfica-Standard Liège,UEL,20-21,503db101
+afbf187b,Zinho Vanheusden,3,BEL,CB,21-092,74,0,0,0,0,2,1,0,0,40,3,1,1,0.1,0.1,0.0,0,0,23,28,82.1,1,19,1,1,1,Standard Liège,2020-10-29 Benfica-Standard Liège,UEL,20-21,503db101
+ebca82e8,Konstantinos Laifis,34,CYP,CB,27-163,16,0,0,0,0,0,0,0,0,9,1,0,0,0.0,0.0,0.0,0,0,5,7,71.4,0,4,1,0,0,Standard Liège,2020-10-29 Benfica-Standard Liège,UEL,20-21,503db101
+46e58246,Collins Fai,21,CMR,RB,28-077,90,0,0,0,0,0,0,1,0,63,8,1,1,0.0,0.0,0.1,3,0,31,48,64.6,1,31,1,0,0,Standard Liège,2020-10-29 Benfica-Standard Liège,UEL,20-21,503db101
+79c536d7,Arnaud Bodart,16,BEL,GK,22-232,90,0,0,0,0,0,0,1,0,43,0,0,0,0.0,0.0,0.0,0,0,29,40,72.5,0,22,0,0,0,Standard Liège,2020-10-29 Benfica-Standard Liège,UEL,20-21,503db101

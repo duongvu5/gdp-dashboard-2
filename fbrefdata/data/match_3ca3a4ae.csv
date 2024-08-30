@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+343c0d52,Giovanni Simeone,9,ARG,FW,22-123,90,1,0,0,0,4,1,0,0,30,1,0,1,0.5,0.5,0.0,2,0,11,17,64.7,0,14,1,0,0,Fiorentina,2017-11-05 Fiorentina-Roma,ITA-SERIA_A,17-18,3ca3a4ae
+b0f7e36c,Federico Chiesa,25,ITA,LW,20-011,73,0,0,0,0,4,1,0,0,31,0,1,0,0.1,0.1,0.1,4,0,17,20,85.0,1,16,4,1,0,Fiorentina,2017-11-05 Fiorentina-Roma,ITA-SERIA_A,17-18,3ca3a4ae
+422ec08a,Khouma Babacar,30,SEN,LW,24-233,17,0,0,0,0,2,1,0,0,8,1,0,0,0.1,0.1,0.0,0,0,3,4,75.0,0,5,1,0,0,Fiorentina,2017-11-05 Fiorentina-Roma,ITA-SERIA_A,17-18,3ca3a4ae
+e61bdd69,Gil Bastião Dias,28,POR,RW,21-038,81,0,1,0,0,3,1,0,0,36,4,1,0,0.1,0.1,0.3,5,3,17,24,70.8,1,25,5,2,1,Fiorentina,2017-11-05 Fiorentina-Roma,ITA-SERIA_A,17-18,3ca3a4ae
+ae82fa48,Valentin Eysseric,10,FRA,RW,25-225,9,0,0,0,0,0,0,0,0,7,1,0,1,0.0,0.0,0.0,0,0,4,6,66.7,0,4,1,0,0,Fiorentina,2017-11-05 Fiorentina-Roma,ITA-SERIA_A,17-18,3ca3a4ae
+4a56052c,Jordan Veretout,17,FRA,LM,24-249,90,1,0,0,0,4,2,0,0,51,1,1,1,0.4,0.4,0.0,5,0,29,38,76.3,6,34,3,4,3,Fiorentina,2017-11-05 Fiorentina-Roma,ITA-SERIA_A,17-18,3ca3a4ae
+e8c930bb,Milan Badelj,5,CRO,CM,28-253,74,0,0,0,0,0,0,0,0,44,3,1,1,0.0,0.0,0.0,2,0,27,38,71.1,3,25,0,0,0,Fiorentina,2017-11-05 Fiorentina-Roma,ITA-SERIA_A,17-18,3ca3a4ae
+50b51fac,Carlos Sánchez,6,COL,CM,31-272,16,0,0,0,0,0,0,0,0,17,0,1,2,0.0,0.0,0.0,1,0,9,12,75.0,0,6,0,0,0,Fiorentina,2017-11-05 Fiorentina-Roma,ITA-SERIA_A,17-18,3ca3a4ae
+0000acda,Marco Benassi,24,ITA,RM,23-058,90,0,0,0,0,2,0,0,0,53,3,2,2,0.1,0.1,0.1,5,0,31,42,73.8,6,29,3,0,0,Fiorentina,2017-11-05 Fiorentina-Roma,ITA-SERIA_A,17-18,3ca3a4ae
+9e1577aa,Cristiano Biraghi,3,ITA,LB,25-065,90,0,1,0,0,0,0,0,0,50,3,1,2,0.0,0.0,0.4,4,1,26,41,63.4,3,16,1,0,0,Fiorentina,2017-11-05 Fiorentina-Roma,ITA-SERIA_A,17-18,3ca3a4ae
+1522dab2,Davide Astori,13,ITA,CB,30-302,90,0,0,0,0,0,0,0,0,48,1,0,1,0.0,0.0,0.1,1,0,32,41,78.0,1,23,0,0,0,Fiorentina,2017-11-05 Fiorentina-Roma,ITA-SERIA_A,17-18,3ca3a4ae
+8c725b43,Germán Pezzella,20,ARG,CB,26-131,90,0,0,0,0,0,0,1,0,62,2,1,0,0.0,0.0,0.0,0,0,41,51,80.4,6,31,0,0,0,Fiorentina,2017-11-05 Fiorentina-Roma,ITA-SERIA_A,17-18,3ca3a4ae
+55ae91f0,Bruno Gaspar,76,ANG,RB,24-198,90,0,0,0,0,0,0,0,0,64,4,0,0,0.0,0.0,0.0,2,0,45,56,80.4,7,21,0,0,0,Fiorentina,2017-11-05 Fiorentina-Roma,ITA-SERIA_A,17-18,3ca3a4ae
+ac4003af,Marco Sportiello,57,ITA,GK,25-179,90,0,0,0,0,0,0,0,0,36,0,0,0,0.0,0.0,0.0,0,0,22,33,66.7,0,16,0,0,0,Fiorentina,2017-11-05 Fiorentina-Roma,ITA-SERIA_A,17-18,3ca3a4ae
+3bb7f478,Edin Džeko,9,BIH,FW,31-233,90,0,1,0,0,4,2,0,0,30,1,0,0,0.4,0.4,0.9,6,1,15,21,71.4,0,17,3,2,2,Roma,2017-11-05 Fiorentina-Roma,ITA-SERIA_A,17-18,3ca3a4ae
+d3aaad90,Stephan El Shaarawy,92,ITA,LW,25-009,65,0,1,0,0,1,0,0,0,32,1,0,2,0.1,0.1,0.1,4,2,20,22,90.9,5,16,0,4,1,Roma,2017-11-05 Fiorentina-Roma,ITA-SERIA_A,17-18,3ca3a4ae
+a40d5a0c,Diego Perotti,8,ARG,LW,29-102,25,1,0,0,0,3,1,0,0,14,0,0,1,0.2,0.2,0.0,1,0,7,9,77.8,1,9,3,2,1,Roma,2017-11-05 Fiorentina-Roma,ITA-SERIA_A,17-18,3ca3a4ae
+8827bf46,Gerson,30,BRA,RW,20-169,81,2,0,0,0,3,2,0,0,34,2,0,0,0.1,0.1,0.0,2,0,20,26,76.9,1,18,1,0,0,Roma,2017-11-05 Fiorentina-Roma,ITA-SERIA_A,17-18,3ca3a4ae
+854ee61a,Grégoire Defrel,23,MTQ,RW,26-141,9,0,0,0,0,2,1,0,0,8,0,0,1,0.4,0.4,0.0,0,0,3,4,75.0,0,5,1,0,0,Roma,2017-11-05 Fiorentina-Roma,ITA-SERIA_A,17-18,3ca3a4ae
+1f9328da,Radja Nainggolan,4,BEL,LM,29-185,90,0,1,0,0,1,0,0,0,49,2,1,1,0.0,0.0,0.2,8,2,32,37,86.5,8,29,4,4,3,Roma,2017-11-05 Fiorentina-Roma,ITA-SERIA_A,17-18,3ca3a4ae
+b8c1de25,Maxime Gonalons,21,FRA,CM,28-240,90,0,1,0,0,0,0,1,0,61,2,4,0,0.0,0.0,0.0,4,1,46,50,92.0,7,27,0,3,1,Roma,2017-11-05 Fiorentina-Roma,ITA-SERIA_A,17-18,3ca3a4ae
+4a5a45c7,Lorenzo Pellegrini,7,ITA,RM,21-139,71,0,0,0,0,2,2,0,0,28,0,0,0,0.1,0.1,0.0,1,0,15,21,71.4,1,14,0,0,0,Roma,2017-11-05 Fiorentina-Roma,ITA-SERIA_A,17-18,3ca3a4ae
+ef2e5e1a,Kevin Strootman,6,NED,RM,27-265,19,0,0,0,0,0,0,0,0,12,0,0,0,0.0,0.0,0.0,1,0,8,11,72.7,1,3,0,0,0,Roma,2017-11-05 Fiorentina-Roma,ITA-SERIA_A,17-18,3ca3a4ae
+eda40760,Aleksandar Kolarov,11,SRB,LB,31-360,90,0,0,0,0,3,1,0,0,82,1,2,2,0.1,0.1,0.4,5,0,41,63,65.1,1,30,7,9,4,Roma,2017-11-05 Fiorentina-Roma,ITA-SERIA_A,17-18,3ca3a4ae
+4e358a2d,Federico Fazio,20,ARG,CB,30-233,90,0,0,0,0,0,0,0,0,75,3,3,0,0.0,0.0,0.1,1,0,51,61,83.6,6,33,2,1,1,Roma,2017-11-05 Fiorentina-Roma,ITA-SERIA_A,17-18,3ca3a4ae
+c707411f,Kostas Manolas,44,GRE,CB,26-144,90,1,0,0,0,1,1,0,0,50,1,0,4,0.4,0.4,0.0,0,0,29,35,82.9,2,15,1,0,0,Roma,2017-11-05 Fiorentina-Roma,ITA-SERIA_A,17-18,3ca3a4ae
+e288d4b3,Alessandro Florenzi,24,ITA,RB,26-239,90,0,0,0,0,1,0,0,0,64,2,4,0,0.1,0.1,0.0,2,0,40,54,74.1,2,29,2,2,1,Roma,2017-11-05 Fiorentina-Roma,ITA-SERIA_A,17-18,3ca3a4ae
+7a2e46a8,Alisson,1,BRA,GK,25-034,90,0,0,0,0,0,0,0,0,46,0,1,0,0.0,0.0,0.0,0,0,24,41,58.5,0,17,0,0,0,Roma,2017-11-05 Fiorentina-Roma,ITA-SERIA_A,17-18,3ca3a4ae

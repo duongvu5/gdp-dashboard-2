@@ -1,0 +1,32 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+ce50fd99,Jonathan David,9,CAN,FW,21-045,90,0,0,0,0,1,0,0,0,26,0,0,0,0.1,0.1,0.0,1,0,13,18,72.2,1,18,0,1,0,Lille,2021-02-28 Lille-Strasbourg,FRA-L1,20-21,89db6c90
+42eaa028,Jonathan Ikone,10,FRA,FW,22-302,90,0,0,0,0,3,1,0,0,58,0,0,0,0.2,0.2,0.1,7,0,39,51,76.5,3,36,4,6,5,Lille,2021-02-28 Lille-Strasbourg,FRA-L1,20-21,89db6c90
+b2bd0f6c,Jonathan Bamba,7,CIV,LM,24-339,60,0,0,0,0,0,0,0,0,70,1,1,0,0.0,0.0,0.1,2,0,45,62,72.6,1,42,1,4,4,Lille,2021-02-28 Lille-Strasbourg,FRA-L1,20-21,89db6c90
+8eec784d,Timothy Weah,22,USA,LM,21-006,30,0,0,0,0,2,0,0,0,19,0,0,0,0.3,0.3,0.0,1,0,8,15,53.3,2,12,1,1,1,Lille,2021-02-28 Lille-Strasbourg,FRA-L1,20-21,89db6c90
+ae59b359,Boubakary Soumaré,24,FRA,CM,22-001,59,0,0,0,0,0,0,0,0,69,1,1,1,0.0,0.0,0.0,0,0,56,63,88.9,10,51,0,1,1,Lille,2021-02-28 Lille-Strasbourg,FRA-L1,20-21,89db6c90
+f3600c02,Xeka,8,POR,CM,26-110,31,0,0,0,0,1,0,0,0,32,3,0,0,0.0,0.0,0.0,2,0,23,27,85.2,5,22,1,1,1,Lille,2021-02-28 Lille-Strasbourg,FRA-L1,20-21,89db6c90
+ef9c1c95,Benjamin André,21,FRA,CM,30-209,90,0,1,0,0,1,0,0,0,96,4,4,0,0.0,0.0,0.3,3,1,63,77,81.8,11,69,1,5,4,Lille,2021-02-28 Lille-Strasbourg,FRA-L1,20-21,89db6c90
+fa18c72e,Luiz Araújo,11,BRA,RM,24-271,59,0,0,0,0,1,0,0,0,34,2,0,0,0.0,0.0,0.0,1,0,14,22,63.6,1,22,2,5,2,Lille,2021-02-28 Lille-Strasbourg,FRA-L1,20-21,89db6c90
+f5c8b425,Yusuf Yazıcı,12,TUR,RM,24-030,31,0,0,0,0,2,2,0,0,21,0,0,0,0.1,0.1,0.3,3,0,12,18,66.7,4,12,1,2,1,Lille,2021-02-28 Lille-Strasbourg,FRA-L1,20-21,89db6c90
+c20bdcd7,Reinildo Mandava,28,MOZ,LB,27-038,90,0,0,0,0,0,0,0,0,95,1,3,2,0.0,0.0,0.0,1,1,69,84,82.1,10,70,7,1,1,Lille,2021-02-28 Lille-Strasbourg,FRA-L1,20-21,89db6c90
+ccce7025,Sven Botman,5,NED,CB,21-047,85,0,0,0,0,2,1,0,0,90,0,3,0,0.1,0.1,0.0,0,0,70,79,88.6,7,64,5,0,0,Lille,2021-02-28 Lille-Strasbourg,FRA-L1,20-21,89db6c90
+57a46f3f,Isaac Lihadji,19,FRA,CB,18-324,5,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,1,0,0,0,Lille,2021-02-28 Lille-Strasbourg,FRA-L1,20-21,89db6c90
+90f87966,José Fonte,6,POR,CB,37-068,90,1,0,0,0,1,1,0,0,87,0,0,1,0.2,0.2,0.0,1,0,72,81,88.9,3,60,0,0,0,Lille,2021-02-28 Lille-Strasbourg,FRA-L1,20-21,89db6c90
+a634b9d2,Jérémy Pied,26,FRA,RB,32-005,72,0,0,0,0,0,0,0,0,65,0,1,1,0.0,0.0,0.1,1,0,46,60,76.7,4,42,1,2,2,Lille,2021-02-28 Lille-Strasbourg,FRA-L1,20-21,89db6c90
+b2336681,Tiago Djaló,3,POR,RB,20-325,18,0,0,0,0,0,0,0,0,16,1,0,0,0.0,0.0,0.0,1,0,16,16,100.0,2,6,0,0,0,Lille,2021-02-28 Lille-Strasbourg,FRA-L1,20-21,89db6c90
+fcb38f57,Mike Maignan,16,FRA,GK,25-240,90,0,0,0,0,0,0,0,0,30,0,0,0,0.0,0.0,0.0,0,0,26,27,96.3,1,14,0,0,0,Lille,2021-02-28 Lille-Strasbourg,FRA-L1,20-21,89db6c90
+462475ed,Ludovic Ajorque,25,FRA,FW,27-003,70,1,0,0,0,2,2,0,0,34,0,0,0,0.4,0.4,0.0,1,0,10,21,47.6,1,24,2,2,2,Strasbourg,2021-02-28 Lille-Strasbourg,FRA-L1,20-21,89db6c90
+6605d143,Habib Diallo,28,SEN,FW,25-255,20,0,0,0,0,2,1,0,0,10,0,0,0,0.3,0.3,0.0,1,0,1,2,50.0,0,6,0,1,1,Strasbourg,2021-02-28 Lille-Strasbourg,FRA-L1,20-21,89db6c90
+c76b7567,Adrien Thomasson,26,FRA,FW,27-080,90,0,0,0,0,0,0,0,0,45,1,2,1,0.0,0.0,0.3,0,0,24,29,82.8,2,29,0,2,1,Strasbourg,2021-02-28 Lille-Strasbourg,FRA-L1,20-21,89db6c90
+f7691f63,Dimitri Liénard,11,FRA,LM,33-015,88,0,0,0,0,1,0,0,0,45,1,1,1,0.0,0.0,0.0,1,0,19,38,50.0,1,30,4,1,1,Strasbourg,2021-02-28 Lille-Strasbourg,FRA-L1,20-21,89db6c90
+5b5724d2,Lionel Carole,23,FRA,LM,29-322,2,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,1,0,2,3,66.7,1,3,1,0,0,Strasbourg,2021-02-28 Lille-Strasbourg,FRA-L1,20-21,89db6c90
+0f8418aa,Ibrahima Sissoko,27,MLI,CM,23-124,90,0,0,0,0,0,0,0,0,39,3,3,1,0.0,0.0,0.0,1,1,21,28,75.0,1,20,0,4,3,Strasbourg,2021-02-28 Lille-Strasbourg,FRA-L1,20-21,89db6c90
+48b28bfd,Jean-Eudes Aholou,6,CIV,CM,26-345,90,0,0,0,0,0,0,1,0,32,2,3,0,0.0,0.0,0.0,1,0,13,19,68.4,1,17,1,5,4,Strasbourg,2021-02-28 Lille-Strasbourg,FRA-L1,20-21,89db6c90
+10f0fdd3,Jean-Ricner Bellegarde,17,FRA,RM,22-246,79,0,0,0,0,1,0,0,0,40,3,2,0,0.1,0.1,0.0,1,0,19,26,73.1,1,33,3,4,3,Strasbourg,2021-02-28 Lille-Strasbourg,FRA-L1,20-21,89db6c90
+1787195f,Mehdi Chahiri,21,MAR,RM,24-218,11,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,1,2,1,0,0,Strasbourg,2021-02-28 Lille-Strasbourg,FRA-L1,20-21,89db6c90
+0118c54c,Anthony Caci,19,FRA,LB,23-242,90,0,0,0,0,1,0,0,0,62,6,1,1,0.0,0.0,0.3,2,0,34,46,73.9,2,33,3,1,1,Strasbourg,2021-02-28 Lille-Strasbourg,FRA-L1,20-21,89db6c90
+43e7a164,Alexander Djiku,24,GHA,CB,26-203,90,0,0,0,0,0,0,0,0,43,3,6,0,0.0,0.0,0.0,0,0,18,27,66.7,0,18,0,0,0,Strasbourg,2021-02-28 Lille-Strasbourg,FRA-L1,20-21,89db6c90
+e6777e6b,Stefan Mitrović,13,SRB,CB,30-282,90,0,0,0,0,0,0,0,0,31,0,5,0,0.0,0.0,0.0,0,0,15,20,75.0,0,14,0,0,0,Strasbourg,2021-02-28 Lille-Strasbourg,FRA-L1,20-21,89db6c90
+5d8d7454,Frederic Guilbert,4,FRA,RB,26-066,90,0,1,0,0,3,0,1,0,59,6,5,0,0.1,0.1,0.1,2,1,22,36,61.1,1,24,3,2,2,Strasbourg,2021-02-28 Lille-Strasbourg,FRA-L1,20-21,89db6c90
+a4527d33,Eiji Kawashima,16,JPN,GK,37-345,90,0,0,0,0,0,0,0,0,35,0,0,0,0.0,0.0,0.0,0,0,14,32,43.8,0,13,0,0,0,Strasbourg,2021-02-28 Lille-Strasbourg,FRA-L1,20-21,89db6c90

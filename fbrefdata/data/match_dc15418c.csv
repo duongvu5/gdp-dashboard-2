@@ -1,0 +1,29 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+7cdda3bf,Gaëtan Laborde,10,FRA,FW,24-114,88,0,0,0,0,1,0,0,0,29,0,0,1,0.1,0.1,0.1,2,0,13,24,54.2,2,13,3,1,1,Montpellier,2018-08-25 Montpellier-Saint-Étienne,FRA-L1,18-19,dc15418c
+d9a66c60,Petar Škuletić,32,SRB,AM,28-057,2,0,0,0,0,1,0,0,0,2,0,0,0,0.1,0.1,0.0,0,0,0,1,0.0,0,0,0,0,0,Montpellier,2018-08-25 Montpellier-Saint-Étienne,FRA-L1,18-19,dc15418c
+d33c706e,Andy Delort,11,ALG,FW,26-320,90,0,0,0,0,1,0,0,0,35,0,1,2,0.0,0.0,0.2,3,0,13,25,52.0,1,14,2,3,2,Montpellier,2018-08-25 Montpellier-Saint-Étienne,FRA-L1,18-19,dc15418c
+7e82a78f,Florent Mollet,25,FRA,AM,26-279,88,0,0,0,0,4,1,0,0,56,1,0,1,0.1,0.1,0.3,4,0,38,46,82.6,4,28,4,3,2,Montpellier,2018-08-25 Montpellier-Saint-Étienne,FRA-L1,18-19,dc15418c
+24eb7ed6,Junior Sambia,6,FRA,FW,21-352,2,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,2,0,1,0,Montpellier,2018-08-25 Montpellier-Saint-Étienne,FRA-L1,18-19,dc15418c
+542cc80f,Paul Lasne,7,FRA,CM,29-221,67,0,0,0,0,2,0,1,0,60,4,2,2,0.1,0.1,0.1,5,0,40,47,85.1,5,35,1,0,0,Montpellier,2018-08-25 Montpellier-Saint-Étienne,FRA-L1,18-19,dc15418c
+8f4d116f,Damien Le Tallec,14,FRA,CM,28-128,23,0,0,0,0,0,0,0,0,21,2,0,1,0.0,0.0,0.0,2,0,15,18,83.3,4,11,0,0,0,Montpellier,2018-08-25 Montpellier-Saint-Étienne,FRA-L1,18-19,dc15418c
+c2211709,Ellyes Skhiri,13,TUN,CM,23-107,90,0,0,0,0,3,0,0,0,73,5,2,1,0.1,0.1,0.0,2,0,45,56,80.4,6,35,0,2,1,Montpellier,2018-08-25 Montpellier-Saint-Étienne,FRA-L1,18-19,dc15418c
+e3e05edf,Ambroise Oyongo,8,CMR,WB,27-064,90,0,0,0,0,1,0,0,0,67,6,0,2,0.0,0.0,0.0,2,0,39,54,72.2,4,37,4,3,2,Montpellier,2018-08-25 Montpellier-Saint-Étienne,FRA-L1,18-19,dc15418c
+3dd738a1,Ruben Aguilar,2,FRA,WB,25-121,90,0,0,0,0,0,0,1,0,76,4,0,0,0.0,0.0,0.0,1,0,47,63,74.6,2,36,2,1,1,Montpellier,2018-08-25 Montpellier-Saint-Étienne,FRA-L1,18-19,dc15418c
+3f5b4635,Daniel Congré,3,FRA,CB,33-142,90,0,0,0,0,0,0,0,0,54,3,3,1,0.0,0.0,0.0,0,0,39,42,92.9,4,27,1,0,0,Montpellier,2018-08-25 Montpellier-Saint-Étienne,FRA-L1,18-19,dc15418c
+c4bbea9f,Vitorino Hilton,4,BRA,CB,40-346,90,0,0,0,0,0,0,1,0,45,0,0,0,0.0,0.0,0.0,1,0,34,41,82.9,5,24,0,0,0,Montpellier,2018-08-25 Montpellier-Saint-Étienne,FRA-L1,18-19,dc15418c
+6690ef25,Pedro Mendes,5,POR,CB,27-328,90,0,0,0,0,1,0,0,0,53,1,2,4,0.2,0.2,0.0,0,0,35,44,79.5,2,24,0,0,0,Montpellier,2018-08-25 Montpellier-Saint-Étienne,FRA-L1,18-19,dc15418c
+2fa2a875,Benjamin Lecomte,40,FRA,GK,27-121,90,0,0,0,0,0,0,0,0,27,0,0,0,0.0,0.0,0.0,1,0,23,25,92.0,0,10,0,0,0,Montpellier,2018-08-25 Montpellier-Saint-Étienne,FRA-L1,18-19,dc15418c
+4be0b467,Lois Diony,9,FRA,FW,25-248,85,0,0,0,0,1,1,0,0,21,1,0,0,0.1,0.1,0.1,3,0,13,16,81.3,0,13,2,1,0,Saint-Étienne,2018-08-25 Montpellier-Saint-Étienne,FRA-L1,18-19,dc15418c
+9001138b,Robert Berić,27,SVN,FW,27-069,5,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Saint-Étienne,2018-08-25 Montpellier-Saint-Étienne,FRA-L1,18-19,dc15418c
+148e136f,Rémy Cabella,7,FRA,LW,28-170,85,0,0,0,0,3,0,0,0,88,1,1,1,0.1,0.1,0.0,2,0,61,72,84.7,11,61,11,7,4,Saint-Étienne,2018-08-25 Montpellier-Saint-Étienne,FRA-L1,18-19,dc15418c
+7b9a9e25,Arnaud Nordin,18,FRA,LW,20-069,5,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,1,0,0,0,Saint-Étienne,2018-08-25 Montpellier-Saint-Étienne,FRA-L1,18-19,dc15418c
+4a57580c,Kévin Monnet-Paquet,22,FRA,RW,30-006,90,0,0,0,0,1,1,0,0,54,2,0,2,0.1,0.1,0.0,1,0,31,39,79.5,1,29,2,3,1,Saint-Étienne,2018-08-25 Montpellier-Saint-Étienne,FRA-L1,18-19,dc15418c
+2677a1de,Wahbi Khazri,10,TUN,AM,27-198,90,0,0,0,0,4,0,0,0,50,3,0,0,0.1,0.1,0.0,2,0,28,36,77.8,3,29,1,2,2,Saint-Étienne,2018-08-25 Montpellier-Saint-Étienne,FRA-L1,18-19,dc15418c
+d4133fa1,Yann M'Vila,6,FRA,DM,28-057,90,0,0,0,0,0,0,0,0,95,1,1,0,0.0,0.0,0.0,0,0,78,92,84.8,8,62,0,1,1,Saint-Étienne,2018-08-25 Montpellier-Saint-Étienne,FRA-L1,18-19,dc15418c
+4db2157a,Ole Selnæs,17,NOR,DM,24-049,90,0,0,0,0,0,0,0,0,59,4,1,1,0.0,0.0,0.1,2,0,38,50,76.0,4,31,2,2,1,Saint-Étienne,2018-08-25 Montpellier-Saint-Étienne,FRA-L1,18-19,dc15418c
+4914ed4a,Gabriel Silva,11,BRA,LB,27-104,90,0,0,0,0,0,0,0,0,56,1,1,1,0.0,0.0,0.0,0,0,34,46,73.9,0,22,0,1,1,Saint-Étienne,2018-08-25 Montpellier-Saint-Étienne,FRA-L1,18-19,dc15418c
+ab096c6f,Timothée Kolodziejczak,5,FRA,CB,26-328,90,0,0,0,0,0,0,0,0,69,2,3,2,0.0,0.0,0.0,0,0,49,59,83.1,2,30,1,0,0,Saint-Étienne,2018-08-25 Montpellier-Saint-Étienne,FRA-L1,18-19,dc15418c
+6b200d45,Loïc Perrin,24,FRA,CB,33-018,90,0,0,0,0,0,0,0,0,77,0,1,1,0.0,0.0,0.0,1,0,65,68,95.6,3,43,0,1,1,Saint-Étienne,2018-08-25 Montpellier-Saint-Étienne,FRA-L1,18-19,dc15418c
+92232aad,Mathieu Debuchy,26,FRA,RB,33-028,90,0,0,0,0,0,0,0,0,84,0,1,5,0.0,0.0,0.0,3,0,55,69,79.7,5,39,4,0,0,Saint-Étienne,2018-08-25 Montpellier-Saint-Étienne,FRA-L1,18-19,dc15418c
+cac76a72,Stéphane Ruffier,16,FRA,GK,31-332,90,0,0,0,0,0,0,0,0,25,0,0,0,0.0,0.0,0.0,0,0,16,22,72.7,0,7,0,0,0,Saint-Étienne,2018-08-25 Montpellier-Saint-Étienne,FRA-L1,18-19,dc15418c

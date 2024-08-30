@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+5d4f7d61,Patrik Schick,14,CZE,FW,24-321,45,0,1,0,0,1,0,1,0,19,2,0,0,0.1,0.1,0.6,4,1,10,13,76.9,1,9,3,3,2,Bayer Leverkusen,2020-12-10 Leverkusen-Slavia Prague,UEL,20-21,5ebba311
+62f94e47,Emrehan Gedikli,37,GER,FW,17-229,45,0,0,0,0,1,0,0,0,14,0,0,0,0.1,0.1,0.1,1,0,10,12,83.3,2,8,0,0,0,Bayer Leverkusen,2020-12-10 Leverkusen-Slavia Prague,UEL,20-21,5ebba311
+3a233281,Leon Bailey,9,JAM,LW,23-123,45,2,0,0,0,3,3,0,0,22,0,0,0,2.1,2.1,0.3,4,0,8,17,47.1,1,12,3,1,1,Bayer Leverkusen,2020-12-10 Leverkusen-Slavia Prague,UEL,20-21,5ebba311
+aeed5c06,Moussa Diaby,19,FRA,LW,21-156,45,1,1,0,0,3,2,0,0,23,0,0,0,0.8,0.8,0.4,3,1,18,19,94.7,0,16,4,2,1,Bayer Leverkusen,2020-12-10 Leverkusen-Slavia Prague,UEL,20-21,5ebba311
+bee0bab1,Karim Bellarabi,38,GER,RW,30-246,90,1,1,0,0,4,2,0,0,35,2,0,0,0.9,0.9,0.8,3,1,16,25,64.0,1,18,4,2,1,Bayer Leverkusen,2020-12-10 Leverkusen-Slavia Prague,UEL,20-21,5ebba311
+555d5edd,Nadiem Amiri,11,GER,AM,24-044,73,0,0,0,0,3,0,0,0,47,0,2,0,0.3,0.3,0.8,7,0,31,39,79.5,4,25,2,0,0,Bayer Leverkusen,2020-12-10 Leverkusen-Slavia Prague,UEL,20-21,5ebba311
+fc056d1e,Cem Türkmen,39,TUR,AM,18-256,17,0,0,0,0,0,0,0,0,21,0,0,0,0.0,0.0,0.0,1,1,18,21,85.7,3,18,1,0,0,Bayer Leverkusen,2020-12-10 Leverkusen-Slavia Prague,UEL,20-21,5ebba311
+73000a79,Daley Sinkgraven,22,NED,DM,25-159,61,0,1,0,0,2,0,0,0,30,2,1,0,0.1,0.1,0.3,4,2,20,22,90.9,3,11,1,1,1,Bayer Leverkusen,2020-12-10 Leverkusen-Slavia Prague,UEL,20-21,5ebba311
+14866457,Samed Onur,32,TUR,DM,18-148,29,0,0,0,0,0,0,1,0,24,1,0,0,0.0,0.0,0.0,0,0,13,14,92.9,0,12,0,2,1,Bayer Leverkusen,2020-12-10 Leverkusen-Slavia Prague,UEL,20-21,5ebba311
+69374ff5,Julian Baumgartlinger,15,AUT,DM,32-343,61,0,0,0,0,0,0,0,0,31,1,2,1,0.0,0.0,0.0,0,0,21,25,84.0,2,17,0,0,0,Bayer Leverkusen,2020-12-10 Leverkusen-Slavia Prague,UEL,20-21,5ebba311
+c50281a0,Lars Bender,8,GER,DM,31-227,29,0,0,0,0,0,0,0,0,26,3,2,0,0.0,0.0,0.0,0,0,14,17,82.4,1,7,0,1,0,Bayer Leverkusen,2020-12-10 Leverkusen-Slavia Prague,UEL,20-21,5ebba311
+f9acca3a,Wendell,18,BRA,LB,27-143,90,0,0,0,0,0,0,0,0,57,4,0,3,0.0,0.0,0.0,2,1,38,45,84.4,1,25,1,0,0,Bayer Leverkusen,2020-12-10 Leverkusen-Slavia Prague,UEL,20-21,5ebba311
+a73c8f95,Edmond Tapsoba,12,BFA,CB,21-312,90,0,0,0,0,1,0,0,0,98,5,0,0,0.1,0.1,0.0,0,0,75,91,82.4,1,61,1,1,1,Bayer Leverkusen,2020-12-10 Leverkusen-Slavia Prague,UEL,20-21,5ebba311
+6fd8a334,Aleksandar Dragović,6,AUT,CB,29-279,90,0,0,0,0,0,0,0,0,86,2,2,0,0.0,0.0,0.0,3,0,71,80,88.8,5,53,3,0,0,Bayer Leverkusen,2020-12-10 Leverkusen-Slavia Prague,UEL,20-21,5ebba311
+f820504e,Tin Jedvaj,16,CRO,RB,25-012,90,0,0,0,0,0,0,0,0,67,1,4,0,0.0,0.0,0.1,1,0,39,58,67.2,6,29,2,1,0,Bayer Leverkusen,2020-12-10 Leverkusen-Slavia Prague,UEL,20-21,5ebba311
+9321b8ed,Niklas Lomb,36,GER,GK,27-135,90,0,0,0,0,0,0,0,0,66,0,0,0,0.0,0.0,0.0,0,0,50,64,78.1,0,37,0,0,0,Bayer Leverkusen,2020-12-10 Leverkusen-Slavia Prague,UEL,20-21,5ebba311
+4567a0b4,Petar Musa,33,CRO,FW,22-281,52,0,0,0,0,1,1,0,0,23,0,1,0,0.0,0.0,0.0,1,0,13,18,72.2,2,8,0,1,1,Slavia Prague,2020-12-10 Leverkusen-Slavia Prague,UEL,20-21,5ebba311
+e8ed3abc,Stanislav Tecl,11,CZE,FW,30-100,38,0,0,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.0,0,0,5,6,83.3,0,3,0,1,0,Slavia Prague,2020-12-10 Leverkusen-Slavia Prague,UEL,20-21,5ebba311
+beec76cc,Peter Olayinka,9,NGA,LW,25-022,90,0,0,0,0,1,0,0,0,50,1,3,5,0.1,0.1,0.0,2,0,20,28,71.4,2,26,4,5,1,Slavia Prague,2020-12-10 Leverkusen-Slavia Prague,UEL,20-21,5ebba311
+fdbde523,Abdallah Sima,12,SEN,RW,19-176,81,0,0,0,0,2,1,0,0,36,1,1,2,0.1,0.1,0.0,0,0,17,22,77.3,4,18,3,3,2,Slavia Prague,2020-12-10 Leverkusen-Slavia Prague,UEL,20-21,5ebba311
+742ea558,Matěj Jurásek,37,CZE,RW,17-102,9,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,4,2,3,2,Slavia Prague,2020-12-10 Leverkusen-Slavia Prague,UEL,20-21,5ebba311
+66a7effe,Ondřej Lingr,32,CZE,CM,22-064,81,0,0,0,0,0,0,0,0,45,1,1,1,0.0,0.0,0.0,1,0,25,33,75.8,4,20,3,4,3,Slavia Prague,2020-12-10 Leverkusen-Slavia Prague,UEL,20-21,5ebba311
+f2cfb59a,Tomas Rigo,40,SVK,CM,18-160,9,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,1,0,2,2,100.0,0,3,0,0,0,Slavia Prague,2020-12-10 Leverkusen-Slavia Prague,UEL,20-21,5ebba311
+4c5e78da,Ibrahim Traoré,27,CIV,CM,32-085,81,0,0,0,0,0,0,0,0,57,2,1,1,0.0,0.0,0.0,0,0,38,50,76.0,5,23,1,0,0,Slavia Prague,2020-12-10 Leverkusen-Slavia Prague,UEL,20-21,5ebba311
+afaafed3,Ondřej Karafiát,4,CZE,CM,26-009,9,0,0,0,0,0,0,0,0,5,1,0,0,0.0,0.0,0.0,0,0,4,4,100.0,1,1,0,0,0,Slavia Prague,2020-12-10 Leverkusen-Slavia Prague,UEL,20-21,5ebba311
+d4232ba9,Petr Ševčík,23,CZE,CM,26-220,18,0,0,0,0,0,0,0,0,7,0,1,0,0.0,0.0,0.0,1,0,5,6,83.3,0,5,0,0,0,Slavia Prague,2020-12-10 Leverkusen-Slavia Prague,UEL,20-21,5ebba311
+e07c2923,Nicolae Stanciu,7,ROU,CM,27-217,72,0,0,0,0,2,1,0,0,68,4,0,0,0.1,0.1,0.1,2,0,49,60,81.7,6,43,0,4,2,Slavia Prague,2020-12-10 Leverkusen-Slavia Prague,UEL,20-21,5ebba311
+0eb8ee41,Oscar Dorley,19,LBR,LB,22-144,90,0,0,0,0,0,0,0,0,68,3,4,0,0.0,0.0,0.0,0,0,45,56,80.4,1,42,2,3,2,Slavia Prague,2020-12-10 Leverkusen-Slavia Prague,UEL,20-21,5ebba311
+acf7e795,David Zima,6,CZE,CB,20-032,90,0,0,0,0,1,0,0,0,58,0,3,4,0.1,0.1,0.0,1,0,35,43,81.4,1,34,2,0,0,Slavia Prague,2020-12-10 Leverkusen-Slavia Prague,UEL,20-21,5ebba311
+2b3efa4a,Jan Bořil,18,CZE,CB,29-334,90,0,0,0,0,0,0,0,0,70,2,4,3,0.0,0.0,0.0,0,0,52,60,86.7,2,41,1,1,1,Slavia Prague,2020-12-10 Leverkusen-Slavia Prague,UEL,20-21,5ebba311
+4adc7b42,Lukáš Masopust,28,CZE,RB,27-302,90,0,0,0,0,0,0,0,0,51,1,3,1,0.0,0.0,0.0,3,0,34,45,75.6,1,33,2,1,1,Slavia Prague,2020-12-10 Leverkusen-Slavia Prague,UEL,20-21,5ebba311
+179d2851,Ondřej Kolář,1,CZE,GK,26-054,90,0,0,0,0,0,0,0,0,50,0,0,0,0.0,0.0,0.0,0,0,35,47,74.5,0,36,0,0,0,Slavia Prague,2020-12-10 Leverkusen-Slavia Prague,UEL,20-21,5ebba311

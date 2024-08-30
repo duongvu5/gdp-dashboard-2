@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+f9446dcd,Max Kruse,10,GER,FW,30-275,90,0,0,0,0,5,1,0,0,95,1,0,0,0.3,0.3,0.3,13,1,60,82,73.2,11,56,5,4,2,Werder Bremen,2018-12-19 Werder Bremen-Hoffenheim,GER-BL1,18-19,fa4fffaf
+d571df78,Johannes Eggestein,24,GER,"FW,CM",20-225,76,0,0,0,0,3,0,0,0,44,2,0,0,0.2,0.2,0.4,5,0,21,30,70.0,6,32,4,4,1,Werder Bremen,2018-12-19 Werder Bremen-Hoffenheim,GER-BL1,18-19,fa4fffaf
+94c18565,Florian Kainz,7,AUT,AM,26-056,14,0,0,0,0,1,0,0,0,15,1,0,0,0.0,0.0,0.0,0,0,7,11,63.6,1,10,1,1,0,Werder Bremen,2018-12-19 Werder Bremen-Hoffenheim,GER-BL1,18-19,fa4fffaf
+f69fba57,Yuya Osako,8,JPN,AM,28-215,85,0,0,0,0,2,0,0,0,39,1,0,4,0.4,0.4,0.0,1,0,16,23,69.6,2,23,3,2,2,Werder Bremen,2018-12-19 Werder Bremen-Hoffenheim,GER-BL1,18-19,fa4fffaf
+54b6ee79,Claudio Pizarro,4,PER,CM,40-077,5,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,7,7,100.0,3,3,0,1,1,Werder Bremen,2018-12-19 Werder Bremen-Hoffenheim,GER-BL1,18-19,fa4fffaf
+15fd5593,Davy Klaassen,30,NED,LM,25-301,62,0,0,0,0,0,0,0,0,35,2,2,0,0.0,0.0,0.0,2,0,20,29,69.0,4,14,0,1,1,Werder Bremen,2018-12-19 Werder Bremen-Hoffenheim,GER-BL1,18-19,fa4fffaf
+6c6a3300,Milot Rashica,11,KVX,"FW,LM",22-174,28,0,0,0,0,4,2,0,0,17,0,0,0,0.6,0.6,0.1,4,0,3,6,50.0,1,12,1,4,2,Werder Bremen,2018-12-19 Werder Bremen-Hoffenheim,GER-BL1,18-19,fa4fffaf
+beb882a8,Maximilian Eggestein,35,GER,"CM,CB",22-011,90,0,0,0,0,1,0,0,0,62,3,1,2,0.0,0.0,0.0,2,0,41,49,83.7,5,27,1,0,0,Werder Bremen,2018-12-19 Werder Bremen-Hoffenheim,GER-BL1,18-19,fa4fffaf
+a5ce09f2,Kevin Möhwald,6,GER,"RM,CM",25-169,90,0,0,0,0,4,1,0,0,71,2,3,1,0.2,0.2,0.3,5,0,45,56,80.4,6,30,1,4,2,Werder Bremen,2018-12-19 Werder Bremen-Hoffenheim,GER-BL1,18-19,fa4fffaf
+9fec8860,Ludwig Augustinsson,5,SWE,"LB,WB",24-242,90,0,1,0,0,1,0,0,0,73,1,1,2,0.0,0.0,0.3,4,1,47,56,83.9,9,30,6,3,1,Werder Bremen,2018-12-19 Werder Bremen-Hoffenheim,GER-BL1,18-19,fa4fffaf
+00844823,Niklas Moisander,18,FIN,CB,33-081,90,0,0,0,0,0,0,0,0,70,1,2,0,0.0,0.0,0.2,3,0,53,64,82.8,12,37,3,0,0,Werder Bremen,2018-12-19 Werder Bremen-Hoffenheim,GER-BL1,18-19,fa4fffaf
+74d70fb5,Sebastian Langkamp,15,GER,CB,30-338,90,0,0,0,0,1,0,0,0,66,6,3,2,0.0,0.0,0.0,1,0,39,49,79.6,4,29,1,0,0,Werder Bremen,2018-12-19 Werder Bremen-Hoffenheim,GER-BL1,18-19,fa4fffaf
+3f65898c,Theodor Gebre Selassie,23,CZE,"RB,WB",31-360,90,1,0,0,0,4,1,0,0,75,3,3,2,0.6,0.6,0.0,3,0,39,52,75.0,7,34,2,0,0,Werder Bremen,2018-12-19 Werder Bremen-Hoffenheim,GER-BL1,18-19,fa4fffaf
+0a1cb833,Jiří Pavlenka,1,CZE,GK,26-249,90,0,0,0,0,0,0,0,0,49,0,0,0,0.0,0.0,0.0,0,0,28,47,59.6,0,21,0,0,0,Werder Bremen,2018-12-19 Werder Bremen-Hoffenheim,GER-BL1,18-19,fa4fffaf
+c17bfb65,Joelinton,34,BRA,FW,22-127,90,0,0,0,0,0,0,0,0,46,2,0,2,0.0,0.0,0.3,6,0,27,32,84.4,2,30,2,6,4,Hoffenheim,2018-12-19 Werder Bremen-Hoffenheim,GER-BL1,18-19,fa4fffaf
+53e07d0b,Ádám Szalai,28,HUN,AM,31-010,65,0,0,0,0,1,0,0,0,24,1,0,1,0.0,0.0,0.0,0,0,10,15,66.7,0,11,0,1,1,Hoffenheim,2018-12-19 Werder Bremen-Hoffenheim,GER-BL1,18-19,fa4fffaf
+c5bdb6e3,Reiss Nelson,9,ENG,AM,19-009,25,0,0,0,0,0,0,0,0,12,0,0,1,0.0,0.0,0.1,1,0,6,8,75.0,0,8,1,0,0,Hoffenheim,2018-12-19 Werder Bremen-Hoffenheim,GER-BL1,18-19,fa4fffaf
+603cb947,Andrej Kramarić,27,CRO,AM,27-183,90,0,0,0,0,5,2,0,0,48,0,0,0,1.1,1.1,0.0,2,0,32,40,80.0,1,30,3,0,0,Hoffenheim,2018-12-19 Werder Bremen-Hoffenheim,GER-BL1,18-19,fa4fffaf
+54b4dc4e,Kerem Demirbay,10,GER,CM,25-169,90,0,0,0,0,2,0,0,0,84,4,2,1,0.1,0.1,0.2,6,0,49,69,71.0,6,46,5,10,8,Hoffenheim,2018-12-19 Werder Bremen-Hoffenheim,GER-BL1,18-19,fa4fffaf
+dc62fbee,Leonardo Bittencourt,13,GER,CM,25-000,52,1,0,0,0,1,1,0,0,36,1,1,1,0.1,0.1,0.1,4,1,27,31,87.1,5,22,5,3,2,Hoffenheim,2018-12-19 Werder Bremen-Hoffenheim,GER-BL1,18-19,fa4fffaf
+ffbbc83b,Florian Grillitsch,11,AUT,CM,23-134,38,0,0,0,0,0,0,0,0,34,3,3,0,0.0,0.0,0.0,2,0,17,25,68.0,2,12,1,1,1,Hoffenheim,2018-12-19 Werder Bremen-Hoffenheim,GER-BL1,18-19,fa4fffaf
+fa274d97,Nico Schulz,16,GER,WB,25-262,90,0,1,0,0,1,0,1,0,85,1,1,0,0.1,0.1,0.7,3,1,51,70,72.9,2,51,11,9,5,Hoffenheim,2018-12-19 Werder Bremen-Hoffenheim,GER-BL1,18-19,fa4fffaf
+79c90e45,Pavel Kadeřábek,3,CZE,WB,26-238,90,0,0,0,0,2,0,0,0,55,1,2,0,0.4,0.4,0.0,1,0,29,46,63.0,2,19,1,0,0,Hoffenheim,2018-12-19 Werder Bremen-Hoffenheim,GER-BL1,18-19,fa4fffaf
+7aac47fe,Ermin Bičakčić,4,BIH,CB,28-329,52,0,0,0,0,0,0,0,0,49,3,4,2,0.0,0.0,0.0,1,0,30,38,78.9,4,23,1,0,0,Hoffenheim,2018-12-19 Werder Bremen-Hoffenheim,GER-BL1,18-19,fa4fffaf
+99de6b6f,Benjamin Hübner,21,GER,CB,29-168,38,0,0,0,0,1,1,0,0,35,3,1,1,0.1,0.1,0.0,0,0,17,22,77.3,3,15,0,0,0,Hoffenheim,2018-12-19 Werder Bremen-Hoffenheim,GER-BL1,18-19,fa4fffaf
+7f609bfc,Stefan Posch,38,AUT,CB,21-219,90,0,0,0,0,1,0,0,0,72,4,2,7,0.1,0.1,0.0,0,0,40,51,78.4,0,38,1,0,0,Hoffenheim,2018-12-19 Werder Bremen-Hoffenheim,GER-BL1,18-19,fa4fffaf
+93a50d2c,Kasim Nuhu,15,GHA,CB,23-180,90,0,0,0,0,0,0,0,0,52,2,6,2,0.0,0.0,0.0,0,0,28,37,75.7,3,21,0,1,1,Hoffenheim,2018-12-19 Werder Bremen-Hoffenheim,GER-BL1,18-19,fa4fffaf
+47064058,Oliver Baumann,1,GER,GK,28-200,90,0,0,0,0,0,0,0,0,51,0,0,0,0.0,0.0,0.0,0,0,37,48,77.1,0,24,0,0,0,Hoffenheim,2018-12-19 Werder Bremen-Hoffenheim,GER-BL1,18-19,fa4fffaf

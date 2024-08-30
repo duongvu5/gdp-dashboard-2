@@ -1,0 +1,32 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+0d7b6576,Elye Wahi,9,FRA,FW,21-122,77,1,0,0,0,3,1,1,0,25,1,0,0,0.6,0.6,0.1,2,0,5,13,38.5,1,18,3,3,0,Lens,2024-05-03 Lens-Lorient,FRA-L1,23-24,e7684537
+90fcf472,Wesley Saïd,22,FRA,FW,29-014,13,0,0,0,0,3,0,0,0,18,1,0,0,0.2,0.2,0.0,3,0,10,10,100.0,2,14,2,2,2,Lens,2024-05-03 Lens-Lorient,FRA-L1,23-24,e7684537
+4b96c347,Angelo Fulgini,11,FRA,AM,27-257,77,0,0,0,0,2,1,0,0,72,3,1,0,0.1,0.1,0.5,3,0,42,60,70.0,4,42,1,4,2,Lens,2024-05-03 Lens-Lorient,FRA-L1,23-24,e7684537
+c76b7567,Adrien Thomasson,28,FRA,AM,30-145,13,0,1,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.6,2,1,7,7,100.0,2,7,0,0,0,Lens,2024-05-03 Lens-Lorient,FRA-L1,23-24,e7684537
+7a42d0df,Florian Sotoca,7,FRA,AM,33-191,90,0,0,0,0,4,2,0,0,58,1,0,1,0.3,0.3,0.2,3,0,36,45,80.0,10,40,1,4,4,Lens,2024-05-03 Lens-Lorient,FRA-L1,23-24,e7684537
+59948ef7,David Pereira da Costa,10,POR,CM,23-119,86,1,0,0,0,1,1,0,0,49,3,1,2,0.5,0.5,0.0,2,1,36,43,83.7,3,37,1,0,0,Lens,2024-05-03 Lens-Lorient,FRA-L1,23-24,e7684537
+82464ce3,Salis Abdul Samed,6,GHA,CM,24-038,4,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,1,0,3,3,100.0,0,3,1,0,0,Lens,2024-05-03 Lens-Lorient,FRA-L1,23-24,e7684537
+1598599e,Nampalys Mendy,26,SEN,CM,31-315,90,0,1,0,0,0,0,0,0,76,3,1,0,0.0,0.0,0.4,5,1,56,67,83.6,9,58,2,1,1,Lens,2024-05-03 Lens-Lorient,FRA-L1,23-24,e7684537
+b3f8bdef,Deiver Machado,3,COL,WB,30-244,81,0,0,0,0,3,1,0,0,47,4,1,0,0.1,0.1,0.0,1,0,29,38,76.3,1,28,2,0,0,Lens,2024-05-03 Lens-Lorient,FRA-L1,23-24,e7684537
+3dd738a1,Ruben Aguilar,2,FRA,WB,31-007,9,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,1,0,4,4,100.0,1,3,0,0,0,Lens,2024-05-03 Lens-Lorient,FRA-L1,23-24,e7684537
+00a8d210,Przemysław Frankowski,29,POL,WB,29-021,90,0,0,0,0,1,0,0,0,74,0,1,3,0.0,0.0,0.0,2,0,46,64,71.9,3,48,2,0,0,Lens,2024-05-03 Lens-Lorient,FRA-L1,23-24,e7684537
+6f5ec8bb,Facundo Medina,14,ARG,CB,24-341,90,0,0,0,0,1,0,0,0,91,4,0,2,0.1,0.1,0.1,6,0,59,73,80.8,9,64,2,0,0,Lens,2024-05-03 Lens-Lorient,FRA-L1,23-24,e7684537
+6e33125f,Kevin Danso,4,AUT,CB,25-227,45,0,0,0,0,0,0,0,0,34,1,0,1,0.0,0.0,0.0,1,0,29,31,93.5,2,26,0,0,0,Lens,2024-05-03 Lens-Lorient,FRA-L1,23-24,e7684537
+5167c97e,Massadio Haïdara,21,MLI,CB,31-153,45,0,0,0,0,0,0,0,0,39,1,1,1,0.0,0.0,0.0,0,0,31,32,96.9,0,24,0,0,0,Lens,2024-05-03 Lens-Lorient,FRA-L1,23-24,e7684537
+06c48679,Jonathan Gradit,24,FRA,CB,31-161,90,0,0,0,0,1,0,0,0,79,1,0,3,0.0,0.0,0.0,4,0,66,70,94.3,17,59,1,1,0,Lens,2024-05-03 Lens-Lorient,FRA-L1,23-24,e7684537
+60d90c55,Brice Samba,30,FRA,GK,30-008,90,0,0,0,0,0,0,0,0,40,0,0,0,0.0,0.0,0.0,0,0,29,35,82.9,0,32,0,0,0,Lens,2024-05-03 Lens-Lorient,FRA-L1,23-24,e7684537
+d469252b,Mohamed Bamba,9,CIV,FW,22-145,78,0,0,0,0,2,1,0,0,23,1,0,0,0.2,0.2,0.0,2,0,10,15,66.7,1,16,4,1,0,Lorient,2024-05-03 Lens-Lorient,FRA-L1,23-24,e7684537
+b2fe86e5,Eli Junior Kroupi,22,FRA,FW,17-315,12,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,6,6,100.0,0,6,0,0,0,Lorient,2024-05-03 Lens-Lorient,FRA-L1,23-24,e7684537
+e546b2e3,Julien Ponceau,21,FRA,AM,23-157,90,0,0,0,0,3,0,0,0,47,2,0,0,0.1,0.1,0.1,3,0,31,36,86.1,5,36,2,3,0,Lorient,2024-05-03 Lens-Lorient,FRA-L1,23-24,e7684537
+e1df6989,Imran Louza,6,MAR,AM,25-002,90,0,0,0,0,2,1,0,0,63,0,1,0,0.1,0.1,0.2,4,0,37,54,68.5,9,45,2,5,3,Lorient,2024-05-03 Lens-Lorient,FRA-L1,23-24,e7684537
+59bf127b,Tiemoué Bakayoko,14,FRA,CM,29-260,78,0,0,0,0,0,0,1,0,46,2,4,0,0.0,0.0,0.0,0,0,36,40,90.0,5,34,2,1,0,Lorient,2024-05-03 Lens-Lorient,FRA-L1,23-24,e7684537
+0400dd2f,Badredine Bouanani,10,ALG,CM,19-147,12,0,0,0,0,1,1,0,0,12,0,0,1,0.1,0.1,0.0,1,0,7,8,87.5,1,8,0,0,0,Lorient,2024-05-03 Lens-Lorient,FRA-L1,23-24,e7684537
+31626657,Laurent Abergel,19,FRA,CM,31-092,90,0,0,0,0,0,0,0,0,60,1,2,1,0.0,0.0,0.1,5,0,39,53,73.6,10,46,1,2,1,Lorient,2024-05-03 Lens-Lorient,FRA-L1,23-24,e7684537
+5271c8f1,Benjamin Mendy,5,FRA,WB,29-291,90,0,0,0,0,1,1,0,0,59,0,0,0,0.0,0.0,0.0,0,0,29,49,59.2,4,36,0,2,1,Lorient,2024-05-03 Lens-Lorient,FRA-L1,23-24,e7684537
+c1597cf7,Panos Katseris,7,GRE,WB,22-303,78,0,0,0,0,1,1,1,0,46,0,0,1,0.0,0.0,0.0,1,0,20,31,64.5,5,29,1,5,0,Lorient,2024-05-03 Lens-Lorient,FRA-L1,23-24,e7684537
+dd211559,Gedeon Kalulu,24,COD,WB,26-248,12,0,0,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.0,1,0,10,11,90.9,0,8,1,0,0,Lorient,2024-05-03 Lens-Lorient,FRA-L1,23-24,e7684537
+f066022d,Julien Laporte,15,FRA,CB,30-181,90,0,0,0,0,0,0,0,0,59,2,1,2,0.0,0.0,0.0,1,0,37,45,82.2,4,36,0,0,0,Lorient,2024-05-03 Lens-Lorient,FRA-L1,23-24,e7684537
+a4a44eb0,Montassar Talbi,3,TUN,CB,25-343,90,0,0,0,0,0,0,0,0,50,1,1,2,0.0,0.0,0.0,0,0,32,36,88.9,1,33,1,0,0,Lorient,2024-05-03 Lens-Lorient,FRA-L1,23-24,e7684537
+c55de1f5,Nathaniel Adjei,32,GHA,CB,21-256,90,0,0,0,0,1,0,0,0,53,1,0,1,0.1,0.1,0.0,1,0,36,43,83.7,2,35,1,0,0,Lorient,2024-05-03 Lens-Lorient,FRA-L1,23-24,e7684537
+dc29b608,Yvon Mvogo,38,SUI,GK,29-332,90,0,0,0,0,0,0,0,0,33,0,0,0,0.0,0.0,0.0,0,0,20,31,64.5,0,20,0,1,1,Lorient,2024-05-03 Lens-Lorient,FRA-L1,23-24,e7684537

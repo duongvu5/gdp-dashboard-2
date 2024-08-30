@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+50e6dc35,Jean-Philippe Mateta,9,FRA,FW,21-079,72,0,0,0,0,4,0,0,0,30,1,0,0,0.3,0.3,0.0,7,0,10,17,58.8,2,18,2,2,1,Mainz 05,2018-09-15 Mainz 05-Augsburg,GER-BL1,18-19,fca3b92a
+99be8fb5,Anthony Ujah,20,NGA,FW,27-336,18,1,0,0,0,2,1,0,0,11,0,0,0,0.9,0.9,0.6,3,1,6,7,85.7,1,8,2,0,0,Mainz 05,2018-09-15 Mainz 05-Augsburg,GER-BL1,18-19,fca3b92a
+74c7c2db,Robin Quaison,7,SWE,FW,24-341,90,0,0,0,0,4,1,0,0,36,2,1,0,1.0,1.0,0.0,2,0,18,26,69.2,2,25,1,3,2,Mainz 05,2018-09-15 Mainz 05-Augsburg,GER-BL1,18-19,fca3b92a
+05f99a4a,Jonathan Burkardt,29,GER,LM,18-066,90,0,0,0,0,0,0,0,0,43,2,1,2,0.0,0.0,0.2,4,0,14,26,53.8,4,28,1,5,2,Mainz 05,2018-09-15 Mainz 05-Augsburg,GER-BL1,18-19,fca3b92a
+9ceb7642,Pierre Kunde,14,CMR,CM,23-051,90,0,0,0,0,3,1,0,0,63,4,0,1,0.1,0.1,0.1,4,0,45,54,83.3,8,43,3,0,0,Mainz 05,2018-09-15 Mainz 05-Augsburg,GER-BL1,18-19,fca3b92a
+442b56fa,Ridle Baku,34,GER,CM,20-160,85,0,0,0,0,1,0,1,0,49,2,0,1,0.1,0.1,0.0,1,0,34,41,82.9,6,35,2,2,2,Mainz 05,2018-09-15 Mainz 05-Augsburg,GER-BL1,18-19,fca3b92a
+61fc9685,Alexandru Maxim,10,ROU,CM,28-069,5,1,0,0,0,1,1,0,0,6,1,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,4,0,0,0,Mainz 05,2018-09-15 Mainz 05-Augsburg,GER-BL1,18-19,fca3b92a
+f26834c7,Karim Onisiwo,21,AUT,RM,26-182,90,0,0,0,0,4,2,0,0,36,6,2,1,0.2,0.2,0.9,6,1,13,19,68.4,2,22,2,2,0,Mainz 05,2018-09-15 Mainz 05-Augsburg,GER-BL1,18-19,fca3b92a
+2f3e911a,Aarón Martín,3,ESP,LB,21-146,90,0,0,0,0,0,0,0,0,73,2,1,1,0.0,0.0,0.2,4,0,49,64,76.6,3,44,7,1,1,Mainz 05,2018-09-15 Mainz 05-Augsburg,GER-BL1,18-19,fca3b92a
+00242715,Moussa Niakhate,19,SEN,CB,22-191,90,0,0,0,0,1,0,0,0,60,2,1,0,0.1,0.1,0.0,0,0,40,52,76.9,1,33,0,0,0,Mainz 05,2018-09-15 Mainz 05-Augsburg,GER-BL1,18-19,fca3b92a
+0e0ab524,Niko Bungert,26,GER,CB,31-326,77,0,0,0,0,0,0,0,0,54,4,1,2,0.0,0.0,0.0,3,0,38,43,88.4,2,27,0,0,0,Mainz 05,2018-09-15 Mainz 05-Augsburg,GER-BL1,18-19,fca3b92a
+c58a9db7,Ahmet Gürleyen,31,GER,CB,19-142,13,0,0,0,0,1,0,0,0,4,0,0,0,0.6,0.6,0.0,1,0,2,2,100.0,0,2,1,1,1,Mainz 05,2018-09-15 Mainz 05-Augsburg,GER-BL1,18-19,fca3b92a
+a7813ac4,Daniel Brosinski,18,GER,RB,30-060,90,0,0,0,0,0,0,0,0,63,0,3,0,0.0,0.0,0.1,5,1,43,61,70.5,3,32,4,0,0,Mainz 05,2018-09-15 Mainz 05-Augsburg,GER-BL1,18-19,fca3b92a
+cbac6ec9,Florian Müller,22,GER,GK,20-306,90,0,0,0,0,0,0,0,0,52,0,0,0,0.0,0.0,0.0,0,0,37,52,71.2,0,32,0,0,0,Mainz 05,2018-09-15 Mainz 05-Augsburg,GER-BL1,18-19,fca3b92a
+8e235926,Michael Gregoritsch,11,AUT,FW,24-150,72,0,0,0,0,1,0,0,0,30,0,0,0,0.1,0.1,0.1,1,0,18,25,72.0,2,13,0,1,0,Augsburg,2018-09-15 Mainz 05-Augsburg,GER-BL1,18-19,fca3b92a
+7d841904,Ji Dong-won,22,KOR,FW,27-110,11,1,0,0,0,1,1,0,0,5,0,0,1,0.0,0.0,0.0,0,0,1,2,50.0,0,3,1,0,0,Augsburg,2018-09-15 Mainz 05-Augsburg,GER-BL1,18-19,fca3b92a
+229cd98a,Sergio Córdova,21,VEN,FW,21-037,7,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,3,3,100.0,0,5,0,1,0,Augsburg,2018-09-15 Mainz 05-Augsburg,GER-BL1,18-19,fca3b92a
+f972644c,Marco Richter,23,GER,LW,20-295,59,0,0,0,0,2,0,0,0,23,0,0,0,0.1,0.1,0.0,0,0,15,19,78.9,1,22,3,1,0,Augsburg,2018-09-15 Mainz 05-Augsburg,GER-BL1,18-19,fca3b92a
+c6637acf,Caiuby,30,BRA,LW,30-063,31,0,0,0,0,3,1,0,0,24,2,0,3,0.1,0.1,0.0,0,0,9,15,60.0,1,7,1,0,0,Augsburg,2018-09-15 Mainz 05-Augsburg,GER-BL1,18-19,fca3b92a
+cd82452e,André Hahn,28,GER,RW,28-033,90,0,0,0,0,0,0,0,0,24,3,0,0,0.0,0.0,0.1,3,0,7,14,50.0,1,18,3,1,0,Augsburg,2018-09-15 Mainz 05-Augsburg,GER-BL1,18-19,fca3b92a
+826e8b63,Philipp Max,31,GER,"LB,LM",24-350,90,0,0,0,0,1,1,0,0,61,2,0,0,0.0,0.0,0.2,5,0,37,52,71.2,4,28,3,0,0,Augsburg,2018-09-15 Mainz 05-Augsburg,GER-BL1,18-19,fca3b92a
+f261abcb,Daniel Baier,10,GER,"LM,CM",34-120,90,0,0,0,0,0,0,0,0,73,3,1,2,0.0,0.0,0.0,1,0,45,65,69.2,7,43,3,0,0,Augsburg,2018-09-15 Mainz 05-Augsburg,GER-BL1,18-19,fca3b92a
+3c05e082,Koo Ja-cheol,19,KOR,"RM,CM",29-200,90,0,0,0,0,2,1,0,0,38,1,2,0,0.1,0.1,0.0,2,1,24,28,85.7,2,22,2,0,0,Augsburg,2018-09-15 Mainz 05-Augsburg,GER-BL1,18-19,fca3b92a
+088ca1bd,Jonathan Schmid,17,FRA,"RB,RM",28-085,90,0,0,0,0,0,0,0,0,45,2,1,1,0.0,0.0,0.2,5,0,27,35,77.1,3,19,1,1,0,Augsburg,2018-09-15 Mainz 05-Augsburg,GER-BL1,18-19,fca3b92a
+080440a4,Martin Hinteregger,36,AUT,CB,26-008,90,0,0,0,0,1,0,0,0,55,5,0,1,0.1,0.1,0.0,1,0,26,38,68.4,3,25,0,1,0,Augsburg,2018-09-15 Mainz 05-Augsburg,GER-BL1,18-19,fca3b92a
+59e4b92e,Rani Khedira,8,GER,"CM,CB",24-231,90,0,1,0,0,3,0,1,0,50,1,2,1,0.2,0.2,0.0,5,1,29,33,87.9,4,29,0,0,0,Augsburg,2018-09-15 Mainz 05-Augsburg,GER-BL1,18-19,fca3b92a
+1025db8e,Jeffrey Gouweleeuw,6,NED,CB,27-067,90,0,0,0,0,0,0,1,0,48,1,0,2,0.0,0.0,0.0,1,0,30,42,71.4,5,26,0,0,0,Augsburg,2018-09-15 Mainz 05-Augsburg,GER-BL1,18-19,fca3b92a
+fbefefdb,Fabian Giefer,13,GER,GK,28-121,90,0,0,0,0,0,0,0,0,39,0,0,0,0.0,0.0,0.0,1,0,25,37,67.6,0,24,0,0,0,Augsburg,2018-09-15 Mainz 05-Augsburg,GER-BL1,18-19,fca3b92a

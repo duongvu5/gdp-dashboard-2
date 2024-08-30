@@ -1,0 +1,32 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+bc6bd723,Alassane Pléa,14,FRA,FW,28-270,28,0,0,0,0,1,0,0,0,12,0,0,0,0.0,0.0,0.0,0,0,7,11,63.6,1,6,0,0,0,Mönchengladbach,2021-12-05 Gladbach-Freiburg,GER-BL1,21-22,1dd75329
+0b4f388a,Breel Embolo,36,SUI,FW,24-294,62,0,0,0,0,1,0,0,0,21,0,0,0,0.1,0.1,0.3,3,0,11,14,78.6,1,18,2,3,2,Mönchengladbach,2021-12-05 Gladbach-Freiburg,GER-BL1,21-22,1dd75329
+6f8cd6d0,Marcus Thuram,10,FRA,FW,24-121,70,0,0,0,0,2,0,0,0,28,0,0,1,0.2,0.2,0.0,4,0,12,19,63.2,2,20,2,1,0,Mönchengladbach,2021-12-05 Gladbach-Freiburg,GER-BL1,21-22,1dd75329
+7cd6badb,Lars Stindl,13,GER,FW,33-101,20,0,0,0,0,0,0,0,0,14,2,1,0,0.0,0.0,0.0,0,0,9,10,90.0,1,7,0,0,0,Mönchengladbach,2021-12-05 Gladbach-Freiburg,GER-BL1,21-22,1dd75329
+2903a856,Jonas Hofmann,23,GER,"LM,AM",29-144,90,0,0,0,0,4,0,0,0,59,0,0,1,0.2,0.2,0.1,9,0,41,47,87.2,2,36,2,1,1,Mönchengladbach,2021-12-05 Gladbach-Freiburg,GER-BL1,21-22,1dd75329
+86574238,Manu Koné,17,FRA,CM,20-202,90,0,0,0,0,1,1,1,0,62,1,0,0,0.1,0.1,0.0,5,0,42,49,85.7,6,48,2,7,5,Mönchengladbach,2021-12-05 Gladbach-Freiburg,GER-BL1,21-22,1dd75329
+384d58d9,Denis Zakaria,8,SUI,CM,25-015,90,0,0,0,0,3,1,0,0,69,1,1,2,0.3,0.3,0.0,1,0,50,55,90.9,9,44,2,3,1,Mönchengladbach,2021-12-05 Gladbach-Freiburg,GER-BL1,21-22,1dd75329
+236f02cd,Joe Scally,29,USA,"RB,WB",18-339,90,0,0,0,0,0,0,0,0,58,2,1,1,0.0,0.0,0.0,3,0,36,50,72.0,1,30,3,0,0,Mönchengladbach,2021-12-05 Gladbach-Freiburg,GER-BL1,21-22,1dd75329
+4aea5077,Stefan Lainer,18,AUT,WB,29-100,29,0,0,0,0,1,0,0,0,19,0,0,1,0.0,0.0,0.0,0,0,8,16,50.0,0,6,0,0,0,Mönchengladbach,2021-12-05 Gladbach-Freiburg,GER-BL1,21-22,1dd75329
+dfb6490a,Patrick Herrmann,7,GER,RM,30-296,61,0,0,0,0,0,0,0,0,27,0,0,1,0.0,0.0,0.0,2,0,19,23,82.6,1,15,2,0,0,Mönchengladbach,2021-12-05 Gladbach-Freiburg,GER-BL1,21-22,1dd75329
+378825c7,Ramy Bensebaini,25,ALG,"LB,CB",26-233,90,0,0,0,0,2,0,1,0,79,3,0,1,0.0,0.0,0.1,4,0,54,69,78.3,5,37,3,1,1,Mönchengladbach,2021-12-05 Gladbach-Freiburg,GER-BL1,21-22,1dd75329
+48035304,Nico Elvedi,30,SUI,CB,25-066,90,0,0,0,0,0,0,0,0,98,1,0,1,0.0,0.0,0.0,0,0,86,91,94.5,2,64,1,2,2,Mönchengladbach,2021-12-05 Gladbach-Freiburg,GER-BL1,21-22,1dd75329
+f521b80a,Matthias Ginter,28,GER,CB,27-320,90,0,0,0,0,2,1,0,0,113,3,0,2,0.0,0.0,0.2,2,0,81,99,81.8,9,78,2,0,0,Mönchengladbach,2021-12-05 Gladbach-Freiburg,GER-BL1,21-22,1dd75329
+420c18a1,Yann Sommer,1,SUI,GK,32-353,90,0,0,0,0,0,0,0,0,40,0,0,0,0.0,0.0,0.0,0,0,32,37,86.5,0,29,0,0,0,Mönchengladbach,2021-12-05 Gladbach-Freiburg,GER-BL1,21-22,1dd75329
+ca618d23,Lucas Höler,9,GER,FW,27-148,90,1,0,0,0,2,1,0,0,42,1,1,2,0.4,0.4,0.0,1,0,15,31,48.4,3,20,1,3,2,Freiburg,2021-12-05 Gladbach-Freiburg,GER-BL1,21-22,1dd75329
+ed79b7d3,Ermedin Demirović,11,BIH,FW,23-255,73,0,0,0,0,2,1,1,0,26,1,0,2,0.1,0.1,0.0,3,1,11,17,64.7,0,14,0,0,0,Freiburg,2021-12-05 Gladbach-Freiburg,GER-BL1,21-22,1dd75329
+6190474d,Jeong Woo-yeong,29,KOR,FW,22-076,17,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,5,6,83.3,0,3,0,0,0,Freiburg,2021-12-05 Gladbach-Freiburg,GER-BL1,21-22,1dd75329
+54e4866f,Vincenzo Grifo,32,ITA,LM,28-242,90,0,2,0,0,0,0,0,0,45,1,0,0,0.0,0.0,0.5,8,5,31,41,75.6,5,22,0,1,0,Freiburg,2021-12-05 Gladbach-Freiburg,GER-BL1,21-22,1dd75329
+5d8e331f,Nicolas Höfler,27,GER,CM,31-271,90,1,1,0,0,1,1,0,0,47,6,0,4,0.1,0.1,0.4,1,1,23,29,79.3,1,10,0,0,0,Freiburg,2021-12-05 Gladbach-Freiburg,GER-BL1,21-22,1dd75329
+beb882a8,Maximilian Eggestein,8,GER,CM,24-362,73,1,0,0,0,1,1,0,0,34,1,3,0,0.1,0.1,0.0,0,0,19,28,67.9,4,11,0,1,0,Freiburg,2021-12-05 Gladbach-Freiburg,GER-BL1,21-22,1dd75329
+70dcf94d,Janik Haberer,19,GER,CM,27-247,17,0,0,0,0,0,0,0,0,2,0,1,0,0.0,0.0,0.0,0,0,1,1,100.0,0,0,0,0,0,Freiburg,2021-12-05 Gladbach-Freiburg,GER-BL1,21-22,1dd75329
+52afb588,Kevin Schade,20,GER,RM,20-008,60,1,1,0,0,2,1,0,0,32,2,0,1,0.2,0.2,0.1,3,2,9,17,52.9,1,8,2,3,0,Freiburg,2021-12-05 Gladbach-Freiburg,GER-BL1,21-22,1dd75329
+bf075f6b,Roland Sallai,22,HUN,RM,24-197,30,0,0,0,0,1,0,0,0,5,0,0,0,0.1,0.1,0.0,0,0,2,3,66.7,1,5,1,0,0,Freiburg,2021-12-05 Gladbach-Freiburg,GER-BL1,21-22,1dd75329
+8593f88c,Christian Günter,30,GER,LB,28-280,90,0,1,0,0,0,0,0,0,51,0,1,0,0.0,0.0,0.2,4,3,32,50,64.0,2,25,2,0,0,Freiburg,2021-12-05 Gladbach-Freiburg,GER-BL1,21-22,1dd75329
+34e12499,Nico Schlotterbeck,4,GER,CB,22-004,81,1,0,0,0,2,1,0,0,47,2,6,1,0.3,0.3,0.0,2,0,24,30,80.0,3,19,0,0,0,Freiburg,2021-12-05 Gladbach-Freiburg,GER-BL1,21-22,1dd75329
+f6bdc830,Keven Schlotterbeck,31,GER,CB,24-221,9,0,0,0,0,0,0,0,0,5,1,0,1,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,0,0,Freiburg,2021-12-05 Gladbach-Freiburg,GER-BL1,21-22,1dd75329
+302527b2,Philipp Lienhart,3,AUT,CB,25-147,81,1,0,0,0,2,1,0,0,27,0,1,1,0.6,0.6,0.0,0,0,12,20,60.0,1,11,0,0,0,Freiburg,2021-12-05 Gladbach-Freiburg,GER-BL1,21-22,1dd75329
+25ab9c9c,Manuel Gulde,5,GER,CB,30-296,9,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Freiburg,2021-12-05 Gladbach-Freiburg,GER-BL1,21-22,1dd75329
+2a29eb9b,Lukas Kübler,17,GER,RB,29-097,90,0,0,0,0,0,0,0,0,25,2,1,1,0.0,0.0,0.0,0,0,13,18,72.2,1,11,1,0,0,Freiburg,2021-12-05 Gladbach-Freiburg,GER-BL1,21-22,1dd75329
+a92ab7be,Mark Flekken,26,NED,GK,28-175,90,0,0,0,0,0,0,0,0,36,0,0,0,0.0,0.0,0.0,0,0,20,33,60.6,0,19,0,0,0,Freiburg,2021-12-05 Gladbach-Freiburg,GER-BL1,21-22,1dd75329

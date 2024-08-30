@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+aa1a8c7e,Isaac Mbenza,18,BEL,FW,21-270,90,0,0,0,0,1,1,0,0,20,0,0,0,0.1,0.1,0.2,2,0,10,16,62.5,0,14,2,0,0,Montpellier,2017-12-03 Montpellier-Marseille,FRA-L1,17-18,e86d3f68
+0fe7f7bc,Giovanni Sio,14,CIV,FW,28-247,45,1,0,0,0,1,1,0,0,16,0,1,0,0.1,0.1,0.0,1,1,8,10,80.0,1,9,0,1,0,Montpellier,2017-12-03 Montpellier-Marseille,FRA-L1,17-18,e86d3f68
+c58270f8,Souleymane Camara,19,SEN,FW,34-346,45,0,0,0,0,2,0,0,0,17,0,0,0,0.1,0.1,0.0,3,0,7,11,63.6,1,13,1,3,2,Montpellier,2017-12-03 Montpellier-Marseille,FRA-L1,17-18,e86d3f68
+542cc80f,Paul Lasne,7,FRA,CM,28-321,90,0,0,0,0,1,0,1,0,36,3,3,1,0.1,0.1,0.1,2,0,17,26,65.4,1,16,1,1,0,Montpellier,2017-12-03 Montpellier-Marseille,FRA-L1,17-18,e86d3f68
+35c5f9b1,Stéphane Sessègnon,28,BEN,CM,33-185,86,0,0,0,0,1,1,1,0,22,0,0,0,0.0,0.0,0.1,3,1,11,19,57.9,1,13,1,4,3,Montpellier,2017-12-03 Montpellier-Marseille,FRA-L1,17-18,e86d3f68
+24eb7ed6,Junior Sambia,6,FRA,CM,21-087,4,0,0,0,0,1,0,0,0,6,0,0,0,0.1,0.1,0.3,3,0,3,4,75.0,0,5,1,2,2,Montpellier,2017-12-03 Montpellier-Marseille,FRA-L1,17-18,e86d3f68
+c2211709,Ellyes Skhiri,13,TUN,CM,22-207,90,0,0,0,0,0,0,0,0,36,5,1,2,0.0,0.0,0.0,2,0,26,30,86.7,6,11,2,2,2,Montpellier,2017-12-03 Montpellier-Marseille,FRA-L1,17-18,e86d3f68
+13203c45,Jérôme Roussillon,24,FRA,LB,24-331,90,0,0,0,0,0,0,0,0,49,1,0,2,0.0,0.0,0.1,4,0,29,40,72.5,0,15,2,4,4,Montpellier,2017-12-03 Montpellier-Marseille,FRA-L1,17-18,e86d3f68
+6690ef25,Pedro Mendes,5,POR,CB,27-063,64,0,0,0,0,0,0,1,0,31,0,1,1,0.0,0.0,0.0,0,0,19,25,76.0,2,14,0,0,0,Montpellier,2017-12-03 Montpellier-Marseille,FRA-L1,17-18,e86d3f68
+3f5b4635,Daniel Congré,3,FRA,CB,32-242,26,0,0,0,0,0,0,0,0,14,2,1,0,0.0,0.0,0.0,0,0,5,10,50.0,2,6,0,0,0,Montpellier,2017-12-03 Montpellier-Marseille,FRA-L1,17-18,e86d3f68
+c4bbea9f,Vitorino Hilton,4,BRA,CB,40-081,90,0,0,0,0,1,0,0,0,26,0,3,1,0.1,0.1,0.0,1,0,13,18,72.2,0,9,0,0,0,Montpellier,2017-12-03 Montpellier-Marseille,FRA-L1,17-18,e86d3f68
+ac73ec79,Nordi Mukiele,23,FRA,CB,20-032,90,0,0,0,0,3,0,1,0,47,2,1,0,0.4,0.4,0.0,2,0,23,36,63.9,5,19,1,0,0,Montpellier,2017-12-03 Montpellier-Marseille,FRA-L1,17-18,e86d3f68
+3dd738a1,Ruben Aguilar,2,FRA,RB,24-221,90,0,0,0,0,2,1,0,0,49,3,1,0,0.1,0.1,0.0,1,0,23,36,63.9,4,19,3,4,2,Montpellier,2017-12-03 Montpellier-Marseille,FRA-L1,17-18,e86d3f68
+2fa2a875,Benjamin Lecomte,40,FRA,GK,26-221,90,0,0,0,0,0,0,0,0,28,0,0,0,0.0,0.0,0.0,0,0,18,26,69.2,0,11,0,0,0,Montpellier,2017-12-03 Montpellier-Marseille,FRA-L1,17-18,e86d3f68
+ea0ff634,Valère Germain,28,FRA,FW,27-230,80,0,0,0,0,2,1,0,0,14,0,0,0,0.1,0.1,0.0,1,0,8,11,72.7,0,13,0,0,0,Marseille,2017-12-03 Montpellier-Marseille,FRA-L1,17-18,e86d3f68
+c6ac6579,Kostas Mitroglou,11,GRE,FW,29-266,10,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,2,0,0,0,Marseille,2017-12-03 Montpellier-Marseille,FRA-L1,17-18,e86d3f68
+58ae47b2,Dimitri Payet,10,FRA,LW,30-249,88,0,0,0,0,0,0,1,0,70,0,0,1,0.0,0.0,0.1,3,0,51,66,77.3,8,59,6,0,0,Marseille,2017-12-03 Montpellier-Marseille,FRA-L1,17-18,e86d3f68
+1a4b9094,Bouna Sarr,17,SEN,RW,25-306,2,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,1,0,0,0,Marseille,2017-12-03 Montpellier-Marseille,FRA-L1,17-18,e86d3f68
+2b9fdeea,Florian Thauvin,26,FRA,RW,24-311,60,1,0,1,1,0,0,0,0,36,0,0,0,0.8,0.0,0.0,0,0,23,33,69.7,6,30,2,1,1,Marseille,2017-12-03 Montpellier-Marseille,FRA-L1,17-18,e86d3f68
+a08b974a,Lucas Ocampos,5,ARG,"RW,LW",23-145,30,0,0,0,0,0,0,0,0,15,1,0,1,0.0,0.0,0.0,0,0,5,8,62.5,0,8,2,2,1,Marseille,2017-12-03 Montpellier-Marseille,FRA-L1,17-18,e86d3f68
+6e7f1353,Morgan Sanson,8,FRA,AM,23-107,90,0,0,0,0,1,0,0,0,52,1,0,1,0.1,0.1,0.0,3,1,30,39,76.9,5,40,3,2,2,Marseille,2017-12-03 Montpellier-Marseille,FRA-L1,17-18,e86d3f68
+82671804,Luiz Gustavo,19,BRA,DM,30-133,90,0,0,0,0,0,0,0,0,77,1,3,1,0.0,0.0,0.0,0,0,65,68,95.6,4,59,1,1,1,Marseille,2017-12-03 Montpellier-Marseille,FRA-L1,17-18,e86d3f68
+6bb2c084,Andre-Frank Zambo Anguissa,29,CMR,DM,22-017,90,0,0,0,0,2,0,0,0,94,3,2,3,0.1,0.1,0.0,0,0,74,81,91.4,7,69,2,2,1,Marseille,2017-12-03 Montpellier-Marseille,FRA-L1,17-18,e86d3f68
+22721b88,Jordan Amavi,18,FRA,LB,23-269,90,0,0,0,0,0,0,1,0,87,1,1,1,0.0,0.0,0.0,1,0,60,73,82.2,3,69,5,3,2,Marseille,2017-12-03 Montpellier-Marseille,FRA-L1,17-18,e86d3f68
+2f798b41,Aymen Abdennour,13,TUN,CB,28-119,90,0,0,0,0,0,0,0,0,74,2,1,1,0.0,0.0,0.0,0,0,64,67,95.5,1,62,0,1,1,Marseille,2017-12-03 Montpellier-Marseille,FRA-L1,17-18,e86d3f68
+8dbff17c,Adil Rami,23,FRA,CB,31-341,90,0,0,0,0,0,0,0,0,114,2,0,1,0.0,0.0,0.0,0,0,96,105,91.4,4,90,1,0,0,Marseille,2017-12-03 Montpellier-Marseille,FRA-L1,17-18,e86d3f68
+d63e2912,Hiroki Sakai,2,JPN,RB,27-235,90,0,0,0,0,0,0,0,0,90,0,1,2,0.0,0.0,0.0,1,0,69,78,88.5,12,50,0,1,1,Marseille,2017-12-03 Montpellier-Marseille,FRA-L1,17-18,e86d3f68
+1d2d5cc8,Steve Mandanda,30,FRA,GK,32-250,90,0,0,0,0,0,0,0,0,24,0,0,0,0.0,0.0,0.0,0,0,18,22,81.8,0,14,0,0,0,Marseille,2017-12-03 Montpellier-Marseille,FRA-L1,17-18,e86d3f68

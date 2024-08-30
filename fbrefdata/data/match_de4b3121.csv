@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+1238a3f9,Davie Selke,27,GER,FW,28-049,66,0,0,0,0,6,2,0,0,34,0,0,0,0.4,0.4,0.0,2,0,13,22,59.1,3,16,0,1,1,Köln,2023-03-10 Köln-Bochum,GER-BL1,22-23,de4b3121
+6b8887c2,Steffen Tigges,21,GER,FW,24-222,24,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,3,4,75.0,0,2,0,1,0,Köln,2023-03-10 Köln-Bochum,GER-BL1,22-23,de4b3121
+94c18565,Florian Kainz,11,AUT,LW,30-137,76,0,0,0,0,1,0,0,0,61,1,1,0,0.0,0.0,0.1,3,0,30,52,57.7,4,39,2,2,0,Köln,2023-03-10 Köln-Bochum,GER-BL1,22-23,de4b3121
+792ffa71,Tim Lemperle,25,GER,"AM,LW",21-033,14,0,0,0,0,1,0,0,0,12,0,0,0,0.0,0.0,0.0,1,0,5,9,55.6,0,9,0,1,1,Köln,2023-03-10 Köln-Bochum,GER-BL1,22-23,de4b3121
+c455a2b2,Dejan Ljubicic,7,AUT,RW,25-153,66,0,0,0,0,0,0,0,0,22,1,0,1,0.0,0.0,0.0,2,0,10,17,58.8,3,12,2,1,0,Köln,2023-03-10 Köln-Bochum,GER-BL1,22-23,de4b3121
+b116c6e3,Denis Huseinbasic,8,BIH,RW,21-250,24,0,0,0,0,0,0,0,0,20,2,0,0,0.0,0.0,0.0,0,0,12,19,63.2,4,16,0,0,0,Köln,2023-03-10 Köln-Bochum,GER-BL1,22-23,de4b3121
+e5d85da8,Linton Maina,37,GER,AM,23-260,77,0,0,0,0,0,0,0,0,24,0,0,0,0.0,0.0,0.0,1,0,12,19,63.2,1,18,1,4,2,Köln,2023-03-10 Köln-Bochum,GER-BL1,22-23,de4b3121
+22919e97,Sargis Adamyan,23,ARM,LW,29-291,13,0,0,0,0,0,0,0,0,9,0,1,2,0.0,0.0,0.0,0,0,1,6,16.7,1,5,1,0,0,Köln,2023-03-10 Köln-Bochum,GER-BL1,22-23,de4b3121
+c2211709,Ellyes Skhiri,28,TUN,DM,27-304,90,0,0,0,0,1,1,0,0,65,2,2,1,0.1,0.1,0.2,2,0,48,60,80.0,4,41,1,1,1,Köln,2023-03-10 Köln-Bochum,GER-BL1,22-23,de4b3121
+92a16062,Eric Martel,6,GER,DM,20-315,76,0,0,0,0,0,0,0,0,55,3,2,3,0.0,0.0,0.0,1,0,31,40,77.5,2,35,0,0,0,Köln,2023-03-10 Köln-Bochum,GER-BL1,22-23,de4b3121
+86adbcc7,Mathias Olesen,47,LUX,DM,21-354,14,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,6,7,85.7,1,5,0,0,0,Köln,2023-03-10 Köln-Bochum,GER-BL1,22-23,de4b3121
+c2009df3,Jonas Hector,14,GER,LB,32-287,90,0,0,0,0,0,0,1,0,73,1,1,1,0.0,0.0,0.0,2,0,45,65,69.2,4,41,4,2,2,Köln,2023-03-10 Köln-Bochum,GER-BL1,22-23,de4b3121
+ae7058f9,Julian Chabot,24,GER,CB,25-026,90,0,0,0,0,2,2,0,0,60,2,1,1,0.2,0.2,0.0,1,0,45,51,88.2,3,42,0,0,0,Köln,2023-03-10 Köln-Bochum,GER-BL1,22-23,de4b3121
+94302c52,Timo Hübers,4,GER,CB,26-233,90,0,0,0,0,0,0,0,0,84,0,2,3,0.0,0.0,0.0,0,0,59,73,80.8,4,52,0,1,1,Köln,2023-03-10 Köln-Bochum,GER-BL1,22-23,de4b3121
+ad00b1a8,Benno Schmitz,2,GER,RB,28-113,90,0,0,0,0,0,0,1,0,93,4,1,1,0.0,0.0,0.2,5,0,51,86,59.3,12,48,6,1,1,Köln,2023-03-10 Köln-Bochum,GER-BL1,22-23,de4b3121
+87436846,Marvin Schwäbe,20,GER,GK,27-319,90,0,0,0,0,0,0,0,0,49,0,0,0,0.0,0.0,0.0,0,0,39,47,83.0,1,35,0,0,0,Köln,2023-03-10 Köln-Bochum,GER-BL1,22-23,de4b3121
+877bc844,Philipp Hofmann,33,GER,FW,29-345,90,0,0,0,0,0,0,1,0,32,0,0,1,0.0,0.0,0.0,3,1,14,24,58.3,2,15,0,2,0,Bochum,2023-03-10 Köln-Bochum,GER-BL1,22-23,de4b3121
+0a3f6cde,Christopher Antwi-Adjei,22,GHA,LW,29-031,90,0,0,0,0,0,0,0,0,41,0,0,0,0.0,0.0,0.1,3,1,14,25,56.0,0,27,7,5,2,Bochum,2023-03-10 Köln-Bochum,GER-BL1,22-23,de4b3121
+13ddc856,Takuma Asano,11,JPN,RW,28-120,80,0,1,0,0,2,1,1,0,24,0,2,0,0.2,0.2,0.3,2,0,12,15,80.0,0,16,2,4,2,Bochum,2023-03-10 Köln-Bochum,GER-BL1,22-23,de4b3121
+9ceb7642,Pierre Kunde,28,CMR,RW,27-227,10,0,0,0,0,0,0,0,0,7,2,0,0,0.0,0.0,0.0,0,0,1,3,33.3,0,3,0,0,0,Bochum,2023-03-10 Köln-Bochum,GER-BL1,22-23,de4b3121
+07c7eb0c,Anthony Losilla,8,FRA,LM,37-000,90,0,0,0,0,0,0,0,0,44,0,0,4,0.0,0.0,0.0,1,0,16,26,61.5,4,19,1,1,0,Bochum,2023-03-10 Köln-Bochum,GER-BL1,22-23,de4b3121
+9662c9ec,Patrick Osterhage,6,GER,CM,23-037,81,0,0,0,0,1,0,0,0,36,1,2,4,0.0,0.0,0.0,0,0,17,22,77.3,3,14,0,2,0,Bochum,2023-03-10 Köln-Bochum,GER-BL1,22-23,de4b3121
+bbd79358,Moritz Broschinski,29,GER,CM,22-168,9,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,3,4,75.0,0,5,2,0,0,Bochum,2023-03-10 Köln-Bochum,GER-BL1,22-23,de4b3121
+e5649a78,Kevin Stöger,7,AUT,RM,29-195,90,1,0,1,1,2,0,0,0,62,5,0,2,0.8,0.1,0.0,2,1,25,43,58.1,6,33,0,3,0,Bochum,2023-03-10 Köln-Bochum,GER-BL1,22-23,de4b3121
+c05f2f8c,Danilo Soares,3,BRA,LB,31-132,45,0,0,0,0,0,0,0,0,25,0,1,0,0.0,0.0,0.0,0,0,16,19,84.2,1,10,0,1,1,Bochum,2023-03-10 Köln-Bochum,GER-BL1,22-23,de4b3121
+699fb8db,Dominique Heintz,30,GER,LB,29-207,45,0,0,0,0,0,0,0,0,25,0,2,0,0.0,0.0,0.0,1,1,17,21,81.0,1,14,1,1,1,Bochum,2023-03-10 Köln-Bochum,GER-BL1,22-23,de4b3121
+a396fb61,Erhan Mašović,4,SRB,CB,24-108,90,1,0,0,0,2,1,0,0,40,3,2,3,0.3,0.3,0.0,2,0,11,17,64.7,2,14,0,0,0,Bochum,2023-03-10 Köln-Bochum,GER-BL1,22-23,de4b3121
+86c75897,Ivan Ordets,20,UKR,CB,30-245,90,0,0,0,0,0,0,0,0,40,0,1,0,0.0,0.0,0.0,0,0,17,27,63.0,1,12,0,0,0,Bochum,2023-03-10 Köln-Bochum,GER-BL1,22-23,de4b3121
+861e0116,Kostas Stafylidis,16,GRE,RB,29-098,70,0,0,0,0,1,0,0,0,47,2,2,0,0.0,0.0,0.0,2,0,18,38,47.4,1,21,0,5,5,Bochum,2023-03-10 Köln-Bochum,GER-BL1,22-23,de4b3121
+689c9cf4,Saidy Janko,23,GAM,RB,27-139,20,0,0,0,0,0,0,0,0,13,0,1,1,0.0,0.0,0.0,0,0,4,8,50.0,2,6,1,1,1,Bochum,2023-03-10 Köln-Bochum,GER-BL1,22-23,de4b3121
+9f941969,Manuel Riemann,1,GER,GK,34-182,90,0,0,0,0,0,0,0,0,46,0,1,0,0.0,0.0,0.0,0,0,26,43,60.5,0,23,0,0,0,Bochum,2023-03-10 Köln-Bochum,GER-BL1,22-23,de4b3121

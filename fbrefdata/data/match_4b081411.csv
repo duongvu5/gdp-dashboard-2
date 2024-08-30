@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+74c7c2db,Robin Quaison,7,SWE,"FW,AM,LM",25-061,90,0,0,0,0,2,0,0,0,36,0,0,0,0.1,0.1,0.2,4,0,22,29,75.9,4,25,3,3,1,Mainz 05,2018-12-09 Mainz 05-Hannover 96,GER-BL1,18-19,4b081411
+50e6dc35,Jean-Philippe Mateta,9,FRA,FW,21-164,90,0,0,0,0,7,2,0,0,37,1,0,0,0.6,0.6,0.0,7,2,18,23,78.3,0,20,2,5,5,Mainz 05,2018-12-09 Mainz 05-Hannover 96,GER-BL1,18-19,4b081411
+635f2732,Jean-Paul Boëtius,5,NED,AM,24-262,57,0,0,0,0,2,1,1,0,40,2,0,1,0.1,0.1,0.0,3,0,15,21,71.4,1,22,0,3,2,Mainz 05,2018-12-09 Mainz 05-Hannover 96,GER-BL1,18-19,4b081411
+61fc9685,Alexandru Maxim,10,ROU,RM,28-154,33,0,0,0,0,1,0,0,0,29,0,0,2,0.0,0.0,1.1,4,0,14,21,66.7,1,17,1,1,1,Mainz 05,2018-12-09 Mainz 05-Hannover 96,GER-BL1,18-19,4b081411
+33b554b7,Danny Latza,6,GER,LM,29-002,81,0,0,0,0,4,0,1,0,85,1,0,0,0.5,0.5,0.0,4,0,64,73,87.7,8,62,2,3,1,Mainz 05,2018-12-09 Mainz 05-Hannover 96,GER-BL1,18-19,4b081411
+f26834c7,Karim Onisiwo,21,AUT,"LM,AM",26-267,9,0,0,0,0,1,0,0,0,2,0,0,0,0.1,0.1,0.0,0,0,0,0,,0,0,0,1,1,Mainz 05,2018-12-09 Mainz 05-Hannover 96,GER-BL1,18-19,4b081411
+9ceb7642,Pierre Kunde,14,CMR,CM,23-136,57,0,0,0,0,2,0,0,0,60,0,0,0,0.1,0.1,0.1,6,0,46,55,83.6,5,38,2,2,1,Mainz 05,2018-12-09 Mainz 05-Hannover 96,GER-BL1,18-19,4b081411
+99be8fb5,Anthony Ujah,20,NGA,FW,28-056,33,0,0,0,0,0,0,1,0,8,0,1,1,0.0,0.0,0.1,1,0,3,6,50.0,0,4,0,0,0,Mainz 05,2018-12-09 Mainz 05-Hannover 96,GER-BL1,18-19,4b081411
+6bd603db,Jean-Philippe Gbamin,25,CIV,"RM,CM",23-075,90,0,0,0,0,1,0,0,0,86,3,2,0,0.0,0.0,0.0,3,0,53,72,73.6,8,56,4,3,0,Mainz 05,2018-12-09 Mainz 05-Hannover 96,GER-BL1,18-19,4b081411
+2f3e911a,Aarón Martín,3,ESP,LB,21-231,90,0,0,0,0,0,0,0,0,97,2,0,0,0.0,0.0,0.2,5,0,70,91,76.9,4,59,9,0,0,Mainz 05,2018-12-09 Mainz 05-Hannover 96,GER-BL1,18-19,4b081411
+00242715,Moussa Niakhate,19,SEN,CB,22-276,90,0,0,0,0,2,1,0,0,71,1,5,0,0.7,0.7,0.0,4,0,55,60,91.7,1,49,0,0,0,Mainz 05,2018-12-09 Mainz 05-Hannover 96,GER-BL1,18-19,4b081411
+857a5abe,Stefan Bell,16,GER,CB,27-107,90,0,0,0,0,3,0,1,0,79,1,0,1,0.3,0.3,0.1,3,0,61,69,88.4,11,50,3,0,0,Mainz 05,2018-12-09 Mainz 05-Hannover 96,GER-BL1,18-19,4b081411
+a7813ac4,Daniel Brosinski,18,GER,RB,30-145,90,1,0,1,1,2,0,0,0,95,0,1,1,0.8,0.1,0.4,5,0,73,90,81.1,11,65,8,0,0,Mainz 05,2018-12-09 Mainz 05-Hannover 96,GER-BL1,18-19,4b081411
+5c4bf6ba,Robin Zentner,27,GER,GK,24-042,90,0,0,0,0,0,0,0,0,31,0,0,0,0.0,0.0,0.0,0,0,21,30,70.0,0,11,0,0,0,Mainz 05,2018-12-09 Mainz 05-Hannover 96,GER-BL1,18-19,4b081411
+773968e4,Hendrik Weydandt,26,GER,FW,23-146,89,1,0,0,0,2,1,0,0,35,0,0,0,1.0,1.0,1.0,3,0,6,15,40.0,1,16,5,3,1,Hannover 96,2018-12-09 Mainz 05-Hannover 96,GER-BL1,18-19,4b081411
+9853983f,Bobby Wood,17,USA,FW,26-024,1,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,1,0,0,0,Hannover 96,2018-12-09 Mainz 05-Hannover 96,GER-BL1,18-19,4b081411
+4f16405e,Niclas Füllkrug,24,GER,FW,25-303,90,0,0,0,0,3,1,0,0,57,0,0,0,0.2,0.2,0.1,4,1,21,34,61.8,4,24,2,1,0,Hannover 96,2018-12-09 Mainz 05-Hannover 96,GER-BL1,18-19,4b081411
+13ddc856,Takuma Asano,11,JPN,"AM,CM",24-029,74,0,0,0,0,2,1,0,0,24,0,1,3,1.0,1.0,0.4,3,0,6,8,75.0,0,15,3,3,3,Hannover 96,2018-12-09 Mainz 05-Hannover 96,GER-BL1,18-19,4b081411
+eafac393,Josip Elez,2,CRO,CM,24-228,16,0,0,0,0,1,0,0,0,5,1,0,1,0.0,0.0,0.0,0,0,2,2,100.0,0,1,1,0,0,Hannover 96,2018-12-09 Mainz 05-Hannover 96,GER-BL1,18-19,4b081411
+5528407e,Pirmin Schwegler,27,SUI,"LM,CM",31-275,69,0,0,0,0,0,0,0,0,31,3,1,1,0.0,0.0,0.0,2,1,16,22,72.7,2,2,0,0,0,Hannover 96,2018-12-09 Mainz 05-Hannover 96,GER-BL1,18-19,4b081411
+04c11885,Marvin Bakalorz,6,GER,CM,29-087,21,0,0,0,0,1,0,0,0,6,1,0,0,0.1,0.1,0.0,0,0,1,2,50.0,0,1,0,0,0,Hannover 96,2018-12-09 Mainz 05-Hannover 96,GER-BL1,18-19,4b081411
+26db8853,Walace,8,BRA,CM,23-249,90,0,0,0,0,0,0,0,0,46,7,0,2,0.0,0.0,0.0,1,0,23,29,79.3,3,16,1,1,1,Hannover 96,2018-12-09 Mainz 05-Hannover 96,GER-BL1,18-19,4b081411
+f24ea523,Genki Haraguchi,10,JPN,"RB,RM",27-214,90,0,0,0,0,1,0,0,0,51,2,0,2,0.0,0.0,0.1,1,0,19,33,57.6,3,17,3,3,1,Hannover 96,2018-12-09 Mainz 05-Hannover 96,GER-BL1,18-19,4b081411
+1cd87320,Matthias Ostrzolek,22,GER,LB,28-187,90,0,0,0,0,1,0,0,0,51,1,0,3,0.0,0.0,0.1,1,0,21,40,52.5,2,20,1,0,0,Hannover 96,2018-12-09 Mainz 05-Hannover 96,GER-BL1,18-19,4b081411
+faf55ce4,Kevin Wimmer,28,AUT,CB,26-024,90,0,0,0,0,0,0,1,0,31,1,3,4,0.0,0.0,0.0,1,0,10,17,58.8,2,10,0,0,0,Hannover 96,2018-12-09 Mainz 05-Hannover 96,GER-BL1,18-19,4b081411
+5e66fa06,Waldemar Anton,31,GER,CB,22-142,90,0,0,0,0,0,0,0,0,43,1,2,2,0.0,0.0,0.0,2,0,14,16,87.5,0,11,0,1,1,Hannover 96,2018-12-09 Mainz 05-Hannover 96,GER-BL1,18-19,4b081411
+541cdd20,Oliver Sorg,25,GER,"CB,RB",28-194,89,0,0,0,0,0,0,2,1,33,3,2,0,0.0,0.0,0.0,2,0,13,20,65.0,2,4,0,0,0,Hannover 96,2018-12-09 Mainz 05-Hannover 96,GER-BL1,18-19,4b081411
+83e0eeb4,Michael Esser,23,GER,GK,31-017,90,0,0,0,0,0,0,0,0,41,0,0,0,0.0,0.0,0.0,1,0,25,37,67.6,0,15,0,0,0,Hannover 96,2018-12-09 Mainz 05-Hannover 96,GER-BL1,18-19,4b081411

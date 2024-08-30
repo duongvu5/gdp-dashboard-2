@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+06f33dc8,Enzo Crivelli,9,FRA,FW,22-257,90,0,0,0,0,1,0,1,0,31,0,0,0,0.1,0.1,0.1,4,0,14,24,58.3,0,22,2,3,1,Angers,2017-10-21 Angers-Toulouse,FRA-L1,17-18,b65ed449
+5ceba7fc,Karl Toko Ekambi,7,CMR,LM,25-037,90,0,0,0,0,5,2,0,0,44,1,3,0,0.5,0.5,0.0,2,0,18,27,66.7,4,39,6,7,2,Angers,2017-10-21 Angers-Toulouse,FRA-L1,17-18,b65ed449
+79b2399c,Pierrick Capelle,15,FRA,CM,30-189,58,0,0,0,0,1,0,0,0,24,2,1,1,0.1,0.1,0.0,1,0,12,16,75.0,2,14,3,0,0,Angers,2017-10-21 Angers-Toulouse,FRA-L1,17-18,b65ed449
+a0f9b535,Flavien Tait,20,FRA,CM,24-261,32,0,0,0,0,0,0,0,0,22,1,0,0,0.0,0.0,0.4,1,0,11,16,68.8,3,13,2,1,1,Angers,2017-10-21 Angers-Toulouse,FRA-L1,17-18,b65ed449
+c801616a,Thomas Mangani,5,FRA,CM,30-175,90,0,0,0,0,2,1,0,0,75,4,1,0,0.5,0.5,0.3,7,0,37,67,55.2,6,46,0,1,1,Angers,2017-10-21 Angers-Toulouse,FRA-L1,17-18,b65ed449
+4b96c347,Angelo Fulgini,23,FRA,RM,21-062,81,0,0,0,0,0,0,0,0,45,2,0,1,0.0,0.0,0.2,4,0,26,36,72.2,3,25,0,3,2,Angers,2017-10-21 Angers-Toulouse,FRA-L1,17-18,b65ed449
+beff5d14,Gilles Sunu,10,TOG,RM,26-205,9,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.1,1,0,3,4,75.0,0,4,1,0,0,Angers,2017-10-21 Angers-Toulouse,FRA-L1,17-18,b65ed449
+ec1aa15e,Mehdi Tahrat,26,ALG,DM,27-270,81,0,0,0,0,2,0,0,0,39,0,2,0,0.1,0.1,0.0,0,0,20,27,74.1,1,20,0,2,1,Angers,2017-10-21 Angers-Toulouse,FRA-L1,17-18,b65ed449
+2235f850,Saliou Ciss,17,SEN,DM,28-036,9,0,0,0,0,0,0,0,0,11,1,1,0,0.0,0.0,0.0,0,0,3,7,42.9,1,5,0,3,3,Angers,2017-10-21 Angers-Toulouse,FRA-L1,17-18,b65ed449
+872cd68c,Yoann Andreu,3,FRA,LB,28-171,90,0,0,0,0,0,0,1,0,76,4,1,2,0.0,0.0,0.0,3,0,47,62,75.8,5,30,1,0,0,Angers,2017-10-21 Angers-Toulouse,FRA-L1,17-18,b65ed449
+275e2c51,Romain Thomas,24,FRA,CB,29-131,90,0,0,0,0,2,1,0,0,59,1,1,0,0.2,0.2,0.0,1,0,33,45,73.3,1,30,0,0,0,Angers,2017-10-21 Angers-Toulouse,FRA-L1,17-18,b65ed449
+b666421b,Ismaël Traoré,8,CIV,CB,31-064,90,0,0,0,0,0,0,0,0,45,3,0,0,0.0,0.0,0.0,1,0,32,38,84.2,2,27,1,0,0,Angers,2017-10-21 Angers-Toulouse,FRA-L1,17-18,b65ed449
+c26a3918,Vincent Manceau,29,FRA,RB,28-103,90,0,0,0,0,1,0,0,0,76,2,0,1,0.1,0.1,0.0,3,0,55,65,84.6,7,32,2,1,1,Angers,2017-10-21 Angers-Toulouse,FRA-L1,17-18,b65ed449
+e39f8724,Mathieu Michel,1,FRA,GK,26-047,90,0,0,0,0,0,0,0,0,24,0,0,0,0.0,0.0,0.0,0,0,18,24,75.0,0,16,0,0,0,Angers,2017-10-21 Angers-Toulouse,FRA-L1,17-18,b65ed449
+d33c706e,Andy Delort,10,ALG,FW,26-012,89,0,0,0,0,0,0,0,0,37,0,0,0,0.0,0.0,0.0,2,0,13,24,54.2,2,17,0,2,0,Toulouse,2017-10-21 Angers-Toulouse,FRA-L1,17-18,b65ed449
+de4fe7a2,Ola Toivonen,11,SWE,FW,31-110,1,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,1,0,0,0,0,Toulouse,2017-10-21 Angers-Toulouse,FRA-L1,17-18,b65ed449
+b99bec05,Issiaga Sylla,12,GUI,LW,23-293,90,0,0,0,0,1,0,0,0,46,1,1,1,0.0,0.0,0.0,0,0,20,28,71.4,1,21,1,1,0,Toulouse,2017-10-21 Angers-Toulouse,FRA-L1,17-18,b65ed449
+c1febb46,Somália,19,BRA,RW,29-023,90,0,0,0,0,0,0,1,0,53,8,1,3,0.0,0.0,0.0,1,0,16,28,57.1,2,22,3,3,0,Toulouse,2017-10-21 Angers-Toulouse,FRA-L1,17-18,b65ed449
+bced0375,Ibrahim Sangaré,17,CIV,AM,19-323,63,0,0,0,0,0,0,0,0,48,3,0,1,0.0,0.0,0.0,1,0,31,39,79.5,3,17,0,1,1,Toulouse,2017-10-21 Angers-Toulouse,FRA-L1,17-18,b65ed449
+c5a500ca,Max Gradel,15,CIV,AM,29-325,27,0,0,0,0,0,0,0,0,25,2,0,1,0.0,0.0,0.0,0,0,7,13,53.8,1,9,0,1,1,Toulouse,2017-10-21 Angers-Toulouse,FRA-L1,17-18,b65ed449
+b86fe156,Giannelli Imbula,25,COD,DM,25-039,90,0,0,0,0,1,0,1,0,64,2,0,2,0.0,0.0,0.0,0,0,49,57,86.0,4,40,1,3,2,Toulouse,2017-10-21 Angers-Toulouse,FRA-L1,17-18,b65ed449
+c69ef855,Alexis Blin,27,FRA,DM,21-035,90,0,1,0,0,0,0,0,0,65,7,3,2,0.0,0.0,0.2,1,1,44,50,88.0,5,25,0,0,0,Toulouse,2017-10-21 Angers-Toulouse,FRA-L1,17-18,b65ed449
+6ca88b2a,François Moubandje,29,SUI,LB,27-122,80,0,0,0,0,0,0,0,0,44,0,0,0,0.0,0.0,0.0,0,0,29,39,74.4,2,26,0,1,0,Toulouse,2017-10-21 Angers-Toulouse,FRA-L1,17-18,b65ed449
+7f9111ea,Steeve Yago,20,BFA,RB,24-309,10,0,0,0,0,0,0,0,0,16,0,0,0,0.0,0.0,0.0,0,0,8,12,66.7,2,2,0,0,0,Toulouse,2017-10-21 Angers-Toulouse,FRA-L1,17-18,b65ed449
+f323d995,Christopher Jullien,6,FRA,CB,24-213,90,0,0,0,0,0,0,1,0,64,2,0,1,0.0,0.0,0.0,1,1,41,53,77.4,2,29,0,0,0,Toulouse,2017-10-21 Angers-Toulouse,FRA-L1,17-18,b65ed449
+a712ca2b,Issa Diop,5,FRA,CB,20-285,90,1,0,0,0,1,1,0,0,54,1,2,2,0.2,0.2,0.0,0,0,36,40,90.0,4,24,0,0,0,Toulouse,2017-10-21 Angers-Toulouse,FRA-L1,17-18,b65ed449
+bcc81786,Kelvin Amian,2,FRA,"RB,LB",19-255,90,0,0,0,0,0,0,0,0,59,3,3,2,0.0,0.0,0.0,0,0,32,45,71.1,2,20,0,2,0,Toulouse,2017-10-21 Angers-Toulouse,FRA-L1,17-18,b65ed449
+4e7db402,Alban Lafont,40,FRA,GK,18-271,90,0,0,0,0,0,0,1,0,36,0,0,0,0.0,0.0,0.0,0,0,21,35,60.0,0,18,0,0,0,Toulouse,2017-10-21 Angers-Toulouse,FRA-L1,17-18,b65ed449

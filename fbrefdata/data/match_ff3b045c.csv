@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+d520120b,Júlio Tavares,11,CPV,FW,30-113,64,0,0,0,0,0,0,0,0,25,0,0,1,0.0,0.0,0.1,1,0,12,17,70.6,0,12,0,0,0,Dijon,2019-03-12 Dijon-Paris S-G,FRA-L1,18-19,ff3b045c
+8c955557,Jules Keita,23,GUI,FW,20-235,26,0,0,0,0,1,1,1,0,10,1,0,0,0.0,0.0,0.0,0,0,3,3,100.0,0,5,0,3,0,Dijon,2019-03-12 Dijon-Paris S-G,FRA-L1,18-19,ff3b045c
+2e52206e,Benjamin Jeannot,29,FRA,FW,27-049,82,0,0,0,0,2,1,0,0,33,0,2,0,0.1,0.1,0.0,0,0,15,25,60.0,1,18,0,3,3,Dijon,2019-03-12 Dijon-Paris S-G,FRA-L1,18-19,ff3b045c
+7961f7aa,Kwon Chang-hoon,22,KOR,LB,24-255,8,0,0,0,0,0,0,0,0,5,0,0,1,0.0,0.0,0.0,0,0,2,4,50.0,0,3,0,0,0,Dijon,2019-03-12 Dijon-Paris S-G,FRA-L1,18-19,ff3b045c
+a4c3f7af,Mehdi Abeid,8,ALG,CM,26-218,70,0,0,0,0,1,0,0,0,39,2,2,0,0.1,0.1,0.0,3,0,29,32,90.6,1,24,2,3,2,Dijon,2019-03-12 Dijon-Paris S-G,FRA-L1,18-19,ff3b045c
+8802c1d5,Frédéric Sammaritano,7,FRA,CM,32-354,20,0,0,0,0,0,0,0,0,11,0,0,1,0.0,0.0,0.0,0,0,7,9,77.8,1,7,1,0,0,Dijon,2019-03-12 Dijon-Paris S-G,FRA-L1,18-19,ff3b045c
+4e7bfc23,Florent Balmont,15,FRA,CM,39-038,90,0,0,0,0,0,0,0,0,80,2,0,2,0.0,0.0,0.0,4,0,68,76,89.5,6,58,0,0,0,Dijon,2019-03-12 Dijon-Paris S-G,FRA-L1,18-19,ff3b045c
+0d2158d5,Jordan Marié,14,FRA,CM,27-164,90,0,0,0,0,2,0,0,0,50,2,2,1,0.1,0.1,0.1,5,0,31,43,72.1,5,29,3,2,2,Dijon,2019-03-12 Dijon-Paris S-G,FRA-L1,18-19,ff3b045c
+90fcf472,Wesley Saïd,9,FRA,"LB,FW",23-327,90,0,0,0,0,2,0,0,0,33,1,3,0,0.1,0.1,0.0,1,0,21,26,80.8,0,21,3,1,0,Dijon,2019-03-12 Dijon-Paris S-G,FRA-L1,18-19,ff3b045c
+288e1e13,Nayef Aguerd,4,MAR,CB,22-347,90,0,0,0,0,1,0,0,0,60,1,1,1,0.0,0.0,0.0,1,0,41,55,74.5,0,37,4,1,1,Dijon,2019-03-12 Dijon-Paris S-G,FRA-L1,18-19,ff3b045c
+6e5b5a45,Wesley Lautoa,24,NCL,CB,31-199,90,0,0,0,0,0,0,1,0,42,3,1,0,0.0,0.0,0.0,0,0,36,37,97.3,4,25,2,0,0,Dijon,2019-03-12 Dijon-Paris S-G,FRA-L1,18-19,ff3b045c
+1c344204,Cédric Yamberé,18,CTA,CB,28-126,90,0,0,0,0,0,0,0,0,47,0,1,1,0.0,0.0,0.0,0,0,34,37,91.9,2,26,1,1,0,Dijon,2019-03-12 Dijon-Paris S-G,FRA-L1,18-19,ff3b045c
+d7bf3d19,Romain Amalfitano,20,FRA,RB,29-197,90,0,0,0,0,0,0,0,0,51,2,4,2,0.0,0.0,0.0,2,0,25,40,62.5,4,19,2,2,2,Dijon,2019-03-12 Dijon-Paris S-G,FRA-L1,18-19,ff3b045c
+8fa8f8d2,Rúnar Alex Rúnarsson,1,ISL,GK,24-022,90,0,0,0,0,0,0,0,0,43,0,0,0,0.0,0.0,0.0,0,0,29,38,76.3,0,18,0,0,0,Dijon,2019-03-12 Dijon-Paris S-G,FRA-L1,18-19,ff3b045c
+19cda00b,Ángel Di María,11,ARG,FW,31-026,75,1,1,0,0,2,1,0,0,52,0,0,0,0.1,0.1,0.1,4,4,36,48,75.0,5,37,3,4,3,Paris Saint-Germain,2019-03-12 Dijon-Paris S-G,FRA-L1,18-19,ff3b045c
+0e6bc38c,Eric Maxim Choupo-Moting,17,CMR,FW,29-354,15,1,0,0,0,1,1,0,0,9,0,0,1,0.4,0.4,0.0,1,0,5,6,83.3,0,4,0,2,2,Paris Saint-Germain,2019-03-12 Dijon-Paris S-G,FRA-L1,18-19,ff3b045c
+42fd9c7f,Kylian Mbappé,7,FRA,FW,20-082,90,1,0,0,0,7,4,0,0,44,0,0,0,1.4,1.4,0.1,8,1,28,35,80.0,5,27,5,8,7,Paris Saint-Germain,2019-03-12 Dijon-Paris S-G,FRA-L1,18-19,ff3b045c
+433dc9a2,Juan Bernat,14,ESP,CM,26-011,90,0,0,0,0,0,0,0,0,66,1,1,1,0.0,0.0,0.2,3,0,48,56,85.7,4,29,0,0,0,Paris Saint-Germain,2019-03-12 Dijon-Paris S-G,FRA-L1,18-19,ff3b045c
+1467af0d,Marco Verratti,6,ITA,CM,26-127,90,0,0,0,0,0,0,0,0,117,6,1,4,0.0,0.0,0.2,3,0,99,108,91.7,13,62,1,0,0,Paris Saint-Germain,2019-03-12 Dijon-Paris S-G,FRA-L1,18-19,ff3b045c
+7c56da38,Christopher Nkunku,24,FRA,CM,21-118,75,0,0,0,0,0,0,0,0,48,0,0,1,0.0,0.0,0.2,2,1,43,46,93.5,2,33,2,1,1,Paris Saint-Germain,2019-03-12 Dijon-Paris S-G,FRA-L1,18-19,ff3b045c
+aeed5c06,Moussa Diaby,27,FRA,"AM,CM",19-248,15,0,0,0,0,2,0,0,0,12,0,0,0,0.1,0.1,0.1,1,0,7,8,87.5,3,9,4,1,1,Paris Saint-Germain,2019-03-12 Dijon-Paris S-G,FRA-L1,18-19,ff3b045c
+41e7ef1c,Layvin Kurzawa,20,FRA,WB,26-189,75,0,1,0,0,1,0,0,0,41,0,0,1,0.1,0.1,0.9,0,0,21,33,63.6,0,20,1,1,0,Paris Saint-Germain,2019-03-12 Dijon-Paris S-G,FRA-L1,18-19,ff3b045c
+29c02c9f,Colin Dagba,31,FRA,WB,20-184,15,0,0,0,0,0,0,0,0,11,1,1,0,0.0,0.0,0.0,0,0,7,9,77.8,1,6,0,0,0,Paris Saint-Germain,2019-03-12 Dijon-Paris S-G,FRA-L1,18-19,ff3b045c
+e162b013,Thomas Meunier,12,BEL,WB,27-181,90,0,1,0,0,1,0,0,0,62,1,0,2,0.1,0.1,0.4,1,1,46,54,85.2,2,29,3,0,0,Paris Saint-Germain,2019-03-12 Dijon-Paris S-G,FRA-L1,18-19,ff3b045c
+aef6e670,Presnel Kimpembe,3,FRA,CB,23-211,90,0,0,0,0,0,0,0,0,100,0,1,0,0.0,0.0,0.1,4,0,88,94,93.6,9,62,0,1,0,Paris Saint-Germain,2019-03-12 Dijon-Paris S-G,FRA-L1,18-19,ff3b045c
+86e7deaf,Thiago Silva,2,BRA,CB,34-171,90,0,0,0,0,0,0,0,0,107,0,0,0,0.0,0.0,0.1,3,0,96,99,97.0,7,65,0,0,0,Paris Saint-Germain,2019-03-12 Dijon-Paris S-G,FRA-L1,18-19,ff3b045c
+d5f2f82b,Marquinhos,5,BRA,CB,24-302,90,1,0,0,0,2,1,1,0,107,0,2,1,0.1,0.1,0.0,0,0,93,98,94.9,7,66,0,1,1,Paris Saint-Germain,2019-03-12 Dijon-Paris S-G,FRA-L1,18-19,ff3b045c
+2f965a72,Alphonse Areola,16,FRA,GK,26-013,90,0,0,0,0,0,0,0,0,27,0,0,0,0.0,0.0,0.0,0,0,25,26,96.2,0,15,0,0,0,Paris Saint-Germain,2019-03-12 Dijon-Paris S-G,FRA-L1,18-19,ff3b045c

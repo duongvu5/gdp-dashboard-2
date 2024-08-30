@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+8f3565b3,Ante Budimir,17,CRO,FW,26-160,90,0,0,0,0,0,0,0,0,30,1,1,2,0.0,0.0,0.0,0,0,7,18,38.9,1,16,0,2,1,Crotone,2017-12-29 Crotone-Napoli,ITA-SERIA_A,17-18,6eee6e1f
+4468b31a,Adrian Stoian,8,ROU,LW,26-321,90,0,0,0,0,1,0,0,0,46,1,2,1,0.1,0.1,0.0,1,0,15,35,42.9,1,31,1,5,3,Crotone,2017-12-29 Crotone-Napoli,ITA-SERIA_A,17-18,6eee6e1f
+acdad0aa,Marcello Trotta,29,ITA,RW,25-091,90,0,0,0,0,1,1,0,0,46,1,0,1,0.0,0.0,0.0,1,0,19,36,52.8,0,27,0,2,0,Crotone,2017-12-29 Crotone-Napoli,ITA-SERIA_A,17-18,6eee6e1f
+c7259b83,Rolando Mandragora,38,ITA,LM,20-183,90,0,0,0,0,1,0,0,0,36,2,2,2,0.0,0.0,0.0,0,0,20,24,83.3,3,16,0,0,0,Crotone,2017-12-29 Crotone-Napoli,ITA-SERIA_A,17-18,6eee6e1f
+32ebfe1e,Andrea Barberis,18,ITA,CM,24-018,72,0,0,0,0,0,0,0,0,35,0,4,2,0.0,0.0,0.0,0,0,17,24,70.8,2,13,1,2,1,Crotone,2017-12-29 Crotone-Napoli,ITA-SERIA_A,17-18,6eee6e1f
+8c964914,Giovanni Crociata,89,ITA,CM,20-140,18,0,0,0,0,1,1,0,0,10,0,0,1,0.0,0.0,0.0,2,0,4,6,66.7,0,5,0,2,1,Crotone,2017-12-29 Crotone-Napoli,ITA-SERIA_A,17-18,6eee6e1f
+b5b27493,Marcus Rohdén,6,SWE,RM,26-232,90,0,0,0,0,0,0,0,0,41,1,3,0,0.0,0.0,0.0,2,0,20,28,71.4,0,27,0,2,2,Crotone,2017-12-29 Crotone-Napoli,ITA-SERIA_A,17-18,6eee6e1f
+1e12c53b,Bruno Martella,87,ITA,LB,25-137,90,0,0,0,0,1,0,0,0,60,0,0,0,0.0,0.0,0.1,0,0,27,44,61.4,3,22,2,1,0,Crotone,2017-12-29 Crotone-Napoli,ITA-SERIA_A,17-18,6eee6e1f
+d9624b51,Federico Ceccherini,7,ITA,CB,25-232,90,0,0,0,0,0,0,1,0,34,0,1,1,0.0,0.0,0.0,0,0,12,22,54.5,1,14,0,1,1,Crotone,2017-12-29 Crotone-Napoli,ITA-SERIA_A,17-18,6eee6e1f
+b5365398,Stefan Simić,34,CZE,CB,22-343,45,0,0,0,0,0,0,0,0,11,1,0,1,0.0,0.0,0.0,0,0,5,8,62.5,0,4,0,0,0,Crotone,2017-12-29 Crotone-Napoli,ITA-SERIA_A,17-18,6eee6e1f
+cda2ec29,Mario Sampirisi,69,ITA,CB,25-059,45,0,0,0,0,0,0,0,0,22,0,2,1,0.0,0.0,0.0,1,0,10,17,58.8,2,13,0,0,0,Crotone,2017-12-29 Crotone-Napoli,ITA-SERIA_A,17-18,6eee6e1f
+aae9d04a,Davide Faraoni,37,ITA,RB,26-065,80,0,0,0,0,0,0,0,0,50,2,5,3,0.0,0.0,0.0,0,0,24,35,68.6,2,19,0,1,0,Crotone,2017-12-29 Crotone-Napoli,ITA-SERIA_A,17-18,6eee6e1f
+9f069180,Aristóteles Romero,8,VEN,RB,22-072,10,0,0,0,0,0,0,0,0,7,0,0,1,0.0,0.0,0.0,0,0,3,4,75.0,0,3,0,0,0,Crotone,2017-12-29 Crotone-Napoli,ITA-SERIA_A,17-18,6eee6e1f
+e66ebabb,Alex Cordaz,1,ITA,GK,34-362,90,0,0,0,0,0,0,0,0,41,0,0,0,0.0,0.0,0.0,0,0,16,36,44.4,0,12,0,0,0,Crotone,2017-12-29 Crotone-Napoli,ITA-SERIA_A,17-18,6eee6e1f
+89b2c8a9,Dries Mertens,14,BEL,FW,30-237,88,0,0,0,0,5,1,0,0,31,2,0,0,0.4,0.4,0.0,4,0,12,19,63.2,0,24,5,2,0,Napoli,2017-12-29 Crotone-Napoli,ITA-SERIA_A,17-18,6eee6e1f
+b6b2b820,Marko Rog,30,CRO,RW,22-163,2,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,2,4,50.0,0,3,0,1,1,Napoli,2017-12-29 Crotone-Napoli,ITA-SERIA_A,17-18,6eee6e1f
+2f557579,Lorenzo Insigne,24,ITA,LW,26-208,66,0,0,0,0,6,1,0,0,67,1,0,0,0.3,0.3,0.2,6,0,40,55,72.7,6,55,7,2,2,Napoli,2017-12-29 Crotone-Napoli,ITA-SERIA_A,17-18,6eee6e1f
+a5296e55,Piotr Zieliński,20,POL,LW,23-223,24,0,0,0,0,0,0,0,0,15,0,0,0,0.0,0.0,0.1,4,0,10,14,71.4,2,10,4,3,3,Napoli,2017-12-29 Crotone-Napoli,ITA-SERIA_A,17-18,6eee6e1f
+78841da9,José Callejón,7,ESP,"RW,FW",30-321,90,0,0,0,0,2,2,0,0,67,0,1,2,0.1,0.1,0.2,7,0,36,60,60.0,2,29,5,1,1,Napoli,2017-12-29 Crotone-Napoli,ITA-SERIA_A,17-18,6eee6e1f
+e6ad16b2,Marek Hamšík,17,SVK,LM,30-155,90,1,0,0,0,6,2,0,0,121,2,0,3,0.3,0.3,0.1,4,1,93,108,86.1,15,83,7,2,2,Napoli,2017-12-29 Crotone-Napoli,ITA-SERIA_A,17-18,6eee6e1f
+45db685d,Jorginho,8,ITA,CM,26-009,76,0,0,0,0,0,0,1,0,113,2,2,0,0.0,0.0,0.0,3,0,88,105,83.8,11,69,0,0,0,Napoli,2017-12-29 Crotone-Napoli,ITA-SERIA_A,17-18,6eee6e1f
+bf309d24,Amadou Diawara,42,GUI,CM,20-165,14,0,0,0,0,1,1,0,0,23,0,0,1,0.0,0.0,0.0,1,0,19,21,90.5,1,18,0,0,0,Napoli,2017-12-29 Crotone-Napoli,ITA-SERIA_A,17-18,6eee6e1f
+cc700722,Allan,5,BRA,RM,26-355,90,0,1,0,0,0,0,0,0,65,7,0,3,0.0,0.0,0.1,6,1,45,53,84.9,7,41,3,3,3,Napoli,2017-12-29 Crotone-Napoli,ITA-SERIA_A,17-18,6eee6e1f
+2f3452eb,Elseid Hysaj,23,ALB,LB,23-312,90,0,0,0,0,1,0,0,0,86,1,0,1,0.0,0.0,0.0,3,0,68,80,85.0,4,44,1,0,0,Napoli,2017-12-29 Crotone-Napoli,ITA-SERIA_A,17-18,6eee6e1f
+da974c7b,Kalidou Koulibaly,26,SEN,CB,26-192,90,0,0,0,0,0,0,0,0,107,0,1,0,0.0,0.0,0.0,2,0,86,103,83.5,3,79,2,1,1,Napoli,2017-12-29 Crotone-Napoli,ITA-SERIA_A,17-18,6eee6e1f
+4bd414c1,Raúl Albiol,33,ESP,CB,32-116,90,0,0,0,0,2,0,1,0,90,0,1,0,0.2,0.2,0.0,0,0,65,81,80.2,10,60,1,0,0,Napoli,2017-12-29 Crotone-Napoli,ITA-SERIA_A,17-18,6eee6e1f
+31d7f557,Christian Maggio,11,ITA,RB,35-321,90,0,0,0,0,0,0,0,0,88,3,0,2,0.0,0.0,0.1,1,0,63,74,85.1,5,42,3,1,0,Napoli,2017-12-29 Crotone-Napoli,ITA-SERIA_A,17-18,6eee6e1f
+e358587b,Pepe Reina,25,ESP,GK,35-120,90,0,0,0,0,0,0,0,0,37,0,0,0,0.0,0.0,0.0,0,0,29,35,82.9,0,17,0,0,0,Napoli,2017-12-29 Crotone-Napoli,ITA-SERIA_A,17-18,6eee6e1f

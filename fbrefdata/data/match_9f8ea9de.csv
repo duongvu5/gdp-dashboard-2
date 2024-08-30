@@ -1,0 +1,29 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+d705ba44,Andrea Belotti,9,ITA,FW,26-050,90,0,0,0,0,2,0,1,0,31,1,0,3,0.1,0.1,0.0,1,1,12,17,70.6,2,18,1,3,2,Torino,2020-02-08 Torino-Sampdoria,ITA-SERIA_A,19-20,9f8ea9de
+dc1c2fce,Álex Berenguer,21,ESP,"AM,FW",24-219,90,0,1,0,0,1,1,1,0,45,1,1,0,0.1,0.1,0.5,5,1,26,32,81.3,7,28,1,8,5,Torino,2020-02-08 Torino-Sampdoria,ITA-SERIA_A,19-20,9f8ea9de
+0375723e,Simone Verdi,24,ITA,AM,27-211,81,1,0,0,0,1,1,0,0,36,0,1,1,0.4,0.4,0.0,1,0,15,27,55.6,2,25,4,5,2,Torino,2020-02-08 Torino-Sampdoria,ITA-SERIA_A,19-20,9f8ea9de
+5cec2c74,Soualiho Meïté,23,FRA,WB,25-328,9,0,0,0,0,1,0,0,0,5,0,1,0,0.1,0.1,0.0,0,0,3,3,100.0,0,2,0,1,0,Torino,2020-02-08 Torino-Sampdoria,ITA-SERIA_A,19-20,9f8ea9de
+f1cfc209,Tomás Rincón,88,VEN,"CM,DM",32-026,90,0,0,0,0,0,0,1,0,62,2,1,4,0.0,0.0,0.1,1,0,43,49,87.8,5,27,1,1,1,Torino,2020-02-08 Torino-Sampdoria,ITA-SERIA_A,19-20,9f8ea9de
+c6e8cf1f,Saša Lukić,7,SRB,"CM,DM",23-179,90,0,0,0,0,1,0,0,0,71,2,1,1,0.0,0.0,0.1,2,0,56,63,88.9,8,35,4,1,1,Torino,2020-02-08 Torino-Sampdoria,ITA-SERIA_A,19-20,9f8ea9de
+246d153b,Ola Aina,34,NGA,WB,23-123,74,0,0,0,0,0,0,0,0,68,3,1,2,0.0,0.0,0.0,0,0,46,60,76.7,2,39,5,1,0,Torino,2020-02-08 Torino-Sampdoria,ITA-SERIA_A,19-20,9f8ea9de
+bbafc0c4,Cristian Ansaldi,15,ARG,WB,33-141,16,0,0,0,0,0,0,0,0,16,1,0,0,0.0,0.0,0.0,0,0,8,12,66.7,1,9,2,4,2,Torino,2020-02-08 Torino-Sampdoria,ITA-SERIA_A,19-20,9f8ea9de
+e74f0e59,Lorenzo De Silvestri,29,ITA,"WB,CB",31-261,90,0,0,0,0,0,0,0,0,71,1,2,1,0.0,0.0,0.0,1,0,37,57,64.9,1,33,4,2,1,Torino,2020-02-08 Torino-Sampdoria,ITA-SERIA_A,19-20,9f8ea9de
+b5bf1770,Lyanco,4,BRA,CB,23-007,90,0,0,0,0,0,0,0,0,86,1,1,2,0.0,0.0,0.0,0,0,62,70,88.6,4,46,1,1,1,Torino,2020-02-08 Torino-Sampdoria,ITA-SERIA_A,19-20,9f8ea9de
+93cf32a8,Nicolas Nkoulou,33,CMR,CB,29-318,90,0,0,0,0,0,0,0,0,80,0,0,3,0.0,0.0,0.0,1,0,61,67,91.0,0,37,0,0,0,Torino,2020-02-08 Torino-Sampdoria,ITA-SERIA_A,19-20,9f8ea9de
+89976232,Armando Izzo,5,ITA,CB,27-343,76,0,0,0,0,0,0,0,1,71,1,3,1,0.0,0.0,0.0,0,0,54,61,88.5,1,37,0,2,2,Torino,2020-02-08 Torino-Sampdoria,ITA-SERIA_A,19-20,9f8ea9de
+10dc46f0,Salvatore Sirigu,39,ITA,GK,33-027,90,0,0,0,0,0,0,0,0,28,0,0,0,0.0,0.0,0.0,0,0,21,25,84.0,0,6,0,0,0,Torino,2020-02-08 Torino-Sampdoria,ITA-SERIA_A,19-20,9f8ea9de
+ee4f2f3b,Fabio Quagliarella,27,ITA,FW,37-008,89,1,1,1,1,2,0,0,0,34,0,0,0,0.9,0.1,0.6,5,1,14,27,51.9,2,16,0,0,0,Sampdoria,2020-02-08 Torino-Sampdoria,ITA-SERIA_A,19-20,9f8ea9de
+822a7761,Antonino La Gumina,17,ITA,FW,23-339,1,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,0,0,0,0,Sampdoria,2020-02-08 Torino-Sampdoria,ITA-SERIA_A,19-20,9f8ea9de
+8f866fe8,Manolo Gabbiadini,23,ITA,FW,28-074,90,0,0,0,0,4,0,0,0,41,1,0,0,0.2,0.2,0.0,4,1,22,33,66.7,2,19,2,0,0,Sampdoria,2020-02-08 Torino-Sampdoria,ITA-SERIA_A,19-20,9f8ea9de
+d023d70f,Karol Linetty,7,POL,"LM,RM",25-006,90,0,0,0,0,0,0,0,0,46,7,1,1,0.0,0.0,0.0,2,0,23,30,76.7,4,15,3,2,1,Sampdoria,2020-02-08 Torino-Sampdoria,ITA-SERIA_A,19-20,9f8ea9de
+2c851997,Gastón Ramírez,11,URU,CM,29-068,85,2,0,0,0,5,4,0,0,63,2,1,0,0.7,0.7,0.1,6,1,30,42,71.4,4,32,1,9,5,Sampdoria,2020-02-08 Torino-Sampdoria,ITA-SERIA_A,19-20,9f8ea9de
+c75b6a02,Andrea Bertolacci,91,ITA,CM,29-028,5,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,1,0,6,7,85.7,0,3,0,1,0,Sampdoria,2020-02-08 Torino-Sampdoria,ITA-SERIA_A,19-20,9f8ea9de
+f503ea63,Albin Ekdal,6,SWE,CM,30-195,90,0,0,0,0,1,0,1,0,67,6,2,0,0.0,0.0,0.0,2,0,36,49,73.5,1,24,1,1,1,Sampdoria,2020-02-08 Torino-Sampdoria,ITA-SERIA_A,19-20,9f8ea9de
+d1b49282,Morten Thorsby,18,NOR,RM,23-279,67,0,0,0,0,1,0,1,0,45,1,1,2,0.1,0.1,0.0,2,0,23,33,69.7,3,15,0,1,1,Sampdoria,2020-02-08 Torino-Sampdoria,ITA-SERIA_A,19-20,9f8ea9de
+1ea5f91c,Jakub Jankto,14,CZE,LM,24-020,23,0,0,0,0,0,0,0,0,13,0,0,0,0.0,0.0,0.0,1,0,11,12,91.7,1,6,0,0,0,Sampdoria,2020-02-08 Torino-Sampdoria,ITA-SERIA_A,19-20,9f8ea9de
+d183e9d6,Nicola Murru,29,ITA,LB,25-054,90,0,0,0,0,0,0,1,0,55,2,1,1,0.0,0.0,0.0,3,1,28,43,65.1,4,21,3,1,0,Sampdoria,2020-02-08 Torino-Sampdoria,ITA-SERIA_A,19-20,9f8ea9de
+8b95acda,Omar Colley,15,GAM,CB,27-107,90,0,0,0,0,0,0,1,0,50,3,0,1,0.0,0.0,0.0,0,0,31,40,77.5,2,23,1,0,0,Sampdoria,2020-02-08 Torino-Sampdoria,ITA-SERIA_A,19-20,9f8ea9de
+8cc29864,Lorenzo Tonelli,21,ITA,CB,30-022,90,0,0,0,0,0,0,1,0,40,2,1,1,0.0,0.0,0.0,0,0,29,33,87.9,4,18,0,0,0,Sampdoria,2020-02-08 Torino-Sampdoria,ITA-SERIA_A,19-20,9f8ea9de
+61b3978f,Bartosz Bereszyński,24,POL,RB,27-211,90,0,0,0,0,1,0,0,0,79,3,2,2,0.0,0.0,0.0,2,1,53,64,82.8,6,25,4,0,0,Sampdoria,2020-02-08 Torino-Sampdoria,ITA-SERIA_A,19-20,9f8ea9de
+649b01d8,Emil Audero,1,ITA,GK,23-021,90,0,0,0,0,0,0,0,0,26,0,0,0,0.0,0.0,0.0,0,0,19,26,73.1,0,15,0,0,0,Sampdoria,2020-02-08 Torino-Sampdoria,ITA-SERIA_A,19-20,9f8ea9de

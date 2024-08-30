@@ -1,0 +1,31 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+f63cda26,Gonçalo Ramos,9,POR,FW,22-053,90,0,0,0,0,5,1,0,0,40,0,0,1,0.4,0.4,0.0,2,0,20,24,83.3,2,28,2,1,1,Paris Saint-Germain,2023-08-12 Paris S-G-Lorient,FRA-L1,23-24,2e85b460
+45af8a54,Marco Asensio,11,ESP,LW,27-203,68,0,0,0,0,1,1,0,0,57,0,0,1,0.0,0.0,0.2,3,0,46,53,86.8,4,51,1,1,0,Paris Saint-Germain,2023-08-12 Paris S-G-Lorient,FRA-L1,23-24,2e85b460
+fed17f5a,Carlos Soler,28,ESP,LW,26-222,22,0,0,0,0,3,1,0,0,28,0,0,0,0.2,0.2,0.1,3,0,20,24,83.3,1,24,0,0,0,Paris Saint-Germain,2023-08-12 Paris S-G-Lorient,FRA-L1,23-24,2e85b460
+8455ad90,Lee Kang-in,19,KOR,RW,22-174,81,0,0,0,0,3,0,0,0,79,1,0,1,0.1,0.1,0.0,5,0,56,73,76.7,7,63,4,3,2,Paris Saint-Germain,2023-08-12 Paris S-G-Lorient,FRA-L1,23-24,2e85b460
+5b92d896,Hugo Ekitike,44,FRA,RW,21-053,9,0,0,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.0,0,0,7,8,87.5,1,11,0,0,0,Paris Saint-Germain,2023-08-12 Paris S-G-Lorient,FRA-L1,23-24,2e85b460
+3b029691,Vitinha,17,POR,LM,23-180,67,0,0,0,0,1,0,0,0,74,2,2,3,0.1,0.1,0.0,2,0,55,60,91.7,3,64,0,2,1,Paris Saint-Germain,2023-08-12 Paris S-G-Lorient,FRA-L1,23-24,2e85b460
+c0c7ff58,Fabián Ruiz Peña,8,ESP,LM,27-131,23,0,0,0,0,1,1,0,0,25,0,0,0,0.2,0.2,0.0,4,0,21,24,87.5,1,23,1,0,0,Paris Saint-Germain,2023-08-12 Paris S-G-Lorient,FRA-L1,23-24,2e85b460
+c9817014,Manuel Ugarte Ribeiro,4,URU,CM,22-123,90,0,0,0,0,2,0,0,0,107,2,1,0,0.0,0.0,0.0,4,0,88,95,92.6,6,94,3,5,3,Paris Saint-Germain,2023-08-12 Paris S-G-Lorient,FRA-L1,23-24,2e85b460
+6b9960cf,Warren Zaïre-Emery,33,FRA,"RM,CM",17-157,90,0,0,0,0,0,0,0,0,122,0,1,2,0.0,0.0,0.0,2,0,108,116,93.1,8,108,2,1,0,Paris Saint-Germain,2023-08-12 Paris S-G-Lorient,FRA-L1,23-24,2e85b460
+c3ee18ef,Lucas Hernández,21,FRA,LB,27-179,81,0,0,0,0,1,0,0,0,119,3,0,0,0.0,0.0,0.1,1,0,97,109,89.0,3,98,3,2,1,Paris Saint-Germain,2023-08-12 Paris S-G-Lorient,FRA-L1,23-24,2e85b460
+d5f2f82b,Marquinhos,5,BRA,CB,29-090,9,0,0,0,0,0,0,0,0,29,0,0,0,0.0,0.0,0.0,0,0,28,29,96.6,1,26,0,0,0,Paris Saint-Germain,2023-08-12 Paris S-G-Lorient,FRA-L1,23-24,2e85b460
+30f5ffa9,Milan Škriniar,37,SVK,CB,28-182,90,0,0,0,0,0,0,0,0,150,1,0,1,0.0,0.0,0.0,0,0,143,146,97.9,4,139,0,0,0,Paris Saint-Germain,2023-08-12 Paris S-G-Lorient,FRA-L1,23-24,2e85b460
+8fd9996f,Danilo Pereira,15,POR,CB,31-337,90,0,0,0,0,0,0,0,0,161,0,0,0,0.0,0.0,0.0,4,0,151,157,96.2,12,150,5,1,1,Paris Saint-Germain,2023-08-12 Paris S-G-Lorient,FRA-L1,23-24,2e85b460
+e42d61c7,Achraf Hakimi,2,MAR,"RB,RM",24-281,90,0,0,0,0,3,0,0,0,134,1,4,0,0.1,0.1,0.4,7,0,111,120,92.5,9,112,8,0,0,Paris Saint-Germain,2023-08-12 Paris S-G-Lorient,FRA-L1,23-24,2e85b460
+08f5afaa,Gianluigi Donnarumma,99,ITA,GK,24-168,90,0,0,0,0,0,0,0,0,13,0,0,0,0.0,0.0,0.0,0,0,13,13,100.0,0,9,0,0,0,Paris Saint-Germain,2023-08-12 Paris S-G-Lorient,FRA-L1,23-24,2e85b460
+40774c6b,Bamba Dieng,11,SEN,FW,23-142,58,0,0,0,0,1,0,0,0,16,0,0,0,0.0,0.0,0.0,0,0,7,10,70.0,0,13,1,0,0,Lorient,2023-08-12 Paris S-G-Lorient,FRA-L1,23-24,2e85b460
+04bb2b06,Ibrahima Koné,9,MLI,FW,24-057,32,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,5,0,0,0,Lorient,2023-08-12 Paris S-G-Lorient,FRA-L1,23-24,2e85b460
+afe39ca8,Théo Le Bris,37,FRA,LM,20-315,90,0,0,0,0,0,0,0,0,35,4,0,2,0.0,0.0,0.0,1,0,18,26,69.2,3,22,1,1,0,Lorient,2023-08-12 Paris S-G-Lorient,FRA-L1,23-24,2e85b460
+22bfb57e,Jean-Victor Makengo,17,FRA,CM,25-061,58,0,0,0,0,0,0,0,0,26,0,1,2,0.0,0.0,0.0,0,0,12,17,70.6,0,18,0,0,0,Lorient,2023-08-12 Paris S-G-Lorient,FRA-L1,23-24,2e85b460
+e546b2e3,Julien Ponceau,21,FRA,CM,22-257,32,0,0,0,0,1,0,0,0,17,0,1,0,0.0,0.0,0.0,1,0,11,14,78.6,2,12,2,0,0,Lorient,2023-08-12 Paris S-G-Lorient,FRA-L1,23-24,2e85b460
+31626657,Laurent Abergel,19,FRA,CM,30-192,90,0,0,0,0,1,0,0,0,44,4,7,6,0.1,0.1,0.0,2,0,23,25,92.0,1,22,0,0,0,Lorient,2023-08-12 Paris S-G-Lorient,FRA-L1,23-24,2e85b460
+745ca0a3,Romain Faivre,14,FRA,RM,25-029,90,0,0,0,0,1,0,0,0,43,1,1,2,0.0,0.0,0.0,1,0,23,30,76.7,3,36,2,4,2,Lorient,2023-08-12 Paris S-G-Lorient,FRA-L1,23-24,2e85b460
+2321ea6e,Vincent Le Goff,25,FRA,LB,33-301,78,0,0,0,0,0,0,0,0,36,2,1,2,0.0,0.0,0.0,0,0,22,30,73.3,1,22,0,0,0,Lorient,2023-08-12 Paris S-G-Lorient,FRA-L1,23-24,2e85b460
+061266cd,Darlin Yongwa,12,CMR,LB,22-324,12,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,3,3,100.0,2,4,1,1,1,Lorient,2023-08-12 Paris S-G-Lorient,FRA-L1,23-24,2e85b460
+a4a44eb0,Montassar Talbi,3,TUN,CB,25-078,90,0,0,0,0,0,0,0,0,36,0,1,2,0.0,0.0,0.0,0,0,20,25,80.0,1,22,0,0,0,Lorient,2023-08-12 Paris S-G-Lorient,FRA-L1,23-24,2e85b460
+f066022d,Julien Laporte,15,FRA,CB,29-281,90,0,0,0,0,0,0,0,0,38,1,1,2,0.0,0.0,0.0,0,0,19,24,79.2,0,19,0,0,0,Lorient,2023-08-12 Paris S-G-Lorient,FRA-L1,23-24,2e85b460
+04ac78d2,Bamo Meïté,18,CIV,CB,21-252,90,0,0,0,0,0,0,0,0,42,1,2,3,0.0,0.0,0.0,0,0,19,22,86.4,0,21,0,0,0,Lorient,2023-08-12 Paris S-G-Lorient,FRA-L1,23-24,2e85b460
+dd211559,Gedeon Kalulu,24,COD,RB,25-348,90,0,0,0,0,0,0,0,0,43,0,0,1,0.0,0.0,0.0,0,0,26,37,70.3,1,32,0,1,0,Lorient,2023-08-12 Paris S-G-Lorient,FRA-L1,23-24,2e85b460
+dc29b608,Yvon Mvogo,38,SUI,GK,29-067,90,0,0,0,0,0,0,0,0,35,0,0,0,0.0,0.0,0.0,0,0,21,32,65.6,0,20,0,0,0,Lorient,2023-08-12 Paris S-G-Lorient,FRA-L1,23-24,2e85b460

@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+3071a619,Nolan Roux,9,FRA,FW,29-249,90,0,0,0,0,1,1,0,0,35,1,1,1,0.3,0.3,0.0,2,0,18,31,58.1,3,23,1,0,0,Metz,2017-11-05 Metz-Lille,FRA-L1,17-18,0ce48f56
+75a63397,Opa Nguette,11,SEN,LM,23-120,78,0,0,0,0,1,0,1,0,26,2,1,3,0.6,0.6,0.2,6,0,12,15,80.0,3,19,4,4,4,Metz,2017-11-05 Metz-Lille,FRA-L1,17-18,0ce48f56
+857e2586,Brian Fernández,10,ARG,LM,23-040,12,0,0,0,0,1,0,0,0,2,0,0,0,0.1,0.1,0.0,0,0,1,1,100.0,0,2,0,0,0,Metz,2017-11-05 Metz-Lille,FRA-L1,17-18,0ce48f56
+85322440,Cafú,26,POR,CM,24-252,56,0,0,0,0,1,1,0,0,24,1,0,0,0.2,0.2,0.0,2,0,12,20,60.0,3,16,0,0,0,Metz,2017-11-05 Metz-Lille,FRA-L1,17-18,0ce48f56
+46faabfa,Ibrahima Niane,7,SEN,CM,18-239,34,0,0,0,0,5,1,0,0,17,0,0,1,0.5,0.5,0.0,3,0,8,9,88.9,2,10,1,0,0,Metz,2017-11-05 Metz-Lille,FRA-L1,17-18,0ce48f56
+4e7d66f8,Renaud Cohade,24,FRA,CM,33-037,90,0,0,0,0,3,0,1,0,53,4,3,0,0.1,0.1,0.2,3,0,31,39,79.5,13,26,3,1,1,Metz,2017-11-05 Metz-Lille,FRA-L1,17-18,0ce48f56
+6421dd73,Mathieu Dossevi,17,TOG,RM,29-266,90,0,0,0,0,4,1,0,0,60,0,0,1,0.2,0.2,1.3,10,0,29,49,59.2,5,36,8,4,3,Metz,2017-11-05 Metz-Lille,FRA-L1,17-18,0ce48f56
+31bbb7e2,Gerónimo Poblete,5,ARG,DM,24-307,90,0,0,0,0,1,0,0,0,34,3,3,1,0.1,0.1,0.0,2,0,22,26,84.6,2,16,0,0,0,Metz,2017-11-05 Metz-Lille,FRA-L1,17-18,0ce48f56
+7af0e1f8,Jonathan Rivierez,28,MTQ,"LB,CB",28-171,90,0,0,0,0,1,0,0,0,45,5,3,1,0.0,0.0,0.0,2,0,19,30,63.3,6,18,0,0,0,Metz,2017-11-05 Metz-Lille,FRA-L1,17-18,0ce48f56
+00242715,Moussa Niakhate,21,SEN,CB,21-242,90,0,0,0,0,1,1,0,0,39,0,3,2,0.2,0.2,0.0,1,0,24,31,77.4,4,19,0,0,0,Metz,2017-11-05 Metz-Lille,FRA-L1,17-18,0ce48f56
+a51728e3,Milan Biševac,6,SRB,CB,34-066,45,0,0,0,0,0,0,0,0,12,0,0,0,0.0,0.0,0.0,0,0,7,12,58.3,2,4,2,1,1,Metz,2017-11-05 Metz-Lille,FRA-L1,17-18,0ce48f56
+67d251a2,Nicolas Basin,33,FRA,LB,19-106,45,0,0,0,0,0,0,0,0,22,1,2,0,0.0,0.0,0.0,1,0,10,16,62.5,2,10,0,0,0,Metz,2017-11-05 Metz-Lille,FRA-L1,17-18,0ce48f56
+cee88597,Iván Balliu,25,ALB,RB,25-308,90,0,0,0,0,0,0,1,0,44,3,0,1,0.0,0.0,0.0,0,0,21,32,65.6,1,17,1,1,0,Metz,2017-11-05 Metz-Lille,FRA-L1,17-18,0ce48f56
+a3d524cb,Thomas Didillon,1,FRA,GK,21-342,90,0,0,0,0,0,0,0,0,23,0,0,0,0.0,0.0,0.0,0,0,6,20,30.0,0,8,0,0,0,Metz,2017-11-05 Metz-Lille,FRA-L1,17-18,0ce48f56
+57e3f0c7,Nicolas Pépé,19,CIV,"FW,AM,RW",22-160,90,2,0,1,1,3,1,0,0,37,0,0,0,1.0,0.2,0.0,3,1,24,27,88.9,2,22,2,2,1,Lille,2017-11-05 Metz-Lille,FRA-L1,17-18,0ce48f56
+fa18c72e,Luiz Araújo,11,BRA,LW,21-156,45,0,0,0,0,2,0,1,0,20,1,3,0,0.1,0.1,0.1,1,0,8,13,61.5,3,13,2,1,0,Lille,2017-11-05 Metz-Lille,FRA-L1,17-18,0ce48f56
+ccbbe661,Ezequiel Ponce,9,ARG,FW,20-221,45,0,0,0,0,1,1,0,0,16,0,0,0,0.0,0.0,0.1,2,0,8,15,53.3,0,7,1,0,0,Lille,2017-11-05 Metz-Lille,FRA-L1,17-18,0ce48f56
+ffa90327,Anwar El Ghazi,7,NED,"RW,LW",22-186,90,0,0,0,0,3,1,0,0,53,1,1,1,0.2,0.2,0.2,6,1,29,40,72.5,4,35,1,2,0,Lille,2017-11-05 Metz-Lille,FRA-L1,17-18,0ce48f56
+776972d5,Farès Bahlouli,26,FRA,"AM,RW",22-211,70,1,0,0,0,2,1,1,0,42,2,1,2,0.1,0.1,0.0,2,0,22,27,81.5,3,31,3,3,1,Lille,2017-11-05 Metz-Lille,FRA-L1,17-18,0ce48f56
+ae59b359,Boubakary Soumaré,33,FRA,"AM,RW",18-251,20,0,0,0,0,0,0,0,0,16,1,0,1,0.0,0.0,0.0,0,0,12,14,85.7,1,9,0,1,1,Lille,2017-11-05 Metz-Lille,FRA-L1,17-18,0ce48f56
+9260926b,Ibrahim Amadou,6,FRA,DM,24-213,90,0,0,0,0,0,0,0,0,69,1,1,2,0.0,0.0,0.0,1,0,51,62,82.3,2,42,0,0,0,Lille,2017-11-05 Metz-Lille,FRA-L1,17-18,0ce48f56
+c6e5d20f,Thiago Mendes,23,BRA,DM,25-235,90,0,0,0,0,2,2,0,0,67,1,1,0,0.1,0.1,0.0,6,1,53,59,89.8,5,45,4,3,2,Lille,2017-11-05 Metz-Lille,FRA-L1,17-18,0ce48f56
+f449640d,Fodé Ballo-Touré,25,SEN,LB,20-306,45,0,0,0,0,0,0,0,0,20,2,0,0,0.0,0.0,0.0,0,0,15,17,88.2,3,13,0,0,0,Lille,2017-11-05 Metz-Lille,FRA-L1,17-18,0ce48f56
+91e58f66,Thiago Maia,20,BRA,LB,20-227,45,0,0,0,0,0,0,0,0,47,2,2,3,0.0,0.0,0.0,2,0,27,41,65.9,7,23,1,1,1,Lille,2017-11-05 Metz-Lille,FRA-L1,17-18,0ce48f56
+b18a3023,Júnior Alonso,3,PAR,CB,24-269,90,0,0,0,0,0,0,0,0,68,1,1,2,0.0,0.0,0.0,1,0,47,55,85.5,7,38,0,0,0,Lille,2017-11-05 Metz-Lille,FRA-L1,17-18,0ce48f56
+3767b3b7,Edgar Ié,15,GNB,CB,23-188,90,0,0,0,0,0,0,0,0,61,4,3,0,0.0,0.0,0.0,0,0,35,44,79.5,3,27,0,0,0,Lille,2017-11-05 Metz-Lille,FRA-L1,17-18,0ce48f56
+d6a889ea,Kévin Malcuit,2,MAR,RB,26-097,90,0,0,0,0,0,0,0,0,65,0,3,2,0.0,0.0,0.1,1,0,41,53,77.4,4,35,2,1,1,Lille,2017-11-05 Metz-Lille,FRA-L1,17-18,0ce48f56
+fcb38f57,Mike Maignan,16,FRA,GK,22-125,90,0,0,0,0,0,0,0,0,37,0,0,0,0.0,0.0,0.0,0,0,28,32,87.5,0,10,0,0,0,Lille,2017-11-05 Metz-Lille,FRA-L1,17-18,0ce48f56

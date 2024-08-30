@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+718b8afd,Florian Ayé,18,FRA,"FW,LM",22-239,90,0,0,0,0,1,0,0,0,27,1,0,1,0.0,0.0,0.0,4,0,8,16,50.0,0,12,1,3,3,Brescia,2019-09-15 Brescia-Bologna,ITA-SERIA_A,19-20,3d263c0c
+5592007b,Alfredo Donnarumma,9,ITA,FW,28-289,62,2,0,0,0,2,2,0,0,27,1,0,0,0.8,0.8,0.0,2,1,10,15,66.7,1,15,1,2,0,Brescia,2019-09-15 Brescia-Bologna,ITA-SERIA_A,19-20,3d263c0c
+cbec1196,Jaromír Zmrhal,8,CZE,"LM,CM",26-044,28,0,0,0,0,0,0,0,0,8,0,0,1,0.0,0.0,0.0,0,0,5,7,71.4,1,3,0,0,0,Brescia,2019-09-15 Brescia-Bologna,ITA-SERIA_A,19-20,3d263c0c
+07abb358,Rômulo,28,ITA,"AM,CM,LM",32-116,83,0,1,0,0,1,1,0,0,27,0,0,2,0.3,0.3,0.8,2,1,15,17,88.2,2,21,2,1,0,Brescia,2019-09-15 Brescia-Bologna,ITA-SERIA_A,19-20,3d263c0c
+58d97e77,Alessandro Matri,21,ITA,FW,35-027,7,0,0,0,0,1,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,3,1,1,1,Brescia,2019-09-15 Brescia-Bologna,ITA-SERIA_A,19-20,3d263c0c
+02b2937c,Daniele Dessena,27,ITA,LM,32-128,47,0,0,0,0,0,0,2,1,24,0,1,0,0.0,0.0,0.0,0,0,16,20,80.0,2,12,3,0,0,Brescia,2019-09-15 Brescia-Bologna,ITA-SERIA_A,19-20,3d263c0c
+0db169ae,Sandro Tonali,4,ITA,CM,19-130,78,0,1,0,0,1,1,0,0,35,2,1,0,0.0,0.0,0.1,1,1,16,26,61.5,4,14,0,1,1,Brescia,2019-09-15 Brescia-Bologna,ITA-SERIA_A,19-20,3d263c0c
+9e90fb5d,Nikolas Špalek,7,SVK,"RM,CM",22-215,12,0,0,0,0,0,0,0,0,11,1,0,0,0.0,0.0,0.0,1,0,4,9,44.4,2,6,0,0,0,Brescia,2019-09-15 Brescia-Bologna,ITA-SERIA_A,19-20,3d263c0c
+16569fef,Dimitri Bisoli,25,ITA,"RM,CM",25-174,90,0,0,0,0,1,0,0,0,49,5,0,2,0.0,0.0,0.0,0,0,22,34,64.7,4,19,1,1,1,Brescia,2019-09-15 Brescia-Bologna,ITA-SERIA_A,19-20,3d263c0c
+deb748c9,Aleš Matějů,3,CZE,LB,23-104,90,0,1,0,0,1,1,0,0,39,3,0,1,0.0,0.0,0.1,3,2,26,31,83.9,7,16,2,0,0,Brescia,2019-09-15 Brescia-Bologna,ITA-SERIA_A,19-20,3d263c0c
+84b6acaa,Jhon Chancellor,14,VEN,CB,27-256,90,0,0,0,0,0,0,0,0,25,0,2,0,0.0,0.0,0.0,0,0,13,17,76.5,2,11,0,0,0,Brescia,2019-09-15 Brescia-Bologna,ITA-SERIA_A,19-20,3d263c0c
+fe6a7685,Andrea Cistana,15,ITA,CB,22-167,90,1,0,0,0,1,1,0,0,36,0,0,0,0.1,0.1,0.3,1,0,21,30,70.0,3,15,1,0,0,Brescia,2019-09-15 Brescia-Bologna,ITA-SERIA_A,19-20,3d263c0c
+0ccac09c,Stefano Sabelli,2,ITA,RB,26-245,90,0,0,0,0,0,0,0,0,57,2,0,2,0.0,0.0,0.0,1,1,23,44,52.3,1,16,1,2,1,Brescia,2019-09-15 Brescia-Bologna,ITA-SERIA_A,19-20,3d263c0c
+7f66ea09,Jesse Joronen,1,FIN,GK,26-178,90,0,0,0,0,0,0,0,0,31,0,0,0,0.0,0.0,0.0,0,0,13,27,48.1,0,7,0,0,0,Brescia,2019-09-15 Brescia-Bologna,ITA-SERIA_A,19-20,3d263c0c
+8d8178ac,Rodrigo Palacio,24,ARG,"FW,AM",37-222,88,1,1,0,0,4,3,0,0,57,0,0,1,1.2,1.2,0.8,4,1,35,43,81.4,5,38,2,1,0,Bologna,2019-09-15 Brescia-Bologna,ITA-SERIA_A,19-20,3d263c0c
+c50cee19,Andreas Skov Olsen,17,DEN,AM,19-260,2,0,0,0,0,0,0,1,0,5,0,0,0,0.0,0.0,0.0,0,0,2,4,50.0,0,4,2,1,1,Bologna,2019-09-15 Brescia-Bologna,ITA-SERIA_A,19-20,3d263c0c
+7eb97a8e,Nicola Sansone,10,ITA,LW,28-005,90,0,1,0,0,4,0,0,0,60,0,1,1,0.5,0.5,0.4,8,2,29,41,70.7,4,41,3,5,2,Bologna,2019-09-15 Brescia-Bologna,ITA-SERIA_A,19-20,3d263c0c
+e14ec482,Riccardo Orsolini,7,ITA,RW,22-234,90,1,1,0,0,2,1,0,0,57,1,0,1,0.4,0.4,1.0,8,1,29,45,64.4,5,34,1,4,1,Bologna,2019-09-15 Brescia-Bologna,ITA-SERIA_A,19-20,3d263c0c
+9d4c45d6,Roberto Soriano,21,ITA,"DM,AM",28-219,90,0,0,0,0,2,1,1,0,51,1,0,0,0.1,0.1,0.0,5,1,44,47,93.6,11,38,5,0,0,Bologna,2019-09-15 Brescia-Bologna,ITA-SERIA_A,19-20,3d263c0c
+756959aa,Blerim Džemaili,31,SUI,DM,33-156,45,0,0,0,0,2,1,0,0,29,1,0,0,0.1,0.1,0.1,3,0,18,24,75.0,8,21,2,0,0,Bologna,2019-09-15 Brescia-Bologna,ITA-SERIA_A,19-20,3d263c0c
+df85d472,Federico Santander,9,PAR,FW,28-103,45,0,0,0,0,3,0,1,0,21,0,0,0,0.3,0.3,0.3,2,0,11,15,73.3,3,12,1,0,0,Bologna,2019-09-15 Brescia-Bologna,ITA-SERIA_A,19-20,3d263c0c
+563a68ad,Gary Medel,5,CHI,"DM,CB",32-043,90,0,0,0,0,0,0,1,0,74,4,0,0,0.0,0.0,0.0,2,0,62,68,91.2,8,38,2,0,0,Bologna,2019-09-15 Brescia-Bologna,ITA-SERIA_A,19-20,3d263c0c
+0a3065c8,Mitchell Dijks,35,NED,LB,26-218,90,0,0,0,0,0,0,0,0,73,2,0,0,0.0,0.0,0.1,2,0,48,65,73.8,7,42,2,2,0,Bologna,2019-09-15 Brescia-Bologna,ITA-SERIA_A,19-20,3d263c0c
+5832ebfe,Stefano Denswil,4,SUR,CB,26-131,90,0,0,0,0,0,0,1,0,70,1,2,2,0.0,0.0,0.0,0,0,52,58,89.7,4,35,2,0,0,Bologna,2019-09-15 Brescia-Bologna,ITA-SERIA_A,19-20,3d263c0c
+0821331c,Mattia Bani,13,ITA,CB,25-279,52,1,0,0,0,1,1,1,0,44,1,1,0,0.2,0.2,0.0,1,0,31,38,81.6,0,21,0,0,0,Bologna,2019-09-15 Brescia-Bologna,ITA-SERIA_A,19-20,3d263c0c
+b3fd7075,Andrea Poli,16,ITA,DM,29-351,38,0,0,0,0,0,0,0,0,36,1,0,0,0.0,0.0,0.0,2,1,28,30,93.3,6,22,0,0,0,Bologna,2019-09-15 Brescia-Bologna,ITA-SERIA_A,19-20,3d263c0c
+b3af9be1,Takehiro Tomiyasu,14,JPN,RB,20-314,90,0,0,0,0,3,0,0,0,80,1,1,0,0.3,0.3,0.0,1,0,62,72,86.1,6,47,1,2,1,Bologna,2019-09-15 Brescia-Bologna,ITA-SERIA_A,19-20,3d263c0c
+ab4449d6,Łukasz Skorupski,28,POL,GK,28-133,90,0,0,0,0,0,0,0,0,32,0,0,0,0.0,0.0,0.0,0,0,27,31,87.1,0,19,0,0,0,Bologna,2019-09-15 Brescia-Bologna,ITA-SERIA_A,19-20,3d263c0c

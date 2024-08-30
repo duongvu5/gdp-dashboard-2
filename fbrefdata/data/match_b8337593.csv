@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+7b04c5cb,Seedy Jatta,20,NOR,FW,20-222,61,0,0,0,0,0,0,0,0,13,1,0,0,0.0,0.0,0.0,0,0,5,8,62.5,0,8,0,0,0,Sturm Graz,2023-10-26 Sturm Graz-Atalanta,UEL,23-24,b8337593
+88015937,Szymon Włodarczyk,9,POL,FW,20-294,29,1,0,1,1,0,0,0,0,9,0,0,0,0.8,0.0,0.0,0,0,2,6,33.3,1,5,0,0,0,Sturm Graz,2023-10-26 Sturm Graz-Atalanta,UEL,23-24,b8337593
+33591ff0,Manprit Sarkaria,11,AUT,FW,27-061,76,0,0,0,0,0,0,0,0,33,0,0,2,0.0,0.0,0.1,3,1,19,26,73.1,1,22,0,2,1,Sturm Graz,2023-10-26 Sturm Graz-Atalanta,UEL,23-24,b8337593
+62de9d42,Tomi Horvat,19,SVN,FW,24-216,14,0,0,0,0,0,0,0,0,8,1,0,2,0.0,0.0,0.0,0,0,1,2,50.0,0,1,0,0,0,Sturm Graz,2023-10-26 Sturm Graz-Atalanta,UEL,23-24,b8337593
+fc9b373e,Otar Kiteishvili,10,GEO,AM,27-214,61,0,1,0,0,1,0,1,0,30,0,0,1,0.0,0.0,0.2,3,1,18,24,75.0,4,22,1,2,2,Sturm Graz,2023-10-26 Sturm Graz-Atalanta,UEL,23-24,b8337593
+0a8fd9cb,Javier Serrano,14,ESP,AM,20-283,29,0,0,0,0,0,0,0,0,12,0,0,0,0.0,0.0,0.0,0,0,5,8,62.5,0,5,0,0,0,Sturm Graz,2023-10-26 Sturm Graz-Atalanta,UEL,23-24,b8337593
+6637e6a7,Alexander Prass,8,AUT,LM,22-153,69,1,0,0,0,2,2,0,0,34,2,0,1,0.1,0.1,0.0,1,0,18,24,75.0,3,25,2,3,1,Sturm Graz,2023-10-26 Sturm Graz-Atalanta,UEL,23-24,b8337593
+731302dc,William Vick,15,DEN,LM,20-239,21,0,0,0,0,1,0,0,0,7,1,0,0,0.1,0.1,0.0,1,0,4,5,80.0,1,6,0,1,1,Sturm Graz,2023-10-26 Sturm Graz-Atalanta,UEL,23-24,b8337593
+3642b47f,Stefan Hierländer,25,AUT,RM,32-265,51,0,0,0,0,0,0,2,1,15,1,0,1,0.0,0.0,0.0,0,0,7,10,70.0,1,9,0,0,0,Sturm Graz,2023-10-26 Sturm Graz-Atalanta,UEL,23-24,b8337593
+9c74fa25,Jon Gorenc Stanković,4,SVN,DM,27-285,90,0,0,0,0,2,1,0,0,37,3,1,2,0.2,0.2,0.0,1,0,16,24,66.7,1,22,0,0,0,Sturm Graz,2023-10-26 Sturm Graz-Atalanta,UEL,23-24,b8337593
+da7f2781,Amadou Dante,44,MLI,LB,23-019,90,0,0,0,0,0,0,0,0,71,0,6,3,0.0,0.0,0.0,0,0,31,55,56.4,2,38,0,0,0,Sturm Graz,2023-10-26 Sturm Graz-Atalanta,UEL,23-24,b8337593
+7b9ecf02,Gregory Wüthrich,5,SUI,CB,28-326,61,0,0,0,0,1,0,0,0,32,1,4,1,0.0,0.0,0.0,0,0,13,17,76.5,2,14,0,0,0,Sturm Graz,2023-10-26 Sturm Graz-Atalanta,UEL,23-24,b8337593
+50e73475,Dimitri Lavalée,24,BEL,CB,26-286,29,0,0,0,0,0,0,0,0,13,2,0,0,0.0,0.0,0.0,0,0,7,7,100.0,0,5,0,0,0,Sturm Graz,2023-10-26 Sturm Graz-Atalanta,UEL,23-24,b8337593
+4b00cd47,David Affengruber,42,AUT,CB,22-221,90,0,0,0,0,3,1,0,0,51,2,0,1,0.3,0.3,0.0,1,0,20,34,58.8,1,28,0,0,0,Sturm Graz,2023-10-26 Sturm Graz-Atalanta,UEL,23-24,b8337593
+0683f364,Jusuf Gazibegović,22,BIH,RB,23-229,90,0,0,0,0,0,0,0,0,42,3,1,3,0.0,0.0,0.2,4,1,17,34,50.0,1,16,0,0,0,Sturm Graz,2023-10-26 Sturm Graz-Atalanta,UEL,23-24,b8337593
+f0e4c69e,Kjell Scherpen,1,NED,GK,23-276,90,0,0,0,0,0,0,0,0,43,0,0,0,0.0,0.0,0.0,1,0,23,40,57.5,0,27,0,0,0,Sturm Graz,2023-10-26 Sturm Graz-Atalanta,UEL,23-24,b8337593
+eb2fe5b6,Luis Muriel,9,COL,FW,32-193,62,2,0,1,1,3,3,0,0,41,0,0,0,1.2,0.4,0.0,3,1,19,32,59.4,3,30,3,3,2,Atalanta,2023-10-26 Sturm Graz-Atalanta,UEL,23-24,b8337593
+8790f988,Gianluca Scamacca,90,ITA,FW,24-298,28,0,0,0,0,3,1,0,0,14,0,0,1,0.1,0.1,0.0,1,0,4,7,57.1,0,12,0,0,0,Atalanta,2023-10-26 Sturm Graz-Atalanta,UEL,23-24,b8337593
+7c104bb7,Ademola Lookman,11,NGA,FW,26-006,63,0,0,0,0,2,1,1,0,35,0,1,2,0.1,0.1,0.1,3,0,13,20,65.0,2,31,5,8,3,Atalanta,2023-10-26 Sturm Graz-Atalanta,UEL,23-24,b8337593
+2ef7c612,Charles De Ketelaere,17,BEL,FW,22-230,27,0,0,0,0,0,0,0,0,16,0,1,1,0.0,0.0,0.1,2,0,9,10,90.0,3,9,2,1,0,Atalanta,2023-10-26 Sturm Graz-Atalanta,UEL,23-24,b8337593
+a26fb8aa,Teun Koopmeiners,7,NED,AM,25-240,90,0,0,0,0,2,1,0,0,66,2,0,0,0.1,0.1,0.0,2,0,38,55,69.1,8,50,5,1,0,Atalanta,2023-10-26 Sturm Graz-Atalanta,UEL,23-24,b8337593
+a9202def,Éderson,13,BRA,CM,24-111,90,0,0,0,0,1,0,0,0,66,0,1,1,0.0,0.0,0.0,5,0,49,58,84.5,15,53,3,4,2,Atalanta,2023-10-26 Sturm Graz-Atalanta,UEL,23-24,b8337593
+2a1beb34,Marten de Roon,15,NED,CM,32-211,90,0,0,0,0,0,0,0,0,78,0,3,0,0.0,0.0,0.0,3,0,60,71,84.5,5,65,1,1,1,Atalanta,2023-10-26 Sturm Graz-Atalanta,UEL,23-24,b8337593
+ae9898c5,Matteo Ruggeri,22,ITA,WB,21-107,62,0,0,0,0,0,0,0,0,67,0,0,0,0.0,0.0,0.0,1,1,53,64,82.8,3,50,3,1,1,Atalanta,2023-10-26 Sturm Graz-Atalanta,UEL,23-24,b8337593
+3b333ac3,Hans Hateboer,33,NED,WB,29-290,28,0,0,0,0,1,0,0,0,29,1,0,1,0.1,0.1,0.0,0,0,19,25,76.0,6,21,2,1,0,Atalanta,2023-10-26 Sturm Graz-Atalanta,UEL,23-24,b8337593
+7fe90ccd,Davide Zappacosta,77,ITA,WB,31-137,76,0,0,0,0,1,0,0,0,57,1,0,2,0.0,0.0,0.0,3,1,39,52,75.0,4,43,4,4,3,Atalanta,2023-10-26 Sturm Graz-Atalanta,UEL,23-24,b8337593
+a8567629,Mitchel Bakker,20,NED,WB,23-128,14,0,0,0,0,0,0,1,0,20,0,0,0,0.0,0.0,0.0,0,0,12,19,63.2,1,16,1,1,0,Atalanta,2023-10-26 Sturm Graz-Atalanta,UEL,23-24,b8337593
+3935e52e,Sead Kolašinac,23,BIH,CB,30-128,90,0,0,0,0,0,0,0,0,90,1,2,0,0.0,0.0,0.0,1,0,73,82,89.0,10,63,0,1,1,Atalanta,2023-10-26 Sturm Graz-Atalanta,UEL,23-24,b8337593
+6eee05f1,Berat Djimsiti,19,ALB,CB,30-249,90,0,0,0,0,1,1,0,0,81,1,3,1,0.1,0.1,0.1,1,0,63,70,90.0,4,53,0,1,1,Atalanta,2023-10-26 Sturm Graz-Atalanta,UEL,23-24,b8337593
+c56dc39e,Rafael Tolói,2,ITA,CB,33-016,80,0,0,0,0,0,0,0,0,66,1,2,2,0.0,0.0,0.0,2,0,51,58,87.9,7,46,0,1,0,Atalanta,2023-10-26 Sturm Graz-Atalanta,UEL,23-24,b8337593
+1e9aa637,Giorgio Scalvini,42,ITA,CB,19-319,10,0,0,0,0,0,0,0,0,12,0,1,0,0.0,0.0,0.0,0,0,9,10,90.0,2,7,0,0,0,Atalanta,2023-10-26 Sturm Graz-Atalanta,UEL,23-24,b8337593
+a111cf41,Juan Musso,1,ARG,GK,29-173,90,0,0,0,0,0,0,0,0,35,0,0,0,0.0,0.0,0.0,0,0,29,32,90.6,0,27,0,0,0,Atalanta,2023-10-26 Sturm Graz-Atalanta,UEL,23-24,b8337593

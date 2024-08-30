@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+ce50fd99,Jonathan David,9,CAN,FW,20-313,90,1,1,0,0,7,5,0,0,56,1,0,0,0.9,0.9,0.6,13,2,33,38,86.8,4,36,6,6,3,Lille,2020-11-22 Lille-Lorient,FRA-L1,20-21,89a4df99
+f5c8b425,Yusuf Yazıcı,12,TUR,FW,23-298,80,2,1,0,0,8,4,0,0,71,1,0,0,1.1,1.1,1.1,13,1,38,55,69.1,11,46,4,3,2,Lille,2020-11-22 Lille-Lorient,FRA-L1,20-21,89a4df99
+42eaa028,Jonathan Ikone,10,FRA,FW,22-204,10,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,1,0,4,4,100.0,1,4,0,1,1,Lille,2020-11-22 Lille-Lorient,FRA-L1,20-21,89a4df99
+b2bd0f6c,Jonathan Bamba,7,CIV,LM,24-241,85,0,1,0,0,3,1,0,0,73,1,0,1,0.2,0.2,0.7,9,2,56,68,82.4,8,57,4,3,3,Lille,2020-11-22 Lille-Lorient,FRA-L1,20-21,89a4df99
+8eec784d,Timothy Weah,22,USA,LM,20-274,5,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,7,7,100.0,0,8,0,2,1,Lille,2020-11-22 Lille-Lorient,FRA-L1,20-21,89a4df99
+f3600c02,Xeka,8,POR,CM,26-012,69,0,0,0,0,1,0,1,0,66,4,0,2,0.1,0.1,0.0,3,1,58,60,96.7,4,38,0,1,1,Lille,2020-11-22 Lille-Lorient,FRA-L1,20-21,89a4df99
+ae59b359,Boubakary Soumaré,24,FRA,CM,21-269,21,0,0,0,0,1,0,0,0,32,0,2,0,0.0,0.0,0.4,4,0,28,29,96.6,3,24,2,2,2,Lille,2020-11-22 Lille-Lorient,FRA-L1,20-21,89a4df99
+ef9c1c95,Benjamin André,21,FRA,CM,30-111,90,0,0,0,0,2,0,0,0,76,6,5,1,0.1,0.1,0.0,5,0,55,61,90.2,9,39,0,1,0,Lille,2020-11-22 Lille-Lorient,FRA-L1,20-21,89a4df99
+fa18c72e,Luiz Araújo,11,BRA,RM,24-173,79,1,0,0,0,5,1,0,0,59,0,1,0,0.6,0.6,0.1,2,0,35,43,81.4,3,47,3,6,1,Lille,2020-11-22 Lille-Lorient,FRA-L1,20-21,89a4df99
+57a46f3f,Isaac Lihadji,19,FRA,RM,18-226,11,0,1,0,0,2,1,0,0,12,0,0,0,0.4,0.4,0.4,2,1,5,7,71.4,0,6,2,1,0,Lille,2020-11-22 Lille-Lorient,FRA-L1,20-21,89a4df99
+8bbe2df5,Domagoj Bradarić,29,CRO,LB,20-348,90,0,0,0,0,1,1,0,0,75,2,2,1,0.1,0.1,0.0,2,1,54,67,80.6,4,48,1,0,0,Lille,2020-11-22 Lille-Lorient,FRA-L1,20-21,89a4df99
+ccce7025,Sven Botman,5,NED,CB,20-315,90,0,0,0,0,0,0,0,0,98,2,2,1,0.0,0.0,0.0,1,0,81,93,87.1,11,74,2,0,0,Lille,2020-11-22 Lille-Lorient,FRA-L1,20-21,89a4df99
+7b075c75,Adama Soumaoro,25,FRA,CB,28-157,90,0,0,0,0,1,0,0,0,78,0,2,1,0.1,0.1,0.0,0,0,67,70,95.7,1,64,0,0,0,Lille,2020-11-22 Lille-Lorient,FRA-L1,20-21,89a4df99
+a634b9d2,Jérémy Pied,26,FRA,RB,31-273,69,0,0,0,0,0,0,0,0,88,2,2,0,0.0,0.0,0.1,3,0,60,83,72.3,11,65,6,1,1,Lille,2020-11-22 Lille-Lorient,FRA-L1,20-21,89a4df99
+b2336681,Tiago Djaló,3,POR,RB,20-227,21,0,0,0,0,0,0,0,0,23,0,1,0,0.0,0.0,0.0,0,0,21,22,95.5,0,20,1,0,0,Lille,2020-11-22 Lille-Lorient,FRA-L1,20-21,89a4df99
+fcb38f57,Mike Maignan,16,FRA,GK,25-142,90,0,0,0,0,0,0,0,0,38,0,0,0,0.0,0.0,0.0,0,0,30,37,81.1,0,33,0,0,0,Lille,2020-11-22 Lille-Lorient,FRA-L1,20-21,89a4df99
+065dc209,Terem Moffi,13,NGA,FW,21-181,57,0,0,0,0,0,0,0,0,12,1,0,0,0.0,0.0,0.0,0,0,0,4,0.0,0,4,1,0,0,Lorient,2020-11-22 Lille-Lorient,FRA-L1,20-21,89a4df99
+a99da9ec,Pierre-Yves Hamel,29,FRA,"FW,RM",26-293,33,0,0,0,0,2,0,0,0,10,0,0,0,0.1,0.1,0.0,1,0,6,7,85.7,0,3,1,1,1,Lorient,2020-11-22 Lille-Lorient,FRA-L1,20-21,89a4df99
+4ef705ab,Sylvain Marveaux,12,FRA,FW,34-221,58,0,0,0,0,0,0,0,0,18,1,0,0,0.0,0.0,0.1,1,0,15,17,88.2,2,7,1,0,0,Lorient,2020-11-22 Lille-Lorient,FRA-L1,20-21,89a4df99
+4a987ffa,Adrian Grbić,27,AUT,FW,24-110,32,0,0,0,0,2,1,0,0,9,0,0,0,0.4,0.4,0.0,0,0,3,6,50.0,0,5,1,0,0,Lorient,2020-11-22 Lille-Lorient,FRA-L1,20-21,89a4df99
+2500cef9,Yoane Wissa,19,COD,LM,24-080,90,0,0,0,0,1,1,1,0,27,2,0,1,0.4,0.4,0.4,3,0,9,14,64.3,1,17,2,1,1,Lorient,2020-11-22 Lille-Lorient,FRA-L1,20-21,89a4df99
+31626657,Laurent Abergel,6,FRA,CM,27-295,90,0,0,0,0,1,0,0,0,94,10,2,6,0.0,0.0,0.0,0,0,59,69,85.5,1,39,1,0,0,Lorient,2020-11-22 Lille-Lorient,FRA-L1,20-21,89a4df99
+5515376c,Trevoh Chalobah,8,ENG,CM,21-140,68,0,0,0,0,0,0,0,0,32,3,4,1,0.0,0.0,0.0,0,0,15,20,75.0,2,15,1,2,2,Lorient,2020-11-22 Lille-Lorient,FRA-L1,20-21,89a4df99
+54d51e22,Fabien Lemoine,18,FRA,CM,33-251,22,0,0,0,0,0,0,1,0,25,3,0,1,0.0,0.0,0.0,1,0,18,20,90.0,1,12,0,0,0,Lorient,2020-11-22 Lille-Lorient,FRA-L1,20-21,89a4df99
+2d22cea7,Armand Lauriente,28,FRA,"RM,FW",21-354,68,0,0,0,0,0,0,0,0,24,1,0,1,0.0,0.0,0.4,1,0,16,17,94.1,3,13,2,2,0,Lorient,2020-11-22 Lille-Lorient,FRA-L1,20-21,89a4df99
+6f806d99,Enzo Le Fée,10,FRA,RM,20-293,22,0,0,0,0,0,0,0,0,16,0,1,0,0.0,0.0,0.0,2,0,11,16,68.8,3,8,0,1,1,Lorient,2020-11-22 Lille-Lorient,FRA-L1,20-21,89a4df99
+e97150c0,Jérémy Morel,21,MAD,LB,36-234,90,0,0,0,0,0,0,0,0,69,2,2,1,0.0,0.0,0.0,1,0,37,56,66.1,1,21,1,0,0,Lorient,2020-11-22 Lille-Lorient,FRA-L1,20-21,89a4df99
+49136c42,Andrew Gravillon,2,GLP,CB,22-288,90,0,0,0,0,1,0,0,0,66,0,3,7,0.1,0.1,0.0,0,0,46,49,93.9,0,29,0,1,1,Lorient,2020-11-22 Lille-Lorient,FRA-L1,20-21,89a4df99
+f066022d,Julien Laporte,15,FRA,CB,27-018,90,0,0,0,0,0,0,0,0,67,4,3,3,0.0,0.0,0.0,0,0,42,52,80.8,0,34,0,0,0,Lorient,2020-11-22 Lille-Lorient,FRA-L1,20-21,89a4df99
+1545cf15,Houboulang Mendes,17,GNB,RB,22-202,82,0,0,0,0,0,0,1,0,43,1,1,1,0.0,0.0,0.0,1,0,23,34,67.6,2,21,1,0,0,Lorient,2020-11-22 Lille-Lorient,FRA-L1,20-21,89a4df99
+a84f9a4b,Jérôme Hergault,14,FRA,RB,34-231,8,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,6,7,85.7,1,3,0,0,0,Lorient,2020-11-22 Lille-Lorient,FRA-L1,20-21,89a4df99
+2d70dbe5,Paul Nardi,30,FRA,GK,26-188,90,0,0,0,0,0,0,0,0,40,0,0,0,0.0,0.0,0.0,0,0,18,36,50.0,0,16,0,0,0,Lorient,2020-11-22 Lille-Lorient,FRA-L1,20-21,89a4df99

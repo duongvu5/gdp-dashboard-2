@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+09538fdb,Kevin Lasagna,15,ITA,FW,25-241,90,1,0,0,0,4,2,0,0,24,0,0,0,0.5,0.5,0.0,2,0,11,16,68.8,1,10,1,1,0,Udinese,2018-04-08 Udinese-Lazio,ITA-SERIA_A,17-18,2e3cb631
+ad469944,Maxi López,20,ARG,FW,34-005,70,0,0,0,0,1,0,0,0,19,1,1,0,0.1,0.1,0.1,3,0,9,13,69.2,3,11,0,1,1,Udinese,2018-04-08 Udinese-Lazio,ITA-SERIA_A,17-18,2e3cb631
+162efffd,Rodrigo De Paul,10,ARG,AM,23-319,20,0,0,0,0,0,0,0,0,17,0,0,0,0.0,0.0,0.0,0,0,8,15,53.3,2,9,1,1,0,Udinese,2018-04-08 Udinese-Lazio,ITA-SERIA_A,17-18,2e3cb631
+1ea5f91c,Jakub Jankto,14,CZE,"CM,WB",22-079,90,0,0,0,0,2,0,0,0,40,0,0,1,0.1,0.1,0.0,3,0,27,32,84.4,4,23,3,2,1,Udinese,2018-04-08 Udinese-Lazio,ITA-SERIA_A,17-18,2e3cb631
+9be4ee80,Andrija Balić,99,CRO,CM,20-240,90,0,0,0,0,1,0,0,0,47,0,3,1,0.0,0.0,0.1,3,0,27,36,75.0,2,24,2,2,1,Udinese,2018-04-08 Udinese-Lazio,ITA-SERIA_A,17-18,2e3cb631
+01efac19,Antonín Barák,72,CZE,"CM,AM",23-126,90,0,0,0,0,0,0,0,0,35,0,1,1,0.0,0.0,0.0,1,0,15,25,60.0,1,22,0,3,0,Udinese,2018-04-08 Udinese-Lazio,ITA-SERIA_A,17-18,2e3cb631
+06050480,Ali Adnan Kadhim,53,IRQ,WB,24-110,71,0,0,0,0,1,0,0,0,43,3,5,2,0.0,0.0,0.1,1,0,16,29,55.2,1,20,1,1,1,Udinese,2018-04-08 Udinese-Lazio,ITA-SERIA_A,17-18,2e3cb631
+4133cfcf,Svante Ingelsson,13,SWE,CM,19-298,19,0,0,0,0,0,0,0,0,11,1,1,0,0.0,0.0,0.0,1,0,5,9,55.6,0,5,2,0,0,Udinese,2018-04-08 Udinese-Lazio,ITA-SERIA_A,17-18,2e3cb631
+f91e81c9,Jens Stryger Larsen,19,DEN,"WB,CB",27-046,90,0,1,0,0,1,1,0,0,59,1,1,1,0.0,0.0,0.3,2,1,42,55,76.4,2,35,1,0,0,Udinese,2018-04-08 Udinese-Lazio,ITA-SERIA_A,17-18,2e3cb631
+92b4758e,Samir Santos,3,BRA,CB,23-124,58,0,0,0,0,0,0,0,0,25,2,2,2,0.0,0.0,0.0,0,0,12,16,75.0,1,11,0,0,0,Udinese,2018-04-08 Udinese-Lazio,ITA-SERIA_A,17-18,2e3cb631
+f68b64fc,Silvan Widmer,27,SUI,"CB,WB",25-034,32,0,0,0,0,0,0,0,0,37,0,2,0,0.0,0.0,0.0,1,0,24,33,72.7,5,19,0,0,0,Udinese,2018-04-08 Udinese-Lazio,ITA-SERIA_A,17-18,2e3cb631
+fed5f993,Danilo Larangeira,5,BRA,CB,33-333,90,0,0,0,0,0,0,0,0,56,0,4,2,0.0,0.0,0.0,1,0,38,49,77.6,1,30,1,0,0,Udinese,2018-04-08 Udinese-Lazio,ITA-SERIA_A,17-18,2e3cb631
+e33f36d5,Bram Nuytinck,17,NED,CB,27-339,90,0,0,0,0,0,0,0,0,71,4,2,0,0.0,0.0,0.0,2,1,43,59,72.9,6,44,0,0,0,Udinese,2018-04-08 Udinese-Lazio,ITA-SERIA_A,17-18,2e3cb631
+32b9b5fa,Albano Bizzarri,1,ARG,GK,40-150,90,0,0,0,0,0,0,0,0,33,0,0,0,0.0,0.0,0.0,0,0,17,32,53.1,0,17,0,0,0,Udinese,2018-04-08 Udinese-Lazio,ITA-SERIA_A,17-18,2e3cb631
+4431aed2,Ciro Immobile,17,ITA,FW,28-047,71,1,1,0,0,4,1,0,0,45,0,0,0,0.6,0.6,0.1,1,1,31,36,86.1,2,27,2,2,1,Lazio,2018-04-08 Udinese-Lazio,ITA-SERIA_A,17-18,2e3cb631
+93b891d1,Felipe Caicedo,20,ECU,FW,29-215,19,0,0,0,0,0,0,1,0,5,0,0,0,0.0,0.0,0.0,0,0,5,5,100.0,1,2,0,0,0,Lazio,2018-04-08 Udinese-Lazio,ITA-SERIA_A,17-18,2e3cb631
+9f1893b9,Felipe Anderson,10,BRA,FW,24-358,90,0,0,0,0,0,0,0,0,67,0,0,1,0.0,0.0,0.2,7,0,41,58,70.7,4,38,8,8,6,Lazio,2018-04-08 Udinese-Lazio,ITA-SERIA_A,17-18,2e3cb631
+5294a83f,Luis Alberto,18,ESP,DM,25-192,59,1,0,0,0,2,1,0,0,73,2,0,2,0.1,0.1,0.1,2,0,57,65,87.7,9,46,3,0,0,Lazio,2018-04-08 Udinese-Lazio,ITA-SERIA_A,17-18,2e3cb631
+fb2c533b,Alessandro Murgia,96,ITA,DM,21-242,31,0,0,0,0,3,0,1,0,24,2,1,0,0.1,0.1,0.1,1,0,13,15,86.7,3,12,0,0,0,Lazio,2018-04-08 Udinese-Lazio,ITA-SERIA_A,17-18,2e3cb631
+4c78b5ed,Lucas Leiva,6,BRA,DM,31-089,90,0,0,0,0,2,1,0,0,120,1,2,0,0.1,0.1,0.0,3,0,93,110,84.5,12,52,1,0,0,Lazio,2018-04-08 Udinese-Lazio,ITA-SERIA_A,17-18,2e3cb631
+4e6dbac4,Sergej Milinković-Savić,21,SRB,DM,23-040,90,0,0,0,0,1,0,0,0,96,0,0,1,0.1,0.1,0.0,5,1,69,88,78.4,8,53,4,0,0,Lazio,2018-04-08 Udinese-Lazio,ITA-SERIA_A,17-18,2e3cb631
+7fd58fe3,Senad Lulić,19,BIH,WB,32-080,45,0,1,0,0,1,0,0,0,40,1,0,0,0.0,0.0,0.5,1,1,26,33,78.8,1,24,1,0,0,Lazio,2018-04-08 Udinese-Lazio,ITA-SERIA_A,17-18,2e3cb631
+f7223718,Patric,4,ESP,WB,24-356,45,0,0,0,0,0,0,0,0,41,0,0,0,0.0,0.0,0.1,2,0,33,37,89.2,2,13,1,0,0,Lazio,2018-04-08 Udinese-Lazio,ITA-SERIA_A,17-18,2e3cb631
+d4535821,Adam Marušić,77,MNE,WB,25-173,90,0,0,0,0,1,1,0,0,65,0,0,2,0.1,0.1,0.0,1,0,47,60,78.3,5,30,5,4,3,Lazio,2018-04-08 Udinese-Lazio,ITA-SERIA_A,17-18,2e3cb631
+15d0c248,Luiz Felipe,27,ITA,CB,21-017,90,0,0,0,0,0,0,0,0,71,4,4,2,0.0,0.0,0.0,0,0,56,60,93.3,0,38,2,0,0,Lazio,2018-04-08 Udinese-Lazio,ITA-SERIA_A,17-18,2e3cb631
+d0d8dd44,Stefan de Vrij,3,NED,CB,26-062,90,0,0,0,0,0,0,0,0,50,1,4,0,0.0,0.0,0.0,0,0,33,39,84.6,3,21,0,0,0,Lazio,2018-04-08 Udinese-Lazio,ITA-SERIA_A,17-18,2e3cb631
+c01c66d9,Bastos,15,ANG,CB,27-012,90,0,0,0,0,0,0,0,0,90,2,3,0,0.0,0.0,0.0,0,0,72,80,90.0,7,36,4,0,0,Lazio,2018-04-08 Udinese-Lazio,ITA-SERIA_A,17-18,2e3cb631
+339fe0e8,Thomas Strakosha,1,ALB,GK,23-020,90,0,0,0,0,0,0,0,0,34,0,0,0,0.0,0.0,0.0,0,0,20,32,62.5,0,11,0,0,0,Lazio,2018-04-08 Udinese-Lazio,ITA-SERIA_A,17-18,2e3cb631

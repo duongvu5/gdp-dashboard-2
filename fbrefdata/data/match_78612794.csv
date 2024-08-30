@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+fcbcbd94,Moussa Konaté,15,SEN,FW,24-228,90,0,0,0,0,4,1,1,0,34,1,0,0,0.5,0.5,0.2,2,0,12,20,60.0,3,22,4,1,0,Amiens,2017-11-17 Amiens-Monaco,FRA-L1,17-18,78612794
+cf4053e2,Serge Gakpé,37,TOG,LW,30-194,71,1,0,0,0,1,1,0,0,24,0,0,0,0.3,0.3,0.1,1,0,10,20,50.0,2,9,7,2,1,Amiens,2017-11-17 Amiens-Monaco,FRA-L1,17-18,78612794
+392d98fc,Harrison Manzala,7,COD,LW,23-256,19,0,0,0,0,0,0,0,0,9,1,0,0,0.0,0.0,0.0,1,0,3,7,42.9,0,5,1,2,2,Amiens,2017-11-17 Amiens-Monaco,FRA-L1,17-18,78612794
+5d42d487,Quentin Cornette,13,FRA,RW,23-304,63,0,0,0,0,2,0,0,0,33,2,0,2,0.1,0.1,0.0,3,0,16,22,72.7,4,17,2,4,1,Amiens,2017-11-17 Amiens-Monaco,FRA-L1,17-18,78612794
+7cf9f0ed,Emmanuel Bourgaud,10,FRA,RW,30-023,27,0,0,0,0,1,0,0,0,20,0,0,0,0.0,0.0,0.1,2,0,10,15,66.7,3,8,2,2,2,Amiens,2017-11-17 Amiens-Monaco,FRA-L1,17-18,78612794
+5b1bf5e3,Gaël Kakuta,14,COD,AM,26-149,90,0,1,0,0,2,0,0,0,50,3,0,3,0.2,0.2,0.7,6,2,20,38,52.6,4,23,3,2,1,Amiens,2017-11-17 Amiens-Monaco,FRA-L1,17-18,78612794
+84d94b91,Thomas Monconduit,6,FRA,DM,26-280,83,0,0,0,0,0,0,0,0,42,4,1,1,0.0,0.0,0.0,1,0,20,23,87.0,3,16,0,1,0,Amiens,2017-11-17 Amiens-Monaco,FRA-L1,17-18,78612794
+5693aa98,Sekou Baradji,20,FRA,DM,33-207,7,0,0,0,0,0,0,0,0,6,0,1,0,0.0,0.0,0.0,0,0,2,4,50.0,0,2,0,0,0,Amiens,2017-11-17 Amiens-Monaco,FRA-L1,17-18,78612794
+a8797cf1,Bongani Zungu,34,RSA,DM,25-039,90,0,0,0,0,0,0,1,0,57,1,3,1,0.0,0.0,0.0,1,0,38,47,80.9,5,24,2,1,1,Amiens,2017-11-17 Amiens-Monaco,FRA-L1,17-18,78612794
+eacb45fd,Danilo Avelar,35,BRA,LB,28-161,90,0,0,0,0,0,0,0,0,44,3,3,0,0.0,0.0,0.0,1,0,16,31,51.6,2,16,2,2,1,Amiens,2017-11-17 Amiens-Monaco,FRA-L1,17-18,78612794
+247accfd,Bakaye Dibassy,12,MLI,CB,28-098,90,0,0,0,0,0,0,0,0,34,2,0,1,0.0,0.0,0.0,0,0,17,22,77.3,0,9,0,0,0,Amiens,2017-11-17 Amiens-Monaco,FRA-L1,17-18,78612794
+7c6d6c96,Prince-Désir Gouano,2,FRA,CB,23-328,90,0,0,0,0,0,0,0,0,36,1,0,0,0.0,0.0,0.0,0,0,13,24,54.2,2,7,0,0,0,Amiens,2017-11-17 Amiens-Monaco,FRA-L1,17-18,78612794
+a1017967,Issa Cissokho,25,SEN,RB,32-267,90,0,0,0,0,0,0,0,0,47,1,1,3,0.0,0.0,0.0,2,0,26,37,70.3,2,9,0,0,0,Amiens,2017-11-17 Amiens-Monaco,FRA-L1,17-18,78612794
+bc270726,Régis Gurtner,1,FRA,GK,30-344,90,0,0,0,0,0,0,0,0,40,0,0,0,0.0,0.0,0.0,0,0,15,37,40.5,0,11,0,0,0,Amiens,2017-11-17 Amiens-Monaco,FRA-L1,17-18,78612794
+66116290,Radamel Falcao,9,COL,FW,31-280,90,0,0,0,0,6,2,0,0,45,1,1,0,0.3,0.3,0.0,3,0,19,26,73.1,4,33,0,0,0,Monaco,2017-11-17 Amiens-Monaco,FRA-L1,17-18,78612794
+8f898ba8,Guido Carrillo,11,ARG,FW,26-176,60,0,0,0,0,1,0,0,0,27,0,0,0,0.1,0.1,0.0,1,0,13,23,56.5,3,11,0,0,0,Monaco,2017-11-17 Amiens-Monaco,FRA-L1,17-18,78612794
+f36c432f,Stevan Jovetić,10,MNE,FW,28-015,30,1,0,0,0,2,1,0,0,29,0,0,1,0.3,0.3,0.0,1,0,16,23,69.6,2,15,0,1,0,Monaco,2017-11-17 Amiens-Monaco,FRA-L1,17-18,78612794
+509a4ccb,Keita Baldé,14,SEN,LM,22-254,90,0,0,0,0,2,0,0,0,55,0,0,0,0.1,0.1,0.0,1,0,30,46,65.2,2,36,3,3,1,Monaco,2017-11-17 Amiens-Monaco,FRA-L1,17-18,78612794
+7f3b388c,Fabinho,2,BRA,CM,24-025,90,0,1,0,0,0,0,0,0,114,3,0,0,0.0,0.0,0.4,9,2,82,105,78.1,18,58,1,5,2,Monaco,2017-11-17 Amiens-Monaco,FRA-L1,17-18,78612794
+56f7a928,Youri Tielemans,17,BEL,CM,20-194,90,0,0,0,0,1,0,0,0,88,7,2,1,0.0,0.0,0.1,3,0,66,76,86.8,10,47,2,4,2,Monaco,2017-11-17 Amiens-Monaco,FRA-L1,17-18,78612794
+7c2965bb,Rony Lopes,20,POR,RM,21-324,45,0,0,0,0,0,0,0,0,23,1,0,0,0.0,0.0,0.1,1,0,10,18,55.6,3,18,3,2,1,Monaco,2017-11-17 Amiens-Monaco,FRA-L1,17-18,78612794
+dc3a9a0d,Rachid Ghezzal,7,ALG,RM,25-192,45,0,0,0,0,2,1,0,0,33,0,0,0,0.1,0.1,0.1,1,0,18,26,69.2,5,20,1,2,0,Monaco,2017-11-17 Amiens-Monaco,FRA-L1,17-18,78612794
+13c44fc5,Jorge,6,BRA,LB,21-234,90,0,0,0,0,0,0,1,0,76,3,6,0,0.0,0.0,0.1,3,0,55,60,91.7,6,38,2,2,1,Monaco,2017-11-17 Amiens-Monaco,FRA-L1,17-18,78612794
+7cab69b5,Jemerson,5,BRA,CB,25-085,90,0,0,0,0,1,0,1,0,78,3,3,0,0.1,0.1,0.0,0,0,50,63,79.4,3,32,0,0,0,Monaco,2017-11-17 Amiens-Monaco,FRA-L1,17-18,78612794
+c6056d58,Kamil Glik,25,POL,CB,29-287,90,0,0,0,0,0,0,1,0,57,0,0,3,0.0,0.0,0.0,0,0,38,49,77.6,6,30,0,0,0,Monaco,2017-11-17 Amiens-Monaco,FRA-L1,17-18,78612794
+bd4f5f94,Andrea Raggi,24,ITA,RB,33-146,71,0,0,0,0,0,0,0,0,37,0,1,0,0.0,0.0,0.0,0,0,26,31,83.9,2,18,0,0,0,Monaco,2017-11-17 Amiens-Monaco,FRA-L1,17-18,78612794
+c8c60119,Almamy Touré,38,MLI,RB,21-203,19,0,0,0,0,0,0,0,0,12,0,0,0,0.0,0.0,0.0,0,0,6,11,54.5,1,7,0,0,0,Monaco,2017-11-17 Amiens-Monaco,FRA-L1,17-18,78612794
+f6db3bd5,Danijel Subašić,1,CRO,GK,33-021,90,0,0,0,0,0,0,0,0,36,0,0,0,0.0,0.0,0.0,0,0,28,36,77.8,0,14,0,0,0,Monaco,2017-11-17 Amiens-Monaco,FRA-L1,17-18,78612794

@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+b4cf5806,Sebastian Andersson,9,SWE,FW,30-219,60,0,0,0,0,1,1,1,0,18,0,0,2,0.0,0.0,0.3,1,0,4,9,44.4,0,6,0,0,0,Köln,2022-02-19 Köln-Eint Frankfurt,GER-BL1,21-22,7c56c1bf
+34e4343c,Anthony Modeste,27,FRA,FW,33-311,30,1,0,0,0,1,1,0,0,11,1,0,0,0.3,0.3,0.0,1,0,3,8,37.5,0,8,1,1,1,Köln,2022-02-19 Köln-Eint Frankfurt,GER-BL1,21-22,7c56c1bf
+94c18565,Florian Kainz,11,AUT,LW,29-118,79,0,0,0,0,2,1,0,0,47,1,0,0,0.1,0.1,0.0,6,0,22,36,61.1,4,26,1,4,1,Köln,2022-02-19 Köln-Eint Frankfurt,GER-BL1,21-22,7c56c1bf
+fd53759d,Jan Thielmann,29,GER,LW,19-269,11,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,1,3,33.3,0,3,0,0,0,Köln,2022-02-19 Köln-Eint Frankfurt,GER-BL1,21-22,7c56c1bf
+c455a2b2,Dejan Ljubicic,7,AUT,RW,24-134,79,0,0,0,0,2,1,0,0,32,0,1,0,0.1,0.1,0.1,1,0,16,24,66.7,4,18,2,5,2,Köln,2022-02-19 Köln-Eint Frankfurt,GER-BL1,21-22,7c56c1bf
+bd527260,Kingsley Schindler,17,GHA,RW,28-222,11,0,0,0,0,0,0,0,0,5,0,1,0,0.0,0.0,0.0,0,0,1,3,33.3,0,1,0,0,0,Köln,2022-02-19 Köln-Eint Frankfurt,GER-BL1,21-22,7c56c1bf
+a3ddb1b9,Mark Uth,13,GER,AM,30-179,87,0,0,0,0,1,1,0,0,55,3,1,3,0.0,0.0,0.2,3,0,27,41,65.9,4,35,1,9,6,Köln,2022-02-19 Köln-Eint Frankfurt,GER-BL1,21-22,7c56c1bf
+79ca3e23,Ondrej Duda,18,SVK,AM,27-076,3,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,0,2,0.0,0,2,0,0,0,Köln,2022-02-19 Köln-Eint Frankfurt,GER-BL1,21-22,7c56c1bf
+15413fa5,Salih Özcan,6,TUR,DM,24-039,90,0,0,0,0,2,1,0,0,88,4,2,2,0.2,0.2,0.0,1,0,66,77,85.7,4,45,2,3,3,Köln,2022-02-19 Köln-Eint Frankfurt,GER-BL1,21-22,7c56c1bf
+c2211709,Ellyes Skhiri,28,TUN,DM,26-285,90,0,1,0,0,2,1,0,0,60,2,4,3,0.2,0.2,0.3,3,0,37,48,77.1,1,29,2,1,1,Köln,2022-02-19 Köln-Eint Frankfurt,GER-BL1,21-22,7c56c1bf
+c2009df3,Jonas Hector,14,GER,LB,31-268,90,0,0,0,0,0,0,0,0,75,3,1,3,0.0,0.0,0.0,2,0,44,62,71.0,7,42,0,1,0,Köln,2022-02-19 Köln-Eint Frankfurt,GER-BL1,21-22,7c56c1bf
+94302c52,Timo Hübers,4,GER,CB,25-214,90,0,0,0,0,2,1,0,0,71,0,3,1,0.1,0.1,0.0,1,0,49,63,77.8,2,39,0,1,1,Köln,2022-02-19 Köln-Eint Frankfurt,GER-BL1,21-22,7c56c1bf
+610aa1e9,Luca Kilian,15,GER,CB,22-171,90,0,0,0,0,0,0,0,0,81,3,3,0,0.0,0.0,0.0,1,0,58,70,82.9,5,49,0,1,0,Köln,2022-02-19 Köln-Eint Frankfurt,GER-BL1,21-22,7c56c1bf
+ad00b1a8,Benno Schmitz,2,GER,RB,27-094,87,0,0,0,0,0,0,0,0,87,1,2,2,0.0,0.0,0.1,3,0,49,78,62.8,11,40,3,1,1,Köln,2022-02-19 Köln-Eint Frankfurt,GER-BL1,21-22,7c56c1bf
+b50ec54b,Louis Schaub,21,AUT,RB,27-052,3,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Köln,2022-02-19 Köln-Eint Frankfurt,GER-BL1,21-22,7c56c1bf
+3cd9e95a,Timo Horn,1,GER,GK,28-283,90,0,0,0,0,0,0,0,0,63,0,0,0,0.0,0.0,0.0,0,0,42,62,67.7,0,38,0,0,0,Köln,2022-02-19 Köln-Eint Frankfurt,GER-BL1,21-22,7c56c1bf
+c68da769,Rafael Borré,19,COL,FW,26-157,90,0,0,0,0,2,1,0,0,40,2,0,0,0.1,0.1,0.0,1,0,19,29,65.5,2,26,3,5,3,Eintracht Frankfurt,2022-02-19 Köln-Eint Frankfurt,GER-BL1,21-22,7c56c1bf
+37dc1a48,Jesper Lindstrøm,29,DEN,FW,21-355,75,0,0,0,0,1,0,0,0,27,0,1,1,0.0,0.0,0.4,6,0,14,20,70.0,2,16,5,1,1,Eintracht Frankfurt,2022-02-19 Köln-Eint Frankfurt,GER-BL1,21-22,7c56c1bf
+12c35abe,Jens Petter Hauge,23,NOR,"FW,RM",22-130,15,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,3,4,75.0,0,4,0,0,0,Eintracht Frankfurt,2022-02-19 Köln-Eint Frankfurt,GER-BL1,21-22,7c56c1bf
+b1cd37e6,Filip Kostić,10,SRB,"LW,WB,LM",29-110,90,0,0,0,0,1,0,0,0,78,2,2,0,0.0,0.0,0.0,2,0,36,66,54.5,5,40,3,1,0,Eintracht Frankfurt,2022-02-19 Köln-Eint Frankfurt,GER-BL1,21-22,7c56c1bf
+b3b7f5a6,Timothy Chandler,22,USA,"RW,WB",31-327,81,0,0,0,0,1,1,0,0,44,2,0,0,0.0,0.0,0.0,1,0,22,36,61.1,2,15,1,1,1,Eintracht Frankfurt,2022-02-19 Köln-Eint Frankfurt,GER-BL1,21-22,7c56c1bf
+5ddb8f9f,Danny da Costa,24,GER,"WB,RB",28-221,9,0,0,0,0,0,0,0,0,3,0,1,0,0.0,0.0,0.0,0,0,2,2,100.0,1,2,0,0,0,Eintracht Frankfurt,2022-02-19 Köln-Eint Frankfurt,GER-BL1,21-22,7c56c1bf
+4c6facae,Djibril Sow,8,SUI,CM,25-013,90,0,0,0,0,1,0,0,0,53,3,3,0,0.0,0.0,0.0,0,0,27,36,75.0,5,32,0,1,0,Eintracht Frankfurt,2022-02-19 Köln-Eint Frankfurt,GER-BL1,21-22,7c56c1bf
+e12b0b5b,Sebastian Rode,17,GER,CM,31-131,45,0,0,0,0,1,0,0,0,17,0,1,0,0.2,0.2,0.0,1,0,8,12,66.7,1,12,0,1,1,Eintracht Frankfurt,2022-02-19 Köln-Eint Frankfurt,GER-BL1,21-22,7c56c1bf
+15b287da,Daichi Kamada,15,JPN,AM,25-198,44,0,0,0,0,1,0,0,0,17,0,0,0,0.0,0.0,0.0,1,0,11,14,78.6,3,8,0,1,0,Eintracht Frankfurt,2022-02-19 Köln-Eint Frankfurt,GER-BL1,21-22,7c56c1bf
+c283ddef,Sam Lammers,9,NED,FW,24-295,1,0,0,0,0,0,0,0,0,4,0,1,0,0.0,0.0,0.0,0,0,1,3,33.3,0,3,0,0,0,Eintracht Frankfurt,2022-02-19 Köln-Eint Frankfurt,GER-BL1,21-22,7c56c1bf
+a8ee54ad,Kristijan Jakić,6,CRO,"CM,DM",24-281,90,0,0,0,0,0,0,1,0,45,3,1,4,0.0,0.0,0.1,2,0,22,33,66.7,3,22,0,1,1,Eintracht Frankfurt,2022-02-19 Köln-Eint Frankfurt,GER-BL1,21-22,7c56c1bf
+441197b8,Obite N'Dicka,2,CIV,CB,22-183,90,0,0,0,0,2,0,0,0,63,1,2,0,0.1,0.1,0.0,0,0,32,44,72.7,5,35,1,0,0,Eintracht Frankfurt,2022-02-19 Köln-Eint Frankfurt,GER-BL1,21-22,7c56c1bf
+080440a4,Martin Hinteregger,13,AUT,CB,29-165,90,0,0,0,0,0,0,1,0,56,1,4,0,0.0,0.0,0.0,0,0,28,40,70.0,3,22,0,1,1,Eintracht Frankfurt,2022-02-19 Köln-Eint Frankfurt,GER-BL1,21-22,7c56c1bf
+35d64857,Tuta,35,BRA,CB,22-230,89,0,0,0,0,0,0,0,0,54,2,1,1,0.0,0.0,0.0,0,0,27,39,69.2,3,35,0,2,1,Eintracht Frankfurt,2022-02-19 Köln-Eint Frankfurt,GER-BL1,21-22,7c56c1bf
+bbd86530,Christopher Lenz,25,GER,"LB,CB",27-150,1,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,1,0,2,3,66.7,0,0,0,0,0,Eintracht Frankfurt,2022-02-19 Köln-Eint Frankfurt,GER-BL1,21-22,7c56c1bf
+ce17b5eb,Kevin Trapp,1,GER,GK,31-226,90,0,0,0,0,0,0,0,0,45,0,0,0,0.0,0.0,0.0,0,0,19,42,45.2,0,33,0,0,0,Eintracht Frankfurt,2022-02-19 Köln-Eint Frankfurt,GER-BL1,21-22,7c56c1bf

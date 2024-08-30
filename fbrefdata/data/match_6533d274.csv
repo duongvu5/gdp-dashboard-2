@@ -1,0 +1,31 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+ba115a40,Sébastien Haller,9,CIV,FW,29-071,77,0,0,0,0,0,0,1,0,33,0,0,1,0.0,0.0,0.5,2,0,14,24,58.3,2,15,2,2,2,Dortmund,2023-09-01 Dortmund-Heidenheim,GER-BL1,23-24,6533d274
+4f16405e,Niclas Füllkrug,14,GER,FW,30-204,13,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,4,6,66.7,0,4,0,0,0,Dortmund,2023-09-01 Dortmund-Heidenheim,GER-BL1,23-24,6533d274
+501055d8,Karim Adeyemi,27,GER,LW,21-226,63,0,0,0,0,2,1,0,0,24,2,0,2,0.6,0.6,0.0,0,0,12,14,85.7,2,12,1,2,1,Dortmund,2023-09-01 Dortmund-Heidenheim,GER-BL1,23-24,6533d274
+091c86e2,Felix Nmecha,8,GER,LW,22-326,27,0,0,0,0,1,0,0,0,22,0,1,0,0.1,0.1,0.0,2,0,15,16,93.8,1,10,0,0,0,Dortmund,2023-09-01 Dortmund-Heidenheim,GER-BL1,23-24,6533d274
+116c35df,Donyell Malen,21,NED,RW,24-235,90,0,0,0,0,7,4,0,0,52,0,0,3,0.7,0.7,0.0,4,0,25,36,69.4,4,31,5,0,0,Dortmund,2023-09-01 Dortmund-Heidenheim,GER-BL1,23-24,6533d274
+a167537f,Julian Brandt,19,GER,LM,27-122,90,1,0,0,0,1,1,0,0,56,0,0,1,0.1,0.1,0.2,3,0,36,43,83.7,6,23,1,2,0,Dortmund,2023-09-01 Dortmund-Heidenheim,GER-BL1,23-24,6533d274
+a65ce836,Emre Can,23,GER,CM,29-232,90,1,1,1,1,0,0,1,0,73,3,2,3,0.8,0.0,0.1,3,0,51,59,86.4,6,23,1,1,1,Dortmund,2023-09-01 Dortmund-Heidenheim,GER-BL1,23-24,6533d274
+e280527c,Marcel Sabitzer,20,AUT,RM,29-168,88,0,0,0,0,4,1,0,0,50,1,0,0,0.7,0.7,0.3,3,0,26,38,68.4,6,17,4,3,3,Dortmund,2023-09-01 Dortmund-Heidenheim,GER-BL1,23-24,6533d274
+6ce43701,Youssoufa Moukoko,18,GER,RM,18-285,2,0,0,0,0,0,0,0,0,4,1,0,1,0.0,0.0,0.0,0,0,1,2,50.0,0,1,1,0,0,Dortmund,2023-09-01 Dortmund-Heidenheim,GER-BL1,23-24,6533d274
+378825c7,Ramy Bensebaini,5,ALG,LB,28-138,90,0,0,0,0,3,0,1,0,72,3,0,0,0.4,0.4,0.0,6,1,51,61,83.6,5,29,4,1,1,Dortmund,2023-09-01 Dortmund-Heidenheim,GER-BL1,23-24,6533d274
+34e12499,Nico Schlotterbeck,4,GER,CB,23-274,90,0,0,0,0,0,0,0,0,92,1,2,2,0.0,0.0,0.3,2,1,71,82,86.6,6,44,2,0,0,Dortmund,2023-09-01 Dortmund-Heidenheim,GER-BL1,23-24,6533d274
+e33c06cf,Niklas Süle,25,GER,CB,27-363,90,0,0,0,0,0,0,0,0,78,0,1,4,0.0,0.0,0.0,1,1,66,69,95.7,10,44,0,0,0,Dortmund,2023-09-01 Dortmund-Heidenheim,GER-BL1,23-24,6533d274
+fa661778,Marius Wolf,17,GER,RB,28-097,90,0,0,0,0,0,0,0,0,83,1,1,1,0.0,0.0,0.8,7,0,51,74,68.9,3,25,4,4,3,Dortmund,2023-09-01 Dortmund-Heidenheim,GER-BL1,23-24,6533d274
+cd59b9df,Gregor Kobel,1,SUI,GK,25-269,90,0,0,0,0,0,0,0,0,39,0,0,0,0.0,0.0,0.0,0,0,32,36,88.9,0,18,0,0,0,Dortmund,2023-09-01 Dortmund-Heidenheim,GER-BL1,23-24,6533d274
+258a6f4d,Tim Kleindienst,10,GER,FW,28-001,90,1,0,1,1,4,1,0,0,47,0,0,2,1.2,0.4,0.1,2,0,13,30,43.3,3,31,2,2,0,Heidenheim,2023-09-01 Dortmund-Heidenheim,GER-BL1,23-24,6533d274
+57382429,Jan-Niklas Beste,37,GER,LW,24-240,89,0,0,0,0,1,0,1,0,47,3,0,3,0.0,0.0,0.0,3,1,18,36,50.0,2,20,3,0,0,Heidenheim,2023-09-01 Dortmund-Heidenheim,GER-BL1,23-24,6533d274
+fd82af8c,Kevin Sessa,16,GER,LW,23-057,1,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,3,3,100.0,1,2,0,2,2,Heidenheim,2023-09-01 Dortmund-Heidenheim,GER-BL1,23-24,6533d274
+4ccd8957,Eren Dinkçi,8,GER,RW,21-262,89,1,0,0,0,3,2,1,0,32,0,0,1,0.1,0.1,0.4,5,1,12,20,60.0,4,18,4,1,1,Heidenheim,2023-09-01 Dortmund-Heidenheim,GER-BL1,23-24,6533d274
+00e36323,Florian Pick,17,GER,RW,27-358,1,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,3,4,75.0,0,5,0,3,2,Heidenheim,2023-09-01 Dortmund-Heidenheim,GER-BL1,23-24,6533d274
+616c09f5,Adrian Beck,21,GER,AM,26-084,61,0,0,0,0,1,0,0,0,22,0,1,0,0.6,0.6,0.0,1,0,14,18,77.8,2,14,0,1,1,Heidenheim,2023-09-01 Dortmund-Heidenheim,GER-BL1,23-24,6533d274
+57d9f511,Nikola Dovedan,20,AUT,AM,29-057,29,0,0,0,0,1,0,0,0,15,2,0,0,0.1,0.1,0.0,3,0,4,11,36.4,1,12,3,1,1,Heidenheim,2023-09-01 Dortmund-Heidenheim,GER-BL1,23-24,6533d274
+b9ac6e0e,Denis Thomalla,11,GER,DM,31-016,45,0,0,0,0,0,0,0,0,9,1,0,0,0.0,0.0,0.0,0,0,4,7,57.1,2,6,0,0,0,Heidenheim,2023-09-01 Dortmund-Heidenheim,GER-BL1,23-24,6533d274
+11407d95,Marvin Pieringer,18,GER,DM,23-332,45,0,0,0,0,0,0,1,0,15,0,0,1,0.0,0.0,0.0,2,0,6,12,50.0,3,10,4,2,2,Heidenheim,2023-09-01 Dortmund-Heidenheim,GER-BL1,23-24,6533d274
+75402e99,Lennard Maloney,33,USA,DM,23-328,90,0,0,0,0,1,1,0,0,38,0,2,3,0.0,0.0,0.0,2,0,21,29,72.4,5,15,0,0,0,Heidenheim,2023-09-01 Dortmund-Heidenheim,GER-BL1,23-24,6533d274
+0cbf4c54,Norman Theuerkauf,30,GER,LB,36-220,90,0,1,0,0,1,1,0,0,48,1,1,0,0.0,0.0,0.0,2,1,28,35,80.0,5,14,0,0,0,Heidenheim,2023-09-01 Dortmund-Heidenheim,GER-BL1,23-24,6533d274
+f761c901,Tim Siersleben,4,GER,CB,23-176,90,0,0,0,0,0,0,0,0,44,5,2,0,0.0,0.0,0.0,1,0,21,31,67.7,1,25,0,0,0,Heidenheim,2023-09-01 Dortmund-Heidenheim,GER-BL1,23-24,6533d274
+dd9caa07,Patrick Mainka,6,GER,CB,28-299,90,0,0,0,0,1,0,0,0,49,1,2,1,0.4,0.4,0.0,0,0,33,37,89.2,3,30,1,0,0,Heidenheim,2023-09-01 Dortmund-Heidenheim,GER-BL1,23-24,6533d274
+f44e8a73,Omar Traoré,23,GER,RB,25-209,90,0,0,0,0,0,0,0,0,46,0,0,2,0.0,0.0,0.0,2,0,31,40,77.5,4,22,1,3,2,Heidenheim,2023-09-01 Dortmund-Heidenheim,GER-BL1,23-24,6533d274
+f256f213,Kevin Müller,1,GER,GK,32-170,90,0,0,0,0,0,0,0,0,39,0,0,0,0.0,0.0,0.0,0,0,24,33,72.7,0,18,0,0,0,Heidenheim,2023-09-01 Dortmund-Heidenheim,GER-BL1,23-24,6533d274

@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+50e6dc35,Jean-Philippe Mateta,9,FRA,FW,23-118,90,2,0,0,0,2,2,0,0,33,1,0,0,0.7,0.7,0.4,3,0,16,22,72.7,2,13,1,2,1,Mainz 05,2020-10-24 Mainz 05-Gladbach,GER-BL1,20-21,12c438d6
+74c7c2db,Robin Quaison,7,SWE,LW,27-015,67,0,0,0,0,3,2,0,0,32,0,0,0,0.2,0.2,0.1,4,1,13,22,59.1,2,20,1,2,1,Mainz 05,2020-10-24 Mainz 05-Gladbach,GER-BL1,20-21,12c438d6
+05f99a4a,Jonathan Burkardt,29,GER,"RW,LW",20-105,23,0,0,0,0,0,0,0,0,13,1,0,1,0.0,0.0,0.0,0,0,3,8,37.5,0,5,0,3,0,Mainz 05,2020-10-24 Mainz 05-Gladbach,GER-BL1,20-21,12c438d6
+66385c46,Levin Öztunalı,8,GER,RW,24-223,64,0,1,0,0,1,1,0,0,34,2,1,1,0.3,0.3,0.2,5,1,14,21,66.7,1,18,4,3,2,Mainz 05,2020-10-24 Mainz 05-Gladbach,GER-BL1,20-21,12c438d6
+3bb625ac,Edimilson Fernandes,20,SUI,"RW,DM",24-192,26,0,0,0,0,0,0,0,0,9,0,1,0,0.0,0.0,0.0,1,0,6,8,75.0,0,6,0,0,0,Mainz 05,2020-10-24 Mainz 05-Gladbach,GER-BL1,20-21,12c438d6
+635f2732,Jean-Paul Boëtius,5,NED,AM,26-216,90,0,0,0,0,4,1,0,0,51,3,2,3,0.5,0.5,0.1,4,1,25,31,80.6,6,27,1,0,0,Mainz 05,2020-10-24 Mainz 05-Gladbach,GER-BL1,20-21,12c438d6
+9ceb7642,Pierre Kunde,14,CMR,DM,25-090,64,0,0,0,0,1,0,1,0,44,1,0,0,0.0,0.0,0.3,3,0,30,39,76.9,5,27,0,0,0,Mainz 05,2020-10-24 Mainz 05-Gladbach,GER-BL1,20-21,12c438d6
+00242b75,Leandro Barreiro Martins,35,LUX,DM,20-295,26,0,0,0,0,0,0,0,0,15,1,2,0,0.0,0.0,0.0,0,0,7,12,58.3,0,5,1,1,1,Mainz 05,2020-10-24 Mainz 05-Gladbach,GER-BL1,20-21,12c438d6
+33b554b7,Danny Latza,6,GER,DM,30-322,79,0,0,0,0,1,0,1,0,47,2,2,1,0.1,0.1,0.1,5,0,27,40,67.5,6,26,2,2,2,Mainz 05,2020-10-24 Mainz 05-Gladbach,GER-BL1,20-21,12c438d6
+7d841904,Ji Dong-won,11,KOR,LW,29-149,11,0,0,0,0,0,0,0,0,4,1,0,0,0.0,0.0,0.0,0,0,2,4,50.0,0,1,0,0,0,Mainz 05,2020-10-24 Mainz 05-Gladbach,GER-BL1,20-21,12c438d6
+a7813ac4,Daniel Brosinski,18,GER,LB,32-099,90,0,0,0,0,1,0,0,0,68,1,0,1,0.1,0.1,0.0,1,0,38,61,62.3,7,31,1,2,0,Mainz 05,2020-10-24 Mainz 05-Gladbach,GER-BL1,20-21,12c438d6
+00242715,Moussa Niakhate,19,SEN,CB,24-230,90,0,0,0,0,0,0,1,0,47,0,2,1,0.0,0.0,0.0,0,0,34,41,82.9,6,33,1,0,0,Mainz 05,2020-10-24 Mainz 05-Gladbach,GER-BL1,20-21,12c438d6
+610aa1e9,Luca Kilian,15,GER,CB,21-053,90,0,0,0,0,0,0,1,0,50,4,1,1,0.0,0.0,0.0,1,0,37,38,97.4,0,25,0,0,0,Mainz 05,2020-10-24 Mainz 05-Gladbach,GER-BL1,20-21,12c438d6
+90339309,Jerry St. Juste,4,NED,RB,24-005,90,0,0,0,0,1,1,0,0,63,3,1,3,0.0,0.0,0.0,2,0,40,49,81.6,3,30,3,2,1,Mainz 05,2020-10-24 Mainz 05-Gladbach,GER-BL1,20-21,12c438d6
+5c4bf6ba,Robin Zentner,27,GER,GK,25-362,90,0,0,0,0,1,0,1,0,56,0,0,0,0.0,0.0,0.0,0,0,24,50,48.0,0,37,0,0,0,Mainz 05,2020-10-24 Mainz 05-Gladbach,GER-BL1,20-21,12c438d6
+0b4f388a,Breel Embolo,36,SUI,"FW,AM",23-253,71,0,0,0,0,3,1,1,0,35,1,1,1,0.2,0.2,0.0,3,1,13,24,54.2,1,22,1,3,2,Mönchengladbach,2020-10-24 Mainz 05-Gladbach,GER-BL1,20-21,12c438d6
+be42a291,Hannes Wolf,11,AUT,AM,21-191,19,0,0,0,0,0,0,0,0,13,0,0,0,0.0,0.0,0.4,2,0,10,13,76.9,4,12,2,0,0,Mönchengladbach,2020-10-24 Mainz 05-Gladbach,GER-BL1,20-21,12c438d6
+dfb6490a,Patrick Herrmann,7,GER,"FW,RW,CM",29-255,90,0,0,0,0,4,3,0,0,41,1,1,0,0.5,0.5,0.3,7,0,21,30,70.0,0,20,4,4,3,Mönchengladbach,2020-10-24 Mainz 05-Gladbach,GER-BL1,20-21,12c438d6
+496aeede,Christoph Kramer,6,GER,CM,29-248,59,0,0,0,0,1,0,0,0,50,1,2,3,0.1,0.1,0.0,1,0,39,41,95.1,5,17,0,1,1,Mönchengladbach,2020-10-24 Mainz 05-Gladbach,GER-BL1,20-21,12c438d6
+36a59ba4,Florian Neuhaus,32,GER,"DM,CB",23-222,31,0,0,0,0,0,0,1,0,39,0,0,0,0.0,0.0,0.0,0,0,26,35,74.3,5,22,1,2,1,Mönchengladbach,2020-10-24 Mainz 05-Gladbach,GER-BL1,20-21,12c438d6
+7cd6badb,Lars Stindl,13,GER,CM,32-059,53,1,0,0,0,2,1,0,0,40,2,1,1,0.6,0.6,0.4,2,0,29,33,87.9,4,14,0,0,0,Mönchengladbach,2020-10-24 Mainz 05-Gladbach,GER-BL1,20-21,12c438d6
+6f8cd6d0,Marcus Thuram,10,FRA,"LW,CM,FW",23-079,37,0,0,0,0,2,0,1,0,23,2,0,0,0.3,0.3,0.0,3,1,12,14,85.7,3,12,1,2,1,Mönchengladbach,2020-10-24 Mainz 05-Gladbach,GER-BL1,20-21,12c438d6
+cc971106,Rocco Reitz,43,GER,CM,18-148,59,0,0,0,0,0,0,0,0,58,3,1,3,0.0,0.0,0.1,2,0,38,46,82.6,6,19,0,2,2,Mönchengladbach,2020-10-24 Mainz 05-Gladbach,GER-BL1,20-21,12c438d6
+2903a856,Jonas Hofmann,23,GER,"DM,CM",28-102,31,1,1,1,1,0,0,0,0,26,1,0,0,0.8,0.0,0.1,2,1,18,23,78.3,1,10,1,0,0,Mönchengladbach,2020-10-24 Mainz 05-Gladbach,GER-BL1,20-21,12c438d6
+b69261a0,Oscar Wendt,17,SWE,"WB,LB",35-000,90,0,0,0,0,0,0,0,0,68,1,1,1,0.0,0.0,0.3,2,0,47,60,78.3,4,33,1,0,0,Mönchengladbach,2020-10-24 Mainz 05-Gladbach,GER-BL1,20-21,12c438d6
+4aea5077,Stefan Lainer,18,AUT,"WB,RB",28-058,90,0,0,0,0,4,2,0,0,93,1,1,2,0.3,0.3,0.1,6,1,56,79,70.9,5,47,1,5,4,Mönchengladbach,2020-10-24 Mainz 05-Gladbach,GER-BL1,20-21,12c438d6
+34b54da7,Tony Jantschke,24,GER,CB,30-200,53,0,0,0,0,0,0,0,0,49,0,0,0,0.0,0.0,0.0,1,0,47,48,97.9,4,28,0,0,0,Mönchengladbach,2020-10-24 Mainz 05-Gladbach,GER-BL1,20-21,12c438d6
+bc6bd723,Alassane Pléa,14,FRA,"FW,CB",27-228,37,0,0,0,0,2,2,0,0,13,0,0,0,0.3,0.3,0.1,2,0,9,10,90.0,0,7,1,0,0,Mönchengladbach,2020-10-24 Mainz 05-Gladbach,GER-BL1,20-21,12c438d6
+48035304,Nico Elvedi,30,SUI,CB,24-024,90,0,0,0,0,0,0,0,0,95,1,3,0,0.0,0.0,0.0,0,0,75,84,89.3,2,50,0,0,0,Mönchengladbach,2020-10-24 Mainz 05-Gladbach,GER-BL1,20-21,12c438d6
+f521b80a,Matthias Ginter,28,GER,CB,26-279,90,1,0,0,0,2,1,0,0,100,4,2,1,0.1,0.1,0.0,2,0,71,87,81.6,5,50,2,0,0,Mönchengladbach,2020-10-24 Mainz 05-Gladbach,GER-BL1,20-21,12c438d6
+420c18a1,Yann Sommer,1,SUI,GK,31-312,90,0,0,0,0,0,0,0,0,35,0,0,0,0.0,0.0,0.0,0,0,28,34,82.4,0,25,0,0,0,Mönchengladbach,2020-10-24 Mainz 05-Gladbach,GER-BL1,20-21,12c438d6

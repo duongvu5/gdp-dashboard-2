@@ -1,0 +1,32 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+2374aaca,Nicolás González,22,ARG,FW,22-285,81,1,0,0,0,5,1,1,0,31,0,0,0,0.4,0.4,0.0,2,1,11,17,64.7,2,22,4,5,3,Stuttgart,2021-01-16 Stuttgart-Gladbach,GER-BL1,20-21,8f8eb534
+05ba9d7c,Tanguy Coulibaly,7,FRA,FW,19-333,9,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,3,4,75.0,0,3,0,0,0,Stuttgart,2021-01-16 Stuttgart-Gladbach,GER-BL1,20-21,8f8eb534
+2b7c56b4,Mateo Klimowicz,31,GER,FW,20-194,55,0,0,0,0,0,0,0,0,18,2,0,0,0.0,0.0,0.0,0,0,6,11,54.5,2,12,1,2,0,Stuttgart,2021-01-16 Stuttgart-Gladbach,GER-BL1,20-21,8f8eb534
+15f24fe7,Sasa Kalajdzic,9,AUT,FW,23-193,35,0,0,0,0,4,0,0,0,23,1,0,0,0.3,0.3,0.1,3,1,12,16,75.0,0,13,0,0,0,Stuttgart,2021-01-16 Stuttgart-Gladbach,GER-BL1,20-21,8f8eb534
+68829001,Gonzalo Castro,8,GER,CM,33-219,73,0,0,0,0,1,1,0,0,34,2,0,0,0.1,0.1,0.1,4,0,20,28,71.4,3,20,2,1,1,Stuttgart,2021-01-16 Stuttgart-Gladbach,GER-BL1,20-21,8f8eb534
+0cddeaa7,Philipp Klement,21,GER,CM,28-129,17,0,0,0,0,0,0,0,0,22,0,1,1,0.0,0.0,0.2,3,0,17,21,81.0,1,10,0,0,0,Stuttgart,2021-01-16 Stuttgart-Gladbach,GER-BL1,20-21,8f8eb534
+c149016b,Wataru Endo,3,JPN,"CM,CB",27-342,90,0,0,0,0,2,1,0,0,78,1,3,2,0.1,0.1,0.0,3,0,53,63,84.1,9,38,2,6,5,Stuttgart,2021-01-16 Stuttgart-Gladbach,GER-BL1,20-21,8f8eb534
+a572e291,Orel Mangala,23,BEL,CM,22-304,90,0,0,0,0,2,1,0,0,67,2,0,0,0.1,0.1,0.0,3,0,52,59,88.1,5,40,1,5,4,Stuttgart,2021-01-16 Stuttgart-Gladbach,GER-BL1,20-21,8f8eb534
+af0d79a9,Borna Sosa,24,CRO,WB,22-361,90,0,1,0,0,1,0,0,0,84,0,0,1,0.0,0.0,0.5,7,2,56,72,77.8,5,42,3,2,1,Stuttgart,2021-01-16 Stuttgart-Gladbach,GER-BL1,20-21,8f8eb534
+de4cac2d,Silas Katompa,14,COD,WB,22-102,90,1,0,1,1,1,0,1,0,49,1,0,1,0.8,0.0,0.1,1,0,28,37,75.7,0,38,3,4,2,Stuttgart,2021-01-16 Stuttgart-Gladbach,GER-BL1,20-21,8f8eb534
+815c314f,Marc-Oliver Kempf,4,GER,CB,25-354,90,0,0,0,0,0,0,0,0,93,0,2,2,0.0,0.0,0.1,4,0,81,90,90.0,3,49,1,2,2,Stuttgart,2021-01-16 Stuttgart-Gladbach,GER-BL1,20-21,8f8eb534
+5e66fa06,Waldemar Anton,2,GER,CB,24-180,90,0,0,0,0,1,0,0,0,126,2,3,0,0.1,0.1,0.1,3,0,101,112,90.2,8,76,3,1,1,Stuttgart,2021-01-16 Stuttgart-Gladbach,GER-BL1,20-21,8f8eb534
+99f7e9aa,Pascal Stenzel,15,GER,CB,24-302,81,0,0,0,0,0,0,0,0,112,1,2,1,0.0,0.0,0.0,1,0,93,108,86.1,8,58,2,0,0,Stuttgart,2021-01-16 Stuttgart-Gladbach,GER-BL1,20-21,8f8eb534
+d3096421,Daniel Didavi,10,GER,CM,30-330,9,0,0,0,0,1,1,0,0,5,0,0,0,0.1,0.1,0.0,0,0,2,3,66.7,0,2,0,0,0,Stuttgart,2021-01-16 Stuttgart-Gladbach,GER-BL1,20-21,8f8eb534
+cd59b9df,Gregor Kobel,1,SUI,GK,23-041,90,0,0,0,0,0,0,0,0,38,0,0,0,0.0,0.0,0.0,0,0,35,35,100.0,0,17,0,0,0,Stuttgart,2021-01-16 Stuttgart-Gladbach,GER-BL1,20-21,8f8eb534
+0b4f388a,Breel Embolo,36,SUI,FW,23-337,60,0,0,0,0,1,1,0,0,27,1,1,0,0.1,0.1,0.0,3,0,15,18,83.3,0,16,1,1,0,Mönchengladbach,2021-01-16 Stuttgart-Gladbach,GER-BL1,20-21,8f8eb534
+bc6bd723,Alassane Pléa,14,FRA,FW,27-312,30,0,0,0,0,1,0,0,0,15,0,0,0,0.1,0.1,0.0,1,1,9,11,81.8,2,9,2,0,0,Mönchengladbach,2021-01-16 Stuttgart-Gladbach,GER-BL1,20-21,8f8eb534
+384d58d9,Denis Zakaria,8,SUI,"LW,DM",24-057,88,1,0,0,0,1,1,1,0,39,0,0,2,0.3,0.3,0.1,2,0,30,34,88.2,4,24,1,0,0,Mönchengladbach,2021-01-16 Stuttgart-Gladbach,GER-BL1,20-21,8f8eb534
+fe888e39,László Bénes,22,SVK,DM,23-129,2,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,1,0,0,0,Mönchengladbach,2021-01-16 Stuttgart-Gladbach,GER-BL1,20-21,8f8eb534
+2903a856,Jonas Hofmann,23,GER,"RW,LW",28-186,90,0,0,0,0,1,0,1,0,51,0,0,1,0.0,0.0,0.0,1,0,33,44,75.0,4,35,5,2,1,Mönchengladbach,2021-01-16 Stuttgart-Gladbach,GER-BL1,20-21,8f8eb534
+7cd6badb,Lars Stindl,13,GER,AM,32-143,71,1,1,1,1,1,0,1,0,41,1,2,3,0.8,0.0,0.4,4,1,26,31,83.9,5,20,1,0,0,Mönchengladbach,2021-01-16 Stuttgart-Gladbach,GER-BL1,20-21,8f8eb534
+be42a291,Hannes Wolf,11,AUT,AM,21-275,19,0,0,0,0,0,0,0,0,7,1,0,0,0.0,0.0,0.0,0,0,5,6,83.3,0,5,1,0,0,Mönchengladbach,2021-01-16 Stuttgart-Gladbach,GER-BL1,20-21,8f8eb534
+36a59ba4,Florian Neuhaus,32,GER,DM,23-306,90,0,0,0,0,2,2,0,0,52,3,3,0,0.1,0.1,0.0,2,1,26,35,74.3,3,31,2,2,1,Mönchengladbach,2021-01-16 Stuttgart-Gladbach,GER-BL1,20-21,8f8eb534
+496aeede,Christoph Kramer,6,GER,DM,29-332,70,0,0,0,0,0,0,0,0,44,1,0,0,0.0,0.0,0.0,0,0,35,40,87.5,3,23,0,0,0,Mönchengladbach,2021-01-16 Stuttgart-Gladbach,GER-BL1,20-21,8f8eb534
+dfb6490a,Patrick Herrmann,7,GER,RW,29-339,20,0,0,0,0,0,0,0,0,14,0,0,0,0.0,0.0,0.0,0,0,7,11,63.6,1,9,3,0,0,Mönchengladbach,2021-01-16 Stuttgart-Gladbach,GER-BL1,20-21,8f8eb534
+378825c7,Ramy Bensebaini,25,ALG,LB,25-275,90,0,0,0,0,0,0,0,0,48,5,3,2,0.0,0.0,0.0,0,0,23,34,67.6,2,20,0,0,0,Mönchengladbach,2021-01-16 Stuttgart-Gladbach,GER-BL1,20-21,8f8eb534
+48035304,Nico Elvedi,30,SUI,CB,24-108,90,0,0,0,0,0,0,0,0,61,4,3,4,0.0,0.0,0.0,0,0,35,37,94.6,2,24,0,0,0,Mönchengladbach,2021-01-16 Stuttgart-Gladbach,GER-BL1,20-21,8f8eb534
+f521b80a,Matthias Ginter,28,GER,CB,26-363,90,0,0,0,0,0,0,0,0,55,0,1,2,0.0,0.0,0.0,0,0,36,43,83.7,1,30,0,0,0,Mönchengladbach,2021-01-16 Stuttgart-Gladbach,GER-BL1,20-21,8f8eb534
+4aea5077,Stefan Lainer,18,AUT,RB,28-142,90,0,0,0,0,0,0,0,0,68,2,4,1,0.0,0.0,0.0,1,1,38,57,66.7,3,29,4,2,2,Mönchengladbach,2021-01-16 Stuttgart-Gladbach,GER-BL1,20-21,8f8eb534
+420c18a1,Yann Sommer,1,SUI,GK,32-030,90,0,0,0,0,0,0,0,0,44,0,0,0,0.0,0.0,0.0,0,0,28,41,68.3,0,26,0,0,0,Mönchengladbach,2021-01-16 Stuttgart-Gladbach,GER-BL1,20-21,8f8eb534

@@ -1,0 +1,28 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+8ff07990,Mario Balotelli,9,ITA,FW,27-127,90,1,0,0,0,2,2,1,0,43,0,0,0,0.8,0.8,0.2,4,0,26,36,72.2,4,29,4,3,3,Nice,2017-12-17 Nice-Bordeaux,FRA-L1,17-18,92b6ef96
+bc6bd723,Alassane Pléa,14,FRA,"LW,FW",24-282,90,0,0,0,0,4,0,0,0,43,0,1,0,0.6,0.6,0.0,2,0,27,32,84.4,0,18,0,0,0,Nice,2017-12-17 Nice-Bordeaux,FRA-L1,17-18,92b6ef96
+2b16cb1a,Allan Saint-Maximin,7,FRA,RW,20-280,84,0,0,0,0,0,0,0,0,44,2,0,0,0.0,0.0,0.1,2,0,24,34,70.6,3,31,3,8,5,Nice,2017-12-17 Nice-Bordeaux,FRA-L1,17-18,92b6ef96
+8746d5d0,Patrick Burner,15,MTQ,"RB,LB",21-250,6,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,1,0,1,0,Nice,2017-12-17 Nice-Bordeaux,FRA-L1,17-18,92b6ef96
+10efd0e1,Jean Seri,6,CIV,"LM,CM",26-151,90,0,0,0,0,1,0,0,0,118,2,1,0,0.0,0.0,0.1,2,0,99,110,90.0,12,44,0,5,3,Nice,2017-12-17 Nice-Bordeaux,FRA-L1,17-18,92b6ef96
+8da74c05,Adrien Tameze,5,CMR,CM,23-316,90,0,0,0,0,0,0,0,0,95,2,1,1,0.0,0.0,0.0,0,0,85,89,95.5,7,49,1,2,2,Nice,2017-12-17 Nice-Bordeaux,FRA-L1,17-18,92b6ef96
+f5044e54,Pierre Lees-Melou,8,FRA,"RM,CM",24-206,90,0,1,0,0,4,1,0,0,66,1,2,4,0.4,0.4,0.8,4,1,40,51,78.4,5,35,5,3,3,Nice,2017-12-17 Nice-Bordeaux,FRA-L1,17-18,92b6ef96
+321a71a7,Maxime Le Marchand,20,FRA,LB,28-067,90,0,0,0,0,0,0,0,0,95,4,2,1,0.0,0.0,0.1,1,0,67,80,83.8,4,36,5,1,0,Nice,2017-12-17 Nice-Bordeaux,FRA-L1,17-18,92b6ef96
+4315f30d,Malang Sarr,23,FRA,CB,18-328,90,0,0,0,0,0,0,0,0,112,1,1,0,0.0,0.0,0.0,1,0,103,106,97.2,6,54,0,1,1,Nice,2017-12-17 Nice-Bordeaux,FRA-L1,17-18,92b6ef96
+fd2bc67d,Dante,31,BRA,CB,34-060,90,0,0,0,0,0,0,0,0,100,2,0,1,0.0,0.0,0.0,1,0,89,93,95.7,3,65,0,1,0,Nice,2017-12-17 Nice-Bordeaux,FRA-L1,17-18,92b6ef96
+4e0afc5d,Arnaud Souquet,2,FRA,"RB,CB",25-308,90,0,0,0,0,0,0,0,0,121,3,2,0,0.0,0.0,0.0,2,0,105,116,90.5,9,57,6,1,1,Nice,2017-12-17 Nice-Bordeaux,FRA-L1,17-18,92b6ef96
+8a2248b4,Walter Benítez,40,ARG,GK,24-332,90,0,0,0,0,0,0,0,0,26,0,0,0,0.0,0.0,0.0,0,0,21,26,80.8,0,7,0,0,0,Nice,2017-12-17 Nice-Bordeaux,FRA-L1,17-18,92b6ef96
+81d3318f,François Kamano,11,GUI,"FW,LW",21-229,75,0,0,0,0,1,0,0,0,24,0,0,0,0.0,0.0,0.1,3,0,17,19,89.5,1,16,4,1,1,Bordeaux,2017-12-17 Nice-Bordeaux,FRA-L1,17-18,92b6ef96
+8d043f1d,Jonathan Cafu,22,BRA,LW,26-160,15,0,0,0,0,1,0,0,0,15,1,2,1,0.1,0.1,0.0,0,0,4,9,44.4,0,11,1,0,0,Bordeaux,2017-12-17 Nice-Bordeaux,FRA-L1,17-18,92b6ef96
+b0547a87,Nicolas de Préville,12,FRA,FW,26-343,90,0,0,0,0,3,0,0,0,35,0,0,1,0.1,0.1,0.2,3,0,15,25,60.0,1,31,4,3,1,Bordeaux,2017-12-17 Nice-Bordeaux,FRA-L1,17-18,92b6ef96
+516dc25b,Jaroslav Plašil,18,CZE,"CM,LM",35-346,69,0,0,0,0,1,0,0,0,30,0,1,2,0.0,0.0,0.1,2,0,18,21,85.7,3,14,0,0,0,Bordeaux,2017-12-17 Nice-Bordeaux,FRA-L1,17-18,92b6ef96
+c650629d,Younousse Sankharé,13,SEN,LM,28-098,21,0,0,0,0,0,0,0,0,7,1,0,0,0.0,0.0,0.0,0,0,6,6,100.0,1,5,0,0,0,Bordeaux,2017-12-17 Nice-Bordeaux,FRA-L1,17-18,92b6ef96
+243f4a0b,Otávio,5,BRA,CM,23-227,90,0,0,0,0,0,0,0,0,40,3,0,0,0.0,0.0,0.0,1,0,31,34,91.2,2,28,0,2,1,Bordeaux,2017-12-17 Nice-Bordeaux,FRA-L1,17-18,92b6ef96
+1b82f8df,Lukas Lerager,19,DEN,"CM,RM",24-158,90,0,0,0,0,1,0,0,0,48,5,2,1,0.2,0.2,0.1,4,0,24,38,63.2,4,27,0,0,0,Bordeaux,2017-12-17 Nice-Bordeaux,FRA-L1,17-18,92b6ef96
+b92edde2,Maxime Poundjé,29,FRA,LB,25-123,90,0,0,0,0,1,0,1,0,41,5,0,0,0.0,0.0,0.0,1,0,23,30,76.7,0,18,2,4,1,Bordeaux,2017-12-17 Nice-Bordeaux,FRA-L1,17-18,92b6ef96
+97fb4608,Théo Pellenard,21,FRA,CB,23-288,61,0,0,0,0,0,0,0,0,23,0,3,0,0.0,0.0,0.0,0,0,15,19,78.9,1,21,0,0,0,Bordeaux,2017-12-17 Nice-Bordeaux,FRA-L1,17-18,92b6ef96
+6853490f,Malcom,7,BRA,RW,20-294,29,0,0,0,0,1,0,0,0,23,0,0,1,0.0,0.0,0.1,2,0,15,20,75.0,6,16,0,0,0,Bordeaux,2017-12-17 Nice-Bordeaux,FRA-L1,17-18,92b6ef96
+7adea561,Jérémy Toulalan,14,FRA,CB,34-098,90,0,0,0,0,0,0,0,0,52,3,0,3,0.0,0.0,0.0,0,0,31,39,79.5,3,33,2,0,0,Bordeaux,2017-12-17 Nice-Bordeaux,FRA-L1,17-18,92b6ef96
+0eb03d5b,Vukašin Jovanović,4,SRB,CB,21-214,90,0,0,0,0,0,0,1,0,42,0,1,0,0.0,0.0,0.0,0,0,31,35,88.6,3,27,1,0,0,Bordeaux,2017-12-17 Nice-Bordeaux,FRA-L1,17-18,92b6ef96
+fbbb9269,Youssouf Sabaly,20,SEN,RB,24-287,90,0,0,0,0,2,0,0,0,58,5,1,1,0.1,0.1,0.0,4,0,33,44,75.0,4,27,4,5,4,Bordeaux,2017-12-17 Nice-Bordeaux,FRA-L1,17-18,92b6ef96
+1061c207,Jérôme Prior,30,FRA,GK,22-131,90,0,0,0,0,0,0,0,0,21,0,0,0,0.0,0.0,0.0,0,0,11,18,61.1,0,6,0,0,0,Bordeaux,2017-12-17 Nice-Bordeaux,FRA-L1,17-18,92b6ef96

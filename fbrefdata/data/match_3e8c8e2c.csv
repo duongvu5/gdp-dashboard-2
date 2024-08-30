@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+1ac3b888,Adama Niane,26,MLI,FW,24-064,90,0,0,0,0,2,0,0,0,26,1,1,0,0.1,0.1,0.0,2,0,11,16,68.8,1,16,0,1,1,Troyes,2017-08-19 Troyes-Nantes,FRA-L1,17-18,3e8c8e2c
+75d97aa6,Stéphane Darbion,8,FRA,LW,33-150,90,0,0,0,0,1,0,1,0,77,0,1,2,0.0,0.0,0.4,3,0,50,63,79.4,13,58,4,6,2,Troyes,2017-08-19 Troyes-Nantes,FRA-L1,17-18,3e8c8e2c
+d2448564,Samuel Grandsir,29,FRA,RW,21-005,65,0,0,0,0,0,0,0,0,34,1,1,2,0.0,0.0,0.0,2,0,15,21,71.4,3,19,5,3,1,Troyes,2017-08-19 Troyes-Nantes,FRA-L1,17-18,3e8c8e2c
+88615858,Bryan Pelé,28,FRA,RW,25-147,25,0,0,0,0,1,0,0,0,16,0,0,0,0.0,0.0,0.3,1,0,10,14,71.4,3,10,3,1,1,Troyes,2017-08-19 Troyes-Nantes,FRA-L1,17-18,3e8c8e2c
+1ec4e202,Benjamin Nivet,10,FRA,"AM,DM",40-229,90,0,0,0,0,2,0,0,0,67,3,0,0,0.3,0.3,0.0,2,0,47,59,79.7,11,44,1,2,2,Troyes,2017-08-19 Troyes-Nantes,FRA-L1,17-18,3e8c8e2c
+92b56413,Tristan Dingomé,19,CMR,DM,26-183,90,0,0,0,0,0,0,0,0,100,0,0,0,0.0,0.0,0.0,2,0,81,95,85.3,9,63,4,0,0,Troyes,2017-08-19 Troyes-Nantes,FRA-L1,17-18,3e8c8e2c
+eaf71a5e,Karim Azamoum,6,FRA,DM,27-214,65,0,0,0,0,1,1,0,0,44,3,0,0,0.0,0.0,0.0,0,0,29,38,76.3,1,28,0,0,0,Troyes,2017-08-19 Troyes-Nantes,FRA-L1,17-18,3e8c8e2c
+871fc5f8,Jonathan Tinhan,20,BEN,AM,28-079,25,0,0,0,0,1,0,0,0,9,0,0,0,0.3,0.3,0.0,0,0,2,7,28.6,0,7,1,0,0,Troyes,2017-08-19 Troyes-Nantes,FRA-L1,17-18,3e8c8e2c
+de488e56,Charles Traore,23,MLI,LB,25-230,90,0,0,0,0,0,0,0,0,96,1,4,0,0.0,0.0,0.0,0,0,65,83,78.3,5,52,1,2,1,Troyes,2017-08-19 Troyes-Nantes,FRA-L1,17-18,3e8c8e2c
+3681cfff,Christophe Hérelle,22,MTQ,CB,24-362,90,0,0,0,0,0,0,0,0,102,2,0,2,0.0,0.0,0.0,1,0,83,90,92.2,9,68,0,0,0,Troyes,2017-08-19 Troyes-Nantes,FRA-L1,17-18,3e8c8e2c
+446aa6e1,Oswaldo Vizcarrondo,4,VEN,CB,33-080,90,0,0,0,0,0,0,0,0,94,4,2,0,0.0,0.0,0.0,1,0,69,79,87.3,5,54,1,0,0,Troyes,2017-08-19 Troyes-Nantes,FRA-L1,17-18,3e8c8e2c
+ff16ecad,Mathieu Deplagne,12,FRA,RB,25-322,77,0,0,0,0,0,0,0,0,76,2,1,3,0.0,0.0,0.0,1,0,57,68,83.8,8,37,0,1,1,Troyes,2017-08-19 Troyes-Nantes,FRA-L1,17-18,3e8c8e2c
+535b0343,Alois Confais,27,FRA,RB,20-346,13,0,0,0,0,0,0,0,0,19,0,0,0,0.0,0.0,0.0,0,0,14,18,77.8,1,8,1,0,0,Troyes,2017-08-19 Troyes-Nantes,FRA-L1,17-18,3e8c8e2c
+cfe852d8,Mamadou Samassa,30,MLI,GK,27-184,90,0,0,0,0,0,0,0,0,35,0,0,0,0.0,0.0,0.0,0,0,24,32,75.0,0,19,0,0,0,Troyes,2017-08-19 Troyes-Nantes,FRA-L1,17-18,3e8c8e2c
+5d59e0df,Emiliano Sala,9,ARG,FW,26-292,89,1,0,0,0,3,1,0,0,47,0,0,1,0.3,0.3,0.0,2,0,18,31,58.1,3,23,1,7,3,Nantes,2017-08-19 Troyes-Nantes,FRA-L1,17-18,3e8c8e2c
+7b536033,Mariusz Stępiński,18,POL,FW,22-099,1,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,1,0,0,0,Nantes,2017-08-19 Troyes-Nantes,FRA-L1,17-18,3e8c8e2c
+0f52f925,Lucas Lima,6,BRA,"LB,LW",25-313,90,0,0,0,0,1,0,0,0,63,3,2,2,0.0,0.0,0.3,5,0,30,53,56.6,3,25,3,1,1,Nantes,2017-08-19 Troyes-Nantes,FRA-L1,17-18,3e8c8e2c
+f352a2db,Jules Iloki,7,FRA,RW,25-217,87,0,0,0,0,2,1,0,0,47,2,1,0,0.4,0.4,0.1,3,0,24,38,63.2,3,26,2,2,1,Nantes,2017-08-19 Troyes-Nantes,FRA-L1,17-18,3e8c8e2c
+0049d544,Yassine El Ghanassy,14,BEL,RW,27-038,3,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,1,0,0,0,Nantes,2017-08-19 Troyes-Nantes,FRA-L1,17-18,3e8c8e2c
+c76b7567,Adrien Thomasson,8,FRA,"LW,AM",23-252,89,0,0,0,0,1,0,0,0,57,1,0,2,0.1,0.1,0.3,2,0,32,46,69.6,2,31,0,4,2,Nantes,2017-08-19 Troyes-Nantes,FRA-L1,17-18,3e8c8e2c
+56b52c4e,Najib Gandi,29,FRA,LW,23-057,1,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,1,2,0,1,1,Nantes,2017-08-19 Troyes-Nantes,FRA-L1,17-18,3e8c8e2c
+ef7cd87a,Abdoulaye Touré,19,GUI,DM,23-169,90,0,0,0,0,1,1,0,0,55,2,2,1,0.0,0.0,0.0,3,0,35,47,74.5,7,25,0,1,1,Nantes,2017-08-19 Troyes-Nantes,FRA-L1,17-18,3e8c8e2c
+3befc2b6,Andrei Girotto,20,BRA,DM,25-183,90,0,0,0,0,2,1,0,0,34,6,1,1,0.1,0.1,0.0,0,0,14,20,70.0,2,14,0,0,0,Nantes,2017-08-19 Troyes-Nantes,FRA-L1,17-18,3e8c8e2c
+70d8e84c,Chidozie Awaziem,12,NGA,LB,20-230,33,0,0,0,0,0,0,0,1,20,1,1,0,0.0,0.0,0.0,1,0,11,16,68.8,1,11,1,0,0,Nantes,2017-08-19 Troyes-Nantes,FRA-L1,17-18,3e8c8e2c
+933d3b51,Koffi Djidji,5,CIV,CB,24-262,90,0,0,0,0,0,0,0,0,34,3,3,1,0.0,0.0,0.0,2,1,14,23,60.9,1,16,0,0,0,Nantes,2017-08-19 Troyes-Nantes,FRA-L1,17-18,3e8c8e2c
+eb78322b,Anthony Walongwa,17,,CB,23-308,90,0,0,0,0,0,0,0,0,30,2,1,0,0.0,0.0,0.0,0,0,13,19,68.4,1,11,0,0,0,Nantes,2017-08-19 Troyes-Nantes,FRA-L1,17-18,3e8c8e2c
+9b8970ce,David Alcibiade,34,FRA,RB,25-327,90,0,1,0,0,1,0,0,0,75,6,4,2,0.0,0.0,0.1,1,1,43,62,69.4,4,24,2,0,0,Nantes,2017-08-19 Troyes-Nantes,FRA-L1,17-18,3e8c8e2c
+b056e3da,Ciprian Tătărușanu,30,ROU,GK,31-191,90,0,0,0,0,0,0,0,0,31,0,1,0,0.0,0.0,0.0,0,0,14,30,46.7,0,15,0,0,0,Nantes,2017-08-19 Troyes-Nantes,FRA-L1,17-18,3e8c8e2c

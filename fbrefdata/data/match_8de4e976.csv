@@ -1,0 +1,32 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+f93e6e94,Nils Petersen,18,GER,FW,33-276,70,0,0,0,0,2,1,0,0,19,1,0,1,0.3,0.3,0.0,2,0,10,15,66.7,2,8,1,1,1,Freiburg,2022-09-08 Freiburg-Qarabağ,UEL,22-23,8de4e976
+8e235926,Michael Gregoritsch,38,AUT,FW,28-143,20,0,0,0,0,1,1,0,0,8,0,0,0,0.1,0.1,0.0,1,0,4,6,66.7,1,2,0,0,0,Freiburg,2022-09-08 Freiburg-Qarabağ,UEL,22-23,8de4e976
+6190474d,Jeong Woo-yeong,29,KOR,FW,22-353,87,0,0,0,0,1,0,0,0,35,0,0,0,0.0,0.0,0.2,4,0,20,29,69.0,2,20,1,2,0,Freiburg,2022-09-08 Freiburg-Qarabağ,UEL,22-23,8de4e976
+dd676a97,Noah Weißhaupt,33,GER,"FW,LM",20-353,3,0,0,0,0,0,0,0,0,3,1,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,0,0,Freiburg,2022-09-08 Freiburg-Qarabağ,UEL,22-23,8de4e976
+54e4866f,Vincenzo Grifo,32,ITA,LM,29-154,70,1,0,1,1,3,1,1,0,48,0,0,1,0.9,0.1,0.0,5,1,27,38,71.1,4,30,3,5,2,Freiburg,2022-09-08 Freiburg-Qarabağ,UEL,22-23,8de4e976
+2770726a,Daniel Kyereh,11,GHA,"LM,FW",26-184,20,0,0,0,0,1,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,5,5,100.0,1,5,0,0,0,Freiburg,2022-09-08 Freiburg-Qarabağ,UEL,22-23,8de4e976
+5d8e331f,Nicolas Höfler,27,GER,CM,32-183,90,0,0,0,0,0,0,0,0,40,4,1,1,0.0,0.0,0.0,0,0,27,31,87.1,3,11,0,0,0,Freiburg,2022-09-08 Freiburg-Qarabağ,UEL,22-23,8de4e976
+beb882a8,Maximilian Eggestein,8,GER,CM,25-274,90,0,1,0,0,1,0,0,0,49,1,2,0,0.0,0.0,0.1,3,1,39,43,90.7,5,26,0,0,0,Freiburg,2022-09-08 Freiburg-Qarabağ,UEL,22-23,8de4e976
+d01bbb6f,Ritsu Doan,42,JPN,RM,24-084,89,1,0,0,0,4,2,1,0,58,6,0,3,0.4,0.4,0.0,2,1,28,37,75.7,5,33,3,3,0,Freiburg,2022-09-08 Freiburg-Qarabağ,UEL,22-23,8de4e976
+d2c580ce,Yannik Keitel,14,GER,RM,22-205,1,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,0,2,0.0,0,0,0,0,0,Freiburg,2022-09-08 Freiburg-Qarabağ,UEL,22-23,8de4e976
+8593f88c,Christian Günter,30,GER,LB,29-192,90,0,0,0,0,0,0,0,0,60,2,0,1,0.0,0.0,0.5,5,0,43,55,78.2,4,30,0,1,0,Freiburg,2022-09-08 Freiburg-Qarabağ,UEL,22-23,8de4e976
+302527b2,Philipp Lienhart,3,AUT,CB,26-059,90,0,0,0,0,0,0,0,0,45,1,0,3,0.0,0.0,0.0,0,0,32,36,88.9,2,27,1,0,0,Freiburg,2022-09-08 Freiburg-Qarabağ,UEL,22-23,8de4e976
+f521b80a,Matthias Ginter,28,GER,CB,28-232,90,0,0,0,0,0,0,0,0,37,0,1,0,0.0,0.0,0.0,1,1,30,34,88.2,3,24,0,0,0,Freiburg,2022-09-08 Freiburg-Qarabağ,UEL,22-23,8de4e976
+313254a3,Kiliann Sildillia,25,FRA,RB,20-115,90,0,0,0,0,0,0,0,0,69,2,2,1,0.0,0.0,0.0,1,0,35,59,59.3,1,33,2,1,1,Freiburg,2022-09-08 Freiburg-Qarabağ,UEL,22-23,8de4e976
+a92ab7be,Mark Flekken,26,NED,GK,29-087,90,0,0,0,0,0,0,0,0,43,0,0,0,0.0,0.0,0.0,0,0,29,40,72.5,0,22,0,0,0,Freiburg,2022-09-08 Freiburg-Qarabağ,UEL,22-23,8de4e976
+6d86d9cd,Owusu Kwabena,11,GHA,FW,25-082,90,0,1,0,0,3,0,1,0,28,0,1,1,0.3,0.3,0.1,2,1,15,19,78.9,3,18,1,4,2,Qarabağ,2022-09-08 Freiburg-Qarabağ,UEL,22-23,8de4e976
+4a1abff3,Abdellah Zoubir,10,FRA,LW,30-277,90,0,0,0,0,4,2,1,0,54,0,2,0,0.2,0.2,0.1,7,1,26,38,68.4,3,29,6,7,2,Qarabağ,2022-09-08 Freiburg-Qarabağ,UEL,22-23,8de4e976
+14a04bea,Ramil Sheydayev,77,AZE,RW,26-177,75,0,0,0,0,1,0,0,0,32,1,0,2,0.0,0.0,0.0,2,0,17,24,70.8,0,25,5,2,1,Qarabağ,2022-09-08 Freiburg-Qarabağ,UEL,22-23,8de4e976
+fef20ac5,Julio Romão,6,BRA,DM,24-163,15,0,0,0,0,0,0,0,0,17,1,0,0,0.0,0.0,0.0,0,0,12,13,92.3,2,8,1,0,0,Qarabağ,2022-09-08 Freiburg-Qarabağ,UEL,22-23,8de4e976
+ae05689a,Kady Borges,20,BRA,"AM,RW",26-129,90,0,0,0,0,3,2,0,0,38,0,1,1,0.1,0.1,0.3,10,0,26,28,92.9,6,27,3,5,3,Qarabağ,2022-09-08 Freiburg-Qarabağ,UEL,22-23,8de4e976
+9866afec,Marko Janković,8,MNE,"DM,AM",27-061,83,0,0,0,0,2,1,0,0,57,0,1,0,0.0,0.0,0.0,1,0,47,52,90.4,4,28,1,3,3,Qarabağ,2022-09-08 Freiburg-Qarabağ,UEL,22-23,8de4e976
+8382b207,Leandro Andrade,15,CPV,"DM,AM",22-349,7,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,0,2,0.0,0,3,0,1,0,Qarabağ,2022-09-08 Freiburg-Qarabağ,UEL,22-23,8de4e976
+a372a9f2,Gara Garayev,2,AZE,DM,29-331,75,0,0,0,0,1,0,0,0,41,2,1,1,0.0,0.0,0.1,2,0,28,33,84.8,2,20,1,0,0,Qarabağ,2022-09-08 Freiburg-Qarabağ,UEL,22-23,8de4e976
+bdf8165d,Richard Almeida,7,AZE,DM,33-172,15,0,0,0,0,0,0,0,0,22,0,0,1,0.0,0.0,0.0,0,0,17,18,94.4,2,13,0,1,0,Qarabağ,2022-09-08 Freiburg-Qarabağ,UEL,22-23,8de4e976
+a74ea18d,Toral Bayramov,27,AZE,LB,21-197,89,0,0,0,0,1,0,1,0,54,1,2,1,0.1,0.1,0.0,1,0,34,44,77.3,2,22,1,1,1,Qarabağ,2022-09-08 Freiburg-Qarabağ,UEL,22-23,8de4e976
+235a646b,Elvin Cəfərquliyev,44,AZE,LB,21-317,1,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,1,0,1,1,100.0,0,0,0,0,0,Qarabağ,2022-09-08 Freiburg-Qarabağ,UEL,22-23,8de4e976
+4f5a953e,Badavi Huseynov,55,AZE,CB,31-059,90,0,0,0,0,0,0,0,0,90,1,1,1,0.0,0.0,0.0,0,0,67,81,82.7,2,52,0,0,0,Qarabağ,2022-09-08 Freiburg-Qarabağ,UEL,22-23,8de4e976
+808035bd,Bəhlul Mustafazadə,13,AZE,CB,25-193,90,0,0,0,0,0,0,0,0,64,2,1,1,0.0,0.0,0.2,0,0,41,56,73.2,1,41,0,0,0,Qarabağ,2022-09-08 Freiburg-Qarabağ,UEL,22-23,8de4e976
+24baba9d,Marko Vešović,29,MNE,RB,31-011,90,1,0,0,0,2,1,0,0,40,1,1,0,0.2,0.2,0.1,2,0,28,33,84.8,1,28,2,1,1,Qarabağ,2022-09-08 Freiburg-Qarabağ,UEL,22-23,8de4e976
+595ccab1,Shakhruddin Magomedaliyev,1,AZE,GK,28-088,90,0,0,0,0,0,0,0,0,52,0,0,0,0.0,0.0,0.0,2,0,40,50,80.0,0,27,0,0,0,Qarabağ,2022-09-08 Freiburg-Qarabağ,UEL,22-23,8de4e976

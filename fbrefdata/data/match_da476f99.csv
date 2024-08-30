@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+8ff07990,Mario Balotelli,9,ITA,FW,27-050,90,1,0,0,0,5,4,0,0,36,1,0,0,0.3,0.3,0.4,5,0,23,27,85.2,3,22,1,2,0,Nice,2017-10-01 Nice-Marseille,FRA-L1,17-18,da476f99
+bc6bd723,Alassane Pléa,14,FRA,FW,24-205,90,0,0,0,1,4,2,1,0,49,0,0,0,1.0,0.2,0.0,6,0,35,41,85.4,5,25,2,4,3,Nice,2017-10-01 Nice-Marseille,FRA-L1,17-18,da476f99
+f5044e54,Pierre Lees-Melou,8,FRA,AM,24-129,76,0,1,0,0,3,0,1,0,40,0,1,2,0.2,0.2,0.2,4,1,20,30,66.7,1,11,2,0,0,Nice,2017-10-01 Nice-Marseille,FRA-L1,17-18,da476f99
+23c63b7f,Ignatius Ganago,33,CMR,AM,18-227,14,0,0,0,0,1,1,0,0,10,0,0,0,0.3,0.0,0.0,1,0,6,9,66.7,0,6,0,0,0,Nice,2017-10-01 Nice-Marseille,FRA-L1,17-18,da476f99
+2b16cb1a,Allan Saint-Maximin,7,FRA,AM,20-203,90,0,0,0,0,1,0,0,0,45,0,0,0,0.3,0.3,0.1,5,0,22,35,62.9,6,36,8,8,6,Nice,2017-10-01 Nice-Marseille,FRA-L1,17-18,da476f99
+10efd0e1,Jean Seri,6,CIV,DM,26-074,90,1,0,0,0,3,2,0,0,74,1,0,1,0.1,0.1,0.1,5,2,63,68,92.6,4,49,0,2,2,Nice,2017-10-01 Nice-Marseille,FRA-L1,17-18,da476f99
+1598599e,Nampalys Mendy,21,SEN,DM,25-100,89,0,1,0,0,0,0,0,0,74,3,2,2,0.0,0.0,0.0,2,1,63,66,95.5,4,34,1,1,1,Nice,2017-10-01 Nice-Marseille,FRA-L1,17-18,da476f99
+9a493fb7,Vincent Koziello,26,FRA,DM,21-338,1,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,1,0,7,7,100.0,0,4,2,0,0,Nice,2017-10-01 Nice-Marseille,FRA-L1,17-18,da476f99
+4315f30d,Malang Sarr,23,FRA,LB,18-251,75,0,0,0,0,0,0,0,0,58,1,4,2,0.0,0.0,0.0,0,0,39,49,79.6,2,33,1,0,0,Nice,2017-10-01 Nice-Marseille,FRA-L1,17-18,da476f99
+cdf65d12,Marlon,4,BRA,"CB,LB",22-024,15,0,0,0,0,0,0,0,0,19,1,0,1,0.0,0.0,0.0,0,0,15,17,88.2,4,12,1,0,0,Nice,2017-10-01 Nice-Marseille,FRA-L1,17-18,da476f99
+321a71a7,Maxime Le Marchand,20,FRA,"CB,LB",27-355,90,0,0,0,0,1,0,0,0,76,3,0,2,0.1,0.1,0.0,1,0,59,67,88.1,2,34,1,0,0,Nice,2017-10-01 Nice-Marseille,FRA-L1,17-18,da476f99
+fd2bc67d,Dante,31,BRA,CB,33-348,90,0,0,0,0,0,0,0,0,72,3,0,2,0.0,0.0,0.0,0,0,60,63,95.2,10,33,0,0,0,Nice,2017-10-01 Nice-Marseille,FRA-L1,17-18,da476f99
+4e0afc5d,Arnaud Souquet,2,FRA,RB,25-231,90,0,0,0,0,0,0,0,0,67,6,1,0,0.0,0.0,0.1,3,0,47,54,87.0,5,24,2,1,0,Nice,2017-10-01 Nice-Marseille,FRA-L1,17-18,da476f99
+950ff24d,Yoan Cardinale,30,FRA,GK,23-188,90,0,0,0,0,0,0,0,0,30,0,0,0,0.0,0.0,0.0,0,0,25,28,89.3,0,12,0,0,0,Nice,2017-10-01 Nice-Marseille,FRA-L1,17-18,da476f99
+77f278a0,Clinton N'Jie,14,CMR,FW,24-047,77,0,0,0,0,4,2,0,0,27,0,0,0,0.2,0.2,0.0,0,0,12,17,70.6,4,17,5,2,1,Marseille,2017-10-01 Nice-Marseille,FRA-L1,17-18,da476f99
+ea0ff634,Valère Germain,28,FRA,FW,27-167,13,0,0,0,0,1,1,0,0,7,0,0,1,0.3,0.3,0.0,0,0,3,3,100.0,0,3,1,1,1,Marseille,2017-10-01 Nice-Marseille,FRA-L1,17-18,da476f99
+a08b974a,Lucas Ocampos,5,ARG,"LW,LM,RM",23-082,90,2,0,0,0,4,2,1,0,40,3,0,1,1.7,1.7,0.1,1,0,14,22,63.6,5,24,0,2,2,Marseille,2017-10-01 Nice-Marseille,FRA-L1,17-18,da476f99
+2b9fdeea,Florian Thauvin,26,FRA,RW,24-248,69,0,0,0,0,2,1,0,0,40,0,1,1,0.1,0.1,0.1,4,0,19,33,57.6,2,33,6,3,3,Marseille,2017-10-01 Nice-Marseille,FRA-L1,17-18,da476f99
+c4527123,Grégory Sertic,22,FRA,CM,28-057,21,0,0,0,0,1,0,0,0,14,0,1,1,0.1,0.1,0.0,0,0,5,7,71.4,0,7,0,0,0,Marseille,2017-10-01 Nice-Marseille,FRA-L1,17-18,da476f99
+58ae47b2,Dimitri Payet,10,FRA,"AM,RM",30-186,83,0,0,0,0,0,0,1,0,50,1,1,0,0.0,0.0,0.2,9,1,34,43,79.1,4,41,3,2,2,Marseille,2017-10-01 Nice-Marseille,FRA-L1,17-18,da476f99
+1a4b9094,Bouna Sarr,17,SEN,"RM,LM",25-243,7,0,0,0,0,0,0,0,0,15,0,0,0,0.0,0.0,0.1,1,0,7,7,100.0,1,9,0,0,0,Marseille,2017-10-01 Nice-Marseille,FRA-L1,17-18,da476f99
+82671804,Luiz Gustavo,19,BRA,DM,30-070,65,1,0,0,0,3,3,0,1,38,3,1,0,0.1,0.1,0.1,4,2,27,30,90.0,6,26,2,0,0,Marseille,2017-10-01 Nice-Marseille,FRA-L1,17-18,da476f99
+6bb2c084,Andre-Frank Zambo Anguissa,29,CMR,DM,21-319,90,0,0,0,0,1,0,0,0,45,4,2,1,0.1,0.1,0.0,3,1,32,36,88.9,3,35,3,2,2,Marseille,2017-10-01 Nice-Marseille,FRA-L1,17-18,da476f99
+22721b88,Jordan Amavi,18,FRA,LB,23-206,90,0,0,0,0,1,0,1,0,42,0,3,0,0.0,0.0,0.0,1,0,31,38,81.6,5,29,2,2,2,Marseille,2017-10-01 Nice-Marseille,FRA-L1,17-18,da476f99
+0eeafda5,Rolando,6,POR,CB,32-031,90,0,0,0,0,0,0,0,0,31,0,0,0,0.0,0.0,0.0,0,0,23,25,92.0,0,18,0,0,0,Marseille,2017-10-01 Nice-Marseille,FRA-L1,17-18,da476f99
+8dbff17c,Adil Rami,23,FRA,CB,31-278,90,0,0,0,0,0,0,0,0,31,1,0,1,0.0,0.0,0.3,1,0,22,25,88.0,2,18,2,0,0,Marseille,2017-10-01 Nice-Marseille,FRA-L1,17-18,da476f99
+d63e2912,Hiroki Sakai,2,JPN,RB,27-172,90,0,0,0,0,0,0,0,0,42,0,1,1,0.0,0.0,0.0,2,0,27,35,77.1,0,24,1,0,0,Marseille,2017-10-01 Nice-Marseille,FRA-L1,17-18,da476f99
+1d2d5cc8,Steve Mandanda,30,FRA,GK,32-187,90,0,0,0,0,0,0,0,0,35,0,0,0,0.0,0.0,0.0,1,0,15,25,60.0,0,14,0,0,0,Marseille,2017-10-01 Nice-Marseille,FRA-L1,17-18,da476f99

@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+0a447501,Antonio Sanabria,9,PAR,FW,22-336,86,1,0,0,0,4,2,0,0,24,1,0,3,0.8,0.8,0.0,0,0,7,10,70.0,2,12,0,1,0,Genoa,2019-02-03 Genoa-Sassuolo,ITA-SERIA_A,18-19,6f175cd2
+d711d04f,Goran Pandev,19,MKD,FW,35-191,4,0,0,0,0,0,0,0,0,2,0,0,1,0.0,0.0,0.0,0,0,0,1,0.0,0,2,0,0,0,Genoa,2019-02-03 Genoa-Sassuolo,ITA-SERIA_A,18-19,6f175cd2
+58e933d2,Christian Kouamé,11,CIV,"FW,LW",21-059,90,0,1,0,0,2,1,0,0,45,0,2,1,0.1,0.1,0.4,3,0,16,28,57.1,1,29,1,4,1,Genoa,2019-02-03 Genoa-Sassuolo,ITA-SERIA_A,18-19,6f175cd2
+5128bde4,Darko Lazović,22,SRB,"RW,RM,LM",28-141,90,0,0,0,0,0,0,0,0,35,1,1,1,0.0,0.0,0.4,3,1,16,25,64.0,1,17,3,2,1,Genoa,2019-02-03 Genoa-Sassuolo,ITA-SERIA_A,18-19,6f175cd2
+88895312,Daniel Bessa,24,ITA,"CM,LM",26-020,78,0,0,0,0,0,0,0,0,28,2,0,1,0.0,0.0,0.0,2,0,19,23,82.6,1,15,1,1,0,Genoa,2019-02-03 Genoa-Sassuolo,ITA-SERIA_A,18-19,6f175cd2
+c77be0cf,Pedro Pereira,32,POR,RM,21-012,12,0,0,0,0,0,0,0,0,9,0,0,2,0.0,0.0,0.1,1,0,4,6,66.7,0,2,0,0,0,Genoa,2019-02-03 Genoa-Sassuolo,ITA-SERIA_A,18-19,6f175cd2
+023937a9,Ivan Radovanović,21,SRB,CM,30-158,75,0,0,0,0,0,0,0,0,41,0,1,4,0.0,0.0,0.0,0,0,27,33,81.8,3,17,0,0,0,Genoa,2019-02-03 Genoa-Sassuolo,ITA-SERIA_A,18-19,6f175cd2
+ab1ca213,Miguel Veloso,44,POR,CM,32-268,15,0,0,0,0,0,0,0,0,7,0,1,1,0.0,0.0,0.0,1,0,5,5,100.0,2,2,0,0,0,Genoa,2019-02-03 Genoa-Sassuolo,ITA-SERIA_A,18-19,6f175cd2
+1b82f8df,Lukas Lerager,8,DEN,CM,25-206,90,0,0,0,0,1,0,0,0,35,5,2,0,0.1,0.1,0.0,0,0,16,25,64.0,5,9,0,0,0,Genoa,2019-02-03 Genoa-Sassuolo,ITA-SERIA_A,18-19,6f175cd2
+35dd6d80,Domenico Criscito,4,ITA,LB,32-035,90,0,0,0,0,0,0,0,0,51,2,0,1,0.0,0.0,0.1,1,0,25,45,55.6,3,21,4,0,0,Genoa,2019-02-03 Genoa-Sassuolo,ITA-SERIA_A,18-19,6f175cd2
+1253a12e,Ervin Zukanović,87,BIH,CB,31-357,90,0,0,0,0,0,0,0,0,44,2,2,0,0.0,0.0,0.0,1,0,27,35,77.1,2,23,0,0,0,Genoa,2019-02-03 Genoa-Sassuolo,ITA-SERIA_A,18-19,6f175cd2
+a3d94a58,Cristian Romero,17,ARG,CB,20-282,90,0,0,0,0,1,0,1,0,36,4,3,4,0.0,0.0,0.0,0,0,17,20,85.0,1,16,0,0,0,Genoa,2019-02-03 Genoa-Sassuolo,ITA-SERIA_A,18-19,6f175cd2
+64cd167d,Davide Biraschi,14,ITA,RB,24-216,90,0,0,0,0,0,0,0,0,54,3,2,1,0.0,0.0,0.0,2,1,27,43,62.8,6,15,1,0,0,Genoa,2019-02-03 Genoa-Sassuolo,ITA-SERIA_A,18-19,6f175cd2
+67f649be,Ionuț Radu,97,ROU,GK,21-251,90,0,0,0,0,0,0,0,0,28,0,0,0,0.0,0.0,0.0,1,0,13,25,52.0,0,12,0,0,0,Genoa,2019-02-03 Genoa-Sassuolo,ITA-SERIA_A,18-19,6f175cd2
+422ec08a,Khouma Babacar,30,SEN,FW,25-323,69,0,0,0,0,3,0,0,0,26,1,0,0,0.2,0.2,0.0,3,1,10,14,71.4,1,10,1,1,1,Sassuolo,2019-02-03 Genoa-Sassuolo,ITA-SERIA_A,18-19,6f175cd2
+fe012aca,Jeremie Boga,20,CIV,"FW,LW",22-031,21,0,0,0,0,1,0,0,0,14,0,0,2,0.2,0.2,0.0,0,0,4,8,50.0,1,5,0,3,2,Sassuolo,2019-02-03 Genoa-Sassuolo,ITA-SERIA_A,18-19,6f175cd2
+eccbe56a,Filip Đuričić,9,SRB,LW,27-004,82,1,0,0,0,1,1,0,0,48,1,2,0,0.1,0.1,0.0,2,0,24,33,72.7,1,28,5,3,0,Sassuolo,2019-02-03 Genoa-Sassuolo,ITA-SERIA_A,18-19,6f175cd2
+58d97e77,Alessandro Matri,10,ITA,FW,34-168,8,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,1,0,5,6,83.3,0,3,0,0,0,Sassuolo,2019-02-03 Genoa-Sassuolo,ITA-SERIA_A,18-19,6f175cd2
+53a0e358,Domenico Berardi,25,ITA,RW,24-186,90,0,0,0,0,0,0,0,0,57,3,0,0,0.0,0.0,0.0,3,0,35,48,72.9,3,31,2,2,0,Sassuolo,2019-02-03 Genoa-Sassuolo,ITA-SERIA_A,18-19,6f175cd2
+a8a874f1,Manuel Locatelli,73,ITA,LM,21-026,90,0,1,0,0,2,0,0,0,60,2,1,1,0.1,0.1,0.1,4,1,40,49,81.6,5,37,0,0,0,Sassuolo,2019-02-03 Genoa-Sassuolo,ITA-SERIA_A,18-19,6f175cd2
+b70bde8f,Stefano Sensi,12,ITA,CM,23-182,45,0,0,0,0,0,0,0,0,36,1,0,1,0.0,0.0,0.1,1,0,31,34,91.2,3,20,0,0,0,Sassuolo,2019-02-03 Genoa-Sassuolo,ITA-SERIA_A,18-19,6f175cd2
+0d077b88,Mehdi Bourabia,68,MAR,CM,27-180,45,0,0,0,0,4,2,1,0,41,0,1,1,0.2,0.2,0.0,2,0,24,30,80.0,0,14,0,2,1,Sassuolo,2019-02-03 Genoa-Sassuolo,ITA-SERIA_A,18-19,6f175cd2
+528492ea,Alfred Duncan,32,GHA,RM,25-330,90,0,0,0,0,1,1,1,0,52,4,1,0,0.0,0.0,0.0,2,0,34,45,75.6,5,27,2,0,0,Sassuolo,2019-02-03 Genoa-Sassuolo,ITA-SERIA_A,18-19,6f175cd2
+10e7f486,Rogério,6,BRA,LB,21-021,90,0,0,0,0,0,0,1,0,71,1,1,0,0.0,0.0,0.0,2,0,54,64,84.4,2,34,0,2,1,Sassuolo,2019-02-03 Genoa-Sassuolo,ITA-SERIA_A,18-19,6f175cd2
+4f2908e5,Federico Peluso,13,ITA,CB,35-014,90,0,0,0,0,0,0,0,0,79,1,1,0,0.0,0.0,0.0,0,0,62,71,87.3,5,44,0,0,0,Sassuolo,2019-02-03 Genoa-Sassuolo,ITA-SERIA_A,18-19,6f175cd2
+cce9f582,Giangiacomo Magnani,23,ITA,CB,23-122,90,0,0,0,0,1,0,0,0,86,1,2,0,0.1,0.1,0.0,0,0,70,79,88.6,8,53,2,0,0,Sassuolo,2019-02-03 Genoa-Sassuolo,ITA-SERIA_A,18-19,6f175cd2
+ff800ed8,Pol Lirola,21,ESP,RB,21-174,90,0,0,0,0,1,0,0,0,65,0,2,0,0.0,0.0,0.2,5,0,41,56,73.2,4,30,3,2,2,Sassuolo,2019-02-03 Genoa-Sassuolo,ITA-SERIA_A,18-19,6f175cd2
+8cabdc1e,Andrea Consigli,47,ITA,GK,32-007,90,0,0,0,0,0,0,0,0,50,0,0,0,0.0,0.0,0.0,0,0,42,47,89.4,0,30,0,0,0,Sassuolo,2019-02-03 Genoa-Sassuolo,ITA-SERIA_A,18-19,6f175cd2

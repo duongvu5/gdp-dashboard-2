@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+ce50fd99,Jonathan David,9,CAN,FW,24-223,88,0,0,0,0,0,0,0,0,31,1,0,0,0.0,0.0,0.1,3,0,17,24,70.8,2,23,1,3,2,Lille,2024-08-24 Lille-Angers,FRA-L1,24-25,70fdbb5a
+01870104,Mohamed Lamine Bayo,27,GUI,FW,26-081,2,1,0,0,0,1,1,0,0,2,0,0,0,0.3,0.3,0.0,0,0,0,0,,0,2,1,0,0,Lille,2024-08-24 Lille-Angers,FRA-L1,24-25,70fdbb5a
+6f9fa232,Osame Sahraoui,11,NOR,AM,23-074,89,0,0,0,0,1,1,0,0,56,1,1,0,0.1,0.1,0.1,5,0,39,46,84.8,4,44,4,5,1,Lille,2024-08-24 Lille-Angers,FRA-L1,24-25,70fdbb5a
+8006228f,Ayyoub Bouaddi,32,FRA,AM,16-327,1,0,0,0,0,0,0,0,0,1,1,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Lille,2024-08-24 Lille-Angers,FRA-L1,24-25,70fdbb5a
+d595de71,Ethan Mbappé,29,FRA,AM,17-239,67,0,0,0,0,2,1,1,0,40,1,0,4,0.1,0.1,0.0,1,0,22,28,78.6,2,20,0,3,1,Lille,2024-08-24 Lille-Angers,FRA-L1,24-25,70fdbb5a
+148e136f,Rémy Cabella,10,FRA,AM,34-169,23,0,1,0,0,0,0,0,0,21,1,1,0,0.0,0.0,0.3,2,1,15,17,88.2,1,13,0,1,0,Lille,2024-08-24 Lille-Angers,FRA-L1,24-25,70fdbb5a
+e2ae54db,Hákon Arnar Haraldsson,7,ISL,CM,21-136,76,0,1,0,0,2,1,0,0,76,1,0,0,0.2,0.2,0.1,2,1,58,70,82.9,13,54,2,3,3,Lille,2024-08-24 Lille-Angers,FRA-L1,24-25,70fdbb5a
+bb461b8a,Ngal'Ayel Mukau,17,BEL,CM,19-268,14,0,0,0,0,0,0,0,0,6,2,0,0,0.0,0.0,0.0,0,0,4,4,100.0,0,2,0,0,0,Lille,2024-08-24 Lille-Angers,FRA-L1,24-25,70fdbb5a
+ef9c1c95,Benjamin André,21,FRA,CM,34-021,90,0,0,0,0,1,0,0,0,85,3,1,2,0.0,0.0,0.0,1,0,66,81,81.5,9,57,1,1,1,Lille,2024-08-24 Lille-Angers,FRA-L1,24-25,70fdbb5a
+d5d22a58,Gabriel Gudmundsson,5,SWE,WB,25-117,90,0,0,0,0,2,0,0,0,60,4,0,2,0.1,0.1,0.1,2,0,38,47,80.9,3,28,3,2,1,Lille,2024-08-24 Lille-Angers,FRA-L1,24-25,70fdbb5a
+e162b013,Thomas Meunier,12,BEL,WB,32-347,77,1,0,0,0,2,2,0,0,53,0,2,2,0.1,0.1,0.0,1,1,28,43,65.1,1,24,1,2,2,Lille,2024-08-24 Lille-Angers,FRA-L1,24-25,70fdbb5a
+3eeebc87,Tiago Santos,22,POR,WB,22-032,13,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,1,0,5,7,71.4,3,5,1,1,1,Lille,2024-08-24 Lille-Angers,FRA-L1,24-25,70fdbb5a
+102c9665,Alexsandro Ribeiro,4,BRA,CB,25-015,90,0,0,0,0,0,0,0,0,82,2,0,0,0.0,0.0,0.0,1,0,72,80,90.0,11,55,1,0,0,Lille,2024-08-24 Lille-Angers,FRA-L1,24-25,70fdbb5a
+1bfb6fef,Bafodé Diakité,18,FRA,CB,23-231,90,0,0,0,0,0,0,0,0,95,0,0,0,0.0,0.0,0.0,1,0,91,94,96.8,4,67,0,1,1,Lille,2024-08-24 Lille-Angers,FRA-L1,24-25,70fdbb5a
+fbd6378b,Aïssa Mandi,2,ALG,CB,32-307,90,0,0,0,0,0,0,0,0,77,3,1,0,0.0,0.0,0.0,1,1,62,68,91.2,3,48,2,0,0,Lille,2024-08-24 Lille-Angers,FRA-L1,24-25,70fdbb5a
+b3d76d84,Lucas Chevalier,30,FRA,GK,22-292,90,0,0,0,0,0,0,0,0,30,0,0,0,0.0,0.0,0.0,0,0,21,28,75.0,0,12,0,0,0,Lille,2024-08-24 Lille-Angers,FRA-L1,24-25,70fdbb5a
+7978cbf0,Himad Abdelli,10,ALG,"CM,FW",24-281,90,0,0,0,0,1,0,0,0,70,0,2,0,0.0,0.0,0.3,1,0,47,55,85.5,1,47,5,4,0,Angers,2024-08-24 Lille-Angers,FRA-L1,24-25,70fdbb5a
+78430598,Sidiki Cherif,11,FRA,FW,17-253,77,0,0,0,0,1,1,0,0,17,1,0,1,0.3,0.3,0.0,1,0,7,13,53.8,2,10,0,1,1,Angers,2024-08-24 Lille-Angers,FRA-L1,24-25,70fdbb5a
+85ce1949,Esteban Lepaul,19,FRA,FW,24-128,13,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,2,0,0,0,Angers,2024-08-24 Lille-Angers,FRA-L1,24-25,70fdbb5a
+e21d1928,Yassin Belkhdim,14,FRA,"CM,LM",22-192,90,0,0,0,0,1,0,0,0,38,2,1,3,0.0,0.0,0.0,1,0,24,27,88.9,1,25,1,1,0,Angers,2024-08-24 Lille-Angers,FRA-L1,24-25,70fdbb5a
+6b4436ba,Zinédine Ould Khaled,12,FRA,CM,24-223,45,0,0,0,0,0,0,1,0,20,1,0,1,0.0,0.0,0.0,0,0,12,13,92.3,1,10,0,1,0,Angers,2024-08-24 Lille-Angers,FRA-L1,24-25,70fdbb5a
+d21e361a,Farid El Melali,28,ALG,"FW,LW",27-111,45,0,0,0,0,2,1,1,0,18,1,1,0,0.2,0.2,0.0,0,0,5,6,83.3,0,11,1,2,1,Angers,2024-08-24 Lille-Angers,FRA-L1,24-25,70fdbb5a
+79b2399c,Pierrick Capelle,15,FRA,CM,37-131,67,0,0,0,0,0,0,0,0,23,3,1,1,0.0,0.0,0.0,2,0,13,18,72.2,3,12,2,1,0,Angers,2024-08-24 Lille-Angers,FRA-L1,24-25,70fdbb5a
+005c0807,Zinedine Ferhat,20,ALG,"CM,RM",31-176,23,0,0,0,0,0,0,0,0,16,0,0,0,0.0,0.0,0.0,0,0,11,15,73.3,3,14,0,0,0,Angers,2024-08-24 Lille-Angers,FRA-L1,24-25,70fdbb5a
+8d5016e6,Jacques Ekomie,3,GAB,LB,21-005,84,0,0,0,0,1,0,0,0,38,3,0,3,0.0,0.0,0.0,0,0,16,27,59.3,1,16,0,0,0,Angers,2024-08-24 Lille-Angers,FRA-L1,24-25,70fdbb5a
+46faabfa,Ibrahima Niane,7,SEN,RW,25-166,6,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,3,3,100.0,0,3,0,0,0,Angers,2024-08-24 Lille-Angers,FRA-L1,24-25,70fdbb5a
+c3e4ecbb,Jordan Lefort,21,FRA,"CB,LB",31-015,90,0,0,0,0,0,0,0,0,74,2,1,2,0.0,0.0,0.0,0,0,43,57,75.4,2,40,0,1,1,Angers,2024-08-24 Lille-Angers,FRA-L1,24-25,70fdbb5a
+00891164,Cédric Hountondji,22,BEN,CB,30-218,90,0,0,0,0,0,0,0,0,37,2,1,1,0.0,0.0,0.0,1,0,25,27,92.6,0,18,0,0,0,Angers,2024-08-24 Lille-Angers,FRA-L1,24-25,70fdbb5a
+7fecbcdb,Abdoulaye Bamba,25,CIV,CB,34-121,77,0,0,0,0,0,0,0,0,32,1,1,0,0.0,0.0,0.0,0,0,20,23,87.0,1,20,0,0,0,Angers,2024-08-24 Lille-Angers,FRA-L1,24-25,70fdbb5a
+e5a94f46,Emmanuel Biumla,24,FRA,CB,19-108,13,0,0,0,0,0,0,0,0,9,1,0,0,0.0,0.0,0.0,0,0,6,6,100.0,0,6,0,1,0,Angers,2024-08-24 Lille-Angers,FRA-L1,24-25,70fdbb5a
+5e837126,Carlens Arcus,2,HAI,RB,28-057,90,0,0,0,0,0,0,0,0,52,6,1,2,0.0,0.0,0.2,4,0,27,37,73.0,3,28,2,4,2,Angers,2024-08-24 Lille-Angers,FRA-L1,24-25,70fdbb5a
+9d420dad,Yahia Fofana,30,CIV,GK,24-003,90,0,0,0,0,0,0,0,0,37,0,0,0,0.0,0.0,0.0,0,0,25,32,78.1,0,22,0,0,0,Angers,2024-08-24 Lille-Angers,FRA-L1,24-25,70fdbb5a

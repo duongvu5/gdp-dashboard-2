@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+d7d32194,Mattia Destro,10,ITA,FW,26-341,90,1,1,0,0,2,1,1,0,33,1,0,0,0.9,0.9,0.5,3,1,9,22,40.9,3,28,3,0,0,Bologna,2018-02-24 Bologna-Genoa,ITA-SERIA_A,17-18,373d860a
+756959aa,Blerim Džemaili,31,SUI,FW,31-318,90,0,0,0,0,1,0,0,0,39,6,1,0,0.0,0.0,0.0,1,0,20,28,71.4,3,26,1,3,3,Bologna,2018-02-24 Bologna-Genoa,ITA-SERIA_A,17-18,373d860a
+788b31e2,Ádám Nagy,8,HUN,DM,22-252,76,0,0,0,0,0,0,0,0,28,2,0,0,0.0,0.0,0.0,0,0,18,22,81.8,3,17,0,0,0,Bologna,2018-02-24 Bologna-Genoa,ITA-SERIA_A,17-18,373d860a
+384dd218,Godfred Donsah,77,GHA,DM,21-262,14,0,0,0,0,0,0,0,0,7,2,0,1,0.0,0.0,0.0,0,0,4,6,66.7,0,4,0,0,0,Bologna,2018-02-24 Bologna-Genoa,ITA-SERIA_A,17-18,373d860a
+4611e028,Erick Pulgar,5,CHI,DM,24-040,90,0,0,0,0,0,0,0,0,83,5,4,1,0.0,0.0,0.8,5,0,56,69,81.2,5,41,1,0,0,Bologna,2018-02-24 Bologna-Genoa,ITA-SERIA_A,17-18,373d860a
+b3fd7075,Andrea Poli,16,ITA,DM,28-148,61,0,0,0,0,1,0,0,0,48,2,1,4,0.0,0.0,0.0,1,0,32,33,97.0,3,28,1,0,0,Bologna,2018-02-24 Bologna-Genoa,ITA-SERIA_A,17-18,373d860a
+00823e9a,Cesar Falletti,21,URU,DM,25-084,29,1,0,0,0,1,1,0,0,16,1,0,3,0.5,0.5,0.0,0,0,4,8,50.0,0,11,2,2,1,Bologna,2018-02-24 Bologna-Genoa,ITA-SERIA_A,17-18,373d860a
+de0f152c,Adam Masina,25,MAR,WB,24-053,90,0,0,0,0,1,0,0,0,47,3,3,3,0.6,0.6,0.0,2,1,17,27,63.0,0,20,1,1,1,Bologna,2018-02-24 Bologna-Genoa,ITA-SERIA_A,17-18,373d860a
+1fca9171,Federico Di Francesco,14,ITA,WB,23-255,83,0,0,0,0,1,1,1,0,46,0,0,2,0.0,0.0,0.0,1,0,24,33,72.7,1,30,2,3,1,Bologna,2018-02-24 Bologna-Genoa,ITA-SERIA_A,17-18,373d860a
+cfbf9881,Ibrahima Mbaye,15,SEN,WB,23-097,7,0,0,0,0,0,0,0,0,9,1,0,0,0.0,0.0,0.0,0,0,6,6,100.0,0,4,0,0,0,Bologna,2018-02-24 Bologna-Genoa,ITA-SERIA_A,17-18,373d860a
+27f0ddef,Filip Helander,18,SWE,CB,24-308,90,0,0,0,0,0,0,0,0,57,1,2,2,0.0,0.0,0.0,0,0,35,41,85.4,4,30,0,0,0,Bologna,2018-02-24 Bologna-Genoa,ITA-SERIA_A,17-18,373d860a
+09899de8,Simone Romagnoli,26,ITA,CB,28-015,90,0,0,0,0,1,0,0,0,61,3,0,2,0.1,0.1,0.0,1,0,38,44,86.4,2,33,1,0,0,Bologna,2018-02-24 Bologna-Genoa,ITA-SERIA_A,17-18,373d860a
+117beb8f,Giancarlo González,3,CRC,CB,30-016,90,0,0,0,0,0,0,0,0,77,1,2,2,0.0,0.0,0.0,0,0,53,65,81.5,4,39,0,0,0,Bologna,2018-02-24 Bologna-Genoa,ITA-SERIA_A,17-18,373d860a
+30223b33,Antonio Mirante,83,ITA,GK,34-231,90,0,0,0,0,0,0,0,0,37,0,0,0,0.0,0.0,0.0,0,0,29,36,80.6,0,15,0,0,0,Bologna,2018-02-24 Bologna-Genoa,ITA-SERIA_A,17-18,373d860a
+0a1efd3c,Andrey Galabinov,16,BUL,FW,29-089,59,0,0,0,0,2,0,0,0,25,0,0,2,0.1,0.1,0.0,1,0,11,18,61.1,4,12,0,1,0,Genoa,2018-02-24 Bologna-Genoa,ITA-SERIA_A,17-18,373d860a
+97e2aa67,Iuri Medeiros,45,POR,"FW,DM",23-229,31,0,0,0,0,3,0,0,0,20,1,0,0,0.2,0.2,0.1,3,0,12,14,85.7,4,18,1,2,1,Genoa,2018-02-24 Bologna-Genoa,ITA-SERIA_A,17-18,373d860a
+d711d04f,Goran Pandev,19,MKD,FW,34-212,90,0,0,0,0,3,1,0,0,47,0,0,0,0.1,0.1,0.1,7,0,27,33,81.8,8,41,3,3,2,Genoa,2018-02-24 Bologna-Genoa,ITA-SERIA_A,17-18,373d860a
+98e958af,Oscar Hiljemark,88,SWE,DM,25-241,90,0,0,0,0,1,0,0,0,71,1,2,0,0.1,0.1,0.1,7,0,54,67,80.6,11,50,3,1,1,Genoa,2018-02-24 Bologna-Genoa,ITA-SERIA_A,17-18,373d860a
+c75b6a02,Andrea Bertolacci,8,ITA,DM,27-044,90,0,0,0,0,0,0,0,0,68,5,3,0,0.0,0.0,0.0,3,0,46,57,80.7,8,44,5,1,1,Genoa,2018-02-24 Bologna-Genoa,ITA-SERIA_A,17-18,373d860a
+88895312,Daniel Bessa,24,ITA,DM,25-041,52,0,0,0,0,0,0,0,0,25,0,1,0,0.0,0.0,0.0,2,0,14,19,73.7,1,13,0,3,1,Genoa,2018-02-24 Bologna-Genoa,ITA-SERIA_A,17-18,373d860a
+2ead2809,Gianluca Lapadula,10,PER,"DM,FW",28-017,38,0,0,0,0,1,0,0,0,11,0,0,0,0.1,0.1,0.1,2,0,6,10,60.0,1,8,0,0,0,Genoa,2018-02-24 Bologna-Genoa,ITA-SERIA_A,17-18,373d860a
+f26e3c59,Diego Laxalt,93,URU,WB,25-017,90,0,0,0,0,1,0,0,0,76,2,1,1,0.0,0.0,0.0,2,0,41,64,64.1,6,43,0,0,0,Genoa,2018-02-24 Bologna-Genoa,ITA-SERIA_A,17-18,373d860a
+1b729ba2,Aleandro Rosi,20,ITA,WB,30-283,55,0,0,0,0,1,0,0,0,33,0,1,1,0.1,0.1,0.0,0,0,16,23,69.6,1,18,0,2,1,Genoa,2018-02-24 Bologna-Genoa,ITA-SERIA_A,17-18,373d860a
+5128bde4,Darko Lazović,22,SRB,WB,27-162,35,0,0,0,0,1,1,0,0,23,0,0,1,0.1,0.1,0.0,0,0,16,21,76.2,4,11,0,0,0,Genoa,2018-02-24 Bologna-Genoa,ITA-SERIA_A,17-18,373d860a
+1253a12e,Ervin Zukanović,87,BIH,CB,31-013,90,0,0,0,0,1,0,0,0,101,0,3,0,0.1,0.1,0.1,5,0,83,94,88.3,7,67,2,0,0,Genoa,2018-02-24 Bologna-Genoa,ITA-SERIA_A,17-18,373d860a
+9a560ebe,Nicolás Spolli,2,ARG,CB,35-004,90,0,0,0,0,1,0,0,0,78,1,2,1,0.0,0.0,0.0,1,0,63,67,94.0,5,51,0,0,0,Genoa,2018-02-24 Bologna-Genoa,ITA-SERIA_A,17-18,373d860a
+47a500ae,Luca Rossettini,13,ITA,CB,32-291,90,0,0,0,0,2,1,0,0,72,0,1,0,0.1,0.1,0.0,0,0,48,63,76.2,9,46,2,1,0,Genoa,2018-02-24 Bologna-Genoa,ITA-SERIA_A,17-18,373d860a
+4c62d0c8,Mattia Perin,1,ITA,GK,25-106,90,0,0,0,0,0,0,0,0,28,0,0,0,0.0,0.0,0.0,0,0,20,27,74.1,0,17,0,0,0,Genoa,2018-02-24 Bologna-Genoa,ITA-SERIA_A,17-18,373d860a

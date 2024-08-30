@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+5046b7d4,Stéphane Bahoken,19,CMR,FW,26-348,81,0,0,0,0,2,1,0,0,14,1,0,1,0.7,0.7,0.0,2,0,7,11,63.6,1,8,2,0,0,Angers,2019-05-11 Angers-Paris S-G,FRA-L1,18-19,7f4b3e22
+b4c816a9,Wilfried Kanga,11,CIV,FW,21-079,9,0,0,0,0,1,0,0,0,3,0,0,0,0.1,0.1,0.0,1,0,0,1,0.0,0,1,0,0,0,Angers,2019-05-11 Angers-Paris S-G,FRA-L1,18-19,7f4b3e22
+a0f9b535,Flavien Tait,20,FRA,LM,26-098,90,1,0,0,1,4,2,0,0,52,2,0,2,1.0,0.2,1.0,9,1,31,35,88.6,6,35,7,4,2,Angers,2019-05-11 Angers-Paris S-G,FRA-L1,18-19,7f4b3e22
+d504b3e1,Jeff Reine-Adélaïde,22,FRA,CM,21-114,90,0,0,0,0,1,0,0,0,55,0,2,1,0.0,0.0,0.0,1,0,41,45,91.1,4,37,3,3,3,Angers,2019-05-11 Angers-Paris S-G,FRA-L1,18-19,7f4b3e22
+f86ca403,Vincent Pajot,6,FRA,CM,28-265,71,0,0,0,0,1,0,0,0,27,1,1,0,0.1,0.1,0.0,0,0,17,21,81.0,3,13,1,0,0,Angers,2019-05-11 Angers-Paris S-G,FRA-L1,18-19,7f4b3e22
+79b2399c,Pierrick Capelle,15,FRA,CM,32-026,19,0,0,0,0,0,0,0,0,11,1,0,0,0.0,0.0,0.0,3,0,8,9,88.9,1,6,0,2,1,Angers,2019-05-11 Angers-Paris S-G,FRA-L1,18-19,7f4b3e22
+4b96c347,Angelo Fulgini,10,FRA,RM,22-264,60,0,0,0,0,0,0,0,0,38,1,1,0,0.0,0.0,0.1,2,0,22,28,78.6,5,24,0,1,0,Angers,2019-05-11 Angers-Paris S-G,FRA-L1,18-19,7f4b3e22
+d21e361a,Farid El Melali,28,ALG,RM,22-006,30,0,0,0,0,0,0,0,0,12,0,0,0,0.0,0.0,0.0,2,0,7,10,70.0,1,12,1,0,0,Angers,2019-05-11 Angers-Paris S-G,FRA-L1,18-19,7f4b3e22
+5e22e2a4,Baptiste Santamaria,18,FRA,DM,24-063,90,0,0,0,0,0,0,0,0,42,2,3,0,0.0,0.0,0.0,0,0,32,35,91.4,2,25,0,3,2,Angers,2019-05-11 Angers-Paris S-G,FRA-L1,18-19,7f4b3e22
+97fb4608,Théo Pellenard,26,FRA,LB,25-068,90,0,0,0,0,0,0,0,0,53,3,0,0,0.0,0.0,0.2,2,0,39,43,90.7,6,34,8,1,0,Angers,2019-05-11 Angers-Paris S-G,FRA-L1,18-19,7f4b3e22
+450e277f,Mateo Pavlović,4,BIH,CB,28-336,90,0,0,0,0,0,0,0,0,42,0,1,1,0.0,0.0,0.0,0,0,33,34,97.1,1,23,0,1,1,Angers,2019-05-11 Angers-Paris S-G,FRA-L1,18-19,7f4b3e22
+b666421b,Ismaël Traoré,8,CIV,CB,32-266,90,0,0,0,0,3,0,0,0,42,0,2,0,0.4,0.4,0.0,1,0,33,36,91.7,1,28,1,0,0,Angers,2019-05-11 Angers-Paris S-G,FRA-L1,18-19,7f4b3e22
+c26a3918,Vincent Manceau,29,FRA,RB,29-305,90,0,0,0,0,1,0,0,0,64,6,0,0,0.0,0.0,0.0,1,0,48,57,84.2,9,30,4,2,2,Angers,2019-05-11 Angers-Paris S-G,FRA-L1,18-19,7f4b3e22
+26975a92,Ludovic Butelle,16,FRA,GK,36-038,90,0,0,0,0,0,0,0,0,31,0,0,0,0.0,0.0,0.0,0,0,19,28,67.9,0,11,0,0,0,Angers,2019-05-11 Angers-Paris S-G,FRA-L1,18-19,7f4b3e22
+69384e5d,Neymar,10,BRA,"FW,LW",27-095,89,1,1,0,0,2,1,0,0,90,2,0,1,0.4,0.4,0.1,5,3,64,75,85.3,15,62,10,8,4,Paris Saint-Germain,2019-05-11 Angers-Paris S-G,FRA-L1,18-19,7f4b3e22
+0e6bc38c,Eric Maxim Choupo-Moting,17,CMR,RM,30-049,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Paris Saint-Germain,2019-05-11 Angers-Paris S-G,FRA-L1,18-19,7f4b3e22
+527f063d,Edinson Cavani,9,URU,FW,32-086,90,0,0,0,0,2,1,0,0,31,2,1,1,0.3,0.3,0.0,1,0,16,19,84.2,0,10,0,1,1,Paris Saint-Germain,2019-05-11 Angers-Paris S-G,FRA-L1,18-19,7f4b3e22
+19cda00b,Ángel Di María,11,ARG,"AM,RW",31-086,76,1,0,0,0,3,1,0,0,40,0,0,0,0.1,0.1,0.1,1,0,25,31,80.6,2,21,1,1,0,Paris Saint-Germain,2019-05-11 Angers-Paris S-G,FRA-L1,18-19,7f4b3e22
+1a992676,Julian Draxler,23,GER,"RM,LM",25-233,14,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,6,7,85.7,2,5,0,0,0,Paris Saint-Germain,2019-05-11 Angers-Paris S-G,FRA-L1,18-19,7f4b3e22
+c9e99e49,Dani Alves,13,BRA,AM,36-005,69,0,1,0,0,1,0,0,0,61,0,0,0,0.1,0.1,0.5,3,1,47,57,82.5,4,41,1,1,1,Paris Saint-Germain,2019-05-11 Angers-Paris S-G,FRA-L1,18-19,7f4b3e22
+41e7ef1c,Layvin Kurzawa,20,FRA,LB,26-249,21,0,0,0,0,0,0,0,0,10,1,0,0,0.0,0.0,0.0,0,0,9,9,100.0,0,3,0,0,0,Paris Saint-Germain,2019-05-11 Angers-Paris S-G,FRA-L1,18-19,7f4b3e22
+dff153a4,Leandro Paredes,8,ARG,"DM,RM,CB",24-316,90,0,0,0,0,0,0,0,0,116,4,1,1,0.0,0.0,0.0,1,0,101,110,91.8,6,68,0,1,1,Paris Saint-Germain,2019-05-11 Angers-Paris S-G,FRA-L1,18-19,7f4b3e22
+1467af0d,Marco Verratti,6,ITA,"DM,CM,RM",26-187,90,0,0,0,0,0,0,0,0,138,4,0,1,0.0,0.0,0.0,2,0,120,127,94.5,13,86,2,2,2,Paris Saint-Germain,2019-05-11 Angers-Paris S-G,FRA-L1,18-19,7f4b3e22
+433dc9a2,Juan Bernat,14,ESP,"LB,LM,CM",26-071,90,0,0,0,0,0,0,0,0,55,2,1,1,0.0,0.0,0.0,0,0,43,46,93.5,1,30,0,0,0,Paris Saint-Germain,2019-05-11 Angers-Paris S-G,FRA-L1,18-19,7f4b3e22
+d5f2f82b,Marquinhos,5,BRA,CB,24-362,84,0,0,0,0,0,0,0,1,73,0,0,2,0.0,0.0,0.0,0,0,66,72,91.7,5,41,0,0,0,Paris Saint-Germain,2019-05-11 Angers-Paris S-G,FRA-L1,18-19,7f4b3e22
+8f534f8e,Loïc Mbe Soh,36,FRA,CB,17-332,90,0,0,0,0,0,0,0,0,62,0,1,0,0.0,0.0,0.0,0,0,53,56,94.6,2,32,0,0,0,Paris Saint-Germain,2019-05-11 Angers-Paris S-G,FRA-L1,18-19,7f4b3e22
+29c02c9f,Colin Dagba,31,FRA,RB,20-244,90,0,0,0,0,0,0,0,0,45,2,0,1,0.0,0.0,0.1,1,0,33,39,84.6,0,19,2,3,2,Paris Saint-Germain,2019-05-11 Angers-Paris S-G,FRA-L1,18-19,7f4b3e22
+e40d028b,Gianluigi Buffon,1,ITA,GK,41-103,90,0,0,0,0,0,0,0,0,34,0,0,0,0.0,0.0,0.0,1,0,30,31,96.8,0,10,0,0,0,Paris Saint-Germain,2019-05-11 Angers-Paris S-G,FRA-L1,18-19,7f4b3e22

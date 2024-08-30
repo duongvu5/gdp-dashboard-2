@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+04bb2b06,Ibrahima Koné,9,MLI,FW,22-296,87,2,0,0,0,2,2,0,0,25,1,0,0,0.7,0.7,0.4,6,1,10,15,66.7,2,22,2,3,2,Lorient,2022-04-08 Lorient-Saint-Étienne,FRA-L1,21-22,f3506ad4
+7cc00776,Sambou Soumano,22,SEN,FW,21-095,3,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Lorient,2022-04-08 Lorient-Saint-Étienne,FRA-L1,21-22,f3506ad4
+2d22cea7,Armand Lauriente,28,FRA,LW,23-125,77,0,1,0,0,3,3,0,0,31,2,0,3,0.1,0.1,0.5,5,1,16,23,69.6,1,24,0,1,1,Lorient,2022-04-08 Lorient-Saint-Étienne,FRA-L1,21-22,f3506ad4
+2f9e4435,Dango Ouattara,38,BFA,LW,20-056,13,0,1,0,0,1,1,0,0,3,0,0,0,0.0,0.0,0.4,1,1,2,2,100.0,0,2,0,0,0,Lorient,2022-04-08 Lorient-Saint-Étienne,FRA-L1,21-22,f3506ad4
+065dc209,Terem Moffi,13,NGA,RW,22-318,90,2,1,1,1,4,2,1,0,28,1,1,0,1.5,0.7,0.5,3,2,10,15,66.7,5,20,2,0,0,Lorient,2022-04-08 Lorient-Saint-Étienne,FRA-L1,21-22,f3506ad4
+31626657,Laurent Abergel,6,FRA,LM,29-066,87,0,0,0,0,0,0,0,0,63,5,2,3,0.0,0.0,0.0,4,2,34,45,75.6,10,45,0,1,0,Lorient,2022-04-08 Lorient-Saint-Étienne,FRA-L1,21-22,f3506ad4
+54d51e22,Fabien Lemoine,18,FRA,LM,35-023,3,0,0,0,0,0,0,0,0,5,1,0,0,0.0,0.0,0.0,0,0,5,5,100.0,0,5,0,0,0,Lorient,2022-04-08 Lorient-Saint-Étienne,FRA-L1,21-22,f3506ad4
+84d94b91,Thomas Monconduit,23,FRA,CM,31-057,90,0,0,0,0,1,0,0,0,49,0,0,1,0.0,0.0,0.1,2,0,35,42,83.3,4,28,0,2,1,Lorient,2022-04-08 Lorient-Saint-Étienne,FRA-L1,21-22,f3506ad4
+6f806d99,Enzo Le Fée,10,FRA,RM,22-064,72,1,0,0,0,2,1,1,0,45,3,3,1,0.5,0.5,0.0,4,2,19,26,73.1,2,30,2,6,3,Lorient,2022-04-08 Lorient-Saint-Étienne,FRA-L1,21-22,f3506ad4
+f6496133,Quentin Boisgard,11,FRA,RM,25-022,18,1,1,0,0,1,1,0,0,9,0,0,1,0.4,0.4,0.2,1,1,5,7,71.4,1,7,0,0,0,Lorient,2022-04-08 Lorient-Saint-Étienne,FRA-L1,21-22,f3506ad4
+2321ea6e,Vincent Le Goff,25,FRA,LB,32-175,90,0,0,0,0,0,0,0,0,73,2,0,0,0.0,0.0,0.0,3,0,52,64,81.3,9,45,4,1,1,Lorient,2022-04-08 Lorient-Saint-Étienne,FRA-L1,21-22,f3506ad4
+00638016,Léo Pétrot,19,FRA,CB,24-358,90,0,0,0,0,1,1,0,0,49,3,0,2,0.1,0.1,0.0,0,0,31,39,79.5,3,29,0,0,0,Lorient,2022-04-08 Lorient-Saint-Étienne,FRA-L1,21-22,f3506ad4
+f066022d,Julien Laporte,15,FRA,CB,28-155,90,0,0,0,0,2,0,0,0,38,2,0,1,0.4,0.4,0.0,0,0,23,31,74.2,1,23,0,2,2,Lorient,2022-04-08 Lorient-Saint-Étienne,FRA-L1,21-22,f3506ad4
+1545cf15,Houboulang Mendes,17,GNB,RB,23-339,90,0,1,0,0,0,0,0,0,46,2,1,0,0.0,0.0,0.5,4,2,30,39,76.9,1,24,1,0,0,Lorient,2022-04-08 Lorient-Saint-Étienne,FRA-L1,21-22,f3506ad4
+fbf83734,Matthieu Dreyer,1,FRA,GK,33-019,90,0,0,0,0,0,0,0,0,17,0,0,0,0.0,0.0,0.0,0,0,10,16,62.5,0,9,0,0,0,Lorient,2022-04-08 Lorient-Saint-Étienne,FRA-L1,21-22,f3506ad4
+0b0cbe5b,Denis Bouanga,20,GAB,"FW,LM",27-148,90,1,0,0,0,3,1,0,0,38,2,1,0,0.5,0.5,0.0,2,0,16,22,72.7,2,24,2,8,4,Saint-Étienne,2022-04-08 Lorient-Saint-Étienne,FRA-L1,21-22,f3506ad4
+7b9a9e25,Arnaud Nordin,18,FRA,"FW,RM",23-295,90,1,0,0,0,4,2,0,0,31,2,1,0,0.3,0.3,0.0,4,2,17,18,94.4,1,30,6,6,3,Saint-Étienne,2022-04-08 Lorient-Saint-Étienne,FRA-L1,21-22,f3506ad4
+1001ae82,Ryad Boudebouz,7,ALG,"AM,CM",32-048,90,0,1,0,0,1,1,0,0,75,2,0,1,0.0,0.0,0.2,6,1,49,63,77.8,7,58,4,7,6,Saint-Étienne,2022-04-08 Lorient-Saint-Étienne,FRA-L1,21-22,f3506ad4
+3cd7820a,Lucas Gourna-Douath,6,FRA,CM,18-246,69,0,0,0,0,0,0,0,0,45,3,2,3,0.0,0.0,0.0,1,0,29,32,90.6,4,30,1,1,0,Saint-Étienne,2022-04-08 Lorient-Saint-Étienne,FRA-L1,21-22,f3506ad4
+e2f9bb5f,Zaydou Youssouf,28,FRA,CM,22-271,21,0,0,0,0,1,0,0,0,16,0,0,0,0.0,0.0,0.1,2,0,14,15,93.3,2,15,0,0,0,Saint-Étienne,2022-04-08 Lorient-Saint-Étienne,FRA-L1,21-22,f3506ad4
+b94b8be1,Adil Aouchiche,17,FRA,CM,19-267,61,0,0,0,0,0,0,0,0,45,1,1,1,0.0,0.0,0.2,2,0,33,36,91.7,3,32,0,4,2,Saint-Étienne,2022-04-08 Lorient-Saint-Étienne,FRA-L1,21-22,f3506ad4
+0ad37003,Yvan Neyou,19,CMR,CM,25-095,6,0,0,0,0,0,0,2,1,4,0,0,0,0.0,0.0,0.0,1,0,4,4,100.0,0,3,0,0,0,Saint-Étienne,2022-04-08 Lorient-Saint-Étienne,FRA-L1,21-22,f3506ad4
+ab096c6f,Timothée Kolodziejczak,5,FRA,WB,30-189,62,0,1,0,0,0,0,1,0,39,0,0,2,0.0,0.0,0.4,1,1,24,34,70.6,1,25,0,0,0,Saint-Étienne,2022-04-08 Lorient-Saint-Étienne,FRA-L1,21-22,f3506ad4
+e4b72e34,Miguel Trauco,13,PER,"LB,WB",29-226,28,0,0,0,0,1,0,0,0,17,0,0,0,0.0,0.0,0.0,1,0,13,16,81.3,0,13,0,0,0,Saint-Étienne,2022-04-08 Lorient-Saint-Étienne,FRA-L1,21-22,f3506ad4
+f4bc42b1,Sada Thioub,9,SEN,WB,26-311,69,0,0,0,0,0,0,0,0,46,0,0,1,0.0,0.0,0.0,1,0,31,40,77.5,4,36,3,1,0,Saint-Étienne,2022-04-08 Lorient-Saint-Étienne,FRA-L1,21-22,f3506ad4
+4914ed4a,Gabriel Silva,11,BRA,RB,30-330,21,0,0,0,0,0,0,0,0,13,1,0,0,0.0,0.0,0.0,0,0,8,10,80.0,0,9,0,0,0,Saint-Étienne,2022-04-08 Lorient-Saint-Étienne,FRA-L1,21-22,f3506ad4
+a6b6fa6e,Mickael Nade,3,FRA,CB,23-035,90,0,0,0,0,0,0,1,0,42,0,2,0,0.0,0.0,0.0,1,0,30,36,83.3,1,27,0,3,2,Saint-Étienne,2022-04-08 Lorient-Saint-Étienne,FRA-L1,21-22,f3506ad4
+f520049f,Eliaquim Mangala,22,FRA,CB,31-054,69,0,0,0,0,0,0,1,0,40,0,2,0,0.0,0.0,0.0,0,0,29,37,78.4,1,29,0,0,0,Saint-Étienne,2022-04-08 Lorient-Saint-Étienne,FRA-L1,21-22,f3506ad4
+381d7d54,Bakary Sako,26,MLI,FW,33-347,21,0,0,0,0,2,0,0,0,10,0,0,0,0.1,0.1,0.0,1,0,5,7,71.4,0,4,0,0,0,Saint-Étienne,2022-04-08 Lorient-Saint-Étienne,FRA-L1,21-22,f3506ad4
+5f26e0c5,Harold Moukoudi,2,CMR,CB,24-132,90,0,0,0,0,1,0,0,0,62,1,3,0,0.0,0.0,0.0,1,0,48,55,87.3,2,50,0,2,1,Saint-Étienne,2022-04-08 Lorient-Saint-Étienne,FRA-L1,21-22,f3506ad4
+28dabd43,Paul Bernardoni,50,FRA,GK,24-355,90,0,0,0,0,0,0,0,0,33,0,0,0,0.0,0.0,0.0,0,0,18,28,64.3,0,19,0,0,0,Saint-Étienne,2022-04-08 Lorient-Saint-Étienne,FRA-L1,21-22,f3506ad4

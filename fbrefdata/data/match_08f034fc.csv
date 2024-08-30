@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+e468c053,Gervinho,27,CIV,FW,33-242,90,0,0,0,0,2,1,0,0,41,0,0,1,0.1,0.1,0.1,4,0,26,31,83.9,5,26,3,8,3,Parma,2021-01-24 Parma-Sampdoria,ITA-SERIA_A,20-21,08f034fc
+c693347d,Andreas Cornelius,11,DEN,FW,27-314,90,0,0,0,0,0,0,0,0,28,0,0,0,0.0,0.0,0.0,1,0,14,24,58.3,4,16,0,1,1,Parma,2021-01-24 Parma-Sampdoria,ITA-SERIA_A,20-21,08f034fc
+5aaef9ef,Juraj Kucka,33,SVK,"LM,AM",33-333,90,0,0,0,0,6,2,1,0,55,2,2,1,0.2,0.2,0.0,2,0,30,40,75.0,6,35,1,3,1,Parma,2021-01-24 Parma-Sampdoria,ITA-SERIA_A,20-21,08f034fc
+6f5ead86,Hernani,23,BRA,LM,26-303,45,0,0,0,0,0,0,0,0,33,1,1,1,0.0,0.0,0.0,0,0,22,28,78.6,4,22,1,2,2,Parma,2021-01-24 Parma-Sampdoria,ITA-SERIA_A,20-21,08f034fc
+8b66d9cc,Yann Karamoh,10,FRA,AM,22-200,34,0,0,0,0,0,0,0,0,18,2,0,0,0.0,0.0,0.0,2,0,10,13,76.9,0,10,1,1,0,Parma,2021-01-24 Parma-Sampdoria,ITA-SERIA_A,20-21,08f034fc
+81a4c239,Valentin Mihaila,28,ROU,AM,20-357,11,0,0,0,0,0,0,0,0,9,0,0,1,0.0,0.0,0.0,0,0,3,8,37.5,0,4,1,0,0,Parma,2021-01-24 Parma-Sampdoria,ITA-SERIA_A,20-21,08f034fc
+144607cc,Jasmin Kurtić,14,SVN,CM,32-014,90,0,0,0,0,1,0,0,0,82,3,1,1,0.0,0.0,0.0,3,0,66,76,86.8,7,47,0,1,1,Parma,2021-01-24 Parma-Sampdoria,ITA-SERIA_A,20-21,08f034fc
+6cc97b6a,Alberto Grassi,8,ITA,RM,25-323,65,0,0,0,0,0,0,0,0,36,0,1,1,0.0,0.0,0.0,3,0,20,30,66.7,1,17,2,1,1,Parma,2021-01-24 Parma-Sampdoria,ITA-SERIA_A,20-21,08f034fc
+e947ee4a,Gastón Brugman,15,URU,RM,28-139,25,0,0,0,0,1,1,0,0,22,1,0,2,0.0,0.0,0.0,1,0,12,15,80.0,2,13,0,0,0,Parma,2021-01-24 Parma-Sampdoria,ITA-SERIA_A,20-21,08f034fc
+149c5f5d,Giuseppe Pezzella,3,ITA,LB,23-056,85,0,0,0,0,0,0,0,0,65,0,1,1,0.0,0.0,0.0,3,0,38,53,71.7,3,38,7,3,2,Parma,2021-01-24 Parma-Sampdoria,ITA-SERIA_A,20-21,08f034fc
+cfb38237,Giacomo Ricci,31,ITA,LB,24-144,5,0,0,0,0,0,0,0,0,6,1,0,1,0.0,0.0,0.0,0,0,1,1,100.0,1,2,0,0,0,Parma,2021-01-24 Parma-Sampdoria,ITA-SERIA_A,20-21,08f034fc
+173061c0,Riccardo Gagliolo,7,SWE,CB,30-271,90,0,0,0,0,0,0,0,0,74,1,3,1,0.0,0.0,0.0,0,0,58,66,87.9,7,42,5,2,2,Parma,2021-01-24 Parma-Sampdoria,ITA-SERIA_A,20-21,08f034fc
+63071a3f,Simone Iacoponi,2,ITA,CB,33-269,90,0,0,0,0,0,0,0,0,60,0,0,2,0.0,0.0,0.0,0,0,53,58,91.4,4,40,1,0,0,Parma,2021-01-24 Parma-Sampdoria,ITA-SERIA_A,20-21,08f034fc
+8fef5412,Andrea Conti,5,ITA,RB,26-328,90,0,0,0,0,1,1,0,0,69,2,5,1,0.1,0.1,0.0,1,0,45,55,81.8,5,26,1,0,0,Parma,2021-01-24 Parma-Sampdoria,ITA-SERIA_A,20-21,08f034fc
+343f753a,Luigi Sepe,1,ITA,GK,29-261,90,0,0,0,0,0,0,0,0,33,0,0,0,0.0,0.0,0.0,1,0,28,31,90.3,0,18,0,0,0,Parma,2021-01-24 Parma-Sampdoria,ITA-SERIA_A,20-21,08f034fc
+ee4f2f3b,Fabio Quagliarella,27,ITA,FW,37-359,69,0,0,0,0,1,0,0,0,23,3,2,1,0.0,0.0,0.0,0,0,8,14,57.1,2,15,1,2,1,Sampdoria,2021-01-24 Parma-Sampdoria,ITA-SERIA_A,20-21,08f034fc
+bf39bdec,Ernesto Torregrossa,9,VEN,FW,28-210,21,0,0,0,0,0,0,0,0,11,0,0,1,0.0,0.0,0.0,2,0,7,8,87.5,0,7,1,1,1,Sampdoria,2021-01-24 Parma-Sampdoria,ITA-SERIA_A,20-21,08f034fc
+509a4ccb,Keita Baldé,10,SEN,FW,25-322,57,1,0,0,0,3,1,1,0,28,1,0,0,0.7,0.7,0.0,3,2,16,22,72.7,0,23,1,4,3,Sampdoria,2021-01-24 Parma-Sampdoria,ITA-SERIA_A,20-21,08f034fc
+215f3907,Mikkel Damsgaard,38,DEN,LM,20-205,33,0,0,0,0,1,1,0,0,21,1,0,0,0.1,0.1,0.1,1,0,14,19,73.7,3,19,2,3,3,Sampdoria,2021-01-24 Parma-Sampdoria,ITA-SERIA_A,20-21,08f034fc
+2c851997,Gastón Ramírez,11,URU,"AM,FW",30-053,69,0,1,0,0,0,0,0,0,38,2,1,2,0.0,0.0,0.3,2,1,24,33,72.7,3,29,2,0,0,Sampdoria,2021-01-24 Parma-Sampdoria,ITA-SERIA_A,20-21,08f034fc
+33ecf462,Valerio Verre,8,ITA,FW,27-013,21,0,0,0,0,2,0,0,0,23,0,0,2,0.1,0.1,0.0,1,0,9,16,56.3,2,20,2,0,0,Sampdoria,2021-01-24 Parma-Sampdoria,ITA-SERIA_A,20-21,08f034fc
+d1b49282,Morten Thorsby,18,NOR,"LM,CM",24-264,90,0,0,0,0,0,0,0,0,51,2,2,1,0.0,0.0,0.1,1,0,34,40,85.0,3,31,3,1,1,Sampdoria,2021-01-24 Parma-Sampdoria,ITA-SERIA_A,20-21,08f034fc
+d6f88a1d,Adrien Silva,5,POR,CM,31-315,81,0,0,0,0,1,0,0,0,61,1,4,0,0.0,0.0,0.0,1,0,49,53,92.5,9,45,2,3,3,Sampdoria,2021-01-24 Parma-Sampdoria,ITA-SERIA_A,20-21,08f034fc
+f503ea63,Albin Ekdal,6,SWE,CM,31-180,9,0,0,0,0,0,0,0,0,10,0,0,1,0.0,0.0,0.0,0,0,8,8,100.0,0,8,0,0,0,Sampdoria,2021-01-24 Parma-Sampdoria,ITA-SERIA_A,20-21,08f034fc
+356c9002,Antonio Candreva,87,ITA,RM,33-331,81,0,0,0,0,1,0,0,0,75,0,1,0,0.0,0.0,0.0,5,0,53,69,76.8,7,61,3,3,1,Sampdoria,2021-01-24 Parma-Sampdoria,ITA-SERIA_A,20-21,08f034fc
+1ea5f91c,Jakub Jankto,14,CZE,RM,25-005,9,0,0,0,0,0,0,0,0,11,1,2,0,0.0,0.0,0.0,0,0,6,7,85.7,0,6,1,1,1,Sampdoria,2021-01-24 Parma-Sampdoria,ITA-SERIA_A,20-21,08f034fc
+3cd3b384,Tommaso Augello,3,ITA,LB,26-147,90,0,0,0,0,0,0,0,0,82,1,0,0,0.0,0.0,0.4,3,1,55,74,74.3,4,58,7,0,0,Sampdoria,2021-01-24 Parma-Sampdoria,ITA-SERIA_A,20-21,08f034fc
+8b95acda,Omar Colley,15,GAM,CB,28-092,90,0,0,0,0,1,0,0,0,49,1,0,1,0.1,0.1,0.0,0,0,34,40,85.0,3,37,1,0,0,Sampdoria,2021-01-24 Parma-Sampdoria,ITA-SERIA_A,20-21,08f034fc
+caffaf5a,Maya Yoshida,22,JPN,CB,32-153,90,1,0,0,0,1,1,0,0,47,0,3,1,0.7,0.7,0.0,0,0,33,36,91.7,2,31,0,0,0,Sampdoria,2021-01-24 Parma-Sampdoria,ITA-SERIA_A,20-21,08f034fc
+61b3978f,Bartosz Bereszyński,24,POL,RB,28-196,90,0,0,0,0,0,0,0,0,48,4,1,1,0.0,0.0,0.0,0,0,29,38,76.3,2,25,0,0,0,Sampdoria,2021-01-24 Parma-Sampdoria,ITA-SERIA_A,20-21,08f034fc
+649b01d8,Emil Audero,1,ITA,GK,24-006,90,0,0,0,0,0,0,0,0,31,1,0,0,0.0,0.0,0.0,0,0,22,27,81.5,0,16,0,0,0,Sampdoria,2021-01-24 Parma-Sampdoria,ITA-SERIA_A,20-21,08f034fc

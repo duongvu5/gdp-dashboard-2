@@ -1,0 +1,32 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+00459419,Marko Arnautović,9,AUT,FW,32-226,16,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,1,0,3,9,33.3,0,3,1,0,0,Bologna,2021-12-01 Bologna-Roma,ITA-SERIA_A,21-22,a1d2e757
+7eb97a8e,Nicola Sansone,10,ITA,AM,30-082,74,0,0,0,0,1,0,1,0,36,1,1,0,0.0,0.0,0.0,1,0,20,26,76.9,2,20,1,2,0,Bologna,2021-12-01 Bologna-Roma,ITA-SERIA_A,21-22,a1d2e757
+e5bf73f3,Musa Barrow,99,GAM,"FW,AM",23-017,89,0,0,0,0,1,1,0,0,27,1,0,2,0.0,0.0,0.0,0,0,15,18,83.3,0,18,2,1,0,Bologna,2021-12-01 Bologna-Roma,ITA-SERIA_A,21-22,a1d2e757
+e14ec482,Riccardo Orsolini,7,ITA,FW,24-311,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Bologna,2021-12-01 Bologna-Roma,ITA-SERIA_A,21-22,a1d2e757
+9d4c45d6,Roberto Soriano,21,ITA,AM,30-296,90,0,0,0,0,1,0,1,0,49,1,2,0,0.0,0.0,0.1,2,0,31,42,73.8,3,32,3,0,0,Bologna,2021-12-01 Bologna-Roma,ITA-SERIA_A,21-22,a1d2e757
+92d83c27,Mattias Svanberg,32,SWE,CM,22-330,90,1,0,0,0,1,1,0,0,52,0,2,2,0.0,0.0,0.0,2,0,31,42,73.8,5,17,2,0,0,Bologna,2021-12-01 Bologna-Roma,ITA-SERIA_A,21-22,a1d2e757
+20b3a502,Nicolás Domínguez,8,ARG,CM,23-156,89,0,1,0,0,0,0,0,0,59,1,2,2,0.0,0.0,0.1,3,1,39,48,81.3,5,30,0,1,1,Bologna,2021-12-01 Bologna-Roma,ITA-SERIA_A,21-22,a1d2e757
+ec5dae45,Emanuel Vignato,55,ITA,CM,21-099,1,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,2,0,0,0,Bologna,2021-12-01 Bologna-Roma,ITA-SERIA_A,21-22,a1d2e757
+1780bb4a,Aaron Hickey,3,SCO,WB,19-174,90,0,0,0,0,0,0,0,0,43,1,0,2,0.0,0.0,0.0,0,0,23,32,71.9,2,17,1,5,3,Bologna,2021-12-01 Bologna-Roma,ITA-SERIA_A,21-22,a1d2e757
+c50cee19,Andreas Skov Olsen,11,DEN,WB,21-337,79,0,0,0,0,2,1,0,0,40,2,0,1,0.1,0.1,0.0,0,0,24,33,72.7,1,20,4,1,0,Bologna,2021-12-01 Bologna-Roma,ITA-SERIA_A,21-22,a1d2e757
+e74f0e59,Lorenzo De Silvestri,29,ITA,WB,33-192,11,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,1,6,16.7,1,2,0,0,0,Bologna,2021-12-01 Bologna-Roma,ITA-SERIA_A,21-22,a1d2e757
+df8d6029,Arthur Theate,6,BEL,CB,21-190,90,0,0,0,0,0,0,0,0,54,2,4,0,0.0,0.0,0.0,0,0,35,46,76.1,3,28,2,1,1,Bologna,2021-12-01 Bologna-Roma,ITA-SERIA_A,21-22,a1d2e757
+563a68ad,Gary Medel,17,CHI,CB,34-120,90,0,0,0,0,0,0,0,0,56,1,1,0,0.0,0.0,0.0,0,0,46,48,95.8,2,29,1,2,2,Bologna,2021-12-01 Bologna-Roma,ITA-SERIA_A,21-22,a1d2e757
+7b075c75,Adama Soumaoro,5,FRA,CB,29-166,90,0,0,0,0,0,0,0,0,42,0,1,0,0.0,0.0,0.0,3,1,33,36,91.7,2,23,0,1,0,Bologna,2021-12-01 Bologna-Roma,ITA-SERIA_A,21-22,a1d2e757
+ab4449d6,Łukasz Skorupski,28,POL,GK,30-210,90,0,0,0,0,0,0,1,0,38,0,0,0,0.0,0.0,0.0,0,0,24,32,75.0,0,16,0,0,0,Bologna,2021-12-01 Bologna-Roma,ITA-SERIA_A,21-22,a1d2e757
+f586779e,Tammy Abraham,9,ENG,FW,24-060,90,0,0,0,0,4,2,1,0,29,1,0,0,0.4,0.4,0.2,2,0,17,19,89.5,2,17,3,1,0,Roma,2021-12-01 Bologna-Roma,ITA-SERIA_A,21-22,a1d2e757
+9907b1c8,Nicolò Zaniolo,22,ITA,FW,22-152,90,0,0,0,0,3,1,1,0,30,2,0,1,0.1,0.1,0.0,1,0,13,17,76.5,1,23,6,2,1,Roma,2021-12-01 Bologna-Roma,ITA-SERIA_A,21-22,a1d2e757
+d3aaad90,Stephan El Shaarawy,92,ITA,LW,29-035,51,0,0,0,0,1,0,0,0,49,0,1,2,0.0,0.0,0.1,4,0,34,40,85.0,3,27,2,3,2,Roma,2021-12-01 Bologna-Roma,ITA-SERIA_A,21-22,a1d2e757
+57469b2d,Eldor Shomurodov,14,UZB,"AM,LW",26-155,39,0,0,0,0,0,0,0,0,14,0,1,0,0.0,0.0,0.0,1,0,7,12,58.3,2,10,1,0,0,Roma,2021-12-01 Bologna-Roma,ITA-SERIA_A,21-22,a1d2e757
+9f84febe,Rick Karsdorp,2,NED,"RW,RB",26-293,90,0,0,0,0,0,0,1,0,76,2,2,0,0.0,0.0,0.2,5,0,54,67,80.6,6,45,3,1,0,Roma,2021-12-01 Bologna-Roma,ITA-SERIA_A,21-22,a1d2e757
+dd0daf32,Henrikh Mkhitaryan,77,ARM,"CM,DM",32-314,90,0,0,0,0,4,2,0,0,61,2,0,0,0.3,0.3,0.0,2,0,41,49,83.7,3,37,4,0,0,Roma,2021-12-01 Bologna-Roma,ITA-SERIA_A,21-22,a1d2e757
+4a56052c,Jordan Veretout,17,FRA,"CM,DM",28-275,63,0,0,0,0,1,0,0,0,46,3,0,2,0.0,0.0,0.0,1,0,25,36,69.4,4,17,1,0,0,Roma,2021-12-01 Bologna-Roma,ITA-SERIA_A,21-22,a1d2e757
+16657b95,Bryan Cristante,4,ITA,DM,26-273,27,0,0,0,0,0,0,0,0,23,1,0,0,0.0,0.0,0.1,2,0,16,20,80.0,6,13,0,0,0,Roma,2021-12-01 Bologna-Roma,ITA-SERIA_A,21-22,a1d2e757
+bf309d24,Amadou Diawara,42,GUI,DM,24-137,45,0,0,0,0,0,0,0,0,25,2,0,1,0.0,0.0,0.0,1,0,21,22,95.5,1,11,0,0,0,Roma,2021-12-01 Bologna-Roma,ITA-SERIA_A,21-22,a1d2e757
+a8f21b9f,Carles Pérez,11,ESP,"CM,AM",23-288,45,0,0,0,0,0,0,1,0,23,2,0,1,0.0,0.0,0.0,1,0,15,18,83.3,0,16,1,1,1,Roma,2021-12-01 Bologna-Roma,ITA-SERIA_A,21-22,a1d2e757
+82efe6fa,Roger Ibanez,3,BRA,CB,23-008,90,0,0,0,0,0,0,0,0,105,1,2,1,0.0,0.0,0.0,1,0,85,95,89.5,5,77,4,1,0,Roma,2021-12-01 Bologna-Roma,ITA-SERIA_A,21-22,a1d2e757
+b6964eb6,Chris Smalling,6,ENG,CB,32-009,90,0,0,0,0,0,0,0,0,72,3,2,1,0.0,0.0,0.0,0,0,56,60,93.3,2,45,0,0,0,Roma,2021-12-01 Bologna-Roma,ITA-SERIA_A,21-22,a1d2e757
+5aa53281,Gianluca Mancini,23,ITA,CB,25-228,72,0,0,0,0,0,0,0,0,68,1,1,1,0.0,0.0,0.0,2,0,49,60,81.7,4,51,2,1,1,Roma,2021-12-01 Bologna-Roma,ITA-SERIA_A,21-22,a1d2e757
+08eb3b58,Matías Viña,5,URU,LB,24-022,18,0,0,0,0,0,0,0,0,22,0,1,0,0.0,0.0,0.0,1,0,11,16,68.8,1,13,2,0,0,Roma,2021-12-01 Bologna-Roma,ITA-SERIA_A,21-22,a1d2e757
+79b0d6a0,Rui Patrício,1,POR,GK,33-289,90,0,0,0,0,0,0,0,0,29,0,0,0,0.0,0.0,0.0,0,0,26,29,89.7,0,24,0,0,0,Roma,2021-12-01 Bologna-Roma,ITA-SERIA_A,21-22,a1d2e757

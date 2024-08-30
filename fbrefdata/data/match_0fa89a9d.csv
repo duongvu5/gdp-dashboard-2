@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+08aa9cd1,Andrea Pinamonti,99,ITA,FW,22-270,90,1,0,0,0,4,1,0,0,29,1,0,1,0.4,0.4,0.0,1,0,13,17,76.5,4,18,0,0,0,Empoli,2022-02-13 Empoli-Cagliari,ITA-SERIA_A,21-22,0fa89a9d
+a4fe8cda,Patrick Cutrone,9,ITA,FW,24-041,64,0,0,0,0,0,0,0,0,18,0,0,0,0.0,0.0,0.0,1,0,7,10,70.0,2,10,1,1,0,Empoli,2022-02-13 Empoli-Cagliari,ITA-SERIA_A,21-22,0fa89a9d
+d7918b13,Liam Henderson,8,SCO,FW,25-294,26,0,0,0,0,0,0,0,0,16,1,0,0,0.0,0.0,0.0,0,0,4,9,44.4,1,6,0,0,0,Empoli,2022-02-13 Empoli-Cagliari,ITA-SERIA_A,21-22,0fa89a9d
+f42d6c13,Nedim Bajrami,10,ALB,AM,22-350,88,0,1,0,0,2,1,0,0,36,1,0,0,0.0,0.0,0.2,5,1,19,32,59.4,4,22,5,0,0,Empoli,2022-02-13 Empoli-Cagliari,ITA-SERIA_A,21-22,0fa89a9d
+33ecf462,Valerio Verre,7,ITA,AM,28-033,2,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,3,3,100.0,0,3,0,0,0,Empoli,2022-02-13 Empoli-Cagliari,ITA-SERIA_A,21-22,0fa89a9d
+d44360be,Filippo Bandinelli,25,ITA,LM,26-321,74,0,0,0,0,3,1,0,0,36,2,0,0,0.3,0.3,0.0,2,0,19,26,73.1,3,15,3,2,1,Empoli,2022-02-13 Empoli-Cagliari,ITA-SERIA_A,21-22,0fa89a9d
+0000acda,Marco Benassi,15,ITA,LM,27-158,16,0,0,0,0,0,0,0,0,7,0,1,0,0.0,0.0,0.0,0,0,2,4,50.0,0,6,0,0,0,Empoli,2022-02-13 Empoli-Cagliari,ITA-SERIA_A,21-22,0fa89a9d
+0fdcef0e,Kristjan Asllani,23,ALB,CM,19-341,90,0,0,0,0,3,1,0,0,55,0,0,1,0.0,0.0,0.0,4,0,33,46,71.7,4,30,0,0,0,Empoli,2022-02-13 Empoli-Cagliari,ITA-SERIA_A,21-22,0fa89a9d
+4e1d5e59,Szymon Żurkowski,27,POL,RM,24-141,88,0,0,0,0,1,0,0,0,46,1,2,2,0.1,0.1,0.0,3,0,13,25,52.0,1,22,2,1,0,Empoli,2022-02-13 Empoli-Cagliari,ITA-SERIA_A,21-22,0fa89a9d
+6b635f5c,Ardian Ismajli,34,ALB,RM,25-136,2,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,0,0,Empoli,2022-02-13 Empoli-Cagliari,ITA-SERIA_A,21-22,0fa89a9d
+0967845b,Fabiano Parisi,65,ITA,LB,21-096,90,0,0,0,0,2,1,0,0,63,4,0,2,0.1,0.1,0.0,0,0,27,40,67.5,4,30,0,0,0,Empoli,2022-02-13 Empoli-Cagliari,ITA-SERIA_A,21-22,0fa89a9d
+75438a9a,Mattia Viti,42,ITA,CB,20-020,90,0,0,0,0,0,0,0,0,53,2,2,1,0.0,0.0,0.0,1,0,32,42,76.2,4,28,0,1,0,Empoli,2022-02-13 Empoli-Cagliari,ITA-SERIA_A,21-22,0fa89a9d
+09899de8,Simone Romagnoli,6,ITA,CB,32-004,90,0,0,0,0,0,0,0,0,48,1,0,5,0.0,0.0,0.0,0,0,21,36,58.3,0,17,2,0,0,Empoli,2022-02-13 Empoli-Cagliari,ITA-SERIA_A,21-22,0fa89a9d
+13b44b02,Petar Stojanović,30,SVN,RB,26-129,90,0,0,0,0,0,0,1,0,53,1,1,1,0.0,0.0,0.4,2,0,32,42,76.2,4,16,1,0,0,Empoli,2022-02-13 Empoli-Cagliari,ITA-SERIA_A,21-22,0fa89a9d
+77d6fd4d,Guglielmo Vicario,13,ITA,GK,25-129,90,0,0,0,0,0,0,0,0,43,0,0,0,0.0,0.0,0.0,0,0,26,41,63.4,0,26,0,0,0,Empoli,2022-02-13 Empoli-Cagliari,ITA-SERIA_A,21-22,0fa89a9d
+81255c03,João Pedro,10,ITA,FW,29-341,90,0,0,0,0,2,0,1,0,33,0,0,1,0.2,0.2,0.1,3,0,19,24,79.2,3,15,0,1,0,Cagliari,2022-02-13 Empoli-Cagliari,ITA-SERIA_A,21-22,0fa89a9d
+7ec7738e,Gastón Pereiro,20,URU,FW,26-247,90,0,0,0,0,3,1,0,0,47,1,0,3,0.1,0.1,0.1,6,0,23,37,62.2,6,25,2,2,1,Cagliari,2022-02-13 Empoli-Cagliari,ITA-SERIA_A,21-22,0fa89a9d
+5efc5389,Charalambos Lykogiannis,22,GRE,LW,28-114,57,0,0,0,0,1,0,0,0,40,1,0,0,0.0,0.0,0.0,0,0,17,33,51.5,0,16,3,0,0,Cagliari,2022-02-13 Empoli-Cagliari,ITA-SERIA_A,21-22,0fa89a9d
+ea06dd97,Daniele Baselli,4,ITA,CM,29-338,33,0,0,0,0,1,0,0,0,22,1,0,1,0.1,0.1,0.2,5,0,16,17,94.1,2,12,2,0,0,Cagliari,2022-02-13 Empoli-Cagliari,ITA-SERIA_A,21-22,0fa89a9d
+e3756e72,Raoul Bellanova,12,ITA,RW,21-272,78,0,0,0,0,1,0,0,0,54,2,2,0,0.0,0.0,0.0,3,0,33,44,75.0,1,30,4,1,1,Cagliari,2022-02-13 Empoli-Cagliari,ITA-SERIA_A,21-22,0fa89a9d
+509a4ccb,Keita Baldé,9,SEN,RW,26-342,12,0,0,0,0,0,0,0,0,14,0,0,1,0.0,0.0,0.0,0,0,6,9,66.7,0,7,2,0,0,Cagliari,2022-02-13 Empoli-Cagliari,ITA-SERIA_A,21-22,0fa89a9d
+f45f9427,Dalbert Henrique,29,BRA,"CM,LW",28-158,90,0,0,0,0,0,0,0,0,38,2,1,1,0.0,0.0,0.1,4,0,23,32,71.9,1,19,4,0,0,Cagliari,2022-02-13 Empoli-Cagliari,ITA-SERIA_A,21-22,0fa89a9d
+7fac99d4,Răzvan Marin,8,ROU,CM,25-266,78,0,0,0,0,2,0,1,0,47,0,1,1,0.0,0.0,0.0,5,0,33,40,82.5,5,28,1,1,0,Cagliari,2022-02-13 Empoli-Cagliari,ITA-SERIA_A,21-22,0fa89a9d
+d37b0350,Leonardo Pavoletti,30,ITA,CM,33-079,12,1,0,0,0,2,1,0,0,8,0,0,0,0.5,0.5,0.0,0,0,4,6,66.7,0,5,0,0,0,Cagliari,2022-02-13 Empoli-Cagliari,ITA-SERIA_A,21-22,0fa89a9d
+6cc97b6a,Alberto Grassi,27,ITA,DM,26-343,90,0,0,0,0,0,0,0,0,46,0,3,0,0.0,0.0,0.0,1,0,32,35,91.4,4,21,1,2,1,Cagliari,2022-02-13 Empoli-Cagliari,ITA-SERIA_A,21-22,0fa89a9d
+aa25ce92,Adam Obert,33,SVK,CB,19-174,57,0,0,0,0,0,0,0,0,27,0,2,2,0.0,0.0,0.0,0,0,6,17,35.3,0,11,0,0,0,Cagliari,2022-02-13 Empoli-Cagliari,ITA-SERIA_A,21-22,0fa89a9d
+7d50454d,Luca Ceppitelli,23,ITA,CB,32-186,33,0,0,0,0,0,0,0,0,25,0,1,0,0.0,0.0,0.0,0,0,17,21,81.0,1,12,0,0,0,Cagliari,2022-02-13 Empoli-Cagliari,ITA-SERIA_A,21-22,0fa89a9d
+5fa57166,Matteo Lovato,66,ITA,CB,21-364,27,0,0,0,0,1,1,0,0,16,0,0,0,0.0,0.0,0.0,0,0,12,13,92.3,0,6,0,0,0,Cagliari,2022-02-13 Empoli-Cagliari,ITA-SERIA_A,21-22,0fa89a9d
+aa5322d5,Giorgio Altare,15,ITA,CB,23-188,63,0,0,0,0,3,1,0,0,37,0,0,0,0.1,0.1,0.0,1,0,19,28,67.9,2,17,0,0,0,Cagliari,2022-02-13 Empoli-Cagliari,ITA-SERIA_A,21-22,0fa89a9d
+4b029b31,Edoardo Goldaniga,3,ITA,CB,28-103,90,0,0,0,0,1,0,0,0,63,1,1,0,0.1,0.1,0.0,4,1,36,52,69.2,6,28,0,2,1,Cagliari,2022-02-13 Empoli-Cagliari,ITA-SERIA_A,21-22,0fa89a9d
+f554e29b,Alessio Cragno,28,ITA,GK,27-230,90,0,0,0,0,0,0,0,0,40,1,0,0,0.0,0.0,0.0,1,0,19,34,55.9,0,17,0,0,0,Cagliari,2022-02-13 Empoli-Cagliari,ITA-SERIA_A,21-22,0fa89a9d

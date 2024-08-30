@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+9dbb75ca,Alexandre Lacazette,10,FRA,FW,31-098,64,1,0,0,0,3,1,0,0,22,0,1,0,0.3,0.3,0.0,1,0,10,15,66.7,3,16,0,0,0,Lyon,2022-09-03 Lyon-Angers,FRA-L1,22-23,fb645562
+e7986081,Moussa Dembélé,9,FRA,FW,26-053,26,1,0,0,0,1,1,0,0,4,1,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,2,0,0,0,Lyon,2022-09-03 Lyon-Angers,FRA-L1,22-23,fb645562
+5ceba7fc,Karl Toko Ekambi,7,CMR,LW,29-354,79,2,0,0,0,4,3,0,0,50,0,0,2,0.7,0.7,0.0,1,0,27,34,79.4,2,39,2,2,1,Lyon,2022-09-03 Lyon-Angers,FRA-L1,22-23,fb645562
+a0d55a09,Bradley Barcola,26,FRA,LW,20-001,11,0,0,0,0,0,0,0,0,7,0,1,1,0.0,0.0,0.0,0,0,2,2,100.0,0,2,1,1,0,Lyon,2022-09-03 Lyon-Angers,FRA-L1,22-23,fb645562
+7120a04d,Tetê,11,BRA,RW,22-200,65,0,0,0,0,0,0,1,0,45,0,0,1,0.0,0.0,0.0,5,2,27,40,67.5,2,36,7,2,1,Lyon,2022-09-03 Lyon-Angers,FRA-L1,22-23,fb645562
+d504b3e1,Jeff Reine-Adélaïde,22,FRA,RW,24-229,25,0,0,0,0,2,2,0,0,22,1,1,0,0.1,0.1,0.0,2,0,14,17,82.4,1,15,1,2,1,Lyon,2022-09-03 Lyon-Angers,FRA-L1,22-23,fb645562
+f81ef10d,Maxence Caqueret,6,FRA,LM,22-200,90,0,0,0,0,0,0,0,0,66,1,0,2,0.0,0.0,0.0,2,0,47,56,83.9,4,56,0,4,0,Lyon,2022-09-03 Lyon-Angers,FRA-L1,22-23,fb645562
+652d4c37,Corentin Tolisso,88,FRA,CM,28-031,90,0,0,0,0,1,0,0,0,95,0,3,0,0.0,0.0,0.0,4,2,76,86,88.4,11,78,3,0,0,Lyon,2022-09-03 Lyon-Angers,FRA-L1,22-23,fb645562
+745ca0a3,Romain Faivre,15,FRA,RM,24-051,90,0,1,0,0,1,0,0,0,66,1,0,1,0.0,0.0,0.1,5,1,50,55,90.9,10,50,4,3,0,Lyon,2022-09-03 Lyon-Angers,FRA-L1,22-23,fb645562
+f0661424,Nicolás Tagliafico,3,ARG,LB,30-003,90,0,0,0,0,0,0,0,0,72,4,1,1,0.0,0.0,0.1,3,0,56,62,90.3,4,47,3,3,1,Lyon,2022-09-03 Lyon-Angers,FRA-L1,22-23,fb645562
+5b9512c5,Castello Lukeba,4,FRA,CB,19-260,90,1,0,0,0,2,1,0,0,62,1,3,3,0.1,0.1,0.0,1,0,42,50,84.0,1,44,0,0,0,Lyon,2022-09-03 Lyon-Angers,FRA-L1,22-23,fb645562
+c6e5d20f,Thiago Mendes,23,BRA,CB,30-172,69,0,1,0,0,0,0,0,0,48,2,0,0,0.0,0.0,0.0,1,1,38,46,82.6,5,41,0,1,1,Lyon,2022-09-03 Lyon-Angers,FRA-L1,22-23,fb645562
+1ec7e1c5,Damien Da Silva,21,FRA,CB,34-109,21,0,0,0,0,0,0,0,0,15,0,1,0,0.0,0.0,0.0,0,0,13,14,92.9,0,15,0,0,0,Lyon,2022-09-03 Lyon-Angers,FRA-L1,22-23,fb645562
+d56b9520,Malo Gusto,27,FRA,RB,19-107,69,0,1,0,0,1,1,1,0,70,2,2,0,0.0,0.0,0.1,2,2,47,61,77.0,2,59,5,6,2,Lyon,2022-09-03 Lyon-Angers,FRA-L1,22-23,fb645562
+f28474a4,Henrique,12,BRA,RB,28-131,21,0,0,0,0,1,0,0,0,14,0,0,0,0.0,0.0,0.0,0,0,10,11,90.9,1,9,0,2,0,Lyon,2022-09-03 Lyon-Angers,FRA-L1,22-23,fb645562
+f00de885,Anthony Lopes,1,POR,GK,31-337,90,0,0,0,0,0,0,0,0,20,0,0,0,0.0,0.0,0.0,0,0,15,19,78.9,0,16,0,0,0,Lyon,2022-09-03 Lyon-Angers,FRA-L1,22-23,fb645562
+4be0b467,Lois Diony,9,FRA,FW,29-257,68,0,0,0,0,1,0,0,0,32,0,0,0,0.3,0.3,0.1,1,0,15,22,68.2,3,16,3,1,0,Angers,2022-09-03 Lyon-Angers,FRA-L1,22-23,fb645562
+bc7cc472,Amine Salama,11,FRA,FW,22-047,22,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,4,5,80.0,1,5,0,0,0,Angers,2022-09-03 Lyon-Angers,FRA-L1,22-23,fb645562
+b0c71810,Sofiane Boufal,7,MAR,FW,28-351,68,0,0,0,0,2,1,1,0,43,1,0,2,0.1,0.1,0.1,1,0,16,30,53.3,2,32,2,6,2,Angers,2022-09-03 Lyon-Angers,FRA-L1,22-23,fb645562
+fdbde523,Abdallah Sima,19,SEN,FW,21-078,22,0,0,0,0,1,0,0,0,8,0,1,0,0.1,0.1,0.0,0,0,2,2,100.0,0,4,0,0,0,Angers,2022-09-03 Lyon-Angers,FRA-L1,22-23,fb645562
+9daeac61,Souleyman Doumbia,3,CIV,LW,25-344,90,0,0,0,0,0,0,0,0,45,1,1,2,0.0,0.0,0.2,4,0,27,34,79.4,0,30,5,2,1,Angers,2022-09-03 Lyon-Angers,FRA-L1,22-23,fb645562
+531a4aa8,Yan Valery,94,TUN,RW,23-193,76,0,0,0,0,2,1,0,0,33,2,1,1,0.2,0.2,0.0,1,0,13,20,65.0,2,18,2,3,1,Angers,2022-09-03 Lyon-Angers,FRA-L1,22-23,fb645562
+f4bc42b1,Sada Thioub,92,SEN,RW,27-094,14,0,0,0,0,0,0,0,0,8,1,0,0,0.0,0.0,0.0,0,0,6,6,100.0,2,6,0,1,0,Angers,2022-09-03 Lyon-Angers,FRA-L1,22-23,fb645562
+83299cc0,Azzedine Ounahi,8,MAR,CM,22-137,77,0,0,0,0,0,0,0,0,41,3,3,0,0.0,0.0,0.0,0,0,28,28,100.0,5,29,2,4,0,Angers,2022-09-03 Lyon-Angers,FRA-L1,22-23,fb645562
+79b2399c,Pierrick Capelle,15,FRA,CM,35-141,13,0,0,0,0,1,0,0,0,10,1,0,0,0.0,0.0,0.1,1,0,6,8,75.0,2,4,0,0,0,Angers,2022-09-03 Lyon-Angers,FRA-L1,22-23,fb645562
+d14229f3,Adrien Hunou,23,FRA,CM,28-227,83,0,0,0,0,1,0,0,0,34,3,0,2,0.2,0.2,0.3,1,0,17,23,73.9,5,22,1,0,0,Angers,2022-09-03 Lyon-Angers,FRA-L1,22-23,fb645562
+7978cbf0,Himad Abdelli,10,ALG,CM,22-290,7,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,0,0,8,9,88.9,3,8,1,2,2,Angers,2022-09-03 Lyon-Angers,FRA-L1,22-23,fb645562
+3189f61a,Nabil Bentaleb,6,ALG,DM,27-283,90,0,0,0,0,0,0,0,0,59,7,5,0,0.0,0.0,0.0,1,0,35,45,77.8,5,37,0,2,2,Angers,2022-09-03 Lyon-Angers,FRA-L1,22-23,fb645562
+e472a6f6,Batista Mendy,2,FRA,CB,22-234,90,0,0,0,0,0,0,0,0,38,1,2,1,0.0,0.0,0.0,0,0,24,29,82.8,2,25,0,0,0,Angers,2022-09-03 Lyon-Angers,FRA-L1,22-23,fb645562
+00891164,Cédric Hountondji,22,BEN,CB,28-227,90,0,0,0,0,0,0,0,0,27,0,1,0,0.0,0.0,0.0,0,0,14,18,77.8,1,12,0,0,0,Angers,2022-09-03 Lyon-Angers,FRA-L1,22-23,fb645562
+7fecbcdb,Abdoulaye Bamba,25,CIV,CB,32-131,90,0,0,0,0,0,0,0,0,26,3,3,0,0.0,0.0,0.1,2,0,14,17,82.4,1,13,0,0,0,Angers,2022-09-03 Lyon-Angers,FRA-L1,22-23,fb645562
+28dabd43,Paul Bernardoni,1,FRA,GK,25-138,90,0,0,0,0,0,0,0,0,30,0,0,0,0.0,0.0,0.0,0,0,17,26,65.4,0,13,0,0,0,Angers,2022-09-03 Lyon-Angers,FRA-L1,22-23,fb645562

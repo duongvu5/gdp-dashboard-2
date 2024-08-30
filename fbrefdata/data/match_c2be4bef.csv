@@ -1,0 +1,32 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+aad56ca3,Amine Gouiri,19,ALG,FW,22-235,87,1,1,0,0,3,1,0,0,42,1,0,0,0.6,0.6,0.6,5,1,28,34,82.4,6,31,3,2,1,Rennes,2022-10-09 Rennes-Nantes,FRA-L1,22-23,c2be4bef
+0e46fa2f,Matthis Abline,28,FRA,FW,19-195,3,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.1,1,0,1,1,100.0,0,1,0,0,0,Rennes,2022-10-09 Rennes-Nantes,FRA-L1,22-23,c2be4bef
+bf4c41f9,Arnaud Kalimuendo,9,FRA,FW,20-262,74,0,0,0,0,1,0,0,0,32,0,0,3,0.1,0.1,0.2,1,0,11,16,68.8,3,23,1,2,0,Rennes,2022-10-09 Rennes-Nantes,FRA-L1,22-23,c2be4bef
+fc46aab1,Lovro Majer,21,CRO,FW,24-265,16,0,0,0,0,0,0,0,0,12,1,0,0,0.0,0.0,0.0,1,1,12,12,100.0,1,11,1,0,0,Rennes,2022-10-09 Rennes-Nantes,FRA-L1,22-23,c2be4bef
+5148dcc5,Martin Terrier,7,FRA,LM,25-219,87,1,1,0,0,4,1,0,0,62,2,1,1,0.7,0.7,0.0,4,2,36,49,73.5,10,45,4,2,1,Rennes,2022-10-09 Rennes-Nantes,FRA-L1,22-23,c2be4bef
+a62f8bf1,Kamaldeen Sulemana,10,GHA,LM,20-236,3,0,0,0,0,1,0,0,0,4,0,0,0,0.1,0.1,0.0,0,0,3,3,100.0,0,4,1,0,0,Rennes,2022-10-09 Rennes-Nantes,FRA-L1,22-23,c2be4bef
+a0f9b535,Flavien Tait,20,FRA,CM,29-249,90,0,0,0,0,2,1,0,0,67,2,0,2,0.1,0.1,0.0,4,0,52,58,89.7,7,51,2,1,1,Rennes,2022-10-09 Rennes-Nantes,FRA-L1,22-23,c2be4bef
+f3600c02,Xeka,80,POR,CM,27-333,74,0,0,0,0,0,0,0,0,47,2,0,1,0.0,0.0,0.0,1,0,35,41,85.4,7,33,2,1,0,Rennes,2022-10-09 Rennes-Nantes,FRA-L1,22-23,c2be4bef
+1df4a109,Lesley Ugochukwu,6,FRA,CM,18-197,16,0,0,0,0,0,0,0,0,5,1,0,0,0.0,0.0,0.0,0,0,3,3,100.0,1,1,0,0,0,Rennes,2022-10-09 Rennes-Nantes,FRA-L1,22-23,c2be4bef
+20e73fac,Benjamin Bourigeaud,14,FRA,RM,28-268,82,0,0,0,0,0,0,0,0,58,0,0,2,0.0,0.0,0.3,5,0,32,50,64.0,7,42,1,0,0,Rennes,2022-10-09 Rennes-Nantes,FRA-L1,22-23,c2be4bef
+9e7483ff,Désiré Doué,33,FRA,RM,17-128,8,1,0,0,0,2,1,0,0,5,1,0,0,0.2,0.2,0.1,1,0,2,2,100.0,0,4,0,0,0,Rennes,2022-10-09 Rennes-Nantes,FRA-L1,22-23,c2be4bef
+5d0e0a1f,Adrien Truffert,3,FRA,LB,20-323,90,0,0,0,0,0,0,0,0,79,6,3,1,0.0,0.0,0.0,1,1,45,60,75.0,6,41,1,3,0,Rennes,2022-10-09 Rennes-Nantes,FRA-L1,22-23,c2be4bef
+df8d6029,Arthur Theate,5,BEL,CB,22-137,90,0,0,0,0,0,0,0,0,58,0,0,0,0.0,0.0,0.0,0,0,45,53,84.9,4,47,1,0,0,Rennes,2022-10-09 Rennes-Nantes,FRA-L1,22-23,c2be4bef
+8d62d31a,Joe Rodon,2,WAL,CB,24-352,88,0,0,0,0,1,0,0,1,47,0,0,0,0.1,0.1,0.0,0,0,31,40,77.5,0,28,0,0,0,Rennes,2022-10-09 Rennes-Nantes,FRA-L1,22-23,c2be4bef
+a4b1028a,Hamari Traoré,27,MLI,RB,30-255,90,0,0,0,0,0,0,1,0,59,1,1,1,0.0,0.0,0.0,2,1,36,48,75.0,4,35,1,1,0,Rennes,2022-10-09 Rennes-Nantes,FRA-L1,22-23,c2be4bef
+1d2d5cc8,Steve Mandanda,30,FRA,GK,37-195,90,0,0,0,0,0,0,0,0,47,0,0,0,0.0,0.0,0.0,0,0,28,44,63.6,0,27,0,0,0,Rennes,2022-10-09 Rennes-Nantes,FRA-L1,22-23,c2be4bef
+595e6f3e,Mostafa Mohamed,31,EGY,FW,24-315,90,0,0,0,0,2,1,0,0,37,0,0,4,0.1,0.1,0.0,3,0,12,22,54.5,2,19,1,2,0,Nantes,2022-10-09 Rennes-Nantes,FRA-L1,22-23,c2be4bef
+5f3eaaf5,Moses Simon,27,NGA,LW,27-089,90,0,0,0,0,1,0,0,0,28,0,1,1,0.0,0.0,0.0,2,0,11,22,50.0,1,21,4,3,2,Nantes,2022-10-09 Rennes-Nantes,FRA-L1,22-23,c2be4bef
+6191093d,Ludovic Blas,10,FRA,"RW,DM",24-282,90,0,0,0,0,3,2,0,0,52,3,0,2,0.3,0.3,0.0,3,0,30,38,78.9,4,43,5,5,1,Nantes,2022-10-09 Rennes-Nantes,FRA-L1,22-23,c2be4bef
+2acd49b9,Moussa Sissoko,17,FRA,"AM,DM",33-054,80,0,0,0,0,0,0,0,0,38,0,0,1,0.0,0.0,0.0,0,0,23,36,63.9,3,23,0,0,0,Nantes,2022-10-09 Rennes-Nantes,FRA-L1,22-23,c2be4bef
+b73f17f8,Evann Guessand,7,CIV,RW,21-100,10,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,1,0,0,0,Nantes,2022-10-09 Rennes-Nantes,FRA-L1,22-23,c2be4bef
+68a26d51,Pedro Chirivella,5,ESP,DM,25-139,90,0,0,0,0,1,0,0,0,41,1,1,1,0.0,0.0,0.0,2,0,29,33,87.9,4,28,0,0,0,Nantes,2022-10-09 Rennes-Nantes,FRA-L1,22-23,c2be4bef
+af0c835b,Samuel Moutoussamy,8,COD,DM,26-058,70,0,0,0,0,0,0,0,0,35,2,0,1,0.0,0.0,0.0,0,0,23,28,82.1,3,20,0,1,0,Nantes,2022-10-09 Rennes-Nantes,FRA-L1,22-23,c2be4bef
+23c63b7f,Ignatius Ganago,14,CMR,AM,23-235,20,0,0,0,0,0,0,0,0,7,1,0,0,0.0,0.0,0.0,1,0,5,6,83.3,0,3,0,0,0,Nantes,2022-10-09 Rennes-Nantes,FRA-L1,22-23,c2be4bef
+0bfca6a1,Quentin Merlin,29,FRA,LB,20-146,90,0,0,0,0,1,0,0,0,65,1,2,2,0.0,0.0,0.1,2,0,40,59,67.8,2,40,0,0,0,Nantes,2022-10-09 Rennes-Nantes,FRA-L1,22-23,c2be4bef
+779847d6,Nicolas Pallois,4,FRA,CB,35-020,90,0,0,0,0,0,0,0,0,50,6,0,2,0.0,0.0,0.0,0,0,23,32,71.9,4,23,0,0,0,Nantes,2022-10-09 Rennes-Nantes,FRA-L1,22-23,c2be4bef
+e0f3a1f6,Jean-Charles Castelletto,21,CMR,CB,27-256,90,0,0,0,0,0,0,0,0,50,3,1,0,0.0,0.0,0.0,0,0,26,39,66.7,0,21,0,1,0,Nantes,2022-10-09 Rennes-Nantes,FRA-L1,22-23,c2be4bef
+feb5d3ab,Dennis Appiah,12,FRA,RB,30-122,80,0,0,0,0,0,0,0,0,43,2,0,2,0.0,0.0,0.0,0,0,21,33,63.6,2,20,0,1,0,Nantes,2022-10-09 Rennes-Nantes,FRA-L1,22-23,c2be4bef
+0e7ccfc4,Sébastien Corchia,24,FRA,RB,31-342,10,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,1,2,1,0,0,Nantes,2022-10-09 Rennes-Nantes,FRA-L1,22-23,c2be4bef
+4e7db402,Alban Lafont,1,FRA,GK,23-259,90,0,0,0,0,0,0,0,0,33,0,0,0,0.0,0.0,0.1,1,0,19,33,57.6,0,16,0,0,0,Nantes,2022-10-09 Rennes-Nantes,FRA-L1,22-23,c2be4bef

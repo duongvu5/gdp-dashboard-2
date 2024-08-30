@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+2ead2809,Gianluca Lapadula,10,PER,FW,27-270,90,0,0,0,0,4,0,1,0,15,0,0,0,0.4,0.4,0.0,1,0,4,9,44.4,0,6,0,0,0,Genoa,2017-11-04 Genoa-Sampdoria,ITA-SERIA_A,17-18,38cd69cd
+47dc80f5,Adel Taarabt,11,MAR,AM,28-164,90,0,0,0,0,2,0,1,0,43,1,0,0,0.1,0.1,0.1,7,0,28,36,77.8,2,30,4,4,2,Genoa,2017-11-04 Genoa-Sampdoria,ITA-SERIA_A,17-18,38cd69cd
+4dba2a97,Luca Rigoni,30,ITA,AM,32-332,66,0,0,0,0,2,0,0,0,29,1,1,1,0.4,0.4,0.0,1,0,17,19,89.5,1,16,0,1,0,Genoa,2017-11-04 Genoa-Sampdoria,ITA-SERIA_A,17-18,38cd69cd
+d711d04f,Goran Pandev,19,MKD,CM,34-100,24,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,1,0,8,9,88.9,5,6,2,1,1,Genoa,2017-11-04 Genoa-Sampdoria,ITA-SERIA_A,17-18,38cd69cd
+ab1ca213,Miguel Veloso,44,POR,CM,31-177,90,0,0,0,0,1,1,1,0,66,0,0,1,0.0,0.0,0.4,5,0,48,63,76.2,7,23,0,0,0,Genoa,2017-11-04 Genoa-Sampdoria,ITA-SERIA_A,17-18,38cd69cd
+72c803a0,Stephane Omeonga,40,BEL,CM,21-222,90,0,0,0,0,0,0,0,0,50,5,3,1,0.0,0.0,0.0,2,0,35,41,85.4,6,23,2,3,2,Genoa,2017-11-04 Genoa-Sampdoria,ITA-SERIA_A,17-18,38cd69cd
+f26e3c59,Diego Laxalt,93,URU,WB,24-270,90,0,0,0,0,1,0,0,0,52,1,0,1,0.1,0.1,0.2,4,0,26,39,66.7,4,27,4,3,1,Genoa,2017-11-04 Genoa-Sampdoria,ITA-SERIA_A,17-18,38cd69cd
+1b729ba2,Aleandro Rosi,20,ITA,WB,30-171,52,0,0,0,0,1,0,0,0,40,0,0,1,0.1,0.1,0.0,0,0,20,33,60.6,1,20,3,3,1,Genoa,2017-11-04 Genoa-Sampdoria,ITA-SERIA_A,17-18,38cd69cd
+5128bde4,Darko Lazović,22,SRB,WB,27-050,33,0,0,0,0,0,0,0,0,26,0,0,0,0.0,0.0,0.0,0,0,16,24,66.7,2,14,3,1,0,Genoa,2017-11-04 Genoa-Sampdoria,ITA-SERIA_A,17-18,38cd69cd
+a44d3a3c,Pietro Pellegri,64,ITA,WB,16-232,5,0,0,0,0,1,0,0,0,1,0,0,0,0.0,0.0,0.0,1,0,0,0,,0,1,0,0,0,Genoa,2017-11-04 Genoa-Sampdoria,ITA-SERIA_A,17-18,38cd69cd
+1253a12e,Ervin Zukanović,87,BIH,CB,30-266,90,0,0,0,0,1,1,0,0,61,3,2,0,0.1,0.1,0.1,1,0,42,51,82.4,7,20,0,1,1,Genoa,2017-11-04 Genoa-Sampdoria,ITA-SERIA_A,17-18,38cd69cd
+47a500ae,Luca Rossettini,13,ITA,CB,32-179,90,0,0,0,0,0,0,1,0,59,0,1,1,0.0,0.0,0.0,2,0,38,50,76.0,4,13,0,0,0,Genoa,2017-11-04 Genoa-Sampdoria,ITA-SERIA_A,17-18,38cd69cd
+89976232,Armando Izzo,5,ITA,CB,25-247,90,0,0,0,0,1,0,0,0,69,1,4,1,0.1,0.1,0.0,1,0,41,57,71.9,3,24,3,1,1,Genoa,2017-11-04 Genoa-Sampdoria,ITA-SERIA_A,17-18,38cd69cd
+4c62d0c8,Mattia Perin,1,ITA,GK,24-359,90,0,0,0,0,0,0,0,0,38,0,0,0,0.0,0.0,0.0,1,0,28,38,73.7,0,17,0,0,0,Genoa,2017-11-04 Genoa-Sampdoria,ITA-SERIA_A,17-18,38cd69cd
+d3de9af0,Duván Zapata,91,COL,FW,26-217,86,0,2,0,0,0,0,0,0,37,0,0,0,0.0,0.0,1.1,3,2,24,31,77.4,6,20,1,2,2,Sampdoria,2017-11-04 Genoa-Sampdoria,ITA-SERIA_A,17-18,38cd69cd
+54e53b7e,Gianluca Caprari,17,ITA,FW,24-097,4,0,0,0,0,0,0,0,0,5,0,0,1,0.0,0.0,0.0,1,0,3,3,100.0,1,3,0,0,0,Sampdoria,2017-11-04 Genoa-Sampdoria,ITA-SERIA_A,17-18,38cd69cd
+ee4f2f3b,Fabio Quagliarella,27,ITA,FW,34-277,90,1,0,0,0,5,1,0,0,26,0,1,2,0.7,0.7,0.1,3,0,9,13,69.2,1,16,1,1,1,Sampdoria,2017-11-04 Genoa-Sampdoria,ITA-SERIA_A,17-18,38cd69cd
+2c851997,Gastón Ramírez,11,URU,AM,26-337,59,1,0,0,0,2,2,0,0,37,0,0,0,0.7,0.7,0.1,3,0,22,27,81.5,4,23,1,4,2,Sampdoria,2017-11-04 Genoa-Sampdoria,ITA-SERIA_A,17-18,38cd69cd
+43a1bea5,Édgar Barreto,8,PAR,"RM,AM",33-112,31,0,0,0,0,1,1,0,0,26,2,0,1,0.1,0.1,0.0,1,0,18,21,85.7,2,7,0,0,0,Sampdoria,2017-11-04 Genoa-Sampdoria,ITA-SERIA_A,17-18,38cd69cd
+d023d70f,Karol Linetty,16,POL,LM,22-275,90,0,0,0,0,2,0,0,0,55,6,1,2,0.1,0.1,0.0,1,0,31,39,79.5,2,21,2,1,0,Sampdoria,2017-11-04 Genoa-Sampdoria,ITA-SERIA_A,17-18,38cd69cd
+52611641,Lucas Torreira,34,URU,CM,21-266,90,0,0,0,0,0,0,0,0,55,2,3,1,0.0,0.0,0.0,1,0,40,46,87.0,5,13,0,3,2,Sampdoria,2017-11-04 Genoa-Sampdoria,ITA-SERIA_A,17-18,38cd69cd
+86695068,Dennis Praet,10,BEL,"RM,AM",23-174,76,0,0,0,0,1,1,0,0,59,1,2,0,0.0,0.0,0.1,2,0,42,54,77.8,5,29,2,3,2,Sampdoria,2017-11-04 Genoa-Sampdoria,ITA-SERIA_A,17-18,38cd69cd
+92a5ac34,Ricky Álvarez,11,ARG,AM,29-206,14,0,0,0,0,1,0,0,0,13,0,0,0,0.0,0.0,0.0,1,0,9,12,75.0,0,6,1,0,0,Sampdoria,2017-11-04 Genoa-Sampdoria,ITA-SERIA_A,17-18,38cd69cd
+52e2ef8f,Ivan Strinić,17,CRO,LB,30-110,90,0,0,0,0,0,0,0,0,63,3,0,0,0.0,0.0,0.0,0,0,34,56,60.7,3,16,4,1,1,Sampdoria,2017-11-04 Genoa-Sampdoria,ITA-SERIA_A,17-18,38cd69cd
+8650af85,Gian Marco Ferrari,13,ITA,CB,25-262,90,0,0,0,0,0,0,1,0,47,0,1,0,0.0,0.0,0.0,0,0,29,40,72.5,0,18,1,0,0,Sampdoria,2017-11-04 Genoa-Sampdoria,ITA-SERIA_A,17-18,38cd69cd
+b6ca47a2,Matías Silvestre,26,ARG,CB,33-040,90,0,0,0,0,0,0,0,0,59,1,2,3,0.0,0.0,0.0,1,0,39,48,81.3,1,26,0,0,0,Sampdoria,2017-11-04 Genoa-Sampdoria,ITA-SERIA_A,17-18,38cd69cd
+61b3978f,Bartosz Bereszyński,24,POL,RB,25-115,90,0,0,0,0,0,0,1,0,65,0,1,1,0.0,0.0,0.0,2,0,49,57,86.0,5,20,1,2,2,Sampdoria,2017-11-04 Genoa-Sampdoria,ITA-SERIA_A,17-18,38cd69cd
+03760df0,Emiliano Viviano,2,ITA,GK,31-338,90,0,0,0,0,0,0,0,0,40,0,0,0,0.0,0.0,0.0,1,1,18,36,50.0,0,14,0,0,0,Sampdoria,2017-11-04 Genoa-Sampdoria,ITA-SERIA_A,17-18,38cd69cd

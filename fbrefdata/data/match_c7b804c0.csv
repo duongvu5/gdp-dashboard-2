@@ -1,0 +1,31 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+2ead2809,Gianluca Lapadula,9,PER,FW,30-166,45,2,0,0,0,4,3,0,0,13,0,0,0,0.7,0.7,0.0,1,0,1,6,16.7,0,6,0,0,0,Lecce,2020-07-22 Lecce-Brescia,ITA-SERIA_A,19-20,c7b804c0
+ff764de3,Yevhen Shakhov,11,UKR,"RM,FW",29-235,45,0,0,0,0,0,0,0,0,33,2,1,1,0.0,0.0,0.0,0,0,21,23,91.3,1,18,0,4,2,Lecce,2020-07-22 Lecce-Brescia,ITA-SERIA_A,19-20,c7b804c0
+3bb7af3b,Riccardo Saponara,18,ITA,LM,28-214,90,1,0,0,0,4,2,0,0,84,2,1,0,0.8,0.8,0.0,5,0,59,70,84.3,14,48,6,2,1,Lecce,2020-07-22 Lecce-Brescia,ITA-SERIA_A,19-20,c7b804c0
+01efac19,Antonín Barák,72,CZE,CM,25-232,90,0,0,0,0,4,2,0,0,65,3,1,2,0.5,0.5,0.0,5,2,38,52,73.1,6,30,4,1,1,Lecce,2020-07-22 Lecce-Brescia,ITA-SERIA_A,19-20,c7b804c0
+2c3a6c21,Marco Mancosu,8,ITA,"CM,FW",31-335,90,0,0,0,0,3,3,0,0,59,0,1,2,0.6,0.6,0.1,4,0,36,43,83.7,6,23,2,2,0,Lecce,2020-07-22 Lecce-Brescia,ITA-SERIA_A,19-20,c7b804c0
+e23f56c1,Filippo Falco,10,ITA,RM,28-162,57,0,1,0,0,0,0,0,0,46,0,0,0,0.0,0.0,0.6,4,1,35,42,83.3,1,30,3,2,1,Lecce,2020-07-22 Lecce-Brescia,ITA-SERIA_A,19-20,c7b804c0
+bf13975c,Žan Majer,37,SVN,CM,27-363,33,0,0,0,0,1,1,1,0,21,0,0,2,0.1,0.1,0.0,1,0,13,16,81.3,0,7,1,0,0,Lecce,2020-07-22 Lecce-Brescia,ITA-SERIA_A,19-20,c7b804c0
+e26bd2f4,Panagiotis Tachtsidis,77,GRE,DM,29-158,90,0,1,0,0,0,0,0,0,74,3,3,2,0.0,0.0,0.5,3,2,55,63,87.3,5,28,2,1,1,Lecce,2020-07-22 Lecce-Brescia,ITA-SERIA_A,19-20,c7b804c0
+22051fbe,Giulio Donati,7,ITA,LB,30-168,90,0,0,0,0,0,0,0,0,80,2,1,1,0.0,0.0,0.1,2,1,67,75,89.3,7,41,3,1,1,Lecce,2020-07-22 Lecce-Brescia,ITA-SERIA_A,19-20,c7b804c0
+42b1a58a,Nehuén Paz,6,ARG,CB,27-085,90,0,0,0,0,0,0,1,0,59,1,2,0,0.0,0.0,0.0,0,0,41,47,87.2,3,32,0,0,0,Lecce,2020-07-22 Lecce-Brescia,ITA-SERIA_A,19-20,c7b804c0
+8efa621b,Fabio Lucioni,5,ITA,CB,32-301,90,0,0,0,0,1,0,0,0,74,0,2,3,0.0,0.0,0.0,1,0,57,63,90.5,1,46,1,0,0,Lecce,2020-07-22 Lecce-Brescia,ITA-SERIA_A,19-20,c7b804c0
+39ee6cb6,Andrea Rispoli,29,ITA,RB,31-297,90,0,0,0,0,0,0,0,0,60,1,0,3,0.0,0.0,0.0,0,0,41,51,80.4,2,32,2,1,1,Lecce,2020-07-22 Lecce-Brescia,ITA-SERIA_A,19-20,c7b804c0
+f93ed0df,Gabriel,21,BRA,GK,27-299,90,0,0,0,0,0,0,0,0,34,0,0,0,0.0,0.0,0.0,0,0,26,31,83.9,0,11,0,0,0,Lecce,2020-07-22 Lecce-Brescia,ITA-SERIA_A,19-20,c7b804c0
+5592007b,Alfredo Donnarumma,9,ITA,FW,29-235,45,0,0,0,0,1,0,0,0,16,0,0,0,0.1,0.1,0.1,2,0,11,14,78.6,0,9,0,0,0,Brescia,2020-07-22 Lecce-Brescia,ITA-SERIA_A,19-20,c7b804c0
+718b8afd,Florian Ayé,18,FRA,FW,23-185,45,0,0,0,0,2,0,0,0,27,0,0,2,0.1,0.1,0.0,1,0,15,18,83.3,1,18,1,0,0,Brescia,2020-07-22 Lecce-Brescia,ITA-SERIA_A,19-20,c7b804c0
+bf39bdec,Ernesto Torregrossa,11,VEN,FW,28-024,90,0,0,0,0,5,0,0,0,50,2,0,1,0.4,0.4,0.0,6,1,15,25,60.0,1,33,3,4,1,Brescia,2020-07-22 Lecce-Brescia,ITA-SERIA_A,19-20,c7b804c0
+1e12c53b,Bruno Martella,26,ITA,"LM,LB",27-343,90,0,0,0,0,0,0,0,0,45,0,3,1,0.0,0.0,0.0,3,0,29,41,70.7,3,30,2,1,1,Brescia,2020-07-22 Lecce-Brescia,ITA-SERIA_A,19-20,c7b804c0
+02b2937c,Daniele Dessena,27,ITA,CM,33-073,90,1,0,0,0,1,1,0,0,48,1,1,0,0.1,0.1,0.0,1,0,33,41,80.5,11,36,1,1,0,Brescia,2020-07-22 Lecce-Brescia,ITA-SERIA_A,19-20,c7b804c0
+0db169ae,Sandro Tonali,4,ITA,CM,20-075,90,0,0,0,0,2,0,0,0,64,2,1,0,0.1,0.1,0.3,7,0,38,58,65.5,6,40,3,0,0,Brescia,2020-07-22 Lecce-Brescia,ITA-SERIA_A,19-20,c7b804c0
+cbec1196,Jaromír Zmrhal,8,CZE,RM,26-355,90,0,0,0,0,1,1,0,0,40,0,1,1,0.1,0.1,0.1,5,0,29,35,82.9,6,25,1,0,0,Brescia,2020-07-22 Lecce-Brescia,ITA-SERIA_A,19-20,c7b804c0
+33914f14,Massimiliano Mangraviti,19,ITA,LB,22-180,62,0,0,0,0,0,0,0,0,44,1,0,1,0.0,0.0,0.0,0,0,33,36,91.7,4,25,0,0,0,Brescia,2020-07-22 Lecce-Brescia,ITA-SERIA_A,19-20,c7b804c0
+da13074e,Birkir Bjarnason,31,ISL,LM,32-056,28,0,0,0,0,0,0,0,0,12,0,0,0,0.0,0.0,0.0,0,0,7,11,63.6,1,9,1,0,0,Brescia,2020-07-22 Lecce-Brescia,ITA-SERIA_A,19-20,c7b804c0
+84b6acaa,Jhon Chancellor,14,VEN,CB,28-202,45,0,0,0,0,0,0,0,0,30,0,1,1,0.0,0.0,0.0,0,0,23,24,95.8,2,20,0,0,0,Brescia,2020-07-22 Lecce-Brescia,ITA-SERIA_A,19-20,c7b804c0
+13f89eaa,Daniele Gastaldello,5,ITA,CB,37-027,45,0,0,0,0,1,0,0,0,39,2,0,1,0.1,0.1,0.1,1,0,28,32,87.5,4,26,0,0,0,Brescia,2020-07-22 Lecce-Brescia,ITA-SERIA_A,19-20,c7b804c0
+4195b8b6,Andrea Papetti,32,ITA,CB,18-019,82,0,0,0,0,1,0,0,0,62,2,3,1,0.1,0.1,0.0,1,0,41,50,82.0,6,41,1,1,1,Brescia,2020-07-22 Lecce-Brescia,ITA-SERIA_A,19-20,c7b804c0
+deb748c9,Aleš Matějů,3,CZE,CB,24-049,8,0,0,0,0,1,1,0,0,11,2,1,0,0.1,0.1,0.0,0,0,8,8,100.0,1,10,0,0,0,Brescia,2020-07-22 Lecce-Brescia,ITA-SERIA_A,19-20,c7b804c0
+0ccac09c,Stefano Sabelli,2,ITA,RB,27-191,51,0,0,0,0,1,0,1,0,36,2,2,0,0.0,0.0,0.1,1,0,24,28,85.7,3,20,1,0,0,Brescia,2020-07-22 Lecce-Brescia,ITA-SERIA_A,19-20,c7b804c0
+dd29f81d,Alessandro Semprini,29,ITA,RB,22-149,39,0,0,0,0,0,0,0,0,39,0,2,2,0.0,0.0,0.0,1,0,23,31,74.2,6,25,1,3,2,Brescia,2020-07-22 Lecce-Brescia,ITA-SERIA_A,19-20,c7b804c0
+7f66ea09,Jesse Joronen,1,FIN,GK,27-123,90,0,0,0,0,0,0,0,0,34,1,0,0,0.0,0.0,0.0,0,0,25,31,80.6,0,23,0,0,0,Brescia,2020-07-22 Lecce-Brescia,ITA-SERIA_A,19-20,c7b804c0

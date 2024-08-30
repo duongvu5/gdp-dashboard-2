@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+ffec9769,Islam Slimani,20,ALG,FW,31-098,90,0,1,0,0,5,0,0,0,35,0,0,0,0.4,0.4,0.9,3,1,16,24,66.7,1,19,2,0,0,Monaco,2019-09-24 Monaco-Nice,FRA-L1,19-20,b7b1a9b7
+97bfa797,Jean-Kévin Augustin,22,FRA,FW,22-100,60,0,0,0,0,1,1,0,0,6,1,0,0,0.1,0.1,0.0,0,0,2,3,66.7,0,3,0,0,0,Monaco,2019-09-24 Monaco-Nice,FRA-L1,19-20,b7b1a9b7
+942b4f90,Wissam Ben Yedder,9,FRA,FW,29-043,30,1,0,0,0,2,2,0,0,15,0,0,1,0.7,0.7,0.1,1,0,6,11,54.5,0,8,1,1,0,Monaco,2019-09-24 Monaco-Nice,FRA-L1,19-20,b7b1a9b7
+3708e9fa,Aleksandr Golovin,17,RUS,CM,23-117,90,2,1,0,0,2,2,0,0,56,5,1,3,0.7,0.7,0.7,7,2,29,39,74.4,7,26,4,3,2,Monaco,2019-09-24 Monaco-Nice,FRA-L1,19-20,b7b1a9b7
+33508c78,Cesc Fàbregas,4,ESP,CM,32-143,87,0,1,0,0,2,0,0,0,60,2,1,0,0.1,0.1,0.3,9,2,38,49,77.6,10,28,0,2,1,Monaco,2019-09-24 Monaco-Nice,FRA-L1,19-20,b7b1a9b7
+d6f88a1d,Adrien Silva,8,POR,CM,30-193,3,0,0,0,0,0,0,0,0,3,1,0,0,0.0,0.0,0.0,0,0,3,3,100.0,2,3,0,0,0,Monaco,2019-09-24 Monaco-Nice,FRA-L1,19-20,b7b1a9b7
+59bf127b,Tiemoué Bakayoko,6,FRA,CM,25-038,90,0,0,0,0,1,0,1,0,48,3,3,1,0.1,0.1,0.0,2,0,24,29,82.8,1,23,1,6,5,Monaco,2019-09-24 Monaco-Nice,FRA-L1,19-20,b7b1a9b7
+e61bdd69,Gil Bastião Dias,31,POR,WB,22-361,45,0,0,0,0,1,0,0,0,28,4,1,1,0.1,0.1,0.1,2,0,11,14,78.6,1,16,2,2,1,Monaco,2019-09-24 Monaco-Nice,FRA-L1,19-20,b7b1a9b7
+f449640d,Fodé Ballo-Touré,2,SEN,WB,22-264,45,0,0,0,0,1,0,0,0,18,1,0,1,0.1,0.1,0.1,3,0,12,14,85.7,1,11,2,0,0,Monaco,2019-09-24 Monaco-Nice,FRA-L1,19-20,b7b1a9b7
+3ef0fa48,Gelson Martins,11,POR,WB,24-136,90,0,0,0,0,0,0,1,0,62,4,1,2,0.0,0.0,0.2,6,1,39,46,84.8,3,35,8,3,2,Monaco,2019-09-24 Monaco-Nice,FRA-L1,19-20,b7b1a9b7
+06df8256,Benoît Badiashile,32,FRA,CB,18-182,90,0,0,0,0,1,0,0,0,44,3,1,1,0.0,0.0,0.0,1,0,28,36,77.8,2,25,0,0,0,Monaco,2019-09-24 Monaco-Nice,FRA-L1,19-20,b7b1a9b7
+d9764034,Guillermo Maripán,3,CHI,CB,25-141,90,0,0,0,0,1,0,0,0,23,2,0,0,0.1,0.1,0.0,0,0,14,17,82.4,1,9,0,0,0,Monaco,2019-09-24 Monaco-Nice,FRA-L1,19-20,b7b1a9b7
+7cab69b5,Jemerson,5,BRA,CB,27-031,90,0,0,0,0,0,0,0,0,52,1,2,0,0.0,0.0,0.0,0,0,35,45,77.8,3,23,0,0,0,Monaco,2019-09-24 Monaco-Nice,FRA-L1,19-20,b7b1a9b7
+2fa2a875,Benjamin Lecomte,40,FRA,GK,28-151,90,0,0,0,0,0,0,0,0,28,0,0,0,0.0,0.0,0.0,0,0,19,24,79.2,0,9,0,0,0,Monaco,2019-09-24 Monaco-Nice,FRA-L1,19-20,b7b1a9b7
+cc83b74d,Kasper Dolberg,9,DEN,FW,21-353,63,0,0,0,0,0,0,1,0,21,0,1,0,0.0,0.0,0.0,1,0,11,14,78.6,1,12,0,1,0,Nice,2019-09-24 Monaco-Nice,FRA-L1,19-20,b7b1a9b7
+23c63b7f,Ignatius Ganago,14,CMR,FW,20-220,27,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,4,4,100.0,0,4,0,1,0,Nice,2019-09-24 Monaco-Nice,FRA-L1,19-20,b7b1a9b7
+741418c3,Alexis Claude-Maurice,18,FRA,"LW,RM,RW",21-110,90,0,0,0,0,2,1,0,0,43,2,0,0,0.2,0.2,0.1,3,0,26,28,92.9,2,28,0,3,1,Nice,2019-09-24 Monaco-Nice,FRA-L1,19-20,b7b1a9b7
+6a827d8e,Youcef Atal,20,ALG,"RW,LW",23-130,90,0,0,0,0,2,0,0,0,51,1,1,1,0.1,0.1,0.2,6,0,25,34,73.5,3,25,5,13,7,Nice,2019-09-24 Monaco-Nice,FRA-L1,19-20,b7b1a9b7
+8da74c05,Adrien Tameze,5,CMR,"LM,DM",25-232,90,0,0,0,0,1,0,0,0,54,2,0,2,0.1,0.1,0.0,1,0,38,44,86.4,3,30,2,4,2,Nice,2019-09-24 Monaco-Nice,FRA-L1,19-20,b7b1a9b7
+3e092724,Wylan Cyprien,25,FRA,"CM,AM",24-239,90,0,0,0,0,2,1,0,0,75,1,0,0,0.1,0.1,0.1,5,2,56,70,80.0,11,26,0,0,0,Nice,2019-09-24 Monaco-Nice,FRA-L1,19-20,b7b1a9b7
+ed90babd,Adam Ounas,10,ALG,RM,22-317,63,0,0,0,0,1,0,0,0,34,0,1,0,0.1,0.1,0.0,2,0,22,26,84.6,2,22,3,3,2,Nice,2019-09-24 Monaco-Nice,FRA-L1,19-20,b7b1a9b7
+f9d5908e,Hicham Boudaoui,28,ALG,"RM,RW",20-001,27,0,0,0,0,0,0,0,0,13,1,0,0,0.0,0.0,0.0,0,0,8,9,88.9,1,6,1,1,1,Nice,2019-09-24 Monaco-Nice,FRA-L1,19-20,b7b1a9b7
+4315f30d,Malang Sarr,23,FRA,LB,20-244,77,0,0,0,0,0,0,0,0,74,1,3,0,0.0,0.0,0.0,0,0,58,66,87.9,5,39,0,0,0,Nice,2019-09-24 Monaco-Nice,FRA-L1,19-20,b7b1a9b7
+f5044e54,Pierre Lees-Melou,8,FRA,"LM,LB",26-122,13,0,0,0,0,0,0,0,0,13,0,1,1,0.0,0.0,0.0,1,0,7,11,63.6,2,6,0,0,0,Nice,2019-09-24 Monaco-Nice,FRA-L1,19-20,b7b1a9b7
+61590953,Stanley N'Soki,2,FRA,CB,20-168,90,0,0,0,0,1,0,1,0,75,0,3,3,0.1,0.1,0.0,1,0,60,65,92.3,4,31,1,3,2,Nice,2019-09-24 Monaco-Nice,FRA-L1,19-20,b7b1a9b7
+f18d7ab2,Andy Pelmard,24,FRA,CB,19-196,90,0,0,0,0,0,0,1,0,70,1,3,3,0.0,0.0,0.0,0,0,54,60,90.0,0,42,0,0,0,Nice,2019-09-24 Monaco-Nice,FRA-L1,19-20,b7b1a9b7
+8746d5d0,Patrick Burner,15,MTQ,"RB,CB",23-166,90,1,0,0,0,1,1,0,0,76,2,3,1,0.1,0.1,0.0,0,0,54,64,84.4,3,37,0,4,2,Nice,2019-09-24 Monaco-Nice,FRA-L1,19-20,b7b1a9b7
+8a2248b4,Walter Benítez,40,ARG,GK,26-248,90,0,0,0,0,0,0,0,0,42,0,0,0,0.0,0.0,0.0,0,0,34,40,85.0,0,20,0,0,0,Nice,2019-09-24 Monaco-Nice,FRA-L1,19-20,b7b1a9b7

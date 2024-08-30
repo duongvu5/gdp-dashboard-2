@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+8f696594,Memphis,11,NED,FW,24-047,87,2,0,1,1,5,1,0,0,65,0,0,1,1.0,0.3,0.2,6,0,35,50,70.0,8,51,2,4,3,Lyon,2018-04-01 Lyon-Toulouse,FRA-L1,17-18,d369bef6
+aad56ca3,Amine Gouiri,19,ALG,FW,18-044,3,0,0,0,0,1,1,0,0,2,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,3,1,0,0,Lyon,2018-04-01 Lyon-Toulouse,FRA-L1,17-18,d369bef6
+beb391dd,Maxwel Cornet,27,CIV,LW,21-186,35,0,0,0,0,1,0,0,0,23,1,0,0,0.1,0.1,0.2,5,0,14,20,70.0,1,15,2,0,0,Lyon,2018-04-01 Lyon-Toulouse,FRA-L1,17-18,d369bef6
+706a60e1,Myziane Maolida,17,COM,"LW,RW",19-046,55,0,0,0,0,2,1,0,0,33,0,0,0,0.1,0.1,0.5,4,0,21,23,91.3,2,28,1,7,5,Lyon,2018-04-01 Lyon-Toulouse,FRA-L1,17-18,d369bef6
+c47541e0,Bertrand Traoré,10,BFA,RW,22-207,81,0,0,0,0,2,0,0,0,61,0,2,0,0.1,0.1,0.0,1,0,44,48,91.7,6,51,4,5,4,Lyon,2018-04-01 Lyon-Toulouse,FRA-L1,17-18,d369bef6
+375622c5,Jordan Ferri,12,FRA,LM,26-020,9,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,1,0,6,8,75.0,1,5,1,0,0,Lyon,2018-04-01 Lyon-Toulouse,FRA-L1,17-18,d369bef6
+a5db0bec,Houssem Aouar,8,ALG,"LM,LW",19-275,90,0,1,0,0,6,1,0,0,84,2,0,1,1.0,1.0,0.1,6,1,60,68,88.2,15,62,7,4,3,Lyon,2018-04-01 Lyon-Toulouse,FRA-L1,17-18,d369bef6
+71ec39ef,Lucas Tousart,29,FRA,CM,20-337,90,0,0,0,0,0,0,1,0,47,2,1,2,0.0,0.0,0.0,1,0,37,42,88.1,2,26,0,0,0,Lyon,2018-04-01 Lyon-Toulouse,FRA-L1,17-18,d369bef6
+5cdddffa,Tanguy Ndombele,28,FRA,RM,21-094,90,0,0,0,0,1,0,0,0,68,2,0,1,0.0,0.0,0.3,5,2,51,56,91.1,5,58,2,1,1,Lyon,2018-04-01 Lyon-Toulouse,FRA-L1,17-18,d369bef6
+3cefcaef,Ferland Mendy,22,FRA,LB,22-297,90,0,0,0,0,1,0,0,0,87,4,1,2,0.1,0.1,0.1,4,0,62,71,87.3,8,55,6,4,3,Lyon,2018-04-01 Lyon-Toulouse,FRA-L1,17-18,d369bef6
+e97150c0,Jérémy Morel,15,MAD,CB,33-364,90,0,0,0,0,0,0,0,0,71,1,2,1,0.0,0.0,0.0,0,0,57,63,90.5,3,55,0,0,0,Lyon,2018-04-01 Lyon-Toulouse,FRA-L1,17-18,d369bef6
+e3d0b0c4,Marcelo,6,BRA,CB,30-316,90,0,0,0,0,1,0,0,0,71,1,1,2,0.1,0.1,0.0,1,0,55,58,94.8,3,44,0,0,0,Lyon,2018-04-01 Lyon-Toulouse,FRA-L1,17-18,d369bef6
+9a1f2e1c,Rafael,4,BRA,RB,27-266,90,0,0,0,0,0,0,0,0,70,3,1,0,0.0,0.0,0.0,3,1,50,62,80.6,6,40,5,2,1,Lyon,2018-04-01 Lyon-Toulouse,FRA-L1,17-18,d369bef6
+f00de885,Anthony Lopes,1,POR,GK,27-182,90,0,0,0,0,0,0,0,0,42,0,0,0,0.0,0.0,0.0,0,0,32,40,80.0,0,23,0,0,0,Lyon,2018-04-01 Lyon-Toulouse,FRA-L1,17-18,d369bef6
+11ced928,Yaya Sanogo,9,FRA,FW,25-064,90,0,0,0,0,2,2,0,0,22,0,0,0,0.1,0.1,0.0,2,0,11,16,68.8,1,7,0,1,0,Toulouse,2018-04-01 Lyon-Toulouse,FRA-L1,17-18,d369bef6
+c5a500ca,Max Gradel,7,CIV,LM,30-122,90,0,0,0,0,2,1,0,0,46,0,0,1,0.1,0.1,0.2,3,0,20,30,66.7,2,27,4,6,2,Toulouse,2018-04-01 Lyon-Toulouse,FRA-L1,17-18,d369bef6
+b86fe156,Giannelli Imbula,25,COD,CM,25-201,75,0,0,0,0,4,1,0,0,51,2,0,0,0.2,0.2,0.0,4,0,32,37,86.5,4,29,5,8,6,Toulouse,2018-04-01 Lyon-Toulouse,FRA-L1,17-18,d369bef6
+de4fe7a2,Ola Toivonen,11,SWE,FW,31-272,15,0,0,0,0,0,0,0,0,7,0,0,1,0.0,0.0,0.0,0,0,5,6,83.3,0,3,1,0,0,Toulouse,2018-04-01 Lyon-Toulouse,FRA-L1,17-18,d369bef6
+bced0375,Ibrahim Sangaré,17,CIV,CM,20-120,90,0,0,0,0,1,1,0,0,77,8,2,3,0.1,0.1,0.1,5,0,41,61,67.2,9,30,4,5,5,Toulouse,2018-04-01 Lyon-Toulouse,FRA-L1,17-18,d369bef6
+7d9b37bf,Corentin Jean,8,FRA,RM,22-260,68,0,0,0,0,0,0,0,0,23,1,0,0,0.0,0.0,0.0,0,0,13,20,65.0,1,8,1,0,0,Toulouse,2018-04-01 Lyon-Toulouse,FRA-L1,17-18,d369bef6
+176674ab,Ndombe Mubele,24,COD,RM,23-349,22,0,0,0,0,0,0,0,0,17,0,0,1,0.0,0.0,0.0,1,0,6,12,50.0,1,12,5,4,1,Toulouse,2018-04-01 Lyon-Toulouse,FRA-L1,17-18,d369bef6
+677ee102,Yannick Cahuzac,4,FRA,"DM,CM",33-073,90,0,0,0,0,0,0,1,0,49,4,3,6,0.0,0.0,0.0,0,0,28,34,82.4,0,12,0,0,0,Toulouse,2018-04-01 Lyon-Toulouse,FRA-L1,17-18,d369bef6
+b99bec05,Issiaga Sylla,12,GUI,LB,24-090,90,0,0,0,0,0,0,0,0,57,2,4,2,0.0,0.0,0.0,1,0,31,41,75.6,5,26,2,1,1,Toulouse,2018-04-01 Lyon-Toulouse,FRA-L1,17-18,d369bef6
+f323d995,Christopher Jullien,6,FRA,CB,25-010,25,0,0,0,0,0,0,0,0,12,0,0,0,0.0,0.0,0.0,0,0,5,11,45.5,0,4,0,0,0,Toulouse,2018-04-01 Lyon-Toulouse,FRA-L1,17-18,d369bef6
+574aa9ec,Steven Fortes,18,CPV,CB,25-349,65,0,0,0,0,0,0,0,0,40,1,2,0,0.0,0.0,0.0,1,0,31,32,96.9,2,15,0,0,0,Toulouse,2018-04-01 Lyon-Toulouse,FRA-L1,17-18,d369bef6
+a712ca2b,Issa Diop,5,FRA,CB,21-082,90,0,0,0,0,0,0,0,0,50,1,4,2,0.0,0.0,0.0,1,0,33,41,80.5,2,20,1,2,2,Toulouse,2018-04-01 Lyon-Toulouse,FRA-L1,17-18,d369bef6
+bcc81786,Kelvin Amian,2,FRA,RB,20-052,90,0,0,0,0,1,1,0,0,46,3,0,1,0.0,0.0,0.1,2,0,32,36,88.9,3,14,1,0,0,Toulouse,2018-04-01 Lyon-Toulouse,FRA-L1,17-18,d369bef6
+4e7db402,Alban Lafont,40,FRA,GK,19-068,90,0,0,0,0,0,0,0,0,39,0,0,0,0.0,0.0,0.0,0,0,25,34,73.5,0,7,0,0,0,Toulouse,2018-04-01 Lyon-Toulouse,FRA-L1,17-18,d369bef6

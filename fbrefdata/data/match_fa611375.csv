@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+834d0be5,Lucas Alario,13,ARG,FW,26-209,82,2,0,0,0,2,2,0,0,48,1,0,0,1.0,1.0,0.1,2,0,30,40,75.0,2,23,0,0,0,Bayer Leverkusen,2019-05-05 Leverkusen-Eint Frankfurt,GER-BL1,18-19,fa611375
+53070b63,Paulinho,7,BRA,FW,18-294,8,0,0,0,0,1,0,0,0,7,0,0,0,0.1,0.1,0.0,1,0,6,6,100.0,0,5,1,1,1,Bayer Leverkusen,2019-05-05 Leverkusen-Eint Frankfurt,GER-BL1,18-19,fa611375
+64f69877,Kevin Volland,31,GER,LW,26-279,90,0,1,0,0,2,0,0,0,52,1,0,2,0.1,0.1,1.1,4,1,32,40,80.0,5,27,4,4,3,Bayer Leverkusen,2019-05-05 Leverkusen-Eint Frankfurt,GER-BL1,18-19,fa611375
+fed7cb61,Kai Havertz,29,GER,RW,19-328,90,1,0,0,0,4,3,0,0,141,0,0,2,0.9,0.9,0.0,1,0,116,127,91.3,9,74,2,4,2,Bayer Leverkusen,2019-05-05 Leverkusen-Eint Frankfurt,GER-BL1,18-19,fa611375
+a167537f,Julian Brandt,10,GER,LM,23-003,90,1,0,0,0,4,3,0,0,111,1,0,0,0.6,0.6,0.5,7,2,87,102,85.3,14,68,10,5,4,Bayer Leverkusen,2019-05-05 Leverkusen-Eint Frankfurt,GER-BL1,18-19,fa611375
+69374ff5,Julian Baumgartlinger,15,AUT,CM,31-123,90,0,0,0,0,0,0,0,0,145,2,1,1,0.0,0.0,0.0,3,0,124,136,91.2,3,66,3,3,3,Bayer Leverkusen,2019-05-05 Leverkusen-Eint Frankfurt,GER-BL1,18-19,fa611375
+56413b1f,Charles Aránguiz,20,CHI,CM,30-018,90,1,2,0,0,2,1,0,0,157,1,0,2,0.1,0.1,0.6,6,3,135,148,91.2,13,71,2,1,0,Bayer Leverkusen,2019-05-05 Leverkusen-Eint Frankfurt,GER-BL1,18-19,fa611375
+c50281a0,Lars Bender,8,GER,RM,30-008,66,0,1,0,0,0,0,0,0,70,2,1,0,0.0,0.0,0.4,3,1,52,62,83.9,1,32,2,3,2,Bayer Leverkusen,2019-05-05 Leverkusen-Eint Frankfurt,GER-BL1,18-19,fa611375
+30c220c3,Mitchell Weiser,23,GER,RM,25-014,24,0,0,0,0,0,0,0,0,26,1,3,1,0.0,0.0,0.0,1,0,17,20,85.0,1,11,1,1,1,Bayer Leverkusen,2019-05-05 Leverkusen-Eint Frankfurt,GER-BL1,18-19,fa611375
+f9acca3a,Wendell,18,BRA,CB,25-289,90,0,0,0,0,1,0,0,0,153,1,0,1,0.0,0.0,0.0,1,1,134,146,91.8,5,87,5,0,0,Bayer Leverkusen,2019-05-05 Leverkusen-Eint Frankfurt,GER-BL1,18-19,fa611375
+bd142efb,Jonathan Tah,4,GER,CB,23-083,90,0,0,0,0,0,0,0,0,112,2,1,2,0.0,0.0,0.0,0,0,97,107,90.7,2,53,0,0,0,Bayer Leverkusen,2019-05-05 Leverkusen-Eint Frankfurt,GER-BL1,18-19,fa611375
+070ec0b1,Sven Bender,5,GER,CB,30-008,59,0,0,0,0,0,0,0,0,80,2,2,1,0.0,0.0,0.0,0,0,63,68,92.6,3,34,0,0,0,Bayer Leverkusen,2019-05-05 Leverkusen-Eint Frankfurt,GER-BL1,18-19,fa611375
+6fd8a334,Aleksandar Dragović,6,AUT,CB,28-060,31,0,0,0,0,0,0,0,0,42,1,0,0,0.0,0.0,0.0,0,0,39,41,95.1,2,23,0,0,0,Bayer Leverkusen,2019-05-05 Leverkusen-Eint Frankfurt,GER-BL1,18-19,fa611375
+ad3389d5,Lukáš Hrádecký,1,FIN,GK,29-162,90,0,0,0,0,0,0,0,0,47,0,0,0,0.0,0.0,0.0,0,0,45,47,95.7,0,21,0,0,0,Bayer Leverkusen,2019-05-05 Leverkusen-Eint Frankfurt,GER-BL1,18-19,fa611375
+536cebe5,Ante Rebić,4,CRO,FW,25-226,90,0,0,0,0,0,0,0,0,23,0,0,1,0.0,0.0,0.0,0,0,8,14,57.1,0,17,2,1,0,Eintracht Frankfurt,2019-05-05 Leverkusen-Eint Frankfurt,GER-BL1,18-19,fa611375
+b1cd37e6,Filip Kostić,10,SRB,"WB,LW",26-185,90,1,0,0,0,2,1,0,0,42,3,0,5,0.1,0.1,0.0,1,0,13,27,48.1,3,19,4,7,6,Eintracht Frankfurt,2019-05-05 Leverkusen-Eint Frankfurt,GER-BL1,18-19,fa611375
+5ddb8f9f,Danny da Costa,24,GER,"RW,WB",25-296,73,0,0,0,0,0,0,0,0,29,1,4,1,0.0,0.0,0.0,0,0,8,17,47.1,2,15,1,5,2,Eintracht Frankfurt,2019-05-05 Leverkusen-Eint Frankfurt,GER-BL1,18-19,fa611375
+b3b7f5a6,Timothy Chandler,22,USA,WB,29-037,17,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.1,1,0,3,4,75.0,0,4,0,0,0,Eintracht Frankfurt,2019-05-05 Leverkusen-Eint Frankfurt,GER-BL1,18-19,fa611375
+441197b8,Obite N'Dicka,2,CIV,LM,19-258,36,0,0,0,0,0,0,0,0,12,0,0,0,0.0,0.0,0.0,0,0,4,9,44.4,1,3,0,2,1,Eintracht Frankfurt,2019-05-05 Leverkusen-Eint Frankfurt,GER-BL1,18-19,fa611375
+4d8cd038,Luka Jović,8,SRB,FW,21-133,54,0,0,0,0,1,1,0,0,23,1,0,0,0.1,0.1,0.0,0,0,11,18,61.1,0,13,0,0,0,Eintracht Frankfurt,2019-05-05 Leverkusen-Eint Frankfurt,GER-BL1,18-19,fa611375
+9050ddc4,Jetro Willems,15,NED,CM,25-036,36,0,0,0,0,1,0,0,0,17,1,2,0,0.0,0.0,0.1,4,0,5,11,45.5,0,10,1,1,0,Eintracht Frankfurt,2019-05-05 Leverkusen-Eint Frankfurt,GER-BL1,18-19,fa611375
+16daec92,Mijat Gaćinović,11,SRB,AM,24-086,54,0,0,0,0,0,0,0,0,29,0,4,4,0.0,0.0,0.0,1,0,10,18,55.6,1,20,2,4,1,Eintracht Frankfurt,2019-05-05 Leverkusen-Eint Frankfurt,GER-BL1,18-19,fa611375
+8e58987d,Gelson Fernandes,5,SUI,CM,32-245,90,0,0,0,0,0,0,1,0,31,3,4,1,0.0,0.0,0.0,0,0,21,25,84.0,0,17,0,1,1,Eintracht Frankfurt,2019-05-05 Leverkusen-Eint Frankfurt,GER-BL1,18-19,fa611375
+c8c60119,Almamy Touré,18,MLI,"CM,RM",23-007,90,0,0,0,0,0,0,0,0,39,3,1,1,0.0,0.0,0.0,2,0,19,28,67.9,4,20,0,2,2,Eintracht Frankfurt,2019-05-05 Leverkusen-Eint Frankfurt,GER-BL1,18-19,fa611375
+080440a4,Martin Hinteregger,13,AUT,CB,26-240,90,0,0,0,0,1,0,1,0,33,1,1,1,0.0,0.0,0.0,0,0,15,25,60.0,3,15,1,0,0,Eintracht Frankfurt,2019-05-05 Leverkusen-Eint Frankfurt,GER-BL1,18-19,fa611375
+9ab16552,Makoto Hasebe,20,JPN,CB,35-107,90,0,0,0,0,0,0,0,0,29,3,3,3,0.0,0.0,0.0,0,0,18,19,94.7,3,13,0,0,0,Eintracht Frankfurt,2019-05-05 Leverkusen-Eint Frankfurt,GER-BL1,18-19,fa611375
+565bf0da,David Abraham,19,ARG,CB,32-294,90,0,0,0,0,1,0,1,0,31,0,1,1,0.1,0.1,0.0,0,0,13,23,56.5,1,18,0,0,0,Eintracht Frankfurt,2019-05-05 Leverkusen-Eint Frankfurt,GER-BL1,18-19,fa611375
+ce17b5eb,Kevin Trapp,31,GER,GK,28-301,90,0,0,0,0,0,0,0,0,27,0,0,0,0.0,0.0,0.0,0,0,11,25,44.0,0,16,0,0,0,Eintracht Frankfurt,2019-05-05 Leverkusen-Eint Frankfurt,GER-BL1,18-19,fa611375

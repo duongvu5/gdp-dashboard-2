@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+d705ba44,Andrea Belotti,9,ITA,FW,25-065,90,0,0,0,0,3,1,0,0,33,0,1,2,0.4,0.4,0.0,2,0,12,19,63.2,0,20,1,4,1,Torino,2019-02-23 Torino-Atalanta,ITA-SERIA_A,18-19,90d2d7d3
+440c84ed,Iago Falque,14,ESP,FW,29-050,80,1,0,0,0,7,4,0,0,46,0,0,2,0.5,0.5,0.1,6,1,19,31,61.3,3,32,4,0,0,Torino,2019-02-23 Torino-Atalanta,ITA-SERIA_A,18-19,90d2d7d3
+dc1c2fce,Álex Berenguer,21,ESP,FW,23-234,10,0,0,0,0,0,0,1,0,5,0,0,0,0.0,0.0,0.0,2,0,2,3,66.7,0,5,1,0,0,Torino,2019-02-23 Torino-Atalanta,ITA-SERIA_A,18-19,90d2d7d3
+5cec2c74,Soualiho Meïté,23,FRA,CM,24-343,65,0,1,0,0,1,0,0,0,32,1,0,0,0.0,0.0,0.1,2,1,19,24,79.2,3,23,1,3,3,Torino,2019-02-23 Torino-Atalanta,ITA-SERIA_A,18-19,90d2d7d3
+bbafc0c4,Cristian Ansaldi,15,ARG,CM,32-156,25,0,0,0,0,0,0,0,0,10,1,1,1,0.0,0.0,0.0,1,0,3,6,50.0,1,5,1,3,1,Torino,2019-02-23 Torino-Atalanta,ITA-SERIA_A,18-19,90d2d7d3
+c6e8cf1f,Saša Lukić,7,SRB,CM,22-194,90,0,0,0,0,1,0,0,0,57,3,3,2,0.0,0.0,0.0,3,0,37,43,86.0,2,27,1,1,1,Torino,2019-02-23 Torino-Atalanta,ITA-SERIA_A,18-19,90d2d7d3
+ea06dd97,Daniele Baselli,8,ITA,CM,26-348,89,0,0,0,0,2,0,0,0,52,2,3,1,0.1,0.1,0.2,3,0,30,39,76.9,1,25,0,1,1,Torino,2019-02-23 Torino-Atalanta,ITA-SERIA_A,18-19,90d2d7d3
+6817095b,Vincenzo Millico,72,ITA,CM,18-195,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Torino,2019-02-23 Torino-Atalanta,ITA-SERIA_A,18-19,90d2d7d3
+246d153b,Ola Aina,34,NGA,WB,22-138,90,0,0,0,0,0,0,0,0,51,2,3,1,0.0,0.0,0.0,1,0,23,37,62.2,6,24,3,0,0,Torino,2019-02-23 Torino-Atalanta,ITA-SERIA_A,18-19,90d2d7d3
+e74f0e59,Lorenzo De Silvestri,29,ITA,WB,30-276,90,0,0,0,0,2,1,0,0,54,0,1,1,0.1,0.1,0.5,6,0,15,41,36.6,3,20,1,0,0,Torino,2019-02-23 Torino-Atalanta,ITA-SERIA_A,18-19,90d2d7d3
+55667895,Emiliano Moretti,24,ITA,CB,37-257,90,0,0,0,0,0,0,0,0,34,1,2,3,0.0,0.0,0.0,1,0,13,21,61.9,2,14,0,0,0,Torino,2019-02-23 Torino-Atalanta,ITA-SERIA_A,18-19,90d2d7d3
+93cf32a8,Nicolas Nkoulou,33,CMR,CB,28-333,90,0,0,0,0,0,0,1,0,38,0,3,2,0.0,0.0,0.0,1,0,23,30,76.7,2,18,0,0,0,Torino,2019-02-23 Torino-Atalanta,ITA-SERIA_A,18-19,90d2d7d3
+89976232,Armando Izzo,5,ITA,CB,26-358,90,1,0,0,0,1,1,0,0,36,4,0,2,0.2,0.2,0.0,0,0,9,22,40.9,0,15,0,0,0,Torino,2019-02-23 Torino-Atalanta,ITA-SERIA_A,18-19,90d2d7d3
+10dc46f0,Salvatore Sirigu,39,ITA,GK,32-042,90,0,0,0,0,0,0,0,0,39,0,0,0,0.0,0.0,0.0,0,0,19,37,51.4,0,21,0,0,0,Torino,2019-02-23 Torino-Atalanta,ITA-SERIA_A,18-19,90d2d7d3
+d3de9af0,Duván Zapata,91,COL,FW,27-328,90,0,0,0,0,2,1,0,0,34,0,0,0,0.1,0.1,0.2,2,0,17,21,81.0,3,31,1,3,1,Atalanta,2019-02-23 Torino-Atalanta,ITA-SERIA_A,18-19,90d2d7d3
+68252d6d,Josip Iličić,72,SVN,AM,31-025,90,0,0,0,0,1,0,0,0,62,0,0,1,0.0,0.0,0.2,4,0,30,47,63.8,4,57,6,5,2,Atalanta,2019-02-23 Torino-Atalanta,ITA-SERIA_A,18-19,90d2d7d3
+197640fd,Timothy Castagne,21,BEL,"WB,AM",23-080,78,0,0,0,0,2,1,1,0,64,1,0,3,0.2,0.2,0.0,2,0,38,52,73.1,0,40,3,4,4,Atalanta,2019-02-23 Torino-Atalanta,ITA-SERIA_A,18-19,90d2d7d3
+6213fd82,Arkadiusz Reca,7,POL,WB,23-251,12,0,0,0,0,0,0,0,0,14,0,3,0,0.0,0.0,0.0,0,0,8,11,72.7,0,8,1,0,0,Atalanta,2019-02-23 Torino-Atalanta,ITA-SERIA_A,18-19,90d2d7d3
+e599253a,Mario Pašalić,88,CRO,CM,24-014,90,0,0,0,0,1,0,0,0,83,4,0,1,0.0,0.0,0.0,2,0,59,72,81.9,6,62,2,1,1,Atalanta,2019-02-23 Torino-Atalanta,ITA-SERIA_A,18-19,90d2d7d3
+98d2c2c4,Remo Freuler,11,SUI,CM,26-314,90,0,0,0,0,0,0,0,0,76,1,0,2,0.0,0.0,0.0,0,0,59,65,90.8,5,54,1,2,0,Atalanta,2019-02-23 Torino-Atalanta,ITA-SERIA_A,18-19,90d2d7d3
+2d970560,Robin Gosens,8,GER,WB,24-233,17,0,0,0,0,1,0,0,0,5,0,0,0,0.0,0.0,0.0,1,0,3,3,100.0,1,4,1,0,0,Atalanta,2019-02-23 Torino-Atalanta,ITA-SERIA_A,18-19,90d2d7d3
+df3cda47,Dejan Kulusevski,44,SWE,"AM,WB",18-304,53,0,0,0,0,0,0,0,0,35,1,0,1,0.0,0.0,0.0,0,0,16,29,55.2,2,30,4,1,1,Atalanta,2019-02-23 Torino-Atalanta,ITA-SERIA_A,18-19,90d2d7d3
+e5bf73f3,Musa Barrow,99,GAM,AM,20-101,20,0,0,0,0,1,0,0,0,13,2,0,0,0.1,0.1,0.0,0,0,7,10,70.0,1,8,0,0,0,Atalanta,2019-02-23 Torino-Atalanta,ITA-SERIA_A,18-19,90d2d7d3
+3b333ac3,Hans Hateboer,33,NED,WB,25-045,90,0,0,0,0,0,0,0,0,69,2,1,0,0.0,0.0,0.0,1,0,43,59,72.9,4,43,5,2,2,Atalanta,2019-02-23 Torino-Atalanta,ITA-SERIA_A,18-19,90d2d7d3
+e0314d87,Andrea Masiello,5,ITA,CB,33-018,90,0,0,0,0,0,0,0,0,91,3,6,1,0.0,0.0,0.0,2,0,60,78,76.9,12,53,0,0,0,Atalanta,2019-02-23 Torino-Atalanta,ITA-SERIA_A,18-19,90d2d7d3
+6eee05f1,Berat Djimsiti,19,ALB,CB,26-004,90,0,0,0,0,0,0,0,0,59,3,1,0,0.0,0.0,0.1,0,0,41,50,82.0,1,30,0,1,1,Atalanta,2019-02-23 Torino-Atalanta,ITA-SERIA_A,18-19,90d2d7d3
+5aa53281,Gianluca Mancini,23,ITA,CB,22-312,90,0,0,0,0,2,1,0,0,84,3,2,2,0.2,0.2,0.1,3,0,58,72,80.6,2,48,3,1,1,Atalanta,2019-02-23 Torino-Atalanta,ITA-SERIA_A,18-19,90d2d7d3
+ee833569,Etrit Berisha,1,ALB,GK,29-350,90,0,0,0,0,0,0,0,0,34,0,0,0,0.0,0.0,0.0,1,0,26,32,81.3,0,20,0,0,0,Atalanta,2019-02-23 Torino-Atalanta,ITA-SERIA_A,18-19,90d2d7d3

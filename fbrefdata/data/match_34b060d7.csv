@@ -1,0 +1,29 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+f83c8d6c,Jimmy Briand,7,FRA,FW,34-057,67,0,0,0,0,0,0,0,0,15,1,0,0,0.0,0.0,0.0,0,0,8,12,66.7,0,7,1,0,0,Bordeaux,2019-09-28 Bordeaux-Paris S-G,FRA-L1,19-20,34b060d7
+c46fa34c,Youssef Aït Bennasser,17,MAR,AM,23-083,23,0,0,0,0,0,0,0,0,13,0,0,0,0.0,0.0,0.0,0,0,10,12,83.3,2,9,0,0,0,Bordeaux,2019-09-28 Bordeaux-Paris S-G,FRA-L1,19-20,34b060d7
+26777636,Yacine Adli,19,FRA,AM,19-061,55,0,0,0,0,0,0,0,0,24,0,0,0,0.0,0.0,0.0,0,0,16,21,76.2,1,24,0,1,1,Bordeaux,2019-09-28 Bordeaux-Paris S-G,FRA-L1,19-20,34b060d7
+b0547a87,Nicolas de Préville,12,FRA,"FW,AM",28-263,35,0,0,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.0,1,0,5,9,55.6,1,11,2,0,0,Bordeaux,2019-09-28 Bordeaux-Paris S-G,FRA-L1,19-20,34b060d7
+a2d873dd,Hwang Ui-jo,18,KOR,"AM,LW",27-031,90,0,0,0,0,2,1,0,0,37,1,1,0,0.1,0.1,0.0,0,0,17,23,73.9,1,21,6,3,1,Bordeaux,2019-09-28 Bordeaux-Paris S-G,FRA-L1,19-20,34b060d7
+4f255115,Aurélien Tchouaméni,8,FRA,"CM,DM",19-244,90,0,0,0,0,1,0,0,0,57,5,0,0,0.0,0.0,0.0,2,0,37,46,80.4,4,27,0,1,1,Bordeaux,2019-09-28 Bordeaux-Paris S-G,FRA-L1,19-20,34b060d7
+243f4a0b,Otávio,5,BRA,"CM,DM",25-147,90,0,0,0,0,0,0,0,0,51,4,1,1,0.0,0.0,0.0,1,0,34,43,79.1,0,34,0,1,1,Bordeaux,2019-09-28 Bordeaux-Paris S-G,FRA-L1,19-20,34b060d7
+b8d22478,Samuel Kalu,10,NGA,"WB,RW",22-033,90,0,0,0,0,1,0,0,0,37,1,3,1,0.0,0.0,0.0,1,0,18,21,85.7,0,28,1,2,1,Bordeaux,2019-09-28 Bordeaux-Paris S-G,FRA-L1,19-20,34b060d7
+4bf69118,Enock Kwateng,25,FRA,"WB,RB",22-172,90,0,0,0,0,0,0,0,0,63,2,1,0,0.0,0.0,0.0,0,0,31,50,62.0,2,41,2,3,3,Bordeaux,2019-09-28 Bordeaux-Paris S-G,FRA-L1,19-20,34b060d7
+29d8ad3f,Pablo,3,BRA,CB,28-099,76,0,0,0,0,0,0,0,0,48,1,5,0,0.0,0.0,0.0,0,0,24,33,72.7,0,23,1,0,0,Bordeaux,2019-09-28 Bordeaux-Paris S-G,FRA-L1,19-20,34b060d7
+f5b6fb78,Loris Benito,23,SUI,LB,27-264,14,0,0,0,0,0,0,0,0,11,1,0,1,0.0,0.0,0.0,0,0,5,7,71.4,2,4,1,0,0,Bordeaux,2019-09-28 Bordeaux-Paris S-G,FRA-L1,19-20,34b060d7
+f5efb153,Laurent Koscielny,6,FRA,CB,34-018,90,0,0,0,0,0,0,0,0,47,2,1,2,0.0,0.0,0.0,0,0,28,34,82.4,0,25,0,0,0,Bordeaux,2019-09-28 Bordeaux-Paris S-G,FRA-L1,19-20,34b060d7
+ce492295,Mexer,4,MOZ,CB,31-020,90,0,0,0,0,0,0,0,0,52,1,2,0,0.0,0.0,0.0,0,0,32,44,72.7,0,33,0,1,1,Bordeaux,2019-09-28 Bordeaux-Paris S-G,FRA-L1,19-20,34b060d7
+2434f24a,Benoît Costil,1,FRA,GK,32-087,90,0,0,0,0,0,0,0,0,51,0,1,0,0.0,0.0,0.0,0,0,36,45,80.0,0,19,0,0,0,Bordeaux,2019-09-28 Bordeaux-Paris S-G,FRA-L1,19-20,34b060d7
+69384e5d,Neymar,10,BRA,FW,27-235,90,1,0,0,0,6,2,0,0,70,2,0,0,1.4,1.4,0.1,3,0,37,54,68.5,12,46,6,8,5,Paris Saint-Germain,2019-09-28 Bordeaux-Paris S-G,FRA-L1,19-20,34b060d7
+19cda00b,Ángel Di María,11,ARG,LW,31-226,87,0,0,0,0,5,2,1,0,63,0,0,2,0.4,0.4,0.0,5,0,29,49,59.2,2,28,6,4,4,Paris Saint-Germain,2019-09-28 Bordeaux-Paris S-G,FRA-L1,19-20,34b060d7
+433dc9a2,Juan Bernat,14,ESP,LW,26-211,3,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,6,6,100.0,1,2,0,0,0,Paris Saint-Germain,2019-09-28 Bordeaux-Paris S-G,FRA-L1,19-20,34b060d7
+9744ff80,Pablo Sarabia,19,ESP,RW,27-140,59,0,0,0,0,1,0,0,0,28,1,0,0,0.1,0.1,0.0,3,0,16,24,66.7,1,15,1,1,0,Paris Saint-Germain,2019-09-28 Bordeaux-Paris S-G,FRA-L1,19-20,34b060d7
+42fd9c7f,Kylian Mbappé,7,FRA,RW,20-282,31,0,1,0,0,5,3,0,0,30,0,0,0,0.7,0.7,0.8,4,1,19,22,86.4,3,17,3,5,2,Paris Saint-Germain,2019-09-28 Bordeaux-Paris S-G,FRA-L1,19-20,34b060d7
+1467af0d,Marco Verratti,6,ITA,LM,26-327,90,0,0,0,0,0,0,1,0,106,2,1,2,0.0,0.0,0.6,5,0,88,97,90.7,13,63,1,4,3,Paris Saint-Germain,2019-09-28 Bordeaux-Paris S-G,FRA-L1,19-20,34b060d7
+d5f2f82b,Marquinhos,5,BRA,CM,25-137,90,0,0,0,0,0,0,1,0,81,3,2,2,0.0,0.0,0.0,2,0,62,70,88.6,10,33,1,1,0,Paris Saint-Germain,2019-09-28 Bordeaux-Paris S-G,FRA-L1,19-20,34b060d7
+72c812f3,Idrissa Gana Gueye,27,SEN,RM,30-002,90,0,0,0,0,2,0,0,0,86,2,3,0,0.1,0.1,0.1,4,1,67,78,85.9,17,49,5,4,2,Paris Saint-Germain,2019-09-28 Bordeaux-Paris S-G,FRA-L1,19-20,34b060d7
+41e7ef1c,Layvin Kurzawa,20,FRA,LB,27-024,90,0,0,0,0,0,0,0,0,89,3,3,1,0.0,0.0,0.0,1,0,65,74,87.8,7,38,1,2,1,Paris Saint-Germain,2019-09-28 Bordeaux-Paris S-G,FRA-L1,19-20,34b060d7
+fc62f087,Abdou Diallo,22,SEN,CB,23-147,90,0,0,0,0,0,0,0,0,90,0,0,1,0.0,0.0,0.3,2,0,80,84,95.2,10,51,1,0,0,Paris Saint-Germain,2019-09-28 Bordeaux-Paris S-G,FRA-L1,19-20,34b060d7
+86e7deaf,Thiago Silva,2,BRA,CB,35-006,90,0,0,0,0,0,0,0,0,79,2,3,0,0.0,0.0,0.0,3,0,66,70,94.3,8,36,0,0,0,Paris Saint-Germain,2019-09-28 Bordeaux-Paris S-G,FRA-L1,19-20,34b060d7
+e162b013,Thomas Meunier,12,BEL,RB,28-016,90,0,0,0,0,2,0,0,0,74,3,0,0,0.1,0.1,0.5,5,0,55,68,80.9,10,33,4,0,0,Paris Saint-Germain,2019-09-28 Bordeaux-Paris S-G,FRA-L1,19-20,34b060d7
+ecada4fc,Keylor Navas,1,CRC,GK,32-287,90,0,0,0,0,0,0,0,0,22,0,0,0,0.0,0.0,0.0,0,0,19,22,86.4,0,12,0,0,0,Paris Saint-Germain,2019-09-28 Bordeaux-Paris S-G,FRA-L1,19-20,34b060d7

@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+9bd3b683,Fran Sol,9,ESP,FW,26-345,89,1,0,0,0,2,2,0,0,30,0,0,1,1.0,1.0,0.0,0,0,15,22,68.2,0,15,1,0,0,Dynamo Kyiv,2019-02-21 Dynamo Kyiv-Olympiacos,UEL,18-19,cb964cbf
+dab75831,Nazariy Rusyn,43,UKR,FW,20-119,1,0,0,0,0,1,0,0,0,1,0,0,0,0.1,0.1,0.0,3,0,0,0,,0,1,1,2,2,Dynamo Kyiv,2019-02-21 Dynamo Kyiv-Olympiacos,UEL,18-19,cb964cbf
+2ebc1b44,Benjamin Verbič,7,SVN,LW,25-086,89,0,0,0,0,1,1,1,0,43,2,0,2,0.0,0.0,0.0,0,0,16,23,69.6,4,28,4,5,2,Dynamo Kyiv,2019-02-21 Dynamo Kyiv-Olympiacos,UEL,18-19,cb964cbf
+b9ec784d,Yevhenii Smyrnyi,45,UKR,LW,20-187,1,0,0,0,0,1,0,0,0,2,0,0,0,0.1,0.1,0.0,0,0,1,1,100.0,0,1,0,0,0,Dynamo Kyiv,2019-02-21 Dynamo Kyiv-Olympiacos,UEL,18-19,cb964cbf
+f7e87032,Viktor Tsyhankov,15,UKR,RW,21-098,90,0,0,0,0,1,1,0,0,58,0,1,2,0.0,0.0,0.1,5,0,37,50,74.0,6,33,5,4,2,Dynamo Kyiv,2019-02-21 Dynamo Kyiv-Olympiacos,UEL,18-19,cb964cbf
+17e3e467,Mykola Shaparenko,10,UKR,AM,20-140,75,0,0,0,0,1,1,0,0,35,3,0,1,0.0,0.0,0.1,3,1,20,23,87.0,4,20,4,1,1,Dynamo Kyiv,2019-02-21 Dynamo Kyiv-Olympiacos,UEL,18-19,cb964cbf
+bfc5768b,Denys Harmash,19,UKR,AM,28-308,15,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,3,5,60.0,1,5,0,0,0,Dynamo Kyiv,2019-02-21 Dynamo Kyiv-Olympiacos,UEL,18-19,cb964cbf
+b8814868,Vitaliy Buyalskyi,29,UKR,DM,26-046,90,0,0,0,0,0,0,0,0,59,3,1,0,0.0,0.0,0.0,1,0,41,51,80.4,3,40,2,3,3,Dynamo Kyiv,2019-02-21 Dynamo Kyiv-Olympiacos,UEL,18-19,cb964cbf
+a81ed730,Volodymyr Shepelyev,8,UKR,DM,21-265,90,0,0,0,0,1,0,1,0,71,1,0,1,0.1,0.1,0.0,0,0,45,60,75.0,3,34,2,4,3,Dynamo Kyiv,2019-02-21 Dynamo Kyiv-Olympiacos,UEL,18-19,cb964cbf
+30d4a2e5,Vitaliy Mykolenko,16,UKR,LB,19-268,90,0,1,0,0,2,0,0,0,72,1,4,2,0.1,0.1,1.1,3,1,35,50,70.0,2,29,2,1,0,Dynamo Kyiv,2019-02-21 Dynamo Kyiv-Olympiacos,UEL,18-19,cb964cbf
+52e101a8,Artem Shabanov,30,UKR,CB,26-351,90,0,0,0,0,1,0,0,0,60,1,1,0,0.0,0.0,0.0,0,0,39,50,78.0,2,22,0,0,0,Dynamo Kyiv,2019-02-21 Dynamo Kyiv-Olympiacos,UEL,18-19,cb964cbf
+44f050bc,Mykyta Burda,26,UKR,CB,23-334,90,0,0,0,0,0,0,0,0,49,3,1,0,0.0,0.0,0.0,1,0,26,36,72.2,3,26,2,1,0,Dynamo Kyiv,2019-02-21 Dynamo Kyiv-Olympiacos,UEL,18-19,cb964cbf
+dc52c72f,Tomasz Kędziora,94,POL,RB,24-255,90,0,0,0,0,0,0,1,0,56,0,0,1,0.0,0.0,0.1,2,0,37,46,80.4,3,23,1,0,0,Dynamo Kyiv,2019-02-21 Dynamo Kyiv-Olympiacos,UEL,18-19,cb964cbf
+1e064bfb,Denys Boyko,71,UKR,GK,31-023,90,0,0,0,0,0,0,0,0,31,0,0,0,0.0,0.0,0.0,0,0,11,26,42.3,0,15,0,0,0,Dynamo Kyiv,2019-02-21 Dynamo Kyiv-Olympiacos,UEL,18-19,cb964cbf
+9fc2531b,Koka,18,EGY,FW,25-353,90,0,0,0,0,3,1,0,0,38,4,1,1,0.6,0.6,0.0,2,0,18,24,75.0,1,17,0,1,1,Olympiacos,2019-02-21 Dynamo Kyiv-Olympiacos,UEL,18-19,cb964cbf
+7fcc71d8,Daniel Podence,56,POR,"LW,RM",23-123,90,0,0,0,0,0,0,1,0,50,1,1,0,0.0,0.0,0.1,4,0,27,34,79.4,8,36,3,7,3,Olympiacos,2019-02-21 Dynamo Kyiv-Olympiacos,UEL,18-19,cb964cbf
+e61bdd69,Gil Bastião Dias,31,POR,RW,22-146,45,0,0,0,0,0,0,0,0,31,3,1,1,0.0,0.0,0.0,0,0,16,20,80.0,1,20,1,3,0,Olympiacos,2019-02-21 Dynamo Kyiv-Olympiacos,UEL,18-19,cb964cbf
+9d689a5b,Giorgos Masouras,16,GRE,"LM,RW",25-051,45,0,0,0,0,2,1,0,0,35,2,1,1,0.1,0.1,0.5,1,0,16,26,61.5,1,19,2,2,2,Olympiacos,2019-02-21 Dynamo Kyiv-Olympiacos,UEL,18-19,cb964cbf
+715e5b0e,Kostas Fortounis,7,GRE,AM,26-128,64,0,0,0,0,1,1,0,0,39,0,0,0,0.0,0.0,0.1,2,0,23,34,67.6,5,25,4,6,4,Olympiacos,2019-02-21 Dynamo Kyiv-Olympiacos,UEL,18-19,cb964cbf
+b35db3f6,Miguel Ángel Guerrero,9,ESP,"FW,AM",28-224,26,0,0,0,0,1,1,1,0,7,0,0,0,0.4,0.4,0.1,4,0,4,4,100.0,0,3,0,1,1,Olympiacos,2019-02-21 Dynamo Kyiv-Olympiacos,UEL,18-19,cb964cbf
+1c07b06e,Andreas Bouchalakis,5,GRE,DM,25-322,64,0,0,0,0,0,0,0,0,47,2,1,0,0.0,0.0,0.0,0,0,32,39,82.1,10,18,1,0,0,Olympiacos,2019-02-21 Dynamo Kyiv-Olympiacos,UEL,18-19,cb964cbf
+c44a1d58,Bibras Natkho,6,ISR,"CM,DM",31-003,26,0,0,0,0,1,1,0,0,25,0,0,0,0.1,0.1,0.0,0,0,19,22,86.4,5,11,0,0,0,Olympiacos,2019-02-21 Dynamo Kyiv-Olympiacos,UEL,18-19,cb964cbf
+8754c7ca,Guilherme,12,BRA,"DM,CM",27-322,90,0,0,0,0,0,0,0,0,73,2,0,3,0.0,0.0,0.0,0,0,58,65,89.2,7,37,0,0,0,Olympiacos,2019-02-21 Dynamo Kyiv-Olympiacos,UEL,18-19,cb964cbf
+f315ca93,Kostas Tsimikas,21,GRE,LB,22-285,90,0,0,0,0,1,0,0,0,53,2,0,0,0.1,0.1,0.0,1,0,27,44,61.4,3,26,4,0,0,Olympiacos,2019-02-21 Dynamo Kyiv-Olympiacos,UEL,18-19,cb964cbf
+8bc373ea,Pape Abou Cissé,66,SEN,CB,23-160,90,0,0,0,0,0,0,1,0,68,0,4,1,0.0,0.0,0.0,0,0,43,55,78.2,7,35,2,1,1,Olympiacos,2019-02-21 Dynamo Kyiv-Olympiacos,UEL,18-19,cb964cbf
+3640af28,Yassine Meriah,20,TUN,CB,25-234,90,0,0,0,0,0,0,0,0,70,3,1,1,0.0,0.0,0.0,1,0,54,62,87.1,6,42,1,1,1,Olympiacos,2019-02-21 Dynamo Kyiv-Olympiacos,UEL,18-19,cb964cbf
+8ea2c099,Vasilis Torosidis,35,GRE,RB,33-256,90,0,0,0,0,0,0,1,0,74,2,0,1,0.0,0.0,0.1,2,0,45,66,68.2,7,25,1,1,1,Olympiacos,2019-02-21 Dynamo Kyiv-Olympiacos,UEL,18-19,cb964cbf
+903b6e8b,José Sá,93,POR,GK,26-035,90,0,0,0,0,0,0,0,0,23,0,0,1,0.0,0.0,0.0,1,0,10,20,50.0,0,14,0,0,0,Olympiacos,2019-02-21 Dynamo Kyiv-Olympiacos,UEL,18-19,cb964cbf

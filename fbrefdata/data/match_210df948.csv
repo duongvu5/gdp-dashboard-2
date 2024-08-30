@@ -1,0 +1,32 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+00459419,Marko Arnautović,9,AUT,FW,32-308,90,2,0,0,0,5,3,0,0,37,1,0,0,0.9,0.9,0.2,3,0,19,25,76.0,1,22,1,1,0,Bologna,2022-02-21 Bologna-Spezia,ITA-SERIA_A,21-22,210df948
+e5bf73f3,Musa Barrow,99,GAM,LW,23-099,70,0,1,0,0,4,2,0,0,59,0,0,1,0.3,0.3,0.8,3,1,29,45,64.4,3,28,2,2,1,Bologna,2022-02-21 Bologna-Spezia,ITA-SERIA_A,21-22,210df948
+7eb97a8e,Nicola Sansone,10,ITA,LW,30-164,20,0,1,0,0,1,0,0,0,12,0,0,1,0.0,0.0,0.3,1,1,6,7,85.7,1,8,0,0,0,Bologna,2022-02-21 Bologna-Spezia,ITA-SERIA_A,21-22,210df948
+e14ec482,Riccardo Orsolini,7,ITA,RW,25-028,86,0,0,0,0,4,1,0,0,45,0,0,0,0.3,0.3,0.1,4,0,22,38,57.9,1,27,3,2,1,Bologna,2022-02-21 Bologna-Spezia,ITA-SERIA_A,21-22,210df948
+f9c927de,Michel Aebischer,20,SUI,RW,25-046,4,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,0,0,0,0,Bologna,2022-02-21 Bologna-Spezia,ITA-SERIA_A,21-22,210df948
+1780bb4a,Aaron Hickey,3,SCO,"LM,LB",19-256,90,0,0,0,0,1,0,0,0,57,2,0,1,0.0,0.0,0.2,5,1,37,47,78.7,2,30,3,3,2,Bologna,2022-02-21 Bologna-Spezia,ITA-SERIA_A,21-22,210df948
+2cfae697,Jerdy Schouten,30,NED,"CM,DM",25-040,90,0,0,0,0,0,0,0,0,86,2,4,3,0.0,0.0,0.0,3,0,62,72,86.1,8,36,1,0,0,Bologna,2022-02-21 Bologna-Spezia,ITA-SERIA_A,21-22,210df948
+9d4c45d6,Roberto Soriano,21,ITA,"CM,DM",31-013,90,0,0,0,0,1,1,0,0,75,1,1,3,0.1,0.1,0.2,4,1,57,66,86.4,4,45,4,0,0,Bologna,2022-02-21 Bologna-Spezia,ITA-SERIA_A,21-22,210df948
+e74f0e59,Lorenzo De Silvestri,29,ITA,"RM,RB",33-274,90,0,0,0,0,0,0,0,0,54,0,0,1,0.0,0.0,0.1,4,0,36,46,78.3,4,18,1,2,0,Bologna,2022-02-21 Bologna-Spezia,ITA-SERIA_A,21-22,210df948
+df8d6029,Arthur Theate,6,BEL,CB,21-272,90,0,0,0,0,0,0,0,0,70,3,0,0,0.0,0.0,0.0,2,0,50,62,80.6,3,34,1,0,0,Bologna,2022-02-21 Bologna-Spezia,ITA-SERIA_A,21-22,210df948
+36e88fbc,Luis Binks,2,ENG,CB,20-172,70,0,0,0,0,0,0,1,0,49,0,3,0,0.0,0.0,0.0,0,0,36,46,78.3,4,24,0,1,1,Bologna,2022-02-21 Bologna-Spezia,ITA-SERIA_A,21-22,210df948
+ec5dae45,Emanuel Vignato,55,ITA,AM,21-181,20,0,0,0,0,1,0,0,0,19,0,0,0,0.0,0.0,0.0,0,0,13,15,86.7,2,13,0,0,0,Bologna,2022-02-21 Bologna-Spezia,ITA-SERIA_A,21-22,210df948
+fb77bfef,Kevin Bonifazi,4,ITA,CB,25-278,63,0,0,0,0,2,0,0,0,57,2,1,0,0.4,0.4,0.0,1,0,44,50,88.0,6,31,3,4,3,Bologna,2022-02-21 Bologna-Spezia,ITA-SERIA_A,21-22,210df948
+7b075c75,Adama Soumaoro,5,FRA,CB,29-248,27,0,0,0,0,0,0,0,0,21,0,0,0,0.0,0.0,0.0,0,0,13,18,72.2,1,10,0,0,0,Bologna,2022-02-21 Bologna-Spezia,ITA-SERIA_A,21-22,210df948
+ab4449d6,Łukasz Skorupski,28,POL,GK,30-292,90,0,0,0,0,0,0,0,0,26,0,0,0,0.0,0.0,0.0,0,0,20,25,80.0,0,16,0,0,0,Bologna,2022-02-21 Bologna-Spezia,ITA-SERIA_A,21-22,210df948
+7703afb6,Rey Manaj,9,ALB,FW,24-362,80,1,0,0,0,2,1,1,0,35,3,1,1,0.1,0.1,0.1,2,0,13,15,86.7,1,21,4,1,1,Spezia,2022-02-21 Bologna-Spezia,ITA-SERIA_A,21-22,210df948
+de135234,Aurélien Nguiamba,39,FRA,DM,23-034,10,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,0,0,7,10,70.0,0,7,0,0,0,Spezia,2022-02-21 Bologna-Spezia,ITA-SERIA_A,21-22,210df948
+f9758dae,Emmanuel Gyasi,11,GHA,LW,28-041,90,0,0,0,0,0,0,0,0,33,5,1,1,0.0,0.0,0.0,1,1,16,18,88.9,0,20,0,1,1,Spezia,2022-02-21 Bologna-Spezia,ITA-SERIA_A,21-22,210df948
+d3298c99,Daniele Verde,10,ITA,RW,25-246,90,0,0,0,0,3,1,0,0,38,0,0,2,0.2,0.2,0.0,1,0,24,30,80.0,2,26,1,2,0,Spezia,2022-02-21 Bologna-Spezia,ITA-SERIA_A,21-22,210df948
+957e4c87,Giulio Maggiore,25,ITA,AM,23-346,64,0,0,0,0,0,0,0,0,23,1,0,0,0.0,0.0,0.0,1,0,9,14,64.3,0,12,0,1,0,Spezia,2022-02-21 Bologna-Spezia,ITA-SERIA_A,21-22,210df948
+46fa7204,Kevin Agudelo,33,COL,AM,23-099,26,0,0,0,0,0,0,0,0,13,1,0,0,0.0,0.0,0.0,0,0,4,9,44.4,1,9,0,0,0,Spezia,2022-02-21 Bologna-Spezia,ITA-SERIA_A,21-22,210df948
+dc3e663e,Jakub Kiwior,14,POL,DM,22-006,90,0,0,0,0,0,0,0,0,42,1,3,2,0.0,0.0,0.0,1,0,23,28,82.1,5,21,0,0,0,Spezia,2022-02-21 Bologna-Spezia,ITA-SERIA_A,21-22,210df948
+da5a981b,Jacopo Sala,7,ITA,DM,30-078,80,0,0,0,0,1,0,0,0,35,1,2,1,0.0,0.0,0.0,3,0,22,26,84.6,2,17,0,2,0,Spezia,2022-02-21 Bologna-Spezia,ITA-SERIA_A,21-22,210df948
+a4948e67,M'Bala Nzola,18,ANG,FW,25-187,10,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,3,5,60.0,1,4,0,0,0,Spezia,2022-02-21 Bologna-Spezia,ITA-SERIA_A,21-22,210df948
+6213fd82,Arkadiusz Reca,13,POL,LB,26-249,57,0,1,0,0,0,0,0,0,39,0,2,0,0.0,0.0,0.2,2,1,21,34,61.8,0,20,4,0,0,Spezia,2022-02-21 Bologna-Spezia,ITA-SERIA_A,21-22,210df948
+1ac232b8,Simone Bastoni,20,ITA,LB,25-108,33,0,0,0,0,0,0,0,0,26,3,4,2,0.0,0.0,0.0,0,0,11,15,73.3,2,12,2,2,1,Spezia,2022-02-21 Bologna-Spezia,ITA-SERIA_A,21-22,210df948
+cf961d8d,Dimitris Nikolaou,43,GRE,CB,23-192,90,0,0,0,0,0,0,0,0,57,0,1,3,0.0,0.0,0.0,0,0,36,48,75.0,0,31,0,0,0,Spezia,2022-02-21 Bologna-Spezia,ITA-SERIA_A,21-22,210df948
+0fee6bda,Martin Erlic,28,CRO,CB,24-028,90,0,0,0,0,0,0,0,0,38,0,1,2,0.0,0.0,0.0,0,0,22,28,78.6,0,15,0,0,0,Spezia,2022-02-21 Bologna-Spezia,ITA-SERIA_A,21-22,210df948
+eb76987d,Salvador Ferrer,21,ESP,RB,24-031,90,0,0,0,0,0,0,0,0,42,3,0,0,0.0,0.0,0.0,1,0,26,37,70.3,1,9,0,0,0,Spezia,2022-02-21 Bologna-Spezia,ITA-SERIA_A,21-22,210df948
+277da414,Ivan Provedel,94,ITA,GK,27-341,90,0,0,0,0,0,0,0,0,48,0,0,0,0.0,0.0,0.0,0,0,21,45,46.7,1,35,0,0,0,Spezia,2022-02-21 Bologna-Spezia,ITA-SERIA_A,21-22,210df948

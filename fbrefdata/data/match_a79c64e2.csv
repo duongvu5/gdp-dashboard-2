@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+b2bd0f6c,Jonathan Bamba,14,CIV,"FW,RM",21-320,90,0,2,0,0,1,0,0,0,55,0,0,1,0.2,0.2,1.0,2,1,33,44,75.0,4,36,1,2,0,Saint-Étienne,2018-02-09 Saint-Étienne-Marseille,FRA-L1,17-18,a79c64e2
+0b4d8274,Romain Hamouma,21,FRA,FW,30-317,90,0,0,0,0,2,0,0,0,38,0,0,0,0.5,0.5,0.0,3,3,24,28,85.7,3,25,4,4,1,Saint-Étienne,2018-02-09 Saint-Étienne-Marseille,FRA-L1,17-18,a79c64e2
+7f622eef,Assane Dioussé,8,SEN,LM,20-142,60,0,0,0,0,0,0,0,0,37,2,0,3,0.0,0.0,0.0,0,0,23,29,79.3,3,18,1,2,2,Saint-Étienne,2018-02-09 Saint-Étienne-Marseille,FRA-L1,17-18,a79c64e2
+81aeb1dd,Paul-Georges Ntep,7,CMR,"LM,FW",25-195,30,0,0,0,0,1,0,0,0,15,2,0,0,0.0,0.0,0.0,1,0,5,10,50.0,0,5,1,3,2,Saint-Étienne,2018-02-09 Saint-Étienne-Marseille,FRA-L1,17-18,a79c64e2
+4db2157a,Ole Selnæs,17,NOR,CM,23-217,90,0,0,0,0,0,0,0,0,66,3,4,2,0.0,0.0,0.0,1,0,44,54,81.5,5,29,0,0,0,Saint-Étienne,2018-02-09 Saint-Étienne-Marseille,FRA-L1,17-18,a79c64e2
+f86ca403,Vincent Pajot,5,FRA,CM,27-174,70,0,0,0,0,0,0,0,0,51,2,4,0,0.0,0.0,0.0,1,0,32,41,78.0,6,22,0,2,1,Saint-Étienne,2018-02-09 Saint-Étienne-Marseille,FRA-L1,17-18,a79c64e2
+6f5ead86,Hernani,20,BRA,CM,23-319,20,0,0,0,0,0,0,0,0,17,3,0,1,0.0,0.0,0.0,0,0,7,9,77.8,1,8,0,0,0,Saint-Étienne,2018-02-09 Saint-Étienne-Marseille,FRA-L1,17-18,a79c64e2
+4a57580c,Kévin Monnet-Paquet,22,FRA,RM,29-174,70,1,0,0,0,1,1,0,0,47,3,1,0,0.4,0.4,0.5,1,0,16,30,53.3,1,24,2,3,2,Saint-Étienne,2018-02-09 Saint-Étienne-Marseille,FRA-L1,17-18,a79c64e2
+9001138b,Robert Berić,27,SVN,"FW,LM",26-237,20,1,0,0,0,2,2,0,0,7,0,0,1,0.7,0.7,0.0,0,0,4,4,100.0,0,3,0,0,0,Saint-Étienne,2018-02-09 Saint-Étienne-Marseille,FRA-L1,17-18,a79c64e2
+4914ed4a,Gabriel Silva,11,BRA,LB,26-272,90,0,0,0,0,0,0,0,0,71,1,4,1,0.0,0.0,0.0,0,0,47,59,79.7,4,37,6,3,3,Saint-Étienne,2018-02-09 Saint-Étienne-Marseille,FRA-L1,17-18,a79c64e2
+6b200d45,Loïc Perrin,24,FRA,CB,32-186,90,0,0,0,0,0,0,0,0,72,2,1,2,0.0,0.0,0.0,1,0,51,63,81.0,1,31,0,1,1,Saint-Étienne,2018-02-09 Saint-Étienne-Marseille,FRA-L1,17-18,a79c64e2
+821233cc,Neven Subotić,28,SRB,CB,29-061,90,0,0,0,0,0,0,0,0,88,2,3,0,0.0,0.0,0.0,0,0,60,79,75.9,4,45,1,1,0,Saint-Étienne,2018-02-09 Saint-Étienne-Marseille,FRA-L1,17-18,a79c64e2
+92232aad,Mathieu Debuchy,26,FRA,RB,32-196,90,0,0,0,0,0,0,0,0,95,1,4,3,0.0,0.0,0.3,3,0,61,80,76.3,6,29,3,0,0,Saint-Étienne,2018-02-09 Saint-Étienne-Marseille,FRA-L1,17-18,a79c64e2
+cac76a72,Stéphane Ruffier,16,FRA,GK,31-135,90,0,0,0,0,0,0,0,0,43,0,0,0,0.0,0.0,0.0,1,0,26,41,63.4,0,23,0,0,0,Saint-Étienne,2018-02-09 Saint-Étienne-Marseille,FRA-L1,17-18,a79c64e2
+ea0ff634,Valère Germain,28,FRA,FW,27-298,66,0,0,0,0,1,1,0,0,21,1,0,1,0.1,0.1,0.0,1,0,6,12,50.0,0,11,0,1,0,Marseille,2018-02-09 Saint-Étienne-Marseille,FRA-L1,17-18,a79c64e2
+77f278a0,Clinton N'Jie,14,CMR,"FW,LW",24-178,24,0,0,0,0,0,0,0,0,11,0,0,1,0.0,0.0,0.0,0,0,2,4,50.0,0,6,1,3,0,Marseille,2018-02-09 Saint-Étienne-Marseille,FRA-L1,17-18,a79c64e2
+58ae47b2,Dimitri Payet,10,FRA,"LW,AM",30-317,90,0,0,0,0,0,0,0,0,74,3,0,3,0.0,0.0,0.1,4,0,43,62,69.4,5,43,4,5,4,Marseille,2018-02-09 Saint-Étienne-Marseille,FRA-L1,17-18,a79c64e2
+2b9fdeea,Florian Thauvin,26,FRA,RW,25-014,90,1,0,0,0,3,2,0,0,53,3,0,1,0.2,0.2,0.0,2,1,18,37,48.6,2,39,5,3,1,Marseille,2018-02-09 Saint-Étienne-Marseille,FRA-L1,17-18,a79c64e2
+6e7f1353,Morgan Sanson,8,FRA,AM,23-175,82,1,0,0,0,2,1,0,0,40,2,0,2,0.1,0.1,0.0,2,0,24,30,80.0,3,29,1,4,1,Marseille,2018-02-09 Saint-Étienne-Marseille,FRA-L1,17-18,a79c64e2
+c6ac6579,Kostas Mitroglou,11,GRE,FW,29-334,8,0,0,0,0,1,0,0,0,1,0,0,0,0.3,0.3,0.0,0,0,0,0,,0,0,0,0,0,Marseille,2018-02-09 Saint-Étienne-Marseille,FRA-L1,17-18,a79c64e2
+82671804,Luiz Gustavo,19,BRA,DM,30-201,90,0,0,0,0,3,0,0,0,74,0,1,0,0.1,0.1,0.1,4,0,58,68,85.3,3,57,3,1,1,Marseille,2018-02-09 Saint-Étienne-Marseille,FRA-L1,17-18,a79c64e2
+6bb2c084,Andre-Frank Zambo Anguissa,29,CMR,DM,22-085,90,0,0,0,0,1,0,0,0,75,1,6,2,0.0,0.0,0.0,1,1,53,63,84.1,4,61,2,6,6,Marseille,2018-02-09 Saint-Étienne-Marseille,FRA-L1,17-18,a79c64e2
+d63e2912,Hiroki Sakai,2,JPN,LB,27-303,90,0,1,0,0,0,0,0,0,80,4,5,2,0.0,0.0,0.1,1,1,41,63,65.1,3,40,1,1,1,Marseille,2018-02-09 Saint-Étienne-Marseille,FRA-L1,17-18,a79c64e2
+0eeafda5,Rolando,6,POR,CB,32-162,90,0,0,0,0,0,0,0,0,57,2,3,0,0.0,0.0,0.0,0,0,35,45,77.8,1,32,0,0,0,Marseille,2018-02-09 Saint-Étienne-Marseille,FRA-L1,17-18,a79c64e2
+8dbff17c,Adil Rami,23,FRA,CB,32-044,90,0,0,0,0,0,0,0,0,64,2,0,1,0.0,0.0,0.0,0,0,48,59,81.4,1,40,0,1,1,Marseille,2018-02-09 Saint-Étienne-Marseille,FRA-L1,17-18,a79c64e2
+1a4b9094,Bouna Sarr,17,SEN,RB,26-009,90,0,1,0,0,1,0,0,0,74,7,2,1,0.0,0.0,0.1,3,1,43,61,70.5,0,40,2,3,1,Marseille,2018-02-09 Saint-Étienne-Marseille,FRA-L1,17-18,a79c64e2
+1d2d5cc8,Steve Mandanda,30,FRA,GK,32-318,42,0,0,0,0,0,0,0,0,13,0,0,0,0.0,0.0,0.0,0,0,5,13,38.5,0,8,0,0,0,Marseille,2018-02-09 Saint-Étienne-Marseille,FRA-L1,17-18,a79c64e2
+76806215,Yohann Pelé,16,FRA,GK,35-097,48,0,0,0,0,0,0,0,0,13,0,0,0,0.0,0.0,0.0,0,0,8,12,66.7,0,5,0,0,0,Marseille,2018-02-09 Saint-Étienne-Marseille,FRA-L1,17-18,a79c64e2

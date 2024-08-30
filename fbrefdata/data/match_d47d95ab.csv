@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+43b78598,Mauro Icardi,9,ARG,FW,27-338,81,1,1,0,0,5,2,0,0,18,0,0,1,1.7,1.7,0.9,4,1,9,10,90.0,0,8,0,0,0,Paris Saint-Germain,2021-01-22 Paris S-G-Montpellier,FRA-L1,20-21,d47d95ab
+9744ff80,Pablo Sarabia,19,ESP,RW,28-256,9,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,3,0,0,0,Paris Saint-Germain,2021-01-22 Paris S-G-Montpellier,FRA-L1,20-21,d47d95ab
+69384e5d,Neymar,10,BRA,LW,28-352,90,1,0,0,0,8,2,1,0,103,2,1,2,1.0,1.0,0.6,12,3,58,78,74.4,14,72,5,5,2,Paris Saint-Germain,2021-01-22 Paris S-G-Montpellier,FRA-L1,20-21,d47d95ab
+19cda00b,Ángel Di María,11,ARG,"RW,AM",32-343,90,0,1,0,0,5,0,0,0,74,2,0,1,0.3,0.3,0.5,7,2,48,61,78.7,11,46,4,1,0,Paris Saint-Germain,2021-01-22 Paris S-G-Montpellier,FRA-L1,20-21,d47d95ab
+42fd9c7f,Kylian Mbappé,7,FRA,"AM,FW",22-033,90,2,1,0,0,4,3,0,0,45,0,0,0,1.3,1.3,0.5,7,1,25,29,86.2,2,31,5,8,2,Paris Saint-Germain,2021-01-22 Paris S-G-Montpellier,FRA-L1,20-21,d47d95ab
+dff153a4,Leandro Paredes,8,ARG,DM,26-207,75,0,0,0,0,0,0,0,0,115,1,3,1,0.0,0.0,0.0,3,0,105,111,94.6,19,86,2,0,0,Paris Saint-Germain,2021-01-22 Paris S-G-Montpellier,FRA-L1,20-21,d47d95ab
+8fd9996f,Danilo Pereira,15,POR,DM,29-135,15,0,0,0,0,0,0,0,0,13,0,0,0,0.0,0.0,0.0,0,0,11,13,84.6,2,10,0,0,0,Paris Saint-Germain,2021-01-22 Paris S-G-Montpellier,FRA-L1,20-21,d47d95ab
+1467af0d,Marco Verratti,6,ITA,DM,28-078,90,0,0,0,0,0,0,1,0,135,3,1,0,0.0,0.0,0.0,2,0,116,124,93.5,16,107,5,0,0,Paris Saint-Germain,2021-01-22 Paris S-G-Montpellier,FRA-L1,20-21,d47d95ab
+41e7ef1c,Layvin Kurzawa,20,FRA,LB,28-140,75,0,0,0,0,1,1,0,0,53,4,2,0,0.1,0.1,0.1,2,0,40,47,85.1,4,27,0,1,1,Paris Saint-Germain,2021-01-22 Paris S-G-Montpellier,FRA-L1,20-21,d47d95ab
+a8567629,Mitchel Bakker,25,NED,LB,20-216,15,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,5,5,100.0,0,5,0,1,1,Paris Saint-Germain,2021-01-22 Paris S-G-Montpellier,FRA-L1,20-21,d47d95ab
+fc62f087,Abdou Diallo,22,SEN,CB,24-263,90,0,0,0,0,1,0,0,0,53,2,0,0,0.1,0.1,0.0,0,0,43,46,93.5,1,34,0,1,0,Paris Saint-Germain,2021-01-22 Paris S-G-Montpellier,FRA-L1,20-21,d47d95ab
+d5f2f82b,Marquinhos,5,BRA,CB,26-253,51,0,0,0,0,0,0,0,0,44,1,0,0,0.0,0.0,0.0,0,0,38,40,95.0,5,29,1,0,0,Paris Saint-Germain,2021-01-22 Paris S-G-Montpellier,FRA-L1,20-21,d47d95ab
+51dbeea9,Thilo Kehrer,4,GER,CB,24-123,39,0,0,0,0,1,0,0,0,18,0,0,0,0.1,0.1,0.0,0,0,16,16,100.0,0,12,0,0,0,Paris Saint-Germain,2021-01-22 Paris S-G-Montpellier,FRA-L1,20-21,d47d95ab
+e288d4b3,Alessandro Florenzi,24,ITA,RB,29-317,90,0,0,0,0,1,0,0,0,65,1,1,1,0.0,0.0,0.4,2,0,48,60,80.0,5,38,3,0,0,Paris Saint-Germain,2021-01-22 Paris S-G-Montpellier,FRA-L1,20-21,d47d95ab
+ecada4fc,Keylor Navas,1,CRC,GK,34-038,45,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,5,6,83.3,0,3,0,0,0,Paris Saint-Germain,2021-01-22 Paris S-G-Montpellier,FRA-L1,20-21,d47d95ab
+5f0241b2,Sergio Rico,16,ESP,GK,27-143,45,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,8,8,100.0,0,5,0,0,0,Paris Saint-Germain,2021-01-22 Paris S-G-Montpellier,FRA-L1,20-21,d47d95ab
+7cdda3bf,Gaëtan Laborde,10,FRA,"FW,LW",26-264,67,0,0,0,0,0,0,0,0,25,0,0,1,0.0,0.0,0.0,0,0,6,15,40.0,0,12,0,2,1,Montpellier,2021-01-22 Paris S-G-Montpellier,FRA-L1,20-21,d47d95ab
+0d7b6576,Elye Wahi,33,FRA,LW,18-020,23,0,0,0,0,0,0,0,0,9,0,0,1,0.0,0.0,0.0,0,0,6,7,85.7,0,5,2,1,1,Montpellier,2021-01-22 Paris S-G-Montpellier,FRA-L1,20-21,d47d95ab
+7e82a78f,Florent Mollet,25,FRA,FW,29-064,34,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,4,6,66.7,1,3,0,0,0,Montpellier,2021-01-22 Paris S-G-Montpellier,FRA-L1,20-21,d47d95ab
+7909ffa4,Joris Chotard,13,FRA,CM,19-120,56,0,0,0,0,0,0,0,0,26,2,0,2,0.0,0.0,0.0,1,0,11,17,64.7,1,9,0,3,2,Montpellier,2021-01-22 Paris S-G-Montpellier,FRA-L1,20-21,d47d95ab
+ea0aa7e0,Mihailo Ristić,7,SRB,LM,25-083,20,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,3,4,75.0,1,1,0,0,0,Montpellier,2021-01-22 Paris S-G-Montpellier,FRA-L1,20-21,d47d95ab
+380a15e2,Dimitry Bertaud,16,COD,GK,22-230,70,0,0,0,0,0,0,0,0,33,0,1,0,0.0,0.0,0.0,0,0,17,28,60.7,0,9,0,0,0,Montpellier,2021-01-22 Paris S-G-Montpellier,FRA-L1,20-21,d47d95ab
+6bde367b,Téji Savanier,11,FRA,CM,29-031,90,0,0,0,0,2,1,0,0,36,0,0,0,0.0,0.0,0.0,2,0,16,29,55.2,4,11,1,3,2,Montpellier,2021-01-22 Paris S-G-Montpellier,FRA-L1,20-21,d47d95ab
+8f4d116f,Damien Le Tallec,14,FRA,CM,30-278,67,0,0,0,0,1,0,0,0,20,1,1,0,0.2,0.2,0.0,0,0,10,14,71.4,0,7,0,0,0,Montpellier,2021-01-22 Paris S-G-Montpellier,FRA-L1,20-21,d47d95ab
+30144daa,Stephy Mavididi,19,ENG,CM,22-236,23,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,0,0,6,7,85.7,0,5,0,2,0,Montpellier,2021-01-22 Paris S-G-Montpellier,FRA-L1,20-21,d47d95ab
+24eb7ed6,Junior Sambia,6,FRA,"RW,RM",24-137,90,0,0,0,0,1,0,0,0,43,3,3,2,0.0,0.0,0.0,0,0,14,21,66.7,0,21,0,2,1,Montpellier,2021-01-22 Paris S-G-Montpellier,FRA-L1,20-21,d47d95ab
+3f5b4635,Daniel Congré,3,FRA,LB,35-292,67,0,0,0,0,0,0,0,0,22,0,2,1,0.0,0.0,0.0,0,0,11,17,64.7,1,3,0,0,0,Montpellier,2021-01-22 Paris S-G-Montpellier,FRA-L1,20-21,d47d95ab
+8f325097,Nicolas Cozza,31,FRA,LB,22-014,23,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,0,0,5,6,83.3,1,4,0,1,1,Montpellier,2021-01-22 Paris S-G-Montpellier,FRA-L1,20-21,d47d95ab
+c4bbea9f,Vitorino Hilton,4,BRA,CB,43-131,90,0,0,0,0,0,0,0,0,27,0,0,1,0.0,0.0,0.0,0,0,19,23,82.6,0,9,0,0,0,Montpellier,2021-01-22 Paris S-G-Montpellier,FRA-L1,20-21,d47d95ab
+6690ef25,Pedro Mendes,5,POR,CB,30-113,90,0,0,0,0,1,0,1,0,37,3,3,2,0.1,0.1,0.2,2,0,21,25,84.0,1,8,0,0,0,Montpellier,2021-01-22 Paris S-G-Montpellier,FRA-L1,20-21,d47d95ab
+4e0afc5d,Arnaud Souquet,2,FRA,RB,28-345,90,0,0,0,0,0,0,0,0,52,7,3,2,0.0,0.0,0.0,0,0,22,33,66.7,2,11,0,3,2,Montpellier,2021-01-22 Paris S-G-Montpellier,FRA-L1,20-21,d47d95ab
+c631f952,Jonas Omlin,1,SUI,GK,27-012,18,0,0,0,0,0,0,0,1,9,0,0,0,0.0,0.0,0.0,0,0,5,9,55.6,0,4,0,1,1,Montpellier,2021-01-22 Paris S-G-Montpellier,FRA-L1,20-21,d47d95ab

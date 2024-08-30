@@ -1,0 +1,32 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+d3de9af0,Duván Zapata,91,COL,FW,30-052,90,0,0,0,0,2,0,0,0,39,0,0,0,0.1,0.1,0.1,2,0,24,30,80.0,1,31,3,2,1,Atalanta,2021-05-23 Atalanta-Milan,ITA-SERIA_A,20-21,b5678aec
+780e3631,Matteo Pessina,32,ITA,AM,24-032,45,0,0,0,0,0,0,0,0,36,1,0,0,0.0,0.0,0.0,0,0,26,32,81.3,4,31,2,0,0,Atalanta,2021-05-23 Atalanta-Milan,ITA-SERIA_A,20-21,b5678aec
+eb2fe5b6,Luis Muriel,9,COL,AM,30-037,45,0,0,0,0,3,0,0,0,36,2,0,1,0.1,0.1,0.0,3,0,15,23,65.2,3,25,1,6,6,Atalanta,2021-05-23 Atalanta-Milan,ITA-SERIA_A,20-21,b5678aec
+48d5bd33,Ruslan Malinovskyi,18,UKR,AM,28-019,90,0,0,0,0,4,1,0,0,62,2,0,0,0.1,0.1,0.2,3,0,37,44,84.1,4,50,1,3,0,Atalanta,2021-05-23 Atalanta-Milan,ITA-SERIA_A,20-21,b5678aec
+98d2c2c4,Remo Freuler,11,SUI,CM,29-038,86,0,0,0,0,0,0,1,0,89,1,2,2,0.0,0.0,0.1,4,0,72,79,91.1,17,74,4,4,3,Atalanta,2021-05-23 Atalanta-Milan,ITA-SERIA_A,20-21,b5678aec
+a9aa0d1d,Aleksei Miranchuk,59,RUS,CM,25-218,4,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Atalanta,2021-05-23 Atalanta-Milan,ITA-SERIA_A,20-21,b5678aec
+2a1beb34,Marten de Roon,15,NED,CM,30-055,89,0,0,0,0,0,0,1,1,95,4,0,1,0.0,0.0,0.0,1,0,76,86,88.4,6,68,3,0,0,Atalanta,2021-05-23 Atalanta-Milan,ITA-SERIA_A,20-21,b5678aec
+2d970560,Robin Gosens,8,GER,WB,26-322,90,0,0,0,0,0,0,0,0,73,4,0,2,0.0,0.0,0.0,1,0,50,62,80.6,6,46,3,0,0,Atalanta,2021-05-23 Atalanta-Milan,ITA-SERIA_A,20-21,b5678aec
+c459a650,Joakim Mæhle,3,DEN,WB,24-003,78,0,0,0,0,2,0,0,0,62,0,0,0,0.1,0.1,0.0,1,0,46,55,83.6,7,45,2,1,0,Atalanta,2021-05-23 Atalanta-Milan,ITA-SERIA_A,20-21,b5678aec
+e599253a,Mario Pašalić,88,CRO,WB,26-103,12,0,0,0,0,0,0,0,0,2,0,0,1,0.0,0.0,0.0,0,0,0,1,0.0,0,1,0,0,0,Atalanta,2021-05-23 Atalanta-Milan,ITA-SERIA_A,20-21,b5678aec
+6eee05f1,Berat Djimsiti,19,ALB,CB,28-093,90,0,0,0,0,1,0,0,0,100,1,2,0,0.2,0.2,0.0,0,0,87,94,92.6,5,77,6,0,0,Atalanta,2021-05-23 Atalanta-Milan,ITA-SERIA_A,20-21,b5678aec
+a3d94a58,Cristian Romero,17,ARG,CB,23-026,90,0,0,0,0,0,0,0,0,77,0,3,1,0.0,0.0,0.0,2,0,59,67,88.1,4,57,1,0,0,Atalanta,2021-05-23 Atalanta-Milan,ITA-SERIA_A,20-21,b5678aec
+c56dc39e,Rafael Tolói,2,ITA,CB,30-225,86,0,0,0,0,1,0,1,0,82,3,2,0,0.1,0.1,0.1,5,0,63,73,86.3,5,56,1,2,1,Atalanta,2021-05-23 Atalanta-Milan,ITA-SERIA_A,20-21,b5678aec
+921f6058,José Luis Palomino,6,ARG,CB,31-138,4,0,0,0,0,0,0,0,0,8,3,0,1,0.0,0.0,0.0,0,0,4,5,80.0,1,4,0,0,0,Atalanta,2021-05-23 Atalanta-Milan,ITA-SERIA_A,20-21,b5678aec
+f0f7f62f,Pierluigi Gollini,95,ITA,GK,26-066,90,0,0,0,0,0,0,0,0,32,0,0,0,0.0,0.0,0.0,0,0,27,29,93.1,0,23,0,0,0,Atalanta,2021-05-23 Atalanta-Milan,ITA-SERIA_A,20-21,b5678aec
+20730eae,Rafael Leão,17,POR,FW,21-347,78,0,0,0,0,1,0,0,0,25,0,0,0,0.4,0.4,0.0,1,0,8,16,50.0,0,16,2,1,0,Milan,2021-05-23 Atalanta-Milan,ITA-SERIA_A,20-21,b5678aec
+afa0d4e0,Mario Mandžukić,9,CRO,FW,35-002,12,0,0,0,0,0,0,1,0,2,1,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Milan,2021-05-23 Atalanta-Milan,ITA-SERIA_A,20-21,b5678aec
+cd0fa27b,Hakan Çalhanoğlu,10,TUR,LW,27-104,90,0,0,0,0,2,0,0,0,36,4,1,0,0.1,0.1,0.0,1,1,12,18,66.7,1,20,0,1,0,Milan,2021-05-23 Atalanta-Milan,ITA-SERIA_A,20-21,b5678aec
+ee251371,Alexis Saelemaekers,56,BEL,RW,21-330,78,0,0,0,0,1,0,0,0,35,1,0,3,0.0,0.0,0.0,1,1,21,24,87.5,1,19,2,2,0,Milan,2021-05-23 Atalanta-Milan,ITA-SERIA_A,20-21,b5678aec
+d9565625,Diogo Dalot,5,POR,RW,22-066,12,0,0,0,0,0,0,1,0,6,1,0,0,0.0,0.0,0.1,1,0,4,4,100.0,0,1,1,0,0,Milan,2021-05-23 Atalanta-Milan,ITA-SERIA_A,20-21,b5678aec
+407feb71,Brahim Díaz,21,MAR,AM,21-293,61,0,0,0,0,0,0,0,0,22,1,0,0,0.0,0.0,0.0,1,0,14,16,87.5,1,13,3,2,0,Milan,2021-05-23 Atalanta-Milan,ITA-SERIA_A,20-21,b5678aec
+5cec2c74,Soualiho Meïté,18,FRA,AM,27-067,29,0,0,0,0,0,0,0,0,8,1,0,0,0.0,0.0,0.4,1,0,2,5,40.0,2,3,1,0,0,Milan,2021-05-23 Atalanta-Milan,ITA-SERIA_A,20-21,b5678aec
+db092d3b,Ismaël Bennacer,4,ALG,DM,23-173,60,0,0,0,0,0,0,0,0,34,3,1,1,0.0,0.0,0.0,1,0,16,21,76.2,0,19,0,0,0,Milan,2021-05-23 Atalanta-Milan,ITA-SERIA_A,20-21,b5678aec
+817c6964,Rade Krunić,33,BIH,DM,27-228,30,0,0,0,0,0,0,1,0,8,0,0,0,0.0,0.0,0.0,0,0,4,5,80.0,1,3,0,0,0,Milan,2021-05-23 Atalanta-Milan,ITA-SERIA_A,20-21,b5678aec
+05e19d6a,Franck Kessié,79,CIV,DM,24-155,90,2,0,2,2,0,0,0,0,53,5,3,1,1.6,0.0,0.0,0,0,22,29,75.9,1,29,1,2,1,Milan,2021-05-23 Atalanta-Milan,ITA-SERIA_A,20-21,b5678aec
+d4c9725f,Theo Hernández,19,FRA,LB,23-229,90,0,0,0,0,0,0,0,0,45,2,0,4,0.0,0.0,0.0,1,1,21,34,61.8,2,18,1,2,0,Milan,2021-05-23 Atalanta-Milan,ITA-SERIA_A,20-21,b5678aec
+7edfbb8a,Fikayo Tomori,23,ENG,CB,23-155,90,0,0,0,0,0,0,0,0,32,2,0,2,0.0,0.0,0.0,0,0,19,23,82.6,0,19,0,0,0,Milan,2021-05-23 Atalanta-Milan,ITA-SERIA_A,20-21,b5678aec
+8b8a56ce,Simon Kjær,24,DEN,CB,32-058,90,0,0,0,0,0,0,0,0,42,3,2,3,0.0,0.0,0.0,1,0,23,29,79.3,1,13,0,0,0,Milan,2021-05-23 Atalanta-Milan,ITA-SERIA_A,20-21,b5678aec
+2146785a,Davide Calabria,2,ITA,RB,24-168,90,0,0,0,0,0,0,0,0,48,3,0,1,0.0,0.0,0.0,0,0,17,32,53.1,1,19,0,2,1,Milan,2021-05-23 Atalanta-Milan,ITA-SERIA_A,20-21,b5678aec
+08f5afaa,Gianluigi Donnarumma,99,ITA,GK,22-087,90,0,0,0,0,0,0,0,0,40,0,0,0,0.0,0.0,0.0,1,0,25,38,65.8,0,24,0,0,0,Milan,2021-05-23 Atalanta-Milan,ITA-SERIA_A,20-21,b5678aec

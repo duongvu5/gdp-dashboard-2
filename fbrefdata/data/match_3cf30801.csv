@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+3c6089ab,Thomas Müller,25,GER,FW,32-362,68,0,0,0,0,0,0,0,0,39,1,0,0,0.0,0.0,0.1,4,0,29,36,80.6,2,26,1,0,0,Bayern Munich,2022-09-10 Bayern Munich-Stuttgart,GER-BL1,22-23,3cf30801
+0e6bc38c,Eric Maxim Choupo-Moting,13,CMR,FW,33-171,22,0,0,0,0,1,0,0,0,9,0,0,0,0.2,0.2,0.0,1,0,7,7,100.0,2,3,0,0,0,Bayern Munich,2022-09-10 Bayern Munich-Stuttgart,GER-BL1,22-23,3cf30801
+88e357ef,Serge Gnabry,7,GER,LW,27-058,80,0,0,0,0,4,2,0,0,42,0,0,2,0.7,0.7,0.1,4,0,26,31,83.9,4,29,4,4,2,Bayern Munich,2022-09-10 Bayern Munich-Stuttgart,GER-BL1,22-23,3cf30801
+b8e740fb,Ryan Gravenberch,38,NED,AM,20-117,10,0,0,0,0,1,0,0,0,7,1,0,0,0.2,0.2,0.0,1,0,2,3,66.7,0,4,0,0,0,Bayern Munich,2022-09-10 Bayern Munich-Stuttgart,GER-BL1,22-23,3cf30801
+829aa60c,Mathys Tel,39,FRA,RW,17-136,60,1,0,0,0,3,2,0,0,44,0,0,3,0.5,0.5,0.0,1,0,26,30,86.7,0,29,2,4,1,Bayern Munich,2022-09-10 Bayern Munich-Stuttgart,GER-BL1,22-23,3cf30801
+2b114be3,Leroy Sané,10,GER,RW,26-242,30,0,0,0,0,1,0,1,0,25,1,0,0,0.1,0.1,0.2,2,0,16,19,84.2,2,17,1,2,0,Bayern Munich,2022-09-10 Bayern Munich-Stuttgart,GER-BL1,22-23,3cf30801
+2c0558b8,Jamal Musiala,42,GER,AM,19-196,80,1,0,0,0,4,2,0,0,42,2,2,2,0.2,0.2,0.6,4,0,20,26,76.9,2,31,2,2,1,Bayern Munich,2022-09-10 Bayern Munich-Stuttgart,GER-BL1,22-23,3cf30801
+c691bfe2,Sadio Mané,17,SEN,LW,30-153,10,0,0,0,0,0,0,0,0,4,2,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,1,0,0,0,Bayern Munich,2022-09-10 Bayern Munich-Stuttgart,GER-BL1,22-23,3cf30801
+49296448,Joshua Kimmich,6,GER,DM,27-214,90,0,0,0,0,2,0,0,0,110,2,2,3,0.1,0.1,0.0,3,2,88,101,87.1,9,77,0,0,0,Bayern Munich,2022-09-10 Bayern Munich-Stuttgart,GER-BL1,22-23,3cf30801
+cc86b9a3,Leon Goretzka,8,GER,DM,27-216,90,0,0,0,0,2,0,0,0,65,4,0,2,0.2,0.2,0.1,2,0,49,56,87.5,5,45,6,1,1,Bayern Munich,2022-09-10 Bayern Munich-Stuttgart,GER-BL1,22-23,3cf30801
+d781d855,Alphonso Davies,19,CAN,LB,21-312,90,0,1,0,0,1,0,0,0,80,6,2,0,0.1,0.1,0.4,6,1,52,58,89.7,6,46,4,10,3,Bayern Munich,2022-09-10 Bayern Munich-Stuttgart,GER-BL1,22-23,3cf30801
+d6e53a3a,Matthijs de Ligt,4,NED,CB,23-029,90,0,0,0,0,0,0,1,0,74,1,1,0,0.0,0.0,0.0,0,0,61,67,91.0,1,60,0,0,0,Bayern Munich,2022-09-10 Bayern Munich-Stuttgart,GER-BL1,22-23,3cf30801
+d248cd8f,Dayot Upamecano,2,FRA,CB,23-318,90,0,0,0,0,0,0,0,0,95,2,1,1,0.0,0.0,0.0,0,0,80,86,93.0,8,74,1,0,0,Bayern Munich,2022-09-10 Bayern Munich-Stuttgart,GER-BL1,22-23,3cf30801
+b74277a0,Noussair Mazraoui,40,MAR,RB,24-300,60,0,1,0,0,0,0,0,0,75,4,1,0,0.0,0.0,0.3,3,1,65,70,92.9,6,55,3,2,2,Bayern Munich,2022-09-10 Bayern Munich-Stuttgart,GER-BL1,22-23,3cf30801
+7ed08d5c,Josip Stanišić,44,CRO,RB,22-161,30,0,0,0,0,0,0,0,0,26,1,0,0,0.0,0.0,0.0,0,0,23,25,92.0,1,20,1,0,0,Bayern Munich,2022-09-10 Bayern Munich-Stuttgart,GER-BL1,22-23,3cf30801
+8778c910,Manuel Neuer,1,GER,GK,36-167,90,0,0,0,0,0,0,0,0,40,0,0,0,0.0,0.0,0.0,0,0,35,40,87.5,0,30,0,0,0,Bayern Munich,2022-09-10 Bayern Munich-Stuttgart,GER-BL1,22-23,3cf30801
+923f4dda,Serhou Guirassy,9,GUI,FW,26-182,90,1,0,1,1,2,0,0,0,38,0,0,0,0.9,0.1,0.1,3,1,18,28,64.3,2,23,0,1,1,Stuttgart,2022-09-10 Bayern Munich-Stuttgart,GER-BL1,22-23,3cf30801
+b492126a,Tiago Tomás,10,POR,FW,20-086,45,0,0,0,0,1,1,0,0,8,1,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,7,2,1,0,Stuttgart,2022-09-10 Bayern Munich-Stuttgart,GER-BL1,22-23,3cf30801
+0cf778df,Chris Führich,22,GER,WB,24-244,45,1,0,0,0,1,1,0,0,20,1,0,1,0.2,0.2,0.0,1,0,7,11,63.6,0,10,0,2,0,Stuttgart,2022-09-10 Bayern Munich-Stuttgart,GER-BL1,22-23,3cf30801
+a6c58494,Naouirou Ahamada,32,FRA,CM,20-165,83,0,0,0,0,0,0,1,0,27,0,1,0,0.0,0.0,0.0,1,0,12,16,75.0,1,18,2,6,1,Stuttgart,2022-09-10 Bayern Munich-Stuttgart,GER-BL1,22-23,3cf30801
+f76022e7,Enzo Millot,8,FRA,CM,20-055,7,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,1,0,3,4,75.0,0,3,0,1,1,Stuttgart,2022-09-10 Bayern Munich-Stuttgart,GER-BL1,22-23,3cf30801
+5762be5c,Atakan Karazor,16,GER,CM,25-332,90,0,0,0,0,0,0,1,0,47,6,1,3,0.0,0.0,0.0,1,0,21,30,70.0,0,17,0,2,0,Stuttgart,2022-09-10 Bayern Munich-Stuttgart,GER-BL1,22-23,3cf30801
+c149016b,Wataru Endo,3,JPN,CM,29-213,74,0,0,0,0,0,0,0,0,25,0,0,2,0.0,0.0,0.0,0,0,14,19,73.7,1,12,0,2,2,Stuttgart,2022-09-10 Bayern Munich-Stuttgart,GER-BL1,22-23,3cf30801
+2f7fec15,Lilian Egloff,25,GER,CM,20-021,16,0,0,0,0,0,0,0,0,7,1,0,0,0.0,0.0,0.0,1,1,5,5,100.0,1,6,1,0,0,Stuttgart,2022-09-10 Bayern Munich-Stuttgart,GER-BL1,22-23,3cf30801
+af0d79a9,Borna Sosa,24,CRO,WB,24-232,90,0,0,0,0,1,0,1,0,55,1,0,3,0.1,0.1,0.0,1,0,35,48,72.9,7,24,2,1,0,Stuttgart,2022-09-10 Bayern Munich-Stuttgart,GER-BL1,22-23,3cf30801
+de4cac2d,Silas Katompa,14,COD,"WB,FW",23-339,74,0,0,0,0,0,0,0,0,21,3,1,0,0.0,0.0,0.0,0,0,8,12,66.7,2,10,1,2,1,Stuttgart,2022-09-10 Bayern Munich-Stuttgart,GER-BL1,22-23,3cf30801
+ff3d391c,Juan Perea,11,COL,FW,22-199,16,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,2,0,1,0,Stuttgart,2022-09-10 Bayern Munich-Stuttgart,GER-BL1,22-23,3cf30801
+204dded0,Hiroki Ito,21,JPN,CB,23-121,90,0,0,0,0,0,0,1,0,42,2,1,2,0.0,0.0,0.0,1,0,23,31,74.2,4,20,0,1,1,Stuttgart,2022-09-10 Bayern Munich-Stuttgart,GER-BL1,22-23,3cf30801
+5e66fa06,Waldemar Anton,2,GER,CB,26-052,90,0,0,0,0,0,0,1,0,40,2,0,1,0.0,0.0,0.0,0,0,27,34,79.4,0,23,0,1,1,Stuttgart,2022-09-10 Bayern Munich-Stuttgart,GER-BL1,22-23,3cf30801
+00963611,Konstantinos Mavropanos,5,GRE,CB,24-273,83,0,1,0,0,0,0,0,0,67,7,3,4,0.0,0.0,0.2,4,2,39,48,81.3,8,19,2,3,0,Stuttgart,2022-09-10 Bayern Munich-Stuttgart,GER-BL1,22-23,3cf30801
+99f7e9aa,Pascal Stenzel,15,GER,CB,26-174,7,0,0,0,0,1,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,8,8,100.0,3,5,0,0,0,Stuttgart,2022-09-10 Bayern Munich-Stuttgart,GER-BL1,22-23,3cf30801
+cbac6ec9,Florian Müller,1,GER,GK,24-301,90,0,0,0,0,0,0,0,0,40,0,0,0,0.0,0.0,0.0,0,0,24,36,66.7,0,18,0,0,0,Stuttgart,2022-09-10 Bayern Munich-Stuttgart,GER-BL1,22-23,3cf30801

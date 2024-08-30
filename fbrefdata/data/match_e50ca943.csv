@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+a4fe8cda,Patrick Cutrone,63,ITA,FW,20-330,79,1,0,0,0,3,2,0,0,32,1,0,1,0.2,0.2,0.1,2,0,15,23,65.2,0,21,1,1,0,Milan,2018-11-29 Milan-F91 Dudelange,UEL,18-19,e50ca943
+ef5b337e,Fabio Borini,11,ITA,FW,27-245,11,1,0,0,0,1,1,0,0,6,0,0,0,0.6,0.6,0.0,1,0,5,5,100.0,1,3,0,0,0,Milan,2018-11-29 Milan-F91 Dudelange,UEL,18-19,e50ca943
+8a08491a,Gonzalo Higuaín,9,ARG,FW,30-354,90,0,1,0,0,4,1,0,0,43,1,0,0,0.2,0.2,0.2,5,1,23,31,74.2,2,29,3,3,1,Milan,2018-11-29 Milan-F91 Dudelange,UEL,18-19,e50ca943
+cd0fa27b,Hakan Çalhanoğlu,10,TUR,LM,24-294,90,1,0,0,0,5,3,0,0,91,1,2,2,0.7,0.7,0.1,8,2,62,76,81.6,7,60,2,2,1,Milan,2018-11-29 Milan-F91 Dudelange,UEL,18-19,e50ca943
+c75b6a02,Andrea Bertolacci,16,ITA,CM,27-322,57,0,0,0,0,0,0,0,0,49,4,2,2,0.0,0.0,0.0,1,0,37,40,92.5,8,28,0,0,0,Milan,2018-11-29 Milan-F91 Dudelange,UEL,18-19,e50ca943
+644faf10,José Mauri,4,ITA,CM,22-197,33,0,0,0,0,1,1,0,0,34,1,1,0,0.0,0.0,0.0,2,0,26,28,92.9,4,22,1,1,1,Milan,2018-11-29 Milan-F91 Dudelange,UEL,18-19,e50ca943
+59bf127b,Tiemoué Bakayoko,14,FRA,CM,24-104,90,0,0,0,0,0,0,0,0,80,10,2,2,0.0,0.0,0.1,4,0,59,67,88.1,6,43,0,2,2,Milan,2018-11-29 Milan-F91 Dudelange,UEL,18-19,e50ca943
+a6b9bd00,Alen Halilović,77,CRO,RM,22-164,51,0,0,0,0,0,0,0,0,32,0,0,0,0.0,0.0,0.1,2,0,26,32,81.3,0,28,2,3,3,Milan,2018-11-29 Milan-F91 Dudelange,UEL,18-19,e50ca943
+4e219ad2,Suso,8,ESP,RM,25-010,39,0,0,0,0,2,1,0,0,41,1,0,1,0.1,0.1,0.4,1,0,22,34,64.7,4,29,3,4,3,Milan,2018-11-29 Milan-F91 Dudelange,UEL,18-19,e50ca943
+f26e3c59,Diego Laxalt,93,URU,LB,25-295,90,0,0,0,0,0,0,0,0,92,2,2,1,0.0,0.0,0.0,0,0,68,84,81.0,7,59,7,1,1,Milan,2018-11-29 Milan-F91 Dudelange,UEL,18-19,e50ca943
+b1deecf8,Cristián Zapata,17,COL,CB,32-060,90,0,0,0,0,0,0,1,0,100,7,1,1,0.0,0.0,0.0,1,0,84,86,97.7,7,73,1,0,0,Milan,2018-11-29 Milan-F91 Dudelange,UEL,18-19,e50ca943
+b5365398,Stefan Simić,56,CZE,CB,23-313,90,0,0,0,0,0,0,1,0,75,3,0,3,0.0,0.0,0.0,0,0,61,65,93.8,1,56,0,0,0,Milan,2018-11-29 Milan-F91 Dudelange,UEL,18-19,e50ca943
+2146785a,Davide Calabria,2,ITA,RB,21-358,90,0,0,0,0,0,0,0,0,72,1,0,1,0.0,0.0,0.0,2,1,52,65,80.0,7,44,1,0,0,Milan,2018-11-29 Milan-F91 Dudelange,UEL,18-19,e50ca943
+e358587b,Pepe Reina,25,ESP,GK,36-090,90,0,0,0,0,0,0,0,0,21,0,0,0,0.0,0.0,0.0,0,0,20,21,95.2,0,10,0,0,0,Milan,2018-11-29 Milan-F91 Dudelange,UEL,18-19,e50ca943
+96ddfa79,Danel Sinani,9,LUX,"FW,RM",21-238,86,0,0,0,0,1,0,0,0,57,1,1,1,0.1,0.1,0.0,1,0,43,50,86.0,3,34,1,1,1,F91 Dudelange,2018-11-29 Milan-F91 Dudelange,UEL,18-19,e50ca943
+b9814dcc,Nicolas Perez,28,FRA,RM,28-034,4,0,0,0,0,1,0,0,0,3,0,1,0,0.0,0.0,0.0,1,0,0,1,0.0,0,2,0,0,0,F91 Dudelange,2018-11-29 Milan-F91 Dudelange,UEL,18-19,e50ca943
+60a5ee50,David Turpel,77,LUX,FW,26-041,90,1,0,0,0,1,1,1,0,44,0,1,0,0.1,0.1,0.0,2,1,23,32,71.9,3,32,1,2,0,F91 Dudelange,2018-11-29 Milan-F91 Dudelange,UEL,18-19,e50ca943
+e1550a44,Clément Couturier,14,MAD,LM,25-077,90,0,0,0,0,0,0,0,0,48,3,1,1,0.0,0.0,0.0,1,0,25,37,67.6,5,30,1,1,1,F91 Dudelange,2018-11-29 Milan-F91 Dudelange,UEL,18-19,e50ca943
+a30a166e,Stélvio,22,ANG,CM,29-309,74,0,0,0,0,0,0,0,0,59,2,1,1,0.0,0.0,0.0,0,0,46,50,92.0,4,41,0,0,0,F91 Dudelange,2018-11-29 Milan-F91 Dudelange,UEL,18-19,e50ca943
+f294b8cc,Mario Pokar,8,GER,CM,28-315,16,0,0,0,0,0,0,0,0,17,0,1,0,0.0,0.0,0.0,0,0,15,16,93.8,0,13,0,1,1,F91 Dudelange,2018-11-29 Milan-F91 Dudelange,UEL,18-19,e50ca943
+7ab2fee8,Marc-André Kruska,6,GER,CM,31-153,90,0,0,0,0,0,0,0,0,64,2,1,0,0.0,0.0,0.0,2,1,49,60,81.7,5,44,0,0,0,F91 Dudelange,2018-11-29 Milan-F91 Dudelange,UEL,18-19,e50ca943
+d2a802b8,Dominik Stolz,10,GER,RM,28-209,79,1,0,0,0,2,1,1,0,32,0,2,0,0.1,0.1,0.1,3,0,14,19,73.7,1,21,1,5,2,F91 Dudelange,2018-11-29 Milan-F91 Dudelange,UEL,18-19,e50ca943
+88392398,Levan Kenia,99,GEO,"FW,RM",28-042,11,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.1,2,0,4,5,80.0,0,4,0,0,0,F91 Dudelange,2018-11-29 Milan-F91 Dudelange,UEL,18-19,e50ca943
+758da372,Bryan Mélisse,27,FRA,LB,29-249,90,0,0,0,0,1,0,1,0,65,1,2,1,0.0,0.0,0.0,0,0,37,48,77.1,1,33,1,1,1,F91 Dudelange,2018-11-29 Milan-F91 Dudelange,UEL,18-19,e50ca943
+84570bef,Jerry Prempeh,26,FRA,CB,29-335,90,0,0,0,0,0,0,0,0,43,0,2,1,0.0,0.0,0.0,0,0,31,33,93.9,2,22,0,0,0,F91 Dudelange,2018-11-29 Milan-F91 Dudelange,UEL,18-19,e50ca943
+f4021366,Tom Schnell,5,LUX,CB,33-052,90,0,0,0,0,2,0,0,0,50,3,2,2,0.1,0.1,0.0,1,0,32,35,91.4,1,29,0,0,0,F91 Dudelange,2018-11-29 Milan-F91 Dudelange,UEL,18-19,e50ca943
+6492ae54,Edisson Jordanov,24,BUL,RB,25-174,90,0,0,0,0,1,0,0,0,62,4,0,3,0.0,0.0,0.0,1,1,39,48,81.3,4,29,2,1,0,F91 Dudelange,2018-11-29 Milan-F91 Dudelange,UEL,18-19,e50ca943
+e65dd8dc,Landry Bonnefoi,12,FRA,GK,35-070,90,0,0,0,0,0,0,0,0,27,0,0,0,0.0,0.0,0.0,0,0,19,23,82.6,0,17,0,0,0,F91 Dudelange,2018-11-29 Milan-F91 Dudelange,UEL,18-19,e50ca943

@@ -1,0 +1,31 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+09538fdb,Kevin Lasagna,15,ITA,FW,28-069,66,0,0,0,0,1,0,0,0,13,0,1,0,0.1,0.1,0.1,1,0,4,8,50.0,1,6,3,0,0,Udinese,2020-10-18 Udinese-Parma,ITA-SERIA_A,20-21,3f8a8da5
+62437b4f,Ignacio Pussetto,23,ARG,"RW,FW",24-302,24,1,0,0,0,3,2,0,0,14,2,0,1,0.1,0.1,0.0,0,0,5,7,71.4,2,7,1,1,1,Udinese,2020-10-18 Udinese-Parma,ITA-SERIA_A,20-21,3f8a8da5
+601ef102,Stefano Okaka,7,ITA,FW,31-070,90,0,1,0,0,3,1,0,0,32,0,0,0,0.5,0.5,0.0,2,2,18,23,78.3,1,23,1,2,1,Udinese,2020-10-18 Udinese-Parma,ITA-SERIA_A,20-21,3f8a8da5
+75f2c59f,Roberto Pereyra,37,ARG,CM,29-285,77,0,0,0,0,0,0,0,0,41,1,5,1,0.0,0.0,0.0,3,0,26,32,81.3,5,21,2,1,1,Udinese,2020-10-18 Udinese-Parma,ITA-SERIA_A,20-21,3f8a8da5
+39583cfd,Gerard Deulofeu,9,ESP,LW,26-219,13,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,1,0,4,8,50.0,1,6,0,0,0,Udinese,2020-10-18 Udinese-Parma,ITA-SERIA_A,20-21,3f8a8da5
+963a328b,Tolgay Arslan,22,GER,CM,30-063,66,0,0,0,0,0,0,1,0,38,1,1,0,0.0,0.0,0.1,1,0,29,34,85.3,4,23,2,3,3,Udinese,2020-10-18 Udinese-Parma,ITA-SERIA_A,20-21,3f8a8da5
+22bfb57e,Jean-Victor Makengo,6,FRA,"DM,CM",22-128,24,0,0,0,0,0,0,1,0,14,0,0,2,0.0,0.0,0.1,1,0,9,10,90.0,3,9,3,1,1,Udinese,2020-10-18 Udinese-Parma,ITA-SERIA_A,20-21,3f8a8da5
+162efffd,Rodrigo De Paul,10,ARG,"CM,DM",26-147,90,0,0,0,0,4,0,0,0,78,7,1,0,0.1,0.1,0.6,8,1,48,61,78.7,8,37,4,4,3,Udinese,2020-10-18 Udinese-Parma,ITA-SERIA_A,20-21,3f8a8da5
+36d9dabe,Thomas Ouwejan,5,NED,WB,24-018,77,0,1,0,0,1,0,0,0,57,2,1,1,0.1,0.1,0.2,6,1,31,51,60.8,9,25,6,0,0,Udinese,2020-10-18 Udinese-Parma,ITA-SERIA_A,20-21,3f8a8da5
+d60c26fc,Fernando Forestieri,45,ITA,AM,30-277,13,0,0,0,0,0,0,0,0,2,0,0,1,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Udinese,2020-10-18 Udinese-Parma,ITA-SERIA_A,20-21,3f8a8da5
+18f9dbd0,Hidde ter Avest,18,NED,"WB,RB",23-151,90,0,0,0,0,0,0,0,0,49,2,1,1,0.0,0.0,0.0,1,0,28,40,70.0,4,23,1,0,0,Udinese,2020-10-18 Udinese-Parma,ITA-SERIA_A,20-21,3f8a8da5
+92b4758e,Samir Santos,3,BRA,"CB,LB",25-318,90,1,0,0,0,3,1,0,0,46,2,3,2,0.3,0.3,0.0,1,0,26,34,76.5,2,12,1,0,0,Udinese,2020-10-18 Udinese-Parma,ITA-SERIA_A,20-21,3f8a8da5
+952a03fe,Sebastien De Maio,87,FRA,CB,33-227,90,0,0,0,0,1,0,0,0,52,1,3,1,0.1,0.1,0.0,0,0,34,39,87.2,1,23,0,0,0,Udinese,2020-10-18 Udinese-Parma,ITA-SERIA_A,20-21,3f8a8da5
+19e4eab9,Rodrigo Becão,50,BRA,CB,24-273,90,0,0,0,0,0,0,1,0,48,1,2,1,0.0,0.0,0.0,0,0,35,40,87.5,4,19,0,0,0,Udinese,2020-10-18 Udinese-Parma,ITA-SERIA_A,20-21,3f8a8da5
+326d09ef,Nícolas Andrade,88,BRA,GK,32-189,90,0,0,0,0,0,0,0,0,21,0,0,0,0.0,0.0,0.0,0,0,18,21,85.7,0,9,0,0,0,Udinese,2020-10-18 Udinese-Parma,ITA-SERIA_A,20-21,3f8a8da5
+e468c053,Gervinho,27,CIV,FW,33-144,90,0,0,0,0,0,0,0,0,26,0,0,1,0.0,0.0,0.2,4,0,18,21,85.7,1,18,3,3,1,Parma,2020-10-18 Udinese-Parma,ITA-SERIA_A,20-21,3f8a8da5
+5aaef9ef,Juraj Kucka,33,SVK,LW,33-235,90,0,0,0,0,2,1,0,0,50,2,0,0,0.1,0.1,0.1,1,0,23,39,59.0,1,26,0,2,2,Parma,2020-10-18 Udinese-Parma,ITA-SERIA_A,20-21,3f8a8da5
+8b66d9cc,Yann Karamoh,10,FRA,RW,22-102,90,1,0,0,0,1,1,0,0,31,1,0,0,0.6,0.6,0.0,2,0,18,23,78.3,1,25,4,2,2,Parma,2020-10-18 Udinese-Parma,ITA-SERIA_A,20-21,3f8a8da5
+144607cc,Jasmin Kurtić,14,SVN,LM,31-282,63,0,0,0,0,1,0,0,0,59,0,0,0,0.1,0.1,0.0,0,0,41,48,85.4,7,30,2,0,0,Parma,2020-10-18 Udinese-Parma,ITA-SERIA_A,20-21,3f8a8da5
+a5f458d9,Simon Sohm,19,SUI,LM,19-190,27,0,0,0,0,1,0,0,0,26,0,0,2,0.1,0.1,0.0,2,0,19,23,82.6,4,19,1,2,2,Parma,2020-10-18 Udinese-Parma,ITA-SERIA_A,20-21,3f8a8da5
+e947ee4a,Gastón Brugman,15,URU,CM,28-041,63,0,0,0,0,0,0,1,0,63,1,2,1,0.0,0.0,0.1,1,0,49,56,87.5,0,41,1,2,2,Parma,2020-10-18 Udinese-Parma,ITA-SERIA_A,20-21,3f8a8da5
+3e092724,Wylan Cyprien,18,FRA,CM,25-264,27,0,0,0,0,0,0,0,0,21,1,0,0,0.0,0.0,0.0,0,0,15,19,78.9,0,14,0,0,0,Parma,2020-10-18 Udinese-Parma,ITA-SERIA_A,20-21,3f8a8da5
+6f5ead86,Hernani,23,BRA,RM,26-205,79,1,0,0,0,2,1,0,0,54,0,2,1,0.1,0.1,0.0,1,1,31,41,75.6,6,26,3,3,3,Parma,2020-10-18 Udinese-Parma,ITA-SERIA_A,20-21,3f8a8da5
+6cc97b6a,Alberto Grassi,8,ITA,RM,25-225,11,0,0,0,0,0,0,0,0,9,1,0,0,0.0,0.0,0.0,0,0,6,7,85.7,2,4,0,0,0,Parma,2020-10-18 Udinese-Parma,ITA-SERIA_A,20-21,3f8a8da5
+149c5f5d,Giuseppe Pezzella,3,ITA,LB,22-324,90,0,1,0,0,1,0,0,0,76,0,1,1,0.0,0.0,0.6,2,1,67,73,91.8,7,54,1,1,0,Parma,2020-10-18 Udinese-Parma,ITA-SERIA_A,20-21,3f8a8da5
+173061c0,Riccardo Gagliolo,7,SWE,CB,30-173,90,0,1,0,0,0,0,0,0,83,0,0,4,0.0,0.0,0.0,1,1,64,74,86.5,9,60,4,0,0,Parma,2020-10-18 Udinese-Parma,ITA-SERIA_A,20-21,3f8a8da5
+63071a3f,Simone Iacoponi,2,ITA,CB,33-171,90,0,0,0,0,1,0,1,0,68,0,3,0,0.1,0.1,0.0,0,0,51,57,89.5,0,44,1,0,0,Parma,2020-10-18 Udinese-Parma,ITA-SERIA_A,20-21,3f8a8da5
+3535098b,Vincent Laurini,16,FRA,RB,31-130,90,0,0,0,0,0,0,0,0,59,2,1,0,0.0,0.0,0.0,0,0,47,55,85.5,2,38,2,0,0,Parma,2020-10-18 Udinese-Parma,ITA-SERIA_A,20-21,3f8a8da5
+343f753a,Luigi Sepe,1,ITA,GK,29-163,90,0,0,0,0,0,0,0,0,37,0,0,0,0.0,0.0,0.0,0,0,28,35,80.0,0,18,0,0,0,Parma,2020-10-18 Udinese-Parma,ITA-SERIA_A,20-21,3f8a8da5

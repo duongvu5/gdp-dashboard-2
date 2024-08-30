@@ -1,0 +1,29 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+0c3057a9,Mikael Ishak,9,SWE,FW,25-336,90,0,0,0,0,1,0,0,0,23,0,0,0,0.1,0.1,0.1,2,0,12,17,70.6,3,10,0,1,1,Nürnberg,2019-03-02 Nürnberg-RB Leipzig,GER-BL1,18-19,3eff956d
+87fdfb9b,Sebastian Kerk,10,GER,LW,24-319,65,0,0,0,0,1,0,0,0,24,0,0,1,0.1,0.1,0.0,2,0,11,18,61.1,2,9,1,0,0,Nürnberg,2019-03-02 Nürnberg-RB Leipzig,GER-BL1,18-19,3eff956d
+09bcc566,Virgil Misidjan,24,SUR,LW,25-221,25,0,0,0,0,1,1,0,0,13,2,0,0,0.0,0.0,0.0,0,0,5,9,55.6,0,7,0,4,2,Nürnberg,2019-03-02 Nürnberg-RB Leipzig,GER-BL1,18-19,3eff956d
+cba16a46,Yuya Kubo,14,JPN,RW,25-068,80,0,0,0,0,1,0,0,0,29,0,0,2,0.0,0.0,0.0,1,0,9,16,56.3,2,14,0,3,1,Nürnberg,2019-03-02 Nürnberg-RB Leipzig,GER-BL1,18-19,3eff956d
+b883006f,Törles Knöll,19,GER,RW,21-170,10,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Nürnberg,2019-03-02 Nürnberg-RB Leipzig,GER-BL1,18-19,3eff956d
+77b41ac0,Hanno Behrens,18,GER,CM,28-341,90,0,0,0,1,0,0,1,0,39,0,1,1,0.8,0.0,0.1,1,0,16,33,48.5,3,10,1,2,2,Nürnberg,2019-03-02 Nürnberg-RB Leipzig,GER-BL1,18-19,3eff956d
+e3f6253d,Patrick Erras,29,GER,CM,24-040,90,0,0,0,0,0,0,0,0,44,2,4,1,0.0,0.0,0.0,0,0,17,30,56.7,0,5,0,0,0,Nürnberg,2019-03-02 Nürnberg-RB Leipzig,GER-BL1,18-19,3eff956d
+70678132,Eduard Löwen,17,GER,CM,22-033,90,0,0,0,0,1,0,0,0,53,2,2,1,0.0,0.0,0.0,0,0,17,36,47.2,2,26,0,0,0,Nürnberg,2019-03-02 Nürnberg-RB Leipzig,GER-BL1,18-19,3eff956d
+f2571c91,Tim Leibold,23,GER,LB,25-092,90,0,0,0,0,1,0,1,0,65,0,0,1,0.1,0.1,0.0,4,0,37,58,63.8,7,22,2,2,0,Nürnberg,2019-03-02 Nürnberg-RB Leipzig,GER-BL1,18-19,3eff956d
+78cd577c,Ewerton,4,BRA,CB,29-344,90,0,0,0,0,0,0,0,0,62,3,3,2,0.0,0.0,0.0,0,0,46,53,86.8,3,27,0,1,1,Nürnberg,2019-03-02 Nürnberg-RB Leipzig,GER-BL1,18-19,3eff956d
+6b32d0a6,Lukas Mühl,28,GER,CB,22-034,90,0,0,0,0,0,0,0,0,56,4,2,0,0.0,0.0,0.0,0,0,29,48,60.4,2,29,0,0,0,Nürnberg,2019-03-02 Nürnberg-RB Leipzig,GER-BL1,18-19,3eff956d
+5c4d9be7,Enrico Valentini,22,ITA,RB,30-010,90,0,0,0,0,0,0,0,0,55,5,0,3,0.0,0.0,0.0,0,0,19,41,46.3,1,14,0,5,3,Nürnberg,2019-03-02 Nürnberg-RB Leipzig,GER-BL1,18-19,3eff956d
+4a15e95b,Christian Mathenia,26,GER,GK,26-336,90,0,0,0,0,0,0,0,0,53,0,0,0,0.0,0.0,0.0,1,0,33,49,67.3,0,24,0,0,0,Nürnberg,2019-03-02 Nürnberg-RB Leipzig,GER-BL1,18-19,3eff956d
+dc62b55d,Matheus Cunha,20,BRA,FW,19-279,85,0,0,0,0,1,0,0,0,31,0,1,2,0.0,0.0,0.0,2,1,8,20,40.0,2,19,3,3,3,RB Leipzig,2019-03-02 Nürnberg-RB Leipzig,GER-BL1,18-19,3eff956d
+8494acc4,Stefan Ilsanker,13,AUT,FW,29-288,5,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,RB Leipzig,2019-03-02 Nürnberg-RB Leipzig,GER-BL1,18-19,3eff956d
+d2416c2e,Yussuf Poulsen,9,DEN,FW,24-260,90,0,0,0,0,2,1,0,0,42,1,0,0,0.1,0.1,0.3,1,0,16,25,64.0,4,29,4,7,4,RB Leipzig,2019-03-02 Nürnberg-RB Leipzig,GER-BL1,18-19,3eff956d
+c1b7847c,Konrad Laimer,27,AUT,AM,21-279,90,0,0,0,0,2,1,0,0,37,5,1,1,0.5,0.5,0.0,2,0,15,22,68.2,5,18,3,4,2,RB Leipzig,2019-03-02 Nürnberg-RB Leipzig,GER-BL1,18-19,3eff956d
+e280527c,Marcel Sabitzer,7,AUT,AM,24-350,89,0,0,0,0,1,0,1,0,67,1,2,0,0.0,0.0,0.1,5,0,37,57,64.9,9,27,2,2,1,RB Leipzig,2019-03-02 Nürnberg-RB Leipzig,GER-BL1,18-19,3eff956d
+5caa62a7,Bruma,17,POR,AM,24-129,1,0,0,0,0,0,0,0,0,3,0,0,1,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,0,0,RB Leipzig,2019-03-02 Nürnberg-RB Leipzig,GER-BL1,18-19,3eff956d
+b825a650,Kevin Kampl,44,SVN,DM,28-144,89,0,0,0,0,1,1,1,0,80,2,5,1,0.0,0.0,0.2,5,0,51,68,75.0,13,42,2,2,2,RB Leipzig,2019-03-02 Nürnberg-RB Leipzig,GER-BL1,18-19,3eff956d
+ac73ec79,Nordi Mukiele,22,FRA,DM,21-121,1,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,0,0,0,0,RB Leipzig,2019-03-02 Nürnberg-RB Leipzig,GER-BL1,18-19,3eff956d
+2b09d998,Tyler Adams,14,USA,DM,20-016,90,0,0,0,0,1,0,0,0,65,0,4,0,0.0,0.0,0.0,1,0,40,54,74.1,9,34,2,3,2,RB Leipzig,2019-03-02 Nürnberg-RB Leipzig,GER-BL1,18-19,3eff956d
+8ff2354e,Marcel Halstenberg,23,GER,LB,27-156,90,0,0,0,0,1,1,0,0,72,6,3,1,0.1,0.1,0.0,4,1,43,61,70.5,4,27,1,1,0,RB Leipzig,2019-03-02 Nürnberg-RB Leipzig,GER-BL1,18-19,3eff956d
+20030c06,Willi Orban,4,HUN,CB,26-119,90,0,0,0,0,0,0,0,0,65,2,0,1,0.0,0.0,0.0,0,0,46,53,86.8,2,23,0,0,0,RB Leipzig,2019-03-02 Nürnberg-RB Leipzig,GER-BL1,18-19,3eff956d
+5ed9b537,Ibrahima Konaté,6,FRA,CB,19-281,90,0,1,0,0,1,0,1,0,76,1,0,1,0.1,0.1,0.1,0,0,43,56,76.8,8,26,0,1,1,RB Leipzig,2019-03-02 Nürnberg-RB Leipzig,GER-BL1,18-19,3eff956d
+ca8033cb,Lukas Klostermann,16,GER,RB,22-272,90,1,0,0,0,2,1,0,0,55,1,1,1,0.1,0.1,0.1,2,0,38,47,80.9,3,13,0,0,0,RB Leipzig,2019-03-02 Nürnberg-RB Leipzig,GER-BL1,18-19,3eff956d
+bcb2ccd8,Péter Gulácsi,1,HUN,GK,28-300,90,0,0,0,0,0,0,0,0,32,0,0,0,0.0,0.0,0.0,0,0,18,30,60.0,0,12,0,0,0,RB Leipzig,2019-03-02 Nürnberg-RB Leipzig,GER-BL1,18-19,3eff956d

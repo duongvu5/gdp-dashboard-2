@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+9efa1d25,Mario Götze,10,GER,"FW,AM",26-251,82,1,1,0,0,2,2,0,0,50,1,0,1,0.7,0.7,0.5,2,1,30,40,75.0,5,33,1,1,1,Dortmund,2019-02-09 Dortmund-Hoffenheim,GER-BL1,18-19,a23bb367
+c5fd13e9,Ömer Toprak,36,TUR,CB,29-203,8,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,0,0,Dortmund,2019-02-09 Dortmund-Hoffenheim,GER-BL1,18-19,a23bb367
+048a1cbc,Raphaël Guerreiro,13,POR,"LW,RM,AM",25-049,89,1,0,0,0,4,2,0,0,77,1,1,1,0.6,0.6,0.4,6,0,55,68,80.9,3,39,5,4,3,Dortmund,2019-02-09 Dortmund-Hoffenheim,GER-BL1,18-19,a23bb367
+fa661778,Marius Wolf,27,GER,AM,23-258,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Dortmund,2019-02-09 Dortmund-Hoffenheim,GER-BL1,18-19,a23bb367
+dbf053da,Jadon Sancho,7,ENG,"RW,AM,LM",18-321,90,1,0,0,0,4,2,0,0,71,1,0,3,0.2,0.2,0.0,5,3,47,53,88.7,8,54,11,9,7,Dortmund,2019-02-09 Dortmund-Hoffenheim,GER-BL1,18-19,a23bb367
+061e8e23,Maximilian Philipp,20,GER,AM,24-345,69,0,0,0,0,2,0,0,0,32,1,0,0,0.3,0.3,0.0,1,0,16,25,64.0,1,17,0,0,0,Dortmund,2019-02-09 Dortmund-Hoffenheim,GER-BL1,18-19,a23bb367
+a7a9d95a,Paco Alcácer,9,ESP,FW,25-163,21,0,0,0,0,1,0,0,0,5,0,0,0,0.1,0.1,0.0,0,0,3,3,100.0,0,2,0,0,0,Dortmund,2019-02-09 Dortmund-Hoffenheim,GER-BL1,18-19,a23bb367
+5dfc6ad5,Axel Witsel,28,BEL,"DM,CM",30-028,90,0,0,0,0,1,0,0,0,73,0,1,1,0.1,0.1,0.1,4,0,60,65,92.3,1,48,2,1,1,Dortmund,2019-02-09 Dortmund-Hoffenheim,GER-BL1,18-19,a23bb367
+db4ed67b,Mahmoud Dahoud,19,GER,"DM,CM",23-039,90,0,0,0,0,0,0,0,0,75,4,6,2,0.0,0.0,0.2,5,0,59,63,93.7,7,45,3,2,2,Dortmund,2019-02-09 Dortmund-Hoffenheim,GER-BL1,18-19,a23bb367
+e42d61c7,Achraf Hakimi,5,MAR,"LB,WB",20-097,90,0,0,0,0,1,1,0,0,103,2,7,1,0.0,0.0,0.0,3,0,76,86,88.4,9,68,5,6,5,Dortmund,2019-02-09 Dortmund-Hoffenheim,GER-BL1,18-19,a23bb367
+fc62f087,Abdou Diallo,4,SEN,CB,22-281,90,0,0,0,0,1,0,0,0,85,1,1,1,0.1,0.1,0.0,0,0,71,76,93.4,5,58,0,0,0,Dortmund,2019-02-09 Dortmund-Hoffenheim,GER-BL1,18-19,a23bb367
+346d51d9,Julian Weigl,33,GER,CB,23-154,90,0,0,0,0,0,0,0,0,72,4,0,2,0.0,0.0,0.0,0,0,59,63,93.7,3,42,0,0,0,Dortmund,2019-02-09 Dortmund-Hoffenheim,GER-BL1,18-19,a23bb367
+fe2db476,Łukasz Piszczek,26,POL,"RB,WB",33-251,90,0,1,0,0,0,0,0,0,88,3,1,2,0.0,0.0,0.2,4,1,59,75,78.7,4,57,4,1,0,Dortmund,2019-02-09 Dortmund-Hoffenheim,GER-BL1,18-19,a23bb367
+9d12e142,Roman Bürki,1,SUI,GK,28-087,90,0,0,0,0,0,0,0,0,36,0,0,0,0.0,0.0,0.0,0,0,27,34,79.4,0,21,0,0,0,Dortmund,2019-02-09 Dortmund-Hoffenheim,GER-BL1,18-19,a23bb367
+603cb947,Andrej Kramarić,27,CRO,FW,27-235,45,0,0,0,0,0,0,0,0,14,0,0,0,0.0,0.0,0.0,0,0,5,10,50.0,1,6,0,1,0,Hoffenheim,2019-02-09 Dortmund-Hoffenheim,GER-BL1,18-19,a23bb367
+ff182fdc,Ishak Belfodil,19,ALG,FW,27-028,45,2,0,0,0,4,3,0,0,18,0,0,0,0.6,0.6,0.0,3,0,9,11,81.8,0,6,2,2,1,Hoffenheim,2019-02-09 Dortmund-Hoffenheim,GER-BL1,18-19,a23bb367
+c17bfb65,Joelinton,34,BRA,FW,22-179,90,0,0,0,0,2,1,0,0,45,1,1,1,0.2,0.2,0.2,3,0,24,32,75.0,6,32,4,6,3,Hoffenheim,2019-02-09 Dortmund-Hoffenheim,GER-BL1,18-19,a23bb367
+fa274d97,Nico Schulz,16,GER,LW,25-314,90,0,0,0,0,1,0,0,0,49,0,0,3,0.1,0.1,0.0,2,1,30,43,69.8,2,25,2,0,0,Hoffenheim,2019-02-09 Dortmund-Hoffenheim,GER-BL1,18-19,a23bb367
+79c90e45,Pavel Kadeřábek,3,CZE,RW,26-290,90,1,0,0,0,3,2,0,0,47,4,3,3,0.3,0.3,0.1,4,0,22,30,73.3,3,22,1,0,0,Hoffenheim,2019-02-09 Dortmund-Hoffenheim,GER-BL1,18-19,a23bb367
+54b4dc4e,Kerem Demirbay,10,GER,CM,25-221,45,0,0,0,0,0,0,1,0,34,1,0,2,0.0,0.0,0.1,1,0,22,26,84.6,0,19,0,0,0,Hoffenheim,2019-02-09 Dortmund-Hoffenheim,GER-BL1,18-19,a23bb367
+37f606f0,Dennis Geiger,8,GER,CM,20-244,45,0,1,0,0,1,0,1,0,33,0,0,1,0.1,0.1,0.5,7,1,22,29,75.9,5,18,2,1,1,Hoffenheim,2019-02-09 Dortmund-Hoffenheim,GER-BL1,18-19,a23bb367
+dc62fbee,Leonardo Bittencourt,13,GER,CM,25-052,69,0,0,0,0,0,0,0,0,37,1,1,3,0.0,0.0,0.0,2,0,22,29,75.9,3,17,0,3,1,Hoffenheim,2019-02-09 Dortmund-Hoffenheim,GER-BL1,18-19,a23bb367
+c5bdb6e3,Reiss Nelson,9,ENG,CM,19-061,21,0,0,0,0,1,0,0,0,9,0,0,0,0.1,0.1,0.0,0,0,5,6,83.3,1,7,3,1,0,Hoffenheim,2019-02-09 Dortmund-Hoffenheim,GER-BL1,18-19,a23bb367
+ffbbc83b,Florian Grillitsch,11,AUT,DM,23-186,90,0,1,0,0,1,0,1,0,68,4,4,1,0.0,0.0,0.3,3,3,43,51,84.3,4,31,1,1,0,Hoffenheim,2019-02-09 Dortmund-Hoffenheim,GER-BL1,18-19,a23bb367
+99de6b6f,Benjamin Hübner,21,GER,CB,29-220,90,0,0,0,0,1,0,0,0,59,2,0,2,0.2,0.2,0.0,0,0,38,51,74.5,5,39,3,1,1,Hoffenheim,2019-02-09 Dortmund-Hoffenheim,GER-BL1,18-19,a23bb367
+7f609bfc,Stefan Posch,38,AUT,CB,21-271,90,0,0,0,0,0,0,0,0,57,3,1,1,0.0,0.0,0.0,0,0,42,46,91.3,1,27,0,0,0,Hoffenheim,2019-02-09 Dortmund-Hoffenheim,GER-BL1,18-19,a23bb367
+7aac47fe,Ermin Bičakčić,4,BIH,CB,29-016,90,0,0,0,0,0,0,0,0,69,0,1,3,0.0,0.0,0.0,1,1,52,61,85.2,7,41,4,0,0,Hoffenheim,2019-02-09 Dortmund-Hoffenheim,GER-BL1,18-19,a23bb367
+47064058,Oliver Baumann,1,GER,GK,28-252,90,0,0,0,0,0,0,0,0,30,0,0,0,0.0,0.0,0.0,0,0,22,28,78.6,0,14,0,0,0,Hoffenheim,2019-02-09 Dortmund-Hoffenheim,GER-BL1,18-19,a23bb367

@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+17f3620a,Krzysztof Piątek,9,POL,FW,23-119,90,0,0,0,0,2,1,0,0,35,0,0,0,0.1,0.1,0.0,3,0,16,23,69.6,1,20,0,1,1,Genoa,2018-10-28 Genoa-Udinese,ITA-SERIA_A,18-19,bc7cf1b6
+58e933d2,Christian Kouamé,11,CIV,FW,20-326,74,0,0,0,0,2,0,1,0,28,0,1,1,0.1,0.1,0.1,2,0,7,13,53.8,0,18,2,4,4,Genoa,2018-10-28 Genoa-Udinese,ITA-SERIA_A,18-19,bc7cf1b6
+f1f1f238,Koray Günter,3,GER,CB,24-073,16,0,0,0,0,0,0,0,0,5,0,1,0,0.0,0.0,0.0,0,0,5,5,100.0,0,4,0,0,0,Genoa,2018-10-28 Genoa-Udinese,ITA-SERIA_A,18-19,bc7cf1b6
+88895312,Daniel Bessa,24,ITA,AM,25-287,84,0,1,0,0,3,1,0,0,39,0,1,1,0.5,0.5,0.2,6,3,23,30,76.7,3,21,2,1,0,Genoa,2018-10-28 Genoa-Udinese,ITA-SERIA_A,18-19,bc7cf1b6
+98e958af,Oscar Hiljemark,88,SWE,CM,26-122,6,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.1,1,0,3,6,50.0,1,5,0,1,0,Genoa,2018-10-28 Genoa-Udinese,ITA-SERIA_A,18-19,bc7cf1b6
+c1c2c925,Sandro,30,BRA,CM,29-227,70,0,0,0,0,0,0,0,0,29,4,1,0,0.0,0.0,0.0,3,0,13,22,59.1,3,12,0,0,0,Genoa,2018-10-28 Genoa-Udinese,ITA-SERIA_A,18-19,bc7cf1b6
+dc61b402,Luca Mazzitelli,15,ITA,CM,22-347,20,0,0,0,0,1,0,1,0,20,2,0,0,0.0,0.0,0.0,1,0,12,18,66.7,1,16,0,0,0,Genoa,2018-10-28 Genoa-Udinese,ITA-SERIA_A,18-19,bc7cf1b6
+07abb358,Rômulo,8,ITA,CM,31-159,90,1,0,1,1,0,0,0,0,34,3,1,4,0.8,0.0,0.0,1,0,13,23,56.5,2,16,4,3,1,Genoa,2018-10-28 Genoa-Udinese,ITA-SERIA_A,18-19,bc7cf1b6
+5128bde4,Darko Lazović,22,SRB,"WB,LB",28-043,90,0,0,0,0,0,0,0,0,46,3,1,1,0.0,0.0,0.0,1,0,25,37,67.6,4,22,4,6,3,Genoa,2018-10-28 Genoa-Udinese,ITA-SERIA_A,18-19,bc7cf1b6
+c77be0cf,Pedro Pereira,32,POR,"WB,RB",20-279,90,0,0,0,0,1,0,0,0,46,3,0,1,0.0,0.0,0.0,1,1,24,36,66.7,2,14,0,2,1,Genoa,2018-10-28 Genoa-Udinese,ITA-SERIA_A,18-19,bc7cf1b6
+35dd6d80,Domenico Criscito,4,ITA,CB,31-302,90,0,0,0,0,1,1,0,0,42,2,1,1,0.1,0.1,0.0,0,0,26,34,76.5,6,15,2,1,1,Genoa,2018-10-28 Genoa-Udinese,ITA-SERIA_A,18-19,bc7cf1b6
+a3d94a58,Cristian Romero,17,ARG,CB,20-184,73,1,0,0,0,1,1,2,1,34,1,0,1,0.1,0.1,0.0,0,0,14,21,66.7,1,11,0,0,0,Genoa,2018-10-28 Genoa-Udinese,ITA-SERIA_A,18-19,bc7cf1b6
+64cd167d,Davide Biraschi,14,ITA,CB,24-118,90,0,0,0,0,0,0,1,0,28,1,0,0,0.0,0.0,0.4,5,0,13,24,54.2,4,18,2,4,3,Genoa,2018-10-28 Genoa-Udinese,ITA-SERIA_A,18-19,bc7cf1b6
+67f649be,Ionuț Radu,97,ROU,GK,21-153,90,0,0,0,0,0,0,0,0,28,0,0,0,0.0,0.0,0.0,0,0,15,24,62.5,0,14,0,0,0,Genoa,2018-10-28 Genoa-Udinese,ITA-SERIA_A,18-19,bc7cf1b6
+162efffd,Rodrigo De Paul,10,ARG,"FW,CM,AM",24-157,90,1,1,0,0,3,2,0,0,77,0,1,0,0.1,0.1,0.1,5,1,41,66,62.1,9,45,6,4,2,Udinese,2018-10-28 Genoa-Udinese,ITA-SERIA_A,18-19,bc7cf1b6
+09538fdb,Kevin Lasagna,15,ITA,FW,26-079,90,1,0,0,0,2,1,0,0,28,0,0,0,0.1,0.1,0.0,0,0,12,19,63.2,0,10,0,0,0,Udinese,2018-10-28 Genoa-Udinese,ITA-SERIA_A,18-19,bc7cf1b6
+f91e81c9,Jens Stryger Larsen,19,DEN,"LW,WB",27-249,90,0,1,0,0,1,0,0,0,67,1,0,0,0.1,0.1,0.1,5,1,50,60,83.3,5,36,3,1,0,Udinese,2018-10-28 Genoa-Udinese,ITA-SERIA_A,18-19,bc7cf1b6
+62437b4f,Ignacio Pussetto,23,ARG,"RW,FW",22-311,85,0,0,0,0,2,0,0,0,61,4,2,2,0.1,0.1,0.1,3,0,31,43,72.1,2,26,4,4,2,Udinese,2018-10-28 Genoa-Udinese,ITA-SERIA_A,18-19,bc7cf1b6
+9be4ee80,Andrija Balić,99,CRO,AM,21-078,5,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.1,2,0,8,8,100.0,1,5,0,1,0,Udinese,2018-10-28 Genoa-Udinese,ITA-SERIA_A,18-19,bc7cf1b6
+01efac19,Antonín Barák,72,CZE,CM,23-329,79,0,0,0,0,1,0,0,0,50,2,0,0,0.0,0.0,0.0,2,1,33,44,75.0,2,31,1,0,0,Udinese,2018-10-28 Genoa-Udinese,ITA-SERIA_A,18-19,bc7cf1b6
+c7259b83,Rolando Mandragora,38,ITA,"CM,DM",21-121,11,0,0,0,0,1,1,0,0,22,0,0,2,0.1,0.1,0.0,2,0,16,19,84.2,0,11,1,0,0,Udinese,2018-10-28 Genoa-Udinese,ITA-SERIA_A,18-19,bc7cf1b6
+5313ed43,Seko Fofana,6,CIV,"CM,DM",23-174,90,0,0,0,0,1,0,0,0,67,2,1,0,0.0,0.0,0.1,2,0,51,57,89.5,2,46,1,3,3,Udinese,2018-10-28 Genoa-Udinese,ITA-SERIA_A,18-19,bc7cf1b6
+d3d758d8,Valon Behrami,11,SUI,DM,33-192,62,0,0,0,0,2,0,1,0,24,3,0,0,0.1,0.1,0.0,0,0,14,16,87.5,0,9,0,1,0,Udinese,2018-10-28 Genoa-Udinese,ITA-SERIA_A,18-19,bc7cf1b6
+18f9dbd0,Hidde ter Avest,18,NED,"RW,WB",21-161,28,0,0,0,0,0,0,0,0,15,1,0,1,0.0,0.0,0.0,0,0,9,12,75.0,0,6,0,0,0,Udinese,2018-10-28 Genoa-Udinese,ITA-SERIA_A,18-19,bc7cf1b6
+92b4758e,Samir Santos,3,BRA,CB,23-327,90,0,0,0,0,0,0,1,0,82,4,4,1,0.0,0.0,0.0,4,1,60,67,89.6,7,52,3,0,0,Udinese,2018-10-28 Genoa-Udinese,ITA-SERIA_A,18-19,bc7cf1b6
+7ed4921e,William Troost-Ekong,5,NGA,CB,25-057,90,0,0,0,0,0,0,0,0,50,1,2,2,0.0,0.0,0.0,0,0,36,38,94.7,2,23,0,0,0,Udinese,2018-10-28 Genoa-Udinese,ITA-SERIA_A,18-19,bc7cf1b6
+b871bf55,Nicholas Opoku,4,GHA,CB,20-354,90,0,0,0,0,0,0,1,0,53,1,1,1,0.0,0.0,0.0,1,0,39,47,83.0,4,35,1,2,2,Udinese,2018-10-28 Genoa-Udinese,ITA-SERIA_A,18-19,bc7cf1b6
+a111cf41,Juan Musso,1,ARG,GK,24-175,90,0,0,0,0,0,0,1,0,36,0,0,0,0.0,0.0,0.0,0,0,22,33,66.7,0,21,0,0,0,Udinese,2018-10-28 Genoa-Udinese,ITA-SERIA_A,18-19,bc7cf1b6

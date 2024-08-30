@@ -1,0 +1,29 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+3eeb80e0,Fredrik Jensen,24,FIN,FW,25-029,85,0,0,0,0,0,0,0,0,40,2,0,1,0.0,0.0,0.2,4,0,11,32,34.4,3,14,0,1,0,Augsburg,2022-10-08 Augsburg-Wolfsburg,GER-BL1,22-23,b41edb5f
+d1273f09,Daniel Caligiuri,20,ITA,FW,34-266,5,0,0,0,0,0,0,1,0,1,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,1,0,0,0,Augsburg,2022-10-08 Augsburg-Wolfsburg,GER-BL1,22-23,b41edb5f
+d6862409,Florian Niederlechner,7,GER,FW,31-349,90,0,0,0,0,2,0,0,0,24,0,0,0,0.1,0.1,0.1,2,0,11,17,64.7,2,7,0,1,0,Augsburg,2022-10-08 Augsburg-Wolfsburg,GER-BL1,22-23,b41edb5f
+ed79b7d3,Ermedin Demirović,9,BIH,LM,24-197,90,0,0,0,0,5,2,0,0,29,0,0,0,0.8,0.8,0.1,5,0,10,18,55.6,4,11,1,0,0,Augsburg,2022-10-08 Augsburg-Wolfsburg,GER-BL1,22-23,b41edb5f
+1ae836b1,Elvis Rexhbeçaj,13,GER,CM,24-341,90,0,0,0,0,1,0,0,0,32,0,0,1,0.0,0.0,0.4,2,0,15,24,62.5,4,7,2,2,0,Augsburg,2022-10-08 Augsburg-Wolfsburg,GER-BL1,22-23,b41edb5f
+6ecbddf6,Ruben Vargas,16,SUI,RM,24-064,66,0,0,0,0,1,0,0,0,28,1,0,0,0.0,0.0,0.6,2,0,16,23,69.6,3,11,0,1,1,Augsburg,2022-10-08 Augsburg-Wolfsburg,GER-BL1,22-23,b41edb5f
+582a5247,Mads Pedersen,3,DEN,RM,26-037,24,0,0,0,0,0,0,0,0,10,1,0,1,0.0,0.0,0.0,0,0,3,4,75.0,1,3,0,2,1,Augsburg,2022-10-08 Augsburg-Wolfsburg,GER-BL1,22-23,b41edb5f
+f2dd9a21,Carlos Gruezo,8,ECU,DM,27-172,90,0,0,0,0,1,0,1,0,34,3,2,1,0.0,0.0,0.1,3,0,18,27,66.7,5,8,0,0,0,Augsburg,2022-10-08 Augsburg-Wolfsburg,GER-BL1,22-23,b41edb5f
+054849d2,Iago,22,BRA,LB,25-199,90,0,0,0,0,3,0,1,0,46,2,1,0,0.1,0.1,0.0,3,0,20,34,58.8,5,14,0,4,1,Augsburg,2022-10-08 Augsburg-Wolfsburg,GER-BL1,22-23,b41edb5f
+1025db8e,Jeffrey Gouweleeuw,6,NED,CB,31-090,90,0,0,0,0,3,2,1,0,51,3,2,0,0.6,0.6,0.0,3,1,26,38,68.4,2,17,0,0,0,Augsburg,2022-10-08 Augsburg-Wolfsburg,GER-BL1,22-23,b41edb5f
+44a20f0c,Maximilian Bauer,23,GER,CB,22-241,90,0,0,0,0,0,0,1,0,46,1,1,0,0.0,0.0,0.0,0,0,25,36,69.4,3,15,2,0,0,Augsburg,2022-10-08 Augsburg-Wolfsburg,GER-BL1,22-23,b41edb5f
+1df0c0b9,Robert Gumny,2,POL,RB,24-126,90,1,0,0,0,1,1,0,0,41,0,0,2,0.3,0.3,0.1,2,0,23,37,62.2,2,10,2,0,0,Augsburg,2022-10-08 Augsburg-Wolfsburg,GER-BL1,22-23,b41edb5f
+dc366c36,Tomáš Koubek,40,CZE,GK,30-043,90,0,0,0,0,0,0,0,0,56,0,0,0,0.0,0.0,0.0,0,0,33,51,64.7,0,32,0,0,0,Augsburg,2022-10-08 Augsburg-Wolfsburg,GER-BL1,22-23,b41edb5f
+0e0102eb,Omar Marmoush,33,EGY,FW,23-243,74,0,0,0,0,1,1,0,0,38,0,0,0,0.0,0.0,0.2,2,0,10,21,47.6,3,19,0,6,1,Wolfsburg,2022-10-08 Augsburg-Wolfsburg,GER-BL1,22-23,b41edb5f
+0cc5f4a5,Lukas Nmecha,10,GER,FW,23-298,16,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,0,2,0.0,0,4,0,0,0,Wolfsburg,2022-10-08 Augsburg-Wolfsburg,GER-BL1,22-23,b41edb5f
+202b3b68,Jakub Kamiński,16,POL,LW,20-125,68,0,0,0,0,0,0,0,0,21,0,1,0,0.0,0.0,0.0,1,1,12,13,92.3,3,9,0,2,1,Wolfsburg,2022-10-08 Augsburg-Wolfsburg,GER-BL1,22-23,b41edb5f
+e6c43eec,Josuha Guilavogui,29,FRA,LW,32-019,22,0,0,0,0,0,0,1,0,12,0,1,0,0.0,0.0,0.0,1,0,10,10,100.0,1,6,0,0,0,Wolfsburg,2022-10-08 Augsburg-Wolfsburg,GER-BL1,22-23,b41edb5f
+cb11b429,Patrick Wimmer,39,AUT,RW,21-131,74,0,0,0,0,1,1,0,0,25,1,0,0,0.2,0.2,0.0,1,0,14,19,73.7,1,15,1,1,0,Wolfsburg,2022-10-08 Augsburg-Wolfsburg,GER-BL1,22-23,b41edb5f
+5c50fdbc,Kevin Paredes,40,USA,RW,19-154,16,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,2,5,40.0,0,2,0,0,0,Wolfsburg,2022-10-08 Augsburg-Wolfsburg,GER-BL1,22-23,b41edb5f
+62ab9184,Yannick Gerhardt,31,GER,CM,28-209,90,1,0,0,0,3,2,1,0,35,0,1,0,1.2,1.2,0.2,1,0,15,24,62.5,5,12,2,2,1,Wolfsburg,2022-10-08 Augsburg-Wolfsburg,GER-BL1,22-23,b41edb5f
+86e119e0,Maximilian Arnold,27,GER,CM,28-134,90,0,0,0,0,2,1,0,0,64,1,1,2,0.1,0.1,0.2,3,0,36,52,69.2,4,30,0,0,0,Wolfsburg,2022-10-08 Augsburg-Wolfsburg,GER-BL1,22-23,b41edb5f
+091c86e2,Felix Nmecha,22,GER,CM,21-363,90,0,0,0,0,2,2,0,0,34,0,1,1,0.4,0.4,0.0,3,0,11,18,61.1,3,16,0,1,0,Wolfsburg,2022-10-08 Augsburg-Wolfsburg,GER-BL1,22-23,b41edb5f
+1cbe4984,Paulo Otávio,6,BRA,LB,27-319,90,0,0,0,0,1,0,1,0,54,2,0,2,0.0,0.0,0.0,1,0,22,36,61.1,0,16,1,4,1,Wolfsburg,2022-10-08 Augsburg-Wolfsburg,GER-BL1,22-23,b41edb5f
+8fe2a392,Micky van de Ven,5,NED,CB,21-172,90,0,0,0,0,1,0,0,0,38,0,0,1,0.0,0.0,0.0,2,0,22,30,73.3,0,10,0,0,0,Wolfsburg,2022-10-08 Augsburg-Wolfsburg,GER-BL1,22-23,b41edb5f
+277c49ed,Maxence Lacroix,4,FRA,CB,22-185,90,0,0,0,0,0,0,0,0,56,3,2,1,0.0,0.0,0.0,1,0,33,40,82.5,1,25,1,0,0,Wolfsburg,2022-10-08 Augsburg-Wolfsburg,GER-BL1,22-23,b41edb5f
+442b56fa,Ridle Baku,20,GER,RB,24-183,90,0,1,0,0,0,0,0,0,55,5,1,0,0.0,0.0,0.9,4,1,34,42,81.0,2,17,2,1,0,Wolfsburg,2022-10-08 Augsburg-Wolfsburg,GER-BL1,22-23,b41edb5f
+db401046,Koen Casteels,1,BEL,GK,30-105,90,0,0,0,0,0,0,0,0,48,0,0,0,0.0,0.0,0.0,0,0,24,45,53.3,0,28,0,0,0,Wolfsburg,2022-10-08 Augsburg-Wolfsburg,GER-BL1,22-23,b41edb5f

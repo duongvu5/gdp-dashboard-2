@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+82dbf623,Fernando Llorente,32,ESP,FW,35-347,75,0,0,0,0,1,0,1,0,40,1,0,0,0.2,0.2,0.2,4,0,20,26,76.9,2,16,0,0,0,Udinese,2021-02-07 Udinese-Hellas Verona,ITA-SERIA_A,20-21,440aefd4
+601ef102,Stefano Okaka,7,ITA,FW,31-182,15,0,0,0,0,0,0,0,0,10,1,0,0,0.0,0.0,0.0,0,0,5,7,71.4,1,6,3,0,0,Udinese,2021-02-07 Udinese-Hellas Verona,ITA-SERIA_A,20-21,440aefd4
+39583cfd,Gerard Deulofeu,9,ESP,AM,26-331,90,1,0,0,0,7,4,0,0,55,1,1,0,0.9,0.9,0.2,4,0,22,40,55.0,2,29,6,2,1,Udinese,2021-02-07 Udinese-Hellas Verona,ITA-SERIA_A,20-21,440aefd4
+75f2c59f,Roberto Pereyra,37,ARG,AM,30-031,45,0,0,0,0,0,0,0,0,28,0,0,0,0.0,0.0,0.1,3,0,21,26,80.8,1,23,1,0,0,Udinese,2021-02-07 Udinese-Hellas Verona,ITA-SERIA_A,20-21,440aefd4
+b1236c63,Ilija Nestorovski,30,MKD,AM,30-332,45,0,0,0,0,0,0,0,0,21,0,1,1,0.0,0.0,0.0,0,0,12,17,70.6,0,11,0,0,0,Udinese,2021-02-07 Udinese-Hellas Verona,ITA-SERIA_A,20-21,440aefd4
+26db8853,Walace,11,BRA,CM,25-309,90,0,0,0,0,2,1,0,0,63,2,2,2,0.1,0.1,0.0,1,0,35,44,79.5,1,29,1,0,0,Udinese,2021-02-07 Udinese-Hellas Verona,ITA-SERIA_A,20-21,440aefd4
+963a328b,Tolgay Arslan,22,GER,CM,30-175,74,0,0,0,0,2,0,1,0,33,1,1,0,0.1,0.1,0.0,2,0,19,27,70.4,4,17,0,0,0,Udinese,2021-02-07 Udinese-Hellas Verona,ITA-SERIA_A,20-21,440aefd4
+22bfb57e,Jean-Victor Makengo,6,FRA,CM,22-240,16,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,5,8,62.5,2,6,0,0,0,Udinese,2021-02-07 Udinese-Hellas Verona,ITA-SERIA_A,20-21,440aefd4
+8abd0c03,Marvin Zeegelaar,90,NED,WB,30-179,70,0,0,0,0,0,0,0,0,34,0,0,1,0.0,0.0,0.3,3,0,21,29,72.4,3,18,1,1,0,Udinese,2021-02-07 Udinese-Hellas Verona,ITA-SERIA_A,20-21,440aefd4
+23610943,Nahuel Molina,16,ARG,WB,22-307,20,0,1,0,0,0,0,0,0,10,0,0,1,0.0,0.0,0.0,1,1,3,8,37.5,1,6,0,0,0,Udinese,2021-02-07 Udinese-Hellas Verona,ITA-SERIA_A,20-21,440aefd4
+f91e81c9,Jens Stryger Larsen,19,DEN,WB,29-352,90,0,0,0,0,1,1,0,0,54,0,1,3,0.3,0.3,0.6,2,0,32,44,72.7,6,31,0,0,0,Udinese,2021-02-07 Udinese-Hellas Verona,ITA-SERIA_A,20-21,440aefd4
+92b4758e,Samir Santos,3,BRA,CB,26-064,90,0,0,0,0,1,1,0,0,51,3,1,0,0.1,0.1,0.0,1,0,34,41,82.9,2,25,0,0,0,Udinese,2021-02-07 Udinese-Hellas Verona,ITA-SERIA_A,20-21,440aefd4
+e33f36d5,Bram Nuytinck,17,NED,CB,30-279,90,0,0,0,0,0,0,0,0,41,1,4,4,0.0,0.0,0.0,1,0,20,26,76.9,2,18,0,0,0,Udinese,2021-02-07 Udinese-Hellas Verona,ITA-SERIA_A,20-21,440aefd4
+fb77bfef,Kevin Bonifazi,14,ITA,CB,24-264,90,0,0,0,0,2,0,0,0,47,3,2,0,0.4,0.4,0.0,2,0,33,39,84.6,2,27,0,0,0,Udinese,2021-02-07 Udinese-Hellas Verona,ITA-SERIA_A,20-21,440aefd4
+a111cf41,Juan Musso,1,ARG,GK,26-277,90,0,0,0,0,0,0,0,0,34,0,0,0,0.0,0.0,0.0,0,0,20,32,62.5,0,14,0,0,0,Udinese,2021-02-07 Udinese-Hellas Verona,ITA-SERIA_A,20-21,440aefd4
+d4931a5a,Nikola Kalinić,29,CRO,FW,33-033,90,0,0,0,0,0,0,0,0,29,1,0,1,0.0,0.0,0.0,1,0,14,23,60.9,1,15,0,2,2,Hellas Verona,2021-02-07 Udinese-Hellas Verona,ITA-SERIA_A,20-21,440aefd4
+d85c238b,Mattia Zaccagni,20,ITA,AM,25-236,72,0,0,0,0,0,0,1,0,38,0,1,1,0.0,0.0,0.1,2,0,15,28,53.6,4,28,2,2,1,Hellas Verona,2021-02-07 Udinese-Hellas Verona,ITA-SERIA_A,20-21,440aefd4
+88895312,Daniel Bessa,40,ITA,AM,28-024,18,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.2,2,0,6,7,85.7,0,4,0,0,0,Hellas Verona,2021-02-07 Udinese-Hellas Verona,ITA-SERIA_A,20-21,440aefd4
+09538fdb,Kevin Lasagna,92,ITA,AM,28-181,45,0,0,0,0,0,0,0,0,13,0,0,0,0.0,0.0,0.0,0,0,5,6,83.3,0,4,0,1,0,Hellas Verona,2021-02-07 Udinese-Hellas Verona,ITA-SERIA_A,20-21,440aefd4
+bb376bed,Ivan Ilić,14,SRB,CM,19-327,45,0,0,0,0,1,0,0,0,35,0,1,1,0.0,0.0,0.0,1,0,25,28,89.3,3,26,2,4,3,Hellas Verona,2021-02-07 Udinese-Hellas Verona,ITA-SERIA_A,20-21,440aefd4
+01efac19,Antonín Barák,7,CZE,"AM,CM",26-066,90,0,0,0,0,0,0,0,0,55,2,2,3,0.0,0.0,0.0,1,0,32,41,78.0,5,29,1,2,2,Hellas Verona,2021-02-07 Udinese-Hellas Verona,ITA-SERIA_A,20-21,440aefd4
+8da74c05,Adrien Tameze,61,CMR,CM,27-003,87,0,0,0,0,1,0,1,0,48,0,2,0,0.1,0.1,0.0,1,0,27,43,62.8,4,25,0,1,1,Hellas Verona,2021-02-07 Udinese-Hellas Verona,ITA-SERIA_A,20-21,440aefd4
+bf356094,Ebrima Colley,90,GAM,CM,21-006,3,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,0,0,Hellas Verona,2021-02-07 Udinese-Hellas Verona,ITA-SERIA_A,20-21,440aefd4
+5128bde4,Darko Lazović,8,SRB,WB,30-145,90,0,0,0,0,0,0,0,0,52,1,1,2,0.0,0.0,0.0,1,0,38,43,88.4,4,23,0,0,0,Hellas Verona,2021-02-07 Udinese-Hellas Verona,ITA-SERIA_A,20-21,440aefd4
+aae9d04a,Davide Faraoni,5,ITA,WB,29-105,90,0,0,0,0,2,0,1,0,59,2,2,1,0.1,0.1,0.0,0,0,36,49,73.5,2,39,2,1,0,Hellas Verona,2021-02-07 Udinese-Hellas Verona,ITA-SERIA_A,20-21,440aefd4
+970b8574,Federico Dimarco,3,ITA,CB,23-089,90,0,0,0,0,1,0,0,0,85,2,2,0,0.1,0.1,0.0,1,0,60,78,76.9,7,52,2,1,0,Hellas Verona,2021-02-07 Udinese-Hellas Verona,ITA-SERIA_A,20-21,440aefd4
+f1f1f238,Koray Günter,21,GER,CB,26-175,45,0,0,0,0,0,0,0,0,29,1,3,0,0.0,0.0,0.0,0,0,23,24,95.8,1,21,0,0,0,Hellas Verona,2021-02-07 Udinese-Hellas Verona,ITA-SERIA_A,20-21,440aefd4
+cce9f582,Giangiacomo Magnani,23,ITA,CB,25-126,45,0,0,0,0,1,0,0,0,41,0,1,0,0.0,0.0,0.0,0,0,34,38,89.5,1,25,0,0,0,Hellas Verona,2021-02-07 Udinese-Hellas Verona,ITA-SERIA_A,20-21,440aefd4
+16bb656a,Paweł Dawidowicz,27,POL,CB,25-263,45,0,0,0,0,0,0,1,0,28,0,2,4,0.0,0.0,0.0,0,0,15,21,71.4,1,11,0,0,0,Hellas Verona,2021-02-07 Udinese-Hellas Verona,ITA-SERIA_A,20-21,440aefd4
+5fa57166,Matteo Lovato,6,ITA,CB,20-359,45,0,0,0,0,0,0,0,0,31,2,2,0,0.0,0.0,0.0,0,0,19,24,79.2,1,18,0,0,0,Hellas Verona,2021-02-07 Udinese-Hellas Verona,ITA-SERIA_A,20-21,440aefd4
+0d422df7,Marco Silvestri,1,ITA,GK,29-342,90,0,0,0,0,0,0,0,0,33,0,0,0,0.0,0.0,0.0,0,0,11,24,45.8,0,8,0,0,0,Hellas Verona,2021-02-07 Udinese-Hellas Verona,ITA-SERIA_A,20-21,440aefd4

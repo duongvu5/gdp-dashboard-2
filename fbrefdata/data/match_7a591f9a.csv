@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+df301450,Sergio Floccari,10,ITA,FW,37-111,90,0,0,0,0,0,0,0,0,22,2,0,1,0.0,0.0,0.0,2,0,10,12,83.3,2,13,0,0,0,SPAL,2019-03-03 SPAL-Sampdoria,ITA-SERIA_A,18-19,7a591f9a
+03f946ed,Andrea Petagna,37,ITA,"FW,RW",23-246,90,0,0,0,0,2,1,0,0,29,0,0,0,0.1,0.1,0.1,4,1,13,14,92.9,1,18,5,3,0,SPAL,2019-03-03 SPAL-Sampdoria,ITA-SERIA_A,18-19,7a591f9a
+144607cc,Jasmin Kurtić,19,SVN,LM,30-052,90,1,0,0,0,4,1,0,0,74,0,1,1,0.2,0.2,0.1,5,0,50,64,78.1,8,48,7,1,1,SPAL,2019-03-03 SPAL-Sampdoria,ITA-SERIA_A,18-19,7a591f9a
+bd84fc61,Pasquale Schiattarella,28,ITA,CM,31-277,54,0,0,0,0,1,0,0,0,32,1,1,0,0.1,0.1,0.0,0,0,22,28,78.6,3,21,2,1,0,SPAL,2019-03-03 SPAL-Sampdoria,ITA-SERIA_A,18-19,7a591f9a
+fb2c533b,Alessandro Murgia,11,ITA,"CM,RM",22-206,36,0,0,0,0,1,0,0,0,27,1,0,0,0.0,0.0,0.0,1,0,20,22,90.9,1,20,0,1,0,SPAL,2019-03-03 SPAL-Sampdoria,ITA-SERIA_A,18-19,7a591f9a
+331c0a43,Simone Missiroli,6,ITA,CM,32-284,90,0,0,0,0,1,0,0,0,58,1,2,0,0.0,0.0,0.0,2,0,48,55,87.3,7,31,1,0,0,SPAL,2019-03-03 SPAL-Sampdoria,ITA-SERIA_A,18-19,7a591f9a
+c414df9d,Mattia Valoti,8,ITA,RM,25-178,78,0,0,0,0,1,0,1,0,52,2,0,3,0.1,0.1,0.1,2,0,26,40,65.0,5,32,4,1,0,SPAL,2019-03-03 SPAL-Sampdoria,ITA-SERIA_A,18-19,7a591f9a
+9866afec,Marko Janković,95,MNE,"RB,RM",23-237,12,0,0,0,0,0,0,0,0,7,1,0,0,0.0,0.0,0.0,3,1,5,5,100.0,0,7,0,1,0,SPAL,2019-03-03 SPAL-Sampdoria,ITA-SERIA_A,18-19,7a591f9a
+b7a5bc86,Mohamed Fares,93,ALG,LB,23-016,90,0,0,0,0,4,0,1,0,68,1,2,0,0.2,0.2,0.2,4,0,38,55,69.1,4,35,6,1,1,SPAL,2019-03-03 SPAL-Sampdoria,ITA-SERIA_A,18-19,7a591f9a
+fb77bfef,Kevin Bonifazi,14,ITA,CB,22-288,90,0,0,0,0,0,0,0,0,65,1,0,0,0.0,0.0,0.0,0,0,55,57,96.5,7,49,3,2,2,SPAL,2019-03-03 SPAL-Sampdoria,ITA-SERIA_A,18-19,7a591f9a
+8cea6319,Felipe dal Belo,27,BRA,CB,34-215,82,0,0,0,0,0,0,0,0,46,0,1,0,0.0,0.0,0.0,1,0,34,40,85.0,2,26,0,0,0,SPAL,2019-03-03 SPAL-Sampdoria,ITA-SERIA_A,18-19,7a591f9a
+43a2e16c,Mirco Antenucci,7,ITA,LW,34-176,8,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,0,0,5,8,62.5,1,7,2,1,0,SPAL,2019-03-03 SPAL-Sampdoria,ITA-SERIA_A,18-19,7a591f9a
+46f5c54d,Thiago Cionek,4,POL,"RB,CB",32-316,89,0,0,0,0,0,0,0,1,68,0,3,1,0.0,0.0,0.0,3,0,40,52,76.9,5,37,1,2,0,SPAL,2019-03-03 SPAL-Sampdoria,ITA-SERIA_A,18-19,7a591f9a
+03760df0,Emiliano Viviano,2,ITA,GK,33-092,90,0,0,0,0,0,0,0,0,41,0,0,0,0.0,0.0,0.0,1,0,25,37,67.6,0,27,0,0,0,SPAL,2019-03-03 SPAL-Sampdoria,ITA-SERIA_A,18-19,7a591f9a
+ee4f2f3b,Fabio Quagliarella,27,ITA,FW,36-031,68,2,0,0,0,6,4,0,0,31,0,0,2,0.7,0.7,0.0,1,0,13,23,56.5,3,15,0,0,0,Sampdoria,2019-03-03 SPAL-Sampdoria,ITA-SERIA_A,18-19,7a591f9a
+854ee61a,Grégoire Defrel,92,MTQ,FW,27-259,22,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,1,0,8,9,88.9,1,7,2,0,0,Sampdoria,2019-03-03 SPAL-Sampdoria,ITA-SERIA_A,18-19,7a591f9a
+8f866fe8,Manolo Gabbiadini,23,ITA,FW,27-097,90,0,0,0,0,3,2,0,0,33,1,1,0,0.1,0.1,0.1,5,0,16,21,76.2,3,22,4,0,0,Sampdoria,2019-03-03 SPAL-Sampdoria,ITA-SERIA_A,18-19,7a591f9a
+3bb7af3b,Riccardo Saponara,5,ITA,AM,27-072,58,0,0,0,0,0,0,0,0,35,1,1,0,0.0,0.0,0.0,5,2,22,29,75.9,6,23,2,2,1,Sampdoria,2019-03-03 SPAL-Sampdoria,ITA-SERIA_A,18-19,7a591f9a
+1ea5f91c,Jakub Jankto,14,CZE,"LM,AM",23-043,32,0,0,0,0,1,0,0,0,18,0,0,0,0.0,0.0,0.0,0,0,9,13,69.2,2,10,3,1,0,Sampdoria,2019-03-03 SPAL-Sampdoria,ITA-SERIA_A,18-19,7a591f9a
+d023d70f,Karol Linetty,16,POL,"LM,RM,CM",24-029,90,0,1,0,0,0,0,0,0,44,3,1,2,0.0,0.0,0.4,2,1,22,28,78.6,5,27,1,0,0,Sampdoria,2019-03-03 SPAL-Sampdoria,ITA-SERIA_A,18-19,7a591f9a
+75e60d75,Ronaldo Vieira,4,ENG,CM,20-227,90,0,0,0,0,0,0,1,0,65,5,1,1,0.0,0.0,0.1,2,0,43,57,75.4,6,33,1,1,1,Sampdoria,2019-03-03 SPAL-Sampdoria,ITA-SERIA_A,18-19,7a591f9a
+86695068,Dennis Praet,10,BEL,"RM,CM",24-293,87,0,0,0,0,2,2,0,0,40,2,1,1,0.1,0.1,0.1,4,0,24,30,80.0,1,20,3,2,2,Sampdoria,2019-03-03 SPAL-Sampdoria,ITA-SERIA_A,18-19,7a591f9a
+d183e9d6,Nicola Murru,29,ITA,LB,24-077,3,0,0,0,0,0,0,0,0,8,1,0,0,0.0,0.0,0.0,0,0,2,5,40.0,1,4,0,0,0,Sampdoria,2019-03-03 SPAL-Sampdoria,ITA-SERIA_A,18-19,7a591f9a
+da5a981b,Jacopo Sala,7,ITA,"LB,RM",27-088,90,0,0,0,0,1,0,1,0,60,3,0,2,0.0,0.0,0.0,0,0,34,44,77.3,2,26,1,1,0,Sampdoria,2019-03-03 SPAL-Sampdoria,ITA-SERIA_A,18-19,7a591f9a
+8b95acda,Omar Colley,15,GAM,CB,26-130,90,0,0,0,0,0,0,0,0,52,3,1,2,0.0,0.0,0.0,0,0,36,40,90.0,0,24,0,0,0,Sampdoria,2019-03-03 SPAL-Sampdoria,ITA-SERIA_A,18-19,7a591f9a
+e34fc66d,Joachim Andersen,3,DEN,CB,22-276,90,0,0,0,0,0,0,0,0,64,0,0,2,0.0,0.0,0.0,1,0,50,54,92.6,2,31,0,0,0,Sampdoria,2019-03-03 SPAL-Sampdoria,ITA-SERIA_A,18-19,7a591f9a
+61b3978f,Bartosz Bereszyński,24,POL,RB,26-234,90,0,1,0,0,1,0,0,0,55,3,0,2,0.0,0.0,0.2,3,1,36,42,85.7,5,22,1,0,0,Sampdoria,2019-03-03 SPAL-Sampdoria,ITA-SERIA_A,18-19,7a591f9a
+649b01d8,Emil Audero,1,ITA,GK,22-044,90,0,0,0,0,0,0,1,0,35,0,0,0,0.0,0.0,0.0,1,0,22,34,64.7,0,19,0,0,0,Sampdoria,2019-03-03 SPAL-Sampdoria,ITA-SERIA_A,18-19,7a591f9a

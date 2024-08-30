@@ -1,0 +1,29 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+f83c8d6c,Jimmy Briand,7,FRA,FW,33-227,89,0,0,0,0,2,1,0,0,24,1,0,0,0.2,0.2,0.0,1,0,10,15,66.7,1,14,1,1,1,Bordeaux,2019-03-17 Bordeaux-Rennes,FRA-L1,18-19,3b6bac4c
+c650629d,Younousse Sankharé,13,SEN,FW,29-188,1,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,1,0,1,1,100.0,0,0,0,0,0,Bordeaux,2019-03-17 Bordeaux-Rennes,FRA-L1,18-19,3b6bac4c
+81d3318f,François Kamano,11,GUI,LW,22-319,63,1,0,0,0,3,2,0,0,21,0,0,0,1.1,1.1,0.0,2,1,14,17,82.4,2,14,1,0,0,Bordeaux,2019-03-17 Bordeaux-Rennes,FRA-L1,18-19,3b6bac4c
+516dc25b,Jaroslav Plašil,18,CZE,AM,37-071,27,0,0,0,0,1,0,0,0,13,1,0,0,0.0,0.0,0.0,0,0,7,10,70.0,0,7,1,0,0,Bordeaux,2019-03-17 Bordeaux-Rennes,FRA-L1,18-19,3b6bac4c
+b0547a87,Nicolas de Préville,12,FRA,"RW,AM",28-068,90,0,1,0,0,6,0,0,0,47,0,1,3,0.4,0.4,0.9,4,0,16,24,66.7,3,26,5,7,4,Bordeaux,2019-03-17 Bordeaux-Rennes,FRA-L1,18-19,3b6bac4c
+b92edde2,Maxime Poundjé,29,FRA,"LM,WB",26-213,90,0,0,0,0,0,0,0,0,64,2,0,2,0.0,0.0,0.2,3,0,32,50,64.0,8,29,4,4,2,Bordeaux,2019-03-17 Bordeaux-Rennes,FRA-L1,18-19,3b6bac4c
+80556f08,Toma Bašić,26,CRO,CM,22-112,90,0,0,0,0,1,1,1,0,61,1,1,0,0.0,0.0,0.1,3,0,34,45,75.6,6,35,1,4,2,Bordeaux,2019-03-17 Bordeaux-Rennes,FRA-L1,18-19,3b6bac4c
+243f4a0b,Otávio,5,BRA,CM,24-317,90,0,0,0,0,1,0,0,0,58,8,1,1,0.0,0.0,0.0,2,0,39,45,86.7,2,31,0,1,0,Bordeaux,2019-03-17 Bordeaux-Rennes,FRA-L1,18-19,3b6bac4c
+fbbb9269,Youssouf Sabaly,20,SEN,"RM,WB",26-012,84,0,0,0,0,0,0,0,0,50,0,0,1,0.0,0.0,0.2,5,0,33,43,76.7,6,34,4,1,0,Bordeaux,2019-03-17 Bordeaux-Rennes,FRA-L1,18-19,3b6bac4c
+19f8e480,Sergi Palencia,3,ESP,WB,22-359,6,0,0,0,0,0,0,0,0,5,1,0,0,0.0,0.0,0.1,1,0,2,5,40.0,0,4,0,0,0,Bordeaux,2019-03-17 Bordeaux-Rennes,FRA-L1,18-19,3b6bac4c
+0eb03d5b,Vukašin Jovanović,14,SRB,CB,22-304,90,0,0,0,0,0,0,1,0,64,4,2,1,0.0,0.0,0.0,0,0,33,40,82.5,6,32,0,0,0,Bordeaux,2019-03-17 Bordeaux-Rennes,FRA-L1,18-19,3b6bac4c
+29d8ad3f,Pablo,25,BRA,CB,27-269,90,0,0,0,0,0,0,0,0,49,0,3,2,0.0,0.0,0.0,0,0,33,40,82.5,0,34,0,0,0,Bordeaux,2019-03-17 Bordeaux-Rennes,FRA-L1,18-19,3b6bac4c
+4d1666ff,Jules Koundé,4,FRA,CB,20-125,90,0,0,0,0,0,0,0,0,79,4,3,2,0.0,0.0,0.0,2,0,46,61,75.4,5,34,0,0,0,Bordeaux,2019-03-17 Bordeaux-Rennes,FRA-L1,18-19,3b6bac4c
+2434f24a,Benoît Costil,1,FRA,GK,31-257,90,0,0,0,0,0,0,0,0,33,0,0,0,0.0,0.0,0.0,1,0,23,32,71.9,0,19,0,0,0,Bordeaux,2019-03-17 Bordeaux-Rennes,FRA-L1,18-19,3b6bac4c
+2054d037,M'Baye Niang,11,SEN,FW,24-088,90,1,0,0,0,3,2,0,0,24,1,1,0,0.4,0.4,0.0,0,0,11,13,84.6,4,16,1,1,0,Rennes,2019-03-17 Bordeaux-Rennes,FRA-L1,18-19,3b6bac4c
+d14229f3,Adrien Hunou,23,FRA,FW,25-057,90,0,0,0,0,1,0,0,0,37,1,0,2,0.1,0.1,0.0,1,0,23,28,82.1,4,15,1,1,0,Rennes,2019-03-17 Bordeaux-Rennes,FRA-L1,18-19,3b6bac4c
+7cf431a5,James Lea Siliki,12,CMR,LM,22-278,80,0,0,0,0,1,0,0,0,31,0,0,0,0.0,0.0,0.1,1,0,10,22,45.5,1,17,1,4,1,Rennes,2019-03-17 Bordeaux-Rennes,FRA-L1,18-19,3b6bac4c
+0be95d34,Romain Del Castillo,22,FRA,LM,22-353,10,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,1,0,4,10,40.0,0,3,2,1,1,Rennes,2019-03-17 Bordeaux-Rennes,FRA-L1,18-19,3b6bac4c
+20e73fac,Benjamin Bourigeaud,14,FRA,CM,25-062,64,0,0,0,0,1,0,1,0,53,2,0,3,0.0,0.0,0.1,2,0,29,45,64.4,5,24,0,0,0,Rennes,2019-03-17 Bordeaux-Rennes,FRA-L1,18-19,3b6bac4c
+8b298f56,Clément Grenier,8,FRA,CM,28-069,26,0,0,0,0,0,0,0,0,22,0,0,0,0.0,0.0,0.0,0,0,15,22,68.2,4,16,0,0,0,Rennes,2019-03-17 Bordeaux-Rennes,FRA-L1,18-19,3b6bac4c
+ef9c1c95,Benjamin André,21,FRA,CM,28-226,90,0,0,0,0,1,0,0,0,70,2,3,1,0.1,0.1,0.1,3,0,45,61,73.8,4,32,2,1,1,Rennes,2019-03-17 Bordeaux-Rennes,FRA-L1,18-19,3b6bac4c
+bfdb33aa,Ismaila Sarr,7,SEN,RM,21-020,90,0,0,0,0,1,0,0,0,44,3,0,1,0.1,0.1,0.0,7,1,20,28,71.4,2,35,5,5,1,Rennes,2019-03-17 Bordeaux-Rennes,FRA-L1,18-19,3b6bac4c
+378825c7,Ramy Bensebaini,15,ALG,LB,23-335,90,0,0,0,0,1,0,0,0,84,4,0,2,0.1,0.1,0.0,1,0,51,70,72.9,8,44,4,1,0,Rennes,2019-03-17 Bordeaux-Rennes,FRA-L1,18-19,3b6bac4c
+ce492295,Mexer,4,MOZ,CB,30-190,90,0,0,0,0,0,0,0,0,54,1,0,1,0.0,0.0,0.0,0,0,36,44,81.8,1,37,0,2,1,Rennes,2019-03-17 Bordeaux-Rennes,FRA-L1,18-19,3b6bac4c
+1ec7e1c5,Damien Da Silva,3,FRA,CB,30-304,90,0,0,0,0,0,0,1,0,47,0,0,2,0.0,0.0,0.1,0,0,27,33,81.8,1,22,0,1,1,Rennes,2019-03-17 Bordeaux-Rennes,FRA-L1,18-19,3b6bac4c
+a4b1028a,Hamari Traoré,27,MLI,RB,27-049,90,0,0,0,0,1,1,1,0,90,2,0,2,0.0,0.0,0.0,2,0,64,76,84.2,8,42,4,5,2,Rennes,2019-03-17 Bordeaux-Rennes,FRA-L1,18-19,3b6bac4c
+dc366c36,Tomáš Koubek,40,CZE,GK,26-203,90,0,0,0,0,0,0,0,0,30,0,0,0,0.0,0.0,0.0,0,0,19,28,67.9,0,16,0,1,1,Rennes,2019-03-17 Bordeaux-Rennes,FRA-L1,18-19,3b6bac4c

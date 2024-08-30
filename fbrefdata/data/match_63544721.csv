@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+7cdda3bf,Gaëtan Laborde,24,FRA,FW,23-270,66,1,0,1,1,0,0,0,0,28,1,0,1,0.8,0.0,0.1,2,1,15,21,71.4,1,15,4,1,1,Bordeaux,2018-01-28 Bordeaux-Lyon,FRA-L1,17-18,63544721
+c650629d,Younousse Sankharé,13,SEN,"DM,LW",28-140,24,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,1,0,0,0,Bordeaux,2018-01-28 Bordeaux-Lyon,FRA-L1,17-18,63544721
+b0547a87,Nicolas de Préville,12,FRA,"LW,FW",27-020,89,1,0,0,0,3,1,1,0,48,3,2,1,0.6,0.6,0.4,1,0,20,30,66.7,1,38,5,5,2,Bordeaux,2018-01-28 Bordeaux-Lyon,FRA-L1,17-18,63544721
+e2f9bb5f,Zaydou Youssouf,32,FRA,FW,18-201,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Bordeaux,2018-01-28 Bordeaux-Lyon,FRA-L1,17-18,63544721
+6853490f,Malcom,7,BRA,RW,20-336,79,1,0,1,1,0,0,0,0,37,3,0,0,0.8,0.0,0.1,6,3,27,33,81.8,4,30,9,4,4,Bordeaux,2018-01-28 Bordeaux-Lyon,FRA-L1,17-18,63544721
+97fb4608,Théo Pellenard,21,FRA,CB,23-330,11,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,1,0,0,0,Bordeaux,2018-01-28 Bordeaux-Lyon,FRA-L1,17-18,63544721
+5cec2c74,Soualiho Meïté,10,FRA,"LM,DM",23-317,90,0,1,0,0,1,0,0,0,45,3,1,2,0.4,0.4,0.4,4,1,29,31,93.5,3,32,7,4,3,Bordeaux,2018-01-28 Bordeaux-Lyon,FRA-L1,17-18,63544721
+243f4a0b,Otávio,5,BRA,CM,23-269,75,0,0,0,0,1,0,2,1,46,4,1,1,0.0,0.0,0.0,0,0,33,37,89.2,2,24,0,0,0,Bordeaux,2018-01-28 Bordeaux-Lyon,FRA-L1,17-18,63544721
+1b82f8df,Lukas Lerager,19,DEN,"RM,DM",24-200,90,0,0,0,0,1,0,0,0,45,5,0,2,0.0,0.0,0.0,0,0,26,32,81.3,4,26,0,0,0,Bordeaux,2018-01-28 Bordeaux-Lyon,FRA-L1,17-18,63544721
+b92edde2,Maxime Poundjé,29,FRA,"LB,WB",25-165,90,0,0,0,0,1,1,0,0,42,1,2,0,0.0,0.0,0.1,4,1,29,34,85.3,3,25,2,3,1,Bordeaux,2018-01-28 Bordeaux-Lyon,FRA-L1,17-18,63544721
+29d8ad3f,Pablo,25,BRA,CB,26-221,90,0,0,0,0,0,0,0,0,39,0,0,1,0.0,0.0,0.0,0,0,27,29,93.1,0,22,0,0,0,Bordeaux,2018-01-28 Bordeaux-Lyon,FRA-L1,17-18,63544721
+4d1666ff,Jules Koundé,31,FRA,CB,19-077,90,0,0,0,0,0,0,0,0,45,2,1,0,0.0,0.0,0.0,0,0,28,35,80.0,0,22,0,1,0,Bordeaux,2018-01-28 Bordeaux-Lyon,FRA-L1,17-18,63544721
+fbbb9269,Youssouf Sabaly,20,SEN,"RB,WB",24-329,90,0,0,0,0,0,0,0,0,46,1,1,0,0.0,0.0,0.0,1,0,31,39,79.5,1,22,0,0,0,Bordeaux,2018-01-28 Bordeaux-Lyon,FRA-L1,17-18,63544721
+2434f24a,Benoît Costil,1,FRA,GK,30-209,90,0,0,0,0,0,0,0,0,38,0,0,0,0.0,0.0,0.0,0,0,15,35,42.9,0,16,0,0,0,Bordeaux,2018-01-28 Bordeaux-Lyon,FRA-L1,17-18,63544721
+5c4dc0ff,Mariano,9,DOM,FW,24-180,90,0,0,0,0,1,0,0,0,24,0,0,0,0.0,0.0,0.0,1,0,15,19,78.9,0,12,0,1,0,Lyon,2018-01-28 Bordeaux-Lyon,FRA-L1,17-18,63544721
+bece776f,Nabil Fekir,18,FRA,FW,24-194,90,0,1,0,0,1,0,1,0,67,0,0,1,0.1,0.1,0.1,4,1,49,58,84.5,4,55,2,3,1,Lyon,2018-01-28 Bordeaux-Lyon,FRA-L1,17-18,63544721
+a5db0bec,Houssem Aouar,8,ALG,"CM,LM",19-212,90,0,0,0,0,0,0,0,0,88,3,2,2,0.0,0.0,0.0,2,0,71,78,91.0,7,61,4,1,1,Lyon,2018-01-28 Bordeaux-Lyon,FRA-L1,17-18,63544721
+5cdddffa,Tanguy Ndombele,28,FRA,CM,21-031,90,0,0,0,0,1,0,0,0,96,0,0,0,0.0,0.0,0.1,4,0,78,84,92.9,10,69,3,7,3,Lyon,2018-01-28 Bordeaux-Lyon,FRA-L1,17-18,63544721
+71ec39ef,Lucas Tousart,29,FRA,CM,20-274,45,0,0,0,0,0,0,0,0,36,1,0,2,0.0,0.0,0.0,0,0,27,32,84.4,3,23,0,0,0,Lyon,2018-01-28 Bordeaux-Lyon,FRA-L1,17-18,63544721
+8f696594,Memphis,11,NED,LM,23-349,45,0,0,0,0,2,2,0,0,33,0,0,1,0.1,0.1,0.0,2,0,18,24,75.0,2,21,2,0,0,Lyon,2018-01-28 Bordeaux-Lyon,FRA-L1,17-18,63544721
+beb391dd,Maxwel Cornet,27,CIV,RM,21-123,62,0,0,0,0,1,1,0,0,34,0,0,1,0.1,0.1,0.0,0,0,23,28,82.1,2,26,2,2,1,Lyon,2018-01-28 Bordeaux-Lyon,FRA-L1,17-18,63544721
+c47541e0,Bertrand Traoré,10,BFA,RM,22-144,28,0,0,0,0,1,0,0,0,26,1,0,0,0.1,0.1,0.0,2,0,20,23,87.0,1,18,4,1,0,Lyon,2018-01-28 Bordeaux-Lyon,FRA-L1,17-18,63544721
+3cefcaef,Ferland Mendy,22,FRA,LB,22-234,90,0,0,0,0,1,0,0,0,89,3,0,2,0.0,0.0,0.0,0,0,67,76,88.2,4,53,1,2,1,Lyon,2018-01-28 Bordeaux-Lyon,FRA-L1,17-18,63544721
+e97150c0,Jérémy Morel,15,MAD,CB,33-301,90,0,0,0,0,0,0,0,0,89,1,0,1,0.0,0.0,0.0,0,0,70,80,87.5,4,55,0,1,0,Lyon,2018-01-28 Bordeaux-Lyon,FRA-L1,17-18,63544721
+e3d0b0c4,Marcelo,6,BRA,CB,30-253,90,1,0,0,0,1,1,1,0,90,2,0,1,0.1,0.1,0.0,0,0,80,87,92.0,8,71,2,0,0,Lyon,2018-01-28 Bordeaux-Lyon,FRA-L1,17-18,63544721
+9a1f2e1c,Rafael,4,BRA,RB,27-203,45,0,0,0,0,0,0,1,0,36,2,3,0,0.0,0.0,0.0,0,0,23,28,82.1,0,17,0,1,0,Lyon,2018-01-28 Bordeaux-Lyon,FRA-L1,17-18,63544721
+77d7c96f,Kenny Tete,23,NED,RB,22-111,45,0,0,0,0,0,0,0,0,37,2,0,0,0.0,0.0,0.0,1,0,31,34,91.2,3,20,0,0,0,Lyon,2018-01-28 Bordeaux-Lyon,FRA-L1,17-18,63544721
+f00de885,Anthony Lopes,1,POR,GK,27-119,90,0,0,0,0,0,0,0,0,27,0,0,0,0.0,0.0,0.0,0,0,24,25,96.0,0,8,0,0,0,Lyon,2018-01-28 Bordeaux-Lyon,FRA-L1,17-18,63544721

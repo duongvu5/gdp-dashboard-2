@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+5ceba7fc,Karl Toko Ekambi,21,CMR,"LM,RM,FW",27-144,85,0,0,0,0,3,1,0,0,41,0,0,0,0.1,0.1,0.1,4,0,28,34,82.4,1,26,7,2,2,Lyon,2020-02-05 Lyon-Amiens,FRA-L1,19-20,7c7ae822
+5148dcc5,Martin Terrier,7,FRA,RM,22-338,5,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,3,3,100.0,0,1,0,0,0,Lyon,2020-02-05 Lyon-Amiens,FRA-L1,19-20,7c7ae822
+e7986081,Moussa Dembélé,9,FRA,FW,23-208,90,0,0,0,0,0,0,0,0,33,0,0,2,0.0,0.0,0.0,1,0,14,23,60.9,1,17,1,1,1,Lyon,2020-02-05 Lyon-Amiens,FRA-L1,19-20,7c7ae822
+a5db0bec,Houssem Aouar,8,ALG,"FW,LM",21-220,90,0,0,0,0,0,0,0,0,57,1,0,0,0.0,0.0,0.0,2,0,39,50,78.0,5,38,5,4,3,Lyon,2020-02-05 Lyon-Amiens,FRA-L1,19-20,7c7ae822
+71ec39ef,Lucas Tousart,29,FRA,CM,22-282,90,0,0,0,0,1,0,0,0,83,6,2,0,0.0,0.0,0.0,2,0,58,67,86.6,4,39,3,3,2,Lyon,2020-02-05 Lyon-Amiens,FRA-L1,19-20,7c7ae822
+a99138af,Jean Lucas,22,BRA,CM,21-228,65,0,0,0,0,1,0,1,0,56,3,2,1,0.0,0.0,0.0,0,0,35,43,81.4,4,26,0,2,1,Lyon,2020-02-05 Lyon-Amiens,FRA-L1,19-20,7c7ae822
+c6e5d20f,Thiago Mendes,12,BRA,CM,27-327,25,0,0,0,0,0,0,0,0,28,1,2,0,0.0,0.0,0.0,1,0,17,24,70.8,4,18,0,0,0,Lyon,2020-02-05 Lyon-Amiens,FRA-L1,19-20,7c7ae822
+c47541e0,Bertrand Traoré,10,BFA,RM,24-152,65,0,0,0,0,2,0,0,0,52,1,1,1,0.1,0.1,0.1,1,0,27,41,65.9,4,25,2,3,1,Lyon,2020-02-05 Lyon-Amiens,FRA-L1,19-20,7c7ae822
+b34c63a5,Rayan Cherki,18,FRA,LM,16-172,25,0,0,0,0,3,2,0,0,24,0,0,0,0.2,0.2,0.0,2,0,12,16,75.0,3,12,1,1,0,Lyon,2020-02-05 Lyon-Amiens,FRA-L1,19-20,7c7ae822
+beb391dd,Maxwel Cornet,27,CIV,LB,23-131,90,0,0,0,0,0,0,0,0,87,2,0,1,0.0,0.0,0.1,4,0,62,81,76.5,9,48,3,2,2,Lyon,2020-02-05 Lyon-Amiens,FRA-L1,19-20,7c7ae822
+47af88b8,Jason Denayer,5,BEL,CB,24-222,90,0,0,0,0,0,0,0,0,78,1,1,2,0.0,0.0,0.0,0,0,64,70,91.4,4,51,2,0,0,Lyon,2020-02-05 Lyon-Amiens,FRA-L1,19-20,7c7ae822
+e3d0b0c4,Marcelo,6,BRA,CB,32-261,90,0,0,0,0,0,0,0,0,80,4,1,0,0.0,0.0,0.0,1,0,54,70,77.1,4,43,0,0,0,Lyon,2020-02-05 Lyon-Amiens,FRA-L1,19-20,7c7ae822
+77d7c96f,Kenny Tete,23,NED,RB,24-119,90,0,0,0,0,0,0,0,0,101,2,1,0,0.0,0.0,0.2,1,0,65,88,73.9,7,45,4,4,1,Lyon,2020-02-05 Lyon-Amiens,FRA-L1,19-20,7c7ae822
+f00de885,Anthony Lopes,1,POR,GK,29-127,90,0,0,0,0,0,0,0,0,41,0,0,0,0.0,0.0,0.0,0,0,35,40,87.5,0,25,0,0,0,Lyon,2020-02-05 Lyon-Amiens,FRA-L1,19-20,7c7ae822
+923f4dda,Serhou Guirassy,9,GUI,FW,23-330,90,0,0,0,0,2,1,0,0,43,0,0,1,0.1,0.1,0.0,2,0,19,27,70.4,3,25,1,1,0,Amiens,2020-02-05 Lyon-Amiens,FRA-L1,19-20,7c7ae822
+d07e3b41,Fousseni Diabaté,28,MLI,LW,24-110,79,0,0,0,0,1,0,0,0,38,0,0,2,0.0,0.0,0.0,0,0,19,31,61.3,1,18,2,4,3,Amiens,2020-02-05 Lyon-Amiens,FRA-L1,19-20,7c7ae822
+5d42d487,Quentin Cornette,29,FRA,LW,26-019,11,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,4,6,66.7,0,4,0,0,0,Amiens,2020-02-05 Lyon-Amiens,FRA-L1,19-20,7c7ae822
+05816e19,Juan Ferney Otero,11,COL,RW,24-255,90,0,0,0,0,1,1,0,0,41,2,4,3,0.0,0.0,0.0,1,0,12,25,48.0,2,23,1,2,0,Amiens,2020-02-05 Lyon-Amiens,FRA-L1,19-20,7c7ae822
+5b1bf5e3,Gaël Kakuta,10,COD,AM,28-229,75,0,0,0,0,1,0,0,0,34,1,0,0,0.0,0.0,0.0,1,0,19,24,79.2,3,24,1,5,4,Amiens,2020-02-05 Lyon-Amiens,FRA-L1,19-20,7c7ae822
+e68f2cb4,Stiven Mendoza,20,COL,AM,27-223,15,0,0,0,0,2,0,0,0,9,1,0,0,0.1,0.1,0.0,0,0,2,5,40.0,1,6,2,0,0,Amiens,2020-02-05 Lyon-Amiens,FRA-L1,19-20,7c7ae822
+c69ef855,Alexis Blin,17,FRA,DM,23-142,90,0,0,0,0,0,0,0,0,59,4,1,4,0.0,0.0,0.0,0,0,27,40,67.5,7,20,2,0,0,Amiens,2020-02-05 Lyon-Amiens,FRA-L1,19-20,7c7ae822
+84d94b91,Thomas Monconduit,6,FRA,DM,28-360,82,0,0,0,0,0,0,1,0,45,1,0,0,0.0,0.0,0.0,0,0,29,39,74.4,7,17,0,1,0,Amiens,2020-02-05 Lyon-Amiens,FRA-L1,19-20,7c7ae822
+a8797cf1,Bongani Zungu,8,RSA,DM,27-119,8,0,0,0,0,0,0,0,0,8,1,2,1,0.0,0.0,0.1,1,0,3,4,75.0,0,0,0,0,0,Amiens,2020-02-05 Lyon-Amiens,FRA-L1,19-20,7c7ae822
+247accfd,Bakaye Dibassy,12,MLI,LB,30-178,90,0,0,0,0,0,0,1,0,79,5,2,3,0.0,0.0,0.0,2,0,50,63,79.4,7,27,2,1,1,Amiens,2020-02-05 Lyon-Amiens,FRA-L1,19-20,7c7ae822
+80e4c841,Aurélien Chedjou,27,CMR,CB,34-230,90,0,0,0,0,0,0,0,0,37,2,2,1,0.0,0.0,0.0,1,0,19,27,70.4,2,16,0,2,1,Amiens,2020-02-05 Lyon-Amiens,FRA-L1,19-20,7c7ae822
+b871bf55,Nicholas Opoku,4,GHA,CB,22-089,90,0,0,0,0,0,0,0,0,34,0,1,2,0.0,0.0,0.0,0,0,10,18,55.6,0,11,0,0,0,Amiens,2020-02-05 Lyon-Amiens,FRA-L1,19-20,7c7ae822
+34bb6fbd,Arturo Calabresi,3,ITA,RB,23-325,90,0,0,0,0,0,0,0,0,40,1,4,1,0.0,0.0,0.0,2,0,21,30,70.0,3,13,0,2,2,Amiens,2020-02-05 Lyon-Amiens,FRA-L1,19-20,7c7ae822
+bc270726,Régis Gurtner,1,FRA,GK,33-059,90,0,0,0,0,0,0,0,0,29,0,0,0,0.0,0.0,0.0,0,0,17,27,63.0,0,12,0,0,0,Amiens,2020-02-05 Lyon-Amiens,FRA-L1,19-20,7c7ae822

@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+36a79857,Tokmac Nguen,10,NOR,FW,28-050,45,0,0,0,0,0,0,0,0,20,0,1,1,0.0,0.0,0.0,0,0,10,13,76.9,1,12,0,1,1,Ferencváros,2021-12-09 Ferencváros-Leverkusen,UEL,21-22,a4970df3
+8a56c04c,Ryan Mmaee,8,MAR,FW,24-038,45,0,0,0,0,0,0,0,0,16,1,1,0,0.0,0.0,0.1,4,0,7,8,87.5,0,11,3,3,2,Ferencváros,2021-12-09 Ferencváros-Leverkusen,UEL,21-22,a4970df3
+01da7812,Myrto Uzuni,77,ALB,FW,26-192,90,0,0,0,0,1,0,0,0,31,0,0,1,0.0,0.0,0.0,2,1,16,24,66.7,2,21,1,3,2,Ferencváros,2021-12-09 Ferencváros-Leverkusen,UEL,21-22,a4970df3
+adfbe1f5,Oleksandr Zubkov,11,UKR,LW,25-128,87,0,1,0,0,3,0,0,0,75,0,1,1,0.2,0.2,0.3,3,1,47,63,74.6,3,43,1,2,1,Ferencváros,2021-12-09 Ferencváros-Leverkusen,UEL,21-22,a4970df3
+aa681ea5,Marijan Čabraja,23,CRO,LW,24-287,3,0,0,0,0,0,0,1,0,2,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,2,0,1,0,Ferencváros,2021-12-09 Ferencváros-Leverkusen,UEL,21-22,a4970df3
+2cb77ec6,Endre Botka,21,HUN,RW,27-106,90,0,0,0,0,0,0,0,0,42,1,1,0,0.0,0.0,0.0,1,0,27,36,75.0,2,20,3,1,0,Ferencváros,2021-12-09 Ferencváros-Leverkusen,UEL,21-22,a4970df3
+816bdfdd,Stjepan Lončar,44,BIH,CM,25-029,80,0,0,0,0,1,0,0,0,42,1,1,0,0.1,0.1,0.1,2,0,24,29,82.8,6,30,4,3,0,Ferencváros,2021-12-09 Ferencváros-Leverkusen,UEL,21-22,a4970df3
+173eb3cd,Bálint Vécsei,19,HUN,DM,28-149,10,0,0,0,0,0,0,0,0,2,0,1,0,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,0,0,Ferencváros,2021-12-09 Ferencváros-Leverkusen,UEL,21-22,a4970df3
+47dbe004,Kristoffer Zachariassen,16,NOR,CM,27-043,69,0,0,0,0,0,0,0,0,21,0,0,0,0.0,0.0,0.0,1,0,15,18,83.3,3,14,1,0,0,Ferencváros,2021-12-09 Ferencváros-Leverkusen,UEL,21-22,a4970df3
+c1febb46,Somália,7,BRA,CM,33-072,21,0,0,0,0,0,0,0,0,8,1,0,0,0.0,0.0,0.0,0,0,6,7,85.7,1,4,1,0,0,Ferencváros,2021-12-09 Ferencváros-Leverkusen,UEL,21-22,a4970df3
+22798128,Aïssa Laïdouni,93,TUN,"DM,CM",24-361,90,1,0,0,0,2,1,1,0,73,1,1,1,0.3,0.3,0.0,2,0,51,60,85.0,5,56,1,3,2,Ferencváros,2021-12-09 Ferencváros-Leverkusen,UEL,21-22,a4970df3
+b79d8e93,Adnan Kovačević,15,BIH,CB,28-091,90,0,0,0,0,1,0,0,0,86,1,2,2,0.0,0.0,0.0,0,0,61,71,85.9,4,55,7,0,0,Ferencváros,2021-12-09 Ferencváros-Leverkusen,UEL,21-22,a4970df3
+bf80db4d,Samy Mmaee,3,MAR,CB,25-092,90,0,0,0,0,0,0,0,0,83,0,0,3,0.0,0.0,0.0,0,0,64,74,86.5,1,60,0,0,0,Ferencváros,2021-12-09 Ferencváros-Leverkusen,UEL,21-22,a4970df3
+3cdfc63e,Miha Blažič,25,SVN,CB,28-215,90,0,0,0,0,0,0,1,0,58,1,1,0,0.0,0.0,0.0,0,0,45,55,81.8,2,39,1,0,0,Ferencváros,2021-12-09 Ferencváros-Leverkusen,UEL,21-22,a4970df3
+4030c7ae,Dénes Dibusz,90,HUN,GK,31-023,90,0,0,0,0,0,0,0,0,30,0,0,0,0.0,0.0,0.0,0,0,22,26,84.6,0,14,0,0,0,Ferencváros,2021-12-09 Ferencváros-Leverkusen,UEL,21-22,a4970df3
+834d0be5,Lucas Alario,13,ARG,FW,29-062,80,0,0,0,0,2,0,0,0,33,1,0,1,0.1,0.1,0.0,1,0,18,22,81.8,1,12,0,2,1,Bayer Leverkusen,2021-12-09 Ferencváros-Leverkusen,UEL,21-22,a4970df3
+dcfb17f4,Amine Adli,31,MAR,FW,21-213,10,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,1,0,2,3,66.7,0,3,0,0,0,Bayer Leverkusen,2021-12-09 Ferencváros-Leverkusen,UEL,21-22,a4970df3
+53070b63,Paulinho,7,BRA,LW,21-147,90,0,0,0,0,1,1,0,0,51,2,0,2,0.1,0.1,0.4,3,0,37,43,86.0,3,29,8,1,1,Bayer Leverkusen,2021-12-09 Ferencváros-Leverkusen,UEL,21-22,a4970df3
+bee0bab1,Karim Bellarabi,38,GER,RW,31-245,70,0,0,0,0,2,0,1,0,51,0,0,0,0.1,0.1,0.1,2,0,31,41,75.6,2,25,7,0,0,Bayer Leverkusen,2021-12-09 Ferencváros-Leverkusen,UEL,21-22,a4970df3
+aeed5c06,Moussa Diaby,19,FRA,RW,22-155,20,0,0,0,0,0,0,0,0,11,0,1,0,0.0,0.0,0.0,0,0,6,8,75.0,1,6,0,1,0,Bayer Leverkusen,2021-12-09 Ferencváros-Leverkusen,UEL,21-22,a4970df3
+555d5edd,Nadiem Amiri,11,GER,"AM,CM",25-043,90,0,0,0,0,4,2,0,0,77,0,0,0,0.7,0.7,0.3,7,0,53,66,80.3,13,49,7,4,2,Bayer Leverkusen,2021-12-09 Ferencváros-Leverkusen,UEL,21-22,a4970df3
+e82adcab,Exequiel Palacios,25,ARG,DM,23-065,63,0,0,0,0,0,0,0,0,65,1,0,3,0.0,0.0,0.0,2,0,50,57,87.7,4,35,0,0,0,Bayer Leverkusen,2021-12-09 Ferencváros-Leverkusen,UEL,21-22,a4970df3
+e0b113a7,Robert Andrich,8,GER,"CM,DM",27-078,27,0,0,0,0,1,0,0,0,19,0,0,0,0.1,0.1,0.0,2,0,12,17,70.6,1,7,0,0,0,Bayer Leverkusen,2021-12-09 Ferencváros-Leverkusen,UEL,21-22,a4970df3
+56413b1f,Charles Aránguiz,20,CHI,DM,32-236,70,0,0,0,0,0,0,0,0,66,1,0,2,0.0,0.0,0.1,2,0,53,58,91.4,7,37,0,1,0,Bayer Leverkusen,2021-12-09 Ferencváros-Leverkusen,UEL,21-22,a4970df3
+74f2e748,Jeremie Frimpong,30,NED,RM,20-364,20,0,0,0,0,0,0,0,0,11,1,0,0,0.0,0.0,0.0,0,0,9,9,100.0,1,4,1,1,1,Bayer Leverkusen,2021-12-09 Ferencváros-Leverkusen,UEL,21-22,a4970df3
+73000a79,Daley Sinkgraven,22,NED,"LB,LM",26-158,90,0,0,0,0,0,0,0,0,68,1,0,2,0.0,0.0,0.0,0,0,49,60,81.7,6,39,5,2,2,Bayer Leverkusen,2021-12-09 Ferencváros-Leverkusen,UEL,21-22,a4970df3
+a73c8f95,Edmond Tapsoba,12,BFA,CB,22-310,45,0,0,0,0,0,0,0,0,50,1,0,0,0.0,0.0,0.0,1,0,43,47,91.5,4,35,1,0,0,Bayer Leverkusen,2021-12-09 Ferencváros-Leverkusen,UEL,21-22,a4970df3
+bd142efb,Jonathan Tah,4,GER,CB,25-301,45,0,0,0,0,2,1,0,0,30,2,1,0,0.1,0.1,0.0,0,0,20,24,83.3,0,18,1,0,0,Bayer Leverkusen,2021-12-09 Ferencváros-Leverkusen,UEL,21-22,a4970df3
+1f3afdcb,Odilon Kossonou,6,CIV,CB,20-339,90,0,0,0,0,0,0,1,0,73,2,1,1,0.0,0.0,0.0,0,0,59,65,90.8,4,47,2,0,0,Bayer Leverkusen,2021-12-09 Ferencváros-Leverkusen,UEL,21-22,a4970df3
+4bd00a50,Panagiotis Retsos,3,GRE,"RB,CB",23-122,90,0,0,0,0,1,0,1,0,74,5,0,2,0.0,0.0,0.0,1,0,56,66,84.8,5,35,5,1,1,Bayer Leverkusen,2021-12-09 Ferencváros-Leverkusen,UEL,21-22,a4970df3
+8a6ab963,Andrey Lunyov,40,RUS,GK,30-026,90,0,0,0,0,0,0,0,0,34,0,0,0,0.0,0.0,0.0,1,0,30,34,88.2,0,16,0,0,0,Bayer Leverkusen,2021-12-09 Ferencváros-Leverkusen,UEL,21-22,a4970df3

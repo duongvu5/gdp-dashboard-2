@@ -1,0 +1,31 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+8a53d24b,Ike Ugbo,9,CAN,FW,24-228,79,0,0,0,0,2,0,0,0,17,0,0,0,0.2,0.2,0.0,1,0,8,11,72.7,0,10,0,0,0,Troyes,2023-05-07 Troyes-Paris S-G,FRA-L1,22-23,f9e55cdf
+7c2965bb,Rony Lopes,11,POR,"AM,FW",27-130,11,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,1,1,5,6,83.3,0,4,1,0,0,Troyes,2023-05-07 Troyes-Paris S-G,FRA-L1,22-23,f9e55cdf
+fb14aa28,Mama Samba Baldé,7,GNB,"AM,FW",27-182,90,0,0,0,0,2,1,1,0,43,0,0,1,0.1,0.1,0.0,3,0,22,32,68.8,2,36,1,2,2,Troyes,2023-05-07 Troyes-Paris S-G,FRA-L1,22-23,f9e55cdf
+35516eac,Wilson Odobert,29,FRA,AM,18-160,90,0,0,0,0,0,0,0,0,57,0,0,0,0.0,0.0,0.0,2,0,42,50,84.0,8,52,2,7,3,Troyes,2023-05-07 Troyes-Paris S-G,FRA-L1,22-23,f9e55cdf
+279ddf6a,Xavier Chavalerin,24,FRA,CM,32-061,90,1,0,0,0,1,1,0,0,58,4,2,0,0.4,0.4,0.1,2,0,41,47,87.2,6,44,0,0,0,Troyes,2023-05-07 Troyes-Paris S-G,FRA-L1,22-23,f9e55cdf
+8bc8829a,Lucien Agoume,8,FRA,CM,21-087,67,0,0,0,0,0,0,0,0,45,0,2,1,0.0,0.0,0.0,1,0,39,41,95.1,5,39,1,0,0,Troyes,2023-05-07 Troyes-Paris S-G,FRA-L1,22-23,f9e55cdf
+86a2ba20,Rominigue Kouamé,6,MLI,CM,26-141,23,0,0,0,0,1,0,0,0,28,0,0,2,0.0,0.0,0.0,0,0,24,25,96.0,1,23,0,0,0,Troyes,2023-05-07 Troyes-Paris S-G,FRA-L1,22-23,f9e55cdf
+0ed063d6,Yasser Larouci,39,ALG,WB,22-126,80,0,0,0,0,0,0,0,0,59,1,1,0,0.0,0.0,0.0,1,0,38,48,79.2,2,42,3,6,3,Troyes,2023-05-07 Troyes-Paris S-G,FRA-L1,22-23,f9e55cdf
+87e9c7cd,Papa Ndiaga Yade,26,MTN,WB,23-122,10,0,1,0,0,0,0,0,0,13,0,0,0,0.0,0.0,0.4,1,1,9,11,81.8,1,11,1,1,0,Troyes,2023-05-07 Troyes-Paris S-G,FRA-L1,22-23,f9e55cdf
+b088d5d3,Andreas Bruus,19,DEN,WB,24-111,67,0,0,0,0,0,0,0,0,19,1,0,0,0.0,0.0,0.0,0,0,9,15,60.0,0,13,0,2,1,Troyes,2023-05-07 Troyes-Paris S-G,FRA-L1,22-23,f9e55cdf
+3975195f,Thierno Balde,18,FRA,WB,20-331,23,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,7,7,100.0,0,7,1,1,1,Troyes,2023-05-07 Troyes-Paris S-G,FRA-L1,22-23,f9e55cdf
+e5c1e0ca,Erik Palmer-Brown,4,USA,CB,26-013,90,0,0,0,0,1,0,0,0,76,2,1,4,0.1,0.1,0.0,0,0,61,64,95.3,1,64,0,0,0,Troyes,2023-05-07 Troyes-Paris S-G,FRA-L1,22-23,f9e55cdf
+8dbff17c,Adil Rami,23,FRA,CB,37-131,90,0,0,0,0,0,0,0,0,64,0,2,3,0.0,0.0,0.0,1,0,54,58,93.1,2,58,0,2,0,Troyes,2023-05-07 Troyes-Paris S-G,FRA-L1,22-23,f9e55cdf
+aefa3050,Tanguy Zoukrou,22,FRA,CB,20-000,90,0,0,0,0,0,0,0,0,51,2,1,4,0.0,0.0,0.0,0,0,40,42,95.2,1,37,0,1,1,Troyes,2023-05-07 Troyes-Paris S-G,FRA-L1,22-23,f9e55cdf
+db3164e1,Gauthier Gallon,30,FRA,GK,30-014,90,0,0,0,0,0,0,0,0,50,0,0,0,0.0,0.0,0.0,0,0,39,42,92.9,0,27,0,0,0,Troyes,2023-05-07 Troyes-Paris S-G,FRA-L1,22-23,f9e55cdf
+42fd9c7f,Kylian Mbappé,7,FRA,FW,24-138,90,1,0,0,0,8,3,0,0,61,0,1,1,2.0,2.0,0.2,7,1,38,46,82.6,4,53,1,4,2,Paris Saint-Germain,2023-05-07 Troyes-Paris S-G,FRA-L1,22-23,f9e55cdf
+5b92d896,Hugo Ekitike,44,FRA,FW,20-321,79,0,0,0,0,6,2,0,0,40,0,1,0,0.5,0.5,0.3,8,0,25,31,80.6,2,37,1,1,1,Paris Saint-Germain,2023-05-07 Troyes-Paris S-G,FRA-L1,22-23,f9e55cdf
+fed17f5a,Carlos Soler,28,ESP,FW,26-125,11,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,3,4,75.0,0,3,0,0,0,Paris Saint-Germain,2023-05-07 Troyes-Paris S-G,FRA-L1,22-23,f9e55cdf
+c0c7ff58,Fabián Ruiz Peña,8,ESP,CM,27-034,90,1,0,0,0,5,3,0,0,110,2,1,1,0.4,0.4,0.1,6,1,94,100,94.0,9,92,4,1,1,Paris Saint-Germain,2023-05-07 Troyes-Paris S-G,FRA-L1,22-23,f9e55cdf
+1467af0d,Marco Verratti,6,ITA,CM,30-183,79,0,0,0,0,2,1,0,0,117,1,0,2,0.3,0.3,0.8,11,1,105,109,96.3,23,107,2,0,0,Paris Saint-Germain,2023-05-07 Troyes-Paris S-G,FRA-L1,22-23,f9e55cdf
+032f894e,Renato Sanches,18,POR,CM,25-262,11,0,0,0,0,1,0,0,0,9,1,0,0,0.1,0.1,0.6,2,0,5,6,83.3,0,7,1,0,0,Paris Saint-Germain,2023-05-07 Troyes-Paris S-G,FRA-L1,22-23,f9e55cdf
+3b029691,Vitinha,17,POR,CM,23-083,89,1,0,0,0,4,3,0,0,97,4,0,1,0.7,0.7,0.2,9,1,72,82,87.8,8,78,2,3,1,Paris Saint-Germain,2023-05-07 Troyes-Paris S-G,FRA-L1,22-23,f9e55cdf
+5b3cfa12,Ismaël Gharbi,35,ESP,CM,19-027,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Paris Saint-Germain,2023-05-07 Troyes-Paris S-G,FRA-L1,22-23,f9e55cdf
+433dc9a2,Juan Bernat,14,ESP,WB,30-067,90,0,0,0,0,0,0,0,0,53,1,0,0,0.0,0.0,0.2,4,0,47,52,90.4,5,43,2,1,1,Paris Saint-Germain,2023-05-07 Troyes-Paris S-G,FRA-L1,22-23,f9e55cdf
+6b9960cf,Warren Zaïre-Emery,33,FRA,WB,17-060,90,0,0,0,0,1,0,0,0,84,5,1,0,0.0,0.0,0.2,6,0,70,73,95.9,5,60,3,3,3,Paris Saint-Germain,2023-05-07 Troyes-Paris S-G,FRA-L1,22-23,f9e55cdf
+8fd9996f,Danilo Pereira,15,POR,CB,31-240,90,0,0,0,0,2,0,0,0,86,0,4,1,0.1,0.1,0.0,1,0,74,79,93.7,7,74,0,0,0,Paris Saint-Germain,2023-05-07 Troyes-Paris S-G,FRA-L1,22-23,f9e55cdf
+08511d65,Sergio Ramos,4,ESP,CB,37-038,90,0,0,0,0,1,0,0,0,103,0,1,1,0.0,0.0,0.0,0,0,92,97,94.8,8,93,1,0,0,Paris Saint-Germain,2023-05-07 Troyes-Paris S-G,FRA-L1,22-23,f9e55cdf
+d5f2f82b,Marquinhos,5,BRA,CB,28-358,90,0,0,0,0,1,0,0,0,76,0,1,2,0.1,0.1,0.1,3,0,63,69,91.3,9,65,0,0,0,Paris Saint-Germain,2023-05-07 Troyes-Paris S-G,FRA-L1,22-23,f9e55cdf
+08f5afaa,Gianluigi Donnarumma,99,ITA,GK,24-071,90,0,0,0,0,0,0,0,0,13,0,0,0,0.0,0.0,0.0,0,0,8,11,72.7,0,11,0,0,0,Paris Saint-Germain,2023-05-07 Troyes-Paris S-G,FRA-L1,22-23,f9e55cdf

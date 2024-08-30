@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+dea698d9,Cristiano Ronaldo,7,POR,FW,35-340,90,1,0,0,0,6,3,0,0,57,0,0,1,1.1,1.1,0.1,3,0,35,44,79.5,7,32,5,7,4,Juventus,2021-01-10 Juventus-Sassuolo,ITA-SERIA_A,20-21,44801875
+e0921a4f,Paulo Dybala,10,ARG,FW,27-056,42,0,0,0,0,0,0,0,0,23,1,0,0,0.0,0.0,0.1,1,0,17,19,89.5,2,10,2,1,0,Juventus,2021-01-10 Juventus-Sassuolo,ITA-SERIA_A,20-21,44801875
+df3cda47,Dejan Kulusevski,44,SWE,"FW,RM",20-260,48,0,0,0,0,2,0,1,0,25,0,0,0,0.3,0.3,0.6,7,0,16,19,84.2,6,17,5,3,1,Juventus,2021-01-10 Juventus-Sassuolo,ITA-SERIA_A,20-21,44801875
+01c3aff5,Weston McKennie,14,USA,LM,22-135,18,0,0,0,0,0,0,0,0,11,0,1,1,0.0,0.0,0.1,2,0,7,9,77.8,2,5,1,1,1,Juventus,2021-01-10 Juventus-Sassuolo,ITA-SERIA_A,20-21,44801875
+ef619b0b,Aaron Ramsey,8,WAL,LM,30-015,67,1,0,0,0,4,1,0,0,63,1,0,1,0.7,0.7,0.8,7,0,46,53,86.8,8,39,3,2,1,Juventus,2021-01-10 Juventus-Sassuolo,ITA-SERIA_A,20-21,44801875
+129af0db,Álvaro Morata,9,ESP,"FW,LM",28-079,5,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,4,0,1,0,Juventus,2021-01-10 Juventus-Sassuolo,ITA-SERIA_A,20-21,44801875
+3b8674e6,Rodrigo Bentancur,30,URU,CM,23-199,45,0,0,0,0,0,0,1,0,56,0,0,0,0.0,0.0,0.0,2,0,50,53,94.3,3,29,1,0,0,Juventus,2021-01-10 Juventus-Sassuolo,ITA-SERIA_A,20-21,44801875
+8794e251,Adrien Rabiot,25,FRA,CM,25-282,45,0,0,0,0,1,0,0,0,42,1,0,0,0.1,0.1,0.0,2,1,35,37,94.6,6,26,2,1,1,Juventus,2021-01-10 Juventus-Sassuolo,ITA-SERIA_A,20-21,44801875
+48b3dd60,Arthur Melo,5,BRA,CM,24-151,90,0,0,0,0,1,0,0,0,101,1,3,0,0.1,0.1,0.0,4,0,90,94,95.7,10,60,1,1,0,Juventus,2021-01-10 Juventus-Sassuolo,ITA-SERIA_A,20-21,44801875
+b0f7e36c,Federico Chiesa,22,ITA,RM,23-077,85,0,0,0,0,1,0,0,0,47,1,1,0,0.1,0.1,0.1,3,0,30,37,81.1,3,33,5,5,4,Juventus,2021-01-10 Juventus-Sassuolo,ITA-SERIA_A,20-21,44801875
+ee93c1a9,Federico Bernardeschi,33,ITA,LM,26-329,5,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,3,4,75.0,1,3,1,1,0,Juventus,2021-01-10 Juventus-Sassuolo,ITA-SERIA_A,20-21,44801875
+d80b1835,Gianluca Frabotta,38,ITA,LB,21-200,90,0,1,0,0,2,1,1,0,71,0,3,0,0.1,0.1,0.4,1,1,48,59,81.4,1,35,4,2,0,Juventus,2021-01-10 Juventus-Sassuolo,ITA-SERIA_A,20-21,44801875
+e3cceee6,Merih Demiral,28,TUR,CB,22-311,90,0,0,0,0,2,1,0,0,89,2,2,4,0.2,0.2,0.0,3,0,75,77,97.4,6,57,1,1,0,Juventus,2021-01-10 Juventus-Sassuolo,ITA-SERIA_A,20-21,44801875
+52ec54d0,Leonardo Bonucci,19,ITA,CB,33-254,90,0,0,0,0,2,1,1,0,56,2,0,0,0.1,0.1,0.2,3,0,46,49,93.9,3,24,0,0,0,Juventus,2021-01-10 Juventus-Sassuolo,ITA-SERIA_A,20-21,44801875
+94b2001f,Danilo,13,BRA,RB,29-179,90,1,1,0,0,2,1,0,0,81,6,1,0,0.0,0.0,0.2,4,1,60,68,88.2,7,40,0,0,0,Juventus,2021-01-10 Juventus-Sassuolo,ITA-SERIA_A,20-21,44801875
+01b8a2b2,Wojciech Szczęsny,1,POL,GK,30-267,90,0,0,0,0,0,0,0,0,42,0,0,0,0.0,0.0,0.0,1,1,40,42,95.2,0,30,0,0,0,Juventus,2021-01-10 Juventus-Sassuolo,ITA-SERIA_A,20-21,44801875
+5bd72174,Francesco Caputo,9,ITA,FW,33-157,45,0,0,0,0,1,0,0,0,19,0,0,1,0.0,0.0,0.0,2,0,10,13,76.9,1,8,0,1,1,Sassuolo,2021-01-10 Juventus-Sassuolo,ITA-SERIA_A,20-21,44801875
+a96e5dc0,Jeremy Toljan,22,GER,RB,26-155,45,0,0,0,0,0,0,0,0,30,1,0,0,0.0,0.0,0.0,0,0,26,29,89.7,2,17,1,0,0,Sassuolo,2021-01-10 Juventus-Sassuolo,ITA-SERIA_A,20-21,44801875
+570bb4b9,Hamed Junior Traorè,23,CIV,"LM,LW",20-329,90,0,1,0,0,0,0,0,0,55,1,0,1,0.0,0.0,0.2,4,1,42,50,84.0,7,40,4,10,8,Sassuolo,2021-01-10 Juventus-Sassuolo,ITA-SERIA_A,20-21,44801875
+854ee61a,Grégoire Defrel,92,MTQ,"RW,FW",29-207,66,1,0,0,0,1,1,0,0,21,2,0,0,0.1,0.1,0.0,0,0,17,18,94.4,1,14,2,2,1,Sassuolo,2021-01-10 Juventus-Sassuolo,ITA-SERIA_A,20-21,44801875
+fe012aca,Jeremie Boga,7,CIV,FW,24-007,24,0,0,0,0,0,0,0,0,19,0,0,1,0.0,0.0,0.0,0,0,12,13,92.3,0,11,3,4,3,Sassuolo,2021-01-10 Juventus-Sassuolo,ITA-SERIA_A,20-21,44801875
+eccbe56a,Filip Đuričić,10,SRB,AM,28-346,45,0,0,0,0,1,0,0,0,26,1,0,0,0.0,0.0,0.0,0,0,17,20,85.0,1,10,2,2,1,Sassuolo,2021-01-10 Juventus-Sassuolo,ITA-SERIA_A,20-21,44801875
+20094685,Maxime Lopez,8,FRA,CM,23-037,45,0,0,0,0,0,0,0,0,36,0,1,0,0.0,0.0,0.0,0,0,32,34,94.1,1,18,0,1,1,Sassuolo,2021-01-10 Juventus-Sassuolo,ITA-SERIA_A,20-21,44801875
+a8a874f1,Manuel Locatelli,73,ITA,"CM,DM",23-002,90,0,0,0,0,0,0,0,0,91,3,1,1,0.0,0.0,0.3,4,1,74,79,93.7,8,42,1,1,1,Sassuolo,2021-01-10 Juventus-Sassuolo,ITA-SERIA_A,20-21,44801875
+ba1e04b3,Pedro Obiang,14,EQG,DM,28-289,44,0,0,0,0,1,0,0,1,37,0,2,0,0.0,0.0,0.0,0,0,33,34,97.1,1,24,0,1,1,Sassuolo,2021-01-10 Juventus-Sassuolo,ITA-SERIA_A,20-21,44801875
+0a483542,Giorgos Kyriakopoulos,77,GRE,LB,24-340,90,0,0,0,0,2,0,0,0,70,1,1,3,0.1,0.1,0.0,2,0,47,56,83.9,3,36,2,3,2,Sassuolo,2021-01-10 Juventus-Sassuolo,ITA-SERIA_A,20-21,44801875
+8650af85,Gian Marco Ferrari,31,ITA,CB,28-330,90,0,0,0,0,1,0,1,0,75,1,3,1,0.3,0.3,0.0,0,0,60,63,95.2,0,40,0,0,0,Sassuolo,2021-01-10 Juventus-Sassuolo,ITA-SERIA_A,20-21,44801875
+c316607a,Vlad Chiricheș,21,ROU,CB,31-057,85,0,0,0,0,0,0,0,0,50,2,2,5,0.0,0.0,0.0,0,0,34,39,87.2,0,27,0,0,0,Sassuolo,2021-01-10 Juventus-Sassuolo,ITA-SERIA_A,20-21,44801875
+2200181e,Kaan Ayhan,5,TUR,CB,26-061,5,0,0,0,0,0,0,0,0,9,1,1,0,0.0,0.0,0.0,0,0,3,6,50.0,1,4,0,0,0,Sassuolo,2021-01-10 Juventus-Sassuolo,ITA-SERIA_A,20-21,44801875
+1295552e,Mert Müldür,17,TUR,"RB,RM",21-282,72,0,0,0,0,1,0,0,0,49,2,1,0,0.0,0.0,0.0,1,0,28,39,71.8,2,26,1,0,0,Sassuolo,2021-01-10 Juventus-Sassuolo,ITA-SERIA_A,20-21,44801875
+97e8ea97,Brian Oddei,30,ITA,RM,18-114,18,0,0,0,0,2,1,0,0,16,2,0,1,0.1,0.1,0.0,1,0,5,8,62.5,0,6,1,2,1,Sassuolo,2021-01-10 Juventus-Sassuolo,ITA-SERIA_A,20-21,44801875
+8cabdc1e,Andrea Consigli,47,ITA,GK,33-349,90,0,0,0,0,0,0,0,0,39,0,0,0,0.0,0.0,0.0,1,0,24,35,68.6,0,15,0,0,0,Sassuolo,2021-01-10 Juventus-Sassuolo,ITA-SERIA_A,20-21,44801875

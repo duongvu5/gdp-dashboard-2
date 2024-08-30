@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+104b4ad3,Alberth Elis,29,HON,FW,25-267,90,1,0,0,0,2,1,0,0,46,3,0,0,0.4,0.4,0.1,5,0,17,27,63.0,0,26,4,9,5,Bordeaux,2021-11-06 Bordeaux-Paris S-G,FRA-L1,21-22,57be0a1e
+26777636,Yacine Adli,19,FRA,FW,21-100,90,0,1,0,0,3,1,0,0,78,2,3,1,0.1,0.1,0.4,4,1,51,66,77.3,5,51,3,1,0,Bordeaux,2021-11-06 Bordeaux-Paris S-G,FRA-L1,21-22,57be0a1e
+34a0f5ff,Javairô Dilrosun,21,NED,"LM,RM",23-137,78,0,0,0,0,2,0,0,0,34,1,0,0,0.1,0.1,0.0,3,0,17,26,65.4,1,22,5,3,3,Bordeaux,2021-11-06 Bordeaux-Paris S-G,FRA-L1,21-22,57be0a1e
+f83c8d6c,Jimmy Briand,7,FRA,RM,36-096,12,0,1,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.3,1,1,6,6,100.0,1,4,0,0,0,Bordeaux,2021-11-06 Bordeaux-Paris S-G,FRA-L1,21-22,57be0a1e
+243f4a0b,Otávio,5,BRA,CM,27-186,67,0,0,0,0,1,0,0,0,44,2,0,0,0.0,0.0,0.0,3,0,34,39,87.2,2,34,0,0,0,Bordeaux,2021-11-06 Bordeaux-Paris S-G,FRA-L1,21-22,57be0a1e
+ea02beaf,Remi Oudin,28,FRA,CM,24-353,23,0,0,0,0,2,1,0,0,18,0,1,0,0.2,0.2,0.0,3,0,10,13,76.9,1,10,0,1,0,Bordeaux,2021-11-06 Bordeaux-Paris S-G,FRA-L1,21-22,57be0a1e
+b5bb8188,Jean Onana,8,CMR,CM,21-302,85,0,0,0,0,1,0,0,0,73,2,3,2,0.0,0.0,0.0,3,0,55,63,87.3,2,47,1,1,1,Bordeaux,2021-11-06 Bordeaux-Paris S-G,FRA-L1,21-22,57be0a1e
+deba6b05,Fransérgio,13,BRA,CM,31-019,5,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,1,3,33.3,0,2,0,0,0,Bordeaux,2021-11-06 Bordeaux-Paris S-G,FRA-L1,21-22,57be0a1e
+f8ce97ca,Timothee Pembele,22,FRA,RM,19-058,45,0,0,0,0,3,1,1,0,26,1,1,0,0.1,0.1,0.1,1,0,10,16,62.5,0,15,2,0,0,Bordeaux,2021-11-06 Bordeaux-Paris S-G,FRA-L1,21-22,57be0a1e
+9bdd8118,Gideon Mensah,14,GHA,LM,23-111,45,0,0,0,0,0,0,0,0,31,3,0,2,0.0,0.0,0.1,3,0,24,27,88.9,1,20,1,0,0,Bordeaux,2021-11-06 Bordeaux-Paris S-G,FRA-L1,21-22,57be0a1e
+eef2d8ce,Ricardo Mangas,12,POR,LB,23-232,67,0,0,0,0,1,0,0,0,31,0,1,1,0.0,0.0,0.0,1,0,19,22,86.4,2,21,2,1,1,Bordeaux,2021-11-06 Bordeaux-Paris S-G,FRA-L1,21-22,57be0a1e
+2054d037,M'Baye Niang,23,SEN,LB,26-322,23,1,0,0,0,3,2,1,0,14,0,0,0,0.4,0.4,0.0,1,1,6,7,85.7,1,8,0,0,0,Bordeaux,2021-11-06 Bordeaux-Paris S-G,FRA-L1,21-22,57be0a1e
+f5efb153,Laurent Koscielny,6,FRA,CB,36-057,90,0,0,0,0,0,0,0,0,43,1,2,1,0.0,0.0,0.0,1,0,31,35,88.6,3,22,0,0,0,Bordeaux,2021-11-06 Bordeaux-Paris S-G,FRA-L1,21-22,57be0a1e
+5f011e05,Stian Rode Gregersen,2,NOR,CB,26-173,90,0,0,0,0,0,0,0,0,42,2,0,1,0.0,0.0,0.0,0,0,31,37,83.8,1,28,0,0,0,Bordeaux,2021-11-06 Bordeaux-Paris S-G,FRA-L1,21-22,57be0a1e
+4bf69118,Enock Kwateng,25,FRA,RB,24-211,90,0,0,0,0,0,0,0,0,58,3,1,2,0.0,0.0,0.0,1,0,47,52,90.4,8,37,4,0,0,Bordeaux,2021-11-06 Bordeaux-Paris S-G,FRA-L1,21-22,57be0a1e
+2434f24a,Benoît Costil,1,FRA,GK,34-126,90,0,0,0,0,0,0,0,0,32,0,0,0,0.0,0.0,0.0,0,0,25,30,83.3,0,15,0,0,0,Bordeaux,2021-11-06 Bordeaux-Paris S-G,FRA-L1,21-22,57be0a1e
+42fd9c7f,Kylian Mbappé,7,FRA,FW,22-321,85,1,2,0,0,5,2,1,0,43,0,0,0,1.0,1.0,0.3,3,2,25,34,73.5,1,34,3,3,2,Paris Saint-Germain,2021-11-06 Bordeaux-Paris S-G,FRA-L1,21-22,57be0a1e
+43b78598,Mauro Icardi,9,ARG,RW,28-260,5,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,0,0,0,0,Paris Saint-Germain,2021-11-06 Bordeaux-Paris S-G,FRA-L1,21-22,57be0a1e
+69384e5d,Neymar,10,BRA,LW,29-274,90,2,0,0,0,3,3,0,0,85,1,0,1,0.3,0.3,0.4,7,1,43,71,60.6,8,70,7,6,4,Paris Saint-Germain,2021-11-06 Bordeaux-Paris S-G,FRA-L1,21-22,57be0a1e
+1a992676,Julian Draxler,23,GER,RW,28-047,74,0,0,0,0,0,0,0,0,33,0,0,0,0.0,0.0,0.0,0,0,25,31,80.6,3,26,1,2,2,Paris Saint-Germain,2021-11-06 Bordeaux-Paris S-G,FRA-L1,21-22,57be0a1e
+72c812f3,Idrissa Gana Gueye,27,SEN,RW,32-041,16,0,0,0,0,0,0,0,0,10,0,0,1,0.0,0.0,0.0,0,0,5,8,62.5,3,7,1,1,1,Paris Saint-Germain,2021-11-06 Bordeaux-Paris S-G,FRA-L1,21-22,57be0a1e
+eb58eef0,Georginio Wijnaldum,18,NED,LM,30-360,90,0,1,0,0,1,0,0,0,50,0,0,0,0.1,0.1,0.7,2,2,41,46,89.1,4,40,4,3,1,Paris Saint-Germain,2021-11-06 Bordeaux-Paris S-G,FRA-L1,21-22,57be0a1e
+436a9dd0,Ander Herrera,21,ESP,CM,32-084,90,0,0,0,0,0,0,0,0,102,1,1,2,0.0,0.0,0.0,3,1,81,94,86.2,13,69,0,0,0,Paris Saint-Germain,2021-11-06 Bordeaux-Paris S-G,FRA-L1,21-22,57be0a1e
+95bb6ddc,Junior Dina Ebimbe,28,FRA,RM,20-350,74,0,0,0,0,0,0,0,0,47,1,1,2,0.0,0.0,0.1,1,0,38,41,92.7,4,35,2,1,1,Paris Saint-Germain,2021-11-06 Bordeaux-Paris S-G,FRA-L1,21-22,57be0a1e
+8fd9996f,Danilo Pereira,15,POR,RM,30-058,16,0,0,0,0,0,0,0,0,15,0,0,0,0.0,0.0,0.0,0,0,8,12,66.7,1,7,0,0,0,Paris Saint-Germain,2021-11-06 Bordeaux-Paris S-G,FRA-L1,21-22,57be0a1e
+433dc9a2,Juan Bernat,14,ESP,LB,28-250,63,0,0,0,0,0,0,0,0,43,3,1,1,0.0,0.0,0.0,0,0,28,32,87.5,2,21,2,0,0,Paris Saint-Germain,2021-11-06 Bordeaux-Paris S-G,FRA-L1,21-22,57be0a1e
+f20e4cc9,Nuno Mendes,25,POR,LB,19-140,27,0,0,0,0,0,0,0,0,17,2,0,0,0.0,0.0,0.0,0,0,8,11,72.7,0,10,0,1,0,Paris Saint-Germain,2021-11-06 Bordeaux-Paris S-G,FRA-L1,21-22,57be0a1e
+51dbeea9,Thilo Kehrer,24,GER,CB,25-046,90,0,0,0,0,0,0,0,0,76,2,1,2,0.0,0.0,0.0,1,0,54,58,93.1,3,44,0,1,0,Paris Saint-Germain,2021-11-06 Bordeaux-Paris S-G,FRA-L1,21-22,57be0a1e
+d5f2f82b,Marquinhos,5,BRA,CB,27-176,90,0,0,0,0,0,0,0,0,81,1,0,2,0.0,0.0,0.1,1,0,64,70,91.4,1,51,0,0,0,Paris Saint-Germain,2021-11-06 Bordeaux-Paris S-G,FRA-L1,21-22,57be0a1e
+e42d61c7,Achraf Hakimi,2,MAR,RB,23-002,90,0,0,0,0,0,0,0,0,69,1,1,1,0.0,0.0,0.0,0,0,52,60,86.7,4,44,0,2,0,Paris Saint-Germain,2021-11-06 Bordeaux-Paris S-G,FRA-L1,21-22,57be0a1e
+ecada4fc,Keylor Navas,1,CRC,GK,34-326,90,0,0,0,0,0,0,0,0,40,0,0,0,0.0,0.0,0.0,0,0,31,36,86.1,0,25,0,0,0,Paris Saint-Germain,2021-11-06 Bordeaux-Paris S-G,FRA-L1,21-22,57be0a1e

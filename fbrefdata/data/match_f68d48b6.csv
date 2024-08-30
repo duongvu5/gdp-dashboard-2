@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+f7036e1c,Lautaro Martínez,10,ARG,FW,23-161,73,1,1,0,0,3,1,0,0,32,4,2,2,0.2,0.2,0.3,5,1,11,13,84.6,4,15,3,2,2,Internazionale,2021-01-30 Inter-Benevento,ITA-SERIA_A,20-21,f68d48b6
+2c0f8e9e,Alexis Sánchez,7,CHI,FW,32-042,17,0,1,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.4,2,1,7,8,87.5,2,5,1,0,0,Internazionale,2021-01-30 Inter-Benevento,ITA-SERIA_A,20-21,f68d48b6
+5eae500a,Romelu Lukaku,9,BEL,FW,27-262,80,2,0,0,0,2,2,0,0,21,0,0,1,0.6,0.6,0.0,0,0,9,12,75.0,1,9,0,3,2,Internazionale,2021-01-30 Inter-Benevento,ITA-SERIA_A,20-21,f68d48b6
+08aa9cd1,Andrea Pinamonti,99,ITA,FW,21-256,10,0,0,0,0,1,1,0,0,4,0,0,0,0.1,0.1,0.0,0,0,2,3,66.7,0,1,0,0,0,Internazionale,2021-01-30 Inter-Benevento,ITA-SERIA_A,20-21,f68d48b6
+ce30bfc8,Roberto Gagliardini,5,ITA,CM,26-298,79,0,0,0,0,0,0,0,0,49,1,1,0,0.0,0.0,0.0,1,1,41,46,89.1,2,26,1,0,0,Internazionale,2021-01-30 Inter-Benevento,ITA-SERIA_A,20-21,f68d48b6
+b70bde8f,Stefano Sensi,12,ITA,CM,25-178,11,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,0,0,8,10,80.0,4,6,0,0,0,Internazionale,2021-01-30 Inter-Benevento,ITA-SERIA_A,20-21,f68d48b6
+980522ec,Christian Eriksen,24,DEN,CM,28-351,90,0,0,0,0,2,1,0,0,127,0,2,0,0.1,0.1,0.4,3,0,101,122,82.8,13,70,4,1,1,Internazionale,2021-01-30 Inter-Benevento,ITA-SERIA_A,20-21,f68d48b6
+6928979a,Nicolò Barella,23,ITA,CM,23-358,63,0,0,0,0,1,0,0,0,49,1,0,1,0.0,0.0,0.1,2,0,35,44,79.5,3,28,1,2,2,Internazionale,2021-01-30 Inter-Benevento,ITA-SERIA_A,20-21,f68d48b6
+67cdbc0e,Arturo Vidal,22,CHI,CM,33-253,27,0,0,0,0,0,0,0,0,19,1,1,0,0.0,0.0,0.0,1,0,16,17,94.1,2,7,0,0,0,Internazionale,2021-01-30 Inter-Benevento,ITA-SERIA_A,20-21,f68d48b6
+6fe90922,Ivan Perišić,14,CRO,WB,31-363,90,0,0,0,0,1,1,0,0,63,5,0,2,0.0,0.0,0.0,2,0,37,49,75.5,1,29,4,2,1,Internazionale,2021-01-30 Inter-Benevento,ITA-SERIA_A,20-21,f68d48b6
+e42d61c7,Achraf Hakimi,2,MAR,WB,22-087,90,0,0,0,0,2,0,0,0,78,3,2,1,0.4,0.4,0.0,4,2,57,67,85.1,6,43,2,1,0,Internazionale,2021-01-30 Inter-Benevento,ITA-SERIA_A,20-21,f68d48b6
+75b86fb3,Alessandro Bastoni,95,ITA,CB,21-292,90,0,0,0,0,0,0,0,0,101,0,1,0,0.0,0.0,0.1,1,0,90,99,90.9,7,71,5,0,0,Internazionale,2021-01-30 Inter-Benevento,ITA-SERIA_A,20-21,f68d48b6
+539230cf,Andrea Ranocchia,13,ITA,CB,32-349,90,0,0,0,0,0,0,0,0,69,1,1,0,0.0,0.0,0.0,0,0,62,65,95.4,2,37,1,0,0,Internazionale,2021-01-30 Inter-Benevento,ITA-SERIA_A,20-21,f68d48b6
+30f5ffa9,Milan Škriniar,37,SVK,CB,25-354,73,0,0,0,0,0,0,0,0,76,2,2,1,0.0,0.0,0.0,1,0,63,68,92.6,5,33,1,1,0,Internazionale,2021-01-30 Inter-Benevento,ITA-SERIA_A,20-21,f68d48b6
+d0d8dd44,Stefan de Vrij,6,NED,CB,28-360,17,0,0,0,0,0,0,0,0,25,0,1,0,0.0,0.0,0.0,0,0,22,24,91.7,1,14,0,0,0,Internazionale,2021-01-30 Inter-Benevento,ITA-SERIA_A,20-21,f68d48b6
+74419746,Samir Handanović,1,SVN,GK,36-200,90,0,0,0,0,0,0,0,0,26,0,0,0,0.0,0.0,0.0,0,0,25,26,96.2,0,15,0,0,0,Internazionale,2021-01-30 Inter-Benevento,ITA-SERIA_A,20-21,f68d48b6
+54e53b7e,Gianluca Caprari,17,ITA,FW,27-184,75,0,0,0,0,0,0,0,0,36,1,0,0,0.0,0.0,0.0,0,0,25,31,80.6,3,16,1,2,1,Benevento,2021-01-30 Inter-Benevento,ITA-SERIA_A,20-21,f68d48b6
+8faf7b3c,Roberto Insigne,19,ITA,FW,26-264,15,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,3,3,100.0,0,2,0,0,0,Benevento,2021-01-30 Inter-Benevento,ITA-SERIA_A,20-21,f68d48b6
+2ead2809,Gianluca Lapadula,9,PER,FW,30-358,90,0,0,0,0,0,0,0,0,17,0,0,0,0.0,0.0,0.0,0,0,8,11,72.7,0,6,0,0,0,Benevento,2021-01-30 Inter-Benevento,ITA-SERIA_A,20-21,f68d48b6
+90b70194,Përparim Hetemaj,56,FIN,CM,34-049,90,0,0,0,0,0,0,0,0,41,2,1,2,0.0,0.0,0.0,0,0,29,32,90.6,2,29,2,3,1,Benevento,2021-01-30 Inter-Benevento,ITA-SERIA_A,20-21,f68d48b6
+45392b06,Nicolas Viola,10,ITA,CM,31-110,59,0,0,0,0,0,0,0,0,26,1,1,0,0.0,0.0,0.0,0,0,14,23,60.9,1,13,0,0,0,Benevento,2021-01-30 Inter-Benevento,ITA-SERIA_A,20-21,f68d48b6
+bd84fc61,Pasquale Schiattarella,28,ITA,CM,33-245,31,0,0,0,0,0,0,0,0,28,0,0,0,0.0,0.0,0.0,0,0,23,28,82.1,0,18,0,1,1,Benevento,2021-01-30 Inter-Benevento,ITA-SERIA_A,20-21,f68d48b6
+cedb3e36,Artur Ioniță,29,MDA,CM,30-166,69,0,0,0,0,0,0,0,0,20,0,1,2,0.0,0.0,0.0,0,0,12,14,85.7,0,6,1,0,0,Benevento,2021-01-30 Inter-Benevento,ITA-SERIA_A,20-21,f68d48b6
+5f951ef1,Andrés Tello,8,COL,CM,24-146,21,0,0,0,0,0,0,0,0,13,0,0,0,0.0,0.0,0.0,0,0,9,11,81.8,1,2,0,0,0,Benevento,2021-01-30 Inter-Benevento,ITA-SERIA_A,20-21,f68d48b6
+f6dfa5b8,Riccardo Improta,16,ITA,LB,27-042,69,0,0,0,0,0,0,0,0,23,1,1,1,0.0,0.0,0.0,0,0,12,16,75.0,0,7,0,0,0,Benevento,2021-01-30 Inter-Benevento,ITA-SERIA_A,20-21,f68d48b6
+658d44be,Daam Foulon,18,BEL,LB,21-313,21,0,0,0,0,0,0,0,0,5,0,1,0,0.0,0.0,0.0,0,0,3,5,60.0,0,3,0,0,0,Benevento,2021-01-30 Inter-Benevento,ITA-SERIA_A,20-21,f68d48b6
+226008f1,Luca Caldirola,5,ITA,CB,29-364,59,0,0,0,0,0,0,1,0,35,0,0,0,0.0,0.0,0.0,0,0,24,32,75.0,0,23,2,0,0,Benevento,2021-01-30 Inter-Benevento,ITA-SERIA_A,20-21,f68d48b6
+38bf62b5,Christian Pastina,58,ITA,CB,19-350,31,0,0,0,0,0,0,0,0,24,0,0,1,0.0,0.0,0.0,0,0,16,20,80.0,0,12,0,0,0,Benevento,2021-01-30 Inter-Benevento,ITA-SERIA_A,20-21,f68d48b6
+c010b898,Federico Barba,93,ITA,CB,27-151,90,0,0,0,0,0,0,0,0,80,0,2,0,0.0,0.0,0.0,0,0,66,72,91.7,3,39,0,0,0,Benevento,2021-01-30 Inter-Benevento,ITA-SERIA_A,20-21,f68d48b6
+c6056d58,Kamil Glik,15,POL,CB,32-362,90,0,0,0,0,0,0,0,0,60,2,3,1,0.0,0.0,0.0,0,0,44,50,88.0,0,25,1,0,0,Benevento,2021-01-30 Inter-Benevento,ITA-SERIA_A,20-21,f68d48b6
+d97f2e8d,Fabio Depaoli,27,ITA,RB,23-281,90,0,0,0,0,0,0,1,0,62,2,1,1,0.0,0.0,0.0,0,0,34,45,75.6,1,31,0,2,0,Benevento,2021-01-30 Inter-Benevento,ITA-SERIA_A,20-21,f68d48b6
+c1d95617,Lorenzo Montipò,1,ITA,GK,24-345,90,0,0,0,0,0,0,0,0,34,0,0,0,0.0,0.0,0.0,0,0,24,33,72.7,0,17,0,0,0,Benevento,2021-01-30 Inter-Benevento,ITA-SERIA_A,20-21,f68d48b6

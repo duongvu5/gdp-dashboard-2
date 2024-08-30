@@ -1,0 +1,29 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+8d8178ac,Rodrigo Palacio,24,ARG,FW,39-086,90,3,0,0,0,3,3,0,0,43,0,0,0,1.1,1.1,0.1,1,0,25,34,73.5,3,29,2,0,0,Bologna,2021-05-02 Bologna-Fiorentina,ITA-SERIA_A,20-21,8ecfe8f3
+e5bf73f3,Musa Barrow,99,GAM,AM,22-169,90,0,0,0,0,3,1,0,0,46,1,1,0,0.5,0.5,0.0,2,0,30,38,78.9,4,37,1,2,1,Bologna,2021-05-02 Bologna-Fiorentina,ITA-SERIA_A,20-21,8ecfe8f3
+ec5dae45,Emanuel Vignato,55,ITA,AM,20-251,89,0,3,0,0,0,0,0,0,59,2,0,0,0.0,0.0,1.5,4,3,46,55,83.6,10,48,1,2,1,Bologna,2021-05-02 Bologna-Fiorentina,ITA-SERIA_A,20-21,8ecfe8f3
+7737dee2,Musa Juwara,80,GAM,AM,19-127,1,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,1,0,0,0,Bologna,2021-05-02 Bologna-Fiorentina,ITA-SERIA_A,20-21,8ecfe8f3
+9d4c45d6,Roberto Soriano,21,ITA,CM,30-083,90,0,0,0,0,1,1,0,0,66,5,1,1,0.0,0.0,0.0,2,1,51,56,91.1,12,49,3,1,1,Bologna,2021-05-02 Bologna-Fiorentina,ITA-SERIA_A,20-21,8ecfe8f3
+92d83c27,Mattias Svanberg,32,SWE,CM,22-117,90,0,0,0,0,0,0,1,0,46,3,1,1,0.0,0.0,0.1,4,2,28,34,82.4,8,32,2,1,1,Bologna,2021-05-02 Bologna-Fiorentina,ITA-SERIA_A,20-21,8ecfe8f3
+e74f0e59,Lorenzo De Silvestri,29,ITA,WB,32-344,90,0,0,0,0,1,0,0,0,56,0,1,2,0.1,0.1,0.0,1,0,36,48,75.0,5,36,1,0,0,Bologna,2021-05-02 Bologna-Fiorentina,ITA-SERIA_A,20-21,8ecfe8f3
+e14ec482,Riccardo Orsolini,7,ITA,WB,24-098,90,0,0,0,0,3,1,0,0,49,5,0,4,0.5,0.5,0.1,4,0,20,31,64.5,1,25,1,3,2,Bologna,2021-05-02 Bologna-Fiorentina,ITA-SERIA_A,20-21,8ecfe8f3
+7b075c75,Adama Soumaoro,5,FRA,CB,28-318,90,0,0,0,0,0,0,1,0,80,2,0,0,0.0,0.0,0.0,1,0,72,74,97.3,6,55,1,0,0,Bologna,2021-05-02 Bologna-Fiorentina,ITA-SERIA_A,20-21,8ecfe8f3
+fed5f993,Danilo Larangeira,23,BRA,CB,36-357,90,0,0,0,0,0,0,0,0,81,3,1,1,0.0,0.0,0.3,1,0,66,73,90.4,3,62,2,0,0,Bologna,2021-05-02 Bologna-Fiorentina,ITA-SERIA_A,20-21,8ecfe8f3
+b3af9be1,Takehiro Tomiyasu,14,JPN,CB,22-178,75,0,0,0,0,1,0,0,0,65,1,1,2,0.0,0.0,0.0,2,0,50,57,87.7,10,43,1,0,0,Bologna,2021-05-02 Bologna-Fiorentina,ITA-SERIA_A,20-21,8ecfe8f3
+c50cee19,Andreas Skov Olsen,11,DEN,CB,21-124,15,0,0,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.0,1,0,9,10,90.0,0,10,1,0,0,Bologna,2021-05-02 Bologna-Fiorentina,ITA-SERIA_A,20-21,8ecfe8f3
+ab4449d6,Łukasz Skorupski,28,POL,GK,29-362,90,0,0,0,0,0,0,0,0,19,0,0,0,0.0,0.0,0.0,0,0,14,17,82.4,0,10,0,0,0,Bologna,2021-05-02 Bologna-Fiorentina,ITA-SERIA_A,20-21,8ecfe8f3
+f61c7c4e,Franck Ribéry,7,FRA,FW,38-025,76,0,0,0,0,0,0,0,0,25,0,0,1,0.0,0.0,0.0,0,0,16,19,84.2,2,19,0,2,1,Fiorentina,2021-05-02 Bologna-Fiorentina,ITA-SERIA_A,20-21,8ecfe8f3
+58e933d2,Christian Kouamé,11,CIV,FW,23-147,14,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.1,1,0,5,9,55.6,1,4,0,0,0,Fiorentina,2021-05-02 Bologna-Fiorentina,ITA-SERIA_A,20-21,8ecfe8f3
+79443529,Dušan Vlahović,9,SRB,FW,21-094,90,2,0,1,1,4,1,0,0,31,0,0,1,1.5,0.7,0.0,1,0,9,18,50.0,1,24,0,1,0,Fiorentina,2021-05-02 Bologna-Fiorentina,ITA-SERIA_A,20-21,8ecfe8f3
+5a2cb25d,Sofyan Amrabat,34,MAR,CM,24-254,90,0,0,0,0,0,0,0,0,29,1,0,0,0.0,0.0,0.0,1,1,19,26,73.1,5,25,4,3,2,Fiorentina,2021-05-02 Bologna-Fiorentina,ITA-SERIA_A,20-21,8ecfe8f3
+4611e028,Erick Pulgar,78,CHI,CM,27-107,90,0,1,0,0,1,0,0,0,51,3,3,2,0.0,0.0,0.6,4,2,32,40,80.0,4,25,1,1,1,Fiorentina,2021-05-02 Bologna-Fiorentina,ITA-SERIA_A,20-21,8ecfe8f3
+d995ed27,Giacomo Bonaventura,5,ITA,CM,31-253,82,1,0,0,0,2,1,0,0,39,0,0,2,0.4,0.4,0.0,4,1,25,29,86.2,3,30,4,2,2,Fiorentina,2021-05-02 Bologna-Fiorentina,ITA-SERIA_A,20-21,8ecfe8f3
+0728bebe,Gaetano Castrovilli,10,ITA,CM,24-074,8,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,1,0,3,3,100.0,2,2,1,0,0,Fiorentina,2021-05-02 Bologna-Fiorentina,ITA-SERIA_A,20-21,8ecfe8f3
+9e1577aa,Cristiano Biraghi,3,ITA,WB,28-243,67,0,0,0,0,0,0,0,0,48,2,0,0,0.0,0.0,0.1,1,0,26,42,61.9,3,33,5,1,0,Fiorentina,2021-05-02 Bologna-Fiorentina,ITA-SERIA_A,20-21,8ecfe8f3
+a4e85758,Igor,98,BRA,WB,23-084,23,0,0,0,0,0,0,1,0,12,1,0,0,0.0,0.0,0.0,0,0,5,10,50.0,0,3,0,0,0,Fiorentina,2021-05-02 Bologna-Fiorentina,ITA-SERIA_A,20-21,8ecfe8f3
+983ff2c7,Lorenzo Venuti,23,ITA,WB,26-020,90,0,1,0,0,0,0,0,0,30,2,1,1,0.0,0.0,0.4,2,1,15,22,68.2,2,15,1,0,0,Fiorentina,2021-05-02 Bologna-Fiorentina,ITA-SERIA_A,20-21,8ecfe8f3
+e94d79e3,Martín Cáceres,22,URU,CB,34-025,90,0,0,0,0,0,0,0,0,41,2,0,1,0.0,0.0,0.0,0,0,27,31,87.1,3,17,0,0,0,Fiorentina,2021-05-02 Bologna-Fiorentina,ITA-SERIA_A,20-21,8ecfe8f3
+8c725b43,Germán Pezzella,20,ARG,CB,29-309,90,0,0,0,0,1,0,0,0,28,0,1,1,0.1,0.1,0.0,0,0,16,22,72.7,2,14,0,0,0,Fiorentina,2021-05-02 Bologna-Fiorentina,ITA-SERIA_A,20-21,8ecfe8f3
+bee704fc,Nikola Milenković,4,SRB,CB,23-202,90,0,0,0,0,0,0,1,0,33,1,2,1,0.0,0.0,0.0,0,0,20,26,76.9,0,13,0,0,0,Fiorentina,2021-05-02 Bologna-Fiorentina,ITA-SERIA_A,20-21,8ecfe8f3
+085e71a7,Bartłomiej Drągowski,69,POL,GK,23-256,90,0,0,0,0,0,0,0,0,31,0,0,0,0.0,0.0,0.0,0,0,15,27,55.6,0,16,0,0,0,Fiorentina,2021-05-02 Bologna-Fiorentina,ITA-SERIA_A,20-21,8ecfe8f3

@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+d33c706e,Andy Delort,11,ALG,FW,27-012,78,1,0,1,1,1,0,0,0,41,3,0,1,0.9,0.1,0.3,4,0,22,31,71.0,3,10,1,0,0,Montpellier,2018-10-21 Montpellier-Bordeaux,FRA-L1,18-19,dbc08fd9
+d9a66c60,Petar Škuletić,32,SRB,FW,28-114,12,0,0,0,0,2,1,0,0,7,0,0,0,0.0,0.0,0.0,1,0,2,4,50.0,0,7,0,0,0,Montpellier,2018-10-21 Montpellier-Bordeaux,FRA-L1,18-19,dbc08fd9
+7cdda3bf,Gaëtan Laborde,10,FRA,"FW,RM",24-171,88,1,0,0,0,3,2,0,0,43,1,2,1,0.6,0.6,0.0,3,0,13,25,52.0,4,23,5,3,2,Montpellier,2018-10-21 Montpellier-Bordeaux,FRA-L1,18-19,dbc08fd9
+aeed036d,Yanis Ammour,18,FRA,RM,19-153,2,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Montpellier,2018-10-21 Montpellier-Bordeaux,FRA-L1,18-19,dbc08fd9
+8f4d116f,Damien Le Tallec,14,FRA,CM,28-185,90,0,0,0,0,1,0,0,0,51,5,1,3,0.1,0.1,0.0,3,1,35,40,87.5,3,17,0,1,0,Montpellier,2018-10-21 Montpellier-Bordeaux,FRA-L1,18-19,dbc08fd9
+24eb7ed6,Junior Sambia,6,FRA,"CM,LM",22-044,90,0,0,0,0,0,0,0,0,43,0,0,2,0.0,0.0,0.1,3,0,21,30,70.0,1,29,4,5,4,Montpellier,2018-10-21 Montpellier-Bordeaux,FRA-L1,18-19,dbc08fd9
+c2211709,Ellyes Skhiri,13,TUN,CM,23-164,73,0,0,0,0,2,0,1,0,43,1,1,2,0.1,0.1,0.0,0,0,29,35,82.9,3,15,1,0,0,Montpellier,2018-10-21 Montpellier-Bordeaux,FRA-L1,18-19,dbc08fd9
+fca455cc,Facundo Píriz,23,URU,CM,28-208,17,0,0,0,0,0,0,0,0,12,0,0,0,0.0,0.0,0.0,0,0,9,11,81.8,0,3,0,0,0,Montpellier,2018-10-21 Montpellier-Bordeaux,FRA-L1,18-19,dbc08fd9
+542cc80f,Paul Lasne,7,FRA,"WB,LB",29-278,90,0,0,0,0,1,0,0,0,57,1,0,1,0.1,0.1,0.0,2,1,34,48,70.8,2,30,3,3,1,Montpellier,2018-10-21 Montpellier-Bordeaux,FRA-L1,18-19,dbc08fd9
+3dd738a1,Ruben Aguilar,2,FRA,"WB,RB",25-178,90,0,0,0,0,0,0,0,0,67,5,1,0,0.0,0.0,0.0,3,0,39,58,67.2,2,20,3,0,0,Montpellier,2018-10-21 Montpellier-Bordeaux,FRA-L1,18-19,dbc08fd9
+3f5b4635,Daniel Congré,3,FRA,CB,33-199,90,0,0,0,0,1,0,0,0,51,1,5,0,0.2,0.2,0.0,0,0,34,42,81.0,1,12,1,0,0,Montpellier,2018-10-21 Montpellier-Bordeaux,FRA-L1,18-19,dbc08fd9
+c4bbea9f,Vitorino Hilton,4,BRA,CB,41-038,90,0,0,0,0,1,0,0,0,39,0,1,0,0.0,0.0,0.0,0,0,27,34,79.4,2,22,0,0,0,Montpellier,2018-10-21 Montpellier-Bordeaux,FRA-L1,18-19,dbc08fd9
+6690ef25,Pedro Mendes,5,POR,CB,28-020,90,0,0,0,0,0,0,1,0,37,1,1,0,0.0,0.0,0.0,1,1,27,34,79.4,2,13,0,0,0,Montpellier,2018-10-21 Montpellier-Bordeaux,FRA-L1,18-19,dbc08fd9
+2fa2a875,Benjamin Lecomte,40,FRA,GK,27-178,90,0,0,0,0,0,0,0,0,44,0,1,0,0.0,0.0,0.0,1,0,26,43,60.5,0,27,0,0,0,Montpellier,2018-10-21 Montpellier-Bordeaux,FRA-L1,18-19,dbc08fd9
+f83c8d6c,Jimmy Briand,7,FRA,FW,33-080,61,0,0,0,0,1,0,0,0,18,0,0,1,0.4,0.4,0.0,0,0,9,13,69.2,0,11,0,0,0,Bordeaux,2018-10-21 Montpellier-Bordeaux,FRA-L1,18-19,dbc08fd9
+b8d22478,Samuel Kalu,10,NGA,FW,21-056,29,0,0,0,0,0,0,0,0,16,0,0,0,0.0,0.0,0.0,3,0,11,14,78.6,1,13,2,5,4,Bordeaux,2018-10-21 Montpellier-Bordeaux,FRA-L1,18-19,dbc08fd9
+81d3318f,François Kamano,11,GUI,LW,22-172,90,0,0,0,0,3,2,0,0,39,0,1,0,0.1,0.1,0.4,4,0,26,31,83.9,6,37,2,1,0,Bordeaux,2018-10-21 Montpellier-Bordeaux,FRA-L1,18-19,dbc08fd9
+8b66d9cc,Yann Karamoh,8,FRA,RW,20-105,90,0,0,0,0,1,0,1,0,45,0,0,1,0.1,0.1,0.2,4,0,30,36,83.3,4,34,5,4,3,Bordeaux,2018-10-21 Montpellier-Bordeaux,FRA-L1,18-19,dbc08fd9
+c650629d,Younousse Sankharé,13,SEN,LM,29-041,90,0,0,0,0,2,0,0,0,76,2,0,1,0.1,0.1,0.1,4,0,58,67,86.6,9,56,3,3,2,Bordeaux,2018-10-21 Montpellier-Bordeaux,FRA-L1,18-19,dbc08fd9
+243f4a0b,Otávio,5,BRA,CM,24-170,90,0,0,0,0,1,0,0,0,95,3,0,3,0.0,0.0,0.1,1,0,83,88,94.3,8,59,0,0,0,Bordeaux,2018-10-21 Montpellier-Bordeaux,FRA-L1,18-19,dbc08fd9
+1b82f8df,Lukas Lerager,19,DEN,RM,25-101,61,0,0,0,0,1,0,1,0,33,1,1,0,0.1,0.1,0.0,1,0,20,27,74.1,2,20,1,0,0,Bordeaux,2018-10-21 Montpellier-Bordeaux,FRA-L1,18-19,dbc08fd9
+516dc25b,Jaroslav Plašil,18,CZE,RM,36-289,29,0,0,0,0,0,0,0,0,24,1,1,1,0.0,0.0,0.0,1,0,17,20,85.0,1,17,0,0,0,Bordeaux,2018-10-21 Montpellier-Bordeaux,FRA-L1,18-19,dbc08fd9
+fbbb9269,Youssouf Sabaly,20,SEN,LB,25-230,73,0,0,0,0,0,0,1,0,79,2,0,0,0.0,0.0,0.1,2,0,56,70,80.0,4,48,3,0,0,Bordeaux,2018-10-21 Montpellier-Bordeaux,FRA-L1,18-19,dbc08fd9
+80556f08,Toma Bašić,26,CRO,LB,21-330,17,0,0,0,0,0,0,0,0,21,1,0,1,0.0,0.0,0.1,3,0,15,19,78.9,1,10,0,1,1,Bordeaux,2018-10-21 Montpellier-Bordeaux,FRA-L1,18-19,dbc08fd9
+29d8ad3f,Pablo,25,BRA,CB,27-122,90,0,0,0,0,2,1,0,0,87,0,1,0,0.1,0.1,0.0,0,0,63,69,91.3,3,55,1,3,2,Bordeaux,2018-10-21 Montpellier-Bordeaux,FRA-L1,18-19,dbc08fd9
+4d1666ff,Jules Koundé,4,FRA,CB,19-343,90,0,0,0,0,0,0,0,0,79,1,1,1,0.0,0.0,0.0,0,0,54,69,78.3,0,54,0,0,0,Bordeaux,2018-10-21 Montpellier-Bordeaux,FRA-L1,18-19,dbc08fd9
+19f8e480,Sergi Palencia,3,ESP,RB,22-212,90,0,0,0,0,1,0,0,0,67,1,0,1,0.1,0.1,0.0,1,0,41,62,66.1,3,35,1,1,0,Bordeaux,2018-10-21 Montpellier-Bordeaux,FRA-L1,18-19,dbc08fd9
+2434f24a,Benoît Costil,1,FRA,GK,31-110,90,0,0,0,0,0,0,0,0,24,0,0,0,0.0,0.0,0.0,0,0,18,22,81.8,0,9,0,0,0,Bordeaux,2018-10-21 Montpellier-Bordeaux,FRA-L1,18-19,dbc08fd9

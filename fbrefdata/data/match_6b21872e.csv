@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+de17db90,Gift Orban,9,NGA,FW,21-257,71,0,0,0,0,1,0,0,0,30,1,1,1,0.1,0.1,0.0,1,0,12,16,75.0,1,22,3,4,2,Lyon,2024-03-30 Lyon-Reims,FRA-L1,23-24,6b21872e
+fb14aa28,Mama Samba Baldé,7,GNB,FW,28-145,19,0,0,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.0,1,0,4,5,80.0,1,7,0,0,0,Lyon,2024-03-30 Lyon-Reims,FRA-L1,23-24,6b21872e
+9dbb75ca,Alexandre Lacazette,10,FRA,FW,32-307,61,0,0,0,0,2,0,0,0,37,2,0,0,0.1,0.1,0.0,1,0,15,22,68.2,3,28,1,3,1,Lyon,2024-03-30 Lyon-Reims,FRA-L1,23-24,6b21872e
+8236f673,Malick Fofana,11,BEL,"FW,RM",18-365,29,0,0,0,0,0,0,0,0,15,0,0,0,0.0,0.0,0.0,1,1,10,11,90.9,1,14,1,2,0,Lyon,2024-03-30 Lyon-Reims,FRA-L1,23-24,6b21872e
+b34c63a5,Rayan Cherki,18,FRA,AM,20-226,45,0,0,0,0,1,0,0,0,50,2,1,0,0.0,0.0,0.1,3,0,29,42,69.0,7,32,1,4,2,Lyon,2024-03-30 Lyon-Reims,FRA-L1,23-24,6b21872e
+234a703c,Ernest Nuamah,37,GHA,"AM,LM",20-150,45,1,0,0,0,4,2,0,0,26,1,0,0,0.7,0.7,0.0,1,0,15,18,83.3,2,20,1,1,1,Lyon,2024-03-30 Lyon-Reims,FRA-L1,23-24,6b21872e
+eb7822d7,Nemanja Matić,31,SRB,CM,35-242,61,0,0,0,0,1,0,0,0,72,0,0,1,0.1,0.1,0.0,1,0,56,69,81.2,7,55,4,1,1,Lyon,2024-03-30 Lyon-Reims,FRA-L1,23-24,6b21872e
+5a04fd92,Saïd Benrahma,17,ALG,"CM,FW",28-233,29,0,1,0,0,1,0,0,0,19,0,0,0,0.1,0.1,0.5,3,1,14,16,87.5,1,18,0,0,0,Lyon,2024-03-30 Lyon-Reims,FRA-L1,23-24,6b21872e
+f81ef10d,Maxence Caqueret,6,FRA,CM,24-044,90,0,0,0,0,1,1,0,0,82,2,1,3,0.1,0.1,0.0,2,0,57,64,89.1,11,64,3,3,2,Lyon,2024-03-30 Lyon-Reims,FRA-L1,23-24,6b21872e
+f28474a4,Henrique,21,BRA,WB,29-340,88,0,0,0,0,0,0,0,0,79,0,1,3,0.0,0.0,0.1,2,0,66,74,89.2,8,57,3,1,1,Lyon,2024-03-30 Lyon-Reims,FRA-L1,23-24,6b21872e
+c385bf49,Sael Kumbedi,20,FRA,RB,19-004,2,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,4,6,66.7,0,4,1,1,0,Lyon,2024-03-30 Lyon-Reims,FRA-L1,23-24,6b21872e
+e3a5814e,Ainsley Maitland-Niles,98,ENG,"WB,LB",26-214,90,0,0,0,0,3,0,0,0,71,3,2,1,0.2,0.2,0.1,2,0,47,58,81.0,6,47,2,1,1,Lyon,2024-03-30 Lyon-Reims,FRA-L1,23-24,6b21872e
+94f8d10c,Duje Ćaleta-Car,55,CRO,CB,27-195,90,0,0,0,0,0,0,1,0,82,0,1,2,0.0,0.0,0.6,3,0,64,74,86.5,4,55,0,0,0,Lyon,2024-03-30 Lyon-Reims,FRA-L1,23-24,6b21872e
+652d4c37,Corentin Tolisso,8,FRA,"CB,CM",29-240,90,0,0,0,0,0,0,1,0,89,2,1,2,0.0,0.0,0.1,2,0,73,81,90.1,9,70,1,0,0,Lyon,2024-03-30 Lyon-Reims,FRA-L1,23-24,6b21872e
+25f2ef01,Jake O'Brien,12,IRL,CB,22-320,90,0,0,0,0,2,0,0,0,58,1,0,1,0.7,0.7,0.0,2,0,44,52,84.6,5,41,1,2,1,Lyon,2024-03-30 Lyon-Reims,FRA-L1,23-24,6b21872e
+f00de885,Anthony Lopes,1,POR,GK,33-181,90,0,0,0,0,0,0,0,0,44,0,0,0,0.0,0.0,0.0,0,0,36,40,90.0,0,32,0,0,0,Lyon,2024-03-30 Lyon-Reims,FRA-L1,23-24,6b21872e
+44435c8f,Oumar Diakité,22,CIV,FW,20-101,88,0,0,0,0,2,1,0,0,18,2,0,0,0.3,0.3,0.1,3,0,7,9,77.8,2,10,0,2,1,Reims,2024-03-30 Lyon-Reims,FRA-L1,23-24,6b21872e
+5d36f616,Christ Mbondi,66,FRA,FW,19-162,2,0,0,0,0,0,0,0,0,3,1,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,2,0,0,0,Reims,2024-03-30 Lyon-Reims,FRA-L1,23-24,6b21872e
+88acf83f,Reda Khadra,14,GER,FW,22-270,80,0,0,0,0,1,0,1,0,26,1,0,0,0.0,0.0,0.2,3,0,16,20,80.0,3,20,1,3,3,Reims,2024-03-30 Lyon-Reims,FRA-L1,23-24,6b21872e
+90eb507d,Thomas Foket,32,BEL,FW,29-187,10,0,0,0,0,0,0,0,0,4,1,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,2,0,0,0,Reims,2024-03-30 Lyon-Reims,FRA-L1,23-24,6b21872e
+d97af612,Keito Nakamura,17,JPN,LM,23-246,72,0,0,0,0,2,0,0,0,23,2,0,0,0.1,0.1,0.0,3,0,10,14,71.4,1,18,4,0,0,Reims,2024-03-30 Lyon-Reims,FRA-L1,23-24,6b21872e
+2b7cdb79,Amir Richardson,8,MAR,LM,22-066,18,0,0,0,0,1,1,1,0,13,0,0,0,0.0,0.0,0.0,3,0,8,10,80.0,3,12,3,0,0,Reims,2024-03-30 Lyon-Reims,FRA-L1,23-24,6b21872e
+2acf0cd7,Marshall Munetsi,15,ZIM,CM,27-282,90,0,0,0,0,2,1,1,0,48,4,4,0,0.1,0.1,0.0,1,0,21,34,61.8,7,31,1,1,1,Reims,2024-03-30 Lyon-Reims,FRA-L1,23-24,6b21872e
+6b5edd5d,Valentin Atangana Edoa,6,FRA,CM,18-218,71,0,0,0,0,2,0,0,0,28,2,0,0,0.1,0.1,0.0,2,0,15,16,93.8,1,18,2,1,1,Reims,2024-03-30 Lyon-Reims,FRA-L1,23-24,6b21872e
+2eb1ec07,Amadou Koné,72,MLI,CM,18-321,19,0,0,0,0,0,0,0,0,11,2,0,1,0.0,0.0,0.0,0,0,8,9,88.9,2,7,0,0,0,Reims,2024-03-30 Lyon-Reims,FRA-L1,23-24,6b21872e
+dbd3a428,Junya Ito,7,JPN,RM,31-021,90,0,0,0,0,2,0,0,0,43,0,0,0,0.1,0.1,0.2,6,0,18,31,58.1,4,26,3,3,0,Reims,2024-03-30 Lyon-Reims,FRA-L1,23-24,6b21872e
+06efa9dc,Sergio Akieme,18,ESP,LB,26-105,80,0,0,0,0,1,0,0,0,38,1,2,1,0.0,0.0,0.0,4,0,19,26,73.1,1,19,4,4,2,Reims,2024-03-30 Lyon-Reims,FRA-L1,23-24,6b21872e
+7b082ec2,Maxime Busi,4,BEL,LB,24-168,10,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,5,8,62.5,0,5,1,0,0,Reims,2024-03-30 Lyon-Reims,FRA-L1,23-24,6b21872e
+039f1983,Joseph Okumu,2,KEN,CB,26-309,90,1,0,0,0,1,1,0,0,58,1,2,6,0.7,0.7,0.0,1,0,30,43,69.8,0,37,0,0,0,Reims,2024-03-30 Lyon-Reims,FRA-L1,23-24,6b21872e
+32c2d95f,Yunis Abdelhamid,5,MAR,CB,36-184,90,0,0,0,0,1,0,0,0,57,4,3,4,0.1,0.1,0.0,2,1,32,42,76.2,1,27,0,0,0,Reims,2024-03-30 Lyon-Reims,FRA-L1,23-24,6b21872e
+75f1ed80,Emmanuel Agbadou,24,CIV,RB,26-287,90,0,0,0,0,2,1,0,0,75,6,0,1,0.1,0.1,0.0,2,0,43,56,76.8,4,44,2,0,0,Reims,2024-03-30 Lyon-Reims,FRA-L1,23-24,6b21872e
+eedea60b,Yehvann Diouf,94,FRA,GK,24-135,90,0,0,0,0,0,0,0,0,33,0,0,0,0.0,0.0,0.0,0,0,19,33,57.6,1,23,0,0,0,Reims,2024-03-30 Lyon-Reims,FRA-L1,23-24,6b21872e

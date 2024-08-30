@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+4be0b467,Lois Diony,9,FRA,FW,27-065,78,0,0,0,0,2,1,0,0,21,2,0,0,0.1,0.1,0.0,0,0,5,16,31.3,3,11,3,1,0,Saint-Étienne,2020-02-23 Saint-Étienne-Reims,FRA-L1,19-20,70161e6e
+7f622eef,Assane Dioussé,25,SEN,CM,22-156,12,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,4,0,0,0,Saint-Étienne,2020-02-23 Saint-Étienne-Reims,FRA-L1,19-20,70161e6e
+0b0cbe5b,Denis Bouanga,20,GAB,"LW,FW",25-104,90,1,0,0,0,3,1,0,0,37,0,0,2,0.4,0.4,0.0,1,0,9,17,52.9,1,21,2,5,2,Saint-Étienne,2020-02-23 Saint-Étienne-Reims,FRA-L1,19-20,70161e6e
+db7849ca,Franck Honorat,14,FRA,"RW,RM",23-196,90,0,1,0,0,0,0,0,0,35,1,0,1,0.0,0.0,0.3,2,1,14,26,53.8,2,14,1,2,0,Saint-Étienne,2020-02-23 Saint-Étienne-Reims,FRA-L1,19-20,70161e6e
+1001ae82,Ryad Boudebouz,7,ALG,AM,30-004,69,0,0,0,0,2,2,0,0,53,0,0,0,0.1,0.1,0.0,2,0,33,47,70.2,5,23,1,3,2,Saint-Étienne,2020-02-23 Saint-Étienne-Reims,FRA-L1,19-20,70161e6e
+e4b72e34,Miguel Trauco,13,PER,"CM,LM,LW",27-182,21,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,2,0,0,0,Saint-Étienne,2020-02-23 Saint-Étienne-Reims,FRA-L1,19-20,70161e6e
+ad7b19ef,Yohan Cabaye,29,FRA,"DM,CM",34-040,84,0,0,0,0,0,0,0,0,67,6,3,0,0.0,0.0,0.0,3,0,46,57,80.7,5,30,2,0,0,Saint-Étienne,2020-02-23 Saint-Étienne-Reims,FRA-L1,19-20,70161e6e
+4914ed4a,Gabriel Silva,11,BRA,LW,28-286,6,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,0,0,0,0,Saint-Étienne,2020-02-23 Saint-Étienne-Reims,FRA-L1,19-20,70161e6e
+8577e60a,Mahdi Camara,8,FRA,"DM,CM",21-238,90,0,0,0,0,0,0,0,0,53,4,2,4,0.0,0.0,0.1,1,0,29,37,78.4,1,24,3,1,0,Saint-Étienne,2020-02-23 Saint-Étienne-Reims,FRA-L1,19-20,70161e6e
+ab096c6f,Timothée Kolodziejczak,5,FRA,LB,28-145,90,0,0,0,0,0,0,1,0,61,1,4,0,0.0,0.0,0.0,1,0,37,52,71.2,5,25,3,1,0,Saint-Étienne,2020-02-23 Saint-Étienne-Reims,FRA-L1,19-20,70161e6e
+d4133fa1,Yann M'Vila,6,FRA,CB,29-239,90,0,0,0,0,0,0,0,0,59,0,1,1,0.0,0.0,0.0,0,0,48,52,92.3,2,36,0,0,0,Saint-Étienne,2020-02-23 Saint-Étienne-Reims,FRA-L1,19-20,70161e6e
+972aeb2a,William Saliba,4,FRA,CB,18-336,90,0,0,0,0,0,0,0,0,51,1,4,0,0.0,0.0,0.0,1,0,34,37,91.9,3,29,3,0,0,Saint-Étienne,2020-02-23 Saint-Étienne-Reims,FRA-L1,19-20,70161e6e
+92232aad,Mathieu Debuchy,26,FRA,RB,34-210,90,0,0,0,0,0,0,0,0,76,2,2,2,0.0,0.0,0.0,2,1,45,62,72.6,1,20,0,0,0,Saint-Étienne,2020-02-23 Saint-Étienne-Reims,FRA-L1,19-20,70161e6e
+28a65a2c,Jessy Moulin,30,FRA,GK,34-041,90,0,0,0,0,0,0,0,0,27,0,0,0,0.0,0.0,0.0,0,0,17,24,70.8,0,14,0,0,0,Saint-Étienne,2020-02-23 Saint-Étienne-Reims,FRA-L1,19-20,70161e6e
+47c609d5,El Bilal Touré,34,MLI,FW,18-143,63,0,0,0,0,1,1,0,0,23,0,0,2,0.1,0.1,0.1,2,0,8,16,50.0,0,11,2,3,2,Reims,2020-02-23 Saint-Étienne-Reims,FRA-L1,19-20,70161e6e
+0f26fd24,Anastasios Donis,9,GRE,FW,23-178,27,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,4,5,80.0,0,5,0,0,0,Reims,2020-02-23 Saint-Étienne-Reims,FRA-L1,19-20,70161e6e
+6481421d,Moussa Doumbia,25,MLI,LW,25-192,72,0,0,0,0,3,0,0,0,28,1,0,0,0.1,0.1,0.0,2,0,11,16,68.8,1,14,2,5,1,Reims,2020-02-23 Saint-Étienne-Reims,FRA-L1,19-20,70161e6e
+46750e9c,Nathanael Mbuku,33,FRA,LW,17-344,18,0,0,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.0,0,0,6,10,60.0,0,10,0,1,1,Reims,2020-02-23 Saint-Étienne-Reims,FRA-L1,19-20,70161e6e
+244bc2c8,Boulaye Dia,11,SEN,RW,23-099,90,1,0,1,1,2,0,0,0,28,0,0,0,0.9,0.1,0.1,3,1,12,14,85.7,1,19,0,4,1,Reims,2020-02-23 Saint-Étienne-Reims,FRA-L1,19-20,70161e6e
+279ddf6a,Xavier Chavalerin,7,FRA,LM,28-353,77,0,0,0,0,0,0,0,0,56,2,3,1,0.0,0.0,0.0,3,0,37,48,77.1,5,31,1,0,0,Reims,2020-02-23 Saint-Étienne-Reims,FRA-L1,19-20,70161e6e
+92b56413,Tristan Dingomé,20,CMR,LM,29-006,13,0,0,0,0,1,0,0,0,14,0,0,0,0.0,0.0,0.0,3,0,10,13,76.9,1,10,0,1,1,Reims,2020-02-23 Saint-Étienne-Reims,FRA-L1,19-20,70161e6e
+f54d2149,Moreto Cassamã,23,GNB,CM,22-007,90,0,0,0,0,1,0,0,0,89,3,1,2,0.0,0.0,0.0,5,1,70,79,88.6,9,59,1,4,3,Reims,2020-02-23 Saint-Étienne-Reims,FRA-L1,19-20,70161e6e
+2acf0cd7,Marshall Munetsi,15,ZIM,RM,23-246,90,0,0,0,0,0,0,1,0,47,2,0,0,0.0,0.0,0.0,2,0,25,34,73.5,4,21,3,2,2,Reims,2020-02-23 Saint-Étienne-Reims,FRA-L1,19-20,70161e6e
+19a12bed,Hassane Kamara,13,CIV,LB,25-355,90,0,0,0,0,1,0,0,0,88,2,5,0,0.0,0.0,0.0,0,0,51,64,79.7,2,51,6,6,4,Reims,2020-02-23 Saint-Étienne-Reims,FRA-L1,19-20,70161e6e
+32c2d95f,Yunis Abdelhamid,5,MAR,CB,32-148,90,0,0,0,0,1,0,0,0,82,4,5,2,0.0,0.0,0.0,1,0,53,66,80.3,2,44,0,0,0,Reims,2020-02-23 Saint-Étienne-Reims,FRA-L1,19-20,70161e6e
+ad82197c,Axel Disasi,6,FRA,CB,21-349,90,0,0,0,0,1,0,0,0,75,2,0,0,0.0,0.0,0.0,3,0,56,65,86.2,9,57,1,0,0,Reims,2020-02-23 Saint-Étienne-Reims,FRA-L1,19-20,70161e6e
+90eb507d,Thomas Foket,32,BEL,RB,25-151,90,0,0,0,0,0,0,0,0,57,4,2,0,0.0,0.0,0.0,0,0,32,42,76.2,2,26,1,1,1,Reims,2020-02-23 Saint-Étienne-Reims,FRA-L1,19-20,70161e6e
+58ad9383,Predrag Rajković,1,SRB,GK,24-115,90,0,0,0,0,0,0,0,0,45,0,0,0,0.0,0.0,0.0,0,0,42,44,95.5,0,24,0,0,0,Reims,2020-02-23 Saint-Étienne-Reims,FRA-L1,19-20,70161e6e

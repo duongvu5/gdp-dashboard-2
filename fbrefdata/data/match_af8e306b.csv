@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+f9f92b5f,Florian Krüger,18,GER,FW,22-196,71,0,0,0,0,2,1,0,0,21,1,0,0,0.1,0.1,0.0,0,0,10,17,58.8,0,12,1,1,1,Arminia,2021-08-28 Arminia-Eint Frankfurt,GER-BL1,21-22,af8e306b
+ebac0ace,Bryan Lasme,10,FRA,FW,22-287,19,0,0,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.1,1,0,4,8,50.0,0,8,0,1,1,Arminia,2021-08-28 Arminia-Eint Frankfurt,GER-BL1,21-22,af8e306b
+e21042ae,Fabian Klos,9,GER,FW,33-269,90,0,1,0,0,2,1,0,0,34,0,0,1,0.1,0.1,0.1,3,2,12,26,46.2,4,19,0,0,0,Arminia,2021-08-28 Arminia-Eint Frankfurt,GER-BL1,21-22,af8e306b
+0174ba21,Robin Hack,21,GER,LM,23-001,90,0,0,0,0,3,0,0,0,41,1,1,0,0.2,0.2,0.0,3,0,20,30,66.7,4,27,0,4,1,Arminia,2021-08-28 Arminia-Eint Frankfurt,GER-BL1,21-22,af8e306b
+901c0f97,Manuel Prietl,19,AUT,CM,30-025,90,0,0,0,0,0,0,0,0,28,1,1,0,0.0,0.0,0.0,2,0,14,21,66.7,3,17,0,4,4,Arminia,2021-08-28 Arminia-Eint Frankfurt,GER-BL1,21-22,af8e306b
+d25fee56,Fabian Kunze,16,GER,CM,23-075,80,0,0,0,0,1,0,0,0,28,0,1,1,0.0,0.0,0.0,2,0,15,22,68.2,3,11,1,0,0,Arminia,2021-08-28 Arminia-Eint Frankfurt,GER-BL1,21-22,af8e306b
+cb11b429,Patrick Wimmer,20,AUT,CM,20-090,10,1,0,0,0,4,2,0,0,9,0,0,0,0.2,0.2,0.0,2,0,0,3,0.0,0,5,0,4,3,Arminia,2021-08-28 Arminia-Eint Frankfurt,GER-BL1,21-22,af8e306b
+63b9cc6d,Masaya Okugawa,11,JPN,RM,25-136,90,0,0,0,0,0,0,0,0,20,0,0,2,0.0,0.0,0.1,4,0,6,13,46.2,3,15,2,2,2,Arminia,2021-08-28 Arminia-Eint Frankfurt,GER-BL1,21-22,af8e306b
+c0d3bd23,Jacob Barrett Laursen,5,DEN,LB,26-284,60,0,0,0,0,1,0,0,0,37,0,1,0,0.0,0.0,0.0,0,0,24,33,72.7,1,14,0,1,0,Arminia,2021-08-28 Arminia-Eint Frankfurt,GER-BL1,21-22,af8e306b
+7ba1f1ef,Lennart-Marten Czyborra,6,GER,LB,22-117,30,0,0,0,0,0,0,0,0,24,0,1,0,0.0,0.0,0.0,1,0,10,20,50.0,0,11,1,0,0,Arminia,2021-08-28 Arminia-Eint Frankfurt,GER-BL1,21-22,af8e306b
+c562c5b4,Joakim Nilsson,4,SWE,CB,27-203,90,0,0,0,0,0,0,0,0,42,1,3,1,0.0,0.0,0.0,1,0,27,35,77.1,2,19,0,0,0,Arminia,2021-08-28 Arminia-Eint Frankfurt,GER-BL1,21-22,af8e306b
+526ea7cc,Amos Pieper,2,GER,CB,23-223,90,0,0,0,0,0,0,0,0,52,2,2,2,0.0,0.0,0.0,0,0,34,40,85.0,3,28,0,1,1,Arminia,2021-08-28 Arminia-Eint Frankfurt,GER-BL1,21-22,af8e306b
+f0a37d36,Cédric Brunner,27,SUI,RB,27-192,90,0,0,0,0,0,0,0,0,59,1,3,1,0.0,0.0,0.0,2,0,23,48,47.9,0,30,2,2,1,Arminia,2021-08-28 Arminia-Eint Frankfurt,GER-BL1,21-22,af8e306b
+c1242d4e,Stefan Ortega,1,GER,GK,28-295,90,0,0,0,0,0,0,0,0,50,0,0,0,0.0,0.0,0.0,0,0,34,49,69.4,0,39,0,0,0,Arminia,2021-08-28 Arminia-Eint Frankfurt,GER-BL1,21-22,af8e306b
+c68da769,Rafael Borré,19,COL,FW,25-347,88,0,0,0,0,3,1,0,0,31,0,0,0,0.5,0.5,0.1,2,0,17,22,77.3,2,15,0,1,0,Eintracht Frankfurt,2021-08-28 Arminia-Eint Frankfurt,GER-BL1,21-22,af8e306b
+962e54cb,Gonçalo Paciência,39,POR,FW,27-027,2,0,0,0,0,2,0,0,0,9,0,0,0,0.2,0.2,0.0,0,0,5,6,83.3,0,5,0,0,0,Eintracht Frankfurt,2021-08-28 Arminia-Eint Frankfurt,GER-BL1,21-22,af8e306b
+37dc1a48,Jesper Lindstrøm,29,DEN,LW,21-180,80,0,0,0,0,1,0,0,0,34,2,1,2,0.0,0.0,0.0,0,0,12,24,50.0,0,20,0,1,0,Eintracht Frankfurt,2021-08-28 Arminia-Eint Frankfurt,GER-BL1,21-22,af8e306b
+dc38e3bc,Ragnar Ache,21,GER,LW,23-031,10,0,0,0,0,1,0,0,0,9,0,0,1,0.1,0.1,0.0,0,0,2,4,50.0,0,6,0,1,0,Eintracht Frankfurt,2021-08-28 Arminia-Eint Frankfurt,GER-BL1,21-22,af8e306b
+12c35abe,Jens Petter Hauge,23,NOR,RW,21-320,90,1,0,0,0,2,1,0,0,51,2,0,0,0.5,0.5,0.0,2,0,32,39,82.1,2,40,1,3,3,Eintracht Frankfurt,2021-08-28 Arminia-Eint Frankfurt,GER-BL1,21-22,af8e306b
+15b287da,Daichi Kamada,15,JPN,AM,25-023,72,0,0,0,0,0,0,0,0,31,0,0,0,0.0,0.0,0.1,3,1,23,28,82.1,5,19,0,0,0,Eintracht Frankfurt,2021-08-28 Arminia-Eint Frankfurt,GER-BL1,21-22,af8e306b
+a2a85828,Aymen Barkok,27,MAR,AM,23-099,18,0,0,0,0,0,0,0,0,18,2,2,1,0.0,0.0,0.0,0,0,6,7,85.7,0,4,0,0,0,Eintracht Frankfurt,2021-08-28 Arminia-Eint Frankfurt,GER-BL1,21-22,af8e306b
+1f2d714c,Ajdin Hrustic,7,AUS,DM,25-054,90,0,0,0,0,2,1,1,0,101,1,0,2,0.1,0.1,0.3,3,0,78,88,88.6,7,69,0,1,0,Eintracht Frankfurt,2021-08-28 Arminia-Eint Frankfurt,GER-BL1,21-22,af8e306b
+4c6facae,Djibril Sow,8,SUI,DM,24-203,90,0,0,0,0,0,0,0,0,88,4,2,2,0.0,0.0,0.1,2,0,65,73,89.0,8,59,2,1,1,Eintracht Frankfurt,2021-08-28 Arminia-Eint Frankfurt,GER-BL1,21-22,af8e306b
+bbd86530,Christopher Lenz,25,GER,LB,26-340,90,0,0,0,0,0,0,1,0,81,2,0,0,0.0,0.0,0.1,2,0,57,71,80.3,2,43,1,1,1,Eintracht Frankfurt,2021-08-28 Arminia-Eint Frankfurt,GER-BL1,21-22,af8e306b
+080440a4,Martin Hinteregger,13,AUT,CB,28-355,90,0,0,0,0,0,0,0,0,98,1,2,1,0.0,0.0,0.2,1,0,77,91,84.6,5,76,0,0,0,Eintracht Frankfurt,2021-08-28 Arminia-Eint Frankfurt,GER-BL1,21-22,af8e306b
+441197b8,Obite N'Dicka,2,CIV,CB,22-008,90,0,0,0,0,0,0,1,0,107,0,1,4,0.0,0.0,0.0,1,0,84,92,91.3,1,78,0,0,0,Eintracht Frankfurt,2021-08-28 Arminia-Eint Frankfurt,GER-BL1,21-22,af8e306b
+cf623c78,Erik Durm,37,GER,RB,29-108,90,0,1,0,0,0,0,0,0,84,2,1,1,0.0,0.0,0.3,1,1,55,72,76.4,5,57,3,0,0,Eintracht Frankfurt,2021-08-28 Arminia-Eint Frankfurt,GER-BL1,21-22,af8e306b
+ce17b5eb,Kevin Trapp,1,GER,GK,31-051,90,0,0,0,0,0,0,0,0,50,0,0,0,0.0,0.0,0.0,1,0,31,49,63.3,0,35,0,0,0,Eintracht Frankfurt,2021-08-28 Arminia-Eint Frankfurt,GER-BL1,21-22,af8e306b

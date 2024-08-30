@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+3071a619,Nolan Roux,25,FRA,FW,32-210,65,0,0,0,0,3,0,0,0,20,0,0,0,0.1,0.1,0.0,1,0,7,12,58.3,0,10,1,0,0,Nîmes,2020-09-27 Nîmes-Lens,FRA-L1,20-21,e4a4657c
+0d3585b5,Kévin Denkey,27,TOG,FW,19-302,25,0,0,0,0,0,0,0,0,17,0,0,1,0.0,0.0,0.0,0,0,9,14,64.3,2,9,0,0,0,Nîmes,2020-09-27 Nîmes-Lens,FRA-L1,20-21,e4a4657c
+beae3a73,Renaud Ripart,20,FRA,LW,27-197,90,0,0,0,0,2,1,0,0,47,0,0,3,0.1,0.1,0.1,3,1,17,33,51.5,2,21,2,4,3,Nîmes,2020-09-27 Nîmes-Lens,FRA-L1,20-21,e4a4657c
+005c0807,Zinedine Ferhat,10,ALG,RW,27-210,90,1,0,0,0,2,1,0,0,68,0,0,0,0.2,0.2,0.0,3,0,28,50,56.0,3,41,2,2,0,Nîmes,2020-09-27 Nîmes-Lens,FRA-L1,20-21,e4a4657c
+fbf76716,Yassine Benrahou,22,FRA,LM,21-247,66,0,0,0,0,0,0,0,0,36,3,0,0,0.0,0.0,0.1,4,0,15,27,55.6,3,26,4,0,0,Nîmes,2020-09-27 Nîmes-Lens,FRA-L1,20-21,e4a4657c
+a27ecdc2,Marco Majouga,33,CTA,LM,19-141,24,0,0,0,0,1,0,0,0,7,0,0,0,0.0,0.0,0.0,2,0,3,4,75.0,1,4,0,0,0,Nîmes,2020-09-27 Nîmes-Lens,FRA-L1,20-21,e4a4657c
+2145368f,Lamine Fomba,12,FRA,CM,22-245,90,0,0,0,0,0,0,0,0,32,2,4,2,0.0,0.0,0.0,0,0,16,19,84.2,1,11,0,0,0,Nîmes,2020-09-27 Nîmes-Lens,FRA-L1,20-21,e4a4657c
+9b40a6ea,Andrés Cubas,18,PAR,RM,24-128,90,0,0,0,0,2,1,0,0,54,4,5,1,0.0,0.0,0.0,1,0,29,42,69.0,1,30,0,1,1,Nîmes,2020-09-27 Nîmes-Lens,FRA-L1,20-21,e4a4657c
+70c52749,Birger Meling,3,NOR,LB,25-285,90,0,0,0,0,2,1,0,0,87,2,2,1,0.1,0.1,0.0,0,0,60,79,75.9,6,45,3,1,1,Nîmes,2020-09-27 Nîmes-Lens,FRA-L1,20-21,e4a4657c
+08082af0,Loïck Landre,5,FRA,CB,28-145,90,0,0,0,0,0,0,0,0,58,3,0,0,0.0,0.0,0.0,0,0,43,49,87.8,3,25,1,0,0,Nîmes,2020-09-27 Nîmes-Lens,FRA-L1,20-21,e4a4657c
+16324e1d,Anthony Briançon,23,FRA,CB,25-304,89,0,0,0,0,0,0,0,0,83,1,4,1,0.0,0.0,0.0,3,1,61,73,83.6,4,46,1,0,0,Nîmes,2020-09-27 Nîmes-Lens,FRA-L1,20-21,e4a4657c
+b66d1d8a,Florian Miguel,26,FRA,CB,24-026,1,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,0,0,0,0,Nîmes,2020-09-27 Nîmes-Lens,FRA-L1,20-21,e4a4657c
+475583ff,Gaëtan Paquiez,15,FRA,RB,26-225,66,0,0,0,0,1,0,0,0,39,2,1,2,0.0,0.0,0.1,2,0,23,30,76.7,2,17,3,0,0,Nîmes,2020-09-27 Nîmes-Lens,FRA-L1,20-21,e4a4657c
+8746d5d0,Patrick Burner,21,MTQ,RB,24-169,24,0,0,0,0,0,0,0,0,26,1,1,1,0.0,0.0,0.0,0,0,16,20,80.0,2,12,0,1,0,Nîmes,2020-09-27 Nîmes-Lens,FRA-L1,20-21,e4a4657c
+bcf1b2e9,Baptiste Reynet,30,FRA,GK,29-335,90,0,0,0,0,0,0,0,0,35,0,0,0,0.0,0.0,0.0,1,0,16,33,48.5,0,21,0,0,0,Nîmes,2020-09-27 Nîmes-Lens,FRA-L1,20-21,e4a4657c
+23c63b7f,Ignatius Ganago,27,CMR,FW,21-224,53,1,0,0,0,1,1,0,0,17,0,0,0,0.5,0.5,0.2,4,0,7,11,63.6,0,9,1,5,4,Lens,2020-09-27 Nîmes-Lens,FRA-L1,20-21,e4a4657c
+be47b750,Simon Banza,23,COD,FW,24-045,37,0,0,0,0,2,0,0,0,27,0,0,2,0.2,0.2,0.0,2,0,9,17,52.9,3,12,1,0,0,Lens,2020-09-27 Nîmes-Lens,FRA-L1,20-21,e4a4657c
+7a42d0df,Florian Sotoca,7,FRA,LW,29-338,70,0,0,0,0,4,0,0,0,35,1,0,0,0.4,0.4,0.0,2,0,20,28,71.4,5,19,1,1,0,Lens,2020-09-27 Nîmes-Lens,FRA-L1,20-21,e4a4657c
+7d9b37bf,Corentin Jean,25,FRA,LW,25-074,20,0,0,0,0,2,2,0,0,13,1,0,0,0.1,0.1,0.0,0,0,5,7,71.4,0,8,2,1,1,Lens,2020-09-27 Nîmes-Lens,FRA-L1,20-21,e4a4657c
+5b1bf5e3,Gaël Kakuta,10,COD,RW,29-098,80,0,1,0,0,3,1,0,0,67,0,0,1,0.1,0.1,0.7,7,1,32,53,60.4,6,28,2,1,0,Lens,2020-09-27 Nîmes-Lens,FRA-L1,20-21,e4a4657c
+88970207,Manuel Perez,6,FRA,RW,29-139,10,0,0,0,0,0,0,1,0,11,0,0,1,0.0,0.0,0.0,0,0,4,6,66.7,0,1,0,0,0,Lens,2020-09-27 Nîmes-Lens,FRA-L1,20-21,e4a4657c
+b99bec05,Issiaga Sylla,3,GUI,LM,26-270,90,0,0,0,0,0,0,0,0,81,2,1,1,0.0,0.0,0.0,2,0,37,59,62.7,4,39,5,5,2,Lens,2020-09-27 Nîmes-Lens,FRA-L1,20-21,e4a4657c
+ce4f40c7,Cheick Doucouré,28,MLI,CM,20-263,90,0,0,0,0,0,0,0,0,52,1,1,2,0.0,0.0,0.0,1,0,38,43,88.4,6,28,3,4,3,Lens,2020-09-27 Nîmes-Lens,FRA-L1,20-21,e4a4657c
+677ee102,Yannick Cahuzac,18,FRA,CM,35-253,90,0,0,0,0,1,0,0,0,47,1,2,0,0.1,0.1,0.0,0,0,27,36,75.0,6,22,0,0,0,Lens,2020-09-27 Nîmes-Lens,FRA-L1,20-21,e4a4657c
+5219ab4a,Jonathan Clauss,11,FRA,RM,28-002,80,0,0,0,0,2,1,0,0,53,2,3,1,0.1,0.1,0.1,2,0,26,38,68.4,1,23,6,1,0,Lens,2020-09-27 Nîmes-Lens,FRA-L1,20-21,e4a4657c
+62e02107,Ismaëlben Boura,33,COM,RM,20-044,10,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,2,4,50.0,0,5,1,1,1,Lens,2020-09-27 Nîmes-Lens,FRA-L1,20-21,e4a4657c
+6f5ec8bb,Facundo Medina,14,ARG,CB,21-122,90,0,0,0,0,0,0,1,0,62,2,2,1,0.0,0.0,0.0,1,0,40,48,83.3,3,33,0,1,0,Lens,2020-09-27 Nîmes-Lens,FRA-L1,20-21,e4a4657c
+114bbdee,Loïc Bade,4,FRA,CB,20-169,90,0,0,0,0,0,0,0,0,68,1,2,4,0.0,0.0,0.0,0,0,38,47,80.9,2,32,0,1,1,Lens,2020-09-27 Nîmes-Lens,FRA-L1,20-21,e4a4657c
+06c48679,Jonathan Gradit,24,FRA,CB,27-308,45,0,0,0,0,0,0,1,0,28,1,2,0,0.0,0.0,0.0,0,0,17,24,70.8,2,20,2,0,0,Lens,2020-09-27 Nîmes-Lens,FRA-L1,20-21,e4a4657c
+574aa9ec,Steven Fortes,15,CPV,CB,28-163,45,0,0,0,0,0,0,0,0,24,0,0,0,0.0,0.0,0.0,1,0,13,18,72.2,2,11,0,0,0,Lens,2020-09-27 Nîmes-Lens,FRA-L1,20-21,e4a4657c
+edbe46dc,Jean-Louis Leca,16,FRA,GK,35-006,90,0,0,0,0,0,0,0,0,34,0,0,0,0.0,0.0,0.0,1,0,26,33,78.8,0,23,0,0,0,Lens,2020-09-27 Nîmes-Lens,FRA-L1,20-21,e4a4657c

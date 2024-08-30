@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+f84a807c,Lyle Foster,35,RSA,FW,18-340,45,0,0,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.0,0,0,4,7,57.1,0,3,0,0,0,Monaco,2019-08-09 Monaco-Lyon,FRA-L1,19-20,eb594ee1
+e90af77c,Gabriel Boschilia,26,BRA,LW,23-157,45,0,0,0,0,1,0,0,0,19,0,1,0,0.0,0.0,0.0,1,0,12,16,75.0,0,11,2,0,0,Monaco,2019-08-09 Monaco-Lyon,FRA-L1,19-20,eb594ee1
+7c2965bb,Rony Lopes,7,POR,"LW,RW",23-224,80,0,0,0,0,2,0,0,0,33,1,0,0,0.1,0.1,0.0,2,0,24,26,92.3,2,27,1,1,1,Monaco,2019-08-09 Monaco-Lyon,FRA-L1,19-20,eb594ee1
+d8b97bb3,Moussa Sylla,34,MLI,FW,19-257,10,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.1,0,0,2,2,100.0,0,2,0,0,0,Monaco,2019-08-09 Monaco-Lyon,FRA-L1,19-20,eb594ee1
+3ef0fa48,Gelson Martins,11,POR,"RW,FW",24-090,90,0,0,0,0,1,1,0,0,40,4,3,0,0.3,0.3,0.0,2,0,21,24,87.5,0,26,2,5,3,Monaco,2019-08-09 Monaco-Lyon,FRA-L1,19-20,eb594ee1
+33508c78,Cesc Fàbregas,4,ESP,AM,32-097,29,0,0,0,0,0,0,0,1,22,0,0,0,0.0,0.0,0.0,2,0,22,24,91.7,7,13,0,0,0,Monaco,2019-08-09 Monaco-Lyon,FRA-L1,19-20,eb594ee1
+7cab69b5,Jemerson,5,BRA,DM,26-350,90,0,0,0,0,0,0,0,0,55,7,2,0,0.0,0.0,0.0,2,0,38,47,80.9,1,32,0,0,0,Monaco,2019-08-09 Monaco-Lyon,FRA-L1,19-20,eb594ee1
+0a89e877,Benjamin Henrichs,39,GER,DM,22-167,73,0,0,0,0,2,0,0,0,60,4,0,2,0.1,0.1,0.3,3,0,40,47,85.1,8,43,2,3,1,Monaco,2019-08-09 Monaco-Lyon,FRA-L1,19-20,eb594ee1
+1a6f2a66,Adama Traoré,21,MLI,DM,24-042,17,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,6,7,85.7,0,6,0,0,0,Monaco,2019-08-09 Monaco-Lyon,FRA-L1,19-20,eb594ee1
+f449640d,Fodé Ballo-Touré,2,SEN,LB,22-218,90,0,0,0,0,0,0,1,0,44,2,0,0,0.0,0.0,0.0,0,0,23,32,71.9,1,28,0,2,1,Monaco,2019-08-09 Monaco-Lyon,FRA-L1,19-20,eb594ee1
+c795c408,Jonathan Panzo,37,ENG,CB,18-288,90,0,0,0,0,1,0,0,0,78,2,2,3,0.1,0.1,0.0,0,0,55,64,85.9,7,49,1,0,0,Monaco,2019-08-09 Monaco-Lyon,FRA-L1,19-20,eb594ee1
+c6056d58,Kamil Glik,25,POL,CB,31-187,90,0,0,0,0,0,0,0,0,61,1,1,2,0.0,0.0,0.0,0,0,46,52,88.5,2,39,0,0,0,Monaco,2019-08-09 Monaco-Lyon,FRA-L1,19-20,eb594ee1
+3dd738a1,Ruben Aguilar,12,FRA,RB,26-105,90,0,0,0,0,0,0,0,0,55,4,1,1,0.0,0.0,0.1,1,0,37,43,86.0,1,30,0,2,1,Monaco,2019-08-09 Monaco-Lyon,FRA-L1,19-20,eb594ee1
+2fa2a875,Benjamin Lecomte,40,FRA,GK,28-105,90,0,0,0,0,0,0,0,0,29,0,0,0,0.0,0.0,0.0,0,0,21,27,77.8,0,11,0,0,0,Monaco,2019-08-09 Monaco-Lyon,FRA-L1,19-20,eb594ee1
+e7986081,Moussa Dembélé,9,FRA,FW,23-028,90,1,0,0,0,2,1,0,0,34,1,0,1,0.3,0.3,0.1,2,1,13,20,65.0,2,14,3,3,1,Lyon,2019-08-09 Monaco-Lyon,FRA-L1,19-20,eb594ee1
+8f696594,Memphis,11,NED,LW,25-177,90,1,0,0,0,4,1,0,0,45,0,0,0,0.2,0.2,0.1,2,0,27,32,84.4,3,30,1,3,0,Lyon,2019-08-09 Monaco-Lyon,FRA-L1,19-20,eb594ee1
+c47541e0,Bertrand Traoré,10,BFA,RW,23-337,82,0,1,0,0,2,0,0,0,53,2,0,0,0.1,0.1,0.4,5,2,34,41,82.9,3,31,1,3,2,Lyon,2019-08-09 Monaco-Lyon,FRA-L1,19-20,eb594ee1
+beb391dd,Maxwel Cornet,27,CIV,RW,22-316,8,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.1,1,0,1,1,100.0,0,3,1,1,0,Lyon,2019-08-09 Monaco-Lyon,FRA-L1,19-20,eb594ee1
+a5db0bec,Houssem Aouar,8,ALG,LM,21-040,76,0,0,0,0,0,0,1,0,66,2,3,0,0.0,0.0,0.0,3,1,43,52,82.7,5,36,3,4,3,Lyon,2019-08-09 Monaco-Lyon,FRA-L1,19-20,eb594ee1
+a99138af,Jean Lucas,22,BRA,LM,21-048,14,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,1,0,8,9,88.9,0,4,0,0,0,Lyon,2019-08-09 Monaco-Lyon,FRA-L1,19-20,eb594ee1
+71ec39ef,Lucas Tousart,29,FRA,CM,22-102,90,1,0,0,0,2,1,0,0,79,3,1,0,0.1,0.1,0.0,3,0,63,67,94.0,6,45,0,0,0,Lyon,2019-08-09 Monaco-Lyon,FRA-L1,19-20,eb594ee1
+c6e5d20f,Thiago Mendes,12,BRA,RM,27-147,90,0,2,0,0,0,0,0,0,63,1,0,0,0.0,0.0,0.1,3,2,50,55,90.9,8,42,0,2,0,Lyon,2019-08-09 Monaco-Lyon,FRA-L1,19-20,eb594ee1
+e6eadfb8,Youssouf Koné,28,MLI,LB,24-035,85,0,0,0,0,0,0,0,0,92,1,2,0,0.0,0.0,0.0,1,0,79,87,90.8,2,50,0,0,0,Lyon,2019-08-09 Monaco-Lyon,FRA-L1,19-20,eb594ee1
+77d7c96f,Kenny Tete,23,NED,RB,23-304,5,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,0,0,0,0,Lyon,2019-08-09 Monaco-Lyon,FRA-L1,19-20,eb594ee1
+47af88b8,Jason Denayer,5,BEL,CB,24-042,90,0,0,0,0,0,0,0,0,108,0,1,1,0.0,0.0,0.0,1,0,100,101,99.0,1,77,1,0,0,Lyon,2019-08-09 Monaco-Lyon,FRA-L1,19-20,eb594ee1
+e34fc66d,Joachim Andersen,3,DEN,CB,23-070,90,0,0,0,0,1,0,0,0,111,0,0,0,0.1,0.1,0.0,0,0,103,107,96.3,6,80,0,0,0,Lyon,2019-08-09 Monaco-Lyon,FRA-L1,19-20,eb594ee1
+ff0ab48c,Leo Dubois,14,FRA,"RB,LB",24-329,90,0,0,0,0,2,0,1,0,69,3,1,1,0.1,0.1,0.0,1,0,52,58,89.7,5,38,3,3,2,Lyon,2019-08-09 Monaco-Lyon,FRA-L1,19-20,eb594ee1
+f00de885,Anthony Lopes,1,POR,GK,28-312,90,0,0,0,0,0,0,0,0,26,0,0,0,0.0,0.0,0.0,0,0,23,25,92.0,0,12,0,0,0,Lyon,2019-08-09 Monaco-Lyon,FRA-L1,19-20,eb594ee1

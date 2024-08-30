@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+0cc5f4a5,Lukas Nmecha,10,GER,FW,23-319,73,0,0,0,0,4,1,0,0,29,0,0,0,0.8,0.8,0.0,4,1,12,15,80.0,4,24,2,6,0,Wolfsburg,2022-10-29 Wolfsburg-Bochum,GER-BL1,22-23,4d55ede5
+2077ae86,Jonas Wind,23,DEN,FW,23-264,17,1,0,0,0,1,1,0,0,6,0,0,0,0.0,0.0,0.0,0,0,4,5,80.0,0,5,0,0,0,Wolfsburg,2022-10-29 Wolfsburg-Bochum,GER-BL1,22-23,4d55ede5
+202b3b68,Jakub Kamiński,16,POL,LM,20-146,80,0,0,0,0,2,0,0,0,30,1,0,0,0.1,0.1,0.1,3,0,17,21,81.0,2,24,4,5,1,Wolfsburg,2022-10-29 Wolfsburg-Bochum,GER-BL1,22-23,4d55ede5
+d4a2533d,Josip Brekalo,14,CRO,LM,24-128,10,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,6,6,100.0,2,6,0,0,0,Wolfsburg,2022-10-29 Wolfsburg-Bochum,GER-BL1,22-23,4d55ede5
+62ab9184,Yannick Gerhardt,31,GER,CM,28-230,90,0,0,0,0,1,0,0,0,47,0,0,0,0.0,0.0,0.1,3,1,33,39,84.6,8,35,0,2,0,Wolfsburg,2022-10-29 Wolfsburg-Bochum,GER-BL1,22-23,4d55ede5
+091c86e2,Felix Nmecha,22,GER,CM,22-019,73,2,0,0,0,5,3,0,0,30,2,0,1,0.7,0.7,0.3,1,0,10,18,55.6,2,19,0,2,2,Wolfsburg,2022-10-29 Wolfsburg-Bochum,GER-BL1,22-23,4d55ede5
+92d83c27,Mattias Svanberg,32,SWE,DM,23-297,17,0,0,0,0,0,0,0,0,10,0,0,1,0.0,0.0,0.0,1,0,7,9,77.8,1,8,0,0,0,Wolfsburg,2022-10-29 Wolfsburg-Bochum,GER-BL1,22-23,4d55ede5
+cb11b429,Patrick Wimmer,39,AUT,RM,21-152,66,0,1,0,0,0,0,0,0,33,0,2,1,0.0,0.0,0.4,8,2,16,22,72.7,4,22,4,4,1,Wolfsburg,2022-10-29 Wolfsburg-Bochum,GER-BL1,22-23,4d55ede5
+0e0102eb,Omar Marmoush,33,EGY,RM,23-264,24,0,0,0,0,0,0,0,0,15,0,0,1,0.0,0.0,0.0,1,0,6,8,75.0,0,14,0,3,1,Wolfsburg,2022-10-29 Wolfsburg-Bochum,GER-BL1,22-23,4d55ede5
+86e119e0,Maximilian Arnold,27,GER,DM,28-155,90,0,2,0,0,2,0,0,0,67,3,0,1,0.0,0.0,0.5,7,2,38,54,70.4,2,31,0,2,1,Wolfsburg,2022-10-29 Wolfsburg-Bochum,GER-BL1,22-23,4d55ede5
+1cbe4984,Paulo Otávio,6,BRA,LB,27-340,90,0,1,0,0,1,0,0,0,76,3,5,3,0.0,0.0,0.4,2,1,41,57,71.9,7,41,3,4,0,Wolfsburg,2022-10-29 Wolfsburg-Bochum,GER-BL1,22-23,4d55ede5
+8fe2a392,Micky van de Ven,5,NED,CB,21-193,90,0,0,0,0,0,0,0,0,49,1,1,1,0.0,0.0,0.0,0,0,35,42,83.3,0,33,0,1,0,Wolfsburg,2022-10-29 Wolfsburg-Bochum,GER-BL1,22-23,4d55ede5
+01834aa0,Sebastiaan Bornauw,3,BEL,CB,23-221,90,0,0,0,0,0,0,1,0,44,0,3,0,0.0,0.0,0.0,0,0,34,39,87.2,1,28,0,0,0,Wolfsburg,2022-10-29 Wolfsburg-Bochum,GER-BL1,22-23,4d55ede5
+442b56fa,Ridle Baku,20,GER,RB,24-204,80,1,0,0,0,4,1,0,0,59,1,2,1,0.3,0.3,0.0,2,0,38,50,76.0,5,37,2,1,1,Wolfsburg,2022-10-29 Wolfsburg-Bochum,GER-BL1,22-23,4d55ede5
+79f7302a,Kilian Fischer,2,GER,RB,22-017,10,0,0,0,0,0,0,0,0,7,0,0,1,0.0,0.0,0.0,0,0,5,5,100.0,0,3,0,0,0,Wolfsburg,2022-10-29 Wolfsburg-Bochum,GER-BL1,22-23,4d55ede5
+db401046,Koen Casteels,1,BEL,GK,30-126,90,0,0,0,0,0,0,0,0,48,0,0,0,0.0,0.0,0.0,1,1,37,48,77.1,0,36,0,0,0,Wolfsburg,2022-10-29 Wolfsburg-Bochum,GER-BL1,22-23,4d55ede5
+877bc844,Philipp Hofmann,33,GER,FW,29-213,72,0,0,0,0,1,1,0,0,25,0,0,1,0.0,0.0,0.0,0,0,9,17,52.9,1,10,0,0,0,Bochum,2022-10-29 Wolfsburg-Bochum,GER-BL1,22-23,4d55ede5
+57ec75bf,Tim Oermann,14,GER,FW,19-023,18,0,0,0,0,0,0,0,0,9,1,0,0,0.0,0.0,0.0,0,0,7,8,87.5,0,4,0,0,0,Bochum,2022-10-29 Wolfsburg-Bochum,GER-BL1,22-23,4d55ede5
+0a3f6cde,Christopher Antwi-Adjei,22,GHA,"LW,WB",28-264,72,0,0,0,0,1,0,0,0,26,0,0,0,0.1,0.1,0.1,3,0,11,20,55.0,1,15,1,2,0,Bochum,2022-10-29 Wolfsburg-Bochum,GER-BL1,22-23,4d55ede5
+861e0116,Kostas Stafylidis,16,GRE,CM,28-331,18,0,0,0,0,1,0,0,0,13,2,0,0,0.0,0.0,0.0,0,0,7,8,87.5,2,4,0,0,0,Bochum,2022-10-29 Wolfsburg-Bochum,GER-BL1,22-23,4d55ede5
+0a16eb36,Jordi Osei-Tutu,18,ENG,"RW,WB",24-027,57,0,0,0,0,0,0,0,0,20,3,0,2,0.0,0.0,0.0,1,0,6,9,66.7,1,10,1,2,1,Bochum,2022-10-29 Wolfsburg-Bochum,GER-BL1,22-23,4d55ede5
+2979c05a,Gerrit Holtmann,17,PHI,FW,27-218,33,0,0,0,0,1,0,0,0,19,0,0,1,0.0,0.0,0.0,2,0,10,12,83.3,1,6,1,1,0,Bochum,2022-10-29 Wolfsburg-Bochum,GER-BL1,22-23,4d55ede5
+76fa965f,Philipp Förster,10,GER,"AM,CM",27-267,57,0,0,0,0,1,0,0,0,31,2,0,0,0.1,0.1,0.0,0,0,18,24,75.0,3,17,2,1,0,Bochum,2022-10-29 Wolfsburg-Bochum,GER-BL1,22-23,4d55ede5
+29f7cfd9,Simon Zoller,9,GER,CB,31-125,33,0,0,0,0,1,0,0,0,15,1,0,0,0.0,0.0,0.0,0,0,8,12,66.7,0,5,1,0,0,Bochum,2022-10-29 Wolfsburg-Bochum,GER-BL1,22-23,4d55ede5
+e5649a78,Kevin Stöger,7,AUT,"DM,CM",29-063,90,0,0,0,0,2,0,0,0,65,3,0,2,0.0,0.0,0.1,4,0,39,57,68.4,4,26,1,1,1,Bochum,2022-10-29 Wolfsburg-Bochum,GER-BL1,22-23,4d55ede5
+07c7eb0c,Anthony Losilla,8,FRA,"DM,CM",36-233,90,0,0,0,0,0,0,0,0,35,3,2,1,0.0,0.0,0.0,0,0,22,32,68.8,1,16,0,1,1,Bochum,2022-10-29 Wolfsburg-Bochum,GER-BL1,22-23,4d55ede5
+c05f2f8c,Danilo Soares,3,BRA,"LB,CB",31-000,90,0,0,0,0,0,0,0,0,64,4,1,2,0.0,0.0,0.0,0,0,44,55,80.0,5,22,0,0,0,Bochum,2022-10-29 Wolfsburg-Bochum,GER-BL1,22-23,4d55ede5
+699fb8db,Dominique Heintz,30,GER,CB,29-075,90,0,0,0,0,1,0,1,0,43,1,1,2,0.1,0.1,0.0,0,0,27,31,87.1,0,17,0,0,0,Bochum,2022-10-29 Wolfsburg-Bochum,GER-BL1,22-23,4d55ede5
+86c75897,Ivan Ordets,20,UKR,CB,30-113,45,0,0,0,0,0,0,0,0,26,1,1,0,0.0,0.0,0.0,0,0,13,23,56.5,1,13,0,0,0,Bochum,2022-10-29 Wolfsburg-Bochum,GER-BL1,22-23,4d55ede5
+6c731625,Silvère Ganvoula M'Boussy,35,CGO,FW,26-129,45,0,0,0,0,1,1,0,0,12,0,0,0,0.0,0.0,0.0,1,0,5,9,55.6,0,7,0,1,0,Bochum,2022-10-29 Wolfsburg-Bochum,GER-BL1,22-23,4d55ede5
+f27680d9,Cristian Gamboa,2,CRC,"RB,CB",33-005,90,0,0,0,0,0,0,0,0,51,6,1,2,0.0,0.0,0.1,2,0,32,39,82.1,4,18,1,1,0,Bochum,2022-10-29 Wolfsburg-Bochum,GER-BL1,22-23,4d55ede5
+9f941969,Manuel Riemann,1,GER,GK,34-050,90,0,0,0,0,0,0,0,0,53,0,0,0,0.0,0.0,0.0,0,0,29,50,58.0,0,37,0,0,0,Bochum,2022-10-29 Wolfsburg-Bochum,GER-BL1,22-23,4d55ede5

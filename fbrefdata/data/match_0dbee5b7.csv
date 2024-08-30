@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+0a447501,Antonio Sanabria,19,PAR,FW,25-325,90,1,0,0,0,6,2,0,0,28,0,1,1,1.4,1.4,0.0,3,0,14,19,73.7,0,13,0,0,0,Torino,2022-01-23 Torino-Sassuolo,ITA-SERIA_A,21-22,0dbee5b7
+d4a2533d,Josip Brekalo,14,CRO,AM,23-214,69,0,0,0,0,3,0,0,0,46,0,0,0,0.1,0.1,0.3,8,1,26,36,72.2,3,26,7,3,1,Torino,2022-01-23 Torino-Sassuolo,ITA-SERIA_A,21-22,0dbee5b7
+2c38b327,Marko Pjaca,11,CRO,AM,26-262,21,0,0,0,0,1,1,0,0,12,0,0,1,0.1,0.1,0.0,1,0,4,6,66.7,1,7,1,2,0,Torino,2022-01-23 Torino-Sassuolo,ITA-SERIA_A,21-22,0dbee5b7
+86695068,Dennis Praet,22,BEL,AM,27-254,83,0,0,0,0,1,0,0,0,35,0,0,0,0.0,0.0,0.5,5,0,26,31,83.9,4,17,1,1,1,Torino,2022-01-23 Torino-Sassuolo,ITA-SERIA_A,21-22,0dbee5b7
+ea06dd97,Daniele Baselli,8,ITA,AM,29-317,7,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,4,5,80.0,0,7,1,1,1,Torino,2022-01-23 Torino-Sassuolo,ITA-SERIA_A,21-22,0dbee5b7
+c7259b83,Rolando Mandragora,38,ITA,CM,24-208,69,0,0,0,0,2,0,1,0,41,1,0,0,0.1,0.1,0.3,6,0,33,37,89.2,6,20,0,0,0,Torino,2022-01-23 Torino-Sassuolo,ITA-SERIA_A,21-22,0dbee5b7
+55a1cac2,Tommaso Pobega,4,ITA,CM,22-192,21,0,0,0,0,1,0,1,0,8,0,0,0,0.0,0.0,0.0,1,0,4,6,66.7,1,2,0,0,0,Torino,2022-01-23 Torino-Sassuolo,ITA-SERIA_A,21-22,0dbee5b7
+c6e8cf1f,Saša Lukić,10,SRB,CM,25-163,90,0,0,0,0,0,0,0,0,57,1,0,1,0.0,0.0,0.4,5,0,43,51,84.3,6,30,2,2,1,Torino,2022-01-23 Torino-Sassuolo,ITA-SERIA_A,21-22,0dbee5b7
+be2706c0,Mërgim Vojvoda,27,KVX,WB,26-356,90,0,0,0,0,2,0,0,0,70,0,1,2,0.3,0.3,0.0,2,0,43,62,69.4,10,48,6,2,2,Torino,2022-01-23 Torino-Sassuolo,ITA-SERIA_A,21-22,0dbee5b7
+8b609c34,Wilfried Singo,17,CIV,WB,21-029,90,0,1,0,0,1,0,0,0,74,3,0,2,0.1,0.1,0.8,6,1,41,54,75.9,7,38,3,6,3,Torino,2022-01-23 Torino-Sassuolo,ITA-SERIA_A,21-22,0dbee5b7
+7f78ad23,Ricardo Rodríguez,13,SUI,CB,29-151,90,0,0,0,0,0,0,0,0,47,2,0,1,0.0,0.0,0.0,1,0,34,41,82.9,1,24,0,0,0,Torino,2022-01-23 Torino-Sassuolo,ITA-SERIA_A,21-22,0dbee5b7
+5fd5ed86,Gleison Bremer,3,BRA,CB,24-311,90,0,0,0,0,2,1,1,0,49,1,3,1,0.5,0.5,0.0,0,0,29,37,78.4,0,23,1,1,1,Torino,2022-01-23 Torino-Sassuolo,ITA-SERIA_A,21-22,0dbee5b7
+acf7e795,David Zima,6,CZE,CB,21-076,90,0,0,0,0,2,2,0,0,31,1,1,2,0.2,0.2,0.0,0,0,17,20,85.0,1,15,0,1,1,Torino,2022-01-23 Torino-Sassuolo,ITA-SERIA_A,21-22,0dbee5b7
+9fa26bc2,Vanja Milinković-Savić,32,SRB,GK,24-337,90,0,0,0,0,0,0,0,0,37,0,0,0,0.0,0.0,0.0,0,0,18,37,48.6,0,23,0,0,0,Torino,2022-01-23 Torino-Sassuolo,ITA-SERIA_A,21-22,0dbee5b7
+8790f988,Gianluca Scamacca,91,ITA,FW,23-022,90,0,0,0,0,0,0,1,0,41,0,0,0,0.0,0.0,0.0,0,0,20,30,66.7,1,21,0,0,0,Sassuolo,2022-01-23 Torino-Sassuolo,ITA-SERIA_A,21-22,0dbee5b7
+6e058f06,Giacomo Raspadori,18,ITA,"LW,AM",21-339,89,1,0,0,0,3,1,0,0,32,2,0,1,0.6,0.6,0.0,2,0,13,19,68.4,2,22,1,0,0,Sassuolo,2022-01-23 Torino-Sassuolo,ITA-SERIA_A,21-22,0dbee5b7
+a378a02a,Ruan,44,BRA,CB,22-230,1,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,0,0,0,0,Sassuolo,2022-01-23 Torino-Sassuolo,ITA-SERIA_A,21-22,0dbee5b7
+53a0e358,Domenico Berardi,25,ITA,"RW,RM",27-175,90,0,1,0,0,0,0,0,0,39,0,0,1,0.0,0.0,0.4,3,1,18,34,52.9,1,29,1,0,0,Sassuolo,2022-01-23 Torino-Sassuolo,ITA-SERIA_A,21-22,0dbee5b7
+65fd099c,Abdou Harroui,20,NED,LM,24-010,45,0,0,0,0,0,0,0,0,20,0,0,1,0.0,0.0,0.0,0,0,12,13,92.3,0,7,0,1,0,Sassuolo,2022-01-23 Torino-Sassuolo,ITA-SERIA_A,21-22,0dbee5b7
+10e7f486,Rogério,6,BRA,LB,24-010,9,0,0,0,0,0,0,1,0,5,0,1,0,0.0,0.0,0.0,0,0,2,3,66.7,0,2,0,0,0,Sassuolo,2022-01-23 Torino-Sassuolo,ITA-SERIA_A,21-22,0dbee5b7
+854ee61a,Grégoire Defrel,92,MTQ,"LW,LM",30-220,36,0,0,0,0,1,0,0,0,14,0,0,0,0.0,0.0,0.1,3,0,10,11,90.9,2,9,1,0,0,Sassuolo,2022-01-23 Torino-Sassuolo,ITA-SERIA_A,21-22,0dbee5b7
+20094685,Maxime Lopez,8,FRA,"CM,DM",24-050,90,0,0,0,0,0,0,0,0,54,4,0,0,0.0,0.0,0.0,1,0,38,50,76.0,2,21,0,0,0,Sassuolo,2022-01-23 Torino-Sassuolo,ITA-SERIA_A,21-22,0dbee5b7
+2a7d27c1,Davide Frattesi,16,ITA,"RM,DM,CM",22-093,90,0,0,0,0,0,0,1,0,48,1,2,3,0.0,0.0,0.0,2,1,27,35,77.1,3,23,0,1,0,Sassuolo,2022-01-23 Torino-Sassuolo,ITA-SERIA_A,21-22,0dbee5b7
+0a483542,Giorgos Kyriakopoulos,77,GRE,"LB,LW",25-352,90,0,0,0,0,1,0,0,0,68,1,1,1,0.0,0.0,0.0,0,0,37,55,67.3,1,38,3,1,0,Sassuolo,2022-01-23 Torino-Sassuolo,ITA-SERIA_A,21-22,0dbee5b7
+8650af85,Gian Marco Ferrari,31,ITA,CB,29-342,90,0,0,0,0,1,0,0,0,46,0,1,0,0.0,0.0,0.0,0,0,35,44,79.5,3,13,0,0,0,Sassuolo,2022-01-23 Torino-Sassuolo,ITA-SERIA_A,21-22,0dbee5b7
+c316607a,Vlad Chiricheș,21,ROU,CB,32-070,90,0,0,0,0,0,0,0,0,48,0,1,2,0.0,0.0,0.0,1,0,36,42,85.7,2,24,0,0,0,Sassuolo,2022-01-23 Torino-Sassuolo,ITA-SERIA_A,21-22,0dbee5b7
+1295552e,Mert Müldür,17,TUR,RB,22-295,90,0,0,0,0,0,0,0,0,54,4,0,1,0.0,0.0,0.0,0,0,37,44,84.1,2,26,0,0,0,Sassuolo,2022-01-23 Torino-Sassuolo,ITA-SERIA_A,21-22,0dbee5b7
+8cabdc1e,Andrea Consigli,47,ITA,GK,34-361,90,0,0,0,0,0,0,0,0,63,0,0,0,0.0,0.0,0.0,0,0,46,62,74.2,0,40,0,0,0,Sassuolo,2022-01-23 Torino-Sassuolo,ITA-SERIA_A,21-22,0dbee5b7

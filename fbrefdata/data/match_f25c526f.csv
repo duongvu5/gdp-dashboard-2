@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+f9446dcd,Max Kruse,10,GER,FW,29-329,90,0,1,0,0,3,0,0,0,55,0,0,1,0.2,0.2,0.2,2,1,34,48,70.8,3,36,2,2,2,Werder Bremen,2018-02-11 Werder Bremen-Wolfsburg,GER-BL1,17-18,f25c526f
+94c18565,Florian Kainz,7,AUT,LM,25-110,90,2,0,0,0,4,2,0,0,52,2,3,1,0.3,0.3,0.1,4,1,31,41,75.6,10,32,6,2,0,Werder Bremen,2018-02-11 Werder Bremen-Wolfsburg,GER-BL1,17-18,f25c526f
+dba67bc4,Zlatko Junuzović,16,AUT,CM,30-138,88,0,2,0,0,1,0,0,0,46,2,1,2,0.0,0.0,0.2,4,2,30,39,76.9,3,29,2,1,0,Werder Bremen,2018-02-11 Werder Bremen-Wolfsburg,GER-BL1,17-18,f25c526f
+9b88e120,Robert Bauer,4,GER,CM,22-308,2,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,3,3,100.0,0,1,0,0,0,Werder Bremen,2018-02-11 Werder Bremen-Wolfsburg,GER-BL1,17-18,f25c526f
+beb882a8,Maximilian Eggestein,35,GER,CM,21-065,90,0,0,0,0,1,1,0,0,36,2,0,1,0.3,0.3,0.0,4,1,16,24,66.7,3,25,0,2,1,Werder Bremen,2018-02-11 Werder Bremen-Wolfsburg,GER-BL1,17-18,f25c526f
+c0dc9fc7,Aron Jóhannsson,9,USA,RM,27-093,64,0,0,0,0,0,0,0,0,28,2,0,1,0.0,0.0,0.4,3,0,14,18,77.8,4,14,1,3,0,Werder Bremen,2018-02-11 Werder Bremen-Wolfsburg,GER-BL1,17-18,f25c526f
+49ffe0f2,Jérôme Gondorf,8,GER,RM,29-230,26,0,0,0,0,0,0,0,0,12,1,2,0,0.0,0.0,0.0,1,0,6,6,100.0,0,9,0,1,0,Werder Bremen,2018-02-11 Werder Bremen-Wolfsburg,GER-BL1,17-18,f25c526f
+3f7cd8f1,Philipp Bargfrede,44,GER,DM,28-345,56,0,0,0,0,0,0,0,0,28,4,3,2,0.0,0.0,0.0,1,0,15,20,75.0,1,17,1,1,0,Werder Bremen,2018-02-11 Werder Bremen-Wolfsburg,GER-BL1,17-18,f25c526f
+fe641c1a,Thomas Delaney,6,DEN,DM,26-161,34,0,0,0,0,0,0,0,0,16,2,0,2,0.0,0.0,0.0,0,0,7,10,70.0,2,6,0,0,0,Werder Bremen,2018-02-11 Werder Bremen-Wolfsburg,GER-BL1,17-18,f25c526f
+9fec8860,Ludwig Augustinsson,5,SWE,LB,23-296,90,1,0,0,0,1,1,1,0,52,2,2,1,0.1,0.1,0.0,0,0,30,43,69.8,1,20,3,1,1,Werder Bremen,2018-02-11 Werder Bremen-Wolfsburg,GER-BL1,17-18,f25c526f
+00844823,Niklas Moisander,18,FIN,CB,32-135,90,0,0,0,0,2,0,0,0,45,1,2,0,0.1,0.1,0.0,0,0,27,34,79.4,0,21,0,1,1,Werder Bremen,2018-02-11 Werder Bremen-Wolfsburg,GER-BL1,17-18,f25c526f
+a5ae8f8e,Miloš Veljković,13,SRB,CB,22-138,90,0,0,0,0,0,0,0,0,38,0,2,1,0.0,0.0,0.0,3,1,24,35,68.6,0,18,0,0,0,Werder Bremen,2018-02-11 Werder Bremen-Wolfsburg,GER-BL1,17-18,f25c526f
+3f65898c,Theodor Gebre Selassie,23,CZE,RB,31-049,90,0,0,0,0,0,0,0,0,46,3,0,0,0.0,0.0,0.1,2,0,30,38,78.9,8,10,1,0,0,Werder Bremen,2018-02-11 Werder Bremen-Wolfsburg,GER-BL1,17-18,f25c526f
+0a1cb833,Jiří Pavlenka,1,CZE,GK,25-303,90,0,0,0,0,0,0,0,0,36,0,0,0,0.0,0.0,0.0,0,0,18,32,56.3,0,19,0,0,0,Werder Bremen,2018-02-11 Werder Bremen-Wolfsburg,GER-BL1,17-18,f25c526f
+8c90fd7a,Victor Osimhen,18,NGA,FW,19-044,90,0,0,0,0,4,1,0,0,36,0,1,0,0.5,0.5,0.0,2,0,15,26,57.7,0,20,2,1,0,Wolfsburg,2018-02-11 Werder Bremen-Wolfsburg,GER-BL1,17-18,f25c526f
+b500b384,Admir Mehmedi,22,SUI,LW,26-332,77,0,0,0,0,0,0,0,0,51,1,0,0,0.0,0.0,0.1,2,0,33,44,75.0,8,30,4,3,0,Wolfsburg,2018-02-11 Werder Bremen-Wolfsburg,GER-BL1,17-18,f25c526f
+b5f63410,Landry Dimata,9,BEL,LW,20-163,13,0,0,0,0,1,1,0,0,5,0,0,0,0.1,0.1,0.0,1,0,2,3,66.7,1,3,0,0,0,Wolfsburg,2018-02-11 Werder Bremen-Wolfsburg,GER-BL1,17-18,f25c526f
+d4a2533d,Josip Brekalo,21,CRO,RW,19-233,68,0,0,0,0,1,0,0,0,41,0,0,2,0.1,0.1,0.0,1,0,32,35,91.4,2,25,2,4,2,Wolfsburg,2018-02-11 Werder Bremen-Wolfsburg,GER-BL1,17-18,f25c526f
+dd669209,Renato Steffen,8,SUI,RW,26-100,22,0,0,0,0,0,0,1,0,11,0,0,2,0.0,0.0,0.0,2,0,5,9,55.6,0,7,1,0,0,Wolfsburg,2018-02-11 Werder Bremen-Wolfsburg,GER-BL1,17-18,f25c526f
+f3722c97,Yunus Mallı,10,TUR,AM,25-352,90,0,0,0,0,2,1,0,0,47,0,0,1,0.1,0.1,0.0,3,0,34,41,82.9,2,35,1,2,1,Wolfsburg,2018-02-11 Werder Bremen-Wolfsburg,GER-BL1,17-18,f25c526f
+86e119e0,Maximilian Arnold,27,GER,DM,23-260,90,0,0,0,0,1,0,1,0,82,5,1,3,0.0,0.0,0.1,3,0,53,69,76.8,7,35,0,1,0,Wolfsburg,2018-02-11 Werder Bremen-Wolfsburg,GER-BL1,17-18,f25c526f
+e6c43eec,Josuha Guilavogui,23,FRA,DM,27-145,68,0,0,0,0,0,0,1,0,44,3,2,0,0.0,0.0,0.1,2,0,33,39,84.6,2,20,2,2,1,Wolfsburg,2018-02-11 Werder Bremen-Wolfsburg,GER-BL1,17-18,f25c526f
+43a166b4,Divock Origi,14,BEL,DM,22-299,22,0,0,0,0,1,0,0,0,4,0,0,0,0.1,0.1,0.0,0,0,3,3,100.0,0,4,1,1,1,Wolfsburg,2018-02-11 Werder Bremen-Wolfsburg,GER-BL1,17-18,f25c526f
+d4d0a9ad,William,2,BRA,LB,22-314,90,0,0,0,0,0,0,0,0,93,4,6,3,0.0,0.0,0.0,2,0,57,70,81.4,7,46,2,5,2,Wolfsburg,2018-02-11 Werder Bremen-Wolfsburg,GER-BL1,17-18,f25c526f
+fbffc4b1,Jeffrey Bruma,5,NED,CB,26-090,90,0,0,0,0,0,0,1,0,62,1,0,2,0.0,0.0,0.0,0,0,50,56,89.3,0,34,1,1,0,Wolfsburg,2018-02-11 Werder Bremen-Wolfsburg,GER-BL1,17-18,f25c526f
+6bd5cd5d,Robin Knoche,31,GER,CB,25-265,90,0,0,0,0,0,0,0,0,81,1,0,0,0.0,0.0,0.0,1,0,65,77,84.4,2,48,2,1,1,Wolfsburg,2018-02-11 Werder Bremen-Wolfsburg,GER-BL1,17-18,f25c526f
+97655ccd,Paul Verhaegh,3,NED,RB,34-163,90,1,0,0,1,1,1,1,0,74,2,1,1,0.9,0.0,0.1,4,1,56,66,84.8,5,36,3,1,0,Wolfsburg,2018-02-11 Werder Bremen-Wolfsburg,GER-BL1,17-18,f25c526f
+db401046,Koen Casteels,1,BEL,GK,25-231,90,0,0,0,0,0,0,0,0,41,0,0,0,0.0,0.0,0.0,0,0,25,38,65.8,0,19,0,0,0,Wolfsburg,2018-02-11 Werder Bremen-Wolfsburg,GER-BL1,17-18,f25c526f

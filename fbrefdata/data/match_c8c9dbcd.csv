@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+343c0d52,Giovanni Simeone,9,ARG,FW,25-241,60,0,0,0,0,2,1,0,0,20,0,0,0,0.6,0.6,0.0,3,1,7,10,70.0,2,11,1,2,1,Cagliari,2021-03-03 Cagliari-Bologna,ITA-SERIA_A,20-21,c8c9dbcd
+d37b0350,Leonardo Pavoletti,30,ITA,FW,32-097,30,0,0,0,0,1,0,0,0,17,0,0,0,0.1,0.1,0.0,0,0,9,15,60.0,1,6,0,0,0,Cagliari,2021-03-03 Cagliari-Bologna,ITA-SERIA_A,20-21,c8c9dbcd
+81255c03,João Pedro,10,ITA,FW,28-359,81,0,0,0,0,1,0,0,0,24,0,0,0,0.1,0.1,0.5,3,0,9,16,56.3,1,11,0,2,0,Cagliari,2021-03-03 Cagliari-Bologna,ITA-SERIA_A,20-21,c8c9dbcd
+1079c685,Alberto Cerri,27,ITA,FW,24-321,9,0,0,0,0,0,0,1,0,6,0,0,0,0.0,0.0,0.0,1,0,4,5,80.0,1,6,0,1,1,Cagliari,2021-03-03 Cagliari-Bologna,ITA-SERIA_A,20-21,c8c9dbcd
+1f9328da,Radja Nainggolan,4,BEL,AM,32-303,90,0,0,0,0,3,0,0,0,43,3,0,0,0.1,0.1,0.0,3,0,20,31,64.5,5,23,2,2,1,Cagliari,2021-03-03 Cagliari-Bologna,ITA-SERIA_A,20-21,c8c9dbcd
+528492ea,Alfred Duncan,32,GHA,CM,27-358,90,0,0,0,0,1,0,0,0,43,1,4,0,0.0,0.0,0.0,0,0,28,33,84.8,5,17,2,3,2,Cagliari,2021-03-03 Cagliari-Bologna,ITA-SERIA_A,20-21,c8c9dbcd
+7fac99d4,Răzvan Marin,8,ROU,CM,24-284,78,0,1,0,0,0,0,0,0,44,0,1,2,0.0,0.0,0.5,3,1,22,40,55.0,1,12,0,1,1,Cagliari,2021-03-03 Cagliari-Bologna,ITA-SERIA_A,20-21,c8c9dbcd
+7f267d66,Alessandro Deiola,14,ITA,CM,25-214,12,0,0,0,0,0,0,0,0,9,0,0,1,0.0,0.0,0.0,0,0,2,5,40.0,0,3,1,0,0,Cagliari,2021-03-03 Cagliari-Bologna,ITA-SERIA_A,20-21,c8c9dbcd
+95facda1,Nahitan Nández,18,URU,WB,25-065,90,0,0,0,0,1,0,1,0,59,0,0,1,0.0,0.0,0.2,4,0,30,53,56.6,3,23,2,3,2,Cagliari,2021-03-03 Cagliari-Bologna,ITA-SERIA_A,20-21,c8c9dbcd
+ca3db240,Gabriele Zappa,25,ITA,WB,21-071,81,0,0,0,0,0,0,0,0,28,2,0,0,0.0,0.0,0.0,0,0,14,21,66.7,1,9,1,1,1,Cagliari,2021-03-03 Cagliari-Bologna,ITA-SERIA_A,20-21,c8c9dbcd
+089550f5,Kwadwo Asamoah,19,GHA,WB,32-084,9,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,1,0,0,0,Cagliari,2021-03-03 Cagliari-Bologna,ITA-SERIA_A,20-21,c8c9dbcd
+008a6e6d,Ragnar Klavan,15,EST,CB,35-124,90,0,0,0,0,0,0,0,0,40,3,1,2,0.0,0.0,0.0,0,0,20,29,69.0,1,11,0,0,0,Cagliari,2021-03-03 Cagliari-Bologna,ITA-SERIA_A,20-21,c8c9dbcd
+fc4f85b1,Diego Godín,2,URU,CB,35-015,90,0,0,0,0,1,1,0,0,36,3,2,0,0.1,0.1,0.0,1,0,17,27,63.0,0,15,1,0,0,Cagliari,2021-03-03 Cagliari-Bologna,ITA-SERIA_A,20-21,c8c9dbcd
+14b8fcdf,Daniele Rugani,24,ITA,CB,26-217,45,1,0,0,0,1,1,0,0,16,2,1,0,0.2,0.2,0.1,0,0,6,11,54.5,0,7,1,0,0,Cagliari,2021-03-03 Cagliari-Bologna,ITA-SERIA_A,20-21,c8c9dbcd
+7d50454d,Luca Ceppitelli,23,ITA,CB,31-204,45,0,0,0,0,0,0,0,0,16,0,1,1,0.0,0.0,0.0,0,0,7,10,70.0,2,4,0,1,1,Cagliari,2021-03-03 Cagliari-Bologna,ITA-SERIA_A,20-21,c8c9dbcd
+f554e29b,Alessio Cragno,28,ITA,GK,26-248,90,0,0,0,0,0,0,0,0,28,0,0,0,0.0,0.0,0.0,0,0,7,27,25.9,0,10,0,0,0,Cagliari,2021-03-03 Cagliari-Bologna,ITA-SERIA_A,20-21,c8c9dbcd
+e5bf73f3,Musa Barrow,99,GAM,FW,22-109,90,0,0,0,0,3,1,0,0,39,0,0,4,0.2,0.2,0.1,1,0,14,21,66.7,2,18,0,1,0,Bologna,2021-03-03 Cagliari-Bologna,ITA-SERIA_A,20-21,c8c9dbcd
+7eb97a8e,Nicola Sansone,10,ITA,LW,29-174,90,0,0,0,0,1,0,0,0,50,1,0,0,0.1,0.1,0.2,5,0,31,38,81.6,5,34,3,6,4,Bologna,2021-03-03 Cagliari-Bologna,ITA-SERIA_A,20-21,c8c9dbcd
+e14ec482,Riccardo Orsolini,7,ITA,RW,24-038,63,0,0,0,0,0,0,0,0,35,2,1,2,0.0,0.0,0.0,1,0,13,21,61.9,1,14,2,2,1,Bologna,2021-03-03 Cagliari-Bologna,ITA-SERIA_A,20-21,c8c9dbcd
+c50cee19,Andreas Skov Olsen,11,DEN,RW,21-064,27,0,0,0,0,2,0,0,0,19,0,0,0,0.1,0.1,0.1,1,0,13,15,86.7,3,9,4,2,1,Bologna,2021-03-03 Cagliari-Bologna,ITA-SERIA_A,20-21,c8c9dbcd
+9d4c45d6,Roberto Soriano,21,ITA,AM,30-023,90,0,0,0,0,0,0,0,0,59,0,0,1,0.0,0.0,0.0,4,0,46,53,86.8,10,39,5,1,1,Bologna,2021-03-03 Cagliari-Bologna,ITA-SERIA_A,20-21,c8c9dbcd
+92d83c27,Mattias Svanberg,32,SWE,DM,22-057,74,0,0,0,0,3,1,0,0,38,4,1,2,0.1,0.1,0.0,1,0,21,24,87.5,2,11,0,0,0,Bologna,2021-03-03 Cagliari-Bologna,ITA-SERIA_A,20-21,c8c9dbcd
+8d8178ac,Rodrigo Palacio,24,ARG,DM,39-026,16,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,0,0,7,9,77.8,0,7,0,0,0,Bologna,2021-03-03 Cagliari-Bologna,ITA-SERIA_A,20-21,c8c9dbcd
+20b3a502,Nicolás Domínguez,8,ARG,DM,22-248,31,0,0,0,0,1,0,0,0,23,0,0,1,0.1,0.1,0.0,1,0,16,20,80.0,1,6,0,0,0,Bologna,2021-03-03 Cagliari-Bologna,ITA-SERIA_A,20-21,c8c9dbcd
+2cfae697,Jerdy Schouten,30,NED,DM,24-050,59,0,0,0,0,0,0,1,0,68,3,3,1,0.0,0.0,0.1,3,0,48,58,82.8,6,26,1,4,3,Bologna,2021-03-03 Cagliari-Bologna,ITA-SERIA_A,20-21,c8c9dbcd
+cfbf9881,Ibrahima Mbaye,15,SEN,LB,26-104,63,0,0,0,0,0,0,0,0,36,1,0,0,0.0,0.0,0.0,3,0,30,34,88.2,1,9,1,0,0,Bologna,2021-03-03 Cagliari-Bologna,ITA-SERIA_A,20-21,c8c9dbcd
+ec5dae45,Emanuel Vignato,55,ITA,LB,20-191,27,0,0,0,0,2,2,0,0,26,0,0,0,0.1,0.1,0.0,0,0,19,23,82.6,5,11,2,0,0,Bologna,2021-03-03 Cagliari-Bologna,ITA-SERIA_A,20-21,c8c9dbcd
+7b075c75,Adama Soumaoro,5,FRA,CB,28-258,90,0,0,0,0,1,1,0,0,74,0,0,0,0.0,0.0,0.0,0,0,58,66,87.9,1,27,0,2,2,Bologna,2021-03-03 Cagliari-Bologna,ITA-SERIA_A,20-21,c8c9dbcd
+8f68aa41,Valentin Antov,26,BUL,CB,20-114,74,0,0,0,0,0,0,1,0,68,1,1,2,0.0,0.0,0.0,0,0,52,57,91.2,4,34,0,1,1,Bologna,2021-03-03 Cagliari-Bologna,ITA-SERIA_A,20-21,c8c9dbcd
+563a68ad,Gary Medel,17,CHI,CB,33-212,16,0,0,0,0,0,0,0,0,27,0,0,1,0.0,0.0,0.0,0,0,25,26,96.2,2,19,0,0,0,Bologna,2021-03-03 Cagliari-Bologna,ITA-SERIA_A,20-21,c8c9dbcd
+e74f0e59,Lorenzo De Silvestri,29,ITA,RB,32-284,90,0,0,0,0,0,0,0,0,99,0,0,1,0.0,0.0,0.1,3,0,64,90,71.1,5,37,3,0,0,Bologna,2021-03-03 Cagliari-Bologna,ITA-SERIA_A,20-21,c8c9dbcd
+ab4449d6,Łukasz Skorupski,28,POL,GK,29-302,90,0,0,0,0,0,0,0,0,28,0,0,0,0.0,0.0,0.0,0,0,25,27,92.6,0,12,0,0,0,Bologna,2021-03-03 Cagliari-Bologna,ITA-SERIA_A,20-21,c8c9dbcd

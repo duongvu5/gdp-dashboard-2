@@ -1,0 +1,32 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+cd82452e,André Hahn,28,GER,FW,30-079,90,2,0,0,0,4,3,1,0,44,1,0,2,1.0,1.0,0.3,1,0,18,31,58.1,2,23,2,1,1,Augsburg,2020-10-31 Augsburg-Mainz 05,GER-BL1,20-21,2bdf2fcc
+8e235926,Michael Gregoritsch,11,AUT,FW,26-196,74,0,0,0,0,2,1,0,0,25,0,0,0,0.1,0.1,0.0,1,0,9,19,47.4,0,9,1,2,1,Augsburg,2020-10-31 Augsburg-Mainz 05,GER-BL1,20-21,2bdf2fcc
+f9e7c4ac,Alfreð Finnbogason,27,ISL,FW,31-273,16,0,1,0,0,0,0,0,0,8,0,1,0,0.0,0.0,0.1,1,1,6,7,85.7,0,4,0,0,0,Augsburg,2020-10-31 Augsburg-Mainz 05,GER-BL1,20-21,2bdf2fcc
+6ecbddf6,Ruben Vargas,16,SUI,LM,22-087,78,1,0,0,0,3,1,1,0,48,0,0,1,0.5,0.5,0.1,1,0,28,39,71.8,5,30,4,1,0,Augsburg,2020-10-31 Augsburg-Mainz 05,GER-BL1,20-21,2bdf2fcc
+fbbc8e15,Noah Joel Sarenren Bazee,17,NGA,LM,24-071,12,0,1,0,0,0,0,1,0,10,0,0,0,0.0,0.0,0.7,2,1,4,6,66.7,0,5,0,1,0,Augsburg,2020-10-31 Augsburg-Mainz 05,GER-BL1,20-21,2bdf2fcc
+f2dd9a21,Carlos Gruezo,25,ECU,CM,25-195,90,0,0,0,0,0,0,0,0,57,1,2,1,0.0,0.0,0.0,1,1,44,51,86.3,6,27,0,0,0,Augsburg,2020-10-31 Augsburg-Mainz 05,GER-BL1,20-21,2bdf2fcc
+17780d2b,Tobias Strobl,33,GER,CM,30-172,90,0,0,0,0,1,0,1,0,60,0,3,1,0.1,0.1,0.1,4,0,48,51,94.1,5,38,1,1,1,Augsburg,2020-10-31 Augsburg-Mainz 05,GER-BL1,20-21,2bdf2fcc
+d1273f09,Daniel Caligiuri,20,ITA,RM,32-290,90,0,0,0,0,0,0,0,0,43,0,2,0,0.0,0.0,0.4,5,0,28,37,75.7,4,27,3,1,1,Augsburg,2020-10-31 Augsburg-Mainz 05,GER-BL1,20-21,2bdf2fcc
+054849d2,Iago,22,BRA,LB,23-222,90,0,0,0,0,1,0,1,0,65,1,1,0,0.1,0.1,0.0,3,2,45,61,73.8,2,29,0,2,1,Augsburg,2020-10-31 Augsburg-Mainz 05,GER-BL1,20-21,2bdf2fcc
+677da306,Ohis Felix Uduokhai,19,GER,CB,23-052,90,0,0,0,0,1,0,0,0,79,2,2,0,0.2,0.2,0.0,1,0,65,70,92.9,3,54,1,2,2,Augsburg,2020-10-31 Augsburg-Mainz 05,GER-BL1,20-21,2bdf2fcc
+1025db8e,Jeffrey Gouweleeuw,6,NED,CB,29-113,90,0,0,0,0,0,0,0,0,68,1,4,2,0.0,0.0,0.0,3,0,46,56,82.1,2,40,0,0,0,Augsburg,2020-10-31 Augsburg-Mainz 05,GER-BL1,20-21,2bdf2fcc
+626fab5f,Raphael Framberger,32,GER,RB,25-055,59,0,0,0,0,1,1,0,0,45,2,0,1,0.0,0.0,0.0,0,0,28,36,77.8,3,18,0,1,0,Augsburg,2020-10-31 Augsburg-Mainz 05,GER-BL1,20-21,2bdf2fcc
+1df0c0b9,Robert Gumny,2,POL,RB,22-149,31,0,0,0,0,0,0,0,0,14,0,2,0,0.0,0.0,0.0,1,0,10,12,83.3,2,8,0,0,0,Augsburg,2020-10-31 Augsburg-Mainz 05,GER-BL1,20-21,2bdf2fcc
+17376543,Rafał Gikiewicz,1,POL,GK,33-005,90,0,0,0,0,0,0,0,0,57,0,1,0,0.0,0.0,0.0,0,0,45,56,80.4,0,29,0,0,0,Augsburg,2020-10-31 Augsburg-Mainz 05,GER-BL1,20-21,2bdf2fcc
+50e6dc35,Jean-Philippe Mateta,9,FRA,FW,23-125,57,0,0,0,0,0,0,0,0,13,1,1,0,0.0,0.0,0.0,0,0,7,10,70.0,0,7,0,0,0,Mainz 05,2020-10-31 Augsburg-Mainz 05,GER-BL1,20-21,2bdf2fcc
+f26834c7,Karim Onisiwo,21,AUT,"FW,RW",28-228,33,1,0,0,0,2,2,0,0,14,0,0,0,0.5,0.5,0.2,2,0,5,11,45.5,0,7,2,0,0,Mainz 05,2020-10-31 Augsburg-Mainz 05,GER-BL1,20-21,2bdf2fcc
+74c7c2db,Robin Quaison,7,SWE,LW,27-022,82,0,0,0,0,1,0,0,0,30,3,2,2,0.2,0.2,0.0,1,0,9,18,50.0,0,16,1,1,1,Mainz 05,2020-10-31 Augsburg-Mainz 05,GER-BL1,20-21,2bdf2fcc
+05f99a4a,Jonathan Burkardt,29,GER,LW,20-112,8,0,0,0,0,1,0,0,0,7,1,0,1,0.2,0.2,0.0,0,0,3,4,75.0,0,2,0,0,0,Mainz 05,2020-10-31 Augsburg-Mainz 05,GER-BL1,20-21,2bdf2fcc
+66385c46,Levin Öztunalı,8,GER,RW,24-230,82,0,1,0,0,0,0,0,0,22,1,1,0,0.0,0.0,0.5,2,1,14,19,73.7,4,16,2,1,1,Mainz 05,2020-10-31 Augsburg-Mainz 05,GER-BL1,20-21,2bdf2fcc
+7d841904,Ji Dong-won,11,KOR,"RW,FW",29-156,8,0,0,0,0,0,0,0,0,5,0,1,1,0.0,0.0,0.0,0,0,1,4,25.0,0,2,0,1,1,Mainz 05,2020-10-31 Augsburg-Mainz 05,GER-BL1,20-21,2bdf2fcc
+635f2732,Jean-Paul Boëtius,5,NED,AM,26-223,90,0,0,0,0,1,0,0,0,38,0,1,0,0.0,0.0,0.1,4,0,18,31,58.1,2,25,0,2,1,Mainz 05,2020-10-31 Augsburg-Mainz 05,GER-BL1,20-21,2bdf2fcc
+9ceb7642,Pierre Kunde,14,CMR,DM,25-097,82,0,0,0,0,1,0,0,0,51,3,0,1,0.0,0.0,0.1,1,0,34,40,85.0,0,28,0,0,0,Mainz 05,2020-10-31 Augsburg-Mainz 05,GER-BL1,20-21,2bdf2fcc
+e5649a78,Kevin Stöger,17,AUT,DM,27-065,8,0,0,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.0,0,0,6,10,60.0,0,5,0,0,0,Mainz 05,2020-10-31 Augsburg-Mainz 05,GER-BL1,20-21,2bdf2fcc
+33b554b7,Danny Latza,6,GER,DM,30-329,82,0,0,0,0,1,1,0,0,47,1,0,1,0.0,0.0,0.0,0,0,33,40,82.5,3,28,2,3,2,Mainz 05,2020-10-31 Augsburg-Mainz 05,GER-BL1,20-21,2bdf2fcc
+3bb625ac,Edimilson Fernandes,20,SUI,DM,24-199,8,0,0,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.0,0,0,9,11,81.8,1,8,0,0,0,Mainz 05,2020-10-31 Augsburg-Mainz 05,GER-BL1,20-21,2bdf2fcc
+a7813ac4,Daniel Brosinski,18,GER,LB,32-106,90,0,0,0,0,0,0,0,0,70,3,0,2,0.0,0.0,0.0,1,0,44,63,69.8,4,35,2,0,0,Mainz 05,2020-10-31 Augsburg-Mainz 05,GER-BL1,20-21,2bdf2fcc
+00242715,Moussa Niakhate,19,SEN,CB,24-237,90,0,0,0,0,0,0,0,0,105,4,2,1,0.0,0.0,0.0,0,0,89,95,93.7,3,76,2,0,0,Mainz 05,2020-10-31 Augsburg-Mainz 05,GER-BL1,20-21,2bdf2fcc
+610aa1e9,Luca Kilian,15,GER,CB,21-060,90,0,0,0,0,1,0,0,0,99,4,2,1,0.1,0.1,0.0,0,0,77,88,87.5,3,81,1,0,0,Mainz 05,2020-10-31 Augsburg-Mainz 05,GER-BL1,20-21,2bdf2fcc
+90339309,Jerry St. Juste,4,NED,RB,24-012,90,0,0,0,0,1,1,1,0,70,3,3,2,0.0,0.0,0.0,2,1,45,55,81.8,6,38,2,2,2,Mainz 05,2020-10-31 Augsburg-Mainz 05,GER-BL1,20-21,2bdf2fcc
+5c4bf6ba,Robin Zentner,27,GER,GK,26-003,90,0,0,0,0,0,0,0,0,42,0,0,0,0.0,0.0,0.0,0,0,34,39,87.2,0,25,0,0,0,Mainz 05,2020-10-31 Augsburg-Mainz 05,GER-BL1,20-21,2bdf2fcc

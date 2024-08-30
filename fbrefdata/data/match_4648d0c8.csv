@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+ea0ff634,Valère Germain,28,FRA,"FW,AM,RW",29-037,90,0,1,0,0,1,0,0,0,36,0,1,0,0.1,0.1,0.8,1,1,22,29,75.9,1,21,1,1,1,Marseille,2019-05-24 Marseille-Montpellier,FRA-L1,18-19,4648d0c8
+58ae47b2,Dimitri Payet,10,FRA,"LW,AM",32-056,58,0,0,0,0,2,1,0,0,47,0,0,0,0.1,0.1,0.2,2,1,30,42,71.4,6,33,3,0,0,Marseille,2019-05-24 Marseille-Montpellier,FRA-L1,18-19,4648d0c8
+8ff07990,Mario Balotelli,9,ITA,FW,28-285,28,0,0,0,0,2,1,0,1,16,1,0,0,0.2,0.2,0.0,2,0,4,7,57.1,1,11,2,1,0,Marseille,2019-05-24 Marseille-Montpellier,FRA-L1,18-19,4648d0c8
+2b9fdeea,Florian Thauvin,26,FRA,RW,26-118,89,1,0,0,0,1,1,0,0,61,0,1,0,0.8,0.8,0.1,1,0,42,55,76.4,3,50,7,3,1,Marseille,2019-05-24 Marseille-Montpellier,FRA-L1,18-19,4648d0c8
+77f278a0,Clinton N'Jie,14,CMR,"FW,RW",25-282,1,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,2,0,1,1,Marseille,2019-05-24 Marseille-Montpellier,FRA-L1,18-19,4648d0c8
+6e7f1353,Morgan Sanson,8,FRA,LM,24-279,33,0,0,0,0,0,0,1,0,15,0,0,1,0.0,0.0,0.0,0,0,9,11,81.8,1,9,1,1,0,Marseille,2019-05-24 Marseille-Montpellier,FRA-L1,18-19,4648d0c8
+97b87472,Tomáš Hubočan,25,SVK,LB,33-249,57,0,0,0,0,1,0,1,0,32,2,2,0,0.0,0.0,0.0,0,0,17,23,73.9,2,11,0,1,1,Marseille,2019-05-24 Marseille-Montpellier,FRA-L1,18-19,4648d0c8
+ef2e5e1a,Kevin Strootman,12,NED,"DM,CM",29-100,90,0,0,0,0,0,0,0,0,77,4,0,3,0.0,0.0,0.0,2,0,56,66,84.8,6,54,0,0,0,Marseille,2019-05-24 Marseille-Montpellier,FRA-L1,18-19,4648d0c8
+20094685,Maxime Lopez,27,FRA,"DM,RM",21-171,90,0,0,0,0,1,0,0,0,75,1,1,0,0.0,0.0,0.0,3,0,64,70,91.4,10,56,2,0,0,Marseille,2019-05-24 Marseille-Montpellier,FRA-L1,18-19,4648d0c8
+a08b974a,Lucas Ocampos,5,ARG,"LW,LB",24-317,90,0,0,0,0,1,0,0,0,44,0,0,0,0.0,0.0,0.0,0,0,23,34,67.6,1,38,3,3,2,Marseille,2019-05-24 Marseille-Montpellier,FRA-L1,18-19,4648d0c8
+82671804,Luiz Gustavo,19,BRA,CB,31-305,90,0,0,0,0,0,0,0,0,61,2,4,3,0.0,0.0,0.0,1,0,35,43,81.4,0,37,1,1,1,Marseille,2019-05-24 Marseille-Montpellier,FRA-L1,18-19,4648d0c8
+94f8d10c,Duje Ćaleta-Car,15,CRO,CB,22-249,90,0,0,0,0,1,0,0,0,53,1,3,1,0.1,0.1,0.0,0,0,27,36,75.0,2,29,1,0,0,Marseille,2019-05-24 Marseille-Montpellier,FRA-L1,18-19,4648d0c8
+d63e2912,Hiroki Sakai,2,JPN,RB,29-042,90,0,0,0,0,0,0,0,0,63,1,0,2,0.0,0.0,0.1,1,0,41,55,74.5,3,29,2,0,0,Marseille,2019-05-24 Marseille-Montpellier,FRA-L1,18-19,4648d0c8
+76806215,Yohann Pelé,16,FRA,GK,36-201,90,0,0,0,0,0,0,0,0,49,0,0,0,0.0,0.0,0.0,0,0,31,45,68.9,0,25,0,0,0,Marseille,2019-05-24 Marseille-Montpellier,FRA-L1,18-19,4648d0c8
+d33c706e,Andy Delort,11,ALG,FW,27-227,90,0,0,0,0,5,2,0,0,47,1,0,0,0.3,0.3,0.0,7,0,19,38,50.0,2,20,4,6,6,Montpellier,2019-05-24 Marseille-Montpellier,FRA-L1,18-19,4648d0c8
+7cdda3bf,Gaëtan Laborde,10,FRA,FW,25-021,74,0,0,0,0,1,0,0,0,30,0,0,0,0.0,0.0,0.0,3,0,17,25,68.0,4,15,3,4,1,Montpellier,2019-05-24 Marseille-Montpellier,FRA-L1,18-19,4648d0c8
+d9a66c60,Petar Škuletić,32,SRB,FW,28-329,16,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.1,0,0,1,1,100.0,0,2,0,0,0,Montpellier,2019-05-24 Marseille-Montpellier,FRA-L1,18-19,4648d0c8
+24eb7ed6,Junior Sambia,6,FRA,AM,22-259,79,0,0,0,0,1,0,0,0,48,0,0,0,0.0,0.0,0.1,5,0,25,40,62.5,4,23,2,6,4,Montpellier,2019-05-24 Marseille-Montpellier,FRA-L1,18-19,4648d0c8
+c58270f8,Souleymane Camara,19,SEN,AM,36-153,11,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,1,0,0,1,0.0,0,3,0,0,0,Montpellier,2019-05-24 Marseille-Montpellier,FRA-L1,18-19,4648d0c8
+542cc80f,Paul Lasne,7,FRA,CM,30-128,90,0,0,0,0,0,0,0,0,56,1,7,1,0.0,0.0,0.0,0,0,34,42,81.0,6,30,1,1,1,Montpellier,2019-05-24 Marseille-Montpellier,FRA-L1,18-19,4648d0c8
+8f4d116f,Damien Le Tallec,14,FRA,CM,29-035,90,0,0,0,0,1,0,0,0,65,2,8,0,0.0,0.0,0.1,3,0,39,51,76.5,10,12,0,0,0,Montpellier,2019-05-24 Marseille-Montpellier,FRA-L1,18-19,4648d0c8
+e3e05edf,Ambroise Oyongo,8,CMR,WB,27-336,68,0,0,0,0,2,0,0,0,35,0,1,1,0.1,0.1,0.1,4,0,23,29,79.3,4,24,1,1,1,Montpellier,2019-05-24 Marseille-Montpellier,FRA-L1,18-19,4648d0c8
+ea0aa7e0,Mihailo Ristić,26,SRB,WB,23-205,22,0,0,0,0,1,0,0,0,11,0,0,0,0.0,0.0,0.0,0,0,4,9,44.4,0,9,2,0,0,Montpellier,2019-05-24 Marseille-Montpellier,FRA-L1,18-19,4648d0c8
+3dd738a1,Ruben Aguilar,2,FRA,WB,26-028,90,0,0,0,0,0,0,0,0,64,4,4,0,0.0,0.0,0.0,2,0,48,53,90.6,3,30,2,2,1,Montpellier,2019-05-24 Marseille-Montpellier,FRA-L1,18-19,4648d0c8
+3f5b4635,Daniel Congré,3,FRA,CB,34-049,90,0,0,0,0,2,1,0,0,31,0,3,1,0.4,0.4,0.0,2,0,16,24,66.7,5,13,0,0,0,Montpellier,2019-05-24 Marseille-Montpellier,FRA-L1,18-19,4648d0c8
+c4bbea9f,Vitorino Hilton,4,BRA,CB,41-253,90,0,0,0,0,1,1,0,0,56,0,2,1,0.1,0.1,0.0,0,0,30,43,69.8,4,19,0,1,1,Montpellier,2019-05-24 Marseille-Montpellier,FRA-L1,18-19,4648d0c8
+6690ef25,Pedro Mendes,5,POR,CB,28-235,90,0,0,0,0,1,0,0,0,49,3,3,2,0.0,0.0,0.0,0,0,25,35,71.4,5,25,0,1,1,Montpellier,2019-05-24 Marseille-Montpellier,FRA-L1,18-19,4648d0c8
+2fa2a875,Benjamin Lecomte,40,FRA,GK,28-028,90,0,0,0,0,0,0,0,0,33,0,0,0,0.0,0.0,0.0,0,0,22,31,71.0,0,16,0,0,0,Montpellier,2019-05-24 Marseille-Montpellier,FRA-L1,18-19,4648d0c8

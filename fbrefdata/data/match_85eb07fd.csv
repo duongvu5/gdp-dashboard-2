@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+d2416c2e,Yussuf Poulsen,9,DEN,FW,25-091,80,0,0,0,0,0,0,0,0,28,1,0,2,0.0,0.0,0.4,6,1,12,19,63.2,4,14,2,2,2,RB Leipzig,2019-09-14 RB Leipzig-Bayern Munich,GER-BL1,19-20,85eb07fd
+dc62b55d,Matheus Cunha,20,BRA,FW,20-110,10,0,0,0,0,0,0,0,0,11,0,1,0,0.0,0.0,0.0,0,0,9,9,100.0,1,7,1,1,1,RB Leipzig,2019-09-14 RB Leipzig-Bayern Munich,GER-BL1,19-20,85eb07fd
+49fe9070,Timo Werner,11,GER,"FW,LW",23-192,90,0,0,0,0,6,2,0,0,31,0,0,0,0.5,0.5,0.1,4,1,14,21,66.7,5,27,0,2,1,RB Leipzig,2019-09-14 RB Leipzig-Bayern Munich,GER-BL1,19-20,85eb07fd
+e280527c,Marcel Sabitzer,7,AUT,"RM,RW",25-181,90,0,0,0,0,2,1,1,0,48,5,2,0,0.1,0.1,0.1,5,0,25,36,69.4,3,30,5,1,0,RB Leipzig,2019-09-14 RB Leipzig-Bayern Munich,GER-BL1,19-20,85eb07fd
+8ff2354e,Marcel Halstenberg,23,GER,"LB,LM",27-352,90,0,0,0,0,1,0,1,0,53,3,4,0,0.1,0.1,0.0,0,0,30,39,76.9,2,26,3,1,1,RB Leipzig,2019-09-14 RB Leipzig-Bayern Munich,GER-BL1,19-20,85eb07fd
+9a2e0ccc,Emil Forsberg,10,SWE,"CM,LM",27-326,68,1,0,1,1,0,0,0,0,32,1,2,1,0.8,0.0,0.0,2,0,17,24,70.8,4,22,1,1,1,RB Leipzig,2019-09-14 RB Leipzig-Bayern Munich,GER-BL1,19-20,85eb07fd
+7c56da38,Christopher Nkunku,18,FRA,LM,21-304,22,0,0,0,0,0,0,1,0,15,1,0,1,0.0,0.0,0.0,0,0,9,10,90.0,0,6,2,2,1,RB Leipzig,2019-09-14 RB Leipzig-Bayern Munich,GER-BL1,19-20,85eb07fd
+c1b7847c,Konrad Laimer,27,AUT,CM,22-110,90,0,0,0,0,0,0,1,0,53,5,1,2,0.0,0.0,0.0,1,0,33,43,76.7,2,37,2,1,1,RB Leipzig,2019-09-14 RB Leipzig-Bayern Munich,GER-BL1,19-20,85eb07fd
+ca8033cb,Lukas Klostermann,16,GER,RM,23-103,45,0,0,0,0,1,0,0,0,26,0,1,1,0.1,0.1,0.0,0,0,12,18,66.7,0,10,0,0,0,RB Leipzig,2019-09-14 RB Leipzig-Bayern Munich,GER-BL1,19-20,85eb07fd
+dc3fa3b5,Diego Demme,31,GER,CM,27-297,45,0,0,0,0,0,0,0,0,36,1,1,1,0.0,0.0,0.0,1,0,24,30,80.0,1,24,0,0,0,RB Leipzig,2019-09-14 RB Leipzig-Bayern Munich,GER-BL1,19-20,85eb07fd
+20030c06,Willi Orban,4,HUN,CB,26-315,90,0,0,0,0,0,0,0,0,42,1,1,0,0.0,0.0,0.0,1,0,31,33,93.9,0,21,0,0,0,RB Leipzig,2019-09-14 RB Leipzig-Bayern Munich,GER-BL1,19-20,85eb07fd
+5ed9b537,Ibrahima Konaté,6,FRA,CB,20-112,90,0,0,0,0,0,0,0,0,43,1,2,1,0.0,0.0,0.0,0,0,29,33,87.9,2,23,0,3,3,RB Leipzig,2019-09-14 RB Leipzig-Bayern Munich,GER-BL1,19-20,85eb07fd
+ac73ec79,Nordi Mukiele,22,FRA,"RB,CB",21-317,90,0,0,0,0,1,1,0,0,65,4,3,1,0.1,0.1,0.1,2,0,29,46,63.0,6,34,1,5,0,RB Leipzig,2019-09-14 RB Leipzig-Bayern Munich,GER-BL1,19-20,85eb07fd
+bcb2ccd8,Péter Gulácsi,1,HUN,GK,29-131,90,0,0,0,0,0,0,0,0,39,0,0,0,0.0,0.0,0.0,0,0,23,35,65.7,0,21,0,0,0,RB Leipzig,2019-09-14 RB Leipzig-Bayern Munich,GER-BL1,19-20,85eb07fd
+8d78e732,Robert Lewandowski,9,POL,FW,31-024,90,1,0,0,0,5,3,1,0,41,0,0,0,0.7,0.7,0.0,2,0,20,28,71.4,2,21,3,6,4,Bayern Munich,2019-09-14 RB Leipzig-Bayern Munich,GER-BL1,19-20,85eb07fd
+88e357ef,Serge Gnabry,22,GER,LW,24-062,61,0,0,0,0,1,1,0,0,36,4,1,1,0.0,0.0,0.0,0,0,23,24,95.8,1,21,2,0,0,Bayern Munich,2019-09-14 RB Leipzig-Bayern Munich,GER-BL1,19-20,85eb07fd
+d781d855,Alphonso Davies,19,CAN,LW,18-316,29,0,0,0,0,0,0,0,0,22,1,1,0,0.0,0.0,0.1,2,0,9,15,60.0,0,8,1,2,2,Bayern Munich,2019-09-14 RB Leipzig-Bayern Munich,GER-BL1,19-20,85eb07fd
+042e8a49,Kingsley Coman,29,FRA,RW,23-093,90,0,0,0,0,2,1,0,0,71,0,0,0,0.1,0.1,0.0,3,0,39,57,68.4,2,54,7,11,7,Bayern Munich,2019-09-14 RB Leipzig-Bayern Munich,GER-BL1,19-20,85eb07fd
+3c6089ab,Thomas Müller,25,GER,AM,30-001,62,0,1,0,0,1,0,0,0,38,0,1,1,0.1,0.1,0.4,3,1,24,32,75.0,5,15,3,1,1,Bayern Munich,2019-09-14 RB Leipzig-Bayern Munich,GER-BL1,19-20,85eb07fd
+652d4c37,Corentin Tolisso,24,FRA,AM,25-042,28,0,0,0,0,1,1,0,0,28,0,0,1,0.1,0.1,0.0,2,0,20,23,87.0,3,14,0,3,2,Bayern Munich,2019-09-14 RB Leipzig-Bayern Munich,GER-BL1,19-20,85eb07fd
+77e84962,Thiago Alcántara,6,ESP,DM,28-156,87,0,0,0,0,0,0,0,0,96,2,1,1,0.0,0.0,0.0,2,0,83,88,94.3,8,57,3,5,3,Bayern Munich,2019-09-14 RB Leipzig-Bayern Munich,GER-BL1,19-20,85eb07fd
+0ef89a37,Philippe Coutinho,10,BRA,DM,27-094,3,0,0,0,0,0,0,0,0,4,1,0,0,0.0,0.0,0.0,0,0,2,3,66.7,2,2,0,0,0,Bayern Munich,2019-09-14 RB Leipzig-Bayern Munich,GER-BL1,19-20,85eb07fd
+49296448,Joshua Kimmich,32,GER,DM,24-218,90,0,0,0,0,0,0,0,0,117,2,0,3,0.0,0.0,0.7,7,0,96,105,91.4,12,70,3,3,1,Bayern Munich,2019-09-14 RB Leipzig-Bayern Munich,GER-BL1,19-20,85eb07fd
+c3ee18ef,Lucas Hernández,21,FRA,LB,23-212,90,0,0,0,0,1,0,0,0,98,2,0,0,0.0,0.0,0.0,2,0,72,89,80.9,3,50,1,2,1,Bayern Munich,2019-09-14 RB Leipzig-Bayern Munich,GER-BL1,19-20,85eb07fd
+2db2fd7b,Jérôme Boateng,17,GER,CB,31-011,90,0,0,0,0,0,0,1,0,108,0,3,1,0.0,0.0,0.0,1,0,89,102,87.3,4,59,0,0,0,Bayern Munich,2019-09-14 RB Leipzig-Bayern Munich,GER-BL1,19-20,85eb07fd
+e33c06cf,Niklas Süle,4,GER,CB,24-011,90,0,0,0,0,3,1,0,0,113,1,2,1,0.4,0.4,0.0,0,0,95,104,91.3,2,69,0,0,0,Bayern Munich,2019-09-14 RB Leipzig-Bayern Munich,GER-BL1,19-20,85eb07fd
+45a03961,Benjamin Pavard,5,FRA,RB,23-170,90,0,0,0,0,0,0,0,0,120,1,2,2,0.0,0.0,0.0,0,0,97,109,89.0,9,56,2,0,0,Bayern Munich,2019-09-14 RB Leipzig-Bayern Munich,GER-BL1,19-20,85eb07fd
+8778c910,Manuel Neuer,1,GER,GK,33-171,90,0,0,0,0,0,0,0,0,51,0,0,0,0.0,0.0,0.0,0,0,46,48,95.8,0,29,0,0,0,Bayern Munich,2019-09-14 RB Leipzig-Bayern Munich,GER-BL1,19-20,85eb07fd

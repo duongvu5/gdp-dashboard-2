@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+3bb7f478,Edin Džeko,9,BIH,FW,33-270,90,1,0,0,0,5,2,0,0,32,0,0,1,1.0,1.0,0.0,3,1,12,18,66.7,3,18,3,1,0,Roma,2019-12-12 Roma-Wolfsberger AC,UEL,19-20,f49eca39
+a40d5a0c,Diego Perotti,8,ARG,LW,31-139,66,1,1,1,1,0,0,0,0,37,1,0,1,0.8,0.0,0.5,2,1,20,29,69.0,1,22,3,2,1,Roma,2019-12-12 Roma-Wolfsberger AC,UEL,19-20,f49eca39
+9907b1c8,Nicolò Zaniolo,22,ITA,RW,20-163,24,0,0,0,0,1,0,0,0,13,1,0,1,0.0,0.0,0.2,2,0,5,6,83.3,2,12,1,2,2,Roma,2019-12-12 Roma-Wolfsberger AC,UEL,19-20,f49eca39
+1880614f,Cengiz Ünder,17,TUR,RW,22-151,65,0,0,0,0,4,1,0,0,27,0,0,0,0.2,0.2,0.0,1,0,9,15,60.0,3,18,2,7,6,Roma,2019-12-12 Roma-Wolfsberger AC,UEL,19-20,f49eca39
+4a5a45c7,Lorenzo Pellegrini,7,ITA,AM,23-176,25,0,0,0,0,0,0,0,0,21,3,0,0,0.0,0.0,0.1,4,0,9,16,56.3,1,6,1,2,1,Roma,2019-12-12 Roma-Wolfsberger AC,UEL,19-20,f49eca39
+dd0daf32,Henrikh Mkhitaryan,77,ARM,"AM,LW",30-325,90,0,0,0,0,1,0,0,0,62,3,1,1,0.1,0.1,0.1,3,1,35,48,72.9,2,28,3,5,3,Roma,2019-12-12 Roma-Wolfsberger AC,UEL,19-20,f49eca39
+bf309d24,Amadou Diawara,42,GUI,DM,22-148,90,0,0,0,0,0,0,1,0,55,5,1,0,0.0,0.0,0.0,2,1,38,47,80.9,2,22,0,1,1,Roma,2019-12-12 Roma-Wolfsberger AC,UEL,19-20,f49eca39
+4a56052c,Jordan Veretout,21,FRA,DM,26-286,90,0,0,0,0,1,0,0,0,53,0,1,0,0.0,0.0,0.0,4,0,35,46,76.1,7,26,2,2,2,Roma,2019-12-12 Roma-Wolfsberger AC,UEL,19-20,f49eca39
+3626daea,Leonardo Spinazzola,37,ITA,LB,26-262,90,0,0,0,0,0,0,0,0,95,2,1,1,0.0,0.0,0.0,1,0,62,84,73.8,3,43,6,6,3,Roma,2019-12-12 Roma-Wolfsberger AC,UEL,19-20,f49eca39
+4e358a2d,Federico Fazio,20,ARG,CB,32-270,90,0,0,0,0,2,2,0,0,82,2,3,1,0.1,0.1,0.0,2,0,62,69,89.9,0,26,1,1,1,Roma,2019-12-12 Roma-Wolfsberger AC,UEL,19-20,f49eca39
+5aa53281,Gianluca Mancini,23,ITA,CB,23-239,90,0,0,0,0,1,0,0,0,53,2,3,1,0.0,0.0,0.0,2,0,37,41,90.2,0,24,0,0,0,Roma,2019-12-12 Roma-Wolfsberger AC,UEL,19-20,f49eca39
+e288d4b3,Alessandro Florenzi,24,ITA,RB,28-276,90,0,0,0,0,0,0,0,0,78,3,2,2,0.0,0.0,0.5,4,0,45,65,69.2,6,28,0,1,1,Roma,2019-12-12 Roma-Wolfsberger AC,UEL,19-20,f49eca39
+30223b33,Antonio Mirante,83,ITA,GK,36-157,61,0,0,0,0,0,0,0,0,36,0,0,0,0.0,0.0,0.0,0,0,29,34,85.3,0,13,0,0,0,Roma,2019-12-12 Roma-Wolfsberger AC,UEL,19-20,f49eca39
+20b9f052,Pau López,13,ESP,GK,24-364,29,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,5,8,62.5,0,2,0,0,0,Roma,2019-12-12 Roma-Wolfsberger AC,UEL,19-20,f49eca39
+ecc10d95,Anderson Gniangbo,21,CIV,FW,20-067,89,0,0,0,0,4,1,0,0,41,0,1,1,0.2,0.2,0.0,3,1,21,28,75.0,2,30,3,3,2,Wolfsberger AC,2019-12-12 Roma-Wolfsberger AC,UEL,19-20,f49eca39
+58797f45,Joshua Steiger,17,AUT,FW,18-250,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Wolfsberger AC,2019-12-12 Roma-Wolfsberger AC,UEL,19-20,f49eca39
+379dc075,Shon Weissman,9,ISR,FW,23-301,89,1,0,0,0,3,1,0,0,22,0,0,0,0.6,0.6,0.0,1,0,15,17,88.2,1,10,0,1,1,Wolfsberger AC,2019-12-12 Roma-Wolfsberger AC,UEL,19-20,f49eca39
+275f52fc,Amar Hodzić,30,AUT,FW,20-153,1,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,0,0,0,0,Wolfsberger AC,2019-12-12 Roma-Wolfsberger AC,UEL,19-20,f49eca39
+c54ea7f0,Michael Liendl,10,AUT,AM,34-048,90,0,1,0,0,1,1,0,0,70,1,0,2,0.0,0.0,0.3,5,1,44,62,71.0,6,41,0,0,0,Wolfsberger AC,2019-12-12 Roma-Wolfsberger AC,UEL,19-20,f49eca39
+70cb75ae,Christopher Wernitznig,24,AUT,LM,29-291,75,0,0,0,0,0,0,1,0,34,3,1,0,0.0,0.0,0.0,0,0,14,21,66.7,1,16,2,2,0,Wolfsberger AC,2019-12-12 Roma-Wolfsberger AC,UEL,19-20,f49eca39
+301b1e4c,Lukas Schöfl,23,AUT,LM,18-304,15,0,0,0,0,0,0,0,0,4,0,1,0,0.0,0.0,0.0,0,0,2,3,66.7,0,2,1,0,0,Wolfsberger AC,2019-12-12 Roma-Wolfsberger AC,UEL,19-20,f49eca39
+352ca5eb,Sven Sprangler,19,AUT,CM,24-260,90,0,0,0,0,0,0,0,0,58,3,2,1,0.0,0.0,0.0,0,0,35,40,87.5,6,21,1,1,1,Wolfsberger AC,2019-12-12 Roma-Wolfsberger AC,UEL,19-20,f49eca39
+220ace7e,Romano Schmid,11,AUT,RM,19-319,90,0,0,0,0,0,0,0,0,46,1,0,2,0.0,0.0,0.0,2,0,24,34,70.6,2,18,2,3,1,Wolfsberger AC,2019-12-12 Roma-Wolfsberger AC,UEL,19-20,f49eca39
+f11a5b76,Lukas Schmitz,7,GER,LB,31-060,90,0,0,0,0,1,0,0,0,67,1,1,1,0.0,0.0,0.1,4,0,43,59,72.9,8,25,1,0,0,Wolfsberger AC,2019-12-12 Roma-Wolfsberger AC,UEL,19-20,f49eca39
+dbf3e08b,Nemanja Rnić,15,SRB,CB,35-073,90,0,0,0,0,0,0,1,0,78,0,1,0,0.0,0.0,0.0,1,0,53,65,81.5,3,28,1,0,0,Wolfsberger AC,2019-12-12 Roma-Wolfsberger AC,UEL,19-20,f49eca39
+97810d55,Michael Sollbauer,26,AUT,CB,29-211,90,0,0,0,0,0,0,0,0,61,5,0,0,0.0,0.0,0.0,1,0,42,52,80.8,8,28,1,0,0,Wolfsberger AC,2019-12-12 Roma-Wolfsberger AC,UEL,19-20,f49eca39
+1b192c1f,Michael Novak,27,AUT,RB,28-347,90,0,0,0,0,0,0,0,0,60,3,1,2,0.0,0.0,0.3,1,0,30,49,61.2,2,28,3,3,3,Wolfsberger AC,2019-12-12 Roma-Wolfsberger AC,UEL,19-20,f49eca39
+f42e9f3f,Alexander Kofler,31,AUT,GK,33-036,90,0,0,0,0,0,0,0,0,55,0,0,1,0.0,0.0,0.0,0,0,32,49,65.3,0,24,0,0,0,Wolfsberger AC,2019-12-12 Roma-Wolfsberger AC,UEL,19-20,f49eca39

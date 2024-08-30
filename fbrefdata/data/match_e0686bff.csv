@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+b4cf5806,Sebastian Andersson,10,SWE,FW,28-328,90,0,0,0,0,1,0,0,0,29,1,0,1,0.1,0.1,0.0,2,0,12,19,63.2,2,16,1,2,0,Union Berlin,2020-06-07 Union Berlin-Schalke 04,GER-BL1,19-20,e0686bff
+99be8fb5,Anthony Ujah,11,NGA,FW,29-237,77,0,1,0,0,1,1,0,0,22,2,0,0,0.4,0.4,0.4,3,2,11,16,68.8,3,7,2,1,1,Union Berlin,2020-06-07 Union Berlin-Schalke 04,GER-BL1,19-20,e0686bff
+4b6dd263,Joshua Mees,8,GER,FW,24-053,13,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,1,4,25.0,0,3,0,0,0,Union Berlin,2020-06-07 Union Berlin-Schalke 04,GER-BL1,19-20,e0686bff
+f3722c97,Yunus Mallı,18,TUR,AM,28-104,68,0,0,0,0,1,1,0,0,26,1,1,2,0.4,0.4,0.5,2,0,13,18,72.2,1,17,1,0,0,Union Berlin,2020-06-07 Union Berlin-Schalke 04,GER-BL1,19-20,e0686bff
+924f9191,Grischa Prömel,21,GER,"CM,FW",25-150,22,0,0,0,0,0,0,0,0,13,0,0,0,0.0,0.0,0.0,1,0,9,12,75.0,2,7,0,0,0,Union Berlin,2020-06-07 Union Berlin-Schalke 04,GER-BL1,19-20,e0686bff
+a4f94a0d,Christian Gentner,34,GER,CM,34-298,77,0,0,0,0,0,0,0,0,58,4,2,2,0.0,0.0,0.0,1,0,26,44,59.1,8,23,5,1,1,Union Berlin,2020-06-07 Union Berlin-Schalke 04,GER-BL1,19-20,e0686bff
+271b8617,Marcus Ingvartsen,32,DEN,AM,24-155,13,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,4,5,80.0,0,1,0,0,0,Union Berlin,2020-06-07 Union Berlin-Schalke 04,GER-BL1,19-20,e0686bff
+e0b113a7,Robert Andrich,30,GER,CM,25-259,90,1,0,0,0,1,1,1,0,38,2,1,3,0.4,0.4,0.0,0,0,21,30,70.0,5,16,2,1,1,Union Berlin,2020-06-07 Union Berlin-Schalke 04,GER-BL1,19-20,e0686bff
+ab5b7dc1,Marius Bülter,15,GER,WB,27-070,90,0,0,0,0,1,1,0,0,75,4,2,4,0.0,0.0,0.4,1,0,27,51,52.9,2,38,8,9,5,Union Berlin,2020-06-07 Union Berlin-Schalke 04,GER-BL1,19-20,e0686bff
+056d2d95,Christopher Trimmel,28,AUT,WB,33-104,90,0,0,0,0,1,0,1,0,67,1,0,1,0.0,0.0,0.3,6,0,40,62,64.5,2,27,3,1,0,Union Berlin,2020-06-07 Union Berlin-Schalke 04,GER-BL1,19-20,e0686bff
+e87ad81a,Florian Hübner,19,GER,CB,29-098,90,0,0,0,0,3,0,0,0,34,1,0,1,1.0,1.0,0.2,1,0,17,25,68.0,3,12,0,0,0,Union Berlin,2020-06-07 Union Berlin-Schalke 04,GER-BL1,19-20,e0686bff
+f6bdc830,Keven Schlotterbeck,31,GER,CB,23-040,90,0,0,0,0,1,1,0,0,53,1,1,1,0.2,0.2,0.0,0,0,33,48,68.8,2,13,0,1,1,Union Berlin,2020-06-07 Union Berlin-Schalke 04,GER-BL1,19-20,e0686bff
+b77f44a4,Marvin Friedrich,5,GER,CB,24-177,90,0,0,0,0,2,0,1,0,43,1,1,0,0.2,0.2,0.0,4,0,27,36,75.0,3,22,1,0,0,Union Berlin,2020-06-07 Union Berlin-Schalke 04,GER-BL1,19-20,e0686bff
+17376543,Rafał Gikiewicz,1,POL,GK,32-225,90,0,0,0,0,0,0,0,0,27,0,0,0,0.0,0.0,0.0,0,0,21,27,77.8,0,18,0,0,0,Union Berlin,2020-06-07 Union Berlin-Schalke 04,GER-BL1,19-20,e0686bff
+867501bf,Benito Raman,9,BEL,FW,25-213,59,0,0,0,0,0,0,0,0,16,1,0,0,0.0,0.0,0.0,1,0,7,13,53.8,1,9,1,0,0,Schalke 04,2020-06-07 Union Berlin-Schalke 04,GER-BL1,19-20,e0686bff
+beda9675,Ahmed Kutucu,15,TUR,FW,20-098,31,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,2,4,50.0,0,3,1,0,0,Schalke 04,2020-06-07 Union Berlin-Schalke 04,GER-BL1,19-20,e0686bff
+8e235926,Michael Gregoritsch,11,AUT,FW,26-050,90,0,0,0,0,1,0,0,0,37,0,1,0,0.1,0.1,0.1,2,0,18,31,58.1,3,14,0,0,0,Schalke 04,2020-06-07 Union Berlin-Schalke 04,GER-BL1,19-20,e0686bff
+33144cc5,Rabbi Matondo,14,WAL,AM,19-272,82,0,0,0,0,1,0,0,0,40,0,0,1,0.1,0.1,0.0,1,0,19,29,65.5,2,27,2,5,3,Schalke 04,2020-06-07 Union Berlin-Schalke 04,GER-BL1,19-20,e0686bff
+541127d5,Nassim Boujellab,16,MAR,AM,20-353,8,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,3,0,0,0,Schalke 04,2020-06-07 Union Berlin-Schalke 04,GER-BL1,19-20,e0686bff
+106bca06,Alessandro Schöpf,28,AUT,LM,26-121,90,0,0,0,0,0,0,0,0,51,1,0,2,0.0,0.0,0.1,2,1,36,45,80.0,1,25,2,0,0,Schalke 04,2020-06-07 Union Berlin-Schalke 04,GER-BL1,19-20,e0686bff
+d1273f09,Daniel Caligiuri,18,ITA,RM,32-144,90,0,1,0,0,0,0,0,0,57,4,1,3,0.0,0.0,0.0,1,1,28,40,70.0,5,27,3,4,2,Schalke 04,2020-06-07 Union Berlin-Schalke 04,GER-BL1,19-20,e0686bff
+791abba1,Salif Sané,26,SEN,DM,29-287,90,0,0,0,0,0,0,0,0,41,0,3,1,0.0,0.0,0.0,0,0,22,32,68.8,1,17,0,2,1,Schalke 04,2020-06-07 Union Berlin-Schalke 04,GER-BL1,19-20,e0686bff
+ead61f73,Juan Miranda,3,ESP,LB,20-140,90,0,0,0,0,0,0,1,0,59,2,2,2,0.0,0.0,0.0,0,0,31,47,66.0,0,34,2,0,0,Schalke 04,2020-06-07 Union Berlin-Schalke 04,GER-BL1,19-20,e0686bff
+d1661819,Bastian Oczipka,24,GER,CB,31-147,90,0,0,0,0,0,0,0,0,58,2,0,0,0.0,0.0,0.0,0,0,40,53,75.5,1,34,0,0,0,Schalke 04,2020-06-07 Union Berlin-Schalke 04,GER-BL1,19-20,e0686bff
+2d61d13a,Ozan Kabak,4,TUR,CB,20-074,90,0,0,0,0,0,0,0,0,50,1,2,1,0.0,0.0,0.0,0,0,31,39,79.5,0,25,0,0,0,Schalke 04,2020-06-07 Union Berlin-Schalke 04,GER-BL1,19-20,e0686bff
+099e666f,Jonjoe Kenny,20,ENG,RB,23-084,88,1,0,0,0,2,1,0,0,76,0,1,3,0.1,0.1,0.0,0,0,47,64,73.4,6,44,3,2,1,Schalke 04,2020-06-07 Union Berlin-Schalke 04,GER-BL1,19-20,e0686bff
+543ddcaf,Timo Becker,31,GER,RB,23-074,2,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,4,7,57.1,0,1,0,2,1,Schalke 04,2020-06-07 Union Berlin-Schalke 04,GER-BL1,19-20,e0686bff
+afb0c500,Alexander Nübel,35,GER,GK,23-251,90,0,0,0,0,0,0,0,0,48,0,0,0,0.0,0.0,0.0,1,0,29,47,61.7,0,32,0,0,0,Schalke 04,2020-06-07 Union Berlin-Schalke 04,GER-BL1,19-20,e0686bff

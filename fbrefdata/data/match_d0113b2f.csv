@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+1f44ac21,Erling Haaland,9,NOR,FW,20-305,90,2,0,0,0,3,2,0,0,20,0,0,0,0.7,0.7,0.1,2,1,11,14,78.6,1,8,0,3,3,Dortmund,2021-05-22 Dortmund-Leverkusen,GER-BL1,20-21,d0113b2f
+36a3ff67,Marco Reus,11,GER,LW,31-356,62,1,0,0,0,2,1,0,0,55,0,0,1,0.1,0.1,0.0,2,0,38,46,82.6,4,28,1,2,2,Dortmund,2021-05-22 Dortmund-Leverkusen,GER-BL1,20-21,d0113b2f
+dbf053da,Jadon Sancho,7,ENG,LW,21-058,28,0,0,0,0,1,0,0,0,14,0,0,1,0.1,0.1,0.0,4,0,8,10,80.0,2,11,2,4,3,Dortmund,2021-05-22 Dortmund-Leverkusen,GER-BL1,20-21,d0113b2f
+a167537f,Julian Brandt,19,GER,RW,25-020,90,0,0,0,0,0,0,0,0,62,1,0,2,0.0,0.0,0.0,3,2,40,48,83.3,8,38,5,2,1,Dortmund,2021-05-22 Dortmund-Leverkusen,GER-BL1,20-21,d0113b2f
+6b21b7b5,Reinier,20,BRA,AM,19-123,78,0,1,0,0,0,0,0,0,47,2,0,3,0.0,0.0,0.2,3,1,31,39,79.5,4,24,5,0,0,Dortmund,2021-05-22 Dortmund-Leverkusen,GER-BL1,20-21,d0113b2f
+7fa4e703,Gio Reyna,32,USA,AM,18-190,12,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,2,0,0,0,Dortmund,2021-05-22 Dortmund-Leverkusen,GER-BL1,20-21,d0113b2f
+fe641c1a,Thomas Delaney,6,DEN,DM,29-261,90,0,0,0,0,0,0,0,0,77,3,2,1,0.0,0.0,0.0,0,0,60,69,87.0,0,30,0,0,0,Dortmund,2021-05-22 Dortmund-Leverkusen,GER-BL1,20-21,d0113b2f
+db4ed67b,Mahmoud Dahoud,8,GER,DM,25-141,44,0,0,0,0,0,0,0,0,50,3,1,0,0.0,0.0,0.0,0,0,41,46,89.1,3,29,0,1,1,Dortmund,2021-05-22 Dortmund-Leverkusen,GER-BL1,20-21,d0113b2f
+57d88cf9,Jude Bellingham,22,ENG,DM,17-327,46,0,0,0,0,2,0,0,0,36,1,0,1,0.1,0.1,0.0,0,0,28,31,90.3,1,21,0,2,2,Dortmund,2021-05-22 Dortmund-Leverkusen,GER-BL1,20-21,d0113b2f
+fa274d97,Nico Schulz,14,GER,LB,28-051,90,0,0,0,0,0,0,0,0,78,2,1,1,0.0,0.0,0.1,3,1,55,72,76.4,2,35,4,1,0,Dortmund,2021-05-22 Dortmund-Leverkusen,GER-BL1,20-21,d0113b2f
+a65ce836,Emre Can,23,GER,CB,27-130,90,0,0,0,0,0,0,0,0,82,0,1,2,0.0,0.0,0.0,0,0,68,73,93.2,1,55,0,1,0,Dortmund,2021-05-22 Dortmund-Leverkusen,GER-BL1,20-21,d0113b2f
+89ac64a6,Manuel Akanji,16,SUI,CB,25-307,62,0,0,0,0,0,0,0,0,54,0,1,0,0.0,0.0,0.0,0,0,49,52,94.2,1,46,0,0,0,Dortmund,2021-05-22 Dortmund-Leverkusen,GER-BL1,20-21,d0113b2f
+05d548d8,Mats Hummels,15,GER,CB,32-157,28,0,0,0,0,0,0,0,0,18,0,0,0,0.0,0.0,0.0,0,0,16,17,94.1,0,12,0,0,0,Dortmund,2021-05-22 Dortmund-Leverkusen,GER-BL1,20-21,d0113b2f
+fe2db476,Łukasz Piszczek,26,POL,RB,35-353,74,0,0,0,0,1,0,0,0,51,1,1,1,0.0,0.0,0.0,0,0,37,46,80.4,0,23,1,0,0,Dortmund,2021-05-22 Dortmund-Leverkusen,GER-BL1,20-21,d0113b2f
+5c899683,Felix Passlack,30,GER,RB,22-358,16,0,0,0,0,0,0,0,0,12,0,0,1,0.0,0.0,0.0,0,0,7,8,87.5,0,6,1,1,0,Dortmund,2021-05-22 Dortmund-Leverkusen,GER-BL1,20-21,d0113b2f
+9d12e142,Roman Bürki,1,SUI,GK,30-189,90,0,0,0,0,0,0,0,0,52,0,0,0,0.0,0.0,0.0,0,0,41,48,85.4,0,33,0,0,0,Dortmund,2021-05-22 Dortmund-Leverkusen,GER-BL1,20-21,d0113b2f
+53070b63,Paulinho,7,BRA,FW,20-311,65,0,0,0,0,3,1,0,0,37,0,0,0,0.2,0.2,0.0,1,0,24,29,82.8,2,25,1,1,1,Bayer Leverkusen,2021-05-22 Dortmund-Leverkusen,GER-BL1,20-21,d0113b2f
+62f94e47,Emrehan Gedikli,37,GER,FW,18-027,25,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,1,0,3,4,75.0,1,3,0,0,0,Bayer Leverkusen,2021-05-22 Dortmund-Leverkusen,GER-BL1,20-21,d0113b2f
+4468ec10,Demarai Gray,28,JAM,LW,24-328,90,0,0,0,0,3,1,0,0,38,0,2,1,0.3,0.3,0.2,5,0,20,28,71.4,5,25,8,2,1,Bayer Leverkusen,2021-05-22 Dortmund-Leverkusen,GER-BL1,20-21,d0113b2f
+bee0bab1,Karim Bellarabi,38,GER,RW,31-044,72,0,0,0,0,4,2,0,0,61,2,1,2,0.2,0.2,0.2,6,0,39,47,83.0,2,46,3,5,3,Bayer Leverkusen,2021-05-22 Dortmund-Leverkusen,GER-BL1,20-21,d0113b2f
+aeed5c06,Moussa Diaby,19,FRA,RW,21-319,18,0,0,0,0,0,0,0,0,14,1,1,1,0.0,0.0,0.1,2,1,11,11,100.0,1,9,0,0,0,Bayer Leverkusen,2021-05-22 Dortmund-Leverkusen,GER-BL1,20-21,d0113b2f
+e7fcf289,Florian Wirtz,27,GER,AM,18-019,65,0,0,0,0,0,0,0,0,42,0,0,0,0.0,0.0,0.1,4,0,28,36,77.8,4,17,1,2,1,Bayer Leverkusen,2021-05-22 Dortmund-Leverkusen,GER-BL1,20-21,d0113b2f
+5d4f7d61,Patrik Schick,14,CZE,AM,25-118,25,0,0,0,0,1,0,0,0,8,0,0,0,0.1,0.1,0.1,2,1,5,7,71.4,0,4,1,0,0,Bayer Leverkusen,2021-05-22 Dortmund-Leverkusen,GER-BL1,20-21,d0113b2f
+56413b1f,Charles Aránguiz,20,CHI,DM,32-035,88,0,0,0,0,0,0,0,0,64,0,1,1,0.0,0.0,0.0,3,0,56,60,93.3,11,43,1,1,1,Bayer Leverkusen,2021-05-22 Dortmund-Leverkusen,GER-BL1,20-21,d0113b2f
+69374ff5,Julian Baumgartlinger,15,AUT,DM,33-140,2,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Bayer Leverkusen,2021-05-22 Dortmund-Leverkusen,GER-BL1,20-21,d0113b2f
+54b4dc4e,Kerem Demirbay,10,GER,DM,27-323,90,0,0,0,0,3,1,0,0,77,2,0,2,0.1,0.1,0.0,4,0,50,64,78.1,9,43,4,3,2,Bayer Leverkusen,2021-05-22 Dortmund-Leverkusen,GER-BL1,20-21,d0113b2f
+f9acca3a,Wendell,18,BRA,LB,27-306,90,0,0,0,0,0,0,0,0,59,3,2,1,0.0,0.0,0.0,1,0,41,50,82.0,3,33,3,0,0,Bayer Leverkusen,2021-05-22 Dortmund-Leverkusen,GER-BL1,20-21,d0113b2f
+070ec0b1,Sven Bender,5,GER,CB,32-025,88,0,0,0,0,1,1,0,0,54,0,2,0,0.0,0.0,0.0,1,0,47,48,97.9,4,34,0,1,1,Bayer Leverkusen,2021-05-22 Dortmund-Leverkusen,GER-BL1,20-21,d0113b2f
+c50281a0,Lars Bender,8,GER,CB,32-025,2,1,0,1,1,0,0,0,0,1,0,0,0,0.8,0.0,0.0,0,0,0,0,,0,0,0,0,0,Bayer Leverkusen,2021-05-22 Dortmund-Leverkusen,GER-BL1,20-21,d0113b2f
+6fd8a334,Aleksandar Dragović,6,AUT,CB,30-077,90,0,0,0,0,0,0,0,0,62,0,0,1,0.0,0.0,0.0,0,0,53,57,93.0,5,37,0,0,0,Bayer Leverkusen,2021-05-22 Dortmund-Leverkusen,GER-BL1,20-21,d0113b2f
+bd142efb,Jonathan Tah,4,GER,RB,25-100,90,0,0,0,0,0,0,0,0,91,1,1,0,0.0,0.0,0.0,0,0,75,84,89.3,6,52,2,0,0,Bayer Leverkusen,2021-05-22 Dortmund-Leverkusen,GER-BL1,20-21,d0113b2f
+ad3389d5,Lukáš Hrádecký,1,FIN,GK,31-179,90,0,0,0,0,0,0,0,0,30,0,0,0,0.0,0.0,0.0,0,0,27,29,93.1,0,15,0,0,0,Bayer Leverkusen,2021-05-22 Dortmund-Leverkusen,GER-BL1,20-21,d0113b2f

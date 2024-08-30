@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+3bd65247,Eliesse Ben Seghir,44,MAR,FW,18-045,56,1,0,0,0,1,1,0,0,27,1,0,0,0.1,0.1,0.1,2,1,15,20,75.0,3,21,0,1,0,Monaco,2023-04-02 Monaco-Strasbourg,FRA-L1,22-23,87a8aadf
+64f69877,Kevin Volland,31,GER,FW,30-246,34,0,1,0,0,0,0,0,0,15,0,0,2,0.0,0.0,0.1,1,1,4,10,40.0,0,9,0,0,0,Monaco,2023-04-02 Monaco-Strasbourg,FRA-L1,22-23,87a8aadf
+942b4f90,Wissam Ben Yedder,10,FRA,FW,32-233,79,0,0,0,0,4,2,0,0,34,1,0,0,0.3,0.3,0.0,0,0,17,26,65.4,5,28,3,2,1,Monaco,2023-04-02 Monaco-Strasbourg,FRA-L1,22-23,87a8aadf
+15944afd,Eliot Matazo,15,BEL,FW,21-046,11,0,0,0,0,0,0,0,0,4,1,0,0,0.0,0.0,0.0,0,0,3,3,100.0,1,3,0,0,0,Monaco,2023-04-02 Monaco-Strasbourg,FRA-L1,22-23,87a8aadf
+3708e9fa,Aleksandr Golovin,17,RUS,LM,26-307,89,0,1,0,0,0,0,0,0,33,0,0,2,0.0,0.0,0.4,6,2,21,30,70.0,5,22,2,1,1,Monaco,2023-04-02 Monaco-Strasbourg,FRA-L1,22-23,87a8aadf
+cf1ef7ec,Chrislain Matsima,34,FRA,LM,20-322,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Monaco,2023-04-02 Monaco-Strasbourg,FRA-L1,22-23,87a8aadf
+489e80e3,Mohamed Camara,4,MLI,CM,23-086,90,0,0,0,0,0,0,1,0,57,2,0,1,0.0,0.0,0.0,0,0,34,47,72.3,3,41,1,2,1,Monaco,2023-04-02 Monaco-Strasbourg,FRA-L1,22-23,87a8aadf
+822d51d7,Youssouf Fofana,19,FRA,CM,24-082,77,1,0,0,0,1,1,2,1,49,0,2,0,0.1,0.1,0.0,1,1,40,42,95.2,2,39,3,1,1,Monaco,2023-04-02 Monaco-Strasbourg,FRA-L1,22-23,87a8aadf
+ee45fd85,Vanderson,2,BRA,RM,21-285,90,1,0,0,0,1,1,0,0,65,5,1,0,0.4,0.4,0.1,2,1,32,50,64.0,3,44,1,6,2,Monaco,2023-04-02 Monaco-Strasbourg,FRA-L1,22-23,87a8aadf
+30af8b93,Caio Henrique Oliveira Silva,12,BRA,LB,25-245,55,0,0,0,0,0,0,0,0,53,0,1,1,0.0,0.0,0.1,2,1,42,52,80.8,5,44,1,1,1,Monaco,2023-04-02 Monaco-Strasbourg,FRA-L1,22-23,87a8aadf
+a0415710,Ismail Jakobs,14,SEN,LB,23-228,35,0,0,0,0,0,0,0,0,25,0,0,0,0.0,0.0,0.0,0,0,15,22,68.2,1,15,0,0,0,Monaco,2023-04-02 Monaco-Strasbourg,FRA-L1,22-23,87a8aadf
+d9764034,Guillermo Maripán,3,CHI,CB,28-331,90,0,0,0,0,1,0,0,0,54,2,2,2,0.1,0.1,0.0,1,1,28,32,87.5,2,27,0,0,0,Monaco,2023-04-02 Monaco-Strasbourg,FRA-L1,22-23,87a8aadf
+ad82197c,Axel Disasi,6,FRA,CB,25-022,90,0,0,0,0,0,0,0,0,52,0,3,0,0.0,0.0,0.0,0,0,33,45,73.3,0,29,0,0,0,Monaco,2023-04-02 Monaco-Strasbourg,FRA-L1,22-23,87a8aadf
+3dd738a1,Ruben Aguilar,26,FRA,RB,29-341,45,0,0,0,0,0,0,0,0,51,0,0,1,0.0,0.0,0.0,0,0,41,49,83.7,10,32,1,0,0,Monaco,2023-04-02 Monaco-Strasbourg,FRA-L1,22-23,87a8aadf
+37143438,Edan Diop,42,FRA,RB,18-217,45,1,0,0,0,1,1,0,0,29,2,2,1,0.4,0.4,0.0,0,0,9,19,47.4,1,18,1,2,1,Monaco,2023-04-02 Monaco-Strasbourg,FRA-L1,22-23,87a8aadf
+afb0c500,Alexander Nübel,16,GER,GK,26-184,90,0,0,0,0,0,0,0,0,44,0,0,0,0.0,0.0,0.0,0,0,29,42,69.0,0,31,0,0,0,Monaco,2023-04-02 Monaco-Strasbourg,FRA-L1,22-23,87a8aadf
+6605d143,Habib Diallo,20,SEN,FW,27-288,90,1,0,0,0,4,1,0,0,37,2,0,1,1.0,1.0,0.0,0,0,15,22,68.2,1,26,2,1,0,Strasbourg,2023-04-02 Monaco-Strasbourg,FRA-L1,22-23,87a8aadf
+3eaf8817,Lebo Mothiba,12,RSA,FW,27-064,69,1,0,0,0,1,1,0,0,23,0,0,2,0.1,0.1,0.1,1,0,13,15,86.7,2,11,1,1,0,Strasbourg,2023-04-02 Monaco-Strasbourg,FRA-L1,22-23,87a8aadf
+c5908bc4,Nordine Kandil,34,FRA,FW,21-153,21,0,1,0,0,1,0,0,0,23,0,0,0,0.1,0.1,0.7,3,1,15,19,78.9,2,19,5,3,2,Strasbourg,2023-04-02 Monaco-Strasbourg,FRA-L1,22-23,87a8aadf
+8332db56,Thomas Delaine,3,FRA,LW,31-009,77,0,1,0,0,1,1,0,0,52,2,6,0,0.0,0.0,0.1,2,1,24,38,63.2,2,31,3,6,3,Strasbourg,2023-04-02 Monaco-Strasbourg,FRA-L1,22-23,87a8aadf
+2ccd89a3,Eduard Sobol,77,UKR,LW,27-347,13,0,0,0,0,0,0,0,0,20,0,0,1,0.0,0.0,0.0,3,0,16,16,100.0,1,19,1,2,2,Strasbourg,2023-04-02 Monaco-Strasbourg,FRA-L1,22-23,87a8aadf
+6d0fe035,Habib Diarra,19,SEN,RW,19-089,90,0,0,0,0,0,0,1,0,54,1,0,1,0.0,0.0,0.2,3,1,38,47,80.9,3,39,6,1,0,Strasbourg,2023-04-02 Monaco-Strasbourg,FRA-L1,22-23,87a8aadf
+10f0fdd3,Jean-Ricner Bellegarde,17,FRA,CM,24-279,81,0,0,0,0,0,0,0,0,47,0,0,2,0.0,0.0,0.0,2,1,27,36,75.0,4,29,2,1,0,Strasbourg,2023-04-02 Monaco-Strasbourg,FRA-L1,22-23,87a8aadf
+51c30111,Sanjin Prcić,14,BIH,CM,29-133,9,0,0,0,0,1,1,0,0,25,1,0,0,0.0,0.0,0.1,1,0,21,23,91.3,5,24,3,0,0,Strasbourg,2023-04-02 Monaco-Strasbourg,FRA-L1,22-23,87a8aadf
+6e7f1353,Morgan Sanson,8,FRA,CM,28-227,90,0,0,0,0,3,1,0,0,59,1,4,0,0.2,0.2,0.1,2,0,30,43,69.8,2,43,2,1,0,Strasbourg,2023-04-02 Monaco-Strasbourg,FRA-L1,22-23,87a8aadf
+48b28bfd,Jean-Eudes Aholou,6,CIV,DM,29-013,69,0,0,0,0,0,0,0,0,35,4,1,1,0.0,0.0,0.0,2,0,18,23,78.3,4,21,1,1,1,Strasbourg,2023-04-02 Monaco-Strasbourg,FRA-L1,22-23,87a8aadf
+0f8418aa,Ibrahima Sissoko,27,MLI,DM,25-157,21,0,0,0,0,1,1,0,0,19,2,0,0,0.0,0.0,0.0,1,0,13,15,86.7,1,13,1,0,0,Strasbourg,2023-04-02 Monaco-Strasbourg,FRA-L1,22-23,87a8aadf
+5d8d7454,Frederic Guilbert,32,FRA,CB,28-099,90,0,0,0,0,1,0,0,0,82,3,4,1,0.0,0.0,0.0,2,0,56,70,80.0,4,45,1,1,0,Strasbourg,2023-04-02 Monaco-Strasbourg,FRA-L1,22-23,87a8aadf
+6043997c,Gerzino Nyamsi,22,FRA,CB,26-070,90,0,0,0,0,0,0,0,0,56,1,1,2,0.0,0.0,0.0,0,0,32,46,69.6,4,33,2,2,1,Strasbourg,2023-04-02 Monaco-Strasbourg,FRA-L1,22-23,87a8aadf
+0512a60a,Ismaël Doukouré,29,FRA,CB,19-252,90,0,0,0,0,0,0,0,0,51,0,2,1,0.0,0.0,0.0,1,0,32,42,76.2,4,40,3,5,4,Strasbourg,2023-04-02 Monaco-Strasbourg,FRA-L1,22-23,87a8aadf
+834b5c4c,Matz Sels,1,BEL,GK,31-035,90,0,0,0,0,0,0,0,0,29,0,0,0,0.0,0.0,0.0,0,0,20,26,76.9,0,22,0,0,0,Strasbourg,2023-04-02 Monaco-Strasbourg,FRA-L1,22-23,87a8aadf

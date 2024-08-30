@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+a820e429,Arthur Cabral,98,BRA,FW,21-196,72,1,0,0,0,2,1,0,0,21,0,0,0,0.4,0.4,0.0,0,0,5,10,50.0,0,12,1,2,1,Basel,2019-11-07 Basel-Getafe,UEL,19-20,90b1fcf1
+b3c14bff,Kemal Ademi,99,SUI,FW,23-288,18,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,2,4,50.0,0,7,0,0,0,Basel,2019-11-07 Basel-Getafe,UEL,19-20,90b1fcf1
+90f3beec,Raoul Petretta,28,ITA,LW,22-228,90,0,1,0,0,0,0,0,0,22,2,1,0,0.0,0.0,0.4,3,1,10,16,62.5,4,16,1,2,0,Basel,2019-11-07 Basel-Getafe,UEL,19-20,90b1fcf1
+34a88e3e,Edon Zhegrova,30,KVX,RW,20-221,87,0,0,0,0,1,0,0,0,41,4,2,2,0.0,0.0,0.4,6,1,20,24,83.3,3,27,2,8,6,Basel,2019-11-07 Basel-Getafe,UEL,19-20,90b1fcf1
+32c016f8,Afimico Pululu,19,FRA,RW,20-229,3,0,0,0,0,0,0,0,0,3,2,0,0,0.0,0.0,0.0,2,0,0,0,,0,1,0,0,0,Basel,2019-11-07 Basel-Getafe,UEL,19-20,90b1fcf1
+9fb640a8,Fabian Frei,20,SUI,AM,30-303,90,1,0,0,0,2,1,0,0,39,0,1,0,0.4,0.4,0.0,2,0,23,31,74.2,5,22,0,2,2,Basel,2019-11-07 Basel-Getafe,UEL,19-20,90b1fcf1
+9c824717,Luca Zuffi,7,SUI,DM,29-225,90,0,0,0,0,0,0,0,0,40,1,0,0,0.0,0.0,0.1,2,0,21,30,70.0,2,17,1,3,1,Basel,2019-11-07 Basel-Getafe,UEL,19-20,90b1fcf1
+ead14875,Taulant Xhaka,34,ALB,DM,28-224,63,0,0,0,0,2,0,1,0,39,0,0,0,0.1,0.1,0.1,3,0,30,34,88.2,5,23,0,0,0,Basel,2019-11-07 Basel-Getafe,UEL,19-20,90b1fcf1
+28b76e67,Samuele Campo,10,SUI,DM,24-124,27,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,0,7,0.0,0,3,0,0,0,Basel,2019-11-07 Basel-Getafe,UEL,19-20,90b1fcf1
+87d8b5a3,Blas Riveros,15,PAR,LB,21-277,90,0,0,0,0,3,2,1,0,42,1,0,1,0.1,0.1,0.0,1,0,20,31,64.5,3,20,3,9,5,Basel,2019-11-07 Basel-Getafe,UEL,19-20,90b1fcf1
+bb08bce9,Omar Alderete,6,PAR,CB,22-316,90,0,0,0,0,0,0,0,0,51,1,2,3,0.0,0.0,0.0,0,0,22,33,66.7,0,28,0,0,0,Basel,2019-11-07 Basel-Getafe,UEL,19-20,90b1fcf1
+15937e17,Eray Cömert,4,SUI,CB,21-276,90,0,0,0,0,1,0,0,0,52,2,1,2,0.4,0.4,0.0,0,0,34,37,91.9,0,24,0,1,1,Basel,2019-11-07 Basel-Getafe,UEL,19-20,90b1fcf1
+f68b64fc,Silvan Widmer,5,SUI,RB,26-247,90,0,1,0,0,2,0,0,0,70,1,1,3,0.6,0.6,0.4,3,1,35,50,70.0,3,31,5,4,2,Basel,2019-11-07 Basel-Getafe,UEL,19-20,90b1fcf1
+c631f952,Jonas Omlin,1,SUI,GK,25-301,90,0,0,0,0,0,0,0,0,36,0,0,0,0.0,0.0,0.0,0,0,21,35,60.0,0,16,0,0,0,Basel,2019-11-07 Basel-Getafe,UEL,19-20,90b1fcf1
+82e9b89d,Enric Gallego,10,ESP,FW,33-056,90,0,0,0,0,2,0,1,0,34,0,0,0,0.1,0.1,0.0,4,0,12,21,57.1,5,15,0,0,0,Getafe,2019-11-07 Basel-Getafe,UEL,19-20,90b1fcf1
+02319ad7,Jaime Mata,7,ESP,FW,31-014,90,1,0,1,1,0,0,0,0,38,1,0,2,0.8,0.0,0.0,3,1,17,30,56.7,2,24,0,0,0,Getafe,2019-11-07 Basel-Getafe,UEL,19-20,90b1fcf1
+37e103f8,Hugo Duro,26,ESP,LM,19-362,67,0,0,0,0,2,1,0,0,21,0,0,1,0.5,0.5,0.0,1,1,8,14,57.1,0,11,1,2,2,Getafe,2019-11-07 Basel-Getafe,UEL,19-20,90b1fcf1
+5eebbfdf,Kenedy,25,BRA,LM,23-272,23,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,0,0,3,8,37.5,0,11,1,4,4,Getafe,2019-11-07 Basel-Getafe,UEL,19-20,90b1fcf1
+174651c8,David Timor,24,ESP,CM,30-021,67,0,0,0,0,0,0,0,0,39,3,0,0,0.0,0.0,0.0,1,0,24,32,75.0,3,21,0,0,0,Getafe,2019-11-07 Basel-Getafe,UEL,19-20,90b1fcf1
+97572117,Allan Nyom,12,CMR,CM,31-181,23,0,0,0,0,0,0,0,0,13,1,0,0,0.0,0.0,0.0,0,0,6,9,66.7,0,5,1,0,0,Getafe,2019-11-07 Basel-Getafe,UEL,19-20,90b1fcf1
+79135368,Fayçal Fajr,21,MAR,CM,31-098,78,0,0,0,0,2,0,0,0,45,1,3,0,0.1,0.1,0.3,2,0,25,38,65.8,3,22,1,0,0,Getafe,2019-11-07 Basel-Getafe,UEL,19-20,90b1fcf1
+8cfc2f69,Ángel Rodríguez,9,ESP,CM,32-195,12,0,0,0,0,0,0,0,0,4,1,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,2,0,0,0,Getafe,2019-11-07 Basel-Getafe,UEL,19-20,90b1fcf1
+8e010ff4,Francisco Portillo,8,ESP,RM,29-147,90,0,0,0,0,1,0,0,0,40,4,0,0,0.0,0.0,1.2,4,0,25,32,78.1,8,24,0,1,1,Getafe,2019-11-07 Basel-Getafe,UEL,19-20,90b1fcf1
+1a317a1b,Raúl García,14,ESP,LB,30-191,90,0,0,0,0,0,0,0,0,75,5,0,3,0.0,0.0,0.0,1,0,36,61,59.0,6,30,1,2,2,Getafe,2019-11-07 Basel-Getafe,UEL,19-20,90b1fcf1
+41c12f75,Mathías Olivera,17,URU,CB,22-007,90,0,0,0,0,2,0,0,0,58,3,0,2,0.3,0.3,0.0,0,0,35,48,72.9,3,34,1,0,0,Getafe,2019-11-07 Basel-Getafe,UEL,19-20,90b1fcf1
+f11fe861,Bruno González,4,ESP,CB,29-167,90,0,0,0,0,0,0,0,0,49,2,1,0,0.0,0.0,0.0,1,0,36,40,90.0,1,25,0,0,0,Getafe,2019-11-07 Basel-Getafe,UEL,19-20,90b1fcf1
+00b28772,Nemanja Maksimović,20,SRB,RB,24-285,90,0,0,0,0,1,0,0,0,52,4,3,1,0.8,0.8,0.0,1,0,29,37,78.4,1,24,0,1,0,Getafe,2019-11-07 Basel-Getafe,UEL,19-20,90b1fcf1
+8d957256,Leandro Chichizola,1,ARG,GK,29-225,90,0,0,0,0,0,0,0,0,34,0,0,0,0.0,0.0,0.0,0,0,19,34,55.9,0,24,0,0,0,Getafe,2019-11-07 Basel-Getafe,UEL,19-20,90b1fcf1

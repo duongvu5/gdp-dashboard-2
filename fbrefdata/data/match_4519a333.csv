@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+daa11a4f,Andy Logbo,20,FRA,FW,19-120,62,0,0,0,0,2,0,0,0,13,0,0,2,0.1,0.1,0.0,1,0,5,7,71.4,0,7,0,1,0,Le Havre,2023-09-03 Le Havre-Lorient,FRA-L1,23-24,4519a333
+f9124307,Antoine Joujou,21,FRA,LW,20-175,28,0,2,0,0,1,0,0,0,14,1,0,0,0.0,0.0,0.2,5,3,9,11,81.8,1,10,2,1,1,Le Havre,2023-09-03 Le Havre-Lorient,FRA-L1,23-24,4519a333
+b386310a,Nabil Alioui,10,FRA,"LW,FW",24-197,87,1,0,0,0,3,1,0,0,39,0,0,0,0.2,0.2,0.1,1,0,14,27,51.9,0,27,0,1,0,Le Havre,2023-09-03 Le Havre-Lorient,FRA-L1,23-24,4519a333
+01870104,Mohamed Lamine Bayo,9,GUI,FW,25-091,3,0,0,0,0,1,0,0,0,6,0,0,0,0.3,0.3,0.0,1,0,5,5,100.0,1,6,1,2,2,Le Havre,2023-09-03 Le Havre-Lorient,FRA-L1,23-24,4519a333
+c3b6fa1e,Loïc Nego,7,HUN,RW,32-231,87,0,1,0,0,2,1,0,0,38,1,0,0,0.4,0.4,0.5,2,1,25,33,75.8,3,30,2,1,0,Le Havre,2023-09-03 Le Havre-Lorient,FRA-L1,23-24,4519a333
+9f29c204,Oualid El Hajjam,17,MAR,RW,32-196,3,0,0,0,0,0,0,0,0,12,0,0,0,0.0,0.0,0.3,2,0,10,10,100.0,0,9,0,2,2,Le Havre,2023-09-03 Le Havre-Lorient,FRA-L1,23-24,4519a333
+d4e93bab,Daler Kuzyaev,14,RUS,AM,30-231,87,1,0,0,0,3,2,0,0,47,0,0,0,0.7,0.7,0.1,3,1,36,40,90.0,6,35,3,0,0,Le Havre,2023-09-03 Le Havre-Lorient,FRA-L1,23-24,4519a333
+6c9642ae,Nolan Mbemba,18,CGO,AM,28-196,3,1,0,0,0,1,1,0,0,11,0,0,0,0.0,0.0,0.0,1,1,7,10,70.0,2,9,0,0,0,Le Havre,2023-09-03 Le Havre-Lorient,FRA-L1,23-24,4519a333
+abefc3af,Yassine Kechta,8,MAR,DM,21-190,71,0,0,0,0,1,1,0,0,40,6,0,2,0.0,0.0,0.0,1,0,23,29,79.3,3,26,3,1,1,Le Havre,2023-09-03 Le Havre-Lorient,FRA-L1,23-24,4519a333
+36f65bdf,Rassoul Ndiaye,19,SEN,DM,21-266,19,0,0,0,0,1,0,0,0,23,1,1,0,0.0,0.0,0.0,1,0,19,20,95.0,2,17,1,0,0,Le Havre,2023-09-03 Le Havre-Lorient,FRA-L1,23-24,4519a333
+ef7cd87a,Abdoulaye Touré,94,GUI,DM,29-184,90,0,0,0,0,1,0,0,0,65,1,1,0,0.1,0.1,0.0,3,0,51,59,86.4,10,56,2,1,1,Le Havre,2023-09-03 Le Havre-Lorient,FRA-L1,23-24,4519a333
+914bb955,Christopher Operi,27,CIV,LB,26-127,90,0,0,0,0,0,0,0,0,66,1,1,1,0.0,0.0,0.3,3,0,51,61,83.6,3,46,1,0,0,Le Havre,2023-09-03 Le Havre-Lorient,FRA-L1,23-24,4519a333
+ac89503b,Gautier Lloris,4,FRA,CB,28-047,90,0,0,0,0,0,0,0,0,55,1,1,4,0.0,0.0,0.0,1,0,40,44,90.9,3,42,1,1,0,Le Havre,2023-09-03 Le Havre-Lorient,FRA-L1,23-24,4519a333
+17bb562c,Arouna Sangante,93,SEN,CB,21-144,90,0,0,0,0,0,0,0,0,60,2,0,0,0.0,0.0,0.0,2,0,49,55,89.1,2,49,1,0,0,Le Havre,2023-09-03 Le Havre-Lorient,FRA-L1,23-24,4519a333
+c3725db2,Yoann Salmier,22,GUF,RB,30-286,90,0,0,0,0,1,0,0,0,61,0,2,0,0.1,0.1,0.0,2,0,44,52,84.6,3,46,0,0,0,Le Havre,2023-09-03 Le Havre-Lorient,FRA-L1,23-24,4519a333
+e8c5dd4d,Arthur Desmas,30,FRA,GK,29-149,90,0,0,0,0,0,0,0,0,24,0,0,0,0.0,0.0,0.0,0,0,17,23,73.9,0,18,0,0,0,Le Havre,2023-09-03 Le Havre-Lorient,FRA-L1,23-24,4519a333
+92d90c8f,Siriné Doucouré,29,MLI,FW,21-148,61,0,0,0,0,1,0,0,0,20,0,0,0,0.1,0.1,0.1,1,0,7,9,77.8,1,13,2,1,1,Lorient,2023-09-03 Le Havre-Lorient,FRA-L1,23-24,4519a333
+b2fe86e5,Eli Junior Kroupi,22,FRA,AM,17-072,29,0,0,0,0,1,1,0,0,8,0,0,0,0.2,0.2,0.0,0,0,5,5,100.0,0,7,1,0,0,Lorient,2023-09-03 Le Havre-Lorient,FRA-L1,23-24,4519a333
+7d827b4f,Pablo Pagis,26,FRA,AM,20-248,61,0,0,0,0,3,1,0,0,41,3,1,1,0.1,0.1,0.0,2,0,25,30,83.3,2,33,1,1,1,Lorient,2023-09-03 Le Havre-Lorient,FRA-L1,23-24,4519a333
+9c4f39b3,Tosin Aiyegun,27,BEN,FW,25-069,29,0,0,0,0,0,0,0,0,7,1,0,0,0.0,0.0,0.0,0,0,3,5,60.0,0,4,0,2,2,Lorient,2023-09-03 Le Havre-Lorient,FRA-L1,23-24,4519a333
+745ca0a3,Romain Faivre,14,FRA,AM,25-051,90,0,0,0,0,2,0,0,0,51,0,0,0,0.1,0.1,0.2,4,0,41,44,93.2,7,39,5,5,3,Lorient,2023-09-03 Le Havre-Lorient,FRA-L1,23-24,4519a333
+e546b2e3,Julien Ponceau,21,FRA,CM,22-279,71,0,0,0,0,1,0,0,0,62,0,1,1,0.1,0.1,0.0,2,0,46,53,86.8,6,53,3,1,1,Lorient,2023-09-03 Le Havre-Lorient,FRA-L1,23-24,4519a333
+afe39ca8,Théo Le Bris,37,FRA,CM,20-337,19,0,0,0,0,0,0,0,0,14,0,0,0,0.0,0.0,0.0,0,0,9,12,75.0,1,12,1,1,1,Lorient,2023-09-03 Le Havre-Lorient,FRA-L1,23-24,4519a333
+31626657,Laurent Abergel,19,FRA,CM,30-214,90,0,0,0,0,0,0,0,0,80,0,0,2,0.0,0.0,0.2,3,0,68,75,90.7,5,71,0,1,1,Lorient,2023-09-03 Le Havre-Lorient,FRA-L1,23-24,4519a333
+2321ea6e,Vincent Le Goff,25,FRA,WB,33-323,71,0,0,0,0,0,0,0,0,47,0,0,1,0.0,0.0,0.1,2,0,37,43,86.0,3,39,1,1,1,Lorient,2023-09-03 Le Havre-Lorient,FRA-L1,23-24,4519a333
+061266cd,Darlin Yongwa,12,CMR,WB,22-346,19,0,0,0,0,0,0,0,0,8,0,1,0,0.0,0.0,0.0,0,0,4,7,57.1,1,7,1,0,0,Lorient,2023-09-03 Le Havre-Lorient,FRA-L1,23-24,4519a333
+dd211559,Gedeon Kalulu,24,COD,"CB,WB",26-005,90,0,0,0,0,0,0,0,0,81,2,1,1,0.0,0.0,0.1,3,0,65,71,91.5,6,62,0,0,0,Lorient,2023-09-03 Le Havre-Lorient,FRA-L1,23-24,4519a333
+a4a44eb0,Montassar Talbi,3,TUN,CB,25-100,90,0,0,0,0,0,0,0,0,91,1,0,0,0.0,0.0,0.0,0,0,82,87,94.3,7,79,2,1,1,Lorient,2023-09-03 Le Havre-Lorient,FRA-L1,23-24,4519a333
+f066022d,Julien Laporte,15,FRA,CB,29-303,90,0,0,0,0,0,0,0,0,101,1,1,3,0.0,0.0,0.0,0,0,85,90,94.4,6,83,1,0,0,Lorient,2023-09-03 Le Havre-Lorient,FRA-L1,23-24,4519a333
+c21983bf,Formose Mendy,13,SEN,CB,22-244,45,0,0,0,0,0,0,0,0,45,0,0,1,0.0,0.0,0.0,0,0,34,42,81.0,2,35,0,0,0,Lorient,2023-09-03 Le Havre-Lorient,FRA-L1,23-24,4519a333
+fcb9b1f8,Dembo Sylla,20,GUI,WB,20-297,45,0,0,0,0,1,0,0,0,28,1,1,0,0.1,0.1,0.0,0,0,19,22,86.4,1,21,0,0,0,Lorient,2023-09-03 Le Havre-Lorient,FRA-L1,23-24,4519a333
+dc29b608,Yvon Mvogo,38,SUI,GK,29-089,90,0,0,0,0,0,0,0,0,37,0,0,0,0.0,0.0,0.0,0,0,31,35,88.6,0,25,0,0,0,Lorient,2023-09-03 Le Havre-Lorient,FRA-L1,23-24,4519a333

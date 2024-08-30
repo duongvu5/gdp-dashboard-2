@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+a820e429,Arthur Cabral,9,BRA,FW,23-343,90,0,0,0,0,3,1,0,0,26,2,0,0,0.3,0.3,0.0,1,0,12,17,70.6,1,13,0,1,0,Fiorentina,2022-04-03 Fiorentina-Empoli,ITA-SERIA_A,21-22,5562ffe2
+3bb7af3b,Riccardo Saponara,8,ITA,LW,30-103,76,0,0,0,0,3,2,0,0,45,2,0,0,0.2,0.2,0.1,7,0,26,37,70.3,8,33,7,5,3,Fiorentina,2022-04-03 Fiorentina-Empoli,ITA-SERIA_A,21-22,5562ffe2
+94816803,Riccardo Sottil,33,ITA,LW,22-304,14,0,0,0,0,0,0,0,0,14,0,0,0,0.0,0.0,0.1,1,0,7,9,77.8,0,11,3,2,0,Fiorentina,2022-04-03 Fiorentina-Empoli,ITA-SERIA_A,21-22,5562ffe2
+2374aaca,Nicolás González,22,ARG,RW,23-362,85,1,0,0,0,5,4,0,0,60,2,0,2,0.6,0.6,0.4,8,1,35,41,85.4,7,36,5,3,1,Fiorentina,2022-04-03 Fiorentina-Empoli,ITA-SERIA_A,21-22,5562ffe2
+78841da9,José Callejón,7,ESP,RW,35-051,5,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.1,1,0,4,6,66.7,0,2,1,0,0,Fiorentina,2022-04-03 Fiorentina-Empoli,ITA-SERIA_A,21-22,5562ffe2
+528492ea,Alfred Duncan,32,GHA,LM,29-024,90,0,0,0,0,2,0,0,0,54,2,0,0,0.2,0.2,0.1,5,0,42,49,85.7,10,43,0,1,1,Fiorentina,2022-04-03 Fiorentina-Empoli,ITA-SERIA_A,21-22,5562ffe2
+52611641,Lucas Torreira,18,URU,CM,26-051,70,0,0,0,0,3,1,1,0,41,1,1,1,0.1,0.1,0.0,3,0,35,36,97.2,6,26,1,0,0,Fiorentina,2022-04-03 Fiorentina-Empoli,ITA-SERIA_A,21-22,5562ffe2
+5a2cb25d,Sofyan Amrabat,34,MAR,CM,25-225,20,0,0,0,0,1,1,0,0,34,0,0,0,0.0,0.0,0.0,2,0,31,32,96.9,5,24,1,1,1,Fiorentina,2022-04-03 Fiorentina-Empoli,ITA-SERIA_A,21-22,5562ffe2
+0728bebe,Gaetano Castrovilli,10,ITA,RM,25-045,85,0,0,0,0,2,0,0,0,67,4,2,2,0.1,0.1,0.1,6,0,47,53,88.7,8,45,4,3,2,Fiorentina,2022-04-03 Fiorentina-Empoli,ITA-SERIA_A,21-22,5562ffe2
+4c8845f7,Youssef Maleh,14,MAR,RM,23-224,5,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,3,4,75.0,0,1,0,0,0,Fiorentina,2022-04-03 Fiorentina-Empoli,ITA-SERIA_A,21-22,5562ffe2
+9e1577aa,Cristiano Biraghi,3,ITA,LB,29-214,85,0,1,0,0,1,1,0,0,83,2,1,1,0.0,0.0,0.5,8,1,65,79,82.3,5,47,2,0,0,Fiorentina,2022-04-03 Fiorentina-Empoli,ITA-SERIA_A,21-22,5562ffe2
+3ef0a2d7,Aleksa Terzić,17,SRB,LB,22-229,5,0,0,0,0,0,0,0,0,12,0,0,0,0.0,0.0,0.0,0,0,7,9,77.8,0,7,0,0,0,Fiorentina,2022-04-03 Fiorentina-Empoli,ITA-SERIA_A,21-22,5562ffe2
+a4e85758,Igor,98,BRA,CB,24-055,90,0,0,0,0,0,0,0,0,60,1,2,0,0.0,0.0,0.0,1,0,50,52,96.2,2,36,2,1,1,Fiorentina,2022-04-03 Fiorentina-Empoli,ITA-SERIA_A,21-22,5562ffe2
+bee704fc,Nikola Milenković,4,SRB,CB,24-173,90,0,0,0,0,2,1,0,0,55,2,0,1,0.1,0.1,0.0,1,0,46,48,95.8,3,30,0,0,0,Fiorentina,2022-04-03 Fiorentina-Empoli,ITA-SERIA_A,21-22,5562ffe2
+983ff2c7,Lorenzo Venuti,23,ITA,RB,26-356,90,0,0,0,0,2,0,0,0,84,1,0,0,0.1,0.1,0.0,1,0,72,77,93.5,5,52,3,0,0,Fiorentina,2022-04-03 Fiorentina-Empoli,ITA-SERIA_A,21-22,5562ffe2
+e1b0a70d,Pietro Terracciano,1,ITA,GK,32-026,90,0,0,0,0,0,0,0,0,42,0,0,0,0.0,0.0,0.0,0,0,35,40,87.5,0,24,0,0,0,Fiorentina,2022-04-03 Fiorentina-Empoli,ITA-SERIA_A,21-22,5562ffe2
+1fca9171,Federico Di Francesco,11,ITA,FW,27-293,60,0,0,0,0,1,0,0,0,14,0,0,0,0.0,0.0,0.0,1,0,6,7,85.7,0,9,1,3,1,Empoli,2022-04-03 Fiorentina-Empoli,ITA-SERIA_A,21-22,5562ffe2
+75438a9a,Mattia Viti,42,ITA,CB,20-069,30,0,0,0,0,0,0,0,0,20,0,1,0,0.0,0.0,0.0,0,0,12,16,75.0,1,10,0,0,0,Empoli,2022-04-03 Fiorentina-Empoli,ITA-SERIA_A,21-22,5562ffe2
+08aa9cd1,Andrea Pinamonti,99,ITA,FW,22-319,90,0,0,0,0,1,0,0,0,24,0,0,1,0.0,0.0,0.0,0,0,12,18,66.7,1,17,0,0,0,Empoli,2022-04-03 Fiorentina-Empoli,ITA-SERIA_A,21-22,5562ffe2
+d7918b13,Liam Henderson,8,SCO,AM,25-343,60,0,0,0,0,1,0,0,0,20,1,0,1,0.0,0.0,0.0,0,0,13,16,81.3,2,11,2,1,0,Empoli,2022-04-03 Fiorentina-Empoli,ITA-SERIA_A,21-22,5562ffe2
+a4fe8cda,Patrick Cutrone,9,ITA,FW,24-090,30,0,0,0,0,0,0,0,0,4,0,0,1,0.0,0.0,0.0,0,0,2,2,100.0,0,1,0,0,0,Empoli,2022-04-03 Fiorentina-Empoli,ITA-SERIA_A,21-22,5562ffe2
+d44360be,Filippo Bandinelli,25,ITA,LM,27-005,76,0,0,0,0,0,0,0,0,28,2,0,0,0.0,0.0,0.0,0,0,14,21,66.7,1,15,3,2,0,Empoli,2022-04-03 Fiorentina-Empoli,ITA-SERIA_A,21-22,5562ffe2
+f42d6c13,Nedim Bajrami,10,ALB,LM,23-034,14,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,0,0,6,8,75.0,2,9,1,0,0,Empoli,2022-04-03 Fiorentina-Empoli,ITA-SERIA_A,21-22,5562ffe2
+92948398,Leo Štulac,5,SVN,CM,27-189,60,0,0,0,0,0,0,0,0,50,1,0,0,0.0,0.0,0.0,2,0,39,49,79.6,4,31,0,1,1,Empoli,2022-04-03 Fiorentina-Empoli,ITA-SERIA_A,21-22,5562ffe2
+0fdcef0e,Kristjan Asllani,23,ALB,CM,20-025,30,0,0,0,0,0,0,0,0,20,0,0,0,0.0,0.0,0.0,0,0,16,17,94.1,1,12,0,0,0,Empoli,2022-04-03 Fiorentina-Empoli,ITA-SERIA_A,21-22,5562ffe2
+4e1d5e59,Szymon Żurkowski,27,POL,RM,24-190,90,0,0,0,0,0,0,0,0,31,0,1,4,0.0,0.0,0.0,1,0,14,16,87.5,0,18,0,0,0,Empoli,2022-04-03 Fiorentina-Empoli,ITA-SERIA_A,21-22,5562ffe2
+dd86e8e4,Liberato Cacace,21,NZL,LB,21-188,90,0,0,0,0,1,0,0,0,48,2,1,0,0.0,0.0,0.0,0,0,26,34,76.5,1,20,0,4,1,Empoli,2022-04-03 Fiorentina-Empoli,ITA-SERIA_A,21-22,5562ffe2
+997fff07,Sebastiano Luperto,33,ITA,CB,25-209,56,0,0,0,0,0,0,2,1,26,1,0,1,0.0,0.0,0.0,0,0,17,18,94.4,0,12,0,0,0,Empoli,2022-04-03 Fiorentina-Empoli,ITA-SERIA_A,21-22,5562ffe2
+8cc29864,Lorenzo Tonelli,26,ITA,CB,32-076,27,0,0,0,0,1,1,0,0,19,0,0,2,0.0,0.0,0.0,1,0,14,16,87.5,0,8,0,0,0,Empoli,2022-04-03 Fiorentina-Empoli,ITA-SERIA_A,21-22,5562ffe2
+6b635f5c,Ardian Ismajli,34,ALB,CB,25-185,63,0,0,0,0,0,0,1,0,45,0,0,1,0.0,0.0,0.0,0,0,32,37,86.5,2,19,1,0,0,Empoli,2022-04-03 Fiorentina-Empoli,ITA-SERIA_A,21-22,5562ffe2
+13b44b02,Petar Stojanović,30,SVN,RB,26-178,90,0,0,0,0,0,0,0,0,42,2,0,0,0.0,0.0,0.0,0,0,18,29,62.1,1,19,1,4,2,Empoli,2022-04-03 Fiorentina-Empoli,ITA-SERIA_A,21-22,5562ffe2
+77d6fd4d,Guglielmo Vicario,13,ITA,GK,25-178,90,0,0,0,0,0,0,0,0,56,1,0,0,0.0,0.0,0.0,0,0,44,53,83.0,0,39,0,0,0,Empoli,2022-04-03 Fiorentina-Empoli,ITA-SERIA_A,21-22,5562ffe2

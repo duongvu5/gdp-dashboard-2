@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+fb485406,Enner Valencia,13,ECU,FW,32-357,90,1,0,0,0,3,1,0,0,43,1,0,0,0.4,0.4,0.0,4,2,17,21,81.0,1,27,4,11,4,Fenerbahçe,2022-10-27 Fenerbahçe-Rennes,UEL,22-23,8db0f2a3
+81255c03,João Pedro,20,ITA,FW,30-232,60,0,0,0,0,1,0,0,0,24,0,0,2,0.0,0.0,0.1,2,0,10,15,66.7,3,14,1,4,2,Fenerbahçe,2022-10-27 Fenerbahçe-Rennes,UEL,22-23,8db0f2a3
+2973d8ff,Michy Batshuayi,23,BEL,FW,29-025,30,0,0,0,0,2,2,0,0,9,0,0,0,0.1,0.1,0.0,0,0,3,4,75.0,0,8,0,2,1,Fenerbahçe,2022-10-27 Fenerbahçe-Rennes,UEL,22-23,8db0f2a3
+27504df8,Lincoln,18,BRA,LW,23-354,77,0,0,0,0,0,0,0,0,51,1,1,1,0.0,0.0,0.2,4,0,34,44,77.3,4,21,0,3,1,Fenerbahçe,2022-10-27 Fenerbahçe-Rennes,UEL,22-23,8db0f2a3
+3741ca58,Arda Güler,10,TUR,LW,17-244,13,0,0,0,0,0,0,0,0,14,0,0,0,0.0,0.0,0.0,0,0,9,13,69.2,0,11,0,1,1,Fenerbahçe,2022-10-27 Fenerbahçe-Rennes,UEL,22-23,8db0f2a3
+03b6afa9,Bright Osayi-Samuel,21,NGA,RW,24-300,90,0,0,0,0,1,0,0,0,77,2,0,0,0.1,0.1,0.0,2,0,58,73,79.5,7,35,5,5,3,Fenerbahçe,2022-10-27 Fenerbahçe-Rennes,UEL,22-23,8db0f2a3
+922dfade,Crespo,27,POR,CM,26-046,90,0,1,0,0,1,0,0,0,68,4,0,1,0.1,0.1,0.2,3,1,49,56,87.5,5,39,1,1,0,Fenerbahçe,2022-10-27 Fenerbahçe-Rennes,UEL,22-23,8db0f2a3
+d2800f47,İrfan Kahveci,17,TUR,CM,27-104,60,0,1,0,0,1,0,1,0,46,3,1,2,0.0,0.0,0.3,5,2,25,33,75.8,6,18,1,0,0,Fenerbahçe,2022-10-27 Fenerbahçe-Rennes,UEL,22-23,8db0f2a3
+0c3f7197,Emre Mor,99,TUR,CM,25-095,30,1,0,0,0,2,1,0,0,26,2,0,3,0.4,0.4,0.0,0,0,12,19,63.2,0,14,3,1,1,Fenerbahçe,2022-10-27 Fenerbahçe-Rennes,UEL,22-23,8db0f2a3
+f47a530a,Willian Arão,5,BRA,DM,29-328,60,0,0,0,0,1,0,1,0,37,0,1,0,0.0,0.0,0.0,2,0,24,31,77.4,3,11,0,1,0,Fenerbahçe,2022-10-27 Fenerbahçe-Rennes,UEL,22-23,8db0f2a3
+83e4643e,Miha Zajc,26,SVN,DM,28-118,30,1,0,0,0,1,1,0,0,29,1,0,0,0.0,0.0,0.0,0,0,26,27,96.3,4,19,0,0,0,Fenerbahçe,2022-10-27 Fenerbahçe-Rennes,UEL,22-23,8db0f2a3
+50ff205b,Attila Szalai,41,HUN,CB,24-280,90,0,0,0,0,0,0,0,0,74,1,1,0,0.0,0.0,0.0,0,0,63,72,87.5,5,40,0,0,0,Fenerbahçe,2022-10-27 Fenerbahçe-Rennes,UEL,22-23,8db0f2a3
+fa066690,Gustavo Henrique,2,BRA,CB,29-217,60,0,0,0,0,0,0,0,0,35,0,1,0,0.0,0.0,0.0,0,0,28,31,90.3,1,16,0,0,0,Fenerbahçe,2022-10-27 Fenerbahçe-Rennes,UEL,22-23,8db0f2a3
+1a7fcf39,Ezgjan Alioski,6,MKD,CB,30-257,30,0,0,0,0,0,0,0,0,44,0,0,0,0.0,0.0,0.2,3,0,35,42,83.3,5,26,1,0,0,Fenerbahçe,2022-10-27 Fenerbahçe-Rennes,UEL,22-23,8db0f2a3
+8e34b9f5,Serdar Aziz,4,TUR,CB,32-004,90,0,0,0,0,1,0,0,0,71,2,0,0,0.0,0.0,0.0,1,0,55,69,79.7,12,31,1,0,0,Fenerbahçe,2022-10-27 Fenerbahçe-Rennes,UEL,22-23,8db0f2a3
+072e68ed,Altay Bayındır,1,TUR,GK,24-196,90,0,0,0,0,0,0,0,0,25,0,0,0,0.0,0.0,0.0,0,0,17,26,65.4,0,14,0,0,0,Fenerbahçe,2022-10-27 Fenerbahçe-Rennes,UEL,22-23,8db0f2a3
+aad56ca3,Amine Gouiri,19,ALG,FW,22-253,83,2,1,0,0,3,2,0,0,30,2,1,2,0.5,0.5,0.4,1,1,15,20,75.0,0,16,0,1,1,Rennes,2022-10-27 Fenerbahçe-Rennes,UEL,22-23,8db0f2a3
+bf4c41f9,Arnaud Kalimuendo,9,FRA,FW,20-280,7,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,4,4,100.0,1,3,1,0,0,Rennes,2022-10-27 Fenerbahçe-Rennes,UEL,22-23,8db0f2a3
+5148dcc5,Martin Terrier,7,FRA,LW,25-237,83,1,0,0,0,1,1,0,0,45,6,0,0,0.4,0.4,0.0,1,1,18,31,58.1,3,19,3,2,1,Rennes,2022-10-27 Fenerbahçe-Rennes,UEL,22-23,8db0f2a3
+a62f8bf1,Kamaldeen Sulemana,10,GHA,LW,20-254,7,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,3,3,100.0,1,6,1,6,3,Rennes,2022-10-27 Fenerbahçe-Rennes,UEL,22-23,8db0f2a3
+20e73fac,Benjamin Bourigeaud,14,FRA,RW,28-286,69,0,1,0,0,0,0,0,0,33,3,0,1,0.0,0.0,0.2,2,1,16,25,64.0,1,20,1,2,0,Rennes,2022-10-27 Fenerbahçe-Rennes,UEL,22-23,8db0f2a3
+b026bbf6,Lorenz Assignon,22,TOG,RW,22-127,21,0,0,0,0,0,0,0,0,7,1,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,3,0,0,0,Rennes,2022-10-27 Fenerbahçe-Rennes,UEL,22-23,8db0f2a3
+a0f9b535,Flavien Tait,20,FRA,LM,29-267,90,0,0,0,0,1,0,0,0,45,2,0,2,0.0,0.0,0.0,1,1,27,32,84.4,1,20,0,2,1,Rennes,2022-10-27 Fenerbahçe-Rennes,UEL,22-23,8db0f2a3
+1df4a109,Lesley Ugochukwu,6,FRA,CM,18-215,90,0,0,0,0,0,0,1,0,37,3,3,1,0.0,0.0,0.0,0,0,23,28,82.1,1,10,0,0,0,Rennes,2022-10-27 Fenerbahçe-Rennes,UEL,22-23,8db0f2a3
+fc46aab1,Lovro Majer,21,CRO,RM,24-283,69,0,0,0,0,1,1,0,0,31,0,0,0,0.0,0.0,0.2,2,0,21,24,87.5,3,14,1,2,0,Rennes,2022-10-27 Fenerbahçe-Rennes,UEL,22-23,8db0f2a3
+9e7483ff,Désiré Doué,33,FRA,RM,17-146,21,0,0,0,0,0,0,1,0,3,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,3,0,2,2,Rennes,2022-10-27 Fenerbahçe-Rennes,UEL,22-23,8db0f2a3
+5d0e0a1f,Adrien Truffert,3,FRA,LB,20-341,90,0,1,0,0,0,0,0,0,61,1,0,2,0.0,0.0,0.1,2,1,37,51,72.5,3,30,2,5,5,Rennes,2022-10-27 Fenerbahçe-Rennes,UEL,22-23,8db0f2a3
+df8d6029,Arthur Theate,5,BEL,CB,22-155,90,0,0,0,0,0,0,0,0,43,3,0,0,0.0,0.0,0.0,0,0,26,34,76.5,0,14,0,0,0,Rennes,2022-10-27 Fenerbahçe-Rennes,UEL,22-23,8db0f2a3
+8d62d31a,Joe Rodon,2,WAL,CB,25-005,90,0,0,0,0,0,0,0,0,31,1,1,3,0.0,0.0,0.0,0,0,16,19,84.2,1,11,0,0,0,Rennes,2022-10-27 Fenerbahçe-Rennes,UEL,22-23,8db0f2a3
+a4b1028a,Hamari Traoré,27,MLI,RB,30-273,90,0,0,0,0,0,0,1,0,40,3,0,0,0.0,0.0,0.0,1,1,23,30,76.7,3,17,1,1,1,Rennes,2022-10-27 Fenerbahçe-Rennes,UEL,22-23,8db0f2a3
+1d2d5cc8,Steve Mandanda,30,FRA,GK,37-213,51,0,0,0,0,0,0,0,0,26,0,0,0,0.0,0.0,0.0,0,0,14,24,58.3,0,9,0,0,0,Rennes,2022-10-27 Fenerbahçe-Rennes,UEL,22-23,8db0f2a3
+9e17ccff,Doğan Alemdar,1,TUR,GK,19-363,39,0,0,0,0,0,0,0,0,14,0,0,0,0.0,0.0,0.0,0,0,4,13,30.8,0,4,0,0,0,Rennes,2022-10-27 Fenerbahçe-Rennes,UEL,22-23,8db0f2a3

@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+ee4f2f3b,Fabio Quagliarella,27,ITA,FW,37-003,74,1,0,0,0,5,2,0,0,26,0,0,0,0.3,0.3,0.0,2,1,11,18,61.1,2,13,0,0,0,Sampdoria,2020-02-03 Sampdoria-Napoli,ITA-SERIA_A,19-20,2b131af8
+bf57eaab,Federico Bonazzoli,9,ITA,FW,22-258,16,0,0,0,0,0,0,0,0,2,1,0,0,0.0,0.0,0.0,0,0,0,0,,0,2,0,0,0,Sampdoria,2020-02-03 Sampdoria-Napoli,ITA-SERIA_A,19-20,2b131af8
+8f866fe8,Manolo Gabbiadini,23,ITA,FW,28-069,90,1,0,1,1,3,2,0,0,21,0,0,0,1.0,0.2,0.7,4,0,8,12,66.7,3,13,2,2,2,Sampdoria,2020-02-03 Sampdoria-Napoli,ITA-SERIA_A,19-20,2b131af8
+1ea5f91c,Jakub Jankto,14,CZE,LM,24-015,78,0,0,0,0,0,0,1,0,40,1,2,6,0.0,0.0,0.2,3,0,17,29,58.6,1,14,1,1,0,Sampdoria,2020-02-03 Sampdoria-Napoli,ITA-SERIA_A,19-20,2b131af8
+75e60d75,Ronaldo Vieira,4,ENG,"CM,RM",21-199,12,0,0,0,0,0,0,0,0,4,1,0,0,0.0,0.0,0.0,0,0,3,4,75.0,0,1,0,0,0,Sampdoria,2020-02-03 Sampdoria-Napoli,ITA-SERIA_A,19-20,2b131af8
+d023d70f,Karol Linetty,7,POL,"CM,LM,RM",25-001,90,0,0,0,0,2,0,1,0,33,5,1,3,0.1,0.1,0.0,2,0,13,21,61.9,1,16,1,0,0,Sampdoria,2020-02-03 Sampdoria-Napoli,ITA-SERIA_A,19-20,2b131af8
+f503ea63,Albin Ekdal,6,SWE,"CM,DM",30-190,90,0,1,0,0,0,0,1,0,45,3,3,0,0.0,0.0,0.1,3,1,31,34,91.2,4,17,0,1,1,Sampdoria,2020-02-03 Sampdoria-Napoli,ITA-SERIA_A,19-20,2b131af8
+2c851997,Gastón Ramírez,11,URU,RM,29-063,67,0,0,0,0,1,0,1,0,37,3,1,0,0.6,0.6,0.0,3,0,21,32,65.6,3,15,1,4,4,Sampdoria,2020-02-03 Sampdoria-Napoli,ITA-SERIA_A,19-20,2b131af8
+e01ca8f4,Gonzalo Maroni,20,ARG,"AM,RM",20-322,23,0,0,0,0,0,0,0,0,10,1,0,0,0.0,0.0,0.0,0,0,4,7,57.1,0,2,0,0,0,Sampdoria,2020-02-03 Sampdoria-Napoli,ITA-SERIA_A,19-20,2b131af8
+3cd3b384,Tommaso Augello,3,ITA,LB,25-157,90,0,0,0,0,0,0,0,0,58,2,1,2,0.0,0.0,0.0,4,1,40,49,81.6,9,29,2,0,0,Sampdoria,2020-02-03 Sampdoria-Napoli,ITA-SERIA_A,19-20,2b131af8
+8b95acda,Omar Colley,15,GAM,CB,27-102,90,0,0,0,0,1,0,0,0,56,3,3,3,0.0,0.0,0.0,0,0,33,43,76.7,1,27,0,0,0,Sampdoria,2020-02-03 Sampdoria-Napoli,ITA-SERIA_A,19-20,2b131af8
+8cc29864,Lorenzo Tonelli,21,ITA,CB,30-017,90,0,0,0,0,0,0,0,0,67,3,1,1,0.0,0.0,0.0,0,0,50,57,87.7,4,35,0,1,1,Sampdoria,2020-02-03 Sampdoria-Napoli,ITA-SERIA_A,19-20,2b131af8
+d1b49282,Morten Thorsby,18,NOR,RB,23-274,90,0,0,0,0,0,0,0,0,50,5,2,1,0.0,0.0,0.0,2,1,23,39,59.0,0,22,0,0,0,Sampdoria,2020-02-03 Sampdoria-Napoli,ITA-SERIA_A,19-20,2b131af8
+649b01d8,Emil Audero,1,ITA,GK,23-016,90,0,0,0,0,0,0,0,0,26,0,0,0,0.0,0.0,0.0,0,0,22,24,91.7,0,13,0,0,0,Sampdoria,2020-02-03 Sampdoria-Napoli,ITA-SERIA_A,19-20,2b131af8
+85613cf0,Arkadiusz Milik,99,POL,FW,25-340,90,1,0,0,0,5,3,0,0,32,2,0,0,0.3,0.3,0.0,1,0,17,23,73.9,0,21,0,0,0,Napoli,2020-02-03 Sampdoria-Napoli,ITA-SERIA_A,19-20,2b131af8
+2f557579,Lorenzo Insigne,24,ITA,"LW,LM",28-244,90,0,0,0,0,6,1,0,0,77,0,1,1,0.3,0.3,0.0,3,1,49,61,80.3,7,52,4,3,1,Napoli,2020-02-03 Sampdoria-Napoli,ITA-SERIA_A,19-20,2b131af8
+78841da9,José Callejón,7,ESP,RW,32-357,71,0,0,0,0,1,0,0,0,52,1,1,1,0.0,0.0,0.1,6,0,38,45,84.4,2,31,1,1,0,Napoli,2020-02-03 Sampdoria-Napoli,ITA-SERIA_A,19-20,2b131af8
+89b2c8a9,Dries Mertens,14,BEL,FW,32-273,19,1,0,0,0,1,1,0,0,10,1,0,0,0.0,0.0,0.0,0,0,4,9,44.4,2,7,0,1,1,Napoli,2020-02-03 Sampdoria-Napoli,ITA-SERIA_A,19-20,2b131af8
+a5296e55,Piotr Zieliński,20,POL,"LM,CM",25-259,90,0,1,0,0,0,0,0,0,59,0,0,0,0.0,0.0,0.1,3,1,46,56,82.1,6,34,2,3,1,Napoli,2020-02-03 Sampdoria-Napoli,ITA-SERIA_A,19-20,2b131af8
+e1cbb531,Stanislav Lobotka,68,SVK,CM,25-070,60,0,0,0,0,0,0,0,0,38,1,0,0,0.0,0.0,0.0,0,0,35,35,100.0,3,29,0,3,2,Napoli,2020-02-03 Sampdoria-Napoli,ITA-SERIA_A,19-20,2b131af8
+dc3fa3b5,Diego Demme,4,GER,CM,28-074,30,1,0,0,0,1,1,1,0,29,0,0,2,0.3,0.3,0.0,0,0,21,25,84.0,1,12,0,0,0,Napoli,2020-02-03 Sampdoria-Napoli,ITA-SERIA_A,19-20,2b131af8
+cf007308,Elif Elmas,12,MKD,RM,20-132,78,1,0,0,0,1,1,1,0,43,0,0,0,0.4,0.4,0.0,3,0,31,37,83.8,1,33,2,2,1,Napoli,2020-02-03 Sampdoria-Napoli,ITA-SERIA_A,19-20,2b131af8
+5e861944,Matteo Politano,21,ITA,RM,26-184,12,0,0,0,0,0,0,1,0,14,1,1,0,0.0,0.0,0.0,0,0,6,10,60.0,1,7,1,1,0,Napoli,2020-02-03 Sampdoria-Napoli,ITA-SERIA_A,19-20,2b131af8
+0b5a292a,Mário Rui,6,POR,LB,28-252,90,0,0,0,0,0,0,0,0,104,1,0,0,0.0,0.0,0.1,6,2,85,99,85.9,12,69,2,1,1,Napoli,2020-02-03 Sampdoria-Napoli,ITA-SERIA_A,19-20,2b131af8
+230a2fac,Giovanni Di Lorenzo,22,ITA,CB,26-183,90,0,1,0,0,0,0,0,0,77,0,0,3,0.0,0.0,0.4,1,1,57,66,86.4,3,41,0,1,1,Napoli,2020-02-03 Sampdoria-Napoli,ITA-SERIA_A,19-20,2b131af8
+c707411f,Kostas Manolas,44,GRE,CB,28-234,90,0,0,0,0,0,0,0,0,69,2,1,1,0.0,0.0,0.0,0,0,54,64,84.4,3,48,0,0,0,Napoli,2020-02-03 Sampdoria-Napoli,ITA-SERIA_A,19-20,2b131af8
+2f3452eb,Elseid Hysaj,23,ALB,RB,25-348,90,0,0,0,0,0,0,0,0,102,1,2,0,0.0,0.0,0.0,2,0,84,94,89.4,12,60,0,1,1,Napoli,2020-02-03 Sampdoria-Napoli,ITA-SERIA_A,19-20,2b131af8
+9413b19f,Alex Meret,1,ITA,GK,22-318,90,0,0,0,0,0,0,0,0,27,0,0,0,0.0,0.0,0.0,0,0,20,25,80.0,0,15,0,0,0,Napoli,2020-02-03 Sampdoria-Napoli,ITA-SERIA_A,19-20,2b131af8

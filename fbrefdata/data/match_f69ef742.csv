@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+3745e8bd,Sebastian Polter,40,GER,FW,30-164,90,0,0,0,0,0,0,0,0,21,1,0,0,0.0,0.0,0.0,1,0,11,16,68.8,4,13,0,0,0,Bochum,2021-09-12 Bochum-Hertha BSC,GER-BL1,21-22,f69ef742
+2979c05a,Gerrit Holtmann,17,PHI,LW,26-171,81,0,0,0,0,2,1,0,0,24,0,0,1,0.1,0.1,0.0,5,1,9,16,56.3,1,16,4,6,4,Bochum,2021-09-12 Bochum-Hertha BSC,GER-BL1,21-22,f69ef742
+0a3f6cde,Christopher Antwi-Adjei,22,GHA,LW,27-217,9,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,5,8,62.5,0,6,2,1,1,Bochum,2021-09-12 Bochum-Hertha BSC,GER-BL1,21-22,f69ef742
+29f7cfd9,Simon Zoller,9,GER,RW,30-078,90,1,0,0,0,1,1,0,0,39,2,2,1,0.7,0.7,0.0,1,0,19,30,63.3,0,18,2,0,0,Bochum,2021-09-12 Bochum-Hertha BSC,GER-BL1,21-22,f69ef742
+70678132,Eduard Löwen,38,GER,AM,24-227,90,0,0,0,0,6,0,0,0,77,3,1,1,0.2,0.2,0.1,3,0,37,57,64.9,3,32,0,1,0,Bochum,2021-09-12 Bochum-Hertha BSC,GER-BL1,21-22,f69ef742
+1ae836b1,Elvis Rexhbeçaj,20,GER,DM,23-315,90,0,0,0,0,0,0,0,0,82,1,2,1,0.0,0.0,0.0,7,0,57,75,76.0,12,55,2,4,4,Bochum,2021-09-12 Bochum-Hertha BSC,GER-BL1,21-22,f69ef742
+07c7eb0c,Anthony Losilla,8,FRA,DM,35-186,62,0,0,0,0,1,1,0,0,32,1,3,0,0.1,0.1,0.0,0,0,16,25,64.0,0,21,1,2,2,Bochum,2021-09-12 Bochum-Hertha BSC,GER-BL1,21-22,f69ef742
+037130ca,Robert Tesche,23,GER,DM,34-108,28,0,0,0,0,0,0,0,0,32,2,1,0,0.0,0.0,0.0,0,0,24,28,85.7,4,26,1,0,0,Bochum,2021-09-12 Bochum-Hertha BSC,GER-BL1,21-22,f69ef742
+c05f2f8c,Danilo Soares,3,BRA,LB,29-318,90,0,0,0,0,3,0,0,0,107,4,1,2,0.1,0.1,0.0,6,0,71,91,78.0,6,71,11,4,2,Bochum,2021-09-12 Bochum-Hertha BSC,GER-BL1,21-22,f69ef742
+a39d11bc,Armel Bella Kotchap,37,GER,CB,19-275,81,0,0,0,0,1,0,0,0,55,1,0,0,0.0,0.0,0.1,2,0,42,48,87.5,5,35,1,1,1,Bochum,2021-09-12 Bochum-Hertha BSC,GER-BL1,21-22,f69ef742
+41df88b8,Saulo Decarli,5,SUI,CB,29-220,9,0,0,0,0,1,1,0,0,7,0,0,0,0.0,0.0,0.0,0,0,6,6,100.0,0,5,0,0,0,Bochum,2021-09-12 Bochum-Hertha BSC,GER-BL1,21-22,f69ef742
+591477c9,Vassilis Lambropoulos,24,GRE,CB,31-165,90,0,0,0,0,0,0,0,0,65,3,1,1,0.0,0.0,0.0,2,0,46,53,86.8,7,41,2,0,0,Bochum,2021-09-12 Bochum-Hertha BSC,GER-BL1,21-22,f69ef742
+861e0116,Kostas Stafylidis,16,GRE,RB,27-284,81,0,0,0,0,3,1,0,0,69,3,1,1,0.1,0.1,0.0,1,0,52,58,89.7,5,39,1,0,0,Bochum,2021-09-12 Bochum-Hertha BSC,GER-BL1,21-22,f69ef742
+5ad8c360,Herbert Bockhorn,11,GER,RB,26-224,9,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,2,0,6,10,60.0,1,7,1,1,1,Bochum,2021-09-12 Bochum-Hertha BSC,GER-BL1,21-22,f69ef742
+9f941969,Manuel Riemann,1,GER,GK,33-003,90,0,0,0,0,0,0,0,0,44,0,0,0,0.0,0.0,0.0,0,0,28,44,63.6,0,33,0,0,0,Bochum,2021-09-12 Bochum-Hertha BSC,GER-BL1,21-22,f69ef742
+ff182fdc,Ishak Belfodil,14,ALG,FW,29-243,72,0,0,0,0,0,0,0,0,28,1,0,0,0.0,0.0,0.0,1,1,8,16,50.0,0,9,1,2,1,Hertha BSC,2021-09-12 Bochum-Hertha BSC,GER-BL1,21-22,f69ef742
+f4ec4fd0,Kevin-Prince Boateng,27,GHA,CM,34-190,18,0,0,0,0,0,0,0,0,10,0,0,1,0.0,0.0,0.0,0,0,3,7,42.9,0,4,0,0,0,Hertha BSC,2021-09-12 Bochum-Hertha BSC,GER-BL1,21-22,f69ef742
+f972644c,Marco Richter,23,GER,AM,23-292,56,0,0,0,0,1,0,0,0,23,0,0,0,0.0,0.0,0.0,0,0,6,10,60.0,0,11,1,3,1,Hertha BSC,2021-09-12 Bochum-Hertha BSC,GER-BL1,21-22,f69ef742
+706a60e1,Myziane Maolida,11,COM,FW,22-210,34,1,0,0,0,1,1,0,0,8,0,0,0,0.1,0.1,0.0,0,0,2,3,66.7,0,7,1,1,0,Hertha BSC,2021-09-12 Bochum-Hertha BSC,GER-BL1,21-22,f69ef742
+b3325a30,Suat Serdar,8,GER,"AM,LM,CM",24-154,90,2,0,0,0,2,2,0,0,28,1,1,1,0.2,0.2,0.0,0,0,10,14,71.4,2,16,1,4,2,Hertha BSC,2021-09-12 Bochum-Hertha BSC,GER-BL1,21-22,f69ef742
+3eb0f2df,Vladimír Darida,6,CZE,"CM,RM",31-035,90,0,2,0,0,0,0,0,0,40,1,1,0,0.0,0.0,0.2,2,2,20,31,64.5,1,16,0,2,2,Hertha BSC,2021-09-12 Bochum-Hertha BSC,GER-BL1,21-22,f69ef742
+71ec39ef,Lucas Tousart,29,FRA,CM,24-136,90,0,0,0,0,1,1,1,0,41,2,3,1,0.0,0.0,0.0,2,0,15,24,62.5,3,9,0,2,1,Hertha BSC,2021-09-12 Bochum-Hertha BSC,GER-BL1,21-22,f69ef742
+6bba916f,Dennis Jastrzembski,30,POL,WB,21-204,45,0,0,0,0,0,0,0,0,37,0,0,0,0.0,0.0,0.0,0,0,20,32,62.5,2,14,1,1,0,Hertha BSC,2021-09-12 Bochum-Hertha BSC,GER-BL1,21-22,f69ef742
+ad2b068c,Linus Gechter,44,GER,CB,17-197,45,0,0,0,0,0,0,0,0,26,4,1,0,0.0,0.0,0.0,1,1,6,13,46.2,0,7,0,0,0,Hertha BSC,2021-09-12 Bochum-Hertha BSC,GER-BL1,21-22,f69ef742
+92948149,Lukas Klünter,13,GER,WB,25-109,31,0,0,0,0,0,0,0,0,10,0,1,0,0.0,0.0,0.0,0,0,4,7,57.1,0,3,0,0,0,Hertha BSC,2021-09-12 Bochum-Hertha BSC,GER-BL1,21-22,f69ef742
+58a2e9f6,Deyovaisio Zeefuik,42,NED,"WB,RB",23-185,59,0,0,0,0,0,0,1,0,34,2,2,3,0.0,0.0,0.0,0,0,14,22,63.6,1,7,0,1,1,Hertha BSC,2021-09-12 Bochum-Hertha BSC,GER-BL1,21-22,f69ef742
+f86cabbd,Jordan Torunarigha,25,GER,CB,24-036,45,0,0,0,0,0,0,0,0,25,0,0,0,0.0,0.0,0.0,0,0,14,19,73.7,0,16,0,0,0,Hertha BSC,2021-09-12 Bochum-Hertha BSC,GER-BL1,21-22,f69ef742
+88d4144a,Maximilian Mittelstädt,17,GER,"WB,LB",24-178,45,0,0,0,0,0,0,1,0,21,0,1,0,0.0,0.0,0.0,0,0,6,11,54.5,0,5,0,0,0,Hertha BSC,2021-09-12 Bochum-Hertha BSC,GER-BL1,21-22,f69ef742
+7c473e12,Dedryck Boyata,4,BEL,CB,30-288,90,0,0,0,0,0,0,0,0,27,0,0,0,0.0,0.0,0.0,0,0,16,19,84.2,0,11,0,0,0,Hertha BSC,2021-09-12 Bochum-Hertha BSC,GER-BL1,21-22,f69ef742
+aad48be9,Niklas Stark,5,GER,CB,26-151,90,0,0,0,0,0,0,0,0,41,1,1,3,0.0,0.0,0.0,0,0,15,23,65.2,0,13,0,1,1,Hertha BSC,2021-09-12 Bochum-Hertha BSC,GER-BL1,21-22,f69ef742
+0d55d942,Alexander Schwolow,1,GER,GK,29-102,90,0,0,0,0,0,0,0,0,46,0,0,0,0.0,0.0,0.0,0,0,23,40,57.5,0,22,0,0,0,Hertha BSC,2021-09-12 Bochum-Hertha BSC,GER-BL1,21-22,f69ef742

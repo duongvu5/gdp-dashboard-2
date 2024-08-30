@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+42fd9c7f,Kylian Mbappé,7,FRA,"FW,LW",21-362,90,1,0,1,1,4,1,1,0,51,0,0,0,1.1,0.3,0.1,7,1,30,37,81.1,2,34,4,7,4,Paris Saint-Germain,2020-12-16 Paris S-G-Lorient,FRA-L1,20-21,60fcfb5f
+3d50bcdb,Moise Kean,18,ITA,FW,20-292,70,1,0,0,0,2,1,1,0,29,0,0,0,0.3,0.3,0.4,1,0,15,20,75.0,1,19,1,4,3,Paris Saint-Germain,2020-12-16 Paris S-G-Lorient,FRA-L1,20-21,60fcfb5f
+19cda00b,Ángel Di María,11,ARG,"RW,FW",32-306,20,0,0,0,0,0,0,0,0,18,0,0,0,0.0,0.0,0.0,0,0,13,16,81.3,2,12,0,1,0,Paris Saint-Germain,2020-12-16 Paris S-G-Lorient,FRA-L1,20-21,60fcfb5f
+436a9dd0,Ander Herrera,21,ESP,"CM,RM",31-124,90,0,0,0,0,2,0,0,0,106,3,1,2,0.1,0.1,0.3,7,0,80,93,86.0,8,75,1,1,1,Paris Saint-Germain,2020-12-16 Paris S-G-Lorient,FRA-L1,20-21,60fcfb5f
+72c812f3,Idrissa Gana Gueye,27,SEN,CM,31-081,75,0,0,0,0,3,1,0,0,110,2,1,2,0.1,0.1,0.0,3,1,90,98,91.8,12,71,2,4,2,Paris Saint-Germain,2020-12-16 Paris S-G-Lorient,FRA-L1,20-21,60fcfb5f
+1a992676,Julian Draxler,23,GER,LM,27-087,15,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.3,1,0,7,10,70.0,1,10,2,0,0,Paris Saint-Germain,2020-12-16 Paris S-G-Lorient,FRA-L1,20-21,60fcfb5f
+0c2ac3cb,Rafinha,12,BRA,CM,27-308,70,0,1,0,0,3,1,0,0,93,2,1,2,0.5,0.5,0.4,11,2,71,80,88.8,8,65,5,3,2,Paris Saint-Germain,2020-12-16 Paris S-G-Lorient,FRA-L1,20-21,60fcfb5f
+45bb4303,Bandiougou Fadiga,37,FRA,"FW,CM",19-336,20,0,0,0,0,1,1,1,0,9,0,0,0,0.0,0.0,0.0,1,0,7,7,100.0,2,9,2,2,1,Paris Saint-Germain,2020-12-16 Paris S-G-Lorient,FRA-L1,20-21,60fcfb5f
+a8567629,Mitchel Bakker,25,NED,WB,20-179,70,0,0,0,0,0,0,0,0,70,4,0,1,0.0,0.0,0.2,3,0,54,61,88.5,7,45,1,2,0,Paris Saint-Germain,2020-12-16 Paris S-G-Lorient,FRA-L1,20-21,60fcfb5f
+1467af0d,Marco Verratti,6,ITA,"CM,WB",28-041,20,0,0,0,0,0,0,0,0,37,1,1,0,0.0,0.0,0.0,2,0,33,34,97.1,4,28,0,1,0,Paris Saint-Germain,2020-12-16 Paris S-G-Lorient,FRA-L1,20-21,60fcfb5f
+e288d4b3,Alessandro Florenzi,24,ITA,"WB,RB",29-280,90,0,0,0,0,4,1,0,0,66,0,0,0,0.1,0.1,0.0,2,0,47,58,81.0,6,47,2,2,0,Paris Saint-Germain,2020-12-16 Paris S-G-Lorient,FRA-L1,20-21,60fcfb5f
+41e7ef1c,Layvin Kurzawa,20,FRA,"CB,LB",28-103,90,0,0,0,0,2,0,0,0,122,3,2,2,0.4,0.4,0.0,1,0,96,108,88.9,7,92,2,1,0,Paris Saint-Germain,2020-12-16 Paris S-G-Lorient,FRA-L1,20-21,60fcfb5f
+8fd9996f,Danilo Pereira,15,POR,CB,29-098,10,0,0,0,0,0,0,0,0,19,0,1,0,0.0,0.0,0.0,0,0,17,17,100.0,0,16,0,0,0,Paris Saint-Germain,2020-12-16 Paris S-G-Lorient,FRA-L1,20-21,60fcfb5f
+f8ce97ca,Timothee Pembele,32,FRA,CB,18-098,80,0,0,0,0,2,1,0,0,64,2,1,0,0.2,0.2,0.0,0,0,55,59,93.2,3,52,4,2,2,Paris Saint-Germain,2020-12-16 Paris S-G-Lorient,FRA-L1,20-21,60fcfb5f
+51dbeea9,Thilo Kehrer,4,GER,CB,24-086,90,0,0,0,0,0,0,0,0,95,1,0,0,0.0,0.0,0.0,1,0,89,92,96.7,6,78,1,1,1,Paris Saint-Germain,2020-12-16 Paris S-G-Lorient,FRA-L1,20-21,60fcfb5f
+5f0241b2,Sergio Rico,16,ESP,GK,27-106,90,0,0,0,0,0,0,0,0,23,0,0,0,0.0,0.0,0.0,0,0,18,19,94.7,0,12,0,0,0,Paris Saint-Germain,2020-12-16 Paris S-G-Lorient,FRA-L1,20-21,60fcfb5f
+065dc209,Terem Moffi,13,NGA,FW,21-205,65,0,0,0,0,1,0,0,0,16,0,0,0,0.1,0.1,0.1,2,0,5,7,71.4,1,12,2,2,1,Lorient,2020-12-16 Paris S-G-Lorient,FRA-L1,20-21,60fcfb5f
+4a987ffa,Adrian Grbić,27,AUT,FW,24-134,25,0,0,0,0,2,0,0,0,14,0,0,1,0.6,0.6,0.0,0,0,5,9,55.6,2,8,0,1,0,Lorient,2020-12-16 Paris S-G-Lorient,FRA-L1,20-21,60fcfb5f
+2500cef9,Yoane Wissa,19,COD,"FW,LM",24-104,65,0,0,0,0,2,2,0,0,18,0,1,1,0.6,0.6,0.1,2,0,8,12,66.7,3,10,3,1,1,Lorient,2020-12-16 Paris S-G-Lorient,FRA-L1,20-21,60fcfb5f
+2d22cea7,Armand Lauriente,28,FRA,FW,22-012,25,0,0,0,0,0,0,0,0,9,1,0,0,0.0,0.0,0.5,1,0,5,6,83.3,0,6,3,3,1,Lorient,2020-12-16 Paris S-G-Lorient,FRA-L1,20-21,60fcfb5f
+31626657,Laurent Abergel,6,FRA,CM,27-319,45,0,0,0,0,0,0,0,0,14,2,1,0,0.0,0.0,0.0,0,0,6,8,75.0,0,3,0,0,0,Lorient,2020-12-16 Paris S-G-Lorient,FRA-L1,20-21,60fcfb5f
+5515376c,Trevoh Chalobah,8,ENG,CM,21-164,45,0,0,0,0,0,0,0,0,25,1,1,0,0.0,0.0,0.1,2,0,18,21,85.7,1,13,2,5,3,Lorient,2020-12-16 Paris S-G-Lorient,FRA-L1,20-21,60fcfb5f
+84d94b91,Thomas Monconduit,23,FRA,CM,29-310,77,0,0,0,0,0,0,0,0,38,3,1,0,0.0,0.0,0.0,0,0,20,26,76.9,3,16,0,2,1,Lorient,2020-12-16 Paris S-G-Lorient,FRA-L1,20-21,60fcfb5f
+4ef705ab,Sylvain Marveaux,12,FRA,LM,34-245,13,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,4,5,80.0,1,1,1,0,0,Lorient,2020-12-16 Paris S-G-Lorient,FRA-L1,20-21,60fcfb5f
+6f806d99,Enzo Le Fée,10,FRA,"CM,RM",20-317,90,0,0,0,0,1,0,0,0,56,6,2,0,0.1,0.1,0.0,1,0,25,32,78.1,5,19,4,4,2,Lorient,2020-12-16 Paris S-G-Lorient,FRA-L1,20-21,60fcfb5f
+2321ea6e,Vincent Le Goff,25,FRA,"WB,LB",31-062,90,0,0,0,0,0,0,0,0,26,2,1,0,0.0,0.0,0.1,3,0,16,21,76.2,3,16,3,1,1,Lorient,2020-12-16 Paris S-G-Lorient,FRA-L1,20-21,60fcfb5f
+a84f9a4b,Jérôme Hergault,14,FRA,"WB,RB",34-255,90,0,0,0,0,0,0,0,0,51,4,2,3,0.0,0.0,0.0,0,0,28,41,68.3,0,14,0,2,1,Lorient,2020-12-16 Paris S-G-Lorient,FRA-L1,20-21,60fcfb5f
+e97150c0,Jérémy Morel,21,MAD,CB,36-258,90,0,0,0,0,1,1,0,0,36,2,0,2,0.1,0.1,0.0,2,0,22,29,75.9,1,12,0,0,0,Lorient,2020-12-16 Paris S-G-Lorient,FRA-L1,20-21,60fcfb5f
+9f90c06b,Thomas Fontaine,5,MAD,CB,29-222,71,0,0,0,0,1,0,0,0,21,1,2,1,0.0,0.0,0.0,0,0,13,14,92.9,1,7,0,0,0,Lorient,2020-12-16 Paris S-G-Lorient,FRA-L1,20-21,60fcfb5f
+96726741,Loris Mouyokolo,33,FRA,CB,19-208,19,0,0,0,0,0,0,0,0,9,1,0,1,0.0,0.0,0.0,0,0,3,6,50.0,0,3,0,0,0,Lorient,2020-12-16 Paris S-G-Lorient,FRA-L1,20-21,60fcfb5f
+49136c42,Andrew Gravillon,2,GLP,CB,22-312,48,0,0,0,0,0,0,0,1,22,1,0,1,0.0,0.0,0.0,0,0,5,12,41.7,1,6,0,0,0,Lorient,2020-12-16 Paris S-G-Lorient,FRA-L1,20-21,60fcfb5f
+2d70dbe5,Paul Nardi,30,FRA,GK,26-212,90,0,0,0,0,0,0,0,0,36,0,0,0,0.0,0.0,0.0,0,0,12,30,40.0,0,12,0,0,0,Lorient,2020-12-16 Paris S-G-Lorient,FRA-L1,20-21,60fcfb5f

@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+01870104,Mohamed Lamine Bayo,9,GUI,FW,25-112,73,1,0,0,0,4,2,0,0,24,1,0,2,0.8,0.8,0.0,2,0,8,14,57.1,0,15,0,1,0,Le Havre,2023-09-24 Le Havre-Clermont Foot,FRA-L1,23-24,941106cf
+daa11a4f,Andy Logbo,20,FRA,FW,19-141,17,0,0,0,0,0,0,0,0,6,0,0,1,0.0,0.0,0.0,0,0,2,3,66.7,1,5,1,1,1,Le Havre,2023-09-24 Le Havre-Clermont Foot,FRA-L1,23-24,941106cf
+b386310a,Nabil Alioui,10,FRA,LM,24-218,73,1,0,0,0,1,1,0,0,32,0,0,0,0.3,0.3,0.2,4,0,13,24,54.2,1,26,1,4,1,Le Havre,2023-09-24 Le Havre-Clermont Foot,FRA-L1,23-24,941106cf
+2e1b7c83,Emmanuel Sabbi,11,USA,LM,25-274,17,0,0,0,0,0,0,0,0,10,1,0,2,0.0,0.0,0.0,0,0,2,3,66.7,0,4,0,1,0,Le Havre,2023-09-24 Le Havre-Clermont Foot,FRA-L1,23-24,941106cf
+abefc3af,Yassine Kechta,8,MAR,CM,21-211,82,0,0,0,0,0,0,0,0,30,0,2,2,0.0,0.0,0.2,3,0,17,23,73.9,3,19,2,1,0,Le Havre,2023-09-24 Le Havre-Clermont Foot,FRA-L1,23-24,941106cf
+36f65bdf,Rassoul Ndiaye,19,SEN,CM,21-287,8,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Le Havre,2023-09-24 Le Havre-Clermont Foot,FRA-L1,23-24,941106cf
+d4e93bab,Daler Kuzyaev,14,RUS,CM,30-252,87,0,0,0,0,0,0,0,0,31,4,1,0,0.0,0.0,0.0,1,1,11,20,55.0,1,23,0,1,0,Le Havre,2023-09-24 Le Havre-Clermont Foot,FRA-L1,23-24,941106cf
+6c9642ae,Nolan Mbemba,18,CGO,CM,28-217,3,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,3,4,75.0,0,3,0,0,0,Le Havre,2023-09-24 Le Havre-Clermont Foot,FRA-L1,23-24,941106cf
+481f76cf,Josué Casimir,23,FRA,RM,22-000,81,0,2,0,0,1,0,0,0,26,0,1,0,0.1,0.1,0.9,6,3,14,18,77.8,3,18,1,4,2,Le Havre,2023-09-24 Le Havre-Clermont Foot,FRA-L1,23-24,941106cf
+9f29c204,Oualid El Hajjam,17,MAR,RM,32-217,9,0,0,0,0,0,0,0,0,10,0,1,0,0.0,0.0,0.0,0,0,5,8,62.5,0,8,0,1,1,Le Havre,2023-09-24 Le Havre-Clermont Foot,FRA-L1,23-24,941106cf
+ef7cd87a,Abdoulaye Touré,94,GUI,DM,29-205,90,0,0,0,0,0,0,0,0,38,1,2,2,0.0,0.0,0.0,0,0,24,29,82.8,2,27,0,2,1,Le Havre,2023-09-24 Le Havre-Clermont Foot,FRA-L1,23-24,941106cf
+914bb955,Christopher Operi,27,CIV,LB,26-148,90,0,0,0,0,1,0,0,0,64,2,3,1,0.0,0.0,0.0,0,0,36,50,72.0,5,39,0,1,0,Le Havre,2023-09-24 Le Havre-Clermont Foot,FRA-L1,23-24,941106cf
+ac89503b,Gautier Lloris,4,FRA,CB,28-068,90,0,0,0,0,1,0,0,0,43,0,2,1,0.1,0.1,0.0,1,0,31,34,91.2,1,28,0,0,0,Le Havre,2023-09-24 Le Havre-Clermont Foot,FRA-L1,23-24,941106cf
+17bb562c,Arouna Sangante,93,SEN,CB,21-165,90,0,0,0,0,0,0,1,0,39,1,3,4,0.0,0.0,0.0,1,0,23,28,82.1,2,17,0,0,0,Le Havre,2023-09-24 Le Havre-Clermont Foot,FRA-L1,23-24,941106cf
+c3725db2,Yoann Salmier,22,GUF,RB,30-307,90,0,0,0,0,1,0,0,0,39,2,2,2,0.0,0.0,0.0,0,0,21,31,67.7,2,24,1,0,0,Le Havre,2023-09-24 Le Havre-Clermont Foot,FRA-L1,23-24,941106cf
+e8c5dd4d,Arthur Desmas,30,FRA,GK,29-170,90,0,0,0,0,0,0,1,0,34,0,0,0,0.0,0.0,0.0,0,0,21,33,63.6,0,25,0,0,0,Le Havre,2023-09-24 Le Havre-Clermont Foot,FRA-L1,23-24,941106cf
+f527a32c,Muhammed Cham,10,AUT,FW,22-363,82,0,0,0,0,4,2,0,0,48,0,0,0,0.3,0.3,0.0,2,0,33,41,80.5,4,38,1,2,2,Clermont Foot,2023-09-24 Le Havre-Clermont Foot,FRA-L1,23-24,941106cf
+397ba086,Grejohn Kyei,95,FRA,FW,28-043,8,0,0,0,0,0,0,0,0,12,0,0,0,0.0,0.0,0.0,0,0,10,10,100.0,0,11,0,2,1,Clermont Foot,2023-09-24 Le Havre-Clermont Foot,FRA-L1,23-24,941106cf
+e33fb79d,Shamar Nicholson,23,JAM,FW,26-192,90,0,1,0,0,1,0,1,0,27,1,0,1,0.0,0.0,0.1,2,1,15,21,71.4,2,18,1,0,0,Clermont Foot,2023-09-24 Le Havre-Clermont Foot,FRA-L1,23-24,941106cf
+868eaba0,Johan Gastien,25,FRA,CM,35-242,72,0,0,0,0,0,0,1,0,66,1,1,2,0.0,0.0,0.0,0,0,55,62,88.7,7,53,1,1,1,Clermont Foot,2023-09-24 Le Havre-Clermont Foot,FRA-L1,23-24,941106cf
+25749008,Elba Rashani,18,KVX,CM,30-138,18,0,0,0,0,0,0,0,0,12,0,0,0,0.0,0.0,0.0,1,0,10,11,90.9,2,9,0,0,0,Clermont Foot,2023-09-24 Le Havre-Clermont Foot,FRA-L1,23-24,941106cf
+caa7aaea,Yohann Magnin,7,FRA,CM,26-095,90,0,0,0,0,2,1,0,0,57,1,0,1,0.2,0.2,0.0,2,0,39,47,83.0,6,44,1,0,0,Clermont Foot,2023-09-24 Le Havre-Clermont Foot,FRA-L1,23-24,941106cf
+b8c1de25,Maxime Gonalons,12,FRA,CM,34-198,82,0,0,0,0,0,0,0,0,85,0,1,0,0.0,0.0,0.0,0,0,71,79,89.9,11,71,1,2,1,Clermont Foot,2023-09-24 Le Havre-Clermont Foot,FRA-L1,23-24,941106cf
+cc588cbe,Habib Keita,6,MLI,CM,21-231,8,0,0,0,0,0,0,0,0,14,0,0,0,0.0,0.0,0.0,1,0,11,13,84.6,2,13,0,0,0,Clermont Foot,2023-09-24 Le Havre-Clermont Foot,FRA-L1,23-24,941106cf
+1956b948,Jim Allevinah,11,GAB,WB,28-209,88,0,0,0,0,0,0,0,0,65,0,0,1,0.0,0.0,0.0,2,0,45,55,81.8,4,50,13,4,2,Clermont Foot,2023-09-24 Le Havre-Clermont Foot,FRA-L1,23-24,941106cf
+e8a65bc8,Bilal Boutobba,8,FRA,WB,25-026,2,0,0,0,0,1,0,0,0,5,0,1,0,0.2,0.2,0.0,0,0,0,2,0.0,0,2,0,0,0,Clermont Foot,2023-09-24 Le Havre-Clermont Foot,FRA-L1,23-24,941106cf
+6ce2cdf0,Cheick Konaté,15,MLI,WB,19-175,72,1,0,0,0,2,1,0,0,49,3,1,1,0.1,0.1,0.1,1,0,29,42,69.0,2,38,3,1,1,Clermont Foot,2023-09-24 Le Havre-Clermont Foot,FRA-L1,23-24,941106cf
+c8c02ac7,Mehdi Zeffane,2,ALG,WB,31-128,18,0,0,0,0,1,0,0,0,16,0,0,0,0.0,0.0,0.0,2,0,10,15,66.7,2,11,2,0,0,Clermont Foot,2023-09-24 Le Havre-Clermont Foot,FRA-L1,23-24,941106cf
+c92c24f0,Maximiliano Caufriez,5,BEL,CB,26-220,90,0,0,0,0,0,0,0,0,85,1,0,1,0.0,0.0,0.0,2,1,69,78,88.5,6,66,2,0,0,Clermont Foot,2023-09-24 Le Havre-Clermont Foot,FRA-L1,23-24,941106cf
+f18d7ab2,Andy Pelmard,17,FRA,CB,23-196,90,0,0,0,0,0,0,0,0,79,2,1,2,0.0,0.0,0.0,1,0,64,72,88.9,2,69,2,0,0,Clermont Foot,2023-09-24 Le Havre-Clermont Foot,FRA-L1,23-24,941106cf
+cea59f02,Alidu Seidu,36,GHA,CB,23-112,90,0,0,0,0,0,0,1,0,110,0,1,1,0.0,0.0,0.0,1,0,87,100,87.0,8,84,3,7,2,Clermont Foot,2023-09-24 Le Havre-Clermont Foot,FRA-L1,23-24,941106cf
+f41a69e6,Mory Diaw,99,SEN,GK,30-094,90,0,0,0,0,0,0,0,0,46,0,0,0,0.0,0.0,0.0,1,0,37,45,82.2,0,39,0,0,0,Clermont Foot,2023-09-24 Le Havre-Clermont Foot,FRA-L1,23-24,941106cf

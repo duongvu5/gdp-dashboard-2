@@ -1,0 +1,31 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+dea698d9,Cristiano Ronaldo,7,POR,FW,35-304,90,0,0,0,0,3,0,0,0,46,0,0,0,0.1,0.1,0.4,4,0,24,36,66.7,5,37,8,2,1,Juventus,2020-12-05 Juventus-Torino,ITA-SERIA_A,20-21,bbc484d9
+e0921a4f,Paulo Dybala,10,ARG,FW,27-020,89,0,0,0,0,3,1,0,0,58,2,0,0,0.5,0.5,0.2,8,0,41,53,77.4,8,33,2,0,0,Juventus,2020-12-05 Juventus-Torino,ITA-SERIA_A,20-21,bbc484d9
+ee93c1a9,Federico Bernardeschi,33,ITA,FW,26-293,1,0,0,0,0,0,0,0,0,2,0,1,0,0.0,0.0,0.0,0,0,1,1,100.0,0,0,0,0,0,Juventus,2020-12-05 Juventus-Torino,ITA-SERIA_A,20-21,bbc484d9
+b0f7e36c,Federico Chiesa,22,ITA,LM,23-041,90,0,0,0,0,2,1,0,0,55,3,2,2,0.1,0.1,0.0,2,0,27,41,65.9,5,36,4,3,1,Juventus,2020-12-05 Juventus-Torino,ITA-SERIA_A,20-21,bbc484d9
+8794e251,Adrien Rabiot,25,FRA,CM,25-246,70,0,0,0,0,0,0,0,0,49,4,0,3,0.0,0.0,0.0,1,0,32,42,76.2,7,37,4,0,0,Juventus,2020-12-05 Juventus-Torino,ITA-SERIA_A,20-21,bbc484d9
+01c3aff5,Weston McKennie,14,USA,RM,22-099,20,1,0,0,0,1,1,0,0,10,1,1,0,0.2,0.2,0.0,1,0,6,6,100.0,1,4,0,0,0,Juventus,2020-12-05 Juventus-Torino,ITA-SERIA_A,20-21,bbc484d9
+3b8674e6,Rodrigo Bentancur,30,URU,CM,23-163,90,0,0,0,0,1,0,0,0,97,2,1,6,0.0,0.0,0.2,3,1,74,86,86.0,13,66,1,3,3,Juventus,2020-12-05 Juventus-Torino,ITA-SERIA_A,20-21,bbc484d9
+df3cda47,Dejan Kulusevski,44,SWE,RM,20-224,56,0,0,0,0,0,0,1,0,27,1,0,1,0.0,0.0,0.0,1,0,19,22,86.4,2,19,1,0,0,Juventus,2020-12-05 Juventus-Torino,ITA-SERIA_A,20-21,bbc484d9
+ef619b0b,Aaron Ramsey,8,WAL,"CM,RM",29-345,34,0,0,0,0,1,0,0,0,23,0,0,1,0.3,0.3,0.1,3,1,18,19,94.7,3,16,0,0,0,Juventus,2020-12-05 Juventus-Torino,ITA-SERIA_A,20-21,bbc484d9
+94b2001f,Danilo,13,BRA,LB,29-143,70,0,0,0,0,0,0,0,0,75,0,1,0,0.0,0.0,0.0,0,0,64,74,86.5,12,54,0,0,0,Juventus,2020-12-05 Juventus-Torino,ITA-SERIA_A,20-21,bbc484d9
+0d82903c,Alex Sandro,12,BRA,LB,29-314,20,0,0,0,0,1,0,0,0,31,0,0,0,0.1,0.1,0.0,0,0,18,28,64.3,1,18,0,0,0,Juventus,2020-12-05 Juventus-Torino,ITA-SERIA_A,20-21,bbc484d9
+52ec54d0,Leonardo Bonucci,19,ITA,CB,33-218,90,1,0,0,0,4,1,0,0,80,0,0,0,0.5,0.5,0.0,0,0,69,75,92.0,9,65,0,0,0,Juventus,2020-12-05 Juventus-Torino,ITA-SERIA_A,20-21,bbc484d9
+d6e53a3a,Matthijs de Ligt,4,NED,CB,21-115,90,0,0,0,0,0,0,1,0,66,0,1,0,0.0,0.0,0.0,0,0,58,62,93.5,7,49,1,0,0,Juventus,2020-12-05 Juventus-Torino,ITA-SERIA_A,20-21,bbc484d9
+0ab1f153,Juan Cuadrado,16,COL,RB,32-193,90,0,2,0,0,1,0,1,0,98,1,2,0,0.0,0.0,0.7,5,2,73,91,80.2,6,63,4,6,5,Juventus,2020-12-05 Juventus-Torino,ITA-SERIA_A,20-21,bbc484d9
+01b8a2b2,Wojciech Szczęsny,1,POL,GK,30-231,90,0,0,0,0,0,0,0,0,23,0,0,0,0.0,0.0,0.0,0,0,20,21,95.2,0,16,0,0,0,Juventus,2020-12-05 Juventus-Torino,ITA-SERIA_A,20-21,bbc484d9
+d705ba44,Andrea Belotti,9,ITA,FW,26-351,90,0,0,0,0,1,0,0,0,27,2,0,1,0.0,0.0,0.5,1,0,12,16,75.0,3,16,2,2,1,Torino,2020-12-05 Juventus-Torino,ITA-SERIA_A,20-21,bbc484d9
+9592289a,Simone Zaza,11,ITA,FW,29-163,74,0,0,0,0,1,1,0,0,27,0,0,0,0.5,0.5,0.0,1,0,9,18,50.0,1,12,1,1,1,Torino,2020-12-05 Juventus-Torino,ITA-SERIA_A,20-21,bbc484d9
+c6e8cf1f,Saša Lukić,7,SRB,FW,24-114,16,0,0,0,0,0,0,1,0,6,0,0,0,0.0,0.0,0.0,0,0,6,6,100.0,2,4,1,0,0,Torino,2020-12-05 Juventus-Torino,ITA-SERIA_A,20-21,bbc484d9
+d023d70f,Karol Linetty,77,POL,CM,25-307,89,0,0,0,0,0,0,0,0,38,1,2,3,0.0,0.0,0.0,2,0,23,29,79.3,0,21,2,0,0,Torino,2020-12-05 Juventus-Torino,ITA-SERIA_A,20-21,bbc484d9
+3cb132e6,Jacopo Segre,6,ITA,CM,23-292,1,0,0,0,0,1,0,0,0,2,0,0,0,0.1,0.1,0.0,0,0,1,1,100.0,0,3,0,0,0,Torino,2020-12-05 Juventus-Torino,ITA-SERIA_A,20-21,bbc484d9
+f1cfc209,Tomás Rincón,88,VEN,CM,32-327,90,0,0,0,0,0,0,0,0,46,2,3,0,0.0,0.0,0.0,1,0,30,36,83.3,3,21,0,2,1,Torino,2020-12-05 Juventus-Torino,ITA-SERIA_A,20-21,bbc484d9
+5cec2c74,Soualiho Meïté,23,FRA,CM,26-263,90,0,0,0,0,1,0,0,0,35,1,0,1,0.1,0.1,0.0,2,1,19,24,79.2,2,20,0,3,2,Torino,2020-12-05 Juventus-Torino,ITA-SERIA_A,20-21,bbc484d9
+bbafc0c4,Cristian Ansaldi,15,ARG,WB,34-076,89,0,0,0,0,0,0,0,0,40,2,0,0,0.0,0.0,0.2,2,0,17,29,58.6,1,19,3,0,0,Torino,2020-12-05 Juventus-Torino,ITA-SERIA_A,20-21,bbc484d9
+bf57eaab,Federico Bonazzoli,26,ITA,WB,23-198,1,0,0,0,0,0,0,1,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Torino,2020-12-05 Juventus-Torino,ITA-SERIA_A,20-21,bbc484d9
+8b609c34,Wilfried Singo,17,CIV,WB,19-346,90,0,0,0,0,0,0,0,0,56,4,2,1,0.0,0.0,0.1,1,0,21,35,60.0,0,20,1,7,6,Torino,2020-12-05 Juventus-Torino,ITA-SERIA_A,20-21,bbc484d9
+7f78ad23,Ricardo Rodríguez,13,SUI,CB,28-102,90,0,0,0,0,1,0,0,0,46,1,2,0,0.1,0.1,0.0,2,0,28,35,80.0,3,27,0,0,0,Torino,2020-12-05 Juventus-Torino,ITA-SERIA_A,20-21,bbc484d9
+93cf32a8,Nicolas Nkoulou,33,CMR,CB,30-253,90,1,0,0,0,1,1,0,0,50,0,4,2,0.3,0.3,0.0,0,0,31,36,86.1,1,24,0,0,0,Torino,2020-12-05 Juventus-Torino,ITA-SERIA_A,20-21,bbc484d9
+b5bf1770,Lyanco,4,BRA,CB,23-308,90,0,0,0,0,1,0,1,0,53,0,4,4,0.0,0.0,0.0,1,0,35,40,87.5,0,29,1,2,2,Torino,2020-12-05 Juventus-Torino,ITA-SERIA_A,20-21,bbc484d9
+10dc46f0,Salvatore Sirigu,39,ITA,GK,33-328,90,0,0,0,0,0,0,0,0,51,0,0,0,0.0,0.0,0.0,0,0,34,50,68.0,0,34,0,0,0,Torino,2020-12-05 Juventus-Torino,ITA-SERIA_A,20-21,bbc484d9

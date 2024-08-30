@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+74c7c2db,Robin Quaison,7,SWE,FW,24-189,90,0,1,0,0,2,0,0,0,16,1,0,1,0.1,0.1,0.3,2,1,6,11,54.5,0,11,0,1,0,Mainz 05,2018-04-16 Mainz 05-Freiburg,GER-BL1,17-18,1865c701
+9ab48bde,Pablo de Blasis,32,ARG,LW,30-071,89,2,0,1,1,4,1,0,0,54,1,1,4,1.2,0.4,0.1,3,0,24,35,68.6,1,32,2,4,2,Mainz 05,2018-04-16 Mainz 05-Freiburg,GER-BL1,17-18,1865c701
+99be8fb5,Anthony Ujah,20,NGA,LW,27-184,1,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,1,0,0,0,Mainz 05,2018-04-16 Mainz 05-Freiburg,GER-BL1,17-18,1865c701
+66385c46,Levin Öztunalı,8,GER,RW,22-032,84,0,0,0,0,1,0,0,0,36,1,1,1,0.1,0.1,0.2,6,0,23,30,76.7,3,22,3,0,0,Mainz 05,2018-04-16 Mainz 05-Freiburg,GER-BL1,17-18,1865c701
+2979c05a,Gerrit Holtmann,38,PHI,RW,23-022,6,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,2,0,0,0,Mainz 05,2018-04-16 Mainz 05-Freiburg,GER-BL1,17-18,1865c701
+33b554b7,Danny Latza,6,GER,LM,28-130,90,0,0,0,0,2,1,0,0,62,1,0,1,0.1,0.1,0.3,6,0,40,53,75.5,4,33,0,1,1,Mainz 05,2018-04-16 Mainz 05-Freiburg,GER-BL1,17-18,1865c701
+6bd603db,Jean-Philippe Gbamin,25,CIV,CM,22-203,90,0,0,0,0,0,0,0,0,64,3,1,1,0.0,0.0,0.0,0,0,36,49,73.5,8,26,0,3,1,Mainz 05,2018-04-16 Mainz 05-Freiburg,GER-BL1,17-18,1865c701
+b3325a30,Suat Serdar,23,GER,RM,21-005,79,0,0,0,0,1,0,0,0,32,3,1,0,0.0,0.0,0.0,3,0,20,23,87.0,3,19,1,3,1,Mainz 05,2018-04-16 Mainz 05-Freiburg,GER-BL1,17-18,1865c701
+a0e209bc,Nigel de Jong,5,NED,RM,33-137,11,0,0,0,0,0,0,0,0,7,2,0,0,0.0,0.0,0.0,0,0,0,2,0.0,0,0,0,0,0,Mainz 05,2018-04-16 Mainz 05-Freiburg,GER-BL1,17-18,1865c701
+fc62f087,Abdou Diallo,4,SEN,LB,21-347,90,0,0,0,0,1,0,0,0,52,3,0,2,0.3,0.3,0.0,1,0,30,37,81.1,3,20,1,4,3,Mainz 05,2018-04-16 Mainz 05-Freiburg,GER-BL1,17-18,1865c701
+a5ec3ede,Alexander Hack,42,GER,CB,24-220,90,0,0,0,0,1,0,0,0,68,1,1,1,0.0,0.0,0.0,0,0,41,49,83.7,1,30,0,0,0,Mainz 05,2018-04-16 Mainz 05-Freiburg,GER-BL1,17-18,1865c701
+78e68b4d,Leon Balogun,3,NGA,CB,29-292,90,0,0,0,0,0,0,1,0,51,2,1,2,0.0,0.0,0.0,1,0,33,38,86.8,2,22,0,2,2,Mainz 05,2018-04-16 Mainz 05-Freiburg,GER-BL1,17-18,1865c701
+a7813ac4,Daniel Brosinski,18,GER,RB,29-273,90,0,0,0,0,1,0,0,0,67,0,1,2,0.1,0.1,0.0,1,1,41,62,66.1,3,21,5,3,1,Mainz 05,2018-04-16 Mainz 05-Freiburg,GER-BL1,17-18,1865c701
+f71890f5,René Adler,1,GER,GK,33-091,90,0,0,0,0,0,0,0,0,32,0,0,0,0.0,0.0,0.0,0,0,19,30,63.3,0,15,0,0,0,Mainz 05,2018-04-16 Mainz 05-Freiburg,GER-BL1,17-18,1865c701
+f93e6e94,Nils Petersen,18,GER,FW,29-131,90,0,0,0,0,3,0,0,0,33,2,0,2,0.1,0.1,0.0,2,0,13,22,59.1,2,14,0,3,3,Freiburg,2018-04-16 Mainz 05-Freiburg,GER-BL1,17-18,1865c701
+ca618d23,Lucas Höler,9,GER,LW,23-280,76,0,0,0,0,0,0,0,0,28,2,0,0,0.0,0.0,0.0,4,0,10,17,58.8,2,12,0,3,0,Freiburg,2018-04-16 Mainz 05-Freiburg,GER-BL1,17-18,1865c701
+6a81a181,Florian Kath,38,GER,LW,23-177,14,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,3,5,60.0,1,2,0,2,0,Freiburg,2018-04-16 Mainz 05-Freiburg,GER-BL1,17-18,1865c701
+70dcf94d,Janik Haberer,19,GER,RW,24-014,90,0,0,0,0,0,0,1,0,29,0,0,0,0.0,0.0,0.1,4,0,16,25,64.0,0,23,0,1,1,Freiburg,2018-04-16 Mainz 05-Freiburg,GER-BL1,17-18,1865c701
+8593f88c,Christian Günter,30,GER,LM,25-047,90,0,0,0,0,1,0,0,0,66,3,2,0,0.0,0.0,0.1,2,0,35,56,62.5,3,34,5,2,1,Freiburg,2018-04-16 Mainz 05-Freiburg,GER-BL1,17-18,1865c701
+ea6bc03a,Robin Koch,25,GER,CM,21-273,68,0,0,0,0,0,0,0,0,23,1,0,1,0.0,0.0,0.0,0,0,6,17,35.3,1,5,0,0,0,Freiburg,2018-04-16 Mainz 05-Freiburg,GER-BL1,17-18,1865c701
+d0421d25,Julian Schuster,23,GER,CM,33-001,22,0,0,0,0,2,0,0,0,36,2,0,0,0.1,0.1,0.1,1,0,23,33,69.7,3,14,0,0,0,Freiburg,2018-04-16 Mainz 05-Freiburg,GER-BL1,17-18,1865c701
+5d8e331f,Nicolas Höfler,27,GER,CM,28-038,90,0,0,0,0,1,0,0,0,63,2,1,3,0.0,0.0,0.0,3,0,49,55,89.1,7,33,0,4,3,Freiburg,2018-04-16 Mainz 05-Freiburg,GER-BL1,17-18,1865c701
+99f7e9aa,Pascal Stenzel,15,GER,RM,22-027,90,0,0,0,0,0,0,0,0,63,5,1,2,0.0,0.0,0.1,1,0,39,52,75.0,2,26,2,0,0,Freiburg,2018-04-16 Mainz 05-Freiburg,GER-BL1,17-18,1865c701
+815c314f,Marc-Oliver Kempf,20,GER,CB,23-078,45,0,0,0,0,0,0,0,0,13,0,1,0,0.0,0.0,0.0,0,0,9,12,75.0,1,4,0,0,0,Freiburg,2018-04-16 Mainz 05-Freiburg,GER-BL1,17-18,1865c701
+258a6f4d,Tim Kleindienst,34,GER,CB,22-228,45,0,0,0,0,1,0,0,0,12,1,0,0,0.1,0.1,0.0,0,0,3,6,50.0,0,5,0,2,0,Freiburg,2018-04-16 Mainz 05-Freiburg,GER-BL1,17-18,1865c701
+25ab9c9c,Manuel Gulde,5,GER,CB,27-063,90,0,0,0,0,2,0,1,0,53,0,0,1,0.2,0.2,0.0,2,0,37,44,84.1,4,33,1,1,1,Freiburg,2018-04-16 Mainz 05-Freiburg,GER-BL1,17-18,1865c701
+21166ff4,Çağlar Söyüncü,4,TUR,CB,21-328,90,0,0,0,0,1,0,0,0,67,1,2,1,0.0,0.0,0.0,1,0,46,58,79.3,7,36,2,1,1,Freiburg,2018-04-16 Mainz 05-Freiburg,GER-BL1,17-18,1865c701
+0d55d942,Alexander Schwolow,1,GER,GK,25-318,90,0,0,0,0,0,0,0,0,43,0,0,0,0.0,0.0,0.0,0,0,20,40,50.0,0,16,0,0,0,Freiburg,2018-04-16 Mainz 05-Freiburg,GER-BL1,17-18,1865c701

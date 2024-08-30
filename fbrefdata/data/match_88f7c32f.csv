@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+3bb7f478,Edin Džeko,9,BIH,FW,32-021,90,0,0,0,0,6,2,1,0,43,0,0,1,0.8,0.8,0.1,6,0,21,32,65.6,2,29,2,1,1,Roma,2018-04-07 Roma-Fiorentina,ITA-SERIA_A,17-18,88f7c32f
+d3aaad90,Stephan El Shaarawy,92,ITA,LW,25-162,90,0,0,0,0,6,2,1,0,85,0,1,0,0.3,0.3,0.1,10,0,54,68,79.4,5,60,4,6,2,Roma,2018-04-07 Roma-Fiorentina,ITA-SERIA_A,17-18,88f7c32f
+854ee61a,Grégoire Defrel,23,MTQ,RW,26-294,45,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,0,0,9,9,100.0,1,6,1,0,0,Roma,2018-04-07 Roma-Fiorentina,ITA-SERIA_A,17-18,88f7c32f
+5d4f7d61,Patrik Schick,14,CZE,RW,22-073,45,0,0,0,0,3,0,0,0,23,0,0,0,0.2,0.2,0.3,2,0,15,17,88.2,0,13,0,1,0,Roma,2018-04-07 Roma-Fiorentina,ITA-SERIA_A,17-18,88f7c32f
+ef2e5e1a,Kevin Strootman,6,NED,LM,28-053,67,0,0,0,0,1,1,0,0,48,3,0,1,0.0,0.0,0.2,6,0,29,39,74.4,5,28,2,2,1,Roma,2018-04-07 Roma-Fiorentina,ITA-SERIA_A,17-18,88f7c32f
+e288d4b3,Alessandro Florenzi,24,ITA,LM,27-027,23,0,0,0,0,0,0,0,0,21,0,0,0,0.0,0.0,0.2,2,0,10,18,55.6,0,11,1,1,0,Roma,2018-04-07 Roma-Fiorentina,ITA-SERIA_A,17-18,88f7c32f
+b8c1de25,Maxime Gonalons,21,FRA,CM,29-028,90,0,0,0,0,2,0,0,0,84,4,0,0,0.0,0.0,0.1,6,0,65,74,87.8,15,45,0,0,0,Roma,2018-04-07 Roma-Fiorentina,ITA-SERIA_A,17-18,88f7c32f
+1f9328da,Radja Nainggolan,4,BEL,RM,29-338,90,0,0,0,0,3,1,0,0,58,2,0,0,0.4,0.4,0.0,2,0,39,50,78.0,5,31,4,1,1,Roma,2018-04-07 Roma-Fiorentina,ITA-SERIA_A,17-18,88f7c32f
+79083382,Juan Jesus,5,BRA,"LB,CB",26-301,90,0,0,0,0,0,0,1,0,111,1,3,0,0.0,0.0,0.1,2,0,81,105,77.1,16,56,2,0,0,Roma,2018-04-07 Roma-Fiorentina,ITA-SERIA_A,17-18,88f7c32f
+4e358a2d,Federico Fazio,20,ARG,CB,31-021,90,0,0,0,0,1,0,0,0,95,1,2,0,0.0,0.0,0.0,0,0,62,85,72.9,11,52,4,3,3,Roma,2018-04-07 Roma-Fiorentina,ITA-SERIA_A,17-18,88f7c32f
+c707411f,Kostas Manolas,44,GRE,CB,26-297,57,0,0,0,0,1,0,0,0,37,0,1,0,0.2,0.2,0.0,0,0,31,33,93.9,4,21,0,1,0,Roma,2018-04-07 Roma-Fiorentina,ITA-SERIA_A,17-18,88f7c32f
+eda40760,Aleksandar Kolarov,11,SRB,"LB,CB",32-148,33,0,0,0,0,0,0,0,0,36,0,0,0,0.0,0.0,0.1,4,0,24,34,70.6,7,23,8,1,1,Roma,2018-04-07 Roma-Fiorentina,ITA-SERIA_A,17-18,88f7c32f
+852351df,Bruno Peres,25,BRA,RB,28-037,90,0,0,0,0,2,2,1,0,89,1,1,1,0.1,0.1,0.4,4,0,59,79,74.7,9,49,6,6,3,Roma,2018-04-07 Roma-Fiorentina,ITA-SERIA_A,17-18,88f7c32f
+7a2e46a8,Alisson,1,BRA,GK,25-187,90,0,0,0,0,0,0,0,0,32,0,0,0,0.0,0.0,0.0,0,0,26,31,83.9,0,17,0,1,1,Roma,2018-04-07 Roma-Fiorentina,ITA-SERIA_A,17-18,88f7c32f
+3bb7af3b,Riccardo Saponara,8,ITA,"FW,AM",26-107,68,0,2,0,0,1,0,0,0,25,0,0,1,0.0,0.0,0.8,1,1,14,19,73.7,2,19,2,4,2,Fiorentina,2018-04-07 Roma-Fiorentina,ITA-SERIA_A,17-18,88f7c32f
+bee704fc,Nikola Milenković,4,SRB,CB,20-177,22,0,0,0,0,0,0,0,0,10,2,1,0,0.0,0.0,0.0,0,0,0,2,0.0,0,0,0,0,0,Fiorentina,2018-04-07 Roma-Fiorentina,ITA-SERIA_A,17-18,88f7c32f
+343c0d52,Giovanni Simeone,9,ARG,FW,22-276,88,1,0,0,0,1,1,0,0,29,2,0,1,0.7,0.7,0.0,3,3,10,14,71.4,0,18,3,4,3,Fiorentina,2018-04-07 Roma-Fiorentina,ITA-SERIA_A,17-18,88f7c32f
+a39b9ef6,Diego Falcinelli,11,ITA,FW,26-285,2,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,3,1,0,0,Fiorentina,2018-04-07 Roma-Fiorentina,ITA-SERIA_A,17-18,88f7c32f
+ae82fa48,Valentin Eysseric,10,FRA,"AM,LW",26-013,57,0,0,0,0,0,0,0,0,14,0,1,1,0.0,0.0,0.0,0,0,4,11,36.4,0,7,0,1,0,Fiorentina,2018-04-07 Roma-Fiorentina,ITA-SERIA_A,17-18,88f7c32f
+e61bdd69,Gil Bastião Dias,28,POR,"LM,LW",21-191,33,0,0,0,0,0,0,0,0,16,3,0,0,0.0,0.0,0.0,0,0,5,7,71.4,1,8,1,2,1,Fiorentina,2018-04-07 Roma-Fiorentina,ITA-SERIA_A,17-18,88f7c32f
+c53083ad,Bryan Dabo,14,BFA,"LM,CM,DM",26-048,90,0,0,0,0,0,0,0,0,45,3,1,3,0.0,0.0,0.0,0,0,14,28,50.0,2,18,0,1,1,Fiorentina,2018-04-07 Roma-Fiorentina,ITA-SERIA_A,17-18,88f7c32f
+4a56052c,Jordan Veretout,17,FRA,"CM,DM",25-037,90,0,0,0,0,0,0,0,0,43,2,3,1,0.0,0.0,0.0,1,0,21,35,60.0,3,27,1,0,0,Fiorentina,2018-04-07 Roma-Fiorentina,ITA-SERIA_A,17-18,88f7c32f
+0000acda,Marco Benassi,24,ITA,"RM,RW",23-211,90,1,0,0,0,1,1,0,0,40,2,1,1,0.1,0.1,0.0,0,0,20,33,60.6,1,27,0,0,0,Fiorentina,2018-04-07 Roma-Fiorentina,ITA-SERIA_A,17-18,88f7c32f
+9e1577aa,Cristiano Biraghi,3,ITA,LB,25-218,90,0,0,0,0,0,0,0,0,35,2,1,1,0.0,0.0,0.0,0,0,16,24,66.7,0,12,1,0,0,Fiorentina,2018-04-07 Roma-Fiorentina,ITA-SERIA_A,17-18,88f7c32f
+f2c1300a,Vitor Hugo,31,BRA,CB,26-322,90,0,0,0,0,0,0,1,0,39,1,3,0,0.0,0.0,0.0,0,0,10,17,58.8,0,9,0,0,0,Fiorentina,2018-04-07 Roma-Fiorentina,ITA-SERIA_A,17-18,88f7c32f
+8c725b43,Germán Pezzella,20,ARG,CB,26-284,90,0,0,0,0,0,0,0,0,36,3,3,2,0.0,0.0,0.0,1,0,11,18,61.1,0,7,0,0,0,Fiorentina,2018-04-07 Roma-Fiorentina,ITA-SERIA_A,17-18,88f7c32f
+3535098b,Vincent Laurini,2,FRA,RB,28-301,90,0,0,0,0,0,0,1,0,40,1,0,3,0.0,0.0,0.0,0,0,14,25,56.0,1,8,0,1,1,Fiorentina,2018-04-07 Roma-Fiorentina,ITA-SERIA_A,17-18,88f7c32f
+ac4003af,Marco Sportiello,57,ITA,GK,25-332,90,0,0,0,0,0,0,0,0,49,0,0,0,0.0,0.0,0.0,0,0,18,43,41.9,0,17,0,0,0,Fiorentina,2018-04-07 Roma-Fiorentina,ITA-SERIA_A,17-18,88f7c32f

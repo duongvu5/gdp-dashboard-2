@@ -1,0 +1,32 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+81255c03,João Pedro,10,ITA,FW,28-131,90,1,0,0,0,1,1,0,0,25,0,0,0,0.3,0.3,0.0,1,1,9,15,60.0,2,20,1,4,1,Cagliari,2020-07-18 Cagliari-Sassuolo,ITA-SERIA_A,19-20,95476842
+7ec7738e,Gastón Pereiro,20,URU,FW,25-037,45,0,0,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.0,0,0,6,8,75.0,1,6,0,0,0,Cagliari,2020-07-18 Cagliari-Sassuolo,ITA-SERIA_A,19-20,95476842
+343c0d52,Giovanni Simeone,99,ARG,FW,25-013,45,0,0,0,0,0,0,0,0,15,0,0,1,0.0,0.0,0.0,0,0,3,8,37.5,0,11,0,0,0,Cagliari,2020-07-18 Cagliari-Sassuolo,ITA-SERIA_A,19-20,95476842
+b6b2b820,Marko Rog,6,CRO,CM,24-365,89,0,1,0,0,1,0,1,0,38,4,0,2,0.0,0.0,0.3,2,1,16,23,69.6,1,13,1,4,1,Cagliari,2020-07-18 Cagliari-Sassuolo,ITA-SERIA_A,19-20,95476842
+008a6e6d,Ragnar Klavan,15,EST,"CB,CM",34-262,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Cagliari,2020-07-18 Cagliari-Sassuolo,ITA-SERIA_A,19-20,95476842
+455a2b79,Valter Birsa,14,SVN,CM,33-346,45,0,0,0,0,0,0,0,0,28,1,1,0,0.0,0.0,0.0,0,0,19,26,73.1,1,16,0,0,0,Cagliari,2020-07-18 Cagliari-Sassuolo,ITA-SERIA_A,19-20,95476842
+ff4296df,Riccardo Ladinetti,35,ITA,CM,19-211,45,0,0,0,0,0,0,0,0,13,0,1,0,0.0,0.0,0.0,1,0,9,11,81.8,1,12,0,0,0,Cagliari,2020-07-18 Cagliari-Sassuolo,ITA-SERIA_A,19-20,95476842
+95facda1,Nahitan Nández,18,URU,CM,24-203,90,0,0,0,0,0,0,0,0,34,3,2,0,0.0,0.0,0.0,0,0,12,23,52.2,0,19,0,2,1,Cagliari,2020-07-18 Cagliari-Sassuolo,ITA-SERIA_A,19-20,95476842
+fba81826,Federico Mattiello,3,ITA,WB,25-004,90,0,0,0,0,0,0,0,0,37,4,1,4,0.0,0.0,0.0,0,0,18,22,81.8,1,14,1,2,1,Cagliari,2020-07-18 Cagliari-Sassuolo,ITA-SERIA_A,19-20,95476842
+9085dd7c,Paolo Faragò,24,ITA,WB,27-157,90,0,0,0,0,0,0,1,0,54,6,0,3,0.0,0.0,0.0,0,0,24,35,68.6,1,19,0,1,0,Cagliari,2020-07-18 Cagliari-Sassuolo,ITA-SERIA_A,19-20,95476842
+f7e2af2c,Andrea Carboni,36,ITA,CB,19-165,47,0,0,0,0,0,0,2,1,18,0,1,1,0.0,0.0,0.0,0,0,11,14,78.6,0,10,0,0,0,Cagliari,2020-07-18 Cagliari-Sassuolo,ITA-SERIA_A,19-20,95476842
+7d50454d,Luca Ceppitelli,23,ITA,CB,30-342,90,0,0,0,0,0,0,0,0,18,1,5,2,0.0,0.0,0.0,0,0,8,9,88.9,1,8,0,0,0,Cagliari,2020-07-18 Cagliari-Sassuolo,ITA-SERIA_A,19-20,95476842
+56400c01,Fabio Pisacane,19,ITA,CB,34-172,90,0,0,0,0,0,0,0,0,30,1,1,1,0.0,0.0,0.0,0,0,21,23,91.3,0,13,0,1,1,Cagliari,2020-07-18 Cagliari-Sassuolo,ITA-SERIA_A,19-20,95476842
+f554e29b,Alessio Cragno,28,ITA,GK,26-020,90,0,0,0,0,0,0,0,0,29,0,0,0,0.0,0.0,0.0,0,0,12,28,42.9,0,7,0,0,0,Cagliari,2020-07-18 Cagliari-Sassuolo,ITA-SERIA_A,19-20,95476842
+5bd72174,Francesco Caputo,9,ITA,FW,32-347,90,1,0,0,0,1,1,0,0,24,0,0,1,0.1,0.1,0.0,2,0,14,20,70.0,0,10,0,0,0,Sassuolo,2020-07-18 Cagliari-Sassuolo,ITA-SERIA_A,19-20,95476842
+fe012aca,Jeremie Boga,7,CIV,LW,23-197,90,0,0,0,0,2,0,0,0,64,1,1,0,0.1,0.1,0.1,4,0,42,47,89.4,5,49,6,8,5,Sassuolo,2020-07-18 Cagliari-Sassuolo,ITA-SERIA_A,19-20,95476842
+5c397195,Lukáš Haraslín,27,SVK,RW,24-053,70,0,0,0,0,1,1,0,0,30,3,0,1,0.0,0.0,0.0,0,0,17,20,85.0,0,19,0,4,1,Sassuolo,2020-07-18 Cagliari-Sassuolo,ITA-SERIA_A,19-20,95476842
+7f24b3eb,Andrea Ghion,44,ITA,RW,20-146,20,0,0,0,0,1,0,0,0,18,0,0,0,0.1,0.1,0.0,2,0,16,16,100.0,0,11,0,0,0,Sassuolo,2020-07-18 Cagliari-Sassuolo,ITA-SERIA_A,19-20,95476842
+570bb4b9,Hamed Junior Traorè,23,CIV,LM,20-153,70,0,0,0,0,0,0,0,0,67,2,0,0,0.0,0.0,0.0,1,1,48,59,81.4,3,37,3,1,0,Sassuolo,2020-07-18 Cagliari-Sassuolo,ITA-SERIA_A,19-20,95476842
+6e058f06,Giacomo Raspadori,18,ITA,LM,20-151,20,0,0,0,0,1,0,0,0,10,0,0,0,0.0,0.0,0.1,2,0,6,8,75.0,0,9,2,0,0,Sassuolo,2020-07-18 Cagliari-Sassuolo,ITA-SERIA_A,19-20,95476842
+a8a874f1,Manuel Locatelli,73,ITA,CM,22-192,90,0,0,0,0,0,0,0,0,127,5,0,2,0.0,0.0,0.2,6,0,104,116,89.7,8,69,1,2,2,Sassuolo,2020-07-18 Cagliari-Sassuolo,ITA-SERIA_A,19-20,95476842
+eccbe56a,Filip Đuričić,10,SRB,RM,28-170,89,0,0,0,0,3,0,0,0,52,3,0,2,0.1,0.1,0.0,1,0,34,39,87.2,1,36,5,0,0,Sassuolo,2020-07-18 Cagliari-Sassuolo,ITA-SERIA_A,19-20,95476842
+d8dfae8a,Giacomo Manzari,53,ITA,RM,19-301,1,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,1,3,33.3,0,2,0,0,0,Sassuolo,2020-07-18 Cagliari-Sassuolo,ITA-SERIA_A,19-20,95476842
+10e7f486,Rogério,6,BRA,LB,22-187,89,0,0,0,0,1,0,0,0,95,1,1,1,0.1,0.1,0.1,1,0,77,86,89.5,8,69,5,3,0,Sassuolo,2020-07-18 Cagliari-Sassuolo,ITA-SERIA_A,19-20,95476842
+0a483542,Giorgos Kyriakopoulos,77,GRE,LB,24-164,1,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,3,1,0,0,Sassuolo,2020-07-18 Cagliari-Sassuolo,ITA-SERIA_A,19-20,95476842
+8650af85,Gian Marco Ferrari,31,ITA,CB,28-154,90,0,0,0,0,2,0,1,0,134,0,2,0,0.1,0.1,0.0,2,0,123,129,95.3,5,98,2,0,0,Sassuolo,2020-07-18 Cagliari-Sassuolo,ITA-SERIA_A,19-20,95476842
+cdf65d12,Marlon,2,BRA,CB,24-315,90,0,0,0,0,0,0,1,0,138,3,1,0,0.0,0.0,0.0,2,1,122,129,94.6,9,93,0,0,0,Sassuolo,2020-07-18 Cagliari-Sassuolo,ITA-SERIA_A,19-20,95476842
+1295552e,Mert Müldür,17,TUR,RB,21-106,70,0,0,0,0,0,0,0,0,79,1,0,0,0.0,0.0,0.0,1,0,71,77,92.2,2,57,5,1,1,Sassuolo,2020-07-18 Cagliari-Sassuolo,ITA-SERIA_A,19-20,95476842
+cce9f582,Giangiacomo Magnani,32,ITA,RB,24-288,20,0,0,0,0,0,0,0,0,21,0,0,0,0.0,0.0,0.0,0,0,16,20,80.0,0,13,0,0,0,Sassuolo,2020-07-18 Cagliari-Sassuolo,ITA-SERIA_A,19-20,95476842
+f058ed1f,Gianluca Pegolo,56,ITA,GK,39-115,90,0,0,0,0,0,0,0,0,21,0,0,0,0.0,0.0,0.0,0,0,20,21,95.2,0,10,0,0,0,Sassuolo,2020-07-18 Cagliari-Sassuolo,ITA-SERIA_A,19-20,95476842

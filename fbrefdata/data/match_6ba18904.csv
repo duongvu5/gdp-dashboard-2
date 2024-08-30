@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+fd53759d,Jan Thielmann,29,GER,FW,20-073,90,0,1,0,0,4,1,0,0,35,1,0,0,0.1,0.1,0.1,3,2,20,26,76.9,3,19,2,5,4,Köln,2022-08-07 Köln-Schalke 04,GER-BL1,22-23,6ba18904
+8779ddf8,Florian Dietz,33,GER,FW,24-004,85,0,0,0,0,5,2,0,0,27,1,0,2,0.7,0.7,0.1,1,0,9,14,64.3,2,7,1,1,0,Köln,2022-08-07 Köln-Schalke 04,GER-BL1,22-23,6ba18904
+792ffa71,Tim Lemperle,25,GER,FW,20-183,5,0,0,0,0,1,0,0,0,8,0,0,0,0.1,0.1,0.3,3,0,4,6,66.7,0,6,0,1,1,Köln,2022-08-07 Köln-Schalke 04,GER-BL1,22-23,6ba18904
+94c18565,Florian Kainz,11,AUT,LM,29-287,75,1,0,0,0,3,2,0,0,62,0,1,0,0.4,0.4,0.3,5,0,38,56,67.9,10,38,3,4,2,Köln,2022-08-07 Köln-Schalke 04,GER-BL1,22-23,6ba18904
+e5d85da8,Linton Maina,37,GER,LM,23-045,15,0,0,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.0,2,0,8,10,80.0,1,7,3,1,0,Köln,2022-08-07 Köln-Schalke 04,GER-BL1,22-23,6ba18904
+c455a2b2,Dejan Ljubicic,7,AUT,CM,24-303,84,1,0,0,0,5,3,0,0,45,1,1,0,0.2,0.2,0.2,5,1,29,34,85.3,2,24,0,0,0,Köln,2022-08-07 Köln-Schalke 04,GER-BL1,22-23,6ba18904
+86adbcc7,Mathias Olesen,47,LUX,CM,21-139,6,0,0,0,0,0,0,0,0,8,1,0,1,0.0,0.0,0.0,0,0,6,7,85.7,1,5,0,0,0,Köln,2022-08-07 Köln-Schalke 04,GER-BL1,22-23,6ba18904
+bd527260,Kingsley Schindler,17,GHA,RM,29-026,61,0,0,0,0,0,0,0,0,38,1,0,0,0.0,0.0,0.0,5,0,21,28,75.0,3,23,0,1,0,Köln,2022-08-07 Köln-Schalke 04,GER-BL1,22-23,6ba18904
+22919e97,Sargis Adamyan,23,ARM,RM,29-076,29,0,0,0,0,2,1,0,0,20,1,0,0,0.6,0.6,0.1,4,1,10,13,76.9,2,10,1,3,2,Köln,2022-08-07 Köln-Schalke 04,GER-BL1,22-23,6ba18904
+c2211709,Ellyes Skhiri,28,TUN,DM,27-089,90,0,0,0,0,5,0,0,0,96,7,1,1,0.7,0.7,0.4,7,0,75,79,94.9,18,67,6,2,2,Köln,2022-08-07 Köln-Schalke 04,GER-BL1,22-23,6ba18904
+c2009df3,Jonas Hector,14,GER,LB,32-072,90,0,1,0,0,1,0,0,0,78,2,2,1,0.0,0.0,1.3,5,1,54,67,80.6,5,50,4,0,0,Köln,2022-08-07 Köln-Schalke 04,GER-BL1,22-23,6ba18904
+ae7058f9,Julian Chabot,24,GER,CB,24-176,75,0,0,0,0,2,0,0,0,94,0,3,2,0.5,0.5,0.0,4,0,74,80,92.5,6,57,0,0,0,Köln,2022-08-07 Köln-Schalke 04,GER-BL1,22-23,6ba18904
+5154b2ba,Kristian Pedersen,3,DEN,CB,28-003,15,0,0,0,0,0,0,0,0,22,0,1,0,0.0,0.0,0.0,0,0,18,20,90.0,1,16,0,0,0,Köln,2022-08-07 Köln-Schalke 04,GER-BL1,22-23,6ba18904
+610aa1e9,Luca Kilian,15,GER,CB,22-340,90,1,0,0,0,2,1,0,0,110,2,2,1,1.0,1.0,0.0,4,0,93,102,91.2,16,79,5,0,0,Köln,2022-08-07 Köln-Schalke 04,GER-BL1,22-23,6ba18904
+ad00b1a8,Benno Schmitz,2,GER,RB,27-263,90,0,0,0,0,2,0,0,0,102,3,1,1,0.1,0.1,0.6,8,0,72,91,79.1,6,52,1,1,1,Köln,2022-08-07 Köln-Schalke 04,GER-BL1,22-23,6ba18904
+87436846,Marvin Schwäbe,20,GER,GK,27-104,90,0,0,0,0,0,0,0,0,43,0,0,0,0.0,0.0,0.0,0,0,38,43,88.4,0,25,0,0,0,Köln,2022-08-07 Köln-Schalke 04,GER-BL1,22-23,6ba18904
+3745e8bd,Sebastian Polter,40,GER,FW,31-128,87,0,0,0,0,0,0,0,0,36,0,0,0,0.0,0.0,0.0,0,0,12,19,63.2,0,17,0,2,1,Schalke 04,2022-08-07 Köln-Schalke 04,GER-BL1,22-23,6ba18904
+863ff1ee,Simon Terodde,9,GER,FW,34-158,3,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Schalke 04,2022-08-07 Köln-Schalke 04,GER-BL1,22-23,6ba18904
+9ec9c8b6,Tobias Mohr,29,GER,LM,26-348,76,0,0,0,0,1,0,0,0,29,0,0,2,0.0,0.0,0.0,0,0,11,17,64.7,2,12,0,0,0,Schalke 04,2022-08-07 Köln-Schalke 04,GER-BL1,22-23,6ba18904
+9642c929,Florian Flick,17,GER,LM,22-098,14,0,0,0,0,0,0,0,0,7,0,0,1,0.0,0.0,0.0,0,0,1,3,33.3,0,3,1,1,0,Schalke 04,2022-08-07 Köln-Schalke 04,GER-BL1,22-23,6ba18904
+fc3697dd,Rodrigo Zalazar,10,URU,CM,22-360,57,0,0,0,0,1,1,0,0,26,0,0,2,0.1,0.1,0.0,1,0,8,12,66.7,2,15,1,4,1,Schalke 04,2022-08-07 Köln-Schalke 04,GER-BL1,22-23,6ba18904
+ab5b7dc1,Marius Bülter,11,GER,CM,29-131,33,1,0,0,0,1,1,0,0,14,2,1,0,0.0,0.0,0.1,1,0,2,6,33.3,0,7,0,0,0,Schalke 04,2022-08-07 Köln-Schalke 04,GER-BL1,22-23,6ba18904
+9f77012e,Tom Krauß,6,GER,CM,21-046,76,0,0,0,0,0,0,0,0,29,2,0,2,0.0,0.0,0.0,1,1,15,23,65.2,2,13,0,2,2,Schalke 04,2022-08-07 Köln-Schalke 04,GER-BL1,22-23,6ba18904
+33b554b7,Danny Latza,8,GER,CM,32-243,14,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,3,5,60.0,0,6,0,0,0,Schalke 04,2022-08-07 Köln-Schalke 04,GER-BL1,22-23,6ba18904
+809940aa,Dominick Drexler,24,GER,RM,32-073,34,0,0,0,0,0,0,0,1,7,0,0,0,0.0,0.0,0.0,0,0,4,5,80.0,0,4,0,1,0,Schalke 04,2022-08-07 Köln-Schalke 04,GER-BL1,22-23,6ba18904
+e717705a,Alex Král,30,CZE,DM,24-080,88,0,0,0,0,1,0,0,0,24,0,1,4,0.0,0.0,0.0,0,0,8,12,66.7,0,7,0,0,0,Schalke 04,2022-08-07 Köln-Schalke 04,GER-BL1,22-23,6ba18904
+d1db4b83,Kerim Calhanoglu,42,GER,DM,19-346,2,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,1,0,1,1,100.0,0,1,0,1,0,Schalke 04,2022-08-07 Köln-Schalke 04,GER-BL1,22-23,6ba18904
+36d9dabe,Thomas Ouwejan,2,NED,LB,25-311,90,0,1,0,0,0,0,0,0,53,4,1,2,0.0,0.0,0.0,1,1,20,39,51.3,3,18,0,1,0,Schalke 04,2022-08-07 Köln-Schalke 04,GER-BL1,22-23,6ba18904
+463503e2,Marcin Kamiński,35,POL,CB,30-204,90,0,0,0,0,0,0,0,0,30,0,3,2,0.0,0.0,0.0,0,0,13,17,76.5,0,11,0,0,0,Schalke 04,2022-08-07 Köln-Schalke 04,GER-BL1,22-23,6ba18904
+caffaf5a,Maya Yoshida,4,JPN,CB,33-348,90,0,0,0,0,0,0,0,0,27,1,1,3,0.0,0.0,0.0,0,0,8,14,57.1,1,10,0,1,0,Schalke 04,2022-08-07 Köln-Schalke 04,GER-BL1,22-23,6ba18904
+f0a37d36,Cédric Brunner,27,SUI,RB,28-171,90,0,0,0,0,1,0,1,0,45,0,8,2,0.1,0.1,0.0,1,0,17,28,60.7,1,16,0,0,0,Schalke 04,2022-08-07 Köln-Schalke 04,GER-BL1,22-23,6ba18904
+0d55d942,Alexander Schwolow,13,GER,GK,30-066,90,0,0,0,0,0,0,0,0,35,0,0,0,0.0,0.0,0.0,1,0,14,29,48.3,0,15,0,0,0,Schalke 04,2022-08-07 Köln-Schalke 04,GER-BL1,22-23,6ba18904

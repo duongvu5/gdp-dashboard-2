@@ -1,0 +1,31 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+2ccd39ed,Akor Adams,8,NGA,FW,23-325,73,0,0,0,0,4,3,0,0,24,0,0,1,0.4,0.4,0.0,3,0,8,16,50.0,1,16,1,1,1,Montpellier,2023-12-20 Montpellier-Marseille,FRA-L1,23-24,b8e581d1
+ea0893d6,Kelvin Yeboah,23,ITA,FW,23-228,17,0,0,0,0,0,0,0,0,9,1,0,0,0.0,0.0,0.0,1,0,5,6,83.3,1,5,1,1,1,Montpellier,2023-12-20 Montpellier-Marseille,FRA-L1,23-24,b8e581d1
+f15f8b2b,Musa Al-Taamari,9,JOR,FW,26-193,73,0,0,0,0,2,0,0,0,26,0,0,0,0.0,0.0,0.1,5,0,11,15,73.3,1,21,0,3,0,Montpellier,2023-12-20 Montpellier-Marseille,FRA-L1,23-24,b8e581d1
+05ba9d7c,Tanguy Coulibaly,70,FRA,FW,22-305,17,0,0,0,0,2,1,0,0,10,0,0,0,0.1,0.1,0.0,0,0,3,6,50.0,0,10,2,3,3,Montpellier,2023-12-20 Montpellier-Marseille,FRA-L1,23-24,b8e581d1
+6bde367b,Téji Savanier,11,FRA,CM,31-363,90,0,0,0,0,2,1,1,0,70,6,6,1,0.0,0.0,0.1,4,1,32,52,61.5,3,41,3,2,2,Montpellier,2023-12-20 Montpellier-Marseille,FRA-L1,23-24,b8e581d1
+faf00ab8,Khalil Fayad,22,FRA,CM,19-194,60,1,0,0,0,1,1,0,0,19,0,1,1,0.2,0.2,0.1,1,0,12,12,100.0,4,15,0,0,0,Montpellier,2023-12-20 Montpellier-Marseille,FRA-L1,23-24,b8e581d1
+375622c5,Jordan Ferri,12,FRA,CM,31-283,30,0,0,0,0,0,0,0,0,15,0,1,1,0.0,0.0,0.0,1,0,11,12,91.7,2,12,1,1,1,Montpellier,2023-12-20 Montpellier-Marseille,FRA-L1,23-24,b8e581d1
+7909ffa4,Joris Chotard,13,FRA,CM,22-087,90,0,0,0,0,0,0,0,0,26,1,2,3,0.0,0.0,0.1,1,0,10,17,58.8,2,15,0,1,1,Montpellier,2023-12-20 Montpellier-Marseille,FRA-L1,23-24,b8e581d1
+02b3733e,Lucas Mincarelli,35,FRA,LB,19-349,59,0,0,0,0,0,0,0,0,25,0,1,1,0.0,0.0,0.0,0,0,13,19,68.4,0,15,2,1,1,Montpellier,2023-12-20 Montpellier-Marseille,FRA-L1,23-24,b8e581d1
+6388e356,Falaye Sacko,77,MLI,LB,28-233,31,0,0,0,0,0,0,0,0,16,0,1,0,0.0,0.0,0.0,1,0,11,12,91.7,1,10,1,1,1,Montpellier,2023-12-20 Montpellier-Marseille,FRA-L1,23-24,b8e581d1
+1a066e69,Maxime Estève,14,FRA,CB,21-208,90,0,1,0,0,0,0,0,0,34,1,1,0,0.0,0.0,0.2,2,1,16,25,64.0,2,16,0,1,0,Montpellier,2023-12-20 Montpellier-Marseille,FRA-L1,23-24,b8e581d1
+f323d995,Christopher Jullien,6,FRA,CB,30-273,90,0,0,0,0,0,0,1,0,30,0,2,1,0.0,0.0,0.0,0,0,13,15,86.7,2,10,0,0,0,Montpellier,2023-12-20 Montpellier-Marseille,FRA-L1,23-24,b8e581d1
+c284d6fb,Becir Omeragic,27,SUI,CB,21-334,90,0,0,0,0,0,0,0,0,36,4,0,3,0.0,0.0,0.0,0,0,18,23,78.3,3,20,0,1,0,Montpellier,2023-12-20 Montpellier-Marseille,FRA-L1,23-24,b8e581d1
+7f783431,Enzo Tchato,29,CMR,RB,21-027,90,0,0,0,0,1,0,0,0,37,1,1,0,0.1,0.1,0.0,2,0,23,29,79.3,1,25,4,0,0,Montpellier,2023-12-20 Montpellier-Marseille,FRA-L1,23-24,b8e581d1
+2fa2a875,Benjamin Lecomte,40,FRA,GK,32-238,90,0,0,0,0,0,0,0,0,33,0,0,0,0.0,0.0,0.0,1,0,23,31,74.2,0,18,0,0,0,Montpellier,2023-12-20 Montpellier-Marseille,FRA-L1,23-24,b8e581d1
+d5dd5f1f,Pierre-Emerick Aubameyang,10,GAB,FW,34-185,90,0,0,0,0,5,1,0,0,34,1,0,0,0.4,0.4,0.0,0,0,20,26,76.9,2,28,1,0,0,Marseille,2023-12-20 Montpellier-Marseille,FRA-L1,23-24,b8e581d1
+5ed97752,Iliman Ndiaye,29,SEN,FW,23-289,72,0,0,0,0,1,0,0,0,44,0,1,1,0.0,0.0,0.5,6,0,29,34,85.3,2,34,4,4,4,Marseille,2023-12-20 Montpellier-Marseille,FRA-L1,23-24,b8e581d1
+74d4cec6,Vitinha,9,POR,FW,23-280,18,0,0,0,0,1,0,0,0,14,0,0,0,0.0,0.0,0.0,0,0,4,9,44.4,0,11,0,0,0,Marseille,2023-12-20 Montpellier-Marseille,FRA-L1,23-24,b8e581d1
+4a56052c,Jordan Veretout,27,FRA,CM,30-294,90,1,0,0,0,4,2,0,0,73,1,0,4,0.4,0.4,0.4,5,0,49,63,77.8,9,61,5,1,0,Marseille,2023-12-20 Montpellier-Marseille,FRA-L1,23-24,b8e581d1
+cce181df,Geoffrey Kondogbia,19,CTA,CM,30-308,90,0,0,0,0,0,0,0,0,76,1,1,1,0.0,0.0,0.0,1,0,61,67,91.0,7,57,1,0,0,Marseille,2023-12-20 Montpellier-Marseille,FRA-L1,23-24,b8e581d1
+83299cc0,Azzedine Ounahi,8,MAR,CM,23-245,71,0,0,0,0,1,0,0,0,63,0,0,1,0.0,0.0,0.0,5,1,47,54,87.0,5,58,4,3,2,Marseille,2023-12-20 Montpellier-Marseille,FRA-L1,23-24,b8e581d1
+e7d59f4f,Amine Harit,11,MAR,CM,26-185,19,0,0,0,0,0,0,0,0,22,1,0,0,0.0,0.0,0.0,3,0,13,18,72.2,2,17,4,3,0,Marseille,2023-12-20 Montpellier-Marseille,FRA-L1,23-24,b8e581d1
+349cae8f,Michael Amir Murillo,62,PAN,LB,27-312,90,0,0,0,0,1,1,0,0,51,3,1,0,0.0,0.0,0.0,2,0,37,42,88.1,4,29,1,2,2,Marseille,2023-12-20 Montpellier-Marseille,FRA-L1,23-24,b8e581d1
+7c3ed041,Leonardo Balerdi,5,ARG,CB,24-328,90,0,0,0,0,1,0,0,0,72,3,0,0,0.0,0.0,0.0,0,0,54,62,87.1,8,50,1,2,0,Marseille,2023-12-20 Montpellier-Marseille,FRA-L1,23-24,b8e581d1
+41eebdf5,Samuel Gigot,4,FRA,CB,30-069,86,0,0,0,0,0,0,1,0,59,0,0,0,0.0,0.0,0.0,0,0,54,56,96.4,5,50,0,1,1,Marseille,2023-12-20 Montpellier-Marseille,FRA-L1,23-24,b8e581d1
+04ac78d2,Bamo Meïté,18,CIV,CB,22-017,4,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,4,5,80.0,0,3,0,0,0,Marseille,2023-12-20 Montpellier-Marseille,FRA-L1,23-24,b8e581d1
+e76cb9cc,Chancel Mbemba,99,COD,CB,29-134,90,0,0,0,0,3,0,0,0,83,1,1,0,0.3,0.3,0.0,0,0,62,72,86.1,12,61,4,0,0,Marseille,2023-12-20 Montpellier-Marseille,FRA-L1,23-24,b8e581d1
+5219ab4a,Jonathan Clauss,7,FRA,RB,31-086,90,0,1,0,0,0,0,0,0,94,3,1,1,0.0,0.0,0.2,7,1,65,84,77.4,10,69,2,0,0,Marseille,2023-12-20 Montpellier-Marseille,FRA-L1,23-24,b8e581d1
+20b9f052,Pau López,16,ESP,GK,29-007,90,0,0,0,0,0,0,0,0,25,0,0,0,0.0,0.0,0.0,0,0,18,20,90.0,0,16,0,0,0,Marseille,2023-12-20 Montpellier-Marseille,FRA-L1,23-24,b8e581d1

@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+fb14aa28,Mama Samba Baldé,25,GNB,FW,26-113,76,0,0,0,0,2,1,1,0,26,1,0,1,0.7,0.7,0.0,2,0,7,13,53.8,1,18,1,5,3,Troyes,2022-02-27 Troyes-Marseille,FRA-L1,21-22,14d51e3d
+4e47507a,Yoann Touzghar,7,TUN,FW,35-091,14,1,0,0,0,1,1,0,0,4,0,0,0,0.6,0.6,0.0,0,0,1,2,50.0,0,3,0,1,0,Troyes,2022-02-27 Troyes-Marseille,FRA-L1,21-22,14d51e3d
+8a53d24b,Ike Ugbo,13,CAN,FW,23-159,57,0,0,0,0,1,0,0,0,16,0,0,1,0.1,0.1,0.0,0,0,9,10,90.0,1,10,0,1,1,Troyes,2022-02-27 Troyes-Marseille,FRA-L1,21-22,14d51e3d
+3eaf8817,Lebo Mothiba,26,RSA,FW,26-030,33,0,0,0,0,0,0,0,0,7,1,0,1,0.0,0.0,0.0,1,0,5,5,100.0,1,3,0,0,0,Troyes,2022-02-27 Troyes-Marseille,FRA-L1,21-22,14d51e3d
+92b56413,Tristan Dingomé,5,CMR,CM,31-010,90,0,0,0,0,0,0,0,0,46,3,0,3,0.0,0.0,0.3,2,0,31,40,77.5,5,27,0,1,1,Troyes,2022-02-27 Troyes-Marseille,FRA-L1,21-22,14d51e3d
+ed39121c,Florian Tardieu,10,FRA,CM,29-311,90,0,0,0,0,1,1,1,0,82,0,1,1,0.1,0.1,0.1,2,0,59,72,81.9,8,51,0,1,1,Troyes,2022-02-27 Troyes-Marseille,FRA-L1,21-22,14d51e3d
+86a2ba20,Rominigue Kouamé,6,MLI,CM,25-072,89,0,0,0,0,2,0,0,0,60,0,1,4,0.0,0.0,0.5,3,1,42,48,87.5,3,47,2,1,1,Troyes,2022-02-27 Troyes-Marseille,FRA-L1,21-22,14d51e3d
+279ddf6a,Xavier Chavalerin,24,FRA,CM,30-357,1,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,0,0,Troyes,2022-02-27 Troyes-Marseille,FRA-L1,21-22,14d51e3d
+cfa49cc1,Abdu Conté,12,POR,WB,23-340,58,0,0,0,0,0,0,1,0,28,0,0,0,0.0,0.0,0.0,0,0,21,28,75.0,2,19,1,1,1,Troyes,2022-02-27 Troyes-Marseille,FRA-L1,21-22,14d51e3d
+e6eadfb8,Youssouf Koné,3,MLI,WB,26-237,32,0,1,0,0,0,0,0,0,16,4,1,0,0.0,0.0,0.6,1,1,10,10,100.0,2,8,0,0,0,Troyes,2022-02-27 Troyes-Marseille,FRA-L1,21-22,14d51e3d
+c066d1a5,Issa Kaboré,29,BFA,WB,20-291,90,0,0,0,0,0,0,0,0,54,3,0,1,0.0,0.0,0.0,2,0,28,42,66.7,2,31,1,3,1,Troyes,2022-02-27 Troyes-Marseille,FRA-L1,21-22,14d51e3d
+e5c1e0ca,Erik Palmer-Brown,2,USA,CB,24-309,76,0,0,0,0,0,0,0,0,43,2,1,1,0.0,0.0,0.0,0,0,31,37,83.8,4,31,1,0,0,Troyes,2022-02-27 Troyes-Marseille,FRA-L1,21-22,14d51e3d
+de40e38c,Giulian Biancone,4,FRA,CB,21-333,14,0,0,0,0,0,0,1,0,19,0,0,0,0.0,0.0,0.0,0,0,13,16,81.3,4,9,2,0,0,Troyes,2022-02-27 Troyes-Marseille,FRA-L1,21-22,14d51e3d
+8dbff17c,Adil Rami,23,FRA,CB,36-062,90,0,0,0,0,0,0,1,0,65,2,1,3,0.0,0.0,0.0,0,0,51,56,91.1,3,44,0,1,0,Troyes,2022-02-27 Troyes-Marseille,FRA-L1,21-22,14d51e3d
+c3725db2,Yoann Salmier,17,GUF,CB,29-098,90,0,0,0,0,2,0,0,0,66,2,0,1,0.1,0.1,0.0,1,0,53,56,94.6,7,49,0,2,2,Troyes,2022-02-27 Troyes-Marseille,FRA-L1,21-22,14d51e3d
+db3164e1,Gauthier Gallon,30,FRA,GK,28-310,90,0,0,0,0,0,0,0,0,23,0,0,0,0.0,0.0,0.0,0,0,14,19,73.7,0,12,0,0,0,Troyes,2022-02-27 Troyes-Marseille,FRA-L1,21-22,14d51e3d
+58ae47b2,Dimitri Payet,10,FRA,FW,34-335,77,1,0,1,1,1,1,1,0,53,0,0,0,0.8,0.1,0.0,1,0,32,45,71.1,0,32,1,1,1,Marseille,2022-02-27 Troyes-Marseille,FRA-L1,21-22,14d51e3d
+85613cf0,Arkadiusz Milik,9,POL,FW,27-364,13,0,0,0,0,1,0,0,0,8,0,0,0,0.1,0.1,0.0,0,0,4,7,57.1,0,3,0,0,0,Marseille,2022-02-27 Troyes-Marseille,FRA-L1,21-22,14d51e3d
+40774c6b,Bamba Dieng,12,SEN,LW,21-341,56,0,0,0,0,0,0,0,0,13,0,0,0,0.0,0.0,0.0,0,0,8,11,72.7,1,9,1,0,0,Marseille,2022-02-27 Troyes-Marseille,FRA-L1,21-22,14d51e3d
+f36d5624,Luis Henrique,11,BRA,"LW,FW",20-075,34,0,0,0,0,0,0,0,0,16,0,0,0,0.0,0.0,0.0,0,0,7,10,70.0,1,9,1,5,3,Marseille,2022-02-27 Troyes-Marseille,FRA-L1,21-22,14d51e3d
+1880614f,Cengiz Ünder,17,TUR,RW,24-228,85,0,0,0,0,1,0,0,0,45,2,1,0,0.0,0.0,0.0,1,0,22,30,73.3,0,32,1,6,1,Marseille,2022-02-27 Troyes-Marseille,FRA-L1,21-22,14d51e3d
+7155e3e1,Pape Gueye,22,SEN,CM,23-034,5,0,0,0,0,1,0,0,0,8,1,0,0,0.1,0.1,0.0,0,0,6,6,100.0,0,5,0,0,0,Marseille,2022-02-27 Troyes-Marseille,FRA-L1,21-22,14d51e3d
+8827bf46,Gerson,8,BRA,LM,24-283,90,0,0,0,0,1,0,0,0,34,1,1,1,0.0,0.0,0.0,3,0,26,29,89.7,2,27,4,2,2,Marseille,2022-02-27 Troyes-Marseille,FRA-L1,21-22,14d51e3d
+cc77354e,Boubacar Kamara,4,FRA,CM,22-096,90,0,0,0,0,1,1,0,0,91,2,0,1,0.1,0.1,0.0,2,1,76,84,90.5,3,62,0,1,1,Marseille,2022-02-27 Troyes-Marseille,FRA-L1,21-22,14d51e3d
+5ea8ef20,Mattéo Guendouzi,6,FRA,RM,22-319,90,0,0,0,0,1,0,0,0,57,3,0,2,0.0,0.0,0.1,3,1,37,50,74.0,6,41,2,1,1,Marseille,2022-02-27 Troyes-Marseille,FRA-L1,21-22,14d51e3d
+a5549ec1,Luan Peres Petroni,14,BRA,LB,27-223,86,0,0,0,0,0,0,0,0,55,2,0,2,0.0,0.0,0.0,2,0,41,47,87.2,4,38,1,1,1,Marseille,2022-02-27 Troyes-Marseille,FRA-L1,21-22,14d51e3d
+3935e52e,Sead Kolašinac,23,BIH,LB,28-252,4,0,0,0,0,0,0,0,0,11,2,0,0,0.0,0.0,0.0,0,0,4,8,50.0,0,4,0,0,0,Marseille,2022-02-27 Troyes-Marseille,FRA-L1,21-22,14d51e3d
+94f8d10c,Duje Ćaleta-Car,15,CRO,CB,25-163,90,0,0,0,0,0,0,0,0,91,1,2,0,0.0,0.0,0.0,0,0,74,83,89.2,1,70,0,0,0,Marseille,2022-02-27 Troyes-Marseille,FRA-L1,21-22,14d51e3d
+972aeb2a,William Saliba,2,FRA,CB,20-340,90,0,0,0,0,0,0,0,0,87,0,2,0,0.0,0.0,0.0,1,0,78,81,96.3,3,65,0,0,0,Marseille,2022-02-27 Troyes-Marseille,FRA-L1,21-22,14d51e3d
+ed45c4a5,Valentin Rongier,21,FRA,RB,27-082,56,0,0,0,0,0,0,1,0,52,1,0,0,0.0,0.0,0.0,1,0,42,47,89.4,4,34,0,1,0,Marseille,2022-02-27 Troyes-Marseille,FRA-L1,21-22,14d51e3d
+ff800ed8,Pol Lirola,29,ESP,RB,24-198,34,0,0,0,0,0,0,0,0,30,0,0,0,0.0,0.0,0.0,1,0,23,28,82.1,3,26,2,0,0,Marseille,2022-02-27 Troyes-Marseille,FRA-L1,21-22,14d51e3d
+20b9f052,Pau López,16,ESP,GK,27-076,90,0,0,0,0,0,0,1,0,57,0,0,0,0.0,0.0,0.0,0,0,50,57,87.7,0,43,0,0,0,Marseille,2022-02-27 Troyes-Marseille,FRA-L1,21-22,14d51e3d

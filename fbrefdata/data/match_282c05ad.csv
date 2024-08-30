@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+d3de9af0,Duván Zapata,91,COL,FW,28-320,58,0,0,0,0,0,0,0,0,24,0,0,1,0.0,0.0,0.0,3,0,16,20,80.0,2,19,1,1,0,Atalanta,2020-02-15 Atalanta-Roma,ITA-SERIA_A,19-20,282c05ad
+e599253a,Mario Pašalić,88,CRO,"AM,FW",25-006,32,1,0,0,0,2,2,0,0,14,2,1,1,0.1,0.1,0.0,1,0,6,6,100.0,1,9,0,0,0,Atalanta,2020-02-15 Atalanta-Roma,ITA-SERIA_A,19-20,282c05ad
+68252d6d,Josip Iličić,72,SVN,FW,32-017,82,0,0,0,0,2,0,0,0,56,3,1,1,0.1,0.1,0.6,3,0,31,43,72.1,2,40,5,3,2,Atalanta,2020-02-15 Atalanta-Roma,ITA-SERIA_A,19-20,282c05ad
+48d5bd33,Ruslan Malinovskyi,18,UKR,FW,26-287,8,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,2,4,50.0,0,5,0,0,0,Atalanta,2020-02-15 Atalanta-Roma,ITA-SERIA_A,19-20,282c05ad
+6e4df551,Papu Gómez,10,ARG,"AM,FW",32-000,85,0,0,0,0,2,1,0,0,63,1,1,0,0.5,0.5,0.1,5,0,45,52,86.5,9,50,7,2,0,Atalanta,2020-02-15 Atalanta-Roma,ITA-SERIA_A,19-20,282c05ad
+eb2fe5b6,Luis Muriel,9,COL,FW,28-305,5,0,0,0,0,1,1,0,0,3,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,2,1,1,1,Atalanta,2020-02-15 Atalanta-Roma,ITA-SERIA_A,19-20,282c05ad
+98d2c2c4,Remo Freuler,11,SUI,CM,27-306,90,0,0,0,0,0,0,0,0,70,4,2,1,0.0,0.0,0.0,1,1,50,56,89.3,6,43,1,0,0,Atalanta,2020-02-15 Atalanta-Roma,ITA-SERIA_A,19-20,282c05ad
+2a1beb34,Marten de Roon,15,NED,CM,28-323,90,0,0,0,0,1,0,0,0,61,1,0,0,0.0,0.0,0.0,0,0,44,54,81.5,3,43,1,1,0,Atalanta,2020-02-15 Atalanta-Roma,ITA-SERIA_A,19-20,282c05ad
+2d970560,Robin Gosens,8,GER,WB,25-225,90,0,1,0,0,0,0,1,0,70,2,1,0,0.0,0.0,0.1,5,1,53,62,85.5,7,45,4,0,0,Atalanta,2020-02-15 Atalanta-Roma,ITA-SERIA_A,19-20,282c05ad
+3b333ac3,Hans Hateboer,33,NED,WB,26-037,90,0,0,0,0,0,0,0,0,59,0,0,2,0.0,0.0,0.0,2,0,42,53,79.2,2,36,3,0,0,Atalanta,2020-02-15 Atalanta-Roma,ITA-SERIA_A,19-20,282c05ad
+6eee05f1,Berat Djimsiti,19,ALB,CB,26-361,90,0,1,0,0,2,0,0,0,83,3,3,1,0.1,0.1,0.6,1,1,53,64,82.8,6,55,0,1,0,Atalanta,2020-02-15 Atalanta-Roma,ITA-SERIA_A,19-20,282c05ad
+921f6058,José Luis Palomino,6,ARG,CB,30-041,90,1,0,0,0,1,1,0,0,68,3,2,0,0.6,0.6,0.0,0,0,47,56,83.9,1,42,1,1,1,Atalanta,2020-02-15 Atalanta-Roma,ITA-SERIA_A,19-20,282c05ad
+c56dc39e,Rafael Tolói,2,ITA,CB,29-128,90,0,0,0,0,2,1,0,0,75,3,1,0,0.1,0.1,0.0,1,0,52,66,78.8,10,54,1,0,0,Atalanta,2020-02-15 Atalanta-Roma,ITA-SERIA_A,19-20,282c05ad
+f0f7f62f,Pierluigi Gollini,95,ITA,GK,24-334,90,0,0,0,0,0,0,0,0,30,0,0,0,0.0,0.0,0.0,0,0,21,29,72.4,0,17,0,0,0,Atalanta,2020-02-15 Atalanta-Roma,ITA-SERIA_A,19-20,282c05ad
+3bb7f478,Edin Džeko,9,BIH,FW,33-335,90,1,0,0,0,2,1,0,0,30,0,0,0,0.1,0.1,0.0,1,0,13,18,72.2,2,24,0,2,0,Roma,2020-02-15 Atalanta-Roma,ITA-SERIA_A,19-20,282c05ad
+a40d5a0c,Diego Perotti,8,ARG,LM,31-204,77,0,0,0,0,1,0,0,0,30,2,0,0,0.0,0.0,0.1,3,0,16,23,69.6,2,16,3,1,1,Roma,2020-02-15 Atalanta-Roma,ITA-SERIA_A,19-20,282c05ad
+bdc74a8f,Gonzalo Villar,14,ESP,CM,21-329,13,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,8,8,100.0,1,4,1,0,0,Roma,2020-02-15 Atalanta-Roma,ITA-SERIA_A,19-20,282c05ad
+dd0daf32,Henrikh Mkhitaryan,77,ARM,"CM,LM",31-025,90,0,0,0,0,1,0,1,0,51,1,2,3,0.0,0.0,0.0,2,0,31,37,83.8,2,19,0,2,0,Roma,2020-02-15 Atalanta-Roma,ITA-SERIA_A,19-20,282c05ad
+4a5a45c7,Lorenzo Pellegrini,7,ITA,CM,23-241,90,0,0,0,0,3,0,0,0,57,2,0,1,0.1,0.1,0.1,3,0,32,44,72.7,7,22,0,2,2,Roma,2020-02-15 Atalanta-Roma,ITA-SERIA_A,19-20,282c05ad
+4c3a6744,Justin Kluivert,99,NED,RM,20-286,61,0,0,0,0,0,0,0,0,30,1,0,1,0.0,0.0,0.0,2,0,14,19,73.7,0,20,2,4,1,Roma,2020-02-15 Atalanta-Roma,ITA-SERIA_A,19-20,282c05ad
+a8f21b9f,Carles Pérez,31,ESP,RM,21-364,29,0,0,0,0,0,0,1,0,15,1,0,0,0.0,0.0,0.0,0,0,8,9,88.9,0,8,1,2,1,Roma,2020-02-15 Atalanta-Roma,ITA-SERIA_A,19-20,282c05ad
+5aa53281,Gianluca Mancini,23,ITA,DM,23-304,67,0,0,0,0,0,0,1,0,33,2,1,0,0.0,0.0,0.0,0,0,18,26,69.2,2,13,0,1,1,Roma,2020-02-15 Atalanta-Roma,ITA-SERIA_A,19-20,282c05ad
+4a56052c,Jordan Veretout,21,FRA,DM,26-351,23,0,0,0,0,0,0,0,0,20,1,0,1,0.0,0.0,0.0,0,0,16,18,88.9,3,9,0,0,0,Roma,2020-02-15 Atalanta-Roma,ITA-SERIA_A,19-20,282c05ad
+3626daea,Leonardo Spinazzola,37,ITA,LB,26-327,90,0,0,0,0,0,0,0,0,70,1,1,2,0.0,0.0,0.0,1,0,48,60,80.0,2,33,4,1,1,Roma,2020-02-15 Atalanta-Roma,ITA-SERIA_A,19-20,282c05ad
+4e358a2d,Federico Fazio,20,ARG,CB,32-335,90,0,0,0,0,1,0,1,0,44,1,1,2,0.1,0.1,0.0,0,0,26,35,74.3,3,14,0,2,0,Roma,2020-02-15 Atalanta-Roma,ITA-SERIA_A,19-20,282c05ad
+b6964eb6,Chris Smalling,6,ENG,CB,30-085,90,0,0,0,0,0,0,0,0,54,1,3,0,0.0,0.0,0.0,0,0,30,40,75.0,1,12,1,0,0,Roma,2020-02-15 Atalanta-Roma,ITA-SERIA_A,19-20,282c05ad
+852351df,Bruno Peres,33,BRA,RB,29-351,90,0,0,0,0,0,0,0,0,65,0,1,0,0.0,0.0,0.0,2,0,51,63,81.0,4,41,8,3,3,Roma,2020-02-15 Atalanta-Roma,ITA-SERIA_A,19-20,282c05ad
+20b9f052,Pau López,13,ESP,GK,25-064,90,0,0,0,0,0,0,0,0,37,0,0,0,0.0,0.0,0.0,0,0,28,33,84.8,0,12,0,0,0,Roma,2020-02-15 Atalanta-Roma,ITA-SERIA_A,19-20,282c05ad

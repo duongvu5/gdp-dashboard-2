@@ -1,0 +1,32 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+83e1f40e,Luca Pfeiffer,20,GER,FW,26-070,89,0,0,0,0,4,1,1,0,44,0,0,0,0.3,0.3,0.2,3,0,19,35,54.3,3,26,4,0,0,Stuttgart,2022-10-29 Stuttgart-Augsburg,GER-BL1,22-23,d65b9084
+5762be5c,Atakan Karazor,16,GER,FW,26-016,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Stuttgart,2022-10-29 Stuttgart-Augsburg,GER-BL1,22-23,d65b9084
+923f4dda,Serhou Guirassy,9,GUI,FW,26-231,90,1,0,0,0,6,1,0,0,51,1,0,1,0.7,0.7,0.0,6,0,25,37,67.6,3,29,2,3,2,Stuttgart,2022-10-29 Stuttgart-Augsburg,GER-BL1,22-23,d65b9084
+0cf778df,Chris Führich,22,GER,LM,24-293,75,0,0,0,0,2,1,0,0,37,0,0,0,0.2,0.2,0.0,4,1,26,32,81.3,5,23,3,1,1,Stuttgart,2022-10-29 Stuttgart-Augsburg,GER-BL1,22-23,d65b9084
+2f7fec15,Lilian Egloff,25,GER,LM,20-070,15,0,0,0,0,1,0,0,0,9,1,0,0,0.0,0.0,0.2,2,0,2,2,100.0,0,6,2,1,0,Stuttgart,2022-10-29 Stuttgart-Augsburg,GER-BL1,22-23,d65b9084
+a6c58494,Naouirou Ahamada,32,FRA,CM,20-214,90,0,0,0,0,3,1,0,0,54,1,0,1,0.1,0.1,0.0,5,1,41,48,85.4,4,37,2,2,2,Stuttgart,2022-10-29 Stuttgart-Augsburg,GER-BL1,22-23,d65b9084
+c149016b,Wataru Endo,3,JPN,CM,29-262,90,0,0,0,0,5,0,0,0,73,0,0,0,0.4,0.4,0.1,6,0,46,60,76.7,7,44,0,2,1,Stuttgart,2022-10-29 Stuttgart-Augsburg,GER-BL1,22-23,d65b9084
+de4cac2d,Silas Katompa,14,COD,RM,24-023,65,0,0,0,0,1,0,0,0,26,1,0,1,0.2,0.2,0.1,4,0,16,18,88.9,3,17,1,2,0,Stuttgart,2022-10-29 Stuttgart-Augsburg,GER-BL1,22-23,d65b9084
+b492126a,Tiago Tomás,10,POR,RM,20-135,25,0,1,0,0,0,0,0,0,12,1,0,0,0.0,0.0,0.3,2,1,6,10,60.0,2,9,1,1,1,Stuttgart,2022-10-29 Stuttgart-Augsburg,GER-BL1,22-23,d65b9084
+af0d79a9,Borna Sosa,24,CRO,LB,24-281,90,0,1,0,0,0,0,0,0,71,2,0,0,0.0,0.0,1.0,9,1,47,66,71.2,1,32,2,2,1,Stuttgart,2022-10-29 Stuttgart-Augsburg,GER-BL1,22-23,d65b9084
+a4effc55,Dan-Axel Zagadou,23,FRA,CB,23-148,90,0,0,0,0,3,0,0,0,69,0,0,0,0.3,0.3,0.1,3,0,46,64,71.9,2,43,0,0,0,Stuttgart,2022-10-29 Stuttgart-Augsburg,GER-BL1,22-23,d65b9084
+204dded0,Hiroki Ito,21,JPN,CB,23-170,90,0,0,0,0,2,0,0,0,63,0,1,4,0.1,0.1,0.1,2,0,42,52,80.8,1,34,1,0,0,Stuttgart,2022-10-29 Stuttgart-Augsburg,GER-BL1,22-23,d65b9084
+5e66fa06,Waldemar Anton,2,GER,RB,26-101,89,1,0,0,0,2,2,0,0,64,1,0,3,0.4,0.4,0.0,2,0,37,50,74.0,4,18,1,1,0,Stuttgart,2022-10-29 Stuttgart-Augsburg,GER-BL1,22-23,d65b9084
+99f7e9aa,Pascal Stenzel,15,GER,RB,26-223,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Stuttgart,2022-10-29 Stuttgart-Augsburg,GER-BL1,22-23,d65b9084
+cbac6ec9,Florian Müller,1,GER,GK,24-350,90,0,0,0,0,0,0,0,0,51,0,0,0,0.0,0.0,0.1,1,0,43,49,87.8,0,36,0,0,0,Stuttgart,2022-10-29 Stuttgart-Augsburg,GER-BL1,22-23,d65b9084
+eb6e14be,Mergim Berisha,11,GER,FW,24-171,90,0,0,0,0,3,2,0,0,36,0,0,1,0.1,0.1,0.4,2,0,8,25,32.0,3,5,0,0,0,Augsburg,2022-10-29 Stuttgart-Augsburg,GER-BL1,22-23,d65b9084
+d6862409,Florian Niederlechner,7,GER,FW,32-005,90,1,0,0,0,3,1,0,0,31,0,0,3,0.4,0.4,0.1,1,0,11,19,57.9,2,11,0,2,1,Augsburg,2022-10-29 Stuttgart-Augsburg,GER-BL1,22-23,d65b9084
+ed79b7d3,Ermedin Demirović,9,BIH,LM,24-218,90,0,0,0,0,2,0,0,0,27,0,0,2,0.1,0.1,0.0,0,0,8,15,53.3,1,10,1,0,0,Augsburg,2022-10-29 Stuttgart-Augsburg,GER-BL1,22-23,d65b9084
+1ae836b1,Elvis Rexhbeçaj,13,GER,CM,24-362,90,0,0,0,0,1,1,1,0,38,2,1,1,0.0,0.0,0.0,3,0,16,30,53.3,1,13,0,0,0,Augsburg,2022-10-29 Stuttgart-Augsburg,GER-BL1,22-23,d65b9084
+f2dd9a21,Carlos Gruezo,8,ECU,CM,27-193,89,0,0,0,0,0,0,1,0,33,1,1,0,0.0,0.0,0.0,2,1,26,28,92.9,6,15,0,0,0,Augsburg,2022-10-29 Stuttgart-Augsburg,GER-BL1,22-23,d65b9084
+ab700320,Arne Maier,10,GER,CM,23-294,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Augsburg,2022-10-29 Stuttgart-Augsburg,GER-BL1,22-23,d65b9084
+6ecbddf6,Ruben Vargas,16,SUI,RM,24-085,24,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,2,5,40.0,0,2,0,0,0,Augsburg,2022-10-29 Stuttgart-Augsburg,GER-BL1,22-23,d65b9084
+f503ef6e,Lukas Petkov,21,BUL,RM,21-362,65,0,0,0,0,0,0,0,0,22,0,1,1,0.0,0.0,0.0,0,0,3,14,21.4,0,10,0,2,0,Augsburg,2022-10-29 Stuttgart-Augsburg,GER-BL1,22-23,d65b9084
+d1273f09,Daniel Caligiuri,20,ITA,RM,34-287,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Augsburg,2022-10-29 Stuttgart-Augsburg,GER-BL1,22-23,d65b9084
+582a5247,Mads Pedersen,3,DEN,LB,26-058,78,0,0,0,0,0,0,0,0,44,3,0,3,0.0,0.0,0.1,3,0,16,31,51.6,1,11,1,2,1,Augsburg,2022-10-29 Stuttgart-Augsburg,GER-BL1,22-23,d65b9084
+677da306,Ohis Felix Uduokhai,19,GER,LB,25-050,12,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,3,6,50.0,0,1,0,1,0,Augsburg,2022-10-29 Stuttgart-Augsburg,GER-BL1,22-23,d65b9084
+1025db8e,Jeffrey Gouweleeuw,6,NED,CB,31-111,90,0,0,0,0,1,0,0,0,40,2,0,4,0.0,0.0,0.0,4,0,24,32,75.0,5,23,1,3,3,Augsburg,2022-10-29 Stuttgart-Augsburg,GER-BL1,22-23,d65b9084
+44a20f0c,Maximilian Bauer,23,GER,CB,22-262,90,0,0,0,0,1,0,0,0,50,1,0,1,0.3,0.3,0.0,0,0,27,38,71.1,2,24,2,0,0,Augsburg,2022-10-29 Stuttgart-Augsburg,GER-BL1,22-23,d65b9084
+3eeb80e0,Fredrik Jensen,24,FIN,RB,25-050,90,0,1,0,0,0,0,0,0,40,1,1,0,0.0,0.0,0.4,2,1,13,32,40.6,1,14,1,0,0,Augsburg,2022-10-29 Stuttgart-Augsburg,GER-BL1,22-23,d65b9084
+dc366c36,Tomáš Koubek,40,CZE,GK,30-064,90,0,0,0,0,0,0,0,0,44,0,0,0,0.0,0.0,0.0,2,0,30,41,73.2,0,26,0,0,0,Augsburg,2022-10-29 Stuttgart-Augsburg,GER-BL1,22-23,d65b9084

@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+64f69877,Kevin Volland,31,GER,"FW,LW",26-187,90,1,0,0,0,2,1,0,0,34,1,2,1,0.5,0.5,0.0,2,1,12,20,60.0,3,12,1,1,0,Bayer Leverkusen,2019-02-02 Leverkusen-Bayern Munich,GER-BL1,18-19,6378e865
+3a233281,Leon Bailey,9,JAM,LW,21-177,83,1,0,0,0,2,1,0,0,43,0,1,2,0.1,0.1,0.0,0,0,13,32,40.6,0,18,5,2,2,Bayer Leverkusen,2019-02-02 Leverkusen-Bayern Munich,GER-BL1,18-19,6378e865
+834d0be5,Lucas Alario,13,ARG,"FW,LW",26-117,7,1,0,0,0,1,1,0,0,2,0,0,0,0.4,0.4,0.0,0,0,0,1,0.0,0,1,1,0,0,Bayer Leverkusen,2019-02-02 Leverkusen-Bayern Munich,GER-BL1,18-19,6378e865
+bee0bab1,Karim Bellarabi,38,GER,RW,28-300,89,0,1,0,0,1,0,1,0,44,3,0,1,0.0,0.0,0.4,2,2,17,33,51.5,4,23,2,5,3,Bayer Leverkusen,2019-02-02 Leverkusen-Bayern Munich,GER-BL1,18-19,6378e865
+53070b63,Paulinho,7,BRA,RW,18-202,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Bayer Leverkusen,2019-02-02 Leverkusen-Bayern Munich,GER-BL1,18-19,6378e865
+a167537f,Julian Brandt,10,GER,LM,22-276,90,0,1,0,0,3,1,0,0,63,0,1,1,0.1,0.1,0.5,6,2,47,53,88.7,6,30,2,3,3,Bayer Leverkusen,2019-02-02 Leverkusen-Bayern Munich,GER-BL1,18-19,6378e865
+56413b1f,Charles Aránguiz,20,CHI,CM,29-291,90,0,0,0,0,0,0,1,0,51,4,2,1,0.0,0.0,0.0,0,0,34,44,77.3,8,20,1,1,1,Bayer Leverkusen,2019-02-02 Leverkusen-Bayern Munich,GER-BL1,18-19,6378e865
+fed7cb61,Kai Havertz,29,GER,RM,19-236,44,0,0,0,0,0,0,0,0,21,1,1,1,0.0,0.0,0.0,0,0,15,16,93.8,1,12,0,0,0,Bayer Leverkusen,2019-02-02 Leverkusen-Bayern Munich,GER-BL1,18-19,6378e865
+69374ff5,Julian Baumgartlinger,15,AUT,RM,31-031,46,0,0,0,0,0,0,0,0,28,1,0,0,0.0,0.0,0.0,0,0,21,22,95.5,0,8,0,0,0,Bayer Leverkusen,2019-02-02 Leverkusen-Bayern Munich,GER-BL1,18-19,6378e865
+f9acca3a,Wendell,18,BRA,LB,25-197,90,0,0,0,0,1,0,1,0,59,5,1,0,0.0,0.0,0.0,2,0,32,44,72.7,3,21,1,1,0,Bayer Leverkusen,2019-02-02 Leverkusen-Bayern Munich,GER-BL1,18-19,6378e865
+070ec0b1,Sven Bender,5,GER,CB,29-281,90,0,0,0,0,0,0,0,0,61,0,0,3,0.0,0.0,0.0,0,0,46,51,90.2,6,35,0,0,0,Bayer Leverkusen,2019-02-02 Leverkusen-Bayern Munich,GER-BL1,18-19,6378e865
+bd142efb,Jonathan Tah,4,GER,CB,22-356,90,0,0,0,0,0,0,0,0,62,3,1,1,0.0,0.0,0.0,0,0,45,52,86.5,5,26,1,2,2,Bayer Leverkusen,2019-02-02 Leverkusen-Bayern Munich,GER-BL1,18-19,6378e865
+30c220c3,Mitchell Weiser,23,GER,RB,24-287,90,0,0,0,0,0,0,0,0,66,6,1,1,0.0,0.0,0.0,2,1,40,52,76.9,4,25,3,2,0,Bayer Leverkusen,2019-02-02 Leverkusen-Bayern Munich,GER-BL1,18-19,6378e865
+ad3389d5,Lukáš Hrádecký,1,FIN,GK,29-070,90,0,0,0,0,0,0,0,0,63,0,0,0,0.0,0.0,0.0,0,0,41,57,71.9,0,32,0,0,0,Bayer Leverkusen,2019-02-02 Leverkusen-Bayern Munich,GER-BL1,18-19,6378e865
+8d78e732,Robert Lewandowski,9,POL,FW,30-165,90,0,0,0,0,4,0,0,0,40,1,1,3,0.8,0.8,0.0,2,0,18,24,75.0,4,17,1,1,1,Bayern Munich,2019-02-02 Leverkusen-Bayern Munich,GER-BL1,18-19,6378e865
+042e8a49,Kingsley Coman,29,FRA,"LW,RW",22-234,90,0,0,0,0,6,4,1,0,57,2,0,2,0.3,0.3,0.3,5,1,24,39,61.5,3,38,8,6,4,Bayern Munich,2019-02-02 Leverkusen-Bayern Munich,GER-BL1,18-19,6378e865
+3c6089ab,Thomas Müller,25,GER,RW,29-142,73,0,1,0,0,1,0,0,0,37,0,0,3,0.2,0.2,0.9,5,1,20,29,69.0,2,20,1,2,2,Bayern Munich,2019-02-02 Leverkusen-Bayern Munich,GER-BL1,18-19,6378e865
+88e357ef,Serge Gnabry,22,GER,"AM,RW",23-203,17,0,0,0,0,1,1,0,0,12,2,0,1,0.0,0.0,0.0,0,0,3,4,75.0,0,5,0,2,0,Bayern Munich,2019-02-02 Leverkusen-Bayern Munich,GER-BL1,18-19,6378e865
+715bf047,James Rodríguez,11,COL,AM,27-205,76,0,0,0,0,1,0,0,0,53,1,0,0,0.2,0.2,0.0,3,0,29,41,70.7,6,31,1,6,3,Bayern Munich,2019-02-02 Leverkusen-Bayern Munich,GER-BL1,18-19,6378e865
+d781d855,Alphonso Davies,19,CAN,"LW,AM",18-092,14,0,0,0,0,0,0,0,0,8,0,1,1,0.0,0.0,0.0,0,0,3,3,100.0,0,6,0,4,2,Bayern Munich,2019-02-02 Leverkusen-Bayern Munich,GER-BL1,18-19,6378e865
+cc86b9a3,Leon Goretzka,18,GER,DM,23-361,90,1,0,0,0,3,1,0,0,35,0,3,1,0.4,0.4,0.0,0,0,20,26,76.9,2,18,2,0,0,Bayern Munich,2019-02-02 Leverkusen-Bayern Munich,GER-BL1,18-19,6378e865
+49296448,Joshua Kimmich,32,GER,"DM,RB",23-359,90,0,0,0,0,0,0,1,0,81,1,1,3,0.0,0.0,0.2,5,0,60,70,85.7,5,47,0,3,3,Bayern Munich,2019-02-02 Leverkusen-Bayern Munich,GER-BL1,18-19,6378e865
+05439de2,David Alaba,27,AUT,LB,26-223,90,0,0,0,0,1,0,0,0,67,2,4,1,0.0,0.0,0.0,3,0,42,52,80.8,7,36,5,3,1,Bayern Munich,2019-02-02 Leverkusen-Bayern Munich,GER-BL1,18-19,6378e865
+05d548d8,Mats Hummels,5,GER,CB,30-048,90,0,0,0,0,0,0,0,0,75,2,3,2,0.0,0.0,0.1,5,0,47,61,77.0,7,44,0,1,1,Bayern Munich,2019-02-02 Leverkusen-Bayern Munich,GER-BL1,18-19,6378e865
+e33c06cf,Niklas Süle,4,GER,CB,23-152,90,0,0,0,0,0,0,0,0,75,2,1,0,0.0,0.0,0.1,3,0,57,68,83.8,2,47,0,0,0,Bayern Munich,2019-02-02 Leverkusen-Bayern Munich,GER-BL1,18-19,6378e865
+d003e213,Rafinha,13,BRA,RB,33-148,78,0,0,0,0,0,0,0,0,52,1,5,1,0.0,0.0,0.0,1,0,40,45,88.9,2,25,0,0,0,Bayern Munich,2019-02-02 Leverkusen-Bayern Munich,GER-BL1,18-19,6378e865
+032f894e,Renato Sanches,35,POR,DM,21-168,12,0,0,0,0,0,0,0,0,8,1,0,1,0.0,0.0,0.0,1,0,6,6,100.0,1,6,0,1,1,Bayern Munich,2019-02-02 Leverkusen-Bayern Munich,GER-BL1,18-19,6378e865
+7d3e7da6,Sven Ulreich,26,GER,GK,30-183,90,0,0,0,0,0,0,0,0,37,0,0,0,0.0,0.0,0.0,0,0,29,37,78.4,0,18,0,0,0,Bayern Munich,2019-02-02 Leverkusen-Bayern Munich,GER-BL1,18-19,6378e865

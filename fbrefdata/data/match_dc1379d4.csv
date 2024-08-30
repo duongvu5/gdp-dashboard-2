@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+79443529,Dušan Vlahović,28,SRB,FW,20-146,90,0,0,0,0,3,1,0,0,27,0,1,0,0.3,0.3,0.2,3,0,15,17,88.2,1,24,3,4,4,Fiorentina,2020-06-22 Fiorentina-Brescia,ITA-SERIA_A,19-20,dc1379d4
+f61c7c4e,Franck Ribéry,7,FRA,LW,37-076,89,0,0,0,0,2,0,0,0,54,0,0,0,0.2,0.2,0.2,7,1,35,45,77.8,4,48,10,6,4,Fiorentina,2020-06-22 Fiorentina-Brescia,ITA-SERIA_A,19-20,dc1379d4
+a4fe8cda,Patrick Cutrone,63,ITA,LW,22-171,1,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,1,0,0,0,Fiorentina,2020-06-22 Fiorentina-Brescia,ITA-SERIA_A,19-20,dc1379d4
+b0f7e36c,Federico Chiesa,25,ITA,RW,22-241,89,0,0,0,0,5,1,1,0,48,0,1,0,1.0,1.0,0.2,6,0,26,30,86.7,8,33,3,3,1,Fiorentina,2020-06-22 Fiorentina-Brescia,ITA-SERIA_A,19-20,dc1379d4
+94816803,Riccardo Sottil,11,ITA,RW,21-019,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Fiorentina,2020-06-22 Fiorentina-Brescia,ITA-SERIA_A,19-20,dc1379d4
+0728bebe,Gaetano Castrovilli,8,ITA,LM,23-126,90,0,0,0,0,5,0,0,0,67,2,1,0,0.2,0.2,0.1,6,0,37,50,74.0,10,55,6,8,7,Fiorentina,2020-06-22 Fiorentina-Brescia,ITA-SERIA_A,19-20,dc1379d4
+4611e028,Erick Pulgar,78,CHI,CM,26-159,90,0,1,0,0,1,0,0,0,63,1,1,1,0.1,0.1,0.9,8,1,48,56,85.7,4,32,0,0,0,Fiorentina,2020-06-22 Fiorentina-Brescia,ITA-SERIA_A,19-20,dc1379d4
+528492ea,Alfred Duncan,88,GHA,RM,27-104,66,0,0,0,0,0,0,0,0,25,0,0,0,0.0,0.0,0.0,1,0,18,22,81.8,4,18,0,2,1,Fiorentina,2020-06-22 Fiorentina-Brescia,ITA-SERIA_A,19-20,dc1379d4
+dc3a9a0d,Rachid Ghezzal,18,ALG,RM,28-044,6,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,2,0,0,0,Fiorentina,2020-06-22 Fiorentina-Brescia,ITA-SERIA_A,19-20,dc1379d4
+bee704fc,Nikola Milenković,4,SRB,RB,22-254,18,0,0,0,0,0,0,0,0,14,0,0,0,0.0,0.0,0.0,0,0,10,12,83.3,1,9,1,0,0,Fiorentina,2020-06-22 Fiorentina-Brescia,ITA-SERIA_A,19-20,dc1379d4
+f45f9427,Dalbert Henrique,29,BRA,LB,26-288,45,0,0,0,0,0,0,1,0,43,1,0,0,0.0,0.0,0.1,1,0,30,41,73.2,2,35,5,1,1,Fiorentina,2020-06-22 Fiorentina-Brescia,ITA-SERIA_A,19-20,dc1379d4
+ff800ed8,Pol Lirola,21,ESP,LB,22-314,45,0,0,0,0,2,0,0,0,28,0,1,0,0.2,0.2,0.0,2,0,19,22,86.4,3,20,3,1,1,Fiorentina,2020-06-22 Fiorentina-Brescia,ITA-SERIA_A,19-20,dc1379d4
+d9624b51,Federico Ceccherini,17,ITA,CB,28-042,90,0,0,0,0,0,0,1,0,62,2,2,0,0.0,0.0,0.0,1,0,48,56,85.7,3,41,0,0,0,Fiorentina,2020-06-22 Fiorentina-Brescia,ITA-SERIA_A,19-20,dc1379d4
+8c725b43,Germán Pezzella,20,ARG,CB,28-361,90,1,0,0,0,3,3,0,0,48,0,2,0,0.4,0.4,0.0,1,0,33,38,86.8,1,32,1,0,0,Fiorentina,2020-06-22 Fiorentina-Brescia,ITA-SERIA_A,19-20,dc1379d4
+e94d79e3,Martín Cáceres,22,URU,RB,33-076,69,0,0,0,0,0,0,2,1,49,1,0,1,0.0,0.0,0.1,1,0,36,46,78.3,9,33,0,0,0,Fiorentina,2020-06-22 Fiorentina-Brescia,ITA-SERIA_A,19-20,dc1379d4
+085e71a7,Bartłomiej Drągowski,69,POL,GK,22-308,90,0,0,0,0,0,0,0,0,22,0,0,0,0.0,0.0,0.0,0,0,14,19,73.7,0,10,0,0,0,Fiorentina,2020-06-22 Fiorentina-Brescia,ITA-SERIA_A,19-20,dc1379d4
+5592007b,Alfredo Donnarumma,9,ITA,FW,29-205,90,1,0,1,1,1,0,0,0,30,0,0,0,1.0,0.2,0.2,3,0,18,23,78.3,3,17,1,2,1,Brescia,2020-06-22 Fiorentina-Brescia,ITA-SERIA_A,19-20,dc1379d4
+45af5134,Simon Skrabb,23,FIN,FW,25-155,54,0,0,0,0,1,1,0,0,18,1,0,1,0.1,0.1,0.0,2,1,8,11,72.7,2,13,0,1,1,Brescia,2020-06-22 Fiorentina-Brescia,ITA-SERIA_A,19-20,dc1379d4
+bf39bdec,Ernesto Torregrossa,11,VEN,FW,27-360,36,0,0,0,0,0,0,1,0,12,1,0,0,0.0,0.0,0.0,0,0,3,7,42.9,1,8,3,4,2,Brescia,2020-06-22 Fiorentina-Brescia,ITA-SERIA_A,19-20,dc1379d4
+cbec1196,Jaromír Zmrhal,8,CZE,AM,26-325,65,0,0,0,0,0,0,0,0,27,0,0,1,0.0,0.0,0.0,0,0,18,23,78.3,4,12,1,1,1,Brescia,2020-06-22 Fiorentina-Brescia,ITA-SERIA_A,19-20,dc1379d4
+9e90fb5d,Nikolas Špalek,7,SVK,AM,23-131,25,0,0,0,0,0,0,1,0,11,0,0,1,0.0,0.0,0.0,1,0,4,6,66.7,0,6,0,0,0,Brescia,2020-06-22 Fiorentina-Brescia,ITA-SERIA_A,19-20,dc1379d4
+02b2937c,Daniele Dessena,27,ITA,LM,33-043,90,0,0,0,0,1,1,0,0,29,1,1,0,0.1,0.1,0.0,2,1,17,23,73.9,4,11,0,0,0,Brescia,2020-06-22 Fiorentina-Brescia,ITA-SERIA_A,19-20,dc1379d4
+0db169ae,Sandro Tonali,4,ITA,CM,20-045,90,0,0,0,0,0,0,0,0,46,2,2,1,0.0,0.0,0.2,2,0,28,40,70.0,5,19,3,1,1,Brescia,2020-06-22 Fiorentina-Brescia,ITA-SERIA_A,19-20,dc1379d4
+da13074e,Birkir Bjarnason,31,ISL,RM,32-026,54,0,0,0,0,0,0,0,0,21,2,0,0,0.0,0.0,0.0,0,0,13,18,72.2,3,13,1,1,1,Brescia,2020-06-22 Fiorentina-Brescia,ITA-SERIA_A,19-20,dc1379d4
+07abb358,Rômulo,28,ITA,RM,33-031,36,0,0,0,0,1,0,0,0,14,0,1,0,0.0,0.0,0.0,0,0,8,10,80.0,0,8,2,0,0,Brescia,2020-06-22 Fiorentina-Brescia,ITA-SERIA_A,19-20,dc1379d4
+dd29f81d,Alessandro Semprini,29,ITA,LB,22-119,83,0,0,0,0,0,0,1,0,25,2,0,1,0.0,0.0,0.0,1,0,13,17,76.5,1,10,1,1,1,Brescia,2020-06-22 Fiorentina-Brescia,ITA-SERIA_A,19-20,dc1379d4
+1e12c53b,Bruno Martella,26,ITA,LB,27-313,7,0,0,0,0,1,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,3,6,50.0,0,5,1,0,0,Brescia,2020-06-22 Fiorentina-Brescia,ITA-SERIA_A,19-20,dc1379d4
+deb748c9,Aleš Matějů,3,CZE,CB,24-019,90,0,0,0,0,0,0,0,0,41,2,0,1,0.0,0.0,0.0,0,0,28,34,82.4,1,22,0,0,0,Brescia,2020-06-22 Fiorentina-Brescia,ITA-SERIA_A,19-20,dc1379d4
+4195b8b6,Andrea Papetti,32,ITA,CB,17-355,90,0,0,0,0,0,0,1,0,45,1,1,1,0.0,0.0,0.0,0,0,27,34,79.4,2,23,1,0,0,Brescia,2020-06-22 Fiorentina-Brescia,ITA-SERIA_A,19-20,dc1379d4
+0ccac09c,Stefano Sabelli,2,ITA,RB,27-161,90,0,0,0,0,0,0,0,0,56,2,3,1,0.0,0.0,0.0,0,0,32,45,71.1,8,27,3,0,0,Brescia,2020-06-22 Fiorentina-Brescia,ITA-SERIA_A,19-20,dc1379d4
+7f66ea09,Jesse Joronen,1,FIN,GK,27-093,90,0,0,0,0,0,0,0,0,35,1,0,0,0.0,0.0,0.0,0,0,19,31,61.3,0,10,0,0,0,Brescia,2020-06-22 Fiorentina-Brescia,ITA-SERIA_A,19-20,dc1379d4

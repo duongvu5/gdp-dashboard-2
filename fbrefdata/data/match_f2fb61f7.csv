@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+b386310a,Nabil Alioui,10,FRA,FW,24-225,60,0,0,0,0,1,0,0,0,19,0,0,0,0.0,0.0,0.0,1,0,8,16,50.0,2,13,0,1,1,Le Havre,2023-10-01 Le Havre-Lille,FRA-L1,23-24,f2fb61f7
+d2448564,Samuel Grandsir,29,FRA,FW,27-048,30,0,0,0,0,0,0,0,0,23,1,1,0,0.0,0.0,0.0,0,0,12,19,63.2,1,16,0,1,0,Le Havre,2023-10-01 Le Havre-Lille,FRA-L1,23-24,f2fb61f7
+1d8aa290,Issa Soumaré,45,SEN,LW,22-356,60,0,0,0,0,2,0,0,0,26,1,0,0,0.2,0.2,0.5,2,0,10,16,62.5,1,16,1,5,2,Le Havre,2023-10-01 Le Havre-Lille,FRA-L1,23-24,f2fb61f7
+daa11a4f,Andy Logbo,20,FRA,LW,19-148,30,0,0,0,0,0,0,0,0,7,0,0,1,0.0,0.0,0.0,0,0,2,4,50.0,0,4,0,0,0,Le Havre,2023-10-01 Le Havre-Lille,FRA-L1,23-24,f2fb61f7
+481f76cf,Josué Casimir,23,FRA,RW,22-007,69,0,0,0,0,1,0,0,0,15,1,0,1,0.1,0.1,0.2,1,0,7,10,70.0,0,7,0,1,0,Le Havre,2023-10-01 Le Havre-Lille,FRA-L1,23-24,f2fb61f7
+2e1b7c83,Emmanuel Sabbi,11,USA,RW,25-281,21,0,0,0,0,0,0,0,0,7,1,0,0,0.0,0.0,0.0,0,0,2,4,50.0,0,7,2,2,1,Le Havre,2023-10-01 Le Havre-Lille,FRA-L1,23-24,f2fb61f7
+36f65bdf,Rassoul Ndiaye,19,SEN,CM,21-294,70,0,0,0,0,0,0,0,0,43,4,1,0,0.0,0.0,0.0,0,0,31,37,83.8,4,33,0,0,0,Le Havre,2023-10-01 Le Havre-Lille,FRA-L1,23-24,f2fb61f7
+abefc3af,Yassine Kechta,8,MAR,CM,21-218,20,0,0,0,0,0,0,0,0,21,1,1,1,0.0,0.0,0.0,0,0,15,17,88.2,3,17,1,0,0,Le Havre,2023-10-01 Le Havre-Lille,FRA-L1,23-24,f2fb61f7
+ef7cd87a,Abdoulaye Touré,94,GUI,CM,29-212,83,0,0,0,0,1,0,0,0,47,2,1,3,0.5,0.5,0.0,2,0,30,34,88.2,3,31,0,0,0,Le Havre,2023-10-01 Le Havre-Lille,FRA-L1,23-24,f2fb61f7
+c3b6fa1e,Loïc Nego,7,HUN,CM,32-259,7,0,0,0,0,0,0,0,0,6,1,1,0,0.0,0.0,0.0,0,0,4,4,100.0,0,4,0,0,0,Le Havre,2023-10-01 Le Havre-Lille,FRA-L1,23-24,f2fb61f7
+d4e93bab,Daler Kuzyaev,14,RUS,CM,30-259,90,0,0,0,0,0,0,0,0,32,0,0,0,0.0,0.0,0.0,0,0,23,30,76.7,2,30,2,1,1,Le Havre,2023-10-01 Le Havre-Lille,FRA-L1,23-24,f2fb61f7
+914bb955,Christopher Operi,27,CIV,LB,26-155,90,0,0,0,0,0,0,0,0,69,4,1,1,0.0,0.0,0.0,1,0,46,60,76.7,2,42,1,1,0,Le Havre,2023-10-01 Le Havre-Lille,FRA-L1,23-24,f2fb61f7
+ac89503b,Gautier Lloris,4,FRA,CB,28-075,90,0,0,0,0,0,0,0,0,75,0,0,2,0.0,0.0,0.0,1,0,60,65,92.3,3,57,0,0,0,Le Havre,2023-10-01 Le Havre-Lille,FRA-L1,23-24,f2fb61f7
+12a4e38c,Etienne Youte Kinkoue,6,FRA,CB,21-260,90,0,0,0,0,0,0,0,0,61,0,1,0,0.0,0.0,0.0,1,0,51,55,92.7,2,48,0,0,0,Le Havre,2023-10-01 Le Havre-Lille,FRA-L1,23-24,f2fb61f7
+c3725db2,Yoann Salmier,22,GUF,RB,30-314,90,0,0,0,0,0,0,0,0,49,2,1,3,0.0,0.0,0.0,0,0,31,38,81.6,3,29,0,0,0,Le Havre,2023-10-01 Le Havre-Lille,FRA-L1,23-24,f2fb61f7
+e8c5dd4d,Arthur Desmas,30,FRA,GK,29-177,90,0,0,0,0,0,0,0,0,30,0,0,0,0.0,0.0,0.0,0,0,18,26,69.2,0,17,0,0,0,Le Havre,2023-10-01 Le Havre-Lille,FRA-L1,23-24,f2fb61f7
+ce50fd99,Jonathan David,9,CAN,FW,23-260,90,0,0,0,0,2,0,0,0,37,0,0,0,0.1,0.1,0.1,3,0,25,29,86.2,3,35,6,3,1,Lille,2023-10-01 Le Havre-Lille,FRA-L1,23-24,f2fb61f7
+979b811d,Ivan Cavaleiro,17,POR,LW,29-348,85,0,0,0,0,2,1,0,0,46,0,1,0,0.2,0.2,0.3,6,0,30,36,83.3,4,38,1,1,1,Lille,2023-10-01 Le Havre-Lille,FRA-L1,23-24,f2fb61f7
+01becd60,Alan Virginius,26,FRA,LW,20-271,5,0,0,0,0,0,0,0,0,5,1,0,0,0.0,0.0,0.0,0,0,4,4,100.0,1,4,0,1,0,Lille,2023-10-01 Le Havre-Lille,FRA-L1,23-24,f2fb61f7
+34a88e3e,Edon Zhegrova,23,KVX,RW,24-184,89,1,0,0,0,6,3,0,0,79,2,0,2,0.5,0.5,0.1,9,2,45,61,73.8,5,61,8,8,5,Lille,2023-10-01 Le Havre-Lille,FRA-L1,23-24,f2fb61f7
+4fe2648c,Aaron Malouda,34,FRA,RW,17-305,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Lille,2023-10-01 Le Havre-Lille,FRA-L1,23-24,f2fb61f7
+148e136f,Rémy Cabella,10,FRA,AM,33-207,76,0,0,0,0,0,0,0,0,57,1,0,2,0.0,0.0,0.2,2,0,45,53,84.9,6,50,3,3,3,Lille,2023-10-01 Le Havre-Lille,FRA-L1,23-24,f2fb61f7
+e2ae54db,Hákon Arnar Haraldsson,7,ISL,AM,20-174,14,0,0,0,0,0,0,0,0,12,0,0,0,0.0,0.0,0.1,1,0,9,11,81.8,1,9,1,0,0,Lille,2023-10-01 Le Havre-Lille,FRA-L1,23-24,f2fb61f7
+645a3363,Angel Gomes,8,ENG,DM,23-031,89,0,0,0,0,0,0,0,0,78,2,0,0,0.0,0.0,0.0,0,0,70,72,97.2,4,71,0,3,1,Lille,2023-10-01 Le Havre-Lille,FRA-L1,23-24,f2fb61f7
+e43a4083,Ignacio Miramon,20,ARG,DM,20-111,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Lille,2023-10-01 Le Havre-Lille,FRA-L1,23-24,f2fb61f7
+ef9c1c95,Benjamin André,21,FRA,DM,33-059,90,0,0,0,0,1,0,0,0,99,6,0,0,0.1,0.1,0.0,2,0,75,83,90.4,8,70,0,1,1,Lille,2023-10-01 Le Havre-Lille,FRA-L1,23-24,f2fb61f7
+cf182add,Ismaily,31,BRA,LB,33-263,90,0,0,0,0,1,0,0,0,75,1,1,1,0.0,0.0,0.0,1,0,58,65,89.2,8,57,2,2,0,Lille,2023-10-01 Le Havre-Lille,FRA-L1,23-24,f2fb61f7
+102c9665,Alexsandro Ribeiro,4,BRA,CB,24-053,90,0,0,0,0,0,0,0,0,102,1,1,1,0.0,0.0,0.0,0,0,91,98,92.9,1,89,0,0,0,Lille,2023-10-01 Le Havre-Lille,FRA-L1,23-24,f2fb61f7
+6763f716,Leny Yoro,15,FRA,CB,17-322,90,0,0,0,0,1,1,0,0,107,2,1,0,0.2,0.2,0.0,2,0,90,98,91.8,3,89,0,1,1,Lille,2023-10-01 Le Havre-Lille,FRA-L1,23-24,f2fb61f7
+1bfb6fef,Bafodé Diakité,18,FRA,RB,22-268,90,0,1,0,0,3,1,0,0,87,2,0,1,0.2,0.2,0.1,3,0,68,74,91.9,5,68,1,2,1,Lille,2023-10-01 Le Havre-Lille,FRA-L1,23-24,f2fb61f7
+b3d76d84,Lucas Chevalier,30,FRA,GK,21-329,90,0,0,0,0,0,0,0,0,29,0,0,0,0.0,0.0,0.0,0,0,23,28,82.1,0,25,0,0,0,Lille,2023-10-01 Le Havre-Lille,FRA-L1,23-24,f2fb61f7

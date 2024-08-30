@@ -1,0 +1,32 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+ba115a40,Sébastien Haller,9,CIV,FW,28-339,90,0,0,0,1,3,1,0,0,24,1,0,0,1.6,0.9,0.0,4,0,15,18,83.3,0,12,1,0,0,Dortmund,2023-05-27 Dortmund-Mainz 05,GER-BL1,22-23,a888a024
+501055d8,Karim Adeyemi,27,GER,LW,21-129,39,0,0,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.0,0,0,7,8,87.5,0,8,1,2,0,Dortmund,2023-05-27 Dortmund-Mainz 05,GER-BL1,22-23,a888a024
+36a3ff67,Marco Reus,11,GER,"CM,LW",33-361,51,0,0,0,0,2,0,0,0,38,2,1,0,0.2,0.2,0.4,2,0,20,28,71.4,4,22,3,0,0,Dortmund,2023-05-27 Dortmund-Mainz 05,GER-BL1,22-23,a888a024
+116c35df,Donyell Malen,21,NED,RW,24-138,62,0,0,0,0,3,0,0,0,36,0,0,2,0.6,0.6,0.0,1,0,19,24,79.2,4,31,1,6,1,Dortmund,2023-05-27 Dortmund-Mainz 05,GER-BL1,22-23,a888a024
+7fa4e703,Gio Reyna,7,USA,"LM,RW",20-195,28,0,2,0,0,3,1,0,0,31,1,0,0,0.3,0.3,0.3,5,2,18,23,78.3,3,18,2,3,2,Dortmund,2023-05-27 Dortmund-Mainz 05,GER-BL1,22-23,a888a024
+048a1cbc,Raphaël Guerreiro,13,POR,"LB,CM",29-156,90,1,0,0,0,3,1,1,0,106,2,2,0,0.2,0.2,0.0,6,0,74,94,78.7,15,76,12,3,1,Dortmund,2023-05-27 Dortmund-Mainz 05,GER-BL1,22-23,a888a024
+a65ce836,Emre Can,23,GER,CM,29-135,90,0,0,0,0,2,0,0,0,109,2,2,1,0.2,0.2,0.5,8,0,88,100,88.0,18,78,5,1,1,Dortmund,2023-05-27 Dortmund-Mainz 05,GER-BL1,22-23,a888a024
+a167537f,Julian Brandt,19,GER,CM,27-025,61,0,0,0,0,3,3,0,0,40,3,0,1,0.3,0.3,0.1,5,0,20,32,62.5,2,32,2,2,2,Dortmund,2023-05-27 Dortmund-Mainz 05,GER-BL1,22-23,a888a024
+b06a7ae9,Julien Duranville,16,BEL,"RM,CM",17-022,29,0,0,0,0,1,0,0,0,20,1,0,0,0.0,0.0,0.3,5,1,11,17,64.7,1,16,4,3,3,Dortmund,2023-05-27 Dortmund-Mainz 05,GER-BL1,22-23,a888a024
+009a4f60,Julian Ryerson,26,NOR,"LB,RB",25-191,79,0,0,0,0,0,0,0,0,90,3,0,1,0.0,0.0,0.3,5,0,76,83,91.6,6,67,6,3,1,Dortmund,2023-05-27 Dortmund-Mainz 05,GER-BL1,22-23,a888a024
+34e4343c,Anthony Modeste,20,FRA,RB,35-043,11,0,0,0,0,0,0,0,0,6,0,0,1,0.0,0.0,0.0,1,0,1,3,33.3,1,1,0,0,0,Dortmund,2023-05-27 Dortmund-Mainz 05,GER-BL1,22-23,a888a024
+05d548d8,Mats Hummels,15,GER,CB,34-162,90,0,0,0,0,2,1,0,0,128,2,1,2,0.3,0.3,0.3,5,0,101,115,87.8,15,95,2,0,0,Dortmund,2023-05-27 Dortmund-Mainz 05,GER-BL1,22-23,a888a024
+e33c06cf,Niklas Süle,25,GER,CB,27-266,90,1,0,0,0,4,2,0,0,142,5,1,0,0.2,0.2,0.1,3,1,113,123,91.9,15,114,6,1,1,Dortmund,2023-05-27 Dortmund-Mainz 05,GER-BL1,22-23,a888a024
+fa661778,Marius Wolf,17,GER,RB,28-000,45,0,0,0,0,0,0,0,0,53,1,1,1,0.0,0.0,0.1,4,0,38,47,80.9,3,41,3,2,1,Dortmund,2023-05-27 Dortmund-Mainz 05,GER-BL1,22-23,a888a024
+6ce43701,Youssoufa Moukoko,18,GER,"FW,LW",18-188,45,0,0,0,0,2,0,0,0,16,0,0,1,0.1,0.1,0.7,3,0,6,9,66.7,0,10,2,5,3,Dortmund,2023-05-27 Dortmund-Mainz 05,GER-BL1,22-23,a888a024
+cd59b9df,Gregor Kobel,1,SUI,GK,25-172,90,0,0,0,0,0,0,0,0,27,0,0,1,0.0,0.0,0.0,0,0,21,24,87.5,0,15,0,0,0,Dortmund,2023-05-27 Dortmund-Mainz 05,GER-BL1,22-23,a888a024
+f26834c7,Karim Onisiwo,9,AUT,FW,31-071,89,1,0,0,0,3,1,0,0,39,1,0,1,0.8,0.8,0.1,4,0,14,18,77.8,4,30,4,11,6,Mainz 05,2023-05-27 Dortmund-Mainz 05,GER-BL1,22-23,a888a024
+9ff8ec4a,Marlon Mustapha,36,AUT,FW,22-003,1,0,0,0,0,1,0,0,0,8,0,0,0,0.4,0.4,0.3,1,0,3,4,75.0,0,7,0,0,0,Mainz 05,2023-05-27 Dortmund-Mainz 05,GER-BL1,22-23,a888a024
+34b0387f,Lee Jae-sung,7,KOR,AM,30-290,65,0,1,0,0,1,1,0,0,30,2,1,0,0.1,0.1,0.4,3,1,14,22,63.6,0,15,2,1,1,Mainz 05,2023-05-27 Dortmund-Mainz 05,GER-BL1,22-23,a888a024
+271b8617,Marcus Ingvartsen,11,DEN,AM,27-143,25,0,0,0,0,0,0,0,0,13,0,1,1,0.0,0.0,0.5,2,0,8,8,100.0,2,6,0,1,0,Mainz 05,2023-05-27 Dortmund-Mainz 05,GER-BL1,22-23,a888a024
+0f59a7bf,Anton Stach,6,GER,AM,24-193,79,0,0,0,0,0,0,0,0,27,0,1,0,0.0,0.0,0.0,1,0,12,20,60.0,2,10,2,5,3,Mainz 05,2023-05-27 Dortmund-Mainz 05,GER-BL1,22-23,a888a024
+a2a85828,Aymen Barkok,4,MAR,AM,25-006,11,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.4,1,0,3,5,60.0,2,5,0,1,0,Mainz 05,2023-05-27 Dortmund-Mainz 05,GER-BL1,22-23,a888a024
+0fbecd11,Dominik Kohr,31,GER,CM,29-116,90,0,0,0,0,1,0,0,0,46,4,0,6,0.2,0.2,0.0,0,0,19,23,82.6,4,19,1,3,1,Mainz 05,2023-05-27 Dortmund-Mainz 05,GER-BL1,22-23,a888a024
+00242b75,Leandro Barreiro Martins,8,LUX,CM,23-144,90,0,0,0,0,1,0,0,0,43,3,4,3,0.3,0.3,0.0,0,0,16,21,76.2,2,17,1,2,0,Mainz 05,2023-05-27 Dortmund-Mainz 05,GER-BL1,22-23,a888a024
+2f3e911a,Aarón Martín,3,ESP,WB,26-035,90,0,0,0,0,1,1,0,0,39,4,0,1,0.0,0.0,0.0,2,1,15,25,60.0,4,18,0,1,0,Mainz 05,2023-05-27 Dortmund-Mainz 05,GER-BL1,22-23,a888a024
+0118c54c,Anthony Caci,19,FRA,WB,25-330,90,0,0,0,0,0,0,0,0,55,5,1,2,0.0,0.0,0.0,1,0,29,40,72.5,3,29,1,3,2,Mainz 05,2023-05-27 Dortmund-Mainz 05,GER-BL1,22-23,a888a024
+3bb625ac,Edimilson Fernandes,20,SUI,CB,27-042,90,0,1,0,0,1,0,1,0,40,3,2,1,0.0,0.0,0.1,3,2,14,23,60.9,0,17,0,2,2,Mainz 05,2023-05-27 Dortmund-Mainz 05,GER-BL1,22-23,a888a024
+857a5abe,Stefan Bell,16,GER,CB,31-276,90,0,0,0,0,0,0,0,0,35,1,0,4,0.0,0.0,0.0,1,0,14,17,82.4,2,8,0,0,0,Mainz 05,2023-05-27 Dortmund-Mainz 05,GER-BL1,22-23,a888a024
+2e77d607,Andreas Hanche-Olsen,25,NOR,CB,26-130,90,1,0,0,0,1,1,0,0,26,0,0,1,0.1,0.1,0.0,0,0,12,17,70.6,1,13,1,1,1,Mainz 05,2023-05-27 Dortmund-Mainz 05,GER-BL1,22-23,a888a024
+dee3013b,Finn Dahmen,1,GER,GK,25-061,90,0,0,0,0,0,0,0,0,45,0,0,0,0.0,0.0,0.0,0,0,18,39,46.2,0,24,0,0,0,Mainz 05,2023-05-27 Dortmund-Mainz 05,GER-BL1,22-23,a888a024

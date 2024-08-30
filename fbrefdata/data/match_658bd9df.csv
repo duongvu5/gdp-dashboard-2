@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+dea698d9,Cristiano Ronaldo,7,POR,FW,35-333,90,2,1,0,0,4,2,0,0,52,1,0,1,0.5,0.5,0.5,6,1,31,39,79.5,6,28,11,3,2,Juventus,2021-01-03 Juventus-Udinese,ITA-SERIA_A,20-21,658bd9df
+e0921a4f,Paulo Dybala,10,ARG,FW,27-049,90,1,0,0,0,4,2,0,0,90,2,0,1,0.4,0.4,0.1,6,0,62,76,81.6,5,46,5,3,2,Juventus,2021-01-03 Juventus-Udinese,ITA-SERIA_A,20-21,658bd9df
+ef619b0b,Aaron Ramsey,8,WAL,LM,30-008,73,0,1,0,0,4,3,0,0,59,3,0,0,0.9,0.9,0.2,3,1,46,49,93.9,0,30,4,1,1,Juventus,2021-01-03 Juventus-Udinese,ITA-SERIA_A,20-21,658bd9df
+df3cda47,Dejan Kulusevski,44,SWE,"RM,LM",20-253,17,0,0,0,0,1,0,0,0,16,0,0,1,0.0,0.0,0.0,1,0,11,14,78.6,1,9,0,1,1,Juventus,2021-01-03 Juventus-Udinese,ITA-SERIA_A,20-21,658bd9df
+3b8674e6,Rodrigo Bentancur,30,URU,CM,23-192,90,0,1,0,0,1,1,0,0,79,3,1,0,0.0,0.0,0.5,7,3,67,71,94.4,8,44,0,1,1,Juventus,2021-01-03 Juventus-Udinese,ITA-SERIA_A,20-21,658bd9df
+01c3aff5,Weston McKennie,14,USA,CM,22-128,64,0,0,0,0,0,0,1,0,42,1,2,1,0.0,0.0,0.0,2,0,32,33,97.0,3,16,0,0,0,Juventus,2021-01-03 Juventus-Udinese,ITA-SERIA_A,20-21,658bd9df
+48b3dd60,Arthur Melo,5,BRA,CM,24-144,26,0,0,0,0,0,0,0,0,32,0,1,0,0.0,0.0,0.0,0,0,28,30,93.3,0,22,0,0,0,Juventus,2021-01-03 Juventus-Udinese,ITA-SERIA_A,20-21,658bd9df
+b0f7e36c,Federico Chiesa,22,ITA,RM,23-070,73,1,0,0,0,5,2,1,0,30,2,0,0,0.7,0.7,0.8,4,0,19,23,82.6,2,19,2,2,2,Juventus,2021-01-03 Juventus-Udinese,ITA-SERIA_A,20-21,658bd9df
+ee93c1a9,Federico Bernardeschi,33,ITA,LM,26-322,17,0,0,0,0,0,0,0,0,10,0,0,1,0.0,0.0,0.0,0,0,6,7,85.7,2,8,2,1,0,Juventus,2021-01-03 Juventus-Udinese,ITA-SERIA_A,20-21,658bd9df
+0d82903c,Alex Sandro,12,BRA,LB,29-343,82,0,0,0,0,0,0,0,0,72,1,2,1,0.0,0.0,0.1,4,1,54,67,80.6,8,39,5,1,1,Juventus,2021-01-03 Juventus-Udinese,ITA-SERIA_A,20-21,658bd9df
+d80b1835,Gianluca Frabotta,38,ITA,LB,21-193,8,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,9,9,100.0,1,5,0,0,0,Juventus,2021-01-03 Juventus-Udinese,ITA-SERIA_A,20-21,658bd9df
+d6e53a3a,Matthijs de Ligt,4,NED,CB,21-144,90,0,0,0,0,0,0,1,0,83,3,1,1,0.0,0.0,0.0,0,0,73,76,96.1,5,53,0,0,0,Juventus,2021-01-03 Juventus-Udinese,ITA-SERIA_A,20-21,658bd9df
+52ec54d0,Leonardo Bonucci,19,ITA,CB,33-247,82,0,0,0,0,1,0,0,0,73,0,1,2,0.1,0.1,0.0,0,0,53,61,86.9,2,41,1,0,0,Juventus,2021-01-03 Juventus-Udinese,ITA-SERIA_A,20-21,658bd9df
+e85fb9b8,Giorgio Chiellini,3,ITA,CB,36-142,8,0,0,0,0,0,0,0,0,21,0,0,0,0.0,0.0,0.0,0,0,20,20,100.0,1,14,0,0,0,Juventus,2021-01-03 Juventus-Udinese,ITA-SERIA_A,20-21,658bd9df
+94b2001f,Danilo,13,BRA,RB,29-172,90,0,1,0,0,0,0,0,0,113,2,3,2,0.0,0.0,0.3,4,1,97,104,93.3,10,54,0,2,2,Juventus,2021-01-03 Juventus-Udinese,ITA-SERIA_A,20-21,658bd9df
+01b8a2b2,Wojciech Szczęsny,1,POL,GK,30-260,90,0,0,0,0,0,0,0,0,32,0,1,0,0.0,0.0,0.0,0,0,28,30,93.3,0,17,0,0,0,Juventus,2021-01-03 Juventus-Udinese,ITA-SERIA_A,20-21,658bd9df
+09538fdb,Kevin Lasagna,15,ITA,FW,28-146,73,0,0,0,0,2,1,0,0,17,0,0,2,0.2,0.2,0.0,1,0,11,13,84.6,2,7,1,0,0,Udinese,2021-01-03 Juventus-Udinese,ITA-SERIA_A,20-21,658bd9df
+b1236c63,Ilija Nestorovski,30,MKD,FW,30-297,17,0,1,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,4,6,66.7,0,4,0,0,0,Udinese,2021-01-03 Juventus-Udinese,ITA-SERIA_A,20-21,658bd9df
+62437b4f,Ignacio Pussetto,23,ARG,FW,25-013,45,0,0,0,0,1,1,0,0,17,0,0,2,0.1,0.1,0.0,0,0,5,11,45.5,0,8,0,2,0,Udinese,2021-01-03 Juventus-Udinese,ITA-SERIA_A,20-21,658bd9df
+d60c26fc,Fernando Forestieri,45,ITA,FW,30-354,45,0,0,0,0,1,0,0,0,13,1,0,0,0.0,0.0,0.6,1,0,9,11,81.8,1,8,0,1,1,Udinese,2021-01-03 Juventus-Udinese,ITA-SERIA_A,20-21,658bd9df
+75f2c59f,Roberto Pereyra,37,ARG,CM,29-362,73,0,0,0,0,0,0,0,0,23,0,0,0,0.0,0.0,0.0,1,0,16,20,80.0,2,17,2,1,1,Udinese,2021-01-03 Juventus-Udinese,ITA-SERIA_A,20-21,658bd9df
+c7259b83,Rolando Mandragora,38,ITA,CM,23-188,17,0,0,0,0,0,0,0,0,12,0,0,2,0.0,0.0,0.0,0,0,9,11,81.8,1,9,0,0,0,Udinese,2021-01-03 Juventus-Udinese,ITA-SERIA_A,20-21,658bd9df
+26db8853,Walace,11,BRA,CM,25-274,80,0,0,0,0,2,0,0,0,53,0,1,2,0.1,0.1,0.0,1,0,40,44,90.9,5,30,1,1,1,Udinese,2021-01-03 Juventus-Udinese,ITA-SERIA_A,20-21,658bd9df
+22bfb57e,Jean-Victor Makengo,6,FRA,CM,22-205,10,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,5,6,83.3,0,5,1,0,0,Udinese,2021-01-03 Juventus-Udinese,ITA-SERIA_A,20-21,658bd9df
+162efffd,Rodrigo De Paul,10,ARG,CM,26-224,90,0,0,0,0,1,0,0,0,57,0,0,0,0.0,0.0,0.1,3,0,36,48,75.0,6,45,4,2,1,Udinese,2021-01-03 Juventus-Udinese,ITA-SERIA_A,20-21,658bd9df
+8abd0c03,Marvin Zeegelaar,90,NED,WB,30-144,90,1,0,0,0,2,1,0,0,55,1,0,2,1.2,1.2,0.0,3,0,31,41,75.6,3,30,2,5,4,Udinese,2021-01-03 Juventus-Udinese,ITA-SERIA_A,20-21,658bd9df
+f91e81c9,Jens Stryger Larsen,19,DEN,"WB,CB",29-317,90,0,0,0,0,1,0,0,0,58,2,0,1,0.2,0.2,0.0,0,0,34,42,81.0,6,34,4,3,2,Udinese,2021-01-03 Juventus-Udinese,ITA-SERIA_A,20-21,658bd9df
+92b4758e,Samir Santos,3,BRA,CB,26-029,90,0,0,0,0,0,0,0,0,66,3,2,5,0.0,0.0,0.2,1,0,49,54,90.7,3,29,0,0,0,Udinese,2021-01-03 Juventus-Udinese,ITA-SERIA_A,20-21,658bd9df
+952a03fe,Sebastien De Maio,87,FRA,CB,33-304,63,0,0,0,0,0,0,0,0,36,0,1,2,0.0,0.0,0.0,1,0,23,30,76.7,2,19,0,0,0,Udinese,2021-01-03 Juventus-Udinese,ITA-SERIA_A,20-21,658bd9df
+23610943,Nahuel Molina,16,ARG,WB,22-272,27,0,0,0,0,0,0,0,0,18,2,0,0,0.0,0.0,0.0,1,0,12,16,75.0,0,10,1,1,1,Udinese,2021-01-03 Juventus-Udinese,ITA-SERIA_A,20-21,658bd9df
+fb77bfef,Kevin Bonifazi,14,ITA,CB,24-229,90,0,0,0,0,0,0,0,0,48,1,0,0,0.0,0.0,0.0,0,0,36,41,87.8,1,28,0,0,0,Udinese,2021-01-03 Juventus-Udinese,ITA-SERIA_A,20-21,658bd9df
+a111cf41,Juan Musso,1,ARG,GK,26-242,90,0,0,0,0,0,0,0,0,32,0,0,0,0.0,0.0,0.0,1,0,24,29,82.8,0,21,0,0,0,Udinese,2021-01-03 Juventus-Udinese,ITA-SERIA_A,20-21,658bd9df

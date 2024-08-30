@@ -1,0 +1,29 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+a4fe8cda,Patrick Cutrone,63,ITA,FW,20-091,68,0,0,0,0,2,2,0,0,14,0,0,0,0.2,0.2,0.0,2,0,6,8,75.0,1,16,0,0,0,Milan,2018-04-04 Milan-Inter,ITA-SERIA_A,17-18,e5be8241
+d4931a5a,Nikola Kalinić,7,CRO,FW,30-089,22,0,0,0,0,2,0,0,0,5,0,0,0,0.2,0.2,0.1,2,0,2,3,66.7,0,2,1,0,0,Milan,2018-04-04 Milan-Inter,ITA-SERIA_A,17-18,e5be8241
+cd0fa27b,Hakan Çalhanoğlu,10,TUR,"LW,LM",24-055,90,0,0,0,0,0,0,0,0,62,0,3,2,0.0,0.0,0.1,3,0,44,52,84.6,5,37,5,1,1,Milan,2018-04-04 Milan-Inter,ITA-SERIA_A,17-18,e5be8241
+4e219ad2,Suso,8,ESP,RW,24-136,90,0,0,0,0,2,0,1,0,53,0,0,0,0.1,0.1,0.2,4,0,30,47,63.8,9,32,4,3,1,Milan,2018-04-04 Milan-Inter,ITA-SERIA_A,17-18,e5be8241
+d995ed27,Giacomo Bonaventura,5,ITA,LM,28-225,80,0,0,0,0,0,0,0,0,38,0,0,1,0.0,0.0,0.1,2,0,22,31,71.0,3,15,0,3,3,Milan,2018-04-04 Milan-Inter,ITA-SERIA_A,17-18,e5be8241
+ef5b337e,Fabio Borini,11,ITA,"LW,LM",27-006,10,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,1,0,4,5,80.0,0,2,1,1,0,Milan,2018-04-04 Milan-Inter,ITA-SERIA_A,17-18,e5be8241
+b746d309,Riccardo Montolivo,18,ITA,CM,33-076,68,0,0,0,0,1,0,0,0,45,1,1,1,0.0,0.0,0.0,3,0,30,39,76.9,5,17,0,0,0,Milan,2018-04-04 Milan-Inter,ITA-SERIA_A,17-18,e5be8241
+a8a874f1,Manuel Locatelli,73,ITA,CM,20-086,22,0,0,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.0,1,0,9,9,100.0,1,5,0,1,0,Milan,2018-04-04 Milan-Inter,ITA-SERIA_A,17-18,e5be8241
+05e19d6a,Franck Kessié,79,CIV,RM,21-106,90,0,0,0,0,2,0,0,0,47,0,1,1,0.1,0.1,0.0,4,0,28,34,82.4,5,29,5,4,1,Milan,2018-04-04 Milan-Inter,ITA-SERIA_A,17-18,e5be8241
+7f78ad23,Ricardo Rodríguez,68,SUI,LB,25-222,90,0,0,0,0,2,0,0,0,84,3,2,0,0.0,0.0,0.0,1,0,62,72,86.1,8,44,1,4,4,Milan,2018-04-04 Milan-Inter,ITA-SERIA_A,17-18,e5be8241
+3ead85f9,Alessio Romagnoli,13,ITA,CB,23-082,90,0,0,0,0,0,0,0,0,76,1,1,0,0.0,0.0,0.0,0,0,63,66,95.5,2,36,1,0,0,Milan,2018-04-04 Milan-Inter,ITA-SERIA_A,17-18,e5be8241
+52ec54d0,Leonardo Bonucci,19,ITA,CB,30-338,90,0,0,0,0,2,1,0,0,52,1,1,2,0.1,0.1,0.0,0,0,36,41,87.8,1,22,0,0,0,Milan,2018-04-04 Milan-Inter,ITA-SERIA_A,17-18,e5be8241
+2146785a,Davide Calabria,2,ITA,RB,21-119,90,0,0,0,0,0,0,0,0,69,6,3,0,0.0,0.0,0.1,2,0,41,56,73.2,2,22,1,1,0,Milan,2018-04-04 Milan-Inter,ITA-SERIA_A,17-18,e5be8241
+08f5afaa,Gianluigi Donnarumma,99,ITA,GK,19-038,90,0,0,0,0,0,0,0,0,47,0,1,0,0.0,0.0,0.0,0,0,34,44,77.3,0,18,0,0,0,Milan,2018-04-04 Milan-Inter,ITA-SERIA_A,17-18,e5be8241
+43b78598,Mauro Icardi,9,ARG,FW,25-044,90,0,0,0,0,3,0,0,0,15,0,0,0,1.4,1.4,0.0,2,0,9,11,81.8,1,13,0,0,0,Internazionale,2018-04-04 Milan-Inter,ITA-SERIA_A,17-18,e5be8241
+6fe90922,Ivan Perišić,44,CRO,"LW,WB",29-061,90,0,0,0,0,2,1,1,0,71,2,2,2,0.1,0.1,0.0,2,0,37,54,68.5,5,47,6,4,1,Internazionale,2018-04-04 Milan-Inter,ITA-SERIA_A,17-18,e5be8241
+356c9002,Antonio Candreva,87,ITA,RW,31-035,77,0,0,0,0,1,1,1,0,35,0,1,0,0.0,0.0,0.7,3,0,23,30,76.7,6,26,3,1,1,Internazionale,2018-04-04 Milan-Inter,ITA-SERIA_A,17-18,e5be8241
+5a325298,Éder,23,ITA,AM,31-140,13,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,1,0,3,3,100.0,0,4,0,0,0,Internazionale,2018-04-04 Milan-Inter,ITA-SERIA_A,17-18,e5be8241
+0c2ac3cb,Rafinha,8,BRA,AM,25-051,70,0,0,0,0,1,0,0,0,49,0,1,2,0.1,0.1,0.1,5,0,38,42,90.5,8,30,3,0,0,Internazionale,2018-04-04 Milan-Inter,ITA-SERIA_A,17-18,e5be8241
+0e21fc3c,Borja Valero,20,ESP,AM,33-082,20,0,0,0,0,0,0,0,0,26,0,0,0,0.0,0.0,0.0,1,0,21,24,87.5,7,25,2,2,2,Internazionale,2018-04-04 Milan-Inter,ITA-SERIA_A,17-18,e5be8241
+33b8d077,Marcelo Brozović,77,CRO,"DM,CM",25-139,90,0,0,0,0,4,0,0,0,137,8,1,3,0.1,0.1,0.1,3,0,108,120,90.0,20,97,1,0,0,Internazionale,2018-04-04 Milan-Inter,ITA-SERIA_A,17-18,e5be8241
+ce30bfc8,Roberto Gagliardini,5,ITA,"DM,CM",23-362,90,0,0,0,0,1,0,0,0,69,1,1,1,0.2,0.2,0.0,3,0,51,61,83.6,5,37,0,0,0,Internazionale,2018-04-04 Milan-Inter,ITA-SERIA_A,17-18,e5be8241
+44eb9093,Danilo D'Ambrosio,33,ITA,"LB,CB",29-207,90,0,0,0,0,0,0,0,0,71,0,2,1,0.0,0.0,0.0,0,0,46,56,82.1,6,40,2,5,2,Internazionale,2018-04-04 Milan-Inter,ITA-SERIA_A,17-18,e5be8241
+314f2124,Miranda,25,BRA,CB,33-209,90,0,0,0,0,0,0,0,0,50,2,0,0,0.0,0.0,0.0,0,0,39,44,88.6,3,34,0,0,0,Internazionale,2018-04-04 Milan-Inter,ITA-SERIA_A,17-18,e5be8241
+30f5ffa9,Milan Škriniar,37,SVK,CB,23-052,90,0,0,0,0,0,0,1,0,76,0,1,0,0.0,0.0,0.0,0,0,58,65,89.2,6,51,0,0,0,Internazionale,2018-04-04 Milan-Inter,ITA-SERIA_A,17-18,e5be8241
+bd6351cd,João Cancelo,7,POR,"RB,WB",23-312,90,0,0,0,0,2,0,1,0,102,4,0,0,0.0,0.0,0.7,4,0,73,88,83.0,4,62,5,3,1,Internazionale,2018-04-04 Milan-Inter,ITA-SERIA_A,17-18,e5be8241
+74419746,Samir Handanović,1,SVN,GK,33-264,90,0,0,0,0,0,0,0,0,25,0,0,0,0.0,0.0,0.0,0,0,20,23,87.0,0,9,0,0,0,Internazionale,2018-04-04 Milan-Inter,ITA-SERIA_A,17-18,e5be8241

@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+ea0ff634,Valère Germain,9,FRA,FW,31-148,89,1,0,0,0,1,1,0,0,27,2,1,0,0.5,0.5,0.1,1,0,11,19,57.9,3,9,0,0,0,Montpellier,2021-09-12 Montpellier-Saint-Étienne,FRA-L1,21-22,85dc6801
+fcc84a07,Léo Leroy,18,FRA,LW,21-210,1,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,1,0,0,0,Montpellier,2021-09-12 Montpellier-Saint-Étienne,FRA-L1,21-22,85dc6801
+30144daa,Stephy Mavididi,10,ENG,LW,23-104,89,1,1,0,0,2,1,0,0,30,2,1,0,0.2,0.2,0.5,3,2,10,18,55.6,1,16,8,5,2,Montpellier,2021-09-12 Montpellier-Saint-Étienne,FRA-L1,21-22,85dc6801
+642f9f79,Yanis Guermouche,20,FRA,"FW,LW",20-150,1,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,3,1,3,0,Montpellier,2021-09-12 Montpellier-Saint-Étienne,FRA-L1,21-22,85dc6801
+0d7b6576,Elye Wahi,21,FRA,RW,18-253,57,0,0,0,0,1,0,1,0,16,0,0,1,0.1,0.1,0.0,2,1,5,8,62.5,1,5,0,0,0,Montpellier,2021-09-12 Montpellier-Saint-Étienne,FRA-L1,21-22,85dc6801
+79ab7593,Nicholas Gioacchini,23,USA,RW,21-049,33,0,0,0,0,1,0,0,0,14,0,0,1,0.1,0.1,0.0,0,0,2,8,25.0,1,4,0,0,0,Montpellier,2021-09-12 Montpellier-Saint-Étienne,FRA-L1,21-22,85dc6801
+6bde367b,Téji Savanier,11,FRA,AM,29-264,90,0,1,0,0,4,2,0,0,60,1,0,1,0.2,0.2,0.2,7,1,24,49,49.0,5,34,3,6,4,Montpellier,2021-09-12 Montpellier-Saint-Étienne,FRA-L1,21-22,85dc6801
+7909ffa4,Joris Chotard,13,FRA,DM,19-353,90,0,0,0,0,1,0,0,0,36,2,0,0,0.0,0.0,0.0,0,0,23,30,76.7,2,15,0,1,0,Montpellier,2021-09-12 Montpellier-Saint-Étienne,FRA-L1,21-22,85dc6801
+375622c5,Jordan Ferri,12,FRA,DM,29-184,90,0,0,0,0,0,0,0,0,45,2,0,0,0.0,0.0,0.0,2,0,27,34,79.4,4,31,2,2,1,Montpellier,2021-09-12 Montpellier-Saint-Étienne,FRA-L1,21-22,85dc6801
+8f325097,Nicolas Cozza,31,FRA,LB,22-247,90,0,0,0,0,0,0,0,0,50,4,1,3,0.0,0.0,0.0,1,0,20,33,60.6,6,12,4,0,0,Montpellier,2021-09-12 Montpellier-Saint-Étienne,FRA-L1,21-22,85dc6801
+87935cf3,Mamadou Sakho,3,FRA,CB,31-211,90,0,0,0,0,0,0,0,0,38,2,1,1,0.0,0.0,0.0,1,0,18,27,66.7,1,16,0,0,0,Montpellier,2021-09-12 Montpellier-Saint-Étienne,FRA-L1,21-22,85dc6801
+db23d9fc,Thuler,26,BRA,CB,22-186,76,0,0,0,0,1,0,0,0,19,2,0,0,0.1,0.1,0.0,0,0,10,14,71.4,1,10,0,0,0,Montpellier,2021-09-12 Montpellier-Saint-Étienne,FRA-L1,21-22,85dc6801
+1a066e69,Maxime Estève,34,FRA,CB,19-109,14,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,4,4,100.0,0,2,0,0,0,Montpellier,2021-09-12 Montpellier-Saint-Étienne,FRA-L1,21-22,85dc6801
+4e0afc5d,Arnaud Souquet,2,FRA,RB,29-212,90,0,0,0,0,0,0,0,0,51,2,1,2,0.0,0.0,0.0,1,0,25,36,69.4,4,19,3,1,1,Montpellier,2021-09-12 Montpellier-Saint-Étienne,FRA-L1,21-22,85dc6801
+380a15e2,Dimitry Bertaud,16,COD,GK,23-098,90,0,0,0,0,0,0,0,0,39,0,0,0,0.0,0.0,0.0,0,0,29,36,80.6,0,11,0,0,0,Montpellier,2021-09-12 Montpellier-Saint-Étienne,FRA-L1,21-22,85dc6801
+0b4d8274,Romain Hamouma,21,FRA,FW,34-167,59,0,0,0,0,2,1,0,0,28,0,0,0,0.1,0.1,0.1,2,0,13,20,65.0,1,14,2,0,0,Saint-Étienne,2021-09-12 Montpellier-Saint-Étienne,FRA-L1,21-22,85dc6801
+7d9f3d69,Mathys Saban,32,FRA,"RW,FW",19-120,31,0,0,0,0,0,0,1,0,14,4,0,1,0.0,0.0,0.0,0,0,5,5,100.0,2,7,0,0,0,Saint-Étienne,2021-09-12 Montpellier-Saint-Étienne,FRA-L1,21-22,85dc6801
+0b0cbe5b,Denis Bouanga,20,GAB,LW,26-305,76,0,0,0,0,3,0,1,0,44,1,0,1,0.1,0.1,0.0,4,0,24,30,80.0,2,20,3,5,2,Saint-Étienne,2021-09-12 Montpellier-Saint-Étienne,FRA-L1,21-22,85dc6801
+b94b8be1,Adil Aouchiche,17,FRA,FW,19-059,14,0,0,0,0,0,0,0,0,19,0,0,2,0.0,0.0,0.0,1,0,6,14,42.9,1,7,1,1,0,Saint-Étienne,2021-09-12 Montpellier-Saint-Étienne,FRA-L1,21-22,85dc6801
+7b9a9e25,Arnaud Nordin,18,FRA,RW,23-087,59,0,0,0,0,1,0,0,0,29,0,0,1,0.0,0.0,0.3,3,0,17,20,85.0,3,10,3,2,1,Saint-Étienne,2021-09-12 Montpellier-Saint-Étienne,FRA-L1,21-22,85dc6801
+ad513a6b,Juan Ignacio Ramírez,9,URU,"LW,RW",24-223,31,0,0,0,0,1,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,3,0,1,1,Saint-Étienne,2021-09-12 Montpellier-Saint-Étienne,FRA-L1,21-22,85dc6801
+2677a1de,Wahbi Khazri,10,TUN,AM,30-216,76,0,0,0,0,2,0,0,0,33,0,0,0,0.0,0.0,0.1,3,0,11,25,44.0,4,25,4,2,1,Saint-Étienne,2021-09-12 Montpellier-Saint-Étienne,FRA-L1,21-22,85dc6801
+037f2523,Jean-Philippe Krasso,14,CIV,AM,24-057,14,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,1,0,2,4,50.0,1,5,0,1,1,Saint-Étienne,2021-09-12 Montpellier-Saint-Étienne,FRA-L1,21-22,85dc6801
+0ad37003,Yvan Neyou,19,CMR,DM,24-252,90,0,0,0,0,2,1,1,0,66,3,1,0,0.1,0.1,0.1,5,0,44,52,84.6,6,28,2,1,1,Saint-Étienne,2021-09-12 Montpellier-Saint-Étienne,FRA-L1,21-22,85dc6801
+8577e60a,Mahdi Camara,8,FRA,DM,23-074,90,0,0,0,0,1,0,0,0,48,3,1,0,0.3,0.3,0.0,4,0,37,41,90.2,3,24,0,1,0,Saint-Étienne,2021-09-12 Montpellier-Saint-Étienne,FRA-L1,21-22,85dc6801
+ab096c6f,Timothée Kolodziejczak,5,FRA,LB,29-346,90,0,0,0,0,0,0,0,0,77,3,2,1,0.0,0.0,0.0,1,0,53,67,79.1,6,24,2,0,0,Saint-Étienne,2021-09-12 Montpellier-Saint-Étienne,FRA-L1,21-22,85dc6801
+a6b6fa6e,Mickael Nade,33,FRA,CB,22-192,90,0,0,0,0,1,0,1,0,40,1,2,2,0.1,0.1,0.0,3,0,26,27,96.3,4,17,0,2,2,Saint-Étienne,2021-09-12 Montpellier-Saint-Étienne,FRA-L1,21-22,85dc6801
+5f26e0c5,Harold Moukoudi,2,CMR,CB,23-289,90,0,0,0,0,0,0,0,0,53,0,2,1,0.0,0.0,0.0,0,0,38,44,86.4,3,29,2,0,0,Saint-Étienne,2021-09-12 Montpellier-Saint-Étienne,FRA-L1,21-22,85dc6801
+0bb6e193,Yvann Macon,27,FRA,RB,22-346,45,0,0,0,0,1,0,0,0,30,0,1,0,0.0,0.0,0.0,0,0,22,25,88.0,2,11,0,3,1,Saint-Étienne,2021-09-12 Montpellier-Saint-Étienne,FRA-L1,21-22,85dc6801
+75186a6a,Bryan Djile Nokoué,31,CMR,RB,19-112,45,0,0,0,0,0,0,0,0,35,2,1,1,0.0,0.0,0.0,0,0,19,27,70.4,1,16,1,0,0,Saint-Étienne,2021-09-12 Montpellier-Saint-Étienne,FRA-L1,21-22,85dc6801
+667b65da,Etienne Green,40,ENG,GK,21-055,90,0,0,0,0,0,0,0,0,36,0,0,0,0.0,0.0,0.0,0,0,25,33,75.8,0,13,0,0,0,Saint-Étienne,2021-09-12 Montpellier-Saint-Étienne,FRA-L1,21-22,85dc6801

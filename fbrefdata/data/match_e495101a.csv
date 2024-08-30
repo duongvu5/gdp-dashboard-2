@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+7cdda3bf,Gaëtan Laborde,24,FRA,FW,23-283,69,0,0,0,0,3,1,0,0,29,0,0,0,0.4,0.4,0.0,5,1,11,17,64.7,0,18,0,1,0,Bordeaux,2018-02-10 Bordeaux-Amiens,FRA-L1,17-18,e495101a
+81d3318f,François Kamano,11,GUI,LW,21-284,21,1,0,0,0,2,1,0,0,14,0,0,0,1.1,1.1,0.0,1,0,8,11,72.7,1,10,3,1,1,Bordeaux,2018-02-10 Bordeaux-Amiens,FRA-L1,17-18,e495101a
+fd771f95,Martin Braithwaite,9,DEN,"LW,FW",26-250,90,0,0,0,0,3,0,0,0,37,0,0,2,0.1,0.1,0.0,1,0,22,27,81.5,0,25,2,2,1,Bordeaux,2018-02-10 Bordeaux-Amiens,FRA-L1,17-18,e495101a
+6853490f,Malcom,7,BRA,RW,20-349,83,0,1,0,0,1,0,0,0,44,0,0,0,0.0,0.0,0.3,7,3,29,40,72.5,3,19,3,1,1,Bordeaux,2018-02-10 Bordeaux-Amiens,FRA-L1,17-18,e495101a
+2515040a,Paul Baysse,8,FRA,RW,29-268,7,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,1,0,0,0,Bordeaux,2018-02-10 Bordeaux-Amiens,FRA-L1,17-18,e495101a
+5cec2c74,Soualiho Meïté,10,FRA,"LM,RM",23-330,90,0,0,0,0,0,0,0,0,57,3,2,2,0.0,0.0,0.0,3,0,35,47,74.5,4,38,2,2,2,Bordeaux,2018-02-10 Bordeaux-Amiens,FRA-L1,17-18,e495101a
+243f4a0b,Otávio,5,BRA,CM,23-282,70,0,0,0,0,0,0,0,0,52,3,0,1,0.0,0.0,0.0,1,0,39,43,90.7,4,26,0,1,1,Bordeaux,2018-02-10 Bordeaux-Amiens,FRA-L1,17-18,e495101a
+c650629d,Younousse Sankharé,13,SEN,LM,28-153,20,0,0,0,0,0,0,0,0,15,0,0,0,0.0,0.0,0.0,1,0,12,15,80.0,2,11,2,1,1,Bordeaux,2018-02-10 Bordeaux-Amiens,FRA-L1,17-18,e495101a
+1b82f8df,Lukas Lerager,19,DEN,"RM,CM",24-213,90,1,0,0,0,1,1,0,0,59,2,2,2,0.3,0.3,0.0,1,0,36,45,80.0,6,30,0,0,0,Bordeaux,2018-02-10 Bordeaux-Amiens,FRA-L1,17-18,e495101a
+b92edde2,Maxime Poundjé,29,FRA,LB,25-178,90,0,0,0,0,2,0,0,0,74,2,2,3,0.0,0.0,0.0,1,0,39,55,70.9,2,32,3,1,1,Bordeaux,2018-02-10 Bordeaux-Amiens,FRA-L1,17-18,e495101a
+29d8ad3f,Pablo,25,BRA,CB,26-234,90,0,1,0,0,0,0,0,0,63,2,1,2,0.0,0.0,1.1,1,1,45,54,83.3,4,34,0,1,0,Bordeaux,2018-02-10 Bordeaux-Amiens,FRA-L1,17-18,e495101a
+4d1666ff,Jules Koundé,31,FRA,CB,19-090,90,1,0,0,0,2,1,0,0,55,2,1,0,0.2,0.2,0.0,0,0,42,48,87.5,5,39,0,0,0,Bordeaux,2018-02-10 Bordeaux-Amiens,FRA-L1,17-18,e495101a
+fbbb9269,Youssouf Sabaly,20,SEN,RB,24-342,90,0,1,0,0,0,0,0,0,76,5,0,2,0.0,0.0,0.4,3,1,52,59,88.1,3,43,5,4,2,Bordeaux,2018-02-10 Bordeaux-Amiens,FRA-L1,17-18,e495101a
+2434f24a,Benoît Costil,1,FRA,GK,30-222,90,0,0,0,0,0,0,0,0,44,0,0,0,0.0,0.0,0.0,0,0,25,42,59.5,0,13,0,0,0,Bordeaux,2018-02-10 Bordeaux-Amiens,FRA-L1,17-18,e495101a
+e68f2cb4,Stiven Mendoza,27,COL,FW,25-228,90,1,0,0,0,8,2,0,0,47,2,0,0,1.0,1.0,0.0,6,0,26,33,78.8,2,26,2,7,7,Amiens,2018-02-10 Bordeaux-Amiens,FRA-L1,17-18,e495101a
+5b1bf5e3,Gaël Kakuta,14,COD,"LM,AM",26-234,90,1,0,0,0,3,2,0,0,65,4,1,2,0.2,0.2,0.3,9,0,33,44,75.0,6,28,0,7,3,Amiens,2018-02-10 Bordeaux-Amiens,FRA-L1,17-18,e495101a
+84d94b91,Thomas Monconduit,6,FRA,CM,27-000,85,0,0,0,0,1,0,1,0,43,2,0,0,0.0,0.0,0.4,0,0,30,36,83.3,3,14,0,0,0,Amiens,2018-02-10 Bordeaux-Amiens,FRA-L1,17-18,e495101a
+f3642ba8,Mathieu Bodmer,24,FRA,CM,35-080,5,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,5,9,55.6,0,3,0,0,0,Amiens,2018-02-10 Bordeaux-Amiens,FRA-L1,17-18,e495101a
+34cfec6b,Guy Ngosso,26,CMR,CM,33-030,52,0,0,0,0,0,0,0,0,29,1,0,1,0.0,0.0,0.0,1,0,20,23,87.0,7,12,0,2,1,Amiens,2018-02-10 Bordeaux-Amiens,FRA-L1,17-18,e495101a
+fcbcbd94,Moussa Konaté,15,SEN,FW,24-313,38,0,0,0,0,2,0,0,0,12,0,0,0,0.2,0.2,0.1,2,0,5,6,83.3,1,9,1,0,0,Amiens,2018-02-10 Bordeaux-Amiens,FRA-L1,17-18,e495101a
+9dafff2a,Guessouma Fofana,8,MTN,"RM,CM",25-055,90,0,0,0,0,1,1,0,0,32,2,0,1,0.0,0.0,0.0,1,0,12,24,50.0,0,16,1,0,0,Amiens,2018-02-10 Bordeaux-Amiens,FRA-L1,17-18,e495101a
+eacb45fd,Danilo Avelar,35,BRA,"LB,WB",28-246,90,0,0,0,0,1,0,0,0,54,3,1,0,0.0,0.0,0.0,2,1,21,42,50.0,4,21,2,1,0,Amiens,2018-02-10 Bordeaux-Amiens,FRA-L1,17-18,e495101a
+247accfd,Bakaye Dibassy,12,MLI,CB,28-183,80,0,0,0,0,0,0,0,0,34,1,0,1,0.0,0.0,0.0,0,0,21,23,91.3,2,13,0,0,0,Amiens,2018-02-10 Bordeaux-Amiens,FRA-L1,17-18,e495101a
+392d98fc,Harrison Manzala,7,COD,RM,23-341,10,0,1,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.1,1,1,5,10,50.0,1,6,1,0,0,Amiens,2018-02-10 Bordeaux-Amiens,FRA-L1,17-18,e495101a
+16714a62,Khaled Adénon,3,BEN,CB,32-197,90,0,0,0,0,1,0,0,0,45,1,3,0,0.1,0.1,0.0,1,0,26,32,81.3,2,20,0,0,0,Amiens,2018-02-10 Bordeaux-Amiens,FRA-L1,17-18,e495101a
+7c6d6c96,Prince-Désir Gouano,2,FRA,CB,24-048,90,0,0,0,0,1,0,0,0,60,0,2,1,0.1,0.1,0.0,1,0,39,50,78.0,4,26,0,0,0,Amiens,2018-02-10 Bordeaux-Amiens,FRA-L1,17-18,e495101a
+9f29c204,Oualid El Hajjam,19,MAR,"RB,WB",26-356,90,0,0,0,0,1,0,0,0,50,2,1,0,0.1,0.1,0.0,2,0,31,42,73.8,4,19,2,1,0,Amiens,2018-02-10 Bordeaux-Amiens,FRA-L1,17-18,e495101a
+bc270726,Régis Gurtner,1,FRA,GK,31-064,90,0,0,0,0,0,0,0,0,28,0,0,0,0.0,0.0,0.0,0,0,14,26,53.8,0,11,0,0,0,Amiens,2018-02-10 Bordeaux-Amiens,FRA-L1,17-18,e495101a

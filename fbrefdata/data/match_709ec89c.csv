@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+42fd9c7f,Kylian Mbappé,7,FRA,FW,22-045,87,1,0,0,0,3,1,0,0,31,0,0,0,0.2,0.2,0.0,2,1,17,23,73.9,0,25,3,4,2,Paris Saint-Germain,2021-02-03 Paris S-G-Nîmes,FRA-L1,20-21,709ec89c
+43b78598,Mauro Icardi,9,ARG,FW,27-350,3,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Paris Saint-Germain,2021-02-03 Paris S-G-Nîmes,FRA-L1,20-21,709ec89c
+3d50bcdb,Moise Kean,18,ITA,"FW,LW",20-341,79,0,0,0,0,2,0,0,0,19,1,0,0,0.3,0.3,0.0,2,1,9,11,81.8,0,11,0,1,0,Paris Saint-Germain,2021-02-03 Paris S-G-Nîmes,FRA-L1,20-21,709ec89c
+1a992676,Julian Draxler,23,GER,RW,27-136,11,0,0,0,0,0,0,0,0,4,1,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,3,1,0,0,Paris Saint-Germain,2021-02-03 Paris S-G-Nîmes,FRA-L1,20-21,709ec89c
+9744ff80,Pablo Sarabia,19,ESP,"LM,RW",28-268,90,1,0,0,0,2,2,0,0,59,0,0,0,0.7,0.7,0.0,2,0,42,53,79.2,2,51,2,1,0,Paris Saint-Germain,2021-02-03 Paris S-G-Nîmes,FRA-L1,20-21,709ec89c
+dff153a4,Leandro Paredes,8,ARG,"CM,RM",26-219,79,0,1,0,0,2,2,0,0,128,2,1,2,0.0,0.0,0.0,3,1,105,119,88.2,10,107,0,0,0,Paris Saint-Germain,2021-02-03 Paris S-G-Nîmes,FRA-L1,20-21,709ec89c
+8fd9996f,Danilo Pereira,15,POR,LM,29-147,11,0,0,0,0,0,0,0,0,14,0,0,0,0.0,0.0,0.0,0,0,13,14,92.9,0,13,0,1,1,Paris Saint-Germain,2021-02-03 Paris S-G-Nîmes,FRA-L1,20-21,709ec89c
+72c812f3,Idrissa Gana Gueye,27,SEN,CM,31-130,90,0,0,0,0,0,0,0,0,130,3,1,1,0.0,0.0,0.4,3,0,116,123,94.3,19,110,1,2,1,Paris Saint-Germain,2021-02-03 Paris S-G-Nîmes,FRA-L1,20-21,709ec89c
+19cda00b,Ángel Di María,11,ARG,RM,32-355,69,1,1,0,0,2,1,0,0,50,0,0,0,0.3,0.3,0.7,7,1,35,42,83.3,3,37,3,3,1,Paris Saint-Germain,2021-02-03 Paris S-G-Nîmes,FRA-L1,20-21,709ec89c
+0c2ac3cb,Rafinha,12,BRA,"LM,RM",27-357,21,0,0,0,0,0,0,0,0,32,3,1,0,0.0,0.0,0.0,1,0,26,28,92.9,2,24,1,0,0,Paris Saint-Germain,2021-02-03 Paris S-G-Nîmes,FRA-L1,20-21,709ec89c
+a8567629,Mitchel Bakker,25,NED,LB,20-228,87,0,0,0,0,0,0,0,0,80,1,2,1,0.0,0.0,0.0,0,0,65,76,85.5,3,55,2,0,0,Paris Saint-Germain,2021-02-03 Paris S-G-Nîmes,FRA-L1,20-21,709ec89c
+41e7ef1c,Layvin Kurzawa,20,FRA,LB,28-152,3,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,3,4,75.0,0,3,0,0,0,Paris Saint-Germain,2021-02-03 Paris S-G-Nîmes,FRA-L1,20-21,709ec89c
+aef6e670,Presnel Kimpembe,3,FRA,CB,25-174,90,0,0,0,0,0,0,0,0,89,1,0,3,0.0,0.0,0.3,2,0,80,83,96.4,5,78,0,2,1,Paris Saint-Germain,2021-02-03 Paris S-G-Nîmes,FRA-L1,20-21,709ec89c
+51dbeea9,Thilo Kehrer,4,GER,CB,24-135,90,0,0,0,0,2,0,0,0,101,5,1,1,0.4,0.4,0.0,0,0,83,87,95.4,4,80,0,0,0,Paris Saint-Germain,2021-02-03 Paris S-G-Nîmes,FRA-L1,20-21,709ec89c
+29c02c9f,Colin Dagba,31,FRA,RB,22-147,90,0,0,0,0,1,0,0,0,82,4,2,2,0.0,0.0,0.0,1,0,60,70,85.7,1,53,5,0,0,Paris Saint-Germain,2021-02-03 Paris S-G-Nîmes,FRA-L1,20-21,709ec89c
+5f0241b2,Sergio Rico,16,ESP,GK,27-155,90,0,0,0,0,0,0,0,0,34,0,0,0,0.0,0.0,0.0,0,0,31,32,96.9,0,22,0,0,0,Paris Saint-Germain,2021-02-03 Paris S-G-Nîmes,FRA-L1,20-21,709ec89c
+9b6556d2,Haris Duljević,17,BIH,FW,27-079,76,0,0,0,0,3,1,0,0,30,1,1,0,0.5,0.5,0.0,3,0,14,18,77.8,2,17,2,5,2,Nîmes,2021-02-03 Paris S-G-Nîmes,FRA-L1,20-21,709ec89c
+a27ecdc2,Marco Majouga,33,CTA,FW,19-270,14,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.7,3,0,4,4,100.0,2,6,0,2,0,Nîmes,2021-02-03 Paris S-G-Nîmes,FRA-L1,20-21,709ec89c
+beae3a73,Renaud Ripart,20,FRA,LM,27-326,76,0,0,0,0,3,1,0,0,32,1,2,0,0.1,0.1,0.4,1,0,14,17,82.4,3,20,4,3,0,Nîmes,2021-02-03 Paris S-G-Nîmes,FRA-L1,20-21,709ec89c
+3ef68782,Moussa Koné,28,SEN,LM,24-035,14,0,0,0,0,2,1,0,0,8,0,0,0,0.6,0.6,0.0,1,0,5,6,83.3,0,4,2,0,0,Nîmes,2021-02-03 Paris S-G-Nîmes,FRA-L1,20-21,709ec89c
+5ea9ebd4,Matteo Ahlinvi,11,BEN,CM,21-216,45,0,0,0,0,0,0,0,0,15,0,0,0,0.0,0.0,0.0,0,0,7,10,70.0,2,9,2,1,1,Nîmes,2021-02-03 Paris S-G-Nîmes,FRA-L1,20-21,709ec89c
+44f8c299,Lucas Deaux,8,FRA,CM,32-039,45,0,0,0,0,0,0,0,0,22,0,0,0,0.0,0.0,0.1,7,0,17,22,77.3,2,17,1,3,3,Nîmes,2021-02-03 Paris S-G-Nîmes,FRA-L1,20-21,709ec89c
+2145368f,Lamine Fomba,12,FRA,CM,23-008,90,0,0,0,0,2,1,0,0,45,3,5,0,0.4,0.4,0.0,2,0,29,33,87.9,1,28,0,4,3,Nîmes,2021-02-03 Paris S-G-Nîmes,FRA-L1,20-21,709ec89c
+005c0807,Zinedine Ferhat,10,ALG,RM,27-339,83,0,0,0,0,2,0,0,0,53,1,2,2,0.1,0.1,0.1,7,0,28,42,66.7,4,33,5,6,2,Nîmes,2021-02-03 Paris S-G-Nîmes,FRA-L1,20-21,709ec89c
+fbf76716,Yassine Benrahou,22,FRA,RM,22-010,7,0,0,0,0,1,0,0,0,5,0,0,0,0.0,0.0,0.0,1,0,2,3,66.7,0,3,1,1,0,Nîmes,2021-02-03 Paris S-G-Nîmes,FRA-L1,20-21,709ec89c
+9b40a6ea,Andrés Cubas,18,PAR,DM,24-257,90,0,0,0,0,1,1,0,0,61,5,3,2,0.0,0.0,0.0,3,0,44,48,91.7,6,36,0,0,0,Nîmes,2021-02-03 Paris S-G-Nîmes,FRA-L1,20-21,709ec89c
+70c52749,Birger Meling,3,NOR,LB,26-048,90,0,0,0,0,3,0,1,0,53,1,2,1,0.1,0.1,0.1,3,0,33,40,82.5,4,32,6,1,0,Nîmes,2021-02-03 Paris S-G-Nîmes,FRA-L1,20-21,709ec89c
+b66d1d8a,Florian Miguel,26,FRA,CB,24-155,90,0,0,0,0,0,0,0,0,44,2,3,2,0.0,0.0,0.0,1,0,34,37,91.9,2,36,0,0,0,Nîmes,2021-02-03 Paris S-G-Nîmes,FRA-L1,20-21,709ec89c
+16324e1d,Anthony Briançon,23,FRA,CB,26-067,90,0,0,0,0,1,1,0,0,49,0,1,0,0.1,0.1,0.0,0,0,37,41,90.2,2,29,0,0,0,Nîmes,2021-02-03 Paris S-G-Nîmes,FRA-L1,20-21,709ec89c
+8746d5d0,Patrick Burner,21,MTQ,RB,24-298,89,0,0,0,0,1,0,0,0,37,0,2,0,0.0,0.0,0.0,1,0,23,29,79.3,2,19,2,1,0,Nîmes,2021-02-03 Paris S-G-Nîmes,FRA-L1,20-21,709ec89c
+5314e067,Sofiane Alakouch,29,MAR,RB,22-189,1,0,0,0,0,0,0,0,0,1,1,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Nîmes,2021-02-03 Paris S-G-Nîmes,FRA-L1,20-21,709ec89c
+bcf1b2e9,Baptiste Reynet,30,FRA,GK,30-098,90,0,0,0,0,0,0,0,0,45,0,0,0,0.0,0.0,0.0,0,0,27,43,62.8,0,25,0,0,0,Nîmes,2021-02-03 Paris S-G-Nîmes,FRA-L1,20-21,709ec89c

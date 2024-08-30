@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+527f063d,Edinson Cavani,9,URU,FW,31-248,90,0,0,0,0,4,1,0,0,31,0,0,1,0.7,0.7,0.0,2,0,13,19,68.4,1,23,3,2,0,Paris Saint-Germain,2018-10-20 Paris S-G-Amiens,FRA-L1,18-19,035d3aad
+19cda00b,Ángel Di María,11,ARG,LW,30-248,58,0,2,0,0,4,2,0,0,62,3,0,1,0.2,0.2,0.7,8,4,40,56,71.4,7,47,7,4,3,Paris Saint-Germain,2018-10-20 Paris S-G-Amiens,FRA-L1,18-19,035d3aad
+aeed5c06,Moussa Diaby,27,FRA,RM,19-105,32,1,1,0,0,2,1,0,0,23,0,0,0,0.5,0.5,0.1,3,3,14,21,66.7,2,20,3,2,2,Paris Saint-Germain,2018-10-20 Paris S-G-Amiens,FRA-L1,18-19,035d3aad
+42fd9c7f,Kylian Mbappé,7,FRA,"RW,FW",19-304,90,1,0,0,0,2,1,0,0,32,1,0,0,0.1,0.1,0.1,4,0,21,26,80.8,3,26,4,1,0,Paris Saint-Germain,2018-10-20 Paris S-G-Amiens,FRA-L1,18-19,035d3aad
+1a992676,Julian Draxler,23,GER,LM,25-030,90,1,0,0,0,1,1,0,0,43,1,1,1,0.3,0.3,0.0,3,1,37,38,97.4,10,29,1,2,1,Paris Saint-Germain,2018-10-20 Paris S-G-Amiens,FRA-L1,18-19,035d3aad
+1467af0d,Marco Verratti,6,ITA,CM,25-349,45,0,0,0,0,0,0,0,0,44,1,1,0,0.0,0.0,0.0,3,0,36,41,87.8,3,38,1,1,1,Paris Saint-Germain,2018-10-20 Paris S-G-Amiens,FRA-L1,18-19,035d3aad
+79584585,Lassana Diarra,19,FRA,CM,33-224,45,0,0,0,0,0,0,0,0,32,1,0,0,0.0,0.0,0.0,1,0,25,28,89.3,1,25,0,1,1,Paris Saint-Germain,2018-10-20 Paris S-G-Amiens,FRA-L1,18-19,035d3aad
+8794e251,Adrien Rabiot,25,FRA,"RM,CM",23-200,85,1,0,0,0,1,1,0,0,77,3,0,1,0.4,0.4,0.0,2,1,59,64,92.2,7,58,2,0,0,Paris Saint-Germain,2018-10-20 Paris S-G-Amiens,FRA-L1,18-19,035d3aad
+7a137df4,Kévin Rimane,32,GUF,CM,27-239,5,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,1,1,8,8,100.0,2,8,0,0,0,Paris Saint-Germain,2018-10-20 Paris S-G-Amiens,FRA-L1,18-19,035d3aad
+433dc9a2,Juan Bernat,14,ESP,LB,25-233,90,0,0,0,0,0,0,0,0,81,4,4,1,0.0,0.0,0.6,3,0,58,63,92.1,6,50,5,3,2,Paris Saint-Germain,2018-10-20 Paris S-G-Amiens,FRA-L1,18-19,035d3aad
+51dbeea9,Thilo Kehrer,4,GER,CB,22-029,90,0,0,0,0,1,0,0,0,85,4,0,0,0.0,0.0,0.0,0,0,69,73,94.5,7,60,2,0,0,Paris Saint-Germain,2018-10-20 Paris S-G-Amiens,FRA-L1,18-19,035d3aad
+d5f2f82b,Marquinhos,5,BRA,CB,24-159,90,1,0,0,0,1,1,0,0,83,2,1,0,0.2,0.2,0.0,0,0,69,76,90.8,4,61,0,0,0,Paris Saint-Germain,2018-10-20 Paris S-G-Amiens,FRA-L1,18-19,035d3aad
+7c56da38,Christopher Nkunku,24,FRA,RB,20-340,90,0,0,0,0,0,0,0,0,69,3,2,0,0.0,0.0,0.0,0,0,51,58,87.9,6,53,4,3,2,Paris Saint-Germain,2018-10-20 Paris S-G-Amiens,FRA-L1,18-19,035d3aad
+2f965a72,Alphonse Areola,16,FRA,GK,25-235,90,0,0,0,0,0,0,0,0,23,0,0,0,0.0,0.0,0.0,0,0,16,21,76.2,0,10,0,0,0,Paris Saint-Germain,2018-10-20 Paris S-G-Amiens,FRA-L1,18-19,035d3aad
+05816e19,Juan Ferney Otero,11,COL,"FW,RM",23-147,90,0,0,0,0,2,0,0,0,46,3,0,2,0.2,0.2,0.0,1,0,20,23,87.0,1,29,7,6,1,Amiens,2018-10-20 Paris S-G-Amiens,FRA-L1,18-19,035d3aad
+23593121,Ganso,8,BRA,FW,29-008,73,0,0,0,0,0,0,0,0,50,3,2,1,0.0,0.0,0.0,3,0,39,44,88.6,5,31,2,0,0,Amiens,2018-10-20 Paris S-G-Amiens,FRA-L1,18-19,035d3aad
+f3642ba8,Mathieu Bodmer,24,FRA,FW,35-332,17,0,0,0,0,0,0,0,0,14,0,0,0,0.0,0.0,0.0,1,0,13,14,92.9,3,10,0,0,0,Amiens,2018-10-20 Paris S-G-Amiens,FRA-L1,18-19,035d3aad
+f7b1d4e0,Saman Ghoddos,7,IRN,LM,25-044,90,0,0,0,0,3,1,0,0,54,1,0,0,0.5,0.5,0.2,2,0,29,40,72.5,3,35,4,2,0,Amiens,2018-10-20 Paris S-G-Amiens,FRA-L1,18-19,035d3aad
+a0434482,Eddy Gnahoré,5,FRA,CM,24-340,80,0,0,0,0,0,0,0,0,51,0,0,0,0.0,0.0,0.0,2,0,46,48,95.8,3,39,2,3,2,Amiens,2018-10-20 Paris S-G-Amiens,FRA-L1,18-19,035d3aad
+c69ef855,Alexis Blin,17,FRA,CM,22-034,10,0,0,0,0,0,0,0,0,10,1,0,0,0.0,0.0,0.0,0,0,8,10,80.0,1,7,0,0,0,Amiens,2018-10-20 Paris S-G-Amiens,FRA-L1,18-19,035d3aad
+84d94b91,Thomas Monconduit,6,FRA,CM,27-252,90,0,0,0,0,1,1,0,0,63,2,4,0,0.0,0.0,0.0,2,0,44,55,80.0,5,33,0,0,0,Amiens,2018-10-20 Paris S-G-Amiens,FRA-L1,18-19,035d3aad
+9f29c204,Oualid El Hajjam,19,MAR,RM,27-243,66,0,0,0,0,0,0,0,0,26,0,1,0,0.0,0.0,0.0,3,0,17,22,77.3,0,8,0,0,0,Amiens,2018-10-20 Paris S-G-Amiens,FRA-L1,18-19,035d3aad
+fcbcbd94,Moussa Konaté,15,SEN,FW,25-200,24,0,0,0,0,1,0,0,0,10,0,0,0,0.0,0.0,0.0,0,0,6,6,100.0,0,7,0,1,0,Amiens,2018-10-20 Paris S-G-Amiens,FRA-L1,18-19,035d3aad
+247accfd,Bakaye Dibassy,12,MLI,LB,29-070,90,0,0,0,0,0,0,0,0,42,1,0,1,0.0,0.0,0.0,0,0,30,38,78.9,5,22,2,0,0,Amiens,2018-10-20 Paris S-G-Amiens,FRA-L1,18-19,035d3aad
+16714a62,Khaled Adénon,3,BEN,CB,33-084,90,0,0,0,0,0,0,0,0,44,2,2,0,0.0,0.0,0.0,0,0,30,33,90.9,6,25,0,0,0,Amiens,2018-10-20 Paris S-G-Amiens,FRA-L1,18-19,035d3aad
+7c6d6c96,Prince-Désir Gouano,2,FRA,CB,24-300,90,0,0,0,0,0,0,0,0,36,0,0,2,0.0,0.0,0.0,0,0,26,27,96.3,0,23,0,0,0,Amiens,2018-10-20 Paris S-G-Amiens,FRA-L1,18-19,035d3aad
+77cf6852,Emil Krafth,4,SWE,RB,24-079,90,0,0,0,0,1,0,0,0,51,3,0,0,0.0,0.0,0.0,0,0,33,42,78.6,2,28,2,1,0,Amiens,2018-10-20 Paris S-G-Amiens,FRA-L1,18-19,035d3aad
+bc270726,Régis Gurtner,1,FRA,GK,31-316,90,0,0,0,0,0,0,0,0,31,0,1,0,0.0,0.0,0.0,0,0,14,27,51.9,0,7,0,0,0,Amiens,2018-10-20 Paris S-G-Amiens,FRA-L1,18-19,035d3aad

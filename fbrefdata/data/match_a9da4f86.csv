@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+2f557579,Lorenzo Insigne,24,ITA,FW,27-201,90,0,0,0,0,6,1,0,0,60,0,0,1,0.2,0.2,0.7,10,0,41,47,87.2,4,45,3,4,4,Napoli,2018-12-22 Napoli-SPAL,ITA-SERIA_A,18-19,a9da4f86
+89b2c8a9,Dries Mertens,14,BEL,FW,31-230,82,0,1,0,0,4,1,0,0,36,0,0,0,0.9,0.9,0.1,6,1,22,28,78.6,4,23,0,1,1,Napoli,2018-12-22 Napoli-SPAL,ITA-SERIA_A,18-19,a9da4f86
+bf309d24,Amadou Diawara,42,GUI,FW,21-158,8,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,5,5,100.0,0,5,0,0,0,Napoli,2018-12-22 Napoli-SPAL,ITA-SERIA_A,18-19,a9da4f86
+a5296e55,Piotr Zieliński,20,POL,LM,24-216,90,0,0,0,0,4,0,0,0,61,0,0,0,0.2,0.2,0.3,3,0,49,55,89.1,5,49,4,0,0,Napoli,2018-12-22 Napoli-SPAL,ITA-SERIA_A,18-19,a9da4f86
+e6ad16b2,Marek Hamšík,17,SVK,CM,31-148,90,0,0,0,0,0,0,1,0,81,2,0,0,0.0,0.0,0.1,6,0,69,77,89.6,7,53,5,1,1,Napoli,2018-12-22 Napoli-SPAL,ITA-SERIA_A,18-19,a9da4f86
+b6b2b820,Marko Rog,30,CRO,CM,23-156,65,0,0,0,0,2,1,1,0,45,2,0,3,0.1,0.1,0.0,1,0,33,36,91.7,2,26,0,3,2,Napoli,2018-12-22 Napoli-SPAL,ITA-SERIA_A,18-19,a9da4f86
+c0c7ff58,Fabián Ruiz Peña,8,ESP,CM,22-263,25,0,0,0,0,0,0,0,0,25,0,1,0,0.0,0.0,0.3,2,0,17,24,70.8,2,15,1,0,0,Napoli,2018-12-22 Napoli-SPAL,ITA-SERIA_A,18-19,a9da4f86
+78841da9,José Callejón,7,ESP,RM,31-314,90,0,0,0,0,3,1,0,0,77,2,0,0,0.3,0.3,0.2,6,0,64,72,88.9,4,48,1,2,1,Napoli,2018-12-22 Napoli-SPAL,ITA-SERIA_A,18-19,a9da4f86
+c5adc293,Faouzi Ghoulam,31,ALG,LB,27-324,78,0,0,0,0,1,0,0,0,96,0,0,0,0.0,0.0,0.0,3,0,81,94,86.2,6,63,6,0,0,Napoli,2018-12-22 Napoli-SPAL,ITA-SERIA_A,18-19,a9da4f86
+997fff07,Sebastiano Luperto,13,ITA,LB,22-107,12,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,4,6,66.7,0,2,0,1,1,Napoli,2018-12-22 Napoli-SPAL,ITA-SERIA_A,18-19,a9da4f86
+da974c7b,Kalidou Koulibaly,26,SEN,CB,27-185,90,0,0,0,0,2,0,0,0,106,2,2,2,0.4,0.4,0.0,2,0,84,97,86.6,11,72,4,1,0,Napoli,2018-12-22 Napoli-SPAL,ITA-SERIA_A,18-19,a9da4f86
+4bd414c1,Raúl Albiol,33,ESP,CB,33-109,90,1,0,0,0,1,1,0,0,80,0,2,0,0.1,0.1,0.0,2,0,74,76,97.4,2,38,0,0,0,Napoli,2018-12-22 Napoli-SPAL,ITA-SERIA_A,18-19,a9da4f86
+2f3452eb,Elseid Hysaj,23,ALB,RB,24-305,90,0,0,0,0,1,0,0,0,97,1,2,0,0.0,0.0,0.1,2,0,75,88,85.2,9,60,5,1,1,Napoli,2018-12-22 Napoli-SPAL,ITA-SERIA_A,18-19,a9da4f86
+9413b19f,Alex Meret,1,ITA,GK,21-275,90,0,0,0,0,0,0,0,0,30,0,0,0,0.0,0.0,0.0,0,0,22,27,81.5,0,11,0,0,0,Napoli,2018-12-22 Napoli-SPAL,ITA-SERIA_A,18-19,a9da4f86
+43a2e16c,Mirco Antenucci,7,ITA,"FW,AM",34-105,90,0,0,0,0,0,0,0,0,31,0,0,1,0.0,0.0,0.0,2,0,18,23,78.3,1,26,0,0,0,SPAL,2018-12-22 Napoli-SPAL,ITA-SERIA_A,18-19,a9da4f86
+b5cae4e6,Alberto Paloschi,43,ITA,FW,28-352,90,0,0,0,0,2,2,0,0,23,1,1,0,0.3,0.3,0.0,1,0,11,16,68.8,1,16,0,0,0,SPAL,2018-12-22 Napoli-SPAL,ITA-SERIA_A,18-19,a9da4f86
+144607cc,Jasmin Kurtić,19,SVN,"CM,LM",29-346,90,0,0,0,0,1,0,1,0,54,0,0,0,0.0,0.0,0.1,2,0,38,49,77.6,6,38,3,1,0,SPAL,2018-12-22 Napoli-SPAL,ITA-SERIA_A,18-19,a9da4f86
+c710f7d5,Mirko Valdifiori,16,ITA,CM,32-245,67,0,0,0,0,1,1,0,0,45,2,1,0,0.0,0.0,0.0,1,0,33,40,82.5,1,24,0,1,0,SPAL,2018-12-22 Napoli-SPAL,ITA-SERIA_A,18-19,a9da4f86
+c414df9d,Mattia Valoti,8,ITA,CM,25-107,23,0,0,0,0,1,0,0,0,18,1,2,1,0.0,0.0,0.0,1,0,10,11,90.9,2,10,1,0,0,SPAL,2018-12-22 Napoli-SPAL,ITA-SERIA_A,18-19,a9da4f86
+bd84fc61,Pasquale Schiattarella,28,ITA,"CM,RM",31-206,90,0,0,0,0,1,1,0,0,50,2,1,0,0.0,0.0,0.1,2,0,40,46,87.0,3,36,0,0,0,SPAL,2018-12-22 Napoli-SPAL,ITA-SERIA_A,18-19,a9da4f86
+b7a5bc86,Mohamed Fares,93,ALG,"WB,LB",22-310,90,0,0,0,0,3,1,0,0,72,2,4,2,0.1,0.1,0.2,9,0,48,54,88.9,6,42,3,7,6,SPAL,2018-12-22 Napoli-SPAL,ITA-SERIA_A,18-19,a9da4f86
+02caf6e0,Manuel Lazzari,29,ITA,"WB,RB",25-023,90,0,0,0,0,1,1,0,0,38,2,1,1,0.0,0.0,0.0,2,0,28,32,87.5,1,21,3,5,5,SPAL,2018-12-22 Napoli-SPAL,ITA-SERIA_A,18-19,a9da4f86
+fb77bfef,Kevin Bonifazi,14,ITA,CB,22-217,82,0,0,0,0,0,0,0,0,53,1,0,4,0.0,0.0,0.0,0,0,42,47,89.4,1,25,0,3,3,SPAL,2018-12-22 Napoli-SPAL,ITA-SERIA_A,18-19,a9da4f86
+df301450,Sergio Floccari,10,ITA,"AM,CB",37-040,8,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,1,4,25.0,1,3,1,0,0,SPAL,2018-12-22 Napoli-SPAL,ITA-SERIA_A,18-19,a9da4f86
+b8673e18,Johan Djourou,3,SUI,CB,31-338,41,0,0,0,0,0,0,0,0,17,0,1,1,0.0,0.0,0.0,0,0,12,13,92.3,0,4,0,0,0,SPAL,2018-12-22 Napoli-SPAL,ITA-SERIA_A,18-19,a9da4f86
+de045b15,Francesco Vicari,23,ITA,CB,24-141,49,0,0,0,0,0,0,0,0,28,0,1,1,0.0,0.0,0.0,0,0,17,22,77.3,2,11,0,0,0,SPAL,2018-12-22 Napoli-SPAL,ITA-SERIA_A,18-19,a9da4f86
+46f5c54d,Thiago Cionek,4,POL,CB,32-245,90,0,0,0,0,1,0,1,0,59,1,6,5,0.0,0.0,0.0,0,0,37,44,84.1,3,23,1,0,0,SPAL,2018-12-22 Napoli-SPAL,ITA-SERIA_A,18-19,a9da4f86
+cecbce23,Alfred Gomis,1,SEN,GK,25-108,90,0,0,0,0,0,0,0,0,49,0,0,0,0.0,0.0,0.0,0,0,36,48,75.0,0,19,0,0,0,SPAL,2018-12-22 Napoli-SPAL,ITA-SERIA_A,18-19,a9da4f86
