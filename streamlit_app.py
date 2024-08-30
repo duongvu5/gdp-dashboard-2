@@ -378,7 +378,7 @@ def player_season_compare():
     # User selects the type of comparison
     comparison_type = st.radio("Choose comparison type", ('Outfielder', 'Goalkeeper'))
 
-    if comparison_type == 'Normal Footballer':
+    if comparison_type == 'Outfielder':
         stats_list, _, _ = get_stats_lists()
         df_list1, df_list2 = read_and_filter_stats(fbref, stats_list)
         param_mapping = {
