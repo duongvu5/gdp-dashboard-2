@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+6a99e0b1,Iñaki Williams,9,GHA,FW,26-205,90,1,0,0,0,2,2,0,0,29,1,0,0,0.2,0.2,0.0,1,1,15,20,75.0,2,18,1,2,1,Athletic Club,2021-01-06 Athletic Club-Barcelona,ESP-LALIGA,20-21,31a74d4f
+b418dbd4,Raúl García,22,ESP,FW,34-179,79,0,1,0,0,1,0,0,0,32,1,1,1,0.1,0.1,0.2,2,1,18,23,78.3,3,14,2,1,0,Athletic Club,2021-01-06 Athletic Club-Barcelona,ESP-LALIGA,20-21,31a74d4f
+b7d7f3bf,Jon Morcillo,2,ESP,LW,22-113,11,0,0,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.0,0,0,5,9,55.6,0,8,0,1,0,Athletic Club,2021-01-06 Athletic Club-Barcelona,ESP-LALIGA,20-21,31a74d4f
+c05dfb74,Iker Muniain,10,ESP,"LM,AM",28-018,90,1,0,0,0,2,1,0,0,58,0,0,0,0.1,0.1,0.2,2,0,44,50,88.0,9,30,4,3,1,Athletic Club,2021-01-06 Athletic Club-Barcelona,ESP-LALIGA,20-21,31a74d4f
+b0fce72c,Mikel Vesga,6,ESP,CM,27-230,64,0,0,0,0,0,0,1,0,41,0,2,0,0.0,0.0,0.0,0,0,29,37,78.4,5,29,0,1,1,Athletic Club,2021-01-06 Athletic Club-Barcelona,ESP-LALIGA,20-21,31a74d4f
+240d3a0b,Dani García,14,ESP,"CM,DM",30-227,26,0,0,0,0,0,0,1,0,28,0,0,0,0.0,0.0,0.0,0,0,25,27,92.6,3,22,0,0,0,Athletic Club,2021-01-06 Athletic Club-Barcelona,ESP-LALIGA,20-21,31a74d4f
+4112ace5,Unai Vencedor Paris,27,ESP,"CM,DM",20-052,90,0,0,0,0,1,0,0,0,61,2,1,0,0.0,0.0,0.0,1,0,48,52,92.3,5,42,0,1,1,Athletic Club,2021-01-06 Athletic Club-Barcelona,ESP-LALIGA,20-21,31a74d4f
+9f323c71,Óscar de Marcos,18,ESP,RM,31-267,64,0,0,0,0,0,0,0,0,20,0,1,2,0.0,0.0,0.0,1,0,9,16,56.3,0,12,1,0,0,Athletic Club,2021-01-06 Athletic Club-Barcelona,ESP-LALIGA,20-21,31a74d4f
+dc1c2fce,Álex Berenguer,12,ESP,"RM,RW",25-186,26,0,1,0,0,1,0,0,0,17,1,0,2,0.0,0.0,0.1,1,1,8,12,66.7,1,8,0,1,0,Athletic Club,2021-01-06 Athletic Club-Barcelona,ESP-LALIGA,20-21,31a74d4f
+b6e50615,Yuri Berchiche,17,ESP,LB,30-331,31,0,0,0,0,1,0,0,0,26,1,0,0,0.1,0.1,0.0,0,0,16,20,80.0,1,13,0,3,0,Athletic Club,2021-01-06 Athletic Club-Barcelona,ESP-LALIGA,20-21,31a74d4f
+1fe67e86,Mikel Balenziaga,24,ESP,LB,32-312,59,0,0,0,0,0,0,0,0,49,1,1,1,0.0,0.0,0.0,0,0,32,43,74.4,3,31,1,0,0,Athletic Club,2021-01-06 Athletic Club-Barcelona,ESP-LALIGA,20-21,31a74d4f
+3fc45c73,Iñigo Martínez,4,ESP,CB,29-234,90,0,0,0,0,0,0,0,0,65,2,2,0,0.0,0.0,0.0,0,0,52,54,96.3,10,41,1,0,0,Athletic Club,2021-01-06 Athletic Club-Barcelona,ESP-LALIGA,20-21,31a74d4f
+be170419,Unai Núñez,3,ESP,CB,23-342,90,0,0,0,0,0,0,0,0,77,1,1,0,0.0,0.0,0.0,1,0,60,72,83.3,5,56,1,1,1,Athletic Club,2021-01-06 Athletic Club-Barcelona,ESP-LALIGA,20-21,31a74d4f
+37f1cf47,Ander Capa,21,ESP,RB,28-333,90,0,0,0,0,0,0,0,0,60,1,1,1,0.0,0.0,0.1,4,0,41,52,78.8,2,35,2,2,1,Athletic Club,2021-01-06 Athletic Club-Barcelona,ESP-LALIGA,20-21,31a74d4f
+5dcf3e90,Unai Simón,1,ESP,GK,23-209,90,0,0,0,0,0,0,0,0,30,0,0,0,0.0,0.0,0.0,0,0,22,25,88.0,0,17,0,0,0,Athletic Club,2021-01-06 Athletic Club-Barcelona,ESP-LALIGA,20-21,31a74d4f
+d70ce98e,Lionel Messi,10,ARG,FW,33-196,90,2,0,0,0,5,2,0,0,91,1,1,2,0.5,0.5,0.0,7,2,62,75,82.7,10,73,5,7,5,Barcelona,2021-01-06 Athletic Club-Barcelona,ESP-LALIGA,20-21,31a74d4f
+df69b544,Antoine Griezmann,7,FRA,LW,29-291,90,0,1,0,0,3,2,0,0,52,4,2,1,0.4,0.4,0.3,3,1,33,40,82.5,0,40,3,2,1,Barcelona,2021-01-06 Athletic Club-Barcelona,ESP-LALIGA,20-21,31a74d4f
+b19db005,Ousmane Dembélé,11,FRA,RW,23-236,74,0,0,0,0,2,2,0,0,60,1,2,0,0.1,0.1,0.2,5,0,39,51,76.5,9,46,8,5,4,Barcelona,2021-01-06 Athletic Club-Barcelona,ESP-LALIGA,20-21,31a74d4f
+fd771f95,Martin Braithwaite,9,DEN,RW,29-215,16,0,0,0,0,0,0,0,0,8,1,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,2,0,0,0,Barcelona,2021-01-06 Athletic Club-Barcelona,ESP-LALIGA,20-21,31a74d4f
+0d9b2d31,Pedri,16,ESP,LM,18-042,90,1,1,0,0,1,1,0,0,73,2,1,1,0.5,0.5,0.3,4,1,55,62,88.7,4,54,1,0,0,Barcelona,2021-01-06 Athletic Club-Barcelona,ESP-LALIGA,20-21,31a74d4f
+5ab0ea87,Sergio Busquets,5,ESP,CM,32-174,90,0,0,0,0,0,0,0,0,78,3,0,1,0.0,0.0,0.0,1,0,67,72,93.1,2,60,0,0,0,Barcelona,2021-01-06 Athletic Club-Barcelona,ESP-LALIGA,20-21,31a74d4f
+1bacc518,Frenkie de Jong,21,NED,RM,23-239,90,0,1,0,0,0,0,0,0,79,1,6,2,0.0,0.0,0.5,2,1,61,66,92.4,5,58,1,0,0,Barcelona,2021-01-06 Athletic Club-Barcelona,ESP-LALIGA,20-21,31a74d4f
+4601e194,Jordi Alba,18,ESP,LB,31-291,90,0,0,0,0,1,1,0,0,108,0,6,0,0.1,0.1,0.3,2,1,88,101,87.1,13,84,3,0,0,Barcelona,2021-01-06 Athletic Club-Barcelona,ESP-LALIGA,20-21,31a74d4f
+4f28a6ff,Clément Lenglet,15,FRA,CB,25-203,90,0,0,0,0,0,0,1,0,67,1,0,0,0.0,0.0,0.0,0,0,59,64,92.2,7,54,1,0,0,Barcelona,2021-01-06 Athletic Club-Barcelona,ESP-LALIGA,20-21,31a74d4f
+2bef2bca,Ronald Araújo,4,URU,CB,21-305,90,0,0,0,0,0,0,0,0,65,4,2,1,0.0,0.0,0.0,0,0,47,50,94.0,3,45,0,0,0,Barcelona,2021-01-06 Athletic Club-Barcelona,ESP-LALIGA,20-21,31a74d4f
+5976f83e,Sergiño Dest,2,USA,RB,20-064,74,0,0,0,0,1,1,0,0,68,2,0,0,0.1,0.1,0.0,0,0,53,61,86.9,5,50,2,1,1,Barcelona,2021-01-06 Athletic Club-Barcelona,ESP-LALIGA,20-21,31a74d4f
+056269d7,Óscar Mingueza,28,ESP,RB,21-238,16,0,0,0,0,0,0,0,0,11,1,0,1,0.0,0.0,0.0,0,0,8,9,88.9,1,5,0,0,0,Barcelona,2021-01-06 Athletic Club-Barcelona,ESP-LALIGA,20-21,31a74d4f
+6f51e382,Marc-André ter Stegen,1,GER,GK,28-251,90,0,0,0,0,0,0,0,0,29,0,0,0,0.0,0.0,0.0,0,0,27,29,93.1,0,25,0,0,0,Barcelona,2021-01-06 Athletic Club-Barcelona,ESP-LALIGA,20-21,31a74d4f

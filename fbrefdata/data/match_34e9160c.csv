@@ -1,0 +1,32 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+c596fcb0,Callum Wilson,9,ENG,FW,30-342,90,1,0,0,0,3,2,0,0,18,0,0,0,0.5,0.5,0.1,0,0,8,8,100.0,0,10,1,1,0,Newcastle United,2023-02-04 Newcastle Utd-West Ham,ENG-EPL,22-23,34e9160c
+2b16cb1a,Allan Saint-Maximin,10,FRA,LW,25-329,68,0,0,0,0,1,0,0,0,31,3,0,1,0.1,0.1,0.0,0,0,13,22,59.1,1,19,2,2,1,Newcastle United,2023-02-04 Newcastle Utd-West Ham,ENG-EPL,22-23,34e9160c
+2bd83368,Anthony Gordon,8,ENG,LW,21-345,22,0,0,0,0,1,0,0,0,14,0,0,0,0.1,0.1,0.1,2,0,10,11,90.9,1,9,1,0,0,Newcastle United,2023-02-04 Newcastle Utd-West Ham,ENG-EPL,22-23,34e9160c
+862a1c15,Miguel Almirón,24,PAR,RW,28-359,80,0,0,0,0,0,0,0,0,49,0,0,1,0.0,0.0,0.0,2,0,40,44,90.9,4,35,4,1,0,Newcastle United,2023-02-04 Newcastle Utd-West Ham,ENG-EPL,22-23,34e9160c
+de112b84,Jacob Murphy,23,ENG,RW,27-345,10,0,0,0,0,0,0,0,0,6,1,0,0,0.0,0.0,0.0,0,0,2,4,50.0,1,2,1,1,0,Newcastle United,2023-02-04 Newcastle Utd-West Ham,ENG-EPL,22-23,34e9160c
+c17bfb65,Joelinton,7,BRA,LM,26-174,90,0,0,0,0,0,0,1,0,77,3,1,5,0.0,0.0,0.0,1,0,50,61,82.0,6,49,5,3,2,Newcastle United,2023-02-04 Newcastle Utd-West Ham,ENG-EPL,22-23,34e9160c
+a2b105e0,Sean Longstaff,36,ENG,CM,25-097,90,0,1,0,0,0,0,0,0,75,0,0,0,0.0,0.0,0.3,1,1,62,72,86.1,5,44,2,2,1,Newcastle United,2023-02-04 Newcastle Utd-West Ham,ENG-EPL,22-23,34e9160c
+a3b03921,Joe Willock,28,ENG,RM,23-168,80,0,0,0,0,0,0,1,0,58,2,1,2,0.0,0.0,0.0,0,0,42,48,87.5,3,34,4,3,1,Newcastle United,2023-02-04 Newcastle Utd-West Ham,ENG-EPL,22-23,34e9160c
+de31038e,Elliot Anderson,32,SCO,RM,20-090,10,0,0,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.0,0,0,9,11,81.8,3,10,2,0,0,Newcastle United,2023-02-04 Newcastle Utd-West Ham,ENG-EPL,22-23,34e9160c
+b2d31e83,Dan Burn,33,ENG,LB,30-271,90,0,0,0,0,0,0,0,0,85,1,1,3,0.0,0.0,0.3,0,0,53,73,72.6,6,39,0,1,1,Newcastle United,2023-02-04 Newcastle Utd-West Ham,ENG-EPL,22-23,34e9160c
+ccce7025,Sven Botman,4,NED,CB,23-023,90,0,0,0,0,1,0,0,0,75,1,3,2,0.0,0.0,0.0,0,0,55,61,90.2,1,44,0,0,0,Newcastle United,2023-02-04 Newcastle Utd-West Ham,ENG-EPL,22-23,34e9160c
+c8aa95da,Fabian Schär,5,SUI,CB,31-046,90,0,0,0,0,2,0,0,0,80,1,3,0,0.3,0.3,0.0,2,1,50,69,72.5,7,44,3,0,0,Newcastle United,2023-02-04 Newcastle Utd-West Ham,ENG-EPL,22-23,34e9160c
+21512407,Kieran Trippier,2,ENG,RB,32-138,90,0,0,0,0,0,0,0,0,97,1,0,0,0.0,0.0,0.2,5,0,71,93,76.3,8,44,3,0,0,Newcastle United,2023-02-04 Newcastle Utd-West Ham,ENG-EPL,22-23,34e9160c
+4b40d9ca,Nick Pope,22,ENG,GK,30-291,90,0,0,0,0,0,0,0,0,21,0,0,0,0.0,0.0,0.0,0,0,11,21,52.4,0,9,0,0,0,Newcastle United,2023-02-04 Newcastle Utd-West Ham,ENG-EPL,22-23,34e9160c
+ac05f970,Michail Antonio,9,JAM,FW,32-313,80,0,0,0,0,1,0,0,0,25,0,1,0,0.1,0.1,0.0,1,0,10,19,52.6,1,12,1,2,0,West Ham United,2023-02-04 Newcastle Utd-West Ham,ENG-EPL,22-23,34e9160c
+07802f7f,Danny Ings,18,ENG,FW,30-196,10,0,0,0,0,1,0,0,0,6,0,0,1,0.1,0.1,0.0,0,0,2,3,66.7,1,3,0,0,0,West Ham United,2023-02-04 Newcastle Utd-West Ham,ENG-EPL,22-23,34e9160c
+5a04fd92,Saïd Benrahma,22,ALG,AM,27-178,73,0,0,0,0,2,0,0,0,33,1,1,2,0.1,0.1,0.2,4,0,19,26,73.1,2,20,2,2,2,West Ham United,2023-02-04 Newcastle Utd-West Ham,ENG-EPL,22-23,34e9160c
+82927de4,Pablo Fornals,8,ESP,AM,26-347,17,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,4,7,57.1,1,3,0,0,0,West Ham United,2023-02-04 Newcastle Utd-West Ham,ENG-EPL,22-23,34e9160c
+79c84d1c,Jarrod Bowen,20,ENG,AM,26-046,90,0,0,0,0,0,0,0,0,39,1,0,0,0.0,0.0,0.2,1,0,18,29,62.1,2,20,3,3,2,West Ham United,2023-02-04 Newcastle Utd-West Ham,ENG-EPL,22-23,34e9160c
+1c7012b8,Declan Rice,41,ENG,CM,24-021,90,0,0,0,0,0,0,0,0,52,3,3,0,0.0,0.0,0.1,4,0,39,49,79.6,6,28,2,0,0,West Ham United,2023-02-04 Newcastle Utd-West Ham,ENG-EPL,22-23,34e9160c
+9b6f7fd5,Lucas Paquetá,11,BRA,CM,25-161,73,1,0,0,0,4,1,0,0,52,1,2,3,0.4,0.4,0.0,3,1,25,33,75.8,7,17,0,2,0,West Ham United,2023-02-04 Newcastle Utd-West Ham,ENG-EPL,22-23,34e9160c
+6613c819,Tomáš Souček,28,CZE,CM,27-342,17,0,0,0,0,0,0,0,0,7,1,0,2,0.0,0.0,0.0,0,0,1,2,50.0,0,1,0,0,0,West Ham United,2023-02-04 Newcastle Utd-West Ham,ENG-EPL,22-23,34e9160c
+e0bc6fdc,Emerson Palmieri,33,ITA,WB,28-185,90,0,0,0,0,0,0,0,0,55,1,2,3,0.0,0.0,0.1,3,0,35,42,83.3,1,25,1,5,2,West Ham United,2023-02-04 Newcastle Utd-West Ham,ENG-EPL,22-23,34e9160c
+fdf3cb77,Vladimír Coufal,5,CZE,WB,30-166,89,0,0,0,0,0,0,0,0,62,5,3,3,0.0,0.0,0.2,1,0,24,45,53.3,4,17,3,0,0,West Ham United,2023-02-04 Newcastle Utd-West Ham,ENG-EPL,22-23,34e9160c
+69fdb896,Flynn Downes,12,ENG,WB,24-015,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,West Ham United,2023-02-04 Newcastle Utd-West Ham,ENG-EPL,22-23,34e9160c
+288e1e13,Nayef Aguerd,27,MAR,CB,26-311,90,0,0,0,0,2,0,1,0,49,3,2,2,0.3,0.3,0.0,0,0,25,33,75.8,2,21,0,0,0,West Ham United,2023-02-04 Newcastle Utd-West Ham,ENG-EPL,22-23,34e9160c
+74b2cd7e,Angelo Ogbonna,21,ITA,CB,34-257,90,0,0,0,0,0,0,0,0,32,1,2,0,0.0,0.0,0.0,0,0,20,26,76.9,0,11,0,0,0,West Ham United,2023-02-04 Newcastle Utd-West Ham,ENG-EPL,22-23,34e9160c
+51dbeea9,Thilo Kehrer,24,GER,CB,26-136,45,0,0,0,0,0,0,0,0,14,1,1,0,0.0,0.0,0.0,0,0,10,10,100.0,0,5,0,1,0,West Ham United,2023-02-04 Newcastle Utd-West Ham,ENG-EPL,22-23,34e9160c
+9319781b,Ben Johnson,2,ENG,CB,23-011,45,0,0,0,0,0,0,0,0,14,1,0,0,0.0,0.0,0.0,0,0,7,9,77.8,0,4,0,0,0,West Ham United,2023-02-04 Newcastle Utd-West Ham,ENG-EPL,22-23,34e9160c
+9328b835,Łukasz Fabiański,1,POL,GK,37-292,90,0,0,0,0,0,0,0,0,31,0,0,0,0.0,0.0,0.0,0,0,6,31,19.4,0,14,0,0,0,West Ham United,2023-02-04 Newcastle Utd-West Ham,ENG-EPL,22-23,34e9160c

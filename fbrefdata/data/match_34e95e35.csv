@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+f61c7c4e,Franck Ribéry,7,FRA,FW,37-165,78,0,0,0,0,1,0,0,0,38,0,0,1,0.1,0.1,0.0,3,0,25,28,89.3,9,30,2,3,0,Fiorentina,2020-09-19 Fiorentina-Torino,ITA-SERIA_A,20-21,34e95e35
+79443529,Dušan Vlahović,9,SRB,FW,20-235,12,0,0,0,0,0,0,0,0,4,0,1,0,0.0,0.0,0.0,0,0,2,3,66.7,0,2,0,0,0,Fiorentina,2020-09-19 Fiorentina-Torino,ITA-SERIA_A,20-21,34e95e35
+58e933d2,Christian Kouamé,11,CIV,FW,22-288,87,0,0,0,0,3,2,0,0,14,1,0,0,0.9,0.9,0.0,0,0,6,9,66.7,0,8,0,1,1,Fiorentina,2020-09-19 Fiorentina-Torino,ITA-SERIA_A,20-21,34e95e35
+a4fe8cda,Patrick Cutrone,63,ITA,FW,22-260,3,0,0,0,0,2,1,0,0,7,0,0,0,0.1,0.1,0.0,0,0,3,3,100.0,1,4,0,0,0,Fiorentina,2020-09-19 Fiorentina-Torino,ITA-SERIA_A,20-21,34e95e35
+0728bebe,Gaetano Castrovilli,10,ITA,CM,23-215,90,1,0,0,0,3,2,0,0,43,0,0,2,0.5,0.5,0.0,1,0,23,32,71.9,7,27,3,0,0,Fiorentina,2020-09-19 Fiorentina-Torino,ITA-SERIA_A,20-21,34e95e35
+528492ea,Alfred Duncan,8,GHA,CM,27-193,90,0,0,0,0,1,0,0,0,58,0,1,1,0.0,0.0,0.0,5,0,40,51,78.4,6,38,0,0,0,Fiorentina,2020-09-19 Fiorentina-Torino,ITA-SERIA_A,20-21,34e95e35
+d995ed27,Giacomo Bonaventura,5,ITA,CM,31-028,78,0,0,0,0,3,0,0,0,41,2,1,1,0.1,0.1,0.0,4,0,24,32,75.0,4,31,0,0,0,Fiorentina,2020-09-19 Fiorentina-Torino,ITA-SERIA_A,20-21,34e95e35
+0e21fc3c,Borja Valero,6,ESP,CM,35-251,12,0,0,0,0,0,0,0,0,16,0,2,0,0.0,0.0,0.0,1,0,11,12,91.7,2,13,2,1,1,Fiorentina,2020-09-19 Fiorentina-Torino,ITA-SERIA_A,20-21,34e95e35
+9e1577aa,Cristiano Biraghi,3,ITA,WB,28-018,87,0,0,0,0,0,0,1,0,77,0,0,1,0.0,0.0,0.6,4,0,52,72,72.2,6,47,7,0,0,Fiorentina,2020-09-19 Fiorentina-Torino,ITA-SERIA_A,20-21,34e95e35
+983ff2c7,Lorenzo Venuti,23,ITA,WB,25-160,3,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,1,0,7,9,77.8,0,4,0,0,0,Fiorentina,2020-09-19 Fiorentina-Torino,ITA-SERIA_A,20-21,34e95e35
+b0f7e36c,Federico Chiesa,25,ITA,WB,22-330,82,0,1,0,0,2,0,0,0,67,4,1,2,0.1,0.1,0.6,3,1,39,49,79.6,5,43,7,3,1,Fiorentina,2020-09-19 Fiorentina-Torino,ITA-SERIA_A,20-21,34e95e35
+ff800ed8,Pol Lirola,21,ESP,WB,23-037,8,0,0,0,0,0,0,0,0,9,1,0,0,0.0,0.0,0.0,1,0,6,6,100.0,0,5,0,0,0,Fiorentina,2020-09-19 Fiorentina-Torino,ITA-SERIA_A,20-21,34e95e35
+e94d79e3,Martín Cáceres,22,URU,CB,33-165,90,0,0,0,0,0,0,0,0,51,1,2,0,0.0,0.0,0.4,2,1,42,44,95.5,7,30,0,0,0,Fiorentina,2020-09-19 Fiorentina-Torino,ITA-SERIA_A,20-21,34e95e35
+d9624b51,Federico Ceccherini,17,ITA,CB,28-131,90,0,0,0,0,0,0,1,0,57,2,1,1,0.0,0.0,0.0,0,0,41,49,83.7,3,37,0,0,0,Fiorentina,2020-09-19 Fiorentina-Torino,ITA-SERIA_A,20-21,34e95e35
+bee704fc,Nikola Milenković,4,SRB,CB,22-343,90,0,0,0,0,0,0,1,0,68,2,6,0,0.0,0.0,0.0,0,0,55,58,94.8,4,35,0,0,0,Fiorentina,2020-09-19 Fiorentina-Torino,ITA-SERIA_A,20-21,34e95e35
+085e71a7,Bartłomiej Drągowski,69,POL,GK,23-031,90,0,0,0,0,0,0,0,0,26,0,0,0,0.0,0.0,0.0,0,0,20,24,83.3,0,17,0,0,0,Fiorentina,2020-09-19 Fiorentina-Torino,ITA-SERIA_A,20-21,34e95e35
+d705ba44,Andrea Belotti,9,ITA,FW,26-274,90,0,0,0,0,2,0,0,0,22,2,0,2,0.1,0.1,0.0,3,0,7,13,53.8,1,9,1,1,0,Torino,2020-09-19 Fiorentina-Torino,ITA-SERIA_A,20-21,34e95e35
+9592289a,Simone Zaza,11,ITA,FW,29-086,90,0,0,0,0,2,2,0,0,25,3,1,0,0.1,0.1,0.0,0,0,11,15,73.3,0,15,1,0,0,Torino,2020-09-19 Fiorentina-Torino,ITA-SERIA_A,20-21,34e95e35
+dc1c2fce,Álex Berenguer,21,ESP,AM,25-077,68,0,0,0,0,1,1,0,0,33,1,0,1,0.4,0.4,0.0,1,0,21,25,84.0,5,14,3,1,1,Torino,2020-09-19 Fiorentina-Torino,ITA-SERIA_A,20-21,34e95e35
+0375723e,Simone Verdi,24,ITA,AM,28-069,22,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,2,6,33.3,0,4,1,1,0,Torino,2020-09-19 Fiorentina-Torino,ITA-SERIA_A,20-21,34e95e35
+d023d70f,Karol Linetty,77,POL,LM,25-230,86,0,0,0,0,0,0,1,0,53,2,1,1,0.0,0.0,0.4,1,0,35,40,87.5,4,15,1,2,1,Torino,2020-09-19 Fiorentina-Torino,ITA-SERIA_A,20-21,34e95e35
+6817095b,Vincenzo Millico,22,ITA,"AM,LM",20-038,4,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,3,4,75.0,0,6,0,1,0,Torino,2020-09-19 Fiorentina-Torino,ITA-SERIA_A,20-21,34e95e35
+f1cfc209,Tomás Rincón,88,VEN,"CM,DM",32-250,90,0,0,0,0,0,0,0,0,56,2,1,1,0.0,0.0,0.0,0,0,34,45,75.6,0,16,1,2,1,Torino,2020-09-19 Fiorentina-Torino,ITA-SERIA_A,20-21,34e95e35
+5cec2c74,Soualiho Meïté,23,FRA,RM,26-186,68,0,0,0,0,0,0,0,0,23,1,0,1,0.0,0.0,0.0,0,0,13,18,72.2,2,10,0,2,2,Torino,2020-09-19 Fiorentina-Torino,ITA-SERIA_A,20-21,34e95e35
+c6e8cf1f,Saša Lukić,7,SRB,"RM,DM",24-037,22,0,0,0,0,0,0,0,0,17,3,0,0,0.0,0.0,0.1,1,0,9,13,69.2,0,7,1,0,0,Torino,2020-09-19 Fiorentina-Torino,ITA-SERIA_A,20-21,34e95e35
+bbafc0c4,Cristian Ansaldi,15,ARG,LB,33-365,90,0,0,0,0,0,0,0,0,80,3,0,0,0.0,0.0,0.0,0,0,58,71,81.7,1,46,2,1,1,Torino,2020-09-19 Fiorentina-Torino,ITA-SERIA_A,20-21,34e95e35
+93cf32a8,Nicolas Nkoulou,33,CMR,CB,30-176,90,0,0,0,0,0,0,0,0,79,3,2,1,0.0,0.0,0.0,1,0,67,70,95.7,2,36,0,0,0,Torino,2020-09-19 Fiorentina-Torino,ITA-SERIA_A,20-21,34e95e35
+5fd5ed86,Gleison Bremer,3,BRA,CB,23-185,90,0,0,0,0,1,0,0,0,74,1,0,1,0.1,0.1,0.0,0,0,54,61,88.5,2,39,0,1,1,Torino,2020-09-19 Fiorentina-Torino,ITA-SERIA_A,20-21,34e95e35
+89976232,Armando Izzo,5,ITA,RB,28-201,86,0,0,0,0,0,0,0,0,61,3,6,0,0.0,0.0,0.0,0,0,40,48,83.3,4,27,0,0,0,Torino,2020-09-19 Fiorentina-Torino,ITA-SERIA_A,20-21,34e95e35
+be2706c0,Mërgim Vojvoda,27,KVX,RB,25-231,4,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,4,8,50.0,2,6,0,0,0,Torino,2020-09-19 Fiorentina-Torino,ITA-SERIA_A,20-21,34e95e35
+10dc46f0,Salvatore Sirigu,39,ITA,GK,33-251,90,0,0,0,0,0,0,0,0,42,0,0,0,0.0,0.0,0.0,0,0,32,39,82.1,0,13,0,0,0,Torino,2020-09-19 Fiorentina-Torino,ITA-SERIA_A,20-21,34e95e35

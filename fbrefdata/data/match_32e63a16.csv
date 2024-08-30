@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+16ceb862,Olivier Giroud,9,FRA,FW,35-338,71,1,1,0,0,4,1,1,0,17,0,0,2,0.2,0.2,0.2,1,0,8,9,88.9,0,4,0,0,0,Milan,2022-09-03 Milan-Inter,ITA-SERIA_A,22-23,32e63a16
+43a166b4,Divock Origi,27,BEL,FW,27-138,19,0,0,0,0,3,0,0,0,10,0,0,0,0.1,0.1,0.0,1,0,2,2,100.0,0,7,1,4,2,Milan,2022-09-03 Milan-Inter,ITA-SERIA_A,22-23,32e63a16
+20730eae,Rafael Leão,17,POR,"LW,FW",23-085,90,2,1,0,0,5,3,1,0,33,0,0,0,0.5,0.5,0.2,3,1,17,23,73.9,1,25,6,4,1,Milan,2022-09-03 Milan-Inter,ITA-SERIA_A,22-23,32e63a16
+f49c4ae9,Junior Messias,30,BRA,RW,31-113,71,0,0,0,0,1,0,0,0,26,1,0,0,0.0,0.0,0.0,3,0,14,20,70.0,2,15,2,3,2,Milan,2022-09-03 Milan-Inter,ITA-SERIA_A,22-23,32e63a16
+ee251371,Alexis Saelemaekers,56,BEL,"RB,RW",23-068,19,0,0,0,0,0,0,0,0,11,0,0,1,0.0,0.0,0.0,0,0,5,7,71.4,0,4,1,1,0,Milan,2022-09-03 Milan-Inter,ITA-SERIA_A,22-23,32e63a16
+2ef7c612,Charles De Ketelaere,90,BEL,AM,21-177,62,0,0,0,0,1,0,1,0,20,1,0,0,0.1,0.1,0.0,3,0,12,15,80.0,5,12,3,2,1,Milan,2022-09-03 Milan-Inter,ITA-SERIA_A,22-23,32e63a16
+407feb71,Brahim Díaz,10,MAR,"AM,CM",23-031,28,0,0,0,0,0,0,0,0,9,0,0,1,0.0,0.0,0.1,3,0,3,5,60.0,2,6,2,1,1,Milan,2022-09-03 Milan-Inter,ITA-SERIA_A,22-23,32e63a16
+db092d3b,Ismaël Bennacer,4,ALG,"DM,CM",24-276,90,0,0,0,0,1,0,0,0,46,3,0,3,0.0,0.0,0.2,5,0,32,35,91.4,3,20,1,1,1,Milan,2022-09-03 Milan-Inter,ITA-SERIA_A,22-23,32e63a16
+0db169ae,Sandro Tonali,8,ITA,DM,22-118,82,0,1,0,0,2,1,1,0,51,1,3,2,0.2,0.2,0.3,6,2,33,40,82.5,8,29,5,1,0,Milan,2022-09-03 Milan-Inter,ITA-SERIA_A,22-23,32e63a16
+55a1cac2,Tommaso Pobega,32,ITA,CM,23-050,8,0,0,0,0,0,0,0,0,7,1,0,0,0.0,0.0,0.0,0,0,4,6,66.7,0,3,0,0,0,Milan,2022-09-03 Milan-Inter,ITA-SERIA_A,22-23,32e63a16
+d4c9725f,Theo Hernández,19,FRA,LB,24-332,90,0,0,0,0,3,0,1,0,70,1,1,0,0.1,0.1,0.1,8,2,54,63,85.7,5,45,5,2,1,Milan,2022-09-03 Milan-Inter,ITA-SERIA_A,22-23,32e63a16
+7edfbb8a,Fikayo Tomori,23,ENG,CB,24-258,90,0,0,0,0,0,0,0,0,76,2,4,3,0.0,0.0,0.0,2,0,54,60,90.0,3,31,1,0,0,Milan,2022-09-03 Milan-Inter,ITA-SERIA_A,22-23,32e63a16
+85f7d1be,Pierre Kalulu,20,FRA,CB,22-090,90,0,0,0,0,0,0,0,0,54,0,2,1,0.0,0.0,0.0,0,0,42,47,89.4,3,23,0,0,0,Milan,2022-09-03 Milan-Inter,ITA-SERIA_A,22-23,32e63a16
+2146785a,Davide Calabria,2,ITA,RB,25-271,82,0,0,0,0,1,0,0,0,54,1,1,1,0.0,0.0,0.0,1,0,35,46,76.1,3,22,1,0,0,Milan,2022-09-03 Milan-Inter,ITA-SERIA_A,22-23,32e63a16
+8b8a56ce,Simon Kjær,24,DEN,CB,33-161,8,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,3,3,100.0,0,3,0,0,0,Milan,2022-09-03 Milan-Inter,ITA-SERIA_A,22-23,32e63a16
+fcb38f57,Mike Maignan,16,FRA,GK,27-062,90,0,0,0,0,0,0,0,0,30,0,1,0,0.0,0.0,0.0,0,0,15,25,60.0,0,21,0,0,0,Milan,2022-09-03 Milan-Inter,ITA-SERIA_A,22-23,32e63a16
+45b9b619,Joaquín Correa,11,ARG,FW,28-021,63,0,1,0,0,0,0,0,0,28,0,0,0,0.0,0.0,0.5,2,1,13,22,59.1,1,23,0,2,0,Internazionale,2022-09-03 Milan-Inter,ITA-SERIA_A,22-23,32e63a16
+3bb7f478,Edin Džeko,9,BIH,FW,36-170,27,1,0,0,0,3,2,0,0,16,0,0,0,0.3,0.3,0.3,4,0,12,13,92.3,2,12,2,0,0,Internazionale,2022-09-03 Milan-Inter,ITA-SERIA_A,22-23,32e63a16
+f7036e1c,Lautaro Martínez,10,ARG,FW,25-012,90,0,0,0,0,4,1,0,0,33,1,0,0,0.5,0.5,0.1,3,1,10,19,52.6,1,17,1,0,0,Internazionale,2022-09-03 Milan-Inter,ITA-SERIA_A,22-23,32e63a16
+cd0fa27b,Hakan Çalhanoğlu,20,TUR,CM,28-207,90,0,0,0,0,4,1,0,0,48,1,1,2,0.2,0.2,0.0,2,0,31,39,79.5,1,38,0,0,0,Internazionale,2022-09-03 Milan-Inter,ITA-SERIA_A,22-23,32e63a16
+33b8d077,Marcelo Brozović,77,CRO,CM,29-291,90,1,0,0,0,2,1,1,0,59,0,1,0,0.7,0.7,0.1,2,0,50,56,89.3,3,45,4,2,2,Internazionale,2022-09-03 Milan-Inter,ITA-SERIA_A,22-23,32e63a16
+6928979a,Nicolò Barella,23,ITA,CM,25-208,62,0,0,0,0,0,0,0,0,23,1,0,0,0.0,0.0,0.0,2,0,18,20,90.0,4,19,1,1,1,Internazionale,2022-09-03 Milan-Inter,ITA-SERIA_A,22-23,32e63a16
+dd0daf32,Henrikh Mkhitaryan,22,ARM,CM,33-225,28,0,0,0,0,1,0,0,0,26,2,0,1,0.0,0.0,0.1,3,1,19,21,90.5,2,14,0,1,0,Internazionale,2022-09-03 Milan-Inter,ITA-SERIA_A,22-23,32e63a16
+96e0490d,Matteo Darmian,36,ITA,WB,32-275,83,0,1,0,0,0,0,0,0,51,1,0,0,0.0,0.0,0.2,3,1,37,47,78.7,1,32,1,4,2,Internazionale,2022-09-03 Milan-Inter,ITA-SERIA_A,22-23,32e63a16
+2d970560,Robin Gosens,8,GER,WB,28-060,7,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,3,6,50.0,0,2,0,0,0,Internazionale,2022-09-03 Milan-Inter,ITA-SERIA_A,22-23,32e63a16
+481c9ece,Denzel Dumfries,2,NED,WB,26-138,90,0,0,0,0,1,0,1,0,38,0,1,0,0.0,0.0,0.3,4,0,24,32,75.0,2,20,2,3,1,Internazionale,2022-09-03 Milan-Inter,ITA-SERIA_A,22-23,32e63a16
+75b86fb3,Alessandro Bastoni,95,ITA,CB,23-143,62,0,0,0,0,0,0,0,0,43,0,1,1,0.0,0.0,0.0,2,0,34,37,91.9,4,32,1,1,0,Internazionale,2022-09-03 Milan-Inter,ITA-SERIA_A,22-23,32e63a16
+970b8574,Federico Dimarco,32,ITA,CB,24-297,28,0,0,0,0,1,0,0,0,34,1,2,1,0.0,0.0,0.0,1,0,18,29,62.1,4,22,2,0,0,Internazionale,2022-09-03 Milan-Inter,ITA-SERIA_A,22-23,32e63a16
+d0d8dd44,Stefan de Vrij,6,NED,CB,30-210,83,0,0,0,0,0,0,0,0,33,0,1,0,0.0,0.0,0.0,0,0,27,31,87.1,1,19,0,0,0,Internazionale,2022-09-03 Milan-Inter,ITA-SERIA_A,22-23,32e63a16
+44eb9093,Danilo D'Ambrosio,33,ITA,CB,33-359,7,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,5,6,83.3,1,2,0,0,0,Internazionale,2022-09-03 Milan-Inter,ITA-SERIA_A,22-23,32e63a16
+30f5ffa9,Milan Škriniar,37,SVK,CB,27-204,90,0,0,0,0,0,0,0,0,36,1,1,2,0.0,0.0,0.0,0,0,26,31,83.9,1,22,0,1,1,Internazionale,2022-09-03 Milan-Inter,ITA-SERIA_A,22-23,32e63a16
+74419746,Samir Handanović,1,SVN,GK,38-051,90,0,0,0,0,0,0,0,0,46,0,0,0,0.0,0.0,0.0,1,0,34,45,75.6,0,27,0,0,0,Internazionale,2022-09-03 Milan-Inter,ITA-SERIA_A,22-23,32e63a16

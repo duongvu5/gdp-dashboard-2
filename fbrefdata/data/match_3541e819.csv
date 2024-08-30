@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+8d78e732,Robert Lewandowski,9,POL,FW,35-083,90,2,0,1,1,2,2,1,0,26,0,0,0,1.2,0.4,0.0,1,0,12,17,70.6,1,16,1,1,1,Barcelona,2023-11-12 Barcelona-Alavés,ESP-LALIGA,23-24,3541e819
+8aafd64f,João Félix,14,POR,LW,24-002,69,0,0,0,0,4,1,0,0,57,1,0,0,0.1,0.1,0.0,1,0,33,44,75.0,3,45,8,9,7,Barcelona,2023-11-12 Barcelona-Alavés,ESP-LALIGA,23-24,3541e819
+9e1035f8,Ferrán Torres,7,ESP,LW,23-256,21,0,0,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.0,1,1,5,7,71.4,0,6,1,0,0,Barcelona,2023-11-12 Barcelona-Alavés,ESP-LALIGA,23-24,3541e819
+82ec26c1,Lamine Yamal,27,ESP,RW,16-122,90,0,0,0,0,1,1,0,0,58,2,1,1,0.0,0.0,0.0,1,1,39,50,78.0,2,38,6,3,0,Barcelona,2023-11-12 Barcelona-Alavés,ESP-LALIGA,23-24,3541e819
+c1fe5f0b,Fermin López,32,ESP,AM,20-185,62,0,0,0,0,1,0,0,0,37,2,0,1,0.1,0.1,0.0,2,0,28,30,93.3,1,24,0,1,1,Barcelona,2023-11-12 Barcelona-Alavés,ESP-LALIGA,23-24,3541e819
+3423f250,Raphinha,11,BRA,AM,26-333,28,0,0,0,0,1,0,0,0,24,0,0,0,0.0,0.0,0.0,1,0,14,20,70.0,2,10,1,2,1,Barcelona,2023-11-12 Barcelona-Alavés,ESP-LALIGA,23-24,3541e819
+0d9b2d31,Pedri,8,ESP,DM,20-352,80,0,0,0,0,0,0,0,0,123,1,2,1,0.0,0.0,0.2,4,1,99,110,90.0,16,92,6,1,0,Barcelona,2023-11-12 Barcelona-Alavés,ESP-LALIGA,23-24,3541e819
+4b511457,Oriol Romeu,18,ESP,DM,32-049,10,0,0,0,0,0,0,0,0,11,1,0,1,0.0,0.0,0.0,0,0,6,7,85.7,1,2,0,0,0,Barcelona,2023-11-12 Barcelona-Alavés,ESP-LALIGA,23-24,3541e819
+819b3158,İlkay Gündoğan,22,GER,DM,33-019,90,0,0,0,0,0,0,1,0,135,3,2,1,0.0,0.0,0.5,5,0,117,127,92.1,17,100,5,1,0,Barcelona,2023-11-12 Barcelona-Alavés,ESP-LALIGA,23-24,3541e819
+bd6351cd,João Cancelo,2,POR,"LB,RB",29-169,90,0,0,0,0,1,1,0,0,98,1,0,1,0.0,0.0,0.0,3,0,77,92,83.7,10,59,13,8,5,Barcelona,2023-11-12 Barcelona-Alavés,ESP-LALIGA,23-24,3541e819
+3fc45c73,Iñigo Martínez,5,ESP,CB,32-179,90,0,0,0,0,0,0,0,0,93,1,0,2,0.0,0.0,0.0,0,0,72,86,83.7,7,58,1,0,0,Barcelona,2023-11-12 Barcelona-Alavés,ESP-LALIGA,23-24,3541e819
+4d1666ff,Jules Koundé,23,FRA,"RB,CB",25-000,69,0,1,0,0,0,0,0,0,89,2,1,1,0.0,0.0,0.0,2,1,73,77,94.8,5,54,0,0,0,Barcelona,2023-11-12 Barcelona-Alavés,ESP-LALIGA,23-24,3541e819
+5ccc9672,Alejandro Balde,3,ESP,LB,20-025,21,0,0,0,0,0,0,0,0,10,0,0,1,0.0,0.0,0.0,0,0,9,9,100.0,0,8,1,0,0,Barcelona,2023-11-12 Barcelona-Alavés,ESP-LALIGA,23-24,3541e819
+2bef2bca,Ronald Araújo,4,URU,"CB,RB",24-250,90,0,0,0,0,0,0,0,0,97,2,0,0,0.0,0.0,0.0,0,0,84,92,91.3,5,66,4,0,0,Barcelona,2023-11-12 Barcelona-Alavés,ESP-LALIGA,23-24,3541e819
+6f51e382,Marc-André ter Stegen,1,GER,GK,31-196,90,0,0,0,0,0,0,0,0,25,0,0,0,0.0,0.0,0.0,0,0,23,25,92.0,0,11,0,0,0,Barcelona,2023-11-12 Barcelona-Alavés,ESP-LALIGA,23-24,3541e819
+dc44b03c,Samu Omorodion,32,ESP,FW,19-191,78,1,0,0,0,4,1,0,0,32,0,0,0,1.5,1.5,0.0,1,0,13,19,68.4,0,19,2,5,3,Alavés,2023-11-12 Barcelona-Alavés,ESP-LALIGA,23-24,3541e819
+e897d8ba,Kiké,15,ESP,FW,33-352,12,0,0,0,0,1,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,1,2,0,1,1,Alavés,2023-11-12 Barcelona-Alavés,ESP-LALIGA,23-24,3541e819
+eb3dd471,Luis Rioja,11,ESP,LM,30-027,62,0,0,0,0,0,0,0,0,30,0,1,1,0.0,0.0,0.0,1,0,12,21,57.1,1,18,1,1,0,Alavés,2023-11-12 Barcelona-Alavés,ESP-LALIGA,23-24,3541e819
+9a796115,Abderrahman Rebbach,21,ALG,RM,25-093,28,0,0,0,0,1,0,0,0,6,0,0,0,0.1,0.1,0.0,0,0,3,4,75.0,0,5,1,0,0,Alavés,2023-11-12 Barcelona-Alavés,ESP-LALIGA,23-24,3541e819
+8e48dc61,Ander Guevara,6,ESP,CM,26-128,90,0,0,0,0,0,0,0,0,47,2,0,1,0.0,0.0,0.0,4,0,28,37,75.7,2,21,0,3,1,Alavés,2023-11-12 Barcelona-Alavés,ESP-LALIGA,23-24,3541e819
+506daeac,Antonio Blanco,8,ESP,CM,23-112,84,0,0,0,0,0,0,0,0,37,0,3,2,0.0,0.0,0.1,3,0,20,27,74.1,5,23,0,2,2,Alavés,2023-11-12 Barcelona-Alavés,ESP-LALIGA,23-24,3541e819
+45f771db,Tomás Mendes,30,ESP,CM,18-356,6,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,4,6,66.7,0,6,0,0,0,Alavés,2023-11-12 Barcelona-Alavés,ESP-LALIGA,23-24,3541e819
+4c0a6a48,Jon Guridi,18,ESP,RM,28-257,78,0,0,0,0,0,0,0,0,31,1,1,1,0.0,0.0,0.0,1,1,19,30,63.3,1,17,1,2,2,Alavés,2023-11-12 Barcelona-Alavés,ESP-LALIGA,23-24,3541e819
+0127419a,Ianis Hagi,10,ROU,CM,25-021,12,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,2,6,33.3,0,3,1,2,2,Alavés,2023-11-12 Barcelona-Alavés,ESP-LALIGA,23-24,3541e819
+e9ada8cf,Javi López,27,ESP,LB,21-232,90,0,1,0,0,1,0,0,0,31,3,0,0,0.1,0.1,0.4,1,1,13,18,72.2,3,16,0,2,1,Alavés,2023-11-12 Barcelona-Alavés,ESP-LALIGA,23-24,3541e819
+1fe0492d,Rubén Duarte,3,ESP,CB,28-025,90,0,0,0,0,0,0,1,0,43,1,0,1,0.0,0.0,0.5,1,0,25,35,71.4,3,22,1,0,0,Alavés,2023-11-12 Barcelona-Alavés,ESP-LALIGA,23-24,3541e819
+3239a8ed,Rafa Marín,16,ESP,CB,21-177,90,0,0,0,0,0,0,0,0,30,0,0,2,0.0,0.0,0.0,1,0,19,25,76.0,1,14,0,0,0,Alavés,2023-11-12 Barcelona-Alavés,ESP-LALIGA,23-24,3541e819
+2bc7f211,Abdel Abqar,5,MAR,CB,24-247,90,0,0,0,0,0,0,0,0,30,2,1,1,0.0,0.0,0.0,1,0,11,15,73.3,1,8,0,0,0,Alavés,2023-11-12 Barcelona-Alavés,ESP-LALIGA,23-24,3541e819
+6f5f82c0,Andoni Gorosabel,2,ESP,RB,27-100,84,0,0,0,0,0,0,0,0,35,2,0,2,0.0,0.0,0.1,1,0,20,29,69.0,5,17,1,1,1,Alavés,2023-11-12 Barcelona-Alavés,ESP-LALIGA,23-24,3541e819
+66654daa,Nahuel Tenaglia,14,ARG,RB,27-264,6,0,0,0,0,1,0,0,0,9,0,0,0,0.0,0.0,0.0,1,0,3,8,37.5,0,3,0,0,0,Alavés,2023-11-12 Barcelona-Alavés,ESP-LALIGA,23-24,3541e819
+9970da54,Antonio Sivera,1,ESP,GK,27-093,90,0,0,0,0,0,0,0,0,40,0,0,0,0.0,0.0,0.0,0,0,16,36,44.4,0,15,0,0,0,Alavés,2023-11-12 Barcelona-Alavés,ESP-LALIGA,23-24,3541e819

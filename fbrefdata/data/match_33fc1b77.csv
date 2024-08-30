@@ -1,0 +1,32 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+f7036e1c,Lautaro Martínez,10,ARG,FW,25-278,90,1,1,0,0,4,2,0,0,39,2,0,2,1.1,1.1,1.0,5,1,18,25,72.0,3,21,2,5,4,Internazionale,2023-05-27 Inter-Atalanta,ITA-SERIA_A,22-23,33fc1b77
+5eae500a,Romelu Lukaku,90,BEL,FW,30-014,79,1,0,0,0,2,2,0,0,39,0,0,0,0.9,0.9,0.0,7,2,20,25,80.0,3,21,4,3,1,Internazionale,2023-05-27 Inter-Atalanta,ITA-SERIA_A,22-23,33fc1b77
+3bb7f478,Edin Džeko,9,BIH,FW,37-071,11,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,6,7,85.7,0,4,0,0,0,Internazionale,2023-05-27 Inter-Atalanta,ITA-SERIA_A,22-23,33fc1b77
+cd0fa27b,Hakan Çalhanoğlu,20,TUR,CM,29-108,90,0,0,0,0,2,1,0,0,63,1,0,3,0.1,0.1,0.1,3,0,45,54,83.3,2,21,0,0,0,Internazionale,2023-05-27 Inter-Atalanta,ITA-SERIA_A,22-23,33fc1b77
+33b8d077,Marcelo Brozović,77,CRO,CM,30-192,90,0,1,0,0,0,0,0,0,84,2,0,2,0.0,0.0,1.1,8,1,69,74,93.2,2,35,2,3,1,Internazionale,2023-05-27 Inter-Atalanta,ITA-SERIA_A,22-23,33fc1b77
+6928979a,Nicolò Barella,23,ITA,CM,26-109,80,1,0,0,0,2,2,0,0,46,2,0,3,0.2,0.2,0.0,2,0,36,38,94.7,6,23,1,1,0,Internazionale,2023-05-27 Inter-Atalanta,ITA-SERIA_A,22-23,33fc1b77
+0fdcef0e,Kristjan Asllani,14,ALB,CM,21-079,10,0,0,0,0,1,0,0,0,7,0,0,0,0.1,0.1,0.0,0,0,6,6,100.0,1,9,1,0,0,Internazionale,2023-05-27 Inter-Atalanta,ITA-SERIA_A,22-23,33fc1b77
+970b8574,Federico Dimarco,32,ITA,WB,25-198,69,0,0,0,0,5,3,0,0,43,1,0,0,0.2,0.2,0.0,3,1,26,36,72.2,0,15,2,0,0,Internazionale,2023-05-27 Inter-Atalanta,ITA-SERIA_A,22-23,33fc1b77
+2d970560,Robin Gosens,8,GER,WB,28-326,21,0,0,0,0,1,0,0,0,13,0,1,1,0.1,0.1,0.1,1,0,7,9,77.8,0,4,3,1,0,Internazionale,2023-05-27 Inter-Atalanta,ITA-SERIA_A,22-23,33fc1b77
+481c9ece,Denzel Dumfries,2,NED,WB,27-039,90,0,0,0,0,0,0,0,0,52,2,0,1,0.0,0.0,0.0,1,0,26,41,63.4,1,29,1,3,0,Internazionale,2023-05-27 Inter-Atalanta,ITA-SERIA_A,22-23,33fc1b77
+75b86fb3,Alessandro Bastoni,95,ITA,CB,24-044,79,0,0,0,0,0,0,0,0,69,2,0,2,0.0,0.0,0.0,1,0,53,59,89.8,2,40,1,1,1,Internazionale,2023-05-27 Inter-Atalanta,ITA-SERIA_A,22-23,33fc1b77
+d0d8dd44,Stefan de Vrij,6,NED,CB,31-111,11,0,0,0,0,0,0,0,0,4,0,1,1,0.0,0.0,0.0,0,0,2,2,100.0,0,2,0,0,0,Internazionale,2023-05-27 Inter-Atalanta,ITA-SERIA_A,22-23,33fc1b77
+b96b595c,Francesco Acerbi,15,ITA,CB,35-106,90,0,0,0,0,2,0,0,0,56,3,5,0,0.2,0.2,0.0,0,0,33,39,84.6,0,18,1,0,0,Internazionale,2023-05-27 Inter-Atalanta,ITA-SERIA_A,22-23,33fc1b77
+44eb9093,Danilo D'Ambrosio,33,ITA,CB,34-260,82,0,0,0,0,1,1,0,0,55,2,0,2,0.0,0.0,0.0,2,0,43,47,91.5,2,25,0,0,0,Internazionale,2023-05-27 Inter-Atalanta,ITA-SERIA_A,22-23,33fc1b77
+96e0490d,Matteo Darmian,36,ITA,CB,33-176,8,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,3,3,100.0,0,3,0,0,0,Internazionale,2023-05-27 Inter-Atalanta,ITA-SERIA_A,22-23,33fc1b77
+e9c0c1b2,André Onana,24,CMR,GK,27-055,90,0,0,0,0,0,0,0,0,60,0,0,0,0.0,0.0,0.0,1,0,48,57,84.2,0,43,0,0,0,Internazionale,2023-05-27 Inter-Atalanta,ITA-SERIA_A,22-23,33fc1b77
+491a433d,Rasmus Højlund,17,DEN,FW,20-112,90,0,0,0,0,1,1,0,0,28,0,0,0,0.3,0.3,0.1,1,0,9,11,81.8,1,14,3,4,0,Atalanta,2023-05-27 Inter-Atalanta,ITA-SERIA_A,22-23,33fc1b77
+a9202def,Éderson,13,BRA,AM,23-324,68,0,0,0,0,1,0,0,0,31,1,0,1,0.0,0.0,0.0,1,0,16,20,80.0,1,19,2,3,1,Atalanta,2023-05-27 Inter-Atalanta,ITA-SERIA_A,22-23,33fc1b77
+eb2fe5b6,Luis Muriel,9,COL,CM,32-041,22,0,0,0,0,3,0,0,0,16,0,0,0,0.1,0.1,0.0,3,0,9,12,75.0,0,9,1,0,0,Atalanta,2023-05-27 Inter-Atalanta,ITA-SERIA_A,22-23,33fc1b77
+a26fb8aa,Teun Koopmeiners,7,NED,"AM,CM",25-088,90,0,0,0,0,2,1,0,0,40,0,1,0,0.1,0.1,0.2,6,0,24,33,72.7,6,18,2,3,1,Atalanta,2023-05-27 Inter-Atalanta,ITA-SERIA_A,22-23,33fc1b77
+e599253a,Mario Pašalić,88,CRO,CM,28-107,60,1,0,0,0,1,1,0,0,33,0,0,1,0.1,0.1,0.3,2,0,23,28,82.1,3,13,3,1,0,Atalanta,2023-05-27 Inter-Atalanta,ITA-SERIA_A,22-23,33fc1b77
+7c104bb7,Ademola Lookman,11,NGA,AM,25-219,30,0,0,0,0,0,0,0,0,13,0,0,0,0.0,0.0,0.0,1,0,5,8,62.5,0,10,2,2,0,Atalanta,2023-05-27 Inter-Atalanta,ITA-SERIA_A,22-23,33fc1b77
+2a1beb34,Marten de Roon,15,NED,CM,32-059,90,0,0,0,0,0,0,0,0,67,4,1,1,0.0,0.0,0.0,2,0,50,56,89.3,4,33,1,1,1,Atalanta,2023-05-27 Inter-Atalanta,ITA-SERIA_A,22-23,33fc1b77
+7fe90ccd,Davide Zappacosta,77,ITA,WB,30-350,90,0,0,0,0,1,0,0,0,63,1,0,2,0.0,0.0,0.0,0,0,49,53,92.5,3,23,1,0,0,Atalanta,2023-05-27 Inter-Atalanta,ITA-SERIA_A,22-23,33fc1b77
+c459a650,Joakim Mæhle,3,DEN,WB,26-007,85,0,0,0,0,0,0,0,0,56,2,1,0,0.0,0.0,0.2,2,0,36,50,72.0,4,27,2,1,0,Atalanta,2023-05-27 Inter-Atalanta,ITA-SERIA_A,22-23,33fc1b77
+8ec109e6,Caleb Okoli,5,ITA,WB,21-318,5,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,4,6,66.7,1,4,0,0,0,Atalanta,2023-05-27 Inter-Atalanta,ITA-SERIA_A,22-23,33fc1b77
+1e9aa637,Giorgio Scalvini,42,ITA,CB,19-167,90,0,1,0,0,2,0,0,0,78,1,2,3,0.3,0.3,0.1,1,0,56,67,83.6,8,44,1,3,2,Atalanta,2023-05-27 Inter-Atalanta,ITA-SERIA_A,22-23,33fc1b77
+6eee05f1,Berat Djimsiti,19,ALB,CB,30-097,90,0,0,0,0,1,0,0,0,68,1,2,0,0.1,0.1,0.0,1,1,56,58,96.6,0,35,1,0,0,Atalanta,2023-05-27 Inter-Atalanta,ITA-SERIA_A,22-23,33fc1b77
+c56dc39e,Rafael Tolói,2,ITA,CB,32-229,90,0,0,0,0,0,0,1,0,62,1,1,2,0.0,0.0,0.0,0,0,48,53,90.6,5,27,1,0,0,Atalanta,2023-05-27 Inter-Atalanta,ITA-SERIA_A,22-23,33fc1b77
+ac4003af,Marco Sportiello,57,ITA,GK,31-017,90,0,0,0,0,0,0,0,0,42,0,0,0,0.0,0.0,0.0,0,0,29,37,78.4,0,21,0,0,0,Atalanta,2023-05-27 Inter-Atalanta,ITA-SERIA_A,22-23,33fc1b77

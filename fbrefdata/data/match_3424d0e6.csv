@@ -1,0 +1,29 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+9dbb75ca,Alexandre Lacazette,9,FRA,FW,26-153,80,0,0,0,0,1,1,0,0,28,1,0,1,0.1,0.1,0.1,3,0,18,24,75.0,2,18,0,1,0,Arsenal,2017-10-28 Arsenal-Swansea City,ENG-EPL,17-18,3424d0e6
+16ceb862,Olivier Giroud,12,FRA,FW,31-028,10,0,0,0,0,2,0,0,0,9,1,0,0,0.4,0.4,0.0,0,0,4,7,57.1,0,5,0,0,0,Arsenal,2017-10-28 Arsenal-Swansea City,ENG-EPL,17-18,3424d0e6
+2c0f8e9e,Alexis Sánchez,7,CHI,AM,28-313,90,0,0,0,0,3,1,0,0,72,2,1,0,0.1,0.1,0.3,6,0,39,60,65.0,6,61,4,2,0,Arsenal,2017-10-28 Arsenal-Swansea City,ENG-EPL,17-18,3424d0e6
+16380240,Mesut Özil,11,GER,AM,29-013,90,0,1,0,0,1,0,0,0,86,2,0,0,0.1,0.1,0.2,8,1,66,80,82.5,11,65,4,2,2,Arsenal,2017-10-28 Arsenal-Swansea City,ENG-EPL,17-18,3424d0e6
+e61b8aee,Granit Xhaka,29,SUI,CM,25-031,90,0,0,0,0,0,0,0,0,113,0,1,1,0.0,0.0,0.0,2,1,94,108,87.0,24,82,2,1,1,Arsenal,2017-10-28 Arsenal-Swansea City,ENG-EPL,17-18,3424d0e6
+ef619b0b,Aaron Ramsey,8,WAL,CM,26-306,90,1,0,0,0,3,1,0,0,77,3,1,0,0.6,0.6,0.4,3,0,55,65,84.6,6,54,1,0,0,Arsenal,2017-10-28 Arsenal-Swansea City,ENG-EPL,17-18,3424d0e6
+3935e52e,Sead Kolašinac,31,BIH,WB,24-130,77,1,1,0,0,2,1,0,0,99,2,0,0,0.1,0.1,0.5,5,1,85,95,89.5,8,71,3,1,0,Arsenal,2017-10-28 Arsenal-Swansea City,ENG-EPL,17-18,3424d0e6
+d79a8c87,Rob Holding,16,ENG,CB,22-038,13,0,0,0,0,0,0,0,0,6,1,0,0,0.0,0.0,0.0,0,0,3,4,75.0,0,3,0,0,0,Arsenal,2017-10-28 Arsenal-Swansea City,ENG-EPL,17-18,3424d0e6
+f874dd44,Héctor Bellerín,24,ESP,WB,22-223,90,0,0,0,0,2,0,0,0,97,1,0,0,0.4,0.4,0.1,3,0,73,88,83.0,5,64,3,0,0,Arsenal,2017-10-28 Arsenal-Swansea City,ENG-EPL,17-18,3424d0e6
+d4cb83cc,Nacho Monreal,18,ESP,"CB,WB",31-244,90,0,0,0,0,1,0,0,0,124,0,1,0,0.0,0.0,0.4,3,0,108,120,90.0,10,91,3,0,0,Arsenal,2017-10-28 Arsenal-Swansea City,ENG-EPL,17-18,3424d0e6
+5be28712,Per Mertesacker,4,GER,CB,33-029,90,0,0,0,0,1,1,0,0,91,1,1,0,0.1,0.1,0.0,0,0,79,83,95.2,3,63,0,0,0,Arsenal,2017-10-28 Arsenal-Swansea City,ENG-EPL,17-18,3424d0e6
+f5efb153,Laurent Koscielny,6,FRA,CB,32-048,90,0,0,0,0,1,0,0,0,112,2,2,1,0.1,0.1,0.0,0,0,92,100,92.0,10,86,4,0,0,Arsenal,2017-10-28 Arsenal-Swansea City,ENG-EPL,17-18,3424d0e6
+71672fa0,Petr Čech,33,CZE,GK,35-161,90,0,0,0,0,0,0,0,0,23,0,0,0,0.0,0.0,0.0,0,0,19,22,86.4,0,9,0,0,0,Arsenal,2017-10-28 Arsenal-Swansea City,ENG-EPL,17-18,3424d0e6
+f586779e,Tammy Abraham,10,ENG,FW,20-026,90,0,1,0,0,1,0,0,0,24,0,0,0,0.1,0.1,0.4,1,1,10,15,66.7,1,11,0,0,0,Swansea City,2017-10-28 Arsenal-Swansea City,ENG-EPL,17-18,3424d0e6
+da052c14,Jordan Ayew,18,GHA,FW,26-047,80,0,0,0,0,1,1,0,0,26,1,0,0,0.4,0.4,0.0,2,0,13,18,72.2,1,17,2,1,1,Swansea City,2017-10-28 Arsenal-Swansea City,ENG-EPL,17-18,3424d0e6
+977ffc24,Luciano Narsingh,11,NED,"RW,FW",27-045,10,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,3,4,75.0,1,4,0,0,0,Swansea City,2017-10-28 Arsenal-Swansea City,ENG-EPL,17-18,3424d0e6
+5a1900a4,Tom Carroll,14,ENG,CM,25-153,83,0,0,0,0,0,0,0,0,32,0,3,0,0.0,0.0,0.1,3,0,22,27,81.5,3,12,2,1,1,Swansea City,2017-10-28 Arsenal-Swansea City,ENG-EPL,17-18,3424d0e6
+78b8ac63,Oliver McBurnie,62,SCO,LM,21-146,7,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,1,3,33.3,0,0,0,0,0,Swansea City,2017-10-28 Arsenal-Swansea City,ENG-EPL,17-18,3424d0e6
+3cefa66a,Leroy Fer,8,NED,"CM,LW",27-296,90,0,0,0,0,0,0,0,0,42,3,3,2,0.0,0.0,0.0,2,1,25,30,83.3,1,14,0,0,0,Swansea City,2017-10-28 Arsenal-Swansea City,ENG-EPL,17-18,3424d0e6
+1d8c99b0,Ki Sung-yueng,4,KOR,CM,28-277,90,0,0,0,0,0,0,0,0,42,3,1,0,0.0,0.0,0.0,0,0,34,35,97.1,0,17,0,1,1,Swansea City,2017-10-28 Arsenal-Swansea City,ENG-EPL,17-18,3424d0e6
+987718f5,Sam Clucas,17,ENG,"WB,LB",27-033,90,1,0,0,0,3,1,0,0,40,1,1,0,0.5,0.5,0.0,1,0,19,32,59.4,0,17,4,0,0,Swansea City,2017-10-28 Arsenal-Swansea City,ENG-EPL,17-18,3424d0e6
+e860c42f,Kyle Naughton,26,ENG,"WB,RB",28-345,90,0,0,0,0,0,0,0,0,53,1,2,1,0.0,0.0,0.0,0,0,26,40,65.0,2,8,1,3,1,Swansea City,2017-10-28 Arsenal-Swansea City,ENG-EPL,17-18,3424d0e6
+d368feb8,Alfie Mawson,6,ENG,CB,23-282,90,0,0,0,0,0,0,0,0,49,1,3,2,0.0,0.0,0.0,0,0,22,30,73.3,2,18,0,0,0,Swansea City,2017-10-28 Arsenal-Swansea City,ENG-EPL,17-18,3424d0e6
+f25b010f,Federico Fernández,33,ARG,CB,28-249,90,0,0,0,0,0,0,0,0,39,0,3,2,0.0,0.0,0.0,0,0,20,26,76.9,2,11,0,0,0,Swansea City,2017-10-28 Arsenal-Swansea City,ENG-EPL,17-18,3424d0e6
+25f50295,Mike van der Hoorn,5,NED,CB,25-013,81,0,0,0,0,0,0,0,0,30,4,2,1,0.0,0.0,0.0,0,0,11,19,57.9,0,5,1,0,0,Swansea City,2017-10-28 Arsenal-Swansea City,ENG-EPL,17-18,3424d0e6
+6dfd5af0,Nathan Dyer,12,ENG,"RM,CB",29-333,9,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,6,6,100.0,0,5,1,0,0,Swansea City,2017-10-28 Arsenal-Swansea City,ENG-EPL,17-18,3424d0e6
+9328b835,Łukasz Fabiański,1,POL,GK,32-193,90,0,0,0,0,0,0,0,0,44,0,0,0,0.0,0.0,0.0,0,0,20,42,47.6,0,13,0,0,0,Swansea City,2017-10-28 Arsenal-Swansea City,ENG-EPL,17-18,3424d0e6
