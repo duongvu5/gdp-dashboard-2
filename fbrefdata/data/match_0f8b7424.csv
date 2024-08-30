@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+f7036e1c,Lautaro Martínez,10,ARG,FW,22-110,90,0,1,0,0,4,2,0,0,36,2,1,1,0.2,0.2,0.1,6,0,11,14,78.6,4,27,3,10,3,Internazionale,2019-12-10 Inter-Barcelona,UCL,19-20,0f8b7424
+5eae500a,Romelu Lukaku,9,BEL,FW,26-211,90,1,0,0,0,4,3,0,0,36,0,1,1,0.8,0.8,0.4,4,0,12,24,50.0,4,18,0,3,1,Internazionale,2019-12-10 Inter-Barcelona,UCL,19-20,0f8b7424
+0e21fc3c,Borja Valero,20,ESP,CM,34-332,76,0,0,0,0,1,0,1,0,44,2,1,1,0.1,0.1,0.5,3,0,34,38,89.5,6,23,3,1,1,Internazionale,2019-12-10 Inter-Barcelona,UCL,19-20,0f8b7424
+7ff93107,Sebastiano Esposito,30,ITA,AM,17-161,14,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,1,0,4,5,80.0,1,4,0,1,0,Internazionale,2019-12-10 Inter-Barcelona,UCL,19-20,0f8b7424
+33b8d077,Marcelo Brozović,77,CRO,CM,27-024,90,0,0,0,0,1,0,0,0,78,0,4,0,0.0,0.0,0.0,1,1,58,70,82.9,8,36,3,1,1,Internazionale,2019-12-10 Inter-Barcelona,UCL,19-20,0f8b7424
+44ac04e9,Matías Vecino,8,URU,CM,28-108,90,0,0,0,0,4,2,0,0,46,5,1,1,0.1,0.1,0.3,4,0,17,32,53.1,8,18,4,1,1,Internazionale,2019-12-10 Inter-Barcelona,UCL,19-20,0f8b7424
+9e1577aa,Cristiano Biraghi,34,ITA,WB,27-100,68,0,0,0,0,1,1,0,0,41,1,1,1,0.1,0.1,0.0,1,0,23,37,62.2,1,14,2,0,0,Internazionale,2019-12-10 Inter-Barcelona,UCL,19-20,0f8b7424
+016ff750,Valentino Lazaro,19,AUT,WB,23-261,22,0,0,0,0,0,0,0,0,23,0,0,1,0.0,0.0,0.0,1,0,15,19,78.9,2,9,0,1,1,Internazionale,2019-12-10 Inter-Barcelona,UCL,19-20,0f8b7424
+44eb9093,Danilo D'Ambrosio,33,ITA,WB,31-092,74,0,0,0,0,2,0,0,0,38,4,1,0,0.4,0.4,0.0,2,1,22,31,71.0,1,17,0,2,2,Internazionale,2019-12-10 Inter-Barcelona,UCL,19-20,0f8b7424
+5e861944,Matteo Politano,16,ITA,WB,26-129,16,0,0,0,0,1,0,0,0,13,0,1,1,0.1,0.1,0.0,1,0,5,8,62.5,0,8,2,1,0,Internazionale,2019-12-10 Inter-Barcelona,UCL,19-20,0f8b7424
+30f5ffa9,Milan Škriniar,37,SVK,CB,24-302,90,0,0,0,0,0,0,0,0,65,1,5,2,0.0,0.0,0.0,1,0,46,55,83.6,7,29,2,1,1,Internazionale,2019-12-10 Inter-Barcelona,UCL,19-20,0f8b7424
+d0d8dd44,Stefan de Vrij,6,NED,CB,27-308,90,0,0,0,0,0,0,1,0,50,2,4,2,0.0,0.0,0.1,1,0,29,33,87.9,4,25,0,1,0,Internazionale,2019-12-10 Inter-Barcelona,UCL,19-20,0f8b7424
+fc4f85b1,Diego Godín,2,URU,CB,33-297,90,0,0,0,0,0,0,1,0,55,2,6,2,0.0,0.0,0.0,3,0,32,43,74.4,3,28,2,0,0,Internazionale,2019-12-10 Inter-Barcelona,UCL,19-20,0f8b7424
+74419746,Samir Handanović,1,SVN,GK,35-149,90,0,0,0,0,0,0,0,0,32,0,0,0,0.0,0.0,0.0,1,0,27,30,90.0,0,17,0,0,0,Internazionale,2019-12-10 Inter-Barcelona,UCL,19-20,0f8b7424
+df69b544,Antoine Griezmann,17,FRA,FW,28-264,61,0,0,0,0,1,1,0,0,55,1,0,0,0.0,0.0,0.1,2,0,37,47,78.7,3,44,2,0,0,Barcelona,2019-12-10 Inter-Barcelona,UCL,19-20,0f8b7424
+a6154613,Luis Suárez,9,URU,FW,32-320,29,0,1,0,0,3,1,0,0,20,0,0,0,0.2,0.2,0.1,2,1,12,15,80.0,2,17,2,0,0,Barcelona,2019-12-10 Inter-Barcelona,UCL,19-20,0f8b7424
+a8f21b9f,Carles Pérez,27,ESP,FW,21-297,84,1,0,0,0,4,2,0,0,33,1,0,0,0.6,0.6,0.0,3,0,23,25,92.0,2,20,1,2,1,Barcelona,2019-12-10 Inter-Barcelona,UCL,19-20,0f8b7424
+0ba976e4,Ansu Fati,31,ESP,FW,17-040,6,1,0,0,0,1,1,0,0,7,0,0,0,0.0,0.0,0.0,2,1,4,6,66.7,1,8,1,0,0,Barcelona,2019-12-10 Inter-Barcelona,UCL,19-20,0f8b7424
+24f59bb2,Junior Firpo,24,DOM,LW,23-110,90,0,0,0,0,0,0,1,0,51,1,1,0,0.0,0.0,0.0,0,0,39,43,90.7,3,35,6,2,1,Barcelona,2019-12-10 Inter-Barcelona,UCL,19-20,0f8b7424
+808df563,Moussa Wagué,16,SEN,RW,21-067,90,0,0,0,0,2,0,0,0,90,4,1,0,0.1,0.1,0.0,2,0,60,71,84.5,3,63,3,3,2,Barcelona,2019-12-10 Inter-Barcelona,UCL,19-20,0f8b7424
+6c811eb7,Carles Aleñá,19,ESP,CM,21-339,90,0,0,0,0,0,0,0,0,103,1,1,1,0.0,0.0,0.4,5,0,82,97,84.5,10,85,1,3,3,Barcelona,2019-12-10 Inter-Barcelona,UCL,19-20,0f8b7424
+67cdbc0e,Arturo Vidal,22,CHI,CM,32-202,90,0,0,0,0,1,0,0,0,86,1,0,1,0.0,0.0,0.1,4,0,71,78,91.0,5,56,3,1,0,Barcelona,2019-12-10 Inter-Barcelona,UCL,19-20,0f8b7424
+89f951b5,Ivan Rakitić,4,CRO,DM,31-275,62,0,0,0,0,4,0,0,0,94,0,2,0,0.2,0.2,0.0,1,0,73,83,88.0,2,59,2,1,1,Barcelona,2019-12-10 Inter-Barcelona,UCL,19-20,0f8b7424
+1bacc518,Frenkie de Jong,21,NED,DM,22-212,28,0,0,0,0,0,0,0,0,36,2,1,0,0.0,0.0,0.1,4,0,31,34,91.2,2,23,1,1,1,Barcelona,2019-12-10 Inter-Barcelona,UCL,19-20,0f8b7424
+4f28a6ff,Clément Lenglet,15,FRA,CB,24-176,90,0,0,0,0,1,0,1,0,74,2,2,2,0.3,0.3,0.0,0,0,48,64,75.0,2,48,1,0,0,Barcelona,2019-12-10 Inter-Barcelona,UCL,19-20,0f8b7424
+3eed9821,Samuel Umtiti,23,FRA,CB,26-026,90,0,0,0,0,0,0,0,0,66,1,3,3,0.0,0.0,0.1,2,0,47,54,87.0,1,40,0,0,0,Barcelona,2019-12-10 Inter-Barcelona,UCL,19-20,0f8b7424
+88f130ed,Jean-Clair Todibo,6,FRA,CB,19-345,90,0,0,0,0,1,0,0,0,72,8,1,1,0.0,0.0,0.0,1,0,47,56,83.9,7,46,0,3,2,Barcelona,2019-12-10 Inter-Barcelona,UCL,19-20,0f8b7424
+a9dc785c,Neto,13,BRA,GK,30-144,90,0,0,0,0,0,0,0,0,54,0,0,0,0.0,0.0,0.0,0,0,35,51,68.6,0,36,0,0,0,Barcelona,2019-12-10 Inter-Barcelona,UCL,19-20,0f8b7424

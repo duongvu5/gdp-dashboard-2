@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+e6bc67d7,Gonçalo Guedes,7,POR,"FW,RM",22-136,77,1,1,0,0,4,1,0,0,41,0,0,1,0.2,0.2,0.6,7,2,26,35,74.3,8,29,7,1,0,Valencia,2019-04-14 Valencia-Levante,ESP-LALIGA,18-19,043b7e7e
+8455ad90,Lee Kang-in,16,KOR,RM,18-054,13,0,0,0,0,1,0,1,0,17,1,1,0,0.0,0.0,0.0,1,0,10,12,83.3,1,13,1,0,0,Valencia,2019-04-14 Valencia-Levante,ESP-LALIGA,18-19,043b7e7e
+0b90bb97,Santi Mina,22,ESP,FW,23-128,90,2,0,0,0,4,3,0,0,30,1,0,1,1.1,1.1,0.0,2,0,18,19,94.7,1,19,2,2,1,Valencia,2019-04-14 Valencia-Levante,ESP-LALIGA,18-19,043b7e7e
+0ac94a23,Denis Cheryshev,11,RUS,LM,28-109,90,0,0,0,0,4,1,0,0,58,6,0,1,0.8,0.8,0.1,5,0,28,41,68.3,3,34,4,5,2,Valencia,2019-04-14 Valencia-Levante,ESP-LALIGA,18-19,043b7e7e
+7460ca0d,Daniel Parejo,10,ESP,CM,29-363,70,0,0,0,0,1,0,0,0,56,2,2,0,0.0,0.0,0.2,10,1,44,51,86.3,0,25,0,1,1,Valencia,2019-04-14 Valencia-Levante,ESP-LALIGA,18-19,043b7e7e
+42276181,Kévin Gameiro,9,FRA,FW,31-340,20,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.1,2,0,7,7,100.0,1,6,1,0,0,Valencia,2019-04-14 Valencia-Levante,ESP-LALIGA,18-19,043b7e7e
+d83bbc54,Daniel Wass,18,DEN,"RB,CM",29-318,90,0,0,0,0,2,0,0,0,68,0,1,0,0.0,0.0,0.0,2,0,52,63,82.5,3,37,4,2,1,Valencia,2019-04-14 Valencia-Levante,ESP-LALIGA,18-19,043b7e7e
+fed17f5a,Carlos Soler,8,ESP,"RM,CM",22-102,90,0,1,0,0,4,1,1,0,44,0,2,0,0.2,0.2,0.1,3,2,31,34,91.2,4,25,2,2,0,Valencia,2019-04-14 Valencia-Levante,ESP-LALIGA,18-19,043b7e7e
+b05e2dbd,José Luis Gayà,14,ESP,LB,23-324,90,0,0,0,0,1,0,0,0,59,1,0,1,0.1,0.1,0.1,3,0,45,50,90.0,5,29,6,3,3,Valencia,2019-04-14 Valencia-Levante,ESP-LALIGA,18-19,043b7e7e
+b7ca5c51,Gabriel Paulista,5,BRA,CB,28-139,90,0,0,0,0,1,0,0,0,48,1,2,0,0.0,0.0,0.1,1,0,30,36,83.3,0,18,0,0,0,Valencia,2019-04-14 Valencia-Levante,ESP-LALIGA,18-19,043b7e7e
+ac3fb1be,Ezequiel Garay,24,ARG,CB,32-186,90,0,0,0,0,0,0,0,0,60,1,0,1,0.0,0.0,0.0,1,0,41,50,82.0,2,26,0,0,0,Valencia,2019-04-14 Valencia-Levante,ESP-LALIGA,18-19,043b7e7e
+32c0491f,Cristiano Piccini,21,ITA,RB,26-200,31,0,0,0,0,0,0,0,0,16,0,1,0,0.0,0.0,0.0,0,0,6,14,42.9,0,7,2,1,1,Valencia,2019-04-14 Valencia-Levante,ESP-LALIGA,18-19,043b7e7e
+a6951bf8,Francis Coquelin,17,FRA,CM,27-336,59,0,0,0,0,1,0,0,0,61,0,2,0,0.1,0.1,0.1,3,0,51,56,91.1,8,37,3,1,1,Valencia,2019-04-14 Valencia-Levante,ESP-LALIGA,18-19,043b7e7e
+a9dc785c,Neto,13,BRA,GK,29-269,90,0,0,0,0,0,0,0,0,28,0,0,0,0.0,0.0,0.0,0,0,12,27,44.4,0,12,0,0,0,Valencia,2019-04-14 Valencia-Levante,ESP-LALIGA,18-19,043b7e7e
+0ae4e09a,Roger Martí,9,ESP,FW,28-101,67,0,0,0,0,1,1,0,0,8,0,0,0,0.1,0.1,0.0,0,0,5,6,83.3,0,7,0,0,0,Levante,2019-04-14 Valencia-Levante,ESP-LALIGA,18-19,043b7e7e
+64e8ed6d,Borja Mayoral,2,ESP,FW,22-009,23,0,0,0,0,0,0,1,0,5,1,1,0,0.0,0.0,0.0,0,0,1,4,25.0,0,5,2,3,2,Levante,2019-04-14 Valencia-Levante,ESP-LALIGA,18-19,043b7e7e
+4a478107,José Luis Morales,11,ESP,FW,31-265,90,0,0,0,0,1,0,0,0,20,0,1,1,0.1,0.1,0.2,2,0,13,15,86.7,3,12,1,3,1,Levante,2019-04-14 Valencia-Levante,ESP-LALIGA,18-19,043b7e7e
+ed239245,Antonio Luna,22,ESP,"LW,WB,LB",28-028,68,0,0,0,0,0,0,0,0,49,0,0,3,0.0,0.0,0.0,0,0,31,42,73.8,1,26,1,0,0,Levante,2019-04-14 Valencia-Levante,ESP-LALIGA,18-19,043b7e7e
+5f3eaaf5,Moses Simon,7,NGA,WB,23-276,22,0,0,0,0,1,1,0,0,18,0,1,0,0.0,0.0,0.1,1,0,11,14,78.6,0,13,6,1,0,Levante,2019-04-14 Valencia-Levante,ESP-LALIGA,18-19,043b7e7e
+9038c2a1,Jason,23,ESP,"CM,RW,LM",24-282,90,0,0,0,0,0,0,0,0,40,2,0,0,0.0,0.0,0.0,1,0,23,33,69.7,2,25,3,1,1,Levante,2019-04-14 Valencia-Levante,ESP-LALIGA,18-19,043b7e7e
+61220da2,José Campaña,24,ESP,"CM,AM",25-318,90,0,0,0,0,1,0,0,0,85,2,1,0,0.0,0.0,0.0,1,0,63,76,82.9,10,54,1,1,0,Levante,2019-04-14 Valencia-Levante,ESP-LALIGA,18-19,043b7e7e
+ecd8c01e,Rubén Rochina,16,ESP,"CM,RM",28-022,76,0,0,0,0,1,1,0,0,67,3,1,1,0.0,0.0,0.1,4,0,35,48,72.9,8,32,3,5,1,Levante,2019-04-14 Valencia-Levante,ESP-LALIGA,18-19,043b7e7e
+cac2537b,Enis Bardhi,10,MKD,CM,23-286,14,0,0,0,0,1,0,0,0,13,0,0,0,0.0,0.0,0.0,1,0,7,10,70.0,3,10,3,0,0,Levante,2019-04-14 Valencia-Levante,ESP-LALIGA,18-19,043b7e7e
+c00097d2,Rober,4,ESP,"CB,DM",24-057,90,0,0,0,0,0,0,0,0,45,1,1,1,0.0,0.0,0.0,1,0,34,38,89.5,6,26,1,0,0,Levante,2019-04-14 Valencia-Levante,ESP-LALIGA,18-19,043b7e7e
+6d8f8441,Coke,12,ESP,"WB,CB,RB",31-353,90,0,0,0,0,0,0,0,0,53,0,0,2,0.0,0.0,0.0,1,0,33,44,75.0,6,31,2,3,0,Levante,2019-04-14 Valencia-Levante,ESP-LALIGA,18-19,043b7e7e
+c67cd65c,Rúben Vezo,14,POR,CB,24-354,90,0,0,0,0,0,0,0,0,56,1,1,2,0.0,0.0,0.0,0,0,38,45,84.4,4,23,0,0,0,Levante,2019-04-14 Valencia-Levante,ESP-LALIGA,18-19,043b7e7e
+e7ab4179,Erick Cabaco,18,URU,CB,23-360,90,0,0,0,0,0,0,1,0,46,4,1,3,0.0,0.0,0.0,0,0,27,33,81.8,7,17,3,0,0,Levante,2019-04-14 Valencia-Levante,ESP-LALIGA,18-19,043b7e7e
+a01c3d54,Aitor Fernández,25,ESP,GK,27-346,90,0,0,0,0,0,0,0,0,28,0,0,0,0.0,0.0,0.0,0,0,17,25,68.0,0,7,0,0,0,Levante,2019-04-14 Valencia-Levante,ESP-LALIGA,18-19,043b7e7e

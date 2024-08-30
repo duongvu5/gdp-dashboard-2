@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+bbf5c11b,Rafa Mir,9,ESP,FW,23-262,90,1,0,0,0,6,1,0,0,24,0,0,0,0.4,0.4,0.0,0,0,6,13,46.2,0,8,2,2,0,Huesca,2021-03-07 Huesca-Celta Vigo,ESP-LALIGA,20-21,0cc70a2b
+8970907e,David Ferreiro,7,ESP,FW,32-340,90,1,0,0,0,3,1,0,0,43,2,0,1,0.5,0.5,0.3,7,1,19,32,59.4,5,24,3,5,4,Huesca,2021-03-07 Huesca-Celta Vigo,ESP-LALIGA,20-21,0cc70a2b
+5a36f180,Dani Escriche,23,ESP,AM,22-348,76,0,0,0,0,1,0,0,0,36,0,1,2,0.0,0.0,0.0,5,1,12,22,54.5,3,22,1,4,3,Huesca,2021-03-07 Huesca-Celta Vigo,ESP-LALIGA,20-21,0cc70a2b
+a83d8b0c,Javier Ontiveros,15,ESP,AM,23-179,14,0,0,0,0,2,1,0,0,18,0,0,0,0.1,0.1,0.0,2,0,11,14,78.6,3,12,0,1,0,Huesca,2021-03-07 Huesca-Celta Vigo,ESP-LALIGA,20-21,0cc70a2b
+def69cd0,Mikel Rico,17,ESP,CM,36-123,80,0,1,0,0,1,0,0,0,39,0,2,1,0.0,0.0,0.1,1,1,20,30,66.7,5,25,0,2,2,Huesca,2021-03-07 Huesca-Celta Vigo,ESP-LALIGA,20-21,0cc70a2b
+685857dc,Idrissa Doumbia,2,CIV,CM,22-327,10,0,0,0,0,1,0,0,0,10,0,0,0,0.0,0.0,0.0,1,0,7,8,87.5,1,6,1,0,0,Huesca,2021-03-07 Huesca-Celta Vigo,ESP-LALIGA,20-21,0cc70a2b
+a62b4888,Jaime Seoane,20,ESP,CM,24-044,88,0,0,0,0,1,0,0,0,56,3,1,3,0.1,0.1,0.0,3,1,34,44,77.3,3,26,3,2,2,Huesca,2021-03-07 Huesca-Celta Vigo,ESP-LALIGA,20-21,0cc70a2b
+82803509,Juan Carlos,21,ESP,CM,29-357,2,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,1,0,2,3,66.7,0,2,1,1,1,Huesca,2021-03-07 Huesca-Celta Vigo,ESP-LALIGA,20-21,0cc70a2b
+a4b00319,Javi Galán,11,ESP,WB,26-108,88,0,0,0,0,0,0,0,0,72,1,1,0,0.0,0.0,0.1,5,1,52,64,81.3,1,35,1,6,6,Huesca,2021-03-07 Huesca-Celta Vigo,ESP-LALIGA,20-21,0cc70a2b
+68796d61,Shinji Okazaki,12,JPN,WB,34-325,2,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,0,0,0,0,Huesca,2021-03-07 Huesca-Celta Vigo,ESP-LALIGA,20-21,0cc70a2b
+5db04597,Pablo Maffeo,3,ESP,WB,23-238,90,0,1,0,0,1,1,0,0,53,0,0,0,0.1,0.1,0.2,3,1,34,49,69.4,2,31,0,3,3,Huesca,2021-03-07 Huesca-Celta Vigo,ESP-LALIGA,20-21,0cc70a2b
+4b5e7e90,Pablo Insua,4,ESP,CB,27-179,80,0,0,0,0,0,0,0,0,35,1,2,0,0.0,0.0,0.0,1,0,27,30,90.0,1,18,0,0,0,Huesca,2021-03-07 Huesca-Celta Vigo,ESP-LALIGA,20-21,0cc70a2b
+01e5f06e,Sergio Gómez,10,ESP,CB,20-184,10,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.1,1,0,8,11,72.7,2,6,0,1,1,Huesca,2021-03-07 Huesca-Celta Vigo,ESP-LALIGA,20-21,0cc70a2b
+92d38e6c,Dimitris Siovas,18,GRE,CB,32-172,90,1,0,0,0,1,1,0,0,57,1,1,0,0.1,0.1,0.0,1,0,39,51,76.5,2,30,0,0,0,Huesca,2021-03-07 Huesca-Celta Vigo,ESP-LALIGA,20-21,0cc70a2b
+978cd030,Jorge Pulido,14,ESP,CB,29-333,90,0,0,0,0,2,0,0,0,67,0,0,1,1.0,1.0,0.1,1,0,44,59,74.6,4,41,3,0,0,Huesca,2021-03-07 Huesca-Celta Vigo,ESP-LALIGA,20-21,0cc70a2b
+f127d782,Álvaro Fernández,1,ESP,GK,22-328,90,0,0,0,0,0,0,0,0,35,0,0,0,0.0,0.0,0.0,0,0,27,33,81.8,0,22,0,0,0,Huesca,2021-03-07 Huesca-Celta Vigo,ESP-LALIGA,20-21,0cc70a2b
+7dcf86f6,Iago Aspas,10,ESP,"FW,LM",33-218,90,0,1,0,0,0,0,0,0,46,1,2,0,0.0,0.0,0.1,4,2,29,40,72.5,5,23,4,0,0,Celta Vigo,2021-03-07 Huesca-Celta Vigo,ESP-LALIGA,20-21,0cc70a2b
+0b90bb97,Santi Mina,22,ESP,FW,25-090,78,1,0,0,0,3,2,0,0,25,0,0,0,0.2,0.2,0.0,0,0,8,15,53.3,0,7,1,2,0,Celta Vigo,2021-03-07 Huesca-Celta Vigo,ESP-LALIGA,20-21,0cc70a2b
+3ca6106c,Augusto Solari,21,ARG,RM,29-063,12,0,0,0,0,1,0,0,0,8,1,1,0,0.0,0.0,0.0,1,0,1,2,50.0,0,4,0,0,0,Celta Vigo,2021-03-07 Huesca-Celta Vigo,ESP-LALIGA,20-21,0cc70a2b
+12c50af5,Denis Suárez,6,ESP,"AM,CM",27-060,90,0,1,0,0,0,0,0,0,58,1,0,0,0.0,0.0,0.5,5,1,42,51,82.4,5,23,1,1,1,Celta Vigo,2021-03-07 Huesca-Celta Vigo,ESP-LALIGA,20-21,0cc70a2b
+b2d0ec1b,Nolito,9,ESP,"LM,CM",34-143,78,1,1,0,0,1,1,0,0,30,0,1,1,0.1,0.1,0.1,3,1,16,21,76.2,3,16,0,2,1,Celta Vigo,2021-03-07 Huesca-Celta Vigo,ESP-LALIGA,20-21,0cc70a2b
+b39a793e,Facundo Ferreyra,12,ARG,FW,29-358,12,0,0,0,0,0,0,1,0,2,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,0,0,0,0,Celta Vigo,2021-03-07 Huesca-Celta Vigo,ESP-LALIGA,20-21,0cc70a2b
+c9e39d91,Brais Méndez,23,ESP,RM,24-059,73,0,0,0,0,3,2,0,0,30,1,0,0,0.5,0.5,0.0,3,2,13,18,72.2,0,14,0,2,1,Celta Vigo,2021-03-07 Huesca-Celta Vigo,ESP-LALIGA,20-21,0cc70a2b
+27a013f7,Néstor Araujo,4,MEX,CB,29-190,17,0,0,0,0,0,0,0,0,5,1,0,0,0.0,0.0,0.0,0,0,1,3,33.3,0,3,0,0,0,Celta Vigo,2021-03-07 Huesca-Celta Vigo,ESP-LALIGA,20-21,0cc70a2b
+ed5c5fa3,Fran Beltrán,8,ESP,"DM,CM",22-032,90,1,0,0,0,1,1,0,0,58,2,0,1,0.1,0.1,0.0,0,0,42,52,80.8,1,29,0,0,0,Celta Vigo,2021-03-07 Huesca-Celta Vigo,ESP-LALIGA,20-21,0cc70a2b
+2f3e911a,Aarón Martín,19,ESP,LB,23-319,90,0,0,0,0,0,0,0,0,49,1,0,2,0.0,0.0,0.0,0,0,29,39,74.4,0,15,0,0,0,Celta Vigo,2021-03-07 Huesca-Celta Vigo,ESP-LALIGA,20-21,0cc70a2b
+b233e8e4,Jeison Murillo,24,COL,CB,28-284,90,0,0,0,0,0,0,0,0,51,1,0,2,0.0,0.0,0.0,0,0,35,42,83.3,1,19,0,0,0,Celta Vigo,2021-03-07 Huesca-Celta Vigo,ESP-LALIGA,20-21,0cc70a2b
+18abe173,Joseph Aidoo,18,GHA,CB,25-159,90,0,0,0,0,0,0,0,0,67,1,0,0,0.0,0.0,0.0,1,1,50,59,84.7,3,39,2,0,0,Celta Vigo,2021-03-07 Huesca-Celta Vigo,ESP-LALIGA,20-21,0cc70a2b
+cb574619,Hugo Mallo,2,ESP,RB,29-258,90,1,0,0,0,1,1,1,0,80,2,2,3,0.1,0.1,0.0,1,0,50,64,78.1,6,31,3,1,1,Celta Vigo,2021-03-07 Huesca-Celta Vigo,ESP-LALIGA,20-21,0cc70a2b
+967f34d3,Rubén Blanco,13,ESP,GK,25-225,44,0,0,0,0,0,0,0,0,17,0,0,0,0.0,0.0,0.0,0,0,12,17,70.6,0,10,0,0,0,Celta Vigo,2021-03-07 Huesca-Celta Vigo,ESP-LALIGA,20-21,0cc70a2b
+cde52ef5,Iván Villar,1,ESP,GK,23-241,46,0,0,0,0,0,0,0,0,29,0,0,0,0.0,0.0,0.0,0,0,12,26,46.2,0,12,0,0,0,Celta Vigo,2021-03-07 Huesca-Celta Vigo,ESP-LALIGA,20-21,0cc70a2b

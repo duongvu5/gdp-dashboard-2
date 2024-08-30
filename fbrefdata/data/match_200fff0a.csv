@@ -1,0 +1,31 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+bbf5c11b,Rafa Mir,9,ESP,FW,23-199,90,0,0,0,0,1,1,0,0,27,0,1,1,0.7,0.7,0.0,0,0,5,12,41.7,1,19,1,1,0,Huesca,2021-01-03 Huesca-Barcelona,ESP-LALIGA,20-21,200fff0a
+a83d8b0c,Javier Ontiveros,15,ESP,LW,23-116,90,0,0,0,0,1,1,1,0,55,1,2,2,0.0,0.0,0.0,0,0,41,45,91.1,4,39,3,5,3,Huesca,2021-01-03 Huesca-Barcelona,ESP-LALIGA,20-21,200fff0a
+01e5f06e,Sergio Gómez,10,ESP,RW,20-121,71,0,0,0,0,0,0,0,0,35,6,3,1,0.0,0.0,0.0,0,0,9,18,50.0,2,16,1,1,1,Huesca,2021-01-03 Huesca-Barcelona,ESP-LALIGA,20-21,200fff0a
+68796d61,Shinji Okazaki,12,JPN,RW,34-262,19,0,0,0,0,1,1,0,0,3,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,3,0,0,0,Huesca,2021-01-03 Huesca-Barcelona,ESP-LALIGA,20-21,200fff0a
+a62b4888,Jaime Seoane,20,ESP,LM,23-347,71,0,0,0,0,0,0,0,0,33,2,2,1,0.0,0.0,0.0,0,0,11,22,50.0,0,19,2,3,1,Huesca,2021-01-03 Huesca-Barcelona,ESP-LALIGA,20-21,200fff0a
+8970907e,David Ferreiro,7,ESP,LM,32-277,19,0,0,0,0,0,0,0,0,10,1,0,0,0.0,0.0,0.0,1,0,5,8,62.5,1,6,0,0,0,Huesca,2021-01-03 Huesca-Barcelona,ESP-LALIGA,20-21,200fff0a
+def69cd0,Mikel Rico,17,ESP,CM,36-060,64,0,0,0,0,0,0,0,0,26,0,0,0,0.0,0.0,0.0,0,0,20,23,87.0,2,21,0,0,0,Huesca,2021-01-03 Huesca-Barcelona,ESP-LALIGA,20-21,200fff0a
+685857dc,Idrissa Doumbia,2,CIV,CM,22-264,26,0,0,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.0,1,0,11,11,100.0,0,9,0,1,1,Huesca,2021-01-03 Huesca-Barcelona,ESP-LALIGA,20-21,200fff0a
+c5fa58ea,Pedro Mosquera,5,ESP,RM,32-257,90,0,0,0,0,0,0,0,0,63,1,2,3,0.0,0.0,0.0,0,0,45,51,88.2,4,35,1,0,0,Huesca,2021-01-03 Huesca-Barcelona,ESP-LALIGA,20-21,200fff0a
+a4b00319,Javi Galán,11,ESP,LB,26-045,90,0,0,0,0,0,0,0,0,64,3,0,1,0.0,0.0,0.0,1,0,44,55,80.0,5,51,3,4,4,Huesca,2021-01-03 Huesca-Barcelona,ESP-LALIGA,20-21,200fff0a
+92d38e6c,Dimitris Siovas,18,GRE,CB,32-109,90,0,0,0,0,0,0,0,0,44,0,0,1,0.0,0.0,0.0,1,0,32,40,80.0,2,31,0,0,0,Huesca,2021-01-03 Huesca-Barcelona,ESP-LALIGA,20-21,200fff0a
+4b5e7e90,Pablo Insua,4,ESP,CB,27-116,90,0,0,0,0,0,0,0,0,31,3,3,1,0.0,0.0,0.0,1,0,19,21,90.5,0,17,0,0,0,Huesca,2021-01-03 Huesca-Barcelona,ESP-LALIGA,20-21,200fff0a
+978cd030,Jorge Pulido,14,ESP,RB,29-270,71,0,0,0,0,0,0,0,0,31,3,1,2,0.0,0.0,0.0,0,0,19,21,90.5,1,17,2,0,0,Huesca,2021-01-03 Huesca-Barcelona,ESP-LALIGA,20-21,200fff0a
+82803509,Juan Carlos,21,ESP,RB,29-294,19,0,0,0,0,1,1,0,0,10,1,0,1,0.1,0.1,0.0,0,0,5,5,100.0,0,5,1,1,0,Huesca,2021-01-03 Huesca-Barcelona,ESP-LALIGA,20-21,200fff0a
+f127d782,Álvaro Fernández,1,ESP,GK,22-265,90,0,0,0,0,0,0,0,0,41,0,0,0,0.0,0.0,0.0,0,0,27,35,77.1,0,14,0,0,0,Huesca,2021-01-03 Huesca-Barcelona,ESP-LALIGA,20-21,200fff0a
+fd771f95,Martin Braithwaite,9,DEN,FW,29-212,80,0,0,0,0,1,0,0,0,12,0,0,0,0.1,0.1,0.6,3,0,6,9,66.7,0,5,0,0,0,Barcelona,2021-01-03 Huesca-Barcelona,ESP-LALIGA,20-21,200fff0a
+df69b544,Antoine Griezmann,7,FRA,FW,29-288,10,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,3,0,1,1,Barcelona,2021-01-03 Huesca-Barcelona,ESP-LALIGA,20-21,200fff0a
+b19db005,Ousmane Dembélé,11,FRA,LW,23-233,90,0,0,0,0,6,2,0,0,95,0,2,0,0.8,0.8,0.4,8,0,76,83,91.6,9,70,8,7,4,Barcelona,2021-01-03 Huesca-Barcelona,ESP-LALIGA,20-21,200fff0a
+d70ce98e,Lionel Messi,10,ARG,RW,33-193,90,0,1,0,0,8,2,0,0,106,0,0,0,0.5,0.5,0.7,6,1,71,88,80.7,6,86,1,12,6,Barcelona,2021-01-03 Huesca-Barcelona,ESP-LALIGA,20-21,200fff0a
+0d9b2d31,Pedri,16,ESP,LM,18-039,90,0,0,0,0,2,1,0,0,90,2,2,1,0.9,0.9,0.3,6,0,61,75,81.3,9,65,3,2,2,Barcelona,2021-01-03 Huesca-Barcelona,ESP-LALIGA,20-21,200fff0a
+5ab0ea87,Sergio Busquets,5,ESP,CM,32-171,74,0,0,0,0,0,0,0,0,114,2,2,2,0.0,0.0,0.1,3,0,100,105,95.2,14,85,1,0,0,Barcelona,2021-01-03 Huesca-Barcelona,ESP-LALIGA,20-21,200fff0a
+ad6df2d5,Miralem Pjanić,8,BIH,CM,30-276,16,0,0,0,0,1,0,0,0,15,0,1,0,0.1,0.1,0.0,1,0,12,14,85.7,1,9,0,0,0,Barcelona,2021-01-03 Huesca-Barcelona,ESP-LALIGA,20-21,200fff0a
+1bacc518,Frenkie de Jong,21,NED,RM,23-236,90,1,0,0,0,1,1,0,0,86,2,2,0,0.7,0.7,0.0,1,0,70,76,92.1,11,64,2,2,1,Barcelona,2021-01-03 Huesca-Barcelona,ESP-LALIGA,20-21,200fff0a
+4601e194,Jordi Alba,18,ESP,LB,31-288,90,0,0,0,0,1,0,0,0,138,0,1,0,0.1,0.1,0.1,6,0,122,134,91.0,17,105,3,2,0,Barcelona,2021-01-03 Huesca-Barcelona,ESP-LALIGA,20-21,200fff0a
+4f28a6ff,Clément Lenglet,15,FRA,CB,25-200,90,0,0,0,0,0,0,0,0,105,0,1,0,0.0,0.0,0.1,3,1,100,103,97.1,12,84,1,0,0,Barcelona,2021-01-03 Huesca-Barcelona,ESP-LALIGA,20-21,200fff0a
+2bef2bca,Ronald Araújo,4,URU,CB,21-302,90,0,0,0,0,0,0,0,0,70,2,2,2,0.0,0.0,0.0,0,0,59,63,93.7,4,52,1,0,0,Barcelona,2021-01-03 Huesca-Barcelona,ESP-LALIGA,20-21,200fff0a
+5976f83e,Sergiño Dest,2,USA,RB,20-061,74,0,0,0,0,0,0,0,0,51,0,0,3,0.0,0.0,0.2,2,0,41,44,93.2,3,36,4,3,1,Barcelona,2021-01-03 Huesca-Barcelona,ESP-LALIGA,20-21,200fff0a
+056269d7,Óscar Mingueza,28,ESP,RB,21-235,16,0,0,0,0,0,0,0,0,11,1,0,0,0.0,0.0,0.0,0,0,6,10,60.0,0,5,0,0,0,Barcelona,2021-01-03 Huesca-Barcelona,ESP-LALIGA,20-21,200fff0a
+6f51e382,Marc-André ter Stegen,1,GER,GK,28-248,90,0,0,0,0,0,0,0,0,26,0,0,0,0.0,0.0,0.0,0,0,24,26,92.3,0,18,0,0,0,Barcelona,2021-01-03 Huesca-Barcelona,ESP-LALIGA,20-21,200fff0a

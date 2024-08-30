@@ -1,0 +1,30 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+4a478107,José Luis Morales,11,ESP,"FW,RB",31-146,90,0,0,0,0,1,0,0,0,39,1,2,1,0.1,0.1,0.0,5,0,17,25,68.0,4,24,2,4,1,Levante,2018-12-16 Levante-Barcelona,ESP-LALIGA,18-19,190484d3
+2e23c66b,Emmanuel Boateng,21,GHA,FW,22-207,61,0,0,0,0,2,1,0,0,10,0,0,0,0.2,0.2,0.0,2,0,5,7,71.4,0,8,1,0,0,Levante,2018-12-16 Levante-Barcelona,ESP-LALIGA,18-19,190484d3
+64e8ed6d,Borja Mayoral,2,ESP,FW,21-255,29,0,0,0,0,1,1,0,0,8,1,0,0,0.0,0.0,0.0,0,0,6,6,100.0,1,6,2,0,0,Levante,2018-12-16 Levante-Barcelona,ESP-LALIGA,18-19,190484d3
+cac2537b,Enis Bardhi,10,MKD,CM,23-167,90,0,0,0,0,3,1,0,0,77,3,2,3,0.1,0.1,0.1,4,0,48,63,76.2,8,42,2,5,4,Levante,2018-12-16 Levante-Barcelona,ESP-LALIGA,18-19,190484d3
+61220da2,José Campaña,24,ESP,"CM,LM",25-199,90,0,0,0,0,3,0,0,0,80,2,0,0,0.1,0.1,0.1,5,0,61,72,84.7,4,45,3,6,5,Levante,2018-12-16 Levante-Barcelona,ESP-LALIGA,18-19,190484d3
+ecd8c01e,Rubén Rochina,16,ESP,CM,27-268,68,0,0,0,0,2,0,0,0,59,1,0,2,0.1,0.1,0.0,3,0,38,51,74.5,6,31,3,2,2,Levante,2018-12-16 Levante-Barcelona,ESP-LALIGA,18-19,190484d3
+6d8f8441,Coke,12,ESP,"CB,CM",31-234,22,0,0,0,0,0,0,0,0,12,0,1,0,0.0,0.0,0.0,1,0,7,11,63.6,1,6,0,0,0,Levante,2018-12-16 Levante-Barcelona,ESP-LALIGA,18-19,190484d3
+d4ef9ac5,Toño,3,ESP,"WB,LB",29-039,90,0,0,0,0,1,1,0,0,40,1,0,0,0.0,0.0,0.2,4,0,27,33,81.8,4,27,3,3,1,Levante,2018-12-16 Levante-Barcelona,ESP-LALIGA,18-19,190484d3
+9038c2a1,Jason,23,ESP,"WB,RM",24-163,90,0,0,0,0,1,0,1,0,48,1,5,0,0.0,0.0,0.1,2,0,29,37,78.4,3,28,2,2,1,Levante,2018-12-16 Levante-Barcelona,ESP-LALIGA,18-19,190484d3
+c00097d2,Rober,4,ESP,CB,23-303,90,0,0,0,0,0,0,1,0,41,1,1,0,0.0,0.0,0.1,3,0,34,40,85.0,2,26,1,1,1,Levante,2018-12-16 Levante-Barcelona,ESP-LALIGA,18-19,190484d3
+474ecac8,Sergio Postigo,15,ESP,CB,30-042,69,0,0,0,0,0,0,0,0,27,3,1,0,0.0,0.0,0.0,0,0,18,19,94.7,1,13,0,0,0,Levante,2018-12-16 Levante-Barcelona,ESP-LALIGA,18-19,190484d3
+51c30111,Sanjin Prcić,8,BIH,"CM,CB",25-026,21,0,0,0,0,4,1,0,0,16,1,1,0,0.1,0.1,0.0,3,0,7,9,77.8,0,5,2,2,2,Levante,2018-12-16 Levante-Barcelona,ESP-LALIGA,18-19,190484d3
+e7ab4179,Erick Cabaco,18,URU,CB,23-241,75,0,0,0,0,2,1,0,1,42,1,3,1,0.2,0.2,0.0,1,0,25,32,78.1,3,13,0,0,0,Levante,2018-12-16 Levante-Barcelona,ESP-LALIGA,18-19,190484d3
+b5bdf144,Oier Olazábal,13,ESP,GK,29-093,90,0,0,0,0,0,0,0,0,22,0,0,0,0.0,0.0,0.0,0,0,13,20,65.0,0,8,0,0,0,Levante,2018-12-16 Levante-Barcelona,ESP-LALIGA,18-19,190484d3
+d70ce98e,Lionel Messi,10,ARG,FW,31-175,90,3,2,0,0,7,4,0,0,66,0,0,0,1.5,1.5,1.7,9,2,37,52,71.2,7,49,4,7,2,Barcelona,2018-12-16 Levante-Barcelona,ESP-LALIGA,18-19,190484d3
+a6154613,Luis Suárez,9,URU,FW,31-326,90,1,0,0,0,3,2,0,0,37,0,0,1,1.1,1.1,0.0,3,2,23,27,85.2,2,22,4,2,1,Barcelona,2018-12-16 Levante-Barcelona,ESP-LALIGA,18-19,190484d3
+67cdbc0e,Arturo Vidal,22,CHI,CM,31-208,77,0,1,0,0,0,0,0,0,52,2,1,1,0.0,0.0,0.7,1,1,41,45,91.1,2,27,0,0,0,Barcelona,2018-12-16 Levante-Barcelona,ESP-LALIGA,18-19,190484d3
+0ef89a37,Philippe Coutinho,7,BRA,CM,26-187,13,0,0,0,0,1,0,0,0,15,0,0,0,0.0,0.0,0.0,0,0,10,12,83.3,1,11,0,1,1,Barcelona,2018-12-16 Levante-Barcelona,ESP-LALIGA,18-19,190484d3
+5ab0ea87,Sergio Busquets,5,ESP,CM,30-153,90,0,1,0,0,0,0,0,0,75,5,0,4,0.0,0.0,0.7,3,1,60,65,92.3,5,36,0,1,1,Barcelona,2018-12-16 Levante-Barcelona,ESP-LALIGA,18-19,190484d3
+89f951b5,Ivan Rakitić,4,CRO,"CM,CB",30-281,90,0,0,0,0,1,0,1,0,70,0,2,2,0.0,0.0,0.0,1,0,61,64,95.3,6,41,1,0,0,Barcelona,2018-12-16 Levante-Barcelona,ESP-LALIGA,18-19,190484d3
+4601e194,Jordi Alba,18,ESP,WB,29-270,90,0,0,0,0,0,0,1,0,65,2,2,0,0.0,0.0,0.0,0,0,43,51,84.3,3,28,0,1,1,Barcelona,2018-12-16 Levante-Barcelona,ESP-LALIGA,18-19,190484d3
+b19db005,Ousmane Dembélé,11,FRA,WB,21-215,80,0,0,0,0,0,0,1,0,51,3,1,0,0.0,0.0,0.0,4,0,30,39,76.9,0,38,8,8,7,Barcelona,2018-12-16 Levante-Barcelona,ESP-LALIGA,18-19,190484d3
+12c50af5,Denis Suárez,6,ESP,WB,24-344,10,0,0,0,0,1,1,0,0,11,0,0,1,0.4,0.4,0.0,1,0,7,7,100.0,0,6,1,1,0,Barcelona,2018-12-16 Levante-Barcelona,ESP-LALIGA,18-19,190484d3
+d0d79694,Thomas Vermaelen,24,BEL,CB,33-032,51,0,0,0,0,1,0,0,0,26,0,0,0,0.1,0.1,0.0,0,0,18,21,85.7,0,18,0,0,0,Barcelona,2018-12-16 Levante-Barcelona,ESP-LALIGA,18-19,190484d3
+48b3dd60,Arthur Melo,8,BRA,CM,22-126,39,0,0,0,0,1,1,0,0,39,1,0,0,0.0,0.0,0.4,1,0,31,34,91.2,4,29,2,0,0,Barcelona,2018-12-16 Levante-Barcelona,ESP-LALIGA,18-19,190484d3
+4f28a6ff,Clément Lenglet,15,FRA,CB,23-182,90,0,0,0,0,0,0,0,0,56,2,0,2,0.0,0.0,0.0,0,0,42,45,93.3,1,35,0,0,0,Barcelona,2018-12-16 Levante-Barcelona,ESP-LALIGA,18-19,190484d3
+adfc9123,Gerard Piqué,3,ESP,CB,31-317,90,1,0,0,0,1,1,0,0,73,3,3,2,0.5,0.5,0.0,1,1,55,60,91.7,2,42,2,1,1,Barcelona,2018-12-16 Levante-Barcelona,ESP-LALIGA,18-19,190484d3
+6f51e382,Marc-André ter Stegen,1,GER,GK,26-230,90,0,0,0,0,0,0,0,0,39,0,0,0,0.0,0.0,0.0,0,0,29,35,82.9,0,17,0,0,0,Barcelona,2018-12-16 Levante-Barcelona,ESP-LALIGA,18-19,190484d3

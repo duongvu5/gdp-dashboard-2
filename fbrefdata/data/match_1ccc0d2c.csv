@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+8d78e732,Robert Lewandowski,9,POL,FW,34-168,90,0,0,0,0,6,3,0,0,34,1,1,1,0.5,0.5,0.0,2,0,14,22,63.6,0,18,4,1,1,Barcelona,2023-02-05 Barcelona-Sevilla,ESP-LALIGA,22-23,1ccc0d2c
+19cae58d,Gavi,6,ESP,LW,18-184,79,1,0,0,0,2,1,0,0,41,1,0,3,0.9,0.9,0.1,2,0,24,30,80.0,4,26,2,0,0,Barcelona,2023-02-05 Barcelona-Sevilla,ESP-LALIGA,22-23,1ccc0d2c
+0ba976e4,Ansu Fati,10,ESP,LW,20-097,11,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,6,6,100.0,1,5,0,1,0,Barcelona,2023-02-05 Barcelona-Sevilla,ESP-LALIGA,22-23,1ccc0d2c
+3423f250,Raphinha,22,BRA,RW,26-053,83,1,1,0,0,4,2,0,0,65,0,1,0,0.8,0.8,0.8,3,2,40,48,83.3,3,41,6,7,3,Barcelona,2023-02-05 Barcelona-Sevilla,ESP-LALIGA,22-23,1ccc0d2c
+9e1035f8,Ferrán Torres,11,ESP,RW,22-341,7,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,4,5,80.0,0,5,2,1,0,Barcelona,2023-02-05 Barcelona-Sevilla,ESP-LALIGA,22-23,1ccc0d2c
+1bacc518,Frenkie de Jong,21,NED,LM,25-269,90,0,0,0,0,0,0,0,0,94,2,1,0,0.0,0.0,0.0,4,1,80,89,89.9,10,53,1,1,0,Barcelona,2023-02-05 Barcelona-Sevilla,ESP-LALIGA,22-23,1ccc0d2c
+5ab0ea87,Sergio Busquets,5,ESP,CM,34-204,7,0,0,0,0,0,0,0,0,4,1,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,0,0,0,0,Barcelona,2023-02-05 Barcelona-Sevilla,ESP-LALIGA,22-23,1ccc0d2c
+05e19d6a,Franck Kessié,19,CIV,CM,26-048,83,0,1,0,0,0,0,0,0,42,2,1,0,0.0,0.0,0.4,3,1,29,33,87.9,2,27,1,3,1,Barcelona,2023-02-05 Barcelona-Sevilla,ESP-LALIGA,22-23,1ccc0d2c
+0d9b2d31,Pedri,8,ESP,RM,20-072,90,0,0,0,0,0,0,0,0,89,2,0,1,0.0,0.0,0.5,6,0,70,83,84.3,3,67,3,2,2,Barcelona,2023-02-05 Barcelona-Sevilla,ESP-LALIGA,22-23,1ccc0d2c
+4601e194,Jordi Alba,18,ESP,LB,33-321,82,1,1,0,0,2,1,0,0,93,1,1,1,0.3,0.3,0.8,5,1,73,86,84.9,7,44,2,2,2,Barcelona,2023-02-05 Barcelona-Sevilla,ESP-LALIGA,22-23,1ccc0d2c
+5ccc9672,Alejandro Balde,28,ESP,LB,19-110,8,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,7,8,87.5,0,4,0,4,3,Barcelona,2023-02-05 Barcelona-Sevilla,ESP-LALIGA,22-23,1ccc0d2c
+1cb49278,Andreas Christensen,15,DEN,CB,26-301,90,0,0,0,0,0,0,0,0,111,1,0,0,0.0,0.0,0.0,0,0,101,106,95.3,6,67,0,0,0,Barcelona,2023-02-05 Barcelona-Sevilla,ESP-LALIGA,22-23,1ccc0d2c
+2bef2bca,Ronald Araújo,4,URU,CB,23-335,79,0,0,0,0,1,0,0,0,89,1,0,0,0.1,0.1,0.0,0,0,80,82,97.6,4,49,0,0,0,Barcelona,2023-02-05 Barcelona-Sevilla,ESP-LALIGA,22-23,1ccc0d2c
+f4290206,Marcos Alonso,17,ESP,CB,32-039,11,0,0,0,0,0,0,0,0,11,1,0,0,0.0,0.0,0.0,0,0,9,10,90.0,1,5,0,0,0,Barcelona,2023-02-05 Barcelona-Sevilla,ESP-LALIGA,22-23,1ccc0d2c
+4d1666ff,Jules Koundé,23,FRA,RB,24-085,90,0,0,0,0,1,0,0,0,83,0,1,3,0.0,0.0,0.0,3,1,66,75,88.0,13,50,4,3,1,Barcelona,2023-02-05 Barcelona-Sevilla,ESP-LALIGA,22-23,1ccc0d2c
+6f51e382,Marc-André ter Stegen,1,GER,GK,30-281,90,0,0,0,0,0,0,0,0,40,0,0,0,0.0,0.0,0.0,0,0,36,40,90.0,0,20,0,0,0,Barcelona,2023-02-05 Barcelona-Sevilla,ESP-LALIGA,22-23,1ccc0d2c
+04e17fd5,Youssef En-Nesyri,15,MAR,FW,25-249,45,0,0,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.1,1,0,4,6,66.7,0,6,1,1,0,Sevilla,2023-02-05 Barcelona-Sevilla,ESP-LALIGA,22-23,1ccc0d2c
+abe66106,Érik Lamela,17,ARG,RM,30-338,45,0,0,0,0,0,0,0,0,20,0,0,1,0.0,0.0,0.0,0,0,9,15,60.0,1,12,0,1,0,Sevilla,2023-02-05 Barcelona-Sevilla,ESP-LALIGA,22-23,1ccc0d2c
+89f951b5,Ivan Rakitić,10,CRO,"LM,CM,FW",34-332,90,0,0,0,0,1,0,1,0,36,1,0,1,0.0,0.0,0.0,0,0,22,30,73.3,1,17,0,0,0,Sevilla,2023-02-05 Barcelona-Sevilla,ESP-LALIGA,22-23,1ccc0d2c
+2a0c8ba4,Joan Jordán,8,ESP,"CM,CB",28-214,90,0,0,0,0,0,0,1,0,42,2,1,0,0.0,0.0,0.0,0,0,29,35,82.9,2,18,0,0,0,Sevilla,2023-02-05 Barcelona-Sevilla,ESP-LALIGA,22-23,1ccc0d2c
+7155e3e1,Pape Gueye,18,SEN,CM,24-012,82,0,0,0,0,1,0,0,0,37,4,1,2,0.1,0.1,0.0,0,0,23,26,88.5,3,23,0,0,0,Sevilla,2023-02-05 Barcelona-Sevilla,ESP-LALIGA,22-23,1ccc0d2c
+41f32541,Fernando,20,BRA,CB,35-195,8,0,0,0,0,0,0,0,0,12,0,1,0,0.0,0.0,0.0,0,0,10,11,90.9,1,10,0,0,0,Sevilla,2023-02-05 Barcelona-Sevilla,ESP-LALIGA,22-23,1ccc0d2c
+58a9a4d9,Óliver Torres,21,ESP,RM,28-087,45,0,0,0,0,0,0,0,0,16,0,0,1,0.0,0.0,0.0,0,0,10,12,83.3,1,8,0,2,0,Sevilla,2023-02-05 Barcelona-Sevilla,ESP-LALIGA,22-23,1ccc0d2c
+7b5ab7f2,Bryan Gil,25,ESP,LM,21-359,45,0,0,0,0,0,0,0,0,19,2,0,0,0.0,0.0,0.0,0,0,7,13,53.8,0,9,0,2,1,Sevilla,2023-02-05 Barcelona-Sevilla,ESP-LALIGA,22-23,1ccc0d2c
+81442ecb,Marcos Acuña,19,ARG,LB,31-100,64,0,0,0,0,0,0,0,0,37,8,1,1,0.0,0.0,0.0,0,0,21,25,84.0,2,13,0,1,0,Sevilla,2023-02-05 Barcelona-Sevilla,ESP-LALIGA,22-23,1ccc0d2c
+a08b974a,Lucas Ocampos,5,ARG,FW,28-209,26,0,0,0,0,1,1,0,0,7,0,0,1,0.0,0.0,0.0,0,0,3,5,60.0,0,2,1,1,1,Sevilla,2023-02-05 Barcelona-Sevilla,ESP-LALIGA,22-23,1ccc0d2c
+3376a776,Karim Rekik,4,NED,"CB,LB",28-065,90,0,0,0,0,0,0,0,0,41,0,0,1,0.0,0.0,0.0,0,0,34,37,91.9,1,27,0,0,0,Sevilla,2023-02-05 Barcelona-Sevilla,ESP-LALIGA,22-23,1ccc0d2c
+0076ab7f,Nemanja Gudelj,6,SRB,CB,31-081,90,0,0,0,0,0,0,0,0,45,1,0,1,0.0,0.0,0.0,0,0,30,34,88.2,1,24,1,1,1,Sevilla,2023-02-05 Barcelona-Sevilla,ESP-LALIGA,22-23,1ccc0d2c
+114bbdee,Loïc Bade,22,FRA,CB,22-300,90,0,0,0,0,0,0,0,0,69,1,2,2,0.0,0.0,0.0,0,0,45,55,81.8,2,37,1,1,1,Sevilla,2023-02-05 Barcelona-Sevilla,ESP-LALIGA,22-23,1ccc0d2c
+374d5158,Gonzalo Montiel,2,ARG,RB,26-035,90,0,0,0,0,0,0,0,0,55,1,2,1,0.0,0.0,0.0,1,0,34,48,70.8,1,28,1,1,1,Sevilla,2023-02-05 Barcelona-Sevilla,ESP-LALIGA,22-23,1ccc0d2c
+f6798fc3,Yassine Bounou,13,MAR,GK,31-306,90,0,0,0,0,0,0,0,0,41,0,0,0,0.0,0.0,0.0,0,0,27,39,69.2,0,25,0,0,0,Sevilla,2023-02-05 Barcelona-Sevilla,ESP-LALIGA,22-23,1ccc0d2c

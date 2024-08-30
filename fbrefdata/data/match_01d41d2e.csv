@@ -1,0 +1,29 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+8a08491a,Gonzalo Higuaín,9,ARG,FW,29-347,90,0,0,0,0,1,0,0,0,29,0,0,0,0.0,0.0,0.0,0,0,16,19,84.2,2,20,1,2,1,Juventus,2017-11-22 Juventus-Barcelona,UCL,17-18,01d41d2e
+4fa7cb9b,Douglas Costa,11,BRA,LW,27-069,84,0,0,0,0,2,1,0,0,40,1,0,0,0.1,0.1,0.0,1,0,29,35,82.9,2,34,4,4,4,Juventus,2017-11-22 Juventus-Barcelona,UCL,17-18,01d41d2e
+c0cddebe,Blaise Matuidi,14,FRA,LW,30-227,6,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,1,0,3,3,100.0,0,4,0,0,0,Juventus,2017-11-22 Juventus-Barcelona,UCL,17-18,01d41d2e
+0ab1f153,Juan Cuadrado,7,COL,RW,29-180,70,0,0,0,0,1,0,0,0,39,3,1,0,0.1,0.1,0.1,2,0,21,28,75.0,3,29,3,2,1,Juventus,2017-11-22 Juventus-Barcelona,UCL,17-18,01d41d2e
+e304acd5,Claudio Marchisio,8,ITA,RW,31-307,20,0,0,0,0,0,0,0,0,13,1,0,1,0.0,0.0,0.0,0,0,8,11,72.7,0,6,0,0,0,Juventus,2017-11-22 Juventus-Barcelona,UCL,17-18,01d41d2e
+e0921a4f,Paulo Dybala,10,ARG,AM,24-007,90,0,0,0,0,4,2,0,0,55,0,0,0,0.2,0.2,0.2,8,0,41,46,89.1,3,40,6,3,3,Juventus,2017-11-22 Juventus-Barcelona,UCL,17-18,01d41d2e
+ad6df2d5,Miralem Pjanić,5,BIH,DM,27-234,65,0,0,0,0,0,0,1,0,36,1,0,1,0.0,0.0,0.0,2,0,26,31,83.9,1,18,0,2,2,Juventus,2017-11-22 Juventus-Barcelona,UCL,17-18,01d41d2e
+3b8674e6,Rodrigo Bentancur,30,URU,DM,20-150,25,0,0,0,0,0,0,0,0,24,1,1,1,0.0,0.0,0.0,0,0,18,20,90.0,3,13,0,0,0,Juventus,2017-11-22 Juventus-Barcelona,UCL,17-18,01d41d2e
+38ac43d3,Sami Khedira,6,GER,DM,30-232,90,0,0,0,0,0,0,0,0,35,1,2,0,0.0,0.0,0.0,0,0,25,30,83.3,1,18,0,1,0,Juventus,2017-11-22 Juventus-Barcelona,UCL,17-18,01d41d2e
+0d82903c,Alex Sandro,12,BRA,LB,26-300,90,0,0,0,0,0,0,1,0,61,1,0,0,0.0,0.0,0.1,3,0,43,56,76.8,3,29,1,2,1,Juventus,2017-11-22 Juventus-Barcelona,UCL,17-18,01d41d2e
+14b8fcdf,Daniele Rugani,24,ITA,CB,23-116,90,0,0,0,0,1,0,0,0,46,1,0,2,0.1,0.1,0.0,0,0,28,39,71.8,0,23,1,0,0,Juventus,2017-11-22 Juventus-Barcelona,UCL,17-18,01d41d2e
+3b15ef2d,Medhi Benatia,4,MAR,CB,30-219,90,0,0,0,0,1,0,0,0,51,0,8,0,0.1,0.1,0.0,0,0,31,32,96.9,3,20,0,0,0,Juventus,2017-11-22 Juventus-Barcelona,UCL,17-18,01d41d2e
+7c0000fd,Andrea Barzagli,15,ITA,RB,36-198,90,0,0,0,0,0,0,0,0,58,0,1,1,0.0,0.0,0.0,0,0,46,54,85.2,6,34,0,1,0,Juventus,2017-11-22 Juventus-Barcelona,UCL,17-18,01d41d2e
+e40d028b,Gianluigi Buffon,1,ITA,GK,39-298,90,0,0,0,0,0,0,0,0,26,0,0,0,0.0,0.0,0.0,0,0,16,25,64.0,0,8,0,0,0,Juventus,2017-11-22 Juventus-Barcelona,UCL,17-18,01d41d2e
+a6154613,Luis Suárez,9,URU,FW,30-302,90,0,0,0,0,2,0,0,0,32,0,0,1,0.1,0.1,0.0,4,0,17,24,70.8,1,21,0,0,0,Barcelona,2017-11-22 Juventus-Barcelona,UCL,17-18,01d41d2e
+cfd65a29,Andrés Iniesta,8,ESP,"LW,LM",33-195,81,0,0,0,0,1,0,0,0,81,4,0,3,0.1,0.1,0.0,4,0,61,68,89.7,13,54,2,1,1,Barcelona,2017-11-22 Juventus-Barcelona,UCL,17-18,01d41d2e
+4601e194,Jordi Alba,18,ESP,LM,28-246,9,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,5,7,71.4,0,6,0,0,0,Barcelona,2017-11-22 Juventus-Barcelona,UCL,17-18,01d41d2e
+39583cfd,Gerard Deulofeu,16,ESP,RW,23-254,55,0,0,0,0,1,1,0,0,32,0,1,0,0.0,0.0,0.0,1,0,24,29,82.8,2,24,2,2,2,Barcelona,2017-11-22 Juventus-Barcelona,UCL,17-18,01d41d2e
+d70ce98e,Lionel Messi,10,ARG,FW,30-151,35,0,0,0,0,1,0,0,0,26,1,0,0,0.1,0.1,0.0,1,0,20,23,87.0,1,15,1,2,1,Barcelona,2017-11-22 Juventus-Barcelona,UCL,17-18,01d41d2e
+bb7337cc,Paulinho,15,BRA,"AM,CM",29-120,90,0,0,0,0,3,0,1,0,86,4,1,1,0.6,0.6,0.0,1,0,64,74,86.5,3,53,1,1,1,Barcelona,2017-11-22 Juventus-Barcelona,UCL,17-18,01d41d2e
+5ab0ea87,Sergio Busquets,5,ESP,"DM,CM",29-129,90,0,0,0,0,0,0,0,0,95,1,2,0,0.0,0.0,0.0,1,0,89,92,96.7,8,60,0,2,2,Barcelona,2017-11-22 Juventus-Barcelona,UCL,17-18,01d41d2e
+89f951b5,Ivan Rakitić,4,CRO,"DM,RM",29-257,90,0,0,0,0,0,0,0,0,89,0,1,1,0.0,0.0,0.1,1,0,74,81,91.4,5,44,0,1,0,Barcelona,2017-11-22 Juventus-Barcelona,UCL,17-18,01d41d2e
+1b84dbe1,Lucas Digne,19,FRA,LB,24-125,90,0,0,0,0,0,0,1,0,75,2,1,0,0.0,0.0,0.0,1,0,62,69,89.9,6,43,1,3,2,Barcelona,2017-11-22 Juventus-Barcelona,UCL,17-18,01d41d2e
+3eed9821,Samuel Umtiti,23,FRA,CB,24-008,90,0,0,0,0,0,0,0,0,88,2,2,0,0.0,0.0,0.0,0,0,73,83,88.0,8,62,3,0,0,Barcelona,2017-11-22 Juventus-Barcelona,UCL,17-18,01d41d2e
+adfc9123,Gerard Piqué,3,ESP,CB,30-293,90,0,0,0,0,1,0,1,0,85,2,1,0,0.1,0.1,0.0,0,0,69,79,87.3,2,49,0,0,0,Barcelona,2017-11-22 Juventus-Barcelona,UCL,17-18,01d41d2e
+d04b94db,Nélson Semedo,2,POR,RB,24-006,90,0,0,0,0,0,0,0,0,71,3,0,0,0.0,0.0,0.0,1,0,50,61,82.0,5,45,4,3,2,Barcelona,2017-11-22 Juventus-Barcelona,UCL,17-18,01d41d2e
+6f51e382,Marc-André ter Stegen,1,GER,GK,25-206,90,0,0,0,0,0,0,0,0,42,0,0,0,0.0,0.0,0.0,0,0,33,41,80.5,0,24,0,0,0,Barcelona,2017-11-22 Juventus-Barcelona,UCL,17-18,01d41d2e
