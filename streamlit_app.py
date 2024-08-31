@@ -12,6 +12,7 @@ import json
 import os
 import shutil
 import subprocess
+import zipfile
 from goalkeeper_comparision import get_stats_lists_gk, read_and_filter_stats_gk
 
 def get_available_leagues():
@@ -699,6 +700,24 @@ def copy_league_dict_json():
     source = 'league_dict.json'
     shutil.copy(source, league_dict_path)
 
+# Function to zip the data folder
+def zip_data_folder(source_dir, zip_name):
+    with zipfile.ZipFile(zip_name, 'w', zipfile.ZIP_DEFLATED) as zipf:
+        for root, dirs, files in os.walk(source_dir):
+            for file in files:
+                file_path = os.path.join(root, file)
+                zipf.write(file_path, os.path.relpath(file_path, source_dir))
+
+# Function to provide download link for the zip file
+def provide_download_link(zip_name):
+    with open(zip_name, 'rb') as f:
+        st.download_button(
+            label="Download Data Folder",
+            data=f,
+            file_name=zip_name,
+            mime='application/zip'
+        )
+
 def check_and_copy_folder():
     flag_file = 'folder_copied.flag'
     fbrefdata_dir = os.getenv('FBREFDATA_DIR', os.path.expanduser('~/fbrefdata/data'))
@@ -718,6 +737,10 @@ def check_and_copy_folder():
         delete_specific_files(fbrefdata_dir, 'teams')
         os.remove(flag_file)
         st.session_state['folder_copied'] = False
+    # Zip the data folder and provide download link
+    zip_name = 'data_folder.zip'
+    zip_data_folder(source_dir, zip_name)
+    provide_download_link(zip_name)
 
 # Initialize session state
 if 'folder_copied' not in st.session_state:
