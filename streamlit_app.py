@@ -701,8 +701,8 @@ def copy_league_dict_json():
 
 def check_and_copy_folder():
     flag_file = 'folder_copied.flag'
-    fbrefdata_dir = os.getenv('FBREFDATA_DIR', os.path.expanduser('~/fbrefdata'))
-    source_dir = os.path.join(os.getcwd(), 'fbrefdata')
+    fbrefdata_dir = os.getenv('FBREFDATA_DIR', os.path.expanduser('~/fbrefdata/data'))
+    source_dir = os.path.join(os.getcwd(), 'fbrefdata/data')
     
     if not os.path.exists(flag_file):
         copy_folder(source_dir, fbrefdata_dir)
