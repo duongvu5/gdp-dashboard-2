@@ -392,6 +392,7 @@ def player_season_compare():
         fbref = initialize_fbref(selected_league_key, season)
         
         if comparison_type == 'Outfielder':
+            st.write("Loading data for Outfielders...")
             stats_list, _, _ = get_stats_lists()
             df_list1, df_list2 = read_and_filter_stats(fbref, stats_list)
             param_mapping = {
@@ -552,6 +553,7 @@ def player_season_compare():
                 "Aerial Duels Won %": ['Aerial Duels', 'Won%']
             }
         else:
+            st.write("Loading data for Goalkeepers...")
             stats_list, _, _ = get_stats_lists_gk()
             df_list1, df_list2 = read_and_filter_stats_gk(fbref, stats_list)
             param_mapping = {
@@ -659,6 +661,10 @@ def player_season_compare():
     merged_df1 = st.session_state['merged_df1']
     merged_df2 = st.session_state['merged_df2']
 
+    # Debug: Display the first few rows of the merged DataFrames
+    st.write("Merged DataFrame 1", merged_df1.head())
+    st.write("Merged DataFrame 2", merged_df2.head())
+
     # Get list of players
     players = merged_df1['player'].unique().tolist()
     players.extend(merged_df2['player'].unique().tolist())
@@ -667,6 +673,9 @@ def player_season_compare():
     player1 = st.selectbox("Select the first player", players)
     player2 = st.selectbox("Select the second player", players)
     
+    # Debug: Display the param_mapping
+    st.write("Parameter Mapping", param_mapping)
+
     params = list(param_mapping.keys())
     selected_params = st.multiselect("Select parameters to compare (make sure to choose 3 or more parameters)", params, default=params[:5])
     
@@ -674,7 +683,6 @@ def player_season_compare():
     
     if st.button("Compare Players"):
         compare_players_and_create_radar(merged_df1, merged_df2, player1, player2, selected_params, param_mapping, lower_is_better_options)
-
 
 # Function to copy the folder
 def copy_folder(source_dir, dest_dir):
