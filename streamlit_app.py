@@ -682,6 +682,11 @@ def delete_specific_files(directory, pattern):
             file_path = os.path.join(directory, item)
             if os.path.isfile(file_path):
                 os.remove(file_path)
+                
+# Function to perform git pull
+def git_pull():
+    subprocess.run(['git', 'pull'])
+
 
 # Function to perform git operations
 def git_operations():
@@ -737,6 +742,10 @@ def check_and_copy_folder():
         delete_specific_files(fbrefdata_dir, 'teams')
         os.remove(flag_file)
         st.session_state['folder_copied'] = False
+
+        # Perform git pull to update the data
+        git_pull()
+    
     # Zip the data folder and provide download link
     zip_name = 'data_folder.zip'
     zip_data_folder(source_dir, zip_name)
