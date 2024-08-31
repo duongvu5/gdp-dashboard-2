@@ -689,6 +689,16 @@ def git_operations():
     subprocess.run(['git', 'push'])
 
 # Check if the folder has already been copied
+
+def copy_league_dict_json():
+    fbrefdata_dir = os.getenv('FBREFDATA_DIR', os.path.expanduser('~/fbrefdata'))
+    config_dir = os.path.join(fbrefdata_dir, 'config')
+    league_dict_path = os.path.join(config_dir, 'league_dict.json')
+    # Ensure the directory exists
+    os.makedirs(config_dir, exist_ok=True)
+    source = 'league_dict.json'
+    shutil.copy(source, league_dict_path)
+
 def check_and_copy_folder():
     flag_file = 'folder_copied.flag'
     fbrefdata_dir = os.getenv('FBREFDATA_DIR', os.path.expanduser('~/fbrefdata'))
@@ -696,6 +706,7 @@ def check_and_copy_folder():
     
     if not os.path.exists(flag_file):
         copy_folder(source_dir, fbrefdata_dir)
+        copy_league_dict_json()
         with open(flag_file, 'w') as f:
             f.write('Folder copied')
         st.session_state['folder_copied'] = True
