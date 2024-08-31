@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+72e442c5,Bojan Miovski,19,MKD,FW,25-066,63,0,0,0,0,1,0,0,0,14,1,0,1,0.0,0.0,0.0,2,1,8,9,88.9,1,6,0,0,0,Girona,2024-08-29 Girona-Osasuna,ESP-LALIGA,24-25,6e8b4c78
+220c11f1,Cristhian Stuani,7,URU,FW,37-322,27,1,0,0,0,1,1,0,0,6,0,0,0,0.9,0.9,0.0,0,0,3,5,60.0,0,3,0,0,0,Girona,2024-08-29 Girona-Osasuna,ESP-LALIGA,24-25,6e8b4c78
+6cbf8d0d,Abel Ruiz,9,ESP,FW,24-214,73,1,0,0,0,3,1,0,0,33,0,0,1,0.5,0.5,0.0,0,0,18,24,75.0,2,25,5,1,1,Girona,2024-08-29 Girona-Osasuna,ESP-LALIGA,24-25,6e8b4c78
+d139daf9,Yaser Asprilla,10,COL,"RM,FW",20-284,17,0,0,0,0,0,0,0,0,11,1,0,0,0.0,0.0,0.0,1,1,9,9,100.0,1,9,3,2,1,Girona,2024-08-29 Girona-Osasuna,ESP-LALIGA,24-25,6e8b4c78
+7b5ab7f2,Bryan Gil,20,ESP,LM,23-200,80,1,0,0,0,2,2,0,0,37,0,0,2,0.3,0.3,0.1,2,1,23,28,82.1,4,24,3,2,1,Girona,2024-08-29 Girona-Osasuna,ESP-LALIGA,24-25,6e8b4c78
+50dc94ce,Donny van de Beek,6,NED,FW,27-133,10,0,1,0,0,0,0,0,0,5,0,0,1,0.0,0.0,0.9,1,1,1,3,33.3,0,3,0,2,1,Girona,2024-08-29 Girona-Osasuna,ESP-LALIGA,24-25,6e8b4c78
+ae48c5cb,Iván Martín,23,ESP,CM,25-197,90,0,0,0,0,0,0,0,0,73,1,1,1,0.0,0.0,0.0,2,2,58,64,90.6,5,48,0,1,1,Girona,2024-08-29 Girona-Osasuna,ESP-LALIGA,24-25,6e8b4c78
+5083a734,Yangel Herrera,21,VEN,CM,26-228,63,0,1,0,0,0,0,0,0,56,2,2,0,0.0,0.0,0.0,1,1,47,51,92.2,8,28,0,0,0,Girona,2024-08-29 Girona-Osasuna,ESP-LALIGA,24-25,6e8b4c78
+4b511457,Oriol Romeu,14,ESP,CM,32-340,27,0,0,0,0,0,0,0,0,26,0,0,0,0.0,0.0,0.0,1,0,24,25,96.0,4,18,2,0,0,Girona,2024-08-29 Girona-Osasuna,ESP-LALIGA,24-25,6e8b4c78
+f7e87032,Viktor Tsyhankov,8,UKR,RM,26-288,80,1,1,0,0,2,1,0,0,56,0,0,0,0.6,0.6,0.3,2,1,37,50,74.0,1,32,2,1,0,Girona,2024-08-29 Girona-Osasuna,ESP-LALIGA,24-25,6e8b4c78
+1bda5842,Portu,24,ESP,LM,32-100,10,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,0,0,0,0,Girona,2024-08-29 Girona-Osasuna,ESP-LALIGA,24-25,6e8b4c78
+7e98cff1,Miguel Gutiérrez,3,ESP,LB,23-033,90,0,0,0,0,0,0,0,0,64,3,1,0,0.0,0.0,0.0,2,0,43,51,84.3,5,36,2,4,1,Girona,2024-08-29 Girona-Osasuna,ESP-LALIGA,24-25,6e8b4c78
+691bef82,Daley Blind,17,NED,CB,34-173,90,0,0,0,0,0,0,0,0,100,0,0,1,0.0,0.0,0.4,1,0,92,96,95.8,17,82,5,1,0,Girona,2024-08-29 Girona-Osasuna,ESP-LALIGA,24-25,6e8b4c78
+f03f284b,David López,5,ESP,CB,34-325,90,0,0,0,0,0,0,0,0,100,0,0,0,0.0,0.0,0.0,0,0,85,95,89.5,12,58,3,1,1,Girona,2024-08-29 Girona-Osasuna,ESP-LALIGA,24-25,6e8b4c78
+3e78a188,Alejandro Francés,16,ESP,RB,22-028,90,0,0,0,0,1,0,0,0,91,3,3,0,0.0,0.0,0.0,0,0,72,82,87.8,6,60,2,0,0,Girona,2024-08-29 Girona-Osasuna,ESP-LALIGA,24-25,6e8b4c78
+63d17038,Paulo Gazzaniga,13,ARG,GK,32-240,90,0,0,0,0,0,0,0,0,27,0,0,0,0.0,0.0,0.0,0,0,25,27,92.6,0,18,0,0,0,Girona,2024-08-29 Girona-Osasuna,ESP-LALIGA,24-25,6e8b4c78
+8f3565b3,Ante Budimir,17,CRO,FW,33-038,57,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,1,4,25.0,0,3,0,0,0,Osasuna,2024-08-29 Girona-Osasuna,ESP-LALIGA,24-25,6e8b4c78
+18f0a9f0,Raúl,9,ESP,FW,23-300,33,0,0,0,0,1,0,0,0,7,0,0,0,0.0,0.0,0.0,1,0,4,6,66.7,0,4,1,1,1,Osasuna,2024-08-29 Girona-Osasuna,ESP-LALIGA,24-25,6e8b4c78
+a96103b2,Bryan Zaragoza,19,ESP,LW,23-126,67,0,0,0,0,0,0,0,0,17,0,0,1,0.0,0.0,0.0,0,0,9,10,90.0,1,12,1,3,0,Osasuna,2024-08-29 Girona-Osasuna,ESP-LALIGA,24-25,6e8b4c78
+50cbc806,Iker Benito,27,ESP,LW,22-019,23,0,0,0,0,0,0,0,0,14,0,1,0,0.0,0.0,0.0,1,0,6,10,60.0,0,7,2,1,0,Osasuna,2024-08-29 Girona-Osasuna,ESP-LALIGA,24-25,6e8b4c78
+9939e168,Jon Moncayola,7,ESP,RW,26-108,58,0,0,0,0,0,0,0,0,17,3,0,0,0.0,0.0,0.0,0,0,7,13,53.8,2,11,1,0,0,Osasuna,2024-08-29 Girona-Osasuna,ESP-LALIGA,24-25,6e8b4c78
+5c96b017,Rubén García,14,ESP,RW,31-046,32,0,0,0,0,0,0,0,0,25,3,0,0,0.0,0.0,0.0,0,0,14,20,70.0,0,11,0,0,0,Osasuna,2024-08-29 Girona-Osasuna,ESP-LALIGA,24-25,6e8b4c78
+7c363088,Aimar Oroz,10,ESP,AM,22-276,58,0,0,0,0,0,0,0,0,22,1,1,1,0.0,0.0,0.0,0,0,15,16,93.8,1,16,0,2,1,Osasuna,2024-08-29 Girona-Osasuna,ESP-LALIGA,24-25,6e8b4c78
+3701906c,Pablo Ibáñez,8,ESP,AM,25-344,32,0,0,0,0,0,0,0,0,22,0,0,0,0.0,0.0,0.0,0,0,16,18,88.9,2,11,1,0,0,Osasuna,2024-08-29 Girona-Osasuna,ESP-LALIGA,24-25,6e8b4c78
+5a626448,Moi Gómez,16,ESP,DM,30-067,90,0,0,0,0,0,0,0,0,60,3,4,0,0.0,0.0,0.0,0,0,41,49,83.7,6,45,1,3,3,Osasuna,2024-08-29 Girona-Osasuna,ESP-LALIGA,24-25,6e8b4c78
+0e4fef6e,Lucas Torró,6,ESP,DM,30-041,84,0,0,0,0,0,0,0,0,42,2,2,2,0.0,0.0,0.0,0,0,32,35,91.4,1,25,0,1,1,Osasuna,2024-08-29 Girona-Osasuna,ESP-LALIGA,24-25,6e8b4c78
+3672b352,Javi Martínez,21,ESP,DM,24-251,6,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,0,0,9,9,100.0,1,6,0,0,0,Osasuna,2024-08-29 Girona-Osasuna,ESP-LALIGA,24-25,6e8b4c78
+a56da3ba,Juan Cruz Armada,3,ESP,LB,32-032,90,0,0,0,0,0,0,0,0,44,0,0,1,0.0,0.0,0.0,0,0,33,41,80.5,2,21,1,1,0,Osasuna,2024-08-29 Girona-Osasuna,ESP-LALIGA,24-25,6e8b4c78
+e19c989c,Jorge Herrando,5,ESP,CB,23-183,90,0,0,0,0,0,0,0,0,65,1,1,0,0.0,0.0,0.0,0,0,48,62,77.4,0,45,0,0,0,Osasuna,2024-08-29 Girona-Osasuna,ESP-LALIGA,24-25,6e8b4c78
+274ab13c,Catena,24,ESP,CB,29-306,90,0,0,0,0,0,0,0,0,49,1,0,2,0.0,0.0,0.0,0,0,40,42,95.2,1,30,0,0,0,Osasuna,2024-08-29 Girona-Osasuna,ESP-LALIGA,24-25,6e8b4c78
+3a9c4b7b,Nacho Vidal,2,ESP,RB,29-218,90,0,0,0,0,0,0,0,0,42,1,0,0,0.0,0.0,0.0,0,0,28,35,80.0,1,18,2,1,1,Osasuna,2024-08-29 Girona-Osasuna,ESP-LALIGA,24-25,6e8b4c78
+a4995f48,Sergio Herrera,1,ESP,GK,31-085,90,0,0,0,0,0,0,0,0,50,0,0,0,0.0,0.0,0.0,0,0,41,49,83.7,0,29,0,0,0,Osasuna,2024-08-29 Girona-Osasuna,ESP-LALIGA,24-25,6e8b4c78
