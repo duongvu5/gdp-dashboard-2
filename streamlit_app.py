@@ -735,8 +735,8 @@ def check_and_copy_folder():
         # Reverse copy after refresh
         copy_folder(fbrefdata_dir, source_dir)
         git_operations()
-        delete_specific_files(source_dir, 'teams')
-        delete_specific_files(fbrefdata_dir, 'teams')
+        delete_specific_files(source_dir, '24-25')
+        delete_specific_files(fbrefdata_dir, '24-25')
         os.remove(flag_file)
         st.session_state['folder_copied'] = False
     
