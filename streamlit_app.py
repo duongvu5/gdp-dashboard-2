@@ -365,6 +365,52 @@ def player_match_compare():
 
 
 
+# def player_season_compare():
+#     with open('league_dict.json', 'r') as f:
+#         league_dict = json.load(f)
+    
+#     # Create a mapping from league names to keys
+#     league_name_to_key = {v['FBref']: k for k, v in league_dict.items()}
+    
+#     # User selects the league
+#     league_options = list(league_name_to_key.keys())
+#     selected_league_name = st.selectbox("Select the league", league_options)
+    
+#     # Get the corresponding league key
+#     selected_league_key = league_name_to_key[selected_league_name]
+    
+#     # User selects the season
+#     season = st.selectbox("Select the season", ['2024-2025', '2023-2024', '2022-2023', '2021-2022', '2020-2021', '2019-2020', '2018-2019', '2017-2018'])
+#     fbref = initialize_fbref(selected_league_key, season)
+
+#     # User selects the type of comparison
+#     comparison_type = st.radio("Choose comparison type", ('Outfielder', 'Goalkeeper'))
+
+#     if comparison_type == 'Outfielder':
+#         stats_list, _, _ = get_stats_lists()
+#         df_list1, df_list2 = read_and_filter_stats(fbref, stats_list)
+        
+#     else:
+#         stats_list, _, _ = get_stats_lists_gk()
+#         df_list1, df_list2 = read_and_filter_stats_gk(fbref, stats_list)
+        
+#     merged_df1, merged_df2 = merge_dataframes(df_list1, df_list2)
+#     # Get list of players
+#     players = merged_df1['player'].unique().tolist()
+#     players.extend(merged_df2['player'].unique().tolist())
+#     players = list(set(players))  # Remove duplicates
+    
+#     player1 = st.selectbox("Select the first player", players)
+#     player2 = st.selectbox("Select the second player", players)
+    
+#     params = list(param_mapping.keys())
+#     selected_params = st.multiselect("Select parameters to compare (make sure to choose 3 or more parameters)", params, default=params[:5])
+    
+#     lower_is_better_options = st.multiselect("Select parameters where lower is better", params)
+    
+#     if st.button("Compare Players"):
+#         compare_players_and_create_radar(merged_df1, merged_df2, player1, player2, selected_params, param_mapping, lower_is_better_options)
+
 def player_season_compare():
     with open('league_dict.json', 'r') as f:
         league_dict = json.load(f)
@@ -374,274 +420,288 @@ def player_season_compare():
     
     # User selects the league
     league_options = list(league_name_to_key.keys())
-    selected_league_name = st.selectbox("Select the league", league_options)
+    selected_league_name = st.selectbox("Select the league", league_options, key='season_league')
     
     # Get the corresponding league key
     selected_league_key = league_name_to_key[selected_league_name]
     
     # User selects the season
-    season = st.selectbox("Select the season", ['2024-2025', '2023-2024', '2022-2023', '2021-2022', '2020-2021', '2019-2020', '2018-2019', '2017-2018'])
-    fbref = initialize_fbref(selected_league_key, season)
+    season = st.selectbox("Select the season", ['2024-2025', '2023-2024', '2022-2023', '2021-2022', '2020-2021', '2019-2020', '2018-2019', '2017-2018'], key='season_season')
 
     # User selects the type of comparison
     comparison_type = st.radio("Choose comparison type", ('Outfielder', 'Goalkeeper'))
 
-    if comparison_type == 'Outfielder':
-        stats_list, _, _ = get_stats_lists()
-        df_list1, df_list2 = read_and_filter_stats(fbref, stats_list)
-        param_mapping = {
-            "Goals": ['Performance', 'Gls'],
-            "Assists": ['Performance', 'Ast'],
-            "Goals + Assists": ['Performance', 'G+A'],
-            "Non-Penalty Goals": ['Performance', 'G-PK'],
-            "Penalty Goals": ['Performance', 'PK'],
-            'Penalty kick Attempts': ['Performance', 'PKatt'],
-            "Yellow Cards": ['Performance', 'CrdY'],
-            "Red Cards": ['Performance', 'CrdR'],
+    if 'season_data_loaded' not in st.session_state or st.session_state['selected_league_name'] != selected_league_name or st.session_state['season'] != season or st.session_state['comparison_type'] != comparison_type:
+        fbref = initialize_fbref(selected_league_key, season)
+        
+        if comparison_type == 'Outfielder':
+            stats_list, _, _ = get_stats_lists()
+            df_list1, df_list2 = read_and_filter_stats(fbref, stats_list)
+            param_mapping = {
+                "Goals": ['Performance', 'Gls'],
+                "Assists": ['Performance', 'Ast'],
+                "Goals + Assists": ['Performance', 'G+A'],
+                "Non-Penalty Goals": ['Performance', 'G-PK'],
+                "Penalty Goals": ['Performance', 'PK'],
+                'Penalty kick Attempts': ['Performance', 'PKatt'],
+                "Yellow Cards": ['Performance', 'CrdY'],
+                "Red Cards": ['Performance', 'CrdR'],
+    
+                "xG": ['Expected', 'xG'],
+                "npxG": ['Expected', 'npxG'],
+                "xAG": ['Expected', 'xAG'],
+                "npxG+xAG": ['Expected', 'npxG+xAG'],
+    
+                "Progressive Carries": ['Progression', 'PrgC'],
+                "Progressive Pass": ['Progression', 'PrgP'],
+                "Progressive Pass Received": ['Progression', 'PrgR'],
+                "Goals/90": ["Per 90 Minutes", "Gls"],
+                "Assists/90": ["Per 90 Minutes", "Ast"],
+                "Goals+Assists/90": ["Per 90 Minutes", "G+A"],
+                "Non-Penalty Goals/90": ["Per 90 Minutes", "G-PK"],
+                "Non-Penalty Goals + Assists/90": ["Per 90 Minutes", "G+A-PK"],
+                "xG/90": ["Per 90 Minutes", "xG"],
+                "xAG/90": ["Per 90 Minutes", "xAG"],
+                "xG+xAG/90": ["Per 90 Minutes", "xG+xAG"],
+                "npxG/90": ["Per 90 Minutes", "npxG"],
+                "npxG+xAG/90": ["Per 90 Minutes", "npxG+xAG"],
+    
+                "Key Passes": ['KP'],
+                "Through Balls": ['Pass Types', 'TB'],
+                "Shot-Creating Actions": ['SCA', 'SCA'],
+                "Goal-Creating Actions": ['GCA', 'GCA'],
+                "Touches In Attacking 1/3": ['Touches', 'Att 3rd'],
+                "Miscontrol": ['Carries', 'Mis'],
+                "Dispossessed": ['Carries', 'Dis'],
+    
+                "Shots": ['Standard', 'Sh'],
+                "Shots on Target": ['Standard', 'SoT'],
+                "Shots on Target %": ['Standard', 'SoT%'],
+                "Shots/90": ['Standard', 'Sh/90'],
+                "Shots on Target/90": ['Standard', 'SoT/90'],
+                "Goals per Shot": ['Standard', 'G/Sh'],
+                "Goals per Shot on Target": ['Standard', 'G/SoT'],
+                "Shot Distance": ['Standard', 'Dist'],
+                "Free Kick Goals": ['Standard', 'FK'],
+                "Penalty Attempts": ['Standard', 'PKatt'],
+    
+                "Total Passes Completed": ['Total', 'Cmp'],
+                "Total Passes Attempted": ['Total', 'Att'],
+                "Total Pass Completion %": ['Total', 'Cmp%'],
+                "Total Pass Distance": ['Total', 'TotDist'],
+                "Progressive Pass Distance": ['Total', 'PrgDist'],
+    
+                "Short Passes Completed": ['Short', 'Cmp'],
+                "Short Passes Attempted": ['Short', 'Att'],
+                "Short Pass Completion %": ['Short', 'Cmp%'],
+    
+                "Medium Passes Completed": ['Medium', 'Cmp'],
+                "Medium Passes Attempted": ['Medium', 'Att'],
+                "Medium Pass Completion %": ['Medium', 'Cmp%'],
+    
+                "Long Passes Completed": ['Long', 'Cmp'],
+                "Long Passes Attempted": ['Long', 'Att'],
+                "Long Pass Completion %": ['Long', 'Cmp%'],
+    
+                "Expected Assists": ['Expected', 'xA'],
+                "Assists minus xAG": ['Expected', 'A-xAG'],
+    
+                "Passes into Final Third": ['1/3'],
+                "Passes into Penalty Area": ['PPA'],
+                "Crosses into Penalty Area": ['CrsPA'],
+    
+                "Live Passes": ['Pass Types', 'Live'],
+                "Dead Passes": ['Pass Types', 'Dead'],
+                "Free Kick Passes": ['Pass Types', 'FK'],
+                "Switches": ['Pass Types', 'Sw'],
+                "Crosses": ['Pass Types', 'Crs'],
+                "Throw-ins": ['Pass Types', 'TI'],
+                "Corner Kicks": ['Pass Types', 'CK'],
+    
+                "In-swinging Corners": ['Corner Kicks', 'In'],
+                "Out-swinging Corners": ['Corner Kicks', 'Out'],
+                "Straight Corners": ['Corner Kicks', 'Str'],
+    
+                "Passes Completed": ['Outcomes', 'Cmp'],
+                "Passes Offside": ['Outcomes', 'Off'],
+                "Passes Blocked": ['Outcomes', 'Blocks'],
+    
+                "Shot-Creating Actions per 90": ['SCA', 'SCA90'],
+                "SCA from Live Passes": ['SCA Types', 'PassLive'],
+                "SCA from Dead Passes": ['SCA Types', 'PassDead'],
+                "SCA from Take-Ons": ['SCA Types', 'TO'],
+                "SCA from Shots": ['SCA Types', 'Sh'],
+                "SCA from Fouls Drawn": ['SCA Types', 'Fld'],
+                "SCA from Defensive Actions": ['SCA Types', 'Def'],
+    
+                "Goal-Creating Actions per 90": ['GCA', 'GCA90'],
+                "GCA from Live Passes": ['GCA Types', 'PassLive'],
+                "GCA from Dead Passes": ['GCA Types', 'PassDead'],
+                "GCA from Take-Ons": ['GCA Types', 'TO'],
+                "GCA from Shots": ['GCA Types', 'Sh'],
+                "GCA from Fouls Drawn": ['GCA Types', 'Fld'],
+                "GCA from Defensive Actions": ['GCA Types', 'Def'],
+    
+                "Tackles": ['Tackles', 'Tkl'],
+                "Tackles Won": ['Tackles', 'TklW'],
+                "Tackles in Defensive Third": ['Tackles', 'Def 3rd'],
+                "Tackles in Midfield Third": ['Tackles', 'Mid 3rd'],
+                "Tackles in Attacking Third": ['Tackles', 'Att 3rd'],
+    
+                "Challenges": ['Challenges', 'Tkl'],
+                "Challenges Attempted": ['Challenges', 'Att'],
+                "Challenge Success %": ['Challenges', 'Tkl%'],
+                "Challenges Lost": ['Challenges', 'Lost'],
+    
+                "Blocks": ['Blocks', 'Blocks'],
+                "Shots Blocked": ['Blocks', 'Sh'],
+                "Passes Blocked": ['Blocks', 'Pass'],
+    
+                "Interceptions": ['Int'],
+                "Tackles + Interceptions": ['Tkl+Int'],
+                "Clearances": ['Clr'],
+                "Errors": ['Err'],
+    
+                "Touches": ['Touches', 'Touches'],
+                "Touches in Defensive Penalty Area": ['Touches', 'Def Pen'],
+                "Touches in Defensive Third": ['Touches', 'Def 3rd'],
+                "Touches in Midfield Third": ['Touches', 'Mid 3rd'],
+                "Touches in Attacking Third": ['Touches', 'Att 3rd'],
+                "Touches in Attacking Penalty Area": ['Touches', 'Att Pen'],
+                "Live-Ball Touches": ['Touches', 'Live'],
+    
+                "Take-Ons Attempted": ['Take-Ons', 'Att'],
+                "Successful Take-Ons": ['Take-Ons', 'Succ'],
+                "Successful Take-On %": ['Take-Ons', 'Succ%'],
+                "Take-Ons Tkl": ['Take-Ons', 'Tkld'],
+                "Take-Ons Tkl %": ['Take-Ons', 'Tkld%'],
+    
+                "Carries": ['Carries', 'Carries'],
+                "Total Carry Distance": ['Carries', 'TotDist'],
+                "Progressive Carry Distance": ['Carries', 'PrgDist'],
+                "Carries into Final Third": ['Carries', '1/3'],
+                "Carries into Penalty Area": ['Carries', 'CPA'],
+    
+                "Passes Received": ['Receiving', 'Rec'],
+                "Progressive Passes Received": ['Receiving', 'PrgR'],
+    
+                "Penalty Kicks Won": ['Performance_df7', 'PKwon'],
+                "Penalty Kicks Conceded": ['Performance_df7', 'PKcon'],
+                "Own Goals": ['Performance_df7', 'OG'],
+                "Recoveries": ['Performance_df7', 'Recov'],
+    
+                "Aerial Duels Won": ['Aerial Duels', 'Won'],
+                "Aerial Duels Lost": ['Aerial Duels', 'Lost'],
+                "Aerial Duels Won %": ['Aerial Duels', 'Won%']
+            }
+        else:
+            stats_list, _, _ = get_stats_lists_gk()
+            df_list1, df_list2 = read_and_filter_stats_gk(fbref, stats_list)
+            param_mapping = {
+                "Goals Against": ['Performance', 'GA'],
+                "Goals Against per 90": ['Performance', 'GA90'],
+                "Shots on Target Against": ['Performance', 'SoTA'],
+                "Saves": ['Performance', 'Saves'],
+                "Save Percentage": ['Performance', 'Save%'],
+                "Clean Sheets": ['Performance', 'CS'],
+                "Clean Sheet Percentage": ['Performance', 'CS%'],
+                "Penalty Kicks Allowed": ['Penalty Kicks', 'PKA'],
+                "Penalty Kicks Saved": ['Penalty Kicks', 'PKsv'],
+                "Penalty Save Percentage": ['Penalty Kicks', 'Save%'],
+                "Post-Shot Expected Goals": ['Expected', 'PSxG'],
+                "Post-Shot Expected Goals per Shot on Target": ['Expected', 'PSxG/SoT'],
+                "Post-Shot Expected Goals +/-": ['Expected', 'PSxG+/-'],
+                "Post-Shot Expected Goals per 90": ['Expected', '/90'],
+                "Launched Passes Completed": ['Launched', 'Cmp'],
+                "Launched Passes Attempted": ['Launched', 'Att'],
+                "Launched Pass Completion Percentage": ['Launched', 'Cmp%'],
+                "Passes Attempted (GK)": ['Passes', 'Att (GK)'],
+                "Throws": ['Passes', 'Thr'],
+                "Launch Percentage": ['Passes', 'Launch%'],
+                "Average Pass Length": ['Passes', 'AvgLen'],
+                "Goal Kicks Attempted": ['Goal Kicks', 'Att'],
+                "Goal Kicks Launch Percentage": ['Goal Kicks', 'Launch%'],
+                "Average Goal Kick Length": ['Goal Kicks', 'AvgLen'],
+                "Crosses Faced": ['Crosses', 'Opp'],
+                "Crosses Stopped": ['Crosses', 'Stp'],
+                "Crosses Stopped Percentage": ['Crosses', 'Stp%'],
+                "Sweeper Actions": ['Sweeper', '#OPA'],
+                "Sweeper Actions per 90": ['Sweeper', '#OPA/90'],
+                "Average Sweeper Action Distance": ['Sweeper', 'AvgDist'],
+                "Minutes Played": ['Playing Time', 'Min'],
+                "Matches Played": ['Playing Time', 'MP'],
+                "Progressive Carries": ['Progression', 'PrgC'],
+                "Progressive Passes": ['Progression', 'PrgP'],
+                "Progressive Passes Received": ['Progression', 'PrgR'],
+                "Passes Completed": ['Total', 'Cmp'],
+                "Passes Attempted": ['Total', 'Att'],
+                "Pass Completion Percentage": ['Total', 'Cmp%'],
+                "Total Passing Distance": ['Total', 'TotDist'],
+                "Progressive Passing Distance": ['Total', 'PrgDist'],
+                "Short Passes Completed": ['Short', 'Cmp'],
+                "Short Passes Attempted": ['Short', 'Att'],
+                "Short Pass Completion Percentage": ['Short', 'Cmp%'],
+                "Medium Passes Completed": ['Medium', 'Cmp'],
+                "Medium Passes Attempted": ['Medium', 'Att'],
+                "Medium Pass Completion Percentage": ['Medium', 'Cmp%'],
+                "Long Passes Completed": ['Long', 'Cmp'],
+                "Long Passes Attempted": ['Long', 'Att'],
+                "Long Pass Completion Percentage": ['Long', 'Cmp%'],
+                "Key Passes": ['KP'],
+                "Passes into Final Third": ['1/3'],
+                "Passes into Penalty Area": ['PPA'],
+                "Shot-Creating Actions": ['SCA', 'SCA'],
+                "Shot-Creating Actions per 90": ['SCA', 'SCA90'],
+                "Goal-Creating Actions": ['GCA', 'GCA'],
+                "Goal-Creating Actions per 90": ['GCA', 'GCA90'],
+                "Tackles": ['Tackles', 'Tkl'],
+                "Tackles Won": ['Tackles', 'TklW'],
+                "Tackles in Defensive Third": ['Tackles', 'Def 3rd'],
+                "Challenges": ['Challenges', 'Tkl'],
+                "Challenges Attempted": ['Challenges', 'Att'],
+                "Challenge Success Percentage": ['Challenges', 'Tkl%'],
+                "Challenges Lost": ['Challenges', 'Lost'],
+                "Passes Blocked": ['Blocks', 'Pass'],
+                "Interceptions": ['Int'],
+                "Tackles + Interceptions": ['Tkl+Int'],
+                "Clearances": ['Clr'],
+                "Errors": ['Err'],
+                "Touches": ['Touches', 'Touches'],
+                "Touches in Defensive Penalty Area": ['Touches', 'Def Pen'],
+                "Touches in Defensive Third": ['Touches', 'Def 3rd'],
+                "Touches in Midfield Third": ['Touches', 'Mid 3rd'],
+                "Live-Ball Touches": ['Touches', 'Live'],
+                "Carries": ['Carries', 'Carries'],
+                "Total Carrying Distance": ['Carries', 'TotDist'],
+                "Progressive Carrying Distance": ['Carries', 'PrgDist'],
+                "Progressive Carries": ['Carries', 'PrgC'],
+                "Miscontrols": ['Carries', 'Mis'],
+                "Dispossessed": ['Carries', 'Dis'],
+                "Passes Received": ['Receiving', 'Rec'],
+                "Progressive Passes Received": ['Receiving', 'PrgR'],
+                "Fouls Committed": ['Performance_df7', 'Fls'],
+                "Fouls Drawn": ['Performance_df7', 'Fld'],
+                "Interceptions": ['Performance_df7', 'Int'],
+                "Penalty Kicks Conceded": ['Performance_df7', 'PKcon'],
+                "Own Goals": ['Performance_df7', 'OG'],
+                "Recoveries": ['Performance_df7', 'Recov'],
+                "Aerial Duels Won": ['Aerial Duels', 'Won'],
+                "Aerial Duels Lost": ['Aerial Duels', 'Lost'],
+                "Aerial Duels Win Percentage": ['Aerial Duels', 'Won%']
+            }
 
-            "xG": ['Expected', 'xG'],
-            "npxG": ['Expected', 'npxG'],
-            "xAG": ['Expected', 'xAG'],
-            "npxG+xAG": ['Expected', 'npxG+xAG'],
+        merged_df1, merged_df2 = merge_dataframes(df_list1, df_list2)
 
-            "Progressive Carries": ['Progression', 'PrgC'],
-            "Progressive Pass": ['Progression', 'PrgP'],
-            "Progressive Pass Received": ['Progression', 'PrgR'],
-            "Goals/90": ["Per 90 Minutes", "Gls"],
-            "Assists/90": ["Per 90 Minutes", "Ast"],
-            "Goals+Assists/90": ["Per 90 Minutes", "G+A"],
-            "Non-Penalty Goals/90": ["Per 90 Minutes", "G-PK"],
-            "Non-Penalty Goals + Assists/90": ["Per 90 Minutes", "G+A-PK"],
-            "xG/90": ["Per 90 Minutes", "xG"],
-            "xAG/90": ["Per 90 Minutes", "xAG"],
-            "xG+xAG/90": ["Per 90 Minutes", "xG+xAG"],
-            "npxG/90": ["Per 90 Minutes", "npxG"],
-            "npxG+xAG/90": ["Per 90 Minutes", "npxG+xAG"],
+        st.session_state['season_data_loaded'] = True
+        st.session_state['merged_df1'] = merged_df1
+        st.session_state['merged_df2'] = merged_df2
+        st.session_state['selected_league_name'] = selected_league_name
+        st.session_state['season'] = season
+        st.session_state['comparison_type'] = comparison_type
 
-            "Key Passes": ['KP'],
-            "Through Balls": ['Pass Types', 'TB'],
-            "Shot-Creating Actions": ['SCA', 'SCA'],
-            "Goal-Creating Actions": ['GCA', 'GCA'],
-            "Touches In Attacking 1/3": ['Touches', 'Att 3rd'],
-            "Miscontrol": ['Carries', 'Mis'],
-            "Dispossessed": ['Carries', 'Dis'],
+    merged_df1 = st.session_state['merged_df1']
+    merged_df2 = st.session_state['merged_df2']
 
-            "Shots": ['Standard', 'Sh'],
-            "Shots on Target": ['Standard', 'SoT'],
-            "Shots on Target %": ['Standard', 'SoT%'],
-            "Shots/90": ['Standard', 'Sh/90'],
-            "Shots on Target/90": ['Standard', 'SoT/90'],
-            "Goals per Shot": ['Standard', 'G/Sh'],
-            "Goals per Shot on Target": ['Standard', 'G/SoT'],
-            "Shot Distance": ['Standard', 'Dist'],
-            "Free Kick Goals": ['Standard', 'FK'],
-            "Penalty Attempts": ['Standard', 'PKatt'],
-
-            "Total Passes Completed": ['Total', 'Cmp'],
-            "Total Passes Attempted": ['Total', 'Att'],
-            "Total Pass Completion %": ['Total', 'Cmp%'],
-            "Total Pass Distance": ['Total', 'TotDist'],
-            "Progressive Pass Distance": ['Total', 'PrgDist'],
-
-            "Short Passes Completed": ['Short', 'Cmp'],
-            "Short Passes Attempted": ['Short', 'Att'],
-            "Short Pass Completion %": ['Short', 'Cmp%'],
-
-            "Medium Passes Completed": ['Medium', 'Cmp'],
-            "Medium Passes Attempted": ['Medium', 'Att'],
-            "Medium Pass Completion %": ['Medium', 'Cmp%'],
-
-            "Long Passes Completed": ['Long', 'Cmp'],
-            "Long Passes Attempted": ['Long', 'Att'],
-            "Long Pass Completion %": ['Long', 'Cmp%'],
-
-            "Expected Assists": ['Expected', 'xA'],
-            "Assists minus xAG": ['Expected', 'A-xAG'],
-
-            "Passes into Final Third": ['1/3'],
-            "Passes into Penalty Area": ['PPA'],
-            "Crosses into Penalty Area": ['CrsPA'],
-
-            "Live Passes": ['Pass Types', 'Live'],
-            "Dead Passes": ['Pass Types', 'Dead'],
-            "Free Kick Passes": ['Pass Types', 'FK'],
-            "Switches": ['Pass Types', 'Sw'],
-            "Crosses": ['Pass Types', 'Crs'],
-            "Throw-ins": ['Pass Types', 'TI'],
-            "Corner Kicks": ['Pass Types', 'CK'],
-
-            "In-swinging Corners": ['Corner Kicks', 'In'],
-            "Out-swinging Corners": ['Corner Kicks', 'Out'],
-            "Straight Corners": ['Corner Kicks', 'Str'],
-
-            "Passes Completed": ['Outcomes', 'Cmp'],
-            "Passes Offside": ['Outcomes', 'Off'],
-            "Passes Blocked": ['Outcomes', 'Blocks'],
-
-            "Shot-Creating Actions per 90": ['SCA', 'SCA90'],
-            "SCA from Live Passes": ['SCA Types', 'PassLive'],
-            "SCA from Dead Passes": ['SCA Types', 'PassDead'],
-            "SCA from Take-Ons": ['SCA Types', 'TO'],
-            "SCA from Shots": ['SCA Types', 'Sh'],
-            "SCA from Fouls Drawn": ['SCA Types', 'Fld'],
-            "SCA from Defensive Actions": ['SCA Types', 'Def'],
-
-            "Goal-Creating Actions per 90": ['GCA', 'GCA90'],
-            "GCA from Live Passes": ['GCA Types', 'PassLive'],
-            "GCA from Dead Passes": ['GCA Types', 'PassDead'],
-            "GCA from Take-Ons": ['GCA Types', 'TO'],
-            "GCA from Shots": ['GCA Types', 'Sh'],
-            "GCA from Fouls Drawn": ['GCA Types', 'Fld'],
-            "GCA from Defensive Actions": ['GCA Types', 'Def'],
-
-            "Tackles": ['Tackles', 'Tkl'],
-            "Tackles Won": ['Tackles', 'TklW'],
-            "Tackles in Defensive Third": ['Tackles', 'Def 3rd'],
-            "Tackles in Midfield Third": ['Tackles', 'Mid 3rd'],
-            "Tackles in Attacking Third": ['Tackles', 'Att 3rd'],
-
-            "Challenges": ['Challenges', 'Tkl'],
-            "Challenges Attempted": ['Challenges', 'Att'],
-            "Challenge Success %": ['Challenges', 'Tkl%'],
-            "Challenges Lost": ['Challenges', 'Lost'],
-
-            "Blocks": ['Blocks', 'Blocks'],
-            "Shots Blocked": ['Blocks', 'Sh'],
-            "Passes Blocked": ['Blocks', 'Pass'],
-
-            "Interceptions": ['Int'],
-            "Tackles + Interceptions": ['Tkl+Int'],
-            "Clearances": ['Clr'],
-            "Errors": ['Err'],
-
-            "Touches": ['Touches', 'Touches'],
-            "Touches in Defensive Penalty Area": ['Touches', 'Def Pen'],
-            "Touches in Defensive Third": ['Touches', 'Def 3rd'],
-            "Touches in Midfield Third": ['Touches', 'Mid 3rd'],
-            "Touches in Attacking Third": ['Touches', 'Att 3rd'],
-            "Touches in Attacking Penalty Area": ['Touches', 'Att Pen'],
-            "Live-Ball Touches": ['Touches', 'Live'],
-
-            "Take-Ons Attempted": ['Take-Ons', 'Att'],
-            "Successful Take-Ons": ['Take-Ons', 'Succ'],
-            "Successful Take-On %": ['Take-Ons', 'Succ%'],
-            "Take-Ons Tkl": ['Take-Ons', 'Tkld'],
-            "Take-Ons Tkl %": ['Take-Ons', 'Tkld%'],
-
-            "Carries": ['Carries', 'Carries'],
-            "Total Carry Distance": ['Carries', 'TotDist'],
-            "Progressive Carry Distance": ['Carries', 'PrgDist'],
-            "Carries into Final Third": ['Carries', '1/3'],
-            "Carries into Penalty Area": ['Carries', 'CPA'],
-
-            "Passes Received": ['Receiving', 'Rec'],
-            "Progressive Passes Received": ['Receiving', 'PrgR'],
-
-            "Penalty Kicks Won": ['Performance_df7', 'PKwon'],
-            "Penalty Kicks Conceded": ['Performance_df7', 'PKcon'],
-            "Own Goals": ['Performance_df7', 'OG'],
-            "Recoveries": ['Performance_df7', 'Recov'],
-
-            "Aerial Duels Won": ['Aerial Duels', 'Won'],
-            "Aerial Duels Lost": ['Aerial Duels', 'Lost'],
-            "Aerial Duels Won %": ['Aerial Duels', 'Won%']
-        }
-    else:
-        stats_list, _, _ = get_stats_lists_gk()
-        df_list1, df_list2 = read_and_filter_stats_gk(fbref, stats_list)
-        param_mapping = {
-            "Goals Against": ['Performance', 'GA'],
-            "Goals Against per 90": ['Performance', 'GA90'],
-            "Shots on Target Against": ['Performance', 'SoTA'],
-            "Saves": ['Performance', 'Saves'],
-            "Save Percentage": ['Performance', 'Save%'],
-            "Clean Sheets": ['Performance', 'CS'],
-            "Clean Sheet Percentage": ['Performance', 'CS%'],
-            "Penalty Kicks Allowed": ['Penalty Kicks', 'PKA'],
-            "Penalty Kicks Saved": ['Penalty Kicks', 'PKsv'],
-            "Penalty Save Percentage": ['Penalty Kicks', 'Save%'],
-            "Post-Shot Expected Goals": ['Expected', 'PSxG'],
-            "Post-Shot Expected Goals per Shot on Target": ['Expected', 'PSxG/SoT'],
-            "Post-Shot Expected Goals +/-": ['Expected', 'PSxG+/-'],
-            "Post-Shot Expected Goals per 90": ['Expected', '/90'],
-            "Launched Passes Completed": ['Launched', 'Cmp'],
-            "Launched Passes Attempted": ['Launched', 'Att'],
-            "Launched Pass Completion Percentage": ['Launched', 'Cmp%'],
-            "Passes Attempted (GK)": ['Passes', 'Att (GK)'],
-            "Throws": ['Passes', 'Thr'],
-            "Launch Percentage": ['Passes', 'Launch%'],
-            "Average Pass Length": ['Passes', 'AvgLen'],
-            "Goal Kicks Attempted": ['Goal Kicks', 'Att'],
-            "Goal Kicks Launch Percentage": ['Goal Kicks', 'Launch%'],
-            "Average Goal Kick Length": ['Goal Kicks', 'AvgLen'],
-            "Crosses Faced": ['Crosses', 'Opp'],
-            "Crosses Stopped": ['Crosses', 'Stp'],
-            "Crosses Stopped Percentage": ['Crosses', 'Stp%'],
-            "Sweeper Actions": ['Sweeper', '#OPA'],
-            "Sweeper Actions per 90": ['Sweeper', '#OPA/90'],
-            "Average Sweeper Action Distance": ['Sweeper', 'AvgDist'],
-            "Minutes Played": ['Playing Time', 'Min'],
-            "Matches Played": ['Playing Time', 'MP'],
-            "Progressive Carries": ['Progression', 'PrgC'],
-            "Progressive Passes": ['Progression', 'PrgP'],
-            "Progressive Passes Received": ['Progression', 'PrgR'],
-            "Passes Completed": ['Total', 'Cmp'],
-            "Passes Attempted": ['Total', 'Att'],
-            "Pass Completion Percentage": ['Total', 'Cmp%'],
-            "Total Passing Distance": ['Total', 'TotDist'],
-            "Progressive Passing Distance": ['Total', 'PrgDist'],
-            "Short Passes Completed": ['Short', 'Cmp'],
-            "Short Passes Attempted": ['Short', 'Att'],
-            "Short Pass Completion Percentage": ['Short', 'Cmp%'],
-            "Medium Passes Completed": ['Medium', 'Cmp'],
-            "Medium Passes Attempted": ['Medium', 'Att'],
-            "Medium Pass Completion Percentage": ['Medium', 'Cmp%'],
-            "Long Passes Completed": ['Long', 'Cmp'],
-            "Long Passes Attempted": ['Long', 'Att'],
-            "Long Pass Completion Percentage": ['Long', 'Cmp%'],
-            "Key Passes": ['KP'],
-            "Passes into Final Third": ['1/3'],
-            "Passes into Penalty Area": ['PPA'],
-            "Shot-Creating Actions": ['SCA', 'SCA'],
-            "Shot-Creating Actions per 90": ['SCA', 'SCA90'],
-            "Goal-Creating Actions": ['GCA', 'GCA'],
-            "Goal-Creating Actions per 90": ['GCA', 'GCA90'],
-            "Tackles": ['Tackles', 'Tkl'],
-            "Tackles Won": ['Tackles', 'TklW'],
-            "Tackles in Defensive Third": ['Tackles', 'Def 3rd'],
-            "Challenges": ['Challenges', 'Tkl'],
-            "Challenges Attempted": ['Challenges', 'Att'],
-            "Challenge Success Percentage": ['Challenges', 'Tkl%'],
-            "Challenges Lost": ['Challenges', 'Lost'],
-            "Passes Blocked": ['Blocks', 'Pass'],
-            "Interceptions": ['Int'],
-            "Tackles + Interceptions": ['Tkl+Int'],
-            "Clearances": ['Clr'],
-            "Errors": ['Err'],
-            "Touches": ['Touches', 'Touches'],
-            "Touches in Defensive Penalty Area": ['Touches', 'Def Pen'],
-            "Touches in Defensive Third": ['Touches', 'Def 3rd'],
-            "Touches in Midfield Third": ['Touches', 'Mid 3rd'],
-            "Live-Ball Touches": ['Touches', 'Live'],
-            "Carries": ['Carries', 'Carries'],
-            "Total Carrying Distance": ['Carries', 'TotDist'],
-            "Progressive Carrying Distance": ['Carries', 'PrgDist'],
-            "Progressive Carries": ['Carries', 'PrgC'],
-            "Miscontrols": ['Carries', 'Mis'],
-            "Dispossessed": ['Carries', 'Dis'],
-            "Passes Received": ['Receiving', 'Rec'],
-            "Progressive Passes Received": ['Receiving', 'PrgR'],
-            "Fouls Committed": ['Performance_df7', 'Fls'],
-            "Fouls Drawn": ['Performance_df7', 'Fld'],
-            "Interceptions": ['Performance_df7', 'Int'],
-            "Penalty Kicks Conceded": ['Performance_df7', 'PKcon'],
-            "Own Goals": ['Performance_df7', 'OG'],
-            "Recoveries": ['Performance_df7', 'Recov'],
-            "Aerial Duels Won": ['Aerial Duels', 'Won'],
-            "Aerial Duels Lost": ['Aerial Duels', 'Lost'],
-            "Aerial Duels Win Percentage": ['Aerial Duels', 'Won%']
-        }
-    merged_df1, merged_df2 = merge_dataframes(df_list1, df_list2)
     # Get list of players
     players = merged_df1['player'].unique().tolist()
     players.extend(merged_df2['player'].unique().tolist())
@@ -657,6 +717,8 @@ def player_season_compare():
     
     if st.button("Compare Players"):
         compare_players_and_create_radar(merged_df1, merged_df2, player1, player2, selected_params, param_mapping, lower_is_better_options)
+
+
 
 # Function to copy the folder
 def copy_folder(source_dir, dest_dir):
