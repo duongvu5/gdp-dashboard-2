@@ -769,8 +769,9 @@ def main():
 
     if comparison_choice == 'Player in Season':
         # Call the function for comparing players in matches
-        player_season_compare()
         provide_download_link()
+        player_season_compare()
+        
     elif comparison_choice == 'Player in Matches':
         # Call the function for comparing players in season
         player_match_compare()
