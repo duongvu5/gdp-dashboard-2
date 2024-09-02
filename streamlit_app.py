@@ -381,14 +381,30 @@ def player_season_compare():
     
     # User selects the season
     season = st.selectbox("Select the season", ['2024-2025', '2023-2024', '2022-2023', '2021-2022', '2020-2021', '2019-2020', '2018-2019', '2017-2018'])
-    fbref = initialize_fbref(selected_league_key, season)
-
+    
+    if 'player_season_data' not in st.session_state:
+        with st.spinner('Loading data...'):
+            fbref = initialize_fbref(selected_league_key, season)
+            st.session_state['player_season_data'] = fbref
+    
     # User selects the type of comparison
     comparison_type = st.radio("Choose comparison type", ('Outfielder', 'Goalkeeper'))
 
     if comparison_type == 'Outfielder':
-        stats_list, _, _ = get_stats_lists()
-        df_list1, df_list2 = read_and_filter_stats(fbref, stats_list)
+        if 'outfielder_data' not in st.session_state:
+            with st.spinner('Loading outfielder data...'):
+                stats_list, _, _ = get_stats_lists()
+                df_list1, df_list2 = read_and_filter_stats(st.session_state['player_season_data'], stats_list)
+                st.session_state['merged_df1'], st.session_state['merged_df2'] = merge_dataframes(df_list1, df_list2)
+        
+        # Get list of players
+        players = st.session_state['merged_df1']['player'].unique().tolist()
+        players.extend(st.session_state['merged_df2']['player'].unique().tolist())
+        players = list(set(players))  # Remove duplicates
+        
+        player1 = st.selectbox("Select the first player", players)
+        player2 = st.selectbox("Select the second player", players)
+        
         param_mapping = {
             "Goals": ['Performance', 'Gls'],
             "Assists": ['Performance', 'Ast'],
@@ -546,9 +562,37 @@ def player_season_compare():
             "Aerial Duels Lost": ['Aerial Duels', 'Lost'],
             "Aerial Duels Won %": ['Aerial Duels', 'Won%']
         }
-    else:
-        stats_list, _, _ = get_stats_lists_gk()
-        df_list1, df_list2 = read_and_filter_stats_gk(fbref, stats_list)
+        
+        params = list(param_mapping.keys())
+        selected_params = st.multiselect("Select parameters to compare (make sure to choose 3 or more parameters)", params, default=params[:5])
+        
+        lower_is_better_options = st.multiselect("Select parameters where lower is better", params)
+        
+        if st.button("Compare Players in Season"):
+            compare_players_and_create_radar(
+                st.session_state['merged_df1'], 
+                st.session_state['merged_df2'], 
+                player1, 
+                player2, 
+                selected_params, 
+                param_mapping, 
+                lower_is_better_options
+            )
+    elif comparison_type == 'Goalkeeper':
+        if 'goalkeeper_data' not in st.session_state:
+            with st.spinner('Loading goalkeeper data...'):
+                stats_list, _, _ = get_stats_lists_gk()
+                df_list1, df_list2 = read_and_filter_stats_gk(st.session_state['player_season_data'], stats_list)
+                st.session_state['merged_df1'], st.session_state['merged_df2'] = merge_dataframes(df_list1, df_list2)
+        
+        # Get list of players
+        players = st.session_state['merged_df1']['player'].unique().tolist()
+        players.extend(st.session_state['merged_df2']['player'].unique().tolist())
+        players = list(set(players))  # Remove duplicates
+        
+        player1 = st.selectbox("Select the first player", players)
+        player2 = st.selectbox("Select the second player", players)
+        
         param_mapping = {
             "Goals Against": ['Performance', 'GA'],
             "Goals Against per 90": ['Performance', 'GA90'],
@@ -641,22 +685,22 @@ def player_season_compare():
             "Aerial Duels Lost": ['Aerial Duels', 'Lost'],
             "Aerial Duels Win Percentage": ['Aerial Duels', 'Won%']
         }
-    merged_df1, merged_df2 = merge_dataframes(df_list1, df_list2)
-    # Get list of players
-    players = merged_df1['player'].unique().tolist()
-    players.extend(merged_df2['player'].unique().tolist())
-    players = list(set(players))  # Remove duplicates
-    
-    player1 = st.selectbox("Select the first player", players)
-    player2 = st.selectbox("Select the second player", players)
-    
-    params = list(param_mapping.keys())
-    selected_params = st.multiselect("Select parameters to compare (make sure to choose 3 or more parameters)", params, default=params[:5])
-    
-    lower_is_better_options = st.multiselect("Select parameters where lower is better", params)
-    
-    if st.button("Compare Players"):
-        compare_players_and_create_radar(merged_df1, merged_df2, player1, player2, selected_params, param_mapping, lower_is_better_options)
+        
+        params = list(param_mapping.keys())
+        selected_params = st.multiselect("Select parameters to compare (make sure to choose 3 or more parameters)", params, default=params[:5])
+        
+        lower_is_better_options = st.multiselect("Select parameters where lower is better", params)
+        
+        if st.button("Compare Players in Season"):
+            compare_players_and_create_radar(
+                st.session_state['merged_df1'], 
+                st.session_state['merged_df2'], 
+                player1, 
+                player2, 
+                selected_params, 
+                param_mapping, 
+                lower_is_better_options
+            )
 
 # Function to copy the folder
 def copy_folder(source_dir, dest_dir):
@@ -771,15 +815,14 @@ def main():
         
 
         
-        # Zip the data folder and provide download link
-        source_dir = os.getenv('FBREFDATA_DIR', os.path.expanduser('~/fbrefdata/data'))
-        zip_name = 'data_folder.zip'
-        zip_data_folder(source_dir, zip_name)
-        provide_download_link(zip_name)
-
-        # Call the function for comparing players in matches
+        # # Zip the data folder and provide download link
+        # source_dir = os.getenv('FBREFDATA_DIR', os.path.expanduser('~/fbrefdata/data'))
+        # zip_name = 'data_folder.zip'
+        # zip_data_folder(source_dir, zip_name)
+        # provide_download_link(zip_name)
         player_season_compare()
-        
+            
+            
     elif comparison_choice == 'Player in Matches':
         # Call the function for comparing players in season
         player_match_compare()
