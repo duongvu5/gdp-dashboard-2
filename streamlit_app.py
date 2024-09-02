@@ -772,6 +772,7 @@ def main():
 
         
         # Zip the data folder and provide download link
+        source_dir = os.getenv('FBREFDATA_DIR', os.path.expanduser('~/fbrefdata/data'))
         zip_name = 'data_folder.zip'
         zip_data_folder(source_dir, zip_name)
         provide_download_link(zip_name)
