@@ -1,0 +1,32 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+f7036e1c,Lautaro Martínez,10,ARG,FW,27-008,82,0,0,0,0,1,0,0,0,26,1,0,0,0.1,0.1,0.0,2,0,16,21,76.2,2,24,1,2,1,Internazionale,2024-08-30 Inter-Atalanta,ITA-SERIA_A,24-25,adc30b79
+00459419,Marko Arnautović,8,AUT,FW,35-133,8,0,0,0,0,1,0,0,0,7,0,0,0,0.5,0.5,0.0,0,0,2,5,40.0,0,7,1,0,0,Internazionale,2024-08-30 Inter-Atalanta,ITA-SERIA_A,24-25,adc30b79
+6f8cd6d0,Marcus Thuram,9,FRA,FW,27-024,78,2,0,0,0,4,2,0,0,29,1,0,0,0.5,0.5,0.1,3,1,14,17,82.4,5,17,1,4,0,Internazionale,2024-08-30 Inter-Atalanta,ITA-SERIA_A,24-25,adc30b79
+4c2a5d34,Mehdi Taremi,99,IRN,FW,32-043,12,0,0,0,0,0,0,0,0,6,1,0,0,0.0,0.0,0.0,0,0,4,5,80.0,1,5,1,0,0,Internazionale,2024-08-30 Inter-Atalanta,ITA-SERIA_A,24-25,adc30b79
+dd0daf32,Henrikh Mkhitaryan,22,ARM,CM,35-222,90,0,0,0,0,1,0,0,0,62,0,0,2,0.1,0.1,0.0,2,0,49,53,92.5,3,42,3,3,0,Internazionale,2024-08-30 Inter-Atalanta,ITA-SERIA_A,24-25,adc30b79
+cd0fa27b,Hakan Çalhanoğlu,20,TUR,CM,30-204,60,0,0,0,0,1,1,0,0,54,2,0,0,0.0,0.0,0.1,3,1,47,48,97.9,4,32,0,1,1,Internazionale,2024-08-30 Inter-Atalanta,ITA-SERIA_A,24-25,adc30b79
+0fdcef0e,Kristjan Asllani,21,ALB,CM,22-174,30,0,0,0,0,1,0,0,0,23,1,0,1,0.1,0.1,0.5,2,0,16,17,94.1,0,15,0,0,0,Internazionale,2024-08-30 Inter-Atalanta,ITA-SERIA_A,24-25,adc30b79
+6928979a,Nicolò Barella,23,ITA,CM,27-205,78,1,0,0,0,2,1,0,0,57,1,0,2,0.1,0.1,0.1,2,0,41,52,78.8,4,42,1,2,2,Internazionale,2024-08-30 Inter-Atalanta,ITA-SERIA_A,24-25,adc30b79
+2a7d27c1,Davide Frattesi,16,ITA,CM,24-313,12,0,0,0,0,1,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,2,1,0,0,Internazionale,2024-08-30 Inter-Atalanta,ITA-SERIA_A,24-25,adc30b79
+970b8574,Federico Dimarco,32,ITA,WB,26-294,90,0,0,0,0,1,0,0,0,46,2,0,1,0.0,0.0,0.1,5,0,33,38,86.8,1,26,3,0,0,Internazionale,2024-08-30 Inter-Atalanta,ITA-SERIA_A,24-25,adc30b79
+96e0490d,Matteo Darmian,36,ITA,WB,34-272,90,0,0,0,0,0,0,0,0,51,3,0,0,0.0,0.0,0.0,1,0,40,44,90.9,0,28,0,0,0,Internazionale,2024-08-30 Inter-Atalanta,ITA-SERIA_A,24-25,adc30b79
+75b86fb3,Alessandro Bastoni,95,ITA,CB,25-139,60,0,0,0,0,0,0,0,0,57,2,1,0,0.0,0.0,0.0,1,1,48,54,88.9,4,32,0,0,0,Internazionale,2024-08-30 Inter-Atalanta,ITA-SERIA_A,24-25,adc30b79
+8d3cd59d,Carlos Augusto,30,BRA,CB,25-236,30,0,0,0,0,0,0,0,0,20,1,0,0,0.0,0.0,0.0,1,0,13,17,76.5,0,8,0,0,0,Internazionale,2024-08-30 Inter-Atalanta,ITA-SERIA_A,24-25,adc30b79
+b96b595c,Francesco Acerbi,15,ITA,CB,36-202,90,0,0,0,0,0,0,0,0,48,1,2,2,0.0,0.0,0.0,0,0,37,39,94.9,0,36,1,0,0,Internazionale,2024-08-30 Inter-Atalanta,ITA-SERIA_A,24-25,adc30b79
+45a03961,Benjamin Pavard,28,FRA,CB,28-155,90,0,1,0,0,0,0,0,0,78,1,0,2,0.0,0.0,0.0,0,0,68,73,93.2,2,58,1,0,0,Internazionale,2024-08-30 Inter-Atalanta,ITA-SERIA_A,24-25,adc30b79
+420c18a1,Yann Sommer,1,SUI,GK,35-257,90,0,0,0,0,0,0,0,0,67,0,0,0,0.0,0.0,0.0,1,0,59,65,90.8,0,48,0,0,0,Internazionale,2024-08-30 Inter-Atalanta,ITA-SERIA_A,24-25,adc30b79
+e7695e6c,Mateo Retegui,32,ITA,FW,25-123,90,0,0,0,0,4,0,1,0,20,0,0,0,1.0,1.0,0.0,2,0,14,14,100.0,1,13,0,1,0,Atalanta,2024-08-30 Inter-Atalanta,ITA-SERIA_A,24-25,adc30b79
+dfd56738,Marco Brescianini,44,ITA,AM,24-223,90,0,0,0,0,2,0,0,0,41,0,0,1,0.1,0.1,0.1,1,0,28,33,84.8,1,33,7,3,2,Atalanta,2024-08-30 Inter-Atalanta,ITA-SERIA_A,24-25,adc30b79
+217c93a1,Lazar Samardzic,24,SRB,AM,22-188,79,0,0,0,0,2,0,0,0,47,1,0,0,0.2,0.2,0.1,3,0,28,37,75.7,5,34,5,4,2,Atalanta,2024-08-30 Inter-Atalanta,ITA-SERIA_A,24-25,adc30b79
+1f1828dd,Marco Palestra,27,ITA,WB,19-180,11,0,0,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.0,0,0,7,10,70.0,1,9,1,0,0,Atalanta,2024-08-30 Inter-Atalanta,ITA-SERIA_A,24-25,adc30b79
+e599253a,Mario Pašalić,8,CRO,CM,29-203,90,0,0,0,0,1,0,0,0,59,0,1,2,0.0,0.0,0.1,3,0,50,52,96.2,9,40,1,0,0,Atalanta,2024-08-30 Inter-Atalanta,ITA-SERIA_A,24-25,adc30b79
+a9202def,Éderson,13,BRA,CM,25-054,90,0,0,0,0,0,0,0,0,56,1,0,0,0.0,0.0,0.0,2,0,41,47,87.2,4,38,0,1,0,Atalanta,2024-08-30 Inter-Atalanta,ITA-SERIA_A,24-25,adc30b79
+7fe90ccd,Davide Zappacosta,77,ITA,WB,32-080,79,0,0,0,0,1,1,0,0,48,0,0,1,0.0,0.0,0.0,1,0,37,41,90.2,3,30,5,1,0,Atalanta,2024-08-30 Inter-Atalanta,ITA-SERIA_A,24-25,adc30b79
+2ef7c612,Charles De Ketelaere,17,BEL,AM,23-173,11,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.2,1,0,6,8,75.0,1,5,0,1,1,Atalanta,2024-08-30 Inter-Atalanta,ITA-SERIA_A,24-25,adc30b79
+e3756e72,Raoul Bellanova,16,ITA,WB,24-105,57,0,0,0,0,0,0,0,0,30,1,1,0,0.0,0.0,0.0,1,0,19,23,82.6,3,20,1,1,0,Atalanta,2024-08-30 Inter-Atalanta,ITA-SERIA_A,24-25,adc30b79
+c56dc39e,Rafael Tolói,2,ITA,CB,33-325,33,0,0,0,0,1,0,0,0,16,1,0,0,0.0,0.0,0.0,1,0,12,14,85.7,3,7,0,0,0,Atalanta,2024-08-30 Inter-Atalanta,ITA-SERIA_A,24-25,adc30b79
+ae9898c5,Matteo Ruggeri,22,ITA,"CB,WB",22-050,90,0,0,0,0,0,0,0,0,60,2,0,0,0.0,0.0,0.0,0,0,53,57,93.0,2,36,2,0,0,Atalanta,2024-08-30 Inter-Atalanta,ITA-SERIA_A,24-25,adc30b79
+6eee05f1,Berat Djimsiti,19,ALB,CB,31-193,90,0,0,0,0,0,0,0,0,56,4,2,2,0.0,0.0,0.1,2,0,40,43,93.0,4,31,0,0,0,Atalanta,2024-08-30 Inter-Atalanta,ITA-SERIA_A,24-25,adc30b79
+2a1beb34,Marten de Roon,15,NED,CB,33-154,90,0,0,0,0,0,0,1,0,58,3,1,1,0.0,0.0,0.0,1,0,46,51,90.2,7,34,0,0,0,Atalanta,2024-08-30 Inter-Atalanta,ITA-SERIA_A,24-25,adc30b79
+8ec56e62,Marco Carnesecchi,29,ITA,GK,24-060,90,0,0,0,0,0,0,0,0,27,0,0,0,0.0,0.0,0.0,0,0,15,26,57.7,0,15,0,0,0,Atalanta,2024-08-30 Inter-Atalanta,ITA-SERIA_A,24-25,adc30b79

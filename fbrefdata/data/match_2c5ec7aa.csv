@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+9dbb75ca,Alexandre Lacazette,10,FRA,FW,33-094,90,0,1,0,0,4,2,0,0,32,0,0,0,0.4,0.4,0.9,7,3,20,26,76.9,4,22,1,2,1,Lyon,2024-08-30 Lyon-Strasbourg,FRA-L1,24-25,2c5ec7aa
+4788cb6b,Georges Mikautadze,69,GEO,FW,23-304,58,0,0,0,0,6,3,0,0,45,0,0,1,0.7,0.7,0.1,4,0,25,32,78.1,4,39,1,2,1,Lyon,2024-08-30 Lyon-Strasbourg,FRA-L1,24-25,2c5ec7aa
+8236f673,Malick Fofana,11,BEL,"FW,WB",19-152,32,0,1,0,0,0,0,0,0,20,2,1,0,0.0,0.0,0.3,2,1,11,16,68.8,3,14,5,3,3,Lyon,2024-08-30 Lyon-Strasbourg,FRA-L1,24-25,2c5ec7aa
+652d4c37,Corentin Tolisso,8,FRA,CM,30-027,90,1,0,0,0,2,2,0,0,67,0,0,4,0.3,0.3,0.3,5,1,42,54,77.8,11,51,2,0,0,Lyon,2024-08-30 Lyon-Strasbourg,FRA-L1,24-25,2c5ec7aa
+eb7822d7,Nemanja Matić,31,SRB,CM,36-029,86,0,0,0,0,0,0,0,0,45,3,0,1,0.0,0.0,0.0,3,0,36,41,87.8,4,29,0,0,0,Lyon,2024-08-30 Lyon-Strasbourg,FRA-L1,24-25,2c5ec7aa
+ac277993,Tanner Tessmann,15,USA,CM,22-341,4,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,3,3,100.0,1,2,0,0,0,Lyon,2024-08-30 Lyon-Strasbourg,FRA-L1,24-25,2c5ec7aa
+f81ef10d,Maxence Caqueret,6,FRA,CM,24-197,90,0,0,0,0,1,0,0,0,58,4,0,3,0.1,0.1,0.2,4,1,35,44,79.5,3,37,3,3,0,Lyon,2024-08-30 Lyon-Strasbourg,FRA-L1,24-25,2c5ec7aa
+7f9c5d2d,Abner,16,BRA,WB,24-095,58,0,0,0,0,1,1,1,0,41,1,0,1,0.1,0.1,0.2,3,0,28,33,84.8,1,27,2,1,0,Lyon,2024-08-30 Lyon-Strasbourg,FRA-L1,24-25,2c5ec7aa
+de17db90,Gift Orban,9,NGA,"WB,FW",22-044,32,2,0,0,0,2,2,1,0,11,0,0,0,0.9,0.9,0.0,0,0,2,5,40.0,1,7,1,2,1,Lyon,2024-08-30 Lyon-Strasbourg,FRA-L1,24-25,2c5ec7aa
+e3a5814e,Ainsley Maitland-Niles,98,ENG,WB,27-001,90,1,0,0,0,2,1,0,0,52,3,2,1,0.3,0.3,0.2,3,0,27,39,69.2,5,19,1,3,1,Lyon,2024-08-30 Lyon-Strasbourg,FRA-L1,24-25,2c5ec7aa
+00242715,Moussa Niakhate,19,SEN,CB,28-175,90,0,0,0,0,1,1,0,0,60,3,0,2,0.0,0.0,0.2,3,0,44,49,89.8,2,34,1,0,0,Lyon,2024-08-30 Lyon-Strasbourg,FRA-L1,24-25,2c5ec7aa
+94f8d10c,Duje Ćaleta-Car,55,CRO,CB,27-348,89,0,0,0,0,0,0,0,0,44,1,1,1,0.0,0.0,0.0,0,0,35,38,92.1,3,29,0,0,0,Lyon,2024-08-30 Lyon-Strasbourg,FRA-L1,24-25,2c5ec7aa
+e980e78d,Adryelson,14,BRA,CB,26-160,1,0,0,0,0,0,0,1,0,5,0,1,0,0.0,0.0,0.0,0,0,1,3,33.3,1,1,0,0,0,Lyon,2024-08-30 Lyon-Strasbourg,FRA-L1,24-25,2c5ec7aa
+55abe554,Clinton Mata,22,ANG,CB,31-297,90,0,0,0,0,1,0,0,0,60,3,3,3,0.1,0.1,0.0,0,0,37,48,77.1,3,37,0,1,0,Lyon,2024-08-30 Lyon-Strasbourg,FRA-L1,24-25,2c5ec7aa
+5dbd461a,Lucas Perri,23,BRA,GK,26-264,90,0,0,0,0,0,0,0,0,24,0,0,0,0.0,0.0,0.0,0,0,13,21,61.9,0,16,0,0,0,Lyon,2024-08-30 Lyon-Strasbourg,FRA-L1,24-25,2c5ec7aa
+a0c590b9,Emanuel Emegha,10,NED,FW,21-209,81,1,0,0,0,4,4,0,0,21,0,0,1,1.3,1.3,0.0,2,0,13,15,86.7,0,11,5,2,2,Strasbourg,2024-08-30 Lyon-Strasbourg,FRA-L1,24-25,2c5ec7aa
+0b6911e4,Jérémy Sebas,40,MTQ,FW,21-138,9,0,0,0,0,1,1,0,0,3,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,1,2,0,0,0,Strasbourg,2024-08-30 Lyon-Strasbourg,FRA-L1,24-25,2c5ec7aa
+ce747d2a,Sebastian Nanasi,15,SWE,LW,22-106,67,1,0,0,0,2,1,0,0,32,1,0,0,0.8,0.8,0.0,2,0,23,24,95.8,1,19,2,3,1,Strasbourg,2024-08-30 Lyon-Strasbourg,FRA-L1,24-25,2c5ec7aa
+3544641e,Sekou Mara,14,FRA,"RW,LW",22-031,23,0,0,0,0,0,0,0,0,10,1,0,0,0.0,0.0,0.0,0,0,3,5,60.0,0,6,0,1,1,Strasbourg,2024-08-30 Lyon-Strasbourg,FRA-L1,24-25,2c5ec7aa
+2b5a35e5,Dilane Bakwa,26,FRA,"RW,RM",22-004,90,0,1,0,0,3,1,0,0,50,0,0,0,0.1,0.1,0.2,4,1,27,39,69.2,2,32,2,4,2,Strasbourg,2024-08-30 Lyon-Strasbourg,FRA-L1,24-25,2c5ec7aa
+6d0fe035,Habib Diarra,19,SEN,"CM,RM",20-240,68,0,0,0,0,1,0,0,0,41,1,0,0,0.0,0.0,0.1,2,0,27,36,75.0,2,32,2,2,1,Strasbourg,2024-08-30 Lyon-Strasbourg,FRA-L1,24-25,2c5ec7aa
+1d383c10,Marvin Senaya,28,TOG,"CB,RM",23-215,22,0,0,0,0,0,0,1,0,26,1,1,3,0.0,0.0,0.1,1,0,14,20,70.0,1,11,1,0,0,Strasbourg,2024-08-30 Lyon-Strasbourg,FRA-L1,24-25,2c5ec7aa
+8ca9415f,Félix Lemaréchal,6,FRA,CM,21-023,45,0,0,0,0,0,0,0,0,22,0,0,1,0.0,0.0,0.0,2,1,15,18,83.3,0,9,0,1,0,Strasbourg,2024-08-30 Lyon-Strasbourg,FRA-L1,24-25,2c5ec7aa
+64796fe0,Caleb Wiley,12,USA,LM,19-252,45,0,1,0,0,1,0,0,0,25,0,0,2,0.0,0.0,0.6,1,1,15,22,68.2,1,15,2,0,0,Strasbourg,2024-08-30 Lyon-Strasbourg,FRA-L1,24-25,2c5ec7aa
+0512a60a,Ismaël Doukouré,29,FRA,"CM,DM",21-037,90,0,0,0,0,0,0,0,0,51,4,2,1,0.0,0.0,0.3,3,1,36,40,90.0,5,26,1,2,1,Strasbourg,2024-08-30 Lyon-Strasbourg,FRA-L1,24-25,2c5ec7aa
+dd745366,Andrey Santos,8,BRA,"CM,DM",20-119,90,1,0,0,0,1,1,0,0,74,7,1,2,0.2,0.2,0.5,5,1,54,62,87.1,7,33,2,1,1,Strasbourg,2024-08-30 Lyon-Strasbourg,FRA-L1,24-25,2c5ec7aa
+29c91632,Abakar Sylla,24,CIV,"CB,LB",21-249,90,0,0,0,0,1,0,0,0,62,1,0,2,0.1,0.1,0.0,0,0,46,56,82.1,1,36,0,0,0,Strasbourg,2024-08-30 Lyon-Strasbourg,FRA-L1,24-25,2c5ec7aa
+f6b94e8d,Saidou Sow,13,GUI,CB,22-057,73,0,0,0,0,0,0,0,0,49,1,0,3,0.0,0.0,0.0,3,1,38,41,92.7,2,33,0,0,0,Strasbourg,2024-08-30 Lyon-Strasbourg,FRA-L1,24-25,2c5ec7aa
+12de1b0d,Diego Moreira,7,POR,LW,20-024,17,0,0,0,0,1,0,0,0,12,1,0,0,0.1,0.1,0.0,0,0,3,6,50.0,0,7,1,1,0,Strasbourg,2024-08-30 Lyon-Strasbourg,FRA-L1,24-25,2c5ec7aa
+b4ef3fb5,Guela Doué,22,CIV,"CB,RB",21-318,90,0,0,0,0,0,0,1,0,79,0,3,2,0.0,0.0,0.0,1,0,59,66,89.4,4,41,0,0,0,Strasbourg,2024-08-30 Lyon-Strasbourg,FRA-L1,24-25,2c5ec7aa
+a56bd2ee,Karl-Johan Johnsson,30,SWE,GK,34-215,90,0,0,0,0,0,0,0,0,39,0,0,0,0.0,0.0,0.0,0,0,29,35,82.9,0,23,0,0,0,Strasbourg,2024-08-30 Lyon-Strasbourg,FRA-L1,24-25,2c5ec7aa

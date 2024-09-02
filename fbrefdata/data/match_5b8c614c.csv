@@ -1,0 +1,33 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+2ccd39ed,Akor Adams,8,NGA,FW,24-215,90,1,0,0,0,1,1,0,0,18,0,0,1,0.6,0.6,0.0,1,0,6,12,50.0,0,10,1,1,0,Montpellier,2024-08-31 Montpellier-Nantes,FRA-L1,24-25,5b8c614c
+05ba9d7c,Tanguy Coulibaly,70,FRA,LW,23-195,62,0,0,0,0,1,1,0,0,32,1,0,1,0.0,0.0,0.0,1,0,17,23,73.9,0,20,4,4,3,Montpellier,2024-08-31 Montpellier-Nantes,FRA-L1,24-25,5b8c614c
+2677a1de,Wahbi Khazri,10,TUN,LW,33-205,28,0,0,0,0,1,0,0,0,19,0,0,0,0.1,0.1,0.0,0,0,11,14,78.6,1,10,3,2,1,Montpellier,2024-08-31 Montpellier-Nantes,FRA-L1,24-25,5b8c614c
+f15f8b2b,Musa Al-Taamari,9,JOR,RW,27-082,62,0,0,0,0,1,0,0,0,31,2,0,0,0.0,0.0,0.0,2,0,18,21,85.7,1,16,1,5,0,Montpellier,2024-08-31 Montpellier-Nantes,FRA-L1,24-25,5b8c614c
+faf00ab8,Khalil Fayad,22,FRA,RW,20-083,28,0,0,0,0,0,0,0,0,26,0,0,1,0.0,0.0,0.0,1,0,18,21,85.7,1,14,0,2,0,Montpellier,2024-08-31 Montpellier-Nantes,FRA-L1,24-25,5b8c614c
+6bde367b,Téji Savanier,11,FRA,AM,32-253,90,0,0,0,0,2,0,0,0,91,1,0,1,0.1,0.1,0.1,2,0,51,80,63.8,5,40,2,2,0,Montpellier,2024-08-31 Montpellier-Nantes,FRA-L1,24-25,5b8c614c
+375622c5,Jordan Ferri,12,FRA,DM,32-172,90,0,0,0,0,1,1,1,0,122,0,0,0,0.0,0.0,0.0,4,1,105,117,89.7,9,67,0,0,0,Montpellier,2024-08-31 Montpellier-Nantes,FRA-L1,24-25,5b8c614c
+7909ffa4,Joris Chotard,13,FRA,DM,22-342,39,0,0,0,0,0,0,0,0,36,0,0,0,0.0,0.0,0.0,0,0,30,32,93.8,4,20,0,4,2,Montpellier,2024-08-31 Montpellier-Nantes,FRA-L1,24-25,5b8c614c
+627c7a3d,Rabby Nzingoula,19,CGO,DM,18-280,51,0,0,0,0,0,0,1,0,34,4,0,0,0.0,0.0,0.0,3,0,20,29,69.0,2,22,1,1,0,Montpellier,2024-08-31 Montpellier-Nantes,FRA-L1,24-25,5b8c614c
+b99bec05,Issiaga Sylla,3,GUI,LB,30-243,9,0,0,0,0,0,0,0,0,12,0,0,0,0.0,0.0,0.0,0,0,11,12,91.7,0,3,0,0,0,Montpellier,2024-08-31 Montpellier-Nantes,FRA-L1,24-25,5b8c614c
+7f783431,Enzo Tchato,29,CMR,RB,21-282,81,0,0,0,0,0,0,0,0,61,1,0,0,0.0,0.0,0.0,0,0,45,52,86.5,2,18,0,1,0,Montpellier,2024-08-31 Montpellier-Nantes,FRA-L1,24-25,5b8c614c
+76d679c7,Modibo Sagnan,5,MLI,CB,25-139,90,0,0,0,0,3,1,0,0,76,1,3,1,0.1,0.1,0.0,2,0,57,63,90.5,4,46,1,2,2,Montpellier,2024-08-31 Montpellier-Nantes,FRA-L1,24-25,5b8c614c
+c284d6fb,Becir Omeragic,27,SUI,CB,22-224,90,0,0,0,0,0,0,0,0,74,2,0,0,0.0,0.0,0.0,0,0,66,71,93.0,5,41,2,1,1,Montpellier,2024-08-31 Montpellier-Nantes,FRA-L1,24-25,5b8c614c
+6388e356,Falaye Sacko,77,MLI,"LB,RB",29-122,90,0,0,0,0,0,0,0,0,69,3,1,3,0.0,0.0,0.0,1,0,53,59,89.8,8,28,0,3,1,Montpellier,2024-08-31 Montpellier-Nantes,FRA-L1,24-25,5b8c614c
+2fa2a875,Benjamin Lecomte,40,FRA,GK,33-127,90,0,0,0,0,0,0,0,0,25,0,0,0,0.0,0.0,0.0,0,0,16,21,76.2,0,9,0,0,0,Montpellier,2024-08-31 Montpellier-Nantes,FRA-L1,24-25,5b8c614c
+0e46fa2f,Matthis Abline,39,FRA,FW,21-156,73,1,0,0,0,4,1,0,0,24,0,0,1,0.3,0.3,0.0,3,0,11,14,78.6,4,16,2,2,1,Nantes,2024-08-31 Montpellier-Nantes,FRA-L1,24-25,5b8c614c
+595e6f3e,Mostafa Mohamed,31,EGY,FW,26-277,17,1,0,0,0,1,1,0,0,7,0,0,0,0.3,0.3,0.0,0,0,1,2,50.0,0,5,0,1,0,Nantes,2024-08-31 Montpellier-Nantes,FRA-L1,24-25,5b8c614c
+5f3eaaf5,Moses Simon,27,NGA,LW,29-050,83,1,0,1,1,2,1,0,0,32,2,1,0,0.9,0.1,0.0,1,1,13,17,76.5,0,14,4,1,0,Nantes,2024-08-31 Montpellier-Nantes,FRA-L1,24-25,5b8c614c
+a08bb82c,Bahereba Guirassy,62,FRA,LW,18-002,7,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,0,0,0,0,Nantes,2024-08-31 Montpellier-Nantes,FRA-L1,24-25,5b8c614c
+8725a42e,Sorba Thomas,22,WAL,RW,25-009,73,0,0,0,0,0,0,0,0,25,2,0,1,0.0,0.0,0.2,2,0,8,17,47.1,1,13,3,4,2,Nantes,2024-08-31 Montpellier-Nantes,FRA-L1,24-25,5b8c614c
+bcc81786,Kelvin Amian,98,FRA,RB,26-205,17,0,0,0,0,0,0,0,0,9,2,0,1,0.0,0.0,0.0,0,0,2,5,40.0,0,4,0,1,0,Nantes,2024-08-31 Montpellier-Nantes,FRA-L1,24-25,5b8c614c
+7d08063d,Tino Kadewere,10,ZIM,AM,28-239,89,0,2,0,0,0,0,0,0,36,1,0,1,0.0,0.0,0.4,4,2,19,25,76.0,4,15,1,3,1,Nantes,2024-08-31 Montpellier-Nantes,FRA-L1,24-25,5b8c614c
+8f325097,Nicolas Cozza,3,FRA,AM,25-236,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Nantes,2024-08-31 Montpellier-Nantes,FRA-L1,24-25,5b8c614c
+1e52971c,Johann Lepenant,8,FRA,DM,21-314,90,0,0,0,0,0,0,0,0,24,1,3,1,0.0,0.0,0.0,0,0,11,17,64.7,2,11,1,1,1,Nantes,2024-08-31 Montpellier-Nantes,FRA-L1,24-25,5b8c614c
+68a26d51,Pedro Chirivella,5,ESP,DM,27-100,90,0,0,0,0,0,0,0,0,52,3,0,2,0.0,0.0,0.0,3,1,34,42,81.0,9,27,0,0,0,Nantes,2024-08-31 Montpellier-Nantes,FRA-L1,24-25,5b8c614c
+0cbc8baa,Jean-Kevin Duverne,2,HAI,LB,27-050,90,0,0,0,0,0,0,0,0,40,5,1,2,0.0,0.0,0.0,1,0,17,24,70.8,1,11,0,0,0,Nantes,2024-08-31 Montpellier-Nantes,FRA-L1,24-25,5b8c614c
+fb4c5b6e,Nathan Zeze,44,FRA,CB,19-074,90,0,0,0,0,0,0,0,0,50,2,2,1,0.0,0.0,0.0,0,0,29,35,82.9,0,23,0,0,0,Nantes,2024-08-31 Montpellier-Nantes,FRA-L1,24-25,5b8c614c
+779847d6,Nicolas Pallois,4,FRA,CB,36-347,90,0,0,0,0,0,0,0,0,37,2,1,2,0.0,0.0,0.0,0,0,21,24,87.5,0,16,0,0,0,Nantes,2024-08-31 Montpellier-Nantes,FRA-L1,24-25,5b8c614c
+3010aefb,Marcus Coco,11,FRA,"RB,RW",28-068,82,0,0,0,0,1,0,1,0,50,4,0,2,0.0,0.0,0.0,1,0,30,38,78.9,3,25,3,1,0,Nantes,2024-08-31 Montpellier-Nantes,FRA-L1,24-25,5b8c614c
+88972aa9,Louis Leroux,66,FRA,RW,18-221,8,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,1,1,2,2,100.0,0,0,0,0,0,Nantes,2024-08-31 Montpellier-Nantes,FRA-L1,24-25,5b8c614c
+4e7db402,Alban Lafont,1,FRA,GK,25-221,90,0,0,0,0,0,0,1,0,26,0,0,0,0.0,0.0,0.0,0,0,11,22,50.0,0,13,0,0,0,Nantes,2024-08-31 Montpellier-Nantes,FRA-L1,24-25,5b8c614c

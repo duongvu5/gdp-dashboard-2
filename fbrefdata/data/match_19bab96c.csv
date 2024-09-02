@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+11407d95,Marvin Pieringer,18,GER,FW,24-333,69,0,0,0,0,2,0,0,0,31,1,1,0,0.2,0.2,0.0,1,0,14,22,63.6,2,12,2,1,0,Heidenheim,2024-09-01 Heidenheim-Augsburg,GER-BL1,24-25,19bab96c
+1e37c986,Maximilian Breunig,14,GER,FW,24-018,21,1,0,0,0,2,1,0,0,11,0,0,1,1.2,1.2,0.0,0,0,2,5,40.0,0,6,1,1,0,Heidenheim,2024-09-01 Heidenheim-Augsburg,GER-BL1,24-25,19bab96c
+79064bc9,Léo Scienza,8,BRA,LW,25-354,80,1,0,0,0,4,3,0,0,33,1,1,1,0.2,0.2,0.4,8,2,13,20,65.0,5,26,9,6,5,Heidenheim,2024-09-01 Heidenheim-Augsburg,GER-BL1,24-25,19bab96c
+3dbdbb6a,Mathias Honsak,17,AUT,AM,27-256,10,0,0,0,0,1,1,1,0,6,0,0,0,0.0,0.0,0.0,1,0,3,3,100.0,0,4,1,1,1,Heidenheim,2024-09-01 Heidenheim-Augsburg,GER-BL1,24-25,19bab96c
+616c09f5,Adrian Beck,21,GER,RW,27-084,81,1,0,0,0,2,1,0,0,43,0,1,5,0.5,0.5,0.1,2,0,27,34,79.4,1,20,2,0,0,Heidenheim,2024-09-01 Heidenheim-Augsburg,GER-BL1,24-25,19bab96c
+f761c901,Tim Siersleben,4,GER,CB,24-176,9,0,0,0,0,0,0,0,0,7,0,1,0,0.0,0.0,0.0,0,0,3,4,75.0,0,4,0,0,0,Heidenheim,2024-09-01 Heidenheim-Augsburg,GER-BL1,24-25,19bab96c
+cb64672e,Paul Wanner,10,GER,AM,18-253,69,1,1,1,1,0,0,0,0,36,3,0,1,0.8,0.0,0.4,3,2,15,20,75.0,3,15,1,4,0,Heidenheim,2024-09-01 Heidenheim-Augsburg,GER-BL1,24-25,19bab96c
+34e09d5f,Sirlord Conteh,31,GER,AM,28-054,21,0,1,0,0,0,0,0,0,7,0,0,0,0.0,0.0,1.1,3,1,6,6,100.0,1,4,1,0,0,Heidenheim,2024-09-01 Heidenheim-Augsburg,GER-BL1,24-25,19bab96c
+932bfcac,Jan Schöppner,3,GER,"DM,CM",25-081,90,0,0,0,0,1,0,0,0,41,1,2,3,0.0,0.0,0.1,3,1,23,30,76.7,1,19,2,0,0,Heidenheim,2024-09-01 Heidenheim-Augsburg,GER-BL1,24-25,19bab96c
+75402e99,Lennard Maloney,33,USA,DM,24-329,40,0,0,0,0,0,0,0,0,16,2,0,0,0.0,0.0,0.0,0,0,7,8,87.5,1,4,0,1,1,Heidenheim,2024-09-01 Heidenheim-Augsburg,GER-BL1,24-25,19bab96c
+c107935c,Luca Kerber,20,GER,"DM,CM",22-175,50,0,0,0,0,1,0,0,0,20,2,0,1,0.1,0.1,0.0,0,0,11,11,100.0,2,4,0,0,0,Heidenheim,2024-09-01 Heidenheim-Augsburg,GER-BL1,24-25,19bab96c
+1b4be8eb,Jonas Föhrenbach,19,GER,"LB,WB",28-219,90,0,0,0,0,0,0,0,0,39,1,1,0,0.0,0.0,0.0,2,1,22,31,71.0,2,16,4,4,2,Heidenheim,2024-09-01 Heidenheim-Augsburg,GER-BL1,24-25,19bab96c
+e5f76710,Benedikt Gimber,5,GER,CB,27-195,90,0,0,0,0,0,0,0,0,44,4,1,6,0.0,0.0,0.0,0,0,22,27,81.5,0,15,0,1,1,Heidenheim,2024-09-01 Heidenheim-Augsburg,GER-BL1,24-25,19bab96c
+dd9caa07,Patrick Mainka,6,GER,CB,29-300,90,0,0,0,0,0,0,0,0,34,1,2,1,0.0,0.0,0.0,0,0,22,28,78.6,1,17,0,0,0,Heidenheim,2024-09-01 Heidenheim-Augsburg,GER-BL1,24-25,19bab96c
+f44e8a73,Omar Traoré,23,GER,"RB,WB",26-210,90,0,0,0,0,1,1,0,0,51,3,1,0,0.0,0.0,0.0,0,0,28,40,70.0,3,28,3,2,1,Heidenheim,2024-09-01 Heidenheim-Augsburg,GER-BL1,24-25,19bab96c
+f256f213,Kevin Müller,1,GER,GK,33-170,90,0,0,0,0,0,0,0,0,38,0,0,0,0.0,0.0,0.0,0,0,22,37,59.5,0,18,0,0,0,Heidenheim,2024-09-01 Heidenheim-Augsburg,GER-BL1,24-25,19bab96c
+821550ce,Samuel Essende,9,COD,FW,26-222,90,0,0,0,0,2,0,0,0,32,0,0,0,0.1,0.1,0.0,3,0,16,23,69.6,1,24,2,2,0,Augsburg,2024-09-01 Heidenheim-Augsburg,GER-BL1,24-25,19bab96c
+3397e7b5,Phillip Tietz,21,GER,FW,27-054,58,0,0,0,0,0,0,0,0,37,0,0,0,0.0,0.0,0.1,3,0,17,32,53.1,3,19,0,1,0,Augsburg,2024-09-01 Heidenheim-Augsburg,GER-BL1,24-25,19bab96c
+19ba6c6d,Steve Mounié,15,BEN,FW,29-338,32,0,0,0,0,1,0,0,0,12,0,0,0,0.1,0.1,0.0,1,0,9,11,81.8,3,8,2,0,0,Augsburg,2024-09-01 Heidenheim-Augsburg,GER-BL1,24-25,19bab96c
+3eeb80e0,Fredrik Jensen,24,FIN,AM,26-358,45,0,0,0,0,3,0,0,0,27,0,0,0,0.1,0.1,0.0,2,0,12,19,63.2,2,14,0,1,0,Augsburg,2024-09-01 Heidenheim-Augsburg,GER-BL1,24-25,19bab96c
+6ecbddf6,Ruben Vargas,16,SUI,AM,26-027,45,0,0,0,0,2,0,1,0,34,2,0,0,0.1,0.1,0.0,1,0,20,26,76.9,2,21,4,3,2,Augsburg,2024-09-01 Heidenheim-Augsburg,GER-BL1,24-25,19bab96c
+ab700320,Arne Maier,10,GER,"LM,DM",25-237,73,0,0,0,0,3,0,0,0,59,0,0,0,0.1,0.1,0.2,3,0,43,52,82.7,6,33,0,2,0,Augsburg,2024-09-01 Heidenheim-Augsburg,GER-BL1,24-25,19bab96c
+a8ee54ad,Kristijan Jakić,17,CRO,DM,27-110,17,0,0,0,0,1,0,0,0,19,0,0,0,0.1,0.1,0.0,0,0,15,17,88.2,4,15,0,0,0,Augsburg,2024-09-01 Heidenheim-Augsburg,GER-BL1,24-25,19bab96c
+1ae836b1,Elvis Rexhbeçaj,8,GER,RM,26-305,90,0,0,0,0,0,0,1,0,56,3,1,1,0.0,0.0,0.0,2,0,40,50,80.0,12,31,2,1,0,Augsburg,2024-09-01 Heidenheim-Augsburg,GER-BL1,24-25,19bab96c
+ed98c321,Tim Breithaupt,18,GER,DM,22-207,62,0,0,0,0,0,0,0,0,45,1,0,1,0.0,0.0,0.0,2,0,36,42,85.7,7,28,2,1,1,Augsburg,2024-09-01 Heidenheim-Augsburg,GER-BL1,24-25,19bab96c
+ec68a918,Mert Kömür,36,GER,LM,19-046,28,0,0,0,0,0,0,0,0,10,0,0,1,0.0,0.0,0.0,0,0,6,8,75.0,1,4,1,0,0,Augsburg,2024-09-01 Heidenheim-Augsburg,GER-BL1,24-25,19bab96c
+112c495e,Dimitris Giannoulis,13,GRE,LB,28-320,90,0,0,0,0,0,0,0,0,65,3,3,2,0.0,0.0,0.0,1,0,40,52,76.9,5,33,0,2,1,Augsburg,2024-09-01 Heidenheim-Augsburg,GER-BL1,24-25,19bab96c
+f6bdc830,Keven Schlotterbeck,31,GER,CB,27-126,90,0,0,0,0,2,0,1,0,93,1,2,1,0.1,0.1,0.0,1,0,74,78,94.9,5,51,0,0,0,Augsburg,2024-09-01 Heidenheim-Augsburg,GER-BL1,24-25,19bab96c
+1025db8e,Jeffrey Gouweleeuw,6,NED,CB,33-053,90,0,0,0,0,1,0,1,0,83,2,0,2,0.0,0.0,0.0,3,0,69,77,89.6,16,65,5,1,0,Augsburg,2024-09-01 Heidenheim-Augsburg,GER-BL1,24-25,19bab96c
+582a5247,Mads Pedersen,3,DEN,RB,28-000,45,0,0,0,0,0,0,0,0,33,2,0,2,0.0,0.0,0.0,2,0,21,28,75.0,4,16,0,2,1,Augsburg,2024-09-01 Heidenheim-Augsburg,GER-BL1,24-25,19bab96c
+fa661778,Marius Wolf,11,GER,RB,29-097,45,0,0,0,0,0,0,0,0,30,1,0,1,0.0,0.0,0.0,3,0,18,24,75.0,2,18,1,0,0,Augsburg,2024-09-01 Heidenheim-Augsburg,GER-BL1,24-25,19bab96c
+208fc867,Nediljko Labrović,22,CRO,GK,24-327,90,0,0,0,0,0,0,0,0,38,0,0,0,0.0,0.0,0.0,0,0,36,37,97.3,0,25,0,0,0,Augsburg,2024-09-01 Heidenheim-Augsburg,GER-BL1,24-25,19bab96c
