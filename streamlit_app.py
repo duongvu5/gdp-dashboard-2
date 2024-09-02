@@ -768,8 +768,15 @@ def main():
     comparison_choice = st.radio("Choose comparison type", ('Player in Season', 'Player in Matches'))
 
     if comparison_choice == 'Player in Season':
+        
+
+        
+        # Zip the data folder and provide download link
+        zip_name = 'data_folder.zip'
+        zip_data_folder(source_dir, zip_name)
+        provide_download_link(zip_name)
+
         # Call the function for comparing players in matches
-        provide_download_link()
         player_season_compare()
         
     elif comparison_choice == 'Player in Matches':
