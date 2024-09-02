@@ -382,6 +382,14 @@ def player_season_compare():
     # User selects the season
     season = st.selectbox("Select the season", ['2024-2025', '2023-2024', '2022-2023', '2021-2022', '2020-2021', '2019-2020', '2018-2019', '2017-2018'])
     
+    # Check if the selected league or season has changed
+    if 'selected_league_name' not in st.session_state or st.session_state['selected_league_name'] != selected_league_name or st.session_state['season'] != season:
+        st.session_state['selected_league_name'] = selected_league_name
+        st.session_state['season'] = season
+        st.session_state.pop('player_season_data', None)
+        st.session_state.pop('merged_df1', None)
+        st.session_state.pop('merged_df2', None)
+    
     if 'player_season_data' not in st.session_state:
         with st.spinner('Loading data...'):
             fbref = initialize_fbref(selected_league_key, season)
