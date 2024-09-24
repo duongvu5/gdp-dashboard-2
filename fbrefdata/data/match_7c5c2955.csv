@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+21a66f6a,Harry Kane,9,ENG,FW,31-051,90,4,0,3,3,5,3,0,0,47,0,1,0,3.4,1.4,0.0,4,1,30,36,83.3,3,25,2,1,1,Bayern Munich,2024-09-17 Bayern Munich-Dinamo Zagreb,UCL,24-25,7c5c2955
+88e357ef,Serge Gnabry,7,GER,LW,29-065,90,0,0,0,0,2,2,0,0,56,0,2,2,0.1,0.1,0.0,5,1,38,46,82.6,3,38,1,3,1,Bayern Munich,2024-09-17 Bayern Munich-Dinamo Zagreb,UCL,24-25,7c5c2955
+c4486bac,Michael Olise,17,FRA,RW,22-280,67,2,0,0,0,4,2,0,0,79,2,0,0,1.3,1.3,0.0,3,0,55,68,80.9,4,51,5,6,2,Bayern Munich,2024-09-17 Bayern Munich-Dinamo Zagreb,UCL,24-25,7c5c2955
+2b114be3,Leroy Sané,10,GER,RW,28-250,23,1,0,0,0,1,1,0,0,17,0,0,1,0.1,0.1,0.0,1,1,10,12,83.3,0,10,1,3,2,Bayern Munich,2024-09-17 Bayern Munich-Dinamo Zagreb,UCL,24-25,7c5c2955
+2c0558b8,Jamal Musiala,42,GER,AM,21-204,67,0,2,0,0,4,3,0,0,69,0,0,0,0.3,0.3,1.8,11,4,41,55,74.5,7,50,6,7,4,Bayern Munich,2024-09-17 Bayern Munich-Dinamo Zagreb,UCL,24-25,7c5c2955
+3c6089ab,Thomas Müller,25,GER,AM,35-004,23,0,1,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.2,4,3,6,8,75.0,0,4,0,1,0,Bayern Munich,2024-09-17 Bayern Munich-Dinamo Zagreb,UCL,24-25,7c5c2955
+2658c82f,Aleksandar Pavlovic,45,GER,DM,20-137,90,0,0,0,0,0,0,0,0,111,0,2,1,0.0,0.0,0.0,4,1,101,104,97.1,11,75,0,0,0,Bayern Munich,2024-09-17 Bayern Munich-Dinamo Zagreb,UCL,24-25,7c5c2955
+49296448,Joshua Kimmich,6,GER,"DM,RB",29-222,90,0,2,0,0,1,1,0,0,110,3,0,0,0.1,0.1,0.6,11,3,93,106,87.7,14,83,4,0,0,Bayern Munich,2024-09-17 Bayern Munich-Dinamo Zagreb,UCL,24-25,7c5c2955
+d781d855,Alphonso Davies,19,CAN,LB,23-320,90,0,0,0,0,3,1,0,0,89,1,0,0,0.2,0.2,0.2,7,1,70,76,92.1,7,66,14,2,1,Bayern Munich,2024-09-17 Bayern Munich-Dinamo Zagreb,UCL,24-25,7c5c2955
+e0f8151c,Kim Min-jae,3,KOR,CB,27-307,68,0,0,0,0,0,0,0,0,81,0,0,0,0.0,0.0,0.0,0,0,73,77,94.8,9,62,1,0,0,Bayern Munich,2024-09-17 Bayern Munich-Dinamo Zagreb,UCL,24-25,7c5c2955
+ac861941,Eric Dier,15,ENG,CB,30-246,22,0,0,0,0,1,0,0,0,22,0,0,0,0.0,0.0,0.0,1,1,20,20,100.0,1,14,0,0,0,Bayern Munich,2024-09-17 Bayern Munich-Dinamo Zagreb,UCL,24-25,7c5c2955
+d248cd8f,Dayot Upamecano,2,FRA,CB,25-326,90,0,0,0,0,1,1,0,0,79,1,1,1,0.3,0.3,0.0,0,0,72,74,97.3,5,55,0,0,0,Bayern Munich,2024-09-17 Bayern Munich-Dinamo Zagreb,UCL,24-25,7c5c2955
+048a1cbc,Raphaël Guerreiro,22,POR,RB,30-270,80,1,0,0,0,3,1,0,0,79,1,4,2,0.2,0.2,0.2,3,0,61,70,87.1,8,47,3,0,0,Bayern Munich,2024-09-17 Bayern Munich-Dinamo Zagreb,UCL,24-25,7c5c2955
+cc86b9a3,Leon Goretzka,8,GER,DM,29-224,10,1,0,0,0,1,1,0,0,20,2,0,0,0.1,0.1,0.0,0,0,18,18,100.0,5,10,1,0,0,Bayern Munich,2024-09-17 Bayern Munich-Dinamo Zagreb,UCL,24-25,7c5c2955
+8778c910,Manuel Neuer,1,GER,GK,38-174,45,0,0,0,0,0,0,0,0,24,0,0,0,0.0,0.0,0.0,0,0,24,24,100.0,1,17,0,0,0,Bayern Munich,2024-09-17 Bayern Munich-Dinamo Zagreb,UCL,24-25,7c5c2955
+7d3e7da6,Sven Ulreich,26,GER,GK,36-045,45,0,0,0,0,0,0,0,0,15,0,0,0,0.0,0.0,0.0,0,0,14,14,100.0,0,9,0,0,0,Bayern Munich,2024-09-17 Bayern Munich-Dinamo Zagreb,UCL,24-25,7c5c2955
+2c38b327,Marko Pjaca,20,CRO,FW,29-134,60,0,1,0,0,2,1,0,0,14,1,0,0,0.1,0.1,0.2,2,1,8,9,88.9,1,11,2,0,0,Dinamo Zagreb,2024-09-17 Bayern Munich-Dinamo Zagreb,UCL,24-25,7c5c2955
+981e1bee,Sandro Kulenović,17,CRO,FW,24-288,30,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,3,4,75.0,0,3,0,0,0,Dinamo Zagreb,2024-09-17 Bayern Munich-Dinamo Zagreb,UCL,24-25,7c5c2955
+24228180,Bruno Petković,9,CRO,FW,30-001,90,1,0,0,0,1,1,0,0,40,2,0,0,0.2,0.2,0.0,0,0,24,32,75.0,3,22,0,0,0,Dinamo Zagreb,2024-09-17 Bayern Munich-Dinamo Zagreb,UCL,24-25,7c5c2955
+d1eda5f0,Martin Baturina,10,CRO,CM,21-214,77,0,0,0,0,0,0,0,0,31,1,1,1,0.0,0.0,0.0,0,0,23,25,92.0,2,25,2,2,0,Dinamo Zagreb,2024-09-17 Bayern Munich-Dinamo Zagreb,UCL,24-25,7c5c2955
+ee926a02,Arijan Ademi,5,MKD,CM,33-111,13,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,3,4,75.0,1,3,0,0,0,Dinamo Zagreb,2024-09-17 Bayern Munich-Dinamo Zagreb,UCL,24-25,7c5c2955
+46152b69,Josip Mišić,27,CRO,CM,30-081,90,0,1,0,0,0,0,0,0,47,3,1,5,0.0,0.0,0.3,1,1,31,38,81.6,1,21,1,0,0,Dinamo Zagreb,2024-09-17 Bayern Munich-Dinamo Zagreb,UCL,24-25,7c5c2955
+b6b2b820,Marko Rog,30,CRO,CM,29-060,45,0,0,0,0,0,0,0,0,18,1,0,2,0.0,0.0,0.0,0,0,10,13,76.9,0,5,1,2,2,Dinamo Zagreb,2024-09-17 Bayern Munich-Dinamo Zagreb,UCL,24-25,7c5c2955
+dbb01b92,Luka Stojkovic,7,CRO,CM,20-325,45,0,0,0,0,0,0,0,0,22,1,0,0,0.0,0.0,0.0,2,0,15,19,78.9,1,13,3,1,1,Dinamo Zagreb,2024-09-17 Bayern Munich-Dinamo Zagreb,UCL,24-25,7c5c2955
+b9feac8a,Takuya Ogiwara,3,JPN,LB,24-299,72,1,0,0,0,1,1,0,0,33,4,1,0,0.3,0.3,0.0,1,1,15,20,75.0,0,16,1,0,0,Dinamo Zagreb,2024-09-17 Bayern Munich-Dinamo Zagreb,UCL,24-25,7c5c2955
+e210a2c7,Arbër Hoxha,11,ALB,LB,25-347,18,0,0,0,0,0,0,0,0,13,1,0,1,0.0,0.0,0.0,0,0,9,12,75.0,0,8,0,1,1,Dinamo Zagreb,2024-09-17 Bayern Munich-Dinamo Zagreb,UCL,24-25,7c5c2955
+bf80db4d,Samy Mmaee,13,MAR,CB,28-009,90,0,0,0,0,0,0,0,0,49,0,5,0,0.0,0.0,0.0,0,0,33,40,82.5,1,34,0,0,0,Dinamo Zagreb,2024-09-17 Bayern Munich-Dinamo Zagreb,UCL,24-25,7c5c2955
+6b994195,Kévin Théophile-Catherine,28,FRA,CB,34-325,90,0,0,0,0,0,0,0,0,44,2,2,5,0.0,0.0,0.0,0,0,22,28,78.6,1,20,1,0,0,Dinamo Zagreb,2024-09-17 Bayern Munich-Dinamo Zagreb,UCL,24-25,7c5c2955
+7e56d3db,Stefan Ristovski,22,MKD,CB,32-218,90,0,0,0,0,0,0,1,0,50,0,2,2,0.0,0.0,0.0,0,0,32,42,76.2,0,28,0,0,0,Dinamo Zagreb,2024-09-17 Bayern Munich-Dinamo Zagreb,UCL,24-25,7c5c2955
+64ba07c0,Ronaël Pierre-Gabriel,18,FRA,RB,26-096,72,0,0,0,0,0,0,0,0,25,1,1,2,0.0,0.0,0.1,2,1,13,17,76.5,3,10,2,2,2,Dinamo Zagreb,2024-09-17 Bayern Munich-Dinamo Zagreb,UCL,24-25,7c5c2955
+688fcea2,Dario Špikić,77,CRO,RB,25-179,18,0,0,0,0,0,0,0,0,8,0,0,1,0.0,0.0,0.0,0,0,5,7,71.4,0,4,0,1,1,Dinamo Zagreb,2024-09-17 Bayern Munich-Dinamo Zagreb,UCL,24-25,7c5c2955
+cd4959d1,Ivan Nevistić,33,CRO,GK,26-048,90,0,0,0,0,0,0,0,0,50,0,0,0,0.0,0.0,0.0,0,0,27,39,69.2,0,32,0,0,0,Dinamo Zagreb,2024-09-17 Bayern Munich-Dinamo Zagreb,UCL,24-25,7c5c2955

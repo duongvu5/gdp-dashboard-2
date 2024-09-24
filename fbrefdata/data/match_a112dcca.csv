@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+15ab5a2b,Julián Álvarez,19,ARG,FW,24-232,62,0,0,0,0,2,0,0,0,17,2,0,0,0.2,0.2,0.0,2,0,10,13,76.9,0,9,0,0,0,Atlético Madrid,2024-09-19 Atlético Madrid-RB Leipzig,UCL,24-25,a112dcca
+e92cd3f7,Alexander Sørloth,9,NOR,FW,28-289,28,0,0,0,0,2,2,0,0,16,1,0,0,0.1,0.1,0.0,1,0,5,7,71.4,0,10,1,3,1,Atlético Madrid,2024-09-19 Atlético Madrid-RB Leipzig,UCL,24-25,a112dcca
+df69b544,Antoine Griezmann,7,FRA,AM,33-182,89,1,1,0,0,5,1,0,0,69,3,1,1,0.9,0.9,0.3,9,1,43,56,76.8,5,38,3,2,2,Atlético Madrid,2024-09-19 Atlético Madrid-RB Leipzig,UCL,24-25,a112dcca
+5dfc6ad5,Axel Witsel,20,BEL,AM,35-251,1,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,0,0,0,0,Atlético Madrid,2024-09-19 Atlético Madrid-RB Leipzig,UCL,24-25,a112dcca
+01eb744d,Ángel Correa,10,ARG,AM,29-194,65,0,0,0,0,5,0,0,0,32,0,0,0,0.2,0.2,0.4,5,1,16,22,72.7,3,21,5,1,1,Atlético Madrid,2024-09-19 Atlético Madrid-RB Leipzig,UCL,24-25,a112dcca
+23610943,Nahuel Molina,16,ARG,AM,26-166,25,0,0,0,0,0,0,0,0,29,1,0,0,0.0,0.0,0.1,1,0,18,27,66.7,2,21,1,0,0,Atlético Madrid,2024-09-19 Atlético Madrid-RB Leipzig,UCL,24-25,a112dcca
+55126f3b,Koke,6,ESP,CM,32-255,90,0,0,0,0,0,0,0,0,72,3,0,3,0.0,0.0,0.0,1,0,60,66,90.9,6,54,0,0,0,Atlético Madrid,2024-09-19 Atlético Madrid-RB Leipzig,UCL,24-25,a112dcca
+162efffd,Rodrigo De Paul,5,ARG,CM,30-118,62,0,0,0,0,0,0,1,0,50,1,0,2,0.0,0.0,0.1,6,0,31,43,72.1,6,37,3,3,1,Atlético Madrid,2024-09-19 Atlético Madrid-RB Leipzig,UCL,24-25,a112dcca
+c2731c10,Conor Gallagher,4,ENG,CM,24-226,28,0,0,0,0,0,0,0,0,26,1,0,2,0.0,0.0,0.0,0,0,21,23,91.3,2,10,0,0,0,Atlético Madrid,2024-09-19 Atlético Madrid-RB Leipzig,UCL,24-25,a112dcca
+65154df0,Rodrigo Riquelme,17,ESP,WB,24-170,61,0,0,0,0,1,0,0,0,43,1,0,1,0.0,0.0,0.2,4,0,29,37,78.4,2,30,3,0,0,Atlético Madrid,2024-09-19 Atlético Madrid-RB Leipzig,UCL,24-25,a112dcca
+2a295d33,Samuel Lino,12,BRA,WB,24-271,29,0,0,0,0,1,0,0,0,21,1,0,0,0.1,0.1,0.0,1,0,14,16,87.5,2,14,0,2,1,Atlético Madrid,2024-09-19 Atlético Madrid-RB Leipzig,UCL,24-25,a112dcca
+02c15616,Marcos Llorente,14,ESP,WB,29-233,90,0,1,0,0,2,0,0,0,61,0,2,1,0.1,0.1,0.5,6,1,39,50,78.0,6,36,7,2,0,Atlético Madrid,2024-09-19 Atlético Madrid-RB Leipzig,UCL,24-25,a112dcca
+c20bdcd7,Reinildo Mandava,23,MOZ,CB,30-242,90,0,0,0,0,0,0,0,0,86,5,1,0,0.0,0.0,0.0,0,0,75,80,93.8,6,54,2,0,0,Atlético Madrid,2024-09-19 Atlético Madrid-RB Leipzig,UCL,24-25,a112dcca
+f0da930c,José María Giménez,2,URU,CB,29-243,90,1,0,0,0,2,1,1,0,101,1,0,0,0.1,0.1,0.0,0,0,81,89,91.0,6,66,0,0,0,Atlético Madrid,2024-09-19 Atlético Madrid-RB Leipzig,UCL,24-25,a112dcca
+9a64e67e,Robin Le Normand,24,ESP,CB,27-313,90,0,0,0,0,1,0,1,0,56,1,0,1,0.0,0.0,0.0,1,1,45,51,88.2,3,40,0,0,0,Atlético Madrid,2024-09-19 Atlético Madrid-RB Leipzig,UCL,24-25,a112dcca
+ee8508c0,Jan Oblak,13,SVN,GK,31-256,90,0,0,0,0,0,0,0,0,20,0,0,0,0.0,0.0,0.0,0,0,16,18,88.9,0,14,0,0,0,Atlético Madrid,2024-09-19 Atlético Madrid-RB Leipzig,UCL,24-25,a112dcca
+3260690c,Benjamin Šeško,30,SVN,FW,21-111,69,1,0,0,0,2,1,0,0,16,0,0,1,0.3,0.3,0.0,0,0,5,9,55.6,0,10,1,0,0,RB Leipzig,2024-09-19 Atlético Madrid-RB Leipzig,UCL,24-25,a112dcca
+d2416c2e,Yussuf Poulsen,9,DEN,FW,30-096,21,0,0,0,0,1,0,0,0,8,0,0,0,0.1,0.1,0.1,1,0,1,4,25.0,0,1,0,0,0,RB Leipzig,2024-09-19 Atlético Madrid-RB Leipzig,UCL,24-25,a112dcca
+8652a85c,Loïs Openda,11,BEL,FW,24-216,90,0,0,0,0,1,1,1,0,24,0,1,1,0.2,0.2,0.0,1,1,11,16,68.8,2,8,1,3,0,RB Leipzig,2024-09-19 Atlético Madrid-RB Leipzig,UCL,24-25,a112dcca
+da4d670f,Xavi Simons,10,NED,LM,21-151,82,0,0,0,0,2,0,0,0,53,0,1,1,0.1,0.1,0.0,2,0,29,41,70.7,5,24,1,4,0,RB Leipzig,2024-09-19 Atlético Madrid-RB Leipzig,UCL,24-25,a112dcca
+cf007308,Elif Elmas,6,MKD,LM,24-361,8,0,0,0,0,0,0,0,0,5,1,0,0,0.0,0.0,0.0,0,0,4,4,100.0,1,2,0,0,0,RB Leipzig,2024-09-19 Atlético Madrid-RB Leipzig,UCL,24-25,a112dcca
+722494dc,Arthur Vermeeren,18,BEL,CM,19-225,59,0,0,0,0,0,0,0,0,42,1,1,2,0.0,0.0,0.0,0,0,30,35,85.7,1,15,0,0,0,RB Leipzig,2024-09-19 Atlético Madrid-RB Leipzig,UCL,24-25,a112dcca
+28c6e925,Nicolas Seiwald,13,AUT,CM,23-138,31,0,0,0,0,0,0,0,0,21,1,1,0,0.0,0.0,0.0,0,0,18,19,94.7,1,11,0,0,0,RB Leipzig,2024-09-19 Atlético Madrid-RB Leipzig,UCL,24-25,a112dcca
+92432bc6,Amadou Haidara,8,MLI,CM,26-232,90,0,0,0,0,0,0,0,0,65,1,3,4,0.0,0.0,0.0,3,0,41,54,75.9,4,21,0,0,0,RB Leipzig,2024-09-19 Atlético Madrid-RB Leipzig,UCL,24-25,a112dcca
+4ab12002,Antonio Nusa,7,NOR,RM,19-155,45,0,0,0,0,0,0,0,0,12,0,0,0,0.0,0.0,0.0,0,0,4,9,44.4,1,7,0,1,0,RB Leipzig,2024-09-19 Atlético Madrid-RB Leipzig,UCL,24-25,a112dcca
+437f2b00,Christoph Baumgartner,14,AUT,RM,25-049,45,0,0,0,0,0,0,1,0,24,1,0,0,0.0,0.0,0.0,1,0,14,17,82.4,2,12,1,0,0,RB Leipzig,2024-09-19 Atlético Madrid-RB Leipzig,UCL,24-25,a112dcca
+7d450ed3,David Raum,22,GER,LB,26-150,90,0,0,0,0,0,0,0,0,66,3,2,1,0.0,0.0,0.1,3,0,46,57,80.7,2,25,2,1,1,RB Leipzig,2024-09-19 Atlético Madrid-RB Leipzig,UCL,24-25,a112dcca
+5b9512c5,Castello Lukeba,23,FRA,CB,21-277,90,0,0,0,0,0,0,1,0,102,1,0,4,0.0,0.0,0.0,1,0,82,89,92.1,1,60,2,0,0,RB Leipzig,2024-09-19 Atlético Madrid-RB Leipzig,UCL,24-25,a112dcca
+20030c06,Willi Orban,4,HUN,CB,31-321,90,0,0,0,0,0,0,0,0,91,0,0,3,0.0,0.0,0.0,0,0,76,83,91.6,1,59,1,0,0,RB Leipzig,2024-09-19 Atlético Madrid-RB Leipzig,UCL,24-25,a112dcca
+0a89e877,Benjamin Henrichs,39,GER,RB,27-209,69,0,0,0,0,1,1,1,0,49,1,1,2,0.1,0.1,0.0,0,0,37,42,88.1,3,19,0,1,0,RB Leipzig,2024-09-19 Atlético Madrid-RB Leipzig,UCL,24-25,a112dcca
+242e1043,Lutsharel Geertruida,3,NED,"RB,FW",24-063,21,0,0,0,0,0,0,0,0,16,0,0,0,0.0,0.0,0.0,0,0,12,14,85.7,0,6,1,0,0,RB Leipzig,2024-09-19 Atlético Madrid-RB Leipzig,UCL,24-25,a112dcca
+bcb2ccd8,Péter Gulácsi,1,HUN,GK,34-136,90,0,0,0,0,0,0,0,0,67,0,0,0,0.0,0.0,0.0,0,0,62,66,93.9,0,45,0,0,0,RB Leipzig,2024-09-19 Atlético Madrid-RB Leipzig,UCL,24-25,a112dcca
