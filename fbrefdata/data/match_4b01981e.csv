@@ -1,0 +1,34 @@
+id,Player,#,Nation,Pos,Age,Min,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,team,game,league,season,game_id
+,,,,,,,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,,,,,
+f553b2b3,Jørgen Strand Larsen,9,NOR,FW,24-222,85,0,1,0,0,2,1,0,0,21,0,0,1,0.2,0.2,0.4,1,1,4,14,28.6,0,11,1,0,0,Wolverhampton Wanderers,2024-09-15 Wolves-Newcastle Utd,ENG-EPL,24-25,4b01981e
+e6bc67d7,Gonçalo Guedes,29,POR,FW,27-291,5,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,3,0,0,0,Wolverhampton Wanderers,2024-09-15 Wolves-Newcastle Utd,ENG-EPL,24-25,4b01981e
+dc62b55d,Matheus Cunha,10,BRA,"RM,FW",25-111,90,0,0,0,0,4,2,0,0,47,1,1,0,0.2,0.2,0.0,3,1,19,31,61.3,3,24,2,6,3,Wolverhampton Wanderers,2024-09-15 Wolves-Newcastle Utd,ENG-EPL,24-25,4b01981e
+10f0fdd3,Jean-Ricner Bellegarde,27,FRA,LM,26-080,70,0,0,0,0,1,0,0,0,28,2,3,0,0.1,0.1,0.0,3,0,15,18,83.3,0,19,2,4,1,Wolverhampton Wanderers,2024-09-15 Wolves-Newcastle Utd,ENG-EPL,24-25,4b01981e
+169fd162,Hwang Hee-chan,11,KOR,LM,28-233,20,0,0,0,0,0,0,0,0,9,0,0,1,0.0,0.0,0.0,0,0,8,8,100.0,0,6,0,0,0,Wolverhampton Wanderers,2024-09-15 Wolves-Newcastle Utd,ENG-EPL,24-25,4b01981e
+8b57ad2c,João Gomes,8,BRA,CM,23-216,90,0,0,0,0,1,0,0,0,60,5,0,1,0.1,0.1,0.0,1,0,50,54,92.6,3,38,2,0,0,Wolverhampton Wanderers,2024-09-15 Wolves-Newcastle Utd,ENG-EPL,24-25,4b01981e
+ec604e2c,André,7,BRA,CM,23-061,76,0,0,0,0,0,0,1,0,44,2,0,2,0.0,0.0,0.1,2,0,40,40,100.0,3,36,0,1,1,Wolverhampton Wanderers,2024-09-15 Wolves-Newcastle Utd,ENG-EPL,24-25,4b01981e
+5526deb1,Tommy Doyle,20,ENG,CM,22-334,14,0,0,0,0,0,0,0,0,20,0,0,0,0.0,0.0,0.0,0,0,18,20,90.0,4,14,0,0,0,Wolverhampton Wanderers,2024-09-15 Wolves-Newcastle Utd,ENG-EPL,24-25,4b01981e
+2b471f99,Mario Lemina,5,GAB,"FW,RM,LB",31-014,90,1,0,0,0,2,1,0,0,44,1,2,0,0.6,0.6,0.2,5,0,31,37,83.8,5,22,1,2,2,Wolverhampton Wanderers,2024-09-15 Wolves-Newcastle Utd,ENG-EPL,24-25,4b01981e
+9b398aea,Rayan Aït-Nouri,3,ALG,LB,23-101,85,0,0,0,0,0,0,1,0,60,2,1,1,0.0,0.0,0.0,0,0,41,49,83.7,3,29,2,4,4,Wolverhampton Wanderers,2024-09-15 Wolves-Newcastle Utd,ENG-EPL,24-25,4b01981e
+8a310070,Carlos Forbs,26,POR,"RM,LB",20-180,5,0,0,0,0,0,0,0,0,11,1,0,0,0.0,0.0,0.0,1,0,4,10,40.0,1,9,0,1,1,Wolverhampton Wanderers,2024-09-15 Wolves-Newcastle Utd,ENG-EPL,24-25,4b01981e
+3e9e06cb,Craig Dawson,15,ENG,CB,34-132,90,0,0,0,0,0,0,0,0,64,0,0,3,0.0,0.0,0.0,1,0,46,58,79.3,2,36,1,0,0,Wolverhampton Wanderers,2024-09-15 Wolves-Newcastle Utd,ENG-EPL,24-25,4b01981e
+1e159d70,Yerson Mosquera,14,COL,CB,23-136,90,0,0,0,0,1,0,0,0,71,5,3,3,0.1,0.1,0.0,2,0,46,56,82.1,3,34,0,0,0,Wolverhampton Wanderers,2024-09-15 Wolves-Newcastle Utd,ENG-EPL,24-25,4b01981e
+d04b94db,Nélson Semedo,22,POR,RB,30-304,76,0,0,0,0,1,1,1,0,36,3,0,0,0.0,0.0,0.1,4,0,23,25,92.0,2,22,2,5,3,Wolverhampton Wanderers,2024-09-15 Wolves-Newcastle Utd,ENG-EPL,24-25,4b01981e
+d557d734,Matt Doherty,2,IRL,RB,32-243,14,0,0,0,0,0,0,0,0,14,1,0,0,0.0,0.0,0.0,0,0,9,13,69.2,2,6,0,0,0,Wolverhampton Wanderers,2024-09-15 Wolves-Newcastle Utd,ENG-EPL,24-25,4b01981e
+9e5708be,Sam Johnstone,31,ENG,GK,31-174,90,0,0,0,0,0,0,0,0,50,0,0,0,0.0,0.0,0.0,1,0,33,47,70.2,0,32,0,0,0,Wolverhampton Wanderers,2024-09-15 Wolves-Newcastle Utd,ENG-EPL,24-25,4b01981e
+8e92be30,Alexander Isak,14,SWE,FW,24-360,45,0,0,0,0,1,0,0,0,18,0,0,1,0.1,0.1,0.1,1,0,9,12,75.0,1,12,1,1,0,Newcastle United,2024-09-15 Wolves-Newcastle Utd,ENG-EPL,24-25,4b01981e
+3ea50f67,Harvey Barnes,11,ENG,LW,26-281,45,1,0,0,0,3,1,0,0,23,0,0,0,0.5,0.5,0.4,5,1,12,16,75.0,4,17,5,3,2,Newcastle United,2024-09-15 Wolves-Newcastle Utd,ENG-EPL,24-25,4b01981e
+2bd83368,Anthony Gordon,10,ENG,"FW,LW",23-204,90,0,0,0,0,2,0,0,0,49,0,1,2,0.2,0.2,0.1,4,0,33,35,94.3,0,43,3,8,5,Newcastle United,2024-09-15 Wolves-Newcastle Utd,ENG-EPL,24-25,4b01981e
+de112b84,Jacob Murphy,23,ENG,RW,29-204,90,0,0,0,0,1,1,1,0,36,0,0,2,0.1,0.1,0.0,3,0,20,30,66.7,5,25,4,1,0,Newcastle United,2024-09-15 Wolves-Newcastle Utd,ENG-EPL,24-25,4b01981e
+c17bfb65,Joelinton,7,BRA,LM,28-032,45,0,0,0,0,0,0,1,0,35,2,1,0,0.0,0.0,0.0,1,0,26,30,86.7,4,22,0,1,0,Newcastle United,2024-09-15 Wolves-Newcastle Utd,ENG-EPL,24-25,4b01981e
+a3b03921,Joe Willock,28,ENG,"LM,CM",25-026,45,0,1,0,0,1,0,0,0,20,2,0,0,0.1,0.1,0.6,8,2,12,14,85.7,4,14,5,3,1,Newcastle United,2024-09-15 Wolves-Newcastle Utd,ENG-EPL,24-25,4b01981e
+82518f62,Bruno Guimarães,39,BRA,CM,26-304,86,0,1,0,0,1,1,0,0,46,0,0,1,0.0,0.0,0.0,2,1,34,39,87.2,5,35,2,2,2,Newcastle United,2024-09-15 Wolves-Newcastle Utd,ENG-EPL,24-25,4b01981e
+f31def1e,Lloyd Kelly,25,ENG,CB,25-345,4,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,3,4,75.0,1,3,0,0,0,Newcastle United,2024-09-15 Wolves-Newcastle Utd,ENG-EPL,24-25,4b01981e
+a2b105e0,Sean Longstaff,36,ENG,RM,26-321,45,0,0,0,0,0,0,0,0,22,0,0,1,0.0,0.0,0.0,0,0,19,21,90.5,3,14,0,0,0,Newcastle United,2024-09-15 Wolves-Newcastle Utd,ENG-EPL,24-25,4b01981e
+0db169ae,Sandro Tonali,8,ITA,"RM,CM",24-130,45,0,0,0,0,2,2,0,0,22,1,2,0,0.4,0.4,0.0,1,0,15,16,93.8,4,14,0,1,0,Newcastle United,2024-09-15 Wolves-Newcastle Utd,ENG-EPL,24-25,4b01981e
+da011f18,Lewis Hall,20,ENG,"LB,LM",20-007,90,0,0,0,0,0,0,0,0,99,2,0,1,0.0,0.0,0.1,1,0,81,91,89.0,13,68,5,2,2,Newcastle United,2024-09-15 Wolves-Newcastle Utd,ENG-EPL,24-25,4b01981e
+b2d31e83,Dan Burn,33,ENG,CB,32-129,90,0,0,0,0,1,0,1,0,78,2,0,0,0.0,0.0,0.0,1,0,68,70,97.1,0,49,0,0,0,Newcastle United,2024-09-15 Wolves-Newcastle Utd,ENG-EPL,24-25,4b01981e
+c8aa95da,Fabian Schär,5,SUI,CB,32-270,90,1,0,0,0,2,1,0,0,64,0,1,0,0.1,0.1,0.0,0,0,43,51,84.3,2,40,0,0,0,Newcastle United,2024-09-15 Wolves-Newcastle Utd,ENG-EPL,24-25,4b01981e
+afed6722,Valentino Livramento,21,ENG,RB,21-308,63,0,0,0,0,0,0,0,0,33,5,0,2,0.0,0.0,0.0,0,0,22,24,91.7,0,13,0,0,0,Newcastle United,2024-09-15 Wolves-Newcastle Utd,ENG-EPL,24-25,4b01981e
+21512407,Kieran Trippier,2,ENG,"RB,RM",33-362,27,0,0,0,0,0,0,0,0,19,0,0,0,0.0,0.0,0.0,0,0,13,18,72.2,1,8,1,0,0,Newcastle United,2024-09-15 Wolves-Newcastle Utd,ENG-EPL,24-25,4b01981e
+4b40d9ca,Nick Pope,22,ENG,GK,32-149,90,0,0,0,0,0,0,0,0,39,0,0,0,0.0,0.0,0.0,0,0,24,34,70.6,0,21,0,0,0,Newcastle United,2024-09-15 Wolves-Newcastle Utd,ENG-EPL,24-25,4b01981e
